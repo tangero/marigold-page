@@ -6,9 +6,26 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   <div>
-    <p class="author_title">{{site.author}}  ·  {{ page.date | datum: "%j.%n.%Y" }}</p>
+    <p class="author_title">{{site.author}}  ·
+{% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d." }}
+{% case m %}
+  {% when '1' %}leden
+  {% when '2' %}únor
+  {% when '3' %}březen
+  {% when '4' %}duben
+  {% when '5' %}květen
+  {% when '6' %}červen
+  {% when '7' %}červenec
+  {% when '8' %}srpen
+  {% when '9' %}září
+  {% when '10' %}říjen
+  {% when '11' %}listopad
+  {% when '12' %}prosinec
+{% endcase %}
+{{ page.date | date: "%Y" }}</p>
     {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Aktualizováno: {{ page.last_modified_at | date: "%j.%n.%Y" }})</p>
+    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Aktualizováno: {{ page.last_modified_at | date: "%-d.%-m.%Y" }})</p>
     {% endif %}
     <div class="post-tags">
       {% if post %}
