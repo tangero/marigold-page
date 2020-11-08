@@ -16,7 +16,7 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení.</a>
     </article>
   {% endfor %}
 
@@ -24,9 +24,9 @@ layout: default
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Předchozí</a>
     {% else %}
-      <span>&laquo; Prev</span>
+      <span>&laquo; Předchozí</span>
     {% endif %}
 
     {% for page in (1..paginator.total_pages) %}
@@ -40,9 +40,9 @@ layout: default
     {% endfor %}
 
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Další &raquo;</a>
     {% else %}
-      <span>Next &raquo;</span>
+      <span>Další &raquo;</span>
     {% endif %}
   </div>
   {% endif %}
