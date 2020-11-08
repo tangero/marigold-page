@@ -1,29 +1,23 @@
 ---
 layout: page
-title: About
+title: O projektu
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+K čemu je web Jak na zastupitelstvo? Měl by vám pomoci "proniknout do tajů lokální politiky" - tedy zorientovat se v tom, co a jak ve vaší obci funguje. Obecní zastupitelstvo je vlastně poměrně jednoduchý orgán a měli byste se rychle zorientovat. Jistě byste toho dosáhli i bez pomoci těchto stránek, jen by vás to stálo více času.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Jmenuji se Patrick Zandl. Pokuste se mne brát jako nestranného pozorovatele. Snažím se do textů promítat zkušenosti moje a mých přátel ze zastupitelstev obcí. Sám jsem opozičním zastupitelem v dvacetitisícovém městečku Brandýs - Boleslav ve Středočeském kraji za Českou Pirátskou Stranu. Snažím se ale do textů "velkou politiku" nemíchat, už proto, že obecní zastupitelstva jsou jí poněkud vzdálena. Prakticky nikdy nebudete v obci hlasovat o vztahu k Izraeli, na druhou stranu řešení otázek školství tu jsou častá, protože obce jsou zřizovatelem základních škol.  
 
-## Features
+V textech se snažím spíše o pochopitelnost a čtivost, než naprostou přesnost. Naprosto přesné bývají úřední dokumenty, ty ale zase nabývají čitelné bez značné znalosti úředního jazyka. Je to něco za něco. Upřímně se vám ale snažím nelhat a pokud nějakou informaci považujete za nedostatečnou, můžete se mi ozvat a doplnit ji.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Články budou postupně přibývat podle toho, co se mi bude zdát užitečné.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+## Co se na tomto webu dozvíte
+
+- proč vůbec chodit na zastupitelstvo, i když nejste zastupitel
+- základní organizační struktura obce a samosprávy
+- jak dorazit na první zastupitelstvo
+- jak jsou zastupitelstva organizována, jak se tvoří jejich program
+
+
+Pokud se chcete dozvědět něco o mně,  [tady](https://cs.wikipedia.org/wiki/Patrick_Zandl) je moje heslo na Wikipedii, můj blog se jmenuje [Marigold.cz](https://www.marigold.cz) a na [Pirátské Wiki](https://stredocesky.pirati.cz/lide/patrick-zandl/) najdete můj profil. Co děláme v Brandýse-Boleslavi, najdete na [PiratiBrandys.cz](https://www.piratibrandys.cz).
