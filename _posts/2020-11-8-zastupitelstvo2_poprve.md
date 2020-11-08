@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vaše první zastupitelstvo: program zastupitelstva
+title: Vaše první zastupitelstvo - program zastupitelstva
 categories: [Začínáme, Program]
 excerpt: Jaké by měly být první vaše kroky na zastupitelstvu? Především si musíte zjistit, kdy se zastupitelstvo sejde a posléze se pořádně seznámit s programem schůze zastupitelstva a ten si pořádně analyzovat. O tom bude dnešní článek.
 ---
