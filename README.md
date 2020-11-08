@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="/images/patrick-mensi.png" alt="Patrick" width="200"/>
+  <img src="/images/patrick-mensi.jpg" alt="Patrick" width="200"/>
   <br>  
   <p align="center">
     <i>Můj osobní blog najdete na <a href="https://www.marigold.cz">Marigold.cz</a></i>
@@ -18,4 +18,4 @@ Možná na webu najdete chybku a chtěli byste ji opravit. Můžete to vložit j
 
 ## License
 
-GNU 3.0 čili k volnému použití. 
+GNU 3.0 čili k volnému použití.
