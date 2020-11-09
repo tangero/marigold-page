@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Typy zastupitelstev: pracovní, mimořádná a řádná
+title: Jak se správně navrhuje program zastupitelstva
 categories: [Program]
 excerpt: Návrh programu není žádná věda, pokud chce obec pracovat transparentně a poctivě. Může se jí ale stát, pokud je potřeba něco ututlat. Už jen forma, jakou se sestavuje program zasedání zastupitelstva, může o ledasčem napovídat. Zároveň je potřeba, aby sestavení programu proběhlo podle zákona a později nemohlo být zastupitelstvo zneplatněno kvůli formálním pochybením.  
 ---
@@ -31,4 +31,4 @@ Zákon také nestanoví, jakým způsobem se má projednávat program, zda je nu
 
 Je dobré také pamatovat na to, že jméno bodu v programu může být “neutralizováno”, pokud je předkládáno něco jako _“Projednání zlodějského převodu pozemků tý svině místostarosty”_, je zcela v pořádku, že na projednání se dostane jako bod programu _“Projednání převodu pozemků pana místostarosty”_.
 
-No a na závěr je dobré si připomenout, že to jsme teprve předložili bod ke schválení projednávání, v této chvíli se ještě o bodu nevede rozprava. Čili se řeší pouze to, zda se bod projednat má, či zda není vůbec projednání hoden, nikoliv jeho samotný obsah. 
+No a na závěr je dobré si připomenout, že to jsme teprve předložili bod ke schválení projednávání, v této chvíli se ještě o bodu nevede rozprava. Čili se řeší pouze to, zda se bod projednat má, či zda není vůbec projednání hoden, nikoliv jeho samotný obsah.
