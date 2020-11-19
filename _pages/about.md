@@ -24,3 +24,7 @@ V textech se snažím spíše o pochopitelnost a čtivost, než naprostou přesn
 
 
 Pokud se chcete dozvědět něco dalšího o mně,  [tady](https://cs.wikipedia.org/wiki/Patrick_Zandl) je moje heslo na Wikipedii, můj blog se jmenuje [Marigold.cz](https://www.marigold.cz) a na [Pirátské Wiki](https://stredocesky.pirati.cz/lide/patrick-zandl/) najdete můj profil. Co děláme v Brandýse-Boleslavi, najdete na [PiratiBrandys.cz](https://www.piratibrandys.cz).
+
+## Technické informace
+
+Web běží na GitHub Pages pod licencí GNU 3.0. Všechny texty tedy můžete využít při uvedení autora (Patrick Zandl, web Jak na zastupitelstvo). Pokud umíte pracovat s GitHubem, můžete také přímo přispět editací souborů nebo jejich přidáváním [zde na GitHub repository](https://github.com/tangero/zastupitelstvo/).
