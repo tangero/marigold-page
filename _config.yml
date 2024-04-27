@@ -21,7 +21,7 @@ avatar: /images/patrick-mensi.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: patrick.zandl@pirati.cz
+  email: patrick.zandl@marigold.cz
   facebook: patrick.zandl
   flickr:
   github:
@@ -52,7 +52,7 @@ enforce_ssl: https://www.jaknazastupitelstvo.cz
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/"
+baseurl: "/zastupitelstvo"
 
 #
 # !! You don't need to change any of the configuration flags below !!
