@@ -1,0 +1,44 @@
+---
+ID: 3931
+title: >
+  Oficiálně jsem členem České
+  pirátské strany
+author: Patrick Zandl
+post_excerpt: ""
+layout: post
+permalink: >
+  https://www.marigold.cz/item/oficialne-jsem-clenem-ceske-piratske-strany
+published: true
+post_date: 2018-03-18 18:58:55
+---
+V průběhu minulého týdne jsem se stal oficiálně členem Pirátské strany. Ale kvůli masakru v práci nebyl čas, takže pár postřehů a FAQ až nyní.
+
+<!--more-->
+
+Samotný proces vstupu k Pirátům byl v pohodě, zajímavá byla odezva. Dostal jsem několik desítek emailů a zpráv, co si to dovoluju, jaká jsem prospěchářská svině atd. Všechny od lidí, které neznám a myslím, že jsem s nimi ani v životě nemluvil. Je poněkud zarážející, že jako prospěchářskou, korupční svini vás ohodnotí člověk, se kterým jste nikdy neměli nic do činění. Jistě tenhle přístup zvyšuje ochotu nekorupčních nesviní angažovat se v politice.
+
+Pak už to byly takové menší skupinky lidí, například mi lidi fandí, že půjdu do senátních voleb. Nejdu, stavíme komunální kandidátku, do senátních voleb je třeba jít se značnou zkušeností.
+
+Někdo se mě ptal, zda to zase není nějaká reality show, kterou natáčíme s <a class="profileLink" href="https://www.facebook.com/noisebrothers?fref=mentions" data-hovercard="/ajax/hovercard/user.php?id=573703078&amp;extragetparams=%7B%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1">Janek Rubes</a>. Není, ale není to špatný nápad, jestli chcete udělat časosběrný dokument "Jak Piráti v Brandobouli XY volby" (a jste schopni v postprodukci XY nahradit podle říjnového výsledku), tak se to dá uvážit <span class="_47e3 _5mfr" title="Emotikona smile"><img class="img" role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f4c/1/16/1f642.png" alt="" width="16" height="16" /><span class="_7oe" aria-hidden="true">:)</span></span>
+
+Většina reakcí je, jestli si uvědomuju, že Piráti "něco", kde to "něco" je, že podporují špatný zákon, mají špatného člověka atd. Uvědomuju. Uvědomuju si celou šíři toho problému. Tak se u něj na chvíli zastavím (a platí myslím pro většinu stran, ne jen piráty).
+
+Tak za prvé, v každé politické straně jsou divní lidé, jenže pro každého je divný někdo jiný. Kromě toho v demokratických stranách je těžké se těch opravdu divných legitimně a plnohodnotně zbavit. Přesvědčuji se o tom například v TOP09. Problém divných lidí je nutné řešit už při přijímání nových členů, proto je k Pirátům, kteří jdou v poslední době nahoru, přijímání nových lidí zdlouhavé. Strana si zjevně uvědomuje, že divné lidi nepotřebuje. Kdybych s Piráty nespolupracoval dlouho před tím, počkal bych si asi déle, než těch pár měsíců.
+
+Se špatnými zákony a myšlenkami je to podobné. Každá strana bude prosazovat zákon, se kterým bych nesouhlasil, jenže pokud to není vysloveně protidemokratický zákon, není to pro mne stopka. Tak to prostě chodí - víc lidí, víc názorů a zákonů. Věc je přitom složitější, než jen zákon na papíře. Ty mají v Česku hodnotu jen toho papíru, na němž jsou psány a většinou záleží na tom, jaká je motivace aplikovat je. Řada transpozic eurounijního práva u nás zůstává jen papírovou verzí a v čem Česko tradičně selhává, je kontrola, vymáhání. Zákon, jehož aplikaci a vymáhání nekontrolujeme, je zbytečný a probuzerační, ať je jakýkoliv. Víte, že se v obci nesmí parkovat na městské zeleni? Všimli jste si, že tam všichni parkují? A že když to uděláte vy jako ne-místní, dostanete pokutu? To je příklad dobrého zákona s mizernou českou aplikací.
+
+Proto jsem osobně ostražitý ke všem zákonům, které přicházejí. Vždycky se ptám, jak to budeme kontrolovat, co to přinese postiženým i těm, které to má chránit, jaké budou náklady na kontrolu a provoz celého dotčeného ekosystému a jaké jsou dopady na ty ostatní. Méně státu je rozhodně dobré pirátské východisko, se kterým souhlasím.
+
+Na druhou stranu, já jsem řadový pirát, ne pirátský poslanec, mám malý vliv na legislativní proces i u pirátů. Snažím se zodpovědně vyjadřovat k návrhům, které se projednávají, ale taky jasně chápu, že podle mě se to neudělá. Je zbytečné psát mi, že piráti podporují nějaký podle vás nesmyslný zákon - já s tím nic neudělám a přijde mi hloupé, že to dotyčný nechápe. Napište svému poslanci a řešte to s ním. Krom toho se stále držím strategie nemluvit do zákonů, jimž nerozumím a poslední "skandál stran omezení advokátního tajemství" mi jen potvrzuje, že dělám dobře. Pokud jste se na něj chtěli zeptat, odpovím vám to samé - nerozumím tomu, ale když si přečtu pirátskou verzi a to, co o tom píše Šafr/Rozehnal, tak mi nepřijde, že by Piráti neměli pravdu a že by kontrola přes Advokátní komoru nebo omezení sdělovaných dat na totožnostní údaje nebylo dostatečné (a naopak P. Šafrovi zazlívám, že tohle taktně všude pomlčel). <a href="https://www.piratskelisty.cz/clanek-1883-sest-lzi-tomase-sokola-k-novele-danoveho-radu">Pirátské vysvětlení zde</a>.
+
+A další aspekt téhle věci: masivní mediaforming. Je tu celá řada novinářů-aktivistů, kteří dělají přes média politiku. To by v principu nebylo špatně, kdyby to přiznávali a kdyby neohýbali skutečnost. Na některé se to hází neprávem, ale dobrý příklad je Pavel Šafr a jeho Forum24. Ten se do Pirátů pouští pravidelně, pravidelně ale také vynechává jejich argumenty, jenom do nich kope. To je něco, co je mi krajně nesympatické a je to kontraproduktivní ve všech ohledech. Takhle před patnácti lety "školil" skrz MF Dnes politiky, kterým to bylo stejně protivné a takhle vznikl mezi politiky dojem "institutu pražské kavárny" - skupinky kopajících středo-pravo-levo-liberálních žvanilů, kteří ale ruku k dílu nepřiloží a žádnou zodpovědnost na sebe nevezmou. Politici se jim zavděčí jen tehdy, když dělají přesně to, co si tihle lidé umanou a protože to není jednolitá skupina, prokličkovat se mezi tím nedá. Je třeba si zvyknout, že když jste v politice, vždycky vás někdo kolem médií pomluví a napadne, ať byl úmysl jakýkoliv - většinou ale i ze směru, kde jste doufali cítit podporu. Proto si politici dnes vytvářejí vlastní média - kvůli novinářskému aktivismu se nemohou dočkat žádné mediální podpory jinde. A tohle kopání všemi do všech je jedním z důvodů dnešního stavu politiky v Česku. Jít do ní znamená značnou otrlost a už nyní si uvědomuju, že většinu času politik tráví tím, že odvrací výpady, nebo je prostě jen nasraný a na vlastní práci mu nezbývá čas. Stejně, jako si uvědomuju, že je snadné to všechno hodit na kopajícího novináře. A lavírovat mezi těmito extrémy je náročné.
+
+V takovém systému nelze dlouhodobě uspět sám - a to je moje odpověď na to, proč jsem si nezaložil vlastní stranu. Jasně vidím, že uspět se dá jen s určitou mašinérií, která se buďto dlouho buduje na dobrovolnické bázi (jako Piráti), nebo je nesmírně drahá (jako Ano). Považuji za rozumnější přiložit ruku k dílu ve straně, která existuje a je mi blízká, než zakládat další stranu, která zapadne do nevýznamnosti, protože nebude mít šanci vyvážit poměr sebepresentace a skutečné práce kvůli nedostatku akceschopného ansámblu.
+
+A tomuhle já věřím hodně: dnes je důležitější spolupráce, než genialita. Součet pracovního výkonu spolupracujících lidí je větší, než sebegeniálnějšího nekolaborativního člověka. Od politika nečekáme, že bude geniální, ale že bude schopný spolupracovat a nasdílet vizi. Vůbec mi nevadí na Babišovi, že jeho knihu "O čem sním" mu napsal tým lidí. Kdo by mu ji proboha měl psát, tlupa psů? Co mi vadí je, že to není skutečná myšlenka, za kterou by šel, že je to jen reklamní leták. Vadí mi, že to není vize, kterou prosazuje a kdy se u každého svého počinu ptá, jak mu to pomůže v naplnění téhle vize. A že je tak velký egoista, že má problémy strpět vedle sebe další chytré lidi na rovnocenném partnerském principu, aby se vize dala budovat. Být součástí takové skupiny lidí, kteří mají vizi a pracují na ní společně, je důležité a je to podle mě dnes jediná šance věci měnit k lepšímu.
+
+V říjnu půjdeme do komunálních voleb v Brandýse-Boleslavi. Stavíme dobrou kandidátku, máme nosný program. Víme, kde jsou problémy dvojměstí (a že jich je), máme lidi se zkušeností, jak tyhle problémy řešit. Vidíme vyčerpanost stávajících občanských sdružení ve vedení města a také víme, že bez návaznosti na krajskou a celorepublikovou politickou representaci se dále město nehne. Dobré je, že město není už ta "spálená země", co ještě nedávno a dobré taky je, že se ve městě dá hodně udělat proto, aby se život v něm zlepšoval. A pro mě je to chvíle, kdy člověk má o těch věcech přestat jen teoreticky pindat, udělovat knížecí rady a donekonečna čekat, až se zrodí ten pravý politický subjekt, kam ho povolají za předsedu, aby všechno napravil. Takže to jdeme udělat. Řekl bych, že po pankáčsku, ale spíš po pirátsku...
+
+PS: kdybyste nám někdo z okolí Brandoboule chtěli s kampaní pomoct, ozvěte se, neboť pravdu říká pirátská příručka pro komunální volby: "je klíčové zajistit dostatečné množství dobrovolníků a bývá to problematické".
+
+Hajhou
