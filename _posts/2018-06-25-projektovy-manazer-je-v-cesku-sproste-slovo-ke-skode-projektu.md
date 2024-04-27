@@ -1,8 +1,8 @@
 ---
 ID: 3952
-post_title: 'Projektový manažer je v&nbsp;Česku sprosté slovo &#8211; ke škodě projektů &#8230;'
+title: 'Projektový manažer je v&nbsp;Česku sprosté slovo &#8211; ke škodě projektů &#8230;'
 author: Patrick Zandl
-post_excerpt: "Projektový manažer je v Česku sprosté slovo. Většinou je to týpek, jenž tuhle funkci dostane formálně, například u software projektů je to jeden z vývojářů nebo majitel firmy."
+excerpt: "Projektový manažer je v Česku sprosté slovo. Většinou je to týpek, jenž tuhle funkci dostane formálně, například u software projektů je to jeden z vývojářů nebo majitel firmy."
 layout: post
 published: true
 post_date: 2018-06-25 14:00:21
