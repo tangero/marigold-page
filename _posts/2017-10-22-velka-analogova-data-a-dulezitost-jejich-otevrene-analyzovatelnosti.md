@@ -4,8 +4,6 @@ title: 'Velká analogová data a&nbsp;důležitost jejich otevřené analyzovate
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/velka-analogova-data-a-dulezitost-jejich-otevrene-analyzovatelnosti
 published: true
 post_date: 2017-10-22 20:41:31
 ---

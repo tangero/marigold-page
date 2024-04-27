@@ -4,8 +4,6 @@ title: Generační proměna
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/generacni-promena
 published: true
 post_date: 2017-11-08 08:27:37
 ---

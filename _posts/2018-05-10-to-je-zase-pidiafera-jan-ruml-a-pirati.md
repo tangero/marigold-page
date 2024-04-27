@@ -4,8 +4,7 @@ title: 'To je zase pidiaféra: Jan Ruml a&nbsp;Piráti'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/to-je-zase-pidiafera-jan-ruml-a-pirati
+
 published: true
 post_date: 2018-05-10 05:36:41
 ---

@@ -4,8 +4,6 @@ title: 'Kniha o&nbsp;mobilních sítích: vyhozeno, smazáno. K&nbsp;čemu taky 
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/kniha-o-mobilnich-sitich-vyhozeno-smazano-k-cemu-taky-takovych-knih
 published: true
 post_date: 2017-07-08 18:34:13
 ---

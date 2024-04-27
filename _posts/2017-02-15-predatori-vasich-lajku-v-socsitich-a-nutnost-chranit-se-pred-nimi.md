@@ -4,8 +4,6 @@ title: 'Predátoři vašich lajků v&nbsp;socsítích a&nbsp;nutnost chránit se
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/predatori-vasich-lajku-v-socsitich-a-nutnost-chranit-se-pred-nimi
 published: true
 post_date: 2017-02-15 10:16:40
 ---

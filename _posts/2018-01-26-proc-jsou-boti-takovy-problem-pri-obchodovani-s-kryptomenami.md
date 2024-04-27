@@ -4,8 +4,7 @@ title: 'Proč jsou boti takový problém při&nbsp;obchodování s&nbsp;kryptom�
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/proc-jsou-boti-takovy-problem-pri-obchodovani-s-kryptomenami
+
 published: true
 post_date: 2018-01-26 16:31:35
 ---

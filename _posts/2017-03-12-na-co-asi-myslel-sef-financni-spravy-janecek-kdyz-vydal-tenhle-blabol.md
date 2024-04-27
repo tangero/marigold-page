@@ -4,8 +4,6 @@ title: 'Na co asi myslel šéf Finanční správy Janeček, když vydal tenhle b
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/na-co-asi-myslel-sef-financni-spravy-janecek-kdyz-vydal-tenhle-blabol
 published: true
 post_date: 2017-03-12 21:55:41
 ---

@@ -4,8 +4,6 @@ title: Zemřela Petra Matušínová
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/zemrela-petra-matusinova
 published: true
 post_date: 2017-06-14 06:25:30
 ---

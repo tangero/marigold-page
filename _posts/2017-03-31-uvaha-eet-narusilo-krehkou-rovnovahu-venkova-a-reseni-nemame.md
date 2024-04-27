@@ -4,8 +4,6 @@ title: 'Úvaha: EET narušilo křehkou rovnováhu venkova a&nbsp;řešení nemá
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/uvaha-eet-narusilo-krehkou-rovnovahu-venkova-a-reseni-nemame
 published: true
 post_date: 2017-03-31 07:15:27
 ---

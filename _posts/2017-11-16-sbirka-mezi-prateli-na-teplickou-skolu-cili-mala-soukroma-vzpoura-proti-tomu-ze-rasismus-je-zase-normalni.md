@@ -8,8 +8,6 @@ title: >
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/sbirka-mezi-prateli-na-teplickou-skolu-cili-mala-soukroma-vzpoura-proti-tomu-ze-rasismus-je-zase-normalni
 published: true
 post_date: 2017-11-16 11:16:39
 ---

@@ -4,8 +4,6 @@ title: 'Po čistce zase v&nbsp;práci'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/po-cistce-zase-v-praci
 published: true
 post_date: 2017-01-28 11:06:02
 ---

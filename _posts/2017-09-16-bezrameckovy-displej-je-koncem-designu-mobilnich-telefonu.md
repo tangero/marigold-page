@@ -6,8 +6,6 @@ title: >
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/bezrameckovy-displej-je-koncem-designu-mobilnich-telefonu
 published: true
 post_date: 2017-09-16 17:27:37
 ---

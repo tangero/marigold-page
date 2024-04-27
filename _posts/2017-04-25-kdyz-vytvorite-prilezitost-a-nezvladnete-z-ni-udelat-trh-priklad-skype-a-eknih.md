@@ -4,8 +4,6 @@ title: 'Když vytvoříte příležitost a&nbsp;nezvládnete z&nbsp;ní udělat 
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/kdyz-vytvorite-prilezitost-a-nezvladnete-z-ni-udelat-trh-priklad-skype-a-eknih
 published: true
 post_date: 2017-04-25 07:52:54
 ---

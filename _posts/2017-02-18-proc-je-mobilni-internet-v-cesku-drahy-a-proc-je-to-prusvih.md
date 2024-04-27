@@ -4,8 +4,6 @@ title: 'Proč je mobilní internet v&nbsp;Česku drahý a&nbsp;proč je to prů�
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/proc-je-mobilni-internet-v-cesku-drahy-a-proc-je-to-prusvih
 published: true
 post_date: 2017-02-18 14:47:46
 ---

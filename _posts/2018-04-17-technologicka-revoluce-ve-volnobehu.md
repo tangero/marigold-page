@@ -4,8 +4,7 @@ title: Technologická revoluce ve volnoběhu
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/technologicka-revoluce-ve-volnobehu
+
 published: true
 post_date: 2018-04-17 08:06:48
 ---

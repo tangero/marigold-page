@@ -6,8 +6,6 @@ title: >
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana
 published: true
 post_date: 2018-01-14 22:25:38
 ---

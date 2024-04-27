@@ -4,8 +4,6 @@ title: Lekce ze stereotypů
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/lekce-ze-stereotypu
 published: true
 post_date: 2017-03-19 19:39:53
 ---

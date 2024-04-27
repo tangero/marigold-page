@@ -6,8 +6,6 @@ title: >
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/porad-je-tu-prostor-pro-dalsi-operacni-system
 published: true
 post_date: 2017-07-11 22:49:18
 ---

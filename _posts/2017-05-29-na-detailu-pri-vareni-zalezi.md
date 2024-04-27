@@ -4,8 +4,6 @@ title: 'Na detailu při&nbsp;vaření záleží'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/na-detailu-pri-vareni-zalezi
 published: true
 post_date: 2017-05-29 08:23:51
 ---

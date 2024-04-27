@@ -4,8 +4,6 @@ title: 'Turingův test a&nbsp;nelegální homosexualita'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/turinguv-test-a-nelegalni-homosexualita
 published: true
 post_date: 2017-11-24 09:13:43
 ---

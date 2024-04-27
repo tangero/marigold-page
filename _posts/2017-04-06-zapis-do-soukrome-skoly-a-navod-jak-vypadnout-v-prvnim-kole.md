@@ -4,8 +4,6 @@ title: 'Zápis do soukromé školy (a&nbsp;návod, jak vypadnout v&nbsp;prvním 
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/zapis-do-soukrome-skoly-a-navod-jak-vypadnout-v-prvnim-kole
 published: true
 post_date: 2017-04-06 08:56:49
 ---

@@ -4,8 +4,6 @@ title: 'Křišťálová Lupa 2017 a&nbsp;malá osobnostní ponaučení.'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/kristalova-lupa-2017-a-mala-osobnostni-ponauceni
 published: true
 post_date: 2017-12-04 16:17:32
 ---

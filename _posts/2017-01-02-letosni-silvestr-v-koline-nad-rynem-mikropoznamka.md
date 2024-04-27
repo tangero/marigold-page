@@ -4,8 +4,6 @@ title: 'Letošní Silvestr v&nbsp;Kolíně nad Rýnem (mikropoznámka)'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/letosni-silvestr-v-koline-nad-rynem-mikropoznamka
 published: true
 post_date: 2017-01-02 13:03:41
 ---

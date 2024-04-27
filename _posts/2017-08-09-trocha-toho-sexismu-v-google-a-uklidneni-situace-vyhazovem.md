@@ -4,8 +4,6 @@ title: 'Trocha toho sexismu v&nbsp;Google a&nbsp;uklidnění situace vyhazovem'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/trocha-toho-sexismu-v-google-a-uklidneni-situace-vyhazovem
 published: true
 post_date: 2017-08-09 14:40:18
 ---

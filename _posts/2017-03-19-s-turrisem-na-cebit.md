@@ -4,8 +4,6 @@ title: S Turrisem na CeBit
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/s-turrisem-na-cebit
 published: true
 post_date: 2017-03-19 16:09:20
 ---

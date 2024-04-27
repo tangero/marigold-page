@@ -4,8 +4,6 @@ title: 'Co to zase ta nána plácla o&nbsp;dětech a&nbsp;matkách? Čili lekce 
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/co-to-zase-ta-nana-placla-o-detech-a-matkach-cili-lekce-z-kontextu
 published: true
 post_date: 2017-04-27 17:10:02
 ---

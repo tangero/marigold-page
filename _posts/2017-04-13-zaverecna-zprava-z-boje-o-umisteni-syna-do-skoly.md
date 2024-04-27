@@ -4,8 +4,6 @@ title: 'Závěrečná zpráva z&nbsp;boje o&nbsp;umístění syna do školy'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/zaverecna-zprava-z-boje-o-umisteni-syna-do-skoly
 published: true
 post_date: 2017-04-13 10:05:49
 ---

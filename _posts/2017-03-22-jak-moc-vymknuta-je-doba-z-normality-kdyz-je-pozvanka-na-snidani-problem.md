@@ -4,8 +4,6 @@ title: 'Jak moc vymknutá je doba z&nbsp;normality, když je pozvánka na snída
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/jak-moc-vymknuta-je-doba-z-normality-kdyz-je-pozvanka-na-snidani-problem
 published: true
 post_date: 2017-03-22 18:04:54
 ---

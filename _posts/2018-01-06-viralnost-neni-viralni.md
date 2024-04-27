@@ -4,8 +4,6 @@ title: Virálnost není virální
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/viralnost-neni-viralni
 published: true
 post_date: 2018-01-06 08:11:59
 ---

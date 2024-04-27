@@ -4,8 +4,6 @@ title: 'Přemýšlení o&nbsp;alternativním systému skončilo tradičně: iMac
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/premysleni-o-alternativnim-systemu-skoncilo-tradicne-imac
 published: true
 post_date: 2017-07-24 20:52:04
 ---

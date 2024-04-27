@@ -4,8 +4,6 @@ title: 'Proč nejsem politik? Taková mikroúvaha o&nbsp;tom, proč lidé nejdou
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/proc-nejsem-politik-takova-mikrouvaha-o-tom-proc-lide-nejdou-do-politiky
 published: true
 post_date: 2017-05-24 08:55:28
 ---

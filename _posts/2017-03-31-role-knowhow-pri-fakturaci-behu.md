@@ -4,8 +4,6 @@ title: 'Role knowhow při&nbsp;fakturaci běhu'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/role-knowhow-pri-fakturaci-behu
 published: true
 post_date: 2017-03-31 07:09:16
 ---

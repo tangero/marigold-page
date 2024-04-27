@@ -4,8 +4,6 @@ title: 'Umělointeligenční asistenti a&nbsp;pochybnosti nad existencí svobodn
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule
 published: true
 post_date: 2017-12-04 16:13:23
 ---

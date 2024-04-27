@@ -4,8 +4,6 @@ title: 'Moc-li je spokojen zarytý Applista s&nbsp;Androidím mobilem?'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/moc-li-je-spokojen-zaryty-applista-s-androidim-mobilem
 published: true
 post_date: 2017-04-20 09:50:12
 ---

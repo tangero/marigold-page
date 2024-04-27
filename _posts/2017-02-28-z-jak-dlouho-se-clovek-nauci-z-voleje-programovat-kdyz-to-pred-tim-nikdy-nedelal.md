@@ -4,8 +4,6 @@ title: 'Za jak dlouho se člověk naučí z&nbsp;voleje programovat, když to p�
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/z-jak-dlouho-se-clovek-nauci-z-voleje-programovat-kdyz-to-pred-tim-nikdy-nedelal
 published: true
 post_date: 2017-02-28 19:24:13
 ---

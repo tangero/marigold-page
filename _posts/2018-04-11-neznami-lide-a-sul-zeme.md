@@ -4,8 +4,7 @@ title: 'Neznámí lidé a&nbsp;sůl země'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/neznami-lide-a-sul-zeme
+
 published: true
 post_date: 2018-04-11 21:35:15
 ---

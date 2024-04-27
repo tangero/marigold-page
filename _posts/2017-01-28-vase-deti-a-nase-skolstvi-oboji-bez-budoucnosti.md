@@ -4,8 +4,6 @@ title: 'Vaše děti a&nbsp;naše školství: obojí bez budoucnosti'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/vase-deti-a-nase-skolstvi-oboji-bez-budoucnosti
 published: true
 post_date: 2017-01-28 11:05:49
 ---

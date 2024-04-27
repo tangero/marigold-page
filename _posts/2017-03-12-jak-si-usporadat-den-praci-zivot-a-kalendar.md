@@ -4,8 +4,6 @@ title: 'Jak si uspořádat den, práci, život a&nbsp;kalendář?'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/jak-si-usporadat-den-praci-zivot-a-kalendar
 published: true
 post_date: 2017-03-12 21:56:09
 ---

@@ -4,8 +4,6 @@ title: 'Blockchain v&nbsp;telekomunikacích: konec vlády mobilních operátorů
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/blockchain-v-telekomunikacich-konec-vlady-mobilnich-operatoru
 published: true
 post_date: 2017-11-05 21:15:49
 ---

@@ -4,8 +4,6 @@ title: '5G Jobs Offloading čili  mizení práce kvůli sítím 5G'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/5g-jobs-offloading-cili-mizeni-prace-kvuli-sitim-5g
 published: true
 post_date: 2017-11-13 22:23:35
 ---

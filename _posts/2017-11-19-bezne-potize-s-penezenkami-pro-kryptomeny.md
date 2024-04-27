@@ -4,8 +4,6 @@ title: 'Běžné potíže s&nbsp;peněženkami pro kryptoměny'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/bezne-potize-s-penezenkami-pro-kryptomeny
 published: true
 post_date: 2017-11-19 10:40:41
 ---

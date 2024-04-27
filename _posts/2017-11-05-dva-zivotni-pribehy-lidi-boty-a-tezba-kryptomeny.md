@@ -4,8 +4,6 @@ title: 'Dva životní příběhy lidí: boty a&nbsp;těžba kryptoměny'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/dva-zivotni-pribehy-lidi-boty-a-tezba-kryptomeny
 published: true
 post_date: 2017-11-05 21:08:27
 ---

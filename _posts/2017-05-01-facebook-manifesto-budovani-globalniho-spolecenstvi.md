@@ -4,8 +4,6 @@ title: 'Facebook Manifesto: Budování Globálního Společenství'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/facebook-manifesto-budovani-globalniho-spolecenstvi
 published: true
 post_date: 2017-05-01 20:34:53
 ---

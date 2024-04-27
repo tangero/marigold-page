@@ -6,8 +6,6 @@ title: >
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/politicka-korektnost-nebo-slusnost-je-rozumny-navrat
 published: true
 post_date: 2017-02-28 19:24:54
 ---

@@ -7,8 +7,6 @@ title: >
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/na-metoo-je-zajimave-kolik-lidi-se-tvari-jak-problematicke-je-poznat-obtezovani
 published: true
 post_date: 2017-12-21 08:55:01
 ---

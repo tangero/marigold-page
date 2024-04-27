@@ -4,8 +4,6 @@ title: Tajné ingredience rituálů pro děti
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/tajne-ingredience-ritualu-pro-deti
 published: true
 post_date: 2017-05-27 07:44:52
 ---

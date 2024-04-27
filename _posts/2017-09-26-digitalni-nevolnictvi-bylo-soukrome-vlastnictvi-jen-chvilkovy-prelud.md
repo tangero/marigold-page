@@ -4,8 +4,6 @@ title: 'Digitální nevolnictví: Bylo soukromé vlastnictví jen chvilkový př
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/digitalni-nevolnictvi-bylo-soukrome-vlastnictvi-jen-chvilkovy-prelud
 published: true
 post_date: 2017-09-26 15:04:32
 ---

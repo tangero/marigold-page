@@ -4,8 +4,6 @@ title: 'Bitcoin insideři, věrozvěstové a&nbsp;vlnaři'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/bitcoin-insideri-verozvestove-a-vlnari
 published: true
 post_date: 2017-12-21 08:48:16
 ---

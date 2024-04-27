@@ -4,8 +4,6 @@ title: 'Budoucnost sítí 5G záleží na olympiádě. A&nbsp;na pár dalších 
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/budoucnost-siti-5g-zalezi-na-olympiade-a-na-par-dalsich-drobnostech
 published: true
 post_date: 2017-01-04 14:16:02
 ---

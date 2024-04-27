@@ -4,8 +4,6 @@ title: 'K zákazu kouření: kde selhala samoregulace, udeřil stát'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/k-zakazu-koureni-kde-selhala-samoregulace-uderil-stat
 published: true
 post_date: 2017-06-05 07:21:29
 ---

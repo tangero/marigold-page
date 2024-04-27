@@ -4,8 +4,6 @@ title: 'Koho budu volit letos já a&nbsp;proč? Ty, co aspoň přemýšlejí i&n
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/koho-budu-volit-letos-ja-a-proc-ty-co-aspon-premysleji-i-vyzvach-budoucnosti-piraty
 published: true
 post_date: 2017-10-06 18:42:13
 ---

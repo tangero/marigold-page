@@ -6,8 +6,6 @@ title: >
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/k-cemu-technologicke-firmy-potrebuji-antropology
 published: true
 post_date: 2017-10-03 19:10:10
 ---

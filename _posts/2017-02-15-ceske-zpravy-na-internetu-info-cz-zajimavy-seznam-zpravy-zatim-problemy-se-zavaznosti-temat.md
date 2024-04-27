@@ -7,8 +7,6 @@ title: >
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/ceske-zpravy-na-internetu-info-cz-zajimavy-seznam-zpravy-zatim-problemy-se-zavaznosti-temat
 published: true
 post_date: 2017-02-15 10:14:31
 ---

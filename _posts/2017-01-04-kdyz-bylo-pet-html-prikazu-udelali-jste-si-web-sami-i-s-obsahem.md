@@ -4,8 +4,6 @@ title: 'Když bylo pět HTML příkazů, udělali jste si web sami i&nbsp;s&nbsp
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/kdyz-bylo-pet-html-prikazu-udelali-jste-si-web-sami-i-s-obsahem
 published: true
 post_date: 2017-01-04 11:25:58
 ---

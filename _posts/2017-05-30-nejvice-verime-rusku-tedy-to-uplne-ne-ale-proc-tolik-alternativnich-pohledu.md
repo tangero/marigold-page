@@ -4,8 +4,6 @@ title: 'Nejvíce věříme Rusku &#8230; tedy to úplně ne, ale proč tolik alt
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/nejvice-verime-rusku-tedy-to-uplne-ne-ale-proc-tolik-alternativnich-pohledu
 published: true
 post_date: 2017-05-30 13:13:19
 ---

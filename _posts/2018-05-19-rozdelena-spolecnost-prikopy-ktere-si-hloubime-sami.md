@@ -4,8 +4,6 @@ title: 'Rozdělená společnost: příkopy, které si hloubíme sami'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami
 published: true
 post_date: 2018-05-19 07:10:05
 ---

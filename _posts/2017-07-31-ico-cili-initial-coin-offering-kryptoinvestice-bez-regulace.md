@@ -6,8 +6,6 @@ title: >
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/ico-cili-initial-coin-offering-kryptoinvestice-bez-regulace
 published: true
 post_date: 2017-07-31 09:26:37
 ---

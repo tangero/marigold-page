@@ -4,8 +4,6 @@ title: 'Velká ponaučení z&nbsp;malého Babišova plakátu'
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/velka-ponauceni-z-maleho-babisova-plakatu
 published: true
 post_date: 2017-05-04 09:06:32
 ---

@@ -4,8 +4,6 @@ title: 'Negativní efekty moderních technologií: případ Big Data, Baracka Ob
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare
 published: true
 post_date: 2017-07-02 19:59:10
 ---

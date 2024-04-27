@@ -6,8 +6,6 @@ title: >
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
-permalink: >
-  https://www.marigold.cz/item/dneska-apple-potvrdi-ze-jsme-na-konci-intenzifikacniho-cyklu
 published: true
 post_date: 2017-06-05 07:58:53
 ---
