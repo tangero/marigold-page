@@ -9,7 +9,7 @@
 
 ---
 
-Jak na zastupitelsvo je Patrickův projekt, jehož úkolem je seznámit lidi s chodem místních zastuptelstev a vysvětlit jim, jak lokální politika funguje. Podívejte se na web [Jak na zastupitelstvo](https://www.jaknazastupitelstvo.cz)
+Marigold.cz je osobní blog Patricka Zandla věnovaný technologiím a jejich odrazu ve společnosti. 
 
 ## Chcete něco změnit?
 
@@ -37,4 +37,4 @@ Musím provést já (to je samozřejmé, jsem autor), takže jsem na veškeré n
 
 ## License
 
-GNU 3.0 čili k volnému použití při citaci autora (Patrick Zandl, Jak na zastupitelstvo).
+GNU 3.0 čili k volnému použití při citaci autora (Patrick Zandl, Marigold.cz
