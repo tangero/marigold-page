@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Strategie bydlení: k levnému se neprodaníme, musíme zpřehlednit a deregulovat
+title:  Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat
 categories: [Bydlení, Politika]
 excerpt: Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. Téma jsme pro vás zpracovali s pirátským kolegou Matoušem Vančou, vedoucím expertního týmu pro místní rozvoj a také středočeským kandidátem v do Poslanecké sněmovny. 
 ---
