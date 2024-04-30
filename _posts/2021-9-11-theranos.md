@@ -1,0 +1,41 @@
+---
+layout: post
+title:  Theranos a obžaloba Silicon Valley
+categories: [Startupy]
+excerpt: Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podnikatelského prostředí v Silicon Valley. Proč?
+---
+
+Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podnikatelského prostředí v Silicon Valley. Proč?
+
+V krátkosti si zrekapitulujme příběh firmy Theranos a její zakladatelky Elizabeth Holmesové. Holmesová studovala chemické inženýrství na Stanfordu a během svého působení tam podala svůj první patent (na pokročilou náplast na podávání léků). Poté zanechala studia těsně před druhým ročníkem. Firmu založila v roce 2003 jako devatenáctiletá, z peněz určených na studia na Stanfordu, který tím také nedokončila. Záměrem firmy bylo „demokratizovat medicínu“ vyvinutím přístroje, který umožní „z jediné kapky krve“ udělat všechny potřebné testy. Mělo být možné sledovat vývoje hodnot a tím i nemocí ještě před jejich propuknutím. 
+
+
+Byl by to geniální přístroj a firmu by čekala zářná budoucnost, mělo to jednu podstatnou vadu na kráse. Zařízení nikdy nefungovalo. Box o velikosti většího kufru se naučilo dělat pár testů, jenže těch jednodušší, ty náročnější se adaptovat nepodařilo. To se tak stává, ne všechno, co si startupy usmyslí, vyjde a škarohlídů, kteří říkali, že to nepůjde je vždycky dostatek. Vize a umanutost Holmsové byla ohromující natolik, že se dostala na titulní stranu Forbesu – jedenáct let po založení firmy, kdy společnost pracovala ve velkém utajení. Rok 2014 byl také vrcholem firmy. Pak už to šlo dolů. Objevily se vážné pochybnosti a [John Carreyrou](https://web.archive.org/web/20221209054544/https://en.wikipedia.org/wiki/John_Carreyrou) z Wall Street Journalu vydal první reportáž o tom, že může jít o podvod. Dobře vyargumentovanou a také čtenou. 
+
+
+V čem byla finta? V hesle „fake it, until you make it“ – česky bych řekl „podváděj, dokud to nedoděláš“. Je to zásada, kterou startupová komunita v Silicon Valley vyznává. Theranos technologii analýzy z kapky krve ve svém zařízení nikdy neměl. Ale aby mohl testy dodávat, prostě testy dělal v laboratoři na komerčních mašinách a tvářil se, je dělá na svém zařízení. Plus některé technologie neměl vůbec odladěné a jeho testy dávaly velmi nepoužitelné, náhodné výsledky. Proč to dělal? Aby mohl na trhu vypadat, jako že technologii má a mohl na ni lákat investory i odběratele, kteří s ním podepisovali smlouvy. Tak startupy fungují. 
+
+
+Řada měření narazila na hranice fyziky nebo medicíny a už od počátku sýčkovali výrobci laboratorní techniky, že to prostě nejde takhle změřit. Jenže to Holmesová odbyla jako nářek těch, co přijdou o kšefty. Typickým problémem bylo, že měřený jev se neprojevuje v kapce krve odebrané z prstu, musí se vzít z tepny podstatně více krve. Theranos se to pokusil obejít metodou, jakou používají moderní chytré váhy  ke změření podílu tuku v těle a na tom si to můžeme ukázat. Jak změří „chytrá váha“ podíl tuku ve vašem těle? Mám jednu takovou, od Whitings, stojí dvě tisícovky a to není cenová kategorie na medicínské zařízení. V popisku stojí, že změří odpor vašeho těla a tím změří podíl tuku a svalové hmoty. Jenže to není úplně přesné, protože odpor těla  váha sice změří, jenže ten neurčují jen dvě proměnné jako je tuk a svalová hmota, ale i kosti a další záležitosti. Takže váhy ve skutečnosti mají více či méně složitou převodní tabulku, ze které vyberou to, co nejlépe odpovídá naměřeným hodnotám. Čili nejde o měření, ale o nápovědu, která vůbec nemusí vycházet ze skutečnosti, protože ve skutečnosti chytrá váha nemá jak zjistit, kolik tuku v těle máte. Na informativní zařízení za pár stokorun je to dostatečné, ale na zařízení, které má dávat přesné výsledky, to nestačí. Jenže takové aproximativní postupy Theranos používal. A selhával – když se udělaly komparativní testy na komerčních technologiích, tak s jeho výsledky neseděly často významně. 
+
+
+A tím se dostáváme k jádru soudního procesu. Theranos fakticky zkolaboval, když se na machinace přišlo. V roce 2015 měla firma 800 zaměstnanců, v roce 2018 dvacítku a v září 2018 skončila úplně. Z někdejší hodnoty téměř deseti miliard dolarů nezůstalo prakticky nic. To už byla Holmesová spolu s někdejším prezidentem firmy Rameshem Balwanim obviněna z podvodu, jehož projednání se ale kvůli covidu táhlo a začalo až letos v srpnu. Podle obžaloby byli podvedeni investoři a lékaři a pacienti. Obžalovaní si údajně byli vědomi nespolehlivosti a nepřesnosti svých výrobků, ale tyto informace zatajili. V případě odsouzení hrozí každému z nich pokuta v maximální výši 250 000 dolarů a 20 let vězení.
+
+
+A proč je to soud nad Silicon Valley? Protože obhajoba Holmesové namítá, že firma nedělala nic jiného, než je u starutupů běžné. Snažila se překonat počáteční technologické těžkosti pomocí existujících technologií a především ladila obchodní model, což zní lépe, než vysvětlovat, že se snažila pomocí cizí techniky se tvářit, že její vlastní technika funguje, aby mohla takovým podvodem vylákat uzavření smluv s partnery. 
+
+
+Na druhou stranu žaloba namítá, že takhle to ani v americké medicíně nefunguje. Když lžete o testech, tak o nich prostě lžete a uvádíte pacienty i doktory do rizika. Není to jako riziková investice, kterou investor dělá vědomě – doktoři i pacienti počítali s tím, že mají v ruce reálné výsledky. A neměli. 
+
+
+S počátkem procesu se vyrojila celá řada článků, které hodnotí dopad kauzy Theranos na americkou startupovou kulturu. Z českého pohledu jde o neviditelný příběh, firma u nás nepodnikala a kdo nesledoval americké startupy, tomu celý příběh ušel, leda by si pustil film Vynálezkyně: z kapky krve, který celou historii výborně mapuje. 
+
+
+Za pozornost stojí třeba komentář The Guardian: ‘Selling a promise’: what Silicon Valley learned from the fall of Theranos. Kari Paul zde popisuje tehdejší obsesi Silicon Valley mladými zakladateli, jako byla právě Holmesová nebo Zuckerberg. A výsledek? Jak prohlásil investor Peter Thiel, „Chtěli jsme létající auta, dostali jsme 140 znaků…“ Holmesové přitom pomohlo,  že byla pohlednou ženou, která nabízela silný příběh, jak to mají investoři rádi. Nosila černý rolák jako Steve Jobs, mluvila hlubokým dojímavým a přesvědčivým hlasem. 
+
+
+O deset let později se prostředí startupů rozhodně změnilo. Odhalení jako skandál Cambridge Analytica narušilo důvěru ve velké technologické firmy. Zákonodárci a veřejnost stále častěji zpochybňují monopolní moc některých velkých technologických společností. Sociální platformy byly do značné míry obviňovány z vzestupu Donalda Trumpa a jeho ohromujícího vítězství ve volbách v roce 2016. A jsou spojovány s rozmachem populismu, konstatuje Kari Paul v The Guardianu. 
+
+
+Podobně situaci reflektuje Stanford Business ve článku [What Can We Learn from the Downfall of Theranos?](https://web.archive.org/web/20221209054544/https://www.gsb.stanford.edu/insights/what-can-we-learn-downfall-theranos)
+Nad rolí firemní kultury se zamýšlí [ve svém článku Dov Seidman](https://web.archive.org/web/20221209054544/https://medium.com/@DovSeidman/moral-lessons-from-a-silicon-valley-scandal-f372db29c6d). Toxická firemní kultura Theranosu dlouhou dobu bránila lidem vzepřít se tomu, že vědomě pracují na podvodu. Dnes jsou si firmy v Silicon Valley mnohem více vědomy etické zodpovědnosti a následků, které neetické jednání nese. 
