@@ -24,7 +24,7 @@ Jaké jsou výhody:
 
 Zjednodušeně řečeno Zásady srovnávají podmínky pro všechny developery. Doposud bylo zvykem, že v rámci tzv. Plánovací smlouvy se developeři zavazovali městu přispět na uhrazení infrastruktury, která souvisela s navýšením počtu obyvatel, jenže v každé smlouvě to bylo jinak. Bylo to stresující pro developery, neměli jasný rámec a bylo to tak, jak kdo co uhádal. A vypadalo to i pro-korupčně a dělalo to zlou krev ve městě. Nově jsou podmínky pro všechny stejné: zaplatíš, stavíš, nezaplatíš, nestavíš. To je snad vcelku pochopitelné.
 
-![Tabulka příspěvků na infrastrukturu](/_posts/zasady_tabulka.png "Tabulka 1: příspěvky na infrastrukturu")
+![Tabulka příspěvků na infrastrukturu](zasady_tabulka.png "Tabulka 1: příspěvky na infrastrukturu")
 
 ## Nač?
 
