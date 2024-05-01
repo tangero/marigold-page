@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Proč vlastně chodit na zastupitelstvo vaší obce?
-categories: [Začínáme]
+categories: [Jak na zastupitelstvo]
 excerpt: Proč byste se vůbec měli zajímat o to, jak probíhá vaše obecní zastupitelstvo? Proč na něj chodit? Protože tady vše začíná a váš zájem je to nejmenší a nejjednodušší, jak dát najevo, že na správném fungování vám záleží.
 ---
 

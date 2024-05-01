@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jak se správně navrhuje program zastupitelstva"
-categories: [Program]
+categories: [Jak na zastupitelstvo]
 excerpt: Návrh programu není žádná věda, pokud chce obec pracovat transparentně a poctivě. Může se jí ale stát, pokud je potřeba něco ututlat. Už jen forma, jakou se sestavuje program zasedání zastupitelstva, může o ledasčem napovídat. Zároveň je potřeba, aby sestavení programu proběhlo podle zákona a později nemohlo být zastupitelstvo zneplatněno kvůli formálním pochybením.  
 ---
 

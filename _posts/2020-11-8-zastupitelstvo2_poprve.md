@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vaše první zastupitelstvo - jak probíhá
-categories: [Začínáme, Program]
+categories: [Jak na zastupitelstvo]
 excerpt: Jaké by měly být první vaše kroky na zastupitelstvu? Především si musíte zjistit, kdy se zastupitelstvo sejde a posléze se pořádně seznámit s programem schůze zastupitelstva a ten si pořádně analyzovat. O tom bude dnešní článek.
 ---
 
