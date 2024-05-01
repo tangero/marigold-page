@@ -51,14 +51,12 @@ Dalšími faktory jsou probíhající změny a akvizice v elektronickém průmys
   
 Následkem výše uvedených bodů se firmy snaží předzásobit, do obchodů vstupují různí spekulanti a situace je pro všechny poněkud nepřehledná a stresující.
 
-###   
-Očekává se exekutivní příkaz amerického prezidenta Bidena
+###   Očekává se exekutivní příkaz amerického prezidenta Bidena
 
 Záležitost je tak naléhavá, že do ní vstoupil americký prezident Joe Biden, začátkem února, tedy jen krátce po uvedení do funkce. Po schůzce s šéfem Qualcommu, Corningu a dalších firem v oboru se na prezidenta oficiálně obrátila i americká Asociace polovodičového průmyslu zastupující třeba Intel, IBM nebo AMD s urgentním dopisem. Očekává se, že  [Biden v nejbližší době pověří exekutivním příkazem](https://www.cnbc.com/2021/02/18/biden-to-order-supply-chain-review-to-assess-us-reliance-on-overseas-semiconductors.html)  své týmy a průmysl, aby prověřili možnosti a našli cestu z nedostatku polovodičových součástek a dalšího kritického zboží.  
 I pokud se tak stane (a už je to vcelku jisté), situace se nezlepší před druhým pololetím letošního roku, velmi pravděpodobně do jeho konce. Stavba nových továren není hned, na druhou stranu restrukturalizace výroby procesorů s americkou podporou možná je. Do astronomických výšin již vyletěly ceny „bazarových“ výrobních linek určené pro sto-nanometrové mikroprocesorové technologie, jak se nejrůznější firmy snaží oživit alespoň ty starší technologie – na řadu procesorů to stačí, není třeba hned konkurovat nejlepším postupům TSMC.
 
-###   
-EU také bojuje za euro-čipy
+###   EU také bojuje za euro-čipy
 
 Také pro evropský průmysl má přístup k mikročipům klíčový význam. Evropská unie, povzbuzována firmami jako Volkswagen, uvažuje o podpoře výstavby špičkové mikroprocesorové továrny, která by disponovala výrobní technologií pod 10 nanometrů, tedy jednu z nejlepších dostupných technologií. Pomoct by jí s tím mohlo TSMC nebo Samsung, tedy firmy, které tuto výrobní technologii mají zvládnutou. Zatím ale není nic potvrzeno, ani formát eurounijní podpory, snad jen ty důvody, které jsou velmi podobné důvodům americkým.  
 V každém případě bude nedostatek mikroprocesorů letos značně komplikovat situaci výrobcům a tím i tlačit ceny nahoru. A situace nemá ani rychlé, ani jednoduché řešení.
