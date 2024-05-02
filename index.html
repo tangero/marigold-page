@@ -15,8 +15,8 @@ layout: default
       <div class="entry">
         {{ post.excerpt }}
       </div>
-      {% assign m = page.date | date: "%-m" %}
-      {{ page.date | date: "%-d." }}
+      {% assign m = post.date | date: "%-m" %}
+      {{ post.date | date: "%-d." }}
 {% case m %}
   {% when '1' %}leden
   {% when '2' %}únor
@@ -31,7 +31,7 @@ layout: default
   {% when '11' %}listopad
   {% when '12' %}prosinec
 {% endcase %}
-{{ page.date | date: "%Y" }} - 
+{{ post.date | date: "%Y" }} - 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení.</a>
     </article>
   {% endfor %}
