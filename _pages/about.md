@@ -4,6 +4,8 @@ title: O projektu
 permalink: /about/
 ---
 
+Omlouvám se, tohle je popis z jiného webu, s Marigoldem to nemá moc souvislost. Opravím to asap, zatím jen píšu obecné varování, ať nejste zmateni... 
+
 **K čemu je web Jak na zastupitelstvo?** Měl by vám pomoci "proniknout do tajů lokální politiky" - tedy zorientovat se v tom, co a jak ve vaší obci funguje. Obecní zastupitelstvo je vlastně poměrně jednoduchý orgán a měli byste se rychle zorientovat. Jistě byste toho dosáhli i bez pomoci těchto stránek, jen by vás to stálo více času.
 
 **Komu je web určen?** Všem běžným občanům, kteří se chtějí zorientovat v lokálním dění a v tom, jak do něj vstupovat a jak řešit běžné místní problémy. Proč se účastnit schůzí zastupitelstva, o tom [píšu podrobněji zde](https://www.jaknazastupitelstvo.cz/zastupitelstvo1_proc/).
