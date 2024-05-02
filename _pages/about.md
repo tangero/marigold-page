@@ -4,26 +4,13 @@ title: O projektu
 permalink: /about/
 ---
 
-Omlouvám se, tohle je popis z jiného webu, s Marigoldem to nemá moc souvislost. Opravím to asap, zatím jen píšu obecné varování, ať nejste zmateni... 
+Můj web Marigold.cz vzniknul v roce 2002 jako poznámkový blog, kde jsem si psal o technologiích, které nikoho jiného nezajímaly, jako je WiFi, LTE, 5G, VoIP, iOS atd. Postupem času se z těchto technologií staly hlavní proudy ve světě techniky a tím jsem je zase přestal denodenně popisovat. Od toho jsou jiné weby. 
 
-**K čemu je web Jak na zastupitelstvo?** Měl by vám pomoci "proniknout do tajů lokální politiky" - tedy zorientovat se v tom, co a jak ve vaší obci funguje. Obecní zastupitelstvo je vlastně poměrně jednoduchý orgán a měli byste se rychle zorientovat. Jistě byste toho dosáhli i bez pomoci těchto stránek, jen by vás to stálo více času.
+Na co se soustřeďuji já (a tím i Marigold) je identifikace nových průlomových technologií, jejich potencílu ve společnosti i podnikání. A především změny, které přináší. Do našich spotřebitelských zvyklostí a životů. Ostatně, mám s tím třicet let zkušeností. 
 
-**Komu je web určen?** Všem běžným občanům, kteří se chtějí zorientovat v lokálním dění a v tom, jak do něj vstupovat a jak řešit běžné místní problémy. Proč se účastnit schůzí zastupitelstva, o tom [píšu podrobněji zde](https://www.jaknazastupitelstvo.cz/zastupitelstvo1_proc/).
+O technologiích jsem napsal tisíce článků. Pamatujete si Mobil.cz? Tak ten jsem zakládal. A desítku knih. Ta nejaktuálnější se jmenuje Mýty a naděje digitálního světa. A do hloubky se věnuje technologiím, které teprve přicházejí, jako je třeba umělá inteligence. Její [recenze najdete zde.](https://www.databazeknih.cz/knihy/myty-a-nadeje-digitalniho-sveta-506305) 
 
 ## Něco o mě
-Jmenuji se Patrick Zandl. Pokuste se mne brát jako nestranného pozorovatele. Snažím se do textů promítat zkušenosti moje a mých přátel ze zastupitelstev obcí. Sám jsem opozičním zastupitelem v dvacetitisícovém městečku Brandýs - Boleslav ve Středočeském kraji za Českou Pirátskou Stranu. Snažím se ale do textů "velkou politiku" nemíchat, už proto, že obecní zastupitelstva jsou jí poněkud vzdálena. Prakticky nikdy nebudete v obci hlasovat o vztahu k Izraeli, na druhou stranu řešení otázek školství tu jsou častá, protože obce jsou zřizovatelem základních škol.  
-
-V textech se snažím spíše o pochopitelnost a čtivost, než naprostou přesnost. Naprosto přesné bývají úřední dokumenty, ty ale zase nabývají čitelné bez značné znalosti úředního jazyka. Je to něco za něco. Upřímně se vám ale snažím nelhat a pokud nějakou informaci považujete za nedostatečnou, můžete se mi ozvat a doplnit ji.
-
-Články budou postupně přibývat podle toho, co se mi bude zdát užitečné.
-
-## Co se na tomto webu dozvíte
-
-- proč vůbec chodit na zastupitelstvo, i když nejste zastupitel
-- základní organizační struktura obce a samosprávy
-- jak dorazit na první zastupitelstvo
-- jak jsou zastupitelstva organizována, jak se tvoří jejich program
-
 
 Pokud se chcete dozvědět něco dalšího o mně,  [tady](https://cs.wikipedia.org/wiki/Patrick_Zandl) je moje heslo na Wikipedii, můj blog se jmenuje [Marigold.cz](https://www.marigold.cz) a na [Pirátské Wiki](https://stredocesky.pirati.cz/lide/patrick-zandl/) najdete můj profil. Co děláme v Brandýse-Boleslavi, najdete na [PiratiBrandys.cz](https://www.piratibrandys.cz).
 
