@@ -30,10 +30,14 @@ Jde o mobilní aplikace. Nainstalujete si je do svého mobilu a na začátku sch
 
 Aplikace zjevně využívají jeden STT kromě Lugh. Jeho schopnost přepsat češtinu mi přišla nejhorší, záhy jsem ho přestal používat. Schopnost rozpoznat český hovor u ostatních aplikací mi přišla velmi podobná s tím, že nejlepší bylo subjektivně se zvukem pracuje filtrováním nejlépe Summie, pak MinutAI a mírně slabší Wave AI. Do jisté míry bylo zajímavé, jak se AI vyrovnala s překřikováním a situací, kdy lidi mluvili najednou. V zásadě vždy to AI nějak přepsala, ale v analýze potlačila, zřejmě pod dojmem toho, že taková pasáž nebyla důležitá a sloužila jen k ujasnění východisek, které byly později znovu řečeny ve větším klidu.
 
+Bylo pro mě překvapující, že když jsem se u aplikace podíval do kompletního přepisu, ten mi nebyl příliš k užitku a prakticky nikdy jsem ho nepoužíval.
+
+### Dejme si dva příklady, jak aplikace vypadá po analýze zvuku: WaveAI vs. Summie
+
 
 ![Wave AI a jeho zápis z porady o veřejném osvětlení.](/assets/waveai.webp)
 
-Bylo pro mě překvapující, že když jsem se u aplikace podíval do kompletního přepisu, ten mi nebyl příliš k užitku a prakticky nikdy jsem ho nepoužíval.
+
 
 
 ![Kličová probíraná témata z porady o stavbě nové základní školy v Summie.](/assets/summie.webp)
