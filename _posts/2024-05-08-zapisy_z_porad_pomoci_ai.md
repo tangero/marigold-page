@@ -6,8 +6,6 @@ excerpt: Jednou z aplikací umělé inteligence, kterou používám prakticky ru
 ---
 
 
-## Zápis z porady či jednání pomocí umělé inteligence
-
 Jednou z aplikací umělé inteligence, kterou používám prakticky rutinně, je zápis ze schůzky, porady či jednání. Pojďme se podívat na to, jak to funguje.
 
 V poslední době totiž nastal boom aplikací, které službu shrnutí či zápisu umožňují a řadu z těchto aplikací lze prakticky používat i v češtině. A tím je třeba začít: nebudu zmiňovat aplikace, jako je Otter, dnešní leader trhu, ten ale podporuje jen angličtinu a s jinými jazyky u něj neuspějete.
