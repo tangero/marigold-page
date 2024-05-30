@@ -33,6 +33,12 @@ layout: default
 {% endcase %}
 {{ post.date | date: "%Y" }} - 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení.</a>
+      {% capture words %}
+  {{ page.content | number_of_words | minus: 250 }}
+{% endcapture %}
+{% unless words contains "-" %}
+  {{ words | plus: 250 | divided_by: 180 | append: " minut čtení." }}
+{% endunless %}
     </article>
   {% endfor %}
 
