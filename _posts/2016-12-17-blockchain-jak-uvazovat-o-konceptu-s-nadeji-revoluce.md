@@ -1,6 +1,6 @@
 ---
 ID: 3428
-title: 'BlockChain: jak uvažovat o&nbsp;konceptu s&nbsp;nadějí revoluce'
+title: 'Blockchain: jak uvažovat o&nbsp;konceptu s&nbsp;nadějí revoluce'
 author: Patrick Zandl
 post_excerpt: "Tohle je pouze úvaha, nikoliv článek nebo analýza. Kolem Bitcoinu a blockchainu je tak husto, že projít skrze nánosy hype i nedůvěry není snadné a některé úvahy snadno zapadnou ve výkřicích *kacíř* případně *debil*. O blockchainu slýchám v poslední době hodně a nikdy mi nebylo zase tak moc jasné, proč se s ním pojí tolik nadějí. Odpusťte mi tedy toto veřejné třídění myšlenek, o kterých nejsem schopen prohlásit tradiční české ajťácké *teď vám povím, jak to je, vy debilové sedněte na prdel a poslouchejte*."
 layout: post
