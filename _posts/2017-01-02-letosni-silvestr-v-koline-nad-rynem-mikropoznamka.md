@@ -2,7 +2,7 @@
 ID: 3450
 title: 'Letošní Silvestr v&nbsp;Kolíně nad Rýnem (mikropoznámka)'
 author: Patrick Zandl
-post_excerpt: ""
+post_excerpt: "Němci dali menší kouř policii za nezvládnutí letošního silvestra v Kolíně nad Rýnem."
 layout: post
 published: true
 post_date: 2017-01-02 13:03:41
