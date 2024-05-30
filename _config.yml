@@ -96,3 +96,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [search.html]
