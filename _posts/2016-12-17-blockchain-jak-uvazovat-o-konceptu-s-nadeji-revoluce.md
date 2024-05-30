@@ -43,9 +43,9 @@ Při uvažování o blockchainu je tedy nutné si uvědomit několik věcí:
 14. Řadu výše uvedených nevýhod i výhod se snaží různé systémy různě řešit. Na každé moje ALE existuje nějaké AVŠAK generující další ALE. Je tak snadné o někom říct, že blockchainu nerozumí, ale o to těžší je ho nějak vyložit.
 
 
- ## Jak funguje platba Bitcoinem a přeneseně tedy i blockchain 
+## Jak funguje platba Bitcoinem a přeneseně tedy i blockchain 
 
-1. Aleš chce poslat peníze Blance a má svoji Bitcoinovou peněženku (například na mobilu či Blockchain.info). K tomu, aby peníze poslal, potřebuje Blanky veřejný klíč respektive adresu (adresa je <a style="text-decoration: none;" href="https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses">hash veřejného klíče</a>) a svůj privátní klíč. Klíče vypadají jako náhodné shluky alfanumerických znaků a je zcela přípustné, aby peněženka generovala pro transakci nové privátní klíče, pak se ale musí starat o jejich správu.
+1. Aleš chce poslat peníze Blance a má svoji Bitcoinovou peněženku (například na mobilu či Blockchain.info). K tomu, aby peníze poslal, potřebuje Blanky veřejný klíč respektive adresu (adresa je <a href="https://en.bitcoin.it/wiki/Technical_background_of_version_1_Bitcoin_addresses">hash veřejného klíče</a>) a svůj privátní klíč. Klíče vypadají jako náhodné shluky alfanumerických znaků a je zcela přípustné, aby peněženka generovala pro transakci nové privátní klíče, pak se ale musí starat o jejich správu.
 2. Blanky klíč získá například oscanováním QR kódu, načtením přes NFC nebo prostým opsáním, svůj privátní klíč má uložený v aplikaci a tento klíč je důkazem vlastnictví peněženky (proto je dobré vybrat si důvěryhodného dodavatele peněženek, který si klíč nepřivlastní).  
 3. Aleš vytvoří platební příkaz, kdy vyplní částku, veřejný klíč Blanky a svou předcházející transakci (její číslo). Platební příkaz jeho aplikace - peněženka - digitálně podepíše jeho privátním klíčem a odešle nejbližšímu nodu (ve skutečnosti to může být kdokoliv, kdo má validační mechanismus implementovaný, i běžná peněženka.
 4. Node ověří, zda má Aleš dostatek bitcoinů k provedení transakce tím, že prohledá všechny záznamy v blockchainu zpětně podle ID předchozí transakce (čili sečte všechny transakce na tomto účtu) a také ověří Alešův digitální podpis, tedy fakt, že odesilatel znal Alešův privátní klíč. Node nemá způsob, jak Alešův privátní klíč zpětně odvodit. Pokud jde o klientský software s omezenými možnostmi, kde nelze ukládat a zpracovávat celý blockchain, použije se zjednodušená verifikace platby (SPV).
@@ -57,7 +57,7 @@ Při uvažování o blockchainu je tedy nutné si uvědomit několik věcí:
 ![Bitcoin Transactions Explained Wide](/assets/Bitcoin-transaction-life-cycle.png)
 
 
- ##  Proč je blockchain revolucí?
+##  Proč je blockchain revolucí?
 
 Z výše uvedeného trochu krystalizuje, kde je vlastně pro mne ta revoluční změna, jakou blockchain může přinášet. 
 
@@ -70,7 +70,8 @@ A tady někde u těchto dvou výhrad a bodů je **ono pomezí revoluce** . Od ce
 Pokud byste mi chtěli poslat bitcoiny, zcela zprávně to lze udělat přes kod na konci stráky, který vygeneruje jedinečnou adresu pro každou transakci, ale mimochodem naprostá většina pluginů pro Wordpress používá stále jednu adresu, což slídilům život usnadňuje.
 
 
- ## Příklady užití blockchainu (ne ty z učebnic) 
+## Příklady užití blockchainu (ne ty z učebnic) 
+
 Pojďme se podívat na pár modelových příkladů užití, které se občas nadhazují. Třeba těch z ranku našeho Energomonitoru. Představte si, že každý měřič spotřeby zaznamenává spotřebu energií do blockchainu. Ponechme teď stranou, že k tomu, aby to bylo velmi užitečné, by to musel dělat dost často (třeba jednou za vteřinu), což by přineslo jisté problémy s bobtnáním. Prostě tam elektroměr hrne data. K čemu by to bylo dobré? Energetici by se mohli okamžitě podívat, kde jim kolik elektřiny teče. Tahle data by vlastně byla volně použitelná pro kohokoliv. Odečet elektřiny by pro vás nemusela řešit jedna firma, jako dnes, ale mohli byste si vybrat. Té byste sdělili adresu elektroměru, adresu peněženky a ona by to pro vás vyrovnala a zároveň by vám mohla udělat všechny služby nad tím, jaké byste si přáli: řekla by vám, kolik elektřiny jste za co spotřebovali, jak jste mohli ušetřit a tak vůbec, tedy všechno, o čem v Energomonitoru sníme, čistě na bázi toho, že ta data by byla dostupná. Neměli byste tam ten data-dead-lock, jaký je dnes v Česku, kdy vám distribuční společnosti nedovolí přistupovat k datům z elektroměrů, abyste náhodou nevěděli, jakou máte průběžnou spotřebu a kdy si pro takové účely musíte instalovat podružné měření. Přišla by konkurence služeb, které vám dávají servis nad těmito daty, nebyli byste vázáni na poskytovatele měření samotného. Ale taky řada služeb, které dnes ani neumíme domyslet. Například sledování spotřeby elektřiny v síti a routovací protokoly pro elektřinu, které by si obstaraly výrobci elektřiny nebo její distributoři. Energetická burza by si takhle připojila predikce spotřeby. Prodejci totéž. Co dál? Kdo ví? O tom to celé je: hranice nikdo neví a dnes domýšlené příklady užití jsou vlastně jen vratký začátek.
 
 Vše ale výměnou za to, že stačí malý přešlap a sváže se adresa v blockchainu s vaší skutečnou fyzickou totožností a vaším odhalením. Vadí? Nevadí?
@@ -80,8 +81,8 @@ U lékařských záznamů je to ještě lépe zřetelné. Ať přijdete k jakém
 Ještě ulítlejší jsou představy ze světa IoT, které jsem četl. Lednička, která si zaznamenává všechno, co v ní je a pak to můžete vy nebo dodavatel vzdáleně analyzovat a řešit. I tohle spíš vypadá na řešení problému, který povšechně neexistuje nebo má méně sofistikované a náročné řešení typu "ono asi došlo máslo, tak ho radši koupím, kdyžtak se nezkazí".
 
  
+##  Kde se implementace blockchainu považuje za zajímavou 
 
- ##  Kde se implementace blockchainu považuje za zajímavou 
 Obecně (=těch pár chytře vypadajících lidí v oboru, které jsem načetl) se zatím úspěšné nebo za úspěšně se prosazující implementace blockchainu považují hlavně následující směry:
 
 1. **Obchodní transakce**  jako virtuální měny, ale i akciové trhy. S blockchainem experimentuje Nasdaq na svém privátním akciovém trhu.
@@ -108,7 +109,8 @@ Centralizační éra přijde po vlně odstředivé a krátkého impulsu nadšen�
 
 Ve třetí fázi tržní ekosystém celý blockchain absorbuje jako každý jiný nástroj umožňující volbu a produktovou diferenciaci. Někdo založí své produkty tak, jiný onak, bude to zhruba to samé, jako přechod z telefonních linek na VoIP. Někdo přešel, někdo nepřešel, většina ani neví, co jim jejich dodavatel poskytuje za technologii, část už jich ani neví, proč jsou telefonní čísla jako čísla a naprostá většina z nich neví, proč jsou devíti/dvanáctimístná. Dojde k přeskupení zdrojů, kdy ti, kdož podstoupili riziko vývoje nového a prokázali dost kreativity a vůle, aby uspěli, budou odměněni od těch, kteří mají peníze a prokázali schopnost dost dlouho odolávat pokušení kanibalizovat si vlastní zákazníky vývojem nové nevyzkoušené služby a v pravou chvíli uskutečnit investici do téže služby, kterou ještě nedávno veřejně opovrhovali.
 
- ## Kde je tržní prostor 
+## Kde je tržní prostor 
+
 Co na to říct. Blockchain je ve velmi ranné fázi a už tak je v ní dost namačkáno. Své produkty tu má dokonce i IBM, existuje celá řada poskytovatelů větších či menších dílků technologií, od transakčních, skladovacích až po bezpečností. To neznamená, že tu není místo pro mladého a dravého podnikatele naskočit, ale znamená to, že laťka už je vysoko, musíte mít sakra dobré znalosti, nebo schopnost a prostředky sakra fofrem zformovat tým a naskočit. I v téhle fázi je ovšem příležitost pro třílidé firmy přijít s něčím, co se nakonec někomu bude hodit, byť úplně v tuhle chvíli není zřejmé, k čemu. Problémů k řešení u bitcoinu jsou stále mraky a tím, jak je jeho téma rozplizlé a široké, ještě dlouho co řešit bude.
 
 Nedá mi, abych nezakončil příkladem z bezpečnostního ranku. Kde jinde si rovnat myšlenky o bitcoinu, než v <a href="https://www.paralelnipolis.cz">Paralelní Polis</a>, kde se jimi v kavárně dá i platit. A tak si tu sedím v rohu, poslouchám hudbu, píšu, přemýšlím. A přichází paní, kultivovaná dáma, dost možná z marketingu nějaké korporace (ale je to tak na hraně - taky to mohla být majitelka galerie). Chce se na něco zeptat a protože jsem v kavárně sám, tak jí vysvětluju bitcoin a pomáhám. Je v neustálém údivu, nadšená, okouzlená, nakonec tu kávu za ni bitcoinama platím, protože nemá. A až když odchází, tak mi dochází, že celou dobu mne má za někoho ze skupiny Stohoven, minimáně proto, že mi říká Tomáši a fandí mojí grafice a že máme skvělé akce. **Dá se tohle považovat za první krádež digitální identity prostřednictvím bicoinu**  a zároveň za varování, že s konceptem bitcoinu a blockchainu nás čekají výzvy, o kterých ještě netušíme zhola nic?  
