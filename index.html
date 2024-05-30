@@ -32,7 +32,7 @@ layout: default
   {% when '12' %}prosinec
 {% endcase %}
 {{ post.date | date: "%Y" }} - 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení {{ post.words | plus: 250 | append: " slov" }}.</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení {{ post.words | plus: 250 | append: " slov..." }}.</a>
     </article>
   {% endfor %}
 
