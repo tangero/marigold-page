@@ -19,7 +19,7 @@ Nerozumějte mi špatně. Hlasovým vyhledáváním nemám na mysli tu ikonku ve
 
 Jak to? Vyhledávání se změnilo proti době před deseti lety. Tehdy jsme hledali dokumenty obsahující slovo. Dnes potřebujeme zpravidla přímo to slovo, konkrétní informaci. Kdy jede autobus, kde je v okolí restaurace nebo kontakt na instalatéra, nikoliv všechny stránky obsahující něco, co jako tato informace vypadá. A to jsou úlohy na hlasové vyhledávání. Stačí jeden kontakt, jeden čas, jedno jméno. A následná otázka “rezervovat místo” nebo “zavolat mu”, která vyhledávání povýší na asistenci. 
 
-<h3>Kouzlo skryté v Siri</h3
+<h3>Kouzlo skryté v Siri</h3>
 
 Apple Siri ukryté v telefonou vycházelo z předpokladu, že běžný Američan je často sám se sebou, má plné ruce a přitom by potřeboval něco s mobilem vyřídit. Jogguje po ulici, je ve fitku, řídí automobil, jí oběd. Něco ho napadne, tak osloví svůj mobil “Hey Siri” a položí otázku či jednoduchý příkaz. Siri vyhledá kontakt, informaci, pošle zprávu a zařídí schůzku. 
 
