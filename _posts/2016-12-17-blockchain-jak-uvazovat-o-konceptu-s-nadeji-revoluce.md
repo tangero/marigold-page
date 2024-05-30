@@ -19,7 +19,7 @@ Co je to blockchain? Musím se přiznat, že mi nejvíce konvenuje definice <a h
 Je to tak. Pokud dneska nevíte, jak zaujmout, veřejně prohlásíte, že vaše firma testuje blockchain. Už v tom výše zmíněném rozhovoru stírá Kaminská Simona Taylora, spoluzakladatele 11:FS, který tvrdí, že blockchain není hype, ale realita, neboť banka Barclays (významná britská mezinárodní banka) už provádí platby přes blockchain. Kaminská namítá, že tyhle testy jsou jen fikce provozovaná někde v sandboxu a že ji mají vzbudit, až Barclays blockchainem prožene sto miliard dolarů.
 
 
-> Co je tedy blockchain podle mě** , ať máme nějakou pracovní definici? Blockchain je veřejná databáze transakcí či operací, která věrohodně identifikuje původce a jeho souhlas s transakcí, jakož i příjemce transakce. Tuto databázi je možné sdílet, aniž by bylo možné pro kohokoliv sdílejícího ji věrohodně modifikovat.
+> **Co je tedy blockchain podle mě** , ať máme nějakou pracovní definici? Blockchain je veřejná databáze transakcí či operací, která věrohodně identifikuje původce a jeho souhlas s transakcí, jakož i příjemce transakce. Tuto databázi je možné sdílet, aniž by bylo možné pro kohokoliv sdílejícího ji věrohodně modifikovat.
 
 
 To slovo *"věrohodně"* ponecháme dnes stranou. To je úloha z  kryptografie, o tom nechť se pohádají kryptografové a matematici. Já vezmu za dané, že operaci můžete jako původce autorizovat, můžete udat jejího adresáta a vše se zaznamená do systému, v němž se to decentralizovaně rozšíří, takže vaše zaznamenané nároky jsou viděny všemi účastníky systému a ti je nemohou neoprávněně změnit, aniž by to nebylo velmi zřejmé.
