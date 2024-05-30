@@ -9,7 +9,11 @@ layout: post
 published: true
 post_date: 2017-03-20 23:35:41
 ---
-<p>Na CeBITu vystavujeme hned vedle japonského robotického pavilonu. Je to poněkud deprimující, protože sice je nedaleko Jablotron a s Turrisem tu tedy děláme alespoň určitou českou dvojku, jenže proti robotům všeho typu je to přeci jen trochu chabé. Vypadá to, jako bychom za světem měli obrovské zpoždění. Máme?</p><!--more--><p>Ne vždy jsem o tom přesvědčen. Třeba tenhle snímek je něco, proč mám o soudobém AI - Umělé inteligenci - určité pochybnosti.</p>
+<p>Na CeBITu vystavujeme hned vedle japonského robotického pavilonu. Je to poněkud deprimující, protože sice je nedaleko Jablotron a s Turrisem tu tedy děláme alespoň určitou českou dvojku, jenže proti robotům všeho typu je to přeci jen trochu chabé. Vypadá to, jako bychom za světem měli obrovské zpoždění. Máme?</p>
+
+<!--more-->
+
+<p>Ne vždy jsem o tom přesvědčen. Třeba tenhle snímek je něco, proč mám o soudobém AI - Umělé inteligenci - určité pochybnosti.</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" title="IMG_20170320_172052.jpg" src="https://www.marigold.cz/wp-content/uploads/IMG_20170320_172052.jpg" alt="IMG 20170320 172052" width="600" height="450" border="0" /></p>
 <p>Robota nazvaného Pepper na snímku vyrábí japonská firma Softbank Robotisc zaměstnávající pět stovek lidí. Má to být skvělý společník, který zjednoduší váš styk se zákazníky. Sledoval jsem ho. Copak o to, že demo je debilní. To už je osud dema na veletrhu. Robot přijme vaši objednávku na kafe, něco mekotá, něco bliká na displeji. Připomíná figurínu s nalepeným displejem a ledkama v mrtvých očích. Rameno dalšího robota nacpe kapsli do kávovaru a podá vám kelímek s kafem. Skvělý výsledek na dva roboty v ceně několika mega, zvláště, když uvážíte, že kapsle o kus dál vybaluje z krabice živý Japonec. Takový už je osud dema.</p>
 <p>O Pepperovi prospekt hlásá samé superlativy. Mnoho senzorů umožňuje téměř lidské reakce, předvídavost, napojení na informační báze. Bájo. Pepper, kterého jsem viděl já, byl blbý, jak troky a jediné, na co se zmohl, je zeptat se, zda chcete kafe a vyhodnotit, zda jste mu na displeji zmáčkli, že jo. Do toho prohodil pár přednastavených hlášek a jestli nebyla zlidštěním komunikace myšlena nutkavá potřeba ukopnout mu hlavu, tak mi jeho přínos ušel.</p>

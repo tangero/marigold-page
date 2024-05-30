@@ -7,7 +7,11 @@ layout: post
 published: true
 post_date: 2017-04-20 09:50:12
 ---
-<p>Mám <a href="/item/jaky-je-prechod-z-apple-iphone-na-vcelku-levny-telefon-s-android-6">ho už zhruba půl roku</a>. Huawei P9 Lite ve verzi 3GB RAM. Chtěl jsem si vyzkoušet, jestli telefon za polovinu ceny iPhone SE a se stejnou deklarovanou hardwarovou výbavou pod Androidem bude užitný.</p><!--more--><p>Užitný je. Zvykl jsem si. Výhod a nevýhod je celá řada, dlužno říct, že je to jiný svět a je třeba si zvykat.</p>
+<p>Mám <a href="/item/jaky-je-prechod-z-apple-iphone-na-vcelku-levny-telefon-s-android-6">ho už zhruba půl roku</a>. Huawei P9 Lite ve verzi 3GB RAM. Chtěl jsem si vyzkoušet, jestli telefon za polovinu ceny iPhone SE a se stejnou deklarovanou hardwarovou výbavou pod Androidem bude užitný.</p>
+
+<!--more-->
+
+<p>Užitný je. Zvykl jsem si. Výhod a nevýhod je celá řada, dlužno říct, že je to jiný svět a je třeba si zvykat.</p>
 <h3><strong>Bod první: ergonomie</strong></h3>
 <p><strong></strong>Tady je třeba si zvyknout především, ale budete si těžko zvykat na to, že každá aplikace se ovládá jinak a často dost zásadně. Unifikace napříč aplikacemi moc neexistuje, vlastně žádný UX úzus se nezachovává napříč vším. I když to záleží: Huwei má své své grafické rozhraní EMUI, tam je to jinak, než u rozhraní Xiaomi (důsledně kopírujícího Apple) nebo čistého Androidu. V praxi ale aplikace budete používat různé a tedy s různými UX předpoklady.</p>
 <p>Pak jsou tu systémové nekonzistence. Moje aplikace na SMS třeba neumí přejít na seznam přijatých SMS podle jmen lidí jinak, než tím trojúhelníčkem pro návrat zpět. Když ho omylem zmáčknete podruhé, přejdete do jiné aplikace.</p>

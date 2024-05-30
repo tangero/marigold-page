@@ -7,7 +7,11 @@ layout: post
 published: true
 post_date: 2017-11-05 21:15:49
 ---
-<p>Je to zajímavé mentální cvičení, které by měl každý udělat ve svém oboru, když přijde nová "revoluční" technologie. Tímhle cvičením odlišíte revoluci v tom, jak vás odrbat jako investora od revoluce v oboru. Vezměte si blockchain. Ve finančním sektoru jasný zásah (a potopená?). Co další obory? Co třeba telekomunikace?</p><!--more--><p>Blockchain se v telekomunikacích testuje, takže své užití opravdu má, ale není jisté, zda může obor revolucionalizovat a tedy "disruptovat" - zcela v něm změnit odběratelsko-dodavatelské vztahy, jako to třeba udělal v telekomunikacích internet. Provozovat interní databáze v blockchainu má své kouzlo ve snižování OPEX, ale revoluce trhu to není. Revoluce je teprve ta změna, kterou označuju socialistickým termínem "naprosto změněné dodavatelsko-odběratelské vztahy" - neumím najít lepší termín k anglickému "disrupting".</p>
+<p>Je to zajímavé mentální cvičení, které by měl každý udělat ve svém oboru, když přijde nová "revoluční" technologie. Tímhle cvičením odlišíte revoluci v tom, jak vás odrbat jako investora od revoluce v oboru. Vezměte si blockchain. Ve finančním sektoru jasný zásah (a potopená?). Co další obory? Co třeba telekomunikace?</p>
+
+<!--more-->
+
+<p>Blockchain se v telekomunikacích testuje, takže své užití opravdu má, ale není jisté, zda může obor revolucionalizovat a tedy "disruptovat" - zcela v něm změnit odběratelsko-dodavatelské vztahy, jako to třeba udělal v telekomunikacích internet. Provozovat interní databáze v blockchainu má své kouzlo ve snižování OPEX, ale revoluce trhu to není. Revoluce je teprve ta změna, kterou označuju socialistickým termínem "naprosto změněné dodavatelsko-odběratelské vztahy" - neumím najít lepší termín k anglickému "disrupting".</p>
 <p>Takovou změnou by byla situace, kdyby by do oboru mohli přijít noví hráči a ti měli šanci rychle vytěsnit hráče stávající. Rychlost je důležitá: když se to nestane rychle, je revoluce udušena, asimilována, normalizována tím jak se revolucionářská firma přizpůsobí. A blesková revoluce v oboru, kde postavit jednu lokální síť stojí miliony a miliardy a roky povolení, se dělá těžko. Prakticky by to znamenalo použít něco, co existuje a je to myslitelně dostupné (tedy ne přes roamingové smlouvy atd). Jenže co, jak? A to je to mentální cvičení: najít takovou štěrbinu, kombinace a možnosti.</p>
 <h3>Open Blockchain 6G síť</h3>
 <p>Jak by vypadala taková blockchainová mobilní síť?</p>

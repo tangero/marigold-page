@@ -7,7 +7,11 @@ layout: post
 published: true
 post_date: 2017-02-18 14:47:46
 ---
-<p>Proč je mobilní internet v Česku drahý a kdy bude levnější, na  průměru vyspělých evropských zemích? Na to mám dlouhou odpověď, jenže doba nepřeje dlouhým vysvětlením. Ta krátká vám ale moc nepomůže: mobilní internet je v Česku drahý, protože situace umožňuje držet ceny vysoko. A změna není na dohled, protože situace se v dohledné době nezmění.</p><!--more--><p>Mírně delší odpověď pro netrpělivé v bodech (bez pořadí důležitosti):</p>
+<p>Proč je mobilní internet v Česku drahý a kdy bude levnější, na  průměru vyspělých evropských zemích? Na to mám dlouhou odpověď, jenže doba nepřeje dlouhým vysvětlením. Ta krátká vám ale moc nepomůže: mobilní internet je v Česku drahý, protože situace umožňuje držet ceny vysoko. A změna není na dohled, protože situace se v dohledné době nezmění.</p>
+
+<!--more-->
+
+<p>Mírně delší odpověď pro netrpělivé v bodech (bez pořadí důležitosti):</p>
 <ul>
 <li>Změna vlastníka Telefonica O2 CZ v roce 2013 - novým majitelem je agresivní restrukturalizátor PPF</li>
 <li>Zjištění PPF, že Telefonica byla hodně podinvestována a je třeba najít peníze na její modernizaci i splátku nákupu</li>
