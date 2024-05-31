@@ -10,9 +10,11 @@ published: true
 post_date: 2011-01-28 22:16:16
 categories: [eKnihy]
 ---
-<p>Je to socialistický závazek pro letošek. Vyzkoušet elektronické knihy, povrtat se v jejich vydávání, udělat s tím zkušenosti. Přestat teoretizovat, vyzkoušet, spočítat, vyhodnotit. Myšlenková poznámka <a href="http://tangero.posterous.com/kolik-by-mela-stat-digitalni-knizka-bez-drm-a">stran toho je zde</a>, na <a href="http://www.facebook.com/pages/Koncernova-petiletka/143607275687040">Facebooku jsem k tomu</a></p>
-<p><img style="float: right;" src="http://www.marigold.cz/wp-content/uploads/obalka-knihy-koncernova-petiletka.jpg" border="0" alt="Obalka-knihy-Koncernova-petiletka.jpg" width="225" height="300" /></p>
-<p><a href="http://www.facebook.com/pages/Koncernova-petiletka/143607275687040"> i udělal stránečku</a>, jenže spíše než jejím aktualizováním se zabývám doděláním té knihy. Bude se jmenovat <strong>Koncernová pětiletka</strong>, někteří už ji možná četli a zásadní zádrhel, proč se vydání zdrželo je, že se ukázalo, že jsem kdysi ve vzteku vyhodil kus konce. Takže to píšu znovu. A taky si hraju s tím, jak to celé udělat, do toho se starám o věci, o které se starat mám a chci. Nu, nejde to tím pádem extra rychle. Ale cíl je na dohled ...</p>
+<p>Je to socialistický závazek pro letošek. Vyzkoušet elektronické knihy, povrtat se v jejich vydávání, udělat s tím zkušenosti. Přestat teoretizovat, vyzkoušet, spočítat, vyhodnotit. Myšlenková poznámka <a href="/kolik-by-mela-stat-digitalni-knizka-bez-drm-a">stran toho je zde</a>.</p>
+
+!(obalka-knihy-koncernova-petiletka.png)
+
+<p>Teď se zabývám doděláním té knihy. Bude se jmenovat <strong>Koncernová pětiletka</strong>, někteří už ji možná četli a zásadní zádrhel, proč se vydání zdrželo je, že se ukázalo, že jsem kdysi ve vzteku vyhodil kus konce. Takže to píšu znovu. A taky si hraju s tím, jak to celé udělat, do toho se starám o věci, o které se starat mám a chci. Nu, nejde to tím pádem extra rychle. Ale cíl je na dohled ...</p>
 <p>Právě přemýšlím nad tím, jestli součástí knihy udělat i povídání o tom, jak vznikala, proč a co kolem toho všeho bylo. A že toho vůkol bylo dost, se samotným děním okolo jsem si užil vlastně víc, než se samotným výsledkem.</p>
 <p>Takže ještě chvíli držte palce.</p>
 <p>A princip pokusu v kostce?</p>
