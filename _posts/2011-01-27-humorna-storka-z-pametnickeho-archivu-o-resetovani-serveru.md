@@ -15,7 +15,7 @@ Jak jsem tak dával dohromady podklady k Siteláckému data centru a zmínil tam
 Datuje se někdy k počátkům GSM sítí v Česku, rok 1997-8 řekl bych. Měli jsme server v PVT, takovou děsivou krabici, ale zakrytovanou, takže z venku to vypadalo dobře. Jen tím, jak to byla sbírka vyřazených dílů (short budget, pamatujete?), tak se to prostě občas kouslo. 
 A kouslo se to zase. Petr se nakvasil, žhaví línku do PVT, jenže už bylo pozdě večer, takže tam chytnul jen nějakého vrátného. Důležité bylo, že měl kartu od sálu, takže se dostal do bunkru k mašinám. 
 
-"Mohl byste nám resetovat server?" zeptal se úlisně Petr pod vidinou toho, že se zbalí a pojede přes celé město to resetovat sám
+"Mohl byste nám resetovat server?" zeptal se úlisně Petr pod vidinou toho, že se zbalí a pojede přes celé město to resetovat. Sám
 Vrátný byl úslužný a ochotný. Petr se autorizoval podle procedury a pán šel dolů k serverům. Jenže si nevzal ty papíry, jaký číslo má náš server. Takže ho nemohl najít podle čísla. A to si zase nepamatoval Petr, protože to bylo nějaký interní číslo PVT. 
 "Co je na něm napsáno?" zeptal se pán, kterému se nechtělo šlapat nahoru pro papíry?
 Petr se zamyslel: "Je na něm nápis Mobil server", vzpomněl si na viditelné odlišení. 
