@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/mne-ta-moderni-manie-pro-vysokou-kucharinu-nejak-nevoni
 published: true
 post_date: 2011-02-08 11:40:04
+categories: [Společnost, Příběhy]
 ---
 V poslední době je každý kolem kuchařský expert non plus ultra. Klučina, se kterým jsme na puťáku vařili špagety s landšmítem na kopřivách, mi významně sděluje, že konečně našel "skvělé italské prošuto". A na mou otázku, kde je vzpomínka na problitou noc nad rendlíkem, mě ujišťuje, že je to věc stylu.
 

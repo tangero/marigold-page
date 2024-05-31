@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/o-rychlosti-na-silnicich-cili-zase-ledaskdo-zvani-o-necem-do-ceho-nesviti
 published: true
 post_date: 2011-03-06 11:35:42
+categories: [Společnost]
 ---
 Svoboda vyjádřit se je skvělá věc, ale internet do toho přinesl jednu obměnu, kterou zatím těžko vyhodnotit: názor se nejenom může udělat každému, kdo má díru a nově také ho může vyjádřit tak, že jej slyší větší počet lidí, než osazenstvo lokálu. A tak se často setkávám s tím, že do věcí žvaní lidé, kteří tomu zjevně nerozumí, jen se jim zrovna navalilo. Ideálně se jsou schopni vyjádřit ke všemu, takový ten instantní názor po vzoru Nescafé, sušené sračky, které zapáchají, až když se podávají ke konzumaci. Většinou tu vtipné podání nahrazuje argumenty.
 

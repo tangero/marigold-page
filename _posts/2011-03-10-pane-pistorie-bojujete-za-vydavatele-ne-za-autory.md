@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/pane-pistorie-bojujete-za-vydavatele-ne-za-autory
 published: true
 post_date: 2011-03-10 11:32:35
+categories: [eKnihy, Knihy]
 ---
 Se zájmem se pročítám diskusí na téma konec knih v Česku vinou DPH, vládní garnitury, důchodů a jiného neřádstva. Myslím si své. Především to, že vydavatelé bojují za zájmy své branže za zájmy vydavatelů, nikoliv autorů. Proč?
 

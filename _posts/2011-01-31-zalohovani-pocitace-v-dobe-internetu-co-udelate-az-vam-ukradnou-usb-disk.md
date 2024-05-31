@@ -8,8 +8,10 @@ oldlink: >
   https://www.marigold.cz/item/zalohovani-pocitace-v-dobe-internetu-co-udelate-az-vam-ukradnou-usb-disk
 published: true
 post_date: 2011-01-31 11:43:35
+categories: [Zálohování, Bezpečnost, Počítače]
 ---
 <p style="margin: 10px 0px; padding: 0px; font-size: 13px; color: #424037; font-family: Arial, Helvetica, sans-serif; line-height: 23px;">V posledním půl roce jsem se setkal se třemi případy vykradení bytu a ukradení počítače. Stane se, pojišťovny to nějak pořeší. Jenže... data. Ještě před pěti lety bylo spíše výjimkou, aby člověk měl na počítači "všechno" - fotky, videa, svoje dokumenty. Najednou tam máme všechno, nebo skoro všechno. Emaily, co stahujeme na počítač, fotky, dokumenty. </p>
+
 <div style="margin: 0px; padding: 0px; color: #424037; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 23px;">Mě tahle situace postihla před nějakými patnácti lety. Prakticky všechno, co jsem za svůj tvůrčí život vytvořil, mám v digitalizované podobě, kromě videí a fotek do roku 1995 (což řeším postupně a je to samostatná kapitola). Mám určitou zkušenost. Přesto mi lidi nevěří. Nevěří, že notebook, který stejně potřeboval upgrade, vezme čert, ale co s těmi dokumenty na něm? Ty už se vám nevrátí. A nakonec vás mrzí nejvíce. </div>
 <div style="margin: 0px; padding: 0px; color: #424037; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 23px;">Příkladmo jeden kamarád, člověk počítačově zkušený. Zálohoval. Na USB disk. Moc hezký, stříbný Iomega USB disk, moc si pochvaloval, jak to s TimeMachine jde samo. Zloději se jeho disk líbil taky a protože ležel na stole vedle počítače, přibral ho. Věřte-nevěřte, ukradená záloha je na nic. Co s tím, jak máte zálohovat?</div>
 <div style="margin: 0px; padding: 0px; color: #424037; font-family: Arial, Helvetica, sans-serif; font-size: 13px; line-height: 23px;"> </div>

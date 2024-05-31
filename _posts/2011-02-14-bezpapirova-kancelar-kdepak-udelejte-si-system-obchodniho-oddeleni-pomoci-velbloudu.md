@@ -11,6 +11,7 @@ oldlink: >
   https://www.marigold.cz/item/bezpapirova-kancelar-kdepak-udelejte-si-system-obchodniho-oddeleni-pomoci-velbloudu
 published: true
 post_date: 2011-02-14 11:38:40
+categories: [Digitalizace]
 ---
 Přečetl jsem si článek <a href="http://www.mitvsehotovo.cz/2011/02/14/go-paperless-aneb-konec-papiru/">Go paperless aneb Konec papírů</a> a zasnil se o své dávné idee kompletního přechodu do digitálna. Zkoušel jsem to mockrát, ale většinou jsem se u řady věcí pokorně vrátil, například k papírovému kalendáři, co nosím po kapsách. Nicméně každý má nárok na svou Cestu tam a zase zpět, trocha experimentů je zdravá. Nicméně mi to připomnělo organizační šlágr, na který já nedám dopustit a podělím se o něj i s vámi. 
 

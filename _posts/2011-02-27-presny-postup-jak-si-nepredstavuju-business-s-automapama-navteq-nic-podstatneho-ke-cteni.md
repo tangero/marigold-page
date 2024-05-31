@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/presny-postup-jak-si-nepredstavuju-business-s-automapama-navteq-nic-podstatneho-ke-cteni
 published: true
 post_date: 2011-02-27 11:36:41
+categories: [eNavigace, GPS, Podnikání]
 ---
 Koupil jsem na konci roku auto a kvůli jiné výbavě jsem tak dostal i vestavěnou navigaci, kterou bych jinak ani nechtěl. A už vím proč. Navigace v autě se jmenuje RT4 (tuším) a software pro ni vyrábí Navteq, firma koupená firmou Nokia v roce 2007 za necelých 6 miliard euro. Tak jsem si řekl, že se mrknu, za co Nokča dala sumičku, s jakou bych letošní rok uměl i já svůj rozpočet zalátat. 
 

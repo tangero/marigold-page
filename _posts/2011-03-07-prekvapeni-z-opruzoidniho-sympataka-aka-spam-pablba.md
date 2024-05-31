@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/prekvapeni-z-opruzoidniho-sympataka-aka-spam-pablba
 published: true
 post_date: 2011-03-07 11:34:15
+categories: [Příběhy]
 ---
 O víkendu bylo promítání filmu o jednom pánovi z Ostravy. Radovan Kaluža. Pokud někdo nejlépe representuje moje výhrady k (některé) současné mladé "podnikatelské elitě", tak právě on. Symbióza nekvalitního produktu s otravným marketingem založeným na spamování, vytváření podvodných facebookových stránek a skupin a jiným opruzováním života lidí na internetu. A co jsem se k akci promítání filmu dočetl? Že je to sympaťák a že lidé nevědí, co na něm ostatní mají. Však aji sklenku na baru zaplatil. A byl v pohodě. 
 

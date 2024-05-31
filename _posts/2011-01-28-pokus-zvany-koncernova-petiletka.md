@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/pokus-zvany-koncernova-petiletka
 published: true
 post_date: 2011-01-28 22:16:16
+categories: [eKnihy]
 ---
 <p>Je to socialistický závazek pro letošek. Vyzkoušet elektronické knihy, povrtat se v jejich vydávání, udělat s tím zkušenosti. Přestat teoretizovat, vyzkoušet, spočítat, vyhodnotit. Myšlenková poznámka <a href="http://tangero.posterous.com/kolik-by-mela-stat-digitalni-knizka-bez-drm-a">stran toho je zde</a>, na <a href="http://www.facebook.com/pages/Koncernova-petiletka/143607275687040">Facebooku jsem k tomu</a></p>
 <p><img style="float: right;" src="http://www.marigold.cz/wp-content/uploads/obalka-knihy-koncernova-petiletka.jpg" border="0" alt="Obalka-knihy-Koncernova-petiletka.jpg" width="225" height="300" /></p>

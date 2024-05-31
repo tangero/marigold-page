@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/podrobny-navod-jak-z-50-kc-udelat-50-000-kc-lepsi-nez-kuponova-privatizace
 published: true
 post_date: 2011-02-25 11:37:42
+categories: [Příběhy]
 ---
 Ano, občas se vyplatí vědět, jak na to. Jak udělat bez velké námahy slušné peníze. Ukážu vám, jak pomocí notebooku uděláte z padesátikoruny padesát tisíc.
 Takže popořádku, abyste návod pochopili - ukážu to na svém příkladu. Mám notebook, Apple MacBook 13. Koupil jsem ho v roce 2006, takže už mu táhne na pátý rok, už tehdá byl refurbished. Čas a především dcera z něj odlámaly pár kousků přebytečného plastu, CD mechanika nefunguje, což je dobře, stejně jen žrala proud a na nic nebyla. Je po výměně displeje i baterie, obojí už mělo svá nejlepší léta za sebou.

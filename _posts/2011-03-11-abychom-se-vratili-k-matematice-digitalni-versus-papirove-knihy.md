@@ -8,8 +8,9 @@ oldlink: >
   https://www.marigold.cz/item/abychom-se-vratili-k-matematice-digitalni-versus-papirove-knihy
 published: true
 post_date: 2011-03-11 11:30:30
+categories: [eKnihy, Knihy]
 ---
-Nakouslo se to v komentářích <a href="http://www.marigold.cz/item/pane-pistorie-bojujete-za-vydavatele-ne-za-autory">pod článkem o patro níže</a>. A protože jsem si to stejně chtěl hrubě propočítat a o komentáře jsem při přenosu článku přišel, sesumírujme si to a udělejme to s tím, že jde o hrubý propočet a bude zajímavé sledovat, čím se v praxi zjemní (a/nebo pojebe).
+Nakouslo se to v komentářích <a href="/pane-pistorie-bojujete-za-vydavatele-ne-za-autory">pod článkem o patro níže</a>. A protože jsem si to stejně chtěl hrubě propočítat a o komentáře jsem při přenosu článku přišel, sesumírujme si to a udělejme to s tím, že jde o hrubý propočet a bude zajímavé sledovat, čím se v praxi zjemní (a/nebo pojebe).
 
 Koncernová pětiletka v papírové verzi by stála cca 150-200 Kč dle odvahy vydavatele. Za stávající sazby DPH bych dostal od průměrně naladěného vydavatele cca. řekněme těch 15 Kč. 
 Koncernová pětiletka v elektronické verzi bude stát něco jako 99 Kč, odpočtěme výpalného 20% pro pana Kalouska (19,8 Kč) a 25% pro eshop s eknihama, konverzi do eformátu a platební kanály (dalších 19,8 Kč). Ve výsledku zinkasuju 59 Kč jako autor. Drobný problém je, že z toho musím poplatit věci, co dělá běžně nakladatel, zejména korekturu a tvorbu obálky. Obálku jsem spíchnul sám, korektura vydá na další jednotky tisíc nákladu, v tomto případě řekněme 4Kkč. Musí se prodat 70 knížek, abych zaplatil tyhle náklady korektury.  
