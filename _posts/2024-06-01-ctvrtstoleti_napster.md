@@ -2,7 +2,8 @@
 layout: post
 title:  Před čtvrtstoletím odstartoval Napster a změnil svět hudby
 categories: [Hudba, Intelektuální práva]
-excerpt: Na vrub české debaty o euru... 
+excerpt: Před čtvrtstoletím odstartovala služba Napster, která změnila svět hudby a filmu. Službu založili Shawn Fanning a Sean Parker a umožňovala pohodlné sdílení a stahování hudebních souborů. Do té doby hudební průmysl svorně tvrdil, že nic takového nemůže fungovat a lidé to nebudou používat. 
+post_date: 2024-1-6 13:48:16
 ---
 
 Před čtvrtstoletím odstartovala služba Napster, která změnila svět hudby a filmu. Službu založili Shawn Fanning a Sean Parker a umožňovala pohodlné sdílení a stahování hudebních souborů. Do té doby hudební průmysl svorně tvrdil, že nic takového nemůže fungovat a lidé to nebudou používat. 
