@@ -25,7 +25,7 @@ Facebook na celé věci děsí a v inzerátu se odvolával na ubohého malého p
   
 Internetem se záhy rozšířil srovnávací obrázek, kolik dat o vás který messagingový klient shromažďuje a zpracovává, zvláště signifikantní je rozdíl mezi aplikací Signal a Messenger.
 
-![Co o vás messengery zpracovávají](/assets/instantmessengery-privacy.png)
+![Co o vás messengery zpracovávají](/assets/instantmessengery-privacy.jpg)
 
 Privacy Labels pro jednotlivé instant messagingové aplikace
 
