@@ -6,7 +6,6 @@ date: 20.12.202O
 excerpt: Po internetu lítá článek Radka Sárköziho věnovaný školství a Pirátům. Článek zapomněl říct mnoho věcí, takže toto je moje douška na doplnění.
 ---
 
-
 Po internetu lítá článek Radka Sárköziho věnovaný školství a Pirátům. Článek zapomněl říct mnoho věcí, takže toto je moje douška na doplnění.
 
 Chystaná novela školství má totiž umožnit vyučovat na školách i lidem, kteří nevystudovali pedagogickou fakultu a/nebo nemají formální vzdělání v oboru. Změnu v novele podporují a připravují Piráti a to je pro dotyčného pána důvod k nadpisu „[Piráti s Plagou a Drahošem chtějí potopit učitelskou profesi](https://sarkozi.blog.idnes.cz/blog.aspx?c=762425)„.
