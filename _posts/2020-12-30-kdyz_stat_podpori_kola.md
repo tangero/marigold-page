@@ -8,6 +8,7 @@ excerpt: Litva provedla zajímavou akci. Lidem, kteří se rozhodli zbavit star�
 
 Litva provedla zajímavou akci. Lidem, kteří se rozhodli zbavit starého automobilu nabídla dotaci 1000 euro na elektrokolo či elektrokoloběžku. S ohledem na to, že vozový park v Litvě nepatří k nejmodernějším, tvoří jej přestárlé koncernové ojetiny, mnoho automobilů ani tuhle hodnotu nemělo, takže pro obyvatele šlo o vcelku zajímavou nabídku. Už s ohledem na to, že za tisíc euro se slušné elektrokolo dá pořídit. Takže se původní osmimilionová částka rychle vyčerpala a vláda přihodila další tři miliony, čímž se počet elektroprostředků zvýšil o jedenáct tisíc a zároveň z autooběhu vypadly nejhorší vraky. Pro představu, představuje to jedno procento automobilů v Litvě. Zdroj:  [Electrek](https://electrek.co/2020/11/01/lithuania-trade-in-old-cars-for-electric-bikes-scooters/).
 
+
 > Tento komentář vyšel  **v rámci Patrickova newsletteru**, který si můžete  [zdarma objednat zde](https://zandl.substack.com).
 
 Pro úspěch elektrokol v Litvě hrají i další předpoklady: dojížděcí vzdálenosti do práce či do školy jsou relativně krátké například ve srovnání s USA, typická vzdálenost je pod deset kilometrů. Lze také často volit trasy mimo hlavní silnice, po komunikacích, kde je malý či pomalejší provoz. A kromě toho je Litva rovinatou zemí, kde ježdění i na obyčejném kole není namáhavé.
