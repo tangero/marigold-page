@@ -6,7 +6,7 @@ date: 06.12.202O
 excerpt: 
 ---
 
-Zanedlouho se bude rozhodovat o tom, zda Piráti půjdou či nepůjdou do koalice se STANem. Zajímavé je, že když poslouchám lidi v obou stranách (a v Brandýse jsme s nimi do místního zastupitelstva koalici už měli), slýchám prakticky vždycky to samé – na „ty druhé“.
+Zanedlouho se bude rozhodovat o tom, zda Piráti půjdou či nepůjdou do koalice se STANem. Zajímavé je, že když poslouchám lidi v obou stranách (a v Brandýse jsme s nimi do místního zastupitelstva koalici už měli), slýchám prakticky vždycky to samé – na *ty druhé*.
 
 ### Názorové ukotvení (a jeho vnímání)
 
