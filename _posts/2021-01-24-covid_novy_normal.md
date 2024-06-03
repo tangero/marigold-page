@@ -3,7 +3,7 @@ layout: post
 title:  Co když COVID bude nový normál?
 categories: [COVID, Společnost]
 date: 24.1.2021
-excerpt: Spoléháme se až příliš v poslední době na to, že karanténní opatření vytěsní COVID a vakcinace jej dorazí, načež zmizí ze scény a už se nevrátí. Jenže tohle není vůbec samozřejmé. Z COVIDu mnohem spíše bude „nový normál“: svět se změnil a už zřejmě nebude takový, jako býval. Boj s COVIDem bude podobně, jako s jinými chorobami, trvat desetiletí a kdo ví, zda to nedopadne jako s chřipkou – potichu se smíříme s tím, že určitý počet obětí je normální součást našeho života a z boje se stane soužití. 
+excerpt: Spoléháme se až příliš v poslední době na to, že karanténní opatření vytěsní COVID a vakcinace jej dorazí, načež zmizí ze scény a už se nevrátí. Jenže tohle není vůbec samozřejmé. Z COVIDu mnohem spíše bude *nový normál*. Svět se změnil a už zřejmě nebude takový, jako býval. Boj s COVIDem bude podobně, jako s jinými chorobami, trvat desetiletí a kdo ví, zda to nedopadne jako s chřipkou – potichu se smíříme s tím, že určitý počet obětí je normální součást našeho života a z boje se stane soužití. 
 ---
 
 
