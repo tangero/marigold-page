@@ -2,11 +2,13 @@
 layout: post
 title:  Co se stane, když místo starých aut stát podpoří elektrokola
 categories: [Doprava, Elektrokola, Kola]
-date: 30.12.202O
+date: 29.12.202O
 excerpt: Litva provedla zajímavou akci. Lidem, kteří se rozhodli zbavit starého automobilu nabídla dotaci 1000 euro na elektrokolo či elektrokoloběžku. Co se stalo?
 ---
 
-Litva provedla zajímavou akci. Lidem, kteří se rozhodli zbavit starého automobilu nabídla dotaci 1000 euro na elektrokolo či elektrokoloběžku. S ohledem na to, že vozový park v Litvě nepatří k nejmodernějším, tvoří jej přestárlé koncernové ojetiny, mnoho automobilů ani tuhle hodnotu nemělo, takže pro obyvatele šlo o vcelku zajímavou nabídku. Už s ohledem na to, že za tisíc euro se slušné elektrokolo dá pořídit. Takže se původní osmimilionová částka rychle vyčerpala a vláda přihodila další tři miliony, čímž se počet elektroprostředků zvýšil o jedenáct tisíc a zároveň z autooběhu vypadly nejhorší vraky. Pro představu, představuje to jedno procento automobilů v Litvě. Zdroj:  [Electrek](https://electrek.co/2020/11/01/lithuania-trade-in-old-cars-for-electric-bikes-scooters/).
+Litva provedla zajímavou akci. Lidem, kteří se rozhodli zbavit starého automobilu nabídla dotaci 1000 euro na elektrokolo či elektrokoloběžku. S ohledem na to, že vozový park v Litvě nepatří k nejmodernějším, tvoří jej přestárlé koncernové ojetiny, mnoho automobilů ani tuhle hodnotu nemělo, takže pro obyvatele šlo o vcelku zajímavou nabídku. Už s ohledem na to, že za tisíc euro se slušné elektrokolo dá pořídit. Takže se původní osmimilionová částka rychle vyčerpala a vláda přihodila další tři miliony, čímž se počet elektroprostředků zvýšil o jedenáct tisíc a zároveň z autooběhu vypadly nejhorší vraky. Pro představu, představuje to jedno procento automobilů v Litvě. 
+
+Zdroj:  [Electrek](https://electrek.co/2020/11/01/lithuania-trade-in-old-cars-for-electric-bikes-scooters/).
 
 
 > Tento komentář vyšel  **v rámci Patrickova newsletteru**, který si můžete  [zdarma objednat zde](https://zandl.substack.com).
