@@ -2,7 +2,6 @@
 layout: post
 title:  Co se stane, když místo starých aut stát podpoří elektrokola
 categories: [Doprava, Elektrokola, Kola]
-date: 29.12.202O
 excerpt: Litva provedla zajímavou akci. Lidem, kteří se rozhodli zbavit starého automobilu nabídla dotaci 1000 euro na elektrokolo či elektrokoloběžku. Co se stalo?
 ---
 
