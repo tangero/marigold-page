@@ -2,7 +2,6 @@
 layout: post
 title:  Proč mohou odborníci vyučovat?
 categories: [Vzdělávání, Školství, Společnost]
-date: 20.12.202O
 excerpt: Po internetu lítá článek Radka Sárköziho věnovaný školství a Pirátům. Článek zapomněl říct mnoho věcí, takže toto je moje douška na doplnění.
 ---
 

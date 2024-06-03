@@ -2,7 +2,6 @@
 layout: post
 title:  Piráti se STANem nebo bez stanu
 categories: [Piráti, STAN, Politika, Volby]
-date: 06.12.202O
 excerpt: 
 ---
 
