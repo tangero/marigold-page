@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ekonomika koronaviru: když motýl ve Wuhanu kýchne
+title:  Ekonomika koronaviru - když motýl ve Wuhanu kýchne
 categories: [Covid, Ekonomika, Čína]
 excerpt: 
 ---
