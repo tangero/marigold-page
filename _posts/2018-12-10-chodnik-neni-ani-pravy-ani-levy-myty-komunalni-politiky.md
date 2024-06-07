@@ -6,8 +6,6 @@ excerpt:
 ---
 
 
-## Chodník není ani pravý, ani levý (mýty komunální politiky)
-
 Chodník není ani pravý, ani levý (neboli dělba pravice/levice není mrtvá) – pozor, je to delší článek 🙂
 
 Na některá tvrzení z komunální politiky se rychle stávám alergický. Zejména na floskuli „chodník není ani pravý, ani levý“. Tím dotyčný zpravidla chce vyjádřit, že je (samozřejmě narozdíl od vás) apolitický, jeho rozhodování je nezastřené politikou a tak dále a tak okolo.
