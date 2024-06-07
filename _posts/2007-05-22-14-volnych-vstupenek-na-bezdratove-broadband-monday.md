@@ -12,6 +12,7 @@ published: true
 post_date: 2007-05-22 10:55:23
 ---
 <p>Příští pondělí pořádá TUESDAY Business Network akci s všeříkajícím názvem <a href="http://tuesday.cz/detailAkce.aspx?id=299">Broadband jde i bez drátů, milí uživatelé</a>. Tématem tedy budou bezdrátové sítě (nejen WiFi). Program akce je následující:</p>
+
 <div>
 	<h3>Broadband jde i bez drátů, milí uživatelé</h3>
 	

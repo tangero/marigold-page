@@ -9,8 +9,7 @@ oldlink: >
 published: true
 post_date: 2007-02-16 11:06:42
 ---
-<a href="http://www.adbrite.com/mb/landing_both.php?spid=41917&afb=125x125-1-blue">
-<img src="http://files.adbrite.com/mb/images/125x125-1-blue.gif" border="1" align="right" hspace="5"></a>Byl jsem zvědavý, kdy se objeví první volně dostupné systémy pro videoreklamu na internetu. Zatímco na českém trhu je videoreklama tak v plenkách, že pro ni žádný funkční systém neexistuje ani za peníze, natož zadarmo, trh nadnárodní už má i ten zadarmo systém. Jmenuje se <a href="http://www.adbrite.com/mb/landing_both.php?spid=41917&afb=125x125-1-blue">AdBrite</a> a video nebylo jeho hlavní náplní. Ve skutečnosti je to systém pro zprostředkování inzerce mezi vydavateli a inzerenty s tím, že on celou věc obchodně zprostředkovává a technicky odbaví. Obojí zcela automaticky. Je sice zaměřený primárně na anglofilní web, ale funguje i pro jiné jazyky, pokud angličtinu skousnete.
+Byl jsem zvědavý, kdy se objeví první volně dostupné systémy pro videoreklamu na internetu. Zatímco na českém trhu je videoreklama tak v plenkách, že pro ni žádný funkční systém neexistuje ani za peníze, natož zadarmo, trh nadnárodní už má i ten zadarmo systém. Jmenuje se <a href="http://www.adbrite.com/mb/landing_both.php?spid=41917&afb=125x125-1-blue">AdBrite</a> a video nebylo jeho hlavní náplní. Ve skutečnosti je to systém pro zprostředkování inzerce mezi vydavateli a inzerenty s tím, že on celou věc obchodně zprostředkovává a technicky odbaví. Obojí zcela automaticky. Je sice zaměřený primárně na anglofilní web, ale funguje i pro jiné jazyky, pokud angličtinu skousnete.
 
 Nově přidal AdBrite podporu reklamy i do videa a<strong> říká tomu InVideo</strong>. Je to triviální. Stačí mít někde Flash video, tedy .flv soubor a vyplnit jeho adresu ve formuláři plus pár dalších parametrů. A AdBrite vygeneruje kód s jejich Flash playerem i s reklamou placenou od kliku či dalších parametrů. Jak to zhruba vypadá, vidno zde v praxi:
 
