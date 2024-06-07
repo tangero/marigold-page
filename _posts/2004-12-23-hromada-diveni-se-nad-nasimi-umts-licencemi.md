@@ -29,11 +29,12 @@ K tomu velmi hezky řekla Diana Dobálová, že nevidí důvodu, proč by cena 3
 <p>
 Z této situace je jednoduché východisko: aukce a nechť si licenci odnese, kdo dá více. Cenu  nechť stanoví trh a jeho očekávání. Argumentu pro toto řešení je několik:</p>
 
-	<ul>
-	<li>stávající operátoři budou muset zavřít papulku, protože se bude hrát podle jasných kritérií, jako tehdy. Já vím, že ji držet nebudou, ale jejich argumenty nebudou mít váhu. </li>
-	<li>Zastánci myšlenky, že Oskar jakožto fungující firma by měl dostat výhodu, aby nebyl znevýhodněn proti ET/TM, by si měli uvědomit, že Oskar má GSM pásmo, zatímco čtvrtý mobilní operátor by šel do čistého UMTS, což je akce i optimisty nazývaná harakiri. Proto je pravděpodobné, že čtvrtý operátor by nabídl méně peněz.</li>
-	<li>Cenu licence by stanovil trh – nabídka a poptávka. Politikové se bát nemusí, i za těchto podmínek lze usypat do stranických kasiček. V každém případě bychom se dozvěděli, jakou víru v 3G na našem trhu mají firmy jako Orange a Vodafone a jak moc věří tomu, že si jednou koupí Eurotel…</li>
-	</ul>
+<ul>
+<li>stávající operátoři budou muset zavřít papulku, protože se bude hrát podle jasných kritérií, jako tehdy. Já vím, že ji držet nebudou, ale jejich argumenty nebudou mít váhu. </li>
+<li>Zastánci myšlenky, že Oskar jakožto fungující firma by měl dostat výhodu, aby nebyl znevýhodněn proti ET/TM, by si měli uvědomit, že Oskar má GSM pásmo, zatímco čtvrtý mobilní operátor by šel do čistého UMTS, což je akce i optimisty nazývaná harakiri. Proto je pravděpodobné, že čtvrtý operátor by nabídl méně peněz.</li>
+<li>Cenu licence by stanovil trh – nabídka a poptávka. Politikové se bát nemusí, i za těchto podmínek lze usypat do stranických kasiček. V každém případě bychom se dozvěděli, jakou víru v 3G na našem trhu mají firmy jako Orange a Vodafone a jak moc věří tomu, že si jednou koupí Eurotel…</li>
+</ul>
+
 <p>
 Takže jsem moc zvědav, jak plážové tanečky kolem 3G licence pokročí a skončí. Jen tak na okraj – nějak se při těch všech tancích přehlédlo, že se z licence vytratila technologická neutralita a ČTÚ již natvrdo hovoří o UMTS. A ještě na okraj – také se nějak přehlédlo, že ČTÚ hodlá udělit jednu telekomunikační licenci na širokopásmovou veřejnou mobilní síť v pásmu 872 MHz, kde by nový operátor dostal 2x 3,8 MHz párového spektra. Tedy dost na to, aby vyzkoušel hrátky jako Flarion a další… </p>
 
