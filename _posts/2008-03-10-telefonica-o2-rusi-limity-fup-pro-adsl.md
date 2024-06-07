@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/telefonica-o2-rusi-limity-fup-pro-adsl
 published: true
 post_date: 2008-03-10 14:59:52
+categories: [O2, Mobilní sítě]
 ---
 No vida, že to jde. Telefonica dnes oznámila, že ruší limity FUP pro všechny staré i nové zákazníky ADSL a to od prvního dubna. Snad to není apríl, protože jestli ne, tak bychom rovnou mohli říci, že je to dobrá zpráva. I když můžeme dodat, že mohla přijít dříve, díky za to, že vůbec přišla. 
 

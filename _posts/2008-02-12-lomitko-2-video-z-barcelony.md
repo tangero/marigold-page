@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/lomitko-2-video-z-barcelony
 published: true
 post_date: 2008-02-12 11:18:25
+categories: [Mobilní sítě, Video, Podcast]
 ---
 Tak tu máme první naše video z MWC 2008. Spousta problémů s jeho rozchozením, zapoměl jsem znělku doma, takže je tam nasmažená provizorní, přemázl jsem si rozloučení, takže končíme dost náhle atd. Chtěli jsme si to vyzkoušet, pohrát si trochu s videem. Stříhat to v sedě na posteli je něco jiného, než ve střižně, navíc od půlnoci a po malé párty, hm, má to své vady. Navíc iMovie 08 mne pěkně zklamalo. Musel jsem downgradovat na iMovie 6 a asi se budu muset naučit FinalCut :(
 

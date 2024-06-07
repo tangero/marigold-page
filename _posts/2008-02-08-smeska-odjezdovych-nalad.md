@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/smeska-odjezdovych-nalad
 published: true
 post_date: 2008-02-08 09:27:36
+categories: [Příběhy]
 ---
 Beru si dovolenou. Když odmyslím pár dní v loňském roce s holkama u moře, tak je to vlastně poprvé, co si ve Streamu beru nějakou dovolenou. I když, abych byl přesnější, není to dovolená, ale služební cesta, jedu do Barcelony na kongres, mám tam hromadu schůzek s lidmi kolem videa, jenže se tam těším a tak jsem si uvykl ten týden považovat za dovolenou. 
 

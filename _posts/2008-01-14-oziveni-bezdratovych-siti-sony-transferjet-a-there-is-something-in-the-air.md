@@ -8,8 +8,10 @@ oldlink: >
   https://www.marigold.cz/item/oziveni-bezdratovych-siti-sony-transferjet-a-there-is-something-in-the-air
 published: true
 post_date: 2008-01-14 20:18:20
+categories: [Bezdrátové sítě, Bluetooth, Sony]
 ---
 Minulý týden Sony představila na veletrhu CES2008 svoji novou technologii nazvanou TransferJet. Většina médií ji pasovala na konkurenta Bluetooth 3.0, ale tak jednoduché to zase není... Jak to tak vypadá, v dnes již poklidném bezdrátovém světě přijde v nejbližších letech trocha vzrušení. Nejdříve Sony a zítra možná přijde i kouzelník, protože na Mac Expo v SF už jsou k vidění plagáty Apple hlásající, že There is something in the air. Jenže co je to ten MacBookAir? Lepší vzduch pro naše jablíčka asi těžko. 
+
 <!--more-->
 Tak nejdříve o Sony TransferJet. Především je třeba říct, že jde o aplikaci sítí Near Field, safra jak to přeložit, sítě blízkého pole? NFC jako Near Field Communication potkáváme nejčastěji v hezkých proklamací o tom, jak se s tím bude platit MHD ve vyspělých městských aglomeracích, ale nebojte se, Praha není pozadu, to jsou zbožná přání dodavatelů podobných vynálezů kombinovaná s jedním prototypem namontovaným do pronajatého autobusu. 
 

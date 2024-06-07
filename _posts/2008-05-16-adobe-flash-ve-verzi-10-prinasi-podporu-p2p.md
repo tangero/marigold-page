@@ -10,6 +10,7 @@ oldlink: >
   https://www.marigold.cz/item/adobe-flash-ve-verzi-10-prinasi-podporu-p2p
 published: true
 post_date: 2008-05-16 11:22:37
+categories: [Adobe, Flash]
 ---
 Tento týden představila firma Adobe betaverzi Flash 10 (kodové jméno Astro), to jste jistě nepřehlédli. Řada vylepšení se týká renderovacích schopností, filtrů, 3D zobrazení a efektů, od toho nyní abstrahujme, protože žádná z těch novinek není přelomová, v tomto ohledu Flash prostě jde s dobou (a začasté na špici). Detaily zde</a>. 
 

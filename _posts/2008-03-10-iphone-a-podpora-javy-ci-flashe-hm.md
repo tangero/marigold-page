@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/iphone-a-podpora-javy-ci-flashe-hm
 published: true
 post_date: 2008-03-10 20:07:17
+categories: [iPhone, Java, Flash, Apple]
 ---
 O tom, že by iPhone měl podporovat Flash i Javu se v minulých pár dnech mluvilo. A když už jsem se pustil do iphonování, tak dokončím i tohle, ostatně <a href="http://blog.macich.net/clanky/java-pro-iphone-nebude/">po přečtení článku Jirky Macicha</a> mi přišlo, že ne každý pochopil pointu Javy v mobilních telefonech. 
 

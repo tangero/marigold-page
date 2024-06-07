@@ -8,9 +8,12 @@ oldlink: >
   https://www.marigold.cz/item/ctecky-elektronickych-knih-ebook-readery-v-roce-2008
 published: true
 post_date: 2008-02-06 10:17:18
+categories: [Knihy, eKnihy]
 ---
 Vloni jsem <a href="http://www.marigold.cz/item/ctecky-elektronickych-knih-ebook-readery-v-roce-2007">publikoval článek</a> se stejným nadpisem, jen letopočet v něm byl jiný. Rok s rokem sešli se a myslím, že je čas udělat si malý update, co nového jest v oblasti e-ink zařízení a čteček elektronických knih. I když mám pár schůzek na tohle téma sjednaných v BArceloně na 3GSM, není na škodu rekapitulovat si základní dění. 
+
 <!--more-->
+
 Na první pohled by se mohlo zdát, že se toho v oblasti čteček knih mnoho neudálo. Pro mne je asi nejdůležitější, že se mi do rukou dostaly první e-ink čtečky na pořádné ozkoušení a mohu tedy opravit své dojmy. Tak především, pokud někdo říká, že nechápe, proč by si lidi měli kupovat e-ink čtečky, když si mohou číst texty na PDA/iPhone, tak je to o tom, že ještě e-ink displej neviděli. Rozdíl to je, věřte mi. 
 
 <h3>e-Ink displeje</h3>

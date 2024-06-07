@@ -10,9 +10,12 @@ oldlink: >
   https://www.marigold.cz/item/mobile-world-congress-2008-prave-zacal
 published: true
 post_date: 2008-02-11 11:00:42
+categories: [MWC, Konference]
 ---
 Každoroční Mobilní kongres pořádaný GSM Asociací právě začal na výstavišti Fira di Barcelona pod bývalou letní rezidencí barcelonského prince Montjuic. A jako každým rokem i zde se budou psát a aklamovat trendy, které mají telekomunikace provázet v příštích letech. Ale nenechme se blamovat. Stejně jako každý rok i letos je to spíše výstava tužeb výrobců, než přehlídka požadavků zákazníků. A to mějme na paměti: jsou zde představovány věci, u kterých se spíše doufá, že se na trhu chytí, jejichž konkurenceschopnost potvrzují spíše prognózy analytiků, než údaje o počtu prodaných kusů. 
+
 <!--more-->
+
 <h3>Mobilní televize</h3>
 Prvním takovým buzzword, které zaznívá ze všech stran, je digitální televize. Musí ji mít každý operátor, který na trhu chce uspět, zní převládající hlas z tribun i ze stánků výrobců všech možných technologií. V podtextu slyšíme nepatrné varování: není jasné, s jakou technologií lze uspět a především, jak tento úspěch rozpoznat. Zatím je signifikantní, že penězi se úspěch změřit nedá ... nebo se prostě doposud nedostavil. Zkušební provozy DVB-H proběhly snad ve všech zemích, ale výsledky jsou... inu, nepublikovatelné. Pochlubil se ale Virgin Mobile k technologii DAB, kterou si do své virtuální sítě pronajal. Prodaných 24 tisíc přístrojů, počet předplatitelů služby  v ceně pár liber cca 6000. Poté byl projekt odpískán a Virgin Mobile ho publikoval jen proto, že sám do něj nevrazil mnoho. Na britský trh žalostný výsledek. Zastánci mobilní tlevize ukazují do Itálie, ale i o zdejších číslech si můžeme myslet mnoho podivného, když se na ně podíváme detailněji a to také jednou uděláme. 
 

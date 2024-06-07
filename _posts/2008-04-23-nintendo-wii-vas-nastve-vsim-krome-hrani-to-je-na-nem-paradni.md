@@ -10,6 +10,7 @@ oldlink: >
   https://www.marigold.cz/item/nintendo-wii-vas-nastve-vsim-krome-hrani-to-je-na-nem-paradni
 published: true
 post_date: 2008-04-23 10:57:24
+categories: [Konzole, Hry, Nintendo]
 ---
 První bitva marigoldí války konzolí byla vybojována. Půjčený Xbox jsem vrátil (díky, Ivono!), chvíli jsem nad tím ještě špekuloval, dlouho porovnával Xbox a Playstation 3, až jsem se na to vykašlal a v pátek si koupil Nintendo Wii. Vsadil jsem na to, že to, co mi lidi říkali, je pravda, že je to prudce víc hratelné. Dovolte mi pár zkušeností, možná přijdou vhod i dalším váhajícím. 
 

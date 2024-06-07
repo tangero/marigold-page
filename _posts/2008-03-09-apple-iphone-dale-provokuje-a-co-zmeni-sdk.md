@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/apple-iphone-dale-provokuje-a-co-zmeni-sdk
 published: true
 post_date: 2008-03-09 09:37:30
+categories: [Apple, iPhone]
 ---
 Apple představil svůj vývojářský kit pro iPhone a ucelených informací o tom na českém netu pomálu, pokud odmyslím z kontextu vytrhané informace blábolila Hulána. Přitom šlo o očekávanou událost a v oboru telekomunikací relativně slušně sledovanou. 
 

@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/vcerejsi-vysledky-tncz
 published: true
 post_date: 2008-05-07 07:49:52
+categories: [Média, Nova]
 ---
 Když odmyslím, že komentáře na Tn.cz byly veskrze negativní, stojí za to se podívat na výsledky Tn.cz v ohledu návštěvnosti. Ty totiž byly vesrkze positivní a jako prohnaný webista bych radši bral návštěvnost, než kladné ohlasy... 
 

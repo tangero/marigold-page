@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/trocha-testovani-na-lidech-novy-chronomag-a-stream-hudba
 published: true
 post_date: 2008-01-23 10:34:30
+categories: [Chronomag, Příběhy]
 ---
 Letošní rok jsem se rozhodl věnovat konsolidaci webů, které provozujeme či spravujeme jako Ariga. Ne každý si toho všiml, ale nakonec jsme vybudovali ne zase tak nenavštěvované portfolio webů zaměřených na slušné "tržní niche". Úhrnem dva miliony zobrazených stránek měsíčně, dvě stovky tisíc návštěvníků. Marigold je na první pohled vlajková loď. Chyba lávky. Vlajkovou lodí je <a href="http://www.chronomag.cz">Chronomag</a>, na který jsem kvůli pracovnímu vytížení musel kašlat hodně moc. A letos jsem se rozhodl mu to vynahradit. 
 

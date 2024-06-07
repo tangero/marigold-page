@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/friendfeed-mit-prehled-o-pratelich
 published: true
 post_date: 2008-04-13 20:07:52
+categories: [Startupy]
 ---
 Není to tak dávno, co jsem tu v rámci novinek psal o webu <a href="http://www.spokeo.com">Spokeo.com</a>, který umožňuje sledovat, co vaši přátelé zrovna dělají na webu, tedy kam nahráli fotky, kde napsali co na blog atd. FriendFeed je něco podobného, ale jiného v principu. V poslední době je o něm také více slyšet a myslím, že stojí za to ho zmínit samostatně. 
 

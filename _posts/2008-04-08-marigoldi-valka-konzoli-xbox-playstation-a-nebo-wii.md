@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/marigoldi-valka-konzoli-xbox-playstation-a-nebo-wii
 published: true
 post_date: 2008-04-08 20:14:14
+categories: [Konzole, Hry]
 ---
 Řekl jsem si onehdá, že bych si docela zahrál nějakou počítačovou hru. A byl to proces, jakému není rovno, jak u mne jinak. Proč? Protože nejsem typický pařan. Čas, který mohu/chci věnovat hře na počítači, je spíše v úrovni několika minut, maximálně desítek minut denně, počítám-li v to klidný sobotní večer. Proč tak málo, to je jiná otázka kombinující rodinu (item primo) a práci (item secundo) v odpovědi. A za tuhle dobu na PC hru většinou ani nespustím, natož abych ji stihl instalovat. Rozumějte: mám plnou poličku her pro PC, šlágry jako Balldurs Gate, Diablo 2, Sacred, všechno originálky. Jenže na ně nemám čas. A od jisté doby už ani doma nemáme PC, musel bych Macka spouštět ve Windows. Pár her na Macka mám taky, ale mají jedno shodné s Windowsáckýma: nebaví mne to. Nemám čas na to je hrát a vím, že to jsou hry, které čas vyžadují. Jsem prostě "občasný hráč" - <em><a href="http://en.wikipedia.org/wiki/Casual_gamer">casual gamer</a></em>.
 

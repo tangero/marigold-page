@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/steve-jobs-predstavil-novy-macbook-air-a-take-pujcovani-filmu
 published: true
 post_date: 2008-01-16 08:12:02
+categories: [Apple]
 ---
 Letošní hlavní projev Steva Jobse na americkém MacWorldu přinesl řádově čtyři novinky. Jedna z nich je zajímavá hlavně pro filmový průmysl a jako něco, co bude formovat strategii téhož, si ji rozebereme trochu víc. Nový notebook MacBook Air bude na český trh přeci jen velké sousto, soudím, ale pro mne osobně jde o něco, na co jsem čekal. Takže o tom už jen tak z osobního zájmu. 
 

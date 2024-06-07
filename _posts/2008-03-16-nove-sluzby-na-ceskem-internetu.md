@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/nove-sluzby-na-ceskem-internetu
 published: true
 post_date: 2008-03-16 08:17:08
+categories: [Startupy]
 ---
 Občas bych zase rád zmínil zajímavé nové služby na českém internetu. Tedy to, co mne zaujalo, abych byl přesnější. Tak pojďme na to. 
 

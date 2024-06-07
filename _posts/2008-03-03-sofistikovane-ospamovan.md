@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/sofistikovane-ospamovan
 published: true
 post_date: 2008-03-03 09:24:27
+categories: [Spam]
 ---
 Minulý týden byl týden plný bojových událostí, nenadálých zvratů a akcí hodných pár facek. Podle toho také dopadl, nic jsem nestíhal. Už ani odpovídat na emaily. Skončilo to horečkou a ležením v posteli. A při té příležitosti jsem procházel administraci serveru a všimnul jsem si nového sofistikovaného druhu spamu v češtině. A teď trochu morálního "co s tím".
 

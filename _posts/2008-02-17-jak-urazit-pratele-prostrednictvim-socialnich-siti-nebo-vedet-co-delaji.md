@@ -11,6 +11,7 @@ oldlink: >
   https://www.marigold.cz/item/jak-urazit-pratele-prostrednictvim-socialnich-siti-nebo-vedet-co-delaji
 published: true
 post_date: 2008-02-17 10:49:30
+categories: [Sociální sítě]
 ---
 Již nějakou tu dobu používám službu <a href="http://www.plaxo.com">Plaxo</a> - jde o americký server určený původně k uchovávání a aktualizaci obchodních kontaktů, v poslední době se ale rozhodli svést se na vlně zájmu o sociální sítě a přidali rozhraní přetvořené i na ostatní typy kontaktů. V poslední době do toho Plaxo pořádně šlape, v zahraničí a mezi pokrokovými businessmany i u nás je to dost používaná služba a někoho moudrého v Plaxu napadlo, že businessman netouží vést si odděleně business kontakty a přátele a také, že nechce, aby se to nějak směšovalo, což bylo doposaváde jedinou možností, jak obojí v Plaxu vést. 
 

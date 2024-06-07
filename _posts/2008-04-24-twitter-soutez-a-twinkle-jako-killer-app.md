@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/twitter-soutez-a-twinkle-jako-killer-app
 published: true
 post_date: 2008-04-24 06:45:59
+categories: [Sociální sítě, Twitter]
 ---
 Sám jsem nikdy nepřišel Twitteru a mikroblogování na chuť. Účet tam mám, z povinnosti, abych zkoumal. Použil jsem to jedinkráte, když jsem z Barcelony přes Twitter psal postřehy, od té doby ležel ladem. Až v poslední době a může za to Twinkle. A Twinkle může také za první Twitter soutěž u nás. 
 

@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/lomitko-3-mobilni-marketing
 published: true
 post_date: 2008-02-13 11:34:48
+categories: [Mobilní sítě, Video, Podcast]
 ---
 Tak jsme natočili a sestříhali třetí díl Lomítka a tentokráte se s Tomášem bavíme o mobilním marketingu, kterého je na MWC plno. Takže, pokud vás to zajímá, nechte si chutnat :)
 

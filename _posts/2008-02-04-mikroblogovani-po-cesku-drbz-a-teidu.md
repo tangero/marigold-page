@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/mikroblogovani-po-cesku-drbz-a-teidu
 published: true
 post_date: 2008-02-04 10:57:46
+categories: [Sociální sítě, Startupy]
 ---
 Bylo jen otázkou času, kdy mikroblogovací systémy dorazí i do Česka. Po slušném celosvětovém úspěchu Twitteru a Jaiku (ve smyslu návštěvnosti a citovanosti v médiích) se i u nás něco urodilo, ale byly to spíš drobnosti reklamního charakteru jako staropramenný reklamní <a href="http://www.zijesjenjednou.cz">ŽiješJenJednou.cz</a> nebo velmi jednoduché <a href="http://www.codelam.cz">CoDělám.cz</a>. Zatímco oba dva tyto projekty jsou už spíše neaktuální, dva nové přicházejí.
 <!--more-->

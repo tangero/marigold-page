@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/paysec-jeste-nebezi-a-uz-ma-na-triku-podvody-s-identitama
 published: true
 post_date: 2008-04-16 06:14:49
+categories: [Platby, Startupy]
 ---
 Sám jsem se do nové platební služby PaySec registroval teprve včera, abych ji trochu prozkoumal. Dlužno říct, že především pod dojmem investigativního článku <a href="http://online.zurnalistika.cz/62/pr-agentura-zneuziva-blogy-ceskych-deniku/">Adama Javůrka na Online Žurnalistice</a>. Byl to kapitální úlovek, všechna čest Adamovi. 
 

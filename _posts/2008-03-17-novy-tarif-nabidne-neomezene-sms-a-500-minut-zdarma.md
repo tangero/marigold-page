@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/novy-tarif-nabidne-neomezene-sms-a-500-minut-zdarma
 published: true
 post_date: 2008-03-17 20:22:17
+categories: [Mobilní sítě]
 ---
 To všechno za poměrně slušný poplatek 800 Kč měsíčně. Pokud je vám těch minut málo, dostanete dražší paušál za 1100 Kč, kde dostanete v ceně SMS zprávy a 750 volných minut měsíčně. K tomu zdarma (za symbolickou kačku) Sony Ericsson K660i nebo Nokia 6500 dle vaší volby. Tím se dostáváme ke dvěma nevýhodám této tarifní nabídky. Tak za prvé je podmíněna úpisem na 12 či 18 měsíců (za 18 měsíců úpisu jsou i lepší mobily). Tahle podmínka by asi vadila méně. Více vadí geografické omezení, nabídka pochází od britské 3 a jde o <a href="http://www.three.co.uk/personal/price_plans_/pay_monthly_/unlimited-texter.omp">tarifní plán Short & Sweet</a>. Takže se týká její britské sítě. 
 

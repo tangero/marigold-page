@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/nova-a-tncz-uz-jdou-dolu
 published: true
 post_date: 2008-05-12 15:12:56
+categories: [Média, Nova]
 ---
 Původní opravdu zajímavé výsledky spuštění zpravodajského portálu Nova.cz (inzerovaného jako Tn.cz) se radikálně proměňují. Na následujícím grafu vidíme výsledky provozu domény Nova.cz v Netmonitoru - doména Tn.cz se na Nova.cz přesměrovává kvůli součtu provozu. 
 

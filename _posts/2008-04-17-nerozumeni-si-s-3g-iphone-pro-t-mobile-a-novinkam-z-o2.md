@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/nerozumeni-si-s-3g-iphone-pro-t-mobile-a-novinkam-z-o2
 published: true
 post_date: 2008-04-17 06:28:35
+categories: [iPhone, T-Mobile]
 ---
 Nějak mám dojem, že tomu v poslední době zase nerozumím, že se mi rozjela realita s tím, co se dočítám. Tak například český T-Mobile včera <a href="http://ihned.cz/3-24060170-iphone-000000_d-18">skrze Hospodářské noviny</a> dal najevo, že hodlá do vánoc na trh uvést iPhone. Ovšem že se čeká na 3G verzi, která by měla být brzy. Jak brzy, to se neví. Chvíli jsem to bral jako positivní signál, že už by se konečně mohla spustit normální 3G síť od T-Mobile, přičemž slovem normální rozumím takovou variantu, kterou podporují telefony výrobců jako Nokia, Sony Ericsson nebo Samsung. Pak se ukázalo, že příčinou čekání je fakt, že Apple do uvedení nového modelu nebude otevírat nové trhy. Takže českému T-Mobile je 3G nadstavba nového iPhone málo platná. Leda až to jednou spustí... až ...
 

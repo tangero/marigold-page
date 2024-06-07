@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/video-hdanky-pro-letosni-rok
 published: true
 post_date: 2008-03-04 10:55:01
+categories: [Video, Média]
 ---
 Letošní rok bude ještě více rokem videa, než ten loňský. Soudí tak nejenom zahraniční odborníci, ale vposledku i tuzemský tisk, který asi nepřehlédl vzestup návštěvnosti Streamu. Nu a pokud se podíváte na odhady provozu soudící, že Youtube.com dělá až 40% provozu na celosvětovém internetu, začínají být úvahy o HD videu zajímavé i pro síťaře samotné. HD video znamená čtyřikrát větší kvalitu obrazu oproti klasickému SD (či po televizácku PALu), což znamená také podstatně větší soubory a tím i podstatně větší provoz. Představa, že by Youtube přešel na HD kvalitu, je tedy ze síťařského hlediska jistě zajímavá. 
 <!--more-->

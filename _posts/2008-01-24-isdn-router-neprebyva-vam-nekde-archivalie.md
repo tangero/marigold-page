@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/isdn-router-neprebyva-vam-nekde-archivalie
 published: true
 post_date: 2008-01-24 15:10:18
+categories: [Příběhy, ADSL, ISDN]
 ---
 Update: děkuju všem, co se ozvali s tipem, nakonec jsem ráno od Davida Veselky nafasoval Asuse a snad to poběží :)
 

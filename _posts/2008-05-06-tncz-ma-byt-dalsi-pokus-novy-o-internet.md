@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/tncz-ma-byt-dalsi-pokus-novy-o-internet
 published: true
 post_date: 2008-05-06 06:47:08
+categories: [Média, Nova]
 ---
 <i>Update o statistiky na konci.</i> TV Nova v případě internetu prokazuje excelentní bezradnost. Web Tn.cz má být dalším pokusem, jak toto změnit, protože tímto webem se má TV Nova stát trojkou českého internetu, alespoň ve vizích managementu. Portál odstartoval včera krátce po sedmé (oficiálně v 19:45) a trochu jsem si ho prolezl ze zájmu profesního a z důvodu validace svých tezí. 
 

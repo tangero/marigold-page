@@ -10,6 +10,7 @@ oldlink: >
   https://www.marigold.cz/item/dvb-h-doporucene-preferovane-standardizovane-schvalene-jedine
 published: true
 post_date: 2008-03-20 10:27:00
+categories: [Média, Televize]
 ---
 Bylo prima nechat si tuhle zprávu tři dny uležet, protože ve slovíčkách nebylo jasno. Ostatně, stále není. V zásadě je to tak, že Evropská komise se vyslovila v tom smyslu, že doporučeným technickým standardem pro mobilní televizi v zemích EU je DVB-H. Což některé, <a href="http://vucako.bloguje.cz/669726-es-schaun-aufs-dvb-h-voll-hoffnung-schon-millionen.php">jako Kamojeda,</a> přivedlo k výlevům nechutenství nad neuvážlivostí EU. 
 

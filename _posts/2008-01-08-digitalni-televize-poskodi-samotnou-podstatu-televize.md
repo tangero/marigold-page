@@ -11,8 +11,10 @@ oldlink: >
   https://www.marigold.cz/item/digitalni-televize-poskodi-samotnou-podstatu-televize
 published: true
 post_date: 2008-01-08 11:09:01
+categories: [Televize, Média]
 ---
 <p>Jestli něco má šanci popostrčit netradiční formy distribuce videa po českém internetu, tak je to především nástup digitální televize. A situace na českém televizním trhu, ať už s předešlým souvisí nebo nesouvisí.</p>
+
 <p>Proč? Inu, je to prosté. Zatím jsme od televize očekávali, že ji zapnete a ona běží, něco na ní hraje. Třicet let stará dědova Tesla stejně jako vaše fungl nová plasma.</p>
 <p>S digitální televizí to taková prča není. Musíte si koupit set-top box. Pokud televize v sobě digitální tuner nemá. Dědova Tesla ho pravděpodobně mít nebude a nákupem tuneru zvýšíte hodnotu této televize trojnásobně. A kupovat si teď plazmu bez digitálního tuneru je nerozum. Že by?</p>
 <!--more-->

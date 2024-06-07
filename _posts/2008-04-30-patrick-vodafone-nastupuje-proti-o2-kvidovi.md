@@ -10,6 +10,7 @@ oldlink: >
   https://www.marigold.cz/item/patrick-vodafone-nastupuje-proti-o2-kvidovi
 published: true
 post_date: 2008-04-30 08:43:39
+categories: [Mobilní sítě, Vodafone, O2]
 ---
 Zatímco Telefonica O2 přináší sponzorované hovory o délce jedné minuty pod heslem <em>
 Platí to Kvído</em>, Vodafone jde v zuřící reklamní válce telekomunikačních společností dále. Vodafone byl vždycky připraven posouvat limity a výzvy v reklamní branži a poslední jeho akce <em>"Vodafone Život"</em> je toho jen dobrým příkladem. Měl jsem příjemnou možnost přihlásit se do pilotního provozu a máte se věru na co těšit.

@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/twitter-z-vystaviste-mwc
 published: true
 post_date: 2008-02-11 11:58:58
+categories: [Twitter, Sociální sítě, Konference]
 ---
 Pokud vás zajímají i drobnější postřehy z výstaviště, zprovoznil jsem Twitter na adrese <a href="http://www.twitter.com/tangero">twitter.com/tangero</a> - můžete se tam přihlásit k odběru zpráviček přes SMS, email, RSS atd - nebo to samozřejmě číst přes web. 
 

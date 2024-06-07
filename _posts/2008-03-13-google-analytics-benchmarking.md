@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/google-analytics-benchmarking
 published: true
 post_date: 2008-03-13 11:04:54
+categories: [Google]
 ---
 Novinkou v Google Analytics je funkce nazvaná "benchmarking", tedy porovnání (informuje <a href="http://analytics.blogspot.com/2008/03/benchmarking-now-available-plus.html">Google na blogu</a>). V daném případě jde o porovnání vašeho webu s provozem na jiných webech ve stejném odvětví. Odvětví si můžete vybrat ze seznamu kategorií v seznamu. 
 

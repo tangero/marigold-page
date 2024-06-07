@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/apple-iphone-sdk
 published: true
 post_date: 2008-03-06 21:09:24
+categories: [Apple, iPhone]
 ---
 <strong>Noname píše</strong> Dnes se bude uvolňovat dlouho očekávaný SDK pro iPhone, těšit se také můžeme na představení firemních fičur. Firemní fičury je to co mě osobně na iPhone chybělo nejvíce, těšit se ale už nyní můžete na podporu Microsoft Exchange a ActiveSync, "Push" pro e-maily a kontakty, globální adresář, podporu pro Cisco IPsec VPN, autentikaci s certifikáty atd., dostupné to bude pro všechny hned, jak vyjde nová verze firmware.
 

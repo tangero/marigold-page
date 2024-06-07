@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/setkani-techcrunch-probehne-v-kvetnu-v-praze
 published: true
 post_date: 2008-04-25 06:34:37
+categories: [Techcrunch, Startupy]
 ---
 Tohle je milý husarský kousek. Setkání lidí kolem internetu TechCrunch <a href="http://www.techcrunch.com/2008/04/24/crunchgeartechcrunch-meet-up-in-prague-may-23/">proběhně 23. května v Praze</a>. A to je věc, která stojí za pozornost, protože narozdíl od nejrůznějších konferencí, je tohle zcela neformální setkání, kde máte šanci přijít a potkat se s lidmi z "velkého internetu" na všech možných stranách oceánů (taky všech možných).
 

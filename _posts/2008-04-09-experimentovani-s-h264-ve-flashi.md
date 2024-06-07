@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/experimentovani-s-h264-ve-flashi
 published: true
 post_date: 2008-04-09 16:14:38
+categories: [Video, Flash]
 ---
 Už jsem kdysi psal, že s tímhle bude jednou sranda - H.264 ve Flashi. Připravili jsme (tedy Franta, abych byl přesný v rámci elaborování s vyšší kvalitou) takový malý pokus, abyste si to uměli lépe představit ... 
 

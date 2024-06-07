@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/datovanky-aneb-dobra-vule-k-pouziti-mobilnich-dat
 published: true
 post_date: 2008-05-14 13:57:48
+categories: [Mobilní sítě, Mobilní data]
 ---
 S mobilními daty je to u nás trochu na palici. Kdysi jsme byli země tahounů, ale ta doba je dávno pryč. Trochu s nevolí jsem pročítal včerejší zprávu, že v Rakousku zprovoznila Trojka rychlost 10 Mb/s na 3G s HSDPA. Mírně to brzdí menší dostupnost patřičných terminálů (většinou jde o modemy), ale třeba Huawei nedávno vydal update firmware a ovladačů pro i u nás prodávané HSDPA USB modemy Huawei E220, takže zvládnou rychlost až 7,2 Mb/s. Nenadskakujte radostí, k něčemu je to zatím jen u O2 a jen v případě, že si připlatíte. A i za ten příplatek 178 Kč (incl. VAT) se vyšplháte z klasické 3G rychlosti 384 Kb/s na 512 Kb/s, protože Eurotel (O2) prostě víc pro HSDPA nepouští. A to vynechávám fakt, že služba je "regionálně omezená" - pár měst a dost. 
 

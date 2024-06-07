@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/vcerejsi-communication-wednesday-a-barcelona
 published: true
 post_date: 2008-02-21 10:03:10
+categories: [Přednášky]
 ---
 Včera jsem byl na akci zvané Communication Wednesday, kterou pořádá sdružení Tuesday Business Network. Byl  jsem požádán, abych rekapituloval zajímavosti z Barcelony, takže jsem tam udělal maličkou presentaci. Tu najdete zde. 
 

@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/otestujte-si-celovecerni-film-renesance-online
 published: true
 post_date: 2008-05-06 19:20:14
+categories: [Média]
 ---
 <b>Update:</b> našli jsme chybu, kvůli které nám to vyhazovalo testery. Poté, co jsme všechno rozkopali, se ukázalo, že u jedné komponenty jsme špatně zkopírovali konfiguraci balanceru a ten nám vyhazoval uživatele. Už jest to opraveno, takže: 
  
