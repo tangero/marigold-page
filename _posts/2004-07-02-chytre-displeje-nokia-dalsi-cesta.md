@@ -32,7 +32,7 @@ Před rokem, když Nokia uváděla 6600 také nenápadně změnila Series 60 na 
 <p>
 Asi není pochyb o tom, že myšlenky v Nokii se směrem nějakého PDA zařízení ubírají. Nokia nedávno představila bluetooth klávesnice QWERTY, které lze připojit k Series 60 telefonům, takže není těžké si představit dva směry - Series60 zařízení s větším displejem a vestavěnou klávesnicí, kterou bude možno doplnit o tuto full-size klávesnici přes bluetooth. Možná něco na způsob starších Psionů Revo/MX, jen s tím rozdílem, ze klávesnice půjde otočit tak, aby se zařízení dalo držet jednou rukou a klepat do dotykového displeje (tomu už Nokia neunikne).</p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/20040702-smartdisplay.gif" alt="Chytrý displej - tenhle je od společnosti NEC a je založený na Microsoft řešení" width="335" height="240" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/20040702-smartdisplay.gif" alt="Chytrý displej - tenhle je od společnosti NEC a je založený na Microsoft řešení" width="335" height="240" /></div>
 <p>
 Nebo něco jako <strong>&quot;chytrý displej&quot;. </strong>Chytrý displej je zařízení, jemuž stále více věřím - pod tento název ale zatím shrnuji to, co Microsoft dozděluje do dvou větví - na <strong>smartdisplay</strong> a <strong>TabletPC</strong>. Podle mne hlavní výhodou chytrého displeje musí zůstat fakt, že je docela lehce přenosný a hlavně kdykoliv připraven k použití. Máte ho na stole, klepnete na displej a okamžitě vám naběhne - ne že bude dvě minuty bootovat, jako klasická Windows. Ihned můžete na web, ihned k poště. </p>
 <p>

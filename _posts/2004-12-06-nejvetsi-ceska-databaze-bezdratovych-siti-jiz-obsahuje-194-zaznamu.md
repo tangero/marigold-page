@@ -12,7 +12,7 @@ oldlink: >
 published: true
 post_date: 2004-12-06 10:20:00
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/cache/20041206-wifimapa.gif" alt="Mapa Wi-Fi sítí" width="200" height="122" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/cache/20041206-wifimapa.gif" alt="Mapa Wi-Fi sítí" width="200" height="122" /></div><p>
 Předpokládám, že Patrick je touhle dobou už někde v letadle na cestě do Egypta (i když nevím přesně kdy odlétá), přejme mu šťastné líbánky a málo teroristů po cestě.</p>
 <p>
 Protože udělal tu chybu ;-) a nechal mi redakční práva do systému, tak sem opět budu dva týdny přidávat články já. Doufám, že se tentokrát přidají i ostatní s těmito pravomocemi, už si nebudu moci dovolit trávit tím denně 3 hodiny.</p>

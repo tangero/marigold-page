@@ -12,7 +12,7 @@ post_date: 2004-11-20 08:53:26
 <p>
 Službu Přehled.net doplnil Petr Olmer o novinku - perzonalizovanou sekci Můj Přehled.Net na adrese <a href="http://muj.prehled.net">muj.prehled.net</a>.</p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041120-mujprehlednet.gif" alt="Můj Přehled.net" width="250" height="64" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041120-mujprehlednet.gif" alt="Můj Přehled.net" width="250" height="64" /></div>
 <p>
 Zatímco samotný Přehled.net agreguje všechny možné české (a trochu i slovenské) technické servery a weblogy dotýkající se technických témat, perzonalizovaná část <b>Můj Přehled.net umožňuje definovat a sledovat jen vybrané zdroje</b> a to nejenom ty, které jsou v Přehledu zahrnuty, ale i vlastní, které si přidáte přes RSS.</p>
 

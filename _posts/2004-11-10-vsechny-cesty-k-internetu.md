@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-11-10 14:08:05
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/cache/20041110-cvtss-logo.gif" alt="logo ČVTSS" width="164" height="80" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/cache/20041110-cvtss-logo.gif" alt="logo ČVTSS" width="164" height="80" /></div><p>
 Nevím jak vy, ale já se posledních pár let na všech konferencích vesměs nudím — většinu toho co říkají už jsem několikrát slyšel jinde nebo četl na webu, opravdu exkluzivních a překvapujících informací se člověk nedočká. Naprosto jiný pocit jsem měl ale z dvojdenní akce, která pod názvem <a href="http://www.cvtss.cz/akce.php"><u>Všechny cesty k internetu</u></a> proběhla minulý týden v Praze na Novotného lávce. Konferenci pořádala Česká vědeckotechnická společnost spojů (ČVTSS), garantem akce byl ing. Janoušek, a to obé je zárukou nabitého programu a renomovaných hostí (MI ČR, ČTÚ, Lucent Technologies, Eurotel, Cesnet, ČTc, Sitel, Siemens, Karnevalmedia, Star-21 a ČVUT).</p>
 
 <!--more--><p>

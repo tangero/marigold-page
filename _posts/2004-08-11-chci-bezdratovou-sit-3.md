@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-11 00:01:00
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/cache/20040810-hotspoty.jpg" alt="Trhy pro bezdrátové sítě" width="210" height="173" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/cache/20040810-hotspoty.jpg" alt="Trhy pro bezdrátové sítě" width="210" height="173" /></div><p>
 V minulém díle jsme si rozebrali nejdůležitější termíny spjaté s bezdrátovými sítěmi, poslední co bych chtěl vysvětlit je pojem &#8220;<strong>hot-spot</strong>&#8221;. Máte-li libovolné další dotazy na nějaké nejasnosti ohledně názvosloví a podobně, dejte vědět v diskusi, pokusím se odpovědět.</p>
 <p>
 V druhé půli už začnu s tím pro vás nejdůležitějším, tedy &#8220;<strong>Chci bezdrátovou síť, co mám dělat?!</strong>&#8221;. Nicméně předem upozorňuji, že to asi nejzajímavější si nechávám na poslední díl(y) - ne není to kalkul abyste sem chodili každý den (i když ;-) ), prostě to předpokládá určité znalosti, které se vám snažím předem vštípit.</p>

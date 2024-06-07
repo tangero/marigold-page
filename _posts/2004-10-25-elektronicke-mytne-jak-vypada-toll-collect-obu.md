@@ -24,7 +24,7 @@ Především se ukázalo, že žádné univerzální využívání slotů v kami
 <p>
 Jak vypadá přesně OBU, vidíte na obrázku (Grundig výrobek), zatím jsem dohledal dva výrobky a to od firmy Siemens a firmy Grundig. Rozdíl je prakticky jen v provedení - Siemens se montuje na palubní desku, zatímco Grundig se montuje do DIN přihrádky, jako rádio. Toll Collect tvrdí, že své OBU dostanou kamiony zdarma, zůstává však majetkem Toll Collectu.</p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041025-grundig-tollcollect.jpg" alt="Grundig OBU Toll Collect" width="397" height="143" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041025-grundig-tollcollect.jpg" alt="Grundig OBU Toll Collect" width="397" height="143" /></div>
 <p>
 Nepodařilo se mi ale dohledat technické specifikace OBU - tedy jakým procesorem a pamětí jsou vybaveny. Není ale už pochyb o tom, že jde o klasický malý počítač. Jsem zvědav, kdy se objeví první hacky a mody pro něj&#8230; </p>
 

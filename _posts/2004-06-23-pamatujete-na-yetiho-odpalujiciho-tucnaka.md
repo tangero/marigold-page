@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2004-06-23 15:25:24
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/20040623-yetisports-hra.jpg" alt="Jak daleko odpálíte tučňáka...?" width="200" height="144" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/20040623-yetisports-hra.jpg" alt="Jak daleko odpálíte tučňáka...?" width="200" height="144" /></div><p>
 Tohle je prakticky velká sakces story, skoro stejná, jako Microsoft. Počátkem letošního roku se po internetu rozšířila mánie tučňákovské hry, kdy yeti odpaloval padajícího tučňáka do dálky. Já sám jsem <a href="http://www.marigold.cz/?itemid=805">zde dal</a> tip na hru. Hra slavila úspěch a to tak velký, že dvojice rakouských programátorů hry se dala prakticky na profesionální dráhu a vznikl celý server <a href="http://www.yetisports.org/englisch/">Yeti sports</a>.</p>
 <p>
 Na serveru najdete pět flash her na totéž téma, ale s jiným pozadím, ta pátá hra (yeti v Africe) už je opravdu fest promakaná a také grafika se radikálně zlepšila (a download time zvýšil). </p>

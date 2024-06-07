@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-11-26 17:40:09
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/20040709-asus-wl_500gx.jpg" alt="Asus WL-500GX" width="220" height="180" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/20040709-asus-wl_500gx.jpg" alt="Asus WL-500GX" width="220" height="180" /></div>
 <p>
 O domácím WiFi směrovači Asus WL-500GX jsem tu kdysi psal. Hlavní sympatická záležitost na něm pro mne byla, že má <b>dva USB 2.0 porty</b>, takže na něj můžete navěsit pevné disky připojené přes USB (nebo samozřejmě kameru, jenže na tu stačí starší model vybavený pomalejším USB 1.1).</p>
 

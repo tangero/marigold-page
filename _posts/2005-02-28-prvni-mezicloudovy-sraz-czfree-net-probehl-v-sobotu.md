@@ -11,7 +11,7 @@ post_date: 2005-02-28 08:07:00
 ---
 <p>V sobotu proběhl první mezicloudový straz CzFree.Net, pořádal ho Edoras a musím říci, že se mu (a ostatním kolem) to povedlo. I když jsem mohl být jen na dopolední části. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/20050228-mezicloudy.jpg" alt="Záběr hlediště ... " width="250" height="192" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/20050228-mezicloudy.jpg" alt="Záběr hlediště ... " width="250" height="192" /></div>
 <p>Sraz byl v kinu Aero na Žižkově a kino bylo prakticky narvané. Sraz byl nejdříve řešený formou přednášek, <a href="http://edoras.cz/mezicloudy/">program najdete zde</a> - jak vidno, jednu přednášku o WiMax a BWA jsem měl i já, všichni ji v klidu prospali, tak to má být :) (největší potlesk jsem sklidil v okamžiku, kdy jsme si mírně vjížděli do vlasů s Ookem, vypadalo to, že nám je prnví řada ochotna rozdat zbraně :) </p>
 
 <p>Podle <a href="http://www.czfree.net/forum/showthread.php?s=&amp;threadid=12119">hlasování na CzFree.Net</a> (zatím pár hlasů) měl nejlepší přednášku Láďa o optických spojích, tu jsem bohužel už neviděl, škoda přeškoda. Ale natáčelo se video, snad se to dohledá.</p>

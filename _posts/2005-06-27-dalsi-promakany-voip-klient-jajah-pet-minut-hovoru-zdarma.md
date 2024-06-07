@@ -11,7 +11,7 @@ post_date: 2005-06-27 23:07:35
 ---
 <p>V poslední době se s telefoními službami na bázi VoIP roztrhl pytel. Kdekdo by rád zopakoval úspěch programu Skype a k tomu mají dopomoci nejrůznější metody. Dříve zmíněný <a href="/item/voipbuster-nabizi-volani-na-pevne-linky-zdarma-a-teleo-a-xphone">VoIPBuster</a> nabízí minutové hovory zdarma, <a href="http://www.kapanga.net/">Kapanga</a> nabízí faxování i videohovory, bohužel v dosti nehezkém provedení. Poslední novinkou je pokus rakouské firmy Jajah technologies prosadit stejnojmenný VoIP klient na úroveň Skype mánie. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/20050627-jajah.png" alt="Jajah klient" width="277" height="427" /></div><a href="http://www.jajah.com">Jajah</a> k tomu má po pravdě řečeno řadu předpokladů. Tak zaprvé Jajah má docela hezké grafické provedení a ačkoliv ovládání není tak intuitivní, jako u Skype, je na míle daleko zoufalostem typu Kapanga nebo přeplácaným klientům jako Xlite. </p>
+<div class="rightbox"><img src="/wp-content/uploads/20050627-jajah.png" alt="Jajah klient" width="277" height="427" /></div><a href="http://www.jajah.com">Jajah</a> k tomu má po pravdě řečeno řadu předpokladů. Tak zaprvé Jajah má docela hezké grafické provedení a ačkoliv ovládání není tak intuitivní, jako u Skype, je na míle daleko zoufalostem typu Kapanga nebo přeplácaným klientům jako Xlite. </p>
 
 <p>Zadruhé Jajan nabízí telefonování zadarmo mezi Jajah klienty a také telefonování do veřejné telefonní sítě a to za velmi slušné ceny začínající na úrovni 35 haléřů za minutu hovoru do USA. Abyste neměli obavu z kvality Jajah služeb, máte pět minut na vyzkoušení zdarma - bohužel není zdarma volání na lokální 800 linky, takže i ty vám minutu hovoru sežerou. </p>
 

@@ -15,7 +15,7 @@ Když jsem říkal, že na Invexu bylo houby, nebyla to tak úplně pravda. Naš
 <p>
 Proč jsem napsal slovensko-český? Protože převažující nádech je zde ze slovenštiny, což pro nás starší ročníky (fuj 8) ) není problém, jak pro ty mladší, netuším. Shop nabízí spíše levnější a méně značkovou techniku jako Wline, Planet nebo Zcom, specialitou je, že ceny se zobrazují až po přihlášení&#8230; </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041019-keybola.gif" alt="Anténa Keybola - spíše tedy reflektor" width="230" height="192" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041019-keybola.gif" alt="Anténa Keybola - spíše tedy reflektor" width="230" height="192" /></div>
 <p>
 Abych tu nepsal jen o shopu, který si konec konců můžete prohlédnout sami, zaujal mne jeden z jeho produktů a to anténa nazvaná Keybola. Je to vlastně parabolická anténa s udávaným ziskem 19 dB a v ohnisku má USB konektor pro zapojení USB klíčenky s WiFi. Do ohniska zacvaknete klíčenku, parabola na ni/od ní směřuje signál a všechno by to mělo generovat hezký 19 dB zisk, tvrdí výrobce. Cena cca 800 Kč bez té klíčenky, počítač se připojuje přes USB a klíčenku před povětrnostními vlivy a vodou chrání plastová krytka. </p>
 

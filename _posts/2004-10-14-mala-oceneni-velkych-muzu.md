@@ -23,7 +23,7 @@ Je to hodně velkohubé prohlášení. Člověka nutně napadne, jaké jsou Berd
 <p>
 Nakonec vyhrál Ondřej Felix, vcelku známá postava českých telekomunikací,  které ale běžní lidé budou vyčítat fakt, že je prakticky neviditelná. Ondřej Felix se objevuje/objevoval v dozorčích radách (Eurotel, Telecom) a je členem představenstva <a href="http://www.spis.cz/">SPISu</a>. Ne, ja taky nevím, co SPIS dělá, kromě toho, že lobbysticky prosazuje zájmy firem v něm sdružených vůči státní správě. <a href="http://node3.bvv.cz/i2000/Akce/b-inv.nsf/WWWAllPDocsID/VJEK-65PKWH?OpenDocument&amp;LANG=CZ&amp;NAV=1&amp;ID=0">Zpráva BVV zde.</a> </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041014-osobnostroku.jpg" alt="Osobnost roku - z leva: Milan Rusnák, Jan Mühlfeit, Ondřej Felix, Petr Koubský, Pavel Kalášek" width="400" height="300" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041014-osobnostroku.jpg" alt="Osobnost roku - z leva: Milan Rusnák, Jan Mühlfeit, Ondřej Felix, Petr Koubský, Pavel Kalášek" width="400" height="300" /></div>
 <i>z leva: Milan Rusnák, Jan Mühlfeit, Ondřej Felix, Petr Koubský, Pavel Kalášek</i></p>
 
 <p>

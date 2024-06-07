@@ -15,7 +15,7 @@ post_date: 2005-01-28 13:41:03
 
 <p>Je to vlastně něco jako rádio. V sofistikovaném průvodci si vyberete na svém mobilu žánr hudby, který chcete poslouchat a StreamMan vám jej hustí do head-setu ve formátu WMA na 96 kbps bitrate (AAC kodek). Pokud vás nebaví rádio, můžete si vytvořit vlastní playlist a ten si úplně stejně poslouchat. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/1/20050128-streamman.gif" alt="Sony StreamMan" width="176" height="233" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20050128-streamman.gif" alt="Sony StreamMan" width="176" height="233" /></div>
 <p>Všechno funguje na telefonech vybavených Symbianem a to jak na Sony Ericsson rozhraní UIQ (to asi nepřekvapí), tak na Series60 od Nokia (taky nepřekvapí, protože to je 90% trhu Symbian zařízení) – jak 2,5G tak 3G telefony (z nich zatím jen Nokia 6630). A StreamMan má dokonce malé chatovadlo, můžete si posílat zprávy s přáteli i s lidmi, kteří poslouchají stejnou skladbu. </p>
 
 <p>Nějaké chyby to mít musí. A baže: má. Funguje to zatím v pilotu jen ve Finsku v síti TeliaSonnera. Jenže jak to tak vypadá, Sony StreamMan si budou moci užívat také zákazníci Vodafone a jeho Live! portálu – celá záležitost by se měla vyhlásit v Cannes. Proč? Protože Vodafone leze na nervy jeho konkurent O2 s podobnou službou Jukeboxu, zařízení, do něhož se dá stahovat hudba. A následovat by tohoto příkladu mohli i další operátoři. </p>

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-09 08:25:04
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/20040709-asus-wl_500gx.jpg" alt="Asus WL-500GX" width="220" height="180" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/20040709-asus-wl_500gx.jpg" alt="Asus WL-500GX" width="220" height="180" /></div>
 <p>
 Asus na letošním Computextu představil několik novinek, které stojí za povšimnutí. Především je to inovovaný domácí čtyřportový směrovač Asus WL-500GX, navazující na u nás také velmi oblíbenou řadu. </p>
 <p>

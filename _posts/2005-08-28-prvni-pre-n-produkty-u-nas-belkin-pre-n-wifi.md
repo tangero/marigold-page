@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-08-28 20:50:25
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/20050828-belkin-pren.jpg" alt="Belkin Pre-N router" width="250" height="250" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/20050828-belkin-pren.jpg" alt="Belkin Pre-N router" width="250" height="250" /></div>
 Už i na český trh dorážejí první výrobky vytvořené podle předběžných specifikací 802.11n, tedy takzvané "Pre-N" produkty. Pre-N produkty Belkin poskytují dle tvrzení výrobce větší pokrytí až o 800% a vyšší přenosové rychlosti až o 600% než stávající produkty 802.11b/g a 802.11a. Využívá technologii chytrých antén a čipsetu MIMO (Multiple Input Multiple Output) pro zvýšení rychlosti a pokrytí společnosti Airgo Networks. </p>
 
 <p>Tato technologie je určena pro velké domácnosti nebo kanceláře, kdy je nutné pokrýt velký prostor a je potřeba přenášet multimedia a aplikace s velkými nároky na šířku přenosového pásma s důrazem na maximální spolehlivostí.

@@ -15,7 +15,7 @@ Projekt Teledesic byl jedním z nejambicioznějších projektů satelitní sít�
 <p>
 Teledesic vznikl v roce 1990, tehdy se ještě jmenoval Calling Communications. Na Teledesic se společnost přejmenovává v roce 1994. V letech 1995-7 získává potřebné frekvence a publikuje plán vypustit na LEO (nízkou oběžnou dráhu) do výšky 1370 km celkem 840 družic aktivních plus 84 záložních, které budou nabízet celosvětově vysokorychlostní internet. Směrem k uživateli měla síť nabízet až 64 Mb/s, upload měl dosáhnout hezkých 2 Mb/s. Start sítě byl nakonec po třech odkladech definitivně posunut na rok 2004, ale podle toho, že nikde letáčky Teledesicu nevidno, správně soudíme, že se žádný velký start nekonal. Technické podrobnosti najdete na <a href="http://mobil.idnes.cz/satelitni_site/teledesic.html">Mobil.cz</a></p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/20040913-teledesic.gif" alt="Teledesic" width="119" height="88" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/20040913-teledesic.gif" alt="Teledesic" width="119" height="88" /></div>
 <p>
 Plány Teledesicu šly nejdříve velmi růžově, když do něj investoval Boeing, Motorola (oba dva především spíše do výhledu objednávek svých služeb) a pak také saudskoarabský princ Alwaleed Bin Talal Bin Abdul Aziz Alsaud, který investoval údajně až 9 miliard. V roce 1998 pohltil Teledesic projekt firmy Motorola Celestri. </p>
 

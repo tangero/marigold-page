@@ -12,7 +12,7 @@ post_date: 2004-06-14 08:20:40
 <p>
 O víkendu jsem si koupil (zřejmě docela nově vyšlou) knihu Rity Puzmanové nazvanou Širokopásmový Internet &#8211; Přístupové a domácí sítě. Vydal Cpress. Kniha má 380 stran a věnuje se technologiím pro první/poslení míli přístupu k internetu, popisuje DSL, optiku, ethernet, bezdrátové sítě WiFi, WiMAX, PAN sítě, VSAT, sítě mobilní (2G i 3G) a také internet po elektrických rozvodech. </p>
 
-	<div class="leftbox"><img src="/wp-content/uploads/20040614-kniha-bwa.jpg" alt="Širokopásmový Internet - Rita Pužmanová" width="100" height="130" /></div>
+<div class="leftbox"><img src="/wp-content/uploads/20040614-kniha-bwa.jpg" alt="Širokopásmový Internet - Rita Pužmanová" width="100" height="130" /></div>
 <p>
 Asi chápeme, že při rozsahu necelých čtyřset stránek není povídání o tolika technologiích nijak podrobné, každé z nich je věnováno pár stránek, protože třeba jen pod DSL zde najdeme desítku jeho variant. Kniha je tedy spíše a nutně přehledem používaných technologií, takže se o ni můžete opřít, pokud rychle potřebujete zjistit vlastnosti nějaké technologie, její parametry a případně základní technické aspekty jako konkrétní použitou modulaci atd. Zhruba polovina knihy se věnuje sítím bezdrátovým, první polovina je pak určena příznivcům kabelových technologií. </p>
 

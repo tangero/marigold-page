@@ -15,7 +15,7 @@ Minulý týden jsem si objednal na recenzi Seque SoftAP, firma mi ho ochotně po
 <p>
 WiFinder zjistí, zda je v okolí bezdrátová síť a podle její síly svítí určitým počtem diodek. Nemusel jsem dlouho studovat návod k použití, aby mi došlo, že čím více diodek, tím silnější signál. </p>
 
-	<div class="leftbox"><img src="/wp-content/uploads/20040621-wifinder.gif" alt="WiFinder - vyhledávač WiFi sítí jako přívěšek na klíče..." width="163" height="128" /></div>
+<div class="leftbox"><img src="/wp-content/uploads/20040621-wifinder.gif" alt="WiFinder - vyhledávač WiFi sítí jako přívěšek na klíče..." width="163" height="128" /></div>
 <p>
 Nejprve jsem si WiFinder "zkalibroval". Je to maličká krabička o rozměrech tak 3 x 7 cm, takže jsem v její ziskovou anténu mnoho nadějí nedělal. Překvapilo mne, že citlivost je zhruba stejná, jako u běžné PCMCIA karty, takže je z WiFinderu docela dobrý referenční vyhledávač. </p>
 

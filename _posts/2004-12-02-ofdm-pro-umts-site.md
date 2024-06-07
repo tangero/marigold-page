@@ -21,7 +21,7 @@ O pokusech s OFDM a HSDPA (vysokorychlostní data pro UMTS) referoval China Mobi
 <p>
 Rozpravy o zavedení OFDM do UMTS sítí by měly začít v příštím roce a předpokládá se, že standard OFDM-HSDPA bude k dispozici řádově v polovině či na konci roku 2006 a první technika by mohla být na trhu již v roce 2007 (osobně typuji min o rok později). Výrobci již s OFDM experimentují a většina z nich již nějaké vývojové prototypy má a testuje na nich, takže finální modifikace bude záležet spíše na postupu standardizace. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041202-samsung-wifi.jpg" alt="WiFi čip Samsungu" width="138" height="117" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041202-samsung-wifi.jpg" alt="WiFi čip Samsungu" width="138" height="117" /></div>
 <p>
 Nokia také naznačila, že je připravena uvést rychle na trh přístroje s podporou OFDM. </p>
 

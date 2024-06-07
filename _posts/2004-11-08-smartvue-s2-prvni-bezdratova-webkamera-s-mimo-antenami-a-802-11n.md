@@ -12,7 +12,7 @@ post_date: 2004-11-08 08:32:00
 <p>
 Na trh se dostává první webová kamera pracující se složenými MIMO anténami a podporující doposud neschválený standard 802.11N - model Smartvue S2. Musím zde podotknout, že pro kamery mi přijde využití MIMO antén a vysokorychlostního bezdrátového připojení jak dělané. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041108-smartvue_s2.jpg" alt="Smartvue S2 kamera a software" width="200" height="154" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041108-smartvue_s2.jpg" alt="Smartvue S2 kamera a software" width="200" height="154" /></div>
 <p>
 Technické informace o kameře jsou dostupné po registraci na webu výrobce, kamera je vybavena Piximáckou technologií Digital Pixel System (DPS), díky čemuž může snímat obraz ve vysoké kvalitě a rozlišení, můžete počítat s 720x480 body a až 30fps. </p>
 

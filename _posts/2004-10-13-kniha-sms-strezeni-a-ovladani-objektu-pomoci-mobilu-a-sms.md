@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-10-13 08:02:00
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041013-kniha-sms.gif" alt="Kniha o GSM alarmech" width="100" height="138" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041013-kniha-sms.gif" alt="Kniha o GSM alarmech" width="100" height="138" /></div>
 Tak jsem si na Invexu koupil knihu nazvanou &#8220;SMS - Střežení a ovládání objektů pomocí mobilu a SMS&#8221;. Stála cca 250 Kč (veletržní sleva, jinak 299 Kč), vydal ji Ben a autorem je Alexandr Krajčiřík. Kniha je vlastně sbírkou popisů nejrůznějších zabezpečovacích a ovládacích zařízení využívajících pro hlášení GSM síť. Autor zcela evidentně preferuje levné bastly a tuzemskou produkci, kniha je ostatně orientována na bastlíře a lidi, kteří si chtějí něco na toto téma doma splychtit. Něco takového jsem přesně potřeboval. Malý teoretický úvod, velký přehled zařízení na trhu (kniha právě vyšla, takže přehled je aktuální) a přehled snímačů a zapojení tak, abyste si na vybraný GSM alarm mohli připojit pár čidel a naučili se rozmístit je ve vozidle nebo objektu. </p>
 
 <p>

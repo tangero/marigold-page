@@ -12,7 +12,7 @@ post_date: 2004-10-11 08:14:00
 <p>
 Přišla mi (asi tak před měsícem) brožurka od GSM kongresu v Cannes a protože začíná být ta nejlepší chvíle objednávat ubytování a cestu, tak pár informací.</p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041011-cannes2005.gif" alt="3GSM World Congress 2005 v Cannes" width="200" height="81" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041011-cannes2005.gif" alt="3GSM World Congress 2005 v Cannes" width="200" height="81" /></div>
 <p>
 Cannes propukne 14. – 17. února 2005 a letos bude rozděleno do tří hlavních sekcí, streamů:</p>
 

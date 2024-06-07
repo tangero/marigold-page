@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-10-08 15:37:55
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041008-ferimex-flat9.jpg" alt="Ferimex Flat 9" width="200" height="168" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041008-ferimex-flat9.jpg" alt="Ferimex Flat 9" width="200" height="168" /></div>
 Ferimex vylepšoval design a hlavně parametry svých antén, mne ale zaujala novinka v jeho výrobní řadě, <a href="http://www.ferimex.com/product.php?Antenna_Flat_9">Flat 9</a>. Jak jméno napovídá, je to panelová anténa se ziskem 9 dB a vyzařovacím úhlem 60 stupnů.</p>
 
 <p>

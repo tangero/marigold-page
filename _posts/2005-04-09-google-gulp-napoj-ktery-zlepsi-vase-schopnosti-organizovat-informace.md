@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-04-09 10:41:21
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/20050409-googlegulp.jpg" alt="Google Gulp" width="100" height="200" /></div>Legrácka na víkend - tentokráte jde o <a href="http://www.google.com/googlegulp/">Google Gulp</a>. Vypijte sklenku tohoto úžasného nápoje a nejmodernější genotechnologie rozšíří schopnosti vašeho mozku organizovat informace á la Google.</p>
+<div class="rightbox"><img src="/wp-content/uploads/20050409-googlegulp.jpg" alt="Google Gulp" width="100" height="200" /></div>Legrácka na víkend - tentokráte jde o <a href="http://www.google.com/googlegulp/">Google Gulp</a>. Vypijte sklenku tohoto úžasného nápoje a nejmodernější genotechnologie rozšíří schopnosti vašeho mozku organizovat informace á la Google.</p>
 
 <p>Bohužel jsem nezjistil, kolik objednávek na tenhle nápoj Google dostal, ale asi dost. Sám bych ho bral... :)</p>
 

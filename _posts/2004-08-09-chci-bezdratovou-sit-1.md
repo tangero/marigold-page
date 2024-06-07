@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-09 21:41:36
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/cache/20040809-Wi-Fi Zone.jpg" alt="Wi-Fi Zone" width="203" height="152" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/cache/20040809-Wi-Fi Zone.jpg" alt="Wi-Fi Zone" width="203" height="152" /></div><p>
 Bezdráty (Wi-Fi zejména) zažívají v poslední době ohromný &#8220;boom&#8221;, respektive ty, používány v komunitních sítích (více Patrikův článek &#8220;<a href="/item/veru-nevim-jak-bude-cesky-telecom-celit-lavine-komunitnich-siti">Věru nevím, jak bude Český Telecom čelit lavině komunitních sítí</a>&#8221;).</p>
 <p>
 S tím jak se bezdrátové sítě rozšiřují, setkávám se s tím, že se o nich dozvěděli a ptají se na ně i ti, kteří se jinak &#8220;moc nevyznají&#8221;. Proto jsem připravil nejen pro ně jakousi příručku &#8220;co to je&#8221; a &#8220;jak na to&#8221;, ale začnu raději hodně zeširoka a ne jen běžné &#8220;kupte A, B, C a dejte to na střechu&#8221;.</p>

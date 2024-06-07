@@ -21,7 +21,7 @@ post_date: 2006-03-23 11:19:50
 <p>Vtip je v tom, že Bill Gates si evidentně nemyslí, že je to mrtvá zóna, protože jinak by vyhazoval peníze vložené do Origami z okna. Je sice pravda, že ještě před pár lety bychom se mohli domnívat, že jde o osobní Gatesovu zálibu, v které utopí firemní prachy, dneska je ale oprávněné říci, že Steve Ballmer by mu to nedovolil. Takže někde na konci cesty tam Microsoft peníze vidět musí. </p>
 
 <h4>Kufříkáři</h4>
-	<div class="rightbox"><img src="/wp-content/uploads/20060323-origami.png" alt="Origami koncept " width="332" height="230" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/20060323-origami.png" alt="Origami koncept " width="332" height="230" /></div>
 <p>To kódové jméno jsou kufříkáři. Kufříkáři jsou lidi, kvůli kterým se vyrábí Smart a Smart je dobrý příklad. Když s ním přišla firma, v níž přes půlku drží Mercedes-Benz (jehož auta jsou cokoliv, jen ne malá), ledaskdo říkal, že jde o krásnou trefu do mrtvého segmentu trhu. K čemu by bylo drahé auto pro dva lidi? Auto, které je dražší, než běžné levné auto pro čtyři? Projděte si pár komentářů z let 1995-8. </p>
 
 <p>Jenže Smart se trefil. Přišli kufříkáři. Lidi, kteří nepotřebují do auta nacpat rodinu i s kočárkem a pokud ano, tak mají v garáži SUV nebo alespoň kombíka, se kterým lze jet na cesty kamkoliv. Kufříkář potřebuje hodit do auta svůj pracovní kufřík či aktovku z kůže (Samsonite, lépe ale LV) a vyrazit na schůzku. Vyrazit něčím, co má kompletní komfort, ale co zaparkujete do mezery mezi dvěmi auty. A že to stojí jako malá Honda? Koho to trápí, stejně se odepíše z daní. Smart zabodoval – ne tím, že byl ostrou konkurencí nejlevnějším autům, ale právě proto, že jí vůbec nebyl. </p>

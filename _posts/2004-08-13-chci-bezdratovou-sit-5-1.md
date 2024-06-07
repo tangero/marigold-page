@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-13 23:57:45
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/cache/20040814-mobileuser.gif" alt="Mobilní uživatel" width="148" height="274" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/cache/20040814-mobileuser.gif" alt="Mobilní uživatel" width="148" height="274" /></div><p>
 Závěrečný díl seriálu se snaží odpovědět těm, kteří &#8220;chtějí bezdrátový internet&#8221;. Opět zde bude trocha teorie, věnovat se budeme anténám a příslušenství a samozřejmě probereme &#8220;nákupní košík&#8221;.</p>
 
 <h3>Chci bezdrátový internet</h3>

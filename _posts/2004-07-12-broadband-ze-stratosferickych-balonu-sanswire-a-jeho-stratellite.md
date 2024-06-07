@@ -14,7 +14,7 @@ O projektech pokrytí signálem ze vysoko umístěných balónů, takzvaných HA
 <p>
 Nyní se na nebi broadband poskytovatelů objevuje nová hvězda. Společnost se jmenuje <a href="http://www.sanswire.com">SansWire</a> a její balonový projekt dostal sexy jméno Stratellite. Společnost na projektu pracovala dva roky a nyní se chystá v USA vytvořit něco, co nazývá <em>National Wireless Broadband Network</em>. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/20040712-stratellite.jpg" alt="SansWire Stratellite" width="178" height="148" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/20040712-stratellite.jpg" alt="SansWire Stratellite" width="178" height="148" /></div>
 <p>
 Stratellite je projekt balónů umístěných ve stratosféře, konkrétně ve výšce cca 20 km, tedy na dolní hranici stratosféry. Spíše než balon by bylo vhodnější říkat vzducholoď, protože jde o ovladatelné plavidlo. Povrch vzducholodi je pokryt slunečními články, které dodávají energii elektromotorům stabilizujícím plavidlo v pozici naprogramované do palubního počítače. Pozici kontroluje systém GPS, takže plavidlo je jakoby ukotveno na jednom místě. Vzducholoď je naplněna héliem. </p>
 <p>

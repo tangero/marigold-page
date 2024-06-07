@@ -12,7 +12,7 @@ post_date: 2004-08-17 07:45:00
 <p>
 Společnost Belkin chystá bezdrátový router, který by měl fungovat podle dosud neschválené vysokorychlostní WiFi specifikace 802.11n. Měl by nabízet rychlosti 100-150 Mb/s, samotný Belkin tvrdí, že faktická rychlost / propustnost je oproti standardnímu 802.11g až šestinásobná. Zpětná kompatibilita s 802.11g má být zajištěna. </p>
 
-	<div class="rightbox">
+<div class="rightbox">
 <img src="/wp-content/uploads/20040817-belkin_pre_n_router.jpg" alt="Belkin Pre-N router" width="250" height="172" /></div>
 <p>
 Belkin Pre-N router používá technologii MIMO, tedy víceanténovou technologii. Vysílaný signál je rozdělen do více pomalejších signálů vysílaných jednotlivými anténami, na přijímacím zařízení se signály zase složí do jednoho širokopásmového. </p>

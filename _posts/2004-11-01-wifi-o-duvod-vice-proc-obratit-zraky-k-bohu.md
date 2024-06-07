@@ -12,7 +12,7 @@ post_date: 2004-11-01 16:56:17
 <p>
 Nenapadl mne méně pitomý titulek. M. Kopta mne upozornil na článek v <a href="http://www.istrategie.cz/detail.htm?id=48214">iStrategii</a>, kde se píše o prvním českém hotspotu v kostele. Jde o kostel Církve adventistů sedmého dne v Praze na Malvazinkách, SSID je smichov, pokryt je vnitřek kostela, signál lze chytit i za jeho zdmi. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041101-adventisti.jpg" alt="Praha Malvazinky - to je ten kostel..." width="140" height="91" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041101-adventisti.jpg" alt="Praha Malvazinky - to je ten kostel..." width="140" height="91" /></div>
 <p>
 Nejdříve bych se pozastavil u toho nejméně důležitého - tedy zda je opravdu první. Asi není. Už se mne pár farářů (sic!) na zasíťování svých farností/kostelů z důvodů pracovních ptalo a předpokládám, že někteří z nich už své notebooky (nakoupené za své, církev není tak při penězích) přes WiFi prohánějí. Také na Stodůlkách si pamatuji projekt, kdy na místní kostelní věž měly přijít antény a měl se stát retranslačním bodem pro WiFi síť, nevím už ale, jak to dopadlo. Jak říkám, není to podstatné - slovíčko první slouží pouze k zaujmutí novinářů a nemá smysl se hádat, kdo byl první, protože první je ten, kdo se o své prvenství přihlásil veřejně. </p>
 

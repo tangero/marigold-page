@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-12-14 22:12:00
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/cache/20041214-retranslace.gif" alt="Retranslace" width="250" height="156" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/cache/20041214-retranslace.gif" alt="Retranslace" width="250" height="156" /></div><p>
 Tento článek je volným pokračováním mého srpnového seriálu <a href="http://www.marigold.cz/?query=chci%2Bbezdr%C3%A1tovou%2Bs%C3%AD%C5%A5&amp;amount=0&amp;blogid=1">Chci bezdrátovou síť</a>, jež objasňuje vše podstatné, co byste měli chtít vědět, když chcete bezdrátovou síť. Pro ty, kteří zde o prázdninách nebyli doporučuji <a href="/item/chci-bezdratovou-sit-1/category/wifi">první kapitolu</a> a pak si dole můžete kliknout na &#8220;lokální hledání&#8221; a můžete se tak dostat na další pokračování.</p>
 <p>
 Jak víte, seriál popisuje vše od historie, přes standardy, instalace vnitřních sítí až po instalace venkovních sítí a antény. V jednom z posledních dílů jsem slíbil, že rozvedu co jsou to retranslace a jak se dělají, bohužel jsem to tehdy nestihl.</p>

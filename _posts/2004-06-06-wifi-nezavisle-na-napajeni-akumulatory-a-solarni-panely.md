@@ -16,7 +16,7 @@ Potřebujete rozeběhnout WiFi i v oblasti bez elektrické energie? Musíte zři
 <!--more--><p>
 Nedávno jsem dostal zajímavý odkaz na stránku, kde někdo popisuje svůj <a href="http://www.mjleonard.pwp.blueyonder.co.uk/index.html">Wireless Backpack Repeater</a>. Jak vidno z obrázku, jde o normální Linksys  router WRT54G napájený z akumulátoru a vybavený všesměrovou anténou. Firmware Linksysu byl upraven Sveasoftem na podporu WDS, takže router se připojil na nejbližší přípojný bod a zároveň distribuoval signál přes WDS pro ostatní klienty, kteří neměli tak dobrou anténu, aby se na přípojný bod připojili sami. Jak fikané pro nějaké výpravy mobilních geeků&#8230; </p>
 
-	<div class="leftbox"><img src="/wp-content/uploads/20040606-hotspot_mobilni.gif" alt="Wireless Backpack Repeater" width="130" height="250" /></div><p>
+<div class="leftbox"><img src="/wp-content/uploads/20040606-hotspot_mobilni.gif" alt="Wireless Backpack Repeater" width="130" height="250" /></div><p>
 Tím mi ale přišlo na mysl napsat něco málo o WiFi technice nezávislé na elektrické síti. Ona to totiž nemusí být praktický věc jen pro sraz několika wifi potrhlíků, může to být často i jediná cesta, jak propojit lokality jinak nepropojitelné. </p>
 
 <p>
@@ -35,7 +35,7 @@ Prostým vzorcem odvodíme, že příkon Linksysu je 6W, což jsme ověřili v p
 Nyní se musíme zamyslet, jak s napájením. Pokud chcete router/repeater napájet jen dočasně, například právě do takového BackPacku, jako je ten na obrázku, stačí vzít akumulátor, přičemž nejčastěji asi dostanete nějaký s jmenovitým napětím 6V a podívat se, kolik ampérhodin (Ah) nabízí. Ten na obrázku bude mít takových 10 Ah, je tedy schopen nabízet 6V/1A po dobu 10 hodin &#8211; což je přesně to, co pro napájení repeateru potřebujete. Pokud vám stačí těch deset hodin, jste za vodou, i když dlužno říci, že v praxi počítejte spíše s 8 hodinami, olověné akumulátory by se neměly vybíjet na doraz, ale jen na zhruba 80% - u jiných to nevadí. Samozřejmě nemusíte používat olověné akumulátory, ale jiné levné se v těchto kapacitách nedělají, tužkové NiCd/NiMH akumulátory  byste museli řadit sério-paralelně a potřebovali byste jich tři desítky, abyste se dostali na podobnou kapacitu. A to není cenově zrovna to pravé. U Lithiových článků je cena ještě horší. Ceny olověných akumulátorů potřebné kapacity se u nových pohybují od 2000 Kč, ale seženete jistě i něco staršího. Jen bych doporučil podívat se na provozní podmínky a zejména provozní teploty, protože v zimě by mohl mít akumulátor problémy se zamrzáním. </p>
 
 <h3>Solární články</h3>
-	<div class="rightbox"><img src="/wp-content/uploads/20040606-hotspot_solar.jpg" alt="Hotspot se solárním napájením" width="400" height="500" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/20040606-hotspot_solar.jpg" alt="Hotspot se solárním napájením" width="400" height="500" /></div><p>
 Se solárními články je situace mírně komplikovanější, zejména pro to, že samotné je použít nelze. Solární články poskytují slušné napájení, jenže když zajde slunce, dojde i napájení. Je tedy nutno je kombinovat s akumulátory a solární energií akumulátory dobíjet. Kromě solárního panelu a akumulátoru je ještě potřeba regulátor chránící akumulátor před hlubokým vybitím nebo přebíjením. Regulátory se prodávají za ceny od 1000 Kč. </p>
 
 <p>

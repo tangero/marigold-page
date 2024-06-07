@@ -11,7 +11,7 @@ post_date: 2006-05-23 21:43:43
 ---
 <p>Linksys přichází na trh (samozřejmě ten americký zatím) se dvěma VoIP telefony, jež se připojují skrze WiFi. Není to žádná novinka, s VoIP WiFi telefony se roztrhl tak pytel, že už se jim muselo začít nějak šikovné říkat, což má být VoWLAN - jako Voice over Wireless LAN. Jenže Linksys, to je něco trošičku jiného, než asijská rychlofabrička - Linksys má jméno a Cisco v zádech. Navíc potřebovalo ukázat něco, s čím by vytřelo zrak NetGearu, an nedávno představil VoWLAN telefon podporující Skype (ještě se neprodává). Linksys samozřejmě podporuje SIP. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/20060523-WIP330_med.jpg" alt="Linksys WIP330" width="190" height="285" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/20060523-WIP330_med.jpg" alt="Linksys WIP330" width="190" height="285" /></div>
 <p>Dvojice telefonů se jmenuje WIP300 a WIP330 (na obrázku) a liší se samozřejmě cenou, ale také určením. WIP330 má totiž vestavěný i prohlížeč. Ten je na telefonu z pragmatického důvodu - abyste se mohli zalogovat přes dashboard u sítí, které takové logování vyžadují. To je super, protože tak se můžete přihlásit na cestách i k hotspotu, který požaduje přihlášení přes web. Kromě toho je zde integrované 802.1x. Rozdíl je také v LCD obrazovce, zatímco WIP330 ji má 2,2 palce, WIP300 jen 1,8 palce. </p>
 
 <p>WIP300 je k dispozici za 220 USD, WIP330 za dosti vysokých 370USD, tady už se projevuje zřejmě silnější hardware pro prohlížení webu. Prý si dokonce na telefonu pak můžete přehrávat internetové video. Co se tím myslí, není přesně známo. </p>

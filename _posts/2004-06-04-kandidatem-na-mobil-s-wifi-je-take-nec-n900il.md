@@ -12,7 +12,7 @@ post_date: 2004-06-04 08:46:00
 <p>
 Včera jsem psal o tom, jak Motorola horečně spolu s partnery vyvíjí mobilní telefon vybavený WiFi, přičemž slovem vybavený se nemyslí jen fakt, že jím může přistupovat na internet (jako Nokia 9500), ale také že jím lze telefonovat. </p>
 
-	<div class="leftbox"><img src="/wp-content/uploads/20040604-nec-wifi.jpg" alt="NEC N900iL - mobil s integrovaným WiFi" width="85" height="250" /></div>
+<div class="leftbox"><img src="/wp-content/uploads/20040604-nec-wifi.jpg" alt="NEC N900iL - mobil s integrovaným WiFi" width="85" height="250" /></div>
 <p>
 S podobným konceptem přišel na přelomu NEC, který vyvíjí telefon vybavený WiFi pro síť FOMA (NTT DoCoMo). A "zcela náhodou" včera do japonských novin unikly další podrobnosti a vypadá to, že tento telefon se dostane na japonský trh na přelomu července a srpna. </p>
 

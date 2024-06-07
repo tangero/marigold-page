@@ -27,7 +27,7 @@ tak, že nás budete i nadále navštěvovat v tak hojném počtu jako dříve.<
 <p>
 Ještě jednou se omlouvám a děkuji</p>
 
-	<div class="rightbox">
+<div class="rightbox">
 <p>Tomáš Kapler AKA Noname</p>
 
 <p>spolupracovník <a href="http://www.internetprovsechny.cz">Internet Pro Všechny</a></p>

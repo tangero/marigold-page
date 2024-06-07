@@ -39,7 +39,7 @@ Samé drobnosti a maličkosti. Vychytanost, odstraněná těžkopádnost a nalez
 <p>
 Každému podle jeho chuti…</p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041116-blinkx.gif" alt="Blinkx" width="220" height="73" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041116-blinkx.gif" alt="Blinkx" width="220" height="73" /></div>
 <p>
 A k dalšímu boji – je lepší vyhledávač Copernic nebo Google Desktop Search? Vyzkoušejte <a href="http://www.blinkx.com/">Blinkx</a> (Windows 2000/XP) – ve verzi 2 jde o velmi dobrý nástroj vyhledávající v dokumentech všeho typu (DOC, PDF, mail atd) a nabízející pár dalších chytáků navíc:</p>
 

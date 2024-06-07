@@ -15,7 +15,7 @@ post_date: 2004-06-09 08:51:00
 <p>
 Ono je to obecně s veřejnými trunkovými radiosítěmi u nás docela vtipné. ČTÚ od roku 2000 porozdávalo Tetra licence, které nafasoval Ariston (o chvíli později ji převzal MobilKom), <a href="http://www.echoton.cz">Echoton</a>, <a href="http://www.centerost.cz/">Center Ost</a> a <a href="http://www.rde.cz">RD-Engineering</a>, k tomu existují licence pro PAMR systémy  - například <a href="http://www.sivera.cz">Sivera</a> na Severní Moravě. Pásmo 450 MHz je tedy velmi solidně rozdrobeno a přehled o tom, kdo kde co má a co provozuje, je velmi těžké si udělat i podle databáze ČTÚ. </p>
 
-	<div class="leftbox"><img src="/wp-content/uploads/20040609-mth500.jpg" alt="Radiostanice pro Tetra systém MTH500" width="100" height="100" /></div>
+<div class="leftbox"><img src="/wp-content/uploads/20040609-mth500.jpg" alt="Radiostanice pro Tetra systém MTH500" width="100" height="100" /></div>
 <p>
 Už se nám to ale zjednodušuje &#8211; veřejnou Tetra síť dnes provozuje prakticky jen <a href="http://www.mobilkom.cz">MobilKom</a>, ostatní na výstavbu sítě nesehnali peníze. Echoton se například spokojil se systémem MPT 1327 a do Tetry se nepustil. </p>
 

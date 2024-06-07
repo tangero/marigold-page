@@ -11,7 +11,7 @@ post_date: 2005-08-24 11:12:46
 ---
 <p>Google dneska spustil službu, o které se tak různě (včetně mne) spekuloval již nějakou dobu. Hodně lidí Google rozrušil například tím, že hledal programátory se zkušeností s VoIP. Google to tehdy vysvětloval tím, že je potřebuje na správu firemní ústředny, jenže na to jich potřeboval nějak podezřele moc. Tak už to víme - služba se jmenuje <a href="http://www.google.com/talk/">Google Talk</a> a je to vlastně Jabber IM protokol s VoIP nadstavbou. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/20050824-googletalk.gif" alt="Google Talk" width="230" height="211" /></div>Jak klient vypadá, vidíte na obrázku. Je docela mrňavý, v paměti zabírá 6 MB (Skype mi dělá 11 MB, Miranda 5 MB, ICQ 12 MB) a je jednoduchý. Hodně. Možná zatím až moc. Verze je jen pro Windows.</p>
+<div class="rightbox"><img src="/wp-content/uploads/20050824-googletalk.gif" alt="Google Talk" width="230" height="211" /></div>Jak klient vypadá, vidíte na obrázku. Je docela mrňavý, v paměti zabírá 6 MB (Skype mi dělá 11 MB, Miranda 5 MB, ICQ 12 MB) a je jednoduchý. Hodně. Možná zatím až moc. Verze je jen pro Windows.</p>
 
 <p>Google Talk umožňuje zatím jen volat mezi počítači, ale dá se soudit, že volání do telefonní sítě přijde záhy. Nelze posílat soubory, grafické smajlíky, obrázky - tady je ta jednoduchost až moc velká. Na druhou stranu Talk slouží také pro vybírání pošty z Gmailu - když vám přijde nová, zobrazí se její sumář a můžete přejít na web a poštu si pročíst. </p>
 

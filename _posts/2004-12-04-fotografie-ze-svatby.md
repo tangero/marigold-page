@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-12-04 14:49:58
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041204-svatebnifoto.jpg" alt="Naše společné svatební foto... " width="341" height="308" /></div>	
+<div class="rightbox"><img src="/wp-content/uploads/1/20041204-svatebnifoto.jpg" alt="Naše společné svatební foto... " width="341" height="308" /></div>	
 <p>
 Tož svatba proběha a dopadla, jak měla. Žádná zvláštní událost, žádná noční můra se nenaplnila. Všem účastníkům a gratulantům děkujeme s Ditou za účast i přání a ti, kdo zůstali i na hostinu, si jistě na dietu stěžovat nemohli ;) </p>
 

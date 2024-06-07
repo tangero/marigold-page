@@ -37,7 +37,7 @@ teprve staví a začínají. </p>
 
 <p>Pokud bude T-Mobile chtít udržet rychlost a zároveň solidní cenu, bude muset dříve či později <em>(a spíš dříve, až se do sektoru připojí tak osm-deset lidí)</em> nějak zfupovat, ostříhnout křidélka sosačům, protože z jednoho sektoru na rychlosti necelých 5 Mb/s nemůže rozdávat manu dlouho. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/20050620-pcmcia-tdcdma.jpg" alt="UPStarcom PCMCIA" width="200" height="152" /></div>K té nejrychlejší UMTS síti světa: jsem zvědav, jak tohle tvrzení skousnou kolegové v rakouském T-Mobile, kteří právě nasazují HSDPA a kochají se rychlostí, jakou jim létá. Asi budou překvapeni a snad jim to kvůli pravdivosti českého PR nezarazí...</p>
+<div class="rightbox"><img src="/wp-content/uploads/20050620-pcmcia-tdcdma.jpg" alt="UPStarcom PCMCIA" width="200" height="152" /></div>K té nejrychlejší UMTS síti světa: jsem zvědav, jak tohle tvrzení skousnou kolegové v rakouském T-Mobile, kteří právě nasazují HSDPA a kochají se rychlostí, jakou jim létá. Asi budou překvapeni a snad jim to kvůli pravdivosti českého PR nezarazí...</p>
 
 <p>A na závěr k terminálové podpoře TD-CDMA. IP Wireless na termináléch a implementaci spolupracuje s UTStarcom, který UMTS terminál s podporou TD-CDMA sliboval na první kvartál letošního roku. Zatím nemá nic, jen PCMCIA karty a USB terminály vyráběné pod značkou MovingMedia, teprve před pár dny představil na Supercommu vlastní UMTS terminál, ovšem bez podpory TDCDMA. Takže bych se na velikou terminálovou konvergenci příliš netěšil. </p>
 

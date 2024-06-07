@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-11-11 17:15:48
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/cache/20041111-eduroam-logo.gif" alt="Logo eduRoam" width="230" height="100" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/cache/20041111-eduroam-logo.gif" alt="Logo eduRoam" width="230" height="100" /></div><p>
 Včera jsem vám přinesl <a href="/item/vsechny-cesty-k-internetu">první článek o konferenci Všechny cesty k internetu</a>, jak jsem psal, bylo tam toho mnohem více, a tak si dnes dovolím pokračovat a zmíním další z probíraných témat a tím je mobilita v bezdrátových sítích (nejen) na evropských univerzitách.</p>
 <p>
 Úvodem bych měl ale noticku k CDMA. Na akci byla totiž i přednáška Eurotelu k CDMA, nicméně není to na samostatný článek. Dnes se ale objevily informce o nových vysílačích Eurotelu v tomto pásmu, například na <a href="http://www.mobilmania.cz/Bleskovky/AR.asp?ARI=108637">Mobilmanii</a> či <a href="http://digiweb.cz/?s1=i&amp;s2=9&amp;s3=0&amp;s4=0&amp;s5=0&amp;s6=0&amp;m=d&amp;a%5barea_id%5d=10053230&amp;a%5bid%5d=15196790&amp;p=i90000_d">Digiwebu</a>. O těchto záležitostech už se mluvilo začátkem minulého týdne, takže kdyby se novináři účastnili těchto přednášek, mohli by uvádět exkluzivní informace a nemuseli by opisovat tiskové zprávy. ;-)</p>

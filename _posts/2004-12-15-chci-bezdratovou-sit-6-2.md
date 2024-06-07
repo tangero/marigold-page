@@ -25,7 +25,7 @@ V předchozím části jsem psal, že pasivní retranslace využívá buď</p>
 <p>
 Způsob řešení přesměrováním signálu je velmi jednoduchý — do bodů A i C dáte směrové antény, které nasměrujete na bod R. Do bodu R pak umístíte dvě antény, jedna bude směrovat na bod A, druhá na bod C, a tyto kabely prostě a jednoduše spojíte k sobě koaxiálním kabelem. Nic víc, nic míň.</p>
 
-<!--more-->	<div class="rightbox">
+<!--more--><div class="rightbox">
 <h5>Pasivní retranslace odrazem</h5>
 <img src="/wp-content/uploads/cache/20041215-pasivretr2.gif" alt="Pasivní retranslace odrazem" width="250" height="156" /></div><p>
 Řešení odrazem signálu je ještě jednodušší — svírají-li body A a C v bodě R malý úhel (řekněme &lt; 45%), můžeme do bodu R umístit odraznou desku a to tak, aby se signál z bodu A od této desky odrazil a podle zákona úhel dopadu = úhel odrazu, byl dále nasměrován do bodu C a vice-versa.</p>

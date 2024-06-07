@@ -15,7 +15,7 @@ post_date: 2006-08-29 17:15:19
 
 <p>Kateřina nakoupila hromadu balícího papíru, ten jsme nalepili na zeď projektové kanceláře a začali jsme ji tapetovat výtisky částí projektů a projektových oken a stavů. Vreco prokázal kreativitu s barvičkami a pravil, že sladíme fixové popisky s barvičkami, které u jednotlivých stránek vygeneroval Mac v OmniGraffle. Super nápad, nakonec jsme našli i žlutou. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/20060829-Franci-Bejzbolka.jpg" alt="Franci lepí baseball pálkou projektové sheety" width="349" height="478" /></div><p>A takto zabodoval Franci - baseballová pálka, používaná především pro kontrolu termínů, posloužila i pro lepení papíru na příliš vysokou zeď. Kateřina podotkla, že nám příště sežene takové ty brokerské hrabičky, co se jimi shrabují žetony. </p>
+<div class="rightbox"><img src="/wp-content/uploads/20060829-Franci-Bejzbolka.jpg" alt="Franci lepí baseball pálkou projektové sheety" width="349" height="478" /></div><p>A takto zabodoval Franci - baseballová pálka, používaná především pro kontrolu termínů, posloužila i pro lepení papíru na příliš vysokou zeď. Kateřina podotkla, že nám příště sežene takové ty brokerské hrabičky, co se jimi shrabují žetony. </p>
 
 <p>Ano, pamětníci si možná vzpomenou - jde přesně o tu baseballovou pálku, kterou jsem používal i v Mobil serveru a v Mafře ji po mně podědil Vreco a od tamtud si ji také odnesl. Teď ji máme tady a díky Franciho zlepšováku s ní ladíme nejenom nedoléhající termíny, ale i začátek práce. </p>
 

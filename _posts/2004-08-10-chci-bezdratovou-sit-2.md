@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-10 09:38:16
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/cache/20040810-Outdoor Wi-Fi.jpg" alt="Venkovní síť" width="239" height="153" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/cache/20040810-Outdoor Wi-Fi.jpg" alt="Venkovní síť" width="239" height="153" /></div><p>
 V této kapitole se budeme věnovat bezdrátovému „newspeaku&#8221;, slovům, která nezasvěcení nemusí chápat.</p>
 
 <h3>2. Co je to bezdrátová síť (Wi-Fi, hotspot, freenet, wireless, 802.11 &#8230;)</h3>

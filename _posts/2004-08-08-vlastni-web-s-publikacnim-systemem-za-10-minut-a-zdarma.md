@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-08 23:16:13
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/cache/20040808-vlastni-web1.jpg" alt="Publikační systém za 10 minut" width="138" height="101" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/cache/20040808-vlastni-web1.jpg" alt="Publikační systém za 10 minut" width="138" height="101" /></div><p>
 Chcete-li mít vlastní webové stránky (blog), můžete je vytvářet v zásadě dvěma způsoby &#8211; jednoduše a složitě.</p>
 
 <ul>

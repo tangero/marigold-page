@@ -14,7 +14,7 @@ post_date: 2004-11-19 09:09:18
 <p>
 Skype jako program pro volání po internetu začíná vytvářet svůj vlastní &#8220;ekosystém&#8221; - firmy produkující produkty spolupracující se Skype a podporující jej. Tento týden oznámil Logitech spolupráci se Skype, kdy ke svým USB sluchátkům bude dodávat voucher na 120 minut hovoru po SkypeOut World Class destinacích. To není špatné. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/1/20041119-dualphone-skype.jpg" alt="DualPhone for Skype" width="250" height="358" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/1/20041119-dualphone-skype.jpg" alt="DualPhone for Skype" width="250" height="358" /></div>
 <p>
 Jenže ještě lepší jsou aktivity dalších společností. Už jsem tu psal o USB adaptéru, který připojí některé Siemens telefony na počítač a umožní z telefonu volat přes Skype službu. Siemens nebyl první, takových hraček existuje více. Například DualPhone na obrázku je běžný DECT telefon, ale s USB přípojkou na připojení k počítači, na němž běží Skype. Z telefonu pak můžete kamkoliv volat přes Skype, jakož i na Skype přijímat hovory. S tím omezením, že na Skype se dnes dovolají jen uživatelé Skype software (což je omezení Skype, ne toho telefonu). Zde <a href="http://fa86dd8e8eff5070c1256f1c0040dee5.dualphone.net/">stránky výrobce</a>.</p>
 

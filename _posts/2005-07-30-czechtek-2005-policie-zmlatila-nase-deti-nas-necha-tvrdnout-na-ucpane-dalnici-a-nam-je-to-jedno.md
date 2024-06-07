@@ -28,7 +28,7 @@ post_date: 2005-07-30 14:57:07
 <p>Kolik muselo být toho hluku, aby ospravedlnil policejní zásah a kolaps dálnice D5? Proč stejně nerozhánějí policajti demonstrace na Staroměstském náměstí, trsání komunistických papalášů v kempu Džbán či na Letné nebo přivítání našich omedajlovaných hokejistů? Proč se nerozhání cyklistický závod v centru Prahy nebo maraton, když obtěžuje mnohem více lidí? Copak tyhle akce nikoho neruší?</p>
 
 <h4>A jaké jsou náklady</h4>
-	<div class="rightbox"><img src="/wp-content/uploads/20050730-policista-czechtek.jpg" alt="Policista v těžké zbroji :)" width="300" height="563" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/20050730-policista-czechtek.jpg" alt="Policista v těžké zbroji :)" width="300" height="563" /></div>
 <p>Nyní trocha selské logiky a maličko trojčlenky. Na místě je 1000 policistů, počítejme benevolentní služné 100 Kč/h. Jednodenní přítomnost policie nás jen na platech stojí zřejmě hodně přes 2,4 milionu Kč. K tomu vodní děla, obrněný transportér, vrtulník, vysílačky, nějaká ta policie v zázemí, jídlo, pití a dost možná i munice. Když řeknu, že jeden den přítomnosti policie proti CzechTeku stojí k deseti milionům Kč, nebudu daleko od pravdy. </p>
 
 <p>Co vážného se děje, že vydáváme tolik peněz na potření téhle akce? Nikdo neprovolává rasistická hesla, nehajluje se, nehlásá se svržení vlády nebo třídní revoluce. Paří se. Mládež se baví. Vydupe pár cestiček přes cizí louku.</p>

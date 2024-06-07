@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-12 16:30:36
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/cache/20040812-PtMP diagram.jpg" alt="Zobrazení venkovní PtMP sítě" width="204" height="200" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/cache/20040812-PtMP diagram.jpg" alt="Zobrazení venkovní PtMP sítě" width="204" height="200" /></div><p>
 V minulém díle jsme se věnovali hot-spotům, a hlavně jsme konečně začali probírat jednotlivé typy bezdrátových sítí, co potřebujete k jejich vytvoření a kolik vás to bude stát. Minule jsme zvládli jen interní sítě, dnes se vrhneme na venkovní sítě.</p>
 
 <h3>3. Venkovní sítě</h3>

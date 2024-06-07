@@ -21,7 +21,7 @@ post_date: 2006-04-03 21:16:16
 
 <p>Službu <a href="http://zbozi.seznam.cz">Zboží</a> mám rád dávno. Vím, že dřív podobná byla už na Centru, ale ta mi fungovala tak, že jsem ji nepoužíval. Nevím proč. Seznamu funguje tak, že mi to vyhovuje. To je asi ten hlavní rozdíl.</p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/20060403-seznamhomepage.png" alt="Seznam homepage s Marigoldem" width="413" height="259" /></div>
+<div class="rightbox"><img src="/wp-content/uploads/20060403-seznamhomepage.png" alt="Seznam homepage s Marigoldem" width="413" height="259" /></div>
 <p>Dneska se koukám do statistik a co nevidím - spousta přístupů z homepage Seznamu. V řádu desítek až stovek. Nepamatoval jsem si, že bych si koupil reklamu na homepage Seznamu, to je věc, kterou nepřehlédnete ani na zůstatku účtu, ani na Seznamu. Ukázalo se, že Seznam rozjel personalizovatelnou titulní stránku, kam si můžete zařadit vaše oblíbené weby. No a pár lidí si přidalo Marigolda. Kolik, těžko říci. Ale podle toho, jak sem lozí, tak asi dost. </p>
 
 <p>Na <a href="http://blog.lide.cz/ilblog/2006/04/03/261">ILblogu</a> jsem také zjistil, že lze přidat na web ikonku, která vložení RSS kanálu na homepage Seznamu usnadní. A tak jsem ji přidal k ikonkám na Marigoldu a nakonec i na Mackovém blogu, protože mi to přijde hezká funkcionalita. Jen by neškodilo mít možnost články netřídit dle zdroje, ale podle času - moje oblíbená zkouška tvůrců RSS čteček. Takhle vypadá:</p>

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-12-16 10:11:00
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/cache/20041216-4000.jpg" alt="Wline 4000" width="223" height="202" /></div><p>
+<div class="rightbox"><img src="/wp-content/uploads/cache/20041216-4000.jpg" alt="Wline 4000" width="223" height="202" /></div><p>
 (update - byl jsem upozorněn zástupcem jednoho distributora, že jsem se
 asi nechal příliš unést, a měl pravdu, za což se mu omlouvám - ještě to
 udělám v pondělí formou článku. Tyto nepřesnosti či doplnění pro jistotu píšu i sem, aby to nikoho nemátlo, když sem zavítá někdy jindy bez souvislostí)</p>

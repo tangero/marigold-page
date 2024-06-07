@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-09 09:01:10
 ---
-	<div class="rightbox"> <img src="/wp-content/uploads/20040709-netgear-wgt634u.jpg" alt="Netgear WGT634U" width="314" height="129" /> </div>
+<div class="rightbox"> <img src="/wp-content/uploads/20040709-netgear-wgt634u.jpg" alt="Netgear WGT634U" width="314" height="129" /> </div>
 <p>
 Tak jsem se porozhlédl, kdo z výrobců podporuje rychlé USB rozhraní na domácích WiFi směrovačích a našel jsem již prodávaný Netgear WGT634U. </p>
 <p>

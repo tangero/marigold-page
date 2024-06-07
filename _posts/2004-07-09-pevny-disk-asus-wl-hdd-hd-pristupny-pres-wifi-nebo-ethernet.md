@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2004-07-09 08:40:09
 ---
-	<div class="rightbox"> <img src="/wp-content/uploads/20040709-asus-wl_hdd.jpg" alt="Asus WL-HDD(HD)" width="220" height="180" /> </div>
+<div class="rightbox"> <img src="/wp-content/uploads/20040709-asus-wl_hdd.jpg" alt="Asus WL-HDD(HD)" width="220" height="180" /> </div>
 <p>
 Pokračujeme v Computexových novinkách Asusu. Já vím, že Computex proběhl před měsícem, ale tyhle novinky tak nějak zapadly - když už se o nich někdo zmínil, tak jedním řádkem a já jsem konečně dohledal specifikace, takže i když to striktně vzato není novinka, tak je to novinka ve smyslu novinkovitosti ;)</p>
 <p>

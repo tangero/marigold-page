@@ -13,7 +13,7 @@ post_date: 2005-07-07 11:29:44
 
 <p>Tahle zpráva je česká, i když vypadá, jako z říše snů. </p>
 
-	<div class="rightbox"><img src="/wp-content/uploads/20050707-802.jpg" alt="802.cz" width="174" height="48" /></div>Firma Mattes AD (operující spíše pod značkou 802.) nabízí desetimegovou domácí přípojku za 999 Kč plus od 2000 Kč instalační poplatek (+DPH). V rámci LAN (tedy v rámci domu) je rychlost až 100 Mb/s, internet bez agregace, veřejná IP a bez limitu dat. Spoje mezi domy jsou založeny na metropolitní optice FTTH, do domů tedy vedou optické kabely, ethernet je na 1 Gb/s. Služba se jmenuje přiléhavě <strong>802.10.MEGA</strong>.</p>
+<div class="rightbox"><img src="/wp-content/uploads/20050707-802.jpg" alt="802.cz" width="174" height="48" /></div>Firma Mattes AD (operující spíše pod značkou 802.) nabízí desetimegovou domácí přípojku za 999 Kč plus od 2000 Kč instalační poplatek (+DPH). V rámci LAN (tedy v rámci domu) je rychlost až 100 Mb/s, internet bez agregace, veřejná IP a bez limitu dat. Spoje mezi domy jsou založeny na metropolitní optice FTTH, do domů tedy vedou optické kabely, ethernet je na 1 Gb/s. Služba se jmenuje přiléhavě <strong>802.10.MEGA</strong>.</p>
 
 <p>Jenže co by to bylo za rychlý internet bez služeb navíc a Mattes se moudře rozhodl neponechat takovou infrastrukturu jen na rychlé stahování. Navíc je tu služba <strong>802.VOX</strong> - telefonování na bázi VoIP a SIP protokolu. K dispozici je běžné telefonní číslo z příslušného telefonního obvodu, volání v rámci sítě je zdarma, do telefonní sítě od 50 haléřů za minutu, mobil za
 3,95Kč/min, tarifikace je vteřinová. Vše bez paušálních měsíčních poplatků!</p>

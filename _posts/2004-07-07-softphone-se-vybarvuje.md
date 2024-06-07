@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-07 18:37:00
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/20040707-softphone.jpg" alt="SoftPhone klient X-lite během mého hovoru na infolinku Telecomu (oblíbený obětní beránek, je tam plechová huba, dá se zkoušet po libosti)" width="275" height="379" /> </div> <p>
+<div class="rightbox"><img src="/wp-content/uploads/20040707-softphone.jpg" alt="SoftPhone klient X-lite během mého hovoru na infolinku Telecomu (oblíbený obětní beránek, je tam plechová huba, dá se zkoušet po libosti)" width="275" height="379" /> </div> <p>
 O službě <a href="http://www.softphone.cz">SoftPhone</a> jsem psal v únoru, tehdy mi bylo divné, že na jejím serveru chybí informace o provozovateli. Evidentně si to provozovatel také uvědomil a zřejmě jsem ho chytil v době, kdy svůj web teprve rozjížděl. </p>
 <p>
 Dnes už je na něm potřebná sada informací včetně e-shopu a mohu říci, že toho SoftPhone nabízí opravdu hodně. Nejlevnější IP telefon (možno tedy volat bez zapnutého počítače) je tu za 3650 Kč, nabídka končí u 22890 Kč (Cisco 7970G s barevným dotykovým displejem), lze si koupit i USB sluchátka nebo jen tak stáhnout software klienta X-lite na vyzkoušení. Stáhl jsem, vyzkoušel jsem a funguje to hezky. SoftPhone dokonce nabízí dotaci pro lidi, kteří by náhodou chtěli vyřadit IP telefon NP210. Ta náhoda není moc velká, protože NP210 používá jen Fayn, takže je to jasná pobídka pro Fayn telefonisty. Jak se tomuto šťouchu podaří, to nevím. </p>

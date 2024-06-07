@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2006-08-24 07:38:40
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/20060824-small_expenses_graph.gif" alt="graf z moneydance" width="400" height="267" /></div>Řeším takový malý soukromý problém. Rozhodl jsem se výrazněji analyzovat výdaje naší domácnosti a při tom efektivizovat čas, který trávím s tímtéž. Našel jsem řadu programů k tomu určených od Quicken po multiplatformní <a href="http://moneydance.com/">Moneydance</a>. Jenže jsem narazil na problém. Úžasné elektronické bankovnictví eBanky nemá k osobním účtům žádný export dat do textového souboru, natož pak do standardu OFX, který snad každý home-accounting software umí načíst.</p>
+<div class="rightbox"><img src="/wp-content/uploads/20060824-small_expenses_graph.gif" alt="graf z moneydance" width="400" height="267" /></div>Řeším takový malý soukromý problém. Rozhodl jsem se výrazněji analyzovat výdaje naší domácnosti a při tom efektivizovat čas, který trávím s tímtéž. Našel jsem řadu programů k tomu určených od Quicken po multiplatformní <a href="http://moneydance.com/">Moneydance</a>. Jenže jsem narazil na problém. Úžasné elektronické bankovnictví eBanky nemá k osobním účtům žádný export dat do textového souboru, natož pak do standardu OFX, který snad každý home-accounting software umí načíst.</p>
 
 <p>Dost mne to rozlítostnilo, přitom třeba Moneydance už má podporu českého prostředí a účtovat i analyzovat v něm by docela slušně šlo bez dalších úprav. </p>
 

@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2005-03-10 09:26:12
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/20050310-cedulka_faynfree.gif" alt="Fayn Free" width="122" height="114" /></div><a href="http://www.fayn.cz">Fayn</a> měl pro řadu lidí dlouho podstatnou nevýhodu – trval na měsíčním paušálu za používání svých služeb. Tahle nevýhoda v březnu konečně padla a Fayn Free nabízí příchozí číslo bez měsíčního paušálu. Drobnou nevýhodou je už jen aktivační poplatek 400 Kč (u Fayn s paušálem je o stovku menší), případně poplatek za konverzi z tarifního programu Fayn na Fayn Free ve stejné výši (což staré klienty Faynu jistě příliš nepotěší).</p>
+<div class="rightbox"><img src="/wp-content/uploads/20050310-cedulka_faynfree.gif" alt="Fayn Free" width="122" height="114" /></div><a href="http://www.fayn.cz">Fayn</a> měl pro řadu lidí dlouho podstatnou nevýhodu – trval na měsíčním paušálu za používání svých služeb. Tahle nevýhoda v březnu konečně padla a Fayn Free nabízí příchozí číslo bez měsíčního paušálu. Drobnou nevýhodou je už jen aktivační poplatek 400 Kč (u Fayn s paušálem je o stovku menší), případně poplatek za konverzi z tarifního programu Fayn na Fayn Free ve stejné výši (což staré klienty Faynu jistě příliš nepotěší).</p>
 
 <p>Na tabulce vidíte, že samotné hovorné pro Fayn Free není nijak excelentně výhodné, ačkoliv oproti telekomáckému tarifu Home Mini s nejnižším paušálem jsou ceny zpravidla lepší. Pokud ale chcete telefonovat více, vyplatí se zůstat o původního tarifu, Fayn Free je opravdu spíše pro lidi, kteří mají pevnou linku (ne ADSL, protože tam jim už příchozí číslo ČTc protlačil) a chtějí na ní mít zdarma příchozí číslo. </p>
 
