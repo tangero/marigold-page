@@ -27,7 +27,7 @@ Další změny jsou provedeny přímo na radiové části sítě, tedy na RNC (R
 <p>
 Oproti Release 99 zavádí HSDPA nová schémata pro přenos paketových dat. Namísto rychlého řízení vysílacího výkonu a proměnného faktoru rozprostření se používá dynamická adaptivní modulace a kódování, vícekódové operace, rychlé plánování a retransmise na fyzické vrstvě. O co jde, si řekneme záhy. </p>
 
-	<h4>High-Speed Downlink Shared CHannel (HS-DSCH)</h4>
+<h4>High-Speed Downlink Shared CHannel (HS-DSCH)</h4>
 <p>
 Pro HSDPA je definovaný nový typ transportního kanálu nazvaný High-Speed Downlink Shared CHannel (HS-DSCH). Tento transportní kanál umožní více uživatelům sdílet dynamicky vzdušné rozhraní a to až o špičkových rychlostech 14,4 Mb/s. V HS-DSCH jsou použity 2 ms časové přenosové intervaly (TTI) a pevný rozprostírací faktor 16, umožňující využívat 15 paralelních kódů pro uživatelský provoz a signalizaci. </p>
 
@@ -37,15 +37,15 @@ Kanál HS-DSCH používá modulaci QPSK a 16-QAM, adaptaci linky a retransmisi n
 <p>
 Řízení HSDPA přenosu má na starosti kanál High-Speed Shared Control CHannel (HS-SCCH), jenž přenáší informace o použité modulaci, rentrasmisi a další řídící informace. </p>
 
-	<h4>Rychlé plánování (Fast scheduling)</h4>
+<h4>Rychlé plánování (Fast scheduling)</h4>
 <p>
 Plánování přenosu rychlých dat provádí v Release 99 RNC. Jak jsme si již řekli, u HSDPA jde plánování blíže k uživateli a provádí se přímo na NodeB. HSDPA využívá zpětnou informaci od mobilky o kvalitě kanálu, schopnostech mobilky, požadavcích na kvalitu služby a dostupných radiových zdrojích k tomu, aby přesněji plánovala a přenášela data. Plánování na straně NodeB je pro přenos dat pružnější, než když jej provádělo centrálně RNC. </p>
 
-	<h4>Rychlá retransmise a H-ARQ</h4>
+<h4>Rychlá retransmise a H-ARQ</h4>
 <p>
 Pokud se nepodaří dekódovat data přenášená na radiovém kanálu (interference atd), mobilka okamžitě požaduje znovupřenesení dat – retransmisi. Zatímco v Release 99 je retransmise požadována od RNC, v HSDPA je prováděna už NodeB. Retransmisi může NodeB nabídnout rovnou ze svého vyrovnávacího buferu, takže k ní dojde velmi rychle bez čekání na data uložená hlouběji v síti. Tyto operace na Vrstvě 1 jsou pojmenovány jako hybridní automatický požadavek na opakování přenosu – H-ARQ. </p>
 
-	<h4>Zpětná informace o kvalitě kanálu (Channel Quality Feedback)</h4>
+<h4>Zpětná informace o kvalitě kanálu (Channel Quality Feedback)</h4>
 <p>
 Pro obsloužení Indikátorů kvality kanálu (CQI – Channel Quality Indications) a signalizace ACK/NACK pro H-ARQ směrem od mobilky je definován uplink kanál High-Speed Dedicated Physical Control CHannel (HS-DPCCH). Na tomto kanálu sbírá základnovka GQI každého aktivního uživatele a plánuje z těchto dat přidělení přenosového kanálu HS-DSCH</p>
 
@@ -61,18 +61,18 @@ Jak CQI probíhá, vidíte na obrázku. </p>
 <p>
 <img src="/wp-content/uploads/20041025-cqi.gif" alt="CQI" width="469" height="168" /></p>
 
-	<h4>Adaptivní modulace a kódování</h4>
+<h4>Adaptivní modulace a kódování</h4>
 <p>
 Schopnost rychlého plánování HSDPA lze výhodně zúročit pomocí adaptivní modulace a kódování, díky čemuž se k uživateli dostane maximální možná rychlost dat, s jakou si linka jeho kvality dokáže poradit. Modulační a kódovací schémata jsou dynamicky měněna podle kvality radiové linky, zatímco výkon zůstává konstantní. </p>
 
 <p>
 Kromě modulace QPSK nabízí HSDPA také 16-QAM, která je výkonější, ovšem jen v příznivějších podmínkách. </p>
 
-	<h4>Výsledek změn</h4>
+<h4>Výsledek změn</h4>
 <p>
 Po provedení uvedených změn v UMTS síti na Release 5 jsme došli k rychlému kanálu pro stahování dat zvanému HS-DSCH, jenž nabízí špičkové rychlosti až 14,4 Mb/s za sdílení cca 15 uživatelů. Hlavním hnacím motorem tohoto výkonu je 16-QAM mdoulace a hybridní automatický požadavek na opakování přenosu H-ARQ, jenž se také stará o snížení latence a rozptylu. Snížení latence je ale dosaženo především zkrácením TTI na 2ms z původních 10 ms uvedených v Release 99. </p>
 
-	<h4>Výhledy HSDPA pro Release 6 a dále</h4>
+<h4>Výhledy HSDPA pro Release 6 a dále</h4>
 <p>
 Některé důležité přepokládané zásahy do HSDPA v Release 6 jsme si již uvedli. Jde především o rozšířené reportování CQI a jeho dynamický rozsah v TDD. </p>
 

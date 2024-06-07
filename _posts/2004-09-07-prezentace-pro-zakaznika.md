@@ -29,28 +29,28 @@ Asi nějak takhle:
 Proč zvolit naše řešeni:
 </p>
 
-	<ul>
-	<li>nemáte ani šajn, jak vypadá trh. Chcete udělat projekt podle toho, co jste si přečetli v posledním Bravíčku a jelikož máte hromadu peněz, tak tu stojí fronta firem, které jsou ochotny vás o ně oholit a dodat vám přesně to, co si objednáte. A to je smrtící kombinace.
+<ul>
+<li>nemáte ani šajn, jak vypadá trh. Chcete udělat projekt podle toho, co jste si přečetli v posledním Bravíčku a jelikož máte hromadu peněz, tak tu stojí fronta firem, které jsou ochotny vás o ně oholit a dodat vám přesně to, co si objednáte. A to je smrtící kombinace.
 </li>
-	<li>Oba dobře víme, že dva dny po podpisu kontraktu se z toho složíte a necháte nás celý váš koncept předělat. 
+<li>Oba dobře víme, že dva dny po podpisu kontraktu se z toho složíte a necháte nás celý váš koncept předělat. 
 </li>
-	<li>Pokud se tak nestane, složí vás za kvartál finanční výsledky a necháte to někoho předělat, pak pravděpodobně už ne nás, protože to nepochybně bude naše chyba a je třeba změnit dodavatele… </li>
-	</ul>
+<li>Pokud se tak nestane, složí vás za kvartál finanční výsledky a necháte to někoho předělat, pak pravděpodobně už ne nás, protože to nepochybně bude naše chyba a je třeba změnit dodavatele… </li>
+</ul>
 <p>
 
 Naše služby pro vás:</p>
 
-	<ul>
-	<li>budete happy, že na telefonu máte mne a můžete mi vždycky zavolat a zeptat se, co to vlastně vytváříte</li>
-	<li>budete happy, že máme pár programátorů, kteří už někdy viděli klávesnici počítače a vždycky uhasí to, co se u vás &#8220;rozbilo&#8221;.</li>
-	<li>Nakonec se na nás dají všechny problémy svést, což nám nevadí do doby, dokud platíte faktury a netrháte kontrakt.</li>
-	</ul>
+<ul>
+<li>budete happy, že na telefonu máte mne a můžete mi vždycky zavolat a zeptat se, co to vlastně vytváříte</li>
+<li>budete happy, že máme pár programátorů, kteří už někdy viděli klávesnici počítače a vždycky uhasí to, co se u vás &#8220;rozbilo&#8221;.</li>
+<li>Nakonec se na nás dají všechny problémy svést, což nám nevadí do doby, dokud platíte faktury a netrháte kontrakt.</li>
+</ul>
 <p>
 Co za to chceme</p>
 
-	<ul>
-	<li>abyste nám jednou za čas s přiměřeným zpožděním zaplatili fakturu. </li>
-	</ul>
+<ul>
+<li>abyste nám jednou za čas s přiměřeným zpožděním zaplatili fakturu. </li>
+</ul>
 <p>
 Nakonec jsem moudře uvážil, že taková presentace by opravdu nebyla nejvhodnější a zvolil jsem klasické a konvenční řešení. Když jsem ho presentoval a díval  jsem se těm lidem přes stůl do očí, bylo mi jasné, že si to všichni do těchto vět překládají. Proč si takhle komplikujeme život vytvářením symbolických náhrad?  
 </p>

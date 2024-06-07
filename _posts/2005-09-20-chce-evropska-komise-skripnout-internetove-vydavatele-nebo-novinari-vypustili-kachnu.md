@@ -37,6 +37,6 @@ post_date: 2005-09-20 21:01:33
 
 <p>Odkazy: 
 <ul>
-	<li><a href="http://europa.eu.int/comm/commission_barroso/reding/index_en.htm">Oficiální stránky komisařky Redingové</a>. </li>
-	<li><a href="http://europa.eu.int/rapid/pressReleasesAction.do?reference=IP/05/1164&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en">What challenges for the publishing industry in the digital age? Commission opens public consultation</a></li>
-	<li><a href="http://europa.eu.int/rapid/pressReleasesAction.do?reference=MEMO/05/327&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=fr">FAQ:  The Commission’s Approach to the Publishing Industry</a></li>
+<li><a href="http://europa.eu.int/comm/commission_barroso/reding/index_en.htm">Oficiální stránky komisařky Redingové</a>. </li>
+<li><a href="http://europa.eu.int/rapid/pressReleasesAction.do?reference=IP/05/1164&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=en">What challenges for the publishing industry in the digital age? Commission opens public consultation</a></li>
+<li><a href="http://europa.eu.int/rapid/pressReleasesAction.do?reference=MEMO/05/327&amp;format=HTML&amp;aged=0&amp;language=EN&amp;guiLanguage=fr">FAQ:  The Commission’s Approach to the Publishing Industry</a></li>

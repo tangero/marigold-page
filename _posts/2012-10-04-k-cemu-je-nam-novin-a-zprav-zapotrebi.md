@@ -60,14 +60,14 @@ categories: [Média]
 Na příbuzné téma lze pokračovat články: 
 
 <ul>
-	<li><a href="http://www.marigold.cz/item/dulezitych-bude-tech-dalsich-dvacet-let-internetove-revoluce">Důležitých bude dalších dvacet let internetové revoluce</a></li>
+<li><a href="http://www.marigold.cz/item/dulezitych-bude-tech-dalsich-dvacet-let-internetove-revoluce">Důležitých bude dalších dvacet let internetové revoluce</a></li>
 
 
 
 
-	<li><a href="http://www.marigold.cz/item/o-chcipactvi-novinariny-proc-jsou-noviny-hnuj-a-co-s-tim-konkretne-vy-muzete-udelat">O chcípáctví novinařiny, proč jsou noviny hnůj a co s tím konkrétně vy můžete udělat?</a></li>
+<li><a href="http://www.marigold.cz/item/o-chcipactvi-novinariny-proc-jsou-noviny-hnuj-a-co-s-tim-konkretne-vy-muzete-udelat">O chcípáctví novinařiny, proč jsou noviny hnůj a co s tím konkrétně vy můžete udělat?</a></li>
 
-	<li><a href="http://zandl.blog.respekt.ihned.cz/c1-54396540-okamuristicka-politika-je-cesta-do-pekel-cesta-jinam-je-ale-zdlouhava">Okamuristická politika je cesta do pekel, cesta jinam je ale zdlouhavá</a>
+<li><a href="http://zandl.blog.respekt.ihned.cz/c1-54396540-okamuristicka-politika-je-cesta-do-pekel-cesta-jinam-je-ale-zdlouhava">Okamuristická politika je cesta do pekel, cesta jinam je ale zdlouhavá</a>
 </li>
 
 </ul>

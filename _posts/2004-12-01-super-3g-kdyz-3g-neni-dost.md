@@ -15,7 +15,7 @@ Chytil jsem virózu a baže si nemohla vybrat lepší čas, když se za dva dny 
 <p>
 Chtěl bych se v krátkosti pozastavit u konceptu <b>Super 3G</b> (někdy též Super-3G). S tímto termínem přišlo japonské NTT DoCoMo, jemuž se jeho vlastní 3G síť už zdá pomalá a tak se porozlíží, do čeho by mohla šlápnout. 4G s termínem spuštění kolem roku 2010 připadá DoComu jako velmi výhledová záležitost, takže přišla s přechodovým řešením Super 3G. Abych řekl pravdu, z celé presentace a dokumentace spíš mám dojem, že koncept Super 3G má uklidnit operátory, kterým se hrůzou podlamují kolena, že v roce 2006 zainvestují 3G a o čtyři roky později jim někdo bude do ruky tlačit nové barevné prospekty 4G a chtít podepsat kontrakt. Super 3G zní tak, jako že to nebude nic moc stát, že to bude běžný upgrade a jak to tak vypadá (a jak se v mobilních technologiích stalo běžné), Super 3G se horním koncem svého výkonu bude dotýkat sítí 4G v jejich ranných fázích. Podobně, jako dnes EDGE a 3G. </p>
 
-	<h4>Požadavky na Super 3G</h4>
+<h4>Požadavky na Super 3G</h4>
 <p>
 Na Super 3G klade NTT DoCoMo několik požadavků. Tak především má přinést výrazně vyšší přenosovou rychlost (30-100 Mb/s) a vyšší kapacitu. Ale nejenom to. Musí také nabídnout citelně nižší latenci a rozptyl, aby byly provozovatelné i multiplayer hry a další běžné internetové aplikace. To předpokládá vtlačit latenci pod 100 ms. </p>
 

@@ -14,7 +14,7 @@ V minulém díle jsme si rozebrali nejdůležitější termíny spjaté s bezdr�
 <p>
 V druhé půli už začnu s tím pro vás nejdůležitějším, tedy &#8220;<strong>Chci bezdrátovou síť, co mám dělat?!</strong>&#8221;. Nicméně předem upozorňuji, že to asi nejzajímavější si nechávám na poslední díl(y) - ne není to kalkul abyste sem chodili každý den (i když ;-) ), prostě to předpokládá určité znalosti, které se vám snažím předem vštípit.</p>
 
-<!--more-->	<h4>Hot-spot</h4>
+<!--more--><h4>Hot-spot</h4>
 <p>
 Takže hot-spoty - možná se teď mýlím, v každém případě se domnívám, že tento pojem a vůbec celý nápad dostala firma <a href="http://www.nomadix.com/">Nomadix</a> v roce 1998 a je úzce spjat s bezdrátovými sítěmi (i když v prvopočátcích nebyl). Jde o to, že jsou místa, kde je potřeba se připojit k internetu, je zde velká hustota lidí s notebooky, a přesto to nebylo realizovatelné.</p>
 <p>
@@ -56,37 +56,37 @@ A ještě jedna možnost - potřebujete-li jen propojit váš notebook a počít
 
 <ol>
 <li>Notebook má v sobě Centrino technologii (či je jinak vybaven Wi-Fi). Nejlevnější je tedy ad-hoc síť, kdy k desktop počítači připojíte klientské zařízení (dále jen &#8220;klient&#8221;, nastavíte na obou Peer-to-Peer režim a doporučuji zapnout i šifrování (jinak jste naprosto otevřeni světu). Rozhodně je nutná Wi-Fi známka na klientovi, standard 802.11g je zřejmě k nepotřebě (notebooky i PDA jsou zatím vybaveny typicky jen 802.11b).</li>
-	<ul>
+<ul>
 <li>Potřebný HW:</li>
-	<ul>
+<ul>
 <li><a href="http://www.wifishop.cz/inshop/shop.asp?Level=78&amp;Rnd=6560261">klientská karta USB Wi-Fi (802.11b)</a></li>
-	<li>cenové rozpětí 990-2341 Kč</li>
-	<li>doporučený typ: zde je to v podstatě jedno, asi bych šel do <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=21129&amp;Level=78">Compex WLU11A</a></li>
-	<li>Má-li ale počítač i Ethernet (některé boardy už jej mají standardně), osobně bych šel spíše do Ethernetového klienta/AP za podobné peníze <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20990&amp;Level=79">ASUS WL-330b</a> (bych šel není správné spojení, já jsem si ho totiž opravdu pořídil a je skvělý)</li>
+<li>cenové rozpětí 990-2341 Kč</li>
+<li>doporučený typ: zde je to v podstatě jedno, asi bych šel do <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=21129&amp;Level=78">Compex WLU11A</a></li>
+<li>Má-li ale počítač i Ethernet (některé boardy už jej mají standardně), osobně bych šel spíše do Ethernetového klienta/AP za podobné peníze <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20990&amp;Level=79">ASUS WL-330b</a> (bych šel není správné spojení, já jsem si ho totiž opravdu pořídil a je skvělý)</li>
 </ul>
 </ul>
-	<li>To samé co (1), ale notebook není vybaven technologií Centrino. Na stranu počítače budete potřebovat to samé co (1), na stranu druhou potom kartu standardu PC Card do notebooku. Zde pozor na operační systém, novější karty umějí jen nové operační systémy (a CardBus rozhraní). Budou-li obě karty od stejného výrobce, nemusíte ani pátrat po Wi-Fi logu (ale přesto to raději dělejte).</li>
-	<ul>
+<li>To samé co (1), ale notebook není vybaven technologií Centrino. Na stranu počítače budete potřebovat to samé co (1), na stranu druhou potom kartu standardu PC Card do notebooku. Zde pozor na operační systém, novější karty umějí jen nové operační systémy (a CardBus rozhraní). Budou-li obě karty od stejného výrobce, nemusíte ani pátrat po Wi-Fi logu (ale přesto to raději dělejte).</li>
+<ul>
 <li>Potřebný HW:</li>
-	<ul>
+<ul>
 <li>viz (1) + <a href="http://www.wifishop.cz/inshop/shop.asp?Level=77&amp;Rnd=6560261">klientská karta PC Card (802.11b)</a></li>
-	<li>cenové rozpětí 771-2132 Kč</li>
-	<li>doporučený typ: opět v podstatě jedno, asi bych šel do <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20992&amp;Level=77">ASUS WL-103b</a> (od stejné firmy jako mám výše, příznivá cena)</li>
+<li>cenové rozpětí 771-2132 Kč</li>
+<li>doporučený typ: opět v podstatě jedno, asi bych šel do <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20992&amp;Level=77">ASUS WL-103b</a> (od stejné firmy jako mám výše, příznivá cena)</li>
 </ul>
 </ul>
-	<li>Nechci Ad-hoc síť, chci použít AP (má i Ethernet, mohu jej tedy připojit i například k ADSL či kabelovému routeru, případně k tiskárně s Ethernetem).</li>
-	<ul>
+<li>Nechci Ad-hoc síť, chci použít AP (má i Ethernet, mohu jej tedy připojit i například k ADSL či kabelovému routeru, případně k tiskárně s Ethernetem).</li>
+<ul>
 <li>Potřebný HW:</li>
-	<ul>
+<ul>
 <li><a href="http://www.wifishop.cz/inshop/shop.asp?Level=63&amp;Rnd=6560261">Přístupový bod s Wi-Fi</a></li>
-	<li>cenové rozpětí 414-17251 Kč</li>
-	<li>doporučený typ, jak už jsem zmínil, pořídil jsem si <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20990&amp;Level=63">ASUS WL-330b</a>, což je mrňavý přístupový bod/klient (8*6*2 cm, 62g), vejde se mi do kapsičky a HW tlačítkem si můžou přepínat mezi režimy AP a klient (a navíc je v podstatě nejlevnější).</li>
-	<li>Za zmínku stojí ale i levnější &#8220;Access Point&#8221;, to je ale trochu mimo kategorii, jedná se totiž o <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=21194&amp;Level=63">speciální kartu</a> do některých nových Asus boardů (nemám), která umí pracovat jako softwarový AP, a je za 4 stovky.</li>
-	<li>A ještě jedna věc mě zaujala (já ale vážně nemám nic společného s ASUSem, to je náhoda že mi ostatní přijde příliš všední ;-) ). Je to přístupový bod <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20994&amp;Level=64">ASUS WL-500g</a>, který má i routovací funkce, ale hlavně - má USB port, kam můžete připojit USB kameru (až 6) a nebo USB disk a získat tak levný monitorovací systém (na kamery se pak kouká přes Web rozhraní), nebo zajímavý &#8220;file server&#8221;. A má i LPT rozhraní, na které připojíte běžnou tiskárnu a získáte tak i Print Server. Podporuje navíc 802.11g (54 Mbit) a cena cca. 4,4 tisíce je IMHO velmi příznivá (čistě <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20993&amp;Level=64">.11b varianta stojí ještě o tisícovku míň</a>). Tyto routery mají navíc linuxové jádro a vzniká mnoho uživatelských úprav, které přidávají další fičury (viz diskuse na WiFishopu), <a href="http://mobil.idnes.cz/mobilni_komunikace/cdma040811.html">včera byl například publikován firmware, se kterým můžete na USB port připojit CDMA modem!</a></li>
-	<li>samozřejmě na klientskou stranu potřebujete zařízení dle bodu 1</li>
+<li>cenové rozpětí 414-17251 Kč</li>
+<li>doporučený typ, jak už jsem zmínil, pořídil jsem si <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20990&amp;Level=63">ASUS WL-330b</a>, což je mrňavý přístupový bod/klient (8*6*2 cm, 62g), vejde se mi do kapsičky a HW tlačítkem si můžou přepínat mezi režimy AP a klient (a navíc je v podstatě nejlevnější).</li>
+<li>Za zmínku stojí ale i levnější &#8220;Access Point&#8221;, to je ale trochu mimo kategorii, jedná se totiž o <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=21194&amp;Level=63">speciální kartu</a> do některých nových Asus boardů (nemám), která umí pracovat jako softwarový AP, a je za 4 stovky.</li>
+<li>A ještě jedna věc mě zaujala (já ale vážně nemám nic společného s ASUSem, to je náhoda že mi ostatní přijde příliš všední ;-) ). Je to přístupový bod <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20994&amp;Level=64">ASUS WL-500g</a>, který má i routovací funkce, ale hlavně - má USB port, kam můžete připojit USB kameru (až 6) a nebo USB disk a získat tak levný monitorovací systém (na kamery se pak kouká přes Web rozhraní), nebo zajímavý &#8220;file server&#8221;. A má i LPT rozhraní, na které připojíte běžnou tiskárnu a získáte tak i Print Server. Podporuje navíc 802.11g (54 Mbit) a cena cca. 4,4 tisíce je IMHO velmi příznivá (čistě <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20993&amp;Level=64">.11b varianta stojí ještě o tisícovku míň</a>). Tyto routery mají navíc linuxové jádro a vzniká mnoho uživatelských úprav, které přidávají další fičury (viz diskuse na WiFishopu), <a href="http://mobil.idnes.cz/mobilni_komunikace/cdma040811.html">včera byl například publikován firmware, se kterým můžete na USB port připojit CDMA modem!</a></li>
+<li>samozřejmě na klientskou stranu potřebujete zařízení dle bodu 1</li>
 </ul>
 </ul>
-	<li>více počítačů - viz varianty 1-3, prostě nakoupíte více klientských zařízení, doporučoval bych ale v tomto případě nepoužívat Ad-hod mód a zaměřit se čistě na var. 3.  s potřebným počtem klientů.</li>
+<li>více počítačů - viz varianty 1-3, prostě nakoupíte více klientských zařízení, doporučoval bych ale v tomto případě nepoužívat Ad-hod mód a zaměřit se čistě na var. 3.  s potřebným počtem klientů.</li>
 </ol>
 <p>
 Když si to tedy projdete zjistíte, že vnitřní bezdrátovou síť uděláte rozumně tak za cca. 1000-1500 Kč na klienta. Klasickou drátovou klíč pořídíte asi  o 500-1000 Kč levněji, jenže instalace vám zabere podstatně více času (pokládka kabeláže, lištování &#8230;) a vyžaduje větší znalosti (v nových systémech jsou některé značkové karty naprosto Plug &#8216;n play) . Navíc vám lišty po zdech znehodnotí byt (teda když to neuděláte trubkami v podhledech či podlaze, ale to jsme zas někde jinde) a se když najednou rozmyslíte, že byste raději počítač na druhou stranu pokoje (či se budete stěhovat, a nebo máte ještě chalupu), tak začínáte znovu. Ale hlavně - máte-li notebook či PDA, je získaná svoboda pohybu (balkónek, zahrádka) někdy k nezaplacení.</p>

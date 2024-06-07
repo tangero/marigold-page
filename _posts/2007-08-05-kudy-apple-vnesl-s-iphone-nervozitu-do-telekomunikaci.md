@@ -66,12 +66,12 @@ To ale znamená, že pokud iPhone dojde rozšíření podobně, jako iPod, zamí
 Zda iPhone uspěje ve svém tlaku na dodržování IT standardů ve světě telekomunikací, bude záviset na jeho rozšíření. Zrekapitulujme si výsledky (zdroj: studie Canalys):
 
 <ul>
-	<li>Apple iPhone - 270 000 prodaných telefonů za den a půl prodeje</li>
-	<li>Palm Treo (s Palm OS) - 500 000 prodaných zařízení na první čtvrtletí 2007</li>
-	<li>RIM Blackberry - 1 milion prodaných zařízení za 1Q/2007</li>
-	<li>Windows Mobile zařízení (včetně Treo s Win) - 1,51 milionu za 1Q/2007</li>
-	<li>Symbian (S60, MOAP a UIQ) - 15,75 milionů za 1Q/2007</li>
-	<li>Linux (včetně Motoroly pro čínský trh s uzavřeným rozhraním) - 3,13 milionů za 1Q/2007</li>
+<li>Apple iPhone - 270 000 prodaných telefonů za den a půl prodeje</li>
+<li>Palm Treo (s Palm OS) - 500 000 prodaných zařízení na první čtvrtletí 2007</li>
+<li>RIM Blackberry - 1 milion prodaných zařízení za 1Q/2007</li>
+<li>Windows Mobile zařízení (včetně Treo s Win) - 1,51 milionu za 1Q/2007</li>
+<li>Symbian (S60, MOAP a UIQ) - 15,75 milionů za 1Q/2007</li>
+<li>Linux (včetně Motoroly pro čínský trh s uzavřeným rozhraním) - 3,13 milionů za 1Q/2007</li>
 </ul>
 
 

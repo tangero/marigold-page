@@ -16,7 +16,7 @@ post_date: 2005-08-10 08:41:00
 <p>Prvotní problém je se zobrazovacím zařízením. Dnes si umíme jeho miniaturizaci představit do určité míry – přechodem z CRT monitorů na LCD se podstatně snížil třetí rozměr, s CRT by nebyly mobily vůbec použitelné. Jenže pořád nám zůstávají dva rozměry, výška a šířka, které definují velikost displeje a tím i jeho poměr mezi přenositelností a použitelností. Výrobcům mobilů zatím zůstává balancovat na vyvážení těchto poměrů, tedy nacpat co největší displej do co nejmenšího mobilu se zachováním klávesnice. Dosud největším pokrokem v tomto směru jsou véčka a slide telefony, které snižují nutnou výšku na polovinu tím, že klávesnice se zasune nebo přehne pod displej. Jenže to není žádná revoluce.
 </p>
 
-<!--more-->	<h4>Head Mount Display, HMD</h4>
+<!--more--><h4>Head Mount Display, HMD</h4>
 	<div class="rightbox"><img src="/wp-content/uploads/20050810-microopticalSV-6.jpg" alt="Microoptical SV-6" width="161" height="215" /></div>Řešení je zatím pár v dohledu. Komerčně nejdostupněji vypadají displeje v brýlých, tedy něco na způsob HUD – nazývají se Head Mount Display, HMD. V brýlích je vestavěný displej a jeho kontrast i zaostření je seřízeno tak, abyste nemuseli ostřit na předmět ve vzdálenosti pěti cm od očí, ale aby to vypadalo zhruba jako slušná devatenáctka ve vzdálenosti metru od vaší hlavy. Jsou tu drobné technické problémy – především v tom, že z takového pokoukání lidi za chvíli bolí hlava a pokud ne, pak je to drahá technologie. </p>
 
 <p>Druhou variantou (to je to, co je na obrázku) je displej předsazený před brýle nebo mini projektůrek.</p>
@@ -29,19 +29,19 @@ post_date: 2005-08-10 08:41:00
 
 <p>Cena by ovšem mohla spadnout a proskakují povídačky, že displej v brýlích by ráda vyzkoušela pro své telefony Motorola. Bohužel to nebude žádná bezdrátová hračka, na telefon se připojí přes systémový konektor. Třeba je to fáma, ale podobná cesta tu jednou bude – takové výrobky jsou již na trhu k sehnání. Hromada popisů a odkazů k <a href="http://wearcam.org/head-mounted-displays.html">HMD zde</a>.</p>
 
-	<h4>VRT, Virtual Retinal Display</h4>
+<h4>VRT, Virtual Retinal Display</h4>
 <p>Podobnou variantou je VRT, Virtual Retinal Display, kde „displej“ se vytváří kresbou laserem přímo na sítnici. Osobně jsem na oči háklivý a ani na tohle jsem neměl chuť to otestovat, ale projděte si <a href="http://www.mvis.com/">web Microvision</a>, zaujme vás to. Na obrázku je Nomad, jejich VRT pro průmyslové aplikace, mají i vojenskou verzi a ta pro běžné uživatele se také časem objeví...</p>
 
 <p><center>
 <img src="/wp-content/uploads/20050810-nomad-VRD.jpg" alt="Nomad VRT" width="500" height="313" />
 </center></p>
 
-	<h4>EUD, Eye-Up Display</h4>
+<h4>EUD, Eye-Up Display</h4>
 <p>Ještě dál jdou přímo EUD, Eye-Up Display (či též eye-up floating display), tedy zobrazování přímo před očima. To má podobu kontaktních čoček, v nichž je vestavěný displej podobný, jako  u brýlí, samozřejmě menší a koncentrovanější a patřičně dražší. Signál se do čoček dostává světlovodem nebo supratenkým kabílkem, čočky se ale nedoporučuje vytahávat za tento kabílek z oka, mohlo by se to utrhnout. Viděl jsem je v jedné laboratoři, bohužel nejsem sto čočky používat, takže jsem je nevyzkoušel, ale člověk, který je zkoušel, tím byl nadšen. Bohužel šlo o prototypy pro vojenské jednotky a armáda (americká) je odmítla koupit s tím, že i na ni je to moc drahé a že mají ještě pracovat na minimalizaci nákladů. Jak by ne, jedna čočka stála zhruba dvěstě tisíc dolarů a většina výzkumů v tomto ohledu běží výhradně pro armádní potřeby.  </p>
 
 <p>Kromě toho jsou tu také zlepšení stávajících technologií, které zveme zatím souhrně LCD. Jenže to není LCD, ale i OLED (to už je na trhu) nebo také nově Polymer Light Emitting Diodes (PLED) a další. </p>
 
-	<h4>Free Space Display</h4>
+<h4>Free Space Display</h4>
 	<div class="rightbox"><img src="/wp-content/uploads/20050810-heliodisplay.jpg" alt="IO2 Heliodisplay" width="347" height="323" /></div>Poslední kategorií jsou plně 3D displeje vykreslované do volného prostoru, někdy se jim také říká Free-Space Display, jeden z průkopníků <a href="http://www.io2technology.com">IO2 Technology</a> je také nazývá heliodisplay (obrázek vpravo), ale má to jako ochranou známku, tak se to asi nechytí. V tomhle případě jsou do prostoru vykreslovány požadované obrazce, ty se prostě vznáší ve vzduchu. Nejde při tom o to, že by tyto obrazce mohly být vnímány prostorově, když se na ně díváte z boku, tak prostě prostorové nejsou. Jenže když se na ně díváte ze předu, tak je vidíte zhruba tak, jako na displeji počítače. </p>
 
 <p>Zatím jsou to veliké krabice připomínající tiskárny, jenže technologie jde rychle dopředu a za deset-dvacet let mohou mít velikost krabičky od sirek, mohou být vestavěné opravdu do mobilního telefonu a stiskem tlačítka udělat z maličkého mobilu stejně pohodlné zařízení a vyřešit řadu dalších problémů. Tím největším a společným problémem všech podobných zařízení je potřeba světelnosti pro dostatečný kontrast. </p>

@@ -18,16 +18,16 @@ Na Lupě udělali <a href="http://www.lupa.cz/clanek.php3?show=3547">srovnání 
 
 <ul>
 <li>v necelé čtvrtině českých domácností má některý z jejích členů možnost použít počítač;</li>
-	<li>nejvyšší podíl domácností vybavených počítačem je v Praze (38%), druhým krajem s nejvyšším skóre je Jihomoravský s 30%  a nejméně rodin, kde mají k dispozici počítač, žije na Olomoucku (15%);</li>
-	<li>méně než polovina Čechů použila někdy počítač;</li>
-	<li>nejčastějším uživatelem internetu je mladý zaměstnaný vysokoškolák z Prahy;</li>
-	<li>připojení k internetu má zatím pouze 15% domácností z toho 82 procent k připojení používá dial-up (V EU je k internetu připojeno 45 procent domácností a v Dánsku dokonce 64 procent);</li>
-	<li>internet použilo někdy 34 procent české populace;</li>
-	<li>12% (prý Čechů, ale IMHO spíše těch co využívají internet) ovládají přes internet svůj bankovní účet;</li>
-	<li>pevnou linku má 6 domácností z 10;</li>
-	<li>ADSL nebo jiné DSL technologie na sklonku loňského roku využívala pouhá 3% domácností (nyní to bude výrazně více). Připojení přes mobilní telefon zatím dává přednost jen pět procent domácností;</li>
-	<li>mobilní telefon pro takzvané soukromé účely vlastní 66 procent Čechů (zde je zajímavý rozpor, prý každý 7. muž a každá 6. žena, což by bylo ovšem nějaký 15%, správně má být určitě 7 (6) z deseti);</li>
-	<li>nejpopulárnější jsou mobilní telefony u osob ve věku 15 až 44 let</li>
+<li>nejvyšší podíl domácností vybavených počítačem je v Praze (38%), druhým krajem s nejvyšším skóre je Jihomoravský s 30%  a nejméně rodin, kde mají k dispozici počítač, žije na Olomoucku (15%);</li>
+<li>méně než polovina Čechů použila někdy počítač;</li>
+<li>nejčastějším uživatelem internetu je mladý zaměstnaný vysokoškolák z Prahy;</li>
+<li>připojení k internetu má zatím pouze 15% domácností z toho 82 procent k připojení používá dial-up (V EU je k internetu připojeno 45 procent domácností a v Dánsku dokonce 64 procent);</li>
+<li>internet použilo někdy 34 procent české populace;</li>
+<li>12% (prý Čechů, ale IMHO spíše těch co využívají internet) ovládají přes internet svůj bankovní účet;</li>
+<li>pevnou linku má 6 domácností z 10;</li>
+<li>ADSL nebo jiné DSL technologie na sklonku loňského roku využívala pouhá 3% domácností (nyní to bude výrazně více). Připojení přes mobilní telefon zatím dává přednost jen pět procent domácností;</li>
+<li>mobilní telefon pro takzvané soukromé účely vlastní 66 procent Čechů (zde je zajímavý rozpor, prý každý 7. muž a každá 6. žena, což by bylo ovšem nějaký 15%, správně má být určitě 7 (6) z deseti);</li>
+<li>nejpopulárnější jsou mobilní telefony u osob ve věku 15 až 44 let</li>
 </ul>
 <p>
 Při louskání těch článků mě zarazila spousta chyb, nevím jestli to blbě pochopili novináři, či jestli to někdo z ČSÚ takto blbě interpretoval. Hlavně ale na spoustu údajů nepotřebovali otravovat 8500 respondentů a utrácet miliony - mnohem lepší, přesnější a aktuální informace by vytáhli z databáze (státního) Českého Telecomu, nota bene musí každý operátor tyto informace pravidelně reportovat.</p>

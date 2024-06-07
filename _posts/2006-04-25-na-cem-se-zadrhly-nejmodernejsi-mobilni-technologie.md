@@ -13,33 +13,33 @@ post_date: 2006-04-25 15:24:12
 ---
 <p>K <a href="/item/telekomunikace-jsou-tesne-pred-dalsi-bublinou">minulému článku</a> se objevilo tolik komentářů a dotazů jak emailem, tak pod článkem, že se pokusím na ně odpovědět nějak uceleněji. </p>
 
-	<h4>Proč hovořím o „ekosystému“?</h4>
+<h4>Proč hovořím o „ekosystému“?</h4>
 <p>Ekosystém se obvykle skládá ze tří hlavních složek (může se rozpadat do podložek, jmenovitě do různých přeprodejců a přidržtažků, ale od nich lze nyní abstrahovat, protože vždy je lze sjednotit s jednou z těch tří základních složek):</p>
 
-	<ul>
-	<li><strong>Dodavatel</strong> – to je výrobce a vývojář technologie. </li>
-	<li><strong>Poskytovatel služby</strong> – v našem případě operátor, tedy někdo, kdo koupí od dodavatele technologii, něco s ní sešmudlá a prodává to dále koncovému uživateli</li>
-	<li><strong>Zákazník</strong> nebo též <strong>uživatel</strong> – ten, kdo tu službu pro sebe dále používá</li>
-	</ul>
+<ul>
+<li><strong>Dodavatel</strong> – to je výrobce a vývojář technologie. </li>
+<li><strong>Poskytovatel služby</strong> – v našem případě operátor, tedy někdo, kdo koupí od dodavatele technologii, něco s ní sešmudlá a prodává to dále koncovému uživateli</li>
+<li><strong>Zákazník</strong> nebo též <strong>uživatel</strong> – ten, kdo tu službu pro sebe dále používá</li>
+</ul>
 <p>Proč je to <em>"ekosystém"</em> a proč se tohle buzzword používá? <em>Eko</em> je tu od ekonomiky, nikoliv od ekologie. A <em>systém</em> je tu proto, že je to polo-uzavřený systém. Stejně, jako v ekologii. Pokud se jedné části ekosystému nedaří, nakazí svojí impotencí ostatní části ekosystému. Když nemá zákazník prachy (z libovolného důvodu), nekoupí si služby. A když zákazník nekupuje služby, poskytovatel služby nekupuje od dodavatele technologii. Proč je to jen polouzavřený systém? Protože nefunguje zpětný ráz ve smyslu dodavatel neprodává své technologie a tak nemůže zaměstnávat zákazníky a platit jim peníze. Tahle linie v podstatě neexistuje. Zákazník většinu peněz přináší z jiných ekosystémů, nikoliv z tohoto konkrétního. </p>
 
 <p>Z toho plynou dvě důležité věci vypadající na první pohled jako samozřejmost (na ten druhý se na ně rádo zapomíná):</p>
 
-	<ul>
-	<li>je třeba sledovat, jak se daří jiným ekosystémům, protože zpomalení růstu jednoho ekosystému ohrožuje růst jiných ekosystémů, když zákazníci nebudou mít peníze</li>
-	<li>je třeba vytvořit další buzzword a tím je „user centric“ nebo „client centric“. Tedy mít „fokus na zákazníka“. Proč? Protože jen skrze něj přichází mana a jiná požehnání. Tedy i dodavatel technologie, který je zaměřený na prodej velkým operátorům, se musí ve vhodném světle blyštět před koncovým zákazníkem s tím, co prodává, ačkoliv to prakticky nikdy neprodává přímo jemu. </li>
-	</ul>
+<ul>
+<li>je třeba sledovat, jak se daří jiným ekosystémům, protože zpomalení růstu jednoho ekosystému ohrožuje růst jiných ekosystémů, když zákazníci nebudou mít peníze</li>
+<li>je třeba vytvořit další buzzword a tím je „user centric“ nebo „client centric“. Tedy mít „fokus na zákazníka“. Proč? Protože jen skrze něj přichází mana a jiná požehnání. Tedy i dodavatel technologie, který je zaměřený na prodej velkým operátorům, se musí ve vhodném světle blyštět před koncovým zákazníkem s tím, co prodává, ačkoliv to prakticky nikdy neprodává přímo jemu. </li>
+</ul>
 <p>O ekosystému lze žvatlat dlouho, ale nic nad tyhle základní fakta nemá pro nás nyní většího smyslu.
 </p>
 
-<!--more-->	<h4>Proč krachují nadějné technologie?</h4>
+<!--more--><h4>Proč krachují nadějné technologie?</h4>
 <p>Dobrý dotaz – co PTT, co MMS – proč to nejede? Je to cenou? Inu, je to tradičně více faktory. Pokud přicházíte na trh s novou technologií, musíte mít v prvé řadě na paměti tyhle faktory:</p>
 
-	<ul>
-	<li>Interoperabilita</li>
-	<li>User Experience</li>
-	<li>Substituce nebo příbuznost</li>
-	</ul>
+<ul>
+<li>Interoperabilita</li>
+<li>User Experience</li>
+<li>Substituce nebo příbuznost</li>
+</ul>
 <p><strong>Interoperabilita </strong>je první problém. Službu, kterou uvádíte, musíte být schopni nabídnout v propojení s jinými příbuznými službami. Dobrým příkladem jsou MMS zprávy. Nejenom, že musíte zajistit, aby MMS zpráva z T-Mobile došla jak do Eurotelu a Vodafone, ale také do T-Mobile Německo a dalších sítí (a to dodnes není pravidlem). Musíte udělat ještě krok dál. Nesmíte zamezovat tomu, aby lidé mohli obsah z MMS zpráv ukládat a exportovat ze svého mobilního telefonu, pokud k tomu mají právo od odesilatele. Dobrým příkladem jsou právě fotomobily. Když začínaly, řada operátorů si vyžádala u výrobců zakázání možnosti fotografie exportovat z telefonu přes kabel//bluetooth/infra. Mělo to devastující účinky na používání fotografických schopností uživateli mobilů. </p>
 
 <p>Teprve v momentě, kdy uživatel byl schopen fotografii uložit na PC, tam si ji prohlédnout na pořádném displeji a viděl, že celý ten proces pořízení fotky mobilem na něco je, ho začalo zajímat, zda by ji nemohl odeslat. Zrušením těchto omezení v telefonech se pomaličku začal trh s MMS zprávami oživovat a vidíme jasnou korelaci mezi tím, jak operátor k posílání a exportování fotek mobilem přistupuje a mezi tím, kolik SMS se v jeho síti odešle. </p>
@@ -60,7 +60,7 @@ post_date: 2006-04-25 15:24:12
 
 <p>Pokud se vám u služby nedostává substituce nebo příbuznosti s jinou službou, stojíte před složitým problémem vysvětlit lidem, proč by takovou službu měli chtít používat. Někdy se to může podařit. Jindy je to ale zatroleně drahý a obtížný špás. </p>
 
-	<h4>A co ty nové skvělé služby, ty se neprojeví?</h4>
+<h4>A co ty nové skvělé služby, ty se neprojeví?</h4>
 <p>Třetí skupinu námitek či dotazů tvořila tvrzení, že prasknutí bubliny pomůžou nové zázračné technologie jako VoIP a WiMAX. Nikoliv, nepomohou. </p>
 
 <p>Důvodů je více. Tak především tři roky jsou zatraceně krátká doba. Možná jste někde četli, že vývoj v telekomunikacích kráčí překotně kupředu, ale já vám prozradím tajemství (a bude to jen mezi námi) – autor téhle větičky vám odporně lhal. Nic nekráčí rychle kupředu, jen PowerPointové presentace, když na ně kápne Blue screen of dead. Jestli vás to uklidní, tak jsem na tohle tvrzení v minulosti také mnohokrát naletěl. Ale vězte, že dvouleté odklady a zpoždění pouhého nástupu na trh jsou v telekomunikacích (a věřím že i jinde) naprosto obvyklé. A to jsme teprve u nástupu na trh. </p>

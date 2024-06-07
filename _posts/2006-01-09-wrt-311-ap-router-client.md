@@ -18,7 +18,7 @@ Už tu dlouho nebyl žádný článek na téma Wi-Fi hardware, já teď jednu kr
 <p>To ale není ten hlavní důvod, proč si to asi většina z nás bude kupovat, to nejdůležitější budou pro nás funkce a těch to má mraky:
 </p>
 
-<!--more-->	<ul>
+<!--more--><ul>
 <li>1 WAN, 4 LAN porty</li>
 <li>režimy AP, klient, router, NAT router, WDS</li>
 <li>podpora ad-hoc režimu u klienta!</li>

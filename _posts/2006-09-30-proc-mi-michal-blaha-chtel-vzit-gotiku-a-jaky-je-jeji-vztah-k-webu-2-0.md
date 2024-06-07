@@ -16,7 +16,7 @@ post_date: 2006-09-30 13:00:37
 <p>Pokud se podíváte na něco, co bych nazval informační architekturou středověku, zjistíte, že zde dochází k dramatickému posunu. Původní kněžiště jakožto někdejší centrální shromažďovací a informační místa se radikálně proměňují. Z otevřených pahorků obehnaných náspem a z oltářů zalitých sluncem pod posvátnými stromy, se stěhují do městských center, do staveb uzavřených, kamenných, odosobněných od přírody. Jde o revoluci v pravém slova smyslu. Rotundy a baziliky se stávají novým informačním centrem raného středověku a ty také označujeme za románskou architekturu.
 </p>
 
-<!--more-->	<h4>Je gotika samostatný umělecký směr?</h4>
+<!--more--><h4>Je gotika samostatný umělecký směr?</h4>
 <p><div class="rightbox"><img src="/wp-content/uploads/20060930-180px-Rotunda_na_Ripu.jpg" alt="Rotunda svatého Jiří na hoře Říp v románském slohu" width="180" height="248" /><br/><i>Rotunda svatého Jiří na hoře<br/> Říp v románském slohu</i></div>Dějeprava nás učí, že <a href="http://cs.wikipedia.org/wiki/Románská_architektura">románská architektura</a> plynule přechází v <a href="http://cs.wikipedia.org/wiki/Gotická_architektura">architekturu gotickou</a>. Uplatňuje se v ní perfekcionalizace románských postupů, tedy preciznější zdění a plánování umožňující vyšší stavby. Namísto klasického oblouku typického pro románskou architekturu přichází oblouk lomený, zase umožňující vyšší a honosnější stavbu. Podstatně vyšší. </p>
 
 <p>Z hlediska řemeslníka není valného rozdílu mezi klasickým a lomeným obloukem. Je to hromada opracovaných šutrů na sobě. Z hlediska architekta je rozdíl naprosto podstatný. Zatímco klasický oblouk dovoluje výšku poloviny svého průměru, lomený oblouk tohle omezení nezná. Stavbu můžete hnát do "neomezené" výšky a využívat optického efektu, v němž se vám zdi zbíhají a vytvářejí nebeskou klenu chrámu. Pokud si to neumíte představit, zajděte do chrámu svatého Víta a podívejte se nad sebe (dvě kila sebou, dneska už vzhlížet k bohu není zdarma!).</p>
@@ -31,23 +31,23 @@ post_date: 2006-09-30 13:00:37
 
 <p>Přesto, nebo právě proto, máme gotiku v dějinách umění. Ačkoliv ji lidé tehdy neviděli a nevnímali, s odstupem staletí a se znalostí věcí následujících víme, že to nebyl výkřik do tmy, ale proud, který strhnul a inspiroval. A jména jeho průkopníků nám zůstala zachována jako znamení velikosti myšlenek té doby. I přes to, že Petr Parléř ani Karel IV.  nikdy katedrálu dostavenou neviděli.</p>
 
-	<h4>Web 2.0 je a existuje</h4>
+<h4>Web 2.0 je a existuje</h4>
 <p>Bystřejším už asi došlo, co jsem chtěl říct. Bez ohledu na naše dnešní dohady o tom, zda existuje něco jako web 2.0 se můžeme spolehnout na to, že až se nějaký historik bude dívat na naši dobu, něco jako Web 2.0 tam uvidí a zanese do své učebnice. A na vás je jen to, zda vaše jméno se v té učebnici objeví tak, jako v těch našich se objevuje jméno Petra Parléře, nebo zda se přiřadíte k zástupu těch bezejmenných, po nichž žádný imaginace, myšlenka a dílo nezůstalo. Můžete se mnou nesouhlasit, oponovat mi, ale promiňte mi moji namyšlenost, to je tak všechno, co se s tím dá dělat... </p>
 
 <p>Na závěr jen dodávám, že pokud pojmu Web 2.0 stále nerozumíte, přečtěte si tento článek na <a href="http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html">O Reilly - What is Web 2.0</a>. </p>
 
 <p>Vyjímám z něj to nejdůležitější: </p>
 
-	<ul>
-	<li>Služba je tí lepší, čím více lidí ji využívá.</li>
-	<li>Rychle odstartujte a když to nejde, rychle skončete.</li>
-	<li> Výhodou je unikátní báze dat, ne unikátní closed-source software. </li>
-	<li>Důvěřujte uživatelům a spoluvývojářům z třetích stran. </li>
-	<li>Jednoduché uživatelské, vývojové prostředí i obchodní model.
+<ul>
+<li>Služba je tí lepší, čím více lidí ji využívá.</li>
+<li>Rychle odstartujte a když to nejde, rychle skončete.</li>
+<li> Výhodou je unikátní báze dat, ne unikátní closed-source software. </li>
+<li>Důvěřujte uživatelům a spoluvývojářům z třetích stran. </li>
+<li>Jednoduché uživatelské, vývojové prostředí i obchodní model.
 </li>
-	<li> Umožněte přístup všem uživatelům, abyste zasáhli celý web, ne jen nějakou omezenou skupinu: obchodujte se všemi, ne jen s někým.
+<li> Umožněte přístup všem uživatelům, abyste zasáhli celý web, ne jen nějakou omezenou skupinu: obchodujte se všemi, ne jen s někým.
 </li>
-	</ul>
+</ul>
 <p>Na závěr příklady Web 1.0 versus Web 2.0
 </p>
 

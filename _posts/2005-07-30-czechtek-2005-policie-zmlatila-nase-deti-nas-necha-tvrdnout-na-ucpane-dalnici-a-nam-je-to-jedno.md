@@ -17,7 +17,7 @@ post_date: 2005-07-30 14:57:07
 
 <p>Policie to vzala jako dostatečné oprávnění pro to, zaútočit na lidi, použít vodní děla a začít je rubat. Zmlátili naše děti a nás nechali na dálnici škvířit se v zácpě, takový je výsledek. </p>
 
-	<h4>Jaké budou škody</h4>
+<h4>Jaké budou škody</h4>
 <p>Jaká byla celospolečenská nebezpečnost činu, jež hodlala několikatisícihlavá skupinka spáchat?</p>
 
 <p>Chtěli porušit hygienický limit hlasitosti produkované hudby, což by znamenalo, že produkce by byla slyšet v několika sousedních obcích zhruba stejně, jako místní taneční zábava nebo sousedova okouřená televize, neb tento jest nahluchlý a znělky Novy jsou slyšet dodaleka. Jistě by poplašili uhnízděné ptactvo, pokáleli louku a holdovali drogám. Krom toho by prošli přes louku, která jim nebyla pronajata. Pak chtěli tancovat do úmoru.
@@ -27,7 +27,7 @@ post_date: 2005-07-30 14:57:07
 
 <p>Kolik muselo být toho hluku, aby ospravedlnil policejní zásah a kolaps dálnice D5? Proč stejně nerozhánějí policajti demonstrace na Staroměstském náměstí, trsání komunistických papalášů v kempu Džbán či na Letné nebo přivítání našich omedajlovaných hokejistů? Proč se nerozhání cyklistický závod v centru Prahy nebo maraton, když obtěžuje mnohem více lidí? Copak tyhle akce nikoho neruší?</p>
 
-	<h4>A jaké jsou náklady</h4>
+<h4>A jaké jsou náklady</h4>
 	<div class="rightbox"><img src="/wp-content/uploads/20050730-policista-czechtek.jpg" alt="Policista v těžké zbroji :)" width="300" height="563" /></div>
 <p>Nyní trocha selské logiky a maličko trojčlenky. Na místě je 1000 policistů, počítejme benevolentní služné 100 Kč/h. Jednodenní přítomnost policie nás jen na platech stojí zřejmě hodně přes 2,4 milionu Kč. K tomu vodní děla, obrněný transportér, vrtulník, vysílačky, nějaká ta policie v zázemí, jídlo, pití a dost možná i munice. Když řeknu, že jeden den přítomnosti policie proti CzechTeku stojí k deseti milionům Kč, nebudu daleko od pravdy. </p>
 
@@ -37,15 +37,15 @@ post_date: 2005-07-30 14:57:07
 
 <p>Oblíbenou námitkou je, co bych na to řekl, kdyby se taková partička utábořila mně za barákem. Asi bych se s nimi zkusil domluvit a když bych viděl, že opravdu jen paří, holt bych to bral jako daň za přelidněnost. Oni totiž opravdu nemají mnoho možností, kam si jít zapařit, aby nikoho nerušili, i na takové Antarktidě by ekologové protestovali. Máme tu smůlu, že musíme stavět více na toleranci, než na schopnosti rozstřílet na kusy člověka, který přelezl hranici vašeho pozemku. </p>
 
-	<h4>Stojí to riziko za to?</h4>
+<h4>Stojí to riziko za to?</h4>
 <p>Takže na jednu stranu tu máme desítku poškozených lidí, kterým vznikne škoda, jejíž výše je nyní diskutabilní a na druhé straně pět tisíc mládežníků, kteří se týden pobaví a odreagují. Kvůli tomuhle dilematu zasahují tisíce policistů a vodní děla? Je to adekvátní reakce od policie, která přehlíží demonstrace nepovolených stran jako jsou různé fašistické a komunistické frakce, nebo která není schopna sehnat dost lidí s postřehem, aby uhlídala jednoho pána v jeho vlastní vilce? Podle mne není. Ani za ty peníze, ani za to riziko. </p>
 
 <p>K tomu riziku. Vodní dělo je stejně jako gumové projektily takzvaně „humánní zbraň“. Toto spojení vypadá jako paradox a používají jej prodejci podobných zbraní, protože to vypadá lépe. Obecně to znamená, že takové zbraně méně zabíjejí, nevylučuje to ale, že zabít nemohou. Zásah gumovým projektilem do obličeje je smrtelný podle typu zbraně až do vzdálenosti sta metrů. Ani případy smrti po zásahu vodním dělem nejsou ojedinělé, i když v tomhle případě jde spíše o to, že prudký vodní proud strhne člověka na nějaký předmět, čímž si dotyčný zlomí vaz atd. Výhodou samozřejmě je, že za to nebude potrestán policista, protože on za to nemůže. Vám jako otci nebo matce mrtvého to může být srdečně jedno, efekt je stejný, vaše dítě zemřelo.  Je tohle riziko opodstatněné, když hovoříme o riziku podupané louky? Nemyslím si to. </p>
 
-	<h4>Policie mnoho inteligence neprojevila</h4>
+<h4>Policie mnoho inteligence neprojevila</h4>
 <p>Nakonec alespoň prozatím mají organizátoři CzechTeku více rozumu, než policisté. Snaží se přizpůsobovat situaci, jsou relativně nekonfliktní, kam až to jde. Mohlo to dopadnout mnohem hůře. Někdo z organizátorů si mohl přečíst brožurku o tom, kde jsou vodní děla bezmocná. Mohlo je napadnout srazit auta k sobě kolem jimi pronajaté louky, takže by byli chráněni před vodními děly. Mohlo je napadnout vzít dlouhé stanové tyče, nařezat stromky v okolním lese a srážet jimi policisty, kteří přelézají tuhle vozovou hradbu poté, co zjistili, že je pravdivá poučka o tom, že vodní děla nejsou proti hradbě účinná. A mohly poté ujet nervy vystresovanému, nezkušenému a horkem i situací vydeptanému policistovy, který by rozmlátil nejbližšímu techaři ksicht do podoby kaše. Nebo ještě hůře, mohly ty nervy ujet veliteli zásahu, jemuž právě bublal do ucha nadřízený sedící v klimatizovaném kanclu. Opravdu, mohli umírat lidé. A to jen kvůli tomu, že si pět tisíc lidí chtělo zapařit na pronajaté louce. Nic z toho se nestalo nikoliv díky Policii České republiky, ale jí navzdory. Díky tomu, že se techaři nenechali vyprovokovat k ničemu více, než obscénním gestům. A ministr vnitra Bublan má tu drzost prezentovat nezpochybnitelnou policejní brutalitu, nezvládnutí a špatné vyhodnocení situace za úspěch a nezbytný zákrok?</p>
 
-	<h4>Bublan je vůl</h4>
+<h4>Bublan je vůl</h4>
 <p>Ministr Bublan jako osoba zodpovědná za zákrok nechal zmlátit naše děti, vystavil je neopodstatněnému riziku a nás nechal trčet v koloně na zacpané dálnici. Kdyby měl tenhle člověk soudnost, nic z toho se nestalo. Kdyby měl dostatek lidské slušnosti, omluvil by se ve večerních zprávách v televizi a o hodinu poté by situaci vyřešil služební zbraní v klidu své kanceláře. Kdyby měl dostatek politické slušnosti, tak by po omluvě v televizi alespoň odstoupil s tím, že jeho strana o ničem nevěděla a je to jen jeho osobní lapsus. </p>
 
 <p>Není ani slušný člověk, ani slušný politik, je to sociální demokrat.   Pamatujme na to prosím v den voleb, protože to začíná mlácením tanečníků a končí to lágry. </p>

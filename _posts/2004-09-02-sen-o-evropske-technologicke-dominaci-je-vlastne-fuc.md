@@ -15,13 +15,13 @@ Evropa měla kdysi takovou zajímavou myšlenku, že stanoví jednotné panevrop
 <p>
 Rekapitulujme: </p>
 
-	<ul>
-	<li>GSM - velmi úspěšná technologie</li>
-	<li>UMTS - se čtyřletým zpožděním za CDMA2000 startuje a zatím není příliš přesvědčivou technologií</li>
-	<li>ERMES - efektivně mrtev. Provozují ho jen ti, kterým se nevyplatí jej rušit, prakticky nulový rozvoj technologie, rozvíjejí se jen proprietární standardy Motoroly či Ericssonu a ty se také prodávají</li>
-	<li>HipetLAN/MAN - nikdy to snad ani nikdo nevyráběl (vyjma testovací série). Od naprostého krachu tuto technologii zachránilo sjednocení s normami WiFi/WiMax.</li>
-	<li>Tetra - Dolphin právě umírá a konec je neodvratný (pojednám příležitostně zvláště). Naděje na celoevropskou síť trunkových vysílaček je pryč, mnoho států si i pro státní sítě koupilo nějaké proprietární technologie (jako my třeba Tetrapol). I když Tetra bude opticky umírat ještě dlouho, prakticky už je mrtvá.</li>
-	</ul>
+<ul>
+<li>GSM - velmi úspěšná technologie</li>
+<li>UMTS - se čtyřletým zpožděním za CDMA2000 startuje a zatím není příliš přesvědčivou technologií</li>
+<li>ERMES - efektivně mrtev. Provozují ho jen ti, kterým se nevyplatí jej rušit, prakticky nulový rozvoj technologie, rozvíjejí se jen proprietární standardy Motoroly či Ericssonu a ty se také prodávají</li>
+<li>HipetLAN/MAN - nikdy to snad ani nikdo nevyráběl (vyjma testovací série). Od naprostého krachu tuto technologii zachránilo sjednocení s normami WiFi/WiMax.</li>
+<li>Tetra - Dolphin právě umírá a konec je neodvratný (pojednám příležitostně zvláště). Naděje na celoevropskou síť trunkových vysílaček je pryč, mnoho států si i pro státní sítě koupilo nějaké proprietární technologie (jako my třeba Tetrapol). I když Tetra bude opticky umírat ještě dlouho, prakticky už je mrtvá.</li>
+</ul>
 <p>
 Takže jedna technologie z pěti je úspěšná a jedna to možná ještě nějak rozdýchá s pomocí té první. Tolik asi k jednotným evropských technickým normám&#8230;
 </p>

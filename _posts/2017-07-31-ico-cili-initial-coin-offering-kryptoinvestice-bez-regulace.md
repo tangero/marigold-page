@@ -49,8 +49,8 @@ PS: kdybyste narazili na nějakou českou firmu, která se na ICO chystá, dejte
 
 Pár serverů na závěr:
 <ul>
- 	<li><a href="https://icostats.com">ICO Stats</a></li>
- 	<li><a href="https://www.applancer.co">App Lancer</a> - review ICO projektů</li>
- 	<li><a href="https://www.coindesk.com">Coindesk</a> - dobrý blockchain news server</li>
- 	<li><a href="https://www.marigold.cz/item/blockchain-jak-uvazovat-o-konceptu-s-nadeji-revoluce">Blockchain - jak uvažovat o konceptu s nádechem revoluce</a> (marigold.cz)</li>
+ <li><a href="https://icostats.com">ICO Stats</a></li>
+ <li><a href="https://www.applancer.co">App Lancer</a> - review ICO projektů</li>
+ <li><a href="https://www.coindesk.com">Coindesk</a> - dobrý blockchain news server</li>
+ <li><a href="https://www.marigold.cz/item/blockchain-jak-uvazovat-o-konceptu-s-nadeji-revoluce">Blockchain - jak uvažovat o konceptu s nádechem revoluce</a> (marigold.cz)</li>
 </ul>

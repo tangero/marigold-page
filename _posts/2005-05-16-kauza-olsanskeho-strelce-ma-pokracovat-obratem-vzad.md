@@ -16,12 +16,12 @@ Doporučuji <a href="http://digiweb.ihned.cz/?s1=i&amp;s2=0&amp;s3=0&amp;s4=0&am
 
 <p>Otázka je, kde se tento obrat čelem vzad vzal. Policie žádnou novou oficiální zprávu nevydala, naopak vynášení inside informací velmi nelibě sleduje a řekl bych, že vůbec nevítá. V kterém kufříku se našel vyšetřovací spis tentokrát a který policista měl blízko k někomu z hospodářek? Anebo - a to je druhá možnost - nepodstrčil ten spis redaktorům hospodářek někdo z okolí šéfa Telecomu (ano, ten by přístup ke spisu měl), aby tak udělal protiváhu článkům publikovaným minulý týden v MF DNES? Kdo jsou ty tajemné novinářské zdroje? A nakolik je důvěryhodná kompletnost materiálů - nevypadly při předání ze spisu třeba některé jiné věci? Doporučuji stále vydržet, jasno zatím není nic.</p>
 
-	<ul>Další články na téma Berdár a střelba:</p>
+<ul>Další články na téma Berdár a střelba:</p>
 
-	<li>Týden: <a href="http://www.tyden.cz/text.asp?rid=5&amp;show=text&amp;tid=15508">Pochopitelná reakce nebo šílenství? Meze nutné obrany se rozšiřují, Berdárovi ale střelba projít nemusí</a></li>
-	<li>Haló noviny: <a href="http://www.halonoviny.cz/index.php?id=60838">Snaží se Berdár ovlivnit vyšetřování?</a> (komentář k pořadu Otázky V. Moravce)</li>
-	<li>Velmi <a href="http://www.dfens-cz.com/view.php?cisloclanku=2005051501">dobrý komentář na D-Fens</a> (bohužel server přetížen)</li>
-	<li>Bleskově: <a href="http://bleskove.centrum.cz/cerna-kronika/clanek.phtml?id=8673">Pistolník Berdár si vede svou</a>.</li>
-	</ul>
+<li>Týden: <a href="http://www.tyden.cz/text.asp?rid=5&amp;show=text&amp;tid=15508">Pochopitelná reakce nebo šílenství? Meze nutné obrany se rozšiřují, Berdárovi ale střelba projít nemusí</a></li>
+<li>Haló noviny: <a href="http://www.halonoviny.cz/index.php?id=60838">Snaží se Berdár ovlivnit vyšetřování?</a> (komentář k pořadu Otázky V. Moravce)</li>
+<li>Velmi <a href="http://www.dfens-cz.com/view.php?cisloclanku=2005051501">dobrý komentář na D-Fens</a> (bohužel server přetížen)</li>
+<li>Bleskově: <a href="http://bleskove.centrum.cz/cerna-kronika/clanek.phtml?id=8673">Pistolník Berdár si vede svou</a>.</li>
+</ul>
 	
 </p>

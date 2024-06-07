@@ -29,18 +29,18 @@ Tak jsem Johnovi řekl, ať mi dá pár pozic, které má jeho personální agen
 <p>
 Volná místa jsou tedy na těchto pozicích (malý výcuc, 40 dalších <a href="http://www.ictrecruit.com/Nab%EDdky+pr%E1ce">na webu personální agentury</a>, zbylé na vyžádání):</p>
 
-	<ul>
-	<li><b>SAP Programmer</b> - ERP, ABAP, SAP R/3 (<b><i>Brno, Ústí nad Orlicí</i></b>) </li>
-	<li><b>IT Infrastructure Manager</b> — Cisco IOS + Routing, VPN, Linux, project management (<b><i>Praha</i></b>) </li>
-	<li><b>Oracle Database Developer</b> — Oracle PL/SQL, UNIX, shell scripting, Perl, NT, data warehousing, Business Objects. (<b><i>Irsko</i></b>) </li>
-	<li><b>Software Developers</b> — Java, C++, J2EE, UNIX, UML, knowledge of OSS systems, experience developing GUI’s, knowledge of object-oriented design or program. (<b><i>Irsko</i></b>) </li>
-	<li><b>Project Manager (development)</b> — e-business, strong management skills, MS Office + Project, UML, Java, .NET, knowledge of intranet, extranet, web portals. (<b><i>Praha</i></b>) </li>
-	<li><b>Project manager</b> — orientace v software, .NET, UML, programování (<b><i>Praha</i></b>) </li>
-	<li><b>Analyst</b> — Proces and function analyses, IT skills, UML, technological skills (Microsoft, Java, Oracle) English or German. (<b><i>Praha</i></b>) </li>
-	<li><b>Programátoři</b> - C#, SQL (T-SQL), JavaScript, C/C++, VB.NET, VB, ASP. Technologie HTML, XML/XSL, CSS, HTTP/HTTPS, Web Services, COM, DCOM. (<b><i>Praha</i></b>) </li>
-	<li><b>JAVA PROGRAMMER</b> (<b><i>Brno</i></b>) </li>
-	<li><b>C/C++ PROGRAMMER</b> (<b><i>Brno</i></b>) </li>
-	<li><b>JAVA PROGRAMMER on IBM products</b> (<b><i>Praha</i></b>) </li>
-	</ul>
+<ul>
+<li><b>SAP Programmer</b> - ERP, ABAP, SAP R/3 (<b><i>Brno, Ústí nad Orlicí</i></b>) </li>
+<li><b>IT Infrastructure Manager</b> — Cisco IOS + Routing, VPN, Linux, project management (<b><i>Praha</i></b>) </li>
+<li><b>Oracle Database Developer</b> — Oracle PL/SQL, UNIX, shell scripting, Perl, NT, data warehousing, Business Objects. (<b><i>Irsko</i></b>) </li>
+<li><b>Software Developers</b> — Java, C++, J2EE, UNIX, UML, knowledge of OSS systems, experience developing GUI’s, knowledge of object-oriented design or program. (<b><i>Irsko</i></b>) </li>
+<li><b>Project Manager (development)</b> — e-business, strong management skills, MS Office + Project, UML, Java, .NET, knowledge of intranet, extranet, web portals. (<b><i>Praha</i></b>) </li>
+<li><b>Project manager</b> — orientace v software, .NET, UML, programování (<b><i>Praha</i></b>) </li>
+<li><b>Analyst</b> — Proces and function analyses, IT skills, UML, technological skills (Microsoft, Java, Oracle) English or German. (<b><i>Praha</i></b>) </li>
+<li><b>Programátoři</b> - C#, SQL (T-SQL), JavaScript, C/C++, VB.NET, VB, ASP. Technologie HTML, XML/XSL, CSS, HTTP/HTTPS, Web Services, COM, DCOM. (<b><i>Praha</i></b>) </li>
+<li><b>JAVA PROGRAMMER</b> (<b><i>Brno</i></b>) </li>
+<li><b>C/C++ PROGRAMMER</b> (<b><i>Brno</i></b>) </li>
+<li><b>JAVA PROGRAMMER on IBM products</b> (<b><i>Praha</i></b>) </li>
+</ul>
 <p>
 Má i dost netechnických pozic, které sem nepíšu, shání třeba i zdravotní sestry a doktorky "obvoďačky" pro nemocnice v Irsku — šestimístný plat a včetně ubytování. Když byste chtěli vědět víc, tak se obraťte třeba přímo na mého známého: John Mulvey (<a href="mailto:jmulvey@ictrecruit.com">jmulvey@ictrecruit.com</a>).</p>

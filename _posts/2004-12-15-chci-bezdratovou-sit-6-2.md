@@ -20,7 +20,7 @@ V předchozím části jsem psal, že pasivní retranslace využívá buď</p>
 
 <ul>
 <li>přesměrování signálu, nebo </li>
-	<li>odraz signálu. </li>
+<li>odraz signálu. </li>
 </ul>
 <p>
 Způsob řešení přesměrováním signálu je velmi jednoduchý — do bodů A i C dáte směrové antény, které nasměrujete na bod R. Do bodu R pak umístíte dvě antény, jedna bude směrovat na bod A, druhá na bod C, a tyto kabely prostě a jednoduše spojíte k sobě koaxiálním kabelem. Nic víc, nic míň.</p>
@@ -42,12 +42,12 @@ Z toho vyplývá i <strong>kde a jak můžete pasivní retranslace využít</str
 
 <ul>
 <li><strong>pouze na krátké vzdálenosti</strong> (řekněme stovky metrů), </li>
-	<li>je třeba velmi velkých antén na všech bodech (a tedy je obtížné až nemožné dosáhnout splnění generální licence), optimální jsou plné paraboly (chytají i méně šumu), nejlevnější jsem našel na <a href="http://www.wifishop.cz/">WiFi Shopu</a> (<a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=81">již od 1730 Kč</a>), doporučoval bych ale používat antény větší než 20 dBi (a tedy <strong>jste na štíru s GL</strong>). </li>
-	<li>je prakticky nemožné udělat pasivní spoj s více než jednou retranslací, </li>
-	<li>ačkoliv se zdá, že nepřítomnost aktivního bodu může přinést úspory, nutnost použití větších antén, těžší správa atd. přináší větší náklady a pasivní retranslace tak bývá dražší, </li>
-	<li>pronajímáte-li si retranslační místo, potom často platíte podle velikosti zabrané plochy či velikosti antény a protože jsou antény či plachta podstatně větší než u aktivního řešení, můžete platit podstatně více, </li>
-	<li>na retranslačním bodě nemůžete vyvést Ethernet a není možné tak &#8220;platit&#8221; pronajímateli tím, že mu dáte Internet </li>
-	<li>retranslační bod by měl být čistě váš, protože je přenášen i šum, je složité dosáhnout jak dostatečného signálu, tak malého zašumění. </li>
-	<li>protože signál nezpracovává žádný aktivní prvek, je přenos malinko rychlejší </li>
-	<li>smysl to má tedy až na výjimky jen tehdy, <strong>když nemáte na retranslačním bodě elektřinu</strong> (stožár, komín atd.) a nebo když využíváte odrazu od nějakého sousedního baráku a nepotřebujete tak vlastně vůbec retranslační bod </li>
+<li>je třeba velmi velkých antén na všech bodech (a tedy je obtížné až nemožné dosáhnout splnění generální licence), optimální jsou plné paraboly (chytají i méně šumu), nejlevnější jsem našel na <a href="http://www.wifishop.cz/">WiFi Shopu</a> (<a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=81">již od 1730 Kč</a>), doporučoval bych ale používat antény větší než 20 dBi (a tedy <strong>jste na štíru s GL</strong>). </li>
+<li>je prakticky nemožné udělat pasivní spoj s více než jednou retranslací, </li>
+<li>ačkoliv se zdá, že nepřítomnost aktivního bodu může přinést úspory, nutnost použití větších antén, těžší správa atd. přináší větší náklady a pasivní retranslace tak bývá dražší, </li>
+<li>pronajímáte-li si retranslační místo, potom často platíte podle velikosti zabrané plochy či velikosti antény a protože jsou antény či plachta podstatně větší než u aktivního řešení, můžete platit podstatně více, </li>
+<li>na retranslačním bodě nemůžete vyvést Ethernet a není možné tak &#8220;platit&#8221; pronajímateli tím, že mu dáte Internet </li>
+<li>retranslační bod by měl být čistě váš, protože je přenášen i šum, je složité dosáhnout jak dostatečného signálu, tak malého zašumění. </li>
+<li>protože signál nezpracovává žádný aktivní prvek, je přenos malinko rychlejší </li>
+<li>smysl to má tedy až na výjimky jen tehdy, <strong>když nemáte na retranslačním bodě elektřinu</strong> (stožár, komín atd.) a nebo když využíváte odrazu od nějakého sousedního baráku a nepotřebujete tak vlastně vůbec retranslační bod </li>
 </ul>

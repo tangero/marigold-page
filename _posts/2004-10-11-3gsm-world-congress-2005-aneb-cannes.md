@@ -16,31 +16,31 @@ Přišla mi (asi tak před měsícem) brožurka od GSM kongresu v Cannes a proto
 <p>
 Cannes propukne 14. – 17. února 2005 a letos bude rozděleno do tří hlavních sekcí, streamů:</p>
 
-	<ul>
-	<li>Strategie pro nalezení nových příjmů</li>
-	<li>
+<ul>
+<li>Strategie pro nalezení nových příjmů</li>
+<li>
 Implementační strategie pro zavádění nových služeb
 </li>
-	<li>
+<li>
 Mobile Content Summit
 </li>
-	</ul>
+</ul>
 <p>
 Kromě těchto tří sekcí, které poběží od úterka, budou v pondělí ještě další sekce, které stojí za pozornost a které se zpravidla platí zvláště:</p>
 
-	<ul>
-	<li>Technologické sympózium
+<ul>
+<li>Technologické sympózium
 </li>
-	<li>
+<li>
 Venture Funded Technologies
 </li>
-	<li>
+<li>
 Analýzy rostoucích trhů
 </li>
-	<li>
+<li>
 Leadership Summit
 </li>
-	</ul>
+</ul>
 <p>
 Pozornost bych nyní obrátil k <b>Venture Funded Technologies</b>, což je česky něco jako Technologie podporované venture investory. V průběhu této části totiž mají začínající společnosti šanci zúčastnit se takzvaného Elevator Pitch, tedy zhruba pětiminutové presentace svého produktu a firmy, kterou chtějí zainvestovat. Výhoda Elevator Pitch je samozřejmě v tom, že posluchači jsou investoři z venture fondů a pokud je váš produkt a projekt zaujme, zapíšou si kontakt a dají s vámi řeč. Tahle akce byla minule velmi úspěšná a prý se při ní uzavřela řada partnerství, čemuž bych i věřil, protože na ní bylo slušně narváno a šlo o zajímavé myšlenky a nápady. </p>
 

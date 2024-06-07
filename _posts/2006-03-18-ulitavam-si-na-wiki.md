@@ -13,7 +13,7 @@ post_date: 2006-03-18 15:13:49
 
 <p>Díky Ta-Da listu jsem se dostal zhruba pod osm stovek rozpracovaných úkolů - sdružování úkolů do skupin přeci jen prokázalo službu. </p>
 
-	<h3>Wiki</h3>
+<h3>Wiki</h3>
 <p>Druhou finesou, kterou oceňuji v poslední době, je Wiki. Nemyslím teď kolaborativní encyklopedické dílo Wikipedie, ale ten software pro kolaborativní tvorbu textů, který je někde za tím - zkrátka wiki. Ačkoliv znám princip wiki dost dlouho, nikdy jsem ho neuměl nějak docenit. </p>
 
 <p>Jenže v poslední době mi padl do oka, protože jsem psal několik textů, u nichž nebyla předem známa struktura. Znáte to - dostanete zadání a musíte bádat, špionit, hledat a informovat se. Přitom ale nevíte, kam vás cesta zavede, takže snaha dopředu rozvrhnout strukturu dokumentu se jaksi míjí účinkem. </p>
@@ -22,20 +22,20 @@ post_date: 2006-03-18 15:13:49
 
 <p>Asi největší problém jsem měl vždy se zdrojováním a poznámkami, které se nemají do finálního dokumentu dostat. Ve Wordu si je značím zvláštní barvou a pak vymažu, ale své mušky to má. Jednou jsem zákazníkovi v dvacetistránkové analýze proveditelnosti omylem ponechal modrý text "na takovouhle krávovinu se nejlíp vysrat" (což byl odkaz na jednoho interviewovaného odborníka). Bylo to úplně na konci. Pak mi volá sekretářka zadavatele a vesele švitoří, že panu řediteli se líbilo, jak jsem to hezky zpracoval a hlavně jak jsem to na závěr hezky shrnul. Já, svatá prostota, jsem se ještě naparoval, jak jsem to stylisticky zvládl, než mne napadlo se podívat, co si tak pan ředitel pochvaloval. Od té doby jsou všechny poznámky nikoliv modře, ale červeně... (PS: Po dvou letech jsem ředitele potkal kdesi na WW a děkoval mi, že mne poslechli a mé pregnantní shrnutí situace vyslyšeli).</p>
 
-	<h3>Nativní a hostované aplikace </h3>
+<h3>Nativní a hostované aplikace </h3>
 <p>U wiki to jde jinak. Především jsem sehnal úplnou náhodou <a href="http://wikinotes.org/">aplikaci WikiNotes</a>, který je nativní wiki aplikací pro Mac OS X - nepracuje se s ní skrze prohlížeč. Což je samozřejmě pohodlnější. Práci pak lze uložit v HTML. Je vidět, že WikiNotes je ranná tvorba (autor občas ani nepřejmenoval položky menu z vývojového prostředí), ale to přirozené zanořování do textu je výborné a dokud text nepotřebuji shrnout a finálně graficky upravit, je WikiNotes hezká pomůcka. Pro Windows existuje podobná (a lepší) aplikace <a href="http://www.jhorman.org/wikidPad/">WikiPad</a>.
 </p>
 
 <!--more--><p>Pak jsem vyzkoušel webové wiki, protože sám pro sebe občas píšu něco, k čemu se dostávám porůznu a nemusím nutně sedět za svým počítačem, přitom bych ale chtěl mít možnost hned psát. Pro svoji soukromou potřebu jsem použil <a href="http://www.pbwiki.com">PbWiki</a>, což je hostovaná forma wiki a je zdarma (nebo lepší za peníze).</p>
 
-	<h3>Instalované wiki</h3>
+<h3>Instalované wiki</h3>
 <p>No a na závěr jsem vyzkoušel vlastní instalovanou webovou wiki a to hned na dva projekty (zatím nespuštěné). Tak ponejprv jsme se s MaLérem dohadovali, že bychom mohli udělat takový web pro lidi přecházející z PC na Mac - odborně řečeno pro switchery. Takový český switcher to má těžké, vlastně nemá kde se co dozvědět. Dumali jsme o tom už asi půl roku a pak mi došla trpělivost, zaplatil jsem doménu, nainstaloval na ni DokuWiki a až se MaLér přestěhuje a dodá nějaký další obsah (kromě mých pár chybových článků), tak to dáme veřejně v plen. </p>
 
 <p>Druhou novinkou bude Marigoldovo WiFi - sestava dokumentů věnovaných WiFi ze všech možných úhlů. To už je z větší části připravené, z té menší tam někde haprují práva, takže to na obrazovku píše chybové hlášky a musím počkat, než je webhoster změní. </p>
 
 <p>U obou projektů by mne zajímalo, zda se síla wiki uplatní. A v čem je ta síla? </p>
 
-	<h3>Síla wiki</h3>
+<h3>Síla wiki</h3>
 <p>Osobně ji spatřuji ve dvou rovinách. </p>
 
 <p>Tou první je <b>okamžitá editace</b>. Chcete změnit článek? Nemusíte se přihlašovat do nějaké administrace a znovu ho hledat v redakčním systému, stačí vám zmáčknout tlačítko Editovat a můžete ihned opravit zavádějící tvrzení či doplnit zajímavý údaj. Stejně tak rychle a efektivně můžete přes Copy-Paste měnit naprosto rozsáhle strukturu dokumentu a zahušťovat ho podle toho, jak a kde přibývají informace, což je u narůstajících informačních bází veledůležité. </p>

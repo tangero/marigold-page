@@ -25,9 +25,9 @@ post_date: 2005-12-14 10:12:21
 
 <p>Abych shrnul svůj postoj k internetu zdarma a podepřel jej jasnými argumenty:</p>
 
-	<ul>
-	<li>pokud ten internet zdarma bude tak nekvalitní, jak je dnes, je zbytečný za ty náklady. Něco jiného je, když dá úřad do budovy jedno ápéčko za dva tisíce a nechá lidi zdarma sdílet svou přípojku a něco jiného je, když se za to mají vydávat miliony. Miliony jsou vyhozené peníze, dva tisíce jsou dobrá legrácka pro čekání na úřadě.</li>
-	<li>Pokud ten internet zdarma má být kvalitní a plošně dostupný (pomiňme, že víme, že nebude), bude likvidovat hospodářskou soutěž v regionu a zmaří obrovské investice firem jako UPC, Telecom, Karneval a stovek malých ISP. Těm se to líbit nebude a já se jim nebudu divit. </li>
-	</ul>
+<ul>
+<li>pokud ten internet zdarma bude tak nekvalitní, jak je dnes, je zbytečný za ty náklady. Něco jiného je, když dá úřad do budovy jedno ápéčko za dva tisíce a nechá lidi zdarma sdílet svou přípojku a něco jiného je, když se za to mají vydávat miliony. Miliony jsou vyhozené peníze, dva tisíce jsou dobrá legrácka pro čekání na úřadě.</li>
+<li>Pokud ten internet zdarma má být kvalitní a plošně dostupný (pomiňme, že víme, že nebude), bude likvidovat hospodářskou soutěž v regionu a zmaří obrovské investice firem jako UPC, Telecom, Karneval a stovek malých ISP. Těm se to líbit nebude a já se jim nebudu divit. </li>
+</ul>
 <p>V prvé řadě by tedy měla být státní politika a rozhodnutí, která určí, že internetová přípojka o kapacitě alespoň (například) 128 Kb/s je stejným právem každého občana ČR, jako zdravotní péče a telefonní přípojka. Pokud na tomto vznikne shoda, můžeme postoupit dále a zamýšlet se nad tím, zda je lepší budovat státní síť, nebo záležitost outsourcovat formou Univerzální služby na jednotlivé operátory například tím, že doplatí rozdíl mezi běžnou cenou přípojky a cenou, kterou stát určí za cenu univerzální služby hrazené občany. Osobně bych to považoval za moudřejší, než vytvářet vlastní síť. Jednu takovou jsme nedávno horko-těžko prodali a stejně tak té magistrátní se Praha před lety s nějakou tou ztrátičkou zbavila…
 </p>

@@ -24,7 +24,7 @@ post_date: 2005-08-26 07:26:16
 
 <p>Řada z těchto kauz nikdy nevyšla na světlo světa, o mnoha z nich se jen málokdo dozvěděl, jejich pozadí bylo skryto a jen malá špička ledovce byla na povrchu. Stejně, jako klasická zpravodajská služba, jsme si i my říkali, že naše činnost má nést výsledky, nikoliv nutně ale musí být naše účast zřejmá. Jenže zřejmě i díky tomuto přístupu nakonec Mobil server získal takový vliv na dění v telekomunikacích, jaký nakonec po roku 2000 měl – mnozí toto pochopili. </p>
 
-	<h4>Jak jsme bojovali o telefonní seznam</h4>
+<h4>Jak jsme bojovali o telefonní seznam</h4>
 <p>Podívejme se na pár příkladů toho, jak a kde jsme postupovali, ponejprve na příkladu málo známém a vlastně nezávažném, ale úspěšném: na příkladu telefonního seznamu. </p>
 
 <p>Telefonní seznam na českém internetu až do poloviny roku 1997 neexistoval, pro informace o telefonních číslech jste museli volat na infolinku. V roce 1997 jej Český Telecom zpřístupnil prostřednictvím své divize IOL na svých webových stránkách. Jenže výhradně pro svoje zákazníky – pokud jste používali připojení přes jiného operátora, nemohli jste telefonní seznam používat. Což se nám samozřejmě nelíbili jak z důvodů praktických, tak i z důvodů legislativních, našla se řada zákonných překážek pro tento postup, nemluvě samozřejmě o etice. </p>

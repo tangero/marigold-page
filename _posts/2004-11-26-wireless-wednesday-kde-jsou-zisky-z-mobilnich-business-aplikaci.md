@@ -18,12 +18,12 @@ A aby čtenáři Marigolda měli výhodu - pokud při registraci uvedou, že se 
 <p>
 Výtah programu:</p>
 
-	<ul>
-	<li>17.10 	Trendy v mobilním světě<br>
+<ul>
+<li>17.10 	Trendy v mobilním světě<br>
 Rostislav Kocman (Ogilvy Public Relations, s. r. o.)</li>
-	<li>17.20 	Business aplikace z mezinárodního hlediska<br>
+<li>17.20 	Business aplikace z mezinárodního hlediska<br>
 Mike Grenville (160characters.Org)</li>
-	<li>17.50 	Případové studie v jednání<br>
+<li>17.50 	Případové studie v jednání<br>
 Martin Ryšánek (Eurotel Praha, spol. s r. o.)<br>
 Vladimír Vejvoda (Princip)<br>
 Jiří Čermák (LogicaCMG)<br></p>
@@ -31,10 +31,10 @@ Jiří Čermák (LogicaCMG)<br></p>
 <p>
 Jiří Berger (Fractal s.r.o.)<br>
 Vladimír Heřt (SAP ČR)</li>
-	<li>18.40 	Panelová diskuse: Kde jsou zisky v mobilních aplikacích pro firmy?<br>
+<li>18.40 	Panelová diskuse: Kde jsou zisky v mobilních aplikacích pro firmy?<br>
 Úvodní přednáška k diskusiPetr Maňas (LCS International)<br>
 Diskutujte s operátory, developery a systémovými integrátory</li>
-	<li>19.30 	Networking</li>
+<li>19.30 	Networking</li>
 <p>
 Kompletní <a href="http://www.tuesday.cz/detailAkce.aspx?id=203">informace a registrace zde</a>
 </p>

@@ -19,7 +19,7 @@ Současné největší problémy služby: </p>
 
 <ol>
 <li>nemáme na ni čas ji dále rozvíjet, což je problém největší</li>
-	<li>bylo by vhodné urychleně obsazovat další směry přirozeného vývoje obchodu Cinetiku, tedy například to doručování kurýrem, což si žádá další finance a ty ve spojení s bodem 1 nemělo smysl investovat. </li>
+<li>bylo by vhodné urychleně obsazovat další směry přirozeného vývoje obchodu Cinetiku, tedy například to doručování kurýrem, což si žádá další finance a ty ve spojení s bodem 1 nemělo smysl investovat. </li>
 </ol>
 <p>
 Vhodný zájemce o Cinetik by tedy ideálně měl svůj business spatřovat v oblasti filmů, DVD - a měl by být připraven investovat do dalšího rozvoje jak lidské, tak finanční prostředky. K tomu mu pomůže rozsáhlá technologie, strategie i filmotéka. </p>

@@ -22,13 +22,13 @@ Podle SansWire by jeden Stratellite měl být schopen pokrýt oblast téměř p�
 <p>
 <strong>Něco parametrů:</strong></p>
 
-	<ul>
-	<li>Délka 74 metrů, šířka 44 m a výška 26 m. </li>
-	<li>Nosnost 1350 kg. </li>
-	<li>Šest GPS jednotek, </li>
-	<li>dosah radiového signálu 120 km (dnes), </li>
-	<li>dvojitý potah z kevlaru. </li>
-	</ul>
+<ul>
+<li>Délka 74 metrů, šířka 44 m a výška 26 m. </li>
+<li>Nosnost 1350 kg. </li>
+<li>Šest GPS jednotek, </li>
+<li>dosah radiového signálu 120 km (dnes), </li>
+<li>dvojitý potah z kevlaru. </li>
+</ul>
 <p>
 První záležitost &#8211; <strong>jak je to s větrem ve stratosféře? </strong>Inu, je tam, jak by nebyl. Jenže se ukázalo, že zásadní výhodou je, že je tam také řidší vzduch, takže vítr ve stratosféře má zhruba osmnáctinu až dvacetinu síly větru na povrchu země. </p>
 <p>

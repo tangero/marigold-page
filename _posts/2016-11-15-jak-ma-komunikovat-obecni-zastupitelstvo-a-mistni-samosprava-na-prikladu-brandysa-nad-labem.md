@@ -27,10 +27,10 @@ Naposledy se proslechlo, že někoho napadlo využít objekt Brandýského pivov
 
 Co by pomohlo:
 <ul>
-	<li>vícekolová moderovaná veřejná diskuse přijímající podněty také od lidí přes internet</li>
-	<li>průběžné reportování stavu řešení záležitosti včetně nezdarů a jejich důvodů</li>
-	<li>použití více informačních kanálů včetně těch neformálních a včetně titulní stránky úředního webu</li>
-	<li>použití běžného lidského a neúředního jazyka</li>
+<li>vícekolová moderovaná veřejná diskuse přijímající podněty také od lidí přes internet</li>
+<li>průběžné reportování stavu řešení záležitosti včetně nezdarů a jejich důvodů</li>
+<li>použití více informačních kanálů včetně těch neformálních a včetně titulní stránky úředního webu</li>
+<li>použití běžného lidského a neúředního jazyka</li>
 </ul>
 
 <h3>Zapojení veřejnosti: vícekolová moderovaná veřejná diskuse</h3>

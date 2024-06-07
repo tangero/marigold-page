@@ -15,7 +15,7 @@ post_date: 2006-07-03 11:36:56
 
 <p>V poslední době řada výrobců přišla na to, že tu máme ještě jedno bezdrátové rádio, na které jsme zapomínali a které funguje spolehlivě, protože je pro přenos hlasu určeno. Ano, DECT. DECT nepotřebuje řešit priorizaci hlasového hovoru, je dostatečně zaběhaný a levný, výrobci jsou s ním dostatečně sžití. A tak se na trhu pomalu objevují první řešení bezdrátových telefonů založených na DECT a VoIP. </p>
 
-	<h4>DECT řešení</h4>
+<h4>DECT řešení</h4>
 <p>Samozřejmě můžete udělat jednu věc, koupit si VoIP adaptér (například nějakou Sipuru/Linksys) a klasický DECT telefon.  To ale není tak elegantní, potřebujete dvě krabičky a lecko (třeba já) to tak nerad. </p>
 
 <p>Na trhu se začínají objevovat specializovanější zařízení. Například <strong>AVM FT 7150 D</strong> je kombinací routeru, WiFi, DSL modemu a DECT telefonu obsluhujícího jak telefonní linku, tak SIP. Produkt vyrábí německá <a href="http://www.avm.de/de/
@@ -37,7 +37,7 @@ post_date: 2006-07-03 11:36:56
 
 <p>Z dalších produktů bych mohl jmenovat i u nás dostupné systémy <strong>Kirk</strong>, které už jsou vhodné spíše pro střední a větší firmy, ale i zde je DECT kombinovaný s VoIP. <a href="http://www.kirk.dk/company/suk111.asp">info zde</a>.</p>
 
-	<h4>DECT pro a proti</h4>
+<h4>DECT pro a proti</h4>
 <p>DECT má v porovnání s přímým nasazením WiFi pro VoIP výhody i nevýhody. Hlavní výhodou je, že DECT sluchátek je k mání požehnaně a za ceny citelně nižší, než sluchátka WiFi. Také ovládání DECT sluchátek je podstatně jednodušší, než párování WiFi, minimálně do doby, než ztratíte manuál od základnové staničky. Kvalita hovoru je vlastně nezávislá na zatížení „sítě“ – DECT má svoje pásmo a žádné mikrovlnné trouby se mu tam nemíchají. DECT síť můžete snáze optimalizovat. </p>
 
 <p>Na druhou stranu po DECTu nemůžete dostatečně uspokojivě prohánět data (jde to, ale nepoužívá se to, bo pomalé), takže pokud toužíte po připojování telefonů i notebooků mobilně po firmě, musíte si k DECTu paralelně zavést WiFi. Jenže otázka je, proč ne. DECT technika i WiFi technika pro internet je laciná, součtem se nedostanete výše, než kdybyste prahli po WiFi technice pro hlasové služby. Navíc si ušetříte řadu problémů s administrací.   </p>

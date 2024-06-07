@@ -14,19 +14,19 @@ post_date: 2004-08-11 11:34:22
 
 <ul>
 <li>Podle údajů ČTc je <a href="http://digiweb.cz/?s1=i&amp;s2=0&amp;s3=0&amp;s4=0&amp;s5=0&amp;s6=0&amp;m=d&amp;a[id]=22018875&amp;p=i00000_d">ADSL dostupné na 2,5 milionu linkách</a> (toto číslo mi přijde přehnané, realita bude v uplynulém čtvrtletí někde okolo 1,5 milionu, ale dobře)</li>
-	<li>Kabelovky mají svůj internet dostupný u 700 tisíc zákazníků.</li>
-	<li>Průměrná cena kabelového internetu je cca. 1200 Kč s DPH, průměrná cena DSL (90% zákazníků si bere variantu 512/128 s 3 GB) je cca. 800 Kč s DPH.</li>
-	<li>Na Slovensku měli v květnu 12,5 tisíce zákazníků, v srpnu 20 tisíc, má polovinu obyvatel co ČR a ještě méně pokrytých linek.</li>
+<li>Kabelovky mají svůj internet dostupný u 700 tisíc zákazníků.</li>
+<li>Průměrná cena kabelového internetu je cca. 1200 Kč s DPH, průměrná cena DSL (90% zákazníků si bere variantu 512/128 s 3 GB) je cca. 800 Kč s DPH.</li>
+<li>Na Slovensku měli v květnu 12,5 tisíce zákazníků, v srpnu 20 tisíc, má polovinu obyvatel co ČR a ještě méně pokrytých linek.</li>
 </ul>
 <p>
 co z toho všeho vyplývá? Čtěte dále.</p>
 
-<!--more-->	<ul>
+<!--more--><ul>
 <li>Kabelovky tedy mají <strong>6%</strong> penetraci, Telecom jen <strong>1,5%</strong></li>
-	<li>Za poslední čtvrtletí oslovily kabelovky svou nabídkou <strong>1%</strong> svých zákazníků, Telecom jen <strong>0,6%</strong></li>
-	<li>A to přesto, že nabídka kabelovek je o <strong>50% dražší</strong> než nabídka ADSL (<strong>výnos</strong> z DSL je tedy oproti kabelovkám <strong>několikanásobně menší</strong>)</li>
-	<li><strong>Na Slovensku</strong> mají <strong>větší penetraci</strong> na obyvatele než ČR a navíc se jim podařilo za poslední čtvrtletí <strong>náskok ještě zvýšit</strong>.</li>
-	<li>Doporučuji k prohlédnutí <a href="http://www.internetprovsechny.cz/clanek.php?cid=88">graf počtu přípojek z posledního čtvrtetí</a>, jestli v Chorvatsku nespali, tak <strong>jsme stále předposlední</strong> (po Řecku)<strong> z celé Evropy a i ze všech zemí OECD</strong>.</li>
+<li>Za poslední čtvrtletí oslovily kabelovky svou nabídkou <strong>1%</strong> svých zákazníků, Telecom jen <strong>0,6%</strong></li>
+<li>A to přesto, že nabídka kabelovek je o <strong>50% dražší</strong> než nabídka ADSL (<strong>výnos</strong> z DSL je tedy oproti kabelovkám <strong>několikanásobně menší</strong>)</li>
+<li><strong>Na Slovensku</strong> mají <strong>větší penetraci</strong> na obyvatele než ČR a navíc se jim podařilo za poslední čtvrtletí <strong>náskok ještě zvýšit</strong>.</li>
+<li>Doporučuji k prohlédnutí <a href="http://www.internetprovsechny.cz/clanek.php?cid=88">graf počtu přípojek z posledního čtvrtetí</a>, jestli v Chorvatsku nespali, tak <strong>jsme stále předposlední</strong> (po Řecku)<strong> z celé Evropy a i ze všech zemí OECD</strong>.</li>
 </ul>
 <p>
 <strong>Je na tom něco k chlubení</strong>? Já bych je za takový "úspěch" vyhodil.</p>

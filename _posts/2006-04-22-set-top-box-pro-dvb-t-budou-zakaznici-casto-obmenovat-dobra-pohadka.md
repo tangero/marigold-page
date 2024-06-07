@@ -31,11 +31,11 @@ post_date: 2006-04-22 19:21:46
 
 <p>Osobně neplánuju přechod na DVB-T v nejbližší době z několika důvodů:</p>
 
-	<ul>
-	<li>kvalita analogového vysílání po UPC kabelu je dostačující a co jsem viděl, digitál ji rozhodně netrumfne
-	<li>interaktivita je mi u TV ukradená
-	<li>dostal bych další dálkové ovládání a už tak jich máme v obýváku více, než je mi milo. A univerzální jsem ještě nekoupil. 
-	<li>dokud UPC spojuje TV a internet za docela rozumnou cenu, tak to nemá pro mne význam řešit. 
-	<li>stejně se dívám na televizi tak málo, že je to vlastně jedno. 
-	<li>V pevnodiskovém rekordéru, který mi při spolupráci s TV prokazuje jedinečné služby, beztak není DVB-T dekodér, takže může nahrávat jen z analogového signálu. A protože se chci na pořady dívat, když já mám chuť a ne, když je má chuť TV vysílat, tak je trochu problém, co s tím - vestavět do něj DVB-T nejde a vyhazovat ho po půl roce nebudu. 
+<ul>
+<li>kvalita analogového vysílání po UPC kabelu je dostačující a co jsem viděl, digitál ji rozhodně netrumfne
+<li>interaktivita je mi u TV ukradená
+<li>dostal bych další dálkové ovládání a už tak jich máme v obýváku více, než je mi milo. A univerzální jsem ještě nekoupil. 
+<li>dokud UPC spojuje TV a internet za docela rozumnou cenu, tak to nemá pro mne význam řešit. 
+<li>stejně se dívám na televizi tak málo, že je to vlastně jedno. 
+<li>V pevnodiskovém rekordéru, který mi při spolupráci s TV prokazuje jedinečné služby, beztak není DVB-T dekodér, takže může nahrávat jen z analogového signálu. A protože se chci na pořady dívat, když já mám chuť a ne, když je má chuť TV vysílat, tak je trochu problém, co s tím - vestavět do něj DVB-T nejde a vyhazovat ho po půl roce nebudu. 
 </ul>

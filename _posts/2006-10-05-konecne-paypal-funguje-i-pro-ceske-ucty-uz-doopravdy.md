@@ -13,14 +13,14 @@ post_date: 2006-10-05 14:59:35
 
 <p><img src="/wp-content/uploads/20061005-ebayfunguje.gif" alt="PayPal funguje" width="500" height="72" /></p>
 
-	<h4>Proč je vstup PayPalu do Česka tak důležitý</h4>
+<h4>Proč je vstup PayPalu do Česka tak důležitý</h4>
 <p>Zaprvé <strong>umožní mikroplatby</strong>, respektive menší platby. Na obrázku vidíte příklad, kdy PavelS mi poslal dvě eura, za příchozí platbu jsem zaplatil 42 eurocentů. Oproti jiným systémům je to zlatá provize, navíc většinu z ní dělá fixní částka, která neroste. PayPalovské marže se pohybují kolem 3%, což je mnohem snesitelnější, než mikroplatby přes SMS. </p>
 
 <p>Zadruhé umožňuje českým obchodníkům jednoduše zobchodovat své zboží v zahraničí. PayPal je široce akceptovaný systém a například na eBay jinak zboží z Česka těžko prodáte, protože PayPal tam má skoro každý a kdo nemá ten, chce platit kartou. PayPal umožňuje obojí. </p>
 
 <p>Až PayPal zavede i placení v korunách, bude také drsným konkurentem veškerým českým bankám, které v případě placení kartama těžce prokadily příležitost (osobní zkušenost, integraci placení kartou mám za sebou). PayPal integrujete v cuku letu a navíc většina e-komerce systémů ze zahraničí je na něj připravena, jen vyplníte své MerchantID. Jestli vyvíjíte e-komerce systém, tak doporučuju IHNED (=zítra nejdýl) začít pracovat na podpoře PayPalu, protože i u nás má před sebou velkou budoucnost. </p>
 
-	<h4>Vyzkoušet můžete - pošlete mi euro :)</h4>
+<h4>Vyzkoušet můžete - pošlete mi euro :)</h4>
 <p>Chcete si to vyzkoušet? </p>
 
 <p>Nejprve se musíte zalogovat do PayPalu na svůj účet a potvrdit nová pravidla (v levém menu je něco jako Policy update).</p>

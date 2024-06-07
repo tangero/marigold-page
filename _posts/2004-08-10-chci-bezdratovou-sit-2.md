@@ -18,7 +18,7 @@ Na některé otázky z nadpisu této části odpověděla už předchozí kapito
 
 <ul>
 <li><strong>Bezdrátová síť</strong> = <strong>Wireless</strong> = síť kde je místo drátů (Ethernetu) využíváno &#8220;bezdrátů&#8221;, pojítek využívající radiových vln k přenosu signálu. V naprosté většině případů u komunitních sítí se pod pojmem bezdrátová síť rozumí <strong>Wi-Fi</strong> (pracuje v <strong>bezlicenčním pásmu 2,4 GHz</strong>). V širším slova smyslu se pod pojmem bezdrátová síť myslí sítě ve <strong>vyhrazených frekvenčních pásmech</strong> (u nás zejm. 26 GHz - FWA) a také <strong>PtP </strong>(dvoubodové) <strong>spoje</strong> řešené buď radiově (nejčastěji v pásmu 10,5 GHz, či v placených pásmech typicky 18-36 GHz) a nebo pomocí <strong>optického</strong> (laserového) <strong>pojítka</strong>.</li>
-	<li><strong>Wi-Fi</strong> - označení produktů dle <strong>802.11b</strong>, které by mělo být interoperabilní (kompatibilní, čili schopné komunikovat i se zařízeními jiných výrobců). Je to zhruba 90% všech bezdrátových produktů dle <strong>IEEE 802.11b</strong>, přesto je mnoho zejména velmi levných tzv. &#8220;taiwanských&#8221; značek, které se zde často prodávají a přesto nesplňují Wi-Fi podmínky. <em><u>První rada</u> - Kupujte jen výrobky, které mají logo Wi-Fi, je to jistější!</em></li>
+<li><strong>Wi-Fi</strong> - označení produktů dle <strong>802.11b</strong>, které by mělo být interoperabilní (kompatibilní, čili schopné komunikovat i se zařízeními jiných výrobců). Je to zhruba 90% všech bezdrátových produktů dle <strong>IEEE 802.11b</strong>, přesto je mnoho zejména velmi levných tzv. &#8220;taiwanských&#8221; značek, které se zde často prodávají a přesto nesplňují Wi-Fi podmínky. <em><u>První rada</u> - Kupujte jen výrobky, které mají logo Wi-Fi, je to jistější!</em></li>
 </ul>
 <p>
 Pro vysvětlení dalších termínů musím už zabrousit hlouběji.</p>
@@ -40,18 +40,18 @@ To jsem ale hodně odbočil, zpět k bodu bodu &#8220;<strong>vnitřní síť</s
 
 <ol>
 <li><strong>Infrastructure</strong>: síť typu hvězda, uprostřed sítě je umístěn <strong>přístupový bod (AP)</strong>, k němu se připojují klienti</li>
-	<li><strong>Ad-hoc</strong> (<strong>Peer-to-Peer</strong>): síť bez AP, <strong>klienti</strong> komunikují vůči sobě navzájem.</li>
+<li><strong>Ad-hoc</strong> (<strong>Peer-to-Peer</strong>): síť bez AP, <strong>klienti</strong> komunikují vůči sobě navzájem.</li>
 </ol>
 <p>
 <strong>Předpokládané užití je tedy uvnitř budov:</strong></p>
 
 <ul>
 <li><strong>Máte doma např. notebook a desktop počítač?</strong> Žádný problém, v obou máte Wi-Fi a můžete přenášet data. Nebo si pořídíte AP, připojíte ho na váš DSL modem (jestli to už není dohromady), a oba (více) počítače sdílejí linku k internetu a navzájem svá data.</li>
-	<li><strong>Máte zahradu?</strong> Žádný problém, s Wi-Fi AP a notebookem můžete pracovat klidně tam, nemusíte tahat kabely, jste stále on-line.</li>
-	<li><strong>Máte konferenci</strong> a chcete účastníkům nabídnout vaši prezentaci? Zapněte si Ad-hoc mód na vašem notebooku a nechte ostatní si vaše materiály stáhnout.</li>
-	<li><strong>Sídlíte v historické budově</strong> a nesmíte vrtat kabely do zdí a lišty se vám hnusí? Bezdrát to vyřeší.<br/>Přestěhovali jste se a potřebujete okamžitě pracovat? S Wi-Fi mohou všichni zaměstnanci pracovat okamžitě, není třeba pokládat kabely.</li>
-	<li><strong>Vyhořela (byla vytopena) vaše firma?</strong> Ještě že mají všichni zaměstnanci notebooky - prostě si sednete kamkoliv, zapojíte AP (k internetu) a už můžete kooperovat a zákazníci to ani nemusejí poznat.</li>
-	<li>&#8230;.</li>
+<li><strong>Máte zahradu?</strong> Žádný problém, s Wi-Fi AP a notebookem můžete pracovat klidně tam, nemusíte tahat kabely, jste stále on-line.</li>
+<li><strong>Máte konferenci</strong> a chcete účastníkům nabídnout vaši prezentaci? Zapněte si Ad-hoc mód na vašem notebooku a nechte ostatní si vaše materiály stáhnout.</li>
+<li><strong>Sídlíte v historické budově</strong> a nesmíte vrtat kabely do zdí a lišty se vám hnusí? Bezdrát to vyřeší.<br/>Přestěhovali jste se a potřebujete okamžitě pracovat? S Wi-Fi mohou všichni zaměstnanci pracovat okamžitě, není třeba pokládat kabely.</li>
+<li><strong>Vyhořela (byla vytopena) vaše firma?</strong> Ještě že mají všichni zaměstnanci notebooky - prostě si sednete kamkoliv, zapojíte AP (k internetu) a už můžete kooperovat a zákazníci to ani nemusejí poznat.</li>
+<li>&#8230;.</li>
 </ul>
 <p>
 Tohle byl nejčastější způsob využití ve světě, proto tyto standardy/produkty se vyznačují několika <strong>vlastnostmi, které omezují použití ve venkovních sítích</strong>:</p>

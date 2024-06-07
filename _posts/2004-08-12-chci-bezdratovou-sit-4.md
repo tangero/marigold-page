@@ -23,9 +23,9 @@ Jaké je tedy využití bezdrátových venkovních sítí? Proberme typické př
 
 <ul>
 <li><strong>Firma Marigold</strong> má svou pobočku <u>na dohled</u>, <u>pár set metrů daleko</u>, ráda by propojila <u>sítě</u>, aby všichni zaměstnanci byli členové jedné workgroupy (viděli se v okolních počítačích) a aby <u>nemuseli pronajímat </u>do každé budovy drahé <u>připojení k internetu</u>. Variantní řešení - to samé ale ještě navíc propojit svou <u>telefonní ústřednu</u>, aby bylo volání mezi centrálou a pobočkou zdarma</li>
-	<li><strong>Firma Geralt </strong>má takové pobočky <u>dvě</u> a ještě má pár <u>zaměstnanců</u>, kteří by mohli pracovat půlku týdne z domova a tak by <u>ušetřila za prostory</u>, čas atd.</li>
-	<li><strong>Pepa Novák</strong> má kamaráda <strong>Honzu</strong>, se kterým by rád <u>pařil po síti hry</u>, kamarád je ale bohužel v protějším baráku. Výhodou by byla možnost využít Honzova <u>připojení k internetu</u>, o náklady by se <u>podělili</u>.</li>
-	<li><strong>Lojzovi </strong>se jejich nápad strašně líbí, chtěl by se propojit s nima (<u>vidí na Pepu</u>), rád by se připojil i <strong>Pavel</strong>, který ale <u>vidí jen na Lojzu</u>.</li>
+<li><strong>Firma Geralt </strong>má takové pobočky <u>dvě</u> a ještě má pár <u>zaměstnanců</u>, kteří by mohli pracovat půlku týdne z domova a tak by <u>ušetřila za prostory</u>, čas atd.</li>
+<li><strong>Pepa Novák</strong> má kamaráda <strong>Honzu</strong>, se kterým by rád <u>pařil po síti hry</u>, kamarád je ale bohužel v protějším baráku. Výhodou by byla možnost využít Honzova <u>připojení k internetu</u>, o náklady by se <u>podělili</u>.</li>
+<li><strong>Lojzovi </strong>se jejich nápad strašně líbí, chtěl by se propojit s nima (<u>vidí na Pepu</u>), rád by se připojil i <strong>Pavel</strong>, který ale <u>vidí jen na Lojzu</u>.</li>
 </ul>
 <p>
 To jsou typické scénáře, samozřejmě je zde nekonečno možných variant, ale jistě časem poznáte sami jak na ně. Teď ale mírně odbočím od řešení těchto scénářů a vysvětlím vše důležité okolo.</p>
@@ -44,10 +44,10 @@ Radiové vlny se totiž nešíří jako laserový paprsek, vyzařovací schéma 
 
 <ul>
 <li><em>1 km <strong>3,4m</strong> 60% 1. FZ 0,6×17,3×ODMOCNINA(1/(4×2,4))</em></li>
-	<li><em>2 km <strong>4,7m</strong> 60% 1. FZ 0,6×17,3×ODMOCNINA(2/(4×2,4))</em></li>
-	<li><em>3 km <strong>5,8m</strong> 60% 1. FZ 0,6×17,3×ODMOCNINA(3/(4×2,4))</em></li>
-	<li><em>4 km <strong>6,7m</strong> 60% 1. FZ 0,6×17,3×ODMOCNINA(4/(4×2,4))</em></li>
-	<li><em>5 km <strong>7,5m</strong> 60% 1. FZ 0,6×17,3×ODMOCNINA(5/(4×2,4))</em></li>
+<li><em>2 km <strong>4,7m</strong> 60% 1. FZ 0,6×17,3×ODMOCNINA(2/(4×2,4))</em></li>
+<li><em>3 km <strong>5,8m</strong> 60% 1. FZ 0,6×17,3×ODMOCNINA(3/(4×2,4))</em></li>
+<li><em>4 km <strong>6,7m</strong> 60% 1. FZ 0,6×17,3×ODMOCNINA(4/(4×2,4))</em></li>
+<li><em>5 km <strong>7,5m</strong> 60% 1. FZ 0,6×17,3×ODMOCNINA(5/(4×2,4))</em></li>
 </ul>
 <p>
 Tedy na 1 km spoj potřebujete zajistit, aby bylo vidět na protější bod a aby bylo ještě minimálně 3,4 metrů okolo volno (experti prominou mírné zjednodušování v zájmu čtenářstva). Obecně vzato čím více tím lépe (to není zcela pravda, překážky v sudých FZ jsou pozitivní, ale to už jsme trochu jinde).</p>
@@ -72,17 +72,17 @@ S požadavky na profesionalitu řešení také vyvstává otázka výběru techn
 
 <ol>
 <li><strong><u>podle topologie</u></strong> - dvoubodové (PtP) a vícebodové (PtMP). Dvoubodové spoje jsou obecně lepší z hlediska bezpečnosti (jste tam jenom vy dva a nikdo jiný se nemůže připojit), mívají větší kapacitu, bývají full-duplexní (přenášejí najednou v obou směrech). Pro přenos hlasu jsou PtMP systémy řádově dražší, pro přenos pouhých dat tomu bývá naopak.</li>
-	<li><strong><u>podle technolologie</u></strong> - radiové v bezlicenčním pásmu (2,4 GHz, 5,8 GHz, u PtP pak 10,5 GHz), v licenčních pásmech (3,5 GHz, 26 GHz, u PtP pak různé frekvence od 18 - 38 GHz) a nesmíme zapomínat u PtP spojů ani na optická (laserová) pojítka</li>
-	<li><strong><u>podle plánovaných služeb</u></strong> - potřebujete propojení analogových ústředen (G703)? Potřebujete přenášet čistě data? Nebo chcete kombinaci? A nebo je to jen na internet a stačí malá propustnost, ale je třeba hodně klientů?</li>
-	<li><strong><u>podle „profesionality&#8221;</u></strong> - tj. ceny, spolehlivosti atd.</li>
+<li><strong><u>podle technolologie</u></strong> - radiové v bezlicenčním pásmu (2,4 GHz, 5,8 GHz, u PtP pak 10,5 GHz), v licenčních pásmech (3,5 GHz, 26 GHz, u PtP pak různé frekvence od 18 - 38 GHz) a nesmíme zapomínat u PtP spojů ani na optická (laserová) pojítka</li>
+<li><strong><u>podle plánovaných služeb</u></strong> - potřebujete propojení analogových ústředen (G703)? Potřebujete přenášet čistě data? Nebo chcete kombinaci? A nebo je to jen na internet a stačí malá propustnost, ale je třeba hodně klientů?</li>
+<li><strong><u>podle „profesionality&#8221;</u></strong> - tj. ceny, spolehlivosti atd.</li>
 </ol>
 <p>
 První co tedy musíte vybrat je <strong><u>topologie</u></strong>, a není to tak úplně jednoduché jak se na první pohled zdá:</p>
 
 <ul>
 <li>Firma Marigold zřejmě podle popisu potřebuje řešení <strong>PtP</strong>. Ale co když bude chtít za rok připojit i druhou pobočku? Z PtP systémů na PtMP nejde nějak „upgradovat&#8221;, buď musíte koupit další PtP linku, tj. z jedné střechy budete koukat na dva směry, nebo musíte PtP „vyhodit&#8221; (prodat či použít jinde) a přejít na PtMP.</li>
-	<li>Firma Geralt podle popisu může chtít <strong>PtMP</strong> řešení, ale může se z důvodů kapacity a bezpečnosti rozhodnout připojit každou pobočku zvlášť PtP spojem (zejména jestli chtějí i propojit ústředny) a zaměstnance připojit levným <strong>PtMP</strong>.</li>
-	<li>Pepa s Honzou nejspíše z důvodu ceny využíjí <strong>levné PtMP</strong>, umožní jim to v budoucnu připojit i Lojzu (a obezličkou - viz dále) i Pavla.</li>
+<li>Firma Geralt podle popisu může chtít <strong>PtMP</strong> řešení, ale může se z důvodů kapacity a bezpečnosti rozhodnout připojit každou pobočku zvlášť PtP spojem (zejména jestli chtějí i propojit ústředny) a zaměstnance připojit levným <strong>PtMP</strong>.</li>
+<li>Pepa s Honzou nejspíše z důvodu ceny využíjí <strong>levné PtMP</strong>, umožní jim to v budoucnu připojit i Lojzu (a obezličkou - viz dále) i Pavla.</li>
 </ul>
 <p>
 Podle <strong><u>technologie</u></strong> to bývá jednodušší - když budou totiž něco kupovat zmíněné firmy, obrátí se na partnery a ty jim řeknou co je u nich možné. Domácí uživatelé zase téměř vždy sáhnou po Wi-Fi.</p>
@@ -99,13 +99,13 @@ Tyto všechny kalkulace budou hodně orientační - pro venkovní instalace toti
 
 <ul>
 <li><strong><u>Doporučené řešení</u></strong> - obraťte se na dodavatele internetu či poskytovatele hlasu, případně udělejte výběrové řízení pro výběr nového společného poskytovatele těchto služeb. Tato firma vám no nainstaluje a bude se vám starat o nutnou údržbu - když vy byste poslali na střechu nějakého svého zaměstnance bez potřebných certifikátů, tak si koledujete o kriminál. Navíc řešení přes operátora může být i levnější (nebo alespoň nemusí vyjít dráž - tento operátor nakupuje u dodavatelů někdy i o desítky procent levněji než byste koupil něco vy (větší objem) a se jeho více náklady v tomto schovají.<br/>Jde-li vám ale čistě o propojení poboček, bývá výhodně než na ISP/Telco <strong>obrátit se přímo na firmy, které se zabývají montáží</strong> (i pro ty ISP/Telco) - <a href="http://www.vanco.cz/">Vanco</a>, <a href="http://www.coprosys.cz/">Coprosys</a>, <a href="http://www.ges.cz/">GES</a>, &#8230;</li>
-	<li>Možné technologie jsou tedy <strong>PtP</strong> spoje, firma by měla sáhnout po řešení <strong>v licencovaných pásmech</strong>, nebo alespoň <strong>10,5 GHz</strong>, kde není tak rušno. Pro nižší záruku, ale podstatně nižší cenu lze doporučit i PtP v pásmu <strong>5,8 GHz.</strong> Na krátké vzdálenosti vychází velmi zajímavě i řešení pomocí <strong>optických pojítek</strong>.</li>
+<li>Možné technologie jsou tedy <strong>PtP</strong> spoje, firma by měla sáhnout po řešení <strong>v licencovaných pásmech</strong>, nebo alespoň <strong>10,5 GHz</strong>, kde není tak rušno. Pro nižší záruku, ale podstatně nižší cenu lze doporučit i PtP v pásmu <strong>5,8 GHz.</strong> Na krátké vzdálenosti vychází velmi zajímavě i řešení pomocí <strong>optických pojítek</strong>.</li>
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040812-nera.jpg" alt="Nera Wireless" width="127" height="137" /></div>
 <ul>
 <li><strong><u>Řešení v licencovaných pásmech</u></strong> nabízí rychlosti v řádech megabitů až 155 megabit Full-Duplex, včetně i G703 portů (analogová telefonie), dosah je až několik desítek kilometrů. Ceny se pohybují od 400 tisíc do 2 milionů, ročně pak platíte 10-100 tisíc ČTÚ za pronájem frekvence. Výrobce (<a href="http://www.nera.no/">Nera</a>, <a href="http://www.siemens.com/">Siemens</a>, <a href="http://www.ericsson.com/">Ericsson</a>) vám pomůže vybrat montážní firma</li>
-	<li><strong><u>Propojení v pásmu 10,5 GHz</u></strong> nabízí rychlosti 2-10 Mbit Full-Duplex, nabízí i hlasové porty. Tato frekvence je volná jen v ČR (do roku 2010), dosah je max. cca. 30 km. Ceny začínají na cca. 200 tisících včetně montáže, výrobce (<a href="http://www.svm.cz/">SVM</a>, <a href="http://www.conves.cz/">Conves</a>, <a href="http://www.miracle.cz/">Miracle</a>, &#8230;) vám opět poradí montážní firma.</li>
-	<li><strong><u>PtP produkty pro pásmo 5,8 GHz</u></strong> nabízí rychlosti od 2 do 1000 Mbit, Full i Half Duplex, některé typy mají i možnost G703 portů, dosah se kvůli výraznému omezení vyzářeného výkonu v ČR pohybuje mezi stovkami metrů a 2 km. Ceny se pohybují od 50 tisíc do 1,5 milionu Kč. Koncem roku by mělo být povolen vyšší vyzářený výkon na podobné frekvenci a je tedy pravděpodobné, že příští rok budou na trhu i jiné produkty s vyššími dosahy a příznivějšími cenami. Výrobci <a href="http://www.proxim.com/">Proxim</a>, <a href="http://www.alvarion.com/">Alvarion</a>, <a href="http://www.trangobroadband.com/">Trango</a>, <a href="http://www.motorola.com/">Motorola</a>&#8230;)</li>
-	<li>Často zapomínaná technologie jsou <strong>optická pojítka</strong>, nabízejí rychlosti od 10 do 1000 Mbit (některá nabízí i analogové porty), dosah je od 150 metrů do 5 kilometrů. Ceny začínají už na 40 tisících a končí na cca. 1 milionu.  Pro zajímavost, <a href="http://www.laserbit.net/products.php?pname=PICO">100 Mbit Full Duplex Ethernet laserové pojítko na 150 metrů v profi provedení</a> se dá sehnat u <a href="http://www.anixter.cz/">distributora</a> za 40 tisíc plus daň. Výrobci <a href="http://www.laserbit.net/">LaserBit</a>, <a href="http://www.cbl.cz/">CBL</a> &#8230;</li>
+<li><strong><u>Propojení v pásmu 10,5 GHz</u></strong> nabízí rychlosti 2-10 Mbit Full-Duplex, nabízí i hlasové porty. Tato frekvence je volná jen v ČR (do roku 2010), dosah je max. cca. 30 km. Ceny začínají na cca. 200 tisících včetně montáže, výrobce (<a href="http://www.svm.cz/">SVM</a>, <a href="http://www.conves.cz/">Conves</a>, <a href="http://www.miracle.cz/">Miracle</a>, &#8230;) vám opět poradí montážní firma.</li>
+<li><strong><u>PtP produkty pro pásmo 5,8 GHz</u></strong> nabízí rychlosti od 2 do 1000 Mbit, Full i Half Duplex, některé typy mají i možnost G703 portů, dosah se kvůli výraznému omezení vyzářeného výkonu v ČR pohybuje mezi stovkami metrů a 2 km. Ceny se pohybují od 50 tisíc do 1,5 milionu Kč. Koncem roku by mělo být povolen vyšší vyzářený výkon na podobné frekvenci a je tedy pravděpodobné, že příští rok budou na trhu i jiné produkty s vyššími dosahy a příznivějšími cenami. Výrobci <a href="http://www.proxim.com/">Proxim</a>, <a href="http://www.alvarion.com/">Alvarion</a>, <a href="http://www.trangobroadband.com/">Trango</a>, <a href="http://www.motorola.com/">Motorola</a>&#8230;)</li>
+<li>Často zapomínaná technologie jsou <strong>optická pojítka</strong>, nabízejí rychlosti od 10 do 1000 Mbit (některá nabízí i analogové porty), dosah je od 150 metrů do 5 kilometrů. Ceny začínají už na 40 tisících a končí na cca. 1 milionu.  Pro zajímavost, <a href="http://www.laserbit.net/products.php?pname=PICO">100 Mbit Full Duplex Ethernet laserové pojítko na 150 metrů v profi provedení</a> se dá sehnat u <a href="http://www.anixter.cz/">distributora</a> za 40 tisíc plus daň. Výrobci <a href="http://www.laserbit.net/">LaserBit</a>, <a href="http://www.cbl.cz/">CBL</a> &#8230;</li>
 </ul>
 </ul>
 <p>
@@ -113,11 +113,11 @@ Tyto všechny kalkulace budou hodně orientační - pro venkovní instalace toti
 
 <ul>
 <li>Tato firma by se opět měla <strong>obrátit na montážní firmu</strong>, která to udělá. U dvou poboček může být ještě stále zajímavé využít <strong>2× PtP linku</strong> s pobočkami a pro připojení zaměstnanců využít <strong>PtMP</strong> řešení ať už přes Wi-Fi či v pásmu 5,8 GHz. U více poboček pak je důležité, jestli opravdu všechny na sebe vidí, jak jsou daleko a jestli je potřeba i hlas, potom by se mohla zvážit nějaká kvalitní PtMP technologie, zřejmě v pásmu 5,8 GHz (případně licencované 3,5 GHz pásmo, jestli je to v daném místě možné - poradí montážní firma).</li>
-	<ul>
+<ul>
 <li>Řešení <strong>PtP</strong> spoje by bylo tedy stejné jako v předchozí situaci, jen by byly 2 (každý může být samozřejmě řešen jinak, dle potřeb konkrétní pobočky, vzdálenosti apod.)</li>
-	<li>Levnější bude <strong>PtMP řešení v pásmu 5,8 GHz</strong>. Rychlosti jsou od 64 kbit po 30 Mbit, dosahy jsou v tuto chvíli do max. 2 km. Ceny se pohybují mezi 30-70 tisíci za přístupový bod včetně antény, od 10 tisíc Kč výše za hardware pro domácího uživatele, 20-30 tisíc Kč za techniku pro připojení kanceláře. Propojení ústředen pomocí G703 ale není možné.</li>
-	<li>Existuje i <strong>PtMP pro pásmo 2,4 GHz</strong>, které nabízí podobné možnosti jako předchozí skupina, za ceny přibližně stejné, výhodou je větší dosah (max. 5 km legálně), nevýhodou podstatně větší rušení v tomto pásmu.</li>
-	<li>Může být zajímavé připojit pobočky pomocí dražší technologie (PtMP či PtP), a pro zaměstnance zřídit zvláštní přístupový bod, např. i Wi-Fi (řešení viz Pepa s Honzou)</li>
+<li>Levnější bude <strong>PtMP řešení v pásmu 5,8 GHz</strong>. Rychlosti jsou od 64 kbit po 30 Mbit, dosahy jsou v tuto chvíli do max. 2 km. Ceny se pohybují mezi 30-70 tisíci za přístupový bod včetně antény, od 10 tisíc Kč výše za hardware pro domácího uživatele, 20-30 tisíc Kč za techniku pro připojení kanceláře. Propojení ústředen pomocí G703 ale není možné.</li>
+<li>Existuje i <strong>PtMP pro pásmo 2,4 GHz</strong>, které nabízí podobné možnosti jako předchozí skupina, za ceny přibližně stejné, výhodou je větší dosah (max. 5 km legálně), nevýhodou podstatně větší rušení v tomto pásmu.</li>
+<li>Může být zajímavé připojit pobočky pomocí dražší technologie (PtMP či PtP), a pro zaměstnance zřídit zvláštní přístupový bod, např. i Wi-Fi (řešení viz Pepa s Honzou)</li>
 </ul>
 </ul>
 <p>
@@ -125,16 +125,16 @@ Tyto všechny kalkulace budou hodně orientační - pro venkovní instalace toti
 
 <ul>
 <li>Tohle je asi konečně něco, co zajímá větší část čtenářů (omlouvám se za zdlouhavý „úvod&#8221;), ale myslím, že stojí za to znát všechny možnosti.</li>
-	<li>Samozřejmě v těchto situacích bývá <strong>nejdůležitějším kritériem cena</strong>, proto se zřejmě rozhodnou pro Wi-Fi propojení (PtMP s jedním klientem), umožní jim to pak připojit i další kamarády. Kdyby ale pro nějakou fakt hustou hru potřebovali full-duplex stomegabit, nejzajímavější by asi pak bylo řešení pomocí výše uvedeného optického pojítka.</li>
-	<li>Jsou-li oba kluci opravdu kousek od sebe (100m) a perfektně si vidí okna u svých počítačů, potom stačí, když oba koupí nějakou USB síťovou kartu a dají ji na okno (tj. Ad-hoc síť), pozor ale na bezpečnost, opět bych doporučoval na jednu stranu dát AP (např. onen včera zmíněný <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20990">Asus WL-330</a>)</li>
-	<li>Složitější je to ale, budete-li potřebovat anténu (dosah potom až cca. 5 km při splnění povolení), potom totiž musíte do svého rozhodování o vhodném prvku započítat i to, zda-li má možnost připojení externí antény. USB zařízení s výstupem na externí anténu jsou totiž zbytečně drahé, výhodnější tedy je jít do <a href="http://www.wifishop.cz/inshop/shop.asp?Level=76">PCI karet</a> nebo to externího <a href="http://www.wifishop.cz/inshop/shop.asp?Level=79">Ethernetového klienta</a>.</li>
-	<ul>
+<li>Samozřejmě v těchto situacích bývá <strong>nejdůležitějším kritériem cena</strong>, proto se zřejmě rozhodnou pro Wi-Fi propojení (PtMP s jedním klientem), umožní jim to pak připojit i další kamarády. Kdyby ale pro nějakou fakt hustou hru potřebovali full-duplex stomegabit, nejzajímavější by asi pak bylo řešení pomocí výše uvedeného optického pojítka.</li>
+<li>Jsou-li oba kluci opravdu kousek od sebe (100m) a perfektně si vidí okna u svých počítačů, potom stačí, když oba koupí nějakou USB síťovou kartu a dají ji na okno (tj. Ad-hoc síť), pozor ale na bezpečnost, opět bych doporučoval na jednu stranu dát AP (např. onen včera zmíněný <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=20990">Asus WL-330</a>)</li>
+<li>Složitější je to ale, budete-li potřebovat anténu (dosah potom až cca. 5 km při splnění povolení), potom totiž musíte do svého rozhodování o vhodném prvku započítat i to, zda-li má možnost připojení externí antény. USB zařízení s výstupem na externí anténu jsou totiž zbytečně drahé, výhodnější tedy je jít do <a href="http://www.wifishop.cz/inshop/shop.asp?Level=76">PCI karet</a> nebo to externího <a href="http://www.wifishop.cz/inshop/shop.asp?Level=79">Ethernetového klienta</a>.</li>
+<ul>
 <li><strong><u>Doporučený typ PCI</u></strong>: <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=21140">Zyxel ZyAIR B-320</a> - funguje i na starších počítačích s PCI verze 2.1, příznivá cena 918 Kč vč. DPH. Konektor RSMA</li>
-	<li>Nebo můžete využít <strong><u>akční nabídky</u></strong> - balíčku karty D-Link DWL 510, 8 dBi směrové antény (dvě proti sobě stačí tak na 0,5-1 km link) a 3m propojovacího kabelu, <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=21055">dohromady za 2090 Kč s DPH</a>, tj. asi o 500 Kč levněji, než když byste to kupovali zvlášť.</li>
-	<li><strong><u>Doporučený typ Ethernet klient</u></strong>: zcela jasně <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=21091">OvisLink WL-1120</a> - je totiž nejlevnější (1831 Kč s DPH), ale hlavně funguje nejen jako klient pro 1 počítač (na to pozor u jiných ethernet klientů), ale můžete za něj <strong>připojit i síť</strong>, může fungovat i jako <strong>AP</strong> a podporuje <strong>WDS</strong> (viz dále). Má <strong>dva Ethernet porty</strong>, jeden můžete připojit tedy třeba do DSL routeru, ke druhému připojit svůj počítač a na bezdrát pak kamarády. Konektor RSMA</li>
-	<li><strong><u>Doporučený přístupový bod</u></strong>: opět bych šel do uvedeného <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=21091">OvisLinku 1120</a>. Existuje sice o 100 Kč levnější D-Link DWL-700, ale půlka jich u mě končila reklamovaných a nepodporuje WDS - never more.</li>
+<li>Nebo můžete využít <strong><u>akční nabídky</u></strong> - balíčku karty D-Link DWL 510, 8 dBi směrové antény (dvě proti sobě stačí tak na 0,5-1 km link) a 3m propojovacího kabelu, <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=21055">dohromady za 2090 Kč s DPH</a>, tj. asi o 500 Kč levněji, než když byste to kupovali zvlášť.</li>
+<li><strong><u>Doporučený typ Ethernet klient</u></strong>: zcela jasně <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=21091">OvisLink WL-1120</a> - je totiž nejlevnější (1831 Kč s DPH), ale hlavně funguje nejen jako klient pro 1 počítač (na to pozor u jiných ethernet klientů), ale můžete za něj <strong>připojit i síť</strong>, může fungovat i jako <strong>AP</strong> a podporuje <strong>WDS</strong> (viz dále). Má <strong>dva Ethernet porty</strong>, jeden můžete připojit tedy třeba do DSL routeru, ke druhému připojit svůj počítač a na bezdrát pak kamarády. Konektor RSMA</li>
+<li><strong><u>Doporučený přístupový bod</u></strong>: opět bych šel do uvedeného <a href="http://www.wifishop.cz/inshop/shop.asp?ItemID=21091">OvisLinku 1120</a>. Existuje sice o 100 Kč levnější D-Link DWL-700, ale půlka jich u mě končila reklamovaných a nepodporuje WDS - never more.</li>
 </ul>
-	<li><strong><u>Toto nejsou ale konečné náklady</u></strong> (vyjma případu koupě akčního balíčku) - ještě je třeba koupit propojovací kabel (stovková položka) a hlavně vybrat anténu. Anténám se budeme věnovat v příštím díle (už takhle je tento strašně dlouhý). Další položky mohou být bleskojistky, stožáry, koaxiální kabely, rozvaděče, prodlužovačky atd.</li>
+<li><strong><u>Toto nejsou ale konečné náklady</u></strong> (vyjma případu koupě akčního balíčku) - ještě je třeba koupit propojovací kabel (stovková položka) a hlavně vybrat anténu. Anténám se budeme věnovat v příštím díle (už takhle je tento strašně dlouhý). Další položky mohou být bleskojistky, stožáry, koaxiální kabely, rozvaděče, prodlužovačky atd.</li>
 </ul>
 <div class="leftbox"><img src="/wp-content/uploads/cache/20040812-thumbsup.jpg" alt="Lojza má fakt radost!" width="171" height="256" /></div><p>
 <em>Situace 4. Lojzovi se jejich nápad strašně líbí, chtěl by se propojit s nima (vidí na Pepu), rád by se připojil i Pavel, který ale vidí jen na Lojzu.</em></p>

@@ -20,8 +20,8 @@ Předpokládám, že jsem se nikdy nepřihlásil k odběru těchto zpráv, moje 
 
 <ul>
 <li>opravdu je nutné posílat e-maily formou spamu (stačilo požádat o můj e-mail přes jinou cestu a problém bych neměl)?</li>
-	<li>opravdu neví študovaný právník, že se dopouští vážného přestupku?</li>
-	<li>opravdu musí kancelář nejlépe placeného českého úředníka posílat e-maily z freemailové domény (tj. včetně přiložené reklamy)?</li>
-	<li>opravdu neumí někdo z této kanceláře udělat PDF jiným způsobem a z jiného materiálu, než z nakřivo a hnusně vylezlé kopie z faxu?</li>
-	<li><strong>je opravdu zcela bezpečné a rozumné, aby v onom faxovém dokumentu poslaném veřejnosti byly ručně psané podpisy 31 evropských poslanců a faxové číslo kanceláře, tedy velmi snadno zneužitelné údaje!!!</strong></li>
+<li>opravdu neví študovaný právník, že se dopouští vážného přestupku?</li>
+<li>opravdu musí kancelář nejlépe placeného českého úředníka posílat e-maily z freemailové domény (tj. včetně přiložené reklamy)?</li>
+<li>opravdu neumí někdo z této kanceláře udělat PDF jiným způsobem a z jiného materiálu, než z nakřivo a hnusně vylezlé kopie z faxu?</li>
+<li><strong>je opravdu zcela bezpečné a rozumné, aby v onom faxovém dokumentu poslaném veřejnosti byly ručně psané podpisy 31 evropských poslanců a faxové číslo kanceláře, tedy velmi snadno zneužitelné údaje!!!</strong></li>
 </ul>

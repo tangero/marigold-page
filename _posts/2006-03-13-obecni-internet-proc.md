@@ -21,32 +21,32 @@ post_date: 2006-03-13 13:11:56
 
 <p><strong>Update 16:34</strong>: Další 2 důvody, viz <a href="/item/obecni-internet-proc">celý článek</a></p>
 
-<!--more-->	<ul>
-	<li>Protože tak získáme hlasy voličů.</li>
-	<li>Protože jsme dostali pěknou naditou obálku od jednoho ISP.</li>
-	<li>Protože ministerstvo vypsalo dotační řízení, tak proč nepožádat o ty peníze, když rozpočet řádně nafouknem, tak nás to nic nebude stát (tyto odpovědi vám samozřejmě nikdo neřekne, to ale neznamená, že nejsou nejdůležitější).</li>
-	<li>Protože je v naší obci dostupné jen některé připojení - jen ADSL, jen CDMA, jen GPRS ...(Proč?)</li>
-	<li>Protože je u nás velmi málo poskytovatelů, ceny jsou velmi vysoké a kvalita nízká. (Proč?)</li>
-	<li>Protože je pokryta jen část obce, jinam se poskytovatelé nehrnou. (Proč?)</li>
-	<li>Protože v naší obci žádné internetové připojení není dostupné. (Proč?)
-	<ul>
-	<li>Proč? Protože jsme příliš malá obec, než aby to někoho zajímalo</li>
-	<li>Proč? Protože tu nejsou žádné firmy, které by utáhly větší část nákladů.</li>
-	<li>Proč? Protože nejsme v dosahu některého dodavatele konektivity.</li>
-	<li>Proč? Protože nemáme peníze, jak to podpořit.</li>
-	<li>Proč? Protože je obec v nevhodném terénu, tudíž náklady jsou vysoké.</li>
-	</ul>
-	</li>
-	<li>Protože kopeme kanalizaci / plyn ... a společné řešení by uspořilo náklady v budoucnu.</li>
-	<li>Protože chceme nabídnout připojení návštěvníkům města jako přidanou hodnotu a zvýšit tak svou návštěvnost</li>
-	<li><strong>update:</strong>Protože potřebujeme propojit naše úřady a další obecní budovy a sdílet mezi data a telefonovat zdarma.</li>
-	<li><strong>update:</strong>Protože potřebujeme nějak napojit náš kamerový systém a jeví se nám to jako vhodná utilizace společné infrastruktury s internetem.</li>
-	<li>Protože chceme zajistit neomezený přístup k informačním službám obce a státu na www stránkách</li>
-	<li>Protože chceme snížit náklady obce na obecní agendu a chceme tedy maximum přenést na internet</li>
-	<li>Protože naše děti zaostávají ve škole, neboť se nemohou dostat tak snadno k informacím, jako jejich měštští spolužáci.</li>
-	<li>Protože naše firmy / zemědělci nemohou prodat své zboží a nebo nakoupit levnější součásti, jsou nekonkurenční a propouští zaměstnance</li>
-	<li>Protože je u nás vysoká nezaměstnanost a mnoho lidí by se mohlo uchytit prací na internetu, nebo by tak mohli alespoň sehnat lépe práci.</li>
-	<li>Protože se od nás stěhují lidé do města, protože zde nemají práci.</li>
-	<li>Protože se k nám nikdo nechce stěhovat, protože by nemohl pracovat ani vzdáleně. Klesají tak ceny obecních pozemků, lidé sem jezdí maximálně na víkend na chatu a klesají tak tržby místním obchodníkům.</li>
-	</ul>
+<!--more--><ul>
+<li>Protože tak získáme hlasy voličů.</li>
+<li>Protože jsme dostali pěknou naditou obálku od jednoho ISP.</li>
+<li>Protože ministerstvo vypsalo dotační řízení, tak proč nepožádat o ty peníze, když rozpočet řádně nafouknem, tak nás to nic nebude stát (tyto odpovědi vám samozřejmě nikdo neřekne, to ale neznamená, že nejsou nejdůležitější).</li>
+<li>Protože je v naší obci dostupné jen některé připojení - jen ADSL, jen CDMA, jen GPRS ...(Proč?)</li>
+<li>Protože je u nás velmi málo poskytovatelů, ceny jsou velmi vysoké a kvalita nízká. (Proč?)</li>
+<li>Protože je pokryta jen část obce, jinam se poskytovatelé nehrnou. (Proč?)</li>
+<li>Protože v naší obci žádné internetové připojení není dostupné. (Proč?)
+<ul>
+<li>Proč? Protože jsme příliš malá obec, než aby to někoho zajímalo</li>
+<li>Proč? Protože tu nejsou žádné firmy, které by utáhly větší část nákladů.</li>
+<li>Proč? Protože nejsme v dosahu některého dodavatele konektivity.</li>
+<li>Proč? Protože nemáme peníze, jak to podpořit.</li>
+<li>Proč? Protože je obec v nevhodném terénu, tudíž náklady jsou vysoké.</li>
+</ul>
+</li>
+<li>Protože kopeme kanalizaci / plyn ... a společné řešení by uspořilo náklady v budoucnu.</li>
+<li>Protože chceme nabídnout připojení návštěvníkům města jako přidanou hodnotu a zvýšit tak svou návštěvnost</li>
+<li><strong>update:</strong>Protože potřebujeme propojit naše úřady a další obecní budovy a sdílet mezi data a telefonovat zdarma.</li>
+<li><strong>update:</strong>Protože potřebujeme nějak napojit náš kamerový systém a jeví se nám to jako vhodná utilizace společné infrastruktury s internetem.</li>
+<li>Protože chceme zajistit neomezený přístup k informačním službám obce a státu na www stránkách</li>
+<li>Protože chceme snížit náklady obce na obecní agendu a chceme tedy maximum přenést na internet</li>
+<li>Protože naše děti zaostávají ve škole, neboť se nemohou dostat tak snadno k informacím, jako jejich měštští spolužáci.</li>
+<li>Protože naše firmy / zemědělci nemohou prodat své zboží a nebo nakoupit levnější součásti, jsou nekonkurenční a propouští zaměstnance</li>
+<li>Protože je u nás vysoká nezaměstnanost a mnoho lidí by se mohlo uchytit prací na internetu, nebo by tak mohli alespoň sehnat lépe práci.</li>
+<li>Protože se od nás stěhují lidé do města, protože zde nemají práci.</li>
+<li>Protože se k nám nikdo nechce stěhovat, protože by nemohl pracovat ani vzdáleně. Klesají tak ceny obecních pozemků, lidé sem jezdí maximálně na víkend na chatu a klesají tak tržby místním obchodníkům.</li>
+</ul>
 <p>Poslední odpovědi se dají shrnout pod pojem "digital divide". Jak vidno, dostupný Internet může snížit náklady obce, zvýšit její příjmy, zamezit nezaměstnanosti, přilákat návštěvníky obce i její stálé obyvatele. Nechť je to tedy odpověď na názor, že by se tím obec vůbec neměla zabývat, i na pochyby o účelnosti dotací do některých nejkrizovějších oblastí. Těším se na vaše další návrhy.</p>

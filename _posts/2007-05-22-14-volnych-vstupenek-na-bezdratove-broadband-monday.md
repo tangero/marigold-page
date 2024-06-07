@@ -15,7 +15,7 @@ post_date: 2007-05-22 10:55:23
 
 
 <div>
-	<h3>Broadband jde i bez drátů, milí uživatelé</h3>
+<h3>Broadband jde i bez drátů, milí uživatelé</h3>
 	
 <p><table cellpadding="3" cellspacing="0" border="0">
 <tr bgcolor="#FFFCF0"> 

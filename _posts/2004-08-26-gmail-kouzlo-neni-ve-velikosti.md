@@ -34,8 +34,8 @@ Několik Google related článků na závěr:</p>
 
 <ul>
 <li><a href="http://blog.topix.net/archives/000016.html">The Secret source of Googles Power</a></li>
-	<li><a class="delLink" href="http://hublog.hubmed.org/archives/000942.html">HubLog: Things Google knows about you</a> </li>
-	<li><a class="delLink" href="http://ilia.ws/archives/15_Gmail_as_an_online_backup_system.html">Gmail as an online backup system</a></li>
-	<li><a class="delLink" href="http://www.kottke.org/04/04/google-operating-system">GooOS, the Google Operating System (kottke.org)</a> </li>
-	<li><a class="delLink" href="http://www.infoworld.com/article/04/06/18/25OPstrategic_1.html">The Google PC generation: June 18, 2004: By Jon Udell : InfoWorld:</a> </li>
+<li><a class="delLink" href="http://hublog.hubmed.org/archives/000942.html">HubLog: Things Google knows about you</a> </li>
+<li><a class="delLink" href="http://ilia.ws/archives/15_Gmail_as_an_online_backup_system.html">Gmail as an online backup system</a></li>
+<li><a class="delLink" href="http://www.kottke.org/04/04/google-operating-system">GooOS, the Google Operating System (kottke.org)</a> </li>
+<li><a class="delLink" href="http://www.infoworld.com/article/04/06/18/25OPstrategic_1.html">The Google PC generation: June 18, 2004: By Jon Udell : InfoWorld:</a> </li>
 </ul>

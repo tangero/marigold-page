@@ -24,15 +24,15 @@ To  je docela důležitý poznatek, protože přizpůsobení NodeB pro HSDPA obn
 <p>
 Jen abychom věděli a znali – klíčové elementy HSDPA jsou:</p>
 
-	<ul>
-	<li>High-Speed Downlink Shared CHannel (HS-DSCH) – nový typ transportního kanálu. Ten umožní několika uživatelům sdílet kanál na vzdušném rozhraní o špičkové rychlosti až 14 Mb/s. </li>
-	<li>Fast scheduling – plánování je přesunuto z RNC na NodeB, takže 	síť se dozví rychleji o změnách v podmínkách příjmu na straně terminálu. </li>
-	<li>Fast Retransmissions a H-ARQ – Znovuzaslání dat při nemožnosti dekódovat paket dříve řešilo RNC, nyní ho také řeší NodeB. Tím se zase zkracuje doba potřebná pro znovuzaslání vadných dat. H-ARQ je Hybrid Automatic Repeat Request. </li>
-	<li>
+<ul>
+<li>High-Speed Downlink Shared CHannel (HS-DSCH) – nový typ transportního kanálu. Ten umožní několika uživatelům sdílet kanál na vzdušném rozhraní o špičkové rychlosti až 14 Mb/s. </li>
+<li>Fast scheduling – plánování je přesunuto z RNC na NodeB, takže 	síť se dozví rychleji o změnách v podmínkách příjmu na straně terminálu. </li>
+<li>Fast Retransmissions a H-ARQ – Znovuzaslání dat při nemožnosti dekódovat paket dříve řešilo RNC, nyní ho také řeší NodeB. Tím se zase zkracuje doba potřebná pro znovuzaslání vadných dat. H-ARQ je Hybrid Automatic Repeat Request. </li>
+<li>
 Channel Quality Feedback</li>
-	<li>
+<li>
 Adaptivní modulace a kódování</li>
-	</ul>
+</ul>
 <p>
 Výsledek toho všeho povídání – HSDPA nabídnou v UMTS Release 5 síti teoretickou sdílenou rychlost až 14,4 Mb/s. V praxi samozřejmě podle toho, co utáhne mobilka, spisovně terminál. A taky podle toho, kolik lidí bude sdílet atd atd, jak je u rádia obvyklé. </p>
 

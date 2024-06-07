@@ -21,14 +21,14 @@ post_date: 2006-09-25 12:12:50
 
 <p>Další RFID čipy se zřejmě dostanou do cestovních a později i osobních dokladů občanů Evropské unie (i pár dalších států, ale to je nám asi víc fuk). Už nyní kolem toho je rozruch, protože se vynořily názory, že automatické scanování RFID čipů může být velmi nebezpečné zejména v rizikových státech. A automatickému scanu RFID čipu nelze jen tak snadno zabránit. Budou si diktátoři dělat soupisky, kde se pohybují novináři a podobná verbež? Jak moc potenciálně zneužitelné a rychle aplikovatelné jsou takové technologie?</p>
 
-<!--more-->	<h4>Kupte si plechovou peněženku</h4>
+<!--more--><h4>Kupte si plechovou peněženku</h4>
 <p>Osobně v první řadě předpovídám slušný boom pro plechové peněženky, do kterých všechny podobné karty zaklapnete a přes stínění žádná scanner neprojde. Jelikož RFID čip je pasivní záležitost aktivovaná venkovním impulsem, stačí trocha plechu fungujícího jako Faradayova klec a můžete scanovat po libosti - signál skrze plech neprojde. </p>
 
 <p>Samozřejmě bude třeba takovou peněženku řádně odladit a jistě se časem budou dělat i verze odladěné na nejdrsnější metody scanování - marketing se vyřádí. </p>
 
 <p>Moje doporučení: pro vaše osobní soukromí je to nejlepší investice pro následující dvě desetiletí v poměru cena-výkon. Druhou je koupit si soukromý tropický ostrov, ale to nemůžeme všichni. </p>
 
-	<h4>Proč to všechno? Je to panika na místě?</h4>
+<h4>Proč to všechno? Je to panika na místě?</h4>
 <p>Paniku netvořme, ale rozumně se ptejme a chtějme fakta, ne marketingové bullshity. </p>
 
 <p>Sám jsem dlouho byl pesimista - nebo spíš optimista, záleží na úhlu pohledu. Myslel jsem si před deseti lety, že takové množství dat nejde rozumně rychle zanayzovat. Měl jsem s tím určité zkušenosti, jeden takový analytický systém jsem vyvíjel a vím, co to bylo za dílo. </p>
@@ -42,7 +42,7 @@ post_date: 2006-09-25 12:12:50
 <p>České Dráhy v tomhle směru nereguluje do jisté míry nikdo. Jen Úřad pro ochranu osobních údajů, který by měl zbystřit. Jenže obejít ho se dá - stačí hovořit o datech statistických, ne osobních. Budou Dráhy důvěryhodnou firmou pro správu tak citlivých údajů, jako je váš pohyb v čase a prostoru, nebo se chystají první průšvih bagatelizovat populárním rčením "kdo nedělá nic špatného, tomu to přeci nevadí". Opravdu věříte tomu, že nádražák nenakulí cédéčko svému kámošovi z reklamky za dva fernety?  Opravdu věříte tomu, že to kámošovi z reklamky na nic nebude?
 Mýtné je další problém</p>
 
-	<h4>Jsem rád, že mýtné vyhrál Kapsch, respektive mikrovlnná verze mýtného</h4>
+<h4>Jsem rád, že mýtné vyhrál Kapsch, respektive mikrovlnná verze mýtného</h4>
 <p>Mám ji raději, než GPS technologii. Proč? </p>
 
 <p>Protože na to, abyste odečítali kilometry u mikrovlnného mýtného, potřebujete na vybraných lokalitách postavit odečítací rámy. Vzdálenost se tedy počítá podle toho, kolika rámy projedete. </p>
@@ -51,14 +51,14 @@ Mýtné je další problém</p>
 
 <p>Už v Německu totiž přišli na to, že GPS má dva základní problémy. </p>
 
-	<ul>
-	<li>
+<ul>
+<li>
 Především není přesné, takže můžete jet po souběžné silnici s dálnicí a úsek je vám účtován. 
 </li>
-	<li>
+<li>
 Za druhé je zarušitelné, takže chytrý polský přepravce nakoupí nedrahou rušičku GPS signálu nebo onboard unit přikryje plechem. A neměří se. 
 </li>
-	</ul>
+</ul>
 <p>Výrobci onboard unitů přišli s řadou vylepšení, kdy napojili unity na tachometry vozidla, takže zařízení ví, že auto nestojí, jenže jak má vyhleásit poplach? </p>
 
 <p>Nakonec bylo do boje proti nepoctivcům a tváří v tvář perspektivě, že někdo podvrhne falešný GPS signál (což není tak easy, ale v mýtném je tolik peněz, že se vyplatí nad tím bádat) nasadit odečítací rámi v množství podobném, jako rámy pro mikrovlnný systém. </p>

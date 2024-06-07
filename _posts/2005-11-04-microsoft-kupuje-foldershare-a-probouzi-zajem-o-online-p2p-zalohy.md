@@ -11,7 +11,7 @@ post_date: 2005-11-04 10:04:48
 ---
 <p>Nebyla tomu věnována velká pozornost a kdyby mne tahle oblast nezajímala speciálně, asi bych tomu nevěnoval pozornost ani já, protože Microsoft nakupuje společnosti jak housky na krámě. Za blíže neurčenou sumu přechází do portfolia Microsoftu společnost FolderShare. Je to tři roky starý americký start-up, který přišel s P2P software pro zálohování. </p>
 
-	<h4>FolderShare - P2P zálohy</h4>
+<h4>FolderShare - P2P zálohy</h4>
 <p><a href="http://www.foldershare.com">FolderShare</a> je kombinace klientského software pro Windows/Mac a webového přístupu k vašim souborům. Po nainstalování software si zvolíte, jaké adresáře chcete synchronizovat a ony se nahrají na jiný počítač vybavený FolderShare, který si zvolíte. Synchronizace je jednoduchá a pohodlná, k datům pak můžete přistupovat i vzdáleně přes webový prohlížeč. Služba byla nedávno za peníze, nyní je zdarma a FolderShare slibuje, že zachová vývoj i Mac klienta. Kromě toho existuje v šesti jazykových mutacích, čeština ale mezi nimi samozřejmě není. </p>
 
 <p><img src="/wp-content/uploads/20051104-fullBlueLogoFade.jpg" alt="logo" width="359" height="79" /></p>

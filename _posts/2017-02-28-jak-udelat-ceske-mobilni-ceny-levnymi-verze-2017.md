@@ -16,12 +16,12 @@ V předchozím blogpostu jsem popsal důvody, které vedly k poměrně vysokým 
 
 Před tím, než se zkusíme zamyslet nad tím, jak situaci dát do pořádku, zrekapituluju příčiny (dle mého pozorování):
 <ul>
- 	<li>omezený oligopolní trh, na němž je jeden švorc, druhý oportunista a třetí dravý operátor, přičemž všichni mají za úkol vydělat na trhu co nejvíce a zároveň mají nově uloženou povinnost investovat do LTE sítě. Navíc všichni tři operátoři mají dohromady slušnou lobby sílu. Přidejme k tomu obavy ze změn na trhu, zejména situaci s roamingem a máme trh, na kterém není jednostranná vůle měnit cenu dolů.</li>
- 	<li>regulátor ČTÚ, který v nějaké formě prodal frekvence LTE za nemalou cenu, už ale nezvládl ukočírovat velkoobchodní nabídky a ceny mobilního připojení</li>
- 	<li>ministra, který nezvládl být regulátorovi politickou oporou a zároveň drábem, takže turbulentní trh zůstal bez dozoru</li>
- 	<li>nulová šance na fungujícího čtvrtého operátora v horizontu pěti let</li>
- 	<li>média, která mají málo peněz a chuti, aby se věnovala citlivým tématům a raději tvrdí, že čtenáře to nezajímá</li>
- 	<li>konzervativní trh, který netlačí na nízkou cenu ani inovativní služby a už vůbec nemá zájem dohlížet na činnost politiků a regulátora, takže nevyžaduje informace (ani od médií)</li>
+ <li>omezený oligopolní trh, na němž je jeden švorc, druhý oportunista a třetí dravý operátor, přičemž všichni mají za úkol vydělat na trhu co nejvíce a zároveň mají nově uloženou povinnost investovat do LTE sítě. Navíc všichni tři operátoři mají dohromady slušnou lobby sílu. Přidejme k tomu obavy ze změn na trhu, zejména situaci s roamingem a máme trh, na kterém není jednostranná vůle měnit cenu dolů.</li>
+ <li>regulátor ČTÚ, který v nějaké formě prodal frekvence LTE za nemalou cenu, už ale nezvládl ukočírovat velkoobchodní nabídky a ceny mobilního připojení</li>
+ <li>ministra, který nezvládl být regulátorovi politickou oporou a zároveň drábem, takže turbulentní trh zůstal bez dozoru</li>
+ <li>nulová šance na fungujícího čtvrtého operátora v horizontu pěti let</li>
+ <li>média, která mají málo peněz a chuti, aby se věnovala citlivým tématům a raději tvrdí, že čtenáře to nezajímá</li>
+ <li>konzervativní trh, který netlačí na nízkou cenu ani inovativní služby a už vůbec nemá zájem dohlížet na činnost politiků a regulátora, takže nevyžaduje informace (ani od médií)</li>
 </ul>
 <h3>K čemu nakonec došlo?</h3>
 Operátoři nakonec začali investovat do mobilních sítí a spustili v Česku LTE, které je stálo hodně peněz. Jenže LTE bylo jen za předraženou velkoobchodní nabídku, takže v něm nepanuje žádná velká konkurence stran virtuálních operátorů. ČTÚ situaci nějak řeší, ale není tak rychlé, jak bychom si přáli. Došlo k tomu, že velkoobchodní partneři nakupují data za cenu vyšší, než partneři koncoví.

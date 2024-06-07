@@ -51,12 +51,12 @@ Nesmiřitelná nenávist má ještě jeden pro politiky podstatný důsledek. Ne
 
 Pokud vás tedy zajímá, proč nevznikne například tolik potřebná reforma školství, tak je to jednoduché:
 <ul>
- 	<li>nikdo nemá čas ji vytvořit, protože část času mu sežerou mandatorní činnosti vyplývající z jeho mandátu, například hlasování ve sněmovně o tom, zda obnovíme prodej zboží do Íránu</li>
- 	<li>i kdyby si ten čas vytvořil a návrh například za pomoci placených znalců a asistentů sestavil, nenajde v jiných politických stranách partnera, se kterým by mohl návrh zpracovat jako dlouhodobě udržitelný i pro případ změny politické situace</li>
- 	<li>i pokud by našel s jiných straných někoho, kdo také bu de mít čas a pomohl by mu návrh dotáhnout tak, aby byl vyvážený pro všechny občany, rozhodně ho druhá politická strana nepodpoří, protože bude považovat za výhodnější návrh rozcupovat, zastavit a ukázat svým voličům obezřetnost a zásadovost</li>
- 	<li>i kdyby se tak nezachovala jedna politická strana, zachová se tak druhá ze stejného důvodu, nebo z důvodu, aby se vyhranila proti některé z politických stran</li>
- 	<li>pokud by to neudělala sama některá z politických stran, udělal by to její formální nebo neformální leader, aby prokázal ostražitost</li>
- 	<li>pokud nebude zákon liberálně kapitalistický, nedostane se mu podpory mainsteamových médií, což ještě před několika lety znamenalo faktickou smrt pro návrh, dnes je to pouze značná komplikace</li>
+ <li>nikdo nemá čas ji vytvořit, protože část času mu sežerou mandatorní činnosti vyplývající z jeho mandátu, například hlasování ve sněmovně o tom, zda obnovíme prodej zboží do Íránu</li>
+ <li>i kdyby si ten čas vytvořil a návrh například za pomoci placených znalců a asistentů sestavil, nenajde v jiných politických stranách partnera, se kterým by mohl návrh zpracovat jako dlouhodobě udržitelný i pro případ změny politické situace</li>
+ <li>i pokud by našel s jiných straných někoho, kdo také bu de mít čas a pomohl by mu návrh dotáhnout tak, aby byl vyvážený pro všechny občany, rozhodně ho druhá politická strana nepodpoří, protože bude považovat za výhodnější návrh rozcupovat, zastavit a ukázat svým voličům obezřetnost a zásadovost</li>
+ <li>i kdyby se tak nezachovala jedna politická strana, zachová se tak druhá ze stejného důvodu, nebo z důvodu, aby se vyhranila proti některé z politických stran</li>
+ <li>pokud by to neudělala sama některá z politických stran, udělal by to její formální nebo neformální leader, aby prokázal ostražitost</li>
+ <li>pokud nebude zákon liberálně kapitalistický, nedostane se mu podpory mainsteamových médií, což ještě před několika lety znamenalo faktickou smrt pro návrh, dnes je to pouze značná komplikace</li>
 </ul>
 Jak vidíte, je to mnoho komplikací, které stojí prosazení reformy v cestě a to jsme předpokládali, že už ji máte sepsanou, podařilo se ji prodebatovat se zainteresovanými lidmi a sjednotit se na něčem, co můžou oborové organizace, odbory a další podpořit.
 <h3>Kdy bude v Česku dobře?</h3>
@@ -64,9 +64,9 @@ Ve výše uvedeném schématu je klíč k tomu, proč se v Česku prakticky žá
 
 Pokud se tedy ptáme, kdy bude v Česku dobře, je možné usoudit, že nikdy, pokud
 <ul>
- 	<li>se nenaučíme vzájemně diskutovat, což obnáší nejenom věcnou argumentaci, ale i poslouchání a připuštění možnosti, že na obou stranách jsou jak rozdílné kompetence, tak rozdílná sada informací, nikoliv jen zloba a "blbost"</li>
- 	<li>výše uvedené dvojnásob platí o liberálních kapitalistech a jejich automatické "samozřejmé nadřazenosti" a povyšování svého názoru na jedinou přípustnou pravdu.</li>
- 	<li>neodstraníme dvojí metr, tedy přístup k tomu, že co je dovoleno našim, není dovoleno jim.</li>
+ <li>se nenaučíme vzájemně diskutovat, což obnáší nejenom věcnou argumentaci, ale i poslouchání a připuštění možnosti, že na obou stranách jsou jak rozdílné kompetence, tak rozdílná sada informací, nikoliv jen zloba a "blbost"</li>
+ <li>výše uvedené dvojnásob platí o liberálních kapitalistech a jejich automatické "samozřejmé nadřazenosti" a povyšování svého názoru na jedinou přípustnou pravdu.</li>
+ <li>neodstraníme dvojí metr, tedy přístup k tomu, že co je dovoleno našim, není dovoleno jim.</li>
 </ul>
 Výše uvedené zejména platí pro lidi ve vlivných pozicích, zejména v politice a médiích, kteří ovšem opuštěním tohoto principu nejvíce mohou ztratit. Příkladem ale můžeme jít my všichni.
 

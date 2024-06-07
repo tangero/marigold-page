@@ -24,12 +24,12 @@ Fond bude dále spolufinancovat projekty z oblasti obsahu a služeb pro vysokory
 <p>
 Pro konkrétní opatření na podporu rozvoje vysokorychlostního přístupu předpokládá Strategie následující časový harmonogram:</p>
 
-	<ul>
-	<li>zřízení „Národního fondu pro rozvoj vysokorychlostního přístupu“ – během roku 2005</li>
-	<li>ustavení „Fóra pro rozvoj vysokorychlostního přístupu“ – do března 2005</li>
-	<li>zřízení „Národního vysokorychlostního serveru“ – do března 2005</li>
-	<li>zřízení „Národní vysokorychlostní laboratoře“ – do konce roku 2005</li>
-	</ul>
+<ul>
+<li>zřízení „Národního fondu pro rozvoj vysokorychlostního přístupu“ – během roku 2005</li>
+<li>ustavení „Fóra pro rozvoj vysokorychlostního přístupu“ – do března 2005</li>
+<li>zřízení „Národního vysokorychlostního serveru“ – do března 2005</li>
+<li>zřízení „Národní vysokorychlostní laboratoře“ – do konce roku 2005</li>
+</ul>
 <p>
 Na papíře do vypadá docela slibně, záleží ovšem na tom, jak se všechno podaří uvést do praxe. Snadno se vytvoří Fórum pro rozvoj vysokorychlostního internetu, horší to bude s generováním výsledků prostřednictvím něj. Fond se také vytvoří relativně snadno (když to vláda schválí), ale problémem bude zajistit, aby se k prostředkům snadno dostaly i menší a začínající firmy, které nemohou zvládat obrovskou agendu a hromady dotazníků. Národní vysokorychlostní server a laboratoř - to už vyloženě záleží na tom, jaké lidi se pro takové úkoly podaří získat&#8230;</p>
 

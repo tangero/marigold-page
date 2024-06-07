@@ -19,17 +19,17 @@ Začněme polopaticky: kapacita sítě je vlastně počet uživatelů, jejichž 
 <!--more--><p>
 Podívejme se na to, jaké faktory kapacitu v radiových (víceuživatelských) sítích ovlivňují:</p>
 
-	<ul>
-	<li>	požadovaná čistá chybovost pro konkrétní aplikaci po dekódování a dopředná korekce chyb (FEC)
-	<li>efektivita modulace (v bps/Hz)
-	<li>režie pro kódování
-	<li>techniky vícenásobného přístupu (FDMA,TDMA,CDMA,SDMA,OFDM atd)
-	<li>diverzita (časová, prostorová, kódová, frekvenční atd)
-	<li>režie pro ohraničující pásma, časy atd. 
-	<li>hard a soft handovery v síti, respektive jejich režie
-	<li>směrové a všesměrové antény
-	<li>automatické řízení výkonu jak na dopředném, tak na zpětném kanále. 
-	<li>Inteligence systému v oblasti dynamického přidělování zdrojů, která respektuje měnící se požadavky na služby. Příkladmo DPA – dynamické přidělení paketu. 
+<ul>
+<li>	požadovaná čistá chybovost pro konkrétní aplikaci po dekódování a dopředná korekce chyb (FEC)
+<li>efektivita modulace (v bps/Hz)
+<li>režie pro kódování
+<li>techniky vícenásobného přístupu (FDMA,TDMA,CDMA,SDMA,OFDM atd)
+<li>diverzita (časová, prostorová, kódová, frekvenční atd)
+<li>režie pro ohraničující pásma, časy atd. 
+<li>hard a soft handovery v síti, respektive jejich režie
+<li>směrové a všesměrové antény
+<li>automatické řízení výkonu jak na dopředném, tak na zpětném kanále. 
+<li>Inteligence systému v oblasti dynamického přidělování zdrojů, která respektuje měnící se požadavky na služby. Příkladmo DPA – dynamické přidělení paketu. 
 </ul>
 <p>
 Jak vidíme, je to podobný sled faktorů, jaké jsme si uvedli jako směrodatné pro rychlost radiové sítě – až na to, že zde jsme podrobněji rozvedli faktory, které se projevují právě na straně radiového rozhraní. </p>
@@ -37,7 +37,7 @@ Jak vidíme, je to podobný sled faktorů, jaké jsme si uvedli jako směrodatn�
 <p>
 Nyní si dáme maličko zbytné matematiky – můžete ji samozřejmě nahradit slepou vírou ve výsledné tvrzení. </p>
 
-	<h4>Shannon - Hartleyova teorie</h4>
+<h4>Shannon - Hartleyova teorie</h4>
 <p>
 Pro vyjádření kapacity se v telekomunikacích již od pravěku (konkrétně rok 1948.) používá takzvaná Shannonova teorie <i>(ano. Claude Shannon je praotec úřednických šanonů, protože jeho práce na poli kapacity zasahovala prakticky do všech způsobů přenosu dat. A jeho <a href="http://www.vesmir.cz/clanek.php3?CID=5988">životopis zde</a>)</i>. Shannonova teorie vyjadřuje kapacitu kanálu C v bitech za sekundu pro kanál, na němž kromě užitečného signálu působí také bílý aditivní gaussovský šum (označovaný jako AWGN). Takový kanál nepochybně nemá nekonečnou kapacitu, neboť zmíněný šum na kanálu nedovolí rozlišit na straně přijímače jemnější změny zpracovávaného signálu, než je vlastní úroveň šumu. Shannon - Hartleyova teorie pak umožňuje vyjádřit maximální <b>kapacitu kanálu</b> jako:</p>
 
@@ -80,7 +80,7 @@ Pokud se normovaná šířka pásma W dostane nad hodnotu 1, je poměr signál/�
 <p>
 CDMA je nejmladší variantou radiokomunikačních multiplexů – po multiplexu frekvenčním a časovém (FDMA a TDMA). Jeho výhodou je kromě velmi vysoké přenosové kapacity také vysoká odolnost proti rušení, ať již přirozenému nebo úmyslnému. </p>
 
-	<h4>Jak je to konkrétně v UMTS</h4>
+<h4>Jak je to konkrétně v UMTS</h4>
 <p>
 Pokud bychom do Shannonova vzorce dostadili konkrétní hodnoty pro UMTS, kde je šířka kanálu 5 MHz, snadno zjistíme, že maximální kapacita dle Shannona je 20 Mb/s. Vzhledem k tomu, že samotné UMTS dnes definuje podle Release 99 rychlosti do 2 Mb/s, chápeme asi, že určitý prostor k dalšímu vylepšování zde stále je.</p>
 

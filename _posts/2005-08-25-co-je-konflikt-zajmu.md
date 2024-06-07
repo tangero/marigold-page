@@ -19,11 +19,11 @@ post_date: 2005-08-25 23:44:50
 
 <p>Asi není žádného sporu, že když se přihlásí o dotaci Karneval Media, že je v konfliktu zájmu pan Řežábek, stejně tak když se přihlásí Oskar je v konfliktu zájmu pan Mach, když bude chtít dotaci kraj Vysočina, že je konfliktu zájmu pan Pavlinec a když bude chtít dotaci TelCon, tak jsem v konfliktu zájmu já. Stejně tak budeme v konfliktu zájmů, když bude chtít dotaci ČAKK, APMS nebo IPV. Co tedy v těchto případech dělat?</p>
 
-	<ol>
-	<li>tyto firmy nesmí žádat o dotaci</li>
-	<li>mohou žádat, ale nesmíme hlasovat</li>
-	<li>mohou žádat, a je na nás, jestli budeme hlasovat</li>
-	</ol>
+<ol>
+<li>tyto firmy nesmí žádat o dotaci</li>
+<li>mohou žádat, ale nesmíme hlasovat</li>
+<li>mohou žádat, a je na nás, jestli budeme hlasovat</li>
+</ol>
 <p>V tomto případě bych byl asi pro druhou možnost, tedy všichni nahlásíme firmy, ve kterých působíme a bude-li tato firma chtít dotaci, nebudeme hlasovat. První případ by totiž znamenal, že budou muset všichni odstoupit, protože by jejich přítomnost byla proti zájmu své firmy či kraje. Třetí možnost je jasným a problematickým konlfiktem zájmu.</p>
 
 <p>Jenže pojďme dál. Co když se přihlásí o dotaci náš klient a nebo dodavatel? Tedy co když bude někdo, kdo má od Karnevalu přípojku, nebo někdo, kdo používá mobily Oskara, nebo někdo kdo bude chtít postavit projekt v kraji Vysočina a nebo někdo, komu bude moje firma poskytovat konzultace?! Jak byste odpověděli teď. Samozřejmě to, že by tyto firmy nesměly žádat o dotaci je nesmysl a jsou další dvě možnosti. Jenže já bych tentokrát byl pro tu třetí. Důvody jsou dva, předně ani nemusíte vědět, že jste v nějakém takovém konfliktu (pan Mach určitě nebude tušit, jestli daná firma používá mobily Oskara a bude mu to jedno), a potom by se toho totiž dalo zneužívat - řekněme, že ten, kdo by se chtěl zbavit dvou hlasů, které by mohly hlasovat proti němu by si koupil mobil Oskara a připojení od Karnevalu a nahlásil to - hned by bylo o dva rozhodčí méně.</p>

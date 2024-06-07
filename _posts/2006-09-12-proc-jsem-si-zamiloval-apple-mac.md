@@ -21,7 +21,7 @@ post_date: 2006-09-12 16:12:07
 
 	<div class="rightbox"><img src="/wp-content/uploads/20060912-macminibox.jpg" alt="Mac Mini v přepravní krabici" width="102" height="83" /></div><p>Pak mi PH doporučil Mac. Pokukoval jsem dlouho po nádherném Mac Mini a nakonec mi povolily nervy, zavolal jsem <a href="http://www.maler.cz">Malérovi</a> a odpoledne jsem si ho vyzdvihl. </p>
 
-	<h4>Unixový rebel s Wokny</h4>
+<h4>Unixový rebel s Wokny</h4>
 <p>První dobrou zprávou bylo, že Mac OS X je systém dostatečně rebelský a dostatečně produktivní. </p>
 
 <p>Rebelský v tom, že vzbouřenecká dušička může být klidná – nepracujete se systémem Microsoftu, dokonce pracujete na něčem, čemu lze říkat klon Unixu (konkrétně BSD). Když po tom budete toužit, můžete si pustit do okénka textovou konzoli a pracovat s ní, jak jste z Linuxu zvyklí. Jste v Unixu a pracujete s Okny.  </p>
@@ -36,7 +36,7 @@ Počítače Mac nezapřou, že jsou vytvořené pro kreativní lidi kreativními
 
 <p>Reklama to skvěle vystihuje. Rozdíl není v tom, že na PC byste si nemohli udělat webík s fotkami z dovolené. Jistě, že můžete. Jenže Mac mnohem více stírá rozdíl mezi prací a zábavou. Ponouká ke kreativitě. Je prostě pro trochu jiné lidi. Pokud byste Mac dali své sekretářce, asi byste ji neučinili šťastnější, pokud nemáte to štěstí na kreativní sekretářku. Jenže pokud sami potřebujete podporovat kreativitu, zamilovali byste si ho. Ne nadarmo je Mac stále častější volbou pro vývojáře a pisálky, od pradávna též pro grafiky. </p>
 
-	<h4>Mac a project management</h4>
+<h4>Mac a project management</h4>
 <p>Ukážeme si na příkladu z praxe, jaký je rozdíl mezi vedením projektu ve Windows a Mac. To je taková moje poslední aktuální zkušenost, na které je to dobře vidět. </p>
 
 <p>Při projektování potřebujete vlastně dvě věci. Naházet na hromadu myšlenky k projektu, roztřídit je, uspořádat je do plánu a případně k němu nakreslit nějaké organizační diagramy. U Windows si na to pořídíte software Microsoftu nazvaný MS Visio a MS Project, na Mac za zhruba stejné peníze zakoupíte programy OmniGraffle a OmniProject. Pro malý projektík můžete použít OmniOutliner, který je dodáván zdarma, ale nemá diagramy ani plánové stopy. </p>
@@ -65,14 +65,14 @@ Počítače Mac nezapřou, že jsou vytvořené pro kreativní lidi kreativními
 
 <p>Kdysi jsem dlouho hledal nějaký jiný program pro Windows, který by pracoval podobně, jako OmniGraffle. Nenašel jsem nic. Nakonec jsem našel jeden úžasný trik – celý textový nákres si můžete zhotovit v Excelu, textově popsat vazby a pak ho importovat do Visia. Vyzkoušel jsem to. Je to neuvěřitelný opruz, ale přeci jen o trochu menší, než ty šipečky, které věčně nesedí, pozivovat ručně. </p>
 
-	<h4>Textové editory</h4>
+<h4>Textové editory</h4>
 <p>Záhy jsem přišel na to, že používat programy, které jsou vytvořené prvoplánově pro Mac OS X je lepší, než používat převedené klony z Windows či Linuxu. Dobře je to vidět na textových editorech. Word je prostě Word, i když pro Mac je o něco vzhlednější, než pro Windows. Je na něm ale ta woknovitost dost vidět. Zvykl jsem si na Pages dodávané Applem, pokud chci hezkou stránku a pokud chci pracovat se zdrojovým textem, tak jsem sáhl po TextMate. TextMate je vývojové prostředí pro labužníky – podporuje zhruba šedesátku programovacích jazyků včetně PHP, Ruby on Rails a Pythonu.</p>
 
 <p>Další krásnou variantou na textové editory, která dokazuje, jak si lidé kolem Macu umí hrát, je <a href="http://www.hogbaysoftware.com/product/writeroom">WriteRoom</a>. Je to něco jako emulátor klasického psacího stroje. Strohá černá obrazovka, kterou můžete přepnout do full screen režimu, takže zabírá veškerou pracovní plochu Maca. Na ní zelený blikající kurzor. Žádné menu, nic. Proč to? Hlavně proto, že řada pisálků se nerada nechává při psaní něčím rozptylovat. Potřebují napsat text, soustředit se na jeho psaní a ne sledovat vyskakující ikonky kecálků nebo rolující novou poštu. Než to všechno vypnout, je jednodušší spustit WriteRoom a vrátit se do doby elektrických psacích strojů a a WordStaru. Základní funkce typu kopírování ovšem zůstaly. Pro windowsáře už vznikl klon zvaný <a href="http://they.misled.us/dark-room">DarkRoom</a>.</p>
 
 <p><img src="/wp-content/uploads/20060912-writeroom.png" alt="Writeroom" width="450" height="281" /></p>
 
-	<h4>Drobnosti</h4>
+<h4>Drobnosti</h4>
 <p>Mac překvapuje trvalým proudem drobností, které potěší. Například u notebooku s Windows mne vždy štvalo, že dlouho trvalo, než se vrátil do původního stavu. A to i při suspendu. Mac OS X notebook je připravený k další práci do vteřiny po otevření. Myslel jsem, že to bude mít špatný vliv na výdrž baterií, ale ani když jsem ho takhle nechal zavřený čtyři dny, indikátor baterie se nepohnul.</p>
 
 <p>Podobnou výhodu oceňuji každý den u stolního počítače. Nevypínám ho, pouze ho uspím. Probouzí se mi okamžitě po stisku klávesnice. Nečekám na bootování, nic. Přitom pokud je uspaný, pouze poblikává dioda, ale nic se v něm nepohybuje, nedělá kravál. S uspáváním PCček jsem měl vlastně jen špatné zkušenosti.  </p>
@@ -81,7 +81,7 @@ Počítače Mac nezapřou, že jsou vytvořené pro kreativní lidi kreativními
 
 <p>Věc, kterou jsem vynechal zcela, je Unixovitost Macka. Můžete na něm spouštět software určený pro svět Unixu a tak si můžete třeba ladit na lokále svůj web včetně PHP a MySQL. Skvělé pro zájemce o Linux - okna když potřebujete... </p>
 
-	<h4>Nechám se vyprovokovat. Rád.</h4>
+<h4>Nechám se vyprovokovat. Rád.</h4>
 <p>Za tu dobu, co Macka mám, mne samozřejmě pár lidí zkoušelo provokovat. Co když prý budu potřebovat spustit program, který na Mac není? Inu, to je jednoduché. V práci si spustím program <a href="http://www.parallels.com/en/products/desktop/">Parallels Desktops</a>, který mi umožní přiřadit mému dvoujádrovému procesoru operační systém pro každé jádro. Na jednom mi dál běží Mac OS X, na druhém mi běží třeba právě Windows. V okně Mac OS X samozřejmě. Vyzkouším, co potřebuji a pak Windows odstřelím. Vzhledem k tomu, že nejde o emulaci, je rychlost úměrná dvougigaherzovému procesoru a od té doby co mám 1,5 GB RAM nejsou ani s pamětí problémy. </p>
 
 <p>I to je důvod, proč přechod na Intel platformu považuji z hlediska Apple za velmi šťastné rozhodnutí. Když potřebuji pracovat s Apple, pracuji s ním. Když chci Windows, můžu přebootovat pomocí firemní utility do Windows nebo přes zvláště koupený Parallel Desktop spustit obojí najednou. Existuje i třetí cesta, jmenuje se CrossOver a umožní spustit Windows program přímo, bez zavádění Windows. Tu jsem ale nezkoušel. </p>
@@ -92,7 +92,7 @@ Počítače Mac nezapřou, že jsou vytvořené pro kreativní lidi kreativními
 
 <p>Další běžnou provokací je, že vám lidi začnou tvrdit, jak je Apple předražený. Od doby, kdy se montuje s Intel procesory to ověříte snadno, s kalkulačkou v ruce. Záhy zjistíte, že pokud berete v úvahu značkové (a často i jen „značkovější“) počítače, že Apple není nijak předražený. Rozdíly v ceně jsou zanedbatelné a odvíjejí se většinou od toho, že v ceně s Apple máte balíky software, které těžko nějak ocenit – třeba iLife. Otázka pak bude, zda vám stojí zato připlatit si za krásný počítač další tři tisícovky… </p>
 
-	<h4>Mac podporuje libovolný přístup</h4>
+<h4>Mac podporuje libovolný přístup</h4>
 <p>Nevýhoda mojí práce je její fragmentovanost. Nejsem vývojář, nedělám několik hodin v kuse jednu věc. Pokud se přes den něčemu soustavně věnuji hodinu v kuse, považuji to za rozsáhlou práci. Tu je třeba opravit v projektovém software něco, ve firemní Wiki upravit specifikaci, rychle upravit presentaci, spočítat v Excelu data. Odpovědět na email. Pak v Illustratoru prostudovat odvedenou práci a předat ji dalšímu grafikovi. Vrátit se k rozečtené analýze a vedle ní si odpočinkově prostudovat nabídku a návrh smlouvy. Na Macu jsem si zvykl mít tohle všechno pootvírané v mnoha oknech. Okna v Macu totiž nemají takové to šedé pozadí, jako ve Windows. Jsou průhledná a můžete skrze ně kliknout na aplikaci pod nimi. Pokud aplikace pod nimi má nějaký grafický výstup, vidíte skrze okna, co se v ní děje. </p>
 
 <p>Záměrně to tak používám a přecházím mezi okny, aniž bych je znovu otevíral a zavíral. Tohle se mi u PC dařilo jen u prohlížeče, protože tak elegantní přehled o všech otevřených úlohách se zde nedal kloudně získat a spodní lišta byla za chvíli posetá otevřenými programy. Navíc mít okna otevřená má ještě jednu výhodu. U Maca mohu vzít obsah jednoho okna za jeho nadpis a přetáhnout ho do jiného programu. Třeba do mail klienta nebo editoru. Ale jestli trváte na copy a paste, jde i to. </p>
@@ -101,7 +101,7 @@ Počítače Mac nezapřou, že jsou vytvořené pro kreativní lidi kreativními
 
 	<div class="rightbox"><img src="/wp-content/uploads/20060912-imac.png" alt="iMac 20 palců" width="214" height="237" /></div>Druhým důvodem, proč  jsem rád za iMaca je, že je to opravdu krásný a elegantní kousek hardware. I když je vypnutý, tak lahodí oku. </p>
 
-	<h4>Když je třeba jiný přístup</h4>
+<h4>Když je třeba jiný přístup</h4>
 <p>Mac je podle mne dobrá volba v momentě, kdy potřebujete získat skrze počítač jiný způsob přístupu a náhledu k informacím. Když chcete být méně závislí na světě Microsoftu. Když se chcete dostat ze stereotypu jednoho směru uvažování. Když potřebujete kreativně tvořit a ne studovat manuály. Když je čas na změnu. </p>
 
 <p>Přemýšlejte o tom, až si budete kupovat svůj další počítač. Zda ho potřebujete jen k práci, nebo zda ho chcete k životu. </p>

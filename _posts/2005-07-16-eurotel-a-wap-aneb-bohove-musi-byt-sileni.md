@@ -25,12 +25,12 @@ post_date: 2005-07-16 12:36:44
 
 <p>Další na téma Eurotel a WAP:</p>
 
-	<ul>
-	<li><a href="http://weblog.anicka.net/?act=read&amp;id=145">Eurotelí doublethink</a> - Anička.
+<ul>
+<li><a href="http://weblog.anicka.net/?act=read&amp;id=145">Eurotelí doublethink</a> - Anička.
 </li>
-	<li><a href="http://blog.macich.net/1121324917-drzost-eurotelu-nezna-mezi.html">Drzost Eurotelu nezná mezí</a> - Jiří Macich
+<li><a href="http://blog.macich.net/1121324917-drzost-eurotelu-nezna-mezi.html">Drzost Eurotelu nezná mezí</a> - Jiří Macich
 </li>
-	<li><a href="http://blog.dubr.net/clanek/eurotel-si-to-u-me-pokakal.htm">Eurotel si to u mě pokakal</a> (Ondra Dúbravčík)
+<li><a href="http://blog.dubr.net/clanek/eurotel-si-to-u-me-pokakal.htm">Eurotel si to u mě pokakal</a> (Ondra Dúbravčík)
 </li>
-	<li>A aby tu Eurotel nebyl sám za blba, tak ještě bokem přidám podobnou akci u Tele2 - <a href="http://suplik.petnik.cz/konec-dlouhych-pripojeni-s-tele2-qxxq392.html">Konec dlouhých připojení s TELE2</a> - (Internet a vše kolem)</li>
+<li>A aby tu Eurotel nebyl sám za blba, tak ještě bokem přidám podobnou akci u Tele2 - <a href="http://suplik.petnik.cz/konec-dlouhych-pripojeni-s-tele2-qxxq392.html">Konec dlouhých připojení s TELE2</a> - (Internet a vše kolem)</li>
 </ul>

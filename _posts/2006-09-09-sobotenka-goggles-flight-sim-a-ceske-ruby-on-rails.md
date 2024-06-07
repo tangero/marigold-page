@@ -19,12 +19,12 @@ post_date: 2006-09-09 12:01:34
 
 <p>Kromě toho jsem se začal pročítat materiály k <strong>Ruby on Rails</strong>. K mému překvapení jsme našel několik hezkých českých webů. Ruby je programovací jazyk a <a href="http://www.rubyonrails.org/">Ruby on Rails</a> je framework. Za mořem velmi populární, tak jsem se šel podívat, co na něm je. Něco na něm bude - dělá se v něm pěkně, čistě a rychle i mně, odkojenému Turbo Pascalem (ke kterému se mimochodem Borland znovu vrací stejně, jako se vrátil ke svému jménu - dočkám se toho, že budu moci znovu psát webové aplikace a to rovnou v Pascalu?).  </p>
 
-	<ul>
-	<li><a href="http://www.rubyonrails.cz/">RubyOnRails.cz</a></li>
-	<li><a href="http://www.root.cz/serialy/ruby-on-rails/">Seriál Ruby on Rails na Rootu</a></li>
-	<li><a href="http://www.penguin.cz/~radek/book/ruby/rails.html">Ruby on Rails a webové aplikace</a></li>
-	<li><a href="http://rails.jinak.cz/">Rails Jinak - grafika děsná, obsah super</a></li>
-	</ul>
+<ul>
+<li><a href="http://www.rubyonrails.cz/">RubyOnRails.cz</a></li>
+<li><a href="http://www.root.cz/serialy/ruby-on-rails/">Seriál Ruby on Rails na Rootu</a></li>
+<li><a href="http://www.penguin.cz/~radek/book/ruby/rails.html">Ruby on Rails a webové aplikace</a></li>
+<li><a href="http://rails.jinak.cz/">Rails Jinak - grafika děsná, obsah super</a></li>
+</ul>
 <p>Proč se mi Ruby on Rails líbí? Když vynechám programátorské úvahy, které ode mne znějí spíše komicky, než erudovaně, tak hlavním důvodem je fakt, že s nimi lze rychle nakódovat něco, co vám jinde zabere více času. V Ruby byla napsána řada projektů, které se mi hodně líbí. Například takové <a href="http://shopify.com">Shopify.com</a> - je to nádherný systém pro provoz eshopu. Pokud přemýšlíte o eshopu a můžete oželet tři procenta provize, <strong>Shopify je skvělá záležitost</strong>. Vypadá krásně a <a href="http://www.csonrails.net/">Ladislav Martinčík</a> to přeložil i do češtiny. Funguje to taky hezky, zrovna na tom jeden obchůdek stavím ... </p>
 
 <p>Bohužel žádná česká papírová kniha o Ruby on Rails neexistuje. Cpress k tomu ještě nedošel, ani Grada. Škoda. Objednal jsem si na Amazonu papírové, stáhl si digitální, ale papír chvíli poputuje a digitální já na čtení nerad. </p>

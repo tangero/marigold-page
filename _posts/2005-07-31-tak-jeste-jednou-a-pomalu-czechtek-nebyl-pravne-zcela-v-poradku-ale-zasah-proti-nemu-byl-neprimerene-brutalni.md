@@ -17,7 +17,7 @@ post_date: 2005-07-31 22:13:20
 <img src="/wp-content/uploads/20050731-zasah.jpg" alt="Právem hrdi na zásah?" width="472" height="354" />
 </center></p>
 
-	<h4>Fakt 1: CzechTek 2005 nebyl zcela v souladu se zákony</h4>
+<h4>Fakt 1: CzechTek 2005 nebyl zcela v souladu se zákony</h4>
 <p>Můj postoj se dá shrnout do dvou prohlášení, přičemž to první jsem ve článku nedeklaroval, protože jsem ho považoval za předem přijaté. To jest: CzechTek 2005 nebyl uspořádán zcela v souladu se zákonem. Co znamená zcela, je již diskutabilní a nemáme pro to všechny podklady, můžeme se ale minimálně domnívat, že akce nebyla řádně schválena, nebyla řádně vytyčena pronajatá zóna (tedy došlo k vstupu na cizí pozemek) a nebylo dostatečně dbáno na hygienické předpisy, zejména počet kadibudek na počet přítomných. Může být, že tam budou i další provinění. Oproti minulým ročníkům měla akce právně zcela jasně definovaného organizátora, i když účastníci tvrdí, že nikdo takový neexistuje (V. <strike>Šrubař</strike>Šroub, jméno na smlouvě s pronajimatelem pozemku) a také zcela legálně pronajatý pozemek 15 ha, slušná to plocha pro 5000 lidí, málo na 20 000 lidí.
 </p>
 
@@ -29,7 +29,7 @@ post_date: 2005-07-31 22:13:20
 
 <p>Svými osobními zkušenostmi na téma demonstrací, akcí a jejich pořádání si dovolím přispět na závěr. </p>
 
-	<h4>Fakt 2: Zásah policie byl zcela neadekvátní společenské nebezpečnosti akce, spojení policejní brutalita je zcela na místě. </h4>
+<h4>Fakt 2: Zásah policie byl zcela neadekvátní společenské nebezpečnosti akce, spojení policejní brutalita je zcela na místě. </h4>
 <p>Přemýšlel jsem o tom zleva zprava, nechal jsem ze sebe přes den vyprchat emoce, ale nevidím to jinak, než včera. Až doposud jsem byl přesvědčen, že český právní řád je založen na tom, že za provinění přichází sankce, která má být rozsahem odpovídající rozsahu provinění. Ergo nemůžete vzít brokovnici a zastřelit člověka jen z titulu toho, že vlezl na váš pozemek. Neuseknou vám ruku za to, že jste v krámě ukradli flašku vína. Holedbáme se tím, že právě tahle přiměřenost provinění a trestu nás povyšuje nad civilizace, jež považujeme za barbarské a kde zastávají názor, že trest má být vždy exemplární. Kupříkladu islám, kde právě tradice sekání rukou je trvale trnem v oku řadě států, jež se nazývají demokratické. Řada filosofů dokonce tvrdí, že exemplarita trestů je znakem autoritativních režimů a to je názor, se kterým souhlasím. </p>
 
 <p>Abychom si to předvedli v praxi. Jedete vozidlem, zastaví vás příslušník policie, požádá vás o doklady. Ejhle, zapomněl jste si doklady doma. Porušil jste legislativní rámec České republiky, protože jste povinen mít doklady u sebe a na výzvu příslušníka Policie je předložit. Přiměřené je, že dostanete pokutu, nebo vás příslušník zadrží do ověření vaší totožnosti, způsobilosti řídit vozidlo (=máte řidičák) a do zjištění právního vztahu k vozidlu (=ukradl/neukradl jste ho). Nebo obojí. Nepřiměřené je, že vás příslušník vytáhne z vozu, skope vás, rozmlátí vám přední sklo a ještě vám do auta hodí dýmovnici. Tomu by se říkalo policejní brutalita a má to za následek v lepším případě snížení platu o deset procent (policisty, ne vašeho), v horším vyhazov policisty ze služby, jeho obvinění a prošetření inspekcí ministerstva vnitra a případně obvinění a jeho potrestání. Tak to funguje tam, kde policie funguje dobře a policejní prezident pak oprávněně může prohlásit, že to nebylo „selhání systému, ale jednotlivce“.</p>
@@ -40,7 +40,7 @@ post_date: 2005-07-31 22:13:20
 
 <p>Stovka raněných na obou straných, jeden mrtvý, louky rozkorejněné vojenskými manévry, náklady v řádu milionů Kč, nic z toho nemůžeme ani při nejlepší vůli považovat za adekvátní trest. To je prachsprostý neadekvátní zásah, policejní brutalita, když bych psal do novin, neváhal bych říci teror. A přitom ještě nejde ani o trest, ty teprve začnou rozdávat soudy a jsem věru zvědav, komu přičtou vzniklé škody k tíži, protože teď teprve vznikly pořádné škody.   </p>
 
-	<h4>Policie může...</h4>
+<h4>Policie může...</h4>
 <p>Pokud jste milovník pořádku, řeknete nyní, že tekaři měli uposlechnout výzvy policie a odejít. Pokud tíhnete k anarchismu, namítnete, že nic špatného nedělali, tak proč by odcházeli. Pravda je, jak je zvykem, někde uprostřed. Když vám policista nakáže, že máte opustit prostor, jste povinen ho poslechnout. Když vám nakáže, abyste snědli svoje boty, jste rovněž povinni ho poslechnout a pak si na jeho počínání můžete stěžovat. Policista by měl vědět, na co má vůči vám nárok a právo, takže vám nebude přikazovat, abyste snědli svoje boty, leda by chtěl před již zmíněnou inspekci a nafasovat trest. V právním státě vám policista nenakazuje nesmysly. </p>
 
 <p>Příkaz opustit prostor není nesmyslný a od policie je oprávněný. Není třeba se teď dohadovat, zda ho dala policie dost jasně najevo, mnoho zpráv mi dochází o tom, že ho prostě nebylo slyšet a i lidé, kteří měli dobrou vůli nejít do konfliktu, ho prostě neslyšeli. Tolerance je třeba na obou stranách a profesionální potírači demonstrací a nepovolených shromáždění to vědí. Stačí chyba a jsou ranění i mrtví. Stačí, abyste dostali pendrekem do obličeje a místo vyznavače ahinsá se z vás stane bersekr – takhle vznikají krveprolití. Policie dobře věděla, že tekaři se přijeli bavit, ne se prát, dost podstatný rozdíl oproti demonstracím, jako byla ta na Mezinárodní měnový fond v Praze. Policie mohla přihlížet, mohla usměrňovat davy, napomínat je, aby nelezli, kam nemají. Mohla. Bylo to plně v její pravomoci. Pokud bychom spočítali všechny dopady, bylo by to jak ekonomicky, tak společensky přijatelnější. </p>
@@ -49,7 +49,7 @@ post_date: 2005-07-31 22:13:20
 
 <p><b>Výsledek této úvahy je stejný, jako včera: policie provedla neadekvátně brutální zásah k tomu, jaká byla společenská nebezpečnost činu. Nevyřídit jeden papír snad není nebezpečné. Chodit přes cizí louku je hnus, ale rozhodně ne důvod k mlácení lidí. </b> </p>
 
-	<h4>Akce v cizině</h4>
+<h4>Akce v cizině</h4>
 <p>Padly připomínky, proč se takové akce pořádají pouze u nás, nikoliv v cizině. Poprosil jsem známé v cizině, aby mi osvětlili situaci na západě. Jasně, že tam podobné akce jsou. Jen nejsou zakázané, ani perzekuované. Příkladem může být zmíněná berlínská Love Parade – nejdříve underground akce, dnes s ní město ochotně pomáhá. Problém je třeba v Německu v odlišné legislativě. Pokud akci pořádáte na pronajatém pozemku, máte pouze ohlašovací povinnost, takže eingeschrieben pošlete kde a jaká akce bude a zpět dostanete manuál, co musíte dodržet. Samozřejmě, může přijít kontrola, přepočítat počet záchodků a napařit pokutu. Pokud jde o státní či obecní pozemek, jsou na určité akce vyhražené určité pozemky, kde se prostě musíte vtlačit do mezery mezi ostatními akcemi a pak vás nechají, samozřejmě za úhradu nákladů. </p>
 
 <p>U nás, co si vzpomínám z jediné demonstrace, kterou jsem pořádal, je povinnost sice nazvaná ohlašovací, ale v praxi to znamená, že vám povolení uspořádat takovou akci, nemusí udělit. Pochybuji, že by něco jako CzechTek povolení dostalo, i kdyby se na hlavu stavělo, ale samozřejmě zkusit by se to mělo. </p>

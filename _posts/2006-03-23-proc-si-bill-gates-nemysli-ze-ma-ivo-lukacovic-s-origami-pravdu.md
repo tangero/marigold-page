@@ -13,14 +13,14 @@ post_date: 2006-03-23 11:19:50
 
 <p>V článku Ivo hezky shrnuje rozdělení přenosných zařízení do několika tříd. Dovolím si graf opajcnout metodou vložení obrázku ze vzdáleného serveru <em>(kontrolní otázka: je to porušní autorského práva?)</em>. </p>
 
-	<h4>Origami</h4>
+<h4>Origami</h4>
 <p>Zajímavá je ta druhá zóna, která se týká Microsoftího produktu Origami (<a href="http://www.microsoft.com/windowsxp/umpc/default.mspx">Origami koncept na webu MS</a>) – takového přerostlého PDAčka vybaveného plnohodnotným Windows XP. Ivo ji zakreslil jako Ultra Mobilní PC a označil ji za mrtvou zónu.</p>
 
 <p><img src="http://sweb.cz/ILblog/200603/origami.png" alt="Přenosná zařízení"/></p>
 
 <p>Vtip je v tom, že Bill Gates si evidentně nemyslí, že je to mrtvá zóna, protože jinak by vyhazoval peníze vložené do Origami z okna. Je sice pravda, že ještě před pár lety bychom se mohli domnívat, že jde o osobní Gatesovu zálibu, v které utopí firemní prachy, dneska je ale oprávněné říci, že Steve Ballmer by mu to nedovolil. Takže někde na konci cesty tam Microsoft peníze vidět musí. </p>
 
-	<h4>Kufříkáři</h4>
+<h4>Kufříkáři</h4>
 	<div class="rightbox"><img src="/wp-content/uploads/20060323-origami.png" alt="Origami koncept " width="332" height="230" /></div>
 <p>To kódové jméno jsou kufříkáři. Kufříkáři jsou lidi, kvůli kterým se vyrábí Smart a Smart je dobrý příklad. Když s ním přišla firma, v níž přes půlku drží Mercedes-Benz (jehož auta jsou cokoliv, jen ne malá), ledaskdo říkal, že jde o krásnou trefu do mrtvého segmentu trhu. K čemu by bylo drahé auto pro dva lidi? Auto, které je dražší, než běžné levné auto pro čtyři? Projděte si pár komentářů z let 1995-8. </p>
 
@@ -30,7 +30,7 @@ post_date: 2006-03-23 11:19:50
 
 <p>Zda bude tento trh stejně nosný, jako v případě Smartu, je těžké říci. Téměř jisté je, že v Česku nikoliv, ale Microsoft to nedělá pro Česko. Míří na bonitnější trhy. Amerika, vyspělé asijské země, vyspělá Evropa (což diskvalifikuje nás a další novoevropany).</p>
 
-	<h4>Neztratit trh</h4>
+<h4>Neztratit trh</h4>
 <p>Druhý důvod, proč Origami, je v parcelování trhu. Po podobném počítači se dlouho volá odbornými novináři, jenže s nimi na trh přicházejí firmy neznámé (OQO), nebo takové, pro něž je to na okraji zájmu a jen v některých regionech (Sony). Microsoft by mohl zatlačit rozhodně více, než nějaké OQO. Nezapomínejme na příklad MP3 přehrávačů. Existovaly dávno před iPodem. Jenže až iPod se stal ipodem, matkou všech MP3 přehrávačů. A Microsoft by nerad, aby mu ujel další vlak. Když máte pár miliard volné hotovosti na účtě, experimentuje se vám podstatně snadněji. Můžete si to dovolit.  </p>
 
 <p>Zda měl pravdu Ivo Lukačovič, nebo Bill Gates, uvidíme za pár let. Velmi pravděpodobně ale ne v našich končinách podívat se budeme muset za hranice bohatších států…

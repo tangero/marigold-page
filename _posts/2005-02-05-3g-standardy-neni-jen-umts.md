@@ -62,13 +62,13 @@ standardy, což je zatím opravdu spíše předpoklad. </p>
 
 <p><strong>IMT-2000 definuje tyto 3G standardy</strong>:</p>
 
-	<ul>
-	<li>W-CDMA</li>
-	<li>CDMA2000 </li>
-	<li>TD-CDMA/TD-SCDMA </li>
-	<li>DECT </li>
-	<li>UWC-136</li>
-	</ul>
+<ul>
+<li>W-CDMA</li>
+<li>CDMA2000 </li>
+<li>TD-CDMA/TD-SCDMA </li>
+<li>DECT </li>
+<li>UWC-136</li>
+</ul>
 <p>Ano, <strong>DECT je také 3G standard</strong>, ačkoliv ex principio
 jde o definici pro bezdrátové mobilní telefony. Jenže IMT-2000
 předpokládá použití DECT pro vytváření „telefonních hotspotů" jež mohou
@@ -92,7 +92,7 @@ označované jako CDMAone). Jde o ekvivalentní technologii ke GPRS. </p>
 
 <p>Tímto jsme se dostali ke zjištění, že vlastně existují tři typy plnohodnotných 3G standardů a to W-CDMA, CDMA2000 a TD-SCDMA. </p>
 
-	<h4>W-CDMA aneb UMTS</h4>
+<h4>W-CDMA aneb UMTS</h4>
 <p>3G standard WCDMA (nebo W-CDMA) je evropsko-japonský 3G standard a
 definuje jak terestrickou (pozemní) tak satelitní mobilní službu. Té
 pozemní se říká UTRA (UMTS Terrestrial Radio Access) a tu satelitní
@@ -107,15 +107,15 @@ pojetí WCDMA se mírně (ale podstatně!) liší, takže mobily ze sítě FOMA
 (NTT DoCoMo) nejsou bez úprav použitelné v UMTS. Píše se o tom
 například <a href="http://specials.ft.com/understanding3g/FT30GGRLENC.html"  target="_blank">zde</a>. Ale jinak je to vlastně totéž, jen to prostě mezi sebou nefunguje :))</p>
 
-	<h4>CDMA2000</h4>
+<h4>CDMA2000</h4>
 <p>Jde o americkou technologii, za níž stojí hlavně Qualcomm. Ačkoliv
 WCDMA i CDMA2000 mají v názvu shodně CDMA, jde o velmi odlišné
 technologie. CDMA2000 předpokládá dvě fáze nasazení: </p>
 
-	<ul>
-	<li><strong>1XRTT</strong> (s rychlostmi až 144 Kb/s) -známá též jako 1X</li>
-	<li><strong>3XRTT</strong> (s rychlostmi až 2 Mb/s) - známá též jako 3X</li>
-	</ul>
+<ul>
+<li><strong>1XRTT</strong> (s rychlostmi až 144 Kb/s) -známá též jako 1X</li>
+<li><strong>3XRTT</strong> (s rychlostmi až 2 Mb/s) - známá též jako 3X</li>
+</ul>
 <p>Z toho je vidět, proč EDGE původně patřilo k 3G technologiím:
 vlastně nabízelo totéž, jako CDMA2000 1X, jenže EDGE bylo technologicky
 blíže GSM/GPRS než UMTS, zatímco 1X je technologicky&nbsp;výrazně něco
@@ -130,16 +130,16 @@ systémy a to proto, aby přineslo signifikantní rozdíl oproti GSM/GPRS
 
 <p>CDMA2000 definuje ještě další dva vývojové stupně označované jako 1X EV tedy EVolution. </p>
 
-	<ul>
-	<li><strong>1X EV-DO</strong> - používá oddělené frekvence pro data a hlas (DO = Data Only)</li>
-	<li><strong>1X EV-DV</strong> - integruje hlas a data na stejnou frekvenci (DV = Data and Voice)</li>
-	</ul>
+<ul>
+<li><strong>1X EV-DO</strong> - používá oddělené frekvence pro data a hlas (DO = Data Only)</li>
+<li><strong>1X EV-DV</strong> - integruje hlas a data na stejnou frekvenci (DV = Data and Voice)</li>
+</ul>
 <p>První CDMA2000 systém spustil v říjnu 2000 korejský operátor SK
 Telecom, šlo o síť 1X. Šlo o první 3G síť na světě, následovaly další
 dvě korejské sítě na témže systému a to operátoři LG Telecom a KT
 Freetel, pak se začaly přidávat další a další operátoři zejména v USA. </p>
 
-	<h4>TD-CDMA/TD-SCDMA </h4>
+<h4>TD-CDMA/TD-SCDMA </h4>
 <p>Tento 3G systém je zase taková čínská radovánka. Čína má více
 uživatelů mobilů než kterákoliv jiná země a jejím výrobcům se nechce
 platit poplatky za patenty vážící se k 3G sítím. A tak tlačí na pilu
@@ -163,7 +163,7 @@ Opačně to ale platit nutně nemusí. Podrobnosti o TD-SCDMA najdete na <a href
 mi nějak nefunguje, třeba jen pro čínský internet. Aby nebylo legrace
 málo, Čína chce tuto svoji 3G technologii vyvážet i do dalších zemí...</p>
 
-	<h4>Takže kolik těch standardů vlastně je</h4>
+<h4>Takže kolik těch standardů vlastně je</h4>
 <p>Asi nad tím přemýšlíte celou dobu, kolik těch 3G standardů vlastně
 je. Inu, teoreticky máme jediný 3G standard nazvaný IMT-2000. Ten se
 ale prakticky dělí na dva standardy a to americký CDMA2000 a

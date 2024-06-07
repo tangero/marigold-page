@@ -31,12 +31,12 @@ Komunikace probíhá zcela jasně z prvku v bodě A, na prvek v bodě R, na něm
 
 <ul>
 <li>výhodou je cena řešení, potřebujete jen jeden aktivní prvek, máte menší náklady na elektriku, rozvaděč atd. </li>
-	<li>částečnou výhodou je rychlost zpracování u velmi malého počtu požadavků — pomalejší než u pasivní retranslace, ale rychlejší než u aktivní se dvěma prvky, kde se musí pakety převést přes Ethernet </li>
-	<li>s nárůstem provozu ovšem výrazně stoupají prodlevy a klesá propustnost, každý paket je totiž poslán stejným rozhraním, tj. v době, kdy byl poslán jeden fragment, musí vysílací stanice čekat, než jej centrální prvek pošle stejným rozhraním druhé stanici a teprve potom může vysílat další fragment </li>
-	<li>výhodou je i velmi snadný přechod na variantu s dvěma aktivními prvky v případě, že je vyžadována větší propustnost, bez velkých utopených nákladů </li>
-	<li>jako výhodu lze považovat i to, že je využíván jen jeden frekvenční kanál </li>
-	<li>spolu s body A a C se mohou připojovat i klienti, ovšem nelze jim pak přidělit vlastní segment a mohou způsobovat neplechu (dá se řešit prvky s podporou VPN) a ještě více zpomalují síť. Lepší je v tom případě připojit na Ethernet navíc AP vyhrazený čistě pro klienty. </li>
-	<li>můžete na AP snadno připojit Ethernet kabel a poskytnout tak Internet v budově, kde je retranslace. </li>
+<li>částečnou výhodou je rychlost zpracování u velmi malého počtu požadavků — pomalejší než u pasivní retranslace, ale rychlejší než u aktivní se dvěma prvky, kde se musí pakety převést přes Ethernet </li>
+<li>s nárůstem provozu ovšem výrazně stoupají prodlevy a klesá propustnost, každý paket je totiž poslán stejným rozhraním, tj. v době, kdy byl poslán jeden fragment, musí vysílací stanice čekat, než jej centrální prvek pošle stejným rozhraním druhé stanici a teprve potom může vysílat další fragment </li>
+<li>výhodou je i velmi snadný přechod na variantu s dvěma aktivními prvky v případě, že je vyžadována větší propustnost, bez velkých utopených nákladů </li>
+<li>jako výhodu lze považovat i to, že je využíván jen jeden frekvenční kanál </li>
+<li>spolu s body A a C se mohou připojovat i klienti, ovšem nelze jim pak přidělit vlastní segment a mohou způsobovat neplechu (dá se řešit prvky s podporou VPN) a ještě více zpomalují síť. Lepší je v tom případě připojit na Ethernet navíc AP vyhrazený čistě pro klienty. </li>
+<li>můžete na AP snadno připojit Ethernet kabel a poskytnout tak Internet v budově, kde je retranslace. </li>
 </ul>
 <div class="rightbox">
 <h5>Aktivní retranslace s více prvky</h5>
@@ -51,10 +51,10 @@ V klientském centru jsou pak vždy dvě <a href="http://www.wifishop.cz/inshop/
 
 <ul>
 <li>cena řešení je mírně vyšší než předchozí řešení, ale ne tolik, aby to byla nevýhoda </li>
-	<li>každý paket putuje postupně přes všechny prvky, nenastává tam žádné čekání, síť je tedy relativně rychlá </li>
-	<li>vesměs se používají dva frekvenční kanály (případně jeden a odlišná polarizace), pakliže ale vyzařovací diagramy nezasahují do sebe (pozor na zadní a boční vyzařování u špatných antén typu síto či yagi), je možné použít i jeden frekvenční kanál a polarizaci </li>
-	<li>spolu s body A a C se mohou připojovat i klienti, ovšem nelze jim pak přidělit vlastní segment a mohou způsobovat neplechu (dá se řešit prvky s podporou VPN) a zpomalují síť. Lepší je v tom případě propojit centrální prvky přes switch (mají-li jen jeden Ethernet port) a do něj připojit navíc AP vyhrazený čistě pro klienty </li>
-	<li>můžete na AP snadno připojit Ethernet kabel a poskytnout tak Internet v budově, kde je retranslace </li>
+<li>každý paket putuje postupně přes všechny prvky, nenastává tam žádné čekání, síť je tedy relativně rychlá </li>
+<li>vesměs se používají dva frekvenční kanály (případně jeden a odlišná polarizace), pakliže ale vyzařovací diagramy nezasahují do sebe (pozor na zadní a boční vyzařování u špatných antén typu síto či yagi), je možné použít i jeden frekvenční kanál a polarizaci </li>
+<li>spolu s body A a C se mohou připojovat i klienti, ovšem nelze jim pak přidělit vlastní segment a mohou způsobovat neplechu (dá se řešit prvky s podporou VPN) a zpomalují síť. Lepší je v tom případě propojit centrální prvky přes switch (mají-li jen jeden Ethernet port) a do něj připojit navíc AP vyhrazený čistě pro klienty </li>
+<li>můžete na AP snadno připojit Ethernet kabel a poskytnout tak Internet v budově, kde je retranslace </li>
 </ul>
 <div class="rightbox">
 <h5>Aktivní retranslace s WDS</h5>
@@ -65,15 +65,15 @@ Tento druh aktivní retranslace je analogický k prvnímu řešení, také využ
 
 <ul>
 <li>cena řešení je obdobná předchozím řešením, WDS jsou dnes vybaveny již téměř všechny prvky. Úspora ale může být při vícenásobných retranslacích (viz následující kapitola) </li>
-	<li>rychlost zpracování bývá pomalejší než předchozí varianty, WDS je značný žrout </li>
-	<li>výhodou je i velmi snadný přechod na variantu s dvěma aktivními prvky v případě, že je vyžadována větší propustnost, bez velkých utopených nákladů </li>
-	<li>musí být v celé WDS síti využit jen jeden frekvenční kanál (tj. když za sebou budete mít hada z pěti sériově WDS propojených AP, celá tato síť bude využívat jednu frekvenci). </li>
-	<li>lze propojit jen 5 AP na jiný AP pomocí WDS režimu (kvůli propustnosti se ale nedoporučují více než 2) </li>
-	<li>spolu s body A a C se mohou připojovat i klienti, kteří jsou na vlastním segmentu, i tak ale zpomalují síť. Lepší je v tom případě připojit na Ethernet navíc AP vyhrazený čistě pro klienty. </li>
-	<li>můžete na AP snadno připojit Ethernet kabel a poskytnout tak Internet v budově, kde je retranslace. </li>
-	<li>můžete mít v celé síti jen jeden prvek, síť je tedy snadno spravovatelná </li>
+<li>rychlost zpracování bývá pomalejší než předchozí varianty, WDS je značný žrout </li>
+<li>výhodou je i velmi snadný přechod na variantu s dvěma aktivními prvky v případě, že je vyžadována větší propustnost, bez velkých utopených nákladů </li>
+<li>musí být v celé WDS síti využit jen jeden frekvenční kanál (tj. když za sebou budete mít hada z pěti sériově WDS propojených AP, celá tato síť bude využívat jednu frekvenci). </li>
+<li>lze propojit jen 5 AP na jiný AP pomocí WDS režimu (kvůli propustnosti se ale nedoporučují více než 2) </li>
+<li>spolu s body A a C se mohou připojovat i klienti, kteří jsou na vlastním segmentu, i tak ale zpomalují síť. Lepší je v tom případě připojit na Ethernet navíc AP vyhrazený čistě pro klienty. </li>
+<li>můžete na AP snadno připojit Ethernet kabel a poskytnout tak Internet v budově, kde je retranslace. </li>
+<li>můžete mít v celé síti jen jeden prvek, síť je tedy snadno spravovatelná </li>
 </ul>
-	<h5>Další možné topologie a závěr</h5>
+<h5>Další možné topologie a závěr</h5>
 <p>
 Probral jsem tři nejčastější řešení, zbytek jistě zvládnete sami. Můžete využít i ad-hoc (peer-to-peer) režimu bez přístupových bodů (viz přechozí části seriálu), rozhodně bych to ale z bezpečnostních a managovacích důvodů nedoporučoval. Potřebujete-li udělat řešení přes více retranslací, potom můžete mít na každém druhé retranslaci první způsob a na ostatních druhý (tj. klient → <b>AP</b> → <b>klient + AP</b> → klient — tučně jsou zvýrazněny retranslace, klient + AP znamená, že jsou propojeny Ethernetem), nebo můžete využít čistě druhého řešení (tj. klient → <b>AP + klient</b> → <b>AP + klient</b> → AP nebo AP → <b>klient + klient</b> → <b>AP + AP</b> → klient a nebo jiná kombinace) a nebo i WDS režimu (AP → <b>AP (WDS)</b> → <b>AP (WDS)</b> → klient).</p>
 <p>

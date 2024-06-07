@@ -13,7 +13,7 @@ post_date: 2006-08-23 16:56:34
 
 <p>Pravda je, že jsem poplach z tohoto směru očekával. RH nevynechá příležitost dokazovat si na mně, o co je moc lepší. Dělá to tak často, že mám podezření, že jsem unií schválená měrná jednotka, bohužel si pak vždy vzpomenu, že to dělá z prozaičtějšího důvodu. Zastal jsem se kdysi lidí, které bezdůvodně napadal. Na můj vkus málo důsledně a zřídkavě, na jeho až příliš. </p>
 
-	<h4>Proto existuje licence - aby bylo jasné, co se má a co nemá</h4>
+<h4>Proto existuje licence - aby bylo jasné, co se má a co nemá</h4>
 <p>Abych to zkrátil. Ano, <a href="http://www.jagg.cz">Jagg</a> je instalací Scuttle. Pročetl jsem si licenční podmínky a ty to přímo povolují. Na co by taky někdo dělal software jako OS, kdyby nepovolil jeho instalaci. Že jsem ani nezměnil design? Proč bych to dělal, tenhle se mi líbí. A je také OS. Pokud si projdete referenční projekty Scuttle, prakticky nikdo ho nezměnil, maximálně používá ten starší. Polovina instalací Wordpressu používá nějakou free šablonu. </p>
 
 <p>Že jsem to nezmínil ve článku? Stejně tak jsem nezmínil, že server běží na Linuxu. Licence to nevyžaduje a byl jsem zvědavý, kdo na to přijde. Jiný smysl to nemělo. V sekci o projektu je na software odkaz. RH opět bystře vyvodil moji neetičnost z toho, že jsem tam přímo nenapsal, jak se soft jmenuje a je na něj jen odkaz. Inu, to je ten "otrocký překlad", jak jej nazval - mrkněte na <a href="scuttle.org/about">http://scuttle.org/about</a> a <a href="http://jagg.cz/about">jagg.cz/about</a> dolů a zjistíte, že ani originál jméno nepoužívá. Prostě se jménem software pracuje jako s proměnou a když si server přejmenujete (k čemuž je to výslovně určeno), tak se změní všechna jména v textech. Jména hloupých na všech sloupích. </p>
@@ -26,7 +26,7 @@ post_date: 2006-08-23 16:56:34
 
 <p>Bylo by laciné připomínat, že zatímco použití open source není ani nelegální, ani nemorální, tak neoprávněné používání  magisterských titulů či <a href="http://www.dgx.cz/trine/item/causa-copyrighty-game-over">mazání cizích copyrightů ze zdrojáků</a> je zřejmě obojí. O tom to není. </p>
 
-	<h4>Dělat z lidí blbce - to mi vadí</h4>
+<h4>Dělat z lidí blbce - to mi vadí</h4>
 <p>Horší je, že tenhle tón nesmyslné agrese se nese skrze všechny Radkovy články. Šíření výmyslů, netolerance, absolutní soběstřednost a neschopnost akceptovat jiná hlediska a potřeby - to je společný průvodní znak většiny Radkových článků. To mne štve. Že šířením něčeho, čemu nemůže ani sám věřit, dezorientuje ostatní. </p>
 
 <p>Naprostá polarita, nesmyslné zobecňování.<em> Apple je hrozný, iPod je pro dementy, kteří si neumí koupit Creative a podlehnou reklamní masáži. Blog CMS je nejlepší a všechno ostatní nedodělek. Jedině <s>Siemens</s> Sony Ericsson P990 je to pravé, to co vymyslí Nokia je šmejd.</em> <strong>Svět je jen černý nebo bílý a kdo nemá stejné potřeby, jako já, je neúspěšný looser.</strong> Že se někomu nechce trávit život tuněním své grafické karty nebo pícháním kůzlátek, to Radka nenapadne.  </p>

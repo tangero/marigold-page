@@ -14,7 +14,7 @@ Na MobilManii se Martin Zikmund rozepsal ve článku <a href="http://www.mobilma
 
 <ul>
 <li>EDGE/GPRS je vhodné pro uživatele, kteří potřebují data přenášet občas a jejich celkový objem zdaleka nepřekročí v korunách sumu, kterou by platili za CDMA. Týká se to hlavně občasných stahovačů pošty a občasných surferů, kteří přenesou spíše max destíky MB dat za měsíc. Těm se nevyplatí datový paušál.</li>
-	<li>CDMA Eurotelu (Data Express) je vhodný pro lidi, kteří potřebují trvalé připojení k internetu bez ohledu na objemy dat. CDMA nabízí výrazně vyšší rychlosti. Výjimkou jsou lidé, kterým se nehodí modem připojený přes USB nebo mají problém s pokrytím CDMA.</li>
+<li>CDMA Eurotelu (Data Express) je vhodný pro lidi, kteří potřebují trvalé připojení k internetu bez ohledu na objemy dat. CDMA nabízí výrazně vyšší rychlosti. Výjimkou jsou lidé, kterým se nehodí modem připojený přes USB nebo mají problém s pokrytím CDMA.</li>
 </ul>
 <p>
 <strong>Několik argumentů pro tuto úvahu:</strong> za 700 Kč (to je měsíční paušál T-Mobile Unlimited GPRS) dostanete 21-38 MB přenesených dat (dle doby, kdy datujete), pokud je přenášíte v tarifu T-Mobile Standard, což je první tarif pro mobilní data s nějakými snesitelnými poplatky za objem přenesených dat. Z toho se dá usoudit, že pokud přenášíte více, jak těch 20-30 MB dat měsíčně, je lepší zvolit si paušální datový tarif. </p>

@@ -13,7 +13,7 @@ post_date: 2005-09-24 11:23:19
 
 <p>Služba je postavena na SIP protokolu a tady jsou ceny. Jak vidno, jedna z mála VoIP nabídek, kde se ještě více hraje na špičku a mimo špičku a meziměstské hovory...</p>
 
-	<h3></a>Ceník služeb Xphone</h3>
+<h3></a>Ceník služeb Xphone</h3>
 	<table cellpadding="0" cellspacing="0" id="tarifPrehled">
 						<thead>
 							<tr>

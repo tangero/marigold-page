@@ -16,11 +16,11 @@ Pokud jde řeč o UMTS, většinou se tato síť třetí generace tváří jako 
 UMTS především není žádný technický zázrak, ačkoliv tvrzení o komplexnosti tohoto systému je pravdivé. UMTS prakticky kompletně vychází z předchozích návrhů buňkových sítí jako je GSM nebo NMT a byť to zní nactiutrhačně, dovolil bych si říci, že UMTS není žádnou revolucí. Zatímco GSM přineslo oproti NMT digitalizaci a NMT oproti nulté generaci právě tu buňkovou strukturu, UMTS ve svém prvním standardu mnoho nového nenabídlo.
 </p>
 
-<!--more-->	<h4>Jádro sítě</h4>
+<!--more--><h4>Jádro sítě</h4>
 <p>
 Síť UMTS můžeme tedy rozdělit do dvou hlavních částí. Tou první je jádro sítě tedy core network, CN. Jádro sítě je hromada počítačů, které jsou převlečeny do nejrůznějších funkcí řízení a správy sítě, jako je autorizace uživatelů, směrování provozu v síti i mimo ni. Řekli bychom, že jde o routery, autorizační a databázové servery, ale vzhledem k tomu, že některé tyhle routery se starají ne o paketovou, ale okruhovou síť, přidržíme se u nich tradičnějšího označení &#8220;ústředny&#8221;. Ve všech nákresech struktury jádra sítě najdete ještě hromadu další techniky, ta je ale pro nás nyní nepodstatná a abstrahujme od ní, neboť se stará prakticky výhradně o autorizaci a sběr dat (zejména pro účtování).</p>
 
-	<h4>Přístupová síť a základnová stanice</h4>
+<h4>Přístupová síť a základnová stanice</h4>
 <p>
 Druhou částí sítě je takzvaná přístupová síť. UMTS je benevolentní standard a tak povoluje přístup přes nejrůznější druhy přístupových sítí, většinou ale dosti obskurních, jako je Hiperlan nebo satelitní připojení. V praxi je zatím použitelná jedna z nich a to UTRAN, terestrická síť v pásmu 2GHz. </p>
 
@@ -31,7 +31,7 @@ Přístupová síť svůj signál distribuuje prostřednictvím základnových s
 <img src="/wp-content/uploads/20041007-UMTSsit.jpg" alt="architektura UMTS" width="502" height="272" />
 <br /><i>Tady vidíte síť v skoro-plné kráse. My jsme si to opravdu zjednodušili. Zatímco vše vlevo jsme pojmenovali přístupovou sítí, vše vpravo od těch zkřížených čar jsme pojmenovali jádrem sítě. Zbytek zatím nemusíte nijak studovat, většinu toho ještě vykostíme příště. Poznámka: ty BTS a BSC vlevo dole jsou připojením GSM sítě&#8230;</i></p>
 
-	<h4>Release 99</h4>
+<h4>Release 99</h4>
 <p>
 Celá funkce UMTS je tedy zjevně stejná, jako u GSM. Mobila se přes přístupovou síť (UTRAN) připojí k základnové stanici a z ní se předá její požadavek do jádra sítě, které ho odbaví, například propojí do telefonní sítě a odezvu z telefonní sítě pošle stejnou cestou zpět. Jak easy. Snadno nazřeme, že je záhodno, aby UMTS síť měla více základnových stanic a můžeme si také odvodit, že může mít i více jader sítě, což vnese trochu vzrušení do našeho zjednodušujícího pohledu, ale zase nic zásadního to není. Handover z GSM již známe a u UMTS je to podobné, snad s tím rozdílem, že handover je v UMTS (tedy správně na UTRAN) komplexnější záležitost. Ale o tom až v momentě, kdy se to dotkne rychlého přenosu data&#8230;</p>
 
@@ -44,30 +44,30 @@ První standard UMTS se jmenuje Release 99 (též Rel99 nebo R99) a poslední č
 <p>
 Release 99 je vlastně posunem GSM do 3G pásma a do širokopásmového přenosu. Zatímco GSM si vystačilo se šířkou radiového kanálu 200 kHz, jeden radiový kanál má v UMTS šířku rovných 5 MHz. Namísto TDMA se používá WCDMA s časovým nebo frekvenčním duplexem podle toho, jaké pásmo si operátor koupil a pokud byl utrácivý a koupil si pásmo pro obě, pak podle typu služby. Zjednodušeně řečeno to je celá odlišnost UMTS Release 99 od GSM Phase 2 Release 99. </p>
 
-	<h4>Kde se vzala rychlá data?</h4>
+<h4>Kde se vzala rychlá data?</h4>
 <p>
 To je správná otázka – jak to, že data putují v UMTS síti rychleji, než v GSM síti po GPRS? Zjednodušeně řečeno proto, že v UMTS síti je více místa. Jak vidíme, mobilka v UMTS síti obsluhuje 25x širší pásmo, takže teoreticky může nabídnout 25x vyšší rychlost. V praxi je to samozřejmě trochu jinak, zatímco na GPRS dnešní mobily vytáhnou pro download maximálně tak 90 Kb/s, u UMTS je nejvyšší běžná rychlost 384 Kb/s. Ty 2 Mb/s, co čítáte v rozjásaných zprávách operátorů, je taková hezká teorie – to je teoretická maximální rychlost u nepohybující se stanice, která sežrala jeden sektor celý pro sebe, tedy stav, který operátoři jistě rádi vidí a podporují. Nehledě na to, že se u takové rychlosti původně ani nepředpokládalo, že  takovou rychlostí bude disponovat běžná mobilka, ta byla předpokládána pro stacionární modemy velikosti krabice od bot s napájením ze sítě, protože vysílat v tak širokém pásmu řekněme půl wattem výkonu není nic, co by baterka vašeho notebooku utáhla dlouho. </p>
 
 <p>
 Jak vidno, UMTS šlo na rychlá data metodou brutální síly, tedy rozšířením pásma, jímž mohou rychlá data proudit. Mezi tím ale do GSM sítí dorazilo EDGE se svou inovativní myšlenkou, že data by mohla proudit rychleji také tím, že by se zvýšila inteligence, s jakou jsou tato data kódována, tedy že by se zlepšily kodeky starající se o odbavování dat. Současné zvyšování rychlostí mobilních dat jde zejména tímto směrem. </p>
 
-	<h4>Zrychlujeme data</h4>
+<h4>Zrychlujeme data</h4>
 <p>
 Na rychlost dat působí několik faktorů:</p>
 
-	<ul>
-	<li>šířka radiového kanálu kterou u UMTS už není vhodné dále zvyšovat 
+<ul>
+<li>šířka radiového kanálu kterou u UMTS už není vhodné dále zvyšovat 
 </li>
-	<li>šířka disponibilního pásma vyhrazeného pro síť (závisí na tom, kolik operátor nakupoval a lze z jeho strany velmi dobře regulovat dalším nákupem či zahuštěním sítě)
+<li>šířka disponibilního pásma vyhrazeného pro síť (závisí na tom, kolik operátor nakupoval a lze z jeho strany velmi dobře regulovat dalším nákupem či zahuštěním sítě)
 </li>
-	<li>způsob kódování přenášených dat (populární od dob GPRS)
+<li>způsob kódování přenášených dat (populární od dob GPRS)
 </li>
-	<li>prevence proti chybám při přenosu (vykradeno z bezdrátových sítí)
+<li>prevence proti chybám při přenosu (vykradeno z bezdrátových sítí)
 </li>
-	<li>řešení chyb při přenosu (vykradeno tamtéž)
+<li>řešení chyb při přenosu (vykradeno tamtéž)
 </li>
-	<li>počet aktivních prvků sítě, které jsou na trase přenosu až do cílového bodu dat (příjemné dilema, co udělat s architekturou UMTS sítě, kde data putují přes 20 prvků sítě a na každém naberou 10 milisekund zpoždění vlivem kódování/dekódování. Kdyby standardizátoři četli tento turboúvod, věděli by, stejně jako víte už teď vy, že počet prvků je vhodno redukovat. Naštěstí ho nečetli, takže jim to alespoň funguje.)</li>
-	</ul>
+<li>počet aktivních prvků sítě, které jsou na trase přenosu až do cílového bodu dat (příjemné dilema, co udělat s architekturou UMTS sítě, kde data putují přes 20 prvků sítě a na každém naberou 10 milisekund zpoždění vlivem kódování/dekódování. Kdyby standardizátoři četli tento turboúvod, věděli by, stejně jako víte už teď vy, že počet prvků je vhodno redukovat. Naštěstí ho nečetli, takže jim to alespoň funguje.)</li>
+</ul>
 <p>
 Je vidět, že první dva faktory jsou dané nebo neřešitelné z hlediska UMTS standardu. Vývoj tedy kráčí ve šlépějích zbývajících čtyř bodů (no, možná mne časem napadnou další). Protože to je na delší povídání, nechám si to zase na příště, pokud mne samozřejmě s Bláznovým turboúvodem do UMTS zcela nevypískáte. Podíváme se především na to, co lze z UMTS sítě vyhodit, abychom se dostali přibližně do stavu, který tu popisuji už nyní já – proto jsem vás nezatěžoval ostatně výklady hlubší architektury, protože pohybem z Release 99 do Release 5 většinu těch krabic vypakujeme nebo zdredukujeme.</p>
 

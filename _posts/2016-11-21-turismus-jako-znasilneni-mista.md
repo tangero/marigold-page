@@ -26,6 +26,6 @@ Příběh nemá morální ponaučení a omlouvám se, pokud jste dočetli až se
 Chtěl jsem říct tři věci: 
 <ol>
 <li>Chápu, jak podstatná místa to pro lidi tehdy byla a jak nepodstatnými se staly dnes. Teď to víte taky. </li>
-	<li>Z důvodu bodu jedna si taková místa snažím nosit v sobě, místo toho, abych je budoval vně sebe. Nechci, aby se mi tam courali lidi, kteří je nechápou a nechápou ani mne. A já taková místa potřebuju taky, i když nejsem císař. Každý je potřebuje, kdo nestojí sehnutý u montážního pásu, jen ne každý to ví.</li>
-	<li>S ohledem k bodu 1 nesnáším tyhle turistické cesty. Nikdy - už dlouhá léta necestuju někam jako turista. Nechci být ten, kdo je někde zbytečně v místě, které pro někoho něco znamenalo a pro mě znamená jen čučení a podiv. Strčte si tyhle zážitky za klobouk, nic neznamenají. Bez vztahu k tomu místu, bez hluboké znalosti, vůbec nic.</li>
+<li>Z důvodu bodu jedna si taková místa snažím nosit v sobě, místo toho, abych je budoval vně sebe. Nechci, aby se mi tam courali lidi, kteří je nechápou a nechápou ani mne. A já taková místa potřebuju taky, i když nejsem císař. Každý je potřebuje, kdo nestojí sehnutý u montážního pásu, jen ne každý to ví.</li>
+<li>S ohledem k bodu 1 nesnáším tyhle turistické cesty. Nikdy - už dlouhá léta necestuju někam jako turista. Nechci být ten, kdo je někde zbytečně v místě, které pro někoho něco znamenalo a pro mě znamená jen čučení a podiv. Strčte si tyhle zážitky za klobouk, nic neznamenají. Bez vztahu k tomu místu, bez hluboké znalosti, vůbec nic.</li>
 </ol>

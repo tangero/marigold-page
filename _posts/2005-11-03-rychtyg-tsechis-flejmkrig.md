@@ -21,7 +21,7 @@ post_date: 2005-11-03 09:24:31
 
 <p>Aby bylo ještě veseleji, do toho všeho se přidal Cheese se <a href="http://www.cheese.cz/blog/index.php/2005/11/01/well_deleted_copyrights_radek_hulan">svým (dle mého soudu kultivovaně sděleným) názorem</a>, za nějž mu <a href="http://www.cheese.cz/blog/index.php/2005/11/02/mit_nazor_je_nebezpecna_nemoc">R. Hulán pohrozil žalobou</a>, pokud jej nesmaže a neomluví se. Pro mne markantní výhodou této žaloby je, že jsem bezpracně zjistil jméno jednoho ze čtenářů Marigolda. </p>
 
-	<h4>Závěr - lze vůbec nějaký udělat? </h4>
+<h4>Závěr - lze vůbec nějaký udělat? </h4>
 <p>Jsem nestranný pozorovatel, pokud se to tak dá říci. Jednu stranu sporu znám více, než je mi milo a tu druhou málo. Oba programy používám a v případě toho jednoho je mi to opravdu, ale upřímně líto právě kvůli chování autora. Argumentačně to R. Hulán prohrál, protože všechny jeho argumenty byly zatlučeny do zemně silnějšími protiargumenty. Lidsky to prohrál, protože ani na to konto nebyl ochoten se omluvit za bohaté rozdávání sofistikovaných přídomků, nadávek a výhrůžek. </p>
 
 <p>Ale flejmwár to byl fakt fajny. Taky se na zapadě neurodi, je tak?</p>

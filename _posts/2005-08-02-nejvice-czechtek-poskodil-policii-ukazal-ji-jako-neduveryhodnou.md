@@ -30,12 +30,12 @@ post_date: 2005-08-02 08:21:00
 
 <p>Možností je několik:</p>
 
-	<ul>
-	<li>1. náměstek policejního prezidenta ještě odpoledne nevěděl, co se stalo</li>
-	<li>2. policie náměstka vůbec neinformovala</li>
-	<li>3. techaři vymlácená skla a dýmovnice zinscenovali sami</li>
-	<li>4. Husák o incidentech věděl a popřel je </li>
-	</ul>
+<ul>
+<li>1. náměstek policejního prezidenta ještě odpoledne nevěděl, co se stalo</li>
+<li>2. policie náměstka vůbec neinformovala</li>
+<li>3. techaři vymlácená skla a dýmovnice zinscenovali sami</li>
+<li>4. Husák o incidentech věděl a popřel je </li>
+</ul>
 <p>Pokud by byly pravdou body 1 a 2, napovídalo by to o  hlubokém problému v policii, něco na ten způsob, že si tam každý dělá co chce a náměstek policejního prezidenta je všem policajtům pro legraci nebo o tom, že náměstek se nevěnuje svojí práci a do televize raději něco plácne, než aby to přiznal. </p>
 
 <p><strong>Bod tři je tím bodem, který nám až doposud policie vnucovala.</strong> Vždy nám vysvětlovala, že zásah byl přiměřený, k porušení pravomocí policie nedošlo a skazky o policejní brutalitě  jsou výmysly demonstrantů a podobné verbeže. Doposud jsme jí to věřili. Věřili jsme, že czechtek jsou feťáci, sjezd bezdomovců, nejhorší spodina a lůza. </p>
@@ -44,13 +44,13 @@ post_date: 2005-08-02 08:21:00
 
 <p>Co si ještě policie vymyslela a kde nám lhala? Věříme jí, že policisté sdělovali při zásahu svá identifikační čísla a nezakrývali si je? </p>
 
-	<h4>Mrtvý - kamion nebo policie?</h4>
+<h4>Mrtvý - kamion nebo policie?</h4>
 <p>Nejhorší je případ jednoho mrtvého. Spekulace včera rozvířila Nova, když citovala názor demonstrujících, že jde o člověka, kterého přejela policejní dodávka, když najela do techařů. Policie ho pak naložila a odvezla na dálnici a prohlásila za sraženého kamionem. Co je pravda? Policie lhala nebo si přitahovala k sobě informace v podstatně méně důležitých případech, než je smrt člověka, takže o její přesvědčení, že toho mrtvého srazil kamion, se opřít nemůžeme. A to je to nejhorší – nejistota a nedůvěra k těm, kteří nás mají chránit. Přesně tohle by se totiž stalo, kdyby se policie chtěla zbavit problému a přesně tohle se stalo již několikrát v minulosti, viz citované nejmarkantnější případy Stodolovi a Krejčíř. </p>
 
 <p><b>Update:</b> <a href="http://www.techno.cz/party/report/2005/0730czechtek_t-rex/image544.htm">našel jsem fotku</a>, která je snad o tom. Policejní dodávka najíždí do demonstrantů, kluk zůstává pod koly a koukají mu jen nohy zpod auta. Otřesná scéna.
 </p>
 
-	<h4>Cesta končila na pronajatém pozemku</h4>
+<h4>Cesta končila na pronajatém pozemku</h4>
 <p>Naposledy se jako nepravdivé ukázalo tvrzení, že přístupové cesty nekončily na pronajatých pozemcích. Už se našly katastrální mapy, které dokazují, že toto tvrzení je nepravdivé. Červeně jsou označené pronajaté pozemky (jen faktická připomínka, pronajaté pozemky dále pokračují mimo mapu, ale už to není podstatné), fialovou tečkou je vyznačena přístupová cesta, tedy účelová komunikace, ostatní barvy označují pozemky jiných majitelů a to pozemkového fondu, města Přimdy a jednoho soukromého majitele (ta modrá). Pokud by policie nechala účastníky procházet pouze po účelové komunikaci, mělo být všechno v pořádku. Podrobně a s lepší fotodokumentací to <a href="http://www.blisty.cz/2005/8/2/art24371.html">najdete rozebrané na Blistech</a>.</p>
 
 <p><a href="http://www.marigold.cz/media/1/20050802-katastralnimapa.jpg">
@@ -63,10 +63,10 @@ Stereotypy</strong></p>
 
 <p><b>Utápíme se v podružných  otázkách a argumentech. Podstatné jsou dvě otázky: </b></p>
 
-	<ul>
-	<li>1) Souhlasíme s tím, aby policie vymáhala práva pouze selektivně a to i brutálním postupem? </li>
-	<li>2) A máme ještě stále důvěru v Policii ČR, že nám nelže, že nevytváří vykonstruovaná obvinění a že vše probíhá tak, jak tvrdí?</li>
-	</ul>
+<ul>
+<li>1) Souhlasíme s tím, aby policie vymáhala práva pouze selektivně a to i brutálním postupem? </li>
+<li>2) A máme ještě stále důvěru v Policii ČR, že nám nelže, že nevytváří vykonstruovaná obvinění a že vše probíhá tak, jak tvrdí?</li>
+</ul>
 <p>Pokud jsou odpovědi na obě otázky kladné, pak se nic nestalo a můžeme na celou věc s klidným svědomím zapomenout.  </p>
 
 <p>V opačeném případě je chyba někde jinde a řešit ji bude v rámci české společnosti velmi obtížné a zdlouhavé. Začít by ale mohli pánové Paroubek a Bublan. Tím, že odstoupí.</p>

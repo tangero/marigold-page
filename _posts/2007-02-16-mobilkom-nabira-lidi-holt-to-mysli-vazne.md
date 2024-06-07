@@ -16,11 +16,11 @@ post_date: 2007-02-16 09:27:39
 Takže jen namátkou pár úlovků:
 
 <ul>
-	<li>Marek Sláčík, šéf marketingu, dříve ředitel pro marketing - korporátní segment, Telefónica O2, zodpovědný za rebrending na O2. </li>
+<li>Marek Sláčík, šéf marketingu, dříve ředitel pro marketing - korporátní segment, Telefónica O2, zodpovědný za rebrending na O2. </li>
 
-	<li>Radek Vodra je nový CIO, známe ho jako zakladatele Digital Resources a.s.</li>
+<li>Radek Vodra je nový CIO, známe ho jako zakladatele Digital Resources a.s.</li>
 
-	<li>Pavel Sunda bude mít na starosti BSS/OSS, před tím šest let u Oskar/Vodafone senior manažer pro integrace řešení.
+<li>Pavel Sunda bude mít na starosti BSS/OSS, před tím šest let u Oskar/Vodafone senior manažer pro integrace řešení.
 </li></ul>
 
 Pokud máte další personální tipy na typy, pište, já je také budu průběžně přidávat ... 

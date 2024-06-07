@@ -18,12 +18,12 @@ Jaké že to skupiny osobně-počítačových přístrojů máme na trhu?</p>
 
 <ul>
 <li><strong>mobily</strong> s jednoduchým vestavěným software a synchronizací (kalendář, poznámky), klávesnice 3x4 - dnes prakticky každý lepší mobil. </li>
-	<li><strong>mikrokomunikátory</strong> - pokusná cesta Nokia 68xx, stále proprietární OS, ale rozkládací klávesnice, základní email funkce, základní textový editor, s podporou Javy řada dalších funkcí k dohrání. Malé telefony s velikostí těch běžných. </li>
-	<li><strong>komunikátory</strong> - větší telefony s QWERTY klávesnicí, možností dohrávat aplikace. Vyrábí Nokia (9XXX), chystá se Motorola, Danger atd. </li>
-	<li><strong>chytré telefony, smartphone</strong> - běžný OS (Symbian, Linux, PocketPC), možnost dohrávat aplikace, zpravidla slot na kartu a další možnosti rozšíření, mají ale mobilní klávesnici 3x4. </li>
-	<li><strong>PDA s klávesnicí</strong> - prakticky zemřelá vývojová větev Psionů a HP, nevzpomínám si ani, jestli jsou nějaké aktuální produkty na trhu </li>
-	<li><strong>PDA bez klávesnice</strong> - prakticky totéž, jako chysté telefony, jen s tím rozdílem, že nemívají vestavěný mobilní modul. PalmOS, PocketPC jako operační systém. </li>
-	<li><strong>notebooky</strong> - zpravidla bez mobilního modulu, ale lze je rozšířit přes PCMCIA nebo propojit infra/bluetooth s mobilem. Osobní jen v kufříku, do kapsičky je nestrčíte, ale prakticky nulové problémy s datovou i softwarovou kompatibilitou. </li>
+<li><strong>mikrokomunikátory</strong> - pokusná cesta Nokia 68xx, stále proprietární OS, ale rozkládací klávesnice, základní email funkce, základní textový editor, s podporou Javy řada dalších funkcí k dohrání. Malé telefony s velikostí těch běžných. </li>
+<li><strong>komunikátory</strong> - větší telefony s QWERTY klávesnicí, možností dohrávat aplikace. Vyrábí Nokia (9XXX), chystá se Motorola, Danger atd. </li>
+<li><strong>chytré telefony, smartphone</strong> - běžný OS (Symbian, Linux, PocketPC), možnost dohrávat aplikace, zpravidla slot na kartu a další možnosti rozšíření, mají ale mobilní klávesnici 3x4. </li>
+<li><strong>PDA s klávesnicí</strong> - prakticky zemřelá vývojová větev Psionů a HP, nevzpomínám si ani, jestli jsou nějaké aktuální produkty na trhu </li>
+<li><strong>PDA bez klávesnice</strong> - prakticky totéž, jako chysté telefony, jen s tím rozdílem, že nemívají vestavěný mobilní modul. PalmOS, PocketPC jako operační systém. </li>
+<li><strong>notebooky</strong> - zpravidla bez mobilního modulu, ale lze je rozšířit přes PCMCIA nebo propojit infra/bluetooth s mobilem. Osobní jen v kufříku, do kapsičky je nestrčíte, ale prakticky nulové problémy s datovou i softwarovou kompatibilitou. </li>
 </ul>
 <p>
 Nokia z této produktové řady uspokojivě ukousla první čtyři roviny - a navíc je sama definovala a nemá v nich velkou konkurenci. Jenže souboj mezi chytrými telefony, tedy zařízeními, které mají mírně oškubané funkce oproti PDA, ale mají integrovaný mobil, není vybojován. Obě uživatelské skupiny jsou pevně zakopány ve svých pozicích - jedni tvrdí, že funkce smartfounu jsou dostatečné a integrace je lepší, než tahat dvě zařízení, druhá skupina zase říká, že je lepší si vybrat PDA i mobil podle své chuti a propojit obojí přes bluetooth. Pravdu mají obě skupiny, Nokia ale pokrývá jen jednu, tu druhou pouze z poloviny. A toho si Nokia všimla. </p>

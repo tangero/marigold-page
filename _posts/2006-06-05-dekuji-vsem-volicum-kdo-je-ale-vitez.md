@@ -25,7 +25,7 @@ post_date: 2006-06-05 14:17:36
 
 <p>Jak jsem psal, okolo sedmé hodiny průzkumy poprvé ukázaly možné vítězství KSČSSD a v sídle ČSSD zavládlo nefalšované veselí. Socialisté so rozzářili, začínali otvírat lahve, zpívali si. Každý, kdo do té doby věřil lžím o tom, že ČSSD nehodlá s komunisty spolupracovat (zaobalené do kouzelné formulky "na vládní úrovni"), musel zcela pochopit, že ČSSD v těchto volbách šlo právě a jen o většinu s komunisty, protože pak by si mohli dělat s jejich podporou cokoliv, a komunisté by tuto podporu rozhodně nedávali zadarmo. A to to nejlepší ještě mělo přijít</p>
 
-	<h3>Paroubkův proslov</h3>
+<h3>Paroubkův proslov</h3>
 <p>Ve 20:15 to přišlo. Předseda vlády České Republiky Jiří Paroubek předsoupil před novináře a jeho projev byl neuvěřitelný. Opět předvedl ukázkovou manipulaci, tentokrát to ale zřejmě pod tlakem situace přepískl. Když předseda vlády státu zpochybňuje svobodné volby a přirovná jejich výsledky k puči, po kterém se stát 41 let ocitl v izolaci, tak rozhodně nejedná v zájmu blaha a klidu v zemi (a porušuje tak i slib občanům, který podepsal při svém jmenování u prezidenta).</p>
 
 <p>Z jeho úst to ale působilo až komicky. Přirovnával volby k roku 1948, ke kterému o 30 let dříve ve svém projevu sám vzhlížel. Přirovnával volby k roku 1948, kdy se jeho ČSSD spojila s komunisty a společně začali vraždit lidi a zabavovat soukromý majetek. Přirovnával volby ke komunistickému puči, přitom on sám osobně tady začal prosazovat spolupráci s komunisty a dokonce v projevu vzkázal prezidentovi, že ODS vládů nemůže sestavit, že on má nyní v parlamentu 101 hlasů a poprvé tak zcela prokazatelně a veřejně spojil ČSSD a komunisty (tedy podruhé, poprvé to udělali jeho přechůdci v roce 1948, viz scan z toho roku v mém pátečním článku).</p>
@@ -46,7 +46,7 @@ post_date: 2006-06-05 14:17:36
 
 <p>Doufám, že si většina z tohoto projevu zapamatuje alespoň jedno jediné - poprvé ČSSD otevřeně (i když mimoděk) přiznala svou vůli vládnout opět s komunisty. Tohle si zapamatujte pro další volby, ať už budou kdykoliv.</p>
 
-	<h3>A co dál</h3>
+<h3>A co dál</h3>
 <p>A teď k dalšímu dění. Aby to nebylo málo, chvilku po proslovu se jazýčky vah naposledy pohnuly a zastavily se na na první pohled patové situaci. Velmi nepřesně se k tomu velká část novinářu vyjadřuje jako 100:100 levice:pravice. Pravda je ovšem taková, že Strana Zelených je všude ve světě levicová strana, koalici tvoří zásadně s ČSSD, takže tento poměr je ve skutečnosti 106:94. U nás je ovšem předsedou SZ středopravicový Bursík, a navíc většina hlasů SZ pochází od lidí, kteří jsou bytostně protikomunističtí (pražáci, mladí lidé ...). Obojí je velmi důležité si uvědomit pro následující vývoj.</p>
 
 <p>Paroubek to ale svým posledním projevem ukázkově pohnojil. Do té doby bylo možné vyhodit ze SZ Bursíka (ostatně se málem do parlamentu nedostal, na pražské kandidátce jej předhonila preferenčními hlasy silně levicová Kateřina Jacques) a SZ by rázem byla povolnější ke spolupráci.</p>

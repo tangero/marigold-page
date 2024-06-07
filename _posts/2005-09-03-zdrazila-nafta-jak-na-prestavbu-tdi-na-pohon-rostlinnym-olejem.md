@@ -21,12 +21,12 @@ post_date: 2005-09-03 21:29:02
 
 <p>Pro zájemce o to, co to je, pár odkazů:</p>
 
-	<ul>
-	<li><a href="http://www.diesel-therm.de/">ATG stránky</a> - německý výrobce pro uzpůsobení motorů na rostlinné oleje.</li>
-	<li><a href="http://www.greasecar.com">Greasecar</a> - americký výrobce téhož</li>
-	<li><a href="http://web.quick.cz/goldwafer/domek/Pohon_Repkovy_Olej/drive_your_diesel.htm">Jediné české stránky o úpravě na rostlinné oleje</a> které jsem našel.</li>
-	<li><a href="http://tdi.dieselpower.cz/forum/viewtopic.php?id=7&amp;t_id=3">Dieselpower fórum</a> - česká diskuse na téma rostlinné oleje místo nafty</li>
-	<li><a href="http://www.rapidoil.cz/">Zatím jediná česká firma, která to dělá</a> našel jsem ji až po napsání článku</li>
-	<li><a href="http://business.center.cz/business/pravo/zakony/spotrebnidan/cast2.asp">Zákon o spotřební dani</a> - prostudovat odstavec 2, písmeno F - nutno si dodanit sám</li>
-	<li><a href="http://www.dfens-cz.com/view.php?cisloclanku=2005090501">Voley na D-fens</a> článek na téma řepkový olej v diesel motorech na D-Fensovi.</li>
-	</ul>
+<ul>
+<li><a href="http://www.diesel-therm.de/">ATG stránky</a> - německý výrobce pro uzpůsobení motorů na rostlinné oleje.</li>
+<li><a href="http://www.greasecar.com">Greasecar</a> - americký výrobce téhož</li>
+<li><a href="http://web.quick.cz/goldwafer/domek/Pohon_Repkovy_Olej/drive_your_diesel.htm">Jediné české stránky o úpravě na rostlinné oleje</a> které jsem našel.</li>
+<li><a href="http://tdi.dieselpower.cz/forum/viewtopic.php?id=7&amp;t_id=3">Dieselpower fórum</a> - česká diskuse na téma rostlinné oleje místo nafty</li>
+<li><a href="http://www.rapidoil.cz/">Zatím jediná česká firma, která to dělá</a> našel jsem ji až po napsání článku</li>
+<li><a href="http://business.center.cz/business/pravo/zakony/spotrebnidan/cast2.asp">Zákon o spotřební dani</a> - prostudovat odstavec 2, písmeno F - nutno si dodanit sám</li>
+<li><a href="http://www.dfens-cz.com/view.php?cisloclanku=2005090501">Voley na D-fens</a> článek na téma řepkový olej v diesel motorech na D-Fensovi.</li>
+</ul>

@@ -14,12 +14,12 @@ Chcete-li mít vlastní webové stránky (blog), můžete je vytvářet v zásad
 
 <ul>
 <li>Můžete si nainstalovat nějaký software pro tvorbu HTML stránek, udělat nějaký vzhled, vybrat server a tam to nakopírovat a pak kdykoliv chcete přidat další stránku, tak znovu použijete tento software a opět vše upravíte &#8211; napíšete vlastní stránku, dáte jí vzhled, zeditujete ostatní stránky, aby na tu novou odkazovaly. Vyžaduje to také určité znalosti HTML, protože občas vytvoří editory z nějakého důvodu stránku, která se nechce v některých prohlížečích zobrazit, případně potřebujete vlastnosti, které daný editor neumí.</li>
-	<li>A nebo na to můžete jít jinak &#8211; vezmete publikační systém, nahrajete jej na web a pak už jakékoliv změny děláte v jednom administračním rozhraní, které po vás žádné hlubší znalosti nebude vyžadovat a přidávání nových článků zvládne naprosto každý &#8211; stačí jej jen napsat a kliknout na tlačítko, o vše ostatní se postará publikační systém.</li>
+<li>A nebo na to můžete jít jinak &#8211; vezmete publikační systém, nahrajete jej na web a pak už jakékoliv změny děláte v jednom administračním rozhraní, které po vás žádné hlubší znalosti nebude vyžadovat a přidávání nových článků zvládne naprosto každý &#8211; stačí jej jen napsat a kliknout na tlačítko, o vše ostatní se postará publikační systém.</li>
 </ul>
 <p>
 Pro většinu lidí bude druhá varianta jednodušší a přesto s ní budou dosahovat profesionálnějších výsledků. Věřím, že většina z čtenářů tohoto serveru by to zvládla sama, pro ty ostatní jsem připravil jednoduchý návod, včetně zřízení domény pro vaše stránky zdarma.</p>
 
-<!--more-->	<h3>Výběr</h3>
+<!--more--><h3>Výběr</h3>
 <p>
 Jak už jistě víte, server Marigold běhá na informačním systému BLOG:CMS od <a href="http://hulan.info/">Radka Hulána</a>, proto byl výběr vhodného publikačního "software" velmi snadný ;-).</p>
 <p>

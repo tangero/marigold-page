@@ -33,10 +33,10 @@ Byly definovány tři způsoby autentizace uživatele v cizí síti:</p>
 
 <ul>
 <li><u>Autentizace na bázi VPN</u>: spojení VPN sítí a uživatel přes tunel na domácí VPN koncentrátor dostane do své sítě — je vyhrazen samostatný segment IP adres, které slouží k tomuto účelu, řešení je relativně náročné jak na síť jako celek, tak i na počítač klienta. </li>
-	<li><u>Autentizace na bázi webového formuláře</u>: známé z některých hot-spotových řešení — uživatel se po připojení přesměruje na ověřovací stránku, kde musí zadat své jméno a heslo (autentizuje se vůči centrálnímu AAA serveru) a dále má již přístup volný — tento způsob je nenáročný, přináší ovšem jen malou míru bezpečnosti </li>
-	<li><u><b>Autentizace na bázi 802.1x</b></u>: to nejzajímavější a také nejpoužívanější a nejperspektivnější řešení je využití standardního 802.1x standardu s autentizačním protokolem EAP. Dále se budu věnovat tedy jen tomuto způsobu. </li>
+<li><u>Autentizace na bázi webového formuláře</u>: známé z některých hot-spotových řešení — uživatel se po připojení přesměruje na ověřovací stránku, kde musí zadat své jméno a heslo (autentizuje se vůči centrálnímu AAA serveru) a dále má již přístup volný — tento způsob je nenáročný, přináší ovšem jen malou míru bezpečnosti </li>
+<li><u><b>Autentizace na bázi 802.1x</b></u>: to nejzajímavější a také nejpoužívanější a nejperspektivnější řešení je využití standardního 802.1x standardu s autentizačním protokolem EAP. Dále se budu věnovat tedy jen tomuto způsobu. </li>
 </ul>
-	<h4>Autentizace na bázi 802.1x</h4>
+<h4>Autentizace na bázi 802.1x</h4>
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041111-hierarchie-radius.gif" alt="Hierarchie Radius serverů" width="300" height="170" /></div><p>
 Celý princip je prostý a vychází z principů Internetu — byla vytvořena hierarchická struktura Radius serverů jednotlivých organizací a států, nad tím vším je pak top-level Radius server, jak ukazuje následující obrázek.</p>
 <p>
@@ -58,18 +58,18 @@ Samozřejmě jsou určitá pravidla roamingové politiky, které musí každý d
 
 <ul>
 <li>pravidla, která musí splňovat domácí síť uživatele: </li>
-	<ul>
+<ul>
 <li>technická podpora uživatelů </li>
-	<li>poskytnout ověřování svých uživatelů </li>
-	<li>je zodpovědná za veškerá akce uživatelů, které ověřila, </li>
-	<li>musí reagovat na ohlášení bezpečnostních incidentů, které jsou způsobeny jejími uživateli </li>
-	<li>musí logovat všechny autentizační události pro potřeby případného dohledávání </li>
+<li>poskytnout ověřování svých uživatelů </li>
+<li>je zodpovědná za veškerá akce uživatelů, které ověřila, </li>
+<li>musí reagovat na ohlášení bezpečnostních incidentů, které jsou způsobeny jejími uživateli </li>
+<li>musí logovat všechny autentizační události pro potřeby případného dohledávání </li>
 </ul>
-	<li>pravidla, která musí splňovat hostující síť </li>
-	<ul>
+<li>pravidla, která musí splňovat hostující síť </li>
+<ul>
 <li>uchovávat v logu autentizační informace, které musí na vyžádání zpřístupnit oprávněným místům </li>
-	<li>musí vytvořit vlastní zásady pro použití sítě </li>
-	<li>musí poskytnout autentizační služby pro hostující uživatele </li>
+<li>musí vytvořit vlastní zásady pro použití sítě </li>
+<li>musí poskytnout autentizační služby pro hostující uživatele </li>
 </ul>
 </ul>
 <p>

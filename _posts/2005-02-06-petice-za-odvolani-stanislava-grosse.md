@@ -17,27 +17,27 @@ tomu dává korunu. <br />
 <br />
 Tři důvody z petice (našlo by se jich víc, na pár stran - ale petice musí být stručná):</p>
 
-	<ol>
-	<li><p class="western" style="margin-bottom: 0cm;">Stanislav Gross
+<ol>
+<li><p class="western" style="margin-bottom: 0cm;">Stanislav Gross
 	dosud uspokojivě nedoložil původ peněz, z&nbsp;nichž financoval
 	koupi svého soukromého bytu a neprokázal, jak a komu je za jejich
 	poskytnutí vázán; stejně tak Šárka Grossová jako manželka veřejného
 	činitele dosud uspokojivě nedoložila příjmy ze svého podnikání;</p>
 
-	</li>
-	<li><p class="western" style="margin-bottom: 0cm;">Stanislav Gross
+</li>
+<li><p class="western" style="margin-bottom: 0cm;">Stanislav Gross
 	podle informací z médií vytvořil a utajeně nechal fungovat nejméně
 	dva policejní týmy („Mlýn“ a „Zubr“)
 	podléhající pouze jemu, a to aniž by je mohly kontrolovat jiné
 	instituce než pouze on sám;</p>
 
-	</li>
-	<li><p class="western" style="margin-bottom: 0cm;">Stanislav Gross do
+</li>
+<li><p class="western" style="margin-bottom: 0cm;">Stanislav Gross do
 	vysoké funkce na Úřadu vlády České republiky jmenoval příslušníka
 	Pohotovostního pluku SNB Pavla Přibyla, a tím v&nbsp;našich očích
 	snížil důvěryhodnost Úřadu vlády.</p>
 </li>
-	</ol>
+</ol>
 <p>Z výše uvedených důvodů považujeme Stanislava Grosse za nedůvěryhodnou osobu, 
 nezpůsobilou vykonávat funkci předsedy vlády České republiky a
 reprezentovat navenek Českou republiku coby její zástupce, a žádáme proto

@@ -33,7 +33,7 @@ USB telefony mají jednu vadu - potřebují ke své práci puštěný počítač
 <p>
 I tak je situace kolem Skype zajímavá. Stále více lidí kolem mne si jej pořizuje a přes vouchery volá po ČR za směšné ceny kolem 80 halířů za minutu, pokud už náhodou potřebují volat na pevnou linku. Funguje to překvapivě dobře.</p>
 
-	<h5>Co čeká Skype v roce 2005?</h5>
+<h5>Co čeká Skype v roce 2005?</h5>
 <p>
 SkypeIn - voláni z pevné telefonní sítě Skype uživatelům, tak v červnu 2005. Zatím nevím, zda bude možno získat i české příchozí číslo, ale pár firem se s tím už Skype vnucuje (co já vím), tak snad ano. </p>
 

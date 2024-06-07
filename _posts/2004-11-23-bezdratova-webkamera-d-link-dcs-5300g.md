@@ -20,26 +20,26 @@ Jako ideální řešení pro prostředí s více kamerami DCS-5300G disponuje p�
 <p>
 Hlavní funkce DCS-5300G:</p>
 
-	<ul>
-	<li>samostatná internetová kamera s CPU &amp; RAM
+<ul>
+<li>samostatná internetová kamera s CPU &amp; RAM
 </li>
-	<li>vestavěný rotační motor pro otáčení a náklon s možností širokého úhlu pohybu 
+<li>vestavěný rotační motor pro otáčení a náklon s možností širokého úhlu pohybu 
 </li>
-	<li>místní přístup prostřednictvím bezdrátové sítě LAN 802.11g a Ethernetu
+<li>místní přístup prostřednictvím bezdrátové sítě LAN 802.11g a Ethernetu
 </li>
-	<li>vzdálený přístup prostřednictvím internetového prohlížeče 
+<li>vzdálený přístup prostřednictvím internetového prohlížeče 
 </li>
-	<li>sledovací software pro ovládání až 16 kamer 
+<li>sledovací software pro ovládání až 16 kamer 
 </li>
-	<li>spuštění záznamu pomocí detektoru pohybu 
+<li>spuštění záznamu pomocí detektoru pohybu 
 </li>
-	<li>režim MPEG4 s krátkým záhlavím umožňující vysokou kompresi dat 
+<li>režim MPEG4 s krátkým záhlavím umožňující vysokou kompresi dat 
 </li>
-	<li>konektivita pro externí zařízení umožňující záznam událostí po aktivaci alarmu 
+<li>konektivita pro externí zařízení umožňující záznam událostí po aktivaci alarmu 
 </li>
-	<li>podpora DDNS a UpnP pro snadnou konfiguraci v síťovém prostředí 
+<li>podpora DDNS a UpnP pro snadnou konfiguraci v síťovém prostředí 
 </li>
-	<li>přenos živého videa rychlostí 30 snímků za sekundu</li>
-	</ul>
+<li>přenos živého videa rychlostí 30 snímků za sekundu</li>
+</ul>
 	
 </p>

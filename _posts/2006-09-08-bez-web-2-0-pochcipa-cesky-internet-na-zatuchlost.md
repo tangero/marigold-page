@@ -13,14 +13,14 @@ post_date: 2006-09-08 12:48:27
 ---
 <p>Je to provokativní nadpis, jak už to u nadpisů musí být, aby zaujaly. Jenže smutné je, že není dalek toho, co si myslím. Myslím si, že dlouhodobá absence aplikací Web 2.0 českému internetu uškodí. Výrazně. Spolu se vzrůstající rolí internetu ve společnosti také uškodí i české společnosti. V dlouhodobém horizontu viditelně. Možná přijde něco nového a my Web 2.0 přeskočíme, jenže je to málo pravděpodobné, stává se to zřídkavě a ještě více zřídka takový revoluční skok dopadá dobře. </p>
 
-	<h4>Co je Web 2.0</h4>
+<h4>Co je Web 2.0</h4>
 	<div class="rightbox"><img src="/wp-content/uploads/20060908-web20.jpg" alt="Rozdíl mezi Web 2.0 a 1.0" width="367" height="417" /></div><p>Začnu více ze široka – co je to Web 2.0? K mému žalu si zřejmě většina české odborné veřejnosti myslí, že jde o beztabulkový vzhled, validní XHTML strict a pěkné stránky. Doplněné Ajaxem, pokud možno. Že je to buzzword, které se v Americe používá na balamutění investorů. To sice taky, slovo je to dnes na americkém internetu velmi „trendy“, jenže jeho atraktivita nevznikla sama od sebe. Zatím nejlepší český výklad pojmu Web 2.0 <a href="http://service.blog.cz/0608/web-je-platforma-aneb-neverte-nikomu-pod-30">přinesl Marek Blažek</a> - zřejmě se jako jeden z mála obtěžoval skutečně podívat na to, o co jde. V angličtině doporučuji k <a href="http://web2.wsj2.com/all_we_got_was_web_10_when_tim_bernerslee_actually_gave_us_w.htm">tomu termínu web Diona Hinchcliffa</a>, jemuž jsem také sebral obrázek vysvětlující důvody přerodu z Web 1.0 na Web 2.0.</p>
 
 <p>Web 2.0 znamená především maximální možné zaměření na uživatele. Jeho vtáhnutí do spolupráce na webu a to nikoliv proto, aby se ušetřilo na tvorbě obsahu webu, ale proto, aby si uživatel mohl službu používat po svém. Znamená to zbavit se rigidních schémat, při nichž vždy po jedničce následuje dvojka. Proč by tam nemohla být trojka a ke dvojce se uživatel vrátí, až bude chtít. </p>
 
 <p>Typickým příkladem je zpravodajský web. Na těch klasických, tedy například všech českých zpravodajstvích včetně iDnesu nebo Aktuálně nemáte jako běžný čtenář prakticky sebemenší šanci jak ovlivnit to, čemu se zpravodajství věnuje. Pokud je redakce proparoubkovská a vy Paroubka nemáte rádi, jedinou vaší obranou je odejít na jiný web a použít to, čemu kdysi Václav Klaus říkal „neviditelná ruka trhu“ – tedy doufat, že s odlivem návštěvníků se ten web probere a zlepší své služby či názorové spektrum. </p>
 
-	<h4>Teorie internetu jako svobody</h4>
+<h4>Teorie internetu jako svobody</h4>
 <p>Neviditelná ruka trhu funguje stejně spolehlivě, jako perpetum mobile. Pokud abstrahujeme od tření, funguje dokonale. Bohužel v praxi je tření dostatek na to, aby se stroj zastavil. V případě neviditelné ruky trhu jsou třením nejrůznější licence a další státní regulativní obstrukce, dnes hojně používané právě pro usměrňování médií žádoucím směrem bez toho, aby padlo to ošklivé slůvko cenzura.  A pak především finanční bariéry pro vstup do odvětví. Vybudovat zpravodajský web něco stojí a to něco se dnes počítá na desítky milionů korun ročně s tím, že návratnost je spíš diskutabilní. </p>
 
 <p>Kdysi jsme si zhusta mysleli, že právě příchod internetu přinese svobodu do všech těchto vztahů. Že odstraní zbytečné mezičlánky. Jenže už koncem minulého tisíciletí bylo zřejmé, že tahle naděje je lichá. Že pokud internet bude kopírovat klasické obchodní vztahy, nikdy mezičlánky neodbourá. Proč?
@@ -34,7 +34,7 @@ post_date: 2006-09-08 12:48:27
 
 <p>Na vybudování erudované redakce jsou potřeba značné peníze a investovat je dlouhodobě s vidinou nejistého zisku. Běžný investor snadno nazná, že dovážet a prodávat ananas je podstatně méně stresující a jistější business. Navíc erudovaní odborníci se velmi špatně shánějí, zpravidla je lépe zaplatí firmy z branže. A do třetice, konkurence je nevelká, trh v podstatě rozdělený, takže bojovat kvalitou je zbytečně drahé. Minimálně na českém trhu je to především markantní – kromě Aktuálně tu vlastně není nikdo, kdo se o to profesionálně v poslední době pokusil. </p>
 
-	<h4>Blogy samy neprorazily tak, jak se čekalo</h4>
+<h4>Blogy samy neprorazily tak, jak se čekalo</h4>
 <p>Modlou byly weblogy. Hovořilo se o nich jako o občanské novinařině a o naději průvanu, který přinesou do novinařiny. Někde se tak stalo – například v Americe, v určitých oblastech.  V Česku se nestalo prakticky nic, kromě toho, že Ostravák a pár dalších (včetně mne) na základě blogu vydalo pár knížek. Průlom nenastal. </p>
 
 <p>Kde čeští soudruzi z blogů udělali chybu? </p>
@@ -43,7 +43,7 @@ post_date: 2006-09-08 12:48:27
 
 <p>Tou druhou vlnou zpravodajství jsou servery typu Digg.com – v česku pak jejich místní obdoby <a href="http://www.linkuj.cz">Linkuj</a> a <a href="http://www.cjn.cz/">CoJeNového</a>. Druhou vlnou vyhledávačů jsou v americe servery typu del.icio.us, v česku pak je jeho obdobou můj <a href="http://www.jagg.cz">Jagg</a>.</p>
 
-	<h4>Jak funguje Web 2.0 zpravodajský server Digg.com</h4>
+<h4>Jak funguje Web 2.0 zpravodajský server Digg.com</h4>
 <p>Jak zpravodajské servery druhé vlny fungují? Můžeme si to ukázat právě na příkladu amerického <a href="http://www.digg.com">Diggu</a>, u něhož jsou vlivy silně zřetelnější, než u českých obdob. </p>
 
 <p>Na Digg přijdete, zaregistrujete se (jen velmi stručně) a když se vám nějaký článek líbí, tak mu dáte svůj hlas. Naopak, když na internetu najdete nějaký článek, který se vám líbí, můžete si ho „diggnout“ – přidat přes formulář či bookmarklet. Čím více „diggů“ – hlasů – článek dostane v průběhu dne, tím výš se posunuje. Článek na Diggu vlastně není článek v pravém slova smyslu, je to jen jeho abstrakt nebo perex, chcete-li, navíc často napsaný člověkem, který článek poprvé přidal. A stále častěji rovnou napsaný autorem článku, který tak upozorňuje na jeho publikaci. Z psaní textu na Digg se stává přímo disciplína, protože čtenáři očekávají slušnou informaci již v perexu a nalákání na nesmyslný článek mohou snadno potrestat tím, že článek prostě „nediggnou“ nebo dokonce nahlásí jako nesmyslný. </p>
@@ -60,7 +60,7 @@ post_date: 2006-09-08 12:48:27
 
 <p>Podobný přístup v Česku dlouho chyběl. Zatímco Digg vznikl na konci roku 2004, na české mutace jsme museli čekat skoro dva roky, do léta 2006. Články z blogů se tedy snažily koncentrovat jen nejrůznější agregátory blogů, s omezeními vyplývajícími ze jejich podstaty. Skutečný zpravodajský web 2.0 nám až doposud chyběl a prudký nárůst  zájemců o Linkuj.cz je toho jen důkazem. </p>
 
-	<h4>Je lokální zaměření špatné?</h4>
+<h4>Je lokální zaměření špatné?</h4>
 <p>Častým protiargumentem proti lokální obdobě těchto služeb je jejich českost, malost – omezený český internetový prostor. Jilm to nazývá <a href="http://jilm.blog.lupa.cz/0608/nesmyslny-internetovy-nacionalismus">"nesmyslným lokálním nacionalismem"</a>.  </p>
 
 <p>Domnívám se ale, že tomu zdaleka tak není. Ačkoliv je český internet maličký oproti tomu americkému, ani on se nedá sledovat tak snadno. Zdá se, že zdrojů máme málo, ale zdání klame. Málo máme „velkých“ weblogů, ale máme řadu dalších stránek, kde občas vycházejí velmi zajímavá díla všeho druhu. Když už jsme u těch blogů, zachytili jste pár měsíců starý <a href="http://www.cuketka.cz">kulinářský blog Pana Cuketky</a>? Zachytili jste nový blog publicisty Petra Koubského nazvaný <a href="http://ideesfixes.blogspot.com/">Idées fixes</a>? A viděli jste blog profesionálního <a href="http://grigo.bloguje.cz">gigola Griga</a>? A to mluvím jen o celcích, nikoliv o jednotlivých informacích, které vás zřejmě minuly. Ano, i na českém internetu máme řadu zdrojů a pokud si myslíte opak, pak jste jich zřejmě většinu přehlédli. </p>

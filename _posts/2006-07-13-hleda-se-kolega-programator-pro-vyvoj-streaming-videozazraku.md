@@ -17,28 +17,28 @@ post_date: 2006-07-13 08:08:04
 
 <p>Požadavky:</p>
 
-	<ul>
-	<li>objektové programování (nejlépe výborná znalost Javy nebo C++ popř. jiný obj. orientovaný jazyk)</li>
-	<li>znalost SQL</li>
-	<li>zkušenost s vývojem webových aplikací (XML, XSL, (X)HTML, CSS, JS)
+<ul>
+<li>objektové programování (nejlépe výborná znalost Javy nebo C++ popř. jiný obj. orientovaný jazyk)</li>
+<li>znalost SQL</li>
+<li>zkušenost s vývojem webových aplikací (XML, XSL, (X)HTML, CSS, JS)
 </li>
-	<li>zkušenosti s frameworkem typu Tapestry, Spring výhodou
+<li>zkušenosti s frameworkem typu Tapestry, Spring výhodou
 </li>
-	<li>zkušenosti s knihovnami Hibernate, Hivemind výhodou
+<li>zkušenosti s knihovnami Hibernate, Hivemind výhodou
 </li>
-	<li>ochotu učit se nové postupy, techniky, programovací jazyky a jiné potřebné znalosti a dovednosti
+<li>ochotu učit se nové postupy, techniky, programovací jazyky a jiné potřebné znalosti a dovednosti
 </li>
-	<li>schopnost přizpůsobit se nárokům při vývoji založeném na principu extrémního programování
+<li>schopnost přizpůsobit se nárokům při vývoji založeném na principu extrémního programování
 </li>
-	</ul>
+</ul>
 <p>Nabízíme:</p>
 
-	<ul>
-	<li>zajímavou a perspektivní práci v rychle se rozvíjející společnosti
+<ul>
+<li>zajímavou a perspektivní práci v rychle se rozvíjející společnosti
  </li>
-	<li>po zapracování výborné platové podmínky včetně prémií, bonusů a dalších firemních požitků
+<li>po zapracování výborné platové podmínky včetně prémií, bonusů a dalších firemních požitků
 </li>
-	<li>možnost profesního i osobnostního růstu</li>
-	</ul>
+<li>možnost profesního i osobnostního růstu</li>
+</ul>
 <p>Zájemci nechť posílají své profesní životopisy <a href="mailto:job1@global-inspiration.cz">na tento email</a>, nebo kontaktují přímo mne (kdo neví jak, neprošel prvním kolem inteligenčních testů).
 </p>

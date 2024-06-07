@@ -25,7 +25,7 @@ post_date: 2006-09-05 09:34:25
 
 <p>Pokud bych O2 počítal bez telefonní linky, tak bychom byli na 1162 Kč, všechny ceny s DPH. </p>
 
-	<h4>O2 vychází podstatně dráže</h4>
+<h4>O2 vychází podstatně dráže</h4>
 <p>Shrnuto a podtrženo, nabídka O2 je o polovinu dražší, než podobná nabídka UPC. To vynechávám ze srovnání "drobné" odlišnosti jako je podstatně vyšší kvalita internetu u UPC (nižší agregace, vyšší objemové limity a vyšší rychlost) a obtížné porovnání balíčků televizních programů. V balíčku Kino u O2 jsou navíc dětské televizní programy Cinemax, které jsou fajn, zase mi bude chybět Markýza, kterou často pozerám. Naopak výhodou pro O2 je duální adaptér, díky němuž mohu přijímat i digitální vysílání DVB-T, zmíněný archiv pořadů a také videopůjčovna s placenými filmy. Bohužel nic, co by bylo hodno více jak pětistokorunového příplatku. </p>
 
 <p>Tohle má být nějaká výzva pro kabelovou televizi? Kdepak přátelé, to by musel někdo zapracovat na ceníku. Například z něj vypustit poplatek za telefonní linku, protože jinak má tato nabídka smysl jen pro nešťastníky, kteří z nějakého důvodu (špatný signál, babička) ještě nezrušili pevnou linku.</p>

@@ -18,8 +18,8 @@ Jistě sami cítíte, že užitečnost aplikace spočívá v tom, jak si poradí
 
 Podstatné jsou dvě věci.
 <ul>
- 	<li>Za prvé, uživatel Waze je s navigací spokojen, protože ho vždy dovede co nejrychleji k cíli.</li>
- 	<li>Za druhé, i když navigace uživatele nevede k cíli nejrychlejší možnou cestou, vždy mu docela přesně říká, kdy dorazí a přesvědčí ho o tom, že jede nejlepší momentálně možnou cestou. Jakékoliv zpoždění má na vině dopravní situace, ne Waze.</li>
+ <li>Za prvé, uživatel Waze je s navigací spokojen, protože ho vždy dovede co nejrychleji k cíli.</li>
+ <li>Za druhé, i když navigace uživatele nevede k cíli nejrychlejší možnou cestou, vždy mu docela přesně říká, kdy dorazí a přesvědčí ho o tom, že jede nejlepší momentálně možnou cestou. Jakékoliv zpoždění má na vině dopravní situace, ne Waze.</li>
 </ul>
 Takové je přesvědčení uživatelů.
 

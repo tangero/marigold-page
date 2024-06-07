@@ -13,16 +13,16 @@ post_date: 2005-10-24 13:01:27
 
 <p>Projekty lze přihlásit do tří dotačních programů: </p>
 
-	<ul>
-	<li>infrastruktura</li>
-	<li>nové aplikace a služby</li>
-	<li>podpora osvěty a marketingu</li>
-	</ul>
+<ul>
+<li>infrastruktura</li>
+<li>nové aplikace a služby</li>
+<li>podpora osvěty a marketingu</li>
+</ul>
 <p> Projekty musí vyhovět několika základním kritériím, mimo jiné prokázat životaschopnost i po vyčerpání dotace Ministerstva informatiky a nabídnout takzvaně otevřené řešení. Další podmínkou získání dotace je finanční spoluúčast žadatele ve výši 30% z celkových nákladů. </p>
 
 <p>Patřičné dokumenty <a href="http://www.micr.cz/scripts/detail.php?id=2788">najdete zde</a>.</p>
 
-	<h3>A nyní, co z toho pro normální lidičky a firmičky</h3>
+<h3>A nyní, co z toho pro normální lidičky a firmičky</h3>
 <p>Osobně se domnívám, že je potřeba zasnažit se, aby prostředky primárně čerpaly občanská sdružení a lokální ISP, nikoliv velké firmy jako Telecom, které prachů mají neúrekom. Provozujete nějakou síť připojující pár lidí formou, kterou byste mohli nazvat broadbandem? Máte například chuť zasíťovat váš panelák, nebo už jste něco takového udělali? Máte ve vesnici na holubníku všesměrovku a střílíte sousedům broadband skrze WiFi nebo ethernetový kabel vedený skrze brambořiště? Teď je ta pravá chvíle z toho něco udělat. </p>
 
 <p>SEPSAT PROJEKT.</p>

@@ -28,8 +28,8 @@ Na tomto principu začala fungovat i celá řada privátních fondů. Pošlete b
 
 Tady je pár odkazů na nejběžnější existující cryptoboty pro samostudium. Jako vždy platí, že do toho nemáte cpát peníze, o které nemůžete přijít.
 <ul>
- 	<li><a href="https://www.haasonline.com/">Haasonline</a></li>
- 	<li><a href="https://www.cryptohopper.com">Cryptohooper</a></li>
- 	<li><a href="https://cryptoping.tech">Cryptoping</a></li>
+ <li><a href="https://www.haasonline.com/">Haasonline</a></li>
+ <li><a href="https://www.cryptohopper.com">Cryptohooper</a></li>
+ <li><a href="https://cryptoping.tech">Cryptoping</a></li>
 </ul>
 A proč jsou kryptoboti problém? Zvětšují volatilitu, vytvářejí paniku a rychlé propady či nárůsty. Laik jim těžko může konkurovat. Je dobré to vědět.

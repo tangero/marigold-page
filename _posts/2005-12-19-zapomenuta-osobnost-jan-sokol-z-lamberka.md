@@ -26,7 +26,7 @@ post_date: 2005-12-19 22:57:29
 
 <p>Až doposud bychom mohli považovat Jana Sokola z Lamberka za něco mezi lapkou a vojákem, sice výraznou osobu českých dějin, ale žádnou takovou, aby bylo nespravedlivé o ní nevědět. Jenže to se onoho roku 1409 mělo změnit. </p>
 
-	<h3>Bitva u Grunwaldu</h3>
+<h3>Bitva u Grunwaldu</h3>
 	<div class="rightbox"><img src="/wp-content/uploads/20051219-malbork.jpg" alt="Hrad Malbork" width="300" height="175" /></div>
 <p>Jan Sokol znepokojeně sledoval nejenom dění při jižní hranici království a stále dotěrnější Zikmundovy akce v moravském markrabství a Albrechtovy v Jižních Čechách - s pozorností se díval i na naši severní hranici, tedy na sousední Polsko. A ještě dále, směrem k pobřeží Baltu. Měl důvod - stále častější střety poláků a litevců s teutonským řádem a tvrdý postup řádu v doposud pohanském Prusku. </p>
 

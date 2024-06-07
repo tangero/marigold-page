@@ -18,7 +18,7 @@ Berte to tedy jako splátku tohoto dluhu a zároveň jako omluvu všem, komu vad
 <p>
 Takže tolik úvod a pojďte se vrhnout na problematiku retranslací. V první ze tří části se budu věnovat problematice obecně, v dalších dvou dílech každému ze dvou typů řešení samostatně (nebojte se, oba vyjdou ve středu).</p>
 
-<!--more-->	<h3>Co to znamená retranslace</h3>
+<!--more--><h3>Co to znamená retranslace</h3>
 <p>
 Představte si situaci, kdy potřebujete spojit dvě místa (řekněme A &amp; B) bezdrátovým spojem, která na sebe nevidí (což bývá téměř vždy nutná podmínka), případně jsou od sebe příliš vzdálena a vy nemůžete porušit generální licenci o maximální hustotě vyzářeného výkonu (případně je to příliš daleko i s porušením). Existuje ale místo R, které &#8220;vidí&#8221; na místo A i na místo B, případně je od obou míst méně vzdáleno. Potom místo R se nazývá retranslační bod a komunikace z A do B neprobíhá přímo, ale přes bod R. Bezdrátový spoj A → R → B se potom nazývá <strong>spoj s jednou retranslací</strong>.</p>
 <p>
@@ -30,7 +30,7 @@ Aby to nebylo tak jednoduché, lze za určitých podmínek (které dále rozeber
 
 <ul>
 <li>pasivní, </li>
-	<li>aktivní. </li>
+<li>aktivní. </li>
 </ul>
 <p>
 <strong>Pasivní retranslace </strong>využívá jen přesměrování či odrazu signálu (rozebereme dále) bez nějakého přidaného aktivního prvku, není třeba tedy žádného napájení atp., ovšem má mnohá omezení (nelze z tohoto místa &#8220;odebírat internet&#8221;, těžko se monitoruje, vyžaduje speciální podmínky atd.).</p>

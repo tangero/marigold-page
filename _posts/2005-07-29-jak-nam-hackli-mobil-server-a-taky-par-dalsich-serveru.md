@@ -30,7 +30,7 @@ Ačkoliv se může zdát, že hacker musí být člověk nadprůměrně technick
 
 <p>Konec roku 1996 a počátek roku 1997 byl hacků na českém internetu plný. Nejdříve přišel hack stránek Mendelovy university, záhy následovaný stránkami Hollywood Classic Entertainment a serverem Ministerstva zdravotnictví. Na Slovensku to odskákaly servery tiskové agentury TASR a noviny SME. Vše neslo podpis hackerské skupiny CzERT. Ještě v době, kdy se v listopadu 1996 terčem útoků stal armádní server provozovaný ministerstvem obrany a Šafaříkova univerzita to vypadalo jako legrace, zejména hacknutí armádního serveru bylo i internetovou veřejností přijímáno jako dobrý vtip. Mluvčí ministerstva vnitra tehdy ujišťovala, jak se armádních dat hacker nemohl ani dotknout, protože na serveru žádná nejsou – bylo to velmi veselé. </p>
 
-	<h4>Hacknutí MaMedia</h4>
+<h4>Hacknutí MaMedia</h4>
 <p>Večer 15. února 1997 hackerská skupina CzERT zaútočila znovu a oblíbený český diskusní server MaMEDIA jí podlehl. Na stránkách s typickým obrázkem smějícího se rudého čerta se také objevily údaje o lidech přistupujících do auditora zabývajícího se kradeným software, warezem. </p>
 
 <p>Hackeři tento seznam doprovodili větou <i>„Toto jsou uzivatele z Mamedie, kteri sa zabyvaji piratcenim ukradeneho sowafwaru. CzERT/SERT/RWSRXRX goes legal, and is now supporting BSA!“</i> (věta je originální nekorigovaná“. Na MaMediích se totiž diskutuje anonymně – uživatele jste poznali podle jeho ikonky nebo podle jeho uživatelského jména, o jeho pravé totožnosti jste ale nevěděli nic. Hackeři ze skupiny CzERT se nabourali do registrační databáze MaMedia a loginy uživatelů diskutujících v auditoriu Warez spárovali s jejich osobními údaji a ty poté publikovali na hacknutých stránkách. <a href="http://pukvis.eunet.cz/hackpages/mamedia/">Zdroj jak to vypadalo</a>.</p>
@@ -50,7 +50,7 @@ Můj názor na lidi, kteří se ohrazují, že newarezí, a přesto jsou na sezn
 
 <p><img src="/wp-content/uploads/20050729-mamediahacked.jpg" alt="MaMedia Hacked" width="450" height="471" /></p>
 
-	<h4>Hacknut Mobil.cz</h4>
+<h4>Hacknut Mobil.cz</h4>
 <p>Krátce před tím, než byl Mobil.cz hacknut, vyšel na Neviditelném psovi článeček Ondřeje Neffa o tom, že nás někdo hacknul. Důkazem byla stránka z našeho serveru se seznamem BTS, v níž byla větička <i>„hacked by Tom“</i>. Někdo Ondřejovi Neffovi toto podal jako důkaz toho, že i náš server byl hacknut. A protože bylo právě krátce po hacku MaMedií, vypadalo to i pravděpodobně. Jenže pravda byla trochu jinde, větička byla určena pouze jako poděkování člověku, jenž si říkal Tom a jenž nám seznam základnových stanic RadioMobilu stáhl z jejich sítě a zaslal emailem. Nešlo tedy o hack našeho serveru, ale o průnik do sítě RadioMobilu. Petr Mitošinka to napsal emailem Ondřeji Neffovi a požádal ho o stažení článku. Jenže Ondřej Neff pouze ke článku doplnil naše vysvětlení a článek nestáhl. Bohužel pro nás vysvětlení působilo spíše hrdě na to, že nejsme hacknuti a tak, než jsme s Ondřejem Neffem zjednali nápravu, bylo pozdě. V noci ze čtvrtka na pátek 21. února 1997 hackeři zaútočili na náš server. Petr totiž napsal:</p>
 
 	<blockquote><p>
