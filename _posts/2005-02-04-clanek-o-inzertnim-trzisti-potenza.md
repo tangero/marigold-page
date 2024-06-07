@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-02-04 09:04:52
 ---
-	<p>Na Lupu jsem přislíbil (a také dodal) <a href="http://www.lupa.cz/clanek.php3?show=3933" >článek o inzertním tržišti Potenza</a>, dneska vyšel. Aby to nebylo jen o něm, doplnil jsme tam i billboardí bbKontext, kdysi Edwards. <br />
+<p>Na Lupu jsem přislíbil (a také dodal) <a href="http://www.lupa.cz/clanek.php3?show=3933" >článek o inzertním tržišti Potenza</a>, dneska vyšel. Aby to nebylo jen o něm, doplnil jsme tam i billboardí bbKontext, kdysi Edwards. <br />
 <br />
 Možná jste si všimli, že zde reklamní kampaně Potenzy proběhly, využil
 jsem marigoldí čtenáře tradičně jako pokusné králíky, abych nějaké

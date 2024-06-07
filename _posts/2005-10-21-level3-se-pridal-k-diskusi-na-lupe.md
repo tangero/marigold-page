@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-10-21 15:47:31
 ---
-	<p><b>oook píše</b>: Před pár dny se na Lupě objevil <a href="http://www.lupa.cz/clanek.php3?show=4452" >článek Pavla Housera o stabilitě Internetu</a>, kolem kterého se rozproudila částečně zajímavá diskuse. <br />
+<p><b>oook píše</b>: Před pár dny se na Lupě objevil <a href="http://www.lupa.cz/clanek.php3?show=4452" >článek Pavla Housera o stabilitě Internetu</a>, kolem kterého se rozproudila částečně zajímavá diskuse. <br />
 <br />
 Zatímco článek byl spíše intelektuálním cvičením autora, do diskuse se
 dnes ráno rozhodla promluvit jedna z páteřních sítí Internetu - Level3.

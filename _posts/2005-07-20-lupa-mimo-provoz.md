@@ -9,9 +9,10 @@ oldlink: >
 published: true
 post_date: 2005-07-20 00:42:18
 ---
-	<p><b>Ook píše:</b>Dnes kolem půlnoci se na serveru LUPA objevila
+<p><b>Ook píše:</b>Dnes kolem půlnoci se na serveru LUPA objevila
 ruka v rukavici a text právě pracujeme. Tuto hlášku vystřídala kolem
 půl jedné jiná:</p>
+
 <div style="text-align: center; padding-top: 5em;">
 		<div style="border: 3px double rgb(136, 136, 136); margin: auto; padding: 0.4em; text-align: justify; width: 30em; background-color: rgb(238, 238, 238); font-family: sans-serif;">
 			<div>Vážení návštěvníci, tento server je v důsledku

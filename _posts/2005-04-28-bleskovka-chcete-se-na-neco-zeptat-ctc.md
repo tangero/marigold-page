@@ -9,5 +9,5 @@ oldlink: >
 published: true
 post_date: 2005-04-28 10:00:33
 ---
-	<p>za 15 minut vyrážím na tiskovku Telecomu o nových tarifech - chcete se jich na něco zeptat?
+<p>za 15 minut vyrážím na tiskovku Telecomu o nových tarifech - chcete se jich na něco zeptat?
 </p>

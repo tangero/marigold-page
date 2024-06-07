@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-07-12 15:05:26
 ---
-	<p><div class="leftbox"><img src="/wp-content/uploads/1/20050712-PICT0523.jpg" alt="na rampě" width="320" height="426" /></div><br /><b>Ook píše:</b><br/>
+<p><div class="leftbox"><img src="/wp-content/uploads/1/20050712-PICT0523.jpg" alt="na rampě" width="320" height="426" /></div><br /><b>Ook píše:</b><br/>
 Pokud
 sledujete zprávy z vědy a techniky, už asi víte, že zítra začíná
 startovací okno pro misi STS-114 (raketoplán Discovery k ISS). STS-114
@@ -21,4 +21,5 @@ chcete start vidět, zkuste se podívat na stránku <a href="http://www.nasa.gov
 <br />
 Snad se sem podaří poslat přes "mms" rozhraní fotku, kterou jsem před pár dny udělal u rampy 39B :-)
 </p>
+
 </p>

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-12-29 11:22:45
 ---
-	<p><b>ook píše</b>: Tak jsem se včera probíjel z Dejvic ke
+<p><b>ook píše</b>: Tak jsem se včera probíjel z Dejvic ke
 skorotchánovi do Přezletic (díky za optání, od zakruhování topologie
 tam nám CZF cloud funguje dobře). Celou cestu až do Čakovic jsem se
 probíjel neprotaženou silnicí (včetně ulic Argentinská a v

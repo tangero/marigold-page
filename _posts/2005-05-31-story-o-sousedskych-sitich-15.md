@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-05-31 07:00:00
 ---
-	<p>Tak se nám to pěkně vyvíjí. <br />
+<p>Tak se nám to pěkně vyvíjí. <br />
 <br />
 V lokalitě jedna jsme tak dlouho váhali s instalací pořádné antény na
 střechu, že v mezidobí začala poskytovat v té lokalitě svojí službu

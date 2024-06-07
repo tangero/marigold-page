@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-03-10 00:29:05
 ---
-	<p><strong>Oook píše:</strong> Sedim si tak v predsali na IETF meetingu, kde je
+<p><strong>Oook píše:</strong> Sedim si tak v predsali na IETF meetingu, kde je
 spousta technicky zdatnych lidi (ano, s klidnym srdcem muzu napsat
 hackeru) a nakej Ind tady pres pul salu vykrikuje do telefonu jmeno a
 heslo k nejakymu pristupovymu smerovaci level3 (spolu s IP adresou

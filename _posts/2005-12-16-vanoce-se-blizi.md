@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-12-16 22:05:30
 ---
-	<p><b>ook píše: </b>Že se blíží
+<p><b>ook píše: </b>Že se blíží
 Vánoce spolehlivě poznáte poté, co Vás opět začne spamovat Vltava a tým
 InternetShops. Jejich naivní představa, že si něco objednám od
 spammerů, by byla úsměvná, pokud by těma spamama nevotravovali.<br />

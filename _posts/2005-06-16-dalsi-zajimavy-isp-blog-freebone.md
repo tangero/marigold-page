@@ -9,5 +9,5 @@ oldlink: >
 published: true
 post_date: 2005-06-16 12:55:21
 ---
-	<p>Po Hostovinkách se objevil další zajímavý blog s tématikou internetu, tentokráte spíše na téma ISP. Jmenuje se <a href="http://freebone.bloguje.cz">Freebone</a>. Upozornil Hynek Med (toho upozornil Danny a toho nevíme kdo :) ).
+<p>Po Hostovinkách se objevil další zajímavý blog s tématikou internetu, tentokráte spíše na téma ISP. Jmenuje se <a href="http://freebone.bloguje.cz">Freebone</a>. Upozornil Hynek Med (toho upozornil Danny a toho nevíme kdo :) ).
 </p>

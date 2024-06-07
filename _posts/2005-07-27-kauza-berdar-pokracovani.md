@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-07-27 16:23:21
 ---
-	<p><b>Ook píše:</b> Kauza Berdár, ve které někdo
+<p><b>Ook píše:</b> Kauza Berdár, ve které někdo
 přepadl a zranil (tehdejšího) šéfa Telecomu a ten následně za několik
 desítek minut střílel po žluté škodovce, se dočkala prvních výsledků.
 Policie oznámila, že dva týpci, které Berdár považoval za strůjce

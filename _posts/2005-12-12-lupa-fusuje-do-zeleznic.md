@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-12-12 09:07:23
 ---
-	<p><b>ook píše</b>: Ve <a href="http://www.lupa.cz/zpravicky/pendolino-nema-mobily-rad/" >zprávičkách na Lupě</a>
+<p><b>ook píše</b>: Ve <a href="http://www.lupa.cz/zpravicky/pendolino-nema-mobily-rad/" >zprávičkách na Lupě</a>
 se panu Nehasilovi podařil hezký kousek. V souvislosti s problémem
 volání z/do Pendolína způsobeného existencí Faradayovy klecí se
 dopustil myšlenky, že problém je možné vyřešit odstátněním.<br />

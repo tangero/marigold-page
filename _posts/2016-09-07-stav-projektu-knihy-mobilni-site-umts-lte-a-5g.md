@@ -10,15 +10,23 @@ published: true
 post_date: 2016-09-07 10:19:43
 ---
 <p>Předsevzal jsem si, že dodělám knihu věnovanou mobilním sítím. Srozumitelnou, pro normální lidi, které by zajímalo, jak dnešní mobilní sítě fungují. Nevím, jestli tací lidé jsou (kromě mě), ale to je teď fuk. No a protože každý takovýhle rozsáhlejší “projekt” potřebuje nějaký bič a tenhle nemá žádný typu “deadline, po kterém bude vydavatel nasrán, když nedodám”, řekl jsem si, že nejlepší bude veřejná kontrola. Následuje předpokládaný stručný obsah knihy a stav rozpracovanosti. </p>
+
 <!--more-->
 
 <p>S ohledem na to, že kniha je koncipována pro normální lidi se zájmem o techniku, není určena k tomu, abyste si podle ní mohli sestrojit vlastní mobilní síť podle 3GPP standardu, takže taktně vynechávám témata, která mi nepřijdou všeobecně zajímavá, jako protokoly a rozhraní v rámci infrastruktury, synchronizační kanály a stavové informace a další věci, které jsou už hodně hluboko v síti a pro běžné pochopení je to hodně jedno. Navíc je to už velká nuda.</p>
+
 <p>Stejně tak jsem hodně reflektoval současný vývoj a značně zredukoval informace o technologiích, které se neuchytily (většinou je jen namátkově zmiňuju) - to zase kvůli rozsahu. O takovém MBMS vyšly knihy a našel jsem asi tak dva operátory, kteří to mají komerčně v síti. Asi ani nevíte, o co jde, něco jako mobilní televize (broadcast) - jenže dneska vládne stahování videí on demand, že ano. </p>
+
 <p>V oblasti LTE-Advanced a 5G už je kniha spíše o konceptech, protože tyhle věci nejsou ještě vždy schválené. </p>
+
 <p>Značnou část knihy také zabírá telekomunikační politika a historie. Toho si jsme dnes málo vědomi, jak standardy vznikají a jaké zákulisní přetahovánky se tam realizují. Myslím, že je dobré se na to podívat a mít o tom povšechnou představu. </p>
+
 <p>Pokud by se vám zdálo, že v knize něco chybí, klidně pište do komentářů. Článek se budu snažit udržovat s aktuálními daty o stavu dohotovenosti textu (dneska je to přes 200 000 znaků, hotové jsou kupodivu ty největší části textů) a co je podstatné, vlastně ke všemu včetně historických částí už mám nashromážděné podklady. Což sice znamená to zpracovat, ale velký kus práce už je na tom hotový. </p>
+
 <p>A ještě jedna věc: hovořím sice o knize, ale není jisté, zda tenhle projekt bude mít ve výsledku podobu knihy. Zatím se o tom nebavím s žádným vydavatelem, to budu řešit až ve chvíli, kdy bude hrubý text hotový, do té doby to nemá smysl, protože termín dohotovení závisí na množství práce obecně. Může se taky stát, že se vydavatel nenajde a místo papírové knihy z toho bude webová verze, na druhou stranu musím říct, že tyhle obsáhlejší věci papírovou nebo kindle/epub verzi pro pohodlné čtení a přemýšlení potřebují.</p>
+
 <p><em>PS: Kdybyste někdo věděli, co mám v CSS tady opravit, aby mi značka &lt;ol&gt; a &lt;li&gt; ukazovala čísla před kapitolami níže, dejte vědět, já na to nějak nemůžu přijít :(</em></p>
+
 <h2>Obsah knihy Mobilní sítě UMTS, LTE a 5G (stav k 7.9.2016)</h2>
 <ol>
 <li>Historie analogových mobilních sítí<ol>

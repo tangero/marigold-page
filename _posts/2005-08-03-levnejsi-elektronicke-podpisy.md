@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-08-03 16:43:38
 ---
-	<p><b>oook píše</b>:<br />
+<p><b>oook píše</b>:<br />
 <br />
 Podle <a href="http://digiweb.ihned.cz/?s1=i&amp;s2=0&amp;s3=0&amp;s4=0&amp;s5=0&amp;s6=0&amp;m=d&amp;a%5Bid%5D=16588040&amp;p=i00000_d" >Digiwebu</a>
 se Česká pošta stala další akreditovanou certifikační agenturou a může

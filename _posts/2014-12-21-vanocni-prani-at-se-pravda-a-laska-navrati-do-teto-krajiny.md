@@ -21,4 +21,5 @@ Povědomí o tom, že na prvním místě musí fungovat morálka, vymizelo z če
 
 Je-li čas na moji vánoční předpověď, pak ji vměstnám do konstatování, že dokud bude pravda a láska nadávkou, nebude dobře. A je-li čas na vánoční přání, tak snad tolik: ať se pravda a láska navrátí do této krajiny. Ať pochopíme, že to není smyslu zbavené heslo, které sami aktivně vyprazdňujeme. </p>
 
+
 Amen.

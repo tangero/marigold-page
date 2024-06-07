@@ -8,6 +8,7 @@ published: true
 post_date: 2018-01-06 08:11:59
 ---
 <p style="text-align: left;">Vloni (!) jsem se na chvíli vrátil ke své zálibě, analýze dat ze sociálních sítí. A podezření se stalo jistotou. Virální šíření není vůbec virální tak, jak ho většinově chápeme. Představa, že váš odkaz si budou šířit tisíce lidí po sociálních sítích a tím se stane navštěvovaný, je z poloviny mimo realitu. A pro marketing na sociálních sítích je to důležité říct si to.</p>
+
 Teorie virálního šíření říká, že stačí odkaz rozšířit mezi dostatečně velký počet lidí a ti jej začnou sami šířit dál, pokud má alespoň nějakou chytlavost. Ti, kdo pracují s marketingem v sociálních sítích, mají určité latentní podezření, že takhle to nefunguje, protože to vidí na datech, zadavatelé ale tu představu mají: pošleme odkaz pár lidem a za pár dní budou davy na webu či službě.
 Nebudou.
 

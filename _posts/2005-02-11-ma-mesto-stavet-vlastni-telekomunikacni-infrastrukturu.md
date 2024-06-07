@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2005-02-11 07:39:00
 ---
-	<p>Přesně na tohle se mne, jen trochu jinými slovy, ptal včera jeden
+<p>Přesně na tohle se mne, jen trochu jinými slovy, ptal včera jeden
 novinář v souvislosti s oznámením městské části Praha 5, že zpřístupní
 WiFi síť zdarma na svém území. Je to adekvátní otázka: má či nemá město
 (či v tomto případě jeho část) stavět telekomunikační infrastrukturu?

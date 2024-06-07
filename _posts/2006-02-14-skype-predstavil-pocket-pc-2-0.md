@@ -9,5 +9,5 @@ oldlink: >
 published: true
 post_date: 2006-02-14 17:42:30
 ---
-	<p>Zapomněl jsem to napsat přímo z tiskové konference, ale skype má novou verzi pro Pocket PC 2.0. Ptal jsem se na verzi pro Symbian. Pořád se na ní pracuje, ale nemá vysokou prioritu, protože se očekává málo uživatelů...
+<p>Zapomněl jsem to napsat přímo z tiskové konference, ale skype má novou verzi pro Pocket PC 2.0. Ptal jsem se na verzi pro Symbian. Pořád se na ní pracuje, ale nemá vysokou prioritu, protože se očekává málo uživatelů...
 </p>

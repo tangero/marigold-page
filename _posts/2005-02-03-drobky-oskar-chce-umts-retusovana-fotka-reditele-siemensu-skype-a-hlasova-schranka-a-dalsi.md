@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-02-03 08:59:18
 ---
-	<p>ČTÚ včera oficiálně potvrdilo, že O<b>skar Mobil podal žádost o udělení telekomunikační licence UMTS</b>
+<p>ČTÚ včera oficiálně potvrdilo, že O<b>skar Mobil podal žádost o udělení telekomunikační licence UMTS</b>
 v rámci prvního stupně výběrového řízení. To by znamenalo, že nakonec
 je společnost ochotna zaplatit za tuto licenci 2 mld Kč. Gratuluji k
 odvážnému rozhodnutí, i když je prý spíše výsledkem intenzivních

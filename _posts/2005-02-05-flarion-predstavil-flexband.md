@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-02-05 19:49:19
 ---
-	<p>Americký výrobce vysokorychlostních mobilních IP sítí Flarion
+<p>Americký výrobce vysokorychlostních mobilních IP sítí Flarion
 představil pokračování svých Flash OFDM systémů. Novinka se jmenuje
 Flexband a je založena na technologii nazvané BeaconTone. <br />
 <br />

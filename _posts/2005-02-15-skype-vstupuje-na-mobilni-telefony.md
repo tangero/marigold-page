@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-02-15 08:30:49
 ---
-	<p>Zatím byl Skype jen na osobních počítačích a PDA. Včera dopoledne
+<p>Zatím byl Skype jen na osobních počítačích a PDA. Včera dopoledne
 potvrdil výrobce zařízení i-Mate, že bude Skype přidávat do svých
 produktů a odpoledne na tiskové konferenci nám potvrdil i šéf mobilní
 divize Motoroly Ron Garriques, že Motorola podepsala dohodu se Skype a

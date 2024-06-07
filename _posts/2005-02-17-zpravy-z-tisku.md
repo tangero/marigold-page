@@ -9,10 +9,11 @@ oldlink: >
 published: true
 post_date: 2005-02-17 10:42:17
 ---
-	<p>Protože teď bude asi Patrick nějakou dobu mimo Internet a možnost
+<p>Protože teď bude asi Patrick nějakou dobu mimo Internet a možnost
 publikování (i když on vlastně může publikovat přes MMS), tak si zde
 dovolím malou výplň s odkazy na zajímavosti, které se v posledních dvou
 dnech objevily:</p>
+
 	<ul>
 	<li>jak to včera vypadalo na Ruzyňském letišti si můžete prohlédnout třeba na blogu <a href="http://blog.lide.cz/ilblog/2005/02/17/39" >Iva Lukačoviče</a>, snad to bude dnes lepší a Patrick se bude moci v pořádku vrátit.<br />
   </li>

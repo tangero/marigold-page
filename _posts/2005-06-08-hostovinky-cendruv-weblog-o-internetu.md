@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-06-08 07:57:24
 ---
-	<p>Objevil jsem (via <a href="http://blog.air4web.com/cendra-jede.html" >Krutá realita</a>) veblog Zdeňka Cendry nazvaný <a href="http://www.hostovinky.cz">Hostovinky.cz</a>.
+<p>Objevil jsem (via <a href="http://blog.air4web.com/cendra-jede.html" >Krutá realita</a>) veblog Zdeňka Cendry nazvaný <a href="http://www.hostovinky.cz">Hostovinky.cz</a>.
 Je věnovaný webhostingu a zajímavostem kolem něho, tedy něčemu, čemu se
 Cendra a jeho firma SuperHosting věnuje. Je to zajímavé počtení,
 doporučuji se tam mrknout.<br />

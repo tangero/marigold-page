@@ -9,9 +9,11 @@ oldlink: >
 published: true
 post_date: 2005-08-24 10:53:52
 ---
-	<p>Nová zajímavá modifikace pro oblíbený přístupový bod Ovislink AirLive WL-1120AP se začala prodávat v ČR pod názvem APPro. Jde o polskou modifikaci (lokalizovanou do češtiny) Linuxových modifikacích tohoto AP, čímž se významně rozšiřují jeho schopnosti, takže APPro poslouží dobře pro stavbu menších bezdrátových sítí. Výhodou je cena 2500 Kč s DPH, což je jen o málo více, než původní AP. Z funkcí bych vyzdvihl především WDS, omezování rychlosti, watchdog, izolaci klientů na WLAN rozhraní a regulaci vysílacího výkonu. </p>
-	<p>Mezi hlavní funkce APPro patří:</p>
-	<p>- režimy AP, AP WDS, šifrovaný AP WDS, AP klient
+<p>Nová zajímavá modifikace pro oblíbený přístupový bod Ovislink AirLive WL-1120AP se začala prodávat v ČR pod názvem APPro. Jde o polskou modifikaci (lokalizovanou do češtiny) Linuxových modifikacích tohoto AP, čímž se významně rozšiřují jeho schopnosti, takže APPro poslouží dobře pro stavbu menších bezdrátových sítí. Výhodou je cena 2500 Kč s DPH, což je jen o málo více, než původní AP. Z funkcí bych vyzdvihl především WDS, omezování rychlosti, watchdog, izolaci klientů na WLAN rozhraní a regulaci vysílacího výkonu. </p>
+
+<p>Mezi hlavní funkce APPro patří:</p>
+
+<p>- režimy AP, AP WDS, šifrovaný AP WDS, AP klient
 - Router, Bridge Point to Point / Point to Multipoint
 - agregace paketů v režimu bridge
 - plná obousměrná možnost routování TCP/IP protokolu
@@ -31,9 +33,12 @@ post_date: 2005-08-24 10:53:52
 - signalizace provozních stavů LED a kratší doba restartu zařízení
 - konfigurace bez nutnosti restartu při každém uložení nastavení
 atd.</p>
-	<p>web <a href="http://www.appro.cz/">Appro je zde</a>. </p>
-	<p>Na obrázku je Traffic Manager - regulace rychlosti. </p>
-	<p><center>
+
+<p>web <a href="http://www.appro.cz/">Appro je zde</a>. </p>
+
+<p>Na obrázku je Traffic Manager - regulace rychlosti. </p>
+
+<p><center>
 <img src="/wp-content/uploads/20050824-appro.gif" alt="APpro traffic manager" width="500" height="510" />
 </center>
 </p>

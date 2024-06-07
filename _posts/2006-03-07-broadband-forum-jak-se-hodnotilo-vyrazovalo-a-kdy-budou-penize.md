@@ -9,4 +9,4 @@ oldlink: >
 published: true
 post_date: 2006-03-07 10:34:13
 ---
-	<p><strong>Noname píše:</strong> Kdo ještě nemá zaregistrovaný <a href="http://www.internetprovsechny.cz/rss.xml">RSS kanál InternetProVšechny</a> a zajímá se o dění okolo BBF, nechť nezamešká <a href="http://www.internetprovsechny.cz/clanek.php?cid=159">můj dnešní článek na webu IPV</a>.</p>
+<p><strong>Noname píše:</strong> Kdo ještě nemá zaregistrovaný <a href="http://www.internetprovsechny.cz/rss.xml">RSS kanál InternetProVšechny</a> a zajímá se o dění okolo BBF, nechť nezamešká <a href="http://www.internetprovsechny.cz/clanek.php?cid=159">můj dnešní článek na webu IPV</a>.</p>

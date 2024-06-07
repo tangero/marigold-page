@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-09-18 19:31:36
 ---
-	<p><b>oook píše</b>: Nedá mi, abych ještě jednou neotočil téma soupeření reality show. <br />
+<p><b>oook píše</b>: Nedá mi, abych ještě jednou neotočil téma soupeření reality show. <br />
 <br />
 Vypadá to, že BigBrother se z prime time přesouvá na podvečer - a jeho návrat do prime time je velmi spíše zbožné přání. <br />
 <br />

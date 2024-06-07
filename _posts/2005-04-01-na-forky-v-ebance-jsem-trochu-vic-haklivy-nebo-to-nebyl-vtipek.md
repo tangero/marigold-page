@@ -9,9 +9,13 @@ oldlink: >
 published: true
 post_date: 2005-04-01 10:49:01
 ---
-	<p>Přikulím se ráno do práce a říkám si, že zkontroluju firemní i osobní účet, kdopak nám zaplatil nebo naopak komupak udělám radost já. A přihlašování do eBanky se nezdaří, což je věc veeeelmi výjimečná. Vyplivlo mi to tuhle obrazovku (trochu jsem ji ořízl o postranní menu).</p>
-	<p><img src="/wp-content/uploads/20050401-ebanka-vtipek.jpg" alt="eBanka - nejde se příhlásit" width="450" height="150" /></p>
-	<p>Všechno košér - až na maličkost. Dneska je 1.4.2005 a pokud má být všechno funkční 27.3.2005, je to trochu na pováženou. Přiznám se, že mne polilo horko a zima, protože v téhle zemi nikdy nevíte, kdy se která banka položí a o eBance se povídá také všelicos. </p>
-	<p>Uklidnilo mne až to, že když se to o čtvrt hodiny rozeběhlo, tak na účtech je jak vymeteno :)</p>
-	<p>Aprílový fórek? Jako banka bych ho radši vynechal...
+<p>Přikulím se ráno do práce a říkám si, že zkontroluju firemní i osobní účet, kdopak nám zaplatil nebo naopak komupak udělám radost já. A přihlašování do eBanky se nezdaří, což je věc veeeelmi výjimečná. Vyplivlo mi to tuhle obrazovku (trochu jsem ji ořízl o postranní menu).</p>
+
+<p><img src="/wp-content/uploads/20050401-ebanka-vtipek.jpg" alt="eBanka - nejde se příhlásit" width="450" height="150" /></p>
+
+<p>Všechno košér - až na maličkost. Dneska je 1.4.2005 a pokud má být všechno funkční 27.3.2005, je to trochu na pováženou. Přiznám se, že mne polilo horko a zima, protože v téhle zemi nikdy nevíte, kdy se která banka položí a o eBance se povídá také všelicos. </p>
+
+<p>Uklidnilo mne až to, že když se to o čtvrt hodiny rozeběhlo, tak na účtech je jak vymeteno :)</p>
+
+<p>Aprílový fórek? Jako banka bych ho radši vynechal...
 </p>

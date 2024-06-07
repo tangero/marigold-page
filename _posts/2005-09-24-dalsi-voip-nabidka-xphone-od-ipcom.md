@@ -9,8 +9,10 @@ oldlink: >
 published: true
 post_date: 2005-09-24 11:23:19
 ---
-	<p>Novou službu VoIP jsem našel v nabídce chrudimské firmy <a href="http://www.ipcom.cz">IPCom</a> - služba se jmenuje XPhone, což mi nějak koliduje s doménou <a href="http://www.Xphone.cz">Xphone.cz</a>, kde také vzniká VoIP služba, ovšem bez udání provozovatele. Kdo ví, třeba je to nějak propojené. </p>
-	<p>Služba je postavena na SIP protokolu a tady jsou ceny. Jak vidno, jedna z mála VoIP nabídek, kde se ještě více hraje na špičku a mimo špičku a meziměstské hovory...</p>
+<p>Novou službu VoIP jsem našel v nabídce chrudimské firmy <a href="http://www.ipcom.cz">IPCom</a> - služba se jmenuje XPhone, což mi nějak koliduje s doménou <a href="http://www.Xphone.cz">Xphone.cz</a>, kde také vzniká VoIP služba, ovšem bez udání provozovatele. Kdo ví, třeba je to nějak propojené. </p>
+
+<p>Služba je postavena na SIP protokolu a tady jsou ceny. Jak vidno, jedna z mála VoIP nabídek, kde se ještě více hraje na špičku a mimo špičku a meziměstské hovory...</p>
+
 	<h3></a>Ceník služeb Xphone</h3>
 	<table cellpadding="0" cellspacing="0" id="tarifPrehled">
 						<thead>

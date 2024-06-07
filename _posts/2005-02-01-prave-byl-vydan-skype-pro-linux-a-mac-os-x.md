@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-02-01 15:04:15
 ---
-	<p>Vývojáři Skype dnes uvolnili finální verzi <b>Skype pro Linux</b>. Další info <a href="http://www.skype.com/products/skype/linux" >a stahování zde</a>. Rovněž byla uvolněna <a href="http://www.skype.com/products/skype/macosx/">verze pro Max OS X</a>.<br />
+<p>Vývojáři Skype dnes uvolnili finální verzi <b>Skype pro Linux</b>. Další info <a href="http://www.skype.com/products/skype/linux" >a stahování zde</a>. Rovněž byla uvolněna <a href="http://www.skype.com/products/skype/macosx/">verze pro Max OS X</a>.<br />
 <br />
 Uvedení Skype pro Linux se obecně považuje za významný mezník, protože
 Linux komunita si brousí zuby na další udělátka založená na Skype a

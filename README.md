@@ -5,6 +5,7 @@
   <p align="center">
     <i>Můj osobní blog najdete na <a href="https://www.marigold.cz">Marigold.cz</a></i>
   </p>
+
 </div>
 
 ---

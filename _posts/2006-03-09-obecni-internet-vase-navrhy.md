@@ -9,15 +9,17 @@ oldlink: >
 published: true
 post_date: 2006-03-09 23:20:47
 ---
-	<p>
+<p>
   <strong>Noname píše:</strong>
   Vaše diskuse
   <a href="/item/jaky-je-vas-nazor-na-obecni-internet-zdarma">pod včerejším článkem</a>
   se rozjela, děkuji za všechny názory, samozřejmě není uzavřena, pište klidně nové nápady.
 </p>
+
 <p>
   Zatím zkusím sesumírovat co v diskusi padlo (omlouvám se za zjednodušení), přidám k tomu některé otázky, takže ti co zde najdou řešení, se kterým souhlasí, mohou zkusit odpovědět, ti ostatní mohou navrhnout jiné.
 </p>
+
 	<ol>
 	<li>Výběrové řízení na nízkorychlostní veřejný internet na určité pokrytí. Vyšší rychlosti může ISP nabízet za peníze. Obec se bude podílet na nákladech. (pablo)
 	<ul>

@@ -11,8 +11,9 @@ oldlink: >
 published: true
 post_date: 2006-06-07 17:05:09
 ---
-	<p><strong>Noname píše:</strong><br />
+<p><strong>Noname píše:</strong><br />
 Chtěl bych lidem, co začínají s počítačem ukázat, jaké aplikace na internetu jsou a jak internet efektivně využívat. Sám se na to ale koukám "z vnitřku koule", takže moc nevím, co ve skutečnosti používají ostatní. Dáte mi vaše tipy? Důraz - online, jednoduchost, využitelnost, čeština if possible ;), rozšíření</p>
+
 	<h3>Návrhy aplikací</h3>
 	<h4>Komunikace</h4>
 	<ul>
@@ -60,4 +61,4 @@ Chtěl bych lidem, co začínají s počítačem ukázat, jaké aplikace na inte
 	<li>aukce, info auta, deníky pro ženy, ....</li>
 	<li>Tv program</li>
 	</ul>
-	<p>Zapomněl jsem na něco, uvítám vaše tipy. Máte nějaké vlastní favority. co používáte vy, nebo vaši rodiče? Pak to dám dohromady a samozřejmě opublikuji</p>
+<p>Zapomněl jsem na něco, uvítám vaše tipy. Máte nějaké vlastní favority. co používáte vy, nebo vaši rodiče? Pak to dám dohromady a samozřejmě opublikuji</p>

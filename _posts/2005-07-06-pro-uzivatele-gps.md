@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-07-06 17:55:44
 ---
-	<p><b>Oook píše:</b>Už nějakou dobu používám pro svoje cesty po ČR modrozubí GPS ve spolupráci s iPAQem 4700 a PocketKimem. <br />
+<p><b>Oook píše:</b>Už nějakou dobu používám pro svoje cesty po ČR modrozubí GPS ve spolupráci s iPAQem 4700 a PocketKimem. <br />
 <br />
 iPAQ mám připevněný univerzálním držákem k přednímu sklu (tak, abych na
 něj dobře viděl) a GPS je pod zadním sklem mého hatchbacku. <br />

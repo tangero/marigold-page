@@ -9,12 +9,18 @@ oldlink: >
 published: true
 post_date: 2006-03-13 13:11:56
 ---
-	<p><strong>Noname píše:</strong> Minulý týden jsme tu ve dvou článcích (<a href="/item/jaky-je-vas-nazor-na-obecni-internet-zdarma">Jaký je váš názor na obecní internet zdarma</a> a <a href="/item/obecni-internet-vase-navrhy">Obecní internet - vaše návrhy</a>) otevřeli diskusi na téma obecního internetu. Přiznám se, byl to ode mě takový podlý tah, čekal jsem, až se někdo zeptá na jeden klíčový bod "proč vlastně obecní internet", až konečně <a href="/item/obecni-internet-vase-navrhy#comment11356">pod druhým článkem tak učinil Pavel</a> a byl za to veřejně před nastoupenou jednotkou pochválen ;-).</p>
+<p><strong>Noname píše:</strong> Minulý týden jsme tu ve dvou článcích (<a href="/item/jaky-je-vas-nazor-na-obecni-internet-zdarma">Jaký je váš názor na obecní internet zdarma</a> a <a href="/item/obecni-internet-vase-navrhy">Obecní internet - vaše návrhy</a>) otevřeli diskusi na téma obecního internetu. Přiznám se, byl to ode mě takový podlý tah, čekal jsem, až se někdo zeptá na jeden klíčový bod "proč vlastně obecní internet", až konečně <a href="/item/obecni-internet-vase-navrhy#comment11356">pod druhým článkem tak učinil Pavel</a> a byl za to veřejně před nastoupenou jednotkou pochválen ;-).</p>
+
 <p>Otázka PROČ je totiž u obecního internetu naprosto kruciální, neboť každá odpověď může přinést jiné "JAK", což si později ukážeme. Z toho důvodu ani nemohu brát argument Ooooka, že "je uplne jedno, jaky motiv ma konkretni obec k zavedeni Internetu - pokud je ten motiv legitimni a legalni". Právě proto, že jsem četl stovku obecních projektů tak mohu s klidem v srdci říct, že 99% z nich nevědělo vlastně PROČ a ty projekty podle toho vypadaly.</p>
+
 <p>Proto, že takové projekty 8 let dělám, mohu říct, že to není vůbec snadné, a ačkoliv velmi věřím mnoha místním politikům, tak ani při nejlepší vůli nevěřím, že mají povědomí o Internetu, IT trhu, situaci u nich a v okolí, dostupných nabídkách na trhu, dostupnosti páteřní konektivity atd. Samozřejmě, že když se staví stilnice, tak politik také nemusí vědět, kolik musí mít silnice třetí třídy centimentrů živice atp. Ale silnice je relativně jednoduchá - řeknete 5 firmám chci silnici odsuď podsuď, tohle jsou pozemky, chci aby stála tehdy a tehdy, chci na ní min. 10 let záruku (inteligentní obce) - dejte mi vaši cenu. Samozřejmě i zde se "politikaří", znám starostu, který řekl, že stačí když silnice vydrží jen 2 roky, že pak mu končí funkční období, úplatky jsou také na denním pořádku. Ale provoz je pak zdarma, žádné další peníze obec nemusí vynakládat, postavením silnice neohrozíte konkurenci ostatním silnicím, znáte přesně výstavbu v blízkém okolí, takže víte, že bude silnice min. 10-20 let kapacitně dostačovat ...</p>
+
 <p>Když politici u "obecního internetu" ale nemají vůbec šajn PROČ, tak to dopadá tak, že sednou na lep prvnímu ISP, který za nimi přijde a hezky popíše vlastní řešení, nebo který dá do správné kapsy správně naditou obálku.</p>
+
 <p>Takže konečně se dostáváme k tomu PROČ obecní internet. Dám vám seznam pár příkladů odpovědí, není samozřejmě úplný, opět je místo v diskusi na jeho rozšíření. V té které konkrétní obci samozřejmě může být najednou více důvodů, některé více, jiné méně důležité.</p>
+
 <p><strong>Update 16:34</strong>: Další 2 důvody, viz <a href="/item/obecni-internet-proc">celý článek</a></p>
+
 <!--more-->	<ul>
 	<li>Protože tak získáme hlasy voličů.</li>
 	<li>Protože jsme dostali pěknou naditou obálku od jednoho ISP.</li>
@@ -43,4 +49,4 @@ post_date: 2006-03-13 13:11:56
 	<li>Protože se od nás stěhují lidé do města, protože zde nemají práci.</li>
 	<li>Protože se k nám nikdo nechce stěhovat, protože by nemohl pracovat ani vzdáleně. Klesají tak ceny obecních pozemků, lidé sem jezdí maximálně na víkend na chatu a klesají tak tržby místním obchodníkům.</li>
 	</ul>
-	<p>Poslední odpovědi se dají shrnout pod pojem "digital divide". Jak vidno, dostupný Internet může snížit náklady obce, zvýšit její příjmy, zamezit nezaměstnanosti, přilákat návštěvníky obce i její stálé obyvatele. Nechť je to tedy odpověď na názor, že by se tím obec vůbec neměla zabývat, i na pochyby o účelnosti dotací do některých nejkrizovějších oblastí. Těším se na vaše další návrhy.</p>
+<p>Poslední odpovědi se dají shrnout pod pojem "digital divide". Jak vidno, dostupný Internet může snížit náklady obce, zvýšit její příjmy, zamezit nezaměstnanosti, přilákat návštěvníky obce i její stálé obyvatele. Nechť je to tedy odpověď na názor, že by se tím obec vůbec neměla zabývat, i na pochyby o účelnosti dotací do některých nejkrizovějších oblastí. Těším se na vaše další návrhy.</p>

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-02-16 00:21:01
 ---
-	<p>V Cannes jsem se šel podívat na technologii Flexband, kterou
+<p>V Cannes jsem se šel podívat na technologii Flexband, kterou
 americký Flarion možná prodá českému T-Mobile pro jeho síť v pásmu 872
 MHz. Přítomný flarionista všechny moje narážky na toto téma hrdinně
 odrážel, ale bylo jasné, že je to jasné :)<br />

@@ -69,4 +69,4 @@ Diplomová práce
 <P>Část systémových prostředků nebo prostředků překladače, interpretru, sloužila k hlídání stavu emocionální třídy programu a podle toho přímo modifikovala průběh programu. Neurograming se uplatnil především při návrhu komplexních a rozsáhlých systémů a pomohl posunout vývoj rozsáhlých softwarových celků na další vyšší úroveň. Až na návrh systémů s umělou inteligencí ale nedosáhl. 
 <P>Neurograming a jeho sublicencování ostatním firmám tvořícím vývojové nástroje přineslo Borlandu značné příjmy a po dlouhou dobu také čelní místo mezi firmami snažícími se překlenout a vyřešit problém Limity. Zatímco na pohlcení Microsoftu tyto příjmy stačily, čistě technicistní řešení Limity na dosah nebylo. 
 <P><EM><STRONG>Pokračování zase příště... </STRONG></EM>
-<P><EM><STRONG>...nicméně otázka na vás je, jak by povídka měla pokračovat... co myslíte, je umělá inteligence nedosažitelnou vizí, nebo blízkou realitou?</STRONG></EM></P>
+<P><EM><STRONG>...nicméně otázka na vás je, jak by povídka měla pokračovat... co myslíte, je umělá inteligence nedosažitelnou vizí, nebo blízkou realitou?</STRONG></EM></p>

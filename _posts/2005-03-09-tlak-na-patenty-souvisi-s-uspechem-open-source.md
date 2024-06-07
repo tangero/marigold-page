@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-03-09 20:38:08
 ---
-	<p><b>Oook píše:</b> Jak jsem se na chvíli vymanil z každodenního
+<p><b>Oook píše:</b> Jak jsem se na chvíli vymanil z každodenního
 pobíhání, přečetl jsem si pár článků na téma softwarové patenty a
 zarazilo mě, že zatím nikoho nenapadlo spojit tažení velkých sw
 společností (a EK) za softwarovými patenty v Evropě s úspěchem Open

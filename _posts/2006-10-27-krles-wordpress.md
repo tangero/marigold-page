@@ -9,9 +9,12 @@ oldlink: >
 published: true
 post_date: 2006-10-27 11:56:55
 ---
-<texy>	<p><strong>Noname píše:</strong> Tak Patrick v mailu odsouhlasil přechod na WordPress, budoucnost ukáže, jestli to bude jen dočasné řešení problémů se zastaralým systémem a spamy, nebo jestli se z toho podaří vyvinout životaschopný systém pro <a href="http://www.marigold.cz/item/pojdme-udelat-nejakou-silenost-co-takhle-akciovy-marigold">Patrickovy plány</a> a <a href="http://www.marigold.cz/item/bez-web-2-0-pochcipa-cesky-internet-na-zatuchlost">názory</a>. Takže až budu mít hoďku čas (což bude doufám nejpozději příští týden), tak to tu převedu na <a href="http://wordpress.org/">WordPress</a> nebo na <a href="http://mu.wordpress.org/">WordPress MU</a>, musím si nejdřív MU nainstalovat a zjistit rozdíly, jestli na to co Patrick chce není lepší klasický WP s nějakými pluginy. </p>
+<texy><p><strong>Noname píše:</strong> Tak Patrick v mailu odsouhlasil přechod na WordPress, budoucnost ukáže, jestli to bude jen dočasné řešení problémů se zastaralým systémem a spamy, nebo jestli se z toho podaří vyvinout životaschopný systém pro <a href="http://www.marigold.cz/item/pojdme-udelat-nejakou-silenost-co-takhle-akciovy-marigold">Patrickovy plány</a> a <a href="http://www.marigold.cz/item/bez-web-2-0-pochcipa-cesky-internet-na-zatuchlost">názory</a>. Takže až budu mít hoďku čas (což bude doufám nejpozději příští týden), tak to tu převedu na <a href="http://wordpress.org/">WordPress</a> nebo na <a href="http://mu.wordpress.org/">WordPress MU</a>, musím si nejdřív MU nainstalovat a zjistit rozdíly, jestli na to co Patrick chce není lepší klasický WP s nějakými pluginy. </p>
+
 <p>A tímto se obracím na WordPress komunitu - ne že bychom byli úplní WP zelenáči, ale víc hlav víc ví. Uvítám náměty na zajímavé pluginy či "hacky", aby to tu bylo co nejlepší. V Celém článku jsou pluginy a řešení, které zaujaly mě (netvrdím, že je tam všechny budu dávat, jen mě zaujaly), třeba se to bude hodit i dalším. Určitě uvítám, jestli máte někdo i nějaká nepublikovaná řešení a nebo jestli jen chcete nabídnout pomocnou ruku.</p>
+
 <p>Tak držte palce.</p>
+
 <!--more-->	<ul>
 	<li><a href="http://codex.wordpress.org/Importing_Content#Nucleus_CMS">Jak na WordPress migraci z Nucleus a jiných CMS</a></li>
 	<li><a href="http://akismet.com/">Akismet antispam</a></li>

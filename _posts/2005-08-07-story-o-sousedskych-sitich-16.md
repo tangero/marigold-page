@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-08-07 18:30:34
 ---
-	<p><b>Oook píše:</b><br />
+<p><b>Oook píše:</b><br />
 Minulý týden se nám podařilo v lokalitě dvě konečně vytvořit první
 kolečko (pro síťaře - změnili jsme topologii ze sběrnicové na kruhovou)
 - díky tomu se nám zvedla spolehlivost (což pociťuji zejména snížením

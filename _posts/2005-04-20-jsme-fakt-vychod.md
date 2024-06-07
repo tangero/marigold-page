@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-04-20 00:20:10
 ---
-	<p><b>Oook píše:</b>Když jsem v pátek spěchal v Praze na letiště, viděl jsem melou
+<p><b>Oook píše:</b>Když jsem v pátek spěchal v Praze na letiště, viděl jsem melou
 nehodičku. Skupina zahraničních turistů tak nešikovně manévrovala s
 vozíkem s kufry, že se jim jeden opřel o zadek passatu místního
 taxikáře netaxikáře (poznávací znamení - logo VISA na dveřích). Chlapík

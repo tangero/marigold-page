@@ -11,9 +11,12 @@ oldlink: >
 published: true
 post_date: 2006-07-13 08:08:04
 ---
-	<p>Nerad to dělám, ale pro vlastní blaho je to potřeba: hledá se schopný Javista pro opravdu zajímavý a slušně proinvestovaný projekt projekt online videa. Ještě, než se případný zájemce začte do standardního inzerátu, bych připomněl z mého pohledu hlavní devizu téhle práce: dost zajímavá věc unikátní i v celosvětovém měřítku a navíc s velmi zajímavými lidmi okolo. </p>
-	<p>Mladá, dynamicky se rozvíjející společnost zaměřující se na televizní zábavu, hledá JAVA programátora na pozici vývoje webového projektu v oblasti streamingu a distribuce videa a socioware.</p>
-	<p>Požadavky:</p>
+<p>Nerad to dělám, ale pro vlastní blaho je to potřeba: hledá se schopný Javista pro opravdu zajímavý a slušně proinvestovaný projekt projekt online videa. Ještě, než se případný zájemce začte do standardního inzerátu, bych připomněl z mého pohledu hlavní devizu téhle práce: dost zajímavá věc unikátní i v celosvětovém měřítku a navíc s velmi zajímavými lidmi okolo. </p>
+
+<p>Mladá, dynamicky se rozvíjející společnost zaměřující se na televizní zábavu, hledá JAVA programátora na pozici vývoje webového projektu v oblasti streamingu a distribuce videa a socioware.</p>
+
+<p>Požadavky:</p>
+
 	<ul>
 	<li>objektové programování (nejlépe výborná znalost Javy nebo C++ popř. jiný obj. orientovaný jazyk)</li>
 	<li>znalost SQL</li>
@@ -28,7 +31,8 @@ post_date: 2006-07-13 08:08:04
 	<li>schopnost přizpůsobit se nárokům při vývoji založeném na principu extrémního programování
 </li>
 	</ul>
-	<p>Nabízíme:</p>
+<p>Nabízíme:</p>
+
 	<ul>
 	<li>zajímavou a perspektivní práci v rychle se rozvíjející společnosti
  </li>
@@ -36,5 +40,5 @@ post_date: 2006-07-13 08:08:04
 </li>
 	<li>možnost profesního i osobnostního růstu</li>
 	</ul>
-	<p>Zájemci nechť posílají své profesní životopisy <a href="mailto:job1@global-inspiration.cz">na tento email</a>, nebo kontaktují přímo mne (kdo neví jak, neprošel prvním kolem inteligenčních testů).
+<p>Zájemci nechť posílají své profesní životopisy <a href="mailto:job1@global-inspiration.cz">na tento email</a>, nebo kontaktují přímo mne (kdo neví jak, neprošel prvním kolem inteligenčních testů).
 </p>

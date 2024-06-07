@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-03-08 15:06:35
 ---
-	<p>Česká televize rozšířila <a href="http://www.czech-tv.cz/vysilani/"  target="_blank">nabídku vysílání do Internetu</a>
+<p>Česká televize rozšířila <a href="http://www.czech-tv.cz/vysilani/"  target="_blank">nabídku vysílání do Internetu</a>
 o další pořady (především publicistiku). Ke zpravodajství, Popularisu a
 Diagnóze tak přibyly pořady jako Černé ofce, Reportéři ČT, Objektiv
 nebo otázky Václava Moravce. <br />

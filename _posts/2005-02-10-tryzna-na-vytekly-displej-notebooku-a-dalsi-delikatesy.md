@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-02-10 07:40:00
 ---
-	<p>Tento týden se vůbec nevydařil. Neuvěřitelně nahuštěná práce toho
+<p>Tento týden se vůbec nevydařil. Neuvěřitelně nahuštěná práce toho
 nebyla hlavní příčinou. Začalo to v neděli, kdy jsem s překvapením
 zjistil, že někdo dokáže být bezdůvodně neuvěřitelně nechutný. Abych si
 spravil náladu, vyrazil jsem na Výjezdní zasedání, jak zoveme slety s

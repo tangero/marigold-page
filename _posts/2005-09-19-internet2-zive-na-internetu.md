@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-09-19 01:48:22
 ---
-	<p><b>oook píše</b>: Dnes začíná ve Filadelfii <a href="http://events.internet2.edu/2005/fall-mm/agenda.cfm?event=239" >podzimní Internet2</a>
+<p><b>oook píše</b>: Dnes začíná ve Filadelfii <a href="http://events.internet2.edu/2005/fall-mm/agenda.cfm?event=239" >podzimní Internet2</a>
 meeting. Pokud chcete vidět, jaké aplikace připravují američtí
 akademici, doporučuji se podívat alespoň na jednu on-line vysílanou
 přednášku.<br />

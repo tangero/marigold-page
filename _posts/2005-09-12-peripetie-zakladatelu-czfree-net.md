@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-09-12 09:24:38
 ---
-	<p><b>ook píše</b>: Na portlu <a href="http://czfree.net/forum/showthread.php?threadid=13982" >CZFree.Net</a> se objevilo další pokračování komerčních aktivit člověka, který je považován za otce komunitní sítě CZFree.Net. <br />
+<p><b>ook píše</b>: Na portlu <a href="http://czfree.net/forum/showthread.php?threadid=13982" >CZFree.Net</a> se objevilo další pokračování komerčních aktivit člověka, který je považován za otce komunitní sítě CZFree.Net. <br />
 <br />
 Asi málokdo pochybuje o tom, že na stavbu sítí jsou potřeba peníze (jak
 tvrdí výzkumníci z VÚČAKO - vyfukováním kouře do vody zlato nevzniká).

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-02-01 08:30:23
 ---
-	<p>Na Lupě.cz dneska <a href="http://www.lupa.cz/clanek.php3?show=3913" >vyšel první díl mého článku</a>
+<p>Na Lupě.cz dneska <a href="http://www.lupa.cz/clanek.php3?show=3913" >vyšel první díl mého článku</a>
 věnovaného historii a rozvoji broadband internetu v Koreji. Článek byl
 původně jednodílný, ale s šéfredaktorem Lupy jsme usoudili, že jsem ho
 přeci jen natáhl přes míru a že bude dobré ho v polovině rozseknout.

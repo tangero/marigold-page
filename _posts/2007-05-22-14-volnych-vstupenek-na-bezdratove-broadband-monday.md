@@ -13,10 +13,11 @@ post_date: 2007-05-22 10:55:23
 ---
 <p>Příští pondělí pořádá TUESDAY Business Network akci s všeříkajícím názvem <a href="http://tuesday.cz/detailAkce.aspx?id=299">Broadband jde i bez drátů, milí uživatelé</a>. Tématem tedy budou bezdrátové sítě (nejen WiFi). Program akce je následující:</p>
 
+
 <div>
 	<h3>Broadband jde i bez drátů, milí uživatelé</h3>
 	
-	<p><table cellpadding="3" cellspacing="0" border="0">
+<p><table cellpadding="3" cellspacing="0" border="0">
 <tr bgcolor="#FFFCF0"> 
    <td valign="top"><font face="verdana, sans-serif">16.30</font></td>
    <td valign="top"><font face="verdana, sans-serif"><b>Registrace</b><br>
@@ -71,7 +72,9 @@ Pavel Píštěk (<A HREF="http://www.voipex.cz" TARGET="_blank">IPEX</A>)<br>
 </tr>
 </table></p>
 
+
 	</div>
 
 <p>Jak jste si asi všimli, druhým přednášejícím jsem já, moji přednášku jsem ale pojal spíše 'úvodně', tedy budu shrnovat vývoj bezdrátů (hlavně tedy WiFi), v posledním slajdu se zmiňuji jestli vůbec a za jakých podmínek mohou s nimi bojovat ostatní soutěžitelé.</p>
+
 <p>Při té příležitosti se mi pro vážné zájemce podařilo sehnat několik volňásků, zbývá mi jich teď 14. Jestli je tu nějaký vážný zájemce z řad wifi operátorů, isp či jiných telco firem, který si je jistý, že bude mít v pondělí v pět čas a bude se pohybovat okolo pražského IP Pavlova, napište mi na tomas zavináč kapler tečka cézet a já vám volňásek zařídím, jinak je cena 500 Kč.</p>

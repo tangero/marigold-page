@@ -9,14 +9,18 @@ oldlink: >
 published: true
 post_date: 2005-07-20 07:55:16
 ---
-	<p>U provozovatele VoIP služby Softphone došlo v průběhu posledních dní k menšímu převratu. Z provozování služby totiž odešel dosavadní administrátor a hlavní vývojář Petr Styx. Služba SoftPhone v neděli zhavarovala a <a href="http://wwwold.softphone.cz/index.php?spn=cGFnZT0xNDA=">provozovatel vydal</a> následující zprávu:</p>
+<p>U provozovatele VoIP služby Softphone došlo v průběhu posledních dní k menšímu převratu. Z provozování služby totiž odešel dosavadní administrátor a hlavní vývojář Petr Styx. Služba SoftPhone v neděli zhavarovala a <a href="http://wwwold.softphone.cz/index.php?spn=cGFnZT0xNDA=">provozovatel vydal</a> následující zprávu:</p>
+
 	<blockquote><p>
 Omlouváme se všem našim klientům za neplánovaný výpadek služby. Bylo nutné zajistit a převzít kontrolu po bývalém administrátorovi SoftPHONE, který nám začal v nemalé míře škodit. V tuto chvíli dáváme dohromady naši vnitřní síť a proto je momentálně nedostupná Hotline, v případě potřeby volejte prosím dočasné telefonní číslo 530504339. Služba SoftPHONE bude nadále spuštěna a vyvíjena ke spokojenosti zákazníkům.
-</p></blockquote>
-	<p>Zmíněný (a nejmenovaný) bývalý administrátor Petr Styx k tomu rozeslal následující doplnění:</p>
+</p>
+</blockquote>
+<p>Zmíněný (a nejmenovaný) bývalý administrátor Petr Styx k tomu rozeslal následující doplnění:</p>
+
 	<blockquote><p>
 Vazeni uzivatele sluzby Softphone,</p>
-	<p>Jsem nucen reagovat na informace, ktere formou emailu vam vsem rozesila
+
+<p>Jsem nucen reagovat na informace, ktere formou emailu vam vsem rozesila
 poskytovatel teto sluzby spolecnost Penelopa, s.r.o. Spolecnost Penelopa
 oznacuje v uvedenem mailu za puvodce potizi, ktere vznikly pri provozovani
 sluzby Softphone byvaleho Administratora, ktery v nemale mire (a z
@@ -46,7 +50,9 @@ pochopite, ze jsem postupoval vzdy tak, abych vam jako uzivatelum sluzby
 vysel vzdy co nejvic vstric a ze mym cilem nebylo nikdy poskozeni ani vas
 ani spolecnosti Penelopa. Preji vam hodne spokojenosti pri telefonovani
 pres internet.</p>
-	<p>Petr Styx
-</p></blockquote>
-	<p>Jak to dál bude se SoftPhone - podaří se společnosti Penelopa udržet službu v provozu a třeba i v nějakém rozvoji? Uvidíme... osobně mi přijde, že problémy přetrvávají, ke službě se mi nedaří přes X-lite přihlásit.
+
+<p>Petr Styx
+</p>
+</blockquote>
+<p>Jak to dál bude se SoftPhone - podaří se společnosti Penelopa udržet službu v provozu a třeba i v nějakém rozvoji? Uvidíme... osobně mi přijde, že problémy přetrvávají, ke službě se mi nedaří přes X-lite přihlásit.
 </p>

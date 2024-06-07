@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-05-01 15:11:50
 ---
-	<p>Patrik se dopustil malé nesrovnalosti. Bohužel mu na ní stojí celý článek <a href="../item/na-siti-nebo-na-disku-otazka-skoro-hamletovska" >Na síti nebo na disku - otázka skoro hamletovská ...</a><br />
+<p>Patrik se dopustil malé nesrovnalosti. Bohužel mu na ní stojí celý článek <a href="../item/na-siti-nebo-na-disku-otazka-skoro-hamletovska" >Na síti nebo na disku - otázka skoro hamletovská ...</a><br />
 <br />
 Abych ušetřil Patrika zdrcujícího komentáře z Výzkumného ústavu čar a
 kouzel, jen malé upřesnění. Autoři Marigolda si uvědomují, že při

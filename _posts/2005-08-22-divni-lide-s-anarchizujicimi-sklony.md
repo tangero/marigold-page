@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-08-22 15:13:19
 ---
-	<p><b>oook píše:</b> Tak jsem o vikendu navštívil závod českého <a href="http://www.trucktrial.cz/" >truck trialu</a>.
+<p><b>oook píše:</b> Tak jsem o vikendu navštívil závod českého <a href="http://www.trucktrial.cz/" >truck trialu</a>.
 Ne, že bych se honil v náklaďácích po pískovnách, nicméně mi to přišlo
 celkem fajn. Navíc po dvou dnech nevypadalo okolí pískovny (kde byla
 parkoviště) ani pískovna sama nějak zdevastovaná. Pokud jsem zahlédl

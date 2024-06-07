@@ -9,8 +9,11 @@ oldlink: >
 published: true
 post_date: 2005-06-06 07:58:40
 ---
-	<p>S videotelefonem ZyXEL P-5000W se firma vytasila již na letošním CeBITu (<a href="http://www.zyxel.com/news/press.php?indexflag=20050310014235">zde TZ</a>) a jak to tak vypadá, telefon se bude opravdu vyrábět. Zyxel by totiž telefon mohl začít dodávat od příštího týdne. </p>
-	<p>Jeho hlavní výhodou je pětipalcový LCD displej s dotykovou obrazovkou a vestavěnou CMOS kamerou. Lze jej dálkově ovládat infračerveným ovládáním a připojit jej jako hlasové - obrazové příslušenství přes bluetooth. Podpora SIP je samozřejmostí. Obrázek je z <a href="http://www.engadget.com/entry/1234000830045607">Engadget</a>.</p>
-	<p><img src="/wp-content/uploads/20050606-zyxelp5000.jpg" alt="ZyXEL P-5000W" width="340" height="321" /></p>
-	<p>Že by se z videotelefonie pomalu stával další hit? Na trhu je už jeden podobný videotelefon, byť značně slabší - <a href="http://mobil.idnes.cz/mob_aktuality.asp?r=mob_aktuality&amp;c=A040503_5257270_mob_aktuality">Motorola Ojo</a>.
+<p>S videotelefonem ZyXEL P-5000W se firma vytasila již na letošním CeBITu (<a href="http://www.zyxel.com/news/press.php?indexflag=20050310014235">zde TZ</a>) a jak to tak vypadá, telefon se bude opravdu vyrábět. Zyxel by totiž telefon mohl začít dodávat od příštího týdne. </p>
+
+<p>Jeho hlavní výhodou je pětipalcový LCD displej s dotykovou obrazovkou a vestavěnou CMOS kamerou. Lze jej dálkově ovládat infračerveným ovládáním a připojit jej jako hlasové - obrazové příslušenství přes bluetooth. Podpora SIP je samozřejmostí. Obrázek je z <a href="http://www.engadget.com/entry/1234000830045607">Engadget</a>.</p>
+
+<p><img src="/wp-content/uploads/20050606-zyxelp5000.jpg" alt="ZyXEL P-5000W" width="340" height="321" /></p>
+
+<p>Že by se z videotelefonie pomalu stával další hit? Na trhu je už jeden podobný videotelefon, byť značně slabší - <a href="http://mobil.idnes.cz/mob_aktuality.asp?r=mob_aktuality&amp;c=A040503_5257270_mob_aktuality">Motorola Ojo</a>.
 </p>

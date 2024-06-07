@@ -9,12 +9,13 @@ oldlink: >
 published: true
 post_date: 2005-02-02 08:06:49
 ---
-	<p>Jsou lidé, jejichž smrt je pro mnohé jen jménem na úmrtním oznámení, číslem
+<p>Jsou lidé, jejichž smrt je pro mnohé jen jménem na úmrtním oznámení, číslem
 v policejní statistice. A pak jsou lidé, jejichž smrt citelně zasáhne
 desítky tisíc lidí, ať už si to připouštějí či nikoliv. Jeden z nich,
 majitel a zakladatel telekomunikační firmy <a href="http://www.ha-vel.cz" >ha-vel a.s.</a> Petr Halfar, nás opustil v
 pondělí.
-</p><p>
+</p>
+<p>
 Ve svých dvaceti letech založil se svým kamarádem ve Frýdku-Místku firmu,
 která dodávala konektivitu jen pár firmám v největších městech severní
 Moravy (Opava, Ostrava, Frýdek-Místek). I přes nedůvěru mnoha lidí v okolí
@@ -24,7 +25,8 @@ hudební ceny Anděl), připojoval obyčejné lidi i kancelář prezidenta Václ
 Havla, logo jeho firmy mají <a href="http://www.ha-vel.cz/?ID=327">na
 trenýrkách</a> hráči nejednoho prvoligového fotbalového týmu. Byl to velký
 člověk.
-</p><p>
+</p>
+<p>
 Říkal o sobě, že je dítě štěstěny, a lidé z jeho blízkého okolí mu museli
 dát za pravdu. Ať dělal sebekrkolomnější věci či projekty, vždy mu
 vycházely. Až do pondělka. Jeho anděl strážný s ním přestal mít trpělivost a
@@ -37,10 +39,13 @@ vtáhl do projektu několik významných lidí mnoha profesí, kteří pomáhali
 sen uskutečnit. Je moc brzy odhadovat, zda se jeho nejbližším
 spolupracovníkům podaří splnit mu jeho sen alespoň in memoriam. Když zemře
 srdce a duše, tělo žít nemůže. A Centrála pro něj znamenala rEvoluci.
-</p><p>
+</p>
+<p>
 Na <a href="http://www.ha-vel.cz/soubory/parte.jpg">parte</a> mu napsali:
 Chtěl tak moc. Já jen připisuji - ale ne pro sebe. </p>
+
 <p><span style="font-style: italic;">Zdeněk "Vreco" Polách</span></p>
+
 <p>Já sám jsem nevěděl, co na takovouhle zprávu napsat, ani co na ni
 říct, aby to nebyla divná fráze. Petra Halfara jsem osobně potkával
 mnohem méně, než Vreco, spíše jsme si psali. Smál jsem se Petru

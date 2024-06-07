@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2005-02-09 08:04:00
 ---
-	<p>Tele2 zažalovalo Český Telecom a ten to považuje za komunikační
+<p>Tele2 zažalovalo Český Telecom a ten to považuje za komunikační
 gesto. Bude to gesto za dvě miliardy, které by Tele2 rádo, nebo jen
 vyhodí peníze za právníky a udělají si trochu toho píárká? Aby žalob
 nebylo málo, dnes prohlásil eTel, že tuto žalobu podporuje. eTel také
