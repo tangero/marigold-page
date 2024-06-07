@@ -9,8 +9,9 @@ oldlink: >
 published: true
 post_date: 2006-01-09 20:26:36
 ---
-	<p><strong>Noname píše:</strong>
+<p><strong>Noname píše:</strong>
 Už tu dlouho nebyl žádný článek na téma Wi-Fi hardware, já teď jednu krabičku sháněl, hledal jsem, co je nového a přitom jsem našel něco úžasného - <a href="http://www.wifi-shop.cz/produkt/wrt-311-ap/router/client/">WRT-311 AP/Router/Client</a>.</p>
+
 <p>Jednu věc musím vyzdvihnout nejdřív - v krabici je <strong>český manuál</strong>, webové rozhraní je <strong>plně v češtině</strong>. Je to sice věc, kterou asi hodně místních neocení, protože umí dobře anglicky, ale i přesto že čtu anglickou beletrii stejně rychle jako českou, tak to, že někdo investuje do českého překladu oceňuji a byl bych za to ochoten i připlatit - snad bude takových výrobků přibývat.</p>
 <p>To ale není ten hlavní důvod, proč si to asi většina z nás bude kupovat, to nejdůležitější budou pro nás funkce a těch to má mraky:
 </p>
