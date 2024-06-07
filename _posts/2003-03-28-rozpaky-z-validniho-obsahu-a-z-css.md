@@ -1,0 +1,16 @@
+---
+ID: 205
+title: 'Rozpaky z&nbsp;validního obsahu a&nbsp;z&nbsp;CSS'
+author: Patrick Zandl
+post_excerpt: ""
+layout: post
+oldlink: >
+  https://www.marigold.cz/item/rozpaky-z-validniho-obsahu-a-z-css
+published: true
+post_date: 2003-03-28 14:04:00
+---
+<p>
+Mám rád nové technologie. Někdy je mám radši technicky než obchodně (WAP, UMTS atd), někdy mne dost zmáhají. Tak tomu je i v případě CSS a designu Marigolda. Za mých starých časů se design dělal hezky tabulkama - HTML kód byl otřesný, ale rozuměl jsem tomu. CSS rozumím v principu a moc se mi to líbí - jenže s tím jaksi nemám zkušenost praktickou a o validním dokumentu si můžu jen nechat zdát. Bohužel nejenom o validním dokumentu - chtěl jsem na Marigolda udělat takovou patičku a nějaký hezký boxík s odkazy na zajímavé servery. Po hodině snažení a 500 Kč investic do knih o CSS ze mne nic kloudného nevypadlo. </p>
+
+<p>
+Každému, co jeho jest - pro nedostatek času patičku vyřeším jinak (ještě nevím jak) a <STRONG>rezignoval jsem na snahu mít kód Marigolda validní,</STRONG> protože bych se s tím tak patlal, že by mi nezbyl čas na jinou práci. Tahle "validní" záležitost je pro fajnšmekry a do doby, dokud se stránka bude v hlavních prohlížečích zobrazovat, mne to trápit nebude. A pak? Pak uvidíme, asi přejdu na TXT formát :)</p>
