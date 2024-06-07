@@ -1,21 +1,24 @@
 ---
+title: Search
+description: "Search this site"
 layout: page
-title: Vyhledávání
 permalink: /search/
+tipue_search_active: true
+exclude_from_search: true
 ---
 
-<div id="search-container">
-    <input type="text" id="search-input" placeholder="Vyhledávání na blogu">
-    <ul id="results-container"></ul>
-</div>
+## Vyhledávání na Marigold.cz
 
-<script src="{{ site.baseurl }}/assets/simple-jekyll-search.min.js" type="text/javascript"></script>
+<form action="{{ page.url | relative_url }}">
+  <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
+  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
+  <div style="clear: both;"></div>
+</form>
+
+<div id="tipue_search_content"></div>
 
 <script>
-    SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    searchResultTemplate: '<div style="text-align: left !important;"><a href="{url}"><h1 style="text-align:left !important;">{title}</h1></a><span style="text-align:left !important;">{date}</span></div>',
-    json: '{{ site.baseurl }}/search.json'
-    });
+$(document).ready(function() {
+  $('#tipue_search_input').tipuesearch();
+});
 </script>
