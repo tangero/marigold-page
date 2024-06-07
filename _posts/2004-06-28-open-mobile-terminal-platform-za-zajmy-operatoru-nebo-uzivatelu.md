@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-28 09:09:33
 ---
-	<p>
+<p>
 Na mobilním trhu lze už delší dobu vypozorovat tenzi mezi mobilními operátory a výrobci mobilních telefonů. Mobilní operátoři říkají, že výrobci mají vyrábět a necpat se do služeb, výrobci zase namítají, že vyrábět za levno se jim neoplácí a že chtějí mít výhled na příjmy ze služeb s přidanou hodnotou. A tak Nokia má svůj Club Nokia, kde vám zašle loga, zvonění atd na váš Nokia mobil, Samsung má svůj Funclub dělající prakticky totéž a každý větší výrobce mobilů má něco podobného, nebo to plánuje (nebo mu na to došly peníze a nenápadně to zrušil...)</p>
 <p>
 Je to tradiční rozpor, protože výrobci do telefonů samozřejmě primárně vestavují podporu svých shopů. Na Nokia telefonu se i z továrního nastavení dostanete v pohodě na Softwaremarket pro nákup a stažení software (vlastněno Nokia), Club Nokia pro stahování log atd. Operátorům se to nelíbí. </p>
@@ -18,7 +18,7 @@ Prvním východiskem byla vyhrazená tlačítka, jimiž jste se dostali na WAP p
 <p>
 Do toho operátoři přicházejí s aktivitou <strong>Open Mobile Terminal Platform </strong>(<a href="http://www.omtp.org/">web zde</a>). Tato iniciativa by měla zajistit sjednocení ovládání mobilních telefonů. Kravina nebo budoucnost? </p>
 
-<!--more-->	<p>
+<!--more--><p>
 Není to tak snadné rozhodnout. Pokud se podíváte na osobní počítače, prakticky všechny se ovládají stejně, bylo by nepříjemné sednout si za počítač kolegy a zjistit, že se ovládá jinak, než ten váš. Výrobci operačních systémů si vynucují tak či onak poslušnost v tom, aby menu programů vypadalo stejně, aby uživatel netápal, kde najde Uložení souboru. Mobily byly dlouhou dobu jednoduché - měly posílání SMS, měly telefonní seznam a to bylo všechno. </p>
 <p>
 Dneska jsou mobily chytré a budou ještě chytřejší a do doby, než budou chytřejší, než jejich uživatelé <em>(někdy už je to na hranici)</em> bude potřeba jednotlivé služby mobilu a sítě zpřístupnit tak, aby byly pro uživatele snadno k nalezení. Jinak je nebudou používat &#8211; a tím operátoři přijdou o penízky. Jenže funkcí je dneska hodně, takže udělat dvě intuitivní klávesy pro telefonní seznam a SMS už nestačí. Menu jsou rozsáhlá, členitá &#8211; a má smysl mít je vždy stejná, tedy vědět, že první položka menu je vždy Zprávy (třeba) a její první položka je Napsat zprávu. </p>

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-03 07:48:00
 ---
-	<p>
+<p>
 <br/>Na včerejší tiskové konferenci Eurotel spustil první českou komerční 3G síť a sítí třetí generace zůstává bez ohledu na to, že v ní neběží hlasové volání. O rychlá data se stará a stará se o ně dobře. </p>
 <p>
 Je zbytečné, abych opakoval ceny a další podrobnosti, které přinesl  <a href="http://mobil.idnes.cz/mobilni_komunikace/operatori/sluzby/eurotel_cdma_online040802.html">Mobil.cz zde</a> v online zpravodajství - mají <a href="http://mobil.idnes.cz/mobilni_komunikace/mobilni_technologie/cdma040803.html">zde i článek o tom</a>, jak CDMA2000 EV-DO funguje (trochu stručný, asi bude pokračovat). </p>

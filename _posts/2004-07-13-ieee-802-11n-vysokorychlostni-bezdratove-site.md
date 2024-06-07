@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-13 07:58:00
 ---
-	<p>
+<p>
 Pracovní skupina N by v rámci standardu 802.11 právě začíná vyhodnocovat návrhy na nový derivát WiFi sítí, v tomto případě označovaný podle písmena pracovní skupiny jako 802.11n <em>(v angličtině se používá Task Group N, zkráceně pak TGn).</em> Tento standard by měl WiFi rozšířit o rychlosti nad 100 Mb/s. Zatím se sešlo 22 kompletních návrhů a dalších 39 návrhů částečných, obsahujících dílčí vylepšení standardu. Pokud všechno půjde dobře, už v září by mělo být zřejmé, který návrh nebo která sestava návrhů se stane novým standardem pro vysokorychlostní bezdrátové sítě.</p>
 
 <h4>Agere Systems</h4>

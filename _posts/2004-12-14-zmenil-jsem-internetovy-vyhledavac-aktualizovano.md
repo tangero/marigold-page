@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2004-12-14 01:14:00
 ---
-	<p>
+<p>
 <em>aktualizováno: už vám slibuji, že nebudu psát články po jedné hodině ranní, samozřejmě že Google suggest ukazuje počet výsledků. Všem se moc omlouvám za mystifikaci a díky za slušné komentáře, já sám bych se asi někam poslal.</em></p>
 <p>
 Změnil jsem vyhledavač, tedy přesněji jeho stránku. Google totiž zavedl novou službu <a href="http://www.google.com/webhp?complete=1">Google suggest</a>. Doporučuji vyzkoušet, na první pohled asi nic nepoznáte, ale jestli máte novější prohlížeč a zapnuté skripty a cookies, tak si zkuste do vyhledávacího pole něco napsat a pozorně jej při tom pozorujte. Je vám totiž automaticky navrhováno co asi tak můžete hledat a rovnou i kolik bude výsledků. Je to úžasně rychlé, po každém písmenku to upraví seznam.</p>

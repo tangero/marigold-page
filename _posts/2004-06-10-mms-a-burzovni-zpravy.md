@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-10 08:23:00
 ---
-	<p>
+<p>
 Zamýšlel jsem se ještě jednou nad rozhovorem s R. Mahlerem v Týdnu a jeho výrokem, že nemá smysl služby zlevnit, ale nabídnout takové nové, které lidi budou chtít. A jako příklad zde byl uveden odběr kurzů akcií přes MMS. </p>
 <p>
 Pokud jste četli Arturovo zamyšlení nad tím rozhovorem, dozvěděli jste se, že zná jednoho člověka, co používá kurzy akcií. To jako já. A to ještě ne na mobilu. A tak jsem se rozhodl po dlouhé době podívat, <strong>jak vypadají kurzy akcií na T-Mobilu</strong>. A víte, co je legrační? Jsou nepoužitelné &#8211; mají jen RM-Systém, tedy ani českou hlavní burzu, ani americké burzy. </p>

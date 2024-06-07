@@ -18,7 +18,7 @@ Nadpis je možná trochu kontroverzní a asi ne tak úplně pravdivý (ano, mů�
 <p>
 <strong>95% lidí, co si tyto technologie pořídilo je jako mobilní nepoužívají </strong>- leží jim doma u okna, kouká na nejbližší BTS, maximálně to jednou za čas přenesou ke kamarádovi, když se chtějí vytahovat (ta procenta berte jako můj osobní odhad, ani pan Ryšánek, aní paní Přikrylová z T-mobile mi nechtěli říct, kolik uživatelů jejich neomezené datové tarify využívá mobilně, pan Ryšánek jen potvrdil, že většina uživatelů GPRS jej využívá jako náhradu za dial-up).</p>
 
-<!--more-->	<p>
+<!--more--><p>
 Zbylých 5% lidí toto připojení mobilně využívá - má notebook, připojuje se v práci, na cestách atd. Ovšem kolik z těchto 5% na tyto akce opravdu <strong>potřebuje neomezené připojení?</strong> IMHO by skoro všem stačil třeba 500 MB tarif, když by stál 500 Kč. A stejně tak pro těchto 5% a jejich využití <strong>je celkem jedno, jestli je rychlost připojení 150 kb/s (EDGE) nebo 250 kb/s (CDMA) </strong>a nevadí jim ani vyšší zpoždění u EDGE. Ovšem nyní musí s sebou nosit další cihlu, kabely a starat se o dobíjení dalšího spotřebiče.</p>
 
 <h3>EDGE má větší potenciál než CDMA</h3>

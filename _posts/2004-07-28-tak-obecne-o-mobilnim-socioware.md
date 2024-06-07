@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-28 07:07:00
 ---
-	<p>
+<p>
 Proč mobilní socioware? Socioware je obecně nějaký software, který propojuje jednotlivé lidi, kteří se před tím většinou neznali. A mobilní socioware je takový, který to dělá mobilně. Po úspěchu (minimálně prozatimním) Orkutu, Friendsteru a dalších podobných socioware se tento typ aplikací dostává i na mobilní zařízení a také s proměnlivým úspěchem. Je třeba zajímavé, že Orkut si nejvíce oblíbili brazilci a prakticky jej ovládli, zatímco Friendster zůstal doménou američanů atd - regionální specifika se uplatňují i u globálních aplikací.</p>
 <p>
 Podobně to podle mne bude s mobilním socioware, to limitují především technické možnosti v jednotlivých zemích. Například na fláky jako <a href="http://www.mogimogi.com/">Mogi Mogi</a> u nás nemohou prosperovat, protože mobilním sítím u nás chybí podpora lokalizace přes GPS&#8230;</p>

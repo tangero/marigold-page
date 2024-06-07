@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-20 14:24:40
 ---
-	<p>
+<p>
 Dneska <a href="http://www.lupa.cz/clanek.php3?show=3505">vyšel na Lupě</a> můj článek věnovaný srovnání služeb VoIP s příchozím telefonním číslem z hlediska domácího či lépe řečeno SOHO uživatele. A při té příležitosti se v diskusi ukázalo, že betatestování pro volání do telefonní sítě je u <a href="http://www.skype.com/">Skype</a> otevřené všem registrovaným uživatelům. Jen to Skype nikde nepíše - a tak na to novináři doposud nepřišli. </p>
 <div class="rightbox"><img src="/wp-content/uploads/20040720-skype-headset.jpg" alt="Skype" width="96" height="96" /></div><p>
 <strong>Volání do telefonní sítě se u Skype jmenuje SkypeOut</strong> a stačí k tomu klientský software (update na verzi 0.98042 je doporučen). Volá se na bázi kreditu, jenž lze uhradit embosovanou platební kartou Visa, Master/Euro Card, Diners nebo American Express. Lze koupit kredity o výši 10, 25 nebo 50 euro, jeho výši doporučuji zvážit s rozvahou, protože kredit za 180 po nespotřebování vyprší a propadne ve prospěch Skype. Ke kreditu se připočítává DPH 15% pro členy EU, což jsme i my, takže nejlevnější kredit vyjde na 11,50 &#8364;. </p>

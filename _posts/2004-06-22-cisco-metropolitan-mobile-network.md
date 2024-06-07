@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-22 08:11:07
 ---
-	<p>
+<p>
 Cisco oznámilo svoje nové technologické řešení nazvané <a href="http://newsroom.cisco.com/dlls/2004/prod_062104.html?CMP=ILC-001" target="new">Cisco Metropolitan Mobile Network</a>. Jak se dá z názvu pochopit, jde o metropolitní bezdrátovou síť pro veřejný sektor. Zajímavé je, že je založena z části na WiFi. Síť má nabízet mobilní přístup k datovým službám.</p>
 <p>
 Síť je založena na Cisco Aironet outdoor hotspotech, a routerech Cisco serie 3200 s integrovanou WiFi B/G kartou. </p>

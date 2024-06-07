@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-26 08:15:09
 ---
-	<p>
+<p>
 Japonsko, Čína a Korea spojují síly pro vývoj nové širokopásmové technologie, prozatím nazývané Wi-Bro nebo též WiBro, což má evokovat širokopásmovost a bezdrátovost a také úspěch WiFi. </p>
 <p>
 Technologie bude pracovat v pásmu 2,3GHz, tedy v licencovaném pásmu a bude pro nomadické (málo se pohybující) uživatele nabízet přenosové rychlosti 30 - 50 Mb/s za využití MIMO antén. První taková síť by se měla objevit v roce 2006 v Jižní Korei, k dispozici budou PCMCIA karty a modemy, postupem času by technologii měli výrobci zavést i do mobilních telefonů pro rychlé datové přenosy. Další detaily jako dosah, jsem nenašel, protože v angličtině existuje jen minimum a navíc obecných a povrchních informací (viz zde <a href="http://www.globalsources.com/am/article_id/9000000053484/page/showarticle?action=GetArticle">GlobalSource</a>). Nějaké další info jsem našel na stránkách korejského Samsungu, který o Wi-Bro a zejména o sítích čtvrté generace, které by asijské státy rády implementovaly v roce 2010 (<a href="http://neasia.nikkeibp.com/wcs/leaf/CID/onair/asabt/news/299929">viz zde</a>), pořádal konferenci. Jenže anglické materiály jsou jen pro delegáty a korejské jsou sice zdarma, ale neznaje korejštinu, tak mi k ničemu. </p>

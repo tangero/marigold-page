@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-12-21 10:21:06
 ---
-	<p>
+<p>
 Když jsem psal článek na "<a href="/item/nakup-na-wifi-shopu">Nákup na Wifi shopu</a>", byl jsem vámi hodně kritizován. Nevadí mi, když mě lidé obviňují, že píšu PR články (viz "<a href="/item/jsem-hnusny-uplatny-hrdobec">Jsem hnusný úplatný hrdobec</a>") ovšem v tomto respektive v jeho komentářích jsem se dopustil chyb, na které mě e-mailem upozornil pan Klečka z další firmy obchodující s Wi-Fi technikou <a href="http://www.inwifi.cz">InWifi.cz</a>, a já se je tímto pokusím uvést na pravou míru.</p>
 
 <p>

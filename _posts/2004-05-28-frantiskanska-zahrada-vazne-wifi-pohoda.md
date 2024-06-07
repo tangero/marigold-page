@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-05-28 11:11:00
 ---
-	<p>
+<p>
 Od té doby, co vím, že ve Františkánské zahradě je WiFi, jsem čekal na příležitost to vyzkoušet. A ta právě přišla - ve firmě nefunguje síť a ja jsem potřeboval odpovědět klientům a rozdistribuovat nějakou práci. Chvíli jsem dumal, jak na to - pak jsem si ale vzpoměl na nový notebook, jeho WiFi schopnosti a Františkánskou zahradu a nebylo co řešit. </p>
 
 <p>

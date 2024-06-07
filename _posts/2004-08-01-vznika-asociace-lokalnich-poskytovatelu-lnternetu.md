@@ -11,10 +11,10 @@ oldlink: >
 published: true
 post_date: 2004-08-01 21:10:11
 ---
-	<p>
+<p>
 Na internetu vzniká Asociace lokálních poskytovatelů lnternetu (<a href="http://www.alpi.cz">provizorní web zde</a>), která si klade za cíl sdružovat malé, lokální ISP a komunitní sítě. </p>
 
-	<p>
+<p>
 Jaké jsou hlavní cíle (návrh):</p>
 
 	<ul>
@@ -23,6 +23,6 @@ Jaké jsou hlavní cíle (návrh):</p>
 	<li>Zvýšení prestiže svých členů díky Kodexu Asociace lokálních poskytovatelů internetu.</li>
 	<li>Stanovení indexu ceny konektivity.</li>
 	</ul>
-	<p>
+<p>
 Považuji to za docela rozumný krok. Postupem času se objeví stále více okamžiků, kdy bude potřeba, aby o sobě lokální ISP dali nějak vědět a byli schopni komunikovat například se státní správou nebo velkými společnostmi a k tomu je taková Asociace docela ideální. Samozřejmě v případě, že se nebudou platit desetitisícové poplatky za její provoz, protože na to většina lokálních ISP náladu asi nemá.
 </p>

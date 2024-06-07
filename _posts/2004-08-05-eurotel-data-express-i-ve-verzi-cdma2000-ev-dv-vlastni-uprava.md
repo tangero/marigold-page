@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-05 08:14:00
 ---
-	<p>
+<p>
 Včera jsem se zmocnil jednoho modemu GTran a aktivace Eurotel Data Express, doma jsem všechno instaloval na svém notebooku dle přiloženého návodu a ejhle, všechno fungovalo na první zátah. Tedy až na to, že doma nemám v obýváku stabilní signál a bylo třeba připojit tu prutovou anténu, která opravdu výrazně pomáhá. </p>
 <p>
 Nerad bych se opakoval ve chvále a informacích, které zní odevšud jinud. Ano, jede mi to rychle jako z praku, průměrně kolem 3-400 Kb/s a i mně ta rychlost v průběhu stahování samotného kolísá. Na velká slova o rychlosti je ale zatím docela brzo. Průměrný ping se pohybuje kolem 140-160 ms a toto zpoždění je velmi stabilní, pingal jsem hodinu a v podstatě jsem se mimo tyto hodnoty nedostal, vyjma zaváhání cílového serveru. </p>

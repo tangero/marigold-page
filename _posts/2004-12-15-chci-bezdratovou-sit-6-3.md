@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-12-15 13:10:00
 ---
-	<p>
+<p>
 Tento článek navazuje na <a href="/item/chci-bezdratovou-sit-6-1">úvodní kapitolu retranslací</a> a na předchozí kapitolu věnovanou <a href="/item/chci-bezdratovou-sit-6-2">pasivním retranslacím</a>. Pro pochopení mnohých termínů z této části musíte bezpodmínečně znát termíny jako WDS, AP, ad-hoc, Klient atd. vysvětlené v <a href="http://www.marigold.cz/?query=chci%2Bbezdr%C3%A1tovou%2Bs%C3%AD%C5%A5&amp;amount=0&amp;blogid=1">předchozích částech seriálu</a>.</p>
 
 <h4>Aktivní retranslace</h4>
@@ -24,7 +24,7 @@ Způsobů řešení aktivní retranslace je mnoho, každý má své výhody a ne
 <p>
 Tento způsob je vhodný pro nejlevnější a nejsnazší řešení na menší vzdálenosti a s menší propustností. De-facto se jedná o standardní síť s přístupovým bodem (Infrastructure — viz předchozí díly seriálu), se dvěma klienty, na každé straně (A a B) jeden. Jak víte, není možné spojit bezdrátově dva přístupové body (vyjma režimu WDS, viz dále). Klienty tak musí být zařízení označované jako &#8220;bezdrátový klient&#8221; či &#8220;klientský adaptér&#8221; (wireless client), ať už třeba box s <a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=79">Ethernet rozhraním</a>, tak třeba jen přes <a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=78">USB</a> či <a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=76">PCI kartu</a> připojený počítač. Jako klienta můžete ale použít i <a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=63">AP, který podporuje klientský režim</a> (stává se tím vlastně běžným klientským adaptérem s Ethernet rozhraním). Na tento prvek je pak napojena <a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=81">směrová anténa</a> libovolného typu s dostatečným ziskem. Protože spoje s retranslacemi se většinou dělají pro páteřní linky či pro movitější klienty, i zde bych doporučoval použít plné paraboly, které se dostaly na cenu srovnatelnou s ostatními typy antén, přitom ale s výrazně kvalitnějšími parametry danými technologickým řešením (viz <a href="/item/chci-bezdratovou-sit-5-2">díl 5.2 tohoto seriálu</a>)</p>
 
-<!--more-->	<p>
+<!--more--><p>
 Přístupový bod může být kterýkoliv <a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=63">bezdrátový bridge</a> nebo <a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=64">bezdrátový router</a>. Na něj je připojena buď jedna anténa (<a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=82">všesměrová</a> či <a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=83">sektorová</a>, tak, aby její vyzařovací diagram obsahoval body A i C) a nebo můžete použít dvě <a href="http://www.wifishop.cz/inshop/scripts/set.asp?Level=81">směrové antény</a>, které propojíte pomocí <a href="http://www.wifishop.cz/inshop/scripts/detail.asp?itemId=20346&amp;level=86">anténního slučovače</a> — v tom případě ztratíte sice 3 dB, ovšem výsledná dosažitelná vzdálenost bývá větší (všesměrové i sektorové antény mají malý zisk)</p>
 <p>
 Komunikace probíhá zcela jasně z prvku v bodě A, na prvek v bodě R, na něm se data obrátí a putují stejným rozhraním nazpátek. Z toho vyplývají výhody i nevýhody tohoto řešení</p>

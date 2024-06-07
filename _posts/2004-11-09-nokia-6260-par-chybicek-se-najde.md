@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-11-09 15:39:16
 ---
-	<p>
+<p>
 Vzal jsem si nedávno na osahaní novou Nokia 6260, takové to véčko se series 60. Doufám, že si to značení nepletu. A právě jsem chtěl z něj poslat na server fotku fasády TopHOTELU, abyste názorně viděli, co s fasádou paneláku udělá mramor...</p>
 <p>
 Jenže mnou vyfocena fotka nejde nijak odeslat, protože telefon hlásí, že jde o chráněný obsah, který nelze kopírovat. Takže fotka asi nebude, nejde ani po infra...<br />

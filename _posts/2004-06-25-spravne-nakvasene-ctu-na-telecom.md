@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-25 12:54:12
 ---
-	<p>
+<p>
 Český Telecom se na tiskové konferenci před deseti dny opřel do ČTÚ, že zneužívání devítistovkových linek pro podvodné dialery je jeho problém a že na to ČTÚ kašle (český překlad). </p>
 <p>
 ČTÚ dnes vydalo tiskové prohlášení, <strong>že na podvody se žlutými linkami rozhodně nekašle</strong> a že je to od Telecomu nefér to tvrdit - úředním jazykem se to řeklo takto: <em>&quot;<font face="TimesNewRoman">Č</font><font face="TimesNewRoman">TÚ s tímto vyjád</font><font face="TimesNewRoman">ř</font><font face="TimesNewRoman">ením zásadn</font><font face="TimesNewRoman">ě </font><font face="TimesNewRoman">nesouhlasí a vyhrazuje si právo vyjád</font><font face="TimesNewRoman">ř</font><font face="TimesNewRoman">it své stanovisko k této kauze&quot;.</font></em></p>

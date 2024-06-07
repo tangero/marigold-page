@@ -9,10 +9,10 @@ oldlink: >
 published: true
 post_date: 2004-09-07 08:12:00
 ---
-	<p>
+<p>
 Pikantní kousek lidové tvořivosti pro GMail se jmenuje <a href="http://ion.gluch.org.mx/files/Hacks/gallina/">Gallina</a> a je to software, který konzumuje poštu z vaší schránky na GMailu a přetváří ji ve weblog. </p>
 
-	<p>
+<p>
 Zpráva v GMail schránce označená hvězdičkou se objeví na weblogu, odpovědi na zprávy jsou komentáře.  Jak prosté a hezké&#8230; </p>
 
 <p>

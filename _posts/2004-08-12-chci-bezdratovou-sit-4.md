@@ -18,7 +18,7 @@ V první řadě vysvětlím, co si představuji pod pojmem venkovní bezdrátov�
 <p>
 <em>Poznámka: omlouvám se za pozdější uvedení tohoto dílu - jak pochopíte po otevření článku - trvalo mi napsání tohoto dílu přes deset hodin. Tím se omlouvám také za délku článku, měl jsem cukání jej rozdělit do dvou, ale to už byste mě ukamenovali ;-). V článku se míchá řešení pro profi sítě i pro řešení sousedské sítě, technologie spolu totiž souvisí, tak se v tom snad neztratíte.</em></p>
 
-<!--more-->	<p>
+<!--more--><p>
 Jaké je tedy využití bezdrátových venkovních sítí? Proberme typické příklady:</p>
 
 <ul>

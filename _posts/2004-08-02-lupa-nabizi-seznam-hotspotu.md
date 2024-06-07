@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-02 08:49:00
 ---
-	<p>
+<p>
 Lupa konečně po delší době zprovznila seznam hotspotů v ČR a to na adrese <a href="http://wifi.lupa.cz">wifi.lupa.cz</a>. Seznam obsahuje 15 poskytovatelů a 277 hotspotů, jeho partnerem je Eurotel.</p>
 <p>
 Seznam hotspotů vypadá hezky, u každého hotspotu je vedená adresa, zda je zdarma (zdarma tu mají jen dvě lokality) a poznámka k dostupnosti signálu v lokalitě. Trochu mi chybí SSID, protože ne každý si jej musí pamatovat, na druhou stranu většinou je dost návodné. Je možnost přidat názor (jen pro registrovaného uživatele).</p>

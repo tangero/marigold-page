@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-11 22:50:27
 ---
-	<p>
+<p>
 Dnes to byla slabota, což dávalo čas, poohlídnout se také po dění v cizině. Ale přesto začneme zprávami od nás:</p>
 <p>
 Na Mobil serveru nám už <a href="http://mobil.idnes.cz/mobilni_komunikace/mobilni_technologie/cdma040810.html">podruhé dovolili nahlédnout pod pokličku CDMA EV/DO</a>, chválím, není to sice počtení pro 99,99% populace, ale Patrikovi to určitě udělá radost ;-)</p>

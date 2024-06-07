@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-04-27 07:33:00
 ---
-	<p>
+<p>
 <p>
 Už delší dobu jsem (si) sliboval, že napíšu něco většího k nějakému WiFi tématu. A tak jsem splodil článek o <STRONG>WDS, Wireless Distribution System</STRONG>. Jde o technologii, která umožní na stejném kanálu propojovat jednotlivé přístupové body a na stejném kanálu k nim také připojovat klientské adaptery. </p>
 

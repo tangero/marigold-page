@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-10 14:19:04
 ---
-	<p>
+<p>
 Pro aktuální verzi Skype (viz Patrikův článek "<a href="http://www.lupa.cz/clanek.php3?show=3551">SkypeOut &#8211; Skype už není beta a umí telefonovat</a>")se <a href="http://www.xtel.cz/skype/cestina/">objevila čeština</a>. Otázka už není "<strong>jestli</strong>" budeme volat přes IP, jako spíše "<strong>kdy</strong>". Ale co je to vlastně IP v telefonii - v podstatě každý operátor už někde na trase využívá přenosu nějakou paketovou technologií.</p>
 <p>
 Na Lupě udělali <a href="http://www.lupa.cz/clanek.php3?show=3547">srovnání propustnost (oba směry) / zpoždění u ADSL, kabelovky a CDMA</a>, tedy u služeb, které jsou v podstatě za stejnou cenu. Je to myslím velmi názorné, potvrzuje to i můj včerejší článek - tedy že CDMA je nejhorší a máte-li jinou možnost a nepotřebujete-li být mobilní, je výběr této technologie diskutabilní. Nicméně všude stále samá chvála, novináři stále krátkozrace koukají jen na výhody pro ně samé. Mimochodem - mnoho lidí slíbilo, že na internetu zveřejní návod na rozchození této služby bez toho otravného SW plného chyb, každý den hledám, nenacházím, chtěl bych linkovat!</p>

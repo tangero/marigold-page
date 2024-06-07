@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-12-14 13:17:00
 ---
-	<p>
+<p>
 Právě mi přišel e-mail od člověka s tímto podpisem:</p>
 
 <table cellspacing="1" cellpadding="1" width="100%" border="1"><tbody><tr><td>JUDr. Stanislav Polčák<br/>vedoucí poslanecké kanceláře<br/>director of the Office Member of the European Parliament<br/>Kancelář poslance Evropského parlamentu mgr. Tomáše Zatloukala<br/>Office of Tomas Zatloukal, Member of the European Parliament</td></tr></tbody></table>

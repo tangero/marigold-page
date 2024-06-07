@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-09-01 09:12:05
 ---
-	<p>
+<p>
 Včera mi dorazila od českého distributora compactflash s Level4 softwarem mikrotiku. Paměť není ve známém čtvercovém obalu (jaké jsou například ve foťácích), ale má rozhraní, které je možné zastrčit přímo do slotu na základní desce. Dodavatel mě varoval, že licenční číslo mikrotiku je svázáno se sériovým číslem CF. Bohužel český distributor nedodává pouze licence na software, takže až tuhle CF vrátím, budu si muset koupit licenci přímo u výrobce.</p>
 <p>
 <img src="/wp-content/uploads/cache/20040901-CF-1.jpg" alt="Porovnání velikosti CF s HDD" width="320" height="240" /></p>

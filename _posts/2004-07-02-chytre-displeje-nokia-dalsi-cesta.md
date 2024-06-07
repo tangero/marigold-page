@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-02 08:34:00
 ---
-	<p>
+<p>
 Jiří Hlavenka <a href="http://www.mobilmania.cz/Mobilnitelefony/AR.asp?ARI=107651">na MobilManii uvažuje </a>nad tím, že Nokia se chystá produkovat nobetooky či PDA - a já už jsem se delší dobu chystal toto doplnit zase nějakou drobnou spekulací. </p>
 <p>
 PDA a vůbec počítače pro osobní použití se Symbianem z trhu naprosto vymizely, k dispozici jsou jen průmyslové počítače nebo chytré telefony. A ačkoliv to vypadá, že konvergence PDA a telefonů směrem k chytrým telefonům je průchozí cesta vývoje, není to jediná darwinovská větev. Obec uživatelů se totiž rozděluje do několika skupin a zatím není možno identifikovat, která z nich převáží a zda vůbec některá z nich převáží. </p>
@@ -33,7 +33,7 @@ Před rokem, když Nokia uváděla 6600 také nenápadně změnila Series 60 na 
 Asi není pochyb o tom, že myšlenky v Nokii se směrem nějakého PDA zařízení ubírají. Nokia nedávno představila bluetooth klávesnice QWERTY, které lze připojit k Series 60 telefonům, takže není těžké si představit dva směry - Series60 zařízení s větším displejem a vestavěnou klávesnicí, kterou bude možno doplnit o tuto full-size klávesnici přes bluetooth. Možná něco na způsob starších Psionů Revo/MX, jen s tím rozdílem, ze klávesnice půjde otočit tak, aby se zařízení dalo držet jednou rukou a klepat do dotykového displeje (tomu už Nokia neunikne).</p>
 
 	<div class="rightbox"><img src="/wp-content/uploads/20040702-smartdisplay.gif" alt="Chytrý displej - tenhle je od společnosti NEC a je založený na Microsoft řešení" width="335" height="240" /></div>
-	<p>
+<p>
 Nebo něco jako <strong>&quot;chytrý displej&quot;. </strong>Chytrý displej je zařízení, jemuž stále více věřím - pod tento název ale zatím shrnuji to, co Microsoft dozděluje do dvou větví - na <strong>smartdisplay</strong> a <strong>TabletPC</strong>. Podle mne hlavní výhodou chytrého displeje musí zůstat fakt, že je docela lehce přenosný a hlavně kdykoliv připraven k použití. Máte ho na stole, klepnete na displej a okamžitě vám naběhne - ne že bude dvě minuty bootovat, jako klasická Windows. Ihned můžete na web, ihned k poště. </p>
 <p>
 Microsoft obojí řeší jinak. Smartdisplay se připojuje v podání Microsoftu přes bezdrát (WiFi) k domácímu počítači a v podstatě je jen jeho vzdáleným monitorem, ačkoliv s nějakou základní vlastní inteligencní. Oproti tomu TabletPC je plnohodnotné PC s vlastní edicí Windows XP, které má v sobě paměťové médium, může pracovat bez pomoci počítače, má rozpoznávání znaků a i nějakou klávesnici. Nevýhodou je cena. </p>

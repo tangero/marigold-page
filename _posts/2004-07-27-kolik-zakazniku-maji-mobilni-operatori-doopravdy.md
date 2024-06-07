@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2004-07-27 08:30:00
 ---
-	<p>
+<p>
 Mobilní operátoři se radostně chlubí počty zákazníků, přitom většina lidí znalých věci má o těchto číslech seriosní pochybnosti. Ledaskomu už pomalu dochází, že počet SIM karet se nemusí rovnat (a nerovná) počtu skutečných fyzických uživatelů, neb jeden jedinec může mít a začasté také má i více SIM karet. Na tohle už jsme si snad i zvykli a pokud jsou ty SIM karty živé, nelze zase tak moc namítat, snad jen hádat se o slovíčka. </p>
 <p>
 Jenže magií je také způsob, jakým operátoři počty SIM karet počítají. U klientů tarifních je to jasné - sečtete ty, kteří platí paušál a výsledné numero je nezpochybnitelné - když někdo platí paušál a nevolá, pořád je to klient. Horší je to u prepaid karet. Jak dlouho může být SIM karta neaktivní, tedy bez hovorů, SMS či dat, aby se nezapočítávala do "živých karet"? Každý operátor na to má jiný přístup a nikdy se jím moc nechlubí. GSM Asociace k tomu kdysi vydala doporučení, na které každý zhusta kašle a jede po svém. </p>

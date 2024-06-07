@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-19 08:45:52
 ---
-	<p>
+<p>
 Dneska nemám náladu nic na weblog psát, mám hromadu psaní v práci a podobných záležitostí, takže se omezním na stručné odkazy na témata, která bych rád sám zpracoval, jenže jaksi nezbyl čas a chuť a přitom je škoda, aby to zapadlo.</p>
 <p>
 <strong>Modifikace routeru Linksys WRT54G</strong> (moje oblíbené téma). Tady <a href="http://www.rwhitby.net/wrt54gs/serial.html">najdete návod</a>, jak k němu přidělat seriový port (více by se mi hodil paralelní nebo USB, ale to jsem nenašel). A <a href="http://www.broadbandreports.com/shownews/38267">tady je </a>další šikovná diskuse věnovaná modifikacím firmware tohoto routeru.</p>

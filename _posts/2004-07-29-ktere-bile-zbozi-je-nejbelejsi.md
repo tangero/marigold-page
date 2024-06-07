@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-29 08:21:00
 ---
-	<p>
+<p>
 Zatímco fázi stěhování máme za sebou, fáze nakupování u nás právě probíhá. Po prostudování hory materiálů týkajících se praček, prolezení všech možných i nemožných diskusních fór jsem našel dvě variantní pračky, které připadají v úvahu a liší se prakticky jen tím, že jedna má větší informační displej LCD, ta druhá malý LED, což výrobce ohodnotil na dvoutisícikorunový rozdíl. </p>
 <p>
 Už jsem byl na <a href="http://www.bilezbozi.cz/">bilezbozi.cz</a> a pak jsem si vzpomněl, jak se na Lupě, když tam byl rozhovor s Ondřejem Frycem, lidé dohadovali, že Bílé zboží.cz je předražené, o čemž jsem si tehdy dovolil vyslovit pochybnosti a vyjádřit svoji spokojenost s bilezbozi.cz. A tak jsem se rozhodl to ověřit v praxi. Zadal jsem do Google a Seznamu klíčová slova <i>Bosh</i> a <i>pračky</i> a obchody, které vypadly naprvních místech, jsem prosurfoval. Následující tabulka ukazuje, jak to v cenovém porovnání vypadá: </p>

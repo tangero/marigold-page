@@ -9,14 +9,14 @@ oldlink: >
 published: true
 post_date: 2004-12-17 08:50:35
 ---
-	<p>
+<p>
 <em>(updated) Drtivou převahou rozhodnuto, vracím články zpět (samozřejmě včetně komplet diskusí), doufal jsem, že se ve vás nezklamu a byl jsem potěšen vašemi reakcemi. Děkuji</em></p>
 <p>
 <span style="font-style: italic;">(update 2) Zjistil jsem, že minimálně jeden z kritizujících měl pravdu a že blbec jsem fakt já. </span></p>
 <p>
 Jak většina z vás asi ví, Patrick — duše tohoto serveru odjel se svou manželkou Ditou na svatební cestu. Nechal mě (a pár jiných, to ale nestojí za řeč), abych se mu postaral o to, aby tu dva týdny nebylo mrtvo. Snažil jsem se ze všech sil, ale je zde jedno velké &#8220;Ale&#8221; a o tom je tento příspěvek.</p>
 
-<!--more-->	<p>
+<!--more--><p>
 Za těch 10 pracovních dní (2 z toho jsem byl celý den ve škole) jsem napsal <strong>10 menších článků</strong> na témata z běžného denního života, které na tomto serveru (jakož i ostatních blozích) jsou pravidlem a <strong>4 rozsáhlejší články</strong> (kritická noticka na boom ohledně CDMA a pro svou obsažnost na tři díly rozdělené pokračování seriálu o bezdrátových sítích).</p>
 <p>
 Pro představu ten trojdílný článek mi včetně všech úprav, přípravy obrázků, několikanásobného překopávání a opravování atd. trval 6,5 hodiny čistého času (je to 9 normostran a mám-li 180 úhozů za minutu, tak 80% času jsem strávil těmi věcmi okolo). Celé to obhospodařování Marigolda by dalo dohromady <strong>minimálně 20 hodin</strong>, což kdybych si měl účtovat podle mé hodinovky by dávalo 5 místnou částku.</p>

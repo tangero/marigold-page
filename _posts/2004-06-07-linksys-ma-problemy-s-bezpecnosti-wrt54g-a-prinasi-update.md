@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-07 08:39:17
 ---
-	<p>
+<p>
 Linksys měl minulý týden proklatou smůlu - ukázalo se, že jeho oblíbené routery WRT54G lze dálkově administrovat i v případě, když člověk tuto vlastnost vypne. To je krajně nepříjemné, protože většina lidí, kteří si takto vzdálenou administraci po internetu vypnou, se neobtěžují ani změnit defaultní heslo &quot;admin&quot; - proč taky, když jsou doma jediní, kteří umí router administrovat. Proscanoval jsem kus Chella a za chvíli jsem našel čtyři adresy s Linksys routery s tímto problémem. Jeden můj vlastní, jasně že mám default heslo - jenže já mám zapnutý firewall na routeru a v takovém případě se problém neprojevuje. Na chybu přišel <a href="http://rateliff.net/">Alan W. Rateliff</a>. Zde je článek o ní na <a href="http://news.com.com/Linksys+Wi-Fi+router+vulnerability+discovered/2100-7349_3-5226918.html?tag=nefd.top">CNetu</a>.</p>
 <p>
 Linksys nicméně o víkendu vydal betaverzi nového firmware 2.02.8 - ta problémy s dostupností remote administrace odstraňuje. Nicméně jde o americkou betu, o evropské nemám zpráv. Dostupná je zde na <a href="http://www.linksys.com/download/firmware.asp?fwid=201">webu Linksysu</a>.</p>

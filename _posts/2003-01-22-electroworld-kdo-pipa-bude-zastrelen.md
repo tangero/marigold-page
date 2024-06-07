@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2003-01-22 20:50:00
 ---
-	<p>
+<p>
 <p>
 Humorná scéna dnes z prodejny ElectroWordu. Sháněl jsem v Průhonicích akutně ethernetový hub i napadlo mne (po Makru, kde ho neměli), že by ho mohli mít v ElectroWorldu. Proběhl jsem tedy během pár vteřin celou prodejnou až k počítačovému pultu, kde mi obsluhující personál osvětlil, že jediný hub mají pro USB a já jsem tedy usoudil, že zde tentokráte nenakoupím. </p>
 

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-12 16:16:21
 ---
-	<p>
+<p>
 Stěhováci dorazili v poledne, to už jsem měl hromadu knih zabalenou. Vrchní stěhovák se podíval na moji knihovnu a zasmušile pravil, že si vzali malé auto, totiž Tranzita a že tohle chtělo Avii. Pravil jsem, že jsem slečnu na výslovně upozorňoval, že mám opravdu hodně knih. Vrchní stěhovák pravil, že to jistě, jenže tohle prý říkají všichni, neboť chtějí vypadat jako Yntelygenti a pak mají tři Viewegy na nočním stolku. Příště mám slečně říct, že jsem pobočká Národní knihovny... </p>
 <p>
 Nakonec se to zvládlo, knihy jsme odstěhovali a já necítím záda. Teď už mne čeká vzít jen pár maličkostí jako televize, mikrovlnka, košile a takové ty věci, co nestojí za to pořádně balit a co jich je nakonec druhá Avie. </p>

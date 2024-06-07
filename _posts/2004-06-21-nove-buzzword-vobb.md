@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-21 08:53:56
 ---
-	<p>
+<p>
 Dostal jsem do rukou jednu studii asijského trhu, kde se psalo o VoBB. Chvíli jsem nad tím dumal, o co jde, až mi to došlo - <em>Voice over BroadBand</em>. Nakonec mi to v textu i potvrdili :)</p>
 <p>
 Samozřejmou otázkou je, čím se VoBB liší od VoIP. Studie na to měla odpověď. Zatímco VoIP je název pro použití internetové telefonie v libovolném internetovém prostředí, VoBB už předpokládá určité kvalitativní parametry, zejména v oblasti rychlosti, latence a rozptylu, tedy ve třech nejdůležitějších parametrech pro internetovou telefonii. Proto se VoBB vydělilo jako samostatná část VoIP - určité věci se prostě na DSL přípojkách nemusí řešit. </p>

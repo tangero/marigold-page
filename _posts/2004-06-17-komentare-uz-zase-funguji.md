@@ -9,6 +9,6 @@ oldlink: >
 published: true
 post_date: 2004-06-17 17:10:04
 ---
-	<p>
+<p>
 Chybu v komentářích se podařilo odstranit... ufff... už lze zase komentovat...
 </p>

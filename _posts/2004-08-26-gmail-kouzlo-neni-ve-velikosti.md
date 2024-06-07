@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-26 09:06:22
 ---
-	<p>
+<p>
 Dlouhou dobu jsem <a href="http://gmail.google.com">GMailu</a> - emailové schránce od Google - odolával. Jeden GB prostoru je sice lákavá věc, jenže po pravdě řečeno mám stejnou kapacitu u RunBox.com, mám hromadu dalších kapacit u různých hosterů, ve firmě i na vlastním serveru a prakticky nikdy to nevyužívám, protože si poštu stáhnu přes POP3 a zpracuji v The Bat. Jenže s velkým množstvím pošty se pracuje stále hůře a prakticky nejvíce na The Batu oceňuji jednoduché i silné vyhledávání. A GMail slibuje právě s tímhle pomoci. Tak jsem od <a href="http://www.zpravy.net/weblog/archiv/0408/5-pozvanek-do-gmailu-uplne-zdarma.php">Petra Weidy</a> dostal pozvánku na GMail (registrovat se nejde) a už tři dny si nechám všechnu poštu směrovat tam. </p>
 <p>
 Kouzlo GMailu není jen v té velikosti, ta sama o sobě by byla rozporuplná. Kouzlem je právě to zpracování emailů. Došlá pošta se sama shlukuje podle odesilatele a tématu, takže pokud si s někým píšete delší dobu na jedno téma (podle mne to poznává podle subjectu a nějaké hlavičky, ale je to jen povrchní pozorovací úsudek), tak všechny tyto emaily se na titulní stránce GMailu shluknou do jednoho. Když na něj kliknete, vidíte za sebou kráčící posloupnost konverzace, přičemž GMail automaticky vyhodí quotovanou část, pokud je na konci emailu - tím se konverzace stane přehlednější a hezky vidíte, co vy jste psali a co vám na to odpovídají, nejste zatěžování násobnými kusy textu. Moc moc hezké. </p>

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-22 17:48:00
 ---
-	<p>
+<p>
 Izraelská společnost Ceragon dnes představila svoje bezdrátové řešení pro gigabitový ethernet. A co je na tom nejlepší, pracuje v bezlicenčním pásmu. Jde o FibeAir 10060 nabízející rychlosti až 1,25 Gb/s v bezlicenčním pásmu 60 GHz. Abych byl přesnější, toto pásmo je bezlicenční v USA, u nás jsem ho vůbec nenašel ve frekvenčním plánu, takže netuším, jestli tak daleko ČTÚ ještě nedohlédlo, nebo jsem to jen nenašel. </p>
 <p>
 Něco málo k tomu 60GHz pásmu - v něm je veliký problém s vodou, protože ta vlny pohlcuje. Také je tu velký probém s kyslíkem, protože ten činí totéž. Takže dosahované vzálenosti jsou v tomto pásmu v rozmezí kolem jednoho kilometru a přenos prakticky spolehlivě zlikviduje hustý déšť. <a href="http://www.ceragon.com/site/News_News_detail.asp?id=136&#038;Year=2004">Tisková zpráva zde</a>.</p>

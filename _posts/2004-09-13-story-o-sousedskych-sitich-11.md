@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-09-13 08:30:00
 ---
-	<p>
+<p>
 Během soboty se mi podařilo nahradit v roli směrovače skvělý Duron 700 Mhz novým Celeronem 450 Mhz, který sice nemá (tak) oslnivou pracovní frekvenci, ale zase vydrží pod střechou bez zasekávání (což kvituje s pověkem především skorotchán). Provedl jsem vyúčtování základní sestavy (bez věcí, které dělají APčko), které vyšlo na méně než 4.000 kaček (včetně DPH). Pochopitelně jsem neúčtoval vložený čas <img alt="" src="http://www.marigold.cz/nucleus/plugins/wysiwyg/editor/images/smiley/msn/regular_smile.gif"/>.</p>
 <p>
 Objevil se jiný problém a tím je nízká rychlost do Internetu. Tu nechám řešit skortchána zaplacením větší kapacity (rychlosti) do Internetu. Sobotní práce byla navíc komplikovaná tím, že poblíž byl proveden úspěšný útok na směrovač, přičemž duchovní vůdce byl mimo lokalitu (takže v sobotu jsme měli až do šesti s Internetem utrum). Předpokládám, že při nejbližší příležitosti se pokusíme vytipovat kritická místa infrastruktury a nějak je zalepíme.</p>

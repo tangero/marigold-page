@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-30 07:49:00
 ---
-	<p>
+<p>
 T-Mobile včera oficiálně potvrdil, že jeho koketování s EDGE technologií se v České republice stává realitou. Zprávu vydal poté, co se už i v Hospodářkách psalo o tom, že si příští pondělí Eurotel vybral pro spuštění své vysokorychlostní datové sítě CDMA2000 EV-DO. Tyto dvě události lze jen velmi těžko nespojovat a je zdřejmé, že EDGE přináší T-Mobile do ČR jen proto, že všechny pokusy zabránit Eurotelu ve spuštění CDMA přišly vniveč - naposledy stížnost k evropské komisi.</p>
 <p>
 T-Mobile má k EDGE rozporuplný vztah. Do EDGE se snaží konvertovat svojí síť v USA, kde je situace už neudržitelná, protože konkurenti zde s oblibou nabízejí vyšší rychlosti právě na CDMA - start je očekáván na rok 2005. A celá legrace zatím stála půl miliardy dolarů...</p>

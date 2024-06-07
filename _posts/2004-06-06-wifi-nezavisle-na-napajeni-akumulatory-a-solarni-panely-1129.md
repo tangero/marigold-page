@@ -9,9 +9,9 @@ oldlink: >
 published: true
 post_date: 2004-06-06 16:29:35
 ---
-	<p>
+<p>
 Potřebujete rozeběhnout WiFi i v oblasti bez elektrické energie? Musíte zřizovat repater v místě, kde není napájení? Přestřelit vrcholek kopce nebo mít mobilní hotspot? Možná by se vám hodilo napájení kombinací solárního panelu a akumulátoru.</p>
 
-	<p>
+<p>
 <a href="/?itemid=1128">Pokračujte ve čtení článku zde...</a>
 </p>

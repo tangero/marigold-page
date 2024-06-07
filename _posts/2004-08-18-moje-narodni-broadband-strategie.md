@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-18 08:10:23
 ---
-	<p>
+<p>
 V červnu jsem četl na Lupě článek Jiřího Peterky snažící se vybudit diskusi nad Národní Broadband Strategií, což je takový vládní cár papíru s popisem stavu telco v ČR a s nějakým stimulačním programem, co s tím dělat, abychom měli dostupnou broadband konektivitu. </p>
 <p>
 Zatímco se obávám, že vládní verze bude stát na dotacích, přerozdělování, umělých zásazích do trhu, rozhodl jsem se sepsat vlastní verzi NBS v liberálním, nikoliv socialistickém pojetí. Moji NBS najdete <a href="http://www.lupa.cz/clanek.php3?show=3570">zde na Lupě</a>. Zajímavé je, že už se do mně v diskusi pustil nějaký příznivec dotací, kterému fakt chybí státní přerozdělování peněz. To jsem jediný, komu leze krkem myšlenka, že sbor pseudovolených politiků, kteří problému prakticky nerozumějí, rozhoduje o obrovském přerozdělování našich peněz do projektů pochybného provedení a neprůhledného pozadí? A jsem jediný, kdo si nemyslí, že se u takových věcí průhledné pozadí prakticky nedá vytvořit, alespoň ne v tomhle státě? </p>

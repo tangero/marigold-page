@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-23 08:22:00
 ---
-	<p>
+<p>
 Takhle v létě se to vyrojí řadou různých zázraků, které miluji. Například v oblasti antén se objevil nový výrobek od společnosti Tritium a jmenuje se Flatenna. Jde o anténu, která se přidělává na klasickou pendrekovou anténu na router, jak vidno na obrázku. A jde o anténu, která vám příjde ve složeném stavu jako vystřihovánka z papíru a vy si ji sestavíte - připomíná mí to staré dobré časy Ábíčka, jestli ještě vychází, mohli by své vystřihovánky inovovat na vystřihovánky antén ;)</p>
 <div class="rightbox"><img src="/wp-content/uploads/20040723-Flatenna.jpg" alt="Tritium Flatenna" width="448" height="241" /></div><p>
 A nyní k těm zázračným specifikacím. Anténa je velmi ostře sektorová s vyzařovacím úhlem kolem 90 stupňů. Pokud se nasadí na pendrek 2 dBI, pak z něj udělá 9 dBI sektorovou anténu. Specifikaci včetně vyzařovacího diagramu <a href="http://www.tritium.co.uk/Flatennaspec.htm">najdete zde</a>.</p>

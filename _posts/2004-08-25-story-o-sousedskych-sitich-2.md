@@ -9,12 +9,12 @@ oldlink: >
 published: true
 post_date: 2004-08-25 10:57:12
 ---
-	<p>
+<p>
 Včera jsme probrali první, nejjednodušší kauzu. Přeskočme teď na kauzu třetí. Třetí kauza představuje největší výzvu (americky řečeno). </p>
 <p>
 Obec v Ústeckém kraji (na úpatí Českého středohoří), která má kolem sebe několik osad (patří pod tu obec) vzdálených co dvou kilometrů. Obec má i s osadami nějakých 1500 lidí. Kupní síla je dost malá, takže i když je v oblasti díky INDOŠI pokrytí ADSL, neznám nikoho, kdo by si ADSL v místě pořídil. V místě jsem nebyl schopen naměřit žádnou WiFi síť (zkoušel jsem na více místech). Je tedy možné si to pěkně naplánovat a postavit podle svého.</p>
 
-<!--more-->	<p>
+<!--more--><p>
 Moje idea je postavit v každé osadě (kde bude zájem) přístupový bod a tyto body propojit směrovými spoji (tvořícími jakousi páteřní síť). V technologické rovině zatím není jasné, jak dimenzovat páteř, aby ji uživatelé nemohli přetížit (nebo aby to bylo obtížné). Budu muset v praxi vykoušet, zda má smysl pro směrové spoje nasazení 802.11g - hlavně jestli dokáží rozumnou rychlostí překlenout ony dva kilometry. </p>
 <p>
 Předpokládám, že bych pro směrové spoje použil PCčka (značka noname plečka) s bezdrátovými kartami a a nainstalovaným Linuxem (i když běžně používám Billova okénka, přece jen si nemyslím, že OS optimalizovaný na rychlé kreslení oken je vhodný pro směrování) - pokud máte tip na nějakou jednoduchou konkrétní distribuci, přijímám odkazy v diskusi (poslední Linux, který jsem administroval sám, byl Slackware verze tuším 1.2). Pro připojování uživatelů počítám s nějakým hardwarovým APčkem. Propojení mezi AP a PCčkem budu realizovat ethernetem (křížený kabel).</p>

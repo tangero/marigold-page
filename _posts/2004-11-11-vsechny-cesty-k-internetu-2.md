@@ -16,7 +16,7 @@ Včera jsem vám přinesl <a href="/item/vsechny-cesty-k-internetu">první člá
 <p>
 Dovolím si ale hlavně zchladit hlavy všem případným zájemcům, protože po skončení přednášky jsem se ing. Ecka zeptal, co ten velký bílý flek na mapě pokrytí od Prahy na jih, kdy že bude pokryto.</p>
 
-<!--more-->	<p>
+<!--more--><p>
 Odpověď byla, že <strong><strike>zde vlastní potřebné pásmo armáda ČR a že tam se pokrytí nedočkáme</strike></strong>. (zřejmě špatně pochopeno - viz diskuse, omouvám se) Další nemilou zprávou je změna chování CDMA ke stahování většího objemu dat, na kterou <a href="http://hulan.info/blog/?item=eurotel-cdma-ma-novou-formu-f-u-p">na svém blogu upozornil Radek Hulán</a>. Dovolím si citovat &#8220;<i>Eurotel na svém CDMA zjevně nezavedl jen omezení P2P sítí, ale zavádí normální F.U.P., kdy Vám po stažení určitého množství dat sníží rychlost i http a ftp přenosů na desetinu rychlosti původní, takže Vám CDMA jede na rychlosti GPRS nebo dial-upu.</i>&#8221;</p>
 
 <h3>Mobilita a roaming v akademických sítích</h3>

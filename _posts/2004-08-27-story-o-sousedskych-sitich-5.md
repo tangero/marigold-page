@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-27 13:41:41
 ---
-	<p>
+<p>
 Jak už jsem včera psal, dorazil mi balíček a v něm chybějící komponenty (karty, kabely, konektory, anténa). Vzal jsem svého Duroně - eh Durona, a nastrkal do něj bezdrátové a drátové karty (zatím obojí po dvou kouscích). Zajímave je, že v Duronovi jsem objevil SCSI řadič a disk, přestože si nevzpomínám, že jsem ho tam dával (nicméně to PCdlo sloužilo jako web a DB server v <a href="http://www.pragonet.cz/sluzby/viacollocation_car_cz.php">hostingovém centru PragoNETu</a> a už je to hodně dlouho, co jsem ho viděl před předvčerejším vyzvednutím). Směrovač teď vypadá takhle:</p>
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040827-router1.JPG" alt="Celkový pohled" width="320" height="240" /></div><div class="rightbox"><img src="/wp-content/uploads/cache/20040827-router2.JPG" alt="Pohled na rozhraní" width="320" height="240" /></div><div class="rightbox"><img src="/wp-content/uploads/cache/20040827-router3.JPG" alt="Detail karet" width="320" height="240" /></div><div style='clear:both'></div><p>
 Jak je vidět, ve směrovači chybí ještě třetí bezdrátová karta. Podíváme se nejdřív, jak bude fungovat se dvěma.</p>

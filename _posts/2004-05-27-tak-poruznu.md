@@ -8,7 +8,7 @@ oldlink: https://www.marigold.cz/item/tak-poruznu
 published: true
 post_date: 2004-05-27 08:01:00
 ---
-	<p>
+<p>
 Občas se dívám, jaké dotazy pokládají lidé vyhledávačům, než dorazí na Marigolda. Je to poučné čtení - zatímco dotazy z ranku ADSL a WiFi tématky se dají očekávat, poměrně velký provoz mám na dotazy jako "Sluha dvou pánů" - přičemž jsem o té hře jednou psal, nebo třeba SuperStar, přičemž si nepamatuji, že bych o tom někdy psal. </p>
 
 <p>

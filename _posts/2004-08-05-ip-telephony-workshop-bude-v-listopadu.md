@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-05 17:09:44
 ---
-	<p>
+<p>
 VoIP a VoBB stále populárnější. Dneska mi přišla tisková zpráva o listopadovém IP Telephony Workshop, v listopadu snad bude chvíle času, abych se tam propašoval a podíval se, co je kde zajímavého a nového. Takže cituji z tiskové zprávy...</p>
 <p>
 IP Telephony Workshop, který se uskuteční ve dnech 23.-24.listopadu 2004 v hotelu Olympik v Praze, vytváří platformu pro prezentaci celé škály produktů a služeb, které jsou v současné době v ČR dostupné. Prostor pro prezentaci zde naleznou především poskytovatelé služeb IP telefonie, dodavatelé SW a integrovaných řešení, ale i výrobci a distributoři specializovaného hardware.</p>

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-05-27 08:20:00
 ---
-	<p>
+<p>
 Připravoval jsem data k exportu a podíval jsem se, kolik jsem toho vůbec na Marigolda napsal. Pokud vezmu jen zprávy (to jsou ty texty v tomhle sloupčeku, ne ty velké články vpravo), tak jsem se dostal mírně pod 1,9 MB textu v celkem 1053 zprávách. To je jen rozsah textu bez formátování stránky. Uff... to není tak málo, dva miliony znaků...</p>
 
 <p>

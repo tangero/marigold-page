@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-12-09 14:31:00
 ---
-	<p>
+<p>
 Tak jsem tak nějak doufal, že RaDo, Ook nebo Sean sem také něco napíšou, když já nemůžu, ale vypadá to, že to zůstává na mně. Jak jsem ale už upozorňoval, nemám tentokrát čas psát každý den něco, věřím, že mě omluvíte. Mám nápad na jeden wi-fi related článek, ovšem zabere to dost času, takže to tu vyjde doufám v pondělí ráno.</p>
 <p>
 Jinak v krátkosti souhrn mých technicko osobních zážitků za včerejšek:</p>

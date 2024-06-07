@@ -9,6 +9,6 @@ oldlink: >
 published: true
 post_date: 2004-11-09 14:29:19
 ---
-	<p>
+<p>
 Tak jsem na server nahrál svoji dnešní přednášku nazvanou <b>Mobily dneška a zítřka aneb Dnes neprodejné, zítra žádané&#8230;</b> Pozor, je v PowerPointu a má přes 3 MB. Ku <a href="http://www.marigold.cz/download/mobily_zitrka.ppt">stažení zde</a>.
 </p>

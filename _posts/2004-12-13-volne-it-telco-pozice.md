@@ -9,14 +9,14 @@ oldlink: >
 published: true
 post_date: 2004-12-13 12:18:00
 ---
-	<p>
+<p>
 Irsko je po vstupu do EU země zaslíbená, narozdíl od nás tam ihned pochopili, jaký mohou mít pro ně potenciál dotace. Stát připravil programy, ve kterých zdarma vzdělává místní firmy i státní úřady, jak na peníze dosáhnout a jak napsat správnou žádost. Vyškolil pár tisíc odborníků, kteří pak vše zbaví formálních nedostatků a perfektně vyřídí, aby úspěch byl co nejjistější. Investovali takto pár milionů a každý rok jim to přinese pár desítek miliard. Protože jsem se před pár měsíci zabýval dotacemi u nás, mohu potvrdit, že zde je situace "trochu" jiná — nikdo vám nic zadarmo nedá, spíše vy musíte 30% dát někomu na správných místech.</p>
 <p>
 V UK vznikly v poslední době mraky IT firem, respektive tam mnohé přenesly velkou část svých aktivit, a je tam ohromný nedostatek odborníků. Protože u nás je tomu přesně naopak, tak můj známý dostal velmi dobrý nápad a přijel do ČR a založil zde <strong><a href="http://www.ictrecruit.com/">odnož anglické personální agentury</a></strong> (on má spíše rád termín "personální konzultace", protože nedělají pouhé "shánění lidí na objednávku", ale pro konkrétní projekty konzultují se zákazníkem, koho budou potřebovat a pak jim pomohou jej získat; naopak uchazeč o zaměstnání není jen porovnáván s databází míst, ale připraví jej, pomohou mu se životopisem a aktivně obvolají své zákazníky a firmy, které by o něj mohly mít zájem).</p>
 <p>
 Práce mají dost, klienty mají z velké části nasmlouvané už z UK (nebudu tu dělal reklamu, prostě si vezměte nějaký seznam TOP 100 technologických firem, vyberte kteroukoliv z nich a máte asi 90% šanci, že jste se trefili) a ti jej díky jeho úspěchům oslovují i s žádostmi o lidi pro jejich pobočky v Česku. Získal v ČR dokonce zakázky od 5 místních operátorů (z toho 2 mobilních), od několika bankovních domů, ale i od několika desítek malých místních firmiček, které se o nich dozvěděli bůhvíjak.</p>
 
-<!--more-->	<p>
+<!--more--><p>
 Jenže zjišťuje, že z nepochopitelných důvodů <strong>v ČR lidé strašně neradi mění zaměstnání</strong> — asi v nich zůstává vzpomínka na 40 let komunismu, kdy jejich rodiče a prarodiče zůstávali od učení ve stejné firmě. A tak se ani po ničem jiném neptají a postupně zakrňují. A firmy na to hřeší a své zaměstnance si vůbec nehýčkají. Kamarád (expert Linux, Cisco, …) takto 4 roky pracoval na technické pozici a bylo mu zamítnuto jím požadované zvýšení platu z 22 na 24 tisíc. Tak se zdravě naštval, a už má nástup 55 plus bonusy. ;-)</p>
 <p>
 Další co mého známého překvapuje, že tu <strong>lidé odmítají za prací cestovat</strong> — v Americe je běžné, že se pro lepší práci přestěhujete z východního na západní pobřeží. U nás odmítají lidé dojíždět třeba 50 km (protože jim to trvá půl hodiny!), a nebo se odmítají přestěhovat (protože je tam nájem 10 tisíc!). Jenže už si neuvědomí, že když někdo bydlí na Zličíně a pracuje na Hostivaři, tak mu to trvá do práce hodinu, a že sice mají možná o 10 tisíc větší nájem, ale zato o 30 tisíc větší plat.</p>
@@ -42,5 +42,5 @@ Volná místa jsou tedy na těchto pozicích (malý výcuc, 40 dalších <a href
 	<li><b>C/C++ PROGRAMMER</b> (<b><i>Brno</i></b>) </li>
 	<li><b>JAVA PROGRAMMER on IBM products</b> (<b><i>Praha</i></b>) </li>
 	</ul>
-	<p>
+<p>
 Má i dost netechnických pozic, které sem nepíšu, shání třeba i zdravotní sestry a doktorky "obvoďačky" pro nemocnice v Irsku — šestimístný plat a včetně ubytování. Když byste chtěli vědět víc, tak se obraťte třeba přímo na mého známého: John Mulvey (<a href="mailto:jmulvey@ictrecruit.com">jmulvey@ictrecruit.com</a>).</p>

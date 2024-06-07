@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-06 14:17:44
 ---
-	<p>
+<p>
 <font size="2"><p>
 Včera jsme se s Boříkem definitivně usnesli na tom, že bude lepší, když Cinetik dáme na bedra někomu, kdo bude mít čas se mu věnovat. Od doby, kdy se oba musíme věnovat jiným aktivitám, firma dosti strádá a je to na ní vidět. Pokud byste někdo měl zájem Cinetik odkoupit (nejrůznější formou) a věnovat se jeho rozvoji, napište na nabidky@cinetik.cz, jak byste si to představovali a co za údaje od nás pro další přemýšlení potřebujete. </p>
 <p>

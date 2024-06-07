@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-12-21 12:12:02
 ---
-	<p>
+<p>
 Opět píšu já, předpokládal jsem, že od včerejška bude psát už Patrick, že už se měl vrátit.</p>
 <p>
 Dnes jsem si přečetl zprávu ČTK: <span style="font-style: italic;">Telefonní automaty budou muset být nejspíš vybaveny tak, aby je mohli bez potíží používat i neslyšící a další postižení. Za speciální telefonní přístroje by pak handicapovaní měli platit tolik jako zdraví za běžné aparáty. Řekl to předseda Národní rady zdravotně postižených Václav Krása. Opatření, která umožní handicapovaným telekomunikační služby používat, by měl zaručit zákon, který zatím schválila sněmovna.</span></p>

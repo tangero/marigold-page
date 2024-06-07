@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-21 08:32:00
 ---
-	<p>
+<p>
 Okurková sezóna řádí i v bezdrátovém světě. Kdo mohl, vzal si dovolenou, kdo nemohl, je tak zmožen vedrem, že na seriosnější práci nemá pomyšlení a tak zprávy, které vycházejí, jsou většinou tak zajímavé, že nemám ani odvahu je publikovat. Nejvýraznější z nich <a href="http://story.news.yahoo.com/news?tmpl=story&amp;ncid=1212&amp;e=1&amp;u=/nm/20040720/wr_nm/telecoms_attwireless_3g_dc&amp;sid=95573503">je oznámení </a>AT &amp; T Wireless, že má 3G síť v čtyřech amerických městech....</p>
 <p>
 A tak je prostor pro zajímavé diskuse, pro které běžně pro práci není času. Příkladmo se rozhořel flamewar kolem Sveasoftu. <a href="http://www.sveasoft.com/modules/phpBB2/index.php">Sveasoft </a>je firmička vyvíjející upravený firmware pro Linksys a další WiFi routery, velmi podařený, <a href="/item/linksys-wrt54g-zvladne-bandwidth-management">psal jsem o něm zde</a>. Linksys routery běží na Linuxu, navíc Sveasoft svoji portaci dělá na standardním GPL základu jako je Wondershape - a tak jeho firmware Satori a Alchemy je také GPL. </p>

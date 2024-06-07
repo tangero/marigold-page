@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2004-07-26 08:27:00
 ---
-	<p>
+<p>
 Udělal jsem o víkendu zajímavou zkušenost. Až doposud jsem považoval české komunitní sítě za výsadu prakticky jen měst, neřku-li přímo měst větších. Praha je jasná,  Brno je jasné, Kladno, Slaný, ještě tak Mělník. O víkendu jsme byli u rodičů v Pardubicích. Zdejší nabídka internetu přes WiFi se ustálila na 300 Kč měsíčně, pokud netoužíte po dokladu (zdravíme Sobotku) a pokud nepotřebujete extra garantovanou linku - v praxi dostáváte něco jako lehce agregovanou čtvrtmegovku. Jenže věru, Pardubice jsou město s 90 000 obyvateli a tam jsem něco takového také čekal. </p>
 <p>
 Ovšem rodiče bydlí ve vesničce deset kilometrů od Pardubic. Z hlediska katastrálního jsou to ještě Pardubice, protože tam jezdí místní MHD (jednou za dvě hodiny a končí tu), z hlediska faktického je to samostatná vesnička s hospodou (2 ks), tak čtyřiceti domy a sámoškou. Ještě za komoušů tu byly dva telefony, jeden z nich mělo JZD, druhý my (to snad nějak když zrušili školu a udělali z ní hospodu a ta telefon nepotřebovala a my bydleli hned vedle, tak jsme ho zabavili). V plánu pro pokrytí ADSL - ne v této desetiletce, přílišná vzdálenost od ústředny (ačkoliv telefony už se naštěstí normálně přidělují a dokonce dorazilo i ISDN). Signál operátorů se v posledních dvou letech zlepšil, ale ještě nedávno bylo potřeba vylést na půdu pro pohodlný přenos dat. </p>

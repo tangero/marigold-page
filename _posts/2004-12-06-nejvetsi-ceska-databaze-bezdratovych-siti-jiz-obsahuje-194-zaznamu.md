@@ -23,7 +23,7 @@ První má zpráva se týká seznamu Wi-Fi sítí na Internet Pro Všechny. Mali
 <p>
 Databáze je přístupná na adrese <b><a href="http://www.internetprovsechny.cz/wifi.php">www.internetprovsechny.cz/wifi.php</a></b>. &#8220;<i>Ve spolupráci se serverem Mobil.cz jsme připravili i zjednodušenou verzi databáze, která je určená pro opravdu nejširší veřejnost</i>,&#8221; dodává <b>Pavel Sviták</b> ze sdružení Internet pro všechny. Tato databáze je přístupná na adrese <b><a href="http://www.mobil.cz/mapawifi">www.mobil.cz/mapawifi</a></b>.</p>
 
-<!--more-->	<p>
+<!--more--><p>
 &#8220;<i>Do naší databáze může přidat informace každý provozovatel bezdrátové sítě</i>,&#8221; vysvětluje Pavel Sviták a dodává: &#8220;<i>Stačí nám poslat e-mail se všemi informacemi, nebo vyplnit on-line dotazník na našich stránkách. Na Mobil.cz je k dispozici i vzorový dokument, který pomůže každému s registrací jeho sítě</i>.&#8221; Před zařazením do databáze jsou údaje ještě kontrolovány. Proto je nutné, aby každý zájemce o zařazení do databáze vyplnil pečlivě všechny požadované údaje.</p>
 <p>
 O databázi je podle <b>Miloslava Sovy</b> velký zájem, v říjnu zaznamenal server Internet pro všechny <b>25 522</b> unikátních návštěvníků, v listopadu pak 22 964. &#8220;<i>Zájem je nejen mezi návštěvníky, ale i mezi provozovateli. Jen za poslední měsíc je v databázi <b>70 nových sítí</b> a dalších 60 čeká na kontrolu údajů</i>,&#8221; říká Miloslav Sova. Databáze je zaměřena <b>především na sítě, které nabízejí možnost paušálního připojení.</b> Síť může být provozovaná na komerčním i komunitním principu, kdy se uživatelé dělí o náklady nebo se mohou připojovat zcela zdarma.</p>

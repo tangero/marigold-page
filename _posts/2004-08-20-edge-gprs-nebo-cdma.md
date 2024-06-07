@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-20 08:05:00
 ---
-	<p>
+<p>
 Na MobilManii se Martin Zikmund rozepsal ve článku <a href="http://www.mobilmania.cz/Operatori/AR.asp?ARI=107959">Duel technologií: Eurotel CDMA versus T-Mobile EDGE</a> o rozdílech mezi těmito technologiemi. Bere to hodně technicky. Zamyšlení, pro koho je která technologie vhodná, věnoval na závěr pár vět. Přitom je to tak prosté:</p>
 
 <ul>

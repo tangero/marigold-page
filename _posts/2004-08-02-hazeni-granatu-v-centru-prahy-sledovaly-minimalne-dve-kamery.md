@@ -14,9 +14,9 @@ post_date: 2004-08-02 08:56:00
 
 	<div class="leftbox">
 <img src="/wp-content/uploads/20040802-kasino-kamery.jpg" alt="Dvě kamery na kasínu" width="161" height="200" /></div>
-	<p>
+<p>
  Na prvním obrázku je příklad takové kamery (označovaná jako Pan Tilt), která může zabírat prakticky 360 stupňů a má samozřejmě výkonný optický zoom. Takové kamery se po Praze rozrostly jak houby po desti a nikomu to nevadí (protože to málokdo pozná), nikoho nepřekvapuje, že vás může nějaká neproškolená obsluha šmírovat, jak se jí zlíbí a její zaměstnavatel bude suverénně tvrdit, že to se u nich nemůže stát, protože na to mají metodiku atd. A že ty kamery jsou pro větší bezpečnost. Tak nyní má policie šanci dokázat, jakou bezpečnost kamery přinesly na nejsledovanější pražské ulici. V tuhle chvíly by už měla na áčtyřku vyvolávat fotografie pachatele z několika úhlů... a jestli ne, tak na co tam ty kamery jsou? </p>
 
-	<p>
+<p>
 PS: Ty dvě kamery v záběru (a na druhé fotce - ty dvě bílé lucerny na rohu kasina) zřejmě patřily přímo kasínu.
 </p>

@@ -9,6 +9,6 @@ oldlink: >
 published: true
 post_date: 2003-03-30 20:37:00
 ---
-	<p>
+<p>
 Není to tak dávno, co jsem sliboval <strong>článek na téma sítí typu mesh</strong>. Článek je sepsán, a pokud budete mít někdo nějakou osobní zkušenost, samozřejmě přispějte do diskuse. Článek <a href="/item/mesh-site-p2p-architektura-v-bezdratovych-sitich" >najdete zde...&gt;&gt;</a>
 </p>

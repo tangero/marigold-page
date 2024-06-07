@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-07 18:09:40
 ---
-	<p>
+<p>
 V Týdnu (24/2004) vyšel rozhovor se šéfem T-Mobile Rolandem Mahlerem. Docela zajímavý rozhovor. Příklad toho, jak lze vypustit mlhu ve jménu vítězství. Týkalo se to licencí v pásmu 450 MHz vydaných Eurotelu. Cituji:</p>
 
 <blockquote dir="ltr" style="MARGIN-RIGHT: 0px"><p>

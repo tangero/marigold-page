@@ -11,9 +11,9 @@ oldlink: >
 published: true
 post_date: 2004-11-29 10:09:45
 ---
-	<p>
+<p>
 Pokud máte chvíli času, můžete jej věnovat <b>Průzkumu využívání bezdrátových sítí</b>. Průzkum bádá nad využití bezdrátových sítí a datových přenosů v nich, jejich klientely, potenciálu rozvoje služeb na základě této technologie, dostupnost informací o základně přístupových bodů atd. </p>
 
-	<p>
+<p>
 <a href="http://praguefellowship.cz/survey/">K průzkumu pokračujte zde&#8230;</a>
 </p>

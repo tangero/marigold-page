@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-21 09:15:35
 ---
-	<p>
+<p>
 Někdy se obtížně chápe, co Nokia provádí. Před měsícem <a href="/?itemid=1040">vystoupila z WiMAX fóra</a>, což jsem rozdýchával jako pragmatické rozhodnutní věnovat se nyní důležitějším součástem jejího businessu. Zhruba měsíc po vystoupení z fóra ovšem Nokia prohlásila, že do WiMAX fóra opět vstupuje. Zdroj: <a href="http://www.computerweekly.com/articles/article.asp?liArticleID=131392&#038;liArticleTypeID=1&#038;liCategoryID=1&#038;liChannelID=7&#038;liFlavourID=1&#038;sSearch=&#038;nPage=1">ComputerWeekly</a>.</p>
 <p>
 Abych řekl pravdu, teď už si o tom myslím jen to, že IP divize v Nokia Networks by se měla hluboce zamyslet a případně jít do sebe-zrušení. Snažil jsem se nedávno na webu najít nějaké její produkty a získal jsem neodbytný dojem, že krome promisware a powerpointware nic nenabízí, co by v konkurenci obstálo...:( (A to nepočítám epesně spackanou akvizici RoofTopu, odepsání tak slibného mesh produktu). </p>

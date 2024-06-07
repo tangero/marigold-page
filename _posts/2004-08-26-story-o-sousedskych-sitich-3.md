@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-26 14:54:47
 ---
-	<p>
+<p>
 Dnes se podíváme na druhý případ, jehož cílem je zapojit malou obec do CZFree.Net. Tedy přesněji řečeno zajistit, aby rodiče přítelkyně meli přístup k Internetu z domácího počítače a já měl přístup k Internetu u venkovního bazénu (když tam zavítám s notebookem nebo iPAQem). Stejně jako v předchozích dílech se nejdříve podíváme, co se již stalo (narozdíl od ostatních kauz zde nastala i sociální interakce s poskytovatelem). </p>
 <p>
 Nejdříve jsem nahlédl do <a href="http://www.czfree.net/mapa">mapy CZFree.Net</a>, zda je někde v okolí nějaké funkční AP. Protože jich pár v okolí (do čtyř kilometrů) bylo, vylezl jsem na střechu (respektive se vyklonil z vikýře) a projel okolí 10 dBi anténou. V okolí bylo asi pět sítí, bohužel žádná z nich nevypadala, že patří CZFree.Net. Nezbývalo, než opatřit lepší anténu (se ziskem 24 dBi) a zkusit to znovu. Byla to větší opičárna, protáhnout sebe i anténu vikýřem, ale ne nadarmo jsem měl v dětství lego. </p>
@@ -20,7 +20,7 @@ Protože jsem maximalista a žádná špatnost mi není cizí, po chvíli přem�
 <p>
 Celý článek kromě dalšího popisuje sociální komunikaci mé osoby s lidmi v CZFree.Net, proto by neměl být zobrazován před dvaadvacátou hodinou ...</p>
 
-<!--more-->	<p>
+<!--more--><p>
 Vzhledem k tomu, že jsem již několikrát viděl směrovací tabulky CZFree.Net (a nebyl to povzbuzující pohled), nabyl jsem dojmu, že nejlepší bude pořídit pro tyhle dvě vesnice vlastní autonomní systém. Jedině při nasazení externího směrování (v Internetu realizované protokolem BGP-4) zajistíte, že máte směrovací tabulky ve stavu, který Vám vyhovuje.</p>
 <p>
 S tímto požadavkem jsem narazil. Místní CZFree komunita (jmenovitě místní gubernátor společně s duchovním vůdcem přípojného bodu, ke kterému povede jeden ze spojů) měli svoji hlavu. V ní je bohužel autonomní systém spojen s přidělením adresním prostorem /16 a rolí gubernátora (přehled gubernií najdete například na <a href="http://www.simandl.cz/stranky/czfreenet/as/as.htm">webu jednoho z gubernátorů</a>). Po výměně invektiv (na sprostá slova naštěstí nedošlo) jsme byli na začátku. Přičemž je zajímavé, že jsme se nedokázali domluvit ani na základních termínech - evidentně místní komunita nepronikla k best current practices v Internetu. Kolo sice již vymysleli, ale že může mít loukotě, jim zatím nedochází. </p>

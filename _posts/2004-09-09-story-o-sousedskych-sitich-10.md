@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-09-09 16:38:36
 ---
-	<p>
+<p>
 Hurá Hurá. Poté, co jsem vytáhl ten původní kabel v lokalitě dvě, nahradil ho proměřeným nakonektorovaným kabelem, se CZFree.Net dostal i na desktop skorotchána. Na následujícím obrázku je vidět, jak nově vypadá střecha v lokalitě dvě. Anténa nahoře je živá, síto čeká na oživení a tyčka slouží pro konektivitu k bazénu.</p>
 <div class="rightbox"><img src="/wp-content/uploads/rsscache/20040909-antena.JPG" alt="Stav na střeše" width="440" height="365" /> </div><p>
 Následně jsem ještě musel vykomunikovat s duchovním vůdcem vedlejší obce povolení směrování mimo rozsah CZFree. Oba zatím používáme statické směrování a zatímco já na něj měl default, on dále posílal moje pakety pouze do rozsahu 10/8 (AKA CZFree.Net).</p>

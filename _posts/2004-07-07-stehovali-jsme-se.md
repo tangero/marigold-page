@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-07 09:11:00
 ---
-	<p>
+<p>
 Během těch čtyř dní volna jsme se rozhodli začít stěhovat věci do našeho nového bytu. Nebylo by to tak těžké, rozhodli jsme se prakticky všechen nábytek nechat v bytě starém a všechno pořídit znovu, moc toho zase nepotřebujeme. Problém je v tom, že já mám pár knih a Dita taky. A když říkám pár knih, tak jsou to slovy tisíce, jsem opravdu slušně vybavená knihovna. Což je sice fajn, ale zkuste si tisícovky knih stěhovat. </p>
 <p>
 Prozatím jsme se rozhodli, že knihovnu umístíme do sklepa, knihy tu zatím skládáme do sloupců na zemi, chystáme se přivést police (on ten sklep je naštěstí větší) a udělat z toho opravdovou knihovnu, kde budou knihy, jež nemusím mít uplně po ruce. Dříve jsem měl knih jednu plnou místnost a v bytě nebylo prakticky k hnutí, navíc kočky s oblibou knihy vyhazovaly na zem a já jsem tím dosti trpěl. </p>

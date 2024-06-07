@@ -28,7 +28,7 @@ Jsou dva hlavní důvody, proč lidé chtějí internet přes bezdrát.</p>
 <li><strong><u>cena:</u></strong> jeden z hlavních důvodů - připojení k místnímu poskytovateli začíná na cca. 300 Kč, nejběžnější hodnota za rozumné připojení je okolo pěti stovek (někde je možné i omezené připojení zdarma)</li>
 	<li><strong><u>dostupnost:</u></strong> souvisí s cenou, on internet je v podstatě dostupný (fyzicky možno) kdekoliv, ovšem mnohde jen za nehorázné podmínky (nákladově nemožno). Donedávna nejlevnější časově nezpoplatňované připojení vyjma bezdrátu začínalo na 6 tisících za 64 kbit linku (pevná linka), poté se alespoň pro desetinu domácností v ČR objevila možnost internetu za cca. 1200 Kč (kabelový internet), přišlo GPRS za tisícovku, které sice pokrývá 99% plochy, ale pro použití ve firmách i domácnostech je naprosto nevhodné. Před rokem se objevilo ADSL, které konečně přineslo levnější internet i do firem a nyní ve většině měst je možnost jej využít, cena od 650 Kč výše (bohužel nelimitované od 1300 Kč výše). A pro některé mimoměstské aglomerace před dvěma týdny přišlo CDMA za 1100. Stále ale tak 40% území ČR není pokryto neomezeným internetem! A zde je volné pole pro bezdrátovou síť.</li>
 </ul>
-<!--more-->	<p>
+<!--more--><p>
 <strong><u>Jak tedy postupovat, chcete-li se připojit k internetu:</u></strong></p>
 <p>
 Zjistěte si, jaké jsou ve vašem okolí nabídky:</p>

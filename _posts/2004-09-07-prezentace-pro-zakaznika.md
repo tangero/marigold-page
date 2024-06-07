@@ -9,10 +9,10 @@ oldlink: >
 published: true
 post_date: 2004-09-07 08:01:00
 ---
-	<p>
+<p>
 Nahrnulo se nějak hodně práce. Dříve jsem si myslel, že ve firmě mne postihuje pracovní sinusoida, kdy jeden týden je práce do úmoru a druhý týden není do čeho píchnout. Těšil jsem se, jak se to stabilizuje. Stabilizovalo. Ovšem na tom horním extrému.</p>
 
-	<p>
+<p>
 Minulý týden jsme měli hodně presentací pro zákazníky a bylo třeba na ně připravit pár slajdů v PowerPointu, abychom mohli ohromovat (správně byznysově se říká impresit). Je to samozřejmě trochu problém, protože co může presentovat firma na deseti slajdech, když její jedinou činností je vzít XML dokument, nacpat ho do mobilní sítě a tamtéž ho zaúčtovat (česky zabilovat) – a případně si dát druhé kolečko zpět. 
 </p>
 
@@ -36,7 +36,7 @@ Proč zvolit naše řešeni:
 </li>
 	<li>Pokud se tak nestane, složí vás za kvartál finanční výsledky a necháte to někoho předělat, pak pravděpodobně už ne nás, protože to nepochybně bude naše chyba a je třeba změnit dodavatele… </li>
 	</ul>
-	<p>
+<p>
 
 Naše služby pro vás:</p>
 
@@ -45,12 +45,12 @@ Naše služby pro vás:</p>
 	<li>budete happy, že máme pár programátorů, kteří už někdy viděli klávesnici počítače a vždycky uhasí to, co se u vás &#8220;rozbilo&#8221;.</li>
 	<li>Nakonec se na nás dají všechny problémy svést, což nám nevadí do doby, dokud platíte faktury a netrháte kontrakt.</li>
 	</ul>
-	<p>
+<p>
 Co za to chceme</p>
 
 	<ul>
 	<li>abyste nám jednou za čas s přiměřeným zpožděním zaplatili fakturu. </li>
 	</ul>
-	<p>
+<p>
 Nakonec jsem moudře uvážil, že taková presentace by opravdu nebyla nejvhodnější a zvolil jsem klasické a konvenční řešení. Když jsem ho presentoval a díval  jsem se těm lidem přes stůl do očí, bylo mi jasné, že si to všichni do těchto vět překládají. Proč si takhle komplikujeme život vytvářením symbolických náhrad?  
 </p>

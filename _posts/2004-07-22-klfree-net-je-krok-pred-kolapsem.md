@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-22 08:21:00
 ---
-	<p>
+<p>
 O napjaté situaci v kladenské komunitní síti KlFree.Net jsem <a href="/item/klfree-net-jako-eserocko-nebo-obcanske-sdruzeni">tu již referoval</a> před její valnou hromadou v květnu. Valná hromada mezi tím proběhla (<a href="http://www.klfree.net/view.php?cisloclanku=2004052602">zápis z ní zde</a>) a členové sdružení se shodli na tom, že hodlají setrvat jako sdružení, komunita - a že nechtějí, aby jejich aktivity přebírala komerční firma. Bylo zvoleno nové představenstvo sdružení a vypadalo to, že věci naberou normální směr, kdy staré vedení vypadne a nové vedení začne dělat to, čím jej členové pověřili. </p>
 <p>
 V zásadě to i tak dopadlo - až na to, že staré vedení si s sebou odneslo některé přístupové body a techniku, jak to tak vypadá, zrovna ty důležité části kladenské sítě. Ty přepojují na komerční WiFi síť a lidem připojeným přes tyto přípojné body nabízejí připojení z komerční sítě s poukazem na to, že KlFree je nemůže nyní obsluhovat. Nové vedení se tomu brání podáním trestních oznámení, úpravami v síti a dalšími podobnými kroky. </p>

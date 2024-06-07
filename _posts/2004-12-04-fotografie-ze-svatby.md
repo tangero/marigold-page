@@ -13,6 +13,6 @@ post_date: 2004-12-04 14:49:58
 <p>
 Tož svatba proběha a dopadla, jak měla. Žádná zvláštní událost, žádná noční můra se nenaplnila. Všem účastníkům a gratulantům děkujeme s Ditou za účast i přání a ti, kdo zůstali i na hostinu, si jistě na dietu stěžovat nemohli ;) </p>
 
-	<p>
+<p>
 Zde jsou fotky ze svatby, pořizoval je můj otec Helmut na můj digitál, fotil s digitálem prvně, do té doby měl v ruce jen analog, navíc fotky jsem nestihl upravit. <a href="http://www.marigold.cz/foto/thumbnails.php?album=9">Fotogalerie je zde</a>. Časem třeba přibudou další fotky. Bohužel došla baterka, kterou jsem nemoudře nenechal ráno nabít, takže hostina už na fotkách není :)
 </p>

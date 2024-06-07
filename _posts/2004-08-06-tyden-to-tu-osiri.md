@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-06 13:57:37
 ---
-	<p>
+<p>
 Příští týden se to tu bude muset obejít bez mých mouder. Týden strávím v Ženevě, budu nabírat sil a zdraví a tak vůbec. Rozdal jsem několik přístupových hesel, takže je možné, že se na serveru objeví i nějaká ta nová zpráva, případně ho někdo konečně smaže ze světa. Záleží na tom, jak moc dobře jsem odhadl lidi... </p>
 <p>
 S sebou no fotoaparát, no notebook, one mobil (vypnutý). Tož si to tu užijte...</p>

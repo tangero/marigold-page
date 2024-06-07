@@ -9,11 +9,11 @@ oldlink: >
 published: true
 post_date: 2004-04-27 07:03:00
 ---
-	<p>
+<p>
 Potřebujete propojit bezdrátově několik přístupových bodů? Udělat větší WiFi síť bez nutnosti každé AP připojovat do ethernetu? Pomůže WDS a zde se dočtete, jak.
 </p>
 
-<!--more-->	<p>
+<!--more--><p>
 <p>
 Tento článek je vlastně upgrade k mojí knize WiFi: Praktický průvodce. WDS v době, kdy jsem knihu psal, byla technologie v plenkách, proto jsem jí nemohl věnovat patřičnou pozornost, ještě nebylo vyzkošené a osahané, jak to funguje. Dnes už je to mnohem jasnější, takže tento článek si můžete vytisknout a vložit do knihy. Zdrojem byly materiály Intersilu, Proximu, Broadcomu a SmallNetBuilderu. </p>
 

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-30 07:32:00
 ---
-	<p>
+<p>
 Aktivity společnosti WideNet, předního poskytovatele bezdrátového připojení k internetu prostřednictvím technologie WiFi, dnes převzala společnost AIRNYX CZ a.s.. Za ní stojí partneři druhého největšího provozovatele sítě HotSpots v Německu &#8211; AIRNYX AG.</p>
 <p>
 Podpisem smluv a předávacích protokolů se AIRNYX CZ a.s. stává majitelem značky WideNet a zároveň provozovatelem hotspotů sítě &#8222;W&#8220;. Protože se Airnyx specializuje na veřejné WiFi hotspoty, prvořadým  zájmem je nyní rychlé rozšíření počtu pokrytých míst sítě WideNet, která k dnešku čítá 45 &#8222;horkých zón&#8220;. </p>

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-12-13 14:49:00
 ---
-	<p>
+<p>
 Už jsem to tu párkrát psal, ale dnešní Oookův článek mě inspiroval k tomu, abych ještě jednou v krátkosti vyjasnil to podstatné okolo pásma 5 GHz. Je třeba totiž zdůraznit, že toto pásmo má několik subpásem, které mají a budou mít odlišnou regulaci.</p>
 
 <ul>

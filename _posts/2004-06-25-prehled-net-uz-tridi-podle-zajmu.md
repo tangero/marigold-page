@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-25 17:12:00
 ---
-	<p>
+<p>
 Petr Olmer zapracoval <a href="http://www.prehled.net/">do Přehled.net </a>další funkcičku. Důležitost zpráv nyní určuje také to, jak si na které zprávy kdo kliká. </p>
 <p>
 Tady je třeba předeslat, že funkce funguje jaksi interně dlouho, ale rozhodli jsme se aktivovat ji, až návštěvnost a proklikovost bude natolik velká, že budou odkliky na články moct být opravdu směrodatné a nebudou představovat statistickou chybu. </p>

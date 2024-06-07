@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-11-23 17:03:52
 ---
-	<p>
+<p>
 Tak se klukům z <a href="http://avc.sh.cvut.cz/">AVC Sillicon Hill</a> (ve webserveru jim zdechlo diskové pole, tak občas nejede) zdařilo zpracovat záznam diskuse <a href="http://kracime.sh.cvut.cz/">Kam kráčíš, česká techniko?</a>, která se konala 17.11. 2004.</p>
 <p>
 Pokud Vás netrápí název ani inženýři, třeba si Vás podmaní personální obsazení: prezident, ministryně školství a čtyři rektoři.</p>

@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2004-06-24 16:58:36
 ---
-	<p>
+<p>
 Na autorství prvního mobilního viru Cabir nebo též Caribe si údajně dělá nároky česká skupina autorů virů, která se nazývá 29A. No to je super, takové prvenství jsme fakt potřebovali. </p>
 <p>
 Zpráva se prosákla přes The Prague Post, kterým se autoři Cabiru ozvali. Cabir se šířil jen přes bluetooth u telefonů vybavených Symbianem, takže mi není zcela jasné, jak si u nás mohl nacházet oběti. Pravidleně scanuji v metru zapnutlé bluetooth a nenacházím nic, natož něco se Symbianem. </p>

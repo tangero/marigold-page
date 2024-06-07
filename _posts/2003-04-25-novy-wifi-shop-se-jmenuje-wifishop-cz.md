@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2003-04-25 12:34:00
 ---
-	<p>
+<p>
 <p>
 Nedávno jsem dostal tip na <STRONG>právě zahájený provoz WiFi shopu firmy Vanco.Net</STRONG>, provozovatele sítě WIA. Shop najdete na doméně <A href="http://www.wifi-shop.cz/" target=_blank>wifi-shop.cz</A>- a příjemné na něm je to, že na něm najdete všechno možné co je pro síťařinu potřeba a to včetně stožárů, hmoždinek a dalších legrácek. Například výběr access pointů tu není nijak široký - v podstatě jen dva levné a několik drahých, například shop od Elity má nabídku širší. Otázka je, jestli mezi access pointy najdete tolik rozdílů (vyjma ceny), abyste museli vybírat podle značek. </p>
 

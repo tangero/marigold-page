@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-22 18:58:40
 ---
-	<p>
+<p>
 Moje anketa na téma, jaký kredit má tarif Home Mini u Českého Telecomu získala během jednoho dne přes 140 hlasů. 47% hlasujících soudilo, že tarif Home Mini žádný kredit nemá, zatímco jeho správnou výši 102 Kč znalo či uhodlo 31 procent hlasujících. A to není zrovna moc - čili se potvrdilo moje podezření, že výše kreditu u tarifů Českého Telecomu není zrovna obecně známa. Hlasující na tomto serveru bych si dovolil považovat za v telekomunikacích zběhlejší a pokud i z nich se správného výsledku dobere necelá třetina, není to mnoho. Aby bylo jasno - sám jsem to nevěděl, podíval jsem se do ceníku a myslel jsem si, že je tam chyba, až mi to i na infolince potvrdili... </p>
 <p>
 A z toho bych uzavřel, že se lze oprávněně domnívat, že běžný uživatel tarifu Telecomu neví, jaký má kredit na telefonování, takže ve srovnání na letácích Českého Telecomu je tento předpoklad sice trochu degradující zákazníka, ale vcelku správný... </p>

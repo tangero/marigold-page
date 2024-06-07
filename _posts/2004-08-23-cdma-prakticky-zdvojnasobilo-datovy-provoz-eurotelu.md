@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2004-08-23 08:33:00
 ---
-	<p>
+<p>
 Via <a href="http://vucako.bloguje.cz/61033_item.php">VÚČAKO</a> jsem (znovu)objevil zajímavé <a href="http://www.nix.cz/index.php?lg=cz&amp;wid=63">statistiky o provozu linek</a> jednotlivých ISP propojených přes NIX. Tedy, statistiky jsou jen za provoz skrze NIX peering, tedy korespondují s objemem provozu do serverů na další NIX partnery, zpravidla tedy do českých zdrojů. I tak je v nich možno najít ledasco zajímavého - ISP se snaží odbavovat český provoz přes NIX. </p>
 <p>
 Na <a href="http://www.nix.cz/graf4/nix-agr-eurotel.html">této stránce</a> je agregovaný provoz Eurotelu přes NIX a z posledního grafu (toho, co tu vidíme) je vidět provoz na NIX linkách Eurotelu za poslední rok. Zeleně je příchozí provoz, modře provoz odchozí, zpracovalo MRTG. </p>

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-03 08:03:00
 ---
-	<p>
+<p>
 V průběhu doby jsem narazil na dva weblogy, u nichž stojí za to pozastavit se. Ten první je věnovaný ADSL modemu/routeru Lucent CellPipe a stojí za pozornost všem, kdož ADSL používají. O víkendu zde vyšel průzkum toho, jak lidi mají zabezpečený svůj ADSL router a ukázalo se, že hromada lidí na to totálně kašle a na modem se jim dostanete s default heslem. Blog dále probírá, co s tím dělat, jak se zabezpečit atd. Doporučuji. <a href="http://cellpipe.wz.cz/blog/cellpipe.html">http://cellpipe.wz.cz/blog/cellpipe.html</a></p>
 <p>
 Druhý weblog je mediální, jmenuje se <a href="http://sobotecka.bloguje.cz/">Sobotecká</a> a nejdříve mne na něm zaujal článeček <a href="http://sobotecka.bloguje.cz/56598_item.php">Nevěřte Nově, všechno je jinak</a>. Věnoval se reportáži ze Dne proti silnici R 35. Ta reportáž mi přišla dost podezřelá už před tím, ale neznal jsem místní reálie, tak to skončilo u toho. Ovšem na weblogu někdo reálie znal, takže článek do mne napumpoval další důvěru v TV Nova zpravodajství. </p>

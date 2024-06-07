@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-30 11:23:10
 ---
-	<p>
+<p>
 V pátek jsme si užili nakonektorování koaxiálního kabelu. Přes spolupráci kolegů (je třeba poděkovat MM a JF) nám to trvalo čas, který považuju za nepřijatelný (a to ten spoj neni ani zdaleka dokonalý).  Kdyby tak byla nějaká sada pro úplné nešiky&#8230;</p>
 <p>
 Později odpoledne jsem byl na Vinohradech vyzvednout anténu. Čekala mě dvě překvapení. </p>

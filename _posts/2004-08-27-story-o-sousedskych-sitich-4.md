@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-27 09:30:00
 ---
-	<p>
+<p>
 Jak jsem už <a href="/item/story-o-sousedskych-sitich-3">včera psal</a>, dorazil balíček, ve kterém jsou náležitosti pro připojení (kabel, anténa, dvě bezdrátové karty XI-626 a nějaké ty konektory). Takže mě čekají dvě povinnosti. Dovézt kabel do lokality jedna, ať si natáhnou těch 15 metrů kabelu za střechy a upevní anténu na stožárek (a zbytek do 30 metrů mi vrátí pro lokalitu dvě). </p>
 <p>
 A budu muset uchodit ten linuxovej směrovač. Vzhledem k tomu, že jsem nebyl schopen pořídit si redukci CF &lt;-&gt; IDE, použiju plnokrevnou distribuci. Protože strávím víkend v lokalitě tři (někdo musí krmit kocoura), kde je přístup na Internet přes GPRS nebo dial-up, doufám, že si stáhnu VŠE, co bude potřeba. Pokud se týče distribuce, asi si hodím korunou <img src="http://www.marigold.cz/nucleus/plugins/wysiwyg/editor/images/smiley/msn/whatchutalkingabout_smile.gif"  alt=""/></p>

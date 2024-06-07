@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-27 07:52:00
 ---
-	<p>
+<p>
 Objednávání internetové přípojky do nového bytu se konečně včera završilo úspěchem. Ze začátku to vypadalo docela triviálně, tedy že postačí nahlásit na UPC, že se stěhujeme a že chceme přeložit modem do nového bytu z bytu starého. Jenže na infolince nás ujistili, že je to operace na měsíc a že to není jen tak. Dita pravila, že internet potřebuje k tomu, aby mohla pracovat a že to tedy ne - a že její redakce mají tradičně dobré vztahy s UPC a že jí UPC jistě vyjde vstříc, když jsem já neschopen to zařídit. A obeslala nějaké pohlaváry v UPC. Když se dva týdny nic nedělo a vynadáno jsem dostával pořád já za to, že nemáme doma internet, jsem sáhl do svých tajných kontaktů, kde jsem našel vizitku na člověka, co tu v baráku připojuje UPC. Objednal jsem u něj připojení, za týden (včera) naklusali dva technici, přinešli modem a všechno připojili. </p>
 <p>
 Mělo to vtipnou vsuvku. Chtěl jsem samozřejmě připojit svůj Linksys router a přes WiFi roztahat signál po bytě. Technici s ulehčením ocenili, že po nich nebudu chtít, aby tahali ethernet po bytě - jenže problém přišel v okamžiku, kdy se zjistilo, že UPC můj router nechce vzít. Následně se ukázalo, že pokud je MAC adresa zařízení už v síti UPC registrována, nelze to zařízení připojit jinde do UPC, dokud se předchozí odběrní místo nezruší. Nepochopil jsem smysl toho opatření - představte si, že si ode mne ten router koupíte, připojíte si ho doma do UPC a ono to nepojede a na infolince vám řeknou, že dokud si Zandl nezruší UPC, nemůžou vám ho připojit. </p>

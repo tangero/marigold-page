@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-29 08:34:00
 ---
-	<p>
+<p>
 Někdy je to docela vtipné, sledovat zahraniční servery. <a href="http://www.msmobiles.com/">MsMobiles.com</a> je jeden z takových průbojnějších serverů, kde se ledaskdy vyskytne zajímavá novinka, ale na názory zdejších autorů si člověk musí dát trochu pozor a důkladně je sítem probrat. Server je zaměřený na PocketPC a obecně smártfouny vybavené Microsoftím řešením a Nokia jim tam leží vydatně v žaludku. V poslední době do toho ostře šlápli bez ohledu na slovník a já nestíhám žasnout. </p>
 <p>
 Ponejprv jsem si všiml článku <a href="http://msmobiles.com/news.php/2717.html">Andrew Orlowski - the incompetent liar</a>. Ten se věnuje redaktorovi konkurenčního periodika <a href="http://www.theregister.co.uk/">The Register</a> (o něco známějšího) - Orlowski se odvážil v nějakém článku poznamenat, Symbian je konkurenceschopná alternativa k MS produktům v mobilech a že MS chytrý systém nemá u velkých výrobců příliš podpory. Nekompetentním lhářem je proto, že MsMobiles si myslí, že to naprosto není pravda, že Symbian je monopolistická sra..ka a připomíná, že Motorola a Samsung, dva další největší výrobci, podepsali kontrakty s Microsoftem. To je pravda. Stejně tak podepsali se Symbianem. </p>

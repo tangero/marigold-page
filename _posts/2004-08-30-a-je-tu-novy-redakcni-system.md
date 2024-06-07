@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-30 02:12:12
 ---
-	<div class="rightbox"><img src="/wp-content/uploads/4/20040830-newsystem.jpg" alt="BLOG:CMS" width="122" height="122" /></div>	<p>
+	<div class="rightbox"><img src="/wp-content/uploads/4/20040830-newsystem.jpg" alt="BLOG:CMS" width="122" height="122" /></div><p>
 Tedy, ne tak docela nový, ale spíše <em>zrenovovaný</em>, Patrick totiž používal
 	stařičkou verzi <a href="http://blogcms.com/">BLOG:CMS</a> (stará 3 měsíce,
 	tedy na můj vkus a vražedné tempo vývoje byla zcela někde jinde), tak jsem

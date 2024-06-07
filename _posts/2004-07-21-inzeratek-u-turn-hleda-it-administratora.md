@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-21 10:25:15
 ---
-	<p>
+<p>
 Slíbil jsem U-Turnu dát sem jejich inzerát, kde hledají IT administrátora, takže:</p>
 <p>
 <strong>IT ADMINISTRÁTOR</strong></p>

@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-07-28 07:03:00
 ---
-	<p>
+<p>
 Tenhle program je už skoro rok starý, ale tehdy mi na něj nějak nepřišla chuť, už proto, že je placený. Jenže dneska přichází renesance zájmu o něj spolu s tím, jak se kategorii programů, do níž spadá, začalo moderně říkat mobile social software &#8211; zkráceně MoSoSo (fuj &#8211; mám raději "mobilní socioware").</p>
 <p align="right">
 	<div class="rightbox">

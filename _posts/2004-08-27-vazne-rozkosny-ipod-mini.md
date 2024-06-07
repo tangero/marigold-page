@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-27 08:48:15
 ---
-	<p>
+<p>
 Včera jsem po velmi dlouhé době podlehl MP3 přehrávačům. Když jsem naposledy investoval do mobilní hudby a koupil si minidisc (v roce 1996), lezlo mi na nervy, že do něj nahraju pár písniček a konec. Nosit sebou hromadu minidisků mne nebavilo a tak jej používám spíš v případě, když potřebuji něco nahrát (rozhovor) a najdu externí mikrofon. Pak jsem Ditě k vánocům koupil iRivera s půl gigem paměti - a to je věru už o něčem jiném. Do toho se vejde slušná porce písniček, je to malá krabička a tak vůbec. A Dita to používá každý den. </p>
 <p>
 Včera jsem podlehl. Na vině je zejména MaLér, jehož iPod jsem nedávno viděl a opravdu moc se mi líbil zejména stylem ovládání. Utěšoval jsem se jen tím, že je na mne moc velký. Pak jsem ale zjistil, že dělají menší verzi iPod mini, která má místo několika desítek GB prostoru jen 4GB místa, tedy více než dost. A tak jsem ho koupil v modravém provedení. </p>

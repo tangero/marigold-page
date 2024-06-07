@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2004-08-16 19:09:42
 ---
-	<p>
+<p>
 Teda já vím, že už je Patrik nazpátek, doufám, že se nebude(te) zlobit, že se mu pletu do řemesla. Ale tahle zpráva mě nadzvedla ze židle a stojí za okamžité upozornění těch, kteří ji ještě nezaznamenali.</p>
 <p>
 Impulzem k napsání tohoto příspěvku byl článek na iDnes <a href="http://ekonomika.idnes.cz/ekonomika.asp?r=ekonomika&amp;c=A040816_161441_ekonomika_ven">Vláda chce přitlačit na rychlejší internet</a>. Cituji:</p>

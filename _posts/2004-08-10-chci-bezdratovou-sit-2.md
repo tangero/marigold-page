@@ -23,7 +23,7 @@ Na některé otázky z nadpisu této části odpověděla už předchozí kapito
 <p>
 Pro vysvětlení dalších termínů musím už zabrousit hlouběji.</p>
 
-<!--more-->	<p>
+<!--more--><p>
 Jednu záležitost jsem totiž neřekl a je IMHO zásadní pro pochopení spousty věcí a mnoho lidí to neví - <strong>standard 802.11 (.a, .b, .g, .h &#8230;) je standard pro vnitřní sítě!</strong> Tedy všechny produkty podle tohoto standardu jsou vyvinuty pro provoz ve vnitřní prostorách a <strong>pro provoz ve venkovním prostřední nejsou uzpůsobeny - optimalizovány</strong>.</p>
 <p>
 Ač se to na první pohled nezdá, tato skutečnost je opravdu zásadní. <strong>V ČR se pod bezdrátovými sítěmi myslí zejména venkovní sítě</strong>, ve světě jde ale naprostá většina (&gt;90%) do vnitřních sítí.</p>

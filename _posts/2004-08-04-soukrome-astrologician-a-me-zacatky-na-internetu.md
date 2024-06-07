@@ -9,10 +9,10 @@ oldlink: >
 published: true
 post_date: 2004-08-04 07:43:00
 ---
-	<p>
+<p>
 Začátky Mobil serveru sahají do poloviny roku 1996, tedy do doby, kdy v ČR přicházely na trh telefony GSM nahrazující dosluhující analogový a předražený systém NMT.  K jeho startu na samostatné doméně <a href="http://www.mobil.cz/">www.mobil.cz</a> je ale ještě dlouhá cesta a bude mnoho projít lecjakou překážku. </p>
 
-<!--more-->	<p>
+<!--more--><p>
 Počátkem roku 1996 jsem dorazil do České republiky zpět z nevydařené expedice &#8211; a záhy se mi dostává do rukou nabídka k připojení do internetu za necelých 500 Kč od VOL. V té době mi vypršelo předplatné u Infimy a bylo načase se poohlédnout po normálním připojení k internetu. Po chvíli pátrání zjišťuji, že firma INEC nabízí připojení ke mnou oblíbené IBM Global Network za stejnou cenu, jako v té době neznámý VOL do nějaké podezřelé italské sítě.  Okamžitě si zřizuji konto u INECu.</p>
 <p>
 V té době ani zdaleka nemám tušení, že se stanu známým díky mobilním telefonům. Moje potřeba připojení k internetu byla prostá &#8211; přes internet jsem komunikoval s mnoha zahraničními přáteli a získával jsem již tehdy přes něj podklady jinak tehdy špatně dostupné. Mojí první vlastní aktivitou na internetu se logicky stává převod nabídky Astrologician BBS na internet. Jsa absolutním laikem ve věcech web hostingu, házím do internetového emailového fóra <em>cz-announcement</em> na Bajtu dotaz, zda někdo neví, jak získat prostor na webu pro malý zajímavý projekt. Během několika dní se mi dostává několika nabídek a protože nemám ani ponětí o tom, jak by se jednotlivé hostingové služby od sebe mohli lišit, vybírám podle toho, koho z těch lidí znám. </p>

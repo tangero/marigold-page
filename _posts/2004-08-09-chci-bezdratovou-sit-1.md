@@ -16,7 +16,7 @@ S tím jak se bezdrátové sítě rozšiřují, setkávám se s tím, že se o n
 <p>
 Popis bude několikadílný, ještě nemám všechny díly připraveny, nicméně plán je to dopublikovat vše tento týden, potom leda případné náměty z publika. První kapitola je zahřívací (ale velmi důležitá pro pochopení i dalších kapitol) a jmenuje se Historie.</p>
 
-<!--more-->	<p>
+<!--more--><p>
 <em>Bezdrátová síť je obecně libovolná počítačová síť, kde je místo kabelů použita technologie, která kabely nevyžaduje (wire less). Přesnějšímu popisu se budu věnovat později, začnu ale historií.</em></p>
 
 <h3>1. Historie</h3>

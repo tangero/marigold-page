@@ -9,21 +9,21 @@ oldlink: >
 published: true
 post_date: 2004-06-08 09:02:16
 ---
-	<p>
+<p>
 A ještě jednou Korea. Korejská firma LG (už nyní v Top 5) se chce probojovat mezi trojici největších světových výrobců mobilů do roku 2006. Včera také ohlásila, co pro to udělá.</p>
 
-	<p>
+<p>
 Především reorganizuje firemní strukturu a vytvoří v ní globální výzkumný a vývojový tým. Dále chce posílit svoje vztahy s operátory a aktivity značky na globálním trhu. </p>
 
-	<p>
+<p>
 Bude integrována jednotka GSM a CDMA mobilů - to byly zatím dvě oddělené skupiny a člověk se musel usmívat, když občas někde četl, že proto, že telefon dělá LG a je pro CDMA, se asi také brzy objeví pro GSM. To bylo zatím prakticky nemožné, obě skupiny pracovaly odděleně a výsledky vývoje nesdílely, telefony měly i jiný firmware atd. Nově také dostanou větší zodpovědnost a hlavně pravomoci regionální manažeři, na nichž bude i zadávání požadavků, co jejich region chce, plánování produktů a marketing. </p>
 
-	<p>
+<p>
 Firma hodlá své výzkumné a vývojové centrum otevřít v Číně a v Evropě, později v Severní Americe, Střední Asii (Indie?) a Latinské Americe. </p>
 
-	<p>
+<p>
 Výzkumné a vývojové centrum LG v Korei spojí CDMA a UMTS týmy a naroste z 1800 lidí na 2500 lidí v tomto roce a na 5000 lidí v roce 2007. Nevíte, kam mohu poslat životopis?</p>
 
-	<p>
+<p>
 LG je firma, která má dobře našlápnuto - je to gigant, který může obrovsky těžit z nejrůznějších synergií, což Nokia a ostatní výrobci mohou spíše omezeně. Tak snad tento let bude plně pilotovaný a neskončí tak, jak tolikrát v podobném případě - neřízeným pádem a rozpadem společnosti z nezvládnuté a neufinancované expanze...
 </p>

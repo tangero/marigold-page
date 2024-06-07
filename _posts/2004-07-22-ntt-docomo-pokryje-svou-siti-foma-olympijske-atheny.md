@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2004-07-22 08:52:00
 ---
-	<p>
+<p>
 Zajímavým způsobem se rozhodl řešit japonský operátor NTT DoCoMo problémy s 3G roamingem na olympijských hrách v Athénách. Jeho síť Foma totiž není kompatibilní se sítěmi evropskými a navíc ani nemá s řeckým operátorem podepsanou roamingovou dohodu, takže ani zapůjčení evropských 3G mobilů by nepomohlo. A nutit zmlsaným japonským uživatelům evropské GSM, to už byla na pyšné NTT docela silná káva. A tak se řešení našlo - NTT DoCoMo od 1. srpna pokryje třemi základnovými stanicemi část Athén a tyto základnové stanice propojí pronajatým okruhem se svou ústřednou v Japonsku. </p>
 <p>
 Výsledkem toho bude, že uživatelé sítě Foma budou moci telefonovat z Athén za japonské sazby, protože budou přihlášeni do japonské sítě Foma. Po řecku tedy budou volat za peníze Japonsko -&gt; Řecko, volání na Japonská čísla je přijde na lokální tarif. A budou moci samozřejmě používat všechny služby jako je videotelefonie, posílání obrázků a mailů, což by v roamingu v současné situaci šlo dosti ztuha (=vůbec).</p>

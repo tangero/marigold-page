@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-12-15 10:10:00
 ---
-	<p>
+<p>
 Tento článek navazuje na <a href="/item/chci-bezdratovou-sit-6-1">předchozí kapitolu</a> a věnuje se detailně problematice pasivních retranslací. Část o aktivních bude následovat odpoledne</p>
 <div class="rightbox">
 <h5>Pasivní retranslace přesměrováním</h5>

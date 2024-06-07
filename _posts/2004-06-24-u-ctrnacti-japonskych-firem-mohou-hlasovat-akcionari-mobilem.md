@@ -11,7 +11,7 @@ oldlink: >
 published: true
 post_date: 2004-06-24 08:34:00
 ---
-	<p>
+<p>
 Když už jsem se tak rozepsal o možnosti volit mobilem (o něco obsáhlejší článek se zkušenostmi z ciziny vyšel na <a href="http://mobil.idnes.cz/mobilni_komunikace/mobilni_telefony/zpravy-mobilni_telefony/volby040623.html">Mobil.cz</a>), tak přidám zprávu z Japonska. Už čtrnáct japonských firem umožňuje svým akcionářům hlasovat pomocí mobilního telefonu. Jaká technologie se k tomu přesně používá, jsem bohužel nezjistil. </p>
 <p>
 Minulý pátek zasedala valná hromada japonského NTT DoCoMo, přičemž 774 akcionářů hlasovalo pomocí mobilního telefonu. Také na valné hromadě obchodního řetězce Matsuzakaya hlasovalo 23 akcionářů mobilním telefonem, hlasování mobilem umožňuje i několik bank a také koncern Sony. <em>Zdroj: </em><a href="http://www.japantoday.com/e/?content=news&#038;cat=4&#038;id=302925"><em>Japan Today</em></a>.</p>

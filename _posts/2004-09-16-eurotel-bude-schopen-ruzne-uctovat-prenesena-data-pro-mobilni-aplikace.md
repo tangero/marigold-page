@@ -11,10 +11,10 @@ oldlink: >
 published: true
 post_date: 2004-09-16 07:57:00
 ---
-	<p>
+<p>
 Eurotel podepsal smlouvu se španělskou firmou NetSpira na dodávku jejího řešení ECS platform (Enhanced Charging Solution). Díky integraci tohoto řešení do své sítě bude moci Eurotel různě účtovat ceny za datové přenosy podle typu aplikace, která tyto přenosy vyvolala. To je velmi důležité, protože například na GPRS v současné době jsou operátoři schopni účtování dělat rozdílně pouze pro různá APN, což uživatele otravuje - musí si různá APN nastavení vytvářet a není to pro něj pohodlné. Nový systém umožní nastavit jinou cenu i při stejném APN, takže například pro hraní online her bude možné používat stejné nastavení dat a přitom přenášet data za jinou cenu. </p>
 
-	<p>
+<p>
 Eurotel hodlá ECS používat právě k tomu, že bude schopen účtovat přístup na Live! portál, k MMS obsahu či videostreamingu přes jednotné datové připojení a za různou cenu.
 </p>
 

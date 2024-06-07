@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-02-17 11:30:00
 ---
-	<p>
+<p>
 <p>
 Jsem rád, že nejsem v tomto názoru sám a že se dostal i na papír tisku. <STRONG>Jestli považuji nějaký smartphone za propadák, pak je to Motorola MPx200.</STRONG> Chytrý telefon za hromadu peněz s funkcemi, které osloví opravdu málokoho. Jestli mu <STRONG>něco chybí, tak je to především fotoaparát a bluetooth.</STRONG>&#160;Souhlasím s tím, že dnes nemá smysl kupovat si chytrý telefon, který tyto funkce nemá, především když konkurence za podobnou cenu obojí nabízí. Podobný názor má i britský <A href="http://www.mobiletoday.co.uk/artman/publish/article_373.shtml" target=_blank>Mobile Today</A>: <EM>&#8220;An integrated camera may not appear to be an essential tool for business users but when rivals are all equipped with cameras and even include video recording, it&#8217;s a blow not to have one.&#8221;</EM></p>
 

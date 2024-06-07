@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-06-28 08:18:01
 ---
-	<p>
+<p>
 Pročítal jsem statistiku o poměru instalovaných a objednaných linek ADSL, zjednodušeně na webu ji najdete <a href="http://www.internetprovsechny.cz/blesk.php?cbl=154">například zde</a>. Ze statistiky vyplývá jedno - instalace ADSL se nestíhají, je neustálý převis objednávek a to v řádu měsíce a půl, dvou měsíců. Situace se tedy prakticky nezměnila od začátku prodeje ADSL - na ADSL se v praxi musí docela čekat.</p>
 <p>
 A tady přichází ta otázka: proč by měl Telecom snížit cenu služby, které je schopen instalovat jen omezené množství? Ke dnešnímu dni je instalováno něco málo přes 27 000 linek, o další čtyři tisíce linek si lidé žádají. Vypadá to tedy, že prodej jde dobře, hůře již instalace. A tady přichází poučka o výnosech. Pokud je Telecom schopen do konce roku instalovat pouze celkem 60 000 ADSL linek (na víc to zatím nevypadá), je lepší tyto linky prodávat dráže, než levněji, protože víc jich prostě nebude schopen instalovat. Chybou by tedy bylo prodat jich sto tisíc a nemoci jich z kapacitních důvodů čtyřicet procent instalovat. Jsou to jednoduché počty a Telecomu to těžko můžeme zazlívat. </p>

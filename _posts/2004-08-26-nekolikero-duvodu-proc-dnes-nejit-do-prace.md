@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-26 08:31:00
 ---
-	<p>
+<p>
 Rozhodl jsem se dnes ráno provést průzkum, shromáždit body pro a proti rozhodnutí jít do práce a na základě tohoto průzkumu se rozhodnout. A zjistil jsem, že:</p>
 
 <ul>

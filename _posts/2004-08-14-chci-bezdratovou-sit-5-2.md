@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-14 00:24:51
 ---
-	<p>
+<p>
 <em>pokračování přechozí kapitoly</em></p>
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040814-wireless-man.jpg" alt="Wireless MAN" width="250" height="172" /></div>
 <h4>Chci založit venkovní bezdrátovou síť</h4>
@@ -21,7 +21,7 @@ Když chci založit venkovní bezdrátovou síť, musím k tomu mít nějaké <s
 	<li>v okolí <strong><u>není jiný poskytovatel</u></strong> podobné technologie a věřím, že bych jich našel dost, aby se to vyplatilo</li>
 	<li>mám internet např. od kabelové televize, DSL, pevnou linku či jiný wireless, rychlost a kapacita je pro mě zbytečně velká, <strong><u>připojením pár lidí se mi část peněz vrátí</u></strong> (či dokonce budu vydělávat), případně to pojmu i jako self-promo. Případně mi poskytnutí internetu dalším pár lidem umožní koupit si vyšší nabídku (neomezenou, rychlejší, &#8230;) od svého provozovatele a mít tak sám lepší internet. Pozor na to, aby podmínky služby přeprodej nezakazovaly!</li>
 </ul>
-<!--more-->	<p>
+<!--more--><p>
 Pro nabízení bezdrátového internetu musím splnit několik předpokladů:</p>
 
 <ul>
