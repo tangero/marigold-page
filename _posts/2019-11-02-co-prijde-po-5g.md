@@ -26,7 +26,7 @@ V rádiu ještě zmíním plány na použití spektra nad 52 GHz, zejména vizi 
 
 Zvláště bych se zastavil u konceptu  **NR NTN**  neboli nového rádia neterestrické sítě. Myšlenka je, nahradit připojení základnových stanic nebo dokonce samotných mobilních terminálů už ve standardu satelitním či balonovým/dronovým připojením. Tedy signálem šířeným ze satelitů, balonů, dronů či jiných létajících zařízení. Zajímavá myšlenka, uvidíme, jak se chytne. Požadavky na ni byly zejména s ohledem na projekty Facebooku a Elona Muska.
 
-![Vlastnosti jednotlivých druhů Ne-pozemních sítí](/assets/Sni%CC%81mek-obrazovky-2019-11-02-v-8.15.09-1024x531.png)
+![Vlastnosti jednotlivých druhů Ne-pozemních sítí](/assets/nepozemni-site.png)
 
 Vlastnosti jednotlivých druhů Ne-pozemních sítí
 
@@ -46,7 +46,7 @@ Příštích deset let má být věnováno zasíťování všeho možného i nem
 
 Pak jsou zařízení různě limitovaná rozměry, schopností vystrčit anténu a vůbec form-faktorem a zejména spotřebou. Na ně přichází řada postupně ve formě IoT podpory a NR Light. A také v postupné integraci světelné komunikace (tu jsem úplně pominul). Jinak pro představu – v pásmu 100 GHz se dnes dá komunikovat rychlostmi v řádu cca 100 Gb/s na vzdálenost několika desítek centimetrů, rozhodně to není záležitost dalekého dostřelu, stejně jako světelná komunikace.
 
-![Scénáře, které by chtělo 5G pokrýt](/assets/Sni%CC%81mek-obrazovky-2019-11-02-v-9.58.53-1-1024x676.png)
+![Scénáře, které by chtělo 5G pokrýt](/assets/emb.png)
 
 A do třetice ještě přijdou zařízení, o kterých netušíme ničeho. Třeba taková, která nebudou mít hmotnou podstatu, ta se skrývají pod názvy Wireless Device as a Service – tedy možnost pronajmout si fyzický hardware a ten používat nebo ještě lépe pronajmout si takovou službu jen virtuálně, na dálku, přes nejrůznější virtualizační nástroje, které přenesou výstup takového zařízení. Jak to bude ve skutečnosti fungoovat, nám ukáže budoucnost, stejně jako uvidíme, zda to bude prakticky k něčemu, tenkolientní aplikace jsou dodnes spíše úsměvné, než prakticky použitelné, ale má to být „jen o dostatku kapacity“.
 
