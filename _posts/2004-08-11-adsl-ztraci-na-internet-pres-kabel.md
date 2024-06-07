@@ -9,8 +9,7 @@ oldlink: >
 published: true
 post_date: 2004-08-11 11:34:22
 ---
-<div class="rightbox"><img src="/wp-content/uploads/cache/20040811-dsl.jpg" alt="Distinctly Superior Lubricant" width="244" height="135" /></div><p>
-<a href="http://mobil.idnes.cz/aktuality/adsl040811.html">ADSL prý dohání kabelovky</a>, zprávu jsem zaznamenal už včera, ale chtělo to delší komentář a na ten nezbyl čas. <strong>ADSL má nyní cca. 38 tisíc zákazníků</strong> (napříč všemi operátory), <strong>kabelový internet 42 tisíc zákazníků</strong>. Za poslední čtvrtletí nahrabalo ADSL cca. 15 tisíc zákazníků, kabelový internet asi polovinu. Zástupce Telecomu se tím samozřejmě chlubí, ale je opravdu čemu se chlubit?</p>
+<p><a href="http://mobil.idnes.cz/aktuality/adsl040811.html">ADSL prý dohání kabelovky</a>, zprávu jsem zaznamenal už včera, ale chtělo to delší komentář a na ten nezbyl čas. <strong>ADSL má nyní cca. 38 tisíc zákazníků</strong> (napříč všemi operátory), <strong>kabelový internet 42 tisíc zákazníků</strong>. Za poslední čtvrtletí nahrabalo ADSL cca. 15 tisíc zákazníků, kabelový internet asi polovinu. Zástupce Telecomu se tím samozřejmě chlubí, ale je opravdu čemu se chlubit?</p>
 
 <ul>
 <li>Podle údajů ČTc je <a href="http://digiweb.cz/?s1=i&amp;s2=0&amp;s3=0&amp;s4=0&amp;s5=0&amp;s6=0&amp;m=d&amp;a[id]=22018875&amp;p=i00000_d">ADSL dostupné na 2,5 milionu linkách</a> (toto číslo mi přijde přehnané, realita bude v uplynulém čtvrtletí někde okolo 1,5 milionu, ale dobře)</li>
