@@ -8,11 +8,11 @@ permalink: /mobilnisite/
 
 Stručný a poměrně pochopitelný úvod do toho, jak mobilní sítě fungují. Pro všechny zájemce ♥️
 
-!(![Jaké jsou rozdíly mezi generacemi mobilních sítí](/assets/generace-mobilnich-siti.png))
+![Jaké jsou rozdíly mezi generacemi mobilních sítí](/assets/generace-mobilnich-siti.png)
 
 ## Videotutoriály pro úplné začátečníky
-- [https://www.youtube.com/watch?v=pz5OVB5PXA0](Proč jsou buňkové sítě zrovna buňkové?)
-- [https://www.youtube.com/watch?v=FESczYohAfE](Co je to multiplexování?)
+- [Proč jsou buňkové sítě zrovna buňkové?](https://www.youtube.com/watch?v=pz5OVB5PXA0)
+- [Co je to multiplexování?](https://www.youtube.com/watch?v=FESczYohAfE)
 
 ### Mobilní sítě UMTS / 3G
 - začněme [architekturou sítí 3G](/item/blaznuv-turbouvod-do-umts-jak-vypada-sit/), od toho se všech odvíjí
