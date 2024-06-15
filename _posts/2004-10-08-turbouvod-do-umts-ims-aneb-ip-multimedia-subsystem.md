@@ -41,14 +41,14 @@ Je to pro vás kacířská myšlenka? Ona je ale docela reálná, protože takov
 Kombinace hlasového provozu na bázi okruhů a paketových dat tedy kapacitě UMTS sítě neprospívá, ostatně i s ohledem na to, že většina (potenciálních) UMTS operátorů vlastní GSM licence a může tedy hlasový provoz pokrýt přes GSM. Větší výjimkou je snad jen operátor 3.</p>
 
 <h4>S IMS jsou i potíže</h4>
-	<p>
+<p>
 Nevýhodou je, že IMS má ve standardu několik fází a to, o čem jsme si povídali doteď, je spíše výhled do budoucna, než to IMS, jak je implementováno v Release 5. Doposud standardizované IMS zatím není vhodné pro nějaké velké realtime aplikace, k tomu se dopracuje zřejmě až v Release 6. Pro IMS Release 5 se počítá spíše se službami typu Push To Talk over cellular, tedy službami, které nejsou náročné na zpracování v reálném čase, než s videotelefonáty, které real-time zpracování potřebují. Takže je to zatím jen další hrůza navíc. </p>
 
 <h4>IMS v síti</h4>
 <p>
 Podívejme se, jak IMS vypadá v UMTS síti. Přestavbu provádí IMS v okruhové doméně, v níž rozděluje ústřednu (MSC) na dvě části – Media Gateway (MGW) a MSC server, do budoucna stále označovaný jako MSC, tedy ústředna. Na obrázku MSC není, protože obrázek zakresluje jen vztah mezi paketovou a IMS doménou. Řídící logika zůstává na MSC serveru, zatímco MGW přejímá samotné spínání, tedy přenos dat. Oddělení řízení od samotného datového provozu dovoluje síti využívat efektivnější směrování pro vysokorychlostní data, neboť malé řídící povely se přenášejí jinou cestou a nemíchají se s velkými objemy dat. </p>
 
-![IMS architektura](/assets/ims-architecture.jpg)
+![IMS architektura](/assets/20041008-ims.jpg)
 
 <p>
 Z hlediska konstrukčního se předpokládá, že MSC i MGW může být dodáváno ve společném fyzickém provedení nebo odděleně a to v závislosti na tom, jak se dodavateli podaří ne/vyřešit upgrade stávajícího MSC u operátora. </p>

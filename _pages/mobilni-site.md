@@ -17,10 +17,11 @@ Stručný a poměrně pochopitelný úvod do toho, jak mobilní sítě fungují.
 ### Mobilní sítě UMTS / 3G
 - začněme [architekturou sítí 3G](/item/blaznuv-turbouvod-do-umts-jak-vypada-sit/), od toho se všech odvíjí
 - pokračujme tím, jak to, že 3G sítě jsou o tolik kapacitnější, než 2G sítě: [Kapacita, CDMA a pár Shannonových kouzel](/item/turbouvod-do-umts-kapacita-cdma-a-par-shannonovych-kouzel)
+- [IMS aneb IP Multimedia Subsystem](/item/turbouvod-do-umts-ims-aneb-ip-multimedia-subsystem/) - jak na data a multimédia v sítích 3G
 - co jsou [rychlé datové přenosy v 3G pomocí HSDPA](/item/podpora-hsdpa-v-umts-release-5) - a popis toho, [jak HSDPA funguje](/item/high-speed-downlink-packet-access-hsdpa)
 
-Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [/item/cesta-k-sitim-5g-aneb-skoro-vse-co-nepotrebujete-vedet/](Cesta k sítím 5G aneb skoro vše, co nepotřebujete vědět)
 
+Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k sítím 5G aneb skoro vše, co nepotřebujete vědět](/item/cesta-k-sitim-5g-aneb-skoro-vse-co-nepotrebujete-vedet/)
 
 ### LTE
 - jak funguje [koordinované vícebodové spojení CoMP v LTE](/item/koordinovane-vicebodove-spojeni-v-lte/)
