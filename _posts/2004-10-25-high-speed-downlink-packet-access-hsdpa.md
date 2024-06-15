@@ -4,12 +4,13 @@ title: >
   High Speed Downlink Packet Access
   (HSDPA)
 author: Patrick Zandl
-post_excerpt: ""
+post_excerpt: "Jak fungují rychlá paketová data HSDPA v sítích UMTS/3G"
 layout: post
 oldlink: >
   https://www.marigold.cz/item/high-speed-downlink-packet-access-hsdpa
 published: true
 post_date: 2004-10-25 08:16:00
+categories: [UMTS, 3G, Turboúvod do mobilních sítí]
 ---
 <p>
 O datech v UMTS síti už něco málo víme, především to, kde jsou jejich zádrhely. Už tušíme, že to s rychostí nemusí být slavné, ale také to, že to slavné není ani se zpožděním a časovým rozptylem při přenosu dat, tedy se dvěma kvalitativními parametry, na které jsou služby vyžadující QoS háklivé. O HSDPA jsem již trochu psal, ale nyní to vezmeme maličko podrobněji. Jen připomínám, že HSDPA je systém rychlých dat pro stahování, tedy downlink, pro uplink se používá stávající mechanismus, případně se do Release 6 počítá s novým… </p>
@@ -59,7 +60,7 @@ Release 6 také předpokládá rozšíření obsahu CQI reportů a jejich dynami
 Jak CQI probíhá, vidíte na obrázku. </p>
 
 <p>
-<img src="/wp-content/uploads/20041025-cqi.gif" alt="CQI" width="469" height="168" /></p>
+<img src="/assets/20041025-cqi.gif" alt="CQI" width="469" height="168" /></p>
 
 <h4>Adaptivní modulace a kódování</h4>
 <p>

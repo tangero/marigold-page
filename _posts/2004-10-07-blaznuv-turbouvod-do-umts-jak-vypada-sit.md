@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/blaznuv-turbouvod-do-umts-jak-vypada-sit
 published: true
 post_date: 2004-10-07 09:26:24
+categories: [UMTS, 3G, Turboúvod do mobilních sítí]
 ---
 <p>
 Pokud jde řeč o UMTS, většinou se tato síť třetí generace tváří jako technický zázrak, jako složitý a komplexní systém a jako taková je i popisována. Moudré knihy vás v patnácti kapitolách provedou nástrahami tří stovek zkratek, které obsahuje norma UMTS ve svém prvním vydání, což odradí většinu. Zkusme si ale UMTS rozebrat jinak. </p>
@@ -16,7 +17,7 @@ Pokud jde řeč o UMTS, většinou se tato síť třetí generace tváří jako 
 UMTS především není žádný technický zázrak, ačkoliv tvrzení o komplexnosti tohoto systému je pravdivé. UMTS prakticky kompletně vychází z předchozích návrhů buňkových sítí jako je GSM nebo NMT a byť to zní nactiutrhačně, dovolil bych si říci, že UMTS není žádnou revolucí. Zatímco GSM přineslo oproti NMT digitalizaci a NMT oproti nulté generaci právě tu buňkovou strukturu, UMTS ve svém prvním standardu mnoho nového nenabídlo.
 </p>
 
-<!--more--><h4>Jádro sítě</h4>
+<h4>Jádro sítě</h4>
 <p>
 Síť UMTS můžeme tedy rozdělit do dvou hlavních částí. Tou první je jádro sítě tedy core network, CN. Jádro sítě je hromada počítačů, které jsou převlečeny do nejrůznějších funkcí řízení a správy sítě, jako je autorizace uživatelů, směrování provozu v síti i mimo ni. Řekli bychom, že jde o routery, autorizační a databázové servery, ale vzhledem k tomu, že některé tyhle routery se starají ne o paketovou, ale okruhovou síť, přidržíme se u nich tradičnějšího označení &#8220;ústředny&#8221;. Ve všech nákresech struktury jádra sítě najdete ještě hromadu další techniky, ta je ale pro nás nyní nepodstatná a abstrahujme od ní, neboť se stará prakticky výhradně o autorizaci a sběr dat (zejména pro účtování).</p>
 
@@ -28,8 +29,8 @@ Druhou částí sítě je takzvaná přístupová síť. UMTS je benevolentní s
 Přístupová síť svůj signál distribuuje prostřednictvím základnových stanic, těch stožárů, k nimž se rádiem mobilka připojuje. Jde vlastně o obdobu přístupových bodů, apéček u WiFi, s &#8220;drobnými&#8221; (a drahými) rozdíly. Základnovou stanicí pro náš účel zovu konglomerát samotné základnové stanice zvané v normě NodeB (obdoba BTS u GSM) a RNC, Ovladače radiové sítě (obdoba BSC u GSM), který se stará o soužití blízkých základnových stanic. </p>
 
 <p>
-<img src="/wp-content/uploads/20041007-UMTSsit.jpg" alt="architektura UMTS" width="502" height="272" />
-<br /><i>Tady vidíte síť v skoro-plné kráse. My jsme si to opravdu zjednodušili. Zatímco vše vlevo jsme pojmenovali přístupovou sítí, vše vpravo od těch zkřížených čar jsme pojmenovali jádrem sítě. Zbytek zatím nemusíte nijak studovat, většinu toho ještě vykostíme příště. Poznámka: ty BTS a BSC vlevo dole jsou připojením GSM sítě&#8230;</i></p>
+<img src="/assets/20041007-UMTSsit.jpg" alt="architektura UMTS" />
+<br /><i>Tady vidíte síť v skoro-plné kráse. My jsme si to opravdu zjednodušili. Zatímco vše vlevo jsme pojmenovali přístupovou sítí, vše vpravo od těch zkřížených čar jsme pojmenovali jádrem sítě. Zbytek zatím nemusíte nijak studovat, většinu toho ještě vykostíme příště. </i></p>
 
 <h4>Release 99</h4>
 <p>
