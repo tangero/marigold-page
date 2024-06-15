@@ -8,7 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti
 published: true
 post_date: 2012-09-13 18:16:47
-categories: [LTE, 3G, Mobilní sítě]
+categories: [UMTS, 3G, Turboúvod do mobilních sítí]
 ---
 <p>Počátky LTE můžeme oprávněně spatřovat v Release 8, která byla vydána z kraje roku 2008 a v mnoha ohledech navazovala na Release 7, zejména rozšířením modulačního schématu 64QAM do použití s MIMO anténami a pak dual-carrier HSPA, DC HSPA, kdy lze pro přenos dat přes HSPA využít dva přenašeče a tedy fakticky zdvojnásobit poskytovanou rychlost (nikoliv kapacitu). Až potud je Release 8 jen logickým vývojem <a href="http://www.marigold.cz/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7">Release 7</a>.</p>
 <!--more-->

@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/turbouvod-do-umts-ims-aneb-ip-multimedia-subsystem
 published: true
 post_date: 2004-10-08 11:44:28
+categories: [UMTS, 3G, Turboúvod do mobilních sítí]
 ---
 <p>
 Sliboval jsem minule, že se podíváme, jak by bylo možno přidat poměrně obstarožnímu UMTS Release 99 na rychlosti přenášených dat a přitom se pokusit redukovat počet krabic v schématu sítě, o kterých jsme si ještě ani neřekli, že existují. </p>
@@ -47,8 +48,7 @@ Nevýhodou je, že IMS má ve standardu několik fází a to, o čem jsme si pov
 <p>
 Podívejme se, jak IMS vypadá v UMTS síti. Přestavbu provádí IMS v okruhové doméně, v níž rozděluje ústřednu (MSC) na dvě části – Media Gateway (MGW) a MSC server, do budoucna stále označovaný jako MSC, tedy ústředna. Na obrázku MSC není, protože obrázek zakresluje jen vztah mezi paketovou a IMS doménou. Řídící logika zůstává na MSC serveru, zatímco MGW přejímá samotné spínání, tedy přenos dat. Oddělení řízení od samotného datového provozu dovoluje síti využívat efektivnější směrování pro vysokorychlostní data, neboť malé řídící povely se přenášejí jinou cestou a nemíchají se s velkými objemy dat. </p>
 
-<p>
-<img src="/wp-content/uploads/20041008-ims.jpg" alt="IP Multimedia Subsystem" width="500" height="324" /></p>
+![IMS architektura](/assets/ims-architecture.jpg)
 
 <p>
 Z hlediska konstrukčního se předpokládá, že MSC i MGW může být dodáváno ve společném fyzickém provedení nebo odděleně a to v závislosti na tom, jak se dodavateli podaří ne/vyřešit upgrade stávajícího MSC u operátora. </p>
@@ -62,3 +62,5 @@ IMS jsme probrali jako malou odbočku, protože zatím se v praxi neprosazuje, j
 <p>
 Příště se snad konečně dostaneme k tomu, proč a jak zrychlují data v UMTS.
 </p>
+
+Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

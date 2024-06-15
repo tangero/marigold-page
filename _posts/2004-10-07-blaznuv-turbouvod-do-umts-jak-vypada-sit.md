@@ -79,6 +79,4 @@ Na závěr: uvědomme si také historická fakta. UMTS standard začal vznikat j
 Zatímco GSM bylo v roce 1992, kdy první GSM sítě startovaly, s rychlostí dat na výši své doby (9,6 Kb/s uměly tehdy nejlepší modemy), o UMTS se to dnes říci nedá. A zdá se, že toto opomenutí vývojového trendu došlo i standardizátorům.
 </p>
 
-<p>
-!++10++!
-</p>
+Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

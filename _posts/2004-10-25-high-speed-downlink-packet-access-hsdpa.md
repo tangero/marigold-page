@@ -101,3 +101,5 @@ Novinkou v Release 6 pak má být nový kanál pro rychlé odesílání dat, jen
 <p>
 Do dalších Release se počítá především s důsledným uplatněním inteligentních složených antén MIMO a také beamformingu, kdy základnové stanice mění směr svého pokrytí v závislosti na tom, kde jsou její uživatelé.
 </p>
+
+Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

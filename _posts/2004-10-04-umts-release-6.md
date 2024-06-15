@@ -8,6 +8,7 @@ oldlink: >
   https://www.marigold.cz/item/umts-release-6
 published: true
 post_date: 2004-10-04 07:35:00
+categories: [UMTS, 3G, Turboúvod do mobilních sítí]
 ---
 <p>
 V září měl být zmrazen další update UMTS standardu nazývaný Release 6, šesté vydání. To zmrazení – frozen – je baladický opis toho, že s dalšími návrhy na rozšíření si od doby zmrazení máte dát svátek a počkat si na další Release. Jenže pořád se něco posouvá&#8230; </p>
@@ -27,3 +28,5 @@ No a pokud bychom dumali, co se do Release 6 nevešlo a čeká nás v Release 7,
 <p>
 Bohužel, můj návrh CNI se ani letos do standardu neprotlačil :( Asi jsem málo lobboval&#8230;
 </p>
+
+Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

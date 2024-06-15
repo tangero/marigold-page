@@ -31,3 +31,5 @@ Jsem vážně zvědavý, jak to NTT DoCoMo všechno stihne. Kromě Super 3G a 4G
 <p>
 <img src="/wp-content/uploads/1/20041201-ntt-super3g-2.jpg" alt="Super 3G" width="400" height="300" />
 </p>
+
+Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)
