@@ -14,6 +14,9 @@ Stručný a poměrně pochopitelný úvod do toho, jak mobilní sítě fungují.
 - [Proč jsou buňkové sítě zrovna buňkové?](https://www.youtube.com/watch?v=pz5OVB5PXA0)
 - [Co je to multiplexování?](https://www.youtube.com/watch?v=FESczYohAfE)
 
+### Sítě 2G - GSM
+- jak byla [vybrána technologie GSM standardu](/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/)
+
 ### Mobilní sítě UMTS / 3G
 - 3G standardem nebylo původně jen UMTS, bylo jich více, většina z nich se ale přestala používat, nebo byla do UMTS proměněného v 4G/5G "vcucnuta". Jak to [bylo se standardy 3G původně?](/item/3g-standardy-neni-jen-umts/)
 - pokračujme [architekturou sítí 3G](/item/blaznuv-turbouvod-do-umts-jak-vypada-sit/), od toho se všech odvíjí
