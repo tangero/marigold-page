@@ -30,9 +30,9 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 
 ### Standardizace a vývoj nových funkcí v 3GPP
 
-Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhrnných vydání specifikací mobilních sítí celosvětového standardu UMTS, později pojmenovaného a derivovaného na 3G, 4G, 5G a nově i 6G. 
+Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhrnných vydání specifikací mobilních sítí celosvětového standardu UMTS, později pojmenovaného a derivovaného na 3G, 4G, 5G a nově i 6G. Přelomové Release jsou vyznačené tučně. 
 
-- Rok 1999: Release 99 - paketová data pro 2G sítě, MMS, lokalizační služby
+- **Rok 1999: Release 99 jako 3G** - paketová a spínaná data PS/CS, MMS, lokalizační služby
 - Rok 2001: UMTS Release 4 - první takto značená Release, zahrnuje čínské TD-SCDMA
 - Rok 2002: UMTS Release 5 - HSDPA, IMS, AMR-WB
 - Rok 2005: [UMTS Release 6](/item/umts-release-6) - MBMS, WLAN-UMTS, Enhanced Uplink
@@ -45,4 +45,12 @@ Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhr
 - **Rok 2016: 3GPP Release 13 jako LTE Advanced Pro** - rozšírení pro CA a MIMO, nelicencovaný přístup k pásmu a NB-IOT. Gigabitový downlink.
 - Rok 2017: 3GPP Release 14 - eLAA, Vehicle2Everything, Digital TV broadcast 
 - **Rok 2018: 3GPP Release 15 jako 5G** - škálovatelné OFDMA, Dual Connectivity s LTE, masivní MOMO, beamforming, Service Based Architecture SBA, 5G Core. 
-- Rok 2024: [3GPP Release 18 a 5G Advanced](/item/5G_advanced_3GPP_Release-18/)
+- 3GPP Release 16 - rozšířené MIMO, beamforming, Dynamic Spectrum Sharing DSS, Integrovaný přístup k backhaulu IAB, podpora IoT a V2X
+- 3GPP Release 17 - podpora 60 GHZ nelicenovaného pásma, satelitní komunikace a sidelink relaying
+- **Rok 2024: [3GPP Release 18](/item/5G_advanced_3GPP_Release-18/) jako 5G Advanced**
+
+A co přinese budoucnost? 
+
+- Rok 2025: 3GPP Release 19
+- Rok 2026: 3GPP Release 20
+- Rok 2027: 3GPP Release 21 jako 6G
