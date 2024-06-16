@@ -32,7 +32,16 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 
 Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhrnných vydání specifikací mobilních sítí celosvětového standardu UMTS, později pojmenovaného a derivovaného na 3G, 4G, 5G a nově i 6G. 
 
-- Rok 2004: [UMTS Release 6](/item/umts-release-6)
+- Rok 1999: Release 99 - paketová data pro 2G sítě, MMS, lokalizační služby
+- Rok 2001: UMTS Release 4 - první takto značená Release, zahrnuje čínské TD-SCDMA
+- Rok 2002: UMTS Release 5 - HSDPA, IMS, AMR-WB
+- Rok 2005: [UMTS Release 6](/item/umts-release-6) - MBMS, WLAN-UMTS, Enhanced Uplink
 - Rok 2006: [UMTS Release 7](/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7/) a MIMO, HSPA+, 
-- Rok 2009: [3GPP Release 8](/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti) System Architecture Evolution (SAE) a&nbsp;Evolved Packet Core (EPC) v&nbsp;rámci LTE sítí
+- **Rok 2009: [3GPP Release 8](/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti) - představuje LTE/4G** jako System Architecture Evolution (SAE) a&nbsp;Evolved Packet Core (EPC). Podpora OFDMA
+- Rok 2010: 3GPP Release 9 - femtocelly v podobě Home eNodeB (HeNB), Location Services (LCS), Evolved Multimedia Broadcast/Multicast Service (eMBMS), VoLTE a Circuit Switched FallBack (CSFB)
+- **Rok 2011: 3GPP Release 10 - LTE Advanced** a funkce CA (Carrier Aggregation), HetNet a advanced MIMO.
+- Rok 2013: 3GPP Release 11 - rozšiřuje funkce Rel-10 o CoMP a rozšiřuje podporu HetNet, heterogenních sítí
+- Rok 2015: 3GPP Release 12 - Dual Connect, FDD-TDD CA, 245 QAM a D2D
+- **Rok 2016: 3GPP Release 13 jako LTE Advanced Pro** - rozšírení pro CA a MIMO, nelicencovaný přístup k pásmu a NB-IOT. Gigabitový downlink.
+- Rok 2017: 3GPP Release 14 - eLAA, Vehicle2Everything, Digital TV broadcast 
 - Rok 2024: [3GPP Release 18 a 5G Advanced](/item/5G_advanced_3GPP_Release-18/)
