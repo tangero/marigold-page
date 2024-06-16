@@ -44,4 +44,5 @@ Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhr
 - Rok 2015: 3GPP Release 12 - Dual Connect, FDD-TDD CA, 245 QAM a D2D
 - **Rok 2016: 3GPP Release 13 jako LTE Advanced Pro** - rozšírení pro CA a MIMO, nelicencovaný přístup k pásmu a NB-IOT. Gigabitový downlink.
 - Rok 2017: 3GPP Release 14 - eLAA, Vehicle2Everything, Digital TV broadcast 
+- **Rok 2018: 3GPP Release 15 jako 5G** - škálovatelné OFDMA, Dual Connectivity s LTE, masivní MOMO, beamforming, Service Based Architecture SBA, 5G Core. 
 - Rok 2024: [3GPP Release 18 a 5G Advanced](/item/5G_advanced_3GPP_Release-18/)
