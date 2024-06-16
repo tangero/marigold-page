@@ -1,6 +1,6 @@
 ---
 ID: 2276
-title: 'Modulační technologie pro uplink sítí 4G: LTE a&nbsp;WiMax'
+title: Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
@@ -23,7 +23,7 @@ OFDMA přenáší data využitím více úzkopásmových pod-nosných najednou, 
 
 Popíšeme si, jak to schematicky funguje, viz obrázek 1. 
 
-<div style="text-align:center;"><img src="http://www.marigold.cz/wp-content/uploads/ofdma.png" alt="OFDMA.png" border="0" width="500" /></div>
+<div style="text-align:center;"><img src="/assets/ofdma.png" alt="OFDMA.png" border="0" width="500" /></div>
 
 Začneme vysílačem: přenášené bity jsou seskupeny a přiřazeny k přenosu na jednotlivých frekvencích (tzv. pod-nosných) - dojde k vytvoření (nebo též rozprostření do) pod-nosných. V tomto příkladu jsou 4 bity (představující modulaci 16QAM) použity k vytvoření takových pod-nosných. Teoreticky by se měl o každou sub-nosnou starat zvláštní vysílač, ale protože těch pod-nosných je opravdu hodně, není to zrovna praktické řešení. Místo toho nastupuje matematika: jelikož každá pod-nosná je vysílána na jiné frekvenci, můžeme vytvořit křivku, kde na ose X je frekvence a na ose Y je amplituda každé sub-nosné. Což je ten grafíček pod každým z nákresů. Následně je na křivku aplikována inverzní rychlá Fourierova transformace (IFFT), která převede frekvenční oblast do oblasti časové. Taková křivka pak má na ose X čas a přitom představuje ten samý signál, jaký by byl generován separátním přenosem každé pod-nosné. Moc hezká vychytávka! Pak už je přidána jen hlavička <strong>CP (cyclic prefix)</strong>, signál modulován, patřičně zesílen (podle dalších parametrů sítě) a odvysílán. 
 
@@ -32,7 +32,7 @@ Na straně přijímače (spodní část nákresu) je signál nejdříve demodulo
 <h2>SC-FDMA</h2>
 Přes své jméno frekvenčně dělený vícenásobný přístup na jedné nosné (SC-FDMA) také přenáší data vzduchem na více pod-nosných, pouze přidává do celého výše uvedeného procesu další kroky, viz obrázek 2: 
 
-<div style="text-align:center;"><img src="http://www.marigold.cz/wp-content/uploads/sc-fdma.png" alt="SC-FDMA.png" border="0" width="500" /></div>
+<div style="text-align:center;"><img src="/assets/sc-fdma.png" alt="SC-FDMA.png" border="0" width="500" /></div>
 
 Místo toho, aby byly čtři bity použity k vytvoření signálu pro pod-nosné, jako je tomu u OFDMA, rozprostřou se informace přes všechny pod-nosné. To se udělá následovně: určitý počet bitů (například 4 při 16QAM modulaci) se seskupí dohromady. U OFDMA by tato skupina bitů prošla IDFT, v případě SC-FDMA je na ní aplikována rychlá Fourierova transformace (FFT). Výsledkem tohoto postupu je báze dat, která je použita pro vytvoření pod-nosných. Ty jsou už jako v případě OFDMA převedeny už pomocí IFFT z frekvencí na čas. Ne všechny pod-nosné jsou mobilkou použity a v diagramu jsou udávány jako nula. Tyto podnosné mohou a nemusí být použity jinými mobilkami. Ještě jsou přidány hlavičky <strong>CP (cyclic prefix)</strong>, které jsou vlastně hraičním pásmem mezi více bloky a zamezují rušení v rámci bloků při problémech s vícecestnými odrazy, kde jsou jednotlivé přijímané signály časově posunuty. Způsob aplikace CP by si zasloužil samostatný výklad, ale tu ho zanedbáváme. 
 
@@ -49,7 +49,7 @@ V zásadě uvažujeme o dvou základních postupech přiřazení:
 
 V distribuovaném módu jsou přenosy jednotlivých konkurenčních uživatelů střídány po sobě, u lokalizovaného jsou přenosy jednoho uživatele za sebou, teprve pak následují přenosy dalšího uživatele. Jak to zhruba vypadá, vidíte na dalším obrázku (Obr. 3), kde jsou zachyceny tři terminály na dvanácti podnosných, přičemž každý uživatel požaduje 4 podnosné pro své přenosy:
 
-<div style="text-align:center;"><img src="http://www.marigold.cz/wp-content/uploads/subcarier-mody.png" alt="subcarier-mody.png" border="0" width="506" height="144" /></div>
+<div style="text-align:center;"><img src="/assets/subcarier-mody.png" alt="subcarier-mody.png" border="0" width="506" height="144" /></div>
 
 Zde zakreslený distribuovaný režim je označovaný jako <strong>Interleaved FDMA</strong>, tedy <strong>IFDMA</strong> - odstup mezi pod-nosnými užitými jednotlivými uživateli je konstantní. Lokalizovaný mód se označuje jako <strong>LFDMA</strong>. 
 
@@ -63,4 +63,6 @@ Vidíme zřetelně, že toto rozprostírání přidává další nároky jak na 
 
 Poznámka pro lidi, které mate občasná záměna diskrétní fourierovy transformace DFT a rychlé fourierovy transformace FFT - to druhé je praktická implementace toho prvního. 
 
-PS: A taky jsem se rozhodl, že ucelenější telekomunikační témata budu dávat na Google Knol, kde to bude všechno hezky pohromadě. Takže tenhle článek na Knolu, kde ho můžete editovat (aka kolaborovat) a přidávat své poznatky a opravy, <a href="http://knol.google.com/k/patrick-zandl/porovnn-sc-fdma-a-ofdma/6jec9w6ooix6/6#">je  zde</a>.
+
+
+Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

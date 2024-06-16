@@ -25,6 +25,8 @@ Stručný a poměrně pochopitelný úvod do toho, jak mobilní sítě fungují.
 Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k sítím 5G aneb skoro vše, co nepotřebujete vědět](/item/cesta-k-sitim-5g-aneb-skoro-vse-co-nepotrebujete-vedet/)
 
 ### LTE
+- porovnáme si [modulační technologie OFDMA versus SC-FDMA](/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax) (a něco si o nich řekneme)
+- [LTE v nelicencovaném pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu)
 - jak funguje [koordinované vícebodové spojení CoMP v LTE](/item/koordinovane-vicebodove-spojeni-v-lte/)
 
 

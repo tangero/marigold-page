@@ -180,3 +180,5 @@ prosazují do Evropy i do CDMA2000, prostě si důkladně užívají problémy
 svého standardu. A opačně. Proto například náskok jednoho výrobce v
 produkci CDMA2000 telefonů neznamená, že jsou jeho šance na trhu UMTS
 mobilů o to vyšší. </p>
+
+Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)
