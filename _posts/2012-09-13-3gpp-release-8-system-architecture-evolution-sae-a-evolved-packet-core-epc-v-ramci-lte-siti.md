@@ -10,10 +10,10 @@ published: true
 post_date: 2012-09-13 18:16:47
 categories: [UMTS, 3G, Turboúvod do mobilních sítí]
 ---
-<p>Počátky LTE můžeme oprávněně spatřovat v Release 8, která byla vydána z kraje roku 2008 a v mnoha ohledech navazovala na Release 7, zejména rozšířením modulačního schématu 64QAM do použití s MIMO anténami a pak dual-carrier HSPA, DC HSPA, kdy lze pro přenos dat přes HSPA využít dva přenašeče a tedy fakticky zdvojnásobit poskytovanou rychlost (nikoliv kapacitu). Až potud je Release 8 jen logickým vývojem <a href="http://www.marigold.cz/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7">Release 7</a>.</p>
+<p>Počátky LTE můžeme oprávněně spatřovat v Release 8, která byla vydána z kraje roku 2008 a v mnoha ohledech navazovala na Release 7, zejména rozšířením modulačního schématu 64QAM do použití s MIMO anténami a pak dual-carrier HSPA, DC HSPA, kdy lze pro přenos dat přes HSPA využít dva přenašeče a tedy fakticky zdvojnásobit poskytovanou rychlost (nikoliv kapacitu). Až potud je Release 8 jen logickým vývojem <a href="/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7">Release 7</a>.</p>
 <!--more-->
 
-<p>Již v rámci Release 7 vznila Studie proveditelnosti, která měla ověřit vývoj směrem k tomu, co se později nazvalo LTE. Vznikl něco jako rámec, zásady - snůška toho, co bychom my, lidé od počítačů, asi považovali za samozřejmé, ale telekomunikačním harcovníkům to přišlo jako hereze. V rámci LTE totiž měl vzniknout výhradně IP provoz. Pamatujeme si jistě, že klasická 3G/UMTS sít operovala ve dvou režimech: okruhově a paketově spínaném, mezi což se snažila <a href="http://www.marigold.cz/item/turbouvod-do-umts-ims-aneb-ip-multimedia-subsystem">vsunout IP Multimedia Subsystem</a>, který měl schizma pocházející ze současného provozu dvou protichůdných technologií nějak zaintegrovat. V rámci Feasibility study se mimo jiné ukázalo, že nejlepším východiskem z dualistického schismatu je oprostit se od jednoho a neb data jsou cloumák, přidržet se dat - a tedy celé LTE postavit nad IP technologií, jako paketově spínanou sít.</p>
+<p>Již v rámci Release 7 vznila Studie proveditelnosti, která měla ověřit vývoj směrem k tomu, co se později nazvalo LTE. Vznikl něco jako rámec, zásady - snůška toho, co bychom my, lidé od počítačů, asi považovali za samozřejmé, ale telekomunikačním harcovníkům to přišlo jako hereze. V rámci LTE totiž měl vzniknout výhradně IP provoz. Pamatujeme si jistě, že klasická 3G/UMTS sít operovala ve dvou režimech: okruhově a paketově spínaném, mezi což se snažila <a href="/item/turbouvod-do-umts-ims-aneb-ip-multimedia-subsystem">vsunout IP Multimedia Subsystem</a>, který měl schizma pocházející ze současného provozu dvou protichůdných technologií nějak zaintegrovat. V rámci Feasibility study se mimo jiné ukázalo, že nejlepším východiskem z dualistického schismatu je oprostit se od jednoho a neb data jsou cloumák, přidržet se dat - a tedy celé LTE postavit nad IP technologií, jako paketově spínanou sít.</p>
 
 <h2>System Architecture Evolution (SAE) a Evolved Packet Core (EPC) v rámci LTE sítí</h2>
 <p>Jedním z pojmů, ke kterému bychom se v rámci LTE sítí měli prokousat v první řadě, je tandem <em>SAE - EPC</em>. Občas se doslechnu, že jde o synonyma. Nejde, i když si to nadále můžete myslet, není to velká chyba. Když se přemýšlelo o dalším vývoji mobilních sítí v rámci 3GPP konsorcia, přemyšlování šlo i do jádra sítě, tedy do toho, co jsme si v UMTS sítích uvykli označovat za Core Network.</p>
@@ -22,7 +22,7 @@ categories: [UMTS, 3G, Turboúvod do mobilních sítí]
 
 <p>EPC je již dosti plochá struktura založená na IP protokolu a na tom, že co není potřeba centralizovat, jest decentralizováno. Důležité je tedy zejména ono rozšíření podpory IP vrstvy na všechny strany, moderně řečeno <em>end-to-end</em>. Už není žádný výstup do okruhového spínání, jak jej zajištovalo v 3G IMS respektive samotná okruhově spínaná doména. S čímž souvisí také to, že přenos hlasu se v rámci LTE dostal poněkud na vedlejší kolej, počítalo se s ním spíše v rámci další specifikace a také vznikl mechanismus vypuzení hlasového hovoru zpět do WCDMA/2G sítě (fallback) - což UMTS k vlastní škodě nemělo. Je třeba říct, že odříznutím hlasu si LTE ušetřilo hodně práce a také hodně starostí, na druhou stranu si očekávání příchodu hlasu přes VoIP (pamatujme si zkratku <strong>VoLGA</strong> - Voice over LTE via Generic Access) logicky vynutilo řízení kvality přenosu dat přes QoS - místy se celému mechanismu řízení datového toku také říká Quality of Experience, QoE.</p>
 
-<p><img src="http://www.marigold.cz/wp-content/uploads/epc-cn1.png" alt="Zjednodušení Core Network na EPC" width="500" height="269" border="0" /></p>
+<p><img src="/assets/epc-cn1.png" alt="Zjednodušení Core Network na EPC" width="500" height="269" border="0" /></p>
 
 <p><em>Na obrázku je vidět zjednodušení architektury i datových toků, jehož se dosáhlo při přechodu z konstrukce Core Network (Jádra sítě) u UMTS/3G k Evolved Packet Core. Autorem obrázku je Motorola. </em></p>
 
@@ -40,11 +40,11 @@ categories: [UMTS, 3G, Turboúvod do mobilních sítí]
 <li>Mobility Management Entity (MME) - Entita správy mobility</li>
 <li>Policy and Charging Rules Function (PCRF) - Funkce pravidel přístupu a účtování</li>
 </ul>
-<p>Zatímco SGW, PGW a MME byly poprvé představeny v rámci 3GPP Release 8, PCFR pochází již z <a href="http://www.marigold.cz/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7">předchozí Release 7</a>, ale příliš se neuplatňovala a převažoval původní koncept autentizace mobilky. Od Release 8 je začlenění PCRF a jeho interoperabilita s bránami EPC a MME povinná a bez ní není možné v LTE fungovat.</p>
+<p>Zatímco SGW, PGW a MME byly poprvé představeny v rámci 3GPP Release 8, PCFR pochází již z <a href="/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7">předchozí Release 7</a>, ale příliš se neuplatňovala a převažoval původní koncept autentizace mobilky. Od Release 8 je začlenění PCRF a jeho interoperabilita s bránami EPC a MME povinná a bez ní není možné v LTE fungovat.</p>
 
 <p>Na obrázku je vidět schéma LTE sítě s EPC, klasickou GSM/UMTS sítí a sítí CDMA. </p>
 
-<p><img src="http://www.marigold.cz/wp-content/uploads/epc-lte.png" alt="EPC v LTE síti" width="500" height="317" border="0" /></p>
+<p><img src="/assets/epc-lte.png" alt="EPC v LTE síti" width="500" height="317" border="0" /></p>
 
 <h3>SGW</h3>
 <p>Obslužná brána je rozhraním mezi jednotlivými eNodeB a samotným jádrem sítě, konkrétně rozhraním k PGW, bráně sítě paketových dat. Pokud se uživatel pohybuje mezi eNodeB, pořád vstupuje do jádra sítě přes stejnou SGW (což může ovšem znamenat i to, že jich více v síti není) - tomu se říká Mobilní Kotva. Mobilní ukotvení je důležité při výstupu do ne-LTE sítě, jako jsou 2G/3G, kde SGW zprostředkovává mobilní rozhraní, nebo při přerušení připojení třeba za pohybu.</p>
@@ -77,10 +77,12 @@ categories: [UMTS, 3G, Turboúvod do mobilních sítí]
 </ul>
 <p>Na obrázku je to vidět o něco názorněji <em>(autor nákresu je Alcatel)</em>: </p>
 
-<p><img src="http://www.marigold.cz/wp-content/uploads/tok-dat-lte.png" alt="Tok dat v rámci LTE sítě" width="500" height="176" border="0" /></p>
+<p><img src="/assets/tok-dat-lte.png" alt="Tok dat v rámci LTE sítě" width="500" height="176" border="0" /></p>
 
 <p>Je třeba znovu a důrazně si připomenout, že EPC je velmi významná změna (ne-li nejvýznamnější) v přístupu k mobilním komunikacím, v níž okruhové spínání plně nahrazuje spínání paketové, tedy dochází k implementaci přístupu All-IP.</p>
 
 <p>Mnoho diagramů rozkresluje EPC jako velmi plochou entitu a cudně zamlčuje, že řada krabiček tam prostě musí být, pokud chcete účtovat, autentizovat a provádět další úkony, které jsou z hlediska uživatele pravda často zbytné, ale z hlediska provozovate podstatné. Jsou rovněž definovány přechodové mechanismy umožnující soužití mezi 2G/3G a LTE, což jste z nákresu asi vypozorovali.</p>
 
 <p>Tak a to je asi všechno, co byste si v kostce a stručnosti měli o jádru LTE sítě pamatovat.</p>
+
+Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)
