@@ -1,10 +1,8 @@
 ---
 ID: 2428
-title: >
-  Vysokorychlostní data HSPA+ aneb 3GPP
-  Release 7
+title: Vysokorychlostní data HSPA+ aneb 3GPP Release 7
 author: Patrick Zandl
-post_excerpt: ""
+post_excerpt: Zásadní novinkou v Release 7 (R7) a Release 8 (R8) je další rozšíření vysokorychlostních datových přenosů HSPA na HSPA+, pod čímž se skrývá zvýšení rychlosti na downlinku i uplinku."
 layout: post
 oldlink: >
   https://www.marigold.cz/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7
