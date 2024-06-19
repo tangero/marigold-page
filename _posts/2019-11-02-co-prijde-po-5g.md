@@ -53,3 +53,5 @@ A do třetice ještě přijdou zařízení, o kterých netušíme ničeho. Třeb
 Velkou část kapacity má zkonzumovat virtualizace reality, tedy například obohacování obrazu do brýlí nebo kompletní generování obrazu do nich. Aby šlo o obraz oku lahodící, chtělo by to gigabitové rychlosti a nové generace displejů. To druhé se chystá, nutno nezaspat v tom prvním.
 
 Úplně stranou jsem ponechal různé „open“ iniciativy jako OpenRAN, definující otevřená rozhraní v různých částech sítě (OpenRAN logicky v rádiové přístupové části sítě) – ty jsou tu od toho, aby se daly jednoduše propojovat systémy jednotlivých dodavatelů a případně do toho všeho mohl vstoupit i nějaký opensource projekt, což se různou měrou děje.
+
+Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)
