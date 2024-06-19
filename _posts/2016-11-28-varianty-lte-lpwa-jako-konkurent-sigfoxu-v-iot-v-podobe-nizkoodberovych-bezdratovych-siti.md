@@ -20,13 +20,13 @@ post_date: 2016-11-28 19:57:50
 <h3>Kategorie v LTE Release 12 a Release 13</h3>
 <p>Předposlední stabilní specifikací byla Release 12, která specifikuje čtrnáct provozních kategorií zařízení LTE (Release 14 jich předpokládá cca 20, <a href="http://niviuk.free.fr/ue_category.php">přehled zde</a>). Pro nás je zajímavá Category 0 míněná jako kategorie komunikace pro Internet věcí. Na obrázku je vidět, jaké má parametry v porovnání s předchozí Cat 1 v Release 8, jejímž hlavním problémem byla relativně vysoká cena modemů a žravost, jakou u IoT nevyvážila ani vysoká rychlost přenosu a plně duplexní přenos. </p>
 
-<p><img title="lte-iot-rel.png" src="https://www.marigold.cz/wp-content/uploads/lte-iot-rel.png" alt="Lte iot rel" width="599" height="308" border="0" /></p>
+![Porovnání jednotlivých release](/assets/lte-iot-rel.jpg)
 
 <p>Hlavní důvody nižší komplexnosti LTE Rel-12 Cat. 0 se promítají do výrazně nižší ceny, která má klesnout ještě více u Release 13. Tam se projeví především nižší šířka obsluhovaného pásma, existuje i vysloveně úzkopásmová (NB - narrow band) verze se 180 KHz pásma, což se velmi příznivě projeví jak ve výrobní ceně, tak ve výdrži zařízení a jeho poruchovosti, přičemž rychlost do 200 Kb/s je pro stavový přenos informací ještě vcelku dostatečná. Značnou výhodou Narrow Band verze (NB-LTE nebo někdy též Cat-M2, ale to nejsou oficiální označení) je také skutečnost, že může pracovat nejenom na vyhrazené frekvenci, ale i v doposud nevyužívaném guard-band (hraničním pásmu) a dokonce může být provozováno na překryvné (respektive podkresové) frekvenci v rámci existujícího LTE bloku, takže neukusuje z potřebné frekvence. </p>
 
 <p>Všechny tři funkční režimy ilustruje následující obrázek:</p>
 
-<p><img title="lte-iot-mode.png" src="https://www.marigold.cz/wp-content/uploads/lte-iot-mode.png" alt="Lte iot mode" width="599" height="185" border="0" /></p>
+![Funkční režimy LTE IOT](/assets/lte-iot-mode.png)
 
 <ul>
 <li><strong>Inband mode</strong> znamená, že v rámci frekvence využívané pro LTE je užit minimálně jeden rádiový blok (tedy minimálně 200 KHz) pro LTE-NB. </li>
@@ -39,15 +39,8 @@ post_date: 2016-11-28 19:57:50
 
 <p>Tady je pár zásad, které v rámci své vize Massive IoT propaguje Ericsson:</p>
 
-<p> </p>
+![Massive IoT od Ericssonu](/assets/ericsson-massive-iot.jpg)
 
-<p><img title="ericsson-massive-iot.png" src="https://www.marigold.cz/wp-content/uploads/ericsson-massive-iot.png" alt="Ericsson massive iot" width="500" height="178" border="0" /></p>
-
-<p>Takhle si to představuje uBlox (v zásadě to samý)</p>
-
-<p><img title="ublox-massive-mtc.png" src="https://www.marigold.cz/wp-content/uploads/ublox-massive-mtc.png" alt="Ublox massive mtc" width="500" height="242" border="0" /></p>
-
-<p> </p>
 
 <p>Ostatní tomu říkají opatrněji Massive MTC, ale hlásí se k podobným zásadám.  </p>
 
@@ -56,7 +49,7 @@ post_date: 2016-11-28 19:57:50
 
 <p>LTE dnes představuje celkem 43 různých frekvencí a ne všude jsou dostupné. I když dnes koupíte nějaký prototyp NB-LTE a budete na něm chtít postavit své řešení, neseženete NB-LTE síť, ve které byste jej provozovali a do budoucna budete mít problémy právě s těmi různými frekvencemi. V Sigfoxu je to s frekvencemi podstatně jednodušší, ale zase složitější je to tam s roamingem. Pokud budete chtít dělat globální řešení, nebude to se Sigfoxem tak elegantní jako v LTE.</p>
 
-<p>Pokud se teď urgentně potřebujete rozhodnout, záleží právě na té urgentnosti. Chytit se Sigfoxu, LoRa a dalších, kteří již existují a doufat, že vydrží, případně budou stíhat další vývoj, nebo počkat na masivnější a standardní LTE, kterému to ale ještě chvíli potrvá, než bude připravené na trhu?  Dobrá porovnávací technologická tabulka pro jednotlivé technologie <a href="http://www.cnx-software.com/wp-content/uploads/2015/09/LPWAN_Comparison_Table.png">je zde</a>, můžete se zkusit zorientovat. Není tu ale žádná univerzální rada. Pokud chcete být rychle na trhu, Sigfox vypadá na nejlepší volbu nyní, ale buďte připraveni jej opustit, kdyby nešel dostatečně rychle kupředu, tedy buďte platformově nezávislí. </p>
+<p>Pokud se teď urgentně potřebujete rozhodnout, záleží právě na té urgentnosti. Chytit se Sigfoxu, LoRa a dalších, kteří již existují a doufat, že vydrží, případně budou stíhat další vývoj, nebo počkat na masivnější a standardní LTE, kterému to ale ještě chvíli potrvá, než bude připravené na trhu?  Dobrá porovnávací technologická tabulka pro jednotlivé technologie <a href="/assets/LPWAN_Comparison_Table.png">je zde</a>, můžete se zkusit zorientovat. Není tu ale žádná univerzální rada. Pokud chcete být rychle na trhu, Sigfox vypadá na nejlepší volbu nyní, ale buďte připraveni jej opustit, kdyby nešel dostatečně rychle kupředu, tedy buďte platformově nezávislí. </p>
 
 <p>Na trhu bude záležet na tom, jak se velkým operátorům, kteří dnes mají na LTE monopol, bude dařit obchodně. Zatímco evangelizační fáze trhu, kdy se oslovují dynamicky se rozvíjející firmy schopné rychle svou technologii portovat a propojit na LPWA velkým operátorům vůbec nejde, jde jim naopak dobře marketingový tlak a působení na velké nadnárodní firmy. Ty zase nejsou nejdynamičtější a o okamžitém přínosu Internetu věcí nejsou přesvědčeny, takže budou zřejmě vyčkávat. Situace bude zřetelnější až v tu chvíli, do té doby jde o pusté spekulace. </p>
 
