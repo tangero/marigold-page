@@ -31,6 +31,7 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 - porovnáme si [modulační technologie OFDMA versus SC-FDMA](/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax) (a něco si o nich řekneme)
 - [LTE v nelicencovaném pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu)
 - jak funguje [koordinované vícebodové spojení CoMP v LTE](/item/koordinovane-vicebodove-spojeni-v-lte/)
+- [úzkopásmové sítě v LTE Release 8, 12 a 13](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/)
 
 
 ### Standardizace a vývoj nových funkcí v 3GPP
