@@ -50,7 +50,7 @@ Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhr
 - **Rok 2011: 3GPP Release 10 - LTE Advanced** a funkce CA (Carrier Aggregation), HetNet a advanced MIMO.
 - Rok 2013: 3GPP Release 11 - rozšiřuje funkce Rel-10 o CoMP a rozšiřuje podporu HetNet, heterogenních sítí
 - Rok 2015: 3GPP Release 12 - Dual Connect, FDD-TDD CA, 245 QAM a D2D
-- **Rok 2016: 3GPP Release 13 jako LTE Advanced Pro** - rozšírení pro CA a MIMO, nelicencovaný přístup k pásmu a [NB-IOT](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/). Gigabitový downlink.
+- **Rok 2016: 3GPP Release 13 jako LTE Advanced Pro** - rozšírení pro CA a MIMO, [nelicencovaný přístup k pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu/) a [NB-IOT](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/). Gigabitový downlink.
 - Rok 2017: 3GPP Release 14 - eLAA, Vehicle2Everything, Digital TV broadcast 
 - **Rok 2018: 3GPP Release 15 jako 5G** - škálovatelné OFDMA, Dual Connectivity s LTE, masivní MIMO, beamforming, Service Based Architecture SBA, 5G Core. 
 - 3GPP Release 16 - rozšířené MIMO, beamforming, Dynamic Spectrum Sharing DSS, Integrovaný přístup k backhaulu IAB, [vRAN](/item/c-ran_vran_open_ran/), podpora IoT a V2X
