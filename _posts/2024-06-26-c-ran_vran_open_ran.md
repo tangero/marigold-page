@@ -59,7 +59,7 @@ Open RAN totiž otevřel rozhraní fronthaul a zavedl dva nové řadiče, Non-Re
 
 Na obrázku vidíme konkrétně, jak ty rozdíly mezi C-RAN, vRAN a Open RAN vypadají.
 
-![rozdíly mezi C-RAN, vRAN a Open RAN vypadají](/assets/cran-openran-cover.png)
+![rozdíly mezi C-RAN, vRAN a Open RAN vypadají](/assets/ran-overview.jpeg)
 
 A to je již výsledek. Pokud se použije Open RAN, lze kombinovat jak řídící software, tak rádiový software i hardware různých výrobců mezi sebou. Je ale zřejmé, že s tím bude ještě dosta práce a z toho plyne, že technologie ještě není standardně nasazována. Zatím se dělají pilotní testy, velkým propagátorem je japonský operátor Rakuten a samozřejmě čínští výrobci, kteří v tom vidí potenciál dalších prodejů. V Evropě se očekává zahájení nasazování Open RAN spíše v roce 2025 a dále.
 

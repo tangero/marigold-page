@@ -33,6 +33,8 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 - jak funguje [koordinované vícebodové spojení CoMP v LTE](/item/koordinovane-vicebodove-spojeni-v-lte/)
 - [úzkopásmové sítě v LTE Release 8, 12 a 13](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/)
 
+### 5G
+- [NG-RAN, čili rádiová přístupová síť nové generace](/item/c-ran_vran_open_ran/). Co je C-RAN, vRAN a Open RAN?
 
 ### Standardizace a vývoj nových funkcí v 3GPP
 
