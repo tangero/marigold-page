@@ -4,6 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in paginator.posts %}
+  {% if post.hide == null or post.hide == false %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
@@ -35,6 +36,7 @@ layout: default
 {{ post.date | date: "%Y" }} - 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a>
     </article>
+    {% endif %}   
   {% endfor %}
 
   <!-- pagination -->
