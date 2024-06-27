@@ -35,7 +35,7 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 
 ### 5G
 - 🛜[5G NR - New Radio](/item/5G_NR_New_Radio/) - nové rádiové rozhraní
-- 🗼[NG-RAN, čili rádiová přístupová síť nové generace](/item/c-ran_vran_open_ran/). Co je C-RAN, vRAN a Open RAN?
+- 🗼[NG-RAN, čili rádiová přístupová síť nové generace](/item/c-ran_vran_open_ran/). Co je C-RAN, vRAN,  Open RAN
 
 ### Standardizace a vývoj nových funkcí v 3GPP
 
