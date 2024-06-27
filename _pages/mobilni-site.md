@@ -29,7 +29,7 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 
 ### LTE
 - porovnáme si [modulační technologie OFDMA versus SC-FDMA](/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax) (a něco si o nich řekneme)
-- [LTE v nelicencovaném pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu)
+- [LTE v nelicencovaném pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu) a jeho další rozvoj do [Licencovaného asistovaného přístupu LAA](/item/laa_release_13/)
 - jak funguje [koordinované vícebodové spojení CoMP v LTE](/item/koordinovane-vicebodove-spojeni-v-lte/)
 - [úzkopásmové sítě v LTE Release 8, 12 a 13](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/)
 
@@ -50,7 +50,7 @@ Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhr
 - **Rok 2011: 3GPP Release 10 - LTE Advanced** a funkce CA (Carrier Aggregation), HetNet a advanced MIMO.
 - Rok 2013: 3GPP Release 11 - rozšiřuje funkce Rel-10 o CoMP a rozšiřuje podporu HetNet, heterogenních sítí
 - Rok 2015: 3GPP Release 12 - Dual Connect, FDD-TDD CA, 245 QAM a D2D
-- **Rok 2016: 3GPP Release 13 jako LTE Advanced Pro** - rozšírení pro CA a MIMO, [nelicencovaný přístup k pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu/) a [NB-IOT](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/). Gigabitový downlink.
+- **Rok 2016: 3GPP Release 13 jako LTE Advanced Pro** - rozšírení pro CA a MIMO, [nelicencovaný přístup k pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu/) vzniklé mimo standard se mění v [Licencovaný asistovaný přístup (LAA)](/item/laa_release_13/). [NB-IOT](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/). Gigabitový downlink.
 - Rok 2017: 3GPP Release 14 - eLAA, Vehicle2Everything, Digital TV broadcast 
 - **Rok 2018: 3GPP Release 15 jako 5G** - škálovatelné OFDMA, Dual Connectivity s LTE, masivní MIMO, beamforming, Service Based Architecture SBA, 5G Core. 
 - 3GPP Release 16 - rozšířené MIMO, beamforming, Dynamic Spectrum Sharing DSS, Integrovaný přístup k backhaulu IAB, [vRAN](/item/c-ran_vran_open_ran/), podpora IoT a V2X
