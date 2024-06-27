@@ -34,6 +34,7 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 - [úzkopásmové sítě v LTE Release 8, 12 a 13](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/)
 
 ### 5G
+- [5G NR - New Radio](/item/5G_NR_New_Radio/) - nové rádiové rozhraní
 - [NG-RAN, čili rádiová přístupová síť nové generace](/item/c-ran_vran_open_ran/). Co je C-RAN, vRAN a Open RAN?
 
 ### Standardizace a vývoj nových funkcí v 3GPP
