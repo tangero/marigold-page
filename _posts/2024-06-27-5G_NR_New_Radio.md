@@ -65,8 +65,6 @@ Zde je tabulka porovnávající klíčové aspekty New Radio (NR) z Release 15 s
 
 NR (New Radio) se v následujících vydáních 3GPP po Release 15 dále vyvíjí a zdokonaluje. Podívejme se ještě pro jistotu na směry, jimiž se rozvoj NR vydává až do Release 18 schválené v roce 2024:
 
-  
-
 ### Release 16 (2020):
 
 1. NR-Unlicensed (NR-U): Rozšíření NR do nelicencovaného spektra.
@@ -76,8 +74,6 @@ NR (New Radio) se v následujících vydáních 3GPP po Release 15 dále vyvíj�
 5. Positioning: Vylepšené možnosti určování polohy v NR sítích.
 6. MIMO vylepšení: Další zdokonalení multi-user MIMO.
 7. 2-step RACH: Zjednodušený přístupový proces pro snížení latence.
-
-  
 
 ### Release 17 (2022):
 
@@ -89,8 +85,6 @@ NR (New Radio) se v následujících vydáních 3GPP po Release 15 dále vyvíj�
 6. Vylepšení pro průmyslový IoT a URLLC.
 7. Multicast a broadcast služby: Efektivnější distribuční mechanismy.
 8. AI/ML integrace do rádiového rozhraní.
-
-  
 
 ### Release 18 (2024) - První vydání 5G-Advanced:
 
@@ -105,13 +99,12 @@ NR (New Radio) se v následujících vydáních 3GPP po Release 15 dále vyvíj�
 9. Vylepšení pro mobilní širokopásmové připojení: Zaměření na zvýšení kapacity a pokrytí.
 10. Další integrace nezemských sítí (NTN).
 
- Tyto technologie a vylepšení nejen dále zdokonalují základní schopnosti NR definované v Release 15, ale také otevírají nové možnosti pro aplikace a use cases. Důraz je kladen na zvýšení flexibility, efektivity, spolehlivosti a výkonu NR, stejně jako na podporu nových typů služeb a aplikací.
+Tyto technologie a vylepšení nejen dále zdokonalují základní schopnosti NR definované v Release 15, ale také otevírají nové možnosti pro aplikace a use cases. Důraz je kladen na zvýšení flexibility, efektivity, spolehlivosti a výkonu NR, stejně jako na podporu nových typů služeb a aplikací.
 
 Jsou také technologie, které se v rámci návrhu NR zvažovaly a nakonec zavrhly. Například OFDMA mohla nahradit či doplnit jako přístupová metoda  NOMA (Non-Orthogonal Multiple Access). Ta nabízela v řadě scénářů lepší efektivitu využití rádiového spektra, než OFDMA, ale také vyžadovala dražší hardware a především, není zpětně kompatibilní s LTE, což byl jeden z hlavních požadavků. Kromě toho NOMA není příliš přesvědčivá v podmínkách vysokého poměru signálu k šumu. A nakonec tu byly patentové problémy. A tak se prosadil pohled, že zejména další rozvoj MIMO a beamformingu výhody NOMA převáží v rozvoji OFDMA. Což ale není definitivní konec, aspekty NOMA jsou dále zkoumány a mohou se ve standardu objevit později, podobně jako například Filtrovaná OFDM (f-OFDM) nebo Full Duplex Radio.
 
 A ještě se podívejme na jednu věc. Jaký je vztah mezi NR a RAN, například C-RAN nebo Open RAN?  NR a C-RAN jsou dvě různé, ale vzájemně se doplňující technologie v ekosystému 5G. NR definuje "jak" komunikovat na rádiové úrovni, zatímco C-RAN poskytuje flexibilní a škálovatelnou architekturu pro "kde" a "jak efektivně" implementovat zpracování signálu. Jejich kombinace umožňuje plné využití potenciálu 5G sítí, poskytuje flexibilitu, výkon a efektivitu potřebnou pro podporu širokého spektra 5G use cases a služeb.
 
-A to je ze základů New Radio pro 5G zatím všechno :)
-
+A to je ze základů New Radio pro 5G zatím všechno 😇
 
 Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)
