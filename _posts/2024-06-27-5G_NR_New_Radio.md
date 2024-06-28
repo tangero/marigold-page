@@ -107,4 +107,4 @@ A ještě se podívejme na jednu věc. Jaký je vztah mezi NR a RAN, například
 
 A to je ze základů New Radio pro 5G zatím všechno 😇
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)
+    Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)
