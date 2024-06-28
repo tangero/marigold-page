@@ -5,6 +5,14 @@ layout: default
 <article class="post detailed">
   <h1>{{ page.title }}</h1>
 
+  {% if page.categories contains "AI" %}
+  <div class="posts">
+    <blockquote>
+      <p>💡 Firemní <a href="https://www.aivefirmach.cz/">workshopy o umělé inteligenci</a> - pojďme se zamyslet nad tím, jak se vaší firmy dotkne AI a jak se na to připravit!</p>
+    </blockquote>
+  </div>
+  {% endif %}
+
   <div>
     <p class="author_title">{{site.author}}  ·
 {% assign m = page.date | date: "%-m" %}
@@ -60,7 +68,7 @@ layout: default
   {% elsif page.categories contains "AI" %}
   <div class="posts">
     <blockquote>
-      <p>💡 Firemní <a href="https://www.aivefirmach.cz/">workshopy o umělé inteligenci</a> - jak se vaší firmy dotkne AI?</p>
+      <p>💡 Firemní <a href="https://www.aivefirmach.cz/">workshopy o umělé inteligenci</a> - pojďme se zamyslet nad tím, jak se vaší firmy dotkne AI a jak se na to připravit!</p>
     </blockquote>
   </div>
   {% endif %}
