@@ -50,6 +50,14 @@ layout: default
 
   </div>
 
+  {% if page.categories contains "Mobilní sítě" or page.categories contains "3G" or page.categories contains "4G" or page.categories contains "5G"  %}
+  <div class="posts">
+    <blockquote>
+      <p>Pokračujte dále na <a href="/mobilnisite/">Seriál Mobilní sítě</a></p>
+    </blockquote>
+  </div>
+  {% endif %}
+
   <div class="posts">
     <h3>Chcete tyto články emailem?</h3>
     <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
