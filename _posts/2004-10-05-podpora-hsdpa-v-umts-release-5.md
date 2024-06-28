@@ -43,4 +43,3 @@ V praxi se počítá, že maximální propustnost UMTS Rel99 je na makrocele zhr
 <p>
 Termín HSDPA se naučte, protože pro UMTS a jeho další naděje do budoucna je to jedna z nejčastěji vzývaných manter v boji o rychlodatovou mobilní přízeň… </p>
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

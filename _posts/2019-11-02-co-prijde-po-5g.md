@@ -54,4 +54,3 @@ Velkou část kapacity má zkonzumovat virtualizace reality, tedy například ob
 
 Úplně stranou jsem ponechal různé „open“ iniciativy jako OpenRAN, definující otevřená rozhraní v různých částech sítě (OpenRAN logicky v rádiové přístupové části sítě) – ty jsou tu od toho, aby se daly jednoduše propojovat systémy jednotlivých dodavatelů a případně do toho všeho mohl vstoupit i nějaký opensource projekt, což se různou měrou děje.
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

@@ -85,4 +85,3 @@ categories: [UMTS, 3G, Turboúvod do mobilních sítí]
 
 <p>Tak a to je asi všechno, co byste si v kostce a stručnosti měli o jádru LTE sítě pamatovat.</p>
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

@@ -64,4 +64,3 @@ categories: [LTE, IoT, Mobilní sítě, 4G]
 </ul>
 
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

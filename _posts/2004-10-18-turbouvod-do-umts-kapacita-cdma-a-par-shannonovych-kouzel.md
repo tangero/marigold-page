@@ -104,4 +104,3 @@ Výsledek tohoto článku: prakticky jsme si ukázali, že rychlosti nabízené 
 Na závěr jen doufám, že jsem vzorce příliš nepomotal, přepisoval jsem je asi desetkrát mezi českými a anglickými verzemi a nejrůznějšími variantami :(
 </p>
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

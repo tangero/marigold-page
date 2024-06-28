@@ -39,4 +39,3 @@ Co mi naopak přijde zajímavé, je dlouhodobé hledání nových frekvencí. 5G
 
 **A tip na závěr:** chcete si pohrát s 5G sítí? Vyzkoušejte [aplikaxi NetX od Mpirical](https://netx3.mpirical.com/3GPP), slouží ke školení toho, jak 5G síť funguje a jaké má části. 
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

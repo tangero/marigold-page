@@ -60,4 +60,3 @@ post_date: 2016-03-01 09:57:53
 
 <p>Je velmi pravděpodobné, že operátoři LTE-U prosadí, již je součástí 3GPP standardů, ačkoliv není návrh kompletní. Je také logické, že operátoři se tím snaží jít proti podobné iniciativě z tábora WiFi, která umožní přenášet operátorské služby přes WiFi, na mysli mám technologie MAPCON, eSaMOG, IARP nebo WORM a obecně platformu heterogenních sítí zvanou “hetnet”. Tady je třeba říct, že se bojuje především o firemní klienty, v oblasti běžných uživatelů se zdá být dobojováno a s mírnou mírou podrazivosti klid zbraní na obou frontách do vynalezení další zbraně. </p>
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

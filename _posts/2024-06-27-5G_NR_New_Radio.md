@@ -106,5 +106,3 @@ Jsou také technologie, které se v rámci návrhu NR zvažovaly a nakonec zavrh
 A ještě se podívejme na jednu věc. Jaký je vztah mezi NR a RAN, například C-RAN nebo Open RAN?  NR a C-RAN jsou dvě různé, ale vzájemně se doplňující technologie v ekosystému 5G. NR definuje "jak" komunikovat na rádiové úrovni, zatímco C-RAN poskytuje flexibilní a škálovatelnou architekturu pro "kde" a "jak efektivně" implementovat zpracování signálu. Jejich kombinace umožňuje plné využití potenciálu 5G sítí, poskytuje flexibilitu, výkon a efektivitu potřebnou pro podporu širokého spektra 5G use cases a služeb.
 
 A to je ze základů New Radio pro 5G zatím všechno 😇
-
-> Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

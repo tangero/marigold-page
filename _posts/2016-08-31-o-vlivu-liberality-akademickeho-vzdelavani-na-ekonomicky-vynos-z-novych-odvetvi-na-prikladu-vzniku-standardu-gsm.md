@@ -41,4 +41,3 @@ Samozřejmě nešlo jen o vzdělanostní politiku, šlo o celou souhru “štast
 
 Z této pozice se postupně poučilo i Německo. Vláda Helmuta Kohla situaci postupně analyzovala a v průběhu devadesátých let výrazně reformovala způsob, jakým univerzity spolupracovaly s polo/státním a soukromým sektorem na výzkumu a vývoji. S ohledem na mnohaleté zprodlení už se nepodařilo zachytit vlnu mobilních telekomunikací a jak Siemens, tak Bosch, AEG a další německé firmy hrály spíše okrajovou roli, přičemž ani po dvaceti letech se situaci nepodařilo výrazně změnit. Na přelomu tisíciletí, až se Německo bude rozhodovat o Energiewende, bude faktor obavy ze zaspání místního průmyslu jedním z podstatných důvodů (spolu s ekonomickými důvody), proč se Německo přikloní k masivním investicím do rozvoje obnovitelných zdrojů.
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

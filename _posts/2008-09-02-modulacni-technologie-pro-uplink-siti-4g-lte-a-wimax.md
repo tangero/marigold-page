@@ -65,4 +65,3 @@ Poznámka pro lidi, které mate občasná záměna diskrétní fourierovy transf
 
 
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

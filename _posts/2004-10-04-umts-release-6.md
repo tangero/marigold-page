@@ -29,4 +29,3 @@ No a pokud bychom dumali, co se do Release 6 nevešlo a čeká nás v Release 7,
 Bohužel, můj návrh CNI se ani letos do standardu neprotlačil :( Asi jsem málo lobboval&#8230;
 </p>
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

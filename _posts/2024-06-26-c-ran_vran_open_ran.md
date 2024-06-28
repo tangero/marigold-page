@@ -84,5 +84,3 @@ V 3GPP Release 14 jsou zahájeny práce na rozdělení funkcí RAN, příprava n
 Open RAN (O-RAN) není přímo specifikován v žádné konkrétní verzi 3GPP Release. Místo toho je O-RAN standardizován a vyvíjen prostřednictvím O-RAN Alliance, která definuje specifikace pro otevřená rozhraní mezi různými komponentami Radio Access Network (RAN). O-RAN Alliance spolupracuje s 3GPP na zajištění interoperability mezi otevřenými rozhraními a existujícími 3GPP specifikacemi.
 
 Open RAN vypadá jako dobrý přístup a uvidíme, nakolik se ve výstavbě sítí chytne. 
-
-> Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

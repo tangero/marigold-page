@@ -63,4 +63,3 @@ IMS jsme probrali jako malou odbočku, protože zatím se v praxi neprosazuje, j
 Příště se snad konečně dostaneme k tomu, proč a jak zrychlují data v UMTS.
 </p>
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

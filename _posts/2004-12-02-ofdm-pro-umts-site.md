@@ -34,4 +34,3 @@ Samsung pro doplnění obrazu představil svůj mikročip, který umožní mobil
 <i>PS: Pro pořádek dodávám, že OFDM se bude pravděpodobně zavádět i do CDMA2000 sítí.</i>
 </p>
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

@@ -68,5 +68,3 @@ Zatímco IAB není bez výzev, jeho výhody jasně převažují nad omezeními. 
 Už teď je zřejmé, že IAB není jen přechodným řešením, ale fundamentální změnou v přístupu k návrhu a nasazení mobilních sítí. S rostoucí poptávkou po všudypřítomné vysokorychlostní konektivitě a s výhledem na budoucí technologie jako 6G, bude role IAB v telekomunikačním ekosystému pravděpodobně ještě významnější.
 
 V konečném důsledku IAB představuje více než jen technologickou inovaci – je to nástroj, který má potenciál demokratizovat přístup k vysokorychlostnímu internetu, překlenout digitální propast a umožnit nové use cases a služby, které budou formovat naši digitální zkušenost. 
-
-> Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

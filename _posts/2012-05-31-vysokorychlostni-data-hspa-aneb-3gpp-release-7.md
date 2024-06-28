@@ -66,4 +66,4 @@ categories: [LTE, 3G, Mobilní sítě]
 
 <p>Uživatel má také k dispozici až 28 Mb/s pro download a až 11,5 Mb/s pro upload dat – pokud samozřejmě podmínky sítě dovolí. Jelikož ale část funkcí je dovedena k užitnému stavu v Release 8, používá se pro HSPA+ v praxi spřažená Release 7/8 – například 64QAM pro MIMO definguje až R8 a bylo by smutné, nemít ji k dispozici. Na další drobnosti z R8, které jsem tu nepostihl, se podíváme někdy jindy.</p>
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)
+
