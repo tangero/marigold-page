@@ -24,9 +24,9 @@ IAB architektura se skládá z několika klíčových komponent:
 
 ## Srovnání s předchozími technologiemi
 
-V čem představuje IAB významný pokrok oproti předchozím přístupům k řešení backhaulu v mobilních sítích?  Klasické backhaul řešení v 3G a 4G sítích jako mikrovlnné spoje nebo optická vlákna vyžadují dodatečnou infrastrukturu a značné investice. LTE již dříve v Release 10 zavedlo koncept relay nodes, ale ty byly omezené ve své funkčnosti a flexibilitě. IAB rozšiřuje tento koncept, umožňuje multi-hop topologie a poskytuje mnohem větší flexibilitu v síťovém plánování. Navíc využívá existující 5G rádiové rozhraní, což významně snižuje náklady a zjednodušuje nasazení. 
+V čem představuje IAB významný pokrok oproti předchozím přístupům k řešení backhaulu v mobilních sítích?  Klasické backhaul řešení v 3G a 4G sítích jako mikrovlnné spoje nebo optická vlákna vyžadují dodatečnou infrastrukturu a značné investice. LTE již dříve v Release 10 zavedlo koncept **Relay Nodes**, ale ty byly omezené ve své funkčnosti a flexibilitě. IAB rozšiřuje tento koncept, umožňuje multi-hop topologie a poskytuje mnohem větší flexibilitu v síťovém plánování. Navíc využívá existující 5G rádiové rozhraní, což významně snižuje náklady a zjednodušuje nasazení. 
 
-Podobně je to s konceptem Small Cells. Ty zlepšily pokrytí a kapacitu v hustých oblastech, stále ale vyžadovaly samostatné backhaul řešení. Zatímco základy pro Small Cells byly položeny již v Release 8 s konceptem HeNB (tedy Home eNodeB), plnohodnotný koncept Small Cells, jak jej známe dnes, se vyvíjel především od Release 10 (LTE-Advanced) a dále. Každý následující release přidával nové funkce a vylepšení, která zvyšovala efektivitu a flexibilitu nasazení Small Cells.
+Podobně je to s konceptem **Small Cells**. Ty zlepšily pokrytí a kapacitu v hustých oblastech, stále ale vyžadovaly samostatné backhaul řešení. Zatímco základy pro Small Cells byly položeny již v Release 8 s konceptem HeNB (tedy Home eNodeB), plnohodnotný koncept Small Cells, jak jej známe dnes, se vyvíjel především od Release 10 (LTE-Advanced) a dále. Každý následující release přidával nové funkce a vylepšení, která zvyšovala efektivitu a flexibilitu nasazení Small Cells.
 
 Je dobré poznamenat, že termín "Small Cells" se stal běžně používaným v průmyslu kolem roku 2011-2012, což koresponduje s obdobím Release 10 a 11. Small Cell Forum, klíčová průmyslová organizace propagující tuto technologii, byl založen v roce 2007 (původně jako Femto Forum) a přejmenován na Small Cell Forum v roce 2012, což odráží širší adopci tohoto konceptu v mobilních sítích. Odtud tedy můžeme tušit i zájem o další rozvoj do směru IAB, kdy IAB integruje backhaul přímo do small cell konceptu. 
 
@@ -69,4 +69,4 @@ Už teď je zřejmé, že IAB není jen přechodným řešením, ale fundamentá
 
 V konečném důsledku IAB představuje více než jen technologickou inovaci – je to nástroj, který má potenciál demokratizovat přístup k vysokorychlostnímu internetu, překlenout digitální propast a umožnit nové use cases a služby, které budou formovat naši digitální zkušenost. 
 
-    Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)
+> Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)

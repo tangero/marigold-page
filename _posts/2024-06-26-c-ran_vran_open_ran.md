@@ -85,4 +85,4 @@ Open RAN (O-RAN) není přímo specifikován v žádné konkrétní verzi 3GPP R
 
 Open RAN vypadá jako dobrý přístup a uvidíme, nakolik se ve výstavbě sítí chytne. 
 
-Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)
+> Pokračujte dále na [Seriál Mobilní sítě](/mobilnisite/)
