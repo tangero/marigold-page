@@ -5,7 +5,7 @@ date: 2024-07-05
 order: 2
 ---
 
-Tokenizace textu je proces rozdělení textu na menší jednotky zvané tokeny. Jak tokenizace funguje a jaký je rozdíl v tokenizaci mezi angličtinou a češtinou:
+Tokenizace textu je proces rozdělení textu na menší jednotky zvané tokeny. Jak tokenizace funguje a jaký je rozdíl v tokenizaci mezi angličtinou a češtinou? Pojďme si o tom něco povědět. 
 
 Tokenizace textu a jeho následná vektorizace jsou klíčové procesy v oblasti zpracování přirozeného jazyka (NLP), které umožňují převést lidsky čitelný text do formy srozumitelné pro strojové učení a neuronové sítě. Tento článek se zaměří na tyto procesy s důrazem na specifika českého jazyka.
 
@@ -19,9 +19,9 @@ Všimněte si, že tokenizér zachoval interpunkci jako samostatné tokeny. V so
 
 Dalším krokem je převod těchto tokenů na číselné vektory. Existuje několik metod, jak toho dosáhnout. Jednou z nejjednodušších je one-hot encoding, kde každý token je reprezentován vektorem o délce rovné velikosti slovníku, s jedničkou na pozici odpovídající danému tokenu a nulami jinde. Tento přístup je však neefektivní pro velké slovníky a nezachycuje sémantické vztahy mezi slovy.
 
-Sofistikovanější přístup využívá předtrénované word embeddings, jako je Word2Vec, GloVe nebo FastText. Tyto metody mapují každý token do vektorového prostoru s typicky 100-300 dimenzemi, kde sémanticky podobná slova mají podobné vektorové reprezentace.
+Sofistikovanější přístup využívá předtrénované modely, jako je *[Word2Vec](https://cs.wikipedia.org/wiki/Word2Vec), GloVe nebo FastText*. Tyto metody mapují každý token do vektorového prostoru s typicky 100-300 dimenzemi, kde sémanticky podobná slova mají podobné vektorové reprezentace.
 
-Představme si, že používáme embeddings o 100 dimenzích. Náš text by byl převeden na matici o rozměrech 12x100, kde každý řádek reprezentuje jeden token. Například vektor pro slovo "voda" by mohl vypadat takto (zkráceno pro přehlednost):
+Představme si, že používáme modely o 100 dimenzích. Náš text by byl převeden na matici o rozměrech 12x100, kde každý řádek reprezentuje jeden token. Například vektor pro slovo "voda" by mohl vypadat takto (zkráceno pro přehlednost):
 *[0.2, -0.1, 0.5, ..., 0.3]*
 
 Pro tokeny, které nejsou běžnými slovy, jako je interpunkce, se často používají speciální vektory nebo se jim přiřadí nulový vektor.
@@ -42,7 +42,7 @@ Jak tokenizace probíhá krok za krokem ...
 4. Vytvoření slovníku - sestavení seznamu unikátních tokenů
 5. Indexace - Přiřazení číselných identifikátorů každému tokenu
 
-Tokenizace v angličtině:
+### Tokenizace v angličtině:
 
 1. Rozdělení na slova
    - Obvykle jednoduché rozdělení podle mezer a interpunkce
@@ -55,7 +55,7 @@ Tokenizace v angličtině:
    - Použití algoritmů jako Byte-Pair Encoding (BPE) nebo WordPiece
    - Rozdělení méně častých slov na častější podslova
 
-Tokenizace v češtině:
+### Tokenizace v češtině:
 
 1. Složitější rozdělení na slova
    - Nutnost řešit více speciálních případů (např. "chtěl bych")
@@ -70,7 +70,7 @@ Tokenizace v češtině:
    - Může být složitější kvůli větší variabilitě tvarů slov
    - Nutnost zohlednit specifické české znaky
 
-Hlavní rozdíly mezi tokenizací v angličtině a češtině:
+### Hlavní rozdíly mezi tokenizací v angličtině a češtině:
 
 1. Morfologická složitost
    - Čeština má bohatší flexi, což vede k většímu počtu tvarů slov
