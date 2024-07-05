@@ -7,6 +7,16 @@ order: 2
 
 Tokenizace textu je proces rozdělení textu na menší jednotky zvané tokeny. Jak tokenizace funguje a jaký je rozdíl v tokenizaci mezi angličtinou a češtinou? Pojďme si o tom něco povědět. 
 
+## Obecný proces tokenizace:
+
+Jak tokenizace probíhá krok za krokem ... 
+
+1. Předzpracování textu - probíhá odstranění nepotřebných znaků a formátování. Následně dojde k normalizaci textu (např. převod na malá písmena).
+2. Segmentace - tedy rozdělení textu na menší jednotky (slova, podslova, znaky).
+3. Normalizace tokenů - úprava tokenů do standardní formy
+4. Vytvoření slovníku - sestavení seznamu unikátních tokenů
+5. Indexace - Přiřazení číselných identifikátorů každému tokenu
+
 Tokenizace textu a jeho následná vektorizace jsou klíčové procesy v oblasti zpracování přirozeného jazyka (NLP), které umožňují převést lidsky čitelný text do formy srozumitelné pro strojové učení a neuronové sítě. Tento článek se zaměří na tyto procesy s důrazem na specifika českého jazyka.
 
 Začněme s naším příkladovým textem: *"Lil jsem vodu ze skleničky do lahve, dokud nebyla plná."* Prvním krokem je tokenizace, tedy rozdělení textu na menší jednotky zvané tokeny. V případě češtiny je tento proces komplexnější než u analytických jazyků jako je angličtina, a to především kvůli bohaté morfologii a flexibilitě slovosledu.
@@ -32,15 +42,7 @@ Poslední krok zahrnuje sestavení těchto vektorových reprezentací do formy v
 
 Tento proces tokenizace a vektorizace je základním kamenem pro další zpracování textu v úlohách jako je strojový překlad, analýza sentimentu nebo generování textu. Umožňuje převést bohatou a komplexní strukturu lidského jazyka do matematicky zpracovatelné formy, která zachovává klíčové lingvistické a sémantické informace.​​​​​​​​​​​​​​​​
 
-## Obecný proces tokenizace:
-
-Jak tokenizace probíhá krok za krokem ... 
-
-1. Předzpracování textu - probíhá odstranění nepotřebných znaků a formátování. Následně dojde k normalizaci textu (např. převod na malá písmena).
-2. Segmentace - tedy rozdělení textu na menší jednotky (slova, podslova, znaky).
-3. Normalizace tokenů - úprava tokenů do standardní formy
-4. Vytvoření slovníku - sestavení seznamu unikátních tokenů
-5. Indexace - Přiřazení číselných identifikátorů každému tokenu
+A my se ještě podívejme na to, jak se liší proces při tokenizaci angličtiny a češtiny...
 
 ### Tokenizace v angličtině:
 
