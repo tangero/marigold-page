@@ -13,13 +13,13 @@ Zde najdete články zaměřené na umělou inteligenci a její využití v růz
 <h2>Vybrané příspěvky</h2>
    {% assign sorted_posts = site.ai | where_exp: "post", "post.order" | sort: "order" %}
    {% for post in sorted_posts %}
-     - [{{ post.title }}]({{ post.url }})
+- [{{ post.title }}]({{ post.url }})
    {% endfor %}
 
 <h2>Další příspěvky</h2>
    {% assign unsorted_posts = site.ai | where_exp: "post", "post.order == nil" | sort: "date" | reverse %}
    {% for post in unsorted_posts %}
-     - [{{ post.title }}]({{ post.url }})
+- [{{ post.title }}]({{ post.url }})
    {% endfor %}
 
 ## O této rubrice
