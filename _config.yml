@@ -54,14 +54,16 @@ enforce_ssl: https://www.marigold.cz
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/"
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+# Definice Collections
 
 collections: 
   ai:
     output: true
     permalink: /ai/:title/
+
+#
+# !! You don't need to change any of the configuration flags below !!
+#
 
 permalink: /item/:title/
 
