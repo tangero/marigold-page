@@ -19,7 +19,7 @@ Všimněte si, že tokenizér zachoval interpunkci jako samostatné tokeny. V so
 
 Dalším krokem je převod těchto tokenů na číselné vektory. Existuje několik metod, jak toho dosáhnout. Jednou z nejjednodušších je one-hot encoding, kde každý token je reprezentován vektorem o délce rovné velikosti slovníku, s jedničkou na pozici odpovídající danému tokenu a nulami jinde. Tento přístup je však neefektivní pro velké slovníky a nezachycuje sémantické vztahy mezi slovy.
 
-Sofistikovanější přístup využívá předtrénované modely, jako je *[Word2Vec](https://cs.wikipedia.org/wiki/Word2Vec), GloVe nebo FastText*. Tyto metody mapují každý token do vektorového prostoru s typicky 100-300 dimenzemi, kde sémanticky podobná slova mají podobné vektorové reprezentace.
+Sofistikovanější přístup využívá předtrénované modely *word embeddings*, jako je *[Word2Vec](https://cs.wikipedia.org/wiki/Word2Vec), GloVe nebo FastText*. Jsou to vlastně vektorové reprezentace každého slova. Tyto metody mapují každý token do vektorového prostoru s typicky 100-300 dimenzemi, kde sémanticky podobná slova mají podobné vektorové reprezentace. 
 
 Představme si, že používáme modely o 100 dimenzích. Náš text by byl převeden na matici o rozměrech 12x100, kde každý řádek reprezentuje jeden token. Například vektor pro slovo "voda" by mohl vypadat takto (zkráceno pro přehlednost):
 *[0.2, -0.1, 0.5, ..., 0.3]*
