@@ -10,8 +10,9 @@ Zde najdete články zaměřené na umělou inteligenci a její využití v růz
 
 {% assign emoji_chars = "⌚️⌨️📱📲💻⌨️🖥️🖨️🖱️🖲️🕹️🗜️💽💾💿📀📼📷📸📹🎥📽️" | split: '' %}
 {% assign sorted_posts = site.ai | where_exp: "post", "post.order" | sort: "order" %}
+
 <ul>
-{% for post in site.posts %}
+{% for post in sorted_posts %}
   {% assign random_index = forloop.index | plus: post.title.size | modulo: emoji_chars.size %}
   {% assign random_emoji = emoji_chars[random_index] %}
   <li>{{ random_emoji }} <a href="{{ post.url }}">{{ post.title }}</a></li>
