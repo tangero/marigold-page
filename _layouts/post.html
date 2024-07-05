@@ -58,6 +58,13 @@ layout: default
 
   </div>
 
+  {% if page.collection == 'ai' and page.layout == 'post' %}
+  <div class="ai-rubric-link">
+    <blockquote> 
+    ⚡️ <a href="/ai/">Pokračujte do rubriky AI</a>
+    </blockquote>
+  </div>
+{% endif %}
 
   {% if page.categories contains "Mobilní sítě" or page.categories contains "3G" or page.categories contains "4G" or page.categories contains "5G" or page.categories contains "5G Advanced" %}
   <div class="posts">
