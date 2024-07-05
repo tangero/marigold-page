@@ -1,26 +1,22 @@
 ---
 layout: page
-title: AI Rubrika
+title: AI čili Umělá Inteligence
 permalink: /ai/
 ---
 
-# Vítejte v AI rubrice
-
 Zde najdete články zaměřené na umělou inteligenci a její využití v různých oblastech.
 
-## AI články
-
 <h2>Vybrané příspěvky</h2>
-   {% assign sorted_posts = site.ai | where_exp: "post", "post.order" | sort: "order" %}
-   {% for post in sorted_posts %}
+{% assign sorted_posts = site.ai | where_exp: "post", "post.order" | sort: "order" %}
+{% for post in sorted_posts %}
 - [{{ post.title }}]({{ post.url }})
-   {% endfor %}
+{% endfor %}
 
 <h2>Další příspěvky</h2>
-   {% assign unsorted_posts = site.ai | where_exp: "post", "post.order == nil" | sort: "date" | reverse %}
-   {% for post in unsorted_posts %}
+{% assign unsorted_posts = site.ai | where_exp: "post", "post.order == nil" | sort: "date" | reverse %}
+{% for post in unsorted_posts %}
 - [{{ post.title }}]({{ post.url }})
-   {% endfor %}
+{% endfor %}
 
 ## O této rubrice
 
