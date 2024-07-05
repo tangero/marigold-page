@@ -1,5 +1,5 @@
 —
-title: Knihy k těšení na podzim 2024
+title: “Knihy k těšení na podzim 2024”
 author: Patrick Zandl
 post_excerpt: “Nastřádalo se mi pár knih, na jejiž vydání se těším. Třeba zaujmou i vás, i když zatím nevím, jestli se chystá překlad...”
 layout: post
