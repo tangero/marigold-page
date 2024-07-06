@@ -95,7 +95,7 @@ layout: default
   {% if featured_posts.size > 0 %}
     {% assign shuffled_posts = featured_posts | sort: 'date' | sample: featured_posts.size %}
     <div class="featured-posts">
-      <h3>Nejzajímavější články:</h3>
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
       <table>
         <tbody>
           {% for post in shuffled_posts limit:2 %}
