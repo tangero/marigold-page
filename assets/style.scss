@@ -1157,6 +1157,24 @@ Modules - reusable parts of our design
      margin-bottom: 15px;
 }
 
+.post {
+  margin-bottom: 30px;
+  clear: both;
+}
+.post-content {
+  display: flex;
+  margin-bottom: 10px;
+}
+.thumbnail {
+  margin-right: 15px;
+}
+.excerpt {
+  flex: 1;
+}
+.post-meta {
+  clear: both;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 //@import "highlights";
