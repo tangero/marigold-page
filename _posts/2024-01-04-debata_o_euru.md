@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  Debata o Euru
-categories: [Ekonomika, Euro]
-excerpt: Na vrub české debaty o euru... 
+categories: [Ekonomika, Euro, EU]
+excerpt: Občas se nám to stane. Otevře se debata. Tu s větším, tu s menším vkusem, ta o euru se ovšem otevřela vcelku vkusně, střízlivým projevem prezidenta (vyložte si to, jak chcete, obě verze podle mě platí).
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/6/65/Euro_coins_and_banknotes.jpg
 ---
 
 Občas se nám to stane. Otevře se debata. Tu s větším, tu s menším vkusem, ta o euru se ovšem otevřela vcelku vkusně, střízlivým projevem prezidenta (vyložte si to, jak chcete, obě verze podle mě platí).
