@@ -4,6 +4,7 @@ title:  Jak budou vypadat mobilní sítě 5G Advanced ve specifikaci Rel-18
 categories: [Mobilní sítě, 5G, 5G Advanced, 4G]
 excerpt: V květnu letošního roku dostaly sítě 6G své oficiální logo a zároveň s tím se dokončila specifikace 5G Advanced v podobě 3GPP Rel-18. Kam bude mířit svět mobilních sítí  po páté generaci? Zatím se nestresujte, první sítě se v realitě (ne té marketingové) objeví tak kolem roku 2028.
 post_date: 2024-9-6 13:48:16
+thumbnail: https://www.aewin.com/wp-content/uploads/2022/08/5G_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F-1-2048x1072.jpg
 ---
 
 
