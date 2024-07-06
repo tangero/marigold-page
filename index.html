@@ -8,41 +8,45 @@ layout: default
   {% for post in paginator.posts %}
   {% if post.hide == null or post.hide == false %}
     <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
-      </a>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="excerpt">
-        {{ post.excerpt | strip_html | truncatewords: 50 }}
+      <div class="post-content">
+        {% if page.url == "/" %}
+          <div class="thumbnail">
+            {% if post.thumbnail %}
+              {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
+              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}">
+            {% else %}
+              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/stavebni_urad.webp" alt="{{ post.title }}">
+            {% endif %}
+          </div>
+        {% endif %}
+
+        <div class="excerpt">
+          {{ post.excerpt | strip_html | truncatewords: 50 }}
+        </div>
       </div>
 
-      {% if page.url == "/" %}
-        {% if post.thumbnail %}
-          {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
-          <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}" class="thumbnail">
-        {% else %}
-          <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/stavebni_urad.webp" alt="{{ post.title }}" class="thumbnail">
-        {% endif %}
-      {% endif %}
-      
-      {% assign m = post.date | date: "%-m" %}
-      {{ post.date | date: "%-d." }}
-      {% case m %}
-        {% when '1' %}leden
-        {% when '2' %}únor
-        {% when '3' %}březen
-        {% when '4' %}duben
-        {% when '5' %}květen
-        {% when '6' %}červen
-        {% when '7' %}červenec
-        {% when '8' %}srpen
-        {% when '9' %}září
-        {% when '10' %}říjen
-        {% when '11' %}listopad
-        {% when '12' %}prosinec
-      {% endcase %}
-      {{ post.date | date: "%Y" }} - 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a>
+      <div class="post-meta">
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d." }}
+        {% case m %}
+          {% when '1' %}leden
+          {% when '2' %}únor
+          {% when '3' %}březen
+          {% when '4' %}duben
+          {% when '5' %}květen
+          {% when '6' %}červen
+          {% when '7' %}červenec
+          {% when '8' %}srpen
+          {% when '9' %}září
+          {% when '10' %}říjen
+          {% when '11' %}listopad
+          {% when '12' %}prosinec
+        {% endcase %}
+        {{ post.date | date: "%Y" }} - 
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a>
+      </div>
     </article>
     {% endif %}   
   {% endfor %}
