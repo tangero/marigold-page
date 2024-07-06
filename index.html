@@ -16,9 +16,18 @@ layout: default
 
         </div>
       </a>
+
       <div class="entry">
+        {% if post.thumbnail %}
+          <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="thumbnail">
+        {% else %}
+          {% assign words = post.content | strip_html | truncate: 100 | split: ' ' %}
+          {% capture query %}{% for word in words limit:3 %}{{ word }}+{% endfor %}{% endcapture %}
+          <img src="https://source.unsplash.com/featured/?{{ query }}" alt="{{ post.title }}" class="thumbnail">
+        {% endif %}
         {{ post.excerpt }}
       </div>
+      
       {% assign m = post.date | date: "%-m" %}
       {{ post.date | date: "%-d." }}
 {% case m %}
