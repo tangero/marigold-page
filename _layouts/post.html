@@ -102,7 +102,6 @@ layout: default
             <tr>
               <td>
                 <a href="{{ post.url }}">{{ post.title }}</a>
-                <small>{{ post.date | date: "%d.%m.%Y" }}</small>
                 <p class="excerpt">
                   {% if post.content contains '<!-- more -->' %}
                     {{ post.content | split:'<!-- more -->' | first | strip_html | truncate: 160 }}
