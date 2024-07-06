@@ -3,6 +3,7 @@ layout: post
 title:  Co říkají o našich vysokých školách diplomové práce jejich studentů? Pole pro výzkum je tu neorané!
 categories: [Školství]
 excerpt: Porovnejte si někdy diplomové práce českých studentů s hlavními trendy v zahraničí...
+thumbnail: https://www.copyshop.cz/wp-content/uploads/2017/01/diplom.jpg
 ---
 
 Nedávno jsem se porozhlížel po tom, jaká témata se učí na našich vysokých školách. Mimo jiné proto, že jsem si říkal, že bych se mohl ke studiu na univerzitě vrátit. Jenže kam? 
