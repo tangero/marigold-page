@@ -15,9 +15,9 @@ layout: default
           <div class="thumbnail">
             {% if post.thumbnail %}
               {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}">
+              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" align="left" alt="{{ post.title }}">
             {% else %}
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/stavebni_urad.webp" alt="{{ post.title }}">
+              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/stavebni_urad.webp" align="left" alt="{{ post.title }}">
             {% endif %}
           </div>
         {% endif %}
