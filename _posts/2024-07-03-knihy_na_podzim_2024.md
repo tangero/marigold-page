@@ -4,6 +4,8 @@ author: Patrick Zandl
 post_excerpt: "Nastřádalo se mi pár knih, na jejiž vydání se těším. Třeba zaujmou i vás, i když zatím nevím, jestli se chystá překlad..."
 layout: post
 categories: [Knihy]
+thumbnail: https://target.scene7.com/is/image/Target/GUEST_e2452797-6b29-4e5f-a032-5294b9a6c9f1
+
 ---
 
 
