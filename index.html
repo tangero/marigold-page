@@ -42,31 +42,54 @@ layout: default
   {% endfor %}
 
   <!-- pagination -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Předchozí</a>
-    {% else %}
-      <span>&laquo; Předchozí</span>
-    {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Další &raquo;</a>
-    {% else %}
-      <span>Další &raquo;</span>
-    {% endif %}
-  </div>
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Předchozí</a>
+  {% else %}
+    <span>&laquo; Předchozí</span>
   {% endif %}
+
+  {% assign start_page = paginator.page | minus: 5 %}
+  {% if start_page < 1 %}
+    {% assign start_page = 1 %}
+  {% endif %}
+  {% assign end_page = paginator.page | plus: 5 %}
+  {% if end_page > paginator.total_pages %}
+    {% assign end_page = paginator.total_pages %}
+  {% endif %}
+
+  {% if start_page > 1 %}
+    <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">1</a>
+    {% if start_page > 2 %}
+      <span>...</span>
+    {% endif %}
+  {% endif %}
+
+  {% for page in (start_page..end_page) %}
+    {% if page == paginator.page %}
+      <span class="webjeda">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if end_page < paginator.total_pages %}
+    {% if end_page < paginator.total_pages | minus: 1 %}
+      <span>...</span>
+    {% endif %}
+    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{ paginator.total_pages }}</a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Další &raquo;</a>
+  {% else %}
+    <span>Další &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
 
 
 
