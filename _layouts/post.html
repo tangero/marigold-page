@@ -4,7 +4,7 @@ layout: default
 
 <article class="post detailed">
 
-  {% if page.thumbnail %}
+{% if page.thumbnail %}
   {% assign thumbnail_url = page.thumbnail | replace: 'http://', 'https://' | url_encode %}
   {% assign title_encoded = page.title | url_encode %}
   <div class="thumbnail-strip">
@@ -13,6 +13,10 @@ layout: default
 {% else %}
   <h1 class="post-title">{{ page.title }}</h1>
 {% endif %}
+
+<div class="post-content">
+  {{ content }}
+</div>
 
   {% if page.categories contains "AI" %}
   <div class="posts">
