@@ -89,8 +89,7 @@ layout: default
   </div>
   {% endif %}
 
-
-{% # Tady začíná odkazování na featured články %} 
+<!-- Tady začíná odkazování na featured články -->
   
    {% assign featured_posts = site.posts | where: "featured", true | where_exp: "post", "post.url != page.url" %}
   {% if featured_posts.size > 0 %}
@@ -111,8 +110,6 @@ layout: default
       </table>
     </div>
   {% endif %}
-
-{% # Tady končí odkazování na featured články %} 
   
   <div class="posts">
     <h3>Chcete tyto články emailem?</h3>
