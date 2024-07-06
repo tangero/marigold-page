@@ -13,92 +13,87 @@ layout: default
 
         <div>
           <p class="post_date">{{ page.date | date: "%-d.%-m.%Y" }}</p>
-
         </div>
       </a>
 
-      <div class="entry">
+      {% if page.url == "/" %}
         {% if post.thumbnail %}
           {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
           <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}" class="thumbnail">
         {% else %}
-          <img src="/assets/ericsson-massive-iot.jpg" alt="{{ post.title }}" class="thumbnail">
+          <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/stavebni_urad.webp" alt="{{ post.title }}" class="thumbnail">
         {% endif %}
-        {{ post.excerpt }}
-      </div>
+      {% endif %}
       
       {% assign m = post.date | date: "%-m" %}
       {{ post.date | date: "%-d." }}
-{% case m %}
-  {% when '1' %}leden
-  {% when '2' %}únor
-  {% when '3' %}březen
-  {% when '4' %}duben
-  {% when '5' %}květen
-  {% when '6' %}červen
-  {% when '7' %}červenec
-  {% when '8' %}srpen
-  {% when '9' %}září
-  {% when '10' %}říjen
-  {% when '11' %}listopad
-  {% when '12' %}prosinec
-{% endcase %}
-{{ post.date | date: "%Y" }} - 
+      {% case m %}
+        {% when '1' %}leden
+        {% when '2' %}únor
+        {% when '3' %}březen
+        {% when '4' %}duben
+        {% when '5' %}květen
+        {% when '6' %}červen
+        {% when '7' %}červenec
+        {% when '8' %}srpen
+        {% when '9' %}září
+        {% when '10' %}říjen
+        {% when '11' %}listopad
+        {% when '12' %}prosinec
+      {% endcase %}
+      {{ post.date | date: "%Y" }} - 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a>
     </article>
     {% endif %}   
   {% endfor %}
 
   <!-- pagination -->
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;-</a>
-  {% else %}
-    <span>&laquo;-</span>
-  {% endif %}
-
-  {% assign start_page = paginator.page | minus: 3 %}
-  {% if start_page < 1 %}
-    {% assign start_page = 1 %}
-  {% endif %}
-  {% assign end_page = paginator.page | plus: 3 %}
-  {% if end_page > paginator.total_pages %}
-    {% assign end_page = paginator.total_pages %}
-  {% endif %}
-
-  {% if start_page > 1 %}
-    <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">1</a>
-    {% if start_page > 2 %}
-      <span>...</span>
-    {% endif %}
-  {% endif %}
-
-  {% for page in (start_page..end_page) %}
-    {% if page == paginator.page %}
-      <span class="webjeda">{{ page }}</span>
-    {% elsif page == 1 %}
-      <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;-</a>
     {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      <span>&laquo;-</span>
     {% endif %}
-  {% endfor %}
 
-  {% if end_page < paginator.total_pages %}
-    {% if end_page < paginator.total_pages | minus: 1 %}
-      <span>...</span>
+    {% assign start_page = paginator.page | minus: 3 %}
+    {% if start_page < 1 %}
+      {% assign start_page = 1 %}
     {% endif %}
-    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{ paginator.total_pages }}</a>
+    {% assign end_page = paginator.page | plus: 3 %}
+    {% if end_page > paginator.total_pages %}
+      {% assign end_page = paginator.total_pages %}
+    {% endif %}
+
+    {% if start_page > 1 %}
+      <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">1</a>
+      {% if start_page > 2 %}
+        <span>...</span>
+      {% endif %}
+    {% endif %}
+
+    {% for page in (start_page..end_page) %}
+      {% if page == paginator.page %}
+        <span class="webjeda">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if end_page < paginator.total_pages %}
+      {% if end_page < paginator.total_pages | minus: 1 %}
+        <span>...</span>
+      {% endif %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{ paginator.total_pages }}</a>
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">-&raquo;</a>
+    {% else %}
+      <span>-&raquo;</span>
+    {% endif %}
+  </div>
   {% endif %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">-&raquo;</a>
-  {% else %}
-    <span>-&raquo;</span>
-  {% endif %}
-</div>
-{% endif %}
-
-
-
 </div>
