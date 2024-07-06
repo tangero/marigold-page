@@ -31,7 +31,17 @@ layout: default
   {% when '11' %}listopad
   {% when '12' %}prosinec
 {% endcase %}
-{{ page.date | date: "%Y" }}</p>
+{{ page.date | date: "%Y" }} 
+
+       {% if page.path %}
+    <div class="github-link">
+      <a href="{{ site.github_repo }}/blob/main/{{ page.path }}" target="_blank">
+        Opravit 📃
+      </a>
+    </div>
+  {% endif %}
+    
+    </p>
 
     {% if page.last_modified_at %}
     <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Aktualizováno: {{ page.last_modified_at | date: "%-d.%-m.%Y" }})</p>
@@ -48,15 +58,7 @@ layout: default
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
-  {% if page.path %}
-    <div class="github-link">
-      <a href="{{ site.github_repo }}/blob/main/{{ page.path }}" target="_blank">
-        Upravit článek na GitHubu
-      </a>
-    </div>
-  {% endif %}
-
-    
+   
   </div>
 
   <div class="entry">
