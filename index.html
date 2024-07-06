@@ -47,7 +47,7 @@ layout: default
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Předchozí</a>
   {% else %}
-    <span>&laquo; Předchozí</span>
+    <span>&laquo;--</span>
   {% endif %}
 
   {% assign start_page = paginator.page | minus: 3 %}
@@ -84,7 +84,7 @@ layout: default
   {% endif %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Další &raquo;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">--&raquo;</a>
   {% else %}
     <span>Další &raquo;</span>
   {% endif %}
