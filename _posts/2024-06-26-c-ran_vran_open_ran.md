@@ -4,6 +4,7 @@ title:  Jak vylepšit radiovou síť v 5G čili C-RAN, vRAN a Open RAN
 categories: [Mobilní sítě, 5G, 5G Advanced, 4G]
 excerpt: Technologie pro radiové přístupové sítě se vyvíjejí. Pojďme se podívat na nejmodernější koncepty, které se dostávají do sítí 5G, 5G Advanced a také do 6G.
 post_date: 2024-9-26 13:48:16
+thumbnail: https://www.marigold.cz/assets/dran-cran.png
 ---
 Problematika C-RAN patří mezi na první pohled obtížně pochopitelné změny v architektuře sítí 5G a tak se u ní speciálně zastavíme. Je totiž symbolem pokroku v rádiové přístupové síti, tedy ve způsobu, jakým se mobilní telefon připojuje do mobilní sítě.
 
