@@ -50,11 +50,11 @@ layout: default
     <span>&laquo; Předchozí</span>
   {% endif %}
 
-  {% assign start_page = paginator.page | minus: 5 %}
+  {% assign start_page = paginator.page | minus: 3 %}
   {% if start_page < 1 %}
     {% assign start_page = 1 %}
   {% endif %}
-  {% assign end_page = paginator.page | plus: 5 %}
+  {% assign end_page = paginator.page | plus: 3 %}
   {% if end_page > paginator.total_pages %}
     {% assign end_page = paginator.total_pages %}
   {% endif %}
