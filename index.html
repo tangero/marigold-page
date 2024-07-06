@@ -22,7 +22,7 @@ layout: default
           {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
           <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}" class="thumbnail">
         {% else %}
-          <img src="/path/to/default/image.jpg" alt="{{ post.title }}" class="thumbnail">
+          <img src="/assets/ericsson-massive-iot.jpg" alt="{{ post.title }}" class="thumbnail">
         {% endif %}
         {{ post.excerpt }}
       </div>
