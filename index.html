@@ -11,19 +11,15 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="post-content">
-        {% if page.url == "/" %}
           <div class="thumbnail">
             {% if post.thumbnail %}
               {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
               <a href="{{ site.baseurl }}{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" align="left" alt="{{ post.title }}"></a>
-            {% else %}
-              <a href="{{ site.baseurl }}{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/stavebni_urad.webp" align="left" alt="{{ post.title }}"></a>
             {% endif %}
           </div>
-        {% endif %}
 
         <div class="excerpt">
-          {{ post.excerpt | strip_html | truncatewords: 50 }}
+          {{ post.excerpt | strip_html | truncatewords: 60 }}
         </div>
       </div>
 
