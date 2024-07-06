@@ -3,6 +3,7 @@ layout: post
 title:  Kvantové počítače
 categories: [Technologie, Kvantové počítače]
 excerpt: Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jejich důsledky pro lidstvo.
+featured: true
 ---
 
 Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jejich důsledky pro lidstvo.

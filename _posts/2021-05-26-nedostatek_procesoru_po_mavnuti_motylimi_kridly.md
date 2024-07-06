@@ -3,6 +3,7 @@ layout: post
 title:  Nedostatek procesorů po mávnutí motýlími křídly
 categories: [Procesory, Technologie, Ekonomika]
 excerpt: Už bývám na ten příměr alergický. Na to, jak motýl v Číně mávne křídly a v Brazílii je z toho bouře. Ale je to dobrý a srozumitelný příměr o tom, jak provázané jsou i vzdálené systémy. Dnes si to ukážeme na příkladu momentálního nedostatku mikroprocesorů, což je klíčové téma pro všechny výrobce, od výrobců automobilů, až po výrobce spotřební elektroniky.
+feature: true
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 title:  Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci
 categories: [Příběhy, AI, Vývoj]
 excerpt: Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. Jako ukázka, že lidská zvídavost, představivost a um mají svoje nečekané hranice. V dnešním příběhu si spojíme olovo v benzínu s umělou inteligencí.
+featured: true 
 ---
 
 Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. Jako ukázka, že lidská zvídavost, představivost a um mají svoje nečekané hranice. V dnešním příběhu si spojíme olovo v benzínu s umělou inteligencí.

@@ -4,6 +4,7 @@ title:  Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy
 categories: [Město, Bydlení]
 excerpt: Na zastupitelstvu Brandýsa-Boleslavi jsme schválili Zásady pro výstavbu ve městě, které stanoví rámec spolupráce s developery. Zásady se nevztahují na individiální výstavbu. Na přípravě zásad spolupracovali občanská sdružení Naše Dvojměstí a Podpora Občanů i politické strany Piráti, STAN a ODS a hnutí Pro zdraví a sport. Tato široká spolupráce by měla zajistit, že jde o podmínky dlouhodobé, které se nebudou s každou radnicí měnit. Zároveň Zásady odstraňují dosavadní praxi individuálního sjednávání podobně koncipovaných příspěvků developerů, které bylo netransparentní.
 date: 18.4.2021
+featured: true
 ---
 
 Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahují na individiální výstavbu. Na přípravě zásad spolupracovali občanská sdružení Naše Dvojměstí a Podpora Občanů i politické strany Piráti, STAN a ODS a hnutí Pro zdraví a sport. Tato široká spolupráce by měla zajistit, že jde o podmínky dlouhodobé, které se nebudou s každou radnicí měnit. Zároveň Zásady odstraňují dosavadní praxi individuálního sjednávání podobně koncipovaných příspěvků developerů, které bylo netransparentní.
