@@ -21,9 +21,9 @@ layout: default
         {% if post.thumbnail %}
           <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="thumbnail">
         {% else %}
-          {% assign words = post.content | strip_html | truncate: 100 | split: ' ' %}
-          {% capture query %}{% for word in words limit:3 %}{{ word }}+{% endfor %}{% endcapture %}
-          <img src="https://source.unsplash.com/featured/?{{ query }}" alt="{{ post.title }}" class="thumbnail">
+          {% assign theme = post.category | default: post.tags.first | default: "technology" | url_encode | replace: '+', '%20' %}
+          {% assign title = post.title | url_encode | replace: '+', '%20' %}
+          <img src="https://res.cloudinary.com/dvwv5cne3/image/upload/w_300,h_200,c_fill,g_auto,f_auto,q_auto/l_text:Arial_18_bold:{{ title }},co_rgb:FFFFFF,w_280,c_fit,g_north,y_20/b_gen_fill:{{ theme }}" alt="{{ post.title }}" class="thumbnail">
         {% endif %}
         {{ post.excerpt }}
       </div>
