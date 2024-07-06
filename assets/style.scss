@@ -1149,6 +1149,13 @@ Modules - reusable parts of our design
   margin-top: 5px;
 }
 
+.thumbnail {
+     max-width: 200px;
+     height: auto;
+     float: left;
+     margin-right: 15px;
+     margin-bottom: 15px;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
