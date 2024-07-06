@@ -4,6 +4,7 @@ title:  Jak se z malých vynálezů stává velký problém? Příběh benzínu,
 categories: [Příběhy, AI, Vývoj]
 excerpt: Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. Jako ukázka, že lidská zvídavost, představivost a um mají svoje nečekané hranice. V dnešním příběhu si spojíme olovo v benzínu s umělou inteligencí.
 featured: true 
+thumbnail: https://www.etaletaculture.fr/wp-content/uploads/2014/01/thomas-midgley.jpg
 ---
 
 Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. Jako ukázka, že lidská zvídavost, představivost a um mají svoje nečekané hranice. V dnešním příběhu si spojíme olovo v benzínu s umělou inteligencí.
