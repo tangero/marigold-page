@@ -10,11 +10,11 @@ layout: default
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
-
-        <div>
-          <p class="post_date">{{ page.date | date: "%-d.%-m.%Y" }}</p>
-        </div>
       </a>
+
+      <div class="excerpt">
+        {{ post.excerpt | strip_html | truncatewords: 50 }}
+      </div>
 
       {% if page.url == "/" %}
         {% if post.thumbnail %}
