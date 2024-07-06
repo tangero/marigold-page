@@ -3,6 +3,8 @@ layout: post
 title:  Má nová kniha o digitální novinařině
 categories: [Média, Knihy, eKnihy]
 excerpt: Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se Zlatá éra weblogů a můžete si ji stáhnout zdarma na Lupa.cz.
+featured: true
+thumbnail: https://i.iinfo.cz/images/331/zlata-era-weblogu-1.png
 ---
 
 
