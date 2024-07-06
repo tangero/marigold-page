@@ -3,20 +3,7 @@ layout: default
 ---
 
 <article class="post detailed">
-
-{% if page.thumbnail %}
-  {% assign thumbnail_url = page.thumbnail | replace: 'http://', 'https://' | url_encode %}
-  {% assign title_encoded = page.title | url_encode %}
-  <div class="thumbnail-strip">
-    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/l_text:Arial_30_bold:{{ title_encoded }},co_rgb:ffffff,w_1000,c_fit,g_south_west,x_100,y_50/l_rectangle,w_1200,h_80,o_60,g_south/{{ thumbnail_url }}" alt="{{ page.title }}">
-  </div>
-{% else %}
-  <h1 class="post-title">{{ page.title }}</h1>
-{% endif %}
-
-<div class="post-content">
-  {{ content }}
-</div>
+  <h1>{{ page.title }}</h1>
 
   {% if page.categories contains "AI" %}
   <div class="posts">
@@ -71,6 +58,13 @@ layout: default
     </div>
    
   </div>
+
+  {% if page.thumbnail %}
+  {% assign thumbnail_url = page.thumbnail | replace: 'http://', 'https://' %}
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ page.title }}">
+  </div>
+{% endif %}
 
   <div class="entry">
 
