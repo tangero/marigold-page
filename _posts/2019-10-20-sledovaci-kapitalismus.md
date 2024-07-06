@@ -4,6 +4,7 @@ title:  Sledovací kapitalismus
 categories: [Ekonomie, Sociální sítě, Sledovací kapitalismus, Společnost]
 excerpt: 
 featured: true
+thumbnail: https://www.duurzaamnieuws.nl/wp-content/uploads/2019/10/tegenlicht-dataroof.jpg
 ---
 
 Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekcemi stát moderní svět. Už dlouho teoretikové všech stran barikád, od ekonomů, přes sociologů až po politology a věrozvěsty apokalypsy přemýšlejí nad tím, co by mohlo tuto kouzelnou formulku úspěchu narušit. Cožpak není liberální kapitalismus vše-absorbující už z podstaty věci?
