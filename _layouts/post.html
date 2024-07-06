@@ -48,6 +48,15 @@ layout: default
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
+  {% if page.path %}
+    <div class="github-link">
+      <a href="{{ site.github_repo }}/blob/main/{{ page.path }}" target="_blank">
+        Upravit článek na GitHubu
+      </a>
+    </div>
+  {% endif %}
+
+    
   </div>
 
   <div class="entry">
