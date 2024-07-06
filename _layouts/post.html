@@ -59,6 +59,13 @@ layout: default
    
   </div>
 
+  {% if page.thumbnail %}
+  {% assign thumbnail_url = page.thumbnail | replace: 'http://', 'https://' %}
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ page.title }}">
+  </div>
+{% endif %}
+
   <div class="entry">
 
     {{ content }}
