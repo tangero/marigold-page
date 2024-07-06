@@ -3,6 +3,7 @@ layout: post
 title:  Zápis z porady či jednání pomocí umělé inteligence
 categories: [AI, Umělá inteligence]
 excerpt: Jednou z aplikací umělé inteligence, kterou používám prakticky rutinně, je zápis ze schůzky, porady či jednání. Pojďme se podívat na to, jak to funguje.
+thumbnail: https://www.marigold.cz/assets/waveai.webp
 ---
 
 
