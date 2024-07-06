@@ -1174,6 +1174,19 @@ Modules - reusable parts of our design
 .post-meta {
   clear: both;
 }
+.thumbnail-strip {
+  width: 100%;
+  max-width: 1200px; /* nebo šířka vašeho obsahu */
+  margin: 0 auto 20px;
+  overflow: hidden;
+}
+
+.thumbnail-strip img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
