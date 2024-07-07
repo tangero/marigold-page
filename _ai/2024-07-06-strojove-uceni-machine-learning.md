@@ -76,6 +76,17 @@ Hluboké učení se uplatňuje v situacích, kde je potřeba zpracovat obrovské
 - Přirozené zpracování jazyka (NLP), jako je překlad textu nebo generování odpovědí.
 - Autonomní řízení vozidel, kde je potřeba analyzovat obrazy z kamer v reálném čase.
 
+### Neuronové sítě a strojové učení?
+
+Asi jste si v případě hlubokého učení povšimli zmínky o neuronových sítích. Jaký je tedy vztah mezi strojovým učením a neuronovými sítěmi? Neuronové sítě jsou klíčovou součástí strojového učení, zejména v oblasti hlubokého učení. Strojové učení je širší oblast umělé inteligence, která zahrnuje různé přístupy a techniky pro vytváření modelů, které se učí z dat. Neuronové sítě jsou jedním z mnoha typů modelů používaných ve strojovém učení. Pro jaké použití se neuronové sítě v ML hodí?
+
+- Zpracování přirozeného jazyka (NLP): Rekurentní neuronové sítě (RNN) a transformery
+- Počítačové vidění: Konvoluční neuronové sítě (CNN)
+- Generativní modely: Generative Adversarial Networks (GAN)
+
+Existuje ale celá řada dalších modelů, které se ve strojovém učení využívají.
+
+
 ## Výzvy a budoucí směry
 
 Strojové učení, zejména v kontextu AI a LLM, má řadu svých problémů pod čarou ponoru, s nimiž se autoři modelů musí vypořádat. Zrekapitulujme si je, protože v případě práce se strojovým učením jim budete ve větší či menší míře čelit také... 
