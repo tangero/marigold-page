@@ -38,6 +38,7 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 - [LTE v nelicencovaném pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu) a jeho další rozvoj do [Licencovaného asistovaného přístupu LAA](/item/laa_release_13/)
 - jak funguje [koordinované vícebodové spojení CoMP v LTE](/item/koordinovane-vicebodove-spojeni-v-lte/)
 - [úzkopásmové sítě v LTE Release 8, 12 a 13](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/)
+- přechod na [LTE Advanced](/mobilnisite/3gpp-release-10)
 
 ### 5G
 - 🛜[5G NR - New Radio](/item/5G_NR_New_Radio/) - nové rádiové rozhraní
