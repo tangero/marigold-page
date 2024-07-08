@@ -112,7 +112,7 @@ A nyní prakticky, jak aplikace softmaxu vypadá.
 softmax(z)_i = exp(z_i) / sum(exp(z_j) for j in range(2))
 ```
 
-Provedeme tedy výpočet dosazením hodnot, omlouvám se za nepřehlednost, ale teprve se učím LaTex formát zápisu matematiky, snad si poradíte... 
+Provedeme tedy výpočet dosazením hodnot, omlouvám se za nepřehlednost, ale teprve se učím LaTex formát zápisu matematiky, snad si poradíte. My si ukážeme výpočet jen pro znak lomítka / - tedy to, jak dorazil na O1 a O2.
 
 ```
 exp(0.16) = 1.1735
@@ -128,7 +128,7 @@ Výstupy softmax funkce jsou tedy: ```[0.574, 0.426]```
 
 Shrnutí
 
-Pro znak “/” nám vyšly pravděpodobnosti: [0.574, 0.426] - tedy s pravděpodobností 57,4 % se jedná o znak lomítka. 
+Pro znak “/” nám vyšly pravděpodobnosti: ```[0.574, 0.426]``` - tedy s pravděpodobností 57,4 % se jedná o znak lomítka. 
 
 Pro znak “\” si je můžete výsledky dopočítat sami. Kontrola by neměla být těžká :)
 
@@ -136,3 +136,8 @@ Pro znak “\” si je můžete výsledky dopočítat sami. Kontrola by neměla 
  Tak a už jsme doma. Neuronová síť usoudila s pravděpodobností 57,4 %, že znak "/" je znakem lomítka. Jak to, že to vyšlo, když jsem říkal, že záleží na hodnotách? Inu proto,že jsem váhy a bias vybral rozumně tak, aby to vyšlo a ne tak, aby hned první, co uvidíte, byla neuronka, která usoudila blbost, i když za to nemůže. Jak jsme si ale řekli, záleží zejména na váhách (A pak taky dobře zvolené aktivační funkci), že neuronka všechno správně rozpozná. A právě tohle je ten fine-tuning. Jen pro pořádek, znak zpětného lomítka jsme rozpoznali s pravděpodobností 59,9 % - taky to není špatné. 
  
  Výpočty ukazují, jak softmax funkce převádí surové skóre na pravděpodobnosti, které umožňují interpretovat výstupy neuronové sítě jako pravděpodobnosti pro různé třídy. Bez tréninku mohou být tyto hodnoty náhodné, protože váhy a biasy nejsou optimalizovány.
+
+ Snad to bylo pochopitelné!
+
+ A co s tím víc? Inu, přidat to učení :)
+ 
