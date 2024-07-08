@@ -13,9 +13,9 @@ Neuronová síť je inspirována biologickými nervovými systémy a skládá se
 
 Neuronová síť typicky obsahuje tři hlavní vrstvy:
 
-	•	Vstupní vrstva: Přijímá vstupní data.
-	•	Skryté vrstvy: Jedna nebo více vrstev, které provádějí zpracování a výpočty.
-	•	Výstupní vrstva: Produkuje konečný výstup sítě.
+•	Vstupní vrstva: Přijímá vstupní data.
+•	Skryté vrstvy: Jedna nebo více vrstev, které provádějí zpracování a výpočty.
+•	Výstupní vrstva: Produkuje konečný výstup sítě.
 
 Každý neuron ve vrstvě je propojen s neurony v následující vrstvě prostřednictvím propojení nazývaných váhy. Vstupy jsou zpracovávány neuronem a upravovány váhami, které modifikují signál.
 
@@ -23,9 +23,9 @@ Každý neuron ve vrstvě je propojen s neurony v následující vrstvě prostř
 
 **Vrstvy** jsou klíčové komponenty neuronových sítí. Existují různé typy vrstev, z nichž každá má specifickou funkci:
 
-	•	Vstupní vrstva: Obsahuje neurony, které přijímají vstupní data. Například pro obraz se každý pixel může stát vstupním neuronem.
-	•	Skryté vrstvy: Tyto vrstvy provádějí většinu zpracování. Mohou být plně propojené (dense), konvoluční (convolutional) nebo rekurentní (recurrent), v závislosti na aplikaci.
-	•	Výstupní vrstva: Obsahuje neurony, které produkují konečný výstup sítě, například klasifikaci obrazu nebo predikci číselné hodnoty.
+•	Vstupní vrstva: Obsahuje neurony, které přijímají vstupní data. Například pro obraz se každý pixel může stát vstupním neuronem.
+•	Skryté vrstvy: Tyto vrstvy provádějí většinu zpracování. Mohou být plně propojené (dense), konvoluční (convolutional) nebo rekurentní (recurrent), v závislosti na aplikaci.
+•	Výstupní vrstva: Obsahuje neurony, které produkují konečný výstup sítě, například klasifikaci obrazu nebo predikci číselné hodnoty.
 
 **Váhy** jsou parametry, které se učí během tréninku neuronové sítě. Každé propojení mezi neurony má svou váhu, která modifikuje sílu signálu. Váhy jsou inicializovány náhodně a postupně upravovány během tréninku, aby síť produkovala co nejpřesnější výstupy.
 
@@ -57,7 +57,8 @@ Abychom si celý proces lépe představili, uveďme příklad rozpoznávání p�
 ### Krok 1: Vstupní data
 
 Každý obrázek je převeden na pole čísel, kde každý pixel představuje jeden vstupní neuron. Například obrázek “A” může být reprezentován jako mřížka 8x8, kde černé pixely mají hodnotu 1 a bílé pixely mají hodnotu 0:
-	
+
+'''
 [
   [0, 0, 1, 1, 1, 1, 0, 0],
   [0, 1, 0, 0, 0, 0, 1, 0],
@@ -68,9 +69,11 @@ Každý obrázek je převeden na pole čísel, kde každý pixel představuje je
   [0, 1, 0, 0, 0, 0, 1, 0],
   [0, 0, 0, 0, 0, 0, 0, 0]
 ]
+'''
 
 Tento obrázek je převeden na jednorozměrné pole se 64 vstupními neurony, tedy: 
 
+'''
 [0, 0, 1, 1, 1, 1, 0, 0,
  0, 1, 0, 0, 0, 0, 1, 0,
  0, 1, 0, 0, 0, 0, 1, 0,
@@ -79,6 +82,7 @@ Tento obrázek je převeden na jednorozměrné pole se 64 vstupními neurony, te
  0, 1, 0, 0, 0, 0, 1, 0,
  0, 1, 0, 0, 0, 0, 1, 0,
  0, 0, 0, 0, 0, 0, 0, 0]
+'''
 
 Krok 2: Dopředný průchod
 
@@ -95,6 +99,8 @@ Gradient chyby je zpětně propagován skrz síť, což umožňuje výpočet gra
 Krok 5: Aktualizace vah
 
 Váhy jsou aktualizovány tak, aby se minimalizovala chyba. Tento proces se opakuje pro mnoho iterací a obrázků, dokud síť nedosáhne požadované úrovně přesnosti.
+
+chcete to víc po lopatě? Tak [tady je to v detailu](/ai/priklad-neuronove-site/).
 
 Závěr
 
