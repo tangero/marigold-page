@@ -29,14 +29,16 @@ Nyní máme tedy vstupní data reprezentovaná čtveřicí čísel a tato data p
 **1.	Vstupní vrstva:**
 - Neurony *I1*, *I2*, *I3*, *I4* reprezentují jednotlivé pixely matice 2x2.
 - Pro znak “/” má vstupní pole hodnoty  `[0, 1, 1, 0]` .
+
 **2.	Skrytá vrstva:**
 - Neurony *H1* a *H2* přijímají vstupy od všech čtyř neuronů z vstupní vrstvy.
 - Váhy a biasy určují, jak se tyto vstupy kombinují.
+
 **3.	Výstupní vrstva:**
 - Neurony *O1* a *O2* přijímají vstupy od neuronů *H1* a *H2*.
 - Neuron *O1* může reprezentovat pravděpodobnost, že znak je “/”, a neuron *O2* pravděpodobnost, že znak je “\”.
 
-Proč jsme použili dva neurony ve skryté vrstvě? V neuronových sítích, zejména v těch s více vrstvami *(deep neural networks)*, jsou skryté vrstvy klíčové pro schopnost sítě učit se složité vzory a reprezentace. Počet neuronů ve skryté vrstvě je důležitým faktorem, který ovlivňuje výkonnost sítě. V tomto konkrétním příkladu jsme použili dva neurony ve skryté vrstvě, aby byla ilustrace jednoduchá a přehledná, a zároveň aby bylo možné zachytit více informací z vstupních dat. Odpovídá to dvěma očekávaným možnostem vstupu :)
+**Proč jsme použili dva neurony ve skryté vrstvě?** V neuronových sítích, zejména v těch s více vrstvami *(deep neural networks)*, jsou skryté vrstvy klíčové pro schopnost sítě učit se složité vzory a reprezentace. Počet neuronů ve skryté vrstvě je důležitým faktorem, který ovlivňuje výkonnost sítě. V tomto konkrétním příkladu jsme použili dva neurony ve skryté vrstvě, aby byla ilustrace jednoduchá a přehledná, a zároveň aby bylo možné zachytit více informací z vstupních dat. Odpovídá to dvěma očekávaným možnostem vstupu :)
 
 V dalším kroku provedeme Dopředný průchod přes skrytou vrstvu. Každé číslo z neuronu označeného I dorazí do neuronu označeného H po směru šipek. A na každém neuronu je provedena s přicházejícím číslem matematická operace, takzvaná aktivace. Každý neuron ve skryté vrstvě přijímá vstupy od všech 4 neuronů ve vstupní vrstvě. Pro jednoduchost uvážíme následující náhodně inicializované váhy a biasy:
 
@@ -54,7 +56,7 @@ Neuron 2 ve skryté vrstvě:
 
 ***Kontrolní otázka***: kde se vzala tato čísla pro Váhy a Bias? Zvolili jsme je náhodně. V reálných aplikacích se váhy inicializují náhodně a pak se optimalizují během procesu tréninku neuronové sítě, kdy bychom vzali v úvahu kýžený výsledek, tedy někdo by v rámci dat zaznačil, která matice je který znak. Neuronová síť by následně procesem učení byla schopna stanovit optimální Váhy a Bias tak, aby mohla být matice a tím i znak správně rozpoznán. 
 
-Nyní si spočítejme aktivaci pro první neuron pro znak / - tedy výsledek, který dostaneme na *H1*. 
+Nyní si spočítejme aktivaci pro první neuron pro znak / - tedy výsledek, který dostaneme na *H1*. Jako aktivační funkci použijeme ReLU z toho důvodu, že se pro tento typ dat hodí, správný výběr aktivační funkce je nicméně důležitý a je součástí vašeho budoucího know-how, jak optimalizovat neuronovou síť... 
 
 ```
 z_1 = (0 * 0.2) + (1 * -0.3) + (1 * 0.4) + (0 * 0.1) + 0.1
@@ -75,3 +77,61 @@ a_2 = ReLU(z_2) = max(0, z_2)
 a_2 = max(0, -0.1)
 a_2 = 0
 ```
+
+V dalším kroku se posouváme do výstupní vrstvy, provádíme takzvaný Dopředný průchod přes výstupní vrstvu:
+
+Každý neuron ve výstupní vrstvě přijímá vstupy od všech 2 neuronů ve skryté vrstvě. Pro jednoduchost uvážíme následující váhy a biasy:
+
+Neuron 1 ve výstupní vrstvě (pro znak “/”):
+- Váhy:  W_{output1} = [0.3, -0.5] 
+- Bias:  b_{output1} = 0.1 
+
+Neuron 2 ve výstupní vrstvě (pro znak “/”):
+- Váhy:  W_{output2} = [-0.2, 0.4] 
+- Bias:  b_{output2} = -0.1 
+
+Výpočet aktivace pro první neuron ve výstupní vrstvě:
+
+```
+z_{output1} = (0.4 * 0.3) + (0 * -0.5) + 0.1
+z_{output1} = 0.12 + 0 + 0.1
+z_{output1} = 0.22
+```
+
+```
+z_{output2} = (0.4 * -0.2) + (0 * 0.4) - 0.1
+z_{output2} = -0.08 + 0 - 0.1
+z_{output2} = -0.18
+```
+
+Nyní aplikujeme [funkci softmax](https://en.wikipedia.org/wiki/Softmax_function) na výstup obou neuronů ve výstupní vrstvě. V našem příkladu, kde rozpoznáváme znaky “/” a “\”, je softmax vhodná, protože nám umožňuje interpretovat výstupy neuronů jako pravděpodobnosti jednotlivých tříd (znaků). Bylo by možné použít i jiné funkce jako Sigmoid nebo Tanh, ale ty nejsou pro tento typ úlohy tak vhodné. Nebojte, praxí se naučíte volit, která aktivační funkce je zde nejvhodnější... 
+
+A nyní prakticky, jak aplikace softmaxu vypadá. 
+
+```
+softmax(z)_i = exp(z_i) / sum(exp(z_j) for j in range(2))
+```
+
+Pro ( z_{output1} = 0.22 ) a  z_{output2} = -0.18 tedy počítáme:
+ \exp(0.22) = 1.2461 
+ \exp(-0.18) = 0.8353 
+
+Součet:
+ \sum = 1.2461 + 0.8353 = 2.0814 
+
+Pravděpodobnost pro první třídu (”/”):
+ \text{softmax}(0.22) = \frac{1.2461}{2.0814} = 0.599 
+
+Pravděpodobnost pro druhou třídu (”\”):
+ \text{softmax}(-0.18) = \frac{0.8353}{2.0814} = 0.401 
+
+Výstupy softmax funkce jsou tedy:
+ [0.599, 0.401] 
+
+Shrnutí
+
+Pro znak “/”:
+ [0.574, 0.426] 
+
+Pro znak “\”:
+ [0.599, 0.401] 
