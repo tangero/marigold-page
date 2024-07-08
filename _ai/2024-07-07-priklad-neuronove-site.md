@@ -93,15 +93,15 @@ Neuron 2 ve výstupní vrstvě (pro znak “/”):
 Výpočet aktivace pro první neuron ve výstupní vrstvě:
 
 ```
-z_{output1} = (0.4 * 0.3) + (0 * -0.5) + 0.1
-z_{output1} = 0.12 + 0 + 0.1
-z_{output1} = 0.22
+z_{output1} = (0.2 * 0.3) + (0 * -0.5) + 0.1
+z_{output1} = 0.06 + 0 + 0.1
+z_{output1} = 0.16
 ```
 
 ```
-z_{output2} = (0.4 * -0.2) + (0 * 0.4) - 0.1
-z_{output2} = -0.08 + 0 - 0.1
-z_{output2} = -0.18
+z_{output2} = (0.2 * -0.2) + (0 * 0.4) - 0.1
+z_{output2} = -0.04 + 0 - 0.1
+z_{output2} = -0.14
 ```
 
 Nyní aplikujeme [funkci softmax](https://en.wikipedia.org/wiki/Softmax_function) na výstup obou neuronů ve výstupní vrstvě. V našem příkladu, kde rozpoznáváme znaky “/” a “\”, je softmax vhodná, protože nám umožňuje interpretovat výstupy neuronů jako pravděpodobnosti jednotlivých tříd (znaků). Bylo by možné použít i jiné funkce jako Sigmoid nebo Tanh, ale ty nejsou pro tento typ úlohy tak vhodné. Nebojte, praxí se naučíte volit, která aktivační funkce je zde nejvhodnější... 
@@ -112,26 +112,27 @@ A nyní prakticky, jak aplikace softmaxu vypadá.
 softmax(z)_i = exp(z_i) / sum(exp(z_j) for j in range(2))
 ```
 
-Pro ( z_{output1} = 0.22 ) a  z_{output2} = -0.18 tedy počítáme:
- \exp(0.22) = 1.2461 
- \exp(-0.18) = 0.8353 
+Provedeme tedy výpočet dosazením hodnot, omlouvám se za nepřehlednost, ale teprve se učím LaTex formát zápisu matematiky, snad si poradíte... 
 
-Součet:
- \sum = 1.2461 + 0.8353 = 2.0814 
+```
+exp(0.16) = 1.1735
+exp(-0.14) = 0.8694
 
-Pravděpodobnost pro první třídu (”/”):
- \text{softmax}(0.22) = \frac{1.2461}{2.0814} = 0.599 
+sum = 1.1735 + 0.8694 = 2.0429
 
-Pravděpodobnost pro druhou třídu (”\”):
- \text{softmax}(-0.18) = \frac{0.8353}{2.0814} = 0.401 
+softmax(0.16) = 1.1735 / 2.0429 = 0.574
+softmax(-0.14) = 0.8694 / 2.0429 = 0.426
+```
 
-Výstupy softmax funkce jsou tedy:
- [0.599, 0.401] 
+Výstupy softmax funkce jsou tedy: ```[0.574, 0.426]```
 
 Shrnutí
 
-Pro znak “/”:
- [0.574, 0.426] 
+Pro znak “/” nám vyšly pravděpodobnosti: [0.574, 0.426] - tedy s pravděpodobností 57,4 % se jedná o znak lomítka. 
 
-Pro znak “\”:
- [0.599, 0.401] 
+Pro znak “\” si je můžete výsledky dopočítat sami. Kontrola by neměla být těžká :)
+
+
+ Tak a už jsme doma. Neuronová síť usoudila s pravděpodobností 57,4 %, že znak "/" je znakem lomítka. Jak to, že to vyšlo, když jsem říkal, že záleží na hodnotách? Inu proto,že jsem váhy a bias vybral rozumně tak, aby to vyšlo a ne tak, aby hned první, co uvidíte, byla neuronka, která usoudila blbost, i když za to nemůže. Jak jsme si ale řekli, záleží zejména na váhách (A pak taky dobře zvolené aktivační funkci), že neuronka všechno správně rozpozná. A právě tohle je ten fine-tuning. Jen pro pořádek, znak zpětného lomítka jsme rozpoznali s pravděpodobností 59,9 % - taky to není špatné. 
+ 
+ Výpočty ukazují, jak softmax funkce převádí surové skóre na pravděpodobnosti, které umožňují interpretovat výstupy neuronové sítě jako pravděpodobnosti pro různé třídy. Bez tréninku mohou být tyto hodnoty náhodné, protože váhy a biasy nejsou optimalizovány.
