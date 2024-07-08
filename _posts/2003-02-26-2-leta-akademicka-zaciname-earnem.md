@@ -9,7 +9,11 @@ oldlink: >
 published: true
 post_date: 2003-02-26 12:13:00
 ---
-První počítačové sítě u nás - Fidonet a EARN...<!--more--><H4>Léta akademická </H4>
+První počítačové sítě u nás - Fidonet a EARN...
+
+<!--more-->
+
+<H4>Léta akademická </H4>
 <p>
 Pro českou republiku začíná být internet aktuální až v roce 1990, kdy Sametová revoluce v listopadu 1989 odstranila komunistickou nevoli ke komunikaci s "dekadentním západem". Jenže stav telekomunikační infrastruktury nebyl po dlouhou dobu na takové úrovni, aby bylo možno budovat podobně ambiciosní projekty, jakými v té době udivovaly svět USA a západní Evropa. České počátky byly podstatně skromější a po dlouhou dobu nebylo možno přemýšlet o komerčním využívání internetu v České republice (totéž platílo i o Slovensku). 
 <p>
