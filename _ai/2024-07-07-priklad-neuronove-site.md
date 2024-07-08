@@ -14,7 +14,11 @@ Tento obrázek znaku “/” v matici 2x2 body ilustruje, jak jsou hodnoty 0 a 1
 - Hodnota 0 označuje bílý pixel.
 
 Ve výsledné matici zápis vypadá takto. 
+```
 [0, 1]
 [1, 0]
+```
 
-Nyní ho převedeme na jednorozměrné pole, čili dáme řádky za sebe: [1, 0, 0, 1]. 
+Nyní ho převedeme na jednorozměrné pole, čili dáme řádky za sebe: ```[1, 0, 0, 1]```. 
+
+
