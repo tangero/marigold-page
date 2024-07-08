@@ -126,7 +126,11 @@ softmax(-0.14) = 0.8694 / 2.0429 = 0.426
 
 Výstupy softmax funkce jsou tedy: ```[0.574, 0.426]```
 
-Shrnutí
+Tady si to ještě ukážeme graficky pro vstup znaku / do neuronky s našimi váhami a biasem:
+
+![Neuronka s výsledky](/assets/neuronka-probehla.png)
+
+## Shrnutí
 
 Pro znak “/” nám vyšly pravděpodobnosti: ```[0.574, 0.426]``` - tedy s pravděpodobností 57,4 % se jedná o znak lomítka. 
 
