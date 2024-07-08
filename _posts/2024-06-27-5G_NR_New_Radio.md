@@ -19,7 +19,7 @@ Podívejme se v bodech na to, co je v NR nové a důležité:
 3.  **Masivní MIMO a formování paprsku (beamforming)** NR plně využívá potenciál masivního MIMO a pokročilého formování paprsku. Zatímco LTE již zavedlo základy MIMO, NR posouvá tuto technologii na zcela novou úroveň. Analogií může být přechod od jednoduchého zahradního postřikovače (LTE) k sofistikovanému systému přesného zavlažování (NR), který cíleně distribuuje vodu tam, kde je potřeba.
 4.  **Nové modulační schéma** - NR zavádí **256QAM** pro downlink i uplink, oproti LTE, které používalo 64QAM pro uplink. Je to opravdu znatelný rozdíl v efektivitě umožňující přenos většího množství dat ve stejném spektrálním prostoru.
 5.  Podpora **mmWave frekvencí** Jednou z nejvýznamnějších inovací NR je podpora mmWave frekvencí (24 GHz a výše). To otevírá zcela nové možnosti pro ultra-vysokorychlostní přenosy dat, ale zároveň přináší nové výzvy v oblasti pokrytí.
-6.  **Nativní podpora nízké latence** - NR je navržen s ohledem na ultra-nízkou latenci (URLLC - Ultra-Reliable Low-Latency Communication). To zahrnuje kratší intervaly přenosu (TTI) a možnost přednostního zpracování kritických dat.
+6.  **Nativní podpora nízké latence** - NR je navržen s ohledem na ultra-nízkou latenci ([URLLC - Ultra-Reliable Low-Latency Communication](/mobilnisite/urllc/)). To zahrnuje kratší intervaly přenosu (TTI) a možnost přednostního zpracování kritických dat.
 7.  **Network Slicing** - Ačkoli není výhradně součástí rádiového rozhraní, NR je navržen s ohledem na network slicing. To umožňuje vytvoření virtuálních sítí s různými charakteristikami na stejné fyzické infrastruktuře. Pro každý typ služby používané v mobilní síti a tedy pro uživatele používajícího momentálně tuto službu lze zvolit jen ty části sítě, které jsou pro obsluhu takové služby bezpodmínečně nutné - a tím urychlit provoz i snížit nároky na síť.
 8.  **Nová architektura sítě** NR přináší možnost samostatného (SA Standalone) nebo nesamostatného (NSA Non Standalone) nasazení. NSA využívá existující LTE infrastrukturu pro řídící rovinu, zatímco SA představuje čistě 5G řešení. Toto lze přirovnat k hybridnímu automobilu (NSA) versus plně elektrickému vozidlu (SA).
 
@@ -49,7 +49,7 @@ Zde je tabulka porovnávající klíčové aspekty New Radio (NR) z Release 15 s
 | Frekvenční pásma | Primárně pod 6 GHz | Pod 6 GHz a mmWave (až do 52.6 GHz) |
 | MIMO | Do 8x8 MIMO | Masivní MIMO (až 256 antén) |
 | Modulace (DL/UL) | 256QAM/64QAM | 256QAM/256QAM |
-| Latence | ~10 ms | Cílí na <1 ms (URLLC) |
+| Latence | ~10 ms | Cílí na <1 ms ([URLLC](/mobilnisite/urllc/)) |
 | Formování paprsku | Základní | Pokročilé 3D beamforming |
 | Hustota připojení | ~100,000 zařízení/km² | Až 1 milion zařízení/km² |
 | Maximální rychlost dat | 1 Gbps (LTE-Advanced) | Teoreticky až 20 Gbps |
@@ -82,7 +82,7 @@ NR (New Radio) se v následujících vydáních 3GPP po Release 15 dále vyvíj�
 3. Non-Terrestrial Networks (NTN): Podpora pro satelitní a vzdušné platformy.
 4. Multi-SIM: Vylepšená podpora pro zařízení s více SIM kartami.
 5. Sidelink vylepšení: Rozšířené možnosti pro přímou komunikaci mezi zařízeními.
-6. Vylepšení pro průmyslový IoT a URLLC.
+6. Vylepšení pro průmyslový IoT a [URLLC](/mobilnisite/urllc/).
 7. Multicast a broadcast služby: Efektivnější distribuční mechanismy.
 8. AI/ML integrace do rádiového rozhraní.
 
