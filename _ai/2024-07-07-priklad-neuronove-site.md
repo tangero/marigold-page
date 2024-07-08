@@ -27,8 +27,8 @@ Nyní máme tedy vstupní data reprezentovaná čtveřicí čísel a tato data p
 
 
 **1.	Vstupní vrstva:**
-- Neurony *I1*, *I2*, *I3*, *I4* reprezentují jednotlivé pixely matice 2x2.
-- Pro znak “/” má vstupní pole hodnoty  `[0, 1, 1, 0]` .
+- Neurony *I1*, *I2*, *I3*, *I4* reprezentují jednotlivé pixely matice 2x2, tedy máme čtyři vstupní neurony.
+- Pro znak “/” má vstupní pole hodnoty  `[0, 1, 1, 0]` - to tedy pouštíme do neuronky v prvním vstupu. 
 
 **2.	Skrytá vrstva:**
 - Neurony *H1* a *H2* přijímají vstupy od všech čtyř neuronů z vstupní vrstvy.
