@@ -20,7 +20,7 @@ Na co použít umělou inteligenci? Dnes už na mnoho věcí. Tady jsou příkla
 
     Co je to za obilí?​​​​​​​​​​​​​​​​
     
-![Obilí](/assets/obili.png =300x){height=400px width=500px}   
+![Obilí](/assets/obili.png){height=400px width=500px}   
 
 Na základě obrázku se jedná o ječmen (Hordeum vulgare). Toto obilí lze identifikovat podle několika charakteristických znaků:
 
@@ -38,7 +38,7 @@ Ječmen je jednou z nejstarších kultivovaných obilnin a je široce využívá
 
     Jak mi sluší toto oblečení? Doporučujes nějaký jiný outfit na procházku městem?​​​​​​​​​​​​​​​​
 
-![Outfit](/assets/outfit.png =300x){height=400px width=500px}   
+![Outfit](/assets/outfit.png){height=400px width=500px}   
 
 Vaše současné oblečení vypadá vhodně a pohodlně pro procházku městem a na pláži. Máte na sobě praktickou kombinaci tmavé bundy, světlé košile a tmavých kalhot, což je univerzální a stylový outfit pro městské prostředí.
 
