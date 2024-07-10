@@ -29,7 +29,7 @@ Ječmen je jednou z nejstarších kultivovaných obilnin a je široce využívá
 
     Jak mi sluší toto oblečení? Doporučujes nějaký jiný outfit na procházku městem?​​​​​​​​​​​​​​​​
 
-![Obilí](/assets/obili.png)    
+![Obilí](/assets/outfit.png)    
 
 Vaše současné oblečení vypadá vhodně a pohodlně pro procházku městem a na pláži. Máte na sobě praktickou kombinaci tmavé bundy, světlé košile a tmavých kalhot, což je univerzální a stylový outfit pro městské prostředí.
 
