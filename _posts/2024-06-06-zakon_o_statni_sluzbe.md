@@ -5,7 +5,7 @@ categories: [Politika]
 excerpt: Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůli tomu nejsou schopni implementovat svoji politiku, protože úřady jsou v rozkladu. 
 post_date: 2024-06-06 10:48:16
 featured: true
-thumbnail: https://www.marigold.cz/assets/stavebni_urad.webp
+thumbnail: https://www.marigold.cz/assets/kolapsceska.png
 ---
 
 ---
