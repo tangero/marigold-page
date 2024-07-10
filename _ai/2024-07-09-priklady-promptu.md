@@ -8,8 +8,8 @@ order:
 Na co použít umělou inteligenci? Dnes už na mnoho věcí. Tady jsou příklady promtpů, které na ni používám já… 
 
 
-- [Rozpoznávání zvířat a rostlin](#rozpoznávání-zvíat-a-rostlin)
-- [Doporučení outfitu](#doporuení-outfitu)
+- [Rozpoznávání zvířat a rostlin](#rozpoznávání-zvířat-a-rostlin)
+- [Doporučení outfitu](#doporučení-outfitu)
 
 
 
