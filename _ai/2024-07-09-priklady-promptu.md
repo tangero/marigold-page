@@ -7,6 +7,15 @@ order:
 
 Na co použít umělou inteligenci? Dnes už na mnoho věcí. Tady jsou příklady promtpů, které na ni používám já… 
 
+
+<!— TOC start (generated with https://github.com/derlin/bitdowntoc) —>
+
+- [Rozpoznávání zvířat a rostlin](#rozpoznávání-zvíat-a-rostlin)
+- [Doporučení outfitu](#doporuení-outfitu)
+
+<!— TOC end —>
+
+
 ## Rozpoznávání zvířat a rostlin
 
     Co je to za obilí?​​​​​​​​​​​​​​​​
