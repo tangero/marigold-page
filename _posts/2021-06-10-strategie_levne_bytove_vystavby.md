@@ -4,7 +4,7 @@ title:  Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a 
 categories: [Bydlení, Politika]
 excerpt: Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, aby bylo bydlení levnější.
 featured: true
-thumbnail: https://www.marigold.cz/asset/strategie-bydleni.png
+thumbnail: https://www.marigold.cz/assets/strategie-bydleni.png
 ---
 
 
