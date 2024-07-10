@@ -2,11 +2,13 @@
 layout: post
 title:  Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat
 categories: [Bydlení, Politika]
-excerpt: Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. Téma jsme pro vás zpracovali s pirátským kolegou Matoušem Vančou, vedoucím expertního týmu pro místní rozvoj a také středočeským kandidátem v do Poslanecké sněmovny. 
+excerpt: Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, aby bylo bydlení levnější.
+featured: true
+thumbnail: https://www.marigold.cz/asset/strategie-bydleni.png
 ---
 
 
-Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. Téma jsme pro vás zpracovali s pirátským kolegou Matoušem Vančou, vedoucím expertního týmu pro místní rozvoj a také středočeským kandidátem v do Poslanecké sněmovny. A pokud chcete, **k dispozici je i [audioverze tohoto článku](https://anchor.fm/patrick-zandl/episodes/Specil-27-K-levnmu-bydlen-se-neprodanme--musme-zpehlednit-a-deregulovat-e128tpo).**
+Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, aby bylo bydlení levnější A pokud chcete, **k dispozici je i [audioverze tohoto článku](https://anchor.fm/patrick-zandl/episodes/Specil-27-K-levnmu-bydlen-se-neprodanme--musme-zpehlednit-a-deregulovat-e128tpo).**
 
 Jak je to s bydlením, proč je drahé a jak ho udělat levné? Piráti se Starosty k tomu publikovali poměrně obsáhlé programové body ([Dostupnější bydlení pro důstojné žití](https://www.piratiastarostove.cz/program/dostupnejsi-bydleni-pro-dustojne-ziti/)  a [Jednodušší výstavba se zapojením veřejnosti](https://www.piratiastarostove.cz/program/jednodussi-vystavba-se-zapojenim-verejnosti/)), které si shrneme a rozvedeme.
 
