@@ -8,19 +8,16 @@ order:
 Na co použít umělou inteligenci? Dnes už na mnoho věcí. Tady jsou příklady promtpů, které na ni používám já… 
 
 
-<!— TOC start (generated with https://github.com/derlin/bitdowntoc) —>
-
 - [Rozpoznávání zvířat a rostlin](#rozpoznávání-zvíat-a-rostlin)
 - [Doporučení outfitu](#doporuení-outfitu)
 
-<!— TOC end —>
 
 
 ## Rozpoznávání zvířat a rostlin
 
     Co je to za obilí?​​​​​​​​​​​​​​​​
     
-![Obilí](/assets/obili.png){height=400px width=500px}   
+![Obilí](https://res.cloudinary.com/dvwv5cne3/image/fetch/h_400,c_limit/https://www.marigold.cz/assets/obili.png) 
 
 Na základě obrázku se jedná o ječmen (Hordeum vulgare). Toto obilí lze identifikovat podle několika charakteristických znaků:
 
@@ -38,7 +35,7 @@ Ječmen je jednou z nejstarších kultivovaných obilnin a je široce využívá
 
     Jak mi sluší toto oblečení? Doporučujes nějaký jiný outfit na procházku městem?​​​​​​​​​​​​​​​​
 
-![Outfit](/assets/outfit.png){height=400px width=500px}   
+![Outfit](https://res.cloudinary.com/dvwv5cne3/image/fetch/h_400,c_limit/https://www.marigold.cz/assets/outfit.png)  
 
 Vaše současné oblečení vypadá vhodně a pohodlně pro procházku městem a na pláži. Máte na sobě praktickou kombinaci tmavé bundy, světlé košile a tmavých kalhot, což je univerzální a stylový outfit pro městské prostředí.
 
