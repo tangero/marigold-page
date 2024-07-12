@@ -8,6 +8,8 @@ oldlink: >
   https://www.marigold.cz/item/zamrzla-evoluce-ve-svete-techniky
 published: true
 post_date: 2016-04-22 11:34:36
+featured: true
+thumbnail: https://www.marigold.cz/assets/zamrzla-evoluce.png
 ---
 <p>Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okrajově jsem se totiž na přednášce dotkl tématu, které by si zasloužilo samostatný prostor. A proto bych mu jej rád věnoval.</p>
 
@@ -18,7 +20,7 @@ post_date: 2016-04-22 11:34:36
 
 <p>Flegr se teorií zamrzlé evoluce snaží reagovat na jednu z výhrad proti neodarvinistické teorii o vývoji druhů, tedy na fakt, že druhy se od určitého okamžiku téměř přestávají vyvíjet a adaptovat. Flegr soudí, že po počátečním bouřlivém vývoji zvítězí určité znaky v organismech, které jsou v tu dobu evolučně nejvýhodnější a evoluce zamrzá. Při mírné změně podmínek nedojde k vývoji nového znaku, ale adaptaci znaku stávajícího - například lidé mají zuby, které již neodpovídají skladbě jejich potravy. To také znamená, že při velké změně vnějších podmínek druh není schopen se přizpůsobit a je ohrožen - což se také v minulosti stalo.</p>
 
-<p><img style="float: right;" title="zamrzla-evoluce-aneb-je-to-jinak-pane-darwin.jpg" src="http://www.marigold.cz/wp-content/uploads/zamrzla-evoluce-aneb-je-to-jinak-pane-darwin.jpg" alt="Zamrzla evoluce aneb je to jinak pane darwin" width="230" height="335" border="0" /></p>
+![Zamrzlá evoluce kniha](/assets/zamrzla-evoluce-aneb-je-to-jinak-pane-darwin.jpg)
 
 <p>Teorie zamrzlé evoluce velmi dobře vysvětluje “revoluční období” na nejrůznějších trzích, jen musíte změnit slovník.</p>
 
