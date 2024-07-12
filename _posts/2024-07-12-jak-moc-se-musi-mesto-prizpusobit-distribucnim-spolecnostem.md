@@ -18,7 +18,7 @@ Jenže větší města na takovou službu nebývají připravená. Parkování j
 
 Novým fenoménem pak jsou distribuční boxy. Distribuční firmy je cpou tam, kde dostanou nájemní smlouvu za lacino, kde je prostor a kde je dostatek lidí. A pak vznikají taková nádherná zátiší, která jsou rozhodně urbanistickým skvostem. Jiná zátiší zase nemají dopravní obslužnost, jenže zaměstnancům distribuček se nechce věci tahat 200 metrů z parkoviště, takže si zajedou na chodník a počítají s tím, že než na ně někdo vlítne, tak zmizí. Že chodník ničí, je třešnička na dortu. 
 
-![VZnikají moderní uličky nákupní hamby](/assets/IMG_4426.jpeg)
+![VZnikají moderní uličky nákupní hanby](/assets/IMG_4426.jpeg)
 
 A teď je otázka, co s tím. Moderní doba si to zřejmě žádá. Proč by někdo měl plánovat, jak svou firmu zásobovat jednou týdne vším, co firma potřebuje, když si to může nechat za pakatel dovézt chvíli poté, co si na chybějící věc vzpomene? Jenže tím se přenášejí náklady na společnost. Zhoršuje se životní prostředí ve městě, protože se všude motají dopravní prostředky distribučních společností. Najdete je zpravidla tam, kde je dopravní situace nejhorší, protože tam jsou jejich zákazníci. 
 
