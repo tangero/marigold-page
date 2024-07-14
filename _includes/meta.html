@@ -25,6 +25,7 @@
     {% elsif page.thumbnail %}
     <!-- page.thumbnail -->
     {% assign thumbnail_url = page.thumbnail | replace: 'http://', 'https://' %}
+        <!-- page.thumbnail {{ page.thumbnail }} | {{ post.thumbnail }} -->
     <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}"/>
     <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}"/>
     {% elsif page.image %}
