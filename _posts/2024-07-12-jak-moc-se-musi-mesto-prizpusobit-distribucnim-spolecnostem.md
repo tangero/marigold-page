@@ -40,3 +40,12 @@ Abych to shrnul, máme tu několik otázek:
 3. Jde o problém krátkodobý, nebo dlouhodobý? Je to jen dočasná móda, která za pár let zmizí a má se tím tedy město (jehož reakční doba se počítá spíše na roky) vůbec zabývat? 
 
 Osobně vidím nejlepší řešení v tlaku na malé dopravní prostředky, tedy kola, elektrokola a elektrokoloběžky. Ty jsou flexibilní. Jenže ta nebudou používat větší distribučky, Alzabox  či Zásilkovnu jím snadno nezavezete. Tam už se vyplatí tlačit na to, aby odběrná místa vznikala jen tam, kde parkování není problém. Přeci jen, otevřít si výdejní místo uprostřed pěší zóny může být atraktivní z pohledu odběratele, ale tak nějak by se mělo počítat s dopravní obslužností...  
+
+<script src="https://utteranc.es/client.js"
+        repo="tangero/marigold-page"
+        issue-term="url"
+        label="Comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
