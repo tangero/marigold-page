@@ -17,9 +17,9 @@
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
 
-    {% if page.thumbnail %}
-    <meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}"/>
-    <meta property="twitter:image" content="{{ site.url }}{{ page.thumbnail }}"/>
+    {% if post.thumbnail %}
+    <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}"/>
+    <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}"/>
     {% elsif page.image %}
     <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
     <meta property="twitter:image" content="{{ site.url }}{{ page.image }}"/>
@@ -27,7 +27,7 @@
     <meta property="og:image" content="{{ site.url }}{{ site.avatar }}"/>
     <meta property="twitter:image" content="{{ site.url }}{{ site.avatar }}"/>
     {% endif %}
-    
+
     <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
 
     {% if page.tipue_search_active or layout.tipue_search_active %}
