@@ -74,6 +74,8 @@ layout: default
 
   </div>
 
+  {% include welcomments/comments.html website_id = "ztUcqjd5JisGO2s1U7LvUxySG" %}
+
   {% if page.collection == 'ai' and page.layout == 'post' %}
   <div class="ai-rubric-link">
     <blockquote> 
@@ -152,6 +154,4 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>-->
 
-  {% include welcomments/comments.html website_id = "ztUcqjd5JisGO2s1U7LvUxySG" %}
-  {% include disqus.html %}
 </article>
