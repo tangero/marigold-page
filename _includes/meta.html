@@ -18,12 +18,19 @@
     {% endif %}
 
     {% if post.thumbnail %}
+    <!-- post.thumbnail -->
+    <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}"/>
+    <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}"/>
+    {% elsif page.thumbnail %}
+    <!-- page.thumbnail -->
     <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}"/>
     <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}"/>
     {% elsif page.image %}
+    <!-- page.image -->
     <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
     <meta property="twitter:image" content="{{ site.url }}{{ page.image }}"/>
     {% else %}
+    <!-- else -->    
     <meta property="og:image" content="{{ site.url }}{{ site.avatar }}"/>
     <meta property="twitter:image" content="{{ site.url }}{{ site.avatar }}"/>
     {% endif %}
