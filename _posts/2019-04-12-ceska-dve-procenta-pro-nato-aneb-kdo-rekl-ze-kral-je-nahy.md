@@ -3,6 +3,7 @@ layout: post
 title: Česká dvě procenta pro NATO aneb Kdo řekl, že král je nahý?
 categories: [Politika, NATO, Piráti]
 excerpt: 
+thumbnail: https://zivotvcesku.cz/wp-content/uploads/2020/11/image_new-project-2020-11-05t091657-645_20-11-05-09-17-09-680x382.png
 ---
 
 
