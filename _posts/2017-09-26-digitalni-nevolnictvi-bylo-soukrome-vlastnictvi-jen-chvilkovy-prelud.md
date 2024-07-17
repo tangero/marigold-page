@@ -2,10 +2,11 @@
 ID: 3829
 title: 'Digitální nevolnictví: Bylo soukromé vlastnictví jen chvilkový přelud?'
 author: Patrick Zandl
-post_excerpt: ""
+post_excerpt: "Mám rád soukromé vlastnictví. O to více mě matou náznaky rekonstrukce tohoto konceptu, které ještě ke všemu vycházejí z digitálního světa. Přitom digitální svět jsem původně považoval za východisko soukromí i vlastnictví a možnost, jak obojí prohlubovat. Jenže digitálno se postupně stává spíše jeho pohřebištěm."
 layout: post
 published: true
 post_date: 2017-09-26 15:04:32
+thumbnail: https://www.marigold.cz/assets/digitalni-nevolnictvi.png
 ---
 <strong>TL;DR:</strong> softwarové EULA a DRM se stávají omezením soukromého vlastnictví, neboť software je dnes součástí skoro všeho. A vlastně to nikoho nepřekvapuje a nikdo to nerozporuje. Bude soukromé vlastnictví zase výjimečné, jako tomu bylo většinu historie lidstva?
 
