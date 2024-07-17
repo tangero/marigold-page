@@ -2,10 +2,11 @@
 ID: 3770
 title: 'Negativní efekty moderních technologií: případ Big Data, Baracka Obamy a&nbsp;Obamacare'
 author: Patrick Zandl
-post_excerpt: ""
+post_excerpt: "Případ “Obamacare”, tedy Zákonu o ochraně pacientů a dostupné péči. Na něm se nám ukazuje, že moderní technologie nemají vždy jen ten zamýšlený efekt a změny, které přinášejí, mohou být složitější, komplexnější. "
 layout: post
 published: true
 post_date: 2017-07-02 19:59:10
+thumbnail: https://netivist.org/uploads/forum/discussions/pictures/53720c7355f4f50310886f02/pros-and-cons-of-obamacare.jpg
 ---
 Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. Jenže stále častěji je patrné, že bezbolestný vstup moderních technologií do lidských životů, kdy naplňovaly jen potřebu a latentní poptávku, je ten tam. Ano, nakonec se ukázalo, že kvůli emailům nezkrachovaly poštovní úřady a i když k jisté restrukturalizaci tržních vertikál docházelo, v úhrnu jednotlivé vertiákály naopak rostly díky intenzifikaci využití a tím i zvýšení dostupnosti produktů z dané vertikály. Jenže doba pokročila a ukazuje se i odvrácená strana pokroku.
 
