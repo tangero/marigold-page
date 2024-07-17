@@ -5,6 +5,7 @@ author: Patrick Zandl
 post_excerpt: "Případ “Obamacare”, tedy Zákonu o ochraně pacientů a dostupné péči. Na něm se nám ukazuje, že moderní technologie nemají vždy jen ten zamýšlený efekt a změny, které přinášejí, mohou být složitější, komplexnější. "
 layout: post
 published: true
+featured: true
 post_date: 2017-07-02 19:59:10
 thumbnail: https://netivist.org/uploads/forum/discussions/pictures/53720c7355f4f50310886f02/pros-and-cons-of-obamacare.jpg
 ---
