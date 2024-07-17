@@ -6,6 +6,8 @@ excerpt: "Projektový manažer je v Česku sprosté slovo. Většinou je to týp
 layout: post
 published: true
 post_date: 2018-06-25 14:00:21
+thumbnail: https://oeru.org/assets/coursepage/Project-management-flow-chart.jpg
+featured: true
 ---
 Na <a href="http://prague.makerfaire.com">Makers Faire</a> jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější bude <a href="https://www.docdroid.net/cp4QB7n/od-bastlu-k-produktu-makers-faire-2018.pdf">shrnout pár ponaučení</a>, na což jsem měl deset minut. Jak udělat z prototypu produkt, který jde do prodeje? To je častá myšlenka: něco jste spájeli, spíchli tomu software, nákladově vás to vyšlo na třetinu profiřešení, to by se za poloviční cenu parádně prodávalo, ne? No a já se vlastně celý život živím tím, že věc posouvám z fáze protyp do fáze prodávaný produkt, přičemž posledních mnoho let to dělám pro jiné firmy a pro cizí nápady, což mě mimochodem baví více, než se sám nutit něco v IT vymýšlet jen proto, že se to ode mne čeká. Jsem prostě projektový manažer.
 
