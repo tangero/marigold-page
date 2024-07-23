@@ -358,16 +358,43 @@ nav {
   border-bottom: none;
 }
 
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    /*border-left: 2px solid $gray;*/
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-    background-color: #ede1ff;
-  }
+CSS pro styling Claude odpovědí
+
+/* Styl pro citace */
+blockquote {
+    background-color: #f9f9f9;
+    border-left: 4px solid #0077b6;
+    margin: 1.5em 0;
+    padding: 1em;
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Styl pro označení "Assistant:" */
+blockquote strong:first-child {
+    color: #0077b6;
+    font-size: 1.1em;
+    display: block;
+    margin-bottom: 0.5em;
+}
+
+/* Styl pro bloky kódu uvnitř citací */
+blockquote pre {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 1em;
+    overflow-x: auto;
+}
+
+/* Styl pro inline kód */
+blockquote code {
+    background-color: #f0f0f0;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-family: monospace;
+}
 
   .you-may-like{
     margin: 1.8em .8em;
