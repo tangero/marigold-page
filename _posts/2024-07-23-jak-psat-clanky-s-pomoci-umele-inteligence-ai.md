@@ -24,8 +24,9 @@ Jak si postavit kostru článku? Teď je správná chvíle obrátit se na AI - j
 	
 Dostáváme zhruba takovouto odpověď:
 
-** Článek o územněsprávních reformách by měl mít komplexní strukturu, která pokrývá všechny klíčové aspekty tématu. Zde je návrh struktury a obsahu takového článku:**
-
+--- 
+> Článek o územněsprávních reformách by měl mít komplexní strukturu, která pokrývá všechny klíčové aspekty tématu. Zde je návrh struktury a obsahu takového článku:
+>
 > 1. Úvod
 >   - Definice územněsprávní reformy
 >   - Význam a aktuálnost tématu
@@ -78,7 +79,7 @@ Dostáváme zhruba takovouto odpověď:
 >
 >Tento článek by měl obsahovat aktuální data, příklady z praxe, a měl by být vyvážený, prezentující jak výhody, tak i potenciální rizika a nevýhody územněsprávních reforem. Je také důležité zahrnout různé perspektivy - od politiků přes odborníky až po občany.
 >
-
+---
 
 Tady vidíte, že navržená struktura se hodí spíše pro disertační práci, než pro běžný novinový článek. Je to dáno tím, že volně dostupné studentské školní práce jsou častými vstupní tréninkovými daty pro AI. Buďto si s tím poradíte, nebo předefinujete prompt třeba následovně: 
 
