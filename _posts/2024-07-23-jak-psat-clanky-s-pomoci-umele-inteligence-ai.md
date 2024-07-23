@@ -199,7 +199,7 @@ Má pravdu. Porovnání efektivity vyřeším tím, že přidávám link. Hlubš
 
 Tak a je to. Pomocí AI jsme provedli poměrně obsáhlý průzkum, který nám pomohl se nejenom obsáhle zorientovat v tématu jak v českém kontextu, tak i celosvětově. Prošli jsme si zajímavé příklady ze zahraničí, prostudovali studie. AI v našem případě pomáhala se strukturou článku, s jeho vyvážeností, se zdroji dat, samotný článek jsme si napsali sami, svými slovy, svým pohledem. 
 
-> Tipy na závěr: 
+> **💡 Tipy na závěr:**
 > - Předplatné za AI (ať již Claude nebo ChatGPT) je nutností
 > - předplatné Deeplu taky, je výrazně lepší. Budete potřebovat ještě plugin, nejlepší je do Chrome, pak Firefox a Edge, pro Safari jsou jen horší pluginy třetích stran. 
 > - pro analýzu textů a studií je dobré vytvořit v Claude Projekt a do něj všechny soubory nahrát. Odpovědi pak déle trvají, ale využívají i podklady v souborech. 
