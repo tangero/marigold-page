@@ -85,45 +85,42 @@ Tady vidíte, že navržená struktura se hodí spíše pro disertační práci,
 
 >  Když by mělo jít o článek do magazínu o státní správě, přičemž je zde limit 6000 znaků a měl by být čtivý a zajímavý pro poučeného čtenáře zběhlého v české státní správě, jakou strukturu navrhuješ?
 
-```
-Pro článek do magazínu o státní správě s limitem 6000 znaků, zaměřený na poučeného čtenáře zběhlého v české státní správě, bych navrhl následující strukturu:
-
-1. Úvod (cca 500 znaků)
-   - Chytlavý úvod s aktuálním kontextem územněsprávních reforem
-   - Stručné nastínění hlavní teze článku
-
-2. Historický exkurz a současný stav (cca 1000 znaků)
-   - Krátký přehled klíčových reforem v ČR
-   - Současná situace a aktuální výzvy
-
-3. Mezinárodní srovnání - dva až tři zajímavé příklady (cca 1500 znaků)
-   - Výběr relevantních zahraničních příkladů (např. Dánsko, Francie)
-   - Stručná analýza jejich úspěchů a neúspěchů
-
-4. Klíčové aspekty úspěšných reforem (cca 1500 znaků)
-   - Ekonomické faktory
-   - Politické a sociální aspekty
-   - Inovativní přístupy (např. meziobecní spolupráce, digitalizace)
-
-5. Aplikace na český kontext (cca 1000 znaků)
-   - Možnosti a výzvy pro ČR
-   - Konkrétní doporučení nebo návrhy
-
-6. Závěr a výhled do budoucna (cca 500 znaků)
-   - Shrnutí hlavních myšlenek
-   - Podnět k zamyšlení nebo diskusi
-
-Tipy pro zvýšení čtivosti a zajímavosti:
-
-1. Použijte konkrétní příklady a případové studie
-2. Vložte 1-2 grafické prvky (infografika, mapa) pro vizuální atraktivitu
-3. Použijte podnadpisy pro lepší orientaci v textu
-4. Vložte citáty odborníků nebo zajímavé statistiky
-5. Zakončete článek otevřenou otázkou nebo výzvou k dalšímu přemýšlení
-
-Tento formát umožní pokrýt klíčové aspekty tématu, přičemž zůstane dostatečně stručný a zajímavý pro cílovou skupinu čtenářů. Důraz by měl být kladen na relevanci pro českou státní správu a na praktické implikace diskutovaných reforem.
-
-```
+>Pro článek do magazínu o státní správě s limitem 6000 znaků, zaměřený na poučeného čtenáře zběhlého v české státní správě, bych navrhl následující strukturu:
+>
+> 1. Úvod (cca 500 znaků)
+>   - Chytlavý úvod s aktuálním kontextem územněsprávních reforem
+>   - Stručné nastínění hlavní teze článku
+>
+> 2. Historický exkurz a současný stav (cca 1000 znaků)
+>    - Krátký přehled klíčových reforem v ČR
+>    - Současná situace a aktuální výzvy
+>
+> 3. Mezinárodní srovnání - dva až tři zajímavé příklady (cca 1500 znaků)
+>   - Výběr relevantních zahraničních příkladů (např. Dánsko, Francie)
+>   - Stručná analýza jejich úspěchů a neúspěchů
+>
+> 4. Klíčové aspekty úspěšných reforem (cca 1500 znaků)
+>   - Ekonomické faktory
+>   - Politické a sociální aspekty
+>   - Inovativní přístupy (např. meziobecní spolupráce, digitalizace)
+>
+> 5. Aplikace na český kontext (cca 1000 znaků)
+>   - Možnosti a výzvy pro ČR
+>   - Konkrétní doporučení nebo návrhy
+>
+> 6. Závěr a výhled do budoucna (cca 500 znaků)
+>   - Shrnutí hlavních myšlenek
+>   - Podnět k zamyšlení nebo diskusi
+>
+> Tipy pro zvýšení čtivosti a zajímavosti:
+>
+> 1. Použijte konkrétní příklady a případové studie
+> 2. Vložte 1-2 grafické prvky (infografika, mapa) pro vizuální atraktivitu
+> 3. Použijte podnadpisy pro lepší orientaci v textu
+> 4. Vložte citáty odborníků nebo zajímavé statistiky
+> 5. Zakončete článek otevřenou otázkou nebo výzvou k dalšímu přemýšlení
+>
+> Tento formát umožní pokrýt klíčové aspekty tématu, přičemž zůstane dostatečně stručný a zajímavý pro cílovou skupinu čtenářů. Důraz by měl být kladen na relevanci pro českou státní správu a na praktické implikace diskutovaných reforem.
 
 Dostali jsme velmi dobrou radu, kterou je možné rovnou využít. Nyní je nutné jednotlivé části osnovy začít zahušťovat článkem. I pokud jste studovali politologii či veřejnou správu, asi si nevybavujete detaily územněprávních reforem, přitom by bylo skutečně dobré malou historickou douškou článek otevřít. Nechme opět pracovat AI a zadejme jí tento prompt, přičemž připomínám, že všechny prompty dávám do jednoho chat okna, aby AI držela kontext povídání:
 
@@ -173,32 +170,30 @@ Podobně si můžete s AI urovnat myšlenky na všechny zbývající části čl
 
 Nahrávám svůj článek a dostávám hodnocení:
 
-```
-Tento článek poskytuje komplexní pohled na téma slučování obcí, zejména v kontextu České republiky a s porovnáním se zahraničními zkušenostmi. Zde jsou mé postřehy:
-
-1. Čitelnost a srozumitelnost:
-   - Článek je dobře strukturovaný a logicky členěný.
-   - Používá srozumitelný jazyk a vysvětluje odborné termíny.
-   - Obsahuje konkrétní příklady a čísla, což pomáhá čtenáři lépe pochopit problematiku.
-
-2. Informační vyváženost:
-   - Článek prezentuje jak argumenty pro slučování obcí, tak i proti němu.
-   - Uvádí zkušenosti z různých zemí (Dánsko, Německo, Francie), což poskytuje širší perspektivu.
-   - Zmiňuje jak očekávané přínosy, tak i potenciální rizika a problémy.
-
-3. Obsah:
-   - Článek pokrývá širokou škálu aspektů: ekonomické důvody, politické dopady, sociální aspekty.
-   - Poskytuje historický kontext reforem v jiných zemích.
-   - Nabízí alternativní řešení k úplnému slučování obcí.
-
-4. Co by mohlo být doplněno nebo vylepšeno:
-   - Více konkrétních dat o situaci v ČR, například srovnání efektivity malých a velkých obcí.
-   - Hlubší analýza právních aspektů slučování obcí v českém kontextu.
-   - Více informací o názorech a postojích českých občanů a politiků k této otázce.
-   - Případová studie úspěšného (nebo neúspěšného) sloučení obcí v ČR, pokud taková existuje.
-
-Celkově hodnotím článek jako informativní, vyvážený a dobře zpracovaný. Poskytuje čtenáři dobrý přehled o problematice a podněcuje k dalšímu zamyšlení nad tématem.
-```
+> Tento článek poskytuje komplexní pohled na téma slučování obcí, zejména v kontextu České republiky a s porovnáním se zahraničními zkušenostmi. Zde jsou mé postřehy:
+>
+> 1. Čitelnost a srozumitelnost:
+>   - Článek je dobře strukturovaný a logicky členěný.
+>   - Používá srozumitelný jazyk a vysvětluje odborné termíny.
+>   - Obsahuje konkrétní příklady a čísla, což pomáhá čtenáři lépe pochopit problematiku.
+>
+> 2. Informační vyváženost:
+>   - Článek prezentuje jak argumenty pro slučování obcí, tak i proti němu.
+>   - Uvádí zkušenosti z různých zemí (Dánsko, Německo, Francie), což poskytuje širší perspektivu.
+>   - Zmiňuje jak očekávané přínosy, tak i potenciální rizika a problémy.
+>
+> 3. Obsah:
+>   - Článek pokrývá širokou škálu aspektů: ekonomické důvody, politické dopady, sociální aspekty.
+>   - Poskytuje historický kontext reforem v jiných zemích.
+>   - Nabízí alternativní řešení k úplnému slučování obcí.
+>
+> 4. Co by mohlo být doplněno nebo vylepšeno:
+>   - Více konkrétních dat o situaci v ČR, například srovnání efektivity malých a velkých obcí.
+>   - Hlubší analýza právních aspektů slučování obcí v českém kontextu.
+>   - Více informací o názorech a postojích českých občanů a politiků k této otázce.
+>   - Případová studie úspěšného (nebo neúspěšného) sloučení obcí v ČR, pokud taková existuje.
+>
+> Celkově hodnotím článek jako informativní, vyvážený a dobře zpracovaný. Poskytuje čtenáři dobrý přehled o problematice a podněcuje k dalšímu zamyšlení nad tématem.
 
 Má pravdu. Porovnání efektivity vyřeším tím, že přidávám link. Hlubší analýzu právních aspektů slučování obcí kvůli rozsahu i očekávanému čtenářstvu nedávám a názory občanů i politiků také ne. 
 
