@@ -83,7 +83,7 @@ Tady vidíte, že navržená struktura se hodí spíše pro disertační práci,
 
 >  Když by mělo jít o článek do magazínu o státní správě, přičemž je zde limit 6000 znaků a měl by být čtivý a zajímavý pro poučeného čtenáře zběhlého v české státní správě, jakou strukturu navrhuješ?
 
-```Markdown
+``` Markdown
 Pro článek do magazínu o státní správě s limitem 6000 znaků, zaměřený na poučeného čtenáře zběhlého v české státní správě, bych navrhl následující strukturu:
 
 1. Úvod (cca 500 znaků)
