@@ -23,62 +23,60 @@ Jak si postavit kostru článku? Teď je správná chvíle obrátit se na AI - j
 > Jakou strukturu by měl mít a jaké informace by měl obsahovat článek o územněsprávních reformách?
 	
 Dostáváme zhruba takovouto odpověď:
-
-```Markdown
 Článek o územněsprávních reformách by měl mít komplexní strukturu, která pokrývá všechny klíčové aspekty tématu. Zde je návrh struktury a obsahu takového článku:
 
-1. Úvod
-   - Definice územněsprávní reformy
-   - Význam a aktuálnost tématu
-   - Stručný přehled hlavních bodů článku
-
-2. Historický kontext
-   - Vývoj územněsprávního členění v dané zemi/regionu
-   - Klíčové reformy v minulosti a jejich dopady
-
-3. Cíle územněsprávních reforem
-   - Ekonomická efektivita
-   - Zlepšení poskytování služeb
-   - Demokratizace a participace občanů
-   - Vyrovnávání regionálních rozdílů
-
-4. Typy územněsprávních reforem
-   - Slučování obcí
-   - Vytváření meziobecních svazků
-   - Změny v uspořádání vyšších územních celků
-   - Přesuny kompetencí mezi úrovněmi správy
-
-5. Proces implementace reforem
-   - Legislativní rámec
-   - Fáze přípravy a plánování
-   - Konzultace s občany a stakeholdery
-   - Časový harmonogram implementace
-
-6. Nástroje a pobídky pro reformy
-   - Finanční pobídky
-   - Legislativní změny
-   - Dobrovolné vs. povinné reformy
-   - Přechodná opatření
-
-7. Případové studie
-   - Konkrétní příklady reforem z různých zemí
-   - Analýza úspěšných a neúspěšných případů
-
-8. Dopady reforem
-   - Ekonomické dopady (úspory, efektivita)
-   - Sociální dopady (kvalita služeb, spokojenost občanů)
-   - Politické dopady (změny v reprezentaci, volební účast)
-   - Dlouhodobé vs. krátkodobé efekty
-
-9. Výzvy a překážky
-   - Odpor k změnám
-   - Technické a administrativní problémy
-   - Politické a kulturní faktory
-
-... 
-
-Tento článek by měl obsahovat aktuální data, příklady z praxe, a měl by být vyvážený, prezentující jak výhody, tak i potenciální rizika a nevýhody územněsprávních reforem. Je také důležité zahrnout různé perspektivy - od politiků přes odborníky až po občany.
-```
+> 1. Úvod
+>   - Definice územněsprávní reformy
+>   - Význam a aktuálnost tématu
+>   - Stručný přehled hlavních bodů článku
+>
+> 2. Historický kontext
+>   - Vývoj územněsprávního členění v dané zemi/regionu
+>   - Klíčové reformy v minulosti a jejich dopady
+>
+> 3. Cíle územněsprávních reforem
+>   - Ekonomická efektivita
+>   - Zlepšení poskytování služeb
+>   - Demokratizace a participace občanů
+>   - Vyrovnávání regionálních rozdílů
+>
+> 4. Typy územněsprávních reforem
+>   - Slučování obcí
+>   - Vytváření meziobecních svazků
+>   - Změny v uspořádání vyšších územních celků
+>   - Přesuny kompetencí mezi úrovněmi správy
+>
+> 5. Proces implementace reforem
+>   - Legislativní rámec
+>   - Fáze přípravy a plánování
+>   - Konzultace s občany a stakeholdery
+>   - Časový harmonogram implementace
+>
+> 6. Nástroje a pobídky pro reformy
+>   - Finanční pobídky
+>   - Legislativní změny
+>   - Dobrovolné vs. povinné reformy
+>   - Přechodná opatření
+>
+> 7. Případové studie
+>   - Konkrétní příklady reforem z různých zemí
+>   - Analýza úspěšných a neúspěšných případů
+>
+> 8. Dopady reforem
+>   - Ekonomické dopady (úspory, efektivita)
+>   - Sociální dopady (kvalita služeb, spokojenost občanů)
+>   - Politické dopady (změny v reprezentaci, volební účast)
+>   - Dlouhodobé vs. krátkodobé efekty
+>
+> 9. Výzvy a překážky
+>   - Odpor k změnám
+>   - Technické a administrativní problémy
+>   - Politické a kulturní faktory
+>
+>... 
+>
+>Tento článek by měl obsahovat aktuální data, příklady z praxe, a měl by být vyvážený, prezentující jak výhody, tak i potenciální rizika a nevýhody územněsprávních reforem. Je také důležité zahrnout různé perspektivy - od politiků přes odborníky až po občany.
+>
 
 
 Tady vidíte, že navržená struktura se hodí spíše pro disertační práci, než pro běžný novinový článek. Je to dáno tím, že volně dostupné studentské školní práce jsou častými vstupní tréninkovými daty pro AI. Buďto si s tím poradíte, nebo předefinujete prompt třeba následovně: 
