@@ -16,7 +16,7 @@ Vezměme si praktický příklad. Máte napsat klasický novinářský článek,
 
 Začneme domácími úkoly, kdy si prohledáte internet a načtete si články, co k tomu vyšly. Rychle zjistíte, že o tématu se vyjadřují cca tři osobnosti, zbytek jsou přemleté komentáře. Zapíšeme si, že pokud chceme citaci, ozveme se Elišce Olšákové (STAN), protože se k tomu vyjadřuje. Komentáře v médiích obecně říkají, že se ušetří, odvolávají se na selský rozum nebo odhad NERVu, že se ušetří deset miliard Kč. Vy ale nechcete dělat komentář, chcete dělat nezaujatý článek. Takže pokračujeme. 
 
-Druhým krokem by mělo být dozvědět se další informace o tématu. Staré postupy (projít Wikipedii a vygooglované materiály) jsou stále funkční, ale už málo efektivní. Můj tajný tip vždy bylo jít na theses.cz a najít si vysokoškolskou práci na toto téma - je dobrým a podrobným kompendiem tématu.  
+Druhým krokem by mělo být dozvědět se další informace o tématu. Staré postupy (projít Wikipedii a vygooglované materiály) jsou stále funkční, ale už málo efektivní. Můj tajný tip vždy bylo jít na [theses.cz](https://www.theses.cz) a najít si vysokoškolskou práci na toto téma - je dobrým a podrobným kompendiem tématu.  
 
 Jak si postavit kostru článku? Teď je správná chvíle obrátit se na AI - já použiju [Claude 3.5 Sonnet](https://www.claude.ai), stejně se můžete obrátit na [ChatGPT](https://chatgpt.com). Zadáváme prompt:
 
