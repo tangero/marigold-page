@@ -24,7 +24,7 @@ Jak si postavit kostru článku? Teď je správná chvíle obrátit se na AI - j
 	
 Dostáváme zhruba takovouto odpověď:
 
-Článek o územněsprávních reformách by měl mít komplexní strukturu, která pokrývá všechny klíčové aspekty tématu. Zde je návrh struktury a obsahu takového článku:
+** Článek o územněsprávních reformách by měl mít komplexní strukturu, která pokrývá všechny klíčové aspekty tématu. Zde je návrh struktury a obsahu takového článku:**
 
 > 1. Úvod
 >   - Definice územněsprávní reformy
