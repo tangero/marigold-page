@@ -1,7 +1,7 @@
 ---
 title: Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin
 author: Patrick Zandl
-post_excerpt: "Už týden jsem se toulal Slavkovským lesem a Krušnohořím. Celý ten den se rozjížděl slušný nečas, já byl promočený, od bahna, přitom meteoradar hlásil, že bouře se vším všudy teprve přijde. I tu náhle jsem po cestě nad Varama uviděl otevřenou restauraci. Akorát, že když jsem se k ní přiblížil, ukázalo se, že je velmi nóbl. Jenže do toho se protrhla obloha a mě se fakt nechtělo pokračovat, Vstoupil jsem do lobby, oklepal ze sebe vodu i bahno a zamířil jsem ke dveřím do restaurace, neboť se mi zlíbilo povečeřet. "
+post_excerpt: "Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. Krok za krokem si řekneme, jak AI využít k prozkoumání tématu, sehnání informací i výstavbě dobrého článku."
 layout: post
 categories: [AI, Umělá inteligence]
 thumbnail: https://www.marigold.cz/assets/ai-noviny.jpg
