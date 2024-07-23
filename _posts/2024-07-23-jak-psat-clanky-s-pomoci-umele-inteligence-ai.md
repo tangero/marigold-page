@@ -23,6 +23,7 @@ Jak si postavit kostru článku? Teď je správná chvíle obrátit se na AI - j
 > Jakou strukturu by měl mít a jaké informace by měl obsahovat článek o územněsprávních reformách?
 	
 Dostáváme zhruba takovouto odpověď:
+
 Článek o územněsprávních reformách by měl mít komplexní strukturu, která pokrývá všechny klíčové aspekty tématu. Zde je návrh struktury a obsahu takového článku:
 
 > 1. Úvod
@@ -83,7 +84,7 @@ Tady vidíte, že navržená struktura se hodí spíše pro disertační práci,
 
 >  Když by mělo jít o článek do magazínu o státní správě, přičemž je zde limit 6000 znaků a měl by být čtivý a zajímavý pro poučeného čtenáře zběhlého v české státní správě, jakou strukturu navrhuješ?
 
-``` Markdown
+```
 Pro článek do magazínu o státní správě s limitem 6000 znaků, zaměřený na poučeného čtenáře zběhlého v české státní správě, bych navrhl následující strukturu:
 
 1. Úvod (cca 500 znaků)
@@ -202,7 +203,6 @@ Má pravdu. Porovnání efektivity vyřeším tím, že přidávám link. Hlubš
 
 Tak a je to. Pomocí AI jsme provedli poměrně obsáhlý průzkum, který nám pomohl se nejenom obsáhle zorientovat v tématu jak v českém kontextu, tak i celosvětově. Prošli jsme si zajímavé příklady ze zahraničí, prostudovali studie. AI v našem případě pomáhala se strukturou článku, s jeho vyvážeností, se zdroji dat, samotný článek jsme si napsali sami, svými slovy, svým pohledem. 
 
-> [!TIP]
 > Tipy na závěr: 
 > - Předplatné za AI (ať již Claude nebo ChatGPT) je nutností
 > - předplatné Deeplu taky, je výrazně lepší. Budete potřebovat ještě plugin, nejlepší je do Chrome, pak Firefox a Edge, pro Safari jsou jen horší pluginy třetích stran. 
