@@ -11,9 +11,14 @@ V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o 
 
 Tak především: bedlivě jsem prošel řadu případů reformy územní správy. Od Německa přes Dánsko, Francii, až třeba po Norsko nebo Japonsko. Změny proběhly v různých obdobích a s různým zaměřením. Velmi často se v posledním čtvrtstoletí propagovaly, jako nástroj úspor. Jenže studie, které reformy hodnotily z odstupu, žádné podstatné úspory neprokázaly. 
 
+![Změny počtu obcí ve vybraných zemích](/assets/poctyobci-west-eu.png)
+
 Ta úvaha je přitom jednoduchá: když se zredukuje počet obcí, ušetří se na jejich managementu, sníží se počet zastupitelů a tím se jim bude platit méně peněz. Větší obce jsou na výkon managementu efektivnější. Proč tedy zkušenosti a především nezávislé studie ze zahraničí ukazují, že k podstatným úsporám nedochází?
 
 Za prvé proto, že nejde o tak podstatné peníze. Odměny českých obecních zastupitelů jsou kolem 7 miliard Kč, je myslitelné z toho ušetřit kolem tří miliard Kč. Letošní rozpočet školství je 269 miliard Kč a pro představu, tři miliardy jsou náklady na výstavbu dvou škol pro tisícovku dětí. NERV odhaduje, že by se dalo ušetřit až 10 mld Kč, ale co jsem se tak díval, toto číslo je velmi vágní odhad založený na předpokladech, ne exaktnější výpočet opřený o realitu. 
+
+![Takto vypadá velikost českých obcí](/assets/obce-dle-obyvatel.png)
+*Na obrázku vidíte počty českých obcí podle velikosti. Většina obcí má do tisíce obyvatel... *
 
 Proč se v zahraničí nepodařilo podstatně ušetřit? Důvodů byla celá řada. Tím hlavním býval způsob slučování obcí: dobrovolný nebo administrativní. 
 
