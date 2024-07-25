@@ -8,13 +8,17 @@ oldlink: >
   https://www.marigold.cz/item/zapomenuta-osobnost-jan-sokol-z-lamberka
 published: true
 post_date: 2005-12-19 22:57:29
+featured: true
+thumbnail: https://2.bp.blogspot.com/-gqMIU0WgEvg/V1_lHlWFPWI/AAAAAAACOkM/MkaRD3WQA-IWwk9OhEle9KZXClK1ThqpQCLcB/s1600/1.jpg
 ---
 <p>Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zněla něco jako "A proč právě Paroubka," rozhodl jsem se potvrdit svoji pověst cvoka a ihned jsem vypálil: "Jan Sokol z Lamberka". Na emailové lince bylo následující hodinku tichu, novinář zřejmě zoufale googloval, o koho jde. Na netu toho o Janu Sokolovi z Lamberka něco málo najdete, ale bez většího vlastního historického pozadí vám nedojde tak rychle, proč bych neváhal tohoto člověka zařadit mezi největší osobnosti českých dějin. </p>
 
 <p>Je to tak - ne snad, že by významem přímo převyšoval císaře Karla nebo TGM a další ikony české historie. Jenže já jsem vždy měl slabost pro hrdiny, kterým doba jejich význam a hrdinství upřela, nebo se na ně z jiného důvodu zapomnělo. A protože je čas vánoční a nehodí se, psát o práci, můžeme to Janu Sokolovi z Lamberka alespoň částečně touto poklonou vynahradit zapomnění.
 </p>
 
-<!--more--><p>Jan Sokol z Lamberka se narodil v době panování požehnaného císaře Karla a předpokládá se, že kolem roku 1355. Jeho otcem byl Jaroslav z Knínic, který někdy po roce 1360 přichází do obce Březníka. Zda hrad Lamberk zde nechal vystavět sám Jaroslav není jisté, nicméně je pravděpodobné, že jej nechal kolem roku 1370 vybudovat. Už v dalším historickém záznamu v roce 1377 se zmiňuje jako Jaroslav z Lamberka a je prvním historicky doloženým držitelem Lamberka. </p>
+<!--more-->
+
+<p>Jan Sokol z Lamberka se narodil v době panování požehnaného císaře Karla a předpokládá se, že kolem roku 1355. Jeho otcem byl Jaroslav z Knínic, který někdy po roce 1360 přichází do obce Březníka. Zda hrad Lamberk zde nechal vystavět sám Jaroslav není jisté, nicméně je pravděpodobné, že jej nechal kolem roku 1370 vybudovat. Už v dalším historickém záznamu v roce 1377 se zmiňuje jako Jaroslav z Lamberka a je prvním historicky doloženým držitelem Lamberka. </p>
 
 <p>O dětství Jana Sokola nemáme uspokojivých zpráv a víme jen tolik, že jeho otec a posléze i on sám se zapojoval do bojůvek mezi jednotlivými příslušníky vládnoucího lucemburského rodu. Po roce 1403 víme, že jej na svou stranu získává moravský markrabě Jošt (abychom si ho spojili s lucemburky, Jošt byl synem markraběte Jana Jindřicha, bratra císaře Karla IV.), do té doby stál na straně jeho mladšího bratra Prokopa (s nímž sympatizoval a spolupracoval Zimkund) a neustále se zaplétal do bojů mezi nimi a bratry Václava IV - Zikmundem a Janem Zhořeleckým. </p>
 
@@ -27,7 +31,7 @@ post_date: 2005-12-19 22:57:29
 <p>Až doposud bychom mohli považovat Jana Sokola z Lamberka za něco mezi lapkou a vojákem, sice výraznou osobu českých dějin, ale žádnou takovou, aby bylo nespravedlivé o ní nevědět. Jenže to se onoho roku 1409 mělo změnit. </p>
 
 <h3>Bitva u Grunwaldu</h3>
-<div class="rightbox"><img src="/wp-content/uploads/20051219-malbork.jpg" alt="Hrad Malbork" width="300" height="175" /></div>
+
 <p>Jan Sokol znepokojeně sledoval nejenom dění při jižní hranici království a stále dotěrnější Zikmundovy akce v moravském markrabství a Albrechtovy v Jižních Čechách - s pozorností se díval i na naši severní hranici, tedy na sousední Polsko. A ještě dále, směrem k pobřeží Baltu. Měl důvod - stále častější střety poláků a litevců s teutonským řádem a tvrdý postup řádu v doposud pohanském Prusku. </p>
 
 <p>Polská situace byla pro Čechy důležitá a vztahy s Polskem byly pro české krále tradičně důležitou protiváhou vůči Říši. Poslední piastovec na polském trůně,  Kazimír III. Veliký (1333-1370), za podpory polské šlechty sjednotil Polsko a zabezpečil jej tím, že výměnou za nároky Jana Lucemburského na polskou korunu jemu postoupil v roce 1335 Slezsko, jež se od té doby stalo integrální částí Zemí koruny České. Východního Pomořanska a Gdaňsku se pak vzdal v roce 1343 ve prospěch Řádu německých rytířů (Teutonský řád), čímž ztratilo Polsko přístup k moři. Později ale na Litvě dobylo Halič. 
