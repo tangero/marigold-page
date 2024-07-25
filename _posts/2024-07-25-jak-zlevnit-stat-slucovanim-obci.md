@@ -4,7 +4,7 @@ author: Patrick Zandl
 post_excerpt: "V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížíme náklady a ušetříme. Zkušenosti ze světa ukazují, že tomu tak není. Redukce počtu obcí by státnímu rozpočtu nepomohla, přesto má smysl ji provést. Proč?"
 layout: post
 categories: [Politika, Veřejná správa, Město]
-thumbnail: https://www.marigold.cz/assets/mesto-skandinavie.jpg
+thumbnail: https://a.cdn-hotels.com/gdcs/production62/d681/3709d4b0-db83-11e8-8252-0242ac110006.jpg
 featured: true 
 --- 
 
