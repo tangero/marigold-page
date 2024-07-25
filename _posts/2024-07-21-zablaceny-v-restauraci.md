@@ -1,5 +1,5 @@
 ---
-title: Jak navštívit restauraci po týdenním přechodu hor v klasickém stylu 
+title: Návštěva restaurace po týdenním přechodu hor v klasickém stylu 
 author: Patrick Zandl
 post_excerpt: "Už týden jsem se toulal Slavkovským lesem a Krušnohořím. Celý ten den se rozjížděl slušný nečas, já byl promočený, od bahna, přitom meteoradar hlásil, že bouře se vším všudy teprve přijde. I tu náhle jsem po cestě nad Varama uviděl otevřenou restauraci. Akorát, že když jsem se k ní přiblížil, ukázalo se, že je velmi nóbl. Jenže do toho se protrhla obloha a mě se fakt nechtělo pokračovat, Vstoupil jsem do lobby, oklepal ze sebe vodu i bahno a zamířil jsem ke dveřím do restaurace, neboť se mi zlíbilo povečeřet. "
 layout: post
