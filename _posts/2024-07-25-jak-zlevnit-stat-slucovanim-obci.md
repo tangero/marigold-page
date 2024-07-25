@@ -63,39 +63,39 @@ K administrativnímu slučování obcí zatím nevidím důvod. Během deseti le
 A už na samostudium přehled studií, které je dobré si k tomuto tématu přečíst:
 
 - [Size and Local Democracy](https://www.amazon.com/Size-Local-Democracy-Bas-Denters/dp/1843766728) (2014)
-    Autoři: Bas Denters, Michael Goldsmith, Andreas Ladner, Poul Erik Mouritzen, Lawrence E. Rose
+    Autoři: Bas Denters, Michael Goldsmith, Andreas Ladner, Poul Erik Mouritzen, Lawrence E. Rose.
     Rozsáhlá mezinárodní studie zkoumající vztah mezi velikostí obcí a kvalitou demokracie v několika evropských zemích.
 - [Economies of Scale in Local Government Services: A Meta-Analysis](https://www.academia.edu/119355686/Economies_of_scale_in_local_government_services_a_meta_analysis_Siew_King_Ting_Rene_Villano_and_Brian_Dollery) (2008)
-    Autoři: Siew King Ting, Rene Villano a Brian Dollery
+    Autoři: Siew King Ting, Rene Villano a Brian Dollery.
     Meta-analýza studií zabývajících se úsporami z rozsahu v místní správě.
 - [The Future of Local Government in Europe: Lessons from Research and Practice in 31 Countries](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/40766/file/pwsr_93.online.pdf) (2017)
-    Editoři: Christian Schwab, Geert Bouckaert, Sabine Kuhlmann
+    Editoři: Christian Schwab, Geert Bouckaert, Sabine Kuhlmann.
     Rozsáhlá srovnávací studie budoucnosti místní správy v Evropě, zahrnující analýzy reforem a jejich dopadů.
 - [The Political Economy of Local Government Reform](https://link.springer.com/chapter/10.1007/978-3-030-36725-1_10) (2012)
-    Autoři: Brian Dollery, Joseph Drew, Michael Kortt
+    Autoři: Brian Dollery, Joseph Drew, Michael Kortt.
     Komplexní analýza ekonomických a politických aspektů reforem místní správy s důrazem na Austrálii a další anglosaské země.
 - [Structural Reform in Denmark, 2007–09: Central Reform Processes in a Decentralised Environment](https://www.tandfonline.com/doi/full/10.1080/03003930903560562) (2010)
-    Autor: Karsten Vrangbæk
+    Autor: Karsten Vrangbæk.
     Detailní analýza dánské strukturální reformy z roku 2007, její implementace a dopadů.
 - [Municipal Amalgamation in Japan: A Survival Analysis of the Timings of Municipal Amalgamations](https://ideas.repec.org/p/mar/magkse/201338.html) (2013)
-    Autoři: Katsuyoshi Nakazawa, T. Miyashita
+    Autoři: Katsuyoshi Nakazawa, T. Miyashita.
     Zkoumá faktory ovlivňující načasování a průběh slučování obcí v Japonsku.
 - [Size, Democracy, and the Economic Costs of Running the Political System](https://www.semanticscholar.org/paper/Size%2C-Democracy%2C-and-the-Economic-Costs-of-Running-Blom%E2%80%90Hansen-Houlberg/d525d2f25057b0d89ee9f6762580408a1e5f9665) (2014)
-    Autoři: Jens Blom-Hansen, Kurt Houlberg, Søren Serritzlew
+    Autoři: Jens Blom-Hansen, Kurt Houlberg, Søren Serritzlew.
     Analýza ekonomických dopadů zvětšování velikosti obcí na náklady politického systému.
 - [Does Municipal Cooperation Reduce Costs? Evidence from a Quasi-Experimental Approach](https://journals.sagepub.com/doi/10.1177/1078087419839492) (2019)
-    Autoři: Germà Bel, Marianna Sebő
+    Autoři: Germà Bel, Marianna Sebő.
     Studie zkoumající efektivnost meziobecní spolupráce jako alternativy k slučování obcí v Německu.    
 - [Jurisdiction Size and Local Government Policy Expenditure: Assessing the Effect of Municipal Amalgamation](https://www.sscnet.ucla.edu/polisci/faculty/treisman/PAPERS_NEW/NEWapsr%20piece%20as%20published.pdf) (2016)
-    Autoři: Jens Blom-Hansen, Kurt Houlberg, Søren Serritzlew, Daniel Treisman
+    Autoři: Jens Blom-Hansen, Kurt Houlberg, Søren Serritzlew, Daniel Treisman.
     Studie zkoumající vliv sloučení obcí na výdaje místních samospráv v Dánsku.
 - [The Impact of Municipal Mergers on Local Public Spending - Evidence from remote-sensing data](https://www.cambridge.org/core/journals/journal-of-east-asian-studies/article/impact-of-municipal-mergers-on-local-public-spending-evidence-from-remotesensing-data/4A5B579FFE8B44E5DB8348CD0810CBAF) (2020)
-    Autoři: Steve Pickering , Seiki Tanaka and Kyohei Yamada
+    Autoři: Steve Pickering , Seiki Tanaka and Kyohei Yamada.
     Analýza dopadů slučování obcí na veřejné výdaje v Japonsku
 - [The Impact of Municipal Mergers on Local Public Spending in Finland](https://www.researchgate.net/publication/272795680_The_Impact_of_Municipal_Mergers_on_Local_Public_Expenditures_in_Finland) (2013)
-    Autoři: Roope Uusitalo, Antti Moisio
+    Autoři: Roope Uusitalo, Antti Moisio.
     Analýza dopadů slučování obcí na veřejné výdaje ve Finsku
 - [Municipal Amalgamation in Europe: A Comparative Analysis](https://www.researchgate.net/publication/306525715_A_Comparative_Analysis_of_Amalgamation_Reforms_in_Selected_European_Countries) (2018)
-    Autoři: Reto Steiner, Claire Kaiser, Gregor T. Eythórsson
+    Autoři: Reto Steiner, Claire Kaiser, Gregor T. Eythórsson.
     Srovnávací analýza slučování obcí v různých evropských zemích, hodnotící motivace, procesy a výsledky.
 
