@@ -1,5 +1,5 @@
 ---
-title: Jak moc se musí město přizpůsobit distribučním společnostem
+title: Musí se město přizpůsobit distribučním společnostem&quest;
 author: Patrick Zandl
 post_excerpt: "Neukázněně parkující automobily rozvozových společností. Na jednu stranu, co mají dělat, když si někdo objednal. Na druhou stranu, mají parkovat tam, kde je to dovoleno. Jak moc se mají města přizpůsobovat?"
 layout: post
