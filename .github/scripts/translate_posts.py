@@ -83,6 +83,10 @@ def process_file(file_path):
     log("Translating title")
     post['title'] = translate_text(post['title'])
     
+    if 'post_excerpt' in post:
+        log("Translating post_excerpt")
+        post['post_excerpt'] = translate_text(post['post_excerpt'])
+    
     log("Translating content")
     content = post.content
     translated_content = translate_text(content)
@@ -90,13 +94,12 @@ def process_file(file_path):
     
     post['translated'] = True
     post['original_lang'] = 'cs'
+    post['lang'] = 'en'
     post['content_hash'] = get_content_hash(content)
     
-    if 'permalink' in post:
-        post['permalink'] = '/en' + post['permalink']
-    else:
-        permalink = '/en/item/' + os.path.splitext(new_file_name)[0] + '/'
-        post['permalink'] = permalink
+    # Vytvoření správné struktury URL bez data
+    slug = '-'.join(new_file_name.split('-')[3:]).replace('.md', '')
+    post['permalink'] = f"/en/item/{slug}/"
     
     log(f"Saving translated file: {new_file_path}")
     with open(new_file_path, 'w', encoding='utf-8') as f:
