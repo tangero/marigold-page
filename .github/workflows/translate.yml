@@ -2,6 +2,8 @@ name: Translate Latest Post
 
 on:
   push:
+    branches:
+      - main
     paths:
       - '_posts/*.md'
 
@@ -27,7 +29,7 @@ jobs:
         DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
       run: |
         python .github/scripts/translate_posts.py
-    
+
     - name: Configure Git
       run: |
         git config --local user.email "action@github.com"
@@ -35,5 +37,48 @@ jobs:
 
     - name: Commit and push changes
       run: |
+        echo "Checking for changes..."
         git add .
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Translate latest post to English" && git pull --rebase origin main && git push)
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+        
+        echo "Changes detected, committing..."
+        git commit -m "Translate latest post to English"
+        
+        echo "Attempting to push changes..."
+        if git push; then
+          echo "Changes pushed successfully"
+          exit 0
+        fi
+        
+        echo "Push failed, attempting to integrate remote changes..."
+        git fetch origin
+        
+        if git merge-base --is-ancestor origin/main HEAD; then
+          echo "Local branch is behind remote, pulling changes..."
+          git pull --rebase origin main
+        else
+          echo "Branches have diverged, attempting to merge..."
+          if ! git merge origin/main; then
+            echo "Merge failed, manual intervention required"
+            git merge --abort
+            exit 1
+          fi
+        fi
+        
+        echo "Attempting to push changes again..."
+        if git push; then
+          echo "Changes pushed successfully after integrating remote changes"
+          exit 0
+        fi
+        
+        echo "Push failed again, using force-with-lease as last resort..."
+        if git push --force-with-lease; then
+          echo "Changes force-pushed successfully"
+          exit 0
+        else
+          echo "Force-push failed, manual intervention required"
+          exit 1
+        fi
