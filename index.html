@@ -8,17 +8,19 @@ layout: default
 <div class="posts">
   {% for post in paginator.posts %}
     {% if post.hide == null or post.hide == false %}
-      {% if post.lang != 'en' %}  <!-- Přidaná podmínka pro kontrolu jazyka -->
+      {% if post.lang != 'en' %}
         <article class="post">
           <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-          <div class="post-content">
-            <div class="thumbnail">
-              {% if post.thumbnail %}
-                {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
-                <a href="{{ site.baseurl }}{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" align="left" alt="{{ post.title }}"></a>
-              {% endif %}
-            </div>
+          <div class="post-content clearfix">
+            {% if post.thumbnail %}
+              {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
+              <div class="thumbnail">
+                <a href="{{ site.baseurl }}{{ post.url }}">
+                  <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}">
+                </a>
+              </div>
+            {% endif %}
 
             <div class="excerpt">
               {{ post.excerpt | strip_html | truncatewords: 60 }}
@@ -52,5 +54,4 @@ layout: default
 
   <!-- pagination -->
   {% include pagination.html %}
-
 </div>
