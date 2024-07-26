@@ -1,3 +1,12 @@
+name: Translate Latest Post
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/*.md'
+
 jobs:
   translate:
     runs-on: ubuntu-latest
