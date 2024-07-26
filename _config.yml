@@ -75,23 +75,20 @@ permalink: /item/:title/
 
 # Definice vícejazyčných článků
 defaults:
-  -
-    scope:
+  - scope:
       path: "_posts"
       type: "posts"
     values:
       layout: "post"
-      permalink: /item/:title/
-      lang: "cs"  # Přidáno explicitní nastavení jazyka pro české články
-  -
-    scope:
+      permalink: /item/:title/    
+      lang: "cs"
+  - scope:
       path: "_posts/en"
       type: "posts"
     values:
       layout: "post"
-      permalink: /en/item/:title/
+      permalink: /en/item/:title/    
       lang: "en"
-
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
