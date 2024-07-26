@@ -98,6 +98,7 @@ def process_file(file_path):
     post['content_hash'] = get_content_hash(content)
     
     # Vytvoření správné struktury URL bez data
+    post['lang'] = 'en'
     slug = '-'.join(new_file_name.split('-')[3:]).replace('.md', '')
     post['permalink'] = f"/en/item/{slug}/"
     
