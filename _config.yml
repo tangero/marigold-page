@@ -57,6 +57,9 @@ github_repo: https://github.com/tangero/marigold-page
 # Definice Collections
 
 collections: 
+  posts:
+    output: true
+    permalink: /:lang/item/:title/
   ai:
     output: true
     permalink: /ai/:title/
@@ -70,8 +73,7 @@ collections:
 
 permalink: /item/:title/
 
-
-# Nastavení pro vícejazyčné články
+# Definice vícejazyčných článků
 defaults:
   -
     scope:
@@ -80,6 +82,7 @@ defaults:
     values:
       layout: "post"
       permalink: /item/:title/
+      lang: "cs"  # Přidáno explicitní nastavení jazyka pro české články
   -
     scope:
       path: "_posts/en"
@@ -87,6 +90,8 @@ defaults:
     values:
       layout: "post"
       permalink: /en/item/:title/
+      lang: "en"
+
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
