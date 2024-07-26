@@ -1,4 +1,4 @@
-name: Translate New Posts
+name: Translate Latest Post
 
 on:
   push:
@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0  # Fetch all history for all branches and tags
     
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -20,7 +22,7 @@ jobs:
       run: |
         pip install requests pyyaml python-frontmatter
 
-    - name: Translate new posts
+    - name: Translate latest post
       env:
         DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
       run: |
@@ -31,5 +33,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git diff --quiet && git diff --staged --quiet || git commit -m "Translate new posts to English" -a
+        git diff --quiet && git diff --staged --quiet || git commit -m "Translate latest post to English" -a
         git push
