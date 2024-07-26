@@ -70,6 +70,24 @@ collections:
 
 permalink: /item/:title/
 
+
+# Nastavení pro vícejazyčné články
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /item/:title/
+  -
+    scope:
+      path: "_posts/en"
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /en/item/:title/
+
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
