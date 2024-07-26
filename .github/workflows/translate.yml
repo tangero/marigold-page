@@ -28,10 +28,12 @@ jobs:
       run: |
         python .github/scripts/translate_posts.py
     
-    - name: Commit changes
+    - name: Configure Git
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+
+    - name: Commit and push changes
+      run: |
         git add .
-        git diff --quiet && git diff --staged --quiet || git commit -m "Translate latest post to English" -a
-        git push
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Translate latest post to English" && git pull --rebase origin main && git push)
