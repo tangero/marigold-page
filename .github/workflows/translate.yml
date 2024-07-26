@@ -33,15 +33,36 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
 
-    - name: Commit, pull, and push changes
+    - name: Commit and push changes
       run: |
         git add .
-        git diff --quiet && git diff --staged --quiet || (
-          git commit -m "Translate latest post to English" &&
-          git pull --rebase origin main &&
-          git push
-        ) || (
-          git add . &&
-          git commit --amend --no-edit &&
-          git push --force-with-lease
-        )
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+        
+        git commit -m "Translate latest post to English"
+        
+        # Attempt to push changes
+        if ! git push; then
+          echo "Push failed, attempting to integrate remote changes"
+          git fetch origin
+          
+          if git merge-base --is-ancestor origin/main HEAD; then
+            echo "Local branch is behind remote, pulling changes"
+            git pull --rebase origin main
+          else
+            echo "Branches have diverged, attempting to merge"
+            if ! git merge origin/main; then
+              echo "Merge failed, manual intervention required"
+              git merge --abort
+              exit 1
+            fi
+          fi
+          
+          # Try pushing again after integrating changes
+          if ! git push; then
+            echo "Push failed again, using force-with-lease as last resort"
+            git push --force-with-lease
+          fi
+        fi
