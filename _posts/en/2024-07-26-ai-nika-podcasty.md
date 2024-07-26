@@ -3,15 +3,16 @@ author: Patrick Zandl
 categories:
 - AI
 - Podcasty
-content_hash: b550e0a0a86bdc6af0556f6d470aff73
+content_hash: 97d9b83a2e5e31bcc037acbe12ea85b9
+lang: en
 layout: post
 original_lang: cs
-permalink: /en/item/2024-07-26-ai-nika-podcasty/
-post_excerpt: S podcasty je to těžké. Já je moc rád nemám, jsou pro mě informačně
-  řídké, hodinu něco posloucháte a hodnotných informací z toho není zase tak moc.
-  Ze článku byste je vstřebali rychleji. V oborech mého zájmu přitom vzniká velké
-  množství podcastů a usledovat se to nedá. A tak vznikají služby, které podcasty
-  zanalyzují a dají vám jejich sumář.
+permalink: /en/item/ai-nika-podcasty/
+post_excerpt: It's hard with podcasts. I don't really like them, I find them informationally
+  sparse, you listen to something for an hour and there's not that much valuable information
+  to be gained from it. You'd absorb it faster from an article. But in my field of
+  interest, there are a lot of podcasts being made and you can't keep track of it.
+  So there are services that analyze podcasts and give you a summary.
 thumbnail: https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/mic-brain-artificial-intelligence-ai-podcast.png
 title: Another niche for the AI to cram itself into? Podcasts!
 translated: true
