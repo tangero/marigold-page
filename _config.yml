@@ -14,9 +14,8 @@ description: Technologie a Svět
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/patrick-mensi.jpg
 
-#
-# Flags below are optional
-#
+languages: ["en", "cs"]
+default_lang: "cs"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -94,6 +93,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-multiple-languages-plugin
 
 include: ['_pages']
 
