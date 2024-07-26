@@ -5,47 +5,48 @@ layout: default
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
 <div class="elfsight-app-d684b89c-9ca3-456c-8efb-9271b2e90be8" data-elfsight-app-lazy></div>
 
-
 <div class="posts">
   {% for post in paginator.posts %}
-  {% if post.hide == null or post.hide == false %}
-    <article class="post">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    {% if post.hide == null or post.hide == false %}
+      {% if post.lang != 'en' %}  <!-- Přidaná podmínka pro kontrolu jazyka -->
+        <article class="post">
+          <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="post-content">
-          <div class="thumbnail">
-            {% if post.thumbnail %}
-              {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
-              <a href="{{ site.baseurl }}{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" align="left" alt="{{ post.title }}"></a>
-            {% endif %}
+          <div class="post-content">
+            <div class="thumbnail">
+              {% if post.thumbnail %}
+                {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
+                <a href="{{ site.baseurl }}{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" align="left" alt="{{ post.title }}"></a>
+              {% endif %}
+            </div>
+
+            <div class="excerpt">
+              {{ post.excerpt | strip_html | truncatewords: 60 }}
+            </div>
           </div>
 
-        <div class="excerpt">
-          {{ post.excerpt | strip_html | truncatewords: 60 }}
-        </div>
-      </div>
-
-      <div class="post-meta">
-        {% assign m = post.date | date: "%-m" %}
-        {{ post.date | date: "%-d." }}
-        {% case m %}
-          {% when '1' %}leden
-          {% when '2' %}únor
-          {% when '3' %}březen
-          {% when '4' %}duben
-          {% when '5' %}květen
-          {% when '6' %}červen
-          {% when '7' %}červenec
-          {% when '8' %}srpen
-          {% when '9' %}září
-          {% when '10' %}říjen
-          {% when '11' %}listopad
-          {% when '12' %}prosinec
-        {% endcase %}
-        {{ post.date | date: "%Y" }} - 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a>
-      </div>
-    </article>
+          <div class="post-meta">
+            {% assign m = post.date | date: "%-m" %}
+            {{ post.date | date: "%-d." }}
+            {% case m %}
+              {% when '1' %}leden
+              {% when '2' %}únor
+              {% when '3' %}březen
+              {% when '4' %}duben
+              {% when '5' %}květen
+              {% when '6' %}červen
+              {% when '7' %}červenec
+              {% when '8' %}srpen
+              {% when '9' %}září
+              {% when '10' %}říjen
+              {% when '11' %}listopad
+              {% when '12' %}prosinec
+            {% endcase %}
+            {{ post.date | date: "%Y" }} - 
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a>
+          </div>
+        </article>
+      {% endif %}
     {% endif %}   
   {% endfor %}
 
