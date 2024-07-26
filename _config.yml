@@ -120,7 +120,10 @@ paginate: 15
 paginate_path: /page:num/
 
 # Konfigurace Jekyll-feed
-
+feed:
+  path: feed.xml
+  posts_limit: 20
+  excerpt_only: false
   
 # Exclude these files from your production _site
 exclude:
