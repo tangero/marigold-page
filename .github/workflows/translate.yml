@@ -1,0 +1,35 @@
+name: Translate New Posts
+
+on:
+  push:
+    paths:
+      - '_posts/*.md'
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests pyyaml python-frontmatter
+
+    - name: Translate new posts
+      env:
+        DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+      run: |
+        python .github/scripts/translate_posts.py
+    
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m "Translate new posts to English" -a
+        git push
