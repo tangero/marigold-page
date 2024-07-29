@@ -26,6 +26,13 @@ layout: default
             <div class="excerpt">
               {{ post.excerpt | strip_html | truncatewords: 60 }}
             </div>
+            
+            <!-- Audio přehrávač -->
+            {% if post.audio_url %}
+              <div class="audio-player">
+                <a href="{{ post.audio_url }}" target="_blank">🎧 Poslechnout audio verzi</a>
+              </div>
+            {% endif %}
           </div>
 
           <div class="post-meta">
