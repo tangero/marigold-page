@@ -29,4 +29,4 @@ jobs:
         ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        python scripts/generate-podcast-script.py
+        python scripts/podcast-automation-script.py
