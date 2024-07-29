@@ -138,7 +138,7 @@ def main():
         article_title = extract_title(article_content)
         article_date = extract_date(article_content)
         article_text = extract_clean_text(article_content)
-        text_to_convert = f"Nadpis: {article_title}\nVydáno: {article_date}\n{article_text}"
+        text_to_convert = f"Nadpis: {article_title}\nA pokračujeme článkem. {article_text}"
 
         audio_file_path = text_to_speech(text_to_convert, API_KEY, VOICE_ID, audio_path)
         if audio_file_path:
