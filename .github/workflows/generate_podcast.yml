@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - '_posts/**'
-  workflow_dispatch:  # Toto umožní manuální spuštění   
+  workflow_dispatch:  # Toto umožní manuální spuštění
 
 jobs:
   generate_podcast:
@@ -26,9 +26,6 @@ jobs:
     
     - name: List installed packages
       run: pip list
-
-    - name: Check ElevenLabs version
-      run: pip show elevenlabs
     
     - name: Run podcast generation script
       env:
@@ -38,8 +35,10 @@ jobs:
     
     - name: Commit and push if changed
       run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
         git add podcast_feed.xml audio/
         git commit -m "Update podcast feed and audio" || exit 0
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
