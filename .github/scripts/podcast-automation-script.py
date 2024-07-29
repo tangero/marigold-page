@@ -1,6 +1,6 @@
 import os
 import requests
-from xml.etree.ElementTree import Element, SubElement, tostring
+from xml.etree.ElementTree import Element, SubElement, tostring, parse
 from github import Github
 import re
 
@@ -12,6 +12,7 @@ VOICE_ID = "NHv5TpkohJlOhwlTCzJk"  # Změňte toto ID na požadované ID hlasu
 CHUNK_SIZE = 1024  # Velikost chunku pro čtení/zápis
 AUDIO_DIR = "audio"  # Adresář pro ukládání audio souborů
 BASE_URL = "http://www.marigold.cz"  # Základní URL pro audio soubory
+RSS_FEED_PATH = "rss_feed.xml"  # Cesta k RSS feed souboru
 
 def debug_print(message):
     print(f"[DEBUG] {message}")
@@ -48,37 +49,40 @@ def text_to_speech(text, api_key, voice_id, output_path):
         debug_print(f"Error in text-to-speech API: {response.status_code}, {response.text}")
         return None
 
-def generate_rss_feed(audio_files):
-    debug_print("Generating RSS feed")
-    rss = Element('rss', version='2.0')
-    channel = SubElement(rss, 'channel')
-    title = SubElement(channel, 'title')
-    title.text = "Marigold Podcast"
-    link = SubElement(channel, 'link')
-    link.text = "http://www.marigold.cz/podcast"
-    description = SubElement(channel, 'description')
-    description.text = "Automaticky generované podcasty z článků na Marigold.cz"
-    language = SubElement(channel, 'language')
-    language.text = "cs"  # Změňte podle jazyka podcastu
+def load_existing_rss_feed():
+    if os.path.exists(RSS_FEED_PATH):
+        return parse(RSS_FEED_PATH).getroot()
+    else:
+        rss = Element('rss', version='2.0')
+        channel = SubElement(rss, 'channel')
+        title = SubElement(channel, 'title')
+        title.text = "Marigold Podcast"
+        link = SubElement(channel, 'link')
+        link.text = "http://www.marigold.cz/podcast"
+        description = SubElement(channel, 'description')
+        description.text = "Automaticky generované podcasty z článků na Marigold.cz"
+        language = SubElement(channel, 'language')
+        language.text = "cs"  # Změňte podle jazyka podcastu
+        return rss
 
-    for audio_file in audio_files:
-        item = SubElement(channel, 'item')
-        title = SubElement(item, 'title')
-        title.text = audio_file['title']
-        description = SubElement(item, 'description')
-        description.text = audio_file['excerpt']
-        enclosure = SubElement(item, 'enclosure', url=audio_file['url'], type="audio/mpeg")
-        guid = SubElement(item, 'guid')
-        guid.text = audio_file['url']
-        pubDate = SubElement(item, 'pubDate')
-        pubDate.text = audio_file['pubDate']
+def add_item_to_rss_feed(rss, audio_file):
+    channel = rss.find('channel')
+    item = SubElement(channel, 'item')
+    title = SubElement(item, 'title')
+    title.text = audio_file['title']
+    description = SubElement(item, 'description')
+    description.text = audio_file['excerpt']
+    enclosure = SubElement(item, 'enclosure', url=audio_file['url'], type="audio/mpeg")
+    guid = SubElement(item, 'guid')
+    guid.text = audio_file['url']
+    pubDate = SubElement(item, 'pubDate')
+    pubDate.text = audio_file['pubDate']
 
+def save_rss_feed(rss):
     rss_feed = tostring(rss)
-    rss_feed_path = "rss_feed.xml"
-    with open(rss_feed_path, "wb") as f:
+    with open(RSS_FEED_PATH, "wb") as f:
         f.write(rss_feed)
-    debug_print(f"RSS feed generated and saved as {rss_feed_path}")
-    return rss_feed_path
+    debug_print(f"RSS feed saved as {RSS_FEED_PATH}")
 
 def get_latest_article(repo):
     commits = repo.get_commits(path="_posts/")
@@ -152,13 +156,16 @@ def main():
         article_date = extract_date(article_content)
         article_excerpt = extract_excerpt(article_content)
         article_text = extract_clean_text(article_content)
-        text_to_convert = f"Nadpis: {article_title}\nA pokračujeme textem článku.\n{article_text}"
+        text_to_convert = f"Nadpis: {article_title}\nPokračujeme textem článku.\n{article_text}"
 
         audio_file_path = text_to_speech(text_to_convert, API_KEY, VOICE_ID, audio_path)
         if audio_file_path:
+            rss = load_existing_rss_feed()
             audio_files = [{"title": article_title, "url": f"{BASE_URL}/{audio_path}", "excerpt": article_excerpt, "pubDate": article_date}]
-            rss_feed_path = generate_rss_feed(audio_files)
-            commit_and_push(repo, [audio_path, rss_feed_path], f"Add audio for {article_filename}")
+            for audio_file in audio_files:
+                add_item_to_rss_feed(rss, audio_file)
+            save_rss_feed(rss)
+            commit_and_push(repo, [audio_path, RSS_FEED_PATH], f"Add audio for {article_filename}")
     else:
         debug_print("No new article found")
     debug_print("Script finished")
