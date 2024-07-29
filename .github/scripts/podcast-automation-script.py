@@ -5,7 +5,7 @@ import yaml
 import feedgenerator
 from datetime import datetime
 from github import Github
-from elevenlabs import generate, Voice, VoiceSettings
+from elevenlabs import Client, voices
 
 print(f"Python version: {sys.version}")
 print(f"Elevenlabs version: {elevenlabs.__version__}")
@@ -26,6 +26,9 @@ print(f"ELEVENLABS_API_KEY set: {'ELEVENLABS_API_KEY' in os.environ}")
 g = Github(GITHUB_TOKEN)
 repo = g.get_repo(REPO_NAME)
 
+# Inicializace ElevenLabs klienta
+client = Client(api_key=ELEVENLABS_API_KEY)
+
 def get_latest_post():
     contents = repo.get_contents(POSTS_DIR)
     posts = [content for content in contents if content.name.endswith('.md')]
@@ -40,14 +43,12 @@ def parse_frontmatter(content):
 def text_to_speech(text, filename):
     try:
         print("Začínám generovat audio...")
-        voice = Voice(
-            voice_id=VOICE_ID,
-            settings=VoiceSettings(stability=0.5, similarity_boost=0.5)
-        )
-        print(f"Hlas nastaven: {voice}")
+        voice = voices().get(VOICE_ID)
+        if not voice:
+            raise ValueError(f"Hlas s ID {VOICE_ID} nebyl nalezen.")
+        print(f"Hlas nastaven: {voice.name}")
         
-        audio = generate(
-            api_key=ELEVENLABS_API_KEY,
+        audio = client.generate(
             text=text,
             voice=voice,
             model="eleven_multilingual_v2"
