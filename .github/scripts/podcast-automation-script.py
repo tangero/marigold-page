@@ -4,7 +4,7 @@ import yaml
 import feedgenerator
 from datetime import datetime
 from github import Github
-from elevenlabs import Voice, generate, save, set_api_key
+from elevenlabs import generate, set_api_key, voices
 
 # Nastavení
 GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
@@ -19,7 +19,7 @@ VOICE_ID = "NHv5TpkohJlOhwlTCzJk"
 g = Github(GITHUB_TOKEN)
 repo = g.get_repo(REPO_NAME)
 
-# Nastavení API klíče pro Elevenlabs
+# Nastavení API klíče pro ElevenLabs
 set_api_key(ELEVENLABS_API_KEY)
 
 def get_latest_post():
@@ -35,8 +35,10 @@ def parse_frontmatter(content):
 
 def text_to_speech(text, filename):
     try:
-        # Použijeme přímo Voice objekt s ID
-        voice = Voice(voice_id=VOICE_ID)
+        # Získání objektu hlasu podle ID
+        voice = next((v for v in voices() if v.voice_id == VOICE_ID), None)
+        if not voice:
+            raise ValueError(f"Hlas s ID {VOICE_ID} nebyl nalezen.")
 
         # Generování audia
         audio = generate(
@@ -44,7 +46,11 @@ def text_to_speech(text, filename):
             voice=voice,
             model="eleven_multilingual_v2"
         )
-        save(audio, filename)
+        
+        # Uložení audia
+        with open(filename, "wb") as f:
+            f.write(audio)
+        
         print(f"Audio úspěšně vygenerováno a uloženo jako {filename}")
     except Exception as e:
         print(f"Chyba při generování audia: {str(e)}")
