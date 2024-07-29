@@ -9,11 +9,12 @@ GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 REPO_NAME = "tangero/marigold-page"
 VOICE_ID = "NHv5TpkohJlOhwlTCzJk"  # Změňte toto ID na požadované ID hlasu
 CHUNK_SIZE = 1024  # Velikost chunku pro čtení/zápis
+AUDIO_DIR = "audio"  # Adresář pro ukládání audio souborů
 
 def debug_print(message):
     print(f"[DEBUG] {message}")
 
-def text_to_speech(text, api_key, voice_id):
+def text_to_speech(text, api_key, voice_id, output_path):
     debug_print("Starting text-to-speech conversion")
     url = f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}/stream"
     headers = {
@@ -36,7 +37,6 @@ def text_to_speech(text, api_key, voice_id):
 
     response = requests.post(url, headers=headers, json=data, stream=True)
     if response.ok:
-        output_path = "output.mp3"
         with open(output_path, "wb") as f:
             for chunk in response.iter_content(chunk_size=CHUNK_SIZE):
                 f.write(chunk)
@@ -66,9 +66,11 @@ def generate_rss_feed(audio_files):
         guid.text = audio_file['url']
 
     rss_feed = tostring(rss)
-    with open("rss_feed.xml", "wb") as f:
+    rss_feed_path = "rss_feed.xml"
+    with open(rss_feed_path, "wb") as f:
         f.write(rss_feed)
-    debug_print("RSS feed generated and saved as rss_feed.xml")
+    debug_print(f"RSS feed generated and saved as {rss_feed_path}")
+    return rss_feed_path
 
 def get_latest_article(repo):
     commits = repo.get_commits(path="_posts/")
@@ -81,6 +83,17 @@ def get_latest_article(repo):
             return file.filename, file_content.decoded_content.decode('utf-8')
     return None, None
 
+def commit_and_push(repo, file_paths, commit_message):
+    for file_path in file_paths:
+        with open(file_path, "rb") as file:
+            content = file.read()
+        try:
+            contents = repo.get_contents(file_path)
+            repo.update_file(contents.path, commit_message, content, contents.sha)
+        except:
+            repo.create_file(file_path, commit_message, content)
+    debug_print(f"Committed and pushed files: {file_paths}")
+
 def main():
     debug_print("Script started")
     g = Github(GITHUB_TOKEN)
@@ -88,10 +101,19 @@ def main():
 
     article_filename, article_content = get_latest_article(repo)
     if article_content:
-        audio_path = text_to_speech(article_content, API_KEY, VOICE_ID)
-        if audio_path:
-            audio_files = [{"title": article_filename, "url": audio_path}]
-            generate_rss_feed(audio_files)
+        # Vytvoření adresáře audio pokud neexistuje
+        if not os.path.exists(AUDIO_DIR):
+            os.makedirs(AUDIO_DIR)
+        
+        # Vytvoření cesty k výstupnímu souboru
+        audio_filename = os.path.splitext(os.path.basename(article_filename))[0] + ".mp3"
+        audio_path = os.path.join(AUDIO_DIR, audio_filename)
+
+        audio_file_path = text_to_speech(article_content, API_KEY, VOICE_ID, audio_path)
+        if audio_file_path:
+            audio_files = [{"title": article_filename, "url": f"/{audio_path}"}]
+            rss_feed_path = generate_rss_feed(audio_files)
+            commit_and_push(repo, [audio_path, rss_feed_path], f"Add audio for {article_filename}")
     else:
         debug_print("No new article found")
     debug_print("Script finished")
