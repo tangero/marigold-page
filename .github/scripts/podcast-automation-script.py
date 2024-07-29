@@ -4,7 +4,7 @@ import yaml
 import feedgenerator
 from datetime import datetime
 from github import Github
-from elevenlabs import voices, generate, save, set_api_key
+from elevenlabs import Voice, generate, save, set_api_key
 
 # Nastavení
 GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
@@ -35,10 +35,8 @@ def parse_frontmatter(content):
 
 def text_to_speech(text, filename):
     try:
-        # Získání objektu hlasu podle ID
-        voice = next((v for v in voices() if v.voice_id == VOICE_ID), None)
-        if not voice:
-            raise ValueError(f"Hlas s ID {VOICE_ID} nebyl nalezen.")
+        # Použijeme přímo Voice objekt s ID
+        voice = Voice(voice_id=VOICE_ID)
 
         # Generování audia
         audio = generate(
