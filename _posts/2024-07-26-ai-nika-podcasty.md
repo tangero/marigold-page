@@ -5,6 +5,7 @@ post_excerpt: "S podcasty je to těžké. Já je moc rád nemám, jsou pro mě i
 layout: post
 categories: [AI, Podcasty]
 thumbnail: https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/mic-brain-artificial-intelligence-ai-podcast.png
+audio_url: https://www.marigold.cz/audio/2024-07-26-ai-nika-podcasty.mp3
 --- 
 
 S podcasty je to těžké. Já je moc rád nemám, jsou pro mě informačně řídké, hodinu něco posloucháte a hodnotných informací z toho není zase tak moc. Ze článku byste je vstřebali rychleji. V oborech mého zájmu přitom vzniká velké množství podcastů a usledovat se to nedá. A tak vznikají služby, které podcasty zanalyzují a dají vám jejich sumář. 
