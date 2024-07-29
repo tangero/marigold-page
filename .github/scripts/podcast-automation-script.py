@@ -60,7 +60,7 @@ def get_latest_article(repo):
     latest_commit = commits[0]
     files = latest_commit.files
     for file in files:
-        if file.filename.endswith(".md"):
+        if file.filename.startswith("_posts/") and file.filename.endswith(".md") and not file.filename.startswith("_posts/en/"):
             debug_print(f"Latest article found: {file.filename}")
             file_content = repo.get_contents(file.filename, ref=latest_commit.sha)
             return file.filename, file_content.decoded_content.decode('utf-8')
