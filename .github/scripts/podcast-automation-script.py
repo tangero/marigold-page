@@ -4,7 +4,7 @@ import yaml
 import feedgenerator
 from datetime import datetime
 from github import Github
-from elevenlabs import generate, save
+from elevenlabs import voices, generate, save, set_api_key
 
 # Nastavení
 GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
@@ -13,10 +13,14 @@ REPO_NAME = 'tangero/marigold-page'
 POSTS_DIR = '_posts'
 RSS_FILE = 'podcast_feed.xml'
 AUDIO_DIR = 'audio'
+VOICE_ID = "NHv5TpkohJlOhwlTCzJk"
 
 # Inicializace GitHub klienta
 g = Github(GITHUB_TOKEN)
 repo = g.get_repo(REPO_NAME)
+
+# Nastavení API klíče pro Elevenlabs
+set_api_key(ELEVENLABS_API_KEY)
 
 def get_latest_post():
     contents = repo.get_contents(POSTS_DIR)
@@ -30,8 +34,22 @@ def parse_frontmatter(content):
     return metadata, body.strip()
 
 def text_to_speech(text, filename):
-    audio = generate(text=text, api_key=ELEVENLABS_API_KEY)
-    save(audio, filename)
+    try:
+        # Získání objektu hlasu podle ID
+        voice = next((v for v in voices() if v.voice_id == VOICE_ID), None)
+        if not voice:
+            raise ValueError(f"Hlas s ID {VOICE_ID} nebyl nalezen.")
+
+        # Generování audia
+        audio = generate(
+            text=text,
+            voice=voice,
+            model="eleven_multilingual_v2"
+        )
+        save(audio, filename)
+        print(f"Audio úspěšně vygenerováno a uloženo jako {filename}")
+    except Exception as e:
+        print(f"Chyba při generování audia: {str(e)}")
 
 def create_rss_feed(items):
     feed = feedgenerator.Rss201rev2Feed(
