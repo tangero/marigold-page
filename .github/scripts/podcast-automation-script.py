@@ -3,6 +3,7 @@ import requests
 from xml.etree.ElementTree import Element, SubElement, tostring, parse
 from github import Github
 import re
+import yaml
 
 # Nastavení proměnných prostředí
 API_KEY = os.getenv('ELEVENLABS_API_KEY')
@@ -95,6 +96,20 @@ def get_latest_article(repo):
             return file.filename, file_content.decoded_content.decode('utf-8')
     return None, None
 
+def extract_front_matter(article_content):
+    front_matter_match = re.match(r'---\n(.*?)\n---\n', article_content, re.DOTALL)
+    if front_matter_match:
+        return yaml.safe_load(front_matter_match.group(1)), article_content[front_matter_match.end():]
+    return {}, article_content
+
+def update_front_matter(front_matter, audio_url):
+    front_matter['audio_url'] = audio_url
+    return front_matter
+
+def reassemble_article(front_matter, content):
+    front_matter_str = yaml.dump(front_matter, default_flow_style=False)
+    return f"---\n{front_matter_str}---\n{content}"
+
 def extract_title(article_content):
     lines = article_content.split('\n')
     for line in lines:
@@ -151,24 +166,17 @@ def main():
         # Vytvoření cesty k výstupnímu souboru
         audio_filename = os.path.splitext(os.path.basename(article_filename))[0] + ".mp3"
         audio_path = os.path.join(AUDIO_DIR, audio_filename)
+        audio_url = f"{BASE_URL}/{audio_path}"
 
         article_title = extract_title(article_content)
         article_date = extract_date(article_content)
         article_excerpt = extract_excerpt(article_content)
         article_text = extract_clean_text(article_content)
-        text_to_convert = f"Nadpis: {article_title}\nPokračujeme textem článku.\n{article_text}"
+        text_to_convert = f"Nadpis: {article_title}\nA nyní pokračuje článek.\n{article_text}"
 
         audio_file_path = text_to_speech(text_to_convert, API_KEY, VOICE_ID, audio_path)
         if audio_file_path:
             rss = load_existing_rss_feed()
-            audio_files = [{"title": article_title, "url": f"{BASE_URL}/{audio_path}", "excerpt": article_excerpt, "pubDate": article_date}]
+            audio_files = [{"title": article_title, "url": audio_url, "excerpt": article_excerpt, "pubDate": article_date}]
             for audio_file in audio_files:
-                add_item_to_rss_feed(rss, audio_file)
-            save_rss_feed(rss)
-            commit_and_push(repo, [audio_path, RSS_FEED_PATH], f"Add audio for {article_filename}")
-    else:
-        debug_print("No new article found")
-    debug_print("Script finished")
-
-if __name__ == "__main__":
-    main()
+                add_item_to_rss_feed
