@@ -10,6 +10,7 @@ REPO_NAME = "tangero/marigold-page"
 VOICE_ID = "NHv5TpkohJlOhwlTCzJk"  # Změňte toto ID na požadované ID hlasu
 CHUNK_SIZE = 1024  # Velikost chunku pro čtení/zápis
 AUDIO_DIR = "audio"  # Adresář pro ukládání audio souborů
+BASE_URL = "http://www.marigold.cz"  # Základní URL pro audio soubory
 
 def debug_print(message):
     print(f"[DEBUG] {message}")
@@ -83,6 +84,13 @@ def get_latest_article(repo):
             return file.filename, file_content.decoded_content.decode('utf-8')
     return None, None
 
+def extract_title(article_content):
+    lines = article_content.split('\n')
+    for line in lines:
+        if line.startswith('title:'):
+            return line.replace('title:', '').strip()
+    return "Untitled"
+
 def commit_and_push(repo, file_paths, commit_message):
     for file_path in file_paths:
         with open(file_path, "rb") as file:
@@ -111,7 +119,8 @@ def main():
 
         audio_file_path = text_to_speech(article_content, API_KEY, VOICE_ID, audio_path)
         if audio_file_path:
-            audio_files = [{"title": article_filename, "url": f"/{audio_path}"}]
+            article_title = extract_title(article_content)
+            audio_files = [{"title": article_title, "url": f"{BASE_URL}/{audio_path}"}]
             rss_feed_path = generate_rss_feed(audio_files)
             commit_and_push(repo, [audio_path, rss_feed_path], f"Add audio for {article_filename}")
     else:
