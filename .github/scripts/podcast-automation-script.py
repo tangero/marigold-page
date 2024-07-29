@@ -7,26 +7,41 @@ from github import Github
 API_KEY = os.getenv('ELEVENLABS_API_KEY')
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 REPO_NAME = "tangero/marigold-page"
+VOICE_ID = "NHv5TpkohJlOhwlTCzJk"  # Změňte toto ID na požadované ID hlasu
+CHUNK_SIZE = 1024  # Velikost chunku pro čtení/zápis
 
 def debug_print(message):
     print(f"[DEBUG] {message}")
 
-def text_to_speech(text, api_key):
+def text_to_speech(text, api_key, voice_id):
     debug_print("Starting text-to-speech conversion")
-    url = "https://api.elevenlabs.io/v1/text-to-speech"
+    url = f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}/stream"
     headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json"
+        "Accept": "application/json",
+        "xi-api-key": api_key
     }
     data = {
         "text": text,
-        "voice": "en_us_male"  # Změňte hlas dle potřeby
+        "model_id": "eleven_multilingual_v2",
+        "voice_settings": {
+            "stability": 0.5,
+            "similarity_boost": 0.8,
+            "style": 0.0,
+            "use_speaker_boost": True
+        }
     }
-    response = requests.post(url, headers=headers, json=data)
-    if response.status_code == 200:
-        audio_url = response.json().get("audio_url")
-        debug_print(f"Audio URL received: {audio_url}")
-        return audio_url
+    debug_print(f"Request URL: {url}")
+    debug_print(f"Request headers: {headers}")
+    debug_print(f"Request body: {data}")
+
+    response = requests.post(url, headers=headers, json=data, stream=True)
+    if response.ok:
+        output_path = "output.mp3"
+        with open(output_path, "wb") as f:
+            for chunk in response.iter_content(chunk_size=CHUNK_SIZE):
+                f.write(chunk)
+        debug_print(f"Audio stream saved successfully to {output_path}")
+        return output_path
     else:
         debug_print(f"Error in text-to-speech API: {response.status_code}, {response.text}")
         return None
@@ -73,9 +88,9 @@ def main():
 
     article_filename, article_content = get_latest_article(repo)
     if article_content:
-        audio_url = text_to_speech(article_content, API_KEY)
-        if audio_url:
-            audio_files = [{"title": article_filename, "url": audio_url}]
+        audio_path = text_to_speech(article_content, API_KEY, VOICE_ID)
+        if audio_path:
+            audio_files = [{"title": article_filename, "url": audio_path}]
             generate_rss_feed(audio_files)
     else:
         debug_print("No new article found")
