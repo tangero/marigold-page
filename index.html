@@ -27,12 +27,6 @@ layout: default
               {{ post.excerpt | strip_html | truncatewords: 60 }}
             </div>
             
-            <!-- Audio přehrávač -->
-            {% if post.audio_url %}
-              <div class="audio-player">
-                <a href="{{ post.audio_url }}" target="_blank">🎧 Poslechnout audio verzi</a>
-              </div>
-            {% endif %}
           </div>
 
           <div class="post-meta">
@@ -53,7 +47,7 @@ layout: default
               {% when '12' %}prosinec
             {% endcase %}
             {{ post.date | date: "%Y" }} - 
-            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a> {% if post.audio_url %}nebo <a href="{{ post.audio_url }}" target="_blank">🎧 Poslechnout audio</a>{% endif %}
           </div>
         </article>
       {% endif %}
