@@ -160,3 +160,40 @@ def main():
     article_filename, article_content = get_latest_article(repo)
     if article_content:
         # Vytvoření adresáře audio pokud neexistuje
+        if not os.path.exists(AUDIO_DIR):
+            os.makedirs(AUDIO_DIR)
+        
+        # Vytvoření cesty k výstupnímu souboru
+        audio_filename = os.path.splitext(os.path.basename(article_filename))[0] + ".mp3"
+        audio_path = os.path.join(AUDIO_DIR, audio_filename)
+        audio_url = f"{BASE_URL}/{audio_path}"
+
+        # Zkontrolujte, zda již audio soubor existuje
+        if os.path.exists(audio_path):
+            debug_print(f"Audio file already exists: {audio_path}")
+        else:
+            article_title = extract_title(article_content)
+            article_date = extract_date(article_content)
+            article_excerpt = extract_excerpt(article_content)
+            article_text = extract_clean_text(article_content)
+            text_to_convert = f"Nadpis: {article_title}\nA teď následuje článek.\n{article_text}"
+
+            audio_file_path = text_to_speech(text_to_convert, API_KEY, VOICE_ID, audio_path)
+            if audio_file_path:
+                rss = load_existing_rss_feed()
+                audio_files = [{"title": article_title, "url": audio_url, "excerpt": article_excerpt, "pubDate": article_date}]
+                for audio_file in audio_files:
+                    add_item_to_rss_feed(rss, audio_file)
+                save_rss_feed(rss)
+                front_matter, content = extract_front_matter(article_content)
+                updated_front_matter = update_front_matter(front_matter, audio_url)
+                updated_article = reassemble_article(updated_front_matter, content)
+                with open(article_filename, "w") as file:
+                    file.write(updated_article)
+                commit_and_push(repo, [audio_path, RSS_FEED_PATH, article_filename], f"Add audio for {article_filename}")
+    else:
+        debug_print("No new article found“)
+debug_print(“Script finished”)
+
+if name == “main”:
+main()
