@@ -27,7 +27,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
-      run: python .github/scripts/podcast_automation.py
+      run: python .github/scripts/podcast-automation-script.py
     
     - name: Commit and push if changed
       run: |
