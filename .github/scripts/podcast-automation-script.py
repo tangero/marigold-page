@@ -11,7 +11,7 @@ print(f"Python version: {sys.version}")
 print(f"Elevenlabs version: {elevenlabs.__version__}")
 
 # Nastavení
-PAT_TOKEN = os.environ['PAT_TOKEN']
+GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
 ELEVENLABS_API_KEY = os.environ['ELEVENLABS_API_KEY']
 REPO_NAME = 'tangero/marigold-page'
 POSTS_DIR = '_posts'
@@ -19,11 +19,11 @@ RSS_FILE = 'podcast_feed.xml'
 AUDIO_DIR = 'audio'
 VOICE_ID = "NHv5TpkohJlOhwlTCzJk"
 
-print(f"PAT_TOKEN set: {'PAT_TOKEN' in os.environ}")
+print(f"GITHUB_TOKEN set: {'GITHUB_TOKEN' in os.environ}")
 print(f"ELEVENLABS_API_KEY set: {'ELEVENLABS_API_KEY' in os.environ}")
 
 # Inicializace GitHub klienta
-g = Github(PAT_TOKEN)
+g = Github(GITHUB_TOKEN)
 repo = g.get_repo(REPO_NAME)
 
 # Nastavení API klíče pro ElevenLabs
