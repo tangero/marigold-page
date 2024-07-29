@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - '_posts/**'
+    workflow_dispatch:  # Toto umožní manuální spuštění   
 
 jobs:
   generate_podcast:
