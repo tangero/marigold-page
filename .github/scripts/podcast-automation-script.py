@@ -2,6 +2,7 @@ import os
 import requests
 from xml.etree.ElementTree import Element, SubElement, tostring
 from github import Github
+import re
 
 # Nastavení proměnných prostředí
 API_KEY = os.getenv('ELEVENLABS_API_KEY')
@@ -91,6 +92,23 @@ def extract_title(article_content):
             return line.replace('title:', '').strip()
     return "Untitled"
 
+def extract_date(article_content):
+    lines = article_content.split('\n')
+    for line in lines:
+        if line.startswith('date:'):
+            return line.replace('date:', '').strip()
+    return "No date"
+
+def extract_clean_text(article_content):
+    # Odstraní hlavičku článku
+    clean_text = re.sub(r'---[\s\S]*?---', '', article_content)
+    # Odstraní Markdown formátování
+    clean_text = re.sub(r'!\[.*?\]\(.*?\)', '', clean_text)  # Odstraní obrázky
+    clean_text = re.sub(r'\[.*?\]\(.*?\)', '', clean_text)  # Odstraní odkazy
+    clean_text = re.sub(r'[#*`>]', '', clean_text)  # Odstraní speciální znaky
+    clean_text = re.sub(r'\n+', '\n', clean_text)  # Odstraní nadbytečné nové řádky
+    return clean_text.strip()
+
 def commit_and_push(repo, file_paths, commit_message):
     for file_path in file_paths:
         with open(file_path, "rb") as file:
@@ -117,9 +135,13 @@ def main():
         audio_filename = os.path.splitext(os.path.basename(article_filename))[0] + ".mp3"
         audio_path = os.path.join(AUDIO_DIR, audio_filename)
 
-        audio_file_path = text_to_speech(article_content, API_KEY, VOICE_ID, audio_path)
+        article_title = extract_title(article_content)
+        article_date = extract_date(article_content)
+        article_text = extract_clean_text(article_content)
+        text_to_convert = f"Nadpis: {article_title}\nVydáno: {article_date}\n{article_text}"
+
+        audio_file_path = text_to_speech(text_to_convert, API_KEY, VOICE_ID, audio_path)
         if audio_file_path:
-            article_title = extract_title(article_content)
             audio_files = [{"title": article_title, "url": f"{BASE_URL}/{audio_path}"}]
             rss_feed_path = generate_rss_feed(audio_files)
             commit_and_push(repo, [audio_path, rss_feed_path], f"Add audio for {article_filename}")
