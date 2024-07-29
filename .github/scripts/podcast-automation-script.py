@@ -1,4 +1,5 @@
 import os
+import sys
 import requests
 import yaml
 import feedgenerator
@@ -6,8 +7,11 @@ from datetime import datetime
 from github import Github
 import elevenlabs
 
+print(f"Python version: {sys.version}")
+print(f"Elevenlabs version: {elevenlabs.__version__}")
+
 # Nastavení
-GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
+PAT_TOKEN = os.environ['PAT_TOKEN']
 ELEVENLABS_API_KEY = os.environ['ELEVENLABS_API_KEY']
 REPO_NAME = 'tangero/marigold-page'
 POSTS_DIR = '_posts'
@@ -15,8 +19,11 @@ RSS_FILE = 'podcast_feed.xml'
 AUDIO_DIR = 'audio'
 VOICE_ID = "NHv5TpkohJlOhwlTCzJk"
 
+print(f"PAT_TOKEN set: {'PAT_TOKEN' in os.environ}")
+print(f"ELEVENLABS_API_KEY set: {'ELEVENLABS_API_KEY' in os.environ}")
+
 # Inicializace GitHub klienta
-g = Github(GITHUB_TOKEN)
+g = Github(PAT_TOKEN)
 repo = g.get_repo(REPO_NAME)
 
 # Nastavení API klíče pro ElevenLabs
@@ -35,22 +42,22 @@ def parse_frontmatter(content):
 
 def text_to_speech(text, filename):
     try:
-        # Získání objektu hlasu podle ID
+        print("Začínám generovat audio...")
         voice = elevenlabs.Voice(voice_id=VOICE_ID)
-
-        # Generování audia
+        print(f"Hlas nastaven: {voice}")
+        
         audio = elevenlabs.generate(
             text=text,
             voice=voice,
             model="eleven_multilingual_v2"
         )
+        print("Audio vygenerováno")
         
-        # Uložení audia
         elevenlabs.save(audio, filename)
-        
-        print(f"Audio úspěšně vygenerováno a uloženo jako {filename}")
+        print(f"Audio úspěšně uloženo jako {filename}")
     except Exception as e:
         print(f"Chyba při generování audia: {str(e)}")
+        raise
 
 def create_rss_feed(items):
     feed = feedgenerator.Rss201rev2Feed(
@@ -77,25 +84,35 @@ def create_rss_feed(items):
         feed.write(f, 'utf-8')
 
 def main():
-    latest_post = get_latest_post()
-    metadata, content = parse_frontmatter(latest_post.decoded_content.decode())
-    
-    audio_filename = f"{AUDIO_DIR}/{latest_post.name.replace('.md', '.mp3')}"
-    text_to_speech(content, audio_filename)
-    
-    audio_size = os.path.getsize(audio_filename)
-    audio_url = f"https://raw.githubusercontent.com/{REPO_NAME}/main/{audio_filename}"
-    
-    items = [{
-        'title': metadata['title'],
-        'link': f"https://www.marigold.cz/{latest_post.name.replace('.md', '')}",
-        'description': metadata.get('description', ''),
-        'pubdate': datetime.strptime(metadata['date'], '%Y-%m-%d'),
-        'audio_url': audio_url,
-        'audio_size': audio_size
-    }]
-    
-    create_rss_feed(items)
+    try:
+        print("Začínám zpracování...")
+        latest_post = get_latest_post()
+        print(f"Nejnovější příspěvek: {latest_post.name}")
+        
+        metadata, content = parse_frontmatter(latest_post.decoded_content.decode())
+        print(f"Metadata: {metadata}")
+        print(f"Délka obsahu: {len(content)} znaků")
+        
+        audio_filename = f"{AUDIO_DIR}/{latest_post.name.replace('.md', '.mp3')}"
+        text_to_speech(content, audio_filename)
+        
+        audio_size = os.path.getsize(audio_filename)
+        audio_url = f"https://raw.githubusercontent.com/{REPO_NAME}/main/{audio_filename}"
+        
+        items = [{
+            'title': metadata['title'],
+            'link': f"https://www.marigold.cz/{latest_post.name.replace('.md', '')}",
+            'description': metadata.get('description', ''),
+            'pubdate': datetime.strptime(metadata['date'], '%Y-%m-%d'),
+            'audio_url': audio_url,
+            'audio_size': audio_size
+        }]
+        
+        create_rss_feed(items)
+        print("RSS feed vytvořen")
+    except Exception as e:
+        print(f"Chyba v hlavní funkci: {str(e)}")
+        raise
 
 if __name__ == "__main__":
     main()
