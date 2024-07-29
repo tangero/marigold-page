@@ -176,7 +176,7 @@ def main():
             article_date = extract_date(article_content)
             article_excerpt = extract_excerpt(article_content)
             article_text = extract_clean_text(article_content)
-            text_to_convert = f"Nadpis: {article_title}\nA teď následuje článek.\n{article_text}"
+            text_to_convert = f"Nadpis: {article_title}\nVydáno: {article_date}\n{article_text}"
 
             audio_file_path = text_to_speech(text_to_convert, API_KEY, VOICE_ID, audio_path)
             if audio_file_path:
@@ -192,8 +192,8 @@ def main():
                     file.write(updated_article)
                 commit_and_push(repo, [audio_path, RSS_FEED_PATH, article_filename], f"Add audio for {article_filename}")
     else:
-        debug_print("No new article found“)
-debug_print(“Script finished”)
+        debug_print("No new article found")
+        debug_print("Script finished")
 
-if name == “main”:
-main()
+if __name__ == "__main__":
+    main()
