@@ -58,14 +58,20 @@ def generate_rss_feed(audio_files):
     link.text = "http://www.marigold.cz/podcast"
     description = SubElement(channel, 'description')
     description.text = "Automaticky generované podcasty z článků na Marigold.cz"
+    language = SubElement(channel, 'language')
+    language.text = "cs"  # Změňte podle jazyka podcastu
 
     for audio_file in audio_files:
         item = SubElement(channel, 'item')
         title = SubElement(item, 'title')
         title.text = audio_file['title']
+        description = SubElement(item, 'description')
+        description.text = audio_file['excerpt']
         enclosure = SubElement(item, 'enclosure', url=audio_file['url'], type="audio/mpeg")
         guid = SubElement(item, 'guid')
         guid.text = audio_file['url']
+        pubDate = SubElement(item, 'pubDate')
+        pubDate.text = audio_file['pubDate']
 
     rss_feed = tostring(rss)
     rss_feed_path = "rss_feed.xml"
@@ -98,6 +104,13 @@ def extract_date(article_content):
         if line.startswith('date:'):
             return line.replace('date:', '').strip()
     return "No date"
+
+def extract_excerpt(article_content):
+    lines = article_content.split('\n')
+    for line in lines:
+        if line.startswith('excerpt:'):
+            return line.replace('excerpt:', '').strip()
+    return ""
 
 def extract_clean_text(article_content):
     # Odstraní hlavičku článku
@@ -137,12 +150,13 @@ def main():
 
         article_title = extract_title(article_content)
         article_date = extract_date(article_content)
+        article_excerpt = extract_excerpt(article_content)
         article_text = extract_clean_text(article_content)
-        text_to_convert = f"Nadpis: {article_title}\nA teď už ke článku. \n{article_text}"
+        text_to_convert = f"Nadpis: {article_title}\nA pokračujeme textem článku.\n{article_text}"
 
         audio_file_path = text_to_speech(text_to_convert, API_KEY, VOICE_ID, audio_path)
         if audio_file_path:
-            audio_files = [{"title": article_title, "url": f"{BASE_URL}/{audio_path}"}]
+            audio_files = [{"title": article_title, "url": f"{BASE_URL}/{audio_path}", "excerpt": article_excerpt, "pubDate": article_date}]
             rss_feed_path = generate_rss_feed(audio_files)
             commit_and_push(repo, [audio_path, rss_feed_path], f"Add audio for {article_filename}")
     else:
