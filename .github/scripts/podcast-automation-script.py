@@ -104,7 +104,7 @@ def extract_clean_text(article_content):
     clean_text = re.sub(r'---[\s\S]*?---', '', article_content)
     # Odstraní Markdown formátování
     clean_text = re.sub(r'!\[.*?\]\(.*?\)', '', clean_text)  # Odstraní obrázky
-    clean_text = re.sub(r'\[.*?\]\(.*?\)', '', clean_text)  # Odstraní odkazy
+    clean_text = re.sub(r'\[([^\]]+)\]\(.*?\)', r'\1', clean_text)  # Odstraní odkazy, ponechá text odkazu
     clean_text = re.sub(r'[#*`>]', '', clean_text)  # Odstraní speciální znaky
     clean_text = re.sub(r'\n+', '\n', clean_text)  # Odstraní nadbytečné nové řádky
     return clean_text.strip()
@@ -138,7 +138,7 @@ def main():
         article_title = extract_title(article_content)
         article_date = extract_date(article_content)
         article_text = extract_clean_text(article_content)
-        text_to_convert = f"Nadpis: {article_title}\nA pokračujeme článkem. {article_text}"
+        text_to_convert = f"Nadpis: {article_title}\nA teď už ke článku. \n{article_text}"
 
         audio_file_path = text_to_speech(text_to_convert, API_KEY, VOICE_ID, audio_path)
         if audio_file_path:
