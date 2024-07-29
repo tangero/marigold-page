@@ -1,121 +1,85 @@
 import os
-import sys
 import requests
-import yaml
-import feedgenerator
-from datetime import datetime
+from xml.etree.ElementTree import Element, SubElement, tostring
 from github import Github
-from elevenlabs import Client, voices
 
-print(f"Python version: {sys.version}")
-print(f"Elevenlabs version: {elevenlabs.__version__}")
+# Nastavení proměnných prostředí
+API_KEY = os.getenv('ELEVENLABS_API_KEY')
+GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
+REPO_NAME = "tangero/marigold-page"
 
-# Nastavení
-GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
-ELEVENLABS_API_KEY = os.environ['ELEVENLABS_API_KEY']
-REPO_NAME = 'tangero/marigold-page'
-POSTS_DIR = '_posts'
-RSS_FILE = 'podcast_feed.xml'
-AUDIO_DIR = 'audio'
-VOICE_ID = "NHv5TpkohJlOhwlTCzJk"
+def debug_print(message):
+    print(f"[DEBUG] {message}")
 
-print(f"GITHUB_TOKEN set: {'GITHUB_TOKEN' in os.environ}")
-print(f"ELEVENLABS_API_KEY set: {'ELEVENLABS_API_KEY' in os.environ}")
+def text_to_speech(text, api_key):
+    debug_print("Starting text-to-speech conversion")
+    url = "https://api.elevenlabs.io/v1/text-to-speech"
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
+    data = {
+        "text": text,
+        "voice": "en_us_male"  # Změňte hlas dle potřeby
+    }
+    response = requests.post(url, headers=headers, json=data)
+    if response.status_code == 200:
+        audio_url = response.json().get("audio_url")
+        debug_print(f"Audio URL received: {audio_url}")
+        return audio_url
+    else:
+        debug_print(f"Error in text-to-speech API: {response.status_code}, {response.text}")
+        return None
 
-# Inicializace GitHub klienta
-g = Github(GITHUB_TOKEN)
-repo = g.get_repo(REPO_NAME)
+def generate_rss_feed(audio_files):
+    debug_print("Generating RSS feed")
+    rss = Element('rss', version='2.0')
+    channel = SubElement(rss, 'channel')
+    title = SubElement(channel, 'title')
+    title.text = "Marigold Podcast"
+    link = SubElement(channel, 'link')
+    link.text = "http://www.marigold.cz/podcast"
+    description = SubElement(channel, 'description')
+    description.text = "Automaticky generované podcasty z článků na Marigold.cz"
 
-# Inicializace ElevenLabs klienta
-client = Client(api_key=ELEVENLABS_API_KEY)
+    for audio_file in audio_files:
+        item = SubElement(channel, 'item')
+        title = SubElement(item, 'title')
+        title.text = audio_file['title']
+        enclosure = SubElement(item, 'enclosure', url=audio_file['url'], type="audio/mpeg")
+        guid = SubElement(item, 'guid')
+        guid.text = audio_file['url']
 
-def get_latest_post():
-    contents = repo.get_contents(POSTS_DIR)
-    posts = [content for content in contents if content.name.endswith('.md')]
-    latest_post = max(posts, key=lambda x: x.commit.commit.author.date)
-    return latest_post
+    rss_feed = tostring(rss)
+    with open("rss_feed.xml", "wb") as f:
+        f.write(rss_feed)
+    debug_print("RSS feed generated and saved as rss_feed.xml")
 
-def parse_frontmatter(content):
-    _, frontmatter, body = content.split('---', 2)
-    metadata = yaml.safe_load(frontmatter)
-    return metadata, body.strip()
-
-def text_to_speech(text, filename):
-    try:
-        print("Začínám generovat audio...")
-        voice = voices().get(VOICE_ID)
-        if not voice:
-            raise ValueError(f"Hlas s ID {VOICE_ID} nebyl nalezen.")
-        print(f"Hlas nastaven: {voice.name}")
-        
-        audio = client.generate(
-            text=text,
-            voice=voice,
-            model="eleven_multilingual_v2"
-        )
-        print("Audio vygenerováno")
-        
-        with open(filename, 'wb') as f:
-            f.write(audio)
-        print(f"Audio úspěšně uloženo jako {filename}")
-    except Exception as e:
-        print(f"Chyba při generování audia: {str(e)}")
-        raise
-
-def create_rss_feed(items):
-    feed = feedgenerator.Rss201rev2Feed(
-        title="Marigold Podcast",
-        link="https://www.marigold.cz/",
-        description="Podcast version of Marigold blog",
-        language="cs",
-    )
-    
-    for item in items:
-        feed.add_item(
-            title=item['title'],
-            link=item['link'],
-            description=item['description'],
-            pubdate=item['pubdate'],
-            enclosure=feedgenerator.Enclosure(
-                url=item['audio_url'],
-                length=str(item['audio_size']),
-                mime_type='audio/mpeg'
-            )
-        )
-    
-    with open(RSS_FILE, 'w') as f:
-        feed.write(f, 'utf-8')
+def get_latest_article(repo):
+    commits = repo.get_commits(path="_posts/")
+    latest_commit = commits[0]
+    files = latest_commit.files
+    for file in files:
+        if file.filename.endswith(".md"):
+            debug_print(f"Latest article found: {file.filename}")
+            file_content = repo.get_contents(file.filename, ref=latest_commit.sha)
+            return file.filename, file_content.decoded_content.decode('utf-8')
+    return None, None
 
 def main():
-    try:
-        print("Začínám zpracování...")
-        latest_post = get_latest_post()
-        print(f"Nejnovější příspěvek: {latest_post.name}")
-        
-        metadata, content = parse_frontmatter(latest_post.decoded_content.decode())
-        print(f"Metadata: {metadata}")
-        print(f"Délka obsahu: {len(content)} znaků")
-        
-        audio_filename = f"{AUDIO_DIR}/{latest_post.name.replace('.md', '.mp3')}"
-        text_to_speech(content, audio_filename)
-        
-        audio_size = os.path.getsize(audio_filename)
-        audio_url = f"https://raw.githubusercontent.com/{REPO_NAME}/main/{audio_filename}"
-        
-        items = [{
-            'title': metadata['title'],
-            'link': f"https://www.marigold.cz/{latest_post.name.replace('.md', '')}",
-            'description': metadata.get('description', ''),
-            'pubdate': datetime.strptime(metadata['date'], '%Y-%m-%d'),
-            'audio_url': audio_url,
-            'audio_size': audio_size
-        }]
-        
-        create_rss_feed(items)
-        print("RSS feed vytvořen")
-    except Exception as e:
-        print(f"Chyba v hlavní funkci: {str(e)}")
-        raise
+    debug_print("Script started")
+    g = Github(GITHUB_TOKEN)
+    repo = g.get_repo(REPO_NAME)
+
+    article_filename, article_content = get_latest_article(repo)
+    if article_content:
+        audio_url = text_to_speech(article_content, API_KEY)
+        if audio_url:
+            audio_files = [{"title": article_filename, "url": audio_url}]
+            generate_rss_feed(audio_files)
+    else:
+        debug_print("No new article found")
+    debug_print("Script finished")
 
 if __name__ == "__main__":
     main()
