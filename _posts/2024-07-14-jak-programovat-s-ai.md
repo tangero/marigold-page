@@ -1,12 +1,17 @@
 ---
-title: Návod na programování s AI, když programovat neumíte
+audio_url: http://www.marigold.cz/audio/2024-07-14-jak-programovat-s-ai.mp3
 author: Patrick Zandl
-post_excerpt: "S umělou inteligencí se programování stalo dostupnějším i lidem, kteří programovat neumí. V tomto článku se podíváme na to, jak vyvíjet aplikace s pomocí AI, když sami programovat neumíte."
-layout: post
-categories: [AI, Umělá inteligence]
-thumbnail: https://www.marigold.cz/assets/prgramovani-s-ai.png
+categories:
+- AI
+- "Um\u011Bl\xE1 inteligence"
 hide: true
-
+layout: post
+post_excerpt: "S um\u011Blou inteligenc\xED se programov\xE1n\xED stalo dostupn\u011B\
+  j\u0161\xEDm i lidem, kte\u0159\xED programovat neum\xED. V tomto \u010Dl\xE1nku\
+  \ se pod\xEDv\xE1me na to, jak vyv\xEDjet aplikace s pomoc\xED AI, kdy\u017E sami\
+  \ programovat neum\xEDte."
+thumbnail: https://www.marigold.cz/assets/prgramovani-s-ai.png
+title: "N\xE1vod na programov\xE1n\xED s AI, kdy\u017E programovat neum\xEDte"
 ---
 
 
