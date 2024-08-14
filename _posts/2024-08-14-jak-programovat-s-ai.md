@@ -23,24 +23,66 @@ To ale AI mění. Pokud si předplácíte ChatGPT nebo Claude, můžete nechat u
 
 Pojďme se podívat, jak na to.
 
-Za prvé je potřeba si ujasnit, co chcete vytvořit. Rozhodně nepředpokládejte, že vám AI vygeneruje na jeden prompt weby rozsahu Facebooku. To za prvé. Za druhé je dobré něco o vývoji a provozu webů vědět, samozřejmě čím více, tím lépe, ale každý základ se hodí. Za třetí, uvažujte o AI jako o zkušenějším kolegovi, po kterém můžete ledasco chtít, ale musíte mu to dobře vysvětlit. 
+**Za prvé je potřeba si ujasnit, co chcete vytvořit.** Rozhodně nepředpokládejte, že vám AI vygeneruje na jeden prompt weby rozsahu Facebooku. To za prvé. Za druhé je dobré něco o vývoji a provozu webů vědět, samozřejmě čím více, tím lépe, ale každý základ se hodí. Za třetí, uvažujte o AI jako o zkušenějším kolegovi, po kterém můžete ledasco chtít, ale musíte mu to dobře vysvětlit. 
 
 Proces tvorby programu s AI je proces iterativní. Máte vstup - tedy základní východisko a podmínky, z nichž se vychází. Pak máte výstup - tedy to, co chcete dostat a jak to má vypadat. A mezi tím je ta magie, který bývá laikům ukradená a kterou teď doufáme, že pořeší umělá inteligence.
 
-Vezmeme si nějaký úkol. Například já používám pro logování projektů systém, kdy si napíšu, co jsem udělal a za to s hashem název projektu či práce. Například “Objednán nový server #marigold#. A chci mít webovou službu, kam si za prvé toto poznamenám, za druhé si mohu všechny tyto poznámky vypsat. Je to  relativně jednoduchá aplikace pro náš příklad programování s AI. 
+Vezmeme si nějaký příklad. Například já používám pro logování projektů systém, kdy si napíšu, co jsem udělal a za to s hashem název projektu či práce. Například “Objednám nový server #marigold". To si píšu do Excelu. Nově chci mít webovou službu, kam si za prvé toto poznamenám, za druhé si mohu všechny tyto poznámky vypsat. Je to  relativně jednoduchá aplikace pro náš příklad programování s AI. 
 
-Za prvé si ujasníme, co chci:
+**Takže si ujasněme zadání pro tuto aplikaci:**
 - data se zadávají přes webový formulář ve formátu libovolného krátkého textu a mohou obsahovat hashtag, tedy slovo začínající znakem #
 - tato data lze vypisovat podle data a také výpis omezit na určitý hashtag
 - jelikož jde o web službu přístupnou z internetu, bude vhodné data zpřístupnit jen přihlášenému uživateli
 
 A to je vlastně celé zadání našeho projektu. Záměrně oškubané, což by mi zkušený projekťák oprávněně vytknul, ale později si ukážeme, proč. 
 
-Předpokládejme, že si platíte ChatGPT, ale postup bude podobný i pro jiné nástroje jako Claude. V ChatGPT ovšem máte výhodu, můžete použít GPT. Najděte v sekci Prozkoumat GPT nástroj nazvaný Code Copilot, to je skvěle přizpůsobený nástroj pro podporu programování. Vložme zhruba tento prompt:\
+Předpokládejme, že si platíte ChatGPT, ale postup bude podobný i pro jiné nástroje jako Claude. V ChatGPT ovšem máte výhodu, můžete použít GPT. Najděte v sekci Prozkoumat GPT nástroj nazvaný [*Code Copilot*](https://chatgpt.com/g/g-5qFFjp0bP-code-copilot), to je skvěle přizpůsobený nástroj pro podporu programování. Vložme zhruba tento prompt:
 
 > Ahoj, potřebuji vytvořit webovou aplikaci. Aplikace by měla umožnit registraci a přihlášení uživatele. Přihlášený uživatel může do textového vstupního pole zadat text, který se uloží. Ukládá se včetně data a času zadání. Další stránka umožňuje vypsat všechny zadané texty vevolitelnem časovém rozmezí a třídit je podle hashtagu. Další stránka vygeneruje cloud hashtagů včetně četnosti použití. Očekávám, že služba bude málo využívaná. Jaký programovací jazyk a postup považuješ pro toto zadání za nejvhodnější? Rád bych, aby vznikl čitelný kód a pomohl jsi mi vybrat hosting, kde budu moci jednoduše tento kód nasazovat, vše bude čitelné a pochopitelné pro začátečníka. Rád bych, aby hosting byl zdarma, případně placený dle četnosti použití.  Nejdříve mi udělej souhrn tvých doporučení pro programovací jazyk a pro hosting, popiš mi výhody a nevýhody. 
 	
 Code Copilot (CC) nabídne, abyste řešení realizovali v Pythonu, pro backend použili framework Flask a Jinja2 pro frontend. Tady se hodí, když víte, o co zhruba jde, my si to vysvětlovat nebudeme. 
+
+### Doporučení pro programovací jazyk a framework
+
+**Jazyk:** Python  
+**Framework:** Flask (pro backend) a Jinja2 (pro frontend šablony)
+
+#### Výhody:
+- **Jednoduchost:** Python je jazyk známý svou čitelností a snadným učením, což je ideální pro začátečníky.
+- **Flask:** Je lehký webový framework, který je jednoduchý na použití, umožňuje rychlé prototypování a poskytuje flexibilitu při vytváření aplikace. Flask je velmi dobře dokumentovaný, což usnadňuje vývoj a řešení problémů.
+- **Široká podpora:** Python a Flask mají velkou komunitu a množství knihoven, které mohou zjednodušit práci (například pro správu uživatelů, práci s databázemi, nebo generování grafů a cloudů slov).
+- **Flexibilita:** Flask je velmi modulární, což umožňuje snadnou integraci s různými databázemi (např. SQLite pro jednoduché nasazení) a front-end frameworky.
+- **Učitelnost:** Python má jednoduchou a čitelnou syntax, což z něj činí skvělou volbu pro výuku a pochopení webového vývoje.
+
+#### Nevýhody:
+- **Výkon:** Flask není tak výkonný jako jiné plně vybavené frameworky, jako je Django nebo Node.js, ale pro málo využívanou službu by to neměl být problém.
+- **Méně funkcí:** Flask neposkytuje tolik vestavěných funkcí jako robustnější frameworky (např. Django), což znamená, že některé funkce budete muset implementovat sami.
+
+### Doporučení pro hosting
+
+**Hostingová platforma:** Heroku
+
+#### Výhody:
+- **Jednoduché nasazení:** Heroku nabízí snadné nasazení aplikací přímo z GitHubu nebo přes příkazový řádek, což je vhodné pro začátečníky.
+- **Zdarma:** Heroku nabízí bezplatný plán, který je vhodný pro malé a málo využívané aplikace. Placené plány jsou dostupné pro větší škálování.
+- **Podpora pro Python:** Heroku má vestavěnou podporu pro Python a Flask aplikace, což umožňuje snadnou integraci a nasazení.
+- **Databáze:** Heroku nabízí integrovanou podporu pro PostgreSQL databáze, což vám poskytuje škálovatelnou a spolehlivou databázi přímo na platformě.
+
+#### Nevýhody:
+- **Omezené zdroje na bezplatném plánu:** Bezplatný plán Heroku má omezení v počtu hodin spuštění aplikace za měsíc a nemusí být vhodný pro aplikace s vysokým provozem nebo velkou databází.
+- **Spouštění po nečinnosti:** Aplikace nasazené na bezplatném plánu mohou po nečinnosti usnout a po opětovném spuštění mohou mít pomalejší odezvu.
+
+### Alternativní možnosti
+
+- **Vercel nebo Netlify:** Tyto platformy jsou zaměřené hlavně na front-end, ale mohou být použity i pro full-stack aplikace pomocí serverless funkcí. Jsou rovněž velmi přátelské k začátečníkům a mají bezplatné plány.
+- **Render:** Alternativa k Heroku, která nabízí podobné možnosti nasazení s jednoduchým uživatelským rozhraním a bezplatnými plány.
+
+### Souhrn
+
+Doporučuji použít Python s Flaskem pro vývoj vaší webové aplikace. Tento přístup vám poskytne čitelný a flexibilní kód, který je snadno pochopitelný pro začátečníky. Pro hosting bych doporučil Heroku, protože nabízí jednoduché nasazení a bezplatný plán vhodný pro menší projekty.
+
+**a.** Chcete pokračovat s implementací backendu aplikace pomocí Flasku?  
+**b.** Mám vám pomoci nastavit projekt a připravit kód pro základní funkčnost, jako je registrace uživatelů a ukládání textů?
 
 CC také doporučí platformy pro hostování Pythonu, navrhuje použít Heroku, alternativně Vercel, Netlify nebo Render, všechno jsou velmi validní volby. Ale jak to, že nám neodporučil třeba Amazon AWS nebo MS Azure, když na ně všude jsou reklamy? Zeptejme se:
 
