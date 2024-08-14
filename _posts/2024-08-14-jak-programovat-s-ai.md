@@ -4,7 +4,6 @@ author: Patrick Zandl
 categories:
 - AI
 - "Umělá inteligence"
-hide: true
 layout: post
 post_excerpt: "S umělou inteligencí se programování stalo dostupným  i lidem, kteří programovat neumí. V tomto článku se podíváme na to, jak vyvíjet aplikace s pomocí AI, když sami programovat neumíte."
 thumbnail: https://www.marigold.cz/assets/prgramovani-s-ai.png
