@@ -185,9 +185,60 @@ Dejme tedy na první dopoučení a pojďme si ujasnit, jaký bude další pracov
 
 > Jaké by jsi mi doporučil pracovní workflow pro vývoj této mojí aplikace? Použiji tedy python a Heroku a můj počítač používá MacOS.
 
-CC i Claude nám vcelku shodně (s rozdílnou mírou detailu) radí, jak dále postupovat.
+CC i Claude nám vcelku shodně (s rozdílnou mírou detailu) radí, jak dále postupovat.  Nejprve bychom si měli rozchodit lokální vývojové prostředí, tedy instalovat Python, Flask a nějaký editor zdrojového kódu - doporučuje se nám přímo co a jak. To je ten důvod, proč jsme do promptu uvedli, z jakého operačního systému budeme pracovat. AI nám nyní přímo nabízí příkazy pro příkazovou řádku nebo software vhodný pro tento operační systém (odpověď je tentokráte z Claude).
 
-Nejprve bychom si měli rozchodit lokální vývojové prostředí, tedy instalovat Python, Flask a nějaký editor zdrojového kódu - doporučuje se nám přímo co a jak. To je ten důvod, proč jsme do promptu uvedli, z jakého operačního systému budeme pracovat. AI nám nyní přímo nabízí příkazy pro příkazovou řádku nebo software vhodný pro tento operační systém.
+> Pro vývoj vaší aplikace v Pythonu s nasazením na Heroku a s použitím
+> macOS bych doporučil následující workflow:
+> 
+> 1. Nastavení vývojového prostředí:
+>    - Nainstalujte Python (pokud již nemáte): Použijte Homebrew nebo stáhněte z python.org
+>    - Nainstalujte Git pro správu verzí
+>    - Nainstalujte editor kódu (např. Visual Studio Code nebo PyCharm)
+> 
+> 2. Vytvoření projektu:
+>    - Vytvořte nový adresář pro projekt
+>    - Inicializujte Git repozitář: `git init`
+>    - Vytvořte virtuální prostředí: `python -m venv venv`
+>    - Aktivujte virtuální prostředí: `source venv/bin/activate`
+> 
+> 3. Nastavení Flask aplikace:
+>    - Nainstalujte Flask: `pip install flask`
+>    - Vytvořte požadavky: `pip freeze > requirements.txt`
+>    - Vytvořte základní strukturu Flask aplikace
+> 
+> 4. Vývoj:
+>    - Pracujte na funkcionalitách postupně
+>    - Používejte Git pro průběžné ukládání změn:
+>      ```
+>      git add .
+>      git commit -m "Popis změn"
+>      ```
+>    - Testujte lokálně: `flask run`
+> 
+> 5. Nasazení na Heroku:
+>    - Nainstalujte Heroku CLI: `brew tap heroku/brew && brew install heroku`
+>    - Přihlaste se k Heroku: `heroku login`
+>    - Vytvořte Heroku aplikaci: `heroku create nazev-aplikace`
+>    - Vytvořte Procfile pro Heroku
+>    - Nasaďte aplikaci: `git push heroku main`
+> 
+> 6. Kontinuální vývoj a nasazování:
+>    - Pokračujte ve vývoji lokálně
+>    - Testujte změny
+>    - Commitujte změny do Gitu
+>    - Nasazujte na Heroku: `git push heroku main`
+> 
+> 7. Monitorování a ladění:
+>    - Sledujte logy: `heroku logs --tail`
+>    - Používejte Heroku dashboard pro monitoring
+> 
+> Doporučuji také:
+> - Používejte `.gitignore` soubor pro vyloučení nepotřebných souborů z Gitu
+> - Zvažte použití nástrojů pro automatické formátování kódu (např. Black)
+> - Implementujte unit testy pro klíčové funkce
+> 
+> Chcete, abych vám ukázal, jak začít s tímto workflow vytvořením
+> základní struktury projektu?
 
   
 
