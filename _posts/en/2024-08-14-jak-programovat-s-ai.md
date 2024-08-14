@@ -4,7 +4,7 @@ author: Patrick Zandl
 categories:
 - AI
 - Umělá inteligence
-content_hash: 7180fe0ff4989540cbbd26c9bf755486
+content_hash: 66b1312c2a765141efc0dfc6fa4473f0
 hide: true
 lang: en
 layout: post
@@ -258,7 +258,7 @@ And get the details I need.
 
   
 
-After some time following the AI's instructions, we should be pretty well equipped. We have a local development environment, so we can develop and test the application right on our computer. We have a versioning system in place, so we have good control over how we build the code and can deploy it to "production" at the appropriate time - or send it to Heroku and make it visible to the world there.
+After some time following the AI's instructions, we should be pretty well equipped. We have a local development environment, so we can develop and test the application right on our computer. We have a versioning system in place, so we have good control over how we create code and can deploy it to "production" at the appropriate time - or send it to Heroku and make it visible to the world there.
 
   
 
@@ -268,7 +268,7 @@ Now we're clear on what we want and how we're going to proceed. At this point, t
 
 > Create the source code for my app and describe in beginner's detail what to set up where and where to store it so that the code works when deployed.
 
-The AI will now describe the file structure, i.e. where to store what, and then output the contents of those files. Now comes the tedious click-and-click moment where you have to use Copy&Paste to transfer the code (preferably via that installed development environment) to your computer and stack it where you have the project directory in GIT. And now comes the moment when you can test the application on your local machine. Only, how? Let's ask the AI:
+The AI will now describe the file structure, i.e. where to store what, and then output the contents of those files. Now comes the tedious click-and-click moment where you have to use Copy&Paste to transfer the text (preferably via that installed development environment) to your computer and stack it where you have the project directory in GIT. And now comes the moment when you can test the application on your local machine. Only, how? Let's ask the AI:
 
   
 
@@ -288,7 +288,7 @@ Once you've debugged the app, deploy it to Heroku and test it again, there can b
 
   
 
-You can probably see where the main problem is. The constant copying of source code from the AI response to the development environment. Fortunately, most AIs will format the code nicely and offer you a button to easily transfer the text to a clipboard, but it's still a hassle. It would be better if the AI could directly link this output to Github or your GIT, but you can't do that yet, you have to save each file one by one.
+You can probably see where the main problem is. The constant copying of source code from the AI response to the development environment. Fortunately, most AIs will format the code nicely and offer you a button to easily transfer the text to a clipboard, but it's still a hassle. It would be better if the AI could link this output directly to Github or your GIT, but you can't do that yet, you have to save each file one by one.
 
   
 
@@ -298,4 +298,12 @@ You can probably see where the main problem is. The constant copying of source c
 
   
 
-As you can see, the procedure is not entirely suitable for large-scale application development.
+As you can see, the procedure is not at first glance entirely suitable for developing large-scale applications.
+
+How should you proceed with the development of your application? Refine and expand the brief. For example, you might want the app to add a page listing hashtags by frequency of use. You may wish to add Google's Material UI or anything else to the look of the app. But it's a step-by-step process. You don't want to change both the UI and add a new page in one task. First one, then the other.
+
+Also, at some point, you may go beyond the context window and the AI will exclude something from the task that you had already solved, or it will solve it again and differently. For example, it will create CSS for me with the style definition, but leave the edits in the HTML code for the old CSS. This is where the programming experience comes in handy, where you discover the nature of the bug yourself, re-upload all the affected files into the AI, and let it fix everything. Such Claude 3.5 has a context window for about 200k tokens,
+
+You can also easily run into a limit of long entries in Claude and have to take a break. The limit in Claude is dependent on the load and your plan, I generally give myself a break after three or four hours of active "pair programming" 😇
+
+You can create quite large applications with this approach, don't be afraid to try it!
