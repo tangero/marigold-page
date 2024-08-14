@@ -4,7 +4,7 @@ author: Patrick Zandl
 categories:
 - AI
 - Umělá inteligence
-content_hash: 002602ce0da00bf557b1c30f99fc06ed
+content_hash: 7180fe0ff4989540cbbd26c9bf755486
 hide: true
 lang: en
 layout: post
@@ -189,9 +189,60 @@ So, let's put the first indulgence to bed and figure out the next workflow to ge
 
 > What would you recommend as a workflow for developing this app of mine? So I'm going to use python and Heroku, and my computer is running macOS.
 
-Both CC and Claude give us pretty much the same advice (with varying degrees of detail) on how to proceed.
+Both CC and Claude give us pretty much the same advice (with varying degrees of detail) on how to proceed.  First, we should set up a local development environment, i.e. install Python, Flask and some source code editor - we are advised directly what and how. That's the reason we put in the prompts what operating system we will be working from. AI now directly offers us command-line commands or software suitable for that operating system (the answer this time is from Claude).
 
-First, we should set up a local development environment, i.e. install Python, Flask and some source code editor - we are advised directly what and how. That's the reason we put in the prompts what operating system we will be working from. AI now directly offers us command-line commands or software suitable for that operating system.
+> To develop your application in Python with Heroku deployment and using
+> macOS, I would recommend the following workflow:
+>
+> 1. Setting up the development environment:
+> - Install Python (if you don't already have it): use Homebrew or download from python.org
+> - Install Git for version control
+> - Install a code editor (e.g. Visual Studio Code or PyCharm)
+>
+> 2. Create a project:
+> - Create a new directory for the project
+> - Initialize the Git repository: `git init`
+> - Create a virtual environment: `python -m venv venv`
+> - Activate the virtual environment: `source venv/bin/activate`
+>
+> 3. Flask application settings:
+> - Install Flask: `pip install flask`
+> - Create requirements: `pip freeze > requirements.txt`
+> - Create the basic structure of the Flask application
+>
+> > 4. Development:
+> - Work on the functionality incrementally
+> - Use Git to save changes on an ongoing basis:
+> ```
+> git add .
+> git commit -m "Description of changes"
+> ```
+> - Test locally: `flask run`
+>
+> 5. Deploy to Heroku:
+> - Install Heroku CLI: `brew tap heroku/brew && brew install heroku`
+> - Login to Heroku: `heroku login`
+> - Create a Heroku application: `heroku create application-name`
+> - Create a Procfile for Heroku
+> - Deploy the application: `git push heroku main`
+>
+> 6. Continuous development and deployment:
+> - Continue development locally.
+> - Test changes
+> - Commit changes to Git
+> - Deploy to Heroku: `git push heroku main`
+>
+> > 7. Monitoring and debugging:
+> - Monitor logs: `heroku logs --tail`.
+> - Use Heroku dashboard for monitoring
+>
+> > I also recommend:
+> - Use the `.gitignore` file to exclude unnecessary files from Git
+> - Consider using automatic code formatting tools (e.g. Black)
+> - Implement unit tests for key features
+>
+> > You want me to show you how to get started with this workflow by creating
+> basic project structure?
 
   
 
@@ -207,7 +258,7 @@ And get the details I need.
 
   
 
-After some time following the AI's instructions, we should be pretty well equipped. We have a local development environment, so we can develop and test the app right on our computer. We have a versioning system in place, so we have good control over how we build the code and can deploy it to "production" at the appropriate time - or send it to Heroku and make it visible to the world there.
+After some time following the AI's instructions, we should be pretty well equipped. We have a local development environment, so we can develop and test the application right on our computer. We have a versioning system in place, so we have good control over how we build the code and can deploy it to "production" at the appropriate time - or send it to Heroku and make it visible to the world there.
 
   
 
@@ -215,7 +266,7 @@ Now we're clear on what we want and how we're going to proceed. At this point, t
 
   
 
-> Create the source code for my app and describe in beginner's detail what to set up where and where to save it so that the code works when deployed.
+> Create the source code for my app and describe in beginner's detail what to set up where and where to store it so that the code works when deployed.
 
 The AI will now describe the file structure, i.e. where to store what, and then output the contents of those files. Now comes the tedious click-and-click moment where you have to use Copy&Paste to transfer the code (preferably via that installed development environment) to your computer and stack it where you have the project directory in GIT. And now comes the moment when you can test the application on your local machine. Only, how? Let's ask the AI:
 
