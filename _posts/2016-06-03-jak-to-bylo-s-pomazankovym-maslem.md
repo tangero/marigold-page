@@ -23,4 +23,3 @@ Současné protieurounijní nálady jsou důsledkem toho, že určitá část na
 
 A tohle je základ toho, co je špatně. Ne EU - ta někam kráčí a někam dojde. Česko, které utíká a neví kam, jenom ví odkud. Odevšad. Kam tedy doběhneme? Určitě ne ke svobodě a prosperitě.
 
-Licenční upozornění: žádám tímto členy a příznivce Svobodných, SPO/SPD, KSČM a DSSS aby tento článek nekomentovali. Jejich názory znám a nemohou nijak do debaty přispět
