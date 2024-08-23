@@ -33,8 +33,8 @@ Zde najdete články zaměřené na umělou inteligenci a její využití v růz
 {% endfor %}
 
 <h2>Články z kategorií "AI" a "Umělá inteligence"</h2>
-{% assign ai_posts = site.posts | where: "category", "AI" %}
-{% assign ui_posts = site.posts | where: "category", "Umělá inteligence" %}
+{% assign ai_posts = site.posts | where: "categories", "AI" %}
+{% assign ui_posts = site.posts | where: "categories", "Umělá inteligence" %}
 {% assign combined_posts = ai_posts | concat: ui_posts | uniq | sort: "date" | reverse %}
 
 <ul>
@@ -55,7 +55,8 @@ Zde najdete články zaměřené na umělou inteligenci a její využití v růz
               {% when '11' %}listopad
               {% when '12' %}prosinec
             {% endcase %}
-            {{ post.date | date: "%Y" }})</li>
+            {{ post.date | date: "%Y" }})
+            </li>
 {% endfor %}
 </ul>
 
