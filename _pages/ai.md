@@ -27,13 +27,14 @@ Zde najdete články zaměřené na umělou inteligenci a její využití v růz
 {% endfor %}
 
 <h2>Články a aktuality z oblasti Umělé inteligence</h2>
+
 {% assign ai_posts = site.posts | where: "categories", "AI" %}
 {% assign ui_posts = site.posts | where: "categories", "Umělá inteligence" %}
 {% assign combined_posts = ai_posts | concat: ui_posts | uniq | sort: "date" | reverse %}
 
-<ul>
+
 {% for post in combined_posts %}
-  <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   
             <div class="post-content clearfix">
             {% if post.thumbnail %}
@@ -48,11 +49,7 @@ Zde najdete články zaměřené na umělou inteligenci a její využití v růz
             <div class="excerpt">
               {{ post.excerpt | strip_html | truncatewords: 60 }} - {{ post.date | date: "%d. %m. %Y" }}
             </div>
-  
-   
-            </li>
 {% endfor %}
-</ul>
 
 ## O této rubrice
 
