@@ -6,7 +6,7 @@ permalink: /ai/
 
 Zde najdete články zaměřené na umělou inteligenci a její využití v různých oblastech.
 
-<h2>Vybrané příspěvky</h2>
+<h2>Základy fungování AI</h2>
 
 {% assign emoji_chars = "⌚️⌨️📱📲💻⌨️🖥️🖨️🖱️🖲️🕹️🗜️💽💾💿📀📼📷📸📹🎥📽️" | split: '' %}
 {% assign sorted_posts = site.ai | where_exp: "post", "post.order" | sort: "order" %}
@@ -20,19 +20,13 @@ Zde najdete články zaměřené na umělou inteligenci a její využití v růz
 </ul>
 
 
-<h2>Další příspěvky</h2>
+<h2>Rady, tipy a triky</h2>
 {% assign unsorted_posts = site.ai | where_exp: "post", "post.order == nil" | sort: "date" | reverse %}
 {% for post in unsorted_posts %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
 <h2>Články a aktuality z oblasti Umělé inteligence</h2>
-{% assign unsorted_posts = site.ai | where_exp: "post", "post.order == nil" | sort: "date" | reverse %}
-{% for post in unsorted_posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
-
-<h2>Články z kategorií "AI" a "Umělá inteligence"</h2>
 {% assign ai_posts = site.posts | where: "categories", "AI" %}
 {% assign ui_posts = site.posts | where: "categories", "Umělá inteligence" %}
 {% assign combined_posts = ai_posts | concat: ui_posts | uniq | sort: "date" | reverse %}
