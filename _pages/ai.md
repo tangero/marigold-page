@@ -36,19 +36,20 @@ Zde najdete články zaměřené na umělou inteligenci a její využití v růz
 {% for post in combined_posts %}
 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   
-            <div class="post-content clearfix">
-            {% if post.thumbnail %}
-              {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
-              <div class="thumbnail">
-                <a href="{{ site.baseurl }}{{ post.url }}">
-                  <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}">
-                </a>
-              </div>
-            {% endif %}
+<div class="post-content clearfix">
+{% if post.thumbnail %}
+{% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
+<div class="thumbnail">
+<a href="{{ site.baseurl }}{{ post.url }}">
+ <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}">
+</a>
+</div>
+{% endif %}
+</div>
 
-            <div class="excerpt">
-              {{ post.excerpt | strip_html | truncatewords: 60 }} - {{ post.date | date: "%d. %m. %Y" }}
-            </div>
+<div class="excerpt">
+{{ post.excerpt | strip_html | truncatewords: 60 }} - {{ post.date | date: "%d. %m. %Y" }}
+</div>
 {% endfor %}
 
 ## O této rubrice
