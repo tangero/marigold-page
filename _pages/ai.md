@@ -33,23 +33,23 @@ Zde najdete články zaměřené na umělou inteligenci a její využití v růz
 
 <ul>
 {% for post in combined_posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d. %m. %Y" }} (            {% assign m = post.date | date: "%-m" %}
-            {{ post.date | date: "%-d." }}
-            {% case m %}
-              {% when '1' %}leden
-              {% when '2' %}únor
-              {% when '3' %}březen
-              {% when '4' %}duben
-              {% when '5' %}květen
-              {% when '6' %}červen
-              {% when '7' %}červenec
-              {% when '8' %}srpen
-              {% when '9' %}září
-              {% when '10' %}říjen
-              {% when '11' %}listopad
-              {% when '12' %}prosinec
-            {% endcase %}
-            {{ post.date | date: "%Y" }})
+  <li><h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  
+            <div class="post-content clearfix">
+            {% if post.thumbnail %}
+              {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
+              <div class="thumbnail">
+                <a href="{{ site.baseurl }}{{ post.url }}">
+                  <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}">
+                </a>
+              </div>
+            {% endif %}
+
+            <div class="excerpt">
+              {{ post.excerpt | strip_html | truncatewords: 60 }} - {{ post.date | date: "%d. %m. %Y" }}
+            </div>
+  
+   
             </li>
 {% endfor %}
 </ul>
