@@ -1,12 +1,16 @@
 ---
+audio_url: http://www.marigold.cz/audio/2024-09-08-ai-psani-povidek.mp3
 author: Patrick Zandl
 categories:
 - AI
-- "Umělá inteligence"
+- "Um\u011Bl\xE1 inteligence"
 layout: post
-post_excerpt: "Poprvé jsem skutečně psal beletristický text s pomocí umělé inteligence. A musím říct, že mi dost pomáhala. Jak jsem využil AI pro psaní scifi povídky, kde mi pomohla a kde má svoje limity?"
+post_excerpt: "Poprv\xE9 jsem skute\u010Dn\u011B psal beletristick\xFD text s pomoc\xED\
+  \ um\u011Bl\xE9 inteligence. A mus\xEDm \u0159\xEDct, \u017Ee mi dost pom\xE1hala.\
+  \ Jak jsem vyu\u017Eil AI pro psan\xED scifi pov\xEDdky, kde mi pomohla a kde m\xE1\
+  \ svoje limity?"
 thumbnail: https://www.marigold.cz/assets/aipovidky.png
-title: "S psaní beletrie už AI pomůže"
+title: "S psan\xED beletrie u\u017E AI pom\u016F\u017Ee"
 ---
 
 Umělou inteligenci k psaní článků používám poměrně dlouho, ale zatím vždy to bylo pro psaní faktograficky orientovaných textů. Pro beletrii jsem ji nepoužíval, protože samotné generování beletristického textu mi nedávalo výsledek, který by stál za to. Text nemá spád, bývá naivní, plný klišé. Možná to jde poladit lepším promptováním, ale to já rychleji napíšu lepší text, než to napromptuji do Claude. 
