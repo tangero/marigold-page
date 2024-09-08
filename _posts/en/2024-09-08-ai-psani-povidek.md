@@ -4,7 +4,7 @@ author: Patrick Zandl
 categories:
 - AI
 - Umělá inteligence
-content_hash: a6ca1cc6effaf392d2f002892c20bd53
+content_hash: 51faff8aaee2751af2243a24cfd7d936
 lang: en
 layout: post
 original_lang: cs
@@ -19,9 +19,9 @@ translated: true
 
 I've been using AI to write articles for quite a long time, but so far it's always been for fact-based writing. I haven't used it for fiction, because generating fiction text alone didn't give me a result that was worthwhile. The text has no flow, tends to be naive, full of clichés. Maybe it can be smoothed out with better prompting, but I'll write better text faster than I can type it into Claude.
 
-I recently made a deal with Forbex magazine to write a science fiction story for their technology issue. And it has scope.
+I recently made a deal with Forbes magazine to write a science fiction story for their technology issue. And it has scope.
 
-The theme was clear to me right away: eclogue. That's the technology used in the second episode of Starfleet Earth. Eklog records everything you do and calculates how beneficial it was. And based on that, it gives you access to a share of the company's total wealth. It's a wallet in a world where other money has disappeared. It's a way of proving your identity because how you behave answers the question of who you are. It's a complete paradigm shift, because to make an eclog trustworthy, everything in it is also recorded publicly, on the blockchain. You can't steal or lie because everything is immediately visible. Only a small part of the world is non-public - actually only what's in your head, because whatever you do is very likely to be recorded by some sensor and evaluated by the eclog.
+The theme was clear to me right away: eclogue. That's the technology used in the second episode of [Fleet Earth](https://www.databazeknih.cz/knihy/flotila-zeme-28016). Eklog records everything you do and calculates how beneficial it was. And then it gives you a share of the total wealth of the company. It's a way of wallet in a world where other money has disappeared. It's a way of proving your identity because how you behave answers the question of who you are. It's a complete paradigm shift, because to make an eclog trustworthy, everything in it is also recorded publicly, on the blockchain. You can't steal or lie because everything is immediately visible. Only a small part of the world is non-public - actually only what's in your head, because whatever you do is very likely to be recorded by some sensor and evaluated by the eclog.
 
 It's a concept that fascinates me in three ways. Technologically, in that it's basically feasible today. Economically in that it will eliminate a whole host of problems - and the story is that it will introduce a whole host of new ones. And the same socially: it's a huge transformation of society, and it's extremely interesting to delve into what the implications would be.
 
@@ -52,7 +52,7 @@ So I uploaded the story to Claude and asked him what the next plot should be.
 > >This story would allow for the exploration of ethical questions around the quantification of human contribution, privacy, free will, and the unintended consequences of well-intentioned technologies - all with the device of the eclogue at the center of the narrative.
 >
 > >Would you like me to develop this concept further or focus on a particular aspect of the plot?
-	
+
 The suggested plot points are expected and naive, but for one thing, it's interesting that Claude picked up on the workings of the device immediately, so conceptually it holds head and butt. Secondly the plots presented are worth exploring. The fake good deeds market for example is a nice theme that lends itself to an economically focused Forbes.
 
 I'm having a shorter chat with Claude where we conjecture the possibility of counterfeit deeds. On that occasion, we technically eclogue to see what constraints we have. We also take a detour. Can the eclog be seen as a beneficial device, or is it a device to control and bind society? Classic scifi would say it's totalitarian, but I don't want classic. We are quickly crystallizing the key parameters in the discussion, which are transparency allowing ideas to spread faster and more efficiently, thus accelerating development. Furthermore, less burden on society resulting in the disappearance of crime. And, thirdly, a very fair share of the growing wealth, which will make it possible to eliminate, for example, the concept of patents and intellectual property protection. The latter is now a given in the world. I like it when a short story can make us think about something we take as a definition. Is a secret a protection or a cost for more? With AI you can break it down without being made an idiot, without prejudice.
@@ -83,50 +83,50 @@ For example, I'm interested in what the benefits of total transparency would be,
 > - Better health monitoring and early disease prevention.
 > - More accurate and personalized healthcare.
 >
-> 6. Meritocracy:
+>6. Meritocracy:
 > - Fairer evaluation of people based on actual merit and contribution.
 > - Reduced nepotism and nepotism.
 >
-> > 7. Faster progress:
+>7. Faster progress:
 > - Sharing knowledge and innovation without restrictions.
 > - More efficient research and development through open data.
 >
-> > Critique of the old way of life with secretive, private affairs:
+> >Criticism of the old way of life with secretive, private affairs:
 >
-> 1. Inefficiency:
+>1. Inefficiency:
 > - Waste of resources on maintaining secrecy and privacy.
 > - Duplication of effort due to lack of information sharing.
 >
-> 2. Inequity:
+>2. Inequity:
 > - Opportunity for privileged groups to hide unethical behavior.
 > - Unequal opportunities due to hidden information.
 >
-> > 3. Stagnation:
+>3. Stagnation:
 > - Limited progress due to withholding of important information.
-> - Slower solutions to global problems due to lack of shared data.
+> - Slower resolution of global problems due to lack of shared data.
 >
-> 4. Distrust:
+>4. Distrust:
 > - Creating an atmosphere of suspicion and uncertainty.
 > - Difficulty building trust in interpersonal and international relations.
 >
-> 5. Hypocrisy:
+>5. Hypocrisy:
 > - Enabling double standards between public and private life.
 > - The ability to mask harmful behavior behind a facade of virtue.
 >
-> 6. Security risks:
+>6. Security risks:
 > - The ability to hide potential threats to society.
 > - Difficulty in preventing terrorism and organized crime.
 >
-> > 7. Emotional burden:
+>7. Emotional burden:
 > - Stress of keeping secrets and fear of detection.
 > - Complications in interpersonal relationships due to lack of openness.
 >
-> > In the context of your story, these arguments could be used by different factions to defend or criticize the eclog system. For example, you could create characters who vehemently advocate these positions:
+> > >In the context of your story, these arguments could be used by different factions to defend or criticize the eclog system. For example, you could create characters who vehemently advocate these positions:
 >
-> - A transparency advocate who argues that the old system was full of inefficiencies and inequities.
-> - A critic of the new system who warns of the loss of humanity and individuality in a fully transparent society.
+>- A transparency advocate who argues that the old system was full of inefficiencies and inequities.
+>- A critic of the new system who warns of the loss of humanity and individuality in a fully transparent society.
 >
-> > This tension between the benefits of transparency and the cost of loss of privacy could be the central conflict of your story. How do you think your main character would navigate between these conflicting perspectives?
+> >This tension between the benefits of transparency and the cost of loss of privacy could be the central conflict of your story. How do you think your main character would navigate between these conflicting perspectives?
 >
 
 But to play out the tension between transparency and the price of losing privacy, the scope doesn't allow for that, which Claude hasn't thought through. Finally, the story ends with another dilemma from which the characters choose.
