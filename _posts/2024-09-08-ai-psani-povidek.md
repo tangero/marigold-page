@@ -25,29 +25,29 @@ Povídka začíná setkáním dvou mužů, vyšetřovatele s auditorem eklogu. A
 
 A tak jsem povídku nahrál do Claude a zeptal se ho, jaká by měla být další zápletka. 
 
->	To je velmi zajímavý koncept pro sci-fi povídku! Zařízení eklog zní jako fascinující technologie s potenciálem pro hluboké společenské dopady. Zde je návrh zápletky, která by mohla postavit eklog do centra příběhu:
+>To je velmi zajímavý koncept pro sci-fi povídku! Zařízení eklog zní jako fascinující technologie s potenciálem pro hluboké společenské dopady. Zde je návrh zápletky, která by mohla postavit eklog do centra příběhu:
 >
->	Hlavní hrdinka, řekněme Anna, je vývojářka, která pomáhala vytvořit eklog. Zpočátku věřila, že tato technologie přinese spravedlivější společnost. Ale jak se eklog stává všudypřítomným, Anna si začne všímat znepokojivých trendů:
+>Hlavní hrdinka, řekněme Anna, je vývojářka, která pomáhala vytvořit eklog. Zpočátku věřila, že tato technologie přinese spravedlivější společnost. Ale jak se eklog stává všudypřítomným, Anna si začne všímat znepokojivých trendů:
 >
->	1. Lidé se stávají posedlí svým "skóre přínosu" a dělají věci jen proto, aby zvýšili své hodnocení, ne z upřímné touhy pomáhat.
+>1. Lidé se stávají posedlí svým "skóre přínosu" a dělají věci jen proto, aby zvýšili své hodnocení, ne z upřímné touhy pomáhat.
 >
->	2. Vzniká nová forma sociální nerovnosti, kde ti s nízkým skóre mají potíže získat přístup k základním službám.
+>2. Vzniká nová forma sociální nerovnosti, kde ti s nízkým skóre mají potíže získat přístup k základním službám.
 >
->	3. Objeví se černý trh s falešnými "dobrými skutky" pro zvýšení skóre.
+>3. Objeví se černý trh s falešnými "dobrými skutky" pro zvýšení skóre.
 >
->	Zápletka se může točit kolem Annina objevu závažné chyby v algoritmu eklogu, která nesprávně hodnotí určité typy přínosů. Stojí před dilematem:
+>Zápletka se může točit kolem Annina objevu závažné chyby v algoritmu eklogu, která nesprávně hodnotí určité typy přínosů. Stojí před dilematem:
 >
->	1. Odhalit chybu a riskovat zhroucení celého systému, na kterém je nyní společnost závislá?
+>1. Odhalit chybu a riskovat zhroucení celého systému, na kterém je nyní společnost závislá?
 >
->	2. Nebo se pokusit chybu tajně opravit, což by mohlo vést k drastickým změnám v hodnocení lidí bez jejich vědomí?
+>2. Nebo se pokusit chybu tajně opravit, což by mohlo vést k drastickým změnám v hodnocení lidí bez jejich vědomí?
 >
->	Během svého rozhodování Anna objeví skupinu "odpojených" - lidí, kteří odmítli používat eklog. Toto setkání ji přiměje přehodnotit své předpoklady o technologii a společnosti.
+>Během svého rozhodování Anna objeví skupinu "odpojených" - lidí, kteří odmítli používat eklog. Toto setkání ji přiměje přehodnotit své předpoklady o technologii a společnosti.
 >
->	Vyvrcholením příběhu by mohlo být Annino konečné rozhodnutí a jeho důsledky, které by odhalily hlubší pravdy o lidské povaze, hodnotě a společnosti.
+>Vyvrcholením příběhu by mohlo být Annino konečné rozhodnutí a jeho důsledky, které by odhalily hlubší pravdy o lidské povaze, hodnotě a společnosti.
 >
->	Tento příběh by umožnil prozkoumat etické otázky kolem kvantifikace lidského přínosu, soukromí, svobodné vůle a neúmyslných důsledků dobře míněných technologií - to vše se zařízením eklog v centru narativu.
+>Tento příběh by umožnil prozkoumat etické otázky kolem kvantifikace lidského přínosu, soukromí, svobodné vůle a neúmyslných důsledků dobře míněných technologií - to vše se zařízením eklog v centru narativu.
 >
->	Chcete, abych tento koncept dále rozvinul nebo se zaměřil na nějaký konkrétní aspekt zápletky?
+>Chcete, abych tento koncept dále rozvinul nebo se zaměřil na nějaký konkrétní aspekt zápletky?
 	
 Navržené zápletky jsou očekávatelné a naivní, ale za prvé je zajímavé, že Claude ihned pobral fungování zařízení, takže konceptuálně to drží hlavu a zadek. Za druhé předložené zápletky stojí za prozkoumání. Falešný trh s dobrými skutky například je pěkné téma, které se hodí do ekonomicky zaměřeného Forbesu. 
 
@@ -55,27 +55,27 @@ Dávám si kratší chat s Claude, kde možnost falšování skutků domýšlím
 
 Například mě zajímá, jaké by byly výhody naprosté transparentnosti a jaká by mohla být kritika starého způsobu života, kde byly záležitosti utajovatelné, soukromé. Co navrhuje Claude?
 
->	Výborná otázka. Pojďme se podívat na potenciální výhody naprosté transparentnosti a možnou kritiku starého systému:
+>Výborná otázka. Pojďme se podívat na potenciální výhody naprosté transparentnosti a možnou kritiku starého systému:
 >	
->	Výhody naprosté transparentnosti:
+>Výhody naprosté transparentnosti:
 >	
->	1. Snížení kriminality:
->	   - Téměř nemožné spáchat zločin bez odhalení.
->	   - Prevence korupce a podvodů.
+>1. Snížení kriminality:
+>- Téměř nemožné spáchat zločin bez odhalení.
+>- Prevence korupce a podvodů.
 >	
->	2. Zvýšená odpovědnost:
->	   - Lidé by byli nuceni nést následky svých činů.
->	   - Politici a veřejní činitelé by nemohli skrývat své aktivity.
+>2. Zvýšená odpovědnost:
+>- Lidé by byli nuceni nést následky svých činů.
+>- Politici a veřejní činitelé by nemohli skrývat své aktivity.
 >	
->	3. Efektivnější společnost:
->	   - Snadnější identifikace a řešení společenských problémů.
->	   - Optimalizace zdrojů na základě přesných dat o chování a potřebách lidí.
+>3. Efektivnější společnost:
+>- Snadnější identifikace a řešení společenských problémů.
+>- Optimalizace zdrojů na základě přesných dat o chování a potřebách lidí.
 >	
->	4. Důvěra a otevřenost:
+>4. Důvěra a otevřenost:
 >	   - Méně lží a podvodů v mezilidských vztazích.
->	   - Větší upřímnost v osobních i profesionálních interakcích.
->	
->	5. Zdravotní benefity:
+>   - Větší upřímnost v osobních i profesionálních interakcích.
+>
+>5. Zdravotní benefity:
 >	   - Lepší sledování zdravotního stavu a včasná prevence nemocí.
 >	   - Přesnější a personalizovaná zdravotní péče.
 >	
