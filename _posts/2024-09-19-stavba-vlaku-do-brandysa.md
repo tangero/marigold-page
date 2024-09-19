@@ -8,7 +8,9 @@ thumbnail: https://www.marigold.cz/assets/taky-mame-mobil-na-hriba.jpg
 ---
 
 Berte to jako moji malou rekapitulaci a fakultativní článek pro zájemce, proč v Česku všechno tak dlouho trvá postavit. 
-Včera schválilo zastupitelstvo Brandýsa-Boleslavi memorandum o spolupráci na výstavbě vlakové trati Praha-Brandýs-Stará Boleslav. Podpis memoranda minulý týden schválilo zastupitelstvo Středočeského kraje, připojit se k němu má Praha a další obce na trase: Kbely a Vinoř (městské části Prahy), Podolanka a Přezletice. Pro bylo všech jednadvacet zastupitelů. Dostat se do tohoto stavu trvalo něco málo přes šest roků. Jak se to stalo? 
+Včera schválilo zastupitelstvo Brandýsa-Boleslavi memorandum o spolupráci na výstavbě vlakové trati Praha-Brandýs-Stará Boleslav. 
+
+Podpis memoranda minulý týden schválilo zastupitelstvo Středočeského kraje, připojit se k němu má Praha a další obce na trase: Kbely a Vinoř (městské části Prahy), Podolanka a Přezletice. Pro bylo všech jednadvacet zastupitelů. Dostat se do tohoto stavu trvalo něco málo přes šest roků. Jak se to stalo? 
 
 Před šesti lety jsme seděli s Markem Řebíčkem a Milošem u vína a nadávali, že se ve městě pořád nic neděje. A že doprava je tragická. Že by to chtělo, aby ten vlak u nás jezdil do Prahy. A pak jsme si řekli, že my jsme ti, kdo nenadává a věc řeší. 
 
@@ -52,3 +54,5 @@ Ještě se může hromada věcí pokazit a nic nemusí vzniknout. Ale taky bycho
 ![Fotografie tramvaje, jak míjí baziliku](/assets/tramvaj-staraboleslav-bazilika.jpg)
 
 PS: Chcete anekdotický příběh? Volá mi pán, jestli je moje ta tramvaj na Mariánském náměstí. Je. Potřeboval by potvrzení o tom, že ji tam mám. Ptám se, proč. Vjel na pozemek, otáčel se autem a nabořil si páté dveře o oj tramvaje, který přehlédl. Pojišťovna mu požadavek na pojistné plnění vrátila s tím, že to je pokus o podvod, protože ve Staré Boleslavi tramvaje nejezdí... 
+
+PPS: Návazně si můžete přečíst tento článek [Proč oprava silnice v Česku trvá? Protože...](https://www.marigold.cz/item/proc_oprava_silnice_trva/).
