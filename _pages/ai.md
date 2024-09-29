@@ -4,7 +4,7 @@ title: AI čili Umělá Inteligence
 permalink: /ai/
 ---
 
-Zde najdete články zaměřené na umělou inteligenci a její využití v různých oblastech.
+Zde najdete články zaměřené na umělou inteligenci a její využití v různých oblastech. Moji knihu [Mýty a naděje digitálního světa](https://www.kosmas.cz/knihy/517526/myty-a-nadeje-digitalniho-sveta/) můžete využít jako skvělého průvodce moderními technologiemi, pokud si chcete počíst vše vcelku. 
 
 <h2>Základy fungování AI</h2>
 
