@@ -1,10 +1,15 @@
 ---
-layout: post
-title:  Sledovací kapitalismus
-categories: [Ekonomie, Sociální sítě, Sledovací kapitalismus, Společnost]
-excerpt: 
+audio_url: http://www.marigold.cz/audio/2019-10-20-sledovaci-kapitalismus.mp3
+categories:
+- Ekonomie
+- "Soci\xE1ln\xED s\xEDt\u011B"
+- "Sledovac\xED kapitalismus"
+- "Spole\u010Dnost"
+excerpt: null
 featured: true
+layout: post
 thumbnail: https://www.duurzaamnieuws.nl/wp-content/uploads/2019/10/tegenlicht-dataroof.jpg
+title: "Sledovac\xED kapitalismus"
 ---
 
 Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekcemi stát moderní svět. Už dlouho teoretikové všech stran barikád, od ekonomů, přes sociologů až po politology a věrozvěsty apokalypsy přemýšlejí nad tím, co by mohlo tuto kouzelnou formulku úspěchu narušit. Cožpak není liberální kapitalismus vše-absorbující už z podstaty věci?
