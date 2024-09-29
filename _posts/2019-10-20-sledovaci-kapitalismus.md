@@ -13,7 +13,7 @@ Klíčem k náhradě liberálního kapitalismu (ponechme stranou, proč jej nahr
 
 V poslední době se zdá, že se další vývojový směr kapitalismu našel: sledovací kapitalismus. S pomocí sledování a výkonných i chytrých počítačů je možné cíleně působit na jedince a modelovat jej do masy, která touží po tom, co je mu k toužení předestřeno. Ještě před pár lety byly prostředky pro uskutečnění sledovacího kapitalismu nedostupné nebo neefektivní (massmédia), jenže dnes jsou samozřejmostí. A to je důvod, proč se tématu zastavit.
 
-Pojem „surveillence capitalism“ propaguje už několik let americká socioložka Šošana Zuboffová, podle níž současné stádium ekonomiky lze charakterizovat třemi tezemi:
+Pojem „surveillence capitalism“ propaguje už několik let americká socioložka Šošana Zuboffová. Její kniha [Věk kapitalismu dohledu](https://www.kosmas.cz/knihy/275351/vek-kapitalismu-dohledu/) vyšla už i v češtině. Podle Zuboffové lze současné stádium ekonomiky charakterizovat třemi tezemi:
 
 -   Vše, co bude možné automatizovat, bude automatizované.
 -   Vše, co bude možné digitalizovat, bude digitalizované.
