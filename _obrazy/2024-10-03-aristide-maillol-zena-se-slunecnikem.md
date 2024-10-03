@@ -25,4 +25,4 @@ Maillol byl jedním z nejznámějších sochařů své doby, jeho bronzové soch
 🚔Umírá následkem autonehody v roce 1944. Bertrand Lorquin jeho dílo nazval "čistým sochařstvím založeným na architektuře těla a na harmonii mezi objemy".
 
 
-Obraz je vystaven v Musee de Orsay v Paříži. 
+Obraz je vystaven v [Musee Orsay](https://www.musee-orsay.fr/fr) v Paříži. 
