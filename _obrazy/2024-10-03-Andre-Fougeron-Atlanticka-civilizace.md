@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "André Fougeron - Atlantická civilizace"
-date: 2024-10-03
+date: 2024-10-01
 order: 
 ---
 
