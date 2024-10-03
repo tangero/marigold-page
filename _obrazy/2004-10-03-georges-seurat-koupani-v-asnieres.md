@@ -7,7 +7,7 @@ order:
 
 Georges Seurat a jeho obraz  Koupání v Asnieres namalovaný roku 1884 je nádherný příklad pointilismu a postimpressionismu. Obraz je doslova vytečkován, větší plochy vznikly horizontálními tahy štětce, tedy malířskou technikou, kterou Seurat ve svém ranném období právě rozvíjel. V tuhle chvíli mu nicméně zbývalo sedm let života. 
 
-![Georges Seurat a jeho obraz  Koupání v Asnieres](assets/obrazy/IMG_2754.jpeg)
+![Georges Seurat a jeho obraz  Koupání v Asnieres](/assets/obrazy/IMG_2754.jpeg)
 
 Zpět k obrazu: 
 
@@ -19,6 +19,6 @@ Zpět k obrazu:
 
 Obraz dnes najdete v Národní galerii v Londýně, dcera v popředí není součást scenerie. 
 
-Nejslavnějším Seuratovým obrazem je každopádně Nedělní odpoledne na **La Grande Jatte** - to je ale v Institutu umění v Chicagu a osobně jsem ho neviděl. 
+Nejslavnějším Seuratovým obrazem je každopádně Nedělní odpoledne na *La Grande Jatte* - to je ale v Institutu umění v Chicagu a osobně jsem ho neviděl. 
 
 Mimochodem, Monetův obraz Uhelné doky zobrazuje stejný most, jen o deset let dříve. A atmosféra obou obrazů je naprosto jiná, čímž popírám své předchozí tvrzení o impresionismu, ale to je na jindy🙂
