@@ -80,11 +80,6 @@ layout: default
 
   </div>
 
-<div class="commentbox"></div>
-<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-<script>commentBox('5677112761516032-proj')</script>
-
-
   {% if page.collection == 'ai' and page.layout == 'post' %}
   <div class="ai-rubric-link">
     <blockquote> 
@@ -92,13 +87,19 @@ layout: default
     </blockquote>
   </div>
   {% elsif page.collection == 'obrazy' and page.layout == 'post' %}
-  <div class="ai-rubric-link"></div>
+  <div class="ai-rubric-link"><
     <blockquote> 
     ⚡️ <a href="/obrazy/">Další obrazy zde...</a>
     </blockquote>
   </div>
+{% endif %}  
 
-{% endif %}
+<div class="commentbox"></div>
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>commentBox('5677112761516032-proj')</script>
+
+
+
 
   {% if page.categories contains "Mobilní sítě" or page.categories contains "3G" or page.categories contains "4G" or page.categories contains "5G" or page.categories contains "5G Advanced" %}
   <div class="posts">
