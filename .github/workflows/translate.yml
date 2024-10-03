@@ -26,6 +26,7 @@ jobs:
         pip install requests pyyaml python-frontmatter
 
     - name: Translate latest post
+       if: false  # Zabrání spuštění tohoto kroku
       env:
         DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
       run: |
@@ -37,6 +38,7 @@ jobs:
         git config --local user.name "GitHub Action"
 
     - name: Commit and push changes
+      if: false  # Zabrání spuštění tohoto kroku
       run: |
         echo "Checking for changes..."
         git add .
