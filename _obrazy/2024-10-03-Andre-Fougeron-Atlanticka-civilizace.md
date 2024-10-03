@@ -10,9 +10,13 @@ André Fougeron - Atlantická civilizace (1953) je pětimetrový obraz, kterým 
 ![André Fougeron - Atlantická civilizace](/assets/obrazy/IMG_8555.jpeg)
 
 1️⃣ Na francouzské koloniální války v Indočíně odkazují plakáty koloniálních parašutistů a vracející se rakve s truchlícími postavené proti asijské ženě s mrtvým dítětem. 
+
 2️⃣ podmanění západní Afriky: to je ten černoušek čistící boty 
+
 3️⃣ kolonizace severní Afriky: alžírští uprchlíci ukrývající se pod vlnitým plechem (fakt vlevo dole!)
+
 4️⃣ rozpad tradičního života - to jsou ty děti v bunkru, opuštění staříci na lavičce, děti hrající si v průmyslových exhalacích nebo žena s dítětem ve stanu (jo, to byly tehdá problémy úpadku tradičního života, ne jako dneska, kdy jim zdražujou benzín, ale vůbec nebo dělají společný záchody)
+
 5️⃣ elektrické křeslo přidával prý na poslední chvíli, symbolizuje popravu Rosenbergových v červnu 1953 za předávání vojenských tajemství Sovětskému svazu. 
 
 Fougeron miloval kontrasty. Všimněte si třeba, že černoušek s botama má jen nátělník, zatímco pejsánkové mají slušivé kabátky. S popravou Rosenbergových naopak kontrastuje protiatomový bunkr, v němž má útočiště střední stav. 
