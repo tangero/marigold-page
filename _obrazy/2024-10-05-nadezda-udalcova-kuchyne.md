@@ -17,6 +17,6 @@ Udalcovová se narodila do rodiny vojenského důstojníka (popravili ho bolšev
 
 ![Portrét vojenského pilota. 1942. Dřevínské muzeum)](/assets/obrazy/udalcova-pilot.jpg)
 
-Osobně mám rád právě především její obrazy do poloviny dvacátých let, do první ruské umělecké výstavy v Berlíně 1922, pak už je ten sovětský duch příliš těžký. Však se podívejte na portrét pilota z roku 1931... 
+Osobně mám rád právě především její obrazy do poloviny dvacátých let, do první ruské umělecké výstavy v Berlíně 1922, pak už je ten sovětský duch příliš těžký. Však se podívejte na portrét pilota z roku 1941... 
 
 Dnes je považována za jednu z nejvýznamnějších umělkyň ruské avangardy, ale její obrazy jsou hlavně v ruských sbírkách. Většinu jejích obrazů má Treťjakovská galerie či Ruské muzeum v Michailovském paláci. Tam se teď nedostanete, ale pokud bude zase výstava v Česku, nenechte si to ujít. 
