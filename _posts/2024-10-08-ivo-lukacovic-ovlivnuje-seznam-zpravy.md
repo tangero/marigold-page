@@ -8,7 +8,7 @@ thumbnail: https://d39-a.sdn.cz/d_39/c_img_QM_K/p59J.jpeg
 ---
 
 
-Málokdy se podaří redakci významného média tolik ztratit tolik na renomé, jak se za poslední dva týdny podařilo Seznam Zprávám v efektu připomínajícím kazu Branšnářství Tlustý. Zatímco dosud byly Seznam Zprávy vnímány jako renomované a nezávislé médium, ukázalo se, že jsou pro svého majitele jen atomovým kufříkem, který neváhá použít pro podporu svých politických preferencí. Jenže neobratnému brašnářství Tlustý se šla vysmát většina médií, na Seznam si zatím netroufl nikdo. Je to až příliš vlivný hráč na to, aby si jej za přešlap dovolili ostatní kárat.
+Málokdy se podaří redakci významného média tolik ztratit tolik na renomé, jak se za poslední dva týdny podařilo Seznam Zprávám v efektu připomínajícím kazu Branšnářství Tlustý. Zatímco dosud byly Seznam Zprávy vnímány jako renomované a nezávislé médium, ukázalo se, že jsou pro svého majitele jen atomovým kufříkem, který neváhá použít pro podporu svých politických preferencí. Jenže zatímco neobratnému [brašnářství Tlustý](https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-ukazuje-to-silu-i-nebezpeci-socialnich-siti-rika-novinar-k-brasnarstvi-tlusty-257717) se vysmála většina médií, na Seznam si zatím netroufl nikdo. Je to až příliš vlivný hráč na to, aby si jej za přešlap dovolili ostatní kárat.
 
 Nevím, jak moc sledujete českou mediální scénu, ale tohle si pozornost zaslouží, protože je to důležité. A mě je vlastně strašně líto, že o tom píšu, protože většinu lidí v příběhu nějak znám a dosti si jich vážím. (Na okraj textu připomínám fakt, že jsem člen Pirátské strany)
 
