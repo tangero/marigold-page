@@ -1,5 +1,5 @@
 ---
-title: "Jak upovídaný majitel pohřbil serióznost Seznam Zpráv"
+title: "Jak rozvášněný majitel pohřbil serióznost Seznam Zpráv"
 author: Patrick Zandl
 post_excerpt: "Málokdy se podaří redakci významného média tolik ztratit tolik na renomé, jak se za poslední dva týdny podařilo Seznam Zprávám v efektu připomínajícím kazu Branšnářství Tlustý. Zatímco dosud byly Seznam Zprávy vnímány jako renomované a nezávislé médium, ukázalo se, že jsou pro svého majitele jen atomovým kufříkem, který neváhá použít pro podporu svých politických preferencí. "
 layout: post
@@ -14,11 +14,11 @@ Nevím, jak moc sledujete českou mediální scénu, ale tohle si pozornost zasl
 
 ## Dva vyhození datoví analytici
 
-Co se stalo? Začalo to skoro banálně. Redakce 2.10.2024 vyhodila dvojici datových analytiků, jejichž práci si dosud pochvalovala a doprovodila to temnou tiskovou zprávou, v níž šéfredaktor Jakub Unger vykřikuje divné věty jako "_Seznam Zprávy jsou silnější, než si mnozí naivně myslí."_
+Co se stalo? Začalo to skoro banálně. Redakce 2.10.2024 vyhodila dvojici datových analytiků, jejichž práci si dosud pochvalovala a doprovodila to [temnou tiskovou zprávou](https://x.com/SeznamZpravy/status/1841453438359478340), v níž šéfredaktor Jakub Unger vykřikuje divné věty jako "_Seznam Zprávy jsou silnější, než si mnozí naivně myslí."_
 
-Důvodem okamžitého vyhazovu mělo být [podle šéfredaktora SZ Jakuba Ungera](https://x.com/SeznamZpravy/status/1841453438359478340)  přesvědčení, "že Kateřina Mahdalová a Michal Škop se ocitli ve střetu zájmů, když pro SZ vypracovali analýzu k agendě Pirátů, přičemž zároveň existovalo propojení s Českou pirátskou stranou dohledatelné ve veřejných smlouvách."
+Důvodem okamžitého vyhazovu mělo být [podle šéfredaktora SZ Jakuba Ungera](https://x.com/SeznamZpravy/status/1841453438359478340)  přesvědčení, *"že Kateřina Mahdalová a Michal Škop se ocitli ve střetu zájmů, když pro SZ vypracovali analýzu k agendě Pirátů, přičemž zároveň existovalo propojení s Českou pirátskou stranou dohledatelné ve veřejných smlouvách."*
 
-Záhy se ukazuje, že oním "propojením" má být několik let stará smlouva mezi Škopovým projektem KohoVolit ve výši 15 000 Kč na interní volební kalkulačku, kterou si Piráti modelovali interně volební varianty. Smlouva byla od počátku publikovaná a Michal Škop na to redakci kdysi údajně upozorňoval, že takové drobnosti dělá. Tehdy to nevadilo. Na smlouvu upozornil Tykačův muž na špinavou mediální práci a propagandista Michal Púr - a o několik hodin později reakce jednala tak, že se rozloučila se dvojicí, ačkoliv smlouva pokrývala jen Škopa.
+Záhy se ukazuje, že oním *"propojením"* má být několik let stará smlouva mezi Škopovým projektem [KohoVolit](https://kohovolit.eu) ve výši 15 000 Kč na volební kalkulačku, kterou si Piráti modelovali interně volební varianty. Smlouva byla od počátku publikovaná a Michal Škop na to redakci kdysi údajně upozorňoval, že takové drobnosti dělá. Tehdy to nevadilo. Na smlouvu upozornil propagandista Michal Púr - a o několik hodin později reakce jednala tak, že se rozloučila se dvojicí, ačkoliv smlouva pokrývala jen Škopa.
 
 Budiž, až sem to může být jen příklad mediálně nezvládnutého vyhazovu novinářské dvojice. Šéfredaktor Jakub Unger měl suše oznámit, že nebyl spokojen s jejich prací a proto se rozloučili a na to by nebylo co říci, to je jeho šéfovské právo. Asi by se našlo pár prohlášení SZ, jak skvělá ta dvojice je, chvilku by to běhalo po Xku, ale to je kolorit a věc by vyšuměla.
 
