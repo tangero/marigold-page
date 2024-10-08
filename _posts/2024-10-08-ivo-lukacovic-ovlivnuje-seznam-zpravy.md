@@ -20,7 +20,7 @@ Důvodem okamžitého vyhazovu mělo být [podle šéfredaktora SZ Jakuba Ungera
 
 Záhy se ukazuje, že oním *"propojením"* má být  smlouva mezi Škopovým projektem [KohoVolit](https://kohovolit.eu) z roku 2023 ve výši 15 000 Kč na volební kalkulačku, kterou si Piráti modelovali interně volební varianty. Smlouva byla od počátku publikovaná a Michal Škop na to redakci kdysi údajně upozorňoval, že takové drobnosti dělá. Tehdy to nevadilo. Na smlouvu na Twitteru upozornil propagandista Michal Púr - a o několik hodin později reakce jednala tak, že se rozloučila se dvojicí, ačkoliv smlouva pokrývala jen Škopa. (později bylo vysvětleno, že redakce se o smlouvě dozvěděla jinak, než od M. Půra)
 
-**Update 8.10. 17:00** - lidé ze Seznam Zprávy popírají, že by byla redakce na prodej licence kalkulačky upozorněna. Byla také zpřesněn časový údaj této spolupráce a doplněn link na prvni zachycený screenshot článku. 
+**Update 8.10. 17:00** - lidé ze Seznam Zprávy popírají, že by byla redakce na prodej licence kalkulačky upozorněna. Byl také zpřesněn časový údaj této spolupráce a doplněn link na prvni zachycený screenshot článku. 
 
 
 Budiž, až sem to může být jen příklad mediálně nezvládnutého vyhazovu novinářské dvojice. Šéfredaktor Jakub Unger měl suše oznámit, že nebyl spokojen s jejich prací a proto se rozloučili a na to by nebylo co říci, to je jeho šéfovské právo. Asi by se našlo pár prohlášení SZ, jak skvělá ta dvojice je, chvilku by to běhalo po Xku, ale to je kolorit a věc by vyšuměla.
