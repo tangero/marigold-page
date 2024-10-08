@@ -71,5 +71,9 @@ Staly se právě Seznam Zprávy propagandou?
 
 Podle mě je k nim do uspokojivého vysvětlení situace tak potřeba přistupovat.
 
-PS: Těsně po dopsání tohoto zápisu vydal článek [Page not Found a Jakub Zelenka](https://pagenotfound.cz/clanek/vlastnik-seznamu-odmita-narceni-ze-by-zasahoval-do-redakce). Přináší krátká Whatsapp vyjádření od Iva Lukačoviče, které je spíše emotivní, než světlo přinášející.
+PS: Dne 7.10.2024 vydal ČSÚ oficiální data o počtu vyřízených stavebních řízení, zahrnující letní měsíce. Žádný nadstandardní pokles ohrožující ekonomiku státu, o kterém hovořili propagandisté jako Půr, z dat není patrný. Data samozřejmě neříkají nic o pracovním komfortu úředníků.  
+
+<blockquote class="twitter-tweet"><p lang="cs" dir="ltr">📈👷Počty stavebních povolení v grafu? <br>Tady jsou. <br><br>1️⃣ nedošlo k žádnému poklesu počtu vydaných povolení, kromě každoročního poklesu sezónního<br>2️⃣ průměrné ceny schválených projektů jsou stejné, tj. neschvalují se jen drobnosti, jak někdo tvrdí. <br>3️⃣ ano, v červenci a srpnu se… <a href="https://t.co/6reaKR6CyM">pic.twitter.com/6reaKR6CyM</a></p>&mdash; Patrick Zandl (@tangero) <a href="https://twitter.com/tangero/status/1843255857800171837?ref_src=twsrc%5Etfw">October 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+PPS: Těsně po dopsání tohoto zápisu vydal článek [Page not Found a Jakub Zelenka](https://pagenotfound.cz/clanek/vlastnik-seznamu-odmita-narceni-ze-by-zasahoval-do-redakce). Přináší krátká Whatsapp vyjádření od Iva Lukačoviče, které je spíše emotivní, než světlo přinášející.
 
