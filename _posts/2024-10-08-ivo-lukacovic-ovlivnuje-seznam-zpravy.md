@@ -28,9 +28,9 @@ A to už je jiná káva, protože nebylo příliš srozumitelné, jak se v "něj
 
 Jaký článek, jaká analýza? Mahdalová totiž pár dní před tím avizovala, že dvojice chystá analýzu dat Digitalizace stavebního řízení a podle náznaků v jejích tweetech měla analýza ukazovat jiný obraz, než jaký presentuje vláda a který měl být důvodem odchodu ministra Bartoše. Ano, dá se říct, že v teaseru na článek (teasování práce je u novinářů obvyklé a redakcí žádané) Mahdalová byla dosti pro-pirátská, připouštěla, že data dávají jiný obraz, než jakým je tvrzení ODS.
 
-I tady se zákruta dala vybrat. Screenshot mohl utéct ledasjak, i když už je to s ohledem na předchozí průběh hodně divné dle novinářské zásady "vypadá to jako kachna, chodí to jako kachna, kváká to jako kachna, tak to bude... "
+I tady se zákruta dala vybrat. Screenshot mohl utéct ledasjak, i když už je to s ohledem na předchozí průběh hodně divné dle novinářské zásady *"vypadá to jako kachna, chodí to jako kachna, kváká to jako kachna, tak to bude... "*
 
-Pak se do věci vložil Ivo Lukačovič, majitel Seznamu na svém placeném blogu na Patreonu. A učinil tak jako slon v porcelánu, jak u něj v těchto případech bývá obvyklé. Rozhodl se, že svým čtenářům ukáže, jak rázně se vypořádal s autory analýzy, která podle něj obhajovala něco, co jemu se nelíbí. A plasticky vyjádřil svůj názor na Piráti i Digitalizaci - což je zcela v pořádku. Na závěr k tomu přidal tuto doušku:
+Pak se do věci vložil majitel Seznamu Ivo Lukačovič na svém placeném blogu na Patreonu (proto nelinkuji). A učinil tak jako slon v porcelánu, jak u něj v těchto případech bývá obvyklé. Rozhodl se, že svým čtenářům ukáže, jak rázně se vypořádal s autory analýzy, která podle něj obhajovala něco, co jemu se nelíbí. A plasticky vyjádřil svůj názor na Piráti i Digitalizaci - což je zcela v pořádku. Na závěr k tomu přidal tuto doušku:
 
 > A nakonec perlicka k te unikle analyze SZ ktera mela ukazat, ze DSR vlastne funguje. Ta analyza je slaba. Autori, jmeno si nedokazi stale zapamatovat, ji mohou publikovat kdykoliv a kdekoliv jinde. Ale o to tady vubec neslo. Tu analyzu by rozkliklo stovky tisic lidi. Docetlo by ji desitky tisic lidi a ti by usoudili, ze je slaba a jsou to jenom alibi. Tady se hralo o to, aby na homepage Seznamu svitil odkaz “Datova analyza: DSR vlastne funguje.” A tenhle titulek by cetlo miliony lidi, i kdyz by na nej nikdy neklikli. Stejne jako titulky v komunistickem Rudem Pravu o te vyrobe oceli a dojovosti krav.
 >
@@ -40,7 +40,7 @@ Pak se do věci vložil Ivo Lukačovič, majitel Seznamu na svém placeném blog
 
 K té poslední větě o dojivosti krav pro kontext, o něco dříve říká, že *"analýza a statistika vám snese cokoliv, to už věděli komouši, kteří v Rudém právu neustále točili někde čísla o výrobě oceli a dojivosti krav."*
 
-Článek jako screenshoty stažené z X zde [díl 1](assets/GZCxpscXwAAFLWr.jpeg) a [díl 2](/assets/GZCxpscXAAEJkO7.jpeg). 
+Článek jako screenshoty stažené z X zde [díl 1](/assets/GZCxpscXwAAFLWr.jpeg) a [díl 2](/assets/GZCxpscXAAEJkO7.jpeg). 
 
 Servítky si pak majitel Seznamu už vůbec nebere v komentářích, kdy na velmi ulítlou vizi Ondřeje Neffa, jak to mohlo být, přímo odpovídá: *"Oni prece nebyli tak blby, aby si nemysleli, ze jim to editor stopne. Oni jenom chteli udelat vitr, ze to pripravujou, ze to cenzurujeme a nepiskame rovinu. A chteli naznacit, ze vlada nas ukoluje a vse je spiknuti."* Nebo rovnou obviňuje z korupce. 
 
@@ -49,7 +49,7 @@ Servítky si pak majitel Seznamu už vůbec nebere v komentářích, kdy na velm
 
 > Jakub Unger ted byl nekde v podcastu Medialni cirkus a tam vysvetloval jak to bylo. Kdyz se pracuje na nejakem tematu tak editori rozhoduji cemu se budou venovat a cemu ne. A tihle dva korupcnici v systemu zacali psat tuhle “ananalyzu” uplne sami na vlastni pest. Ale bylo to normalni PR. A pak se tou rozspsanou analyzou normalne zacali chlubit piratum, jakoze uz na tom makaji atd. Ten text byl ubohost a pripominal FB prispevej Vrabela s Rajchlem, ale tentokrat se kopalo za Piraty. Ten text byla takova sracka, ze by to nikdy nemohlo projit editorem. To by nevyslo snad ani na A2Alrmu. To ze jim to Pirati zaplatili, jakoze regulerni snaha uplacet novinare, nebo to delali ze sveho piratskeho presvedceni to se asi nedozvime. Jaka byla casova posloupnost uniklych screenshotu a nejakych WA skupin fakt nevim. IMHO ty leaky udelali sami a sirili to vse mozne az se dostalo to nejake WA skupiny snad ODS. Ale je mozne ze celou story s WA skupinou si vymysleli.
 
-Oba autory analýzy i Pirátskou stranu šéf Seznamu výslovně několikrát nařknul z korupce i ve svém dalším  [dlouhém příspěvku na Twitteru](https://x.com/ilblog/status/1842529932246757726):
+V tomto příspěvku je celá řada dnes už zcela zjevných nepravd. Oba autory analýzy i Pirátskou stranu šéf Seznamu výslovně několikrát nařknul z korupce i ve svém dalším  [dlouhém příspěvku na Twitteru](https://x.com/ilblog/status/1842529932246757726):
 
 > At uz to delali za penize, ktere jiz dostali, nebo za penize, ktere maji dostat, nebo to delali z vlastniho presvedceni, ze pomohou @PiratskaStrana to nevim, ale z meho pohledu to neni nic jineho nez KORUPCNI JEDNANI🤮
 
