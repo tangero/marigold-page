@@ -51,6 +51,11 @@ layout: default
     {% assign related_posts_style = site.obrazy | where: "styl", page.styl %}
     {% assign related_posts_period = related_posts_style | where_exp: "post", "post.namalovano >= lower_bound and post.namalovano <= upper_bound" | where_exp: "post", "post.url != page.url" | limit: 4 %}
     
+    {% if related_posts_period.size < 3 %}
+      {% assign additional_posts = site.obrazy | where_exp: "post", "post.url != page.url" | limit: 3 %}
+      {% assign related_posts_period = related_posts_period | concat: additional_posts | uniq | limit: 3 %}
+    {% endif %}
+    
     {% if related_posts_period.size > 0 %}
     <div class="related-posts">
       <h3>Podobné obrazy:</h3>
