@@ -3,6 +3,10 @@ layout: post
 title: "Naděžda Udalcová - Kuchyně"
 date: 2024-10-05
 order: 
+namalovano: 1915
+autor: Naděžda Udalcová
+obraz: Kuchyně
+styl: kubismus
 ---
 
 Naděžda Udalcová - Kuchyně (1915). Udalcová je ruská - a především sovětská - zástupkyně kubismu a kubo-futurismu. Narodila se v carském rusku, umřela v roce 1961 v Sovětském svazu, takže její kubismus je pošmourný, nevyjásaný. 

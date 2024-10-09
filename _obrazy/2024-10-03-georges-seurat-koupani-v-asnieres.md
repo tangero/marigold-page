@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "Georges Seurat - Koupání v Asnieres "
+title: "Georges Seurat - Koupání v Asnieres"
 date: 2024-10-03
+namalovano: 1884
+autor: Georges Seurat
+obraz: Koupání v Asnieres 
+styl: postimpressionismus
 order: 
 ---
 

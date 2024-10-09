@@ -3,7 +3,12 @@ layout: post
 title: "André Fougeron - Atlantická civilizace"
 date: 2024-10-01
 order: 
+namalovano: 1953
+autor: André Fougeron
+obraz: Atlantická civilizace
+styl: novorealismus
 ---
+
 
 André Fougeron - jeho obraz Atlantická civilizace namalovaný roku 1953 je pětimetrový obraz, kterým Fougeron karikoval poválečnou amerikanizaci Evropy. Ačkoliv je autor novorealista, tady i kvůli rozměrům plátna používá komixový styl malby, který ostatně ladí se záměrem. A obraz je plný příběhů. Poznáte je?
 

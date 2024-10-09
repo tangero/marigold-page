@@ -3,6 +3,10 @@ layout: post
 title: "Aristide Maillol - Žena se slunečníkem"
 date: 2024-10-03
 order: 
+namalovano: 1895
+autor: Aristide Maillol
+obraz: Žena se slunečníkem
+styl: postimpressionismus
 ---
 
 Aristide Maillol a jeho Žena se slunečníkem, namalovaná pravděpodobně roku 1895, ale datace se různí.
