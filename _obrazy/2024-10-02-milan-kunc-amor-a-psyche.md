@@ -7,6 +7,7 @@ namalovano: 1994
 autor: Milan Kunc
 obraz: Amor a Psyche
 styl: postmodernismus
+urlobrazu: /assets/obrazy/IMG_3701.jpeg
 ---
 
 Milan Kunc - jeho obraz Amor a Psyche namalovaný v roce 1994 je obrazem českého postmodernisty, který je respektovaný v celém světě (zejména 🇩🇪🇮🇹🇨🇭).

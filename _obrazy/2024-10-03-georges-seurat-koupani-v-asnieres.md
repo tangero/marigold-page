@@ -7,6 +7,7 @@ autor: Georges Seurat
 obraz: Koupání v Asnieres 
 styl: postimpressionismus
 order: 
+urlobrazu: /assets/obrazy/IMG_2754.jpeg
 ---
 
 Georges Seurat a jeho obraz  Koupání v Asnieres namalovaný roku 1884 je nádherný příklad pointilismu a postimpressionismu. Obraz je doslova vytečkován, větší plochy vznikly horizontálními tahy štětce, tedy malířskou technikou, kterou Seurat ve svém ranném období právě rozvíjel. V tuhle chvíli mu nicméně zbývalo sedm let života. 

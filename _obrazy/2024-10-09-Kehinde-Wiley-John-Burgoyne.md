@@ -7,6 +7,7 @@ namalovano: 2017
 autor: Kehinde Wiley
 obraz: Generál John Burgoyne
 styl: fotorealismus
+urlobrazu: /assets/obrazy/kehinde_wiley_burgoyne.jpg
 ---
 
 Kehinde Wiley a jeho obraz Generál John Burgoyne (2017) v drážďanské Albertině zaujme kontrastním vystavením. Jako každý správný portrét je v hale v řadě jiných portrétů a BUM - ten kontrast praští každého. Já ho nazývám inverzní šeromalbou, všude tam, kde z portrétů starých mistrů vystupuje stín, tady vystupuje zářivé světlo. 

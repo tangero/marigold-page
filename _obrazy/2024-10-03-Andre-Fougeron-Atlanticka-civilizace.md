@@ -7,6 +7,7 @@ namalovano: 1953
 autor: André Fougeron
 obraz: Atlantická civilizace
 styl: novorealismus
+urlobrazu: /assets/obrazy/IMG_8555.jpeg
 ---
 
 

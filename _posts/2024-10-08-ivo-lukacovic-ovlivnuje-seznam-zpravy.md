@@ -22,7 +22,8 @@ Důvodem okamžitého vyhazovu mělo být [podle šéfredaktora SZ Jakuba Ungera
 
 Záhy se ukazuje, že oním *"propojením"* má být  smlouva mezi Škopovým projektem [KohoVolit](https://kohovolit.eu) z roku 2023 ve výši 15 000 Kč na volební kalkulačku, kterou si Piráti modelovali interně volební varianty. Smlouva byla od počátku publikovaná a Michal Škop na to redakci kdysi údajně upozorňoval, že takové drobnosti dělá. Tehdy to nevadilo. Na smlouvu na Twitteru upozornil propagandista Michal Púr - a o několik hodin později reakce jednala tak, že se rozloučila se dvojicí, ačkoliv smlouva pokrývala jen Škopa. (později bylo vysvětleno, že redakce se o smlouvě dozvěděla jinak, než od M. Půra)
 
-**Update 8.10. 17:00** - lidé ze Seznam Zprávy popírají, že by byla redakce na prodej licence kalkulačky upozorněna. Byl také zpřesněn časový údaj této spolupráce a doplněn link na prvni zachycený screenshot článku. 
+**Update 8.10. 17:00** - lidé ze Seznam Zprávy popírají, že by byla redakce na prodej licence kalkulačky upozorněna. Byl také zpřesněn časový údaj této spolupráce a doplněn link na prvni zachycený screenshot článku. Na konec informační sekce článku přidávám aktualizace, jak se objevují nové informace. 
+
 
 
 Budiž, až sem to může být jen příklad mediálně nezvládnutého vyhazovu novinářské dvojice. Šéfredaktor Jakub Unger měl suše oznámit, že nebyl spokojen s jejich prací a proto se rozloučili a na to by nebylo co říci, to je jeho šéfovské právo. Asi by se našlo pár prohlášení SZ, jak skvělá ta dvojice je, chvilku by to běhalo po Xku, ale to je kolorit a věc by vyšuměla.
@@ -58,8 +59,8 @@ V tomto příspěvku je celá řada dnes už zcela zjevných nepravd. Oba autory
 
 > At uz to delali za penize, ktere jiz dostali, nebo za penize, ktere maji dostat, nebo to delali z vlastniho presvedceni, ze pomohou @PiratskaStrana to nevim, ale z meho pohledu to neni nic jineho nez KORUPCNI JEDNANI🤮
 
-Aktualizace 9.10.2024:
-- DVTV [vydává rozhovor s datovými novináři Kateřinou Mahdalovou a Michalem Škopem](https://www.dvtv.cz/dvtv/videos/novinari-vyhozeni-ze-seznam-zpravy-nejsme-korupcnici-lukacovic-situaci-vyhrocuje-budeme-se-branit-pravne) kvůli analýze digitalizace stavebního řízení: „Není pravda, že vznikla bez vědomí redakce, byl to naprosto standardní postup. Etický kodex jsme neporušili, vysvětlují v exkluzivním rozhovoru pro DVTV. 💬| „Majitel Seznam Zprávy Ivo Lukačovič se nás snažil znevěrohodnit a profesně zničit. Jeho vstup do kauzy je překvapivý, mysleli jsme, že do chodu svých redakcí nezasahuje,” dodávají.
+**Aktualizace 9.10.2024:**
+- DVTV [vydává rozhovor s datovými novináři Kateřinou Mahdalovou a Michalem Škopem](https://www.dvtv.cz/dvtv/videos/novinari-vyhozeni-ze-seznam-zpravy-nejsme-korupcnici-lukacovic-situaci-vyhrocuje-budeme-se-branit-pravne) kvůli analýze digitalizace stavebního řízení: „Není pravda, že vznikla bez vědomí redakce, byl to naprosto standardní postup. Etický kodex jsme neporušili, vysvětlují v exkluzivním rozhovoru pro DVTV. 💬 „Majitel Seznam Zprávy Ivo Lukačovič se nás snažil znevěrohodnit a profesně zničit. Jeho vstup do kauzy je překvapivý, mysleli jsme, že do chodu svých redakcí nezasahuje,” dodávají.
 - Duo Mahdalová & Škop [startují na platformě Herohero](https://herohero.co/mahdalovaskop) projekt datová žurnalistika bez řetězu. Tím se vysvětluje, proč se jejich analýza neobjevila jinde. 
 
 ## Ovlivňuje Ivo Lukačovič obsah Seznam Zpráv?
