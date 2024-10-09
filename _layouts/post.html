@@ -15,11 +15,11 @@ layout: default
 
   <div class="ai-rubric-link">
     
-    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kategorie Obrazy -->
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
     {% if page.url contains '/obrazy/' %}
     <div class="related-posts">
       <h3>Podobné obrazy:</h3>
-      <table>
+      <table style="border-collapse: separate; border-spacing: 15px; text-align: center;">
         <thead>
           <tr>
             <th>Autor</th>
@@ -36,7 +36,7 @@ layout: default
                 <td><a href="{{ post.url }}">{{ post.obraz | default: "Bez názvu" }}</a></td>
                 <td>
                   {% if post.urlobrazu %}
-                    <a href="{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz{{ post.urlobrazu }}" alt="{{ post.title }}" style="width:100px;"></a>
+                    <a href="{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz{{ post.urlobrazu }}" alt="{{ post.title }}" style="width:100px; vertical-align: middle;"></a>
                   {% else %}
                     <span>Obrázek není k dispozici</span>
                   {% endif %}
