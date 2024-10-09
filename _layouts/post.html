@@ -45,7 +45,7 @@ layout: default
     </blockquote>
     
     <!-- Přidání tabulky s obrazy ve stejném stylu a období -->
-    {% assign related_posts = site.obrazy | where: "styl", page.styl | where_exp: "post", "post.namalovano >= page.namalovano | minus: 12 and post.namalovano <= page.namalovano | plus: 12" | where_exp: "post", "post.url != page.url" | limit: 4 %}
+    {% assign related_posts = site.obrazy | where: "styl", page.styl | where_exp: "post", "post.namalovano >= page.namalovano - 12 and post.namalovano <= page.namalovano + 12" | where_exp: "post", "post.url != page.url" | limit: 4 %}
     {% if related_posts.size > 0 %}
     <div class="related-posts">
       <h3>Podobné obrazy:</h3>
