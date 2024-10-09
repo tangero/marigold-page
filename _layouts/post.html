@@ -9,51 +9,22 @@ layout: default
 <article class="post detailed">
   <h1>{{ page.title }}</h1>
 
-  {% if page.categories contains "AI" %}
-  <div class="posts">
-    <blockquote>
-      <p>💡 Firemní <a href="https://www.aivefirmach.cz/">workshopy o umělé inteligenci</a> - pojďme se zamyslet nad tím, jak se vaší firmy dotkne AI a jak se na to připravit!</p>
-    </blockquote>
-  </div>
-  {% endif %}
-
   <div class="entry">
     {{ content }}
   </div>
 
-  {% if page.collection == 'ai' and page.layout == 'post' %}
-  <div class="ai-rubric-link">
-    <blockquote> 
-    ⚡️ <a href="/ai/">Pokračujte do rubriky AI</a>
-    </blockquote>
-  </div>
-  {% elsif page.collection == 'obrazy' and page.layout == 'post' %}
   <div class="ai-rubric-link">
     <blockquote> 
     ⚡️ <a href="/obrazy/">Další obrazy zde...</a><br>
     <p class="author_title">Autor: {{ site.author }}  · Datum vydání: {{ page.date | date: "%-d.%-m.%Y" }}</p>
-    
-
-{% if page.path %}
-
+    {% if page.path %}
       <a href="{{ site.github_repo }}/blob/main/{{ page.path }}" target="_blank">
         Opravit 📃
       </a>
-    
-{% endif %}
-</p>
+    {% endif %}
     </blockquote>
     
-    <!-- Přidání tabulky s obrazy ve stejném stylu a období -->
-    {% assign related_posts_style = site.obrazy | where: "styl", page.styl %}
-    {% assign related_posts_period = related_posts_style | where_exp: "post", "post.namalovano >= page.namalovano | minus: 12 and post.namalovano <= page.namalovano | plus: 12" | where_exp: "post", "post.url != page.url" | limit: 3 %}
-    
-    {% if related_posts_period.size < 3 %}
-      {% assign additional_posts = site.obrazy | where_exp: "post", "post.url != page.url and post.styl != page.styl" | limit: 3 %}
-      {% assign related_posts_period = related_posts_period | concat: additional_posts | uniq | limit: 3 %}
-    {% endif %}
-    
-    {% if related_posts_period.size > 0 %}
+    <!-- Přidání tabulky s náhodně vybranými obrazy -->
     <div class="related-posts">
       <h3>Podobné obrazy:</h3>
       <table>
@@ -65,39 +36,23 @@ layout: default
           </tr>
         </thead>
         <tbody>
-          
-{% for post in related_posts_period %}
+          {% assign shuffled_obras = site.data.obrazy | sample: 3 %}
+          {% for obraz in shuffled_obras %}
           <tr>
-            <td>{{ post.autor }}</td>
-            <td><a href="{{ post.url }}">{{ post.obraz }}</a></td>
-            <td><img src="{{ post.urlobrazu }}" alt="{{ post.obraz }}" style="width:100px;"></td>
+            <td>{{ obraz.autor }}</td>
+            <td><a href="{{ obraz.url }}">{{ obraz.nazev }}</a></td>
+            <td><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/{{ obraz.obrazek_url }}" alt="{{ obraz.nazev }}" style="width:100px;"></td>
           </tr>
           {% endfor %}
         </tbody>
       </table>
     </div>
-    {% endif %}
   </div>
-  {% endif %}  
 
   {% if page.layout == 'post' %}
   <div class="commentbox"></div>
   <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
   <script>commentBox('5677112761516032-proj')</script>
-  {% endif %}
-
-  {% if page.categories contains "Mobilní sítě" or page.categories contains "3G" or page.categories contains "4G" or page.categories contains "5G" or page.categories contains "5G Advanced" %}
-  <div class="posts">
-    <blockquote>
-      <p>🗼 Pokračujte dále na <a href="/mobilnisite/">Seriál Mobilní sítě</a></p>
-    </blockquote>
-  </div>
-  {% elsif page.categories contains "AI" %}
-  <div class="posts">
-    <blockquote>
-      <p>💡 Firemní <a href="https://www.aivefirmach.cz/">workshopy o umělé inteligenci</a> - pojďme se zamyslet nad tím, jak se vaší firmy dotkne AI a jak se na to připravit!</p>
-    </blockquote>
-  </div>
   {% endif %}
 
   <!-- Tady začíná odkazování na featured články -->
