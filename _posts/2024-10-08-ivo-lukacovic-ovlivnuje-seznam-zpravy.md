@@ -12,6 +12,8 @@ Málokdy se podaří redakci významného média tolik ztratit tolik na renomé,
 
 Nevím, jak moc sledujete českou mediální scénu, ale tohle si pozornost zaslouží, protože je to důležité. A mě je vlastně strašně líto, že o tom píšu, protože většinu lidí v příběhu nějak znám a dosti si jich vážím. (Na okraj textu připomínám fakt, že jsem člen Pirátské strany)
 
+> 📕✍️ Moje nová kniha **Technoelity: Když příliš málo ovlivňuje příliš mnoho** je o vlivu mocných šéfů technologických konglomerátů na chod tohoto světa. 👉 [Předobjednat si můžete zde](http://ifdeal.com/ifdeals/25893d24-2316-460f-937d-d845d0602afe). 
+
 ## Dva vyhození datoví analytici
 
 Co se stalo? Začalo to skoro banálně. Redakce 2.10.2024 vyhodila dvojici datových analytiků, jejichž práci si dosud pochvalovala a doprovodila to [temnou tiskovou zprávou](https://x.com/SeznamZpravy/status/1841453438359478340), v níž šéfredaktor Jakub Unger vykřikuje divné věty jako "_Seznam Zprávy jsou silnější, než si mnozí naivně myslí."_
