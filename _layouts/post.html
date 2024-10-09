@@ -17,65 +17,8 @@ layout: default
   </div>
   {% endif %}
 
-  <div>
-    <p class="author_title">{{site.author}}  ·
-{% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d." }}
-{% case m %}
-  {% when '1' %}leden
-  {% when '2' %}únor
-  {% when '3' %}březen
-  {% when '4' %}duben
-  {% when '5' %}květen
-  {% when '6' %}červen
-  {% when '7' %}červenec
-  {% when '8' %}srpen
-  {% when '9' %}září
-  {% when '10' %}říjen
-  {% when '11' %}listopad
-  {% when '12' %}prosinec
-{% endcase %}
-{{ page.date | date: "%Y" }} 
-
-       {% if page.path %}
-      <a href="{{ site.github_repo }}/blob/main/{{ page.path }}" target="_blank">
-        Opravit 📃
-      </a>
-  {% endif %}
-    
-    </p>
-
-    {% if page.last_modified_at %}
-    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Aktualizováno: {{ page.last_modified_at | date: "%-d.%-m.%Y" }})</p>
-
-    {% endif %}
-    <div class="post-tags">
-      {% if post %}
-        {% assign categories = post.categories %}
-      {% else %}
-        {% assign categories = page.categories %}
-      {% endif %}
-      {% for category in categories %}
-        <a href="{{site.baseurl}}/rubrika/#{{category|slugize}}">{{category}}</a>
-        {% unless forloop.last %}&nbsp;{% endunless %}
-      {% endfor %}
-    </div>
-   
-  </div>
-
-  {% if page.thumbnail %}
-  {% assign thumbnail_url = page.thumbnail | replace: 'http://', 'https://' %}
-  <div class="thumbnail-strip">
-    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ page.title }}">
-  </div>
-{% endif %}
-
   <div class="entry">
-
     {{ content }}
-
-
-
   </div>
 
   {% if page.collection == 'ai' and page.layout == 'post' %}
@@ -87,17 +30,48 @@ layout: default
   {% elsif page.collection == 'obrazy' and page.layout == 'post' %}
   <div class="ai-rubric-link">
     <blockquote> 
-    ⚡️ <a href="/obrazy/">Další obrazy zde...</a>
+    ⚡️ <a href="/obrazy/">Další obrazy zde...</a><br>
+    <p class="author_title">Autor: {{ site.author }}  · Datum vydání: {{ page.date | date: "%-d.%-m.%Y" }}
+    {% if page.path %}
+      <a href="{{ site.github_repo }}/blob/main/{{ page.path }}" target="_blank">
+        Opravit 📃
+      </a>
+    {% endif %}</p>
     </blockquote>
+    
+    <!-- Přidání tabulky s obrazy ve stejném stylu a období -->
+    {% assign related_posts = site.obrazy | where: "styl", page.styl | where_exp: "post", "post.namalovano >= page.namalovano | minus: 12 and post.namalovano <= page.namalovano | plus: 12" | where_exp: "post", "post.url != page.url" | limit: 4 %}
+    {% if related_posts.size > 0 %}
+    <div class="related-posts">
+      <h3>Podobné obrazy:</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Autor</th>
+            <th>Obraz</th>
+            <th>Obrázek</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for post in related_posts %}
+          <tr>
+            <td>{{ post.autor }}</td>
+            <td><a href="{{ post.url }}">{{ post.obraz }}</a></td>
+            <td><img src="{{ post.urlobrazu }}" alt="{{ post.obraz }}" style="width:100px;"></td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+    {% endif %}
   </div>
-{% endif %}  
+  {% endif %}  
 
-<div class="commentbox"></div>
-<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-<script>commentBox('5677112761516032-proj')</script>
-
-
-
+  {% if page.layout == 'post' %}
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  {% endif %}
 
   {% if page.categories contains "Mobilní sítě" or page.categories contains "3G" or page.categories contains "4G" or page.categories contains "5G" or page.categories contains "5G Advanced" %}
   <div class="posts">
@@ -113,8 +87,7 @@ layout: default
   </div>
   {% endif %}
 
-<!-- Tady začíná odkazování na featured články -->
-
+  <!-- Tady začíná odkazování na featured články -->
   {% assign featured_posts = site.posts | where: "featured", true | where_exp: "post", "post.url != page.url" %}
   {% if featured_posts.size > 0 %}
     {% assign shuffled_posts = featured_posts | sort: 'date' | sample: featured_posts.size %}
@@ -141,17 +114,20 @@ layout: default
     </div>
   {% endif %}  
 
-
-  
   <div class="posts">
     <h3>Chcete tyto články emailem?</h3>
     <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
   </div>
 
-
   <div>
-    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a>, 
 
+    {% if page.path %}
+      <a href="{{ site.github_repo }}/blob/main/{{ page.path }}" target="_blank">
+        Opravit 📃
+      </a>
+    {% endif %}
+</p>
     <p>
     <div class="PageNavigation">
       {% if page.previous.url %}
@@ -163,11 +139,5 @@ layout: default
       {% endif %}
     </div>
     </p>
-
   </div>
-
-  <!--<div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>-->
-
 </article>
