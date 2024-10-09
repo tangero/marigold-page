@@ -24,13 +24,18 @@ layout: default
           <tr>
             <th style="text-align: left;">Autor</th>
             <th style="text-align: left;">Obraz</th>
-            <th style="text-align: center;">Náhled</th>
+            <th style="text-align: center;">Obrázek</th>
           </tr>
         </thead>
         <tbody>
-          {% assign shuffled_posts = site.collections['obrazy'].docs | sample: 3 %}
-          {% if shuffled_posts.size > 0 %}
-            {% for post in shuffled_posts %}
+          {% assign filtered_posts = site.collections['obrazy'].docs | where: 'styl', page.styl | where_exp: 'post', "post.namalovano >= page.namalovano | minus: 12 and post.namalovano <= page.namalovano | plus: 12" %}
+          {% if filtered_posts.size < 3 %}
+            {% assign additional_posts = site.collections['obrazy'].docs | sample: 3 | where_exp: 'post', "post.url != page.url" %}
+            {% assign filtered_posts = filtered_posts | concat: additional_posts | uniq | first: 3 %}
+          {% endif %}
+
+          {% if filtered_posts.size > 0 %}
+            {% for post in filtered_posts %}
             <tr>
               <td>{{ post.autor }}</td>
               <td><a href="{{ post.url }}">{{ post.obraz }}</a></td>
