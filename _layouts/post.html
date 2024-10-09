@@ -15,7 +15,8 @@ layout: default
 
   <div class="ai-rubric-link">
     
-    <!-- Přidání tabulky s náhodně vybranými obrazy -->
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kategorie Obrazy -->
+    {% if page.url contains '/obrazy/' %}
     <div class="related-posts">
       <h3>Podobné obrazy:</h3>
       <table>
@@ -27,7 +28,7 @@ layout: default
           </tr>
         </thead>
         <tbody>
-          {% assign posts_with_images = site.posts | where: "layout", "post" | where: "autor", page.autor | where_exp: "post", "post.urlobrazu != nil" %}
+          {% assign posts_with_images = site.posts | where: "layout", "post" | where: "autor", page.autor | where_exp: "post", "post.urlobrazu != nil" | where: "category", "Obrazy" %}
           {% assign shuffled_posts = posts_with_images | sample: 3 %}
           {% if shuffled_posts.size > 0 %}
             {% for post in shuffled_posts %}
@@ -45,6 +46,7 @@ layout: default
         </tbody>
       </table>
     </div>
+    {% endif %}
   </div>
 
   {% if page.layout == 'post' %}
