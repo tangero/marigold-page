@@ -46,11 +46,12 @@ layout: default
     
     <!-- Přidání tabulky s obrazy ve stejném stylu a období -->
     
-{% assign lower_bound = page.namalovano | minus: 12 %}
-{% assign upper_bound = page.namalovano | plus: 12 %}
-{% assign related_posts = site.obrazy | where: "styl", page.styl | where_exp: "post", "post.namalovano >= lower_bound and post.namalovano <= upper_bound" | where_exp: "post", "post.url != page.url" | limit: 4 %}
+
+
+{% assign related_posts_style = site.obrazy | where: "styl", page.styl %}
+{% assign related_posts_period = related_posts_style | where_exp: "post", "post.namalovano >= lower_bound and post.namalovano <= upper_bound" | where_exp: "post", "post.url != page.url" | limit: 4 %}
     
-{% if related_posts.size > 0 %}
+{% if related_posts_period.size > 0 %}
     <div class="related-posts">
       <h3>Podobné obrazy:</h3>
       <table>
@@ -63,7 +64,7 @@ layout: default
         </thead>
         <tbody>
           
-{% for post in related_posts %}
+{% for post in related_posts_period %}
           <tr>
             <td>{{ post.autor }}</td>
             <td><a href="{{ post.url }}">{{ post.obraz }}</a></td>
