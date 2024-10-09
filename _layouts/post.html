@@ -24,7 +24,7 @@ layout: default
           <tr>
             <th style="text-align: left;">Autor</th>
             <th style="text-align: left;">Obraz</th>
-            <th style="text-align: center;">Obrázek</th>
+            <th style="text-align: center;">Náhled</th>
           </tr>
         </thead>
         <tbody>
@@ -33,7 +33,7 @@ layout: default
             {% for post in shuffled_posts %}
             <tr>
               <td>{{ post.autor }}</td>
-              <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+              <td><a href="{{ post.url }}">{{ post.obraz }}</a></td>
               <td style="text-align: center;"><a href="{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz{{ post.urlobrazu }}" alt="{{ post.title }}" style="width:100px; vertical-align: middle;"></a></td>
             </tr>
             {% endfor %}
