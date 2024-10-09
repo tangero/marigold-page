@@ -58,6 +58,10 @@ V tomto příspěvku je celá řada dnes už zcela zjevných nepravd. Oba autory
 
 > At uz to delali za penize, ktere jiz dostali, nebo za penize, ktere maji dostat, nebo to delali z vlastniho presvedceni, ze pomohou @PiratskaStrana to nevim, ale z meho pohledu to neni nic jineho nez KORUPCNI JEDNANI🤮
 
+Aktualizace 9.10.2024:
+- DVTV [vydává rozhovor s datovými novináři Kateřinou Mahdalovou a Michalem Škopem](https://www.dvtv.cz/dvtv/videos/novinari-vyhozeni-ze-seznam-zpravy-nejsme-korupcnici-lukacovic-situaci-vyhrocuje-budeme-se-branit-pravne) kvůli analýze digitalizace stavebního řízení: „Není pravda, že vznikla bez vědomí redakce, byl to naprosto standardní postup. Etický kodex jsme neporušili, vysvětlují v exkluzivním rozhovoru pro DVTV. 💬| „Majitel Seznam Zprávy Ivo Lukačovič se nás snažil znevěrohodnit a profesně zničit. Jeho vstup do kauzy je překvapivý, mysleli jsme, že do chodu svých redakcí nezasahuje,” dodávají.
+- Duo Mahdalová & Škop [startují na platformě Herohero](https://herohero.co/mahdalovaskop) projekt datová žurnalistika bez řetězu. Tím se vysvětluje, proč se jejich analýza neobjevila jinde. 
+
 ## Ovlivňuje Ivo Lukačovič obsah Seznam Zpráv?
 
 Tohle je jedna z kardinálních otázek nad celým případem. Ivo Lukačovič byl zatím vždy vnímán jako ten "hodný oligarcha" - někdo, kdo své peníze vydělal velmi poctivě a přispívá s nimi zpět společnosti. Patří mezi nejvýznamnější dárce pro-ukrajinských aktivit a jiných dobročinných akcí a jeho Seznam také je významným sponzorem Národního fondu nezávislé žurnalistiky.
