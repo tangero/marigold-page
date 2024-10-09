@@ -28,12 +28,7 @@ layout: default
           </tr>
         </thead>
         <tbody>
-          {% assign filtered_posts = site.collections['obrazy'].docs | where: 'styl', page.styl | where_exp: 'post', "post.namalovano >= page.namalovano | minus: 12 and post.namalovano <= page.namalovano | plus: 12" %}
-          {% if filtered_posts.size < 3 %}
-            {% assign additional_posts = site.collections['obrazy'].docs | sample: 3 | where_exp: 'post', "post.url != page.url" %}
-            {% assign filtered_posts = filtered_posts | concat: additional_posts | uniq | first: 3 %}
-          {% endif %}
-
+          {% assign filtered_posts = site.collections['obrazy'].docs | sample: 3 %}
           {% if filtered_posts.size > 0 %}
             {% for post in filtered_posts %}
             <tr>
