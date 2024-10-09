@@ -14,15 +14,6 @@ layout: default
   </div>
 
   <div class="ai-rubric-link">
-    <blockquote> 
-    ⚡️ <a href="/obrazy/">Další obrazy zde...</a><br>
-    <p class="author_title">Autor: {{ site.author }}  · Datum vydání: {{ page.date | date: "%-d.%-m.%Y" }}</p>
-    {% if page.path %}
-      <a href="{{ site.github_repo }}/blob/main/{{ page.path }}" target="_blank">
-        Opravit 📃
-      </a>
-    {% endif %}
-    </blockquote>
     
     <!-- Přidání tabulky s náhodně vybranými obrazy -->
     <div class="related-posts">
@@ -37,13 +28,19 @@ layout: default
         </thead>
         <tbody>
           {% assign shuffled_obras = site.data.obrazy | sample: 3 %}
-          {% for obraz in shuffled_obras %}
-          <tr>
-            <td>{{ obraz.autor }}</td>
-            <td><a href="{{ obraz.url }}">{{ obraz.nazev }}</a></td>
-            <td><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/{{ obraz.obrazek_url }}" alt="{{ obraz.nazev }}" style="width:100px;"></td>
-          </tr>
-          {% endfor %}
+          {% if shuffled_obras.size > 0 %}
+            {% for obraz in shuffled_obras %}
+            <tr>
+              <td>{{ obraz.autor }}</td>
+              <td><a href="{{ obraz.url }}">{{ obraz.nazev }}</a></td>
+              <td><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/{{ obraz.obrazek_url }}" alt="{{ obraz.nazev }}" style="width:100px;"></td>
+            </tr>
+            {% endfor %}
+          {% else %}
+            <tr>
+              <td colspan="3">Žádné podobné obrazy nebyly nalezeny.</td>
+            </tr>
+          {% endif %}
         </tbody>
       </table>
     </div>
