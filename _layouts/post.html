@@ -28,7 +28,7 @@ layout: default
           </tr>
         </thead>
         <tbody>
-          {% assign shuffled_posts = site.posts | where: "category", "Obrazy" | sample: 3 %}
+          {% assign shuffled_posts = site.obrazy | sample: 3 %}
           {% if shuffled_posts.size > 0 %}
             {% for post in shuffled_posts %}
               <tr>
