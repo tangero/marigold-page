@@ -45,8 +45,14 @@ layout: default
     </blockquote>
     
     <!-- Přidání tabulky s obrazy ve stejném stylu a období -->
-    {% assign related_posts = site.obrazy | where: "styl", page.styl | where_exp: "post", "post.namalovano >= page.namalovano - 12 and post.namalovano <= page.namalovano + 12" | where_exp: "post", "post.url != page.url" | limit: 4 %}
-    {% if related_posts.size > 0 %}
+    
+<!-- Debugging related posts assignment -->
+<p>Debug: Assigning related posts for obrazy collection with similar style and time period</p>
+{% assign related_posts = site.obrazy | where: "styl", page.styl | where_exp: "post", "post.namalovano >= (page.namalovano | minus: 12) and post.namalovano <= (page.namalovano | plus: 12)" | where_exp: "post", "post.url != page.url" | limit: 4 %}
+    
+<!-- Debugging related posts size -->
+<p>Debug: Found {{ related_posts.size }} related posts</p>
+{% if related_posts.size > 0 %}
     <div class="related-posts">
       <h3>Podobné obrazy:</h3>
       <table>
@@ -58,7 +64,10 @@ layout: default
           </tr>
         </thead>
         <tbody>
-          {% for post in related_posts %}
+          
+<!-- Debugging related posts loop -->
+<p>Debug: Iterating over related posts</p>
+{% for post in related_posts %}
           <tr>
             <td>{{ post.autor }}</td>
             <td><a href="{{ post.url }}">{{ post.obraz }}</a></td>
