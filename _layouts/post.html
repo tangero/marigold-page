@@ -15,39 +15,33 @@ layout: default
 
   <div class="ai-rubric-link">
     
-    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kategorie Obrazy -->
-    {% if page.url contains '/obrazy/' %}
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    {% if page.collection == 'obrazy' %}
     <div class="related-posts">
-      <h3>Podobné obrazy:</h3>
-      <table>
+      <h3>Další zajímavé obrazy</h3>
+      <table style="border-collapse: separate; border-spacing: 15px; width: 100%;">
         <thead>
           <tr>
-            <th>Autor</th>
-            <th>Obraz</th>
-            <th>Obrázek</th>
+            <th style="text-align: left;">Autor</th>
+            <th style="text-align: left;">Obraz</th>
+            <th style="text-align: center;">Obrázek</th>
           </tr>
         </thead>
         <tbody>
-          {% assign shuffled_posts = site.obrazy | sample: 3 %}
+          {% assign shuffled_posts = site.collections['obrazy'].docs | sample: 3 %}
           {% if shuffled_posts.size > 0 %}
             {% for post in shuffled_posts %}
-              <tr>
-                <td>{{ post.autor | default: "Neznámý autor" }}</td>
-                <td><a href="{{ post.url }}">{{ post.title | default: "Bez názvu" }}</a></td>
-                <td>
-                  {% if post.urlobrazu %}
-                    <a href="{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100{{ post.urlobrazu }}" alt="{{ post.title }}" style="width:100px;"></a>
-                  {% else %}
-                    <span>Obrázek není k dispozici</span>
-                  {% endif %}
-                </td>
-              </tr>
+            <tr>
+              <td>{{ post.autor }}</td>
+              <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+              <td style="text-align: center;"><a href="{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz{{ post.urlobrazu }}" alt="{{ post.title }}" style="width:100px; vertical-align: middle;"></a></td>
+            </tr>
             {% endfor %}
           {% else %}
             <tr>
-              <td colspan="3">Žádné podobné obrazy nebyly nalezeny.</td>
+              <td colspan="3" style="text-align: center;">Žádné obrazy nebyly nalezeny.</td>
             </tr>
-          {% endif %}          
+          {% endif %}
         </tbody>
       </table>
     </div>
