@@ -9,6 +9,64 @@ layout: default
 <article class="post detailed">
   <h1>{{ page.title }}</h1>
 
+  {% if page.categories contains "AI" %}
+  <div class="posts">
+    <blockquote>
+      <p>💡 Firemní <a href="https://www.aivefirmach.cz/">workshopy o umělé inteligenci</a> - pojďme se zamyslet nad tím, jak se vaší firmy dotkne AI a jak se na to připravit!</p>
+    </blockquote>
+  </div>
+  {% endif %}
+
+  {% if page.collection != 'obrazy' %}
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">{{site.author}}  ·
+{% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d." }}
+{% case m %}
+  {% when '1' %}leden
+  {% when '2' %}únor
+  {% when '3' %}březen
+  {% when '4' %}duben
+  {% when '5' %}květen
+  {% when '6' %}červen
+  {% when '7' %}červenec
+  {% when '8' %}srpen
+  {% when '9' %}září
+  {% when '10' %}říjen
+  {% when '11' %}listopad
+  {% when '12' %}prosinec
+{% endcase %}
+{{ page.date | date: "%Y" }} 
+    
+    </p>
+
+    {% if page.last_modified_at %}
+    <p class="author_title" datetime="{{ page.last_modified_at | date_to_xmlschema }}">(Aktualizováno: {{ page.last_modified_at | date: "%-d.%-m.%Y" }})</p>
+
+    {% endif %}
+    <div class="post-tags">
+      {% if post %}
+        {% assign categories = post.categories %}
+      {% else %}
+        {% assign categories = page.categories %}
+      {% endif %}
+      {% for category in categories %}
+        <a href="{{site.baseurl}}/rubrika/#{{category|slugize}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </div>
+   
+  </div>
+
+  {% if page.thumbnail %}
+  {% assign thumbnail_url = page.thumbnail | replace: 'http://', 'https://' %}
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ page.title }}">
+  </div>
+  {% endif %}
+{% endif %}
+
   <div class="entry">
     {{ content }}
   </div>
@@ -18,7 +76,7 @@ layout: default
     <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
     {% if page.url contains '/obrazy/' %}
     <div class="related-posts">
-      <h3>Podobné obrazy:</h3>
+      <h3>Další zajímavé obrazy</h3>
       <table style="border-collapse: separate; border-spacing: 15px; text-align: center;">
         <thead>
           <tr>
