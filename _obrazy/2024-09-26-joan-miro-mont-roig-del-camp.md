@@ -24,7 +24,7 @@ A tady je ta Farma pro porovnání tříletého posunu v Miroově tvorbě:
 
 ![Joan Miró - Farma](/assets/obrazy/joan-miro-farma.jpg)
 
-Obraz Farma odráží Miroův  vztah k rodnému Katalánsku a jeho venkovskému životu. Obraz je známý právě svou neuvěřitelnou pozorností k detailu a obsahuje množství prvků, které jsou vykresleny s realistickou přesností. Zároveň jsou tyto detaily poskládány do celkově surrealistické kompozice, která naznačuje přechod k Miróově pozdější abstraktnější tvorbě. Řekněme si tedy pár detailů... 
+Obraz Farma odráží Miroův  vztah k rodnému Katalánsku a jeho venkovskému životu a již je příkladem surrealismu. Obraz je známý právě svou neuvěřitelnou pozorností k detailu a obsahuje množství prvků, které jsou vykresleny s realistickou přesností. Zároveň jsou tyto detaily poskládány do celkově surrealistické kompozice, která naznačuje přechod k Miróově pozdější abstraktnější tvorbě. Řekněme si tedy pár detailů... 
 
 - Strom symbolizuje Miróovu katalánskou identitu a jeho kořeny. Odlupující se kůra může naznačovat změnu nebo proces transformace, podobně jako Miróův umělecký přechod od realismu k surrealismu.
 - Studna symbolizuje zdroj života a obnovu, protože voda je klíčovým prvkem pro přežití a růst na venkově. Miró ji umístil do centra obrazu, což zobrazuje její důležitost pro zemědělskou komunitu a každodenní život.
