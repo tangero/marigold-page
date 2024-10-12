@@ -69,51 +69,87 @@ function sortTable(n) {
 }
 </script>
 
-<h1>Dominantní barvy</h1>
-<img id="image" src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_300,c_fill/https://www.marigold.cz/assets/obrazy/tanguy-promontory-palace.jpg" alt="Image" width="300">
-<div id="color-palette"></div>
+
+
+
+<h2>Dominantní barvy z obrázku (pokusná sekce)</h2>
+<img id="image" src="https://www.marigold.cz/assets/obrazy/tanguy-promontory-palace.jpg" alt="Image" width="300">
 
 <style>
   .color-box {
-      width: 100px;
-      height: 100px;
-      display: inline-block;
-      margin: 5px;
-      border-radius: 10px;  /* Zaoblené rohy */
-      border: 2px solid #000;  /* Černý okraj */
-  }
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 10px;
+    border: 2px solid #000;
+    }
 </style>
+
+<div id="color-palette"></div>
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        const externalImageUrl = encodeURIComponent("https://www.marigold.cz/assets/obrazy/tanguy-promontory-palace.jpg");
-        const cloudName = "dvwv5cne3";
+        const imageUrl = "https://www.marigold.cz/assets/obrazy/tanguy-promontory-palace.jpg";
 
-        async function getDominantColors() {
-            const url = `https://res.cloudinary.com/${cloudName}/image/fetch/fl_getinfo/${externalImageUrl}`;
+        // Funkce pro načtení obrázku a jeho převod na base64
+        function getImageBase64(url) {
+            return new Promise((resolve, reject) => {
+                const img = new Image();
+                img.crossOrigin = "Anonymous";
+                img.onload = () => {
+                    const canvas = document.createElement('canvas');
+                    canvas.width = img.width;
+                    canvas.height = img.height;
+                    const ctx = canvas.getContext('2d');
+                    ctx.drawImage(img, 0, 0);
+                    resolve(canvas.toDataURL('image/jpeg').split(',')[1]);  // Base64 bez hlavičky
+                };
+                img.onerror = reject;
+                img.src = url;
+            });
+        }
+
+        // Funkce pro volání Colormind API a zpracování odpovědi
+        async function getColorPalette(base64Image) {
+            const response = await fetch('http://colormind.io/api/', {
+                method: 'POST',
+                body: JSON.stringify({
+                    model: "default",
+                    input: base64Image
+                }),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            });
+            return response.json();
+        }
+
+        // Funkce pro zobrazení barevné palety
+        function displayColorPalette(colors) {
+            const colorPalette = document.getElementById('color-palette');
+            colors.forEach(color => {
+                const colorBox = document.createElement('div');
+                colorBox.className = 'color-box';
+                colorBox.style.backgroundColor = `rgb(${color[0]}, ${color[1]}, ${color[2]})`;
+                colorPalette.appendChild(colorBox);
+            });
+        }
+
+        // Asynchronní funkce pro načtení obrázku, volání API a zobrazení barev
+        async function processImage() {
             try {
-                const response = await fetch(url);
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                const data = await response.json();
-
-                const colorPalette = document.getElementById('color-palette');
-                if (data.colors) {
-                    data.colors.forEach(colorObj => {
-                        const colorBox = document.createElement('div');
-                        colorBox.className = 'color-box';
-                        colorBox.style.backgroundColor = colorObj.color;
-                        colorPalette.appendChild(colorBox);
-                    });
-                } else {
-                    console.error('Žádné barvy nebyly vráceny pro obrázek.');
-                }
+                const base64Image = await getImageBase64(imageUrl);
+                const palette = await getColorPalette(base64Image);
+                displayColorPalette(palette.result);
             } catch (error) {
-                console.error('Chyba při získávání barev:', error);
+                console.error('Chyba při generování palety barev:', error);
             }
         }
 
-        getDominantColors();
+        processImage();  // Spuštění procesu
     });
 </script>
+
+</body>
+</html>
