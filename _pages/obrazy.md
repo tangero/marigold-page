@@ -68,3 +68,41 @@ function sortTable(n) {
   }
 }
 </script>
+
+    <style>
+        .color-box {
+            width: 100px;
+            height: 100px;
+            display: inline-block;
+        }
+    </style>
+
+
+<h1>Dominantní barvy</h1>
+<img id="image" src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_300,c_fill/https://www.marigold.cz/assets/obrazy/tanguy-promontory-palace.jpg" alt="Image" width="300">
+<div id="color-palette"></div>
+
+<script>
+    const externalImageUrl = "https://www.marigold.cz/assets/obrazy/tanguy-promontory-palace.jpg";  // Nahraď URL svého obrázku
+    const cloudName = "dvwv5cne3"; // Tvé Cloudinary jméno
+
+    async function getDominantColors() {
+        const url = `https://res.cloudinary.com/${cloudName}/image/fetch/fl_getinfo/${externalImageUrl}`;
+        try {
+            const response = await fetch(url);
+            const data = await response.json();
+
+            const colorPalette = document.getElementById('color-palette');
+            data.colors.forEach(colorObj => {
+                const colorBox = document.createElement('div');
+                colorBox.className = 'color-box';
+                colorBox.style.backgroundColor = colorObj.color;
+                colorPalette.appendChild(colorBox);
+            });
+        } catch (error) {
+            console.error('Chybička v generování škály barev:', error);
+        }
+    }
+
+    getDominantColors();
+</script>
