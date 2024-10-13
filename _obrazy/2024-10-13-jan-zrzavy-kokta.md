@@ -7,7 +7,7 @@ namalovano: 1915
 autor: Jan Zrzavý
 obraz: Kokta
 styl: [magický realismus]
-urlobrazu: /assets/obrazy/hirst-furfuryl-cely.jpeg
+urlobrazu: /assets/obrazy/jan_zrzavy_kokta.jpeg
 ---
 
 o českém avantgardistovi počátku minulého století se říkává, že je představitel magického realismu, já bych ho označil za "štěstí na půdě". To jsou obrazy na první pohled sice umírněné, ale už od pohledu takové, že je ani za totáče nevyhodili, ale šoupli na půdu, aby o půlstoletí později dědicům udělala aukce obrazu radost. Což je i případ obrazu Kokta.
