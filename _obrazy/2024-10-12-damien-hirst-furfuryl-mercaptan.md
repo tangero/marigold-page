@@ -6,7 +6,7 @@ order:
 namalovano: 2004
 autor: Damien Hirst
 obraz: Furfuryl Mercaptan
-styl: [minimalismus, abstraktní umění]
+styl: minimalismus
 urlobrazu: /assets/obrazy/hirst-furfuryl-cely.jpeg
 ---
 
