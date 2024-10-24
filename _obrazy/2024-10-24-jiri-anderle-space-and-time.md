@@ -24,6 +24,6 @@ Anderleho grafiky se bezpečně prodávají za částky 50-100 000 Kč, jeho obr
 
 ![Jiří Anderle - Hudebníci](/assets/obrazy/jiri-anderle-hudebnici.jpg)
 
-Mnoho Anderleho obrazů a grafik má [GASK v Kutné Hoře](https://sbirky.gask.cz/sbirky-online/?fulltext=Anderle&slider-min=1501&slider-max=2100&pl=&raz=&jo=&datfset=&dattset=&strana=1&do=searchForm-submit#vyhledat), pokud nestihnete Galerii Magnum, kde mají právě tento jeden obraz, stavte se tam hned po Barboře. No a v Pavlíkově u Rakovníka, kde se narodil, je na Obecním úřadě zřízena galerie jeho raných děl, tu jsem neviděl🙂
+Mnoho Anderleho obrazů a grafik má [GASK v Kutné Hoře](https://sbirky.gask.cz/sbirky-online/?fulltext=Anderle&slider-min=1501&slider-max=2100&pl=&raz=&jo=&datfset=&dattset=&strana=1&do=searchForm-submit#vyhledat), pokud nestihnete [Galerii Magnus Art](http://galeriemagnusart.cz/), kde mají právě tento jeden obraz, stavte se tam hned po Barboře. No a v Pavlíkově u Rakovníka, kde se narodil, je na Obecním úřadě zřízena galerie jeho raných děl, tu jsem neviděl🙂
 Mimochodem je to hustej týpek, dost cestoval. Do komentářů ještě hodím link na [rozhovor s ním Na Plovárně](https://www.ceskatelevize.cz/porady/1093836883-na-plovarne/207522160100004/). A [tady má web](https://www.jirianderle.org). 
 
