@@ -7,10 +7,9 @@ order:
 namalovano: 1987
 autor: Michael Rittstein
 obraz: Česání hub
-styl: expresivní malba
+styl: expresivní
 urlobrazu: /assets/obrazy/michael-rittstein-cesani-hub.jpeg
 ---
-
 
 Michael Rittstein - Česání hub (1987) je dílo "žijícího klasika", Rittstein letos oslavil pětasedmdesátiny ve skvělé formě
 
