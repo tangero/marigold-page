@@ -23,13 +23,18 @@ Jde o mobilní aplikace. Nainstalujete si je do svého mobilu a na začátku sch
 | [Wave AI](https://wave.ai) | 30 minut měsíčně | 10$ za 5h, 20$ bez limitů | iOS, Android verze, chystají webovou službu  |
 | [Summie](https://www.summie.ai) | do 15 minut zdarma max 69 minut měsíčně | kreditní systém 69 minut za 2 €,  5 hodin za 7 € a 10 hodin za 10 € | iOS |
 | [Lugh](https://www.lughai.co)) | na žádost autorovi | měsíční poplatek 400 Kč s limitem délky schůzky 2700 minut či 700 Kč bez limitu délky | iOS |
-| [MinutAI](https://www.minut.ai) | vše zdarma | zatím nestanoven |
+| [MinutAI](https://www.minut.ai) | vše zdarma | zatím nestanoven | iOS, Android |
+| [Notta](https://www.notta.ai) | do 3 minut, prakticky nepoužitelné | 110 $ ročně za 1500 minut měsíčně, 200 $ ročně bez limitu  | iOS, Android |
 
 ### Jak je to s kvalitou rozpoznávání?
 
 Aplikace zjevně využívají jeden STT kromě Lugh. Jeho schopnost přepsat češtinu mi přišla nejhorší, záhy jsem ho přestal používat. Schopnost rozpoznat český hovor u ostatních aplikací mi přišla velmi podobná s tím, že nejlepší bylo subjektivně se zvukem pracuje filtrováním nejlépe Summie, pak MinutAI a mírně slabší Wave AI. Do jisté míry bylo zajímavé, jak se AI vyrovnala s překřikováním a situací, kdy lidi mluvili najednou. V zásadě vždy to AI nějak přepsala, ale v analýze potlačila, zřejmě pod dojmem toho, že taková pasáž nebyla důležitá a sloužila jen k ujasnění východisek, které byly později znovu řečeny ve větším klidu.
 
 Bylo pro mě překvapující, že když jsem se u aplikace podíval do kompletního přepisu, ten mi nebyl příliš k užitku a prakticky nikdy jsem ho nepoužíval.
+
+### Novinka: Notta
+
+Velmi slibnou aplikací je [Notta](https://www.notta.ai). Notta konkuruje spíše Otteru, ale umí pracovat s češtinou - [Otter](https://www.otter.ai) umí jen anglicky, francouzsky a španělsky. Má webové rozhraní, je zaměřená na automatický online přepis hovorů, meetingů a callů i na počítači, umí rovnou překládat do jazyka. Umí dělat sumáře - zápisy ze schůzek. Umí se propojit s CRM, prostě pokud chcete hodně funkcí, tak to vypadá, že jich umí hodně nabídnout. Verze zdarma je osekaná na tříminutový záznam, zjevně je dělaná jen na vyzkoušení, ne na používání. A navíc aplikace hodně tlačí na roční předplatné, potřebují asi naraisovat peníze, aby měli trochu klidu. Osobně doporučím aplikaci prozkoumat, zda vám na vaše workflow může vyhovovat. Pokud chcete jednoduchý nástroj, který nahraje a sumarizuje schůzku a nic se neřeší, pak sáhněte po předchozích uvedených, pokud to chcete více nastavovat a ladit a nevadí vám roční předplatné, zkuste zde. Čeština jde v pohodě. 
 
 ### Dejme si dva příklady, jak aplikace vypadá po analýze zvuku: WaveAI vs. Summie
 
