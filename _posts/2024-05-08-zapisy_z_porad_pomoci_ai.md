@@ -3,7 +3,7 @@ layout: post
 title:  Zápis z porady či jednání pomocí umělé inteligence
 categories: [AI, Umělá inteligence]
 excerpt: Jednou z aplikací umělé inteligence, kterou používám prakticky rutinně, je zápis ze schůzky, porady či jednání. Pojďme se podívat na to, jak to funguje.
-thumbnail: https://www.marigold.cz/assets/waveai.webp
+thumbnail: https://www.marigold.cz/assets/robot-ai-prepis.png
 ---
 
 
@@ -36,9 +36,9 @@ Bylo pro mě překvapující, že když jsem se u aplikace podíval do kompletn�
 
 Velmi slibnou aplikací je [Notta](https://notta.cello.so/zjaeV7IKxgt). Notta konkuruje spíše Otteru, ale umí pracovat s češtinou - [Otter](https://www.otter.ai) umí jen anglicky, francouzsky a španělsky. Má webové rozhraní, je zaměřená na automatický online přepis hovorů, meetingů a callů i na počítači, umí rovnou překládat do jazyka. Umí dělat sumáře - zápisy ze schůzek. Umí se automaticky připojit na webcall (Zoom, Google Meet, Teams, Webex), když ho máte v kalendáři a dáte jí k tomu souhlas, zápis pak pošle všem/vybraným účastníkům. Umí se propojit s CRM, prostě pokud chcete hodně funkcí, tak to vypadá, že jich umí hodně nabídnout. Verze zdarma je osekaná na tříminutový záznam, zjevně je dělaná jen na vyzkoušení, ne na používání. A navíc aplikace hodně tlačí na roční předplatné, potřebují asi naraisovat peníze, aby měli trochu klidu. Osobně doporučím aplikaci prozkoumat, zda vám na vaše workflow může vyhovovat. Pokud chcete jednoduchý nástroj, který nahraje a sumarizuje schůzku a nic se neřeší, pak sáhněte po předchozích uvedených, pokud to chcete více nastavovat a ladit a nevadí vám roční předplatné, zkuste zde. Čeština jde v pohodě, je i český web. 
 
-Fireflies.ai vypadá také zajímavě a podporuje češtinu. Přihlásit se do ní můžete jen přes Google účet s Workspace (tj. firemní účty) nebo přes Microsoft přihlášení, což mě dost odrazuje. Automaticky si načte vaše kalendáře na účtu, bez toho do ní nejde se přihlásit. Pak bude vnucovat trial s vyplněním karty, to nedělejte, po sedmi dnech se účtuje 30 dolarů za měsíc. 
+[https://www.fireflies.ai](https://app.fireflies.ai/login?referralCode=81oK5wbB8C) vypadá také zajímavě a podporuje češtinu. Přihlásit se do ní můžete jen přes Google účet s Workspace (tj. firemní účty) nebo přes Microsoft přihlášení, což mě dost odrazuje. Automaticky si načte vaše kalendáře na účtu, bez toho do ní nejde se přihlásit. Pak bude vnucovat trial s vyplněním karty, to nedělejte, po sedmi dnech se účtuje 30 dolarů za měsíc. 
 
-Na obrázku je vidět pracovní prostředí v prohlížeči. Nahrál jsem do aplikace kousek mého podcastu, který je namluvený na studiový mikrofon a jak vidíte, ani rozpoznávání hlasu nefunguje tak dobře, jak by se hodilo. 
+Na obrázku je vidět pracovní prostředí v prohlížeči. Nahrál jsem do aplikace kousek mého podcastu, který je namluvený na studiový mikrofon a jak vidíte, ani rozpoznávání hlasu nefunguje tak dobře, jak by se hodilo. Tady se můžete podívat na [přepis určený ke sdílení](https://app.fireflies.ai/view/43-ukrajina-mp3::zUWO0LYkhz5E4xxf). 
 
 ![FIreflies.ai - pracovní prostředí v prohlížeči](/assets/fireflies-ai.png)
 
