@@ -7,7 +7,7 @@ thumbnail: https://www.marigold.cz/assets/waveai.webp
 ---
 
 
-Update: 7.11.2024: Jednou z aplikací umělé inteligence, kterou používám prakticky rutinně, je zápis ze schůzky, porady či jednání. Pojďme se podívat na to, jak to funguje.
+**Aktualizováno 7.11.2024** Jednou z aplikací umělé inteligence, kterou používám prakticky rutinně, je zápis ze schůzky, porady či jednání. Pojďme se podívat na to, jak to funguje.
 
 V poslední době totiž nastal boom aplikací, které službu shrnutí či zápisu umožňují a řadu z těchto aplikací lze prakticky používat i v češtině. A tím je třeba začít: nebudu zmiňovat aplikace, jako je Otter, dnešní leader trhu, ten ale podporuje jen angličtinu a s jinými jazyky u něj neuspějete.
 
@@ -37,6 +37,10 @@ Bylo pro mě překvapující, že když jsem se u aplikace podíval do kompletn�
 Velmi slibnou aplikací je [Notta](https://notta.cello.so/zjaeV7IKxgt). Notta konkuruje spíše Otteru, ale umí pracovat s češtinou - [Otter](https://www.otter.ai) umí jen anglicky, francouzsky a španělsky. Má webové rozhraní, je zaměřená na automatický online přepis hovorů, meetingů a callů i na počítači, umí rovnou překládat do jazyka. Umí dělat sumáře - zápisy ze schůzek. Umí se automaticky připojit na webcall (Zoom, Google Meet, Teams, Webex), když ho máte v kalendáři a dáte jí k tomu souhlas, zápis pak pošle všem/vybraným účastníkům. Umí se propojit s CRM, prostě pokud chcete hodně funkcí, tak to vypadá, že jich umí hodně nabídnout. Verze zdarma je osekaná na tříminutový záznam, zjevně je dělaná jen na vyzkoušení, ne na používání. A navíc aplikace hodně tlačí na roční předplatné, potřebují asi naraisovat peníze, aby měli trochu klidu. Osobně doporučím aplikaci prozkoumat, zda vám na vaše workflow může vyhovovat. Pokud chcete jednoduchý nástroj, který nahraje a sumarizuje schůzku a nic se neřeší, pak sáhněte po předchozích uvedených, pokud to chcete více nastavovat a ladit a nevadí vám roční předplatné, zkuste zde. Čeština jde v pohodě, je i český web. 
 
 Fireflies.ai vypadá také zajímavě a podporuje češtinu. Přihlásit se do ní můžete jen přes Google účet s Workspace (tj. firemní účty) nebo přes Microsoft přihlášení, což mě dost odrazuje. Automaticky si načte vaše kalendáře na účtu, bez toho do ní nejde se přihlásit. Pak bude vnucovat trial s vyplněním karty, to nedělejte, po sedmi dnech se účtuje 30 dolarů za měsíc. 
+
+Na obrázku je vidět pracovní prostředí v prohlížeči. Nahrál jsem do aplikace kousek mého podcastu, který je namluvený na studiový mikrofon a jak vidíte, ani rozpoznávání hlasu nefunguje tak dobře, jak by se hodilo. 
+
+![FIreflies.ai - pracovní prostředí v prohlížeči](/assets/fireflies-ai.png)
 
 Abych řekl pravdu, spolu s Notta jde už o složitější aplikace. Předchozí mobilní appky jsou přímočaré - prostě spustíte appku, zmáčknete tlačítko nahrávání a ono vám to nahraje meeting a udělá sumář, který si můžete ještě poštelovat a říct si, že má být víc o financích, míň o termínech atd. Notta, Otter a Fireflies už jsou náročnější appky vhodné pro časté použití, kdy se vám vyplatí nastudovat jejich funkce a vytěžovat z nich maximum. 
 
