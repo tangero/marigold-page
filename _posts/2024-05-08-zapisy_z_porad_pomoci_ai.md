@@ -24,7 +24,7 @@ Jde o mobilní aplikace. Nainstalujete si je do svého mobilu a na začátku sch
 | [Summie](https://www.summie.ai) | do 15 minut zdarma max 69 minut měsíčně | kreditní systém 69 minut za 2 €,  5 hodin za 7 € a 10 hodin za 10 € | iOS |
 | [Lugh](https://www.lughai.co)) | na žádost autorovi | měsíční poplatek 400 Kč s limitem délky schůzky 2700 minut či 700 Kč bez limitu délky | iOS |
 | [MinutAI](https://www.minut.ai) | vše zdarma | zatím nestanoven | iOS, Android |
-| [Notta](https://www.notta.ai) | do 3 minut, prakticky nepoužitelné | 110 $ ročně za 1500 minut měsíčně, 200 $ ročně bez limitu  | iOS, Android |
+| [Notta](https://notta.cello.so/zjaeV7IKxgt) | do 3 minut, prakticky nepoužitelné | 110 $ ročně za 1500 minut měsíčně, 200 $ ročně bez limitu  | iOS, Android |
 
 ### Jak je to s kvalitou rozpoznávání?
 
@@ -32,9 +32,13 @@ Aplikace zjevně využívají jeden STT kromě Lugh. Jeho schopnost přepsat če
 
 Bylo pro mě překvapující, že když jsem se u aplikace podíval do kompletního přepisu, ten mi nebyl příliš k užitku a prakticky nikdy jsem ho nepoužíval.
 
-### Novinka: Notta
+### Novinka: komplexnější aplikace i pro web cally jako Notta a Fireflies.ai
 
-Velmi slibnou aplikací je [Notta](https://www.notta.ai). Notta konkuruje spíše Otteru, ale umí pracovat s češtinou - [Otter](https://www.otter.ai) umí jen anglicky, francouzsky a španělsky. Má webové rozhraní, je zaměřená na automatický online přepis hovorů, meetingů a callů i na počítači, umí rovnou překládat do jazyka. Umí dělat sumáře - zápisy ze schůzek. Umí se propojit s CRM, prostě pokud chcete hodně funkcí, tak to vypadá, že jich umí hodně nabídnout. Verze zdarma je osekaná na tříminutový záznam, zjevně je dělaná jen na vyzkoušení, ne na používání. A navíc aplikace hodně tlačí na roční předplatné, potřebují asi naraisovat peníze, aby měli trochu klidu. Osobně doporučím aplikaci prozkoumat, zda vám na vaše workflow může vyhovovat. Pokud chcete jednoduchý nástroj, který nahraje a sumarizuje schůzku a nic se neřeší, pak sáhněte po předchozích uvedených, pokud to chcete více nastavovat a ladit a nevadí vám roční předplatné, zkuste zde. Čeština jde v pohodě. 
+Velmi slibnou aplikací je [Notta](https://notta.cello.so/zjaeV7IKxgt). Notta konkuruje spíše Otteru, ale umí pracovat s češtinou - [Otter](https://www.otter.ai) umí jen anglicky, francouzsky a španělsky. Má webové rozhraní, je zaměřená na automatický online přepis hovorů, meetingů a callů i na počítači, umí rovnou překládat do jazyka. Umí dělat sumáře - zápisy ze schůzek. Umí se automaticky připojit na webcall (Zoom, Google Meet, Teams, Webex), když ho máte v kalendáři a dáte jí k tomu souhlas, zápis pak pošle všem/vybraným účastníkům. Umí se propojit s CRM, prostě pokud chcete hodně funkcí, tak to vypadá, že jich umí hodně nabídnout. Verze zdarma je osekaná na tříminutový záznam, zjevně je dělaná jen na vyzkoušení, ne na používání. A navíc aplikace hodně tlačí na roční předplatné, potřebují asi naraisovat peníze, aby měli trochu klidu. Osobně doporučím aplikaci prozkoumat, zda vám na vaše workflow může vyhovovat. Pokud chcete jednoduchý nástroj, který nahraje a sumarizuje schůzku a nic se neřeší, pak sáhněte po předchozích uvedených, pokud to chcete více nastavovat a ladit a nevadí vám roční předplatné, zkuste zde. Čeština jde v pohodě, je i český web. 
+
+Fireflies.ai vypadá také zajímavě a podporuje češtinu. Přihlásit se do ní můžete jen přes Google účet s Workspace (tj. firemní účty) nebo přes Microsoft přihlášení, což mě dost odrazuje. Automaticky si načte vaše kalendáře na účtu, bez toho do ní nejde se přihlásit. Pak bude vnucovat trial s vyplněním karty, to nedělejte, po sedmi dnech se účtuje 30 dolarů za měsíc. 
+
+Abych řekl pravdu, spolu s Notta jde už o složitější aplikace. Předchozí mobilní appky jsou přímočaré - prostě spustíte appku, zmáčknete tlačítko nahrávání a ono vám to nahraje meeting a udělá sumář, který si můžete ještě poštelovat a říct si, že má být víc o financích, míň o termínech atd. Notta, Otter a Fireflies už jsou náročnější appky vhodné pro časté použití, kdy se vám vyplatí nastudovat jejich funkce a vytěžovat z nich maximum. 
 
 ### Dejme si dva příklady, jak aplikace vypadá po analýze zvuku: WaveAI vs. Summie
 
