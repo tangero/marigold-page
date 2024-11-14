@@ -3,7 +3,7 @@ title: "Elon Musk ministrem efektivity"
 author: Patrick Zandl
 post_excerpt: "Donald Trump zřizuje ministerstvo vládní efektivity a do jeho čela staví Elona Muska. Stíhá je za to výsměch. Jenže předchozí Muskovy efektivizační metody a kroky byly ... efektivní... "
 layout: post
-categories: [politika, Elon Musk]
+categories: [politika, Elon Musk, Twitter, X.com]
 thumbnail: https://www.ccn.com/wp-content/uploads/2024/11/elon-musk-doge-trump.webp
 ---
 
@@ -18,3 +18,5 @@ Takže rychle propouštíte lidi z oddělení a díváte se, jaký to má dopad.
 Já si teď vyndám popkorn a budu sledovat, jak tahle strategie bude fungovat ve státní správě. Někdy totiž mám dojem, že v Česku to jinak nepůjde. Postupně všechno rozpustit a začít to stavět znovu.
 
 Mimochodem, proč má to ministerstvo efektivity [stejnou zkratku DOGE jako Doge coin](https://decrypt.co/291361/elon-musk-dogecoin-timeline-explained), jehož kurz v roce 2019 Musk katapultoval nahoru a slušně na tom vydělal...? 
+
+PS: Občas mi lidé tvrdí, že tím firma ztratila 80 % své hodnoty: ani náhodou. Tu neztratila efektivizací, ale tím, že Musk pozurážel inzerenty a z elitního média udělal trollí farmu, kde nikdo inzerovat nechtěl. V klidu to twistnul do média pro vítězství Trumpa a vydělá na tom jinde a jinak.
