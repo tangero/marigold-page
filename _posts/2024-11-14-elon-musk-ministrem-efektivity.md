@@ -4,7 +4,7 @@ author: Patrick Zandl
 post_excerpt: "Donald Trump zřizuje ministerstvo vládní efektivity a do jeho čela staví Elona Muska. Stíhá je za to výsměch. Jenže předchozí Muskovy efektivizační metody a kroky byly ... efektivní... "
 layout: post
 categories: [politika, Elon Musk, Twitter, X.com]
-thumbnail: https://www.ccn.com/wp-content/uploads/2024/11/elon-musk-doge-trump.webp
+thumbnail: https://www.marigold.cz/assets/elon-musk-doge-trump.png
 ---
 
 V souvislosti s novým Trumpovým americkým [Ministerstvem vládní efektivity](https://www.bbc.com/news/articles/cpqd4vw0ejeo) se teď často zmiňuje, jak Musk koupil Twitter, všechny vyházel a pak je zase přijímal. 
