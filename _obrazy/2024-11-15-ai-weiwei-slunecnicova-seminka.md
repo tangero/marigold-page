@@ -11,17 +11,19 @@ urlobrazu:
 ---
 
 CO TO JE?
+
 1️⃣ 100 000 000 ručně malovaných porcelánových semínek \
 2️⃣ 1600 čínských řemeslníků je vytvářelo  2,5 roku \
-3️⃣ Instalace volně vysypaných semínek v Tate Modern šokovala umělecký svět 🎨 \
+3️⃣ Instalace volně vysypaných semínek v Tate Modern šokovala umělecký svět 🎨 
 
 ![Ai Weiwei - Slunečnicová Semínka (2010)](/assets/obrazy/slunecnicova-seminka.jpg)
 
 PROČ TO VZNIKLO? 🤔
+
 1️⃣ Mao byl slunce, lid slunečnice - otáčeli se za ním \
 2️⃣ Semínka = oblíbená pochoutka chudých v těžkých časech \
 3️⃣ Každé semínko je originál, v mase to nepoznáš (jako lidi v davu) 🫂 \
-4️⃣ Perfektní metafora na "Made in China", ale s twistem 🏭 \
+4️⃣ Perfektní metafora na "Made in China", ale s twistem 🏭 
 
 ![Ai Weiwei - Slunečnicová Semínka (2010)](/assets/obrazy/tate-slunecnicova-seminka.jpg)
 
