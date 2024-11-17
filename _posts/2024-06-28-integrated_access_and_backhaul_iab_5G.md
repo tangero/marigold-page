@@ -54,7 +54,7 @@ Ale také je dobré říct si na rovinu, že IAB má své stinné stránky a nev
 Zatímco IAB představuje významný pokrok v Release 16, budoucí vydání 3GPP přinesou další vylepšení:
 
 1. Inteligentní IAB (Release 17 a dále) - Očekává se integrace AI/ML algoritmů pro optimalizaci směrování, alokace zdrojů a QoS managementu v IAB sítích.
-2. Rozšířená podpora pro Non-Terrestrial Networks (NTN) Budoucí Release zřejmě rozšíří IAB koncept na satelitní a vzdušné platformy (tedy Non-Terrestrial Networks (NTN)), umožňující ještě větší flexibilitu v poskytování konektivity. Zatím s tím počítejme tak do Release 19, spíše 20. 
+2. Rozšířená podpora pro [Non-Terrestrial Networks (NTN)](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) Budoucí Release zřejmě rozšíří IAB koncept na satelitní a vzdušné platformy (tedy Non-Terrestrial Networks (NTN)), umožňující ještě větší flexibilitu v poskytování konektivity. Zatím s tím počítejme tak do Release 19, spíše 20. 
 3. Vylepšené multi-RAT integrace - Budoucí verze IAB mohou lépe integrovat různé rádiové přístupové technologie, včetně Wi-Fi a budoucích 6G systémů.
 
 ## Praktické nasazení IAB

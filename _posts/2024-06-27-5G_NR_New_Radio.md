@@ -79,7 +79,7 @@ NR (New Radio) se v následujících vydáních 3GPP po Release 15 dále vyvíj�
 
 1. NR-Light (RedCap): Podpora zařízení se sníženými schopnostmi pro IoT aplikace.
 2. NR nad 52.6 GHz: Rozšíření podpory do vyšších frekvenčních pásem.
-3. Non-Terrestrial Networks (NTN): Podpora pro satelitní a vzdušné platformy.
+3. [Non-Terrestrial Networks (NTN)](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/): Podpora pro satelitní a vzdušné platformy.
 4. Multi-SIM: Vylepšená podpora pro zařízení s více SIM kartami.
 5. Sidelink vylepšení: Rozšířené možnosti pro přímou komunikaci mezi zařízeními.
 6. Vylepšení pro průmyslový IoT a [URLLC](/mobilnisite/urllc/).

@@ -43,6 +43,7 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 ### 5G
 - 🛜[5G NR - New Radio](/item/5G_NR_New_Radio/) - nové rádiové rozhraní
 - 🗼[NG-RAN, čili rádiová přístupová síť nové generace](/item/c-ran_vran_open_ran/). Co je C-RAN, vRAN,  Open RAN
+- 📡 [NTN čili Non Terrestrial Networks](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) - připojení přes nezemské sítě
 - 🕸️[5G Core](/item/5G_Core/) - jádro sítě
 - ⚡️ [Integrated Access and Backhaul (IAB)](/item/integrated_access_and_backhaul_iab_5G/) čili Integrované přístupové a páteřní propojení
 - 🕑 [Ultra-reliable low latency communication (URLLC)](/mobilnisite/urllc/) tedy podpora Ultra spolehlivá komunikace s nízkou latencí

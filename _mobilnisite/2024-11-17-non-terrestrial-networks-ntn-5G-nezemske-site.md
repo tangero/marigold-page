@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Non-Terrestrial Networks: Komplexní pohled na integraci nezemských sítí do sítí 5G/6G"
+title: "Non-Terrestrial Networks: integrace nezemských sítí do sítí 5G/6G"
 date: 2024-11-17
 categories: [5G, Mobilní sítě]
 ---
