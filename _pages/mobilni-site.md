@@ -67,7 +67,7 @@ Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhr
 - Rok 2017: 3GPP Release 14 - eLAA, Vehicle2Everything, Digital TV broadcast 
 - **Rok 2018: 3GPP Release 15 jako 5G** - především [5G New Radio](/item/5G_NR_New_Radio/), zcela přepracovaný koncept obsahující mimo jiné škálovatelné OFDMA, masivní MIMO, beamforming, Service Based Architecture SBA, [nové 5G Core](/item/5G_Core/) či Dual Connectivity s LTE, 
 - 3GPP Release 16 - rozšířené MIMO i beamforming a Dynamic Spectrum Sharing DSS. [Integrované přístupové a páteřní propojení](/item/integrated_access_and_backhaul_iab_5G/), [vRAN](/item/c-ran_vran_open_ran/), podpora IoT a V2X
-- 3GPP Release 17 - podpora 60 GHZ nelicenovaného pásma, satelitní komunikace a sidelink relaying
+- 3GPP Release 17 - podpora 60 GHZ nelicenovaného pásma, [nezemských sítí NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) a sidelink relaying
 - **Rok 2024: [3GPP Release 18](/item/5G_advanced_3GPP_Release-18/) jako 5G Advanced**
 
 A co přinese budoucnost? 
