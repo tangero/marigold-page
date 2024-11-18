@@ -48,8 +48,8 @@ Obsah z aplikací se stává součástí vaší historie chatu a je uložen ve v
 Poznámka: U podnikových řešení, jako je ChatGPT Enterprise, není obsah použit pro vylepšení modelů. 
 
 
-Integrace ChatGPT s aplikacemi na macOS představuje zajímavý krok vpřed v oblasti produktivity a efektivity při vývoji kódu. Je rozumné si vyzkoušet, jak vaši vývojářskou produktivitu takovéto propojení zvýší - a uvidíme, zda OpenAI bude v integraci s aplikacemi pokračovat, protože Computer Use s Claude toho umí přeci jen podstatně více. 
+Integrace ChatGPT s aplikacemi na macOS představuje zajímavý krok vpřed v oblasti produktivity a efektivity při vývoji kódu. Je rozumné si vyzkoušet, jak vaši vývojářskou produktivitu takovéto propojení zvýší - a uvidíme, zda OpenAI bude v integraci s aplikacemi pokračovat, protože Computer Use s Claude toho umí přeci jen podstatně více, jenže je také zaměřený na integraci do aplikací a není tedy tak snadno použitelný pro koncového uživatele. Pro programátory a uživatele VS CODE je řešení ChatGPT velmi přímočaré... 
 
-Navíc ChatGPT tím jde mírně proti Copilotu od partnerského Microsoftu, uvidíme, co z toho všeho bude... 
+Navíc ChatGPT tím jde mírně proti Copilotu od partnerského Microsoftu. Čili uvidíme, co z toho všeho bude... 
 
 Detailní [návod od OpenAI pro ChatGPT je zde](https://help.openai.com/en/articles/10119604-work-with-apps-on-macos). 
