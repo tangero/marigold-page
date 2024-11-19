@@ -18,9 +18,9 @@ Pro využití této funkce se ujistěte, že kompatibilní aplikace běží. V c
 ![Povolení ChatGPT apps](/assets/chatgpt-app.png)
 
 
-Zahrnutý obsah
-•	Editory a IDE (Xcode, VS Code, TextEdit): ChatGPT zahrne celý obsah otevřených editorů v popředním okně až do určitého limitu. Pokud v editoru vyberete konkrétní text, ChatGPT se zaměří na tento výběr, přičemž celý obsah panelu je stále použit jako kontext.
-•	Terminály (Terminal, iTerm): ChatGPT zahrne posledních 200 řádků z otevřených panelů. Pokud vyberete text v terminálu, ChatGPT se soustředí na tento výběr a přidá okolní text až do limitu.
+Zahrnutý obsah \
+- Editory a IDE (Xcode, VS Code, TextEdit): ChatGPT zahrne celý obsah otevřených editorů v popředním okně až do určitého limitu. Pokud v editoru vyberete konkrétní text, ChatGPT se zaměří na tento výběr, přičemž celý obsah panelu je stále použit jako kontext.
+- Terminály (Terminal, iTerm): ChatGPT zahrne posledních 200 řádků z otevřených panelů. Pokud vyberete text v terminálu, ChatGPT se soustředí na tento výběr a přidá okolní text až do limitu.
 
 Kompatibilní aplikace na vašem počítači můžete spravovat v Nastavení > Práce s aplikacemi > Spravovat aplikace.
 
@@ -40,10 +40,10 @@ Pro umožnění této integrace využívá ChatGPT macOS Accessibility API k dot
 
 ## Ochrana dat a soukromí
 
-Obsah z aplikací se stává součástí vaší historie chatu a je uložen ve vašem účtu, dokud jej nesmažete. Můžete ovládat, jak jsou vaše data používána:
-•	Vylepšení modelu pro všechny: Můžete rozhodnout, zda vaše konverzace s ChatGPT mohou být použity k vylepšení modelů, přepnutím této volby v nastavení.
-•	Dočasné chaty: Pokud tuto funkci povolíte, vaše konverzace nebudou uloženy ani použity pro trénování modelů OpenAI.
-•	Další nastavení: Můžete exportovat své chaty nebo zcela smazat svůj účet.
+Obsah z aplikací se stává součástí vaší historie chatu a je uložen ve vašem účtu, dokud jej nesmažete. Můžete ovládat, jak jsou vaše data používána:\
+- Vylepšení modelu pro všechny: Můžete rozhodnout, zda vaše konverzace s ChatGPT mohou být použity k vylepšení modelů, přepnutím této volby v nastavení.
+- Dočasné chaty: Pokud tuto funkci povolíte, vaše konverzace nebudou uloženy ani použity pro trénování modelů OpenAI.
+- Další nastavení: Můžete exportovat své chaty nebo zcela smazat svůj účet.
 
 Poznámka: U podnikových řešení, jako je ChatGPT Enterprise, není obsah použit pro vylepšení modelů. 
 
