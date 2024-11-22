@@ -50,7 +50,7 @@ V každém případě nemívají obce úplně nejlepší představu, kolik je ro
 
 Tak, tímto jste si mohli udělat základní představu o tom, co obnáší narozpočtování veřejného osvětlení. Ty principy jsou vždycky stejné:
 
-1. platíte elektřinu, zamyslete se, zda nemůžete ušetřit LED nebo zhasnout
+1. platíte elektřinu, zamyslete se, zda nemůžete ušetřit LED nebo zhasnout - přechod na LED se výrazně pozná a můžete dvě-tři stovky ročně na hlavu v klidu ušetřit.
 2. hlídejte si spotřebu, zmapujte elektroměry a celou infrastrukturu. 
 3. platíte servisní smlouvu a je zbytečné vozit se po dodavateli servisu, když jste s ním spokojeni, že vám ji zvyšuje o inflaci, pokud jste spokojeni. Ta částka je malá a důležitá je pro vás kvalita servisu, na tu dbejte. Fér peníze za servis jsou důstojné pro všechny.  
 4. naopak využijte znalosti servisní firmy k tomu, abyste vytipovali infrastrukturu k výměně. Spokojená servisní firma vám ráda pomůže s přípravou, protože se znalostí místa pak nabídne i dobrou cenu za realizaci a má slušnou pravděpodobnost, že vyhraje tendr cenou i kvalitou. 
