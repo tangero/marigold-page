@@ -43,9 +43,11 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 ### 5G
 - 🛜[5G NR - New Radio](/item/5G_NR_New_Radio/) - nové rádiové rozhraní
 - 🗼[NG-RAN, čili rádiová přístupová síť nové generace](/item/c-ran_vran_open_ran/). Co je C-RAN, vRAN,  Open RAN
+- 📡 [NTN čili Non Terrestrial Networks](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) - připojení přes nezemské sítě
 - 🕸️[5G Core](/item/5G_Core/) - jádro sítě
 - ⚡️ [Integrated Access and Backhaul (IAB)](/item/integrated_access_and_backhaul_iab_5G/) čili Integrované přístupové a páteřní propojení
 - 🕑 [Ultra-reliable low latency communication (URLLC)](/mobilnisite/urllc/) tedy podpora Ultra spolehlivá komunikace s nízkou latencí
+- 🤖 [AI-RAN](/mobilnisite/AI-RAN/) - radiová přístupová síť optimalizovaná pro provoz AI aplikací
 
 ### Standardizace a vývoj nových funkcí v 3GPP
 
@@ -65,7 +67,7 @@ Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhr
 - Rok 2017: 3GPP Release 14 - eLAA, Vehicle2Everything, Digital TV broadcast 
 - **Rok 2018: 3GPP Release 15 jako 5G** - především [5G New Radio](/item/5G_NR_New_Radio/), zcela přepracovaný koncept obsahující mimo jiné škálovatelné OFDMA, masivní MIMO, beamforming, Service Based Architecture SBA, [nové 5G Core](/item/5G_Core/) či Dual Connectivity s LTE, 
 - 3GPP Release 16 - rozšířené MIMO i beamforming a Dynamic Spectrum Sharing DSS. [Integrované přístupové a páteřní propojení](/item/integrated_access_and_backhaul_iab_5G/), [vRAN](/item/c-ran_vran_open_ran/), podpora IoT a V2X
-- 3GPP Release 17 - podpora 60 GHZ nelicenovaného pásma, satelitní komunikace a sidelink relaying
+- 3GPP Release 17 - podpora 60 GHZ nelicenovaného pásma, [nezemských sítí NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) a sidelink relaying
 - **Rok 2024: [3GPP Release 18](/item/5G_advanced_3GPP_Release-18/) jako 5G Advanced**
 
 A co přinese budoucnost? 

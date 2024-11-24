@@ -5,7 +5,7 @@ post_excerpt: "Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak 
 layout: post
 categories: [AI, Umělá inteligence]
 thumbnail: https://www.marigold.cz/assets/ai-noviny.jpg
-
+featured: true
 ---
 
 Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 

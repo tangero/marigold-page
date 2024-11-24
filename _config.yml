@@ -65,7 +65,10 @@ collections:
     permalink: /ai/:title/
   mobilnisite:
     output: true
-    permalink: /mobilnisite/:title/    
+    permalink: /mobilnisite/:title/
+  obrazy:
+    output: true
+    permalink: /obrazy/:title/      
 
 #
 # !! You don't need to change any of the configuration flags below !!

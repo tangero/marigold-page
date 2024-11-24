@@ -17,6 +17,8 @@ layout: default
   </div>
   {% endif %}
 
+  {% if page.collection != 'obrazy' %}
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
   <div>
     <p class="author_title">{{site.author}}  ·
 {% assign m = page.date | date: "%-m" %}
@@ -36,12 +38,6 @@ layout: default
   {% when '12' %}prosinec
 {% endcase %}
 {{ page.date | date: "%Y" }} 
-
-       {% if page.path %}
-      <a href="{{ site.github_repo }}/blob/main/{{ page.path }}" target="_blank">
-        Opravit 📃
-      </a>
-  {% endif %}
     
     </p>
 
@@ -68,45 +64,62 @@ layout: default
   <div class="thumbnail-strip">
     <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ page.title }}">
   </div>
+  {% endif %}
 {% endif %}
 
   <div class="entry">
-
     {{ content }}
-
-
-
   </div>
 
-<div class="commentbox"></div>
-<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
-<script>commentBox('5677112761516032-proj')</script>
-
-
-  {% if page.collection == 'ai' and page.layout == 'post' %}
   <div class="ai-rubric-link">
-    <blockquote> 
-    ⚡️ <a href="/ai/">Pokračujte do rubriky AI</a>
-    </blockquote>
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    {% if page.url contains '/obrazy/' %}
+    <div class="related-posts">
+      <h3>Další zajímavé obrazy</h3>
+      <table style="border-collapse: separate; border-spacing: 15px; text-align: center;">
+        <thead>
+          <tr>
+            <th>Autor</th>
+            <th>Obraz</th>
+            <th>Obrázek</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% assign shuffled_posts = site.obrazy | sample: 3 %}
+          {% if shuffled_posts.size > 0 %}
+            {% for post in shuffled_posts %}
+              <tr>
+                <td>{{ post.autor | default: "Neznámý autor" }}</td>
+                <td><a href="{{ post.url }}">{{ post.obraz | default: "Bez názvu" }}</a></td>
+                <td>
+                  {% if post.urlobrazu %}
+                    <a href="{{ post.url }}"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz{{ post.urlobrazu }}" alt="{{ post.title }}" style="width:100px; vertical-align: middle;"></a>
+                  {% else %}
+                    <span>Obrázek není k dispozici</span>
+                  {% endif %}
+                </td>
+              </tr>
+            {% endfor %}
+          {% else %}
+            <tr>
+              <td colspan="3">Žádné podobné obrazy nebyly nalezeny.</td>
+            </tr>
+          {% endif %}          
+        </tbody>
+      </table>
+    </div>
+    {% endif %}
   </div>
-{% endif %}
 
-  {% if page.categories contains "Mobilní sítě" or page.categories contains "3G" or page.categories contains "4G" or page.categories contains "5G" or page.categories contains "5G Advanced" %}
-  <div class="posts">
-    <blockquote>
-      <p>🗼 Pokračujte dále na <a href="/mobilnisite/">Seriál Mobilní sítě</a></p>
-    </blockquote>
-  </div>
-  {% elsif page.categories contains "AI" %}
-  <div class="posts">
-    <blockquote>
-      <p>💡 Firemní <a href="https://www.aivefirmach.cz/">workshopy o umělé inteligenci</a> - pojďme se zamyslet nad tím, jak se vaší firmy dotkne AI a jak se na to připravit!</p>
-    </blockquote>
-  </div>
+  {% if page.url contains '/obrazy/' %}
+  {% else %}
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
   {% endif %}
 
-<!-- Tady začíná odkazování na featured články -->
-
+  <!-- Tady začíná odkazování na featured články -->
   {% assign featured_posts = site.posts | where: "featured", true | where_exp: "post", "post.url != page.url" %}
   {% if featured_posts.size > 0 %}
     {% assign shuffled_posts = featured_posts | sort: 'date' | sample: featured_posts.size %}
@@ -133,17 +146,20 @@ layout: default
     </div>
   {% endif %}  
 
-
-  
   <div class="posts">
     <h3>Chcete tyto články emailem?</h3>
     <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
   </div>
 
-
   <div>
-    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a>, 
 
+    {% if page.path %}
+      <a href="{{ site.github_repo }}/blob/main/{{ page.path }}" target="_blank">
+        Opravit 📃
+      </a>
+    {% endif %}
+</p>
     <p>
     <div class="PageNavigation">
       {% if page.previous.url %}
@@ -155,11 +171,5 @@ layout: default
       {% endif %}
     </div>
     </p>
-
   </div>
-
-  <!--<div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>-->
-
 </article>
