@@ -29,6 +29,10 @@ Tato technika je obzvláště účinná v situacích, kdy síť musí obsloužit
 2.	Podpora masivní konektivity: Ideální pro IoT aplikace, kde je potřeba připojit velké množství zařízení s nízkými nároky na přenosovou rychlost.
 3.	Flexibilita: NOMA umožňuje efektivněji využít rozdíly v kanálových podmínkách mezi uživateli.
 
+Na tomto nákresu je dobře vidět, jak se NOMA liší od jiných multiplexovacích technologií včetně OFDMA:
+
+![NOMA versus ostatní multiplexovací technologie](/assets/porovnani-noma.png)
+
 ### Uplatnění a vývoj NOMA
 
 Technologie NOMA byla intenzivně zkoumána v rámci výzkumných projektů pro 5G a je považována za klíčovou složku pro 6G sítě. Společnosti jako Huawei a ZTE aktivně podporují její zahrnutí do standardů 3GPP. Huawei představil variantu Power-Domain NOMA, která využívá rozdíly ve výkonu signálů, zatímco další varianty, jako Code-Domain NOMA, zkoumají využití specifických kódovacích schémat.
