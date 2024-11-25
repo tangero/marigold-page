@@ -8,6 +8,8 @@ layout: post
 oldlink: >
   https://www.marigold.cz/item/jak-jsme-proskolili-bananarskou-hvezdu
 published: true
+featured: true
+thumbnail: https://i.ytimg.com/vi/jjlOkOemN5k/maxresdefault.jpg
 post_date: 2016-02-18 10:17:03
 ---
 Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
