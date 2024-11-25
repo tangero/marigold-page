@@ -7,6 +7,7 @@ layout: post
 oldlink: >
   https://www.marigold.cz/item/cesko-je-ekonomika-prostoju
 published: true
+featured: true
 post_date: 2016-09-02 08:17:53
 ---
 Z letních zpráv mě zaujala jedna. <a href="http://www.byznysnoviny.cz/2016/08/01/v-cesku-je-pouze-polovicni-produktivita-prace-nez-v-nemecku-nejvyssi-je-v-usa/">Produktivita práce v Česku je poloviční oproti Německu</a>. Našel jsem hromadu vysvětlení od méně odborných jako “český líný kurvy” až po maximálně ekonomická (medián přidané hodnoty se v Německu realizuje nad bazálním českým produktem) atd. Moje trocha do mlýna? Česko je ekonomikou prostojů. Nad tím prorůstovou a produktivní ekonomiku nevybudujeme nijak snadno. 
