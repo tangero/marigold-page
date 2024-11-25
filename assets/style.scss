@@ -230,7 +230,7 @@ p > img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 23px;
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -440,8 +440,6 @@ body:after {
   clear: both;
 }
 
-/* Další styly zůstávají beze změny */
-
 .featured-posts {
   margin-top: 30px;
   border-top: 1px solid #eee;
@@ -485,8 +483,91 @@ body:after {
   margin: 20px 0;
 }
 
+// Moderní stylování tabulek
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+// Stylování záhlaví
+thead tr {
+  background-color: #f8f9fa;
+  color: #2c3e50;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid #e9ecef;
+}
+
+th {
+  padding: 14px 15px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-size: 0.85em;
+  border-bottom: 2px solid #e9ecef;
+}
+
+// Stylování buněk
+td {
+  padding: 12px 15px;
+  border-bottom: 1px solid #e9ecef;
+}
+
+// Zebra striping pro lepší čitelnost
+tbody tr:nth-of-type(even) {
+  background-color: #f8f9fa;
+}
+
+tbody tr:last-of-type {
+  border-bottom: none;
+}
+
+// Hover efekt
+tbody tr:hover {
+  background-color: #f5f6f7;
+  transition: background-color 0.2s ease;
+}
+
+// Responzivní design pro malé obrazovky
+@media screen and (max-width: 600px) {
+  table {
+    border-radius: 0;
+    box-shadow: none;
+  }
+  
+  thead {
+    display: none;
+  }
+  
+  tr {
+    display: block;
+    margin-bottom: 15px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  td {
+    display: block;
+    text-align: right;
+    padding: 10px 15px;
+    position: relative;
+  }
+  
+  td::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.85em;
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-//@import "highlights";
 @import "darcula";
 @import "svg-icons";
