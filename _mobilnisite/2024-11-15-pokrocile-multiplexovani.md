@@ -11,10 +11,11 @@ Orthogonal Frequency Division Multiple Access (OFDMA) se stal základem pro tech
 
 Mezi nejvýznamnější technologie, které se zvažují jako doplňky nebo náhrady OFDMA, patří Non-Orthogonal Multiple Access (NOMA), Rate-Splitting Multiple Access (RSMA) a Sparse Code Multiple Access (SCMA). Na následujících odkazech si je probereme podrobněji:
 
-- Non-Orthogonal Multiple Access (NOMA)
-- Rate-Splitting Multiple Access (RSMA)
-- Sparse Code Multiple Access (SCMA)
+- [/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/](Non-Orthogonal Multiple Access (NOMA))
+- [/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/](Rate-Splitting Multiple Access (RSMA))
+- [/mobilnisite/Sparse-Code-Multiple-Access-SCMA/](Sparse Code Multiple Access (SCMA))
 - další experimentální přístupy na konci tohoto článku
+- a pro pořádek povídání o tom, [jak funguje OFDMA](/mobilnisite/ofdma)
 
 
 
