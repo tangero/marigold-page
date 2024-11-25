@@ -49,3 +49,5 @@ Tato technologie představuje významný krok vpřed v oblasti vícenásobného 
 SCMA bylo poprvé navrženo ve výzkumu pro 5G, ale jeho plný potenciál by mohl být využit až v 6G sítích. Technologie je podporována společnostmi jako NTT DOCOMO, které zkoumají její aplikaci ve scénářích zahrnujících IoT a komunikaci mezi vozidly. SCMA se také jeví jako vhodná technologie pro spektrální sdílení mezi více operátory.
 
 [Uplatnění Sparse Code Multiple Access (SCMA)](/assets/SCMA-Application-Scenarios.png)
+
+
