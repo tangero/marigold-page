@@ -55,5 +55,5 @@ SCMA bylo poprvé navrženo ve výzkumu pro 5G, ale jeho plný potenciál by moh
 - [Non-Orthogonal Multiple Access (NOMA)](/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/)
 - [Rate-Splitting Multiple Access (RSMA)](/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/)
 - [Sparse Code Multiple Access (SCMA)](/mobilnisite/Sparse-Code-Multiple-Access-SCMA/)
-- další experimentální přístupy na konci tohoto článku
+- další [experimentální přístupy k multiplexování](/mobilnisite/pokrocile-multiplexovani/)
 - a pro pořádek povídání o tom, [jak funguje OFDMA](/mobilnisite/ofdma)

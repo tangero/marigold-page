@@ -41,5 +41,5 @@ Technologie NOMA byla intenzivně zkoumána v rámci výzkumných projektů pro 
 - [Non-Orthogonal Multiple Access (NOMA)](/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/)
 - [Rate-Splitting Multiple Access (RSMA)](/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/)
 - [Sparse Code Multiple Access (SCMA)](/mobilnisite/Sparse-Code-Multiple-Access-SCMA/)
-- další experimentální přístupy na konci tohoto článku
+- další [experimentální přístupy k multiplexování](/mobilnisite/pokrocile-multiplexovani/)
 - a pro pořádek povídání o tom, [jak funguje OFDMA](/mobilnisite/ofdma)

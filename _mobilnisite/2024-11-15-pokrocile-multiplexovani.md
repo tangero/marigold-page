@@ -61,3 +61,10 @@ Existují ale i další přístupy, které zatím existují jen v konceptech, kd
 Tyto techniky jsou zatím ve fázi výzkumu a vývoje. Očekává se, že budoucí sítě 6G budou pravděpodobně využívat kombinaci několika těchto přístupů v závislosti na konkrétních požadavcích aplikací a podmínkách prostředí.
 
 Klíčovou otázkou zůstává standardizace těchto technologií v rámci 3GPP. Zatímco společnosti jako Huawei, Ericsson nebo Qualcomm hrají v tomto procesu hlavní roli, bude důležité, aby se zapojili i další hráči a akademické instituce. Sítě 6G nebudou pouze o rychlejších datech, ale také o efektivnějším a udržitelnějším využití spektra – což je cíl, k němuž tyto technologie směřují.
+
+**👉 Přehled nových přístupů k multiplexování:** \
+- [Non-Orthogonal Multiple Access (NOMA)](/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/)
+- [Rate-Splitting Multiple Access (RSMA)](/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/)
+- [Sparse Code Multiple Access (SCMA)](/mobilnisite/Sparse-Code-Multiple-Access-SCMA/)
+- další [experimentální přístupy k multiplexování](/mobilnisite/pokrocile-multiplexovani/)
+- a pro pořádek povídání o tom, [jak funguje OFDMA](/mobilnisite/ofdma)
