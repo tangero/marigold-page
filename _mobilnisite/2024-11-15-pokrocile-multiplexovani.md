@@ -14,8 +14,8 @@ Zde si podrobněji probereme nejvýznamnější technologie, které se zvažují
 - [Non-Orthogonal Multiple Access (NOMA)](/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/)
 - [Rate-Splitting Multiple Access (RSMA)](/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/)
 - [Sparse Code Multiple Access (SCMA)](/mobilnisite/Sparse-Code-Multiple-Access-SCMA/)
-- další experimentální přístupy na konci tohoto článku
 - a pro pořádek povídání o tom, [jak funguje OFDMA](/mobilnisite/ofdma)
+- další experimentální přístupy na konci tohoto článku
 
 
 
@@ -24,9 +24,9 @@ Zde si podrobněji probereme nejvýznamnější technologie, které se zvažují
 ## Porovnání technologií: Jak si vedou proti OFDMA?
 
 | Technologie |	Hlavní výhody |	Případné nevýhody |	Podporující společnosti |
-| NOMA |	Vyšší spektrální efektivita, podpora IoT |	Vyšší složitost SIC	Huawei, ZTE |
-| RSMA |	Robustnost vůči interferenci, univerzálnost	| Náročné řízení přenosu |	Ericsson, Qualcomm |
-| SCMA |	Energetická efektivita, podpora IoT |	Vyšší složitost kódování |	NTT DOCOMO |
+| [NOMA](/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/) |	Vyšší spektrální efektivita, podpora IoT |	Vyšší složitost |	Huawei, ZTE |
+| [RSMA](/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/) |	Robustnost vůči interferenci, univerzálnost	| Náročné řízení přenosu |	Ericsson, Qualcomm |
+| [SCMA](/mobilnisite/Sparse-Code-Multiple-Access-SCMA/) |	Energetická efektivita, podpora IoT |	Vyšší složitost kódování |	NTT DOCOMO |
 
 ## Budoucnost a výhled pro 6G
 

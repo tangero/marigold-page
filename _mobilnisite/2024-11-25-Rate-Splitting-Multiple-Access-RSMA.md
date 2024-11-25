@@ -19,7 +19,9 @@ Na přijímací straně uživatelé nejprve dekódují společnou část zprávy
 
 Proces rozdělení zprávy začíná analýzou kanálových podmínek mezi vysílačem a všemi přijímači. Vysílač bere v úvahu kvalitu kanálu každého uživatele (SNR - Signal-to-Noise Ratio), vzájemnou interferenci mezi uživateli a také míru neurčitosti v odhadu kanálu (Channel State Information - CSI). Čím větší je nejistota v CSI, tím větší část dat je typicky přidělena do společné části, protože ta je robustnější vůči chybám v odhadu kanálu.
 
-Pro matematickou optimalizaci rozdělení se používá maximalizace vážené sumy dosažitelných přenosových rychlostí (weighted sum-rate) s ohledem na omezení celkového vysílacího výkonu. Tato optimalizace zahrnuje několik proměnných:
+Pro matematickou optimalizaci rozdělení se používá maximalizace vážené sumy dosažitelných přenosových rychlostí (weighted sum-rate) s ohledem na omezení celkového vysílacího výkonu. 
+
+Tato optimalizace zahrnuje několik proměnných:
 - poměr rozdělení dat mezi společnou a soukromou část pro každého uživatele
 - alokace vysílacího výkonu pro společnou a soukromé části
 - návrh předkódovacích vektorů pro obě části
@@ -41,3 +43,10 @@ Implementace RSMA však vyžaduje sofistikovanější zpracování signálu na v
 ### Uplatnění a vývoj RSMA
 
 RSMA je propagována jako technologie, která by mohla překlenout nedostatky NOMA v případech, kdy je potřeba větší řízení přenosu. Ericsson a Qualcomm jsou mezi společnostmi, které se podílejí na výzkumu a standardizaci RSMA v rámci 3GPP. Technologie již byla otestována v akademických i průmyslových scénářích a ukazuje slibné výsledky v oblastech, jako je sdílení spektra mezi mobilními a satelitními sítěmi.
+
+**👉 Přehled nových přístupů k multiplexování:** \
+- [Non-Orthogonal Multiple Access (NOMA)](/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/)
+- [Rate-Splitting Multiple Access (RSMA)](/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/)
+- [Sparse Code Multiple Access (SCMA)](/mobilnisite/Sparse-Code-Multiple-Access-SCMA/)
+- další experimentální přístupy na konci tohoto článku
+- a pro pořádek povídání o tom, [jak funguje OFDMA](/mobilnisite/ofdma)

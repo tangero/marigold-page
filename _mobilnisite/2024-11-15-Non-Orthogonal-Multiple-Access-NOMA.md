@@ -36,3 +36,10 @@ Na tomto nákresu je dobře vidět, jak se NOMA liší od jiných multiplexovac�
 ### Uplatnění a vývoj NOMA
 
 Technologie NOMA byla intenzivně zkoumána v rámci výzkumných projektů pro 5G a je považována za klíčovou složku pro 6G sítě. Společnosti jako Huawei a ZTE aktivně podporují její zahrnutí do standardů 3GPP. Huawei představil variantu Power-Domain NOMA, která využívá rozdíly ve výkonu signálů, zatímco další varianty, jako Code-Domain NOMA, zkoumají využití specifických kódovacích schémat.
+
+**👉 Přehled nových přístupů k multiplexování:** \
+- [Non-Orthogonal Multiple Access (NOMA)](/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/)
+- [Rate-Splitting Multiple Access (RSMA)](/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/)
+- [Sparse Code Multiple Access (SCMA)](/mobilnisite/Sparse-Code-Multiple-Access-SCMA/)
+- další experimentální přístupy na konci tohoto článku
+- a pro pořádek povídání o tom, [jak funguje OFDMA](/mobilnisite/ofdma)
