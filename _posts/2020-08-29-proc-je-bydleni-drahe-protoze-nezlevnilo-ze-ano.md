@@ -3,6 +3,7 @@ layout: post
 title:  Proč je bydlení drahé? Protože nezlevnilo, že ano…
 categories: [Politika, Bydlení]
 excerpt: Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme si věci zasadit do mírného kontextu. Článek je fakultativní a nebudete z něj mít žádný přímý užitek.
+featured: true
 ---
 
 
