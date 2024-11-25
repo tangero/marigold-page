@@ -8,6 +8,7 @@ author: Patrick Zandl
 post_excerpt: ""
 layout: post
 published: true
+featured: true
 post_date: 2017-02-09 14:54:27
 ---
 Můj <a href="https://www.marigold.cz/item/vase-deti-a-nase-skolstvi-oboji-bez-budoucnosti">minulý příspěvek</a> o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fascinuje česká schopnost okamžitě začít budovat paralelní struktury a vypořádat se s problémem mimo hlavní dějovou linku. Dědictví komunismu? Spíš nejenom toho.<!--more-->
