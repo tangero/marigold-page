@@ -53,8 +53,8 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 
 Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhrnných vydání specifikací mobilních sítí celosvětového standardu UMTS, později pojmenovaného a derivovaného na 3G, 4G, 5G a nově i 6G. Přelomové Release jsou vyznačené tučně. Začneme ale obecnějšími tématy:
 
-📻 Jak je to s [novými frekvencemi pro 5G a 6G sítě](/item/nova-frekvenci-pasma-5g-6g/)?
-⏱️ Budoucnost frekvenčního multiplexu: [Alternativy k OFDMA jako NOMA, RSMA a SCMA](/mobilnisite/pokrocile-multiplexovani/). 
+- 📻 Jak je to s [novými frekvencemi pro 5G a 6G sítě](/item/nova-frekvenci-pasma-5g-6g/)? 
+- ⏱️ Budoucnost frekvenčního multiplexu: [Alternativy k OFDMA jako NOMA, RSMA a SCMA](/mobilnisite/pokrocile-multiplexovani/). 
 
 
 - **Rok 1999: Release 99 jako 3G** - paketová a spínaná data PS/CS, MMS, lokalizační služby
