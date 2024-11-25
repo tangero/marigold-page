@@ -5,6 +5,7 @@ author: Patrick Zandl
 post_excerpt: ""
 layout: post
 published: true
+featured: true
 post_date: 2017-12-04 16:13:23
 ---
 Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v neděli večer připravovat agendu na příští týden. Navrhne vám, s kým jít na oběd, komu poslat přání k narozeninám či k nové práci. Vy to můžete upravit, jenže fakt je, že s Bárou je fajn, už jste ji dlouho neviděli, oběd s ní je dobrý nápad. A s Lukášem jste v hospodě taky dlouho nebyli. A neprošvihli jste narozeniny mámy. I dárek vám to navrhlo.
