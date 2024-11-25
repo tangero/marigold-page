@@ -9,11 +9,11 @@ Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G
 
 Orthogonal Frequency Division Multiple Access (OFDMA) se stal základem pro technologie 4G LTE a 5G NR díky své schopnosti efektivně rozdělit dostupné frekvenční spektrum mezi uživatele. Přestože OFDMA nabízí vysokou spektrální efektivitu a robustnost vůči interferenci, vývoj směrem k sítím 6G s sebou přináší potřebu alternativ, které by mohly zlepšit využití spektra, podporovat masivní konektivitu a umožnit přenosy dat s nízkou latencí. 
 
-Mezi nejvýznamnější technologie, které se zvažují jako doplňky nebo náhrady OFDMA, patří Non-Orthogonal Multiple Access (NOMA), Rate-Splitting Multiple Access (RSMA) a Sparse Code Multiple Access (SCMA). Na následujících odkazech si je probereme podrobněji:
+Zde si podrobněji probereme nejvýznamnější technologie, které se zvažují jako doplňky nebo náhrady OFDMA:
 
-- [/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/](Non-Orthogonal Multiple Access (NOMA))
-- [/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/](Rate-Splitting Multiple Access (RSMA))
-- [/mobilnisite/Sparse-Code-Multiple-Access-SCMA/](Sparse Code Multiple Access (SCMA))
+- [Non-Orthogonal Multiple Access (NOMA)](/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/)
+- [Rate-Splitting Multiple Access (RSMA)](/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/)
+- [Sparse Code Multiple Access (SCMA)](/mobilnisite/Sparse-Code-Multiple-Access-SCMA/)
 - další experimentální přístupy na konci tohoto článku
 - a pro pořádek povídání o tom, [jak funguje OFDMA](/mobilnisite/ofdma)
 
@@ -30,11 +30,11 @@ Mezi nejvýznamnější technologie, které se zvažují jako doplňky nebo náh
 
 ## Budoucnost a výhled pro 6G
 
-Sítě 6G přinesou zcela nové výzvy v oblasti řízení spektra, včetně podpory extrémně vysokých přenosových rychlostí, masivní konektivity a ultra-nízké latence. Technologie jako NOMA, RSMA a SCMA nabízejí slibné alternativy nebo doplňky k OFDMA, avšak každá z nich má své specifické výhody a omezení. V budoucnosti se pravděpodobně dočkáme kombinace těchto technologií, která zajistí optimální využití spektra pro různé aplikace.
+Výše vyjmenovanými technologiemi multiplexování ale nejsme u konce. Sítě 6G přinesou zcela nové výzvy v oblasti řízení spektra, včetně podpory extrémně vysokých přenosových rychlostí, masivní konektivity a ultra-nízké latence. Technologie jako NOMA, RSMA a SCMA nabízejí slibné alternativy nebo doplňky k OFDMA, avšak každá z nich má své specifické výhody a omezení. V budoucnosti se pravděpodobně dočkáme kombinace těchto technologií, která zajistí optimální využití spektra pro různé aplikace.
 
 Existují ale i další přístupy, které zatím existují jen v konceptech, kdy se zkoumá několik nových přístupů k multiplexování. Zde jsou hlavní směry výzkumu, které si zmiňujeme pro úplnost:
 
-** Spatial Scattering Modulation (SSM)**:
+**Spatial Scattering Modulation (SSM)**:
 - Využívá prostorové rozptylové charakteristiky kanálu
 - Umožňuje přenos dodatečných informací pomocí výběru vzorců rozptylu
 - Vhodné zejména pro systémy s masivním MIMO
