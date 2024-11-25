@@ -7,6 +7,7 @@ layout: post
 oldlink: >
   https://www.marigold.cz/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm
 published: true
+featured: true
 post_date: 2016-08-31 09:53:08
 ---
 Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro <a href="https://www.nehnuti.cz">Hnutí NE</a> píše o reformě vzdělávacího systému v Česku, přišla mi jedna kapitolka z knihy jako dobrá ukázka toho, PROČ je reforma vzdělání u nás tak důležitá. Abychom si vědomili, že nejde jen o to, že nějaký báby ve školách budou důstojněji žít a občas tam půjde dělat i chlap, ale abychom si uvědomili, že kvalitně fungující vzdělávání rozhoduje o tom, jak budeme žít o deset a více let později my. A že kvalitní školství není věc "politického programu", kterým se mlátí strany po hlavě, ale životní nutnost, která vyžaduje kontinuitu a shodu "napříč politickým spektrem". 
