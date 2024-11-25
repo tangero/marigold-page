@@ -4,9 +4,10 @@ title: >
   Kde se vzaly dva miliony voličů
   Miloše Zemana
 author: Patrick Zandl
-post_excerpt: ""
+post_excerpt: "Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to ta méně vzdělaná část národa, zkrachovalci, ti hloupí. Vesničani. Rozhodli se kvůli svojí hlouposti. Ne. Ukážu vám na jednom konkrétním příkladu ze stovek existujících problémů, že šlo o velmi racionální volbu lidí, kteří se dostali mimo systém a volí nesystémové lidi."
 layout: post
 published: true
+featured: true
 post_date: 2018-01-14 22:25:38
 ---
 Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to ta méně vzdělaná část národa, zkrachovalci, ti hloupí. Vesničani. Rozhodli se kvůli svojí hlouposti.
