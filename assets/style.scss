@@ -230,7 +230,7 @@ p > img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 23px;
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -440,8 +440,6 @@ body:after {
   clear: both;
 }
 
-/* Další styly zůstávají beze změny */
-
 .featured-posts {
   margin-top: 30px;
   border-top: 1px solid #eee;
@@ -485,9 +483,6 @@ body:after {
   margin: 20px 0;
 }
 
-Přidám do tohoto souboru moderní stylování tabulek, které bude ladit s existujícím designem. Vložte následující CSS kód někam před řádek s `@import "highlights";`:
-
-```scss
 // Moderní stylování tabulek
 table {
   width: 100%;
@@ -572,9 +567,7 @@ tbody tr:hover {
   }
 }
 
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-//@import "highlights";
 @import "darcula";
 @import "svg-icons";
