@@ -3,6 +3,7 @@ title: Jak to bylo s pomazánkovým máslem?
 author: Patrick Zandl
 post_excerpt: "Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich otců a Evropská unie ji zakázala. Bez respektu k nám, bez respektu k našim otcům, tradicím, bez jediné otázky na nás. Cožpak z takové instituce může někdy vzejít něco dobrého? "
 layout: post
+featured: true
 categories: [EU, Česko]
 thumbnail: https://www.marigold.cz/assets/pomazankove-maslo.png
 ---
