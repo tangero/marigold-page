@@ -2,8 +2,9 @@
 ID: 3184
 title: 'Státní postnárodnostní celky v&nbsp;době digitální etnicity'
 author: Patrick Zandl
-post_excerpt: ""
+post_excerpt: "Datektivové jsou ti, kdo hledají pravdu v datech, o níž jiní doufají, že bude na věky skryta a překryta obrovským množstvím dat... Povídka k zamyšlení. "
 layout: post
+featured: true
 oldlink: >
   https://www.marigold.cz/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity
 published: true

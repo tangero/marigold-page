@@ -2,10 +2,11 @@
 ID: 3948
 title: 'Rozdělená společnost: příkopy, které si hloubíme sami'
 author: Patrick Zandl
-post_excerpt: ""
+post_excerpt: "Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujalo tohle: všichni se mne neustále ptají, zda mohu vyjmenovat ty, kdo za tím stojí a ukázat na jejich ruské financování. A to je ten háček."
 layout: post
 published: true
 post_date: 2018-05-19 07:10:05
+featured: true
 ---
 Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujalo tohle: všichni se mne neustále ptají, zda mohu vyjmenovat ty, kdo za tím stojí a ukázat na jejich ruské financování. A to je ten háček. Nejsou to nějací ONI, kdo by za tím vším stál - nějací cizinci, které sem dovezla ruská armáda jako speciální výsadek. Jsme to my, jsou to naši vlastní lidé. Ti, kteří jsou latentně nespokojení a zpravidla upřímně věří tomu, že jejich cesta je lepší nebo je alespoň dobré vytvářet protiváhu proti oficiální politice. A proto je velmi obtížné s tímto přesvědčením bojovat. Nelze zformovat digitální armádu a "střílet digitální agenty cizích mocností". Maximem možného byl seznam ruských agentů včetně kulturního atašé ruské ambasády, který byl předložen (znovu a znovu) české vládě ve Skripalově aféře, aby se z nich jako maximum možného poslali domů tři "odborníci na kulturu".
 

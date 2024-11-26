@@ -6,6 +6,7 @@ title: >
 author: Patrick Zandl
 post_excerpt: ""
 layout: post
+featured: true
 oldlink: >
   https://www.marigold.cz/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan
 published: true

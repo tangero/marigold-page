@@ -8,12 +8,12 @@ permalink: /mobilnisite/
 
 Stručný a poměrně pochopitelný úvod do toho, jak mobilní sítě fungují. Pro všechny zájemce ♥️
 
-| Parametr | 2G | 3G | 4G | 5G |
-|----------|----|----|----|----|
-| Maximální přenosová rychlost | 384 kbit/s | 42 Mbit/s | 1 Gbit/s | 20 Gbit/s |
-| Typické používané služby | Hlasové hovory, SMS | Mobilní internet, videohovory | Streamování videa, online hry | VR/AR, IoT, autonomní vozidla |
-| Typická hustota uživatelů na km² | 100 | 1 000 | 10 000 | 1 000 000 |
-| Rok počátku rozvoje | 1991 | 2002 | 2012 | 2020 |
+| Parametr | 2G | 3G | 4G | 5G | 6G |
+|----------|----|----|----|----|----|
+| Maximální přenosová rychlost | 384 kbit/s | 42 Mbit/s | 1 Gbit/s | 20 Gbit/s | 1 Tbit/s |
+| Typické používané služby | Hlasové hovory, SMS | Mobilní internet, videohovory | Streamování videa, online hry | VR/AR, IoT, autonomní vozidla | Hologramy, rozšířená realita (XR), autonomní systémy, vzdálené operace, propojené povrchy |
+| Typická hustota uživatelů na km² | 100 | 1 000 | 10 000 | 1 000 000 | 10 000 000 |
+| Rok počátku rozvoje | 1991 | 2002 | 2012 | 2020 | 2030 |
 
 
 ## Videotutoriály pro úplné začátečníky
@@ -53,8 +53,8 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 
 Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhrnných vydání specifikací mobilních sítí celosvětového standardu UMTS, později pojmenovaného a derivovaného na 3G, 4G, 5G a nově i 6G. Přelomové Release jsou vyznačené tučně. Začneme ale obecnějšími tématy:
 
-- 📻 Jak je to s [novými frekvencemi pro 5G a 6G sítě](/item/nova-frekvenci-pasma-5g-6g/)? 
-- ⏱️ Budoucnost frekvenčního multiplexu: [Alternativy k OFDMA jako NOMA, RSMA a SCMA](/mobilnisite/pokrocile-multiplexovani/). 
+📻 Jak je to s [novými frekvencemi pro 5G a 6G sítě](/item/nova-frekvenci-pasma-5g-6g/)? \
+⏱️ Budoucnost frekvenčního multiplexu: [Alternativy k OFDMA jako NOMA, RSMA a SCMA](/mobilnisite/pokrocile-multiplexovani/). \
 
 
 - **Rok 1999: Release 99 jako 3G** - paketová a spínaná data PS/CS, MMS, lokalizační služby

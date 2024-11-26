@@ -7,6 +7,8 @@ layout: post
 oldlink: >
   https://www.marigold.cz/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky
 published: true
+featured: true
+thumbnail: https://miro.medium.com/v2/resize:fit:1200/1*RysvyfiJbAzyqb362Rt2rA.png
 post_date: 2015-01-03 22:55:30
 ---
 <p>Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.</p>
