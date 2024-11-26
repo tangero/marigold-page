@@ -23,7 +23,20 @@ Zde si podrobněji probereme nejvýznamnější technologie, které se zvažují
 
 ## Porovnání technologií: Jak si vedou proti OFDMA?
 
+| Technologie | Hlavní výhody | Případné nevýhody | Podporující společnosti |
+|-------------|---------------|-------------------|-------------------------|
+| [NOMA](/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/) | Vyšší spektrální efektivita, podpora IoT | Vyšší složitost | Huawei, ZTE |
+| [RSMA](/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/) | Robustnost vůči interferenci, univerzálnost | Náročné řízení přenosu | Ericsson, Qualcomm |
+| [SCMA](/mobilnisite/Sparse-Code-Multiple-Access-SCMA/) | Energetická efektivita, podpora IoT | Vyšší složitost kódování | NTT DOCOMO |
+| Spatial Scattering Modulation (SSM) | Vysoká energetická účinnost, využití prostorové diverzity, vhodné pro masivní MIMO | Citlivost na změny prostředí, složitá charakterizace kanálu | Samsung, Nokia |
+| Index Modulation (IM) | Nízká implementační složitost, dobrá energetická účinnost, flexibilita nasazení | Omezená spektrální účinnost při vyšších datových tocích, citlivost na synchronizaci | Intel, MediaTek |
+| Orbital Angular Momentum (OAM) Multiplexing | Extrémně vysoká spektrální účinnost, teoreticky neomezený počet ortogonálních kanálů | Vysoká citlivost na atmosférické podmínky, omezený dosah, složitá implementace | China Mobile, Huawei |
+| RIS Assisted Multiple Access | Aktivní tvarování rádiového prostředí, zlepšení pokrytí, energetická účinnost | Vysoké počáteční náklady na infrastrukturu, složitost optimalizace | NTT DOCOMO, Samsung |
+
+*Poznámka: Uvedené podporující společnosti jsou orientační a vycházejí z veřejně dostupných informací o výzkumných aktivitách a patentových přihláškách těchto firem. Mnoho těchto technologií je stále ve fázi výzkumu a vývoje, přičemž na jejich vývoji se často podílí více společností současně nebo v rámci výzkumných konsorcií.*
+
 | Technologie |	Hlavní výhody |	Případné nevýhody |	Podporující společnosti |
+|-------------|---------------|-------------------|-------------------------|
 | [NOMA](/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/) |	Vyšší spektrální efektivita, podpora IoT |	Vyšší složitost |	Huawei, ZTE |
 | [RSMA](/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/) |	Robustnost vůči interferenci, univerzálnost	| Náročné řízení přenosu |	Ericsson, Qualcomm |
 | [SCMA](/mobilnisite/Sparse-Code-Multiple-Access-SCMA/) |	Energetická efektivita, podpora IoT |	Vyšší složitost kódování |	NTT DOCOMO |
