@@ -35,12 +35,6 @@ Zde si podrobněji probereme nejvýznamnější technologie, které se zvažují
 
 *Poznámka: Technologie bez prolinku na detaily jsou spíše experimentální. Uvedené podporující společnosti jsou orientační a vycházejí z veřejně dostupných informací o výzkumných aktivitách a patentových přihláškách těchto firem. Mnoho těchto technologií je stále ve fázi výzkumu a vývoje, přičemž na jejich vývoji se často podílí více společností současně nebo v rámci výzkumných konsorcií.*
 
-| Technologie |	Hlavní výhody |	Případné nevýhody |	Podporující společnosti |
-|-------------|---------------|-------------------|-------------------------|
-| [NOMA](/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/) |	Vyšší spektrální efektivita, podpora IoT |	Vyšší složitost |	Huawei, ZTE |
-| [RSMA](/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/) |	Robustnost vůči interferenci, univerzálnost	| Náročné řízení přenosu |	Ericsson, Qualcomm |
-| [SCMA](/mobilnisite/Sparse-Code-Multiple-Access-SCMA/) |	Energetická efektivita, podpora IoT |	Vyšší složitost kódování |	NTT DOCOMO |
-
 ## Budoucnost a výhled pro 6G
 
 Výše vyjmenovanými technologiemi multiplexování ale nejsme u konce. Sítě 6G přinesou zcela nové výzvy v oblasti řízení spektra, včetně podpory extrémně vysokých přenosových rychlostí, masivní konektivity a ultra-nízké latence. Technologie jako NOMA, RSMA a SCMA nabízejí slibné alternativy nebo doplňky k OFDMA, avšak každá z nich má své specifické výhody a omezení. V budoucnosti se pravděpodobně dočkáme kombinace těchto technologií, která zajistí optimální využití spektra pro různé aplikace.
