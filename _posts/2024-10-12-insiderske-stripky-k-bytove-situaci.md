@@ -33,3 +33,7 @@ Právě jsem byl na zajímavém setkání s insiderem bytového trhu, kde se ře
 - všechny tyhle změny jsou kulturně a politicky podmíněné
 
 Dušan Kunovský, šéf a majitel Central Group.
+
+Tady jsem to dal do malého obrázku
+
+![Bytová situace v Praze](/assets/byty-praha.png)

@@ -61,6 +61,8 @@ Tak, tímto jste si mohli udělat základní představu o tom, co obnáší naro
 9. Na všechny složitější věci najdete poradenské firmy, co vám udělají projekt a poradí s legislativou. Držte si je odděleně od dodavatelů, plaťťe jim hodinovou sazbu, klidně štědře, vyplatí se to. 
 10. nechte si poradit stran barvy a intenzity světla na jednotlivých typech komunikací. Dopady na bezpečnost plus světelný smog je dneska velké téma 
 
+![Nástrahy u veřejného osvětlení](/assets/rozpoctovani-vo.png)
+
 ### Co zkontrolovat v obecním rozpočtu veřejného osvětlení
 
 Pokud kontrolujete v obecním rozpočtu náklady na elektřinu, tak je potřeba najít zaúčtování podle § 3631:
