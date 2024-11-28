@@ -6,6 +6,17 @@ permalink: /ai/
 
 Zde najdete články zaměřené na umělou inteligenci a její využití v různých oblastech. Moji knihu [Mýty a naděje digitálního světa](https://www.kosmas.cz/knihy/517526/myty-a-nadeje-digitalniho-sveta/) můžete využít jako skvělého průvodce moderními technologiemi, pokud si chcete počíst vše vcelku. 
 
+
+<h2>Osvědčené postupy a návody na práci s AI</h2>
+🎓 [AI pro rodiče školáků](https://www.pii.cz/clanky/ai-pro-rodice-skolaku/) - návody a postupy pro vzdělávání s dětmi \
+📕 [Využití AI pro psaní beletrie, knih](/item/ai-psani-povidek/) \
+👾 [Programování s pomocí AI](/item/jak-programovat-s-ai/) \
+🗞️ [Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/) \
+🤖 [Zápis z porady či jednání pomocí umělé inteligence](/item/zapisy_z_porad_pomoci_ai/) \
+🎧 [Jak vytvořit audio podcast z vašich textů automaticky pomocí AI](/item/podcasty-z-textu-automaticky/) \
+
+
+
 <h2>Základy fungování AI</h2>
 
 {% assign emoji_chars = "⌚️⌨️📱📲💻⌨️🖥️🖨️🖱️🖲️🕹️🗜️💽💾💿📀📼📷📸📹🎥📽️" | split: '' %}
