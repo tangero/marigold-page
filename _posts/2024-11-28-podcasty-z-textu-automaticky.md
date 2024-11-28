@@ -24,7 +24,7 @@ Přehledy jsou naprosto fenomenální funkce. NotebookML do nich opravdu vybír�
 
 Jelikož se v Institutu Pí zabýváme optimalizací státní správy, jeden z materiálů, které jsme si nechávali pomocí NotebookML zpracovávat, jsou postupy oprav komunikací. Vygeneroval jsem k tomu dva Audiopřehledy, můžete si je porovnat:
 
--   anglicky namluvená verze  [EU Road Surface Maintenance](https://notebooklm.google.com/notebook/44ae89f2-a328-4fc2-9e0a-35c183fb9122/audio)
+-   anglicky namluvená verze  [US-China Economic Conflicts: Trade Wars and Industrial Policy](https://notebooklm.google.com/notebook/af5484ff-4c05-403b-9c88-913ef11ff35d/audio)
     
 -   česky namluvená verze  [EU Road Surface Maintenance](https://notebooklm.google.com/notebook/44ae89f2-a328-4fc2-9e0a-35c183fb9122/audio)
     
@@ -47,7 +47,7 @@ Na web se vygeneruje jen náhled v omezené délce 1 min 11 vteřin, celý podca
 
 -   toto je můj  [článek o neplacení daní Apple v Irsku](https://elevenreader.io/app/reader/genfm/7fb5de89f5ef0abc3d2d7be429b6830e7ebddb85a808a7aa0f4fbed33e337425/u:moKlgU3JI0OBO2GjsjIL)  pro Lidové noviny převedený do formy podcastu
     
--   a toto je  [článek věnovaný novým frekvencím pro sítě 6G](https://elevenreader.io/app/reader/genfm/7fb5de89f5ef0abc3d2d7be429b6830e7ebddb85a808a7aa0f4fbed33e337425/u:NvTWzpiqlN1nmLX3eoRA), který jsem GenFM nechal načíst z URL na Marigoldovi.
+-   a toto je  [článek věnovaný novým frekvencím pro sítě 6G](https://elevenreader.io/app/reader/genfm/7fb5de89f5ef0abc3d2d7be429b6830e7ebddb85a808a7aa0f4fbed33e337425/u:NvTWzpiqlN1nmLX3eoRA), který jsem GenFM nechal načíst [z URL na Marigoldovi](https://www.marigold.cz/item/nova-frekvenci-pasma-5g-6g/).
     
 
   
