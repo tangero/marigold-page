@@ -570,51 +570,87 @@ tbody tr:hover {
 // Tady začíná formátování obrázků doprava
 
 .content-wrapper {
-    display: block;  /* Výchozí zobrazení je pod sebou */
-    max-width: 1600px;
-    margin: 0 auto;
+  display: block;
+  max-width: 1600px;
+  margin: 0 auto;
 }
 
 .main-content {
-    min-width: 750px;  /* Minimální šířka článku */
-    width: 100%;      /* Výchozí šířka na celou dostupnou šířku */
-    box-sizing: border-box;
+  min-width: 750px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .image-gallery-sidebar {
-    display: none;    /* Výchozí stav - sidebar je skrytý */
-    box-sizing: border-box;
+  display: none;
+  box-sizing: border-box;
 }
 
-@media screen and (min-width: 1024px) {
-    .content-wrapper {
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .main-content {
-        flex: 1;
-        min-width: 750px;
-        padding-right: 40px;
-    }
-
-    .image-gallery-sidebar {
-        display: block;
-        width: 260px;
-        padding: 0 20px;
-        border-left: 1px solid #e0e0e0;
-        min-height: 100%;
-    }
-
-    .image-gallery-sidebar h3 {
-        font-size: 1.2em;
-        font-weight: 500;
-        margin-bottom: 20px;
-        padding-bottom: 10px;
-        border-bottom: 2px solid #e0e0e0;
-    }
+.image-item {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #e0e0e0;
 }
 
+.image-item:last-child {
+  border-bottom: none;
+}
+
+.sidebar-image-title {
+  margin-bottom: 12px;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+.sidebar-image-title a {
+  color: #333;
+  text-decoration: none;
+}
+
+.sidebar-image {
+  width: 100%;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+
+.sidebar-image-author {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.sidebar-image-author a {
+  color: #666;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 1150px) {
+  .content-wrapper {
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .main-content {
+      flex: 1;
+      min-width: 750px;
+      padding-right: 40px;
+  }
+
+  .image-gallery-sidebar {
+      display: block;
+      width: 350px;
+      padding: 0 20px;
+      border-left: 1px solid #e0e0e0;
+      min-height: 100%;
+  }
+
+  .image-gallery-sidebar h3 {
+      font-size: 1.2em;
+      font-weight: 500;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid #e0e0e0;
+  }
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

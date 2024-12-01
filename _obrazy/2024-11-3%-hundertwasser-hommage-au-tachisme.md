@@ -7,7 +7,7 @@ namalovano: 1961
 autor: Friedensreich Hundertwasser
 obraz: Hommage au Tachisme 
 styl: Tachismus
-urlobrazu: https://www.marigold.cz/assets/obrazy/hundertwasser-hommage.jpeg
+urlobrazu: /assets/obrazy/hundertwasser-hommage.jpeg
 ---
  
 🎨 F. Hundertwasser (1928–2000) byl rakouský umělec, architekt a ekologický vizionář

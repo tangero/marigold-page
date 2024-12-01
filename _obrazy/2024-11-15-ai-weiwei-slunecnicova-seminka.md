@@ -7,7 +7,7 @@ namalovano: 2010
 autor: Ai Weiwei
 obraz: Slunečnicová Semínka
 styl: instalace
-urlobrazu: https://www.marigold.cz/assets/obrazy/Ai-Weiwei-Sunflower-Seeds-Tate-Modern-London-May-2-2011.jpg
+urlobrazu: /assets/obrazy/Ai-Weiwei-Sunflower-Seeds-Tate-Modern-London-May-2-2011.jpg
 ---
 
 CO TO JE?
