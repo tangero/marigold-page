@@ -569,14 +569,14 @@ tbody tr:hover {
 
 // Tady začíná formátování obrázků doprava
 
-/* Hlavní layout zůstává stejný pro mobilní zařízení */
+/* Základní layout */
 .content-wrapper {
   display: block;
   width: 100%;
   max-width: 1150px;
   margin: 0 auto;
-  box-sizing: border-box;
   padding: 0 15px;
+  box-sizing: border-box;
 }
 
 .main-content {
@@ -587,32 +587,50 @@ tbody tr:hover {
   overflow-x: hidden;
 }
 
+/* Pravý sloupec defaultně skrytý */
 .image-gallery-sidebar {
   display: none;
-  box-sizing: border-box;
 }
 
-/* Upravené Media query pro větší obrazovky s opraveným poměrem šířek */
+/* Desktop verze */
 @media screen and (min-width: 1150px) {
   .content-wrapper {
-      display: flex;
+      display: grid;
+      grid-template-columns: 1fr 350px; /* Definuje poměr sloupců */
       gap: 40px;
       padding: 0 20px;
-      align-items: flex-start; /* Zajistí zarovnání na horní okraj */
   }
 
   .main-content {
-      flex: 1;
       min-width: 0;
-      width: calc(100% - 350px); /* Hlavní obsah zabírá většinu prostoru */
+      width: 100%;
+      grid-column: 1;
   }
 
   .image-gallery-sidebar {
       display: block;
       width: 350px;
-      flex: 0 0 350px; /* Pevná šířka pravého sloupce */
+      grid-column: 2;
       border-left: 1px solid #e0e0e0;
       padding-left: 20px;
+  }
+}
+
+/* Mobilní verze */
+@media screen and (max-width: 1149px) {
+  .content-wrapper {
+      min-width: 0;
+      width: 100%;
+      display: block;
+  }
+
+  .main-content {
+      min-width: 0;
+      width: 100%;
+  }
+
+  .image-gallery-sidebar {
+      display: none;
   }
 }
 
