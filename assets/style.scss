@@ -567,6 +567,51 @@ tbody tr:hover {
   }
 }
 
+/* Základní styly pro výpis obrázků */
+.image-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Styly pro stránky s /obrazy/ v URL */
+.image-gallery-bottom {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #e0e0e0;
+}
+
+/* Styly pro ostatní stránky - postranní panel */
+@media screen and (min-width: 1024px) {
+  .content-wrapper {
+      display: flex;
+      justify-content: space-between;
+      max-width: 1600px;
+      margin: 0 auto;
+  }
+
+  .main-content {
+      flex: 1;
+      max-width: calc(100% - 340px);
+      padding-right: 40px;
+  }
+
+  .image-gallery-sidebar {
+      width: 300px;
+      padding: 0 20px;
+      border-left: 1px solid #e0e0e0;
+      min-height: 100%;
+  }
+
+  .image-gallery-sidebar h2 {
+      font-size: 1.2em;
+      font-weight: 500;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid #e0e0e0;
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "darcula";
