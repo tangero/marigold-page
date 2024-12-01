@@ -57,7 +57,6 @@ Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhr
 ⏱️ Budoucnost frekvenčního multiplexu: [Alternativy k OFDMA jako NOMA, RSMA a SCMA](/mobilnisite/pokrocile-multiplexovani/). \
 📡 [Chytré antény a jejich technologie](/item/chytre-anteny-5G-6G/)
 
-
 - **Rok 1999: Release 99 jako 3G** - paketová a spínaná data PS/CS, MMS, lokalizační služby
 - Rok 2001: UMTS Release 4 - první takto značená Release, zahrnuje čínské TD-SCDMA
 - Rok 2002: UMTS Release 5 - HSDPA, IMS, AMR-WB

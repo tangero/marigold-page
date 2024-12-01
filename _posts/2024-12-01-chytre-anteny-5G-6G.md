@@ -3,7 +3,7 @@ title: "Chytré antény pro sítě 5G a 6G"
 post_excerpt: "Dnešní mobilní telefony potřebují být zároveň stále menší, výkonější a déle vydržet na baterie. Jenže výkon - v ohledu přenosových rychlostí - znamená především stále širší obsluhované rádiové spektrum, aby bylo možné zdvihat přenosové rychlosti. A to také znamená nutnost prudkého vývoje anténních technologií."
 layout: post
 categories: [Mobilní sítě, 5G, antény]
-thumbnail: https://www.marigold.cz/assets/chytre-anteny.png
+thumbnail: https://www.marigold.cz/assets/chytre-anteny-praha.png
 ---
 
 
