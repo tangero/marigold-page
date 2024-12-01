@@ -2,44 +2,6 @@
 layout: default
 ---
 
-<!-- Přidání CSS stylů pro postranní panel -->
-<style>
-.content-wrapper {
-    display: flex;
-    justify-content: space-between;
-    max-width: 1600px;
-    margin: 0 auto;
-}
-
-.main-content {
-    flex: 1;
-    max-width: calc(100% - 340px);
-    padding-right: 40px;
-}
-
-.image-gallery-sidebar {
-    display: none;
-}
-
-@media screen and (min-width: 1024px) {
-    .image-gallery-sidebar {
-        width: 300px;
-        padding: 0 20px;
-        border-left: 1px solid #e0e0e0;
-        min-height: 100%;
-        display: block;
-    }
-
-    .image-gallery-sidebar h3 {
-        font-size: 1.2em;
-        font-weight: 500;
-        margin-bottom: 20px;
-        padding-bottom: 10px;
-        border-bottom: 2px solid #e0e0e0;
-    }
-}
-</style>
-
 <!-- start feedwind code --> 
 <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
 <!-- end feedwind code -->
@@ -216,18 +178,18 @@ layout: default
     <h3>Zajímavé obrazy</h3>
     {% assign shuffled_posts = site.obrazy | sample: 3 %}
     {% for post in shuffled_posts %}
-      <div class="image-item" style="margin-bottom: 20px;">
+      <div class="image-item">
         {% if post.urlobrazu %}
           <a href="{{ post.url }}">
-            <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300/https://www.marigold.cz{{ post.urlobrazu }}" 
-                 alt="{{ post.title }}" 
-                 style="width:100%; border-radius: 4px;">
+            <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_240/https://www.marigold.cz{{ post.urlobrazu }}" 
+                 alt="{{ post.title }}"
+                 class="sidebar-image">
           </a>
         {% endif %}
-        <p style="margin-top: 8px;">
+        <div class="sidebar-image-caption">
           <strong>{{ post.obraz | default: "Bez názvu" }}</strong><br>
           <small>{{ post.autor | default: "Neznámý autor" }}</small>
-        </p>
+        </div>
       </div>
     {% endfor %}
   </aside>
