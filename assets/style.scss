@@ -569,87 +569,119 @@ tbody tr:hover {
 
 // Tady začíná formátování obrázků doprava
 
+/* Globální nastavení boxovacího modelu */
+* {
+  box-sizing: border-box;
+}
+
+/* Základní layout */
 .content-wrapper {
-  display: block;
-  max-width: 1600px;
-  margin: 0 auto;
+    display: block;
+    max-width: 1600px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0 20px;
 }
 
 .main-content {
-  min-width: 750px;
-  width: 100%;
-  box-sizing: border-box;
+    min-width: 750px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
+/* Styly pro postranní panel */
 .image-gallery-sidebar {
-  display: none;
-  box-sizing: border-box;
+    display: none;
+    box-sizing: border-box;
+    width: 100%;
 }
 
+/* Styly pro jednotlivé položky v postranním panelu */
 .image-item {
-  margin-bottom: 30px;
-  padding-bottom: 30px;
-  border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #e0e0e0;
 }
 
 .image-item:last-child {
-  border-bottom: none;
+    border-bottom: none;
 }
 
 .sidebar-image-title {
-  margin-bottom: 12px;
-  font-size: 1.1em;
-  font-weight: 500;
+    margin-bottom: 12px;
+    font-size: 1.1em;
+    font-weight: 500;
 }
 
 .sidebar-image-title a {
-  color: #333;
-  text-decoration: none;
+    color: #333;
+    text-decoration: none;
+}
+
+.sidebar-image-title a:hover {
+    text-decoration: underline;
 }
 
 .sidebar-image {
-  width: 100%;
-  border-radius: 4px;
-  margin-bottom: 12px;
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 12px;
+    display: block;
 }
 
 .sidebar-image-author {
-  font-size: 0.9em;
-  color: #666;
+    font-size: 0.9em;
+    color: #666;
 }
 
 .sidebar-image-author a {
-  color: #666;
-  text-decoration: none;
+    color: #666;
+    text-decoration: none;
 }
 
+.sidebar-image-author a:hover {
+    text-decoration: underline;
+}
+
+/* Media query pro větší obrazovky */
 @media screen and (min-width: 1150px) {
-  .content-wrapper {
-      display: flex;
-      justify-content: space-between;
-  }
+    .content-wrapper {
+        display: flex;
+        gap: 40px;
+    }
 
-  .main-content {
-      flex: 1;
-      min-width: 750px;
-      padding-right: 40px;
-  }
+    .main-content {
+        flex: 1;
+        min-width: 750px;
+        max-width: calc(100% - 390px);
+    }
 
-  .image-gallery-sidebar {
-      display: block;
-      width: 350px;
-      padding: 0 20px;
-      border-left: 1px solid #e0e0e0;
-      min-height: 100%;
-  }
+    .image-gallery-sidebar {
+        display: block;
+        width: 350px;
+        flex-shrink: 0;
+        border-left: 1px solid #e0e0e0;
+        padding-left: 20px;
+    }
 
-  .image-gallery-sidebar h3 {
-      font-size: 1.2em;
-      font-weight: 500;
-      margin-bottom: 20px;
-      padding-bottom: 10px;
-      border-bottom: 2px solid #e0e0e0;
-  }
+    .image-gallery-sidebar h3 {
+        font-size: 1.2em;
+        font-weight: 500;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+        border-bottom: 2px solid #e0e0e0;
+    }
+}
+
+/* Malé obrazovky - responsivní chování */
+@media screen and (max-width: 1149px) {
+    .content-wrapper {
+        padding: 0 15px;
+    }
+
+    .image-gallery-sidebar {
+        display: none;
+    }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
