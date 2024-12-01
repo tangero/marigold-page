@@ -9,10 +9,12 @@ oldlink: >
 published: true
 post_date: 2007-01-20 16:50:27
 ---
-<texy><a href="http://www.marigold.cz/wp-content/appleiphone.jpg"><img src="http://www.marigold.cz/wp-content/_appleiphone.jpg" width="216" height="250" align="right" hspace="5" alt="Apple iPhone" title="Apple iPhone"  /></a> Steve Jobs představil před pár dny nový Apple produkt nazvaný proti všem očekávání a po všech očekáváních iPhone. Akcie Apple ihned posílily o tři dolary, komentátoři se mohou přetrhnout v názorech, zda heslo provázející Apple iPhone <em>"redefining mobile phones"</em> je nadsazené nebo nevystihující.
+
+Steve Jobs představil před pár dny nový Apple produkt nazvaný proti všem očekávání a po všech očekáváních iPhone. Akcie Apple ihned posílily o tři dolary, komentátoři se mohou přetrhnout v názorech, zda heslo provázející Apple iPhone <em>"redefining mobile phones"</em> je nadsazené nebo nevystihující.
 
 iPhone je pro telekomunikační průmysl zjevení. Zda apokalyptické, nebo spásné, to záleží na tom, na které straně telekomunikačni barikády stojíte. Firmám jako Nokia bude z iPhone mírně nevolno, jejich akcionářům pak o poznání více. Mají pro to řadu dobrých důvodů a reakce, které by se daly nazvat jako hysterické, se již objevily.
-<!--more-->
+
+
 
 Výrobci mobilních telefonů jsou delší dobu toho názoru, že pokud chcete používat mobilní telefony a moderní telekomunikační služby, měli byste vyvinout dostatečnou inteligenci a úsilí, abyste prokázali, že jste toho hodni. Nastavení běžné telekomunikační služby typu MMS vyžaduje nehorázné úsilí, ovládání většiny služeb je ... nu, rozpačité. Většina uživatelů po zásluze záhy končí s tím, že ememesky nepotřebuje. Což logicky prudí operátory, kteří do jejich podpory narvali slušné peníze.
 
@@ -28,7 +30,8 @@ Podívejme se tedy na pár podstatných věcí, které jste možná ještě neč
 
 Média ihned a ráda upozornila na fakt, že podobné telefony, jako je iPhone, již existují a dokumentují to na modelu z dílny <a href="http://mobil.idnes.cz/lg-prada-konkurence-pro-iphone-v-luxusnim-vydani-f6w-/mob-lg.asp?c=A070118_132529_mob-lg_ada">LG Prada</a>. Ano, v zásadě mají pravdu, LG Prada je iPhone velmi podobná. 
 
-<a href="http://www.marigold.cz/wp-content/lg_prada_iphone.jpg"><img src="http://www.marigold.cz/wp-content/_lg_prada_iphone.jpg" width="400" height="219" alt="porovnáni iphone a lg prada" title="porovnáni iphone a lg prada"  /></a>
+![porovnání: vlevo Apple iPhone, vpravo LG Prada](/assets/iphone-vs-lgprada.jpg)
+
 <em>porovnání: vlevo Apple iPhone, vpravo LG Prada</em>
 
 Jsou tu ale podstatné rozdíly. Displej sice nepotřebuje pero, ale podporuje pouze single-touch. A to je velké mínus pro pohodlí ovládání. Protože právě dotyková technologie je alfou a omegou pohodlí ovládání telefonů, které jsou bez klávesnice a musí tedy spoléhat na ni. 

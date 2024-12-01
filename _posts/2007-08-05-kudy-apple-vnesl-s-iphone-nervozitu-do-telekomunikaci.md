@@ -9,7 +9,7 @@ oldlink: >
 published: true
 post_date: 2007-08-05 13:22:32
 ---
-Ve své <a href="http://www.marigold.cz/item/apple-iphone-recenze-muze-byt-delsi-nez-manual-musi-tady-je">recenzi Apple iPhone</a> jsem slíbil zamyslet se trochu nad tím, proč a jak iPhone změní telekomunikační prostředí, pokud vůbec. Argumentace a poznatky k tomu jsou obsáhlé a dlouhé. Zkusil jsem je trochu zestručnit, aby se to ještě dalo přečíst, ale i tak z toho zase vyšel poněkud dlouhý článek. Takže je vhodný pro zájemce o něco trochu méně povrchnějšího, než výkřiky iPhone Sucx/rullleezzz... :)
+Ve své <a href="/item/apple-iphone-recenze-muze-byt-delsi-nez-manual-musi-tady-je">recenzi Apple iPhone</a> jsem slíbil zamyslet se trochu nad tím, proč a jak iPhone změní telekomunikační prostředí, pokud vůbec. Argumentace a poznatky k tomu jsou obsáhlé a dlouhé. Zkusil jsem je trochu zestručnit, aby se to ještě dalo přečíst, ale i tak z toho zase vyšel poněkud dlouhý článek. Takže je vhodný pro zájemce o něco trochu méně povrchnějšího, než výkřiky iPhone Sucx/rullleezzz... :)
 
 Začneme trochu ze široka. 
 
@@ -17,7 +17,7 @@ Přemýšleli jste někdy o tom, jak je svět telekomunikací a IT dvojí strano
 
 Svět IT takhle dlouhou dobu spolunažívá s telekomunikacemi. V těch pevnolinkových i v těch mobilních. Tam, kde telekomunikační společnosti nabízejí telefonování po vytáčených okruzích, IT firmy jdou do paketového VoIP. Proti ADSL nasazují FTTH. A na tomhle přístupu je to krásně vidět. Povšimněte si, jaký je rozdíl mezi telefonními sítěmi spínanými obvodově a datovými sítěmi spínanými paketově. Je charakteristický pro celý průmysl. Obvodově spínané sítě představují síť vyhraženou od počátku až po konec jedinému vlastníkovi nebo účelu. Nikdo jiný si na ni nemůže v tu chvíli technicky dělat nárok. Oproti tomu paketové sítě se vyhrazují podle potřeby a účelu tomu či onomu, nemůžete říci, že linka je pro někoho vyhrazená. 
 
-Stejně to funguje v ekosystému. Zatímco telekomunikační firmy se snaží ovládnout celý řetězec od sebe směrem ke klientovi, IT firmy pouštějí do řetězce třetí strany, spolupracují, provizují.   <!--more-->
+Stejně to funguje v ekosystému. Zatímco telekomunikační firmy se snaží ovládnout celý řetězec od sebe směrem ke klientovi, IT firmy pouštějí do řetězce třetí strany, spolupracují, provizují.   
 
 Apple je IT společnost, která vstoupila do telekomunikačního světa na pole doposud výhradně ovládané telekomunikačními společnostmi. Zatím to udělal jen málokdo. Z části Microsoft, který se pokouší dodávat operační systém Windows Mobile, jenže ten figuruje zatím jako trpěný dodavatel, ne jako realizátor samostatné strategie. Z části Adobe se svým Flash Lite, o čemž bude řeč později. Z části Motorola, která se ale pokusila spíše o druhou cestu, z telekomunikací do IT a to v oblastech, kde už pohraniční spor IT/telekomunikace přerůstal v nevýnosnou válku. Prakticky neexistuje výrobce počítačů, který by zároveň vyráběl mobilní telefony. Může nás mást Fujitsu Siemens, které rozhodně není touž firmou, co Benq-Siemens nebo Sony, které není totéž, co Sony Ericsson. Můžeme hovořit o asijských výrobcích, kteří ale jen vyrábějí, vlastní strategie se soustředí jen na to, se ziskem co nejdříve prodat. Faktickou sílu (zatím) neznamenají. 
 
@@ -83,7 +83,9 @@ Výsledky prodeje můžeme přehodnocovat, jak chceme. Například můžeme zjis
 
 <h3>Porovnejme s výsledky iPodu a Zune</h3>
 
-<img src="http://www.marigold.cz/wp-content/droppedImage_4.png" width="310" height="270" alt="Podíl na trhu hudebních přehrávačů, leden 2007" title="Podíl na trhu hudebních přehrávačů, leden 2007" align="right" />Pamatujete si, když přicházel přehrávač Microsoft Zune? Pár lidí podlehlo marketingovému mámení Microsoftu a pasovali ho za iPod killera. Sám Steve Balmer odhadoval, že Zune získá získá čtvrtinu trhu. Pokud si najdeme výsledky prodeje, které vydávala NPD Group za leden 2007, podíl iPodu byl 72,7% a podíl Microsoft Zune 3,2%. Zune nic ze svých marketingových cílů nesplnil ani po roční přítomnosti na nejvyspělejším trhu. 
+Pamatujete si, když přicházel přehrávač Microsoft Zune? Pár lidí podlehlo marketingovému mámení Microsoftu a pasovali ho za iPod killera. Sám Steve Balmer odhadoval, že Zune získá získá čtvrtinu trhu. Pokud si najdeme výsledky prodeje, které vydávala NPD Group za leden 2007, podíl iPodu byl 72,7% a podíl Microsoft Zune 3,2%. Zune nic ze svých marketingových cílů nesplnil ani po roční přítomnosti na nejvyspělejším trhu. 
+
+![Podíly iPodu a Zune na trhu](/assets/marketshare_ipod_zune.png)
 
 <h3>Závěr (tentokráte opravdu závěrem)</h3>
 
