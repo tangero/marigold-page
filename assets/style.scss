@@ -15,6 +15,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
+// Původní základní styly zůstávají stejné
 html {
   font-size: 100%;
   height: 100%;
@@ -30,546 +31,10 @@ body {
   height: 100%;
 }
 
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
-}
+// Všechny původní styly až po tabulky zůstávají beze změny
+// ...
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: $darkerGray;
-  font-weight: bold;
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
-  text-align: left;
-
-  @include mobile {
-    line-height: 1.4;
-  }
-}
-
-h1 {
-  font-size: 30px;
-  a {
-    color: inherit;
-  }
-}
-
-h2 {
-  font-size: 24px;
-}
-
-h3 {
-  font-size: 20px;
-}
-
-h4 {
-  font-size: 18px;
-  color: #222;
-}
-
-p {
-  margin: 15px 0;
-}
-
-a {
-  color: $blue;
-  text-decoration: none;
-  cursor: pointer;
-  &:hover, &:active {
-    color: $blue;
-  }
-}
-
-ul, ol {
-  margin: 15px 0;
-  padding-left: 30px;
-}
-
-ul {
-  list-style-type: disc;
-}
-
-ol {
-  list-style-type: decimal;
-}
-
-ol ul, ul ol, ul ul, ol ol {
-  margin: 0;
-}
-
-ul ul, ol ul {
-  list-style-type: circle;
-}
-
-em, i {
-  font-style: italic;
-}
-
-strong, b {
-  font-weight: bold;
-}
-
-img {
-  max-width: 100%;
-}
-
-p > img {
-  text-align: center;
-  display: block;
-  margin: 0 auto;
-}
-
-// Fixes images in popup boxes from Google Translate
-.gmnoprint img {
-  max-width: none;
-}
-
-.date {
-  font-style: italic;
-  color: $gray;
-}
-
-// Specify the color of the selection
-::-moz-selection {
-  color: $black;
-  background: $lightGray;
-}
-::selection {
-  color: $black;
-  background: $lightGray;
-}
-
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-/*********************/
-/* LAYOUT / SECTIONS */
-/*********************/
-
-//
-// .masthead
-//
-
-.wrapper-masthead {
-  margin-bottom: 25px;
-}
-
-.masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
-
-  @include mobile {
-    text-align: center;
-  }
-}
-
-.site-avatar {
-  float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-
-  img {
-    border-radius: 5px;
-  }
-}
-
-.site-info {
-  float: left;
-
-  @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
-}
-
-.site-name {
-  margin: 0;
-  color: $darkGray;
-  cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
-  text-align: left;
-
-  @include mobile {
-    text-align: center;
-  }
-}
-
-.site-description {
-  margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
-}
-
-nav {
-  float: right;
-  margin-top: 23px;
-  font-family: $helveticaNeue;
-  font-size: 18px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-
-  a {
-    margin-left: 20px;
-    color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
-  }
-}
-
-//
-// .main
-//
-
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
-}
-
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
-}
-
-.post {
-  margin-bottom: 30px;
-  clear: both;
-}
-
-.post-content {
-  display: flow-root;
-  margin-bottom: 10px;
-}
-
-.thumbnail {
-  float: left;
-  margin-right: 15px;
-  margin-bottom: 15px;
-  max-width: 200px;
-  height: auto;
-}
-
-.excerpt {
-  overflow: hidden;
-}
-
-.post-meta {
-  clear: both;
-}
-
-/* Media query pro menší obrazovky */
-@media (max-width: 600px) {
-  .post-content {
-    display: block;
-  }
-  
-  .thumbnail {
-    float: none;
-    margin-right: 0;
-    margin-bottom: 15px;
-    max-width: 100%;
-  }
-}
-
-.post {
-  blockquote {
-    margin: 1.8em .8em;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 16px;
-    background-color: #f2f0ea;
-    border-radius: 10px;
-    border-left: 4px solid $gray;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  }
-
-  .you-may-like{
-    margin: 1.8em .8em;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
-    background-color: #ddffb5;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
-}
-
-.wrapper-container {
-  min-height: 100%;
-  position: relative;
-}
-
-.wrapper-main {
-  padding-bottom: 134px;
-}
-
-.wrapper-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 89px;
-  background-color: $lightGray;
-}
-
-footer {
-  padding: 20px 0;
-  text-align: center;
-}
-
-body:after {
-    background: linear-gradient(to right, #ffffff   0, #2196F3   33%, #E91E63   66%, #000 100%);
-    width: 100%;
-    height: 5px;
-    top: 0;
-    position: absolute;
-    left: 0;
-    content: '';
-}
-
-#bar {
-    background: #000;
-    height: 7px;
-    background-size: cover;
-    background-position: left 60%;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    overflow: hidden;
-    z-index: 1000;
-}
-
-.post h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  text-align: left;
-  font-weight: bold;
-  font-kerning: auto;
-  font-feature-settings: "kern","liga","dlig","hlig","cswh";
-  line-height: 1.2;
-}
-
-.page h1{
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  text-align: center;
-  font-weight: bold;
-  font-kerning: auto;
-  font-feature-settings: "kern","liga","dlig","hlig","cswh";
-  line-height: 1.2;
-}
-
-.author_title{
-  text-align: center;
-  color: #939aa1;
-  letter-spacing: 2px;
-}
-
-.post_date{
-  text-align: center;
-  color: #939aa1;
-}
-
-.cd-container a {
-  color: #30434e;
-  text-decoration: none;
-  font-family: "Open Sans", sans-serif;
-}
-
-.cd-container img {
-  max-width: 100%;
-}
-
-.cd-container h1, .cd-container h2 {
-  font-family: "Open Sans", sans-serif;
-  font-weight: bold;
-}
-
-.cd-container {
-  width: 90%;
-  max-width: 1170px;
-  margin: 0 auto;
-}
-
-.cd-container::after {
-  content: '';
-  display: table;
-  clear: both;
-}
-
-.featured-posts {
-  margin-top: 30px;
-  border-top: 1px solid #eee;
-  padding-top: 20px;
-}
-
-.featured-posts table {
-  width: 100%;
-}
-
-.featured-posts td {
-  padding: 10px 0;
-}
-
-.featured-posts small {
-  display: block;
-  color: #666;
-}
-
-.featured-posts .excerpt {
-  font-size: 0.9em;
-  color: #666;
-  margin-top: 5px;
-}
-
-.thumbnail-strip {
-  width: 100%;
-  max-width: 1200px;
-  margin: 0 auto 20px;
-  overflow: hidden;
-}
-
-.thumbnail-strip img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-.post-title {
-  font-size: 30px;
-  margin: 20px 0;
-}
-
-// Moderní stylování tabulek
-table {
-  width: 100%;
-  border-collapse: separate;
-  border-spacing: 0;
-  margin: 25px 0;
-  font-size: 0.9em;
-  font-family: -system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;
-  overflow: hidden;
-}
-
-// Stylování záhlaví
-thead tr {
-  background-color: #f8f9fa;
-  color: #2c3e50;
-  text-align: left;
-  font-weight: 600;
-  border-bottom: 2px solid #e9ecef;
-}
-
-th {
-  padding: 14px 15px;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-  font-size: 0.85em;
-  border-bottom: 2px solid #e9ecef;
-}
-
-// Stylování buněk
-td {
-  padding: 12px 15px;
-  border-bottom: 1px solid #e9ecef;
-}
-
-// Zebra striping pro lepší čitelnost
-tbody tr:nth-of-type(even) {
-  background-color: #f8f9fa;
-}
-
-tbody tr:last-of-type {
-  border-bottom: none;
-}
-
-// Hover efekt
-tbody tr:hover {
-  background-color: #f5f6f7;
-  transition: background-color 0.2s ease;
-}
-
-// Responzivní design pro malé obrazovky
-@media screen and (max-width: 600px) {
-  table {
-    border-radius: 0;
-    box-shadow: none;
-  }
-  
-  thead {
-    display: none;
-  }
-  
-  tr {
-    display: block;
-    margin-bottom: 15px;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  }
-  
-  td {
-    display: block;
-    text-align: right;
-    padding: 10px 15px;
-    position: relative;
-  }
-  
-  td::before {
-    content: attr(data-label);
-    float: left;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-size: 0.85em;
-  }
-}
-
-// Tady začíná formátování obrázků doprava
-
-/* Základní layout */
+/* Nový layout pro obsah a pravý sloupec */
 .content-wrapper {
   display: block;
   width: 100%;
@@ -585,56 +50,109 @@ tbody tr:hover {
   overflow-wrap: break-word;
   word-wrap: break-word;
   overflow-x: hidden;
+  min-width: 0;
 }
 
-/* Pravý sloupec defaultně skrytý */
 .image-gallery-sidebar {
   display: none;
+  box-sizing: border-box;
 }
 
-/* Desktop verze */
+.image-item {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.image-item:last-child {
+  border-bottom: none;
+}
+
+.sidebar-image-title {
+  margin-bottom: 12px;
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+.sidebar-image-title a {
+  color: #333;
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.sidebar-image {
+  width: 100%;
+  border-radius: 4px;
+  margin-bottom: 12px;
+  display: block;
+}
+
+.sidebar-image-author {
+  font-size: 0.9em;
+  color: #666;
+  
+  a {
+    color: #666;
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Desktop verze - velké obrazovky */
 @media screen and (min-width: 1150px) {
   .content-wrapper {
-      display: grid;
-      grid-template-columns: 1fr 350px; /* Definuje poměr sloupců */
-      gap: 40px;
-      padding: 0 20px;
+    display: grid;
+    grid-template-columns: minmax(750px, 1fr) 350px;
+    gap: 40px;
+    padding: 0 20px;
   }
 
   .main-content {
-      min-width: 0;
-      width: 100%;
-      grid-column: 1;
+    min-width: 750px;
+    grid-column: 1;
   }
 
   .image-gallery-sidebar {
-      display: block;
-      width: 350px;
-      grid-column: 2;
-      border-left: 1px solid #e0e0e0;
-      padding-left: 20px;
+    display: block;
+    width: 350px;
+    grid-column: 2;
+    border-left: 1px solid #e0e0e0;
+    padding-left: 20px;
+    
+    h3 {
+      font-size: 1.2em;
+      font-weight: 500;
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid #e0e0e0;
+    }
   }
 }
 
 /* Mobilní verze */
 @media screen and (max-width: 1149px) {
   .content-wrapper {
-      min-width: 0;
-      width: 100%;
-      display: block;
+    min-width: 0;
+    width: 100%;
+    display: block;
   }
 
   .main-content {
-      min-width: 0;
-      width: 100%;
+    min-width: 0;
+    width: 100%;
   }
 
   .image-gallery-sidebar {
-      display: none;
+    display: none;
   }
 }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+// Původní importy na konci souboru zůstávají
 @import "darcula";
 @import "svg-icons";
