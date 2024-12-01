@@ -569,142 +569,51 @@ tbody tr:hover {
 
 // Tady začíná formátování obrázků doprava
 
-/* Globální nastavení boxovacího modelu */
-* {
-  box-sizing: border-box;
-}
-
-/* Základní layout */
+/* Hlavní layout zůstává stejný pro mobilní zařízení */
 .content-wrapper {
-    display: block;
-    width: 100%;
-    max-width: 1150px;
-    margin: 0 auto;
-    box-sizing: border-box;
-    padding: 0 15px;
+  display: block;
+  width: 100%;
+  max-width: 1150px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 0 15px;
 }
 
 .main-content {
-    width: 100%;
-    box-sizing: border-box;
-    overflow-wrap: break-word;
-    word-wrap: break-word;
-    overflow-x: hidden;
+  width: 100%;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  overflow-x: hidden;
 }
 
-/* Styly pro obrázky v hlavním obsahu pro zajištění responsivity */
-.main-content img {
-    max-width: 100%;
-    height: auto;
-}
-
-/* Styly pro postranní panel */
 .image-gallery-sidebar {
-    display: none;
-    box-sizing: border-box;
+  display: none;
+  box-sizing: border-box;
 }
 
-/* Styly pro jednotlivé položky v postranním panelu */
-.image-item {
-    margin-bottom: 30px;
-    padding-bottom: 30px;
-    border-bottom: 1px solid #e0e0e0;
-}
-
-.image-item:last-child {
-    border-bottom: none;
-}
-
-.sidebar-image-title {
-    margin-bottom: 12px;
-    font-size: 1.1em;
-    font-weight: 500;
-}
-
-.sidebar-image-title a {
-    color: #333;
-    text-decoration: none;
-}
-
-.sidebar-image-title a:hover {
-    text-decoration: underline;
-}
-
-.sidebar-image {
-    width: 100%;
-    border-radius: 4px;
-    margin-bottom: 12px;
-    display: block;
-}
-
-.sidebar-image-author {
-    font-size: 0.9em;
-    color: #666;
-}
-
-.sidebar-image-author a {
-    color: #666;
-    text-decoration: none;
-}
-
-.sidebar-image-author a:hover {
-    text-decoration: underline;
-}
-
-/* Zajištění responsivity pro tabulky */
-.main-content table {
-    width: 100%;
-    max-width: 100%;
-    overflow-x: auto;
-    display: block;
-}
-
-/* Media query pro větší obrazovky */
+/* Upravené Media query pro větší obrazovky s opraveným poměrem šířek */
 @media screen and (min-width: 1150px) {
-    .content-wrapper {
-        display: flex;
-        gap: 40px;
-        padding: 0 20px;
-    }
+  .content-wrapper {
+      display: flex;
+      gap: 40px;
+      padding: 0 20px;
+      align-items: flex-start; /* Zajistí zarovnání na horní okraj */
+  }
 
-    .main-content {
-        flex: 1;
-        min-width: 0; /* Důležité pro správné chování flexboxu */
-        max-width: calc(100% - 390px);
-    }
+  .main-content {
+      flex: 1;
+      min-width: 0;
+      width: calc(100% - 350px); /* Hlavní obsah zabírá většinu prostoru */
+  }
 
-    .image-gallery-sidebar {
-        display: block;
-        width: 350px;
-        flex-shrink: 0;
-        border-left: 1px solid #e0e0e0;
-        padding-left: 20px;
-    }
-
-    .image-gallery-sidebar h3 {
-        font-size: 1.2em;
-        font-weight: 500;
-        margin-bottom: 20px;
-        padding-bottom: 10px;
-        border-bottom: 2px solid #e0e0e0;
-    }
-
-    .main-content table {
-        display: table;
-    }
-}
-
-/* Specifické úpravy pro mobilní zařízení */
-@media screen and (max-width: 1149px) {
-    .content-wrapper {
-        min-width: 0;
-        width: 100%;
-    }
-
-    .main-content {
-        min-width: 0;
-        width: 100%;
-    }
+  .image-gallery-sidebar {
+      display: block;
+      width: 350px;
+      flex: 0 0 350px; /* Pevná šířka pravého sloupce */
+      border-left: 1px solid #e0e0e0;
+      padding-left: 20px;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
