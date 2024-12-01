@@ -577,14 +577,14 @@ tbody tr:hover {
 /* Základní layout */
 .content-wrapper {
     display: block;
-    max-width: 1600px;
+    width: 100%;
+    max-width: 1150px;
     margin: 0 auto;
     box-sizing: border-box;
-    padding: 0 20px;
+    padding: 0 15px;
 }
 
 .main-content {
-    min-width: 750px;
     width: 100%;
     box-sizing: border-box;
 }
@@ -593,7 +593,6 @@ tbody tr:hover {
 .image-gallery-sidebar {
     display: none;
     box-sizing: border-box;
-    width: 100%;
 }
 
 /* Styly pro jednotlivé položky v postranním panelu */
@@ -648,6 +647,7 @@ tbody tr:hover {
     .content-wrapper {
         display: flex;
         gap: 40px;
+        padding: 0 20px;
     }
 
     .main-content {
@@ -670,17 +670,6 @@ tbody tr:hover {
         margin-bottom: 20px;
         padding-bottom: 10px;
         border-bottom: 2px solid #e0e0e0;
-    }
-}
-
-/* Malé obrazovky - responsivní chování */
-@media screen and (max-width: 1149px) {
-    .content-wrapper {
-        padding: 0 15px;
-    }
-
-    .image-gallery-sidebar {
-        display: none;
     }
 }
 
