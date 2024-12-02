@@ -76,6 +76,8 @@ Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhr
 
 A co přinese budoucnost? 
 
-- Rok 2025: 3GPP Release 19
+![Jak bude pokračovat standardizace 5G v 3GPP](/assets/3GPP-5G-evolution.png)
+
+- Rok 2025: [3GPP Release 19](/mobilnisite/3gpp-release-19/)
 - Rok 2026: 3GPP Release 20
 - Rok 2027: 3GPP Release 21 jako 6G
