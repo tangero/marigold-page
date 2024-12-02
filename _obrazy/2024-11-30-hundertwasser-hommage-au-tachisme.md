@@ -12,7 +12,7 @@ urlobrazu: /assets/obrazy/hundertwasser-hommage.jpeg
  
 🎨 F. Hundertwasser (1928–2000) byl rakouský umělec, architekt a ekologický vizionář
 
-![Friedensreich Hundertwasser - Hommage au Tachisme 1961](/assets/obrazy/hundertwasser-hommage.jpeg)
+![Friedensreich Hundertwasser - Hommage au Tachisme 1961](/assets/obrazy/hundertwasser-hommage.jpg)
 
 🌿tento obraz je příkladem jeho unikátního stylu, který se vyhýbá přímým liniím, kombinuje živé barvy, organické tvary a propojuje umění s přírodou. \
 🌱 podle Hudertwassera jsou přímé linie jsou “nehumánní” a skutečná krása se nachází v nepravidelnostech přírody. \
