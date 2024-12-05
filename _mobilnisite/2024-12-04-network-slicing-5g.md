@@ -312,7 +312,7 @@ Procedura připojení uživatelského zařízení (User Equipment, UE) do 5G sí
 
 Tato sekvence zajišťuje řízení připojení UE do multimodální síťové infrastruktury s podporou Network Slicingu, přičemž zajišťuje adekvátní izolaci a QoS parametry pro různé typy síťových služeb.
 
-Na obrázku je vidět proces v grafu:
+Na obrázku je vidět proces podle specifikace 3GPP TS 23.501 v grafu:
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'background': '#ffffff' }}}%%
@@ -356,6 +356,30 @@ sequenceDiagram
     SMF-->>AMF2: Session Create Response
     AMF2-->>UE: PDU Session Establishment Accept
 ```
+
+## Historie vývoje Network Slicingu
+
+Jak vůbec Network Slicing vznikl a které firmy za ním stojí? Jeho vznik a standardizace byla velmi komplexní proces, na kterém se podílelo několik klíčových hráčů z telekomunikačního průmyslu.
+
+Nokia byla jedním z prvních průkopníků konceptu network slicingu, když v roce 2013 představila svoji vizi "Network Slicing for 5G". Společnost přišla s základními koncepty pro izolaci síťových zdrojů a jejich dedikaci různým typům služeb. Nokia také významně přispěla k definici architektury Service-Based Architecture (SBA), která je fundamentální pro implementaci network slicingu.
+
+Ericsson následně významně rozvinul koncept slicingu představením své architektury "Dynamic Network Slicing" v roce 2015. Společnost přinesla klíčové inovace v oblasti orchestrace a managementu network slice, včetně konceptů pro automatizovanou alokaci zdrojů a lifecycle management. Ericsson také významně přispěl k standardizaci Network Slice Management Function (NSMF).
+
+Huawei přišla s významným příspěvkem v oblasti RAN slicingu, když představila svoji technologii "CloudRAN" a koncepty pro flexibilní rozdělení rádiových zdrojů mezi různé slice. Společnost také významně přispěla k definici mechanismů pro izolaci a sdílení fyzických síťových zdrojů mezi virtuálními network slice.
+
+Samsung se zaměřil především na vývoj end-to-end řešení pro network slicing, včetně integrace s edge computing a podpory pro různé vertikální use-cases. Společnost významně přispěla k definici rozhraní mezi různými doménami network slice a k standardizaci slice-aware funkcí v RAN.
+
+ZTE přinesla významné inovace v oblasti automatizace a orchestrace network slice, včetně využití umělé inteligence pro optimalizaci alokace zdrojů. Společnost také přispěla k definici mechanismů pro dynamickou rekonfiguraci network slice.
+
+Deutsche Telekom jako významný operátor přispěl k definici praktických požadavků na implementaci network slicingu z pohledu poskytovatele služeb. Společnost se významně podílela na definici business requirements a use-cases pro network slicing.
+
+Všechny tyto příspěvky byly postupně integrovány do 3GPP standardů, počínaje Release 15, který představil základní koncepty network slicingu, přes Release 16, který přinesl pokročilé funkce pro management a orchestraci, až po současné Release 17 a 18, které dále rozvíjejí možnosti této technologie.
+
+Významnou roli v procesu standardizace hrála také NGMN (Next Generation Mobile Networks) Alliance, která již v roce 2015 publikovala svůj white paper definující základní požadavky a architekturu pro 5G network slicing. Tento dokument významně ovlivnil následný vývoj standardů v 3GPP.
+
+Nicméně práce na rozvoji Network Slicingu pokračují i v dalších Release standardu, takže se jistě přidá celé množství dalších firem. 
+
+## Závěr
 
 Tento vývoj schopností network slicingu napříč vydáními 3GPP ukazuje rostoucí sofistikovanost a vyspělost technologie. Architektonický dopad se rozšiřuje napříč všemi síťovými doménami a vyžaduje významné změny v návrhu, nasazení a provozu sítě. Od budoucích vydání se očekává další vylepšení těchto schopností, zejména v oblastech automatizace, optimalizace a přizpůsobení služeb.
 
