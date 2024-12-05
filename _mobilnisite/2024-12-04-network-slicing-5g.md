@@ -314,6 +314,49 @@ Tato sekvence zajišťuje řízení připojení UE do multimodální síťové i
 
 Na obrázku je vidět proces v grafu:
 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'background': '#ffffff' }}}%%
+sequenceDiagram
+    participant UE as User Equipment
+    participant RAN
+    participant AMF1 as Initial AMF
+    participant NSSF as Network Slice Selection Function
+    participant NRF as Network Repository Function
+    participant UDM as Unified Data Management
+    participant AMF2 as Target AMF
+    participant SMF as Session Management Function
+    participant UPF as User Plane Function
+
+    Note over UE,UPF: Initial Registration Process
+    UE->>RAN: Registration Request (Requested NSSAI)
+    RAN->>AMF1: Initial UE Message (Registration Request)
+    
+    Note over AMF1,NSSF: Network Slice Selection
+    AMF1->>NSSF: Slice Selection Request
+    NSSF->>NRF: NF Discovery Request
+    NRF-->>NSSF: NF Discovery Response
+    NSSF-->>AMF1: Slice Selection Response (Allowed NSSAI, Target AMF)
+    
+    Note over AMF1,UDM: Subscription Validation
+    AMF1->>UDM: Subscription Data Request
+    UDM-->>AMF1: Subscription Data Response
+    
+    alt AMF Reselection Required
+        AMF1->>AMF2: N14 Registration Redirection
+        AMF2->>UE: Registration Accept (Allowed NSSAI)
+    else No AMF Reselection
+        AMF1->>UE: Registration Accept (Allowed NSSAI)
+    end
+    
+    Note over UE,UPF: PDU Session Establishment
+    UE->>AMF2: PDU Session Establishment Request (S-NSSAI)
+    AMF2->>SMF: Session Create Request
+    SMF->>UPF: N4 Session Establishment
+    UPF-->>SMF: N4 Session Establishment Response
+    SMF-->>AMF2: Session Create Response
+    AMF2-->>UE: PDU Session Establishment Accept
+```
+
 ![Způsob připojování UE do Network Slicing sítě v Release 16](/assets/network-slice-selection.png)
 
 Tento vývoj schopností network slicingu napříč vydáními 3GPP ukazuje rostoucí sofistikovanost a vyspělost technologie. Architektonický dopad se rozšiřuje napříč všemi síťovými doménami a vyžaduje významné změny v návrhu, nasazení a provozu sítě. Od budoucích vydání se očekává další vylepšení těchto schopností, zejména v oblastech automatizace, optimalizace a přizpůsobení služeb.
