@@ -315,10 +315,6 @@ Tato sekvence zajišťuje řízení připojení UE do multimodální síťové i
 Na obrázku je vidět proces v grafu:
 
 ```mermaid
-  info
-```
-
-```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'background': '#ffffff' }}}%%
 sequenceDiagram
     participant UE as User Equipment
@@ -360,8 +356,6 @@ sequenceDiagram
     SMF-->>AMF2: Session Create Response
     AMF2-->>UE: PDU Session Establishment Accept
 ```
-
-![Způsob připojování UE do Network Slicing sítě v Release 16](/assets/network-slice-selection.png)
 
 Tento vývoj schopností network slicingu napříč vydáními 3GPP ukazuje rostoucí sofistikovanost a vyspělost technologie. Architektonický dopad se rozšiřuje napříč všemi síťovými doménami a vyžaduje významné změny v návrhu, nasazení a provozu sítě. Od budoucích vydání se očekává další vylepšení těchto schopností, zejména v oblastech automatizace, optimalizace a přizpůsobení služeb.
 
