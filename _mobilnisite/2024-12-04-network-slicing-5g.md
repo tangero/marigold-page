@@ -315,6 +315,10 @@ Tato sekvence zajišťuje řízení připojení UE do multimodální síťové i
 Na obrázku je vidět proces v grafu:
 
 ```mermaid
+  info
+```
+
+```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'background': '#ffffff' }}}%%
 sequenceDiagram
     participant UE as User Equipment
