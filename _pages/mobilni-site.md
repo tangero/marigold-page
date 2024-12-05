@@ -48,6 +48,7 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 - ⚡️ [Integrated Access and Backhaul (IAB)](/item/integrated_access_and_backhaul_iab_5G/) čili Integrované přístupové a páteřní propojení
 - 🕑 [Ultra-reliable low latency communication (URLLC)](/mobilnisite/urllc/) tedy podpora Ultra spolehlivá komunikace s nízkou latencí
 - 🤖 [AI-RAN](/mobilnisite/AI-RAN/) - radiová přístupová síť optimalizovaná pro provoz AI aplikací
+- 📶 [Network Slicing](/mobilnisite/network-slicing-5g/) - plátky sítě oddělené pro různé typy služeb
 
 ### Standardizace a vývoj nových funkcí v 3GPP
 
