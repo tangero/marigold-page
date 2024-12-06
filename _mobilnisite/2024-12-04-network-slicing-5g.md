@@ -17,7 +17,7 @@ Koncept je ostatně zřejmý z následujícího obrázku.
 
 Pojďme si podrobněji posat, co se na obrázku děje.
 
-Tento diagram ilustruje sofistikovanou implementaci Network Slicing architektury podle 3GPP Release 16 v 5G síti, demonstrující tři distinktivní end-to-end network slice instance optimalizované pro specifické uživatelské scénáře:
+Tento diagram ilustruje implementaci Network Slicing architektury podle 3GPP Release 16 v 5G síti, demonstrující tři oddělené síťové slice optimalizované pro specifické uživatelské scénáře:
 
 1. UHD Video Slice pro přenos vysokorychlostního videa
 - Implementuje specializovanou konfiguraci pro vysokorychlostní přenos Ultra HD video obsahu
