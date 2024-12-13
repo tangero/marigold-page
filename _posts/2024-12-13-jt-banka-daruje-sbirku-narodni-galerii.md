@@ -16,4 +16,4 @@ Děkuji, tleskám, smekám. Od J&T je to počin, který se jim nemůže vyplatit
 
 Už se těším, až se na sbírku půjdu podívat, prý by měla už brzy doplnit stálou výstavu ve Veletržním paláci. To je dobře, na tak velký prostor je tam obrovské množství nevyužitého místa. 
 
-*A na závěr: víte, že zde mám [rubriku Art/Obrazy](/obrazy/)? Začal jsem do ní přidávat obrazy, které mám rád nebo mne zaujaly. *
+**A na závěr:** víte, že zde mám [rubriku Art/Obrazy](/obrazy/)? Začal jsem do ní přidávat obrazy, které mám rád nebo mne zaujaly.
