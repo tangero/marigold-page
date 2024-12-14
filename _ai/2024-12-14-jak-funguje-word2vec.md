@@ -31,7 +31,7 @@ Model pracuje ve dvou hlavních krocích:
 
 Predikce ve Word2vec je matematický proces, který převádí vstupní slovo na pravděpodobnosti výskytu okolních slov. Pojďme si tento proces rozebrat krok po kroku.
 
-'''mermaid
+```mermaid
 flowchart LR
     A[Vstupní slovo] -->|One-hot vektor| B[Vstupní matice]
     B -->|Násobení| C[Skrytá vrstva]
@@ -43,7 +43,7 @@ flowchart LR
     style C fill:#bfb,stroke:#333
     style D fill:#fbb,stroke:#333
     style E fill:#ff9,stroke:#333
-'''    
+``` 
 
 #### 1. Reprezentace vstupního slova
 
