@@ -14,6 +14,7 @@ Zde najdete články zaměřené na umělou inteligenci a její využití v růz
 🗞️ [Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/) \
 🤖 [Zápis z porady či jednání pomocí umělé inteligence](/item/zapisy_z_porad_pomoci_ai/) \
 🎧 [Jak vytvořit audio podcast z vašich textů automaticky pomocí AI](/item/podcasty-z-textu-automaticky/) \
+🔎 [Hluboký výzkum tématu s vygenerovanou zprávou pomocí Google Gemini Deep Research](/item/Google-Gemini-Deep-Research/)
 
 
 
