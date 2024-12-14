@@ -37,7 +37,7 @@ A dostail jsem dobrou a vyčerpávající odpověď, která mne uspokojila jak r
 
 ### Doporučené workflow pro češtinu 
 
-I v případě, že anglicky nevládnete perfektně, lze službu opravdu silně doporučit. Jen si vypomůžeme s překladovými službami. [https://www.deepl.com](Deepl.com) umí přeložit kratší texty zdarma, takže je ideální minimálně na vytvoření dotazu. Prostě dotaz vymyslíte v češtině, přeložíte jej do angličtiny a zadáte do Deep Research. Stejně tak si poradíte při upřesňování výzkumného plánu. 
+I v případě, že anglicky nevládnete perfektně, lze službu opravdu silně doporučit. Jen si vypomůžeme s překladovými službami. [Deepl.com](https://www.deepl.com) umí přeložit kratší texty zdarma, takže je ideální minimálně na vytvoření dotazu. Prostě dotaz vymyslíte v češtině, přeložíte jej do angličtiny a zadáte do Deep Research. Stejně tak si poradíte při upřesňování výzkumného plánu. 
 
 Výslednou práci si můžete nechat převést do Google Dokumentu a buďto si jej stáhnout a převést pomocí Deepl do češtiny (vzhledem k rozsahu placené) nebo použít funkci Dokumentů Nástroje → Přeložit dokument, kdy vám bude dokument přeložen službou Google Translator. Překlad není tak čtivý, ale je srozumitelné a můžete jej použít. Podívat se na přeloženou [českou verzi zprávy o vážení automobilů kamerami můžete zde](https://docs.google.com/document/d/1dqK74vVQoGuFTb2LjSQMSRzxF1Kd2yvBjgwhv5XKOFo/edit?usp=sharing). 
 
