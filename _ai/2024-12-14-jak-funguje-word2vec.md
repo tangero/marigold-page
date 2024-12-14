@@ -98,6 +98,105 @@ V praxi se používají různá vylepšení pro zefektivnění výpočtu:
 
 Celý tento proces predikce se během tréninku neustále opakuje a model postupně upravuje váhy ve vstupní a výstupní matici tak, aby jeho předpovědi byly co nejpřesnější.
 
+Vysvětlím proces učení ve Word2vec modelu.
+
+
+
+## Proces učení ve Word2vec
+
+Učení je klíčovým procesem, při kterém se Word2vec model zdokonaluje ve svých predikcích. Pojďme si podrobně vysvětlit, jak tento proces funguje. Učení ve Word2vec je založeno na principu minimalizace chyby mezi tím, co model předpověděl, a tím, co skutečně pozorujeme v textu. Proces probíhá v několika krocích:
+
+#### 1. Výpočet chyby
+
+Pro každou predikci model vypočítá chybu. Představme si konkrétní příklad:
+- Máme větu: "Kočka sedí na koberci"
+- Model se snaží předpovědět slovo "koberci" na základě kontextu "na"
+- Model možná předpoví:
+  - koberci: 0.3
+  - střeše: 0.2
+  - židli: 0.15
+  
+Skutečnost je, že "koberci" má mít pravděpodobnost 1 a ostatní slova 0. Rozdíl mezi těmito hodnotami tvoří chybu.
+
+#### 2. Zpětná propagace chyby
+
+Chyba se následně "propaguje" zpět skrz síť. Používá se k tomu matematická operace zvaná gradient, který určuje, jak by se měly změnit váhy v obou maticích (vstupní i výstupní), aby se chyba zmenšila.
+
+#### 3. Úprava vah - Gradientní sestup
+
+Model používá techniku zvanou gradientní sestup. Je to jako když se snažíte najít dno údolí v mlze:
+1. Zjistíte, kterým směrem vede cesta dolů (gradient)
+2. Uděláte malý krok tímto směrem
+3. Znovu zjistíte směr a opakujete
+
+V kontextu Word2vec to znamená:
+- Malé úpravy čísel ve vstupní matici (reprezentace vstupních slov)
+- Malé úpravy čísel ve výstupní matici (predikce kontextových slov)
+
+#### 4. Učící parametry
+
+Důležitou roli hrají tzv. učící parametry:
+- Velikost kroku (learning rate): jak velké změny se provádějí
+- Velikost dávky (batch size): kolik příkladů se zpracuje najednou
+- Počet epoch: kolikrát se projde celý dataset
+
+
+```mermaid
+flowchart TD
+    A[Predikovaná pravděpodobnost] --> B[Výpočet chyby]
+    C[Skutečná hodnota] --> B
+    B --> D[Gradient chyby]
+    D --> E[Úprava vah výstupní matice]
+    D --> F[Úprava vah vstupní matice]
+    
+    style A fill:#f9f,stroke:#333
+    style B fill:#f66,stroke:#333
+    style C fill:#6f6,stroke:#333
+    style D fill:#66f,stroke:#333
+    style E fill:#ff9,stroke:#333
+    style F fill:#ff9,stroke:#333
+```    
+
+### Optimalizační techniky
+
+Word2vec používá několik technik pro zefektivnění učení:
+
+#### Negative Sampling
+Místo úpravy vah pro všechna slova ve slovníku se upravují jen váhy pro:
+- Správné slovo (positive sample)
+- Několik náhodně vybraných nesprávných slov (negative samples)
+
+To výrazně zrychluje učení při zachování kvality výsledků.
+
+#### Stochastic Gradient Descent (SGD)
+- Nepočítá se gradient pro celý dataset najednou
+- Používají se malé náhodné vzorky dat
+- Umožňuje učit model i na velkých datasetech
+
+#### Adaptivní učící rychlost
+- Učící rychlost se může měnit během tréninku
+- Na začátku větší kroky pro rychlé učení
+- Později menší kroky pro jemné doladění
+
+### Konvergence učení
+
+Proces učení pokračuje, dokud:
+1. Model nedosáhne předem stanoveného počtu iterací, nebo
+2. Chyba neklesne pod určitou hranici, nebo
+3. Chyba se přestane významně zmenšovat
+
+Na konci učení máme model, který:
+- Umí reprezentovat slova jako vektory
+- Zachycuje sémantické vztahy mezi slovy
+- Dokáže předpovídat slova na základě kontextu
+
+Kvalitu naučeného modelu lze testovat různými způsoby:
+- Analogické úlohy (král - muž + žena = královna)
+- Hledání podobných slov
+- Shlukování slov do významových skupin
+
+Celý tento proces učení je to, co dává Word2vec jeho schopnost zachytit významy slov a jejich vzájemné vztahy v podobě číselných vektorů.
+
 ## Architektura modelu
 
 První diagram ukazuje základní architekturu Word2vec Skip-gram modelu:
@@ -105,7 +204,36 @@ První diagram ukazuje základní architekturu Word2vec Skip-gram modelu:
 - Skrytá vrstva vytváří hustou reprezentaci slova
 - Výstupní vrstvy předpovídají okolní slova
 
+```mermaid
+flowchart TD
+    A[Input Layer<br>One-hot encoded word] --> B[Hidden Layer<br>Dense vector]
+    B --> C1[Output 1]
+    B --> C2[Output 2]
+    B --> C3[Output 3]
+    B --> C4[Output 4]
+    
+    style A fill:#f9f,stroke:#333
+    style B fill:#bbf,stroke:#333
+    style C1 fill:#bfb,stroke:#333
+    style C2 fill:#bfb,stroke:#333
+    style C3 fill:#bfb,stroke:#333
+    style C4 fill:#bfb,stroke:#333
+```  
+
 Druhý diagram ukazuje, jak model pracuje s kontextovým oknem - v našem příkladu se slovo "sat" učí předpovídat slova "cat" a "on" ve svém okolí.
+
+```mermaid
+flowchart LR
+    A["the"] --> B["cat"]
+    B --> C["sat"]
+    C --> D["on"]
+    D --> E["the"]
+    E --> F["mat"]
+    
+    style C fill:#f96,stroke:#333
+    style B fill:#bbf,stroke:#333
+    style D fill:#bbf,stroke:#333
+```
 
 ## Praktické využití
 
