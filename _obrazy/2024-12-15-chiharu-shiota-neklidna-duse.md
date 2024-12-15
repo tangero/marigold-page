@@ -34,7 +34,7 @@ Jde o dvě díla, dvě místnosti, pokud máte roční abonmá, vyplatí se, sam
 
 PS: Jestli máte takovéto vtahování do světa umění přímo do uměleckých objektů rádi, doporučím vyčíhnout si ještě [Jiřího Příhodu](https://www.jiriprihoda.cz/), dělá fantastické objektové a objemové instalace. A ze zahraničních pak určitě [Cristina Iglesias](https://cristinaiglesias.com/), to samozřejmě pro případ, že bychom chtěli nějaké umění do veřejného prostoru a nemusel by to být zrovna David Černý. 
 
-A ještě dvě fotky z instalace Chiharu Shioty:
+A ještě dvě fotky z instalace Chiharu Shioty - a mrkněte na její další instalace na [jejím Instagramu](https://www.instagram.com/chiharushiota/). 
 
 ![Chiharu Shiota - Červená síť](/assets/obrazy/IMG_5586.jpeg)
 
