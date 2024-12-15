@@ -32,7 +32,7 @@ Bohužel červenou instalací se nemůže procházet mezi vlákny a do osudů se
 
 Jde o dvě díla, dvě místnosti, pokud máte roční abonmá, vyplatí se, samostatné vstupné bez toho, že zajdete i na jinou expozici bych asi neplatil ...
 
-PS: Jestli máte takovéto vtahování do světa umění přímo do uměleckých objektů rádi, doporučím vyčíhnout si ještě [https://www.jiriprihoda.cz/](Jiřího Příhodu), dělá fantastické objektové a objemové instalace. A ze zahraničních pak určitě Cristina Iglesias](https://cristinaiglesias.com/), to samozřejmě pro případ, že bychom chtěli nějaké umění do veřejného prostoru a nemusel by to být zrovna David Černý. 
+PS: Jestli máte takovéto vtahování do světa umění přímo do uměleckých objektů rádi, doporučím vyčíhnout si ještě [Jiřího Příhodu](https://www.jiriprihoda.cz/), dělá fantastické objektové a objemové instalace. A ze zahraničních pak určitě [Cristina Iglesias](https://cristinaiglesias.com/), to samozřejmě pro případ, že bychom chtěli nějaké umění do veřejného prostoru a nemusel by to být zrovna David Černý. 
 
 A ještě dvě fotky z instalace Chiharu Shioty:
 
