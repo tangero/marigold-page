@@ -27,48 +27,56 @@ EPC nahradilo starší GPRS Core, respektive UMTS Packet Core, které bylo navr�
 Zatímco starší architektura pracovala s uzly jako SGSN (Serving GPRS Support Node) a GGSN (Gateway GPRS Support Node), v EPC došlo k jejich nahrazení a zároveň k výraznému přepracování celkové topologie. EPC se skládá z několika klíčových komponent:
 
 1.	MME (Mobility Management Entity):
-    •	Čistě řídicí prvek EPC, starající se o signalizaci, registraci uživatelů v síti, přidělování dočasných identit a řízení mobilnosti (handovery mezi eNodeB).
-    •	MME neřeší přímo uživatelská data, pouze řídí spojení a autentizaci uživatelů.
-    •	Nahradil funkcionality SGSN v kontrolní rovině a výrazně je zjednodušil.
+    - 	Čistě řídicí prvek EPC, starající se o signalizaci, registraci uživatelů v síti, přidělování dočasných identit a řízení mobilnosti (handovery mezi eNodeB).
+    - 	MME neřeší přímo uživatelská data, pouze řídí spojení a autentizaci uživatelů.
+    -	Nahradil funkcionality SGSN v kontrolní rovině a výrazně je zjednodušil.
 2.	S-GW (Serving Gateway):
-	•	Prvek zajišťující přepojování uživatelských datových paketů mezi rádiovou přístupovou sítí (eNodeB) a páteřní (IP) sítí.
-	•	S-GW funguje jako kotva pro mobilitu v rámci LTE sítě. Pokud se uživatel pohybuje mezi různými eNodeB, S-GW udržuje datovou cestu, aniž by bylo nutné měnit koncové adresování.
-	•	Nahradil uživatelskou rovinu SGSN.
+•	Prvek zajišťující přepojování uživatelských datových paketů mezi rádiovou přístupovou sítí (eNodeB) a páteřní (IP) sítí.
+•	S-GW funguje jako kotva pro mobilitu v rámci LTE sítě. Pokud se uživatel pohybuje mezi různými eNodeB, S-GW udržuje datovou cestu, aniž by bylo nutné měnit koncové adresování.
+•	Nahradil uživatelskou rovinu SGSN.
 3.	P-GW (Packet Data Network Gateway):
-	•	Brána k vnějším paketovým sítím (např. internet, operátorské služby, IMS platforma).
-	•	P-GW provádí úkoly jako přidělování IP adres uživatelům a zajišťuje QoS (Quality of Service) pravidla, firewalling, směrování a IP politiku.
-	•	Svým způsobem odpovídá dřívějšímu GGSN, avšak s mnohem pokročilejší logikou a IP funkcionalitami.
+•	Brána k vnějším paketovým sítím (např. internet, operátorské služby, IMS platforma).
+•	P-GW provádí úkoly jako přidělování IP adres uživatelům a zajišťuje QoS (Quality of Service) pravidla, firewalling, směrování a IP politiku.
+•	Svým způsobem odpovídá dřívějšímu GGSN, avšak s mnohem pokročilejší logikou a IP funkcionalitami.
 4.	PCRF (Policy and Charging Rules Function) a PCEF (Policy and Charging Enforcement Function):
-	•	Tyto prvky dávají operátorům granulární kontrolu nad kvalitou služeb, řízením kapacit, účtováním (billing) a dalšími pokročilými funkcemi.
-	•	PCRF definuje pravidla pro konkrétní služby, zatímco P-GW s PCEF je aplikuje na data, která proudí přes EPC.
+•	Tyto prvky dávají operátorům granulární kontrolu nad kvalitou služeb, řízením kapacit, účtováním (billing) a dalšími pokročilými funkcemi.
+•	PCRF definuje pravidla pro konkrétní služby, zatímco P-GW s PCEF je aplikuje na data, která proudí přes EPC.
 5.	HSS (Home Subscriber Server):
-	•	Centralizovaná databáze obsahující informace o uživatelích, jejich autentizaci a oprávnění k přístupu k síti.
-	•	Odpovídá dřívější kombinaci HLR (Home Location Register) a AUC (Authentication Center), avšak s rozšířenými schopnostmi.
+•	Centralizovaná databáze obsahující informace o uživatelích, jejich autentizaci a oprávnění k přístupu k síti.
+•	Odpovídá dřívější kombinaci HLR (Home Location Register) a AUC (Authentication Center), avšak s rozšířenými schopnostmi.
 
 Výsledkem je čistá, jednoduchá a efektivní architektura
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'background': '#ffffff' }}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'background': '#ffffff', 'primaryColor': '#fff', 'textAlignment': 'center' }}}%%
 graph TB
-    %% Access Network
+    subgraph EPC[Evolved Packet Core]
+        style EPC fill:#f5f5f5,stroke:#333,stroke-width:2px
+        
+        MME[MME<br>Mobility Management Entity]
+        HSS[HSS/AuC<br>Home Subscriber Server]
+        SGW[S-GW<br>Serving Gateway]
+        PGW[P-GW<br>PDN Gateway]
+        PCRF[PCRF<br>Policy & Charging Rules]
+
+        %% Control Plane
+        MME -- Authentication --> HSS
+        MME -- Session Control --> SGW
+        MME -- Bearer Setup --> PGW
+        
+        %% User Plane
+        SGW -- User Data --> PGW
+        
+        %% Policy and Charging
+        PCRF --> PGW
+        PCRF --> SGW
+    end
+    
+    %% External connections
     UE[User Equipment] --> eNB[eNodeB]
-    
-    %% Control Plane and User Plane Split
-    eNB --> MME[MME<br>Mobility Management Entity]
-    eNB --> SGW[S-GW<br>Serving Gateway]
-    
-    %% Control Plane
-    MME -- Authentication --> HSS[HSS/AuC<br>Home Subscriber Server]
-    MME -- Session Control --> SGW
-    MME -- Bearer Setup --> PGW[P-GW<br>PDN Gateway]
-    
-    %% User Plane
-    SGW -- User Data --> PGW
+    eNB --> MME
+    eNB --> SGW
     PGW --> Internet[Internet/IMS]
-    
-    %% Policy and Charging
-    PCRF[PCRF<br>Policy & Charging Rules] --> PGW
-    PCRF --> SGW
     
     %% Interfaces
     eNB -. S1-MME .-> MME
@@ -91,9 +99,9 @@ graph TB
 
 
 V čem EPC skutečně vyniká? Především v tom, že sjednocuje komunikaci v jeden datový tok a minimalizuje počet mezilehlých uzlů v řídicí i uživatelské rovině. To vede k:
-•	Zvýšení propustnosti sítě a zkrácení latence: Pro uživatele to znamená plynulejší videostreaming, rychlejší webové prohlížení a obecně lepší uživatelský dojem.
-•	Lepší integraci s dalšími technologiemi: Například VoLTE (Voice over LTE) je postavena na čistě IP bázi a EPC jí umožňuje hladkou integraci. Stejně tak M2M/IoT komunikace těží z jednoduchosti a škálovatelnosti EPC.
-•	Možnost flexibilních přístupů k řízení kvality a účtování služeb: Díky PCRF a pokročilým funkcím P-GW mají operátoři nástroje ke spravedlivějšímu a flexibilnějšímu nastavení priorit a účtování datových služeb.
+- 	Zvýšení propustnosti sítě a zkrácení latence: Pro uživatele to znamená plynulejší videostreaming, rychlejší webové prohlížení a obecně lepší uživatelský dojem.
+- 	Lepší integraci s dalšími technologiemi: Například VoLTE (Voice over LTE) je postavena na čistě IP bázi a EPC jí umožňuje hladkou integraci. Stejně tak M2M/IoT komunikace těží z jednoduchosti a škálovatelnosti EPC.
+- 	Možnost flexibilních přístupů k řízení kvality a účtování služeb: Díky PCRF a pokročilým funkcím P-GW mají operátoři nástroje ke spravedlivějšímu a flexibilnějšímu nastavení priorit a účtování datových služeb.
 
 ## Závěr
 
