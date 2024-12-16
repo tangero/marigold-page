@@ -15,8 +15,6 @@ Stručný a poměrně pochopitelný úvod do toho, jak mobilní sítě fungují.
 | Typická hustota uživatelů na km² | 100 | 1 000 | 10 000 | 1 000 000 | 10 000 000 |
 | Rok počátku rozvoje | 1991 | 2002 | 2012 | 2020 | 2030 |
 
-- ☎️ [Vývoj mobilních sítí od GSM přes 3G až k sítím 5G](/mobilnisite/mobilni-site-od-GSM-k-5G/) - shrnující přehled architektonických změn v průběhu času
-
 ## Videotutoriály pro úplné začátečníky
 - [Proč jsou buňkové sítě zrovna buňkové?](https://www.youtube.com/watch?v=pz5OVB5PXA0)
 - [Co je to multiplexování?](https://www.youtube.com/watch?v=FESczYohAfE)
@@ -32,8 +30,9 @@ Stručný a poměrně pochopitelný úvod do toho, jak mobilní sítě fungují.
 - co jsou [rychlé datové přenosy v 3G pomocí HSDPA](/item/podpora-hsdpa-v-umts-release-5) - a popis toho, [jak HSDPA funguje](/item/high-speed-downlink-packet-access-hsdpa)
 
 ### Obecně k mobilním sítím
-- Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k sítím 5G aneb skoro vše, co nepotřebujete vědět](/item/cesta-k-sitim-5g-aneb-skoro-vse-co-nepotrebujete-vedet/)
-- [Signalizace v mobilních sítích](/mobilnisite/signalizace-v-mobilnich-sitich/)
+- ⏱️ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k sítím 5G aneb skoro vše, co nepotřebujete vědět](/item/cesta-k-sitim-5g-aneb-skoro-vse-co-nepotrebujete-vedet/)
+- ☎️ [Vývoj mobilních sítí od GSM přes 3G až k sítím 5G](/mobilnisite/mobilni-site-od-GSM-k-5G/) - shrnující přehled architektonických změn v průběhu času
+- 🛜 [Signalizace v mobilních sítích](/mobilnisite/signalizace-v-mobilnich-sitich/)
 
 ### LTE
 - nová architektura Jádra sítě se jmenuje [Evolved Packet Core (EPC)](/mobilnisite/epc-evolved-packet-core-lte/)
