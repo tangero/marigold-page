@@ -11,6 +11,8 @@ Tahle funkce [Google Gemini](https://gemini.google.com) je naprosto úžasná v 
 
 Nejprve upozornění: Deep Research funguje jen v angličtině, pokud máte produkty Gemini a Google obecně přepnuté do češtiny, nemůžete ji použít. Stačí si nicméně v Nastavení přepnout jazyk na Angličtinu a v menu se vám model Gemini 1.5 Pro with Deep Research objeví. Nicméně odteď můžete komunikovat jen anglicky, čili je nutné si nejdříve formulovat zadání v angličtině. Hloubkový výzkum běží v rámci Gemini Advanced (počínaje angličtinou) na počítači a mobilním webu a v mobilní aplikaci bude k dispozici na začátku roku 2025. 
 
+> **Upozornění:** Zejména v případě, že k tématu je příliš málo dat, má AI tendenci "halucinovat". Ověřte si tedy všechna tvrzení, na kterých záleží. Počítejte také s tím, že DR vám nenavrhne nové přelomové řešení, spíše sumarizuje (na webu) existující možnosti a navrhne další postup. Samotný další výzkum ale už neprovede.  
+
 ![Volba Deep Research je vidět jen v anglické verzi](/assets/deep-research-option.png)
 
 Vyzkoušíme něco složitého, na co nejde "vygooglovat" jednoduchá a přímočará odpověď, ale na co je opravdu udělat průzkum.
@@ -33,7 +35,7 @@ Po provedení výzkumu už nemůžete plán výzkumu upravovat, editovat, může
 
 > Není levnější používat jiné možnosti zjištění váhy projíždějícího vozidla? 
 
-A dostail jsem dobrou a vyčerpávající odpověď, která mne uspokojila jak rozsahem, tak hloubkou úvahy. 
+A dostal jsem dobrou a vyčerpávající odpověď, která mne uspokojila jak rozsahem, tak hloubkou úvahy. 
 
 ### Doporučené workflow pro češtinu 
 
