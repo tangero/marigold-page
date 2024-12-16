@@ -67,9 +67,7 @@ Poslední krok převádí tato skóre na pravděpodobnosti pomocí softmax funkc
 
 Pro každé slovo i ve slovníku se vypočítá pravděpodobnost jako:
 
-```math
 P(slovo_i) = exp(skóre_i) / suma(exp(skóre_všech_slov))
-```
 
 Tento vzorec zajistí, že:
 - Všechny pravděpodobnosti jsou kladná čísla
