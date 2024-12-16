@@ -15,6 +15,7 @@ Stručný a poměrně pochopitelný úvod do toho, jak mobilní sítě fungují.
 | Typická hustota uživatelů na km² | 100 | 1 000 | 10 000 | 1 000 000 | 10 000 000 |
 | Rok počátku rozvoje | 1991 | 2002 | 2012 | 2020 | 2030 |
 
+- ☎️ [Vývoj mobilních sítí od GSM přes 3G až k sítím 5G](/mobilnisite/mobilni-site-od-GSM-k-5G/) - shrnující přehled architektonických změn v průběhu času
 
 ## Videotutoriály pro úplné začátečníky
 - [Proč jsou buňkové sítě zrovna buňkové?](https://www.youtube.com/watch?v=pz5OVB5PXA0)

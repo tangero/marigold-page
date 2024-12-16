@@ -249,7 +249,7 @@ Zatímco 5G Advanced se stále vyvíjí, výzkumné a vývojové úsilí pro 6G 
 
 Tyto pokroky budou pravděpodobně vyžadovat další vývoj síťové architektury, aby podporovala nové schopnosti a požadavky 6G.
 
-## **Syntéza**
+## **Shrnutí toho, co jsme se dozvěděli**
 
 Vývoj síťové architektury 3GPP od verze 98 po verzi 18 byl veden potřebou podporovat stále se zvyšující rychlost přenosu dat, nižší latenci a větší kapacitu. Tento vývoj zahrnoval významné změny v páteřní síti, technologiích rádiového přístupu a celkové architektuře sítě.
 
