@@ -29,6 +29,34 @@ Zajímavá otázka je, zda toto znamená, že vyrobením jediného kvantového p
 
 Zní to famózně, má to všechno své drobné slabiny. Například to, že kvantový počítač je extrémně složité vyrobit. Všechno je extrémně nízké: teploty, rozměry, snad jen rozpočty musí být extrémně vysoké. Podle některých kritiků kvůli tomu nebudou kvantové počítače nikdy praktické, budou jen takovou hračkou nebo velmi specializovaným počítačem pro vzácné typy úloh. Nu - kdo by byl před padesáti lety řekl, že budeme mít supervýkonný počítač připojený na internet v kapse? Tvrdší kritika se objevuje i z renomovaných zdrojů, například letos v květnu v [časopisu Nature](https://www.nature.com/articles/d41586-023-01692-9), kde se přímo píše, že kvantové počítače zatím nejsou k ničemu. Podobně kritický byl také šéfarchitekt švýcarského superpočítačového centra Torsten Hoefler ve článku [Oddělit hype od praktičnosti: O reálném dosažení kvantové výhody](https://cacm.acm.org/magazines/2023/5/272276-disentangling-hype-from-practicality-on-realistically-achieving-quantum-advantage/fulltext), který suše konstatuje: "naše analýza ukazuje, že široká škála často citovaných aplikací pravděpodobně nepovede k praktickému kvantovému náskoku bez významných algoritmických vylepšení." Bude potřeba přijít s novými algoritmy, které výhod kvantových počítačů využijí.
 
+```mermaid
+graph TD
+    A[Základní princip kvantového počítače] --> B[Qubity]
+    B --> C1[Superpozice]
+    B --> C2[Propletení Entanglement]
+    B --> C3[Interference]
+    B --> D[Kvantové brány]
+    D --> E1[Hadamardova brána H]
+    D --> E2[Pauliho brány X Y Z]
+    D --> E3[Česká brána CNOT]
+    D --> E4[T-brána]
+    B --> F[Chyby a korekce]
+    F --> G[Chybové kódy]
+    A --> H[Vstupy a výstupy]
+    H --> I[Vstupní data qubity]
+    I --> J[Manipulace qubity kvantovými branami]
+    J --> K[Měření qubitů]
+    K --> L[Kolaps vlnové funkce klasický výsledek]
+    A --> M[Výpočetní prostředky]
+    M --> N[Kvantový procesor jako iontové pasti supravodivé obvody]
+    M --> O[Kryogenní chlazení]
+    M --> P[Řídicí elektronika]
+    M --> Q[Software kvantové programování]
+    Q --> R[Algoritmy Shorův Groverův]
+    Q --> S[Simulace kvantového systému]
+```
+
+
 Podle Hoeflera jsou nejslibnějšími kandidáty na dosažení zrychlení pomocí kvantových počítačů "problémy s malými daty", například v chemii a materiálových vědách. Článek však také dochází k závěru, že velká řada uvažovaných potenciálních aplikací, jako je strojové učení, "nedosáhne v dohledné době kvantové výhody se současnými kvantovými algoritmy", a identifikoval vstupně-výstupní omezení, která činí zrychlení nepravděpodobným například pro tak zajímavé a atraktivní problémy s velkými daty.
 
 Jsou tu i strukturálně-existenční výhrady. Paul Davies tvrdí, že 400-qubitový počítač by se dostal do rozporu s kosmologickou informační mezí, kterou předpokládá holografický princip. Podle něj pozorovatelný vesmír představuje konečnou kauzální oblast s omezenými materiálními a informačními zdroji a takový kvantový počítač by je přesáhl s neznámými následky, nebo naopak přesáhnout nemohl - a tím by nepřekonal hranici nutnou ke kvantové nadřazenosti.
