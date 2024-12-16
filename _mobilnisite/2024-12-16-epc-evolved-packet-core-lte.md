@@ -23,60 +23,66 @@ EPC nahradilo starší GPRS Core, respektive UMTS Packet Core, které bylo navr�
 ## Architektonické změny a nové funkční prvky v EPC
 
 Zatímco starší architektura pracovala s uzly jako SGSN (Serving GPRS Support Node) a GGSN (Gateway GPRS Support Node), v EPC došlo k jejich nahrazení a zároveň k výraznému přepracování celkové topologie. EPC se skládá z několika klíčových komponent:
-	1.	MME (Mobility Management Entity):
-	•	Čistě řídicí prvek EPC, starající se o signalizaci, registraci uživatelů v síti, přidělování dočasných identit a řízení mobilnosti (handovery mezi eNodeB).
-	•	MME neřeší přímo uživatelská data, pouze řídí spojení a autentizaci uživatelů.
-	•	Nahradil funkcionality SGSN v kontrolní rovině a výrazně je zjednodušil.
-	2.	S-GW (Serving Gateway):
+1.	MME (Mobility Management Entity):
+    •	Čistě řídicí prvek EPC, starající se o signalizaci, registraci uživatelů v síti, přidělování dočasných identit a řízení mobilnosti (handovery mezi eNodeB).
+    •	MME neřeší přímo uživatelská data, pouze řídí spojení a autentizaci uživatelů.
+    •	Nahradil funkcionality SGSN v kontrolní rovině a výrazně je zjednodušil.
+2.	S-GW (Serving Gateway):
 	•	Prvek zajišťující přepojování uživatelských datových paketů mezi rádiovou přístupovou sítí (eNodeB) a páteřní (IP) sítí.
 	•	S-GW funguje jako kotva pro mobilitu v rámci LTE sítě. Pokud se uživatel pohybuje mezi různými eNodeB, S-GW udržuje datovou cestu, aniž by bylo nutné měnit koncové adresování.
 	•	Nahradil uživatelskou rovinu SGSN.
-	3.	P-GW (Packet Data Network Gateway):
+3.	P-GW (Packet Data Network Gateway):
 	•	Brána k vnějším paketovým sítím (např. internet, operátorské služby, IMS platforma).
 	•	P-GW provádí úkoly jako přidělování IP adres uživatelům a zajišťuje QoS (Quality of Service) pravidla, firewalling, směrování a IP politiku.
 	•	Svým způsobem odpovídá dřívějšímu GGSN, avšak s mnohem pokročilejší logikou a IP funkcionalitami.
-	4.	PCRF (Policy and Charging Rules Function) a PCEF (Policy and Charging Enforcement Function):
+4.	PCRF (Policy and Charging Rules Function) a PCEF (Policy and Charging Enforcement Function):
 	•	Tyto prvky dávají operátorům granulární kontrolu nad kvalitou služeb, řízením kapacit, účtováním (billing) a dalšími pokročilými funkcemi.
 	•	PCRF definuje pravidla pro konkrétní služby, zatímco P-GW s PCEF je aplikuje na data, která proudí přes EPC.
-	5.	HSS (Home Subscriber Server):
+5.	HSS (Home Subscriber Server):
 	•	Centralizovaná databáze obsahující informace o uživatelích, jejich autentizaci a oprávnění k přístupu k síti.
 	•	Odpovídá dřívější kombinaci HLR (Home Location Register) a AUC (Authentication Center), avšak s rozšířenými schopnostmi.
 
 Výsledkem je čistá, jednoduchá a efektivní architektura
 
 ```mermaid
-graph LR
-
-    subgraph Access_Network
-        UE(UE)
-        eNodeB(eNodeB)
-        UE --> eNodeB
-    end
-
-    subgraph EPC[Core Network]
-        MME(MME - Mobility Management Entity)
-        S_GW(S-GW - Serving Gateway)
-        P_GW(P-GW - PDN Gateway)
-        HSS(HSS - Home Subscriber Server)
-        PCRF(PCRF - Policy and Charging Rules Function)
-    end
-
-    subgraph External_Networks
-        PDN(Public Data Network / Internet)
-    end
-
-    %% Spojení mezi eNodeB a EPC
-    eNodeB -->|Control (S1-MME)| MME
-    eNodeB -->|User (S1-U)| S_GW
-
-    %% Spojení v EPC
-    MME -->|S6a| HSS
-    MME --> S_GW
-    S_GW --> P_GW
-    P_GW -->|Gx| PCRF
-
-    %% Propojení s vnějšími sítěmi
-    P_GW --> PDN
+%%{init: {'theme': 'base', 'themeVariables': { 'background': '#ffffff' }}}%%
+graph TB
+    %% Access Network
+    UE[User Equipment] --> eNB[eNodeB]
+    
+    %% Control Plane and User Plane Split
+    eNB --> MME[MME<br>Mobility Management Entity]
+    eNB --> SGW[S-GW<br>Serving Gateway]
+    
+    %% Control Plane
+    MME -- Authentication --> HSS[HSS/AuC<br>Home Subscriber Server]
+    MME -- Session Control --> SGW
+    MME -- Bearer Setup --> PGW[P-GW<br>PDN Gateway]
+    
+    %% User Plane
+    SGW -- User Data --> PGW
+    PGW --> Internet[Internet/IMS]
+    
+    %% Policy and Charging
+    PCRF[PCRF<br>Policy & Charging Rules] --> PGW
+    PCRF --> SGW
+    
+    %% Interfaces
+    eNB -. S1-MME .-> MME
+    eNB -. S1-U .-> SGW
+    MME -. S11 .-> SGW
+    SGW -. S5/S8 .-> PGW
+    
+    %% Styling
+    classDef controlPlane fill:#ffb6c1,stroke:#333,stroke-width:2px
+    classDef userPlane fill:#90ee90,stroke:#333,stroke-width:2px
+    classDef policy fill:#ffd700,stroke:#333,stroke-width:2px
+    classDef access fill:#add8e6,stroke:#333,stroke-width:2px
+    
+    class MME,HSS controlPlane
+    class SGW,PGW userPlane
+    class PCRF policy
+    class UE,eNB access
 ```
 
 
