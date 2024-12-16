@@ -28,7 +28,7 @@ Než se ponoříme do konkrétních verzí, je nezbytné porozumět procesu stan
 | Vydání 97 | 1\. čtvrtletí 1998 | Funkce GSM, GPRS |
 | Vydání 98 | 1\. čtvrtletí 1999 | Funkce GSM, kodek AMR, EDGE, GPRS pro PCS1900 |
 | Vydání 99 | 2000 Q1 | Specifikoval první sítě UMTS 3G, které obsahují rozhraní CDMA |
-| Vydání 4 | 2\. čtvrtletí 2001...[zdroj](https://www.google.com/url?sa=E&source=gmail&q=http://nolegendhere.blogspot.com/2012/04/) HSDPA |  |
+| Vydání 4 | 2\. čtvrtletí 2001... | HSDPA |
 | ... | ... | ... |
 | Vydání 19 | 4\. čtvrtletí 2025 | 5G-Advanced |
 
@@ -38,7 +38,8 @@ S příchodem paketového přenosu dat GPRS (sítě 2.5G) se do BSC přidala č�
 
 ## **Vývoj nepozemských sítí v rámci 3GPP**
 
-Dalším důležitým aspektem standardizace 3GPP je integrace nepozemních sítí (NTN). NTN, jako jsou satelitní sítě, hrají klíčovou roli při rozšiřování mobilního pokrytí do vzdálených a nedostatečně obsluhovaných oblastí. 3GPP aktivně pracuje na začlenění NTN do svých norem a věnuje tomuto úsilí různé studie a pracovní body.
+Dalším důležitým aspektem standardizace 3GPP je integrace nepozemních sítí (NTN). NTN, jako jsou satelitní sítě, hrají klíčovou roli při rozšiřování mobilního pokrytí do vzdálených a nedostatečně obsluhovaných oblastí. 3GPP aktivně pracuje na začlenění NTN do svých norem a věnuje tomuto úsilí různé studie a pracovní body. \
+[Nepozemské sítě NTN podrobněji rozebíráme zde](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/). 
 
 | REL | Akronym | Titul |
 | :---- | :---- | :---- |
@@ -59,9 +60,11 @@ Na kontroleru RNC jsou také nové úlohy jako přidělování kódů používan
 
 Tak vypadal záměr v nejstarším návrhu sítí UMTS, tedy evropského standardu 3G, dnes nejvíce používaného standardu. Tento standard se nazýval Release 99 podle roku 1999 kdy byl projednán, rovněž se kvůli kompatibilitě s dalším značením používá značení Release 3. Již další release ale záváděly další změny, většinou pravda v samotném jádře sítě.     
 
-Ale již ve významné Release 5 (marketingově 3.5G) kvůli nové technologii rychlejšího stahování dat HSDPA došlo i na změny ve vztahu RNC a NodeB. NodeB přebírá kvůli zrychlení část funkcí od RNC, jde především o rozhodnutí znovu poslat chybně přenesená data nebo o přidělení jiného sdíleného kanálu. Pokud mobilní telefon přijal data, která byla vadná, nově mu data posílala NodeB, protože je zpravidla měla uložena ve vyrovnávací paměti, nemusela se posílat znovu přes RNC ze sítě. Podobně tomu bylo vůči technologii rychlého odesílání dat HSUPA z téže release. 
+Ale již ve významné Release 5 (marketingově 3.5G) kvůli nové technologii rychlejšího stahování dat HSDPA došlo i na změny ve vztahu RNC a NodeB. NodeB přebírá kvůli zrychlení část funkcí od RNC, jde především o rozhodnutí znovu poslat chybně přenesená data nebo o přidělení jiného sdíleného kanálu. Pokud mobilní telefon přijal data, která byla vadná, nově mu data posílala NodeB, protože je zpravidla měla uložena ve vyrovnávací paměti, nemusela se posílat znovu přes RNC ze sítě. Podobně tomu bylo vůči technologii rychlého odesílání dat HSUPA z téže Release. 
 
 V Release 6 došlo k sjednocení HSDPA a HSUPA do HSPA a ne, nešlo jen o přejmenování, ale podporu vzájemné koordinace obojího. Marketingově se tím dostáváme k pojmenování 3.75G. Pro nás významným mezníkem byla Release 7, která pro vylepšenou verzi HSPA+ odstranila z rádiové části sítě kontroler RNC - respektive jeho funkce přesunula do základnové stanice NodeB. Šlo o první experiment předcházející vzniku LTE. 
+
+Architektuře UMTS sítí se [věnujeme podrobněji v tomto článku](/item/blaznuv-turbouvod-do-umts-jak-vypada-sit/).
 
 ### **Vývoj Jádra sítě (Core Network)**
 
@@ -69,19 +72,19 @@ Verze 99 zavedla pozemní rádiovou přístupovou síť UMTS (UTRAN). UTRAN, nov
 
 Je důležité poznamenat, že v této době existovaly dvě architektury páteřní sítě definované ETSI a 3GPP: Release 99 a Release 4/5. Release 99, založená na platformě GPRS (General Packet Radio Service), umožnila operátorům využít jejich stávající investice do GPRS5. Naproti tomu verze 4/5 byla plně IP verzí páteřní sítě UMTS.
 
-V případě sítě 3G tak fakticky došlo oproti předchozí generaci ke zvýšení složitosti sítě tím, že síť byla rozdělena na paketovou a okruhově spínanou doménu, respektive toto rozdělení bylo uplatněno ve stejném čase i na sítě GSM. Postupem doby se standard UMTS pokoušel toto rozdělení překlenout sjednocením pod systémem IMS, nakonec se ale provoz okruhově spínaných technologií jevil natolik neperspektivní a vývoj přenosu hlasu po IP vrstvě natolik pokročil, že bylo možné v sítích 4G napříště uvažovat pouze o paketovém přenosu a všechny služby přenášet v něm. Tím řada sítí 3G okruhové spínání vůbec neimplementovala, resp operátor implementoval rovnou LTE, které se v té době označovalo jako 3.99G, aby se naznačilo, že ještě nejde o plnohodnotné 4G tak, jak jej předpokládala ITU. 
+V případě sítě 3G tak fakticky došlo oproti předchozí generaci ke zvýšení složitosti sítě tím, že síť byla rozdělena na paketovou a okruhově spínanou doménu, respektive toto rozdělení bylo uplatněno ve stejném čase i na sítě GSM. Postupem doby se standard UMTS pokoušel toto rozdělení překlenout sjednocením [pod systémem IMS](/item/turbouvod-do-umts-ims-aneb-ip-multimedia-subsystem/), nakonec se ale provoz okruhově spínaných technologií jevil natolik neperspektivní a vývoj přenosu hlasu po IP vrstvě natolik pokročil, že bylo možné v sítích 4G napříště uvažovat pouze o paketovém přenosu a všechny služby přenášet v něm. Tím řada sítí 3G okruhové spínání vůbec neimplementovala, resp operátor implementoval rovnou LTE, které se v té době označovalo jako 3.99G, aby se naznačilo, že ještě nejde o plnohodnotné 4G tak, jak jej předpokládala ITU. 
 
 ### **Technologie a protokoly rádiového přístupu**
 
-Přechod na 3G přinesl také změny v architektuře protokolů rádiového rozhraní. Verze 99 zavedla nové transportní kanály a fyzické kanály pro podporu rádiového rozhraní WCDMA4. To zahrnovalo přidání vyhrazených transportních kanálů pro data s přepojováním okruhů i pro data s přepojováním paketů, což umožnilo současné připojení s různými požadavky na kvalitu4.
+Přechod na 3G přinesl také změny v architektuře protokolů rádiového rozhraní. Verze 99 zavedla nové transportní kanály a fyzické kanály pro podporu [rádiového rozhraní WCDMA](/item/turbouvod-do-umts-kapacita-cdma-a-par-shannonovych-kouzel). To zahrnovalo přidání vyhrazených transportních kanálů pro data s přepojováním okruhů i pro data s přepojováním paketů, což umožnilo současné připojení s různými požadavky na kvalitu.
 
 ### **Další vývoj UMTS**
 
-Po vydání verze 99 pokračoval vývoj UMTS v dalších verzích. Verze 5 a 6 zavedly vysokorychlostní paketový přístup (HSPA), který výrazně zvýšil rychlost přenosu dat6 . Verze 7 dále vylepšila HSPA zavedením technologie HSPA+ (Evolved HSPA)6. Tyto pokroky v technologii 3G připravily půdu pro vývoj 4G LTE.
+Po vydání verze 99 pokračoval vývoj UMTS v dalších verzích. Verze 5 a 6 zavedly vysokorychlostní paketový přístup (HSPA), který výrazně zvýšil rychlost přenosu dat. Verze 7 dále vylepšila HSPA zavedením technologie HSPA+ (Evolved HSPA)6. Tyto pokroky v technologii 3G připravily půdu pro vývoj 4G LTE.
 
-## **Verze 8 3GPP: Vzestup LTE**
+## **Verze 3GPP Release 8: Vzestup LTE**
 
-Verze 3GPP 8 zahájila éru 4G zavedením technologie Long Term Evolution (LTE). Cílem LTE bylo výrazně zvýšit kapacitu a rychlost sítě využitím nových technik digitálního zpracování signálu a modulací. Toto vydání přineslo zásadní změnu v architektuře sítě, která se posunula směrem ke zjednodušenému, plně IP systému se sníženou latencí.
+Verze [3GPP Release 8](/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti) zahájila éru 4G zavedením technologie Long Term Evolution (LTE). Cílem LTE bylo výrazně zvýšit kapacitu a rychlost sítě využitím nových technik digitálního zpracování signálu a modulací. Toto vydání přineslo zásadní změnu v architektuře sítě, která se posunula směrem ke zjednodušenému, plně IP systému se sníženou latencí.
 
 Asi nejmarkantnější jsou tedy následující odlišnosti mezi 3G a 4G
 
@@ -99,15 +102,15 @@ Kromě toho byly uzly Rel-6 (GGSN, SGSN a RNC) v LTE sloučeny do jediného uzlu
 
 ### **Technologie rádiového přístupu**
 
-Verze 8 také zavedla ortogonální vícenásobný přístup s kmitočtovým dělením (OFDMA) v sestupném směru a vícenásobný přístup s jednou nosnou (SC-FDMA) ve vzestupném směru10. Tyto nové technologie rádiového přístupu spolu s anténními schématy MIMO (Multiple-Input Multiple-Output) umožnily vyšší přenosové rychlosti a spektrální účinnost.
+Verze 8 také zavedla ortogonální vícenásobný přístup s kmitočtovým dělením (OFDMA) v sestupném směru a vícenásobný přístup s jednou nosnou (SC-FDMA) ve vzestupném směru - [detaily  máme zde](/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax). Tyto nové technologie rádiového přístupu spolu s anténními schématy MIMO (Multiple-Input Multiple-Output) umožnily vyšší přenosové rychlosti a spektrální účinnost.
 
 ### **Alternativní přístupy**
 
-Ačkoli pro LTE byly zvoleny OFDMA a SC-FDMA, zvažovala se i jiná schémata vícenásobného přístupu. Hodnotila se například vícenásobný přístup s časovým dělením (TDMA) a vícenásobný přístup s kódovým dělením (CDMA). Nakonec však byly vybrány OFDMA a SC-FDMA kvůli jejich lepšímu výkonu z hlediska spektrální účinnosti a odolnosti vůči rušení.
+Ačkoli pro LTE byly zvoleny [OFDMA a SC-FDMA](/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax), zvažovala se i jiná schémata vícenásobného přístupu. Hodnotila se například vícenásobný přístup s časovým dělením (TDMA) a vícenásobný přístup s kódovým dělením (CDMA). Nakonec však byly vybrány OFDMA a SC-FDMA kvůli jejich lepšímu výkonu z hlediska spektrální účinnosti a odolnosti vůči rušení.
 
 ## **3GPP verze 10: LTE-Advanced**
 
-Release 10 dále vylepšilo standard LTE zavedením LTE-Advanced. Cílem tohoto vydání bylo splnit požadavky na mezinárodní mobilní telekomunikace-Advanced (IMT-Advanced), které stanovily vyšší rychlost přenosu dat a vyšší spektrální účinnost10. Koncem roku 2009 byla oficiálně předložena ITU-T jako kandidátská technologie 4G.
+[Release 10](/mobilnisite/3gpp-release-10) dále vylepšilo standard LTE zavedením LTE-Advanced. Cílem tohoto vydání bylo splnit požadavky na mezinárodní mobilní telekomunikace-Advanced (IMT-Advanced), které stanovily vyšší rychlost přenosu dat a vyšší spektrální účinnost10. Koncem roku 2009 byla oficiálně předložena ITU-T jako kandidátská technologie 4G.
 
 ### **Agregace nosných sítí**
 
@@ -122,23 +125,23 @@ Verze 10 také zavedla vylepšený vícenásobný přístup na vzestupném kaná
 Verze 10 zavedla několik nových funkcí pro zvýšení výkonu LTE:
 
 * **Carrier Aggregation:** Jak již bylo zmíněno, agregace nosných sítí umožnila dosáhnout větší šířky pásma a vyšší rychlosti přenosu dat.  
-* **Vylepšené techniky s více anténami (MIMO):** To zahrnovalo podporu až osmi antén pro downlink a čtyř antén pro uplink, což umožnilo pokročilé techniky MIMO, jako je formování paprsku a prostorový multiplex14.  
-* **Podpora reléových uzlů:** Byla zavedena podpora pro reléové uzly, aby bylo možné nákladově efektivním způsobem rozšířit pokrytí LTE14.
+* **Vylepšené techniky s více anténami (MIMO):** To zahrnovalo podporu až osmi antén pro downlink a čtyř antén pro uplink, což umožnilo pokročilé techniky MIMO, jako je formování paprsku a prostorový multiplex.  
+* **Podpora reléových uzlů:** Byla zavedena podpora pro reléové uzly, aby bylo možné nákladově efektivním způsobem rozšířit pokrytí LTE.
 
 ### **Alternativní přístupy**
 
-Ačkoli byla jako primární metoda pro zvýšení šířky pásma zvolena agregace nosné, byly zvažovány i další přístupy. Hodnotilo se například využití širších souvislých bloků spektra. Agregace nosných byla však upřednostněna díky své flexibilitě při využívání fragmentovaného spektra a schopnosti podporovat jak sousední, tak nesousední nosné10.
+Ačkoli byla jako primární metoda pro zvýšení šířky pásma zvolena agregace nosné, byly zvažovány i další přístupy. Hodnotilo se například využití širších souvislých bloků spektra. Agregace nosných byla však upřednostněna díky své flexibilitě při využívání fragmentovaného spektra a schopnosti podporovat jak sousední, tak nesousední nosné.
 
 ## **3GPP Release 13: LTE-Advanced Pro**
 
-Verze 13, známá také jako LTE-Advanced Pro, se zaměřila na další zdokonalení LTE s cílem uspokojit rostoucí poptávku po vyšších rychlostech přenosu dat a lepším výkonu. V tomto vydání byla také dokončena první sada specifikací pokrývající kritické služby, zejména pro aplikace záchranných systémů a veřejné bezpečnosti15 .
+Verze 13, známá také jako LTE-Advanced Pro, se zaměřila na další zdokonalení LTE s cílem uspokojit rostoucí poptávku po vyšších rychlostech přenosu dat a lepším výkonu. V tomto vydání byla také dokončena první sada specifikací pokrývající kritické služby, zejména pro aplikace záchranných systémů a veřejné bezpečnosti.
 
 ### **Klíčové funkce a vylepšení**
 
 Verze 13 představila několik klíčových funkcí, včetně:
 
 * **Vylepšení agregace nosných sítí:** Verze 13 rozšířila rámec agregace nosných sítí tak, aby podporoval až 32 komponentních nosných sítí, což výrazně zvýšilo dosažitelné rychlosti přenosu dat10 . Toto vylepšení řeší potřebu operátorů agregovat více operátorů, aby uspokojili rostoucí poptávku po datech.  
-* **LTE v nelicencovaném spektru:** Tato verze umožnila využití nelicencovaného spektra ke zvýšení rychlosti přenosu dat agregací primární buňky pracující v licencovaném spektru se sekundární buňkou pracující v nelicencovaném spektru16. Tento přístup umožnil operátorům využívat nelicencované spektrum a zároveň zajistit spravedlivou koexistenci s jinými technologiemi, jako je Wi-Fi.  
+* **LTE v nelicencovaném spektru:** Tato verze umožnila využití nelicencovaného spektra ke zvýšení rychlosti přenosu dat agregací primární buňky pracující v licencovaném spektru se sekundární buňkou pracující v nelicencovaném spektru16. Tento přístup umožnil operátorům využívat nelicencované spektrum a zároveň zajistit spravedlivou koexistenci s jinými technologiemi, jako je Wi-Fi.  [Detaily máme zde](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu/). 
 * **Vylepšení pro komunikaci strojového typu (MTC):** Verze 13 zavedla novou kategorii UE s nízkou složitostí, která podporuje sníženou šířku pásma a spotřebu energie pro aplikace internetu věcí 10. Tím se řešila potřeba nákladově a energeticky efektivních řešení pro připojení velkého počtu zařízení internetu věcí.  
 * **In-door určování polohy:** Tato verze se zaměřila na zlepšení přesnosti určování polohy v objektech (in-door) vylepšením stávajících metod a zkoumáním nových technik určování polohy10 . Důvodem byla rostoucí poptávka po službách a aplikacích založených na určování polohy ve vnitřních prostorách.
 
@@ -146,13 +149,13 @@ Verze 13 představila několik klíčových funkcí, včetně:
 
 Verze 13 významně ovlivnila výkonnost sítě tím, že:
 
-* **Snížení nákladů na zařízení:** Toho bylo dosaženo snížením špičkové rychlosti, požadavků na paměť a složitosti zařízení17 .  
-* **Zlepšení výdrže baterie:** Byly zavedeny funkce PSM a eDRX, které umožňují delší výdrž baterie u zařízení, která přenášejí malé objemy dat jen zřídka17.  
-* **Zlepšení pokrytí:** Pokrytí bylo zlepšeno o 15 dB pro Cat-M a o 20 dB pro NB-IoT a GSM, což umožnilo širší venkovní pokrytí a lepší prostupnost signálu uvnitř budov17 .
+* **Snížení nákladů na zařízení:** Toho bylo dosaženo snížením špičkové rychlosti, požadavků na paměť a složitosti zařízení.  
+* **Zlepšení výdrže baterie:** Byly zavedeny funkce PSM a eDRX, které umožňují delší výdrž baterie u zařízení, která přenášejí malé objemy dat jen zřídka.  
+* **Zlepšení pokrytí:** Pokrytí bylo zlepšeno o 15 dB pro Cat-M a o 20 dB pro NB-IoT a GSM, což umožnilo širší venkovní pokrytí a lepší prostupnost signálu uvnitř budov.
 
 ### **Alternativní přístupy**
 
-Přestože bylo zvoleno rozšíření agregace nosných na 32 CC, byly zvažovány i další alternativy. Hodnotilo se například zvýšení modulačního řádu nebo použití širších komponentních nosných. Rozšíření agregace nosných však bylo upřednostněno kvůli své škálovatelnosti a flexibilitě při využívání fragmentovaného spektra18.
+Přestože bylo zvoleno rozšíření agregace nosných na 32 CC, byly zvažovány i další alternativy. Hodnotilo se například zvýšení modulačního řádu nebo použití širších komponentních nosných. Rozšíření agregace nosných však bylo upřednostněno kvůli své škálovatelnosti a flexibilitě při využívání fragmentovaného spektra.
 
 ## **3GPP Release 15: Revoluce 5G**
 
@@ -160,38 +163,38 @@ Verze 15 znamenala významný skok vpřed zavedením 5G New Radio (NR), nové te
 
 ### **Jádro sítě 5G**
 
-Jednou z klíčových architektonických změn ve verzi 15 bylo zavedení sítě 5G Core (5GC). 5GC je cloudová architektura založená na službách, která ve srovnání s předchozí jádrovou sítí EPC poskytuje větší flexibilitu a škálovatelnost. 5GC podporuje network slicing, který umožňuje operátorům vytvářet na sdílené fyzické infrastruktuře více virtuálních sítí pro uspokojení různých požadavků na služby.
+Jednou z klíčových architektonických změn ve verzi 15 bylo zavedení sítě [5G Core (5GC)](/item/5G_Core/). 5GC je cloudová architektura založená na službách, která ve srovnání s předchozí jádrovou sítí EPC poskytuje větší flexibilitu a škálovatelnost. 5GC podporuje network slicing, který umožňuje operátorům vytvářet na sdílené fyzické infrastruktuře více virtuálních sítí pro uspokojení různých požadavků na služby.
 
 Tento přechod na 5GC představuje přechod od hardwarově orientované k softwarově orientované síťové architektuře. Tento softwarově orientovaný přístup umožňuje větší flexibilitu, škálovatelnost a automatizaci, které jsou klíčové pro podporu různorodých požadavků služeb 5G.
 
 ### **Frekvenční rozsahy**
 
-Verze 15 také zavedla dva frekvenční rozsahy pro 5G NR: frekvenční rozsah 1 (FR1) od 450 MHz do 7,125 GHz a frekvenční rozsah 2 (FR2) od 24,25 GHz do 52,6 GHz19. To umožnilo provozovat 5G NR v nižších i vyšších frekvenčních pásmech a zajistit rovnováhu mezi pokrytím a kapacitou.
+Verze 15 také zavedla dva frekvenční rozsahy pro 5G NR: frekvenční rozsah 1 (FR1) od 450 MHz do 7,125 GHz a frekvenční rozsah 2 (FR2) od 24,25 GHz do 52,6 GHz19. To umožnilo provozovat 5G NR v nižších i vyšších frekvenčních pásmech a zajistit rovnováhu mezi pokrytím a kapacitou. [Podrobněji popisuji zde](/item/5G_NR_New_Radio/). 
 
 ### **Klíčové zásady návrhu**
 
 Při návrhu 5G NR byly zohledněny tři klíčové zásady:
 
-* **Provoz na vyšších frekvencích a flexibilita spektra:** Díky tomu může 5G NR pracovat v širším rozsahu frekvencí, včetně pásem mmWave, a podporovat tak vyšší rychlosti přenosu dat a kapacitu22.  
+* **Provoz na vyšších frekvencích a flexibilita spektra:** Díky tomu může 5G NR pracovat v širším rozsahu frekvencí, včetně pásem mmWave, a podporovat tak vyšší rychlosti přenosu dat a kapacitu.  
 * **Velmi štíhlá konstrukce:** To minimalizuje neustále zapnutý přenos, zlepšuje energetickou účinnost a umožňuje vyšší přenosové rychlosti22.  
-* **Dopředná kompatibilita:** To zajišťuje, že se 5G NR může vyvíjet a přizpůsobovat budoucím požadavkům a technologiím22.
+* **Dopředná kompatibilita:** To zajišťuje, že se 5G NR může vyvíjet a přizpůsobovat budoucím požadavkům a technologiím.
 
 ### **Vylepšení zabezpečení**
 
 Verze 15 zavedla několik bezpečnostních funkcí pro zvýšení bezpečnosti sítí 5G:
 
-* **Vzájemné ověřování mezi zařízeními a sítí:** To zabraňuje falešným základnovým stanicím vydávat se za skutečné23.  
-* **Skrytí trvalého identifikátoru:** Chrání soukromí uživatelů tím, že skrývá trvalý identifikátor účastníka (SUPI) přes vzdušné rozhraní23.  
+* **Vzájemné ověřování mezi zařízeními a sítí:** To zabraňuje falešným základnovým stanicím vydávat se za skutečné.  
+* **Skrytí trvalého identifikátoru:** Chrání soukromí uživatelů tím, že skrývá trvalý identifikátor účastníka (SUPI) přes vzdušné rozhraní.  
 * **SEcurity Protection Proxy (SEPP) pro roamingovou architekturu:** To zvyšuje bezpečnost v roamingových scénářích ochranou proti útokům skrze propojení přes internet.
 
 ### **Architektura Cloud-RAN**
 
-Ve verzi 15 byla také zavedena architektura Cloud-RAN (C-RAN). C-RAN centralizuje zpracování jednotek základního pásma (BBU) v cloudovém datovém centru, což umožňuje:
+Ve verzi 15 byla také zavedena [architektura Cloud-RAN (C-RAN)](/item/c-ran_vran_open_ran/). C-RAN centralizuje zpracování jednotek základního pásma (BBU) v cloudovém datovém centru, což umožňuje:
 
-* **sdružování a sdílení zdrojů:** BBU lze sdílet a v případě potřeby vypnout, což snižuje náklady a zvyšuje efektivitu25.  
-* **Kooperativní rádiové techniky:** C-RAN umožňuje koordinovaný vícebodový přenos (CoMP), který snižuje rušení a zvyšuje výkon25.
+* **sdružování a sdílení zdrojů:** BBU lze sdílet a v případě potřeby vypnout, což snižuje náklady a zvyšuje efektivitu.  
+* **Kooperativní rádiové techniky:** C-RAN umožňuje [koordinovaný vícebodový přenos (CoMP)](/item/koordinovane-vicebodove-spojeni-v-lte/), který snižuje rušení a zvyšuje výkon.
 
-Síť C-RAN však přináší také výzvy, jako je potřeba vysokorychlostních, nízkozpožděných a přesně synchronizovaných sítí fronthaul pro připojení BBU a vzdálených rádiových hlavic (RRH)25.
+Síť C-RAN však přináší také výzvy, jako je potřeba vysokorychlostních, nízkozpožděných a přesně synchronizovaných sítí fronthaul pro připojení BBU a vzdálených rádiových hlavic (RRH).
 
 ### **Alternativní přístupy**
 
@@ -199,7 +202,7 @@ Přestože byla pro 5G zvolena architektura 5GC, byly zvažovány i jiné archit
 
 ## **3GPP Release 18: 5G Advanced**
 
-Verze 18, první verze 5G Advanced, staví na základech položených verzí 15 a zavádí další vylepšení systému 5G . Tato verze se zaměřuje na zlepšení efektivity sítě, latence, propustnosti a pokrytí, přičemž zvláštní důraz klade na případy použití v podnicích.
+Verze [Release 18](/item/5G_advanced_3GPP_Release-18/), první verze 5G Advanced, staví na základech položených verzí 15 a zavádí další vylepšení systému 5G . Tato verze se zaměřuje na zlepšení efektivity sítě, latence, propustnosti a pokrytí, přičemž zvláštní důraz klade na případy použití v podnicích.
 
 ### **Klíčové cíle**
 
@@ -240,7 +243,7 @@ Vývoj síťové architektury 3GPP má významné důsledky pro budoucnost mobil
 
 Zatímco 5G Advanced se stále vyvíjí, výzkumné a vývojové úsilí pro 6G již probíhá. Předpokládá se, že 6G bude poskytovat ještě vyšší přenosové rychlosti, nižší latenci a větší kapacitu než 5G, a to díky potenciálním technologiím, jako jsou např:
 
-* **Terahertzová (THz) komunikace:** To by mohlo umožnit extrémně vysoké rychlosti přenosu dat a nízkou latenci.  
+* **Terahertzová (THz) komunikace:** To by mohlo umožnit extrémně vysoké rychlosti přenosu dat a nízkou latenci. O [nových frekvencích detailněji zde](/item/nova-frekvenci-pasma-5g-6g/).  
 * **Inteligentní komunikační prostředí:** Jedná se o využití umělé inteligence a pokročilého zpracování signálu k optimalizaci bezdrátového prostředí.  
 * **Bezbuněčná architektura:** To by mohlo zajistit rovnoměrnější pokrytí a kapacitu3.
 
@@ -271,75 +274,5 @@ Mezi hnací faktory tohoto vývoje patří:
 * **Poptávka po větší kapacitě:** To je nezbytné pro podporu rostoucího počtu připojených zařízení.  
 * **Zaměření na energetickou účinnost:** Je to dáno rostoucími náklady na energii a cíli udržitelnosti.
 
-S dalším vývojem pokročilé sítě 5G a nástupem sítě 6G můžeme očekávat další pokroky v síťové architektuře, které podpoří nové případy použití a poskytnou lepší uživatelský zážitek.
-
-#### **Citované práce**
-
-1\. 3GPP \- Wikipedia, přístup 16\. prosince 2024, [https://en.wikipedia.org/wiki/3GPP](https://en.wikipedia.org/wiki/3GPP).
-
-2\. Non-Terrestrial Networks (NTN) \- 3GPP, přístup 16\. prosince 2024, [https://www.3gpp.org/technologies/ntn-overview](https://www.3gpp.org/technologies/ntn-overview).
-
-3\. Introducing 3GPP, přístup 16\. prosince 2024, [https://www.3gpp.org/about-us/introducing-3gpp](https://www.3gpp.org/about-us/introducing-3gpp).
-
-4\. Funkce 3GPP verze 99, přístup 16\. prosince 2024, [https://www.3gpp.org/ftp/Inbox/2008\_web\_files/Release\_Features/3GPP\_R99-contents.doc](https://www.3gpp.org/ftp/Inbox/2008_web_files/Release_Features/3GPP_R99-contents.doc).
-
-5\. UMTS core network architecture, Release 99, reprodukováno podle \[1\] \- ResearchGate, přístup 16\. prosince 2024, [https://www.researchgate.net/figure/UMTS-core-network-architecture-Release-99-reproduced-by-1\_fig1\_2531030](https://www.researchgate.net/figure/UMTS-core-network-architecture-Release-99-reproduced-by-1_fig1_2531030).
-
-6\. 3: 3GPP Evolved Packet System (EPS) \- Ekosystém mobilních komunikací nové generace \- O'Reilly, přístup 16\. prosince 2024, [https://www.oreilly.com/library/view/next-generation-mobile/9781119995814/OEBPS/9781119995814\_epub\_c03\_r1.htm](https://www.oreilly.com/library/view/next-generation-mobile/9781119995814/OEBPS/9781119995814_epub_c03_r1.htm).
-
-7\. An Introduction of 3GPP Long Term Evolution (LTE), přístup 16\. prosince 2024, [https://www.cs.uoi.gr/\~epap/L05/downloads/lect3.pdf](https://www.cs.uoi.gr/~epap/L05/downloads/lect3.pdf).
-
-8\. 14.8 Flat Architecture \- LTE Advanced: 3GPP Solution for IMT-Advanced \[kniha\] \- O'Reilly, přístup 16\. prosince 2024, [https://www.oreilly.com/library/view/lte-advanced-3gpp/9781118399422/c14anchor-8.html](https://www.oreilly.com/library/view/lte-advanced-3gpp/9781118399422/c14anchor-8.html).
-
-9\. Architektury 3GPP: verze 6 (vlevo) a verze 8 (LTE) (vpravo) \- ResearchGate, přístup 16\. prosince 2024, [https://www.researchgate.net/figure/GPP-architectures-release-6-left-and-release-8-LTE-right\_fig1\_301873802](https://www.researchgate.net/figure/GPP-architectures-release-6-left-and-release-8-LTE-right_fig1_301873802).
-
-10\. Přehled verzí LTE 3GPP \- CableFree, přístup 16\. prosince 2024, [https://www.cablefree.net/wirelesstechnology/4glte/overview-of-lte-3gpp-releases/](https://www.cablefree.net/wirelesstechnology/4glte/overview-of-lte-3gpp-releases/)
-
-11\. LTE Advanced \- Wikipedia, přístup 16\. prosince 2024, [https://en.wikipedia.org/wiki/LTE\_Advanced](https://en.wikipedia.org/wiki/LTE_Advanced)
-
-12\. 3GPP Release 10 \- Techplayon \- specifikace 3GPP, přístup 16\. prosince 2024, [http://www.techplayon.com/3gpp-release-10/](http://www.techplayon.com/3gpp-release-10/).
-
-13\. Vývoj LTE: Standardizace a nasazení \- Telit Cinterion, přístup 16\. prosince 2024, [https://www.telit.com/resources/whitepapers/lte-evolution-standardization-and-deployment/](https://www.telit.com/resources/whitepapers/lte-evolution-standardization-and-deployment/).
-
-14\. LTE-Advanced \- 3GPP, přístup 16\. prosince 2024, [https://www.3gpp.org/img/pdf/lte\_advanced\_v2.pdf](https://www.3gpp.org/img/pdf/lte_advanced_v2.pdf)
-
-15\. Release 13 \- 3GPP, přístup 16\. prosince 2024, [https://www.3gpp.org/specifications-technologies/releases/release-13](https://www.3gpp.org/specifications-technologies/releases/release-13).
-
-16\. Vývoj LTE ve verzi 13 \- 3GPP, přístup 16\. prosince 2024, [https://www.3gpp.org/news-events/3gpp-news/rel13](https://www.3gpp.org/news-events/3gpp-news/rel13).
-
-17\. Cellular networks for Massive IoT \- Ericsson, přístup 16\. prosince 2024, [https://www.ericsson.com/en/reports-and-papers/white-papers/cellular-networks-for-massive-iot--enabling-low-power-wide-area-applications](https://www.ericsson.com/en/reports-and-papers/white-papers/cellular-networks-for-massive-iot--enabling-low-power-wide-area-applications).
-
-18\. LTE Advanced: A Quick Look at Releases 10 to 12 \- Eogogics, přístup 16\. prosince 2024, [https://eogogics.com/lte-advanced-quick-look-releases-10-12/](https://eogogics.com/lte-advanced-quick-look-releases-10-12/).
-
-19\. Understanding the 3GPP Release 15 5G Standard \- Wevolver, přístup 16\. prosince 2024, [https://www.wevolver.com/article/understanding-the-3gpp-release-15-5g-standard](https://www.wevolver.com/article/understanding-the-3gpp-release-15-5g-standard).
-
-20\. Přehled systému 5G \- 3GPP, přístup 16\. prosince 2024, [https://www.3gpp.org/technologies/5g-system-overview](https://www.3gpp.org/technologies/5g-system-overview)
-
-21\. Co je to architektura sítě 5G? \- Digi International, přístup 16\. prosince 2024, [https://www.digi.com/blog/post/5g-network-architecture](https://www.digi.com/blog/post/5g-network-architecture).
-
-22\. High-level Overview of NR Release 15 \- Mohamed ELAdawi, přístup 16\. prosince 2024, [https://www.mohamedeladawi.com/high-level-overview-of-nr-release-15/](https://www.mohamedeladawi.com/high-level-overview-of-nr-release-15/).
-
-23\. 24\. 3GPP Release 15: Konec boje proti falešným základnovým stanicím? \- Ericsson, přístup 16\. prosince 2024, [https://www.ericsson.com/en/blog/2019/1/3gpp-release15](https://www.ericsson.com/en/blog/2019/1/3gpp-release15)
-
-24\. 3GPP 5G Security, přístup 16\. prosince 2024, [https://www.3gpp.org/news-events/3gpp-news/sec-5g](https://www.3gpp.org/news-events/3gpp-news/sec-5g)
-
-25\. Session 7: 5G networks and 3GPP Release 15 \- ITU, navštíveno 16\. prosince 2024, [https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/SiteAssets/Pages/ITU-ASP-CoE-Training-on-/session7\_5G%20networks%20and%203GPP%20release%2015.pdf](https://www.itu.int/en/ITU-D/Regional-Presence/AsiaPacific/SiteAssets/Pages/ITU-ASP-CoE-Training-on-/session7_5G%20networks%20and%203GPP%20release%2015.pdf).
-
-26\. Zjednodušení ekosystému 5G omezením možností architektury \- Ericsson, přístup 16\. prosince 2024, [https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/simplifying-the-5g-ecosystem-by-reducing-architecture-options](https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/simplifying-the-5g-ecosystem-by-reducing-architecture-options).
-
-27\. Advanced 5G \- 3GPP Release 18 \- Lumenci, přístup 16\. prosince 2024, [https://lumenci.com/blogs/advanced-5g-3gpp-release-18/](https://lumenci.com/blogs/advanced-5g-3gpp-release-18/).
-
-28\. Pokročilé 5G: 5G Technology World, přístup 16\. prosince 2024, [https://www.5gtechnologyworld.com/what-to-expect-from-5g-advanced/](https://www.5gtechnologyworld.com/what-to-expect-from-5g-advanced/).
-
-29\. Empowering the connected future (Posílení propojené budoucnosti): 5 klíčových technologických vynálezů v 5G Advanced Release 18, přístup 16\. prosince 2024, [https://www.qualcomm.com/news/onq/2024/04/empowering-the-connected-future-5-key-tech-inventions-in-5g-advanced-release-18](https://www.qualcomm.com/news/onq/2024/04/empowering-the-connected-future-5-key-tech-inventions-in-5g-advanced-release-18).
-
-30\. An Overview of 5G Advanced Evolution in 3GPP Release 18 \- arXiv, přístup 16\. prosince 2024, [https://arxiv.org/pdf/2201.01358](https://arxiv.org/pdf/2201.01358).
-
-31\. 3GPP Release 18 and 19: Exploring the Evolution of the 5G Era \- Telecom Review, přístup 16\. prosince 2024, [https://www.telecomreview.com/articles/reports-and-coverage/8556-3gpp-releases-18-and-19-exploring-the-evolution-of-the-5g-era/](https://www.telecomreview.com/articles/reports-and-coverage/8556-3gpp-releases-18-and-19-exploring-the-evolution-of-the-5g-era/).
-
-32\. Vývoj architektury 5G-Advanced Architecture: An Analysis based on Rel-18 Progress \- Huawei, přístup 16\. prosince 2024, [https://www.huawei.com/en/huaweitech/publication/202301/r18-architectural-5g-evolution](https://www.huawei.com/en/huaweitech/publication/202301/r18-architectural-5g-evolution).
-
-33\. Vývoj 5G směrem k 5G advanced: An overview of 3GPP releases 17 and 18 \- Ericsson, přístup 16\. prosince 2024, [https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/5g-evolution-toward-5g-advanced](https://www.ericsson.com/en/reports-and-papers/ericsson-technology-review/articles/5g-evolution-toward-5g-advanced).
-
-34\. 6G and Beyond, přístup 16\. prosince 2024, [https://jep-asset.akamaized.net/jiostaticresources/docs/13-6G-and-Beyond.pdf](https://jep-asset.akamaized.net/jiostaticresources/docs/13-6G-and-Beyond.pdf).
+S dalším vývojem pokročilé sítě 5G a nástupem sítě 6G můžeme očekávat další pokroky v síťové architektuře. Tak si o nich dáme včas vědět. Pro celou historii vývoje mobilních sítí si projděte [rubriku Mobilní sítě](/mobilnisite). 
 
