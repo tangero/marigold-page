@@ -31,8 +31,9 @@ Stručný a poměrně pochopitelný úvod do toho, jak mobilní sítě fungují.
 - [IMS aneb IP Multimedia Subsystem](/item/turbouvod-do-umts-ims-aneb-ip-multimedia-subsystem/) - jak na data a multimédia v sítích 3G
 - co jsou [rychlé datové přenosy v 3G pomocí HSDPA](/item/podpora-hsdpa-v-umts-release-5) - a popis toho, [jak HSDPA funguje](/item/high-speed-downlink-packet-access-hsdpa)
 
-
-Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k sítím 5G aneb skoro vše, co nepotřebujete vědět](/item/cesta-k-sitim-5g-aneb-skoro-vse-co-nepotrebujete-vedet/)
+### Obecně k mobilním sítím
+- Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k sítím 5G aneb skoro vše, co nepotřebujete vědět](/item/cesta-k-sitim-5g-aneb-skoro-vse-co-nepotrebujete-vedet/)
+- [Signalizace v mobilních sítích](/mobilnisite/signalizace-v-mobilnich-sitich/)
 
 ### LTE
 - nová architektura Jádra sítě se jmenuje [Evolved Packet Core (EPC)](/mobilnisite/epc-evolved-packet-core-lte/)
@@ -41,6 +42,7 @@ Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k s�
 - jak funguje [koordinované vícebodové spojení CoMP v LTE](/item/koordinovane-vicebodove-spojeni-v-lte/)
 - [úzkopásmové sítě v LTE Release 8, 12 a 13](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/)
 - přechod na [LTE Advanced](/mobilnisite/3gpp-release-10)
+
 
 ### 5G
 - 🛜[5G NR - New Radio](/item/5G_NR_New_Radio/) - nové rádiové rozhraní
