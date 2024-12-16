@@ -35,6 +35,7 @@ Stručný a poměrně pochopitelný úvod do toho, jak mobilní sítě fungují.
 Jak měl technologicky vypadat přechod k sítím LTE a 5G? Článek [Cesta k sítím 5G aneb skoro vše, co nepotřebujete vědět](/item/cesta-k-sitim-5g-aneb-skoro-vse-co-nepotrebujete-vedet/)
 
 ### LTE
+- nová architektura Jádra sítě se jmenuje [Evolved Packet Core (EPC)](/mobilnisite/epc-evolved-packet-core-lte/)
 - porovnáme si [modulační technologie OFDMA versus SC-FDMA](/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax) (a něco si o nich řekneme)
 - [LTE v nelicencovaném pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu) a jeho další rozvoj do [Licencovaného asistovaného přístupu LAA](/item/laa_release_13/)
 - jak funguje [koordinované vícebodové spojení CoMP v LTE](/item/koordinovane-vicebodove-spojeni-v-lte/)
@@ -61,10 +62,10 @@ Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhr
 
 - **Rok 1999: Release 99 jako 3G** - paketová a spínaná data PS/CS, MMS, lokalizační služby
 - Rok 2001: UMTS Release 4 - první takto značená Release, zahrnuje čínské TD-SCDMA
-- Rok 2002: UMTS Release 5 - HSDPA, IMS, AMR-WB
+- Rok 2002: UMTS Release 5 - HSDPA, [IMS](/item/turbouvod-do-umts-ims-aneb-ip-multimedia-subsystem/), AMR-WB
 - Rok 2005: [UMTS Release 6](/item/umts-release-6) - MBMS, WLAN-UMTS, Enhanced Uplink
 - Rok 2006: [UMTS Release 7](/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7/) a MIMO, HSPA+, 
-- **Rok 2009: [3GPP Release 8](/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti) - představuje LTE/4G** jako System Architecture Evolution (SAE) a&nbsp;Evolved Packet Core (EPC). Podpora OFDMA
+- **Rok 2009: [3GPP Release 8](/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti) - představuje LTE/4G** jako System Architecture Evolution (SAE) a&nbsp;[Evolved Packet Core (EPC)](/mobilnisite/epc-evolved-packet-core-lte/). Podpora OFDMA
 - Rok 2010: 3GPP Release 9 - femtocelly v podobě Home eNodeB (HeNB), Location Services (LCS), Evolved Multimedia Broadcast/Multicast Service (eMBMS), VoLTE a Circuit Switched FallBack (CSFB)
 - **Rok 2011: [3GPP Release 10 - LTE Advanced](/mobilnisite/3gpp-release-10)** a funkce CA (Carrier Aggregation), HetNet a advanced MIMO.
 - Rok 2013: 3GPP Release 11 - rozšiřuje funkce Rel-10 o CoMP a rozšiřuje podporu HetNet, heterogenních sítí

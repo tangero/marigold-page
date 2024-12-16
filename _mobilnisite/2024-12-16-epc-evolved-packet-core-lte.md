@@ -31,19 +31,19 @@ Zatímco starší architektura pracovala s uzly jako SGSN (Serving GPRS Support 
     - 	MME neřeší přímo uživatelská data, pouze řídí spojení a autentizaci uživatelů.
     -	Nahradil funkcionality SGSN v kontrolní rovině a výrazně je zjednodušil.
 2.	S-GW (Serving Gateway):
-•	Prvek zajišťující přepojování uživatelských datových paketů mezi rádiovou přístupovou sítí (eNodeB) a páteřní (IP) sítí.
-•	S-GW funguje jako kotva pro mobilitu v rámci LTE sítě. Pokud se uživatel pohybuje mezi různými eNodeB, S-GW udržuje datovou cestu, aniž by bylo nutné měnit koncové adresování.
-•	Nahradil uživatelskou rovinu SGSN.
+    - 	Prvek zajišťující přepojování uživatelských datových paketů mezi rádiovou přístupovou sítí (eNodeB) a páteřní (IP) sítí.
+    - 	S-GW funguje jako kotva pro mobilitu v rámci LTE sítě. Pokud se uživatel pohybuje mezi různými eNodeB, S-GW udržuje datovou cestu, aniž by bylo nutné měnit koncové adresování.
+    - 	Nahradil uživatelskou rovinu SGSN.
 3.	P-GW (Packet Data Network Gateway):
-•	Brána k vnějším paketovým sítím (např. internet, operátorské služby, IMS platforma).
-•	P-GW provádí úkoly jako přidělování IP adres uživatelům a zajišťuje QoS (Quality of Service) pravidla, firewalling, směrování a IP politiku.
-•	Svým způsobem odpovídá dřívějšímu GGSN, avšak s mnohem pokročilejší logikou a IP funkcionalitami.
+    - 	Brána k vnějším paketovým sítím (např. internet, operátorské služby, IMS platforma).
+    - 	P-GW provádí úkoly jako přidělování IP adres uživatelům a zajišťuje QoS (Quality of Service) pravidla, firewalling, směrování a IP politiku.
+    - 	Svým způsobem odpovídá dřívějšímu GGSN, avšak s mnohem pokročilejší logikou a IP funkcionalitami.
 4.	PCRF (Policy and Charging Rules Function) a PCEF (Policy and Charging Enforcement Function):
-•	Tyto prvky dávají operátorům granulární kontrolu nad kvalitou služeb, řízením kapacit, účtováním (billing) a dalšími pokročilými funkcemi.
-•	PCRF definuje pravidla pro konkrétní služby, zatímco P-GW s PCEF je aplikuje na data, která proudí přes EPC.
+    - 	Tyto prvky dávají operátorům granulární kontrolu nad kvalitou služeb, řízením kapacit, účtováním (billing) a dalšími pokročilými funkcemi.
+    - 	PCRF definuje pravidla pro konkrétní služby, zatímco P-GW s PCEF je aplikuje na data, která proudí přes EPC.
 5.	HSS (Home Subscriber Server):
-•	Centralizovaná databáze obsahující informace o uživatelích, jejich autentizaci a oprávnění k přístupu k síti.
-•	Odpovídá dřívější kombinaci HLR (Home Location Register) a AUC (Authentication Center), avšak s rozšířenými schopnostmi.
+    - 	Centralizovaná databáze obsahující informace o uživatelích, jejich autentizaci a oprávnění k přístupu k síti.
+    - 	Odpovídá dřívější kombinaci HLR (Home Location Register) a AUC (Authentication Center), avšak s rozšířenými schopnostmi.
 
 Výsledkem je čistá, jednoduchá a efektivní architektura
 
