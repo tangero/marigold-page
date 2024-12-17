@@ -19,11 +19,15 @@ Olaolu Slawn (2000) - ten obraz se tak ve skutečnosti nejmenuje, žádné jmén
 👕 dnes patří mezi nejpropíranější mladé umělce \
 🎨 jestli jste si zapamatovali jména jako Banksy, v Česku Pasta Oner a pomaličku se učíte vyslovovat Basquiat, tak Olaolu Slawn (používá jen to Slawn) je další dobrý tip, co si zapamatovat. 
 
+Tenhle jeho styl se mi líbil hodně:
+
 ![Olaolu Slawn - fakticky se to nejmenuje Young black n thriving, nemá to jméno, ale tohle k tomu napsal na svůj Twitter...](/assets/obrazy/slawn-obrazy.png)
 
 Momentálně spolupracuje s nejrenomovanějšími značkami jako Rolex a Luis Vuitton, snad mu to vydrží. Jeho web [najdete zde](https://olaoluslawn.com).
 
 Osobně jeho styl nemusím, ale to nakonec ani Pasta Oner, prostě to není kategorie "nenadchne-neurazí" a to je v umění dobře. 
+
+A tohle už se mi líbí méně, ale jak říkám, proti gustu... 
 
 ![Slawn: 5 of them](/assets/obrazy/slawn-5-of-them.png)
 
