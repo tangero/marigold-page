@@ -36,3 +36,7 @@ A tohle už se mi líbí méně, ale jak říkám, proti gustu...
 ![Tři bratři](/assets/obrazy/slawn-tri-bratri.jpg)
 
 Na Culted je [profilový článek o Slawnovi zde](https://culted.com/artist-skater-designer-mowalola-model-who-exactly-is-slawn/).
+
+Slawn je smíněn jako umělec s nejvyšším nárůstem poptávání jeho díla v indexu Artsy pro rok 2024. I další umělce z tohoto žebříčku si v jejich dílech představíme. 
+
+![Arsty největší nárůsty v poptávaní umělců za rok 2024](/assets/obrazy/artsy-top2024.jpg)
