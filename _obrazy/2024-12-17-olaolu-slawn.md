@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Olaolu Slawn - Young black n thriving (2021)"
-date: 2024-10-25
+date: 2024-12-17
 order: 
 namalovano: 2021
 autor: Olaolu Slawn
