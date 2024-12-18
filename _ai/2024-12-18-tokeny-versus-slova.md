@@ -2,7 +2,7 @@
 layout: post
 title: "Tokeny vs. Slova: Základní stavební jednotky kontextu v AI"
 date: 2024-12-18
-order: 
+order: 5
 ---
 
 
