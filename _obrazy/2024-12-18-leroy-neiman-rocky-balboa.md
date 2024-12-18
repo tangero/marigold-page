@@ -6,7 +6,7 @@ order:
 namalovano: 1981
 autor: LeRoy Neiman
 obraz: Rocky Balboa
-styl: expressionismus
+styl: expresionismus
 urlobrazu: /assets/obrazy/leroy-neiman-Rocky Balboa.jpg
 ---
 
@@ -30,7 +30,7 @@ LeRoy Neiman (1921-2012)
 
 💰 Jeho malby začínaly ještě nedávno u dvou tisíc dolarů, ale ta doba je pryč a jeho známější věci se snadno šplhají přes milion korun.
 
-Obrazy: 
+## Další zajímavé obrazy
 
 ### tzv. Femlin - ilustrace pro Playboy
 
