@@ -33,4 +33,4 @@ U jeho děl počítejte spíše s milionem korun. Jen za ručně dokončovaný a
 
 [Ferrari Sheppard: Pioneering Frontiers in the Realm of Abstract Figurativism](https://artplugged.co.uk/ferrari-sheppard-pioneering-frontiers-in-the-realm-of-abstract-figurativism/)(rozhovor z roku 2023)
 
-![Ferrari Sheppard ve svém ateliéru](úassets/obrazy/ferrari-sheppard-artist_portrait_art_plugged_.webp)
+![Ferrari Sheppard ve svém ateliéru](/assets/obrazy/ferrari-sheppard-artist_portrait_art_plugged_.webp)
