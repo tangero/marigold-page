@@ -13,7 +13,7 @@ permalink: /obrazy/
     <tr>
       <th onclick="sortTable(0)">Autor &#x25B2;&#x25BC;</th>
       <th onclick="sortTable(1)">Obraz &#x25B2;&#x25BC;</th>
-      <th onclick="sortTable(3)">Namalováno &#x25B2;&#x25BC;</th>
+      <th onclick="sortTable(3)">Rok &#x25B2;&#x25BC;</th>
       <th onclick="sortTable(2)">Styl &#x25B2;&#x25BC;</th>
     </tr>
   </thead>
@@ -21,7 +21,7 @@ permalink: /obrazy/
     {% assign unsorted_posts = site.obrazy | where_exp: "post", "post.order == nil" | sort: "date" | reverse %}
     {% for post in unsorted_posts %}
     <tr>
-      <td>{{ post.autor }}</td>
+      <td><a href="{{ post.url }}">{{ post.autor }}</a></td>
       <td><a href="{{ post.url }}">{{ post.obraz }}</a></td>
       <td>{{ post.namalovano }}</td>
       <td>{{ post.styl }}</td>
