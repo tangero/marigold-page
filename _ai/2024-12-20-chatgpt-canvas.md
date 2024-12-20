@@ -41,42 +41,42 @@ Mnoho implementací ChatGPT Canvas počítá s tím, že na jednom plátně mů�
 
 1.	Akademický výzkum a psaní odborných článků:
 Představme si doktoranda, který pracuje na rozsáhlém výzkumném článku. Nejdříve využije ChatGPT Canvas k vytvoření základního konceptu – rozdělí si plátno na sekce (Úvod, Metodologie, Výsledky, Diskuse, Závěr). V každé sekci si nechá od ChatGPT vygenerovat návrh textu, například:
-•	V sekci Úvod si nechá vysvětlit základní problematiku a shrnout stav současného výzkumu.
-•	V sekci Metodologie požádá ChatGPT o rozpracování detailního popisu výzkumných metod, které používá.
-•	Ve Výsledcích mu model pomůže s jasným a přehledným popisem zjištění i s návrhem vhodných grafických vizualizací.
-•	V Diskusi si nechá od modelu navrhnout interpretaci výsledků a jejich zasazení do širšího kontextu.
+- V sekci Úvod si nechá vysvětlit základní problematiku a shrnout stav současného výzkumu.
+- V sekci Metodologie požádá ChatGPT o rozpracování detailního popisu výzkumných metod, které používá.
+- Ve Výsledcích mu model pomůže s jasným a přehledným popisem zjištění i s návrhem vhodných grafických vizualizací.
+- V Diskusi si nechá od modelu navrhnout interpretaci výsledků a jejich zasazení do širšího kontextu.
 Během práce může výzkumník neustále upravovat, rozšiřovat, redukovat či přeformulovávat textové bloky, dokud nebude s výslednou verzí spokojen.
 2.	Plánování marketingové kampaně:
 Marketer chce připravit komplexní marketingovou kampaň pro nový produkt. Na plátno umístí několik karet: jedna bude obsahovat cílové skupiny zákazníků, další komunikační kanály, další návrhy sloganů a klíčových sdělení, jiná bude obsahovat možné vizuály. ChatGPT Canvas umožní do těchto karet vkládat dotazy pro ChatGPT:
-•	„Navrhni prosím pět variant sloganu pro cílovou skupinu mladých rodin s dětmi.“
-•	„Jak by se dal náš klíčový argument upravit pro sociální sítě, aby zaujal v prvních třech vteřinách videospotu?“
-•	„Jaký tón komunikace zvolit, abychom působili důvěryhodně a zároveň přívětivě?“
+- „Navrhni prosím pět variant sloganu pro cílovou skupinu mladých rodin s dětmi.“
+- „Jak by se dal náš klíčový argument upravit pro sociální sítě, aby zaujal v prvních třech vteřinách videospotu?“
+- „Jaký tón komunikace zvolit, abychom působili důvěryhodně a zároveň přívětivě?“
 Vzniká tak prostředí, ve kterém lze všechny nápady vidět pohromadě, snadno porovnávat a spojovat do výsledné strategie.
 3.	Interní firemní komunikace a organizace projektů:
 Týmový manažer pracuje na rozsáhlém projektu. Na plátno vloží uzly, které představují jednotlivé fáze projektu (Analýza, Návrh řešení, Realizace, Testování, Nasazení). Do dalších karet umístí informace o zdrojích, potřebných rolích, odhadech času a rozpočtu. ChatGPT Canvas mu pomůže generovat krátké shrnutí pro jednotlivé fáze, definice úkolů pro členy týmu, ba dokonce návrhy e-mailů a komunikačních zpráv. Když manažer potřebuje vytvořit například krátké shrnutí pro vedení firmy o tom, co již bylo splněno a co ještě zbývá, může požádat ChatGPT:
-•	„Vytvoř prosím stručné shrnutí stavu projektu tak, aby bylo srozumitelné pro neodborné publikum.“
-•	„Navrhni e-mail pro tým, který shrnuje klíčové milníky dosažené v posledním týdnu a povzbuzuje ke splnění dalších úkolů.“
+- „Vytvoř prosím stručné shrnutí stavu projektu tak, aby bylo srozumitelné pro neodborné publikum.“
+- „Navrhni e-mail pro tým, který shrnuje klíčové milníky dosažené v posledním týdnu a povzbuzuje ke splnění dalších úkolů.“
 Výhodou je, že vše je na jednom místě, přehledně vizualizováno a snadno editovatelné.
 4.	Tvorba vzdělávacích materiálů a studijních sylabů:
 Lektor vytváří nový předmět pro univerzitní kurz. Na plátno si připraví jednotlivé moduly: Úvod do problematiky, Hlavní teoretické koncepty, Případové studie, Praktická cvičení, Závěrečný test. Ke každému modulu vloží karty s poznámkami, klíčovými tématy a doporučenou literaturou. ChatGPT Canvas mu pomůže například navrhnout doplňující testové otázky, krátká shrnutí kapitol z doporučených knih nebo příklady reálných situací, na kterých studenti mohou aplikovat teoretické znalosti.
 Lektor se může ptát:
-•	„Uveď příklad dvou případových studií, které ilustrují problematiku řízení inovací v malých firmách.“
-•	„Navrhni 5 testových otázek s více možnostmi odpovědí ke kapitole o strategickém managementu.“
+- „Uveď příklad dvou případových studií, které ilustrují problematiku řízení inovací v malých firmách.“
+- „Navrhni 5 testových otázek s více možnostmi odpovědí ke kapitole o strategickém managementu.“
 Výsledkem je ucelený a vizuálně přehledný sylabus s množstvím podpůrných materiálů.
 
 ## Výhody a nevýhody ChatGPT Canvas
 
 Výhody:
-•	Lepší strukturování informací: Uživatelé získají vizuální kontrolu nad svým obsahem, což usnadňuje chápání vztahů mezi jednotlivými částmi textu.
-•	Rychlejší iterace a úpravy: Díky okamžité interakci s modelem je snadné provádět průběžné úpravy a získávat nové nápady.
-•	Podpora kreativity a inovací: Vizualizace a multidimenzionální uspořádání informací mohou vést k novým úhlům pohledu na obsah.
-•	Široké možnosti využití: Od akademických prací přes marketing až po interní komunikaci – nástroj je velmi univerzální.
-•	Kolaborativní prostředí: Více uživatelů může pracovat současně, čímž se zvyšuje efektivita týmové spolupráce.
+- Lepší strukturování informací: Uživatelé získají vizuální kontrolu nad svým obsahem, což usnadňuje chápání vztahů mezi jednotlivými částmi textu.
+- Rychlejší iterace a úpravy: Díky okamžité interakci s modelem je snadné provádět průběžné úpravy a získávat nové nápady.
+- Podpora kreativity a inovací: Vizualizace a multidimenzionální uspořádání informací mohou vést k novým úhlům pohledu na obsah.
+- Široké možnosti využití: Od akademických prací přes marketing až po interní komunikaci – nástroj je velmi univerzální.
+- Kolaborativní prostředí: Více uživatelů může pracovat současně, čímž se zvyšuje efektivita týmové spolupráce.
 
 Nevýhody:
-•	Počáteční křivka učení: Někteří uživatelé, zvyklí pouze na lineární text, se musí nejprve naučit pracovat s vizuálním prostředím.
-•	Závislost na kvalitě vstupu: Výstup ChatGPT je tak dobrý, jak kvalitní a přesné dotazy jsou zadány.
-•	Technické omezení: Při velmi rozsáhlých projektech může být systém náročný na hardware nebo internetové připojení, a to zejména v případě pokročilých integrací multimédií.
+- Počáteční křivka učení: Někteří uživatelé, zvyklí pouze na lineární text, se musí nejprve naučit pracovat s vizuálním prostředím.
+- Závislost na kvalitě vstupu: Výstup ChatGPT je tak dobrý, jak kvalitní a přesné dotazy jsou zadány.
+- Technické omezení: Při velmi rozsáhlých projektech může být systém náročný na hardware nebo internetové připojení, a to zejména v případě pokročilých integrací multimédií.
 
 ## Budoucí vývoj a trendy
 
