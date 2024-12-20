@@ -45,6 +45,47 @@ Výslednou práci si můžete nechat převést do Google Dokumentu a buďto si j
 
 Tak ať se vám Google Gemini Deep Research dobře používá!
 
-Pro porovnání dávám výstup, který mi na stejný dotaz [dává Perplexity.ai](https://www.perplexity.ai/search/research-all-the-possibilities-n10dzsMUSt2bUgdPZCHH0g) v placené Pro verzi. 
+Pro porovnání dávám výstup, který mi na stejný dotaz [dává Perplexity.ai](https://www.perplexity.ai/search/research-all-the-possibilities-n10dzsMUSt2bUgdPZCHH0g) v placené Pro verzi ve všeobecném režimu:
 
 ![Perplexity.ai odpověď](/assets/perplexity-pretezovani.png)
+
+A pokud se zeptáte v Pro módu v akademickém režimu, dostanete výrazně stručnější odpověď, ale také dobře návodnou:
+
+## Perplexity Pro Akademický režim
+
+Existuje několik moderních přístupů k odhadu hmotnosti vozidel pomocí kamerových systémů, které pomáhají monitorovat přetížení na silnicích.
+
+### Metody založené na deformaci pneumatik
+
+Základním principem je měření kontaktní plochy mezi pneumatikou a vozovkou. Systém využívá fyzikální vztah, kde síla je rovna součinu tlaku a plochy[1]. Tento přístup zahrnuje:
+
+- Měření deformačních parametrů pneumatik pomocí počítačového vidění
+- Rozpoznávání značení na bočnicích pneumatik pro zjištění doporučeného tlaku
+- Využití detekce hran a optického rozpoznávání znaků pro přesné měření[10]
+
+### Pokročilé systémy detekce
+
+**Fúze více technologií**
+Moderní systémy kombinují několik metod pro zvýšení přesnosti:
+- Dynamické vážení
+- Obrazové snímání
+- Laserové skenování
+
+Tento komplexní přístup dokáže udržet chybu měření celkové hmotnosti v rozmezí ±2,5%[6].
+
+**Pravděpodobnostní přístup**
+Využití fyzikálně podmíněných generativních adversariálních sítí (GAN) umožňuje:
+- Odhad pravděpodobnostního rozložení hmotnosti náprav
+- Zohlednění nejistoty měření
+- Aplikaci pro různé typy vozidel a zatížení[9]
+
+### Automatizované systémy kontroly
+
+Pro praktické využití byly vyvinuty systémy, které:
+- Automaticky monitorují zatížení vozidla
+- Okamžitě upozorňují řidiče na přetížení
+- Mohou být propojeny se systémem zapalování pro prevenci jízdy přetíženého vozidla[3]
+
+Tyto systémy jsou zvláště důležité v rozvojových zemích, kde nejsou běžně dostupné vážní stanice, a pomáhají předcházet poškození infrastruktury a nehodám způsobeným přetěžováním vozidel.
+
+
