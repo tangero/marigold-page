@@ -28,7 +28,7 @@ Jeffrey Cheung (1989), známý svými díly zachycujícími propojení a radostn
 🛹 Vliv skateboardingu:
 - Značka Unity: Cheung založil Unity jako značku propojující queer komunitu a skateboarding. Její poselství zdůrazňuje jednotu a komunitu.
 - Ve svých návrzích skateboardových desek kombinuje malbu s příběhy queer identity a komunitního ducha, což je i důvodem vzniku značky Unity.
-- Ručně malované skateboardy jsou nejen prostředkem uměleckého vyjádření, ale také nástrojem propojení s queer komunitou, což dokládá jeho oddanost této kultuře.
+- Ručně malované skateboardy jsou nejen prostředkem uměleckého vyjádření, ale také nástrojem propojení s queer komunitou
 
 ![Jeffrey Cheung a Unity skate brand](/assets/obrazy/Jeffrey-Cheung-unity-skate.jpeg)
 
