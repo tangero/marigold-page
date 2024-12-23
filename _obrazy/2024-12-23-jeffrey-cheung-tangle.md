@@ -10,7 +10,7 @@ styl: figurativní expresionismus
 urlobrazu: /assets/obrazy/Charlotte_Keates_The_house_shelters_daydreaming.jpg
 ---
 
-Jeffrey Cheung (1983), známý svými díly zachycujícími propojení a radostné vyjádření queer identity, čerpá inspiraci ze své vlastní zkušenosti s komunitou LGBTQ+, skateboardingem a hudbou. Jeho styl je jedinečný a charakteristický svými sytými barvami, organickými křivkami a hravými kompozicemi. Pojďme podrobněji prozkoumat jeho inspiraci a styl:
+Jeffrey Cheung (1989), známý svými díly zachycujícími propojení a radostné vyjádření queer identity, čerpá inspiraci ze své vlastní zkušenosti s komunitou LGBTQ+, skateboardingem a hudbou. Jeho styl je jedinečný a charakteristický svými sytými barvami, organickými křivkami a hravými kompozicemi. Pojďme podrobněji prozkoumat jeho inspiraci a styl:
 
 🎨 Inspirace a styl:
 - Cheungův umělecký styl se vyznačuje organickými a dynamickými liniemi, které zdůrazňují pohyb, propojení a radost. Postavy na jeho obrazech působí uvolněně, přirozeně a zároveň emocionálně.
@@ -25,7 +25,7 @@ Jeffrey Cheung (1983), známý svými díly zachycujícími propojení a radostn
 
 ![Jeffrey Cheung - Tangle](/assets/obrazy/jeffrey_cheung_tangle.jpg)
 
-- 🛹 Vliv skateboardingu:
+🛹 Vliv skateboardingu:
 - Značka Unity: Cheung založil Unity jako značku propojující queer komunitu a skateboarding. Její poselství zdůrazňuje jednotu a komunitu.
 - Ve svých návrzích skateboardových desek kombinuje malbu s příběhy queer identity a komunitního ducha, což je i důvodem vzniku značky Unity.
 - Ručně malované skateboardy jsou nejen prostředkem uměleckého vyjádření, ale také nástrojem propojení s queer komunitou, což dokládá jeho oddanost této kultuře.
@@ -41,7 +41,7 @@ Jeffrey Cheung (1983), známý svými díly zachycujícími propojení a radostn
 - 💲 Ceny děl: kvaše na papíru začínají na tisícovce dolarů, akryly na plátně s kvašem (používá kombinovanou techniku) spíše kolem čtyř tisícovek dolarů. Na angažované umění slušná cena!
 - Artsy jej dalo na index TOP5 nejrychleji rostoucích prodejů umělců za roky 2023-24.
 
-Cheung svým uměním nejen oslavuje queer komunitu, ale také boří bariéry mezi uměním a každodenním životem. Detailní 
+Cheung svým uměním nejen oslavuje queer komunitu, ale také boří bariéry mezi uměním a každodenním životem. 
 
 ![Jeffrey Cheung](/assets/obrazy/jeffrey_cheung.jpeg)
 
