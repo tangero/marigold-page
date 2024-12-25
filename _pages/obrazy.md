@@ -4,9 +4,9 @@ title: Obrazy
 permalink: /obrazy/
 ---
 
-<h2>Obrazy, které mám rád</h2>
+<h2>Zajímavé obrazy - stručný průvodce</h2>
 
-<p>Občas mě zaujme nějaký obraz a udělám si poznámku. Tady. Třeba vás potěší, podívat se na hezký obraz. Nehledejte v tom větší smysl, než si říct něco k obrazu, který mne zaujal. Není v tom ani struktura podle období, ani snaha/možnost vám obraz prodat. Jediná struktura je, že jsem obraz viděl na vlastní oči v originále, tzn. zpravidla s ohledem na to, že jsem byl na výstavě, kde byl presentován.</p>
+<p>Občas mě zaujme nějaký obraz a udělám si poznámku. Tady. Postupně se z poznámek stal příjemný přehled zajímavých obrazů z nejrůznějších výstav. Třeba potěší i vás.</p>
 
 <table id="obrazy-table" style="border-collapse: separate; border-spacing: 10px; width: 100%;">
   <thead>
