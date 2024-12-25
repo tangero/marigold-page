@@ -68,13 +68,13 @@ Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhr
 - Rok 2006: [UMTS Release 7](/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7/) a MIMO, HSPA+, 
 - **Rok 2009: [3GPP Release 8](/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti) - představuje LTE/4G** jako System Architecture Evolution (SAE) a&nbsp;[Evolved Packet Core (EPC)](/mobilnisite/epc-evolved-packet-core-lte/). Podpora OFDMA
 - Rok 2010: 3GPP Release 9 - femtocelly v podobě Home eNodeB (HeNB), Location Services (LCS), Evolved Multimedia Broadcast/Multicast Service (eMBMS), VoLTE a Circuit Switched FallBack (CSFB)
-- **Rok 2011: [3GPP Release 10 - LTE Advanced](/mobilnisite/3gpp-release-10)** a funkce CA (Carrier Aggregation), HetNet a advanced MIMO.
+- **Rok 2011: [3GPP Release 10 - LTE Advanced](/mobilnisite/3gpp-release-10)** a funkce CA (Carrier Aggregation), HetNet a [advanced MIMO](/mobilnisite/mimo).
 - Rok 2013: 3GPP Release 11 - rozšiřuje funkce Rel-10 o CoMP a rozšiřuje podporu HetNet, heterogenních sítí
 - Rok 2015: 3GPP Release 12 - Dual Connect, FDD-TDD CA, 245 QAM a D2D
-- **Rok 2016: 3GPP Release 13 jako LTE Advanced Pro** - rozšírení pro CA a MIMO, [nelicencovaný přístup k pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu/) vzniklé mimo standard se mění v [Licencovaný asistovaný přístup (LAA)](/item/laa_release_13/). [NB-IOT](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/). Gigabitový downlink.
+- **Rok 2016: 3GPP Release 13 jako LTE Advanced Pro** - rozšírení pro CA a [MIMO](/mobilnisite/mimo), [nelicencovaný přístup k pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu/) vzniklé mimo standard se mění v [Licencovaný asistovaný přístup (LAA)](/item/laa_release_13/). [NB-IOT](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/). Gigabitový downlink.
 - Rok 2017: 3GPP Release 14 - eLAA, Vehicle2Everything, Digital TV broadcast 
-- **Rok 2018: 3GPP Release 15 jako 5G** - především [5G New Radio](/item/5G_NR_New_Radio/), zcela přepracovaný koncept obsahující mimo jiné škálovatelné OFDMA, masivní MIMO, beamforming, Service Based Architecture SBA, [nové 5G Core](/item/5G_Core/) či Dual Connectivity s LTE, 
-- 3GPP Release 16 - rozšířené MIMO i beamforming a Dynamic Spectrum Sharing DSS. [Integrované přístupové a páteřní propojení](/item/integrated_access_and_backhaul_iab_5G/), [vRAN](/item/c-ran_vran_open_ran/), podpora IoT a V2X
+- **Rok 2018: 3GPP Release 15 jako 5G** - především [5G New Radio](/item/5G_NR_New_Radio/), zcela přepracovaný koncept obsahující mimo jiné škálovatelné OFDMA, [masivní MIMO a beamforming](/mobilnisite/mimo), Service Based Architecture SBA, [nové 5G Core](/item/5G_Core/) či Dual Connectivity s LTE, 
+- 3GPP Release 16 - [rozšířené MIMO i beamforming](/mobilnisite/mimo) a Dynamic Spectrum Sharing DSS. [Integrované přístupové a páteřní propojení](/item/integrated_access_and_backhaul_iab_5G/), [vRAN](/item/c-ran_vran_open_ran/), podpora IoT a V2X
 - 3GPP Release 17 - podpora 60 GHZ nelicenovaného pásma, [nezemských sítí NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) a sidelink relaying
 - **Rok 2024: [3GPP Release 18](/item/5G_advanced_3GPP_Release-18/) jako 5G Advanced**
 
