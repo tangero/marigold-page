@@ -60,17 +60,17 @@ Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kte
 
 12. [Dual Connectivity](/mobilnisite/dual-connectivity)
 - Představení: Release 12
-- Zařízení může komunikovat současně s makrobuněčnou a malobuněčnou sítí.
+- Zařízení může komunikovat současně s dvěma buňkama najednou
 
 13. [Licensed-Assisted Access (LAA)](/mobilnisite/laa-5gnr-u)
 - Představení: Release 13
 - Využití nelicencovaného spektra (5 GHz) společně s licencovaným pásmem.
 
-14. Narrowband Internet of Things (NB-IoT)
+14. [Narrowband Internet of Things (NB-IoT)](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/)
 - Představení: Release 13
 - Technologie pro IoT aplikace s nízkou spotřebou a nízkou šířkou pásma.
 
-15. Massive MIMO
+15. [Massive MIMO](/item/chytre-anteny-5G-6G/)
 - Představení: Release 13/14
 - Více anténních prvků pro výrazně vyšší kapacitu a pokrytí.
 
