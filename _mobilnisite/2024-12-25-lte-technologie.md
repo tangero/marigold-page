@@ -74,11 +74,7 @@ Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kte
 - Představení: Release 13/14
 - Více anténních prvků pro výrazně vyšší kapacitu a pokrytí.
 
-16. Latency Reduction (nižší latence)
-- Představení: Release 13
-- Optimalizace latence pro nové aplikace (např. kritické komunikace).
-
-17. Proximity Services (ProSe) / Device-to-Device (D2D) Communication
+17. [Proximity Services (ProSe) / Device-to-Device (D2D) komunikace](/mobilnisite/prose-d2d/)
 - Představení: Release 12
 - Komunikace mezi zařízeními bez zásahu základnové stanice.
 
