@@ -46,7 +46,7 @@ Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kte
 - Představení: Release 10
 - Reléové uzly zlepšují pokrytí a kapacitu sítě v odlehlých oblastech.
 
-9. LTE Broadcast / eMBMS (Enhanced Multimedia Broadcast Multicast Service)
+9. [LTE Broadcast / eMBMS (Enhanced Multimedia Broadcast Multicast Service)](/mobilnisite/LTE-Broadcast-eMBMS)
 - Představení: Release 9
 - Rozšíření: Release 11 – Optimalizace eMBMS pro vyšší efektivitu.
 
