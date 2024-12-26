@@ -58,7 +58,7 @@ Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kte
 - Představení: Release 8
 - Rozšíření: Release 10/11 – Vylepšení pro lepší řízení rušení v uplinku.
 
-12. Dual Connectivity
+12. [Dual Connectivity](/mobilnisite/dual-connectivity)
 - Představení: Release 12
 - Zařízení může komunikovat současně s makrobuněčnou a malobuněčnou sítí.
 
