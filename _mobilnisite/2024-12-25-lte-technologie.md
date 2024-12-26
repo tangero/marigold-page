@@ -54,7 +54,7 @@ Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kte
 - Představení: Release 8
 - Rozšíření: Release 9/10 – Rozšíření o nové funkce pro automatickou konfiguraci a optimalizaci sítě.
 
-11. Enhanced Uplink (UL) Power Control
+11. [Enhanced Uplink (UL) Power Control](/mobilnisite/eul-pc/)
 - Představení: Release 8
 - Rozšíření: Release 10/11 – Vylepšení pro lepší řízení rušení v uplinku.
 
