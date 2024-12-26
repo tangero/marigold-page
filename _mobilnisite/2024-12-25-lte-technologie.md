@@ -42,7 +42,7 @@ Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kte
 - Představení: Release 10
 - Integrace různých typů buněk (makro, pico, femto) pro zlepšení pokrytí a kapacity.
 
-8. Relay Nodes (RN)
+8. [Relay Nodes (RN)](/mobilnisite/relay-node/)
 - Představení: Release 10
 - Reléové uzly zlepšují pokrytí a kapacitu sítě v odlehlých oblastech.
 

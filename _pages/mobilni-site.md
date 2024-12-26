@@ -68,7 +68,7 @@ Zde popisuji standardizační popsuny v rámci jednotlivých Release, tedy souhr
 - Rok 2006: [UMTS Release 7](/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7/) a MIMO, HSPA+, 
 - **Rok 2009: [3GPP Release 8](/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti) - představuje LTE/4G** jako System Architecture Evolution (SAE) a&nbsp;[Evolved Packet Core (EPC)](/mobilnisite/epc-evolved-packet-core-lte/). Podpora OFDMA
 - Rok 2010: 3GPP Release 9 - [femtocelly v podobě Home eNodeB (HeNB)](/mobilnisite/hetnet), Location Services (LCS), Evolved Multimedia Broadcast/Multicast Service (eMBMS), VoLTE a Circuit Switched FallBack (CSFB)
-- **Rok 2011: [3GPP Release 10 - LTE Advanced](/mobilnisite/3gpp-release-10)** a funkce CA (Carrier Aggregation), HetNet a [advanced MIMO](/mobilnisite/mimo).
+- **Rok 2011: [3GPP Release 10 - LTE Advanced](/mobilnisite/3gpp-release-10)** a funkce CA (Carrier Aggregation), [HetNet](/mobilnisite/hetnet), [Relay Nodes (RN)](/mobilnisite/relay-node/) a [advanced MIMO](/mobilnisite/mimo).
 - Rok 2013: 3GPP Release 11 - rozšiřuje funkce Rel-10 o CoMP a rozšiřuje podporu HetNet, heterogenních sítí
 - Rok 2015: 3GPP Release 12 - Dual Connect, FDD-TDD CA, 245 QAM a D2D
 - **Rok 2016: 3GPP Release 13 jako LTE Advanced Pro** - rozšírení pro CA a [MIMO](/mobilnisite/mimo), [nelicencovaný přístup k pásmu](/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu/) vzniklé mimo standard se mění v [Licencovaný asistovaný přístup (LAA)](/item/laa_release_13/). [NB-IOT](/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti/). Gigabitový downlink.
