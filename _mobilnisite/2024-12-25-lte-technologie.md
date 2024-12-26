@@ -38,7 +38,7 @@ Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kte
 - Rozšíření: Release 11 – FeICIC (Further Enhanced ICIC)
 - Snižuje interferenci mezi makro a malými buňkami.
 
-7. Heterogeneous Networks (HetNets)
+7. [Heterogeneous Networks (HetNets)](/mobilnisite/hetnet)
 - Představení: Release 10
 - Integrace různých typů buněk (makro, pico, femto) pro zlepšení pokrytí a kapacity.
 
