@@ -50,7 +50,7 @@ Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kte
 - Představení: Release 9
 - Rozšíření: Release 11 – Optimalizace eMBMS pro vyšší efektivitu.
 
-10. Self-Organizing Networks (SON)
+10. [Self-Organizing Networks (SON)](/mobilnisite/son/)
 - Představení: Release 8
 - Rozšíření: Release 9/10 – Rozšíření o nové funkce pro automatickou konfiguraci a optimalizaci sítě.
 
