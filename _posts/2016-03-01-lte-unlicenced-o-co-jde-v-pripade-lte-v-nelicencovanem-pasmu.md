@@ -9,8 +9,9 @@ oldlink: >
 published: true
 post_date: 2016-03-01 09:57:53
 ---
-<p>Vize provozu LTE v nelicencovaném pásmu je stará pět let, nakonec ji ale představil Qualcomm a Ericsson koncem roku 2013.  Od té doby se neví přesně, zda jde o myšlenku heretickou nebo spásnou. Jak tedy?</p>
+Vize provozu LTE v nelicencovaném pásmu je stará pět let, nakonec ji ale představil Qualcomm a Ericsson koncem roku 2013.  Od té doby se neví přesně, zda jde o myšlenku heretickou nebo spásnou. Jak tedy?
 
+Update 12/2024: vývoj pokročil, aktualizované informace [k provozu LTE/5G v nelicencovaném pásmu jsou v tomto článku](/mobilnisite/laa-5gnr-u).
 
 <!--more-->
 

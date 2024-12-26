@@ -22,18 +22,18 @@ Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kte
     - Release 10 (LTE-Advanced) – 4x4 MIMO
     - Release 13/14 – Podpora pro 8x8 MIMO v downlinku a 4x4 MIMO v uplinku.
 
-4. [Carrier Aggregation (CA)](/)
+4. [Carrier Aggregation (CA)](/mobilnisite/3gpp-release-10/)
 - Představení: Release 10 (LTE-Advanced)
 - Rozšíření:
     - Release 11 – Více nosných pásem (až 3 nosné).
     - Release 12 – Podpora agregace až 5 nosných pásem (100 MHz).
     - Release 13/14 – Rozšíření CA na licenciované i nelicencované pásmo.
 
-5. Coordinated Multipoint (CoMP)
+5. [Coordinated Multipoint (CoMP)](/item/koordinovane-vicebodove-spojeni-v-lte/)
 - Představení: Release 11
 - Zlepšuje výkon na hranici buněk prostřednictvím koordinace více přístupových bodů.
 
-6. Enhanced Inter-Cell Interference Coordination (eICIC)
+6. [Enhanced Inter-Cell Interference Coordination (eICIC)](/mobilnisite/3gpp-release-10/)
 - Představení: Release 10
 - Rozšíření: Release 11 – FeICIC (Further Enhanced ICIC)
 - Snižuje interferenci mezi makro a malými buňkami.
@@ -62,7 +62,7 @@ Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kte
 - Představení: Release 12
 - Zařízení může komunikovat současně s makrobuněčnou a malobuněčnou sítí.
 
-13. Licensed-Assisted Access (LAA)
+13. [Licensed-Assisted Access (LAA)](/mobilnisite/laa-5gnr-u)
 - Představení: Release 13
 - Využití nelicencovaného spektra (5 GHz) společně s licencovaným pásmem.
 
