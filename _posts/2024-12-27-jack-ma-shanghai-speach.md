@@ -16,6 +16,16 @@ Za tento projev byl komunistickou stranou Číny kritizován, jeho firmě bylo z
 
 Celý proslov si můžete v čínštině shlédnout [zde na Youtube](https://youtu.be/VxWVOm05NKU). Poznámky, zváraznění a linky jsou moje, pro upřesnění a kontext. 
 
+## Shrnutí hlavních myšlenek z projevu
+
+1. Kritizuje slepé následování západních finančních standardů. Čína by měla vytvářet systém pro budoucnost, ne kopírovat existující modely.
+2. Současný čínský finanční systém trpí nedostatkem struktury, ne jejím přebytkem. Přirovnává ho k říčnímu systému, který potřebuje nejen velké řeky (velké banky), ale i menší toky a jezera (menší finanční instituce).
+3. Basilejské dohody jsou podle něj nevhodné pro Čínu - jsou určeny pro "nemoci stáří" vyspělých finančních systémů, zatímco Čína řeší "dětské nemoci" rozvíjejícího se systému.
+4. Obhajuje potřebu inovací i za cenu určitých rizik. Argumentuje, že snaha o nulové riziko ve skutečnosti vytváří větší systémová rizika.
+5. Navrhuje přechod od zajištěného (lombardního) bankovnictví k systému založenému na kreditu využívajícím big data a moderní technologie.
+6. Prosazuje vytvoření nového finančního systému zaměřeného na podporu malých podniků a mladých lidí (teorie "8-2" místo současné "2-8").
+7. Zdůrazňuje potenciál digitálních měn pro budoucí finanční systém a nutnost jejich vývoje podle potřeb trhu, ne pouze z pohledu regulátorů.
+
 ---
 
 Děkuji za pozvání na tento summit. Jsem rád, že mám tuto příležitost se s vámi učit, diskutovat a vyměňovat si názory. V roce 2013 jsem rovněž v Šanghaji přijel na Lujiazui Finance Summit a podělil jsem se s vámi o některé „koláče“ ohledně financí poháněných internetem. O sedm let později jsem dnes opět v Šanghaji jako neoficiální neprofesionální osoba zde na summitu Bund Finance a doufám, že se s vámi podělím o další témata k zamyšlení.
