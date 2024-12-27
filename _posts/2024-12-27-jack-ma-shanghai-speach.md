@@ -4,7 +4,7 @@ author: Patrick Zandl
 post_excerpt: "Toto je překlad projevu Jacka Ma, který pronesl 24. října 2020 na finančním summitu Bund v Šanghaji. Jack Ma v projevu zpochybnil tradiční bankovní model v Číně a vyjádřil se kriticky k příliš konzervativním regulacím. A byl za to potrestán. Projev stojí za pozornost i pro čtenáře v EU."
 layout: post
 categories: [Čína, Jack Ma, Ekonomika]
-thumbnail: https://www.trustnodes.com/wp-content/uploads/2020/11/jack-ma-shanghai-bund-summit-oct-2020.jpg
+thumbnail: https://www.marigold.cz/assets/jack-ma-shanghai-bund-summit-10-2020.jpg
 ---
 
 
@@ -27,7 +27,7 @@ V tuto chvíli jsem v podstatě v důchodu, a tak jsem si řekl, že na tomto ne
 
 Mám pro vás tři úhly pohledu. Mohou být nedospělé, nesprávné nebo úsměvné. Prostě si je poslechněte, a pokud nedávají smysl, zapomeňte na ně.
 
-## Bílá místa nejsou nedostatek, ale vlastnost
+## Bílá místa nejsou nedostatek, ale příležitost
 
 **První názor** je, že máme určitou setrvačnost v myšlení, jako bychom měli stále pocit, že abychom udrželi krok s mezinárodními standardy, musíme dělat to, co udělaly vyspělé země jako Evropa a Spojené státy. Pokud nemáme něco, co mají ony, takzvaná „bílá místa“, musíme tato bílá místa zaplnit doma. Vyplnění těchto míst se stalo cílem, o který je třeba usilovat.
 
@@ -46,7 +46,7 @@ Jsou to jako dvě zcela odlišné nemoci, jako Alzheimerova choroba a dětská o
 Basilejské dohody jsou určeny k léčbě nemocí starých lidí se stárnoucím systémem a nadměrnou složitostí, a my se musíme zamyslet nad tím, co se můžeme od starých lidí naučit? Musíte si uvědomit, že starší lidi a mladší lidi zajímají jiné problémy. Mladší lidi zajímá, zda existují školy, starší lidi zajímá, zda existují nemocnice.
 Způsob, jakým se svět v tomto roce mění, je tedy fascinující a velmi rychlý. Včera večer jsme v Šanghaji rozhodovali o ceně IPO společnosti Ant. Jedná se o největší vstup na burzu, jaký kdy byl v historii celého lidstva oceněn, a ocenění proběhlo jinde než v New Yorku. To bylo před pěti lety, dokonce i před třemi lety, nemyslitelné, ale zázraky se dějí.
 
-## Dobrá inovace se nebojí regulace
+## Snaha o nulová rizika vytváří systémová rizika
 
 **Za druhé**, inovace musí mít svou cenu a naše generace musí převzít tuto odpovědnost.
 
@@ -78,7 +78,7 @@ Myslím, že existuje ještě jeden fenomén. Mnoho regulačních úřadů na ce
 
 Na základě mého chápání to, co prezident Xi řekl o _„zvyšování řídících schopností“_, znamená udržení zdravého a udržitelného rozvoje v rámci spořádané regulace, nikoliv žádný rozvoj v důsledku regulace. Regulovat není obtížné. Co je obtížné, je zajistit regulaci, která dosáhne účelu, jímž je dosažení udržitelného a zdravého rozvoje.
 
-## Změna finanční mentality
+## Změna finanční mentality i systému
 
 **Třetí bod**: podstatou financí je řízení úvěrů. Musíme změnit lombardní mentalitu dnešního finančnictví a spoléhat na rozvoj systému založeného na úvěrech.
 
@@ -115,5 +115,7 @@ Pokud jde o samotné finance, Spojené státy pokračují v dodávání peněz d
 Nemůžeme se jednoduše postavit proti mnoha dnešním mezinárodním organizacím, ale musíme společně přehodnotit jejich hodnotu v dnešním světě, ať už jde o OSN, WTO nebo WHO. S těmito organizacemi je skutečně mnoho problémů. Se všemi těmito organizacemi jsem jednal, pracoval a spolupracoval. Jejich odstranění není řešením. Měli bychom se zamyslet nad tím, jak mohou tyto organizace čelit budoucnosti, vyvíjet se a měnit své postavení.
 
 Nový finanční systém je cestou budoucnosti. Ať se nám to líbí, nebo ne, bude vytvořen. Ať už to uděláme, nebo ne, někdo to udělá. Věřím, že v budoucnu si reforma vyžádá oběti, že bude třeba zaplatit určitou cenu. Naše generace musí takovou reformu udělat, ale možná bude viditelná až pro další generaci. Možná to budeme my, kdo bude muset nést toto břemeno dál. Je to historická příležitost a historická odpovědnost. V uplynulých 16 letech se společnost Ant Financials soustředila na ekologický, udržitelný a inkluzivní rozvoj. Pokud jsou zelené, udržitelné a inkluzivní finance špatným řešením, budeme tuto chybu opakovaně opakovat.
+
+_Projev představoval přímou kritiku čínského regulatorního systému a tradičního bankovnictví, což vedlo k následným represivním opatřením vůči Ma a jeho společnostem._
 
 _Jack Ma, Šanghaj, Bund forum 24. října 2020_
