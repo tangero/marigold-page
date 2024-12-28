@@ -6,19 +6,16 @@ permalink: /rubriky/
 <h1>Seznam rubrik a tagů</h1>
 
 <ul>
-  {% assign tag_count = {} %}
+  {% assign tag_count = "" %}
 
   {% for post in site.posts %}
     {% for tag in post.tags %}
-      {% if tag_count[tag] %}
-        {% assign tag_count[tag] = tag_count[tag] | plus: 1 %}
+      {% capture tag_key %}{{ tag }}{% endcapture %}
+      {% if tag_count contains tag_key %}
+        {% assign tag_count[tag_key] = tag_count[tag_key] | plus: 1 %}
       {% else %}
-        {% assign tag_count[tag] = 1 %}
+        {% assign tag_count = tag_count | merge: tag_key %}
       {% endif %}
     {% endfor %}
-  {% endfor %}
-
-  {% for tag, count in tag_count %}
-    <li>{{ tag }}: {{ count }} příspěvků</li>
   {% endfor %}
 </ul>
