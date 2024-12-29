@@ -16,11 +16,7 @@ featured: true
 
 Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři. A na to se dnes podíváme. Článek tedy není určen pro programátory ke zvyšování jejich produktivity, ale neprogramátorům, kteří občas potřebují vytvořit nějaký program.
 
-  
-
 Programování má oproti mnoha jiným tvůrčím postupům zásadní nevýhodu: něco o tom musíte vědět. Pokud si otevřete vývojové prostředí, musíte tušit, jak za sebe skládat příkazy a dokud to neuděláte správně, nic nefunguje. Když budete chtít psát nebo kreslit, tak možná nenapíšete nebo nenakreslíte nic extra hezkého, ale nějak to bude fungovat. U programování ne - buďto víte, jak na to, nebo neuděláte ani prd.
-
-  
 
 To ale AI mění. Pokud si předplácíte ChatGPT nebo Claude, můžete nechat umělou inteligenci vytvořit za vás i velmi rozsáhlé programy. Začít je samozřejmě lepší drobnějšími scripty a trochu se s celou věcí seznámit.
 
@@ -28,6 +24,7 @@ To ale AI mění. Pokud si předplácíte ChatGPT nebo Claude, můžete nechat u
 
 Pojďme se podívat, jak na to.
 
+> Poznámka: o [tvorbě Agentů pro AI pojednává samostatný článek](/ai/agenti/). 
   
 
 **Za prvé je potřeba si ujasnit, co chcete vytvořit.** Rozhodně nepředpokládejte, že vám AI vygeneruje na jeden prompt weby rozsahu Facebooku. To za prvé. Za druhé je dobré něco o vývoji a provozu webů vědět, samozřejmě čím více, tím lépe, ale každý základ se hodí. Za třetí, uvažujte o AI jako o zkušenějším kolegovi, po kterém můžete ledasco chtít, ale musíte mu to dobře vysvětlit.

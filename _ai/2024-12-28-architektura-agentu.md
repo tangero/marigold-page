@@ -34,15 +34,17 @@ Prompt chaining rozkládá úlohu na posloupnost kroků, kde každé volání LL
 
 ```mermaid
 graph LR
-In[Vstup] --> LLM1[LLM Volání 1]
-LLM1 --> Output1[Výstup 1]
-Output1 --> Gate[Brána]
-Gate --> LLM2[LLM Volání 2]
-LLM2 --> "Předání"
-"Předání" --> LLM3[LLM Volání 3]
-LLM3 --> Output2[Výstup 2]
-Gate -- Selhání --> Exit[Ukončení]
-"Předání" -- Úspěch --> Out[Výstup]
+  In[Vstup] --> LLM1[LLM Volání 1]
+  LLM1 --> Output1[Výstup 1]
+  
+  Output1 --> Gate[Brána]
+  Gate --> LLM2[LLM Volání 2]
+  LLM2 --> "Předání" 
+  "Předání" --> LLM3[LLM Volání 3]
+  LLM3 --> Output2[Výstup 2]
+  
+  Gate -- Selhání --> Exit[Ukončení]
+  "Předání" -- Úspěch --> Out[Výstup]
 ```
   
 
