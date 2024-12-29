@@ -5,7 +5,9 @@ date: 2024-12-03
 categories: [5G, 5G-Advanced, Mobilní sítě]
 hide: true
 ---
-
+__Co konkrétně se v tomto článku dozvíte?__ 
+* Obsah
+{:toc}
 
 
 Network slicing představuje jednu z nejvýznamnějších technologií zavedených v 5G sítích, která umožňuje operátorům vytvářet více virtuálních sítí (tzv. slices) na sdílené fyzické infrastruktuře. Proč? Inu proto, že tento přístup umožňuje za prvé kvalitnější a rychlejší obsluhu uživatele v síti a pak šetřit zdroje sítě. 

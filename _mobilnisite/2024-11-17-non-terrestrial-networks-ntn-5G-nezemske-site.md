@@ -5,7 +5,9 @@ date: 2024-11-17
 categories: [5G, Mobilní sítě]
 thumbnail: https://cdn.everythingrf.com/live/1681111338034_638167081392088941.png
 ---
-
+__Co konkrétně se v tomto článku dozvíte?__ 
+* Obsah
+{:toc}
 
 Non-Terrestrial Networks (NTN) představují další významný krok v evoluci mobilních sítí, který spojuje konvenční pozemní infrastrukturu s vesmírnou komponentou. S příchodem 5G standardů, konkrétně od Release 17, se NTN stávají integrální součástí mobilních sítí, což otevírá zcela nové možnosti v oblasti globální konektivity.
 

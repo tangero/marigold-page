@@ -5,6 +5,9 @@ date: 2024-11-25
 categories: [LTE, 4G, Mobilní sítě]
 thumbnail: https://www.sumitomocorp.com/africa/-/media/Images/hq/business/case/cc-191129/hero.jpg
 ---
+__Co konkrétně se v tomto článku dozvíte?__ 
+* Obsah
+{:toc}
 
 Základem rychlých datových přenosů v LTE se stalo OFDMA, které efektivně rozdělovalo dostupné spektrum mezi uživatele. Jaké jsou ale alternativy a co může přijít v sítích 6G? 
 

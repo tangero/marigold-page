@@ -5,6 +5,9 @@ date: 2024-12-25
 categories: [LTE, LTE-Advanced, 4G, Mobilní sítě]
 hide: true
 ---
+__Co konkrétně se v tomto článku dozvíte?__ 
+* Obsah
+{:toc}
 
 # LTE Broadcast / eMBMS: Evoluce technologie pro efektivní distribuci multimediálního obsahu
 

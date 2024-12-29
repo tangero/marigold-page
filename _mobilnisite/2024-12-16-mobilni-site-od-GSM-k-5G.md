@@ -4,6 +4,9 @@ title: "Vývoj síťové architektury 3GPP: Od GSM přes 3G a LTE k 5G Advanced"
 date: 2024-12-16
 categories: [5G, 5G-Advanced, Mobilní sítě]
 ---
+__Co konkrétně se v tomto článku dozvíte?__ 
+* Obsah
+{:toc}
 
 Pokud mají moderní mobilní sítě nabízet zrychlení, znamená to mimo jiné, že je potřeba zjednodušovat jejich architekturu, neboť vzájemná komunikace jednotlivých komponent generuje prodlevy, jež uživatelům nevyhovují. Zjednodušení architektury mobilní sítě je tedy hnacím motivem nových generací mobilních sítí. 
 
