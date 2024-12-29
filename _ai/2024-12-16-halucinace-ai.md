@@ -5,7 +5,9 @@ date: 2024-12-16
 order: 4
 thumbnail: https://datascientest.com/en/files/2024/03/AI_hallucinations-1024x585-1.jpg
 ---
-
+__Co konkrétně se v tomto článku dozvíte?__ 
+* Obsah
+{:toc}
 
 Halucinace ve světě umělé inteligence nejsou metaforickým popisem mystických vizí, nýbrž zcela konkrétním a nežádoucím jevem, kdy model (například velký jazykový model typu GPT, LLaMA či PaLM) generuje informace, které buď neodpovídají realitě, nebo jsou zcela smyšlené. 
 

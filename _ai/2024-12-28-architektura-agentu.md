@@ -5,6 +5,9 @@ date: 2024-12-28
 order: 3
 hide: true
 ---
+__Co konkrétně se v tomto článku dozvíte?__ 
+* Obsah
+{:toc}
 
 V této části se budeme zabývat běžnými druhy agentových systémů. Začneme základním stavebním blokem - rozšířeným LLM - a postupně budeme zvyšovat složitost, od jednoduchých workflow až po autonomní agenty.
 
