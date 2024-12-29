@@ -3,6 +3,7 @@ layout: post
 title: "Dual Connectivity (DC)"
 date: 2024-12-26
 categories: [LTE, LTE-Advanced, 4G, Mobilní sítě]
+hide: true
 ---
 
 

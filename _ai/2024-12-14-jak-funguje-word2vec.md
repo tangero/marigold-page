@@ -3,6 +3,7 @@ layout: post
 title: "Jak funguje Word2vec"
 date: 2024-12-14
 order: 6
+hide: true
 ---
 
 

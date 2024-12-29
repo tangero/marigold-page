@@ -3,6 +3,7 @@ layout: post
 title: "Evolved Packet Core (EPC): Nové jádro sítě v LTE"
 date: 2024-12-16
 categories: [4G, LTE, Mobilní sítě]
+hide: true
 ---
 
 S 3G sítěmi vznikl nepříjemný problém. Kvůli kompatibilitě se systémy GSM zde byla "zavlečena" okruhově spínaná technologie, která dříve dobře sloužila pro telefonování. Jak by ne, packetový přenos hlasu přes IP byl v době vzniku GSM v plenkách a ani s technologií GPRS to s ním nebylo nijak jednoduché. Jenže rychlosti a kvalita datového spojení se v mobilních sítích zvyšovala a bylo možné se na starou okruhově spínanou technologii vykašlat. To by mělo zásadní přínos v efektivnějším využití přenosového pásma. Jenže 3G k tomu prostě neměla dost odvahy, doba nenazrála. Ale v prvním desetiletí nového tisíciletí už bylo možné k něčemu takovému sáhnout. A tak vznikla definice jádra sítě v podobě Evolved Packet Core (EPC). 

@@ -3,6 +3,7 @@ layout: post
 title: "ChatGPT Canvas - vizuální prostředí pro tvorbu textu s AI"
 date: 2024-12-20
 order: 
+thumbnail: https://cdn.mos.cms.futurecdn.net/29dEsRb6WHVHFNnNzGh2oD.png
 ---
 
 ChatGPT Canvas je relativně novým a inovativním nástrojem, který propojuje schopnosti jazykového modelu ChatGPT s vizuálním prostředím a pokročilými funkcemi pro tvorbu, organizaci a prezentaci textového obsahu. Je to vlastně online editor, který umožňuje editovat a pomocí AI zpracovávat textová data přímo v prostředí prohlížeče. 

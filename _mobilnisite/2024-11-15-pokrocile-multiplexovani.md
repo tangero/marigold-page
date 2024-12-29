@@ -3,11 +3,12 @@ layout: post
 title: "Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G"
 date: 2024-11-25
 categories: [LTE, 4G, Mobilní sítě]
+thumbnail: https://www.sumitomocorp.com/africa/-/media/Images/hq/business/case/cc-191129/hero.jpg
 ---
 
-Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G
+Základem rychlých datových přenosů v LTE se stalo OFDMA, které efektivně rozdělovalo dostupné spektrum mezi uživatele. Jaké jsou ale alternativy a co může přijít v sítích 6G? 
 
-Orthogonal Frequency Division Multiple Access (OFDMA) se stal základem pro technologie 4G LTE a 5G NR díky své schopnosti efektivně rozdělit dostupné frekvenční spektrum mezi uživatele. Přestože OFDMA nabízí vysokou spektrální efektivitu a robustnost vůči interferenci, vývoj směrem k sítím 6G s sebou přináší potřebu alternativ, které by mohly zlepšit využití spektra, podporovat masivní konektivitu a umožnit přenosy dat s nízkou latencí. 
+Přestože OFDMA nabízí vysokou spektrální efektivitu a robustnost vůči interferenci, vývoj sítí 6G s sebou přináší potřebu alternativ, které by mohly zlepšit využití spektra, podporovat masivní konektivitu a umožnit přenosy dat s nízkou latencí. 
 
 Zde si podrobněji probereme nejvýznamnější technologie, které se zvažují jako doplňky nebo náhrady OFDMA:
 

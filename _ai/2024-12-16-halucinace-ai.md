@@ -3,10 +3,13 @@ layout: post
 title: "Halucinace v umělé inteligenci: Co to je, proč vznikají, jak je rozpoznat a minimalizovat"
 date: 2024-12-16
 order: 4
+thumbnail: https://datascientest.com/en/files/2024/03/AI_hallucinations-1024x585-1.jpg
 ---
 
 
-Halucinace ve světě umělé inteligence nejsou metaforickým popisem mystických vizí, nýbrž zcela konkrétním a nežádoucím jevem, kdy model (například velký jazykový model typu GPT, LLaMA či PaLM) generuje informace, které buď neodpovídají realitě, nebo jsou zcela smyšlené. Tyto halucinace představují zásadní problém zejména v oblastech, kde je vyžadována absolutní přesnost a důvěryhodnost, jako jsou právní dokumenty, medicínské diagnózy či technické specifikace. Přestože se jedná o poměrně známý fenomén, pochopení jeho vzniku, možností detekce a opatření proti němu je klíčové pro efektivní a odpovědné nasazování pokročilých AI systémů.
+Halucinace ve světě umělé inteligence nejsou metaforickým popisem mystických vizí, nýbrž zcela konkrétním a nežádoucím jevem, kdy model (například velký jazykový model typu GPT, LLaMA či PaLM) generuje informace, které buď neodpovídají realitě, nebo jsou zcela smyšlené. 
+
+Tyto halucinace představují zásadní problém zejména v oblastech, kde je vyžadována absolutní přesnost a důvěryhodnost, jako jsou právní dokumenty, medicínské diagnózy či technické specifikace. Přestože se jedná o poměrně známý fenomén, pochopení jeho vzniku, možností detekce a opatření proti němu je klíčové pro efektivní a odpovědné nasazování pokročilých AI systémů.
 
 ### Co jsou halucinace v kontextu umělé inteligence?
 

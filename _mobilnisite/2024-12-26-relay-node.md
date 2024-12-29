@@ -3,6 +3,7 @@ layout: post
 title: "Relay Nodes: přenosové uzly v mobilních sítích"
 date: 2024-12-25
 categories: [5G, Mobilní sítě, LTE]
+hide: true
 ---
 
 Relay Node (RN) je zajímavá technologie, která vychází z původního poněkud nelegálního konceptu zesilovačů z GSM sítí. V devadesátých letech kvůli špatnému pokrytí GSM signálem při startu GSM sítí existovaly tzv. zesilovače, které zachytávaly, zesilovaly a znovu vysílali signál GSM sítí, aniž by do signálu jako takového jinak vstupovaly. S pokročilejšími technologiemi tento koncept získal trhliny, protože šlo potenciálně o klasický Man-in-the-middle útok. Do cesty mezi legitimního uživatele a legitimní základnovou stanici se dostal třetí prvek nekontrolovaný žádnou ze stran, který by mohl libovolně s daty manipulovat. 

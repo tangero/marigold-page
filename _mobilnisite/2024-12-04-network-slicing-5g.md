@@ -3,6 +3,7 @@ layout: post
 title: "Network Slicing v 5G sítích"
 date: 2024-12-03
 categories: [5G, 5G-Advanced, Mobilní sítě]
+hide: true
 ---
 
 

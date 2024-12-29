@@ -3,6 +3,7 @@ layout: post
 title: "LTE a LTE-Advanced technologie"
 date: 2024-12-25
 categories: [LTE, LTE-Advanced, 4G, Mobilní sítě]
+hide: true
 ---
 
 Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kterém 3GPP Release byly představeny a případně rozšířeny. Soupis můžete použít pro vzdělání se ve fungování sítí LTE a LTE-Advanced. 

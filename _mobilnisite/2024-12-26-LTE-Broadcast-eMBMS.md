@@ -3,6 +3,7 @@ layout: post
 title: "LTE Broadcast čili eMBMS pro efektivní distribuci multimediálního obsahu"
 date: 2024-12-25
 categories: [LTE, LTE-Advanced, 4G, Mobilní sítě]
+hide: true
 ---
 
 # LTE Broadcast / eMBMS: Evoluce technologie pro efektivní distribuci multimediálního obsahu

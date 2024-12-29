@@ -3,6 +3,7 @@ layout: post
 title: "Non-Orthogonal Multiple Access (NOMA)"
 date: 2024-11-25
 categories: [LTE, 4G, Mobilní sítě]
+hide: true
 ---
 
 Orthogonal Frequency Division Multiple Access (OFDMA) se stal základem pro technologie 4G LTE a 5G NR díky své schopnosti efektivně rozdělit dostupné frekvenční spektrum mezi uživatele. Přestože OFDMA nabízí vysokou spektrální efektivitu a robustnost vůči interferenci, vývoj směrem k sítím 6G s sebou přináší potřebu alternativ, které by mohly zlepšit využití spektra, podporovat masivní konektivitu a umožnit přenosy dat s nízkou latencí. Mezi nejvýznamnější technologie, které se zvažují jako doplňky nebo náhrady OFDMA, patří Non-Orthogonal Multiple Access (NOMA), Rate-Splitting Multiple Access (RSMA) a Sparse Code Multiple Access (SCMA). Pojďme si tyto přístupy projít... 

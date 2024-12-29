@@ -3,6 +3,7 @@ layout: post
 title: "Sparse Code Multiple Access (SCMA)"
 date: 2024-11-25
 categories: [LTE, 4G, Mobilní sítě]
+hide: true
 ---
 
 ### Princip fungování SCMA
