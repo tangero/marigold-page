@@ -4,9 +4,6 @@ title: "Vývoj síťové architektury 3GPP: Od GSM přes 3G a LTE k 5G Advanced"
 date: 2024-12-16
 categories: [5G, 5G-Advanced, Mobilní sítě]
 ---
-__Co konkrétně se v tomto článku dozvíte?__ 
-* Obsah
-{:toc}
 
 Pokud mají moderní mobilní sítě nabízet zrychlení, znamená to mimo jiné, že je potřeba zjednodušovat jejich architekturu, neboť vzájemná komunikace jednotlivých komponent generuje prodlevy, jež uživatelům nevyhovují. Zjednodušení architektury mobilní sítě je tedy hnacím motivem nových generací mobilních sítí. 
 
@@ -14,9 +11,13 @@ Pro ty, kdo se ve schématech sítí moc nepohybují: Funguje tu celá řada akr
 
 Je také zřejmé, že pro komunikaci s BTS či NodeB se používají rozdílně značené protokoly zajišťující v případě NodeB zpětnou kompatibilitu, schopnost obsloužit uživatele starší technologie. Aby toto bylo v nákresech zřejmé, používají se i k popisu vlastně “stejné funkce” vykonávajících protokolů jiná označení. Do takového detailu ale nepůjdeme tam, kde to není pro pochopení fungování sítě nutné.  
 
-
-
 Projekt 3GPP (3rd Generation Partnership Project) se zásadním způsobem podílel na utváření prostředí mobilních telekomunikací. Od svého založení v roce 1998 3GPP neustále vyvíjí své standardy, aby vyhověl stále rostoucím požadavkům na vyšší přenosové rychlosti, nižší latenci a vyšší kapacitu. Tento článek se zabývá technologickou proměnou síťové architektury 3GPP od verze 98 přes zavedení 3G, 4G (LTE) a 5G až po nejnovější 5G Advanced ve verzi 18\. Zaměříme se na architektonické změny, nové síťové prvky, protokoly a zdůvodnění těchto konstrukčních rozhodnutí.
+
+Přeskočit přehled obsahu rovnou na [první Release 99 👇](#3gpp-release-99-úsvit-3g)
+
+__Co konkrétně se v tomto článku dozvíte?__ 
+* Obsah
+{:toc}
 
 
 ## **Přehled standardizace 3GPP**
