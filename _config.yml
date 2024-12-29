@@ -139,6 +139,7 @@ en_feed:
   
 # Exclude these files from your production _site
 exclude:
+  - _site
   - Gemfile
   - Gemfile.lock
   - LICENSE

@@ -3,6 +3,7 @@ layout: post
 title: "Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť"
 date: 2024-07-05
 order: 2
+hide: true
 ---
 
 Základem LLM je architektura Transformátorů, představená v roce 2017 v průlomové práci ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762). Tato architektura přinesla několik klíčových inovací, které umožnily zpracování dlouhých sekvencí textu s velkou efektivitou a přesností. Technologie transformátorů dnes stojí v základech LLM jako jsou GPT - kde to písmeno T jsou právě Transformátory. 

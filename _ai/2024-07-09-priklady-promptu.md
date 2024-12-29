@@ -3,6 +3,7 @@ layout: post
 title: Příklady zajímavých promptů pro umělou inteligenci
 date: 2024-07-09
 order: 
+hide: true
 ---
 
 Na co použít umělou inteligenci? Dnes už na mnoho věcí. Tady jsou příklady promtpů, které na ni používám já… 

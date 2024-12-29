@@ -7,35 +7,33 @@ layout: default
 <!-- end feedwind code -->
 
 <div class="posts">
-  {% assign all_posts = '' | split: '' %}
+  {% assign all_posts = site.posts %}
   
-  {% for post in paginator.posts %}
-    {% if post.hide == null or post.hide == false %}
-      {% if post.lang != 'en' %}
-        {% assign all_posts = all_posts | push: post %}
-      {% endif %}
-    {% endif %}
+  {% for ai_post in site.ai %}
+    {% assign all_posts = all_posts | push: ai_post %}
   {% endfor %}
   
-  {% for post in site.mobilnisite %}
-    {% if post.hide == null or post.hide == false %}
-      {% if post.lang != 'en' %}
-        {% assign all_posts = all_posts | push: post %}
-      {% endif %}
-    {% endif %}
+  {% for mobile_post in site.mobilnisite %}
+    {% assign all_posts = all_posts | push: mobile_post %}
   {% endfor %}
   
-  {% for post in site.ai %}
-    {% if post.hide == null or post.hide == false %}
-      {% if post.lang != 'en' %}
-        {% assign all_posts = all_posts | push: post %}
-      {% endif %}
-    {% endif %}
-  {% endfor %}
-  
+  {% assign filtered_posts = '' | split: '' %}
   {% assign sorted_posts = all_posts | sort: 'date' | reverse %}
   
   {% for post in sorted_posts %}
+    {% if post.hide == null or post.hide == false %}
+      {% if post.lang != 'en' %}
+        {% assign filtered_posts = filtered_posts | push: post %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  
+  {% assign total_posts = filtered_posts | size %}
+  {% assign per_page = 15 %}
+  {% assign total_pages = total_posts | divided_by: per_page | plus: 1 %}
+  {% assign offset = paginator.page | minus: 1 | times: per_page %}
+  
+  {% for post in filtered_posts limit: per_page offset: offset %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
@@ -78,5 +76,25 @@ layout: default
   {% endfor %}
 
   <!-- pagination -->
-  {% include pagination.html %}
+  {% if total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">
+        👈 novější
+      </a>
+    {% else %}
+      <span class="previous">Nejnovější</span>
+    {% endif %}
+
+    <span class="page_number">
+      stránka {{ paginator.page }} z {{ total_pages }}
+    </span>
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">starší 👉</a>
+    {% else %}
+      <span class="next">Nejstarší</span>
+    {% endif %}
+  </div>
+  {% endif %}
 </div>

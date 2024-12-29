@@ -3,6 +3,7 @@ layout: post
 title: "Tokenizace textu"
 date: 2024-07-05
 order: 2
+hide: true
 ---
 
 Tokenizace textu je proces rozdělení textu na menší jednotky zvané tokeny. Jak tokenizace funguje a jaký je rozdíl v tokenizaci mezi angličtinou a češtinou? Pojďme si o tom něco povědět. 

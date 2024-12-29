@@ -3,6 +3,7 @@ layout: post
 title: "Slovník výrazů kolem umělé inteligence"
 date: 2024-09-29
 order: 
+hide: true
 ---
 
 Jaké výrazy v umělé inteligenci se běžně používají? 

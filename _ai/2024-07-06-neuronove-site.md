@@ -3,6 +3,7 @@ layout: post
 title: "Neuronové sítě"
 date: 2024-07-06
 order: 4
+hide: true
 ---
 
 Neuronové sítě jsou klíčovou technologií v oblasti strojového učení a umělé inteligence. Využívají se v různých aplikacích, od rozpoznávání obrazu až po zpracování přirozeného jazyka. Zkusíme si poněkud podrobněji  vysvětlit, jak neuronové sítě fungují, jak jsou strukturovány a jak se optimalizují.

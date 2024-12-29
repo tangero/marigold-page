@@ -3,6 +3,7 @@ layout: post
 title: "Úvod do strojového učení - Machine Learning"
 date: 2024-07-06
 order: 4 
+hide: true
 ---
 
 Strojové učení je poddisciplína umělé inteligence (AI), která se zabývá vývojem algoritmů umožňujících počítačům se samostatně učit z dat. Namísto explicitního programování počítače na vyřešení konkrétního problému mu poskytujeme data a necháme jej, aby si z těchto dat vytvořil vlastní modely a pravidla, které použije při rozhodování. Tento proces umožňuje strojům přizpůsobit se novým situacím a zlepšovat svou výkonnost na základě zkušeností. Jeho podstatnou výhodou také je, že počítač může v datech tímto způsobem vidět souvislosti, které nás nenapadly a tím dojít k inovativním závěrům. To by v momentě, kdybychom mu výslovně řekli, jak má při zpracování dat postupovat, nebylo možné. 
