@@ -95,6 +95,8 @@ layout: default
   {% endif %}
 {% endif %}
 
+{% if post.audio_url %}nebo <a href="{{ post.audio_url }}" target="_blank">🎧 Poslechnout audio verzi článku</a>{% endif %}
+
   <div class="entry">
     {{ content }}
   </div>
