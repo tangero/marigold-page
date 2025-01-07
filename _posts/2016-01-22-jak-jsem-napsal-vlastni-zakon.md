@@ -1,12 +1,14 @@
 ---
-title: "Jak jsem napsal vlastní zákon"
+audio_url: http://www.marigold.cz/audio/2016-01-22-jak-jsem-napsal-vlastni-zakon.mp3
 author: Patrick Zandl
-post_excerpt: "Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. "
-layout: post
-categories: [Politika]
-thumbnail: 
-audio_url: 
+categories:
+- Politika
 featured: true
+layout: post
+post_excerpt: "Dneska v\xE1m pov\xEDm, jak jsem si napsal vlastn\xED z\xE1kon a jak\
+  \ tenhle z\xE1kon skon\u010Dil ve Sb\xEDrce z\xE1kon\u016F. "
+thumbnail: null
+title: "Jak jsem napsal vlastn\xED z\xE1kon"
 ---
 
 
