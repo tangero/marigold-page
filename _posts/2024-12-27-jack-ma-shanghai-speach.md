@@ -5,6 +5,7 @@ post_excerpt: "Toto je překlad projevu Jacka Ma, který pronesl 24. října 202
 layout: post
 categories: [Čína, Jack Ma, Ekonomika]
 thumbnail: https://www.marigold.cz/assets/jack-ma-shanghai-bund-summit-10-2020.jpg
+audio_url: https://www.marigold.cz/audio/2024-12-27-jack-ma-shanghai-speach.mp3
 ---
 
 

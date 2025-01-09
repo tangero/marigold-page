@@ -567,6 +567,42 @@ tbody tr:hover {
   }
 }
 
+// Styl pro HTML5 přehrávač
+.audio-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #f5f5f5;
+  padding: 8px;
+  border-radius: 4px;
+  max-width: 600px;
+}
+
+.audio-title {
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 14px;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 120px;
+}
+
+.custom-audio {
+  flex: 1;
+  height: 32px;
+}
+
+audio::-webkit-media-controls-panel {
+  background-color: #ffffff;
+}
+
+audio::-webkit-media-controls-current-time-display,
+audio::-webkit-media-controls-time-remaining-display {
+  font-family: system-ui, -apple-system, sans-serif;
+  font-size: 12px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "darcula";

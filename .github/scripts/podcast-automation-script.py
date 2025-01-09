@@ -99,8 +99,11 @@ def get_latest_article(repo):
 def extract_front_matter(article_content):
     front_matter_match = re.match(r'---\n(.*?)\n---\n', article_content, re.DOTALL)
     if front_matter_match:
-        return yaml.safe_load(front_matter_match.group(1)), article_content[front_matter_match.end():]
-    return {}, article_content
+        front_matter = yaml.safe_load(front_matter_match.group(1))
+        # Nastavení výchozí hodnoty audiooff na False pokud není definováno
+        front_matter.setdefault('audiooff', False)
+        return front_matter, article_content[front_matter_match.end():]
+    return {'audiooff': False}, article_content
 
 def update_front_matter(front_matter, audio_url):
     front_matter['audio_url'] = audio_url
@@ -139,6 +142,7 @@ def extract_clean_text(article_content):
     clean_text = re.sub(r'\[([^\]]+)\]\(.*?\)', r'\1', clean_text)  # Odstraní odkazy, ponechá text odkazu
     clean_text = re.sub(r'[#*`>]', '', clean_text)  # Odstraní speciální znaky
     clean_text = re.sub(r'\n+', '\n', clean_text)  # Odstraní nadbytečné nové řádky
+    clean_text = re.sub(r'<[^>]+>', '', clean_text)  # Odstraní HTML tagy
     return clean_text.strip()
 
 def commit_and_push(repo, file_paths, commit_message):
@@ -159,6 +163,19 @@ def main():
 
     article_filename, article_content = get_latest_article(repo)
     if article_content:
+        # Nejdřív extrahujeme front matter a zkontrolujeme audiooff
+        front_matter, content = extract_front_matter(article_content)
+        
+        debug_print(f"Checking audio generation status for {article_filename}")
+        if front_matter.get('audiooff', False):
+            debug_print(f"Audio generation is disabled for article: {article_filename}")
+            return
+            
+        # Kontrola, zda článek už nemá audio
+        if 'audio_url' in front_matter:
+            debug_print(f"Article already has audio: {front_matter['audio_url']}")
+            return
+
         # Vytvoření adresáře audio pokud neexistuje
         if not os.path.exists(AUDIO_DIR):
             os.makedirs(AUDIO_DIR)
@@ -176,7 +193,7 @@ def main():
             article_date = extract_date(article_content)
             article_excerpt = extract_excerpt(article_content)
             article_text = extract_clean_text(article_content)
-            text_to_convert = f"Nadpis: {article_title}\nVydáno: {article_date}\n{article_text}"
+            text_to_convert = f"Nadpis: {article_title}\n{article_text}"
 
             audio_file_path = text_to_speech(text_to_convert, API_KEY, VOICE_ID, audio_path)
             if audio_file_path:
@@ -185,7 +202,6 @@ def main():
                 for audio_file in audio_files:
                     add_item_to_rss_feed(rss, audio_file)
                 save_rss_feed(rss)
-                front_matter, content = extract_front_matter(article_content)
                 updated_front_matter = update_front_matter(front_matter, audio_url)
                 updated_article = reassemble_article(updated_front_matter, content)
                 with open(article_filename, "w") as file:
@@ -193,7 +209,8 @@ def main():
                 commit_and_push(repo, [audio_path, RSS_FEED_PATH, article_filename], f"Add audio for {article_filename}")
     else:
         debug_print("No new article found")
-        debug_print("Script finished")
+    
+    debug_print("Script finished")
 
 if __name__ == "__main__":
     main()

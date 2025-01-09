@@ -1,0 +1,34 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Patrickův podcast</title>
+    <description>výběr Patrickových článků z Marigold.cz</description>
+    <link>https://www.marigold.cz</link>
+    <language>cs</language>
+    <copyright>{{ site.time | date: "%Y" }} {{ site.podcast_author }}</copyright>
+    <itunes:author>{{ site.podcast_author }}</itunes:author>
+    <itunes:image href="{{ site.url }}/assets/podcast-cover.jpg"/>
+    <itunes:category text="{{ site.podcast_category }}"/>
+    <itunes:explicit>no</itunes:explicit>
+
+    {% for post in site.posts %}
+    {% if post.audio_url %}
+    <item>
+      <title>{{ post.title }}</title>
+      <description>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</description>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <enclosure url="{{ post.audio_url }}" 
+                 length="{% if post.audio_file_size %}{{ post.audio_file_size }}{% else %}0{% endif %}" 
+                 type="audio/mpeg"/>
+      <guid>{{ site.url }}{{ post.url }}</guid>
+      <itunes:duration>{% if post.duration %}{{ post.duration }}{% else %}00:00:00{% endif %}</itunes:duration>
+      <itunes:summary>{% if post.description %}{{ post.description }}{% else %}{{ post.excerpt | strip_html }}{% endif %}</itunes:summary>
+      <itunes:image href="{{ site.url }}/assets/podcast-cover.jpg"/>
+    </item>
+    {% endif %}
+    {% endfor %}
+  </channel>
+</rss>
