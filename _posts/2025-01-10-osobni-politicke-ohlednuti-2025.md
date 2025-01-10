@@ -10,7 +10,7 @@ thumbnail: https://www.marigold.cz/assets/patrick-forbes-next.jpg
 
 
 
-Rok 2024 pro mne měl několik momentů, pro který ho považuji za jeden z nejtěžších v mém životě, ačkoliv to celkově a osobně pro mě byl zároveň jeden z nejlepších roků mého života. Vynechávám teď fakt, že jsem měl padesáté narozeniny, ale to je přeci přípustný moment k ohlédnutí. Zejména tomu politickému.V tomto ohledu to byl rok osobní deziluze.   
+Rok 2024 pro mne měl několik momentů, pro který ho považuji za jeden z nejtěžších v mém životě, ačkoliv to celkově a osobně pro mě byl zároveň jeden z nejlepších roků mého života. Vynechávám teď fakt, že jsem měl padesáté narozeniny, ale to je přeci přípustný moment k ohlédnutí. Zejména tomu politickému. 
 
 A protože byl rok 2024 ponaučením, po kterém jsem vždycky toužil, zapisuji si jej pro sebe i pro všechny, koho by zajímalo téma „může být v Česku dobře“. 
 
@@ -34,7 +34,7 @@ Další skandinávský wow moment byl, jak prestižní práce pro stát zde jsou
 
 > Ponaučení 3.: Kde není systém a dlouhodobá metodičnost, nelze očekávat výsledky. Stále vynalézat kolo je únavné a neinovativní. A bez systému nelze očekávat důvěru ve fungování, protože chaotické systémy důvěru nepřinášejí. 
 
-A třetí wow moment? Plynul z těch dvou předchozích. Naprostá odbornost a schopnost věci posouvat i ve státní správě a samosprávě. Dělali jsme projekt pro školství, ve spolupráci s ministerstvem, vládní vzdělávací agenturou, místními neziskovkami, školami a zřizovateli (obce), prostě hromada těch, co by v Česku mohli „hodit vidle“. Projekt měl startovat v několika regionech se začátkem školního roku, nakonec se o měsíc posouval kvůli neshodám se školami. Myslel jsem si, že školy projekt odmítly a nechtěly se ho účastnit. Ve skutečnosti byla agentura zahlcena stížnostmi regionů a škol, které nebyly do pilotu vybrány. To si vůbec v Česku neumím představit - tady samozřejmě pohledáte jednotlivé osvícené školy, ale plošně si to představit opravdu neumím. Řešení? Šéf projektu se na jednání zachmuřil a pravil, že to projedná a rozhodne. Já jsem automaticky v duchu projekt odložil o rok. Řešení se dojednalo a rozhodlo během tří týdnů, kdy se ministerstvo zavázalo projekt buďto po vyhodnocení pilotu zrušit nebo harmonogramově zavést do tří let plošně. A pak se šlo do sauny... 
+A třetí skandinávský wow moment? Plynul z těch dvou předchozích. Naprostá odbornost a schopnost věci posouvat i ve státní správě a samosprávě. Dělali jsme projekt pro školství, ve spolupráci s ministerstvem, vládní vzdělávací agenturou, místními neziskovkami, školami a zřizovateli (obce), prostě hromada těch, co by v Česku mohli „hodit vidle“. Projekt měl startovat v několika regionech se začátkem školního roku, nakonec se o měsíc posouval kvůli neshodám se školami. Myslel jsem si, že školy projekt odmítly a nechtěly se ho účastnit. Ve skutečnosti byla agentura zahlcena stížnostmi regionů a škol, které nebyly do pilotu vybrány. To si vůbec v Česku neumím představit - tady samozřejmě pohledáte jednotlivé osvícené školy, ale plošně si to představit opravdu neumím. Řešení? Šéf projektu se na jednání zachmuřil a pravil, že to projedná a rozhodne. Já jsem automaticky v duchu projekt odložil o rok. Řešení se dojednalo a rozhodlo během tří týdnů, kdy se ministerstvo zavázalo projekt buďto po vyhodnocení pilotu zrušit nebo harmonogramově zavést do tří let plošně. A pak se šlo do sauny... 
 
 > Ponaučení 4.: Bez samostatně jednajících lidí v politice, kteří mají důvěru, se věci kupředu neposunou. 
 
