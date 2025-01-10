@@ -5,7 +5,7 @@ post_excerpt: "Rok 2024 pro mne měl několik momentů, pro který ho považuji 
 layout: post
 categories: [Politika, Piráti]
 thumbnail: https://www.marigold.cz/assets/patrick-forbes-next.jpg
-
+audio_url: https://www.marigold.cz/audio/2025-01-10-osobni-politicke-ohlednuti-2025.mp3
 ---
 
 
