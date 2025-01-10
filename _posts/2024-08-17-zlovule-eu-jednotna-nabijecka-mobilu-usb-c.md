@@ -1,10 +1,19 @@
 ---
-title: Případ eurounijní zvůle v podobě jednotné nabíječky mobilů
+audio_url: http://www.marigold.cz/audio/2024-08-17-zlovule-eu-jednotna-nabijecka-mobilu-usb-c.mp3
+audiooff: false
 author: Patrick Zandl
-post_excerpt: "Je to další věc, kterou nám Evropská unie nadiktovala. Jednotná nabíječka pro mobily. Tím skončila svoboda výrobců používat tři desítky nekompatibilních standardů a naše svoboda nevím čeho. Jak to bylo s prosazováním jednotné nabíječky pro mobily, jaké bylo zákulisí a jak to postupovalo?"
+categories:
+- EU
+- "\u010Cesko"
 layout: post
-categories: [EU, Česko]
+post_excerpt: "Je to dal\u0161\xED v\u011Bc, kterou n\xE1m Evropsk\xE1 unie nadiktovala.\
+  \ Jednotn\xE1 nab\xEDje\u010Dka pro mobily. T\xEDm skon\u010Dila svoboda v\xFDrobc\u016F\
+  \ pou\u017E\xEDvat t\u0159i des\xEDtky nekompatibiln\xEDch standard\u016F a na\u0161\
+  e svoboda nev\xEDm \u010Deho. Jak to bylo s prosazov\xE1n\xEDm jednotn\xE9 nab\xED\
+  je\u010Dky pro mobily, jak\xE9 bylo z\xE1kulis\xED a jak to postupovalo?"
 thumbnail: https://www.marigold.cz/assets/nabijecky-eu.png
+title: "P\u0159\xEDpad eurounijn\xED zv\u016Fle v podob\u011B jednotn\xE9 nab\xED\
+  je\u010Dky mobil\u016F"
 ---
 
 Tu a tam prosviští českou kotlinou nějaký eurounijní skandál, který západní Evropa neumí tak dobře podchytit, jako bdělý český čtenář. Tak například se neustále v cyklech vrací ta bohabustá buzerace, jíž EU zakázala nejrůznější typy a modely nabíječek a připustila jednu jedinou a to USB-C. Je to podobný malér, jako  [byl s tím pomazánkovým máslem](/item/jak-to-bylo-s-pomazankovym-maslem/), které nám EU zakázalo (akorát že vůbec) Jak se taková záležitost mohla stát, proč nemáme právo používat desítky modelů nabíječek a konektorů, jako na přelomu tisíciletí - a jak k tomu chudáci firmy přijdou? Ujednoťme si fakta.
