@@ -19,9 +19,9 @@ Martin Krajc je jedním z nejvýraznějších českých malířů současnosti. 
 👥 Bývalý člen Obr, aktuálně člen skupiny Firma. 
 
 🎨 O obraze Blue Drink
-- ukázka Krajcovy famózní schopnosti kombinovat realistické detaily s expresivní abstrakcí \
-- zachycuje moment letní pohody – ženu, bazén, koktejly a jasné barvy \
-- zatímco postava ženy nese prvky melancholie a zasnění, okolní prostředí vyzařuje radost a živost typickou pro letní dny \
+- ukázka Krajcovy famózní schopnosti kombinovat realistické detaily s expresivní abstrakcí 
+- zachycuje moment letní pohody – ženu, bazén, koktejly a jasné barvy 
+- zatímco postava ženy nese prvky melancholie a zasnění, okolní prostředí vyzařuje radost a živost typickou pro letní dny 
 - barvy jako zářivá oranžová, azurová modř a teplé odstíny vytvářejí dynamickou harmonii, která diváka okamžitě vtáhne.
 
 ![Martin Krajc - Blue Dring](/assets/obrazy/martin-krajc-blue-drink.jpg)
