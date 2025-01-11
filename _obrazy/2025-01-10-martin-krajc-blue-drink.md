@@ -38,6 +38,7 @@ Martin Krajc je jedním z nejvýraznějších českých malířů současnosti. 
 Který z těch dvou obrazů se vám líbí více? Já jsem #týmdrink ♥️ 
 
 ![Martin Krajc - Eva](/assets/obrazy/martin-krajc-eva.jpg)
+A to už je obraz Eva...
 
 Pokud bych měl vyjádření obrazů Martina Krajce k někomu přirovnat, nabízejí se následující jména:
 - 💃🎭✨ Cecily Brown – Krajcova expresivita, smyslnost a prolínání figurativních a abstraktních prvků mají podobnou energii jako v dílech této britské malířky. Brown rovněž pracuje s tělem a emocemi, přičemž dává velký důraz na dynamiku barev a kompozice.
@@ -53,22 +54,22 @@ Martin Krajc je známý především svými velkoformátovými malbami, které k
 
 
 🖼️  **Primabalerina (vytvořeno ve spolupráci s fotografkou Alžbětou Jungrovou)**
--   **Charakteristika:**  Obraz baletky spojuje jemné tóny žluté a černé linie, přičemž zachovává výraznou eleganci a preciznost.
--   **Úspěch:**  Dílo bylo vydraženo Galerií Kodl a výtěžek šel na podporu centra Paraple. Obraz je považován za ukázku mistrovské Krajcovy práce s minimalistickou barevnou škálou.
+-   Obraz baletky spojuje jemné tóny žluté a černé linie, přičemž zachovává výraznou eleganci a preciznost.
+-   Dílo bylo vydraženo Galerií Kodl a výtěžek šel na podporu centra Paraple. Obraz je považován za ukázku mistrovské Krajcovy práce s minimalistickou barevnou škálou.
 
 🖼️  **Dívka se zavřenýma očima (spojnice výstav „Welcome to Paradise“ a „Tinto de verano“)**
--   **Charakteristika:**  Motiv dívky, která symbolizuje autorovu fascinaci světem modelek, je ztvárněn s důrazem na kontrasty a emocionální hloubku.
--   **Úspěch:**  Tento motiv je považován za ikonický v jeho tvorbě a objevil se ve více dílech, kde nabývá různých kontextů a významů.
+-   Motiv dívky, která symbolizuje autorovu fascinaci světem modelek, je ztvárněn s důrazem na kontrasty a emocionální hloubku.
+-   Tento motiv je považován za ikonický v jeho tvorbě a objevil se ve více dílech, kde nabývá různých kontextů a významů.
 
 🖼️  **Triptych (modelky a toreadorové, výstava „Libido“)**
--   **Charakteristika:**  Tři velká plátna propojují světy žen, toreadorů a býků. Dílo zachycuje kontrast mezi jemností a dravostí.
--   **Úspěch:**  Triptych je jedním z vrcholných děl výstavy „Libido“ v Mánesu, kde zdůraznil Krajcovu schopnost kombinovat postmoderní přístup s tradičními motivy.
+-   Tři velká plátna propojují světy žen, toreadorů a býků. Dílo zachycuje kontrast mezi jemností a dravostí.
+-    Triptych je jedním z vrcholných děl výstavy „Libido“ v Mánesu, kde zdůraznil Krajcovu schopnost kombinovat postmoderní přístup s tradičními motivy.
 
 🖼️  **Toreador a býk (výstava „Picture in My Head“)**
--   **Charakteristika:**  Motiv inspirovaný španělskou koridou kombinuje expresivní tahy štětcem s dramatickým barevným podáním, čímž zobrazuje dynamiku a napětí.
--   **Úspěch:**  Obraz se stal jedním z nejobdivovanějších děl retrospektivy v Alšově jihočeské galerii.
+-   Motiv inspirovaný španělskou koridou kombinuje expresivní tahy štětcem s dramatickým barevným podáním, čímž zobrazuje dynamiku a napětí.
+-   Obraz se stal jedním z nejobdivovanějších děl retrospektivy v Alšově jihočeské galerii.
 
 🖼️  **Nymphae Perspicuae (výstava v DSC Gallery, 2023)**
--   **Charakteristika:**  Série obrazů se soustředí na ženské figury a interiérové prvky, propojené snovými a iluzivními zátišími.
--   **Úspěch:**  Díla z této kolekce byla většinou prodána ještě během výstavy
+-   Série obrazů se soustředí na ženské figury a interiérové prvky, propojené snovými a iluzivními zátišími.
+-   Díla z této kolekce byla většinou prodána ještě během výstavy
 
