@@ -39,6 +39,12 @@ Který z těch dvou obrazů se vám líbí více? Já jsem #týmdrink ♥️
 
 ![Martin Krajc - Eva](/assets/obrazy/martin-krajc-eva.jpg)
 
+Pokud bych měl vyjádření obrazů Martina Krajce k někomu přirovnat, nabízejí se následující jména:
+- 💃🎭✨ Cecily Brown – Krajcova expresivita, smyslnost a prolínání figurativních a abstraktních prvků mají podobnou energii jako v dílech této britské malířky. Brown rovněž pracuje s tělem a emocemi, přičemž dává velký důraz na dynamiku barev a kompozice.
+- 🖌️👤🪞 Lucian Freud – Důraz na figurální malbu, propracovanost postav a jejich psychologickou hloubku může místy připomínat díla tohoto mistra figurálního realismu. Krajc ale zůstává více expresivní a uvolněný.
+- 🎨🖤🌪️ Francis Bacon – Krajcova občasná dramatičnost a práce s emocionalitou postav, stejně jako záblesky temných tónů v některých jeho dílech, mohou evokovat Baconův přístup k lidské figuře, i když Krajc zůstává optimističtější.
+- 🌈🏊‍♂️🏡 [David Hockney](https://www.marigold.cz/obrazy/david-hockney-portrait-of-an-artist/) – Jasné barvy, moderní kompozice a fascinace interiéry i exteriéry v kombinaci s lidskou postavou připomínají díla tohoto britského umělce. Krajc sdílí s Hockneyem zájem o estetiku prostředí a jeho propojení s figurou.
+- 🖼️🍔💥 Andy Warhol – Vlna inspirace módní fotografií a reklamou, kterou Krajc vkládá do svých děl, může připomenout pop-artovou hravost Warhola, i když Krajcův přístup zůstává mnohem emocionálnější a živější.
 
 ### Nejoceňovanější díla Martina Krajce
 
@@ -47,7 +53,6 @@ Martin Krajc je známý především svými velkoformátovými malbami, které k
 
 
 🖼️  **Primabalerina (vytvořeno ve spolupráci s fotografkou Alžbětou Jungrovou)**
-
 -   **Charakteristika:**  Obraz baletky spojuje jemné tóny žluté a černé linie, přičemž zachovává výraznou eleganci a preciznost.
 -   **Úspěch:**  Dílo bylo vydraženo Galerií Kodl a výtěžek šel na podporu centra Paraple. Obraz je považován za ukázku mistrovské Krajcovy práce s minimalistickou barevnou škálou.
 
@@ -66,3 +71,4 @@ Martin Krajc je známý především svými velkoformátovými malbami, které k
 🖼️  **Nymphae Perspicuae (výstava v DSC Gallery, 2023)**
 -   **Charakteristika:**  Série obrazů se soustředí na ženské figury a interiérové prvky, propojené snovými a iluzivními zátišími.
 -   **Úspěch:**  Díla z této kolekce byla většinou prodána ještě během výstavy
+
