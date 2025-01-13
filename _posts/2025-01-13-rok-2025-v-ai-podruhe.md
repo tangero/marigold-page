@@ -5,7 +5,7 @@ post_excerpt: "Pokračujeme v zamyšlení nad tím, jak AI promění náš svět
 layout: post
 categories: [Čína, AI, USA, EU, geopolitika, regulace, blogy]
 thumbnail: https://www.marigold.cz/assets/ai-vsude-2025.png
-audio_url: 
+audio_url: https://www.marigold.cz/audio/2025-01-13-ai-rok-2025-dil-2.mp3
 ---
 
 V [prvním díle jsme se dívali](/item/rok-2025-v-ai/) především na technologické změny v umělé inteligenci. Dnes se podíváme spíše na ty politické a ekonomické.
