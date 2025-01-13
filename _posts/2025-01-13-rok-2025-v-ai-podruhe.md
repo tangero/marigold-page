@@ -4,7 +4,7 @@ author: Patrick Zandl
 post_excerpt: "Pokračujeme v zamyšlení nad tím, jak AI promění náš svět v roce 2025. Tentokráte se podíváme na regulaci, spolehlivost AI, geopolitiku a možný návrat autentických blogů. Takže dnes méně technologií, více politiky a ekonomiky."
 layout: post
 categories: [Čína, AI, USA, EU, geopolitika, regulace, blogy]
-thumbnail: https://www.marigold.cz/assets/ai-vsude-2025-png
+thumbnail: https://www.marigold.cz/assets/ai-vsude-2025.png
 audio_url: 
 ---
 
