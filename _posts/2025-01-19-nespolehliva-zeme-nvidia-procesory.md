@@ -1,5 +1,5 @@
 ---
-title: "Moderní AI proceory v Česku nebudou. Proč nás USA označily za nespolehlivé?"
+title: "Moderní AI procesory v Česku nebudou. Proč nás USA označily za nespolehlivé?"
 author: Patrick Zandl
 post_excerpt: "Americká administrativa nás nově zařadila mezi nespolehlivé státy, kterým američtí výrobci dodají jen přísně omezené množství hitech procesorů. Proč nebudeme dostávat skutečně výkonné AI procesory? Fialova vláda nezvládla situaci s jejich pašováním přes české firmy do nepřátelských států a přes četné varování nechala firmám volnou ruku..."
 layout: post
