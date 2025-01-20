@@ -1,10 +1,19 @@
 ---
-title: Případ eurounijní zvůle v podobě jednotné nabíječky mobilů
+audio_url: http://www.marigold.cz/audio/2024-08-17-zlovule-eu-jednotna-nabijecka-mobilu-usb-c.mp3
+audiooff: false
 author: Patrick Zandl
-post_excerpt: "Je to další věc, kterou nám Evropská unie nadiktovala. Jednotná nabíječka pro mobily. Tím skončila svoboda výrobců používat tři desítky nekompatibilních standardů a naše svoboda nevím čeho. Jak to bylo s prosazováním jednotné nabíječky pro mobily, jaké bylo zákulisí a jak to postupovalo?"
+categories:
+- EU
+- "\u010Cesko"
 layout: post
-categories: [EU, Česko]
+post_excerpt: "Je to dal\u0161\xED v\u011Bc, kterou n\xE1m Evropsk\xE1 unie nadiktovala.\
+  \ Jednotn\xE1 nab\xEDje\u010Dka pro mobily. T\xEDm skon\u010Dila svoboda v\xFDrobc\u016F\
+  \ pou\u017E\xEDvat t\u0159i des\xEDtky nekompatibiln\xEDch standard\u016F a na\u0161\
+  e svoboda nev\xEDm \u010Deho. Jak to bylo s prosazov\xE1n\xEDm jednotn\xE9 nab\xED\
+  je\u010Dky pro mobily, jak\xE9 bylo z\xE1kulis\xED a jak to postupovalo?"
 thumbnail: https://www.marigold.cz/assets/nabijecky-eu.png
+title: "P\u0159\xEDpad eurounijn\xED zv\u016Fle v podob\u011B jednotn\xE9 nab\xED\
+  je\u010Dky mobil\u016F"
 ---
 
 Tu a tam prosviští českou kotlinou nějaký eurounijní skandál, který západní Evropa neumí tak dobře podchytit, jako bdělý český čtenář. Tak například se neustále v cyklech vrací ta bohabustá buzerace, jíž EU zakázala nejrůznější typy a modely nabíječek a připustila jednu jedinou a to USB-C. Je to podobný malér, jako  [byl s tím pomazánkovým máslem](/item/jak-to-bylo-s-pomazankovym-maslem/), které nám EU zakázalo (akorát že vůbec) Jak se taková záležitost mohla stát, proč nemáme právo používat desítky modelů nabíječek a konektorů, jako na přelomu tisíciletí - a jak k tomu chudáci firmy přijdou? Ujednoťme si fakta.
@@ -28,7 +37,21 @@ A jak to bylo s tím Applem? Stejně, jako všude jinde. Apple měl již jednu z
 
 Na přechod na USB-C se Apple připravoval dlouho. První iPad s USB-C konektorem byl iPad Pro 3. generace, představený v říjnu 2018, v říjnu 2023 pak Apple začal dodávat i iPhone 15 vybavený USB-C. Důvod byl vlastně jednoduchý. Za prvé pro řadu iPad Pro byl USB-C logickou volbou, umožňoval připojení nejrůznějších periferií, které uživatelé připojovat chtěli a pro které Pro řada měla podporu. A kromě toho se dalo očekávat, že uživatelé iPadů Pro budou mít méně starých periférií a budou budou se standardním konektorem spokojení. A tak se i stalo, Apple postupně přenesl USB-C i do dalších řad, aniž by se setkal se zásadní nespokojeností. V roce 2023 ukončil používání Lightning kontektoru v nových iPhonech, modelová řada 14 byla poslední, která jej používala. Po pěti letech měl podporu USB-C v mobilu i v ekosystému plně odladěnou a neočekávala se nevole uživatelů. Také ani nenastala, rozhodně větší bouři schytalo rozhodnutí vyhodit audiokonektor v roce 2016 a s tím související přechod na bezdrátové příslušenství včetně bezdrátového dobíjení.
 
-**Je to případ eurounijní zvůle?**
+### Blokuje nařízení inovace?
+
+Celá změna probíhala v kontinuálních konzultací s průmyslem (u některých jsem byl). A nejčastější námitka "odpůrců EU" i lidí, kteří tomu nerozumí je, že taková regulace zabíjí inovace. Jenže:
+- **kromě zákonů EU fungují i fyzikální zákony**. Ty říkají, kolik proudu protlačíte průřezem jakého kabelu a jak stíněné musíte mít datové kabely, abyste jimi protlačili data. Dnešní USB-C konektor je navržený na hraně těchto zákonů, čili můžete zvyšovat proud, ale jen do určité míry. Žravější zařízení přes kabely průřezů, jaké chcete používat u spotřební elektroniky, neuživíte. Svářečka prostě musí mít svůj kabel s proprietárním konektorem a průřez kabelu musí odpovídat těm cca 60A (a více), které tam ženete. Čili: pokud potřebujete větší proudy, než USB-C dnes a do myslitelné budoucnosti zvládne, budete potřebovat samozřejmě jiný konektor, ale taky jiný kabel. Zapomeňte na to, že na tenoučký kabílek přiděláte konektor svářečky a bude to fungovat. Nebude. Drobné konektory mají svá omezení. 
+- **kromě zákonů EU a zákonů fyziky fungují také zákony obchodní**. Jasně, můžete se usmyslet, že si pro své zařízení nadesignujete svůj vlastní proprietární konektor ve tvaru půlměsíce, který podtrhne ducha vašeho zařízení. Jenže za prvé budete muset vycházet ze stávající specifikace (například USB-C), nebo investujete mnoho stovek tisíc dolarů jen do VYMYŠLENÍ takového konektoru. Konektor už dnes není jen konektor, je to celá komunikace, v konektoru je čip, který vyjednává, kolik  má posílat proudu, v jakém formátu data, to není easy navrhnout. Proto se do toho nikdo nehrne a proto se uchytilo jen pár standardů. Za licenci pro USB-C konektor zaplatíte cca 3000 dolarů poplatku za členství v asociaci a tím i za všechny inovace.   A pokud ho jen osazujete na desku a kupujete jej od dodavatelů součástek, tak to neřešíte vůbec. No a teď ta druhá obchodní věc: taky potřebujete, aby vám váš konektor ve tvaru půlměsíce někdo osadil. Jenže víte, proč se uchytilo USB-C namísto kulatých konektorů? Protože se dobře osazuje na osazovacích linkách. Dobře=levně, automatizovaně. Tvar toho konektoru má důvod: podlouhlý, placatý. Lightning od Apple také tak. Kulatý konektor se osazuje hůř, dráže, půlměsícový, hvězdičkový atd stejně tak. 
+
+**Čili suma sumárum: **jestli EU něco zařízla, tak je to vaše svoboda uvést letos na trh zařízení ve statisícových sériích a proprietárním drátovým konektorem v kategorii spotřební elektronika. Což byl jaksi účel té regulace. Snížit množství elektroodpadu. Pokud jde o dotykové nabíjení přes piny nebo bezdrátové nabíjení, pokud se to týká jiných kategorií spotřebičů, jako jsou domácí elektronika (TV atd) a spotřebiče s vyššími nároky na spotřebu, nebo třeba chytré hodinky a jiná zařízení, kde se používá právě dotyk přes piny nebo dobíjení bezdrátové, tam máte svobodu prasit po svém. Upřímně: příští bitva o dobíjecí standard se odehraje v oblasti bezdrátu a jestli váš dyvajsek nemá podporu Qi2, tak si tu obchodní mašli hoďte rovnou nebo mějte tržní kapitalizaci přes sto miliard dolarů... 
+
+Takže bacha: zařízení jako chytré hodinky, nejrůznější chytré náramky, smart ringy atd - ty USB-C konektor samozřejmě mít nemusí. Stejně tak nejrůznější proprietární elektronika, třeba díly v automotive. 
+
+Že byste vymysleli nějaký nový konektor, který by se nevešel do USB-C standardu a zároveň se vešel pod zákony fyziky, se mě a stovce největších výrobců elektroniky kromě Apple jeví krajně nepravděpodobné. A Apple taky pindá jen proto, že mu vypadnou licenční poplatky za MFi certifikaci, jinak by nemělo co namítat... 
+
+A kdyby se přeci jen na něco přišlo? Tak je nejlepší cesta vměstnat tu inovaci do USB standardu, kde má šanci prosadit se v rámci obchodního zákonu velkých sérií. 
+
+### Je to případ eurounijní zvůle?
 
 Má do něčeho takového EU vůbec zasahovat? Inu, to bude záležet na vašich politických preferencích. Libertariáni si zhnuseně odplivnou, ale pravda je, že oproti předchozímu zmatku více jak tří desítek nejrůznějších typů nabíječek, je stávající stav pro uživatele podstatné zlepšení. Takže z praktického pohledu to byl přínos. Jak kvůli elektroodpadu, tak pro menší výrobce elektroniky, kteří se mohou spolehnout na akceptovaný standard a vyřešenou základní věc, jíž je napájení zařízení. Velcí výrobci dříve dělali různé patenty chráněné dobíjecí konektory, které byly těžko a draho servisovatelné a nebylo snadné pro ně cokoliv dělat.
 
