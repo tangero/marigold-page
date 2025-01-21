@@ -7,6 +7,7 @@ layout: post
 oldlink: >
   https://www.marigold.cz/item/hrdinove-ceskeho-broadbandu
 published: true
+featured: true
 post_date: 2013-02-18 11:45:57
 categories: [Lidé, Internet, Historie]
 ---
