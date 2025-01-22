@@ -16,6 +16,11 @@ A u tohoto problému se vyplatí zastavit.
 
 Na dodávky hi-tech technologií do nepřátelských regionů v USA funguje embargo již delší dobu a USA hledají možnosti, jak zpřísňovat podmínky a komplikovat Číně a Rusku technologické soupeření. Zákaz vývozu špičkových AI procesorů se masivně obcházel řetězem nákupů i krádeží, zhusta fingovaných. To je také důvod, proč se nikdo (krom těch, kdo mají vlastní serverovny) nechlubí tím, kolik Nvidia procesorů má. Nechce o ně přijít. 
 
+  <div class="posts">
+    <h3>Zajímají vás podobné články? Dostanete je emailem!</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
 Nvidia má zavedenou plnou trasovatelnost všech procesorů podle výrobního čísla. Ví, komu co prodává a kontroluje si, zda u něj technologie také skončila. V létě do Česka dorazil bezpečnostní tým Nvidia včetně jednoho z nejvyšších šéfů společnosti. V serverovně, která měla být po strop naplněná Nvidia DGX H100,  po AI procesorech nebylo ani památky...
 
 Fakt, že se přes české společnosti a postsovětské republiky masivně na ruský a čínský trh dostávají embargované procesory, se nedal přehlédnout. Navíc Česká republika nebyla schopna (či ochotna) poskytnout součinnost a začít tyto díry uzavírat. Zatímco v Německu nebo Holandsku by se taková firma okamžitě dostala do přímých problémů s finančním úřadem za obcházení sankcí, v Česku v této oblasti panuje naprostá laxnost. 
