@@ -14,8 +14,8 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
-          bundler-cache: true
+          ruby-version: '3.2'
+          bundler-cache: false
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -28,15 +28,21 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Install Ruby dependencies
+        run: |
+          gem install bundler
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
+
       - name: Generate summaries
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python generate_summaries.py
 
-      - name: Build site
-        run: |
-          bundle install
-          bundle exec jekyll build
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
