@@ -143,8 +143,16 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README.md
   - CNAME
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - requirements.txt
+  - generate_summaries.py
+  - README.md
+
 
 # Tipue search settings
 tipue_search:
