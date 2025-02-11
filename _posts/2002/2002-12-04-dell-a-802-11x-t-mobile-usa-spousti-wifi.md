@@ -1,13 +1,16 @@
 ---
 ID: 1
-title: 'Dell a&nbsp;802.11x, T-Mobile USA spouští WiFi'
+audio_url: http://www.marigold.cz/audio/2002-12-04-dell-a-802-11x-t-mobile-usa-spousti-wifi.mp3
+audiooff: false
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dell-a-802-11x-t-mobile-usa-spousti-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/dell-a-802-11x-t-mobile-usa-spousti-wifi
+
+  '
 post_date: 2002-12-04 17:10:00
+post_excerpt: ''
+published: true
+title: "Dell a&nbsp;802.11x, T-Mobile USA spou\u0161t\xED WiFi"
 ---
 <P>I firma <STRONG>Dell </STRONG>se rozhodla podporovat WLAN a do konce roku 2003 budou všechny její notebooky řady <STRONG>Latitude</STRONG> vybaveny podporou obou standardů, tedy 802.11b (WiFi) i 802.11a. Dell také slibuje, že cena Access Pointu padne až na 50 USD. To nezní zle, jenže kdy se tak stane, už neřekl. Více zde <A href="http://news.com.com/2100-1001-965107.html?tag=fd_top" target=_blank>na CNet</A>.</p>
 
