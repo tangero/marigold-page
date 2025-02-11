@@ -13,12 +13,12 @@ post_excerpt: Americká administrativa nás nově zařadila mezi nespolehlivé s
   pašováním přes české firmy do nepřátelských států a přes četné varování nechala
   firmám volnou ruku...
 summary_points:
-- 1. USA zařadily Česko mezi nespolehlivé státy kvůli pašování AI procesorů do nepřátelských
+- USA zařadily Česko mezi nespolehlivé státy kvůli pašování AI procesorů do nepřátelských
   zemí.
-- 2. České firmy dostanou omezené množství výkonných AI čipů kvůli laxnímu přístupu
+- České firmy dostanou omezené množství výkonných AI čipů kvůli laxnímu přístupu
   vlády.
-- 3. Česko nemá špičkový AI výzkum ani vládní strategii pro rozvoj umělé inteligence.
-- 4. Nedostatek odborníků a financí brání rozvoji AI v Česku.
+- Česko nemá špičkový AI výzkum ani vládní strategii pro rozvoj umělé inteligence.
+- Nedostatek odborníků a financí brání rozvoji AI v Česku.
 thumbnail: https://www.marigold.cz/assets/fiala-ai-nvidia.png
 title: Moderní AI procesory v Česku nebudou. Proč nás USA označily za nespolehlivé?
 ---
