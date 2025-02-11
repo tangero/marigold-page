@@ -1,14 +1,27 @@
 ---
-title: "Moderní AI procesory v Česku nebudou. Proč nás USA označily za nespolehlivé?"
+audio_url: null
 author: Patrick Zandl
-post_excerpt: "Americká administrativa nás nově zařadila mezi nespolehlivé státy, kterým američtí výrobci dodají jen přísně omezené množství hitech procesorů. Proč nebudeme dostávat skutečně výkonné AI procesory? Fialova vláda nezvládla situaci s jejich pašováním přes české firmy do nepřátelských států a přes četné varování nechala firmám volnou ruku..."
+categories:
+- Čína
+- AI
+- USA
+- Nvidia
 layout: post
-categories: [Čína, AI, USA, Nvidia]
+post_excerpt: Americká administrativa nás nově zařadila mezi nespolehlivé státy, kterým
+  američtí výrobci dodají jen přísně omezené množství hitech procesorů. Proč nebudeme
+  dostávat skutečně výkonné AI procesory? Fialova vláda nezvládla situaci s jejich
+  pašováním přes české firmy do nepřátelských států a přes četné varování nechala
+  firmám volnou ruku...
+summary_points:
+- 1. USA zařadily Česko mezi nespolehlivé státy kvůli pašování AI procesorů do nepřátelských
+  zemí.
+- 2. České firmy dostanou omezené množství výkonných AI čipů kvůli laxnímu přístupu
+  vlády.
+- 3. Česko nemá špičkový AI výzkum ani vládní strategii pro rozvoj umělé inteligence.
+- 4. Nedostatek odborníků a financí brání rozvoji AI v Česku.
 thumbnail: https://www.marigold.cz/assets/fiala-ai-nvidia.png
-audio_url: 
+title: Moderní AI procesory v Česku nebudou. Proč nás USA označily za nespolehlivé?
 ---
-
-
 
 Americká administrativa nově rozdělila státy mezi ty přátelské, jimž bude dodávat AI procesory, ty nepřátelské, jimž  je dodávat nebude a pak ty ostatní, neformálně nazývané nespolehlivé. Česká republika spadla mezi ty nespolehlivé, kterým američtí výrobci dodají jen přísně omezené množství. Skutečně výkonné AI procesory prakticky dostávat nebudeme. Proč? Fialova vláda nezvládla situaci s pašováním hitech procesorů přes české firmy do nepřátelských států a přes četné varování nechala firmám volnou ruku. 
 
