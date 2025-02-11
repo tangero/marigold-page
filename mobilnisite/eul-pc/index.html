@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Enhanced Uplink Power Control v mobilních sítích | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Enhanced Uplink Power Control v mobilních sítích" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Řízení vysílacího výkonu v uplinku představuje základní mechanismus, který zajišťuje efektivní komunikaci mezi mobilním zařízením a základnovou stanicí. Tento článek se zaměří na vývoj a technické detaily Enhanced Uplink Power Control (EUL PC), který byl postupně vylepšován v různých vydáních 3GPP specifikací." />
+<meta property="og:description" content="Řízení vysílacího výkonu v uplinku představuje základní mechanismus, který zajišťuje efektivní komunikaci mezi mobilním zařízením a základnovou stanicí. Tento článek se zaměří na vývoj a technické detaily Enhanced Uplink Power Control (EUL PC), který byl postupně vylepšován v různých vydáních 3GPP specifikací." />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/eul-pc/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/eul-pc/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-26T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Enhanced Uplink Power Control v mobilních sítích" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-26T00:00:00+00:00","datePublished":"2024-12-26T00:00:00+00:00","description":"Řízení vysílacího výkonu v uplinku představuje základní mechanismus, který zajišťuje efektivní komunikaci mezi mobilním zařízením a základnovou stanicí. Tento článek se zaměří na vývoj a technické detaily Enhanced Uplink Power Control (EUL PC), který byl postupně vylepšován v různých vydáních 3GPP specifikací.","headline":"Enhanced Uplink Power Control v mobilních sítích","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/eul-pc/"},"url":"https://www.marigold.cz/mobilnisite/eul-pc/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Řízení vysílacího výkonu v uplinku představuje základní mechanismus, který zajišťuje efektivní komunikaci mezi mobilním zařízením a základnovou stanicí. Tento článek se zaměří na vývoj a technické detaily Enhanced Uplink Power Control (EUL PC), který byl postupně vylepšován v různých vydáních 3GPP specifikací.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Enhanced Uplink Power Control v mobilních sítích" />
+    <meta property="twitter:title" content="Enhanced Uplink Power Control v mobilních sítích" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/eul-pc/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Enhanced Uplink Power Control v mobilních sítích</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+26.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#LTE">LTE</a>
+        &nbsp;
+      
+        <a href="//rubrika/#LTE-Advanced">LTE-Advanced</a>
+        &nbsp;
+      
+        <a href="//rubrika/#4G">4G</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Řízení vysílacího výkonu v uplinku představuje základní mechanismus, který zajišťuje efektivní komunikaci mezi mobilním zařízením a základnovou stanicí. Tento článek se zaměří na vývoj a technické detaily Enhanced Uplink Power Control (EUL PC), který byl postupně vylepšován v různých vydáních 3GPP specifikací.</p>
+
+<h2 id="základní-principy-řízení-výkonu">Základní principy řízení výkonu</h2>
+
+<p>V uplinku mobilní zařízení vysílá signál směrem k základnové stanici. Vysílací výkon musí být dostatečně silný, aby signál dorazil k základnové stanici s požadovanou kvalitou, ale zároveň nesmí být příliš vysoký, aby nedocházelo k interferenci s ostatními uživateli. Řízení výkonu proto musí neustále balancovat mezi těmito protichůdnými požadavky.</p>
+
+<p>Základní mechanismus řízení výkonu pracuje na principu uzavřené smyčky (closed loop power control). Základnová stanice měří kvalitu přijatého signálu a posílá mobilnímu zařízení příkazy ke zvýšení nebo snížení vysílacího výkonu. Tento proces se opakuje typicky 1500krát za sekundu.</p>
+
+<h2 id="vývoj-v-release-99">Vývoj v Release 99</h2>
+
+<p>V původní specifikaci Release 99 bylo řízení výkonu relativně jednoduché. Používal se pouze základní algoritmus uzavřené smyčky doplněný o otevřenou smyčku (open loop power control) pro iniciální nastavení výkonu. Systém pracoval s následujícími parametry:</p>
+
+<ul>
+  <li>Rychlost změny výkonu: ±1, ±2 dB</li>
+  <li>Frekvence příkazů: 1500 Hz</li>
+  <li>Jeden společný algoritmus pro všechny služby</li>
+</ul>
+
+<pre><code class="language-mermaid">sequenceDiagram
+    participant UE as Mobilní zařízení
+    participant NodeB as Základnová stanice
+    
+    NodeB-&gt;&gt;UE: Měření kvality signálu
+    NodeB-&gt;&gt;UE: Příkaz ke změně výkonu (TPC)
+    UE-&gt;&gt;UE: Upravení vysílacího výkonu
+    UE-&gt;&gt;NodeB: Vysílání s novým výkonem
+    Note over NodeB,UE: Cyklus se opakuje 1500x za sekundu
+</code></pre>
+
+<h2 id="enhanced-uplink-v-release-6">Enhanced Uplink v Release 6</h2>
+
+<p>Release 6 přinesl významné vylepšení v podobě HSUPA (High Speed Uplink Packet Access). S tím souviselo i rozšíření řízení výkonu o nové funkce:</p>
+
+<ol>
+  <li>E-DPCCH Power Control
+    <ul>
+      <li>Samostatné řízení výkonu pro řídicí kanál</li>
+      <li>Adaptivní nastavení offsetu vůči datovému kanálu</li>
+      <li>Možnost rychlé změny výkonu při změně přenosové rychlosti</li>
+    </ul>
+  </li>
+  <li>E-DPDCH Power Control
+    <ul>
+      <li>Zavedení referenční hodnoty βed pro různé formáty přenosu</li>
+      <li>Gain factors pro různé kombinace fyzických kanálů</li>
+      <li>Podpora scheduled a non-scheduled přenosů</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="vylepšení-v-release-7">Vylepšení v Release 7</h2>
+
+<p>Release 7 přinesl další optimalizace:</p>
+
+<ol>
+  <li>Enhanced DPCCH Power Control
+    <ul>
+      <li>Vylepšený algoritmus pro estimaci SIR (Signal-to-Interference Ratio)</li>
+      <li>Přesnější řízení výkonu při vysokých rychlostech UE</li>
+      <li>Redukce interference při soft handoveru</li>
+    </ul>
+  </li>
+  <li>Zavedení Enhanced Fractional DPCH
+    <ul>
+      <li>Možnost použití různých power offsetů pro různé služby</li>
+      <li>Optimalizace pro MIMO přenosy</li>
+      <li>Podpora různých Quality of Service (QoS) požadavků</li>
+    </ul>
+  </li>
+</ol>
+
+<pre><code class="language-mermaid">flowchart TD
+    A[Měření SIR] --&gt; B{SIR &lt; Target?}
+    B --&gt;|Ano| C[Zvýšení výkonu]
+    B --&gt;|Ne| D[Snížení výkonu]
+    C --&gt; E[Aplikace gain factors]
+    D --&gt; E
+    E --&gt; F[Enhanced DPCCH]
+    E --&gt; G[E-DPDCH]
+    F --&gt; H[Vysílání]
+    G --&gt; H
+</code></pre>
+
+<h2 id="technické-detaily-implementace">Technické detaily implementace</h2>
+
+<p>Enhanced Uplink Power Control pracuje s několika klíčovými parametry:</p>
+
+<h3 id="sir-target">SIR Target</h3>
+<p>Cílová hodnota SIR je dynamicky upravována na základě:</p>
+<ul>
+  <li>Požadované přenosové rychlosti</li>
+  <li>Aktuálních podmínek rádiového kanálu</li>
+  <li>QoS požadavků služby</li>
+  <li>Interference v buňce</li>
+</ul>
+
+<h3 id="gain-factors">Gain Factors</h3>
+<p>Systém používá sadu gain faktorů pro různé kombinace kanálů:</p>
+<ul>
+  <li>βc pro DPCCH</li>
+  <li>βd pro DPDCH</li>
+  <li>βec pro E-DPCCH</li>
+  <li>βed pro E-DPDCH</li>
+</ul>
+
+<p>Tyto faktory jsou nastavovány podle:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Pc = βc2 * Pref
+Pd = βd2 * Pref
+</code></pre></div></div>
+<p>kde Pref je referenční výkon.</p>
+
+<h3 id="power-headroom">Power Headroom</h3>
+<p>Důležitým parametrem je Power Headroom (PH), který indikuje, kolik výkonu má UE ještě k dispozici:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>PH = Pmax - Ptx
+</code></pre></div></div>
+<p>kde:</p>
+<ul>
+  <li>Pmax je maximální povolený vysílací výkon</li>
+  <li>Ptx je aktuální vysílací výkon</li>
+</ul>
+
+<h2 id="lte-a-další-vývoj">LTE a další vývoj</h2>
+
+<p>S příchodem LTE se principy řízení výkonu dále vyvíjely. Bylo zavedeno:</p>
+
+<ol>
+  <li>Fractional Power Control
+    <ul>
+      <li>Kompenzace path loss pouze částečně (typicky 0.6-0.8)</li>
+      <li>Lepší vyvážení mezi cell-edge a cell-center výkonem</li>
+    </ul>
+  </li>
+  <li>Type 0 a Type 1 Power Control
+    <ul>
+      <li>Type 0: Založeno na path loss a interferenci</li>
+      <li>Type 1: Přidává dynamické příkazy pro rychlé změny</li>
+    </ul>
+  </li>
+  <li>Accumulated vs. Absolute příkazy
+    <ul>
+      <li>Accumulated: Relativní změny výkonu</li>
+      <li>Absolute: Přímé nastavení na konkrétní hodnotu</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="praktické-dopady">Praktické dopady</h2>
+
+<p>Enhanced Uplink Power Control přináší několik praktických výhod:</p>
+
+<ol>
+  <li>Energetická efektivita
+    <ul>
+      <li>Optimalizace spotřeby energie v mobilních zařízeních</li>
+      <li>Prodloužení výdrže baterie</li>
+    </ul>
+  </li>
+  <li>Síťová kapacita
+    <ul>
+      <li>Redukce interferencí mezi uživateli</li>
+      <li>Vyšší celková kapacita systému</li>
+    </ul>
+  </li>
+  <li>Quality of Service
+    <ul>
+      <li>Lepší podpora různých typů služeb</li>
+      <li>Stabilnější připojení na okraji buňky</li>
+    </ul>
+  </li>
+  <li>Výkonnost systému
+    <ul>
+      <li>Vyšší přenosové rychlosti</li>
+      <li>Nižší latence</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="technické-výzvy-a-budoucí-směřování">Technické výzvy a budoucí směřování</h2>
+
+<p>Implementace Enhanced Uplink Power Control přináší několik významných technických výzev, které musí vývojáři a operátoři řešit. Zásadním aspektem je rychlost reakce systému na změny v rádiovém prostředí. Řídící mechanismus musí být schopen reagovat v řádu milisekund na náhlé změny podmínek šíření signálu, jako jsou třeba rychlé úniky nebo náhlé interference. Jakékoliv zpoždění v této zpětnovazební smyčce může vést k nestabilitě celého systému a degradaci kvality spojení.</p>
+
+<p>Další kritickou oblastí je přesnost měření parametrů rádiového kanálu, zejména Signal-to-Interference Ratio (SIR). Měřicí algoritmy musí poskytovat spolehlivé výsledky i v prostředí s vysokým šumem a interferencí. To vyžaduje sofistikované metody kalibrace a průběžné ladění měřicích algoritmů. Výzvou je také samotná komplexnost celého systému - množství parametrů, které je třeba optimalizovat, je značné a jejich vzájemné interakce nejsou vždy intuitivní. Navíc tyto parametry musí být koordinovány s ostatními funkcemi síťového stack, jako je handover nebo řízení datových toků.</p>
+
+<p>S příchodem nových generací mobilních sítí se Enhanced Uplink Power Control dále vyvíjí a adaptuje na nové požadavky. V kontextu 5G NR se pozornost zaměřuje především na podporu milimetrových vln (mmWave), kde je přesné řízení výkonu kritické vzhledem k výrazně vyššímu útlumu signálu na těchto frekvencích. Systémy beam-based power control se stávají nezbytností, protože umožňují efektivní směrování energie přesně tam, kde je potřeba. Významnou roli hraje také podpora Ultra-reliable low latency communication (URLLC), která vyžaduje extrémně rychlé a spolehlivé řízení výkonu.</p>
+
+<p>Massive MIMO technologie přináší další rozměr do řízení výkonu. 3D beamforming umožňuje přesné prostorové tvarování vysílacího paprsku nejen v horizontální, ale i vertikální rovině. Více-uživatelské MIMO systémy vyžadují sofistikované algoritmy pro současné řízení výkonu několika uživatelů, kteří sdílejí stejné časové a frekvenční prostředky. Hybridní beamforming kombinuje analogové a digitální techniky pro optimální využití vysílacího výkonu.</p>
+
+<p>Budoucnost řízení výkonu směřuje k využití umělé inteligence a strojového učení. Prediktivní algoritmy mohou anticipovat změny v rádiovém prostředí a proaktivně upravovat vysílací výkon ještě před tím, než dojde k degradaci spojení. Samooptimalizující se sítě využívají historická data a zkušenosti z provozu k průběžnému ladění parametrů řízení výkonu. Adaptivní algoritmy se dokáží učit z různých scénářů nasazení a optimalizovat své chování pro konkrétní podmínky dané lokality.</p>
+
+<p>Řízení výkonu v uplinku tak zůstává dynamickou oblastí výzkumu a vývoje. S každou novou generací mobilních sítí přicházejí nové výzvy a požadavky, ale také nové nástroje a technologie pro jejich řešení. Enhanced Uplink Power Control se tak neustále vyvíjí a adaptuje, aby poskytoval optimální výkon a efektivitu v stále komplexnějším prostředí mobilních komunikací.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/jak-to-bylo-s-pomazankovym-maslem/">👉Jak to bylo s pomazánkovým máslem?</a>
+                <p class="excerpt">
+                  
+                    Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich otců a Ev...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <p class="excerpt">
+                  
+                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Enhanced Uplink Power Control v mobilních sítích&url=https://www.marigold.cz/mobilnisite/eul-pc/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/eul-pc/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2024-12-26-eul-pc.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/dual-connectivity/">&laquo; Dual Connectivity (DC)</a> |
+      
+      
+      
+        <a class="next" href="/mobilnisite/prose-d2d/">Proximity Services (ProSe) a Device-to-Device (D2D) komunikace v LTE &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

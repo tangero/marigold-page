@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Jak fungují velké jazykové modely LLM - co se děje po zadání promptu | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Jak fungují velké jazykové modely LLM - co se děje po zadání promptu" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Fungování velkých jazykových modelů (LLM) po zadání promptu je proces, který kombinuje algoritmy, masivní neuronové sítě a komplexní zpracování dat. Abyste měli lepší představu, jak moderní AI na bázi LLM funguje, je dobré podívat se krok za krokem, jak tento proces probíhá od okamžiku, kdy uživatel zadá prompt, až po generování finální odpovědi." />
+<meta property="og:description" content="Fungování velkých jazykových modelů (LLM) po zadání promptu je proces, který kombinuje algoritmy, masivní neuronové sítě a komplexní zpracování dat. Abyste měli lepší představu, jak moderní AI na bázi LLM funguje, je dobré podívat se krok za krokem, jak tento proces probíhá od okamžiku, kdy uživatel zadá prompt, až po generování finální odpovědi." />
+<link rel="canonical" href="https://www.marigold.cz/ai/llm/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/llm/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-05T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Jak fungují velké jazykové modely LLM - co se děje po zadání promptu" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-07-05T00:00:00+00:00","datePublished":"2024-07-05T00:00:00+00:00","description":"Fungování velkých jazykových modelů (LLM) po zadání promptu je proces, který kombinuje algoritmy, masivní neuronové sítě a komplexní zpracování dat. Abyste měli lepší představu, jak moderní AI na bázi LLM funguje, je dobré podívat se krok za krokem, jak tento proces probíhá od okamžiku, kdy uživatel zadá prompt, až po generování finální odpovědi.","headline":"Jak fungují velké jazykové modely LLM - co se děje po zadání promptu","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/llm/"},"url":"https://www.marigold.cz/ai/llm/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Fungování velkých jazykových modelů (LLM) po zadání promptu je proces, který kombinuje algoritmy, masivní neuronové sítě a komplexní zpracování dat. Abyste měli lepší představu, jak moderní AI na bázi LLM funguje, je dobré podívat se krok za krokem, jak tento proces probíhá od okamžiku, kdy uživatel zadá prompt, až po generování finální odpovědi.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Jak fungují velké jazykové modely LLM - co se děje po zadání promptu" />
+    <meta property="twitter:title" content="Jak fungují velké jazykové modely LLM - co se děje po zadání promptu" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/llm/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Jak fungují velké jazykové modely LLM - co se děje po zadání promptu</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+5.
+červenec
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Fungování velkých jazykových modelů (LLM) po zadání promptu je proces, který kombinuje algoritmy, masivní neuronové sítě a komplexní zpracování dat. Abyste měli lepší představu, jak moderní AI na bázi LLM funguje, je dobré podívat se krok za krokem, jak tento proces probíhá od okamžiku, kdy uživatel zadá prompt, až po generování finální odpovědi.</p>
+
+<h3 id="1-zadání-promptu">1. Zadání promptu</h3>
+<p>Vše začíná, když uživatel <a href="/ai/prompt/">zadá textový prompt</a> do rozhraní LLM. Tento prompt může být otázka, instrukce, nebo jakýkoli jiný textový vstup. Například: “Vysvětli mi, jak funguje fotosyntéza u rostlin.”</p>
+
+<h3 id="2-tokenizace">2. Tokenizace</h3>
+<p>Jakmile je prompt zadán, prvním krokem je tokenizace. Tokenizace rozděluje text na menší jednotky zvané tokeny. Tyto tokeny mohou být slova, části slov, nebo dokonce jednotlivé znaky, v závislosti na použitém tokenizačním algoritmu. Ve <a href="/ai/tokenizace-textu/">zvláštním článku vysvětluji</a>, jaký je rozdíl mezi slovy a tokeny a proč se mechanismus tokenů používá. 
+Pro náš příklad by tokenizace mohla vypadat takto:
+[“Vysvětli”, “mi”, “,”, “jak”, “funguje”, “foto”, “syntéza”, “u”, “rostlin”, “.”]</p>
+
+<p>Moderní LLM často používají metody tokenizace jako <em>Byte-Pair Encoding (BPE)</em> nebo <em>SentencePiece</em>, které umožňují efektivnější zpracování méně častých slov a různých jazyků. Všimněte si, že slovo “fotosyntéza” bylo rozděleno na dva tokeny.</p>
+
+<h3 id="3-numerická-reprezentace">3. Numerická reprezentace</h3>
+<p>Po tokenizaci je každý token převeden na numerickou reprezentaci pomocí velkého vyhledávacího slovníku, kde každý token má přiřazené unikátní číslo.</p>
+
+<h3 id="4-kontextové-okno">4. Kontextové okno</h3>
+<p>LLM mají omezený počet tokenů, které mohou zpracovat najednou, tzv. <em>kontextové okno</em>. Toto okno může být například 2048 nebo 4096 tokenů, u nejmodernějších LLM i statisíce tokenů. Vše v tomto okně slouží jako kontext pro generování odpovědi, tedy informace, která může být relevantní a použita k upřesnění generované odpovědi.</p>
+
+<h3 id="5-zpracování-neuronovou-sítí">5. Zpracování neuronovou sítí</h3>
+<p>Nyní přichází na řadu jádro LLM - <em>masivní neuronová síť</em>, obvykle založená na architektuře <em>Transformátorů</em>. Tato síť se skládá z mnoha vrstev a může mít miliardy parametrů.</p>
+
+<p><strong>a) Token embeddings vrstva</strong>
+První vrstva po samotné tokenizaci převádí numerické reprezentace tokenů na vektory s plovoucí desetinnou čárkou, které zachycují sémantické vlastnosti tokenů.</p>
+
+<p>Po tokenizaci je každému tokenu přiřazeno jeho ID ze slovníku (např. token “kočka” má ID 587). Tato ID jsou pak převedena na vektory s plovoucí desetinnou čárkou - tzv. embeddings. Je to v podstatě vyhledávací tabulka (lookup table), kde každému ID je přiřazen vektor čísel (například vektor o délce 768 nebo 1024 dimenzí). Tyto vektory jsou nastaveny během trénování tak, aby tokeny s podobným významem měly podobné vektorové reprezentace - zachycují tedy sémantické vlastnosti tokenů.
+Příklad:</p>
+
+<ul>
+  <li>Slovo “kočka” (ID 587) → [0.2, -0.5, 0.1, …, 0.3]</li>
+  <li>Slovo “kocour” (ID 892) → [0.19, -0.48, 0.15, …, 0.28]
+(podobný vektor, protože významy jsou podobné)</li>
+  <li>Slovo “auto” (ID 245) → [-0.8, 0.2, -0.4, …, -0.1]
+(velmi odlišný vektor, protože význam je odlišný)</li>
+</ul>
+
+<p><strong>b) Pozornostní mechanismus (Self-attention)</strong>
+Klíčovou součástí <a href="/ai/transformatory">architektury Transformátorů</a> je mechanismus pozornosti (attention mechanism). Mechanismus pozornosti umožňuje rozhodnout se, jaká část z jinak “plochého” textového vstupu je více či méně hodná pozornosti. Pro každý token ve vstupní sekvenci tento mechanismus vypočítává:</p>
+
+<ol>
+  <li>Query (Q) - dotaz: co token “hledá”</li>
+  <li>Key (K) - klíč: čím token “odpovídá” na dotazy</li>
+  <li>Value (V) - hodnota: jakou informaci token “poskytuje”</li>
+</ol>
+
+<p>Funguje to následovně:</p>
+<ul>
+  <li>Pro každý token se jeho Query porovná s Keys všech ostatních tokenů (včetně sebe sama)</li>
+  <li>Toto porovnání vytvoří “attention scores” - čísla určující, jak moc by měl daný token věnovat pozornost ostatním tokenům</li>
+  <li>Tyto skóre se normalizují pomocí softmax funkce na pravděpodobnostní distribuci</li>
+  <li>Nakonec se vypočtené attention scores použijí jako váhy pro Values příslušných tokenů</li>
+</ul>
+
+<p>Příklad:
+Věta: <em>“Kočka, která honí myš, je černá.”</em></p>
+<ul>
+  <li>Když model zpracovává slovo “je”, mechanismus pozornosti mu umožní zaměřit se silně na slovo “kočka”, protože to je podmět věty</li>
+  <li>Při zpracování slova “černá” se model může znovu zaměřit na “kočka”, protože to je předmět, který je popisován. 
+Tím počítač z jinak plochého sdělení může pochopit, že to, co honí myš, je kočka a tato kočka je černá.</li>
+</ul>
+
+<p>Moderní LLM typicky používají:</p>
+<ul>
+  <li>Multi-head attention: několik pozornostních mechanismů běžících paralelně</li>
+  <li>Masked attention v případě generativních modelů: při generování může model věnovat pozornost pouze předchozím tokenům, ne budoucím</li>
+</ul>
+
+<p>Tento mechanismus je klíčový pro schopnost LLM porozumět kontextu a dlouhodobým závislostem v textu.</p>
+
+<p><strong>c) Feed-forward vrstvy (FFN)</strong>
+Po tom, co attention mechanismus umožnil obohatil tokeny o potřebný kontext, přichází feed-forward síť (FFN). Ta představuje možnost, jak pro každý token zpracovat a tedy “promyslet” všechny informace, které nyní dostává.</p>
+
+<p>Představte si to jako třífázový proces:</p>
+
+<ol>
+  <li>Rozšíření informací
+    <ul>
+      <li>Token nejprve “rozbalí” všechny svoje informace do většího prostoru</li>
+      <li>Je to jako když si rozložíte puzzle na větší stůl a obrátíte obrázkem nahoru, abyste lépe viděli všechny dílky</li>
+    </ul>
+  </li>
+  <li>Zpracování informací
+    <ul>
+      <li>Aplikuje se aktivační funkce (GELU/ReLU), která některé informace zvýrazní a jiné potlačí</li>
+      <li>Je to jako když z rozložených dílků puzzle vyberete ty, které jsou pro vás v danou chvíli důležité - třeba ty okrajové</li>
+    </ul>
+  </li>
+  <li>Shrnutí
+    <ul>
+      <li>Nakonec se všechny zpracované informace opět “sbalí” do původní velikosti</li>
+      <li>Jako když poskládáte vybrané dílky puzzle zpět do kompaktního celku</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Důležité je, že každý token tímto procesem prochází samostatně - je to jeho “osobní čas na přemýšlení” o všem, co se dozvěděl z attention mechanismu.</p>
+
+<p>Proto je tento proces velmi náročný na výpočetní sílu a čas a dělá to problematickým zpracování rozsáhlých kontextů, tedy rozsáhlých vstupů, například rozsáhlých textů. Každý jednotlivý token musí být propočítán s ohledem na všechny ostatní tokeny.</p>
+
+<p>Výsledek se pak přičte k původním informacím tokenu (jako když si k původním poznámkám přidáte nové postřehy) a celé se to “učeše” pomocí normalizace, aby další vrstvy mohly efektivně pracovat s aktualizovanými informacemi.</p>
+
+<h3 id="6-generování-výstupu">6. Generování výstupu</h3>
+<p>Po zpracování vstupního promptu neuronovou sítí začíná proces generování odpovědi. Tento proces je iterativní a probíhá token po tokenu.</p>
+
+<p><strong>a) Predikce dalšího tokenu</strong>
+Model používá své vnitřní reprezentace a naučené vztahy k predikci pravděpodobnostního rozdělení nad všemi možnými následujícími tokeny.  Například:</p>
+
+<p>“Petr šel do obchodu koupit…”</p>
+
+<p>V tomto momentě model:</p>
+<ol>
+  <li>Vezme všechna možná slova ze svého slovníku (třeba 50 000 možností)</li>
+  <li>Každému slovu přiřadí pravděpodobnost, že by mělo být další v pořadí</li>
+  <li>Například:
+    <ul>
+      <li>“chleba” - 35% pravděpodobnost</li>
+      <li>“mléko” - 25% pravděpodobnost</li>
+      <li>“jablka” - 15% pravděpodobnost</li>
+      <li>“auto” - 0.001% pravděpodobnost</li>
+      <li>(a tak dále pro všechna slova)</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Model přiřazuje vyšší pravděpodobnosti slovům, která dávají v daném kontextu největší smysl. Slova, která nedávají smysl (jako “auto” v našem příkladu nákupu), dostanou velmi nízkou pravděpodobnost.</p>
+
+<p>Tento proces se opakuje pro každé další slovo, přičemž každé nově přidané slovo ovlivňuje pravděpodobnosti slov následujících.</p>
+
+<p><strong>b) Výběr tokenu</strong>
+Z tohoto pravděpodobnostního rozdělení je vybrán další token. LLM obvykle používají techniku zvanou sampling, kdy vybírají z několika nejpravděpodobnějších možností. To do jisté míry přidává elementy kreativity a variability do odpovědí, tzn. odpovědi na stejné prompty jsou různé. Je významnou součástí ladění modelu nastavení samplingu, tedy rozpětí pravděpodobností, z nichž model vybírá. Tedy to, jestli v našem případě může vybírat ze slov chleba, mléko, ale i ještě jablko, nebo už je jablko příliš málo pravděpodobné. Toto nastavení vytváří rozpětí mezi nudnými a správnými odpověďmi a inspirativními nebo šílenými na druhém pólu…</p>
+
+<p><strong>c) Zpětná vazba</strong>
+Vybraný token je přidán k dosud vygenerovanému výstupu a také je použit jako vstup pro další krok generování. Tento proces se opakuje, dokud není vygenerován speciální token označující konec sekvence, nebo dokud není dosaženo maximální délky výstupu.</p>
+
+<h3 id="7-post-processing">7. Post-processing</h3>
+<p>Po vygenerování surového výstupu následuje detokenizace (převod tokenů zpět na čitelný text), případná filtrace obsahu a formátování.</p>
+
+<h3 id="8-zobrazení-odpovědi">8. Zobrazení odpovědi</h3>
+<p>Konečně, zpracovaná a formátovaná odpověď je zobrazena uživateli.</p>
+
+<h2 id="klíčové-koncepty-a-pokročilé-techniky">Klíčové koncepty a pokročilé techniky</h2>
+
+<p>Nyní, když jsme prošli základní proces, pojďme se podívat na některé klíčové koncepty a pokročilé techniky, které jsou důležité pro pochopení fungování moderních LLM.</p>
+
+<h3 id="1-princip-predikce-následujícího-slova">1. Princip predikce následujícího slova</h3>
+
+<p>Je důležité pochopit, že jádrem fungování LLM je předpovídání následujícího slova (nebo tokenu) na základě předchozího kontextu. Tento jednoduchý princip je základem pro všechny sofistikované schopnosti, které LLM vykazují.</p>
+
+<h3 id="2-fáze-trénování">2. Fáze trénování</h3>
+
+<p>Před samotným použitím prochází LLM třemi hlavními fázemi trénování:</p>
+
+<p>a) Pre-training: Model se učí předpovídat další slovo na obrovském množství textových dat, získávajíc tak široké znalosti o jazyce a světě.</p>
+
+<p>b) Instruction fine-tuning: Model se učí reagovat na konkrétní instrukce a otázky, což mu pomáhá chovat se více jako asistent.</p>
+
+<p>c) Reinforcement Learning from Human Feedback (RLHF): Tato fáze dále vylepšuje model tak, aby jeho odpovědi byly více v souladu s lidskými preferencemi a hodnotami.</p>
+
+<h3 id="3-emergentní-schopnosti">3. Emergentní schopnosti</h3>
+
+<p>S rostoucí velikostí modelu a množstvím tréninkových dat se u LLM objevují emergentní schopnosti - schopnosti, které nebyly explicitně natrénovány. Mezi tyto schopnosti patří například:</p>
+
+<ul>
+  <li>Řešení víceúrovňových úloh</li>
+  <li>Few-shot learning (schopnost učit se z několika příkladů)</li>
+  <li>Řešení matematických problémů</li>
+  <li>Generování kódu</li>
+</ul>
+
+<h3 id="4-techniky-pro-zlepšení-výkonu">4. Techniky pro zlepšení výkonu</h3>
+
+<p>Existuje několik technik, které mohou výrazně zlepšit výkon LLM:</p>
+
+<p>a) Chain-of-thought prompting: přístup, kdy model “myslí krok za krokem”, což může zlepšit jeho schopnost řešit komplexní úlohy. Tento přístup vlastně rozkládá úlohu na jednodušší úlohy, přičemž LLM (stejně jako člověk) lépe zvládá více zřetězených jednodušších úloh, než jednu složitou.  Model tak dostává “pracovní paměť” v podobě mezivýsledků, které jsou součástí kontextu pro další generování.</p>
+
+<p>b) Few-shot learning: Pokud je poskytnuto v promptu několik příkladů, může to pomoci modelu lépe pochopit požadovaný formát nebo styl odpovědi. Proto také prompty obohacujeme žádostmi, v jakém formátu či stylu a odborností požadujeme výstupy, aby to LLM nemusel odhadovat.</p>
+
+<p>c) Retrieval-Augmented Generation (RAG): Kombinace LLM s vyhledáváním v externí databázi znalostí může zlepšit přesnost a aktuálnost odpovědí. Tato technika je zvláště užitečná pro překonání omezení spojených s cut-off datem tréninkových dat.</p>
+
+<h3 id="5-omezení-a-výzvy">5. Omezení a výzvy</h3>
+
+<p>I přes své schopnosti mají LLM několik významných omezení:</p>
+
+<p>a) Halucinace: LLM mohou někdy generovat nepravdivé nebo zavádějící informace, zejména když jsou dotázány na něco, co je mimo jejich tréninkový dataset. To je částečně způsobeno tím, že model je trénován pouze na generování pravděpodobného textu, ne nutně fakticky správného textu. <a href="/ai/halucinace-ai/">Podrobněji probíráme zde</a>.</p>
+
+<p>b) Kontextové okno: Omezená velikost kontextového okna limituje schopnost modelu pracovat s velmi dlouhými dokumenty nebo udržet kontext v dlouhých konverzacích.</p>
+
+<p>c) Aktuálnost informací: LLM jsou omezeny na informace, na kterých byly natrénovány, a nemohou přímo přistupovat k aktuálním informacím (pokud nejsou kombinovány s RAG).</p>
+
+<p>d) Etické otázky: Použití LLM vznáší řadu etických otázek, včetně potenciálních předsudků, vlivu na soukromí a autorských práv.</p>
+
+<h2 id="závěr">Závěr</h2>
+
+<p>Fungování LLM po zadání promptu je proces, který kombinuje hluboké strojové porozumění jazyku s pokročilými algoritmy strojového učení. Je podle mne velmi zajímavé, jak je to na jednu stranu odlišné od lidského postupu uvažování (to je ta část tokenizace, tedy převodu jazyka na čísla) a na stranu druhou je další postup už velmi podobný lidskému přemýšlení a učení.</p>
+
+<p>Zároveň je důležité si uvědomit, že LLM stále mají svá omezení, zejména v oblasti halucinací. Proto je kritické myšlení a ověřování informací stále nezbytné.</p>
+
+<p>S pokračujícím výzkumem a vývojem v oblasti AI můžeme očekávat další vylepšení těchto systémů. Budoucí vývoj se pravděpodobně zaměří na překonávání současných omezení, jako je velikost kontextového okna, aktuálnost informací a problém halucinací. Zároveň můžeme očekávat pokrok v oblasti multimodálních modelů, které budou schopny zpracovávat nejen text, ale i obrázky, zvuky a videa v jednotném rámci.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <p class="excerpt">
+                  
+                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana
+</a>
+                <p class="excerpt">
+                  
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Jak fungují velké jazykové modely LLM - co se děje po zadání promptu&url=https://www.marigold.cz/ai/llm/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/llm/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2024-07-04-llm.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+      
+      
+        <a class="next" href="/ai/tokenizace-textu/">Tokenizace textu &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

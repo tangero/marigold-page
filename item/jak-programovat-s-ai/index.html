@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Návod na programování s AI, když programovat neumíte | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Návod na programování s AI, když programovat neumíte" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="cs" />
+<meta name="description" content="Minule jsme si řekli, jak pomocí umělé inteligence psát lepší články, zprávy a texty. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři. A na to se dnes podíváme. Článek tedy není určen pro programátory ke zvyšování jejich produktivity, ale neprogramátorům, kteří občas potřebují vytvořit nějaký program." />
+<meta property="og:description" content="Minule jsme si řekli, jak pomocí umělé inteligence psát lepší články, zprávy a texty. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři. A na to se dnes podíváme. Článek tedy není určen pro programátory ke zvyšování jejich produktivity, ale neprogramátorům, kteří občas potřebují vytvořit nějaký program." />
+<link rel="canonical" href="https://www.marigold.cz/item/jak-programovat-s-ai/" />
+<meta property="og:url" content="https://www.marigold.cz/item/jak-programovat-s-ai/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-08-14T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Návod na programování s AI, když programovat neumíte" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-08-14T00:00:00+00:00","datePublished":"2024-08-14T00:00:00+00:00","description":"Minule jsme si řekli, jak pomocí umělé inteligence psát lepší články, zprávy a texty. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři. A na to se dnes podíváme. Článek tedy není určen pro programátory ke zvyšování jejich produktivity, ale neprogramátorům, kteří občas potřebují vytvořit nějaký program.","headline":"Návod na programování s AI, když programovat neumíte","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/item/jak-programovat-s-ai/"},"url":"https://www.marigold.cz/item/jak-programovat-s-ai/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Minule jsme si řekli, jak pomocí umělé inteligence psát lepší články, zprávy a texty. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři. A na to se dnes podíváme. Článek tedy není určen pro programátory ke zvyšování jejich produktivity, ale neprogramátorům, kteří občas potřebují vytvořit nějaký program.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Návod na programování s AI, když programovat neumíte" />
+    <meta property="twitter:title" content="Návod na programování s AI, když programovat neumíte" />
+    
+
+    
+    <!-- page.thumbnail -->
+    
+        <!-- page.thumbnail https://www.marigold.cz/assets/prgramovani-s-ai.png |  -->
+    <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/prgramovani-s-ai.png"/>
+    <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/prgramovani-s-ai.png"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/item/jak-programovat-s-ai/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Návod na programování s AI, když programovat neumíte</h1>
+
+  
+  <div class="posts">
+    <blockquote>
+      <p>💡 Firemní <a href="https://www.aivefirmach.cz/">workshopy o umělé inteligenci</a> - pojďme se zamyslet nad tím, jak se vaší firmy dotkne AI a jak se na to připravit!</p>
+    </blockquote>
+  </div>
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+14.
+srpen
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#AI">AI</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Umělá inteligence">Umělá inteligence</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+  
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/prgramovani-s-ai.png" alt="Návod na programování s AI, když programovat neumíte">
+  </div>
+  
+
+
+ 
+
+
+<div class="audio-container">
+  <p class="audio-title">Přehrát článek:</p>
+  <audio class="custom-audio" controls>
+      <source src="http://www.marigold.cz/audio/2024-07-14-jak-programovat-s-ai.mp3" type="audio/mpeg">
+      <p><a href="http://www.marigold.cz/audio/2024-07-14-jak-programovat-s-ai.mp3" target="_blank">🎧 Poslechnout audio verzi článku</a></p>
+  </audio>
+</div>
+
+
+  <div class="entry">
+    <p>Minule jsme si řekli, <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">jak pomocí umělé inteligence psát lepší články, zprávy a texty</a>. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři. A na to se dnes podíváme. Článek tedy není určen pro programátory ke zvyšování jejich produktivity, ale neprogramátorům, kteří občas potřebují vytvořit nějaký program.</p>
+
+<p>Programování má oproti mnoha jiným tvůrčím postupům zásadní nevýhodu: něco o tom musíte vědět. Pokud si otevřete vývojové prostředí, musíte tušit, jak za sebe skládat příkazy a dokud to neuděláte správně, nic nefunguje. Když budete chtít psát nebo kreslit, tak možná nenapíšete nebo nenakreslíte nic extra hezkého, ale nějak to bude fungovat. U programování ne - buďto víte, jak na to, nebo neuděláte ani prd.</p>
+
+<blockquote>
+  <p>Článek <strong>o nástrojích pro programování s AI pro neprogramátory</strong> <a href="/item/programovani-s-ai/">s detailními informacemi najdete zde</a>.</p>
+</blockquote>
+
+<p>To ale AI mění. Pokud si předplácíte ChatGPT nebo Claude, můžete nechat umělou inteligenci vytvořit za vás i velmi rozsáhlé programy. Začít je samozřejmě lepší drobnějšími scripty a trochu se s celou věcí seznámit.</p>
+
+<p>Pojďme se podívat, jak na to.</p>
+
+<blockquote>
+  <p>Poznámka: o <a href="/ai/agenti/">tvorbě Agentů pro AI pojednává samostatný článek</a>.</p>
+</blockquote>
+
+<p><strong>Za prvé je potřeba si ujasnit, co chcete vytvořit.</strong> Rozhodně nepředpokládejte, že vám AI vygeneruje na jeden prompt weby rozsahu Facebooku. To za prvé. Za druhé je dobré něco o vývoji a provozu webů vědět, samozřejmě čím více, tím lépe, ale každý základ se hodí. Za třetí, uvažujte o AI jako o zkušenějším kolegovi, po kterém můžete ledasco chtít, ale musíte mu to dobře vysvětlit.</p>
+
+<p>Proces tvorby programu s AI je proces iterativní. Máte vstup - tedy základní východisko a podmínky, z nichž se vychází. Pak máte výstup - tedy to, co chcete dostat a jak to má vypadat. A mezi tím je ta magie, který bývá laikům ukradená a kterou teď doufáme, že pořeší umělá inteligence.</p>
+
+<p>Vezmeme si nějaký příklad. Například já používám pro logování projektů systém, kdy si napíšu, co jsem udělal a za to s hashem název projektu či práce. Například “Objednám nový server #marigold”. To si píšu do Excelu. Nově chci mít webovou službu, kam si za prvé toto poznamenám, za druhé si mohu všechny tyto poznámky vypsat. Je to relativně jednoduchá aplikace pro náš příklad programování s AI.</p>
+
+<p><strong>Takže si ujasněme zadání pro tuto aplikaci:</strong></p>
+
+<ul>
+  <li>
+    <p>data se zadávají přes webový formulář ve formátu libovolného krátkého textu a mohou obsahovat hashtag, tedy slovo začínající znakem #</p>
+  </li>
+  <li>
+    <p>tato data lze vypisovat podle data a také výpis omezit na určitý hashtag</p>
+  </li>
+  <li>
+    <p>jelikož jde o web službu přístupnou z internetu, bude vhodné data zpřístupnit jen přihlášenému uživateli</p>
+  </li>
+</ul>
+
+<p>A to je vlastně celé zadání našeho projektu. Záměrně oškubané, což by mi zkušený projekťák oprávněně vytknul, ale později si ukážeme, proč.</p>
+
+<p>Předpokládejme, že si platíte ChatGPT, ale postup bude podobný i pro jiné nástroje jako Claude. V ChatGPT ovšem máte výhodu, můžete použít GPT. Najděte v sekci Prozkoumat GPT nástroj nazvaný <a href="https://chatgpt.com/g/g-5qFFjp0bP-code-copilot"><em>Code Copilot</em></a>, to je skvěle přizpůsobený nástroj pro podporu programování. Vložme zhruba tento prompt:</p>
+
+<blockquote>
+  <p>Ahoj, potřebuji vytvořit webovou aplikaci. Aplikace by měla umožnit registraci a přihlášení uživatele. Přihlášený uživatel může do textového vstupního pole zadat text, který se uloží. Ukládá se včetně data a času zadání. Další stránka umožňuje vypsat všechny zadané texty vevolitelnem časovém rozmezí a třídit je podle hashtagu. Další stránka vygeneruje cloud hashtagů včetně četnosti použití. Očekávám, že služba bude málo využívaná. Jaký programovací jazyk a postup považuješ pro toto zadání za nejvhodnější? Rád bych, aby vznikl čitelný kód a pomohl jsi mi vybrat hosting, kde budu moci jednoduše tento kód nasazovat, vše bude čitelné a pochopitelné pro začátečníka. Rád bych, aby hosting byl zdarma, případně placený dle četnosti použití. Nejdříve mi udělej souhrn tvých doporučení pro programovací jazyk a pro hosting, popiš mi výhody a nevýhody.</p>
+</blockquote>
+
+<p>Code Copilot (CC) nabídne, abyste řešení realizovali v Pythonu, pro backend použili framework Flask a Jinja2 pro frontend. Tady se hodí, když víte, o co zhruba jde, my si to vysvětlovat nebudeme.</p>
+
+<blockquote>
+  <h3 id="doporučení-pro-programovací-jazyk-a-framework">Doporučení pro programovací jazyk a framework</h3>
+
+  <p><strong>Jazyk:</strong> Python</p>
+
+  <p><strong>Framework:</strong> Flask (pro backend) a Jinja2 (pro frontend šablony)</p>
+
+  <h4 id="výhody">Výhody:</h4>
+
+  <ul>
+    <li>
+      <p><strong>Jednoduchost:</strong> Python je jazyk známý svou čitelností a snadným učením, což je ideální pro začátečníky.</p>
+    </li>
+    <li>
+      <p><strong>Flask:</strong> Je lehký webový framework, který je jednoduchý na použití, umožňuje rychlé prototypování a poskytuje flexibilitu při
+vytváření aplikace. Flask je velmi dobře dokumentovaný, což usnadňuje
+vývoj a řešení problémů.</p>
+    </li>
+    <li>
+      <p><strong>Široká podpora:</strong> Python a Flask mají velkou komunitu a množství knihoven, které mohou zjednodušit práci (například pro správu
+uživatelů, práci s databázemi, nebo generování grafů a cloudů slov).</p>
+    </li>
+    <li>
+      <p><strong>Flexibilita:</strong> Flask je velmi modulární, což umožňuje snadnou integraci s různými databázemi (např. SQLite pro jednoduché nasazení)
+a front-end frameworky.</p>
+    </li>
+    <li>
+      <p><strong>Učitelnost:</strong> Python má jednoduchou a čitelnou syntax, což z něj činí skvělou volbu pro výuku a pochopení webového vývoje.</p>
+    </li>
+  </ul>
+
+  <h4 id="nevýhody">Nevýhody:</h4>
+
+  <ul>
+    <li>
+      <p><strong>Výkon:</strong> Flask není tak výkonný jako jiné plně vybavené frameworky, jako je Django nebo Node.js, ale pro málo využívanou
+službu by to neměl být problém.</p>
+    </li>
+    <li>
+      <p><strong>Méně funkcí:</strong> Flask neposkytuje tolik vestavěných funkcí jako robustnější frameworky (např. Django), což znamená, že některé funkce
+budete muset implementovat sami.</p>
+    </li>
+  </ul>
+
+  <h3 id="doporučení-pro-hosting">Doporučení pro hosting</h3>
+
+  <p><strong>Hostingová platforma:</strong> Heroku</p>
+
+  <h4 id="výhody-1">Výhody:</h4>
+
+  <ul>
+    <li>
+      <p><strong>Jednoduché nasazení:</strong> Heroku nabízí snadné nasazení aplikací přímo z GitHubu nebo přes příkazový řádek, což je vhodné pro
+začátečníky.</p>
+    </li>
+    <li>
+      <p><strong>Zdarma:</strong> Heroku nabízí bezplatný plán, který je vhodný pro malé a málo využívané aplikace. Placené plány jsou dostupné pro větší
+škálování.</p>
+    </li>
+    <li>
+      <p><strong>Podpora pro Python:</strong> Heroku má vestavěnou podporu pro Python a Flask aplikace, což umožňuje snadnou integraci a nasazení.</p>
+    </li>
+    <li>
+      <p><strong>Databáze:</strong> Heroku nabízí integrovanou podporu pro PostgreSQL databáze, což vám poskytuje škálovatelnou a spolehlivou databázi přímo
+na platformě.</p>
+    </li>
+  </ul>
+
+  <h4 id="nevýhody-1">Nevýhody:</h4>
+
+  <ul>
+    <li>
+      <p><strong>Omezené zdroje na bezplatném plánu:</strong> Bezplatný plán Heroku má omezení v počtu hodin spuštění aplikace za měsíc a nemusí být vhodný
+pro aplikace s vysokým provozem nebo velkou databází.</p>
+    </li>
+    <li>
+      <p><strong>Spouštění po nečinnosti:</strong> Aplikace nasazené na bezplatném plánu mohou po nečinnosti usnout a po opětovném spuštění mohou mít pomalejší
+odezvu.</p>
+    </li>
+  </ul>
+
+  <h3 id="alternativní-možnosti">Alternativní možnosti</h3>
+
+  <ul>
+    <li>
+      <p><strong>Vercel nebo Netlify:</strong> Tyto platformy jsou zaměřené hlavně na front-end, ale mohou být použity i pro full-stack aplikace pomocí
+serverless funkcí. Jsou rovněž velmi přátelské k začátečníkům a mají
+bezplatné plány.</p>
+    </li>
+    <li>
+      <p><strong>Render:</strong> Alternativa k Heroku, která nabízí podobné možnosti nasazení s jednoduchým uživatelským rozhraním a bezplatnými plány.</p>
+    </li>
+  </ul>
+
+  <h3 id="souhrn">Souhrn</h3>
+
+  <p>Doporučuji použít Python s Flaskem pro vývoj vaší webové aplikace.
+Tento přístup vám poskytne čitelný a flexibilní kód, který je snadno
+pochopitelný pro začátečníky. Pro hosting bych doporučil Heroku,
+protože nabízí jednoduché nasazení a bezplatný plán vhodný pro menší
+projekty.</p>
+
+  <p><strong>a.</strong> Chcete pokračovat s implementací backendu aplikace pomocí Flasku?</p>
+
+  <p><strong>b.</strong> Mám vám pomoci nastavit projekt a připravit kód pro základní funkčnost, jako je registrace uživatelů a ukládání textů?</p>
+</blockquote>
+
+<p>CC také doporučí platformy pro hostování Pythonu, navrhuje použít Heroku, alternativně Vercel, Netlify nebo Render, všechno jsou velmi validní volby. Ale jak to, že nám neodporučil třeba Amazon AWS nebo MS Azure, když na ně všude jsou reklamy? Zeptejme se:</p>
+
+<blockquote>
+  <p>Proč jsi mi nedoporučil AWS, Azure nebo Google Cloud?</p>
+</blockquote>
+
+<p>CC odpovídá, že jde o velmi komplexní platformy, které bude pro začátečníka obtížné nastavit. Heroku, Vercel, a podobné platformy jsou zaměřené na jednoduchost a uživatelskou přívětivost, což je vhodné pro projekty s nižšími nároky a pro uživatele, kteří nechtějí řešit složitou konfiguraci. Což mohu potvrdit, nastavit AWS / Azure je pro začátečníka zdlouhavé. Mimochodem, Claude tuto výhradu poskytla hned na ten první prompt. To, že jsme začátečníci, jsme AI poskytli v úvodním promptu a ihned jsme si definovali, že pro nás jednoduchost nasazování bude důležitá.</p>
+
+<p>Ještě se můžeme doptat, jak je to s hostingy v Česku (dostávám doporučení na Active 24, Wedos a Stable, vše relevantní) - ale správně mi AI připomíná, že bych se v takovém případě měl orientovat na virtuální privátní server, který je cenově nákladnější a už si vyžaduje zkušenosti s administrací.</p>
+
+<p>Dejme tedy na první dopoučení a pojďme si ujasnit, jaký bude další pracovní postup, abychom si všechno nastavili:</p>
+
+<blockquote>
+  <p>Jaké by jsi mi doporučil pracovní workflow pro vývoj této mojí aplikace? Použiji tedy python a Heroku a můj počítač používá MacOS.</p>
+</blockquote>
+
+<p>CC i Claude nám vcelku shodně (s rozdílnou mírou detailu) radí, jak dále postupovat.  Nejprve bychom si měli rozchodit lokální vývojové prostředí, tedy instalovat Python, Flask a nějaký editor zdrojového kódu - doporučuje se nám přímo co a jak. To je ten důvod, proč jsme do promptu uvedli, z jakého operačního systému budeme pracovat. AI nám nyní přímo nabízí příkazy pro příkazovou řádku nebo software vhodný pro tento operační systém (odpověď je tentokráte z Claude).</p>
+
+<blockquote>
+  <p>Pro vývoj vaší aplikace v Pythonu s nasazením na Heroku a s použitím
+macOS bych doporučil následující workflow:</p>
+
+  <ol>
+    <li>Nastavení vývojového prostředí:
+      <ul>
+        <li>Nainstalujte Python (pokud již nemáte): Použijte Homebrew nebo stáhněte z python.org</li>
+        <li>Nainstalujte Git pro správu verzí</li>
+        <li>Nainstalujte editor kódu (např. Visual Studio Code nebo PyCharm)</li>
+      </ul>
+    </li>
+    <li>Vytvoření projektu:
+      <ul>
+        <li>Vytvořte nový adresář pro projekt</li>
+        <li>Inicializujte Git repozitář: <code class="language-plaintext highlighter-rouge">git init</code></li>
+        <li>Vytvořte virtuální prostředí: <code class="language-plaintext highlighter-rouge">python -m venv venv</code></li>
+        <li>Aktivujte virtuální prostředí: <code class="language-plaintext highlighter-rouge">source venv/bin/activate</code></li>
+      </ul>
+    </li>
+    <li>Nastavení Flask aplikace:
+      <ul>
+        <li>Nainstalujte Flask: <code class="language-plaintext highlighter-rouge">pip install flask</code></li>
+        <li>Vytvořte požadavky: <code class="language-plaintext highlighter-rouge">pip freeze &gt; requirements.txt</code></li>
+        <li>Vytvořte základní strukturu Flask aplikace</li>
+      </ul>
+    </li>
+    <li>Vývoj:
+      <ul>
+        <li>Pracujte na funkcionalitách postupně</li>
+        <li>Používejte Git pro průběžné ukládání změn:
+          <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add .
+git commit -m "Popis změn"
+</code></pre></div>          </div>
+        </li>
+        <li>Testujte lokálně: <code class="language-plaintext highlighter-rouge">flask run</code></li>
+      </ul>
+    </li>
+    <li>Nasazení na Heroku:
+      <ul>
+        <li>Nainstalujte Heroku CLI: <code class="language-plaintext highlighter-rouge">brew tap heroku/brew &amp;&amp; brew install heroku</code></li>
+        <li>Přihlaste se k Heroku: <code class="language-plaintext highlighter-rouge">heroku login</code></li>
+        <li>Vytvořte Heroku aplikaci: <code class="language-plaintext highlighter-rouge">heroku create nazev-aplikace</code></li>
+        <li>Vytvořte Procfile pro Heroku</li>
+        <li>Nasaďte aplikaci: <code class="language-plaintext highlighter-rouge">git push heroku main</code></li>
+      </ul>
+    </li>
+    <li>Kontinuální vývoj a nasazování:
+      <ul>
+        <li>Pokračujte ve vývoji lokálně</li>
+        <li>Testujte změny</li>
+        <li>Commitujte změny do Gitu</li>
+        <li>Nasazujte na Heroku: <code class="language-plaintext highlighter-rouge">git push heroku main</code></li>
+      </ul>
+    </li>
+    <li>Monitorování a ladění:
+      <ul>
+        <li>Sledujte logy: <code class="language-plaintext highlighter-rouge">heroku logs --tail</code></li>
+        <li>Používejte Heroku dashboard pro monitoring</li>
+      </ul>
+    </li>
+  </ol>
+
+  <p>Doporučuji také:</p>
+  <ul>
+    <li>Používejte <code class="language-plaintext highlighter-rouge">.gitignore</code> soubor pro vyloučení nepotřebných souborů z Gitu</li>
+    <li>Zvažte použití nástrojů pro automatické formátování kódu (např. Black)</li>
+    <li>Implementujte unit testy pro klíčové funkce</li>
+  </ul>
+
+  <p>Chcete, abych vám ukázal, jak začít s tímto workflow vytvořením
+základní struktury projektu?</p>
+</blockquote>
+
+<p>Pokud něčemu nerozumíme, můžeme se AI rovnou zeptat. Třeba:</p>
+
+<blockquote>
+  <p>Jak si na MacOS nainstaluji Git pro správu verzí?​​​​​​​​​​​​​​​​</p>
+</blockquote>
+
+<p>A dostane se mi potřebných detailů.</p>
+
+<p>Po nějaké době, kdy následujeme pokyny AI bychom měli být docela slušně vybaveni. Máme lokální vývojové prostředí, takže aplikaci můžeme vyvíjet a testovat přímo na svém počítači. Máme rozchozený verzovací systém, takže máme dobrou kontrolu nad tím, jak kód vytváříme a můžeme jej ve vhodnou chvíli nasadit “na produkci” - čili poslat na Heroku a tam jej zviditelnit do světa.</p>
+
+<p>Teď už jsme si ujasnili, co chceme a jak budeme postupovat. V tomto okamžiku je důležité “kontextové okno”, tedy fakt, že moderní LLM modely udrží v paměti dluhé texty předchozí konverzace. Díky tomu už můžeme zadat jen jednoduchý prompt k tomu, aby nám AI vygenerovala aplikaci tak, jak jsme si ji navrhli:</p>
+
+<blockquote>
+  <p>Vytvoř mi zdrojový kód aplikace a detailně pro začátečníka popiš, co kde mám nastavit a kam uložit, aby kód při nasazení fungoval.</p>
+</blockquote>
+
+<p>AI nyní popíše strukturu souborů, tedy kam co máte uložit a pak vám vypíše obsahy těch souborů. Teď přichází zdlouhavá klikací chvíle, kdy musíte pomocí Copy&amp;Paste přenést texty (nejlépe přes to nainstalované vývojové prostředí) do vašeho počítače a naukládat je tam, kde máte adresář projektu v GITu. A teď přichází chvíle, kdy si aplikaci můžete otestovat na lokálním počítači. Jenže, jak? Zeptejme se AI:</p>
+
+<blockquote>
+  <p>Jak aplikaci otestuji na mém lokálním počítači používajícím MacOS?</p>
+</blockquote>
+
+<p>Dostanete popis, jak aplikaci otestovat ve svém prostředí a počítači. Velmi snadno se stane, že první spuštění aplikace z nějakého důvodu neproběhne. V tom případě se na konzoli objeví chybová hláška. Tu zkopírujte a promptujte:</p>
+
+<blockquote>
+  <p>Dostal jsem toto chybové hlášení: a copy&amp;paste text chyby či výpis z logu</p>
+</blockquote>
+
+<p>V tomhle je AI dost flexibilní, můžete jí zkopírovat i velmi dlouhý chybový log a ona se zorientuje. Vysvětlí vám, kde došlo k chybě a navrhne úpravu, kterou musíte provést.</p>
+
+<p>Až aplikaci odladíte, nasadíte ji na Heroku a opět vyzkoušíte, i zde může dojít k chybám. Opět chybový log konzultujete s AI.</p>
+
+<p>Asi už vidíte, kde je hlavní problém. Neustálé kopírování zdrojového kódu z odpovědi AI do vývojového prostředí. Naštěstí většina AI vám kód hezky naformátuje a nabídne tlačítko pro jednoduché přenesení textu do clipboardu, ale stejně je to opruz. Bylo by lepší, kdyby AI uměla tento výstup rovnou napojit třeba na Github či do vašeho GITu, ale to zatím nejde, musíte každý soubor jeden po druhém ukládat.</p>
+
+<blockquote>
+  <p>Tipy:</p>
+  <ul>
+    <li>Někdy vám AI doporučí udělat konkrétní opravu v kódu, například jen přepsat kus funkce. Pokud to v kódu zvládnete najít, udělejte to, pokud ne, řekněte jí, ať vám dá celý opravený kód. Jindy zase podlehnete pokušení v kódu něco opravit sami, třeba texty - v takovém případě to AI řekněte, protože až bude příště opravovat kód, o vašich úpravách by nevěděla.</li>
+    <li>Pokud něčemu nerozumíte, nechte si to od AI vysvětlit, zeptejte se.</li>
+  </ul>
+</blockquote>
+
+<p>Jak vidíte, postup není na první pohled zcela vhodný pro vývoj rozsáhlých aplikací.</p>
+
+<p>Jak byste měli postupovat dále s rozvojem vaší aplikace? Zpřesňovat a rozšiřovat zadání. Tak například si můžete přát, aby aplikace doplnila stránku, na níž budou vypsané hashtagy podle četnosti použití. Můžete si přát doplnit vzhled aplikace o Material UI společnosti Google nebo cokoliv jiného. Ale je to krok za krokem. Nechtějte v jednom úkolu změnit jak UI, tak přidat novou stránku. Nejdříve jedno, pak druhé.</p>
+
+<p>V jednu chvíli se vám také může stát, že přesáhnete kontextové okno a AI vám z úlohy vyloučí něco, co jste již dříve měli vyřešené, nebo to vyřeší znova a jinak. Například mi sice vytvoří CSS s definicí stylu, ale úpravy v HTML kódu mi nechá pro staré CSS. Tady se hodí zkušenost s programováním, kdy sami odhalíte podstatu chyby, znovu do AI nahrajete všechny dotčené soubory a necháte jej vše opravit. Takové Claude 3.5 má kontextové okno na cca 200 tisíc tokenů,</p>
+
+<p>Snadno se vám v Claude také může stát, že narazíte na limit dlouhých zadání a budete si muset odpočinout. Limit je v Claude závislý na zátěži a vašem tarifu, obecně mi třech-čtyřech hodinách aktivního “párového programování” dávám pauzičku 😇</p>
+
+<p>Tímto přístupem můžete vytvořit i poměrně rozsáhlé aplikace, nebojte se to vyzkoušet!</p>
+
+<blockquote>
+  <p>Článek <strong>o nástrojích pro programování s AI pro neprogramátory</strong> <a href="/item/programovani-s-ai/">s detailními informacemi najdete zde</a>.</p>
+</blockquote>
+
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
+                <p class="excerpt">
+                  
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee: hardware startup je zatraceně těžký</a>
+                <p class="excerpt">
+                  
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Návod na programování s AI, když programovat neumíte&url=https://www.marigold.cz/item/jak-programovat-s-ai/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/item/jak-programovat-s-ai/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_posts/2024-08-14-jak-programovat-s-ai.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/item/ai-nika-podcasty/">&laquo; Další nika, do které se AI nacpe? Podcasty!</a> |
+      
+      
+      
+        <a class="next" href="/item/zlovule-eu-jednotna-nabijecka-mobilu-usb-c/">Případ eurounijní zvůle v podobě jednotné nabíječky mobilů &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

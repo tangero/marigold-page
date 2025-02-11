@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LTE v nelicencovaném pásmu: Od LTE-U přes LAA k 5G NR-U | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="LTE v nelicencovaném pásmu: Od LTE-U přes LAA k 5G NR-U" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Co konkrétně se v tomto článku dozvíte?" />
+<meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?" />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/laa-5gnr-u/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/laa-5gnr-u/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-25T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="LTE v nelicencovaném pásmu: Od LTE-U přes LAA k 5G NR-U" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-25T00:00:00+00:00","datePublished":"2024-12-25T00:00:00+00:00","description":"Co konkrétně se v tomto článku dozvíte?","headline":"LTE v nelicencovaném pásmu: Od LTE-U přes LAA k 5G NR-U","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/laa-5gnr-u/"},"url":"https://www.marigold.cz/mobilnisite/laa-5gnr-u/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="LTE v nelicencovaném pásmu: Od LTE-U přes LAA k 5G NR-U" />
+    <meta property="twitter:title" content="LTE v nelicencovaném pásmu: Od LTE-U přes LAA k 5G NR-U" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/laa-5gnr-u/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>LTE v nelicencovaném pásmu: Od LTE-U přes LAA k 5G NR-U</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+25.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#základní-principy-a-vývoj" id="markdown-toc-základní-principy-a-vývoj">Základní principy a vývoj</a>    <ul>
+      <li><a href="#lte-u-vs-laa-vs-nr-u" id="markdown-toc-lte-u-vs-laa-vs-nr-u">LTE-U vs LAA vs NR-U</a></li>
+      <li><a href="#technologické-výhody-efektivnější-využití-spektra" id="markdown-toc-technologické-výhody-efektivnější-využití-spektra">Technologické výhody: Efektivnější využití spektra</a></li>
+    </ul>
+  </li>
+  <li><a href="#evoluce-technologií-v-nelicencovaném-spektru" id="markdown-toc-evoluce-technologií-v-nelicencovaném-spektru">Evoluce technologií v nelicencovaném spektru</a>    <ul>
+      <li><a href="#verze-technologie" id="markdown-toc-verze-technologie">Verze technologie</a></li>
+      <li><a href="#klíčové-vlastnosti" id="markdown-toc-klíčové-vlastnosti">Klíčové vlastnosti</a></li>
+      <li><a href="#hlavní-milníky-vývoje" id="markdown-toc-hlavní-milníky-vývoje">Hlavní milníky vývoje</a></li>
+    </ul>
+  </li>
+  <li><a href="#původní-problémy-a-jejich-řešení" id="markdown-toc-původní-problémy-a-jejich-řešení">Původní problémy a jejich řešení</a>    <ul>
+      <li><a href="#1-soužití-s-wifi" id="markdown-toc-1-soužití-s-wifi">1. Soužití s WiFi</a></li>
+      <li><a href="#2-cenová-dostupnost" id="markdown-toc-2-cenová-dostupnost">2. Cenová dostupnost</a></li>
+      <li><a href="#3-změna-poměrů-na-trhu" id="markdown-toc-3-změna-poměrů-na-trhu">3. Změna poměrů na trhu</a></li>
+    </ul>
+  </li>
+  <li><a href="#současný-stav-a-budoucnost" id="markdown-toc-současný-stav-a-budoucnost">Současný stav a budoucnost</a></li>
+  <li><a href="#evoluce-technologie-a-role-klíčových-hráčů" id="markdown-toc-evoluce-technologie-a-role-klíčových-hráčů">Evoluce technologie a role klíčových hráčů</a>    <ul>
+      <li><a href="#počátky-qualcomm-a-první-kroky" id="markdown-toc-počátky-qualcomm-a-první-kroky">Počátky: Qualcomm a první kroky</a></li>
+      <li><a href="#ericsson-a-standardizace-laa" id="markdown-toc-ericsson-a-standardizace-laa">Ericsson a standardizace LAA</a></li>
+      <li><a href="#nokia-a-multefire" id="markdown-toc-nokia-a-multefire">Nokia a MulteFire</a></li>
+      <li><a href="#intel-a-integrace-s-wifi" id="markdown-toc-intel-a-integrace-s-wifi">Intel a integrace s WiFi</a></li>
+      <li><a href="#huawei-a-cesta-k-5g" id="markdown-toc-huawei-a-cesta-k-5g">Huawei a cesta k 5G</a></li>
+      <li><a href="#role-operátorů" id="markdown-toc-role-operátorů">Role operátorů</a></li>
+      <li><a href="#vliv-čipových-výrobců" id="markdown-toc-vliv-čipových-výrobců">Vliv čipových výrobců</a></li>
+      <li><a href="#standardizační-proces" id="markdown-toc-standardizační-proces">Standardizační proces</a></li>
+    </ul>
+  </li>
+  <li><a href="#omezení-a-scénáře-využití-lte5g-v-nelicencovaném-spektru" id="markdown-toc-omezení-a-scénáře-využití-lte5g-v-nelicencovaném-spektru">Omezení a scénáře využití LTE/5G v nelicencovaném spektru</a>    <ul>
+      <li><a href="#fyzikální-a-technická-omezení" id="markdown-toc-fyzikální-a-technická-omezení">Fyzikální a technická omezení</a></li>
+      <li><a href="#typické-scénáře-nasazení" id="markdown-toc-typické-scénáře-nasazení">Typické scénáře nasazení</a>        <ul>
+          <li><a href="#indoor-pokrytí-velkých-budov" id="markdown-toc-indoor-pokrytí-velkých-budov">Indoor pokrytí velkých budov</a></li>
+          <li><a href="#průmyslové-využití" id="markdown-toc-průmyslové-využití">Průmyslové využití</a></li>
+          <li><a href="#rezidenční-a-malé-komerční-instalace" id="markdown-toc-rezidenční-a-malé-komerční-instalace">Rezidenční a malé komerční instalace</a></li>
+        </ul>
+      </li>
+      <li><a href="#proč-ne-venkovní-nasazení" id="markdown-toc-proč-ne-venkovní-nasazení">Proč ne venkovní nasazení?</a></li>
+      <li><a href="#závěr" id="markdown-toc-závěr">Závěr</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>V roce 2016 jsem v <a href="/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu/">článku popsal tehdy se vynořující technologii LTE v nelicencovaném pásmu - tzv. LTE-U</a>. Vize provozu LTE v nelicencovaném pásmu, kterou představil Qualcomm a Ericsson koncem roku 2013, se za poslední desetiletí významně vyvinula. Z původně kontroverzní myšlenky se stala standardní součást moderních bezdrátových sítí. A je tedy na čase informace z článku doplnit o nejnovější vývoj.</p>
+
+<h2 id="základní-principy-a-vývoj">Základní principy a vývoj</h2>
+
+<p>LTE začínalo jako moderní rádiová technologie pro telekomunikační sítě pracující v licencovaném pásmu. V procesu jejího vývoje vzniklo několik variant technologie pro nelicencovaná pásma, která měla využitím nelicencovaných pásem nabídnout lepší konektivitu, zejména vyšší rychlosti a kapacitu v místě.</p>
+
+<h3 id="lte-u-vs-laa-vs-nr-u">LTE-U vs LAA vs NR-U</h3>
+
+<ul>
+  <li><strong>LTE-U (LTE-Unlicensed)</strong> byla původní varianta vyvinutá Qualcommem pro trhy bez požadavku na LBT (Listen Before Talk), především USA a Jižní Korea. Na jiných trzích (zejména EU) bylo požadováno doplnění technologie tak, aby nejdříve sama prozkoumala obsazenost a využívanost nelicencovaného frekvenčního pásma, než začne sama vysílat.</li>
+  <li><strong>LAA (Licensed Assisted Access)</strong> je standardizovaná verze v rámci 3GPP Release 13, která přidala povinnou podporu LBT pro kompatibilitu s regulací v Evropě a Japonsku</li>
+  <li><strong>NR-U (New Radio Unlicensed)</strong> je nejnovější varianta v rámci 5G standardu, která přináší komplexní řešení pro nelicencovaná pásma</li>
+</ul>
+
+<p>LAA se od LTE-U liší především v:</p>
+<ul>
+  <li>Standardizaci v rámci 3GPP</li>
+  <li>Povinné implementaci LBT</li>
+  <li>Lepší koexistenci s WiFi</li>
+  <li>Širší mezinárodní podpoře</li>
+</ul>
+
+<p>Zatímco LTE-U bylo přechodné řešení, LAA se stalo základem pro další vývoj, který vyústil v současné NR-U technologie v 5G sítích.</p>
+
+<p>Myšlenka zprovoznit LTE v nelicencovaném pásmu, především v pětigigaherzovém a nově i šestigigaherzovém pásmu, přinesla řadu možností. Především zjednodušila výstavbu pokrytí v režimu nanocell pro pokrytí budov. Zatímco původně se používaly nanocelly pracující výhradně v licencovaném pásmu, které směl dodávat jen provozovatel mobilní sítě, dnes je situace flexibilnější.</p>
+
+<p>Zákazníci dříve ve firmách používali připojení přes WiFi, které neumožňovalo přenos služeb operátora. To vedlo k přesunu na služby třetích stran jako iMessage, WhatsApp a další. LTE-U a později NR-U měly pomoci tento trend zvrátit, což se částečně podařilo díky lepší integraci služeb.</p>
+
+<h3 id="technologické-výhody-efektivnější-využití-spektra">Technologické výhody: Efektivnější využití spektra</h3>
+
+<p>NR-U si zachovává původní výhody LTE-U a dále je rozvíjí. Oproti WiFi nabízí:</p>
+
+<ul>
+  <li>Vyšší efektivitu při větším počtu připojených zařízení</li>
+  <li>Lepší řízení přístupu a koordinaci</li>
+  <li>Pokročilou agregaci pásem</li>
+  <li>Sofistikovanější MIMO implementaci</li>
+</ul>
+
+<p>Značnou výhodou zůstává schopnost přenášet data na více rádiových frekvencích. Moderní implementace NR-U využívají jak režim SDL (Supplemental Down Link), tak plnohodnotné standalone řešení. Technologie MuLTEfire se vyvinula v soukromé 5G sítě, které dnes hrají významnou roli v průmyslovém internetu věcí.</p>
+
+<p><img src="/assets/carrier-aggregation-modern.png" alt="Porovnání metod v licencovaném a nelicencovaném pásmu" /></p>
+
+<h2 id="evoluce-technologií-v-nelicencovaném-spektru">Evoluce technologií v nelicencovaném spektru</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Vlastnost</th>
+      <th>LAA (4G LTE)</th>
+      <th>eLAA (4G LTE)</th>
+      <th>feLAA (4G LTE)</th>
+      <th>NR-U (5G NR)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3GPP Release</td>
+      <td>Rel-13</td>
+      <td>Rel-14</td>
+      <td>Rel-15</td>
+      <td>Rel-16</td>
+    </tr>
+    <tr>
+      <td>License-exempt Downlink (DL)</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>License-exempt scheduled Uplink (UL)</td>
+      <td>❌</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>License-exempt autonomous UL</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Standalone license-exempt operation</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="verze-technologie">Verze technologie</h3>
+<ul>
+  <li><strong>LAA (Licensed Assisted Access)</strong>: První standardizovaná verze pro 4G LTE v Release 13, <a href="/item/laa_release_13/">popisuji zde</a></li>
+  <li><strong>eLAA (enhanced LAA)</strong>: Vylepšená verze přidávající plánovaný uplink v Release 14</li>
+  <li><strong>feLAA (further enhanced LAA)</strong>: Další vylepšení s autonomním uplinkem v Release 15</li>
+  <li><strong>NR-U (New Radio Unlicensed)</strong>: Plnohodnotná 5G verze s možností samostatného provozu v Release 16</li>
+</ul>
+
+<h3 id="klíčové-vlastnosti">Klíčové vlastnosti</h3>
+<ul>
+  <li><strong>License-exempt Downlink (DL)</strong>: Přenos dat směrem k uživateli v nelicencovaném pásmu</li>
+  <li><strong>License-exempt scheduled Uplink (UL)</strong>: Plánovaný přenos dat od uživatele, řízený základnovou stanicí</li>
+  <li><strong>License-exempt autonomous UL</strong>: Samostatný přenos dat od uživatele bez přímého řízení základnovou stanicí</li>
+  <li><strong>Standalone license-exempt operation</strong>: Možnost provozu pouze v nelicencovaném pásmu bez potřeby kotvící frekvence</li>
+</ul>
+
+<h3 id="hlavní-milníky-vývoje">Hlavní milníky vývoje</h3>
+<ol>
+  <li><strong>LAA</strong> zavedla základní využití nelicencovaného pásma pro downlink</li>
+  <li><strong>eLAA</strong> přidala možnost plánovaného uplinku</li>
+  <li><strong>feLAA</strong> umožnila autonomní uplink</li>
+  <li><strong>NR-U</strong> přinesla plně samostatný provoz v nelicencovaném pásmu
+    <ul>
+      <li>Každá nová verze zachovává všechny funkce předchozí verze a přidává nové</li>
+      <li>NR-U představuje významný skok díky možnosti samostatného provozu</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="původní-problémy-a-jejich-řešení">Původní problémy a jejich řešení</h2>
+
+<h3 id="1-soužití-s-wifi">1. Soužití s WiFi</h3>
+
+<p>Původní obavy Googlu a Apple o rušení WiFi sítí se ukázaly jako částečně oprávněné, ale řešitelné. Současné implementace používají sofistikovanější verzi LBT (Listen Before Talk:</p>
+
+<ul>
+  <li>Pokročilé algoritmy LBT (Listen Before Talk)</li>
+  <li>Dynamickou regulaci výkonu</li>
+  <li>Inteligentní výběr kanálů</li>
+  <li>Koordinaci s WiFi 6E</li>
+</ul>
+
+<p>Původní problém s rozdílným kanálovým krokem (100 kHz pro LTE vs. 20 MHz pro WiFi) byl vyřešen sofistikovanějším přístupem k správě spektra a lepší koordinací mezi systémy.</p>
+
+<h3 id="2-cenová-dostupnost">2. Cenová dostupnost</h3>
+
+<p>Původní obavy z vysokých nákladů se ukázaly jako přehnané. Zatímco v roce 2016 se odhadovalo navýšení ceny o dvacet dolarů na zařízení, realita je díky přirozenémý vývoji podstatně lepší. K čemu došlo? Tak především se čipsety vyrábějí masově a integrují se s 5G modemy. Díky vysoké konkurenci na trhu došlo navýšení ceny spíše o jednotky, než o desítky dolarů.</p>
+
+<h3 id="3-změna-poměrů-na-trhu">3. Změna poměrů na trhu</h3>
+
+<p>Trh se vyvinul jiným směrem, než se předpokládalo. Místo souboje mezi modelem “střežené zahrádky” operátorů a “volného lesa” internetových firem došlo k:</p>
+
+<ul>
+  <li>Integraci služeb</li>
+  <li>Vzniku hybridních řešení</li>
+  <li>Většímu důrazu na kvalitu služeb</li>
+  <li>Rozšíření eSIM a multi-SIM řešení</li>
+</ul>
+
+<p>Velká část operátorů se snaží profitovat z poskytování služeb internetových firem, svůj vlastní obsah spíše nenabízí - výjimkou je přebalený obsah jiných poskytovatelů.</p>
+
+<h2 id="současný-stav-a-budoucnost">Současný stav a budoucnost</h2>
+
+<p>Technologie našla své místo především v:</p>
+
+<ul>
+  <li>Soukromých 5G sítích pro průmysl</li>
+  <li>Smart City projektech</li>
+  <li>Alternativním pevném připojení (FWA)</li>
+  <li>Hybridních řešeních kombinujících různé přístupové metody</li>
+</ul>
+
+<p>Je velmi pravděpodobné, že trend integrace různých bezdrátových technologií bude pokračovat. Budoucnost směřuje k:</p>
+
+<ul>
+  <li>Automatickému přepínání mezi spektry</li>
+  <li>Využití AI pro optimalizaci</li>
+  <li>Implementaci pokročilých QoS mechanismů</li>
+  <li>Rozšíření do nových frekvenčních pásem</li>
+</ul>
+
+<h2 id="evoluce-technologie-a-role-klíčových-hráčů">Evoluce technologie a role klíčových hráčů</h2>
+
+<p>Vývoj technologií pro nelicencované spektrum je příběhem složité souhry mezi výrobci čipů, síťovými dodavateli a operátory, kde každý sledoval vlastní strategické cíle, ale společně formovali budoucnost bezdrátové komunikace. Přitom ale trvalo mnoho let, než se technologie standardizovala a ani po deseti letech není běžnou technologií.</p>
+
+<h3 id="počátky-qualcomm-a-první-kroky">Počátky: Qualcomm a první kroky</h3>
+
+<p>Příběh začíná u Qualcommu, který jako první přišel s myšlenkou využití LTE v nelicencovaném spektru. Pro Qualcomm to bylo logické pokračování jejich strategie - jako dominantní výrobce mobilních čipů hledali způsoby, jak rozšířit využití LTE technologie, ve které měli významný technologický náskok a rozsáhlé patentové portfolio. Jejich prvotní návrh LTE-U byl navržen specificky pro americký trh, kde regulace nevyžadovala mechanismus Listen Before Talk (LBT). To jim umožnilo rychlejší uvedení technologie, ale zároveň to omezilo její globální využitelnost.</p>
+
+<h3 id="ericsson-a-standardizace-laa">Ericsson a standardizace LAA</h3>
+
+<p>Zde vstupuje do příběhu Ericsson, který rozpoznal potenciál technologie, ale také její omezení pro evropský trh. Ericsson, jako významný dodavatel síťové infrastruktury, potřeboval řešení, které bude fungovat globálně. Proto inicioval vývoj LAA (Licensed Assisted Access) v rámci 3GPP, které zahrnovalo povinný LBT mechanismus. Toto rozhodnutí bylo klíčové - znamenalo sice pomalejší vývoj, ale zajistilo globální kompatibilitu.</p>
+
+<h3 id="nokia-a-multefire">Nokia a MulteFire</h3>
+
+<p>Nokia se vydala zajímavou cestou - ve spolupráci s Qualcommem vyvinula MulteFire, který představoval radikálnější přístup. MulteFire umožňoval provoz LTE plně v nelicencovaném spektru, bez potřeby kotvy v licencovaném pásmu. Bylo to odvážné rozhodnutí motivované především potřebami průmyslových zákazníků, kteří chtěli budovat vlastní privátní sítě nezávisle na operátorech. Tento přístup se později ukázal jako předchůdce privátních 5G sítí.</p>
+
+<h3 id="intel-a-integrace-s-wifi">Intel a integrace s WiFi</h3>
+
+<p>Intel přistoupil k problematice z jiného úhlu. Jako dominantní hráč ve světě WiFi se soustředil na vývoj řešení, která by umožnila efektivní koexistenci LTE-U/LAA s WiFi. Jejich přístup byl motivován snahou ochránit investice do WiFi infrastruktury a zároveň využít nové příležitosti. Intel významně přispěl k vývoji mechanismů pro sdílení spektra a později i k integraci WiFi a 5G technologií.</p>
+
+<h3 id="huawei-a-cesta-k-5g">Huawei a cesta k 5G</h3>
+
+<p>Huawei vstoupil do vývoje později, ale přinesl významné inovace především v oblasti spektrální efektivity a koexistence s WiFi 6. Jejich přístup byl od počátku zaměřen na budoucí integraci s 5G, což se ukázalo jako prozíravé. Huawei významně přispěl k vývoji NR-U v rámci 5G standardu.</p>
+
+<h3 id="role-operátorů">Role operátorů</h3>
+
+<p>Operátoři hráli v celém vývoji klíčovou roli tím, že poskytovali reálné testovací prostředí a zpětnou vazbu z praxe:</p>
+
+<ul>
+  <li>Verizon byl průkopníkem v nasazení LTE-U, což odpovídalo specifické situaci na americkém trhu</li>
+  <li>T-Mobile se zaměřil na LAA jako řešení pro zvýšení kapacity v hustě osídlených oblastech</li>
+  <li>Deutsche Telekom přinesl evropský pohled a důraz na standardizaci</li>
+</ul>
+
+<h3 id="vliv-čipových-výrobců">Vliv čipových výrobců</h3>
+
+<p>Broadcom a MediaTek sehráli důležitou roli v demokratizaci technologie. Zatímco Qualcomm cílil především na high-end segment, MediaTek se zaměřil na střední třídu zařízení, což pomohlo rozšířit technologii do širšího spektra zařízení. Broadcom přispěl především v oblasti optimalizace spotřeby energie a koexistence s WiFi.</p>
+
+<h3 id="standardizační-proces">Standardizační proces</h3>
+
+<p>Celý vývoj byl koordinován v rámci 3GPP, kde se jednotlivé příspěvky firem postupně integrovaly do ucelených standardů:</p>
+
+<ul>
+  <li>Release 13 (2016) přinesl základní standardizaci LAA</li>
+  <li>Release 14 (2017) přidal vylepšení v podobě eLAA</li>
+  <li>Release 15/16 (2018-2020) již plně integroval technologii do 5G standardu jako NR-U</li>
+</ul>
+
+<p>Tato evoluce ukazuje, jak různé přístupy a strategie jednotlivých firem nakonec vedly k vytvoření robustního ekosystému technologií pro nelicencované spektrum, který dnes tvoří důležitou součást 5G sítí.</p>
+
+<h1 id="omezení-a-scénáře-využití-lte5g-v-nelicencovaném-spektru">Omezení a scénáře využití LTE/5G v nelicencovaném spektru</h1>
+
+<p>Technologie LTE a 5G v nelicencovaném spektru představují zajímavý kompromis mezi výkonem, dosahem a náklady na nasazení. Jejich využití je však limitováno řadou faktorů, které určují, kde a jak je možné tyto technologie efektivně nasadit.</p>
+
+<h2 id="fyzikální-a-technická-omezení">Fyzikální a technická omezení</h2>
+
+<p>Základním omezujícím faktorem je samotná fyzika šíření rádiových vln ve vyšších frekvenčních pásmech. Technologie LAA, respektive NR-U, operují primárně v 5 GHz a 6 GHz pásmech, což přináší specifické výzvy. Rádiové vlny těchto frekvencí mají výrazně horší prostupnost pevnými překážkami a jejich útlum ve vzduchu je vyšší než u nižších frekvencí používaných v klasických mobilních sítích.</p>
+
+<p>V praxi to znamená, že signál má problém prostupovat zdmi a stropy budov. Zatímco běžný LTE signál na 800 MHz relativně dobře prochází i železobetonovými konstrukcemi, signál v 5 GHz pásmu je každou такovou překážkou výrazně utlumen. To v indoor prostředí vytváří nutnost instalovat více přístupových bodů pro pokrytí stejného prostoru.</p>
+
+<p>Další významné omezení představují regulační požadavky na vysílací výkon v nelicencovaném pásmu. Na rozdíl od licencovaného spektra, kde mohou operátoři využívat výkony v řádu desítek wattů, je v nelicencovaném pásmu typicky limit kolem 1 wattu (30 dBm) EIRP. Tento limit je navíc často ještě snížen požadavkem na dynamickou regulaci výkonu kvůli koexistenci s ostatními uživateli spektra, především s WiFi sítěmi.</p>
+
+<h2 id="typické-scénáře-nasazení">Typické scénáře nasazení</h2>
+
+<p>Vzhledem k těmto omezením se vyvinulo několik typických scénářů, kde tyto technologie nacházejí své uplatnění:</p>
+
+<h3 id="indoor-pokrytí-velkých-budov">Indoor pokrytí velkých budov</h3>
+
+<p>Nejčastějším využitím jsou vnitřní prostory velkých budov jako kancelářské komplexy, nákupní centra nebo výrobní haly. Zde technologie nabízí několik výhod:</p>
+<ul>
+  <li>Kontrolované prostředí s předvídatelným šířením signálu</li>
+  <li>Možnost přesného plánování pokrytí</li>
+  <li>Nižší interference z vnějšího prostředí</li>
+  <li>Synergické efekty s existující IT infrastrukturou</li>
+</ul>
+
+<p>V těchto prostorech se často instalují small cells jako součást heterogenní sítě, kde spolupracují s makro vrstvou v licencovaném spektru. Typická vzdálenost mezi small cells je 20-50 metrů, v závislosti na konstrukci budovy a požadavcích na kapacitu.</p>
+
+<h3 id="průmyslové-využití">Průmyslové využití</h3>
+
+<p>Specifickou kategorií jsou průmyslové aplikace, především v kontextu Průmyslu 4.0. Zde se uplatňují privátní sítě, které kombinují:</p>
+<ul>
+  <li>Vysokou spolehlivost díky dedikované infrastruktuře</li>
+  <li>Nízkou latenci pro řízení strojů a robotů</li>
+  <li>Garantovanou kvalitu služeb</li>
+  <li>Nezávislost na veřejných sítích</li>
+</ul>
+
+<p>Typickými příklady jsou automatizované sklady, výrobní linky nebo testovací provozy automobilek. V těchto prostředích je klíčová předvídatelnost výkonu sítě a možnost její přesné optimalizace pro konkrétní use-case.</p>
+
+<h3 id="rezidenční-a-malé-komerční-instalace">Rezidenční a malé komerční instalace</h3>
+
+<p>V menším měřítku nachází technologie uplatnění i v rezidenčním sektoru a malých komerčních prostorech. Zde se často využívá jako:</p>
+<ul>
+  <li>Doplněk k existujícímu WiFi pokrytí</li>
+  <li>Řešení pro Fixed Wireless Access</li>
+  <li>Způsob zlepšení indoor pokrytí v problematických lokalitách</li>
+</ul>
+
+<p>Tyto instalace většinou využívají menší a cenově dostupnější zařízení, často integrovaná s WiFi přístupovými body.</p>
+
+<h2 id="proč-ne-venkovní-nasazení">Proč ne venkovní nasazení?</h2>
+
+<p>Venkovní nasazení těchto technologií naráží na několik zásadních problémů:</p>
+
+<ol>
+  <li><strong>Ekonomická neefektivita</strong>
+    <ul>
+      <li>Nutnost velmi husté sítě přístupových bodů</li>
+      <li>Vysoké náklady na infrastrukturu</li>
+      <li>Složitá koordinace s ostatními systémy</li>
+    </ul>
+  </li>
+  <li><strong>Technická omezení</strong>
+    <ul>
+      <li>Výrazný vliv počasí na kvalitu signálu</li>
+      <li>Problémy s interferencí v otevřeném prostoru</li>
+      <li>Omezený dosah vyžadující příliš mnoho základnových stanic</li>
+    </ul>
+  </li>
+  <li><strong>Regulační aspekty</strong>
+    <ul>
+      <li>Různá omezení v různých zemích</li>
+      <li>Složitá koordinace využití spektra</li>
+      <li>Nutnost respektovat lokální předpisy pro venkovní instalace</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Pro venkovní pokrytí proto zůstávají primárním řešením klasické makro buňky v licencovaném spektru, případně doplněné o dedikované outdoor small cells také v licencovaném pásmu. Technologie v nelicencovaném spektru zde hrají pouze doplňkovou roli, například pro zvýšení kapacity v místech s vysokou koncentrací uživatelů.</p>
+
+<h2 id="závěr">Závěr</h2>
+
+<p>Vývoj od LTE-U k NR-U ukázal, že původní obavy byly částečně oprávněné, ale řešitelné. Technologie se etablovala jinak, než se původně předpokládalo - místo konkurence mezi operátory a internetovými společnostmi došlo k větší spolupráci a integraci služeb. Budoucnost bezdrátové konektivity směřuje k hybridním řešením, kde různé technologie koexistují podle konkrétních potřeb uživatelů a aplikací.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií: případ Big Data, Baracka Obamy a&nbsp;Obamacare</a>
+                <p class="excerpt">
+                  
+                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z&nbsp;nových odvětví na příkladu vzniku standardu GSM</a>
+                <p class="excerpt">
+                  
+                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=LTE v nelicencovaném pásmu: Od LTE-U přes LAA k 5G NR-U&url=https://www.marigold.cz/mobilnisite/laa-5gnr-u/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/laa-5gnr-u/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2024-12-25-laa-5gnr-u.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/hetnet/">&laquo; Heterogeneous Networks (HetNets)</a> |
+      
+      
+      
+        <a class="next" href="/mobilnisite/lte-technologie/">LTE a LTE-Advanced technologie &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

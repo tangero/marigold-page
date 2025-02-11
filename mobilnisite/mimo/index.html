@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MIMO - Multiple In Multiple Out | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="MIMO - Multiple In Multiple Out" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie MIMO – Vícecestného vstupu a výstupu signálu (Multiple In – Multiple Out) - byla zavedena s cílem zvýšit kapacitu a kvalitu bezdrátových sítí. Technologie je známa delší dobu, dnes se s ní běžně setkáváme ve WiFi sítích – zařízení, která mají více antén. Základní úvaha je jednoduchá: pokud může zařízení vysílat z více antén a na více anténách signál přijímat, bude možné si vybrat lepší kvalitu signálu, případně se snažit o rekonstrukci dat. Je to možné díky vícecestnému odrazu, kdy do antény přijímače dorazí nejenom původní signál, ale i jeho odrazy od překážek, které jsou časově zpomaleny a fakticky se projevují jako šum. Do toho přidejme jinou komunikaci sousedních zařízení (plus jejich odrazy) a je jasné, že nějaká snaha šum odfiltrovat bude prospěšná. Což je to, o co se MIMO účinně snaží." />
+<meta property="og:description" content="Technologie MIMO – Vícecestného vstupu a výstupu signálu (Multiple In – Multiple Out) - byla zavedena s cílem zvýšit kapacitu a kvalitu bezdrátových sítí. Technologie je známa delší dobu, dnes se s ní běžně setkáváme ve WiFi sítích – zařízení, která mají více antén. Základní úvaha je jednoduchá: pokud může zařízení vysílat z více antén a na více anténách signál přijímat, bude možné si vybrat lepší kvalitu signálu, případně se snažit o rekonstrukci dat. Je to možné díky vícecestnému odrazu, kdy do antény přijímače dorazí nejenom původní signál, ale i jeho odrazy od překážek, které jsou časově zpomaleny a fakticky se projevují jako šum. Do toho přidejme jinou komunikaci sousedních zařízení (plus jejich odrazy) a je jasné, že nějaká snaha šum odfiltrovat bude prospěšná. Což je to, o co se MIMO účinně snaží." />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/mimo/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/mimo/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-25T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="MIMO - Multiple In Multiple Out" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-25T00:00:00+00:00","datePublished":"2024-12-25T00:00:00+00:00","description":"Technologie MIMO – Vícecestného vstupu a výstupu signálu (Multiple In – Multiple Out) - byla zavedena s cílem zvýšit kapacitu a kvalitu bezdrátových sítí. Technologie je známa delší dobu, dnes se s ní běžně setkáváme ve WiFi sítích – zařízení, která mají více antén. Základní úvaha je jednoduchá: pokud může zařízení vysílat z více antén a na více anténách signál přijímat, bude možné si vybrat lepší kvalitu signálu, případně se snažit o rekonstrukci dat. Je to možné díky vícecestnému odrazu, kdy do antény přijímače dorazí nejenom původní signál, ale i jeho odrazy od překážek, které jsou časově zpomaleny a fakticky se projevují jako šum. Do toho přidejme jinou komunikaci sousedních zařízení (plus jejich odrazy) a je jasné, že nějaká snaha šum odfiltrovat bude prospěšná. Což je to, o co se MIMO účinně snaží.","headline":"MIMO - Multiple In Multiple Out","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/mimo/"},"url":"https://www.marigold.cz/mobilnisite/mimo/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie MIMO – Vícecestného vstupu a výstupu signálu (Multiple In – Multiple Out) - byla zavedena s cílem zvýšit kapacitu a kvalitu bezdrátových sítí. Technologie je známa delší dobu, dnes se s ní běžně setkáváme ve WiFi sítích – zařízení, která mají více antén. Základní úvaha je jednoduchá: pokud může zařízení vysílat z více antén a na více anténách signál přijímat, bude možné si vybrat lepší kvalitu signálu, případně se snažit o rekonstrukci dat. Je to možné díky vícecestnému odrazu, kdy do antény přijímače dorazí nejenom původní signál, ale i jeho odrazy od překážek, které jsou časově zpomaleny a fakticky se projevují jako šum. Do toho přidejme jinou komunikaci sousedních zařízení (plus jejich odrazy) a je jasné, že nějaká snaha šum odfiltrovat bude prospěšná. Což je to, o co se MIMO účinně snaží.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="MIMO - Multiple In Multiple Out" />
+    <meta property="twitter:title" content="MIMO - Multiple In Multiple Out" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/mimo/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>MIMO - Multiple In Multiple Out</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+25.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#LTE">LTE</a>
+        &nbsp;
+      
+        <a href="//rubrika/#LTE-Advanced">LTE-Advanced</a>
+        &nbsp;
+      
+        <a href="//rubrika/#4G">4G</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Technologie MIMO – Vícecestného vstupu a výstupu signálu (Multiple In – Multiple Out) - byla zavedena s cílem zvýšit kapacitu a kvalitu bezdrátových sítí. Technologie je známa delší dobu, dnes se s ní běžně setkáváme ve WiFi sítích – zařízení, která mají více antén. Základní úvaha je jednoduchá: pokud může zařízení vysílat z více antén a na více anténách signál přijímat, bude možné si vybrat lepší kvalitu signálu, případně se snažit o rekonstrukci dat. Je to možné díky vícecestnému odrazu, kdy do antény přijímače dorazí nejenom původní signál, ale i jeho odrazy od překážek, které jsou časově zpomaleny a fakticky se projevují jako šum. Do toho přidejme jinou komunikaci sousedních zařízení (plus jejich odrazy) a je jasné, že nějaká snaha šum odfiltrovat bude prospěšná. Což je to, o co se MIMO účinně snaží.</p>
+
+<p>Jen pro pořádek připomenu, že integraci MIMO do uživatelského terminálu (aka mobilky aka UE) nemusíte na první pohled poznat, nejsou to dvě antény trčící z mobilu, ale spíše dvě integrované antény na opačných koncích telefonu nebo dokonce jedna rozdělená na dvě poloviny, jelikož s ohledem na vlnovou délku už těch pár centimetrů udělá své. Na základnové stanici se používá koncept dvou vertikálně polarizovaných antén vzdálených minimálně 10 lambda (cca 1,4 m) nebo jedna anténa s polarizační diverzitou posunutou o 45 stupňů.</p>
+
+<p>Proces vícecestného šíření signálu lze znázornit pomocí následujícího schématu:</p>
+
+<pre><code class="language-mermaid">graph TD
+A[Zdroj signálu] --&gt;|Přímá cesta| B[Anténa přijímače]
+A --&gt;|Odražená cesta 1| C[Budova] --&gt; B
+A --&gt;|Odražená cesta 2| D[Strom] --&gt; B
+A --&gt;|Odražená cesta 3| E[Terén] --&gt; B
+</code></pre>
+
+<p>Tímto způsobem technologie MIMO využívá tyto údalosti pro prostorové multiplexování a zlepšení kvality přenosu dat. dříve představovalo šum, a proměnit ho v užitečné datové proudy.</p>
+
+<h3 id="mimo-v-release-7-základní-koncepty">MIMO v Release 7: Základní koncepty</h3>
+
+<p>První implementace MIMO v mobilních sítích byla součástí HSPA+ Release 7. Zahrnovala konfiguraci 2x2 MIMO, tedy dvě antény na základnové stanici a dvě na uživatelském zařízení (UE). Technologie D-TxAA (Double Transmit Antenna Array) umožnila přenos dvou nezávislých datových proudů, což vedlo k teoretické přenosové rychlosti až 28 Mb/s v downlinku. MIMO bylo omezeno na downlink a neaplikovalo se na uplink.</p>
+
+<h3 id="lte-release-8-rozšíření-mimo">LTE Release 8: Rozšíření MIMO</h3>
+
+<p>LTE Release 8 přineslo širší využití MIMO, včetně podpory 64QAM (Quadrature Amplitude Modulation) spolu s 2x2 MIMO. Tento release zavedl pokročilé metody zpracování signálu, včetně precodingu a zpětné vazby od uživatelských zařízení pomocí PCI (Precoding Control Information) a CQI (Channel Quality Indicator).</p>
+
+<h3 id="lte-release-912-vyšší-kapacita-a-beamforming">LTE Release 9–12: Vyšší kapacita a beamforming</h3>
+
+<h3 id="beamforming-směrování-signálu-pro-vyšší-efektivitu">Beamforming: Směrování signálu pro vyšší efektivitu</h3>
+
+<p>Beamforming, nebo-li <strong>vícenásobné směrování signálu</strong>, je technologie využívaná k efektivnímu směrování signálu pomocí anténní matice. Umožňuje zesílit signál ve směru požadovaného uživatele a minimalizovat interferenci v jiných směrech. Beamforming existuje ve dvou hlavních formách – analogový a digitální.</p>
+
+<p><strong>Analogový beamforming</strong> směruje signál na úveru analogového zpracování, kdy je upravován fázový posun a amplituda signálů před jejich zesílením. Tento přístup je jednodušší na implementaci a energeticky účinnější, ale omezuje možnost obsluhy více uživatelů současně. V raných fázích LTE (Release 9) byl používán pro směrování signálu na okraje buněk.</p>
+
+<p><strong>Digitální beamforming</strong> zpracovává signály na úveru digitálních procesorů (DSP), což umožňuje vícenásobné směrování signálů a jejich optimalizaci pro každého uživatele zvlášť. Tento přístup je vysoce flexibilní a podporuje obsluhu více uživatelů, ale je náročnější na hardware a spotřebu energie. Poprvé byl zaveden v LTE-Advanced (Release 10) a stál se základem pro moderní sítě 5G (Release 15 a vyšší).</p>
+
+<p>Postupný vývoj beamformingu v rámci LTE a 5G zahrnuje:</p>
+
+<ul>
+  <li><strong>Release 9</strong>: Zavedení kombinace beamformingu a MIMO, které zlepšilo signálovou kvalitu na okrajích buněk. Používal se především analogový beamforming.</li>
+  <li><strong>Release 10 (LTE-Advanced)</strong>: Podpora digitálního beamformingu, který umožnil vícenásobné směrování signálu a jeho přizpůsobení každému uživateli. Konkrétně jde o podporu  konfigurací až 4x4 MIMO v downlinku a 2x2 MIMO v uplinku.</li>
+  <li><strong>Release 11–12:</strong> Pokrok ve využití koordinovaného MIMO (CoMP - Coordinated Multipoint) a zlepšení zpracování interferencí.</li>
+  <li><strong>Release 13 (LTE-Advanced Pro)</strong>: Hybridní beamforming kombinoval analogové a digitální metody pro vyšší flexibilitu.</li>
+  <li><strong>Release 15 a vyšší (5G)</strong>: Zavedení pokročilého digitálního beamformingu ve spojitosti s masivním MIMO a podporou vysokých frekvenčních pásem (např. mmWave).</li>
+</ul>
+
+<h3 id="lte-advanced-pro-a-5g-release-1316">LTE-Advanced Pro a 5G (Release 13–16)</h3>
+
+<p>S příchodem LTE-Advanced Pro (Release 13) a 5G (Release 15 a dále) technologie MIMO dosáhla nových výšin:</p>
+
+<ul>
+  <li><strong>Massive MIMO</strong>: Nasazení masivního MIMO umožnilo konfigurace s desítkami až stovkami antén, přinášející zlepšení hustoty a výkonu sítě.</li>
+  <li><strong>Beamforming</strong>: Zavedení digitálního beamformingu umožnilo přesnější směrování signálu.</li>
+  <li><strong>Full-Dimension MIMO (FD-MIMO)</strong>: Rozšíření MIMO na všechny směry, včetně vertikálního paprsku.</li>
+</ul>
+
+<h3 id="současný-vývoj-a-release-1719">Současný vývoj a Release 17–19</h3>
+
+<p>Moderní standardy 5G, jako Release 17 a Release 18, integrují umělou inteligenci pro optimalizaci MIMO systémů. Tyto technologie zahrnují:</p>
+
+<ul>
+  <li><strong>Algoritmy řízení spektra</strong>: Automatizace výběru beamů a dynamického přizpůsobení kanálů.</li>
+  <li><strong>Kooperativní MIMO</strong>: Sdílení informací mezi základnovými stanicemi pro vyšší efektivitu.</li>
+</ul>
+
+<h3 id="role-společností-ve-vývoji">Role společností ve vývoji</h3>
+
+<ul>
+  <li><strong>Huawei a ZTE</strong>: Přispěly k vývoji FD-MIMO a pokročilých beamformingových algoritmů.</li>
+  <li><strong>Qualcomm</strong>: Zajistil průlomové technologie precodingu a koordinovaného MIMO.</li>
+  <li><strong>Ericsson a Nokia</strong>: Podílely se na masivním MIMO a integraci sítě s nízkou latencí.</li>
+</ul>
+
+<h3 id="budoucí-směřování">Budoucí směřování</h3>
+
+<p>Další vývoj zahrnuje integraci MIMO s novými frekvenčními pásmy (např. mmWave) a využití integrovaného smyslového a komunikačního systému v rámci 6G.</p>
+
+<hr />
+
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
+                <p class="excerpt">
+                  
+                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan
+</a>
+                <p class="excerpt">
+                  
+                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=MIMO - Multiple In Multiple Out&url=https://www.marigold.cz/mobilnisite/mimo/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/mimo/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2024-12-25-mimo.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/lte-technologie/">&laquo; LTE a LTE-Advanced technologie</a> |
+      
+      
+      
+        <a class="next" href="/mobilnisite/LTE-Broadcast-eMBMS/">LTE Broadcast čili eMBMS pro efektivní distribuci multimediálního obsahu &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

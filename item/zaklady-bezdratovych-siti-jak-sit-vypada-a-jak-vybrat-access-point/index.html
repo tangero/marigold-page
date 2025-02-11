@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Základy bezdrátových sítí: jak síť vypadá a&nbsp;jak vybrat Access Point? | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Základy bezdrátových sítí: jak síť vypadá a jak vybrat Access Point?" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="cs" />
+<meta name="description" content="Náš malý úvodní seriál o bezdrátových sítích pokračuje. Tentokráte se dozvíte o dvou základních typech bezdrátových sítích, infrastrukturní a ad-hoc síti. A navíc se podíváme na to, co má access point umět.Tento článek by měl navazovat na teoretické základy o standardu IEEE802.11b, o kterých jsme se dozvěděli minule a i tyto základy lze vztáhnout i na další odvozené standardy, jako je IEEE802.11a nebo 802.11g. Před tím, než začnete stavět bezdrátovou síť, je třeba si udělat jasno v tom, jaká bude její základní struktura, tedy jak vlastně chcete mezi sebou propojovat počítače. Sítě Ad-hoc Pokud počítačů máte málo, bude asi nejjednodušší metodou spojit tyto počítače mezi sebou sítí na bázi peer-to-peer, kdy všechny počítače jsou si rovnocené. Tak se to běžně dělá v případě kabelových sítí, u sítí bezdrátových je obdobou peer-to-peer propojení nazývána ad-hoc &#8211; tedy síť sestavovaná podle potřeby. Ad-hoc sítě umožňují rychlou, jednoduchou a cenově příznivou výstavbu, mají ale také své stinné stránky. Tou je především fakt, že sítě ad-hoc vyžadují, aby všechny počítače, které spolu mají komunikovat, byly ve vzájemném dosahu, tedy každý musí být v radiovém dosahu s každým počítačem. To nevadí u malého bytu, ale u větších prostorů to často není možné. Sítě ad-hoc se tedy považují za opravdu sítě sestavené jednoduše a rychle v případě potřeby, když například potřebujete data přenést z jednoho notebooku na druhý, pro praktické a trvalé síťování se téměř nepoužívají. Už v okamžiku, kdy dva počítače mají sdílet připojení na internet a chceme, aby oba počítače byly na sobě nezávislé při připojování na internet, bude lepší takovou síť vytvořit pomoci wifi home routeru, zařízení integrujícího access point a &#8222;sdíleč internetu&#8220; &#8211; tedy směrovač dat z vnitřní &#8222;sítě&#8220; do internetu. Díky všem těmto omezením a hlavně díky jednoduchosti ad-hoc sítí je již nadále nebudeme uvažovat. Poslední poznámkou k nim budiž fakt, že schopnost práce v ad-hoc sítích musí být na většině zařízení aktivována v menu a protože se zařízení většinou připojují do sítí infrastrukturních a karta musí být zapnuta jen v jednom režimu, výrobci většinou nastavují infrastrukturní režim. Infrastrukturní sítě Protipólem sítí ad-hoc jsou sítě infrastrukturní, tedy sítě vybavené speciálním komunikačním prvkem zvaným access point, zkráceně AP, nebo česky APčko. Díky tomu si jednotlivé počítače nemusí povídat přímo mezi sebou, ale komunikují s AP a ten předává jejich komunikaci dále. Každé stanici tedy stačí, aby měla ve svém dosahu alespoň jeden access point.&#160; Následující obrázek znázorňuje již složitější síť, kde jak vidíte &quot;páteř&quot; tvoří pevně vedený ethernet, ten propojuje jednotlivé access pointy a teprve z nich se šíří signál WiFi sítě k notebookům. Aby to bylo veselejší, do této sítě bychom mohli zahrnout roaming, tedy možnost plynulého přechodu&#160;z jednoho access pointu k druhému bez nutnosti změny nastavení sítě. &#160;" />
+<meta property="og:description" content="Náš malý úvodní seriál o bezdrátových sítích pokračuje. Tentokráte se dozvíte o dvou základních typech bezdrátových sítích, infrastrukturní a ad-hoc síti. A navíc se podíváme na to, co má access point umět.Tento článek by měl navazovat na teoretické základy o standardu IEEE802.11b, o kterých jsme se dozvěděli minule a i tyto základy lze vztáhnout i na další odvozené standardy, jako je IEEE802.11a nebo 802.11g. Před tím, než začnete stavět bezdrátovou síť, je třeba si udělat jasno v tom, jaká bude její základní struktura, tedy jak vlastně chcete mezi sebou propojovat počítače. Sítě Ad-hoc Pokud počítačů máte málo, bude asi nejjednodušší metodou spojit tyto počítače mezi sebou sítí na bázi peer-to-peer, kdy všechny počítače jsou si rovnocené. Tak se to běžně dělá v případě kabelových sítí, u sítí bezdrátových je obdobou peer-to-peer propojení nazývána ad-hoc &#8211; tedy síť sestavovaná podle potřeby. Ad-hoc sítě umožňují rychlou, jednoduchou a cenově příznivou výstavbu, mají ale také své stinné stránky. Tou je především fakt, že sítě ad-hoc vyžadují, aby všechny počítače, které spolu mají komunikovat, byly ve vzájemném dosahu, tedy každý musí být v radiovém dosahu s každým počítačem. To nevadí u malého bytu, ale u větších prostorů to často není možné. Sítě ad-hoc se tedy považují za opravdu sítě sestavené jednoduše a rychle v případě potřeby, když například potřebujete data přenést z jednoho notebooku na druhý, pro praktické a trvalé síťování se téměř nepoužívají. Už v okamžiku, kdy dva počítače mají sdílet připojení na internet a chceme, aby oba počítače byly na sobě nezávislé při připojování na internet, bude lepší takovou síť vytvořit pomoci wifi home routeru, zařízení integrujícího access point a &#8222;sdíleč internetu&#8220; &#8211; tedy směrovač dat z vnitřní &#8222;sítě&#8220; do internetu. Díky všem těmto omezením a hlavně díky jednoduchosti ad-hoc sítí je již nadále nebudeme uvažovat. Poslední poznámkou k nim budiž fakt, že schopnost práce v ad-hoc sítích musí být na většině zařízení aktivována v menu a protože se zařízení většinou připojují do sítí infrastrukturních a karta musí být zapnuta jen v jednom režimu, výrobci většinou nastavují infrastrukturní režim. Infrastrukturní sítě Protipólem sítí ad-hoc jsou sítě infrastrukturní, tedy sítě vybavené speciálním komunikačním prvkem zvaným access point, zkráceně AP, nebo česky APčko. Díky tomu si jednotlivé počítače nemusí povídat přímo mezi sebou, ale komunikují s AP a ten předává jejich komunikaci dále. Každé stanici tedy stačí, aby měla ve svém dosahu alespoň jeden access point.&#160; Následující obrázek znázorňuje již složitější síť, kde jak vidíte &quot;páteř&quot; tvoří pevně vedený ethernet, ten propojuje jednotlivé access pointy a teprve z nich se šíří signál WiFi sítě k notebookům. Aby to bylo veselejší, do této sítě bychom mohli zahrnout roaming, tedy možnost plynulého přechodu&#160;z jednoho access pointu k druhému bez nutnosti změny nastavení sítě. &#160;" />
+<link rel="canonical" href="https://www.marigold.cz/item/zaklady-bezdratovych-siti-jak-sit-vypada-a-jak-vybrat-access-point/" />
+<meta property="og:url" content="https://www.marigold.cz/item/zaklady-bezdratovych-siti-jak-sit-vypada-a-jak-vybrat-access-point/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2002-12-15T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Základy bezdrátových sítí: jak síť vypadá a jak vybrat Access Point?" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2002-12-15T00:00:00+00:00","datePublished":"2002-12-15T00:00:00+00:00","description":"Náš malý úvodní seriál o bezdrátových sítích pokračuje. Tentokráte se dozvíte o dvou základních typech bezdrátových sítích, infrastrukturní a ad-hoc síti. A navíc se podíváme na to, co má access point umět.Tento článek by měl navazovat na teoretické základy o standardu IEEE802.11b, o kterých jsme se dozvěděli minule a i tyto základy lze vztáhnout i na další odvozené standardy, jako je IEEE802.11a nebo 802.11g. Před tím, než začnete stavět bezdrátovou síť, je třeba si udělat jasno v tom, jaká bude její základní struktura, tedy jak vlastně chcete mezi sebou propojovat počítače. Sítě Ad-hoc Pokud počítačů máte málo, bude asi nejjednodušší metodou spojit tyto počítače mezi sebou sítí na bázi peer-to-peer, kdy všechny počítače jsou si rovnocené. Tak se to běžně dělá v případě kabelových sítí, u sítí bezdrátových je obdobou peer-to-peer propojení nazývána ad-hoc &#8211; tedy síť sestavovaná podle potřeby. Ad-hoc sítě umožňují rychlou, jednoduchou a cenově příznivou výstavbu, mají ale také své stinné stránky. Tou je především fakt, že sítě ad-hoc vyžadují, aby všechny počítače, které spolu mají komunikovat, byly ve vzájemném dosahu, tedy každý musí být v radiovém dosahu s každým počítačem. To nevadí u malého bytu, ale u větších prostorů to často není možné. Sítě ad-hoc se tedy považují za opravdu sítě sestavené jednoduše a rychle v případě potřeby, když například potřebujete data přenést z jednoho notebooku na druhý, pro praktické a trvalé síťování se téměř nepoužívají. Už v okamžiku, kdy dva počítače mají sdílet připojení na internet a chceme, aby oba počítače byly na sobě nezávislé při připojování na internet, bude lepší takovou síť vytvořit pomoci wifi home routeru, zařízení integrujícího access point a &#8222;sdíleč internetu&#8220; &#8211; tedy směrovač dat z vnitřní &#8222;sítě&#8220; do internetu. Díky všem těmto omezením a hlavně díky jednoduchosti ad-hoc sítí je již nadále nebudeme uvažovat. Poslední poznámkou k nim budiž fakt, že schopnost práce v ad-hoc sítích musí být na většině zařízení aktivována v menu a protože se zařízení většinou připojují do sítí infrastrukturních a karta musí být zapnuta jen v jednom režimu, výrobci většinou nastavují infrastrukturní režim. Infrastrukturní sítě Protipólem sítí ad-hoc jsou sítě infrastrukturní, tedy sítě vybavené speciálním komunikačním prvkem zvaným access point, zkráceně AP, nebo česky APčko. Díky tomu si jednotlivé počítače nemusí povídat přímo mezi sebou, ale komunikují s AP a ten předává jejich komunikaci dále. Každé stanici tedy stačí, aby měla ve svém dosahu alespoň jeden access point.&#160; Následující obrázek znázorňuje již složitější síť, kde jak vidíte &quot;páteř&quot; tvoří pevně vedený ethernet, ten propojuje jednotlivé access pointy a teprve z nich se šíří signál WiFi sítě k notebookům. Aby to bylo veselejší, do této sítě bychom mohli zahrnout roaming, tedy možnost plynulého přechodu&#160;z jednoho access pointu k druhému bez nutnosti změny nastavení sítě. &#160;","headline":"Základy bezdrátových sítí: jak síť vypadá a jak vybrat Access Point?","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/item/zaklady-bezdratovych-siti-jak-sit-vypada-a-jak-vybrat-access-point/"},"url":"https://www.marigold.cz/item/zaklady-bezdratovych-siti-jak-sit-vypada-a-jak-vybrat-access-point/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Náš malý úvodní seriál o bezdrátových sítích pokračuje. Tentokráte se dozvíte o dvou základních typech bezdrátových sítích, infrastrukturní a ad-hoc síti. A navíc se podíváme na to, co má access point umět.Tento článek by měl navazovat na teoretické základy o standardu IEEE802.11b, o kterých jsme se dozvěděli minule a i tyto základy lze vztáhnout i na další odvozené standardy, jako je IEEE802.11a nebo 802.11g.
+
+Před tím, než začnete stavět bezdrátovou síť, je třeba si udělat jasno v tom, jaká bude její základní struktura, tedy jak vlastně chcete mezi sebou propojovat počítače. 
+Sítě Ad-hoc 
+
+Pokud počítačů máte málo, bude asi nejjednodušší metodou spojit tyto počítače mezi sebou sítí na bázi peer-to-peer, kdy všechny počítače jsou si rovnocené. Tak se to běžně dělá v případě kabelových sítí, u sítí bezdrátových je obdobou peer-to-peer propojení nazývána ad-hoc &#8211; tedy síť sestavovaná podle potřeby. Ad-hoc sítě umožňují rychlou, jednoduchou a cenově příznivou výstavbu, mají ale také své stinné stránky. Tou je především fakt, že sítě ad-hoc vyžadují, aby všechny počítače, které spolu mají komunikovat, byly ve vzájemném dosahu, tedy každý musí být v radiovém dosahu s každým počítačem. To nevadí u malého bytu, ale u větších prostorů to často není možné. Sítě ad-hoc se tedy považují za opravdu sítě sestavené jednoduše a rychle v případě potřeby, když například potřebujete data přenést z jednoho notebooku na druhý, pro praktické a trvalé síťování se téměř nepoužívají. Už v okamžiku, kdy dva počítače mají sdílet připojení na internet a chceme, aby oba počítače byly na sobě nezávislé při připojování na internet, bude lepší takovou síť vytvořit pomoci wifi home routeru, zařízení integrujícího access point a &#8222;sdíleč internetu&#8220; &#8211; tedy směrovač dat z vnitřní &#8222;sítě&#8220; do internetu. 
+
+Díky všem těmto omezením a hlavně díky jednoduchosti ad-hoc sítí je již nadále nebudeme uvažovat. Poslední poznámkou k nim budiž fakt, že schopnost práce v ad-hoc sítích musí být na většině zařízení aktivována v menu a protože se zařízení většinou připojují do sítí infrastrukturních a karta musí být zapnuta jen v jednom režimu, výrobci většinou nastavují infrastrukturní režim. 
+Infrastrukturní sítě 
+
+Protipólem sítí ad-hoc jsou sítě infrastrukturní, tedy sítě vybavené speciálním komunikačním prvkem zvaným access point, zkráceně AP, nebo česky APčko. Díky tomu si jednotlivé počítače nemusí povídat přímo mezi sebou, ale komunikují s AP a ten předává jejich komunikaci dále. Každé stanici tedy stačí, aby měla ve svém dosahu alespoň jeden access point.&#160; 
+
+Následující obrázek znázorňuje již složitější síť, kde jak vidíte "páteř" tvoří pevně vedený ethernet, ten propojuje jednotlivé access pointy a teprve z nich se šíří signál WiFi sítě k notebookům. Aby to bylo veselejší, do této sítě bychom mohli zahrnout roaming, tedy možnost plynulého přechodu&#160;z jednoho access pointu k druhému bez nutnosti změny nastavení sítě. &#160; 
+
+
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Základy bezdrátových sítí: jak síť vypadá a&nbsp;jak vybrat Access Point?" />
+    <meta property="twitter:title" content="Základy bezdrátových sítí: jak síť vypadá a&nbsp;jak vybrat Access Point?" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/item/zaklady-bezdratovych-siti-jak-sit-vypada-a-jak-vybrat-access-point/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Základy bezdrátových sítí: jak síť vypadá a&nbsp;jak vybrat Access Point?</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+15.
+prosinec
+
+2002 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Náš malý úvodní seriál o bezdrátových sítích pokračuje. Tentokráte se dozvíte o dvou základních typech bezdrátových sítích, infrastrukturní a ad-hoc síti. A navíc se podíváme na to, co má access point umět.<!--more-->Tento článek by měl navazovat na teoretické základy o standardu IEEE802.11b, o kterých jsme se dozvěděli minule a i tyto základy lze vztáhnout i na další odvozené standardy, jako je IEEE802.11a nebo 802.11g.</p>
+<p>
+Před tím, než začnete stavět bezdrátovou síť, je třeba si udělat jasno v tom, jaká bude její základní struktura, tedy jak vlastně chcete mezi sebou propojovat počítače. 
+<h4>Sítě Ad-hoc </h4>
+<p>
+Pokud počítačů máte málo, bude asi nejjednodušší metodou spojit tyto počítače mezi sebou sítí na bázi peer-to-peer, kdy všechny počítače jsou si rovnocené. Tak se to běžně dělá v případě kabelových sítí, u sítí bezdrátových je obdobou peer-to-peer propojení nazývána ad-hoc &#8211; tedy síť sestavovaná podle potřeby. Ad-hoc sítě umo<img height="196" alt="WLAN síť Ad Hoc" src="/wp-content/uploads/sitadhoc.gif" width="295" align="right" border="1" />žňují rychlou, jednoduchou a cenově příznivou výstavbu, mají ale také své stinné stránky. Tou je především fakt, že sítě ad-hoc vyžadují, aby všechny počítače, které spolu mají komunikovat, byly ve vzájemném dosahu, tedy každý musí být v radiovém dosahu s každým počítačem. To nevadí u malého bytu, ale u větších prostorů to často není možné. Sítě ad-hoc se tedy považují za opravdu sítě sestavené jednoduše a rychle v případě potřeby, když například potřebujete data přenést z jednoho notebooku na druhý, pro praktické a trvalé síťování se téměř nepoužívají. Už v okamžiku, kdy dva počítače mají sdílet připojení na internet a chceme, aby oba počítače byly na sobě nezávislé při připojování na internet, bude lepší takovou síť vytvořit pomoci wifi home routeru, zařízení integrujícího access point a &#8222;sdíleč internetu&#8220; &#8211; tedy směrovač dat z vnitřní &#8222;sítě&#8220; do internetu. 
+<p>
+Díky všem těmto omezením a hlavně díky jednoduchosti <strong>ad-hoc sítí je již nadále nebudeme uvažovat</strong>. Poslední poznámkou k nim budiž fakt, že schopnost práce v ad-hoc sítích musí být na většině zařízení aktivována v menu a protože se zařízení většinou připojují do sítí infrastrukturních a karta musí být zapnuta jen v jednom režimu, výrobci většinou nastavují infrastrukturní režim. 
+<h4>Infrastrukturní sítě </h4>
+<p>
+Protipólem sítí ad-hoc jsou sítě infrastrukturní, tedy sítě vybavené speciálním komunikačním prvkem zvaným access point, zkráceně AP, nebo česky APčko. Díky tomu si jednotlivé počítače nemusí povídat přímo mezi sebou, ale komunikují s AP a ten předává jejich komunikaci dále. Každé stanici tedy stačí, aby měla ve svém dosahu alespoň jeden access point.&#160; 
+<p>
+Následující obrázek znázorňuje již složitější síť, kde jak vidíte "páteř" tvoří pevně vedený ethernet, ten propojuje jednotlivé access pointy a teprve z nich se šíří signál WiFi sítě k notebookům. Aby to bylo veselejší, do této sítě bychom mohli zahrnout roaming, tedy možnost plynulého přechodu&#160;z jednoho access pointu k druhému bez nutnosti změny nastavení sítě. &#160; 
+<p align="center"><img height="205" alt="Infrastrukturní typ sítě WLAN" src="/wp-content/uploads/sitinfrastructure.gif" width="311" border="1" /></p>
+
+<p>
+</p>
+
+<h4>Access Point - co to je a čím se liší?</h4>
+<p>
+APčko komunikuje s bezdrátovými zařízeními ve svém dosahu a stará se o směřování (routování) provozu mezi bezdrátovými klienty a zpravidla také mezi pevnou kabelovou sítí. Teoreticky je samozřejmě možné vyrobit AP pouze na bázi WiFi, který nepracuje vůbec s klasickým ethernetem, ale protože to v praxi nemá moc smyslu, dělají se vlastně jen access pointy, které routují provoz nejenom v bezdrátové síti, ale také mají výstup do ethernetu. 
+<p>
+<img height="140" alt="D-Link dwl-900ap" src="http://beta.marigold.cz/obrazek/dlinkdwl-900ap.jpg" width="153" align="right" />U access pointů je důležité dbát na několik důležitých věcí. Především byste měli vědět, že ne každý access point zvládne velké množství najednou připojených uživatelů. Ty levnější access pointy si poradí najednou třeba jen s třicítkou uživatelů, ty výkonnější obslouží 60, ale také 254 uživatelů připojených najednou. Více uživatelů se už neřeší kvůli omezenému pokrytí nabízeného jedním WiFi pointem &#8211; pokud potřebujete připojit více uživatelů, kupte si více APček, už z dále popsaného důvodu to bude výhodnější. 
+<p>
+Tady je ale důležité si uvědomit, že <strong>všichni klienti připojení na jeden AP sdílejí rychlostní pásmo 11 Mbps</strong>, takže stovka najednou připojeních klientů si musí vystačit s rychlostí 100 Kbps, kterou jim jako jednotlivci může APčko přidělit. Už z toho důvodu AP nepodporují více jak 254 klientů. Některé access pointy ovšem umožňují &#8222;duální provoz&#8220;. APčko totiž v podstatě není nic jiného, než WiFi PCMCIA karta a trocha přídavného hardware starajícího se o možnost upgrade a management karty, jakož i o routing dat do ethernetu. Prakticky byste si tedy svůj AP mohli velmi jednoduše udělat z jakékoliv WiFi karty &#8211; jenže výrobci vědí, že takových koumáků by se našlo hodně a zatímco ceny WiFi karet jsou cenově velmi nízko tlačeny značnou konkurencí a snadností výroby, access pointy se prodávají poměrně draho a tak výrobci z normálních WiFi karet se snaží firmware pro fungování v režimu access point odstranit. O tom, že i toto lze obejít a udělat si vlastní Access point si povíme někdy jindy. 
+<p>
+Abychom se dostali k tomu blafáku výrobců: do krabice s access pointem se přímo dávají PCMCIA karty. Každá taková karta může obsloužit určitý počet uživatelů najednou a hlavně každá ta karta nabízí 11 Mbps. Například access point Orinoco AP-2000 pracuje se dvěmi PCMCIA kartami, které navíc nejsou zahrnuty v jeho ceně. Na jednu stranu je mrzuté, že si je musíte dokoupit, na stranu druhou až se rozhodnete přejít na WiFi5 nebo na rychlejší 802.11g standard, stačí dokoupit nové PCMCIA karty. Takový AP ovšem bývá už docela drahý a hodí se spíše pro potřeby firemních klientů. 
+<p>
+Správný access point by měl umět pracovat s DHCP servery tak, že do sítě řízené DHCP serverem ho jen připojíte a on si sám nakonfiguruje své připojení do sítě. Kromě DHCP klienta také APčko většinou (no, zatím jsem ho bez toho neviděl) obsahuje DHCP server, takže automaticky přiděluje adresy bezdrátovým klientům. 
+<h4>Proč se access pointy liší cenou? Je dražší lepší?</h4>
+<p>
+Vlastně jsem vám hlavní důvod řekl &#8211; některé umožňují pracovat na více kanálech najednou, tedy vlastně umožní násobit pásmo 11 Mbps. Již jsem zmínil fakt, že některá zařízení snesou méně připojených uživatelů najednou, nežli zařízení jiná. Důvod je jednoduchý: procesor, který pohání takový AP je pomalý a více klientů najednou by nezvládal. Tímto problémem se vyznačují právě levnější APčka určená hlavně pro domácí použití. Problém ale není ani tak v tom, že nemůžete připojit více uživatelů najednou &#8211; to u domácích sítí nehrozí, stěží se dostanete přes desítku. Horší je nízká odolnost proti DOS útokům, tedy pokusům o zahlcení takového access pointu síťovými dotazy &#8211; pomalý procesor se s tím zle vyrovnává. Ovšem pokud máte malou domácí síť a nemáte hodně nepřátel (nemusí jít jen o mafii nebo policii, ale stačí blbeček &#8222;kámoš&#8220; vzdělanější v počítačích), není levný AP špatnou volbou. 
+<p>
+WiFi zařízení se ale v principu musí řídit jednotným standardem, takže další odlišnosti jsou spíše v možnostech, které APčko nabízí pro svoji správu, nikoliv v základních funkcích. Základní nastavení jako je specifikace IP adres, nastavení parametrů bezdrátové a drátové sítě, zvládne každý AP, ale můžete toho od svého APčka chtít mnohem více &#8211; kupříkladu povolovat či zakazovat přístup uživatelů rozpoznaných podle MAC adresy, limitovat jim vyhrazenou přenosovou kapacitu, APčko může mít i svůj firewall a další vymoženosti. Čím více a čím podrobněji a jednodušeji můžete takové parametry nastavovat, tím vyšší je potenciální cena APčka. Asi tedy nepřekvapí, že nejvymakanější software pro správu má Orinoco/Avaya a Cisco, oba také podporují řadu funkcí důležitých pro správce firemních sítí a korporátní uživatele. Také výrobky Nexgear, D-Link, SMC a Linksys jsou velmi slušné a nadupané záležitosti zejména pro menší uživatele, naopak na spodním konci jsou méně známé záležitosti jako Zcomax (Z-Com), iTec, Benq a další podobné výrobky o kterých bych neváhal říci, že jsou &#8222;no-name&#8220;. 
+<p>
+Tím ale nelze říci, že takové &#8222;no-name&#8220; výrobky jsou naprosto nepoužitelné. Právě naopak &#8211; technickým fandům se bude líbit, že tyto výrobky zpravidla mají běžnou a standardní sadu funkcí, které nepřekrývají a nerozšiřují firemní vylepšení. Díky tomu uživatel dostává zařízení, které si může při dobré znalosti zásadně upravit a přizpůsobit svým potřebám. I nenáročný uživatel zejména domácího charakteru si s ním vystačí, ačkoliv například management takového iTec zařízení je oproti jen o málo dražšímu D-Linku docela otřesný. 
+<p>
+Dnes už je docela běžné, že AP lze upgradovat tak, že si ze stránek výrobce stáhnete soubor s novým firmware a nahrajete jej do svého APčka. Tím lze opravit nejrůznější chyby a také někdy doplnit nové funkce, ačkoliv ty si výrobce zpravidla nejraději nechává do nového výrobku. Přesto &#8211; u dražších výrobců lze očekávat, že chyby relativně rychle opraví a nabídnou novou verzi, případně že nějakou tu novou funkci doplní. Jisté to ale není. 
+<p>
+Některé firmy přicházejí s vlastním rozšířením standardu WiFi směrem k dosud nehotovému 802.11g &#8211; a tedy nabízejí rychlosti 22 Mbps (třeba D-Link, USRobotics nebo SMC) &#8211; tyto rychlosti jsou ale proprietární a budou fungovat jen v případě, když si koupíte veškerou výbavu téhož výrobce. 
+<p>
+Na závěr, aby toho nebylo málo, se <strong>zmíním o home routerech</strong>, nebo <strong>též broadband či soho routerech</strong>. Tato zařízení v podstatě kombinují router určený pro směřování provozu do internetu s access pointem. U těchto zařízení je zkušenost výrobce ještě důležitější, než v případě access pointu, protože možností nastavení a pohodlí při nastavování je zde pro nezkušeného zákazníka velmi důležité. 
+<p>
+<strong>Přehled access pointů a broadband routerů </strong>najdete na našem serveru v části <a href="/prehledwifi/">Přehled WiFi techniky</a> - to menu vlevo. Připomínám, že jde jen o přehled techniky běžně prodávané v ČR. 
+<p>
+Tímto bych si dovolil ukončit větší část věnovanou access pointům. Příště se budeme věnovat dalším částem WiFi sítě. 
+<p>
+Pro další články se podívejte <a href="/zacinajicim/">do rubriky určené Začínajícím...</a></p>
+</p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <p class="excerpt">
+                  
+                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
+
+Poznatek první: umělá intel...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
+                <p class="excerpt">
+                  
+                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  **audioverzi tohoto článku** ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Základy bezdrátových sítí: jak síť vypadá a&nbsp;jak vybrat Access Point?&url=https://www.marigold.cz/item/zaklady-bezdratovych-siti-jak-sit-vypada-a-jak-vybrat-access-point/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/item/zaklady-bezdratovych-siti-jak-sit-vypada-a-jak-vybrat-access-point/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_posts/2002-12-15-zaklady-bezdratovych-siti-jak-sit-vypada-a-jak-vybrat-access-point.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/item/prehled-wifi-ap-a-home-routeru-uz-bezi/">&laquo; Přehled WiFi AP a&nbsp;home routerů už běží</a> |
+      
+      
+      
+        <a class="next" href="/item/adsl-a-cesky-telecom-podruhe/">ADSL a&nbsp;Český Telecom podruhé &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

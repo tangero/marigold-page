@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ultra-reliable low latency communication (URLLC) | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Ultra-reliable low latency communication (URLLC)" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Pojďme se zastavit u jedné z technologií, které umožňují sítím 5G dosahovat velmi nízké latence a vysoké spolehlivosti. Jmenuje se Ultra-reliable low latency communication (URLLC) - česky bychom řekli Ultra spolehlivá komunikace s nízkou latencí. Na rozdíl od LTE/4G, které byly primárně navrženy pro zvýšení datových rychlostí a kapacity, 5G s URLLC cílí na zcela novou úroveň výkonu v oblasti latence a spolehlivosti." />
+<meta property="og:description" content="Pojďme se zastavit u jedné z technologií, které umožňují sítím 5G dosahovat velmi nízké latence a vysoké spolehlivosti. Jmenuje se Ultra-reliable low latency communication (URLLC) - česky bychom řekli Ultra spolehlivá komunikace s nízkou latencí. Na rozdíl od LTE/4G, které byly primárně navrženy pro zvýšení datových rychlostí a kapacity, 5G s URLLC cílí na zcela novou úroveň výkonu v oblasti latence a spolehlivosti." />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/urllc/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/urllc/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-07T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Ultra-reliable low latency communication (URLLC)" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-07-07T00:00:00+00:00","datePublished":"2024-07-07T00:00:00+00:00","description":"Pojďme se zastavit u jedné z technologií, které umožňují sítím 5G dosahovat velmi nízké latence a vysoké spolehlivosti. Jmenuje se Ultra-reliable low latency communication (URLLC) - česky bychom řekli Ultra spolehlivá komunikace s nízkou latencí. Na rozdíl od LTE/4G, které byly primárně navrženy pro zvýšení datových rychlostí a kapacity, 5G s URLLC cílí na zcela novou úroveň výkonu v oblasti latence a spolehlivosti.","headline":"Ultra-reliable low latency communication (URLLC)","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/urllc/"},"url":"https://www.marigold.cz/mobilnisite/urllc/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Pojďme se zastavit u jedné z technologií, které umožňují sítím 5G dosahovat velmi nízké latence a vysoké spolehlivosti.  Jmenuje se Ultra-reliable low latency communication (URLLC) - česky bychom řekli Ultra spolehlivá komunikace s nízkou latencí. Na rozdíl od LTE/4G, které byly primárně navrženy pro zvýšení datových rychlostí a kapacity, 5G s URLLC cílí na zcela novou úroveň výkonu v oblasti latence a spolehlivosti.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Ultra-reliable low latency communication (URLLC)" />
+    <meta property="twitter:title" content="Ultra-reliable low latency communication (URLLC)" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/urllc/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Ultra-reliable low latency communication (URLLC)</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+7.
+červenec
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#5G">5G</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Pojďme se zastavit u jedné z technologií, které umožňují sítím 5G dosahovat velmi nízké latence a vysoké spolehlivosti.  Jmenuje se <strong>Ultra-reliable low latency communication (URLLC)</strong> - česky bychom řekli <em>Ultra spolehlivá komunikace s nízkou latencí</em>. Na rozdíl od LTE/4G, které byly primárně navrženy pro zvýšení datových rychlostí a kapacity, 5G s URLLC cílí na zcela novou úroveň výkonu v oblasti latence a spolehlivosti.</p>
+
+<p><img src="/assets/urllc-vs-others.png" alt="Na co je URLLC zamýšlené?" /></p>
+
+<p>Na obrázku je vidět, k čemu je URLLC zamýšlené a jak si stojí oproti ostatním technikám v 5G sítí, jako je eMB, tedy enhanced mobile broadband a mMTC, massive machine type communication.</p>
+
+<p>URLLC v 5G dosahuje latence v řádu milisekund (řekněme 1-4 ms) s extrémně vysokou spolehlivostí (99,9999%), což je výrazné zlepšení oproti LTE/4G, kde typická latence byla kolem 20-30 ms. Tohoto výsledku je dosaženo kombinací několika technologií a architektonických změn. 5G využívá kratší intervaly přenosu (TTI), flexibilní numerologii (tedy číslování přenašečů) a nové schéma plánování, které umožňuje rychlejší zpracování a přenos dat. Dále, 5G zavádí koncept <strong>network slicingu</strong>, který umožňuje vytvořit dedikovaný <em>“slice”</em> čili <em>plátek</em> sítě optimalizovaný pro URLLC provoz.</p>
+
+<p>Na fyzické vrstvě 5G implementuje robustnější kódování a modulaci, které zvyšují odolnost proti chybám. URLLC také těží z edge computingu v 5G, který přibližuje zpracování dat blíže k uživateli, čímž dále snižuje latenci. Navíc, 5G podporuje dual connectivity, což umožňuje zařízením současně komunikovat s více základnovými stanicemi, zvyšujíc tak spolehlivost připojení.</p>
+
+<p>Tyto vylepšení umožňují 5G podporovat uživatelské případy, které byly v LTE/4G nemyslitelné, jako je dálkové ovládání robotů, autonomní vozidla, průmyslovou automatizaci v reálném čase nebo telemedicínu. URLLC tak otevírá dveře novým aplikacím a službám, které mohou transformovat průmysl a společnost.</p>
+
+<p>Teď už si to rozebereme v bodech podrobněji:</p>
+
+<ol>
+  <li>Fyzická vrstva (PHY):
+    <ul>
+      <li>Kratší časové sloty: 5G NR používá subnosné rozestupy až 120 kHz, což umožňuje kratší symboly a time-slots (0.125 ms).</li>
+      <li>Flexibilní numerologie: Umožňuje dynamickou změnu délky OFDM symbolů a cyklického prefixu.
+Mini-sloty: Umožňují začít přenos uprostřed slotu, snižujíc čekací dobu.</li>
+      <li>Robustní kódování: Použití pokročilých LDPC (Low-Density Parity Check) kódů pro kontrolu chyb.</li>
+    </ul>
+  </li>
+  <li>MAC vrstva:
+    <ul>
+      <li>Preemptivní plánování: Umožňuje přerušit probíhající přenos pro URLLC data.</li>
+      <li>Grant-free uplink: UE může vysílat bez čekání na explicitní povolení od základnové stanice.</li>
+      <li>Častější HARQ (Hybrid Automatic Repeat Request) cykly: Rychlejší opravy chyb.</li>
+    </ul>
+  </li>
+  <li>RRC (Radio Resource Control):
+    <ul>
+      <li>Configured grants: Předkonfigurované přidělení zdrojů pro rychlý uplink přenos.</li>
+      <li>Dual connectivity: Simultánní připojení k více základnovým stanicím pro zvýšení spolehlivosti.</li>
+    </ul>
+  </li>
+  <li>Síťová architektura:
+    <ul>
+      <li>MEC (Multi-access Edge Computing): Zpracování dat blíže k uživateli.</li>
+      <li>Network slicing: Dedikované síťové zdroje pro URLLC provoz.</li>
+      <li>Optimalizovaná core network: Kratší cesty paketu a efektivnější směrování.</li>
+    </ul>
+  </li>
+  <li>QoS mechanismy:
+    <ul>
+      <li>5QI (5G QoS Identifier): Specifické identifikátory pro URLLC provoz zajišťující prioritizaci.</li>
+      <li>Reflective QoS: Dynamická aplikace QoS pravidel bez signalizace.</li>
+    </ul>
+  </li>
+  <li>Pokročilé anténní techniky:
+    <ul>
+      <li>Massive MIMO: Zlepšuje spolehlivost signálu a snižuje interference.</li>
+      <li>Beamforming: Cílené směrování signálu pro zvýšení SNR.</li>
+    </ul>
+  </li>
+  <li>Redundance a diverzita:
+    <ul>
+      <li>Packet duplication: Stejný paket je odeslán přes více cest pro zvýšení spolehlivosti.</li>
+      <li>Interface diversity: Využití různých rozhraní (např. sub-6 GHz a mmWave) pro redundanci.</li>
+    </ul>
+  </li>
+  <li>Prediktivní techniky:
+    <ul>
+      <li>Proactive packet scheduling: Plánování na základě predikce síťových podmínek.</li>
+      <li>ML-based resource allocation: Využití strojového učení pro optimální alokaci zdrojů.</li>
+    </ul>
+  </li>
+  <li>Cross-layer optimalizace:
+    <ul>
+      <li>Těsná integrace mezi PHY, MAC a vyššími vrstvami pro minimalizaci overhead.</li>
+      <li>End-to-end QoS management: Zajištění URLLC požadavků napříč celou síťovou cestou.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>URLLC má své velké zastánce v průmyslu, především v segmentu automotive a Industry 4.0. V obojím se hodí jako spolehlivý přenašeč potřebných informací. Aliance 5G-ACIA (5G Alliance for Connected Industries and Automation) je velkým zastáncem URLLC pro průmyslové využití. V každém případě je URLLC teprve na počátku cesty a jak to s jeho adaptací dopadne, teprve uvidíme. Navíc více či méně se překrývá s jinými technologiemi, které mohou být komplementární nebo zcela substitutivní. Jen namátkou:</p>
+
+<ul>
+  <li>TSN (Time-Sensitive Networking): IEEE standard pro deterministické přenosy v Ethernetových sítích.</li>
+  <li>DECT-2020 NR: Nový standard pro průmyslový IoT s nízkým zpožděním.</li>
+  <li>Wi-Fi 6 (802.11ax) a budoucí Wi-Fi 7: Zaměřují se na snížení latence v bezdrátových sítích.</li>
+  <li>Privátní LTE sítě: Dedikované LTE sítě pro průmyslové použití.</li>
+  <li>LoRaWAN a NB-IoT: Pro IoT aplikace, které nepotřebují extrémně nízkou latenci, ale vyžadují nízkou spotřebu energie.</li>
+</ul>
+
+<p>Je důležité poznamenat, že zatímco tyto technologie mohou konkurovat URLLC v určitých aplikacích, URLLC má unikátní kombinaci nízké latence, vysoké spolehlivosti a mobility, kterou jiné technologie zatím nemohou plně napodobit.</p>
+
+<p>URLLC je stále ve fázi rozvoje a jeho plný potenciál se teprve začíná realizovat. S postupným nasazováním 5G sítí a vývojem use cases se očekává, že využití URLLC bude významně růst v nadcházejících letech.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
+                <p class="excerpt">
+                  
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
+                <p class="excerpt">
+                  
+                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Ultra-reliable low latency communication (URLLC)&url=https://www.marigold.cz/mobilnisite/urllc/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/urllc/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2024-07-07-urllc.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/3gpp-release-10/">&laquo; 3GPP Release 10 - LTE Advanced</a> |
+      
+      
+      
+        <a class="next" href="/mobilnisite/AI-RAN/">AI-RAN &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Word2vec aneb jak převést slova na čísla | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Word2vec aneb jak převést slova na čísla" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Algoritmus Word2vec představuje důelžitý průlom v oblasti zpracování přirozeného jazyka (NLP - Natural Language Processing). Umožnil totiž počítačům “pochopit text”, tedy převést jej z počítačům nesrozumitelných slov na vcelku srozumitelná čísla. A tím vlastně celá moderní revoluce AI začala. A co je pro nás v Česku zajímavé? Word2vec byl vyvinutý týmem vedeným Tomášem Mikolovem v roce 2013 ve společnosti Google." />
+<meta property="og:description" content="Algoritmus Word2vec představuje důelžitý průlom v oblasti zpracování přirozeného jazyka (NLP - Natural Language Processing). Umožnil totiž počítačům “pochopit text”, tedy převést jej z počítačům nesrozumitelných slov na vcelku srozumitelná čísla. A tím vlastně celá moderní revoluce AI začala. A co je pro nás v Česku zajímavé? Word2vec byl vyvinutý týmem vedeným Tomášem Mikolovem v roce 2013 ve společnosti Google." />
+<link rel="canonical" href="https://www.marigold.cz/ai/word2vec/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/word2vec/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-05T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Word2vec aneb jak převést slova na čísla" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-07-05T00:00:00+00:00","datePublished":"2024-07-05T00:00:00+00:00","description":"Algoritmus Word2vec představuje důelžitý průlom v oblasti zpracování přirozeného jazyka (NLP - Natural Language Processing). Umožnil totiž počítačům “pochopit text”, tedy převést jej z počítačům nesrozumitelných slov na vcelku srozumitelná čísla. A tím vlastně celá moderní revoluce AI začala. A co je pro nás v Česku zajímavé? Word2vec byl vyvinutý týmem vedeným Tomášem Mikolovem v roce 2013 ve společnosti Google.","headline":"Word2vec aneb jak převést slova na čísla","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/word2vec/"},"url":"https://www.marigold.cz/ai/word2vec/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Algoritmus Word2vec představuje důelžitý průlom v oblasti zpracování přirozeného jazyka (NLP - Natural Language Processing). Umožnil totiž počítačům “pochopit text”, tedy převést jej z počítačům nesrozumitelných slov na vcelku srozumitelná čísla. A tím vlastně celá moderní revoluce AI začala. A co je pro nás v Česku zajímavé? Word2vec byl vyvinutý týmem vedeným Tomášem Mikolovem v roce 2013 ve společnosti Google.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Word2vec aneb jak převést slova na čísla" />
+    <meta property="twitter:title" content="Word2vec aneb jak převést slova na čísla" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/word2vec/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Word2vec aneb jak převést slova na čísla</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+5.
+červenec
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Algoritmus Word2vec představuje důelžitý průlom v oblasti zpracování přirozeného jazyka (NLP - Natural Language Processing). Umožnil totiž počítačům “pochopit text”, tedy převést jej z počítačům nesrozumitelných slov na vcelku srozumitelná čísla. A tím vlastně celá moderní revoluce AI začala. A co je pro nás v Česku zajímavé? Word2vec byl vyvinutý týmem vedeným Tomášem Mikolovem v roce 2013 ve společnosti Google.</p>
+
+<h2 id="historické-souvislosti">Historické souvislosti</h2>
+
+<p>Před vznikem Word2vec se používaly různé metody pro reprezentaci slov v počítačově zpracovatelném formátu, jako byly například metody založené na frekvenci slov (bag-of-words, term frequency-inverse document frequency - TF-IDF). Tyto metody však měly omezenou schopnost zachytit sémantické vztahy mezi slovy. Například, ve vektorovém prostoru by slova “král” a “královna” byla od sebe stejně vzdálena jako “král” a “auto”, což neodráží skutečný sémantický význam těchto slov.</p>
+
+<p>Tomáš Mikolov a jeho tým představili Word2vec, který využívá neuronové sítě k vytváření hustých vektorových reprezentací slov (word embeddings). Tyto vektory zachycují sémantické a syntaktické vztahy mezi slovy, což umožňuje jejich použití v různých NLP úlohách s vysokou přesností a efektivitou.</p>
+
+<h2 id="principy-fungování-word2vec">Principy fungování Word2vec</h2>
+
+<p>Word2vec používá dvě hlavní architektury k tréninku modelů: <strong>Continuous Bag of Words (CBOW)</strong> a <strong>Skip-gram</strong>. Oba přístupy se liší ve způsobu, jakým se učí reprezentace slov.</p>
+
+<h3 id="continuous-bag-of-words-cbow">Continuous Bag of Words (CBOW)</h3>
+
+<p>CBOW model předpovídá cílové slovo na základě jeho kontextu. Kontext je definován jako sousední slova v určitém okně kolem cílového slova. Například, v větě “pes běží po parku”, pro cílové slovo “běží” by kontextová slova byla “pes”, “po” a “parku”.</p>
+
+<p>Architektura CBOW funguje následovně:</p>
+
+<ol>
+  <li>Vstupní vrstvy: Kontextová slova jsou převedena na jednorázové vektory (one-hot vectors).</li>
+  <li>Skrytá vrstva: Tyto vektory jsou zprůměrovány a projdou přes váženou vrstvu, která slouží jako skrytá vrstva.</li>
+  <li>Výstupní vrstva: Výstupem je predikce pravděpodobnosti cílového slova.</li>
+</ol>
+
+<h3 id="skip-gram">Skip-gram</h3>
+
+<p>Skip-gram model funguje opačně oproti CBOW. Předpovídá kontextová slova na základě cílového slova. Tento model je účinnější pro velké korpusy dat a lépe zachycuje vzácné slova.</p>
+
+<p>Architektura Skip-gram funguje následovně:</p>
+
+<ol>
+  <li>Vstupní vrstva: Cílové slovo je převedeno na jednorázový vektor.</li>
+  <li>Skrytá vrstva: Tento vektor prochází váženou skrytou vrstvou.</li>
+  <li>Výstupní vrstva: Model předpovídá pravděpodobnosti kontextových slov.</li>
+</ol>
+
+<p>** Detailnější <a href="/ai/jak-funguje-word2vec">popis fungování Word2vec jsem sepsal v tomto článku</a>. **</p>
+
+<h2 id="výhody-a-přínosy-word2vec">Výhody a přínosy Word2vec</h2>
+
+<p>Word2vec přinesl několik významných výhod oproti dřívějším metodám:</p>
+
+<ol>
+  <li>Zachycení sémantických vztahů: Word2vec dokáže zachytit jemné sémantické vztahy mezi slovy. Například vektorový rozdíl mezi “král” a “královna” je podobný rozdílu mezi “muž” a “žena”.</li>
+  <li>Efektivita: Algoritmy CBOW a Skip-gram jsou efektivní a mohou být trénovány na velmi velkých korpusech textu.</li>
+  <li>Generalizace: Word2vec lze aplikovat na různé NLP úlohy, jako je klasifikace textu, strojový překlad nebo vyhledávání informací.</li>
+</ol>
+
+<h2 id="následovníci-word2vec">Následovníci Word2vec</h2>
+
+<p>Po úspěchu Word2vec následovalo několik dalších přístupů, které stavěly na jeho základech a dále vylepšovaly reprezentaci slov. Mezi nejvýznamnější patří GloVe (Global Vectors for Word Representation), FastText a moderní kontextuální modely jako BERT (Bidirectional Encoder Representations from Transformers).</p>
+
+<h3 id="glove">GloVe</h3>
+
+<p>GloVe, vyvinutý týmem ze Stanford University, kombinuje vlastnosti Word2vec a tradičních maticových metod. GloVe trénuje word embeddings na základě globální statistiky slovního korpusu, což umožňuje zachytit jak lokální, tak globální sémantické vztahy mezi slovy.</p>
+
+<p>Základní myšlenka GloVe spočívá v tom, že se učí vektorová reprezentace slov tak, aby jejich skalární součin (dot product) odpovídal logaritmu jejich pravděpodobnosti společného výskytu (co-occurrence probability). To znamená, že podobná slova mají vektorové reprezentace, které jsou blízko sebe v prostoru, a slova, která se často vyskytují společně, mají vysoký skalární součin.</p>
+
+<h3 id="fasttext">FastText</h3>
+
+<p>FastText, vyvinutý týmem ve Facebook AI Research (FAIR), rozšiřuje Word2vec o schopnost pracovat s podslovy (subword information). To znamená, že FastText reprezentuje slova jako součet vektorů jejich n-gramů (sekvence n po sobě jdoucích znaků).</p>
+
+<p>Tento přístup umožňuje modelu zachytit morfologii slov, což je užitečné zejména pro jazyky s bohatou morfologií nebo pro práci s neznámými slovy (out-of-vocabulary words). Například slovo “kočka” by bylo rozloženo na n-gramy jako “&lt;ko”, “koč”, “očk”, “čka”, “ka&gt;”.</p>
+
+<h3 id="kontextuální-modely-bert-a-jeho-následovníci">Kontextuální modely: BERT a jeho následovníci</h3>
+
+<p>Zatímco Word2vec, GloVe a FastText generují statické vektorové reprezentace slov, moderní kontextuální modely jako BERT generují dynamické reprezentace, které závisí na kontextu použití slova ve větě. Word2vec přitom jejich vznik inspiroval, dalo by se říct, že stál na počátku transformátorů. Transformátory stavějí na myšlenkách reprezentace slov, ale rozšiřují je o schopnost zachytit kontext a sémantické vztahy v textu mnohem efektivněji.</p>
+
+<p>I když jsou transformátory pokročilejší a výkonnější než Word2vec, oba přístupy mohou být v určitých situacích komplementární. Například statické vektorové reprezentace slov z Word2vec mohou být použity jako vstupní funkce pro trénink jednodušších modelů nebo jako základ pro další zpracování v rámci komplexnějších systémů založených na transformátorech.</p>
+
+<p>A konkrétně? Tak za prvé je tu BERT. Ten vyvinul tým ve společnosti Google a používá architekturu transformátorů k tréninku modelu, který je schopný zachytit složité sémantické vztahy v textu. BERT je trénován na úloze maskovaného jazykového modelování (masked language modeling), kde se náhodně maskují některá slova v textu a model se učí tato slova predikovat na základě jejich kontextu.</p>
+
+<p>BERT a jeho následovníci, jako jsou RoBERTa, GPT-2 a GPT-3, poskytují dnes nejlepší výsledky v různých NLP úlohách a představují další významný krok ve vývoji reprezentace slov.</p>
+
+<h2 id="přínosy-moderních-přístupů-pro-llm">Přínosy moderních přístupů pro LLM</h2>
+
+<p>Moderní přístupy, které staví na základech Word2vec, přinášejí několik klíčových přínosů:</p>
+
+<ol>
+  <li>Lepší zachycení kontextu: Kontextuální modely jako BERT dokážou lépe zachytit význam slov v závislosti na jejich použití v textu, což zlepšuje přesnost a sémantickou koherenci v NLP úlohách.</li>
+  <li>Flexibilita: Modely jako FastText umožňují práci s neznámými slovy a jazyky s bohatou morfologií, což zvyšuje jejich použitelnost v různých aplikacích.</li>
+  <li>Výkonnost: Moderní modely poskytují state-of-the-art výsledky v mnoha NLP úlohách, což přináší výrazné zlepšení v oblasti strojového překladu, klasifikace textu, vyhledávání informací a dalších aplikacích.</li>
+</ol>
+
+<p>Závěr</p>
+
+<p>Algoritmus Word2vec představuje zásadní průlom v oblasti zpracování přirozeného jazyka, který položil základy pro další výzkum a vývoj v této oblasti. Jeho schopnost vytvářet husté vektorové reprezentace slov, které zachycují sémantické vztahy, otevřela nové možnosti pro zpracování textu a analýzu přirozeného jazyka.</p>
+
+<p>Následovníci Word2vec, jako jsou GloVe, FastText a moderní kontextuální modely jako BERT, dále rozšiřují a vylepšují tyto metody, což přináší významné přínosy v různých aplikacích NLP.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule/">👉Umělointeligenční asistenti a&nbsp;pochybnosti nad existencí svobodné vůle</a>
+                <p class="excerpt">
+                  
+                    Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v n...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
+                <p class="excerpt">
+                  
+                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Word2vec aneb jak převést slova na čísla&url=https://www.marigold.cz/ai/word2vec/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/word2vec/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2024-07-05-word2vec.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/transformatory/">&laquo; Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť</a> |
+      
+      
+      
+        <a class="next" href="/ai/neuronove-site/">Neuronové sítě &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

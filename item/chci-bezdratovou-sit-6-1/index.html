@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chci bezdrátovou síť (6.1) | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Chci bezdrátovou síť (6.1)" />
+<meta name="author" content="Noname" />
+<meta property="og:locale" content="cs" />
+<meta name="description" content="Tento článek je volným pokračováním mého srpnového seriálu Chci bezdrátovou síť, jež objasňuje vše podstatné, co byste měli chtít vědět, když chcete bezdrátovou síť. Pro ty, kteří zde o prázdninách nebyli doporučuji první kapitolu a pak si dole můžete kliknout na &#8220;lokální hledání&#8221; a můžete se tak dostat na další pokračování. Jak víte, seriál popisuje vše od historie, přes standardy, instalace vnitřních sítí až po instalace venkovních sítí a antény. V jednom z posledních dílů jsem slíbil, že rozvedu co jsou to retranslace a jak se dělají, bohužel jsem to tehdy nestihl. Berte to tedy jako splátku tohoto dluhu a zároveň jako omluvu všem, komu vadí ty články, které jsem sem za posledních pár dnů dal a které pravda nebyly vždy zcela v &#8220;duchu&#8221; tohoto serveru, ale měly jen zaplnit prostor a donutit vás na Marigold nezapomenout v době, kdy je Patrik na svatební cestě. Vedle kontroverzního článku &#8220;CDMA je slepá ulička&#8221; je to asi druhý opravdový článek, který jsem vydal, vím o tom a ještě jednou se omlouvám všem, kteří ty zbylé nepřekousli. Takže tolik úvod a pojďte se vrhnout na problematiku retranslací. V první ze tří části se budu věnovat problematice obecně, v dalších dvou dílech každému ze dvou typů řešení samostatně (nebojte se, oba vyjdou ve středu)." />
+<meta property="og:description" content="Tento článek je volným pokračováním mého srpnového seriálu Chci bezdrátovou síť, jež objasňuje vše podstatné, co byste měli chtít vědět, když chcete bezdrátovou síť. Pro ty, kteří zde o prázdninách nebyli doporučuji první kapitolu a pak si dole můžete kliknout na &#8220;lokální hledání&#8221; a můžete se tak dostat na další pokračování. Jak víte, seriál popisuje vše od historie, přes standardy, instalace vnitřních sítí až po instalace venkovních sítí a antény. V jednom z posledních dílů jsem slíbil, že rozvedu co jsou to retranslace a jak se dělají, bohužel jsem to tehdy nestihl. Berte to tedy jako splátku tohoto dluhu a zároveň jako omluvu všem, komu vadí ty články, které jsem sem za posledních pár dnů dal a které pravda nebyly vždy zcela v &#8220;duchu&#8221; tohoto serveru, ale měly jen zaplnit prostor a donutit vás na Marigold nezapomenout v době, kdy je Patrik na svatební cestě. Vedle kontroverzního článku &#8220;CDMA je slepá ulička&#8221; je to asi druhý opravdový článek, který jsem vydal, vím o tom a ještě jednou se omlouvám všem, kteří ty zbylé nepřekousli. Takže tolik úvod a pojďte se vrhnout na problematiku retranslací. V první ze tří části se budu věnovat problematice obecně, v dalších dvou dílech každému ze dvou typů řešení samostatně (nebojte se, oba vyjdou ve středu)." />
+<link rel="canonical" href="https://www.marigold.cz/item/chci-bezdratovou-sit-6-1/" />
+<meta property="og:url" content="https://www.marigold.cz/item/chci-bezdratovou-sit-6-1/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2004-12-14T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Chci bezdrátovou síť (6.1)" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Noname"},"dateModified":"2004-12-14T00:00:00+00:00","datePublished":"2004-12-14T00:00:00+00:00","description":"Tento článek je volným pokračováním mého srpnového seriálu Chci bezdrátovou síť, jež objasňuje vše podstatné, co byste měli chtít vědět, když chcete bezdrátovou síť. Pro ty, kteří zde o prázdninách nebyli doporučuji první kapitolu a pak si dole můžete kliknout na &#8220;lokální hledání&#8221; a můžete se tak dostat na další pokračování. Jak víte, seriál popisuje vše od historie, přes standardy, instalace vnitřních sítí až po instalace venkovních sítí a antény. V jednom z posledních dílů jsem slíbil, že rozvedu co jsou to retranslace a jak se dělají, bohužel jsem to tehdy nestihl. Berte to tedy jako splátku tohoto dluhu a zároveň jako omluvu všem, komu vadí ty články, které jsem sem za posledních pár dnů dal a které pravda nebyly vždy zcela v &#8220;duchu&#8221; tohoto serveru, ale měly jen zaplnit prostor a donutit vás na Marigold nezapomenout v době, kdy je Patrik na svatební cestě. Vedle kontroverzního článku &#8220;CDMA je slepá ulička&#8221; je to asi druhý opravdový článek, který jsem vydal, vím o tom a ještě jednou se omlouvám všem, kteří ty zbylé nepřekousli. Takže tolik úvod a pojďte se vrhnout na problematiku retranslací. V první ze tří části se budu věnovat problematice obecně, v dalších dvou dílech každému ze dvou typů řešení samostatně (nebojte se, oba vyjdou ve středu).","headline":"Chci bezdrátovou síť (6.1)","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/item/chci-bezdratovou-sit-6-1/"},"url":"https://www.marigold.cz/item/chci-bezdratovou-sit-6-1/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="
+
+Tento článek je volným pokračováním mého srpnového seriálu Chci bezdrátovou síť, jež objasňuje vše podstatné, co byste měli chtít vědět, když chcete bezdrátovou síť. Pro ty, kteří zde o prázdninách nebyli doporučuji první kapitolu a pak si dole můžete kliknout na &#8220;lokální hledání&#8221; a můžete se tak dostat na další pokračování.
+
+Jak víte, seriál popisuje vše od historie, přes standardy, instalace vnitřních sítí až po instalace venkovních sítí a antény. V jednom z posledních dílů jsem slíbil, že rozvedu co jsou to retranslace a jak se dělají, bohužel jsem to tehdy nestihl.
+
+Berte to tedy jako splátku tohoto dluhu a zároveň jako omluvu všem, komu vadí ty články, které jsem sem za posledních pár dnů dal a které pravda nebyly vždy zcela v &#8220;duchu&#8221; tohoto serveru, ale měly jen zaplnit prostor a donutit vás na Marigold nezapomenout v době, kdy je Patrik na svatební cestě. Vedle kontroverzního článku &#8220;CDMA je slepá ulička&#8221; je to asi druhý opravdový článek, který jsem vydal, vím o tom a ještě jednou se omlouvám všem, kteří ty zbylé nepřekousli.
+
+Takže tolik úvod a pojďte se vrhnout na problematiku retranslací. V první ze tří části se budu věnovat problematice obecně, v dalších dvou dílech každému ze dvou typů řešení samostatně (nebojte se, oba vyjdou ve středu).
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Chci bezdrátovou síť (6.1)" />
+    <meta property="twitter:title" content="Chci bezdrátovou síť (6.1)" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/item/chci-bezdratovou-sit-6-1/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Chci bezdrátovou síť (6.1)</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+14.
+prosinec
+
+2004 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <div class="rightbox"><img src="/wp-content/uploads/cache/20041214-retranslace.gif" alt="Retranslace" width="250" height="156" /></div>
+<p>
+Tento článek je volným pokračováním mého srpnového seriálu <a href="http://www.marigold.cz/?query=chci%2Bbezdr%C3%A1tovou%2Bs%C3%AD%C5%A5&amp;amount=0&amp;blogid=1">Chci bezdrátovou síť</a>, jež objasňuje vše podstatné, co byste měli chtít vědět, když chcete bezdrátovou síť. Pro ty, kteří zde o prázdninách nebyli doporučuji <a href="/item/chci-bezdratovou-sit-1/category/wifi">první kapitolu</a> a pak si dole můžete kliknout na &#8220;lokální hledání&#8221; a můžete se tak dostat na další pokračování.</p>
+<p>
+Jak víte, seriál popisuje vše od historie, přes standardy, instalace vnitřních sítí až po instalace venkovních sítí a antény. V jednom z posledních dílů jsem slíbil, že rozvedu co jsou to retranslace a jak se dělají, bohužel jsem to tehdy nestihl.</p>
+<p>
+Berte to tedy jako splátku tohoto dluhu a zároveň jako omluvu všem, komu vadí ty články, které jsem sem za posledních pár dnů dal a které pravda nebyly vždy zcela v &#8220;duchu&#8221; tohoto serveru, ale měly jen zaplnit prostor a donutit vás na Marigold nezapomenout v době, kdy je Patrik na svatební cestě. Vedle kontroverzního článku &#8220;<a href="/item/cdma-je-slepa-ulicka">CDMA je slepá ulička</a>&#8221; je to asi druhý opravdový článek, který jsem vydal, vím o tom a ještě jednou se omlouvám všem, kteří ty zbylé nepřekousli.</p>
+<p>
+Takže tolik úvod a pojďte se vrhnout na problematiku retranslací. V první ze tří části se budu věnovat problematice obecně, v dalších dvou dílech každému ze dvou typů řešení samostatně (nebojte se, oba vyjdou ve středu).</p>
+
+<!--more-->
+<h3>Co to znamená retranslace</h3>
+<p>
+Představte si situaci, kdy potřebujete spojit dvě místa (řekněme A &amp; B) bezdrátovým spojem, která na sebe nevidí (což bývá téměř vždy nutná podmínka), případně jsou od sebe příliš vzdálena a vy nemůžete porušit generální licenci o maximální hustotě vyzářeného výkonu (případně je to příliš daleko i s porušením). Existuje ale místo R, které &#8220;vidí&#8221; na místo A i na místo B, případně je od obou míst méně vzdáleno. Potom místo R se nazývá retranslační bod a komunikace z A do B neprobíhá přímo, ale přes bod R. Bezdrátový spoj A → R → B se potom nazývá <strong>spoj s jednou retranslací</strong>.</p>
+<p>
+Retranslace mohou být někdy i několikanásobné, potřebujete-li např. vytvořit velmi dlouhý spoj, můžete zřetězit např. 3 retranslace (R, S, T) za sebou (víc už se v podstatě nedělá) a tak může komunikace jít postupně A → R → S → T → B.</p>
+<p>
+Aby to nebylo tak jednoduché, lze za určitých podmínek (které dále rozebereme) mít i různě větvenou retranslaci. Potřebujeme-li tedy spojit bod A s body B a C, ovšem tyto na sebe navzájem nevidí, ovšem vidí opět všechny na bod R, potom může komunikace probíhat i A → R → B,C.</p>
+<p>
+<strong>Způsoby retranslace </strong>se dají rozdělit nejsnadněji na:</p>
+
+<ul>
+<li>pasivní, </li>
+<li>aktivní. </li>
+</ul>
+<p>
+<strong>Pasivní retranslace </strong>využívá jen přesměrování či odrazu signálu (rozebereme dále) bez nějakého přidaného aktivního prvku, není třeba tedy žádného napájení atp., ovšem má mnohá omezení (nelze z tohoto místa &#8220;odebírat internet&#8221;, těžko se monitoruje, vyžaduje speciální podmínky atd.).</p>
+<p>
+<strong>Aktivní retranslace</strong> využívá aktivní prvek, který je de-facto další přístupový bod, ovšem bez klientů (respektive klienty jsou jen okolní přístupové body). Při určitých řešeních je možné připojovat na tento prvek zároveň i klienty, ale nebývá to optimální (vše rozvedu později)</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <p class="excerpt">
+                  
+                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule/">👉Umělointeligenční asistenti a&nbsp;pochybnosti nad existencí svobodné vůle</a>
+                <p class="excerpt">
+                  
+                    Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v n...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Chci bezdrátovou síť (6.1)&url=https://www.marigold.cz/item/chci-bezdratovou-sit-6-1/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/item/chci-bezdratovou-sit-6-1/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_posts/2004-12-14-chci-bezdratovou-sit-6-1.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/item/volne-it-telco-pozice/">&laquo; Volné IT/Telco pozice</a> |
+      
+      
+      
+        <a class="next" href="/item/spamujici-europoslanec/">Spamující Europoslanec?! &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vývoj síťové architektury 3GPP: Od GSM přes 3G a LTE k 5G Advanced | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Vývoj síťové architektury 3GPP: Od GSM přes 3G a LTE k 5G Advanced" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Pokud mají moderní mobilní sítě nabízet zrychlení, znamená to mimo jiné, že je potřeba zjednodušovat jejich architekturu, neboť vzájemná komunikace jednotlivých komponent generuje prodlevy, jež uživatelům nevyhovují. Zjednodušení architektury mobilní sítě je tedy hnacím motivem nových generací mobilních sítí." />
+<meta property="og:description" content="Pokud mají moderní mobilní sítě nabízet zrychlení, znamená to mimo jiné, že je potřeba zjednodušovat jejich architekturu, neboť vzájemná komunikace jednotlivých komponent generuje prodlevy, jež uživatelům nevyhovují. Zjednodušení architektury mobilní sítě je tedy hnacím motivem nových generací mobilních sítí." />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/mobilni-site-od-GSM-k-5G/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/mobilni-site-od-GSM-k-5G/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-16T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Vývoj síťové architektury 3GPP: Od GSM přes 3G a LTE k 5G Advanced" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-16T00:00:00+00:00","datePublished":"2024-12-16T00:00:00+00:00","description":"Pokud mají moderní mobilní sítě nabízet zrychlení, znamená to mimo jiné, že je potřeba zjednodušovat jejich architekturu, neboť vzájemná komunikace jednotlivých komponent generuje prodlevy, jež uživatelům nevyhovují. Zjednodušení architektury mobilní sítě je tedy hnacím motivem nových generací mobilních sítí.","headline":"Vývoj síťové architektury 3GPP: Od GSM přes 3G a LTE k 5G Advanced","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/mobilni-site-od-GSM-k-5G/"},"url":"https://www.marigold.cz/mobilnisite/mobilni-site-od-GSM-k-5G/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Pokud mají moderní mobilní sítě nabízet zrychlení, znamená to mimo jiné, že je potřeba zjednodušovat jejich architekturu, neboť vzájemná komunikace jednotlivých komponent generuje prodlevy, jež uživatelům nevyhovují. Zjednodušení architektury mobilní sítě je tedy hnacím motivem nových generací mobilních sítí.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Vývoj síťové architektury 3GPP: Od GSM přes 3G a LTE k 5G Advanced" />
+    <meta property="twitter:title" content="Vývoj síťové architektury 3GPP: Od GSM přes 3G a LTE k 5G Advanced" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/mobilni-site-od-GSM-k-5G/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Vývoj síťové architektury 3GPP: Od GSM přes 3G a LTE k 5G Advanced</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+16.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#5G">5G</a>
+        &nbsp;
+      
+        <a href="//rubrika/#5G-Advanced">5G-Advanced</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Pokud mají moderní mobilní sítě nabízet zrychlení, znamená to mimo jiné, že je potřeba zjednodušovat jejich architekturu, neboť vzájemná komunikace jednotlivých komponent generuje prodlevy, jež uživatelům nevyhovují. Zjednodušení architektury mobilní sítě je tedy hnacím motivem nových generací mobilních sítí.</p>
+
+<p>Pro ty, kdo se ve schématech sítí moc nepohybují: Funguje tu celá řada akronymů, zkratek, které se částečně překrývají. Například základnovým stanicím se říká v sítích GSM BTS, v sítích UMTS NodeB a v LTE sítích eNodeB. Důvod je prostý: odlišit, že jde o základnovou stanici pro konkrétní technologii, čímž je dána i její rozdílná funkčnost. Zatímco základnová stanice je obecně jakákoliv rádiová jednotka obstarávající komunikaci sítě s koncovým zařízením, NodeB je taková základnová stanice v síti UMTS/3G.</p>
+
+<p>Je také zřejmé, že pro komunikaci s BTS či NodeB se používají rozdílně značené protokoly zajišťující v případě NodeB zpětnou kompatibilitu, schopnost obsloužit uživatele starší technologie. Aby toto bylo v nákresech zřejmé, používají se i k popisu vlastně “stejné funkce” vykonávajících protokolů jiná označení. Do takového detailu ale nepůjdeme tam, kde to není pro pochopení fungování sítě nutné.</p>
+
+<p>Projekt 3GPP (3rd Generation Partnership Project) se zásadním způsobem podílel na utváření prostředí mobilních telekomunikací. Od svého založení v roce 1998 3GPP neustále vyvíjí své standardy, aby vyhověl stále rostoucím požadavkům na vyšší přenosové rychlosti, nižší latenci a vyšší kapacitu. Tento článek se zabývá technologickou proměnou síťové architektury 3GPP od verze 98 přes zavedení 3G, 4G (LTE) a 5G až po nejnovější 5G Advanced ve verzi 18. Zaměříme se na architektonické změny, nové síťové prvky, protokoly a zdůvodnění těchto konstrukčních rozhodnutí.</p>
+
+<p><strong>Přeskočit přehled obsahu rovnou na <a href="#3gpp-release-99-úsvit-3g">první Release 99 👇</a></strong></p>
+
+<p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#přehled-standardizace-3gpp" id="markdown-toc-přehled-standardizace-3gpp"><strong>Přehled standardizace 3GPP</strong></a></li>
+  <li><a href="#vývoj-nepozemských-sítí-v-rámci-3gpp" id="markdown-toc-vývoj-nepozemských-sítí-v-rámci-3gpp"><strong>Vývoj nepozemských sítí v rámci 3GPP</strong></a></li>
+  <li><a href="#3gpp-release-99-úsvit-3g" id="markdown-toc-3gpp-release-99-úsvit-3g"><strong>3GPP Release 99: Úsvit 3G</strong></a>    <ul>
+      <li><a href="#vývoj-jádra-sítě-core-network" id="markdown-toc-vývoj-jádra-sítě-core-network"><strong>Vývoj Jádra sítě (Core Network)</strong></a></li>
+      <li><a href="#technologie-a-protokoly-rádiového-přístupu" id="markdown-toc-technologie-a-protokoly-rádiového-přístupu"><strong>Technologie a protokoly rádiového přístupu</strong></a></li>
+      <li><a href="#další-vývoj-umts" id="markdown-toc-další-vývoj-umts"><strong>Další vývoj UMTS</strong></a></li>
+    </ul>
+  </li>
+  <li><a href="#verze-3gpp-release-8-vzestup-lte" id="markdown-toc-verze-3gpp-release-8-vzestup-lte"><strong>Verze 3GPP Release 8: Vzestup LTE</strong></a>    <ul>
+      <li><a href="#zploštění-síťové-architektury" id="markdown-toc-zploštění-síťové-architektury"><strong>Zploštění síťové architektury</strong></a></li>
+      <li><a href="#technologie-rádiového-přístupu" id="markdown-toc-technologie-rádiového-přístupu"><strong>Technologie rádiového přístupu</strong></a></li>
+      <li><a href="#alternativní-přístupy" id="markdown-toc-alternativní-přístupy"><strong>Alternativní přístupy</strong></a></li>
+    </ul>
+  </li>
+  <li><a href="#3gpp-verze-10-lte-advanced" id="markdown-toc-3gpp-verze-10-lte-advanced"><strong>3GPP verze 10: LTE-Advanced</strong></a>    <ul>
+      <li><a href="#agregace-nosných-sítí" id="markdown-toc-agregace-nosných-sítí"><strong>Agregace nosných sítí</strong></a></li>
+      <li><a href="#rozšířený-vícenásobný-přístup-v-horní-části-sítě" id="markdown-toc-rozšířený-vícenásobný-přístup-v-horní-části-sítě"><strong>Rozšířený vícenásobný přístup v horní části sítě</strong></a></li>
+      <li><a href="#nové-funkce" id="markdown-toc-nové-funkce"><strong>Nové funkce</strong></a></li>
+      <li><a href="#alternativní-přístupy-1" id="markdown-toc-alternativní-přístupy-1"><strong>Alternativní přístupy</strong></a></li>
+    </ul>
+  </li>
+  <li><a href="#3gpp-release-13-lte-advanced-pro" id="markdown-toc-3gpp-release-13-lte-advanced-pro"><strong>3GPP Release 13: LTE-Advanced Pro</strong></a>    <ul>
+      <li><a href="#klíčové-funkce-a-vylepšení" id="markdown-toc-klíčové-funkce-a-vylepšení"><strong>Klíčové funkce a vylepšení</strong></a></li>
+      <li><a href="#dopad-na-výkonnost-sítě" id="markdown-toc-dopad-na-výkonnost-sítě"><strong>Dopad na výkonnost sítě</strong></a></li>
+      <li><a href="#alternativní-přístupy-2" id="markdown-toc-alternativní-přístupy-2"><strong>Alternativní přístupy</strong></a></li>
+    </ul>
+  </li>
+  <li><a href="#3gpp-release-15-revoluce-5g" id="markdown-toc-3gpp-release-15-revoluce-5g"><strong>3GPP Release 15: Revoluce 5G</strong></a>    <ul>
+      <li><a href="#jádro-sítě-5g" id="markdown-toc-jádro-sítě-5g"><strong>Jádro sítě 5G</strong></a></li>
+      <li><a href="#frekvenční-rozsahy" id="markdown-toc-frekvenční-rozsahy"><strong>Frekvenční rozsahy</strong></a></li>
+      <li><a href="#klíčové-zásady-návrhu" id="markdown-toc-klíčové-zásady-návrhu"><strong>Klíčové zásady návrhu</strong></a></li>
+      <li><a href="#vylepšení-zabezpečení" id="markdown-toc-vylepšení-zabezpečení"><strong>Vylepšení zabezpečení</strong></a></li>
+      <li><a href="#architektura-cloud-ran" id="markdown-toc-architektura-cloud-ran"><strong>Architektura Cloud-RAN</strong></a></li>
+      <li><a href="#alternativní-přístupy-3" id="markdown-toc-alternativní-přístupy-3"><strong>Alternativní přístupy</strong></a></li>
+    </ul>
+  </li>
+  <li><a href="#3gpp-release-18-5g-advanced" id="markdown-toc-3gpp-release-18-5g-advanced"><strong>3GPP Release 18: 5G Advanced</strong></a>    <ul>
+      <li><a href="#klíčové-cíle" id="markdown-toc-klíčové-cíle"><strong>Klíčové cíle</strong></a></li>
+      <li><a href="#klíčové-funkce-a-vylepšení-1" id="markdown-toc-klíčové-funkce-a-vylepšení-1"><strong>Klíčové funkce a vylepšení</strong></a></li>
+      <li><a href="#časový-plán-vydání" id="markdown-toc-časový-plán-vydání"><strong>Časový plán vydání</strong></a></li>
+      <li><a href="#úspory-energie-v-síti" id="markdown-toc-úspory-energie-v-síti"><strong>Úspory energie v síti</strong></a></li>
+      <li><a href="#alternativní-přístupy-4" id="markdown-toc-alternativní-přístupy-4"><strong>Alternativní přístupy</strong></a></li>
+    </ul>
+  </li>
+  <li><a href="#důsledky-pro-budoucnost-mobilních-sítí-a-6g" id="markdown-toc-důsledky-pro-budoucnost-mobilních-sítí-a-6g"><strong>Důsledky pro budoucnost mobilních sítí a 6G</strong></a>    <ul>
+      <li><a href="#6g-a-dále" id="markdown-toc-6g-a-dále"><strong>6G a dále</strong></a></li>
+    </ul>
+  </li>
+  <li><a href="#shrnutí-toho-co-jsme-se-dozvěděli" id="markdown-toc-shrnutí-toho-co-jsme-se-dozvěděli"><strong>Shrnutí toho, co jsme se dozvěděli</strong></a></li>
+</ul>
+
+<h2 id="přehled-standardizace-3gpp"><strong>Přehled standardizace 3GPP</strong></h2>
+
+<p>Než se ponoříme do konkrétních verzí, je nezbytné porozumět procesu standardizace 3GPP. 3GPP se řídí fázovým přístupem, přičemž každá fáze se označuje jako „vydání“. Každá verze navazuje na předchozí, zavádí nové funkce a vylepšení a zároveň zachovává zpětnou kompatibilitu, kdykoli je to možné. To zajišťuje uživatelům a operátorům hladký přechod při modernizaci jejich sítí a zařízení.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Verze</th>
+      <th style="text-align: left">Vydáno</th>
+      <th style="text-align: left">Hlavní novinky</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Fáze 1</td>
+      <td style="text-align: left">1992</td>
+      <td style="text-align: left">Funkce GSM</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Fáze 2</td>
+      <td style="text-align: left">1995</td>
+      <td style="text-align: left">Funkce GSM, kodek EFR</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Vydání 96</td>
+      <td style="text-align: left">1. čtvrtletí 1997</td>
+      <td style="text-align: left">Funkce GSM, uživatelská datová rychlost 14,4 kbit/s</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Vydání 97</td>
+      <td style="text-align: left">1. čtvrtletí 1998</td>
+      <td style="text-align: left">Funkce GSM, GPRS</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Vydání 98</td>
+      <td style="text-align: left">1. čtvrtletí 1999</td>
+      <td style="text-align: left">Funkce GSM, kodek AMR, EDGE, GPRS pro PCS1900</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Vydání 99</td>
+      <td style="text-align: left">2000 Q1</td>
+      <td style="text-align: left">Specifikoval první sítě UMTS 3G, které obsahují rozhraní CDMA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Vydání 4</td>
+      <td style="text-align: left">2. čtvrtletí 2001…</td>
+      <td style="text-align: left">HSDPA</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">…</td>
+      <td style="text-align: left">…</td>
+      <td style="text-align: left">…</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Vydání 19</td>
+      <td style="text-align: left">4. čtvrtletí 2025</td>
+      <td style="text-align: left">5G-Advanced</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Sítě 2G a 3G měly velmi podobné schéma, v němž existovaly základnové stanice (nazývané BTS ve 2G nebo Node B u 3G) obsluhující jednotlivé oblasti zvané buňky a komunikující s mobilními uživateli. Odděleně od základnových stanic existovaly jim nadřízené řídící systémy zvané Radiové kontrolery (ve 2G se jmenovaly BSC, u 3G o RNC). Kontrolery (česky béescéčka nebo erencéčka) dohlížely na několik desítek nebo stovek základnových stanic, jejich provoz koordinovaly. Jejich hlavním úkolem byla rádiová koordinace, tedy přidělování a uvolňování rádiových kanálů, na které základnové stanice komunikují s uživatelem a řízení kmitočtové matice pro Frequency Hopping (technologii dynamické změny frekvence pro lepší využití frekvenčního spektra a zvýšení bezpečnosti). Dále BSC koordinovalo handovery a sdružovalo provoz z podřízené části sítě do ústředny mobilní sítě zvané MSC. Mimo jiné také až BSC provádělo šifrování a dešifrování přenosů.</p>
+
+<p>S příchodem paketového přenosu dat GPRS (sítě 2.5G) se do BSC přidala část zvaná PCU starající se o obsluhu paketových dat. S příchodem technologie EDGE (2.75G) se pak BSC rozrostlo ještě o TRU, tedy transceiver starající se o novou modulaci, jíž si povídal mobilní telefon se základnovou stanicí (8-PKS). Díky tomu se upgrade sítě 2G na EDGE provedl snadno a bezbolestně, protože zapotřebí byl jen upgrade na BSC, ačkoliv v Česku i tak některým operátorům tento upgrade trval.</p>
+
+<h2 id="vývoj-nepozemských-sítí-v-rámci-3gpp"><strong>Vývoj nepozemských sítí v rámci 3GPP</strong></h2>
+
+<p>Dalším důležitým aspektem standardizace 3GPP je integrace nepozemních sítí (NTN). NTN, jako jsou satelitní sítě, hrají klíčovou roli při rozšiřování mobilního pokrytí do vzdálených a nedostatečně obsluhovaných oblastí. 3GPP aktivně pracuje na začlenění NTN do svých norem a věnuje tomuto úsilí různé studie a pracovní body. <br />
+<a href="/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/">Nepozemské sítě NTN podrobněji rozebíráme zde</a>.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">REL</th>
+      <th style="text-align: left">Akronym</th>
+      <th style="text-align: left">Titul</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">REL-15</td>
+      <td style="text-align: left">FS_NR_nonterr_nw</td>
+      <td style="text-align: left">Studie o NR na podporu neterestrických sítí</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">REL-16</td>
+      <td style="text-align: left">FS_NR_NTN_solutions</td>
+      <td style="text-align: left">Studie o řešeních pro NR na podporu neterestrických sítí (NTN)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">REL-17</td>
+      <td style="text-align: left">NR_NTN_solutions</td>
+      <td style="text-align: left">Řešení pro NR na podporu neterestrických sítí (NTN)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">…</td>
+      <td style="text-align: left">…</td>
+      <td style="text-align: left">…</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Tyto snahy zdůrazňují význam NTN v budoucnosti mobilních sítí a závazek 3GPP poskytovat všudypřítomné připojení.</p>
+
+<h2 id="3gpp-release-99-úsvit-3g"><strong>3GPP Release 99: Úsvit 3G</strong></h2>
+
+<p>Release 99 znamenala významný milník v podobě zavedení sítí 3G, které jako technologii rádiového přístupu zahrnují širokopásmový vícenásobný přístup s kódovým dělením (WCDMA). Tento přechod z 2G na 3G si vyžádal změny v architektuře sítě, aby se přizpůsobila novým požadavkům služeb 3G.</p>
+
+<p>V sítích třetí generace se některé funkce přesunuly z kontrolérů (nově zvaných RNC) do základnových stanic NodeB. Část změn je dána tím, že v 3G se nepoužívá řízení přístupu po frekvencích a čase, ale podle kódů, takže všechny základnové stanice mohou vesele používat všechny frekvence. Tím si NodeB přebírají frekvenční řízení kompletně od RNC, hospodaří si s přidělenými frekvencemi a také provádějí mezifrekvenční handovery, což zvýšilo spolehlivost a snížilo prodlevu při handoverech. RNC provádí i staré činnosti, jakými je třeba vyhodnocování kvality signálu a příkazy k handoverům či se podílí na de/šifrování dat ze sítě.</p>
+
+<p>Na kontroleru RNC jsou také nové úlohy jako přidělování kódů používaných v kódovém sdílení přistupu do sítě (CDMA/WCDMA), což souvisí se změnou modulace z TDMA na CDMA.</p>
+
+<p>Tak vypadal záměr v nejstarším návrhu sítí UMTS, tedy evropského standardu 3G, dnes nejvíce používaného standardu. Tento standard se nazýval Release 99 podle roku 1999 kdy byl projednán, rovněž se kvůli kompatibilitě s dalším značením používá značení Release 3. Již další release ale záváděly další změny, většinou pravda v samotném jádře sítě.</p>
+
+<p>Ale již ve významné Release 5 (marketingově 3.5G) kvůli nové technologii rychlejšího stahování dat HSDPA došlo i na změny ve vztahu RNC a NodeB. NodeB přebírá kvůli zrychlení část funkcí od RNC, jde především o rozhodnutí znovu poslat chybně přenesená data nebo o přidělení jiného sdíleného kanálu. Pokud mobilní telefon přijal data, která byla vadná, nově mu data posílala NodeB, protože je zpravidla měla uložena ve vyrovnávací paměti, nemusela se posílat znovu přes RNC ze sítě. Podobně tomu bylo vůči technologii rychlého odesílání dat HSUPA z téže Release.</p>
+
+<p>V Release 6 došlo k sjednocení HSDPA a HSUPA do HSPA a ne, nešlo jen o přejmenování, ale podporu vzájemné koordinace obojího. Marketingově se tím dostáváme k pojmenování 3.75G. Pro nás významným mezníkem byla Release 7, která pro vylepšenou verzi HSPA+ odstranila z rádiové části sítě kontroler RNC - respektive jeho funkce přesunula do základnové stanice NodeB. Šlo o první experiment předcházející vzniku LTE.</p>
+
+<p>Architektuře UMTS sítí se <a href="/item/blaznuv-turbouvod-do-umts-jak-vypada-sit/">věnujeme podrobněji v tomto článku</a>.</p>
+
+<h3 id="vývoj-jádra-sítě-core-network"><strong>Vývoj Jádra sítě (Core Network)</strong></h3>
+
+<p>Verze 99 zavedla pozemní rádiovou přístupovou síť UMTS (UTRAN). UTRAN, nový typ přístupové sítě, byla navržena tak, aby podporovala vyšší přenosové rychlosti a nové nosné služby nabízené systémem WCDMA 3. Aby se minimalizoval dopad na jádro sítě, zaměřilo se 3GPP na přizpůsobení stávající infrastruktury jádra sítě GSM/GPRS4. To zahrnovalo vytvoření nového rozhraní mezi jádrem sítě a přístupovou sítí a modernizaci signalizace jádra sítě tak, aby využívala možností sítě UTRAN.</p>
+
+<p>Je důležité poznamenat, že v této době existovaly dvě architektury páteřní sítě definované ETSI a 3GPP: Release 99 a Release 4/5. Release 99, založená na platformě GPRS (General Packet Radio Service), umožnila operátorům využít jejich stávající investice do GPRS5. Naproti tomu verze 4/5 byla plně IP verzí páteřní sítě UMTS.</p>
+
+<p>V případě sítě 3G tak fakticky došlo oproti předchozí generaci ke zvýšení složitosti sítě tím, že síť byla rozdělena na paketovou a okruhově spínanou doménu, respektive toto rozdělení bylo uplatněno ve stejném čase i na sítě GSM. Postupem doby se standard UMTS pokoušel toto rozdělení překlenout sjednocením <a href="/item/turbouvod-do-umts-ims-aneb-ip-multimedia-subsystem/">pod systémem IMS</a>, nakonec se ale provoz okruhově spínaných technologií jevil natolik neperspektivní a vývoj přenosu hlasu po IP vrstvě natolik pokročil, že bylo možné v sítích 4G napříště uvažovat pouze o paketovém přenosu a všechny služby přenášet v něm. Tím řada sítí 3G okruhové spínání vůbec neimplementovala, resp operátor implementoval rovnou LTE, které se v té době označovalo jako 3.99G, aby se naznačilo, že ještě nejde o plnohodnotné 4G tak, jak jej předpokládala ITU.</p>
+
+<h3 id="technologie-a-protokoly-rádiového-přístupu"><strong>Technologie a protokoly rádiového přístupu</strong></h3>
+
+<p>Přechod na 3G přinesl také změny v architektuře protokolů rádiového rozhraní. Verze 99 zavedla nové transportní kanály a fyzické kanály pro podporu <a href="/item/turbouvod-do-umts-kapacita-cdma-a-par-shannonovych-kouzel">rádiového rozhraní WCDMA</a>. To zahrnovalo přidání vyhrazených transportních kanálů pro data s přepojováním okruhů i pro data s přepojováním paketů, což umožnilo současné připojení s různými požadavky na kvalitu.</p>
+
+<h3 id="další-vývoj-umts"><strong>Další vývoj UMTS</strong></h3>
+
+<p>Po vydání verze 99 pokračoval vývoj UMTS v dalších verzích. Verze 5 a 6 zavedly vysokorychlostní paketový přístup (HSPA), který výrazně zvýšil rychlost přenosu dat. Verze 7 dále vylepšila HSPA zavedením technologie HSPA+ (Evolved HSPA)6. Tyto pokroky v technologii 3G připravily půdu pro vývoj 4G LTE.</p>
+
+<h2 id="verze-3gpp-release-8-vzestup-lte"><strong>Verze 3GPP Release 8: Vzestup LTE</strong></h2>
+
+<p>Verze <a href="/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti">3GPP Release 8</a> zahájila éru 4G zavedením technologie Long Term Evolution (LTE). Cílem LTE bylo výrazně zvýšit kapacitu a rychlost sítě využitím nových technik digitálního zpracování signálu a modulací. Toto vydání přineslo zásadní změnu v architektuře sítě, která se posunula směrem ke zjednodušenému, plně IP systému se sníženou latencí.</p>
+
+<p>Asi nejmarkantnější jsou tedy následující odlišnosti mezi 3G a 4G</p>
+
+<ul>
+  <li>došlo k odstranění kontrolerů RNC/BSC - respektive jejich činnost byla přesunuda do eNodeB</li>
+  <li>všechny eNodeB mezi sebou mohou komunikovat pomocí standardního rozhraní X2, což je mimo jiné důsledek odstranění RNC, ale také možnost používat v síti základnové stanice různých výrobců. Dříve bylo potřeba je důsledně geograficky oddělovat, protože uměly komunikovat jen přes RNC stejného výrobce.</li>
+  <li>byly odstraněny všechny okruhově spínané služby, veškerý provoz je pouze packetový</li>
+  <li>všechny kanály se mohou využívat pro přenos dat, nejsou vyhrazeny řídící kanály.</li>
+  <li>díky tomu bylo zpřehledněno dosavadní Jádro sítě do podoby Evolved Packet Core (EPC), které může používat komerčně dostupné servery, ne specializovaný hardware.</li>
+</ul>
+
+<h3 id="zploštění-síťové-architektury"><strong>Zploštění síťové architektury</strong></h3>
+
+<p>Klíčovou architektonickou změnou verze 8 bylo zploštění struktury sítě. Předchozí architektura s více síťovými prvky (NodeB, RNC, SGSN, GGSN) byla nahrazena jednodušší architekturou se dvěma prvky8. Tato nová architektura se skládala z rozšířené základnové (uzlové) stanice (eNodeB) v rádiové síti a přístupové brány (a-GW) v páteřní síti8. Brána a-GW se dále skládala z jednotky pro správu mobility (Mobility Management Entity - MME) pro funkce řídicí roviny a z brány pro evoluci systémové architektury (System Architecture Evolution Gateway - SAE-GW) pro funkce uživatelské roviny8 . Tato plošší architektura vedla ke snížení latence a zlepšení výkonu koncových uživatelů8 .</p>
+
+<p>Kromě toho byly uzly Rel-6 (GGSN, SGSN a RNC) v LTE sloučeny do jediného uzlu nazvaného Access Core Gateway (ACGW)9 . Toto zjednodušení síťové architektury přispělo ke zvýšení efektivity a výkonnosti sítí LTE.</p>
+
+<h3 id="technologie-rádiového-přístupu"><strong>Technologie rádiového přístupu</strong></h3>
+
+<p>Verze 8 také zavedla ortogonální vícenásobný přístup s kmitočtovým dělením (OFDMA) v sestupném směru a vícenásobný přístup s jednou nosnou (SC-FDMA) ve vzestupném směru - <a href="/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax">detaily  máme zde</a>. Tyto nové technologie rádiového přístupu spolu s anténními schématy MIMO (Multiple-Input Multiple-Output) umožnily vyšší přenosové rychlosti a spektrální účinnost.</p>
+
+<h3 id="alternativní-přístupy"><strong>Alternativní přístupy</strong></h3>
+
+<p>Ačkoli pro LTE byly zvoleny <a href="/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax">OFDMA a SC-FDMA</a>, zvažovala se i jiná schémata vícenásobného přístupu. Hodnotila se například vícenásobný přístup s časovým dělením (TDMA) a vícenásobný přístup s kódovým dělením (CDMA). Nakonec však byly vybrány OFDMA a SC-FDMA kvůli jejich lepšímu výkonu z hlediska spektrální účinnosti a odolnosti vůči rušení.</p>
+
+<h2 id="3gpp-verze-10-lte-advanced"><strong>3GPP verze 10: LTE-Advanced</strong></h2>
+
+<p><a href="/mobilnisite/3gpp-release-10">Release 10</a> dále vylepšilo standard LTE zavedením LTE-Advanced. Cílem tohoto vydání bylo splnit požadavky na mezinárodní mobilní telekomunikace-Advanced (IMT-Advanced), které stanovily vyšší rychlost přenosu dat a vyšší spektrální účinnost10. Koncem roku 2009 byla oficiálně předložena ITU-T jako kandidátská technologie 4G.</p>
+
+<h3 id="agregace-nosných-sítí"><strong>Agregace nosných sítí</strong></h3>
+
+<p>Jedním z klíčových prvků verze 10 byla agregace nosných sítí. Tato technologie umožňovala agregaci více komponentních nosných, aby se vytvořila větší celková šířka přenosového pásma, což umožňovalo vyšší přenosové rychlosti12. Technologie LTE-Advanced podporovala šířku pásma až 100 MHz kombinací až pěti 20MHz komponentních nosných.</p>
+
+<h3 id="rozšířený-vícenásobný-přístup-v-horní-části-sítě"><strong>Rozšířený vícenásobný přístup v horní části sítě</strong></h3>
+
+<p>Verze 10 také zavedla vylepšený vícenásobný přístup na vzestupném kanálu se sdruženým SC-FDMA10. Tím se zlepšila spektrální účinnost a rychlost přenosu dat ve směru nahoru (při odesílání). Kromě toho tato verze zahrnovala podporu heterogenních sítí, které kombinují makrobuňky s malými buňkami pro zlepšení pokrytí a kapacity.</p>
+
+<h3 id="nové-funkce"><strong>Nové funkce</strong></h3>
+
+<p>Verze 10 zavedla několik nových funkcí pro zvýšení výkonu LTE:</p>
+
+<ul>
+  <li><strong>Carrier Aggregation:</strong> Jak již bylo zmíněno, agregace nosných sítí umožnila dosáhnout větší šířky pásma a vyšší rychlosti přenosu dat.</li>
+  <li><strong>Vylepšené techniky s více anténami (MIMO):</strong> To zahrnovalo podporu až osmi antén pro downlink a čtyř antén pro uplink, což umožnilo pokročilé techniky MIMO, jako je formování paprsku a prostorový multiplex.</li>
+  <li><strong>Podpora reléových uzlů:</strong> Byla zavedena podpora pro reléové uzly, aby bylo možné nákladově efektivním způsobem rozšířit pokrytí LTE.</li>
+</ul>
+
+<h3 id="alternativní-přístupy-1"><strong>Alternativní přístupy</strong></h3>
+
+<p>Ačkoli byla jako primární metoda pro zvýšení šířky pásma zvolena agregace nosné, byly zvažovány i další přístupy. Hodnotilo se například využití širších souvislých bloků spektra. Agregace nosných byla však upřednostněna díky své flexibilitě při využívání fragmentovaného spektra a schopnosti podporovat jak sousední, tak nesousední nosné.</p>
+
+<h2 id="3gpp-release-13-lte-advanced-pro"><strong>3GPP Release 13: LTE-Advanced Pro</strong></h2>
+
+<p>Verze 13, známá také jako LTE-Advanced Pro, se zaměřila na další zdokonalení LTE s cílem uspokojit rostoucí poptávku po vyšších rychlostech přenosu dat a lepším výkonu. V tomto vydání byla také dokončena první sada specifikací pokrývající kritické služby, zejména pro aplikace záchranných systémů a veřejné bezpečnosti.</p>
+
+<h3 id="klíčové-funkce-a-vylepšení"><strong>Klíčové funkce a vylepšení</strong></h3>
+
+<p>Verze 13 představila několik klíčových funkcí, včetně:</p>
+
+<ul>
+  <li><strong>Vylepšení agregace nosných sítí:</strong> Verze 13 rozšířila rámec agregace nosných sítí tak, aby podporoval až 32 komponentních nosných sítí, což výrazně zvýšilo dosažitelné rychlosti přenosu dat10 . Toto vylepšení řeší potřebu operátorů agregovat více operátorů, aby uspokojili rostoucí poptávku po datech.</li>
+  <li><strong>LTE v nelicencovaném spektru:</strong> Tato verze umožnila využití nelicencovaného spektra ke zvýšení rychlosti přenosu dat agregací primární buňky pracující v licencovaném spektru se sekundární buňkou pracující v nelicencovaném spektru16. Tento přístup umožnil operátorům využívat nelicencované spektrum a zároveň zajistit spravedlivou koexistenci s jinými technologiemi, jako je Wi-Fi.  <a href="/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu/">Detaily máme zde</a>.</li>
+  <li><strong>Vylepšení pro komunikaci strojového typu (MTC):</strong> Verze 13 zavedla novou kategorii UE s nízkou složitostí, která podporuje sníženou šířku pásma a spotřebu energie pro aplikace internetu věcí 10. Tím se řešila potřeba nákladově a energeticky efektivních řešení pro připojení velkého počtu zařízení internetu věcí.</li>
+  <li><strong>In-door určování polohy:</strong> Tato verze se zaměřila na zlepšení přesnosti určování polohy v objektech (in-door) vylepšením stávajících metod a zkoumáním nových technik určování polohy10 . Důvodem byla rostoucí poptávka po službách a aplikacích založených na určování polohy ve vnitřních prostorách.</li>
+</ul>
+
+<h3 id="dopad-na-výkonnost-sítě"><strong>Dopad na výkonnost sítě</strong></h3>
+
+<p>Verze 13 významně ovlivnila výkonnost sítě tím, že:</p>
+
+<ul>
+  <li><strong>Snížení nákladů na zařízení:</strong> Toho bylo dosaženo snížením špičkové rychlosti, požadavků na paměť a složitosti zařízení.</li>
+  <li><strong>Zlepšení výdrže baterie:</strong> Byly zavedeny funkce PSM a eDRX, které umožňují delší výdrž baterie u zařízení, která přenášejí malé objemy dat jen zřídka.</li>
+  <li><strong>Zlepšení pokrytí:</strong> Pokrytí bylo zlepšeno o 15 dB pro Cat-M a o 20 dB pro NB-IoT a GSM, což umožnilo širší venkovní pokrytí a lepší prostupnost signálu uvnitř budov.</li>
+</ul>
+
+<h3 id="alternativní-přístupy-2"><strong>Alternativní přístupy</strong></h3>
+
+<p>Přestože bylo zvoleno rozšíření agregace nosných na 32 CC, byly zvažovány i další alternativy. Hodnotilo se například zvýšení modulačního řádu nebo použití širších komponentních nosných. Rozšíření agregace nosných však bylo upřednostněno kvůli své škálovatelnosti a flexibilitě při využívání fragmentovaného spektra.</p>
+
+<h2 id="3gpp-release-15-revoluce-5g"><strong>3GPP Release 15: Revoluce 5G</strong></h2>
+
+<p>Verze 15 znamenala významný skok vpřed zavedením 5G New Radio (NR), nové technologie rádiového přístupu navržené tak, aby splňovala rozmanité požadavky služeb 5G. Technologie 5G NR přinesla zásadní změnu v architektuře sítě a umožnila vyšší přenosové rychlosti, nižší latenci a vyšší kapacitu.</p>
+
+<h3 id="jádro-sítě-5g"><strong>Jádro sítě 5G</strong></h3>
+
+<p>Jednou z klíčových architektonických změn ve verzi 15 bylo zavedení sítě <a href="/item/5G_Core/">5G Core (5GC)</a>. 5GC je cloudová architektura založená na službách, která ve srovnání s předchozí jádrovou sítí EPC poskytuje větší flexibilitu a škálovatelnost. 5GC podporuje network slicing, který umožňuje operátorům vytvářet na sdílené fyzické infrastruktuře více virtuálních sítí pro uspokojení různých požadavků na služby.</p>
+
+<p>Tento přechod na 5GC představuje přechod od hardwarově orientované k softwarově orientované síťové architektuře. Tento softwarově orientovaný přístup umožňuje větší flexibilitu, škálovatelnost a automatizaci, které jsou klíčové pro podporu různorodých požadavků služeb 5G.</p>
+
+<h3 id="frekvenční-rozsahy"><strong>Frekvenční rozsahy</strong></h3>
+
+<p>Verze 15 také zavedla dva frekvenční rozsahy pro 5G NR: frekvenční rozsah 1 (FR1) od 450 MHz do 7,125 GHz a frekvenční rozsah 2 (FR2) od 24,25 GHz do 52,6 GHz19. To umožnilo provozovat 5G NR v nižších i vyšších frekvenčních pásmech a zajistit rovnováhu mezi pokrytím a kapacitou. <a href="/item/5G_NR_New_Radio/">Podrobněji popisuji zde</a>.</p>
+
+<h3 id="klíčové-zásady-návrhu"><strong>Klíčové zásady návrhu</strong></h3>
+
+<p>Při návrhu 5G NR byly zohledněny tři klíčové zásady:</p>
+
+<ul>
+  <li><strong>Provoz na vyšších frekvencích a flexibilita spektra:</strong> Díky tomu může 5G NR pracovat v širším rozsahu frekvencí, včetně pásem mmWave, a podporovat tak vyšší rychlosti přenosu dat a kapacitu.</li>
+  <li><strong>Velmi štíhlá konstrukce:</strong> To minimalizuje neustále zapnutý přenos, zlepšuje energetickou účinnost a umožňuje vyšší přenosové rychlosti22.</li>
+  <li><strong>Dopředná kompatibilita:</strong> To zajišťuje, že se 5G NR může vyvíjet a přizpůsobovat budoucím požadavkům a technologiím.</li>
+</ul>
+
+<h3 id="vylepšení-zabezpečení"><strong>Vylepšení zabezpečení</strong></h3>
+
+<p>Verze 15 zavedla několik bezpečnostních funkcí pro zvýšení bezpečnosti sítí 5G:</p>
+
+<ul>
+  <li><strong>Vzájemné ověřování mezi zařízeními a sítí:</strong> To zabraňuje falešným základnovým stanicím vydávat se za skutečné.</li>
+  <li><strong>Skrytí trvalého identifikátoru:</strong> Chrání soukromí uživatelů tím, že skrývá trvalý identifikátor účastníka (SUPI) přes vzdušné rozhraní.</li>
+  <li><strong>SEcurity Protection Proxy (SEPP) pro roamingovou architekturu:</strong> To zvyšuje bezpečnost v roamingových scénářích ochranou proti útokům skrze propojení přes internet.</li>
+</ul>
+
+<h3 id="architektura-cloud-ran"><strong>Architektura Cloud-RAN</strong></h3>
+
+<p>Ve verzi 15 byla také zavedena <a href="/item/c-ran_vran_open_ran/">architektura Cloud-RAN (C-RAN)</a>. C-RAN centralizuje zpracování jednotek základního pásma (BBU) v cloudovém datovém centru, což umožňuje:</p>
+
+<ul>
+  <li><strong>sdružování a sdílení zdrojů:</strong> BBU lze sdílet a v případě potřeby vypnout, což snižuje náklady a zvyšuje efektivitu.</li>
+  <li><strong>Kooperativní rádiové techniky:</strong> C-RAN umožňuje <a href="/item/koordinovane-vicebodove-spojeni-v-lte/">koordinovaný vícebodový přenos (CoMP)</a>, který snižuje rušení a zvyšuje výkon.</li>
+</ul>
+
+<p>Síť C-RAN však přináší také výzvy, jako je potřeba vysokorychlostních, nízkozpožděných a přesně synchronizovaných sítí fronthaul pro připojení BBU a vzdálených rádiových hlavic (RRH).</p>
+
+<h3 id="alternativní-přístupy-3"><strong>Alternativní přístupy</strong></h3>
+
+<p>Přestože byla pro 5G zvolena architektura 5GC, byly zvažovány i jiné architektury páteřní sítě. Hodnotila se například evoluce stávajícího jádra sítě EPC. Nicméně 5GC byla upřednostněna díky svému cloudově nativnímu designu, architektuře založené na službách a podpoře network slicing, které poskytují větší flexibilitu a škálovatelnost pro služby 5G.</p>
+
+<h2 id="3gpp-release-18-5g-advanced"><strong>3GPP Release 18: 5G Advanced</strong></h2>
+
+<p>Verze <a href="/item/5G_advanced_3GPP_Release-18/">Release 18</a>, první verze 5G Advanced, staví na základech položených verzí 15 a zavádí další vylepšení systému 5G . Tato verze se zaměřuje na zlepšení efektivity sítě, latence, propustnosti a pokrytí, přičemž zvláštní důraz klade na případy použití v podnicích.</p>
+
+<h3 id="klíčové-cíle"><strong>Klíčové cíle</strong></h3>
+
+<p>Cílem 5G Advanced je:</p>
+
+<ul>
+  <li><strong>umožnit efektivnější zařízení a služby internetu věcí:</strong> To zahrnuje podporu zařízení s rozšířenou sníženou kapacitou (RedCap) a přenos malých dat.</li>
+  <li><strong>Rozšířit 5G prakticky na všechna zařízení a případy použití:</strong> To zahrnuje vylepšení stávajících technologií a zavedení nových technologií pro podporu širšího spektra aplikací a zařízení.</li>
+</ul>
+
+<h3 id="klíčové-funkce-a-vylepšení-1"><strong>Klíčové funkce a vylepšení</strong></h3>
+
+<p>Mezi klíčové funkce verze 18 patří např:</p>
+
+<ul>
+  <li><strong>Vylepšený RedCap</strong>: Tato verze vylepšuje zařízení se sníženou kapacitou (RedCap), která jsou navržena s ohledem na nižší složitost a náklady, takže jsou vhodná pro nasazení v oblasti internetu věcí.</li>
+  <li><strong>Umělá inteligence (AI) a strojové učení (ML):</strong> Vydání 18 zavádí techniky AI/ML na různých úrovních sítě s cílem zlepšit výkon a efektivitu sítě.</li>
+  <li><strong>Klíčové poznatky: V roce 2018 se v rámci projektu „Klíčové poznatky“ objevilo několik nových technologií, které se zaměřují na podporu a rozvoj sítí:</strong> AI/ML hraje klíčovou roli při optimalizaci výkonu a efektivity sítě v 5G Advanced. Využitím AI/ML se sítě mohou přizpůsobovat měnícím se vzorcům provozu, optimalizovat přidělování zdrojů a zlepšovat uživatelskou zkušenost.</li>
+  <li><strong>Vylepšení rozdělení sítě:</strong> Tato verze rozšiřuje možnosti slicingu sítě o podporu slicingu s více doménami a více poskytovateli, což poskytuje větší flexibilitu a škálovatelnost.</li>
+  <li><strong>Klíčové poznatky:</strong> Síťový slicing je v 5G a 5G Advanced stále důležitější. Umožňuje operátorům vytvářet přizpůsobené síťové řezy se specifickými výkonnostními charakteristikami, které splňují různorodé požadavky různých služeb a aplikací.</li>
+  <li><strong>Nezemské sítě (NTN):</strong> Verze 18 zavádí podporu NTN, jako je satelitní komunikace, pro rozšíření pokrytí 5G do vzdálených a nedostatečně obsluhovaných oblastí.</li>
+  <li><strong>Klíčový poznatek</strong>: Integrace NTN do 5G Advanced představuje výzvy i příležitosti. Může sice zajistit všudypřítomné pokrytí, ale zároveň vyžaduje řešení problémů, jako je latence, šíření signálu a nákladově efektivní nasazení.</li>
+</ul>
+
+<h3 id="časový-plán-vydání"><strong>Časový plán vydání</strong></h3>
+
+<p>Finalizace verze 18 byla prodloužena o tři měsíce, aby pracovní skupina 2 pro architekturu systému a služby (SA2) mohla dokončit některé definice funkcí. Konečná specifikace fáze 2 byla dokončena v červnu 2023, přičemž návrh protokolu byl dokončen do března 2024.</p>
+
+<h3 id="úspory-energie-v-síti"><strong>Úspory energie v síti</strong></h3>
+
+<p>Verze 18 klade velký důraz na úspory energie v síti. Důvodem jsou rostoucí náklady na energii, které se staly významnou součástí provozních nákladů sítě (OPEX), a potřeba dosáhnout cílů udržitelnosti.</p>
+
+<h3 id="alternativní-přístupy-4"><strong>Alternativní přístupy</strong></h3>
+
+<p>Ačkoli bylo vylepšení RedCapu zvoleným přístupem pro podporu zařízení IoT s nízkou složitostí, byly zvažovány i další alternativy. Hodnotilo se například zavedení nové technologie rádiového přístupu speciálně pro IoT. Vylepšení RedCapu však bylo upřednostněno kvůli jeho zpětné kompatibilitě se stávajícími nasazeními 5G NR a schopnosti využít stávající ekosystém 5G.</p>
+
+<h2 id="důsledky-pro-budoucnost-mobilních-sítí-a-6g"><strong>Důsledky pro budoucnost mobilních sítí a 6G</strong></h2>
+
+<p>Vývoj síťové architektury 3GPP má významné důsledky pro budoucnost mobilních sítí a vývoj 6G a dalších technologií. V budoucích generacích mobilních sítí bude pravděpodobně pokračovat trend směrem k softwarově orientovaným architekturám, network slicing a optimalizaci řízené AI/ML.</p>
+
+<h3 id="6g-a-dále"><strong>6G a dále</strong></h3>
+
+<p>Zatímco 5G Advanced se stále vyvíjí, výzkumné a vývojové úsilí pro 6G již probíhá. Předpokládá se, že 6G bude poskytovat ještě vyšší přenosové rychlosti, nižší latenci a větší kapacitu než 5G, a to díky potenciálním technologiím, jako jsou např:</p>
+
+<ul>
+  <li><strong>Terahertzová (THz) komunikace:</strong> To by mohlo umožnit extrémně vysoké rychlosti přenosu dat a nízkou latenci. O <a href="/item/nova-frekvenci-pasma-5g-6g/">nových frekvencích detailněji zde</a>.</li>
+  <li><strong>Inteligentní komunikační prostředí:</strong> Jedná se o využití umělé inteligence a pokročilého zpracování signálu k optimalizaci bezdrátového prostředí.</li>
+  <li><strong>Bezbuněčná architektura:</strong> To by mohlo zajistit rovnoměrnější pokrytí a kapacitu3.</li>
+</ul>
+
+<p>Tyto pokroky budou pravděpodobně vyžadovat další vývoj síťové architektury, aby podporovala nové schopnosti a požadavky 6G.</p>
+
+<h2 id="shrnutí-toho-co-jsme-se-dozvěděli"><strong>Shrnutí toho, co jsme se dozvěděli</strong></h2>
+
+<p>Vývoj síťové architektury 3GPP od verze 98 po verzi 18 byl veden potřebou podporovat stále se zvyšující rychlost přenosu dat, nižší latenci a větší kapacitu. Tento vývoj zahrnoval významné změny v páteřní síti, technologiích rádiového přístupu a celkové architektuře sítě.</p>
+
+<p>Mezi hlavní architektonické změny patří:</p>
+
+<ul>
+  <li><strong>Zploštění síťové architektury:</strong> To bylo zavedeno ve verzi 8 s LTE s cílem snížit latenci a zvýšit efektivitu.</li>
+  <li><strong>Přechod na softwarově orientovanou páteřní síť:</strong> Tento krok byl zaveden ve verzi 15 s 5G s cílem umožnit větší flexibilitu, škálovatelnost a automatizaci.</li>
+  <li><strong>Zavedení rozdělení sítě na části:</strong> To umožňuje operátorům vytvářet virtuální sítě na míru pro podporu různých požadavků na služby.</li>
+</ul>
+
+<p>Mezi nové technologie a protokoly, které ovlivnily vývoj, patří např:</p>
+
+<ul>
+  <li><strong>WCDMA</strong>: Zavedeno ve verzi 99 pro 3G.</li>
+  <li><strong>OFDMA a SC-FDMA</strong>: zavedeny ve verzi 8 pro 4G LTE.</li>
+  <li><strong>Agregace nosných sítí:</strong> Zavedena ve verzi 10 pro LTE-Advanced.</li>
+  <li><strong>5G NR:</strong> zavedena ve verzi 15 pro 5G.</li>
+  <li><strong>Techniky AI/ML:</strong> Zavedeny ve verzi 18 pro 5G Advanced.</li>
+</ul>
+
+<p>Mezi hnací faktory tohoto vývoje patří:</p>
+
+<ul>
+  <li><strong>Rostoucí poptávka po datech:</strong> Ta je stálým motorem vývoje mobilních sítí.</li>
+  <li><strong>Potřeba nižší latence:</strong> To je zásadní pro aplikace, jako jsou online hry a rozšířená realita.</li>
+  <li><strong>Poptávka po větší kapacitě:</strong> To je nezbytné pro podporu rostoucího počtu připojených zařízení.</li>
+  <li><strong>Zaměření na energetickou účinnost:</strong> Je to dáno rostoucími náklady na energii a cíli udržitelnosti.</li>
+</ul>
+
+<p>S dalším vývojem pokročilé sítě 5G a nástupem sítě 6G můžeme očekávat další pokroky v síťové architektuře. Tak si o nich dáme včas vědět. Pro celou historii vývoje mobilních sítí si projděte <a href="/mobilnisite">rubriku Mobilní sítě</a>.</p>
+
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <p class="excerpt">
+                  
+                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
+                <p class="excerpt">
+                  
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Vývoj síťové architektury 3GPP: Od GSM přes 3G a LTE k 5G Advanced&url=https://www.marigold.cz/mobilnisite/mobilni-site-od-GSM-k-5G/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/mobilni-site-od-GSM-k-5G/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2024-12-16-mobilni-site-od-GSM-k-5G.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/epc-evolved-packet-core-lte/">&laquo; Evolved Packet Core (EPC): Nové jádro sítě v LTE</a> |
+      
+      
+      
+        <a class="next" href="/mobilnisite/signalizace-v-mobilnich-sitich/">Signalizace v Mobilních Sítích: Od 2G po 5G &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

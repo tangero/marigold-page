@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Jak vytvořit správný prompt pro ChatGPT nebo Claude | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Jak vytvořit správný prompt pro ChatGPT nebo Claude" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Co konkrétně se v tomto článku dozvíte?" />
+<meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?" />
+<link rel="canonical" href="https://www.marigold.cz/ai/prompt/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/prompt/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-08T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Jak vytvořit správný prompt pro ChatGPT nebo Claude" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-07-08T00:00:00+00:00","datePublished":"2024-07-08T00:00:00+00:00","description":"Co konkrétně se v tomto článku dozvíte?","headline":"Jak vytvořit správný prompt pro ChatGPT nebo Claude","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/prompt/"},"url":"https://www.marigold.cz/ai/prompt/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Jak vytvořit správný prompt pro ChatGPT nebo Claude" />
+    <meta property="twitter:title" content="Jak vytvořit správný prompt pro ChatGPT nebo Claude" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/prompt/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Jak vytvořit správný prompt pro ChatGPT nebo Claude</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+8.
+červenec
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#délka-promptu-když-méně-znamená-více-ale-ne-vždy" id="markdown-toc-délka-promptu-když-méně-znamená-více-ale-ne-vždy">Délka promptu: Když méně znamená více (ale ne vždy)</a></li>
+  <li><a href="#co-by-měl-dobrý-prompt-obsahovat" id="markdown-toc-co-by-měl-dobrý-prompt-obsahovat">Co by měl dobrý prompt obsahovat?</a></li>
+  <li><a href="#tipy-pro-vytváření-super-promptů" id="markdown-toc-tipy-pro-vytváření-super-promptů">Tipy pro vytváření super promptů</a></li>
+  <li><a href="#konkrétní-příklady-promptů" id="markdown-toc-konkrétní-příklady-promptů">Konkrétní příklady promptů</a></li>
+  <li><a href="#tipy-na-závěr" id="markdown-toc-tipy-na-závěr">Tipy na závěr</a></li>
+</ul>
+
+<p>Vytváření dobrých promptů, tedy zadání pro AI chatboty jako je ChatGPT nebo Claude, není úplně velká věda. Stačí mít na paměti pár drobností a dosáhnete velmi dobrých výsledků, nevěřte tomu, že byste museli chodit na velká školení v “promptování”. K čemu by ostatně byla umělá inteligence, kdybyste pro její používání museli přepínat tu svoji. Na školení se spíše dozvíte aktuální rozsah schopností, načerpáte inspiraci - ale nebojte, není to nic, co by se nedalo dosáhnout samostudiem…</p>
+
+<p>Takže, jak správně promptovat?</p>
+
+<p>Jeden tip na začátek: buďte slušní. Sám na začátku seance (tj. při otevření nového chat okna) umělou inteligenci pozdravím, akorát teda musím přiznat, že Claude oslovuji jako ženu, já vím, že je pojmenovaná po americkém matematikovi Claude Shannonovi, ale stejně mám radši myšlenku, že mluvím s inteligentní dámou…</p>
+
+<h2 id="délka-promptu-když-méně-znamená-více-ale-ne-vždy">Délka promptu: Když méně znamená více (ale ne vždy)</h2>
+
+<p>Když přijde na délku promptu, neexistuje jedno univerzální pravidlo. Je to trochu jako s pohádkou o Zlatovlásce - nechcete prompt příliš krátký, ani příliš dlouhý, ale tak akorát. Obecně platí:</p>
+
+<ol>
+  <li>
+    <p><strong>Krátké prompty (1-2 věty):</strong> Skvělé pro jednoduché otázky nebo úkoly. Například: “Vysvětli mi, co je fotosyntéza, jako bych byl pětiletý.”</p>
+  </li>
+  <li>
+    <p><strong>Střední prompty (3-5 vět):</strong> Ideální pro složitější úkoly nebo když potřebujete poskytnout více kontextu. Třeba: “Jsem začínající programátor a chci vytvořit jednoduchou webovou stránku. Můžeš mi ukázat základní strukturu HTML pro stránku s nadpisem, odstavcem a obrázkem? Prosím, přidej krátké vysvětlení ke každému prvku.”</p>
+  </li>
+  <li>
+    <p><strong>Dlouhé prompty (6+ vět):</strong> Užitečné pro velmi specifické nebo komplexní úkoly. Například když popisujete celý projekt nebo potřebujete AI, aby převzala určitou roli.</p>
+  </li>
+</ol>
+
+<p>Pamatujte, že čím delší prompt, tím větší šance, že AI něco přehlédne nebo se zaměří na nesprávnou část. Zkuste být struční, ale zároveň poskytněte všechny důležité informace. A povšimněte si, že už v prvním promptu jsem dal umělé inteligenci praktické omezení, požádal jsem ji, aby fotosyntézu vysvětlila <em>pětiletému</em> - tedy přizpůsobila jazyk cílové skupině.</p>
+
+<h2 id="co-by-měl-dobrý-prompt-obsahovat">Co by měl dobrý prompt obsahovat?</h2>
+
+<ol>
+  <li>
+    <p><strong>Jasný cíl nebo otázku:</strong> Začněte tím, co přesně chcete. “Napiš mi báseň o jaru” je dobré, ale “Napiš mi haiku o prvních jarních květinách” je ještě lepší.</p>
+  </li>
+  <li>
+    <p><strong>Kontext:</strong> Pomůže AI lépe pochopit vaši situaci. Například: “Jsem učitel 5. třídy a připravuji hodinu o vesmíru.”</p>
+  </li>
+  <li>
+    <p><strong>Specifikace:</strong> Čím konkrétnější budete, tím lepší výsledek dostanete. Místo “Dej mi recept” zkuste “Dej mi recept na vegetariánské lasagne pro 4 osoby, které se dají připravit za 30 minut.”</p>
+  </li>
+  <li>
+    <p><strong>Formát výstupu:</strong> Řekněte AI, v jaké formě chcete odpověď. Třeba: “Odpověz ve formě odrážkového seznamu” nebo “Vysvětli to jako novinový článek.” Nebojte, když vám výstup nebude vyhovovat, můžete AI nechat to celé předělat, má to za pár vteřin.</p>
+  </li>
+  <li>
+    <p><strong>Omezení nebo preference:</strong> Máte nějaké specifické požadavky? Řekněte je! “Nepoužívej složitá odborná slova” či naopak “vysvětli to pomocí odborné terminologie” nebo “Zahrň alespoň tři příklady z reálného života.”</p>
+  </li>
+</ol>
+
+<p><img src="/assets/IMG_0109.jpeg" alt="Jak zkonsturovat dobrý propmpt" /></p>
+
+<p>Na obrázku vidíte příklad promptu, který obsahuje vše, s čím by AI měla pracovat a zároveň je stručný. Má ale skrytý zádrhel: pokud použijete málo natrénovaný model, který neměl dostatek rozličných dat, bude pro něj těžké vygenerovat dobrou odpověď, protože jde o velmi okrajové téma. Rozhodně bude potřeba výstup doladit…</p>
+
+<h2 id="tipy-pro-vytváření-super-promptů">Tipy pro vytváření super promptů</h2>
+
+<ol>
+  <li>
+    <p><strong>Buďte konkrétní, ale ne přehnaně:</strong> AI je chytrá, ale není čtenář myšlenek. Poskytněte dostatek informací, ale nezahlťte ji zbytečnými detaily.</p>
+  </li>
+  <li>
+    <p><strong>Používejte příklady:</strong> Když chcete určitý styl nebo formát, ukažte AI příklad. “Napiš mi příběh ve stylu Terryho Pratchetta” je skvělý začátek.</p>
+  </li>
+  <li>
+    <p><strong>Rozdělte složité úkoly:</strong> Místo jednoho obrovského promptu je často lepší rozdělit úkol na menší části. Je to jako když stavíte puzzle - začnete rohy a pak postupně skládáte zbytek. Například když chcete od umělé inteligence napsat delší text nebo článek, je vhodné úkol rozdělit a například nechat AI některé odstavce přepracovat či naopak doplnit nově.</p>
+  </li>
+  <li>
+    <p><strong>Nebojte se experimentovat:</strong> Každý prompt je příležitost k učení. Zkoušejte různé formulace a sledujte, co funguje nejlépe.</p>
+  </li>
+  <li>
+    <p><strong>Buďte zdvořilí, ale přímí:</strong> I když je AI program, trocha zdvořilosti nikdy neuškodí. Ale pamatujte, že nepotřebujete dlouhé úvody nebo vysvětlování - jděte rovnou k věci.</p>
+  </li>
+  <li>
+    <p><strong>Využívejte zpětnou vazbu:</strong> Pokud nejste s výsledkem spokojeni, řekněte AI, co přesně chcete změnit. Je to jako trénování pejska - čím jasnější pokyny, tím lepší výsledky.</p>
+  </li>
+  <li>
+    <p><strong>Omezování délky textu:</strong> Zadání typu “text napiš na 500 slov” mi fungují jen velmi přibližně. Rozhodně o desítky procent uletíte tam i zpět.</p>
+  </li>
+</ol>
+
+<h2 id="konkrétní-příklady-promptů">Konkrétní příklady promptů</h2>
+
+<p>Pokud AI používáte rutinně, asi už žádné příklady nepotřebujete, ale jestli s ní začínáte, můžete zde načerpat inspiraci o tom, co všechno vlastně AI dnes umožňuje a s čím vším vám může pomocí. Takže se nechte inspirovat :)</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Téma</th>
+      <th>Prompt pro AI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hloubkový rozbor tématu</td>
+      <td>“Jako expert na [téma] vysvětlete nejdůležitější koncepty a uveďte příklady z praxe pro jejich ilustraci. Poté mi dejte podrobný návod, jak toto téma zvládnout v příštích 30 dnech.”</td>
+    </tr>
+    <tr>
+      <td>Studijní plán</td>
+      <td>“Pomozte mi navrhnout personalizovaný studijní plán pro zvládnutí [předmětu]. Rozdělte ho na denní studijní úkoly, doporučené zdroje a praktická cvičení, která mohu dělat pro rozvoj svých dovedností.”</td>
+    </tr>
+    <tr>
+      <td>Výzva kritického myšlení</td>
+      <td>“Vyzvěte mě sérií otázek podněcujících k přemýšlení o [tématu]. Po každé otázce poskytněte zpětnou vazbu na mou odpověď a navrhněte, jak mohu zlepšit své kritické myšlení v tomto tématu.”</td>
+    </tr>
+    <tr>
+      <td>Sokratovský dialog</td>
+      <td>“Proveďte mě sokratovským dialogem o [konceptu]. Pokládejte otázky, které mi pomohou odhalit hlubší vrstvy této myšlenky a postupně zdokonalit mé porozumění.”</td>
+    </tr>
+    <tr>
+      <td>Přehled tématu</td>
+      <td>“Jsem nový v [tématu] a chtěl bych podrobný úvod. Prosím popište základní koncepty, jak to začalo, jeho vývoj v průběhu času a klíčové komponenty. Také zahrňte běžné využití nebo aplikace v dnešním světě.”</td>
+    </tr>
+    <tr>
+      <td>Shrnutí</td>
+      <td>“Dejte mi shrnutí a pak vypište klíčové body jednoduchým jazykem: &lt;vložte text/URL&gt;”</td>
+    </tr>
+    <tr>
+      <td>Rozhodování</td>
+      <td>“Můžete zvýraznit pro a proti <rozhodnutí> v tabulkovém formátu? Prosím zahrňte aspekty jako <faktory rozhodnutí="">"</faktory></rozhodnutí></td>
+    </tr>
+    <tr>
+      <td>Napsání životopisu od základu</td>
+      <td>“Napište životopis pro [pozici] ve [společnosti], [X] let zkušeností, 3-5 odrážek na roli a zahrňte 10 klíčových slov z popisu práce. Předchozí pozice: [Společnost A-Y roky, Společnost B-Z roky]. <Vložit popis="" práce="">"</Vložit></td>
+    </tr>
+    <tr>
+      <td>Organizace seznamu úkolů</td>
+      <td>“Vytvořte prioritizovaný seznam úkolů na dnešek, včetně úkolů souvisejících s [konkrétním projektem nebo cílem]”</td>
+    </tr>
+    <tr>
+      <td>Osobní rozvoj</td>
+      <td>“Poskytněte motivační a praktické rady, které mi pomohou zlepšit [konkrétní dovednost nebo oblast osobního rozvoje]”</td>
+    </tr>
+    <tr>
+      <td>Time management</td>
+      <td>“Poskytněte mi denní rozvrh nebo plán časových bloků pro optimalizaci mého pracovního dne, vyvažující úkoly a přestávky”</td>
+    </tr>
+    <tr>
+      <td>Řešení problémů</td>
+      <td>“Pomozte mi vymyslet řešení problému, kterému čelím v [popište problém nebo výzvu]”</td>
+    </tr>
+    <tr>
+      <td>Projektový management</td>
+      <td>“Jste zkušený projektový manažer. Zmiňuji podrobně problém, kterému čelíte, včetně kontextu. Řídím projekt s [stručný popis projektu]. Potřebuji vytvořit podrobný projektový plán. Můžete mi pomoct načrtnout plán s komplexním časovým harmonogramem, včetně klíčových milníků, úkolů a cílů pro příštích [časové období, např. 6 měsíců]? Prosím, zahrňte navrhované softwarové nástroje a metodologie, které by mohly být použity pro plánování a sledování. Chci, abyste [zmínil/a, jak chcete, aby byl výstup podrobný s příklady]!”</td>
+    </tr>
+    <tr>
+      <td>Identifikace klíčových silných stránek &amp; zkušeností</td>
+      <td>“Analyzujte mé resumé a zvýrazněte klíčové přenositelné dovednosti, silné stránky a zkušenosti, které odpovídají pracovním rolím na dálku. Uveďte příklady, jak jsou tyto dovednosti cenné v prostředí vzdálené práce.”</td>
+    </tr>
+    <tr>
+      <td>Výběr správné kariérní cesty</td>
+      <td>“Na základě mých dovedností, zkušeností a zájmů (uveďte detaily) navrhněte vhodné kariérní cesty a specifické role, které by měly být zváženy. Vysvětlete, proč jsou tyto role vhodné pro mě.”</td>
+    </tr>
+    <tr>
+      <td>Optimalizace životopisu</td>
+      <td>“Napište profesionální, pro práci na dálku optimalizovaný životopis ušitý na míru konkrétní roli/odvětví, zdůrazňující relevantní dovednosti jako samostatnost, time management a zkušenosti s nástroji pro vzdálenou práci (např. Zoom, Slack).”</td>
+    </tr>
+    <tr>
+      <td>Vytvoření průvodního dopisu</td>
+      <td>“Vytvořte poutavý průvodní dopis pro konkrétní pracovní pozici na dálku, který demonstruje mé kvalifikace, proč mě tato role zajímá a jak mohu při spolupráci nezávisle a efektivně přispět v online prostředí.”</td>
+    </tr>
+    <tr>
+      <td>Budování LinkedIn profilu</td>
+      <td>“Optimalizujte můj profil na LinkedIn tak, aby přitahoval pracovní příležitosti na dálku. Zahrňte návrhy na působivý nadpis, profesionální shrnutí, které zdůrazní mou adaptabilitu pro práci na dálku a klíčové dovednosti, které zvýší mé šance na úspěch.”</td>
+    </tr>
+    <tr>
+      <td>Hledání pracovních nabídek &amp; příležitostí</td>
+      <td>“Seznamte mě s top webovými platformami a místy, kde najdu pracovní příležitosti na dálku pro [konkrétní odvětví/role], a navrhněte efektivní strategie, jak tyto platformy využít k maximalizaci mých šancí na získání pracovní pozice.”</td>
+    </tr>
+    <tr>
+      <td>Přizpůsobení žádostí o zaměstnání</td>
+      <td>“Projděte tuto pracovní nabídku [konkrétní role] a pomozte mi upravit můj životopis a průvodní dopis tak, aby zdůraznily kvalifikace a zkušenosti, které nejlépe odpovídají požadavkům.”</td>
+    </tr>
+    <tr>
+      <td>Příprava na pohovory</td>
+      <td>“Poskytněte seznam běžných otázek u pohovorů pro práci na dálku v [konkrétním odvětví] a pomozte mi vytvořit podrobné, na práci orientované odpovědi, které zdůrazní mé dovednosti řešení problémů, komunikační schopnosti a zkušenosti s prací na dálku.”</td>
+    </tr>
+    <tr>
+      <td>Komunikace po pohovoru</td>
+      <td>“Pomozte mi vytvořit jasnou a přesvědčivou navazující odpověď na pohovor, kde poděkuji za možnost pracovat na dálku, zopakuji svůj zájem o tuto pozici, zmíním klíčové body, efektivně využiji čas a budu prospívat v online prostředí.”</td>
+    </tr>
+    <tr>
+      <td>Zvládání technických pohovorů</td>
+      <td>“Připravte mě na technický pohovor na konkrétní roli tím, že nastíníte klíčová témata, běžné technické otázky a praktické cvičení, které bych měl/a projít, abych prokázal/a své odborné znalosti relevantní pro tuto pozici.”</td>
+    </tr>
+    <tr>
+      <td>Následné kroky po pohovoru</td>
+      <td>“Napište profesionální následný e-mail po pohovoru na dálku, kde poděkujete oslovující osobě za její čas, vyjádříte nadšení pro danou roli a stručně zopakujete, jak se pro tuto pozici výtečně hodíte.”</td>
+    </tr>
+    <tr>
+      <td>Vyjednávání o platu a benefitech</td>
+      <td>“Pomozte mi vytvořit zdvořilou a profesionální vyjednávací strategii ohledně platu a benefitů pro nabídku práce na dálku, kde zvážíme faktory jako tržní standardy, vzdálená práce, má předchozí zkušenost a hodnota, kterou přináším společnosti.”</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="tipy-na-závěr">Tipy na závěr</h2>
+
+<p>V <em>ChatGPT</em> máte možnost (zatím v placené verzi) používat tzv. GPTs, “džípítýčka”. To jsou chaty zaměřené na nějakou oblast. Například, pokud chcete řešit nějaký matematický problém, najděte si Math Solver. Jde o předkonfigurované prompty zaměřené na konkrétní obor či odvětví. Dávají pro tento konkrétní problém lepší výsledek s menší námahou. Projděte si GPTs, abyste měli přehled, co všechno je v nabídce. Pravda je, že velké množství z nich se věnuje zpracování obrazu, ale řada z nich je přizpůsobena textovým promptům. V Claude GPTs existují jako Projekty, ale není možné je zveřejnit pro ostatní, jde jen o projekty pro vás.</p>
+
+<p>V <em>ChatGPT i Claude</em> máte možnost nahrát jako součást promptu textový dokument (zpravidla v PDF). Může pak sloužit jako kontextový vstup dat. Například, když chcete něco vysvětlit a víte, že tento text se problému důkladně věnuje, můžete text nahrát a pak si o něm povídat s AI. S jeho pomocí vám to lépe vysvětlí.</p>
+
+<p>A nezapomínejte: když nejste s výstupem spokojeni, zpřesněte zadání. AI není jasnovidec, je to s ním, jako s lidmi, zadání je potřeba dát ji dostatečně jasné, ale zároveň ji nezahltit detaily, pro které zapomene hlavní úkol zadání.</p>
+
+<p>Tak, a to je vše, přátelé! S těmito tipy budete brzy vytvářet prompty jako profesionálové. Pamatujte, že praxe dělá mistra. Čím víc budete s AI “mluvit”, tím lépe budete vědět, jak formulovat své požadavky. Tak se do toho pusťte a užijte si svou cestu světem umělé inteligence!</p>
+
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z&nbsp;nových odvětví na příkladu vzniku standardu GSM</a>
+                <p class="excerpt">
+                  
+                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost: příkopy, které si hloubíme sami</a>
+                <p class="excerpt">
+                  
+                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Jak vytvořit správný prompt pro ChatGPT nebo Claude&url=https://www.marigold.cz/ai/prompt/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/prompt/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2024-07-08-prompt.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/priklad-neuronove-site/">&laquo; Příklad fungování neuronové sítě</a> |
+      
+      
+      
+        <a class="next" href="/ai/priklady-promptu/">Příklady zajímavých promptů pro umělou inteligenci &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Orthogonal Frequency Division Multiple Access (OFDMA) | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Orthogonal Frequency Division Multiple Access (OFDMA)" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Co konkrétně se v tomto článku dozvíte?" />
+<meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?" />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/ofdma/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/ofdma/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-11-25T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Orthogonal Frequency Division Multiple Access (OFDMA)" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-11-25T00:00:00+00:00","datePublished":"2024-11-25T00:00:00+00:00","description":"Co konkrétně se v tomto článku dozvíte?","headline":"Orthogonal Frequency Division Multiple Access (OFDMA)","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/ofdma/"},"url":"https://www.marigold.cz/mobilnisite/ofdma/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Orthogonal Frequency Division Multiple Access (OFDMA)" />
+    <meta property="twitter:title" content="Orthogonal Frequency Division Multiple Access (OFDMA)" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/ofdma/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Orthogonal Frequency Division Multiple Access (OFDMA)</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+25.
+listopad
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#LTE">LTE</a>
+        &nbsp;
+      
+        <a href="//rubrika/#4G">4G</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#výhody-a-nevýhody-ofdma" id="markdown-toc-výhody-a-nevýhody-ofdma">Výhody a nevýhody OFDMA</a>    <ul>
+      <li><a href="#výhody-ofdma" id="markdown-toc-výhody-ofdma">Výhody OFDMA</a></li>
+      <li><a href="#nevýhody-ofdma" id="markdown-toc-nevýhody-ofdma">Nevýhody OFDMA</a></li>
+    </ul>
+  </li>
+  <li><a href="#rozdíl-mezi-ofdm-a-ofdma" id="markdown-toc-rozdíl-mezi-ofdm-a-ofdma">Rozdíl mezi OFDM a OFDMA</a></li>
+</ul>
+
+<p>OFDMA (Orthogonal Frequency Division Multiple Access) představuje sofistikovaný způsob, jak umožnit více uživatelům sdílet společné frekvenční pásmo. Tato technologie vychází z principu ortogonálního frekvenčního multiplexu (OFDM) a rozšiřuje jej o možnost vícenásobného přístupu.</p>
+
+<p>Základním stavebním kamenem OFDMA je rozdělení širokého frekvenčního pásma na velké množství úzkých subkanálů, nazývaných subnosné. Klíčovou vlastností těchto subnosných je jejich vzájemná ortogonalita - to znamená, že jsou matematicky navrženy tak, aby se navzájem minimálně ovlivňovaly. Konkrétně to funguje tak, že když jedna subnosná dosahuje svého spektrálního maxima, ostatní subnosné mají v tomto bodě nulovou hodnotu. Toto elegantní matematické řešení umožňuje umístit subnosné velmi blízko sebe, aniž by docházelo k vzájemnému rušení.</p>
+
+<p><img src="/assets/ofdma-nakres.png" alt="OFDMA" /></p>
+
+<p>V praxi OFDMA funguje tak, že dostupné subnosné jsou dynamicky přidělovány různým uživatelům. Každý uživatel tedy získá určitou část frekvenčního spektra, kterou může využít pro přenos svých dat. Toto přidělování může být buď statické (pevně dané), nebo častěji dynamické, kdy se alokace subnosných mění podle aktuálních podmínek kanálu a požadavků na přenos.</p>
+
+<p>Zpracování signálu v OFDMA probíhá v několika krocích:</p>
+
+<ol>
+  <li>Na vysílací straně:
+    <ul>
+      <li>Data jednotlivých uživatelů jsou nejprve digitálně modulována (typicky pomocí QPSK nebo QAM)</li>
+      <li>Modulovaná data jsou mapována na přidělené subnosné</li>
+      <li>Provádí se inverzní rychlá Fourierova transformace (IFFT), která převádí signál z frekvenční do časové oblasti</li>
+      <li>Přidává se cyklický prefix, který chrání před mezisymbolovými interferencemi</li>
+      <li>Výsledný signál je převeden do analogové formy a vyslán</li>
+    </ul>
+  </li>
+  <li>Na přijímací straně:
+    <ul>
+      <li>Přijatý analogový signál je digitalizován</li>
+      <li>Odstraní se cyklický prefix</li>
+      <li>Pomocí rychlé Fourierovy transformace (FFT) se signál převede zpět do frekvenční oblasti</li>
+      <li>Data jsou demapována z příslušných subnosných</li>
+      <li>Každý uživatel získá svá specifická data z jemu přidělených subnosných</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="výhody-a-nevýhody-ofdma">Výhody a nevýhody OFDMA</h2>
+
+<p>OFDMA přináší několik významných výhod:</p>
+<ul>
+  <li>Vysokou spektrální účinnost díky těsnému uspořádání subnosných</li>
+  <li>Odolnost vůči vícecestnému šíření signálu</li>
+  <li>Flexibilitu při přidělování prostředků různým uživatelům</li>
+  <li>Možnost adaptivního přidělování subnosných podle kvality kanálu</li>
+</ul>
+
+<p>Podívejme se na srovnání s předchozími technologiemi podrobnějí.</p>
+
+<p>Porovnám OFDMA s předchozími přístupovými metodami (zejména TDMA - časový multiplex, FDMA - frekvenční multiplex a CDMA - kódový multiplex) a vysvětlím jejich výhody a nevýhody:</p>
+
+<h3 id="výhody-ofdma">Výhody OFDMA</h3>
+
+<ol>
+  <li>Spektrální účinnost
+    <ul>
+      <li>Díky ortogonalitě subnosných mohou být frekvence umístěny velmi blízko sebe</li>
+      <li>Efektivnější využití dostupného spektra než u klasického FDMA</li>
+      <li>Možnost adaptivního přidělování subnosných podle kvality kanálu</li>
+    </ul>
+  </li>
+  <li>Odolnost proti rušení
+    <ul>
+      <li>Vysoká odolnost vůči vícecestnému šíření díky cyklickému prefixu</li>
+      <li>Možnost vynechání poškozených subnosných</li>
+      <li>Lepší odolnost proti úzkopásmovému rušení než CDMA</li>
+    </ul>
+  </li>
+  <li>Flexibilita
+    <ul>
+      <li>Dynamické přidělování zdrojů podle potřeb uživatelů</li>
+      <li>Možnost různých modulačních schémat pro různé subnosné</li>
+      <li>Snadná adaptace na různé šířky pásma</li>
+    </ul>
+  </li>
+  <li>Implementace
+    <ul>
+      <li>Efektivní implementace pomocí FFT/IFFT</li>
+      <li>Jednodušší ekvalizace kanálu než u CDMA</li>
+      <li>Možnost využití MIMO technologií</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="nevýhody-ofdma">Nevýhody OFDMA</h3>
+
+<ol>
+  <li>Technické výzvy
+    <ul>
+      <li>Vysoká citlivost na frekvenční offset</li>
+      <li>Problém vysokého poměru špičkového k průměrnému výkonu (PAPR)</li>
+      <li>Nutnost přesné časové synchronizace</li>
+    </ul>
+  </li>
+  <li>Komplexnost systému
+    <ul>
+      <li>Složitější hardwarová implementace než u jednodušších metod jako TDMA</li>
+      <li>Vyšší výpočetní náročnost</li>
+      <li>Potřeba sofistikovaných algoritmů pro alokaci zdrojů</li>
+    </ul>
+  </li>
+  <li>Režie
+    <ul>
+      <li>Nutnost přenosu pilotních signálů pro odhad kanálu</li>
+      <li>Overhead způsobený cyklickým prefixem</li>
+      <li>Potřeba signalizace pro dynamickou alokaci zdrojů</li>
+    </ul>
+  </li>
+  <li>Energetická účinnost
+    <ul>
+      <li>Vyšší spotřeba energie kvůli PAPR</li>
+      <li>Náročnější požadavky na zesilovače</li>
+      <li>Složitější energeticky efektivní implementace pro mobilní zařízení</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Porovnání s předchozími technologiemi:</p>
+
+<p>TDMA:</p>
+<ul>
+  <li>Jednodušší implementace</li>
+  <li>Nižší spotřeba energie</li>
+  <li>Neefektivní využití spektra</li>
+  <li>Vyšší latence</li>
+</ul>
+
+<p>FDMA:</p>
+<ul>
+  <li>Jednoduchá implementace</li>
+  <li>Nízká latence</li>
+  <li>Neefektivní využití spektra</li>
+  <li>Pevné přidělení pásma</li>
+</ul>
+
+<p>CDMA:</p>
+<ul>
+  <li>Dobrá bezpečnost</li>
+  <li>Odolnost proti rušení</li>
+  <li>Složitá kontrola výkonu</li>
+  <li>Interference mezi uživateli</li>
+</ul>
+
+<p>OFDMA představuje kompromis, který nabízí:</p>
+<ul>
+  <li>Lepší spektrální účinnost než předchozí technologie</li>
+  <li>Vyšší flexibilitu při přidělování zdrojů</li>
+  <li>Lepší škálovatelnost pro vysokorychlostní přenosy</li>
+  <li>Efektivnější podporu různých kvalit služeb (QoS)</li>
+</ul>
+
+<p>Tyto vlastnosti činí z OFDMA základní technologii pro současné mobilní sítě. Zároveň slouží jako výchozí bod pro vývoj pokročilejších přístupových metod, jako jsou NOMA nebo SCMA, které dále zvyšují spektrální účinnost tím, že umožňují sdílení stejných frekvenčních zdrojů více uživateli současně.</p>
+
+<h2 id="rozdíl-mezi-ofdm-a-ofdma">Rozdíl mezi OFDM a OFDMA</h2>
+
+<p>Občas se to trochu plete. Jaký je rozdíl mezi OFDM (Orthogonal Frequency Division Multiplexing) a OFDMA (Orthogonal Frequency Division Multiple Access)? V tom slovíčku Access hlavně: jsou to příbuzné technologie, které sdílejí základní principy ortogonálního frekvenčního multiplexu, ale liší se zásadním způsobem.</p>
+
+<p><strong>OFDM je primárně modulační technika navržená pro jediného uživatele.</strong> V systému využívajícím OFDM jsou všechny dostupné subnosné v daném časovém okamžiku přiděleny výhradně jednomu uživateli, který tak využívá celé dostupné frekvenční pásmo. Hlavním cílem OFDM je řešení problému vícecestného šíření a mezisymbolových interferencí. Tato technologie se typicky používá v aplikacích jako je WiFi nebo digitální rozhlasové vysílání, kde v daném okamžiku komunikuje jeden vysílač s jedním nebo více přijímači.</p>
+
+<p>Naproti tomu <strong>OFDMA představuje pokročilejší přístupovou metodu, která rozšiřuje koncept OFDM pro víceuživatelský přístup</strong>. V OFDMA systému mohou být dostupné subnosné dynamicky přidělovány různým uživatelům, přičemž každý uživatel dostává pouze určitou podmnožinu všech dostupných subnosných. Toto umožňuje efektivní současný přístup více uživatelů k přenosovému médiu.</p>
+
+<p>Tento základní rozdíl v přístupu vede k několika důležitým důsledkům. OFDMA nabízí výrazně vyšší flexibilitu v přidělování rádiových zdrojů, ale za cenu složitější implementace, která musí zahrnovat sofistikované mechanismy pro správu a přidělování zdrojů více uživatelům současně. Systém musí rozhodovat nejen o tom, které subnosné přidělit kterému uživateli, ale také optimalizovat toto přidělování v čase podle měnících se podmínek kanálu a požadavků na kvalitu služby.</p>
+
+<p>OFDMA také nabízí lepší škálovatelnost pro systémy s velkým počtem uživatelů, což je jeden z důvodů, proč se tato technologie stala základem moderních mobilních sítí, včetně 4G LTE a 5G. Zatímco OFDM je omezen na obsluhu jednoho uživatele v daném časovém okamžiku, OFDMA dokáže efektivně obsluhovat mnoho uživatelů současně, což je klíčové pro moderní mobilní komunikační systémy.</p>
+
+<p>Z hlediska implementace je OFDM jednodušší, protože nevyžaduje komplexní mechanismy pro správu více uživatelů. OFDMA naopak vyžaduje složitější řídicí mechanismy, ale nabízí za to větší flexibilitu a efektivitu při využívání spektra. Tato technologie se proto stala základním stavebním kamenem moderních bezdrátových komunikačních systémů, kde je potřeba efektivně obsluhovat velké množství uživatelů s různými požadavky na přenosovou kapacitu a kvalitu služby.</p>
+
+<p><strong>👉 Přehled nových přístupů k multiplexování:</strong> \</p>
+<ul>
+  <li><a href="/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/">Non-Orthogonal Multiple Access (NOMA)</a></li>
+  <li><a href="/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/">Rate-Splitting Multiple Access (RSMA)</a></li>
+  <li><a href="/mobilnisite/Sparse-Code-Multiple-Access-SCMA/">Sparse Code Multiple Access (SCMA)</a></li>
+  <li>další <a href="/mobilnisite/pokrocile-multiplexovani/">experimentální přístupy k multiplexování</a></li>
+  <li>a pro pořádek povídání o tom, <a href="/mobilnisite/ofdma">jak funguje OFDMA</a></li>
+</ul>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <p class="excerpt">
+                  
+                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
+                <p class="excerpt">
+                  
+                    
+Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůli t...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Orthogonal Frequency Division Multiple Access (OFDMA)&url=https://www.marigold.cz/mobilnisite/ofdma/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/ofdma/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2024-11-25-ofdma.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/Sparse-Code-Multiple-Access-SCMA/">&laquo; Sparse Code Multiple Access (SCMA)</a> |
+      
+      
+      
+        <a class="next" href="/mobilnisite/3gpp-release-19/">3GPP Release 19 jako další krok v 5G-Advanced &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

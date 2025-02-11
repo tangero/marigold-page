@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Příklad fungování neuronové sítě | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Příklad fungování neuronové sítě" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Možná vám to s těmi neuronovými sítěmi není pořád moc jasné. Tak si to ukážeme na příkladu, dosti jednoduchém. Mějme matici 2x2 body a snažme se pomocí neuronové sítě identifikovat, zda je v matici nakreslený znak / nebo \ - tedy normální a zpětné lomítko. Ponechme samozřejmě stranou, že na tuto úlohu je neuronová síť kanon na vrabce, k tomu si řekneme něco na závěr…" />
+<meta property="og:description" content="Možná vám to s těmi neuronovými sítěmi není pořád moc jasné. Tak si to ukážeme na příkladu, dosti jednoduchém. Mějme matici 2x2 body a snažme se pomocí neuronové sítě identifikovat, zda je v matici nakreslený znak / nebo \ - tedy normální a zpětné lomítko. Ponechme samozřejmě stranou, že na tuto úlohu je neuronová síť kanon na vrabce, k tomu si řekneme něco na závěr…" />
+<link rel="canonical" href="https://www.marigold.cz/ai/priklad-neuronove-site/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/priklad-neuronove-site/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-06T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Příklad fungování neuronové sítě" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-07-06T00:00:00+00:00","datePublished":"2024-07-06T00:00:00+00:00","description":"Možná vám to s těmi neuronovými sítěmi není pořád moc jasné. Tak si to ukážeme na příkladu, dosti jednoduchém. Mějme matici 2x2 body a snažme se pomocí neuronové sítě identifikovat, zda je v matici nakreslený znak / nebo \\ - tedy normální a zpětné lomítko. Ponechme samozřejmě stranou, že na tuto úlohu je neuronová síť kanon na vrabce, k tomu si řekneme něco na závěr…","headline":"Příklad fungování neuronové sítě","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/priklad-neuronove-site/"},"url":"https://www.marigold.cz/ai/priklad-neuronove-site/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Možná vám to s těmi neuronovými sítěmi není pořád moc jasné. Tak si to ukážeme na příkladu, dosti jednoduchém. Mějme matici 2x2 body a snažme se pomocí neuronové sítě identifikovat, zda je v matici nakreslený znak / nebo \ - tedy normální a zpětné lomítko. Ponechme samozřejmě stranou, že na tuto úlohu je neuronová síť kanon na vrabce, k tomu si řekneme něco na závěr…
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Příklad fungování neuronové sítě" />
+    <meta property="twitter:title" content="Příklad fungování neuronové sítě" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/priklad-neuronove-site/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Příklad fungování neuronové sítě</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+6.
+červenec
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Možná vám to s těmi neuronovými sítěmi není pořád moc jasné. Tak si to ukážeme na příkladu, dosti jednoduchém. Mějme matici 2x2 body a snažme se pomocí neuronové sítě identifikovat, zda je v matici nakreslený znak / nebo \ - tedy normální a zpětné lomítko. Ponechme samozřejmě stranou, že na tuto úlohu je neuronová síť kanon na vrabce, k tomu si řekneme něco na závěr…</p>
+
+<p><img src="/assets/lomitko-matice2x2.jpg" alt="Grafická reprezentace lomítka" /></p>
+
+<p>Tento obrázek znaku “/” v matici 2x2 body ilustruje, jak jsou hodnoty 0 a 1 použity k reprezentaci znaku a jak je tedy použijeme k tokenizaci:</p>
+<ul>
+  <li>Hodnota 1 označuje černý pixel.</li>
+  <li>Hodnota 0 označuje bílý pixel.</li>
+</ul>
+
+<p>Ve výsledné matici zápis vypadá takto.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[0, 1]
+[1, 0]
+</code></pre></div></div>
+
+<p>Nyní ho převedeme na jednorozměrné pole, čili dáme řádky za sebe: <code class="language-plaintext highlighter-rouge">[1, 0, 0, 1]</code>.</p>
+
+<p>Nyní máme tedy vstupní data reprezentovaná čtveřicí čísel a tato data pošleme do neuronové sítě. Tu jsme si navrhli následovně:</p>
+
+<p><img src="/assets/neuronovasit-priklad.png" alt="Příklad naší neuronové sítě" /></p>
+
+<p><strong>1.	Vstupní vrstva:</strong></p>
+<ul>
+  <li>Neurony <em>I1</em>, <em>I2</em>, <em>I3</em>, <em>I4</em> reprezentují jednotlivé pixely matice 2x2, tedy máme čtyři vstupní neurony.</li>
+  <li>Pro znak “/” má vstupní pole hodnoty  <code class="language-plaintext highlighter-rouge">[0, 1, 1, 0]</code> - to tedy pouštíme do neuronky v prvním vstupu.</li>
+</ul>
+
+<p><strong>2.	Skrytá vrstva:</strong></p>
+<ul>
+  <li>Neurony <em>H1</em> a <em>H2</em> přijímají vstupy od všech čtyř neuronů z vstupní vrstvy.</li>
+  <li>Váhy a biasy určují, jak se tyto vstupy kombinují.</li>
+</ul>
+
+<p><strong>3.	Výstupní vrstva:</strong></p>
+<ul>
+  <li>Neurony <em>O1</em> a <em>O2</em> přijímají vstupy od neuronů <em>H1</em> a <em>H2</em>.</li>
+  <li>Neuron <em>O1</em> může reprezentovat pravděpodobnost, že znak je “/”, a neuron <em>O2</em> pravděpodobnost, že znak je “\”.</li>
+</ul>
+
+<p><strong>Proč jsme použili dva neurony ve skryté vrstvě?</strong> V neuronových sítích, zejména v těch s více vrstvami <em>(deep neural networks)</em>, jsou skryté vrstvy klíčové pro schopnost sítě učit se složité vzory a reprezentace. Počet neuronů ve skryté vrstvě je důležitým faktorem, který ovlivňuje výkonnost sítě. V tomto konkrétním příkladu jsme použili dva neurony ve skryté vrstvě, aby byla ilustrace jednoduchá a přehledná, a zároveň aby bylo možné zachytit více informací z vstupních dat. Odpovídá to dvěma očekávaným možnostem vstupu :)</p>
+
+<p>V dalším kroku provedeme Dopředný průchod přes skrytou vrstvu. Každé číslo z neuronu označeného I dorazí do neuronu označeného H po směru šipek. A na každém neuronu je provedena s přicházejícím číslem matematická operace, takzvaná aktivace. Každý neuron ve skryté vrstvě přijímá vstupy od všech 4 neuronů ve vstupní vrstvě. Pro jednoduchost uvážíme následující náhodně inicializované váhy a biasy:</p>
+
+<p>Neuron 1 ve skryté vrstvě:</p>
+<ul>
+  <li>Váhy:  W_1 = [0.2, -0.3, 0.4, 0.1]</li>
+  <li>Bias:  b_1 = 0.1</li>
+</ul>
+
+<p>Neuron 2 ve skryté vrstvě:</p>
+<ul>
+  <li>Váhy:  W_2 = [-0.1, 0.5, -0.4, 0.2]</li>
+  <li>Bias:  b_2 = -0.2</li>
+</ul>
+
+<p><strong>Bias (česky Posun)</strong> je parametr v neuronové síti, který se přidává k váženému součtu vstupů před aplikací aktivační funkce. Bias umožňuje modelu lépe přizpůsobit se datům a zajišťuje, že neurony mohou modelovat posun dat od počátku osy (originu). Bias funguje podobně jako absolutní člen v lineární rovnici. V neuronové síti pomáhá posunout aktivační funkci neuronu nahoru nebo dolů, což umožňuje lepší modelování dat. Bias se přidává k váženému součtu vstupů, což umožňuje neuronu aktivovat se, i když jsou všechny vstupy nulové.</p>
+
+<p><strong>Váhy (weights)</strong> jsou klíčovými parametry v neuronové síti, které určují sílu spojení mezi jednotlivými neurony. Váhy násobí vstupní signály před tím, než se tyto signály sečtou a přidá se k nim bias. Poté se výsledek přenese k aktivační funkci neuronu. Váhy určují, jak silně každý vstupní signál ovlivňuje výstup neuronu.</p>
+
+<p><strong><em>Kontrolní otázka</em></strong>: kde se vzala tato čísla pro Váhy a Bias? Zvolili jsme je náhodně. V reálných aplikacích se váhy inicializují náhodně a pak se optimalizují během procesu tréninku neuronové sítě, kdy bychom vzali v úvahu kýžený výsledek, tedy někdo by v rámci dat zaznačil, která matice je který znak. Neuronová síť by následně procesem učení byla schopna stanovit optimální Váhy a Bias tak, aby mohla být matice a tím i znak správně rozpoznán.</p>
+
+<p>Nyní si spočítejme aktivaci pro první neuron pro znak / - tedy výsledek, který dostaneme na <em>H1</em>. Jako aktivační funkci použijeme ReLU z toho důvodu, že se pro tento typ dat hodí, správný výběr aktivační funkce je nicméně důležitý a je součástí vašeho budoucího know-how, jak optimalizovat neuronovou síť…</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>z_1 = (0 * 0.2) + (1 * -0.3) + (1 * 0.4) + (0 * 0.1) + 0.1
+z_1 = 0 + (-0.3) + 0.4 + 0 + 0.1
+z_1 = 0.2
+a_1 = ReLU(z_1) = max(0, z_1)
+a_1 = max(0, 0.2)
+a_1 = 0.2
+</code></pre></div></div>
+
+<p>A teď si spočítejme aktivaci pro druhý neuron pro znak / - tedy výsledek, který dostaneme na <em>H2</em>.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>z_2 = (0 * -0.1) + (1 * 0.5) + (1 * -0.4) + (0 * 0.2) - 0.2
+z_2 = 0 + 0.5 + (-0.4) + 0 - 0.2
+z_2 = -0.1
+a_2 = ReLU(z_2) = max(0, z_2)
+a_2 = max(0, -0.1)
+a_2 = 0
+</code></pre></div></div>
+
+<p>V dalším kroku se posouváme do výstupní vrstvy, provádíme takzvaný Dopředný průchod přes výstupní vrstvu:</p>
+
+<p>Každý neuron ve výstupní vrstvě přijímá vstupy od všech 2 neuronů ve skryté vrstvě. Pro jednoduchost uvážíme následující váhy a biasy:</p>
+
+<p>Neuron 1 ve výstupní vrstvě (pro znak “/”):</p>
+<ul>
+  <li>Váhy:  W_{output1} = [0.3, -0.5]</li>
+  <li>Bias:  b_{output1} = 0.1</li>
+</ul>
+
+<p>Neuron 2 ve výstupní vrstvě (pro znak “/”):</p>
+<ul>
+  <li>Váhy:  W_{output2} = [-0.2, 0.4]</li>
+  <li>Bias:  b_{output2} = -0.1</li>
+</ul>
+
+<p>Výpočet aktivace pro první neuron ve výstupní vrstvě:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>z_{output1} = (0.2 * 0.3) + (0 * -0.5) + 0.1
+z_{output1} = 0.06 + 0 + 0.1
+z_{output1} = 0.16
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>z_{output2} = (0.2 * -0.2) + (0 * 0.4) - 0.1
+z_{output2} = -0.04 + 0 - 0.1
+z_{output2} = -0.14
+</code></pre></div></div>
+
+<p>Nyní aplikujeme <a href="https://en.wikipedia.org/wiki/Softmax_function">funkci softmax</a> na výstup obou neuronů ve výstupní vrstvě. V našem příkladu, kde rozpoznáváme znaky “/” a “\”, je softmax vhodná, protože nám umožňuje interpretovat výstupy neuronů jako pravděpodobnosti jednotlivých tříd (znaků). Bylo by možné použít i jiné funkce jako Sigmoid nebo Tanh, ale ty nejsou pro tento typ úlohy tak vhodné. Nebojte, praxí se naučíte volit, která aktivační funkce je zde nejvhodnější…</p>
+
+<p>A nyní prakticky, jak aplikace softmaxu vypadá.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>softmax(z)_i = exp(z_i) / sum(exp(z_j) for j in range(2))
+</code></pre></div></div>
+
+<p>Provedeme tedy výpočet dosazením hodnot, omlouvám se za nepřehlednost, ale teprve se učím LaTex formát zápisu matematiky, snad si poradíte. My si ukážeme výpočet jen pro znak lomítka / - tedy to, jak dorazil na O1 a O2.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>exp(0.16) = 1.1735
+exp(-0.14) = 0.8694
+
+sum = 1.1735 + 0.8694 = 2.0429
+
+softmax(0.16) = 1.1735 / 2.0429 = 0.574
+softmax(-0.14) = 0.8694 / 2.0429 = 0.426
+</code></pre></div></div>
+
+<p>Výstupy softmax funkce jsou tedy: <code class="language-plaintext highlighter-rouge">[0.574, 0.426]</code></p>
+
+<p>Tady si to ještě ukážeme graficky pro vstup znaku / do neuronky s našimi váhami a biasem:</p>
+
+<p><img src="/assets/neuronka-probehla.png" alt="Neuronka s výsledky" /></p>
+
+<h2 id="shrnutí">Shrnutí</h2>
+
+<p>Pro znak “/” nám vyšly pravděpodobnosti: <code class="language-plaintext highlighter-rouge">[0.574, 0.426]</code> - tedy s pravděpodobností 57,4 % se jedná o znak lomítka.</p>
+
+<p>Pro znak “\” si je můžete výsledky dopočítat sami. Kontrola by neměla být těžká :)</p>
+
+<p>Tak a už jsme doma. Neuronová síť usoudila s pravděpodobností 57,4 %, že znak “/” je znakem lomítka. Jak to, že to vyšlo, když jsem říkal, že záleží na hodnotách? Inu proto,že jsem váhy a bias vybral rozumně tak, aby to vyšlo a ne tak, aby hned první, co uvidíte, byla neuronka, která usoudila blbost, i když za to nemůže. Jak jsme si ale řekli, záleží zejména na váhách (A pak taky dobře zvolené aktivační funkci), že neuronka všechno správně rozpozná. A právě tohle je ten fine-tuning. Jen pro pořádek, znak zpětného lomítka jsme rozpoznali s pravděpodobností 59,9 % - taky to není špatné.</p>
+
+<p>Výpočty ukazují, jak softmax funkce převádí surové skóre na pravděpodobnosti, které umožňují interpretovat výstupy neuronové sítě jako pravděpodobnosti pro různé třídy. Bez tréninku mohou být tyto hodnoty náhodné, protože váhy a biasy nejsou optimalizovány.</p>
+
+<p>Snad to bylo pochopitelné!</p>
+
+<p>A co s tím víc? Inu, přidat to učení :)</p>
+
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
+                <p class="excerpt">
+                  
+                    
+Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůli t...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
+                <p class="excerpt">
+                  
+                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Příklad fungování neuronové sítě&url=https://www.marigold.cz/ai/priklad-neuronove-site/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/priklad-neuronove-site/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2024-07-07-priklad-neuronove-site.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/strojove-uceni-machine-learning/">&laquo; Úvod do strojového učení - Machine Learning</a> |
+      
+      
+      
+        <a class="next" href="/ai/prompt/">Jak vytvořit správný prompt pro ChatGPT nebo Claude &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

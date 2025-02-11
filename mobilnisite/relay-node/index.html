@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Relay Nodes: přenosové uzly v mobilních sítích | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Relay Nodes: přenosové uzly v mobilních sítích" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Relay Node (RN) je zajímavá technologie, která vychází z původního poněkud nelegálního konceptu zesilovačů z GSM sítí. V devadesátých letech kvůli špatnému pokrytí GSM signálem při startu GSM sítí existovaly tzv. zesilovače, které zachytávaly, zesilovaly a znovu vysílali signál GSM sítí, aniž by do signálu jako takového jinak vstupovaly. S pokročilejšími technologiemi tento koncept získal trhliny, protože šlo potenciálně o klasický Man-in-the-middle útok. Do cesty mezi legitimního uživatele a legitimní základnovou stanici se dostal třetí prvek nekontrolovaný žádnou ze stran, který by mohl libovolně s daty manipulovat." />
+<meta property="og:description" content="Relay Node (RN) je zajímavá technologie, která vychází z původního poněkud nelegálního konceptu zesilovačů z GSM sítí. V devadesátých letech kvůli špatnému pokrytí GSM signálem při startu GSM sítí existovaly tzv. zesilovače, které zachytávaly, zesilovaly a znovu vysílali signál GSM sítí, aniž by do signálu jako takového jinak vstupovaly. S pokročilejšími technologiemi tento koncept získal trhliny, protože šlo potenciálně o klasický Man-in-the-middle útok. Do cesty mezi legitimního uživatele a legitimní základnovou stanici se dostal třetí prvek nekontrolovaný žádnou ze stran, který by mohl libovolně s daty manipulovat." />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/relay-node/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/relay-node/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-25T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Relay Nodes: přenosové uzly v mobilních sítích" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-25T00:00:00+00:00","datePublished":"2024-12-25T00:00:00+00:00","description":"Relay Node (RN) je zajímavá technologie, která vychází z původního poněkud nelegálního konceptu zesilovačů z GSM sítí. V devadesátých letech kvůli špatnému pokrytí GSM signálem při startu GSM sítí existovaly tzv. zesilovače, které zachytávaly, zesilovaly a znovu vysílali signál GSM sítí, aniž by do signálu jako takového jinak vstupovaly. S pokročilejšími technologiemi tento koncept získal trhliny, protože šlo potenciálně o klasický Man-in-the-middle útok. Do cesty mezi legitimního uživatele a legitimní základnovou stanici se dostal třetí prvek nekontrolovaný žádnou ze stran, který by mohl libovolně s daty manipulovat.","headline":"Relay Nodes: přenosové uzly v mobilních sítích","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/relay-node/"},"url":"https://www.marigold.cz/mobilnisite/relay-node/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Relay Node (RN) je zajímavá technologie, která vychází z původního poněkud nelegálního konceptu zesilovačů z GSM sítí. V devadesátých letech kvůli špatnému pokrytí GSM signálem při startu GSM sítí existovaly tzv. zesilovače, které zachytávaly, zesilovaly a znovu vysílali signál GSM sítí, aniž by do signálu jako takového jinak vstupovaly. S pokročilejšími technologiemi tento koncept získal trhliny, protože šlo potenciálně o klasický Man-in-the-middle útok. Do cesty mezi legitimního uživatele a legitimní základnovou stanici se dostal třetí prvek nekontrolovaný žádnou ze stran, který by mohl libovolně s daty manipulovat.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Relay Nodes: přenosové uzly v mobilních sítích" />
+    <meta property="twitter:title" content="Relay Nodes: přenosové uzly v mobilních sítích" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/relay-node/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Relay Nodes: přenosové uzly v mobilních sítích</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+25.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#5G">5G</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        &nbsp;
+      
+        <a href="//rubrika/#LTE">LTE</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Relay Node (RN) je zajímavá technologie, která vychází z původního poněkud nelegálního konceptu zesilovačů z GSM sítí. V devadesátých letech kvůli špatnému pokrytí GSM signálem při startu GSM sítí existovaly tzv. zesilovače, které zachytávaly, zesilovaly a znovu vysílali signál GSM sítí, aniž by do signálu jako takového jinak vstupovaly. S pokročilejšími technologiemi tento koncept získal trhliny, protože šlo potenciálně o klasický Man-in-the-middle útok. Do cesty mezi legitimního uživatele a legitimní základnovou stanici se dostal třetí prvek nekontrolovaný žádnou ze stran, který by mohl libovolně s daty manipulovat.</p>
+
+<p>Operátoři i výrobci nicméně naznali, že sám o sobě byl koncept rozumný a mít zesilovací prvky, které mohou signál předat či dokonce nějak legitimně zpracovat, by mohlo být pro budování pokrytí sítí zejména v odlehlých oblastech přínosné. A tak vznikl koncept Relay Node, Přenosových uzlů.</p>
+
+<p>Relay Node je v podstatě specializovaná základnová stanice, která slouží jako mezičlánek mezi hlavní základnovou stanicí (Donor eNB/gNB) a koncovými uživatelskými zařízeními. Představme si to jako sofistikovaný opakovač signálu, který však nabízí mnohem více funkcí než pouhé zesílení signálu.</p>
+
+<pre><code class="language-mermaid">graph TB
+    UE[Uživatelské zařízení] --&gt; RN[Relay Node]
+    RN --&gt; DeNB[Donor eNB/gNB]
+    DeNB --&gt; CN[Páteřní síť]
+    
+    subgraph "Un rozhraní"
+    RN --- DeNB
+    end
+    
+    subgraph "Uu rozhraní"
+    UE --- RN
+    end
+
+    style UE fill:#f9f,stroke:#333,stroke-width:2px
+    style RN fill:#bbf,stroke:#333,stroke-width:4px
+    style DeNB fill:#bfb,stroke:#333,stroke-width:2px
+    style CN fill:#fbb,stroke:#333,stroke-width:2px
+</code></pre>
+
+<h2 id="historický-vývoj-v-jednotlivých-vydáních">Historický vývoj v jednotlivých vydáních</h2>
+
+<h3 id="release-10-lte-advanced">Release 10 (LTE-Advanced)</h3>
+
+<p>V Release 10 byl koncept Relay Nodes poprvé standardizován jako součást LTE-Advanced. Základní implementace představila dva typy Relay Nodes:</p>
+
+<ol>
+  <li>
+    <p>Type 1 RN: Plně funkční základnová stanice s vlastním cell ID, která vysílá vlastní synchronizační signály a referenční symboly. Podporuje samostatné plánování a řízení rádiových zdrojů.</p>
+  </li>
+  <li>
+    <p>Type 2 RN: Transparentní relay node, který nevysílá vlastní cell ID a slouží především ke zvýšení průchodnosti dat v rámci existující buňky.</p>
+  </li>
+</ol>
+
+<h3 id="release-11">Release 11</h3>
+
+<p>S příchodem Release 11 došlo k významnému vylepšení RN technologie. Byla představena pokročilá správa interference mezi relay nodes a evolved NodeB (eNB). Implementovalo se:</p>
+
+<ul>
+  <li>Dynamické řízení výkonu pro backhaul link</li>
+  <li>Vylepšené CoMP (Koordinovaný multipoint) pro relay scenarios</li>
+  <li>Zdokonalené mechanismy handoveru</li>
+</ul>
+
+<h3 id="release-12-a-13">Release 12 a 13</h3>
+
+<p>Tyto vydání přinesly další optimalizace:</p>
+
+<ul>
+  <li>Dual connectivity pro relay nodes</li>
+  <li>Vylepšená podpora pro heterogenní sítě (HetNets)</li>
+  <li>Pokročilé mechanismy pro správu mobility</li>
+</ul>
+
+<h2 id="technické-aspekty-a-výhody">Technické aspekty a výhody</h2>
+
+<p>Relay Nodes přinášejí několik klíčových technických výhod:</p>
+
+<h3 id="zlepšení-pokrytí">Zlepšení pokrytí</h3>
+<p>RN technologie umožňuje efektivně rozšířit pokrytí sítě v oblastech s horším signálem. Díky schopnosti zpracovat a přeposlat signál s minimální latencí dokáže:</p>
+<ul>
+  <li>Překlenout rádiové stíny způsobené zástavbou</li>
+  <li>Poskytnout kvalitní pokrytí uvnitř budov</li>
+  <li>Zajistit lepší služby na okrajích buněk</li>
+</ul>
+
+<h3 id="zvýšení-kapacity">Zvýšení kapacity</h3>
+<p>Implementace RN vede k významnému navýšení kapacity sítě:</p>
+<ul>
+  <li>Efektivnější využití rádiových zdrojů</li>
+  <li>Možnost současné komunikace s větším počtem uživatelů</li>
+  <li>Optimalizace přenosu dat díky lepšímu poměru signál/šum</li>
+</ul>
+
+<pre><code class="language-mermaid">sequenceDiagram
+    participant UE as Uživatelské zařízení
+    participant RN as Relay Node
+    participant DeNB as Donor eNB
+    participant CN as Páteřní síť
+    
+    UE-&gt;&gt;RN: Data přes Uu rozhraní
+    Note over RN: Zpracování a dekódování
+    RN-&gt;&gt;DeNB: Přenos přes Un rozhraní
+    DeNB-&gt;&gt;CN: Směrování do páteřní sítě
+    CN--&gt;&gt;DeNB: Odpověď
+    DeNB--&gt;&gt;RN: Přenos přes Un rozhraní
+    Note over RN: Zpracování a přeformátování
+    RN--&gt;&gt;UE: Data přes Uu rozhraní
+</code></pre>
+
+<h2 id="relay-nodes-komplexní-průvodce-technologií-přenosových-uzlů-v-lte-advanced">Relay Nodes: Komplexní průvodce technologií přenosových uzlů v LTE-Advanced</h2>
+
+<p>Technologie Relay Node (RN) představuje jeden z klíčových prvků standardu LTE-Advanced, který významně rozšiřuje možnosti mobilních sítí. Vývoj této technologie započal v lednu 2009 jako integrální součást standardizace LTE-Advanced, přičemž hlavním cílem bylo dosáhnout vyšších přenosových rychlostí a zejména zlepšit pokrytí pro uživatele na okrajích buněk.</p>
+
+<p>Standard LTE-Advanced definuje tři základní typy Relay Nodes, které se liší svou komplexností a způsobem zpracování signálu. Nejjednodušší variantu představuje Layer 1 Relay, který funguje jako prostý zesilovač signálu. Tento typ využívá technologii Amplify and Forward (AF), kdy jednoduše zesiluje a přeposílá RF signály bez jakéhokoliv dekódování. Hlavní výhodou je nízká cena a minimální zpoždění, avšak významnou nevýhodou je zesilování interferencí a šumu, což může vést ke zhoršení poměru SINR.</p>
+
+<p>Layer 1 Relay (L1)</p>
+<ul>
+  <li>Nejjednodušší forma přenosového uzlu fungující jako zesilovač (booster/repeater)</li>
+  <li>Využívá technologii Amplify and Forward (AF)</li>
+  <li>Jednoduše zesiluje a přeposílá RF signály bez dekódování</li>
+  <li>Výhody: nízká cena, minimální zpoždění</li>
+  <li>Nevýhody: zesiluje také interference a šum, což zhoršuje poměr SINR</li>
+</ul>
+
+<p>Pokročilejší variantu představuje Layer 2 Relay, který využívá sofistikovanější technologii Decode and Forward (DF). Tento typ přijatý signál nejprve demoduluje a dekóduje, následně jej znovu zakóduje a přepošle. Tento přístup umožňuje odstranit šum z přijatého signálu, ovšem za cenu vyšší složitosti implementace a mírného zvýšení latence. Layer 2 Relay také vyžaduje dodatečné funkce pro řízení rádiových zdrojů.</p>
+
+<p>Layer 2 Relay (L2)</p>
+<ul>
+  <li>Využívá technologii Decode and Forward (DF)</li>
+  <li>Přijaté signály demoduluje a dekóduje před opětovným zakódováním a přeposláním</li>
+  <li>Odstraňuje šum z přijatého signálu</li>
+  <li>Vyžaduje dodatečné funkce pro řízení rádiových zdrojů</li>
+  <li>Představuje kompromis mezi složitostí a výkonem</li>
+</ul>
+
+<p>Nejvyspělejší variantu představuje Layer 3 Relay, který disponuje plnou funkcionalitou základnové stanice. Tento typ kompletně zpracovává uživatelská data včetně šifrování a obsahuje kompletní protokolový stack zahrnující vrstvy RRC, PDCP, RLC a MAC. Právě Layer 3 Relay byl vybrán pro standardizaci v Release 10 díky své flexibilitě a výkonu, i když za cenu vyšší latence.</p>
+
+<p>Layer 3 Relay (L3)</p>
+<ul>
+  <li>Nejpokročilejší typ s plnou funkcionalitou základnové stanice</li>
+  <li>Kompletně zpracovává uživatelská data včetně šifrování</li>
+  <li>Obsahuje vlastní protokolový stack včetně RRC, PDCP, RLC a MAC vrstev</li>
+  <li>Nejvyšší flexibilita a výkon za cenu vyšší latence</li>
+  <li>Vybraný typ pro standardizaci v Release 10</li>
+</ul>
+
+<p>V praxi se Relay Nodes nasazují v několika klíčových scénářích. Ve venkovských oblastech s rozlehlým pokrytím a nízkou hustotou uživatelů se typicky využívají vysoko-výkonné fixní RN, kde je kladen důraz především na nákladovou efektivitu. V městských hot-spotech s vysokou hustotou uživatelů se naopak využívá větší počet RN s menšími buňkami v rámci jedné makro buňky, přičemž hlavním cílem je zvýšení kapacity sítě.</p>
+
+<p>Specifickým případem je pokrytí hluchých míst, například oblastí stíněných vysokými budovami, kde se mohou využívat jak L3 RN, tak repeatery. Pro indoor hot-spoty, které jsou podobné femto-buňkám, se typicky nasazují nízko-výkonové RN s důrazem na vysokou propustnost dat. Zajímavou aplikací je také pokrytí mobilních skupin, například ve vlacích či autobusech, kde RN pomáhají řešit problémy s penetračním útlumem a agregací více spojení.</p>
+
+<p>Z technického hlediska standard definuje dva typy rádiových rozhraní - Un rozhraní mezi Donor eNB a RN, a Uu rozhraní mezi RN a uživatelským zařízením (UE). Layer 3 RN implementuje stejné protokoly jako běžná základnová stanice, včetně PDCP pro šifrování a kompresi hlaviček, RLC pro retransmise a segmentaci, MAC pro HARQ a plánování, a RRC pro řízení mobility a QoS. Pro komunikaci s páteřní sítí využívá protokoly S1AP pro řídící rovinu a GTP-U pro uživatelská data.</p>
+
+<p>Klíčovou součástí implementace je efektivní plánování rádiových zdrojů a řízení interferencí. To zahrnuje dynamickou alokaci zdrojů, koordinaci interferencí mezi RN a eNB, TDM multiplexování Un a Uu rozhraní a adaptivní řízení výkonu. Pro přesné modelování šíření signálu se využívají různé modely podle typu prostředí, zahrnující jak large scale fading (path loss modely pro LOS/NLOS, shadow fading), tak small scale fading (delay spread, angle spread, cross-polarization discrimination).</p>
+
+<p>S příchodem 5G sítí se očekává další evoluce této technologie, především v oblasti integrace s Network Slicing, pokročilejšího řízení interferencí, vyšší flexibility backhaulu a optimalizace pro specifické případy použití. Relay Node technologie tak zůstává významným nástrojem pro zlepšování pokrytí a kapacity mobilních sítí v různorodých scénářích nasazení.</p>
+
+<p>Tento technologický přístup představuje elegantní řešení pro rozšíření pokrytí a zvýšení kapacity mobilních sítí, přičemž nabízí flexibilitu pro různé scénáře nasazení. Díky své standardizaci v rámci LTE-Advanced a dalšímu vývoji v kontextu 5G sítí zůstává Relay Node technologie důležitým prvkem v evolučním řetězci mobilních komunikací.</p>
+
+<h2 id="implementační-výzvy">Implementační výzvy</h2>
+
+<p>Přestože RN technologie přináší významné výhody, její implementace není bez výzev:</p>
+
+<h3 id="synchronizace-a-časování">Synchronizace a časování</h3>
+<p>Kritickým aspektem je přesná synchronizace mezi Donor eNB a Relay Node. Musí být zajištěno:</p>
+<ul>
+  <li>Přesné časování pro koordinaci přenosu</li>
+  <li>Minimalizace latence při zpracování signálu</li>
+  <li>Správná synchronizace rámců a symbolů</li>
+</ul>
+
+<h3 id="správa-interference">Správa interference</h3>
+<p>Relay Nodes musí pečlivě řešit potenciální interferenci:</p>
+<ul>
+  <li>Mezi různými Relay Nodes v síti</li>
+  <li>Mezi Relay Node a Donor eNB</li>
+  <li>S okolními základnovými stanicemi</li>
+</ul>
+
+<h3 id="backhaul-link-management">Backhaul link management</h3>
+<p>Správa spojení mezi RN a Donor eNB vyžaduje:</p>
+<ul>
+  <li>Dynamickou alokaci rádiových zdrojů</li>
+  <li>Adaptivní řízení výkonu</li>
+  <li>Zajištění kvality služeb (QoS)</li>
+</ul>
+
+<h2 id="budoucnost-rn-technologie">Budoucnost RN technologie</h2>
+
+<p>S příchodem 5G sítí se role Relay Nodes dále rozšiřuje. Nové standardy přinášejí:</p>
+<ul>
+  <li>Podporu pro mmWave frekvence</li>
+  <li>Vylepšenou integraci s Network Slicing</li>
+  <li>Pokročilé možnosti pro Mobile Edge Computing</li>
+</ul>
+
+<p>Relay Node technologie se stala zajímavou součástí moderních mobilních sítí. Její evoluce od základního konceptu v LTE-Advanced až po současné pokročilé implementace v 5G sítích demonstruje důležitost této technologie pro budoucnost mobilních komunikací. Díky své schopnosti zlepšit pokrytí, zvýšit kapacitu a optimalizovat využití síťových zdrojů může  RN představovat důležitou technologii pro další rozvoj mobilních sítí.</p>
+
+<p>Určitý střet tu proběhne <a href="/mobilnisite/hetnet">v oblasti HetNet</a>, kde vznikla funkčně podobná záležitost. Femtocelly jsou ale plně zapojené do jádra sítě, zatímco RN komunikují jen se základnovou stanicí (a samozřejmě uživatelskými terminály). Výhodou RN měla být hlavně jednoduchost a tedy i cena, ale ceny femtocell padají střemhlavě. Můžeme tedy říci, že RN a femtocelly nejdou proti sobě, ale představují komplementární technologie v rámci HetNet konceptu. Jejich budoucnost spočívá především v inteligentní integraci a koordinaci, která umožní využít silné stránky každé technologie tam, kde jsou nejvíce potřeba. S příchodem 5G a budoucích generací mobilních sítí lze očekávat další sbližování těchto technologií a vznik hybridních řešení, která budou lépe odpovídat rostoucím nárokům na mobilní sítě.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan
+</a>
+                <p class="excerpt">
+                  
+                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
+                <p class="excerpt">
+                  
+                    Minule jsme si řekli, jak pomocí umělé inteligence psát lepší články, zprávy a texty. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Relay Nodes: přenosové uzly v mobilních sítích&url=https://www.marigold.cz/mobilnisite/relay-node/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/relay-node/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2024-12-26-relay-node.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/LTE-Broadcast-eMBMS/">&laquo; LTE Broadcast čili eMBMS pro efektivní distribuci multimediálního obsahu</a> |
+      
+      
+      
+        <a class="next" href="/mobilnisite/redcap/">RedCap a eRedCap: Vývoj a význam v 5G IoT ekosystému &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="cs" />
+<meta name="description" content="V další části povídání o vývoji situace v mobilních datech jsem se chtěl podívat na rozvoj WiMaxu a LTE, jenže jsem si s hrůzou povšiml, že o LTE jako technologii je na Marigoldovi jen málo. Takže musíme splatit dluh. Ještě před tím, než si nové 4G technologie (LTE, WiMax a UWB) porovnáme - to asi někdy příště - tak se mrkneme na rozdíly mezi způsobem modulace signálu." />
+<meta property="og:description" content="V další části povídání o vývoji situace v mobilních datech jsem se chtěl podívat na rozvoj WiMaxu a LTE, jenže jsem si s hrůzou povšiml, že o LTE jako technologii je na Marigoldovi jen málo. Takže musíme splatit dluh. Ještě před tím, než si nové 4G technologie (LTE, WiMax a UWB) porovnáme - to asi někdy příště - tak se mrkneme na rozdíly mezi způsobem modulace signálu." />
+<link rel="canonical" href="https://www.marigold.cz/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax/" />
+<meta property="og:url" content="https://www.marigold.cz/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2008-09-02T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2008-09-02T00:00:00+00:00","datePublished":"2008-09-02T00:00:00+00:00","description":"V další části povídání o vývoji situace v mobilních datech jsem se chtěl podívat na rozvoj WiMaxu a LTE, jenže jsem si s hrůzou povšiml, že o LTE jako technologii je na Marigoldovi jen málo. Takže musíme splatit dluh. Ještě před tím, než si nové 4G technologie (LTE, WiMax a UWB) porovnáme - to asi někdy příště - tak se mrkneme na rozdíly mezi způsobem modulace signálu.","headline":"Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax/"},"url":"https://www.marigold.cz/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="V další části povídání o vývoji situace v mobilních datech jsem se chtěl podívat na rozvoj WiMaxu a LTE, jenže jsem si s hrůzou povšiml, že o LTE jako technologii je na Marigoldovi jen málo. Takže musíme splatit dluh. Ještě před tím, než si nové 4G technologie (LTE, WiMax a UWB) porovnáme - to asi někdy příště - tak se mrkneme na rozdíly mezi způsobem modulace signálu. 
+
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA" />
+    <meta property="twitter:title" content="Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+2.
+září
+  
+2008 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        &nbsp;
+      
+        <a href="//rubrika/#LTE">LTE</a>
+        &nbsp;
+      
+        <a href="//rubrika/#4G">4G</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>V další části povídání o vývoji situace v mobilních datech jsem se chtěl podívat na rozvoj WiMaxu a LTE, jenže jsem si s hrůzou povšiml, že o LTE jako technologii je na Marigoldovi jen málo. Takže musíme splatit dluh. Ještě před tím, než si nové 4G technologie (LTE, WiMax a UWB) porovnáme - to asi někdy příště - tak se mrkneme na rozdíly mezi způsobem modulace signálu. 
+<!--more--></p>
+
+<p>Zatímco jak LTE (tedy Long Term Evolution pro UMTS), tak WiMax používají pro downlink <strong>OFDM</strong>, ortogonální frekvenčně dělený multiplex, pro uplink je u WiMaxu <strong>OFDMA</strong> (Ortogonální frekvenčně dělený vícenásobný přístup, Orthogonal Frequency Division Multiple Access),  zatímco pro LTE se standardizační skupina 3GPP rozhodla pro <strong>SC-FDMA</strong>, Single Carrier Frequency Division Multiple Access - frekvenčně dělený vícenásobný přístup na jedné nosné.</p>
+
+<p>Ačkoliv to vypadá, jako zásadní odlišnost, je třeba připomenout, že obojí spadá pod OFDM, tedy příbuznost obou přístupů je značná a pro návrháře čipů nejde o tak podstatnou změnu. Navíc označení SC-FDMA je částečně zavádějící, protože podobně jako u OFDMA je i zde využíváno více pod-nosných (sub-carrier). Jen tak na okraj, odpusťe pokusy s překlady, ono když si čtete český text s promíchanými velkými anglickými pasážemi, vypadá to víc otřesně, než když to jen slyšíte.</p>
+
+<h2>OFDMA</h2>
+<p>OFDMA přenáší data využitím více úzkopásmových pod-nosných najednou, například 512, 1024 nebo ještě více v závislosti na použité/dostupné šířce pásma pro konkrétní kanál (tedy 5, 10, 15 či 20 MHz). Neboť je více bitů přenášeno současně,  je také přenosová rychlost na každé pod-nosné výrazně nižší, než výsledná rychlost dat. To je důležité z hlediska praktického použití v rádiovém prostředí, protože to vede k minimalizaci efektu vícecestného zpoždění způsobenému rozdílnými časy příchodu různě odražených signálů na základnovou stanici.</p>
+
+<p>Popíšeme si, jak to schematicky funguje, viz obrázek 1.</p>
+
+<div style="text-align:center;"><img src="/assets/ofdma.png" alt="OFDMA.png" border="0" width="500" /></div>
+
+<p>Začneme vysílačem: přenášené bity jsou seskupeny a přiřazeny k přenosu na jednotlivých frekvencích (tzv. pod-nosných) - dojde k vytvoření (nebo též rozprostření do) pod-nosných. V tomto příkladu jsou 4 bity (představující modulaci 16QAM) použity k vytvoření takových pod-nosných. Teoreticky by se měl o každou sub-nosnou starat zvláštní vysílač, ale protože těch pod-nosných je opravdu hodně, není to zrovna praktické řešení. Místo toho nastupuje matematika: jelikož každá pod-nosná je vysílána na jiné frekvenci, můžeme vytvořit křivku, kde na ose X je frekvence a na ose Y je amplituda každé sub-nosné. Což je ten grafíček pod každým z nákresů. Následně je na křivku aplikována inverzní rychlá Fourierova transformace (IFFT), která převede frekvenční oblast do oblasti časové. Taková křivka pak má na ose X čas a přitom představuje ten samý signál, jaký by byl generován separátním přenosem každé pod-nosné. Moc hezká vychytávka! Pak už je přidána jen hlavička <strong>CP (cyclic prefix)</strong>, signál modulován, patřičně zesílen (podle dalších parametrů sítě) a odvysílán.</p>
+
+<p>Na straně přijímače (spodní část nákresu) je signál nejdříve demodulován a zesílen. Výsledný signál je pak přeměněn rychlou Fourierovou transformací (FFT) inverzně k předešle uvedenému postupu, čas opět nahradí frekvence. Tím dostáváme frekvenčně amplitudový diagram vytvořený původně na vysílači. Na středové frekvenci každé pod-nosné jsou pak detekční funkcí generovány bity, které zde byly původně zakódovány. Tím celý OFDMA proces vlastně končí.</p>
+
+<h2>SC-FDMA</h2>
+<p>Přes své jméno frekvenčně dělený vícenásobný přístup na jedné nosné (SC-FDMA) také přenáší data vzduchem na více pod-nosných, pouze přidává do celého výše uvedeného procesu další kroky, viz obrázek 2:</p>
+
+<div style="text-align:center;"><img src="/assets/sc-fdma.png" alt="SC-FDMA.png" border="0" width="500" /></div>
+
+<p>Místo toho, aby byly čtři bity použity k vytvoření signálu pro pod-nosné, jako je tomu u OFDMA, rozprostřou se informace přes všechny pod-nosné. To se udělá následovně: určitý počet bitů (například 4 při 16QAM modulaci) se seskupí dohromady. U OFDMA by tato skupina bitů prošla IDFT, v případě SC-FDMA je na ní aplikována rychlá Fourierova transformace (FFT). Výsledkem tohoto postupu je báze dat, která je použita pro vytvoření pod-nosných. Ty jsou už jako v případě OFDMA převedeny už pomocí IFFT z frekvencí na čas. Ne všechny pod-nosné jsou mobilkou použity a v diagramu jsou udávány jako nula. Tyto podnosné mohou a nemusí být použity jinými mobilkami. Ještě jsou přidány hlavičky <strong>CP (cyclic prefix)</strong>, které jsou vlastně hraičním pásmem mezi více bloky a zamezují rušení v rámci bloků při problémech s vícecestnými odrazy, kde jsou jednotlivé přijímané signály časově posunuty. Způsob aplikace CP by si zasloužil samostatný výklad, ale tu ho zanedbáváme.</p>
+
+<p>Na straně přijímače je signál demodulován, zesílen, odebrán je CP a výsledek prohnán rychlou Fourierovou transformací (FFT) tak, jako u OFDMA. Výsledný amplitudový diagram ovšem není analyzován přímo, aby z něj byla získána přenášená data, ale je na něj aplikována inverzní rychlý Fourierova transformace (IFFT). Výsledkem je signál orientovaný časově, ten je prohnán blokem detektoru, jenž z něj udělá přenášená data. Takto je použit pouze jeden detektor na jedné nosné, místo toho, aby byly detekovány bity na více pod-nosných. Odtud také ta zkratka.</p>
+
+<p>Přiřazení konkurenčních uživatelů na pod-nosné
+Výše uvedené schéma pro jednoduchost předpokládá jednu mobilku v síti. To ovšem v praxi není právě obvyklá konfigurace, většinou se setkáváme s více mobilkami. A tady přichází ono zesložitění, protože je třeba patřičně přiřadit konkurenční uživatele (=ti, kteří chtějí najednou odesílat data) na nosnou, tedy správně je rozházet do podnosných.</p>
+
+<p>V zásadě uvažujeme o dvou základních postupech přiřazení:</p>
+<ul>
+<li>distribuovaný mód</li>
+<li>lokalizovaný mód</li>
+</ul>
+
+<p>V distribuovaném módu jsou přenosy jednotlivých konkurenčních uživatelů střídány po sobě, u lokalizovaného jsou přenosy jednoho uživatele za sebou, teprve pak následují přenosy dalšího uživatele. Jak to zhruba vypadá, vidíte na dalším obrázku (Obr. 3), kde jsou zachyceny tři terminály na dvanácti podnosných, přičemž každý uživatel požaduje 4 podnosné pro své přenosy:</p>
+
+<div style="text-align:center;"><img src="/assets/subcarier-mody.png" alt="subcarier-mody.png" border="0" width="506" height="144" /></div>
+
+<p>Zde zakreslený distribuovaný režim je označovaný jako <strong>Interleaved FDMA</strong>, tedy <strong>IFDMA</strong> - odstup mezi pod-nosnými užitými jednotlivými uživateli je konstantní. Lokalizovaný mód se označuje jako <strong>LFDMA</strong>.</p>
+
+<p>Proč si o tom povídáme? Protože způsob přiřazení konkurenčních uživatelů na pod-nosné hodně určuje výsledný PARP a také celkovou kapacitu uplink kanálu i kapacitu pro jednoho uživatele. Ačkoliv IFDMA poskytuje nižší PARP a tedy menší interference na uplinku, jeho problémem je pulse shaping. Výzkumy provedené v rámci standardizačního procesu ukazují, že v praxi se lépe osvědčí LFDMA s kanálově závislým plánováním (CDS - channel dependent scheduling), které nabídne větší kapacitu pro uživatele, než IFDMA. V každém případě je ale výsledek IFDMA i LFDMA lepší, než u OFDMA používaného WiMaxem.</p>
+
+<h2>Rozdíly mezi oběma technologiemi</h2>
+
+<p>OFDM vezme skupinu vstupních bitů, z nich jsou vytvořeny pod-nosné a ty jsou zpracování IDFT tak, aby z nich vznikl časový signál. SC-FDMA oproti tomu nejprve provede FFT na skupině vstupních bitů, aby je rozprostřela mezi všechny pod-nosné a pak použije výsledek pomocí IDFT k vytvoření časového signálu. Kvůli této odlišnosti se někdy také SC-FDMA označuje jako <strong>DFT-spread</strong> nebo <strong>DFT-precoded OFDMA</strong>, tedy rozprostření pomocí diskrétní Fourierovi transformace.</p>
+
+<p>Vidíme zřetelně, že toto rozprostírání přidává další nároky jak na straně vysílače, tak přijímače. Otázka je, proč toto řešení bylo zvoleno v LTE. Důvod je jednoduchý: snížení <strong>PAPR</strong>, tedy poměru špičkového a průměrného výkonu: <strong>Peak to Average Power Ratio</strong>. Tento poměr je u samotného OFDMA příliš vysoký, což znamená nejenom vyšší nároky na baterie telefonu, ale také riziko zarušení vlastní sítě zbytečně vysokým vysílacím výkonem mobilky. Právě použitím SC-FDMA se poměr PAPR významně snižuje, čímž dochází jak k úspoře baterií, tak k vyšší přenosové rychlosti na uplinku.</p>
+
+<p>Poznámka pro lidi, které mate občasná záměna diskrétní fourierovy transformace DFT a rychlé fourierovy transformace FFT - to druhé je praktická implementace toho prvního.</p>
+
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
+                <p class="excerpt">
+                  
+                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee: hardware startup je zatraceně těžký</a>
+                <p class="excerpt">
+                  
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA&url=https://www.marigold.cz/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_posts/2008-09-02-modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/item/ufonuv-fofr-internet-za-nula-a-samoobsluha/">&laquo; U:fonův Fofr internet Za nula  a&nbsp;Samoobsluha</a> |
+      
+      
+      
+        <a class="next" href="/item/cesky-vodafone-mozna-nabidne-wifi-sit/">Český Vodafone možná nabídne WiFi síť
+ &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

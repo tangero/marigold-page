@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Obrazy, které mám rád</title>
+    <style>
+        .color-box {
+            width: 100px;
+            height: 100px;
+            display: inline-block;
+            margin: 5px;
+            border-radius: 10px;
+            border: 2px solid #000;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Dominantní barvy z obrázku</h1>
+<img id="image" src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_300,c_fill/https://www.marigold.cz/assets/obrazy/tanguy-promontory-palace.jpg" alt="Image" width="300">
+<div id="color-palette"></div>
+
+Script 2
+
+<link
+  rel="stylesheet"
+  href="https://static.imgix.net/treefrog.jpg?w=640&h=320&fit=crop&palette=css&class=frog"
+/>
+
+<script src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const imageElement = document.getElementById('image');
+        
+        // Jakmile je obrázek načten, použij Vibrant.js k získání barev
+        imageElement.onload = function() {
+            Vibrant.from(imageElement).getPalette()
+                .then((palette) => {
+                    const colorPalette = document.getElementById('color-palette');
+
+                    // Projdeme všechny extrahované barvy
+                    for (let swatch in palette) {
+                        if (palette[swatch]) {
+                            const colorBox = document.createElement('div');
+                            colorBox.className = 'color-box';
+                            colorBox.style.backgroundColor = palette[swatch].getHex();
+                            colorPalette.appendChild(colorBox);
+                        }
+                    }
+                })
+                .catch((error) => {
+                    console.error('Chyba při extrakci barev:', error);
+                });
+        };
+    });
+</script>
+
+</body>
+</html>

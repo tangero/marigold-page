@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Eurotel Data Express i&nbsp;ve verzi CDMA2000 EV-DV (vlastní úprava) | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Eurotel Data Express i ve verzi CDMA2000 EV-DV (vlastní úprava)" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="cs" />
+<meta name="description" content="Včera jsem se zmocnil jednoho modemu GTran a aktivace Eurotel Data Express, doma jsem všechno instaloval na svém notebooku dle přiloženého návodu a ejhle, všechno fungovalo na první zátah. Tedy až na to, že doma nemám v obýváku stabilní signál a bylo třeba připojit tu prutovou anténu, která opravdu výrazně pomáhá. Nerad bych se opakoval ve chvále a informacích, které zní odevšud jinud. Ano, jede mi to rychle jako z praku, průměrně kolem 3-400 Kb/s a i mně ta rychlost v průběhu stahování samotného kolísá. Na velká slova o rychlosti je ale zatím docela brzo. Průměrný ping se pohybuje kolem 140-160 ms a toto zpoždění je velmi stabilní, pingal jsem hodinu a v podstatě jsem se mimo tyto hodnoty nedostal, vyjma zaváhání cílového serveru. Zajímavý byl pokus s přechodem na EV-DV, tedy Data Voice. Zkusil jsem totiž VoIP telefonii přes Data Express. Nejdříve Softphone a SIP protokol, pak Fayn a jeho H.323 - obojí šlapalo bez problémů, dokonce jsem při tom měl nahozený Overnet a linka se poprala s tím, že odesílal data do internetu rychlostí tak 4 KB/s při telefonování. Bohužel jsem neměl sluchátka, takže reprodutkory mikrofonu trochu vazbily, ale to byla chyba mé sestavy. A v případě X-Lite (SIP program) jsem si bohužel nějak vypnul mikrofon a pořád nemůžu přijít na to, jak ho dát zpět (ne, není to ztlumení ve Windows), takže mne protistrana neslyšela. MaLér o našich pokusech informuje zde. Pitomá je ovšem nestabilita. Od lidí z Eurotelu jsem se dozvěděl seznam triků, takže jsem již věděl, že modem se nebude nabíjet poté, co spustíte GTran program a že nabíječku je třeba připojit ještě před tím. Také jsem věděl, že vypnutí modemu pro slabé baterky může shodit nějaké staré notebooky. Moje dva měsíce stará IBM R50 to ale také nepřežila a vypnutí modemu při vyčerpání baterií ji shodilo do Blue screen. Problém byl v tom, že modem se snažil upozornit notebook, že by měl přejít do Power Save režimu a notebook s XP to nějak nerozdýchává, protože ho modem neupozorňuje zrovna korektně. Měla by to spravit nová verze ovladačů. Ku stažení u Eurotelu. Další fintou je, že se mi modem nedaří zapnout, když je připojený k vypnutému notebooku. Je třeba nejdříve zapnout notebook, nebo odpojit kabel z modemu a zapnout jej. Ale to už je, řekl bych, maličkost. Finta se současným zapojením modemu a jiného síťového připojení, kdy najednou modem shodí spojení, mne postihla rovněž, nicméně jsem ji záměrně evokoval. Vskutku CDMA nemá rádo, když mu do sítě běží paket s jinou zdrojovou adresou, než jakou CDMA síť přidělila. Bohužel dostupná literatura je k tomuto velmi skoupá na informace a z několika zmínek pouze soudím, že síť si domyslí, že uživatel ukončil spojení, maje jinou adresu a aby šetřila zdroje, ukončí spojení i na své straně. Nicméně na tomto vysvětlení netrvám, literatury přímo k EV-DO je velmi poskrovnu v mé knihovničce :( Lze to ošetřit firewallem, Radek Hulán slibuje, že postup dá na svůj weblog, ostatně i on zde recenzuje CDMA. Na Root.cz najdete mini How-To pro Linux. Modem je veskrze standardní seriové zařízení, takže jde rozchodit pomocí AT příkazů, jejichž seznam je zde (v PDF). Jen mám mírné podezření, že modem je akorát standardní Qualcomm čipová sada osazená na desce a k tomu čtveřice konektorů (kromě USB, napájení a antény je tu ještě konektor pro GPS, jenž je k ničemu). Pardon, ještě displej - celkové provedení ale nic moc a problémy s ovladači tedy nejsou zrovna nejmenší. O digitálním podpisu pro XP si ovladače mohou nechat jen zdát. Pravdou ale také je, že když se vyhnete těmto nástrahám, funguje Data Express opravdu jako datový expres. Pro stahování web stránek je zcela porovnatelný s pevnolinkovým připojením jako je UPC Chello, protože web stránky se holt už o moc rychleji při vyšších rychlostech připojení nestahují v poměru k režii protokolu a jejich vykreslení, poznat je to samozřejmě při stahování souborů. Žádnou online hru jsem nezkoušel, žádnou nemám, takže nevím, jak to bude pro hraní... Poznámka na závěr: stejně rychle, jako Data Express funguje, se také prodává. Eurotel včera konstatoval, že zájem předčil jejich očekávání, přesná data ale zatím po jednom dni říci nechtěl. Z prodejen vím, že se CDMA prodává velmi dobře, v některých prodejnách dokonce vyprodali už první den a museli se nechat znovu zavážet. Prý mají zájem hlavně noví zákazníci. Snad to není jen kumulovaný zájem a bude to zájem trvalý, protože služba zatím vypadá opravdu moc hezky. Marigoldí diskusní fórum o CDMA je zde." />
+<meta property="og:description" content="Včera jsem se zmocnil jednoho modemu GTran a aktivace Eurotel Data Express, doma jsem všechno instaloval na svém notebooku dle přiloženého návodu a ejhle, všechno fungovalo na první zátah. Tedy až na to, že doma nemám v obýváku stabilní signál a bylo třeba připojit tu prutovou anténu, která opravdu výrazně pomáhá. Nerad bych se opakoval ve chvále a informacích, které zní odevšud jinud. Ano, jede mi to rychle jako z praku, průměrně kolem 3-400 Kb/s a i mně ta rychlost v průběhu stahování samotného kolísá. Na velká slova o rychlosti je ale zatím docela brzo. Průměrný ping se pohybuje kolem 140-160 ms a toto zpoždění je velmi stabilní, pingal jsem hodinu a v podstatě jsem se mimo tyto hodnoty nedostal, vyjma zaváhání cílového serveru. Zajímavý byl pokus s přechodem na EV-DV, tedy Data Voice. Zkusil jsem totiž VoIP telefonii přes Data Express. Nejdříve Softphone a SIP protokol, pak Fayn a jeho H.323 - obojí šlapalo bez problémů, dokonce jsem při tom měl nahozený Overnet a linka se poprala s tím, že odesílal data do internetu rychlostí tak 4 KB/s při telefonování. Bohužel jsem neměl sluchátka, takže reprodutkory mikrofonu trochu vazbily, ale to byla chyba mé sestavy. A v případě X-Lite (SIP program) jsem si bohužel nějak vypnul mikrofon a pořád nemůžu přijít na to, jak ho dát zpět (ne, není to ztlumení ve Windows), takže mne protistrana neslyšela. MaLér o našich pokusech informuje zde. Pitomá je ovšem nestabilita. Od lidí z Eurotelu jsem se dozvěděl seznam triků, takže jsem již věděl, že modem se nebude nabíjet poté, co spustíte GTran program a že nabíječku je třeba připojit ještě před tím. Také jsem věděl, že vypnutí modemu pro slabé baterky může shodit nějaké staré notebooky. Moje dva měsíce stará IBM R50 to ale také nepřežila a vypnutí modemu při vyčerpání baterií ji shodilo do Blue screen. Problém byl v tom, že modem se snažil upozornit notebook, že by měl přejít do Power Save režimu a notebook s XP to nějak nerozdýchává, protože ho modem neupozorňuje zrovna korektně. Měla by to spravit nová verze ovladačů. Ku stažení u Eurotelu. Další fintou je, že se mi modem nedaří zapnout, když je připojený k vypnutému notebooku. Je třeba nejdříve zapnout notebook, nebo odpojit kabel z modemu a zapnout jej. Ale to už je, řekl bych, maličkost. Finta se současným zapojením modemu a jiného síťového připojení, kdy najednou modem shodí spojení, mne postihla rovněž, nicméně jsem ji záměrně evokoval. Vskutku CDMA nemá rádo, když mu do sítě běží paket s jinou zdrojovou adresou, než jakou CDMA síť přidělila. Bohužel dostupná literatura je k tomuto velmi skoupá na informace a z několika zmínek pouze soudím, že síť si domyslí, že uživatel ukončil spojení, maje jinou adresu a aby šetřila zdroje, ukončí spojení i na své straně. Nicméně na tomto vysvětlení netrvám, literatury přímo k EV-DO je velmi poskrovnu v mé knihovničce :( Lze to ošetřit firewallem, Radek Hulán slibuje, že postup dá na svůj weblog, ostatně i on zde recenzuje CDMA. Na Root.cz najdete mini How-To pro Linux. Modem je veskrze standardní seriové zařízení, takže jde rozchodit pomocí AT příkazů, jejichž seznam je zde (v PDF). Jen mám mírné podezření, že modem je akorát standardní Qualcomm čipová sada osazená na desce a k tomu čtveřice konektorů (kromě USB, napájení a antény je tu ještě konektor pro GPS, jenž je k ničemu). Pardon, ještě displej - celkové provedení ale nic moc a problémy s ovladači tedy nejsou zrovna nejmenší. O digitálním podpisu pro XP si ovladače mohou nechat jen zdát. Pravdou ale také je, že když se vyhnete těmto nástrahám, funguje Data Express opravdu jako datový expres. Pro stahování web stránek je zcela porovnatelný s pevnolinkovým připojením jako je UPC Chello, protože web stránky se holt už o moc rychleji při vyšších rychlostech připojení nestahují v poměru k režii protokolu a jejich vykreslení, poznat je to samozřejmě při stahování souborů. Žádnou online hru jsem nezkoušel, žádnou nemám, takže nevím, jak to bude pro hraní... Poznámka na závěr: stejně rychle, jako Data Express funguje, se také prodává. Eurotel včera konstatoval, že zájem předčil jejich očekávání, přesná data ale zatím po jednom dni říci nechtěl. Z prodejen vím, že se CDMA prodává velmi dobře, v některých prodejnách dokonce vyprodali už první den a museli se nechat znovu zavážet. Prý mají zájem hlavně noví zákazníci. Snad to není jen kumulovaný zájem a bude to zájem trvalý, protože služba zatím vypadá opravdu moc hezky. Marigoldí diskusní fórum o CDMA je zde." />
+<link rel="canonical" href="https://www.marigold.cz/item/eurotel-data-express-i-ve-verzi-cdma2000-ev-dv-vlastni-uprava/" />
+<meta property="og:url" content="https://www.marigold.cz/item/eurotel-data-express-i-ve-verzi-cdma2000-ev-dv-vlastni-uprava/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2004-08-05T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Eurotel Data Express i ve verzi CDMA2000 EV-DV (vlastní úprava)" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2004-08-05T00:00:00+00:00","datePublished":"2004-08-05T00:00:00+00:00","description":"Včera jsem se zmocnil jednoho modemu GTran a aktivace Eurotel Data Express, doma jsem všechno instaloval na svém notebooku dle přiloženého návodu a ejhle, všechno fungovalo na první zátah. Tedy až na to, že doma nemám v obýváku stabilní signál a bylo třeba připojit tu prutovou anténu, která opravdu výrazně pomáhá. Nerad bych se opakoval ve chvále a informacích, které zní odevšud jinud. Ano, jede mi to rychle jako z praku, průměrně kolem 3-400 Kb/s a i mně ta rychlost v průběhu stahování samotného kolísá. Na velká slova o rychlosti je ale zatím docela brzo. Průměrný ping se pohybuje kolem 140-160 ms a toto zpoždění je velmi stabilní, pingal jsem hodinu a v podstatě jsem se mimo tyto hodnoty nedostal, vyjma zaváhání cílového serveru. Zajímavý byl pokus s přechodem na EV-DV, tedy Data Voice. Zkusil jsem totiž VoIP telefonii přes Data Express. Nejdříve Softphone a SIP protokol, pak Fayn a jeho H.323 - obojí šlapalo bez problémů, dokonce jsem při tom měl nahozený Overnet a linka se poprala s tím, že odesílal data do internetu rychlostí tak 4 KB/s při telefonování. Bohužel jsem neměl sluchátka, takže reprodutkory mikrofonu trochu vazbily, ale to byla chyba mé sestavy. A v případě X-Lite (SIP program) jsem si bohužel nějak vypnul mikrofon a pořád nemůžu přijít na to, jak ho dát zpět (ne, není to ztlumení ve Windows), takže mne protistrana neslyšela. MaLér o našich pokusech informuje zde. Pitomá je ovšem nestabilita. Od lidí z Eurotelu jsem se dozvěděl seznam triků, takže jsem již věděl, že modem se nebude nabíjet poté, co spustíte GTran program a že nabíječku je třeba připojit ještě před tím. Také jsem věděl, že vypnutí modemu pro slabé baterky může shodit nějaké staré notebooky. Moje dva měsíce stará IBM R50 to ale také nepřežila a vypnutí modemu při vyčerpání baterií ji shodilo do Blue screen. Problém byl v tom, že modem se snažil upozornit notebook, že by měl přejít do Power Save režimu a notebook s XP to nějak nerozdýchává, protože ho modem neupozorňuje zrovna korektně. Měla by to spravit nová verze ovladačů. Ku stažení u Eurotelu. Další fintou je, že se mi modem nedaří zapnout, když je připojený k vypnutému notebooku. Je třeba nejdříve zapnout notebook, nebo odpojit kabel z modemu a zapnout jej. Ale to už je, řekl bych, maličkost. Finta se současným zapojením modemu a jiného síťového připojení, kdy najednou modem shodí spojení, mne postihla rovněž, nicméně jsem ji záměrně evokoval. Vskutku CDMA nemá rádo, když mu do sítě běží paket s jinou zdrojovou adresou, než jakou CDMA síť přidělila. Bohužel dostupná literatura je k tomuto velmi skoupá na informace a z několika zmínek pouze soudím, že síť si domyslí, že uživatel ukončil spojení, maje jinou adresu a aby šetřila zdroje, ukončí spojení i na své straně. Nicméně na tomto vysvětlení netrvám, literatury přímo k EV-DO je velmi poskrovnu v mé knihovničce :( Lze to ošetřit firewallem, Radek Hulán slibuje, že postup dá na svůj weblog, ostatně i on zde recenzuje CDMA. Na Root.cz najdete mini How-To pro Linux. Modem je veskrze standardní seriové zařízení, takže jde rozchodit pomocí AT příkazů, jejichž seznam je zde (v PDF). Jen mám mírné podezření, že modem je akorát standardní Qualcomm čipová sada osazená na desce a k tomu čtveřice konektorů (kromě USB, napájení a antény je tu ještě konektor pro GPS, jenž je k ničemu). Pardon, ještě displej - celkové provedení ale nic moc a problémy s ovladači tedy nejsou zrovna nejmenší. O digitálním podpisu pro XP si ovladače mohou nechat jen zdát. Pravdou ale také je, že když se vyhnete těmto nástrahám, funguje Data Express opravdu jako datový expres. Pro stahování web stránek je zcela porovnatelný s pevnolinkovým připojením jako je UPC Chello, protože web stránky se holt už o moc rychleji při vyšších rychlostech připojení nestahují v poměru k režii protokolu a jejich vykreslení, poznat je to samozřejmě při stahování souborů. Žádnou online hru jsem nezkoušel, žádnou nemám, takže nevím, jak to bude pro hraní... Poznámka na závěr: stejně rychle, jako Data Express funguje, se také prodává. Eurotel včera konstatoval, že zájem předčil jejich očekávání, přesná data ale zatím po jednom dni říci nechtěl. Z prodejen vím, že se CDMA prodává velmi dobře, v některých prodejnách dokonce vyprodali už první den a museli se nechat znovu zavážet. Prý mají zájem hlavně noví zákazníci. Snad to není jen kumulovaný zájem a bude to zájem trvalý, protože služba zatím vypadá opravdu moc hezky. Marigoldí diskusní fórum o CDMA je zde.","headline":"Eurotel Data Express i ve verzi CDMA2000 EV-DV (vlastní úprava)","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/item/eurotel-data-express-i-ve-verzi-cdma2000-ev-dv-vlastni-uprava/"},"url":"https://www.marigold.cz/item/eurotel-data-express-i-ve-verzi-cdma2000-ev-dv-vlastni-uprava/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="
+Včera jsem se zmocnil jednoho modemu GTran a aktivace Eurotel Data Express, doma jsem všechno instaloval na svém notebooku dle přiloženého návodu a ejhle, všechno fungovalo na první zátah. Tedy až na to, že doma nemám v obýváku stabilní signál a bylo třeba připojit tu prutovou anténu, která opravdu výrazně pomáhá. 
+
+Nerad bych se opakoval ve chvále a informacích, které zní odevšud jinud. Ano, jede mi to rychle jako z praku, průměrně kolem 3-400 Kb/s a i mně ta rychlost v průběhu stahování samotného kolísá. Na velká slova o rychlosti je ale zatím docela brzo. Průměrný ping se pohybuje kolem 140-160 ms a toto zpoždění je velmi stabilní, pingal jsem hodinu a v podstatě jsem se mimo tyto hodnoty nedostal, vyjma zaváhání cílového serveru. 
+
+Zajímavý byl pokus s přechodem na EV-DV, tedy Data Voice. Zkusil jsem totiž VoIP telefonii přes Data Express. Nejdříve Softphone a SIP protokol, pak Fayn a jeho H.323 - obojí šlapalo bez problémů, dokonce jsem při tom měl nahozený Overnet a linka se poprala s tím, že odesílal data do internetu rychlostí tak 4 KB/s při telefonování. Bohužel jsem neměl sluchátka, takže reprodutkory mikrofonu trochu vazbily, ale to byla chyba mé sestavy. A v případě X-Lite (SIP program) jsem si bohužel nějak vypnul mikrofon a pořád nemůžu přijít na to, jak ho dát zpět (ne, není to ztlumení ve Windows), takže mne protistrana neslyšela. MaLér o našich pokusech informuje zde.
+
+Pitomá je ovšem nestabilita. Od lidí z Eurotelu jsem se dozvěděl seznam triků, takže jsem již věděl, že modem se nebude nabíjet poté, co spustíte GTran program a že nabíječku je třeba připojit ještě před tím. Také jsem věděl, že vypnutí modemu pro slabé baterky může shodit nějaké staré notebooky. Moje dva měsíce stará IBM R50 to ale také nepřežila a vypnutí modemu při vyčerpání baterií ji shodilo do Blue screen. Problém byl v tom, že modem se snažil upozornit notebook, že by měl přejít do Power Save režimu a notebook s XP to nějak nerozdýchává, protože ho modem neupozorňuje zrovna korektně. Měla by to spravit nová verze ovladačů. Ku stažení u Eurotelu. 
+
+Další fintou je, že se mi modem nedaří zapnout, když je připojený k vypnutému notebooku. Je třeba nejdříve zapnout notebook, nebo odpojit kabel z modemu a zapnout jej. Ale to už je, řekl bych, maličkost.
+
+Finta se současným zapojením modemu a jiného síťového připojení, kdy najednou modem shodí spojení, mne postihla rovněž, nicméně jsem ji záměrně evokoval. Vskutku CDMA nemá rádo, když mu do sítě běží paket s jinou zdrojovou adresou, než jakou CDMA síť přidělila. Bohužel dostupná literatura je k tomuto velmi skoupá na informace a z několika zmínek pouze soudím, že síť si domyslí, že uživatel ukončil spojení, maje jinou adresu a aby šetřila zdroje, ukončí spojení i na své straně. Nicméně na tomto vysvětlení netrvám, literatury přímo k EV-DO je velmi poskrovnu v mé knihovničce :( Lze to ošetřit firewallem, Radek Hulán slibuje, že postup dá na svůj weblog, ostatně i on zde recenzuje CDMA.
+
+Na Root.cz najdete mini How-To pro Linux. Modem je veskrze standardní seriové zařízení, takže jde rozchodit pomocí AT příkazů, jejichž seznam je zde (v PDF). Jen mám mírné podezření, že modem je akorát standardní Qualcomm čipová sada osazená na desce a k tomu čtveřice konektorů (kromě USB, napájení a antény je tu ještě konektor pro GPS, jenž je k ničemu). Pardon, ještě displej - celkové provedení ale nic moc a problémy s ovladači tedy nejsou zrovna nejmenší. O digitálním podpisu pro XP si ovladače mohou nechat jen zdát. 
+
+Pravdou ale také je, že když se vyhnete těmto nástrahám, funguje Data Express opravdu jako datový expres. Pro stahování web stránek je zcela porovnatelný s pevnolinkovým připojením jako je UPC Chello, protože web stránky se holt už o moc rychleji při vyšších rychlostech připojení nestahují v poměru k režii protokolu a jejich vykreslení, poznat je to samozřejmě při stahování souborů. Žádnou online hru jsem nezkoušel, žádnou nemám, takže nevím, jak to bude pro hraní...
+
+Poznámka na závěr: stejně rychle, jako Data Express funguje, se také prodává. Eurotel včera konstatoval, že zájem předčil jejich očekávání, přesná data ale zatím po jednom dni říci nechtěl. Z prodejen vím, že se CDMA prodává velmi dobře, v některých prodejnách dokonce vyprodali už první den a museli se nechat znovu zavážet. Prý mají zájem hlavně noví zákazníci. Snad to není jen kumulovaný zájem a bude to zájem trvalý, protože služba zatím vypadá opravdu moc hezky. 
+
+Marigoldí diskusní fórum o CDMA je zde.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Eurotel Data Express i&nbsp;ve verzi CDMA2000 EV-DV (vlastní úprava)" />
+    <meta property="twitter:title" content="Eurotel Data Express i&nbsp;ve verzi CDMA2000 EV-DV (vlastní úprava)" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/item/eurotel-data-express-i-ve-verzi-cdma2000-ev-dv-vlastni-uprava/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Eurotel Data Express i&nbsp;ve verzi CDMA2000 EV-DV (vlastní úprava)</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+5.
+srpen
+  
+2004 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>
+Včera jsem se zmocnil jednoho modemu GTran a aktivace Eurotel Data Express, doma jsem všechno instaloval na svém notebooku dle přiloženého návodu a ejhle, všechno fungovalo na první zátah. Tedy až na to, že doma nemám v obýváku stabilní signál a bylo třeba připojit tu prutovou anténu, která opravdu výrazně pomáhá. </p>
+<p>
+Nerad bych se opakoval ve chvále a informacích, které zní odevšud jinud. Ano, jede mi to rychle jako z praku, průměrně kolem 3-400 Kb/s a i mně ta rychlost v průběhu stahování samotného kolísá. Na velká slova o rychlosti je ale zatím docela brzo. Průměrný ping se pohybuje kolem 140-160 ms a toto zpoždění je velmi stabilní, pingal jsem hodinu a v podstatě jsem se mimo tyto hodnoty nedostal, vyjma zaváhání cílového serveru. </p>
+<p>
+Zajímavý byl <em>pokus s přechodem na EV-DV, tedy Data Voice.</em> Zkusil jsem totiž VoIP telefonii přes Data Express. Nejdříve Softphone a SIP protokol, pak Fayn a jeho H.323 - obojí šlapalo bez problémů, dokonce jsem při tom měl nahozený Overnet a linka se poprala s tím, že odesílal data do internetu rychlostí tak 4 KB/s při telefonování. Bohužel jsem neměl sluchátka, takže reprodutkory mikrofonu trochu vazbily, ale to byla chyba mé sestavy. A v případě X-Lite (SIP program) jsem si bohužel nějak vypnul mikrofon a pořád nemůžu přijít na to, jak ho dát zpět (ne, není to ztlumení ve Windows), takže mne protistrana neslyšela. MaLér o našich pokusech <a href="http://www.maler.cz/index.php?id=142">informuje zde</a>.</p>
+<p>
+Pitomá je ovšem nestabilita. Od lidí z Eurotelu jsem se dozvěděl seznam triků, takže jsem již věděl, že modem se nebude nabíjet poté, co spustíte GTran program a že nabíječku je třeba připojit ještě před tím. Také jsem věděl, že vypnutí modemu pro slabé baterky může shodit nějaké staré notebooky. Moje dva měsíce stará IBM R50 to ale také nepřežila a vypnutí modemu při vyčerpání baterií ji shodilo do Blue screen. Problém byl v tom, že modem se snažil upozornit notebook, že by měl přejít do Power Save režimu a notebook s XP to nějak nerozdýchává, protože ho modem neupozorňuje zrovna korektně. Měla by to spravit nová verze ovladačů. Ku stažení u Eurotelu. </p>
+<p>
+Další fintou je, že se mi modem nedaří zapnout, když je připojený k vypnutému notebooku. Je třeba nejdříve zapnout notebook, nebo odpojit kabel z modemu a zapnout jej. Ale to už je, řekl bych, maličkost.</p>
+<p>
+Finta se současným zapojením modemu a jiného síťového připojení, kdy najednou modem shodí spojení, mne postihla rovněž, nicméně jsem ji záměrně evokoval. Vskutku CDMA nemá rádo, když mu do sítě běží paket s jinou zdrojovou adresou, než jakou CDMA síť přidělila. Bohužel dostupná literatura je k tomuto velmi skoupá na informace a z několika zmínek pouze soudím, že síť si domyslí, že uživatel ukončil spojení, maje jinou adresu a aby šetřila zdroje, ukončí spojení i na své straně. Nicméně na tomto vysvětlení netrvám, literatury přímo k EV-DO je velmi poskrovnu v mé knihovničce :( Lze to ošetřit firewallem, Radek Hulán slibuje, že postup dá na svůj weblog, ostatně i on zde <a href="http://hulan.info/blog/item/eurotel-cdma-prakticke-zkusenosti-a-srovnani-s-gprs">recenzuje CDMA</a>.</p>
+<p>
+Na Root.cz najdete <a href="http://www.root.cz/clanek/2334">mini How-To pro Linux</a>. Modem je veskrze standardní seriové zařízení, takže jde rozchodit pomocí AT příkazů, jejichž <a href="http://www.eurotel.cz/public/5f/97/e0/f7/43578_56824_ATprikazy.pdf">seznam je zde</a> (v PDF). Jen mám mírné podezření, že modem je akorát standardní Qualcomm čipová sada osazená na desce a k tomu čtveřice konektorů (kromě USB, napájení a antény je tu ještě konektor pro GPS, jenž je k ničemu). Pardon, ještě displej - celkové provedení ale nic moc a problémy s ovladači tedy nejsou zrovna nejmenší. O digitálním podpisu pro XP si ovladače mohou nechat jen zdát. </p>
+<p>
+Pravdou ale také je, že když se vyhnete těmto nástrahám, funguje Data Express opravdu jako datový expres. Pro stahování web stránek je zcela porovnatelný s pevnolinkovým připojením jako je UPC Chello, protože web stránky se holt už o moc rychleji při vyšších rychlostech připojení nestahují v poměru k režii protokolu a jejich vykreslení, poznat je to samozřejmě při stahování souborů. Žádnou online hru jsem nezkoušel, žádnou nemám, takže nevím, jak to bude pro hraní...</p>
+<p>
+Poznámka na závěr: stejně rychle, jako Data Express funguje, se také prodává. Eurotel včera konstatoval, že zájem předčil jejich očekávání, přesná data ale zatím po jednom dni říci nechtěl. Z prodejen vím, že se CDMA prodává velmi dobře, v některých prodejnách dokonce vyprodali už první den a museli se nechat znovu zavážet. Prý mají zájem hlavně noví zákazníci. Snad to není jen kumulovaný zájem a bude to zájem trvalý, protože služba zatím vypadá opravdu moc hezky. </p>
+<p>
+<strong>Marigoldí </strong><a href="http://www.marigold.cz/forum/viewforum.php?id=6"><strong>diskusní fórum o CDMA je zde</strong></a><strong>.</strong></p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
+                <p class="excerpt">
+                  
+                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
+                <p class="excerpt">
+                  
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Eurotel Data Express i&nbsp;ve verzi CDMA2000 EV-DV (vlastní úprava)&url=https://www.marigold.cz/item/eurotel-data-express-i-ve-verzi-cdma2000-ev-dv-vlastni-uprava/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/item/eurotel-data-express-i-ve-verzi-cdma2000-ev-dv-vlastni-uprava/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_posts/2004-08-05-eurotel-data-express-i-ve-verzi-cdma2000-ev-dv-vlastni-uprava.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/item/soukrome-astrologician-a-me-zacatky-na-internetu/">&laquo; Soukromé: Astrologician a&nbsp;mé začátky na internetu</a> |
+      
+      
+      
+        <a class="next" href="/item/ip-telephony-workshop-bude-v-listopadu/">IP Telephony Workshop bude v&nbsp;listopadu &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

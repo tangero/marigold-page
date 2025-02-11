@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Autonomní Agenti v AI | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Autonomní Agenti v AI" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Důležitým tématem v umělé inteligenci se stali v poslední době “agenti”, relativně autonomně působící systémy, které v určitých mantinelech vykonávají samostatně nějakou činnost. Jak je naprogramovat?" />
+<meta property="og:description" content="Důležitým tématem v umělé inteligenci se stali v poslední době “agenti”, relativně autonomně působící systémy, které v určitých mantinelech vykonávají samostatně nějakou činnost. Jak je naprogramovat?" />
+<link rel="canonical" href="https://www.marigold.cz/ai/agenti/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/agenti/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-28T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Autonomní Agenti v AI" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-28T00:00:00+00:00","datePublished":"2024-12-28T00:00:00+00:00","description":"Důležitým tématem v umělé inteligenci se stali v poslední době “agenti”, relativně autonomně působící systémy, které v určitých mantinelech vykonávají samostatně nějakou činnost. Jak je naprogramovat?","headline":"Autonomní Agenti v AI","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/agenti/"},"url":"https://www.marigold.cz/ai/agenti/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Důležitým tématem v umělé inteligenci se stali v poslední době “agenti”, relativně autonomně působící systémy, které v určitých mantinelech vykonávají samostatně nějakou činnost. Jak je naprogramovat?
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Autonomní Agenti v AI" />
+    <meta property="twitter:title" content="Autonomní Agenti v AI" />
+    
+
+    
+    <!-- page.thumbnail -->
+    
+        <!-- page.thumbnail https://leoscale.co/wp-content/uploads/2024/01/AI-Autonomous-Agents.png |  -->
+    <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/https://leoscale.co/wp-content/uploads/2024/01/AI-Autonomous-Agents.png"/>
+    <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/https://leoscale.co/wp-content/uploads/2024/01/AI-Autonomous-Agents.png"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/agenti/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Autonomní Agenti v AI</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+28.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+  
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/https://leoscale.co/wp-content/uploads/2024/01/AI-Autonomous-Agents.png" alt="Autonomní Agenti v AI">
+  </div>
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Důležitým tématem v umělé inteligenci se stali v poslední době “agenti”, relativně autonomně působící systémy, které v určitých mantinelech vykonávají samostatně nějakou činnost. Jak je naprogramovat?</p>
+
+<p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#co-jsou-to-agenti" id="markdown-toc-co-jsou-to-agenti">Co jsou to agenti?</a></li>
+  <li><a href="#klíčové-schopnosti-agentů-ai" id="markdown-toc-klíčové-schopnosti-agentů-ai">Klíčové schopnosti agentů AI</a></li>
+  <li><a href="#kdy-a-kdy-používat-agenty" id="markdown-toc-kdy-a-kdy-používat-agenty">Kdy (a kdy) používat agenty</a></li>
+  <li><a href="#existující-frameworky" id="markdown-toc-existující-frameworky">Existující frameworky</a>    <ul>
+      <li><a href="#srovnání-nástrojů-pro-tvorbu-ai-agentů" id="markdown-toc-srovnání-nástrojů-pro-tvorbu-ai-agentů">Srovnání nástrojů pro tvorbu AI agentů</a></li>
+      <li><a href="#klíčová-zjištění" id="markdown-toc-klíčová-zjištění">Klíčová zjištění</a></li>
+      <li><a href="#doporučená-kritéria-výběru" id="markdown-toc-doporučená-kritéria-výběru">Doporučená kritéria výběru</a></li>
+    </ul>
+  </li>
+  <li><a href="#stavební-bloky-workflow-a-agenti" id="markdown-toc-stavební-bloky-workflow-a-agenti">Stavební bloky, workflow a agenti</a></li>
+</ul>
+
+<p>Agent v AI je nástroj, který může mít svou vlastní “vůli”, nejsou pevně ošetřeny všechny jeho podmínky a mají zadané pouze téma, kterým se zabývají. Vůli v AI reprezentuje kvalitně natrénovaný velký jazykový model LLM, jenž umožňuje klouzavé zadání úkolu. Jak si takového AI agenta můžete představit?</p>
+
+<blockquote>
+  <p>Poznámka: o <a href="/item/jak-programovat-s-ai/">programování s AI</a> pojednává samostatný článek.</p>
+</blockquote>
+
+<p>Tak například můžete vytvořit agenta, který hlídá tweety na síti X a v případě, že dojde k názoru, že příspěvky věnované určitým firmám mohou mít vliv na kurz jejich akcií, upozorní vás nebo rovnou dá přes API pokyn k obchodní transakci. Jak definovat ono “vliv na kurz akcií”? Za starých časů byste definovali seznam slov, které se pozitivně či negativně podepíšou na kurzu akcií a definovali, kolik sledujících musí mít účet, který takový příspěvek vydá. A hlídali byste, kdy na sledovaném účtu vyjde “úspěch” nebo “fail” či jiná klíčová slova.</p>
+
+<p>Jiným příkladem může být vytvoření agenta, který zjistí, kdy je nejvhodnější koupit letenky na vaši dovolenou tak, aby byla nejlepší cena za předstih - a následně je v tuto nejvhodnější chvili objedná.</p>
+
+<p>Díky LLM může být agent výrazně úspěšnější, protože je schopno výrazně lépe rozpoznávat “sentiment” příspěvku, nemusíte tedy vytvářet slovníky pozitivních či negativních slov a také LLM snadno rozpozná, jaký úspěch takový příspěvek ve virálním šíření může mít. S pomocí LLM agenta je tedy výrazně jednodušší takový systém vytvořit.</p>
+
+<p>Agenti v AI jsou zatím nový a začínající koncept. Ale také velmi slibný. Zatím vám neujíždí vlak - vytvořit agenta zejména pro české prostředí, jazyk a reálie není úplně přímočaré. Ale situace se bude postupně měnit, proto je rozumné být informován a připraven.</p>
+
+<p>Úspěch agentů bude záviset na tom, jak se jednotlivé systémy budou moci pomocí nejrůznějších API propojovat a jak budou konkrétní LLM umět se na tato API napojit pomocí soukromých klíčů. Dnes například není možné se z obecného LLM jako je Claude připojit se na firemní Github, projít zdrojové kódy a hledat chyby v kódu, ačkoliv teoreticky to možné je. Je ale nutná manuální práce. Tu by agenti mohli nahradit.</p>
+
+<p>Pojďme se tedy podívat na to, co dnes agenti obnášejí, jak je použít a být na ně připraven.</p>
+
+<h2 id="co-jsou-to-agenti">Co jsou to agenti?</h2>
+
+<p>„Agenta“ lze definovat několika způsoby. Někteří zákazníci definují agenty jako plně autonomní systémy, které pracují nezávisle po delší dobu a používají různé nástroje k plnění složitých úkolů. Jiní používají tento termín k popisu více preskriptivních implementací, které se řídí předem definovanými pracovními postupy. Osobně považuji za důležitou část agentů řízení pomocí LLM, díky čemuž jsou agenti adaptabilní i na nepředvídatelné možnosti. Tím se liší od systémů, které používají k rozhodování jen například strojové učení a neuronové sítě, tedy předvídatelné statistické modely.</p>
+
+<p>Klíčové vlastnosti agentů zahrnují:</p>
+
+<ul>
+  <li>Flexibilitu a adaptivitu: Dynamicky si volí postupy a nástroje podle aktuální situace.</li>
+  <li>Samostatnost: Udržují kontrolu nad svým procesem a přizpůsobují se požadavkům úkolu.</li>
+  <li>Rozhodovací schopnosti řízené modelem: Využívají sílu LLM k plánování a realizaci komplexních úloh.</li>
+</ul>
+
+<p>Samostatné agentní systémy můžeme rozlišovat do dvou základních architektonických skupin:</p>
+
+<ul>
+  <li>Workflow jsou systémy, kde jsou LLM a nástroje orchestrovány prostřednictvím předem definovaných cest kódu.</li>
+  <li>Agenti jsou naproti tomu systémy, kde LLM dynamicky řídí své vlastní procesy a použití nástrojů a udržují si kontrolu nad tím, jak plní úkoly.</li>
+</ul>
+
+<p>Z popisu vidíme, že Workflow jsou více rigidní systémy, které mají přesně a úzce vymezený mantinel. Agenti oproti tomu mají mnohem širší pole působnosti omezené spíše schopností či vlastnostmi použitého LLM.</p>
+
+<p>Podíváme se postupně na oba systémy.</p>
+
+<h2 id="klíčové-schopnosti-agentů-ai">Klíčové schopnosti agentů AI</h2>
+
+<p>Agenti pro své fungování potřebujují sadu schopností, které jim umožní plnit zadání.</p>
+
+<ul>
+  <li>
+    <p>Rozumové uvažování: Dokážou plánovat, promýšlet problémy a upravovat svůj přístup, pokud původní řešení nefunguje, což je činí efektivními při řešení složitých úkolů.</p>
+  </li>
+  <li>
+    <p>Jednání: Kromě chápání mohou provádět akce pomocí nástrojů, jako je vyhledávání na webu nebo dotazy do databáze, což jim umožňuje přístup k informacím v reálném čase.</p>
+  </li>
+  <li>
+    <p>Paměť: Dokážou uchovávat informace z minulých interakcí, což umožňuje personalizované reakce a přizpůsobení na základě historie uživatele.</p>
+  </li>
+</ul>
+
+<pre><code class="language-mermaid">graph TD
+User((Uživatel)) -- Komunikuje s --&gt; Agent[Agent]
+Agent -- Využívá --&gt; Memory[Paměť]
+Agent -- Využívá --&gt; Planning[Plánování]
+Agent -- Využívá --&gt; Tools[Nástroje]
+</code></pre>
+
+<h2 id="kdy-a-kdy-používat-agenty">Kdy (a kdy) používat agenty</h2>
+
+<p>Při vytváření aplikací s LLM doporučujeme hledat co nejjednodušší řešení a složitost zvyšovat pouze v případě potřeby. To může znamenat, že agentové systémy nebudete budovat vůbec. Agentové systémy často vyměňují latenci a náklady za lepší výkonnost či širší obslužnost úloh a měli byste zvážit, kdy má tento kompromis smysl. Je to jako s každým programováním, musíte zvážit, zda nejdete s kanonem na vrabce. Například pád kurzu akcií není třeba analyzovat pomocí LLM, stačí běžná statistická matematická analýza, která je rychlejší a méně náročná na strojový čas. Na analýzu sentimentu z Twitteru z prvního příkladu ji ale už použít nejde.</p>
+
+<p>Pokud je větší složitost opodstatněná, Workflowy nabízejí předvídatelnost a konzistenci pro dobře definované úlohy, zatímco agenti jsou lepší volbou, pokud je potřeba flexibilita a rozhodování založené na modelu v měřítku. Pro mnoho aplikací však obvykle stačí optimalizovat jednotlivá volání LLM s vyhledáváním a příklady v kontextu.</p>
+
+<h2 id="existující-frameworky">Existující frameworky</h2>
+
+<p>Existuje mnoho vývojových frameworků, které usnadňují implementaci agentových systémů. Řada z nich umožňuje low-code nebo no-code přístup, kdy k jejich použití je potřeba málo či žádné programování. Mají různé výkonnostní i cenové parametry a možnosti napojení, některé z nich jsou velmi omezené.</p>
+
+<h3 id="srovnání-nástrojů-pro-tvorbu-ai-agentů">Srovnání nástrojů pro tvorbu AI agentů</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nástroj AI agentů</th>
+      <th>Open Source</th>
+      <th>Cenový model</th>
+      <th>Klíčové silné stránky</th>
+      <th>Možnosti integrace</th>
+      <th>Jedinečné funkce</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://relevance.ai/">Relevance AI</a></td>
+      <td>Ne</td>
+      <td>Freemium/Placené</td>
+      <td>Tvorba agentů bez kódování</td>
+      <td>Podpora OpenAI, Anthropic, Cohere</td>
+      <td>Analýza dat v reálném čase</td>
+    </tr>
+    <tr>
+      <td><a href="https://zapier.com/central">Zapier Central</a></td>
+      <td>Ne</td>
+      <td>Předplatné</td>
+      <td>Propojení 6 000+ aplikací</td>
+      <td>Široká integrace aplikací</td>
+      <td>Přístup k živým datům napříč platformami</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-studio">Microsoft Copilot Studio</a></td>
+      <td>Ne</td>
+      <td>Součást Microsoft 365</td>
+      <td>Bezproblémová integrace ekosystému Microsoft</td>
+      <td>Microsoft 365, SAP, Workday, ServiceNow</td>
+      <td>Schopnosti generativní AI</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.salesforce.com/">Salesforce Agentforce</a></td>
+      <td>Ne</td>
+      <td>Součást ekosystému Salesforce</td>
+      <td>Tvorba agentů specifických pro CRM</td>
+      <td>Salesforce CRM</td>
+      <td>Bezpečnostní záruky, proaktivní automatizace</td>
+    </tr>
+    <tr>
+      <td><a href="https://agentgpt.reworkd.ai/">AgentGPT</a></td>
+      <td>Ne</td>
+      <td>Freemium</td>
+      <td>Rychlé vytváření agentů v prohlížeči</td>
+      <td>Integrace GPT-3.5</td>
+      <td>Předpřipravené šablony</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.beamdata.ai/">Beam</a></td>
+      <td>Ne</td>
+      <td>Předplatné</td>
+      <td>Automatizace procesů</td>
+      <td>Integrace CRM, ERP, CMS</td>
+      <td>Přizpůsobitelné chování agentů</td>
+    </tr>
+    <tr>
+      <td><a href="https://cloud.google.com/vertex-ai">Vertex AI</a> (Google Cloud)</td>
+      <td>Ne</td>
+      <td>Placeno dle využití</td>
+      <td>Podpora no-code a code-first přístupů</td>
+      <td>Zdroje podnikových dat, JIRA, ServiceNow</td>
+      <td>Monitorování v reálném čase</td>
+    </tr>
+    <tr>
+      <td><a href="https://spell.so/">Spell</a></td>
+      <td>Ne</td>
+      <td>Freemium/Placené</td>
+      <td>Paralelní úlohy</td>
+      <td>Rozsáhlá knihovna zásuvných modulů</td>
+      <td>Napájeno GPT-4</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Significant-Gravitas/Auto-GPT">AutoGPT</a></td>
+      <td><strong>Ano</strong></td>
+      <td>Zdarma</td>
+      <td>Pokročilé samostatné zadávání</td>
+      <td>Schopnost vyhledávání na internetu</td>
+      <td>Schopnost spouštění kódu</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/geekan/MetaGPT">MetaGPT</a></td>
+      <td><strong>Ano</strong></td>
+      <td>Zdarma</td>
+      <td>Spolupráce více agentů</td>
+      <td>Pokročilé generování kódu</td>
+      <td>Adaptivní učení</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/microsoft/autogen">AutoGen</a> (Microsoft)</td>
+      <td><strong>Ano</strong></td>
+      <td>Zdarma</td>
+      <td>Systém více agentů</td>
+      <td>Podpora open-source LLM</td>
+      <td>Dynamické konverzace</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/FlowiseAI/Flowise">Flowise</a></td>
+      <td><strong>Ano</strong></td>
+      <td>Zdarma</td>
+      <td>Rozhraní drag-and-drop</td>
+      <td>Přes 100 integrací</td>
+      <td>Vlastní nástroje a šablony</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/OpenBMB/ChatDev">ChatDev</a></td>
+      <td><strong>Ano</strong></td>
+      <td>Zdarma</td>
+      <td>Virtuální vývoj softwaru</td>
+      <td>Integrace GitHub</td>
+      <td>Tvorba softwaru přirozeným jazykem</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/langflow-ai/langflow">Langflow</a></td>
+      <td><strong>Ano</strong></td>
+      <td>Zdarma</td>
+      <td>Grafické uživatelské rozhraní</td>
+      <td>Integrace LangChain a LlamaIndex</td>
+      <td>Modulární design</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/joaomdmoura/CrewAI">CrewAI</a></td>
+      <td><strong>Ano</strong></td>
+      <td>Zdarma</td>
+      <td>Automatizace workflow více agentů</td>
+      <td>Podpora Webhook a gRPC</td>
+      <td>Přizpůsobitelné nástroje</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TransformerOptimus/SuperAGI">SuperAGI</a></td>
+      <td><strong>Ano</strong></td>
+      <td>Zdarma</td>
+      <td>Správa souběžných agentů</td>
+      <td>Rozšiřitelné schopnosti</td>
+      <td>Nasazení agentů připravených do produkce</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/langchain-ai/langgraph">LangGraph</a> (LangChain)</td>
+      <td><strong>Ano</strong></td>
+      <td>Zdarma</td>
+      <td>Tvorba komplexních grafů pro LLM</td>
+      <td>Nativní integrace s LangChain</td>
+      <td>Stavové grafy pro LLM agenty</td>
+    </tr>
+    <tr>
+      <td><a href="https://aws.amazon.com/bedrock/">Amazon Bedrock AI Agent</a></td>
+      <td>Ne</td>
+      <td>Placeno dle využití</td>
+      <td>Škálovatelné AI agenti</td>
+      <td>Integrace s AWS ekosystémem</td>
+      <td>Bezpečnostní a soukromé AI modely</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Ironclad/rivet">Rivet</a></td>
+      <td><strong>Ano</strong></td>
+      <td>Zdarma</td>
+      <td>Grafické rozhraní pro pracovní postupy LLM</td>
+      <td>Podpora více modelů</td>
+      <td>Vizuální tvorba a ladění pracovních toků</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.vellum.ai/">Vellum</a></td>
+      <td>Ne</td>
+      <td>Předplatné</td>
+      <td>Testování a ladění AI pracovních toků</td>
+      <td>Podpora více jazykových modelů</td>
+      <td>Robustní rozhraní pro vývoj AI</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="klíčová-zjištění">Klíčová zjištění</h3>
+<ul>
+  <li>10 platforem je open source</li>
+  <li>Většina komerčních řešení nabízí freemium nebo předplatitelské modely</li>
+  <li>Platformy se zaměřují na no-code nebo low-code řešení pro tvorbu agentů</li>
+</ul>
+
+<h3 id="doporučená-kritéria-výběru">Doporučená kritéria výběru</h3>
+<ol>
+  <li>Technické dovednosti: Open-source pro vývojáře, no-code pro netechnické uživatele</li>
+  <li>Rozpočet: Open-source možnosti vs. podniková řešení</li>
+  <li>Potřeby integrace: Zkontrolujte kompatibilitu specifických aplikací a nástrojů</li>
+  <li>Specifický případ použití: Některé jsou lepší pro konkrétní domény (např. Salesforce pro CRM)</li>
+</ol>
+
+<p>Tyto frameworky usnadňují začátky tím, že zjednodušují standardní nízkoúrovňové úlohy, jako je volání LLM, definování a rozbor nástrojů a obsluhu volání externích zdrojů. Často však vytvářejí další vrstvy abstrakce, které mohou zakrýt základní problémy a také odpovědi systémů, což ztěžuje ladění. Mohou také svádět k přidávání složitosti, když by stačilo jednodušší nastavení. Pamatujte na to, že ve vývoji neustále platí Keep it simple, stupid! Poenchávejte vše tak jednoduché, jak to jen jde (já vím, že to není doslovný překlad)…</p>
+
+<p>Vývojářům doporučujeme, aby začali používat rozhraní LLM API přímo: mnoho vzorů lze implementovat v několika řádcích kódu. Pokud použijete framework, ujistěte se, že rozumíte základnímu kódu. Nesprávné předpoklady o tom, co je pod kapotou, jsou častým zdrojem chyb zákazníků.</p>
+
+<h2 id="stavební-bloky-workflow-a-agenti"><a href="/ai/architektura-agentu/">Stavební bloky, workflow a agenti</a></h2>
+<p>V této části se budeme zabývat běžnými druhy agentových systémů. Začneme základním stavebním blokem - rozšířeným LLM - a postupně budeme zvyšovat složitost, od jednoduchých workflow až po autonomní agenty.
+👉 <a href="/ai/architektura-agentu/">pokračuj ve čtení zde</a></p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
+                <p class="excerpt">
+                  
+                    
+Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůli t...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee: hardware startup je zatraceně těžký</a>
+                <p class="excerpt">
+                  
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Autonomní Agenti v AI&url=https://www.marigold.cz/ai/agenti/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/agenti/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2024-12-28-agenti.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/chatgpt-canvas/">&laquo; ChatGPT Canvas - vizuální prostředí pro tvorbu textu s AI</a> |
+      
+      
+      
+        <a class="next" href="/ai/architektura-agentu/">Stavební bloky, workflow a agenti &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

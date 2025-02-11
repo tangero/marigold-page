@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tokenizace textu | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Tokenizace textu" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Tokenizace textu je proces rozdělení textu na menší jednotky zvané tokeny. Jak tokenizace funguje a jaký je rozdíl v tokenizaci mezi angličtinou a češtinou? Pojďme si o tom něco povědět." />
+<meta property="og:description" content="Tokenizace textu je proces rozdělení textu na menší jednotky zvané tokeny. Jak tokenizace funguje a jaký je rozdíl v tokenizaci mezi angličtinou a češtinou? Pojďme si o tom něco povědět." />
+<link rel="canonical" href="https://www.marigold.cz/ai/tokenizace-textu/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/tokenizace-textu/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-05T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Tokenizace textu" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-07-05T00:00:00+00:00","datePublished":"2024-07-05T00:00:00+00:00","description":"Tokenizace textu je proces rozdělení textu na menší jednotky zvané tokeny. Jak tokenizace funguje a jaký je rozdíl v tokenizaci mezi angličtinou a češtinou? Pojďme si o tom něco povědět.","headline":"Tokenizace textu","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/tokenizace-textu/"},"url":"https://www.marigold.cz/ai/tokenizace-textu/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Tokenizace textu je proces rozdělení textu na menší jednotky zvané tokeny. Jak tokenizace funguje a jaký je rozdíl v tokenizaci mezi angličtinou a češtinou? Pojďme si o tom něco povědět.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Tokenizace textu" />
+    <meta property="twitter:title" content="Tokenizace textu" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/tokenizace-textu/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Tokenizace textu</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+5.
+červenec
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Tokenizace textu je proces rozdělení textu na menší jednotky zvané tokeny. Jak tokenizace funguje a jaký je rozdíl v tokenizaci mezi angličtinou a češtinou? Pojďme si o tom něco povědět.</p>
+
+<h2 id="obecný-proces-tokenizace">Obecný proces tokenizace:</h2>
+
+<p>Jak tokenizace probíhá krok za krokem …</p>
+
+<ol>
+  <li>Předzpracování textu - probíhá odstranění nepotřebných znaků a formátování. Následně dojde k normalizaci textu (např. převod na malá písmena).</li>
+  <li>Segmentace - tedy rozdělení textu na menší jednotky (slova, podslova, znaky).</li>
+  <li>Normalizace tokenů - úprava tokenů do standardní formy</li>
+  <li>Vytvoření slovníku - sestavení seznamu unikátních tokenů</li>
+  <li>Indexace - Přiřazení číselných identifikátorů každému tokenu</li>
+</ol>
+
+<p>Tokenizace textu a jeho následná vektorizace jsou klíčové procesy v oblasti zpracování přirozeného jazyka (NLP), které umožňují převést lidsky čitelný text do formy srozumitelné pro strojové učení a neuronové sítě. Tento článek se zaměří na tyto procesy s důrazem na specifika českého jazyka.</p>
+
+<p>Začněme s naším příkladovým textem: <em>“Lil jsem vodu ze skleničky do lahve, dokud nebyla plná.”</em> Prvním krokem je tokenizace, tedy rozdělení textu na menší jednotky zvané tokeny. V případě češtiny je tento proces komplexnější než u analytických jazyků jako je angličtina, a to především kvůli bohaté morfologii a flexibilitě slovosledu.</p>
+
+<p>Pro češtinu bychom mohli použít pokročilý tokenizér, který by text rozdělil následovně:
+<em>[“Lil”, “jsem”, “vodu”, “ze”, “skleničky”, “do”, “lahve”, “,”, “dokud”, “nebyla”, “plná”, “.”]</em></p>
+
+<p>Všimněte si, že tokenizér zachoval interpunkci jako samostatné tokeny. V sofistikovanějších systémech by mohl být použit lemmatizátor, který by převedl slova do jejich základních tvarů, například “Lil” na “lít” a “skleničky” na “sklenička”. Tento krok by mohl vypadat takto:
+<em>[“lít”, “být”, “voda”, “z”, “sklenička”, “do”, “lahev”, “,”, “dokud”, “nebýt”, “plný”, “.”]</em></p>
+
+<p>Dalším krokem je převod těchto tokenů na číselné vektory. Existuje několik metod, jak toho dosáhnout. Jednou z nejjednodušších je one-hot encoding, kde každý token je reprezentován vektorem o délce rovné velikosti slovníku, s jedničkou na pozici odpovídající danému tokenu a nulami jinde. Tento přístup je však neefektivní pro velké slovníky a nezachycuje sémantické vztahy mezi slovy.</p>
+
+<p>Sofistikovanější přístup využívá předtrénované modely <em>word embeddings</em>, jako je <em><a href="https://cs.wikipedia.org/wiki/Word2Vec">Word2Vec</a>, GloVe nebo FastText</em>. Jsou to vlastně vektorové reprezentace každého slova. Tyto metody mapují každý token do vektorového prostoru s typicky 100-300 dimenzemi, kde sémanticky podobná slova mají podobné vektorové reprezentace.</p>
+
+<p>Představme si, že používáme modely o 100 dimenzích. Náš text by byl převeden na matici o rozměrech 12x100, kde každý řádek reprezentuje jeden token. Například vektor pro slovo “voda” by mohl vypadat takto (zkráceno pro přehlednost):
+<em>[0.2, -0.1, 0.5, …, 0.3]</em></p>
+
+<p>Pro tokeny, které nejsou běžnými slovy, jako je interpunkce, se často používají speciální vektory nebo se jim přiřadí nulový vektor.</p>
+
+<p>Je důležité poznamenat, že moderní jazykové modely jako BERT nebo GPT často používají metodu tokenizace na podslova (subword tokenization). Ta by náš text mohla rozdělit ještě jemněji, například “skleničky” na “sklen” a “ičky”. Tato metoda umožňuje efektivněji pracovat s méně častými slovy a složeninami.</p>
+
+<p>Poslední krok zahrnuje sestavení těchto vektorových reprezentací do formy vhodné pro vstup do neuronové sítě. To může znamenat zarovnání všech vět na stejnou délku pomocí padding tokenů, nebo použití maskovacích technik pro efektivní zpracování sekvencí různých délek.</p>
+
+<p>Tento proces tokenizace a vektorizace je základním kamenem pro další zpracování textu v úlohách jako je strojový překlad, analýza sentimentu nebo generování textu. Umožňuje převést bohatou a komplexní strukturu lidského jazyka do matematicky zpracovatelné formy, která zachovává klíčové lingvistické a sémantické informace.​​​​​​​​​​​​​​​​</p>
+
+<p>A my se ještě podívejme na to, jak se liší proces při tokenizaci angličtiny a češtiny…</p>
+
+<h3 id="tokenizace-v-angličtině">Tokenizace v angličtině:</h3>
+
+<ol>
+  <li>Rozdělení na slova
+    <ul>
+      <li>Obvykle jednoduché rozdělení podle mezer a interpunkce</li>
+    </ul>
+  </li>
+  <li>Ošetření speciálních případů
+    <ul>
+      <li>Zpracování zkratek (např. “don’t”, “I’m”)</li>
+      <li>Zacházení s čísly a datumy</li>
+    </ul>
+  </li>
+  <li>Lemmatizace nebo stemming
+    <ul>
+      <li>Převod slov na základní tvar (např. “running” -&gt; “run”)</li>
+    </ul>
+  </li>
+  <li>Tokenizace na podslova
+    <ul>
+      <li>Použití algoritmů jako Byte-Pair Encoding (BPE) nebo WordPiece</li>
+      <li>Rozdělení méně častých slov na častější podslova</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="tokenizace-v-češtině">Tokenizace v češtině:</h3>
+
+<ol>
+  <li>Složitější rozdělení na slova
+    <ul>
+      <li>Nutnost řešit více speciálních případů (např. “chtěl bych”)</li>
+    </ul>
+  </li>
+  <li>Zpracování diakritiky
+    <ul>
+      <li>Rozhodnutí, zda zachovat nebo odstranit diakritická znaménka</li>
+    </ul>
+  </li>
+  <li>Lemmatizace
+    <ul>
+      <li>Komplexnější proces kvůli bohaté morfologii češtiny</li>
+      <li>Převod slov do základního tvaru (např. “psi” -&gt; “pes”)</li>
+    </ul>
+  </li>
+  <li>Řešení předpon a přípon
+    <ul>
+      <li>Analýza složených slov a odvozených tvarů</li>
+    </ul>
+  </li>
+  <li>Tokenizace na podslova
+    <ul>
+      <li>Může být složitější kvůli větší variabilitě tvarů slov</li>
+      <li>Nutnost zohlednit specifické české znaky</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="hlavní-rozdíly-mezi-tokenizací-v-angličtině-a-češtině">Hlavní rozdíly mezi tokenizací v angličtině a češtině:</h3>
+
+<ol>
+  <li>Morfologická složitost
+    <ul>
+      <li>Čeština má bohatší flexi, což vede k většímu počtu tvarů slov</li>
+    </ul>
+  </li>
+  <li>Volnější slovosled
+    <ul>
+      <li>V češtině je obtížnější určit hranice frází pouze na základě pořadí slov</li>
+    </ul>
+  </li>
+  <li>Diakritika
+    <ul>
+      <li>Čeština používá diakritická znaménka, která mohou ovlivnit význam</li>
+    </ul>
+  </li>
+  <li>Složená slova
+    <ul>
+      <li>Čeština má tendenci tvořit dlouhá složená slova, která mohou vyžadovat speciální zpracování</li>
+    </ul>
+  </li>
+  <li>Velikost slovníku
+    <ul>
+      <li>Český tokenizér obvykle potřebuje větší slovník kvůli větší variabilitě tvarů slov</li>
+    </ul>
+  </li>
+  <li>Kontextová závislost
+    <ul>
+      <li>V češtině je často potřeba brát v úvahu širší kontext pro správnou tokenizaci a lemmatizaci</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Tokenizace češtiny je obecně složitější proces vyžadující sofistikovanější přístupy a nástroje ve srovnání s angličtinou, zejména kvůli bohatší morfologii a složitější struktuře jazyka.​​​​​​​​​​​​​​​​ I proto mohou být výstupy v jednotlivých jazycích velmi rozdílné.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
+                <p class="excerpt">
+                  
+                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu
+</a>
+                <p class="excerpt">
+                  
+                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
+Tohle je dalš...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Tokenizace textu&url=https://www.marigold.cz/ai/tokenizace-textu/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/tokenizace-textu/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2024-07-05-tokenizace-textu.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/llm/">&laquo; Jak fungují velké jazykové modely LLM - co se děje po zadání promptu</a> |
+      
+      
+      
+        <a class="next" href="/ai/transformatory/">Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

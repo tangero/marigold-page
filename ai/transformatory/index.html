@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Základem LLM je architektura Transformátorů, představená v roce 2017 v průlomové práci “Attention Is All You Need”. Tato architektura přinesla několik klíčových inovací, které umožnily zpracování dlouhých sekvencí textu s velkou efektivitou a přesností. Technologie transformátorů dnes stojí v základech LLM jako jsou GPT - kde to písmeno T jsou právě Transformátory." />
+<meta property="og:description" content="Základem LLM je architektura Transformátorů, představená v roce 2017 v průlomové práci “Attention Is All You Need”. Tato architektura přinesla několik klíčových inovací, které umožnily zpracování dlouhých sekvencí textu s velkou efektivitou a přesností. Technologie transformátorů dnes stojí v základech LLM jako jsou GPT - kde to písmeno T jsou právě Transformátory." />
+<link rel="canonical" href="https://www.marigold.cz/ai/transformatory/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/transformatory/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-05T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-07-05T00:00:00+00:00","datePublished":"2024-07-05T00:00:00+00:00","description":"Základem LLM je architektura Transformátorů, představená v roce 2017 v průlomové práci “Attention Is All You Need”. Tato architektura přinesla několik klíčových inovací, které umožnily zpracování dlouhých sekvencí textu s velkou efektivitou a přesností. Technologie transformátorů dnes stojí v základech LLM jako jsou GPT - kde to písmeno T jsou právě Transformátory.","headline":"Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/transformatory/"},"url":"https://www.marigold.cz/ai/transformatory/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Základem LLM je architektura Transformátorů, představená v roce 2017 v průlomové práci “Attention Is All You Need”. Tato architektura přinesla několik klíčových inovací, které umožnily zpracování dlouhých sekvencí textu s velkou efektivitou a přesností. Technologie transformátorů dnes stojí v základech LLM jako jsou GPT - kde to písmeno T jsou právě Transformátory.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť" />
+    <meta property="twitter:title" content="Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/transformatory/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+5.
+červenec
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Základem LLM je architektura Transformátorů, představená v roce 2017 v průlomové práci <a href="https://arxiv.org/abs/1706.03762">“Attention Is All You Need”</a>. Tato architektura přinesla několik klíčových inovací, které umožnily zpracování dlouhých sekvencí textu s velkou efektivitou a přesností. Technologie transformátorů dnes stojí v základech LLM jako jsou GPT - kde to písmeno T jsou právě Transformátory.</p>
+
+<p>Jádrem transformátorové architektury je mechanismus pozornosti <em>(attention mechanism)</em>. Tento mechanismus umožňuje modelu dynamicky “zaměřit se” na různé části vstupního textu při generování každého výstupního tokenu. To je zásadní vylepšení oproti předchozím rekurentním neuronovým sítím (RNN), které zpracovávaly text sekvenčně. Mechanismus pozornosti umožňuje paralelní zpracování, což významně zrychluje trénink i inferenci.</p>
+
+<p>Konkrétně, Transformátory používá tzv. “self-attention”, kde každý token v sekvenci interaguje se všemi ostatními tokeny. To se děje pomocí tří vektorů pro každý token: dotaz (query), klíč (key) a hodnota (value). Tyto vektory jsou lineárními transformacemi vstupního embeddigu tokenu. Pozornost se počítá jako vážený součet hodnot, kde váhy jsou určeny skalárním součinem dotazu s klíči.</p>
+
+<p>LLM typicky používají tzv. <em>multi-head attention</em>, kde se několik mechanismů pozornosti aplikuje paralelně. To umožňuje modelu zachytit různé typy vztahů mezi tokeny současně.</p>
+
+<p>Další klíčovou součástí architektury jsou feed-forward neuronové sítě. Ty se aplikují na výstup z attention vrstev a umožňují modelu provádět nelineární transformace reprezentací. Typicky se skládají ze dvou lineárních transformací s aktivační funkcí ReLU mezi nimi.</p>
+
+<p>Moderní LLM jako GPT (Generative Pre-trained Transformer) používají pouze dekodérovou část původní architektury transformátorů. To znamená, že model generuje text autoregresivně, tedy token po tokenu, přičemž každý nový token je generován na základě všech předchozích tokenů.</p>
+
+<p>Důležitou součástí architektury jsou také reziduální spojení a normalizační vrstvy. Reziduální spojení umožňují efektivní trénink velmi hlubokých sítí tím, že poskytují přímou cestu pro zpětnou propagaci gradientů. Normalizační vrstvy pak stabilizují aktivace v síti, což opět usnadňuje trénink.</p>
+
+<h2 id="trénink-llm">Trénink LLM</h2>
+
+<p>Trénink LLM probíhá na masivních datových sadách, často obsahujících stovky miliard tokenů. Cílem tréninku je minimalizovat tzv. cross-entropy loss, což v praxi znamená maximalizovat pravděpodobnost, že model správně předpoví další token v sekvenci.</p>
+
+<p>Klíčovou inovací v tréninku LLM je použití tzv. kauzální masek v mechanismu pozornosti. Tyto masky zajišťují, že model při predikci dalšího tokenu může přistupovat pouze k předchozím tokenům, nikoli k budoucím. To umožňuje efektivní paralelní trénink, zatímco se zachovává autoregresivní povaha modelu.</p>
+
+<p>Velikost moderních LLM je ohromující. Například GPT-3 má 175 miliard parametrů. To znamená, že model musí během tréninku optimalizovat 175 miliard čísel. Taková velikost přináší výzvy v oblasti efektivního tréninku a inference.</p>
+
+<p>Pro efektivní trénink tak velkých modelů se používají techniky jako model parallelism a pipeline parallelism. Model parallelism rozděluje parametry modelu mezi více GPU, zatímco pipeline parallelism rozděluje vrstvy modelu mezi GPU. Tyto techniky umožňují trénovat modely, které by se jinak nevešly do paměti jediného GPU.</p>
+
+<p>Dalším důležitým aspektem LLM je jejich schopnost few-shot learningu. To znamená, že model dokáže adaptovat své chování na nové úkoly s minimálním množstvím příkladů. Tato schopnost emerguje s rostoucí velikostí modelu a je jedním z nejzajímavějších aspektů současných LLM.</p>
+
+<p>Inference v LLM, tedy proces generování textu, probíhá token po tokenu. V každém kroku model generuje pravděpodobnostní distribuci přes celý slovník možných následujících tokenů. Z této distribuce se vybírá další token, často s použitím technik jako top-k nebo nucleus sampling, které umožňují kontrolovat míru “kreativnosti” generovaného textu.</p>
+
+<p>Zajímavým aspektem LLM je jejich schopnost provádět tzv. in-context learning. To znamená, že model dokáže adaptovat své chování na základě kontextu poskytnutého v promptu, aniž by se měnily jeho parametry. Tato schopnost umožňuje použití technik jako few-shot learning nebo chain-of-thought prompting, které významně rozšiřují možnosti využití LLM.</p>
+
+<p>Nedávné výzkumy také ukázaly, že LLM vykazují emergentní schopnosti. To jsou schopnosti, které nebyly explicitně natrénovány, ale objevují se s rostoucí velikostí modelu. Mezi tyto schopnosti patří například schopnost řešit matematické úlohy, programovat, nebo dokonce provádět víceúrovňové uvažování.</p>
+
+<p>Navzdory svým impozantním schopnostem mají LLM několik významných omezení. Jedním z nich je tendence k “halucinacím”, tedy generování informací, které jsou věrohodné, ale fakticky nesprávné. Dalším problémem je omezená velikost kontextového okna, což limituje schopnost modelu pracovat s velmi dlouhými texty.</p>
+
+<p>Pro adresování těchto omezení se vyvíjejí různé techniky. Například Retrieval-Augmented Generation (RAG) kombinuje LLM s vyhledáváním v externí databázi znalostí, což může zlepšit faktickou přesnost generovaného textu. Techniky jako kNN-LM nebo Memorizing Transformers se snaží rozšířit efektivní kontext modelu.</p>
+
+<p>Závěrem lze říci, že neuronové sítě v LLM představují fascinující spojení sofistikovaných algoritmů, masivních datových sad a výkonného hardwaru. Jejich schopnost zpracovávat a generovat lidský jazyk na úrovni, která se blíží lidským schopnostem, otevírá nové možnosti v oblasti umělé inteligence a zpracování přirozeného jazyka. Zároveň však přinášejí nové výzvy v oblasti etiky, bezpečnosti a interpretovatelnosti AI systémů. Pokračující výzkum v této oblasti slibuje další pokroky a možná i nové paradigmata v tom, jak chápeme a interagujeme s umělou inteligencí.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a&nbsp;nelegální homosexualita</a>
+                <p class="excerpt">
+                  
+                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií: případ Big Data, Baracka Obamy a&nbsp;Obamacare</a>
+                <p class="excerpt">
+                  
+                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť&url=https://www.marigold.cz/ai/transformatory/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/transformatory/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2024-07-05-transformatory.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/tokenizace-textu/">&laquo; Tokenizace textu</a> |
+      
+      
+      
+        <a class="next" href="/ai/word2vec/">Word2vec aneb jak převést slova na čísla &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

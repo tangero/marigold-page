@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RedCap a eRedCap: Vývoj a význam v 5G IoT ekosystému | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="RedCap a eRedCap: Vývoj a význam v 5G IoT ekosystému" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="S nástupem sítí 5G se otevřely nové možnosti pro připojení IoT zařízení, ale zároveň se objevila významná mezera v portfoliu podporovaných zařízení. Zatímco standardní 5G zařízení nabízela vysoký výkon s komplexní funkcionalitou a NB-IoT/LTE-M pokrývaly segment velmi jednoduchých IoT zařízení, chybělo řešení pro střední segment. Nebylo, jak pokrýt zařízení vyžadující občasné megabitové přenosové rychlosti a poměrně komplexní datovou podporu a zároveň napájené baterií, tedy s tlakem na energetickou úspornost. Situace se zatím (a zpravidla) řešila propojením přes Bluetooth LE či jinou radiovou technologii s mobilním telefonem či obecně mobilním terminálem, ale to nebyla dlouhodobě uspokojivá záležitost. To vedlo k vývoji technologií RedCap a eRedCap. Označení RedCap přitom znamená Reduced Capabilities - tedy Omezené možnosti. eRedCap pak znamená evolved - čili rozvinutý RedCap, nejde o to, že by tato zařízení musela být technicky silnější, ba právě naopak, počítá se s tím, že půjde o jednoduší hardware." />
+<meta property="og:description" content="S nástupem sítí 5G se otevřely nové možnosti pro připojení IoT zařízení, ale zároveň se objevila významná mezera v portfoliu podporovaných zařízení. Zatímco standardní 5G zařízení nabízela vysoký výkon s komplexní funkcionalitou a NB-IoT/LTE-M pokrývaly segment velmi jednoduchých IoT zařízení, chybělo řešení pro střední segment. Nebylo, jak pokrýt zařízení vyžadující občasné megabitové přenosové rychlosti a poměrně komplexní datovou podporu a zároveň napájené baterií, tedy s tlakem na energetickou úspornost. Situace se zatím (a zpravidla) řešila propojením přes Bluetooth LE či jinou radiovou technologii s mobilním telefonem či obecně mobilním terminálem, ale to nebyla dlouhodobě uspokojivá záležitost. To vedlo k vývoji technologií RedCap a eRedCap. Označení RedCap přitom znamená Reduced Capabilities - tedy Omezené možnosti. eRedCap pak znamená evolved - čili rozvinutý RedCap, nejde o to, že by tato zařízení musela být technicky silnější, ba právě naopak, počítá se s tím, že půjde o jednoduší hardware." />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/redcap/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/redcap/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-25T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="RedCap a eRedCap: Vývoj a význam v 5G IoT ekosystému" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-25T00:00:00+00:00","datePublished":"2024-12-25T00:00:00+00:00","description":"S nástupem sítí 5G se otevřely nové možnosti pro připojení IoT zařízení, ale zároveň se objevila významná mezera v portfoliu podporovaných zařízení. Zatímco standardní 5G zařízení nabízela vysoký výkon s komplexní funkcionalitou a NB-IoT/LTE-M pokrývaly segment velmi jednoduchých IoT zařízení, chybělo řešení pro střední segment. Nebylo, jak pokrýt zařízení vyžadující občasné megabitové přenosové rychlosti a poměrně komplexní datovou podporu a zároveň napájené baterií, tedy s tlakem na energetickou úspornost. Situace se zatím (a zpravidla) řešila propojením přes Bluetooth LE či jinou radiovou technologii s mobilním telefonem či obecně mobilním terminálem, ale to nebyla dlouhodobě uspokojivá záležitost. To vedlo k vývoji technologií RedCap a eRedCap. Označení RedCap přitom znamená Reduced Capabilities - tedy Omezené možnosti. eRedCap pak znamená evolved - čili rozvinutý RedCap, nejde o to, že by tato zařízení musela být technicky silnější, ba právě naopak, počítá se s tím, že půjde o jednoduší hardware.","headline":"RedCap a eRedCap: Vývoj a význam v 5G IoT ekosystému","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/redcap/"},"url":"https://www.marigold.cz/mobilnisite/redcap/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="S nástupem sítí 5G se otevřely nové možnosti pro připojení IoT zařízení, ale zároveň se objevila významná mezera v portfoliu podporovaných zařízení. Zatímco standardní 5G zařízení nabízela vysoký výkon s komplexní funkcionalitou a NB-IoT/LTE-M pokrývaly segment velmi jednoduchých IoT zařízení, chybělo řešení pro střední segment. Nebylo, jak pokrýt zařízení vyžadující občasné megabitové přenosové rychlosti a poměrně komplexní datovou podporu a zároveň napájené baterií, tedy s tlakem na energetickou úspornost. Situace se zatím (a zpravidla) řešila propojením přes Bluetooth LE či jinou radiovou technologii s mobilním telefonem či obecně mobilním terminálem, ale to nebyla dlouhodobě uspokojivá záležitost. To vedlo k vývoji technologií RedCap a eRedCap. Označení RedCap přitom znamená Reduced Capabilities - tedy Omezené možnosti. eRedCap pak znamená evolved - čili rozvinutý RedCap, nejde o to, že by tato zařízení musela být technicky silnější, ba právě naopak, počítá se s tím, že půjde o jednoduší hardware.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="RedCap a eRedCap: Vývoj a význam v 5G IoT ekosystému" />
+    <meta property="twitter:title" content="RedCap a eRedCap: Vývoj a význam v 5G IoT ekosystému" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/redcap/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>RedCap a eRedCap: Vývoj a význam v 5G IoT ekosystému</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+25.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#5G">5G</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        &nbsp;
+      
+        <a href="//rubrika/#IoT">IoT</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>S nástupem sítí 5G se otevřely nové možnosti pro připojení IoT zařízení, ale zároveň se objevila významná mezera v portfoliu podporovaných zařízení. Zatímco standardní 5G zařízení nabízela vysoký výkon s komplexní funkcionalitou a NB-IoT/LTE-M pokrývaly segment velmi jednoduchých IoT zařízení, chybělo řešení pro střední segment. Nebylo, jak pokrýt zařízení vyžadující občasné megabitové přenosové rychlosti a poměrně komplexní datovou podporu a zároveň napájené baterií, tedy s tlakem na energetickou úspornost. Situace se zatím (a zpravidla) řešila propojením přes Bluetooth LE či jinou radiovou technologii s mobilním telefonem či obecně mobilním terminálem, ale to nebyla dlouhodobě uspokojivá záležitost. To vedlo k vývoji technologií RedCap a eRedCap. Označení RedCap přitom znamená Reduced Capabilities - tedy Omezené možnosti. eRedCap pak znamená evolved - čili rozvinutý RedCap, nejde o to, že by tato zařízení musela být technicky silnější, ba právě naopak, počítá se s tím, že půjde o jednoduší hardware.</p>
+
+<h2 id="historie-vývoje">Historie vývoje</h2>
+
+<p>Vývoj RedCap začal jako technologie NR-Lite, když v červnu 2019 průmysl prezentoval několik návrhů pro studii IoT požadavků v 5G. Po několika letech studií a práce byl NR-Lite přejmenován na RedCap a oficiálně přijat do 3GPP specifikací v červnu 2022.</p>
+
+<p>Hlavní motivací bylo, že zatímco 5G Release 15 (Rel-15) byl primárně navržen pro případy použití vyžadující nízkou latenci, vysoké datové rychlosti a ultra-spolehlivost nad rámec legacy 4G sítí, a Release 16 přidal podporu časově citlivého síťování (TSN) a další vylepšení spolehlivosti a latence, tyto specifikace stále nedosahovaly úrovně již existujících specifikací 4G 3GPP Rel-13 a 14 v oblasti energetické účinnosti, pokrytí a nižších nákladů na zařízení.</p>
+
+<p>Klíčové milníky ve vývoji:</p>
+<ul>
+  <li>2020: Zahájení studie v 3GPP</li>
+  <li>2022: Release 17 - představení RedCap s maximální rychlostí 250 Mbps</li>
+  <li>2024: Release 18 - uvedení eRedCap s maximální rychlostí 10 Mbps</li>
+</ul>
+
+<p>RedCap byl navržen specificky pro zařízení, která vyžadují více než základní IoT konektivitu poskytovanou NB-IoT/LTE-M, ale nepotřebují plnou funkcionalitu 5G. Typickými představiteli jsou nositelná elektronika jako chytré hodinky se streamováním hudby, zdravotnické monitory či průmyslové AR/VR brýle; průmyslová zařízení zahrnující HD bezpečnostní kamery a senzory s častým přenosem dat; prvky chytré domácnosti včetně bezpečnostních systémů a spotřebičů s pravidelnou komunikací; a komponenty městské infrastruktury jako chytré měřiče a dopravní signalizace. Tato zařízení obvykle vyžadují přenosové rychlosti v řádu desítek Mbps, pravidelnou (nikoli však nutně kontinuální) komunikaci, přiměřenou spotřebu energie a musí být cenově dostupná.</p>
+
+<p>Oproti tomu eRedCap byl navržen pro případy použití, kde je rychlost 10 Mbps dostatečná, což odpovídá značné části IoT aplikací a umožňuje používat jednodušší hardware. Tato rychlost byla zvolena i s ohledem na kompatibilitu s existujícími zařízeními kategorie LTE Cat-1.</p>
+
+<h2 id="porovnání-parametrů-základních-redcap-a-eredcap-zařízení">Porovnání parametrů základních, RedCap a eRedCap zařízení</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parametr</th>
+      <th>FR1 (Sub-6GHz pásmo)</th>
+      <th> </th>
+      <th> </th>
+      <th>FR2 (mmWave pásmo)</th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td>Základní zařízení</td>
+      <td>RedCap zařízení</td>
+      <td>eRedCap zařízení</td>
+      <td>Základní zařízení</td>
+      <td>RedCap zařízení</td>
+    </tr>
+    <tr>
+      <td>Maximální šířka pásma</td>
+      <td>100 MHz</td>
+      <td>20 MHz</td>
+      <td>5 MHz</td>
+      <td>200 MHz</td>
+      <td>100 MHz</td>
+    </tr>
+    <tr>
+      <td>Minimální počet přijímacích antén</td>
+      <td>2 nebo 4 (podle frekvenčního pásma)</td>
+      <td>1 - pro minimální terminál<br />2 - pro běžný terminál</td>
+      <td>1*</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Maximální počet podporovaných MIMO vrstev pro downlink</td>
+      <td>2 nebo 4 (podle frekvenčního pásma)</td>
+      <td>1 - pro terminál s 1 anténou<br />2 - pro terminál se 2 anténami</td>
+      <td>1*</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Maximální modulační řád pro downlink</td>
+      <td>256QAM</td>
+      <td>64QAM</td>
+      <td>64QAM*</td>
+      <td>64QAM</td>
+      <td>64QAM</td>
+    </tr>
+    <tr>
+      <td>Duplexní režim</td>
+      <td>FD-FDD, TDD</td>
+      <td>podporuje HD-FDD type A</td>
+      <td>podporuje HD-FDD type A*</td>
+      <td>TDD</td>
+      <td>TDD</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Poznámky:</em></p>
+<ul>
+  <li>FR1: Frekvenční pásmo pod 6 GHz</li>
+  <li>FR2: Frekvenční pásmo milimetrových vln</li>
+  <li>FD-FDD: Full Duplex Frequency Division Duplex</li>
+  <li>HD-FDD: Half Duplex Frequency Division Duplex</li>
+  <li>TDD: Time Division Duplex</li>
+  <li>MIMO: Multiple Input Multiple Output</li>
+  <li>
+    <ul>
+      <li>Označené hodnoty pro eRedCap jsou odvozené a zatím nemusí být explicitně potvrzené ve standardu, na němž se v době psaní článku pracovalo</li>
+    </ul>
+  </li>
+  <li>eRedCap nepodporuje FR2 pásmo</li>
+  <li>eRedCap má fixní maximální rychlost 10 Mbps pro downlink i uplink</li>
+</ul>
+
+<h2 id="segmentace-trhu-iot-zařízení">Segmentace trhu IoT zařízení</h2>
+
+<p>5G IoT ekosystém se dělí do čtyř hlavních segmentů, každý s vlastními specifickými požadavky:</p>
+
+<ol>
+  <li><strong>eMBB (enhanced Mobile Broadband)</strong>
+    <ul>
+      <li>Zaměření na vysokou přenosovou rychlost</li>
+      <li>Typické použití: smartphony, tablety</li>
+      <li>Plná podpora všech 5G funkcí</li>
+    </ul>
+  </li>
+  <li><strong>URLLC (Ultra-Reliable Low-Latency Communications)</strong>
+    <ul>
+      <li>Extrémně nízká latence</li>
+      <li>Vysoká spolehlivost</li>
+      <li>Použití: průmyslová automatizace, robotika</li>
+    </ul>
+  </li>
+  <li><strong>mMTC (massive Machine-Type Communications)</strong>
+    <ul>
+      <li>Nízká přenosová rychlost</li>
+      <li>Důraz na energetickou účinnost</li>
+      <li>Použití: senzory, měřiče</li>
+    </ul>
+  </li>
+  <li><strong>RedCap/eRedCap</strong>
+    <ul>
+      <li>Střední přenosová rychlost</li>
+      <li>Optimalizovaná komplexita</li>
+      <li>Použití: nositelná elektronika, průmyslové senzory</li>
+    </ul>
+  </li>
+</ol>
+
+<table>
+  <thead>
+    <tr>
+      <th>Parametr</th>
+      <th>LTE Cat1</th>
+      <th>LTE Cat 1bis</th>
+      <th>LTE Cat 4</th>
+      <th>LTE Cat-NB2 (NB-IoT)</th>
+      <th>LTE Cat-M1 (eMTC)</th>
+      <th>RedCap</th>
+      <th>eRedCap</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>3GPP verze</td>
+      <td>Rel-8</td>
+      <td>Rel-13</td>
+      <td>Rel-8</td>
+      <td>Rel-14</td>
+      <td>Rel-13</td>
+      <td>Rel-17</td>
+      <td>Rel-18</td>
+    </tr>
+    <tr>
+      <td>Šířka pásma</td>
+      <td>až 20 MHz</td>
+      <td>až 20 MHz</td>
+      <td>až 20 MHz</td>
+      <td>180 kHz</td>
+      <td>1.4 MHz</td>
+      <td>FR1:20 MHz</td>
+      <td>FR1: 5-20 MHz</td>
+    </tr>
+    <tr>
+      <td>Duplexní režim</td>
+      <td>FD, TDD</td>
+      <td>FD, TDD</td>
+      <td>FD, TDD</td>
+      <td>HD, FDD</td>
+      <td>FD*, HD, TDD</td>
+      <td>FD, HD, TDD</td>
+      <td>FD, HD, TDD</td>
+    </tr>
+    <tr>
+      <td>Maximální rychlost stahování</td>
+      <td>10 Mbps</td>
+      <td>10 Mbps</td>
+      <td>150 Mbps</td>
+      <td>127 Kbps</td>
+      <td>300 kbps</td>
+      <td>FR1: 220 Mbps</td>
+      <td>10 Mbps</td>
+    </tr>
+    <tr>
+      <td>Maximální rychlost odesílání</td>
+      <td>5 Mbps</td>
+      <td>5 Mbps</td>
+      <td>50 Mbps</td>
+      <td>159 Kbps</td>
+      <td>375 kbps</td>
+      <td>FR1: 120 Mbps</td>
+      <td>10 Mbps</td>
+    </tr>
+    <tr>
+      <td>Max Tx/Rx řetězec</td>
+      <td>1T/2R</td>
+      <td>1T/1R</td>
+      <td>1T/2R</td>
+      <td>1T/1R</td>
+      <td>1T/1R</td>
+      <td>1T/2R (1T/1R)</td>
+      <td>1T/1R</td>
+    </tr>
+    <tr>
+      <td>Vysílací výkon</td>
+      <td>23 dBm</td>
+      <td>23 dBm</td>
+      <td>23 dBm</td>
+      <td>14/20/23 dBm</td>
+      <td>20/23 dBm</td>
+      <td>20/23/24/29 dBm</td>
+      <td>23 dBm</td>
+    </tr>
+    <tr>
+      <td>Dosah (MCL)</td>
+      <td>141 dB</td>
+      <td>141 dB</td>
+      <td>144 dBm</td>
+      <td>164 dB</td>
+      <td>156 dB</td>
+      <td>140 dB</td>
+      <td>137 dB</td>
+    </tr>
+    <tr>
+      <td>Úspora energie</td>
+      <td>eDRX, PSM</td>
+      <td>eDRX, PSM</td>
+      <td>eDRX, PSM</td>
+      <td>eDRX, PSM</td>
+      <td>eDRX, PSM</td>
+      <td>eDRX, MICO</td>
+      <td>eDRX, MICO</td>
+    </tr>
+    <tr>
+      <td>Hlasové služby</td>
+      <td>Podporováno</td>
+      <td>Podporováno</td>
+      <td>Podporováno</td>
+      <td>Podporováno</td>
+      <td>Podporováno</td>
+      <td>Podporováno</td>
+      <td>Bude určeno</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Vysvětlivky:</em></p>
+<ul>
+  <li>MCL: Maximum Coupling Loss (maximální vazební útlum)</li>
+  <li>eDRX: Extended Discontinuous Reception (rozšířený přerušovaný příjem)</li>
+  <li>PSM: Power Saving Mode (režim úspory energie)</li>
+  <li>MICO: Mobile Initiated Connection Only (připojení iniciované pouze zařízením)
+*FD u LTE Cat-M1 je volitelné</li>
+</ul>
+
+<h2 id="technické-fungování-redcap">Technické fungování RedCap</h2>
+
+<p>RedCap představuje zjednodušenou variantu standardního 5G, přičemž zavádí několik klíčových změn v architektuře a fungování zařízení. Jediným povinným zjednodušením je omezení šířky pásma - zatímco standardní 5G zařízení pracují se šířkou pásma až 100 MHz v pásmu FR1 (pod 6 GHz) a 200 MHz v pásmu FR2 (mmWave), RedCap zařízení jsou omezena na 20 MHz v FR1 a 100 MHz v FR2. Současně nepodporují carrier aggregation ani dual connectivity, což znamená, že nemohou využívat více nosných současně. Je důležité poznamenat, že toto omezení se týká pouze komunikace s RedCap zařízeními - základnová stanice může nadále využívat plnou šířku pásma pro komunikaci s ostatními zařízeními.</p>
+
+<p>Další zjednodušení jsou již volitelná a závisí na konkrétní implementaci. Jedním z nich je redukce počtu antén, kdy RedCap zařízení může být implementováno pouze s jednou přijímací anténou namísto dvou nebo čtyř vyžadovaných u standardního 5G. To pochopitelně omezuje možnosti MIMO přenosu na single-layer v případě jedné antény, nicméně existuje i možnost implementace se dvěma anténami pro podporu dvou MIMO vrstev. Všechna zařízení jsou vybavena jednou vysílací anténou, což je stejné jako u standardního 5G.</p>
+
+<p>Významným volitelným zjednodušením je podpora pouze half-duplex FDD operace místo full-duplex. To znamená, že zařízení nemusí být schopno současného vysílání a příjmu, což umožňuje použití jednoduchého přepínače namísto komplexních duplexních filtrů. Toto řešení vede k nižší ceně a menším rozměrům zařízení, ale může způsobit vyšší latenci a nižší přenosové rychlosti. Toto zjednodušení je zvláště výhodné pro zařízení, která potřebují podporovat více frekvenčních pásem.</p>
+
+<p>V oblasti modulace došlo ke snížení maximálního modulačního řádu z 256-QAM na 64-QAM pro downlink i uplink. Toto zjednodušení vede k 25% snížení maximální přenosové rychlosti, ale umožňuje jednodušší implementaci přijímače a zpracování signálu.</p>
+
+<p>RedCap také zavádí několik pokročilých úsporných režimů a optimalizací. Implementuje redukované PDCCH monitorování se třemi schématy: snížený počet slepých dekódování na slot, rozšířený interval monitorování PDCCH a dynamickou adaptaci PDCCH parametrů. Podporuje extended DRX s velmi dlouhým cyklem až 10485.76 sekund a nabízí RRM relaxaci pro stacionární zařízení včetně optimalizované správy mobility pro případy s omezeným pohybem.</p>
+
+<p>Specifická je i procedura připojování k síti, kde dochází k identifikaci RedCap schopností během RACH procesu. Síť podporuje cell barring specificky pro RedCap zařízení a nabízí speciální konfiguraci BWP (Bandwidth Parts). Zařízení také notifikují síť o využití “stacionárních” a “cell edge” funkcí.</p>
+
+<p>Všechna tato zjednodušení a optimalizace vedou k výraznému snížení složitosti zařízení - na přibližně třetinu oproti standardnímu 5G. To se projevuje v nižších výrobních nákladech, menších rozměrech zařízení a delší výdrži baterie. Důležité je, že přes všechna tato zjednodušení si RedCap zachovává klíčové 5G funkce, které jsou optimalizovány pro IoT použití.</p>
+
+<p>RedCap přináší čtyři klíčová zjednodušení oproti standardním 5G zařízením:</p>
+
+<ol>
+  <li><strong>Omezená šířka pásma</strong>
+    <ul>
+      <li>Maximum 20 MHz místo standardních 100 MHz</li>
+      <li>Bez podpory agregace nosných (carrier aggregation)</li>
+      <li>Omezení snižuje komplexitu zpracování signálu</li>
+    </ul>
+  </li>
+  <li><strong>Redukovaný počet antén</strong>
+    <ul>
+      <li>Možnost použití jediné přijímací antény</li>
+      <li>Volitelná podpora více antén pro vyšší výkon</li>
+      <li>Snížení složitosti MIMO implementace</li>
+    </ul>
+  </li>
+  <li><strong>Half-duplex operace</strong>
+    <ul>
+      <li>Není vyžadována současná komunikace oběma směry</li>
+      <li>Zjednodušení RF front-end designu</li>
+      <li>Nižší náklady na komponenty</li>
+    </ul>
+  </li>
+  <li><strong>Zjednodušená modulace</strong>
+    <ul>
+      <li>64-QAM místo 256-QAM</li>
+      <li>Snížení komplexity zpracování signálu</li>
+      <li>25% redukce maximální přenosové rychlosti</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="výkonnostní-charakteristiky-a-technické-detaily">Výkonnostní charakteristiky a technické detaily</h3>
+
+<p>RedCap a eRedCap zařízení jsou charakterizována následujícími parametry:</p>
+
+<p><strong>RedCap maximální přenosové rychlosti:</strong></p>
+<ul>
+  <li>Downlink: 2 Mbps až 150 Mbps</li>
+  <li>Uplink: 2 Mbps až 50 Mbps</li>
+</ul>
+
+<p><strong>eRedCap fixní přenosové rychlosti:</strong></p>
+<ul>
+  <li>Downlink: 10 Mbps</li>
+  <li>Uplink: 10 Mbps</li>
+</ul>
+
+<p><strong>RedCap typické přenosové rychlosti:</strong>
+FDD mód:</p>
+<ul>
+  <li>Downlink: 85-225 Mbps</li>
+  <li>Uplink: 90-120 Mbps</li>
+</ul>
+
+<p>TDD mód (60% downlink, 40% uplink):</p>
+<ul>
+  <li>Downlink: 50-130 Mbps</li>
+  <li>Uplink: 35-45 Mbps</li>
+</ul>
+
+<p>eRedCap byl navržen pro případy použití, kde je rychlost 10 Mbps dostatečná, což odpovídá značné části IoT aplikací a umožňuje další zjednodušení hardware a snížení nákladů. Tato rychlost byla zvolena i s ohledem na kompatibilitu s existujícími zařízeními kategorie LTE Cat-1.</p>
+
+<p>Klíčové technické charakteristiky:</p>
+<ul>
+  <li>Šířka pásma: Maximum 20 MHz v FR1 a 100 MHz v FR2</li>
+  <li>Modulace: Až 64QAM (oproti 256QAM u standardních 5G zařízení)</li>
+  <li>Podpora RRC stavů: RRC_Idle, RRC_Inactive, RRC_Connected</li>
+  <li>Doba výdrže baterie: Až 2 roky v závislosti na použití</li>
+  <li>Vysílací výkon: FR1: Class 3, +23 dBm; FR2: Class 7, TRP: +23 dBm, EIRP: +43 dBm</li>
+</ul>
+
+<p>Důležitou součástí jsou také pokročilé funkce úspory energie:</p>
+<ul>
+  <li>Redukovaný PDCCH monitoring</li>
+  <li>Extended DRX s cyklem až 10485.76 sekund</li>
+  <li>RRM relaxace pro stacionární zařízení</li>
+</ul>
+
+<h3 id="výkonnostní-charakteristiky-a-technické-detaily-1">Výkonnostní charakteristiky a technické detaily</h3>
+
+<p>RedCap zařízení jsou charakterizována následujícími parametry:</p>
+
+<p>Přenosové rychlosti:
+FDD mód:</p>
+<ul>
+  <li>Downlink: 85-225 Mbps</li>
+  <li>Uplink: 90-120 Mbps</li>
+</ul>
+
+<p>TDD mód (60% downlink, 40% uplink):</p>
+<ul>
+  <li>Downlink: 50-130 Mbps</li>
+  <li>Uplink: 35-45 Mbps</li>
+</ul>
+
+<p>Klíčové technické charakteristiky:</p>
+<ul>
+  <li>Šířka pásma: Maximum 20 MHz v FR1 a 100 MHz v FR2</li>
+  <li>Modulace: Až 64QAM (oproti 256QAM u standardních 5G zařízení)</li>
+  <li>Podpora RRC stavů: RRC_Idle, RRC_Inactive, RRC_Connected</li>
+  <li>Doba výdrže baterie: Až 2 roky v závislosti na použití</li>
+  <li>Vysílací výkon: FR1: Class 3, +23 dBm; FR2: Class 7, TRP: +23 dBm, EIRP: +43 dBm</li>
+</ul>
+
+<p>Důležitou součástí jsou také pokročilé funkce úspory energie:</p>
+<ul>
+  <li>Redukovaný PDCCH monitoring</li>
+  <li>Extended DRX s cyklem až 10485.76 sekund</li>
+  <li>RRM relaxace pro stacionární zařízení</li>
+</ul>
+
+<h2 id="eredcap---evoluce-technologie">eRedCap - evoluce technologie</h2>
+
+<p>eRedCap, představený v Release 18, přináší další optimalizace:</p>
+
+<h3 id="klíčové-vlastnosti">Klíčové vlastnosti</h3>
+<ul>
+  <li>Fixní maximální rychlost 10 Mbps</li>
+  <li>Možnost omezení šířky pásma datového kanálu na 5 MHz</li>
+  <li>Podpora pouze nižších a středních frekvencí</li>
+</ul>
+
+<h3 id="motivace-pro-vývoj">Motivace pro vývoj</h3>
+<ul>
+  <li>Kompatibilita s existujícími LTE Cat-1 zařízeními</li>
+  <li>Optimalizace pro IoT aplikace s nižšími nároky</li>
+  <li>Další snížení výrobních nákladů</li>
+</ul>
+
+<h2 id="příspěvek-významných-firem">Příspěvek významných firem</h2>
+
+<p>Ericsson hrál klíčovou roli ve vývoji těchto technologií:</p>
+<ul>
+  <li>Působení jako rapporteur v 3GPP</li>
+  <li>Aktivní přispívání k definici standardů</li>
+  <li>Vedení studií pro specifikace</li>
+</ul>
+
+<h2 id="implementační-aspekty">Implementační aspekty</h2>
+
+<p>Nasazení RedCap a eRedCap technologií přináší několik výhod:</p>
+
+<h3 id="pro-výrobce">Pro výrobce</h3>
+<ul>
+  <li>Snížení výrobních nákladů</li>
+  <li>Možnost využití existujících výrobních procesů</li>
+  <li>Jednodušší certifikace</li>
+</ul>
+
+<h3 id="pro-operátory">Pro operátory</h3>
+<ul>
+  <li>Softwarový upgrade existující 5G infrastruktury</li>
+  <li>Rozšíření portfolia podporovaných zařízení</li>
+  <li>Efektivnější využití spektra</li>
+</ul>
+
+<h2 id="budoucnost-a-perspektivy">Budoucnost a perspektivy</h2>
+
+<p>RedCap a eRedCap představují významný krok v evoluci 5G IoT:</p>
+<ul>
+  <li>Rozšiřují možnosti využití 5G v IoT segmentu</li>
+  <li>Snižují bariéry pro adopci 5G technologií</li>
+  <li>Podporují rozvoj nových IoT aplikací</li>
+</ul>
+
+<p>Očekávaný vývoj zahrnuje:</p>
+<ul>
+  <li>Další optimalizace pro specifické use-cases</li>
+  <li>Rozšíření podpory ve vyšších frekvenčních pásmech</li>
+  <li>Integrace s dalšími IoT technologiemi</li>
+</ul>
+
+<h2 id="závěr">Závěr</h2>
+
+<p>RedCap a eRedCap technologie představují důležitý most mezi vysokovýkonními 5G zařízeními a jednoduchými IoT senzory. Jejich postupný vývoj a nasazení umožní vývoj pokoročilejšího hardware, než jsou malé IoT senzory - a tento hardware nebude muset být připojen k internetu zprostředkovaně přes nějakou PAN síť, jako je WiFi, BT nebo Thread.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
+                <p class="excerpt">
+                  
+                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
+                <p class="excerpt">
+                  
+                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don’t restrict anyone else, and it is on this rule that the modern wo...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=RedCap a eRedCap: Vývoj a význam v 5G IoT ekosystému&url=https://www.marigold.cz/mobilnisite/redcap/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/redcap/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2025-12-26-redcap.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/relay-node/">&laquo; Relay Nodes: přenosové uzly v mobilních sítích</a> |
+      
+      
+      
+        <a class="next" href="/mobilnisite/dual-connectivity/">Dual Connectivity (DC) &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

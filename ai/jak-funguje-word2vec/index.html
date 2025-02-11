@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Jak funguje Word2vec | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Jak funguje Word2vec" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Představte si, že se snažíte naučit počítač rozumět významům slov. Jak byste to udělali? Word2vec, průlomová technologie v oblasti zpracování přirozeného jazyka, přišla s elegantním řešením: učí počítač chápat slova skrze jejich kontext - tedy podle toho, jaká jiná slova se obvykle vyskytují v jejich okolí." />
+<meta property="og:description" content="Představte si, že se snažíte naučit počítač rozumět významům slov. Jak byste to udělali? Word2vec, průlomová technologie v oblasti zpracování přirozeného jazyka, přišla s elegantním řešením: učí počítač chápat slova skrze jejich kontext - tedy podle toho, jaká jiná slova se obvykle vyskytují v jejich okolí." />
+<link rel="canonical" href="https://www.marigold.cz/ai/jak-funguje-word2vec/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/jak-funguje-word2vec/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-14T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Jak funguje Word2vec" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-14T00:00:00+00:00","datePublished":"2024-12-14T00:00:00+00:00","description":"Představte si, že se snažíte naučit počítač rozumět významům slov. Jak byste to udělali? Word2vec, průlomová technologie v oblasti zpracování přirozeného jazyka, přišla s elegantním řešením: učí počítač chápat slova skrze jejich kontext - tedy podle toho, jaká jiná slova se obvykle vyskytují v jejich okolí.","headline":"Jak funguje Word2vec","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/jak-funguje-word2vec/"},"url":"https://www.marigold.cz/ai/jak-funguje-word2vec/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Představte si, že se snažíte naučit počítač rozumět významům slov. Jak byste to udělali? Word2vec, průlomová technologie v oblasti zpracování přirozeného jazyka, přišla s elegantním řešením: učí počítač chápat slova skrze jejich kontext - tedy podle toho, jaká jiná slova se obvykle vyskytují v jejich okolí.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Jak funguje Word2vec" />
+    <meta property="twitter:title" content="Jak funguje Word2vec" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/jak-funguje-word2vec/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Jak funguje Word2vec</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+14.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Představte si, že se snažíte naučit počítač rozumět významům slov. Jak byste to udělali? Word2vec, průlomová technologie v oblasti zpracování přirozeného jazyka, přišla s elegantním řešením: učí počítač chápat slova skrze jejich kontext - tedy podle toho, jaká jiná slova se obvykle vyskytují v jejich okolí.</p>
+
+<h2 id="základní-princip-učení-z-kontextu">Základní princip: Učení z kontextu</h2>
+
+<p>Word2vec vychází z jednoduché, ale mocné myšlenky: význam slova lze pochopit podle slov, která se vyskytují v jeho okolí. Například ve větě “Kočka sedí na měkkém koberci” se slovo “kočka” objevuje v kontextu slov souvisejících s domácím prostředím a odpočinkem.</p>
+
+<p>Podívejme se na konkrétní příklad. Mějme větu:
+“The cat sat on the mat”</p>
+
+<p>V tomto případě Word2vec vezme slovo “sat” jako centrální a snaží se předpovědět slova v jeho okolí (“cat” a “on”). Tento proces se nazývá Skip-gram model.</p>
+
+<h2 id="jak-to-funguje-technicky">Jak to funguje technicky</h2>
+
+<p>Word2vec převádí každé slovo na vektor čísel - dlouhou řadu čísel (typicky 100-300 hodnot), která reprezentují různé aspekty významu slova. Tyto vektory jsou zpočátku náhodné, ale během tréninku se postupně upravují tak, aby slova s podobným významem měla podobné vektory.</p>
+
+<p>Model pracuje ve dvou hlavních krocích:</p>
+
+<ol>
+  <li>Predikce: Pro dané centrální slovo se snaží předpovědět okolní slova</li>
+  <li>Učení: Podle úspěšnosti předpovědi upravuje číselné hodnoty ve vektorech</li>
+</ol>
+
+<h3 id="jak-probíhá-predikce-ve-word2vec">Jak probíhá predikce ve Word2vec</h3>
+
+<p>Predikce ve Word2vec je matematický proces, který převádí vstupní slovo na pravděpodobnosti výskytu okolních slov. Pojďme si tento proces rozebrat krok po kroku.</p>
+
+<pre><code class="language-mermaid">flowchart LR
+    A[Vstupní slovo] --&gt;|One-hot vektor| B[Vstupní matice]
+    B --&gt;|Násobení| C[Skrytá vrstva]
+    C --&gt;|Násobení| D[Výstupní matice]
+    D --&gt;|Softmax| E[Pravděpodobnosti slov]
+    
+    style A fill:#f9f,stroke:#333
+    style B fill:#bbf,stroke:#333
+    style C fill:#bfb,stroke:#333
+    style D fill:#fbb,stroke:#333
+    style E fill:#ff9,stroke:#333
+</code></pre>
+
+<h4 id="1-reprezentace-vstupního-slova">1. Reprezentace vstupního slova</h4>
+
+<p>Nejprve se vstupní slovo převede na takzvaný “one-hot” vektor. Je to dlouhý vektor obsahující samé nuly a jedinou jedničku na pozici odpovídající danému slovu ve slovníku. Například pro slovník o velikosti 10000 slov by to byl vektor o 10000 prvcích.</p>
+
+<h4 id="2-první-transformace---vstupní-matice">2. První transformace - vstupní matice</h4>
+
+<p>Tento one-hot vektor se vynásobí se vstupní maticí (označovanou často jako matice W). Tato matice má rozměry [velikost_slovníku × velikost_skryté_vrstvy]. Díky one-hot kódování se z matice vlastně vybere jeden řádek, který reprezentuje naše vstupní slovo jako hustý vektor (například 300 čísel).</p>
+
+<h4 id="3-skrytá-vrstva">3. Skrytá vrstva</h4>
+
+<p>Vektor ze skryté vrstvy představuje samotnou reprezentaci slova v sémantickém prostoru. Tento vektor zachycuje význam slova v koncentrované podobě.</p>
+
+<h4 id="4-druhá-transformace---výstupní-matice">4. Druhá transformace - výstupní matice</h4>
+
+<p>Vektor ze skryté vrstvy se vynásobí s další maticí (označovanou jako matice W’), která má rozměry [velikost_skryté_vrstvy × velikost_slovníku]. Výsledkem je vektor skóre pro každé slovo ve slovníku.</p>
+
+<h4 id="5-softmax-funkce">5. Softmax funkce</h4>
+
+<p>Poslední krok převádí tato skóre na pravděpodobnosti pomocí softmax funkce:</p>
+
+<p>Pro každé slovo i ve slovníku se vypočítá pravděpodobnost jako:</p>
+
+<p>P(slovo_i) = exp(skóre_i) / suma(exp(skóre_všech_slov))</p>
+
+<p>Tento vzorec zajistí, že:</p>
+<ul>
+  <li>Všechny pravděpodobnosti jsou kladná čísla</li>
+  <li>Součet všech pravděpodobností je 1</li>
+  <li>Větší skóre znamená větší pravděpodobnost</li>
+</ul>
+
+<h3 id="konkrétní-příklad">Konkrétní příklad</h3>
+
+<p>Vezměme větu “kočka sedí na _____” a předpokládejme, že model předpovídá následující slovo:</p>
+
+<ol>
+  <li>Slovo “na” se převede na one-hot vektor</li>
+  <li>Tento vektor se transformuje přes vstupní matici na vektor ve skryté vrstvě</li>
+  <li>Skrytá vrstva se transformuje přes výstupní matici na skóre pro všechna slova</li>
+  <li>Softmax funkce převede skóre na pravděpodobnosti</li>
+  <li>Model může předpovědět například:
+    <ul>
+      <li>koberci: 0.3</li>
+      <li>střeše: 0.2</li>
+      <li>židli: 0.15</li>
+      <li>stole: 0.1</li>
+      <li>…další slova s nižšími pravděpodobnostmi</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="vylepšení-procesu">Vylepšení procesu</h3>
+
+<p>V praxi se používají různá vylepšení pro zefektivnění výpočtu:</p>
+<ul>
+  <li>Negative sampling: místo výpočtu pravděpodobností pro celý slovník se počítá jen pro malý vzorek slov</li>
+  <li>Hierarchický softmax: používá binární strom pro efektivnější výpočet pravděpodobností</li>
+  <li>Subsampling častých slov: častá slova (například “a”, “the”) se občas přeskakují, protože nepřinášejí tolik informací</li>
+</ul>
+
+<p>Celý tento proces predikce se během tréninku neustále opakuje a model postupně upravuje váhy ve vstupní a výstupní matici tak, aby jeho předpovědi byly co nejpřesnější.</p>
+
+<p>Vysvětlím proces učení ve Word2vec modelu.</p>
+
+<h2 id="proces-učení-ve-word2vec">Proces učení ve Word2vec</h2>
+
+<p>Učení je klíčovým procesem, při kterém se Word2vec model zdokonaluje ve svých predikcích. Pojďme si podrobně vysvětlit, jak tento proces funguje. Učení ve Word2vec je založeno na principu minimalizace chyby mezi tím, co model předpověděl, a tím, co skutečně pozorujeme v textu. Proces probíhá v několika krocích:</p>
+
+<h4 id="1-výpočet-chyby">1. Výpočet chyby</h4>
+
+<p>Pro každou predikci model vypočítá chybu. Představme si konkrétní příklad:</p>
+<ul>
+  <li>Máme větu: “Kočka sedí na koberci”</li>
+  <li>Model se snaží předpovědět slovo “koberci” na základě kontextu “na”</li>
+  <li>Model možná předpoví:
+    <ul>
+      <li>koberci: 0.3</li>
+      <li>střeše: 0.2</li>
+      <li>židli: 0.15</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Skutečnost je, že “koberci” má mít pravděpodobnost 1 a ostatní slova 0. Rozdíl mezi těmito hodnotami tvoří chybu.</p>
+
+<h4 id="2-zpětná-propagace-chyby">2. Zpětná propagace chyby</h4>
+
+<p>Chyba se následně “propaguje” zpět skrz síť. Používá se k tomu matematická operace zvaná gradient, který určuje, jak by se měly změnit váhy v obou maticích (vstupní i výstupní), aby se chyba zmenšila.</p>
+
+<h4 id="3-úprava-vah---gradientní-sestup">3. Úprava vah - Gradientní sestup</h4>
+
+<p>Model používá techniku zvanou gradientní sestup. Je to jako když se snažíte najít dno údolí v mlze:</p>
+<ol>
+  <li>Zjistíte, kterým směrem vede cesta dolů (gradient)</li>
+  <li>Uděláte malý krok tímto směrem</li>
+  <li>Znovu zjistíte směr a opakujete</li>
+</ol>
+
+<p>V kontextu Word2vec to znamená:</p>
+<ul>
+  <li>Malé úpravy čísel ve vstupní matici (reprezentace vstupních slov)</li>
+  <li>Malé úpravy čísel ve výstupní matici (predikce kontextových slov)</li>
+</ul>
+
+<h4 id="4-učící-parametry">4. Učící parametry</h4>
+
+<p>Důležitou roli hrají tzv. učící parametry:</p>
+<ul>
+  <li>Velikost kroku (learning rate): jak velké změny se provádějí</li>
+  <li>Velikost dávky (batch size): kolik příkladů se zpracuje najednou</li>
+  <li>Počet epoch: kolikrát se projde celý dataset</li>
+</ul>
+
+<pre><code class="language-mermaid">flowchart TD
+    A[Predikovaná pravděpodobnost] --&gt; B[Výpočet chyby]
+    C[Skutečná hodnota] --&gt; B
+    B --&gt; D[Gradient chyby]
+    D --&gt; E[Úprava vah výstupní matice]
+    D --&gt; F[Úprava vah vstupní matice]
+    
+    style A fill:#f9f,stroke:#333
+    style B fill:#f66,stroke:#333
+    style C fill:#6f6,stroke:#333
+    style D fill:#66f,stroke:#333
+    style E fill:#ff9,stroke:#333
+    style F fill:#ff9,stroke:#333
+</code></pre>
+
+<h3 id="optimalizační-techniky">Optimalizační techniky</h3>
+
+<p>Word2vec používá několik technik pro zefektivnění učení:</p>
+
+<h4 id="negative-sampling">Negative Sampling</h4>
+<p>Místo úpravy vah pro všechna slova ve slovníku se upravují jen váhy pro:</p>
+<ul>
+  <li>Správné slovo (positive sample)</li>
+  <li>Několik náhodně vybraných nesprávných slov (negative samples)</li>
+</ul>
+
+<p>To výrazně zrychluje učení při zachování kvality výsledků.</p>
+
+<h4 id="stochastic-gradient-descent-sgd">Stochastic Gradient Descent (SGD)</h4>
+<ul>
+  <li>Nepočítá se gradient pro celý dataset najednou</li>
+  <li>Používají se malé náhodné vzorky dat</li>
+  <li>Umožňuje učit model i na velkých datasetech</li>
+</ul>
+
+<h4 id="adaptivní-učící-rychlost">Adaptivní učící rychlost</h4>
+<ul>
+  <li>Učící rychlost se může měnit během tréninku</li>
+  <li>Na začátku větší kroky pro rychlé učení</li>
+  <li>Později menší kroky pro jemné doladění</li>
+</ul>
+
+<h3 id="konvergence-učení">Konvergence učení</h3>
+
+<p>Proces učení pokračuje, dokud:</p>
+<ol>
+  <li>Model nedosáhne předem stanoveného počtu iterací, nebo</li>
+  <li>Chyba neklesne pod určitou hranici, nebo</li>
+  <li>Chyba se přestane významně zmenšovat</li>
+</ol>
+
+<p>Na konci učení máme model, který:</p>
+<ul>
+  <li>Umí reprezentovat slova jako vektory</li>
+  <li>Zachycuje sémantické vztahy mezi slovy</li>
+  <li>Dokáže předpovídat slova na základě kontextu</li>
+</ul>
+
+<p>Kvalitu naučeného modelu lze testovat různými způsoby:</p>
+<ul>
+  <li>Analogické úlohy (král - muž + žena = královna)</li>
+  <li>Hledání podobných slov</li>
+  <li>Shlukování slov do významových skupin</li>
+</ul>
+
+<p>Celý tento proces učení je to, co dává Word2vec jeho schopnost zachytit významy slov a jejich vzájemné vztahy v podobě číselných vektorů.</p>
+
+<h2 id="architektura-modelu">Architektura modelu</h2>
+
+<p>První diagram ukazuje základní architekturu Word2vec Skip-gram modelu:</p>
+<ul>
+  <li>Vstupní vrstva přijímá jedno slovo</li>
+  <li>Skrytá vrstva vytváří hustou reprezentaci slova</li>
+  <li>Výstupní vrstvy předpovídají okolní slova</li>
+</ul>
+
+<pre><code class="language-mermaid">flowchart TD
+    A[Input Layer&lt;br&gt;One-hot encoded word] --&gt; B[Hidden Layer&lt;br&gt;Dense vector]
+    B --&gt; C1[Output 1]
+    B --&gt; C2[Output 2]
+    B --&gt; C3[Output 3]
+    B --&gt; C4[Output 4]
+    
+    style A fill:#f9f,stroke:#333
+    style B fill:#bbf,stroke:#333
+    style C1 fill:#bfb,stroke:#333
+    style C2 fill:#bfb,stroke:#333
+    style C3 fill:#bfb,stroke:#333
+    style C4 fill:#bfb,stroke:#333
+</code></pre>
+
+<p>Druhý diagram ukazuje, jak model pracuje s kontextovým oknem - v našem příkladu se slovo “sat” učí předpovídat slova “cat” a “on” ve svém okolí.</p>
+
+<pre><code class="language-mermaid">flowchart LR
+    A["the"] --&gt; B["cat"]
+    B --&gt; C["sat"]
+    C --&gt; D["on"]
+    D --&gt; E["the"]
+    E --&gt; F["mat"]
+    
+    style C fill:#f96,stroke:#333
+    style B fill:#bbf,stroke:#333
+    style D fill:#bbf,stroke:#333
+</code></pre>
+
+<h2 id="praktické-využití">Praktické využití</h2>
+
+<p>Po natrénování můžeme s vektory slov provádět zajímavé operace:</p>
+
+<ol>
+  <li>Najít podobná slova (podle vzdálenosti vektorů)</li>
+  <li>Řešit analogie: například “král - muž + žena = královna”</li>
+  <li>Seskupovat související slova</li>
+  <li>Analyzovat významové vztahy mezi slovy</li>
+</ol>
+
+<h2 id="výsledek-učení">Výsledek učení</h2>
+
+<p>Po natrénování dokáže model například doplnit větu “Kočka sedí na ___” slovem “koberci” nebo jiným vhodným slovem, protože se naučil, že tato slova se často vyskytují v podobných kontextech. Nejde o pouhé statistické počítání společných výskytů - model skutečně zachycuje významové vztahy mezi slovy.</p>
+
+<p>Word2vec představuje základní kámen moderního zpracování přirozeného jazyka a jeho principy jsou dodnes využívány v pokročilejších modelech. Jeho největším přínosem je schopnost zachytit jemné významové nuance slov způsobem, který je pro počítače použitelný a matematicky zpracovatelný.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost: příkopy, které si hloubíme sami</a>
+                <p class="excerpt">
+                  
+                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana
+</a>
+                <p class="excerpt">
+                  
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Jak funguje Word2vec&url=https://www.marigold.cz/ai/jak-funguje-word2vec/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/jak-funguje-word2vec/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2024-12-14-jak-funguje-word2vec.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/slovnicek/">&laquo; Slovník výrazů kolem umělé inteligence</a> |
+      
+      
+      
+        <a class="next" href="/ai/halucinace-ai/">Halucinace v umělé inteligenci: Co to je, proč vznikají, jak je rozpoznat a minimalizovat &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

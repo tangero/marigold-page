@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Co konkrétně se v tomto článku dozvíte?" />
+<meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?" />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/pokrocile-multiplexovani/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/pokrocile-multiplexovani/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-11-25T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-11-25T00:00:00+00:00","datePublished":"2024-11-25T00:00:00+00:00","description":"Co konkrétně se v tomto článku dozvíte?","headline":"Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/pokrocile-multiplexovani/"},"url":"https://www.marigold.cz/mobilnisite/pokrocile-multiplexovani/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G" />
+    <meta property="twitter:title" content="Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G" />
+    
+
+    
+    <!-- page.thumbnail -->
+    
+        <!-- page.thumbnail https://www.sumitomocorp.com/africa/-/media/Images/hq/business/case/cc-191129/hero.jpg |  -->
+    <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/https://www.sumitomocorp.com/africa/-/media/Images/hq/business/case/cc-191129/hero.jpg"/>
+    <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/https://www.sumitomocorp.com/africa/-/media/Images/hq/business/case/cc-191129/hero.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/pokrocile-multiplexovani/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+25.
+listopad
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#LTE">LTE</a>
+        &nbsp;
+      
+        <a href="//rubrika/#4G">4G</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+  
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/https://www.sumitomocorp.com/africa/-/media/Images/hq/business/case/cc-191129/hero.jpg" alt="Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G">
+  </div>
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#porovnání-technologií-jak-si-vedou-proti-ofdma" id="markdown-toc-porovnání-technologií-jak-si-vedou-proti-ofdma">Porovnání technologií: Jak si vedou proti OFDMA?</a></li>
+  <li><a href="#budoucnost-a-výhled-pro-6g" id="markdown-toc-budoucnost-a-výhled-pro-6g">Budoucnost a výhled pro 6G</a></li>
+</ul>
+
+<p>Základem rychlých datových přenosů v LTE se stalo OFDMA, které efektivně rozdělovalo dostupné spektrum mezi uživatele. Jaké jsou ale alternativy a co může přijít v sítích 6G?</p>
+
+<p>Přestože OFDMA nabízí vysokou spektrální efektivitu a robustnost vůči interferenci, vývoj sítí 6G s sebou přináší potřebu alternativ, které by mohly zlepšit využití spektra, podporovat masivní konektivitu a umožnit přenosy dat s nízkou latencí.</p>
+
+<p>Zde si podrobněji probereme nejvýznamnější technologie, které se zvažují jako doplňky nebo náhrady OFDMA:</p>
+
+<ul>
+  <li><a href="/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/">Non-Orthogonal Multiple Access (NOMA)</a></li>
+  <li><a href="/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/">Rate-Splitting Multiple Access (RSMA)</a></li>
+  <li><a href="/mobilnisite/Sparse-Code-Multiple-Access-SCMA/">Sparse Code Multiple Access (SCMA)</a></li>
+  <li>a pro pořádek povídání o tom, <a href="/mobilnisite/ofdma">jak funguje OFDMA</a></li>
+  <li>další experimentální přístupy na konci tohoto článku</li>
+</ul>
+
+<h2 id="porovnání-technologií-jak-si-vedou-proti-ofdma">Porovnání technologií: Jak si vedou proti OFDMA?</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Technologie</th>
+      <th>Hlavní výhody</th>
+      <th>Případné nevýhody</th>
+      <th>Podporující společnosti</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/">NOMA</a></td>
+      <td>Vyšší spektrální efektivita, podpora IoT</td>
+      <td>Vyšší složitost</td>
+      <td>Huawei, ZTE</td>
+    </tr>
+    <tr>
+      <td><a href="/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/">RSMA</a></td>
+      <td>Robustnost vůči interferenci, univerzálnost</td>
+      <td>Náročné řízení přenosu</td>
+      <td>Ericsson, Qualcomm</td>
+    </tr>
+    <tr>
+      <td><a href="/mobilnisite/Sparse-Code-Multiple-Access-SCMA/">SCMA</a></td>
+      <td>Energetická efektivita, podpora IoT</td>
+      <td>Vyšší složitost kódování</td>
+      <td>NTT DOCOMO</td>
+    </tr>
+    <tr>
+      <td>Spatial Scattering Modulation (SSM)</td>
+      <td>Vysoká energetická účinnost, využití prostorové diverzity, vhodné pro masivní MIMO</td>
+      <td>Citlivost na změny prostředí, složitá charakterizace kanálu</td>
+      <td>Samsung, Nokia</td>
+    </tr>
+    <tr>
+      <td>Index Modulation (IM)</td>
+      <td>Nízká implementační složitost, dobrá energetická účinnost, flexibilita nasazení</td>
+      <td>Omezená spektrální účinnost při vyšších datových tocích, citlivost na synchronizaci</td>
+      <td>Intel, MediaTek</td>
+    </tr>
+    <tr>
+      <td>Orbital Angular Momentum (OAM) Multiplexing</td>
+      <td>Extrémně vysoká spektrální účinnost, teoreticky neomezený počet ortogonálních kanálů</td>
+      <td>Vysoká citlivost na atmosférické podmínky, omezený dosah, složitá implementace</td>
+      <td>China Mobile, Huawei</td>
+    </tr>
+    <tr>
+      <td>RIS Assisted Multiple Access</td>
+      <td>Aktivní tvarování rádiového prostředí, zlepšení pokrytí, energetická účinnost</td>
+      <td>Vysoké počáteční náklady na infrastrukturu, složitost optimalizace</td>
+      <td>NTT DOCOMO, Samsung</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><em>Poznámka: Technologie bez prolinku na detaily jsou spíše experimentální. Uvedené podporující společnosti jsou orientační a vycházejí z veřejně dostupných informací o výzkumných aktivitách a patentových přihláškách těchto firem. Mnoho těchto technologií je stále ve fázi výzkumu a vývoje, přičemž na jejich vývoji se často podílí více společností současně nebo v rámci výzkumných konsorcií.</em></p>
+
+<h2 id="budoucnost-a-výhled-pro-6g">Budoucnost a výhled pro 6G</h2>
+
+<p>Výše vyjmenovanými technologiemi multiplexování ale nejsme u konce. Sítě 6G přinesou zcela nové výzvy v oblasti řízení spektra, včetně podpory extrémně vysokých přenosových rychlostí, masivní konektivity a ultra-nízké latence. Technologie jako NOMA, RSMA a SCMA nabízejí slibné alternativy nebo doplňky k OFDMA, avšak každá z nich má své specifické výhody a omezení. V budoucnosti se pravděpodobně dočkáme kombinace těchto technologií, která zajistí optimální využití spektra pro různé aplikace.</p>
+
+<p>Existují ale i další přístupy, které zatím existují jen v konceptech, kdy se zkoumá několik nových přístupů k multiplexování. Zde jsou hlavní směry výzkumu, které si zmiňujeme pro úplnost:</p>
+
+<p><strong>Spatial Scattering Modulation (SSM)</strong>:</p>
+<ul>
+  <li>Využívá prostorové rozptylové charakteristiky kanálu</li>
+  <li>Umožňuje přenos dodatečných informací pomocí výběru vzorců rozptylu</li>
+  <li>Vhodné zejména pro systémy s masivním MIMO</li>
+  <li>Potenciálně energeticky účinnější než tradiční prostorové multiplexování</li>
+</ul>
+
+<p><strong>Index Modulation (IM)</strong>:</p>
+<ul>
+  <li>Přenáší dodatečné informace pomocí aktivace/deaktivace různých přenosových prvků</li>
+  <li>Může být aplikováno na různé domény (frekvence, prostor, čas)</li>
+  <li>Nabízí dobrý kompromis mezi spektrální a energetickou účinností</li>
+  <li>Nižší implementační složitost ve srovnání s některými jinými pokročilými technikami</li>
+</ul>
+
+<p><strong>Orbital Angular Momentum (OAM) Multiplexing</strong>:</p>
+<ul>
+  <li>Využívá orbitální moment hybnosti elektromagnetických vln</li>
+  <li>Umožňuje vytvoření několika ortogonálních kanálů v prostoru</li>
+  <li>Potenciálně velmi vysoká spektrální účinnost</li>
+  <li>Zatím ve fázi základního výzkumu, čelí výzvám v praktické implementaci</li>
+</ul>
+
+<p><strong>Reconfigurable Intelligent Surface (RIS) Assisted Multiple Access</strong>:</p>
+<ul>
+  <li>Využívá inteligentní odrazné plochy pro optimalizaci přenosových cest</li>
+  <li>Umožňuje aktivní tvarování rádiového prostředí</li>
+  <li>Může významně zlepšit pokrytí a kapacitu systému</li>
+  <li>Kombinovatelné s jinými přístupovými technikami</li>
+</ul>
+
+<p>Tyto techniky jsou zatím ve fázi výzkumu a vývoje. Očekává se, že budoucí sítě 6G budou pravděpodobně využívat kombinaci několika těchto přístupů v závislosti na konkrétních požadavcích aplikací a podmínkách prostředí.</p>
+
+<p>Klíčovou otázkou zůstává standardizace těchto technologií v rámci 3GPP. Zatímco společnosti jako Huawei, Ericsson nebo Qualcomm hrají v tomto procesu hlavní roli, bude důležité, aby se zapojili i další hráči a akademické instituce. Sítě 6G nebudou pouze o rychlejších datech, ale také o efektivnějším a udržitelnějším využití spektra – což je cíl, k němuž tyto technologie směřují.</p>
+
+<p><strong>👉 Přehled nových přístupů k multiplexování:</strong> \</p>
+<ul>
+  <li><a href="/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/">Non-Orthogonal Multiple Access (NOMA)</a></li>
+  <li><a href="/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/">Rate-Splitting Multiple Access (RSMA)</a></li>
+  <li><a href="/mobilnisite/Sparse-Code-Multiple-Access-SCMA/">Sparse Code Multiple Access (SCMA)</a></li>
+  <li>další <a href="/mobilnisite/pokrocile-multiplexovani/">experimentální přístupy k multiplexování</a></li>
+  <li>a pro pořádek povídání o tom, <a href="/mobilnisite/ofdma">jak funguje OFDMA</a></li>
+</ul>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule/">👉Umělointeligenční asistenti a&nbsp;pochybnosti nad existencí svobodné vůle</a>
+                <p class="excerpt">
+                  
+                    Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v n...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <p class="excerpt">
+                  
+                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí.
+
+Poznatek první: umělá inteli...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G&url=https://www.marigold.cz/mobilnisite/pokrocile-multiplexovani/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/pokrocile-multiplexovani/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2024-11-15-pokrocile-multiplexovani.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/">&laquo; Non-Orthogonal Multiple Access (NOMA)</a> |
+      
+      
+      
+        <a class="next" href="/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/">Rate-Splitting Multiple Access (RSMA) &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

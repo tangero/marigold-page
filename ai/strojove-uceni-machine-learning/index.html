@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Úvod do strojového učení - Machine Learning | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Úvod do strojového učení - Machine Learning" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Strojové učení je poddisciplína umělé inteligence (AI), která se zabývá vývojem algoritmů umožňujících počítačům se samostatně učit z dat. Namísto explicitního programování počítače na vyřešení konkrétního problému mu poskytujeme data a necháme jej, aby si z těchto dat vytvořil vlastní modely a pravidla, které použije při rozhodování. Tento proces umožňuje strojům přizpůsobit se novým situacím a zlepšovat svou výkonnost na základě zkušeností. Jeho podstatnou výhodou také je, že počítač může v datech tímto způsobem vidět souvislosti, které nás nenapadly a tím dojít k inovativním závěrům. To by v momentě, kdybychom mu výslovně řekli, jak má při zpracování dat postupovat, nebylo možné." />
+<meta property="og:description" content="Strojové učení je poddisciplína umělé inteligence (AI), která se zabývá vývojem algoritmů umožňujících počítačům se samostatně učit z dat. Namísto explicitního programování počítače na vyřešení konkrétního problému mu poskytujeme data a necháme jej, aby si z těchto dat vytvořil vlastní modely a pravidla, které použije při rozhodování. Tento proces umožňuje strojům přizpůsobit se novým situacím a zlepšovat svou výkonnost na základě zkušeností. Jeho podstatnou výhodou také je, že počítač může v datech tímto způsobem vidět souvislosti, které nás nenapadly a tím dojít k inovativním závěrům. To by v momentě, kdybychom mu výslovně řekli, jak má při zpracování dat postupovat, nebylo možné." />
+<link rel="canonical" href="https://www.marigold.cz/ai/strojove-uceni-machine-learning/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/strojove-uceni-machine-learning/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-07-06T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Úvod do strojového učení - Machine Learning" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-07-06T00:00:00+00:00","datePublished":"2024-07-06T00:00:00+00:00","description":"Strojové učení je poddisciplína umělé inteligence (AI), která se zabývá vývojem algoritmů umožňujících počítačům se samostatně učit z dat. Namísto explicitního programování počítače na vyřešení konkrétního problému mu poskytujeme data a necháme jej, aby si z těchto dat vytvořil vlastní modely a pravidla, které použije při rozhodování. Tento proces umožňuje strojům přizpůsobit se novým situacím a zlepšovat svou výkonnost na základě zkušeností. Jeho podstatnou výhodou také je, že počítač může v datech tímto způsobem vidět souvislosti, které nás nenapadly a tím dojít k inovativním závěrům. To by v momentě, kdybychom mu výslovně řekli, jak má při zpracování dat postupovat, nebylo možné.","headline":"Úvod do strojového učení - Machine Learning","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/strojove-uceni-machine-learning/"},"url":"https://www.marigold.cz/ai/strojove-uceni-machine-learning/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Strojové učení je poddisciplína umělé inteligence (AI), která se zabývá vývojem algoritmů umožňujících počítačům se samostatně učit z dat. Namísto explicitního programování počítače na vyřešení konkrétního problému mu poskytujeme data a necháme jej, aby si z těchto dat vytvořil vlastní modely a pravidla, které použije při rozhodování. Tento proces umožňuje strojům přizpůsobit se novým situacím a zlepšovat svou výkonnost na základě zkušeností. Jeho podstatnou výhodou také je, že počítač může v datech tímto způsobem vidět souvislosti, které nás nenapadly a tím dojít k inovativním závěrům. To by v momentě, kdybychom mu výslovně řekli, jak má při zpracování dat postupovat, nebylo možné.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Úvod do strojového učení - Machine Learning" />
+    <meta property="twitter:title" content="Úvod do strojového učení - Machine Learning" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/strojove-uceni-machine-learning/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Úvod do strojového učení - Machine Learning</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+6.
+červenec
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Strojové učení je poddisciplína umělé inteligence (AI), která se zabývá vývojem algoritmů umožňujících počítačům se samostatně učit z dat. Namísto explicitního programování počítače na vyřešení konkrétního problému mu poskytujeme data a necháme jej, aby si z těchto dat vytvořil vlastní modely a pravidla, které použije při rozhodování. Tento proces umožňuje strojům přizpůsobit se novým situacím a zlepšovat svou výkonnost na základě zkušeností. Jeho podstatnou výhodou také je, že počítač může v datech tímto způsobem vidět souvislosti, které nás nenapadly a tím dojít k inovativním závěrům. To by v momentě, kdybychom mu výslovně řekli, jak má při zpracování dat postupovat, nebylo možné.</p>
+
+<h2 id="typy-strojového-učení">Typy strojového učení</h2>
+
+<p>Existují tři hlavní typy strojového učení: učení s učitelem, učení bez učitele a učení posilováním.</p>
+
+<h3 id="učení-s-učitelem">Učení s učitelem</h3>
+<p>Učení s učitelem (supervised learning) zahrnuje trénování modelu na datové sadě, která obsahuje vstupy a odpovídající výstupy. Příkladem může být predikce ceny nemovitostí na základě historických dat o prodeji. Model se učí z těchto dat a snaží se nalézt vztah mezi vstupními vlastnostmi (velikost domu, lokalita, počet pokojů) a výstupem (cena domu). Díky tomu, že zná výsledek na obsáhlé sadě dat, je pro něj jednodušší najít souvislosti.</p>
+
+<h3 id="učení-bez-učitele">Učení bez učitele</h3>
+
+<p>Učení bez učitele (unsupervised learning) pracuje s daty, která nejsou označena, otagována. Cílem je najít skryté struktury nebo vzory v datech. Příkladem může být clustering, kde se snažíme seskupit data do skupin s podobnými vlastnostmi. To se často používá v marketingu pro segmentaci zákazníků na základě jejich nákupního chování. Tím, že v průběhu tohoto učení není dopředu znám kýžený výsledek, je výstup považovaný za volnější a například u ceny nemovitostí může počítač dojít k inovativním závěrům, že cena závisí i na faktorech, jako je stav domu nebo sousedé.</p>
+
+<h3 id="učení-posilováním">Učení posilováním</h3>
+
+<p>Učení posilováním (reinforcement learning) je přístup, kde se model učí na základě interakce s prostředím a zpětné vazby ve formě odměn nebo trestů. Představte si robota, který se učí procházet bludištěm. Za každý krok správným směrem dostane odměnu, zatímco za krok špatným směrem dostane trest. Cílem je maximalizovat <em>celkovou odměnu</em>. Povšimněte si, že odezvu umožňuje třeba ChatGPT - palcem nahoru nebo dolů lze dát modelu zpětnou vazbu, zda jste byli s výstupem spokojeni.</p>
+
+<h3 id="příklad-použití-strojového-učení-velké-jazykové-modely-llm">Příklad použití strojového učení: Velké jazykové modely (LLM)</h3>
+
+<p>Velké jazykové modely, jako je GPT (Generative Pre-trained Transformer) vyvinutý společností OpenAI, jsou konkrétním příkladem hlubokého učení. GPT je trénován na obrovském množství textových dat z internetu, což mu umožňuje generovat text, který je velmi podobný lidskému.</p>
+
+<p>Jak funguje trénink LLM?</p>
+
+<p>Trénink LLM zahrnuje následující kroky:</p>
+
+<ol>
+  <li>Sběr dat: Obrovské množství textových dat je shromážděno z různých zdrojů, jako jsou knihy, články, webové stránky.</li>
+  <li>Předzpracování dat: Textová data jsou vyčištěna a transformována do formátu vhodného pro trénink. To zahrnuje odstranění nežádoucích znaků, tokenizaci textu (rozdělení na menší části, jako jsou slova nebo fráze) a další normalizační kroky.</li>
+  <li>Trénink modelu: Model je trénován pomocí techniky zvané transformer, která je schopna zpracovávat sekvence textu a učit se vztahy mezi slovy v kontextu celé věty nebo odstavce.</li>
+  <li>Ladění a optimalizace: Model je následně laděn a optimalizován, aby zlepšil svou přesnost a schopnost generovat smysluplný text.</li>
+</ol>
+
+<h3 id="příklad-klasifikace-e-mailů">Příklad: Klasifikace e-mailů</h3>
+
+<p>Představme si, že chceme vytvořit systém pro automatickou klasifikaci e-mailů na spam a legitimní zprávy. To je typický příklad úlohy učení s učitelem.</p>
+
+<ol>
+  <li>
+    <p><strong>Sběr dat</strong>: Shromáždíme velké množství e-mailů, které jsou již označeny jako spam nebo legitimní.</p>
+  </li>
+  <li>
+    <p><strong>Předzpracování</strong>: Převedeme text e-mailů na číselné vektory. Například můžeme použít metodu “bag of words”, kde každý e-mail je reprezentován vektorem četností slov.</p>
+  </li>
+  <li>
+    <p><strong>Trénink modelu</strong>: Použijeme algoritmus strojového učení, například logistickou regresi nebo rozhodovací strom, který se naučí rozlišovat mezi spamem a legitimními zprávami na základě těchto vektorů.</p>
+  </li>
+  <li>
+    <p><strong>Testování</strong>: Ověříme přesnost modelu na nových, dříve neviděných e-mailech.</p>
+  </li>
+  <li>
+    <p><strong>Nasazení</strong>: Pokud je model dostatečně přesný, můžeme ho nasadit do produkčního prostředí pro automatickou klasifikaci nových e-mailů. A samozřejmě kontinuálně monitorujeme, které emaily lidé označují za spamy a kde jsou naopak naštvaní, že došlo k “false positive” - tedy legitimní email byl označený za spam. Inu, spam filtry jsou docela věda, nepočítejte s tím, že po přečtení tohoto článku si nějaký spam filtr hned naprogramujete.</p>
+  </li>
+</ol>
+
+<h2 id="klasické-strojové-učení-vs-hluboké-učení">Klasické strojové učení vs. hluboké učení</h2>
+
+<p>Jaký je rozdíl mezi klasickým a hlubokým učením? Hlavní rozdíl spočívá v komplexitě modelů a množství dat, které jsou schopny zpracovat. Zatímco klasické modely mohou být efektivní pro jednodušší úlohy s menším množstvím dat, hluboké učení je vhodné pro komplexní problémy vyžadující analýzu velkého množství dat.</p>
+
+<h3 id="klasické-strojové-učení">Klasické strojové učení</h3>
+
+<p>Klasické strojové učení zahrnuje použití algoritmů, jako jsou lineární regrese, rozhodovací stromy nebo k-means clustering. Tyto algoritmy jsou často jednodušší a rychlejší na trénování než hluboké učení, ale mohou být méně efektivní při řešení komplexních problémů, kde je třeba zpracovat velké množství dat nebo se naučit složité vzory.</p>
+
+<h3 id="hluboké-učení---deep-learning">Hluboké učení. - Deep Learning</h3>
+
+<p>Hluboké učení je podmnožinou strojového učení, která využívá neuronové sítě s mnoha vrstvami (tzv. hluboké neuronové sítě). Tyto modely jsou schopny se naučit velmi složité vztahy a vzory v datech, což je činí ideálními pro úlohy, jako je rozpoznávání obrazu, přirozeného jazyka nebo generování textu.</p>
+
+<p>Podívejme se na pár příkladů, kde se používá klasické strojové učení a kde je vhodné naopak hluboké učení.</p>
+
+<p>Klasické strojové učení se často používá v aplikacích, kde je k dispozici omezené množství dat nebo kde je důležitá rychlost trénování a interpretovatelnost modelu. Příkladem může být:</p>
+
+<ul>
+  <li>Predikce výnosů akcií na základě historických dat.</li>
+  <li>Analýza sentimentu na sociálních médiích.</li>
+  <li>Identifikace anomálií ve finančních transakcích.</li>
+</ul>
+
+<p>Hluboké učení se uplatňuje v situacích, kde je potřeba zpracovat obrovské množství dat a kde jsou požadovány složité modely schopné se učit jemné vzory. Příklady:</p>
+
+<ul>
+  <li>Rozpoznávání obrazu a videa.</li>
+  <li>Přirozené zpracování jazyka (NLP), jako je překlad textu nebo generování odpovědí.</li>
+  <li>Autonomní řízení vozidel, kde je potřeba analyzovat obrazy z kamer v reálném čase.</li>
+</ul>
+
+<h3 id="neuronové-sítě-a-strojové-učení">Neuronové sítě a strojové učení?</h3>
+
+<p>Asi jste si v případě hlubokého učení povšimli zmínky o neuronových sítích. Jaký je tedy vztah mezi strojovým učením a neuronovými sítěmi? Neuronové sítě jsou klíčovou součástí strojového učení, zejména v oblasti hlubokého učení. Strojové učení je širší oblast umělé inteligence, která zahrnuje různé přístupy a techniky pro vytváření modelů, které se učí z dat. Neuronové sítě jsou jedním z mnoha typů modelů používaných ve strojovém učení. Pro jaké použití se neuronové sítě v ML hodí?</p>
+
+<ul>
+  <li>Zpracování přirozeného jazyka (NLP): Rekurentní neuronové sítě (RNN) a transformery</li>
+  <li>Počítačové vidění: Konvoluční neuronové sítě (CNN)</li>
+  <li>Generativní modely: Generative Adversarial Networks (GAN)</li>
+</ul>
+
+<p>Existuje ale celá řada dalších modelů, které se ve strojovém učení využívají.</p>
+
+<h2 id="výzvy-a-budoucí-směry">Výzvy a budoucí směry</h2>
+
+<p>Strojové učení, zejména v kontextu AI a LLM, má řadu svých problémů pod čarou ponoru, s nimiž se autoři modelů musí vypořádat. Zrekapitulujme si je, protože v případě práce se strojovým učením jim budete ve větší či menší míře čelit také…</p>
+
+<ol>
+  <li>
+    <p><strong>Potřeba velkých dat</strong>: Hluboké modely vyžadují obrovské množství dat pro efektivní trénink.</p>
+  </li>
+  <li>
+    <p><strong>Výpočetní náročnost</strong>: Trénování velkých modelů je extrémně výpočetně náročné a energeticky nákladné.</p>
+  </li>
+  <li>
+    <p><strong>Interpretovatelnost</strong>: Hluboké modely jsou často považovány za “černé skříňky”, což ztěžuje pochopení jejich rozhodovacího procesu.</p>
+  </li>
+  <li>
+    <p><strong>Bias a férovost</strong>: Modely mohou zachycovat a zesilovat předsudky přítomné v trénovacích datech.</p>
+  </li>
+  <li>
+    <p><strong>Generalizace</strong>: Zajištění, aby modely dobře fungovaly na nových, neviděných datech, zůstává výzvou.</p>
+  </li>
+</ol>
+
+<p>Budoucí směry výzkumu zahrnují:</p>
+
+<ul>
+  <li><strong>Efektivnější architektury</strong>: Hledání modelů, které dokáží dosáhnout podobných výsledků s menším počtem parametrů.</li>
+  <li><strong>Učení s méně daty</strong>: Vývoj technik, které umožní efektivní učení i s omezeným množstvím dat.</li>
+  <li><strong>Multimodální učení</strong>: Integrace různých typů dat (text, obraz, zvuk) do jednotných modelů.</li>
+  <li><strong>Kontinuální učení</strong>: Vývoj systémů, které se mohou průběžně učit bez “zapomínání” předchozích znalostí.</li>
+</ul>
+
+<p>Strojové učení a jeho poddisciplíny hrají klíčovou roli ve vývoji moderní umělé inteligence. Zatímco klasické strojové učení nabízí rychlá a interpretovatelná řešení pro jednodušší problémy, hluboké učení umožňuje řešení komplexních úloh vyžadujících zpracování velkého množství dat. Velké jazykové modely, jako je GPT, jsou příkladem toho, jak hluboké učení může být použito k dosažení úžasných výsledků v oblasti přirozeného zpracování jazyka a generování textu.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/projektovy-manazer-je-v-cesku-sproste-slovo-ke-skode-projektu/">👉Projektový manažer je v&nbsp;Česku sprosté slovo &#8211; ke škodě projektů &#8230;</a>
+                <p class="excerpt">
+                  
+                    Na Makers Faire jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
+                <p class="excerpt">
+                  
+                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Úvod do strojového učení - Machine Learning&url=https://www.marigold.cz/ai/strojove-uceni-machine-learning/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/strojove-uceni-machine-learning/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2024-07-06-strojove-uceni-machine-learning.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/neuronove-site/">&laquo; Neuronové sítě</a> |
+      
+      
+      
+        <a class="next" href="/ai/priklad-neuronove-site/">Příklad fungování neuronové sítě &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

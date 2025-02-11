@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tokeny vs. Slova: Základní stavební jednotky kontextu v AI | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Tokeny vs. Slova: Základní stavební jednotky kontextu v AI" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="V kontextu jazykových modelů pracujeme s pojmem “token”, který se liší od běžného slova. Pochopení tohoto rozdílu je klíčové - termín se běžně používá v AI nejenom z technologického, ale také cenového pohledu. Přes API je totiž placená cena uváděná za počet tokenů. Pojďme si tedy detailněji vysvětlit, co je to token a jaký je jeho vztah vůči slovu." />
+<meta property="og:description" content="V kontextu jazykových modelů pracujeme s pojmem “token”, který se liší od běžného slova. Pochopení tohoto rozdílu je klíčové - termín se běžně používá v AI nejenom z technologického, ale také cenového pohledu. Přes API je totiž placená cena uváděná za počet tokenů. Pojďme si tedy detailněji vysvětlit, co je to token a jaký je jeho vztah vůči slovu." />
+<link rel="canonical" href="https://www.marigold.cz/ai/tokeny-versus-slova/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/tokeny-versus-slova/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-18T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Tokeny vs. Slova: Základní stavební jednotky kontextu v AI" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-18T00:00:00+00:00","datePublished":"2024-12-18T00:00:00+00:00","description":"V kontextu jazykových modelů pracujeme s pojmem “token”, který se liší od běžného slova. Pochopení tohoto rozdílu je klíčové - termín se běžně používá v AI nejenom z technologického, ale také cenového pohledu. Přes API je totiž placená cena uváděná za počet tokenů. Pojďme si tedy detailněji vysvětlit, co je to token a jaký je jeho vztah vůči slovu.","headline":"Tokeny vs. Slova: Základní stavební jednotky kontextu v AI","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/tokeny-versus-slova/"},"url":"https://www.marigold.cz/ai/tokeny-versus-slova/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="V kontextu jazykových modelů pracujeme s pojmem “token”, který se liší od běžného slova. Pochopení tohoto rozdílu je klíčové - termín se běžně používá v AI nejenom z technologického, ale také cenového pohledu. Přes API je totiž placená cena uváděná za počet tokenů. Pojďme si tedy detailněji vysvětlit, co je to token a jaký je jeho vztah vůči slovu.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Tokeny vs. Slova: Základní stavební jednotky kontextu v AI" />
+    <meta property="twitter:title" content="Tokeny vs. Slova: Základní stavební jednotky kontextu v AI" />
+    
+
+    
+    <!-- page.thumbnail -->
+    
+        <!-- page.thumbnail https://glaforge.dev/img/gemini/token-viz.jpg |  -->
+    <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/https://glaforge.dev/img/gemini/token-viz.jpg"/>
+    <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/https://glaforge.dev/img/gemini/token-viz.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/tokeny-versus-slova/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Tokeny vs. Slova: Základní stavební jednotky kontextu v AI</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+18.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+  
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/https://glaforge.dev/img/gemini/token-viz.jpg" alt="Tokeny vs. Slova: Základní stavební jednotky kontextu v AI">
+  </div>
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>V kontextu jazykových modelů pracujeme s pojmem “token”, který se liší od běžného slova. Pochopení tohoto rozdílu je klíčové - termín se běžně používá v AI nejenom z technologického, ale také cenového pohledu. Přes API je totiž placená cena uváděná za počet tokenů. Pojďme si tedy detailněji vysvětlit, co je to token a jaký je jeho vztah vůči slovu.</p>
+
+<p>Definice tokenu:</p>
+<ul>
+  <li>Token je nejmenší jednotka, kterou model zpracovává</li>
+  <li>Může představovat část slova, celé slovo, interpunkci nebo speciální znaky</li>
+  <li>Tokenizace je proces rozdělení textu na tyto jednotky</li>
+</ul>
+
+<p>Praktické příklady tokenizace:</p>
+
+<p>Běžná slova:</p>
+<ul>
+  <li>“kočka” = 1 token</li>
+  <li>“pes” = 1 token</li>
+</ul>
+
+<p>Složená nebo delší slova:</p>
+<ul>
+  <li>“velrybolov” = pravděpodobně 2-3 tokeny (“vel” + “ryb” + “olov”)</li>
+  <li>“internacionalizace” = může být rozděleno na několik tokenů</li>
+</ul>
+
+<p>Speciální znaky:</p>
+<ul>
+  <li>Mezery jsou samostatné tokeny</li>
+  <li>Interpunkce často tvoří samostatné tokeny</li>
+  <li>Emoji mohou být reprezentovány více tokeny</li>
+</ul>
+
+<p>Důsledky pro práci s kontextem:</p>
+<ul>
+  <li>Text o 1000 slovech může obsahovat 1500-2000 tokenů. Velmi se to liší podle jazyka, obecně čeština používá více tokenů, než angličtina (cca dvojnásobně)</li>
+  <li>Limity kontextu jsou definovány v tokenech, ne ve slovech</li>
+  <li>Efektivní práce s kontextem vyžaduje optimalizaci použití tokenů</li>
+</ul>
+
+<h2 id="proč-se-používají-tokeny-namísto-slov">Proč se používají tokeny namísto slov</h2>
+
+<p>Využití tokenů namísto celých slov představuje zásadní koncepční přístup v architektuře moderních jazykových modelů. Tato metodologie, vycházející z principů teorie informace a mnohaletého výzkumu v oblasti zpracování přirozeného jazyka, přináší několik klíčových výhod pro efektivitu a výkonnost těchto systémů.</p>
+
+<p>Zásadním přínosem tokenizace je dramatická redukce velikosti vstupního slovníku. Zatímco přirozený jazyk operuje s miliony slov, tokenizační systémy dokáží reprezentovat stejnou jazykovou komplexitu pomocí výrazně menší množiny základních jednotek, typicky v řádu desítek tisíc tokenů. Každý token získává fixní číselnou reprezentaci, což významně zefektivňuje následné výpočetní operace v neuronové síti.</p>
+
+<p>Efektivita kódování</p>
+<ul>
+  <li>Slovní zásoba přirozeného jazyka je extrémně rozsáhlá (miliony slov)</li>
+  <li>Tokenizace umožňuje reprezentovat jazyk pomocí menší množiny základních jednotek (typicky 30-50 tisíc tokenů)</li>
+  <li>Každý token má číselnou reprezentaci fixní délky, což zefektivňuje výpočty</li>
+</ul>
+
+<p>Zvláště významnou roli hraje tokenizace při zpracování morfologicky bohatých jazyků. Schopnost rozpoznávat a separovat subword jednotky - tedy předpony, přípony a kořeny slov - umožňuje modelu efektivně generalizovat jazykové vzory. Například slova jako “předškolní”, “školák” a “školství” sdílejí společný token reprezentující kořen “škol”, což modelu umožňuje lépe pochopit sémantické vztahy mezi těmito výrazy.</p>
+
+<p>Subwords a morfologie</p>
+<ul>
+  <li>Mnohé jazyky (včetně češtiny) mají bohatou morfologii a skládání slov</li>
+  <li>Tokenizace dokáže zachytit společné části slov (předpony, přípony, kořeny). Například: “před-škol-ní”, “škol-ák”, “škol-ství” sdílejí token “škol”</li>
+  <li>To umožňuje modelu lépe generalizovat a pracovat s neviděnými slovy</li>
+</ul>
+
+<p>Z pohledu strojového učení přináší tokenizace významné optimalizační výhody. Menší vstupní slovník nejen redukuje paměťovou náročnost embeddings vrstvy, ale také zefektivňuje vektorové operace v rámci modelu. Fixní velikost tokenových reprezentací navíc přispívá k numerické stabilitě během trénovacího procesu.</p>
+
+<p>Optimalizace pro strojové učení</p>
+<ul>
+  <li>Neuronové sítě pracují efektivněji s menším vstupním slovníkem</li>
+  <li>Fixní velikost tokenu zjednodušuje vektorové operace</li>
+  <li>Snižuje se paměťová náročnost embeddings vrstvy</li>
+</ul>
+
+<p>Tokenizace rovněž elegantně řeší problém zpracování neznámých slov (Out-of-Vocabulary). Zatímco tradiční systémy pracující s celými slovy musely neznámá slova označovat speciálními symboly, tokenizační přístup dokáže takové výrazy rozložit na známé subword jednotky. To významně zvyšuje robustnost modelu při konfrontaci s novými či vzácnými slovy.</p>
+
+<p>Řešení problému Out-of-Vocabulary</p>
+<ul>
+  <li>Neznámá slova lze rozložit na známé tokeny</li>
+  <li>Model má větší šanci správně zpracovat nová či vzácná slova</li>
+  <li>Snižuje se nutnost mít speciální tokeny pro neznámá slova</li>
+</ul>
+
+<p>V kontextu multilingválních aplikací nabývá tokenizace další důležité role. Sdílení tokenů mezi různými jazyky, zejména v případě příbuzných jazykových rodin, umožňuje efektivní vytváření vícejazyčných modelů. Systém dokáže identifikovat společné lingvistické elementy napříč jazyky, což přispívá k lepšímu porozumění mezijazykovým vztahům.</p>
+
+<p>Tento sofistikovaný přístup ke zpracování jazyka představuje optimální kompromis mezi výpočetní efektivitou a zachováním lingvistické informace. Tokenizace tak zůstává klíčovým stavebním prvkem současných jazykových modelů, umožňujícím jejich praktické nasazení při zachování vysoké úrovně jazykového porozumění.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
+                <p class="excerpt">
+                  
+                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  Zlatá éra weblogů a můžete si ji stáhnout zdar...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
+                <p class="excerpt">
+                  
+                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  Zásady pro výstavbu ve městě, které stanoví rámec spolupráce s developery. Zásady se nevztahují n...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Tokeny vs. Slova: Základní stavební jednotky kontextu v AI&url=https://www.marigold.cz/ai/tokeny-versus-slova/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/tokeny-versus-slova/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2024-12-18-tokeny-versus-slova.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/halucinace-ai/">&laquo; Halucinace v umělé inteligenci: Co to je, proč vznikají, jak je rozpoznat a minimalizovat</a> |
+      
+      
+      
+        <a class="next" href="/ai/chatgpt-canvas/">ChatGPT Canvas - vizuální prostředí pro tvorbu textu s AI &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Proximity Services (ProSe) a Device-to-Device (D2D) komunikace v LTE | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Proximity Services (ProSe) a Device-to-Device (D2D) komunikace v LTE" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Proximity Services (ProSe) je technologie umožňující přímou komunikaci mezi zařízeními v mobilních sítích LTE, bez nutnosti procházet přes síťovou infrastrukturu. Tato technologie, označovaná také jako Device-to-Device (D2D) komunikace, přináší řadu výhod a nových možností využití mobilních sítí. Pojďme se podrobněji podívat na principy fungování ProSe, klasifikaci různých módů D2D komunikace, výhody a nevýhody každého z nich, a také na architekturu D2D v rámci LTE-Advanced sítí." />
+<meta property="og:description" content="Proximity Services (ProSe) je technologie umožňující přímou komunikaci mezi zařízeními v mobilních sítích LTE, bez nutnosti procházet přes síťovou infrastrukturu. Tato technologie, označovaná také jako Device-to-Device (D2D) komunikace, přináší řadu výhod a nových možností využití mobilních sítí. Pojďme se podrobněji podívat na principy fungování ProSe, klasifikaci různých módů D2D komunikace, výhody a nevýhody každého z nich, a také na architekturu D2D v rámci LTE-Advanced sítí." />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/prose-d2d/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/prose-d2d/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-26T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Proximity Services (ProSe) a Device-to-Device (D2D) komunikace v LTE" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-26T00:00:00+00:00","datePublished":"2024-12-26T00:00:00+00:00","description":"Proximity Services (ProSe) je technologie umožňující přímou komunikaci mezi zařízeními v mobilních sítích LTE, bez nutnosti procházet přes síťovou infrastrukturu. Tato technologie, označovaná také jako Device-to-Device (D2D) komunikace, přináší řadu výhod a nových možností využití mobilních sítí. Pojďme se podrobněji podívat na principy fungování ProSe, klasifikaci různých módů D2D komunikace, výhody a nevýhody každého z nich, a také na architekturu D2D v rámci LTE-Advanced sítí.","headline":"Proximity Services (ProSe) a Device-to-Device (D2D) komunikace v LTE","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/prose-d2d/"},"url":"https://www.marigold.cz/mobilnisite/prose-d2d/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Proximity Services (ProSe) je technologie umožňující přímou komunikaci mezi zařízeními v mobilních sítích LTE, bez nutnosti procházet přes síťovou infrastrukturu. Tato technologie, označovaná také jako Device-to-Device (D2D) komunikace, přináší řadu výhod a nových možností využití mobilních sítí. Pojďme se podrobněji podívat na principy fungování ProSe, klasifikaci různých módů D2D komunikace, výhody a nevýhody každého z nich, a také na architekturu D2D v rámci LTE-Advanced sítí.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Proximity Services (ProSe) a Device-to-Device (D2D) komunikace v LTE" />
+    <meta property="twitter:title" content="Proximity Services (ProSe) a Device-to-Device (D2D) komunikace v LTE" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/prose-d2d/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Proximity Services (ProSe) a Device-to-Device (D2D) komunikace v LTE</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+26.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#LTE">LTE</a>
+        &nbsp;
+      
+        <a href="//rubrika/#LTE-Advanced">LTE-Advanced</a>
+        &nbsp;
+      
+        <a href="//rubrika/#4G">4G</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Proximity Services (ProSe) je technologie umožňující přímou komunikaci mezi zařízeními v mobilních sítích LTE, bez nutnosti procházet přes síťovou infrastrukturu. Tato technologie, označovaná také jako Device-to-Device (D2D) komunikace, přináší řadu výhod a nových možností využití mobilních sítí. Pojďme se podrobněji podívat na principy fungování ProSe, klasifikaci různých módů D2D komunikace, výhody a nevýhody každého z nich, a také na architekturu D2D v rámci LTE-Advanced sítí.</p>
+
+<h2 id="princip-fungování-prosed2d">Princip fungování ProSe/D2D</h2>
+
+<p>Tradiční mobilní komunikace probíhá vždy přes síťovou infrastrukturu - vysílající zařízení pošle data na základnovou stanici (eNodeB), ta je přepošle přes páteřní síť na cílovou základnovou stanici a ta je doručí cílovému zařízení. I když jsou obě komunikující zařízení blízko sebe, musí signál putovat přes síť.</p>
+
+<p>Oproti tomu ProSe umožňuje přímou komunikaci mezi blízkými zařízeními (UE - User Equipment), bez nutnosti procházet sítí. Zařízení si data posílají přímo mezi sebou pomocí speciálních ProSe kanálů na rozhraní označovaném jako sidelink. Základnová stanice pouze koordinuje a řídí přidělování zdrojů pro tyto D2D přenosy.</p>
+
+<h2 id="klasifikace-d2d-komunikace">Klasifikace D2D komunikace</h2>
+
+<p>D2D komunikaci v buňkových sítích můžeme rozdělit podle používaného frekvenčního spektra na dvě hlavní kategorie:</p>
+
+<ol>
+  <li>
+    <p><strong>Inband D2D</strong> - komunikace probíhá ve stejném licencovaném spektru jako buňková síť LTE. Přímá výměna dat mezi D2D zařízeními tedy sdílí přenosové prostředky s buňkovými uživateli.</p>
+  </li>
+  <li>
+    <p><strong>Outband D2D</strong> - komunikace probíhá v odděleném nelicencovaném spektru, typicky v pásmech ISM jako 2.4 GHz. Pro přenos se využívá jiná bezdrátová technologie, například WiFi Direct nebo Bluetooth.</p>
+  </li>
+</ol>
+
+<h3 id="inband-d2d">Inband D2D</h3>
+<p>Inband D2D dále dělíme podle způsobu sdílení rádiových prostředků na:</p>
+
+<ul>
+  <li>
+    <p><strong>Underlay</strong> - D2D komunikace využívá stejné frekvenční a časové zdroje jako buňkoví uživatelé. Zvyšuje se tím spektrální efektivita sítě, ale je potřeba důkladně řídit interferenci mezi D2D a buňkovým provozem.</p>
+  </li>
+  <li>
+    <p><strong>Overlay</strong> - část buňkových zdrojů (subframe, PRB) je dedikována výhradně pro D2D komunikaci. Nedochází tak k interferenci, ale je nutná explicitní alokace části spektra pro D2D na úkor buňkových uživatelů.</p>
+  </li>
+</ul>
+
+<p>Hlavní motivací pro použití inband D2D je efektivnější využití licencovaného spektra pod kontrolou operátora. Na druhou stranu je potřeba řešit odstínění interference mezi D2D a buňkovými linkami sofistikovanými algoritmy řízení výkonu a alokace zdrojů, což zvyšuje komplexitu.</p>
+
+<h3 id="outband-d2d">Outband D2D</h3>
+<p>U outband D2D zařízení využívají pro přímou komunikaci jiné rádivé rozhraní a pásmo, než primární buňkovou síť LTE. Tím se zcela eliminuje interference s buňkovými uživateli. Outband pásma však nejsou pod kontrolou operátora a mohou trpět rušením. Navíc je potřeba v zařízeních implementovat dodatečný rádiový subsystém (WiFi, Bluetooth).</p>
+
+<p>Outband D2D může pracovat ve dvou režimech:</p>
+<ul>
+  <li>Kontrolovaný režim - síť LTE pomáhá s konfigurací, ustanovením a řízením outband D2D spojení, ale vlastní data jsou přenášena mimo LTE.</li>
+  <li>Autonomní režim - objevování i komunikace D2D zařízení probíhá bez asistence LTE sítě, pouze na základě interakce mezi D2D uživateli.</li>
+</ul>
+
+<h2 id="systémová-architektura-pro-d2d-v-lte-a">Systémová architektura pro D2D v LTE-A</h2>
+
+<p>Pro podporu ProSe služeb a integraci D2D komunikace do LTE sítě bylo potřeba architekturu LTE/EPC rozšířit o nové síťové entity a rozhraní. Klíčové prvky jsou:</p>
+
+<ul>
+  <li>
+    <p><strong>ProSe Function</strong> - síťová entita zajišťující funkce nezbytné pro podporu ProSe, jako autorizace uživatelů, správa D2D spojení, přidělování zdrojů, účtování služeb atd. Komunikuje s dalšími prvky přes referenční body PC1 až PC8.</p>
+  </li>
+  <li>
+    <p><strong>ProSe Application Server</strong> - realizuje aplikační funkce nad D2D komunikací, prosazuje použití ProSe pro konkrétní služby.</p>
+  </li>
+  <li>
+    <p><strong>ProSe Application in UE</strong> - část aplikační vrstvy v uživatelských zařízeních. Poskytuje rozhraní pro aplikace, které chtějí využít přímé D2D komunikace mezi uživateli.</p>
+  </li>
+</ul>
+
+<p>Základ D2D komunikace mezi ProSe-enabled UE tvoří tyto procedury:</p>
+<ol>
+  <li>Objevování okolních zařízení (ProSe Discovery)</li>
+  <li>Navazování D2D spojení (link establishment)</li>
+  <li>Přímá komunikace (ProSe Communication), příp. včetně účasti dalších entit (ProSe Group Communication, ProSe Broadcast)</li>
+  <li>Případně předávání provozu do sítě (ProSe UE-to-Network Relay)</li>
+</ol>
+
+<p>Na stranu UE musely být doplněny nové funkce a protokolové vrstvy pro podporu D2D . Jedná se např. o správu D2D zdrojů, měření a reportování, zabezpečení D2D komunikace, či soužití D2D s buňkovou komunikací LTE.</p>
+
+<h2 id="objevování-ue-to-network-relay-pomocí-model-b">Objevování UE-to-Network Relay pomocí Model B</h2>
+
+<p>UE-to-Network Relay je důležitou funkcí ProSe, která umožňuje některým UE v dosahu eNB (Relay UE) zprostředkovávat připojení do sítě pro vzdálenější UE (Remote UE) přes sidelink rozhraní. Remote UE musí nejprve objevit okolní Relay UE pomocí ProSe discovery.</p>
+
+<p>V ProSe Model B posílá Remote UE všesměrově žádosti o nalezení Relay UE a čeká na jejich odpovědi. Pokud nějaké Relay UE žádost přijme, odpoví zprávou obsahující informace k navázání D2D relay spojení.</p>
+
+<p>Efektivita a rychlost tohoto procesu objevování při použití ProSe Model B závisí na několika faktorech:</p>
+
+<ul>
+  <li>Konfiguraci D2D resource pool (počet PRB párů, počet subframe)</li>
+  <li>Počtu Relay a Remote UE, které pool využívají</li>
+  <li>Hodnotě parametru TX Probability, který určuje s jakou četností UE vysílají objevovací zprávy</li>
+</ul>
+
+<p>Správné nastavení těchto parametrů s ohledem na potřebný dosah, rychlost objevení a spotřebu energie je netriviální optimalizační problém. Pomocí analytických modelů a simulací lze odhadnout chování a výkonnost procesu ProSe discovery pro různé počty UE a konfigurace. Výsledky ukazují, že od určité hustoty UE je výhodnější snížit TX Probability, než nechat UE vysílat příliš často, protože to vede k přetížení resource pool a častým kolizím. Je potřeba hledat optimální rovnováhu mezi rychlostí objevování, spotřebou a spolehlivostí doručení zpráv.</p>
+
+<h2 id="shrnutí">Shrnutí</h2>
+
+<p>Proximity Services (ProSe) a Device-to-Device (D2D) komunikace přináší do LTE sítí nové možnosti přímé komunikace mezi blízkými uživateli s nižší latencí, vyšší kapacitou a úsporou síťových zdrojů. Rozlišujeme Inband D2D komunikaci ve spektru LTE sítě (v režimu underlay nebo overlay) a Outband D2D v nelicencovaném pásmu s využitím sekundárního rozhraní (v kontrolovaném či autonomním módu). Začlenění D2D do LTE vyžadovalo úpravy architektury a protokolů, včetně nových síťových entit a rozhraní. Klíčovou roli hraje ProSe funkce, objevování okolních D2D zařízení a efektivní správa sdílených rádiových prostředků.  D2D komunikace nabízí zajímavé možnosti pro nové proximity služby, zvýšení efektivity i nouzovou komunikaci. Její nasazení v praxi však stále naráží na řadu technických i obchodních výzev.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
+                <p class="excerpt">
+                  
+                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií: případ Big Data, Baracka Obamy a&nbsp;Obamacare</a>
+                <p class="excerpt">
+                  
+                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Proximity Services (ProSe) a Device-to-Device (D2D) komunikace v LTE&url=https://www.marigold.cz/mobilnisite/prose-d2d/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/prose-d2d/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2024-12-26-prose-d2d.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/eul-pc/">&laquo; Enhanced Uplink Power Control v mobilních sítích</a> |
+      
+      
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

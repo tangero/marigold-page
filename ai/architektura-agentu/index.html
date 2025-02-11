@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Stavební bloky, workflow a agenti | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Stavební bloky, workflow a agenti" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Co konkrétně se v tomto článku dozvíte?" />
+<meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?" />
+<link rel="canonical" href="https://www.marigold.cz/ai/architektura-agentu/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/architektura-agentu/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-28T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Stavební bloky, workflow a agenti" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-28T00:00:00+00:00","datePublished":"2024-12-28T00:00:00+00:00","description":"Co konkrétně se v tomto článku dozvíte?","headline":"Stavební bloky, workflow a agenti","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/architektura-agentu/"},"url":"https://www.marigold.cz/ai/architektura-agentu/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Stavební bloky, workflow a agenti" />
+    <meta property="twitter:title" content="Stavební bloky, workflow a agenti" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/architektura-agentu/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Stavební bloky, workflow a agenti</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+28.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#stavební-blok-rozšířené-llm" id="markdown-toc-stavební-blok-rozšířené-llm">Stavební blok: Rozšířené LLM</a></li>
+  <li><a href="#workflow-řetězení-povelů" id="markdown-toc-workflow-řetězení-povelů">Workflow: Řetězení povelů</a></li>
+  <li><a href="#workflow-routování" id="markdown-toc-workflow-routování">Workflow: routování</a></li>
+  <li><a href="#workflow-paralelizace" id="markdown-toc-workflow-paralelizace">Workflow: Paralelizace</a></li>
+  <li><a href="#workflow-orchestrator-workery" id="markdown-toc-workflow-orchestrator-workery">Workflow: Orchestrator-workery</a></li>
+  <li><a href="#workflow-evaluátor-optimalizátor" id="markdown-toc-workflow-evaluátor-optimalizátor">Workflow Evaluátor-optimalizátor</a></li>
+  <li><a href="#agenti" id="markdown-toc-agenti">Agenti</a></li>
+  <li><a href="#kombinace-a-přizpůsobení-těchto-vzorů" id="markdown-toc-kombinace-a-přizpůsobení-těchto-vzorů">Kombinace a přizpůsobení těchto vzorů</a></li>
+  <li><a href="#shrnutí" id="markdown-toc-shrnutí">Shrnutí</a></li>
+</ul>
+
+<p>V této části se budeme zabývat běžnými druhy agentových systémů. Začneme základním stavebním blokem - rozšířeným LLM - a postupně budeme zvyšovat složitost, od jednoduchých workflow až po autonomní agenty. Z větší části jde o <a href="https://www.anthropic.com/research/building-effective-agents">překlad článku Anthropic Building effective agents</a>.</p>
+
+<h3 id="stavební-blok-rozšířené-llm">Stavební blok: Rozšířené LLM</h3>
+
+<p>Základním stavebním prvkem agentních systémů je LLM obohacený o rozšíření, jako je vyhledávání, nástroje a paměť. Špičkové současné modely LLM od OpenAI i Anthropicu mohou tyto schopnosti aktivně využívat. Mohou generovat vlastní rešeršní dotazy, vybírat vhodné nástroje a určovat, jaké informace si mají uchovat. Pro jednoduché úkoly je to zcela dostačující.</p>
+
+<pre><code class="language-mermaid">flowchart TD
+    A["Vstup"] --- C["LLM"]
+    B["Výstup"] ---- C
+    C &lt;-- Dotaz/Výsledky --&gt; D["Vyhledávání"]
+    C &lt;-- Volání/Odpověď --&gt; E["Nástroje"]
+    C &lt;-- Čtení/Zápis --&gt; F["Paměť"]
+
+    C@{ shape: rect}
+</code></pre>
+
+<p>Doporučujeme zaměřit se na dva klíčové aspekty implementace: přizpůsobení těchto schopností konkrétnímu případu použití a zajištění snadného a dobře zdokumentovaného rozhraní pro váš LLM. Ačkoli existuje mnoho způsobů, jak tato rozšíření implementovat, jedním ze zajímavých a stále málo využívaných přístupů je nedávno vydaný <a href="https://www.anthropic.com/news/model-context-protocol">protokol Model Context Protocol</a>, který vývojářům umožňuje integraci s rostoucím ekosystémem nástrojů třetích stran pomocí jednoduché <a href="https://modelcontextprotocol.io/tutorials/building-a-client#building-mcp-clients">klientské implementace</a>.</p>
+
+<p>Je potřeba pamatovat na to, že přes běžné webové rozhraní je dnes obtížné dosáhnout online napojení na jiné datové zdroje. Pokud potřebujete používat svoje (či firemní) data v online režimu, je třeba propojovat LLM přes API na úrovni programování a přes výše uvedené frameworky.</p>
+
+<p>Ve zbytku tohoto příspěvku budeme předpokládat, že každé volání LLM má přístup k těmto rozšířeným možnostem.</p>
+
+<h3 id="workflow-řetězení-povelů">Workflow: Řetězení povelů</h3>
+
+<p>Prompt chaining rozkládá úlohu na posloupnost kroků, kde každé volání LLM zpracovává výstup předchozího volání. Můžete přidat programové kontroly (viz „brána“ ve schématu níže) na všechny mezikroky, abyste zajistili, že proces stále probíhá podle plánu.</p>
+
+<pre><code class="language-mermaid">graph LR
+  In[Vstup] --&gt; LLM1[LLM Volání 1]
+  LLM1 --&gt; Output1[Výstup 1]
+  
+  Output1 --&gt; Gate[Brána]
+  Gate --&gt; LLM2[LLM Volání 2]
+  LLM2 --&gt; "Předání" 
+  "Předání" --&gt; LLM3[LLM Volání 3]
+  LLM3 --&gt; Output2[Výstup 2]
+  
+  Gate -- Selhání --&gt; Exit[Ukončení]
+  "Předání" -- Úspěch --&gt; Out[Výstup]
+</code></pre>
+
+<p>Kdy toto Workflow použít: toto Workflow je ideální pro situace, kdy lze úlohu snadno a přehledně rozložit na pevné dílčí úlohy. Hlavním cílem je vyměnit latenci za vyšší přesnost tím, že každé volání LLM bude jednodušší úlohou.</p>
+
+<p>Příklady, kdy je užitečné Řetězení povelů:</p>
+<ul>
+  <li>Generování kopie marketingového plánu pro reálie jiného trhu a následný překlad do jiného jazyka.</li>
+  <li>Napsání osnovy dokumentu, kontrola, zda osnova splňuje určitá kritéria, a poté napsání dokumentu na základě osnovy.</li>
+</ul>
+
+<h3 id="workflow-routování">Workflow: routování</h3>
+
+<p>Routování klasifikuje vstup a směruje jej na specializovanou následnou úlohu. toto Workflow umožňuje oddělit problémy a vytvářet specializovanější povely. Bez tohoto pracovního postupu může optimalizace pro jeden druh vstupů poškodit výkon u jiných vstupů.</p>
+
+<pre><code class="language-mermaid">graph LR
+In[Vstup] --&gt; LLMCallRouter["LLM Směrovač Volání"]
+LLMCallRouter --&gt; LLMCall1[LLM Volání 1]
+LLMCallRouter --&gt; LLMCall2[LLM Volání 2]
+LLMCallRouter --&gt; LLMCall3[LLM Volání 3]
+LLMCall1 --&gt; Out[Výstup]
+LLMCall2 --&gt; Out
+LLMCall3 --&gt; Out
+</code></pre>
+
+<p>Kdy toto Workflow použít: Routování funguje dobře u složitých úloh, kde existují odlišné kategorie, které je lépe zpracovávat odděleně, a kde lze klasifikaci přesně zpracovat buď pomocí LLM, nebo tradičnějšího klasifikačního modelu/algoritmu.</p>
+
+<p>Příklady, kdy je routování užitečné:</p>
+<ul>
+  <li>Routování různých typů dotazů zákaznického servisu (obecné dotazy, žádosti o vrácení peněz, technická podpora) do různých navazujících procesů, povelů a nástrojů.</li>
+  <li>Routování snadných/běžných dotazů na menší modely, jako je Claude 3.5 Haiku, a obtížných/neobvyklých dotazů na schopnější modely, jako je Claude 3.5 Sonnet, aby se optimalizovaly náklady a rychlost.</li>
+</ul>
+
+<h3 id="workflow-paralelizace">Workflow: Paralelizace</h3>
+
+<p>Modely LLM mohou někdy pracovat na úloze současně a jejich výstupy se programově agregují. toto Workflow, paralelizace, se objevuje ve dvou klíčových variantách:</p>
+
+<ul>
+  <li>Sekcionování: Rozdělení úlohy na nezávislé dílčí úlohy spouštěné paralelně.</li>
+  <li>Hlasování: Spuštění stejné úlohy vícekrát za účelem získání různých výstupů.</li>
+</ul>
+
+<pre><code class="language-mermaid">graph LR
+In[Vstup] --&gt; LLMCall1[LLM Volání 1]
+In --&gt; LLMCall2[LLM Volání 2]
+LLMCall1 -- Výsledky --&gt; Aggregator[Agregovač]
+LLMCall2 -- Výsledky --&gt; Aggregator
+LLMCall1 -- Zpětná vazba --&gt; LLMCall3[LLM Volání 3]
+Aggregator -- Výstup --&gt; Out[Výstup]
+</code></pre>
+
+<p>Kdy toto Workflow použít: Paralelizace je účinná, pokud lze rozdělené dílčí úlohy paralelizovat kvůli rychlosti nebo pokud je třeba více pohledů nebo pokusů pro získání výsledků s vyšší důvěryhodností. U složitých úloh s více hledisky je obecně lepší, když je každé hledisko zpracováno samostatným voláním LLM, což umožňuje soustředit pozornost na každé konkrétní hledisko.</p>
+
+<p>Příklady, kdy je paralelizace užitečná:</p>
+<ul>
+  <li>Sekcionování:
+    <ul>
+      <li>Implementace ochranných zábran, kdy jedna instance modelu zpracovává uživatelské dotazy, zatímco jiná je kontroluje, zda neobsahují nevhodný obsah nebo požadavky. To bývá výkonnější, než kdyby stejné volání LLM zpracovávalo jak guardrails, tak základní odpověď.</li>
+      <li>Automatizace hodnocení pro vyhodnocování výkonu LLM, kdy každé volání LLM vyhodnocuje jiný aspekt výkonu modelu na danou výzvu.</li>
+    </ul>
+  </li>
+  <li>Hlasování:
+    <ul>
+      <li>Přezkoumání části kódu na zranitelnosti, kdy několik různých výzev přezkoumá a označí kód, pokud v něm naleznou problém.</li>
+      <li>Vyhodnocování, zda je daný kus obsahu nevhodný, přičemž několik výzev vyhodnocuje různé aspekty nebo vyžaduje různé prahové hodnoty hlasování, aby se vyvážily falešně pozitivní a negativní výsledky.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="workflow-orchestrator-workery">Workflow: Orchestrator-workery</h3>
+
+<p>Ve workflow orchestrátor-workery centrální LLM dynamicky rozděluje úlohy, deleguje je na pracovní LLM a syntetizuje jejich výsledky.</p>
+
+<pre><code class="language-mermaid">graph LR
+In[Vstup] --&gt; Orchestrator[Orchestrátor]
+Orchestrator --&gt; LLMCall1[LLM Volání 1]
+LLMCall1 -- Výstupy --&gt; LLMCall2[LLM Volání 2]
+LLMCall2 -- Výstupy --&gt; Synthesizer[Syntezátor]
+LLMCall1 -- Zpětná vazba --&gt; LLMCall3[LLM Volání 3]
+Synthesizer -- Výstup --&gt; Out[Výstup]
+</code></pre>
+
+<p>Kdy toto Workflow použít: toto Workflow je vhodný pro složité úlohy, u nichž nelze předvídat potřebné dílčí úlohy (například při kódování, kdy počet souborů, které je třeba změnit, a povaha změny v jednotlivých souborech pravděpodobně závisí na úloze). Zatímco topograficky je podobná, klíčovým rozdílem oproti paralelizaci je její flexibilita - dílčí úlohy nejsou předem definovány, ale určuje je orchestrátor na základě konkrétního vstupu.</p>
+
+<p>Příklad, kde je užitečný orchestrátor-worker</p>
+<ul>
+  <li>Kódování produktů, které pokaždé provádějí složité změny ve více souborech.</li>
+  <li>Úlohy vyhledávání, které zahrnují shromažďování a analýzu informací z více zdrojů pro případné relevantní informace.</li>
+</ul>
+
+<h3 id="workflow-evaluátor-optimalizátor">Workflow Evaluátor-optimalizátor</h3>
+
+<p>V pracovním postupu evaluátor-optimalizátor jedno volání LLM generuje odpověď, zatímco jiné poskytuje vyhodnocení a zpětnou vazbu ve smyčce.</p>
+
+<pre><code class="language-mermaid">graph LR
+In[Vstup] --&gt; LLMCallGenerator[LLM Generátor Volání]
+LLMCallGenerator --&gt; LLMCallEvaluator[LLM Evaluátor Volání]
+LLMCallEvaluator --&gt; Accepted[Přijato]
+LLMCallEvaluator -- Zamítnuto + Zpětná vazba --&gt; LLMCallGenerator
+Accepted -- Řešení --&gt; Out[Výstup]
+</code></pre>
+
+<p>Kdy toto Workflow použít: toto Workflow je obzvláště efektivní, když máme jasná kritéria hodnocení a když iterativní zpřesňování poskytuje měřitelnou hodnotu. Dvěma známkami dobré shody jsou zaprvé to, že odpovědi LLM lze prokazatelně zlepšit, když člověk vyjádří svou zpětnou vazbu, a zadruhé to, že LLM může takovou zpětnou vazbu poskytnout. To je analogické iterativnímu procesu psaní, kterým může projít lidský spisovatel při tvorbě vybroušeného dokumentu.</p>
+
+<p>Příklady, kdy je hodnotitel-optimalizátor užitečný:</p>
+<ul>
+  <li>Literární překlad, kde existují nuance, které překladatel LLM nemusí zpočátku zachytit, ale kde hodnotitel LLM může poskytnout užitečnou kritiku.</li>
+  <li>Složité rešeršní úlohy, které vyžadují více kol vyhledávání a analýzy pro získání komplexních informací, kde hodnotitel rozhoduje, zda je další vyhledávání opodstatněné.</li>
+</ul>
+
+<h3 id="agenti">Agenti</h3>
+
+<p>Agenti se postupně objevují v průmyslovém nasazení, protože LLM jsou již pomalu použitelné v klíčových schopnostech, jako je chápání složitých vstupů, zapojení do uvažování a plánování, spolehlivé používání nástrojů a zotavování se z chyb. Agenti začínají svou práci buď příkazem od lidského uživatele, nebo interaktivní diskusí s ním. Jakmile je úkol jasný, agenti plánují a pracují samostatně, případně se vracejí k člověku pro další informace nebo úsudek. Během vykonávání je pro agenty zásadní, aby v každém kroku získávali „základní pravdu“ z prostředí (např. výsledky volání nástrojů nebo provádění kódu), aby mohli posoudit svůj postup. Agenti se pak mohou v kontrolních bodech nebo při setkání s překážkami pozastavit a získat zpětnou vazbu od člověka. Úloha tak často doběhne v nějakém předpokládaném režimu dokončení, ale je také běžné zahrnout podmínky zastavení (například maximální počet iterací), aby se zachovala kontrola nad systémem.</p>
+
+<p>Agenti mohou zvládnout složité úlohy, ale jejich implementace je často jednoduchá. Obvykle jsou to jen LLM využívající nástroje založené na zpětné vazbě z prostředí ve smyčce. Proto je velmi důležité navrhovat sady nástrojů a jejich dokumentaci jasně a promyšleně.</p>
+
+<pre><code class="language-mermaid">graph LR
+Human &lt;-- Action --&gt; LLMCall
+LLMCall &lt;-- Feedback --&gt; Environment
+LLMCall --&gt; Stop
+</code></pre>
+
+<p>Kdy používat agenty: Agenty lze použít u otevřených problémů, kde je obtížné nebo nemožné předvídat požadovaný počet kroků a kde nelze natvrdo nakódovat pevnou cestu. Agent LLM bude potenciálně pracovat po mnoho kroků a musíte mít určitou míru důvěry v jeho rozhodování. Autonomie agentů je ideální pro škálování úloh v důvěryhodném prostředí.</p>
+
+<p>Autonomní povaha agentů znamená vyšší náklady a možnost vzniku složitých chyb. Doporučujeme rozsáhlé testování v prostředí sandboxu spolu s vhodnými ochrannými prvky.</p>
+
+<h2 id="kombinace-a-přizpůsobení-těchto-vzorů">Kombinace a přizpůsobení těchto vzorů</h2>
+
+<p>Tyto stavební bloky nepředstavují nepřekročitelné limity softwarové architektury. Jsou to obvyklé vzory, které mohou vývojáři přizpůsobovat a kombinovat tak, aby vyhovovaly různým případům použití. Klíčem k úspěchu je, stejně jako u všech funkcí LLM, měření výkonu a iterace implementací. Zopakujme si základní pravidlo: o přidání složitosti byste měli uvažovat pouze tehdy, pokud prokazatelně zlepšuje výsledky.</p>
+
+<h2 id="shrnutí">Shrnutí</h2>
+
+<p>Úspěch v oblasti LLM nespočívá v budování nejsložitějšího systému. Jde o vybudování správného systému pro vaše potřeby. Začněte s jednoduchými výzvami, optimalizujte je pomocí komplexního hodnocení a vícekrokové agentové systémy přidávejte pouze tehdy, když jednodušší řešení selhávají.</p>
+
+<p>Při implementaci agentů se snažíme dodržovat tři základní zásady:</p>
+
+<ol>
+  <li>Zachovejte jednoduchost návrhu agenta.</li>
+  <li>Upřednostněte transparentnost explicitním zobrazením kroků plánování agenta.</li>
+  <li>Pečlivě vytvářejte rozhraní agent-počítač (ACI) prostřednictvím důkladné dokumentace nástroje a testování.</li>
+</ol>
+
+<p>Rámce vám mohou pomoci rychle začít, ale neváhejte redukovat vrstvy abstrakce a stavět se základními komponentami, jakmile přejdete do produkce. Dodržováním těchto zásad můžete vytvořit agenty, kteří jsou nejen výkonní, ale také spolehliví, udržovatelní a důvěryhodní pro své uživatele.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v&nbsp;době digitální etnicity</a>
+                <p class="excerpt">
+                  
+                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
+
+Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
+                <p class="excerpt">
+                  
+                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Stavební bloky, workflow a agenti&url=https://www.marigold.cz/ai/architektura-agentu/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/architektura-agentu/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2024-12-28-architektura-agentu.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/agenti/">&laquo; Autonomní Agenti v AI</a> |
+      
+      
+      
+        <a class="next" href="/ai/ai-sluzby-2025/">Přehled užitečných AI služeb pro rok 2025 &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

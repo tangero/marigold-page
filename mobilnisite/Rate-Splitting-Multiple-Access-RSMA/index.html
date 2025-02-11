@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Rate-Splitting Multiple Access (RSMA) | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Rate-Splitting Multiple Access (RSMA)" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Princip fungování RSMA" />
+<meta property="og:description" content="Princip fungování RSMA" />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-11-25T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Rate-Splitting Multiple Access (RSMA)" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-11-25T00:00:00+00:00","datePublished":"2024-11-25T00:00:00+00:00","description":"Princip fungování RSMA","headline":"Rate-Splitting Multiple Access (RSMA)","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/"},"url":"https://www.marigold.cz/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Princip fungování RSMA
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Rate-Splitting Multiple Access (RSMA)" />
+    <meta property="twitter:title" content="Rate-Splitting Multiple Access (RSMA)" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Rate-Splitting Multiple Access (RSMA)</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+25.
+listopad
+  
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#LTE">LTE</a>
+        &nbsp;
+      
+        <a href="//rubrika/#4G">4G</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <h3 id="princip-fungování-rsma">Princip fungování RSMA</h3>
+
+<p>Rate-Splitting Multiple Access (RSMA) představuje inovativní přístupovou techniku pro bezdrátové komunikační systémy, která kombinuje výhody tradičních ortogonálních přístupových metod a non-ortogonálních přístupů jako je NOMA. Základním principem RSMA je rozdělení uživatelských dat na společnou část a soukromou část, což přináší větší flexibilitu při správě interference mezi uživateli.</p>
+
+<p>V RSMA vysílač rozdělí zprávu každého uživatele na dvě části - společnou a soukromou. Společné části zpráv od všech uživatelů jsou sloučeny do jednoho datového proudu, který je zakódován způsobem umožňujícím jeho dekódování všemi příjemci. Soukromé části zpráv jsou zpracovány samostatně a jsou určeny pouze pro konkrétní uživatele. Vysílač poté použije předkódování (precoding) k vytvoření vysílacího signálu, který obsahuje jak společnou, tak soukromé části.</p>
+
+<p>Na přijímací straně uživatelé nejprve dekódují společnou část zprávy pomocí techniky postupného rušení interference (SIC). Po úspěšném dekódování a odstranění společné části ze přijatého signálu může každý uživatel dekódovat svou soukromou část zprávy. Tento hierarchický přístup k dekódování umožňuje efektivnější správu interference mezi uživateli a poskytuje robustnější výkon v podmínkách s nepřesnou znalostí stavu kanálu.</p>
+
+<p><img src="/assets/RSMA.jpg" alt="Rate-Splitting Multiple Access (RSMA)" /></p>
+
+<p><strong>Výběr soukromé a společné části zprávy v RSMA</strong> je komplexní optimalizační problém, který závisí na několika klíčových faktorech. Vysílač musí zvolit optimální rozdělení na základě aktuálních podmínek kanálu, požadavků na kvalitu služby a interference mezi uživateli.</p>
+
+<p>Proces rozdělení zprávy začíná analýzou kanálových podmínek mezi vysílačem a všemi přijímači. Vysílač bere v úvahu kvalitu kanálu každého uživatele (SNR - Signal-to-Noise Ratio), vzájemnou interferenci mezi uživateli a také míru neurčitosti v odhadu kanálu (Channel State Information - CSI). Čím větší je nejistota v CSI, tím větší část dat je typicky přidělena do společné části, protože ta je robustnější vůči chybám v odhadu kanálu.</p>
+
+<p>Pro matematickou optimalizaci rozdělení se používá maximalizace vážené sumy dosažitelných přenosových rychlostí (weighted sum-rate) s ohledem na omezení celkového vysílacího výkonu.</p>
+
+<p>Tato optimalizace zahrnuje několik proměnných:</p>
+<ul>
+  <li>poměr rozdělení dat mezi společnou a soukromou část pro každého uživatele</li>
+  <li>alokace vysílacího výkonu pro společnou a soukromé části</li>
+  <li>návrh předkódovacích vektorů pro obě části</li>
+</ul>
+
+<p>Prakticky se často používají sub-optimální algoritmy, které nabízejí dobrý kompromis mezi výpočetní složitostí a výkonem. Tyto algoritmy mohou být založeny například na gradientních metodách nebo na heuristických přístupech využívajících předchozí zkušenosti s podobnými kanálovými podmínkami.</p>
+
+<p>U uživatelů s podobnými kanálovými podmínkami se větší část jejich dat typicky přiděluje do společné části, zatímco u uživatelů s výrazně odlišnými podmínkami se více dat přenáší v soukromých částech. To umožňuje efektivnější správu interference a lepší využití dostupných rádiových zdrojů.</p>
+
+<p>RSMA nabízí několik významných výhod oproti konvenčním přístupům. Je více odolná vůči nepřesnostem v odhadu kanálu než NOMA a poskytuje lepší spektrální účinnost než ortogonální metody. Díky flexibilnímu rozdělení dat mezi společnou a soukromou část může systém dynamicky přizpůsobovat poměr rozdělení podle aktuálních podmínek kanálu a požadavků na kvalitu služby. Tato adaptabilita činí RSMA vhodnou pro různorodé scénáře nasazení, od masivních MIMO systémů až po multicastové přenosy.</p>
+
+<p>Implementace RSMA však vyžaduje sofistikovanější zpracování signálu na vysílací i přijímací straně ve srovnání s tradičními přístupovými metodami. Je třeba řešit optimální rozdělení dat mezi společnou a soukromou část, návrh předkódovacích matic a efektivní alokaci výkonu. Přesto se RSMA jeví jako slibná technologie pro budoucí bezdrátové systémy, zejména v kontextu heterogenních sítí a scénářů s různorodými požadavky na služby.</p>
+
+<h3 id="výhody-rsma-proti-ofdma">Výhody RSMA proti OFDMA</h3>
+
+<ol>
+  <li>Robustnost vůči interferenci: RSMA využívá precizní řízení rozkladu toku a koordinaci mezi uživateli, čímž minimalizuje interferenci.</li>
+  <li>Univerzálnost: Lze ji aplikovat na různá spektra a scénáře – od nízké hustoty uživatelů po masivní připojení.</li>
+  <li>Optimalizace výkonu: Zlepšuje efektivitu při přenosu dat mezi uživateli s velmi odlišnými podmínkami kanálu.</li>
+</ol>
+
+<h3 id="uplatnění-a-vývoj-rsma">Uplatnění a vývoj RSMA</h3>
+
+<p>RSMA je propagována jako technologie, která by mohla překlenout nedostatky NOMA v případech, kdy je potřeba větší řízení přenosu. Ericsson a Qualcomm jsou mezi společnostmi, které se podílejí na výzkumu a standardizaci RSMA v rámci 3GPP. Technologie již byla otestována v akademických i průmyslových scénářích a ukazuje slibné výsledky v oblastech, jako je sdílení spektra mezi mobilními a satelitními sítěmi.</p>
+
+<p><strong>👉 Přehled nových přístupů k multiplexování:</strong> \</p>
+<ul>
+  <li><a href="/mobilnisite/Non-Orthogonal-Multiple-Access-NOMA/">Non-Orthogonal Multiple Access (NOMA)</a></li>
+  <li><a href="/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/">Rate-Splitting Multiple Access (RSMA)</a></li>
+  <li><a href="/mobilnisite/Sparse-Code-Multiple-Access-SCMA/">Sparse Code Multiple Access (SCMA)</a></li>
+  <li>další <a href="/mobilnisite/pokrocile-multiplexovani/">experimentální přístupy k multiplexování</a></li>
+  <li>a pro pořádek povídání o tom, <a href="/mobilnisite/ofdma">jak funguje OFDMA</a></li>
+</ul>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
+                <p class="excerpt">
+                  
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/pribeh_olova_v_benzinu/">👉Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci</a>
+                <p class="excerpt">
+                  
+                    Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Rate-Splitting Multiple Access (RSMA)&url=https://www.marigold.cz/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/Rate-Splitting-Multiple-Access-RSMA/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2024-11-25-Rate-Splitting-Multiple-Access-RSMA.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/pokrocile-multiplexovani/">&laquo; Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G</a> |
+      
+      
+      
+        <a class="next" href="/mobilnisite/Sparse-Code-Multiple-Access-SCMA/">Sparse Code Multiple Access (SCMA) &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>

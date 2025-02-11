@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Network Slicing v 5G sítích | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Network Slicing v 5G sítích" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Co konkrétně se v tomto článku dozvíte?" />
+<meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?" />
+<link rel="canonical" href="https://www.marigold.cz/mobilnisite/network-slicing-5g/" />
+<meta property="og:url" content="https://www.marigold.cz/mobilnisite/network-slicing-5g/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-12-03T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Network Slicing v 5G sítích" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2024-12-03T00:00:00+00:00","datePublished":"2024-12-03T00:00:00+00:00","description":"Co konkrétně se v tomto článku dozvíte?","headline":"Network Slicing v 5G sítích","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/mobilnisite/network-slicing-5g/"},"url":"https://www.marigold.cz/mobilnisite/network-slicing-5g/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Co konkrétně se v tomto článku dozvíte?
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Network Slicing v 5G sítích" />
+    <meta property="twitter:title" content="Network Slicing v 5G sítích" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/mobilnisite/network-slicing-5g/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Network Slicing v 5G sítích</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+3.
+prosinec
+
+2024 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#5G">5G</a>
+        &nbsp;
+      
+        <a href="//rubrika/#5G-Advanced">5G-Advanced</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Mobilní sítě">Mobilní sítě</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#počátky-network-slicingu-decor-a-edecor" id="markdown-toc-počátky-network-slicingu-decor-a-edecor">Počátky Network Slicingu: DECOR a eDECOR</a></li>
+  <li><a href="#vývoj-network-slicingu-v-rámci-3gpp-release" id="markdown-toc-vývoj-network-slicingu-v-rámci-3gpp-release">Vývoj Network Slicingu v rámci 3GPP Release</a>    <ul>
+      <li><a href="#release-15-počáteční-5g-architektura" id="markdown-toc-release-15-počáteční-5g-architektura">Release 15 (Počáteční 5G architektura)</a></li>
+      <li><a href="#release-16-vylepšený-slicing" id="markdown-toc-release-16-vylepšený-slicing">Release 16 (Vylepšený Slicing)</a></li>
+      <li><a href="#release-17-pokročilé-funkce" id="markdown-toc-release-17-pokročilé-funkce">Release 17 (Pokročilé funkce)</a>        <ul>
+          <li><a href="#monitoring-výkonu-síťových-slice" id="markdown-toc-monitoring-výkonu-síťových-slice">Monitoring výkonu síťových Slice</a></li>
+          <li><a href="#další-vylepšení-v-release-17" id="markdown-toc-další-vylepšení-v-release-17">Další vylepšení v Release 17</a></li>
+        </ul>
+      </li>
+      <li><a href="#release-18-další-vylepšení" id="markdown-toc-release-18-další-vylepšení">Release 18 (Další vylepšení)</a></li>
+    </ul>
+  </li>
+  <li><a href="#technologické-komponenty" id="markdown-toc-technologické-komponenty">Technologické komponenty</a></li>
+  <li><a href="#architektonické-komponenty" id="markdown-toc-architektonické-komponenty">Architektonické komponenty:</a></li>
+  <li><a href="#dopad-na-architekturu" id="markdown-toc-dopad-na-architekturu">Dopad na architekturu:</a></li>
+  <li><a href="#procedura-připojení-zařízení-do-sítě-5g-s-podporou-network-slicingu" id="markdown-toc-procedura-připojení-zařízení-do-sítě-5g-s-podporou-network-slicingu">Procedura připojení zařízení do sítě 5G s podporou Network Slicingu</a></li>
+  <li><a href="#historie-vývoje-network-slicingu" id="markdown-toc-historie-vývoje-network-slicingu">Historie vývoje Network Slicingu</a></li>
+  <li><a href="#závěr" id="markdown-toc-závěr">Závěr</a></li>
+</ul>
+
+<p>Network slicing představuje jednu z nejvýznamnějších technologií zavedených v 5G sítích, která umožňuje operátorům vytvářet více virtuálních sítí (tzv. slices) na sdílené fyzické infrastruktuře. Proč? Inu proto, že tento přístup umožňuje za prvé kvalitnější a rychlejší obsluhu uživatele v síti a pak šetřit zdroje sítě.</p>
+
+<p>Zjednodušeně řečeno si operátor sítě zjistí, jakou úroveň služeb které uživatelské zařízení v síti vyžaduje, například podle tarifu či podle profilu zařízení. A pak provoz tohoto zařízení posílá pouze přes ty prvky sítě, které jsou pro takový provoz vhodné či nutné. Tak je možné používat jiné procedury a jiné prvky sítě pro low-power zařízení v síti a jiné pro multimediální terminály. A protože se tento přístup dá připodobnit k používání “plátků” sítě, kdy každý plátek je určený pro jiný typ mobilních terminálů, vžil se marketingově přiléhavý pojem “network slicing”.</p>
+
+<p>Koncept je ostatně zřejmý z následujícího obrázku.</p>
+
+<p><img src="/assets/network-slicing-tech.jpg" alt="Network slicing architectura" /></p>
+
+<p>Pojďme si podrobněji posat, co se na obrázku děje.</p>
+
+<p>Tento diagram ilustruje implementaci Network Slicing architektury podle 3GPP Release 16 v 5G síti, demonstrující tři oddělené síťové slice optimalizované pro specifické uživatelské scénáře:</p>
+
+<ol>
+  <li>UHD Video Slice pro přenos vysokorychlostního videa
+    <ul>
+      <li>Implementuje specializovanou konfiguraci pro vysokorychlostní přenos Ultra HD video obsahu</li>
+      <li>Využívá MEC (Multi-access Edge Computing) cache pro optimalizaci latence a redukci zatížení core sítě</li>
+      <li>CU/DU (Centralized Unit/Distributed Unit) disagregovaná architektura v RAN segmentu</li>
+      <li>vCore (virtualized Core) implementace v core cloud infrastruktuře</li>
+    </ul>
+  </li>
+  <li>Telefonní Slice
+    <ul>
+      <li>Dedikovaná instance pro hlasové služby</li>
+      <li>End-to-end konfigurace zahrnující:
+        <ul>
+          <li>CU/DU v RAN doméně</li>
+          <li>vCore implementaci v core cloudu</li>
+          <li>vIMS (virtualized IP Multimedia Subsystem) pro řízení hlasových služeb</li>
+        </ul>
+      </li>
+      <li>Optimalizace pro nízkou latenci a vysokou spolehlivost</li>
+    </ul>
+  </li>
+  <li>Critical IoT Slice
+    <ul>
+      <li>Specializovaná konfigurace pro mission-critical IoT aplikace</li>
+      <li>Integrace V2X (Vehicle-to-Everything) serveru v edge cloud infrastruktuře</li>
+      <li>Lokalizovaný vCore pro minimalizaci latence</li>
+      <li>Optimalizace pro ultra-reliable low-latency communication (URLLC)</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Architektura implementuje hierarchickou strukturu cloud infrastruktury:</p>
+<ul>
+  <li>Edge cloud pro lokalizované služby vyžadující nízkou latenci</li>
+  <li>Core cloud pro centralizované síťové funkce</li>
+  <li>Transport network zajišťující propojení jednotlivých domén</li>
+</ul>
+
+<p>Každá slice instance je end-to-end izolována a optimalizována pro specifické QoS požadavky příslušného use-case, demonstrující pokročilou implementaci network slicing technologie v 5G síťové architektuře.</p>
+
+<h2 id="počátky-network-slicingu-decor-a-edecor">Počátky Network Slicingu: DECOR a eDECOR</h2>
+
+<p>První úvahy o možnosti oddělení provozu uživatelských zařízení k příslušným zdrojům se promítly již do Release 13, n ajehož přípravě se začalo pracovat před deseti lety a byl schválen v roce 2016.  V Release 13 a 14 byly položeny první základy pomocí konceptů DECOR (Dedicated Core Network) a eDECOR (enhanced Dedicated Core Network), na faktické užití ale čekaly až s Release 16. Nicméně pro úplnost se podívejme i na tyto první přístupy, ze kterých později koncept Network Slicingu vzešel. Připomeňme, že dnes (listopad 2024) je Network Slicing v mobilních sítích spíše ve fázi pilotních pokusů.</p>
+
+<p><strong>DECOR (Release 13):</strong></p>
+<ul>
+  <li>Představoval první pokus o vytvoření dedikovaných core sítí</li>
+  <li>Umožňoval směrovat různé typy zařízení do různých instancí core sítě</li>
+  <li>Využíval mechanismus, kdy MME (Mobility Management Entity) na základě informací od UE rozhodovala o směrování do příslušné core sítě</li>
+  <li>Měl však omezené možnosti a vyžadoval manuální konfiguraci</li>
+</ul>
+
+<p><strong>eDECOR (Release 14):</strong></p>
+<ul>
+  <li>Rozšířil koncept DECOR o pokročilejší funkce</li>
+  <li>Zavedl DCN-ID (Dedicated Core Network ID) pro identifikaci dedikované core sítě</li>
+  <li>Umožnil UE získat informace o dostupných DCN přímo od sítě</li>
+  <li>Přinesl vylepšené mechanismy pro výběr MME</li>
+  <li>Představil podporu pro více DCN pro jedno UE</li>
+  <li>Zlepšil možnosti správy mobility mezi různými DCN</li>
+</ul>
+
+<p>Tyto koncepty položily základní principy pro pozdější plnohodnotný Network Slicing v 5G, zejména v oblastech:</p>
+<ul>
+  <li>Identifikace a výběru dedikovaných síťových zdrojů</li>
+  <li>Směrování provozu do příslušných síťových instancí</li>
+  <li>Základní izolace síťových funkcí</li>
+  <li>Správy mobility mezi různými instancemi sítě</li>
+</ul>
+
+<p>DECOR a eDECOR lze tak považovat za přímé předchůdce Network Slicingu, kteří ověřili základní koncepty a připravili půdu pro komplexnější řešení v 5G.</p>
+
+<h2 id="vývoj-network-slicingu-v-rámci-3gpp-release">Vývoj Network Slicingu v rámci 3GPP Release</h2>
+
+<p><img src="/assets/3gpp-network-slicing.png" alt="Jak se vyvíjí koncept Network Slicing v rámci 3GPP Release" /></p>
+
+<h3 id="release-15-počáteční-5g-architektura">Release 15 (Počáteční 5G architektura)</h3>
+<ul>
+  <li>Zavedení základních konceptů network slicingu</li>
+  <li>Definice Single Network Slice Selection Assistance Information (S-NSSAI)</li>
+  <li>Podpora až 8 současných síťových slices pro jedno UE</li>
+  <li>Zavedení Network Slice Selection Function (NSSF)</li>
+  <li>Základní výběr AMF na základě požadavků slice</li>
+</ul>
+
+<p>Nejprve proběhne identifikace a výběr jednotlivých slice pomocí S-NSSAI (Single Network Slice Selection Assistance Information), který se skládá ze dvou hlavních částí - SST (Slice/Service Type) definující typ služby a volitelného SD (Slice Differentiator) pro další rozlišení slice.</p>
+
+<p>V této první implementaci bylo stanoveno důležité omezení, kdy každé koncové zařízení (UE) může být současně připojeno maximálně k 8 různým network slice, přičemž každý slice je asociován s konkrétní PDU session. Z hlediska síťových funkcí bylo definováno, že AMF (Access and Mobility Management Function) musí být společná pro všechny slice obsluhující dané UE, zatímco SMF a UPF mohou být dedikovány pro konkrétní slice. Důležitým prvkem bylo také zavedení NSSF (Network Slice Selection Function) pro výběr vhodného slice.</p>
+
+<p>Architektura v Release 15 se opírá o RAN komponenty, které podporují základní směrování provozu na základě slice identifikátorů a umožňují konfiguraci přidělování rádiových zdrojů pro různé slice. V jádru sítě byla implementována podpora Service-Based Architecture (SBA), která umožňuje sdílení nebo dedikaci síťových funkcí pro různé slice a poskytuje základní mechanismy pro izolaci provozu mezi slice.</p>
+
+<p>Proces výběru slice začíná při registraci UE, kdy zařízení poskytuje seznam požadovaných S-NSSAI. NSSF následně rozhoduje o přípustných slice pro UE a AMF je vybrán na základě podporovaných slice. Při vytváření PDU session je pro každou session vybrán jeden slice a příslušné SMF a UPF jsou vybírány podle požadavků daného slice.
+Release 15 měl však určitá omezení. Nabízel pouze základní možnosti izolace mezi slice a chyběly pokročilé mechanismy pro QoS mezi slice. Správa zdrojů byla omezená na základní funkce s omezenými možnostmi pro dynamickou alokaci zdrojů a základní podporou pro sdílení síťových funkcí. Management slice poskytoval pouze základní podporu pro životní cyklus slice a omezené možnosti pro automatizaci správy.</p>
+
+<h3 id="release-16-vylepšený-slicing">Release 16 (Vylepšený Slicing)</h3>
+<ul>
+  <li>Zavedení pokročilé slice-aware funkcionality v RAN</li>
+  <li>Vylepšená izolace mezi síťovými slice</li>
+  <li>Podpora autentizace specifické pro slice</li>
+  <li>Zavedení QoS frameworku zohledňujícího slice</li>
+  <li>Vylepšená podpora pro správu a orchestraci slice</li>
+</ul>
+
+<p>Klíčovou změnou v Release 16 je zavedení pokročilé slice-aware funkcionality v RAN, která umožňuje efektivnější správu rádiových zdrojů s ohledem na požadavky jednotlivých slice. RAN nyní dokáže lépe rozlišovat mezi různými typy provozu a přidělovat zdroje na základě specifických požadavků každého slice. To vede k lepší předvídatelnosti výkonu a efektivnějšímu využití dostupné kapacity sítě.</p>
+
+<p>Release 16 přináší také významné vylepšení v oblasti autentizace specifické pro jednotlivé slice. Tato funkcionalita umožňuje implementovat různé úrovně zabezpečení pro různé slice, což je klíčové zejména pro podnikové a kritické aplikace. Každý slice může nyní využívat vlastní autentizační mechanismy odpovídající jeho bezpečnostním požadavkům.
+V oblasti QoS dochází k zavedení komplexního framework pro řízení kvality služeb, který zohledňuje specifické požadavky jednotlivých slice. Tento framework umožňuje jemnější granularitu při definování a vynucování QoS parametrů, což vede k lepšímu naplnění SLA požadavků různých typů služeb.</p>
+
+<p>Významného vylepšení se dočkala také oblast správy a orchestrace slice. Release 16 zavádí pokročilejší mechanismy pro životní cyklus slice, včetně lepší podpory pro dynamickou rekonfiguraci a optimalizaci využití zdrojů. To operátorům umožňuje pružněji reagovat na měnící se požadavky sítě a efektivněji spravovat dostupné síťové zdroje.
+V jádru sítě došlo k vylepšení mechanismů pro sdílení síťových funkcí mezi slice při současném zachování potřebné úrovně izolace. Byla také posílena schopnost sítě dynamicky přizpůsobovat alokaci zdrojů na základě aktuálního zatížení a požadavků jednotlivých slice.</p>
+
+<p>Release 16 také přináší vylepšení v oblasti monitorování a analýzy výkonu slice. Byly zavedeny nové metriky a mechanismy pro sběr dat, které umožňují lepší sledování výkonu a včasnou identifikaci potenciálních problémů. Tyto informace jsou klíčové pro optimalizaci výkonu a zajištění kvality služeb.</p>
+
+<p>Z pohledu end-to-end služeb Release 16 poskytuje lepší podporu pro různé případy použití, zejména v oblasti průmyslového IoT a kritických komunikací. Vylepšená flexibilita a řízení QoS umožňují lépe přizpůsobit charakteristiky slice specifickým požadavkům různých vertikálních segmentů.</p>
+
+<p>Všechna tato vylepšení v Release 16 významně rozšiřují možnosti Network Slicingu a přibližují tuto technologii reálnému komerčnímu nasazení. Pokud se někde Network Slicing nasazuje v pilotních testech, tak se vychází z Release 16.</p>
+
+<h3 id="release-17-pokročilé-funkce">Release 17 (Pokročilé funkce)</h3>
+
+<ul>
+  <li>Vylepšená alokace zdrojů založená na slice</li>
+  <li>Vylepšené monitorování výkonu slice</li>
+  <li>Zavedení síťových funkcí specifických pro slice</li>
+  <li>Vylepšená podpora edge computingu v síťových slice</li>
+  <li>Pokročilá správa životního cyklu slice</li>
+</ul>
+
+<p>Release 17 přináší v oblasti Network Slicingu další významná vylepšení. Klíčovou inovací je vylepšená alokace zdrojů založená na <em>slice</em>, která umožňuje ještě přesnější a efektivnější rozdělování síťových prostředků mezi jednotlivé slice. Systém nyní dokáže dynamičtěji reagovat na měnící se požadavky a lépe optimalizovat využití dostupné kapacity sítě.</p>
+
+<p>Významným pokrokem je zlepšené <em>monitorování výkonu slice</em>, které přináší detailnější vhled do fungování jednotlivých virtuálních sítí. Toto vylepšení umožňuje operátorům lépe sledovat dodržování SLA parametrů a rychleji identifikovat případné problémy. Systém také poskytuje pokročilejší analytické nástroje pro vyhodnocování výkonnosti slice.</p>
+
+<h4 id="monitoring-výkonu-síťových-slice">Monitoring výkonu síťových Slice</h4>
+
+<p>Release 17 přináší sofistikovaný systém monitorování výkonu Network Slice, který představuje významný pokrok v oblasti řízení a optimalizace virtualizovaných síťových instancí. Tento monitorovací framework implementuje vícevrstvou architekturu sběru a analýzy dat, která umožňuje precizní sledování výkonnostních parametrů napříč celou síťovou infrastrukturou.</p>
+
+<p>Jádrem systému monitorování výkonu slice je <strong>Performance Measurement Framework (PMF)</strong>, který operuje na dvou klíčových úrovních. Collection Layer zajišťuje kontinuální sběr telemetrických dat z jednotlivých Network Function instancí prostřednictvím standardizovaných Performance Measurement Jobs. Tato vrstva implementuje jak counter-based, tak gauge-based metriky s vysokou granularitou měření na úrovni jednotlivých instancí síťových slice. Counter-based metriky slouží primárně pro dlouhodobou analýzu trendů, zatímco gauge-based metriky umožňují real-time optimalizaci alokace zdrojů. Processing Layer následně provádí real-time agregaci získaných dat a kalkulaci Key Quality Indicators, přičemž zohledňuje vzájemné korelace mezi různými instancemi síťových Slice subnetů.</p>
+
+<p>Counter-based a gauge-based metriky představují dva fundamentálně odlišné přístupy k měření výkonnostních parametrů v telekomunikačních systémech:
+<strong>Counter-based metriky</strong>: Reprezentují kumulativní hodnoty, které se monotónně zvyšují v čase. Tyto metriky jsou implementovány jako čítače, které se nikdy nesnižují, pouze se resetují při dosažení maximální hodnoty nebo při restartu měřícího systému. Typickými příklady jsou:</p>
+<ul>
+  <li>Celkový počet přenesených paketů</li>
+  <li>Kumulativní počet chybových stavů</li>
+  <li>Agregovaný objem přenesených dat</li>
+</ul>
+
+<p>Matematicky lze vyjádřit jako: M(t) = ∑(t0→t) E(t), kde E(t) reprezentuje výskyt měřené události.</p>
+
+<p><strong>Gauge-based metriky</strong>: Reprezentují okamžité hodnoty měřených parametrů v daném časovém bodě. Tyto metriky mohou fluktuovat oběma směry a poskytují snapshot aktuálního stavu systému. Charakteristické příklady zahrnují:</p>
+<ul>
+  <li>Aktuální využití CPU</li>
+  <li>Momentální zatížení síťového rozhraní</li>
+  <li>Okamžitá velikost front</li>
+</ul>
+
+<p>Matematicky lze vyjádřit jako: G(t) = V(t), kde V(t) je aktuální hodnota měřeného parametru v čase t.</p>
+
+<p>Systém monitoruje tři základní kategorie výkonnostních parametrů. <strong>Resource Utilization Metrics</strong> sledují využití systémových zdrojů včetně CPU, paměti a síťových rozhraní. Service Quality Metrics se zaměřují na kvalitativní parametry služeb, jako je end-to-end latence, packet loss ratio a throughput. Slice-Specific KPIs pak poskytují specializované metriky pro hodnocení efektivity izolace zdrojů, inter-slice interference a plnění QoS požadavků.</p>
+
+<p>Architektura monitorovacího systému využívá distribuované <strong>Data Collection Points</strong> implementované v klíčových síťových uzlech. Tyto body poskytují standardizované rozhraní pro export metrik a podporují vysokofrekvenční vzorkování s integrovaným buffer managementem. Performance Data Analytics Function zajišťuje real-time analýzu výkonnostních trendů, včetně prediktivního modelování zatížení a detekce anomálií. Management Data Analytics Function se pak zaměřuje na dlouhodobou analýzu trendů a podporu capacity planningu.</p>
+
+<p>Významnou inovací je implementace víceúrovňové granularity měření, která umožňuje sledování výkonu na úrovni jednotlivých slice, service flow, koncových zařízení a síťových funkcí. Data processing pipeline zahrnuje real-time stream processing, historické warehousing dat a pokročilé analytické nástroje využívající strojové učení pro prediktivní analýzu.</p>
+
+<p>Tento komplexní monitorovací systém poskytuje operátorům bezprecedentní úroveň visibility do fungování jejich virtualizovaných síťových instancí, což umožňuje efektivní optimalizaci výkonu a proaktivní řešení potenciálních problémů. Release 17 tak představuje významný milník v evoluci Network Slicingu, který posouvá možnosti monitorování a řízení výkonu na kvalitativně vyšší úroveň.</p>
+
+<h4 id="další-vylepšení-v-release-17">Další vylepšení v Release 17</h4>
+
+<p>Release 17 zavádí koncept Slice-Specific Network Functions, což jsou síťové funkce specificky navržené a optimalizované pro konkrétní typy slice. Tento přístup umožňuje lepší přizpůsobení síťových funkcí specifickým požadavkům různých use-cases a vede k efektivnějšímu využití síťových zdrojů.</p>
+
+<p>Významného vylepšení se dočkala podpora edge computingu v kontextu network slicingu. Release 17 přináší lepší integraci edge computing zdrojů do slice architektury a umožňuje efektivnější využití distribuovaných výpočetních kapacit. To je klíčové zejména pro use-cases vyžadující nízkou latenci a zpracování dat blízko koncovému uživateli.</p>
+
+<p>V oblasti správy životního cyklu slice došlo k zavedení pokročilejších mechanismů, které umožňují flexibilnější správu a dynamičtější přizpůsobení slice měnícím se požadavkům. Systém nyní poskytuje lepší podporu pro automatizované přizpůsobování konfigurace slice a optimalizaci využití zdrojů v reálném čase.</p>
+
+<p>Release 17 také přináší vylepšení v oblasti koordinace mezi různými slice, což umožňuje efektivnější sdílení zdrojů a lepší správu v případech, kdy různé slice sdílejí společnou infrastrukturu. Byly zavedeny nové mechanismy pro řešení konfliktů a optimalizaci výkonu v případě současného provozu více slice.</p>
+
+<p>Z pohledu bezpečnosti byly implementovány dodatečné mechanismy pro zajištění izolace mezi slice a lepší ochranu proti potenciálním bezpečnostním hrozbám. Release 17 také zavádí vylepšené možnosti pro audit a monitoring bezpečnostních aspektů jednotlivých slice.</p>
+
+<p>Významnou novinkou je také lepší podpora pro integraci s externími systémy a aplikacemi třetích stran, což otevírá nové možnosti pro vytváření inovativních služeb a uživatelských scénářů. Toto vylepšení je zvláště důležité pro podporu různých vertikálních řešení a firemní aplikací.</p>
+
+<p>V oblasti QoS došlo k dalšímu vylepšení mechanismů pro zajištění kvality služeb, včetně podpory pro sofistikovanější QoS modely a lepší granularity při definování QoS parametrů. To umožňuje přesnější nastavení a garantování požadované úrovně služeb pro různé typy aplikací.</p>
+
+<p>Release 17 tak představuje významný krok vpřed v evoluci Network Slicingu, přičemž přináší řadu vylepšení, která činí tuto technologii praktičtější a použitelnější pro reálné nasazení. Zároveň vytváří solidní základ pro další vývoj v následujících vydáních 3GPP specifikací.</p>
+
+<h3 id="release-18-další-vylepšení">Release 18 (Další vylepšení)</h3>
+<ul>
+  <li>AI/ML optimalizace slice</li>
+  <li>Vylepšená správa mobility slice</li>
+  <li>Pokročilé vyvažování zátěže zohledňující slice</li>
+  <li>Vylepšené mechanismy izolace slice</li>
+  <li>Vylepšené analytické schopnosti slice</li>
+</ul>
+
+<p>Primární technologickou inovací je integrace AI/ML algoritmů do procesu optimalizace slice, což umožňuje prediktivní alokaci síťových zdrojů na základě komplexní analýzy historických dat a predikce budoucích požadavků.</p>
+
+<p>V oblasti mobility managementu Release 18 zavádí sofistikovaný systém řízení handoverů mezi různými slice instancemi, který využívá pokročilé prediktivní modely pro optimalizaci procesu přepínání mezi slice. Tento mechanismus významně redukuje latenci při handoverech a minimalizuje potenciální degradaci služeb během procesu mobility.</p>
+
+<p>Významnou architektonickou inovací je implementace pokročilých load balancing mechanismů, které využívají real-time analýzu zatížení jednotlivých slice instancí pro dynamickou redistribuci síťových zdrojů. Systém implementuje adaptivní algoritmy pro optimalizaci využití síťové infrastruktury při současném zachování definovaných SLA parametrů.</p>
+
+<p>Release 18 také významně posiluje mechanismy izolace mezi jednotlivými slice prostřednictvím implementace víceúrovňového systému resource partitioning. Tento systém využívá hierarchickou architekturu pro alokaci a management síťových zdrojů, což zajišťuje striktní dodržování definovaných výkonnostních parametrů pro každou slice instanci.</p>
+
+<p>V oblasti analytických schopností přináší Release 18 integrovaný framework pro pokročilou analýzu výkonnostních metrik, který kombinuje real-time monitoring s prediktivní analytikou. Tento systém umožňuje proaktivní identifikaci potenciálních výkonnostních problémů a automatickou rekonfiguraci síťových parametrů pro jejich prevenci.</p>
+
+<p>Významnou inovací je také implementace edge computing optimalizace v kontextu Network Slicing, která umožňuje efektivnější využití distribuovaných výpočetních zdrojů pro specific use-cases vyžadující minimální latenci. Systém implementuje pokročilé algoritmy pro optimální placement výpočetních zdrojů v síťové infrastruktuře.</p>
+
+<p>Release 18 tak představuje významný kvalitativní posun v evolučním vývoji Network Slicing technologie, především díky integraci pokročilých AI/ML capabilities a implementaci sofistikovaných optimalizačních mechanismů. Tyto inovace poskytují solidní technologický základ pro další rozvoj této klíčové 5G technologie.</p>
+
+<p>Release 19 (Ve vývoji)</p>
+<ul>
+  <li>Očekávaná vylepšení v automatizaci slice</li>
+  <li>Vylepšené mechanismy spolehlivosti slice</li>
+  <li>Pokročilé možnosti přizpůsobení slice</li>
+  <li>Vylepšená koordinace mezi slice</li>
+  <li>Vylepšené bezpečnostní funkce</li>
+</ul>
+
+<p>Release 19 se počátkem roku 2024 dokončovala a na větší zhodnocení posunu ve Slicingu si ještě počkejme.</p>
+
+<h2 id="technologické-komponenty">Technologické komponenty</h2>
+
+<ol>
+  <li>Service-Based Architecture (SBA)
+    <ul>
+      <li>Umožňuje flexibilní nasazení síťových funkcí</li>
+      <li>Podporuje dynamické vytváření slice</li>
+      <li>Usnadňuje sdílení síťových funkcí mezi slice</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Service-Based Architecture (SBA) představuje fundamentální architektonický koncept implementovaný v kontextu 5G core infrastruktury Jádra sítě, který vyjednává postupné rozložení síťových funkcí do samostatně škálovatelných a spravovatelných microservice komponent. Tato architektura umožňuje vysokou flexibilitu při instantizaci síťových funkcí prostřednictvím standardizovaných REST-based API rozhraní, přičemž implementuje robustní mechanismy pro service discovery a inter-service komunikaci. SBA framework poskytuje esenciální infrastrukturní základ pro dynamickou alokaci a redistribuci síťových funkcí mezi jednotlivými network slice instancemi, optimalizovanou dle specifických výkonnostních požadavků.</p>
+
+<ol>
+  <li>Network Function Virtualization (NFV)
+    <ul>
+      <li>Umožňuje sdílení zdrojů mezi slice</li>
+      <li>Podporuje dynamickou alokaci zdrojů</li>
+      <li>Usnadňuje izolaci slice</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Network Function Virtualization (NFV) technologie představuje kritickou součást pro implementaci network slicing konceptu, poskytující abstrakční vrstvu mezi fyzickou síťovou infrastrukturou a virtualizovanými síťovými funkcemi. NFV framework implementuje sofistikované mechanismy pro management virtuálních zdrojů, včetně CPU, paměti a síťové kapacity, umožňující efektivní multiplexing fyzické infrastruktury mezi multiple network slice instance. Integrální součástí NFV architektury jsou pokročilé mechanismy správy zajišťující automatizované řízení virtualizovaných síťových funkcí a garantující striktní izolaci mezi jednotlivými slice instancemi.</p>
+
+<ol>
+  <li>Software-Defined Networking (SDN)
+    <ul>
+      <li>Umožňuje programovatelné řízení sítě</li>
+      <li>Podporuje směrování provozu mezi komponenty slice</li>
+      <li>Usnadňuje směrovací politiky specifické pro slice</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Software-Defined Networking (SDN) technologie implementuje centralizovanou control plane architekturu, která umožňuje programatické řízení síťové infrastruktury prostřednictvím standardizovaných <em>southbound</em> a <em>northbound</em> API rozhraní. SDN controller poskytuje unifikovanou abstrakční vrstvu pro management síťových toků, implementaci QoS politik a optimalizaci směrování provozu mezi komponentami jednotlivých network slice instancí. Tato architektura facilituje implementaci sofistikovaných traffic engineering mechanismů specifických pro jednotlivé use-case scénáře, včetně podpory advanced service chaining a traffic steering funkcionalit.</p>
+
+<p>Southbound API: Realizuje komunikační rozhraní mezi SDN kontrolerem a síťovou infrastrukturou (network forwarding plane) <br />
+Northbound API: Implementuje rozhraní mezi SDN kontrolerem a aplikační vrstvou (network application plane)</p>
+
+<p>Tato trojice technologických frameworků vytváří integrovaný architektonický fundament pro implementaci end-to-end network slicing řešení, poskytující nezbytnou flexibilitu, škálovatelnost a programovatelnost vyžadovanou pro efektivní management virtualizované síťové infrastruktury v kontextu 5G networks.</p>
+
+<h2 id="architektonické-komponenty">Architektonické komponenty:</h2>
+
+<ol>
+  <li>Network Slice Management Function (NSMF)
+    <ul>
+      <li>Spravuje instance síťových slice end-to-end</li>
+      <li>Řídí životní cyklus slice</li>
+      <li>Koordinuje zdroje slice napříč doménami</li>
+    </ul>
+  </li>
+  <li>Network Slice Subnet Management Function (NSSMF)
+    <ul>
+      <li>Spravuje zdroje slice na úrovni podsítí</li>
+      <li>Koordinuje s kontrolery specifickými pro domény</li>
+      <li>Řídí alokaci zdrojů na úrovni podsítí</li>
+    </ul>
+  </li>
+  <li>Communication Service Management Function (CSMF)
+    <ul>
+      <li>Překládá požadavky služeb na požadavky slice</li>
+      <li>Spravuje mapování služeb na slice</li>
+      <li>Řídí monitorování na úrovni služeb</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="dopad-na-architekturu">Dopad na architekturu:</h2>
+
+<ol>
+  <li>RAN architektura
+    <ul>
+      <li>Zavedení funkcí RAN zohledňujících slice</li>
+      <li>Podpora pro rozdělení zdrojů RAN</li>
+      <li>Vylepšené plánovací mechanismy</li>
+    </ul>
+  </li>
+  <li>Architektura jádra sítě
+    <ul>
+      <li>Modulární nasazení síťových funkcí</li>
+      <li>Podpora pro sdílené a dedikované NF</li>
+      <li>Vylepšené směrovací mechanismy</li>
+    </ul>
+  </li>
+  <li>Architektura správy
+    <ul>
+      <li>Zavedení roviny správy slice</li>
+      <li>Vylepšené orchestrační schopnosti</li>
+      <li>Pokročilé monitorování a analytika</li>
+    </ul>
+  </li>
+</ol>
+
+<h2 id="procedura-připojení-zařízení-do-sítě-5g-s-podporou-network-slicingu">Procedura připojení zařízení do sítě 5G s podporou Network Slicingu</h2>
+
+<p>Procedura připojení uživatelského zařízení (User Equipment, UE) do 5G sítě s podporou Network Slicing v Release 16 představuje komplexní sekvenci signalizačních a autentizačních procesů, která zahrnuje následující kroky:</p>
+
+<ol>
+  <li>Initial Registration Process
+    <ul>
+      <li>UE iniciuje registrační proceduru pomocí Požadavku na registraci (Registration Request) obsahující Requested NSSAI (Network Slice Selection Assistance Information)</li>
+      <li>Requested NSSAI obsahuje množinu S-NSSAI (Single-NSSAI) identifikátorů reprezentujících požadované síťové slice</li>
+      <li>Každý S-NSSAI je kompozitní identifikátor obsahující:
+        <ul>
+          <li>SST (Slice/Service Type) - 8-bitový identifikátor typu služby</li>
+          <li>SD (Slice Differentiator) - 24-bitový volitelný differentiátor</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Access Network Selection
+    <ul>
+      <li>RAN (Radio Access Network) přijímá signalizaci a vyhodnocuje Requested NSSAI</li>
+      <li>Na základě slice informací RAN vybírá vhodné AMF (Access and Mobility Management Function)</li>
+      <li>Přenos púvodní zprávy uživatelského zařízení obsahující Rožadavek na registraci k vybranému AMF</li>
+    </ul>
+  </li>
+  <li>Network Slice Selection Process
+    <ul>
+      <li>AMF komunikuje s NSSF (Network Slice Selection Function) pro určení:
+        <ul>
+          <li>Povolená NSSAI - subset požadovaných slice dostupných pro UE</li>
+          <li>Network Slice Instance(s) - konkrétní instance odpovídající Povolené NSSAI</li>
+          <li>Cílové AMF - případný znovuvýběr optimálního AMF pro daný set slice</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Subscription Validation
+    <ul>
+      <li>AMF ověřuje data o uživatelově předplatném prostřednictvím UDM (Unified Data Management)</li>
+      <li>Ověření oprávnění UE pro přístup k požadovaným slice</li>
+      <li>Rozhoduntí o předvybraném slice pro UE v případě absence výslovného požadavku</li>
+    </ul>
+  </li>
+  <li>PDU Session Establishment
+    <ul>
+      <li>Post-registrační etablování PDU (Protocol Data Unit) sessions</li>
+      <li>Každá PDU session je asociována s konkrétním S-NSSAI</li>
+      <li>Výběr odpovídajícího SMF (Session Management Function) a UPF (User Plane Function)</li>
+      <li>Ustanovení end-to-end konektivity v rámci přiděleného slice</li>
+    </ul>
+  </li>
+  <li>Resource Allocation
+    <ul>
+      <li>Dynamická alokace síťových zdrojů pro každý aktivovaný slice</li>
+      <li>Implementace QoS parametrů specifických pro jednotlivé slice</li>
+      <li>Aktivace izolačních mechanismů mezi slice</li>
+    </ul>
+  </li>
+  <li>Session Management
+    <ul>
+      <li>Kontinuální sledování a řízení aktivních PDU sessions</li>
+      <li>Dynamická změna přidělených zdrojů dle aktuálních požadavků</li>
+      <li>Implementace procedur správy mobility specifických pro jednotlivé slice</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Tato sekvence zajišťuje řízení připojení UE do multimodální síťové infrastruktury s podporou Network Slicingu, přičemž zajišťuje adekvátní izolaci a QoS parametry pro různé typy síťových služeb.</p>
+
+<p>Na obrázku je vidět proces podle specifikace 3GPP TS 23.501 v grafu:</p>
+
+<pre><code class="language-mermaid">%%{init: {'theme': 'base', 'themeVariables': { 'background': '#ffffff' }}}%%
+sequenceDiagram
+    participant UE as User Equipment
+    participant RAN
+    participant AMF1 as Initial AMF
+    participant NSSF as Network Slice Selection Function
+    participant NRF as Network Repository Function
+    participant UDM as Unified Data Management
+    participant AMF2 as Target AMF
+    participant SMF as Session Management Function
+    participant UPF as User Plane Function
+
+    Note over UE,UPF: Initial Registration Process
+    UE-&gt;&gt;RAN: Registration Request (Requested NSSAI)
+    RAN-&gt;&gt;AMF1: Initial UE Message (Registration Request)
+    
+    Note over AMF1,NSSF: Network Slice Selection
+    AMF1-&gt;&gt;NSSF: Slice Selection Request
+    NSSF-&gt;&gt;NRF: NF Discovery Request
+    NRF--&gt;&gt;NSSF: NF Discovery Response
+    NSSF--&gt;&gt;AMF1: Slice Selection Response (Allowed NSSAI, Target AMF)
+    
+    Note over AMF1,UDM: Subscription Validation
+    AMF1-&gt;&gt;UDM: Subscription Data Request
+    UDM--&gt;&gt;AMF1: Subscription Data Response
+    
+    alt AMF Reselection Required
+        AMF1-&gt;&gt;AMF2: N14 Registration Redirection
+        AMF2-&gt;&gt;UE: Registration Accept (Allowed NSSAI)
+    else No AMF Reselection
+        AMF1-&gt;&gt;UE: Registration Accept (Allowed NSSAI)
+    end
+    
+    Note over UE,UPF: PDU Session Establishment
+    UE-&gt;&gt;AMF2: PDU Session Establishment Request (S-NSSAI)
+    AMF2-&gt;&gt;SMF: Session Create Request
+    SMF-&gt;&gt;UPF: N4 Session Establishment
+    UPF--&gt;&gt;SMF: N4 Session Establishment Response
+    SMF--&gt;&gt;AMF2: Session Create Response
+    AMF2--&gt;&gt;UE: PDU Session Establishment Accept
+</code></pre>
+
+<h2 id="historie-vývoje-network-slicingu">Historie vývoje Network Slicingu</h2>
+
+<p>Jak vůbec Network Slicing vznikl a které firmy za ním stojí? Jeho vznik a standardizace byla velmi komplexní proces, na kterém se podílelo několik klíčových hráčů z telekomunikačního průmyslu.</p>
+
+<p>Nokia byla jedním z prvních průkopníků konceptu network slicingu, když v roce 2013 představila svoji vizi “Network Slicing for 5G”. Společnost přišla s základními koncepty pro izolaci síťových zdrojů a jejich dedikaci různým typům služeb. Nokia také významně přispěla k definici architektury Service-Based Architecture (SBA), která je fundamentální pro implementaci network slicingu.</p>
+
+<p>Ericsson následně významně rozvinul koncept slicingu představením své architektury “Dynamic Network Slicing” v roce 2015. Společnost přinesla klíčové inovace v oblasti orchestrace a managementu network slice, včetně konceptů pro automatizovanou alokaci zdrojů a lifecycle management. Ericsson také významně přispěl k standardizaci Network Slice Management Function (NSMF).</p>
+
+<p>Huawei přišla s významným příspěvkem v oblasti RAN slicingu, když představila svoji technologii “CloudRAN” a koncepty pro flexibilní rozdělení rádiových zdrojů mezi různé slice. Společnost také významně přispěla k definici mechanismů pro izolaci a sdílení fyzických síťových zdrojů mezi virtuálními network slice.</p>
+
+<p>Samsung se zaměřil především na vývoj end-to-end řešení pro network slicing, včetně integrace s edge computing a podpory pro různé vertikální use-cases. Společnost významně přispěla k definici rozhraní mezi různými doménami network slice a k standardizaci slice-aware funkcí v RAN.</p>
+
+<p>ZTE přinesla významné inovace v oblasti automatizace a orchestrace network slice, včetně využití umělé inteligence pro optimalizaci alokace zdrojů. Společnost také přispěla k definici mechanismů pro dynamickou rekonfiguraci network slice.</p>
+
+<p>Deutsche Telekom jako významný operátor přispěl k definici praktických požadavků na implementaci network slicingu z pohledu poskytovatele služeb. Společnost se významně podílela na definici business requirements a use-cases pro network slicing.</p>
+
+<p>Všechny tyto příspěvky byly postupně integrovány do 3GPP standardů, počínaje Release 15, který představil základní koncepty network slicingu, přes Release 16, který přinesl pokročilé funkce pro management a orchestraci, až po současné Release 17 a 18, které dále rozvíjejí možnosti této technologie.</p>
+
+<p>Významnou roli v procesu standardizace hrála také NGMN (Next Generation Mobile Networks) Alliance, která již v roce 2015 publikovala svůj white paper definující základní požadavky a architekturu pro 5G network slicing. Tento dokument významně ovlivnil následný vývoj standardů v 3GPP.</p>
+
+<p>Nicméně práce na rozvoji Network Slicingu pokračují i v dalších Release standardu, takže se jistě přidá celé množství dalších firem.</p>
+
+<h2 id="závěr">Závěr</h2>
+
+<p>Tento vývoj schopností network slicingu napříč vydáními 3GPP ukazuje rostoucí sofistikovanost a vyspělost technologie. Architektonický dopad se rozšiřuje napříč všemi síťovými doménami a vyžaduje významné změny v návrhu, nasazení a provozu sítě. Od budoucích vydání se očekává další vylepšení těchto schopností, zejména v oblastech automatizace, optimalizace a přizpůsobení služeb.</p>
+
+<p>Network slicing představuje fundamentální změnu v tom, jak jsou mobilní sítě navrhovány a provozovány, což umožňuje bezprecedentní úroveň přizpůsobení sítě a diferenciace služeb. Pokračující vývoj této technologie bude hrát klíčovou roli v podpoře různorodých případů použití 5G a dalších generací.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií: případ Big Data, Baracka Obamy a&nbsp;Obamacare</a>
+                <p class="excerpt">
+                  
+                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
+                <p class="excerpt">
+                  
+                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Network Slicing v 5G sítích&url=https://www.marigold.cz/mobilnisite/network-slicing-5g/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/mobilnisite/network-slicing-5g/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_mobilnisite/2024-12-04-network-slicing-5g.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/mobilnisite/3gpp-release-19/">&laquo; 3GPP Release 19 jako další krok v 5G-Advanced</a> |
+      
+      
+      
+        <a class="next" href="/mobilnisite/epc-evolved-packet-core-lte/">Evolved Packet Core (EPC): Nové jádro sítě v LTE &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>
