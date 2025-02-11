@@ -18,6 +18,8 @@ Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, 
 
 Programování má oproti mnoha jiným tvůrčím postupům zásadní nevýhodu: něco o tom musíte vědět. Pokud si otevřete vývojové prostředí, musíte tušit, jak za sebe skládat příkazy a dokud to neuděláte správně, nic nefunguje. Když budete chtít psát nebo kreslit, tak možná nenapíšete nebo nenakreslíte nic extra hezkého, ale nějak to bude fungovat. U programování ne - buďto víte, jak na to, nebo neuděláte ani prd.
 
+> Článek **o nástrojích pro programování s AI pro neprogramátory** [s detailními informacemi najdete zde](/item/programovani-s-ai/). 
+
 To ale AI mění. Pokud si předplácíte ChatGPT nebo Claude, můžete nechat umělou inteligenci vytvořit za vás i velmi rozsáhlé programy. Začít je samozřejmě lepší drobnějšími scripty a trochu se s celou věcí seznámit.
 
   
@@ -300,3 +302,6 @@ V jednu chvíli se vám také může stát, že přesáhnete kontextové okno a 
 Snadno se vám v Claude také může stát, že narazíte na limit dlouhých zadání a budete si muset odpočinout. Limit je v Claude závislý na zátěži a vašem tarifu, obecně mi třech-čtyřech hodinách aktivního "párového programování" dávám pauzičku 😇
 
 Tímto přístupem můžete vytvořit i poměrně rozsáhlé aplikace, nebojte se to vyzkoušet!
+
+> Článek **o nástrojích pro programování s AI pro neprogramátory** [s detailními informacemi najdete zde](/item/programovani-s-ai/). 
+
