@@ -9,12 +9,12 @@ post_excerpt: Ještě před rokem se o tom mluvilo, před půl rokem tomu progra
   nevěřili a zkoušeli to. A dnes už je to realita. Jak si mohou neprogramátoři vytvořit
   svoji aplikaci?
 summary_points:
-- '- **AI nástroje umožňují programování i neprogramátorům** – generují kód na základě
+- 'AI nástroje umožňují programování i neprogramátorům – generují kód na základě
   popisu, skrývají složitosti.'
-- '- **Podrobné zadání je klíčové** – AI potřebuje přesné instrukce pro kvalitní výsledky.'
-- '- **Nástroje jako Replit, Tempolabs, Cursor AI** – nabízejí různé možnosti od prototypování
+- 'Podrobné zadání je klíčové – AI potřebuje přesné instrukce pro kvalitní výsledky.'
+- 'Nástroje jako Replit, Tempolabs, Cursor AI – nabízejí různé možnosti od prototypování
   po komplexní vývoj.'
-- '- **Ceny jsou založeny na spotřebě tokenů** – rychle rostou s intenzivním používáním.'
+- 'Ceny jsou založeny na spotřebě tokenů – rychle rostou s intenzivním používáním.'
 thumbnail: https://www.marigold.cz/assets/ai-programovani.jpg
 title: 'Programování s AI pro neprogramátory: už je to tady!'
 ---
