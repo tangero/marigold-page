@@ -1,13 +1,23 @@
 ---
-title: "Programování s AI pro neprogramátory: už je to tady!"
+audio_url: null
 author: Patrick Zandl
-post_excerpt: "Ještě před rokem se o tom mluvilo, před půl rokem tomu programátoři nevěřili a zkoušeli to. A dnes už je to realita. Jak si mohou neprogramátoři vytvořit svoji aplikaci?"
+categories:
+- AI
+- programování
 layout: post
-categories: [AI, programování]
+post_excerpt: Ještě před rokem se o tom mluvilo, před půl rokem tomu programátoři
+  nevěřili a zkoušeli to. A dnes už je to realita. Jak si mohou neprogramátoři vytvořit
+  svoji aplikaci?
+summary_points:
+- '- **AI nástroje umožňují programování i neprogramátorům** – generují kód na základě
+  popisu, skrývají složitosti.'
+- '- **Podrobné zadání je klíčové** – AI potřebuje přesné instrukce pro kvalitní výsledky.'
+- '- **Nástroje jako Replit, Tempolabs, Cursor AI** – nabízejí různé možnosti od prototypování
+  po komplexní vývoj.'
+- '- **Ceny jsou založeny na spotřebě tokenů** – rychle rostou s intenzivním používáním.'
 thumbnail: https://www.marigold.cz/assets/ai-programovani.jpg
-audio_url: 
+title: 'Programování s AI pro neprogramátory: už je to tady!'
 ---
-
 
 Programování pro neprogramátory je svatý grál počítačů. A zdá se, že už je opravdu tady. Díky AI vzniklo několik nástrojů, které už se nesoustředí na to, že programátorům našeptávají pokračování příkazu nebo opravují chyby v kódu. Moderní nástroje zdrojový kód vytvářejí celý ze zadání a některé už jej dokonce i před uživatelem skrývají. Programovat může nyní „skoro každý“. Jak na to?
 
@@ -113,5 +123,4 @@ Cenová politika je také komplikovaná: za 20 dolarů měsíčně získáte 500
 
 Pro programování s AI se začíná razit pojem Vibe Coding - to jen tak na okraj. Teď je úžasná chvíle, kdy začít. Zkuste si vyvinout malou aplikaci, tím dostanete do rukou nákladovou stránku věci, protože účtování podle tokenů není zrovna snadno pochopitelné. Obecně vzato se vám totiž účtují slova, která se odešlou do umělé inteligence a zase se z ní přijmou. Jenže to by bylo snadné, vaše zadání má pár slov, i ten zdrojový kód není moc dlouhá. Ve skutečnosti se ale posílají neustále tam a zpět nejrůznější související kódy jako zdrojáky, které by měla AI vidět, když hledá chybu, pak taky nejrůznější ladící výstupy atd. Milion tokenů je rychle v čudu. 
 
-Přesto byste do toho měli pár desítek dolarů investovat a vibe coding si vyzkoušet. Začněte s Tempo Labs - jejich nástroj je nejvíce přímočarný. Někdy příště si řekneme, jak s Tempo nejlépe začít. 
-
+Přesto byste do toho měli pár desítek dolarů investovat a vibe coding si vyzkoušet. Začněte s Tempo Labs - jejich nástroj je nejvíce přímočarný. Někdy příště si řekneme, jak s Tempo nejlépe začít.
