@@ -1,14 +1,24 @@
 ---
 ID: 3040
-title: 'LTE-Unlicenced, o&nbsp;co jde v&nbsp;případě LTE v&nbsp;nelicencovaném pásmu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu
-published: true
+oldlink: 'https://www.marigold.cz/item/lte-unlicenced-o-co-jde-v-pripade-lte-v-nelicencovanem-pasmu
+
+  '
 post_date: 2016-03-01 09:57:53
+post_excerpt: ''
+published: true
+summary_points:
+- Vize provozu LTE v nelicencovaném pásmu představena Qualcommem a Ericssonem v roce
+  2013.
+- LTE v nelicencovaném pásmu by umožnilo zjednodušení výstavby LTE pokrytí v režimu
+  nanocell.
+- LTE má vyšší efektivitu využití spektra než WiFi, ale může mít problémy s soužitím
+  s WiFi.
+- Cena a změna poměrů na trhu jsou klíčové problémy spojené s implementací LTE-U.
+title: LTE-Unlicenced, o&nbsp;co jde v&nbsp;případě LTE v&nbsp;nelicencovaném pásmu
 ---
+
 Vize provozu LTE v nelicencovaném pásmu je stará pět let, nakonec ji ale představil Qualcomm a Ericsson koncem roku 2013.  Od té doby se neví přesně, zda jde o myšlenku heretickou nebo spásnou. Jak tedy?
 
 Update 12/2024: vývoj pokročil, aktualizované informace [k provozu LTE/5G v nelicencovaném pásmu jsou v tomto článku](/mobilnisite/laa-5gnr-u).
@@ -60,4 +70,3 @@ Update 12/2024: vývoj pokročil, aktualizované informace [k provozu LTE/5G v n
 <p>A to je celé, co lze o LTE-U říci. Na jednu stranu je to technologie, která za vyšší cenu nabídne vyšší kvalitu, na stranu druhou je pochybné, zda vyšší kvalitu někdo za příplatek ocení, když zavedené řešení je velmi funkční, vcelku bezproblémové a navíc nekontrolované úzkou skupinou trhu. Pravda je, že klienti si všímají, že domácí WiFi připojení s routerem, co jim stojí na stolku, je méně kvalitní a pomalejší, než dobrá LTE přípojka vzdálená kiláček vzdušnou čarou, jenže co naplat, za čtvrt hoďky stahování filmu jim pípne SMS, že datový limit je pryč a to je to, co se počítá. Navíc je to především věc poslední míle, která v řadě případů není nejkvalitnější.</p>
 
 <p>Je velmi pravděpodobné, že operátoři LTE-U prosadí, již je součástí 3GPP standardů, ačkoliv není návrh kompletní. Je také logické, že operátoři se tím snaží jít proti podobné iniciativě z tábora WiFi, která umožní přenášet operátorské služby přes WiFi, na mysli mám technologie MAPCON, eSaMOG, IARP nebo WORM a obecně platformu heterogenních sítí zvanou “hetnet”. Tady je třeba říct, že se bojuje především o firemní klienty, v oblasti běžných uživatelů se zdá být dobojováno a s mírnou mírou podrazivosti klid zbraní na obou frontách do vynalezení další zbraně. </p>
-

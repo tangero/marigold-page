@@ -1,15 +1,22 @@
 ---
 ID: 3148
-title: Česko je ekonomika prostojů
 author: Patrick Zandl
-post_excerpt: ""
-layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesko-je-ekonomika-prostoju
-published: true
 featured: true
+layout: post
+oldlink: 'https://www.marigold.cz/item/cesko-je-ekonomika-prostoju
+
+  '
 post_date: 2016-09-02 08:17:53
+post_excerpt: ''
+published: true
+summary_points:
+- Produktivita práce v Česku je poloviční oproti Německu.
+- Česko trpí ekonomickými prostoji ve zdravotnictví, úřadech a dopravě.
+- Češi se s prostoji smířili a vnímají je jako běžnou součást života.
+- Německý přístup k práci je efektivnější a méně náchylný k prokrastinaci.
+title: Česko je ekonomika prostojů
 ---
+
 Z letních zpráv mě zaujala jedna. <a href="http://www.byznysnoviny.cz/2016/08/01/v-cesku-je-pouze-polovicni-produktivita-prace-nez-v-nemecku-nejvyssi-je-v-usa/">Produktivita práce v Česku je poloviční oproti Německu</a>. Našel jsem hromadu vysvětlení od méně odborných jako “český líný kurvy” až po maximálně ekonomická (medián přidané hodnoty se v Německu realizuje nad bazálním českým produktem) atd. Moje trocha do mlýna? Česko je ekonomikou prostojů. Nad tím prorůstovou a produktivní ekonomiku nevybudujeme nijak snadno. 
 
 Prostoje jsou v Česku všude. Přijdete k doktorovi a čekáte hodinu, dvě a více ve frontě, která nemá konce. Když potřebujete vyřešit jakoukoliv prkotinu, abyste si vzali půldenní volno. Věci, které jinde jdou korespondenčně, v Česku znamenají sehnat si výpis, potvrzení a donést žádost. Úřad máte hodinku od práce, hodinku zpět do práce, dopoledne je v prčicích. Přidejte nějakou tu rezervičku na nepředvídatelnou dopravu po rozflákaných silnicích a nikdo ze zaměstnavatelů se ani nepozastavuje nad tím, proč si “vyměnit řidičák” odskočíte na půl dne. Ale taky tenhle předpoklad započítá do mezd. 

@@ -1,14 +1,25 @@
 ---
 ID: 3310
-title: 'Jak má komunikovat obecní zastupitelstvo a&nbsp;místní samospráva (na příkladu Brandýsa nad Labem)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-ma-komunikovat-obecni-zastupitelstvo-a-mistni-samosprava-na-prikladu-brandysa-nad-labem
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-ma-komunikovat-obecni-zastupitelstvo-a-mistni-samosprava-na-prikladu-brandysa-nad-labem
+
+  '
 post_date: 2016-11-15 14:39:51
+post_excerpt: ''
+published: true
+summary_points:
+- V Brandýse se změnilo zastupitelstvo a starosta, nová radnice zdůrazňuje transparentnost
+  a komunikaci s občany.
+- Občané mají problém s úředním jazykem a nesrozumitelností úředních dokumentů.
+- Diskutuje se o možnosti vybudování kulturního domu, ale veřejná diskuse a informace
+  o stavu řešení chybí.
+- Doporučení zahrnují vícekolovou moderovanou veřejnou diskusi, průběžné reportování
+  stavu řešení a použití různých informačních kanálů.
+title: Jak má komunikovat obecní zastupitelstvo a&nbsp;místní samospráva (na příkladu
+  Brandýsa nad Labem)
 ---
+
 Je zajímavé sledovat míjející se názory úřadů a občanů na to, jak má vypadat komunikace mezi nimi. Pro příklad použiju náš Brandýs, ale situace zde zdaleka není ojedinělá, spíše zcela ukázková. 
 
 V Brandýse se před nějakými dvěmi lety vyměnilo zastupitelstvo i starosta. Opozice (hlavně místní sport-spolky) se dostaly ke kormidlu a někdejší estabilishment ODS v čele se starostou Ondřejem Přenosilem šel od válu. Nebylo se co divit, zjednodušeně řečeno Přenosil spolu se středočeskou ODS proslul jako starosta, za jehož vlády spadl most, co tu stál stopadesát let, z majetku kraje se vypařila nemocnice a naopak do bytové zástavby přibyla pískovna. Typické pro Střední Čechy a ODS. 

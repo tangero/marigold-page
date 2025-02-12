@@ -1,11 +1,26 @@
 ---
-title: Jak to bylo s pomazánkovým máslem?
 author: Patrick Zandl
-post_excerpt: "Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich otců a Evropská unie ji zakázala. Bez respektu k nám, bez respektu k našim otcům, tradicím, bez jediné otázky na nás. Cožpak z takové instituce může někdy vzejít něco dobrého? "
-layout: post
+categories:
+- EU
+- Česko
 featured: true
-categories: [EU, Česko]
+layout: post
+post_excerpt: 'Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské
+  Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich
+  otců a Evropská unie ji zakázala. Bez respektu k nám, bez respektu k našim otcům,
+  tradicím, bez jediné otázky na nás. Cožpak z takové instituce může někdy vzejít
+  něco dobrého? '
+summary_points:
+- Evropská unie zakázala české pomazánkové máslo kvůli harmonizaci trhu a nedostatku
+  českého odporu.
+- Česká republika neprosazovala výjimku pro máslo s nižším obsahem smetany před vstupem
+  do EU.
+- Česká politická reprezentace sabotuje českou účast v EU tím, že nenabízí žádnou
+  vizi.
+- Česko nenabízí své zkušenosti a pomoc EU, místo toho kritizuje EU bez konkrétních
+  návrhů na zlepšení.
 thumbnail: https://www.marigold.cz/assets/pomazankove-maslo.png
+title: Jak to bylo s pomazánkovým máslem?
 ---
 
 Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich otců a Evropská unie ji zakázala. Bez respektu k nám, bez respektu k našim otcům, tradicím, bez jediné otázky na nás. Cožpak z takové instituce může někdy vzejít něco dobrého? 
@@ -23,4 +38,3 @@ Je to těžko pochopitelné z pohledu Evropského soudu, ale zevnitř  Česka je
 Současné protieurounijní nálady jsou důsledkem toho, že určitá část naší politické representace českou účast v EU aktivně sabotuje. Místo toho, abychom měli vizi, prosazovali naši vizi, vyhledávali pro ni spojence a mluvili s každým, kdo ji chce slyšet, parazitujeme na politice hlasitě deklarovaného rádoby-appeasementu vůči EU. Parazitujeme, protože ji sami ani nejsme schopni vymyslet. Jistě, že na myšlence EU je mnoho věcí, které lze zlepšit a máme mnoho zkušeností, které lze přinést. Vidíme to teď na Německu, jemuž bychom jistě mohli pomoci ve vnitřní debatě o tom, co je samocenzura médií, jistě bychom mohli Evropě pomoci hledat autentickou levici a jistě by naše zkušenosti s hybridní válkou, ve které jsme žili od druhé světové války, byly cenné. Nic z toho nenabízíme. Na křičení, jak je EU nespravedlivá, hnusná a jak nás dostace poškozují, nikdo zvědavý není. Na návrh, co udělat, aby nás nepoškozovaly, je zvědavý ledaskdo, ale ten u nás schopni vygenerovat nejsme. A tak utíkáme. 
 
 A tohle je základ toho, co je špatně. Ne EU - ta někam kráčí a někam dojde. Česko, které utíká a neví kam, jenom ví odkud. Odevšad. Kam tedy doběhneme? Určitě ne ke svobodě a prosperitě.
-
