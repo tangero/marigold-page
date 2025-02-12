@@ -1,25 +1,35 @@
 ---
+audio_url: http://www.marigold.cz/audio/2020-10-31-programovani_pro_pokrocile_deti_a_pro_ty_co_skutecne_zacinaji.mp3
+audiooff: false
 categories:
-- Programování
-- Vzdělávání
-- Školství
+- "Programov\xE1n\xED"
+- "Vzd\u011Bl\xE1v\xE1n\xED"
+- "\u0160kolstv\xED"
 date: 31.10.2020
-excerpt: Mírně osobní a spíše brainstormovací článek. Řeším teď pro syna Vojtu (10
-  let) programování. Chodí (chodil, bo COVID) ve škole na  [Javorkovic kroužek programování](https://www.programovanihrou.cz/),
-  skvělé. Jenže všechno je to takové hraní. Scratch je skvělý pro menší děti, ale
-  skutečnému programování se tam jen přiblížíte. Také s Microbitem je zábava, Vojta
-  tady týden přeprogramovával hry Scratch hry, aby je mohl ovládat svým vlastním ovladačem
-  postaveným na desce Microbitu. Skvělý seznam materiálů pro první stupeň  [vytváří
-  Miroslav Suchý](https://github.com/xsuchy/programovani_pro_deti/), doporučuji tam
-  započít studium tématu. Ale taky se to časem omrzí. A tady přichází problém. Je
-  velká mezera mezi *hracím* programováním a tím *skutečným*?
+excerpt: "M\xEDrn\u011B osobn\xED a sp\xED\u0161e brainstormovac\xED \u010Dl\xE1nek.\
+  \ \u0158e\u0161\xEDm te\u010F pro syna Vojtu (10 let) programov\xE1n\xED. Chod\xED\
+  \ (chodil, bo COVID) ve \u0161kole na  [Javorkovic krou\u017Eek programov\xE1n\xED\
+  ](https://www.programovanihrou.cz/), skv\u011Bl\xE9. Jen\u017Ee v\u0161echno je\
+  \ to takov\xE9 hran\xED. Scratch je skv\u011Bl\xFD pro men\u0161\xED d\u011Bti,\
+  \ ale skute\u010Dn\xE9mu programov\xE1n\xED se tam jen p\u0159ibl\xED\u017E\xED\
+  te. Tak\xE9 s Microbitem je z\xE1bava, Vojta tady t\xFDden p\u0159eprogramov\xE1\
+  val hry Scratch hry, aby je mohl ovl\xE1dat sv\xFDm vlastn\xEDm ovlada\u010Dem postaven\xFD\
+  m na desce Microbitu. Skv\u011Bl\xFD seznam materi\xE1l\u016F pro prvn\xED stupe\u0148\
+  \  [vytv\xE1\u0159\xED Miroslav Such\xFD](https://github.com/xsuchy/programovani_pro_deti/),\
+  \ doporu\u010Duji tam zapo\u010D\xEDt studium t\xE9matu. Ale taky se to \u010Dasem\
+  \ omrz\xED. A tady p\u0159ich\xE1z\xED probl\xE9m. Je velk\xE1 mezera mezi *hrac\xED\
+  m* programov\xE1n\xEDm a t\xEDm *skute\u010Dn\xFDm*?"
 layout: post
 summary_points:
-- Scratch a Microbit jsou zábavné, ale nenaučí skutečné programování.
-- Velké programovací jazyky jsou pro děti neintuitivní a složité.
-- Chybí mezistupeň mezi hravým a profesionálním programováním.
-- Low-code a no-code platformy jsou drahé a cloudově závislé.
-title: Programování pro pokročilé děti a pro ty, co skutečně začínají
+- "Scratch a Microbit jsou z\xE1bavn\xE9, ale nenau\u010D\xED skute\u010Dn\xE9 programov\xE1\
+  n\xED."
+- "Velk\xE9 programovac\xED jazyky jsou pro d\u011Bti neintuitivn\xED a slo\u017E\
+  it\xE9."
+- "Chyb\xED mezistupe\u0148 mezi hrav\xFDm a profesion\xE1ln\xEDm programov\xE1n\xED\
+  m."
+- "Low-code a no-code platformy jsou drah\xE9 a cloudov\u011B z\xE1visl\xE9."
+title: "Programov\xE1n\xED pro pokro\u010Dil\xE9 d\u011Bti a pro ty, co skute\u010D\
+  n\u011B za\u010D\xEDnaj\xED"
 ---
 
 Mírně osobní a spíše brainstormovací článek. Řeším teď pro syna Vojtu (10 let) programování. Chodí (chodil, bo COVID) ve škole na  [Javorkovic kroužek programování](https://www.programovanihrou.cz/), skvělé. Jenže všechno je to takové hraní. Scratch je skvělý pro menší děti, ale skutečnému programování se tam jen přiblížíte. Také s Microbitem je zábava, Vojta tady týden přeprogramovával hry Scratch hry, aby je mohl ovládat svým vlastním ovladačem postaveným na desce Microbitu. Skvělý seznam materiálů pro první stupeň  [vytváří Miroslav Suchý](https://github.com/xsuchy/programovani_pro_deti/), doporučuji tam započít studium tématu. Ale taky se to časem omrzí. A tady přichází problém: je velká mezera mezi „hracím“ programováním a tím „skutečným“?
