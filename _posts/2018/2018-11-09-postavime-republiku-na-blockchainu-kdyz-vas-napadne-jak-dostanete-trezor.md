@@ -1,10 +1,18 @@
 ---
+categories:
+- Blockchain
+- Krypto
+- Energetika
+excerpt: null
 layout: post
-title:  Postavíme republiku na blockchainu. Když vás napadne jak, dostanete Trezor
-categories: [Blockchain, Krypto, Energetika]
-excerpt: 
+summary_points:
+- Blockchain Republic podporuje větší zapojení Česka do blockchainových technologií.
+- Trezor Model T je nabízen jako cena za nejlepší návrh využití blockchainu ve státní
+  správě.
+- Účastníci soutěže mají použít SWOT analýzu k navržení řešení.
+- Termín pro odevzdání návrhů je stanoven na 16. listopadu 2018.
+title: Postavíme republiku na blockchainu. Když vás napadne jak, dostanete Trezor
 ---
-
 
 Na internetu se objevila iniciativa  [Blockchain Republic](https://www.blockchainrepublic.cz/)  zaštítěná (docela) známými jmény a volající po tom, aby se Česko více angažovalo v blockchainových a obecně distribuovaných technologiích. Zjednodušeně řečeno, aby „Česko běželo na blockchainu“. Hned se objevila spíše nezodpovězená diskuse, co by tak blockchainového (mimo měny) mohlo pomoci a jaký systém chodu bychom takhle mohli převést.
 

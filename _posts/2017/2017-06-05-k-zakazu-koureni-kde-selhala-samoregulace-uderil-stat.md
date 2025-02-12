@@ -1,12 +1,18 @@
 ---
 ID: 3730
-title: 'K zákazu kouření: kde selhala samoregulace, udeřil stát'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-06-05 07:21:29
+post_excerpt: ''
+published: true
+summary_points:
+- Zákaz kouření je selháním samoregulace odvětví a nedostatkem dohody mezi stranami.
+- Kuřáci se cítí pronásledováni, ale ne vždy respektují nekuřáky.
+- Stát zasáhl kvůli nedohodě a situace se vyhrotila.
+- Řešením je tolerovat se a dohodnout v rámci lidské slušnosti.
+title: 'K zákazu kouření: kde selhala samoregulace, udeřil stát'
 ---
+
 O zákazu kouření už bylo napsáno už skoro všechno. Nebudu se opakovat a nudit banalitami, jenže hřebíček na hlavičku se uhodil málokde.
 
 Zákaz kouření je především obrovským selháním samoregulace odvětví. A důkazem toho, že nejsme schopni se shodnout ani na vcelku banální věci, kterou by bylo jinak možné označit za základní slušnost: nehulit někomu do tváře a nechat někoho hulit, abych tak řekl. Respektovat svobody obou stran.

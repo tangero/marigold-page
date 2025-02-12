@@ -1,13 +1,19 @@
 ---
 ID: 3941
-title: Technologická revoluce ve volnoběhu
 author: Patrick Zandl
-post_excerpt: ""
-layout: post
 featured: true
-published: true
+layout: post
 post_date: 2018-04-17 08:06:48
+post_excerpt: ''
+published: true
+summary_points:
+- Primární vynálezy skončily v 60. letech, od té doby převažují drobná vylepšení.
+- Moorův zákon narazil na limity, inkrementální vývoj přestává stačit.
+- Technologie dosáhly rovnovážného stavu, chybí radikální inovace.
+- Financování vědy je neefektivní, administrativa převyšuje skutečný výzkum.
+title: Technologická revoluce ve volnoběhu
 ---
+
 Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají každý den. Ale není to pravda. Doba primárních vynálezů skončila v šedesátých letech minulého století. V roce 1954 mikrovlná trouba a s ní užití mikrovln. V medicíně roce 1957 antikoncepční pilulka. A v roce 1958 laser. Ostatní vynálezy mají základ v době ještě starší - třeba takový tranzistor v roce 1948 a počítače jako takové jsou ještě starší. Princip LED pochází z dvacátých let, první praktické výrobky se objevily v letech šedesátých.
 
 Tento stav je mementem, o němž se stále neumíme kvalifikovaně rozhodnout, jak k tomu došlo. Běžný občan vnímá dnešek jako dobu překotného vývoje, tryskající inovace a chvátajícího pokroku. Jenže z pohledu skutečného technologického vývoje jde o drobné inkrementální vylepšování, jež dovedlo decentralizovanou vojenskou síť ARPANET určenou ke koordinaci odpálení jaderných zbraní k internetu bojujícímu o lajky a názory na zubní pasty.<!--more-->

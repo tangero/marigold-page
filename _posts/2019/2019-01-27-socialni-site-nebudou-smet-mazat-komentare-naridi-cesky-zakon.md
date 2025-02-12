@@ -1,10 +1,20 @@
 ---
+categories:
+- Sociální sítě
+- Politika
+- Svoboda slova
+excerpt: Skupina třiceti poslanců navrhuje zákon, podle něhož nebudou smět sociální
+  sítě a nejrůznější diskusní místa mazat komentáře uživatelů pod hrozbou drakonických
+  pokut v milionových řádech. Zákon je zaměřený proti cenzuře. Z důvodu klidné úvahy
+  vám zatím neřeknu, kdo zákon navrhuje, na to je čas.
 layout: post
-title:  Sociální sítě nebudou smět mazat komentáře, nařídí český zákon
-categories: [Sociální sítě, Politika, Svoboda slova]
-excerpt: Skupina třiceti poslanců navrhuje zákon, podle něhož nebudou smět sociální sítě a nejrůznější diskusní místa mazat komentáře uživatelů pod hrozbou drakonických pokut v milionových řádech. Zákon je zaměřený proti cenzuře. Z důvodu klidné úvahy vám zatím neřeknu, kdo zákon navrhuje, na to je čas.
+summary_points:
+- Třicet poslanců navrhuje zákon zakazující mazání komentářů na sociálních sítích.
+- Zákon by mohl vést k zahlcení diskusí spamem a dezinformacemi.
+- Provozovatelé serverů by mohli odstranit diskusní fóra kvůli právním rizikům.
+- Návrh podporují politici z ANO, ODS, SPD a KSČM.
+title: Sociální sítě nebudou smět mazat komentáře, nařídí český zákon
 ---
-
 
 Skupina třiceti poslanců  [navrhuje zákon](https://t.co/EYgSvXQh2V), podle něhož nebudou smět sociální sítě a nejrůznější diskusní místa mazat komentáře uživatelů pod hrozbou drakonických pokut v milionových řádech. Zákon je zaměřený proti cenzuře. Z důvodu klidné úvahy vám zatím neřeknu, kdo zákon navrhuje, na to je čas.
 

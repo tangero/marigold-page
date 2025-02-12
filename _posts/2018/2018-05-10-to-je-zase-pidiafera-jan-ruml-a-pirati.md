@@ -1,13 +1,17 @@
 ---
 ID: 3944
-title: 'To je zase pidiaféra: Jan Ruml a&nbsp;Piráti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-
-published: true
 post_date: 2018-05-10 05:36:41
+post_excerpt: ''
+published: true
+summary_points:
+- Jan Ruml chtěl kandidovat za Piráty do Senátu. Piráti Rumla nepřijali kvůli jeho
+  nízké znalosti hnutí. Kritika přišla hlavně od nevoličů Pirátů. Rumlova izolace
+  by Pirátům nepřinesla přínos.
+title: 'To je zase pidiaféra: Jan Ruml a&nbsp;Piráti'
 ---
+
 To je zase pidiaféra: Jan Ruml a Piráti. Dovolte mi malou rekapitulaci, ať si ta záležitost sedne na zem.
 
 <!--more-->

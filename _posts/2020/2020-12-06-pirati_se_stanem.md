@@ -1,8 +1,21 @@
 ---
+categories:
+- Piráti
+- STAN
+- Politika
+- Volby
+excerpt: null
 layout: post
-title:  Piráti se STANem nebo bez stanu
-categories: [Piráti, STAN, Politika, Volby]
-excerpt: 
+summary_points:
+- Piráti a STAN zvažují koalici, přičemž obě strany mají odlišné přístupy k řešení
+  problémů.
+- Obě strany se obávají kontroverzních kandidátů a možných konfliktů při sestavování
+  kandidátek.
+- Koalice by mohla naředit pirátský program, ale přináší šanci na společný úspěch
+  ve volbách.
+- Celospolečenský tlak podporuje koalici jako možnost zabránit další vládě Andreje
+  Babiše.
+title: Piráti se STANem nebo bez stanu
 ---
 
 Zanedlouho se bude rozhodovat o tom, zda Piráti půjdou či nepůjdou do koalice se STANem. Zajímavé je, že když poslouchám lidi v obou stranách (a v Brandýse jsme s nimi do místního zastupitelstva koalici už měli), slýchám prakticky vždycky to samé – na *ty druhé*.

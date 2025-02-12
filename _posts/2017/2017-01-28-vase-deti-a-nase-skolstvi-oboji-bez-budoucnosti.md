@@ -1,13 +1,21 @@
 ---
 ID: 3494
-title: 'Vaše děti a&nbsp;naše školství: obojí bez budoucnosti'
 author: Patrick Zandl
-post_excerpt: "Smiřte se s tím, že vaše děti jsou tvorové bez budoucnosti. Leda byste byli připraveni vyklopit pět až deset tisíc měsíčně. Takhle naplacato a natvrdo řečeno je současná situace v českém školství a zkrácená verze následujícího. "
-layout: post
-published: true
 featured: true
+layout: post
 post_date: 2017-01-28 11:05:49
+post_excerpt: 'Smiřte se s tím, že vaše děti jsou tvorové bez budoucnosti. Leda byste
+  byli připraveni vyklopit pět až deset tisíc měsíčně. Takhle naplacato a natvrdo
+  řečeno je současná situace v českém školství a zkrácená verze následujícího. '
+published: true
+summary_points:
+- České školství nabízí zastaralé vzdělání bez systémové reformy.
+- Nadstandardní vzdělání vyžaduje měsíční náklady 5-10 tisíc korun.
+- Podfinancované školy vedou k přetíženým učitelům a nezájmu žáků.
+- Politici ignorují dlouhodobé problémy, jako je školství a zdravotnictví.
+title: 'Vaše děti a&nbsp;naše školství: obojí bez budoucnosti'
 ---
+
 Smiřte se s tím, že vaše děti jsou tvorové bez budoucnosti. Leda byste byli připraveni vyklopit pět až deset tisíc měsíčně. Takhle naplacato a natvrdo řečeno je současná situace v českém školství a zkrácená verze následujícího. Pokud nebudete schopni zaplatit svým dětem "nadstandardní" vzdělání, dostane se jim vzdělání, které se neposunulo za třicet let od toho, jak jste ho znali vy (a jak ho ustavila josefinská reforma), přičemž za tu dobu přibralo problémy nové, aniž bych se zbavilo starých. Zahodíte všechny talenty dětí, ustane jejich zvídavost, stanou se Šedivými.
 
 

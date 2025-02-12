@@ -1,8 +1,19 @@
 ---
+categories:
+- Konference
+- Společnost
+- Ostrava
+excerpt: null
 layout: post
-title:  Pár postřehů z letošního ostravského Meltingpotu
-categories: [Konference, Společnost, Ostrava]
-excerpt: 
+summary_points:
+- Přednáškový blok Meltingpot na Colours přilákal 200 lidí s neobvyklou účastí.
+- Debata o Číně vyvolala střet mezi čínským patriotismem a vědeckým pohledem.
+- Přednášky o klimatických změnách byly alarmistické, ale přitáhly velký zájem.
+- Alain de Benoist upozornil na krizi liberální demokracie a rostoucí majetkovou nerovnost.
+- Jeffrey Winters diskutoval o oligarchii a globální majetkové nerovnosti.
+- Američtí řečníci vynikali jasnou a jednoduchou angličtinou oproti českým.
+- Colours nabízí kvalitní přednášky i bez hudby za přijatelnou cenu.
+title: Pár postřehů z letošního ostravského Meltingpotu
 ---
 
 Na ostravské Colours jsem jel také kvůli přednáškovému bloku  [Meltingpot](https://www.meltingpotforum.com/cs). Dvě stovky lidí, jací se na akcích v Česku běžně nevidí. Žádná opakující se jména. To mě zaujalo – a nakonec, už jsem dlouho na žádné konferenci nebyl.

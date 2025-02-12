@@ -1,12 +1,22 @@
 ---
 ID: 3638
-title: 'Moc-li je spokojen zarytý Applista s&nbsp;Androidím mobilem?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-04-20 09:50:12
+post_excerpt: ''
+published: true
+summary_points:
+- Huawei P9 Lite s Androidem je užitný, ale vyžaduje zvykání.
+- Android nabízí méně konzistentní UX než iOS, s nekonzistentními ovládacími prvky.
+- Přechod z iOS na Android znamená opětovné nákupy aplikací a hledání alternativ.
+- Android obsahuje všudypřítomnou reklamu a může být více invazivní v ochraně soukromí.
+- SD karty na Androidu zpomalují systém a jejich integrace není přímočará.
+- Android vyžaduje časté nastavování a upravování, což zabírá čas.
+- Baterie Huawei P9 Lite je spolehlivější než u iPhonu, zejména v zimě.
+- Velikost Android telefonů může být nepraktická pro nošení v kapsách.
+title: Moc-li je spokojen zarytý Applista s&nbsp;Androidím mobilem?
 ---
+
 <p>Mám <a href="/item/jaky-je-prechod-z-apple-iphone-na-vcelku-levny-telefon-s-android-6">ho už zhruba půl roku</a>. Huawei P9 Lite ve verzi 3GB RAM. Chtěl jsem si vyzkoušet, jestli telefon za polovinu ceny iPhone SE a se stejnou deklarovanou hardwarovou výbavou pod Androidem bude užitný.</p>
 
 

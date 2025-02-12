@@ -1,14 +1,20 @@
 ---
 ID: 3931
-title: >
-  Oficiálně jsem členem České
-  pirátské strany
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2018-03-18 18:58:55
+post_excerpt: ''
+published: true
+summary_points:
+- Autor se stal členem Pirátské strany a zaznamenal různé reakce od lidí.
+- Piráti staví komunální kandidátku v Brandýse-Boleslavi, ne do senátních voleb.
+- Autor je ostražitý k novým zákonům a upřednostňuje méně státu.
+- Věří v důležitost spolupráce a pracuje na komunálních volbách v Brandýse-Boleslavi.
+title: 'Oficiálně jsem členem České pirátské strany
+
+  '
 ---
+
 V průběhu minulého týdne jsem se stal oficiálně členem Pirátské strany. Ale kvůli masakru v práci nebyl čas, takže pár postřehů a FAQ až nyní.
 
 <!--more-->

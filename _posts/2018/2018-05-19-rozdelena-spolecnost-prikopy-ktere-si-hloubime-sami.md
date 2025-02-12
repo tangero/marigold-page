@@ -1,13 +1,27 @@
 ---
 ID: 3948
-title: 'Rozdělená společnost: příkopy, které si hloubíme sami'
 author: Patrick Zandl
-post_excerpt: "Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujalo tohle: všichni se mne neustále ptají, zda mohu vyjmenovat ty, kdo za tím stojí a ukázat na jejich ruské financování. A to je ten háček."
-layout: post
-published: true
-post_date: 2018-05-19 07:10:05
 featured: true
+layout: post
+post_date: 2018-05-19 07:10:05
+post_excerpt: 'Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě
+  ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujalo
+  tohle: všichni se mne neustále ptají, zda mohu vyjmenovat ty, kdo za tím stojí a
+  ukázat na jejich ruské financování. A to je ten háček.'
+published: true
+summary_points:
+- Ruské dezinformace šíří naši vlastní lidé, ne cizí agenti.
+- Boj proti dezinformacím je obtížný kvůli hlubokému přesvědčení jejich nositelů.
+- Liberální kapitalismus není bezchybný, potřebuje konkurenci jiných systémů.
+- Dvojí metr v politice a společnosti podkopává důvěru v demokracii.
+- Neschopnost věcné diskuse brání řešení klíčových problémů.
+- Názorové bubliny a média prohlubují izolaci a netoleranci.
+- Nesmiřitelné nepřátelství v politice paralyzuje reformy.
+- Česko se nehýbe kvůli vzájemné nedůvěře a neochotě spolupracovat.
+- Zlepšení situace vyžaduje diskusi, odstranění dvojího metru a sebereflexi.
+title: 'Rozdělená společnost: příkopy, které si hloubíme sami'
 ---
+
 Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujalo tohle: všichni se mne neustále ptají, zda mohu vyjmenovat ty, kdo za tím stojí a ukázat na jejich ruské financování. A to je ten háček. Nejsou to nějací ONI, kdo by za tím vším stál - nějací cizinci, které sem dovezla ruská armáda jako speciální výsadek. Jsme to my, jsou to naši vlastní lidé. Ti, kteří jsou latentně nespokojení a zpravidla upřímně věří tomu, že jejich cesta je lepší nebo je alespoň dobré vytvářet protiváhu proti oficiální politice. A proto je velmi obtížné s tímto přesvědčením bojovat. Nelze zformovat digitální armádu a "střílet digitální agenty cizích mocností". Maximem možného byl seznam ruských agentů včetně kulturního atašé ruské ambasády, který byl předložen (znovu a znovu) české vládě ve Skripalově aféře, aby se z nich jako maximum možného poslali domů tři "odborníci na kulturu".
 
 Napsat článek na tohle téma je nesmírně nebezpečné a téměř zbytečné. Dostane se mi hromadného odsouzení ze všech stran. K tomu se ještě dostaneme. Pokud se rozhodnete číst dále, pokuste se tak činit s otevřenou myslí. <!--more-->

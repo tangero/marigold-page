@@ -1,8 +1,19 @@
 ---
+categories:
+- Doprava
+- Elektrokola
+- Kola
+excerpt: Litva provedla zajímavou akci. Lidem, kteří se rozhodli zbavit starého automobilu
+  nabídla dotaci 1000 euro na elektrokolo či elektrokoloběžku. Co se stalo?
 layout: post
-title:  Co se stane, když místo starých aut stát podpoří elektrokola
-categories: [Doprava, Elektrokola, Kola]
-excerpt: Litva provedla zajímavou akci. Lidem, kteří se rozhodli zbavit starého automobilu nabídla dotaci 1000 euro na elektrokolo či elektrokoloběžku. Co se stalo?
+summary_points:
+- Litva nabídla občanům 1000 euro na elektrokola za staré automobily.
+- Vláda přidala další tři miliony, aby pokryla poptávku po elektroprostředcích.
+- Litva má vhodné podmínky pro cyklistiku, jako krátké vzdálenosti a málo provozované
+  cesty.
+- V Evropě se v době pandemie zvyšuje poptávka po cyklistice, zatímco v Česku se situace
+  mění pomaleji.
+title: Co se stane, když místo starých aut stát podpoří elektrokola
 ---
 
 Litva provedla zajímavou akci. Lidem, kteří se rozhodli zbavit starého automobilu nabídla dotaci 1000 euro na elektrokolo či elektrokoloběžku. S ohledem na to, že vozový park v Litvě nepatří k nejmodernějším, tvoří jej přestárlé koncernové ojetiny, mnoho automobilů ani tuhle hodnotu nemělo, takže pro obyvatele šlo o vcelku zajímavou nabídku. Už s ohledem na to, že za tisíc euro se slušné elektrokolo dá pořídit. Takže se původní osmimilionová částka rychle vyčerpala a vláda přihodila další tři miliony, čímž se počet elektroprostředků zvýšil o jedenáct tisíc a zároveň z autooběhu vypadly nejhorší vraky. Pro představu, představuje to jedno procento automobilů v Litvě. 

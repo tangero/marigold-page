@@ -1,8 +1,16 @@
 ---
+categories:
+- Covid
+- Ekonomika
+- Čína
+excerpt: null
 layout: post
-title:  Ekonomika koronaviru - když motýl ve Wuhanu kýchne
-categories: [Covid, Ekonomika, Čína]
-excerpt: 
+summary_points:
+- Čínský nový rok zastavil výrobu, což ovlivnilo just-in-time dodávky.
+- Hongkongské protesty zkomplikovaly export potenciálních zbraní.
+- Koronavirus způsobil karanténu a zpoždění zásilek z Wuhanu.
+- Závislost na čínských subdodávkách paralyzuje globální výrobu.
+title: Ekonomika koronaviru - když motýl ve Wuhanu kýchne
 ---
 
 Nemůžu vám říkat nic o medicíně koronaviru, bo tomu nerozumím. Povím vám ale něco málo o ekonomice v momentě, kdy nachcípaný motýl máchl křídly ve Wuhanu.

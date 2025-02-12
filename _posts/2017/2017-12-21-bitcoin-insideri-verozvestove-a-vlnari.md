@@ -1,12 +1,20 @@
 ---
 ID: 3907
-title: 'Bitcoin insideři, věrozvěstové a&nbsp;vlnaři'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-12-21 08:48:16
+post_excerpt: ''
+published: true
+summary_points:
+- Revoluce ve finančnictví v Česku se objevila "přes noc" kolem bitcoinu.
+- 'Existují tři skupiny lidí v kryptoměnách: věrozvěstové, insideři a vlnaři.'
+- Důležité informace o kryptoměnách se nacházejí ve fórech a technowebech, nikoliv
+  v mainstreamových médiích.
+- 'Doporučení: "Kryptoměnám bude tím lépe, čím hůře bude světu" - důvěra v kryptoměny
+  roste při poklesu důvěry ve státní měny.'
+title: Bitcoin insideři, věrozvěstové a&nbsp;vlnaři
 ---
+
 Se psaním o bitcoinu je to teď těžké. Je to přesně ta zlomová doba v Česku, kdy se "přes noc objevila" revoluce ve finančnictví. Co na tom, že je za ní mnoho let tvrdé práce, prostě se zjevila přes noc. A rychle naskakují ti, kdo chtějí jet nahoru na vlně. I v psaní a moudrých úsudcích. A protože všechny takové jevy jsou u nás tradičně revoluce přes noc, je těžké je rozlišit. Ty, kdo o tom něco vědí a ty kdo jsou lekci před vámi. Proč?<!--more-->První skupinou jsou vždy <strong>věrozvěstové</strong>. Naskočili před mnoha lety a poznáte je podle bezmezné víry manifestované tím, že všechny svoje peníze vložili do "krypta" už před lety. Takže dneska jsou v balíku, což je pro ně důkaz neomylnosti.
 
 Pak jsou <strong>insideři</strong>. Naskočili před lety, tehdy měli jen sebe jako levnou pracovní sílu. Vypracovali se, dneska jsou v balíku, protože vsadili dobře. A jsou také celebritami mezi mladými. Sám jsem koukal, kolik mladých si přišlo požádat o selfie vloni zakladatele Etherea v pražském studentském pajzlu... Insideři jsou si naštěstí zpravidla vědomi limitů, problémů a toho, že je před nimi ještě moře práce, pokud z toho nechtějí mít Ponziho, což je přesně to, co jim teď nedovolí vlastní ego nebo smysl pro zodpovědnost. Část z těch insiderů jsou dnes z různého důvodu publicisté, kteří šíří osvětu. To jsou ti, které jsem označil jako vědoucí. Hlavní problém s nimi budete mít, že je neznáte. Doposud publikovali jen v "odborných médiích", což znamená nějaké kryptocoinové bložíky, co dnes mají návštěvnost idnesu.

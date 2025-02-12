@@ -1,14 +1,23 @@
 ---
 ID: 3952
-title: 'Projektový manažer je v&nbsp;Česku sprosté slovo &#8211; ke škodě projektů &#8230;'
 author: Patrick Zandl
-excerpt: "Projektový manažer je v Česku sprosté slovo. Většinou je to týpek, jenž tuhle funkci dostane formálně, například u software projektů je to jeden z vývojářů nebo majitel firmy."
-layout: post
-published: true
-post_date: 2018-06-25 14:00:21
-thumbnail: https://oeru.org/assets/coursepage/Project-management-flow-chart.jpg
+excerpt: Projektový manažer je v Česku sprosté slovo. Většinou je to týpek, jenž tuhle
+  funkci dostane formálně, například u software projektů je to jeden z vývojářů nebo
+  majitel firmy.
 featured: true
+layout: post
+post_date: 2018-06-25 14:00:21
+published: true
+summary_points:
+- Projektový manažer zajišťuje přechod od prototypu k prodejnímu produktu.
+- Projektový manažer musí zvládat napětí mezi vlastníkem projektu a týmem.
+- Dobrý projekťák potřebuje znalosti, asertivitu a psychickou odolnost.
+- Projekťák řeší problémy a udržuje projekt na trase bez zbytečných zásahů.
+thumbnail: https://oeru.org/assets/coursepage/Project-management-flow-chart.jpg
+title: Projektový manažer je v&nbsp;Česku sprosté slovo &#8211; ke škodě projektů
+  &#8230;
 ---
+
 Na <a href="http://prague.makerfaire.com">Makers Faire</a> jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější bude <a href="https://www.docdroid.net/cp4QB7n/od-bastlu-k-produktu-makers-faire-2018.pdf">shrnout pár ponaučení</a>, na což jsem měl deset minut. Jak udělat z prototypu produkt, který jde do prodeje? To je častá myšlenka: něco jste spájeli, spíchli tomu software, nákladově vás to vyšlo na třetinu profiřešení, to by se za poloviční cenu parádně prodávalo, ne? No a já se vlastně celý život živím tím, že věc posouvám z fáze protyp do fáze prodávaný produkt, přičemž posledních mnoho let to dělám pro jiné firmy a pro cizí nápady, což mě mimochodem baví více, než se sám nutit něco v IT vymýšlet jen proto, že se to ode mne čeká. Jsem prostě projektový manažer.
 
 <!--more-->

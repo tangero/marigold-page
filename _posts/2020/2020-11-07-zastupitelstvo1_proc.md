@@ -1,8 +1,17 @@
 ---
+categories:
+- Jak na zastupitelstvo
+excerpt: Proč byste se vůbec měli zajímat o to, jak probíhá vaše obecní zastupitelstvo?
+  Proč na něj chodit? Protože tady vše začíná a váš zájem je to nejmenší a nejjednodušší,
+  jak dát najevo, že na správném fungování vám záleží.
 layout: post
-title:  Proč vlastně chodit na zastupitelstvo vaší obce?
-categories: [Jak na zastupitelstvo]
-excerpt: Proč byste se vůbec měli zajímat o to, jak probíhá vaše obecní zastupitelstvo? Proč na něj chodit? Protože tady vše začíná a váš zájem je to nejmenší a nejjednodušší, jak dát najevo, že na správném fungování vám záleží.
+summary_points:
+- Obecní zastupitelstvo rozhoduje o klíčových záležitostech obce jako jsou školy,
+  doprava a daně.
+- Účast na zastupitelstvu umožňuje občanům spolurozhodovat a iniciovat změny.
+- Zastupitelstvo je místem pro řešení místních problémů a odhalování nepravostí.
+- Osobní účast na zasedáních poskytuje lepší pochopení a atmosféru než online přenosy.
+title: Proč vlastně chodit na zastupitelstvo vaší obce?
 ---
 
 Když iniciativa Milionu chvilek pro demokracii vyzvala k účasti na politickém životě, přemýšlel jsem, co poradit lidem, kteří mají zájem. Pravda, ministrem už dnes může být skoro každý a pravděpodobnost, že zrovna vy byste se jím mohli stát, už není malá, ale ne každý prahne po něčem takovém. Jak byste se mohli účastnit na kultivaci politického života skutečně, realisticky a opravdově?

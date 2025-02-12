@@ -1,12 +1,18 @@
 ---
 ID: 3713
-title: 'Proč nejsem politik? Taková mikroúvaha o&nbsp;tom, proč lidé nejdou do politiky.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-05-24 08:55:28
+post_excerpt: ''
+published: true
+summary_points:
+- Politika vyžaduje osobní nasazení, nečekání na zázračné řešení.
+- Politická kariéra znamená ztrátu soukromí a vysoké náklady.
+- Česká politika je plná kritiky, nenávisti a cílené diskreditace.
+- Změna politiky vyžaduje aktivní přístup každého jednotlivce.
+title: Proč nejsem politik? Taková mikroúvaha o&nbsp;tom, proč lidé nejdou do politiky.
 ---
+
 Co dělat s nastalou vnitropolitickou situací? Na to není lehká odpověď, která by se vám líbila. Pokud jste doufali, že zveřejním číslo účtu, vy pošlete pár stokorun a MY (=já a pár kamarádů) to dáme do kupy, tak vám na rovinu říkám, že by to bylo zase špatně. Asi tak po milionté byste naletěli vlastní lenosti. Vždycky, když čekáte, až se to samo spraví, tak se načekáte. Samo se nic dobrého neudá. Je třeba si to odpracovat. My všichni. To je moje osobní přesvědčení.
 
 A na rovinu vám řeknu, proč já nechci do politiky a všemožně se tomu bráním. Ano, uvědomuju si, že mám dostatek inteligenčního i lidského kapitálu, abych se v době dohledné od momentu rozhodnutí dohrabal na slušné politické místečko. Program, který dostatečně rezonuje, adresář lidí, kterým se můžu připomenout s tradičním "kráčím vysoko, mávej mi, abych ti příznivě kynul, až usednu" - to je všechno zvládnutelné. Proč tedy nejdu takhle změnit svět a spasit Česko, když na spásu všichni čekají?

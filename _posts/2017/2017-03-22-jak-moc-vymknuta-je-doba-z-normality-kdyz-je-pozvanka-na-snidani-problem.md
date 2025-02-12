@@ -1,12 +1,20 @@
 ---
 ID: 3596
-title: 'Jak moc vymknutá je doba z&nbsp;normality, když je pozvánka na snídani problém?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-03-22 18:04:54
+post_excerpt: ''
+published: true
+summary_points:
+- Ministr Babiš pozval autora na snídani, což vyvolalo veřejný rozruch.
+- Autor věří v jednání a kompromisy, odmítá revoluční myšlení a rozdělenou společnost.
+- Považuje za důležité naslouchat druhým, i když s nimi nesouhlasí, a neuzavírat dveře
+  k dialogu.
+- Autor na snídani nakonec nejde kvůli pracovnímu závazku, což může být chápáno jako
+  výmluva.
+title: Jak moc vymknutá je doba z&nbsp;normality, když je pozvánka na snídani problém?
 ---
+
 Dostal jsem email. Četl jsem ho v autě cestou na výstaviště CeBItu, kde vystavujeme naše superbezpečné (naučil jsem se nové slovo!) routery Turris, takže jsem mu nevěnoval hned tolik pozornosti. Ministr financí Andrej Babiš mě v něm zval na páteční snídani. Až večer, když jsem pročítal vzkazy a zprávy se ukázalo, že z pozvánky je povyk nad poměry.
 
 Nešlo o to, že nezval jen mě, ale více lidí - to bylo z emailu tak nějak odvoditelné. Šlo spíše o to, zda je v dnešní době přípustné jít na snídani s Andrejem Babišem. Dovolím si tedy k tomu svůj pohled a zároveň malý brainstorming.

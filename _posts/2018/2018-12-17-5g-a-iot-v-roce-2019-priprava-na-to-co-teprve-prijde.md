@@ -1,8 +1,19 @@
 ---
+categories:
+- Mobilní sítě
+- 5G
+- IOT
+- LTE
+excerpt: null
 layout: post
-title:  5G a IOT v roce 2019 - příprava na to, co teprve přijde
-categories: [Mobilní sítě, 5G, IOT, LTE]
-excerpt: 
+summary_points:
+- Rok 2019 přinese hlavně hype kolem 5G, ne reálné nasazení.
+- Mnoho operátorů instaluje 5G hardware, ale software není připraven.
+- T-Mobile USA plánuje 5G na 600 MHz, což zlepší pokrytí, ale sníží rychlost.
+- Čína investuje miliardy do 5G a IoT, což ji staví do vedoucí pozice.
+- IoT bude hlavním motorem růstu a opodstatněním pro 5G sítě.
+- Česko je mimo hlavní technologický proud s novinkami přicházejícími se zpožděním.
+title: 5G a IOT v roce 2019 - příprava na to, co teprve přijde
 ---
 
 Končí rok 2018, všechny telco konference a časáky se plní prognózami, slogany o IoT a nástupu sítí 5G v roce 2019. Jaká je realita, když ponecháme slogany stranou?

@@ -1,10 +1,22 @@
 ---
+categories:
+- 5G
+- Mobilní sítě
+- LTE
+- 6G
+excerpt: Odpověď je vlastně teoreticky jednoduchá. 6G. Jenže, jak může síť šesté generace
+  vypadat, k čemu by mohla být a jaká k ní bude cesta?
 layout: post
-title:  Co přijde po 5G?
-categories: [5G, Mobilní sítě, LTE, 6G]
-excerpt: Odpověď je vlastně teoreticky jednoduchá. 6G. Jenže, jak může síť šesté generace vypadat, k čemu by mohla být a jaká k ní bude cesta?
+summary_points:
+- Standardizace síťí 5G je v první fázi vývoje, definuje funkce jako Slicing, IoT
+  a V2x.
+- Release 16 rozvíjí oblasti autonomních vozidel, platooning pro kamiony a IoT.
+- Release 17 plánuje změny v rádiovém spektru, včetně NR Light a podpory zařízení
+  s nulovou klidovou spotřebou.
+- Release 21 má být prvním 6G standardem, s rychlostmi v D-Band nad 100 GHz a podporou
+  zařízení s ultranízkou latencí.
+title: Co přijde po 5G?
 ---
-
 
 Odpověď je vlastně teoreticky jednoduchá: 6G. Jenže, jak může síť šesté generace vypadat, k čemu by mohla být a jaká k ní bude cesta?
 
@@ -53,4 +65,3 @@ A do třetice ještě přijdou zařízení, o kterých netušíme ničeho. Třeb
 Velkou část kapacity má zkonzumovat virtualizace reality, tedy například obohacování obrazu do brýlí nebo kompletní generování obrazu do nich. Aby šlo o obraz oku lahodící, chtělo by to gigabitové rychlosti a nové generace displejů. To druhé se chystá, nutno nezaspat v tom prvním.
 
 Úplně stranou jsem ponechal různé „open“ iniciativy jako OpenRAN, definující otevřená rozhraní v různých částech sítě (OpenRAN logicky v rádiové přístupové části sítě) – ty jsou tu od toho, aby se daly jednoduše propojovat systémy jednotlivých dodavatelů a případně do toho všeho mohl vstoupit i nějaký opensource projekt, což se různou měrou děje.
-

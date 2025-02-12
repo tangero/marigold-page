@@ -1,12 +1,19 @@
 ---
 ID: 3854
-title: 'Dva životní příběhy lidí: boty a&nbsp;těžba kryptoměny'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-11-05 21:08:27
+post_excerpt: ''
+published: true
+summary_points:
+- Na Mobile Internet Foru objeven kvalitní firemní časopis KPMG s rozhovorem ševce
+  Radka Zachariáše.
+- Tonda Capoušek z Mladé fronty se stal nadšeným propagátorem těžení kryptoměn.
+- Oba příběhy ukazují hledání smysluplné práce přesahující rutinu.
+- Inspirací je odvaha změnit životní dráhu a najít naplnění.
+title: 'Dva životní příběhy lidí: boty a&nbsp;těžba kryptoměny'
 ---
+
 <p>Tento týden jsem potkal dva zajímavé životní příběhy, nebo se mi dokreslily. Oba na téma "jak nezůstat šedivým", jestli mi rozumíte.</p>
 
 

@@ -1,8 +1,21 @@
 ---
+categories:
+- Příběhy
+- Ekonomika
+excerpt: S ekologií je to jako s hubnutím. Nepomůže začít počítat kalorie nebo nachozené
+  kroky či snad utrhovat si od úst. Musíte úplně změnit svůj životní styl, abyste
+  svůj život neučinili nesnesitelným sebetrýzněním a sebebuzerací. Musíte přijmout
+  za své jiné pohybové i stravovací návyky, jinak se utýráte věčným evidováním každého
+  pozřeného sousta nebo úvahami o tom, kolik kilometrů na kole vám ospravedlní obědovou
+  přežíračku v trendy restauraci. Nic. Žádná. Prostě se nepřežíráte. Novou cností
+  není nekonečná poživačnost, ale snad až asketická střídmost.
 layout: post
-title:  S ekologií je to jako s hubnutím a náš úkol pro rok 2020 je to pochopit…
-categories: [Příběhy, Ekonomika]
-excerpt: S ekologií je to jako s hubnutím. Nepomůže začít počítat kalorie nebo nachozené kroky či snad utrhovat si od úst. Musíte úplně změnit svůj životní styl, abyste svůj život neučinili nesnesitelným sebetrýzněním a sebebuzerací. Musíte přijmout za své jiné pohybové i stravovací návyky, jinak se utýráte věčným evidováním každého pozřeného sousta nebo úvahami o tom, kolik kilometrů na kole vám ospravedlní obědovou přežíračku v trendy restauraci. Nic. Žádná. Prostě se nepřežíráte. Novou cností není nekonečná poživačnost, ale snad až asketická střídmost.
+summary_points:
+- Ekologie vyžaduje radikální změnu životního stylu, ne jen drobné úpravy.
+- Trvale udržitelný život znamená nový přístup, ne pouhé hledání náhrad.
+- Inovace v ekologii vyžadují lidský důvtip a přepracování stávajících procesů.
+- Transformace k udržitelnosti nabízí příležitost podobnou internetové revoluci.
+title: S ekologií je to jako s hubnutím a náš úkol pro rok 2020 je to pochopit…
 ---
 
 S ekologií je to jako s hubnutím. Nepomůže začít počítat kalorie nebo nachozené kroky či snad utrhovat si od úst. Musíte úplně změnit svůj životní styl, abyste svůj život neučinili nesnesitelným sebetrýzněním a sebebuzerací. Musíte přijmout za své jiné pohybové i stravovací návyky, jinak se utýráte věčným evidováním každého pozřeného sousta nebo úvahami o tom, kolik kilometrů na kole vám ospravedlní obědovou přežíračku v trendy restauraci. Nic. Žádná. Prostě se nepřežíráte. Novou cností není nekonečná poživačnost, ale snad až asketická střídmost.

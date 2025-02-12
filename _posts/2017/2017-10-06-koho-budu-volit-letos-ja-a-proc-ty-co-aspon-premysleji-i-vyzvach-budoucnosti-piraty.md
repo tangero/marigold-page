@@ -1,12 +1,19 @@
 ---
 ID: 3838
-title: 'Koho budu volit letos já a&nbsp;proč? Ty, co aspoň přemýšlejí i&nbsp;o&nbsp;výzvách budoucnosti. Piráty.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-10-06 18:42:13
+post_excerpt: ''
+published: true
+summary_points:
+- Internet plný útočných vzkazů o volbách je frustrující.
+- České volby jsou pro autora utrpením kvůli nedostatku ideálních kandidátů.
+- Piráti jsou volbou kvůli jejich přístupu k aktuálním tématům a vyvážené politice.
+- Volba Pirátů je kompromis, ale nabízejí zamyšlení nad podstatnými otázkami.
+title: Koho budu volit letos já a&nbsp;proč? Ty, co aspoň přemýšlejí i&nbsp;o&nbsp;výzvách
+  budoucnosti. Piráty.
 ---
+
 Internet se začíná plnit nesmiřitelnými vzkazy, kdo je nevolitelný a koho rozhodně může volit jen debil. Tak jsem si řekl, že popíšu, koho budu volit a proč bez nároku na to, shodit vaši vlastní preferenci.
 
 České volby jsou pro mne utrpení. Zatímco v rakouské politice vcelku bezproblémů identifikuju, koho volit a jehož program i osobnosti jsou mi sympatické, v té české, kde mám taktéž volební právo, jsou to posledních patnáct let volby s výhradami, v horším případě menší zlo. Nejinak letos.

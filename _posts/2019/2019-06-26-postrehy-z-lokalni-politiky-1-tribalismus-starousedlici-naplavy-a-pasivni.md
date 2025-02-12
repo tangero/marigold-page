@@ -1,8 +1,14 @@
 ---
+categories:
+- Politika
+excerpt: null
 layout: post
-title:  Postřehy z lokální politiky 1 - tribalismus, starousedlíci, náplavy a pasivní
-categories: [Politika]
-excerpt: 
+summary_points:
+- Lokální politika je o tribalismu a starousedlících, kteří mají větší vliv než argumenty.
+- Starousedlíci mají dvojí práva a akceptují dvojí metr ve prospěch sebe.
+- Náplavy přinášejí změny a konflikty s konzervativními starousedlíky.
+- Pasivní lidé zůstávají neutrální, ale mohou spojit starousedlíky a náplavy.
+title: Postřehy z lokální politiky 1 - tribalismus, starousedlíci, náplavy a pasivní
 ---
 
 Ze zatím krátkého, stále neintenzivního a velmi povrchního působení v lokální politice jsem si odnesl pár postřehů. Nedělám si nárok na pravdu, nutné zevšeobecnění také stejně nutně znepřesňuje, takže k tomuhle souhrnu prosím přistupujte tolerantně a pozitivně, snažil jsem se postihnout hlavně problémy, nikoliv pozitiva. Berte to jako moje pozorování a názory.  

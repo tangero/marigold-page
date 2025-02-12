@@ -1,8 +1,16 @@
 ---
+categories:
+- Mobilní sítě
+- Ekonomika
+excerpt: null
 layout: post
-title:  Kurs ekonomie pro ministry obchodu a průmyslu či jiné začátečníky - jak vzniká nákladová cena mobilních dat
-categories: [Mobilní sítě, Ekonomika]
-excerpt: 
+summary_points:
+- Náklady mobilních sítí zahrnují investiční (capex) a provozní (opex) výdaje.
+- Cenu sítí ovlivňují pokrytí, kapacita a rychlost přenosu dat.
+- WiFi v Česku nahradilo zpožděné 3G sítě a ovlivnilo nároky zákazníků.
+- Desetileté zanedbávání investic do sítí vedlo k vysokým cenám mobilních dat.
+title: Kurs ekonomie pro ministry obchodu a průmyslu či jiné začátečníky - jak vzniká
+  nákladová cena mobilních dat
 ---
 
 Dnes si dáme kurs ekonomie pro ministry obchodu a průmyslu či jiné začátečníky. Lekce: jak vzniká nákladová cena dat v mobilních sítích. Nebojte, to zvládnete a už nikdy neplácnete žádnou blbost o mobilních sítích ([Garantuje 9 ministrů z deseti](https://denikn.cz/74525/chcete-levnejsi-mobilni-data-pouzivejte-ta-draha-a-dejte-operatorum-napred-vydelat-radi-ministryne-novakova/?ref=marigold)).

@@ -1,8 +1,15 @@
 ---
+categories:
+- Mobilní sítě
+- Ekonomika
+excerpt: null
 layout: post
-title:  Kdy budou mobilní data v Česku levná a co se proto dá udělat
-categories: [Mobilní sítě, Ekonomika]
-excerpt: 
+summary_points:
+- Mobilní data v Česku se výrazně nezlevní v příštích 3-4 letech.
+- Operátoři nemají motivaci snižovat ceny kvůli stabilní tržní pozici.
+- Regulační tlak nebo nové technologie nezpůsobí rychlou změnu cen.
+- Česká společnost a politici nemají zájem o moderní technologie.
+title: Kdy budou mobilní data v Česku levná a co se proto dá udělat
 ---
 
 Kdy budou mobilní data v Česku levná a co se proto dá udělat? To byla asi nejčastější dotaz k mému článku vysvětlujícímu, jak se paní ministryni podařilo do cen mobilních dat tak nešťastně zamotat WiFi.

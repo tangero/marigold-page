@@ -1,11 +1,28 @@
 ---
-layout: post
-title:  Starlink, internet všude, přes satelity - dějství druhé
-categories: [Startlink, Internet, Elon Musk]
+categories:
+- Startlink
+- Internet
+- Elon Musk
 date: 7.11.2020
-excerpt: Starlink Elona Muska rozeslal tisíce dalších pozvánek do betaprovozu internetu distribuovaného ze satelitů na nízké oběžné dráze (LEO). V betaprovozu stojí *better than nothing* linka 99$, další pětistovku ovšem musí uživatelé vytlačit za terminál pro příjem satelitního signálu (článek). A linka prý momentálně frčí na nějakých 160 Mbps a 20 ms latenci, statisticky je lepší, než 95% linek v USA. Potud dobrý.
+excerpt: Starlink Elona Muska rozeslal tisíce dalších pozvánek do betaprovozu internetu
+  distribuovaného ze satelitů na nízké oběžné dráze (LEO). V betaprovozu stojí *better
+  than nothing* linka 99$, další pětistovku ovšem musí uživatelé vytlačit za terminál
+  pro příjem satelitního signálu (článek). A linka prý momentálně frčí na nějakých
+  160 Mbps a 20 ms latenci, statisticky je lepší, než 95% linek v USA. Potud dobrý.
+layout: post
+summary_points:
+- Starlink rozeslal tisíce pozvánek do betaprovozu satelitního internetu.
+- Cena betapřipojení je 99$ měsíčně plus 500$ za terminál.
+- Rychlost dosahuje 160 Mbps s latencí 20 ms, lepší než 95% linek v USA.
+- Terminál Starlinku obsahuje samonaváděcí otáčející se anténu.
+- Podmínky služby zahrnují uznání Marsu jako svobodné planety.
+- ViaSat a Hughes kritizují ekonomickou udržitelnost Starlinku.
+- Starlink splnil podmínky pro podporu z fondu RDOF.
+- Hughes investoval do krachujícího OneWebu za 50 milionů dolarů.
+- OneWeb byl prodán britské vládě a Bharti Global za 1 mld dolarů.
+- Digitální propast v USA řeší fond RDOF s rozpočtem 20 miliard dolarů.
+title: Starlink, internet všude, přes satelity - dějství druhé
 ---
-
 
 **Starlink Elona Muska**  rozeslal „tisíce“ dalších pozvánek do betaprovozu internetu distribuovaného ze satelitů na nízké oběžné dráze (LEO). V betaprovozu stojí  _„better than nothing“_  linka 99$, další pětistovku ovšem musí uživatelé vytlačit za terminál pro příjem satelitního signálu ([článek](https://futurism.com/the-byte/starlink-beta-outperformed-most-internet-us)). A linka prý momentálně frčí na nějakých 160 Mbps a 20 ms latenci, statisticky je lepší, než 95% linek v USA. Potud dobrý.
 

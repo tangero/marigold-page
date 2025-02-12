@@ -1,12 +1,18 @@
 ---
 ID: 3722
-title: 'Na detailu při&nbsp;vaření záleží'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-05-29 08:23:51
+post_excerpt: ''
+published: true
+summary_points:
+- Narozeniny Sofie se kvůli internetovému incidentu přesunuly na sobotu.
+- Otec připravil kiš koláč a medovník s pomocí umělé inteligence.
+- Recepty byly analyzovány a upraveny pro české podmínky.
+- Sofie pochválila medovník, ale všimla si nepřipečené cenovky.
+title: Na detailu při&nbsp;vaření záleží
 ---
+
 V sobotu jsme slavili narozeniny mladší dcery Sofie. Dvanáct let, to je věk, kdy oslavu narozenin budou dívky s psychoanalytikem dlouho rozebírat, takže bylo třeba se vytáhnout. Lapsus první, čtvrteční security incident na internetu oslavu posunul na sobotu, ale to se dalo ještě omluvit. Bod druhý, žena vyrazila se studenty na terénní praxi. Bod třetí: tím jsem s dětmi osiřel, naštěstí umím perfektně vařit a obstarat děti díky svojí <em>Ajťákově příručce pro kontakt s humanoidními entitami</em>.
 
 Na sobotu chystám dort a slavnostní menu. Po zralé úvaze se rozhoduji pro kiš koláč, medovník a nápoj demi glas (doufám, že tento výraz znamená Ve skleničce).

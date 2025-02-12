@@ -1,12 +1,19 @@
 ---
 ID: 3662
-title: 'Co to zase ta nána plácla o&nbsp;dětech a&nbsp;matkách? Čili lekce z&nbsp;kontextu&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-04-27 17:10:02
+post_excerpt: ''
+published: true
+summary_points:
+- Sociální média zkreslují kontext a vyvolávají zbytečné kontroverze.
+- Dítě bez otce má poloviční šanci dožití produktivního věku.
+- Ústavní péče v Česku stojí 15 000 Kč měsíčně na dítě.
+- Kvalita výchovy v úplné rodině je vyšší než v náhradní péči.
+- Historicky společnosti ostrakizovaly svobodné matky jako varování.
+title: Co to zase ta nána plácla o&nbsp;dětech a&nbsp;matkách? Čili lekce z&nbsp;kontextu&#8230;
 ---
+
 Moje facebublina se může zbláznit ze tří vět, které tento týden někdo prohlásil. Izolované věty vytržené z kontextu a už lítají debilové a odsudky, nevolitelnost, rezignace a tak. Že v Česku nesmíte používat v politice nadsázku natož ironii, Bělobrádek už nepochybně ví a já si to taky zapsal do deníčku. Že vám k aktuálnímu tématu hodí půl roku starou větu, aniž by se vysvětlilo, co a jak, náměstek ministryně školství věděl asi už před tím a teď se jen ujistil. A co chudák Chalánová, podle níž ženy bez partnera nemají nárok na výjimečnou úpravu v zákoně o dětech, což je to, co bylo pro ně ve skutečnosti požadováno? Samozřejmě kráva, dí hlas liberálního lidu, protože matka si přeci může s dítětem dělat, co chce a přivést ho klidně na svět bez jakéhokoliv zajištění.
 
 Odložme liberalismus vypěstovaný v hodnotných facebookových diskusích a podívejme se na důvod, proč se děti bez tatínků netolerovaly dříve. Důvod byl prostý, ekonomický. Dítě bez otce mělo podstatně menší šanci, že se dožije produktivního věku, kdy bude společnosti k užitku. Přesněji řečeno v průměru poloviční. To je také ekonomický a společenský důvod, proč má dítě dva rodiče: má nejenom dva zdroje poznatků a vědomostí (to už určuje i genetika), ale i zajištění. Pokud o jednoho rodiče přijde, postará se druhý.

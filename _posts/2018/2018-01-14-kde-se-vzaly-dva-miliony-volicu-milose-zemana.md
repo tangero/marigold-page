@@ -1,15 +1,27 @@
 ---
 ID: 3922
-title: >
-  Kde se vzaly dva miliony voličů
-  Miloše Zemana
 author: Patrick Zandl
-post_excerpt: "Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to ta méně vzdělaná část národa, zkrachovalci, ti hloupí. Vesničani. Rozhodli se kvůli svojí hlouposti. Ne. Ukážu vám na jednom konkrétním příkladu ze stovek existujících problémů, že šlo o velmi racionální volbu lidí, kteří se dostali mimo systém a volí nesystémové lidi."
-layout: post
-published: true
 featured: true
+layout: post
 post_date: 2018-01-14 22:25:38
+post_excerpt: Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka
+  v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je
+  to ta méně vzdělaná část národa, zkrachovalci, ti hloupí. Vesničani. Rozhodli se
+  kvůli svojí hlouposti. Ne. Ukážu vám na jednom konkrétním příkladu ze stovek existujících
+  problémů, že šlo o velmi racionální volbu lidí, kteří se dostali mimo systém a volí
+  nesystémové lidi.
+published: true
+summary_points:
+- Zemanovi voliči hledají alternativu kvůli životnímu diskomfortu a exekucím.
+- Exekuce v Česku jsou businessem, který ničí životy statisícům lidí.
+- Politici dlouhodobě ignorují problémy exekuovaných a sociálně slabých.
+- Nelítostná pravicová politika přispěla k systémové nespokojenosti a mimosystémovým
+  volbám.
+title: 'Kde se vzaly dva miliony voličů Miloše Zemana
+
+  '
 ---
+
 Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to ta méně vzdělaná část národa, zkrachovalci, ti hloupí. Vesničani. Rozhodli se kvůli svojí hlouposti.
 
 Ne. Ukážu vám na jednom konkrétním příkladu ze stovek existujících problémů, že šlo o velmi racionální volbu lidí, kteří se dostali mimo systém a volí nesystémové lidi.

@@ -1,12 +1,23 @@
 ---
 ID: 3725
-title: 'Nejvíce věříme Rusku &#8230; tedy to úplně ne, ale proč tolik alternativních pohledů?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-05-30 13:13:19
+post_excerpt: ''
+published: true
+summary_points:
+- Průzkum interpretovaný jako důvěra v Rusko signalizuje spíše pochybnosti o západní
+  společnosti.
+- Západní politika kombinuje mírotvornost s vojenskými zásahy, což vyvolává rozpory
+  a nedůvěru.
+- Konzumní společnost v Česku naráží na ekonomické limity a kulturní odmítání přehnané
+  spotřeby.
+- Pochybnosti o NATO pramení z nedostatečné reflexe jeho intervencí a jejich dlouhodobých
+  dopadů.
+title: Nejvíce věříme Rusku &#8230; tedy to úplně ne, ale proč tolik alternativních
+  pohledů?
 ---
+
 Podle průzkumu nejvíce věříme Rusku. Tedy, <a href="http://www.iri.org/sites/default/files/four_country_full_presentation_may_24_2017.pdf">průzkum to neříká zdaleka takhle</a>, ale řada novin si to interpretovala tímto směrem, což samo o sobě je signál. Na první pohled je to z pražské redakce těžké pochopit. Zkusím vám dát druhý pohled z brandýského záhumenku.
 
 Dva příklady toho, jak stojíme vedle Západu a těžko chápeme jeho pozici. Nalézáme v ní rozpory. Na jedné straně mírotvornost skrze bombardéry, na druhé důraz na ekologii, přičemž selský rozum říká, že stačí spíše méně spotřebovat, než vymýšlet ekologičtější balení.

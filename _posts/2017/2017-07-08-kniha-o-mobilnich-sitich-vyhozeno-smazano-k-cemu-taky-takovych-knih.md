@@ -1,12 +1,19 @@
 ---
 ID: 3774
-title: 'Kniha o&nbsp;mobilních sítích: vyhozeno, smazáno. K&nbsp;čemu taky takových knih.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-07-08 18:34:13
+post_excerpt: ''
+published: true
+summary_points:
+- Kniha o mobilních sítích byla téměř dokončena, ale chyběly některé kapitoly.
+- Autor ji smazal, protože cíloví čtenáři už nejsou technologií nadšeni.
+- Česko nehraje významnou roli ve vývoji mobilních technologií.
+- Autor zvažuje přepracování knihy do dětské formy pro budoucí generace.
+title: 'Kniha o&nbsp;mobilních sítích: vyhozeno, smazáno. K&nbsp;čemu taky takových
+  knih.'
 ---
+
 <p>Vloni jsem si dal závazek dodělat knihu věnovanou moderním mobilním telekomunikačním sítím. Zhruba jsem ji dodělal. Chyběly mi kapitoly věnované kusům GSM sítí, které se nikdy moc nechytily (jako HSCSD), pár textů kolem nových konceptů v sítích 4G a 5G, které ještě ani nemají standard. Před pár dny jsem ji celou vyhodil. Smazal.</p>
 
 

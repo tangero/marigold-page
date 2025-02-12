@@ -1,8 +1,17 @@
 ---
+categories:
+- Blockchain
+- Krypto
+- Energetika
+excerpt: null
 layout: post
-title:  Blockchain v energetice
-categories: [Blockchain, Krypto, Energetika]
-excerpt: 
+summary_points:
+- Blockchain může odstranit prostředníky v energetice a snížit ceny elektřiny.
+- Implementace blockchainu v energetice vyžaduje překonání právních a technických
+  překážek.
+- Uživatelé by museli aktivně spravovat nákup elektřiny, což přináší rizika.
+- Motivace firem pro blockchain v energetice je často spojena s udržením části provizí.
+title: Blockchain v energetice
 ---
 
 Výzva, ať se  [lidé zkusí zamyslet nad tím, jak by mohl být blockchain přínosný pro republiku](/postavime-republiku-na-blockchainu-kdyz-vas-napadne-jak-dostanete-trezor), se uchytila, pár zajímavých nápadů se objevilo. Zejména na Facebooku mě ale nepříjemně překvapilo počet mektalů. Jasně, že blockchain nepostaví dálnice, jenže my máme milion věcí, co je potřeba řešit a to blblání u lidí jako Martin Jaroš spíš zaráží.

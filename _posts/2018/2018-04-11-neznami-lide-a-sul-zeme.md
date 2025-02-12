@@ -1,13 +1,18 @@
 ---
 ID: 3938
-title: 'Neznámí lidé a&nbsp;sůl země'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-
-published: true
 post_date: 2018-04-11 21:35:15
+post_excerpt: ''
+published: true
+summary_points:
+- Noviny ukazují zemi jako beznadějnou, ale realita je jiná.
+- Lidé v Česku tvoří a realizují nápady navzdory byrokracii.
+- Největší hodnotu mají neznámí lidé, kteří dělají věci pro radost.
+- Uznání a podpora těchto lidí zlepšuje život pro všechny.
+title: Neznámí lidé a&nbsp;sůl země
 ---
+
 <div id="js_6" class="_5pbx userContent _22jv _3576" data-ft="{&quot;tn&quot;:&quot;K&quot;}">
 
 Stačí mi otevřít si noviny, abych se dozvěděl, že téhle zemi už není pomoci. Zbídačená, s neschopným politickým vedením, zakletá. S obyvateli, z nichž polovina je dementní, druhá v emigraci či jak to říká její vlastní prezident. Bralo mi to chuť do života. Pak jsem přestal číst noviny.

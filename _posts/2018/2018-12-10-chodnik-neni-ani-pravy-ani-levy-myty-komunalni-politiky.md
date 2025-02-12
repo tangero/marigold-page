@@ -1,10 +1,16 @@
 ---
+categories:
+- Politika
+excerpt: null
 layout: post
-title:  Chodník není ani pravý, ani levý čili mýty komunální politiky
-categories: [Politika]
-excerpt: 
+summary_points:
+- Chodník je politický, financuje se z levicových nebo pravicových zdrojů.
+- Levice financuje chodníky z daní a dotací, pravice z přímých příspěvků občanů.
+- Hybridní model kombinuje oba přístupy, osciluje mezi pravo-levým financováním.
+- Politická rétorika o „nepolitickém chodníku“ je často skrytou podporou stávajícího
+  systému.
+title: Chodník není ani pravý, ani levý čili mýty komunální politiky
 ---
-
 
 Chodník není ani pravý, ani levý (neboli dělba pravice/levice není mrtvá) – pozor, je to delší článek 🙂
 
