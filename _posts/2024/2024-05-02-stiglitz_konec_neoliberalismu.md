@@ -1,10 +1,20 @@
 ---
-layout: post
-title:  Joseph Stiglitz - Konec neoliberalismu a znovuzrození dějin 
-categories: [Ekonomika]
-excerpt: Český překlad eseje amerického nobelisty za ekonomii Josepha Stiglitze. Čtyřicet let elity v bohatých i chudých zemích slibovaly, že neoliberální politika povede k rychlejšímu hospodářskému růstu a že výhody se budou šířit dolů, takže se budou mít lépe všichni, včetně těch nejchudších. Nyní, když se toto nepotvrdilo, lze se divit, že důvěra v elity a důvěra v demokracii prudce poklesla?
-thumbnail: https://uplandseconyear12ib.weebly.com/uploads/1/3/4/3/13432222/7702367_orig.jpg
+categories:
+- Ekonomika
+excerpt: Český překlad eseje amerického nobelisty za ekonomii Josepha Stiglitze. Čtyřicet
+  let elity v bohatých i chudých zemích slibovaly, že neoliberální politika povede
+  k rychlejšímu hospodářskému růstu a že výhody se budou šířit dolů, takže se budou
+  mít lépe všichni, včetně těch nejchudších. Nyní, když se toto nepotvrdilo, lze se
+  divit, že důvěra v elity a důvěra v demokracii prudce poklesla?
 featured: true
+layout: post
+summary_points:
+- Neoliberalismus nesplnil sliby o sdílené prosperitě.
+- Voliči trestají elity za nerovnoměrný ekonomický růst.
+- Neoliberální politika podkopala důvěru v demokracii.
+- Klimatická krize vyžaduje obnovu osvícenských hodnot.
+thumbnail: https://uplandseconyear12ib.weebly.com/uploads/1/3/4/3/13432222/7702367_orig.jpg
+title: Joseph Stiglitz - Konec neoliberalismu a znovuzrození dějin
 ---
 
 Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalosti či pominutí smyslů. Že by tito voliči měli prokázat, že rozumí trhům a demokracii. Jenže taková situace není. Voliči masivně trestají dnešní politické elity za porušení nepsané společenské dohody, která voličům měla zajistit účast na ekonomickém růstu výměnou za politickou podporu. Jenže dnešní otázka běžného minoritního voliče je "když jste tak chytří, tak jak se stalo, že se nemáme rok od roku lépe?" Situaci skvěle popisuje Joseph Stiglitz ve své eseji [Konec neoliberalismu a znovuzrození dějin](https://economics.utoronto.ca/gindart/2019-11-04%20-%20The%20end%20of%20neoliberalism%20and%20the%20rebirth%20of%20history.pdf), kterou jsem z angličtiny přeložil. 
@@ -33,5 +43,4 @@ Nikde nebyla tato netolerance větší než v makroekonomii, kde převládajíc�
 
 Teorie nadále přežívají a ptolemaiovsky se snaží přizpůsobit skutečnostem, což svědčí o tom, že jednou zavedené špatné myšlenky velmi pomalu umírají. Pokud nás finanční krize z roku 2008 nepřiměla uvědomit si, že neomezené trhy nefungují, klimatická krize by to rozhodně udělat měla: neoliberalismus přinese doslova konec naší civilizace. 
 
-Je však také jasné, že demagogové, kteří by nás chtěli přimět, abychom se k vědě a toleranci obrátili zády, situaci jen zhorší. Jedinou cestou vpřed, jedinou cestou k záchraně naší planety a naší civilizace je obroda dějin. Musíme oživit osvícenství a znovu se přihlásit k ctění jeho hodnot svobody, úcty k vědění a demokracii. 
-
+Je však také jasné, že demagogové, kteří by nás chtěli přimět, abychom se k vědě a toleranci obrátili zády, situaci jen zhorší. Jedinou cestou vpřed, jedinou cestou k záchraně naší planety a naší civilizace je obroda dějin. Musíme oživit osvícenství a znovu se přihlásit k ctění jeho hodnot svobody, úcty k vědění a demokracii.

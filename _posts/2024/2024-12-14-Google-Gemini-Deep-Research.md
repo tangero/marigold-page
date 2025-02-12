@@ -1,10 +1,20 @@
 ---
-title: "Google Gemini Deep Research - skvělý průzkum tématu s pomocí AI"
 author: Patrick Zandl
-post_excerpt: "Google představil funkci pro průzkum tématu nazvanou příhodně Deep Research. Jak ji můžete využít?"
+categories:
+- AI
+- Google
+- Gemini
 layout: post
-categories: [AI, Google, Gemini]
+post_excerpt: Google představil funkci pro průzkum tématu nazvanou příhodně Deep Research.
+  Jak ji můžete využít?
+summary_points:
+- 1. Deep Research v Gemini provádí hloubkový výzkum a vytváří zprávy.
+- 2. Funkce funguje pouze v angličtině, vyžaduje přepnutí jazyka.
+- 3. AI může "halucinovat" při nedostatku dat, ověřte výsledky.
+- 4. Výstup zahrnuje podrobné analýzy s odkazy na zdroje.
+- 5. Pro češtinu použijte překladače jako Deepl nebo Google Translator.
 thumbnail: https://cdn.iphoneincanada.ca/wp-content/uploads/2024/12/Gemini_Research.jpg
+title: Google Gemini Deep Research - skvělý průzkum tématu s pomocí AI
 ---
 
 Tahle funkce [Google Gemini](https://gemini.google.com) je naprosto úžasná v případě, že potřebujete důkladně prozkoumat nějaké téma. Jmenuje se Deep Research a dělá přesně to, co píše: hluboký průzkum, ze kterého pak udělá zprávu. 
@@ -87,5 +97,3 @@ Pro praktické využití byly vyvinuty systémy, které:
 - Mohou být propojeny se systémem zapalování pro prevenci jízdy přetíženého vozidla[3]
 
 Tyto systémy jsou zvláště důležité v rozvojových zemích, kde nejsou běžně dostupné vážní stanice, a pomáhají předcházet poškození infrastruktury a nehodám způsobeným přetěžováním vozidel.
-
-

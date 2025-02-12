@@ -1,11 +1,23 @@
 ---
-title: Návštěva restaurace po týdenním přechodu hor v klasickém stylu 
 author: Patrick Zandl
-post_excerpt: "Už týden jsem se toulal Slavkovským lesem a Krušnohořím. Celý ten den se rozjížděl slušný nečas, já byl promočený, od bahna, přitom meteoradar hlásil, že bouře se vším všudy teprve přijde. I tu náhle jsem po cestě nad Varama uviděl otevřenou restauraci. Akorát, že když jsem se k ní přiblížil, ukázalo se, že je velmi nóbl. Jenže do toho se protrhla obloha a mě se fakt nechtělo pokračovat, Vstoupil jsem do lobby, oklepal ze sebe vodu i bahno a zamířil jsem ke dveřím do restaurace, neboť se mi zlíbilo povečeřet. "
+categories:
+- Příběhy
 layout: post
-categories: [Příběhy]
+post_excerpt: 'Už týden jsem se toulal Slavkovským lesem a Krušnohořím. Celý ten den
+  se rozjížděl slušný nečas, já byl promočený, od bahna, přitom meteoradar hlásil,
+  že bouře se vším všudy teprve přijde. I tu náhle jsem po cestě nad Varama uviděl
+  otevřenou restauraci. Akorát, že když jsem se k ní přiblížil, ukázalo se, že je
+  velmi nóbl. Jenže do toho se protrhla obloha a mě se fakt nechtělo pokračovat, Vstoupil
+  jsem do lobby, oklepal ze sebe vodu i bahno a zamířil jsem ke dveřím do restaurace,
+  neboť se mi zlíbilo povečeřet. '
+summary_points:
+- První samostatný horský výlet se synem vyvolal vzpomínky.
+- Nóbl restaurace ve Slavkovském lese poskytla úkryt před bouří.
+- Elegantní pán improvizoval, aby hosta nenápadně ubytoval.
+- Zážitek s luxusní večeří měl vysokou cenu, ale stál za to.
+- Odhalení neznámého hosta při odchodu vyvolalo překvapení.
 thumbnail: https://www.marigold.cz/assets/hory-restaurace.png
-
+title: Návštěva restaurace po týdenním přechodu hor v klasickém stylu
 ---
 
 Poprvé jsme se synem (14 let) šli sami přes hory, natěžko, na pár dní. A při tom jsem si vzpomněl na příhodu dva roky starou ze Slavkovského lesa. 

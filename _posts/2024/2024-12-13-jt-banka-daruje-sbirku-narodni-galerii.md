@@ -1,9 +1,16 @@
 ---
-title: "J&T daruje sbírku moderního umění Národní galerii"
-post_excerpt: "Tohle je tak ojedinělý počin, že se u něj musím zastavit. J&T Banka daruje Národní galerii třicítku obrazů mladých umělců - svou sbírku mladého umění."
+categories:
+- Umění
+- Obrazy
 layout: post
-categories: [Umění, Obrazy]
+post_excerpt: Tohle je tak ojedinělý počin, že se u něj musím zastavit. J&T Banka
+  daruje Národní galerii třicítku obrazů mladých umělců - svou sbírku mladého umění.
+summary_points:
+- J&T Banka daruje sbírku moderního umění Národní galerii. Sbírka má hodnotu kolem
+  18 milionů korun. Dar posílí sekci současného umění Národní galerie. Sbírka bude
+  brzy vystavena ve Veletržním paláci.
 thumbnail: https://admin.www.ngprague.cz/images/6732/Smlouva-NGP-JT-banka_foto_AdelaKremplova-(3).jpg
+title: J&T daruje sbírku moderního umění Národní galerii
 ---
 
 Tohle mi přijde velké a důležité. J&T Banka se rozhodla [předat svou sbírku moderního umění Národní galerii](https://www.ngprague.cz/o-nas/novinky/jt-banka-predava-svou-soukromou-sbirku-soucasneho-umeni-narodni-galerii-praha). J&T tradičně umění podporuje s velkým vkusem, vykupovala díla od mladých umělců oceněných Chalupeckeho cenou. A tím jim pomohla odstartovat kariéru. Rittstein nebo Koťátková by mohli vyprávět. 

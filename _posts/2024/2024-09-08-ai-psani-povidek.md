@@ -3,14 +3,18 @@ audio_url: http://www.marigold.cz/audio/2024-09-08-ai-psani-povidek.mp3
 author: Patrick Zandl
 categories:
 - AI
-- "Um\u011Bl\xE1 inteligence"
+- Umělá inteligence
 layout: post
-post_excerpt: "Poprv\xE9 jsem skute\u010Dn\u011B psal beletristick\xFD text s pomoc\xED\
-  \ um\u011Bl\xE9 inteligence. A mus\xEDm \u0159\xEDct, \u017Ee mi dost pom\xE1hala.\
-  \ Jak jsem vyu\u017Eil AI pro psan\xED scifi pov\xEDdky, kde mi pomohla a kde m\xE1\
-  \ svoje limity?"
+post_excerpt: Poprvé jsem skutečně psal beletristický text s pomocí umělé inteligence.
+  A musím říct, že mi dost pomáhala. Jak jsem využil AI pro psaní scifi povídky, kde
+  mi pomohla a kde má svoje limity?
+summary_points:
+- AI používám pro faktografické texty, ne pro beletrii.
+- Eklog je technologie sledující přínosnost v bezhotovostní společnosti.
+- AI pomohla promyslet svět, ale nepsala příběh samostatně.
+- Povídka zkoumá transparentnost a její společenské důsledky.
 thumbnail: https://www.marigold.cz/assets/aipovidky.png
-title: "S psan\xED beletrie u\u017E AI pom\u016F\u017Ee"
+title: S psaní beletrie už AI pomůže
 ---
 
 Umělou inteligenci k psaní článků používám poměrně dlouho, ale zatím vždy to bylo pro psaní faktograficky orientovaných textů. Pro beletrii jsem ji nepoužíval, protože samotné generování beletristického textu mi nedávalo výsledek, který by stál za to. Text nemá spád, bývá naivní, plný klišé. Možná to jde poladit lepším promptováním, ale to já rychleji napíšu lepší text, než to napromptuji do Claude. 
@@ -133,6 +137,4 @@ Svět je nám blízký, na natažení ruky, protože obsahuje technologie, kter�
 
 Je pravda, že když jsem nechal Claude napsat samostatný text, nedal se do povídky použít. Například jsem Claude nechal navrhnout řeč na zasedání vlády, ale byla plná klišé, neměla dynamiku, nešla použít. Jenomže byla plná naťuknutí, výstup Claude mě nakonec navedl na vcelku atraktivní průběh, se kterým jsem spokojen. Jistě, že bych si k tomu všemu nějak došel sám, ale za podstatně více mého času. Celý svět bych si promýšlel při mnoha bězích, než by mi to dávalo smysl. V tomhle byla pomoc AI neocenitelná. 
 
-Otázka je, zda jednou bude AI schopná napsat příběh samostatně. Ještě před pěti lety bych si to nemyslel. Nevěřil bych, že bude AI schopná tvůrčího procesu, protože jsem nikde neviděl ani známku toho, že by byla někde na začátku. Dnes je vidět, že konstrukce příběhu odpovídá cca patnáctiletému člověku - a tedy, že jsme začali. A že AI je schopná se učit. Je zajímavé, že její kombinatorické a analytické schopnosti jsou vyšší, než ty tvůrčí. Umí vymyslet kostru, chytlavé body, ale neumí z nich udělat dobře plynoucí děj, rozhovor, příběh. Tam ještě živého zkušeného autora nenahradí. Ale dejme tomu pár let a i to přijde... 
-
-   
+Otázka je, zda jednou bude AI schopná napsat příběh samostatně. Ještě před pěti lety bych si to nemyslel. Nevěřil bych, že bude AI schopná tvůrčího procesu, protože jsem nikde neviděl ani známku toho, že by byla někde na začátku. Dnes je vidět, že konstrukce příběhu odpovídá cca patnáctiletému člověku - a tedy, že jsme začali. A že AI je schopná se učit. Je zajímavé, že její kombinatorické a analytické schopnosti jsou vyšší, než ty tvůrčí. Umí vymyslet kostru, chytlavé body, ale neumí z nich udělat dobře plynoucí děj, rozhovor, příběh. Tam ještě živého zkušeného autora nenahradí. Ale dejme tomu pár let a i to přijde...

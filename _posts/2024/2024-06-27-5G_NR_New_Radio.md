@@ -1,9 +1,22 @@
 ---
-title: New Radio (NR) v Release 15&#8282; Revoluční základ pro 5G sítě  
-post_excerpt: "3GPP Release 15, finalizovaný v roce 2018, představuje milník v evoluci mobilních sítí. Jádrem tohoto vydání je New Radio (NR), zcela nové rádiové rozhraní navržené speciálně pro 5G sítě. NR přináší zásadní změny v architektuře a funkčnosti mobilních sítí, což umožňuje dosáhnout tolik žádaný výkon, flexibilitu a škálovatelnost."
+categories:
+- Mobilní sítě
+- 5G
+hide: true
 layout: post
-categories: [Mobilní sítě, 5G]
-hide: true 
+post_excerpt: 3GPP Release 15, finalizovaný v roce 2018, představuje milník v evoluci
+  mobilních sítí. Jádrem tohoto vydání je New Radio (NR), zcela nové rádiové rozhraní
+  navržené speciálně pro 5G sítě. NR přináší zásadní změny v architektuře a funkčnosti
+  mobilních sítí, což umožňuje dosáhnout tolik žádaný výkon, flexibilitu a škálovatelnost.
+summary_points:
+- 1. 3GPP Release 15 zavedl New Radio pro 5G v roce 2018.
+- 2. NR přináší flexibilní strukturu rámce a škálovatelné číslování nosných.
+- 3. Podporuje mmWave frekvence a masivní MIMO s beamformingem.
+- 4. NR cílí na latenci pod 1 ms a teoretickou rychlost až 20 Gbps.
+- 5. Network slicing umožňuje virtuální sítě na stejné infrastruktuře.
+- 6. NR podporuje až 1 milion zařízení na km2.
+- 7. Dále se vyvíjí v Release
+title: New Radio (NR) v Release 15&#8282; Revoluční základ pro 5G sítě
 ---
 
 3GPP Release 15, finalizovaný v roce 2018, představuje milník v evoluci mobilních sítí. Jádrem tohoto vydání je New Radio (NR), zcela nové rádiové rozhraní navržené speciálně pro 5G sítě. NR přináší zásadní změny v architektuře a funkčnosti mobilních sítí, což umožňuje dosáhnout tolik žádaný výkon, flexibilitu a škálovatelnost.

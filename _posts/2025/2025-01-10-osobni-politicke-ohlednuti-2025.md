@@ -1,14 +1,27 @@
 ---
-title: Zúčtování s rokem 2024 a nahlížení do politiky verze 50
-author: Patrick Zandl
-post_excerpt: "Rok 2024 pro mne měl několik momentů, pro který ho považuji za jeden z nejtěžších v mém životě, ačkoliv to celkově a osobně pro mě byl zároveň jeden z nejlepších roků mého života. Vynechávám teď fakt, že jsem měl padesáté narozeniny, ale to je přeci přípustný moment k ohlédnutí. Zejména tomu politickému.V tomto ohledu to byl rok osobní deziluze. "
-layout: post
-categories: [Politika, Piráti]
-thumbnail: https://www.marigold.cz/assets/patrick-forbes-next.jpg
 audio_url: https://www.marigold.cz/audio/2025-01-10-osobni-politicke-ohlednuti-2025.mp3
+author: Patrick Zandl
+categories:
+- Politika
+- Piráti
+layout: post
+post_excerpt: 'Rok 2024 pro mne měl několik momentů, pro který ho považuji za jeden
+  z nejtěžších v mém životě, ačkoliv to celkově a osobně pro mě byl zároveň jeden
+  z nejlepších roků mého života. Vynechávám teď fakt, že jsem měl padesáté narozeniny,
+  ale to je přeci přípustný moment k ohlédnutí. Zejména tomu politickému.V tomto ohledu
+  to byl rok osobní deziluze. '
+summary_points:
+- Rok 2024 byl nejtěžší i nejlepší v mém životě.
+- Odvolání z postu místostarosty ukázalo politickou nestabilitu.
+- Politika vyžaduje vedlejší příjem kvůli nejistotě financí.
+- Skandinávské systémy jsou metodické a důvěryhodné.
+- Česká politika upřednostňuje zájmy stran před pokrokem.
+- Mediální nezávislost je iluze ovlivněná zájmy majitelů.
+- Agresivita a hrozby demotivují politickou angažovanost.
+- Česko potřebuje
+thumbnail: https://www.marigold.cz/assets/patrick-forbes-next.jpg
+title: Zúčtování s rokem 2024 a nahlížení do politiky verze 50
 ---
-
-
 
 Rok 2024 pro mne měl několik momentů, pro který ho považuji za jeden z nejtěžších v mém životě, ačkoliv to celkově a osobně pro mě byl zároveň jeden z nejlepších roků mého života. Vynechávám teď fakt, že jsem měl padesáté narozeniny, ale to je přeci přípustný moment k ohlédnutí. Zejména tomu politickému. 
 

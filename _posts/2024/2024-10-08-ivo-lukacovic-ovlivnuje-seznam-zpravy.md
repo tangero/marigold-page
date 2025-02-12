@@ -1,12 +1,24 @@
 ---
-title: "Jak rozvášněný majitel pohřbil serióznost Seznam Zpráv"
 author: Patrick Zandl
-post_excerpt: "Málokdy se podaří redakci významného média tolik ztratit tolik na renomé, jak se za poslední dva týdny podařilo Seznam Zprávám v efektu připomínajícím kazu Branšnářství Tlustý. Zatímco dosud byly Seznam Zprávy vnímány jako renomované a nezávislé médium, ukázalo se, že jsou pro svého majitele jen atomovým kufříkem, který neváhá použít pro podporu svých politických preferencí. "
+categories:
+- Seznam
+- Internet
+- Média
 layout: post
-categories: [Seznam, Internet, Média]
+post_excerpt: 'Málokdy se podaří redakci významného média tolik ztratit tolik na renomé,
+  jak se za poslední dva týdny podařilo Seznam Zprávám v efektu připomínajícím kazu
+  Branšnářství Tlustý. Zatímco dosud byly Seznam Zprávy vnímány jako renomované a
+  nezávislé médium, ukázalo se, že jsou pro svého majitele jen atomovým kufříkem,
+  který neváhá použít pro podporu svých politických preferencí. '
+summary_points:
+- Seznam Zprávy ztratily renomé kvůli kontroverznímu vyhazovu analytiků.
+- Majitel Seznamu Ivo Lukačovič ovlivňuje obsah médií podle svých preferencí.
+- Vyhození novináři popírají korupci a zahájili vlastní projekt.
+- Nevydaný článek unikl z redakce, vyvolal podezření na předávání textů politickým
+  stranám.
 thumbnail: https://d39-a.sdn.cz/d_39/c_img_QM_K/p59J.jpeg
+title: Jak rozvášněný majitel pohřbil serióznost Seznam Zpráv
 ---
-
 
 Málokdy se podaří redakci významného média tolik ztratit tolik na renomé, jak se za poslední dva týdny podařilo Seznam Zprávám v efektu připomínajícím kazu Branšnářství Tlustý. Zatímco dosud byly Seznam Zprávy vnímány jako renomované a nezávislé médium, ukázalo se, že jsou pro svého majitele jen atomovým kufříkem, který neváhá použít pro podporu svých politických preferencí. Jenže zatímco neobratnému [brašnářství Tlustý](https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-ukazuje-to-silu-i-nebezpeci-socialnich-siti-rika-novinar-k-brasnarstvi-tlusty-257717) se vysmála většina médií, na Seznam si zatím netroufl nikdo. Je to až příliš vlivný hráč na to, aby si jej za přešlap dovolili ostatní kárat.
 
@@ -86,4 +98,3 @@ PS: Dne 7.10.2024 vydal ČSÚ oficiální data o počtu vyřízených stavebníc
 <blockquote class="twitter-tweet"><p lang="cs" dir="ltr">📈👷Počty stavebních povolení v grafu? <br>Tady jsou. <br><br>1️⃣ nedošlo k žádnému poklesu počtu vydaných povolení, kromě každoročního poklesu sezónního<br>2️⃣ průměrné ceny schválených projektů jsou stejné, tj. neschvalují se jen drobnosti, jak někdo tvrdí. <br>3️⃣ ano, v červenci a srpnu se… <a href="https://t.co/6reaKR6CyM">pic.twitter.com/6reaKR6CyM</a></p>&mdash; Patrick Zandl (@tangero) <a href="https://twitter.com/tangero/status/1843255857800171837?ref_src=twsrc%5Etfw">October 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 PPS: Těsně po dopsání tohoto zápisu vydal článek [Page not Found a Jakub Zelenka](https://pagenotfound.cz/clanek/vlastnik-seznamu-odmita-narceni-ze-by-zasahoval-do-redakce). Přináší krátká Whatsapp vyjádření od Iva Lukačoviče, které je spíše emotivní, než světlo přinášející.
-

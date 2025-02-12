@@ -13,3 +13,5 @@ assets/.DS_Store
 /_site
 .DS_Store
 .DS_Store
+generate_local_summaries.py
+/.venv

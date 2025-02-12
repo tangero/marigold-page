@@ -1,12 +1,23 @@
 ---
-title: "ChatGPT Úlohy a Customizace"
+audio_url: null
 author: Patrick Zandl
-post_excerpt: "OpenAI nedávno představila režim Úlohy a nově i Přizpůsobení. Úlohy umožňují provedení promptu v určitý čas, Přizpůsobení pak umožní detailněji nastavit, jak s vámi má AI mluvit. Jak na to?"
+categories:
+- AI
+- ChatGPT
+- OpenAI
 layout: post
-categories: [AI, ChatGPT, OpenAI]
+post_excerpt: OpenAI nedávno představila režim Úlohy a nově i Přizpůsobení. Úlohy
+  umožňují provedení promptu v určitý čas, Přizpůsobení pak umožní detailněji nastavit,
+  jak s vámi má AI mluvit. Jak na to?
+summary_points:
+- OpenAI představila funkce Úlohy a Přizpůsobení.
+- Úlohy umožňují plánované vykonávání promptů s notifikacemi.
+- Přizpůsobení umožňuje detailní nastavení způsobu komunikace s AI.
+- Úlohy jsou omezeny na 10 současně spuštěných a jsou dostupné jen v placených programech.
 thumbnail: https://www.marigold.cz/assets/Custom-Instructions-UI.png
-audio_url: 
+title: ChatGPT Úlohy a Customizace
 ---
+
 OpenAI nedávno představila režim Úlohy a nově i Přizpůsobení. Úlohy umožňují provedení promptu v určitý čas, Přizpůsobení pak umožní detailněji nastavit, jak s vámi má AI mluvit. Jak funkce použít?
 
 ### ChatGPT Úlohy
@@ -40,4 +51,4 @@ Další poměrně žhavou novinkou je režim Přizpůsobení. Tedy, možnost př
 
 Nově Přizpůsobení umožňuje lepší strukturu zadání přizpůsobovacích dat. Zvláště si můžete nastavit, jak vás ChatGPT má oslovovat, kdo jste - jaké máte povolání či co děláte a také, jaké vlastnosti ChatGPT má mít, třeba trpělivost, má být skeptické nebo poetické atd. Můžete si nastavit, jaké hodnoty zastáváte vy, jaké máte zájmy a další informace, které mohou být obohacujícím kontextem pro ChatGPT. 
 
-Funkce se nicméně zatím teprve nasazuje, takže počítejte s tím, že ji v menu můžete ještě najít ve staré podobě.     
+Funkce se nicméně zatím teprve nasazuje, takže počítejte s tím, že ji v menu můžete ještě najít ve staré podobě.

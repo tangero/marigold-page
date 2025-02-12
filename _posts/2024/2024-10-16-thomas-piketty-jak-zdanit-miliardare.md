@@ -1,10 +1,20 @@
 ---
-title: "Thomas Piketty: Jak zdanit miliardáře"
 author: Patrick Zandl
-post_excerpt: "Nový návrh francouzského ekonoma a kritika nerovnosti Thomase Pikettyho na uvalení desetiprocentní majetkové daně na velké majetky. Proč a nač?"
+categories:
+- ekonomika
+- společnost
 layout: post
-categories: [ekonomika, společnost]
+post_excerpt: Nový návrh francouzského ekonoma a kritika nerovnosti Thomase Pikettyho
+  na uvalení desetiprocentní majetkové daně na velké majetky. Proč a nač?
+summary_points:
+- Thomas Piketty navrhuje 10% daň z majetku francouzských miliardářů.
+- Bohatství 500 nejbohatších Francouzů vzrostlo o 1 000 miliard eur od 2010.
+- Barnierova daň z příjmů by přinesla výrazně méně než daň z majetku.
+- Rozpočtové škrty dopadají hlavně na lidi s nejnižšími příjmy.
+- Nezbytné je nezpochybnitelné zdanění nejbohatších pro řešení sociálních a klimatických
+  výzev.
 thumbnail: https://www.challenges.fr/assets/img/2017/06/30/cover-r4x3w1200-5baa35f02b86b-thomas-piketty.jpg
+title: 'Thomas Piketty: Jak zdanit miliardáře'
 ---
 
 V polovině října vydal francouzský ekonom Thomas Piketty článek v [Le Monde pod provokativním nápisem "Jak zdanit miliardáře"](https://www.lemonde.fr/blog/piketty/2024/10/15/how-to-tax-billionaires/). Připomeňme si: Piketty je setrvalý sledovatel a kritik narůstající nerovnosti v ekonomice. A autor Kapitálu v 21. století. Nelze se tedy divit, že předkládá radikální návrhy: zdanit plošně francouzské miliardáře alespoň desetiprocentní daní z majetku. 

@@ -1,10 +1,21 @@
 ---
+categories:
+- Hudba
+- Intelektuální práva
+excerpt: Před čtvrtstoletím odstartovala služba Napster, která změnila svět hudby
+  a filmu. Službu založili Shawn Fanning a Sean Parker a umožňovala pohodlné sdílení
+  a stahování hudebních souborů. Do té doby hudební průmysl svorně tvrdil, že nic
+  takového nemůže fungovat a lidé to nebudou používat.
 layout: post
-title:  Před čtvrtstoletím odstartoval Napster a změnil svět hudby
-categories: [Hudba, Intelektuální práva]
-excerpt: Před čtvrtstoletím odstartovala služba Napster, která změnila svět hudby a filmu. Službu založili Shawn Fanning a Sean Parker a umožňovala pohodlné sdílení a stahování hudebních souborů. Do té doby hudební průmysl svorně tvrdil, že nic takového nemůže fungovat a lidé to nebudou používat. 
-post_date: 2024-1-6 13:48:16
+post_date: 2024-01-06 13:48:16
+summary_points:
+- Napster spustil digitální revoluci hudebního průmyslu v roce 1999.
+- Napster měl přes 80 milionů uživatelů před svým zrušením v roce 2002.
+- Metallica přispěla k pádu Napsteru mapováním nelegálního šíření hudby.
+- Apple využil příležitost k rozvoji iTunes a iPodu.
+- Shawn Fanning a Sean Parker pokračovali v technologických projektech.
 thumbnail: https://s.libertaddigital.com/fotos/noticias/1920/1080/fit/napster-050613.jpg
+title: Před čtvrtstoletím odstartoval Napster a změnil svět hudby
 ---
 
 Před čtvrtstoletím odstartovala služba Napster, která změnila svět hudby a filmu. Službu založili Shawn Fanning a Sean Parker a umožňovala pohodlné sdílení a stahování hudebních souborů. Do té doby hudební průmysl svorně tvrdil, že nic takového nemůže fungovat a lidé to nebudou používat. 
@@ -17,4 +28,4 @@ Revoluce v digitálním šíření hudby se tím nezastavila, naopak začala. Ap
 
 Parker se později stal prvním prezidentem Facebooku, investoval do Spotify a založil Parkerův institut pro imunoterapii rakoviny. Fanning spustil chatovací službu Airtime, která měla otřesný ohlas kvůli nedodělanosti. V roce 2013 založil Helium Systems, decentralizovaný IoT systém s LoRa sítí placený tokeny. Firmě se zatím nijak zvláště nedaří.
 
-Pro více kontextu doporučím přečíst můj článek [Smutná čísla o smrti hudebního průmyslu](https://www.lupa.cz/clanky/smutna-cisla-o-smrti-hudebniho-prumyslu/) z roku 2011 na Lupě. 
+Pro více kontextu doporučím přečíst můj článek [Smutná čísla o smrti hudebního průmyslu](https://www.lupa.cz/clanky/smutna-cisla-o-smrti-hudebniho-prumyslu/) z roku 2011 na Lupě.

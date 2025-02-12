@@ -1,12 +1,23 @@
 ---
+categories:
+- Mobilní sítě
+- 5G
+- 5G Advanced
+- 4G
+excerpt: V květnu letošního roku dostaly sítě 6G své oficiální logo a zároveň s tím
+  se dokončila specifikace 5G Advanced v podobě 3GPP Rel-18. Kam bude mířit svět mobilních
+  sítí  po páté generaci? Zatím se nestresujte, první sítě se v realitě (ne té marketingové)
+  objeví tak kolem roku 2028.
 layout: post
-title:  Mobilní sítě 5G Advanced ve specifikaci Rel-18
-categories: [Mobilní sítě, 5G, 5G Advanced, 4G]
-excerpt: V květnu letošního roku dostaly sítě 6G své oficiální logo a zároveň s tím se dokončila specifikace 5G Advanced v podobě 3GPP Rel-18. Kam bude mířit svět mobilních sítí  po páté generaci? Zatím se nestresujte, první sítě se v realitě (ne té marketingové) objeví tak kolem roku 2028.
-post_date: 2024-9-6 13:48:16
+post_date: 2024-09-06 13:48:16
+summary_points:
+- 6G logo oficiálně představeno v květnu 2024.
+- 5G Advanced specifikace dokončena v 3GPP Rel-18.
+- První reálné 6G sítě očekávány kolem roku 2028.
+- Rel-18 zahrnuje satelitní propojení a AI podporu.
 thumbnail: https://www.aewin.com/wp-content/uploads/2022/08/5G_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F-1-2048x1072.jpg
+title: Mobilní sítě 5G Advanced ve specifikaci Rel-18
 ---
-
 
 V květnu letošního roku dostaly sítě 6G své oficiální logo a zároveň s tím se dokončila specifikace 5G Advanced v podobě 3GPP Rel-18. Kam bude mířit svět mobilních sítí  po páté generaci? Zatím se nestresujte, první sítě se v realitě (ne té marketingové) objeví tak kolem roku 2028.
 
@@ -38,5 +49,4 @@ Po pravdě jsem vynechal většinu vnitřně architektonických záležitostí R
 
 Co mi naopak přijde zajímavé, je dlouhodobé hledání nových frekvencí. 5G Advanced si dnes poradí s velkou šíří frekvencí do 15 GHz, pracuje se na frekvencích do 60 GHz a ve výzkumu pro 6G jsou sub-terraherzové vlny, tedy frekvenční rozsah 90-300 GHz. Ale nebojte, ještě jsme daleko od momentu, kdy vlny začnou "svítit" - to je až v pásmu stovek THz...🙂
 
-**A tip na závěr:** chcete si pohrát s 5G sítí? Vyzkoušejte [aplikaxi NetX od Mpirical](https://netx3.mpirical.com/3GPP), slouží ke školení toho, jak 5G síť funguje a jaké má části. 
-
+**A tip na závěr:** chcete si pohrát s 5G sítí? Vyzkoušejte [aplikaxi NetX od Mpirical](https://netx3.mpirical.com/3GPP), slouží ke školení toho, jak 5G síť funguje a jaké má části.

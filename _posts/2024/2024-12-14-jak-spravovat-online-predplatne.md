@@ -1,10 +1,19 @@
 ---
-title: "Jak bezpečně spravovat svoje online předplatné"
 author: Patrick Zandl
-post_excerpt: "Asi to znáte. Najednou koukáte na výpis z platební karty, že se vám naúčtovalo předplatné služby, kterou jste měli za to, že jste ji dávno zrušili. Jaké jsou dobré strategie?"
+categories:
+- Internet
+- Online
 layout: post
-categories: [Internet, Online]
+post_excerpt: Asi to znáte. Najednou koukáte na výpis z platební karty, že se vám
+  naúčtovalo předplatné služby, kterou jste měli za to, že jste ji dávno zrušili.
+  Jaké jsou dobré strategie?
+summary_points:
+- Předplatné online služeb často vyžaduje měsíční nebo roční závazky.
+- Apple a Google nabízejí centrální správu předplatných.
+- Revolut umožňuje kontrolu přes virtuální karty a blokování plateb.
+- Netflix vyžaduje rušení předplatného přímo na jejich webu.
 thumbnail: https://www.f22designs.com/wp-content/uploads/2016/03/subscribe.jpg
+title: Jak bezpečně spravovat svoje online předplatné
 ---
 
 Předplatné za online služby se stalo morem posledních let. Nejde ani tak o to, že by člověk nebyl ochoten zaplatit pár babek za nějakou službu, kterou právě v tuto chvíli potřebuje. Jenže celá řada služeb dnes neakceptuje jednorázovou platbu, musíte si je předplatit. Na měsíc, za zvýhodněnou částku za rok. A když měsíc uplyne, zaúčtuje se vám další. Co s tím?
@@ -29,4 +38,4 @@ Také Google Play a Android platforma mají [centrální místo pro předplatné
 
 A to je prozatím z tipů na správu online předplatného všechno. Máte nějaký? Přidám ho...
 
-PS: Na link na Revolut je affiliate odkaz, pokud se registrujete, dostane tento server příspěvek od Revolutu. 
+PS: Na link na Revolut je affiliate odkaz, pokud se registrujete, dostane tento server příspěvek od Revolutu.

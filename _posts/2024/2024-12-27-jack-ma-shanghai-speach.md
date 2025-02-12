@@ -1,13 +1,23 @@
 ---
-title: "Jacka Ma, šéf Alibaby: Dobrá inovace se nebojí regulace"
-author: Patrick Zandl
-post_excerpt: "Toto je překlad projevu Jacka Ma, který pronesl 24. října 2020 na finančním summitu Bund v Šanghaji. Jack Ma v projevu zpochybnil tradiční bankovní model v Číně a vyjádřil se kriticky k příliš konzervativním regulacím. A byl za to potrestán. Projev stojí za pozornost i pro čtenáře v EU."
-layout: post
-categories: [Čína, Jack Ma, Ekonomika]
-thumbnail: https://www.marigold.cz/assets/jack-ma-shanghai-bund-summit-10-2020.jpg
 audio_url: https://www.marigold.cz/audio/2024-12-27-jack-ma-shanghai-speach.mp3
+author: Patrick Zandl
+categories:
+- Čína
+- Jack Ma
+- Ekonomika
+layout: post
+post_excerpt: Toto je překlad projevu Jacka Ma, který pronesl 24. října 2020 na finančním
+  summitu Bund v Šanghaji. Jack Ma v projevu zpochybnil tradiční bankovní model v
+  Číně a vyjádřil se kriticky k příliš konzervativním regulacím. A byl za to potrestán.
+  Projev stojí za pozornost i pro čtenáře v EU.
+summary_points:
+- Jack Ma kritizoval konzervativní regulace čínského finančního systému.
+- Ma navrhoval modernizaci financí pomocí inovací a digitálních technologií.
+- Projev vyvolal ostré reakce čínských úřadů a zastavení IPO Ant Group.
+- Ma zdůraznil potřebu podpory malých podniků a budoucí roli digitálních měn.
+thumbnail: https://www.marigold.cz/assets/jack-ma-shanghai-bund-summit-10-2020.jpg
+title: 'Jacka Ma, šéf Alibaby: Dobrá inovace se nebojí regulace'
 ---
-
 
 Toto je překlad projevu Jacka Ma, který pronesl 24. října 2020 na finančním summitu Bund v Šanghaji. Jack Ma v projevu zpochybnil tradiční bankovní model v Číně a vyjádřil se kriticky k příliš konzervativním regulacím. Upozorňoval, že inovační prostředí se dusí zastaralými pravidly a že Čína potřebuje modernizovat a zjednodušit finanční sektor, aby mohl držet krok se světem. 
 

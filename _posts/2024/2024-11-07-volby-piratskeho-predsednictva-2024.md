@@ -1,10 +1,19 @@
 ---
-title: "Tyhle Pirátské volby budou důležité, i když o nich nevíte"
 author: Patrick Zandl
-post_excerpt: "O víkendu proběhnou volby pirátského předsednictva. Proč by vás měly zajímat volby strany, která se drží na hranici vypadnutí z parlamentu?"
+categories:
+- politika
+- piráti
+- společnost
 layout: post
-categories: [politika, piráti, společnost]
+post_excerpt: O víkendu proběhnou volby pirátského předsednictva. Proč by vás měly
+  zajímat volby strany, která se drží na hranici vypadnutí z parlamentu?
+summary_points:
+- Piráti volí nové vedení o víkendu, ovlivní příští vládu.
+- V Pirátské straně soupeří tradicionalisté s progresivisty.
+- SPOLU potřebuje Piráty pro většinu ve sněmovně.
+- Hřib spojuje předsednictví s odhlasováním Nové vlny.
 thumbnail: https://www.marigold.cz/assets/IMG_5173.jpeg
+title: Tyhle Pirátské volby budou důležité, i když o nich nevíte
 ---
 
 🏴‍☠️🇨🇿 Jedny volby důležité pro Česko skončily 🇺🇸, jedna vláda důležitá pro Česko se právě rozpadá 🇩🇪 a další důležité volby - bez většího zájmu obyvatel - proběhnou o víkendu. Tyto volby budou spoluurčovat českou politickou cestu a proběhnou bez valného zájmu médií a veřejnosti. Piráti totiž budou o víkendu na celostátním fóru volit nové vedení. A tím i naději pro Spolu na sestavení příští vlády. Jak to? To si zaslouží kontext.

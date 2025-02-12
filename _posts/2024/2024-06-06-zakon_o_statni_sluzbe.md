@@ -1,11 +1,20 @@
 ---
-layout: post
-title:  Kolaps Česka, úředníci a služební zákon
-categories: [Politika]
-excerpt: Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůli tomu nejsou schopni implementovat svoji politiku, protože úřady jsou v rozkladu. 
-post_date: 2024-06-06 10:48:16
+categories:
+- Politika
+excerpt: Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon
+  o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůli tomu
+  nejsou schopni implementovat svoji politiku, protože úřady jsou v rozkladu.
 featured: true
+layout: post
+post_date: 2024-06-06 10:48:16
+summary_points:
+- 1. Zákon o státní službě a nízké platy úředníků způsobují rozklad státní správy.
+- 2. Výběrová řízení jsou pomalá, což brání náboru kvalitních úředníků.
+- 3. Úředníci jsou nedostatečně školení a chybí jednotné postupy pro řešení situací.
+- 4. Nízké platy vedou k demotivaci a špatnému výkonu státních agend.
+- 5. Reforma zákona o státní službě je nezbytná pro zlepšení fungování státu.
 thumbnail: https://www.marigold.cz/assets/kolapsceska.png
+title: Kolaps Česka, úředníci a služební zákon
 ---
 
 ---
@@ -64,4 +73,4 @@ Vláda v současné době projednává novelu Zákona o státní službě a něk
 
 Stranou jsem ponechal oblíbený problém, zda **jde práci úředníků zredukovat, tedy snížit rozsah agend** - a tím umožnit menší počet úředníků lépe zaplatit? Lišácká odpověď: ANO i NE. Ve skutečnosti celá řada agend je duplicitních a úředníci se duplicitou vyhýbají zodpovědnosti či práci. Teprve za tím je množina zbytečných agend. CO je duplicitní agenda? Pokud úředník chce "ještě jeden papír", ačkoliv by rozhodnout mohl již dle dostupných podkladů, nejde o agendu, kterou lze odstranit revizí agend, ale o pokus věc odložit, přehodit jinam nebo se pojistit pro případ, kdyby někdo chtěl kritizovat nedostatečně zajištěný postup. Jestli jsem se něco na úřadě naučil, pak je vždy si prověřit, zda je něco potřeba, pokud je mi úředníkem tvrzeno, že je to potřeba a opravdu to z logiky zní jako věc navíc. Zákony totiž většinou dávají selskou logiku. Příklad? Když třeba úředník u stavby projednává stížnost souseda, že stavbou zastíníte jeho pozemek a požaduje vaše vyjádření. Ve skutečnosti podle zákona nelze ve stavebním řízení připustit námitky, které vypořádal již územní plán, přičemž povolená výška zástavby a odstup od okolních nemovitostí je v rámci územního plánu již vyřešen a vypořádán. Nebo když chce, abyste vzhled domu přizpůsobil jeho představám, ačkoliv to žádná územněprávní dokumentace nepředepisuje (to si chlapec měl udělat regulační plán, že ano). To jsou věci, které ani revize agend neodhalí 
 
-PS: Vím, že řadu tvrzení tu dávám ultimátně k věření. Zákon o státní službě i ten o úřednících samospráv zná málokdo, je to těžké téma na vykopnutí do veřejné diskuse, protože vývoj v Česku byl neuvěřitelný a spletitý. Zákon jsme povinně přijali při vstupu do EU, jenže pak jsme ho dalších patnáct let do roku 2015 neuvedli pod nejrůznějšími záminkami v platnost a nakonec funguje jeho příšerná verze, která způsobuje výše zmíněné problémy. 
+PS: Vím, že řadu tvrzení tu dávám ultimátně k věření. Zákon o státní službě i ten o úřednících samospráv zná málokdo, je to těžké téma na vykopnutí do veřejné diskuse, protože vývoj v Česku byl neuvěřitelný a spletitý. Zákon jsme povinně přijali při vstupu do EU, jenže pak jsme ho dalších patnáct let do roku 2015 neuvedli pod nejrůznějšími záminkami v platnost a nakonec funguje jeho příšerná verze, která způsobuje výše zmíněné problémy.

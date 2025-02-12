@@ -1,10 +1,23 @@
 ---
-title: "Elon Musk ministrem efektivity"
 author: Patrick Zandl
-post_excerpt: "Donald Trump zřizuje ministerstvo vládní efektivity a do jeho čela staví Elona Muska. Stíhá je za to výsměch. Jenže předchozí Muskovy efektivizační metody a kroky byly ... efektivní... "
+categories:
+- politika
+- Elon Musk
+- Twitter
+- X.com
 layout: post
-categories: [politika, Elon Musk, Twitter, X.com]
+post_excerpt: 'Donald Trump zřizuje ministerstvo vládní efektivity a do jeho čela
+  staví Elona Muska. Stíhá je za to výsměch. Jenže předchozí Muskovy efektivizační
+  metody a kroky byly ... efektivní... '
+summary_points:
+- 1. Muskova restrukturalizace Twitteru zahrnovala rychlá propouštění a najímání zpět.
+- 2. Efektivní restrukturalizace vyžaduje kontrolu firmy a pružný pracovní trh.
+- 3. Propouštění se zaměřuje na okrajové role, ne na klíčové zaměstnance.
+- 4. Muskova strategie může být nákladná, ale je rychlá a efektivní.
+- 5. Státní správa vyžaduje jiný přístup než soukromé firmy.
+- 6. Ztráta hodnoty Twitteru souvisí s inzerenty
 thumbnail: https://www.marigold.cz/assets/elon-musk-doge-trump.png
+title: Elon Musk ministrem efektivity
 ---
 
 V souvislosti s novým Trumpovým americkým [Ministerstvem vládní efektivity](https://www.bbc.com/news/articles/cpqd4vw0ejeo) se teď často zmiňuje, jak Musk koupil Twitter, všechny vyházel a pak je zase přijímal. 

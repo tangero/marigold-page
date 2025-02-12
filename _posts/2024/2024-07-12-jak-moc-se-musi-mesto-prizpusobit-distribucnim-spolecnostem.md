@@ -1,11 +1,20 @@
 ---
-title: Musí se město přizpůsobit distribučním společnostem&quest;
 author: Patrick Zandl
-post_excerpt: "Neukázněně parkující automobily rozvozových společností. Na jednu stranu, co mají dělat, když si někdo objednal. Na druhou stranu, mají parkovat tam, kde je to dovoleno. Jak moc se mají města přizpůsobovat?"
+categories:
+- Město
+- Urbanismus
+- Bydlení
 layout: post
-categories: [Město, Urbanismus, Bydlení]
+post_excerpt: Neukázněně parkující automobily rozvozových společností. Na jednu stranu,
+  co mají dělat, když si někdo objednal. Na druhou stranu, mají parkovat tam, kde
+  je to dovoleno. Jak moc se mají města přizpůsobovat?
+summary_points:
+- Města se potýkají s nároky distribučních služeb na parkování.
+- Distribuční boxy vznikají bez ohledu na urbanistické plánování.
+- Řešení zahrnují rezignaci, přizpůsobení nebo represi měst.
+- Malé dopravní prostředky jsou preferovanou alternativou.
 thumbnail: https://www.marigold.cz/assets/IMG_4426.jpeg
-
+title: Musí se město přizpůsobit distribučním společnostem&quest;
 ---
 
 Tohle je zajímavé téma: proměna města v čase a tím i v měnících se podmínkách. Jedním z největších problémů, nicméně rozprostřených do dlouhého času, bylo přizpůsobení se automobilismu a individiuální automobilové dopravě. Tam už jsme dospěli do stádia Zamrzlé evoluce. Novým zajímavým problémem jsou distribuční a rozvážkové služby. 
@@ -39,4 +48,4 @@ Abych to shrnul, máme tu několik otázek:
 2. Jak moc bude život ve městě zhoršovat, když to město neudělá a situaci neřeší? Nejde jen o zbytečné jízdy, ale i o naštvanost občanů, někteří neradi vidí nesprávné parkování, jiní 
 3. Jde o problém krátkodobý, nebo dlouhodobý? Je to jen dočasná móda, která za pár let zmizí a má se tím tedy město (jehož reakční doba se počítá spíše na roky) vůbec zabývat? 
 
-Osobně vidím nejlepší řešení v tlaku na malé dopravní prostředky, tedy kola, elektrokola a elektrokoloběžky. Ty jsou flexibilní. Jenže ta nebudou používat větší distribučky, Alzabox  či Zásilkovnu jím snadno nezavezete. Tam už se vyplatí tlačit na to, aby odběrná místa vznikala jen tam, kde parkování není problém. Přeci jen, otevřít si výdejní místo uprostřed pěší zóny může být atraktivní z pohledu odběratele, ale tak nějak by se mělo počítat s dopravní obslužností...  
+Osobně vidím nejlepší řešení v tlaku na malé dopravní prostředky, tedy kola, elektrokola a elektrokoloběžky. Ty jsou flexibilní. Jenže ta nebudou používat větší distribučky, Alzabox  či Zásilkovnu jím snadno nezavezete. Tam už se vyplatí tlačit na to, aby odběrná místa vznikala jen tam, kde parkování není problém. Přeci jen, otevřít si výdejní místo uprostřed pěší zóny může být atraktivní z pohledu odběratele, ale tak nějak by se mělo počítat s dopravní obslužností...
