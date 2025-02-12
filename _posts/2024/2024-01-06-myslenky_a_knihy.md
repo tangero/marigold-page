@@ -1,9 +1,18 @@
 ---
-layout: post
-title:  Myšlenky nelze ignorovat a knihy nevydávat. Jenže zásadní knihy u nás často nevycházejí.
-categories: [Knihy, Ekonomika, Společnost]
+categories:
+- Knihy
+- Ekonomika
+- Společnost
 excerpt: Proč v češtině nevycházejí knihy, které hýbou světem?
+layout: post
+summary_points:
+- Český knižní trh postrádá stěžejní díla ekonomie a společenských věd.
+- Nobelisté jako Stiglitz, Harvey a Chang mají v češtině jen okrajové práce.
+- Témata nerovnosti a chudoby jsou v Česku považována za okrajová.
+- Podpora vydávání kritických ekonomických knih by mohla změnit diskusi.
 thumbnail: https://demotix.com/wp-content/uploads/2021/07/Books-on-Economics.jpg
+title: Myšlenky nelze ignorovat a knihy nevydávat. Jenže zásadní knihy u nás často
+  nevycházejí.
 ---
 
 Před lety jsem se rozhodl doplnit si vzdělání a číst především knihy, které u nás nevyšly. Zejména o ekonomii a společnosti. Otevřely se mi uplně nové obzory. Jména, která jsem znal okrajově. Takový J. Stiglitz (Nobelova cena za ekonomii 2001). V češtině vyšly 3 knihy. Spíše ty okrajové. Jeho popularizační práce věnované ekonomii nerovnosti a globalizaci česky nejsou. David Harvery: vyšla jedna kniha, stěžejní díla jako Stručná historie neoliberalismu nebo Stav postmoderny nevyšly. Ano, je to moderní marxista, ale česky se nedozvíte, že jeho kritika současného vývoje neoliberální demokracie je zajímavá a pádná.
