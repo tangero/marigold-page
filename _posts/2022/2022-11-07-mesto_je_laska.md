@@ -1,8 +1,18 @@
 ---
+categories:
+- Město
+- Politika
+excerpt: Začal jsem psát pravidelná shrnutí toho, co se za týden dělo v mém místostarostování
+  ve městě. Dávám je primárně na Facebook, kde máme většinu občanů města, ale budu
+  je přidávat i sem.
 layout: post
-title:  Město je ♥️ Kluziště, energie a odpady
-categories: [Město, Politika]
-excerpt: Začal jsem psát pravidelná shrnutí toho, co se za týden dělo v mém místostarostování ve městě. Dávám je primárně na Facebook, kde máme většinu občanů města, ale budu je přidávat i sem.
+summary_points:
+- Začal jsem psát týdenní shrnutí místostarostování na Facebook a email.
+- Rychle vyřešena oprava značky a zlepšení bezbariérovosti na náměstí.
+- Město vyjednává vysoké ceny elektřiny, roční náklady mohou trojnásobně vzrůst.
+- Kluziště je energeticky náročné, hrozí problémy se zprovozněním kvůli nedostatkům.
+- Odpadové hospodářství přechází na Technické služby, cílem jsou úspory a efektivita.
+title: Město je ♥️ Kluziště, energie a odpady
 ---
 
 Začal jsem psát pravidelná shrnutí toho, co se za týden dělo v mém místostarostování ve městě. Dávám je primárně na Facebook, kde máme většinu občanů města, ale dělám z nich i [emailový newsletter, který si lze objednat zde](https://mistostarosti.substack.com). 

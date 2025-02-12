@@ -1,12 +1,20 @@
 ---
-layout: post
-title:  Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat
-categories: [Bydlení, Politika]
-excerpt: Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, aby bylo bydlení levnější.
+categories:
+- Bydlení
+- Politika
+excerpt: Často mi píšete, že vás zajímají praktické politické problémy, takže dnes
+  se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto,
+  aby bylo bydlení levnější.
 featured: true
+layout: post
+summary_points:
+- Cena bydlení je ovlivněna investory a malou nabídkou alternativ.
+- Developeři tvoří oligopol kvůli vzácnosti stavebních pozemků.
+- Stavební řízení jsou složitá, Piráti navrhují digitalizaci.
+- Nedostupné bydlení je způsobeno nadměrnou regulací a daněmi.
 thumbnail: https://www.marigold.cz/assets/strategie-bydleni.png
+title: Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat
 ---
-
 
 Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, aby bylo bydlení levnější A pokud chcete, **k dispozici je i [audioverze tohoto článku](https://anchor.fm/patrick-zandl/episodes/Specil-27-K-levnmu-bydlen-se-neprodanme--musme-zpehlednit-a-deregulovat-e128tpo).**
 

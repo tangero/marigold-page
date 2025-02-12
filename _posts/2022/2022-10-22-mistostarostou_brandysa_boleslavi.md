@@ -1,8 +1,17 @@
 ---
+categories:
+- Město
+- Politika
+excerpt: Začal jsem psát pravidelná shrnutí toho, co se za týden dělo v mém místostarostování
+  ve městě. Dávám je primárně na Facebook, kde máme většinu občanů města, ale budu
+  je přidávat i sem.
 layout: post
-title:  Místostarostou Brandýsa nad Labem – Staré Boleslavi
-categories: [Město, Politika]
-excerpt: Začal jsem psát pravidelná shrnutí toho, co se za týden dělo v mém místostarostování ve městě. Dávám je primárně na Facebook, kde máme většinu občanů města, ale budu je přidávat i sem.
+summary_points:
+- Zvolen místostarostou, zodpovědný za městský majetek a energetiku.
+- Koaliční spolupráce založena na čtyřleté opoziční zkušenosti.
+- Neuvolněná funkce s plnými nároky na čtvrtinový plat.
+- Skatepark vyvolal stížnosti kvůli hluku a drenáži.
+title: Místostarostou Brandýsa nad Labem – Staré Boleslavi
 ---
 
 🏙

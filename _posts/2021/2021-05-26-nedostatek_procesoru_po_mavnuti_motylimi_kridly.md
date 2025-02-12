@@ -1,12 +1,26 @@
 ---
-layout: post
-title:  Nedostatek procesorů po mávnutí motýlími křídly
-categories: [Procesory, Technologie, Ekonomika]
-excerpt: Už bývám na ten příměr alergický. Na to, jak motýl v Číně mávne křídly a v Brazílii je z toho bouře. Ale je to dobrý a srozumitelný příměr o tom, jak provázané jsou i vzdálené systémy. Dnes si to ukážeme na příkladu momentálního nedostatku mikroprocesorů, což je klíčové téma pro všechny výrobce, od výrobců automobilů, až po výrobce spotřební elektroniky.
+categories:
+- Procesory
+- Technologie
+- Ekonomika
+excerpt: Už bývám na ten příměr alergický. Na to, jak motýl v Číně mávne křídly a
+  v Brazílii je z toho bouře. Ale je to dobrý a srozumitelný příměr o tom, jak provázané
+  jsou i vzdálené systémy. Dnes si to ukážeme na příkladu momentálního nedostatku
+  mikroprocesorů, což je klíčové téma pro všechny výrobce, od výrobců automobilů,
+  až po výrobce spotřební elektroniky.
 feature: true
+layout: post
+summary_points:
+- Nedostatek mikroprocesorů omezuje výrobu automobilů.
+- TSMC vyrábí většinu procesorů pro automobilový průmysl.
+- COVID-19 způsobil nepředvídatelné změny v poptávce.
+- Obchodní válka mezi Čínou a USA zvyšuje nejistotu dodávek.
+- Americká vláda plánuje řešit nedostatek čipů exekutivním příkazem.
+- Evropská unie zvažuje výstavbu špičkové továrny na mikročipy.
+- Nedostatek mikroprocesorů bude trvat nejméně
 thumbnail: https://mspoweruser.com/wp-content/uploads/2023/01/Intel-Core-processors.jpeg
+title: Nedostatek procesorů po mávnutí motýlími křídly
 ---
-
 
 Už bývám na ten příměr alergický. Na to, jak motýl v Číně mávne křídly a v Brazílii je z toho bouře. Ale je to dobrý a srozumitelný příměr o tom, jak provázané jsou i vzdálené systémy. Dnes si to ukážeme na příkladu momentálního nedostatku mikroprocesorů, což je klíčové téma pro všechny výrobce, od výrobců automobilů, až po výrobce spotřební elektroniky.
 

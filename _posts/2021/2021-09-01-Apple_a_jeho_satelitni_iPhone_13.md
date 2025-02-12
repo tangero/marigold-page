@@ -1,8 +1,18 @@
 ---
+categories:
+- Apple
+- iPhone
+excerpt: Už za dva týdny by měl Apple představit své nové produkty. Odhadovaný termín
+  je čtrnáctého září, i když k představení iPhone 13 by mi lépe sedělo 13.9.
 layout: post
-title:  Apple a jeho satelitní iPhone 13
-categories: [Apple, iPhone]
-excerpt: Už za dva týdny by měl Apple představit své nové produkty. Odhadovaný termín je čtrnáctého září, i když k představení iPhone 13 by mi lépe sedělo 13.9. 
+summary_points:
+- Apple představí iPhone 13 kolem 14. září.
+- iPhone 13 možná podporuje satelitní komunikaci přes GlobalStar.
+- Satelitní funkce bude spíše doplňková a bezpečnostní.
+- GlobalStar rozšířil 5G spektrum o pásmo n53.
+- Qualcomm X60 modem možná podporuje upravené pásmo n53.
+- Privátní sítě mohou využívat GlobalStar pro pozemní propojení.
+title: Apple a jeho satelitní iPhone 13
 ---
 
 Už za dva týdny by měl Apple představit své nové produkty. Odhadovaný termín je čtrnáctého září, i když k představení iPhone 13 by mi lépe sedělo 13.9. 

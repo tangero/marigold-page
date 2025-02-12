@@ -15,7 +15,6 @@ summary_points:
 - Generování obrázků integrováno díky partnerství s Black Forest Labs.
 - Le Chat Agents automatizují opakující se úkoly a workflow.
 - Pixtral Large a Mistral Large 24.11 posouvají multimodální AI možnosti.
-- Aktualizace posiluje ev
 thumbnail: https://www.marigold.cz/assets/le-chat-mistral-ai.jpg
 title: 'Mistral AI má Pixtral Large a Mistral Large 24.11 a rozšiřuje možnosti: vyhledávání,
   canvas, zpracování dokumentů, obrázky '
