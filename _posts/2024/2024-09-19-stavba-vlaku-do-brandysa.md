@@ -1,10 +1,21 @@
 ---
-title: "Stavba vlaku do Brandýsa: když mají všichni ve skříni vidle, co vám do toho můžou hodit"
 author: Patrick Zandl
-post_excerpt: "V pondělí schválilo brandýsko-boleslavské zastupitelstvo jednomyslně podpis Memoranda o spolupráci na přípravě vlaku Praha-Brandýs. Trvalo šest let, než jsme se dostali do tohoto bodu. Pokud se někdy divíte, že v Česku věci trvají dlouho, tak si zde můžete přečíst, proč trvalo tak dlouho, než jsme si jen porozuměli."
+categories:
+- Česko
+- Město
 layout: post
-categories: [Česko, Město]
+post_excerpt: V pondělí schválilo brandýsko-boleslavské zastupitelstvo jednomyslně
+  podpis Memoranda o spolupráci na přípravě vlaku Praha-Brandýs. Trvalo šest let,
+  než jsme se dostali do tohoto bodu. Pokud se někdy divíte, že v Česku věci trvají
+  dlouho, tak si zde můžete přečíst, proč trvalo tak dlouho, než jsme si jen porozuměli.
+summary_points:
+- Vlaková trať Praha-Brandýs potřebovala šest let na získání podpory.
+- Projekt vznikl díky iniciativě a spolupráci mnoha lidí.
+- Klíčové bylo najít odborníky a získat podporu obcí.
+- Memorandum znamená společný závazek k výstavbě trati.
 thumbnail: https://www.marigold.cz/assets/taky-mame-mobil-na-hriba.jpg
+title: 'Stavba vlaku do Brandýsa: když mají všichni ve skříni vidle, co vám do toho
+  můžou hodit'
 ---
 
 Berte to jako moji malou rekapitulaci a fakultativní článek pro zájemce, proč v Česku všechno tak dlouho trvá postavit. 

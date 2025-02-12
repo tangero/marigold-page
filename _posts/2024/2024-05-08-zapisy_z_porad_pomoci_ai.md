@@ -1,11 +1,19 @@
 ---
+categories:
+- AI
+- Umělá inteligence
+excerpt: Jednou z aplikací umělé inteligence, kterou používám prakticky rutinně, je
+  zápis ze schůzky, porady či jednání. Pojďme se podívat na to, jak to funguje.
 layout: post
-title:  Zápis z porady či jednání pomocí umělé inteligence
-categories: [AI, Umělá inteligence]
-excerpt: Jednou z aplikací umělé inteligence, kterou používám prakticky rutinně, je zápis ze schůzky, porady či jednání. Pojďme se podívat na to, jak to funguje.
+summary_points:
+- Wave AI nabízí 30 minut zdarma, iOS a Android verze.
+- Summie umožňuje 15 minut zdarma, rozpoznává mluvčí.
+- Lugh vyžaduje měsíční poplatek, podpora iOS.
+- MinutAI je zatím kompletně zdarma, iOS a Android.
+- Notta podporuje češtinu, automatizuje webcall zápisy.
 thumbnail: https://www.marigold.cz/assets/robot-ai-prepis.png
+title: Zápis z porady či jednání pomocí umělé inteligence
 ---
-
 
 **Aktualizováno 7.11.2024** Jednou z aplikací umělé inteligence, kterou používám prakticky rutinně, je zápis ze schůzky, porady či jednání. Pojďme se podívat na to, jak to funguje.
 
@@ -63,6 +71,3 @@ Aplikacím jsem mírně přizpůsobil průběh jednání - hlavně ve slovníku.
 Summie nově přidalo možnost záznam ze schůzky udělat v rapperské verzi, musím přiznat, že poprvé mě to docela šokovalo, protože jsem do toho zápisu koukal a nějak jsem nepobíral, o co jde.
 
 Zatím to není tak, že zápis by byl zcela bezúdržbový. A ani není vhodný jako přepis jednání slovo od slova. Ale jako soupis důležitých řečených věcí to začíná fungovat velmi dobře a rozhodně se vyplatí to vyzkoušet.
-
-
-

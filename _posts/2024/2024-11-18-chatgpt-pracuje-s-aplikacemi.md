@@ -1,13 +1,22 @@
 ---
-title: "ChatGPT může používat některé aplikace na macOS pro efektivnější práci s kódem"
 author: Patrick Zandl
-post_excerpt: "ChatGPT pro macOS nyní nabízí možnost spolupracovat s vašimi aplikacemi, což přináší inteligentnější a přesnější odpovědi přizpůsobené vašim potřebám. V této rané beta verzi mohou uživatelé umožnit ChatGPT přístup k obsahu kódovacích aplikací, jako jsou Xcode, VS Code nebo TextEdit, pro lepší asistenci při vývoji."
+categories:
+- AI
+- OpenAI
+- ChatGPT
 layout: post
-categories: [AI, OpenAI, ChatGPT]
+post_excerpt: ChatGPT pro macOS nyní nabízí možnost spolupracovat s vašimi aplikacemi,
+  což přináší inteligentnější a přesnější odpovědi přizpůsobené vašim potřebám. V
+  této rané beta verzi mohou uživatelé umožnit ChatGPT přístup k obsahu kódovacích
+  aplikací, jako jsou Xcode, VS Code nebo TextEdit, pro lepší asistenci při vývoji.
+summary_points:
+- ChatGPT pro macOS integruje aplikace jako Xcode a VS Code.
+- Funkce využívá macOS Accessibility API pro přístup.
+- Obsah aplikací se ukládá do historie chatu.
+- Integrace zvyšuje produktivitu při vývoji kódu.
 thumbnail: https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg
+title: ChatGPT může používat některé aplikace na macOS pro efektivnější práci s kódem
 ---
-
-
 
 ChatGPT pro macOS nyní nabízí možnost spolupracovat s vašimi aplikacemi. Kopíruje tím nedávno představenou funkci [Computer Use pro Claude](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) společnosti Anthropic. V beta verzi mohou uživatelé umožnit ChatGPT přístup k obsahu kódovacích aplikací, jako jsou Xcode, VS Code nebo TextEdit, pro lepší asistenci při vývoji. 
 
@@ -52,4 +61,4 @@ Integrace ChatGPT s aplikacemi na macOS představuje zajímavý krok vpřed v ob
 
 Navíc ChatGPT tím jde mírně proti Copilotu od partnerského Microsoftu. Čili uvidíme, co z toho všeho bude... 
 
-Detailní [návod od OpenAI pro ChatGPT je zde](https://help.openai.com/en/articles/10119604-work-with-apps-on-macos). 
+Detailní [návod od OpenAI pro ChatGPT je zde](https://help.openai.com/en/articles/10119604-work-with-apps-on-macos).

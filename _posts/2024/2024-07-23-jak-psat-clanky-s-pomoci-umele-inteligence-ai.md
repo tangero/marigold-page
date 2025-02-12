@@ -1,11 +1,20 @@
 ---
-title: Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin
 author: Patrick Zandl
-post_excerpt: "Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. Krok za krokem si řekneme, jak AI využít k prozkoumání tématu, sehnání informací i výstavbě dobrého článku."
-layout: post
-categories: [AI, Umělá inteligence]
-thumbnail: https://www.marigold.cz/assets/ai-noviny.jpg
+categories:
+- AI
+- Umělá inteligence
 featured: true
+layout: post
+post_excerpt: Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI
+  pro práci. Začneme psaním, to je moje přirozené prostředí. Krok za krokem si řekneme,
+  jak AI využít k prozkoumání tématu, sehnání informací i výstavbě dobrého článku.
+summary_points:
+- AI nenahradí kreativní psaní, ale urychluje práci.
+- Studie ukazují, že slučování obcí nevede k úsporám.
+- AI pomáhá se strukturou článku a analýzou zdrojů.
+- Použití AI vyžaduje ověřování informací kvůli chybám.
+thumbnail: https://www.marigold.cz/assets/ai-noviny.jpg
+title: Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin
 ---
 
 Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
@@ -204,4 +213,4 @@ Tak a je to. Pomocí AI jsme provedli poměrně obsáhlý průzkum, který nám 
 > - předplatné Deeplu taky, je výrazně lepší. Budete potřebovat ještě plugin, nejlepší je do Chrome, pak Firefox a Edge, pro Safari jsou jen horší pluginy třetích stran. 
 > - pro analýzu textů a studií je dobré vytvořit v Claude Projekt a do něj všechny soubory nahrát. Odpovědi pak déle trvají, ale využívají i podklady v souborech. 
 > - pokud nepoužíváte Claude, zkuste ChatPDF - pro práci se soubory není ChatGPT tak dobrý. 
-> - dávejte si pozor a údaje si namátkově ověřujte, protože AI vás může neúmyslně zmást. 
+> - dávejte si pozor a údaje si namátkově ověřujte, protože AI vás může neúmyslně zmást.

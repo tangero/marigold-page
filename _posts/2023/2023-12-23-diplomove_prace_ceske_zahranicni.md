@@ -1,9 +1,17 @@
 ---
+categories:
+- Školství
+excerpt: Porovnejte si někdy diplomové práce českých studentů s hlavními trendy v
+  zahraničí...
 layout: post
-title:  Co říkají o našich vysokých školách diplomové práce jejich studentů? Pole pro výzkum je tu neorané!
-categories: [Školství]
-excerpt: Porovnejte si někdy diplomové práce českých studentů s hlavními trendy v zahraničí...
+summary_points:
+- Kvantová fyzika má v Česku nízkou počet diplomových prací.
+- Nobelisté v českých diplomkách mají minimální citovanost.
+- Česko je mimo hlavní ekonomický proud.
+- Rozpočet ČVUT je výrazně nižší než u Mnichovské TUM.
 thumbnail: https://www.copyshop.cz/wp-content/uploads/2017/01/diplom.jpg
+title: Co říkají o našich vysokých školách diplomové práce jejich studentů? Pole pro
+  výzkum je tu neorané!
 ---
 
 Nedávno jsem se porozhlížel po tom, jaká témata se učí na našich vysokých školách. Mimo jiné proto, že jsem si říkal, že bych se mohl ke studiu na univerzitě vrátit. Jenže kam? 

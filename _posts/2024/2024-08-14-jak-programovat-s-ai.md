@@ -3,16 +3,20 @@ audio_url: http://www.marigold.cz/audio/2024-07-14-jak-programovat-s-ai.mp3
 author: Patrick Zandl
 categories:
 - AI
-- "Umělá inteligence"
-layout: post
-post_excerpt: "S umělou inteligencí se programování stalo dostupným  i lidem, kteří programovat neumí. V tomto článku se podíváme na to, jak vyvíjet aplikace s pomocí AI, když sami programovat neumíte."
-thumbnail: https://www.marigold.cz/assets/prgramovani-s-ai.png
-title: "Návod na programování s AI, když programovat neumíte"
+- Umělá inteligence
 featured: true
+layout: post
+post_excerpt: S umělou inteligencí se programování stalo dostupným  i lidem, kteří
+  programovat neumí. V tomto článku se podíváme na to, jak vyvíjet aplikace s pomocí
+  AI, když sami programovat neumíte.
+summary_points:
+- AI umožňuje programování i bez předchozích znalostí.
+- Proces tvorby programu s AI je iterativní.
+- Python a Flask jsou vhodné pro začátečníky.
+- Heroku doporučeno pro snadné nasazení aplikací.
+thumbnail: https://www.marigold.cz/assets/prgramovani-s-ai.png
+title: Návod na programování s AI, když programovat neumíte
 ---
-
-  
-  
 
 Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři. A na to se dnes podíváme. Článek tedy není určen pro programátory ke zvyšování jejich produktivity, ale neprogramátorům, kteří občas potřebují vytvořit nějaký program.
 
@@ -303,5 +307,4 @@ Snadno se vám v Claude také může stát, že narazíte na limit dlouhých zad
 
 Tímto přístupem můžete vytvořit i poměrně rozsáhlé aplikace, nebojte se to vyzkoušet!
 
-> Článek **o nástrojích pro programování s AI pro neprogramátory** [s detailními informacemi najdete zde](/item/programovani-s-ai/). 
-
+> Článek **o nástrojích pro programování s AI pro neprogramátory** [s detailními informacemi najdete zde](/item/programovani-s-ai/).

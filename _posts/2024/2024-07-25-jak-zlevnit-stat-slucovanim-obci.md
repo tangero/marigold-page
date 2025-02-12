@@ -1,12 +1,23 @@
 ---
-title: Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu
 author: Patrick Zandl
-post_excerpt: "V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížíme náklady a ušetříme. Zkušenosti ze světa ukazují, že tomu tak není. Redukce počtu obcí by státnímu rozpočtu nepomohla, přesto má smysl ji provést. Proč?"
+categories:
+- Politika
+- Veřejná správa
+- Město
+featured: true
 layout: post
-categories: [Politika, Veřejná správa, Město]
+post_excerpt: V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy
+  o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížíme
+  náklady a ušetříme. Zkušenosti ze světa ukazují, že tomu tak není. Redukce počtu
+  obcí by státnímu rozpočtu nepomohla, přesto má smysl ji provést. Proč?
+summary_points:
+- Reforma územní správy v Česku nepřinese významné úspory.
+- Zahraniční zkušenosti ukazují, že slučování obcí zlepšuje kvalitu života.
+- Dobrovolné slučování obcí často selhává bez pobídek.
+- Česká reforma by měla být postupná a založená na spolupráci.
 thumbnail: https://a.cdn-hotels.com/gdcs/production62/d681/3709d4b0-db83-11e8-8252-0242ac110006.jpg
-featured: true 
---- 
+title: Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu
+---
 
 V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížíme náklady a ušetříme. Zkušenosti ze světa ukazují, že tomu tak není. Redukce počtu obcí by státnímu rozpočtu nepomohla, přesto má smysl ji provést. Proč?
 
@@ -100,4 +111,3 @@ A už na samostudium přehled studií, které je dobré si k tomuto tématu pře
 - [Municipal Amalgamation in Europe: A Comparative Analysis](https://www.researchgate.net/publication/306525715_A_Comparative_Analysis_of_Amalgamation_Reforms_in_Selected_European_Countries) (2018)
     Autoři: Reto Steiner, Claire Kaiser, Gregor T. Eythórsson.
     Srovnávací analýza slučování obcí v různých evropských zemích, hodnotící motivace, procesy a výsledky.
-
