@@ -1,9 +1,20 @@
 ---
+categories:
+- Příběhy
+- Výstavy
+- Egypt
+excerpt: Nebojte, není to politický jinotaj. Fakt mi jde o malou nezávislou recenzi
+  výstavy Sluneční králové v Národním Muzeu.
 layout: post
-title:  Sluneční králové starověkého Egypta
-categories: [Příběhy, Výstavy, Egypt]
-excerpt: Nebojte, není to politický jinotaj. Fakt mi jde o malou nezávislou recenzi výstavy Sluneční králové v Národním Muzeu.
+summary_points:
+- Výstava Sluneční králové prezentuje práci českých egyptologů, nikoli širší průřez
+  egyptskou historií.
+- Popisky exponátů jsou stručné a neposkytují dostatečný kontext pro běžné návštěvníky.
+- Chybí atraktivní exponáty jako zlato, převažují drobné předměty a repliky.
+- Pro děti jsou nejzajímavější interaktivní prvky jako barevné osvětlení a úzké průchody.
+title: Sluneční králové starověkého Egypta
 ---
+
 Nebojte, není to politický jinotaj. Fakt mi jde o malou nezávislou recenzi výstavy Sluneční králové v Národním Muzeu.
 
 Musím říct, že jsem se na ni těšil, na vysoké jsem v rámci své specializace měl pár semestrů Egypta a je to moje historická láska. Takže když jsem z recenzí v novinách nabyl dojmu, že výstava bude světová událost se stovkami unikátů, hned jak se děti vrátili z prázdnin a usalašili se ve škole, vyrazili jsme. Pohrdl jsem možností průvodce, ale nepřehlédl jsem, že procházka s průvodcem je zhruba šestkrát měsíčně.

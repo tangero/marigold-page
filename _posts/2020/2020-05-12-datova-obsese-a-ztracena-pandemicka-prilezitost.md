@@ -1,8 +1,19 @@
 ---
+categories:
+- Data
+- Covid
+excerpt: V Česku z toho byla datová obsese. Každý, kdo uměl, prodlužoval trendové
+  křivky nakažených a mrtvých a predikoval vývoj pandemie COVID-19. Porovnávaly se
+  s italským a islandským scénářem, dělaly se závěry, na minutu přesně se dalo spočítat,
+  kdy sundat roušku. Velká chyba, že hygienici neuvolnili více dat, neslo se bublinou,
+  dalo se spočítat více, lépe, úžasněji.
 layout: post
-title:  Datová obsese a ztracená pandemická příležitost
-categories: [Data, Covid]
-excerpt: V Česku z toho byla datová obsese. Každý, kdo uměl, prodlužoval trendové křivky nakažených a mrtvých a predikoval vývoj pandemie COVID-19. Porovnávaly se s italským a islandským scénářem, dělaly se závěry, na minutu přesně se dalo spočítat, kdy sundat roušku. Velká chyba, že hygienici neuvolnili více dat, neslo se bublinou, dalo se spočítat více, lépe, úžasněji.
+summary_points:
+- Česká datová obsese během pandemie vedla k nesmyslným predikcím a modelům.
+- Chybějící jednotné metodiky sběru dat znemožňovaly přesné srovnání a analýzu.
+- Stát záměrně omezoval přístup k datům, aby obhájil přijatá opatření.
+- Pandemie odhalila nedostatečnou digitalizaci a neefektivitu státních systémů.
+title: Datová obsese a ztracená pandemická příležitost
 ---
 
 V Česku z toho byla datová obsese. Každý, kdo uměl, prodlužoval trendové křivky nakažených a mrtvých a predikoval vývoj pandemie COVID-19. Porovnávaly se s italským a islandským scénářem, dělaly se závěry, na minutu přesně se dalo spočítat, kdy sundat roušku. Velká chyba, že hygienici neuvolnili více dat, neslo se bublinou, dalo se spočítat více, lépe, úžasněji.

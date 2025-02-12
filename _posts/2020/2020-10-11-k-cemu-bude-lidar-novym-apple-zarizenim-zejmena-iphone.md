@@ -1,10 +1,19 @@
 ---
+categories:
+- Apple
+- iPhone
+- Technologie
+excerpt: Apple za pár dní představý nové telefony iPhone a očekává se, že alespoň
+  jeden z nich bude vybaven Lidarem. Minimálně proto, že jím je vybaven poslední iPad
+  a také proto, že se *to povídá*. K čemu a proč?
 layout: post
-title:  K čemu bude LIDAR novým Apple zařízením, zejména iPhone
-categories: [Apple, iPhone, Technologie]
-excerpt: Apple za pár dní představý nové telefony iPhone a očekává se, že alespoň jeden z nich bude vybaven Lidarem. Minimálně proto, že jím je vybaven poslední iPad a také proto, že se *to povídá*. K čemu a proč?
+summary_points:
+- Apple brzy představí nové iPhony, pravděpodobně s Lidarem.
+- Lidar využívá světelný paprsek k měření vzdálenosti v reálném čase.
+- Lidar v telefonech zlepší kvalitu fotografií a podpoří augmentovanou realitu.
+- Miniaturizace snížila cenu Lidaru pro mobilní zařízení.
+title: K čemu bude LIDAR novým Apple zařízením, zejména iPhone
 ---
-
 
 Apple za pár dní představý nové telefony iPhone a očekává se, že alespoň jeden z nich bude vybaven Lidarem. Minimálně proto, že jím je vybaven poslední iPad a také proto, že se „to povídá“. K čemu a proč?
 

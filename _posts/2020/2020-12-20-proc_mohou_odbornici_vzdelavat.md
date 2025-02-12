@@ -1,8 +1,17 @@
 ---
+categories:
+- Vzdělávání
+- Školství
+- Společnost
+excerpt: Po internetu lítá článek Radka Sárköziho věnovaný školství a Pirátům. Článek
+  zapomněl říct mnoho věcí, takže toto je moje douška na doplnění.
 layout: post
-title:  Proč mohou odborníci vyučovat?
-categories: [Vzdělávání, Školství, Společnost]
-excerpt: Po internetu lítá článek Radka Sárköziho věnovaný školství a Pirátům. Článek zapomněl říct mnoho věcí, takže toto je moje douška na doplnění.
+summary_points:
+- Piráti podporují novelu umožňující učit bez pedagogického vzdělání.
+- Ředitel školy musí schválit přijetí nekvalifikovaného učitele.
+- Odborníci z praxe si musí pedagogické vzdělání doplnit pro dlouhodobé učení.
+- České školství čelí nedostatku mladých učitelů a stárnoucímu pedagogickému sboru.
+title: Proč mohou odborníci vyučovat?
 ---
 
 Po internetu lítá článek Radka Sárköziho věnovaný školství a Pirátům. Článek zapomněl říct mnoho věcí, takže toto je moje douška na doplnění.
