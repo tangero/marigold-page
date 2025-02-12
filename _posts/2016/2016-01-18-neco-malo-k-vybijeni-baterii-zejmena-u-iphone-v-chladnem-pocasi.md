@@ -1,5 +1,7 @@
 ---
 ID: 3026
+audio_url: http://www.marigold.cz/audio/2016-01-18-neco-malo-k-vybijeni-baterii-zejmena-u-iphone-v-chladnem-pocasi.mp3
+audiooff: false
 author: Patrick Zandl
 layout: post
 oldlink: 'https://www.marigold.cz/item/neco-malo-k-vybijeni-baterii-zejmena-u-iphone-v-chladnem-pocasi
@@ -9,13 +11,16 @@ post_date: 2016-01-18 15:51:00
 post_excerpt: ''
 published: true
 summary_points:
-- Baterie preferují pokojovou teplotu, moderní Li-Iont baterie mají problémy při nízkých
-  teplotách
-- Tenké telefony s moderními bateriemi mají problémy s ochranou před promrznutím
-- Baterie také mají problémy při vysokých teplotách nad +35°C
-- Řešení problému s teplotami u moderních baterií je obtížné, některé powerbanky nabízejí
-  NiMH akumulátory
-title: Něco málo k&nbsp;vybíjení baterií zejména u&nbsp;iPhone v&nbsp;chladném počasí
+- "Baterie preferuj\xED pokojovou teplotu, modern\xED Li-Iont baterie maj\xED probl\xE9\
+  my p\u0159i n\xEDzk\xFDch teplot\xE1ch"
+- "Tenk\xE9 telefony s modern\xEDmi bateriemi maj\xED probl\xE9my s ochranou p\u0159\
+  ed promrznut\xEDm"
+- "Baterie tak\xE9 maj\xED probl\xE9my p\u0159i vysok\xFDch teplot\xE1ch nad +35\xB0\
+  C"
+- "\u0158e\u0161en\xED probl\xE9mu s teplotami u modern\xEDch bateri\xED je obt\xED\
+  \u017En\xE9, n\u011Bkter\xE9 powerbanky nab\xEDzej\xED NiMH akumul\xE1tory"
+title: "N\u011Bco m\xE1lo k&nbsp;vyb\xEDjen\xED bateri\xED zejm\xE9na u&nbsp;iPhone\
+  \ v&nbsp;chladn\xE9m po\u010Das\xED"
 ---
 
 <p>Baterie jsou jako lidi. Nejlépe je jim za pokojové teploty. Když ji nemají, je to problém. Zatímco staré těžké NiCd akumulátory dodávaly spolehlivě elektřinu i v -40°C, moderní Li-Iont baterie s tím mají problém a většina moderních akumulátorů v teplotách pod -20°C nefunguje nebo nefunguje spolehlivě. Čím nižší teplota, tím vyšší je vnitřní odpor baterie a tím těžší je pro baterii chemickou reakcí vyrobit energii.</p>
