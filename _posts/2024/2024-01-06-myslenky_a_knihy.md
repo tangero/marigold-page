@@ -1,18 +1,25 @@
 ---
+audio_url: http://www.marigold.cz/audio/2024-01-06-myslenky_a_knihy.mp3
+audiooff: false
 categories:
 - Knihy
 - Ekonomika
-- Společnost
-excerpt: Proč v češtině nevycházejí knihy, které hýbou světem?
+- "Spole\u010Dnost"
+excerpt: "Pro\u010D v \u010De\u0161tin\u011B nevych\xE1zej\xED knihy, kter\xE9 h\xFD\
+  bou sv\u011Btem?"
 layout: post
 summary_points:
-- Český knižní trh postrádá stěžejní díla ekonomie a společenských věd.
-- Nobelisté jako Stiglitz, Harvey a Chang mají v češtině jen okrajové práce.
-- Témata nerovnosti a chudoby jsou v Česku považována za okrajová.
-- Podpora vydávání kritických ekonomických knih by mohla změnit diskusi.
+- "\u010Cesk\xFD kni\u017En\xED trh postr\xE1d\xE1 st\u011B\u017Eejn\xED d\xEDla ekonomie\
+  \ a spole\u010Densk\xFDch v\u011Bd."
+- "Nobelist\xE9 jako Stiglitz, Harvey a Chang maj\xED v \u010De\u0161tin\u011B jen\
+  \ okrajov\xE9 pr\xE1ce."
+- "T\xE9mata nerovnosti a chudoby jsou v \u010Cesku pova\u017Eov\xE1na za okrajov\xE1\
+  ."
+- "Podpora vyd\xE1v\xE1n\xED kritick\xFDch ekonomick\xFDch knih by mohla zm\u011B\
+  nit diskusi."
 thumbnail: https://demotix.com/wp-content/uploads/2021/07/Books-on-Economics.jpg
-title: Myšlenky nelze ignorovat a knihy nevydávat. Jenže zásadní knihy u nás často
-  nevycházejí.
+title: "My\u0161lenky nelze ignorovat a knihy nevyd\xE1vat. Jen\u017Ee z\xE1sadn\xED\
+  \ knihy u n\xE1s \u010Dasto nevych\xE1zej\xED."
 ---
 
 Před lety jsem se rozhodl doplnit si vzdělání a číst především knihy, které u nás nevyšly. Zejména o ekonomii a společnosti. Otevřely se mi uplně nové obzory. Jména, která jsem znal okrajově. Takový J. Stiglitz (Nobelova cena za ekonomii 2001). V češtině vyšly 3 knihy. Spíše ty okrajové. Jeho popularizační práce věnované ekonomii nerovnosti a globalizaci česky nejsou. David Harvery: vyšla jedna kniha, stěžejní díla jako Stručná historie neoliberalismu nebo Stav postmoderny nevyšly. Ano, je to moderní marxista, ale česky se nedozvíte, že jeho kritika současného vývoje neoliberální demokracie je zajímavá a pádná.
