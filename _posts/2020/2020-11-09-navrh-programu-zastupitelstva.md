@@ -1,8 +1,22 @@
 ---
+categories:
+- Jak na zastupitelstvo
+excerpt: Návrh programu není žádná věda, pokud chce obec pracovat transparentně a
+  poctivě. Může se jí ale stát, pokud je potřeba něco ututlat. Už jen forma, jakou
+  se sestavuje program zasedání zastupitelstva, může o ledasčem napovídat. Zároveň
+  je potřeba, aby sestavení programu proběhlo podle zákona a později nemohlo být zastupitelstvo
+  zneplatněno kvůli formálním pochybením.
 layout: post
-title: "Jak se správně navrhuje program zastupitelstva"
-categories: [Jak na zastupitelstvo]
-excerpt: Návrh programu není žádná věda, pokud chce obec pracovat transparentně a poctivě. Může se jí ale stát, pokud je potřeba něco ututlat. Už jen forma, jakou se sestavuje program zasedání zastupitelstva, může o ledasčem napovídat. Zároveň je potřeba, aby sestavení programu proběhlo podle zákona a později nemohlo být zastupitelstvo zneplatněno kvůli formálním pochybením.  
+summary_points:
+- Návrh programu zastupitelstva musí být transparentní a v souladu se zákonem.
+- Každý zastupitel, rada, výbor nebo občan s podpisy může navrhnout bod programu.
+- Zastupitelstvo musí rozhodnout o zařazení navrženého bodu, nikoliv rada nebo starosta.
+- Zveřejnění programu a termínu zasedání často koliduje s možností včasného podání
+  bodů.
+- Bod programu lze navrhnout i během zasedání, pokud to jednací řád umožňuje.
+- Jednací řád může omezit dobu pro navrhování bodů na začátek a konec zasedání.
+- Název bodu v programu může být upraven, aby byl neutrální a formální.
+title: Jak se správně navrhuje program zastupitelstva
 ---
 
 Návrh programu není žádná věda, pokud chce obec pracovat transparentně a poctivě. Může se jí ale stát, pokud je potřeba něco ututlat. Už jen forma, jakou se sestavuje program zasedání zastupitelstva, může o ledasčem napovídat. Zároveň je potřeba, aby sestavení programu proběhlo podle zákona a později nemohlo být zastupitelstvo zneplatněno kvůli formálním pochybením.  

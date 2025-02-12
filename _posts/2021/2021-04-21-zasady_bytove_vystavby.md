@@ -1,10 +1,23 @@
 ---
-layout: post
-title:  Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy
-categories: [Město, Bydlení]
-excerpt: Na zastupitelstvu Brandýsa-Boleslavi jsme schválili Zásady pro výstavbu ve městě, které stanoví rámec spolupráce s developery. Zásady se nevztahují na individiální výstavbu. Na přípravě zásad spolupracovali občanská sdružení Naše Dvojměstí a Podpora Občanů i politické strany Piráti, STAN a ODS a hnutí Pro zdraví a sport. Tato široká spolupráce by měla zajistit, že jde o podmínky dlouhodobé, které se nebudou s každou radnicí měnit. Zároveň Zásady odstraňují dosavadní praxi individuálního sjednávání podobně koncipovaných příspěvků developerů, které bylo netransparentní.
+categories:
+- Město
+- Bydlení
 date: 18.4.2021
+excerpt: Na zastupitelstvu Brandýsa-Boleslavi jsme schválili Zásady pro výstavbu ve
+  městě, které stanoví rámec spolupráce s developery. Zásady se nevztahují na individiální
+  výstavbu. Na přípravě zásad spolupracovali občanská sdružení Naše Dvojměstí a Podpora
+  Občanů i politické strany Piráti, STAN a ODS a hnutí Pro zdraví a sport. Tato široká
+  spolupráce by měla zajistit, že jde o podmínky dlouhodobé, které se nebudou s každou
+  radnicí měnit. Zároveň Zásady odstraňují dosavadní praxi individuálního sjednávání
+  podobně koncipovaných příspěvků developerů, které bylo netransparentní.
 featured: true
+layout: post
+summary_points:
+- Zásady pro výstavbu v Brandýse-Boleslavi stanovují jednotné podmínky pro developery.
+- Developeři zaplatí 130–260 tisíc Kč za každou novou bytovou jednotku.
+- Město očekává příchod 8000 nových obyvatel, což vyžaduje investice do infrastruktury.
+- Nová pravidla nahrazují netransparentní individuální dohody s developery.
+title: Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy
 ---
 
 Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahují na individiální výstavbu. Na přípravě zásad spolupracovali občanská sdružení Naše Dvojměstí a Podpora Občanů i politické strany Piráti, STAN a ODS a hnutí Pro zdraví a sport. Tato široká spolupráce by měla zajistit, že jde o podmínky dlouhodobé, které se nebudou s každou radnicí měnit. Zároveň Zásady odstraňují dosavadní praxi individuálního sjednávání podobně koncipovaných příspěvků developerů, které bylo netransparentní.

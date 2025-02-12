@@ -1,13 +1,21 @@
 ---
-layout: post
-title:  Krize a zánik vlastnictví
-categories: [Vlastnictví, Politika]
+categories:
+- Vlastnictví
+- Politika
 date: 13.4.2021
-excerpt: Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Je možné, že se něco takového stane? Jaké by to mělo důsledky?
+excerpt: Následující delší článek rozebírá současnou krizi soukromého vlastnictví,
+  která hrozí přerůst v jeho zánik. Je možné, že se něco takového stane? Jaké by to
+  mělo důsledky?
 featured: true
+layout: post
+summary_points:
+- Soukromé vlastnictví eroduje kvůli vysokým cenám a technologickým změnám.
+- Cloudové služby a sdílené modely nahrazují tradiční vlastnictví.
+- Digitální ne-vlastnictví omezuje svobodu a zvyšuje závislost na korporacích.
+- Regulace dat a uživatelských práv je klíčová pro ochranu svobody.
 thumbnail: https://www.marigold.cz/assets/krize-a-zanik-vlastnictvi.png
+title: Krize a zánik vlastnictví
 ---
-
 
 Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  **audioverzi tohoto článku**  ve  [formě podcastu, najdete ji zde](https://anchor.fm/patrick-zandl/episodes/25-Krize-a-znik-vlastnictv-e11dlkm). Eroze vlastnictví probíhá na několika frontách. Některé statky (jako nemovitosti) se staly tak drahé, že jej běžný člověk nemá šanci vlastnit. U jiných technologický posun umožňuje přesunout se od vlastnického modelu k pohodlnému modelu platby za použití (například bike-sharingové a v budoucnu i car-sharingové služby). A typicky cloudové služby nám dnes za měsíční poplatek nabízejí to, co jsme si zvykli dříve vlastnit, například hudbu nebo filmy. Připočítejme k tomu uměle podporovanou potřebu sdílet, kterou obsluhují datové cloudy. Cloudové služby (kam počítám i velké sociální sítě) se také snaží omezovat vlastnictví námi pořízených dat, když si pod nejrůznějšími záminkami osobují práva o našich datech spolu- či zcela rozhodovat. Vzniká digitální ne-vlastnictví, stav, kdy stále více statků přechází od formy uživatelem vlastněného statku, do formy služeb třetích stran placených na periodické bázi či za užití a kde o podmínkách služeb rozhodují jejich poskytovatelé.
 

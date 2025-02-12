@@ -1,11 +1,26 @@
 ---
-layout: post
-title: Programování pro pokročilé děti a pro ty, co skutečně začínají
-categories: [Programování, Vzdělávání, Školství]
+categories:
+- Programování
+- Vzdělávání
+- Školství
 date: 31.10.2020
-excerpt: Mírně osobní a spíše brainstormovací článek. Řeším teď pro syna Vojtu (10 let) programování. Chodí (chodil, bo COVID) ve škole na  [Javorkovic kroužek programování](https://www.programovanihrou.cz/), skvělé. Jenže všechno je to takové hraní. Scratch je skvělý pro menší děti, ale skutečnému programování se tam jen přiblížíte. Také s Microbitem je zábava, Vojta tady týden přeprogramovával hry Scratch hry, aby je mohl ovládat svým vlastním ovladačem postaveným na desce Microbitu. Skvělý seznam materiálů pro první stupeň  [vytváří Miroslav Suchý](https://github.com/xsuchy/programovani_pro_deti/), doporučuji tam započít studium tématu. Ale taky se to časem omrzí. A tady přichází problém. Je velká mezera mezi *hracím* programováním a tím *skutečným*?
+excerpt: Mírně osobní a spíše brainstormovací článek. Řeším teď pro syna Vojtu (10
+  let) programování. Chodí (chodil, bo COVID) ve škole na  [Javorkovic kroužek programování](https://www.programovanihrou.cz/),
+  skvělé. Jenže všechno je to takové hraní. Scratch je skvělý pro menší děti, ale
+  skutečnému programování se tam jen přiblížíte. Také s Microbitem je zábava, Vojta
+  tady týden přeprogramovával hry Scratch hry, aby je mohl ovládat svým vlastním ovladačem
+  postaveným na desce Microbitu. Skvělý seznam materiálů pro první stupeň  [vytváří
+  Miroslav Suchý](https://github.com/xsuchy/programovani_pro_deti/), doporučuji tam
+  započít studium tématu. Ale taky se to časem omrzí. A tady přichází problém. Je
+  velká mezera mezi *hracím* programováním a tím *skutečným*?
+layout: post
+summary_points:
+- Scratch a Microbit jsou zábavné, ale nenaučí skutečné programování.
+- Velké programovací jazyky jsou pro děti neintuitivní a složité.
+- Chybí mezistupeň mezi hravým a profesionálním programováním.
+- Low-code a no-code platformy jsou drahé a cloudově závislé.
+title: Programování pro pokročilé děti a pro ty, co skutečně začínají
 ---
-
 
 Mírně osobní a spíše brainstormovací článek. Řeším teď pro syna Vojtu (10 let) programování. Chodí (chodil, bo COVID) ve škole na  [Javorkovic kroužek programování](https://www.programovanihrou.cz/), skvělé. Jenže všechno je to takové hraní. Scratch je skvělý pro menší děti, ale skutečnému programování se tam jen přiblížíte. Také s Microbitem je zábava, Vojta tady týden přeprogramovával hry Scratch hry, aby je mohl ovládat svým vlastním ovladačem postaveným na desce Microbitu. Skvělý seznam materiálů pro první stupeň  [vytváří Miroslav Suchý](https://github.com/xsuchy/programovani_pro_deti/), doporučuji tam započít studium tématu. Ale taky se to časem omrzí. A tady přichází problém: je velká mezera mezi „hracím“ programováním a tím „skutečným“?
 
