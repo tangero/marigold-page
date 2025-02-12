@@ -1,14 +1,24 @@
 ---
 ID: 3592
-title: >
-  Robotická umělá inteligence na CeBITu
-  2017
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-03-20 23:35:41
+post_excerpt: ''
+published: true
+summary_points:
+- Vystavujeme na CeBITu vedle japonského robotického pavilonu, což působí deprimujícím
+  dojmem.
+- Robot Pepper od Softbank Robotisc nabízí omezené funkce, spíše než skutečnou umělou
+  inteligenci.
+- Současná robotická AI často připomíná podvod, s náhodnými reakcemi vydávanými za
+  sofistikované.
+- Roboti jako Pepper zatím zaujmou na veletrzích, ale k opravdové inteligenci mají
+  daleko.
+title: 'Robotická umělá inteligence na CeBITu 2017
+
+  '
 ---
+
 <p>Na CeBITu vystavujeme hned vedle japonského robotického pavilonu. Je to poněkud deprimující, protože sice je nedaleko Jablotron a s Turrisem tu tedy děláme alespoň určitou českou dvojku, jenže proti robotům všeho typu je to přeci jen trochu chabé. Vypadá to, jako bychom za světem měli obrovské zpoždění. Máme?</p>
 
 

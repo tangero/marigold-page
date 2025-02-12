@@ -1,15 +1,22 @@
 ---
 ID: 3547
-title: >
-  Jak udělat české mobilní ceny
-  levnými (verze 2017)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-
-published: true
 post_date: 2017-02-28 19:26:14
+post_excerpt: ''
+published: true
+summary_points:
+- Vysoké ceny telekomunikačních poplatků v Česku jsou způsobeny omezeným oligopolním
+  trhem.
+- Ministr Mládek nezvládl situaci kvůli nedostatečnému porozumění trhu.
+- Operátoři investovali do LTE sítě, ale velkoobchodní nabídky zůstávají předražené.
+- Situaci nelze rychle napravit, je třeba systematických kroků a spolupráce všech
+  stran trhu.
+title: 'Jak udělat české mobilní ceny levnými (verze 2017)
+
+  '
 ---
+
 V předchozím blogpostu jsem popsal důvody, které vedly k poměrně vysokým cenám telekomunikačních poplatků za mobilní služby v Česku. Mezi tím se ledasco dalo do pohybu, například o svůj post přišel ministr obchodu a průmyslu Mládek, který na situaci měl svůj podíl. Bohužel, jak tomu v takových situacích bývá, nebyl jediným zdrojem problémů a jeho hlavní nevýhodou bylo to, že telekomunikacím nerozuměl a neuměl/nestihl si udělat přehled o trhu jako takovém, takže popřál sluchu jen těch lidí, kteří k němu měli přístup.  Co by se mělo stát, aby se situace v českých telekomunikacích dala do pořádku? Zkusím sepsat pár svých postřehů a názorů k tomu vycházejících z analogií jinde ve světě a třeba se nám podaří k něčemu dobrat.
 
 <!--more-->

@@ -1,16 +1,24 @@
 ---
 ID: 3299
-title: >
-  A co jste dělali vy, když zvolili
-  Trumpa?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/a-co-jste-delali-vy-kdyz-zvolili-trumpa
-published: true
+oldlink: 'https://www.marigold.cz/item/a-co-jste-delali-vy-kdyz-zvolili-trumpa
+
+  '
 post_date: 2016-11-09 11:03:06
+post_excerpt: ''
+published: true
+summary_points:
+- Voliči trestali "elity země" hlasem pro Trumpa, vyjádřili rozčarování a poslali
+  zpětnou vazbu.
+- Autor bere výsledky voleb jako lekci a očekává, že nenastane konec světa.
+- Důležité je správně vyhodnotit voličskou zpětnou vazbu a respektovat demokracii.
+- Seriál Mladý papež může pomoci lépe porozumět současné situaci.
+title: 'A co jste dělali vy, když zvolili Trumpa?
+
+  '
 ---
+
 Dneska nás všichni budou oblažovat nářky nad výsledky voleb v USA. Volič intuitivně ztrestal ty, kdož mu stále dokola vysvětlovali, koho má volit ve svůj prospěch tím, že si zvolil jiného ke své škodě, ale vědomě. Jestli z toho bude konec světa, jak ho známe, nevím. Ale pro každý pád si zaznamenám, jak jsem trávil tu chvíli, když jsem se to dozvěděl, jako jsem si ji zaznamenal naposledy, když se něco takového stalo. 
 
 Probudil mě Vojta, který přiletěl do ložnice s tím, že mu zoubková víla dala pod polštář figurku žirafy, sušenku a časopis Hrana. Chvíli poté začali jako každou středu lomozit popeláři, probudila se Mariánka, šel jsem dolů přichystat jim čaje ke snídani a nakrájet buchtu, na kterou se těšili od včerejška. Než se mi uvařila voda na kávu, vzal jsem si mobil a přečetl jsem si zprávy. Nepřekvapily mě, na vítězství Trumpa bych si vsázel, protože rozčarování voličů bylo hmatatelné i přes oceán. 

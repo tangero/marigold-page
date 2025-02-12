@@ -1,12 +1,22 @@
 ---
 ID: 3686
-title: 'Velká ponaučení z&nbsp;malého Babišova plakátu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-05-04 09:06:32
+post_excerpt: ''
+published: true
+summary_points:
+- Babišova akce s plakátem vyvolala reakci, která inspirovala vytvoření odpovědné
+  grafiky.
+- Inzerce v MF Dnes by stála až 750 000 Kč bez možnosti slevy, což je neobvyklé.
+- Financování inzerátu přes crowdfunding bylo možné, ale přidaná hodnota by byla minimální.
+- Nový zákon komplikuje občanskou účast ve volebním boji kvůli byrokracii a daním.
+- Tradiční politické strany selhávají v reakci na současnou politickou situaci.
+- Řešením je politická cesta, která ukáže, že lze dělat politiku bez korupce.
+- Příklady a spolupráce jsou klíčové pro změnu, ale chybí zkušenosti a týmová práce.
+title: Velká ponaučení z&nbsp;malého Babišova plakátu
 ---
+
 <p>Když jsem včera ráno vstal a udělal práci, prošel jsem si zprávy a sociální sítě, jimž vévodila Babišova akce s plakátem, jímž sugestivně naznačoval, jak se jej snaží ČSSD umlčet. A první, co mě napadlo, že je to skvělá nahrávka na smeč. To muselo někoho v marketingu ČSSD napadnout. Udělat plakát a říct mu, že PROTO. A vyjmenovat ty důvody, přesně ten seznam, na který měl už tolikrát odpovědět.</p>
 
 

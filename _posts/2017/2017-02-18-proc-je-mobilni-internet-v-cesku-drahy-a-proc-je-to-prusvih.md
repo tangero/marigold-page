@@ -1,12 +1,19 @@
 ---
 ID: 3522
-title: 'Proč je mobilní internet v&nbsp;Česku drahý a&nbsp;proč je to průšvih'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-02-18 14:47:46
+post_excerpt: ''
+published: true
+summary_points:
+- Mobilní internet v Česku je drahý kvůli možnosti držet ceny vysoko.
+- Vlastník Telefonica O2 CZ byl změněn na PPF, což vedlo k restrukturalizaci.
+- Akce mobilních operátorů omezily práva zákazníků a zvýšily ceny.
+- Nedostatek zájmu o mobilní služby v Česku vede k nedostatečné nabídce a stagnaci
+  trhu.
+title: Proč je mobilní internet v&nbsp;Česku drahý a&nbsp;proč je to průšvih
 ---
+
 <p>Proč je mobilní internet v Česku drahý a kdy bude levnější, na  průměru vyspělých evropských zemích? Na to mám dlouhou odpověď, jenže doba nepřeje dlouhým vysvětlením. Ta krátká vám ale moc nepomůže: mobilní internet je v Česku drahý, protože situace umožňuje držet ceny vysoko. A změna není na dohled, protože situace se v dohledné době nezmění.</p>
 
 

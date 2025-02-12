@@ -1,15 +1,20 @@
 ---
 ID: 3909
-title: >
-  Na Metoo je zajímavé, kolik lidí se
-  tváří, jak problematické je poznat
-  obtěžování
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-12-21 08:55:01
+post_excerpt: ''
+published: true
+summary_points:
+- Sexuální obtěžování je v Česku rozšířené a tolerované.
+- Inteligentní lidé často nerozpoznají hranici mezi seznamováním a obtěžováním.
+- Tolerance škodlivých názorů vede k jejich realizaci ve společnosti.
+- Morálka a štěstí jsou propojené, což je třeba znovu pochopit.
+title: 'Na Metoo je zajímavé, kolik lidí se tváří, jak problematické je poznat obtěžování
+
+  '
 ---
+
 Na #metoo mě fascinovaly dvě věci:
 1) Jak rozšířené a tolerované je sexuální obtěžování a násilí
 2) jak moc se i inteligentní lidé tváří, že mají problém poznat hranici mezi seznamováním a obtěžováním

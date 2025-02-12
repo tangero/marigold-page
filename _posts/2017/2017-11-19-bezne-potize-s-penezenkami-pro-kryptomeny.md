@@ -1,12 +1,18 @@
 ---
 ID: 3870
-title: 'Běžné potíže s&nbsp;peněženkami pro kryptoměny'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-11-19 10:40:41
+post_excerpt: ''
+published: true
+summary_points:
+- Přechod z Androidu na iOS způsobuje problémy s krypto peněženkami, např. Mycelium.
+- Mobilní peněženky na iOS mají nedostatky v transakčních poplatcích a funkcích.
+- Bezpečnost mobilních peněženek je problematická, doporučuje se hardwarová peněženka.
+- Doporučené mobilní peněženky pro iOS jsou Bread wallet a Airbitz, Mycelium se nedoporučuje.
+title: Běžné potíže s&nbsp;peněženkami pro kryptoměny
 ---
+
 <p>Nikdy před tím mě to nebralo. Skladování větších kryptočástek jsem nechal na cold wallet, případně zkušeným kolegům, na menší jsem prostě měl aplikaci v mobilu. Jenže pak jsem přešel z Androida zpět na iOS a znervózněl jsem. </p>
 
 

@@ -1,12 +1,20 @@
 ---
 ID: 3788
-title: 'Přemýšlení o&nbsp;alternativním systému skončilo tradičně: iMac'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-07-24 20:52:04
+post_excerpt: ''
+published: true
+summary_points:
+- Autor si po dlouhé době koupil nový iMac model 2008 kvůli zastaralosti a nedostatku
+  podpory.
+- Přestože Linux je zajímavý, autor zůstal u macOS kvůli pohodlí a uživatelské přívětivosti.
+- Hledání použitého Macu s dostatečnou konfigurací bylo obtížné kvůli nedostatku rozšiřitelnosti.
+- Autor nakonec zakoupil iMac late 2013 jako cenově-výkonové optimum, ale rozšiřování
+  bude problematické.
+title: 'Přemýšlení o&nbsp;alternativním systému skončilo tradičně: iMac'
 ---
+
 <p>Tak dlouho jsem snil o počítačové alternativě, až jsem znovu a zase ověřil, že žádná není a jde jen o to, kde a za kolik. Navíc pravda je, že poslední domácí počítač pro sebe jsem si koupil v roce 2008, takže koupit si nový není zase taková rozežranost. Zejména s ohledem na to, že iMac model 2008 ztratil podporu nových systémů a … už je opravdu unavený. </p>
 
 <p>Linux je hezká věc. Na server. Jenže vždycky, když si chvíli hraju s něčím, co pochází z open source světa, si bolestně uvědomím, jak daleko je to svým pohodlím mainstreamu (teď mě například školí uživatelská přívětivost Yubikey a to je ještě zlatý koncept). A i když mám v poslední době zejména z pracovních důvodů zabezpečovací mánii, rozhodl jsem se nešaškovat a i s domácím počítačem zůstat na macOS. </p>

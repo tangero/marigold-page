@@ -1,16 +1,23 @@
 ---
 ID: 3213
-title: >
-  Hypermarket je místo předvolebních
-  příběhů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hypermarket-je-misto-predvolebnich-pribehu
-published: true
+oldlink: 'https://www.marigold.cz/item/hypermarket-je-misto-predvolebnich-pribehu
+
+  '
 post_date: 2016-10-08 07:23:04
+post_excerpt: ''
+published: true
+summary_points:
+- Předvolební atmosféra v Brandýském Tescu vyvolává konflikty mezi zákazníky.
+- Zákazník je vulgárně napaden za přehlédnutí seniora při nákupu.
+- Zákazník reaguje s úsměvem a ironií na seniorovy nadávky.
+- 'Závěr: Morální ponaučení o respektu v době voleb a konfliktech mezi zákazníky.'
+title: 'Hypermarket je místo předvolebních příběhů
+
+  '
 ---
+
 Brandýské Tesco je místo předvolebních příběhů. Stojím v pátek dopoledne před pultem se sýry a salámy, přichází obsluha a mladík se mě ptá, co si dám. Ještě než dořeknu své přání, ozve se vedlestojící senior a začne nadávat, že jsme ho předběhli. Omlouvám se mu, že jsme ho přehlédl a říkám prodavači, ať obslouží nejdříve pána. Tím by teoreticky nedorozumění mohlo skončit, jenže moje provinění je zřejmě závažnější, než jsem mohl kdy domyslet, protože zástupce seniorátu pokračuje ve výlevu na mou hlavu, teď už dost vulgárně, jak že jsem ho to mohl přehlédnout, to jsou doprdele lidi, samej debil. 
 
 Vysvětluji, že jsem myslel, že je s paní přede mnou, protože vůbec nestojí ve směru šipky nákupu a tak, ale měl jsem mlčet, protože jen přidává na nadávkách. Vyloženě sympaťák. Konečně je obsloužen, přicházím na řadu já. Senior bohužel pořád postává u pultu a chrlí to svoje “to jsou dneska lidi, hajzlové, ne lidi” a i prodavač vypadá, že má cukání pána přiložit do chlaďáku. Co teprve já, ajťák, který není na tak intenzivní lidskou vřelost zvyklý. 

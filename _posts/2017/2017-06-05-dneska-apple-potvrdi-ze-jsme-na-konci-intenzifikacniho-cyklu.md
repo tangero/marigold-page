@@ -1,14 +1,20 @@
 ---
 ID: 3736
-title: >
-  Dneska Apple potvrdí, že jsme na konci
-  intenzifikačního cyklu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-06-05 07:58:53
+post_excerpt: ''
+published: true
+summary_points:
+- Apple představuje nové počítačové novinky a verze operačních systémů.
+- Očekávání jsou nižší, novinky se zdají být neinspirativní.
+- Inovace Applu se zdají stagnovat, hledá se další technologický skok.
+- Technologický vývoj se zdá být na vrcholu, hledají se nové směry a inovace.
+title: 'Dneska Apple potvrdí, že jsme na konci intenzifikačního cyklu
+
+  '
 ---
+
 <p>Apple má dnes představovat své počítačové novinky a nové verze svých operačních systémů. Svět nedýchá, jenže když si nezaujatě přečtete, jaká jsou očekávání, nelze se zbavit dojmu, že už ani ta naše očekávání nejsou, co bývala.</p>
 
 <p>Články, které putují po webech, se snaží naznačit, že mezi deseti nejvítanějšími funkcemi pro OS X má být lepší podpora night shift módu, tedy modrání obrazovky do tmy, zatímco pro iOS by se hodila lepší nabídka sdílení přes 3D Touch. WTF? To jsme ztratili i sny? Copak jediné, co čekáme za novinky od nejbohatší a údajně nejinovativnější firmy světa je modrající kravina a dopracování menu přes přítlak obrazovky? Copak největší hardwarový zázrak, který letos dostaneme, může být konečně neosekaný MacBook, který stojí za to si koupit?</p>

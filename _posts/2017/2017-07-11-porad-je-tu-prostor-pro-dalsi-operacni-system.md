@@ -1,14 +1,20 @@
 ---
 ID: 3782
-title: >
-  Pořád je tu prostor pro další
-  operační systém
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-07-11 22:49:18
+post_excerpt: ''
+published: true
+summary_points:
+- Oddělení pracovního a osobního počítače zlepšuje psychickou pohodu a produktivitu.
+- Starý iMac z roku 2008 je stále funkční, ale bez podpory nových aktualizací.
+- Hledání levného a výkonného MiniPC pro domácí použití je komplikované a neuspokojivé.
+- Chrome OS a Remix OS jsou zajímavé alternativy, ale nevyhovují plně potřebám uživatele.
+title: 'Pořád je tu prostor pro další operační systém
+
+  '
 ---
+
 <p>Dlouhodobě razím teorii, že na práci mám mít jiný počítač, než "na zábavu". Nejde jen (ani tak) o bezpečnost, jako i o psychickou pohodu, kdy vím, zda zrovna pracuju za peníze, nebo se jen tak pro radost v něčem vrtám. Uznávám, že se to těžko vysvětluje, ale snažím se tyhle momenty oddělovat nejenom prostorově, i virtuálně. Na pracovním počítači nemám soukromý email, na osobním pracovní atd.</p>
 
 <p>Drobný zádrhel je, že soukromým počítačem je iMac z roku 2008. Pravda je, že jsem ho upgradoval, co to jen šlo a těch 6GB paměti i SSD mu hodně prospělo, přičemž na moje psaní a občasné obrázkování to stačí. Jenže Apple přestal po skoro deseti letech tento model podporovat, nelze na něm přejít na vyšší verzi Masoxu a to začíná dělat těžkosti, protože některé updaty už ji vyžadují, stejně jako některé funkce iCloudu, který jsem naštěstí kvůli bezpečnosti z větší části přestal používat. A tak mě začala honit mlsná, koupit si něco jiného.</p>

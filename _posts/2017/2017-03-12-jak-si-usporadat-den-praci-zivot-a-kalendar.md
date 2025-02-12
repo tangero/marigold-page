@@ -1,12 +1,18 @@
 ---
 ID: 3571
-title: 'Jak si uspořádat den, práci, život a&nbsp;kalendář?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-03-12 21:56:09
+post_excerpt: ''
+published: true
+summary_points:
+- Sebeorganizace je klíčová pro dosažení velkých cílů, ne genialita.
+- Papírový diář umožňuje efektivní plánování a přehled o úkolech.
+- Zápisník slouží k rozkladu úkolů na menší, zvládnutelné části.
+- Vizuální paměť pomáhá při orientaci v dlouhodobých projektech.
+title: Jak si uspořádat den, práci, život a&nbsp;kalendář?
 ---
+
 <p>Tohle bývá časté téma okultní manažerské literatury. Pracuj jako Jobs, mysli jako Edison, buď kreativní jako Musk, vynalézavý jako Tesla a inspirativní jako Micheal Angello. Dovolte mi osobní přesvědčení: pro to, abyste dokázali veliké věci, nepotřebujete být pronikavě geniální, ale musíte mít sebeorganizaci, tedy to, co se označuje jako “tah na branku”. Ve skutečnosti je to ale schopnost vzpomenout si na jednoduché úkoly, které musíte udělat a ty pak udělat ve správném pořadí. A i když nechcete být miliardářem a změnit svět, tahle schopnost se hodí. Takže se u ní na chvíli zastavím, protože mě zajímá, jak to dělají jiní.</p>
 
 

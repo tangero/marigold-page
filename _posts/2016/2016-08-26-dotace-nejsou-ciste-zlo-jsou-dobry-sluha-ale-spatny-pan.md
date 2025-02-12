@@ -1,17 +1,24 @@
 ---
 ID: 3137
-title: >
-  Dotace nejsou čisté zlo, jsou dobrý
-  sluha ale špatný pan
 author: Patrick Zandl
-post_excerpt: ""
-layout: post
 featured: true
-oldlink: >
-  https://www.marigold.cz/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan
-published: true
+layout: post
+oldlink: 'https://www.marigold.cz/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan
+
+  '
 post_date: 2016-08-26 12:20:45
+post_excerpt: ''
+published: true
+summary_points:
+- Dotace ničí podnikatelské prostředí, lze je zneužít a rozkrást.
+- Dotace v EU jsou projevem solidarity bohatších regionů s chudšími.
+- Dotace jsou především infrastrukturní a investice do budoucnosti.
+- Dotace jsou možností k lepšímu životu, ale vyžadují zodpovědné zacházení a správu.
+title: 'Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan
+
+  '
 ---
+
 Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je ve skutečnosti platí? Zdálo by se, že dotace jsou smrt Evropy stejně, jako pomazánkové máslo nebo křivá okurka, protože deformují společnost, ničí podnikatelského ducha a jsou čisté zlo. Ve skutečnosti jsou dotace dalším “vrtěti psem” - pro někoho výtahem k moci (Mach), pro jiné odvádění pozornosti a kultivace jednoduché pozornosti (Zeman) či prostě jen přežívání v patrech vyšší politiky (Huml a další řádka pofiderních politiků z ČSSD i ODS). Na to, abyste došli k takovému závěru, stačí trocha selské úvahy. Jen mít čas ji provést. Pojďme na to spolu. 
 
 Dotace mají být škodlivé, protože ničí podnikatelské prostředí a podnikatelského ducha, dají se rozkrást a zneužít. Tolik hlavní výhrady. Dotace jsou finanční příspěvky, které poskytuje jeden subjekt druhému bez toho, že by očekával přímý profit pro sebe zpět. Dotace jsou tedy formou investice, ačkoliv její přímý výnos bude užívat ten, kdo dotaci dostal. 

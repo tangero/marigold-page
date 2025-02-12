@@ -1,12 +1,23 @@
 ---
 ID: 3862
-title: '5G Jobs Offloading čili  mizení práce kvůli sítím 5G'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-11-13 22:23:35
+post_excerpt: ''
+published: true
+summary_points:
+- Infrastruktura ovlivňuje pracovní příležitosti pozitivně i negativně.
+- Dálnice přináší prekariátní i kvalitní pracovní místa.
+- Odlehlé oblasti mohou profitovat z luxusního turismu.
+- G virtualizace snižuje náklady, ale omezuje lokální pracovní příležitosti.
+- Globální řízení 5G sítí centralizuje rozhodování a redukuje regionální expertní
+  pozice.
+- Česko ztrácí pozici v telekomunikační revoluci kvůli nedostatku inovací.
+- Technické vzdělávání v Česku postrádá obchodní a soft skills aspekty.
+- Uvolněná intelektuální kapacita často odchází do zahraničí.
+title: 5G Jobs Offloading čili  mizení práce kvůli sítím 5G
 ---
+
 <p>Infrastruktura mění pracovní příležitosti v místě, kde je - i kde není. Pozorovali jsme to u dálnic a víme, že je to obousečná zbraň. Dálnice přinese do kraje pracovní příležitosti, jenže nejenom ty lepší, ale i ty prekariátní, jakou nesou sklady, výrobní haly a montovny. Místo, kde dálnice není, může naopak těžit z odlehlosti a stát se rájem luxusnější verze turismu. Dopady jsou těžko odhadnutelné v globálu a zhusta záleží na lokální připravenosti, podmínkách a aktivitě místních lidí či existenci někoho osvíceného, kdo se do záležitosti ponoří a pohne ji svým směrem.</p>
 
 <!--more-->

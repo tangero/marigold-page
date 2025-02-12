@@ -1,12 +1,20 @@
 ---
 ID: 3652
-title: 'Když vytvoříte příležitost a&nbsp;nezvládnete z&nbsp;ní udělat trh (příklad Skype a&nbsp;eknih)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-04-25 07:52:54
+post_excerpt: ''
+published: true
+summary_points:
+- Digitální revoluce přináší nové služby a produkty, ale vytvoření trhu není jednoduché.
+- Elektronické knihy změnily trh vydavatelství a přinesly nové obchodní formáty.
+- Skype změnil telekomunikace, ale nedokázal plně využít svůj potenciál a monetizovat.
+- Chatboti jsou stále ve fázi vývoje a jejich skutečná inteligence ještě není na úrovni
+  očekávání.
+title: Když vytvoříte příležitost a&nbsp;nezvládnete z&nbsp;ní udělat trh (příklad
+  Skype a&nbsp;eknih)
 ---
+
 <p>Jednou z nejdůležitějších součástí digitální revoluce je proměna, kterou přináší na trh novými službami či produkty, jež dříve nebyly možné. Takovým novým službám se snadno podaří zaujmout, radikálně zkomplikují život službám a produktům stávajícím, změní mapu tržního prostředí, ale selžou v tom, vytvořit ze sebe skutečný trh, tedy dostatečné finanční toky.</p>
 
 <p>Dříve existovalo přesvědčení, že nic takového se stát nemůže. Pokud je někde dostatek uživatelů, mělo se za to, že zmonetizovat je půjde vždy. V posledních letech to přesvědčení slábne, hlavně proto, že se na mnoha příkladech z digitální trasformace tržního segmentu ukázalo, že to není zdaleka přímočaré a někdy ani možné.</p>

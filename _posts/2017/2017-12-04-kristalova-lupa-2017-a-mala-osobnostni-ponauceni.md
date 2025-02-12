@@ -1,12 +1,18 @@
 ---
 ID: 3887
-title: 'Křišťálová Lupa 2017 a&nbsp;malá osobnostní ponaučení.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-12-04 16:17:32
+post_excerpt: ''
+published: true
+summary_points:
+- Michal Bláha opět vyhrál Křišťálovou Lupu s projektem Hlídač Státu.
+- Ivo Lukačovič úspěšně rozjel globálně využívanou službu Windy.
+- Janek Rubeš získal cenu Osobnost roku za pranýřování společenských nešvarů.
+- Honza Sadílek z ČTK zůstal neoceněn, přestože je respektovaným odborníkem na telekomunikace.
+title: Křišťálová Lupa 2017 a&nbsp;malá osobnostní ponaučení.
 ---
+
 Včera jsem byl na udílení cen Křišťálové Lupy. Jedna z mála společenských akcí, kam se dostanu. A tohle bude o několika lidech z té akce.<!--more-->
 
 Tak především <strong>Michal Bláha</strong>. Zase vyhrál, už asi tak potřetí, tentokráte s <a href="http://www.hlidacstatu.cz">Hlídačem Státu</a> cenu Projekt roku. Michal je důkaz toho, že stačí umět, být chytrý, zdravý a pracovitý a úspěch se dostaví kdykoliv a opakovaně. A že to není náhoda. Po Atlasu si oddřel další věci. Jasně, ne vždycky se trefíte do něčeho, kde je poptávka tak brutální. Jeho starší projekt On the roads to byl hobby projekt cestovního blogu, určitě by se tím nějak uživil, ale byla to nika. Je část toho všeho umění i schopnost rozpoznat, kdy strážíte vartu, která vás není hodna a vzít si odpovídající výzvu.

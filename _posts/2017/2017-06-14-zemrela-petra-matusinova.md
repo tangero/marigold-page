@@ -1,12 +1,18 @@
 ---
 ID: 3751
-title: Zemřela Petra Matušínová
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-06-14 06:25:30
+post_excerpt: ''
+published: true
+summary_points:
+- Petra Matušínová zemřela na rakovinu lymfatických uzlin.
+- Stála u zrodu prvních mobilních sítí v ČR i ve světě.
+- Projekt Opencard jí zlomil kariéru, přesto zůstala čestná.
+- Věnovala se dobrovolnictví a pomáhala dětem v Africe.
+title: Zemřela Petra Matušínová
 ---
+
 Zemřela Petra Matušínová. Nic vám to neřekne, pravděpodobně jste ji neznali. Není to ta dojemná bulvárová smrt celebrity. Však to také nepíšu pro vás, abych vás dojímal, ale pro sebe, abych se s tím vyrovnal, protože jsem přišel o člověka velmi blízkého, kterého jsem znal dvacet let. Protože její smrt je pro mně ... symbolem doby, to je asi to skoro správné slovo. Vy, kdož jste ji znali, vzpomeňte na ni prosím se mnou.
 
 Petru jsem poznal v roce 1996. Nastoupila nedávno jako asistentka do Nokia Networks, aby si vydělala nějakou korunku na začátek své umělecké dráhy, než půjde na umprum. A její šéf byl největší nokiácká kapacita na výstavbu mobilních sítí. Postavila s ním první GSM síť Eurotelu. Tak jsme se seznámili. Když výstavba skončila, chvíli byla u nás v Mobil serveru, <a href="http://vice.idnes.cz/novinari.aspx?idnov=165">napsala pár článků o mobilních sítích</a> a smála se tomu, že si ji pletli se mnou, občas se podepisovala jako Převlečený Patrick Zandl. Nevzala si za to ani korunu, chystala se na odchod za šéfem. Pak si ji bývalý šéf vytáhl do Švédska, kde postavila první funkční 3G síť světa. A pak další a další sítě. Včetně třetiny sítě Oskara, dnešního Vodafonu. Hádali jsme se do krve. Křičela na mě na obědě, že jsem o ní napsal, že jsou to čubčáci, kteří staví bez stavebního povolení. Oponoval jsem, že je to pravda, že staví. Položila salát, který mi chtěla vyklopit na hlavu a souhlasila, ale takto to prý nejde.

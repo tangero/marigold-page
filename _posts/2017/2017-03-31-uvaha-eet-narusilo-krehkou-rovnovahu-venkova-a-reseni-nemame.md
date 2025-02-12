@@ -1,12 +1,18 @@
 ---
 ID: 3613
-title: 'Úvaha: EET narušilo křehkou rovnováhu venkova a&nbsp;řešení nemáme'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-03-31 07:15:27
+post_excerpt: ''
+published: true
+summary_points:
+- EET zvýšilo náklady restaurací, což vedlo k zdražení poledních menu.
+- Venkovské hospody čelí vyšším cenám kvůli menším možnostem daňových optimalizací.
+- Zavírání hospod na venkově může vést k migraci obyvatel do měst.
+- Řešením mohou být dotace nebo daňové úlevy pro regiony.
+title: 'Úvaha: EET narušilo křehkou rovnováhu venkova a&nbsp;řešení nemáme'
 ---
+
 Dejme ještě jednu šanci přemýšlení nad EET. Řada restaurací zdražila (hlavně polední menu) a to je fakt. Z části pro vyšší náklady a opruz s EET, z části promítla jednorázově dlouhodobé cenové změny vstupů, z další části nepochybně promítla menší možnost daňových optimalizací. Jak kdo, jak kde, jak kolik.
 
 Obecné dělítko je ale "venkov". Prodat pivo za pade ve vesnické hospodě nejde tak snadno, jako na Staromáku v Praze. Jelikož je to podle všeho hodně plošný jev spojený s chudšími regiony, lze z toho usoudit, že existoval značný "skrytý dluh" v těchto regionech, který se zatím řešil obcházením daní. Něco tedy drželo nižší ceny na úkor něčeho jiného, v tomto případě daní. A to je nepopiratelná pravda. V regionech je prokazatelně mnohem vyšší infrastrukturní skrytý dluh, ale třeba i dluh v údržbě nemovitostí atd.

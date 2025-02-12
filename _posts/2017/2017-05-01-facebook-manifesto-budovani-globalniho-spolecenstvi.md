@@ -1,12 +1,18 @@
 ---
 ID: 3671
-title: 'Facebook Manifesto: Budování Globálního Společenství'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-05-01 20:34:53
+post_excerpt: ''
+published: true
+summary_points:
+- Mark Zuckerberg vydal manifest globalizace na Facebooku 16.2.2017.
+- Zuckerberg klade otázku, zda stavíme svět, který všichni chceme.
+- Facebook se zaměřuje na budování globálního společenství propojením lidí.
+- Manifest zdůrazňuje potřebu sociální infrastruktury pro řešení globálních výzev.
+title: 'Facebook Manifesto: Budování Globálního Společenství'
 ---
+
 <p>Tento text považuji za jedno z nejdůležitějších součastných politických prohlášení, snad jen s tou výhradou, že jej nevydal žádný klasický politik, ale “majitel” největšího lidského společenství světa Facebooku: Mark Zuckerberg. Či spíše právě proto jej považuji za velmi důležité a velmi jasně to ukazuje kontury dnešní politiky, kdy směr vývoje lidské společnosti i nástroje k tomu spolu s vizí nabízí šéf firmy, nikoliv politik. Text bývá označován za manifest globalizace. </p>
 
 <p>Ponechám zatím bez odpovědi, zda Zuckerbergův manifest považuji za řešení, nebo spíše budoucí problém, v každém případě ale uznávám důležitost první otázky, kterou Mark otevírá:</p>

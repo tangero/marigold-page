@@ -1,12 +1,26 @@
 ---
 ID: 3463
-title: 'Budoucnost sítí 5G záleží na olympiádě. A&nbsp;na pár dalších drobnostech.'
 author: Patrick Zandl
-post_excerpt: "Jak to bude s mobilními sítěmi páté generace? Do jejich podoby se má promítnout celá řada jevů, pokusme se na ně nyní podívat. Překvapivě hodně bude záviset podoba sítí páté generace na olympijských hrách. Právě tam se chce s úspěšnou implementací technologie pochlubit nejprve korejská, pak čínská i japonská telekomunikační elita."
 layout: post
-published: true
 post_date: 2017-01-04 14:16:02
+post_excerpt: Jak to bude s mobilními sítěmi páté generace? Do jejich podoby se má
+  promítnout celá řada jevů, pokusme se na ně nyní podívat. Překvapivě hodně bude
+  záviset podoba sítí páté generace na olympijských hrách. Právě tam se chce s úspěšnou
+  implementací technologie pochlubit nejprve korejská, pak čínská i japonská telekomunikační
+  elita.
+published: true
+summary_points:
+- Sítě páté generace (5G) budou ovlivněny implementací na olympijských hrách v Koreji,
+  Číně a Japonsku.
+- Standardizace 5G není tak kritická, 3GPP vytváří inkrementální standardy každé 2
+  roky.
+- Americký Verizon se zaměřuje na bezdrátový fixní přístup (FWA) pomocí 5G pro rozsáhlé
+  rurální oblasti.
+- Evropští operátoři usilují o konsolidaci trhu a omezení síťové neutrality pro zlepšení
+  mobilních sítí.
+title: Budoucnost sítí 5G záleží na olympiádě. A&nbsp;na pár dalších drobnostech.
 ---
+
 <p>Jak to bude s mobilními sítěmi páté generace? Do jejich podoby se má promítnout celá řada jevů, pokusme se na ně nyní podívat. Překvapivě hodně bude záviset podoba sítí páté generace na olympijských hrách. Právě tam se chce s úspěšnou implementací technologie pochlubit nejprve korejská, pak čínská i japonská telekomunikační elita. </p>
 
 

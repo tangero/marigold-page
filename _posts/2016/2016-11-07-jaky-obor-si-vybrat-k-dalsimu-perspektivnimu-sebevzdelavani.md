@@ -1,14 +1,21 @@
 ---
 ID: 3296
-title: 'Jaký obor si vybrat k&nbsp;dalšímu perspektivnímu sebevzdělávání'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jaky-obor-si-vybrat-k-dalsimu-perspektivnimu-sebevzdelavani
-published: true
+oldlink: 'https://www.marigold.cz/item/jaky-obor-si-vybrat-k-dalsimu-perspektivnimu-sebevzdelavani
+
+  '
 post_date: 2016-11-07 14:15:28
+post_excerpt: ''
+published: true
+summary_points:
+- Každý rok se detailně věnuji jednomu tématu, např. hodinařině nebo daytradingu.
+- Tento zvyk mi pomáhá proniknout do tématu na expertní úroveň.
+- Pro příští rok zvažuji IT témata jako analýza dat nebo umělá inteligence.
+- Hledám téma s potenciálem zajímavého vývoje a budoucnosti.
+title: Jaký obor si vybrat k&nbsp;dalšímu perspektivnímu sebevzdělávání
 ---
+
 Mezi jeden z mých podivných zvyků patří vybrat si každý rok jednu věc, jedno téma, se kterým se detailně obeznámím. A letos bych potřeboval s výběrem pomoct. 
 
 O co jde. Z počátku to dělal nevědomky, posledních deset patnáct let jsem si proces téměř formalizoval. Například hodinařina. Chtěl jsem pochopit, jak se skládají kolečka k sobě a jak je možné, že ukazují čas. Nebo akciové trhy a daytrading. A protože mám určité množství času, který se efektivně nedá využít jinak, než k sebevzdělávání (třeba přesuny dopravou, kde bych ještě tak číst nesmysly), tak se tomu věnuji. Zvykl jsem si, že za rok se dá do tématu s tím časem a určitou úrovní zvídavosti i zkušeností proniknout hodně do hloubky, na slušně expertní úrovni. Pak už začíná chybět řemeslná praxe. Umím rozebrat a opravit hodinky, neumím je zkonstruovat a naučit se tohle je řemeslný cvik, který zabere moře času a už mě tolik nezaujme. Umím slušně daytradovat akcie v segmentu trhu, který mě zajímá, ale mimo se pouštím nerad, navíc rád experimentuju a mám malou averzi ke ztrátě, což je u takových věcí jako akcie nebo poker dost smrtící. 

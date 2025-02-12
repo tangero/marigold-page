@@ -1,14 +1,21 @@
 ---
 ID: 3316
-title: 'Turismus jako znásilnění místa (poznámka k&nbsp;meditaci)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/turismus-jako-znasilneni-mista
-published: true
+oldlink: 'https://www.marigold.cz/item/turismus-jako-znasilneni-mista
+
+  '
 post_date: 2016-11-21 15:28:27
+post_excerpt: ''
+published: true
+summary_points:
+- Čínským partnerům ukázán Karlštejn s privátními místnostmi císaře
+- Průvodkyně odhalila transformaci soukromých prostor v turistické atrakce
+- Autor reflektuje potřebu soukromí pro rozhodování a meditaci
+- Nesnáší turistické cesty bez hlubšího vztahu k místu a historii
+title: Turismus jako znásilnění místa (poznámka k&nbsp;meditaci)
 ---
+
 O víkendu jsem doprovázel naše čínské partnery na Karlštejn <em>(jejich návštěva je samostatná story na nikdy jindy, seznámit se s čínským miliardářem v teplákách a CTO velké mobilfouní firmy je samo o sobě zajímavý)</em>. 
 
 Průvodkyně nám ukazovala hrad a v jednu chvíli prohlásila, že tohle jsou privátní místnosti císaře, kde mohl rozjímat a meditovat. A protože tohle byl víkend, kdy mě hromadně doháněly stíny minulosti, sepnulo se mi to. Jak na všech těch zámcích a hradech za socíku průvodce/kyně ukazovaly soukromé meditační prostory a záhy prohlásili, že nyní je převzala vláda a dala lidu, aby se mohl podívat, jak si žili panovníci a šlechta dříve. A to, jak jsem jako dítě instinktivně cítil, že je to špatně, jen jsem nevěděl, proč. <!--more-->

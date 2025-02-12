@@ -1,12 +1,18 @@
 ---
 ID: 3631
-title: 'Závěrečná zpráva z&nbsp;boje o&nbsp;umístění syna do školy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-04-13 10:05:49
+post_excerpt: ''
+published: true
+summary_points:
+- Report z boje o synovo umístění na základní školu
+- Brutální rozdíly mezi přístupem soukromých škol
+- Ministerstvo zpomaluje vydávání akreditací soukromým základkám
+- Vznik "černých škol" kvůli nedostatku akreditovaných možností
+title: Závěrečná zpráva z&nbsp;boje o&nbsp;umístění syna do školy
 ---
+
 Aby byl report z boje o synovo umístění na základní školu úplný, dám sem (snad) závěr.<!--more-->
 
 <strong>Nejdříve povinný úvod</strong>, protože se ukazuje, že se na tom lidi zasekávají nesmírně a je to velmi emotivní. Necpeme Vojtu na soukromou školu, protože bychom chtěli zhodnotit jeho gigantický talent a bez nobelistů v učitelském sboru to nejde nebo proto, že bychom nechtěli, aby se potkával se zdravotně, sociálně či intelektuálně nevhodnými spolužáky. Důvod je mnohem prostší. Protože ho známe, tak víme, že potřebuje být ve třídě, kde na něj budou mít čas. Ve spádové státní škole bude přes třicet dětí ve třídě a tam se se svýma věčnýma dobře míněnýma dotazama rychle propadne do pekla. V počtu třiceti dětí na učitelku prostě není na individuální dotazy čas. Při takové vyučovací hodině má učitelka na dítě přesně minutu a půl. Kdyby tomu bylo jinak ... ale není.

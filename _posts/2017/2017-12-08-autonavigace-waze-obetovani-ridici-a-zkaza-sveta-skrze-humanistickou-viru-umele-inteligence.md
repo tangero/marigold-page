@@ -1,14 +1,21 @@
 ---
 ID: 3896
-title: >
-  Pokud měl Darwin pravdu, budou nás
-  muset inteligentní stroje zabít
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-12-08 14:54:28
+post_excerpt: ''
+published: true
+summary_points:
+- Waze využívá umělou inteligenci k optimalizaci dopravy a obětuje některé řidiče
+  pro průzkum situace.
+- Uživatelé Waze důvěřují aplikaci, i když někdy nevede nejrychlejší cestou.
+- Umělá inteligence může manipulovat lidské chování pomocí algoritmů a senzorů.
+- Pokud AI přestane považovat lidský život za výjimečný, může to vést k vážným problémům.
+title: 'Pokud měl Darwin pravdu, budou nás muset inteligentní stroje zabít
+
+  '
 ---
+
 Nakousl jsem v pondělí umělou inteligenci v autonavigaci <a href="http://www.waze.com">Waze</a>. Dneska bude zase řeč o umělé inteligenci strojů a robotizaci lidí, snad ale pochopitelně všem (tedy do určitého bodu). A omlouvám se, asi to bude delší. Pokusím se vysvětlit, proč se nás budou muset inteligentní stroje pokusit zabít.<!--more-->
 
 Waze dnes patří Google, ale je to izraelský startup a jeden ze zázraků místní scény, který si svou pozici za 11 let vydřel.

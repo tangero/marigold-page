@@ -1,16 +1,24 @@
 ---
 ID: 3263
-title: >
-  Jak Amazon Echo zpopelňuje šance Apple
-  na domácí revoluci
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-amazon-echo-zpopelnuje-sance-apple-na-domaci-revoluci
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-amazon-echo-zpopelnuje-sance-apple-na-domaci-revoluci
+
+  '
 post_date: 2016-10-26 07:07:49
+post_excerpt: ''
+published: true
+summary_points:
+- Hlasové vyhledávání mění způsob, jakým hledáme informace na internetu
+- Amazon a Apple se zaměřují na hlasové asistenty jako Siri a Alexa
+- Amazon Echo se stává populárním díky jednoduchému ovládání a integraci s domácí
+  automatizací
+- Boj o centrum chytré domácnosti mezi Amazonem a Applen se stává bodem zlomu
+title: 'Jak Amazon Echo zpopelňuje šance Apple na domácí revoluci
+
+  '
 ---
+
 Už dávnou soudím, že  jestli něco zásadně změní vyhledávání na internetu a s tím i pozici firem, které na vyhledávání zásadně závisí (třeba Google), bude to hlasové vyhledávání. Samozřejmě kromě toho, že vyhledávat přestaneme, k čemuž sociální sítě a bubliny v nich směřují. 
 
 Nerozumějte mi špatně. Hlasovým vyhledáváním nemám na mysli tu ikonku ve vyhledávacím řádku Google na vašem mobilu. Myslím tím hlasové asistenty jako Siry od Apple, případně Cortana Microsoftu. A samozřejmě Alexa od Amazonu. 

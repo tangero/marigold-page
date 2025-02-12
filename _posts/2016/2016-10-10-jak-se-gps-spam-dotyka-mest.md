@@ -1,14 +1,21 @@
 ---
 ID: 3219
-title: Jak se GPS spam dotýká měst
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-se-gps-spam-dotyka-mest
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-se-gps-spam-dotyka-mest
+
+  '
 post_date: 2016-10-10 08:45:37
+post_excerpt: ''
+published: true
+summary_points:
+- GPS navigace jako Waze mění trasy, vedoucí auta do rezidenčních zón.
+- Masové používání navigací způsobuje problémy v městech s nedostatečnou infrastrukturou.
+- Města se snaží řešit problémy způsobené navigacemi omezením rychlosti a průjezdu.
+- Řešením problémů s dopravou ve městech může být posílení hromadné dopravy a chodců.
+title: Jak se GPS spam dotýká měst
 ---
+
 I GPSka dělá problémy se spamováním. Zdálo by se, že je to technologie dost neutrální, ba i zajištěná na to, aby se nic takového nestávalo, jenže to tak docela není pravda. Dnes není problémem jen samotné zajištění a neprolomitelnost technologie, ale i její masové používání. To vede k dosud nedomýšleným důsledkům. Jako v případě GPS a inteligentních navigací.
 
  <!--more-->

@@ -1,12 +1,21 @@
 ---
 ID: 3490
-title: 'Po čistce zase v&nbsp;práci'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-01-28 11:06:02
+post_excerpt: ''
+published: true
+summary_points:
+- Rozhodl jsem se radikálně změnit uspořádání života a práce.
+- Ukončil jsem aktivity bez smyslu a zaměřil se na přínosné projekty.
+- Přestal jsem vést každodenní provoz v Energomonitoru kvůli náročnosti.
+- Přijal jsem roli vedoucího projektu Turris v CZ.NIC.
+- Turris je bezpečný router s otevřeným konceptem a automatickými aktualizacemi.
+- Snažím se adaptovat na nové prostředí a přístupy v CZ.NIC.
+- Turris zatím není vhodný pro běžné uživatele bez technických znalostí.
+title: Po čistce zase v&nbsp;práci
 ---
+
 <p>
 Vloni jsem se rozhodl, že je potřeba pár věcí udělat od základu jinak. Že už to nejde jen "vylepšovat". Typicky uspořádání života a práce. Za léta se mi nahromadila řada aktivit, které jsem dělal prostě proto, že jsem je vždycky dělal, kdysi z nějakého důvodu, ale ten už se dávno vytratil, přitom jsem kvůli nim nemohl dělat jiné. Často šlo o věci s drobným generovaným příjmem, které mi bylo možná kvůli tomu líto opustit, nebo to někomu prospívalo a dělalo radost. Do toho bylo potřeba připustit že každodenní provoz v Energomonitoru neutáhnu, protože přijet někam na porady po čtyřech hodinách ve vlaku a takhle to otočit ideálně několikrát, je dost záhul. A bude lepší ponechat to na mladších a na lidech v místě. Moje chyba, že jsem si to nepřiznal dříve, trvalo mi to tak o půl roku déle, než muselo.</p>
 
@@ -50,4 +59,3 @@ Turris si zatím nekupujte, pokud nejste kamarádi s příkazovou řádkou linux
 
 <p>
 A držte mi palce. Držte jim palce.</p>
-

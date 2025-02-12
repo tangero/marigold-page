@@ -1,14 +1,22 @@
 ---
 ID: 3195
-title: 'Eshopy v&nbsp;době sociálních sítí a&nbsp;obsahového šílení (pár dojmů z&nbsp;EBF2016)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eshopy-v-dobe-socialnich-siti-a-obsahoveho-sileni-par-dojmu-z-ebf2016
-published: true
+oldlink: 'https://www.marigold.cz/item/eshopy-v-dobe-socialnich-siti-a-obsahoveho-sileni-par-dojmu-z-ebf2016
+
+  '
 post_date: 2016-09-30 10:40:15
+post_excerpt: ''
+published: true
+summary_points:
+- E-commerce vyžaduje unikátní obsah pro získání zákazníků bez drahé reklamy.
+- Limitované edice zboží mohou generovat vysoké zisky na trzích jako eBay.
+- Facebook algoritmy omezují dosah příspěvků bez placené reklamy.
+- Specializované eshopy musí budovat loajální zákaznickou základnu pro přežití.
+- Propojení online a offline prodeje se stává klíčovým trendem.
+title: Eshopy v&nbsp;době sociálních sítí a&nbsp;obsahového šílení (pár dojmů z&nbsp;EBF2016)
 ---
+
 Vyrazil jsem <a href="http://www.tuesday.cz/akce/e-business-forum-2016/">v úterý na EBF</a>, abych si osvěžil informace stran elektronického obchodování na internetu. A rád bych si pořídil pár zápisků k dalším úvahám. 
 
 Hlavní nit se táhla skrze všechny přednášky. Jak levně akvírovat nové zákazníky? Vlastně nejlépe tak, že je bombardujete výzvama, zapojujete je a vytváříte pro ně unikátní obsah, soudili zhusta přednášející, protože jen tak se vyhnete drahé reklamě. V podstatě to znělo z každé jen mírně teoreticky laděné přednášky. Však taky někdo z publika troufale nahodil otázku, jak se v tomhle odlišit, když to bude dělat každý. 

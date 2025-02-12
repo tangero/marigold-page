@@ -1,14 +1,20 @@
 ---
 ID: 3825
-title: >
-  Bezrámečkový displej je koncem
-  designu mobilních telefonů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-09-16 17:27:37
+post_excerpt: ''
+published: true
+summary_points:
+- Bezrámečkový displej je považován za konec designu mobilních telefonů.
+- Všechny moderní mobily vypadají podobně, inspirovány iPhonem.
+- Face ID od Apple je výrazně pokročilejší než konkurenční řešení.
+- Budoucnost mobilů bude v interních funkcích, nikoli ve vzhledu.
+title: 'Bezrámečkový displej je koncem designu mobilních telefonů
+
+  '
 ---
+
 <p>Tohle je dost zajímavý postřeh: bezrámečkový displej je koncem designu mobilních telefonů. Přišel s ním designer Philippe Starck (dělá design některých Xiaomi telefonů) - a pravděpodobně každý, kdo nějaký bezrámečkový mobil viděl. Jsou si podobné jako vejce vejci a takový Essential od iPhone X je na fotkách z větší vzdálenosti těžko rozeznat. Zatím to zachraňují rozdílné stranové poměry, ale věřím, že vymýšlet ideální stranový poměr bude pro designery za chvíli dost otupující.</p>
 
 

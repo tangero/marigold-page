@@ -1,14 +1,21 @@
 ---
 ID: 3079
-title: 'Apple v&nbsp;roce přepálených očekávání'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/apple-v-roce-prepalenych-ocekavani
-published: true
+oldlink: 'https://www.marigold.cz/item/apple-v-roce-prepalenych-ocekavani
+
+  '
 post_date: 2016-05-30 18:55:19
+post_excerpt: ''
+published: true
+summary_points:
+- Apple je úspěšná firma, ale čelí tlaku kvůli obrovským finančním rezervám.
+- Očekávání od nových produktů se zvyšuje, ale technologické inovace jsou obtížné.
+- Apple zvyšuje výdaje na výzkum a vývoj, aby udržel konkurenceschopnost.
+- Firma se snaží expandovat do nových trhů a hledá nové produkty, jako je elektromobil.
+title: Apple v&nbsp;roce přepálených očekávání
 ---
+
 <p>Apple je jedna z firem, která stojí na neobvyklém rozcestí: je natolik úspěšná, že ji vlastní úspěch sráží. V IT průmyslu byste pohledali lepší generátor peněz a jinou firmu, která sedí na dvoustech miliardách dolarů. To je tak velký balík, že už jen způsob, jakým by firma nejrůznější formy tohoto balíku proměnila ve skutečnou hotovost, plní finanční zpravodajství nejvzrušenějšími spekulacemi, jakých jsou lidé kolem peněz schopni.</p>
 
 

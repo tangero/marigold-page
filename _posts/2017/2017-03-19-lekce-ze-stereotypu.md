@@ -1,12 +1,18 @@
 ---
 ID: 3585
-title: Lekce ze stereotypů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-03-19 19:39:53
+post_excerpt: ''
+published: true
+summary_points:
+- Nedostatek slušného oblečení vyvolává obavy před prezentací na CeBITu.
+- Vágus hrající na piáno překvapí svým talentem a rozbije stereotypy.
+- Turistky jsou přesvědčeny, že vágus je slavný český pianista.
+- Vágus odhaluje, že hraje zřídka, ale piáno ho přimělo k improvizaci.
+title: Lekce ze stereotypů
 ---
+
 Balada o klišé. Balím se na CeBIT a dochází mi, jak málo slušného oblečení mám. Zhubnutí šatníku nesvědčí. A pak boty: mám na běhání, do terénu, slušného neutrálního nic. Říkám si, že mě jistě nebudou posuzovat podle oblečení, ale podle mé pronikavé inteligence, s níž jim budu presentovat naši práci.
 Na nádraží zjišťuju, že rychlík do Hamburku má dvacet minut zpoždění. Že mě to nepřekvapuje. Opírám se na Hlaváku o zábradlí a všímám si váguse, který se plíží k piánu. Obezřetně váguse sleduju, mám dvacet minut čas a jsem zvědavý, jak se pokusí to piáno ukrást. Zmenší si ho do kapsy?
 Vágus si odborně vytočí židličku jedním trhnutím ruky a holení její točení zastaví na milimetr přesně. Sedá za piáno a mě dochází, že krást se nebude. Přerovnává si ledvinku u pasu, aby mu netlačila do pupku, baže má přes metrák a půl. Popotáhne si šusťáky, lyžařskou čepici značky Adidas starou půl století si vytáhne z čela. A udeří do kláves. Hraje čtvrt hodiny, chvíli úryvky z Rachmaninova, jindy to buďto nepoznávám, nebo jen tak improvizuje. Děkuji Bohu za to, že mi dává lekce ze stereotypů.

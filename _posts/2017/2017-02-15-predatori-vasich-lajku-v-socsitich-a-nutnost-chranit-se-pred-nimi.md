@@ -1,12 +1,19 @@
 ---
 ID: 3515
-title: 'Predátoři vašich lajků v&nbsp;socsítích a&nbsp;nutnost chránit se před nimi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-02-15 10:16:40
+post_excerpt: ''
+published: true
+summary_points:
+- Cambridge Analytica využívala destilační algoritmy k ovlivnění voleb ve prospěch
+  Trumpa.
+- Potřeba vytvořit osobní firewall k ochraně proti sledování chování a vytváření profilů.
+- Lajkování musí vypadat věrohodně a být skryto před filtrem Facebooku.
+- Možnost instalovat ochranný software na router k maskování lajků a filtrování notifikací.
+title: Predátoři vašich lajků v&nbsp;socsítích a&nbsp;nutnost chránit se před nimi
 ---
+
 Přečetl jsem si <a href="https://zpravy.aktualne.cz/zahranici/zadny-zabijak-voleb-neexistuje-je-to-jen-sikovna-reklama-jed/r~0dc71f94f20111e69d89002590604f2e/">rozhovor s Josefem Šlerkou</a> o <a href="https://cambridgeanalytica.org">Cambridge Analytica</a> - firmě, která měla skvělými destilačními algoritmy ze sociálních sítí rozhodnout volby ve prospěch Trumpa. Mám stejné latentní podezření: firma spíše skvěle prodává sebe, než prodala Trumpa. Jedna věc je rozškatulkovat voliče, jiná věc je vytvořit zprávu a tu věrohodně doručit, to všechno za efektivních nákladů.
 
 Ale před časem mě tento (a podobný) monitoring socsítí přivedl k jiné myšlence. Na každou zbraň se časem začne poptávat protizbraň. Jenže jak udělat protizbraň na něco, co sleduje vaše chování, vychytává vaše slabiny a připravuje maximální možný úder do slabých míst? Inu, to byste potřebovali osobní firewall. Něco, co "podvrhne" vaše chování, například to bude vystupovat velmi transparentně a přesvědčivě vůči sociálním sítím a "lajkovat" za vás témata, která ve skutečnosti vůbec nelajkujete. Jen proto, aby to zmátlo váš osobnostní profil u takových predátorů, jako je CamAn - a donutilo je to vygenerovat plonkové kampaně na vaši osobu, které se netrefí do vašich slabin.

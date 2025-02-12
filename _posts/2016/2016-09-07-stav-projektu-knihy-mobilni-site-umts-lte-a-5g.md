@@ -1,14 +1,21 @@
 ---
 ID: 3154
-title: 'Stav projektu knihy Mobilní sítě UMTS, LTE a&nbsp;5G'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/stav-projektu-knihy-mobilni-site-umts-lte-a-5g
-published: true
+oldlink: 'https://www.marigold.cz/item/stav-projektu-knihy-mobilni-site-umts-lte-a-5g
+
+  '
 post_date: 2016-09-07 10:19:43
+post_excerpt: ''
+published: true
+summary_points:
+- Autor plánuje dokončit knihu o mobilních sítích pro laiky.
+- Knihy se vyhýbá technickým detailům, které nejsou obecně zajímavé.
+- Zaměřuje se na historii, politiku a vývoj mobilních sítí a standardů.
+- Projekt může skončit jako webová verze, nebo kniha, záleží na vydavateli.
+title: Stav projektu knihy Mobilní sítě UMTS, LTE a&nbsp;5G
 ---
+
 <p>Předsevzal jsem si, že dodělám knihu věnovanou mobilním sítím. Srozumitelnou, pro normální lidi, které by zajímalo, jak dnešní mobilní sítě fungují. Nevím, jestli tací lidé jsou (kromě mě), ale to je teď fuk. No a protože každý takovýhle rozsáhlejší “projekt” potřebuje nějaký bič a tenhle nemá žádný typu “deadline, po kterém bude vydavatel nasrán, když nedodám”, řekl jsem si, že nejlepší bude veřejná kontrola. Následuje předpokládaný stručný obsah knihy a stav rozpracovanosti. </p>
 
 <!--more-->

@@ -1,14 +1,20 @@
 ---
 ID: 3793
-title: >
-  ICO čili Initial Coin Offering,
-  kryptoinvestice bez regulace
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-07-31 09:26:37
+post_excerpt: ''
+published: true
+summary_points:
+- ICO je neregulovaný způsob financování pomocí kryptoměn.
+- ICO umožňuje firmám získat peníze bez formálních akcií a papírování.
+- Mastercoin byl první ICO v roce 2013, s proměnlivým úspěchem.
+- Scam ICO poznáte podle anonymity, nerealistických cílů a přílišného marketingu.
+title: 'ICO čili Initial Coin Offering, kryptoinvestice bez regulace
+
+  '
 ---
+
 ICO je způsob, jak (zejména) blockchainové společnosti mohou sehnat peníze mimo klasické finanční sféry. Je to drobná ekonomicko-společenská zajímavost na pomezí revoluce, hry a podvodu, tak jako momentálně všechno kolem kryptoměn. ICO je odvozeno zcela nepokrytě od IPO, veřejného úpisu akcií, protože nejčastější výklad toho slova je vlastně veřejný úpis elektronických podílů. Je to způsob, jak podpořit něčí podnikání výměnou za podíl na výnosech, potenciál růstu vašeho podílu nebo jen za dobrý pocit.<!--more-->
 <h3>ICO je IPO bez regulací</h3>
 Tady je totiž skrytý první zádrhel propojený s první hlavní výhodou ICO oproti třeba právě IPO. ICO není nijak regulované a co si pod ním kdo představuje, je na každém - a na dohodě. Konsensuáně nejvíce přijímaný výklad spojuje ICO s nabídkou určitých práv vůči společnosti přes krytpoměny, typicky přes platformu ethereum, ve skutečnosti je ale i třeba Kickstarter druhem ICO: něco nabídnete výměnou za peníze. Součástí ICO nemusí být podíl ve firmě a už vůbec nemusí ten podíl být ekvivalentem akcií, tedy obsahovat rovná hlasovací práva atd. Právě to užití kryptoměn a na nich navázaného systému chytrých kontraktů odlišuje ICO od běžného crowdfundingu.

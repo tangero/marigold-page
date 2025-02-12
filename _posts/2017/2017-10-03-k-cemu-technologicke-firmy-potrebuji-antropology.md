@@ -1,14 +1,20 @@
 ---
 ID: 3835
-title: >
-  K čemu technologické firmy potřebují
-  antropology
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-10-03 19:10:10
+post_excerpt: ''
+published: true
+summary_points:
+- Zaměstnanost antropologů v technologických firmách roste posledních 15 let.
+- Potřeba porozumění chování lidí při návrhu produktu pro různé kultury.
+- 'Největší zaměstnavatelé antropologů: vláda, Apple, Microsoft.'
+- Česká společnost často opovrhuje softskills a technici jsou považováni za méněcenné.
+title: 'K čemu technologické firmy potřebují antropology
+
+  '
 ---
+
 TL;DR: Posledních 15 let výrazně roste zaměstnanost antropologů v technologických firmách. Při návrhu produktu je potřeba někdo, kdo rozumí tomu, jak lidé v různých kulturách mohou chtít zařízení či službu používat. Největší zaměstnavatelé: vláda, Apple, Microsoft. V Česku ale chováme k softskills často opovržení a mezi techniky jsou brány nezřídka jako méněcenné.<!--more-->
 
 Long story: Tahle informace z jedné nedávné konference mě zaujala. Americká vláda je největším zaměstnavatelem antropologů, za ní je teprve Microsoft a ten v roce 2010 měl předehnat Apple, teprve za nimi je Intel a řada dalších technologických firem.

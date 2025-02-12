@@ -1,14 +1,21 @@
 ---
 ID: 3061
-title: 'SmartCities: o&nbsp;chytrosti v&nbsp;technice a&nbsp;hlouposti v&nbsp;nás'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/smartcities-o-chytrosti-v-technice-a-hlouposti-v-nas
-published: true
+oldlink: 'https://www.marigold.cz/item/smartcities-o-chytrosti-v-technice-a-hlouposti-v-nas
+
+  '
 post_date: 2016-05-05 08:01:54
+post_excerpt: ''
+published: true
+summary_points:
+- Smart Cities jsou strategie zahrnující zlepšení života ve městech
+- Chytrost a strategie jsou důležitější než technologie pro Smart Cities
+- Vertikální stratifikace měst je obtížná kvůli nedůvěře a korupci
+- Smart řešení vyžadují kontinuální vývoj a otevřenost pro další inovace
+title: 'SmartCities: o&nbsp;chytrosti v&nbsp;technice a&nbsp;hlouposti v&nbsp;nás'
 ---
+
 <p>Byl jsem dneska na konferenci Smart Cities pořádané Economií, seděl jsem tam v panelu, ve kterém půlku z pěti lidí dělali zástupci čeští, druhou zástupci zahraniční (a já dělal půlku na obě strany). Bylo to zajímavé setkání dvou světů a tak několik poznámek. </p>
 
 
