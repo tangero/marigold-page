@@ -16,7 +16,7 @@ title: Projev viceprezidenta JD Vance na pařížském AI summitu 2025
 ---
 
 
-Na pařížském AI Summitu přednesl JD Vance důležitý projev, který zcela jasně ukázal, jak Trumpova administrativa hodlá přistupovat k umělé inteligenci. Vance zdůraznil, že umělá inteligence je nejen technologií budoucnosti, ale také nástrojem, který může zlepšit životy lidí po celém světě. Zároveň však varoval před nebezpečím, které může AI přinést, pokud se dostane do špatných rukou. Vance také zdůraznil, že Trumpova administrativa bude vždy klást důraz na americké pracovníky a zajistí, aby AI učinila naše pracovníky produktivnějšími a zlepšila jejich životní podmínky. Projev viceprezidenta Vance byl velmi dobře přijat a mnoho účastníků konference souhlasilo s jeho názory.
+Na pařížském AI Summitu přednesl JD Vance důležitý projev, který zcela jasně ukázal, jak Trumpova administrativa hodlá přistupovat k umělé inteligenci. Vance zdůraznil, že umělá inteligence je nejen technologií budoucnosti, ale také nástrojem, který může zlepšit životy lidí po celém světě. Zároveň však varoval před nebezpečím, které může AI přinést, pokud se dostane do špatných rukou. 
 
 Projev považuji za velmi důležitý a proto jsem, kromě odkazu na celý projev, připravil jeho přepis. Mezititulky jsem doplnil já. 
 
