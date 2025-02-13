@@ -1,15 +1,28 @@
 ---
 ID: 2322
-title: Lahůdková mezifiremní korespondence
 author: Patrick Zandl
-post_excerpt: "Vím, neblogoval jsem delší dobu. Nebylo nějak chuti a dalších ingrediencí. A teď, když jsem přemýšlel, čím znovu vstoupit na web, jehož prkna znamenají blog, jsem dostal lahůdkový email z vnitrofiremní korespondence jisté české internetové firmy, kde obchodní ředitel píše technickému ředitelovi, svému kolegovi. Samozřejmě hypotetické firmy, hypotetičtí lidé, protože jde nepochybně o email smyšlený ... "
+categories:
+- Příběhy
+- Stream.cz
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lahudkova-mezifiremni-korespondence
-published: true
+oldlink: 'https://www.marigold.cz/item/lahudkova-mezifiremni-korespondence
+
+  '
 post_date: 2009-04-06 14:40:12
-categories: [Příběhy, Stream.cz]
+post_excerpt: 'Vím, neblogoval jsem delší dobu. Nebylo nějak chuti a dalších ingrediencí.
+  A teď, když jsem přemýšlel, čím znovu vstoupit na web, jehož prkna znamenají blog,
+  jsem dostal lahůdkový email z vnitrofiremní korespondence jisté české internetové
+  firmy, kde obchodní ředitel píše technickému ředitelovi, svému kolegovi. Samozřejmě
+  hypotetické firmy, hypotetičtí lidé, protože jde nepochybně o email smyšlený ... '
+published: true
+summary_points:
+- Obchodní ředitel kritizuje technického ředitele za zavedení "activity listů".
+- IT rozpočet je podle obchodního ředitele klíčový problém firmy.
+- Vývoj projektu Slaviatv je označen za neúspěšný a předražený.
+- Obchodní ředitel odmítá "tunelování" projektu přes neefektivní IT.
+title: Lahůdková mezifiremní korespondence
 ---
+
 Vím, neblogoval jsem delší dobu. Nebylo nějak chuti a dalších ingrediencí. A teď, když jsem přemýšlel, čím znovu vstoupit na web, jehož prkna znamenají blog, jsem dostal lahůdkový email z vnitrofiremní korespondence jisté české internetové firmy, kde obchodní ředitel píše technickému ředitelovi, svému kolegovi. Samozřejmě hypotetické firmy, hypotetičtí lidé, protože jde nepochybně o email smyšlený ... 
 
 A myslím, že stojí za přečtení, lepší bych nenapsal v době nejvyšší formy a vysmátosti. A když už tomu emailu neuvěříte, alespoň se, věřím, pobavíte. Autorovi gratuluji, názory na autorství si asi nechme od cesty...

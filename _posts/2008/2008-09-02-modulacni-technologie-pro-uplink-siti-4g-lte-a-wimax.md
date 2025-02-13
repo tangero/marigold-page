@@ -1,15 +1,25 @@
 ---
 ID: 2276
-title: Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
+- LTE
+- 4G
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax
-published: true
+oldlink: 'https://www.marigold.cz/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax
+
+  '
 post_date: 2008-09-02 11:54:00
-categories: [Mobilní sítě, LTE, 4G]
+post_excerpt: ''
+published: true
+summary_points:
+- LTE a WiMax používají OFDM pro downlink, ale pro uplink LTE používá SC-FDMA.
+- OFDMA přenáší data pomocí více úzkopásmových pod-nosných současně.
+- SC-FDMA rozprostírá informace přes všechny pod-nosné pomocí FFT před IFFT.
+- SC-FDMA snižuje PAPR (Peak to Average Power Ratio), což šetří baterii.
+title: Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA
 ---
+
 V další části povídání o vývoji situace v mobilních datech jsem se chtěl podívat na rozvoj WiMaxu a LTE, jenže jsem si s hrůzou povšiml, že o LTE jako technologii je na Marigoldovi jen málo. Takže musíme splatit dluh. Ještě před tím, než si nové 4G technologie (LTE, WiMax a UWB) porovnáme - to asi někdy příště - tak se mrkneme na rozdíly mezi způsobem modulace signálu. 
 <!--more-->
 
@@ -61,7 +71,4 @@ OFDM vezme skupinu vstupních bitů, z nich jsou vytvořeny pod-nosné a ty jsou
 
 Vidíme zřetelně, že toto rozprostírání přidává další nároky jak na straně vysílače, tak přijímače. Otázka je, proč toto řešení bylo zvoleno v LTE. Důvod je jednoduchý: snížení <strong>PAPR</strong>, tedy poměru špičkového a průměrného výkonu: <strong>Peak to Average Power Ratio</strong>. Tento poměr je u samotného OFDMA příliš vysoký, což znamená nejenom vyšší nároky na baterie telefonu, ale také riziko zarušení vlastní sítě zbytečně vysokým vysílacím výkonem mobilky. Právě použitím SC-FDMA se poměr PAPR významně snižuje, čímž dochází jak k úspoře baterií, tak k vyšší přenosové rychlosti na uplinku. 
 
-Poznámka pro lidi, které mate občasná záměna diskrétní fourierovy transformace DFT a rychlé fourierovy transformace FFT - to druhé je praktická implementace toho prvního. 
-
-
-
+Poznámka pro lidi, které mate občasná záměna diskrétní fourierovy transformace DFT a rychlé fourierovy transformace FFT - to druhé je praktická implementace toho prvního.

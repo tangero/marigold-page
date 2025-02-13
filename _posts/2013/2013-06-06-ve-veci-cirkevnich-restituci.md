@@ -1,15 +1,26 @@
 ---
 ID: 2656
-title: Ve věci církevních restitucí
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Společnost
+- Církev
+- Restituce
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ve-veci-cirkevnich-restituci
-published: true
+oldlink: 'https://www.marigold.cz/item/ve-veci-cirkevnich-restituci
+
+  '
 post_date: 2013-06-06 14:24:02
-categories: [Společnost, Církev, Restituce]
+post_excerpt: ''
+published: true
+summary_points:
+- Církevní restituce vrací majetek z roku 1949, který byl církvi nezaplaceně odebrán.
+- Stát vrací pouze majetek, který aktuálně vlastní, jinak poskytne finanční náhradu.
+- Nároky církví musí být doloženy, a zahrnují i budoucí postupné snižování státních
+  příspěvků.
+- Cílem restitucí je majetkové vyrovnání a oddělení církve od státu do roku 2043.
+title: Ve věci církevních restitucí
 ---
+
 <p>Je paradoxem, když ostrý kritik církve jde psát něco, s čím nakonec bude církev hájit. Jenže je mi nepříjemné číst kolem sebe neustále ty nesmysly kolem církevních restitucí a bláboly politiků, které se nezakládají na faktech. Tento článek bude tedy stručným kompendiem fakt kolem církevních restitucí pro ty, kdo o ně mají zájem. Pro ostatní, jděte bez váhání jinam, do diskusí na iDnes, Blesku nebo do grémia ČSSD.</p>
 
 

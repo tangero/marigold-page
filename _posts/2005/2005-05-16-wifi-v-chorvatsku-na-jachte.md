@@ -1,15 +1,21 @@
 ---
 ID: 1647
-title: 'WiFi v&nbsp;Chorvatsku na jachtě'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-v-chorvatsku-na-jachte
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-v-chorvatsku-na-jachte
+
+  '
 post_date: 2005-05-16 13:55:31
+post_excerpt: ''
+published: true
+summary_points:
+- Autor jachtil v Chorvatsku s IT specialisty na lodi Teuta Bavaria 49.
+- Během plavby se zlomil spinakrový peň a posádka "krmila ryby".
+- Na lodi byl dostupný internet přes GPRS a Wi-Fi od T-mobile.
+- Posádka testovala bezpečnost Wi-Fi hotspotů a objevila díry v systému.
+title: WiFi v&nbsp;Chorvatsku na jachtě
 ---
-	
+
 <div class=rightbox><img src="/wp-content/uploads/cache/20050516-jachtas.jpg" alt="Foto z plavby, já jsem ten v černé mikině" width="300" height="225" /></div>
 <p><strong>Noname píše</strong>: zpráva pro ty, kterým týden chyběly mé žvásty na každém druhém českém serveru - byl jsem se známými a kamarády jachtit v Chorvatsku a už jsem se vrátil. Nebýt druhého dne, kdy jsme zlomili spinakrový peň (něco jako ráhno) a následujících několik hodin jsme "krmili ryby" (já vyhrál soutěž o nějvětšího "krmiče"), bych celou akci hodnotil 100% kladně, takhle dávám jen 99%.</p>
 

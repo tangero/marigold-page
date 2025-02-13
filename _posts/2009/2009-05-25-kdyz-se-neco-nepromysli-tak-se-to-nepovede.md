@@ -1,17 +1,28 @@
 ---
 ID: 2323
-title: >
-  Když se něco nepromyslí, tak se to
-  nepovede
 author: Patrick Zandl
-post_excerpt: "Něco o redesignování serverů ... "
+categories:
+- Příběhy
+- Redesign
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdyz-se-neco-nepromysli-tak-se-to-nepovede
-published: true
+oldlink: 'https://www.marigold.cz/item/kdyz-se-neco-nepromysli-tak-se-to-nepovede
+
+  '
 post_date: 2009-05-25 22:04:19
-categories: [Příběhy, Redesign]
+post_excerpt: 'Něco o redesignování serverů ... '
+published: true
+summary_points:
+- Žena-in po redesignu zaznamenala výrazný pokles návštěvnosti dle dat NetMonitoru.
+- Pokles návštěvnosti Žena-in kontrastuje se stagnací či mírným poklesem u konkurenčních
+  serverů.
+- Autor kritizuje nezvládnutý redesign Žena-in a nedostatečnou komunikaci s uživateli.
+- Autor nabízí ponaučení z neúspěšného redesignu Žena-in, zdůrazňuje důležitost zpětné
+  vazby.
+title: 'Když se něco nepromyslí, tak se to nepovede
+
+  '
 ---
+
 Zaujalo mne to. Minule, když jsem si dovolil o redesignu <a href="http://www.zena-in.cz/">Žena-in</a> napsat <a href="http://www.lupa.cz/zpravicky/zena-in-v-prechodu-a-la-radek-hulan/">do zpráviček na Lupu</a>, tak si v diskusi několik lidí přisadilo, že určitě jen kvůli realizátorovi. Těžko vysvětlovat, že nikoliv, že hlavně proto, že jde o výborný příklad nezvládnutého "redesignu" a komunikace kolem něho, jaký si můžu dovolit já na Marigoldovi, jehož čtenost je mi ukradená, ale těžko někdo se serverem, jenž by měl být komerční. A tak se i chovat - komerčně, tedy i transparentně. 
 
 Po téměř dvou měsících jsem si na celou kauzu vzpomněl a podíval se, jaké jsou výsledky. Žena-in je auditována v NetMonitoru, takže máme důvěryhodná čísla (byť NetMonitor nyní má své potíže, pro dannou věc nepodstatné). Použil jsem RUest, tedy denní reálné uživatele očištěné o duplicity, ke grafu jsem namátkou přidal několik návštěvností podobných ženských serverů. Pro snadnější analýzu je do grafu vložena lineární regresní křivka. 

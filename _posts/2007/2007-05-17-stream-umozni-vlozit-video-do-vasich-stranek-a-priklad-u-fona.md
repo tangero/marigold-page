@@ -1,14 +1,22 @@
 ---
 ID: 2106
-title: 'Stream umožní vložit video do vašich stránek a&nbsp;příklad U-fona'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/stream-umozni-vlozit-video-do-vasich-stranek-a-priklad-u-fona
-published: true
+oldlink: 'https://www.marigold.cz/item/stream-umozni-vlozit-video-do-vasich-stranek-a-priklad-u-fona
+
+  '
 post_date: 2007-05-17 10:02:27
+post_excerpt: ''
+published: true
+summary_points:
+- Stream umožňuje vkládat uživatelská videa do stránek pomocí vygenerovaného HTML
+  kódu.
+- Stream má pro český trh lepší distribuční síť než Youtube.
+- Stream ztěžuje uložení videa z distribuční sítě na lokální disk.
+- Pro vkládání videa do HTML se používá Script, nikoliv embeded object.
+title: Stream umožní vložit video do vašich stránek a&nbsp;příklad U-fona
 ---
+
 Tahle funkce nakonec trvala o něco déle, než jsme čekali, protože nás pohltila příprava virtuálního studia. O něm ale někdy jindy, protože je to dost zajímavé na to, aby se to dalo odbýt pár slovy. 
 
 <strong>Vkládání videí do vašich stránek</strong> je funkce, kterou proslavil už Youtube. Video stačí nahrát na server a pak vzít vygenerovaný HTML kód ze stránky videa a vložit jej do stránky. Takto například vypadá, když vložím do stránky reportáž Stream TV věnovanou startu U-fona (který jsem jinak nestihl zapsat, takže to berte jako náhradu mého komentu, což je pro MobilKom výhoda, nebyl by tak kladný, jako repka):

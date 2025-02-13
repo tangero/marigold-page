@@ -1,14 +1,21 @@
 ---
 ID: 2003
-title: 'Radek Hulán a&nbsp;Motyka nebo etika'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/radek-hulan-a-motyka-nebo-etika
-published: true
+oldlink: 'https://www.marigold.cz/item/radek-hulan-a-motyka-nebo-etika
+
+  '
 post_date: 2006-08-23 16:56:34
+post_excerpt: ''
+published: true
+summary_points:
+- Hulán kritizuje Jagg.cz pro údajnou neetičnost kvůli nezmínění Scuttle.
+- Autor Jagg.cz uvádí, že licence Scuttle umožňuje jeho použití.
+- Hulán dle autora šíří nenávist, výmysly a dezorientuje ostatní.
+- Autor maže Hulánovy komentáře kvůli šíření nenávisti a lží.
+title: Radek Hulán a&nbsp;Motyka nebo etika
 ---
+
 <texy><p>Radkovi Hulánovi je to jedno, zda je to motyka nebo etika, hlavně když se tím dá kopnout do lidí, které nesnáší. A tak si na mne vyšlápl v<a href="http://radekhulan.cz/item/jagg-cz-chlubit-se-cizim-perim-je-normalni"> článku, kde tvrdí, že Jagg je neetická záležitost.</a> Prý proto, že jsem dostatečně neoslavil open source projekt <a href="http://scuttle.org">Scuttle</a>, ze kterého vzešel. A že článek vyzněl příliš bombasticky. </p>
 
 <p>Pravda je, že jsem poplach z tohoto směru očekával. RH nevynechá příležitost dokazovat si na mně, o co je moc lepší. Dělá to tak často, že mám podezření, že jsem unií schválená měrná jednotka, bohužel si pak vždy vzpomenu, že to dělá z prozaičtějšího důvodu. Zastal jsem se kdysi lidí, které bezdůvodně napadal. Na můj vkus málo důsledně a zřídkavě, na jeho až příliš. </p>

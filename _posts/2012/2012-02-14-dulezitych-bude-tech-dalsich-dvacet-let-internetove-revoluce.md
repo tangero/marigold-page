@@ -1,17 +1,30 @@
 ---
 ID: 2409
-title: >
-  Důležitých bude těch dalších
-  dvacet let internetové revoluce
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Historie internetu
+- Internet
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dulezitych-bude-tech-dalsich-dvacet-let-internetove-revoluce
-published: true
+oldlink: 'https://www.marigold.cz/item/dulezitych-bude-tech-dalsich-dvacet-let-internetove-revoluce
+
+  '
 post_date: 2012-02-14 15:01:45
-categories: [Historie internetu, Internet]
+post_excerpt: ''
+published: true
+summary_points:
+- Internetová revoluce přináší frustrace podobné průmyslové revoluci, vykořisťování
+  se přesunulo do open space kanceláří.
+- Současní "dělníci" trpí nedovzdělaností, syndromem vyhoření a nesplacenými hypotékami,
+  vláda jim nerozumí.
+- Nová generace internetu nerozumí staré elitě, což vytváří propast a potenciální
+  konflikt.
+- Budoucnost internetu závisí na domluvě mezi generacemi, jinak hrozí "výbuch kotle"
+  revoluce.
+title: 'Důležitých bude těch dalších dvacet let internetové revoluce
+
+  '
 ---
+
 Oslava dvaceti let připojení Česka (a formálně i Slovenska) do celosvětové akademické sítě Internet nabízí řadu příležitostí ohlédnout se a rekapitulovat. Na ohlížení je ovšem poněkud pozdě. Zajímavé není ani tak to, jakých bylo uplynulých dvacet let, ale to, jakých bude příštích dvacet let.
  
 Internet se definitivně stal „revolucí“. Ne takovou tou ušmatlanou revoluční změnou z reklamy, kterou se dnes chlubí kdejaká firma, aby vychválila svůj produkt, po kterém zítra neštěkne pes. Internet je revolucí opravdovou, tou z původní podstaty slova. Sociologové ji rádi přirovnávají k době průmyslové revoluce a připomínají, že internet je podobnou změnou: informační revolucí, která se prolíná všemi zákoutími lidského bytí. Však už i na záchodě projdeme poslední emaily dříve, než spláchneme. To víme a už ani nerozporujeme. 

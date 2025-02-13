@@ -1,14 +1,21 @@
 ---
 ID: 2180
-title: 'Návod, jak padělat SMS jízdenku snadno a&nbsp;rychle'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/navod-jak-padelat-sms-jizdenku-snadno-a-rychle
-published: true
+oldlink: 'https://www.marigold.cz/item/navod-jak-padelat-sms-jizdenku-snadno-a-rychle
+
+  '
 post_date: 2007-12-05 12:43:37
+post_excerpt: ''
+published: true
+summary_points:
+- SMS jízdenky lze podvrhnout, úspěch závisí na revizorově kontrole.
+- Revizoři často neověřují SMS jízdenky detailně, spoléhají na doručení zprávy.
+- Podvržení SMS lze provést změnou jména kontaktu na telefonním čísle.
+- SMS jízdenka je bezpečnější než papírová, problémem je školení personálu.
+title: Návod, jak padělat SMS jízdenku snadno a&nbsp;rychle
 ---
+
 ... po mne požaduje v poslední době celá řada lidí. Tak mne napadlo, že bychom si mohli trochu zabádat a zalaborovat, jak je to se zabezpečením SMS aplikace na pražské SMS jízdenky.
 
 <!--more-->

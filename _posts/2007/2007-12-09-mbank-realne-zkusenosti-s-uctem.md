@@ -1,14 +1,22 @@
 ---
 ID: 2181
-title: 'mBank &#8211; reálné zkušenosti s&nbsp;účtem'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mbank-realne-zkusenosti-s-uctem
-published: true
+oldlink: 'https://www.marigold.cz/item/mbank-realne-zkusenosti-s-uctem
+
+  '
 post_date: 2007-12-09 07:13:51
+post_excerpt: ''
+published: true
+summary_points:
+- mBank založení účtu trvalo deset dní, systém je rozpracovaný a spoléhá na zaměstnance.
+- Číslo účtu mBank je dlouhé, komplikované a celoevropsky jednotné, což autorovi vadí.
+- Webové rozhraní mBank je funkční, ale sparťanské, chybí inkaso, SIPO a zahraniční
+  platby.
+- Autor je zklamán stavem mBank, čekal více inovací a lépe přizpůsobené rozhraní.
+title: mBank &#8211; reálné zkušenosti s&nbsp;účtem
 ---
+
 Mám to za sebou. Ozvali se mi z mBanky s tím, že vše jest připraveno, mohu naklusnout na Vinohradskou 37 do zbrusu nového finančního centra mBanky a několika podpisy stvrdit naši úmluvu, která změní bankovní svět. I učiniv tak, mám založený účet. Proto bych si dovolil pár zkušeností pro váhající. 
 Tak především, na mBank se opravdu musí čekat. Mně to trvalo deset dní než jsem se probojoval k otevření vlastního účtu, řada věcí je ještě ve stádiu rozpracovanosti a co jsem tak pochopil, systém uzavírání smluv zatím drží hlavně silou vůle zaměstnanců, než komfortem zpracovatelského systému. Což, naštěstí, je problém pracovníka. <!--more-->
 

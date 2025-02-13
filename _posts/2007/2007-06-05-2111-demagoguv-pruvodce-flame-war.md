@@ -1,14 +1,21 @@
 ---
 ID: 2111
-title: 'Demagogův průvodce: Jak rozpoutat flame war snadno a&nbsp;rychle'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/2111-demagoguv-pruvodce-flame-war
-published: true
+oldlink: 'https://www.marigold.cz/item/2111-demagoguv-pruvodce-flame-war
+
+  '
 post_date: 2007-06-05 09:48:06
+post_excerpt: ''
+published: true
+summary_points:
+- Článek o Windows Vista byl parodií, převzatou z Hulánova článku o Apple.
+- Autor chtěl demonstrovat demagogii a lži v článcích o operačních systémech.
+- Hulánovy články o Apple obsahují lži a demagogii bez racionálního základu.
+- Autor identifikoval různé reakce čtenářů, od flame war po pochopení parodie.
+title: 'Demagogův průvodce: Jak rozpoutat flame war snadno a&nbsp;rychle'
 ---
+
 <strong>Pro jistotu to napíšu hned na začátek a následně rozvedu: článek <a href="http://www.marigold.cz/item/windows-vista-je-spatny-system">Windows Vista je špatný systém</a> jsem nemyslel vážně a byla to jen parodie na sociosystém lůzy ...</strong>
 
 Došlo to menšímu počtu lidí, než jsem očekával. Předchozí článek věnovaný Windows Vista nebyl míněný vážně. Byl to jen takový sociologický pokus. Proč? Inu, jednoduše jsem vzal jeden <a href="http://web.archive.org/web/20060208205443/http://radekhulan.cz/item/macos-x-je-spatny-system">Hulánův demagogický článek věnovaný Apple a Mac OS X</a> a suše jsem nahradil slova Apple za Microsoft a Mac OS X za Windows Vista. Namísto článku hanícího Apple vznikl stejně hodnotný článek hanící Windows Vista. Jen pasáž věnovanou myším jsem musel trochu přepsat, protože jsem moc nepochopil, co jí původní autor chtěl sdělit. 

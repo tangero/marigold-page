@@ -1,14 +1,21 @@
 ---
 ID: 1909
-title: WRT-311 AP/Router/Client
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wrt-311-ap-router-client
-published: true
+oldlink: 'https://www.marigold.cz/item/wrt-311-ap-router-client
+
+  '
 post_date: 2006-01-09 20:26:36
+post_excerpt: ''
+published: true
+summary_points:
+- WRT-311 AP/Router/Client má český manuál a webové rozhraní.
+- Zařízení podporuje režimy AP, klient, router, NAT router a WDS.
+- Regulace vyzářeného výkonu je možná v rozsahu 3-20 dBm.
+- Cena WRT-311 je 1582,70 Kč s DPH pro neregistrované.
+title: WRT-311 AP/Router/Client
 ---
+
 <p><strong>Noname píše:</strong>
 Už tu dlouho nebyl žádný článek na téma Wi-Fi hardware, já teď jednu krabičku sháněl, hledal jsem, co je nového a přitom jsem našel něco úžasného - <a href="http://www.wifi-shop.cz/produkt/wrt-311-ap/router/client/">WRT-311 AP/Router/Client</a>.</p>
 

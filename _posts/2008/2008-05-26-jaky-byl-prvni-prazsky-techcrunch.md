@@ -1,15 +1,25 @@
 ---
 ID: 2239
-title: Jaký byl první pražský TechCrunch
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Startupy
+- Techcrunch
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jaky-byl-prvni-prazsky-techcrunch
-published: true
+oldlink: 'https://www.marigold.cz/item/jaky-byl-prvni-prazsky-techcrunch
+
+  '
 post_date: 2008-05-26 19:39:12
-categories: [Startupy, Techcrunch]
+post_excerpt: ''
+published: true
+summary_points:
+- TechCrunch Praha se konal na Zvonařce, autor bloudil, potkal Davida Grudla.
+- Prezentace sponzorů (GoodData, Geeva, Wirenode, Ataxo, Newstin, Nelso, TechCrunch)
+  byly zajímavé.
+- Elevator pitch nabídl AbakoWiki a cestovatelský ontheroad.to, srovnatelný s Cestuje.org.
+- Martin Snopek chystá novou verzi Linkuj.cz proti zaplevelování odkazy.
+title: Jaký byl první pražský TechCrunch
 ---
+
 V pátek se mi nakonec poštěstilo dorazit (už to jednu chvíli nevypadalo) na první český TechCrunch, setkání lidí kolem internetu pořádané pod záštitou webu TechCrunch. Už začátek byl zajímavý. Na iPhone jsem si v aplikaci Maps našel Zvonařku (cílová destinace), pak nejbližší parkoviště mimo ty debilní modré zóny, abych auto nemusel vyzdvihovat za dva litříky na odtahovce u Nuseláku. To se mi do večerního programu nehodilo. 
 
 Drobná zrada: Zvonařka v Maps není TA Zvonařka, protože ta hospoda se jmenuje U zvonařky (ale to jsem ještě + už v tu chvíli nevěděl). Zjevně jsem nebyl sám, kdo na ten problém narazil, protože mne oslovil jakýsi mladík, že se přidá k mému hledání. Poté, co Maps + moje vzpomínky zklamaly, jsem využil klasickou navigační metodu, zeptal se paní a ta nám řekla, že je to za rohem. A bylo. Až v sobotu jsem zjistil z Twitteru, že ten mladík byl David Grudl, kterého jsem na akci hledal a nenašel...

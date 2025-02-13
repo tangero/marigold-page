@@ -1,14 +1,21 @@
 ---
 ID: 2123
-title: 'iPhone &#8211; čísla z&nbsp;víkendu'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/iphone-cisla-z-vikendu
-published: true
+oldlink: 'https://www.marigold.cz/item/iphone-cisla-z-vikendu
+
+  '
 post_date: 2007-07-02 11:10:35
+post_excerpt: ''
+published: true
+summary_points:
+- iPhone prodal 500 tisíc kusů za první víkend v USA, 2,5 násobek očekávání.
+- Dražší 8GB model iPhonu koupilo 95 % zákazníků, generoval tržby 297 milionů dolarů.
+- AT&T získala 720 milionů dolarů z dvouletých smluv a 250 tisíc nových zákazníků.
+- '% Apple obchodů hlásilo vyprodáno iPhonů, hlavně dražších modelů.'
+title: iPhone &#8211; čísla z&nbsp;víkendu
 ---
+
 <strong>noname píše:</strong> nechci nijak komentovat kvality či jiné velmi subjektivní dojmy které se k iPhone váží, důležitá a měřitelná jsou čísla
 
 iPhone se začal prodávat v celé Americe v pátek v 6 hodin večer (v každém časovém pásmu, tedy fakticky v různé časové okamžiky s časovými posuny). Očekávaný prodej o víkendu byl 200 tisíc kusů.

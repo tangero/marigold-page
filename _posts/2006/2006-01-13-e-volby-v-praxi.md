@@ -1,14 +1,21 @@
 ---
 ID: 1910
-title: 'E-volby v&nbsp;praxi'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/e-volby-v-praxi
-published: true
+oldlink: 'https://www.marigold.cz/item/e-volby-v-praxi
+
+  '
 post_date: 2006-01-13 21:34:43
+post_excerpt: ''
+published: true
+summary_points:
+- Vašek Rada píše úžasné, čtivé a unikátní články pro Internet pro všechny.
+- První článek analyzuje telekomunikační regulátory, druhý popisuje e-volby v Estonsku.
+- Estonsko má díky čipovým kartám a dalším opatřením pokročilé e-volby a telekomunikace.
+- Autor vyzývá firmy k zavedení podobného systému e-voleb v České republice.
+title: E-volby v&nbsp;praxi
 ---
+
 Noname píše: Vašek Rada z Internet pro všechny se ukazuje jako velmi schopný člověk, po kterém by měly toužit všechny technické redakce. Napsal 2 články, ale oba jsou IMHO úžasné, čtivé, plné informací i vhodných obrázků a hlavně unikátní. První byl <a href="http://www.internetprovsechny.cz/clanek.php?cid=147">průzkum telekomunikačních regulátorů</a>, který by se měli za trest nazpaměť naučit vysoce postavení zaměstanci ČTÚ. Ten druhý, kvůli kterému zde píšu vyšel dnes a <a href="http://www.internetprovsechny.cz/clanek.php?cid=154">popisuje e-volby v Estonsku</a>.
 
 <p>Možná to vypadá na první pohled příliš exoticky, ale rozhodně doporučuji k pročtení, článek je plný informací, co Estonsko udělalo pro to, aby byli na telekomunikační špici (už teď mají 4× větší penetraci internetu než u nás a předstihují i mnohé západní státy), opět by se zde mohlo inspirovat pro změnu Ministerstvo Informatiky. Podstata článku je pak v popisu e-voleb a já se přiznám, že jsem žasnul, že to už někde opravdu proběhlo (a divím se a stydím, že jsem o tom nevěděl).</p>

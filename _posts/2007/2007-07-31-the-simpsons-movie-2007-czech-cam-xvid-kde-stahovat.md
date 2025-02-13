@@ -1,14 +1,21 @@
 ---
 ID: 2131
-title: 'The Simpsons Movie 2007 CZECH CAM XVID &#8211; kde stahovat'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/the-simpsons-movie-2007-czech-cam-xvid-kde-stahovat
-published: true
+oldlink: 'https://www.marigold.cz/item/the-simpsons-movie-2007-czech-cam-xvid-kde-stahovat
+
+  '
 post_date: 2007-07-31 13:37:52
+post_excerpt: ''
+published: true
+summary_points:
+- Simpsonovi film s českým dabingem unikl na internet v nekvalitní kino verzi.
+- BontonFilm a ČPU likvidují odkazy na film a chystají trestní oznámení.
+- Publikování odkazů na nelegální obsah není trestné jako stahování.
+- Distribuční společnosti nenabízí digitální prodej ani vracení peněz za zklamání.
+title: The Simpsons Movie 2007 CZECH CAM XVID &#8211; kde stahovat
 ---
+
 Že Simpsonovi jsou už na torrentu, vám asi neuniklo. Respektive cokoliv dneska přijde do kin, je ihned na torrentu. Nedávno se ale objevili i v češtině - s českým dubbingem, ne jenom s titulky. Je to natočené v kině, kvalita není nijak excelentní, jak ostatně kino ripu přísluší , ale na domácí produkci pro děti před spaním to bude stačit.
 
 Trochu mne vyděsila věta z prohlášení, <a href="http://ihned.cz//c4-10104250-21705570-J00000_d-ceska-mutace-filmu-simpsonovi-se-objevila-na-internetu">kterou k celé události vydal BontonFilm</a>: <em>"ČPU podle vyjádření společnosti Bontoflim postupně likviduje internetové odkazy na uložené soubory a společně je připravováno trestní oznámení na neznámého pachatele."</em>

@@ -1,17 +1,25 @@
 ---
 ID: 2247
-title: >
-  Ano, platit za příchozí hovory na
-  mobil se vyplatí
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ano-platit-za-prichozi-hovory-na-mobil-se-vyplati
-published: true
+oldlink: 'https://www.marigold.cz/item/ano-platit-za-prichozi-hovory-na-mobil-se-vyplati
+
+  '
 post_date: 2008-06-19 08:36:38
-categories: [Mobilní sítě]
+post_excerpt: ''
+published: true
+summary_points:
+- Redingové návrh platit příchozí hovory by snížil cenu volání o 45%.
+- Propojovací poplatky jsou administrativně stanovené a neúměrně vysoké.
+- Placení příchozích hovorů by zprůhlednilo náklady a zvýšilo konkurenci.
+- Změna by přinesla rovné podmínky a zákazníci by si vybrali levnějšího operátora.
+title: 'Ano, platit za příchozí hovory na mobil se vyplatí
+
+  '
 ---
+
 Je zajímavé sledovat, jak krustičku na české cenové žumpičce rozvíří něco tak nevinného, jako poznámka frau Reding, že by bylo výhodnější platit na mobilech i příchozí hovory. Taková smršť unisimo vyjádření operátorů notujících si do taktu se viděla naposledy tehdy, když dotyčná dáma (mezi říšskými operátory přezdívaná Scheissekatze) děla, že ceny roamingových hovorů jsou příliš velké a mělo by se s nimi něco dělat. 
 
 Ano, musím poznamenat, že platit příchozí hovory by oproti vší selské logice bylo opravdu výhodnější. První důkaz proto je společný nesouhlas operátorů, který toto tvrzení validuje po všech stránkách. 

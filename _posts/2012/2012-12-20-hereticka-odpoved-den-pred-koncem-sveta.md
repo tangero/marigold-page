@@ -1,17 +1,26 @@
 ---
 ID: 2589
-title: >
-  Heretická odpověď den před koncem
-  světa
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
+- Společnost
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hereticka-odpoved-den-pred-koncem-sveta
-published: true
+oldlink: 'https://www.marigold.cz/item/hereticka-odpoved-den-pred-koncem-sveta
+
+  '
 post_date: 2012-12-20 10:42:39
-categories: [Příběhy, Společnost]
+post_excerpt: ''
+published: true
+summary_points:
+- Joachim z Fiore řešil dilema blaženosti v ráji bez blízkých.
+- Zatracení si ponesou vlastní "peklo" v ráji, tvrdil Joachim.
+- Joachim viděl svět jako místo, kde lidé nosí peklo v sobě.
+- Joachimovo učení bylo odsouzeno jako hereze, ale zůstává relevantní.
+title: 'Heretická odpověď den před koncem světa
+
+  '
 ---
+
 <p>Jednoho dne se jeden chytrý člověk sám sebe zeptal, co že se stane s dušemi těch, které milujeme, ale kteří jsou zatracení před tváří Boží, neboť nedošli jeho milosrdenství. Má-li být ráj místem, kde dosáhneme odměny a všech radostí, k čemu bude matce veškerá radost ráje, když se zde nesetká se svým hříšným synem? Chápal, že novozákonní ráj je místem odměny, místem blažení, jenže co to bude za blaženost, když se zde nesetkáme s lidmi, kteří nám jsou milí, ale kteří z nějakého důvodu ráje nedosáhli?</p>
 
 

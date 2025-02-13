@@ -1,14 +1,21 @@
 ---
 ID: 2021
-title: 'Postřehy z&nbsp;Invexu i&nbsp;z&nbsp;Broadband Monday'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/postrehy-z-invexu-i-z-broadband-monday
-published: true
+oldlink: 'https://www.marigold.cz/item/postrehy-z-invexu-i-z-broadband-monday
+
+  '
 post_date: 2006-10-09 18:46:13
+post_excerpt: ''
+published: true
+summary_points:
+- Invex komorní, příjemná atmosféra, dostatek času pro zákazníky.
+- SIPY získaly zajímavé firemní zákazníky díky unikátnímu řešení.
+- VoIP & Broadband EXPO nabízí online přenosy a panelovou diskusi.
+- Patrickova prezentace na Broadband Monday vzbudila velký zájem.
+title: Postřehy z&nbsp;Invexu i&nbsp;z&nbsp;Broadband Monday
 ---
+
 <p><strong>Noname píše:</strong> právě končí první den Invexu i Broadband Monday, o kterých jsem tu prve informoval, takže zkusím sdělit své dojmy.</p>
 
 <p>Invex byl dnes velmi komorní - rozhodně tu o sebe nezakopávají lidé, na druhou stranu je díky tomu příjemná atmosféra a je čas se věnovat každému zákazníkovi. Jak už jsem naznačil minule, sám jsem na stánku <a href="http://sipy.cz">služby IP telefonie SIPY</a>, pro které nyní externě spolupracuji a musím říct, že se nepotvrdily obavy z poklesu zájmů zákazníků.</p>

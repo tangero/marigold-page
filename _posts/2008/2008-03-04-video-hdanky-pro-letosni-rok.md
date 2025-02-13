@@ -1,15 +1,24 @@
 ---
 ID: 2207
-title: Video HDanky pro letošní rok
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Video
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/video-hdanky-pro-letosni-rok
-published: true
+oldlink: 'https://www.marigold.cz/item/video-hdanky-pro-letosni-rok
+
+  '
 post_date: 2008-03-04 10:55:01
-categories: [Video, Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Video provoz poroste, Youtube generuje až 40% celosvětového internetového provozu.
+- Flash dominuje internetovému videu, kodeky Sorenson Spark a VP6 jsou nejrozšířenější.
+- Flash MovieStar podporuje H.264, což umožňuje kvalitnější HD video v prostředí Flashe.
+- HD video naráží na nedostatek HD zdrojů a nároky na hardware uživatelů.
+title: Video HDanky pro letošní rok
 ---
+
 Letošní rok bude ještě více rokem videa, než ten loňský. Soudí tak nejenom zahraniční odborníci, ale vposledku i tuzemský tisk, který asi nepřehlédl vzestup návštěvnosti Streamu. Nu a pokud se podíváte na odhady provozu soudící, že Youtube.com dělá až 40% provozu na celosvětovém internetu, začínají být úvahy o HD videu zajímavé i pro síťaře samotné. HD video znamená čtyřikrát větší kvalitu obrazu oproti klasickému SD (či po televizácku PALu), což znamená také podstatně větší soubory a tím i podstatně větší provoz. Představa, že by Youtube přešel na HD kvalitu, je tedy ze síťařského hlediska jistě zajímavá. 
 <!--more-->
 Nejdříve trocha rekapitulační teorie. Internetovému videu dominuje momentálně Flash a dva jeho hlavní kodeky: Sorenson Spark používaný Youtube a o něco kvalitnější VP6 dodávaná On2. Ani VP6 už dnes nepatří mezi první ligu kodeků, ale co naděláte - jejich penetrace 95% počítačů je něco, s čím je třeba počítat a kouzlem Flashe také je fakt, že videopřehrávač posíláte na dálku jako součást HTML stránky, nemusí si ho uživatel instalovat. V čem jsou rozdíly? Sorenson Spark byl první Flash videokodek, dnes na něj existuje řada kódovacích utilit zdarma a dá se potunit tak, aby to bylo slušně koukatelné na rozlišení 320x240 bodů, jež Youtube používá. VP6 je výrazně lepší a dá se s ní pustit i do větších kouzel, ovšem v závislosti na vaší důvěře ve vaši internetovou přípojku, jeho použití je ale také dražší a jen za licence by Youtube propálilo jmění. Stream si jeho použití může dovolit díky řádově menšímu množství videí, které takto zpracovává. 

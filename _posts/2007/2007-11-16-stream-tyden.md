@@ -1,14 +1,22 @@
 ---
 ID: 2169
-title: Stream týden
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/stream-tyden
-published: true
+oldlink: 'https://www.marigold.cz/item/stream-tyden
+
+  '
 post_date: 2007-11-16 09:29:54
+post_excerpt: ''
+published: true
+summary_points:
+- Stream implementoval přihlašování přes Seznam, uživatelé získali login @stream.cz.
+- Stream.cz změnilo logo na neutrální, opustilo slogan "Nejsme rybáři, jsme piráti".
+- Propagace Streamu na Seznamu odstartovala 12.11., návštěvnost prudce vzrostla.
+- Návštěvnost Streamu dosáhla přes 150 000 návštěvníků, distribuováno přes půl milionu
+  videí.
+title: Stream týden
 ---
+
 Poslední dobou bylo ve Streamu dost rušno, což se mimo jiné projevuje tím, že přijdu domů a jsem tak vyflusnutý, že nenapíšu ani čárku. A když ano, tak do práce.  Ale všechna ta práce začala konečně tento týden nést ovoce viditelné, utrhnutelné. Návštěvnost.
 
 Tak především jsme implementovali přihlašování přes registrační autoritu Seznamu, což znamená, že všichni uživatelé nafasovali přihlašovací jméno svůj původní login a za tím @stream.cz. A kdo chce, může se tímhle přihlašovacím jménem přihlásit na všechny Seznamácké služby včetně emailu a má pak takovouto emailovou adresu. Myslím, že jde na emailu si ji registrovat rovnou, výhoda, protože v téhle doméně bude řada jmen ještě volných. Stream.cz měl vlastích cca 15 000 registrovaných uživatelů, to je nic proti množství těch Seznamáckých. 

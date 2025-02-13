@@ -1,14 +1,21 @@
 ---
 ID: 2097
-title: 'Jagg.cz bude prodán v&nbsp;neděli po&nbsp;osmé večerní'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jaggcz-bude-prodan-v-nedeli-po-osme-vecerni
-published: true
+oldlink: 'https://www.marigold.cz/item/jaggcz-bude-prodan-v-nedeli-po-osme-vecerni
+
+  '
 post_date: 2007-04-14 18:04:26
+post_excerpt: ''
+published: true
+summary_points:
+- Dražba Jagg.cz končí v neděli ve 20:37, aktuální nabídka dosahuje 17 100 Kč.
+- Jagg.cz není zabanován Googlem, doporučuje se vytvořit sitemap pro indexaci.
+- Výtěžek z dražby Jaggu půjde na nový český internetový projekt.
+- Autor bude do středy mimo internet, dostupný pouze emailem.
+title: Jagg.cz bude prodán v&nbsp;neděli po&nbsp;osmé večerní
 ---
+
 V neděli ve 20 hodin a 37 minut skončí dražba služby Jagg.cz. Mezi tím jsem prověřil zájemce a vyškrtal je, takže jsme se v nabídkách dostali na 17 100 Kč. 
 
 <a href="http://www.aukro.cz/show_item.php?item=181684766">Dražba je zde na Aukro.cz</a>.

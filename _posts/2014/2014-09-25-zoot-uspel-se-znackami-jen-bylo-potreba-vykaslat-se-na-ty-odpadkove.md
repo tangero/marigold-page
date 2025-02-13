@@ -1,14 +1,21 @@
 ---
 ID: 2943
-title: Zoot uspěl se značkami, jen bylo potřeba vykašlat se na ty odpadkové
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zoot-uspel-se-znackami-jen-bylo-potreba-vykaslat-se-na-ty-odpadkove
-published: true
+oldlink: 'https://www.marigold.cz/item/zoot-uspel-se-znackami-jen-bylo-potreba-vykaslat-se-na-ty-odpadkove
+
+  '
 post_date: 2014-09-25 08:12:16
+post_excerpt: ''
+published: true
+summary_points:
+- Zoot původně cílil na spolupráci se známými "junk-brands", což autor kritizoval.
+- Zoot pivotoval a začal nabízet kvalitnější zboží, které je v ČR obtížně dostupné.
+- Autor na Zootu nakoupil boty od neznámé holandské firmy Bullboxer.
+- Zoot rozčísl začarovaný kruh prodeje kvalitních značek, které chybí v řetězcích.
+title: Zoot uspěl se značkami, jen bylo potřeba vykašlat se na ty odpadkové
 ---
+
 <p>Když jsem tak před čtyřmi lety<a href="http://www.lupa.cz/clanky/najde-zoot-cestu-jak-vydelat/"> psali na Lupě o Zootu</a>, namítal jsem Láďovi Trpákovi, že fandit značkám, který tam má, si neumím představit. To byl původní koncept Zootu: zadáváte značky, který máte rádi a ono vám to doporučuje jejich akce. Až na to, že tam byly samé takové ty junk-brands, spotřební odpady jako CocaCola, věci od Unileveru či Kraft Foods atd. Těm je člověk schopen fandit v osmnácti, ale pak rychle dojde na to, jaký je to póvl - a pokud ne, tak si akce na ně najde na slevovém letáku nejbližšího supermarketu, kde je ob týden jedou za polovic. O něco později jsem ten původní koncept Zootu <a href="http://www.lupa.cz/clanky/prusvihy-roku-2010-ktere-se-nas-dotykaji/">označil za propadák roku 2010</a>. </p>
 
 

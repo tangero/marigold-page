@@ -1,15 +1,23 @@
 ---
 ID: 2244
-title: 'Geni.com &#8211; vytvořte si rodokmen online'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Rodokmeny
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/genicom-vytvorte-si-rodokmen-online
-published: true
+oldlink: 'https://www.marigold.cz/item/genicom-vytvorte-si-rodokmen-online
+
+  '
 post_date: 2008-06-03 10:24:36
-categories: [Rodokmeny]
+post_excerpt: ''
+published: true
+summary_points:
+- Rodokmeny v Česku po komunismu ožívají, autor tvoří rodokmen Zandlů.
+- Geni.com je vybrán pro jednoduchost, online spolupráci a grafický editor.
+- Geni.com umožňuje pozvat příbuzné, přidávat fotky, časové osy a mapy.
+- Geni.com umožňuje export dat ve formátu GEDCOM a sdílení na Facebooku.
+title: Geni.com &#8211; vytvořte si rodokmen online
 ---
+
 Jsa nachcípán, mám chuť podívat se na nějaké triviální téma. Co třeba rodokmeny? Napadlo vás někdy udělat si rodokmen rodiny a zjistit, kdo je ve skutečnosti ta "tetička" nebo "strýček"? Nebo dokonce jít do delší minulosti a zjistit, odkud pocházíte, zda se třeba náhodou váš prapraděda nejmenoval Václav a nezemřel v nějaké rvačce roku 1306 v Olomouci, z čehož byste mohli ledasco vyvozovat... 
 
 Rodokmeny, rodopisy a celá genealogie u nás přes komunistickou éru živořila a až v poslední době to lidi i v Česku začíná více zajímat. U mne to bylo jednoduché, slíbil jsem na každoroční setkání Zandlů sestavit seznam za českou větev. A protože mi přišlo líto sesmolit to na ubrousek, hledal jsem něco komfortnějšího. Našel jsem řadu prográmků a webů, z důvodů jednoduchosti ovládání, síly možností a hlavně možnosti online spolupráce jsem si nakonec vybral <a href="http://www.Geni.com">Geni.com</a>.

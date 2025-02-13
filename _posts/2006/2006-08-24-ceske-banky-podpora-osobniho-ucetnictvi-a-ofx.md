@@ -1,14 +1,21 @@
 ---
 ID: 2004
-title: 'České banky, podpora osobního účetnictví a&nbsp;OFX'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ceske-banky-podpora-osobniho-ucetnictvi-a-ofx
-published: true
+oldlink: 'https://www.marigold.cz/item/ceske-banky-podpora-osobniho-ucetnictvi-a-ofx
+
+  '
 post_date: 2006-08-24 07:38:40
+post_excerpt: ''
+published: true
+summary_points:
+- Autor analyzuje domácí výdaje pomocí home-accounting softwaru.
+- eBanka nepodporuje export dat do textového souboru, ani OFX.
+- Raiffeisen banka a Citibank hlásí podporu OFX formátu.
+- Autor zvažuje změnu banky kvůli chybějící podpoře exportu dat.
+title: České banky, podpora osobního účetnictví a&nbsp;OFX
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/20060824-small_expenses_graph.gif" alt="graf z moneydance" width="400" height="267" /></div>Řeším takový malý soukromý problém. Rozhodl jsem se výrazněji analyzovat výdaje naší domácnosti a při tom efektivizovat čas, který trávím s tímtéž. Našel jsem řadu programů k tomu určených od Quicken po multiplatformní <a href="http://moneydance.com/">Moneydance</a>. Jenže jsem narazil na problém. Úžasné elektronické bankovnictví eBanky nemá k osobním účtům žádný export dat do textového souboru, natož pak do standardu OFX, který snad každý home-accounting software umí načíst.</p>
 
 <p>Dost mne to rozlítostnilo, přitom třeba Moneydance už má podporu českého prostředí a účtovat i analyzovat v něm by docela slušně šlo bez dalších úprav. </p>

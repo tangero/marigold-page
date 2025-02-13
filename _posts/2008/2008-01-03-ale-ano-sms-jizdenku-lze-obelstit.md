@@ -1,15 +1,24 @@
 ---
 ID: 2189
-title: Ale ano, SMS jízdenku lze obelstít
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
+- MHD
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ale-ano-sms-jizdenku-lze-obelstit
-published: true
+oldlink: 'https://www.marigold.cz/item/ale-ano-sms-jizdenku-lze-obelstit
+
+  '
 post_date: 2008-01-03 16:58:58
-categories: [Mobilní sítě, MHD]
+post_excerpt: ''
+published: true
+summary_points:
+- SMS jízdenky lze obejít sdílením jedné jízdenky mezi skupinou lidí.
+- Centrální telefon automaticky kupuje SMS jízdenky a cestující sdílí jeho číslo.
+- Revizor nemůže ověřit, zda cestující číslo telefonu skutečně vlastní.
+- Dopravní podnik doufá, že se sdílení jízdenek nevyplatí organizovat ve velkém.
+title: Ale ano, SMS jízdenku lze obelstít
 ---
+
 <p>Na jedné vánoční párty se mi chlubil vývojář aplikace pražských SMS jízdenek, že to mají tak chytře vymyšlené, že to nelze obejít. Zdvořile jsem se usmál té sebevíře a namítl, že obejít lze všechno a je to jen o vůli toto obejít. Prý ne, prý to nejde obejít.</p>
 
 

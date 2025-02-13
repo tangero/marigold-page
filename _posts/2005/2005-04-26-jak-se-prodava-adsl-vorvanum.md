@@ -1,14 +1,21 @@
 ---
 ID: 1626
-title: Jak se prodává ADSL vorvaňům
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-se-prodava-adsl-vorvanum
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-se-prodava-adsl-vorvanum
+
+  '
 post_date: 2005-04-26 16:11:17
+post_excerpt: ''
+published: true
+summary_points:
+- Kamarádova firma měla čtyři ADSL přípojky, každou pro jeden počítač.
+- Prohození konektorů RJ-11 a RJ-45 způsobilo nefunkčnost ADSL modemu.
+- Autor nasdílel internet přes router a tři ADSL přípojky zrušil.
+- Autorovi chybí firmy nabízející správu IT pro malé, netechnické firmy.
+title: Jak se prodává ADSL vorvaňům
 ---
+
 <p>Navštívil jsem nedávno jednoho kamaráda v jeho firmičce. Malá firmička, čtyři lidé, čtyři počítače. Výdělečná firmička živící se poradenstvím, jakým to není podstatné. Podstatné je, že firmička šlape a majitel nemusí řešit každou korunu, čili se pro většinu obchodníků stává vorvaněm v okamžiku, kdy zjistí, že zrovna tomu jejich problému nerozumí. Díky tomu tu sekretářka má na psaní dopisů ve Wordu devatenáctipalcové Eizo a počítače, který by stačil na server celní správy.  Atd. </p>
 
 <p>Kamarád moji návštěvu záhy využil k tomu, aby mne poprosil, zda se mu podívám na to, proč mu nefunguje ADSL přípojka. Nechtělo se mi do toho příliš, protože vrtat někomu do routeru není moje hobby a zejména, když mi osvětlili, že všem ostatním ADSL jede, tak  jsem se obával, zda není nějaká chyba v routování, jemuž zase tak moc nehovím. </p>

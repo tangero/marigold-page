@@ -1,15 +1,24 @@
 ---
 ID: 2291
-title: Dorazili jsme do Hong Kongu
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Čína
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dorazili-jsme-do-hong-kongu
-published: true
+oldlink: 'https://www.marigold.cz/item/dorazili-jsme-do-hong-kongu
+
+  '
 post_date: 2008-10-13 16:57:27
-categories: [Čína, Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Hong Kong internet je drahý, denní připojení stojí 40 Kč.
+- Smog v Hong Kongu snižuje viditelnost mrakodrapů.
+- Mrakodrap AIG v Hong Kongu svítí i v neděli kvůli krizi.
+- Autor si v Hong Kongu koupil nový fotoaparát Nikon D90.
+title: Dorazili jsme do Hong Kongu
 ---
+
 Tak jsme v pátek dorazili do Hong Kongu, ale práce tu bylo neúrekom, navíc jsme nemohli najít internet. Všechen je tu placený a těmi povětšinou čínsky psanými návody, jak ho zaplatit, není lehké se prokousat. Dneska už jsme to nevzdali, zaplatili si asi 40 Kč za denní připojení, které je dostupné na hromadě míst v Hong Kongu a vyřizujeme práci. Na hotelu bychom tytéž peníze dali za čtvrt hodiny, tfujho, pěkně to nacenili. 
 
 

@@ -1,15 +1,23 @@
 ---
 ID: 2558
-title: 'Pátrání po&nbsp;moudrosti předků'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/patrani-po-moudrosti-predku
-published: true
+oldlink: 'https://www.marigold.cz/item/patrani-po-moudrosti-predku
+
+  '
 post_date: 2012-10-29 13:17:04
-categories: [Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Magazíny dříve opomíjely moudrost předků, nyní se o ni lidé zajímají.
+- Autor vzpomíná na dědovo umění ručního kosení trávy a soběstačnost.
+- Moderní technika nenahradila dědovu efektivitu a znalost přírody.
+- Znalost tradičních dovedností zvyšuje komfort a rozšiřuje obzor možností.
+title: Pátrání po&nbsp;moudrosti předků
 ---
+
 <p>Dlouho to nebylo “in”. Časopisy (pardon, magazíny) pro správného muže či ženu o tom nepsaly, protože to na dálku smrdělo Přemkem Podlahou říznutým absencí globálních brandů a FMCG. A "in", alespoň magazínově, to není stále, jenže stále častěji potkávám lidi, kteří o tom přemýšlejí, pátrají po tomtéž. Po zapomenuté moudrosti předků.</p>
 
 

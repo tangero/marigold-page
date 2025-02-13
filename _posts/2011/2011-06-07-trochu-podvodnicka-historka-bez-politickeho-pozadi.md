@@ -1,17 +1,25 @@
 ---
 ID: 2826
-title: >
-  Trochu podvodnická historka bez
-  politického pozadí
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/trochu-podvodnicka-historka-bez-politickeho-pozadi
-published: true
+oldlink: 'https://www.marigold.cz/item/trochu-podvodnicka-historka-bez-politickeho-pozadi
+
+  '
 post_date: 2011-06-07 11:23:47
-categories: [Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Schůzka na benzince Globus u IKEA se změnila v boj s bouřkou.
+- Autor promočený čekal na benzince, než se uklidní prudký déšť.
+- Po bouřce autor v promočeném stavu popíjel kávu v nákupním centru.
+- Autorův zážitek zakončilo "brekeke" na skupinku dětí.
+title: 'Trochu podvodnická historka bez politického pozadí
+
+  '
 ---
+
 Včera jsem si měl vyzdvihnout pár oficiálních dokumentů k jedné chystané akci a protože předávající nechtěl jezdit do města a já za ním do vesničky, tak jsme se shodli na kompromisu. Setkáme se ve čtyři na benzince Globusu za Ikeou na Černém mostě. Ideální prostředí na schůzku jak vystřihnutou z levnějšího akčního filmu. To jsem ještě nevěděl, že budu v hlavní roli.
 
 Už, když jsem dorazil na Černý most, jsem obdivoval v dálce se pohybující sloupec vody. Tam musí být bouřkové peklo, pomyslel jsem si a zašel jsem do nákupního centra, abych jím prošel dál k IKEA. Jenže vodní sloupec za tu chvíli, než jsem centrem prošel, změnil trasu a u dveří čekal na mě. Nejdříve jen tak drobně, s příslibem reklamního pokapávání, takže jsem vyndal deštník a hrdě se rozhodl, že ten kousek přeběhnu. A nějak jsem to přeběhl, ne uplně za sucha. Jen poslední metry k benzince už pršelo opravdu fest, ale pak se vyčasilo.

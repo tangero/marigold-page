@@ -1,14 +1,21 @@
 ---
 ID: 2717
-title: 'Mobilní obsah je už druhá revoluce v&nbsp;řadě, která huntuje česká média'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-obsah-je-uz-druha-revoluce-v-rade-ktera-huntuje-ceska-media
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-obsah-je-uz-druha-revoluce-v-rade-ktera-huntuje-ceska-media
+
+  '
 post_date: 2013-11-04 16:07:16
+post_excerpt: ''
+published: true
+summary_points:
+- Média čelí digitální konkurenci, podobně jako hodinářství quartzové revoluci.
+- Tradiční mediální domy vyčerpala krize a akvizice internetových médií.
+- Konsolidace, diferenciace a vize jsou klíčové pro přežití médií.
+- Většina tradičních médií změní majitele, některá zaniknou nebo se transformují.
+title: Mobilní obsah je už druhá revoluce v&nbsp;řadě, která huntuje česká média
 ---
+
 <p>V říjnu jsem byl na Czech Internet Fóru v panelu věnovanému mobilnímu obsahu. Je to široké téma, je těžké k tomu něco objevného říct, tady jej opanovaly aktuální výsledky Tablet Media a jejich tabletového magazínu Dotyk a Lucie Tvarůžková opouštějící Hospodářské noviny. Takže k něčemu zajímavému to bylo, ale jedno nám uteklo. Závěr.</p>
 
 

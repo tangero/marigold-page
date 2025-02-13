@@ -1,15 +1,27 @@
 ---
 ID: 2428
-title: Vysokorychlostní data HSPA+ aneb 3GPP Release 7
 author: Patrick Zandl
-post_excerpt: Zásadní novinkou v Release 7 (R7) a Release 8 (R8) je další rozšíření vysokorychlostních datových přenosů HSPA na HSPA+, pod čímž se skrývá zvýšení rychlosti na downlinku i uplinku."
+categories:
+- LTE
+- 3G
+- Mobilní sítě
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7
-published: true
+oldlink: 'https://www.marigold.cz/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7
+
+  '
 post_date: 2012-05-31 14:47:12
-categories: [LTE, 3G, Mobilní sítě]
+post_excerpt: Zásadní novinkou v Release 7 (R7) a Release 8 (R8) je další rozšíření
+  vysokorychlostních datových přenosů HSPA na HSPA+, pod čímž se skrývá zvýšení rychlosti
+  na downlinku i uplinku."
+published: true
+summary_points:
+- HSPA+ rozšiřuje vysokorychlostní datové přenosy v Release 7 a 8.
+- MIMO (vícecestný vstup/výstup) zlepšuje kvalitu signálu pomocí více antén.
+- QAM modulace v R7 zvyšuje přenosovou rychlost bez MIMO.
+- CPC (kontinuální paketové připojení) snižuje zátěž sítě a spotřebu energie.
+title: Vysokorychlostní data HSPA+ aneb 3GPP Release 7
 ---
+
 <p>V přehledu vývojových verzí UMTS/3G sítí jsem se zadrhl u <a href="http://www.marigold.cz/item/umts-release-6">Release 6</a> – další Release měly už tu smůlu, že jsem měl dost jiné práce. Tak alespoň zpětně a s ohledem na to, že funkcionality (vybrané) z nových Release se pomaličku dostávají i do českých mobilních sítí.</p>
 
 
@@ -65,5 +77,3 @@ categories: [LTE, 3G, Mobilní sítě]
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/release7-rychlosti.png" alt="Porovnání datové kapacity sektoru v HSPA a HSPA+" width="500" height="378" border="0" /></p>
 
 <p>Uživatel má také k dispozici až 28 Mb/s pro download a až 11,5 Mb/s pro upload dat – pokud samozřejmě podmínky sítě dovolí. Jelikož ale část funkcí je dovedena k užitnému stavu v Release 8, používá se pro HSPA+ v praxi spřažená Release 7/8 – například 64QAM pro MIMO definguje až R8 a bylo by smutné, nemít ji k dispozici. Na další drobnosti z R8, které jsem tu nepostihl, se podíváme někdy jindy.</p>
-
-

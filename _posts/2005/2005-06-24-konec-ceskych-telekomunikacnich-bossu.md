@@ -1,16 +1,23 @@
 ---
 ID: 1693
-title: >
-  Konec českých telekomunikačních
-  bossů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/konec-ceskych-telekomunikacnich-bossu
-published: true
+oldlink: 'https://www.marigold.cz/item/konec-ceskych-telekomunikacnich-bossu
+
+  '
 post_date: 2005-06-24 08:20:34
+post_excerpt: ''
+published: true
+summary_points:
+- Telefonica odvolala generální ředitele Českého Telecomu Berdára a Eurotelu Heřmana.
+- Odchodem Berdára a Heřmana končí éra českých šéfů velkých telekomunikačních firem.
+- Jaime Smith ze španělské Telefonica se stává novým šéfem Českého Telecomu.
+- Michala Heřmana v Eurotelu nahradí Salvador Anglada.
+title: 'Konec českých telekomunikačních bossů
+
+  '
 ---
+
 <p>Na včerejší valné hromadě prosadila Telefonica odvolání dosavadních generálních ředitelů Českého Telecomu Gabriela Berdára a Eurotelu Michala Heřmana. Uvědomil si to možná málokdo, ale s jejich odchodem také končí éra českých šéfů velkých telekomunikačních firem, nejbližší další český šéf telekomunikační firmy je Milan Rusnák, ovšem jeho firma má citelně slabší pozici, než Telecom a trojice mobilních operátorů.</p>
 
 <p>Na zhodnocení historické úlohy Gabriela Berdára v Českém Telecomu je zatím trochu brzo. Na jednu stranu za ním byly vidět výsledky, na stranu druhou také podivný způsob řízení a jednání s lidmi plus dva střelnou zbraní ohrožovaní občané. Až odstup několika let a policejního vyšetřování nám bude moci dát realistickou odpověď, zda právě tohle byl ten nezbytný přístup k vedení a úspěšné privatizaci Českého Telecomu, soudit teď s jednodenním odstupem znamená nevyvarovat se emocí. Šéfem Telecomu se nově stává Jaime Smith ze španělské Telefonica. Nepodařilo se mi ověřit informaci, zda je to ten samý pan Smith z Men in Black, mezinárodní protiufonské jednotky, v každém případě by si měl už nyní zvykat na to, že spolu s postem šéfa Telecomu přebírá také z rukou veřejnosti post největšího českého bandity, který je s místem generálního ředitele Telecomu již tradičně spojován. </p>

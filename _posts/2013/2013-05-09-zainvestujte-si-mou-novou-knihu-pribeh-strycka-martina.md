@@ -1,17 +1,26 @@
 ---
 ID: 2652
-title: >
-  Zainvestujte si mou novou knihu
-  Příběh strýčka Martina
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběh strýčka Martina
+- Knihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zainvestujte-si-mou-novou-knihu-pribeh-strycka-martina
-published: true
+oldlink: 'https://www.marigold.cz/item/zainvestujte-si-mou-novou-knihu-pribeh-strycka-martina
+
+  '
 post_date: 2013-05-09 10:40:25
-categories: [Příběh strýčka Martina, Knihy]
+post_excerpt: ''
+published: true
+summary_points:
+- Kniha Strýčka Martina vyjde papírově jen přes Startovač, autor chce osobní zkušenost.
+- Autor odmítl vydavatele, kniha je žánrově nezařaditelná, proto crowdfunding.
+- Papírová kniha bude kvalitní vazba, ilustrace, korektury, i pro e-knihu.
+- Příběh strýčka Martina je autorovo opus magnum, náročné psaní i editace.
+title: 'Zainvestujte si mou novou knihu Příběh strýčka Martina
+
+  '
 ---
+
 <p>Tak a je to tady. Příběh strýčka Martina se chystá jako kniha. Nejenom jako elektronická, ale i jako papírová kniha. Jenže to bych to nebyl já, kdyby to bylo jednoduché a šlo si knihu obyčejně koupit v obchodě. Nejde. <a href="https://www.startovac.cz/projekty/pribeh-strycka-martina/">Musíte pro ni na Startovač</a> - takový český kickstarter. Proč a nač?</p>
 
 

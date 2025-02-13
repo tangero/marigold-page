@@ -1,14 +1,21 @@
 ---
 ID: 2671
-title: 'Jak akcelerovat ekonomický růst a&nbsp;podpořit podnikání v&nbsp;Česku'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-akcelerovat-ekonomicky-rust-a-podporit-podnikani-v-cesku
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-akcelerovat-ekonomicky-rust-a-podporit-podnikani-v-cesku
+
+  '
 post_date: 2013-07-25 08:50:42
+post_excerpt: ''
+published: true
+summary_points:
+- Vláda proklamuje podporu podnikání, ale reálné kroky často připomínají spíše byrokracii.
+- Podnikatelské prostředí se zhoršuje kvůli nadměrnému a nesmyslnému papírování.
+- Státní pobídky se zaměřují na tradiční průmysl, ignorujíce potenciál IT a inovací.
+- Česko potřebuje snížit administrativní zátěž a podporovat rozmanitost pro konkurenceschopnost.
+title: Jak akcelerovat ekonomický růst a&nbsp;podpořit podnikání v&nbsp;Česku
 ---
+
 <p>Tohle téma je taková Bartošová české politiky - vrací se pořád dokola, debatuje se o tom, všichni se tváří nadšeně, ale ve skutečnosti to snad ani nechtějí. Vláda nás tu a tam ohromí prohlášením o podpoře ekonomického růstu a podnikání, na což už vlastně ani nemá smysl reagovat, protože většinou je to buďto rovnou snůška nesmyslů nebo něco, co víc, než podporu, připomíná buzeraci navíc.</p>
 
 

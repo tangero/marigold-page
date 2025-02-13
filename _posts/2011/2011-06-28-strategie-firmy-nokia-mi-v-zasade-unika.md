@@ -1,15 +1,23 @@
 ---
 ID: 2393
-title: 'Strategie firmy Nokia mi v&nbsp;zásadě uniká'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Nokia
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/strategie-firmy-nokia-mi-v-zasade-unika
-published: true
+oldlink: 'https://www.marigold.cz/item/strategie-firmy-nokia-mi-v-zasade-unika
+
+  '
 post_date: 2011-06-28 09:30:50
-categories: [Nokia]
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia uvádí N9 s MeeGo, který ale sama Nokia opouští.
+- N9 tak bude mít jen sběratelskou hodnotu kvůli ukončení podpory MeeGo.
+- Možným důvodem uvedení N9 je testování unibody designu pro WP7 telefony.
+- Strategie Nokie s MeeGo a WP7 je nejasná, ohrožuje i investice do Qt.
+title: Strategie firmy Nokia mi v&nbsp;zásadě uniká
 ---
+
 Když minulý týden představovala Nokia svůj model N9 s operačním systémem MeeGo, říkal jsem si, že je dobře, že mu dávají šanci. Operační systém napsaný na linuxovém jádru by mohl mít šanci, pokud je napojený na dostupný framework (Qt v tomto případě), pro který už je alespoň základní ekosystém. Nezačínáte z voleje, máte k dispozici sadu základních aplikací včetně super map a prohlížeče, který když mu konečně uděláte nové ovládání (a oni udělali), tak bude fajn. 
 
 Tento týden Steven Elop zdůraznil v rozhovoru pro finské noviny <em>Helsingin Sanomat</em>, že i kdyby se N9 prodávala skvěle, MeeGo je mrtvé. Což může být racionální rozhodnutí, jenže nějak mi uniká smysl toho všeho kolem. Pokud N9 přichází na trh s operačním systémem, který Nokia sama dává k ledu, nebude mít N9 jinou hodnotu, než sběratelskou. Jestliže Nokia přestane MeeGo podporovat, systém na mobilech končí a řekněme si upřímně, že tím i prakticky kdekoliv jinde, kromě občasných speciálních použití. V tom případě, jaký má smysl představovat na trhu telefon s jeho podporou? Dalo by se chápat, kdyby šlo o testovací vlaštovku, o druhou řadu. Dalo by se debatovat o tom, zda má Nokia sílu tlačit dva operační systémy, dalo by se to chápat jako úlitbu finským zaměstnancům a možná jako snaha držet prst na tepu doby, alespoň symbolicky. K čemu je ale představení telefonu, který je posledním svého druhu? Rozjetý vlak, který nedokázal Elop zabrzdit? Pozdě si všiml rozpočtů na dopracování prototypu a jeho uvedení na trh? Jaká byla vůbec strategie jeho uvedení na trh? Co od toho Nokia očekávala? Zisk z prodeje několika milionů kusů v době, kdy má přijít Windows Phone 7 model? 

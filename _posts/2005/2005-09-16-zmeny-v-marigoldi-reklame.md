@@ -1,14 +1,21 @@
 ---
 ID: 1821
-title: 'Změny v&nbsp;Marigoldí reklamě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zmeny-v-marigoldi-reklame
-published: true
+oldlink: 'https://www.marigold.cz/item/zmeny-v-marigoldi-reklame
+
+  '
 post_date: 2005-09-16 10:25:16
+post_excerpt: ''
+published: true
+summary_points:
+- Marisense je nový systém pro zadávání reklamy s úvodním schválením.
+- Minimální cena za kliknutí v Marisense je 5 Kč, časem se sníží.
+- Firmy dostávají kredit 10 000 Kč, fakturace probíhá měsíčně.
+- Marisense nově zahrnuje i Chronomag a menší weby z IT oblasti.
+title: Změny v&nbsp;Marigoldí reklamě
 ---
+
 <p>Včera jsem dokončil větší část přechodu (chybí upravit a dodělat texty a podmínky) na nový systém Marigoldí reklamy – na serveru běží úžasný a skvělý <a href="http://www.marigold.cz/marisense">nový systém Marisense</a>, v němž si mohou zájemci o reklamu prakticky zcela bez mého přičinění (tedy po úvodním schválení) zadávat reklamu po libosti. </p>
 
 <p>Marsense funguje vlastně stejně, jako bylo od počátku plánováno. Zadáte si reklamu, zadáte si, kolik má stát a jaký je limit zobrazení a vidíte, na jaké pozici se zobrazí (limit jsou tři pozice, pokud jste čtvrtí, jste tedy ze hry). Minimální cena za kliknutí je nyní 5 Kč, tedy jako tomu bylo poslední rok, kdy nebylo možné používat onu aukční složku, tedy možnost výší nabídky za klik ovlivnit pozici reklamy na stránce či vůbec její přítomnost. Předpokládám, že tuhle základní cenu časem snížím, až se to ustálí – někam, ke dvěma-třem korunám. </p>

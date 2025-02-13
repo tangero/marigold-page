@@ -1,17 +1,25 @@
 ---
 ID: 2612
-title: >
-  Jak by mohla vypadat další digitální
-  kniha
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Knihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-by-mohla-vypadat-dalsi-digitalni-kniha
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-by-mohla-vypadat-dalsi-digitalni-kniha
+
+  '
 post_date: 2013-02-11 10:34:12
-categories: [Knihy]
+post_excerpt: ''
+published: true
+summary_points:
+- Kniha zůstává mimo multimediální zázraky kvůli nákladnosti a problémům sdílení vize.
+- Elektronická kniha by mohla být aplikace s týdenními kapitolami za 5 Kč.
+- Čtenáři mohou komentovat pasáže a vidět komentáře ostatních v aplikaci.
+- Autor zvažuje, zda čtení na kapitoly bude vyhovovat a chybí potřebná aplikace.
+title: 'Jak by mohla vypadat další digitální kniha
+
+  '
 ---
+
 <p> Do éry multimediálních zázraků je v knize stále daleko. Mimo jiné proto, že schopnost zvládnout jejich produkci je za hranicí "jednočlověčího týmu", který se dnes typicky podílí na napsání knihy a rozšíření týmu přináší problémy nejenom ekonomické, ale zejména realizační, založené na problémech se sdílením vize takového díla.</p>
 
 

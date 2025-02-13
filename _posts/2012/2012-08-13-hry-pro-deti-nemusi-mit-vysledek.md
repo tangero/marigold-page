@@ -1,15 +1,25 @@
 ---
 ID: 2483
-title: Hry pro děti nemusí mít výsledek
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
+- Děti
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hry-pro-deti-nemusi-mit-vysledek
-published: true
+oldlink: 'https://www.marigold.cz/item/hry-pro-deti-nemusi-mit-vysledek
+
+  '
 post_date: 2012-08-13 09:41:06
-categories: [Příběhy, Děti]
+post_excerpt: ''
+published: true
+summary_points:
+- iPad se v rodině běžně používá pro zábavu dětí různého věku.
+- Aplikace pro nejmenší děti (1-4 roky) jsou málo intuitivní a složité.
+- Ideální hra/aplikace pro malé děti by měla být jednoduchá, bez menu a konců.
+- Autor nenalezl aplikace, které by splňovaly jeho požadavky na jednoduchost pro malé
+  děti.
+title: Hry pro děti nemusí mít výsledek
 ---
+
 <p> Tu a tam používám iPad jako nástroj dětského zájmu. Asi jako každý rodič jím vybavený jsem přešel z fáze "na tak drahou věc mi nesahej" přes fázi "no dobře" a fáze "kde je sakra můj iPad" není daleko.</p>
 
 

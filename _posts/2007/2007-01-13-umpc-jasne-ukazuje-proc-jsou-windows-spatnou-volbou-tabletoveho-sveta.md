@@ -1,16 +1,23 @@
 ---
 ID: 2059
-title: >
-  UMPC jasně ukazuje, proč jsou Windows
-  špatnou volbou tabletového světa
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/umpc-jasne-ukazuje-proc-jsou-windows-spatnou-volbou-tabletoveho-sveta
-published: true
+oldlink: 'https://www.marigold.cz/item/umpc-jasne-ukazuje-proc-jsou-windows-spatnou-volbou-tabletoveho-sveta
+
+  '
 post_date: 2007-01-13 14:16:14
+post_excerpt: ''
+published: true
+summary_points:
+- Asus R2H je UMPC s dotykovým displejem, lákavý koncept, ale s omezeními.
+- Windows XP Tablet je pro UMPC Asus R2H nevhodný operační systém.
+- Asus R2H má procesor Intel Celeron M 900MHz a 7" displej 800x480.
+- UMPC Asus R2H váží 0.8 kg a vydrží na baterii 2 hodiny.
+title: 'UMPC jasně ukazuje, proč jsou Windows špatnou volbou tabletového světa
+
+  '
 ---
+
 <texy>V pátek jsem si pořídil novou hračku. Jmenuje se Asus R2H a v rodném listu má poznámku UMPC aneb UltraMobile PC aneb Origami.
 
 Hraju si s tím přes den a došel jsem k několika závěrům, zatím předběžným:

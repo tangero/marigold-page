@@ -1,14 +1,21 @@
 ---
 ID: 1916
-title: 'Zítra už v&nbsp;Barceloně a&nbsp;od pondělí 3GSM'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zitra-uz-v-barcelone-a-od-pondeli-3gsm
-published: true
+oldlink: 'https://www.marigold.cz/item/zitra-uz-v-barcelone-a-od-pondeli-3gsm
+
+  '
 post_date: 2006-02-09 11:39:42
+post_excerpt: ''
+published: true
+summary_points:
+- Blog autorovi po měsíci abstinence nechybí, ale zaznamená 3GSM kongres.
+- Barcelona je lokace 3GSM kongresu, autor ji miluje a zítra odlétá.
+- ČSA letenky přes víkend jsou levnější, takže výprava odlétá dříve.
+- Český pavilon na 3GSM se nepodařilo zrealizovat kvůli časové náročnosti.
+title: Zítra už v&nbsp;Barceloně a&nbsp;od pondělí 3GSM
 ---
+
 <p>Po měsíci abstinence mi blog skoro vůbec nechybí. Jenže se blíží akce, kterou jsem si předsevzal zaznamenat a nechce se mi předsevzetí porušit, protože se tím donutím k věcem, o nichž vím, že jsou i mně užitečné, ale jinak bych na ně asi kašlal. Tedy systematicky povysedávat co největší počet přednášek na 3GSM kongresu. </p>
 
 

@@ -1,13 +1,20 @@
 ---
 ID: 2063
-title: 'Lekce pro telco průmysl: Apple a&nbsp;jeho iPhone'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lekce-pro-telco-prumysl-apple-a-jeho-iphone
-published: true
+oldlink: 'https://www.marigold.cz/item/lekce-pro-telco-prumysl-apple-a-jeho-iphone
+
+  '
 post_date: 2007-01-20 16:50:27
+post_excerpt: ''
+published: true
+summary_points:
+- Apple představil iPhone, což způsobilo nárůst akcií a rozruch v telekomunikačním
+  průmyslu.
+- iPhone integruje vybrané technologie pro uživatelský komfort, ne jen nahodilé funkce.
+- Multi-touch displej iPhonu umožňuje intuitivní ovládání gesty, na rozdíl od single-touch.
+- Apple cílí na 1% trhu mobilů, ale až 10% trhu chytrých telefonů v USA.
+title: 'Lekce pro telco průmysl: Apple a&nbsp;jeho iPhone'
 ---
 
 Steve Jobs představil před pár dny nový Apple produkt nazvaný proti všem očekávání a po všech očekáváních iPhone. Akcie Apple ihned posílily o tři dolary, komentátoři se mohou přetrhnout v názorech, zda heslo provázející Apple iPhone <em>"redefining mobile phones"</em> je nadsazené nebo nevystihující.

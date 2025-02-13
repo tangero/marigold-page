@@ -1,15 +1,23 @@
 ---
 ID: 2632
-title: 'Proč je energomonitor v&nbsp;cloudu'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Energomonitor
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-je-energomonitor-v-cloudu
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-je-energomonitor-v-cloudu
+
+  '
 post_date: 2013-03-12 16:46:20
-categories: [Energomonitor]
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor ukládá data do cloudu kvůli ceně, technické vhodnosti a budoucím funkcím.
+- Cloud umožňuje levný hardware, dálkové aktualizace a centrální správu zařízení.
+- Analýza dat v cloudu umožňuje porovnávání efektivity a automatické rady uživatelům.
+- Export dat bude, ale je nutné ho upravit pro praktické využití uživateli.
+title: Proč je energomonitor v&nbsp;cloudu
 ---
+
 <p>Není to častá výtka obecně, ale ve skupině geeků ano: nechtějí, aby <a href="http://www.energomonitor.cz">energomonitor</a> ukládal data do cloudu, chtějí vysloveně lokální uložení dat, třeba na SD kartu, kterou si pak budou moci zpracovat. Proč je tedy energomonitor v cloudu a proč na tom nechceme nic měnit?</p>
 
 

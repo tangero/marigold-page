@@ -1,14 +1,21 @@
 ---
 ID: 1957
-title: 'Flotila Země je v&nbsp;prodeji'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/flotila-zeme-je-v-prodeji
-published: true
+oldlink: 'https://www.marigold.cz/item/flotila-zeme-je-v-prodeji
+
+  '
 post_date: 2006-04-05 10:05:09
+post_excerpt: ''
+published: true
+summary_points:
+- Flotila Země, původně na Bloguje.cz, je nyní přílohou dubnové Pevnosti za 119 Kč.
+- Kniha Flotila Země obsahuje málo chyb, například chybné jméno "Adrien" místo "Adrian".
+- Autor odměnil čtenáře Marigoldí použitím jejich jmen v knize.
+- Autor děkuje Wolf Publishing, Pevnosti a čtenářům online verze za pomoc.
+title: Flotila Země je v&nbsp;prodeji
 ---
+
 <p><div class="rightbox"><img src="/wp-content/uploads/20060221-flotila_zeme.jpg" alt="Flotila Země" width="382" height="583" /></div>Tak konečně. Moje knížečka Flotila Země (původně vycházející na pokračování na Bloguje.cz) je už na stáncích trafik. Takže pokud jste na ni čekali, je to jednoduché - najdete trafiku, kde prodávají časopis Pevnost, vezmete jeho dubnovou verzi (ode dneška v prodeji) s přílohou - a skrze fólii knížku už uvidíte. Za 119 Kč dostanete časopis aj knížku, za pár měsíců bude v prodeji knížka i samotná asi za 90 Kč, takže velký rozdíl to není. </p>
 
 <p>Zatím to vypadá, že chyb se do knížky propašovalo jen velmi málo. Zatím vím o dvou zjevných, jednu mám na vině já, ale kdo tam dal titulek Adrien, když ten člověk se jmenuje Adrian a jak k tomu došel, to netuším :)</p>

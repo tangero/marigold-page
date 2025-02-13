@@ -1,15 +1,21 @@
 ---
 ID: 2069
-title: >
-  Čo si také predstavítě pod pojmom
-  „mobilný operátor“, Kefalín?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: 'https://www.marigold.cz/item/co-si-take-predstavite-pod-pojmom-%e2%80%9emobilny-operator%e2%80%9c-kefalin'
-published: true
+oldlink: https://www.marigold.cz/item/co-si-take-predstavite-pod-pojmom-%e2%80%9emobilny-operator%e2%80%9c-kefalin
 post_date: 2007-02-07 23:02:21
+post_excerpt: ''
+published: true
+summary_points:
+- MVNE dodává služby virtuálním operátorům (MVNO), kromě radiové sítě.
+- MobilKom získal od ČTÚ kód operátora 230 04 a předčíslí 790.
+- MobilKom se zaměří spíše na datové služby než na hlasové.
+- Čtvrtý operátor by mohl nabídnout mobilní data za rozumné ceny.
+title: 'Čo si také predstavítě pod pojmom „mobilný operátor“, Kefalín?
+
+  '
 ---
+
 <texy>Tohle je zatraceně dobrá otázka. Mobilních operátorů už máme tolik druhů a poddruhů, že už jsme si na ně museli zavést hromadu zkratek a štěstí mají ti, kdo ve zkratkách neztratili přehled. Pokud jste well informed, asi víte, že MVNO je „virtuální mobilní operátor“, pokud v businessu nějakou dobu hákujete, tak už jste možná došli až k termínu MVNE, tedy k <strong>Inicializátorovi virtuálního operátora</strong> <em>(zatím nejlepší český překlad, co mi přišel na mysl). </em>Není vám to povědomé? Buďte v klidu, i Wikipedia zná tenhle výraz necelý rok a má ho jen v <a href="http://en.wikipedia.org/wiki/MVNE">anglickém</a>, německém a francouzském překladu, což znamená, že je to dost <em>hot termín</em>. 
 
 Když už jsme u toho, asi si přidáme českou definici, ať je trochu legrace. MVNE je dodavatel služeb pro virtuálního mobilního operátora, MVNO. MVNE vlastně slouží jako dodavatel všeho, co virtuální operátor potřebuje, snad s výjimkou radiové sítě, tu je třeba sjednat si s jejím majitelem. MVNE ovšem dodává zúčtovací platformu (aka billing), nástroje pro zákaznickou podporu a také „diferenciátory“ - infrastrukturu pro služby s přidanou hodnotou od audiotextu přes portály s logy, zvoněními a hrami, samozřejmě white label, takže označkovatelné právě brandem cílového MVNO. 

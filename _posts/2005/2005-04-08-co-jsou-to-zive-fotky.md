@@ -1,14 +1,21 @@
 ---
 ID: 1608
-title: Co jsou to živé fotky
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/co-jsou-to-zive-fotky
-published: true
+oldlink: 'https://www.marigold.cz/item/co-jsou-to-zive-fotky
+
+  '
 post_date: 2005-04-08 07:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- Živé foto je novotvar MobilManie pro fotografie pořízené redaktory.
+- Dříve se telefony skenovaly, digitální fotoaparáty byly drahé.
+- Dnešní recenze obsahují stovky redundantních fotografií telefonů.
+- Čtenáři mohou být zahlceni nadměrným množstvím detailních fotek.
+title: Co jsou to živé fotky
 ---
+
 <p>Občas se mi dostane překvapení ze strany, kde bych ho nečekal. Například už delší dobu dumám nad tím, co jsou to <em>"živé foto"</em> a jak se liší od těch neživých, tedy mrtvých? Tohle novodobé spojení začala před delší dobou používat MobilMania, která si v patvarech a novotvarech libuje (co třeba <em>megarecenze</em>).</p>
 
 <p>Nesmyslnost tohoto novotvaru by mi až tak nevadila. Redakce chce naznačit, že fotky pořídil její vlastní redaktor, nejde o zhusta retušované fotografie výrobce určené novinářům. Co to má s živostí a neživostí společného, jsem sice nepochopil a myšlenkový posun, jímž se redakce dostala k tomu termínu "živé fotky" mi unikl, ale budiž. Chápu, že používat výrazy jako "Nafotili jsme" nebo "Vlastní foto" by mohlo být bráno jako málo vyzývavé. </p>

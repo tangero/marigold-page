@@ -1,14 +1,21 @@
 ---
 ID: 1956
-title: 'Seznam &#8211; takový ho neznám'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/seznam-takovy-ho-neznam
-published: true
+oldlink: 'https://www.marigold.cz/item/seznam-takovy-ho-neznam
+
+  '
 post_date: 2006-04-03 21:16:16
+post_excerpt: ''
+published: true
+summary_points:
+- Seznam mapy se zlepšily, nabízejí ortofotomapu a fungují na Safari.
+- Seznam email je dobře provedená aplikace, autor preferuje kvůli paranoii jiný.
+- Zboží Seznamu autorovi vyhovuje více než dřívější služba Centra.
+- Personalizovaná homepage Seznamu přivádí autorovi návštěvnost na blog.
+title: Seznam &#8211; takový ho neznám
 ---
+
 <p>Ačkoliv služby Seznamu uznávám pro jejich jednoduchost a přehlednost jako skvělé pro začínající internetovce, sám jsem je přesně z toho důvodu nikdy moc nepoužíval. Za posledního třičtvrti roku se začla situace proklatě měnit. Nevím, jestli v Seznamu dostal někdo tvůrčí erekci, nebo padáka - je mi to jedno. Ale ta změna je hodně vidět. </p>
 
 <p>Tak příkladmo mapy. Používal jsem <a href="http://mapy.seznam.cz">mapy Seznamu</a>, dokud byly jediné, jenže pak jsem přešel k <a href="http://mapy.atlas.cz">mapám Atlasu</a>. Zaprvé proto, že mapy Seznamu byly hnusné, ačkoliv vektorové, zatímco mapy Atlasu hezké, ačkoliv bitmapové. Nebo právě proto. Zadruhé proto, že s atlasáckými mapami se dalo krásně čarovat, mohli jste si dělat vlastní vrstvy a v Praze fungovala ortofotomapa. Kromě toho mi asi před osmi lety dal Michal Bláha školení, jak se ty mapy používají, takže jsem s nimi uměl do detailů. Jenže nové mapy Seznamu, to je lahůdka. Konečně hezký mapový podklad a celorepubliková ortofotomapa. Kromě toho klikací informace o obcích. A navíc, funguje i na Safari a Macu, což je pro mne v poslední době compatibility test - Atlasácké mapy mi na Macu neběží.  A hezké plánování cest, používám ho, když nechci startovat Wayfinder na GPS. Co mi ale trochu chybí, je možnost zapnout si vrstvu uživatelsky zadaných bodů a trocha toho komunitního bláznění, kdy by uživatelé mohli body v mapě komentovat, provazovat s webem a bylo to vidět i ostatním. Prostě čas na zlepšování API. </p>

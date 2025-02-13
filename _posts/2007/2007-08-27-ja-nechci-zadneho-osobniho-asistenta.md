@@ -1,16 +1,23 @@
 ---
 ID: 2140
-title: >
-  Já nechci žádného osobního
-  asistenta!
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ja-nechci-zadneho-osobniho-asistenta
-published: true
+oldlink: 'https://www.marigold.cz/item/ja-nechci-zadneho-osobniho-asistenta
+
+  '
 post_date: 2007-08-27 09:24:54
+post_excerpt: ''
+published: true
+summary_points:
+- Osobní asistenti firem jsou neefektivní, autor preferuje vlastní asistenty.
+- VIP status u banky a operátora nepřináší výhody, spíše komplikace.
+- Autor preferuje rychlé, věcné a anonymní řešení požadavků přes internet nebo call
+  centrum.
+title: 'Já nechci žádného osobního asistenta!
+
+  '
 ---
+
 V poslední době se přemnožili osobní asistenti. Nemyslím tím ti najatí, kteří mne sledují krok za krokem a vyřizují, co jim zadám. Myslím ti lidé v cizích firmách, kteří jsou prý vyhrazeni pro moji komunikaci s dotyčnou společností. 
 
 Banka mi onehdá zdělila, že jsem její VIP klient. Budiž, můj osobní účet vykazuje obraty, ale abych pravdu řekl, víc bych ocenil výběry z bankomatu zdarma, než osobního bankéře. Problém u osobního bankéře nastal v tom, že banka ho přidělila příliš mnoha vipákům (což poněkud devalvovalo domnělou "exkluzivitu" vipáctví), takže ho musím nahánět jak nadmutou kozu, i když chci vyřídit triviální požadavek. 

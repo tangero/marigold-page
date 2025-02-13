@@ -1,15 +1,28 @@
 ---
 ID: 2211
-title: 'iPhone a&nbsp;podpora Javy či&nbsp;Flashe &#8230; hm&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- iPhone
+- Java
+- Flash
+- Apple
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/iphone-a-podpora-javy-ci-flashe-hm
-published: true
+oldlink: 'https://www.marigold.cz/item/iphone-a-podpora-javy-ci-flashe-hm
+
+  '
 post_date: 2008-03-10 20:07:17
-categories: [iPhone, Java, Flash, Apple]
+post_excerpt: ''
+published: true
+summary_points:
+- Java pointa "write once, run many" na mobilech nefungovala, vyžadovala úpravy pro
+  každý model.
+- iPhone nabízí Objective C s Cocoa frameworkem, lepší alternativu k omezené Javě
+  J2ME.
+- Flash by se na iPhone hodil pro webový obsah, ale Steve Jobs ho odmítl kvůli výkonu.
+- Apple možná využívá spor s Flashem k tlaku na Adobe ohledně formátu PDF.
+title: iPhone a&nbsp;podpora Javy či&nbsp;Flashe &#8230; hm&#8230;
 ---
+
 O tom, že by iPhone měl podporovat Flash i Javu se v minulých pár dnech mluvilo. A když už jsem se pustil do iphonování, tak dokončím i tohle, ostatně <a href="http://blog.macich.net/clanky/java-pro-iphone-nebude/">po přečtení článku Jirky Macicha</a> mi přišlo, že ne každý pochopil pointu Javy v mobilních telefonech. 
 
 Vzpomínejme: pointa Javy měla kdysi být v tom, že seberete kód z jednoho počítače a on poběží na jiné mašině i v případě, že operační systém nedodala ta samá firma. Byla to vznešená idea, která oslovila i vývojáře pro desktop, než se ukázalo, že start Java Virtual Machine starajícího se o "interpretaci" spouštěného programu, vytíží systém běžného tehdejšího počítače na dost dlouho na to, aby uživatele bavilo čekat. Chystané "office" like balíky, které měly v Javě pokořit nativní Office na Windows, odpískal Corel/Wordpress i IBM a bylo po žížalkách. Pamatuju si je, byly hezké, ale víte, co je komické? Neuměly o mnoho více, než dnešní Google Docs a jim podobné aplikace. Ani nebyly hezčí. A už vůbec ne rychlejší. 

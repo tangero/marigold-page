@@ -1,15 +1,25 @@
 ---
 ID: 2235
-title: 'Nova a&nbsp;Tn.cz už jdou dolů'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
+- Nova
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nova-a-tncz-uz-jdou-dolu
-published: true
+oldlink: 'https://www.marigold.cz/item/nova-a-tncz-uz-jdou-dolu
+
+  '
 post_date: 2008-05-12 15:12:56
-categories: [Média, Nova]
+post_excerpt: ''
+published: true
+summary_points:
+- Nova.cz po startu Tn.cz zaznamenala prudký pokles návštěvnosti po prvotním nárůstu.
+- Návštěvnost Tn.cz/Nova.cz se stabilizovala na úrovni srovnatelné se Stream.cz a
+  Zprávy iDnes.
+- Počet zobrazených stránek na uživatele na Nova.cz klesl po počátečním zájmu.
+- Investice 100 milionů do Tn.cz přinesla jen mírné zlepšení oproti původnímu Nova.cz.
+title: Nova a&nbsp;Tn.cz už jdou dolů
 ---
+
 Původní opravdu zajímavé výsledky spuštění zpravodajského portálu Nova.cz (inzerovaného jako Tn.cz) se radikálně proměňují. Na následujícím grafu vidíme výsledky provozu domény Nova.cz v Netmonitoru - doména Tn.cz se na Nova.cz přesměrovává kvůli součtu provozu. 
 
 Protože do hry vstupovaly svátky, navíc jeden pracovní den mezi volným dnem a víkendem, což výsledky provozu vždy deformuje, pro příklad jsem přidal výsledky Stream.cz a Zpráv iDnesu, abyste to viděli v kontextu serverů se stabilní návštěvností. 

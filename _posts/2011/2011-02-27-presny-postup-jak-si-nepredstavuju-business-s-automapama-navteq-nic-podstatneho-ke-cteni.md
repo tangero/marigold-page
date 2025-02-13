@@ -1,15 +1,26 @@
 ---
 ID: 2841
-title: 'Přesný postup, jak si nepředstavuju business s&nbsp;automapama: Navteq (nic podstatného ke čtení)'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- eNavigace
+- GPS
+- Podnikání
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/presny-postup-jak-si-nepredstavuju-business-s-automapama-navteq-nic-podstatneho-ke-cteni
-published: true
+oldlink: 'https://www.marigold.cz/item/presny-postup-jak-si-nepredstavuju-business-s-automapama-navteq-nic-podstatneho-ke-cteni
+
+  '
 post_date: 2011-02-27 11:36:41
-categories: [eNavigace, GPS, Podnikání]
+post_excerpt: ''
+published: true
+summary_points:
+- RT4 navigace v autě má zastaralé mapy, chybí nové silnice.
+- Aktualizace map pro RT4 stojí 279 euro a je na 11 CD.
+- Levnější externí GPS navigace nabízí online aktualizace a lepší mapy.
+- Autor používá starší Navigon a Ovi Maps, RT4 považuje za šunt.
+title: 'Přesný postup, jak si nepředstavuju business s&nbsp;automapama: Navteq (nic
+  podstatného ke čtení)'
 ---
+
 Koupil jsem na konci roku auto a kvůli jiné výbavě jsem tak dostal i vestavěnou navigaci, kterou bych jinak ani nechtěl. A už vím proč. Navigace v autě se jmenuje RT4 (tuším) a software pro ni vyrábí Navteq, firma koupená firmou Nokia v roce 2007 za necelých 6 miliard euro. Tak jsem si řekl, že se mrknu, za co Nokča dala sumičku, s jakou bych letošní rok uměl i já svůj rozpočet zalátat. 
 
 Že celá ta věc není vizuálně zrovna kumšt, se dá pochopit, je to levnější model té navigace a zorientovat se podle toho vcelku dá a připomenete si pravěk samostatných autonavigací. Co se dá hůř pochopit, je business za tím. Všiml jsem si na mapě, že tam není nová spojka z dálnice na Mělník. A tím jsem si všiml, že ta mapa možná není nová. Zarazilo mě to, ta spojka stojí tak dva roky. Nu a když jsem si všiml, že mapa nemá ani nový pražský okruh (to mě tak nepřekvapilo), řekl jsem si, že je čas koupit aktualizaci map. Však je dělají dvakrát ročně. 

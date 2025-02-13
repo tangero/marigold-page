@@ -1,17 +1,26 @@
 ---
 ID: 2648
-title: >
-  Jak jsem pracoval na zkorumpovaném
-  státním projektu
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Politika
+- Korupce
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-jsem-pracoval-na-zkorumpovanem-statnim-projektu
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-jsem-pracoval-na-zkorumpovanem-statnim-projektu
+
+  '
 post_date: 2013-04-22 13:34:28
-categories: [Politika, Korupce]
+post_excerpt: ''
+published: true
+summary_points:
+- Státní IT projekty jsou komplexní kvůli zátěži, škálování a státní infrastruktuře.
+- Ochrana dat a propojení s registry zvyšují náročnost státních IT systémů.
+- Vstup a výstup dat z různých systémů komplikuje státní IT projekty.
+- Analýza státních IT projektů vyžaduje rozsáhlou dokumentaci a zkušenosti.
+title: 'Jak jsem pracoval na zkorumpovaném státním projektu
+
+  '
 ---
+
 <p>Nadpis přehání, ale je to úkol nadpisů, nalákat na něco, co není až tak pravda. Chtěl jsem vysvětlit, proč mám mírný odstup od současného obecného dojmu, že co stát dělá, dělá z korupčního důvodu, ačkoliv nevylučuji, že je to tak v netriviálním množství případů.</p>
 
 <p>Zkušenost je nedávná - loňská. Oslovil mne kamarád pracující na ministerstvu, zda bych jim nepomohl podívat se na potenciální problémy u jednoho IT projektu (nekonkrétní jsem, jistě chápete, záměrně). Zjistit, zda je někde neodírá dodavatel a kde je co špatně, pokud je něco špatně. Rozměrově bych řekl, že to byl projekt na úrovni Registru jízdních kol. Když nad tím tak od stolu přemýšlíte, jde o věc tak za pár desítek tisíc: formulář, kde se data vkládají, jiný, kde se vyhledávají, k tomu trocha omáčky okolo. Za dvě odpoledne to má programátor, za další víkend grafik a můžeme vyjet. Asi takhle jsem k tomu ze začátku přistupoval a když jsem se dozvěděl, že aplikace stojí miliony, omývalo mne. I se vší marží a ambaláží okolo může jít maximálně o statisíce, říkal jsem si.</p>

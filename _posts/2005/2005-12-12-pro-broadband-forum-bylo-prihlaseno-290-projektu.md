@@ -1,16 +1,23 @@
 ---
 ID: 1893
-title: >
-  Pro Broadband fórum bylo přihlášeno
-  290 projektů
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pro-broadband-forum-bylo-prihlaseno-290-projektu
-published: true
+oldlink: 'https://www.marigold.cz/item/pro-broadband-forum-bylo-prihlaseno-290-projektu
+
+  '
 post_date: 2005-12-12 01:36:07
+post_excerpt: ''
+published: true
+summary_points:
+- Dotace Broadband fórem přijalo 290 žádostí do pátku 14:00.
+- Hodnotitelé obdrží projekty ve čtvrtek a vyhodnotí je do půlky ledna.
+- Ministryně rozhodne o podpořených projektech do konce ledna.
+- Autor se ptá na nápady pro rozvoj broadbandu v ČR.
+title: 'Pro Broadband fórum bylo přihlášeno 290 projektů
+
+  '
 ---
+
 <p><strong>Noname píše.</strong> V pátek ve 14:00 končil termín pro podání žádostí o dotace z 200 MIO rozdělovaných Broadband fórem. Bylo podáno 290 žádostí, ještě ovšem není známo, kolik z nich bude vyřazeno pro nesplnění formálních požadavků, ani kolik projektů se přihlásilo do které kategorie či o kolik žádají.</p>
 
 <p>Potěšilo mě toto množství, někteří lidé se obávali, že celá akce byla málo propagovaná či nejasná, já se tak nedomníval a množství projektů mi dává za pravdu.</p>

@@ -1,15 +1,24 @@
 ---
 ID: 2220
-title: 'Experimentování s&nbsp;H.264 ve Flashi'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Video
+- Flash
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/experimentovani-s-h264-ve-flashi
-published: true
+oldlink: 'https://www.marigold.cz/item/experimentovani-s-h264-ve-flashi
+
+  '
 post_date: 2008-04-09 16:14:38
-categories: [Video, Flash]
+post_excerpt: ''
+published: true
+summary_points:
+- H.264 video ve Flashi testováno, vyžaduje Flash 9.0.115 a vyšší.
+- Procesorová zátěž je vysoká, nutný přepis do AS3 pro optimalizaci.
+- Kvalita H.264 videa dramaticky lepší než VP6 při srovnatelném bitrate.
+- Flash 9 má jen 70% uživatelů, což je zádrhel pro rozšíření.
+title: Experimentování s&nbsp;H.264 ve Flashi
 ---
+
 Už jsem kdysi psal, že s tímhle bude jednou sranda - H.264 ve Flashi. Připravili jsme (tedy Franta, abych byl přesný v rámci elaborování s vyšší kvalitou) takový malý pokus, abyste si to uměli lépe představit ... 
 
 <script src="http://www.stream.cz/include/61285"></script>

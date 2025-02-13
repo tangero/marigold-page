@@ -1,14 +1,21 @@
 ---
 ID: 2158
-title: 'Google Docs mají i&nbsp;mobilní verzi (read-only)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/google-docs-maji-i-mobilni-verzi-read-only
-published: true
+oldlink: 'https://www.marigold.cz/item/google-docs-maji-i-mobilni-verzi-read-only
+
+  '
 post_date: 2007-10-18 06:13:27
+post_excerpt: ''
+published: true
+summary_points:
+- Google Docs má mobilní verzi na docs.google.com/m pro prohlížení dokumentů.
+- Mobilní Google Docs neumožňují editaci ani přidávání nových dokumentů.
+- Dokumenty lze do Google Docs posílat e-mailem na speciální adresu.
+- iPhone verze mobilních Google Docs má drobné problémy s formátováním.
+title: Google Docs mají i&nbsp;mobilní verzi (read-only)
 ---
+
 Google přichystal příjemnou novinku, po inovované mobilní verzi Gmailu dostupné přes web připravil také mobilní verzi Google Docs. Z mobilu si lze snadno prohlížet jak textové dokumenty, tak excelové tabulky. Stačí prohlížeč v mobilu nasměrovat na <strong>docs.google.com/m</strong> - tedy za lomítko přidat to m, což je u Google rozlišovač mobilní verze aplikace. Nepříjemná věc je, že webová aplikace umožňuje pouze čtení, nikoliv editaci dokumentů. Také nelze nové dokumenty přes mobilní web přidávat, pokud jste si ale poznačili email adresu pro své Google Docs, můžete si je přeposílat na tento email, hezká to vychytávka. A také, ačkoliv je i verze optimalizovaná pro iPhone (sama se detekuje), není zcela dobře zformátovaná, takže jedno tlačítko ujede a vejde se jen v landscape režimu. 
 
 Jak Google Docs mobilně vypadají? 

@@ -1,15 +1,24 @@
 ---
 ID: 2834
-title: 'Pane Pistorie, bojujete za vydavatele, ne za autory&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- eKnihy
+- Knihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pane-pistorie-bojujete-za-vydavatele-ne-za-autory
-published: true
+oldlink: 'https://www.marigold.cz/item/pane-pistorie-bojujete-za-vydavatele-ne-za-autory
+
+  '
 post_date: 2011-03-10 11:32:35
-categories: [eKnihy, Knihy]
+post_excerpt: ''
+published: true
+summary_points:
+- Vydavatelé hájí zájmy branže, ne autorů, dle autora bestselleru.
+- Autor z prodeje 12 tisíc výtisků knihy obdržel necelých 120 000 Kč.
+- Autoři v Česku se psaním knih neuživí, je to spíše hobby.
+- Elektronizace prodeje knih je pravá příčina stížností vydavatelů.
+title: Pane Pistorie, bojujete za vydavatele, ne za autory&#8230;
 ---
+
 Se zájmem se pročítám diskusí na téma konec knih v Česku vinou DPH, vládní garnitury, důchodů a jiného neřádstva. Myslím si své. Především to, že vydavatelé bojují za zájmy své branže za zájmy vydavatelů, nikoliv autorů. Proč?
 
 Jeden z citovaných, protože sexy, výroků, patří panu Vladimíru Pistoriovi, předsedovi Svazu knihkupců a nakladatelů. Našel jsem ho už ve starších článcích, tak nevím, jestli ten výrok oprášili novináři, nebo sám pan Pistorius usoudil, že se zase hodí: "Nechceme dopadnout jako hudební průmysl, který kvůli snadnému kopírování hudby a šíření po internetu, skomírá," dodává Pistorius. "Hudebníci mají alespoň možnost koncertovat. Nevím, jak si budou vydělávat autoři, nejspíš začnou psát za výlohami."

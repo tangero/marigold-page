@@ -1,14 +1,21 @@
 ---
 ID: 1996
-title: WiFi není mrtvé
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-neni-mrtve
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-neni-mrtve
+
+  '
 post_date: 2006-07-20 10:29:04
+post_excerpt: ''
+published: true
+summary_points:
+- ADSL vnímáno negativně kvůli dřívější špatné marketingové a cenové politice.
+- WiFi se profesionalizuje a slouží jako poslední článek připojení.
+- Regionální ISP rozšiřují sítě i do odlehlých oblastí, často s optikou.
+- Česko má nejvíce ISP v Evropě, což je unikátní situace.
+title: WiFi není mrtvé
 ---
+
 <p>V poslední době jsem proputoval pár konferencí, na nichž hlahol šel coby jeden hlas, že WiFi mrtvo jest a není nad spásu v podobě ADSL, případně fajbrtuhoum. I připadal jsem si jak Ježíš, an přišedše do chrámu, zpřevracel stoly penězoměnců a tak je připravil o jejich lehký výdělek. V mém případě jsem sice nepřevracel stoly, ale naruby mínění diváků v sále, když jsem pochmurným hlasem pravil, že na ADSL je koncovým uživatelům sympatický jedině Kraus, ale že z průzkumů, jichž mám já v ruce, pořídiv je pro našeho klienta osobně, mi plynou zlé zprávy. ADSL je považováno za vydřidušskou službu nevalné kvality a pochybného poskytovatele. </p>
 
 <p>Je zajímavé, jak se Telecomu ou-ou (pardon, ou-tu) mstí léta jeho dementní marketingové a cenové politiky. ADSL dávno není drahé a dávno není tak mizerné, jak si lidé myslí, jenže hlas lidu, hlas boží, protože pouze skrze lid prostý přichází požehnání (v tomto případě peníze). V tomto případě má společnost štěstí, pokud se potvrdí zvěsti, že P. Činátlová, hlavní čarodějka místní verze marketingu, odchází konečně a snad definitivně na mateřskou. To otevírá prostor pro přechod od neumětelského šílenství ke skutečnému marketingu, s čímž by si snad ADSL vybojovalo více důvěry mezi veřejností. </p>

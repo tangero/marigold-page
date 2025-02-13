@@ -1,15 +1,24 @@
 ---
 ID: 2394
-title: 'Nokia N8 a&nbsp;rezidua nedotykovosti (předporodní článek)'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Nokia
+- iPhone
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-n8-a-rezidua-nedotykovosti-predporodni-clanek
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-n8-a-rezidua-nedotykovosti-predporodni-clanek
+
+  '
 post_date: 2011-07-19 15:10:36
-categories: [Nokia, iPhone]
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia N8 je nejlepší telefon od Nokie, ale ne revoluční jako Nokia 6110.
+- Symbian prohlížeč zdědil problémy ovládání z dřívějších modelů Nokia.
+- Nokia N8 má detaily, které uživatel zjistí až dlouhodobým používáním.
+- Autor nedokončil recenzi Nokie N8 kvůli narození syna Vojtěcha.
+title: Nokia N8 a&nbsp;rezidua nedotykovosti (předporodní článek)
 ---
+
 Pokud si dobře pamatujete, Symbian a hlavně jeho grafická nastavba S60 byli vyvinuty pro nedotykové systémy, tedy pro ovládání z klávesnice. Pak přišel iPhone a mánie dotyků. Nokia šla rychle přeprogramovávat, aby mohla nabídnout své dotykové telefony a bylo vidět, že to flikovala různě. S různou mírou intenzity toho, co může uživatel vnímat, všimnout si. 
 
 Nafasoval jsem Nokia N8 a musím souhlasit, že je to nejlepší telefon, co Nokia vyrobila. Jenže to bohužel není ten šlágr, ten šok, co byla Nokia 6110 s infraportem a hady, peleton je hodně vyrovnaný a AMOLED displej je sice nádhera, jenže i konkurence nabízí různě podobně propracované přístroje. Takže je to spíše boj těsně o prsa. 

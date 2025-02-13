@@ -1,15 +1,23 @@
 ---
 ID: 2440
-title: 'Hvězdy a&nbsp;kameny v&nbsp;nás'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hvezdy-a-kameny-v-nas
-published: true
+oldlink: 'https://www.marigold.cz/item/hvezdy-a-kameny-v-nas
+
+  '
 post_date: 2012-07-12 11:52:48
-categories: [Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Výlet na Malou Fatru po 20 letech vyvolává vzpomínky na staré časy.
+- Autor si uvědomuje, že s dětmi se cestování změnilo a zkomplikovalo.
+- Zastaralé vybavení evokuje vzpomínky na dobrodružství bez moderního komfortu.
+- Autor se obává, zda zvládne návrat k nepohodlnému cestování po staru.
+title: Hvězdy a&nbsp;kameny v&nbsp;nás
 ---
+
 Balil jsme si včera věci. Odjíždíme na tři dny na Malou Fatru, takový malý výlet, řeklo by se. Přemýšlel jsem, kdy jsem byl naposledy na takovém výletě. Takovém po staru. Pár kluků s bágly na zádech, pohorky, celta, kus chleba a zavírák. Vlastně jsem si už ani nemohl vzpomenout. Od té doby, co se narodily děti, se všechno změnilo. Příležitostí takhle vyrazit s kamarády, bylo zatraceně málo. V lepším případě výlety s dětma, ale to je jiná klasa, když je dětem šest, osm. A když je jim přes deset, nechtějí se vzdalovat od datové přípojky, ukazuje zkušenost, je těžké je přemlouvat, je těžké v sobě tu chuť najít. 
 
 Otevřel jsem krabici s mapami. Mám tam všechny mapy, kde jsem byl, pro případ, že tam pojedu znovu. Malou Fatru mám vzorově prochozenou, říkal jsem si, i když si z Marka dělám legraci, že je to překlep z Tatry. V té krabici ležela dvoudílná mapa. Podíval jsem se na rok vydání: 1993. A ještě zastrčená nějaká účtenka z téhož roku. Takže? Takže jsem v Malé Fatře byl naposledy před dvaceti lety…

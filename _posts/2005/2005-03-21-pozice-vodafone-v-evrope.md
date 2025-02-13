@@ -1,15 +1,22 @@
 ---
 ID: 1587
-title: 'Pozice Vodafone v&nbsp;Evropě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pozice-vodafone-v-evrope
-published: true
+oldlink: 'https://www.marigold.cz/item/pozice-vodafone-v-evrope
+
+  '
 post_date: 2005-03-21 07:56:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vodafone není jedničkou v počtu zákazníků ani v obratu na klíčových trzích.
+- V Německu Vodafone po převzetí D2-Manesmann ztratil vedoucí pozici.
+- V Itálii Vodafone v roce 2003 předhonil TIM v obratu, ale ne v počtu zákazníků.
+- Ve Velké Británii Vodafone v roce 2003 předhonil Orange v obratu.
+title: Pozice Vodafone v&nbsp;Evropě
 ---
-	<p class="MsoNormal"><o:p>V
+
+<p class="MsoNormal"><o:p>V
 poslední době občas čtu zajímavé úvahy na téma Vodafone a toho, jak se
 všude snaží být číslem jedna. Což o to, to se asi snaží každý operátor,
 důležitější je, jak moc dobře mu to jde. A zde je důležité si uvědomit,

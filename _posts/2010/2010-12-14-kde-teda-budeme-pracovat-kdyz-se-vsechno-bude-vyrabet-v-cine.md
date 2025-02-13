@@ -1,15 +1,27 @@
 ---
 ID: 2856
-title: 'Kde teda budeme pracovat, když se všechno bude vyrábět v&nbsp;Číně?'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Ekonomika
+- Budoucnost
+- Čína
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kde-teda-budeme-pracovat-kdyz-se-vsechno-bude-vyrabet-v-cine
-published: true
+oldlink: 'https://www.marigold.cz/item/kde-teda-budeme-pracovat-kdyz-se-vsechno-bude-vyrabet-v-cine
+
+  '
 post_date: 2010-12-14 11:47:39
-categories: [Ekonomika, Budoucnost, Čína]
+post_excerpt: ''
+published: true
+summary_points:
+- Práce se stěhuje za levnější výrobou, včetně specializovaných a intelektuálních
+  činností.
+- Autor se ptá, kde budou lidé v ČR a Evropě pracovat, když se výroba přesune do Číny.
+- Zemědělství, průmysl a programování lze přesunout do Číny, ale co pak budou Evropané
+  dělat?
+- Autor hledá vizi budoucnosti a zdroje o dopadech mobility práce na společnost.
+title: Kde teda budeme pracovat, když se všechno bude vyrábět v&nbsp;Číně?
 ---
+
 Delší dobu se snažím najít odpověď na zdánlivě triviální otázku. Položil jsem ji několikrát různým ekonomům pod články i osobně a vždycky mi připadalo, že se domnívají, že ji kladu nějak provokativně, že vím odpověď, mám ji předem rozmyšlenou a čekám, jak se nachytají. Nikdy jsem se odpovědi nedočkal, nebo jsem si alespoň nevšiml, že mi odpovězeno bylo. Většinou dotyčný otázku taktně přešel, nebo odpověděl na něco zcela jiného, což se těžko vymáhá. 
 
 Otázka je jednoduchá: Kde tedy budeme pracovat, když se všechno bude vyrábět v Číně nebo v jiných zemích, kde bude výrobní síla levnější? Tím "my" myslím v danném případě občany ČR, ale klidně to vztáhněme i na jinou evropskou zemi.

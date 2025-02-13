@@ -1,14 +1,21 @@
 ---
 ID: 2737
-title: 'Komodizace mobilních služeb a&nbsp;ozvěny operátorské smrti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/komodizace-mobilnich-sluzeb-a-ozveny-operatorske-smrti
-published: true
+oldlink: 'https://www.marigold.cz/item/komodizace-mobilnich-sluzeb-a-ozveny-operatorske-smrti
+
+  '
 post_date: 2013-12-12 22:06:01
+post_excerpt: ''
+published: true
+summary_points:
+- Komodizace služeb operátorů vede k úpadku emocí a poklesu cen.
+- Mobilní služby se staly přežitkem, operátory odlišuje pokrytí a podpora.
+- Zvyk a spotřeba baterie jsou silné zbraně operátorů proti VoIP.
+- Budoucnost příjmů operátorů leží v M2M službách a Internetu věcí.
+title: Komodizace mobilních služeb a&nbsp;ozvěny operátorské smrti
 ---
+
 Jedním ze strašáků mobilních operátorů je komodizace jejich služeb, lidově řečeno to, že se stanou pouhými trubkami přepravujícími informace. Mohli bychom namítnout, že tohle přeci jsou odjakživa, jenže tak docela pravda to není. Operátoři dnes provozují mobilní službu, se službou se pojí emoce, s emocemi lze marketingově pracovat, protože emoce je něco, za co jsou lidé ochotni prémiově zaplatit. Fakt. Fakt jsou lidé, kteří jsou (či ještě nedávno byli) ochotni tvrdit, že ten a ten operátor je nejlepší, protože to tak je. <!--more-->
 
 Výhoda emoce v produktu či službě je zřejmá: setře ledasco, včetně nedostatků a "prémiové" ceny, tedy předražení. Tak tomu v Česku bylo v mobilních službách dlouhou dobu. Zejména v začátcích, kdo měl Pekáč a pak Oskara, byl socka a sítí pravého businessmana byl jedině Eurotel (a reklama se za to ani nestyděla). 

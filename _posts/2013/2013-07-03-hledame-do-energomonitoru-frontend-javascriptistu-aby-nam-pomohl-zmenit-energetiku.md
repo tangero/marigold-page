@@ -1,17 +1,23 @@
 ---
 ID: 2663
-title: >
-  Hledáme do energomonitoru frontend
-  JavaScriptistu, aby nám pomohl změnit
-  energetiku
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hledame-do-energomonitoru-frontend-javascriptistu-aby-nam-pomohl-zmenit-energetiku
-published: true
+oldlink: 'https://www.marigold.cz/item/hledame-do-energomonitoru-frontend-javascriptistu-aby-nam-pomohl-zmenit-energetiku
+
+  '
 post_date: 2013-07-03 10:22:14
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor hledá javascriptaře pro vývoj frontendů smartgrid aplikací.
+- Požadována je zkušenost s Javascript SPA, HTML5, HTML/CSS a GIT.
+- Výhodou jsou znalosti Javascript MVC frameworků, D3.js, Django a testování.
+- Práce zahrnuje spolupráci s týmem a občasné dojíždění do Valašského Meziříčí.
+title: 'Hledáme do energomonitoru frontend JavaScriptistu, aby nám pomohl změnit energetiku
+
+  '
 ---
+
 <p>Možná už vás unavuje dělat stou kopii slevového serveru nebo narychlo splichtit další hypercool sociální síť, kde vaše javascriptová mačkátka způsobí úpadek Facebooku ze slávy či snad upravovat šablony Wordpressu tak, aby web vypadal, že stál o sto tisíc víc.</p>
 
 

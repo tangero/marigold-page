@@ -1,14 +1,21 @@
 ---
 ID: 1536
-title: 'Maximalizace výnosů z&nbsp;mobilního obsahu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/maximalizace-vynosu-z-mobilniho-obsahu
-published: true
+oldlink: 'https://www.marigold.cz/item/maximalizace-vynosu-z-mobilniho-obsahu
+
+  '
 post_date: 2005-02-15 15:00:01
+post_excerpt: ''
+published: true
+summary_points:
+- Ponsot předpovídá nahrazení singlů krátkými mobilními verzemi skladeb.
+- Universal vytváří pro hudebníky kompletní balíčky mobilního obsahu.
+- Úspěch mobilního obsahu vyžaduje cílení na specifické segmenty zákazníků.
+- Důležitá je flexibilita a přizpůsobení se požadavkům zákazníků.
+title: Maximalizace výnosů z&nbsp;mobilního obsahu
 ---
+
 <p>Jsem na přednášce Cedrica Ponsota, šéfa Universal Mobile International. Jeho přednáška mne vloni překvapila tím, jak šla na hlavičku problému. Co říkal Ponsot vloni, tu letos zní z mnoha úst.</p>
 
 <p>Dnes mluví o maximalizaci výnosů z mobilního obsahu a už od počátku provokuje, když si pokládá otázku: porazí mobilní vyzváněcí tóny mobilně přehrávané plné verze skladeb? A hned si odpovídá: nebude to spíše tak, že mobilní krátké verze skladeb vytlačí dnešní singly a fakticky je nahradí? V Japonsku, které je mnoho měsíců v obsahu napřed, si lidé mezi sebou běžně vyměňují v P2P sítích zkrácené mobilní verze hudby používané jako true-tone vyzvánění. A přehrávají si je i mimo mobil...</p>

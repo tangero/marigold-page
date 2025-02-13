@@ -1,14 +1,21 @@
 ---
 ID: 1918
-title: Výstaviště je prostě obrovské
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vystaviste-je-proste-obrovske
-published: true
+oldlink: 'https://www.marigold.cz/item/vystaviste-je-proste-obrovske
+
+  '
 post_date: 2006-02-11 20:57:01
+post_excerpt: ''
+published: true
+summary_points:
+- Barcelona nabízí turistickou autobusovou linku s denním lístkem pro pohodlné cestování.
+- Fira di Barcelona je obrovské výstaviště, odhadem dvojnásobek oproti Cannes.
+- V barcelonském metru je třeba dávat pozor na zloděje.
+- Barcelona je vyzdobena reklamami na kongres a slaví svátek svaté Eulálie.
+title: Výstaviště je prostě obrovské
 ---
+
 <p>Jelikož kongres začíná až v pondělí, máme tu víkend na prohlídku města. A Barcelona stojí opravdu za to. Mají tu hezkou službu pro turisty, v Praze bohužel neobvyklou. Turistickou autobusovou linku. Koupíte si denní lístek a můžete jí jezdit po libosti, kdykoliv nastoupit nebo vystoupit. Samozřejmě jezdí od památky k památce a je to patrový bus, patro otevřené. Moc pohodlné a fajn.</p>
 
 

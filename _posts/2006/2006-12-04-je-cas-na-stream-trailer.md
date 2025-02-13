@@ -1,14 +1,22 @@
 ---
 ID: 2046
-title: Je čas na Stream trailer
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/je-cas-na-stream-trailer
-published: true
+oldlink: 'https://www.marigold.cz/item/je-cas-na-stream-trailer
+
+  '
 post_date: 2006-12-04 13:14:01
+post_excerpt: ''
+published: true
+summary_points:
+- Gynekologie 2, pilotní řada seriálu, je téměř hotová a brzy bude dostupná.
+- Trailer seriálu Gynekologie 2 je k vidění na webu Stream.cz.
+- Fialová grafika seriálu Gynekologie 2 byla změněna na novou, startovní verzi.
+- Pro plynulé přehrávání traileru Gynekologie 2 je doporučeno připojení 1 Mb/s a Flash
+  Plugin 8+.
+title: Je čas na Stream trailer
 ---
+
 <texy>Zvědavost lidí je veliká. Denně odpovídají snad všichni lidi z naší firmy na řadu dotazů, kdy už... 
 
 Tak ještě ne. 

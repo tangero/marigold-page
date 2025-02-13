@@ -1,17 +1,25 @@
 ---
 ID: 2402
-title: >
-  Spouštíme energomonitor.cz aneb
-  šetříme elektřinu online
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Energomonitor
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/spoustime-energomonitorcz-aneb-setrime-elektrinu-online
-published: true
+oldlink: 'https://www.marigold.cz/item/spoustime-energomonitorcz-aneb-setrime-elektrinu-online
+
+  '
 post_date: 2011-11-21 13:05:22
-categories: [Energomonitor]
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor.cz monitoruje online spotřebu energie a navrhuje její snížení.
+- Krabička u elektroměru sleduje spotřebu a data odesílá do webové aplikace.
+- Aplikace zobrazuje spotřebu v grafech, tabulkách a analyzuje odběrové minimum.
+- Budoucí verze aplikace bude aktivně radit, jak snížit spotřebu elektřiny.
+title: 'Spouštíme energomonitor.cz aneb šetříme elektřinu online
+
+  '
 ---
+
 Je to taková libůstka, která začala jako všechny hezké věci začínají. Abych to zkrátil, spouštíme s Pavlem Štorkem <a href="http://www.energomonitor.cz/?utm_source=Marigold&utm_medium=text&utm_campaign=Start">energomonitor.cz</a>, službu na online monitoring spotřeby energie a její brutální šetření. Nebo-li si koupíte krabičku, strčíte ji k elektroměru a na webu sledujete, kolik “pálíte” a po chvíli také, co máte dělat, abyste pálili méně. 
 
 Toť v krátkosti message pro ty, co to nezajímá mnoho a kdo elektřinu šetřit nepotřebují. Pro ty, koho by to zajímat mohlo, to pojednám poněkud šířeji, jak je u mě zvykem :)

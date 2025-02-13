@@ -1,15 +1,25 @@
 ---
 ID: 2854
-title: 'Tak se zase někdo pokusil se mnou vydrbat&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-se-zase-nekdo-pokusil-se-mnou-vydrbat
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-se-zase-nekdo-pokusil-se-mnou-vydrbat
+
+  '
 post_date: 2011-01-20 11:46:44
-categories: [Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Pozemky majitele obhospodařují zemědělci bez jeho aktivního dohledu a nároku na
+  výnos.
+- Firma nabízela zdarma údržbu pozemků u vedení, inkasovala za to peníze od energetické
+  společnosti.
+- Muž chtěl koupit pozemky pro "bio farmu", ve skutečnosti je developer.
+- Pozemky budou rekreační zónou, pán by na nich nemohl hospodařit a podnikat.
+title: Tak se zase někdo pokusil se mnou vydrbat&#8230;
 ---
+
 Tohle je příběh hodný zaznamenání, pro ponaučení soukmenovců i potomků. 
 Mám z nějakého historického důvodu polnosti o slušném rozměru, bohužel nikoliv polohou na Václavském náměstí. Nestarám se o ně valně, jen co bych dostál zákonným povinnostem a i to jen na poslední chvíli, jenže co byste chtěli. Rozum dá, že na polích nehospodařím. O to se starají zemědělci, kteří si na nich hospodaří sami, odmítají se mnou komunikovat a spoléhají na to, že než abych z nich vymáhal pytle zrní, mávnu nad tím rukou, což posud slušně vycházelo. 
 

@@ -1,14 +1,23 @@
 ---
 ID: 2042
-title: 'Peprnet.cz a&nbsp;projekty BBF vůbec'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/peprnet-cz-a-projekty-bbf-vubec
-published: true
+oldlink: 'https://www.marigold.cz/item/peprnet-cz-a-projekty-bbf-vubec
+
+  '
 post_date: 2006-11-22 14:08:58
+post_excerpt: ''
+published: true
+summary_points:
+- Noname, člen BBF, reaguje na kritiku Peprnet.cz a porušování autorského zákona.
+- MIČR nerespektovalo doporučení BBF a schválilo projekty umístěné "pod čarou".
+- Noname navrhoval snížení rozpočtu Peprnet.cz a upozorňoval na porušení nekonkurenčního
+  pravidla.
+- BBF rozhýbalo český internet, ale dotace nebudou pokračovat a rozdělí se jen malá
+  část.
+title: Peprnet.cz a&nbsp;projekty BBF vůbec
 ---
+
 <texy>**Noname píše:** jak asi všichni víte, byl jsem člen odborné komise při Ministerstvu  Informatiky známém jako Fórum pro vysokorychlostní Internet či Broadband Fórum (BBF). Obrátil se na mě proto teď Dan Dočekal, který psal "článek o Peprnet.cz":http://digiweb.ihned.cz/c6-10053280-19807110-i00000_d-peprnet-cz-bulvar-za-5-2-milionu resp. "o porušování autorského zákona u Peprnet.cz":http://digiweb.ihned.cz/c6-10053280-19808850-i00000_d-maji-miliony-a-porusuji-autorsky-zakon (Peprnet.cz je jeden z projektů, které dotaci dostali)
 > Dobré ráno,
 

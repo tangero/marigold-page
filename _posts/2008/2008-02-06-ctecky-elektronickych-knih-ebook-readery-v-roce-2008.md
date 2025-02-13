@@ -1,15 +1,24 @@
 ---
 ID: 2198
-title: 'Čtečky elektronických knih, ebook readery v&nbsp;roce 2008'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Knihy
+- eKnihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctecky-elektronickych-knih-ebook-readery-v-roce-2008
-published: true
+oldlink: 'https://www.marigold.cz/item/ctecky-elektronickych-knih-ebook-readery-v-roce-2008
+
+  '
 post_date: 2008-02-06 10:17:18
-categories: [Knihy, eKnihy]
+post_excerpt: ''
+published: true
+summary_points:
+- E-ink displeje nabízejí vysoký kontrast a čitelnost na slunci, šetří energii.
+- Vizplex e-ink displeje druhé generace zrychlují zobrazení, zvyšují kontrast.
+- Amazon Kindle používá CDMA pro stahování knih, nabízí platformu pro autory.
+- Formát Mobipocket je dobře přenositelný, ale chybí čtečky pro Mac/Linux.
+title: Čtečky elektronických knih, ebook readery v&nbsp;roce 2008
 ---
+
 Vloni jsem <a href="http://www.marigold.cz/item/ctecky-elektronickych-knih-ebook-readery-v-roce-2007">publikoval článek</a> se stejným nadpisem, jen letopočet v něm byl jiný. Rok s rokem sešli se a myslím, že je čas udělat si malý update, co nového jest v oblasti e-ink zařízení a čteček elektronických knih. I když mám pár schůzek na tohle téma sjednaných v BArceloně na 3GSM, není na škodu rekapitulovat si základní dění. 
 
 <!--more-->

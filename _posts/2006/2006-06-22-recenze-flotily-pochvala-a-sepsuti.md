@@ -1,14 +1,21 @@
 ---
 ID: 1987
-title: 'Recenze Flotily: pochvala a&nbsp;sepsutí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/recenze-flotily-pochvala-a-sepsuti
-published: true
+oldlink: 'https://www.marigold.cz/item/recenze-flotily-pochvala-a-sepsuti
+
+  '
 post_date: 2006-06-22 12:03:43
+post_excerpt: ''
+published: true
+summary_points:
+- Flotila Země dostupná ve volném prodeji po vydání v Pevnosti za 89 Kč.
+- Neviditelný pes publikoval dvě recenze Flotily Země od Henryho a Pagiho.
+- Henryho recenze kritizovala knihu pro lineární děj a nudnost.
+- Pagiho recenze chválila ironii a zábavnost knihy jako oddechového čtení.
+title: 'Recenze Flotily: pochvala a&nbsp;sepsutí'
 ---
+
 <p>Flotila Země se po třech měsících, kdy vyšla s časopisem Pevnost, dostala do volného prodeje (za 89 Kč) - <a href="http://www.daemon.cz/kniha/6440/zandl-patrick-flotila-zeme.htm">online například zde</a>. Reakcí jsem dostal řadu, většinou takových těch po ICQ od kamarádů a známých, kteří na to někde narazili. Na Neviditelném psovi vyšly dvě recenze, jedna počátkem června od Henryho, druhá od Pagiho. Ani jednoho z pánů neznám osobně ani neosobně (aspoň myslím), takhle familierně je zovu jen proto, že se tak podepsali pod recenze. </p>
 
 <p>Henry mne sepsul parádně (<a href="http://neviditelnypes.zpravy.cz/recenze-patrick-zandl-flotila-zeme-dtl-/p_scifi.asp?c=A060601_081648_p_scifi_pag">recenze zde</a>). Děj <i>"plyne v jediné lineární rovině bez neočekávaných zvratů k očekávanému konci"</i> a <i>"výsledný dojem tak vyznívá opravdu jen jako sny malého kluka o česko-mimozemském setkání"</i>. Podle Henryho <i>"kniha sice vyloženě nenudí, ale je rozhodně tou nejméně zajímavou, kterou dosud Wolf Publishing v edici Pevnost vydal"</i>.</p>

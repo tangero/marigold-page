@@ -1,15 +1,23 @@
 ---
 ID: 2333
-title: 'Bez nových podnětů to nejde (A&nbsp;bez knih taky!)'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Knihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bez-novych-podnetu-to-nejde-a-bez-knih-taky
-published: true
+oldlink: 'https://www.marigold.cz/item/bez-novych-podnetu-to-nejde-a-bez-knih-taky
+
+  '
 post_date: 2009-07-20 22:25:50
-categories: [Knihy]
+post_excerpt: ''
+published: true
+summary_points:
+- Nové podněty jsou zásadní, jinak hrozí pouhé kopírování a omezenost.
+- Gladwellovy knihy Outliers, Mžik a Bod zlomu doporučeny pro pochopení procesů.
+- Ekonomie dobra a zla od Sedláčka a Báječný chaos jsou další doporučené tituly.
+- Nová, podstatná literatura je v Česku nedostupná, nutno číst anglicky.
+title: Bez nových podnětů to nejde (A&nbsp;bez knih taky!)
 ---
+
 Pokud nemáte nové podněty, jste odsouzeni ke kopírování. Když jsem byl nedávno po cestách a zapadl do anglickojazyčného knihkupectví, znovu jsem si to uvědomil. Bez nových podnětů to zkrátka nejde, jinak jsme omezeni na tu svoji krabici. Tahle myšlenka by se dala rozvádět donekonečna, ale je to zbytečné, kdo si to neuvědomuje, tratí sám. Neustále je, co se učit nového a jaké nové podněty přijímat. 
 
 Dneska jsem prošel české knihkupectví. Beletrie hromada, zrak přechází, ale s tou naučnou literaturou je to slabší. Tedy, spíše hodně slabé. A tak, jestli chcete internetu a možná i životu mírně rozumět, objednejte a přečtěte si následující knihy: Malcom Gladwell (od něj berte všechno, co vyšlo, ono toho moc nevyšlo): <a href="http://www.neoluxor.cz/cz/katalog/detail-knihy/?idproduct=127256">Outliers: The Story of Success</a> (český překlad zatím bohužel není), <a href="http://www.dokoran.cz/index.php?Mzik&p=book.php&id=235">Mžik - Jak myslet bez přemýšlení</a> a <a href="http://www.dokoran.cz/index.php?Bod_zlomu&p=book.php&id=372">Bod zlomu - O malých příčinách s velkými následky</a> (ten především).

@@ -1,15 +1,23 @@
 ---
 ID: 2365
-title: 'Editor v&nbsp;redakci je nedoceněná věc'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/editor-v-redakci-je-nedocenena-vec
-published: true
+oldlink: 'https://www.marigold.cz/item/editor-v-redakci-je-nedocenena-vec
+
+  '
 post_date: 2010-08-04 17:01:18
-categories: [Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Online média šetří na editorech, což snižuje kvalitu článků.
+- Editor upravuje text pro cílové publikum a ověřuje fakta.
+- Autoři často editorům oponují, ale oponentní čtení text zlepšuje.
+- Editor vylepšuje strukturu textu, srozumitelnost a argumentaci.
+title: Editor v&nbsp;redakci je nedoceněná věc
 ---
+
 Jedna z typických redakčních úspor v českých online (a bohužel nejenom online) médiích je post editora. Ke škodě redakcí, čtenářů i autorů textů. Vedení začasté má dojem, že stačí najít dobrého autora a věc s dobrým článkem je vyřízena. Editorů netřeba. Dokonce, jak se mi malým průzkumem ukázalo, ví už dnes jen málokdo z mladších novinářů, co takový editor má dělat. Přitom právě jeho práce rozhoduje minimálně o třetině výsledku - tedy o tom, jak je článek vnímán čtenáři a nakonec i inzerenty. A nakonec proti němu bojují i mnozí autoři. 
 
 Co dělá editor? Dostane článek od autora a přečte si jej. Pak se zamyslí, zda autor dodržel redakční zásady a článek začne upravovat. Nejde o pouhou jazykovou korekturu (korektor je někdo jiný). Jde o to, že když jste sehnali člověka, který povykládá o fungování SMS zpráv dětem do časopisu ABC, měl by článek mít jiný jazyk a jinou strukturu, než když to píše do odborného časopisu IEEE. Čehož odborný autor zpravidla není schopen, je tedy na editorovi, aby text upravil tak, jak je pro dotyčné médium vhodné. Tohle je samozřejmě extrémní příklad, protože odborný autor většinou do Ábíčka nepíše, ale zhruba to ilustruje, co je potřeba s textem udělat. 

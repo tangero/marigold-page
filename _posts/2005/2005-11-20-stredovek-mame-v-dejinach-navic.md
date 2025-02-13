@@ -1,15 +1,26 @@
 ---
 ID: 1871
-title: 'Středověk máme v&nbsp;dějinách navíc'
 author: Patrick Zandl
-post_excerpt: "Jak je to s historií? Občas narazíte na hodně alternativní názory, jimž dominuje Anatolij Fomenko. Jeho jméno se postupně začíná používat jako synonymum alternativních všeruských vidění historie."
+categories:
+- Historie
+- Dezinformace
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/stredovek-mame-v-dejinach-navic
-categories: [Historie, Dezinformace]
-published: true
+oldlink: 'https://www.marigold.cz/item/stredovek-mame-v-dejinach-navic
+
+  '
 post_date: 2005-11-20 22:14:05
+post_excerpt: Jak je to s historií? Občas narazíte na hodně alternativní názory, jimž
+  dominuje Anatolij Fomenko. Jeho jméno se postupně začíná používat jako synonymum
+  alternativních všeruských vidění historie.
+published: true
+summary_points:
+- Amazon doporučil knihu Anatolije Fomenka, ruského matematika a revizionisty historie.
+- Fomenko zpochybňuje datování raného středověku a spolehlivost Scaligerovy chronologie.
+- Historické datace jsou dle Fomenka založeny na nespolehlivých a neověřených zdrojích.
+- Oficiální věda Fomenkovu novou chronologii většinou mlčí nebo ji odmítá.
+title: Středověk máme v&nbsp;dějinách navíc
 ---
+
 Udělal jsem na Amazonu další nehoráznou útratu a na poslední chvíli jsem si všimnul, že mi Amazon podstrčil knihu „která by se mohla líbit“. Nejdříve jsem jí nevěnoval pozornost, ono taky nadpis <a href="http://www.amazon.com/gp/product/2913621058/103-1264839-4831858?v=glance&amp;n=283155&amp;%5Fencoding=UTF8&amp;me=ATVPDKIKX0DER&amp;no=283155&amp;st=books">History: fiction or science</a>, to je název, jaký mohl zvolit třeba ten <a href="http://en.wikipedia.org/wiki/Daniken">kuchař ze švýcarského hotýlku</a> (vím, znevažující tvrzení, ale co nadělám, nemám rád jeho metody). Jenže pak mi došlo, že to nečitelné jméno je fonetickou transkripcí ruského jména Anatolie Fomenka. 
 
 <a href="http://en.wikipedia.org/wiki/Anatoly_Fomenko">Anatolij Fomenko</a> je dlouhou dobu můj favorit. Setkal jsem se s ním jednou, samozřejmě ne osobně a vyhrazeně, seděl jsem v řadě studentů v narvané posluchárně a poslouchali jsme člověka, který je světovým expertem na určování stáří radiokarbonovou metodou (C14) a řadou dalších  metod. To z něj sice dělá hvězdu univerzit,  ale asi by to nevysvětlilo, proč se jeho knihy prodávají jako bestsellery v zemích, kde nakonec vyjdou. Důvod s tím sice souvisí, ale je někde jinde. Fomenko totiž tvrdí, že ranný středověk je v našich dějinách jaksi navíc, že řada z toho, co o něm víme, se nestala, nebo se stala jindy. Do říše výmyslů odsuzuje karolínskou epochu a s ní Karla Velikého jako neexistující postavu (či přesněji řečeno „historický double“ - tedy neexistující postavu, která má základ v jiné historické postavě). Kristus se narodil a byl ukřižován v jedenáctém století a Trója byla ve skutečnosti v Itálii. Řekli byste - magor. Takových je fronta, zmíněného Danikena v to počítaje. 

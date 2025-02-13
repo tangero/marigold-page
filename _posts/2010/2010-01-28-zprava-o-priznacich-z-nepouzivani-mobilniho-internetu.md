@@ -1,15 +1,24 @@
 ---
 ID: 2339
-title: 'Zpráva o&nbsp;příznacích z&nbsp;nepoužívání mobilního internetu'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Digitální detox
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zprava-o-priznacich-z-nepouzivani-mobilniho-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/zprava-o-priznacich-z-nepouzivani-mobilniho-internetu
+
+  '
 post_date: 2010-01-28 17:53:00
-categories: [Digitální detox]
+post_excerpt: ''
+published: true
+summary_points:
+- Abstinenční příznaky absence internetu způsobují očekávání okamžitých reakcí na
+  e-maily.
+- Zapomenuté podklady vedly k panickému hackování cizí WiFi a zpoždění na schůzku.
+- Absence internetu v tramvaji vedla k hlubšímu přemýšlení a poznámkám do notýsku.
+- Autor strávil s mobilem minimum času a zjistil, že má čas na promýšlení věcí.
+title: Zpráva o&nbsp;příznacích z&nbsp;nepoužívání mobilního internetu
 ---
+
 Jste asi napnuti, jak se odvíjí můj pokus nepoužívat chytrofouny ani mobilní internet. Co si budeme namlouvat, abstinenční příznaky jsou tady. Tak především, nově nejsem kdekoliv online. Několik lidí z toho usoudilo, že email přestal fungovat, protože jsem jim neodpověděl během tří minut od jeho odeslání. Marty se přiznal, že kdyby nečetl předchozí blogpost, šel by rozmontovat router a pak seřvat svého ISP. To jsou ty jednodušší okamžiky nepoužívání mobilního internetu. 
 
 Měl jsem fest rozlítaný týden. Jedu si tak na schůzku s právníkem, po ní se přesouvám na jednání se zákazníkem, když jsem si vzpomněl, že jsem si v práci nechal nevytisknuté podklady. Copak o to, všechno mám v hlavě. Jen dvě čísla... nemůžu si vzpomenout. Vytahuju mobil, abych si to přečetl na Google Docs, kde všechny podklady mám. Hm... mám vymazané nastavení internetu. Zápasím s tím dvacet minut jízdy tramvají, jediným úspěchem je došlá SMS od Vodafone, že mi účtují 17 Káčé za připojení k internetu. Propadám panice, bootuju v Pasáži Myslbek notebook a hackuju cizí WiFi síť. Do schůzky zbývá pět minut, probojoval jsem se k datům z pokladny, ale internet tam nejede. Pln paniky dorážím na schůzku. To bude pohřeb!

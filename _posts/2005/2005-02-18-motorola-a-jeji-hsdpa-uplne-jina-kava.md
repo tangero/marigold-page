@@ -1,14 +1,21 @@
 ---
 ID: 1543
-title: 'Motorola a&nbsp;její HSDPA – úplně jiná káva'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/motorola-a-jeji-hsdpa-uplne-jina-kava
-published: true
+oldlink: 'https://www.marigold.cz/item/motorola-a-jeji-hsdpa-uplne-jina-kava
+
+  '
 post_date: 2005-02-18 07:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Motorola předvedla HSDPA s reálnou rychlostí 9,6 Mb/s na jeden sektor.
+- Deset klientů streamovalo video, MP3 a prohlíželo web s latencí 50-70 ms.
+- Motorola karta D1100 zvládá HSDPA 3,6 Mb/s, dostupná bude ve čtvrtém kvartále.
+- Road testy HSDPA dosahovaly 2,3 Mb/s při rychlosti 50 mil/h ve městě.
+title: Motorola a&nbsp;její HSDPA – úplně jiná káva
 ---
+
 <p>Včera jsem na výstavišti chtěl kromě nějakých firemních věcí skouknout i HSDPA u Ericsson a Motoroly. Nejdříve jsem se vypravil do Motoroly, na stánku měli hezké powerpoint demo a kartu Motorola D1100 s podporou HSDPA, jenže mne upozornili, že HSDPA demo zde není. Ukázalo se, že pro operátory a další hóch nóbl společnost je všechno k vidění kousek za výstavištěm, i nelenil jsem, otočil jsem cedulku press aby kompromitující nápis nebyl vidět a dorazil jsem na ono místo  (nebylo to lehké najít, ale podařilo se).</p>
 
 <p>Motorola zde měla pronajatý asi sedmipatrový barák nacpaný BTSkami, jednačkami a vší možnou i nemožnou technikou. Hosteska s překvapením konstatovala, že nemám sjednanou schůzku, já jsem se zatvářil něco na způsob, že zítra chci začít stavět síť na HSDPA a batoh na zádech mám nacpaný dolary, nakonec se omluvili, že žádný obchodník na mne nemá čas a že si budu muset vystačit s technikem. Vystačil a velmi dobře. </p>

@@ -1,14 +1,21 @@
 ---
 ID: 2110
-title: Windows Vista je špatný systém
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/windows-vista-je-spatny-system
-published: true
+oldlink: 'https://www.marigold.cz/item/windows-vista-je-spatny-system
+
+  '
 post_date: 2007-05-31 20:36:06
+post_excerpt: ''
+published: true
+summary_points:
+- Článek o Windows Vista je parodie, autor se omlouvá za případné uražení uživatelů.
+- Autor kritizuje GUI Visty pro zastaralost a nepraktičnost ve srovnání s jinými systémy.
+- Vista má tragickou myš/touchpad podporu a pomalý software s rizikem virů.
+- Vista má horší podporu periférií, menší komunitu a omezené možnosti přizpůsobení.
+title: Windows Vista je špatný systém
 ---
+
 Update: Pro jistotu to napíšu hned na začátek a následně rozvedu: článek Windows Vista je špatný systém jsem nemyslel vážně a byla to jen parodie na sociosystém lůzy … <a href="http://www.marigold.cz/item/2111">vysvětluji to celé podrobně zde</a> :) Gratulace těm, co to pochopili ...
 
 Chtěl jsem napsat už delší dobu nějaký článeček věnovaný Windows Vista. Jenže jsem nevěděl, jak na to. Co na tom, že Windows dva roky nepoužívám a problémům jejich uživatelů se jen směju. Chce to nějaká neotřele kontroverzní článek, něco, kde budete moci obdivovat můj skvělý rozhled, jedinečnou uštěpačnost a skvělý vhled do situace. ;)

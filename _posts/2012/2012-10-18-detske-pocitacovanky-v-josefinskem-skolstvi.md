@@ -1,15 +1,23 @@
 ---
 ID: 2545
-title: 'Dětské počítačovánky v&nbsp;josefinském školství'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Vzdělávání
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/detske-pocitacovanky-v-josefinskem-skolstvi
-published: true
+oldlink: 'https://www.marigold.cz/item/detske-pocitacovanky-v-josefinskem-skolstvi
+
+  '
 post_date: 2012-10-18 14:05:44
-categories: [Vzdělávání]
+post_excerpt: ''
+published: true
+summary_points:
+- Školství nedostatečně vzdělává v oblasti výpočetní techniky, což je pro děti nevýhodné.
+- Výuka počítačů je často povrchní, zaměřená na základní úkony, nikoliv principy.
+- Autor navrhuje web s hravými úkoly, soutěžemi a projekty pro děti.
+- Soukromá iniciativa rodičů a IT odborníků by mohla tento problém řešit lépe.
+title: Dětské počítačovánky v&nbsp;josefinském školství
 ---
+
 Dlouhou dobu nosím v hlavě jednu věc, nad kterou mě mrzí čím dál více, že na ni nezbyl čas. Programování pro děti. Abyste mi rozuměli, považuji za velký handicap našeho školství, jak přistupuje ke vzdělávání ve výpočetní technice. A pro své vlastní (a zřejmě i vaše) děti považuji za velkou nevýhodu, že se nedostanou brzy a dobře k pochopení počítačů, zatímco se jím servírují eukariotické buňky či přemyslovští králové, o nichž se stejně na vysoké (pokud si specializaci vyberou) dozví, že už je to dávno jinak.  Přitom je zřejmé, že  na počítače ještě nějakou chvíli narážet budou, k základnímu vzdělání to ale kupodivu nepatří. 
 
 A znovu. Vím, že na školách něco jako Výpočetní technika, Základy počítačů atd existuje. Jenže to má velmi různorodou úroveň většinou danou tím, že to vyučuje učitelka, která sama příliš hluboko nevidí a neví, odkud to uchopit. Je sice lepší něco, než nic, když se děti učí napsat email či zvětšovat písmo ve Wordu, ale cožpak by nestálo za to, říct jim něco o principu fungování emailu, základech typografie nebo skladbě vyhledávacích slov? Když už nic, alespoň by se nevkusné teenagerovské blogísky změnily na vkusné teenagerovské blogísky, i to by pagerank české domény jistě zdvihlo. 

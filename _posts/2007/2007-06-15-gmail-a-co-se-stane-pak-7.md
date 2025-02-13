@@ -1,14 +1,21 @@
 ---
 ID: 2120
-title: 'GMail &#8211; a&nbsp;co se stane PAK?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/gmail-a-co-se-stane-pak-7
-published: true
+oldlink: 'https://www.marigold.cz/item/gmail-a-co-se-stane-pak-7
+
+  '
 post_date: 2007-06-15 08:17:51
+post_excerpt: ''
+published: true
+summary_points:
+- Gmail uživateli dochází kapacita 3GB schránky, kterou používá od roku 2004.
+- Uživatel ukládá přílohy mimo Gmail, přesto schránku zaplnil.
+- Čtyři tisíce nevyřízených emailů a 27 tisíc spamů jsou běžné.
+- Množství spamu v Gmailu uživatele exponenciálně roste.
+title: GMail &#8211; a&nbsp;co se stane PAK?
 ---
+
 Mám malý soukromý problém s Gmailem. Jeho podstatu odhalí následující obrázek:
 
 <img src="http://www.marigold.cz/wp-content/Screenshot_26.jpg" width="432" height="87" alt="Moje email schránka na Gmailu je skoro plná" title="Moje email schránka na Gmailu je skoro plná" />

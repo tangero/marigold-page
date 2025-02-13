@@ -1,14 +1,22 @@
 ---
 ID: 2099
-title: 'Hodinářský veletrh a&nbsp;vlastní videostřih &#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hodinarsky-veletrh-a-vlastni-videostrih
-published: true
+oldlink: 'https://www.marigold.cz/item/hodinarsky-veletrh-a-vlastni-videostrih
+
+  '
 post_date: 2007-04-22 21:06:31
+post_excerpt: ''
+published: true
+summary_points:
+- Práce autora zaznamenala změny po návratu z cest.
+- Autor stříhal video z hodinářského veletrhu Basel World 2007.
+- iMovie je uživatelsky přívětivý software pro střih videa.
+- Autor vytvořil videoreportáž o hodinkách Seiko Spring Drive.
+- Vložení videa ze Stream.cz selhalo kvůli designu Chronomagu.
+title: Hodinářský veletrh a&nbsp;vlastní videostřih &#8230;
 ---
+
 Vrátiv se z cest, popatřil jsem v práci na četné změny, jež nastaly. Snad budou ku užitku, jistěže budou, takhle už to nešlo. Růst byl příliš rychlý a chtělo to odkalit vodu. 
 
 V pátek jsem se konečně dostal k tomu, abych se dal do stříhání videí z basilejského hodinářského a klenotinckého veletrhu Basel World 2007, což bylo jedno z mých švýcarských zastavení. Do Basileje jsem se těšil,  hodinářský veletrh jsem už dlouho chtěl vidět a nikdy mi to nevyšlo.

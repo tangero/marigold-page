@@ -1,15 +1,26 @@
 ---
 ID: 2209
-title: 'Apple iPhone dále provokuje &#8211;  a&nbsp;co změní SDK?'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Apple
+- iPhone
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/apple-iphone-dale-provokuje-a-co-zmeni-sdk
-published: true
+oldlink: 'https://www.marigold.cz/item/apple-iphone-dale-provokuje-a-co-zmeni-sdk
+
+  '
 post_date: 2008-03-09 09:37:30
-categories: [Apple, iPhone]
+post_excerpt: ''
+published: true
+summary_points:
+- Apple představil SDK pro iPhone, zdarma pro vývoj, placené pro distribuci přes iTunes.
+- iPhone má unikátní vertikální integraci, získává příjmy z prodeje zařízení, obsahu
+  i služeb.
+- Prodejní podíly iPhone rostou v USA, celosvětově je situace regionálně odlišná.
+- SDK pro iPhone má omezení, například běh aplikací na pozadí a přístup k systémovým
+  rozhraním.
+title: Apple iPhone dále provokuje &#8211;  a&nbsp;co změní SDK?
 ---
+
 Apple představil svůj vývojářský kit pro iPhone a ucelených informací o tom na českém netu pomálu, pokud odmyslím z kontextu vytrhané informace blábolila Hulána. Přitom šlo o očekávanou událost a v oboru telekomunikací relativně slušně sledovanou. 
 
 Nejprve si rekapitulujme, proč tolik povyku kolem iPhone. Když odmyslíme tu trochu hype, která každý Apple výrobek provází, tak jsou tu dva hlavní důvody. Tím prvním je totální arogance Apple ke zvyklostem telekomunikačního světa. iPhone je maličký osobní počítač doplněný o telefonní rozhraní. Není to opačně, jak bylo dodnes zvykem: telefon doplněný o počítačové oškubávanky. 

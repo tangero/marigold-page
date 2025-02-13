@@ -1,14 +1,21 @@
 ---
 ID: 2089
-title: 'A zase práce jak&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/a-zase-prace-jak
-published: true
+oldlink: 'https://www.marigold.cz/item/a-zase-prace-jak
+
+  '
 post_date: 2007-02-23 15:30:53
+post_excerpt: ''
+published: true
+summary_points:
+- NIX zákazníkem od 12.1., Vreco zajistil peering s klienty potřebnými pro Stream.
+- Stream TV se blíží ostrému startu, což znamená hodně práce.
+- Jilm analyzuje Stream, zdůrazňuje začátek a odlišnou cílovou skupinu.
+- Stream TV má obchodní model, soustředí se na podstatné, ne na reklamu.
+title: A zase práce jak&#8230;
 ---
+
 Není vhodné měnit design, zvláště, když člověk ví, že je v velmi preliminary stádiu a má do toho práce jak... Ale nemohl jsem si pomoci. 
 
 Jinak obecně veselo. Například jsme od 12.1. zákazníky NIXu, s čímž si Vreco vyhrál. V <a href="http://www.nix.cz/peering.php?lg=cz&kid=89">tabulce peeringu</a> je už celá řada zářezů, prakticky s každým, kdo má nějaké klienty, jichž nám je třeba. S řadou sítí jsme propojeni na bázi vyrovnávacích cache serverů nebo přes jinou síť, takže už to vypadá, že je, o co se opřít. To také znamená, že ostrý start se blíží. A když se řekně "blíží" tak to = moře práce... 

@@ -1,15 +1,26 @@
 ---
 ID: 2282
-title: 'Videodrobky: Joost balí klienta, On2 představuje nový kodek a&nbsp;české videomámení'
 author: Patrick Zandl
-post_excerpt: "Přehlídka událostí z videosvěta nemůže začít ničím jiným, než oznámením, že Joost vzdal specializovaného klienta pro svou P2P televizi a napříště bude k dispozici jen plugin pro prohlížeč, samozřejmě ale také založený na P2P technologii."
+categories:
+- Video
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/videodrobky-joost-bali-klienta-on2-predstavuje-novy-kodek-a-ceske-videomameni
-published: true
+oldlink: 'https://www.marigold.cz/item/videodrobky-joost-bali-klienta-on2-predstavuje-novy-kodek-a-ceske-videomameni
+
+  '
 post_date: 2008-09-14 17:37:07
-categories: [Video]
+post_excerpt: Přehlídka událostí z videosvěta nemůže začít ničím jiným, než oznámením,
+  že Joost vzdal specializovaného klienta pro svou P2P televizi a napříště bude k
+  dispozici jen plugin pro prohlížeč, samozřejmě ale také založený na P2P technologii.
+published: true
+summary_points:
+- Joost ruší specializovaného klienta pro P2P televizi, bude fungovat jen plugin.
+- VP8 kodek od On2 slibuje lepší kompresi než VC-1 a H.264.
+- Centrum a Nova chystají české videoportály podobné Youtube.
+- Internet Info s Bombou dosahuje s minimálními náklady srovnatelné výsledky jako
+  N-Joy.
+title: 'Videodrobky: Joost balí klienta, On2 představuje nový kodek a&nbsp;české videomámení'
 ---
+
 Přehlídka událostí z videosvěta nemůže začít ničím jiným, než oznámením, že Joost vzdal specializovaného klienta pro svou P2P televizi a napříště bude k dispozici jen plugin pro prohlížeč, samozřejmě ale také založený na P2P technologii (<a href="http://gigaom.com/2008/09/05/joost-to-kill-desktop-client/">zdroj zde</a>). Zda to lze interpretovat jako ústup Joostu ze slávy? Po pravdě, tu mu přinesl jen fakt, že mezi jeho zakladateli jsou lidé, kteří skvěle vykešovali ze Skype. Podobných projektů existuje více a všechny zatím zklamaly v zobchodování své technologie, nebo působí na specifických trzích jako Čína a Jižní Korea. Za hlavní slabinu Joostu byl považován právě desktop klient, který neměl žádnou výhodu desktop klienta a nedostatek obsahu. Ten ostatně trápí většinu legálních videoprojektů. Nu a nakonec právě zvolená technologie, protože P2P sítě pro video se zkrátka potýkají s velkou asymetrií širokopásmových přípojek. A to nejenom v Evropě. 
 
 Technologicky druhou zajímavou zprávou je představení kodeku VP8 firmou On2. Firma slibuje, že tento kodek nabízí o 20% - 40% lepší výsledky v kompresi, než srovnatelné kodeky VC-1 či na bázi Realvideo a H.264. Poučné příklady <a href="http://www.on2.com/index.php?599">jsou zde</a>. Dlužno poznamenat, že VP6 ve Flashi zaznamenal slušného rozšíření, VP7 se už nedařilo. VP8 je zajímavé hlavně tím, že ho licencuje sama On2, takže podmínky jsou více zřejmé, než u MPEG-4. Zda se chytne na webu, ještě moc jasné není. 

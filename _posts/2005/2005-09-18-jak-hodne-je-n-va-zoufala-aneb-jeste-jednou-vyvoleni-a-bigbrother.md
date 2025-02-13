@@ -1,14 +1,21 @@
 ---
 ID: 1822
-title: 'Jak hodně je N@va zoufalá (aneb ješte jednou vyvolení a&nbsp;BigBrother)?'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-hodne-je-n-va-zoufala-aneb-jeste-jednou-vyvoleni-a-bigbrother
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-hodne-je-n-va-zoufala-aneb-jeste-jednou-vyvoleni-a-bigbrother
+
+  '
 post_date: 2005-09-18 19:31:36
+post_excerpt: ''
+published: true
+summary_points:
+- BigBrother se přesouvá z prime time na podvečer.
+- Nova neumožnila divákům ztotožnit se se soutěžícími.
+- Technologie pro reálné záběry stojí pod 500 tisíc Kč.
+- Zisk z diváků a inzerentů by mohl být o řád větší.
+title: Jak hodně je N@va zoufalá (aneb ješte jednou vyvolení a&nbsp;BigBrother)?
 ---
+
 <p><b>oook píše</b>: Nedá mi, abych ještě jednou neotočil téma soupeření reality show. <br />
 <br />
 Vypadá to, že BigBrother se z prime time přesouvá na podvečer - a jeho návrat do prime time je velmi spíše zbožné přání. <br />

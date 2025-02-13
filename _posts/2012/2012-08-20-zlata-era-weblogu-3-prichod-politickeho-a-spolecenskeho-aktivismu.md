@@ -1,15 +1,27 @@
 ---
 ID: 2490
-title: 'Zlatá éra weblogů 3:  Příchod politického a&nbsp;společenského aktivismu'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Historie internetu
+- Weblogy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zlata-era-weblogu-3-prichod-politickeho-a-spolecenskeho-aktivismu
-published: true
+oldlink: 'https://www.marigold.cz/item/zlata-era-weblogu-3-prichod-politickeho-a-spolecenskeho-aktivismu
+
+  '
 post_date: 2012-08-20 11:59:14
-categories: [Historie internetu, Weblogy]
+post_excerpt: ''
+published: true
+summary_points:
+- Raná česká blogosféra (2002-2003) byla technicky zaměřená, věnovaná webdesignu a
+  technologiím.
+- Mezi známé blogy patřily Převážně neškodný, Pixylophone, Sova v síti, Kyberšmok,
+  Pooh.cz, Well.Done, ConBlog, Garcon.
+- Blog Marigold.cz vznikl 2002 jako poznámkovník o WiFi sítích a recyklovaná doména.
+- Od roku 2003 se objevují laičtější blogy a "bložínky", později i politický aktivismus
+  (CzechTek).
+title: 'Zlatá éra weblogů 3:  Příchod politického a&nbsp;společenského aktivismu'
 ---
+
 <p>Jedním ze zajímavých rysů české weblogerské scény v ranném období (2002-2003) byla její vyhraněnost. Z velké části šlo o weblogy zaměřené na webdesign, diskutující témata validity, kaskádových stylů a rozvoje prohlížečů v rámci ACID testů. Je to ale logické, jen technicky orientovaní lidé schopní tvorby vlastního HTML vzhledu a instalace potřičných nástrojů, mohli začít blogovat. </p>
 
 

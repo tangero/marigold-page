@@ -1,15 +1,25 @@
 ---
 ID: 2229
-title: 'Skype přichází s&nbsp;klienty pro Symbian, UIQ i&nbsp;Java mobily'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Skype
+- IM
+- Symbian
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/skype-prichazi-s-klienty-pro-symbian-uiq-i-java-mobily
-published: true
+oldlink: 'https://www.marigold.cz/item/skype-prichazi-s-klienty-pro-symbian-uiq-i-java-mobily
+
+  '
 post_date: 2008-04-27 14:10:34
-categories: [Skype, IM, Symbian]
+post_excerpt: ''
+published: true
+summary_points:
+- Skype vydal nativní klienty pro 50 mobilních telefonů s Javou, Symbianem a UIQ.
+- Odchozí hovory na Skype Out v Česku nejsou z mobilní aplikace podporovány.
+- Mobilní Skype hovory fungují jako klasické mobilní hovory, nikoliv VoIP.
+- Operátoři se brání Skypu kvůli obavám z kanibalizace příjmů z hovorů a SMS.
+title: Skype přichází s&nbsp;klienty pro Symbian, UIQ i&nbsp;Java mobily
 ---
+
 Skype dramaticky rozšířil dostupnost svého klienta na mobilní telefony a to oficiální cestou. Firma před několika dny představila nativní klienty pro zhruba padesátku mobilních telefonů vybavených podporou Javy (tedy J2ME MIDP 2.0), Symbianu a UIQ. Oficiálně podporovaná je řada mobilních telefonů firmy Nokia (N95, 5200, 5200, šestková řada atd), Sony Ericsson (K, W i Z modely), Samsung a Motorola. Kompletní seznam všech cca 50ti mobilů včetně těch, pro které se podpora chystá, <a href="http://www.skype.com/intl/en/download/skype/mobile/choose">najdte zde na webu Skype.com</a>. Pokud byste chtěli stahovat software přímo do mobilu, použijte stránku <a href="http://mobiledownload.skype.com/">mobiledownload.skype.com</a>. Pozor: i verze pro Symbian i UIQ telefony je Java, ne nativní aplikace!
 
 Na těchto verzích jde přijímat hovory, zprávy psát i odesílat. Odchozí hovory jak na Skype kontakty, tak na telefonní čísla (Skype Out) v Česku nejdou, to je limitováno jen na vybrané země, kde má Skype mnoho zákazníků a kam umístil patřičnou techniku. 

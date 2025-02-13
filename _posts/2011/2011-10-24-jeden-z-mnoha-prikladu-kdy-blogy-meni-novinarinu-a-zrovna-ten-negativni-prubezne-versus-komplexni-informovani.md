@@ -1,15 +1,25 @@
 ---
 ID: 2399
-title: 'Jeden z&nbsp;mnoha příkladů, kdy blogy mění novinařinu (a&nbsp;zrovna ten negativní): průběžné, versus komplexní informování'
 author: Patrick Zandl
-post_excerpt: blogy, novinařina
+categories:
+- Média
+- Weblogy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jeden-z-mnoha-prikladu-kdy-blogy-meni-novinarinu-a-zrovna-ten-negativni-prubezne-versus-komplexni-informovani
-published: true
+oldlink: 'https://www.marigold.cz/item/jeden-z-mnoha-prikladu-kdy-blogy-meni-novinarinu-a-zrovna-ten-negativni-prubezne-versus-komplexni-informovani
+
+  '
 post_date: 2011-10-24 21:28:18
-categories: [Média, Weblogy]
+post_excerpt: blogy, novinařina
+published: true
+summary_points:
+- Blogy nezměnily novinařinu zásadně, ale urychlily publikování informací.
+- Firmy kritizují média za rychlé publikování bez žádosti o vyjádření.
+- Informace se publikují postupně, bez kontextu, což je pro čtenáře nevýhodné.
+- Blogerský přístup je vhodný pro témata, kde má čtenář orientaci.
+title: 'Jeden z&nbsp;mnoha příkladů, kdy blogy mění novinařinu (a&nbsp;zrovna ten
+  negativní): průběžné, versus komplexní informování'
 ---
+
 <p>Když začínal "fenomén blogů", ozývala se řada hlasů, že to naprosto změní novinařinu, přinese to její občanské, svobodné pojetí oproštěné od diktátu žurnalistických pseudoelit. Tehdy jsem, poučen mnoha jinými revolucemi, smířlivě namítal, že nic se nejí tak horké, jak se to uvaří. S odstupem doby se ukazuje, že spíše ty chladnější hlavy měly pravdu, i když mnoho vlivu blogy zanechaly. Často, pravda, ne nejlepšího. A o tom bude tenhle příklad.</p>
 
 

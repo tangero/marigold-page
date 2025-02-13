@@ -1,15 +1,24 @@
 ---
 ID: 2495
-title: 'Zlatá éra weblogů 4: Chytré agregátory blogů a&nbsp;zpráv'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Historie internetu
+- Weblogy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zlata-era-weblogu-4-chytre-agregatory-blogu-a-zprav
-published: true
+oldlink: 'https://www.marigold.cz/item/zlata-era-weblogu-4-chytre-agregatory-blogu-a-zprav
+
+  '
 post_date: 2012-09-03 09:58:48
-categories: [Historie internetu, Weblogy]
+post_excerpt: ''
+published: true
+summary_points:
+- Blogy v roce 2004 hledaly pozici vůči mainstreamovým médiím.
+- Google News od roku 2002 agreguje renomované zpravodajské zdroje.
+- Přehled.net a Nový den byly české agregátory technologického zpravodajství.
+- Agregátory se staly pomůckou pro SEO, nikoliv zlomem občanské žurnalistiky.
+title: 'Zlatá éra weblogů 4: Chytré agregátory blogů a&nbsp;zpráv'
 ---
+
 <p> Zastavme se ještě na chvíli u vyhraňování blogů oproti klasickým médiím. V roce 2004 jsme ještě ve fázi, kdy svou pozici vůči mainstreamovým médiím hledaly blogy. Jen o pár let později už tomu bude opačně. </p>
 
 

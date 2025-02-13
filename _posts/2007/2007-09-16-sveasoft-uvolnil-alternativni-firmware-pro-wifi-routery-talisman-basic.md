@@ -1,16 +1,23 @@
 ---
 ID: 2150
-title: >
-  Sveasoft uvolnil alternativní firmware
-  pro WiFi routery Talisman Basic
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sveasoft-uvolnil-alternativni-firmware-pro-wifi-routery-talisman-basic
-published: true
+oldlink: 'https://www.marigold.cz/item/sveasoft-uvolnil-alternativni-firmware-pro-wifi-routery-talisman-basic
+
+  '
 post_date: 2007-09-16 19:57:44
+post_excerpt: ''
+published: true
+summary_points:
+- Sveasoft uvolnil zdarma firmware Talisman Basic pro WiFi routery.
+- Talisman Basic nabízí užitečné funkce pro domácí routery, ale ne hotspot.
+- Podporované routery zahrnují Asus, Buffalo, Linksys a Netgear modely.
+- Bezdrátové VLAN, BGP, OSPF, RIP2 a P2P správa jsou další funkce.
+title: 'Sveasoft uvolnil alternativní firmware pro WiFi routery Talisman Basic
+
+  '
 ---
+
 Konečně něco trochu více zajímavého v oblasti WiFi, než plejáda 802.11Nkových karet. I když, možná už mimo dozor zájmu řady lidí. <a href="http://www.sveasoft.com">Sveasoft</a> právě uvolnil alternativní firmware pro WiFi routery Talisman ve verzi Basic zdarma. To je dobrá zpráva, dva roky staré Alchemy a tři roky staré Satori už si nějakou tu správku vysloužilo. Talisman ve verzi 1.3.1 už je stabilní, od 1.2.9 ostatně problému pozoruju minimum. 
 
 Nejdříve drobný úvod. Řada domácích routerů běží na Linuxu a lze do nich ledasco dobastlit. Sveasoft se do bastlení pustil ve větším a nabídl už před lety celou plejádu firmware modifikací pro různé účely. Navíc si za to účtuje 20 dolarů, nově pak 25 dolarů ročně za podporu a download čehokoliv, což je sympatická cenová politika. Jeho firmware s chutí implementují řízení šířky pásma, QoS, WDS a další funkce, které výrobci nepodporují. Má speciální firwmare pro tvorbu hotspotů (jmenuje se Talisman Hotspot) a pokud chcete blbnout s Meshem, doporučuji mrknout na Talisman Mesh, kterým zasíťujete i hodně velkou plochu v řádu kilometrů.

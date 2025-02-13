@@ -1,16 +1,23 @@
 ---
 ID: 2156
-title: >
-  Soukromí bude za příplatek. Pokud
-  vůbec.
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/soukromi-bude-za-priplatek-pokud-vubec
-published: true
+oldlink: 'https://www.marigold.cz/item/soukromi-bude-za-priplatek-pokud-vubec
+
+  '
 post_date: 2007-10-07 09:00:52
+post_excerpt: ''
+published: true
+summary_points:
+- Reklama invazivně proniká do všech oblastí života, včetně mobilních telefonů.
+- Mobilní operátoři a firmy využívají SMS spam a telefonáty k propagaci služeb.
+- Uživatelé platí za ochranu soukromí a omezení reklamního spamu v mobilech.
+- 'Nerovný boj: reklama může lhát, ale kritika firem je obtížná a riskantní.'
+title: 'Soukromí bude za příplatek. Pokud vůbec.
+
+  '
 ---
+
 Invaze reklamy a jiných typů sdělení třetích stran do našich životů i do prostředí, které jsme doposud považovaly za nedotknutelné, souvisí s narůstajícím přesvědčením, že na reklamě lze vydělat kdekoliv a kdykoliv. Kde jsou ty časy, kdy se nad prvním inzerátem v novinách lidé podivovali. Dnešní noviny jsou zaplaveny inzercí, takže redakční informace zabírá někdy i jen polovinu plochy. A bude hůře. Zatímco dříve noviny a časopisy vznikaly s prvotním záměrem dát čtenářům nové podněty, dnes je prvotní záměr vytvořit reklamní nosič. Což je na řadě těch nově vznikajících děl až nepříjemně vidět a takové časopisy o bydlení jsou plejádou inzerátů, označených i neoznačených PR článků a jednoho tematického článku, který beztak slouží k tomu, aby vykolíkoval oblast pro inzerenty zajímavou a umožnil je efektivně a "bezešvě" nabalit na obsah. 
 
 Reklama postupuje dál a dál. Moderní je reklama na záchodcích. Moderní je virál. A hitem se znovu stává mobilní reklama, kde narážíme na paradox: poptávka převyšuje nabídku. Copak to? Inu, existuje řada mobilních služeb, které by se chtěly zviditelnit přímo v mobilech.  Jenže málo inzertních prostor. Většinu z nich totiž provozují mobilní operátoři a ti si do nich zatím moc inzerenty nepouštějí, jsou to  pro ně drobné. A tím tak zájem vývojářů o mobilní internet končí, kromě pár firem, které se účastní spíše z povinnosti, než ze slušnosti.

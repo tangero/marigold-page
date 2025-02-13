@@ -1,16 +1,23 @@
 ---
 ID: 2869
-title: >
-  Proč je frekvencí na mobilní sítě
-  málo, když je frekvencí nekonečně
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-je-frekvenci-na-mobilni-site-malo-kdyz-je-frekvenci-nekonecne
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-je-frekvenci-na-mobilni-site-malo-kdyz-je-frekvenci-nekonecne
+
+  '
 post_date: 2014-04-11 13:40:58
+post_excerpt: ''
+published: true
+summary_points:
+- Mobilní sítě využívají frekvence 400-1000 MHz kvůli šíření a anténám.
+- Pásmo 900 MHz je určeno pro GSM, ale interference omezují počet operátorů.
+- Pro rychlé datové služby (LTE) je potřeba velké pásmo, což limituje operátory.
+- Regulace frekvencí zlepšuje dostupnost a využitelnost rádiového spektra.
+title: 'Proč je frekvencí na mobilní sítě málo, když je frekvencí nekonečně
+
+  '
 ---
+
 <p>Prý <a href="http://www.marigold.cz/item/odpoved-k-odpovedi-panu-rybarovi-aneb-pro-zajemce-o-jizdu-na-mrtvem-koni#comments">nemám představivost a jdu jen po technické stránce věci</a>. V mobilních sítích by mohla existovat dokonalá konkurence, kdyby se stát nematlal do přidělování frekvencí a nedělal z nich umělým zásahem vzácný statek. Toliko ke kritice části mé obhajoby současného uspořádání. </p>
 
 

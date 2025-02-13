@@ -1,16 +1,23 @@
 ---
 ID: 2679
-title: >
-  Neočekávaná recenze myceliální
-  pentalogie Vilmy Kadlečkové
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/neocekavana-recenze-micelialni-pentalogie-vilmy-kadleckove
-published: true
+oldlink: 'https://www.marigold.cz/item/neocekavana-recenze-micelialni-pentalogie-vilmy-kadleckove
+
+  '
 post_date: 2013-07-31 10:17:55
+post_excerpt: ''
+published: true
+summary_points:
+- Kadlečková vyniká v české sci-fi/fantasy, její díla jsou myšlenkově obsažnější.
+- Česká sci-fi/fantasy zaostává myšlenkově i kvalitou za zahraniční konkurencí.
+- Mycelium přináší nový pohled na motivace mimozemských civilizací po 2001.
+- Mycelium je kvalitní dílo, vyžadující přemýšlení, odlišné od běžné české SF.
+title: 'Neočekávaná recenze myceliální pentalogie Vilmy Kadlečkové
+
+  '
 ---
+
 <p>Knihy, jak už jste si mohli povšimnout, vlastně ze zásady nerecenzuju. Jsou výjimky a <a href="http://cs.wikipedia.org/wiki/Vilma_Kadlečková">Vilma Kadlečková</a> je jednou z výjimečných výjimek. Zejména proto, že její knihy považuju v české scifi-fantasy (těžko se mi tyhle dva žánry v poslední době rozlišují) za něco výjimečného. Zejména proto, že její první knížka Na pomezí Eternaalu vydaná v roce 1990 mne uchvátila (a poznamenala) a želel jsem toho, že žádnou další knihu po argenitových legendách deset let nevydala, krom pár povídek. A to je možná důvod, proč Kadlečkovou, jak se ukazuje, dnes znají hardcore fanové, ale ti ostatní (mezi které bych se řadil já) tápou. I proto tahle neočekávaná recenze, která nakonec stejně nebude recenzí, jak se tak znám. </p>
 
 

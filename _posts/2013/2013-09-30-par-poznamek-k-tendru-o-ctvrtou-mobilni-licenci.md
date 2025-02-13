@@ -1,14 +1,21 @@
 ---
 ID: 2710
-title: 'Pár poznámek k&nbsp;tendru o&nbsp;čtvrtou mobilní licenci'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/par-poznamek-k-tendru-o-ctvrtou-mobilni-licenci
-published: true
+oldlink: 'https://www.marigold.cz/item/par-poznamek-k-tendru-o-ctvrtou-mobilni-licenci
+
+  '
 post_date: 2013-09-30 12:55:08
+post_excerpt: ''
+published: true
+summary_points:
+- PPF odstoupila z tendru kvůli podmínce zákazu fúze na 15 let.
+- Tomáš Budník koupil PPF Mobile, přejmenoval na Revolution Mobile a pokračuje v tendru.
+- Tasciane, anonymní firma, se účastní tendru, spekuluje se o jejím pozadí.
+- KKCG Karla Komárka se oficiálně přihlásilo k vlastnictví Tasciane.
+title: Pár poznámek k&nbsp;tendru o&nbsp;čtvrtou mobilní licenci
 ---
+
 <p>Jistě to na zpravodajských serverech rozeberou lépe. Tedy alespoň to zjevné. Ale možná pár ne zcela zjevných informací unikne, tak u těch se potastavím já. Jaké je mezidobí vývoje tendru o čtvrtou českou mobilní licenci a LTE frekvence?</p>
 
 

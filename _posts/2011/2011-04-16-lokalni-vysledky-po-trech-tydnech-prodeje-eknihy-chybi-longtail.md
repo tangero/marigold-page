@@ -1,15 +1,27 @@
 ---
 ID: 2381
-title: 'Lokální výsledky po&nbsp;třech týdnech prodeje eknihy: chybí longtail'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Knihy
+- eKnihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lokalni-vysledky-po-trech-tydnech-prodeje-eknihy-chybi-longtail
-published: true
+oldlink: 'https://www.marigold.cz/item/lokalni-vysledky-po-trech-tydnech-prodeje-eknihy-chybi-longtail
+
+  '
 post_date: 2011-04-16 20:06:09
-categories: [Knihy, eKnihy]
+post_excerpt: ''
+published: true
+summary_points:
+- Koncernová pětiletka prodala 228 ebooků, nejvíce přes Palmknihy (172) a Smashwords
+  (54).
+- Prodej ebooku silně koreluje s počtem zmínek a diskusí, negativní recenze neměly
+  vliv.
+- Ebookům chybí longtail, tedy dlouhodobá poptávka a podpora prodeje po uvedení.
+- Infrastruktura pro ebooky je nedostatečná, chybí recenze, žebříčky a propagace jako
+  u tištěných knih.
+title: 'Lokální výsledky po&nbsp;třech týdnech prodeje eknihy: chybí longtail'
 ---
+
 Ve čtvrtek se Koncernová pětiletka prodávala třetí týden a protože mě sklátila horečka, zbyl i čas podívat se na chvíli, jak se můj ebook prodává. 
 
 Statistika ke 14.4. je poměrně jednoduchá, celkem prodáno 228 ebooků, z toho 172 <a href="http://www.palmknihy.cz/web/kniha/koncernova-petiletka">přes Palmknihy</a>, dalších 54 <a href="https://www.smashwords.com/books/view/49134">přes Smashwords</a> a 2 mi zaplatil někdo přímo na účet. 

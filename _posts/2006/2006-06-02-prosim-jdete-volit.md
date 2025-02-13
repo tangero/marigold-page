@@ -1,14 +1,21 @@
 ---
 ID: 1979
-title: Prosím, jděte volit
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prosim-jdete-volit
-published: true
+oldlink: 'https://www.marigold.cz/item/prosim-jdete-volit
+
+  '
 post_date: 2006-06-02 14:26:26
+post_excerpt: ''
+published: true
+summary_points:
+- Factum prognózy naznačují možnou většinu KSČM a ČSSD ve sněmovně.
+- ČSSD prosazuje nedemokratické zákony a podporuje komunisty.
+- Nízká volební účast posiluje KSČM a ČSSD, zejména díky důchodcům.
+- Autor vyzývá k volbám a varuje před zahozením hlasu pro malé strany.
+title: Prosím, jděte volit
 ---
+
 <p><strong>Noname píše:</strong> Právě to začíná, možná nejdůležitější okamžik v dějinách samostatného Česka. Podle posledních předvolebních prognóz agentury Factum by komunisté s ČSSD mohli utvořit většinu 101 křesel v poslanecké sněmovně. Dlouho jsem ve Factumu pracoval a jejich práci dlouhodobě sleduji a musím vám bohužel říct, že za posledních 8 let, kdy se tyto výzkumy dělají se Factum v odhadu od skutečnosti nelišil o více než 2%. Kdo nechápe co znamená většina ČSSD s komunisty, pak je třeba připomenout rok 1948, viz. následující obrázek.</p>
 
 <p style="margin-left: -20px"><img src="/wp-content/uploads/cache/20060602-KSCSSD.jpg" alt="KSČSSD a je to tu zas" width="600" height="429" /></p>

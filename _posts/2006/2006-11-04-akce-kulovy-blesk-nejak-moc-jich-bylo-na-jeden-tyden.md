@@ -1,24 +1,71 @@
 ---
 ID: 2034
-title: 'Akce Kulový blesk &#8211; nějak moc jich bylo na jeden týden'
 author: Patrick Zandl
-post_excerpt: |
-  <texy><!--
-  Pak jsem si <a href="http://radekhulan.cz/item/kdyz-it-lama-komentuje-it">přečetl jedovatou slinu</a>, kterou po mne lžimagistr stříknul a z vřelého poděkování je obyčejné a studené povinné "Děkuji". Víc k tomu nelze čekat a Radek Hulán pro mne tímto také přestává být mysticky zvaným <i>"tím, jehož jméno se nevyslovuje"</i>, ale pouhopouhým <a href="http://llook.wz.cz/weblog/spot/radek-hulan-neni-magistr.php">lžimagistrem</a>. K jeho úrovni a (ne)morálce se to hodí mnohem více.  Rád bych také zdůraznil, že tento člověk je jediným člověkem, jehož komentáře jsou z Marigolda mazány. Důvod je jednoduchý, jeho komentáře jsou v naprosté většině případů půstým výmyslem, demagogií, tedy ne něčím, co by mělo někomu pomoci, ale naopak mu ublížit. A k ubližování přispívat nehodlám.
-  
-  Mám-li se ve zkratce vyjádřit k lžimagistrově zamořování ovzduší v poslední době, tak bych chtěl hlavně poznamenat, že Michala Illicha z Jyxo.cz považuji za morálního a fér člověka a jsem rád, že <a href="http://radekhulan.cz/item/trestni-oznameni-antihulan-a-michal-illich">lžimagistrově nátlaku neustoupil</a>. Stejně tak Arthura Denta (aka Martina Malého), jenž se <a href="http://antihulan.bloguje.cz">zřejmě záhy</a> má dozvědět stejný odsudek, jako Michal Illich.
-  
-  K poznámkám RH (čili lžimagistrovým) na moji osobu jen dodávám, že jsou vlastně pravdivé. Nedomnívám se, že něčemu rozumím, natož pak mobilním telefonům a telekomunikacím. Je pravda, že svoji <a href="http://www.ariga.cz">živnost</a> v tomto oboru jsem založil na tom, že jsem přečetl manuály k mobilním telefonům (a taky základnovým stanicím, sítím a technologiím). Na svoji obranu dodávám, že jsem ani nikdy nic jiného netvrdil a že je možná škoda, že to neudělal každý.
-  
-  A z této pozice prosím chápejte Marigolda a moji osobu v minulosti, dnes i v budoucnosti. Marigold je watsonovské zrcadlo vašeho sherlockovství. Jsme tu, abychom ostentativním mýlením se nechali zářit vaše myšlenky. Aby má neznalost a omyly vás téhož vyvarovali. Abyste všechno, co je tu napsáno a řečeno brali jako výzvu k zamyšlení, nikoliv jako dogma. <i>Jak říkám já: úkolem proroků není nemýlit se, ale inspirovat.   </i>
-  
-  Kulový blesk se také týká dosavadního poskytovatele webhostingu. Xhost byl prodán společnosti, jejíž jméno jsem si ani nestihl zapamatovat, předpokládám, že mi ho osvěží faktura. Xhost byl fajn především proto, že jsem ty lidi znal, sem tam to maličko spadlo, ale za ty peníze žádné drama a vždy spokojenost. Jen ta změna tak nějak nahrává přesunu na mečíka. A zde naposledy zasáhl Radek Hulán, když publikoval rok starý test špatně nastaveného Mac Mini s OS X používaným jako web server. Uklidnilo mne, že i zjevně špatně nastavený systém výkonnostně desetkrát přesahuje současné požadavky všech serverů, které bych stěhoval. Nevýhodou Xhost dnes je, že díky nejrůznějším přesunům a změnám se servery někdy zamyslí až moc. Tož přesun zřejmě bude, ale pravděpodobně ne letos, přeci jen je prioritnější práce. Kromě toho bude (a to možná letos) vyměněn i stávající přechodný design, jen co ho odladím. A samozřejmě i logo, co sem dal NoName. Tomu budiž dík za převod z Nucleusu na Wordpress. -->
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/akce-kulovy-blesk-nejak-moc-jich-bylo-na-jeden-tyden
-published: true
+oldlink: 'https://www.marigold.cz/item/akce-kulovy-blesk-nejak-moc-jich-bylo-na-jeden-tyden
+
+  '
 post_date: 2006-11-04 18:52:31
+post_excerpt: '<texy><!--
+
+  Pak jsem si <a href="http://radekhulan.cz/item/kdyz-it-lama-komentuje-it">přečetl
+  jedovatou slinu</a>, kterou po mne lžimagistr stříknul a z vřelého poděkování je
+  obyčejné a studené povinné "Děkuji". Víc k tomu nelze čekat a Radek Hulán pro mne
+  tímto také přestává být mysticky zvaným <i>"tím, jehož jméno se nevyslovuje"</i>,
+  ale pouhopouhým <a href="http://llook.wz.cz/weblog/spot/radek-hulan-neni-magistr.php">lžimagistrem</a>.
+  K jeho úrovni a (ne)morálce se to hodí mnohem více.  Rád bych také zdůraznil, že
+  tento člověk je jediným člověkem, jehož komentáře jsou z Marigolda mazány. Důvod
+  je jednoduchý, jeho komentáře jsou v naprosté většině případů půstým výmyslem, demagogií,
+  tedy ne něčím, co by mělo někomu pomoci, ale naopak mu ublížit. A k ubližování přispívat
+  nehodlám.
+
+
+  Mám-li se ve zkratce vyjádřit k lžimagistrově zamořování ovzduší v poslední době,
+  tak bych chtěl hlavně poznamenat, že Michala Illicha z Jyxo.cz považuji za morálního
+  a fér člověka a jsem rád, že <a href="http://radekhulan.cz/item/trestni-oznameni-antihulan-a-michal-illich">lžimagistrově
+  nátlaku neustoupil</a>. Stejně tak Arthura Denta (aka Martina Malého), jenž se <a
+  href="http://antihulan.bloguje.cz">zřejmě záhy</a> má dozvědět stejný odsudek, jako
+  Michal Illich.
+
+
+  K poznámkám RH (čili lžimagistrovým) na moji osobu jen dodávám, že jsou vlastně
+  pravdivé. Nedomnívám se, že něčemu rozumím, natož pak mobilním telefonům a telekomunikacím.
+  Je pravda, že svoji <a href="http://www.ariga.cz">živnost</a> v tomto oboru jsem
+  založil na tom, že jsem přečetl manuály k mobilním telefonům (a taky základnovým
+  stanicím, sítím a technologiím). Na svoji obranu dodávám, že jsem ani nikdy nic
+  jiného netvrdil a že je možná škoda, že to neudělal každý.
+
+
+  A z této pozice prosím chápejte Marigolda a moji osobu v minulosti, dnes i v budoucnosti.
+  Marigold je watsonovské zrcadlo vašeho sherlockovství. Jsme tu, abychom ostentativním
+  mýlením se nechali zářit vaše myšlenky. Aby má neznalost a omyly vás téhož vyvarovali.
+  Abyste všechno, co je tu napsáno a řečeno brali jako výzvu k zamyšlení, nikoliv
+  jako dogma. <i>Jak říkám já: úkolem proroků není nemýlit se, ale inspirovat.   </i>
+
+
+  Kulový blesk se také týká dosavadního poskytovatele webhostingu. Xhost byl prodán
+  společnosti, jejíž jméno jsem si ani nestihl zapamatovat, předpokládám, že mi ho
+  osvěží faktura. Xhost byl fajn především proto, že jsem ty lidi znal, sem tam to
+  maličko spadlo, ale za ty peníze žádné drama a vždy spokojenost. Jen ta změna tak
+  nějak nahrává přesunu na mečíka. A zde naposledy zasáhl Radek Hulán, když publikoval
+  rok starý test špatně nastaveného Mac Mini s OS X používaným jako web server. Uklidnilo
+  mne, že i zjevně špatně nastavený systém výkonnostně desetkrát přesahuje současné
+  požadavky všech serverů, které bych stěhoval. Nevýhodou Xhost dnes je, že díky nejrůznějším
+  přesunům a změnám se servery někdy zamyslí až moc. Tož přesun zřejmě bude, ale pravděpodobně
+  ne letos, přeci jen je prioritnější práce. Kromě toho bude (a to možná letos) vyměněn
+  i stávající přechodný design, jen co ho odladím. A samozřejmě i logo, co sem dal
+  NoName. Tomu budiž dík za převod z Nucleusu na Wordpress. -->
+
+  '
+published: true
+summary_points:
+- Blog Marigold přešel z Blog:CMS na Wordpress kvůli lepší ochraně proti spamu.
+- Wordpress filtruje spam efektivněji než Blog:CMS, který vyžadoval ruční zásahy.
+- Firma Global Inspiration se přestěhovala na novou adresu Římská 20 v Praze.
+- Firma řešila problémy s internetovým připojením a dodávkou gigabitového switche.
+title: Akce Kulový blesk &#8211; nějak moc jich bylo na jeden týden
 ---
+
 <texy>Kulový blesk se netýkal jen stěhování Marigolda z Blog:CMS na Wordpress. Rozlučkový článek jsem původně chtěl napsat já, nakonec jen napsal Noname a tak se připojím: děkuju autorům Nucleusu a jeho lokalizované kopie Blog:CMS. 
 
 Wordpress zatím funguje báječně. Dlužno říci, že někdy vloni jsem na dvojkovou verzi přešel u jiných serverů a je to něco naprosto jiného, než jedničková verze, ani komfortem, ani stabilitou se to nedá srovnat. A samozřejmě ani množstvím funkcí a komfortem jejich obsluhy. Ostatně, nepřehlednost starého systému z hlediska použitelnosti byl důležitý důvod, proč od něj jít pryč. 

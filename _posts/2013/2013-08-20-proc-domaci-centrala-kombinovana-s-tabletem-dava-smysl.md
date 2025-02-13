@@ -1,14 +1,21 @@
 ---
 ID: 2690
-title: 'Proč domácí centrála kombinovaná s&nbsp;tabletem dává smysl'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-domaci-centrala-kombinovana-s-tabletem-dava-smysl
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-domaci-centrala-kombinovana-s-tabletem-dava-smysl
+
+  '
 post_date: 2013-08-20 15:21:55
+post_excerpt: ''
+published: true
+summary_points:
+- Quel kombinuje tablet s domácí centrálou pro automatizaci a ovládání.
+- Domácí centrála řeší ovládání spotřebičů i bez internetového připojení.
+- Quel umožňuje ovládání spotřebičů i pro uživatele bez chytrých telefonů.
+- Quel integruje data z různých zdrojů pro chytřejší řízení domácnosti.
+title: Proč domácí centrála kombinovaná s&nbsp;tabletem dává smysl
 ---
+
 <p>Nedávno jsem tu psal, že chystáme v <a href="http://www.energomonitor.cz">energomonitoru</a> zařízení nazvané Quel. Půjde o tablet kombinovaný s domácí centrálou (opět z výroby Current Costu) a pár lidí se podivovalo, proč, když jeho funkci zastanou chytré telefony a skutečné tablety. Tak si říkám, že bych tok našich úvah mohl upřesnit a ozřejmit, proč považujeme takové řešení za vhodné.</p>
 
 

@@ -1,14 +1,22 @@
 ---
 ID: 2035
-title: 'Projekt Venice a&nbsp;peercasting'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/projekt-venice-a-peercasting
-published: true
+oldlink: 'https://www.marigold.cz/item/projekt-venice-a-peercasting
+
+  '
 post_date: 2006-11-05 20:38:10
+post_excerpt: ''
+published: true
+summary_points:
+- Projekt Venice Niklase Zennstroma a Januse Friise se zaměřuje na P2P distribuci
+  televizního vysílání.
+- Projekt Venice není technická novinka, ale marketingová a obchodní záležitost.
+- P2P video distribuce se masivně používá v Koreji, Japonsku a Číně.
+- BitTorrent má dnes největší podíl na přenosu legálního obsahu.
+title: Projekt Venice a&nbsp;peercasting
 ---
+
 <texy><a href="http://www.theveniceproject.com/">Projekt Venice</a>  je něco, co posledních několik měsíců podněcuje fantazii internetových entiziastů i analytiků. Projekt, který vzbuzuje emoce. Důvod je přitom jednoduchý: jeho zakladateli jsou Niklas Zennstrom a Janus Friis, hlavní protagonisté Skype. 
 
 O tom, co ve skutečnosti je <em>"The Venice Project"</em>, se ví jen velmi málo. V podstatě jen to málo, co bylo oficiálně oznámeno a tedy, že oba skajpisti si hrají s distribucí televizního vysílání za pomoci P2P sítí. 

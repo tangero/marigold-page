@@ -1,17 +1,27 @@
 ---
 ID: 2595
-title: >
-  Za prezidenta budu volit Táňu
-  Fischerovou
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Politika
+- Prezident
+- Volby
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/za-prezidenta-budu-volit-tanu-fischerovou
-published: true
+oldlink: 'https://www.marigold.cz/item/za-prezidenta-budu-volit-tanu-fischerovou
+
+  '
 post_date: 2013-01-07 14:23:21
-categories: [Politika, Prezident, Volby]
+post_excerpt: ''
+published: true
+summary_points:
+- Prezidentský post v ČR má spíše korekční a representativní roli.
+- Autor škrtal Zemana, Fischera a Schwarzenberga kvůli morálním pochybnostem.
+- Táňu Fischerovou autor volí pro její spravedlnost a morální zásady.
+- Autor preferuje "zahodit" hlas, než volit menší zlo ve druhém kole.
+title: 'Za prezidenta budu volit Táňu Fischerovou
+
+  '
 ---
+
 <p>Vysvětlit, proč někomu člověk chce dát hlas v nadcházejících prezidentských volbách, je úkol nevděčný. Na každý arugment se najde řada protiargumentů, tu špatných a smyšlených, tu jen nedomyšlených, někdy i pravdivých. </p>
 
 

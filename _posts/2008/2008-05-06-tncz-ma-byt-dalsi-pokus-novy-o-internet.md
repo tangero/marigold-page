@@ -1,15 +1,24 @@
 ---
 ID: 2232
-title: 'Tn.cz má být další pokus Novy o&nbsp;internet'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
+- Nova
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tncz-ma-byt-dalsi-pokus-novy-o-internet
-published: true
+oldlink: 'https://www.marigold.cz/item/tncz-ma-byt-dalsi-pokus-novy-o-internet
+
+  '
 post_date: 2008-05-06 06:47:08
-categories: [Média, Nova]
+post_excerpt: ''
+published: true
+summary_points:
+- Tn.cz je zpravodajský server s bulvárními prvky, videa jsou doplňková.
+- Tn.cz má neoriginální strukturu webu, přehlížečkováno a přerámečkováno.
+- Tn.cz používá Flash video s slušivou grafikou, ale nezkušeností s internetem.
+- Tn.cz dosáhl 11. místa v návštěvnosti díky masivní reklamní kampani.
+title: Tn.cz má být další pokus Novy o&nbsp;internet
 ---
+
 <i>Update o statistiky na konci.</i> TV Nova v případě internetu prokazuje excelentní bezradnost. Web Tn.cz má být dalším pokusem, jak toto změnit, protože tímto webem se má TV Nova stát trojkou českého internetu, alespoň ve vizích managementu. Portál odstartoval včera krátce po sedmé (oficiálně v 19:45) a trochu jsem si ho prolezl ze zájmu profesního a z důvodu validace svých tezí. 
 
 Tak především Tn.cz je charakterem zpravodajský server se silným příklonem k bulvárnímu pojetí zpravodajství, nikoliv nějakou internetovou televizí. Videa zde hrají silně podružnou roli, jsou spíše přívažkem a doplňkem. Typická stopáž je do dvaceti vteřin, zbytek videí se pohybuje do jedné minuty - to v případě, kdy tým redaktorů nastavoval nějaké podařené záběry. Příkladmo první dnešní zpráva:<a href="http://tn.nova.cz/zpravy/krimi/policejni-honicka-auto-nalezeno.html"> Policejní honička, auto nalezeno</a>. Je v ní video o stopáži 1:18, přičemž prvních šestnáct vteřin jsou autentické policejní záběry z "honičky" (pokud se tak dá říkat rychlému odbočení za roh), pak výpověď svědků (rozuměj děda, co sedí za stolem), pak zase úhrnem dvacet vteřin autentického záběru jak jede auto a někdo utíká, do toho různé prostřihy na "práci vyšetřovacího týmu". Vcelku řečeno nic, co byste museli vidět a co nestačí číst.

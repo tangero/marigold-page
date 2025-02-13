@@ -1,15 +1,24 @@
 ---
 ID: 2571
-title: Jak to bude jednou, až to bude tenkrát
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Společnost
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-to-bude-jednou-az-to-bude-tenkrat
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-to-bude-jednou-az-to-bude-tenkrat
+
+  '
 post_date: 2012-11-15 10:11:36
-categories: [Společnost]
+post_excerpt: ''
+published: true
+summary_points:
+- Čapek byl současníky vnímán spíše kriticky, než jak ho vnímáme dnes.
+- Budoucí generace budou soudit naši dobu podle skutků a činů, které zanecháme.
+- Měli bychom se chovat tak, abychom se nemuseli stydět za své chování.
+- Potomci uvidí naši dobu jako masu manipulovatelných lidí nebo jakými jsme chtěli
+  být.
+title: Jak to bude jednou, až to bude tenkrát
 ---
+
 Tu a tam mě zajímá, jak jednou budou naše časy vnímat lidé, kteří přijdou po nás. A zajímá mne to spíše více, než méně. Je to zajímavý základ pro uvažování o věcech takových, jaké jsou. Což se dobře řekne, ale špatně udělá a než se pokusím vysvětlit, proč to, pokusím se ukázat, kde a jak to. Nejdříve na našem vnímání minulosti.  
 
 Takový Karel Čapek. Dnes legenda, modla. Největší český literát, jehož jméno zná snad každý a které se propůjčuje i literárním cenám. Chápeme ho jako břiskného komentátora, morální autoritu, člena kruhu zasvěcenců kolem TGM, elitu národa po všechny věky věků amen. 

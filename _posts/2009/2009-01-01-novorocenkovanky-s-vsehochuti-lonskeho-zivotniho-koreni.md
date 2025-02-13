@@ -1,15 +1,26 @@
 ---
 ID: 2318
-title: 'Novoročenkovánky s&nbsp;všehochutí loňského životního koření'
 author: Patrick Zandl
-post_excerpt: "Z přání se nemá stát něco jako povinnost. A nechci, aby se stala. S většinou nevirtuálních přátel jsem si stihl popřát osobně, když hůře, pak telefonicky. Hromadná přání jsem nerozesílal, je mi to už delší dobu žinantní."
+categories:
+- Osobní
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/novorocenkovanky-s-vsehochuti-lonskeho-zivotniho-koreni
-published: true
+oldlink: 'https://www.marigold.cz/item/novorocenkovanky-s-vsehochuti-lonskeho-zivotniho-koreni
+
+  '
 post_date: 2009-01-01 11:18:01
-categories: [Osobní, Příběhy]
+post_excerpt: Z přání se nemá stát něco jako povinnost. A nechci, aby se stala. S
+  většinou nevirtuálních přátel jsem si stihl popřát osobně, když hůře, pak telefonicky.
+  Hromadná přání jsem nerozesílal, je mi to už delší dobu žinantní.
+published: true
+summary_points:
+- Autor preferuje osobní přání před hromadnými a PFkami.
+- Autor odešel ze Streamu kvůli častým změnám vedení.
+- Autor se stal šéfredaktorem Lupy kvůli zajímavé výzvě.
+- Autor omezil psaní na blogu kvůli práci na knize.
+title: Novoročenkovánky s&nbsp;všehochutí loňského životního koření
 ---
+
 Z přání se nemá stát něco jako povinnost. A nechci, aby se stala. S většinou nevirtuálních přátel jsem si stihl popřát osobně, když hůře, pak telefonicky. Hromadná přání jsem nerozesílal, je mi to už delší dobu žinantní. Ano, už i na internetu jsem ze staré školy - ale prostě si pořád naivně myslím, že pár osobních vět či slov potěší více, než průměrně zvládnuté následování tutorialu k Photoshopu, jež z mých mizerných fotek vykouzlí PFko. Snad jedna věc mne napadla, když jsem vloni (ano, už vloni) byl v PPF - jestli posílají PPFka nebo normální PFka. Musím se jich zeptat.  
 
 Takže tahle novoročenka začne sice obligátním přáním všeho nejlepšího do nového roku 2009, ale pokračovat bude už zcela nenovoročně. Pravda totiž je, že se mi na Marigolda v poslední době podařilo pořádně kašlat. Víc článků jsem napsal, když jsem byl v Číně. Nebyl to záměr a také to nebylo událostmi, i když těch bylo hodně. 

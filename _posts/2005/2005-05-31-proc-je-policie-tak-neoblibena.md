@@ -1,14 +1,21 @@
 ---
 ID: 1665
-title: Proč je policie tak neoblíbená
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-je-policie-tak-neoblibena
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-je-policie-tak-neoblibena
+
+  '
 post_date: 2005-05-31 19:37:43
+post_excerpt: ''
+published: true
+summary_points:
+- Policie je nepopulární, protože více buzeruje než pomáhá občanům.
+- Autorovi policie udělila pokutu za propadlou STK krátce po servisu.
+- Hasiči na rozdíl od policie často pomáhají a ne jen napomínají.
+- Autor vzpomíná jen na málo případů, kdy mu policie pomohla.
+title: Proč je policie tak neoblíbená
 ---
+
 <p>Zeptal se mne kamarád (policista), proč je podle mne policie u nás tak nepopulární. Slíbil jsem mu se nad tím zamyslet.</p>
 
 <p>Šinu si to tak v sobotu svojí čerstvě opravenou oktávkou po vídeňské a přemýšlím o tom. A najednou vidím policejní kontrolu. Automaticky dávám blinkr a přejíždím do vzdálenějšího pruhu, jenže příslušník už mne zaměřil, přebíhá silnici do levého pruhu a staví mne. Dávám mu doklady. Obchází moje auto, prověřuje ho v počítači. Za chvíli přichází jeho kolega a ptá se, jestlipak vím, kdy mi propadly emise a STK. Pravím, že netuším a on mi prozradí, že před třemi dny. Pravím Aha a dím, že to dám do pořádku a že auto jsem ráno vyzdvihl v servisu a že mi to tam taky mohli říct, když už inkasovali čtrnáct litrů.</p>

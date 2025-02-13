@@ -1,14 +1,21 @@
 ---
 ID: 2057
-title: 'Čtečky elektronických knih, ebook readery v&nbsp;roce 2007'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctecky-elektronickych-knih-ebook-readery-v-roce-2007
-published: true
+oldlink: 'https://www.marigold.cz/item/ctecky-elektronickych-knih-ebook-readery-v-roce-2007
+
+  '
 post_date: 2007-01-04 06:35:05
+post_excerpt: ''
+published: true
+summary_points:
+- E-knihy průlom nemají, trh je považován za mrtvý, ačkoliv autor je sleduje.
+- Autor má tisíce knih doma a paralelně buduje elektronickou knihovnu v PDF.
+- PDA jsou nouzové řešení pro čtení PDF, specializované čtečky s eInk jsou lepší.
+- Sony PRS-500 je slibná čtečka, ale dostupná jen v USA a s otazníky ohledně češtiny.
+title: Čtečky elektronických knih, ebook readery v&nbsp;roce 2007
 ---
+
 <texy>Pomalu každý rok to v oblasti elektronických knih vypadá na to, že už-už přijde průlom. Jenže pak to nějak vyšumí do ztracena a původně nadějný projekt se odpíská či posune. Jednou za čas si jdu osvěžit svůj přehled o oblasti elektronických knih, protože mne zajímá a považuju ji za perspektivní do budoucna, ale v současnosti za mrtvý trh. 
 
 Východisko mého zájmu je velmi triviální. Doma mám obsáhlou knihovnu čítající několik tisícovek svazků nejrůznější literatury. V posledních pěti letech jsem začal tvrdě budovat paralelní knihovnu elektronickou, ta dnes čítá tisícovku titulů z oblasti mého zájmu a zhruba 20 GB dat. Zpravidla v PDF formátu. 

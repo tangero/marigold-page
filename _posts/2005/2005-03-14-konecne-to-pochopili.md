@@ -1,14 +1,21 @@
 ---
 ID: 1578
-title: 'Konečně to pochopili&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/konecne-to-pochopili
-published: true
+oldlink: 'https://www.marigold.cz/item/konecne-to-pochopili
+
+  '
 post_date: 2005-03-14 18:37:31
+post_excerpt: ''
+published: true
+summary_points:
+- Opletalova ulice nabízí menu v neznámé hospůdce.
+- Autor textu vyjadřuje radost nad obsahem menu.
+- Obrázek ukazuje menu z hospůdky v Opletalově ulici.
+- Obrázek lze zvětšit pro lepší prohlédnutí.
+title: Konečně to pochopili&#8230;
 ---
+
 <p>Jdu si tak Opletalovou ulicí a co to nevidím jako menu v jedné hospůdce...</p>
 
 <p>Pochopili to. Jupííí :)

@@ -1,14 +1,21 @@
 ---
 ID: 1479
-title: 'Posnídal jsem s&nbsp;ředitelem GTS Milanem Rusnákem'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/posnidal-jsem-s-reditelem-gts-milanem-rusnakem
-published: true
+oldlink: 'https://www.marigold.cz/item/posnidal-jsem-s-reditelem-gts-milanem-rusnakem
+
+  '
 post_date: 2005-01-18 10:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- 'Rusnák: Čísla patří státu, který rozhoduje o jejich využití občany.'
+- 'Rusnák: Konvergence sítí je klíčová, rozdělení na pevné a mobilní sítě je umělé.'
+- 'Rusnák: Český telco trh potřebuje konsolidaci, aby se zlepšila konkurence.'
+- 'Rusnák: Mobilní internet je zbytečný, regulátor v ČR je pasivní.'
+title: Posnídal jsem s&nbsp;ředitelem GTS Milanem Rusnákem
 ---
+
 <p>Abych to upřesnil, nesnídal jsem s ním sám, natolik důvěrně se neznáme. Akci pořádalo Tuesday Business Network, přišlo cca třicet lidí. A podle mne to bylo zajímavé, musím na to chodit častěji. Přikládám přepis toho, co mne zaujalo (a co jsem přeložil při přepisu dočeštiny, protože ředitel GTS Czech a.s. Milan Rusnák hovořil slovensky). M. Rusnák je šéf největšího alternativního operátora a jeho názory a pohledy na trh mají rozhodně svoji váhu.</p>
 <DIV ALIGN=LEFT>-</DIV></p>
 

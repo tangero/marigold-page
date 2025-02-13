@@ -1,16 +1,23 @@
 ---
 ID: 1504
-title: >
-  Český VoIP poskytovatel Fayn je na
-  prodej
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-voip-poskytovatel-fayn-je-na-prodej
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-voip-poskytovatel-fayn-je-na-prodej
+
+  '
 post_date: 2005-01-31 16:56:17
+post_excerpt: ''
+published: true
+summary_points:
+- Fayn.cz s.r.o., poskytovatel internetové telefonie, je aktuálně na prodej.
+- Důvodem prodeje je změna struktury a snaha o zvýšení podnikatelské úspěšnosti.
+- Fayn potřebuje nového partnera pro finanční injekci a expanzi na trhu.
+- Technologii Faynu poskytuje slovenská firma Voipac, která je akcionářem.
+title: 'Český VoIP poskytovatel Fayn je na prodej
+
+  '
 ---
+
 <p>Společnost Fayn.cz s.r.o, poskytovatel
 stejnojmenné služby telefonování po internetu je na prodej. Podle D.
 Kirše ze společnosti Fayn <i>"společnost prochází změnou struktury,

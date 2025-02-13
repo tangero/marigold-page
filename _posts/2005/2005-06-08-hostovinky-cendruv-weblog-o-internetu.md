@@ -1,14 +1,21 @@
 ---
 ID: 1674
-title: 'Hostovinky &#8211; Cendrův weblog o&nbsp;internetu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hostovinky-cendruv-weblog-o-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/hostovinky-cendruv-weblog-o-internetu
+
+  '
 post_date: 2005-06-08 07:57:24
+post_excerpt: ''
+published: true
+summary_points:
+- Hostovinky.cz je blog Zdeňka Cendry o webhostingu a zajímavostech kolem něj.
+- Zdeněk Cendra začal podnikat mladý, což autor textu vnímá jako výhodu.
+- SuperHosting Zdeňka Cendry má moderní servery v datacentru, nikoliv vyřazené stroje.
+- Vreco využívá hosting SuperHosting, což svědčí o jeho kvalitě.
+title: Hostovinky &#8211; Cendrův weblog o&nbsp;internetu
 ---
+
 <p>Objevil jsem (via <a href="http://blog.air4web.com/cendra-jede.html" >Krutá realita</a>) veblog Zdeňka Cendry nazvaný <a href="http://www.hostovinky.cz">Hostovinky.cz</a>.
 Je věnovaný webhostingu a zajímavostem kolem něho, tedy něčemu, čemu se
 Cendra a jeho firma SuperHosting věnuje. Je to zajímavé počtení,

@@ -1,14 +1,24 @@
 ---
 ID: 1483
-title: 'Genesys a&nbsp;Microsoft společně vyvinou produkt pro internetovou telefonii a&nbsp;instant messaging'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/genesys-a-microsoft-spolecne-vyvinou-produkt-pro-internetovou-telefonii-a-instant-messaging
-published: true
+oldlink: 'https://www.marigold.cz/item/genesys-a-microsoft-spolecne-vyvinou-produkt-pro-internetovou-telefonii-a-instant-messaging
+
+  '
 post_date: 2005-01-19 09:27:43
+post_excerpt: ''
+published: true
+summary_points:
+- Genesys a Microsoft uzavřely strategickou dohodu o vývoji integrovaného řešení.
+- Genesys umožní uživatelům Istanbulu telefonovat přes počítač a zpřístupnit kontaktní
+  informace.
+- Řešení zjednoduší komunikaci zjišťováním dostupnosti kontaktů přes telefon nebo
+  internet.
+- Autor textu srovnává vyvíjené řešení se stávající aplikací Skype.
+title: Genesys a&nbsp;Microsoft společně vyvinou produkt pro internetovou telefonii
+  a&nbsp;instant messaging
 ---
+
 <p>Dostal jsem tiskovou zprávu: </p>
 
 <p>PRAHA, 19. ledna 2005 - Genesys Telecommunications Laboratories, dceřiná společnost koncernu Alcatel, podepsala strategickou dohodu s firmou Microsoft. Spojením sil s divizí Microsoft Real-Time Collaboration Group hodlá Genesys vyvinout integrované řešení pro uživatele aplikace „Istanbul&#8221;, komunikačního klienta nové generace společnosti Microsoft. Genesys uživatelům Istanbulu umožní zpřístupnit jejich kontaktní informace a provádět telefonní hovory prostřednictvím počítače.</p>

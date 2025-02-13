@@ -1,14 +1,21 @@
 ---
 ID: 1845
-title: Asus WL-700g Wireless Storage Router
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/asus-wl-700g-wireless-storage-router
-published: true
+oldlink: 'https://www.marigold.cz/item/asus-wl-700g-wireless-storage-router
+
+  '
 post_date: 2005-10-12 11:20:03
+post_excerpt: ''
+published: true
+summary_points:
+- Asus WL-700g je router s pozicí pro IDE disk a USB porty.
+- Afterburner technologie Broadcomu umožňuje teoretickou rychlost až 125 Mb/s.
+- Download Machine umožňuje stahování přes FTP, HTTP a P2P sítě bez PC.
+- Router podporuje WPA2, WMM, AES, má 4 LAN porty a Linuxový základ.
+title: Asus WL-700g Wireless Storage Router
 ---
+
 <p>Tenhleten nový router od Asusu mne zaujal. Model Asus WL-700g se honosí podtitulem Wireless Storage Router, což v tomto případě konkrétně obnáší jednu volnou pozici pro 3,5 palcový IDE disk, takže si router můžete rozšířit o souborový server. Pokud nechcete investovat do IDE disků, můžete přes trojici USB portů připojit USB 2.0 disky nebo tiskárny či kamery. </p>
 
 <p>Router je postavený na čipové sadě Broadcomu, takže podporuje technologii Afterburner, již po zralé úvaze zatím považuju za nejsmysluplnější nadstandardní zvyšování rychlosti. Ergo teoretický provoz až do 125 Mb/s.</p>

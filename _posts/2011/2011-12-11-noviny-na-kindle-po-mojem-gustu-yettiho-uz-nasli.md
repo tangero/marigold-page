@@ -1,15 +1,24 @@
 ---
 ID: 2404
-title: 'Noviny na Kindle po&nbsp;mojem gustu (yettiho už našli?)'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Amazon
+- Kindle
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/noviny-na-kindle-po-mojem-gustu-yettiho-uz-nasli
-published: true
+oldlink: 'https://www.marigold.cz/item/noviny-na-kindle-po-mojem-gustu-yettiho-uz-nasli
+
+  '
 post_date: 2011-12-11 22:29:39
-categories: [Amazon, Kindle]
+post_excerpt: ''
+published: true
+summary_points:
+- Respekt na Kindle zklamal nepřehledností oproti tištěné verzi, ale autor si zvykl.
+- Deník Insider posílá články nelegálně přes Personal dokumenty, což je riskantní.
+- iDnes na Kindle je dobrá bezplatná služba s SEO-ready titulky.
+- Literární noviny mají pochybný systém a limit velikosti vydání.
+title: Noviny na Kindle po&nbsp;mojem gustu (yettiho už našli?)
 ---
+
 <p>Na noviny jsem cimprdlich. Aby něco bylo po mojem gustu, to už musí být. Když začal fungovat Kindle a noviny na něm, horoval jsem za to, aby se noviny do Kindle přesouvaly, zejména proto, že v rámci informačního odšumění zpravodajství už prakticky nečtu (o tom by bylo zase někdy jindy na dlouho). Přijměte (či nepřijměte) pár postřehů...</p>
 
 

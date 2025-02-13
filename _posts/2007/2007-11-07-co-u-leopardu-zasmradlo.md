@@ -1,14 +1,21 @@
 ---
 ID: 2167
-title: 'Co u&nbsp;Leopardu zasmrádlo'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/co-u-leopardu-zasmradlo
-published: true
+oldlink: 'https://www.marigold.cz/item/co-u-leopardu-zasmradlo
+
+  '
 post_date: 2007-11-07 09:14:25
+post_excerpt: ''
+published: true
+summary_points:
+- Skype přestává fungovat v Leopardu s aktivovaným firewallem kvůli modifikaci aplikace.
+- System.log v Leopardu může narůst přes 250MB a způsobit zahlcení procesorem.
+- Apple testuje aktualizaci 10.5.1 pro Leopard, která by měla opravit chyby.
+- iPhone firmware 1.1.1 upgrade je snadný, ale další verze může telefony zablokovat.
+title: Co u&nbsp;Leopardu zasmrádlo
 ---
+
 Pár věcí, které se v Leopardovi nevydařily, se najde. 
 
 <h3>Skype problém</h3>

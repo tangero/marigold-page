@@ -1,16 +1,23 @@
 ---
 ID: 1901
-title: 'Zapomenutá osobnost: Jan Sokol z&nbsp;Lamberka'
 author: Patrick Zandl
-post_excerpt: ""
-layout: post
-oldlink: >
-  https://www.marigold.cz/item/zapomenuta-osobnost-jan-sokol-z-lamberka
-published: true
-post_date: 2005-12-19 22:57:29
 featured: true
+layout: post
+oldlink: 'https://www.marigold.cz/item/zapomenuta-osobnost-jan-sokol-z-lamberka
+
+  '
+post_date: 2005-12-19 22:57:29
+post_excerpt: ''
+published: true
+summary_points:
+- Jan Sokol z Lamberka, opomíjený hrdina, se narodil kolem roku 1355.
+- Sokol vojensky pomáhal králi Václavu IV proti Rožumberkům a Janu Žižkovi.
+- Roku 1410 Sokol vedl české vojsko v bitvě u Grunwaldu.
+- Sokolova role v Grunwaldu a jeho vliv na Žižku jsou nedoceněny.
 thumbnail: https://2.bp.blogspot.com/-gqMIU0WgEvg/V1_lHlWFPWI/AAAAAAACOkM/MkaRD3WQA-IWwk9OhEle9KZXClK1ThqpQCLcB/s1600/1.jpg
+title: 'Zapomenutá osobnost: Jan Sokol z&nbsp;Lamberka'
 ---
+
 <p>Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zněla něco jako "A proč právě Paroubka," rozhodl jsem se potvrdit svoji pověst cvoka a ihned jsem vypálil: "Jan Sokol z Lamberka". Na emailové lince bylo následující hodinku tichu, novinář zřejmě zoufale googloval, o koho jde. Na netu toho o Janu Sokolovi z Lamberka něco málo najdete, ale bez většího vlastního historického pozadí vám nedojde tak rychle, proč bych neváhal tohoto člověka zařadit mezi největší osobnosti českých dějin. </p>
 
 <p>Je to tak - ne snad, že by významem přímo převyšoval císaře Karla nebo TGM a další ikony české historie. Jenže já jsem vždy měl slabost pro hrdiny, kterým doba jejich význam a hrdinství upřela, nebo se na ně z jiného důvodu zapomnělo. A protože je čas vánoční a nehodí se, psát o práci, můžeme to Janu Sokolovi z Lamberka alespoň částečně touto poklonou vynahradit zapomnění.

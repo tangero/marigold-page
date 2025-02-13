@@ -1,14 +1,21 @@
 ---
 ID: 2933
-title: Mobilní operátoři prožrali peníze na rychlý mobilní internet
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-operatori-prozrali-penize-na-rychly-mobilni-internet
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-operatori-prozrali-penize-na-rychly-mobilni-internet
+
+  '
 post_date: 2014-07-27 09:56:22
+post_excerpt: ''
+published: true
+summary_points:
+- Operátoři projedli peníze na upgrade sítí na LTE v minulosti.
+- LTE je přirozený upgrade, operátoři na něj migrovat zkrátka musí.
+- O2 a T-Mobile se dohodli na sdílení LTE sítě.
+- ČTÚ nedefinuje kvalitativní kritéria LTE pro data.
+title: Mobilní operátoři prožrali peníze na rychlý mobilní internet
 ---
+
 <p>V Hospodářkách vyšel článek <a href="http://byznys.ihned.cz/zpravodajstvi-cesko/c1-62556680-mobilni-operatori-potrebuji-vybrat-penize-na-rychly-internet-priplatek-ma-byt-50-korun">Mobilní operátoři potřebují vybrat peníze na rychlý internet, příplatek má být 50 korun</a>, debatu stran vyznění článku jsme rozproudili na Twitteru, ala tam se zle vysvětlují obsáhlejší souvislosti. Takže to blognu. </p>
 
 

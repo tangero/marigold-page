@@ -1,14 +1,21 @@
 ---
 ID: 2033
-title: 'WiFi či&nbsp;5 GHz &#8211; bezdrátové připojení přehledně na mapě pokrytí'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-ci-5-ghz-bezdratove-pripojeni-prehledne-na-mape-pokryti
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-ci-5-ghz-bezdratove-pripojeni-prehledne-na-mape-pokryti
+
+  '
 post_date: 2006-11-03 19:51:07
+post_excerpt: ''
+published: true
+summary_points:
+- WIA WiFi nabízí denní připojení přes SMS a telefonování bez paušálu.
+- Internet WIA 5G poskytuje spolehlivé připojení v pásmu 5 GHz s rychlostí 3 Mb/s.
+- Obě služby WIA WiFi a 5G jsou mobilní a dostupné v pokrytých oblastech.
+- WIA hledá partnery pro rozšíření pokrytí sítě, nabízí spolupráci.
+title: WiFi či&nbsp;5 GHz &#8211; bezdrátové připojení přehledně na mapě pokrytí
 ---
+
 <texy>**Noname píše:**  musím se pochlubit svou prací, kterou jsem v poslední době dělal, omlouvám se předem za mírně reklamní charakter článku. Vytvářel jsem dva weby pro služby bezdrátového připojení k Internetu. První je obecně známá, ostatně je to asi jedna ze 3 nejpoužívanějších komerčních WiFi sítí v České Republice - "WIA WiFi":http://wifi.wia.cz.
 
 "[* http://f.im.cz/ftxt/000/184/898.jpg .(Internet WIA WiFi) >]":http://wifi.wia.cz WiFi služba zůstává na první pohled stejná, tj. rychlosti 768 kbit nebo 1536 kbit, s garancí minimální rychlosti a bez datových limitů. Co je u ní nového je možnost zaplatit si připojení na 1 den za jednu SMS (via Patrickův "Pipeline":http://www.pipeline.cz). A další fičura tam není nijak anoncována, ale nabízí jí prodejní a instalační partneři  - možnost "IP telefonování se SIPY":http://www.sipy.cz bez nutnosti platit za Internet - tj. vlastně **první služba pro telefonování zcela bez paušálu**.

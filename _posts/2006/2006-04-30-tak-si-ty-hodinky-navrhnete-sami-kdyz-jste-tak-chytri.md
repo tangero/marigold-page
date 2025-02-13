@@ -1,16 +1,23 @@
 ---
 ID: 1965
-title: >
-  Tak si ty hodinky navrhněte sami, když
-  jste tak chytří!
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-si-ty-hodinky-navrhnete-sami-kdyz-jste-tak-chytri
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-si-ty-hodinky-navrhnete-sami-kdyz-jste-tak-chytri
+
+  '
 post_date: 2006-04-30 22:51:07
+post_excerpt: ''
+published: true
+summary_points:
+- Seznam začal prodejem reklamy díky iniciativě Marka Zekiče v roce 1996.
+- Prim Chronomag vznikly návrhy nadšenců na Fóru Chronomagu v roce 2005.
+- Limitovaná edice Prim Chronomag měla 40 kusů s renovovanými strojky kalibr 66.
+- Hodinky Prim Chronomag nebyly běžně prodejné, pouze pro tvůrce a aukci.
+title: 'Tak si ty hodinky navrhněte sami, když jste tak chytří!
+
+  '
 ---
+
 <p>Tohle asi bude památná věta a podobnými větami, co se pamatuju, začínalo každé legendární dílo českého internetu. Pamětníci vědí. Takhle například Seznam přišel k prvnímu obchodnímu ředitelovi, když neznámý Marko Zekič napsal neznámému Ivo Lukačovičovi, že četl, že Seznam si vydělá peníze webdesignem a že by bylo lepší prodávat reklamu. Druhý zmíněný odepsal tomu prvně zmíněnému <i>"Tak si ji zkus prodávat sám, když jsi tak chytrý"</i> - a tak to začalo, to byl rok 1996. </p>
 
 <p>V našem případě větu z nadpisu odepsal obchodní ředitel <a href="http://www.prim.cz/">Primu</a> Jan Prokop v diskusi na <a href="http://forum.chronomag.cz">Fóru Chronomagu</a> někdy v září 2005 Odklízečovi. Odklízeč se navážel do Primu, že se mu nějak nezdá, že by primáci uměli navrhnout hezké hodinky. Kritiky a posměváčky nejlépe zaměstnat, řekl si boss české hodinářské firmy. Jenže posměváčkové se toho chytli. </p>

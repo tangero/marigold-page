@@ -1,14 +1,21 @@
 ---
 ID: 1998
-title: 'Vodafone zrušil 3G a&nbsp;přišel o&nbsp;zákazníka'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vodafone-zrusil-3g-a-prisel-o-zakaznika
-published: true
+oldlink: 'https://www.marigold.cz/item/vodafone-zrusil-3g-a-prisel-o-zakaznika
+
+  '
 post_date: 2006-08-03 09:50:48
+post_excerpt: ''
+published: true
+summary_points:
+- Autor strávil pět let u Oskara/Vodafone s průměrnou měsíční útratou 2000 Kč.
+- Vodafone zaostával v progresivních datových službách, což autora štvalo.
+- Eurotel nabídl stejné ceny jako Vodafone a navíc 3G data v Praze.
+- Autorovi Vodafone nenabídl zajímavou nabídku a proto přechází k Telefonica 02.
+title: Vodafone zrušil 3G a&nbsp;přišel o&nbsp;zákazníka
 ---
+
 <p>Jmenovitě o mne. Byl jsem u Oskara a později u Vodafone nějakých pět let s průměrnou útratou kolem dvou tisícovek měsíčně. Celou dobu jsem se ujišťoval, že ty ceny ospravedlňují to, že nedostanu ani pitomý dotovaný telefon levněji (Vodafone nebere v potaz vaši útratu, ale tarif, který jsem měl vždy nízký, protože používám hlavně SMS, roaming a data). Jestli mne něco štvalo, tak trvalé zaostávání Vodafone v progresivních službách, zejména v těch datech.</p>
 
 <p>Několikráte jsem měl tik přejít. Hlavně k Eurotelu, který nabízel přesně to, co jsem potřeboval – hlavně slušnou nabídku datových služeb. Až na maličkost – SMS za 2,8 Kč. To by můj účet zvýšilo o další minimálně tisícovku. Rozhodl jsem se vydržet do léta, kdy měl Vodafone ohlásit spuštění 3G. </p>

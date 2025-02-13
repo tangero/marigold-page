@@ -1,15 +1,24 @@
 ---
 ID: 2226
-title: 'Setkání TechCrunch proběhne v&nbsp;květnu v&nbsp;Praze'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Techcrunch
+- Startupy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/setkani-techcrunch-probehne-v-kvetnu-v-praze
-published: true
+oldlink: 'https://www.marigold.cz/item/setkani-techcrunch-probehne-v-kvetnu-v-praze
+
+  '
 post_date: 2008-04-25 06:34:37
-categories: [Techcrunch, Startupy]
+post_excerpt: ''
+published: true
+summary_points:
+- TechCrunch pořádá 23. května v Praze neformální setkání pro lidi z internetu.
+- Setkání TechCrunch nabízí možnost potkat lidi z mezinárodního internetového prostředí.
+- Vstup na setkání TechCrunch je zdarma a koná se v hospodě.
+- Místo konání setkání TechCrunch bude upřesněno, pravděpodobně Restaurace Zvonařka.
+title: Setkání TechCrunch proběhne v&nbsp;květnu v&nbsp;Praze
 ---
+
 Tohle je milý husarský kousek. Setkání lidí kolem internetu TechCrunch <a href="http://www.techcrunch.com/2008/04/24/crunchgeartechcrunch-meet-up-in-prague-may-23/">proběhně 23. května v Praze</a>. A to je věc, která stojí za pozornost, protože narozdíl od nejrůznějších konferencí, je tohle zcela neformální setkání, kde máte šanci přijít a potkat se s lidmi z "velkého internetu" na všech možných stranách oceánů (taky všech možných).
 
 Setkání TechCrunch pořádá stejnojmenný a velmi renomovaný blog TechCrunch založený  Michaelem Arringtonem v červnu 2005 (ano, Marigold je starší :). Přirovnání k Marigoldovi není tak od věci, píše se tam o spoustě zajímavých věcí kolem internetu a kdo umí anglicky a internet ho zajímá, tak tam alespoň jednou za čas zavítá. To je také důvod, proč setkání TechCrunche bývají zajímavá: prostě tam vždy narazíte na lidi, se kterými stojí za to si popovídat. A kromě toho se tam neplatí vstupné, je to prostě v nějaké hospůdce, tam vlezete a bavíte se s kým chcete. 

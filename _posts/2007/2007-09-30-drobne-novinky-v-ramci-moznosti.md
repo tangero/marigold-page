@@ -1,14 +1,21 @@
 ---
 ID: 2154
-title: 'Drobné novinky v&nbsp;rámci možností'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobne-novinky-v-ramci-moznosti
-published: true
+oldlink: 'https://www.marigold.cz/item/drobne-novinky-v-ramci-moznosti
+
+  '
 post_date: 2007-09-30 19:14:57
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold má upravený vzhled, blok přesunutý doleva a dvousloupcový design.
+- Seznam majetkově vstoupil do Stream.cz, obchod a marketing Streamu přechází na Seznam.
+- Seznam plánuje změnu vzhledu a loga Streamu, redesign připravil autor textu.
+- Daniel Landa bude mít na Streamu reality show "Peklo" s partou ztroskotanců.
+title: Drobné novinky v&nbsp;rámci možností
 ---
+
 První drobnou novinkou je vzhledová úprava Marigolda. Pravý blok, který byl na titulní stránce a graficky se nevyvedl, jsem přesunul doleva. Dvousloupcový design is back. Bohužel až dneska jsem si všiml, že úprava nedopadla dobře v MSIE, kde se druhý článek zarovnává až na konec menu, což je zjevně chyba. V čem, to budu muset ještě poštelovat. 
 
 <h3>Seznam a Stream</h3>

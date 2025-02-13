@@ -1,15 +1,23 @@
 ---
 ID: 2412
-title: 'Několik slov k&nbsp;výsledkům Nokia telefonů v&nbsp;roce 2012'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Nokia
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nekolik-slov-k-vysledkum-nokia-telefonu-v-roce-2012
-published: true
+oldlink: 'https://www.marigold.cz/item/nekolik-slov-k-vysledkum-nokia-telefonu-v-roce-2012
+
+  '
 post_date: 2012-04-11 19:56:02
-categories: [Nokia]
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia snížila výhled prodeje telefonů a služeb za první čtvrtletí 2012.
+- Prodeje chytrých telefonů Nokia dosáhly 12 milionů, z toho 2 miliony Lumia.
+- Lumia se prodávala mizerně kvůli situaci v Asii a nedospělosti WP7.
+- Elopova strategie selhala, Nokia ztratila trhy v Asii a WP7 zaostává.
+title: Několik slov k&nbsp;výsledkům Nokia telefonů v&nbsp;roce 2012
 ---
+
 Nokia publikovala dokument nazvaný "snížení výhledu prodaných telefonů a služeb za první čtvrtletí roku 2012", v němž připouští to, co se šušká a oficiálně popírá již delší dobu. Strategie obnovy prodeje chytrých telefonů Nokia zatím stále nefunguje. Takže pár komentářů k tomu. 
 
 Nokia tvrdí, že prodala za první čtvrletí letošního roku cca 12 milionů chytrých telefonů, z toho dva miliony jsou nové Lumia s Windows Phone 7. Průměrná prodejní cena (pro Nokii, ne v obchodě!) chytrého telefonu Nokia je 141  euro, pokud započteme i Lumie, pokud počítáme jen Lumie, tak 220 euro. 

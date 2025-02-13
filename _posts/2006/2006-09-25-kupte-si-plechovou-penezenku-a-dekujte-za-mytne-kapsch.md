@@ -1,14 +1,21 @@
 ---
 ID: 2012
-title: 'Kupte si plechovou peněženku a&nbsp;děkujte za mýtné Kapsch'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kupte-si-plechovou-penezenku-a-dekujte-za-mytne-kapsch
-published: true
+oldlink: 'https://www.marigold.cz/item/kupte-si-plechovou-penezenku-a-dekujte-za-mytne-kapsch
+
+  '
 post_date: 2006-09-25 12:12:50
+post_excerpt: ''
+published: true
+summary_points:
+- České dráhy plánují sledovat pohyb cestujících pomocí RFID čipů ve slevových kartách.
+- Policie by mohla mít zájem o data z RFID čipů, pokud systém ČD spustí.
+- Plechové peněženky stíní RFID čipy, což brání jejich skenování.
+- Mýtný systém s rámy je bezpečnější, než GPS, kvůli rušení a sledování.
+title: Kupte si plechovou peněženku a&nbsp;děkujte za mýtné Kapsch
 ---
+
 <p>S RFID čipy si ještě užijeme hodně legrace. Na slevové karty je budou cpát České Dráhy a hodlají s jejich využitím nejenom zjednodušit odbavení u pokladen, ale - a to je kontroverznější - také monitorovat pohyb cestujících. </p>
 
 <p>Co si pod monitoringem pohybu cestujících představit, netuším zcela. Články, které na to téma vyšly, přinášejí spíše spekulace, než konkrétní informace. Tvorba databází sledující pohyb držitele slevových ČD karet se ve článku doprovází slovy možná, umožňuje atd. </p>

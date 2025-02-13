@@ -1,17 +1,26 @@
 ---
 ID: 2522
-title: >
-  Naše Energomonitorovánky hledají
-  posilu, co rozumí Arduinu
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Energomonitor
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nase-energomonitorovanky-hledaji-posilu-co-rozumi-arduinu
-published: true
+oldlink: 'https://www.marigold.cz/item/nase-energomonitorovanky-hledaji-posilu-co-rozumi-arduinu
+
+  '
 post_date: 2012-09-19 10:06:09
-categories: [Energomonitor]
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor měří online spotřebu energie a radí, jak ušetřit.
+- Stovka instalací Energomonitoru ukázala úspory energií, o kterých lidé jen přemýšlejí.
+- Pro majitele domů, bazénů a firem je Energomonitor užitečný nástroj.
+- Připravují se nové verze Energomonitoru s malým a velkým displejem a průmyslové
+  aplikace.
+title: 'Naše Energomonitorovánky hledají posilu, co rozumí Arduinu
+
+  '
 ---
+
 <p>Když jsme před téměř rokem spouštěli zkušební verzi <a href="http://www.energomonitor.cz" target="_self" title="">Energomonitoru</a>, nevěděli jsme hodně věcí. Dnes jsme dál - hádáme se už spíš o to, jestli se má psát s malým (Pavel) nebo velkým (já) e.</p>
 
 

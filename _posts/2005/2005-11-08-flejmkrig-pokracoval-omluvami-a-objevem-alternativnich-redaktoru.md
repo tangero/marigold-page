@@ -1,14 +1,21 @@
 ---
 ID: 1866
-title: 'Flejmkríg pokračoval omluvami a&nbsp;objevem alternativních redaktorů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/flejmkrig-pokracoval-omluvami-a-objevem-alternativnich-redaktoru
-published: true
+oldlink: 'https://www.marigold.cz/item/flejmkrig-pokracoval-omluvami-a-objevem-alternativnich-redaktoru
+
+  '
 post_date: 2005-11-08 11:08:24
+post_excerpt: ''
+published: true
+summary_points:
+- Flamewar Blog:CMS a Texy se týkala dodržování licencí a autorských práv.
+- Radek Hulán obvinil Davida Grudla ze zkopírování Textile do Texy.
+- Článek obviňující Grudla napsal pseudonym 12phreak, ne Radek Hulán.
+- Notářské ověření webové stránky probíhá tiskem a orazítkováním, ne digitálně.
+title: Flejmkríg pokračoval omluvami a&nbsp;objevem alternativních redaktorů
 ---
+
 <p>Pokud jste neměli čas prokousávat se vývojem nejnovější flamewar mezi autorem Blog:CMS a autorem Texy ve věci dodržování licencí, tak máte jedinečnou příležitost vpravit se do závěrečných dějství a nebýt tak neznalostí odsunuti na periferii společnosti – už dost na tom, že nevíte, kdo je Vladko a odkud vypadla Wendy!</p>
 
 <p><a href="/item/rychtyg-tsechis-flejmkrig">Poslední díl Flejmkrígu jsme opustili</a> v momentě, kdy Radek Hulán ve svém článku obvinil Davida Grudla ze zkopírování Textile do Texy, což obecně diváci u svých přijímačů mohli chápat jako pomstu za D. Grudlův článek vytahující na světlo vymazané copyrighty ostatních autorů z Blog:CMS. </p>

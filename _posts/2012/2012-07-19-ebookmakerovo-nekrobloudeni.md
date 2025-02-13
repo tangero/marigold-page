@@ -1,15 +1,27 @@
 ---
 ID: 2456
-title: Ebookmakerovo nekrobloudění
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Knihy
+- eBooky
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ebookmakerovo-nekrobloudeni
-published: true
+oldlink: 'https://www.marigold.cz/item/ebookmakerovo-nekrobloudeni
+
+  '
 post_date: 2012-07-19 13:53:23
-categories: [Knihy, eBooky]
+post_excerpt: ''
+published: true
+summary_points:
+- Elektronická kniha má nejistou budoucnost, přestože se zdá, že čtečky řeší mnoho
+  problémů.
+- Tištěné knihy nebyly nahrazeny rozhlasem, televizí, teletextem ani disketami, vždy
+  vznikl nový žánr.
+- Nové technologie, jako iPad, nabízejí autorům interaktivitu, barvy, video a hudbu.
+- Nová generace autorů a vydavatelů preferuje elektronické knihy, což vede k rozštěpení
+  literatury.
+title: Ebookmakerovo nekrobloudění
 ---
+
 <p> O tom, jaká bude skutečná podoba elektronické knihy, si můžeme mnoho myslet, ti bystřejší z nás už ale pochopili, že nevíme prakticky nic dozajista. Veškeré inside či outside znalosti, o nichž si můžeme nakrásně myslet, jak hlubový (či z odstupu) vhled nám umožňují, nakonec poslouží snad jen k tomu, abychom byli schopni se rychle adaptovat na novou situaci, přijde-li a budeme-li schopni se vůbec adaptovat. </p>
 
 

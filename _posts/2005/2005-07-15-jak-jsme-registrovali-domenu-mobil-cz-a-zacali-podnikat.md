@@ -1,14 +1,21 @@
 ---
 ID: 1723
-title: 'Jak jsme registrovali doménu Mobil.cz a&nbsp;začali podnikat'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-jsme-registrovali-domenu-mobil-cz-a-zacali-podnikat
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-jsme-registrovali-domenu-mobil-cz-a-zacali-podnikat
+
+  '
 post_date: 2005-07-15 08:03:35
+post_excerpt: ''
+published: true
+summary_points:
+- NetForce umožnil trojici založit GSM server, ale vyžadoval vlastní doménu.
+- Registrace domény v roce 1996 byla složitá, doména musela odpovídat jménu firmy.
+- Mobil.cz doména byla získána přes firmu Mobil s.r.o., obcházením pravidel.
+- Mobil server s.r.o. vznikl kvůli problémům s RadioMobilem a ochraně domény.
+title: Jak jsme registrovali doménu Mobil.cz a&nbsp;začali podnikat
 ---
+
 <p>Když už se naše trojice usnesla, že budeme připojeni přes NetForce, zbývalo dořešit několik praktických problémů. Především jsme se museli nějak jmenovat. Dále jsme potřebovali mít svoji adresu a nakonec i svůj design. Pojmenování jsme chtěli spojit s adresou a tak jsme chtěli, aby naše stránky se jmenovali GSM server. Vznikla tedy adresa gsm.netforce.cz. Jenže to už se nám doména třetího stupně rozležela v hlavě, bylo nám jasné, že pokud nemáme být snadno vydíratelní, pokud si chceme udržet nezávislost na providerovi a vypadat seriosně, musíme se pokusit zaregistrovat doménu druhé úrovně. </p>
 
 <p>Jenže registrace domén neprobíhala v roce 1996 nijak jednoduše. Nad registrací domén bděl Jiří Orság jakožto fakticky neomezený pán a pravidla pro registraci domén nám nepřipadala příliš zřejmá. Jedno jsme ale pochopili – doménu si můžeme zaregistrovat jen jako firma a to ještě tak, že jméno domény musí odpovídat jménu firmy. Samozřejmě se daly dělat nejrůznější tlaky – například firma Ivo Lukačoviče se jmenovala Ivo Lukačovič – Seznam, ale doménu namísto ivolukacovicseznam.cz dostal jen seznam.cz. Aby také ne – seznam.cz nebyla v té době ani zdaleka tak lukrativní adresa, jako dnes. </p>

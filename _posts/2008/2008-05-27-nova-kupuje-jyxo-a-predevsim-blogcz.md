@@ -1,15 +1,25 @@
 ---
 ID: 2242
-title: 'Nova kupuje Jyxo a&nbsp;především Blog.cz'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Nova
+- Jyxo
+- Weblogy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nova-kupuje-jyxo-a-predevsim-blogcz
-published: true
+oldlink: 'https://www.marigold.cz/item/nova-kupuje-jyxo-a-predevsim-blogcz
+
+  '
 post_date: 2008-05-27 22:45:51
-categories: [Nova, Jyxo, Weblogy]
+post_excerpt: ''
+published: true
+summary_points:
+- David Grudl zpochybňuje čísla Blog.cz kvůli podezření na robotické generování obsahu.
+- CME koupila Jyxo (včetně Blog.cz) pro TV Nova za 163-200 milionů Kč.
+- Michal Illich z Jyxo posílí Novu v rozvoji internetových služeb.
+- Blog.cz s 2,5 miliony uživatelů je pro Novu strategická akvizice.
+title: Nova kupuje Jyxo a&nbsp;především Blog.cz
 ---
+
 <strong>Update:</strong> David Grudl o číslech Blog.cz pochybuje a poukazuje na robotické generování bložínků. Má k tomu pádné důvody a stojí to za promyšlení... <a href="http://www.latrine.cz/moc-divna-cisla-kolem-blog-cz">čtěte zde...</a>
  
 Malý dáreček pro své výsledky v Netauditu koupila mateřská CME pro TV Nova. Jedná se o společost Jyxo provozující především vyhledávací službu Jyxo.cz (návštěvnicky zajímavou málo) a dále Blog.cz, návštěvnicky zajímavý moc. Velmi moc. Šikovným součtem čísel se Nova se svými internetovými projekty vytáhne hned na třetí pozici (protože Centrum a Atlas již jedno jsou). Cena má být v rozmezí 163 - 200 milionů Kč podle dosažených výsledků. <a href="http://www.cetv-net.com/en/press-center/news/92.shtml">Tisková zpráva zde</a>. 

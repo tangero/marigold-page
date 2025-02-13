@@ -1,17 +1,27 @@
 ---
 ID: 2280
-title: >
-  Český Vodafone možná nabídne WiFi
-  síť
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Vodafone
+- WiFi
+- Mobilní sítě
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-vodafone-mozna-nabidne-wifi-sit
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-vodafone-mozna-nabidne-wifi-sit
+
+  '
 post_date: 2008-09-03 10:28:47
-categories: [Vodafone, WiFi, Mobilní sítě]
+post_excerpt: ''
+published: true
+summary_points:
+- Vodafone odkoupil BroadNet pro firemní FWA síť v pásmech 26 a 28 GHz.
+- Vodafone buduje WiFi síť s pomocí firmy Cuculus a uživatelů (Hotspot Host).
+- Hotspot Host získá DRIN-box pro oddělenou privátní a veřejnou WiFi síť.
+- Pokrytí Vodafone WiFi je zatím omezené, hlavně v Praze.
+title: 'Český Vodafone možná nabídne WiFi síť
+
+  '
 ---
+
 Český Vodafone je na tom s nabídkou vysokorychlostního připojení zatím poměrně špatně, pokud odmyslíme EDGE, nemá nefiremním klientům zatím mnoho co nabídnout. Na firemní scéně by měl situaci změnit dnes oznámený odkup BroadNetu, který provozuje FWA síť s plošným pokrytím v pásmu 26 a 28 GHz, tahle technologie ovšem není laciná tak, aby mohla pokrývat i nefiremní trhy - a vzhledem k frekvencím to zatím ani moc nevypadá. 
 
 Novinkou v nabídce Vodafone se zřejmě stane <a href="http://wifi.vodafone.cz">WiFi síť</a>, která se právě buduje a je v pilotním provozu. Slovíčkem "zřejmě" předesílám výhradu: s WiFi v minulosti Vodafone koketoval již několikrát, dokonce formou zvažovaných akvizic zavedených firem, vždy nakonec ale vycouval. Může se stát, že i tento poslední projekt tak dopadne, ačkoliv je poměrně daleko. 

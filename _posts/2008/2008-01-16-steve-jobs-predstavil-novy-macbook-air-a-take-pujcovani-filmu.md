@@ -1,15 +1,24 @@
 ---
 ID: 2192
-title: 'Steve Jobs představil nový MacBook Air a&nbsp;také půjčování filmů'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Apple
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/steve-jobs-predstavil-novy-macbook-air-a-take-pujcovani-filmu
-published: true
+oldlink: 'https://www.marigold.cz/item/steve-jobs-predstavil-novy-macbook-air-a-take-pujcovani-filmu
+
+  '
 post_date: 2008-01-16 08:12:02
-categories: [Apple]
+post_excerpt: ''
+published: true
+summary_points:
+- iTunes Movie Rental nabízí půjčování filmů od všech hlavních studií 30 dní po DVD.
+- MacBook Air je nejtenčí notebook světa s 13,3 palcovým displejem a váhou 1,3 kg.
+- iTunes Movie Rental umožňuje přehrávání půjčených filmů na Mac, Windows, iPod a
+  Apple TV.
+- MacBook Air má multitouch trackpad, podobný jako iPhone, pro zoomování a posouvání.
+title: Steve Jobs představil nový MacBook Air a&nbsp;také půjčování filmů
 ---
+
 Letošní hlavní projev Steva Jobse na americkém MacWorldu přinesl řádově čtyři novinky. Jedna z nich je zajímavá hlavně pro filmový průmysl a jako něco, co bude formovat strategii téhož, si ji rozebereme trochu víc. Nový notebook MacBook Air bude na český trh přeci jen velké sousto, soudím, ale pro mne osobně jde o něco, na co jsem čekal. Takže o tom už jen tak z osobního zájmu. 
 
 <h3>iTunes Movie Rental</h3>

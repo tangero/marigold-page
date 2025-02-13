@@ -1,15 +1,23 @@
 ---
 ID: 2624
-title: Prodávat nepojmenované
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Energomonitor
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prodavat-nepojmenovane
-published: true
+oldlink: 'https://www.marigold.cz/item/prodavat-nepojmenovane
+
+  '
 post_date: 2013-03-01 19:06:01
-categories: [Energomonitor]
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor řeší problém vysokých účtů za elektřinu, ne pouhé měření spotřeby.
+- PPC model prodeje je omezený, proto firma sází na vzdělávání a partnery.
+- Partneři jsou efektivnější než média, protože si provize více váží.
+- Firma hledá partnery mezi elektrikáři, například na veletrhu Amper.
+title: Prodávat nepojmenované
 ---
+
 <p>Jeden ze zajímavých momentů (tedy pro mne zajímavých) našeho rozjezdu <a href="http://www.energomonitor.cz">energomonitoru</a> je způsob prodeje. Když se řekne prodej, většina nezasvěcených pohrdavě namítne, že to je easy, že prostě někomu dáte zboží a on zaplatí. Už, když si ten děj rozepíšete na procesy (a já mám rád jasně definované procesy, protože minimalizují riziko chyb), tak tušíte, že tak easy to nebude. Už jen to "dodat zboží" nebo "zaplatí" má v sobě řadu "ale", které se liší tovar od tovaru, klient od klienta. Teď se zaměřme na problém samotné alokace zákazníka.</p>
 
 

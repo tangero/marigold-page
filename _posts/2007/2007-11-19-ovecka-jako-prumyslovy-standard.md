@@ -1,14 +1,21 @@
 ---
 ID: 2170
-title: Ovečka jako průmyslový standard
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ovecka-jako-prumyslovy-standard
-published: true
+oldlink: 'https://www.marigold.cz/item/ovecka-jako-prumyslovy-standard
+
+  '
 post_date: 2007-11-19 09:42:17
+post_excerpt: ''
+published: true
+summary_points:
+- Vodafone ovečky vzhledově připomínají postavy z animovaného seriálu Wallace a Gromit.
+- Wallace a Gromit je animovaná dvojka z modelíny, která je velmi oblíbená.
+- Článek doporučuje zhlédnout Wallace a Gromita a Slepičí úlet pro pobavení s dětmi.
+- 'Trailer k Wallace a Gromit: Prokletí králíkodlaka je vložen v článku.'
+title: Ovečka jako průmyslový standard
 ---
+
 Tak jsem nad tím přemýšlel, kde se vzaly <a href="http://www.vanocninadilka.cz/nabidka">ovečky Vodafone</a>, protože se mi tak nějak nechtělo věřit, že by tak hezkou ovečku vymyslela nějaká reklamka. A navíc mi ovečka byla povědomá. 
 
 Samozřejmě. <a href="http://www.wallaceandgromit.com/">Wallace a Gromit</a>, oblíbená to animovaný dvojka z modelíny. Porovnejte:

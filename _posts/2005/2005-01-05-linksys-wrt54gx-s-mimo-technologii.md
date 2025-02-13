@@ -1,14 +1,21 @@
 ---
 ID: 1466
-title: 'Linksys WRT54GX s&nbsp;MIMO technologií'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-wrt54gx-s-mimo-technologii
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-wrt54gx-s-mimo-technologii
+
+  '
 post_date: 2005-01-05 08:47:59
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys WRT54GX je WiFi router s MIMO technologií, kterou firma nazývá SRX.
+- MIMO využívá dvě 802.11g rádia pro trojnásobnou propustnost a dosah.
+- Router má čtyři ethernetové porty, WAN port a podporuje VPA, DHCP, SPI.
+- Dostupnost Linksys WRT54GX se očekává v únoru, cena zatím není známa.
+title: Linksys WRT54GX s&nbsp;MIMO technologií
 ---
+
 <p>Společnost Linksys představila svůj první produkt vybavený technologií vícenásobných antén MIMO. Jde o variantu populárního WiFi routeru nazvanou Linksys WRT54GX. Technologii MIMO firma překřtila na SRX - Speed and Range eXpansion. </p>
 
 

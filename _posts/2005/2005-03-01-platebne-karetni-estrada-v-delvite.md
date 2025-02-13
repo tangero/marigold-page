@@ -1,14 +1,21 @@
 ---
 ID: 1559
-title: 'Platebně karetní estráda v&nbsp;Delvitě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/platebne-karetni-estrada-v-delvite
-published: true
+oldlink: 'https://www.marigold.cz/item/platebne-karetni-estrada-v-delvite
+
+  '
 post_date: 2005-03-01 08:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor zažívá problémy s platbou kartou v Delvitě na Budějovické.
+- Platby kartou v ČR jsou pomalé a často selhávají.
+- eBanka zavedla povinné pomlčky v číslech bankovních účtů.
+- Platba kartou se používá jako zdržení při balení zboží.
+title: Platebně karetní estráda v&nbsp;Delvitě
 ---
+
 <p>Někdy přemýšlím nad tím, zda za to opravdu může jen komunismus, že v používání elektronických peněz a peněženek jsme sto let za opicemi (opravdu jsem viděl v mnichovské zoo opici s platební kartou, jen jsem si nevšiml, zda byla na její jméno - mají takové opice i v pražské Zoo?).</p>
 
 <p>Včera jsem nakupoval v Delvitě tady na Budějovické. Před sedmou, Delvita narvaná k prasknutí. Moje peněženka narvaná platebními kartami a bankovami euro, které jsem ještě nedal na účet po Cannes. Když došlo na placení, nabídl jsem svoji osobní kartu. Zaseklo se to. Jako vždy. Terminál byl nějak divně propojený s kasou, kasa se musela restartovat, aby mohl  naběhnout terminál, restart kasy může dělat jen přední pokladní, ta doběhla s vyplazeným jazykem a klíčkem na restart. Po pěti minutách konečně vylezl papírek, to už jsem chtěl platit eurem (to prý v Delvitě jde, nikdy jsem neměl odvahu to zkusit). Prchl jsem asi minutu před tím, než mne dvacetimetrová fronta za mnou lynčovala, za mnou hejno naštvaných lidí a někdo křičel, že si mám příště peníze vybrat z bankomatu. Pán o dvě místa za mnou tak šel pokorně učinit, aby ho nečekal stejný osud.</p>

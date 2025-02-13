@@ -1,14 +1,21 @@
 ---
 ID: 1579
-title: 'Podcasting a&nbsp;okouzlení iPodem i&nbsp;AllofMP3.com'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/podcasting-a-okouzleni-ipodem-i-allofmp3-com
-published: true
+oldlink: 'https://www.marigold.cz/item/podcasting-a-okouzleni-ipodem-i-allofmp3-com
+
+  '
 post_date: 2005-03-15 08:52:19
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa článek pojednává o podcastingu a jeho výhodách s iPodem.
+- iPod s velkou kapacitou umožňuje mít oblíbenou hudbu neustále s sebou.
+- AllOfMP3 nabízí levné MP3 a online poslech hudby, což autora okouzlilo.
+- Nízká cena hudby na AllOfMP3 vedla autora k masivnímu nákupu hudby.
+title: Podcasting a&nbsp;okouzlení iPodem i&nbsp;AllofMP3.com
 ---
+
 <p>Na Lupu jsem před týdnem napsal článek o podcastingu, dneska se na něj konečně <a href="http://www.lupa.cz/clanek.php3?show=4002">dostala řada a vyšel</a>. Podcasting je zajímavý způsob, jak dostat MP3 soubory na MP3 přehrávače a plně se tu ukazuje to, proč mimochodem mám tak rád iPoda. iPod je hezky promyšlený a provázaný systém, takže zatímco na jiný MP3 přehrávač si musíte MP3 z podcastingu nahrávat ručně, na iPod se vám synchronizují automaticky po připojení iPodu k počítači. Je podcasting nová vlna, která ostře zavaří všem aktivitám snažícím se protlačit MP3 do mobilů? Může tlačení MP3 skrze pomalé mobilní sítě konkurovat podcastu? Já nepodceňuji hybnou sílu mobilních operátorů a firem, na druhou stranu Apple má podobnou hybnou sílu a jestli někdo v Apple nepracuje na zaintegrování podcastu do jádra iTunes, ukousnu sluchátka svého iPodu :)</p>
 
 <p>O víkendu jsem si také řádně užíval druhé silné stránky svého iPodu (mám Mini se 4GB diskem). Kapacity. Uvědomil jsem si, že všechna svá CD, která mám rád, na něm mám (jestli jste větší riper, kupte si verzi se 40GB diskem, tam se vejde už ledasco. Když jdu po ulici, nemusím zasakrovat, že jsem si nenahrál Čechomor sebou. Mám ho. Přijde mi chuť na Verdiho nebo snad Kryla, Scorpions nebo Ramsteiny? Všechno mám sebou. Zatímco MP3 přehrávače se 128 MB paměti byly málo a nebavilo mne s nimi laborovat, s velkokapacitním iPodem není proč laborovat. Jednou nahrajete a pak používáte ...</p>

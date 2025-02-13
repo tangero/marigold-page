@@ -1,14 +1,21 @@
 ---
 ID: 1633
-title: 'Mobilní TV bude mít v&nbsp;roce 2010 přes 124 milionů uživatelů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-tv-bude-mit-v-roce-2010-pres-124-milionu-uzivatelu
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-tv-bude-mit-v-roce-2010-pres-124-milionu-uzivatelu
+
+  '
 post_date: 2005-05-03 08:47:14
+post_excerpt: ''
+published: true
+summary_points:
+- Informa předpovídá 124 milionů uživatelů mobilní televize v roce 2010.
+- DVB-H formát má dominovat mobilní televizi s 60% uživatelů dle Informy.
+- Autor článku pochybuje o masovém využití mobilní televize kvůli formátu vysílání.
+- Autor navrhuje stahování filmů přes HSDPA jako lepší koncept mobilní televize.
+title: Mobilní TV bude mít v&nbsp;roce 2010 přes 124 milionů uživatelů
 ---
+
 <p>Informa vydala věštbu, podle níž bude mít v roce 2010 mobilní televize přes 124 milionů uživatelů. Informa přitom očekává, že přes 60% uživatelů bude používat nový formát DVB-H, jen menšina uživatelů především v Koreji a Japonsku pak S-DMB nebo T-DBM, dohromady 33 milionů uživatelů s mírnou nadvládou terestrického příjmu T-DBM nad satelitním. Zatímco letos by se mělo prodat 131 tisíc telefonů vybavených pro příjem mobilní TV, v roce 2010 pak bude celkem 83,5 milionů telefonů s podporou mobilní TV. Studie vůbec nepočítá s televizí šířenou v CDMA/WCDMA sítí přes multimedia broadbast, což je zvláštní, ale budiž. </p>
 
 <div class="rightbox"><img src="http://www.marigold.cz/foto/albums/userpics/normal_P1000286.jpg" alt="Samsung a jeho T-DMB telefon"></div>	

@@ -1,14 +1,21 @@
 ---
 ID: 1945
-title: 'Obecní samoobsluha &#8211; mozkové cvičení'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/obecni-samoobsluha-mozkove-cviceni
-published: true
+oldlink: 'https://www.marigold.cz/item/obecni-samoobsluha-mozkove-cviceni
+
+  '
 post_date: 2006-03-14 11:11:25
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold, obec se 700 obyvateli, postrádá prodejnu potravin po krachu původní.
+- Starší obyvatelé Marigoldu mají potíže s nákupy kvůli vzdálenosti a dopravě.
+- Ztráta obchodu snižuje hodnotu pozemků a pouto obyvatel k obci Marigold.
+- Firmy v Marigoldu řeší stravování zaměstnanců, hospoda nestačí.
+title: Obecní samoobsluha &#8211; mozkové cvičení
 ---
+
 <p><strong>Noname píše:</strong> Jako takové odlehčení a zároveň velmi důležité procvičení při našem workshopu o obecním internetu mám pro vás jeden úkol: vyřešit problém obecní samoobsluhy:
 </p>
 

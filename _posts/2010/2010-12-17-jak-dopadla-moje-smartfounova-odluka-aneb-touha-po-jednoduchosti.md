@@ -1,15 +1,24 @@
 ---
 ID: 2369
-title: 'Jak dopadla moje smartfounová odluka (aneb touha po&nbsp;jednoduchosti)'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Digitální detox
+- iPhone
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-dopadla-moje-smartfounova-odluka-aneb-touha-po-jednoduchosti
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-dopadla-moje-smartfounova-odluka-aneb-touha-po-jednoduchosti
+
+  '
 post_date: 2010-12-17 14:01:42
-categories: [Digitální detox, iPhone]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor prodal svůj starý iPhone 2G za 2500 Kč přes Aukro.
+- Důvodem návratu k chytrému telefonu byly hlavně mapy a fotoaparát.
+- Nokia N8 vyhrála díky mapám, výdrži baterie a emailovému klientovi.
+- Autor preferuje funkční nástroj před moderními technologiemi a aplikacemi.
+title: Jak dopadla moje smartfounová odluka (aneb touha po&nbsp;jednoduchosti)
 ---
+
 Občas se mě na to někdo zeptá: jak dopadla moje smartphone odluka. Asi je na čase ji zhodnotit, protože tento týden došlo k životnímu kroku. Prodal jsem iPhone. Můj starý dobrý iPhone 2G, jeden z prvních, co šel z fabriky, šel z domu za pouhých 2500 Kč via Aukro. Pro mě to byl mezník, měl jsem jej od roku 2007 nebo kdy to přišel na trh a když jsem z něj mazal 7500 SMS, které jsem si z nějakého důvodu uchoval... viděl jsem, že si tím mažu kus historie (tak jsem je zálohoval).
 
 iPhone byl telefon, který jsem měl nejdelší dobu. Vyrovnal se dvěma legendám, Nokia 6110 a 6310, které jsem měl podobně dlouho, nezaslouženě se do tohoto peletonu prodrala Nokia 6680, která měla Symbian, 3G - byl to jeden z prvních slušných 3G telefonů u nás a kterou jsem měl hlavně proto, že jsem chtěl být při tom, až se 3G spustí. Abych o několik let později pochopil, že jsem opravdu poněkud napřed - a v klidu jsem ji vyměnil na pouhý EDGE iPhone. 

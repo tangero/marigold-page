@@ -1,16 +1,24 @@
 ---
 ID: 2024
-title: >
-  Proč Telecom (=O2) nemůže nikdy
-  nabídnout konkurenceschopnou službu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-telecom-o2-nemuze-nikdy-nabidnout-konkurenceschopnou-sluzbu
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-telecom-o2-nemuze-nikdy-nabidnout-konkurenceschopnou-sluzbu
+
+  '
 post_date: 2006-10-12 09:50:36
+post_excerpt: ''
+published: true
+summary_points:
+- Telecom nemůže nabídnout konkurenceschopné služby kvůli politice "nekanibalizace"
+  stávajících služeb.
+- Zpoždění ADSL způsobila obava Telecomu z ohrožení ISDN služeb.
+- O2TV málo zákazníků, protože Telecom nestíhá instalace a zákazníci ruší objednávky.
+- Telecom ztrácí trh, protože se vyhýbá vnitřní konkurenci a nemá plán.
+title: 'Proč Telecom (=O2) nemůže nikdy nabídnout konkurenceschopnou službu
+
+  '
 ---
+
 <p>Z pondělního Broadband monday jsem si přinesl hluboké poznání o tom, proč Telecom nemůže nikdy nabídnout konkurenceschopnou službu. Proč říkám Telecom, když se to dnes jmenuje O2? Protože části, který se kdysi jmenovala Eurotel,  se to zatím netýká. Snad. </p>
 
 <p>Miroslaw Smyk mluvil o O2TV a z jeho presentace to čouhalo každým coulem. Bavil jsem se po presentaci o tom i s dalšíma lidma a všichni si toho všimli, takže nešlo o podprahové sdělení. </p>

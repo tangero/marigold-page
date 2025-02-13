@@ -1,15 +1,24 @@
 ---
 ID: 2358
-title: 'Kolik tabletů Apple iPad mám doma a&nbsp;moc-li jsem s&nbsp;nimi spokojen'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Apple
+- iPad
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kolik-tabletu-apple-ipad-mam-doma-a-moc-li-jsem-s-nimi-spokojen
-published: true
+oldlink: 'https://www.marigold.cz/item/kolik-tabletu-apple-ipad-mam-doma-a-moc-li-jsem-s-nimi-spokojen
+
+  '
 post_date: 2010-06-06 21:23:44
-categories: [Apple, iPad]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor iPad nevlastní, protože jej považuje spíše za zařízení pro konzumaci obsahu.
+- Pro tvorbu obsahu autor preferuje netbook, který lépe vyhovuje jeho potřebám.
+- Autor zvažuje Linux pro netbook kvůli psaní, Skypu a webu, ale řeší ovladače.
+- Operační systémy pro netbooky se zlepšují, Windows jsou overkill, Linux je použitelný.
+title: Kolik tabletů Apple iPad mám doma a&nbsp;moc-li jsem s&nbsp;nimi spokojen
 ---
+
 <p>Je zajímavé sledovat, jak prakticky všichni IT lidé, kteří mne znají, automaticky předpokládají, že mám Apple iPad doma. A ptají se mne, jak jsem s ním spokojen a jak se mi s ním dělá. Odpovídám, že spokojen jsem moc a nedělá se mi s ním nijak, protože ho nemám. Cože to?</p>
 
 <p>iPada jsem v ruce měl a moje nadšení je podobné jiným nadšením z podobných produktů, kupříkladu před lety z iPhone. Jenže po delším uvažování jsem usoudil, že iPad není produkt pro mne. Důvodů je několik a pokusím se o ně s vámi podělit.</p>

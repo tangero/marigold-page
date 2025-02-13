@@ -1,15 +1,24 @@
 ---
 ID: 2261
-title: 'iPhone s&nbsp;firmware 2.0 je fajn, ale s&nbsp;update počkejte'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- iPhone
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/iphone-s-firmware-20-je-fajn-ale-s-update-pockejte
-published: true
+oldlink: 'https://www.marigold.cz/item/iphone-s-firmware-20-je-fajn-ale-s-update-pockejte
+
+  '
 post_date: 2008-07-22 08:02:31
-categories: [iPhone]
+post_excerpt: ''
+published: true
+summary_points:
+- Pwnage utilita umožnila upgrade a odemčení iPhonu na nový firmware 2.0.
+- Exchange a MobileMe synchronizace kalendáře a emailu funguje v iPhonu 2.0 skvěle.
+- Oficiální iPhone aplikace jsou dostupné, ale nákup komplikuje nekompatibilita iTunes
+  účtů.
+- iPhone 3G se v 38 zemích vyprodal, za první tři dny se prodalo přes milion kusů.
+title: iPhone s&nbsp;firmware 2.0 je fajn, ale s&nbsp;update počkejte
 ---
+
 O víkendu vyšla utilitka Pwnage určená k přechodu na nový firmware pro Apple iPhone a jeho odemčení. A tak jsem upgradoval na 2.0. Těšil jsem se a moje očekávání byla více méně naplněna. Ačkoliv přechod doporučuji, doporučuji také ještě pár dní počkat, až se vyladí drobné problémy, jako nemožnost pohodlně vypnout automatický opravovač psaní (<a href="http://www.petrmara.com/blogger/2008/07/iphone-20-vypnut-predikce-textu-ugly.html">zde nepohodlný postup</a>), u něhož původní postup vypnutí nefunguje. Návod pro upgrade firmware pro uživatele Mac <a href="http://www.petrmara.com/blogger/2008/07/iphone-firmware-20-na-starch-iphonech.html">sepsal Petr Mára</a> zde. 
 
 Z novinek, které se mi líbí: synchronní fungování u Exchange (zdarma Exchange schránku <a href="http://mail2web.com/">založíte zde</a>) nebo s <a href="http://www.me.com">MobileMe</a> - obojí funguje parádně, na telefon mi ihned dojdou jakékoliv úpravy kalendáře či emailu. 

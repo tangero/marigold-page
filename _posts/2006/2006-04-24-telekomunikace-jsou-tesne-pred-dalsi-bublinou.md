@@ -1,16 +1,23 @@
 ---
 ID: 1963
-title: >
-  Telekomunikace jsou těsně před
-  další bublinou
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telekomunikace-jsou-tesne-pred-dalsi-bublinou
-published: true
+oldlink: 'https://www.marigold.cz/item/telekomunikace-jsou-tesne-pred-dalsi-bublinou
+
+  '
 post_date: 2006-04-24 09:11:22
+post_excerpt: ''
+published: true
+summary_points:
+- Telco trh rostl do 2005 díky hlasu, SMS, roamingu a paketovým datům.
+- Nové mobilní služby jako obsah, hudba a videohovory zatím selhávají.
+- Operátoři investují do technologií, ale uživatelé z obsahu moc nemají.
+- Autor předpovídá prasknutí bubliny v mobilních telekomunikacích na jaře 2009.
+title: 'Telekomunikace jsou těsně před další bublinou
+
+  '
 ---
+
 <p>O víkendu jsem trochu pracoval s tabulkami výkonu telco ekonomik. Anžto je duben, už byly updatované o celoroční výsledky za rok 2005. Telekomunikace utěšeně rostou. Zachtělo se mi oslavně křičet, jak se máme dobře. Jenže pak jsem si ty statistiky prošel hlouběji. Ne podle firem, podle zemí. Ale strukturálně. Podle segmentů, příjmů a výdajů na technologie. Už to bylo mnohem méně povzbudivé čtení. Následuje výklad, proč si myslím, že nás do tří let postihne další obrovské zemětřesení v telekomunikačním sektoru. </p>
 
 <h4>Výdělečných technologií bylo málo...</h4>

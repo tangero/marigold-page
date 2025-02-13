@@ -1,15 +1,24 @@
 ---
 ID: 2287
-title: Tak vzhůru na cesty
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Čína
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-vzhuru-na-cesty
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-vzhuru-na-cesty
+
+  '
 post_date: 2008-10-09 08:50:24
-categories: [Čína, Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Vízum do Číny dorazilo den před neodložitelným odletem s Petrem.
+- Cesta do Číny zahrnuje veletrh elektroniky v Hong Kongu a Šenzen.
+- Autor plánuje nákup fotoaparátu Nikon D90 v Hong Kongu kvůli ceně.
+- Levnější volání z Číny zajistí VoIP číslo a místní SIM karta.
+title: Tak vzhůru na cesty
 ---
+
 Včera to konečně dopadlo. Dostali jsme vízum. Den před tím, na který máme koupené letenky, jež nelze přesunout na jiné datum a rezervované ubytování v oblasti, kde něco sehnat, je horor. 
 
 Rozhodli jsme se s Petrem, že si dáme změnu, odpočineme si od práce a vyrazíme do Číny. I když, jak sleduju náš itinerář, spíše než o odpočinku bych mluvil o změně. 

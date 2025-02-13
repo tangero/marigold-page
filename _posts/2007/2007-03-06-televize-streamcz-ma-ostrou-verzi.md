@@ -1,14 +1,21 @@
 ---
 ID: 2091
-title: Televize Stream.cz má ostrou verzi
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/televize-streamcz-ma-ostrou-verzi
-published: true
+oldlink: 'https://www.marigold.cz/item/televize-streamcz-ma-ostrou-verzi
+
+  '
 post_date: 2007-03-06 10:25:13
+post_excerpt: ''
+published: true
+summary_points:
+- Stream.cz spustil ostrou verzi s vylepšeným uploadem videí a RSS.
+- Hudební sekce Stream.cz nabízí 24 žánrových hudebních streamů ve Flash.
+- Upload videa na Stream.cz má nové kategorie a stovky uživatelských videí.
+- Stream.cz spustil reklamní kampaň v pražském metru na lince B.
+title: Televize Stream.cz má ostrou verzi
 ---
+
 Včera, po dvou úmorných měsících, odstartovala ostrá (gama :) ) verze <a href="http://www.stream.cz">Stream.cz</a>. Internetová televize tak došla své finálnější podoby v řadě funkcí, které jsme tu chtěli nasadit. 
 
 Rád bych tu zaznamenal to zajímavější. 

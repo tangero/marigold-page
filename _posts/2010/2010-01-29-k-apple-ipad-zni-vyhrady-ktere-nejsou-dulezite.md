@@ -1,17 +1,26 @@
 ---
 ID: 2341
-title: >
-  K Apple iPad zní výhrady, které
-  nejsou důležité
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Apple
+- iPad
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/k-apple-ipad-zni-vyhrady-ktere-nejsou-dulezite
-published: true
+oldlink: 'https://www.marigold.cz/item/k-apple-ipad-zni-vyhrady-ktere-nejsou-dulezite
+
+  '
 post_date: 2010-01-29 10:06:12
-categories: [Apple, iPad]
+post_excerpt: ''
+published: true
+summary_points:
+- iPadu chybí HDMI, USB, telefonování, multitasking, Flash a webkamera.
+- Autor se obává omezení aplikací třetích stran, zejména e-knih.
+- Podpora titulků, regionálních klávesnic a česká lokalizace jsou nejisté.
+- Autor vidí potenciál iPadu pro čtení, úpravy dokumentů a internet.
+title: 'K Apple iPad zní výhrady, které nejsou důležité
+
+  '
 ---
+
 Motto: <em>"I still can't believe this! All this hype for something so ridiculous! ... I want something new! I want them to think differently! Why oh why would they do this?! It's so wrong! It's so stupid!"</em> (komentáře k uvedení iPodu na trh v roce 2001)
 
 Apple uvedl svůj tablet iPad, přerostlý to iPhone. Pročítám si, co k němu má kdo za výhrady a konsternovaně sleduju, že zní výhrady nedůležité, ale ty podstatné nezazněly. 

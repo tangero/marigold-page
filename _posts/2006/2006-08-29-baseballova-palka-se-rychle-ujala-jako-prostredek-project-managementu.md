@@ -1,16 +1,24 @@
 ---
 ID: 2006
-title: >
-  Baseballová pálka se rychle ujala jako
-  prostředek project managementu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/baseballova-palka-se-rychle-ujala-jako-prostredek-project-managementu
-published: true
+oldlink: 'https://www.marigold.cz/item/baseballova-palka-se-rychle-ujala-jako-prostredek-project-managementu
+
+  '
 post_date: 2006-08-29 17:15:19
+post_excerpt: ''
+published: true
+summary_points:
+- Franciho příchod vedl k "de-digitalizaci" projektového plánování z OmniGraffle do
+  papírové podoby.
+- Projektová kancelář byla polepena výtisky projektů sladěnými barvami fixů a OmniGraffle.
+- Baseballová pálka slouží ke kontrole termínů a lepení papírů na zeď.
+- Gliffy je doporučena jako online nástroj pro sdílení návrhů GUI.
+title: 'Baseballová pálka se rychle ujala jako prostředek project managementu
+
+  '
 ---
+
 <p>Tahle fotografie dobře dokumentuje, jak se rychle vstřebávají ty nejlepší postupy do firemních procesů. Franci, náš minulý týden nastoupivší šéf vývoje moudře pravil, že sdílení informací o vývoji prostřednictvím mého Maca je poněkud složité, když on Maca nemá. Na zakoupení vlastního Maca přistoupit nechtěl a tak jsme se rozhodli k de-digitializačnímu kroku. Veškeré projektové plánování jsme zdublovali z OmniGraffle do paperwork. </p>
 
 <p>Kateřina nakoupila hromadu balícího papíru, ten jsme nalepili na zeď projektové kanceláře a začali jsme ji tapetovat výtisky částí projektů a projektových oken a stavů. Vreco prokázal kreativitu s barvičkami a pravil, že sladíme fixové popisky s barvičkami, které u jednotlivých stránek vygeneroval Mac v OmniGraffle. Super nápad, nakonec jsme našli i žlutou. </p>

@@ -1,16 +1,24 @@
 ---
 ID: 1588
-title: >
-  Proč si myslím, že ministr Mlynář
-  prospívá
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-si-myslim-ze-ministr-mlynar-prospiva
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-si-myslim-ze-ministr-mlynar-prospiva
+
+  '
 post_date: 2005-03-22 07:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor obdržel kritiku za chválu ministra Mlynáře v Lidovkách.
+- Mlynář má omezené pravomoci ohledně cen telekomunikací.
+- Digitalizace státní správy za Mlynáře pokročila, i když pomalu.
+- Mlynář prosadil CDMA u Eurotelu a dokoupení Eurotelu Telecomem.
+- Kauza Testcomu je dle autora spíše účelová než korupční.
+title: 'Proč si myslím, že ministr Mlynář prospívá
+
+  '
 ---
+
 <p>V souvislosti se svojí opovážlivostí pochválit ve svém článku v Lidovkách minulý týden ministra Mlynáře jsem dostal řadu emailů, v nichž mi většinou zcela neznámí lidé psali, že mne považovali za inteligentního člověka a co že jsem si tedy odvážil pochválit toho debila a defraudanta.  Jelikož si obojí nemyslím, rád bych osvětlil svůj názor, proč soudím, že Mlynář jako ministr informatiky spíše prospívá, než škodí a proč mu fandím v jeho práci <i>(i když moje fandovství – a to si řekněme na rovinu - je mu na houby)</i>. </p>
 
 <p>Především je potřeba udělat si jasno v pozici ministra menšinové koaliční strany. Ministr informatiky nemá žádnou pravomoc, jak ovlivnit nastavení cen za telekomunikační služby, protože většina telekomunikačních firem jsou soukromé subjekty a na ministra mohou z vysoka. Regulaci cen u Českého Telecomu provádí ministerstvo financí ve spolupráci s nezávislým regulátorem. Ministr informatiky nemůže zasahovat ani do práce ministerstva financí, ani do práce ČTÚ, protože ani jedno mu nepodléhá (šéfa ČTÚ jmenuje zástupce generálního ředitele státní služby). Byly tu sice jisté pokusy, aby telekomunikační politika více či úplně podléhala ministerstvu informatiky, kam logicky patří, jenže vzhledem k tomu, že jde plné koryto disponující rozsáhlou soustavou možných trafik pro přátele ČSSD, nikdy k tomu nedošlo. Z toho vyplývá, že ministr Mlynář nemá jinou možnost, jak se dohodnout na změně cen či služeb u ČTc, než běžný občan – zavolat a přesvědčovat. Což vzhledem k tomu, že současný management ČTc je placený od výnosu z privatizace, je dost k ničemu. Proto také kritizovat ministra informatiky za to, jaké ceny má Český Telecom, je spíše projevem nevědomosti  o tom, jak to tu funguje. Nižší ceny je třeba chtít u Sobotky… Ministr menšinové koaliční strany se také těžko může opírat o nějakou větší vyjednávací pravomoc - těžko může brečet u premiéra, že lidi třeba v Telecomu <i>(často právě premiérem dosazení trafikanti)</i> nedělají, co by ministr chtěl.</p>

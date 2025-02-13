@@ -1,15 +1,27 @@
 ---
 ID: 2191
-title: 'Oživení bezdrátových sítí: Sony TransferJet a&nbsp;There is something in the air'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Bezdrátové sítě
+- Bluetooth
+- Sony
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oziveni-bezdratovych-siti-sony-transferjet-a-there-is-something-in-the-air
-published: true
+oldlink: 'https://www.marigold.cz/item/oziveni-bezdratovych-siti-sony-transferjet-a-there-is-something-in-the-air
+
+  '
 post_date: 2008-01-14 20:18:20
-categories: [Bezdrátové sítě, Bluetooth, Sony]
+post_excerpt: ''
+published: true
+summary_points:
+- Sony představila TransferJet, NFC technologii pro rychlý bezdrátový přenos dat na
+  krátkou vzdálenost.
+- TransferJet vyžaduje fyzický kontakt zařízení (do 3 cm) s rychlostí až 560 Mb/s.
+- Apple láká na MacBookAir, spekuluje se o podpoře WiMaxu.
+- TransferJet má být komerčně dostupný v roce 2009, zatím není standardizován.
+title: 'Oživení bezdrátových sítí: Sony TransferJet a&nbsp;There is something in the
+  air'
 ---
+
 Minulý týden Sony představila na veletrhu CES2008 svoji novou technologii nazvanou TransferJet. Většina médií ji pasovala na konkurenta Bluetooth 3.0, ale tak jednoduché to zase není... Jak to tak vypadá, v dnes již poklidném bezdrátovém světě přijde v nejbližších letech trocha vzrušení. Nejdříve Sony a zítra možná přijde i kouzelník, protože na Mac Expo v SF už jsou k vidění plagáty Apple hlásající, že There is something in the air. Jenže co je to ten MacBookAir? Lepší vzduch pro naše jablíčka asi těžko. 
 
 <!--more-->

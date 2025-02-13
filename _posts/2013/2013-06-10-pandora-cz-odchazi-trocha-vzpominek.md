@@ -1,14 +1,24 @@
 ---
 ID: 2659
-title: 'Pandora.cz odchází. Trocha vzpomínek&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pandora-cz-odchazi-trocha-vzpominek
-published: true
+oldlink: 'https://www.marigold.cz/item/pandora-cz-odchazi-trocha-vzpominek
+
+  '
 post_date: 2013-06-10 08:57:34
+post_excerpt: ''
+published: true
+summary_points:
+- Pandora.cz, emailový diskusní server, končí v listopadu 2013 po dlouhém provozu
+  beze změn.
+- Server Pandora vznikl roku 1998 v Mobil serveru jako reakce na freemail boom.
+- Programátor Honza Fedák (Jack) vytvořil Pandoru, spuštěnou roku 1999, s počátečními
+  chybami.
+- Pandora generovala provoz Mobil serveru reklamou v emailech, ale další rozvoj nebyl
+  realizován.
+title: Pandora.cz odchází. Trocha vzpomínek&#8230;
 ---
+
 <p>Koncem listopadu 2013 naposledy vydechne jedna z nejdéle kontinuálně beze změn běžících služeb českého internetu - emailový diskusní server <a href="http://www.pandora.cz">Pandora.cz</a>. A protože jsem stál u jeho zrodu, přišlo mi vhodné si vzpomenout jeho začátků. </p>
 
 

@@ -1,14 +1,21 @@
 ---
 ID: 2696
-title: 'Proč říct NE Babišovskému ANO a&nbsp;připravit se na hubené čtvrtstoletí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-rict-ne-babisovskemu-ano-a-pripravit-se-na-hubene-ctvrtstoleti
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-rict-ne-babisovskemu-ano-a-pripravit-se-na-hubene-ctvrtstoleti
+
+  '
 post_date: 2013-09-05 08:43:28
+post_excerpt: ''
+published: true
+summary_points:
+- Babiš v testu autora propadl, nepředvedl nic nového, co by fungovalo.
+- Politická scéna je nemocná, protože lidé tolerují kšefty a zlodějiny.
+- Skutečná změna vyžaduje budování poptávky po zodpovědné politice zdola.
+- Volby nic nezmění, důležitá je práce na věcech kolem sebe.
+title: Proč říct NE Babišovskému ANO a&nbsp;připravit se na hubené čtvrtstoletí
 ---
+
 <p>Seděl jsem nedávno na takové diskusní akci s Andrejem Babišem. Vkusně, energicky ten pán z lidu vykládal o tom, jak vidí naši politiku, svět, ba i média. Souzněli jsme si v klidu ševelící klimatizace a já si říkal, že takovému člověku bych v klidu mohl hodit hlas.</p>
 
 <p>A tak mě napadlo se zeptat. Byla to jedna z otázek, u které záleží na všem ostatním, než na odpovědi, protože ta nikdy nemůže být správná. Zeptal jsem se, jak máme poznat, že on je ten, komu máme dát svůj hlas, když takových podnikatelských zachránců tady byla hromada a všechno špatně dopadlo, počínaje Václavem Fischerem přes Okamuru po Víta Bártu.</p>

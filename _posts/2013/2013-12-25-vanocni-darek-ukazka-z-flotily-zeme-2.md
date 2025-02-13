@@ -1,14 +1,21 @@
 ---
 ID: 2745
-title: 'Vánoční dárek: Ukázka z&nbsp;Flotily Země 2'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vanocni-darek-ukazka-z-flotily-zeme-2
-published: true
+oldlink: 'https://www.marigold.cz/item/vanocni-darek-ukazka-z-flotily-zeme-2
+
+  '
 post_date: 2013-12-25 20:31:23
+post_excerpt: ''
+published: true
+summary_points:
+- Autor nabízí dvě ukázky z připravovaného pokračování Flotily Země jako vánoční dárek.
+- Prolog knihy popisuje situaci dvacet let po bitvě u Barzy a nástup císařství.
+- Projekt Dron seznámí čtenáře s doktorem Petrusem a hejtmanem Stěpanaskem.
+- Flotila Země chce lodě bez posádky, řešením je nahrání mozku do kvantového počítače.
+title: 'Vánoční dárek: Ukázka z&nbsp;Flotily Země 2'
 ---
+
 <p>Mám pro vás malý vánoční dárek. Dvě ukázky z připravovaného pokračování Flotily Země (s nímž se budu patlat déle, než jsem si myslel). První ukázka je prolog, to pro lepší pochopení děje. A druhá je seznámení s novým hrdinou, tentokráte už nebudou tolik umírat, tenhle myslím ani nezemře (ale jistý si nejsem). Přijměte to prosím spolu s přáním příjemně prožitých svátků vánočních…</p>
 
 

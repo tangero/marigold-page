@@ -1,18 +1,28 @@
 ---
 ID: 2406
-title: >
-  Na naši odtažitost vůči Evropě si
-  vzpomeňme, až Evropa bude odtažitá
-  vůči nám
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- EU
+- Evropa
+- Politika
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/na-nasi-odtazitost-vuci-evrope-si-vzpomenme-az-evropa-bude-odtazita-vuci-nam
-published: true
+oldlink: 'https://www.marigold.cz/item/na-nasi-odtazitost-vuci-evrope-si-vzpomenme-az-evropa-bude-odtazita-vuci-nam
+
+  '
 post_date: 2011-12-15 14:34:57
-categories: [EU, Evropa, Politika]
+post_excerpt: ''
+published: true
+summary_points:
+- Československo vzniklo slepením nesourodých území bez národnostní jednoty.
+- Sudety, obývané Němci, byly trvalým problémem kvůli neochotě se integrovat.
+- Československo se v krizi 30. let izolovalo a odmítlo evropskou spolupráci.
+- Česko by mělo solidárně přispět k řešení evropských problémů a budovat kredit.
+title: 'Na naši odtažitost vůči Evropě si vzpomeňme, až Evropa bude odtažitá vůči
+  nám
+
+  '
 ---
+
 Poslední debata o záchraně Eura mi připomíná debaty, které se vedly už mnohokrát a které Čechy (Moravu a Země koruny) pasovaly mezi neužitečné blby Evropy. Na Twitteru jsem si v tomto smyslu posteskl, že máme na své chování vůči záchraně Eura pamatovat ve chvíli, až budeme prožívat nějaký náš Mnichov. Nešlo o doslovné srovnání, ačkoliv o jeho doslovnost se pár diskutujících na Twitteru opřelo. Mnichov nám nehrozí, Mnichov teď Evropě vracíme, komu jsme ublížili před Mnichovem... a tak dále. 
 
 Za Mnichov v Česku zvykujeme označovat cokoliv, kde se o rozhodne proti nám bez nás. Ale možná je také, přes oponu slz ublíženosti, vhodné připomenout, co tomu předcházelo. Když na sklonku první světové války vznikalo Československo, šlo vlastně o zázračně slepený politický útvar, který od doby pomyslného Bouga / Velké Moravy neměl obdoby. K Česku, Moravě, částem Slezska, Chebsku, Těšínsku, přibyly Horní Uhry, tedy vlastně Slovensko a část Podkarpatské Rusi, k níž byl přidán zbytek dnešního Slovenska a Podkarpatské Rusi. Státy, které spolu neměly nic společného kromě vědomí (hlavně jejich politických elit), že nechtějí žít ve státě, ve kterém žijí, dohromady to nějak půjde a ostatním to bylo doslova jedno vyjma Rakouska a Německa, kteří ovšem s tím mnoho nenadělali.

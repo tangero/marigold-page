@@ -1,14 +1,21 @@
 ---
 ID: 2175
-title: 'Integrace eBanky a&nbsp;Raiffeisen Banky nad chápání smrtelníka'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/integrace-ebanky-a-raiffeisen-banky-nad-chapani-smrtelnika
-published: true
+oldlink: 'https://www.marigold.cz/item/integrace-ebanky-a-raiffeisen-banky-nad-chapani-smrtelnika
+
+  '
 post_date: 2007-11-25 10:36:41
+post_excerpt: ''
+published: true
+summary_points:
+- Převod 900 000 Kč mezi RB a eBankou trvá jeden pracovní den.
+- Výběr hotovosti z eBanky stál kamaráda 1000 Kč.
+- Vklad hotovosti do RB byl zpoplatněn částkou 1350 Kč.
+- Celkem stála kamaráda "integrovaná" operace 2350 Kč.
+title: Integrace eBanky a&nbsp;Raiffeisen Banky nad chápání smrtelníka
 ---
+
 Integrace eBanky s Raifkou mělo být něčím, co přinese "benefity" všem zákazníkům, tvrdil vzletný newsspeak pressmluvkinů. Praktická zkušenost kamaráda mluví o něčem jiném. 
 
 Kamarád má dva firemní účty, jeden v RB, jeden v eBance, oba z historických důvodů, ještě před sloučením. A potřeboval z eBanky převést do RB částku 900 000 Kč. Potřeboval to provést tentýž den, protože ty peníze potřeboval mít ihned k dispozici, což mu přišlo v rámci skupiny jako snadno uskutečnitelné přání. 

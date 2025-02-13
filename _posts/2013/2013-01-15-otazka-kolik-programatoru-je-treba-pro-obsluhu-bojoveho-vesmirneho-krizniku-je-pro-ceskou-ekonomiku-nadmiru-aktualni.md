@@ -1,19 +1,27 @@
 ---
 ID: 2598
-title: >
-  Otázka, kolik programátorů je třeba
-  pro obsluhu bojového vesmírného
-  křižníku, je pro českou ekonomiku
-  nadmíru aktuální
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Vzdělávání
+- Ekonomika
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/otazka-kolik-programatoru-je-treba-pro-obsluhu-bojoveho-vesmirneho-krizniku-je-pro-ceskou-ekonomiku-nadmiru-aktualni
-published: true
+oldlink: 'https://www.marigold.cz/item/otazka-kolik-programatoru-je-treba-pro-obsluhu-bojoveho-vesmirneho-krizniku-je-pro-ceskou-ekonomiku-nadmiru-aktualni
+
+  '
 post_date: 2013-01-15 20:05:22
-categories: [Vzdělávání, Ekonomika]
+post_excerpt: ''
+published: true
+summary_points:
+- Kosmické lodi budoucnosti vyžadují programátory pro údržbu a opravy systémů.
+- Programování se stane běžnou dovedností, nahradí některé profese díky 3D tisku.
+- Budou existovat různé specializace programátorů, od rutinních po výzkumné.
+- České školství nepřipravuje děti na budoucnost, kde bude programování klíčové.
+title: 'Otázka, kolik programátorů je třeba pro obsluhu bojového vesmírného křižníku,
+  je pro českou ekonomiku nadmíru aktuální
+
+  '
 ---
+
 <p>Přemýšleli jste někdy o tom, kolik programátorů je potřeba pro obsluhu vesmírné bojové lodi? Pokud ne, je teď správná chvíle to napravit. A pokud netušíte, proč byste nad tím měli přemýšlet, tak je správná chvíle přemýšlet, proč byste vůbec měli přemýšlet, protože tahle otázka je nadmíru aktuální. Vysvětlím, proč.</p>
 
 

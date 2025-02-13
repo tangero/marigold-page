@@ -1,14 +1,21 @@
 ---
 ID: 2141
-title: Viděl jsem moderní umění
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/videl-jsem-moderni-umeni
-published: true
+oldlink: 'https://www.marigold.cz/item/videl-jsem-moderni-umeni
+
+  '
 post_date: 2007-08-28 09:16:18
+post_excerpt: ''
+published: true
+summary_points:
+- Autor navštívil Fresh Film Fest v Karlových Varech kvůli diskusnímu panelu.
+- Autor přiznává omezené znalosti moderního umění, preferuje starší epochy.
+- Performance s mužem a igelitkami Delvita autor nepochopil, záměr mu zůstal skryt.
+- Film "Mozartovo requiem" Petra Nikla autor kritizuje pro nedostatek myšlenky.
+title: Viděl jsem moderní umění
 ---
+
 V sobotu jsem dorazil na karlovarský <a href="http://www.freshfilmfest.net/">Fresh Film Fest</a>. Měl jsem se tu účastnit diskusního panelu o internetu a distribuci filmů.  A záměrně jsem doputoval o něco dříve, abych si poněkud rozšířil obzory v moderních trendech, fimech a umění. 
 
 Nesoudím o sobě, že bych byl příliš kulturní člověk. Přesněji řečeno mám epochy, které chápu, ale století začínající dvojkou to rozhodně nejsou. Mohu libovolně pokonverzovat o symbolice egyptské figurální malby ve Staré říši, srovnat ji s ptolemaiovským obdobím, když na to přijde, pak i antika mi něco říká, ulétávám si na gotice zejména s přihlédnutím ke katedrální výzdobě. Můžete se mnou chodit po svatovítské katedrále a budu vám ukazovat vtípky, jichž se dopustili místní umělci. Až někam k bitvě u Moháče bych řekl, že si vedu obstojně. Pak následuje  rychlý sešup, přičemž už mám jen matné povědomí o tom impresovi, co si nožem kuchal ucho a post/moderní umění mne míjí naprosto. Jak ve jménech, tak v chápání. A to i přes vytrvalé oblézání mnichovských pinakoték.

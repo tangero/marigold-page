@@ -1,15 +1,24 @@
 ---
 ID: 2395
-title: Konec Prahy aneb stěhování
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/konec-prahy-aneb-stehovani
-published: true
+oldlink: 'https://www.marigold.cz/item/konec-prahy-aneb-stehovani
+
+  '
 post_date: 2011-07-19 15:12:37
-categories: [Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor prožil v Praze osmnáct let, bydlel na kolejích i v různých typech bytů.
+- Pražský život s hlukem, špínou a korupcí autora omrzel, chce klidnější prostředí.
+- Rodina se rozhodla odstěhovat z Prahy do Brandýsa nad Labem kvůli lepšímu prostředí.
+- Původní volba Stará Boleslav byla zamítnuta kvůli špatné situaci způsobené opravou
+  mostu.
+title: Konec Prahy aneb stěhování
 ---
+
 V Praze jsem prožil, ať počítám jak počítám, nějakých osmnáct let. Což mi dnes přijde neuvěřitelné. Úplně poprvé jsme dorazili na VŠE se spolužákem Jiříkem zvaným Komarkinem, abychom zjistili, že se nedostaneme na kolej, protože nespadáme do kilometrového limitu. Namítli jsme, že kilometrový limit je pěkná věc, ale z našich vesniček prostě autobus k vlaku nejezdí, takže je tu drobný problém. Říkali jsme si, že takový rozumný argument bude stačit. 
 
 Stačil. Další dva týdny jsme spali ve stanu před VŠE. Týden si toho nikdo nevšímal, protože to vypadalo jako součást odborářské demonstrace (naproti je Dům odborových svazů), druhý týden nám vyšlo odvolání, protože na Jarovských kolejích nechtěl bydlet každý. My jsme na nich bydleli moc rádi. Byla tu nejvybranější společnost (dnešní spolumajitel banky, nakladatelství, fabriky na špendlíky, cestovatel, hlavoun národní banky, zneuznaný básník, uznaný filmař, nájemný pisálek a tak vůbec). Mimochodem, při stěhování jsem na recepci nechal Atari ST a už jsem si ho nestihl vyzdvihnout, jestli tam ještě leží, dejte mi echo, nostalgicky se mi po něm stýská. 

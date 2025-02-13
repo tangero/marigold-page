@@ -1,16 +1,23 @@
 ---
 ID: 1869
-title: >
-  Maličký výprodej techniky
-  (průběžný update, nyní 21 věcí)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/malicky-vyprodej-techniky-prubezny-update-nyni-21-veci
-published: true
+oldlink: 'https://www.marigold.cz/item/malicky-vyprodej-techniky-prubezny-update-nyni-21-veci
+
+  '
 post_date: 2005-11-20 08:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor likviduje starou techniku přes iKup a Aukro s vyvolávací cenou 1 Kč.
+- Nabízí ostatním, aby se připojili k výprodeji a poslali mu odkazy na aukce.
+- Prodává například Palm, telefonní číslo, anténu, router, mobil a další techniku.
+- Aukce trvají sedm dní a autor nabízí měsíční záruku vrácení peněz.
+title: 'Maličký výprodej techniky (průběžný update, nyní 21 věcí)
+
+  '
 ---
+
 <p>Začal jsem doma čistit šuplíky a Dita mne nutí, abych začal likvidovat poklady shromážděné v průběhu věků. Vyhodit je mi to líto, takže jsem to přidal na iKup s dražbou za symbolickou korunu, takže kdo byste měli zájem, můžete zkusit přihazovat, co to udělá a kde to skončí :) Je to lepší, než to vyhodit...</p>
 
 <p>

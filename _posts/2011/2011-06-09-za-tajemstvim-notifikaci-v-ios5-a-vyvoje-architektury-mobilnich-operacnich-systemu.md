@@ -1,15 +1,29 @@
 ---
 ID: 2391
-title: 'Za tajemstvím notifikací v&nbsp;iOS5 a&nbsp;vývoje architektury mobilních operačních systémů'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Apple
+- iPhone
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/za-tajemstvim-notifikaci-v-ios5-a-vyvoje-architektury-mobilnich-operacnich-systemu
-published: true
+oldlink: 'https://www.marigold.cz/item/za-tajemstvim-notifikaci-v-ios5-a-vyvoje-architektury-mobilnich-operacnich-systemu
+
+  '
 post_date: 2011-06-09 11:34:00
-categories: [Apple, iPhone]
+post_excerpt: ''
+published: true
+summary_points:
+- Apple řeší absentující dashboard notifikacemi v iOS5, které jsou trvale přítomné
+  na lock screenu.
+- iOS notifikace využívají backend servery pro zprostředkování zpráv z internetu,
+  na rozdíl od Androidu.
+- Notifikace spotřebovávají méně energie než dashboard, protože přijímají zprávy,
+  místo aby se dotazovaly.
+- Vývoj mobilních OS směřuje k závislosti na cloudu, Apple a Google slevují ze svých
+  původních pozic.
+title: Za tajemstvím notifikací v&nbsp;iOS5 a&nbsp;vývoje architektury mobilních operačních
+  systémů
 ---
+
 Je chvíle, tak se podívejme na to, jak Apple řeší šlamastiku s absentujícím dashboardem a co je nového v notifikacích na iOS5.
 Především, androidisti si zvykli mi podsouvat v komentářích, že jim cpu Apple jako jediné řešení. Nikoliv. Každý prosím, nechť si používá, čeho jest mu libo. Máme tu pět velkých mobilních operačních systémů (iOS, Android, WP/WM, RIM a Symbian), hromadu malých, takže snad si vybere každý. Já se jen snažím vysvětlit, proč zmíněná řešení použil Apple a co v nich vidím za positiva. To, že Apple nepovoluje všechno, co technologie umožňuje, je logická daň za požadavek, který na platformu má, co se výdrže a odezvy zařízení týká. A zdá se, že řada lidí to oceňuje, logicky ale ne všichni. Ti mohou sáhnout po jiném zařízení. Vysvětlit něco se znalostí pozadí není totéž, jako něco bezhlavě propagovat. Pokud to nechápte, jděte <a href="http://www.disney.com">prosím sem, tu vám bude dobře</a>.   
 

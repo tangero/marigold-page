@@ -1,17 +1,26 @@
 ---
 ID: 2215
-title: >
-  DVB-H doporučené, preferované,
-  standardizované, schválené, jediné?
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
+- Televize
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dvb-h-doporucene-preferovane-standardizovane-schvalene-jedine
-published: true
+oldlink: 'https://www.marigold.cz/item/dvb-h-doporucene-preferovane-standardizovane-schvalene-jedine
+
+  '
 post_date: 2008-03-20 10:27:00
-categories: [Média, Televize]
+post_excerpt: ''
+published: true
+summary_points:
+- Komise EU doporučila DVB-H standard pro mobilní televizi v členských státech.
+- Standardizace DVB-H má vytvořit jednotný trh mobilní televize v Evropě.
+- Evropa chce preferovat vlastní technologie a patenty, ne cizí.
+- EU se nezachovala férově v proklamované technologické neutralitě.
+title: 'DVB-H doporučené, preferované, standardizované, schválené, jediné?
+
+  '
 ---
+
 Bylo prima nechat si tuhle zprávu tři dny uležet, protože ve slovíčkách nebylo jasno. Ostatně, stále není. V zásadě je to tak, že Evropská komise se vyslovila v tom smyslu, že doporučeným technickým standardem pro mobilní televizi v zemích EU je DVB-H. Což některé, <a href="http://vucako.bloguje.cz/669726-es-schaun-aufs-dvb-h-voll-hoffnung-schon-millionen.php">jako Kamojeda,</a> přivedlo k výlevům nechutenství nad neuvážlivostí EU. 
 
 Nejprve o co jde. Evropská komise doplnila DVB-H na seznam standardů platných v EU. <a href="http://ec.europa.eu/ceskarepublika/press/press_releases/0808451b_cs.htm">Tisková zpráva a další info zde</a>. Což má dalekosáhlý dopad v tom smyslu, že nestandardizované technologie by se neměly používat (to zvratné zájmeno <em>se</em> je tam důležité, protože to neznamená, že nemohou vždy a nikdy), takže to otevřelo DVB-H cestu do eurounijního (=i našeho) etéru. DVB-H se tak v EU stává doporučené a preferované a napříště jsou "členské státy povinny podporovat používání DVB-H". Mírný problém vzniká ve výkladu, zda je možné podporovat jiné technologie, prootože "preference" v rámci EU není právně závazná a na rozdíl od "preference" v rámci Ruské federace nebo Číny nemá ani tu pachuť "dobrovolnosti". Totéž platí i "povinnosti podporovat" - tato povinnost má mít primární následek v tom, že se vymetou patřičná frekvenční spektra pro mobilní televizi a teprve v návaznosti na to se vítěž tendru rozhodne, co zde zprovozní. S ohledem na to, že patřičná frekvenční spektra respektují náležitosti DVB-H, nikoliv nutně jiných technologií, které by musel dodavatel přebastlit.  

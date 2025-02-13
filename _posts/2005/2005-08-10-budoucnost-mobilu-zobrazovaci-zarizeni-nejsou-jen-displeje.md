@@ -1,14 +1,21 @@
 ---
 ID: 1762
-title: 'Budoucnost mobilů: zobrazovací zařízení nejsou jen displeje'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/budoucnost-mobilu-zobrazovaci-zarizeni-nejsou-jen-displeje
-published: true
+oldlink: 'https://www.marigold.cz/item/budoucnost-mobilu-zobrazovaci-zarizeni-nejsou-jen-displeje
+
+  '
 post_date: 2005-08-10 08:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ahonen abstrahuje od technických detailů budoucího vývoje mobilních zařízení.
+- Displeje v brýlích (HMD) a virtuální retinální displeje (VRT) jsou potenciální řešení.
+- Eye-Up Display (EUD) kontaktní čočky jsou drahý prototyp pro armádu.
+- Free-Space Display a elektronický papír (e-paper) jsou další vyvíjené technologie.
+title: 'Budoucnost mobilů: zobrazovací zařízení nejsou jen displeje'
 ---
+
 <p>Tomi Ahonen se ve své predikci budoucnosti mobilů vůbec nezdržoval tím, že by se snažil objasnit, JAK konkrétně budou překonána současná omezení vstupně výstupních zařízení. Jistě, on jako analytik a s příspěvkem určeným spíše k zamyšlení a pobavení, než jasné narýsování cesty, si to může dovolit, ostatně může abstrahovat a může také předpokládat, že není podstatné JAK, ale ŽE si nějak poradíme. </p>
 
 <p>Jenže jak si poradíme? Omezení vstupně výstupních zařízení a napájení jsou dnes tím nejvíce limitujícím faktorem, ačkoliv od velikosti elektroniky v zrnku rýže jsme za komerčně přijatelných podmínek také daleko, ta je již ale myslitelná. </p>

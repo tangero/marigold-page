@@ -1,18 +1,26 @@
 ---
 ID: 2398
-title: >
-  Outbreak prozradil, proč se
-  Jägermeister pije na ledu. Snižuje to
-  jeho toxicitu.
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/outbreak-prozradil-proc-se-jagermeister-pije-na-ledu-snizuje-to-jeho-toxicitu
-published: true
+oldlink: 'https://www.marigold.cz/item/outbreak-prozradil-proc-se-jagermeister-pije-na-ledu-snizuje-to-jeho-toxicitu
+
+  '
 post_date: 2011-09-30 13:53:57
-categories: [Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Outbreak agentura se chlubí mediální manipulací s ledovou koulí pro Jägermeister.
+- Značky lží a mystifikací vnucují produkty, reagují na reklamní slepotu.
+- Jägermeisteru klesají prodeje kvůli toxicitě fermentovaných kostních hydrolyzátů.
+- Ledově namražený Jägermeister potlačuje chuť i toxicitu, propagován hlavně ve východní
+  Evropě.
+title: 'Outbreak prozradil, proč se Jägermeister pije na ledu. Snižuje to jeho toxicitu.
+
+  '
 ---
+
 Českými médii se nedávno prohnala tajemná ledová koule, která se našla u Milovic. Nakonec se z toho vyklubal zábor veřejného prostoru a mediální manipulace agentury Outbreak na nápoj Jägermeister. Kluci z Outbreaku už <a href="http://www.mediar.cz/jak-ledova-koule-z-milovic-pronikla-do-zprav-novy-i-primy-a-zpropagovala-jagermeister/">se veřejně stihli pochválit</a>, jak moc jim ta provokace a zpitomnění lidí vyšlo, jak skvěle ušetřili, když zabrali veřejný prostor, do něhož pronikli falešnou smyšlenou zprávou a mediální manipulací nutili lidi, aby se o “událost” zajímali. 
 
 

@@ -1,18 +1,32 @@
 ---
 ID: 2334
-title: >
-  Sociální média jsou největší vlnou
-  internetu, protože jsou změnou
-  generační
 author: Patrick Zandl
-post_excerpt: "Už půl roku mám v Lupě na starosti školení o sociálních médiích. Čtyři - pět hodinek mne někdo poslouchá, když vykládám o tom, jak fungují sociální média. Mám s tím určitou zkušenost, občas dělám správu *digital assets* pro německé a americké brandy, nedávno jsem to počítal a na spravovaných účtech mám hezké číslo fans. Přesto nebo právě proto si myslím, že sociálním sítím nerozumím. Ale považuju je za velikou vlnu pro internet. Zda i změnu, revoluci, tam už bych byl opatrnější. "
+categories:
+- Sociální sítě
+- Sociální média
+- Facebook
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/socialni-media-jsou-nejvetsi-vlnou-internetu-protoze-jsou-zmenou-generacni
-published: true
+oldlink: 'https://www.marigold.cz/item/socialni-media-jsou-nejvetsi-vlnou-internetu-protoze-jsou-zmenou-generacni
+
+  '
 post_date: 2009-11-06 12:53:11
-categories: [Sociální sítě, Sociální média, Facebook]
+post_excerpt: 'Už půl roku mám v Lupě na starosti školení o sociálních médiích. Čtyři
+  - pět hodinek mne někdo poslouchá, když vykládám o tom, jak fungují sociální média.
+  Mám s tím určitou zkušenost, občas dělám správu *digital assets* pro německé a americké
+  brandy, nedávno jsem to počítal a na spravovaných účtech mám hezké číslo fans. Přesto
+  nebo právě proto si myslím, že sociálním sítím nerozumím. Ale považuju je za velikou
+  vlnu pro internet. Zda i změnu, revoluci, tam už bych byl opatrnější. '
+published: true
+summary_points:
+- Blogy měly změnit novinařinu, ale ovládli je zkušení autoři.
+- Blogeři se profesionalizovali, zakládali firmy a sítě pro prodej inzerce.
+- V Česku málo blogerů prorazilo, trh je malý a psaní málo lukrativní.
+- Sociální média převzala autory blogů, vyjádření je kratší a rychlejší.
+title: 'Sociální média jsou největší vlnou internetu, protože jsou změnou generační
+
+  '
 ---
+
 Už půl roku mám v Lupě na starosti školení o sociálních médiích. Čtyři - pět hodinek mne někdo poslouchá, když vykládám o tom, jak fungují sociální média. Mám s tím určitou zkušenost, občas dělám správu "digital assets" pro německé a americké brandy, nedávno jsem to počítal a na spravovaných účtech mám hezké číslo fans. Přesto nebo právě proto si myslím, že sociálním sítím nerozumím. Ale považuju je za velikou vlnu pro internet. Zda i změnu, revoluci, tam už bych byl opatrnější. 
 
 Internet zatím projevil stejnou resistenci ke změnám, jako všechny jiné segmety lidského počínání: absorbci. Umí absorbovat nové podněty a vlivy, z nichž se místo revolucí stanou vlnky v moři. 

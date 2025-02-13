@@ -1,14 +1,21 @@
 ---
 ID: 2164
-title: 'Zběsilá jízda na Leopardu 1. &#8211; Začínáme s&nbsp;novinkami Mac OS X 10.5'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zbesila-jizda-na-leopardu-1-zaciname-s-novinkami-mac-os-x-105
-published: true
+oldlink: 'https://www.marigold.cz/item/zbesila-jizda-na-leopardu-1-zaciname-s-novinkami-mac-os-x-105
+
+  '
 post_date: 2007-11-04 10:01:04
+post_excerpt: ''
+published: true
+summary_points:
+- Leopard upgrade způsobil autorovi problémy kvůli nečekanému tvrdému restartu.
+- Finder v Leopardu lépe pracuje se síťovými disky díky oddělenému vláknu.
+- Quick Look umožňuje rychlý náhled souborů bez spouštění příslušných programů.
+- Spaces vytváří virtuální pracovní plochy pro lepší organizaci aplikací a oken.
+title: Zběsilá jízda na Leopardu 1. &#8211; Začínáme s&nbsp;novinkami Mac OS X 10.5
 ---
+
 Od teoretizování o verzích Mac OS přejděme k leopardí praxi. Dopředu předesílám, že účelem článku není ohromit majitele jiných operačních systémů a ani s nimi Leoparda srovnávat jinak, než v základních odlišnostech. Článek je určen zájemcům o Leoparda a očekávám, že ti se budou rekrutovat především z Mac uživatelů verze Tiger. <!--more-->
 
 <h3>Trochu o nervy to bylo vlastní blbostí</h3>

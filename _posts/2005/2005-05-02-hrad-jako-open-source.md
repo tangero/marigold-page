@@ -1,14 +1,21 @@
 ---
 ID: 1632
-title: Hrad jako open source
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hrad-jako-open-source
-published: true
+oldlink: 'https://www.marigold.cz/item/hrad-jako-open-source
+
+  '
 post_date: 2005-05-02 08:32:13
+post_excerpt: ''
+published: true
+summary_points:
+- Hrad Hauenštejn ztratil vojenský význam, ale je opravován.
+- Hrad Haunštejn je po konfiskaci využíván jako open source projekt.
+- Open source hradu znamená sdílení zdrojů a práce pro jeho obnovu.
+- Hradní akce nabízejí alternativu k nákupním centrům pro děti.
+title: Hrad jako open source
 ---
+
 <p>Stál jsem o víkendu v pokladně hradu, inkasoval jsem peníze a vydával na ruku hezké červené razítko s erbem a nápisem Návštěvník. A přitom jsem přemýšlel o tom, jak moc se vnímání hradů v průběhu staletí změnilo. Před pěti stoletími mocné zdi hauenštejnské chránily zemskou stezku a hrad měl hluboký ekonomicko strategický význam. Dnes už jeho vojensko-strategický význam značně upadl, přeci jen lze předpokládat, že byste jej dobyli i s pár tančíky, co teprve letadla. Proč tedy opravujeme a zachováváme hrady? Jako památku? Když se nechováme uctivě k památkám z druhé světové války, proč zrovna k hradům?</p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20050502-hradhaunestejn.jpg" alt="Horní hrad" width="350" height="262" /></div>Náš přístup k hradům je zvláštní. Opravujeme je, rekonstruujeme je, i když je obyvatelé opustili před desetiletími, staletími, po které hrady chátraly jako neužitečné stavby, nebo byly měněny v pivovary (a jak tvrdí T. Durdík, hradní pivovary byly vždy mizerné). Příběh Haunštejna (aka Horního hradu) je v tomto ukázkovým. Zkonfiskován šlechtě po druhé světové, od té doby používán jako dětský domov a když po čtyřiceti letech bez údržby začal dětem padat na hlavu, tak jako romantické rumiště. Na přelomu tisíciletí dostal soukromého majitele a ten začal poměrně důsledně uplatňovat přístup open source. </p>

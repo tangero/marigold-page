@@ -1,16 +1,24 @@
 ---
 ID: 2163
-title: >
-  Za update systému Apple se neplatí,
-  nenechte se balamutit
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/za-update-systemu-apple-se-neplati-nenechte-se-balamutit
-published: true
+oldlink: 'https://www.marigold.cz/item/za-update-systemu-apple-se-neplati-nenechte-se-balamutit
+
+  '
 post_date: 2007-11-03 11:14:20
+post_excerpt: ''
+published: true
+summary_points:
+- Mac OS X generace značí zásadní změny, verze mají kódová jména (např. Leopard).
+- Apple vydává zdarma aktualizace (update) systému, nové verze (např. Leopard) jsou
+  placené.
+- iLife a iWork jsou rozšiřující balíky softwaru, .Mac nabízí webhosting a synchronizaci.
+- Pages a Numbers z iWork nabízejí pokročilé funkce a estetické grafické zpracování.
+title: 'Za update systému Apple se neplatí, nenechte se balamutit
+
+  '
 ---
+
 Zběsilá jízda na Leopardu (aneb Mac OS X 10.5)
 
 Chvíli jsem čekal, jestli se někdo z českých zkušených uživatelů pusti do nějakého psaní o Leopardu, abych zbytečně nenosil dříví do lesa. Ale tu i onde nic. Takže mi dovolte pár dojmů, které budou (snad) následovat v samostatném článku.  

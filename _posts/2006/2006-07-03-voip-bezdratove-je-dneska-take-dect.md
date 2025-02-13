@@ -1,14 +1,21 @@
 ---
 ID: 1991
-title: VoIP bezdrátově je dneska také DECT
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/voip-bezdratove-je-dneska-take-dect
-published: true
+oldlink: 'https://www.marigold.cz/item/voip-bezdratove-je-dneska-take-dect
+
+  '
 post_date: 2006-07-03 11:36:56
+post_excerpt: ''
+published: true
+summary_points:
+- Autor zvažuje bezdrátový VoIP telefon pro domácí pohodlí.
+- WiFi VoIP telefony mají problémy se spolehlivostí při zatížení sítě.
+- DECT technologie nabízí spolehlivé a levné řešení pro VoIP telefony.
+- Na trhu existují kombinovaná DECT/VoIP zařízení od firem AVM, Hagenuk a Inventel.
+title: VoIP bezdrátově je dneska také DECT
 ---
+
 <p>Delší dobu přemýšlím o tom, že bych chtěl mít doma bezdrátový telefon napojený na VoIP. Asi nejsem sám, pro koho telefon znamená především utržené sluchátko a vylézat do pracovny, kde v současné době náš drátový VoIP telefon dlí, se mi nechce kvůli takové maličkosti, že chci zavolat do číny na rohu a objednat jídlo. Zavolám za pětkrát vyšší cenu z mobilu. Jenže pohodlně. </p>
 
 <p>Bezdrátových VoIP sluchátek je na trhu celá řada, s většinou z nich mám špatné zkušenosti. Pokud WiFi síť nemá žádný provoz, je to s nimi většinou v pohodě, ale uvažovat o nich jako o levném a pohodlném řešení zatím asi nelze. </p>

@@ -1,15 +1,23 @@
 ---
 ID: 2822
-title: 'Historie Nutella a&nbsp;náhražky náhražek'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/historie-nutella-a-nahrazky-nahrazek
-published: true
+oldlink: 'https://www.marigold.cz/item/historie-nutella-a-nahrazky-nahrazek
+
+  '
 post_date: 2011-11-03 11:21:32
-categories: [Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Nutella vznikla jako poválečná náhražka drahé čokolády, využívající levnější ořechy.
+- Umělý mramor v baroku byl luxusní náhražka, nabízející nové barvy a tvarovatelnost.
+- Instantní káva a umělé korkové zátky marketingem získaly status luxusní náhražky.
+- Budoucí generace mohou lamino považovat za kvalitní materiál, nikoliv náhražku.
+title: Historie Nutella a&nbsp;náhražky náhražek
 ---
+
 Miluju historii náhražek. Když tu byl před dvěma týdny otec a snídali jsme Nutellu, kterou jsem na jeho počest koupil a já četl nějaký její reklamní slogan, připomněl mi, že Nutella je vlastně náhražka. Proslavila se po válce, kdy ceny čokolády byly tak vysoké, že se vyplatilo nahradit čokoládové máslo máslem oříškovým a vytvořit pomazánku převážně z oříšků. Ořechy tak nahradily kakaové boby, ovšemže jen z větší části, jinak by to nebylo hnědé. Takže chuť ořechů byla dlouho chutí lacinou, jenže v poválečných letech se nedalo si moc vybírat. A tak si generace zvykly. Dneska je Nutella klasika na pokraji luxusu, náhražkou jsou nejrůznější krémy, kde ořechové máslo nahrazují ztužené řepkové či jaké tuky, takže sklenička stojí polovinu toho, co opravdová Nutella. Ta klasická, luxusní. 
 
 Tfujhotfujho, kam jsme to dopracovali, chtělo by se odplivnout moralistovi a škarohlídskému staříkovi mého ražení. Ale až si někdy vlezete do opravdového, nefalšovaného a echtovního barokního kostela (třeba ten svatého Mikuláše na Malé straně v Praze), všimněte si barevného mramoru, ze kterého bývá obklad stěn či sloupy. Je umělý. Nadrcený mramor s pryskyřicí a barvivem. Náhražka? Kdeže, znak luxusu. Umělý mramor byl dlouho dražší, protože bylo složitější ho vyrábět a mohl nabídnout barvy, jaký přírodní nabídnout nemohl. Nebojte, pokud jste do mramoru investovali, i přírodní neztratil na ceně, pořád je to slušná náhražka došků :)

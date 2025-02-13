@@ -1,15 +1,24 @@
 ---
 ID: 2302
-title: 'Kvalita a&nbsp;nekvalita čínské produkce'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Čína
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kvalita-a-nekvalita-cinske-produkce
-published: true
+oldlink: 'https://www.marigold.cz/item/kvalita-a-nekvalita-cinske-produkce
+
+  '
 post_date: 2008-10-27 05:08:31
-categories: [Čína, Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Čínská výroba závisí na tandemu výrobce a majitele značky pro návrh a prodej.
+- Kvalita čínských výrobků je definována výrobním postupem a kontrolami kvality.
+- Organizace práce, pásová výroba a kontroly ovlivňují cenu finálního výrobku.
+- Kvalitu výrobku kontrolují odběratelé, postupy se liší i ve stejné továrně.
+title: Kvalita a&nbsp;nekvalita čínské produkce
 ---
+
 <em>Čínský výrobek =  šmejd</em>, takovou rovnici máme už dlouho někde v podvědomí. Jenže výrobků z Číny je dnes na trhu převaha a často ani není alternativa. Navíc řada výrobků se dělá v jedné továrně, na stejné lince a přitom se prodávají za rozdílné ceny, pod jinými značkami. Je rozdíl jen v ceně? Jak se dělá kvalita v čínské fabrice? To byly také témata, o které jsme se při návštěvě čínských továren zajímali. 
 
 <!--more-->

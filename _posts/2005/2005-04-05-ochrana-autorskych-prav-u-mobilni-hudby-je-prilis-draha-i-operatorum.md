@@ -1,14 +1,21 @@
 ---
 ID: 1606
-title: 'Ochrana autorských práv u&nbsp;mobilní hudby je příliš drahá i&nbsp;operátorům'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ochrana-autorskych-prav-u-mobilni-hudby-je-prilis-draha-i-operatorum
-published: true
+oldlink: 'https://www.marigold.cz/item/ochrana-autorskych-prav-u-mobilni-hudby-je-prilis-draha-i-operatorum
+
+  '
 post_date: 2005-04-05 07:01:00
+post_excerpt: ''
+published: true
+summary_points:
+- DRM ochrana mobilní hudby je dle GSM Asociace příliš drahá.
+- OMA DRM 2.0 se nelíbí výrobcům telefonů ani mobilním operátorům.
+- Základní patenty DRM vlastní InterTrust, ContentGuard, Sony, Matsushita a Philips.
+- Operátoři a výrobci hrozí podporou nezabezpečených MP3 kvůli nákladům DRM.
+title: Ochrana autorských práv u&nbsp;mobilní hudby je příliš drahá i&nbsp;operátorům
 ---
+
 <p>Ochrana autorských práv u mobilní hudby formou digitální správy práv (DRM) je v posledním provedením, s nímž souhlasí i zástupci hudebního průmyslu, příliš drahá. Alespoň to zase namítají zástupci GSM Asociace.</p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20050405-oma_logo.gif" alt="OMA" width="193" height="55" /></div>Mobilní standard pro DRM vyvinula OMA, <a href="http://www.openmobilealliance.org/">Open Mobile Alliance</a>. Jenže cena za tuto ochranu se nelíbí ani výrobcům telefonů, ani operátorům mobilních sítí. Zatímco výrobce telefonu by jen za patentová práva na DRM zaplatil jeden dolar za mobilní telefon, mobilní operátor by za práva zaplatil další procento z každé prodané skladby, tedy z dnes běžné ceny 1 dolar za skladbu by operátor zaplatil jeden cent. Výrobci mobilů upozorňují, že při požadavku hudebního průmyslu vybavit ochranou hudby každý prodaný telefon umožňující stahovat a přehrávat hudbu, by tratili každoročně na poplatcích stovky milionů dolarů, přičemž ochrana hudby není pro uživatele žádný benefit. </p>

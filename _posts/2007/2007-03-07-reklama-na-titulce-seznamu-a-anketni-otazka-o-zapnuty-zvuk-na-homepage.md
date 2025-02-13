@@ -1,14 +1,21 @@
 ---
 ID: 2092
-title: 'Reklama na titulce Seznamu a&nbsp;anketní otázka o&nbsp;zapnutý zvuk na homepage'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/reklama-na-titulce-seznamu-a-anketni-otazka-o-zapnuty-zvuk-na-homepage
-published: true
+oldlink: 'https://www.marigold.cz/item/reklama-na-titulce-seznamu-a-anketni-otazka-o-zapnuty-zvuk-na-homepage
+
+  '
 post_date: 2007-03-07 09:29:01
+post_excerpt: ''
+published: true
+summary_points:
+- Reklama projektu běží offline (metro) i online (Seznam, Lidé).
+- Seznam a Lidé.cz využívají titulní stránky pro online reklamu projektu.
+- Stream.cz má videoreportáž o vítězství Seznamu ve fotbálku.
+- Stream.cz řeší dilema zapnutého/vypnutého zvuku na titulní stránce.
+title: Reklama na titulce Seznamu a&nbsp;anketní otázka o&nbsp;zapnutý zvuk na homepage
 ---
+
 Když reklama na internetový projekt, tak musí běžet jak offline, tak online. Aby se připomenula. Toliko naše přesvědčení. Takže polepené dveře metra, k tomu přibyla dneska online reklama těžkého kalibru: titulní stránka Seznamu a serveru Lidé:
 
 Reklama na Seznamu:<br/>

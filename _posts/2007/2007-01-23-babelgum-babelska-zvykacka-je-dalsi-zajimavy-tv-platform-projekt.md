@@ -1,14 +1,21 @@
 ---
 ID: 2064
-title: 'Babelgum &#8211; Bábelská žvýkačka je další zajímavý TV platform projekt'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/babelgum-babelska-zvykacka-je-dalsi-zajimavy-tv-platform-projekt
-published: true
+oldlink: 'https://www.marigold.cz/item/babelgum-babelska-zvykacka-je-dalsi-zajimavy-tv-platform-projekt
+
+  '
 post_date: 2007-01-23 09:12:42
+post_excerpt: ''
+published: true
+summary_points:
+- Babelgum konkuruje Joostu v P2PTV, nabízí použitelné betaverze softwaru.
+- Silvio Scaglia, zakladatel Fastwebu, založil Babelgum jako P2P platformu.
+- Babelgum slibuje tvůrcům obsahu platby za stažení videoklipů.
+- Google investoval do čínského Xunlei, další P2PTV platformy.
+title: Babelgum &#8211; Bábelská žvýkačka je další zajímavý TV platform projekt
 ---
+
 <texy>V poslední době je už potřeba rozlišovat, co který dobrodruh s internetovou televizí dělá, zda jen platformu pro její šíření, nebo samotný obsah, či obojí. 
 
 <img src="http://www.marigold.cz/wp-content/babelgum.jpg" width="152" height="106" alt="Babelgum" title="Babelgum" hspace="10" align="left" />

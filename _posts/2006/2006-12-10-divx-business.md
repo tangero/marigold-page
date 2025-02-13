@@ -1,14 +1,21 @@
 ---
 ID: 2049
-title: DivX business
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/divx-business
-published: true
+oldlink: 'https://www.marigold.cz/item/divx-business
+
+  '
 post_date: 2006-12-10 21:45:39
+post_excerpt: ''
+published: true
+summary_points:
+- DivX se transformuje z pirátského kodeku do seriózního video obchodu.
+- DivX nabízí levné licence pro DVD přehrávače s garantovanou kompatibilitou.
+- DivX generuje zisk z podpory video na vyžádání a přístupu k trhu.
+- DivX expanduje do mobilů s profily pro S60, UIQ, PocketPC a Palm.
+title: DivX business
 ---
+
 <texy>Je zajímavé, jak se člověku otevírají naprosto jiné souvislosti s tím, jak mírně změní úhel pohledu. Dříve jsem se díval na video z pohledu mobilu. Teď, když na mobily, tak z pohledu videa. A zaujal mne obchodní model DivX. 
 
 Že je to nějaký kodek, původně šlohnutý Microsoftu, následně naprosto celý přepracovaný, je asi obecně známo. Kromě toho je také synonymem pro pirátsky zkopírované filmy. Pro svoji kvalitu ne neprávem. Jenže ty časy jsou pryč. Pirátské filmy ovládá dneska XviD komprese, v podstatě analogická k DivXu, ale otevřená. DivX naproti tomu jde silně do seriosního video obchodu. 

@@ -1,14 +1,21 @@
 ---
 ID: 1949
-title: Ulítávám si na Wiki
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ulitavam-si-na-wiki
-published: true
+oldlink: 'https://www.marigold.cz/item/ulitavam-si-na-wiki
+
+  '
 post_date: 2006-03-18 15:13:49
+post_excerpt: ''
+published: true
+summary_points:
+- Ta-Da list widget je jednoduchý úkolovník s RSS podporou pro sledování úkolů.
+- Wiki aplikace, například WikiNotes a WikiPad, usnadňují tvorbu textů bez pevné struktury.
+- Autor testoval hostované (PbWiki) a instalované (DokuWiki) wiki pro různé projekty.
+- Síla wiki spočívá v okamžité editaci a možnosti spolupráce, ale vyžaduje řízení.
+title: Ulítávám si na Wiki
 ---
+
 <p>V poslední době jsem se dostal k několika zajímavým utilitkám, jimž jsem prakticky propadl. Tak především jsem si instaloval jako widget Ta-Da list, což je takový hezký a jednoduchý úkolovník. Funguje i webově, ale příjemným základem je právě ten widget. Widget je vůbec chytrá Mac vychytávka (nějak fungující prý i na Windows XP, ale to jsem nezkoušel). <a href="http://www.tadalist.com/">Ta-Da list</a> doporučím ještě z jednoho důvodu: funguje i přes RSS, takže všechny své úkoly můžete sledovat i ve čtečce. </p>
 
 <p>Díky Ta-Da listu jsem se dostal zhruba pod osm stovek rozpracovaných úkolů - sdružování úkolů do skupin přeci jen prokázalo službu. </p>

@@ -1,17 +1,25 @@
 ---
 ID: 2375
-title: >
-  Právě vyšla moje kniha Koncernová
-  pětiletka
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Knihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prave-vysla-moje-kniha-koncernova-petiletka
-published: true
+oldlink: 'https://www.marigold.cz/item/prave-vysla-moje-kniha-koncernova-petiletka
+
+  '
 post_date: 2011-03-23 16:22:23
-categories: [Knihy]
+post_excerpt: ''
+published: true
+summary_points:
+- Koncernová pětiletka vyšla jako e-kniha na Palmknihách za 79 Kč.
+- E-kniha je dostupná ve formátech epub, mobi, pdf a bez DRM ochrany.
+- Autor se snaží zjistit, jak funguje prodej e-knih v Česku.
+- Kniha byla dopsána a vydána s pomocí vydavatelství Bookanýr.
+title: 'Právě vyšla moje kniha Koncernová pětiletka
+
+  '
 ---
+
 Avizoval jsem, že chcu tento pokus učinit. A stalo se. Na Palmknihách právě vyšla moje "nová" <a href="https://www.goodreads.com/book/show/11502159-koncernov-p-tiletka">kniha Koncernová pětiletka.</a> Takže pár dat k ní: je to jen a výhradně ekniha, vychází v běžných formátech epub/mobi/pdf tak, abyste ji přečetli na všech běžných čtečkách jako iPad, Kindle, CyBook, mobilech a dalších zařízeních včetně PC. Ale doporučuju čtečku. Kniha stojí 79 Kč (s DPH) a to je zhruba ten hlavní důvod, proč vychází i jako ekniha. V papírové verzi by se pohybovala někde mezi 150-200 Kč na obchodě. A co je na tom nejlepší? Kniha je bez DRM, tedy bez softwarové ochrany. Můžete si ji stáhnout ve všech zmíněných formátech a pouštět, kde je vám libo, pro přiměřenou osobní potřebu. 
 
 !(/assets/obalka-knihy-koncernova-petiletka.png)

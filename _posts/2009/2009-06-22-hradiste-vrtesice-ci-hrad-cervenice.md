@@ -1,15 +1,26 @@
 ---
 ID: 2329
-title: 'Hradiště Vrtěšice či&nbsp;hrad Červenice'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Hrady
+- Historie
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hradiste-vrtesice-ci-hrad-cervenice
-published: true
+oldlink: 'https://www.marigold.cz/item/hradiste-vrtesice-ci-hrad-cervenice
+
+  '
 post_date: 2009-06-22 15:32:30
-categories: [Hrady, Historie]
+post_excerpt: ''
+published: true
+summary_points:
+- Vrtěšice lokalizovány na rozhraní čáslavska a havlíčkobrodska, možná souvislost
+  s Libickou stezkou.
+- Lokalita Vrtěšice uváděna jako hradiště, ale spíše se jedná o zaniklý hrad Červenice.
+- Zničení lokality Vrtěšice způsobil lom, který odtěžil zhruba čtvrtinu rozlohy hradu.
+- Autor pochybuje o hradišti, spíše jde o malý hrad zřejmě související s ochranou
+  stezky.
+title: Hradiště Vrtěšice či&nbsp;hrad Červenice
 ---
+
 Jsa hlava sklerotická, rozhodl jsem si udělat poznámky. Hradiště Vrtěšice mne zaujalo především svojí polohou, kterou by bylo zajímavě posazeno v pozici rozhraní čáslavska a havlíčkobrodska, dost možná v návaznosti na pozdější Libickou stezku. Datovat tuto pozici jako raně středověké hradiště by bylo zajímavé už z toho důvodu, že v okolí je příznaků raně středověkého osídlení pramálo a posouvalo by to naše úvahy o kolonizaci havlíčkobrodska a dále směrem na severní Moravu. Podle dosavadních předpokladů tu byl v desátém století spíše neprostupný hvozd. 
 
 Předpoklad, že ve Vrtěšicích půjde o hradiště, jsem založil na zmínce v Encyklopedii hradišť: "hradiště jen rámcově datované do raně středověkého období". Jiné zdroje se zmiňují především o terénních pozůstatcích hradu nazývaného Červenice, nebo podle názvu polohy "Na červenici".

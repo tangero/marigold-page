@@ -1,14 +1,21 @@
 ---
 ID: 2078
-title: 'Joost i&nbsp;pro Mac (jen intelovského)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/joost-i-pro-mac-jen-intelovskeho
-published: true
+oldlink: 'https://www.marigold.cz/item/joost-i-pro-mac-jen-intelovskeho
+
+  '
 post_date: 2007-02-19 09:12:10
+post_excerpt: ''
+published: true
+summary_points:
+- Joost vydal betaverzi P2P programu pro Mac OS X, ale pouze pro Intel Macy.
+- Joost i bez přehrávání videa trvale stahuje data rychlostí přes 150 KB/s.
+- Spuštěný Joost bez přehrávání využívá 14% výkonu procesoru Intel Core Duo 2 GHz.
+- Mac verze Joostu je 0.8, shodná s Windows verzí, a pozvánky k testování jsou vyčerpány.
+title: Joost i&nbsp;pro Mac (jen intelovského)
 ---
+
 Včera <a href="https://www.joost.com/">Joost</a> vydal betaverzi svého P2P distribučního programu pro televizní vysílání a video on demand na Mac OS X platformu. Vtipné je, že to není Universal Binary, alespoň to joosťáci výslovně uvádějí. Takže to funguje jen na Intel Macovi. 
 
 Než si Joosta nainstalujete, tak bacha. Spustil jsem ho z důvodů testovacích v práci na velmi benevolentní internetové přípojce a Joost vykazuje i se zastaveným videem trvalý tah přes 150 KB/s. Vezměte do ruky sčot, FUP politiku svého ISP a dojdete k názoru, jak dlouho ho smíte mít puštěný... 

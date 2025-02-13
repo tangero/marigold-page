@@ -1,16 +1,23 @@
 ---
 ID: 1999
-title: >
-  Když IM klient, tak se podívejte na
-  QIP
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdyz-im-klient-tak-se-podivejte-na-qip
-published: true
+oldlink: 'https://www.marigold.cz/item/kdyz-im-klient-tak-se-podivejte-na-qip
+
+  '
 post_date: 2006-08-06 21:14:20
+post_excerpt: ''
+published: true
+summary_points:
+- Miranda vyžaduje rozsáhlé "vytunění" pomocí pluginů pro plnohodnotné používání.
+- Autor přešel na Qip, protože nabízí funkce Mirandy s pluginy již v základu.
+- Qip má hot-klávesy, vyhledávání v historii a snadné přepínání viditelnosti kontaktů.
+- Qip filtruje nevyžádané zprávy efektivněji než Miranda s pluginem.
+title: 'Když IM klient, tak se podívejte na QIP
+
+  '
 ---
+
 <p>V posledních pár dnech jsem dostal nebývale dotazů na Mirandu, kecálka instant messagingu - alternativu k ICQ, samozřejmě s podporou ICQ. Nejdříve jsem nevěděl, odkud vítr fouká a došlo mi to až později - má to být ten zaručeně nejlepší IM program v tomto universu. Jistě, že není - či spíše, jak pro koho.</p>
 
 <p>Nemám tahle paušalizující hodnocení rád. Miranda je dobrá, používal jsem ji dva roky. Jenže každý chce něco jiného a je těžké mít nějaký program, který by vyhovoval každému. </p>

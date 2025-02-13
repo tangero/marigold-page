@@ -1,17 +1,23 @@
 ---
 ID: 1841
-title: >
-  S novou protiterorostickou úpravou
-  trestního zákoníku bude zřejmě
-  psina
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/s-novou-protiterorostickou-upravou-trestniho-zakoniku-bude-zrejme-psina
-published: true
+oldlink: 'https://www.marigold.cz/item/s-novou-protiterorostickou-upravou-trestniho-zakoniku-bude-zrejme-psina
+
+  '
 post_date: 2005-10-07 11:30:48
+post_excerpt: ''
+published: true
+summary_points:
+- Trestní zákoník má trestat znalost postupů pro přístup k systémům.
+- Telnet ve Windows by mohl být dle novely trestný.
+- Multitasking by teoreticky mohl být ilegální kvůli přístupu k OS.
+- Autor kritizuje novelu a politiky, kteří ji prosazují.
+title: 'S novou protiterorostickou úpravou trestního zákoníku bude zřejmě psina
+
+  '
 ---
+
 <p>Tak si čtu <a href="http://www.blisty.cz/2005/10/6/art25278.html">článek Štěpána Kotrby na Blistech</a> o "protiteroristické" novele tresního zákoníku a co to vidím:  </p>
 
 	<blockquote><p>

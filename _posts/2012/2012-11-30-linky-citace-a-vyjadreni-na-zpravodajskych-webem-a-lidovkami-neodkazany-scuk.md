@@ -1,15 +1,25 @@
 ---
 ID: 2579
-title: 'Linky, citace a&nbsp;vyjádření na zpravodajských webem a&nbsp;Lidovkami neodkázaný Scuk'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linky-citace-a-vyjadreni-na-zpravodajskych-webem-a-lidovkami-neodkazany-scuk
-published: true
+oldlink: 'https://www.marigold.cz/item/linky-citace-a-vyjadreni-na-zpravodajskych-webem-a-lidovkami-neodkazany-scuk
+
+  '
 post_date: 2012-11-30 10:23:16
-categories: [Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Lidové noviny nepochybily neprolinkováním Scuku, šlo o vyjádření, ne citaci.
+- Linkování citací informací je pochopitelné, linkování vyjádření zaslaných emailem
+  nikoliv.
+- Článek v Lidových novinách sloužil čtenáři, ne propagaci Martina Kuciela.
+- Kritici Lidových novin sami často nelinkují, rychlý lynč ničemu neprospívá.
+title: Linky, citace a&nbsp;vyjádření na zpravodajských webem a&nbsp;Lidovkami neodkázaný
+  Scuk
 ---
+
 <p>Porušily Lidové noviny něco, když neprolinkovaly odkaz na Martina Kuciela, jehož <a href="http://www.lidovky.cz/proc-nam-to-delate-zlobi-se-vyrobci-dochucovadel-na-sefkuchare-p6t-/dobra-chut.asp?c=A121126_100349_dobra-chut_ape" target="_self" title="">vyjádření v článku citovaly</a>? Hned se jim dostalo hromady emotivních kleteb, čímž se svezly na vlně odporu proti "odpíračům odkazů". Jenže je to trochu složitější.</p>
 
 

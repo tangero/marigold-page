@@ -1,17 +1,26 @@
 ---
 ID: 2413
-title: >
-  Neoriginální SmartCover pro iPad má
-  své nevýhody
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- iPad
+- Apple
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/neoriginalni-smartcover-pro-ipad-ma-sve-nevyhody
-published: true
+oldlink: 'https://www.marigold.cz/item/neoriginalni-smartcover-pro-ipad-ma-sve-nevyhody
+
+  '
 post_date: 2012-04-28 16:20:26
-categories: [iPad, Apple]
+post_excerpt: ''
+published: true
+summary_points:
+- SmartCover od Apple magneticky chrání displej iPadu, čistí jej a umožňuje polohování.
+- Čínská verze SmartCoveru za 200 Kč se páře a má nekvalitní materiály.
+- Čínský SmartCover způsobuje samovolné zapínání iPadu a nečistí displej.
+- Autor experimentoval s levnou variantou a nyní hledá kvalitnější obal s klávesnicí.
+title: 'Neoriginální SmartCover pro iPad má své nevýhody
+
+  '
 ---
+
 První iPad vlastně nešel nijak rozumně postavit. Když jste ho nedrželi, mohl jen ležet a byla to moje silná výtka k němu. Apple zareagovalo a vydalo k iPad 2 SmartCover, geniální řešení, které se pomocí magnetů připíná, zároveň čistí displej a můžete také jeho různým skládáním displej postavit různě šikmo. Je to stabilní (nikoliv do uragánu), je to pohodlné, je to praktické. Kromě toho SmartCover pomocí magnetů signalizuje Ipadu, zda je zatažený nebo se odtahuje, takže iPad se může probudit či uspat podle toho, zda kryt zatahujete či odtahujete. Dokud to nepoužijete, je to ptákovina, ale jak to máte, nedáte bez toho ani ránu. 
 
 To bych ale nebyl já, abych nešpekuloval. Tak především jsem si řekl, že bych byl vůl, abych dal osm stovek za originální SmartCover od Apple, když je to kousek plastu, magnetků a hliníku. A že vyzkouším nějakou čínskou verzi. Navíc originální SmartCover kryje jen displej, ale ne samotné tělo a já si říkal, že bude lepší sehnat něco, co přikryje i tělo iPadu, abych ho hned nezrasoval. Takže jsem za dvě stovky koupil čínský smartcover, do kterého se iPad zabalí. Abych zjistil, za co chce Apple šest stovek příplatek. 

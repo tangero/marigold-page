@@ -1,15 +1,24 @@
 ---
 ID: 2297
-title: Ve Fabrice Světa
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Čína
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ve-fabrice-sveta
-published: true
+oldlink: 'https://www.marigold.cz/item/ve-fabrice-sveta
+
+  '
 post_date: 2008-10-17 15:42:37
-categories: [Čína, Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Shenzhen je "Fabrika Světa", dříve rybářská osada, nyní dvanáctimilionová aglomerace.
+- Město Shenzhen trpí smogem a hektičností, ceny nemovitostí jsou astronomické.
+- Továrny v Shenzhenu se liší kvalitou, některé jsou moderní, jiné brutální.
+- Pracovníci v továrnách jsou čistí a pracovití, ale často bez ochranných pomůcek.
+title: Ve Fabrice Světa
 ---
+
 Nerad bych vypadal, že po pár dnech v Číně jsem sežral všechnu čínomoudrost světa. Berte následující řádky prosím jako moje postřehy a výpovědi lidí, kteří tu bydlí a provázeli nás na naší cestě. Možná kecali, možná režim něco ukryl, ale nemyslím si...
 
 <!--more-->

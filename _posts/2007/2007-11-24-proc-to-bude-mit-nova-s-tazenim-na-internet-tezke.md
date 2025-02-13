@@ -1,14 +1,21 @@
 ---
 ID: 2173
-title: 'Proč to bude mít Nova s&nbsp;tažením na internet těžké'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-to-bude-mit-nova-s-tazenim-na-internet-tezke
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-to-bude-mit-nova-s-tazenim-na-internet-tezke
+
+  '
 post_date: 2007-11-24 10:44:17
+post_excerpt: ''
+published: true
+summary_points:
+- Firemní výjezd sloužil k seznámení s novými kolegy a strategii Streamu.
+- Definovat internetové postupy je obtížné, i když jsou intuitivně zřejmé.
+- Korporátní internetové projekty selhávají kvůli nedostatku vizionářů.
+- Zkušenost není znalost, což je klíčové pro úspěch internetového projektu.
+title: Proč to bude mít Nova s&nbsp;tažením na internet těžké
 ---
+
 Včera jsme měli celofiremní výjezd, kde jsme mudrovali, strategizovali a pilovali, co k pilování na Streamu jest. A že toho dosti. Kromě toho bylo na čase seznámit se s novými kolegy, protože je řada nových a neznámých tváří, pohybujících se po firmě. A je milé dozvědět se, že ten človíček je váš kolega dříve, než ho vyhodíte z patra s tím, že se nám tam civilové nemají co volně promenovat.
 
 V téhle souvislosti jsem se pokusil formalizovat do presentace pár myšlenek týkajících se nás samotných a našeho blízkého okolí. Což je obtížná práce. Pokud se pohybujete na internetu dlouho, řadu věcí takříkajíc instinktivně cítíte. Víte, co a jak a proč máte dělat. Ale zcela přesně to definovat jednou větou, jedním odstavcem, to je už něco zcela jiného.

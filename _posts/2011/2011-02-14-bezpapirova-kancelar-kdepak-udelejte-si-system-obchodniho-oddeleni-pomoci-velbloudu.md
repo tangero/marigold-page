@@ -1,18 +1,28 @@
 ---
 ID: 2845
-title: >
-  Bezpapírová kancelář? Kdepak,
-  udělejte si systém obchodního
-  oddělení pomocí velbloudů
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Digitalizace
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezpapirova-kancelar-kdepak-udelejte-si-system-obchodniho-oddeleni-pomoci-velbloudu
-published: true
+oldlink: 'https://www.marigold.cz/item/bezpapirova-kancelar-kdepak-udelejte-si-system-obchodniho-oddeleni-pomoci-velbloudu
+
+  '
 post_date: 2011-02-14 11:38:40
-categories: [Digitalizace]
+post_excerpt: ''
+published: true
+summary_points:
+- Článek popisuje metodu "Ropná věž" pro organizaci obchodního oddělení pomocí papírových
+  krabic.
+- Metoda spočívá v ukládání úkolů pro klienty na papíry do krabic označených dny v
+  týdnu.
+- Šéf pravidelně kontroluje krabice, rozděluje úkoly a sleduje pokrok obchodních případů.
+- Arabský kamarád autora používá RFID čipy na papírech pro kontrolu vyhazování dokumentů.
+title: 'Bezpapírová kancelář? Kdepak, udělejte si systém obchodního oddělení pomocí
+  velbloudů
+
+  '
 ---
+
 Přečetl jsem si článek <a href="http://www.mitvsehotovo.cz/2011/02/14/go-paperless-aneb-konec-papiru/">Go paperless aneb Konec papírů</a> a zasnil se o své dávné idee kompletního přechodu do digitálna. Zkoušel jsem to mockrát, ale většinou jsem se u řady věcí pokorně vrátil, například k papírovému kalendáři, co nosím po kapsách. Nicméně každý má nárok na svou Cestu tam a zase zpět, trocha experimentů je zdravá. Nicméně mi to připomnělo organizační šlágr, na který já nedám dopustit a podělím se o něj i s vámi. 
 
 Metodu (interně jí zvu Ropná věž) jsem odhalil kdysi dávno, někdy v roce 1999 - a dobře tak. Tehdy jsme se ve firmě pokoušeli poněkud civilizovat bordel, který vznikl v obchodním oddělení. Obchodníci byli nekontrolovatelní, nevýkonní, výsledky mizerné. Prošel jsem tehdy všechny možné chytré software jako tehdy Symantec Act! a další a další, byl jsem ochoten obchodníkům nakoupit Palmy, aby se synchronizovali, updatovali, informovali. 

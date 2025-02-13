@@ -1,16 +1,26 @@
 ---
 ID: 1838
-title: >
-  Přinášíme vám exkluzivní překlad
-  myšlenek Aruna Sarina
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prinasime-vam-exkluzivni-preklad-myslenek-aruna-sarina
-published: true
+oldlink: 'https://www.marigold.cz/item/prinasime-vam-exkluzivni-preklad-myslenek-aruna-sarina
+
+  '
 post_date: 2005-10-04 10:05:53
+post_excerpt: ''
+published: true
+summary_points:
+- Arun Sarinova prohlášení o VoIP naznačují, že mobilní operátoři se poučí z chyb
+  pevných sítí.
+- Mobilní operátoři plánují aktivně potlačovat alternativní VoIP nabídky pomocí cenové
+  politiky a blokování.
+- Bezdrátový broadband nahradí ADSL a kabelové technologie, podobně jako mobily nahradily
+  pevné linky.
+- Mobilní data budou dražší a méně kvalitní než pevné, ale s nálepkou "on the move".
+title: 'Přinášíme vám exkluzivní překlad myšlenek Aruna Sarina
+
+  '
 ---
+
 <p>Do diskuse i ke mně do emailu dorazilo několik připomínek, že <a href="http://www.mobilring.cz/component/option,com_mbr_content/task,view/id,228/category,operatori/">Arun Sarin na snídani s novináři pouze plytce plkal</a>. Nechápal jsem, jak to někdo může říci. Prohlášení mi přišla jasná a zásadní. Až o víkendu jsem si uvědomil, že čtenářstvo zřejmě nemá tu zkušenost s překladem z business new(s)speak, takže skutečně mohou některá vyjádření působit plytce. Myslím, že nejlepší kurz je praxí, takže pojďme si rovnou přeložit několik nejzajímavějších myšlenek. Uvidíte, proč se business newspeak používá - je stručnější, jednoznačnější, elegantnější, stylovější a spisovnější - a co více, je přístupný jen zasvěcencům ;)</p>
 
 <p>Arun Sarin: <i>„VoIP přichází z pevných sítí, kde mění trh. V mobilních sítích tomu bude jinak, s VoIP zde přijdou operátoři a bude to jejich služba,“</i></p>

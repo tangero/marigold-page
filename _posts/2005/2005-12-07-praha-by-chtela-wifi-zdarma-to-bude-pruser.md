@@ -1,16 +1,23 @@
 ---
 ID: 1889
-title: >
-  Praha by chtěla WiFi zdarma. To bude
-  průser…
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/praha-by-chtela-wifi-zdarma-to-bude-pruser
-published: true
+oldlink: 'https://www.marigold.cz/item/praha-by-chtela-wifi-zdarma-to-bude-pruser
+
+  '
 post_date: 2005-12-07 12:21:33
+post_excerpt: ''
+published: true
+summary_points:
+- Praha plánuje celoplošnou WiFi zdarma za 150 milionů Kč.
+- Projekt ohrožuje existující poskytovatele internetu a vyžaduje odškodnění.
+- Financování projektu z Broadband fóra je nejisté a sporné.
+- Realizace projektu zdarma povede k problémům s kvalitou a rušením.
+title: 'Praha by chtěla WiFi zdarma. To bude průser…
+
+  '
 ---
+
 <p>Nejsem principiálně proti věcem zdarma, jen mám takové neblahé a zkušenostmi dané přesvědčení, že nic zdarma neexistuje a nakonec se to někde musí zaplatit. Pokud to nejsem já, budiž. Většinou jsem. </p>
 
 <p>WiFi v Praze 5 už zdarma je a na základě této reference hodlá Praha stavět zdarma WiFi síť celoplošnou. Náklady mají vyjít na 150 milionů Kč, další peníze má schlamstnout roční provoz. Sto milionů Kč chtějí získat projektanti této sítě z příspěvku Broadbandového fóra, zbytek se má sehnat někde, nepochopil jsem přesně kde, na DigiWebu píšou, že by se mělo něco dále chtít po vládě. </p>

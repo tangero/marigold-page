@@ -1,14 +1,22 @@
 ---
 ID: 1933
-title: Support Denmark není svoboda slova
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/support-denmark-neni-svoboda-slova
-published: true
+oldlink: 'https://www.marigold.cz/item/support-denmark-neni-svoboda-slova
+
+  '
 post_date: 2006-02-15 16:13:31
+post_excerpt: ''
+published: true
+summary_points:
+- Karikatury Mohammeda byly zbytečná provokace, nemající nic společného se svobodou
+  slova.
+- Paušální odsuzování Dánska a Evropy kvůli karikaturám je nepřijatelné a vede k extrémům.
+- Autor nesouhlasí s karikaturami, ale stojí za Dánskem proti extremistickým reakcím.
+- Zveřejnění karikatur bylo chybou, za kterou měl šéfredaktor nést následky.
+title: Support Denmark není svoboda slova
 ---
+
 <p>Dostal jsem četné reakce a dotazy k rohu některých mých serverů, kde se píše Support Denmark. Ne každý to pochopil, takže se u toho radši maličko zastavím. Prostě proto, abych nebyl špatně pochopen.</p>
 
 <p>Především si nemyslím, že nějaké takové karikatury měly vyjít. Šéfredaktor dánského listu, jehož jméno mi vypadlo, projevil jejich zveřejněním příliš vysoký stupeň demence jejich zveřejněním a majitel listu tím, že dotyčného neposlal na pracovní úřad do hodně dlouhé fronty. Proč? Protože celá věc nemá nic společného se svobodou slova. Jen s pitomou provokací, která navíc ničemu neprospěla.</p>

@@ -1,14 +1,21 @@
 ---
 ID: 1993
-title: 'Telefonika Nula Dva či&nbsp;jak se to&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telefonika-nula-dva-ci-jak-se-to
-published: true
+oldlink: 'https://www.marigold.cz/item/telefonika-nula-dva-ci-jak-se-to
+
+  '
 post_date: 2006-07-10 21:05:24
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom byl firmou, na kterou si lidé často stěžovali.
+- Telefonica přejmenovala Český Telecom a Eurotel na Telefonica O2 Czech Republic.
+- Změna jména Telefonica O2 zákazníkům nepřinesla žádný valný smysl.
+- NMT Eurotelu definitivně zaniklo, což autor článku zaznamenal.
+title: Telefonika Nula Dva či&nbsp;jak se to&#8230;
 ---
+
 <p>Těžko byste v českých telekomunikacích našli jiné lepší jméno, na které lze lépe svorně nadávat, než Český Telecom. Kdysi jsem soudil, že jakýkoliv svéprávný kupec našeho inkumbenta firmu nutně přejmenuje. I stalo se tak. </p>
 
 <p>Španělská Telefonica, pod dojmem svého šťastného nákupu a asi taky proto, aby byla legrace, se rozhodla jméno integrovat spolu s Eurotelem. A protože španělské jméno by zřejmě ocenili jen a pouze mexický pistolník, vyčůraně se zvolilo Telefonica O2 (s lokálním přídomkem Czech Republic). Nečte se to ani O dós, jak by napovídal španělský původ firmy, ani O dva, pro místní lokalitu, ale Ou tú - asi jako citoslovce kvílení... </p>

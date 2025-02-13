@@ -1,15 +1,25 @@
 ---
 ID: 2221
-title: 'FriendFeed, mít přehled o&nbsp;přátelích'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Startupy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/friendfeed-mit-prehled-o-pratelich
-published: true
+oldlink: 'https://www.marigold.cz/item/friendfeed-mit-prehled-o-pratelich
+
+  '
 post_date: 2008-04-13 20:07:52
-categories: [Startupy]
+post_excerpt: ''
+published: true
+summary_points:
+- FriendFeed spustili v roce 2007 bývalí zaměstnanci Googlu a získali investici 5
+  milionů dolarů.
+- FriendFeed funguje na principu dobrovolného sdílení aktivit uživatele na internetu.
+- Uživatelé FriendFeed mohou sledovat aktivity přátel a komentovat je přímo v aplikaci.
+- FriendFeed nabízí jednoduchou integraci s e-mailovými účty pro vyhledávání a pozvání
+  kontaktů.
+title: FriendFeed, mít přehled o&nbsp;přátelích
 ---
+
 Není to tak dávno, co jsem tu v rámci novinek psal o webu <a href="http://www.spokeo.com">Spokeo.com</a>, který umožňuje sledovat, co vaši přátelé zrovna dělají na webu, tedy kam nahráli fotky, kde napsali co na blog atd. FriendFeed je něco podobného, ale jiného v principu. V poslední době je o něm také více slyšet a myslím, že stojí za to ho zmínit samostatně. 
 
 <img src="http://www.marigold.cz/wp-content/uploads//6F9F9BAE-C165-48CA-A54A-692E5FD84D1C.jpg" alt="6F9F9BAE-C165-48CA-A54A-692E5FD84D1C.jpg" border="0" width="225" height="69" align="right" /><a href="http://www.friendfeed.com">FriendFeed</a> spustila koncem roku 2007 skupina lidí dříve pracujících pro Google. Což byl dost možná i jeden z faktorů, proč získali tolik pozornosti médií: proč by odcházeli z ráje zvaného Google, kdyby neměli excelentní ideu, ptají se místy i dost nepokrytě média. Koncem února 2008 získali na svůj projekt i něco hmatatelnějšího, než uznání médií: investici 5 milionů dolarů. 

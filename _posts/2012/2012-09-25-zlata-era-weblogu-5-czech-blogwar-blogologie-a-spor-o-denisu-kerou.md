@@ -1,15 +1,25 @@
 ---
 ID: 2530
-title: 'Zlatá éra weblogů 5: Czech BlogWar, Blogologie a&nbsp;spor o&nbsp;Denisu Kerou'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Historie internetu
+- Historie
+- Weblogy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zlata-era-weblogu-5-czech-blogwar-blogologie-a-spor-o-denisu-kerou
-published: true
+oldlink: 'https://www.marigold.cz/item/zlata-era-weblogu-5-czech-blogwar-blogologie-a-spor-o-denisu-kerou
+
+  '
 post_date: 2012-09-25 09:36:49
-categories: [Historie internetu, Historie, Weblogy]
+post_excerpt: ''
+published: true
+summary_points:
+- Blogwars v Česku vyvrcholily sporem o Denisu Kerou v červenci 2004.
+- Filip Rožánek kritizoval výzkum blogů Denisy Kery jako bezpředmětný.
+- Denisa Kera ukončila blogování kvůli emotivním útokům a nepochopení.
+- Spor o Denisu vedl k útlumu blogologie a diskusí o etice blogování.
+title: 'Zlatá éra weblogů 5: Czech BlogWar, Blogologie a&nbsp;spor o&nbsp;Denisu Kerou'
 ---
+
 <p> I český internet měl své blogové války, blogwary, tedy velmi emotivní přestřelky vedené prostřednictvím příspěvků a komentářů na blozích. Jedna z nejdrsnějších “*blogwars* a s překvapivě dlouhodobými důsledky se strhla v červenci 2004. Jejím základem bylo vystoupení Denisy Kere na vídeňské konferenci BlogTalk. Denisa Kera byla jednou z formujících sil Studia nových médií (Stunome) na FF UK a ačkoliv nepatřila mezi *hardcore* jádro českých blogerů, patřila mezi lidi, kteří české blogosféře věnovali značnou pozornost posílenou akademickým, výzkumným zájmem. A právě ono *výzkumničení* se stalo trnem v oku.<!--more--></p>
 
 

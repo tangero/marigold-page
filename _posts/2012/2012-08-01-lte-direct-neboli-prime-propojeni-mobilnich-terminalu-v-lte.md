@@ -1,15 +1,24 @@
 ---
 ID: 2465
-title: 'LTE Direct neboli přímé propojení mobilních terminálů v&nbsp;LTE'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- LTE
+- Mobilní sítě
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lte-direct-neboli-prime-propojeni-mobilnich-terminalu-v-lte
-published: true
+oldlink: 'https://www.marigold.cz/item/lte-direct-neboli-prime-propojeni-mobilnich-terminalu-v-lte
+
+  '
 post_date: 2012-08-01 15:19:36
-categories: [LTE, Mobilní sítě]
+post_excerpt: ''
+published: true
+summary_points:
+- Qualcomm vyvíjí LTE Direct pro přímou komunikaci mobilů bez operátora.
+- LTE Direct umožní aplikacím získat geosociální kontext o okolí uživatele.
+- Technologie cílí na sociální aplikace a reklamu, ne na veřejnou bezpečnost.
+- LTE Direct postrádá režim Relay, což omezuje jeho využití v krizových situacích.
+title: LTE Direct neboli přímé propojení mobilních terminálů v&nbsp;LTE
 ---
+
 <p>O tom, že by mobilní terminály mohly fungovat bez závislosti na síťové infrastruktuře operátora, se uvažuje poměrně dlouho. Technicky vzato by to nebyl žádný problém, otázka je, jak celou věc pojmout obchodně. Podobné projekty existovaly již před dvaceti lety v rámci Ericssonu (<a href="http://mobil.idnes.cz/peer-to-peer-pro-mobilni-telefony-zruste-operatory-fhd-/mob_tech.aspx?c=A010423_0030005_mob_aktuality">psal jsem o nich zde</a>), jenže k začlenění takových nápadů do standardu 3G nikdy nedošlo. Nebyl důvod, obcházeli by se operátoři, výrobci infrastruktury a to nebylo záhodno. . </p>
 
 

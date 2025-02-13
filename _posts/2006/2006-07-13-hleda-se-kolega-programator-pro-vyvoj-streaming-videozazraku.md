@@ -1,16 +1,23 @@
 ---
 ID: 1995
-title: >
-  Hledá se kolega-programátor pro vývoj
-  streaming-videozázraku
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hleda-se-kolega-programator-pro-vyvoj-streaming-videozazraku
-published: true
+oldlink: 'https://www.marigold.cz/item/hleda-se-kolega-programator-pro-vyvoj-streaming-videozazraku
+
+  '
 post_date: 2006-07-13 08:08:04
+post_excerpt: ''
+published: true
+summary_points:
+- Javista hledán pro unikátní, slušně proinvestovaný projekt online videa.
+- Společnost hledá JAVA programátora pro vývoj webového projektu streamingu videa.
+- Požadována výborná znalost Javy/C++, SQL, webových aplikací a ochota učit se.
+- Nabízí se zajímavá práce, výborné platové podmínky a profesní růst.
+title: 'Hledá se kolega-programátor pro vývoj streaming-videozázraku
+
+  '
 ---
+
 <p>Nerad to dělám, ale pro vlastní blaho je to potřeba: hledá se schopný Javista pro opravdu zajímavý a slušně proinvestovaný projekt projekt online videa. Ještě, než se případný zájemce začte do standardního inzerátu, bych připomněl z mého pohledu hlavní devizu téhle práce: dost zajímavá věc unikátní i v celosvětovém měřítku a navíc s velmi zajímavými lidmi okolo. </p>
 
 <p>Mladá, dynamicky se rozvíjející společnost zaměřující se na televizní zábavu, hledá JAVA programátora na pozici vývoje webového projektu v oblasti streamingu a distribuce videa a socioware.</p>

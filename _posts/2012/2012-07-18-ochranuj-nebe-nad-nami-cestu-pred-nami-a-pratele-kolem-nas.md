@@ -1,15 +1,23 @@
 ---
 ID: 2452
-title: 'Ochraňuj nebe nad námi, cestu před námi a&nbsp;přátele kolem nás'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ochranuj-nebe-nad-nami-cestu-pred-nami-a-pratele-kolem-nas
-published: true
+oldlink: 'https://www.marigold.cz/item/ochranuj-nebe-nad-nami-cestu-pred-nami-a-pratele-kolem-nas
+
+  '
 post_date: 2012-07-18 14:44:44
-categories: [Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Tři kamarádi vyrazili vlakem a autobusem do Terchové na túru Malou Fatrou.
+- Dierami stoupali za deště, opevňovali přístřešek na Mezirozsudckém sedle.
+- Markův meteoradar na mobilu selhal, fronta přišla přes Rakousko nečekaně.
+- Po výstupu na Velký Rozsutec sestoupili na chatu Grúň, kde se najedli.
+title: Ochraňuj nebe nad námi, cestu před námi a&nbsp;přátele kolem nás
 ---
+
 <p> Byly to jen tři dny, ale osvěžily. Po staru, tak, jak jsme to vždycky měli rádi. Tři kluci s batohem nacpaným vším pro každý případ, boty s podrážkou vzor zetor a tři biletky do lůžkového vozu směr Žilina. A odtud už místním busem do Terchovej, rodiště prvního to československého ministra financí, který ještě bohatým bral a chudým dával minust dvacet procent na režii. Oj Juro Jánoši, vela sa zmenilo od tých čas.</p>
 
 

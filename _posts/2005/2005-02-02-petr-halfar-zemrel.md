@@ -1,14 +1,21 @@
 ---
 ID: 1511
-title: Petr Halfar zemřel
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/petr-halfar-zemrel
-published: true
+oldlink: 'https://www.marigold.cz/item/petr-halfar-zemrel
+
+  '
 post_date: 2005-02-02 08:06:49
+post_excerpt: ''
+published: true
+summary_points:
+- Petr Halfar, zakladatel ha-vel a.s., zemřel tragicky před 30. narozeninami.
+- Firma ha-vel a.s. expandovala z lokálního provajdera na významného operátora.
+- Halfar snil o bezplatném vysokorychlostním internetu pro každého skrze projekt rEvoluce.
+- Autor lituje, že Halfarovi neřekl, jak si ho váží.
+title: Petr Halfar zemřel
 ---
+
 <p>Jsou lidé, jejichž smrt je pro mnohé jen jménem na úmrtním oznámení, číslem
 v policejní statistice. A pak jsou lidé, jejichž smrt citelně zasáhne
 desítky tisíc lidí, ať už si to připouštějí či nikoliv. Jeden z nich,

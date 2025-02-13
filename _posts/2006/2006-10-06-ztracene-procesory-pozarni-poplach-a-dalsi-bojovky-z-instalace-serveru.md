@@ -1,14 +1,21 @@
 ---
 ID: 2018
-title: 'Ztracené procesory, požární poplach a&nbsp;další bojovky z&nbsp;instalace serverů'
 author: Vreco
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ztracene-procesory-pozarni-poplach-a-dalsi-bojovky-z-instalace-serveru
-published: true
+oldlink: 'https://www.marigold.cz/item/ztracene-procesory-pozarni-poplach-a-dalsi-bojovky-z-instalace-serveru
+
+  '
 post_date: 2006-10-06 10:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- IBM servery dorazily do Opatovické, ale nevešly se do dveří.
+- Řidič náklaďáku servery převezl do TTC, kde je ručně vyložili.
+- Při instalaci serverů chyběly RAM, procesory a dva disky.
+- SuperHosting servery vybalil a nainstaloval přes noc do racků.
+title: Ztracené procesory, požární poplach a&nbsp;další bojovky z&nbsp;instalace serverů
 ---
+
 <p><b>Vreco píše:</b> Když nám do Opatovické dorazilo osmnáct nových našlapaných černo-modrých skříní od IBM v objemově cca 10x větších obalech, netušili jsme, že netrpělivě očekávaný okamžik se změní ve dvoudenní bojovku. Ačkoliv náklaďák přepravní společnosti se do Opatovické vměstnal, palety jasně naznačily, abychom nepočítali s tím, že by prošly dveřmi. Přemluvili jsme tedy notně přinasraného řidiče (po telefonu jsem ho mírně odbyl s tím, že nevím, proč by kvůli pár serverům byl potřeba vysokozdvižný vozík a ať vydrží minutu, že zrovna zatáčím do Opatovické), aby nám servery transportoval do TTC, které je naší první a do budoucna primární serverovou lokalitou. Přiznávám, faux pas s náklaďákem v centru Prahy byla naše chyba, předtím jsme servery kupovali po 1-2 kusech dle potřeby a z IBM nám je vozili Oktávkou, takže nás nenapadlo, že tentokrát toho budou rovnou dvě palety. </p>
 
 <p>Řidič dorazil do TTC druhý den. Vyhnul se zaparkovaným autům, aniž by na to kterékoliv z nich pamatovalo hůře než poškrábaným lakem, a zacouval do zadního dvora. Marně hledal rampu, žádná nebyla. A protože nebylo ani čelo ani vysokozdvižný vozík, nezbylo nic jiného, než cca půl tuny serverů vyskládat ručně. Práce na půl hodinky pro řidiče a čtyři silné chlapy (tj. nás). Podepsali jsme převzetí zásilky, dostali dodací list a začali stěhovat servery a hromadu krabic s příslušenstvím do výtahu (servery chodí zvlášť, disky jsou zabaleny zvlášť, další „víceprocesory“ a „vícepaměti“ mají také každý svou vlastní krabičku). Ještě že nákladní výtah v TTC uveze 1 tunu, nafouknout jej ovšem nelze. Naplnili jsme ho po okraj, někteří se naložili s ním, méně šťastní museli budovu obíhat a schody vybíhat po svých.  </p>

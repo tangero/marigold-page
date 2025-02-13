@@ -1,16 +1,26 @@
 ---
 ID: 1982
-title: >
-  Které služby na Internetu
-  používáte?
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ktere-sluzby-na-internetu-pouzivate
-published: true
+oldlink: 'https://www.marigold.cz/item/ktere-sluzby-na-internetu-pouzivate
+
+  '
 post_date: 2006-06-07 17:05:09
+post_excerpt: ''
+published: true
+summary_points:
+- Noname hledá tipy na online aplikace pro začátečníky s důrazem na jednoduchost a
+  češtinu.
+- Komunikace zahrnuje Gmail, ICQ, Skype, blog/web editor, Firefox/Opera a český VoIP.
+- Multimédia zahrnují Flickr, Youtube, česká rádia a Last.fm, kancelářské nástroje
+  ThinkFree a Google.
+- Hledání, mapy, RSS čtečky, zpravodajství a online poradny tvoří kategorii ostatní
+  a informace.
+title: 'Které služby na Internetu používáte?
+
+  '
 ---
+
 <p><strong>Noname píše:</strong><br />
 Chtěl bych lidem, co začínají s počítačem ukázat, jaké aplikace na internetu jsou a jak internet efektivně využívat. Sám se na to ale koukám "z vnitřku koule", takže moc nevím, co ve skutečnosti používají ostatní. Dáte mi vaše tipy? Důraz - online, jednoduchost, využitelnost, čeština if possible ;), rozšíření</p>
 

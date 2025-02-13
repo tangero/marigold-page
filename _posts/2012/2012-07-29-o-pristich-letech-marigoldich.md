@@ -1,15 +1,23 @@
 ---
 ID: 2461
-title: O příštích letech Marigoldích
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Marigold
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/o-pristich-letech-marigoldich
-published: true
+oldlink: 'https://www.marigold.cz/item/o-pristich-letech-marigoldich
+
+  '
 post_date: 2012-07-29 14:31:11
-categories: [Marigold]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor opustil Lupu po měsíci a Marigold během jeho působení trpěl.
+- Marigold se zaměří na důležitá témata mimo mainstreamová média.
+- Autor se vrací k LTE, mobilním technologiím a rádiovým technologiím.
+- Autor plánuje obsáhlejší články, nový design a Flattr pro Marigold.
+title: O příštích letech Marigoldích
 ---
+
 <p> Je to vlastně na den přesně měsíc, co jsem odešel z Lupy. Užil jsem odpočinku, pohasil problémy tlačené před sebou včetně lahůdek jako vydání osobních dokladů a zbylo i místo, rozmyslet, co bude s Marigoldem dále. </p>
 
 

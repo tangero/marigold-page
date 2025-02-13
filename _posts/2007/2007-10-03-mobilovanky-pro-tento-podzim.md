@@ -1,14 +1,21 @@
 ---
 ID: 2155
-title: Mobilovánky pro tento podzim
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilovanky-pro-tento-podzim
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilovanky-pro-tento-podzim
+
+  '
 post_date: 2007-10-03 20:16:10
+post_excerpt: ''
+published: true
+summary_points:
+- iPhone ovlivňuje výrobce, kteří se vymezují pozitivně i negativně.
+- Nokia srovnávala N95 s iPhone, inspirovala se rozhraním a útočila na uzavřenost.
+- HTC TouchFLO je rozhraní pro Windows Mobile snažící se konkurovat iPhone.
+- Apple zrušil odblokování iPhone a podporu aplikací třetích stran.
+title: Mobilovánky pro tento podzim
 ---
+
 Sbírka střípků z mobilního světa pro letošní podzim je zajímavou směsicí. Když jsem označoval Apple a jeho iPhone za největší událost mobilního světa, zjevně jsem se nemýlil, ať odpůrci iPhone nadávají, jak chtějí. 
 
 Znakem posledních měsíců je snaha výrobců vůči iPhone se vymezit. Následují tak uživatele, kteří se vůči iPhone vymezují pozitivně nebo negativně. Stejně tak výrobci. Takže si to trochu shrneme...

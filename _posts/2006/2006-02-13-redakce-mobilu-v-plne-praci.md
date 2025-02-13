@@ -1,14 +1,21 @@
 ---
 ID: 1920
-title: 'Redakce Mobilu v&nbsp;plné práci'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/redakce-mobilu-v-plne-praci
-published: true
+oldlink: 'https://www.marigold.cz/item/redakce-mobilu-v-plne-praci
+
+  '
 post_date: 2006-02-13 10:58:43
+post_excerpt: ''
+published: true
+summary_points:
+- Redaktoři mobil.cz posílají zprávy na server pomocí MMS.
+- Snímek zachycuje redaktory při tvorbě dvou článků.
+- Autor se omlouvá za případnou nesouvislost textu.
+- Příčinou je včerejší konzumace sangrie a grappy.
+title: Redakce Mobilu v&nbsp;plné práci
 ---
+
 <p>V press centru jsem zachytil redaktory mobil.cz v plné práci. Doba pokročila. Už také posílají zprávy na server přes mms a snímek je zachytil v momentě tvorby dvou článků. A kdybych dneska psal trochu nesouvisle tak se na tom podepsalo včerejší sangria a grappa party...</p>
 
 

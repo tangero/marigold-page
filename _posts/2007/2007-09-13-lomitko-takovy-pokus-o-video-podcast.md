@@ -1,14 +1,21 @@
 ---
 ID: 2147
-title: 'Lomítko &#8211; takový pokus o&nbsp;video podcast'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lomitko-takovy-pokus-o-video-podcast
-published: true
+oldlink: 'https://www.marigold.cz/item/lomitko-takovy-pokus-o-video-podcast
+
+  '
 post_date: 2007-09-13 17:45:07
+post_excerpt: ''
+published: true
+summary_points:
+- Lomítko je nový video podcast, inspirovaný Diggnation a Digit.
+- První díl Lomítka má 37 minut a pojednává o IT Crowd, iPodech, Flashi a Twitteru.
+- Tvůrci chtějí filmovat novinky a bavit se, případný divácký zájem je bonus.
+- První díl Lomítka je ke zhlédnutí na Stream.cz, existuje i verze pro iPod.
+title: Lomítko &#8211; takový pokus o&nbsp;video podcast
 ---
+
 Tak jsme si onehdá s b00leanem říkali, že bychom zkusili video podcast. Něco podobného, jako je <a href="http://www.diggnation.com">Diggnation</a>, nebo jako je český <a href="http://www.digit.cz">Digit</a>. Já osobně už jsem nad tím špekuloval delší dobu, protože jsem si pořád říkal, že to musí být zajímavé si to vyzkoušet. A tak jsme špekulovali, až jsme na to včera vlítli. Ve firmě jsem zkonfiskoval tři kamery, kolegu jsem nejdříve vyštval z jeho kanceláře, pak jsem ho pokorně šel poprosit, aby se vrátil a obsluhoval ty kamery. Připravili jsme si témata, porty, lampu, notebooky, matonku a šlo se na to. 
 
 Pořad jsme promptně nazvali Lomítko. Přišel na to b00lean, akorát původně navrhoval Zpětné lomítko, ale já mám radši jednoslovné, takže zůstalo jen Lomítko. 

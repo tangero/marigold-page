@@ -1,14 +1,22 @@
 ---
 ID: 1642
-title: 'Když někoho tlučete tyčí do hlavy, jste zodpovědný i&nbsp;za to, že se pak chvíli chová nepříčetně.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdyz-nekoho-tlucete-tyci-do-hlavy-jste-zodpovedny-i-za-to-ze-se-pak-chvili-chova-nepricetne
-published: true
+oldlink: 'https://www.marigold.cz/item/kdyz-nekoho-tlucete-tyci-do-hlavy-jste-zodpovedny-i-za-to-ze-se-pak-chvili-chova-nepricetne
+
+  '
 post_date: 2005-05-13 11:26:43
+post_excerpt: ''
+published: true
+summary_points:
+- Článek se nezaměřuje na zmlácení Berdára, ale na vztah Telecomu k médiím.
+- Násilí železnou tyčí je nepřípustné; řešení sporů má být právní cestou.
+- Zkreslené vnímání událostí ztěžuje objektivní posouzení bez důkazů.
+- Otázkou je, proč se věří spíše pochybným svědkům než řediteli Telecomu.
+title: Když někoho tlučete tyčí do hlavy, jste zodpovědný i&nbsp;za to, že se pak
+  chvíli chová nepříčetně.
 ---
+
 <p>Ukázalo se, že ne všem bylo zřejmé, co jsem článek o mediálním terorismu Telecomu včera chtěl říci. Záměrně jsem se v postu vyhýbal nějakému názoru na zmlácení G. Berdára a jeho následnou střelbu a článek byl opravdu jen o tom, jaký tlačí Telecom vztah k médiím. Ani si nemyslím, že by to Berdárovi patřilo, ani si nemyslím, že všechno bylo tak, jak popisuje. </p>
 
 <p><strong>Především:</strong> nechci žít ve státě, kde je běžné vyrovnávat si účty železnou tyčí. Je-li Berdár špatný ředitel, má být vyhozen nebo zavřen do basy (pokud kradl nebo jinak porušil zákon). Je-li dobrý, přejme mu hromadu peněz a společenské prestiže i malý zámeček. O base nechť rozhodne soud, o financích akcionáři firmy, protože ti ji vlastní. Měřítkem pro nás asi bude to, jak se k řediteli zachová Telefonica, protože to je první skutečný soukromý vládce Telecomu po delší době. Rozhodně ne nějaká samozvaná partička, která zúčtuje po svém.</p>

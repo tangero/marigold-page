@@ -1,14 +1,21 @@
 ---
 ID: 1485
-title: Test fotky mikuláše
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/test-fotky-mikulase
-published: true
+oldlink: 'https://www.marigold.cz/item/test-fotky-mikulase
+
+  '
 post_date: 2005-01-20 11:51:47
+post_excerpt: ''
+published: true
+summary_points:
+- MMS zpráva s fotkou Mikuláše byla odeslána do redakčního systému.
+- Test ověřuje funkčnost posílání MMS zpráv včetně obrázků.
+- Radek Hulan pravděpodobně pomohl s funkčností systému.
+- Obrázek v MMS je uložen jako mms-184602030.jpeg.
+title: Test fotky mikuláše
 ---
+
 <p>Takovouhle fotku mikuláše či koho přidávám přes MMS. Udělá to náhled???? Test nemá žádný jiný smysl, než vyzkoušet prakticky posílání MMS přímo do redakčního systému včetně fotek. Děkuji <a href="http://hulan.info/blog/item/logitech-je-nejlepsi">Radku</a>, asi to běhá :)
 </p>
 

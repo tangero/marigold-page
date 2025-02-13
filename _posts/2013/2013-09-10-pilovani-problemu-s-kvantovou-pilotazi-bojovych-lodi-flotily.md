@@ -1,14 +1,24 @@
 ---
 ID: 2704
-title: 'Pilování problémů s&nbsp;kvantovou pilotáží bojových lodí Flotily'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pilovani-problemu-s-kvantovou-pilotazi-bojovych-lodi-flotily
-published: true
+oldlink: 'https://www.marigold.cz/item/pilovani-problemu-s-kvantovou-pilotazi-bojovych-lodi-flotily
+
+  '
 post_date: 2013-09-10 08:07:46
+post_excerpt: ''
+published: true
+summary_points:
+- Flotila 2 řeší problém dálkově řízených dronů s kvantovou komunikací a rizikem úmrtí
+  operátora.
+- Kvantová komunikace v dronech má háček, operátor umírá se zničením lodi, což vyžaduje
+  řešení.
+- Autor konzultoval problém s kvantovým fyzikem, který byl překvapen jednoduchostí
+  autorova řešení.
+- Autor odkládá dopsání kapitoly kvůli oponentuře a experimentům s drahou extramašinou.
+title: Pilování problémů s&nbsp;kvantovou pilotáží bojových lodí Flotily
 ---
+
 <p> Jedna ze zápletek v druhém díle Flotily je v podstatě banální. Flotila chystá do výzbroje drony, vesmírné bojové lodě řiditelné na dálku. Na to se mne ptali čtenáři už u prvního dílu, proč se něco takového nepoužívá. Odpověď byla samozřejmě prostá: na ohromné vzdálenosti by byla loď neřiditelná, protože zpoždění rádiového signálu by bylo příliš velké.</p>
 
 

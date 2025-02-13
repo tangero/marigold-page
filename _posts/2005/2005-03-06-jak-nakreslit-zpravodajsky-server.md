@@ -1,14 +1,21 @@
 ---
 ID: 1566
-title: Jak nakreslit zpravodajský server
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-nakreslit-zpravodajsky-server
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-nakreslit-zpravodajsky-server
+
+  '
 post_date: 2005-03-06 11:12:27
+post_excerpt: ''
+published: true
+summary_points:
+- Root.cz redesign vyvolal kritiku, ale chybí konstruktivní návrhy na moderní design.
+- Zpravodajské servery řeší dilema mezi články, reklamou a uživatelskou přehledností.
+- Titulní stránky často zbytečně zobrazují málo klikané prvky, jako aktivní diskuse.
+- Design zpravodajských serverů je globálně uniformní, hledání inovací je výzva.
+title: Jak nakreslit zpravodajský server
 ---
+
 <p>Když změnil svůj vzhled Root.cz, prohnala se blogy vlna opovržení nad tím, kterak byl design změněn. Spousta lidí si kopla, popíchla, přišlápla – ale nikde jsem nenarazil na radu či názor, jak dnes nadesignovat moderní zpravodajský server. A přitom je to podle mne téma, které je velmi palčivé.</p>
 
 <p>Příkladmo <a href="http://www.pixy.cz/pixylophone/2005_02_archiv.html#1107261121">Pixy píše</a> : <i>"Nový design je možná modernější (tvrdí autoři — podle mě je jenom naprosto tuctový, nijak nevyčnívající, bez sebemenší špetky invence), ale připravil Root o jeho základní devizu: odlišnost od mainstreamu a unikátní značku."</i> A řada komentářů pod jeho názorem tomu jen přizvukuje. Jenže nikdo neříká, kudy ven – kromě Pixyho názoru, že se měl nechat alternativní styl, což je jistě pravda. Řada podobných článků ostatních webdesign blogerů <a href="http://blogportal.hlava.net/index2.php?go=globalrss&amp;kwsearchrss=root">je k dohledání zde</a>.</p>

@@ -1,15 +1,25 @@
 ---
 ID: 2536
-title: 'K čemu je nám novin a&nbsp;zpráv zapotřebí'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/k-cemu-je-nam-novin-a-zprav-zapotrebi
-published: true
+oldlink: 'https://www.marigold.cz/item/k-cemu-je-nam-novin-a-zprav-zapotrebi
+
+  '
 post_date: 2012-10-04 10:54:19
-categories: [Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Novinařina informuje čtenáře, na rozdíl od dřívější propagandistické literatury.
+- Novináři, "hlídací psi demokracie", poskytují kritické analýzy pro informované rozhodování
+  občanů.
+- Důležitá je kvalitní, ověřená žurnalistika, nikoliv zábavné drby nebo stranické
+  spisy.
+- Technické vzdělání vytlačilo humanitní, což vede k černobílému vidění světa a neporozumění.
+title: K čemu je nám novin a&nbsp;zpráv zapotřebí
 ---
+
 <p>V komentáři pod jedním z článku se Yuhů ptá, zda je potřeba vůbec noviny nějak financovat. <em>“Nechme prostě noviny psát ty, které to baví a budou to dělat, i když je za to nikdo platit nebude. Jasně, je možné, že novin bude málo nebo žádné nebudou. Ale není to lepší než současný stav?”</em> ptá se Dušan Janovský a je to otázka, která si žádá odpověď. Potřebujeme noviny a novinařinu?<br>
 </p>
 

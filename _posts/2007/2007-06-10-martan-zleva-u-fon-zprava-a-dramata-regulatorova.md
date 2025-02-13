@@ -1,14 +1,22 @@
 ---
 ID: 2112
-title: 'Marťan zleva, U-fon zprava a&nbsp;dramata regulátorova'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/martan-zleva-u-fon-zprava-a-dramata-regulatorova
-published: true
+oldlink: 'https://www.marigold.cz/item/martan-zleva-u-fon-zprava-a-dramata-regulatorova
+
+  '
 post_date: 2007-06-10 20:10:19
+post_excerpt: ''
+published: true
+summary_points:
+- U-fon startoval s nedostatečným pokrytím a nejasnou nabídkou fixních bezdrátových
+  telefonů.
+- Mobilkom získal frekvence pro U-fon nestandardně, ČTÚ nezasáhl včas.
+- ČTÚ dlouhodobě selhává v podpoře virtuálních operátorů v Česku.
+- Český virtuální operátor funguje jako přeprodej existujících služeb s marží.
+title: Marťan zleva, U-fon zprava a&nbsp;dramata regulátorova
 ---
+
 Z podobného soudku, z jakého se vylíhli Paroubkovi marťani, jsou i zbrusu noví u-foni české telekomunikační scény. Ještě nestihli ani prvních pár zákazníků a už se postarali o slušné dusno navíc k tomu, o které se stará okluzní fronta. 
 
 Start U-fona byl po prvním očekávání poněkud rozpačitější. Očekávala se nejenom lepší nabídka, ale hlavně slušnější pokrytí. V diskusích se hromadně lidé vyptávali, jak může "čtvrtý mobilní operátor" nabízet jen fixní telefony a odborníci jim vysvětlovali, že ty fixní telefony jen fixně vypadají, fakticky jsou bezdrátové. Tohle dohadování nutně muselo skončit patem, protože dialektická filosofie nás učí o jednotě funkce a vzhledu ergo jevit se tak znamená být takový. Co na tom, že tarif je líbivý, když Prahu pokrývá jedna základnová stanice plácnutá do zahrádkářské kolonie a další čtyři stanice najdete až ve Východních Čechách. 

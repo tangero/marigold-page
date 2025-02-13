@@ -1,14 +1,21 @@
 ---
 ID: 1815
-title: Peripetie zakladatelů CZFree.Net
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/peripetie-zakladatelu-czfree-net
-published: true
+oldlink: 'https://www.marigold.cz/item/peripetie-zakladatelu-czfree-net
+
+  '
 post_date: 2005-09-12 09:24:38
+post_excerpt: ''
+published: true
+summary_points:
+- CZFree.Net řeší komerční aktivity zakladatele sítě.
+- Financování sítí vyžaduje komerční činnost nebo sponzory.
+- Zneužití informací partnerů bez souhlasu je neetické.
+- Autor článku se kauzy osobně nedotýká, má vlastního ISP.
+title: Peripetie zakladatelů CZFree.Net
 ---
+
 <p><b>ook píše</b>: Na portlu <a href="http://czfree.net/forum/showthread.php?threadid=13982" >CZFree.Net</a> se objevilo další pokračování komerčních aktivit člověka, který je považován za otce komunitní sítě CZFree.Net. <br />
 <br />
 Asi málokdo pochybuje o tom, že na stavbu sítí jsou potřeba peníze (jak

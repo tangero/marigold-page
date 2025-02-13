@@ -1,16 +1,23 @@
 ---
 ID: 1732
-title: >
-  Jak jsme na Mobil serveru prodávali
-  první reklamu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-jsme-na-mobil-serveru-prodavali-prvni-reklamu
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-jsme-na-mobil-serveru-prodavali-prvni-reklamu
+
+  '
 post_date: 2005-07-21 17:48:07
+post_excerpt: ''
+published: true
+summary_points:
+- První reklamu za peníze prodal Mobil server v květnu 1997 firmě Denker za 9000 Kč.
+- Nokia jako první velká firma inzerovala, prolomila tak bariéru pro další výrobce.
+- Mobil server, Seznam a MIA/Medea sjednotili prodej reklamy na imprese.
+- Karel Holub a Marek Zekič byli pionýři české internetové reklamy na Mobil serveru.
+title: 'Jak jsme na Mobil serveru prodávali první reklamu
+
+  '
 ---
+
 <p>Na internetu se občas vedou spory o to, kdo prodal první reklamu. Zatímco provozovatelé serveru Živě argumentují tím, že u nich reklamní pruhy běhaly již v říjnu 1996, Seznam tvrdí, že u něj se na podzim roku 1996 prodala první placená reklama. Blíže pravdě je dle mého soudu nárok Seznamu – server Živě v té době reklamu neprodával na Živě (to ostatně byla jen Invexová příloha, poté Živě na dlouho umřelo), ale do svých časopisů a na Živě přihazovali prodejci reklamu jako bonus zdarma. Seznam oproti tomu prodal zřejmě první reklamu výhradně pro internet. Najisto ale víme jen jedno – my jsme nebyli první, kdo reklamu na českém internetu prodal. </p>
 
 <!--more--><p>My jsme svoji první reklamu prodali v onom rušném měsíci květnu roku 1997. Pravda, již před tím u nás byla nějaká reklama výměnou za služby či výrobky, ale první reklama za skutečné, hotové a poctivé peníze přišla až v květnu 1997. Celých 9000 Kč u nás utratila brněnská firma Denker, dovozce velkých amerických aut. Její majitel se rozhodl vyzkoušet nový druh reklamy o kterém slýchal ve Státech a za tu astronomicky vysokou sumu dostal měsíční inzerci na našich stránkách. Pro porovnání s dneškem – kdybyste chtěli exkluzivní měsíční inzerci dnes jen na Mobil.cz, museli byste sáhnout do kapsy pro částku převyšující 2 miliony korun. Za tuhle sumu by byl server po inzertní stránce jen váš – i když, možná byste taky dostali nějakou slevičku.</p>

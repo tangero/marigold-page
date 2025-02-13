@@ -1,15 +1,24 @@
 ---
 ID: 2312
-title: 'Datová vrnění: T-Mobile na nás peče via LTE, Vodafone vypéká a&nbsp;O2 vybulbává'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
+- LTE
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/datova-vrneni-t-mobile-na-nas-pece-via-lte-vodafone-vypeka-a-o2-vybulbava
-published: true
+oldlink: 'https://www.marigold.cz/item/datova-vrneni-t-mobile-na-nas-pece-via-lte-vodafone-vypeka-a-o2-vybulbava
+
+  '
 post_date: 2008-11-06 11:27:40
-categories: [Mobilní sítě, LTE]
+post_excerpt: ''
+published: true
+summary_points:
+- České mobilní datové tarify jsou drahé a nedostatečné, operátoři neinovují.
+- T-Mobile neplánuje inovace datové nabídky v nejbližších třech letech.
+- LTE technologie je zatím v rané fázi vývoje, reálné nasazení potrvá.
+- Ostatní operátoři (O2, Vodafone) situaci nevyužívají, vyhovuje jim stávající stav.
+title: 'Datová vrnění: T-Mobile na nás peče via LTE, Vodafone vypéká a&nbsp;O2 vybulbává'
 ---
+
 Situace s mobilními daty je v Česku velmi tristní. Když odmyslíme veskrze nahodilé způsoby jako WiFi a orientovali bychom se podle nabídky "profesionálních" firem aka mobilních operátorů, zjistíme, že situace je nerůžová a to dokonce i ve firmách, které magentu mají v popisu identity. 
 
 Začneme tedy u ní. T-Mobile nedávno prohlásil, že do 3G sítí nepůjde, že půjde rovnou do LTE, tedy dalšího vývojového stupně mobilních sítí. Můžeme slovíčkařit, jestli lze jít do LTE bez 3G, zákazníkovi jsou tyhle normohrátky vcelku ukradené a zajímá ho, koliko bude koštovat rychlý net z přístroje, koliko tento přístroj a kdy bude obé na trhu. Vyjádření T-Mobile lze přeložit také (a především) tak, <strong>že v nejbližších třech letech nehodlá T-Mobile svou datovou nabídku nijak inovovat</strong>: zákazníci budou odkázáni na EDGE/GPRS, pokud zainvestují do slepé vývojové větve, tak na externí a s ničím neslučitelné krabičky hrdě, marketingově a lživě zvané Internet 4G. Jejich maximální rychlost je dnes 1 Mb/s a v nejbližším výhledu žádné rychlování není, navíc investice do nich není nepodstatná. 

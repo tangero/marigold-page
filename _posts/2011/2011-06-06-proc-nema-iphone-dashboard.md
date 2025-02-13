@@ -1,15 +1,25 @@
 ---
 ID: 2386
-title: Proč nemá iPhone dashboard
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Apple
+- iPhone
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-nema-iphone-dashboard
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-nema-iphone-dashboard
+
+  '
 post_date: 2011-06-06 11:08:03
-categories: [Apple, iPhone]
+post_excerpt: ''
+published: true
+summary_points:
+- iOS nemá dashboard kvůli zaměření na uživatele, pro které byl dashboard komplikovaný.
+- Dashboard představuje pro běžné uživatele shluk událostí bez třídění, což způsobuje
+  stres.
+- Apple ponechal třídění událostí na uživateli, který si sám vybírá, co chce vidět.
+- iOS ustupuje od absence dashboardu, protože jej používají i datoví profesionálové.
+title: Proč nemá iPhone dashboard
 ---
+
 Víte, proč nemá iPhone / iPad - tedy iOS platforma, dashboard, tedy takovou tu úvodní obrazovku, na které se sumarizuje, kdo vám právě volal, odkud vám přišel jaký email a kolik máte záznamů v kalendáři? 
 
 Je to poměrně zajímavý příběh. Všiml jsem si, že v recenzích to většinou recenzenti zmiňují jako zásadní zápor iOS platformy. Nemá dashboard, tím pádem se nehodí pro profesionální použití, je jen na šmrdlání prstíkem. Recenzent většinou před tím používal Palm nebo WinCE, kde dashboard je či může být a nyní mu chybí. 

@@ -1,15 +1,28 @@
 ---
 ID: 2618
-title: 'Zlatá éra weblogů 6: od blogů zpravodajských médií přes politblogy k&nbsp;Žít Krno'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Historie
+- Weblogy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zlata-era-weblogu-6-od-blogu-zpravodajskych-medii-pres-politblogy-k-zit-krno
-published: true
+oldlink: 'https://www.marigold.cz/item/zlata-era-weblogu-6-od-blogu-zpravodajskych-medii-pres-politblogy-k-zit-krno
+
+  '
 post_date: 2013-02-14 11:13:33
-categories: [Historie, Weblogy]
+post_excerpt: ''
+published: true
+summary_points:
+- Zpravodajské portály zpočátku nevěděly, jak s blogy pracovat, novináři je využívali
+  spíše jako zdroj.
+- Interní blogy v redakcích se neuchytily kvůli odporu redaktorů a potírání kritických
+  blogů.
+- SME na Slovensku v roce 2004 spustilo blogovací systém s redakčním výběrem příspěvků.
+- Aktuálně, iDnes a Lidové noviny v Česku zavedly politblogy, které ovlivňovaly veřejné
+  mínění.
+title: 'Zlatá éra weblogů 6: od blogů zpravodajských médií přes politblogy k&nbsp;Žít
+  Krno'
 ---
+
 <p>S blogy si z počátku české zpravodajské portály, natož papírová média, nevěděly rady. Novináři je sice nezřídka používali jako návodný zdroj informací či vysvětlení nebo jiného pohledu na popisovanou událost, zejména, když věděli, že blog píše insider, někdy též žádali blogera o oficiální článek pro své médium, ale jinak žádná spolupráce neexistovala.</p>
 
 

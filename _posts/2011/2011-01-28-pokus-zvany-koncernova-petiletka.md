@@ -1,15 +1,24 @@
 ---
 ID: 2372
-title: Pokus zvaný Koncernová pětiletka
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- eKnihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pokus-zvany-koncernova-petiletka
-published: true
+oldlink: 'https://www.marigold.cz/item/pokus-zvany-koncernova-petiletka
+
+  '
 post_date: 2011-01-28 22:16:16
-categories: [eKnihy]
+post_excerpt: ''
+published: true
+summary_points:
+- Elektronické knihy budou zkoušeny prakticky, včetně vydávání a hodnocení nákladů.
+- Kniha "Koncernová pětiletka" se dokončuje, zdržení způsobilo dopsání ztraceného
+  konce.
+- Cílem je zjistit náklady a práci s vydáním e-knihy bez DRM ochrany.
+- Autor chce zjistit prodejnost a míru "rozkrádání" e-knih.
+title: Pokus zvaný Koncernová pětiletka
 ---
+
 <p>Je to socialistický závazek pro letošek. Vyzkoušet elektronické knihy, povrtat se v jejich vydávání, udělat s tím zkušenosti. Přestat teoretizovat, vyzkoušet, spočítat, vyhodnotit. Myšlenková poznámka <a href="/kolik-by-mela-stat-digitalni-knizka-bez-drm-a">stran toho je zde</a>.</p>
 
 

@@ -1,16 +1,23 @@
 ---
 ID: 2179
-title: >
-  mBank má zatím vřelejší přijetí
-  než služby
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mbank-ma-zatim-vrelejsi-prijeti-nez-sluzby
-published: true
+oldlink: 'https://www.marigold.cz/item/mbank-ma-zatim-vrelejsi-prijeti-nez-sluzby
+
+  '
 post_date: 2007-12-02 11:35:15
+post_excerpt: ''
+published: true
+summary_points:
+- mBank získala popularitu díky nabídce bankovních služeb zdarma.
+- Levnější banka je management, zadarmo je vize internetové komunity.
+- České banky jsou rozežrané, bankovní historie je zbytečná.
+- Autor preferuje správu účtu online a nesnáší čísla účtů s pomlčkou.
+title: 'mBank má zatím vřelejší přijetí než služby
+
+  '
 ---
+
 Veřejných konferencí a vystoupení se už prakticky neúčastním, ale v pátek jsem měl něco dávno domluveného, takže jsem tam dorazil a pokoušel se uvést pár lidí do obrazu, jak internet mění svět. A kromě velmi poučné Apple iPhone LiIont story jsem vytáhl i příklad mBanky. 
 
 Povšimli jste si toho? Banka ještě nic sama o sobě neudělala, co by bylo na veřejnosti viditelné, kromě toho, že spustila reklamu, webové stránky s blogem a fórem. A přesto jí masa lidí vůkol drží palce. Neobvykle kladné přijetí nové banky způsobilo co? Logo s kytkou? Kdepak. Cena. Banka není levnější. Je zadarmo. Toť celé. <b>Levnější není totéž, co zadarmo. Být levnější je umění managementu, být zadarmo je vize a vizi má na rozdíl od managementu internetová komunita zvláště v oblibě.</b> 

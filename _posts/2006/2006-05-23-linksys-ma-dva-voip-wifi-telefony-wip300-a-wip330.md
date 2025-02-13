@@ -1,14 +1,21 @@
 ---
 ID: 1974
-title: 'Linksys má dva VoIP WiFi telefony: WIP300 a&nbsp;WIP330'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-ma-dva-voip-wifi-telefony-wip300-a-wip330
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-ma-dva-voip-wifi-telefony-wip300-a-wip330
+
+  '
 post_date: 2006-05-23 21:43:43
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys uvádí WiFi VoIP telefony WIP300 a WIP330, podporující SIP a VoWLAN.
+- WIP330 nabízí 2,2" LCD, webový prohlížeč pro hotspoty a 802.1x autentizaci.
+- Cena WIP300 je 220 USD, WIP330 stojí 370 USD a podporuje internetové video.
+- WIP330 je určen pro cestování díky podpoře přihlašování do různých sítí.
+title: 'Linksys má dva VoIP WiFi telefony: WIP300 a&nbsp;WIP330'
 ---
+
 <p>Linksys přichází na trh (samozřejmě ten americký zatím) se dvěma VoIP telefony, jež se připojují skrze WiFi. Není to žádná novinka, s VoIP WiFi telefony se roztrhl tak pytel, že už se jim muselo začít nějak šikovné říkat, což má být VoWLAN - jako Voice over Wireless LAN. Jenže Linksys, to je něco trošičku jiného, než asijská rychlofabrička - Linksys má jméno a Cisco v zádech. Navíc potřebovalo ukázat něco, s čím by vytřelo zrak NetGearu, an nedávno představil VoWLAN telefon podporující Skype (ještě se neprodává). Linksys samozřejmě podporuje SIP. </p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20060523-WIP330_med.jpg" alt="Linksys WIP330" width="190" height="285" /></div>

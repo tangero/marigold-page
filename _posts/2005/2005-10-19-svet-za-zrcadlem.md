@@ -1,14 +1,21 @@
 ---
 ID: 1852
-title: Svět za zrcadlem
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/svet-za-zrcadlem
-published: true
+oldlink: 'https://www.marigold.cz/item/svet-za-zrcadlem
+
+  '
 post_date: 2005-10-19 10:45:19
+post_excerpt: ''
+published: true
+summary_points:
+- Mac je "Světem za zrcadlem", jiný a lepší než PC svět.
+- Uživatel Macu čte jiné servery, stahuje jiné programy a řeší jiné problémy.
+- Mac nabízí jiné programy, které fungují lépe než ty na PC.
+- Výkon Macu je dobrý, umožňuje práci i během náročných operací.
+title: Svět za zrcadlem
 ---
+
 <p>Asi znáte Lewisovu Alenku za zrcadlem. Krajina za zrcadlem je pro nás symbolem jiného světa. Světa, který na první pohled vypadá skoro stejně, ale řada věcí tam funguje jinak. Objevujete je, zkoumáte, pokud jste se odhodlali zrcadlem projít. Pokud ne, stojíte před zrcadlem, dumáte nad svým světem a nemáte odvahu projít rámem, abyste poznali onu jinakost, o níž si čtete v dílech mystiků. </p>
 
 <p>Mac je pro peckaře tím Světem za zrcadlem. Rámem procházíte v okamžiku, kdy se na monitoru objeví místo zprohýbaného okenního rámu modrá usměvavá tvář, znak Mac OS. A pak už jste v jiném světě, který je podobný jen na ten nejpovrchnější pohled. Chvíli se po něm procházíte a vidíte, že je jiný, ale jiný k lepšímu. Otočíte se a díváte se skrze rám zpět, odkud jste přišli. Znovu je to svět, z vašeho pohledu teď svět za zrcadlem, jenže ne ta krajina divů a zázraků, z které jste přišli. Víte, že před sebou máte jíné problémy.  Asi tak podobně, jako Alenka - jestli si čokoládu máte dávat do kelímku nebo do kornoutku. Vidíte problémy, které jste nechali za sebou. </p>

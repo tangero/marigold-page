@@ -1,14 +1,21 @@
 ---
 ID: 2008
-title: 'O2TV má zajímavé funkce, ale cena slabá &#8211; žádná konkurence pro UPC'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/o2tv-ma-zajimave-funkce-ale-cena-slaba-zadna-konkurence-pro-upc
-published: true
+oldlink: 'https://www.marigold.cz/item/o2tv-ma-zajimave-funkce-ale-cena-slaba-zadna-konkurence-pro-upc
+
+  '
 post_date: 2006-09-05 09:34:25
+post_excerpt: ''
+published: true
+summary_points:
+- O2TV nabízí týdenní archiv pořadů a videopůjčovnu, což autora zaujalo.
+- Archiv pořadů O2TV by vyřešil zapomenuté nahrávání, ale obsah archivu je nejasný.
+- O2TV balíček je dražší než UPC (1517 Kč vs 999 Kč) včetně vnucené telefonní linky.
+- Autorovi O2TV nenabízí dostatečné výhody pro přechod od UPC kvůli ceně.
+title: O2TV má zajímavé funkce, ale cena slabá &#8211; žádná konkurence pro UPC
 ---
+
 <p>Pročítal jsem si materiály věnované IP televizi od O2 (zvané O2TV). Zaujaly mne dvě funkce: týdenní archív pořadů a videopůjčovna. </p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20060905-o2tv.png" alt="O2TV" width="208" height="213" /></div><p>Ačkoliv internetovou videopůjčovnu zatím velmi obstojně řeším z vlastních (a dosud neveřejných) zdrojů a řekl bych že s podstatně lepší nabídkou, archiv pořadů mne zaujal. O co jde. O2 slibuje, že si můžete vybrat pořady, které byly vysílány v televizi až sedm dní zpětně. To je prima, když si něco zapomenete nahrát. Mám pevnodiskový rekordér, ukládám si na něj spoustu toho, co mne zajímá a co si třeba nakonec ani nepustím, však se na něj vejde stovka hodin, jenže někdy něco zapomenu naprogramovat a jako na potvoru je to něco, co bych třeba chtěl vidět, nebo si to alespoň myslím. A takový archiv by se mi pak hodil. </p>

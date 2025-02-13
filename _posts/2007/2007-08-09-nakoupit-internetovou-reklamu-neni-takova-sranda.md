@@ -1,16 +1,23 @@
 ---
 ID: 2135
-title: >
-  Nakoupit internetovou reklamu není
-  taková sranda
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nakoupit-internetovou-reklamu-neni-takova-sranda
-published: true
+oldlink: 'https://www.marigold.cz/item/nakoupit-internetovou-reklamu-neni-takova-sranda
+
+  '
 post_date: 2007-08-09 08:43:47
+post_excerpt: ''
+published: true
+summary_points:
+- Stream spouští nový projekt s marketingovou podporou a rozpočtem.
+- PPC systémy jako Sklik a AdWords jsou pro masový zásah drahé.
+- Bannerová reklama se přepočítává na CPV, což odhaluje vysoké náklady.
+- Seznam nabízí největší zásah za výhodnějších podmínek než konkurence.
+title: 'Nakoupit internetovou reklamu není taková sranda
+
+  '
 ---
+
 Abych byl přesnější, nakoupit ji dobře není taková sranda. Než se začnete usmívat, že neumím používat Sklik a AdWords, trochu upřesním problém. 
 
 Na podzim spouštíme ve Streamu něco (a teď je jedno co), čemu chceme dát větší marketingovou podporu. K tomu přísluší rozpočet, z mého pohledu slušně velký, nikoliv ale dost velký na náhodnou střelbu do davu a plošné vykoupení čehokoliv. Teď se bavíme o online složce, offline kampaň ponechávám v úvaze stranou (bo ji řeší někdo jiný :).

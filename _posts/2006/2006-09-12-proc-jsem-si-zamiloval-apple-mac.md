@@ -1,14 +1,21 @@
 ---
 ID: 2011
-title: Proč jsem si zamiloval Apple Mac
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-jsem-si-zamiloval-apple-mac
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-jsem-si-zamiloval-apple-mac
+
+  '
 post_date: 2006-09-12 16:12:07
+post_excerpt: ''
+published: true
+summary_points:
+- Autor přešel na Mac OS X a nadchl pro něj mnoho dalších uživatelů.
+- Windows XP se postupem času staly nepředvídatelnými a zahlcenými viry.
+- Mac OS X je rebelský, produktivní a snadno se na něj přivyknout.
+- Mac stírá rozdíl mezi prací a zábavou, podporuje kreativitu uživatelů.
+title: Proč jsem si zamiloval Apple Mac
 ---
+
 <p>Na platformu Mac OS X jsem <a href="/item/tak-nejak-mi-vytekly-nervy-a-koupil-jsem-si-mac-mini">konvertoval vloni na podzim</a> a od té doby jsem přechod na tuhle platformu dokončil zcela.  Kromě osobního Mac Mini pro doma máme doma jeden notebook, Mac Book a v práci mám iMac 20“. Na to, jak jsem spokojený, se mne ptá v průběhu času celá řada lidí a vím minimálně o deseti, které jsem svým nadšením pro Mac strhnul k tomu, že také konvertovali. I čtenáři Marigolda se mne na to občas ptají a protože je chvíle času (pořád ležím s horečkou), tak se pokusím zcela subjektivně shrnout to, co mne na Mac platformě uchvátilo. Třeba to inspiruje i vás. </p>
 
 <p>Nejdříve něco disclaimerů. S počítači pracuji hoodně dlouho, od sálových přes CP/M a Geos na Commodore 64 jsem se před lety setkal i s Macintoshi. Tehdy jsme na nich sázeli noviny a dělali grafiku. Zaujaly, ale zlákat jsem se nenechal. Proplul jsem světem Solarisů, Amig a dalších legend. Dá se říci, že v oblasti operačních systémů mám ledasco nakoukáno. </p>

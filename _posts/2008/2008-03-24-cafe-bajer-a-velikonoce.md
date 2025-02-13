@@ -1,15 +1,23 @@
 ---
 ID: 2216
-title: 'Cafe Bajer a&nbsp;Velikonoce'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cafe-bajer-a-velikonoce
-published: true
+oldlink: 'https://www.marigold.cz/item/cafe-bajer-a-velikonoce
+
+  '
 post_date: 2008-03-24 14:27:53
-categories: [Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Pardubice jsou pro autora srdeční záležitostí, městem dětství a patriotství.
+- Café Bajer je doporučovaná kavárna vídeňského stylu s příjemnou atmosférou.
+- Halíkova srozumitelnost kontrastuje s nesrozumitelnými klišé arcibiskupa Graubnera.
+- Církev hovoří jazykem vzdáleným realitě a ztrácí srozumitelnost pro současníky.
+title: Cafe Bajer a&nbsp;Velikonoce
 ---
+
 Byl jsem na velikonoční svátky v Pardubicích za rodinou. A jestli si v Pardubicích nenechám něco ujít, tak je to <a href="http://www.cafebajer.cz/">Café Bajer</a>. Původně jsem se rozhodl jen o něm napsat letmou zmínku, protože jsem si dal závazek, čtouc poslední články, že bych tu mohl také napsat někdy něco pozitivního a pochvalného. A Café Bajer si to zaslouží. Jenže když už jsem tam seděl, tak mi to přišlo příliš jednoduché. 
 <!--more-->
 

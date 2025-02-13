@@ -1,14 +1,21 @@
 ---
 ID: 2104
-title: 'Jděte už s&nbsp;tím rebrandingem k&nbsp;šípku'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jdete-uz-s-tim-rebrandingem-k-sipku
-published: true
+oldlink: 'https://www.marigold.cz/item/jdete-uz-s-tim-rebrandingem-k-sipku
+
+  '
 post_date: 2007-05-10 07:51:44
+post_excerpt: ''
+published: true
+summary_points:
+- Rebranding zákazníky nezajímá, pokud se nezlepší služby.
+- Zaměstnanci firem se ztrácejí v rebrandingu společností.
+- Zhoršení služeb není ospravedlnitelné změnou brandu.
+- Likvidace kvalitních služeb po akvizici je smutný jev.
+title: Jděte už s&nbsp;tím rebrandingem k&nbsp;šípku
 ---
+
 Původně jsem chtěl napsat, aby s ním šli někam jinam, ale to se do nadpisu nehodí, je to příliš explicitní vyjádření názoru, přesvědčení. Dneska se rebranduje kde co. Stačí, aby si někdo koupil nějakou firmu a hned si myslí, že zákazníci "benefitovat ze sjednoceného brandu". Zákazníkům je to ale fuck. 
 
 Příkladmo sousedka. Přišla se onehdá poradit, že asi něco hrozného provedla, protože jí najednou Telekom přestal posílat vyúčtování. Jak by ne, začalo jí ho posílat O2, jenže tomu nějak nevěnovala pozornost, protože ty nezná a když v televizi šla seznamovací kampaň bublinek, tak šla prohodit prádlo z pračky do sušičky. Kromě poznatku, že jí pračka pere zatraceně rychle, protože reklamy jdou dneska už po dvaceti minutách, je z toho docela zásadní poznatek, že je jí nadnárodní brand naprosto ukradený. Naprosto. 

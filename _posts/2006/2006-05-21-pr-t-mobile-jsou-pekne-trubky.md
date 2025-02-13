@@ -1,14 +1,21 @@
 ---
 ID: 1972
-title: PR T-Mobile jsou pěkné trubky
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pr-t-mobile-jsou-pekne-trubky
-published: true
+oldlink: 'https://www.marigold.cz/item/pr-t-mobile-jsou-pekne-trubky
+
+  '
 post_date: 2006-05-21 21:28:35
+post_excerpt: ''
+published: true
+summary_points:
+- Britský T-Mobile zakázal VoIP a IM, hrozil ukončením smlouvy při používání.
+- T-Mobile zdůvodnil zákaz nedostatečnou kvalitou VoIP a IM služeb.
+- Operátoři sabotují IM kvůli dopadu na příjmy z SMS zpráv.
+- Síť 3 Hutchison naopak Skype podporuje a předinstalovává.
+title: PR T-Mobile jsou pěkné trubky
 ---
+
 <p>Hned musím předeslat, že řeč je o britském T-Mobile, ne o tom českém. Britský T-Mobile totiž se spuštěním služby  web ‘n’ walk do jeho 3G HSDPA sítě prohlásil, že používání služeb instantních zpráv (IM jako ICQ, AIM atd) nebo VoIP je důvodem k rozvázání smlouvy:</p>
 
 	<blockquote><p>

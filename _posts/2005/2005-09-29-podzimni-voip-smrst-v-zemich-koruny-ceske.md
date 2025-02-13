@@ -1,14 +1,22 @@
 ---
 ID: 1835
-title: 'Podzimní VoIP smršť v&nbsp;Zemích koruny České'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/podzimni-voip-smrst-v-zemich-koruny-ceske
-published: true
+oldlink: 'https://www.marigold.cz/item/podzimni-voip-smrst-v-zemich-koruny-ceske
+
+  '
 post_date: 2005-09-29 16:28:57
+post_excerpt: ''
+published: true
+summary_points:
+- VoIP trh v Česku zažívá rozmach, související s Invexem a úspěchem Skype.
+- MůjTelefon.cz nabízí VoIP s paušálem 50 Kč za příchozí číslo a hlasovou schránku.
+- Ha-loo od ha-vel umožňuje zdarma otestovat kvalitu služby na 15 minut.
+- EriVoIP od Českého bezdrátu bude dostupná od 1. října s vlastní nabídkou.
+- UPC připravuje internetovou telefonii, možná i bez internetové přípojky.
+title: Podzimní VoIP smršť v&nbsp;Zemích koruny České
 ---
+
 <p>Ještě jsme se nestihli řádně pomodlit za svatého Václava (současníky přezdívaného <i>Ptáčníkův poskok</i>) a už tu máme další záplavu novinek v české internetové telefonii. Předpokládám, že smršť souvisí s chystáním na Invex a s tím, že dneska VoIP představuje každý, povzbuzen úspěchem Skype, coby investici do budoucna. </p>
 
 <p>Ponejprv <strong><a href="http://www.mujtelefon.cz/">MůjTelefon.cz</a> </strong>- hezky navržená služba VoIP, bohužel s paušálem 50 Kč měsíčně za příchozí číslo (nemusíte si ho objednávat), což je už dneska přeci jen trochu out. Jinak má velmi příjemné ceny a hlasovou schránku. Volání ve vlastní síti zdarma (zatím žádný peering s jinými VoIP)a nabídku adaptérů a telefonů. Provozuje společnost Canistec. </p>

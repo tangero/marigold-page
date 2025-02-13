@@ -1,14 +1,21 @@
 ---
 ID: 2029
-title: Spam prorazil až na titulku
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/spam-prorazil-az-na-titulku
-published: true
+oldlink: 'https://www.marigold.cz/item/spam-prorazil-az-na-titulku
+
+  '
 post_date: 2006-10-25 10:32:26
+post_excerpt: ''
+published: true
+summary_points:
+- Spam pronikl na titulní stránku Marigolda, autor nechápe jeho současnou podobu.
+- WordPress je odzkoušený, ale autor se zdráhá k němu přejít z Blog:CMS.
+- PublicSquare je testovaný systém pro spolupráci, ale má omezení instalace.
+- Stream má prioritu, takže vývoj Marigolda se zpomalí, i přes nový design.
+title: Spam prorazil až na titulku
 ---
+
 <texy><p>Ach jo. Přísun spamu na Marigolda neustává a včera se jeden probojoval dírou v systému až na titulní stránku mezi články. Co naplat, mea culpa. </p>
 
 <p>Po pravdě, moderní spam moc nechápu. Není v něm žádná informace, kterou by se mi podařilo dešifrovat a která by mne navedla na nějaký produkt, neřku-li web. K čemu takový spam je, chápe to někdo? Když už je v něm URL, tak vede na neexistující stránku, která ani nebyla nikdy registrovaná. Co mi uniklo ve spamerských metodách?</p>

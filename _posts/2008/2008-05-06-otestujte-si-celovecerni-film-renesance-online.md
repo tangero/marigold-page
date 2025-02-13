@@ -1,15 +1,23 @@
 ---
 ID: 2227
-title: 'Otestujte si: celovečerní film Renesance online'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/otestujte-si-celovecerni-film-renesance-online
-published: true
+oldlink: 'https://www.marigold.cz/item/otestujte-si-celovecerni-film-renesance-online
+
+  '
 post_date: 2008-05-06 19:20:14
-categories: [Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Konfigurace balanceru způsobila chyby testerů, nyní je opravena.
+- Stream.cz testuje inteligentní distribuci celovečerního filmu online.
+- Používají Flash s H.264 pro plynulé přehrávání a streaming.
+- Žádají uživatele o zpětnou vazbu na funkčnost a komfort přehrávání.
+title: 'Otestujte si: celovečerní film Renesance online'
 ---
+
 <b>Update:</b> našli jsme chybu, kvůli které nám to vyhazovalo testery. Poté, co jsme všechno rozkopali, se ukázalo, že u jedné komponenty jsme špatně zkopírovali konfiguraci balanceru a ten nám vyhazoval uživatele. Už jest to opraveno, takže: 
  
 A máme tu pravidelnou testovačku pro natěšené experimentátory s videem. Úkol: jak inteligentně distribuovat celovečerní film po internetu v dostatečné kvalitě a komfortu. <a href="http://www.stream.cz/?m=stream&a=static&page_url=renesance">Naše řešení je zde ve formě technického testu</a> ... není to ostrý provoz, jen chceme na zkušenějších uživatelích netu (=vás) vyzkoušet, co na to říkáte. Takže než tam vlezete, možná si přečtěte následující.

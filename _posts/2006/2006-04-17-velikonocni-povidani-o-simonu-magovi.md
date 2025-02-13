@@ -1,14 +1,21 @@
 ---
 ID: 1961
-title: 'Velikonoční povídání o&nbsp;Šimonu Mágovi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/velikonocni-povidani-o-simonu-magovi
-published: true
+oldlink: 'https://www.marigold.cz/item/velikonocni-povidani-o-simonu-magovi
+
+  '
 post_date: 2006-04-17 07:11:36
+post_excerpt: ''
+published: true
+summary_points:
+- Článek pojednává o Šimonu Mágovi, významné postavě duchovního světa.
+- Šimon Mág byl současníky považován za Velikého, konal divy a zázraky.
+- Pavel z Tarsu zřejmě likvidoval Šimonovský mýtus a šířil kristovskou legendu.
+- Apokryfní Skutky Petrovy líčí Šimonovu smrt po pádu z výšky v Římě.
+title: Velikonoční povídání o&nbsp;Šimonu Mágovi
 ---
+
 <p><strong>Update:</strong> <i>ego sum stultus.</i> Úplně jsem zapoměl napsat, proč jsem tento článek vůbec smolil. Důvody jsou dva, oba publikačního charakteru. Ponejprv na počest vydání překladu apokryfního <a href="http://www.national-geographic.cz/detail.asp?id=1160">Evangelia podle Jidáše</a>. 	Podle mne poměrně průlomového. Překlad je z koptštiny do en/fr/de - zkoušel jsem to přeložit do češtiny, ale došla mi chuť a baterka do notebooku. A druhá událost je vydání českého překladu knihy The Traveller - <a href="http://www.daemon.cz/kniha/6077/hawks-john-twelve-poutnik.htm">Poutník</a>. Zatímco Jidášovo evangelium asi pravděpodobně bude nad vaši chuť se věnovat křesťanské gnosi, Poutníka si kupte a přečtěte. A neptejte se mne proč, to pochopíte, až ho dočtete.</p>
 
 <p>K velikonočním svátkům toho vychází mnoho. Můžete se na ně podívat optikou vtípku v MF DNES, v němž se praví, že "duchovní rozměr velikonoc je v porovnání s vánocemi zhruba poloviční, co se hrubých tržeb týká". Můžete se dočíst o zvěstovaném poselství Bible a oběti vykoupení, což v ateistickém Česku je půvabné. Můžete si škodolibě počíst o tom, z jakých "pohanských" svátků velikonoce vycházejí. Jenže to bych nebyl já, abych vám jen stručně popřál Veselé   Velikonoce a nechal vás tomu tradičnímu pojetí. I tentokrát opráším témata a jména, na které se v této souvislosti rádo zapomíná. </p>

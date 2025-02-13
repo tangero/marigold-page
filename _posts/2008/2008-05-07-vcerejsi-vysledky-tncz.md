@@ -1,15 +1,25 @@
 ---
 ID: 2233
-title: Včerejší výsledky Tn.cz
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
+- Nova
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vcerejsi-vysledky-tncz
-published: true
+oldlink: 'https://www.marigold.cz/item/vcerejsi-vysledky-tncz
+
+  '
 post_date: 2008-05-07 07:49:52
-categories: [Média, Nova]
+post_excerpt: ''
+published: true
+summary_points:
+- Návštěvnost Tn.cz 6.5.2008 dosáhla 248 681 reálných uživatelů a 3,99 milionů zobrazených
+  stránek.
+- Oproti předchozímu dni Tn.cz zaznamenalo mírný pokles v počtu uživatelů i zobrazení.
+- Autor neviděl TV kampaň Tn.cz a zajímá ho její vliv na online návštěvnost.
+- Offline propagace online verze v konkurenci se v Česku zatím nikomu nepovedla.
+title: Včerejší výsledky Tn.cz
 ---
+
 Když odmyslím, že komentáře na Tn.cz byly veskrze negativní, stojí za to se podívat na výsledky Tn.cz v ohledu návštěvnosti. Ty totiž byly vesrkze positivní a jako prohnaný webista bych radši bral návštěvnost, než kladné ohlasy... 
 
 Takže za 6.5.2008 podle Netmonitoru:

@@ -1,15 +1,24 @@
 ---
 ID: 2478
-title: 'Zlatá éra weblogů I. &#8211; počátky weblogů v&nbsp;Česku'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Historie internetu
+- Weblogy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zlata-era-weblogu-i-pocatky-weblogu-v-cesku
-published: true
+oldlink: 'https://www.marigold.cz/item/zlata-era-weblogu-i-pocatky-weblogu-v-cesku
+
+  '
 post_date: 2012-08-08 09:26:02
-categories: [Historie internetu, Weblogy]
+post_excerpt: ''
+published: true
+summary_points:
+- Bloguje.cz, vlivný český blogovací systém, ukončil provoz po letech stagnace.
+- Neviditelný pes Ondřeje Neffa byl patrně prvním českým blogem (před rokem 2003).
+- Google koupil Blogger v roce 2003, což podnítilo zájem o blogování.
+- Bloguje.cz založil Martin Malý v roce 2003, rychle si získal komunitu.
+title: Zlatá éra weblogů I. &#8211; počátky weblogů v&nbsp;Česku
 ---
+
 <p>Tichý skon českého blogovacího systému Bloguje.cz připomněl, že blogování jako fenomén internetové publicistiky je tu s námi už docela dlouho. Zažil strmý vzestup plný nadějí ve zrod občanské žurnalistiky, pak vystřízlivění, kdy se ukázalo, že novinářem nebude každý, kdo sežene klávesnici, pak vytlačování sociálními sítěmi a nakonec - a asi i u nás - prožívá určitou renesanci.</p>
 
 

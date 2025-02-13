@@ -1,15 +1,25 @@
 ---
 ID: 2362
-title: 'Marigoldí léta v&nbsp;elektronické podobě'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Knihy
+- eBook
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/marigoldi-leta-v-elektronicke-podobe
-published: true
+oldlink: 'https://www.marigold.cz/item/marigoldi-leta-v-elektronicke-podobe
+
+  '
 post_date: 2010-06-22 09:21:37
-categories: [Knihy, eBook]
+post_excerpt: ''
+published: true
+summary_points:
+- Marigoldí léta, pětiletý souhrn blogu, byla původně zamýšlena jako samopublikace.
+- PDF Marigoldích let nebylo vhodné ke čtení, proto autor oslovil Palmknihy.
+- Palmknihy vytvořily elektronickou verzi Marigoldích let ke stažení zdarma.
+- Autor pracuje na dopsání Příběhu strýčka Martina po večerech.
+- Tištěná verze Marigoldích let nebude, šlo o výroční záležitost.
+title: Marigoldí léta v&nbsp;elektronické podobě
 ---
+
 <p>Kniha Marigoldí léta byla pětiletým souhrnem toho zajímavějšího, co jsem zde na Marigolda napsal. A pokusem o samopublikaci, s jehož výsledky jsem se chtěl podělit. Nicméně doba byla turbulentní, na podělení se o výsledky nedošlo skrzevá naléhavější problémy a dnes už by asi ty dojmy byly zastaralé.</p>
 
 <p>Původně jsem PDF Marigoldích let chtěl dát ku stažení zdarma, jenže jak bylo připravené pro tisk knihy, na čtení to bylo nevhodné kvůli formátu a řazení stránek. Nu a na přepracování čas nebyl. Až teď jsem to vyřešil šalamounsky. Původní zdrojový Word jsem poslal Jirkovi Vlčkovi na Palmknihy a on to celé přeložil do elektronicky knižních formátů a můžete si stáhout tu <a href="http://palmknihy.cz/www/?BOOK=3899">správnou verzi Marigoldích let z Palmknih zde</a>. Co mne mrzí, že se mi nepodařilo vygenerovat verzi s přeložitelným obsahem, obsah by se zrovna v téhle knížce fakt hodil. Ještě uvidíme, zda se to podaří. Myslím samozřejmě obsah, kde kliknete na položku a ve čtečce vám to skončí na to správné místo.</p>

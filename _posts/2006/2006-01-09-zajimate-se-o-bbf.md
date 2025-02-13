@@ -1,14 +1,21 @@
 ---
 ID: 1908
-title: 'Zajímáte se o&nbsp;BBF?'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zajimate-se-o-bbf
-published: true
+oldlink: 'https://www.marigold.cz/item/zajimate-se-o-bbf
+
+  '
 post_date: 2006-01-09 19:38:59
+post_excerpt: ''
+published: true
+summary_points:
+- 'BBF dotace: Hodnocení žádostí probíhá, polovina projektů vyřazena pro závažné nedostatky.'
+- Autor plánuje psát o vítězných projektech BBF, analyzovat důvody jejich úspěchu.
+- Dotace jsou vnímány jako investice státu, která se vrací formou daní a rozvoje.
+- Cílem BBF je podpořit rozvoj internetu v zaostalých oblastech a ukázat jeho výhody.
+title: Zajímáte se o&nbsp;BBF?
 ---
+
 <p><strong>Noname píše:</strong> Minulé články o BBF sklidily rozporuplné reakce, až jsem o tom pak přestal publikovat vůbec. Chtěl jsem původně psát detailně, k čemu budou primárně dotace určené, dát návod (možná i vzor) na vyplnění žádosti, na co si dávat pozor atd., ale za ty nadávky mi to nestálo, kdo chtěl, mohl si zavolat na MIČR, nebo to zvládl sám, takových bylo 300, takže to evidentně šlo.</p>
 
 

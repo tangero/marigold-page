@@ -1,14 +1,21 @@
 ---
 ID: 2031
-title: Betaverze nového Marigolda
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/betaverze-noveho-marigolda
-published: true
+oldlink: 'https://www.marigold.cz/item/betaverze-noveho-marigolda
+
+  '
 post_date: 2006-11-01 13:17:56
+post_excerpt: ''
+published: true
+summary_points:
+- Web Marigold po migraci na Wordpress čeká nový design, autor jej sám vytvořil.
+- Autor plánuje přesun serverů Marigold na vlastní hardware, konkrétně na Mac Mini.
+- Mac Mini jako server je zajímavá varianta, zvažuje se Tiger OS X Server a USB Flash.
+- Česká verze Wordpressu od Accida získala certifikaci Marigold, web ji používá.
+title: Betaverze nového Marigolda
 ---
+
 <texy>Správný web má být pořád beta, má se na něm stále něco dít a ideálně má být co nejvíce rozbořený. NoName zdárně dokončil transporty potřebných dat z Blog:CMS/Nucleusu do Wordpressu, jak vidno na new.marigold.cz. Tím ale legrace nekončí, ba právě naopak.
 
 Tak ponejprv já musím vytvořit design. Ten už mám, sám jsem si ho patlal. Já vím, že mi řeknete, že je mizerný, ale je můj. Zelený pruh dělící články nebude zelený Japan, když to ve firmě zmerčil, chytnul barvu toho pruhu do tváře a děl, že toho snad nemůžu myslet vážně. Nu, ne že bych nemyslel, ale předělám to na jinou barvičku.

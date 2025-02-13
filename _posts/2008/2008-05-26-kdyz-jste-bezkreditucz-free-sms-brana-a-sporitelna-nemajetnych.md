@@ -1,15 +1,24 @@
 ---
 ID: 2240
-title: 'Když jste Bezkreditu.cz &#8211; free SMS brána a&nbsp;spořitelna nemajetných'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
+- SMS
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdyz-jste-bezkreditucz-free-sms-brana-a-sporitelna-nemajetnych
-published: true
+oldlink: 'https://www.marigold.cz/item/kdyz-jste-bezkreditucz-free-sms-brana-a-sporitelna-nemajetnych
+
+  '
 post_date: 2008-05-26 20:14:14
-categories: [Mobilní sítě, SMS]
+post_excerpt: ''
+published: true
+summary_points:
+- Bezkreditu.cz je esemesková brána zdarma s originálním designem a morseovkou.
+- O2 web Bezkreditu.cz využívá k propagaci výhod tarifů oproti předplaceným kartám.
+- O2 dříve obtížně komunikovalo výhody mladým, což měly změnit tarify Cool a Neon.
+- Kampaň O2 s Bezkreditu.cz je experiment, jak oslovit mladé internetem.
+title: Když jste Bezkreditu.cz &#8211; free SMS brána a&nbsp;spořitelna nemajetných
 ---
+
 Chvilku to vypadalo na takový hezký pirátský projektík, pak zase na reklamní kampaň O2 upozorňující na výhody přechodu od předplacených karet k tarifům. Respektive konkrétně na ten nový O2 Cool tarif, kde je za 250 Kč paušálu esemeskování v síti O2 zdarma. Mluvím o serveru <a href="http://www.bezkreditu.cz/">Bezkreditu.cz</a>. A ani jedna varianta není špatně.  
 
 Bezkreditu.cz jako esemesková brána zdarma je hezky udělaná aplikace, kde si vyberete nosiče své SMS zprávy (třeba láhev hozenou do moře, nebo sukničkářského holuba Artura (jako by Arturovi Dentovi z oka vypadl, co tím kdo chtěl říct?). A zprávu odešlete, ona dojde podle toho, jakým způsobem jste ji poslali. Když ji pošlete morzeovkou, přijde jako tečkačárka ... a buď cool, pro morzeovkované zprávy tu mají i zpětný překladač. Akorát opisovat to z displeje bude asi pěkná pruda. 

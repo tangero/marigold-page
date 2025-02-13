@@ -1,15 +1,23 @@
 ---
 ID: 2349
-title: 'mBank po&nbsp;třech letech kokršpanělství'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Banky
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mbank-po-trech-letech-kokrspanelstvi
-published: true
+oldlink: 'https://www.marigold.cz/item/mbank-po-trech-letech-kokrspanelstvi
+
+  '
 post_date: 2010-04-19 14:36:46
-categories: [Banky]
+post_excerpt: ''
+published: true
+summary_points:
+- mBank má velmi dlouhé číslo účtu, což komplikuje jeho diktování.
+- Zahraniční platby nejsou v mBank funkční, pouze přes PayPal.
+- Platby z mBank nezobrazují jméno majitele účtu, komplikují párování.
+- mBank je zdarma, ale má slabiny, výběry v zahraničí jsou výhodné do 2500 Kč.
+title: mBank po&nbsp;třech letech kokršpanělství
 ---
+
 mBank rád používám, když dávám příklad na školeních, jak prostřednictvím sociálně síťového marketingu udělat z vachrlaté služby službu dobře přijímanou. Z mnoha dobrých důvodů. Když se na mBanku podíváte, je to s ní po všech stránkách divné. Partička z Polska, která tu podniká na nějakou eurounijní licenci, když už tu máme jejich mateřskou banku. Hromada slibů, které se neplní - a stejně to lidem žíly netrhá. Proč se podobný WOW efekt nepodařil českému FIO? Jen proto, že je to kampelička, se kterými nebyly před deseti lety dobré zkušenosti? To asi ne, polské produkty také neslují kvalitou. Ano, byl to dobře zvládnutý sociální marketing. PS: níže uvedené se týká <strong>mBank českého</strong>, neznám slovenský ani jiný...
 
 Kdysi jsem <a href="/mbank-realne-zkusenosti-s-uctem">mBanku na Marigoldovi recenzoval</a> je čas přidat update. 

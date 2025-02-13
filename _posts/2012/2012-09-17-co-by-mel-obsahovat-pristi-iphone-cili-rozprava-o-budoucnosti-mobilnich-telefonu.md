@@ -1,15 +1,25 @@
 ---
 ID: 2517
-title: 'Co by měl obsahovat příští iPhone čili rozprava o&nbsp;budoucnosti mobilních telefonů'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- iPhone
+- Apple
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/co-by-mel-obsahovat-pristi-iphone-cili-rozprava-o-budoucnosti-mobilnich-telefonu
-published: true
+oldlink: 'https://www.marigold.cz/item/co-by-mel-obsahovat-pristi-iphone-cili-rozprava-o-budoucnosti-mobilnich-telefonu
+
+  '
 post_date: 2012-09-17 10:29:06
-categories: [iPhone, Apple]
+post_excerpt: ''
+published: true
+summary_points:
+- iPhone 2007 způsobil revoluci komfortním internetem a rozšiřitelností aplikací.
+- NFC platby nejsou průlom, protože nenabízí zásadní výhody oproti stávajícím metodám.
+- Latentní potřeby mobilů jsou lepší vstupní/výstupní zařízení a delší výdrž baterie.
+- Současné technologie pro displeje a baterie nepřináší revoluční zlepšení, jen dílčí.
+title: Co by měl obsahovat příští iPhone čili rozprava o&nbsp;budoucnosti mobilních
+  telefonů
 ---
+
 <p> Když v roce 2007 na trh přicházel iPhone, způsobil revoluci a proměnil od základů trh. Když byl letos představen iPhone 5, řada komentátorů včetně mne prohlásila, že je spíše očekávaným telefonem (případně rovnou zklamáním). Čekalo se více. Jenže... co? Co by mohl nový iPhone (a obecně jakýkoliv mobil) mít, aby byl <strong><em>další revolucí v mobilech</em></strong>?</p>
 
 

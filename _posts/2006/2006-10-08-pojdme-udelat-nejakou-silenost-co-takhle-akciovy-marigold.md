@@ -1,16 +1,23 @@
 ---
 ID: 2020
-title: >
-  Pojďme udělat nějakou šílenost. Co
-  takhle akciový Marigold?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pojdme-udelat-nejakou-silenost-co-takhle-akciovy-marigold
-published: true
+oldlink: 'https://www.marigold.cz/item/pojdme-udelat-nejakou-silenost-co-takhle-akciovy-marigold
+
+  '
 post_date: 2006-10-08 10:09:31
+post_excerpt: ''
+published: true
+summary_points:
+- Autor uvažuje o "šílenosti" s Marigoldem, podobně jako kdysi s Mobil serverem.
+- Pro Mobil server navrhoval prodej akcií malým akcionářům, což se nerealizovalo.
+- Autorovi chybí technický server sledující trendy, ne zaměřený na spotřební zboží.
+- Navrhuje nový server s autory jako akcionáři, odměňovanými dle čtenosti článků.
+title: 'Pojďme udělat nějakou šílenost. Co takhle akciový Marigold?
+
+  '
 ---
+
 <p>Delší dobu mi straší v hlavě udělat nějakou šílenost. Já vím, že naše pondělní oznamka bude trochu šílenost, jenže z obchodního hlediska je to taková... klasika.</p>
 
 <p>Před pár lety, když jsme přemýšleli, co udělat s Mobil serverem, mne jedna taková správná šílenost napadla. Říkal jsem si, že by bylo fajn další peníze na rozvoj serveru získat tím, že prodáme akcie malým akcionářům. Prostě si na serveru objednáte jednu akcii třeba za tisícovku. Přijde vám krásný kus papíru, vy si ho dáte do rámečku a na zeď a každý den si čtete "svůj server" a víte, jaký k němu máte vztah. Došlo to tak daleko, že jsem sháněl tiskárnu na ty akcie, ale pak mne kluci přesvědčili, že bubliny je třeba využít. A měli pravdu, i když jen finančně, z hlediska serveru to byla škoda. </p>

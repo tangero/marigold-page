@@ -1,15 +1,24 @@
 ---
 ID: 2832
-title: 'Abychom se vrátili k&nbsp;matematice digitální versus papírové knihy'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- eKnihy
+- Knihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/abychom-se-vratili-k-matematice-digitalni-versus-papirove-knihy
-published: true
+oldlink: 'https://www.marigold.cz/item/abychom-se-vratili-k-matematice-digitalni-versus-papirove-knihy
+
+  '
 post_date: 2011-03-11 11:30:30
-categories: [eKnihy, Knihy]
+post_excerpt: ''
+published: true
+summary_points:
+- Papírová kniha by autorovi vynesla 15 Kč, elektronická verze 59 Kč.
+- Prodej 70 e-knih pokryje autorovy náklady na korekturu.
+- Stejný zisk jako 2000 papírových knih přinese 580 e-knih.
+- Autor zvažuje, zda se prodá 600 e-knih beletrie ročně.
+title: Abychom se vrátili k&nbsp;matematice digitální versus papírové knihy
 ---
+
 Nakouslo se to v komentářích <a href="/pane-pistorie-bojujete-za-vydavatele-ne-za-autory">pod článkem o patro níže</a>. A protože jsem si to stejně chtěl hrubě propočítat a o komentáře jsem při přenosu článku přišel, sesumírujme si to a udělejme to s tím, že jde o hrubý propočet a bude zajímavé sledovat, čím se v praxi zjemní (a/nebo pojebe).
 
 Koncernová pětiletka v papírové verzi by stála cca 150-200 Kč dle odvahy vydavatele. Za stávající sazby DPH bych dostal od průměrně naladěného vydavatele cca. řekněme těch 15 Kč. 

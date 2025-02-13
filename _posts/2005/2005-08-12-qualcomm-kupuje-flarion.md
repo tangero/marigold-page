@@ -1,14 +1,21 @@
 ---
 ID: 1768
-title: Qualcomm kupuje Flarion
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/qualcomm-kupuje-flarion
-published: true
+oldlink: 'https://www.marigold.cz/item/qualcomm-kupuje-flarion
+
+  '
 post_date: 2005-08-12 15:45:01
+post_excerpt: ''
+published: true
+summary_points:
+- Qualcomm kupuje Flarion za 600 milionů dolarů, s možným bonusem 205 milionů.
+- Flarion je konkurentem Qualcommu v pásmu 450 MHz a v technologii OFDMA.
+- OFDMA technologie Flarionu je klíčová pro budoucí sítě 4G a digitální TV.
+- Šéf Flarionu, Andrew Viterbi, je spoluzakladatelem Qualcommu z roku 1985.
+title: Qualcomm kupuje Flarion
 ---
+
 <p>Pokud byste přemýšleli, co bude s Flarionem, jehož sítě zatím nikde nepokročily daleko přes testovací provoz, bude vás to možná zajímat. Americký Qualcomm kupuje firmu Flarion za 600 milionů dolarů, kombinovaně v hotovosti a v akciích. Pokud Flarion dosáhne určitých cílů, vyplatí za něj Qualcomm ještě dalších 205 milionů dolarů bonus.</p>
 
 <p>Copak se to děje? (Qualcomm oficiálně žádný nesdělil). </p>

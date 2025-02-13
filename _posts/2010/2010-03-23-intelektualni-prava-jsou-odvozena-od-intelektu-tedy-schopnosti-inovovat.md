@@ -1,17 +1,28 @@
 ---
 ID: 2344
-title: >
-  Intelektuální práva jsou odvozena od
-  intelektu, tedy schopnosti inovovat
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Autorská práva
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/intelektualni-prava-jsou-odvozena-od-intelektu-tedy-schopnosti-inovovat
-published: true
+oldlink: 'https://www.marigold.cz/item/intelektualni-prava-jsou-odvozena-od-intelektu-tedy-schopnosti-inovovat
+
+  '
 post_date: 2010-03-23 12:26:05
-categories: [Autorská práva]
+post_excerpt: ''
+published: true
+summary_points:
+- Intelektuální práva jsou moderní právní konstrukt, uměle vytvořený a z dlouhodobé
+  perspektivy nefunkční.
+- Středověká intelektuální práva byla odvozena od schopnosti inovovat, nikoliv od
+  právní úpravy.
+- Autorskoprávní průmysl vznikl s rozvojem rozhlasu a fonoprůmyslu, generuje zisk
+  hlavně sobě.
+- Zrušení autorských práv by trh zvětšilo, příjmy by se rozptýlily mezi více subjektů.
+title: 'Intelektuální práva jsou odvozena od intelektu, tedy schopnosti inovovat
+
+  '
 ---
+
 Intelektuální práva ve vztahu k internetu a svobodné společnosti jsou pojmem přetřásaným ve všech pádech. Už samotný jeho anglický základ *Intellectual property rights* zní skoro hrozivě. Práva intelektuálního vlastnictví jsou v poslední době vydávána za nedotknutelnou součást každodenního života. Peněženku byste neukradli, film taky neukradnete, hypnotizují vaše alfavlny reklamy před každým drahým filmem. Nechali jste se zmást. Podvést. Kopírováním film nekradete. Kopírováním ho... hm, přesně tak. *Kopírujete*. 
 
 

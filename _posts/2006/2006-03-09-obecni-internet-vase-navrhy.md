@@ -1,14 +1,21 @@
 ---
 ID: 1942
-title: 'Obecní internet &#8211; vaše návrhy'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/obecni-internet-vase-navrhy
-published: true
+oldlink: 'https://www.marigold.cz/item/obecni-internet-vase-navrhy
+
+  '
 post_date: 2006-03-09 23:20:47
+post_excerpt: ''
+published: true
+summary_points:
+- Diskuse se rozjela pod článkem o obecním internetu zdarma.
+- Autor shrnuje návrhy z diskuse a přidává k nim otázky.
+- Návrhy zahrnují výběrové řízení, financování obcí, a volnou konkurenci.
+- Další návrhy se týkají pokrytí náměstí, snížení daní, a spolupráce s ISP.
+title: Obecní internet &#8211; vaše návrhy
 ---
+
 <p>
   <strong>Noname píše:</strong>
   Vaše diskuse

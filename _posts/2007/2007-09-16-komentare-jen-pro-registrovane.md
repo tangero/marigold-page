@@ -1,14 +1,21 @@
 ---
 ID: 2149
-title: Komentáře jen pro registrované
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/komentare-jen-pro-registrovane
-published: true
+oldlink: 'https://www.marigold.cz/item/komentare-jen-pro-registrovane
+
+  '
 post_date: 2007-09-16 16:39:57
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold dříve navštěvovalo málo lidí, kteří promýšleli své komentáře.
+- Autor zvažoval Marigold pouze pro registrované a pozvané čtenáře kvůli anonymitě.
+- Registrace na Marigold byla zavedena, komentáře budou mazány dle uvážení autora.
+- Autor vnímá zavedení registrace jako kampaň za slušnější internet.
+title: Komentáře jen pro registrované
 ---
+
 Bývaly časy, kdy na Marigold chodilo málo lidí a před tím, než něco napsali do komentářů, si to důkladně rozmysleli. Ty časy jsou bohužel pryč. Pokud si vzpomínáte, tak před nějakým rokem jsem přemýšlel o tom, že Marigold bude jen pro registrované a pozvané čtenáře. Jelikož mne návštěvnost neživí a netrápí, mělo to své opodstatnění, protože něco jiného je diskutovat s konkrétními lidmi a něco jiného je čelit anonymnímu davu. To člověka (=autora webu =mne) rychle omrzí. Hlavně proto, že to člověku nic nedává. Anonymita v tomto případě je jednosměrná. Vám napíšou, že jste debil, ale vy tohle odpovědět nemůžete, aby hned na dalších serverech nezačla partička debílků rozebírat, jak si můžete dovolit o někom prohlásit, že je debil. 
 
 Marigold na pozvánky a registrace ztroskotal na tom, že k tomu nakonec není soft. Bez toho to zjevně nefunguje. Příkladmo Pixy si udělal blog, který rozeslal pár známým a zamýšlel ho jen pro ně. A stejně se to vykecalo a leze tam zase kdekdo. Ano, stále bych radši, kdyby se vrátily časy ranného Marigolda, kdy jsem všech pár čtenářů znal jménem a oni zase na oplátku mne.

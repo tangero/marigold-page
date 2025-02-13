@@ -1,16 +1,23 @@
 ---
 ID: 2001
-title: >
-  Jaké služby byste čekali od České
-  pošty?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jake-sluzby-byste-cekali-od-ceske-posty
-published: true
+oldlink: 'https://www.marigold.cz/item/jake-sluzby-byste-cekali-od-ceske-posty
+
+  '
 post_date: 2006-08-16 10:45:18
+post_excerpt: ''
+published: true
+summary_points:
+- Česká pošta se snaží elektronizovat, ale neví přesně jak.
+- Autor navrhuje skenování dopisů a přeposílání emailem.
+- Dále navrhuje box pro cenná psaní s načtením adres z karty.
+- Autor vyzývá k nápadům na modernizaci služeb pošty.
+title: 'Jaké služby byste čekali od České pošty?
+
+  '
 ---
+
 <p>Nedávno jsem mazal spam pod článkem věnovaným službám České pošty. A vzpomněl jsem si na hezkou novou aplikaci této instituce <a href="http://www.doschranky.cz">doschranky.cz</a>, v níž mám maličko (vážně maličko - více Wirenode) prsty. A na to, že pošta se snaží – elektronizovat se, jít s dobou. Jenže jako každá posta neví, kam se zhruba tak má snažit.</p>
 
 <p>Jaké elektronické služby České pošty byste si představovali? Jak ji elektronizovat, co udělat proto, aby to byla pošta nového tisíciletí? Nejde mi o myšlenky, udělat víc přepážek nebo větší poštovní schránky – jde mi o to, co by pošta měla udělat, aby byla moderní institucí nabízející služby. </p>

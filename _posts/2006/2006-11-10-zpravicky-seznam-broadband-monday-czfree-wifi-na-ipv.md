@@ -1,14 +1,21 @@
 ---
 ID: 2038
-title: 'Zprávičky &#8211; Seznam, Broadband Monday, CZFree, WiFi na IPV'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zpravicky-seznam-broadband-monday-czfree-wifi-na-ipv
-published: true
+oldlink: 'https://www.marigold.cz/item/zpravicky-seznam-broadband-monday-czfree-wifi-na-ipv
+
+  '
 post_date: 2006-11-10 17:20:22
+post_excerpt: ''
+published: true
+summary_points:
+- Seznam opravil chybu v RSS, Marigold feedy jsou funkční, opraven mod rewrite.
+- Stream.cz má nový vzhled, záznam Patrickovy přednášky je dostupný na Monday.cz.
+- Noname je novým uživatelem sítě CZFree na Praze 11 (JM-Net) a je spokojen.
+- Slovenská WiFi síť získala 30% zákazníků díky mapě wifi sítí Internet Pro Všechny.
+title: Zprávičky &#8211; Seznam, Broadband Monday, CZFree, WiFi na IPV
 ---
+
 <texy>**Noname píše:** jen heslovitě několik zpráviček
 
 1) Seznam zřejmě opravil nějakou chybu (vlastnost), která zabraňovala načítání RSS. Už je tedy možné přidat si libovolný marigoldí RSS feed. Já jsem také opravil mod rewrite, takže by už teď opravdu měly být funkční staré adresy. Na feedu, který Seznam používá jako standardní se to zatím neprojevilo a stále tam jsou jen staré zprávy, nevím jak často se aktualizuje ani nevím co používají za adresu, tak snad se to opraví. Krom toho jsem přidal do pravého panelu i 5 posledních komentářů (chtěl jsem si dokázat, že umím napsat plugin ;-) )

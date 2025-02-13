@@ -1,15 +1,24 @@
 ---
 ID: 2219
-title: 'Marigoldí válka konzolí: Xbox, Playstation a&nbsp;nebo Wii'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Konzole
+- Hry
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/marigoldi-valka-konzoli-xbox-playstation-a-nebo-wii
-published: true
+oldlink: 'https://www.marigold.cz/item/marigoldi-valka-konzoli-xbox-playstation-a-nebo-wii
+
+  '
 post_date: 2008-04-08 20:14:14
-categories: [Konzole, Hry]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor má málo času na hraní a preferuje nenáročné hry.
+- Herní konzole je pro autora lepší než hraní na počítači.
+- Xbox 360 se ukázal jako vhodná volba díky Xbox Live Arcade.
+- Autor hledá podobné hry jako Zuma i pro jiné konzole.
+title: 'Marigoldí válka konzolí: Xbox, Playstation a&nbsp;nebo Wii'
 ---
+
 Řekl jsem si onehdá, že bych si docela zahrál nějakou počítačovou hru. A byl to proces, jakému není rovno, jak u mne jinak. Proč? Protože nejsem typický pařan. Čas, který mohu/chci věnovat hře na počítači, je spíše v úrovni několika minut, maximálně desítek minut denně, počítám-li v to klidný sobotní večer. Proč tak málo, to je jiná otázka kombinující rodinu (item primo) a práci (item secundo) v odpovědi. A za tuhle dobu na PC hru většinou ani nespustím, natož abych ji stihl instalovat. Rozumějte: mám plnou poličku her pro PC, šlágry jako Balldurs Gate, Diablo 2, Sacred, všechno originálky. Jenže na ně nemám čas. A od jisté doby už ani doma nemáme PC, musel bych Macka spouštět ve Windows. Pár her na Macka mám taky, ale mají jedno shodné s Windowsáckýma: nebaví mne to. Nemám čas na to je hrát a vím, že to jsou hry, které čas vyžadují. Jsem prostě "občasný hráč" - <em><a href="http://en.wikipedia.org/wiki/Casual_gamer">casual gamer</a></em>.
 
 A tak jsem po jistém váhání a oťukávání přišel na to, že je opravdu vhodné oddělit práci a zábavu i hardwarově. Pokud sedám k Mackovi, nedá mi to, abych juknul na poštu, nechal pro každý pád puštěný Skype, Adium a další kecaslužby a nakonec po hodině vstávám, aniž bych hru spustil. Slabá vůle, řeknete, může být, jenže posilovat ji zrovna takhle nehodlám. Řešení mne napadlo: pořídit herní konzoli. Což se snadno řekne, ale pokud máte evaluační a validační proces jako já, pak vězte, že je to na dlouho. A tím začala marigoldí válka konzolí, která trvá a trvá ... 

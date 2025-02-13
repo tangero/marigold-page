@@ -1,14 +1,21 @@
 ---
 ID: 1938
-title: Jak asi změním mobilního operátora
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-asi-zmenim-mobilniho-operatora
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-asi-zmenim-mobilniho-operatora
+
+  '
 post_date: 2006-03-07 00:07:07
+post_excerpt: ''
+published: true
+summary_points:
+- Autor optimalizuje účet za mobil, preferuje internetové volání.
+- Internetové volání je levnější díky sekundové tarifikaci a cenám.
+- Eurotel, T-mobile a Vodafone nabízí tarify kolem 200 Kč.
+- T-mobile se jeví jako nejvýhodnější varianta z nabídek.
+title: Jak asi změním mobilního operátora
 ---
+
 <p><strong>Noname píše: </strong>Už tu dlouho nebyl žádný článek, tak jeden hodím v plén. Rozhodl jsem se totiž, že porovnám nabídky mobilních operátorů a zoptimalizuji si svůj účet za mobilní telefon.</p>
 
 <p>Nejdříve ale taková malá odbočka - mám firemní <del>Oskartu</del>Vodafone kartu. Důvod je prostý, v době, kdy jsem ji kupoval jsem nevěděl, kolik budu telefonovat, nejdříve to byly tisíce, nyní mi ale pětistovkový kupon vydrží 2 měsíce.</p>

@@ -1,14 +1,21 @@
 ---
 ID: 2072
-title: Neklid na DRM frontě
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/neklid-na-drm-fronte
-published: true
+oldlink: 'https://www.marigold.cz/item/neklid-na-drm-fronte
+
+  '
 post_date: 2007-02-12 22:34:41
+post_excerpt: ''
+published: true
+summary_points:
+- DRM komplikuje život legálním majitelům hudby více než pirátům.
+- Steve Jobs kritizoval nutnost DRM u digitální hudby oproti CD.
+- OMA DRM je nejrozšířenější DRM, ale má zanedbatelný vliv na trh.
+- Autor preferuje nákup hudby na AllOfMP3.com a MP3Search.ru.
+title: Neklid na DRM frontě
 ---
+
 <texy>Dlouho jsem toho názoru, že DRM jakožto filosofie ochrany digitální hudby, je na houby. Že hudbě spíše škodí, než prospívá. Například tím, že trestá toho nepravého: vždycky komplikuje život legálnímu majiteli spíše, než pirátovi, pokud přistoupíme na terminologii nahrávacích koncernů.
 
 V poslední době bylo v oblasti DRM zajímavě rušno, to když publikoval svůj článek šéf Apple Steve Jobs. V něm v zásadě tvrdí totéž, když poukazuje na fakt, že zatímco CD vlastně žádnou systémovou ochranu nemají, hudba zkriplovaná do ztrátové digitální formy ji mít musí. A že to nějak nedává smysl, leč že Apple i ostatní s tím zatím musí žít.  <a href="http://www.maler.cz/index.php?id=931">Detailně informuje Malér.</a> 

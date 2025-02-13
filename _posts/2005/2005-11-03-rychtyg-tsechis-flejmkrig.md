@@ -1,14 +1,23 @@
 ---
 ID: 1862
-title: Rychtyg tšéchiš flejmkríg
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/rychtyg-tsechis-flejmkrig
-published: true
+oldlink: 'https://www.marigold.cz/item/rychtyg-tsechis-flejmkrig
+
+  '
 post_date: 2005-11-03 09:24:31
+post_excerpt: ''
+published: true
+summary_points:
+- Blog CMS odstranil copyrighty původního redakčního systému Nucleus, což vyvolalo
+  ostrou diskusi.
+- Radek Hulán, autor Blog CMS, neúspěšně obhajoval copyrighty a čelil kritice vývojářů
+  Nucleusu.
+- Hulán obvinil Davida Grudla z krádeže myšlenky Texy, editoru textu.
+- Hulán pohrozil žalobou uživateli Cheese za kritický názor na jeho jednání.
+title: Rychtyg tšéchiš flejmkríg
 ---
+
 <p>Milý občane Říše, pokud jsi si někdy myslel, že Protektorát Čechy a Morava je opožděný v ochraně autorských práv, přinášíme vám zaručeně exklusivní, živou a autentickou zprávu o tom, že tomu tak skutečně není a že uvědomění Tschechen je na úrovni, kterou by leckterý volksgenosse mohl závidět. </p>
 
 <p>Všechno začalo vcelku nenápadně článkem na La Trine věnovaném výhodám a nevýhodám otevřeného software - <a href="http://www.dgx.cz/trine/item/open-source-vs-closed-source-i">Open Source vs. Closed Source I</a>. Článek zmínil i jiný článek, kde se poukazuje na fakt, že z Open Source lze vyhodit copyright někoho a nahradit je vlastním a nenápadně se poukazovalo na Blog CMS. A v diskusi se strhla mela. David Grudl, autor La Trine, článek i diskusi následně rozštěpil, protože s původním článkem neměla diskuse už nic co dělat a vznikl nový článek <a href="http://www.dgx.cz/trine/item/proc-zmizely-copyrighty-z-blog-cms">Proč zmizely copyrighty z BLOG:CMS</a> - doporučuji k prostudování včetně husté diskuse. Mezi Radkem Hulánem na jedné straně a prakticky všemi ostatními diskutujícím se strhla hádka přes tři stovky příspěvků. </p>

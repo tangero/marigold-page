@@ -1,13 +1,20 @@
 ---
 ID: 2052
-title: Poděkování
 author: Noname
-post_excerpt: ""
 layout: post
 oldlink: https://www.marigold.cz/item/podekovani
-published: true
 post_date: 2006-12-14 17:53:07
+post_excerpt: ''
+published: true
+summary_points:
+- Nethost zajistil rychlý a bezproblémový přechod na nové servery včetně překódování
+  databáze.
+- Vladimír Helešic z Nethostu poskytoval okamžitou podporu a znalosti WordPressu.
+- Nethost proaktivně zablokoval DDOS útok na Marigold den po přechodu.
+- Acci a Petr Halas pomohli s dopočeštěním WordPressu a opravou zobrazení ve Firefoxu.
+title: Poděkování
 ---
+
 <texy><strong>Noname píše:</strong> nejdříve jsem neměl čas a pak jsme na to ve spěchu zapomněl - předně děkuji velice nethostingu <a href="http://nethost.cz">Nethost</a> za skvělý, rychlý a bezproblémový přechod na jejich servery, který probíhal při změně CMS na Marigoldu. Nebyla to vůbec prkotina - na jednom serveru bylo zároveň provázáno 9 dalších webů a služeb a některé musely zůstat, všechny ostatní bylo nutné překódovat na utf-8, protože původní databáze byla blbě kódována, na začátku jsem potřeboval udělat dočasnou doménu, aby byl přechod co nejplynulejší atd.
 
 Vše probíhalo naprosto perfektně, jejich support linka fungovala okamžitě, na e-maily i na zavolání, jmenovitě pan Vladimír Helešic (doufám že mám dobře háčky a čárky, píše bez diakritiky), omlouvám se, jestli jsem zapomněl na někoho dalšího. Navíc znal Wordpress, věděl co a kde je třeba udělat, kde by mohly být problémy, no prostě lepší to být nemohlo. Jako perličku a příklad perfektního přístupu - shodou okolností (nebo možná něčím? záměrem) se den po přechodu někdo pokusil udělat DDOS na marigold - ani bych si toho nevšiml, kdyby mi nepřišla zpráva, co se stalo, že během pár chvil bylo 38 tisíc požadavků atd., a že zablokovali příslušné IP adresy - prostě ukázkové proaktivní jednání.

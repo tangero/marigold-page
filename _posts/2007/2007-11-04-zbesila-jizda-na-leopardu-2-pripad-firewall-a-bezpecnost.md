@@ -1,14 +1,21 @@
 ---
 ID: 2165
-title: 'Zběsilá  jízda na Leopardu 2. &#8211; případ firewall a&nbsp;bezpečnost'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zbesila-jizda-na-leopardu-2-pripad-firewall-a-bezpecnost
-published: true
+oldlink: 'https://www.marigold.cz/item/zbesila-jizda-na-leopardu-2-pripad-firewall-a-bezpecnost
+
+  '
 post_date: 2007-11-04 11:14:57
+post_excerpt: ''
+published: true
+summary_points:
+- Heise Security kritizoval firewall Leopardu, Apple nereagoval.
+- Leopard firewall není automaticky aktivní, což je diskutabilní.
+- Apple změnil firewall, integruje ho s operačním systémem.
+- Leopard zavedl digitální podepisování aplikací pro bezpečnost.
+title: Zběsilá  jízda na Leopardu 2. &#8211; případ firewall a&nbsp;bezpečnost
 ---
+
 Dalo by se říci, že případ bezpečnosti Leoparda se stal hvězdnou hodinou pro vcelku neznámý Heise Security, britský magazín věnovaný bezpečnosti. <a href="http://www.heise-security.co.uk/articles/98120/1">Jeho verdikt</a> <em>The Mac OS X Leopard firewall failed every test</em> obletěl svět a byl citovný všemi možnými médii. Ačkoliv vyšel už 29.10., Apple k němu, jak je zvykem, nezaujal stanovisko a nechal ho bez komentáře. Možná škoda, protože vinou nedostatku publikované dokumentace bylo dopátrání se pravdy náročnější a dodnes někteří opravdu věří tomu, že firewall Leopardu je druhé jméno řešeta. 
 
 <!--more-->

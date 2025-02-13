@@ -1,14 +1,22 @@
 ---
 ID: 2096
-title: 'O myších a&nbsp;webových lidech 2.0'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/o-mysich-a-webovych-lidech-20
-published: true
+oldlink: 'https://www.marigold.cz/item/o-mysich-a-webovych-lidech-20
+
+  '
 post_date: 2007-04-09 19:41:07
+post_excerpt: ''
+published: true
+summary_points:
+- Autor přemýšlí o smyslu vlastního přemýšlení a vlivu internetových komentářů.
+- Prodej Jagg.cz odhalil rozdíly v kvalitě a pravdivosti komentářů na webu.
+- Google neindexoval Jagg.cz kvůli chybě v souboru robots.txt, mylně interpretováno
+  jako ban.
+- Český internet zaostává za zahraničím, chybí sledování trendů a kvalitní Web 2.0.
+title: O myších a&nbsp;webových lidech 2.0
 ---
+
 Někdy mne napadá, proč vůbec nad něčím přemýšlím. Už samo o sobě je přemýšlení nad přemýšlením kacířskou myšlenkou, což o to. Ale vždycky mně potěší, když čtu na webu řadu dobrých tipů, rad a závažných zamyšlení nad věcmi, na kterých tak či onak pracuju. Potěší ironicky i skutečně, jak kdy. Proč vymýšlet, když na internetu ví spousta lidí všechno líp, než vy... 
 
 Většinou nad tím mávnu rukou, to když jde o projekty, které jsem dělával pro klienty, kteří zaplatí a odejdou. Poslední rok se věnuju nejvíce Streamu a také tam často najdu hutné myšlenky sdělované břitkým jazykem, zhusta i úšklebkem směřované na mne. Zvyknul jsem si, že s generace kritizujících se přestěhovávám na stranu kritizovaných, protože už jsem stár velmi, na internet mnoho-li velmi. Baže, třicítka je za mnou. 

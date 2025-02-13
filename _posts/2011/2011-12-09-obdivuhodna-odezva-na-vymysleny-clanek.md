@@ -1,17 +1,26 @@
 ---
 ID: 2403
-title: >
-  Obdivuhodná odezva na vymyšlený
-  článek
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/obdivuhodna-odezva-na-vymysleny-clanek
-published: true
+oldlink: 'https://www.marigold.cz/item/obdivuhodna-odezva-na-vymysleny-clanek
+
+  '
 post_date: 2011-12-09 12:02:41
-categories: [Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Článek bez jmen firem a produktů byl napsán jako reakce na kritiku PR článků.
+- Čtenáři článek bez jmen brali vážně, i přes disclaimer o jeho absurdnosti.
+- Autor obdržel pozitivní i negativní reakce, včetně děkovného emailu a nabídky jízdy
+  tankem.
+- Autor dochází k závěru, že snaha přizpůsobit se čtenářským očekáváním nemá smysl.
+title: 'Obdivuhodná odezva na vymyšlený článek
+
+  '
 ---
+
 Napsal jsem článek s názvem <a href="http://www.lupa.cz/clanky/software-ceske-firmy-exceluje-ve-zbrojnim-programu/">Software české firmy exceluje ve zbrojním programu</a>, přičemž hlavní jeho zvěstí nebylo to, o čem byl, ale jaký byl. Byl prostý jakýchkoliv zmínek o firmách, produktech, službách, značkách. Zjednodušeně řečeno mě zase po nějaké době zprudily takové ty chytrácké komentáře pod články ve stylu "proč píšete o XY, když AB vyrábí totéž, to je jasné PR" a tak podobně. Před týdnem jsme <a href="http://www.lupa.cz/clanky/sila-ceskeho-facebooku-aneb-chytte-zlodeje-elektrokola/">vydali páteční odpočinkový článek</a> o tom, jak firmě prodávající ekola ukradli ekolo a firma vypátrala zloděje přes Facebook. Majitel firmy to hezky popsal a akorát jednou do článku uvedl jméno firmy, které jsem mu prolinkoval, protože o nic nešlo. Ke článku, soudil jsem, patří říct, o koho jde, bez toho mi přijde událost tak nějak neúplná. Ovšem diskuse pod článkem zhoustla, opět to byl PR článek, kdo ví, jestli té firmě to ukradli, tohle by redakce neměla dělat. 
 
 A tak jsem napsal <a href="http://www.lupa.cz/clanky/software-ceske-firmy-exceluje-ve-zbrojnim-programu/">zcela PR prostý článek</a>. Ani jména produktů, ani operačních systémů, natož lidí a firem. Podle mě článek informačně zcela na houby, říkal jsem si, že to lidem musí dojít. Pro jistotu jsem na konec článku dal <em>disclaimer</em>, aby to došlo i těm zahryznutějším. 

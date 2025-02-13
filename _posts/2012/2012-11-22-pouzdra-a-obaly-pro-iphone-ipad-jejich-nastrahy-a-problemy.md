@@ -1,15 +1,24 @@
 ---
 ID: 2573
-title: 'Pouzdra a&nbsp;obaly pro iPhone, iPad &#8211; jejich nástrahy a&nbsp;problémy'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- iPhone
+- Apple
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pouzdra-a-obaly-pro-iphone-ipad-jejich-nastrahy-a-problemy
-published: true
+oldlink: 'https://www.marigold.cz/item/pouzdra-a-obaly-pro-iphone-ipad-jejich-nastrahy-a-problemy
+
+  '
 post_date: 2012-11-22 11:26:08
-categories: [iPhone, Apple]
+post_excerpt: ''
+published: true
+summary_points:
+- Kahnemanova kniha o myšlení nebyla v den vydání v knihkupectví dostupná papírově.
+- iPhone 4/4S má design upřednostňující vzhled, což vede k praskání skla.
+- Pouzdro je pro iPhone 4/4S nutností kvůli ochraně skleněných zad.
+- Neznačková pouzdra pro iPhone/iPad se rychle opotřebují, doporučují se značkové.
+title: Pouzdra a&nbsp;obaly pro iPhone, iPad &#8211; jejich nástrahy a&nbsp;problémy
 ---
+
 <p> Chtěl jsem si na cestě vlakem do Ostravy rozečíst právě vyšlou <a href="http://www.melvil.cz/kniha-mysleni-rychle-pomale">Kahnemanovu knihu věnovanou myšlení </a>(ta se bude v Česku blbě prodávat, my na tyhle extrémní sporty nejsme). Dnes vyšla, jenže v knihkupectví na hlaváku ji neměli, je k dispozici jen elektronicky (a tohle chci mít papírově) a tady by se sice hodila vsuvka o tom, že synchronizovat vydání elektronické a papírové není od věci na obě strany, ale pustím se do něčeho jiného.</p>
 
 

@@ -1,15 +1,24 @@
 ---
 ID: 2843
-title: 'Podrobný návod, jak z&nbsp;50&nbsp;Kč udělat 50&nbsp;000&nbsp;Kč. Lepší, než kuponová privatizace!'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/podrobny-navod-jak-z-50-kc-udelat-50-000-kc-lepsi-nez-kuponova-privatizace
-published: true
+oldlink: 'https://www.marigold.cz/item/podrobny-navod-jak-z-50-kc-udelat-50-000-kc-lepsi-nez-kuponova-privatizace
+
+  '
 post_date: 2011-02-25 11:37:42
-categories: [Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor uvažoval o koupi nového MacBooku Air za 25 tisíc Kč.
+- Starý MacBook z roku 2006 má poškozený kryt a nízkou výdrž baterie.
+- Problém s kýváním vyřešily filcové podložky z IKEA za 50 Kč.
+- Ušetřením 25 tisíc autor "vydělal" 50 tisíc korun.
+title: Podrobný návod, jak z&nbsp;50&nbsp;Kč udělat 50&nbsp;000&nbsp;Kč. Lepší, než
+  kuponová privatizace!
 ---
+
 Ano, občas se vyplatí vědět, jak na to. Jak udělat bez velké námahy slušné peníze. Ukážu vám, jak pomocí notebooku uděláte z padesátikoruny padesát tisíc.
 Takže popořádku, abyste návod pochopili - ukážu to na svém příkladu. Mám notebook, Apple MacBook 13. Koupil jsem ho v roce 2006, takže už mu táhne na pátý rok, už tehdá byl refurbished. Čas a především dcera z něj odlámaly pár kousků přebytečného plastu, CD mechanika nefunguje, což je dobře, stejně jen žrala proud a na nic nebyla. Je po výměně displeje i baterie, obojí už mělo svá nejlepší léta za sebou.
 

@@ -1,16 +1,23 @@
 ---
 ID: 1469
-title: >
-  Seznam mne zahrnuje tsunami
-  návštěvníků
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/seznam-mne-zahrnuje-tsunami-navstevniku
-published: true
+oldlink: 'https://www.marigold.cz/item/seznam-mne-zahrnuje-tsunami-navstevniku
+
+  '
 post_date: 2005-01-07 09:31:29
+post_excerpt: ''
+published: true
+summary_points:
+- Článek o tsunami fotografiích přivedl přes Seznam 5. ledna přes 1000 lidí.
+- Atlas přivedl ve stejný den zhruba 70 lidí, Centrum jednotky odkazů.
+- Článek s fotografiemi tsunami dosáhl přes pět tisíc shlédnutí.
+- Seznam má stále výrazně větší vliv než Atlas a Centrum.
+title: 'Seznam mne zahrnuje tsunami návštěvníků
+
+  '
 ---
+
 <p>Nedávno jsem tu napsal článek s odkazem na satelitní fotografie oblastí postižených tsunami. Článek zaindexovaly vyhledávače (ha, pamatujete na doby, kdy se na návštěvu vyhledávače a zaindexování webu čekalo dva měsíce a slavilo se to jako svátek?) a pak se začaly dít věci. Začalo sem lozit nějak moc lidí. A je to zajímavé, jaký poměr je mezi Seznamem, Atlasem a Centrem. </p>
 
 

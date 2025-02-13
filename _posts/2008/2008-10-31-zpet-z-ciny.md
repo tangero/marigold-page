@@ -1,14 +1,22 @@
 ---
 ID: 2303
-title: 'Zpět z&nbsp;Číny'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Čína
+- Příběhy
 layout: post
 oldlink: https://www.marigold.cz/item/zpet-z-ciny
-published: true
 post_date: 2008-10-31 10:41:34
-categories: [Čína, Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Cesta zpět zpožděna ČSA, zavazadla ztracena mezi Paříží a Prahou.
+- České noviny řeší hoteliéra, Čína korupci s trestem smrti.
+- Pražské letiště a MHD jsou špatně organizované, horší než v Číně.
+- Čína ukázala relativitu české důležitosti a odlišnosti v přístupu.
+title: Zpět z&nbsp;Číny
 ---
+
 Tak jsme včera dorazili z cest, dneska se pokusím odjetlagovat, případně dorazit do Streamu vyřídit pár věcí, které ku vyřízení jsou. 
 
 Z celé cesty (hm, 22 hodin cestování) stojí za zmínku především to, že jediné zpoždění letadla ze všech cca šesti letů se podařilo ČSA mezi Paříží a Prahou. Tamtéž se podařilo potratit nám zavazadla, takže kufr s dárky dorazí snad dnes, prý ještě dopoledne. Tož uvidíme. 

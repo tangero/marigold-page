@@ -1,15 +1,25 @@
 ---
 ID: 2259
-title: Servisní menu telefonu Ubiquam U-400
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
+- Ufon
+- CDMA
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/servisni-menu-telefonu-ubiquam-u-400
-published: true
+oldlink: 'https://www.marigold.cz/item/servisni-menu-telefonu-ubiquam-u-400
+
+  '
 post_date: 2008-07-15 12:09:37
-categories: [Mobilní sítě, Ufon, CDMA]
+post_excerpt: ''
+published: true
+summary_points:
+- U:fon má občas mizerný zvuk, pravděpodobně kvůli primitivnímu audiokodeku.
+- Servisní menu Ubiquam U-400 se aktivuje kódem 8247826 (UBIQUAM).
+- Ec/Io udává kvalitu signálu, pod -10 indikuje nezdravou síť.
+- Další servisní menu se aktivují kódy 343587 a 343586.
+title: Servisní menu telefonu Ubiquam U-400
 ---
+
 Dal jsem se v posledních dnech do zkoumání toho, proč má U:fon někdy tak mizerný zvuk. Původně jsem si toho nevšiml, nejsem natolik citlivý, abych takové věci bezpečně rozeznával a ani prostředí, kde telefonuju, nebývá akusticky ideální. Ale pak se ta plechovost místy nedala přehlédnout.
 
 K šetření (které ještě neskončilo, ale podezření je na primitivní audiokodek) jsem potřeboval aktivovat si servisní menu telefonu. Bylo potřeba chvíli pátrat, protože Ubiquam U-400 nepatří zrovna mezi světově nejprodávanější modely, nakonec pomohli lidi z ruského SkyLinku, kterým pár těchto kousků straší v síti a navíc je telefon podobný modelu U-200, co do firmware. A protože u nás se o servisním menu telefonu asi mnoho nenapsalo (se vzácnou výjimkou <a href="http://www.gsmweb.cz/blog/2008/06/30/ufonuv-mobil-sledovani-site">GSMwebu</a>), uděláme si malé shrnutí.

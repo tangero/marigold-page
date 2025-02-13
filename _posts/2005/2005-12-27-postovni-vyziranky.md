@@ -1,14 +1,21 @@
 ---
 ID: 1905
-title: Poštovní vyzíránky
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/postovni-vyziranky
-published: true
+oldlink: 'https://www.marigold.cz/item/postovni-vyziranky
+
+  '
 post_date: 2005-12-27 14:57:10
+post_excerpt: ''
+published: true
+summary_points:
+- Autor založil s Petrem e-shop Kronium s hodinkami po úspěchu webu Chronomag.
+- Prodej hodinek online v Česku je obtížný, lidé kupují spíše mainstreamové značky.
+- Česká pošta zavedla sledování cenných psaní online, což autora mile překvapilo.
+- Autor navrhuje poště skenování doporučených dopisů a zasílání emailem.
+title: Poštovní vyzíránky
 ---
+
 <p>My zíráme. Byl jsem na poště po dvou letech řešit něco složitějšího a jen jsem se podivoval. Ale po pořádku. </p>
 
 <p>V Arize jsme si s Petrem založil shop s hodinkami. Abych byl přesnější - bylo to, zhruba jako vždy. Udělali jsme <a href="http://www.chronomag.cz">web o hodinkách</a>, který překvapivě pár lidí začalo číst a po roce dosáhl nikoliv nezajímavé čtennosti.  Jenže s prodejem hodinek po netu je to v Česku vachrlaté. Po internetu se u nás prodávají jen takové ty obyčejné mainstreamové hodinky jako Certina, Festina atd a pár úděsných značek pro náctileté jako DKNY a Diesel. Jenže to jsou hodinky, kde platíte značku (dle mého soudu dost pofidérní, proboha co je to za značku Diesel, to jako nafta do auta?) a dost potřeštěný design. Nic pro třicátníky.</p>

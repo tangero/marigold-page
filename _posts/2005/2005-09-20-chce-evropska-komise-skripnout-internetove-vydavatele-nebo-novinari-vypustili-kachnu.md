@@ -1,17 +1,25 @@
 ---
 ID: 1827
-title: >
-  Chce Evropská komise skřípnout
-  internetové vydavatele nebo novináři
-  vypustili kachnu?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chce-evropska-komise-skripnout-internetove-vydavatele-nebo-novinari-vypustili-kachnu
-published: true
+oldlink: 'https://www.marigold.cz/item/chce-evropska-komise-skripnout-internetove-vydavatele-nebo-novinari-vypustili-kachnu
+
+  '
 post_date: 2005-09-20 21:01:33
+post_excerpt: ''
+published: true
+summary_points:
+- Novinový článek na iDNESu zkreslil záměry Evropské komise ohledně regulace internetu.
+- Redingová chce rovnocenné podmínky pro online a tištěná média, nikoliv omezování
+  internetu.
+- EK se zaměřuje na autorská práva a zodpovědnost autorů online obsahu.
+- Komise zvažuje podporu online médií, například formou digitálního papíru a e-knih.
+title: 'Chce Evropská komise skřípnout internetové vydavatele nebo novináři vypustili
+  kachnu?
+
+  '
 ---
+
 <p>Když jsem si dneska přečetl článek na iDNESu s nadpisem <a href="http://zpravy.idnes.cz/zahranicni.asp?r=zahranicni&amp;c=A050920_162459_zahranicni_miz">Novinám klesá náklad, EU zvažuje regulaci internetu</a>, byl jsem v šoku. A stejně jako ostatní diskutující jsem začal nadávat na ty kretény v Evropské komisi. Pak se mi to rozleželo v hlavě a pravil jsem sobě, že k tomu nelze mlčet. Našel jsem si kontakt na zmíněnou komisařku Viviane Redingovou (<a href="http://en.wikipedia.org/wiki/Viviane_Reding">info o ní zde</a>) a rozhodl jsem se zatelefonovat ji svůj názor a vyřknout jej slovy, jenž nenaleznete ve slovníku spisovné evropštiny. </p>
 
 <p>Jenže ještě před tím, než jsem jí opravdu zavolal, jsem našel odkazy na původní materiály, ne ty přežvýkané agenturami a novináři. Je to zajímavé, možná té angličtině a němčině rozumím trochu jinak, jenže se mi zdá, že Viviane Redingová, komisařka pro média a informační společnost, řekla něco maličko jiného, než vydedukovali novináři. Dokonce bych neváhal soudit, že někdo jednoduše a prostě špatně přeložil agenturní zprávu či se neobtěžoval podívat ke zdroji. </p>

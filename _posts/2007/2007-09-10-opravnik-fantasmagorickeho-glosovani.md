@@ -1,14 +1,21 @@
 ---
 ID: 2142
-title: Opravník fantasmagorického glosování
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/opravnik-fantasmagorickeho-glosovani
-published: true
+oldlink: 'https://www.marigold.cz/item/opravnik-fantasmagorickeho-glosovani
+
+  '
 post_date: 2007-09-10 15:50:23
+post_excerpt: ''
+published: true
+summary_points:
+- Cendra pomstil odchod Streamu od Superhostingu lživým obviněním z porna.
+- Antošova kritika Streamu na Lupě je založena na nezkušenosti a osobních preferencích.
+- Stream.cz nabízí rozmanitý obsah, ale má problémy s marketingem a přehledností.
+- Autor textu, externista Streamu, obhajuje video s Wendy a kritizuje Antošovu analýzu.
+title: Opravník fantasmagorického glosování
 ---
+
 Často mne nemile překvapí, jaké obskurní konstrukce umí vymyslet lidé, kteří mají jednoduchou možnost se zeptat, jak se věci mají. Už jsem vyrostl z toho, že by za tím mohla být nevědomost. Neznalost a povrchní informovanost je základem takových konstrukcí, žárlení stojí někde v teple v pozadí. Slovy Shreka, <em>co si tím kdo kompenzuje...</em>
 
 Abych to dokumentoval na dvou příkladech. Prosím, berte vše dále uvedené jako můj soukromý názor, není to oficiální stanovisko Global Inspiration (provozovatele Streamu) ani nikoho jiného než mne sama (proč, k tomu se dostaneme na závěr pro ty, co to zaujme).

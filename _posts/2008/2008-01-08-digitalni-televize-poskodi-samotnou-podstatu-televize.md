@@ -1,18 +1,34 @@
 ---
 ID: 2190
-title: >
-  Digitální televize poškodí samotnou
-  podstatu televize
 author: Patrick Zandl
-post_excerpt: |
-  Mladší generace tedy začínají televizi chápat jako asynchronní přepravní kanál, což reflektují tak, že jednou týdně se sejdou u televizního programu a dálkového ovladače, naprogramují si těch pár filmů, které by mohly stát za to na DVD rekordér a pak si filmy o příštím víkendu "zkonzumují".   Smůla trochu je, že většina rekordérů má tlačítko Time Skip, kterým přeskočí porci reklamy a já vím, že tohle tlačítko u filmu nahraného z Novy musím zmáčknout patnáctkrát rychle za sebou, abych reklamu zcela přeskočil.
+categories:
+- Televize
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/digitalni-televize-poskodi-samotnou-podstatu-televize
-published: true
+oldlink: 'https://www.marigold.cz/item/digitalni-televize-poskodi-samotnou-podstatu-televize
+
+  '
 post_date: 2008-01-08 11:09:01
-categories: [Televize, Média]
+post_excerpt: 'Mladší generace tedy začínají televizi chápat jako asynchronní přepravní
+  kanál, což reflektují tak, že jednou týdně se sejdou u televizního programu a dálkového
+  ovladače, naprogramují si těch pár filmů, které by mohly stát za to na DVD rekordér
+  a pak si filmy o příštím víkendu "zkonzumují".   Smůla trochu je, že většina rekordérů
+  má tlačítko Time Skip, kterým přeskočí porci reklamy a já vím, že tohle tlačítko
+  u filmu nahraného z Novy musím zmáčknout patnáctkrát rychle za sebou, abych reklamu
+  zcela přeskočil.
+
+  '
+published: true
+summary_points:
+- Digitální televize a situace na trhu mohou podpořit nové formy distribuce videa.
+- MPEG-4 zavádění může způsobit zastarání stávajících DVB-T tunerů a DVD rekordérů.
+- Mladší generace vnímá televizi jako asynchronní kanál a preferuje nahrávání pořadů.
+- Nízká kvalita TV programů a rostoucí popularita internetu podporují online video.
+title: 'Digitální televize poškodí samotnou podstatu televize
+
+  '
 ---
+
 <p>Jestli něco má šanci popostrčit netradiční formy distribuce videa po českém internetu, tak je to především nástup digitální televize. A situace na českém televizním trhu, ať už s předešlým souvisí nebo nesouvisí.</p>
 
 

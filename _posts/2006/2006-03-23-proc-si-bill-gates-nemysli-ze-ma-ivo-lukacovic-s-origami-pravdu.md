@@ -1,14 +1,21 @@
 ---
 ID: 1951
-title: 'Proč si Bill Gates nemyslí, že má Ivo Lukačovič s&nbsp;Origami pravdu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-si-bill-gates-nemysli-ze-ma-ivo-lukacovic-s-origami-pravdu
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-si-bill-gates-nemysli-ze-ma-ivo-lukacovic-s-origami-pravdu
+
+  '
 post_date: 2006-03-23 11:19:50
+post_excerpt: ''
+published: true
+summary_points:
+- Origami je Microsoftem vnímáno jako perspektivní, nikoliv mrtvá zóna trhu.
+- Kufříkáři, podobně jako u Smartu, představují cílovou skupinu pro Origami.
+- Origami má vyplnit mezeru mezi PDA a notebooky pro specifické uživatele.
+- Microsoft nechce ztratit trh s malými počítači jako u MP3 přehrávačů.
+title: Proč si Bill Gates nemyslí, že má Ivo Lukačovič s&nbsp;Origami pravdu
 ---
+
 <p>Marigoldí čtenář Brekeke pravil, že Marigold jde do bulvárních titulků. Dobře tedy, tenhle by mohl v trendu pokračovat. Na druhou stranu vystihuje docela přesně situaci, ačkoliv nemám zcela oficiálně potvrzeno, že by Bill Gates reagoval přímo na článek Iva Lukačoviče: <a href="http://blog.lide.cz/ilblog/2006/03/10/254">O kapesních hračkách, které se nevejdou do kapsy</a>.</p>
 
 <p>V článku Ivo hezky shrnuje rozdělení přenosných zařízení do několika tříd. Dovolím si graf opajcnout metodou vložení obrázku ze vzdáleného serveru <em>(kontrolní otázka: je to porušní autorského práva?)</em>. </p>

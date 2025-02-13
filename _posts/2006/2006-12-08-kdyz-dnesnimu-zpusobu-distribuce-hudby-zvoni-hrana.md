@@ -1,16 +1,23 @@
 ---
 ID: 2048
-title: >
-  Když dnešnímu způsobu distribuce
-  hudby zvoní hrana
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdyz-dnesnimu-zpusobu-distribuce-hudby-zvoni-hrana
-published: true
+oldlink: 'https://www.marigold.cz/item/kdyz-dnesnimu-zpusobu-distribuce-hudby-zvoni-hrana
+
+  '
 post_date: 2006-12-08 09:24:16
+post_excerpt: ''
+published: true
+summary_points:
+- Poplatky z médií a tiskáren platí i ti, co autorská díla nespravují.
+- Stát podlehl lobbingu a zavedl presumpci viny v autorském právu.
+- Vydavatelé neinovují distribuci hudby digitálně, deformují trh.
+- Výrobci mobilů se účinně bránili poplatkům, na rozdíl od občanů.
+title: 'Když dnešnímu způsobu distribuce hudby zvoní hrana
+
+  '
 ---
+
 <texy>Psáno pro sobotní Lidové noviny: Odvod poplatků ze záznamových médií a tiskáren přináší zajímavý problém. I pokud si nekupujete žádnou hudbu a používáte například CD k archivaci dat nebo tiskárnu k tisku vaší obchodní korespondence, platíte kolektivním správcům autorských poplatků. Za díla, která nespravují. Protože jsou vaše.
 
 Tomuto postupu se neříká zlodějina ani svinstvo, ačkoliv znaky obojího to splňuje. Říká se tomu spravedlivá kompenzace nositelů práv. Minimálně proto, že to zní lépe.

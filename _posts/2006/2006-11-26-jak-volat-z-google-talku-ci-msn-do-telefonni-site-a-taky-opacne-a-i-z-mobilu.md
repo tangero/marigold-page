@@ -1,14 +1,22 @@
 ---
 ID: 2044
-title: 'Jak volat z&nbsp;Google Talku či&nbsp;MSN do telefonní sítě. A&nbsp;taky opačně a&nbsp;i&nbsp;z&nbsp;mobilu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-volat-z-google-talku-ci-msn-do-telefonni-site-a-taky-opacne-a-i-z-mobilu
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-volat-z-google-talku-ci-msn-do-telefonni-site-a-taky-opacne-a-i-z-mobilu
+
+  '
 post_date: 2006-11-26 19:27:23
+post_excerpt: ''
+published: true
+summary_points:
+- GTalk2VoIP umožňuje neoficiální volání z Google Talku do telefonní sítě.
+- Talkonaut je Java aplikace pro mobilní volání přes GTalk, MSN a VoIP sítě.
+- Talkonaut a Gtalk2VoIP nabízejí různé operátory s odlišnými cenami volání.
+- DIDWW nabízí pronájem telefonních čísel s přesměrováním hovorů na GTalk a MSN.
+title: Jak volat z&nbsp;Google Talku či&nbsp;MSN do telefonní sítě. A&nbsp;taky opačně
+  a&nbsp;i&nbsp;z&nbsp;mobilu
 ---
+
 <texy>Z Google Talku lze telefonovat zatím pouze mezi klienty, nikoliv do telefonní sítě. Minimálně oficiálně. Našel jsem ale zajímavou neoficiální možnost nazvanou <a href="http://www.gtalk2voip.com">GTalk2VoIP</a>. Jednoduše si mezi kontakty v GTalku přidáte kontakt této služby (zadáte email) nebo službu necháte napsat vám a autorizujete ji. Pak stačí této službě napsat textově CALL a číslo, kam chcete volat, ona vám napíše informace o ceně hovoru a že máte akceptovat příchozí hovor. A přijde vám hovor - a propojí vás s protistranou. Hezké využití GTalk otevřenosti :)
 
 Třeba vám to k něčemu bude. Jo, funguje to i pro MSN, prý, to jsem nezkoušel, nějak jsem si tuhle síť neoblíbil. 

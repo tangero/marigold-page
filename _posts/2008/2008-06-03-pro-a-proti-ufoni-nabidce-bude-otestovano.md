@@ -1,15 +1,25 @@
 ---
 ID: 2245
-title: 'Pro a&nbsp;proti U:foní nabídce &#8211; bude otestováno'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
+- Ufon
+- CDMA
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pro-a-proti-ufoni-nabidce-bude-otestovano
-published: true
+oldlink: 'https://www.marigold.cz/item/pro-a-proti-ufoni-nabidce-bude-otestovano
+
+  '
 post_date: 2008-06-03 20:11:40
-categories: [Mobilní sítě, Ufon, CDMA]
+post_excerpt: ''
+published: true
+summary_points:
+- U:fon nabízí mobilní telefon s voláním a SMS, ale bez internetu, MMS a roamingu.
+- Ceny U:fona jsou nízké, blížící se nákladům, s voláním zdarma v síti.
+- Technologie U:fona (CDMA) a frekvence omezují budoucí rozvoj a nabídku zařízení.
+- Autor testuje U:fona a brzy zhodnotí jeho smysl pro různé uživatele.
+title: Pro a&nbsp;proti U:foní nabídce &#8211; bude otestováno
 ---
+
 Na start mobilní nabídky U:fona jsem čekal se zvědavostí. Osobně jsem moc nevěřil tradičnímu zaklínání regulátora a konkurenčních operátorů, že nejde o mobilního operátora a teď tomu nevěřím už vůbec. Ufon je z mého pohledu klasický mobilní operátor, protože se projevuje jevy, které ho podle mne mezi mobilní operátory řadí: prodává mobilní telefon, na který se lze dovolat a z něhož lze volat na jiná telefonní čísla přímým vytočením čísla (tedy ne přes nějakou spojovatelku). Lze ho použít k odeslání a příjmu SMS zpráv a mobil zvládá pohyb v rámci vymezeného regionu (ano, v tomto případě jde o handover). Proti "mobilnímu operátorovi" svědčí snad jen fakt, že nemá nějakou bumážku od úřadu, který ovšem téže firmě přidělil čísla z mobilního rozsahu 790 a to už počátkem roku 2007. Jak české: nejde o mobilního operátora, jen o firmu, která nabízí služby jako mobilní operátor :)
 
 <a href="http://www.ufon.cz/cs/c/zakaznici/ufonuv-nonstop-mobil-tarify.htm">Nabídka Ufona zveřejněná včera</a> má své slabiny. K dispozici je jediný mobilní telefon nevalného vzhledu i výbavy, power-userům vyhovovat nebude, pro běžné uživatele by mohl být bez problémů. Ze služeb mobilní sítě je v nabídce jen volání všude možně, posílání/příjem SMS zpráv a to je tak vše. Nikde nic o přístupu k internetu (ačkoliv sám Ufon ho umožňuje i na téže síti, maje ve skutečnosti vlastně dvě: 1xRTT/EVDO), žádný telefonní záznamník, žádné PR SMS, MMS odloženy na neurčito, roaming taktéž. Za to jsou nabízeny vcelku lidové ceny, volání zdarma do sítě bez uživatelů a levně do sítí, kde uživatelé jsou. Obecně řečeno ceny jsou zhruba na úrovni nákladu a místy mírné marže. Fakt mírné. A marži tu představuje hlavně státní DPH.

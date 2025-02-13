@@ -1,14 +1,22 @@
 ---
 ID: 1932
-title: 'UMA a&nbsp;FMC. Učte se nová buzzwords'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/uma-a-fmc-ucte-se-nova-buzzwords
-published: true
+oldlink: 'https://www.marigold.cz/item/uma-a-fmc-ucte-se-nova-buzzwords
+
+  '
 post_date: 2006-02-15 13:09:48
+post_excerpt: ''
+published: true
+summary_points:
+- UMA (Unlicenced Mobile Access) umožňuje přístup k mobilním službám přes Wi-Fi nebo
+  Bluetooth.
+- UMA řeší slabé indoor pokrytí 3G sítí, umožňuje volání přes operátora.
+- FMC (Fixed Mobile Convergence) konverguje pevné linky s mobilními sítěmi.
+- FMC využívá pikocelly pro zlepšení indoor pokrytí bez nutnosti měnit telefony.
+title: UMA a&nbsp;FMC. Učte se nová buzzwords
 ---
+
 <p>Tyhle dvě zkratky jsou na 3gsm skloňována ve všech pádech a který výrobce si až tady povšiml trendu, utíkal rychle do copy centra natisknout pár slide jako že je taky In. Já jsem si přečetl článek o Uma na mobilmanii a upřímně mne překvapil, protože jsem tu asi viděl něco jiného. O co tedy jde?</p>
 
 <p><strong>UMA je Unlicenced mobile access</strong>, tedy přístup k mobilním službám skrze bezlicenční pásmo, například (a nejčastěji) skrze Wifi nebo méně přes bluetooth. Proč to? Inu, zakopaný a notně zasmradající pes je v indoor pokrytí 3g služeb. Těžko si je někdo bude ochotně pořizovat, když si povšimne, že uvnitř budov je dost slabý příjem.</p>

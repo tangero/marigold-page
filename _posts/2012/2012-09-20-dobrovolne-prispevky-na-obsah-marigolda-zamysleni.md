@@ -1,15 +1,23 @@
 ---
 ID: 2528
-title: 'Dobrovolné příspěvky na obsah (Marigolda) &#8211; zamyšlení'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dobrovolne-prispevky-na-obsah-marigolda-zamysleni
-published: true
+oldlink: 'https://www.marigold.cz/item/dobrovolne-prispevky-na-obsah-marigolda-zamysleni
+
+  '
 post_date: 2012-09-20 10:14:21
-categories: [Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold má 4000 pravidelných čtenářů a náklady na provoz jsou 60 000 Kč měsíčně.
+- Každý čtenář Marigoldu by musel přispět 15 Kč měsíčně, aby se náklady pokryly.
+- Lidé ochotněji platí za obsah, který je pro ně relevantní a přináší jim hodnotu.
+- Model dobrovolných příspěvků pro malá média je v Česku obtížně udržitelný.
+title: Dobrovolné příspěvky na obsah (Marigolda) &#8211; zamyšlení
 ---
+
 <p>Vrátím se k tématu, které v diskusi znovu nadhodil David Antoš. Dobrovolné příspěvky za provoz média. Abychom se mohli přesunout z roviny dojmů do roviny pojmů, pojďme si udělat menší model.</p>
 
 

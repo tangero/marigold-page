@@ -1,14 +1,21 @@
 ---
 ID: 1592
-title: 'Živě na téma blogy (a&nbsp;mrtvě já na téma blogy)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zive-na-tema-blogy-a-mrtve-ja-na-tema-blogy
-published: true
+oldlink: 'https://www.marigold.cz/item/zive-na-tema-blogy-a-mrtve-ja-na-tema-blogy
+
+  '
 post_date: 2005-03-25 07:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bednářův článek na Živě prezentuje blogy jako okrajovou záležitost.
+- Blogy nejsou jen deníčky, ale různorodé zdroje informací.
+- Blogeři se specializují, mají hlubší znalosti než novináři.
+- Americká armáda hledá blogery pro interní síť.
+title: Živě na téma blogy (a&nbsp;mrtvě já na téma blogy)
 ---
+
 <p>Na Živě dnes vyšel článek <a href="http://www.zive.cz/h/Uzivatel/AR.asp?ARI=122644">Diskutujte na téma: blogy</a>. V. Bednář v něm presentuje protipól k mému názoru, že blogy začínají být čím dál více zajímavým informačním médiem, když říká <i>"že blogy jsou ve skutečnosti zcela okrajovou záležitostí živenou určitou kategorií lidí"</i>.   Nakonec článek uzavírání názorem, se kterým bych z větší části souhlasil: <i>"Tím netvrdím, že blogy a bloggeři zaniknou, ale že se jejich počet v nějaké, zřejmě dohledné době sníží. Tento úbytek aktivně blogujících by se mohl pozitivně odrazit na kvalitě informací jimi prezentovaných. Lidé, kteří se umějí skutečně podělit o své názory a informace, budou ale nejspíše vždy utíkat od deníčků jinam, nebo z nich udělají jen jednu, opět okrajovou, metodu své komunikace s veřejností."</i></p>
 
 <p>Velká část problémů ve vnímání weblogů plyne z toho, že blogy se většinou šmahem zaměňují za osobní deníčky adolescentů bez jakékoliv literární i obsahové hodnoty. Je to stejné zjednodušení, jako porovnávat server Novinky a Mobil.cz a z faktu, že na Novinkách o mobilech píšou velmi málo vyvozovat, že Novinky jsou mizerné. Nejsou mizerné, jsou o něčem jiném. Weblogů je celá škála – od osobních deníčků, přes politické, technické i finanční weblogy. Jde jen o to, abyste si vybrali weblogy dle svého gusta, říkat o těch ostatních, že jsou zbytečné a k ničemu, je jen znakem netolerance nebo nedostatku pochopení. </p>

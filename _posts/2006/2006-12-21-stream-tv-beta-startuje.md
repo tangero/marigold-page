@@ -1,14 +1,21 @@
 ---
 ID: 2055
-title: Stream TV beta odstartovala
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/stream-tv-beta-startuje
-published: true
+oldlink: 'https://www.marigold.cz/item/stream-tv-beta-startuje
+
+  '
 post_date: 2006-12-21 18:30:50
+post_excerpt: ''
+published: true
+summary_points:
+- Stream TV odstartovalo 21. prosince v 21:12 jako poloveřejný provoz.
+- Stream.cz nabízí ochutnávku zpravodajství, seriálů, pořadů a hudby.
+- Registrace a některé funkce Stream TV zatím nejsou veřejně dostupné.
+- Oficiální spuštění Stream TV je plánováno na rok 2007.
+title: Stream TV beta odstartovala
 ---
+
 <texy>Stram TV včera večer odstartovalo. Dvorní astrolog propočítal postavení hvězd, dvorní technici update DNS a tak je termín otevření ochutnávky pro veřejnost symbolický: 21.12. (dneska) ve 21 hodin, 12 minut. Teď se jděte podívat na <a href="http://www.stream.cz">www.stream.cz</a>.
 
 Spuštění Stream TV je zatím třeba chápat jako poloveřejný provoz. Chtěli jsme vám dát nějaký hezký dárek k vánocům, protože dotazů na to, jak to bude vypadat, padá celá řada. 

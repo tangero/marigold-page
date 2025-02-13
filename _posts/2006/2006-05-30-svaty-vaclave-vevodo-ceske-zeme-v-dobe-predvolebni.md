@@ -1,14 +1,21 @@
 ---
 ID: 1978
-title: 'Svatý Václave, vévodo české země, v&nbsp;době předvolební&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/svaty-vaclave-vevodo-ceske-zeme-v-dobe-predvolebni
-published: true
+oldlink: 'https://www.marigold.cz/item/svaty-vaclave-vevodo-ceske-zeme-v-dobe-predvolebni
+
+  '
 post_date: 2006-05-30 11:15:15
+post_excerpt: ''
+published: true
+summary_points:
+- Václav je vzýván jako vévoda a dědic České země v těžké hodině.
+- Hříchy zbabělosti, lenosti a nerozhodnosti jsou přiznány jako příčina trestu.
+- Žádost o Václavovu pomoc směřuje k probuzení moudrosti pro blaho země.
+- Prosba k Václavovi směřuje k záchraně současných i budoucích generací.
+title: Svatý Václave, vévodo české země, v&nbsp;době předvolební&#8230;
 ---
+
 Svatý Václave, 
 vévodo české země,
 kníže náš,

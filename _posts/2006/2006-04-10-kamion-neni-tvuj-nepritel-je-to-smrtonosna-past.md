@@ -1,16 +1,23 @@
 ---
 ID: 1959
-title: >
-  Kamion není tvůj nepřítel. Je to
-  smrtonosná past
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kamion-neni-tvuj-nepritel-je-to-smrtonosna-past
-published: true
+oldlink: 'https://www.marigold.cz/item/kamion-neni-tvuj-nepritel-je-to-smrtonosna-past
+
+  '
 post_date: 2006-04-10 10:01:32
+post_excerpt: ''
+published: true
+summary_points:
+- Česmad kampaň obhajuje kamiony, čelí kritice ohledně ekologie a logistiky.
+- Logistická centra bez vleček a drahá železnice komplikují ekologickou dopravu.
+- Ucelená dopravní politika chybí, mýtné a alternativy jsou těžko pochopitelné.
+- Simulace dopravy ukazuje negativní vliv kamionů na plynulost provozu.
+title: 'Kamion není tvůj nepřítel. Je to smrtonosná past
+
+  '
 ---
+
 <p>Česmad jakožto združení autodopravců rozjel billboardovou kampaň, v níž se snaží přesvědčovat, že kamiony nejsou naši nepřátelé. Koho chleba jíš, toho kámen házej, jistěže. </p>
 
 <p>Proti kamionům se objevuje řada argumentů, racionálních i iracionálních. Ekologicky myslící lidé upozorňují, že zaměňujeme příčinu a následky. Že kdybychom stavěli logistická centra tak, aby mohla používat jiné způsoby dopravy, nebylo by třeba kamionů. Kolik skladů ale dneska má vlečku? A kolik majitelů skladů má odvahu a peníze na to, poslat něco vlakem? Sám si dobře pamatuju, jak jsem posílal vlakem mandarinky z Itálie abych byl "ekologický". Nebyla to slast. </p>

@@ -1,14 +1,21 @@
 ---
 ID: 2125
-title: Spotřební zboží
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/spotrebni-zbozi
-published: true
+oldlink: 'https://www.marigold.cz/item/spotrebni-zbozi
+
+  '
 post_date: 2007-07-13 15:59:59
+post_excerpt: ''
+published: true
+summary_points:
+- Spotřební elektronika se definuje nezájmem o parametry, důležitý je vzhled.
+- Mobilní telefony dnes nabízejí dostatek funkcí pro běžné i neběžné uživatele.
+- Notebooky se stále častěji vybírají podle vzhledu, výkon je obvykle dostačující.
+- Operační systémy jsou otázkou vkusu, osobního postoje, nikoliv optimalizace.
+title: Spotřební zboží
 ---
+
 Přemýšleli jste někdy o tom, kdy se z počítače stane spotřební elektronika? A kdy se stala z mobilního telefonu? Definic je mnoho, ale já mám jednu soukromou: spotřební elektronika je výrobek, u něhož nás vlastně nezajímají žádné parametry. Například takový DVD přehrávač. Schopnost přehrávat DVD disky vyplývá z jeho názvu a většinou je to také to jediné, co běžného uživatele zajímá. To splňují všechny DVD přehrávače a tak se při nákupu uživatel rozhoduje většinou podle vzhledu.  Pokud nemá smůlu / štěstí a nepotřebuje splnit specifická kritéria. 
 
 <h3>Mobilní telefon</h3>

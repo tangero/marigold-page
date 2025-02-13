@@ -1,15 +1,24 @@
 ---
 ID: 2222
-title: 'PaySec ještě neběží a&nbsp;už má na triku podvody s&nbsp;identitama'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Platby
+- Startupy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/paysec-jeste-nebezi-a-uz-ma-na-triku-podvody-s-identitama
-published: true
+oldlink: 'https://www.marigold.cz/item/paysec-jeste-nebezi-a-uz-ma-na-triku-podvody-s-identitama
+
+  '
 post_date: 2008-04-16 06:14:49
-categories: [Platby, Startupy]
+post_excerpt: ''
+published: true
+summary_points:
+- PaySec propagovala PR agentura Bison & Rose falešnými blogy.
+- Autor kritizuje PaySec pro primitivnost a oddělení účtů.
+- Vnitroústavní převod na PaySec trvá déle než jeden den.
+- Registrace obchodního účtu PaySec vyžaduje tisk a podpis smluv.
+title: PaySec ještě neběží a&nbsp;už má na triku podvody s&nbsp;identitama
 ---
+
 Sám jsem se do nové platební služby PaySec registroval teprve včera, abych ji trochu prozkoumal. Dlužno říct, že především pod dojmem investigativního článku <a href="http://online.zurnalistika.cz/62/pr-agentura-zneuziva-blogy-ceskych-deniku/">Adama Javůrka na Online Žurnalistice</a>. Byl to kapitální úlovek, všechna čest Adamovi. 
 
 O co jde? Zjednodušeně o to, že PR agentura Bison & Rose pracující pro ČSOB a Poštovku vytvořila blogy se smyšlenými identitami, v nichž se navážela do konkurenčních služeb jako Premium SMS a nadšeně tleskala PaySecu. Bylo by to tabulkově povedené, i když málo účinné PR (blogy si přečetly stovky lidí), kdyby na to Adam Javůrek nepřišel, celé to nezdokladoval a nepublikoval. Od něj už to převzala E15 a řekl bych, že nějakou chvíli se ostuda ještě poveze. Přeci jen podvádět s identitama kolem platební služby, to není zrovna dobrá vizitka. 

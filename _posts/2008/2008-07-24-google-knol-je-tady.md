@@ -1,15 +1,23 @@
 ---
 ID: 2262
-title: Google Knol je tady
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Google
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/google-knol-je-tady
-published: true
+oldlink: 'https://www.marigold.cz/item/google-knol-je-tady
+
+  '
 post_date: 2008-07-24 13:48:56
-categories: [Google]
+post_excerpt: ''
+published: true
+summary_points:
+- Google Knol, encyklopedie/platforma, byla uvolněna po stížnostech na její nedostupnost.
+- Knol se zaměřuje na praktické problémy, na rozdíl od encyklopedických hesel Wikipedie.
+- Autoři Knol článků si volí stupeň spolupráce a práva šíření díla.
+- Editor Knol je uživatelsky přívětivější než editor Wikipedie.
+title: Google Knol je tady
 ---
+
 Samozřejmě je to náhoda, ale vtipná. Pár dní poté, co jsem si postěžoval, že <strong>Google Knol</strong> po roce od oznámení stále není, ho Google uvolnil a najdete ho na <a href="http://knol.google.com">knol.google.com</a>.
 
 Nejprve, o co jde. Knol má být encyklopedie, všeobjímající vědění nebo spíše publikační platforma pro všechna možná témata, která by někoho jiného zajímala. Na první pohled to vypadá podobně, jako Wikipedia, ale už na ten druhý pohled na samotný web zjistíte, že je to jiné. O dost. 

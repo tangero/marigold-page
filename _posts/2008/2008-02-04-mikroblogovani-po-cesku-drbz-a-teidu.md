@@ -1,15 +1,24 @@
 ---
 ID: 2195
-title: 'Mikroblogování po&nbsp;česku: Drbz a&nbsp;Teidu'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Sociální sítě
+- Startupy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mikroblogovani-po-cesku-drbz-a-teidu
-published: true
+oldlink: 'https://www.marigold.cz/item/mikroblogovani-po-cesku-drbz-a-teidu
+
+  '
 post_date: 2008-02-04 10:57:46
-categories: [Sociální sítě, Startupy]
+post_excerpt: ''
+published: true
+summary_points:
+- Twitter a Jaiku inspirovaly české reklamní mikroblogy ŽiješJenJednou.cz a CoDělám.cz.
+- Drbz.cz umožňuje přidávání příspěvků přes web, SMS a integraci do Wordpressu.
+- Teidu.cz od Bloguje.cz umožňuje teidovat z mobilu, webu i SecondLife.
+- Mikroblogy v Česku se pravděpodobně nezhodnotí rychle, ale mají svůj smysl.
+title: 'Mikroblogování po&nbsp;česku: Drbz a&nbsp;Teidu'
 ---
+
 Bylo jen otázkou času, kdy mikroblogovací systémy dorazí i do Česka. Po slušném celosvětovém úspěchu Twitteru a Jaiku (ve smyslu návštěvnosti a citovanosti v médiích) se i u nás něco urodilo, ale byly to spíš drobnosti reklamního charakteru jako staropramenný reklamní <a href="http://www.zijesjenjednou.cz">ŽiješJenJednou.cz</a> nebo velmi jednoduché <a href="http://www.codelam.cz">CoDělám.cz</a>. Zatímco oba dva tyto projekty jsou už spíše neaktuální, dva nové přicházejí.
 <!--more-->
 Tím prvním systémem je DRBZ, tím druhým je Teidu. Je to pořadí abecední i ve smyslu spuštěnosti projektu. 

@@ -1,13 +1,19 @@
 ---
 ID: 2070
-title: 'Bezdrátový pražský internet – někdo upadl na hlavičku a&nbsp;hřebíček to nebyl'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: 'https://www.marigold.cz/item/bezdratovy-prazsky-internet-%e2%80%93-nekdo-upadl-na-hlavicku-a-hrebicek-to-nebyl'
-published: true
+oldlink: https://www.marigold.cz/item/bezdratovy-prazsky-internet-%e2%80%93-nekdo-upadl-na-hlavicku-a-hrebicek-to-nebyl
 post_date: 2007-02-08 21:38:29
+post_excerpt: ''
+published: true
+summary_points:
+- Pražský magistrát plánuje vybudovat bezdrátovou síť za 300 milionů z dotací.
+- Autor kritizuje plán jako technologicky a ekonomicky labilní, možná zmanipulovaný.
+- WiFi síť je pro magistrátní účely pomalá, nevhodná a kapacitně nedostačující technologie.
+- Místo WiFi by Praha měla investovat do optické sítě FTTH, která je modernější.
+title: Bezdrátový pražský internet – někdo upadl na hlavičku a&nbsp;hřebíček to nebyl
 ---
+
 <texy>Kauza bezdrátového internetu v Praze se mi zdála být natolik komickou, že se jí zabývám na Marigoldu jen okrajově, jednou za uherský rok. Zdá se, že uhrovitost tohoto roku je dostatečná k tomu, abychom se k tématu vrátili. 
 
 Zopakujme si základní fakta alespoň v podobě, v jaké odpovídají turbulentní době. Pražský magistrát hodlá vybudovat bezdrátovou síť pokrývající části Prahy či snad i celou. K tomuto účelu hodlal vydudat peníze z Ministerstva informatiky v rámci podpory broadbandu, což ministerstvo prohlédlo jako šaškárnu a věc odpískalo. Magistrát se následně obrátil na nejrůznější fondy a dotace, rozpočet navýšil na částku přes 300 milionů a doufá, že celá věc projde. 

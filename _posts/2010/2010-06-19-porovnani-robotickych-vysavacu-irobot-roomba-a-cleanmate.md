@@ -1,15 +1,23 @@
 ---
 ID: 2361
-title: 'Porovnání robotických vysavačů iRobot Roomba a&nbsp;CleanMate'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Roboti
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/porovnani-robotickych-vysavacu-irobot-roomba-a-cleanmate
-published: true
+oldlink: 'https://www.marigold.cz/item/porovnani-robotickych-vysavacu-irobot-roomba-a-cleanmate
+
+  '
 post_date: 2010-06-19 08:54:15
-categories: [Roboti]
+post_excerpt: ''
+published: true
+summary_points:
+- CleanMate naráží do překážek v plné rychlosti, Roomba zpomaluje.
+- Roomba kopíruje zdi a lépe vysává prach podél nich.
+- Roomba se lépe vypořádává se zamotáním do kabelů a překážek.
+- Roomba s automatikou umožňuje programované denní luxování.
+title: Porovnání robotických vysavačů iRobot Roomba a&nbsp;CleanMate
 ---
+
 <p>Nedávno jsem spíše z legrace napsal <a href="http://www.lupa.cz/clanky/strastiplnost-hackovani-domaciho-vysavace/">článek o tom, jak všelijak se dají hackovat robotické vysavače</a>. Ukázalo se, že slušné obliby došly vcelku vážně míněné, byť humorněji podané argumenty pro a proti dvěma v Česku asi nejprodávanějším modelům: CleanMate versus Roomba. Měl jsem možnost porovnat oba a ve více modelech a generačních provedeních. A aby to bylo snáze dohledatelné, vytáhnu toto porovnání zvláště.</p>
 
 <p>U nás je velmi populárním produktem <a href="http://www.cleanmate.cz">CleanMate</a> společnosti Infinuvo, který je levnější (kolem 5 tisíc Kč, záleží na modelu a výbavě), jeho protipólem je <a href="http://www.roomba.cz/">Roomba</a>, která stojí spíše dvojnásobek (nejlevnější stojí 8 000 Kč. Připlácíte si v případě Roomby za značku, nebo má i nějaké kvalitativní přednosti? Ano, jsou tu objektivní rozdíly a to tak, že značné, které umí používání robovysavače řádně znepříjemnit. Takže?</p>

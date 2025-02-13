@@ -1,14 +1,24 @@
 ---
 ID: 1500
-title: Na Novém Smíchově je free hotspot
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/na-novem-smichove-je-free-hotspot
-published: true
+oldlink: 'https://www.marigold.cz/item/na-novem-smichove-je-free-hotspot
+
+  '
 post_date: 2005-01-29 15:09:32
+post_excerpt: ''
+published: true
+summary_points:
+- Nový Smíchov nabízí telekomáckou WiFi s nezapamatovatelným heslem, nedostupnou na
+  Nokia 9500.
+- Kavárna Calypso poskytuje zdarma hotspot s automatickým nastavením přes DHCP.
+- Autor zvažuje použití MMC karty v Panasonic Lumix FX2 pro kompatibilitu s Nokia
+  9500.
+- Radek Hulán dokončil automatické náhledy snímků, což motivuje autora k realizaci
+  nápadu.
+title: Na Novém Smíchově je free hotspot
 ---
+
 <p>Dorazil jsem na Nový Smíchov, populárního to obchodního centra. Mají tu WiFi, bohužel to telekoumácké, s nezapamatovatelným přístupovým jménem a heslem, jež nelze změnit. Mám ho uložené v notebooku, ale na Nokia 9500 tedy rozhodně ne.</p>
 
 <p>Jenže pak jsem si tu v horní kavárně Nescafé všiml, že je tu druhý hotspot, ze sousední internetové kavárny Calypso. A ten je zdarma, nastavení dodá přes DHCP a jedu přes něj na první pokus. Děkuji za každý free hotspot.</p>

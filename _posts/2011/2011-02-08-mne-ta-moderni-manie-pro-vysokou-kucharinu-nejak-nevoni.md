@@ -1,15 +1,24 @@
 ---
 ID: 2847
-title: 'Mně ta moderní mánie pro vysokou kuchařinu nějak nevoní&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Společnost
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mne-ta-moderni-manie-pro-vysokou-kucharinu-nejak-nevoni
-published: true
+oldlink: 'https://www.marigold.cz/item/mne-ta-moderni-manie-pro-vysokou-kucharinu-nejak-nevoni
+
+  '
 post_date: 2011-02-08 11:40:04
-categories: [Společnost, Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Kuchařští experti se vyrojili, i ti, co dříve vařili špagety s landšmítem.
+- Pohlreich údajně způsobil zrušení zeleninové oblohy v hospodách.
+- Autor preferuje poctivé jídlo z kvalitních surovin před "ekobiogreen" produkty.
+- Italská kuchyně chutná italsky v Itálii, oblohu ať nechají.
+title: Mně ta moderní mánie pro vysokou kuchařinu nějak nevoní&#8230;
 ---
+
 V poslední době je každý kolem kuchařský expert non plus ultra. Klučina, se kterým jsme na puťáku vařili špagety s landšmítem na kopřivách, mi významně sděluje, že konečně našel "skvělé italské prošuto". A na mou otázku, kde je vzpomínka na problitou noc nad rendlíkem, mě ujišťuje, že je to věc stylu.
 
 Jsou chvíle, kdy mě to dojímá ke křiku. Onehdá jsme šli slavit vysvědčení s dětma do pardubické hospody Garáž. Normální podnik, normální kuchyně. Objednáme si jídlo, přinesou ho, já koukám na talíř a ptám se, kde je obloha. Že tam vždycky měli prima oblohu, čerstvé zelí, mrkev, hrášek, co zrovna bylo na trhu. A číšnice? Že prý je to kvůlivá Pohlreichovi, že kdyby jim tam vlítnul, tak že by je zkritizoval, že dávají zelí na talíř. V tu dobu jsem ještě nebyl zorientovaný, takže jsem se domníval, že to bude nějaký obstarožní pardubický hygienik, který dělá dusno. Takže místo toho, abych dostal na talíři navíc čerstvou zeleninu, která budila příjemný dojem plného talíře, pořádné porce a ještě jste se nepřežrali jen masem a přílohou, tak jsem utřel. Pěkně děkuju, zfanfrnělý pražský vývařovník se rozhodl, že kdo nevaří podle jeho gusta, vaří hnusně. 

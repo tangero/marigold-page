@@ -1,14 +1,22 @@
 ---
 ID: 1782
-title: 'WideNet nyní také v&nbsp;síti čerpacích stanic OMV a&nbsp;s&nbsp;roamingem Boingo'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/widenet-nyni-take-v-siti-cerpacich-stanic-omv-a-s-roamingem-boingo
-published: true
+oldlink: 'https://www.marigold.cz/item/widenet-nyni-take-v-siti-cerpacich-stanic-omv-a-s-roamingem-boingo
+
+  '
 post_date: 2005-08-22 07:54:35
+post_excerpt: ''
+published: true
+summary_points:
+- WideNet zprovoznil první WiFi přípojné body na čerpacích stanicích ÖMV.
+- WideNet spolupracuje s CommOnline a rozšiřuje WiFi pokrytí na 52 ÖMV pump.
+- WiFi signál WideNetu pokrývá vnitřek i parkoviště čerpacích stanic ÖMV.
+- Boingo roaming je dostupný v síti WideNet, podporuje Skype Zones VoIP.
+title: WideNet nyní také v&nbsp;síti čerpacích stanic OMV a&nbsp;s&nbsp;roamingem
+  Boingo
 ---
+
 <p>Společnost WideNet zprovoznila první část přípojných bodů v síti čerpacích stanic ÖMV.  V síti WideNetu je nyní dostupný roaming pro klienty Boingo, jednoho z největších světových agregátorů pro bezdrátové připojení.  </p>
 
 <p>Díky spolupráci WideNetu se společností CommOnline –  provozovatelem reklamy na LCD obrazovkách – je nyní služba bezdrátového připojení k internetu dostupná na prvních šesti čerpacích stanicích sítě OMV. Nyní probíhá intenzivní výstavba v dalších lokalitách tak, aby bylo v následujících třech měsících pokryto až 52 lokalit na pumpách po celé ČR, především v blízkosti hlavních dopravních tepen.</p>

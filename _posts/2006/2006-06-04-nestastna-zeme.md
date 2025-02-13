@@ -1,14 +1,21 @@
 ---
 ID: 1980
-title: 'Nešťastná země&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nestastna-zeme
-published: true
+oldlink: 'https://www.marigold.cz/item/nestastna-zeme
+
+  '
 post_date: 2006-06-04 07:34:12
+post_excerpt: ''
+published: true
+summary_points:
+- Výlet směřoval na Zbraslav, místo posledního odpočinku přemyslovských králů.
+- Autor slíbil položit rudé růže svatému Václavovi po vítězství svobodných stran.
+- Volby skončily plichtou, což vyvolává nejistotu ohledně budoucí vlády.
+- Paroubek zpochybnil volby kvůli údajnému porušení vyhlášky o teplé vodě.
+title: Nešťastná země&#8230;
 ---
+
 <p>Včera jsme jeli se Sofií na výlet. Na Zbraslav, místo posledního odpočinku přemyslovských králů. Poklonit se těm, kteří tenhle stát založili a udrželi, ať byla doba jakkoliv turbulentní. </p>
 
 <p>Slíbil jsem si, že když vyhrají svobodné strany (rozuměj vlastně cokoliv mimo KSČM a ČSSD, nově též pro stručnost označované jako KSSD), půjdu v neděli na Václavské náměstí položit kytici rudých růží k soše svatého Václava. Tak nějak jsem si říkal, že jsme se tu v Čechách nenaučili dávat najevo vděčnost za samozřejmé maličkosti, které nás potkávají. A také to, že je to symbolické. Že by ta rudá pakáž odírající zemi měla skončit opravdu pod kopyty koně. </p>

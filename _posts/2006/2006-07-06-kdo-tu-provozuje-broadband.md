@@ -1,14 +1,22 @@
 ---
 ID: 1992
-title: Kdo tu provozuje broadband
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdo-tu-provozuje-broadband
-published: true
+oldlink: 'https://www.marigold.cz/item/kdo-tu-provozuje-broadband
+
+  '
 post_date: 2006-07-06 09:06:58
+post_excerpt: ''
+published: true
+summary_points:
+- Projekt hledá české broadband poskytovatele (nad 512 Kb/s) pro rezidenční trh.
+- Požadavek kvalitní páteřní sítě a benevolentní FUP diskvalifikuje 4G Internet od
+  T-Mobile.
+- Zájem o firmy s více než 1000 klienty nabízející broadband pro domácnosti.
+- Seznam zahrnuje Český Telecom, UPC, Karneval, Mattes, Netbox, BD-Tel a Petřiny.net.
+title: Kdo tu provozuje broadband
 ---
+
 <p>Pro projekt, jenž připravujeme na podzim tohoto roku, řeším drobný problém. Kdo v Česku provozuje broadband pro rezidenční trh? Nejdříve definice: broadbandem rozumím přípoku nad 512 Kb/s (včetně) se stabilními kvalitativními ukazateli, tedy bez zásadního kolísání této rychlosti, s velkým rozptylem/jitterem atd. To tedy nutně nevyřazuje dobře navržené WiFi sítě, kde WiFi je jen koncovou technologií. </p>
 
 <p>Vzhledem k tomu, že předpokládáme citelně vyšší průtok dat, je potřeba kvalitní páteřní síť (tam už WiFi nesmí) a benevolentní limit přenesených dat nebo možnost vyjmutí naší aplikace z FUP - to diskvalifikuje zřejmě i Internet 4G od T-Mobile.</p>

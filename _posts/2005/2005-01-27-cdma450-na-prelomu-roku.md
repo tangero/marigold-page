@@ -1,14 +1,21 @@
 ---
 ID: 1498
-title: CDMA450 na přelomu roku
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cdma450-na-prelomu-roku
-published: true
+oldlink: 'https://www.marigold.cz/item/cdma450-na-prelomu-roku
+
+  '
 post_date: 2005-01-27 19:14:10
+post_excerpt: ''
+published: true
+summary_points:
+- Německo získá CDMA450 díky Inquam Deutschland, T-Mobile zvažuje FlashOFDM.
+- Švédsko a Finsko budou rozhodovat o licencích, CDMA450 má šanci.
+- Skylink v Murmansku zavádí CDMA450 EV-DO síť od ZTE.
+- Argentina zavede CDMA450 síť od ZTE, důraz na hlasové služby.
+title: CDMA450 na přelomu roku
 ---
+
 <p>Technologie CDMA přenesená do frekvenčního pásma 450 MHz určeného dříve analogovým systémům, je stále na postupu. Podívejme se, co se událo na sklonku roku 2004/5. </p>
 
 <p>Velkým bojištěm se stalo v druhé polovině roku Německo. Jak jsem upozorňoval, místní regulátor RegTP uvolnil pásmo a vyhlásil tendr o tři licence. Jelikož se přihlásili pouze dva uchazeči, staly se před vánocemi vítězi nepříliš překvapivě Inquam Deutschland a T-Mobile. Zatímco na firmu T-Mobile si asi vzpomeneme, Inquam je investičně prodloužená ruka Qualcommu, firmy, která za prosazováním a techniku CDMA450 stojí. </p>

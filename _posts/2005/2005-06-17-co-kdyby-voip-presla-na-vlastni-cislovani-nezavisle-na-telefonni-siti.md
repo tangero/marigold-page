@@ -1,17 +1,23 @@
 ---
 ID: 1687
-title: >
-  Co kdyby VoIP přešla na vlastní
-  číslování nezávislé na telefonní
-  sítí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/co-kdyby-voip-presla-na-vlastni-cislovani-nezavisle-na-telefonni-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/co-kdyby-voip-presla-na-vlastni-cislovani-nezavisle-na-telefonni-siti
+
+  '
 post_date: 2005-06-17 08:54:00
+post_excerpt: ''
+published: true
+summary_points:
+- FCC regulace VoIP zvyšuje náklady, omezuje svobodu a zavádí potenciální dohled.
+- Oddělení VoIP od telefonní sítě pomocí nového adresování by obešlo regulace.
+- Nový VoIP systém adresace by mohl využívat zapamatovatelná jména namísto čísel.
+- SIP Broker umožňuje bezplatné volání mezi VoIP sítěmi, ale bez české účasti.
+title: 'Co kdyby VoIP přešla na vlastní číslování nezávislé na telefonní sítí
+
+  '
 ---
+
 <p>Poslední dění ve světě VoIP není nakloněno těm, kteří v této technologii vidí vyvázání se z oligopolních praktik telekomunikačních operátorů, z nichž, co si budeme povídat, se většina chová jako svině. Nároky FCC na doplnění VoIP o povinnou lokalizaci telefonujících a přístupnost nouzové linky znamenají další náklady a nepříjemná omezení stejně jako možnost implementace bedlivého oka velkého bratra. </p>
 
 <p>Regulace VoIP se zakládá na faktu, že VoIP je propojena s telefonní sítí a telefonní síť je regulována. Přenos hlasu po internetu, který nesměřuje do telefonní sítě, samozřejmě regulován nebude, protože tam není možno se vymlouvat na harmonizaci mezi klasickou okruhovou a VoIP technologií. A právě proto se stále častěji objevují myšlenky na vytvoření samostatného způsobu adresování hovorů ve VoIP sítích, které by bylo otevřeným standardem pro všechny VoIP služby. Tak by se VoIP mohla odklonit zcela z obzoru  telefonní regulace.</p>

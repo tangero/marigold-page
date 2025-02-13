@@ -1,14 +1,21 @@
 ---
 ID: 1940
-title: 'Jaký je váš názor na &#8222;obecní&#8220; internet (zdarma)?'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jaky-je-vas-nazor-na-obecni-internet-zdarma
-published: true
+oldlink: 'https://www.marigold.cz/item/jaky-je-vas-nazor-na-obecni-internet-zdarma
+
+  '
 post_date: 2006-03-08 17:56:52
+post_excerpt: ''
+published: true
+summary_points:
+- Internet zdarma projekty obcí často motivovány popularitou starostů před volbami.
+- Zodpovědní představitelé obcí konzultují problematiku internetu zdarma s odborníky.
+- Autor nesouhlasí s tím, aby radnice konkurovala soukromým firmám internetem zdarma.
+- Autor hledá způsoby, jak zajistit přístup k informacím bez poškození ISP.
+title: Jaký je váš názor na &#8222;obecní&#8220; internet (zdarma)?
 ---
+
 <p><strong>Noname píše:</strong> Kauza projektu "Internet zdarma" Hlavního města Prahy rozpotala vlnu podobných projektů, mnoho obcí se tím nyní prezentuje na venek, zjevně za účelem zvýšit popularitu svých starostů před nadcházejícími volbami, a nebo prostě jen proto, že jim to přijde hezké, ale jaksi se tím hlouběji nezabývali a nebo tomu ani tolik nerozumí (ostatně - proč by měli rozumět všemu).</p>
 
 <p>Naštěstí existují obce, kde jsou představitelé, kteří se rádi skontaktují s někým, kdo tomu rozumí a nechají si celou problematiku vysvětlit, zjistí si pro a proti, nechají si vypracovat projekt atd., prostě k tomu přistupují zodpovědně.</p>

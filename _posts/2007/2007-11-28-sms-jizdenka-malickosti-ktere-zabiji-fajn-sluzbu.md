@@ -1,14 +1,24 @@
 ---
 ID: 2178
-title: 'SMS Jízdenka: maličkosti, které zabíjí fajn službu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sms-jizdenka-malickosti-ktere-zabiji-fajn-sluzbu
-published: true
+oldlink: 'https://www.marigold.cz/item/sms-jizdenka-malickosti-ktere-zabiji-fajn-sluzbu
+
+  '
 post_date: 2007-11-28 11:26:02
+post_excerpt: ''
+published: true
+summary_points:
+- SMS jízdenka DP Praha funguje s velkým zpožděním, testovací jízdenka dorazila po
+  14 minutách.
+- Dopravní podnik negarantuje doručení SMS jízdenky do dvou minut, cestující riskuje
+  jízdu načerno.
+- Technické kapacity SMS rozhraní jsou dostatečné, zpoždění je pravděpodobně způsobeno
+  špatným nastavením DP.
+- Autor doporučuje při kontrole s nedoručenou SMS jízdenkou předstírat vybitý telefon.
+title: 'SMS Jízdenka: maličkosti, které zabíjí fajn službu'
 ---
+
 Včera jsem dorazil na metro Chodov a řekl jsem si, že vyzkouším SMS jízdenku. Hlavně z nostalgie. Za mého působení v Pipeline jsem potkal asi pět SMS projektů na prodej jízdenek různých ambicí a jestli jsem si z toho odnesl nějaký poznatek, tak fakt, že zprovoznit tuhle službu je technicky snadné a složité je jen domluvit to s Dopravním podnikem. Zjevně proto celá záležitost jde do provozu až teď, po nějakých třech letech od prvních pokusů.
 
 Je to jednoduchá a přitom užitečná služba, prodávat jízdenky přes placené SMS. Abych viděl, jak se s tím nakonec popral DP Praha, vyzkoušel jsem si to. Berte tedy prosím následující jako poznatek z jediného testu, přičemž kvůli jeho výsledku jsem se rozhodl zatím setrvat u papírových jízdenek. DP se totiž podařilo bohužel zflikovat i tak jednoduchou službu. 

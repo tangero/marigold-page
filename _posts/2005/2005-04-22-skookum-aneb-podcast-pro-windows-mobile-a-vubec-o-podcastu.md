@@ -1,14 +1,21 @@
 ---
 ID: 1622
-title: 'Skookum aneb podcast pro Windows Mobile a&nbsp;vůbec o&nbsp;podcastu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/skookum-aneb-podcast-pro-windows-mobile-a-vubec-o-podcastu
-published: true
+oldlink: 'https://www.marigold.cz/item/skookum-aneb-podcast-pro-windows-mobile-a-vubec-o-podcastu
+
+  '
 post_date: 2005-04-22 08:45:10
+post_excerpt: ''
+published: true
+summary_points:
+- Skookum je podcastový klient pro Windows Mobile, stojí 10 USD.
+- Podcasty umožňují automatické stahování MP3 do smartphonů.
+- Operátoři by mohli Skookum nabízet pro zvýšení datové spotřeby.
+- Operátoři omezují přenos dat do PC mimo mobilní sítě.
+title: Skookum aneb podcast pro Windows Mobile a&nbsp;vůbec o&nbsp;podcastu
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/20050422-Skookum.jpg" alt="Skookum" width="178" height="222" /></div>Mobilní telefony vybavené microsoftím operačním systémem Windows Mobile nyní mohou být dovybaveny zajímavým kouskem software. Program se jmenuje Skookum a jde o klienta pro podcast. Tímto programem se můžete přihlásit k odběru podcastových zpráv a automaticky si je stahovat přes připojený počítač nebo přes mobilní síť. Skookum stojí 10 USD, <a href="http://www.smartphone.net/software_detail.asp?id=1401&amp;associateid=280">ku koupi zde</a>.</p>
 
 <p>Podle mne je to důležitý kus software. Smartfouny vybavené WM jsou většinou nadupané pamětí, mají i přídavné paměťové sloty a stahovat si do nich MP3 s mluveným slovem i hudbou automaticky pomocí podcastového software je docela příjemná věc. Kdo to nevyzkoušel, asi neuvěří, jenže od doby, co jsem si začal řadu rozhovorů a radiových relací stahovat do iPodu (bohužel jsem ještě nenašel nikoho, kdo by nabízel české relace ve formátu podcastu, takže musím sám růčo stahovat, ale co už), jsem si příjemně zvyknul na to, že si je mohu kdekoliv pustit a poslouchat, jak mně se hodí. A želím jedině toho, že moje Nokia 9500 žádný podobný podcast software nemá, protože by to bylo další lákadlo, jak zkonzumovat další airtime :)</p>

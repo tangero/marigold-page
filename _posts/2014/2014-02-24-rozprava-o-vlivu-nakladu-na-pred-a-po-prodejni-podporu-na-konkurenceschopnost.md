@@ -1,14 +1,21 @@
 ---
 ID: 2788
-title: 'Rozprava o&nbsp;vlivu nákladů na před a&nbsp;po-prodejní podporu na konkurenceschopnost'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/rozprava-o-vlivu-nakladu-na-pred-a-po-prodejni-podporu-na-konkurenceschopnost
-published: true
+oldlink: 'https://www.marigold.cz/item/rozprava-o-vlivu-nakladu-na-pred-a-po-prodejni-podporu-na-konkurenceschopnost
+
+  '
 post_date: 2014-02-24 07:44:50
+post_excerpt: ''
+published: true
+summary_points:
+- Cena a servis jsou úměrné, klíčové je nastavení ku prospěchu všech.
+- Telefonáty a schůzky zvyšují náklady na akvizici klienta.
+- Maximum informací směřovat na internet snižuje náklady na obsluhu prodeje.
+- Samoobslužné znalostní koutky a podpora jsou výhodou pro zákazníka i prodejce.
+title: Rozprava o&nbsp;vlivu nákladů na před a&nbsp;po-prodejní podporu na konkurenceschopnost
 ---
+
 <p>Mám kamaráda, který se drží zásady, že když si v jeho firmě objednáváte služby do pětikila měsíčne, nemáte nárok na papírovou fakturu, přijde vám jen elektronická. Vždy mi to připomene, že mezi cenou a servisem kolem prodeje, je velmi přímá úměra, kterou nebývá vždy jednoduché rozklíčovat a nastavit ku prospěchu všech. Dnešní ranní povídání z vlaku do Valmezu tedy bude o cenách a cenotvorbě ve vztahu k nákladům na před- a po-prodejní podporu. </p>
 
 

@@ -1,14 +1,21 @@
 ---
 ID: 1944
-title: 'Obecní internet &#8211; PROČ?'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/obecni-internet-proc
-published: true
+oldlink: 'https://www.marigold.cz/item/obecni-internet-proc
+
+  '
 post_date: 2006-03-13 13:11:56
+post_excerpt: ''
+published: true
+summary_points:
+- Obecní internet vyžaduje jasné "PROČ", jinak projekty selhávají.
+- Politici často nemají dostatečné IT znalosti pro efektivní obecní internet.
+- Motivy pro obecní internet zahrnují hlasy, dotace, pokrytí, ceny a rozvoj.
+- Dostupný internet může obci snížit náklady, zvýšit příjmy a zaměstnanost.
+title: Obecní internet &#8211; PROČ?
 ---
+
 <p><strong>Noname píše:</strong> Minulý týden jsme tu ve dvou článcích (<a href="/item/jaky-je-vas-nazor-na-obecni-internet-zdarma">Jaký je váš názor na obecní internet zdarma</a> a <a href="/item/obecni-internet-vase-navrhy">Obecní internet - vaše návrhy</a>) otevřeli diskusi na téma obecního internetu. Přiznám se, byl to ode mě takový podlý tah, čekal jsem, až se někdo zeptá na jeden klíčový bod "proč vlastně obecní internet", až konečně <a href="/item/obecni-internet-vase-navrhy#comment11356">pod druhým článkem tak učinil Pavel</a> a byl za to veřejně před nastoupenou jednotkou pochválen ;-).</p>
 
 <p>Otázka PROČ je totiž u obecního internetu naprosto kruciální, neboť každá odpověď může přinést jiné "JAK", což si později ukážeme. Z toho důvodu ani nemohu brát argument Ooooka, že "je uplne jedno, jaky motiv ma konkretni obec k zavedeni Internetu - pokud je ten motiv legitimni a legalni". Právě proto, že jsem četl stovku obecních projektů tak mohu s klidem v srdci říct, že 99% z nich nevědělo vlastně PROČ a ty projekty podle toho vypadaly.</p>

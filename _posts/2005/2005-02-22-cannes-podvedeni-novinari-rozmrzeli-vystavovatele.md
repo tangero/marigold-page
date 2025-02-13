@@ -1,14 +1,21 @@
 ---
 ID: 1549
-title: 'Cannes: podvedení novináři, rozmrzelí vystavovatelé'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cannes-podvedeni-novinari-rozmrzeli-vystavovatele
-published: true
+oldlink: 'https://www.marigold.cz/item/cannes-podvedeni-novinari-rozmrzeli-vystavovatele
+
+  '
 post_date: 2005-02-22 07:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- GSM kongres zklamal novináře kvůli nesplněným slibům telekomunikačních firem v minulosti.
+- Firmy chtějí opět chválu pro nové technologie, ale novináři jsou skeptičtí.
+- Telekomunikační firmy podváděly marketingem, což vedlo ke ztrátě důvěry.
+- Důvěra je v krizi, protože PR oddělení lžou, zatímco novináři jsou trestáni.
+title: 'Cannes: podvedení novináři, rozmrzelí vystavovatelé'
 ---
+
 <p>Pokud bych měl shrnout svoje letošní dojmy z 3GSM kongresu v Cannes, asi bych řekl to, co jsem použil do nadpisu. I když s drobným vysvětlením. </p>
 
 <p>Mnoho novinářů, se kterými jsem v Cannes (a po něm) mluvil, brblalo, že se zde vlastně nic nepředvedlo. Když jsem  namítal a jmenoval konkrétní záležitosti, které mi přišly zajímavé, odpovídali mi novináři, že to je sice hezké, ale že hovořím o nějaké vyvíjející se technologii, která kdovíjak dopadne v praktickém provozu. Zamyslel jsem se nad tím a dlužno říci, že měli pravdu. </p>

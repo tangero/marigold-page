@@ -1,14 +1,21 @@
 ---
 ID: 2172
-title: 'Co si to na Živě dovolili s&nbsp;tím instant messagingem'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/co-si-to-na-zive-dovolili-s-tim-instant-messagingem
-published: true
+oldlink: 'https://www.marigold.cz/item/co-si-to-na-zive-dovolili-s-tim-instant-messagingem
+
+  '
 post_date: 2007-11-20 12:22:14
+post_excerpt: ''
+published: true
+summary_points:
+- Živě.cz redakce opustila ICQ kvůli problémům a přešla na MSN Messenger.
+- Instant messengery trpí uzavřeností, což je paradoxně i jejich výhoda.
+- Otevřené protokoly jako Jabber narážejí na nejednotnou podporu funkcí.
+- Autor preferuje ICQ a Skype, protože MSN/AIM ho nezaujaly.
+title: Co si to na Živě dovolili s&nbsp;tím instant messagingem
 ---
+
 Včera jsem zachytil náhodou článeček, <a href="http://www.zive.cz/Bleskovky/Z-redakce-Koncime-s-ICQ-prechazime-na-Windows-Live-Messenger/sr-1-sc-4-a-139028/default.aspx">v němž se redakce Živě svěřovala</a>, že přechází z ICQ na MSN Messenger (vím, že se to zrovna v tuhle chvíli jmenuje jinak, ale MSNM byl nejtrvanlivější název). Pročíst si diskusi byla poněkud deprimující přehlídka lidské omezenosti. 
 
 Zápletka je banální. Redakci Živě naštvaly neustálé problémy s ICQ, takže začali používat i MSN Messenger, aby záhy zjistili, že na něm sedí prakticky všichni, koho potřebují. A tak dobrovolně opustil ICQ s tím, že MSN Messenger je pro ně nejlepší.  A napsali to do článku. 

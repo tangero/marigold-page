@@ -1,17 +1,26 @@
 ---
 ID: 2315
-title: >
-  Jak jsem ukradl Windows koupené od
-  Microsoftu
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Microsoft
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-jsem-ukradl-windows-koupene-od-microsoftu
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-jsem-ukradl-windows-koupene-od-microsoftu
+
+  '
 post_date: 2008-11-17 19:14:30
-categories: [Microsoft, Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor instaloval Windows XP na iMac pro aktualizaci GPS map.
+- VMWare a Parallels vyžadují Windows XP SP2, které autor nemá.
+- Warez verze Windows XP SP2 neakceptovala autorovo sériové číslo.
+- Autor se ptá na legální řešení problému s aktivací Windows XP.
+title: 'Jak jsem ukradl Windows koupené od Microsoftu
+
+  '
 ---
+
 Je to jen osobní povzdech, malá frustrace po dvou zbytečných hodinách práce. Nic vážného nečekejte. 
 
 Mám nového iMacka doma, starého v práci jsem předal při svém odchodu.  A tak jsem na něm v poslední době instaloval veškerý software, co používám. A narazil jsem na zajímavý problém končící ve smyčce. 

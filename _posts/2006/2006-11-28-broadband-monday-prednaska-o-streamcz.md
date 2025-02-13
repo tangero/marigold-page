@@ -1,14 +1,21 @@
 ---
 ID: 2045
-title: 'Broadband Monday přednáška o&nbsp;Stream.cz'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/broadband-monday-prednaska-o-streamcz
-published: true
+oldlink: 'https://www.marigold.cz/item/broadband-monday-prednaska-o-streamcz
+
+  '
 post_date: 2006-11-28 16:38:40
+post_excerpt: ''
+published: true
+summary_points:
+- Video z Broadband Monday obsahuje přednášku o videu na internetu a Stream.cz.
+- Video má velikost přibližně 86MB a nahrává se postupně.
+- Video není distribuováno přes distribuční systém Streamu.
+- Flash video lze přehrát přímo v textu.
+title: Broadband Monday přednáška o&nbsp;Stream.cz
 ---
+
 <p>Dostal jsem video z přednášky Broadband Monday se záznamem mého povídání o videu na internetu a Stream.cz. Takže koho to zajímá, flash video si může přehrát rovnou zde. 
 </p>
 

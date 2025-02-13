@@ -1,14 +1,21 @@
 ---
 ID: 1785
-title: Za tu fotku se omlovám aneb Haptik
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/za-tu-fotku-se-omlovam-aneb-haptik
-published: true
+oldlink: 'https://www.marigold.cz/item/za-tu-fotku-se-omlovam-aneb-haptik
+
+  '
 post_date: 2005-08-23 06:32:11
+post_excerpt: ''
+published: true
+summary_points:
+- Fotka prototypu UI unikla omylem, není finální a nemusí se dostat na trh.
+- Haptik je nový systém kombinující klávesnici s dotykovou vrstvou pro ovládání telefonu.
+- Haptik umožňuje ovládání gesty, psaní tahem a nahrazuje kurzorové klávesy.
+- Haptik zlepšuje ovládání MP3 přehrávače a internetu, ale lze ho i vypnout.
+title: Za tu fotku se omlovám aneb Haptik
 ---
+
 <p>Omlovám se za zmatek s omylem publikovanou fotkou a děkuji i Seanovi z Komunikatory.cz, že ji stáhnul. Nešlo o nic zásadního, je to tovární prototyp k testování uživatelského interface, nevypadá to tak, jak to bude vypadat a jestli vás to uklidní, ani já nevím, jak bude to zařízení vypadat, protože tahle věc jde odděleně od UI vývoje. Prostě se to zařízení nemusí nikdy dostat na trh tak, jak bylo na fotce, slouží jen na testy a já ho původně přeposílal z mobilu do soukromé galerie.</p>
 
 <p>Abych vás za toto příkoří odčinil, povím vám o některých UI novinkách, na kterých se pracuje. Berte prosím jen v potaz, že si výslovně nepřeju překlad tohoto článku ani jeho částí z češtiny.</p>

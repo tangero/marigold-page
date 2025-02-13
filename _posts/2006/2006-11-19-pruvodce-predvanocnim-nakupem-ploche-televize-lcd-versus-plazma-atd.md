@@ -1,14 +1,23 @@
 ---
 ID: 2041
-title: 'Průvodce předvánočním nákupem ploché televize: LCD versus Plazma atd'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pruvodce-predvanocnim-nakupem-ploche-televize-lcd-versus-plazma-atd
-published: true
+oldlink: 'https://www.marigold.cz/item/pruvodce-predvanocnim-nakupem-ploche-televize-lcd-versus-plazma-atd
+
+  '
 post_date: 2006-11-19 16:15:33
+post_excerpt: ''
+published: true
+summary_points:
+- LCD televize do 40 palců dominují trhu díky ceně, spotřebě a nenáročnosti uživatelů.
+- Doporučená vzdálenost od obrazovky je troj až pětinásobek úhlopříčky pro optimální
+  vnímání.
+- HD Ready televize vyžadují deformaci obrazu, což snižuje věrnost, ale jsou cenově
+  dostupné.
+- HDMI port je klíčový pro připojení HD přehrávačů a počítačů, DVB-T tuner není nutný.
+title: 'Průvodce předvánočním nákupem ploché televize: LCD versus Plazma atd'
 ---
+
 <texy>Rok s rokem se sejde, Santa Klaus zvonečky v hypermarketech zacinká a k nákupnímu šílenství zvanému poesie vánoc patří stejně neodmyslitelně, jako bezobsažné plky politiků, také marigoldí článek věnovaný nákupu nového placatého televizoru. 
 
 Po pravdě řečeno, dvojice článků věnovaná každoročnímu předvánočnímu sebepřesvědčování, že již nadešel správný čas vyrazit do prodejny pro novou televizi, je už skoro tradicí. Vždy je to dobrá příležitost ohlédnout se za tím, jaké nové technologie už nás dostihly a jaké nás předstihly nebo nedostihly. 

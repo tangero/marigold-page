@@ -1,14 +1,22 @@
 ---
 ID: 2918
-title: Chvíle na stěhování energomonitoru
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chvile-na-stehovani-energomonitoru
-published: true
+oldlink: 'https://www.marigold.cz/item/chvile-na-stehovani-energomonitoru
+
+  '
 post_date: 2014-06-27 11:27:31
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor se stěhuje z Valašského Meziříčí do Krásna nad Bečvou kvůli nedostatku
+  místa.
+- Firma plánuje vlastní výrobu a kompletaci v Česku, menší zakázky.
+- Inspiraci pro nové kanceláře hledají, ale extravagantní designy odmítají.
+- Přijali nové zaměstnance a čeká je seznámení s novým šéfem projektů.
+title: Chvíle na stěhování energomonitoru
 ---
+
 <p>V energomonitoru nás za jaro přibylo tolik, že už se do kanceláří ve Valašském Meziříčí nemůžeme vejít. Tedy, můžeme, ale už je problém cokoliv jiného, než se tam vejít, například pracovat či se poradit - a to další kolegové mají dorazit v létě a jak to tak vypadá, s hledáním fajn a schopných lidí nějakou dobu nebudeme končit. Takže nás čeká stěhování. </p>
 
 

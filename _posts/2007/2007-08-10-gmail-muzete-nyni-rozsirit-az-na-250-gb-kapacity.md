@@ -1,16 +1,23 @@
 ---
 ID: 2138
-title: >
-  GMail můžete nyní rozšířit až na
-  250 GB kapacity
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/gmail-muzete-nyni-rozsirit-az-na-250-gb-kapacity
-published: true
+oldlink: 'https://www.marigold.cz/item/gmail-muzete-nyni-rozsirit-az-na-250-gb-kapacity
+
+  '
 post_date: 2007-08-10 10:22:48
+post_excerpt: ''
+published: true
+summary_points:
+- Gmail po zaplnění schránky vrací chybovou hlášku, jak je obvyklé.
+- Kapacita Gmailu se po promazání spamu snížila z 98% na 30%.
+- Google nabízí 250GB za 500 dolarů ročně nebo 6GB za 20 dolarů.
+- Navýšení kapacity lze využít i pro Picasa Web a Google Docs.
+title: 'GMail můžete nyní rozšířit až na 250 GB kapacity
+
+  '
 ---
+
 Nedávno jsem <a href="http://www.marigold.cz/item/gmail-a-co-se-stane-pak-7">tu řešil, co se stane</a>, když mi dojde kapacita cca 2,8 GB pro emaily na Google Gmailu. Ukázalo se, že služba prostě začne vracet chybovou hlášku, že schránka je plná - tedy zachová se, jak je zvykem. Dostal jsem zprávu od známého z Google, abych to neřešil a dal tomu chvíli čas. Promazal jsem spamy a dal jsem tomu chvilku. Dneska přestail mailbox hlásit 98% zaplnění schránky a indikátor se ustálil na pouhé třicítce procent. 
 
 <a href="http://www.marigold.cz/wp-content/Picture%203.png"><img src="http://www.marigold.cz/wp-content/_Picture%203.png" width="400" height="75" alt="A zase je volno na Gmailu" title="A zase je volno na Gmailu"  /></a>

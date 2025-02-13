@@ -1,14 +1,21 @@
 ---
 ID: 2124
-title: 'A je po&nbsp;dovolené'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/a-je-po-dovolene
-published: true
+oldlink: 'https://www.marigold.cz/item/a-je-po-dovolene
+
+  '
 post_date: 2007-07-12 16:39:23
+post_excerpt: ''
+published: true
+summary_points:
+- Dovolená u moře se líbila, ale lety Travel Service (QS) byly noční a zpožděné.
+- Cestování letadlem s dětmi bylo překvapivě v pohodě, kočárek až k letadlu.
+- Během dovolené autor nepracoval online, svět se nezhroutil, ale nic se neposunulo.
+- Autor prošvihl uvedení iPhone, ale zjistil, že se to dá přežít.
+title: A je po&nbsp;dovolené
 ---
+
 Dvanáct dní u moře je za mnou. Všem se líbilo, holky si užívaly sluníčka, moře a písku. Základní poznatky pro budoucnost: když let začíná kodem QS, znamená to Travel Service a je důležité významně se přeptat, kdy člověk letí (hodinu!) a když nenabídnou slušný termín, vykašlat se na to. Proč? Tam jsme letěli ve dvě ráno, zpět o půlnoci. Bohužel cestovka nebyla schopná ani za příplatek nabídnout let s jinou společností a hlavně v jiný čas. A zkuste si cestovat s malýma dětma v noci zejména, když časový rozptyl při přepravě s Travel Service činil až dvě hodiny - letadlo se prostě opozdilo. Jen při letu zpět jsme se trefili přesně do času přistání, ale pak to zase podělalo pražské letiště a zavazadla vykládalo přes hodinu. Což je na Ruzyni v nočním časech zřejmě standard, stalo se mi to znovu a znovu. Jenže zatím vždycky bez Sofie, která moc chtěla spát. 
 
 Jinak mne mile překvapilo, že cestování letadlem s dětmi, jehož jsem se bál, je vlastně v pohodě. Až k letadlu si můžete zajet kočárkem, u dveří ho složíte, dítě dostalo svoje sedadlo, i když na něj asi nemělo nárok, mile se postarali a kdyby si Travel Service nelítal naprosto bez ohledu na čas, neměl bych jim co vytknout. Za ty peníze. Ale příště už raději ne... 

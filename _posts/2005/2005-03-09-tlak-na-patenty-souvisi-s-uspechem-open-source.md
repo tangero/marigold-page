@@ -1,14 +1,21 @@
 ---
 ID: 1571
-title: 'Tlak na patenty souvisí s&nbsp;úspěchem Open Source?'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tlak-na-patenty-souvisi-s-uspechem-open-source
-published: true
+oldlink: 'https://www.marigold.cz/item/tlak-na-patenty-souvisi-s-uspechem-open-source
+
+  '
 post_date: 2005-03-09 20:38:08
+post_excerpt: ''
+published: true
+summary_points:
+- Softwarové patenty souvisí s tlakem na zveřejňování zdrojových kódů.
+- Velké firmy chtějí patenty jako pojistku proti konkurenci z Open Source.
+- Zveřejnění zdrojových kódů změní vývoj software, vítěz není jasný.
+- Patenty mohou být alternativou k utajování zdrojových kódů.
+title: Tlak na patenty souvisí s&nbsp;úspěchem Open Source?
 ---
+
 <p><b>Oook píše:</b> Jak jsem se na chvíli vymanil z každodenního
 pobíhání, přečetl jsem si pár článků na téma softwarové patenty a
 zarazilo mě, že zatím nikoho nenapadlo spojit tažení velkých sw

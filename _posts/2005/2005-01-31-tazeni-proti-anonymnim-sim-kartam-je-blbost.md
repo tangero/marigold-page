@@ -1,16 +1,23 @@
 ---
 ID: 1503
-title: >
-  Tažení proti anonymním SIM kartám je
-  blbost
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tazeni-proti-anonymnim-sim-kartam-je-blbost
-published: true
+oldlink: 'https://www.marigold.cz/item/tazeni-proti-anonymnim-sim-kartam-je-blbost
+
+  '
 post_date: 2005-01-31 13:07:37
+post_excerpt: ''
+published: true
+summary_points:
+- Poslanec Turek (ČSSD) prosazuje povinnou registraci předplacených SIM karet.
+- Důvodem registrace SIM karet má být údajný boj proti kriminalitě.
+- Registrace SIM karet bude obcházena a reálné uživatele neidentifikuje.
+- Švýcarský příklad registrace SIM karet je zavádějící a motivován tlakem USA.
+title: 'Tažení proti anonymním SIM kartám je blbost
+
+  '
 ---
+
 <p>Je to pozoruhodné, co všechno dokáže skopová
 poslanecká hlava vymyslet, aby byla vidět. Novinkou je tažení proti
 anonymitě uživatelů předplacených SIM karet. Díval jsem se v neděli na

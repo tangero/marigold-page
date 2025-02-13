@@ -1,16 +1,23 @@
 ---
 ID: 2714
-title: >
-  Poučné hornorakouské setkání
-  věnované nalezení významu tradice
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/poucne-hornorakouske-setkani-venovane-nalezeni-vyznamu-tradice
-published: true
+oldlink: 'https://www.marigold.cz/item/poucne-hornorakouske-setkani-venovane-nalezeni-vyznamu-tradice
+
+  '
 post_date: 2013-10-31 10:51:20
+post_excerpt: ''
+published: true
+summary_points:
+- Rodinné setkání Zandlů v Rakousku ukazuje rozdíly v životě a tradicích.
+- Komunismus v Česku zničil tradice, což je nejhorší důsledek vlády.
+- Rakousko udržuje staré domy, zatímco Česko preferuje renovace.
+- Čechům chybí živé tradice, což se projevilo při srovnání s Rakouskem.
+title: 'Poučné hornorakouské setkání věnované nalezení významu tradice
+
+  '
 ---
+
 <p>První zářiový víkend jsem trávil rodinně, což v tomto případě znamenalo tradiční straz bratranců a sestřenic. Bývají to velmi poučná setkání.</p>
 
 <p>Především je to dáno konfigurací. "Klan" Zandlů je rozkročen přes desítku zemí. Otec pochází z dvanácti dětí, které se postupně rozprchly do celého světa, neb bylo zřejmo, že na rodné hroudě na ně mnoho dědictví či práce v poválečném Rakousku nezbude. Rodinné drby říkají, že otec zmizel do Mnichova v tom roce, kdy bylo zřejmé, že bude povolán do rakouské armády, což s ohledem na to, jaký bordel tam dělala poslední desetiletku jeho partička bratrů, byl velmi dobrý nápad. Pár jedinců odešlo do dalších zemí, stejně tak jejich děti. Tvrdé jádro rodiny ovšem zůstává ve Štýrsku, Horních Rakousích a Předarlbersku, tedy v nejdrsnějších zemích Rakouska, jaké si umíte představit. A tohle výroční setkání bratranců a sestřenic bylo letos podesáté. Proč je to tak zajímavé? Protože kromě rodiných drbů se dostávám k něčemu, co je jinak tak výjimečně cizincům a turistům dostupné. K tomu, jak se skutečně žije jinde. Ne ty životy z reportáží a toulavých kamer, ale ta skutečná, nepřibarvená dřeň života. Tehdy je příležitost porovnávat. A pro mne každorožní korekce a srovnání.</p>

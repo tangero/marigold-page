@@ -1,15 +1,24 @@
 ---
 ID: 2436
-title: 'Moje kniha Apple: cesta k&nbsp;mobilům právě vyšla'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Knihy
+- Apple
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/moje-kniha-apple-cesta-k-mobilum-prave-vysla
-published: true
+oldlink: 'https://www.marigold.cz/item/moje-kniha-apple-cesta-k-mobilum-prave-vysla
+
+  '
 post_date: 2012-07-04 11:50:30
-categories: [Knihy, Apple]
+post_excerpt: ''
+published: true
+summary_points:
+- Kniha o Apple vznikla jako reakce na nedostatečný oficiální životopis Steva Jobse.
+- Kniha se zaměřuje na novodobou historii Apple od roku 1997 a dále.
+- Úspěch iPodu nebyl samozřejmostí, iPhone vznikl z obavy o jeho budoucnost.
+- Kniha o Apple má 260 stran, stojí cca 240 Kč a nemá obsah.
+title: 'Moje kniha Apple: cesta k&nbsp;mobilům právě vyšla'
 ---
+
 <div class="separator" style="clear: both; text-align: none;">Už delší dobu vás tu taktně připravuji na svůj další literární počin. Kniha věnovaná Apple vznikla jako mírná frustrace z oficiálního životopisu Steva Jobse i obecného stavu Applistické literatury nejenom české, ale i anglicky psané. Většina knih je dneska už beznadějeně zastaralých (autor je dopsal sice skvěle, ale v roce 2005), nebo se veze na momentální vlně Jobsománie, to jsou takové ty tituly "myslete jako Jobs". Ne, že by to nebylo dobré, takové knížky si počíst, ačkoliv přínos knih o myšlení Steve Jobse psaných lidmi, kteří ho osobně neznali a denně nepotkávali, nemusí být nejvyšší. Ostatně, proto stačí si přečíst jednu takovou.</div>
 
 

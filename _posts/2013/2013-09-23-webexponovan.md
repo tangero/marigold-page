@@ -1,14 +1,21 @@
 ---
 ID: 2706
-title: Webexponován
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/webexponovan
-published: true
+oldlink: 'https://www.marigold.cz/item/webexponovan
+
+  '
 post_date: 2013-09-23 13:26:29
+post_excerpt: ''
+published: true
+summary_points:
+- Webexpo autor navštívil poprvé, přednášel o Internet of Things v energetice.
+- Angličtina konference byla problematická pro řečníky i posluchače, snižovala živost.
+- Autorovi konference nepřinesla nové informace, obor sleduje bedlivě.
+- Startupům chybí propojování s vědeckými firmami a soft-skills u ajťáků.
+title: Webexponován
 ---
+
 <p>Byl to můj první ročník. Je to s podivem, ale je to tak, na letošním webexpu jsem byl poprvé. A tak se nepřidám do tlačenky hlasů, že letos to bylo tradičně nej/horší/lepší, protože nevím. Důvod mé prvoúčasti byl tradičně prostý: jednak nevhodně zvolené datum, kolidující tradičně (a letos prvně ne) s akcí pro mě důležitější, jednak nedostatek času a sebemotivace. Za doby Lupy jsem na Webexpo vysílal namísto sebe raději lidi jako Martina Malého, <a href="http://www.misantrop.info/jak-mi-webexpo-zmenilo-zivot/">který si k akci vybudoval vřelý vztah</a>.</p>
 
 

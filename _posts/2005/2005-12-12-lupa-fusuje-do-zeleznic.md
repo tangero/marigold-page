@@ -1,14 +1,21 @@
 ---
 ID: 1894
-title: Lupa fušuje do železnic :-)
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lupa-fusuje-do-zeleznic
-published: true
+oldlink: 'https://www.marigold.cz/item/lupa-fusuje-do-zeleznic
+
+  '
 post_date: 2005-12-12 09:07:23
+post_excerpt: ''
+published: true
+summary_points:
+- Pendolino má problém s mobilním signálem kvůli celokovové konstrukci.
+- Řešením problému s mobilním signálem v Pendolinu má být "odstátnění".
+- Autor textu se ironicky ptá, co se bude "odstátňovat", vlak nebo klec.
+- Původní zpráva na Lupě navrhuje "odstátnění" jako řešení problému signálu.
+title: Lupa fušuje do železnic :-)
 ---
+
 <p><b>ook píše</b>: Ve <a href="http://www.lupa.cz/zpravicky/pendolino-nema-mobily-rad/" >zprávičkách na Lupě</a>
 se panu Nehasilovi podařil hezký kousek. V souvislosti s problémem
 volání z/do Pendolína způsobeného existencí Faradayovy klecí se

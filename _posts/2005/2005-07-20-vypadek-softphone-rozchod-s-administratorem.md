@@ -1,14 +1,21 @@
 ---
 ID: 1731
-title: 'Výpadek Softphone &#8211; rozchod s&nbsp;administrátorem'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vypadek-softphone-rozchod-s-administratorem
-published: true
+oldlink: 'https://www.marigold.cz/item/vypadek-softphone-rozchod-s-administratorem
+
+  '
 post_date: 2005-07-20 07:55:16
+post_excerpt: ''
+published: true
+summary_points:
+- Administrátor Softphone Petr Styx odešel a provozovatel Penelopa ho viní ze škod.
+- Softphone měla výpadek, provozovatel tvrdí, že přebíral kontrolu po Styxovi.
+- Petr Styx odmítá obvinění a tvrdí, že nabízel pomoc s přechodem na jiné řešení.
+- Styx převedl provoz na free řešení a odstranil svůj software po neshodách.
+title: Výpadek Softphone &#8211; rozchod s&nbsp;administrátorem
 ---
+
 <p>U provozovatele VoIP služby Softphone došlo v průběhu posledních dní k menšímu převratu. Z provozování služby totiž odešel dosavadní administrátor a hlavní vývojář Petr Styx. Služba SoftPhone v neděli zhavarovala a <a href="http://wwwold.softphone.cz/index.php?spn=cGFnZT0xNDA=">provozovatel vydal</a> následující zprávu:</p>
 
 	<blockquote><p>

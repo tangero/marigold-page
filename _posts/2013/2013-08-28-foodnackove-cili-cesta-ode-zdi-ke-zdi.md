@@ -1,14 +1,23 @@
 ---
 ID: 2692
-title: Foodnáckové čili cesta ode zdi ke zdi
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/foodnackove-cili-cesta-ode-zdi-ke-zdi
-published: true
+oldlink: 'https://www.marigold.cz/item/foodnackove-cili-cesta-ode-zdi-ke-zdi
+
+  '
 post_date: 2013-08-28 09:19:06
+post_excerpt: ''
+published: true
+summary_points:
+- Foodnáckovství je intelektuální forma rasismu projevující se v netoleranci stravovacích
+  návyků.
+- Kávová kultura v Česku se posunula od šlendriánu k napadání těch, co netrendují.
+- Průkopníci kvalitní kávy byli následováni netolerantními "poturčenci", kteří pohrdají
+  jinými způsoby.
+- Vnucování jediného správného způsobu přípravy kávy bez znalostí je povýšené a nesmyslné.
+title: Foodnáckové čili cesta ode zdi ke zdi
 ---
+
 <p>Rasismus, čili terapie formou dojmu nadřazenosti funguje i v intelektuálním prostředí. Tedy tam, kde se zpravidla nehodí vyjadřovat se k tomu, že "nic proti cigánům nemáte, ale všichni víme, jak to je". Jen má zakořeněná netolerance zákeřejnější formy. Například foodnáckovství.</p>
 
 

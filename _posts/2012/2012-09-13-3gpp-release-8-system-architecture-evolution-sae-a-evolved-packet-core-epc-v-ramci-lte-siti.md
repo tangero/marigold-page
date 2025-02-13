@@ -1,15 +1,26 @@
 ---
 ID: 2499
-title: '3GPP Release 8: System Architecture Evolution (SAE) a&nbsp;Evolved Packet Core (EPC) v&nbsp;rámci LTE sítí'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- UMTS
+- 3G
+- Turboúvod do mobilních sítí
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti
+
+  '
 post_date: 2012-09-13 18:16:47
-categories: [UMTS, 3G, Turboúvod do mobilních sítí]
+post_excerpt: ''
+published: true
+summary_points:
+- LTE Release 8 navazuje na Release 7 rozšířením modulačního schématu a DC HSPA.
+- LTE sítě využívají výhradně IP provoz, což je odlišuje od 3G sítí.
+- SAE je systém požadavků, EPC je odpověď na tyto požadavky v Release 8.
+- EPC zahrnuje SGW, PGW, MME a PCRF, klíčové komponenty pro fungování LTE.
+title: '3GPP Release 8: System Architecture Evolution (SAE) a&nbsp;Evolved Packet
+  Core (EPC) v&nbsp;rámci LTE sítí'
 ---
+
 <p>Počátky LTE můžeme oprávněně spatřovat v Release 8, která byla vydána z kraje roku 2008 a v mnoha ohledech navazovala na Release 7, zejména rozšířením modulačního schématu 64QAM do použití s MIMO anténami a pak dual-carrier HSPA, DC HSPA, kdy lze pro přenos dat přes HSPA využít dva přenašeče a tedy fakticky zdvojnásobit poskytovanou rychlost (nikoliv kapacitu). Až potud je Release 8 jen logickým vývojem <a href="/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7">Release 7</a>.</p>
 <!--more-->
 
@@ -84,4 +95,3 @@ categories: [UMTS, 3G, Turboúvod do mobilních sítí]
 <p>Mnoho diagramů rozkresluje EPC jako velmi plochou entitu a cudně zamlčuje, že řada krabiček tam prostě musí být, pokud chcete účtovat, autentizovat a provádět další úkony, které jsou z hlediska uživatele pravda často zbytné, ale z hlediska provozovate podstatné. Jsou rovněž definovány přechodové mechanismy umožnující soužití mezi 2G/3G a LTE, což jste z nákresu asi vypozorovali.</p>
 
 <p>Tak a to je asi všechno, co byste si v kostce a stručnosti měli o jádru LTE sítě pamatovat.</p>
-

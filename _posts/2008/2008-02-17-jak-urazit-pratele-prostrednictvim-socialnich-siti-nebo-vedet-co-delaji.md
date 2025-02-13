@@ -1,18 +1,25 @@
 ---
 ID: 2204
-title: >
-  Jak urazit přátele prostřednictvím
-  sociálních sítí (nebo vědět, co
-  dělají)
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Sociální sítě
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-urazit-pratele-prostrednictvim-socialnich-siti-nebo-vedet-co-delaji
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-urazit-pratele-prostrednictvim-socialnich-siti-nebo-vedet-co-delaji
+
+  '
 post_date: 2008-02-17 10:49:30
-categories: [Sociální sítě]
+post_excerpt: ''
+published: true
+summary_points:
+- Plaxo integruje sociální sítě a umožňuje automatickou aktualizaci kontaktů.
+- Autor omylem označil kontakty za obchodní, což způsobilo rozhořčení.
+- Spokeo agreguje aktivity kontaktů z různých sociálních sítí, ale nepodporuje české.
+- Spokeo vyhledává velké množství informací, ale vyžaduje propojení kontaktů.
+title: 'Jak urazit přátele prostřednictvím sociálních sítí (nebo vědět, co dělají)
+
+  '
 ---
+
 Již nějakou tu dobu používám službu <a href="http://www.plaxo.com">Plaxo</a> - jde o americký server určený původně k uchovávání a aktualizaci obchodních kontaktů, v poslední době se ale rozhodli svést se na vlně zájmu o sociální sítě a přidali rozhraní přetvořené i na ostatní typy kontaktů. V poslední době do toho Plaxo pořádně šlape, v zahraničí a mezi pokrokovými businessmany i u nás je to dost používaná služba a někoho moudrého v Plaxu napadlo, že businessman netouží vést si odděleně business kontakty a přátele a také, že nechce, aby se to nějak směšovalo, což bylo doposaváde jedinou možností, jak obojí v Plaxu vést. 
 
 Tak byl přidán socialnetworking na úrovní přátel a Plaxu se teď práší za kočárem. Novinkou se stala integrace ostatních komunit do Plaxa. Plaxo sleduje pro vaše kontakty, jaké aktivity vyvíjejí v rámci jiných komunit a například se dozvíte, zda přidali nové fotky na Picasu, co si hrají za hudbu nebo zda nemají nový příspěvek na blogu. K dokonalosti Spokea (bude o něm řeč za chvíli) to má ještě daleko, ale pro běžný přehled to postačuje, zejména když jste US citizen (Bloguje a další české sociální servery to nepodporuje).

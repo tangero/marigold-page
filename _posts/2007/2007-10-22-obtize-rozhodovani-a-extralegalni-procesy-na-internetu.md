@@ -1,14 +1,21 @@
 ---
 ID: 2161
-title: 'Obtíže rozhodování a&nbsp;extralegální procesy na internetu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/obtize-rozhodovani-a-extralegalni-procesy-na-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/obtize-rozhodovani-a-extralegalni-procesy-na-internetu
+
+  '
 post_date: 2007-10-22 21:23:43
+post_excerpt: ''
+published: true
+summary_points:
+- Rozhodování je obtížná disciplína, zvláště v online sporech o domény.
+- Rozhodčí komise řešily spory o domény .cz podle ochranných známek.
+- Správce TLD doménu přepsal podle rozhodnutí rozhodce, což bylo jeho právo.
+- Extralegalita online businessu v Second Life a hrách přináší nové problémy.
+title: Obtíže rozhodování a&nbsp;extralegální procesy na internetu
 ---
+
 Četl jsem dnes <a href="http://www.misantrop.info/607398-pondelni-psani-o-nerozhodnosti.php">článeček Artura Denta</a> věnovaný obtížnému rozhodování v pozici duchovního šéfa Bloguje.cz. Rozhodování, i když to tak nevypadá, je jednou z nejtěžších lidských disciplín. Už proto, že je disciplínou velmi abstraktní a na první pohled snadnou. Vezmete možnosti, poměříte je a rozhodnete se. Kéž by to tak bylo. 
 
 Mám s rozhodováním sporů na internetu podobné zkušenosti, jako Artur. Těžké. Když internet začínal, byl jsem dokonce v rozhodčí komisi, která rozhodovala spory kolem registrací v doméně .cz. Tehdy to fungovalo tak, že když se vám zdálo, že vám někdo vyfoukl doménu, obrátil jste se na takového rozhodčího, ten rozhodl a podle něj se registrátor TLD rozhodl. Mohli jste to napadnout soudně a za čtyři-pět let se domoci své domény, pokud jste neměli ten pech, že soud přizval jako odborníka jednoho z těchto rozhodčích. Protože tehdy velký výběr "znalců" nebyl. Byla to krušná doba. Mnoho lidí prskalo, když jsem se pokoušel jim vysvětlit, že zásada je triviální: buďto mají jméno registrované jako ochrannou známku a pak je rozhodnutí v jejich prospěch (leda by soupeř měl známku stejného znění v jiné třídě, což se stát může), nebo nemají. A když jméno své firmy, svého produktu nechrání, tak si měli alespoň dříve vzpomenout na registraci. 

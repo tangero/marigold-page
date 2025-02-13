@@ -1,14 +1,21 @@
 ---
 ID: 1865
-title: iPod má porazit síla open source
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ipod-ma-porazit-sila-open-source
-published: true
+oldlink: 'https://www.marigold.cz/item/ipod-ma-porazit-sila-open-source
+
+  '
 post_date: 2005-11-07 09:39:09
+post_excerpt: ''
+published: true
+summary_points:
+- iPod je dominantní, ale open source firmware pro MP3 přehrávače je nová aktivita.
+- Neuros 442 je MP3 přehrávač s hardwarem vhodným pro open source firmware.
+- Neuros 442 má 40 GB disk, USB 2.0, SD/MMC slot a stojí 370 dolarů.
+- Výrobce Neuros 442 uvolnil firmware jako open source a buduje komunitu.
+title: iPod má porazit síla open source
 ---
+
 <p>iPod má hodně nepřátel, vážných i směšných. Jenže jako distribučně-úložné médium pro prodávanou hudbu je zatím nedostižným a nebylo by omylem použít provařené slůvko "fenomén". Na <a href="http://www.wired.com/news/gizmos/0,1452,69428,00.html?tw=wn_tophead_5">Wired vyšel</a> článek o zajímavé nové aktivitě - o open source firmware pro MP3 přehrávače. </p>
 
 <h4>Neuros 442 a open source</h4>

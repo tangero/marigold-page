@@ -1,15 +1,24 @@
 ---
 ID: 2225
-title: 'Twitter soutěž a&nbsp;Twinkle jako killer app'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Sociální sítě
+- Twitter
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/twitter-soutez-a-twinkle-jako-killer-app
-published: true
+oldlink: 'https://www.marigold.cz/item/twitter-soutez-a-twinkle-jako-killer-app
+
+  '
 post_date: 2008-04-24 06:45:59
-categories: [Sociální sítě, Twitter]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor dříve Twitter nepoužíval, nyní ho používá díky aplikaci Twinkle.
+- Nelso a Twinkle pořádají první českou Twitter soutěž o iPod Touch.
+- Twinkle je iPhone klient pro Twitter s polohou a sdílením fotek.
+- Alert Thingy je aplikace pro FriendFeed napsaná v Adobe Air.
+title: Twitter soutěž a&nbsp;Twinkle jako killer app
 ---
+
 Sám jsem nikdy nepřišel Twitteru a mikroblogování na chuť. Účet tam mám, z povinnosti, abych zkoumal. Použil jsem to jedinkráte, když jsem z Barcelony přes Twitter psal postřehy, od té doby ležel ladem. Až v poslední době a může za to Twinkle. A Twinkle může také za první Twitter soutěž u nás. 
 
 Kromě Twitteru za ni může ještě barovo-hospodový <a href="http://www.nelso.cz">vyhledávač Nelso</a> a jeho provozovatel Jack DeNeut. Je pro všechny Twitteristy, kteří si přidají soutěžní profil mezi sledované a v určenou dobu se ozvou z baru. Proč tak? Protože Nelso umožňuje prohledávat bary i přes Twitter. <a href="http://www.nelso.cz/soutez/">Stránky jsou zde, vyzkoušejte sami</a>, iPod Touch může být váš. Mimo jiné se tím snad zhruba zjistí, kolik Twitteristů v Česku je, osobně to odhaduji do dvou stovek. 

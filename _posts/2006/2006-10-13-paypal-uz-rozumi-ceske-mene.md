@@ -1,14 +1,21 @@
 ---
 ID: 2025
-title: PayPal už rozumí české měně
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/paypal-uz-rozumi-ceske-mene
-published: true
+oldlink: 'https://www.marigold.cz/item/paypal-uz-rozumi-ceske-mene
+
+  '
 post_date: 2006-10-13 08:55:27
+post_excerpt: ''
+published: true
+summary_points:
+- PayPal nově plně podporuje českou korunu pro platby a převody.
+- Přijímání CZK vyžaduje aktivaci měny v nastavení PayPal účtu.
+- Kód měny pro platby v českých korunách přes PayPal je CZK.
+- Poplatky pro příjemce na business účtu činí 10 Kč + 3,2 % z částky.
+title: PayPal už rozumí české měně
 ---
+
 <p>Včera pozdě v noci se PayPal stal plnohodnotným platebním systémem pro český internet. Po možnosti peníze přijímat totiž přidal i možnost pracovat s českou korunou (a pár dalšími měnami). Do té doby mohly převody probíhat v eurech, dolarech a pár dalších měnách. </p>
 
 <p>Pokud chcete přijímat české koruny, musíte se přihlásit na svůj PayPal účet a přidat si v přehledu měn vedených k účtu českou korunu přes tlačítko Manage Currency. </p>

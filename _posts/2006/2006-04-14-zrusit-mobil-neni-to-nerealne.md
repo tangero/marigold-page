@@ -1,14 +1,22 @@
 ---
 ID: 1960
-title: 'Zrušit mobil: není to nereálné'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zrusit-mobil-neni-to-nerealne
-published: true
+oldlink: 'https://www.marigold.cz/item/zrusit-mobil-neni-to-nerealne
+
+  '
 post_date: 2006-04-14 08:50:23
+post_excerpt: ''
+published: true
+summary_points:
+- Autor uvažuje o zrušení mobilního telefonu kvůli stresu, nákladům a ztrátě času.
+- Mobil fragmentuje den častými, zbytečnými hovory, které přerušují soustředěnou práci.
+- SMS a data jsou pro autora užitečnější než hovory, protože je vyřizuje ve volných
+  chvílích.
+- Autor zpochybňuje mýtus o úspoře času s mobilem a touží po větším klidu.
+title: 'Zrušit mobil: není to nereálné'
 ---
+
 <p>Někdy se zasním nad tou dobou, kdy jsem neměl mobilní telefon, nebo alespoň kdy ho neměl každý kolem mne. Pamatujete si to? Když jste si dali schůzku "u koně" nebo "na pólu", tak byla akademická čtvrthodinka a kdo ji prošvihl, měl pech. Zavolat, že "je dopravní zácpa" nebylo možné. A tak se musel každý nějak vypořádat s tím, že v Praze je dopravní zácpa pořád a není to důvod výmluvy. </p>
 
 <p>Čím dál více přemýšlím o tom, že se chci dopracovat do stádia, kdy mobilní telefon mít nebudu. Co mi to přinese, vím: méně stresu, méně utracených peněz, více času. Jak to?</p>

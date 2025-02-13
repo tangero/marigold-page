@@ -1,16 +1,23 @@
 ---
 ID: 2776
-title: >
-  Lean Startup aneb jak se propivotovat do
-  pekla
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lean-startup-aneb-jak-se-propivotovat-do-pekla
-published: true
+oldlink: 'https://www.marigold.cz/item/lean-startup-aneb-jak-se-propivotovat-do-pekla
+
+  '
 post_date: 2014-02-10 07:46:58
+post_excerpt: ''
+published: true
+summary_points:
+- Lean startup zpřístupňuje iterativní metodiku vývoje produktu modernímu čtenáři.
+- Lean startup opomíjí fázi výzkumu a vývoje produktu, což je zásadní nedostatek.
+- Úspěch vyžaduje silnou vizi, znalost trhu, a sociální dovednosti, ne jen testování.
+- Lean startup může vést k neustálému pivotování bez jasného směru a vize.
+title: 'Lean Startup aneb jak se propivotovat do pekla
+
+  '
 ---
+
 <p>Musím říct, že kniha <a href="http://www.amazon.com/gp/product/B004J4XGN6/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004J4XGN6&linkCode=as2&tag=marigoldcz-20">Lean Startup Erika Riese</a> mě nechávala dlouho chladným, z části i proto, že jsem si říkal, že jí zřejmě i kvůli kulturním rozdílům zle chápu. Jenže jak se tak v poslední době toulám po investorech a startupech, tu a tam narazím na otázku, zda jedeme podle lean principu. Přiznávám, že jsem dlouho z kontextu odvozoval, že anglické "lean" znamená líný, takže jsem po pravdě odpovídal, že ne. Náš startup zřejmě není dost dobrý startup, protože nápadně připomíná ostrou práci. Nu, ale přeci jen jsem si říkal, že když má<strong> lean startup </strong>tolik obdivovatelů, je dobré se k tomu vrátit a zjistit, zda jsme neminuli poklad.</p>
 <p>Po pravdě: neminuli. Teorie lean startup je něco jako metodika, jak se metodou postupných iterací dopracovat k funkčnímu produktu a společnosti, na což mimochodem existuje celá řada již ověřených metodik. Asi největším přínosem knihy je, že metodiku zpřístupňuje dnešnímu čtenáři. Nepoužívají se zde tisíciletí staré příklady jako Ford, GM a Toyota, úspěchy se ukazují na moderních firmách, které se dopracovaly miliardových hodnot tím, že vynalezly nástroj na komfortnější sdílení obrázků či tvorbu avatarů. To je samozřejmě pro plynulost výkladu osvobozující: nemuset u Toyoty řešit nakladňování dílů znamená oprostit se od velké části opruzu, jímž logistika fyzického zboží je. A souvisejícího výkladu. Jenže bez logistiky (a tojoťáckého principu just-in-time) se auto blbě vyrábí.</p>
 

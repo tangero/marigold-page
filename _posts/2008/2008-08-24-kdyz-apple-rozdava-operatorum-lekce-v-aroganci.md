@@ -1,15 +1,24 @@
 ---
 ID: 2268
-title: 'Když Apple rozdává operátorům lekce v&nbsp;aroganci &#8230;'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Apple
+- iPhone
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdyz-apple-rozdava-operatorum-lekce-v-aroganci
-published: true
+oldlink: 'https://www.marigold.cz/item/kdyz-apple-rozdava-operatorum-lekce-v-aroganci
+
+  '
 post_date: 2008-08-24 10:32:11
-categories: [Apple, iPhone]
+post_excerpt: ''
+published: true
+summary_points:
+- 'iPhone zaujal tři skupiny lidí: nadšené, lhostejné a kritické.'
+- Apple arogantně vnutil operátorům své podmínky prodeje iPhonu.
+- Podmínky Applu zahrnovaly fixní ceny, prodejní postupy a vzhled prodejen.
+- Operátoři s podmínkami Applu souhlasili, i když to znamenalo ústupky.
+title: Když Apple rozdává operátorům lekce v&nbsp;aroganci &#8230;
 ---
+
 iPhone šílenství proběhlo i u nás a to přibližně stejně, jako všude jinde, kdy komentující se rozdělili na tři skupiny: první iPhone zaujal a reportuje o něm. Druhou nezaujal a je jí fuk. Třetí má potřebu zvěstovat svou pravdu, jak je to mizerný telefon a kdo ho kupuje, je appleovce. Hezká psychologická sonda, ale k ničemu jinému to v praxi není. Sami se zařiďte podle sebe: jděte, telefon si vyzkoušejte. Neuvažujte o něm, pokud se potřebujete přes telefon připojovat z počítače na internet nebo pokud vás dráždí bluetooth určený jen pro připojení sluchátek. Nebo pokud nevyžijete bez hardwarové klávesnice. Zbytečně byste si otrávili život. 
 
 Ale o tom jsem psát nechtěl, o tom bylo napsáno mnoho a čtenáři Marigoldu jsou doufám natolik rozumní, aby věděli, že nákup telefonu je individuální záležitost, kdy každému vyhoví něco jiného. Chtěl jsem psát o lekcích, které Apple rozdává. V aroganci. Tentokráte hlavně operátorům. Což je pro zákazníka operátorů osvěžující, neboť operátoři tentokráte pijí vlastní meducínu. 

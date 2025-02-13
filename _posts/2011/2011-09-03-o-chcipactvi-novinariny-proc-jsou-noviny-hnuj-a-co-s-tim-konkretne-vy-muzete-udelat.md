@@ -1,15 +1,24 @@
 ---
 ID: 2396
-title: 'O chcípáctví novinařiny, proč jsou noviny hnůj a&nbsp;co s&nbsp;tím konkrétně vy můžete udělat?'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/o-chcipactvi-novinariny-proc-jsou-noviny-hnuj-a-co-s-tim-konkretne-vy-muzete-udelat
-published: true
+oldlink: 'https://www.marigold.cz/item/o-chcipactvi-novinariny-proc-jsou-noviny-hnuj-a-co-s-tim-konkretne-vy-muzete-udelat
+
+  '
 post_date: 2011-09-03 20:42:32
-categories: [Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Kritika novinářů je běžná, ale stejné nedostatky má celá společnost.
+- Média šetří kvůli krizi, což vede k povrchnosti a bulvarizaci obsahu.
+- Seriózní žurnalistika je drahá a chybí jí finanční podpora i tradice.
+- Změna začíná u každého jednotlivce, poctivou prací bez "ochcávek".
+title: O chcípáctví novinařiny, proč jsou noviny hnůj a&nbsp;co s&nbsp;tím konkrétně
+  vy můžete udělat?
 ---
+
 Kritika novinářů je dnes velmi oblíbená záležitost. Od premiéra Zemana ji postupně převzala většina politiků a z politiky proniklo přesvědčení o tom, že novináři jsou nemakačenskovská lemplovská žumpa společnosti i dále. V českých sociálních sítích nemine den, aby se někdo neopřel do novinářů s něčím, co je prý „klasický fail“, „jeden příklad z mnoha“ a další krásné paušalizující soudy. 
 
 Jsem novinář a teď přišla chvilka, nalít si čistého vína. Ano, česká média jsou žumpa, čeští novináři v zásadě břídilové. Jenže to je jen ta první půlka sdělení. Ta druhá, kterou už vy sami jste nedořekli zní: „stejně jako vy“. O tom bude tento článek, jenž jsem neměl čas napsat krátkým: o společenské situaci, novinářích a médiích. 

@@ -1,18 +1,28 @@
 ---
 ID: 2858
-title: >
-  Kolik by měla stát digitální
-  knížka bez DRM (ano, tohle je šance
-  jí dát cenu, vážně)
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- eBook
+- Knihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kolik-by-mela-stat-digitalni-knizka-bez-drm-ano-tohle-je-sance-ji-dat-cenu-vazne
-published: true
+oldlink: 'https://www.marigold.cz/item/kolik-by-mela-stat-digitalni-knizka-bez-drm-ano-tohle-je-sance-ji-dat-cenu-vazne
+
+  '
 post_date: 2010-10-25 11:48:52
-categories: [eBook, Knihy]
+post_excerpt: ''
+published: true
+summary_points:
+- E-knihy čelí cenové debatě, zákazníci chtějí nízké ceny, vydavatelé argumentují
+  vyššími náklady.
+- Autor se rozhodl otestovat prodej e-knihy bez DRM za rozumnou cenu.
+- Kniha "Koncernová pětiletka" bude vydána digitálně za odhadovanou cenu 50 Kč.
+- Z prodejní ceny 50 Kč zbývá po odečtení DPH a provize portálu 25 Kč.
+title: 'Kolik by měla stát digitální knížka bez DRM (ano, tohle je šance jí dát cenu,
+  vážně)
+
+  '
 ---
+
 V souvislosti s e-knihami je jednou z největších debat, kolik by taková digitální knížka měla stát. Zákazníci jsou toho názoru, že by měla stát co nejméně, vydavatelé zase, že o něco více. Situace se především liší v tom, že zákazník si myslí, že většinu ceny knihy dělá tisk a papír, zatímco vydavatel ví, že to není pravda - až na majstrštyky v desetitisícových nákladech dělá papír a tisk tak třetinu. Do toho kniha je v nižší sazbě DPH, což kniha digitální není. Výsledek je ten, že potenciální zákazník bývá zklamán kombinací ceny, která není jemu libá a DRM, které mu je libé ještě méně, jenže vydavatel doufá, že mu ochrání nelevnou knihu před rozpirátěním. Zákazník namítá: dejte ji levněji a bez DRM, abychom si ji mohli přečíst bez potíží. Vydavatel křičí: jak zaplatím lidi a ještě mi ji rozpirátí... Zákazník oponuje: tak to si ji nekoupím. Vydavatel: vidíte, digitální knihy se neprodávají, lidi chtějí papír. 
 
 Jak z bludného kruhu? Nenapadlo mne nic lepšího, než to vyzkoušet. Vzít knihu, digitalizovat ji a vydat ji bez DRM za nějakou příhodnou cenu. A nabízet ji. Sledovat, co se stane. Pak vzít čísla a sepsat článek na Lupu o tom, jak funguje prodej knihy bez DRM, kolik-li se jí rozpirátilo a kolik pirátů po přečtení knihy poslalo autorovi na účet penízek. Jenže to chce splnit několik předpokladů, především mít knihu. Ta by měla být neutrální, žádný extra známý autor, ale také ne již dávno papírem vyšlé dílo. Jenže sehnat blba, který dá svůj opus magnum do digitální a nechráněné distribuce za nízkou cenu, místo aby se prvně mazlil papírem, to je trochu potíž. 

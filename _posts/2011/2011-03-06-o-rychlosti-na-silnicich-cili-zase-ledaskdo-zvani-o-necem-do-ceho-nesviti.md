@@ -1,15 +1,25 @@
 ---
 ID: 2839
-title: 'O rychlosti na silnicích, čili zase ledaskdo žvaní o&nbsp;něčem, do čeho nesvítí'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Společnost
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/o-rychlosti-na-silnicich-cili-zase-ledaskdo-zvani-o-necem-do-ceho-nesviti
-published: true
+oldlink: 'https://www.marigold.cz/item/o-rychlosti-na-silnicich-cili-zase-ledaskdo-zvani-o-necem-do-ceho-nesviti
+
+  '
 post_date: 2011-03-06 11:35:42
-categories: [Společnost]
+post_excerpt: ''
+published: true
+summary_points:
+- Internet umožňuje každému vyjádřit názor, často bez odbornosti a s vtipem místo
+  faktů.
+- Debata o rychlosti na dálnicích opomíjí technické parametry starších úseků projektovaných
+  na 110 km/h.
+- Starší dálnice mají zatáčky navržené pro nižší rychlosti a horší jízdní podmínky.
+- Zvýšení rychlosti na dálnicích nelze plošně doporučit kvůli konstrukci a bezpečnosti.
+title: O rychlosti na silnicích, čili zase ledaskdo žvaní o&nbsp;něčem, do čeho nesvítí
 ---
+
 Svoboda vyjádřit se je skvělá věc, ale internet do toho přinesl jednu obměnu, kterou zatím těžko vyhodnotit: názor se nejenom může udělat každému, kdo má díru a nově také ho může vyjádřit tak, že jej slyší větší počet lidí, než osazenstvo lokálu. A tak se často setkávám s tím, že do věcí žvaní lidé, kteří tomu zjevně nerozumí, jen se jim zrovna navalilo. Ideálně se jsou schopni vyjádřit ke všemu, takový ten instantní názor po vzoru Nescafé, sušené sračky, které zapáchají, až když se podávají ke konzumaci. Většinou tu vtipné podání nahrazuje argumenty.
 
 Příkladem může být obnovená debata o rychlosti na českých dálnicích. Četl jsem v posledních dvou týdnech řadu velmi vtipných názorů lidí, jejichž hlavní slabinou je, že jsou více vtipné, než fakty svázané s předmětem názoru. Ano, lze jistě argumentovat, že v Říši rychlost na silnici není limitována, což bývá hlavní argument. Méně zazní, že průměrný věk vozů v Říši je poloviční a průměrná pořizovací cena vozu o třetinu vyšší, protože to se do krámu argumentů buďto nehodí, nebo to dotyčného ani nenapadlo. A co nás napadlo nejméně? 

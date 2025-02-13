@@ -1,14 +1,21 @@
 ---
 ID: 1513
-title: 'Článek o&nbsp;inzertním tržišti Potenza'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/clanek-o-inzertnim-trzisti-potenza
-published: true
+oldlink: 'https://www.marigold.cz/item/clanek-o-inzertnim-trzisti-potenza
+
+  '
 post_date: 2005-02-04 09:04:52
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa publikovala článek o inzertním tržišti Potenza a bbKontext (dříve Edwards).
+- Potenza je zajímavá pro menší weby, textová reklama se rozšiřuje.
+- Autor chce detailnější statistiky vyhledávání Seznamu, než publikoval Lukačovič.
+- Autor analyzoval data operátora a chce naučit uživatele lépe využívat smartphony.
+title: Článek o&nbsp;inzertním tržišti Potenza
 ---
+
 <p>Na Lupu jsem přislíbil (a také dodal) <a href="http://www.lupa.cz/clanek.php3?show=3933" >článek o inzertním tržišti Potenza</a>, dneska vyšel. Aby to nebylo jen o něm, doplnil jsme tam i billboardí bbKontext, kdysi Edwards. <br />
 <br />
 Možná jste si všimli, že zde reklamní kampaně Potenzy proběhly, využil

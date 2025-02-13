@@ -1,15 +1,24 @@
 ---
 ID: 2376
-title: I eknihy budou potřebovat mezičlánky
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- eKnihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/i-eknihy-budou-potrebovat-meziclanky
-published: true
+oldlink: 'https://www.marigold.cz/item/i-eknihy-budou-potrebovat-meziclanky
+
+  '
 post_date: 2011-03-24 23:40:26
-categories: [eKnihy]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor experimentálně prodává e-knihu, aby zjistil, zda funguje trh s e-knihami.
+- Palmknihy byly vybrány pro distribuci kvůli sociálnímu DRM a nepoužívání běžného
+  DRM.
+- Autor chce mezi sebou a čtenářem mezičlánek pro propagaci a prezentaci knihy.
+- Úspěch e-knih vidí autor v prodeji několika stovek kusů za tři měsíce.
+title: I eknihy budou potřebovat mezičlánky
 ---
+
 <p>
 <a href="http://www.palmknihy.cz/web/kniha/koncernova-petiletka">Koncernová pětiletka je v prodeji</a> a hned jsem dostal celou řádku připomínek k technickému provedení prodeje. Zjevně je to důležité téma, tak se u něj na chvíli zastavím a můžeme "brainstormovat". </p>
 

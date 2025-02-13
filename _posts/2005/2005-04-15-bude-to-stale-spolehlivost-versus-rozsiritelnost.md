@@ -1,16 +1,23 @@
 ---
 ID: 1613
-title: >
-  Bude to stále spolehlivost versus
-  rozšiřitelnost?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bude-to-stale-spolehlivost-versus-rozsiritelnost
-published: true
+oldlink: 'https://www.marigold.cz/item/bude-to-stale-spolehlivost-versus-rozsiritelnost
+
+  '
 post_date: 2005-04-15 09:35:22
+post_excerpt: ''
+published: true
+summary_points:
+- Spolehlivost a rozšiřitelnost chytrých telefonů jsou protichůdné požadavky.
+- Dřívější nestabilitu Windows způsobovaly špatné ovladače třetích stran.
+- BlackBerry vyniká rychlostí a spolehlivostí, ale omezenou rozšiřitelností.
+- Mobilní operační systémy nenabízejí dostatečnou ochranu před nekorektním softwarem.
+title: 'Bude to stále spolehlivost versus rozšiřitelnost?
+
+  '
 ---
+
 <p>Téma dnešních chytrých telefonů zní: spolehlivost versus rozšiřitelnost. Existuje mezi těmito dvěma nároky kauzální spojitost? Před lety Microsoft prohlásil, že valnou řadu nestabilit Windows způsobují špatně napsané programy a ovladače třetích stran. Docela bych mu to věřil, protože momentů, kdy mi systém zbuchl po zapojení scanneru, bylo dost (a Billovi také alespoň jednou). Příznivci jiných systémů namítnou, že kvalitní operační systém je napsaný tak, aby jeden blbý ovladač neshodil celý systém. Opravdu takhle rozsáhlou ochranu mohou mít relativně kompaktní systémy chytrých telefonů?</p>
 
 <p>Pamatuju si jeden ze svých prvních GSM telefonů – Philips Fizz, léta páně 1996, mobilní pravěk. Ta mrcha se sama vypínala, jednou za čas, neznámo proč. Chyba firmware. Obrovský průšvih, ostuda největší, přetřásalo se to, RadioMobil tehdy odmítal další Philipsy kupovat. Z dnešního pohledu banalitka, protože dneska se smartphone samy rebootují, firmware telefonů mají hromadu chyb, často se táhnoucích přes několik modelů. Telefony jsou v tomhle dnes už jako počítače. Mají své chyby, mají své antiviry a není daleko doba, kdy budou mít i své antispam a spyware programy. </p>

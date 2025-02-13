@@ -1,14 +1,21 @@
 ---
 ID: 2127
-title: 'Apple iPhone recenze &#8211; může být delší, než manuál? Musí! Tady je&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/apple-iphone-recenze-muze-byt-delsi-nez-manual-musi-tady-je
-published: true
+oldlink: 'https://www.marigold.cz/item/apple-iphone-recenze-muze-byt-delsi-nez-manual-musi-tady-je
+
+  '
 post_date: 2007-07-15 20:05:06
+post_excerpt: ''
+published: true
+summary_points:
+- iPhone se v Česku pravděpodobně prodávat nebude, existuje jiná evropská verze.
+- iPhone zlidšťuje mobilní telefony, které jsou s rostoucím počtem funkcí obtížnější.
+- iPhone dělá všechno, co slibuje, a to perfektně, klade důraz na jednoduchost.
+- Do iPhone lze soubory dostat pouze synchronizací s iTunes z jednoho počítače.
+title: Apple iPhone recenze &#8211; může být delší, než manuál? Musí! Tady je&#8230;
 ---
+
 Nebude to klasická recenze. Zejména z toho důvodu, že telefon, který recenzuji, se na českém trhu pravděpodobně nikdy prodávat nebude. Pro Evropu bude existovat jiná verze, která přijde na trh na přelomu roku a bude se lišit. Jak moc, to jistě nevíme, ale pár zvěstí si probereme na závěr tohoto článku. Je důležité zmínit, že přitom vůbec není jisté, jestli evropský prodej telefonu bude zahrnovat i Česko. A nakonec ani to, zda nějaký evropský prodej bude existovat.
 
 <img src="http://www.marigold.cz/wp-content/iphone-review-iphone-hand-1.jpg" width="440" height="333" alt="Celková fotka, převzato z Engadget" title="Celková fotka, převzato z Engadget" />

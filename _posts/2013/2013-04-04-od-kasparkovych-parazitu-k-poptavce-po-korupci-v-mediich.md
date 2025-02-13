@@ -1,15 +1,23 @@
 ---
 ID: 2640
-title: 'Od Kašpárkových parazitů k&nbsp;poptávce po&nbsp;korupci v&nbsp;médiích'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Politika
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/od-kasparkovych-parazitu-k-poptavce-po-korupci-v-mediich
-published: true
+oldlink: 'https://www.marigold.cz/item/od-kasparkovych-parazitu-k-poptavce-po-korupci-v-mediich
+
+  '
 post_date: 2013-04-04 09:38:55
-categories: [Politika]
+post_excerpt: ''
+published: true
+summary_points:
+- Kašpárkův článek o zdanění OSVČ je označen za snůšku nesmyslů a logických faulů.
+- OSVČ mají nižší daně kompenzované menším sociálním zabezpečením a právní ochranou.
+- Podnikatelské riziko OSVČ je vyšší než riziko zaměstnance, který má odbory.
+- Korupce je větší problém než zdanění OSVČ, odvádí pozornost od rozpočtových deficitů.
+title: Od Kašpárkových parazitů k&nbsp;poptávce po&nbsp;korupci v&nbsp;médiích
 ---
+
 <p>Mám rád články, které mne inspirují, i když s nimi nesouhlasím a nejraději mám ty inspirující, se kterými souhlasím. Michalu Kašpárkovi se daří to druhé, tentokráte jsme ale u první zaznamenané výjimky. Jeho článek <a href="http://www.penize.cz/dan-z-prijmu/252276-ani-paraziti-ani-sul-zeme-at-zivnostnici-plati-podobne-jako-zamestnanci">"Ani paraziti, ani sůl země. Ať živnostníci platí podobně jako zaměstnanci"</a> je kromobyčejnou snůškou nesmyslů i logických faulů a zajímavé je, že jak se na Twitteru ukázalo, autor si to neuvědomuje. Nicméně, je to dobrý start k jinému přemýšlení, mnohem důležitějšímu.</p>
 
 

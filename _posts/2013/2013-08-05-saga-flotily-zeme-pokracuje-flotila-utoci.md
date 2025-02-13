@@ -1,14 +1,21 @@
 ---
 ID: 2686
-title: 'Sága Flotily Země pokračuje: Flotila útočí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/saga-flotily-zeme-pokracuje-flotila-utoci
-published: true
+oldlink: 'https://www.marigold.cz/item/saga-flotily-zeme-pokracuje-flotila-utoci
+
+  '
 post_date: 2013-08-05 14:00:53
+post_excerpt: ''
+published: true
+summary_points:
+- Flotila Země bude mít pokračování s názvem Flotila útočí, ale vyjde později.
+- Druhý díl Flotily bude rozsáhlejší, složitější a bez původního hlavního hrdiny.
+- Příběh Flotily útočí se odehrává dvacet let po událostech prvního dílu.
+- Autor plánuje dopsat knihu v létě 2014 a vydat ji digitálně celou najednou.
+title: 'Sága Flotily Země pokračuje: Flotila útočí'
 ---
+
 <p>Moje space opera Flotila Země má za sebou právě sedm let od vydání. A hlasy po tom, že bych měl napsat druhý díl - a udělal z toho nějakou ságu - neutichají. Dlouho jsem to nebral moc vážně, nezamýšlel jsem z toho dělat ságu, ačkoliv ta možnost nebyla nikdy vyloučena. Hodně lidí tvrdilo, že epilogem jsem si uzavřel možnost pokračování, ale nevěřte tomu. Už v době, kdy jsem Flotilu dopisoval, jsem měl jak představu o alternativním konci, tak o tom, jak by mohla pokračovat, protože dobrý příběh nekončí, aniž by jiný dobrý příběh nezačínal. Dokonce jsem původně chtěl vydat půl knih s jedním koncem, druhou polovinu nákladu s koncem druhým, ale nějak se na to pozapomnělo a tak zůstal jen ten jeden konec, ten dobrý. Špatný zůstal v šuplíku. </p>
 
 

@@ -1,16 +1,23 @@
 ---
 ID: 1522
-title: >
-  Má město stavět vlastní
-  telekomunikační infrastrukturu?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ma-mesto-stavet-vlastni-telekomunikacni-infrastrukturu
-published: true
+oldlink: 'https://www.marigold.cz/item/ma-mesto-stavet-vlastni-telekomunikacni-infrastrukturu
+
+  '
 post_date: 2005-02-11 07:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- Praha 5 zpřístupní zdarma WiFi síť na svém území, což vyvolává otázky o roli města.
+- Město může budovat telekomunikační infrastrukturu, podobně jako lavičky či osvětlení.
+- Praha 5 se poučila z PragoNetu a síť outsourcuje, považuje ji za dobročinnou aktivitu.
+- Zpřístupnění WiFi zdarma zlepší dojem občanů, ale stávající poskytovatele to nenadchne.
+title: 'Má město stavět vlastní telekomunikační infrastrukturu?
+
+  '
 ---
+
 <p>Přesně na tohle se mne, jen trochu jinými slovy, ptal včera jeden
 novinář v souvislosti s oznámením městské části Praha 5, že zpřístupní
 WiFi síť zdarma na svém území. Je to adekvátní otázka: má či nemá město

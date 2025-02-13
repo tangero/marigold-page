@@ -1,14 +1,22 @@
 ---
 ID: 2026
-title: Invex skončil
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/invex-skoncil
-published: true
+oldlink: 'https://www.marigold.cz/item/invex-skoncil
+
+  '
 post_date: 2006-10-13 20:53:11
+post_excerpt: ''
+published: true
+summary_points:
+- SIPY dojednalo obchody na Invexu, které překročily plány, takže akce nebyla prodělečná.
+- BVV dělalo špatné kroky, například středa a čtvrtek byly ve znamení dětí-sběračů.
+- Vystavovatelé dělali chyby, například neznali publikum a prezentovali nezáživné
+  informace.
+- Účast na Invexu se nemusí vyplatit, ale změny na straně BVV jsou nutné.
+title: Invex skončil
 ---
+
 <p><strong>Noname píše:</strong> před pár lety by to jistě byla informace týkající se mnoha lidí v IT/Telco, nyní už to asi zas tak moc lidí nezajímá. Jak už jsem psal, sám jsem byl na stánku <a href="http://sipy.cz">IP telefonie SIPY</a> a jsem spíše spokojen. Objem dojednaných obchodů několikrát překročil plány a akce tak nebude prodělečná. Ovšem mnoho firem jiště tak spokojeno nebude a já se jim nedivím.</p>
 
 <p>Předně zde bylo opět mnoho velmi špatných kroků BVV, které žhavily vystavovatele do běla, opět středa a čtvrtek byly ve znamení dětí-sběračů. Byly zde jisté pozitivní posuny, ovšem vesměs za nimi byli lidé mimo BVV - viz Jakub a jeho Broadband &amp; VoIP fórum a Sofa.</p>

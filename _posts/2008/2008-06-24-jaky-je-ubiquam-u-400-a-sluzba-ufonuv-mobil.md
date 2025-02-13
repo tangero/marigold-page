@@ -1,15 +1,25 @@
 ---
 ID: 2255
-title: 'Jaký je Ubiquam U-400 a&nbsp;služba Ufonův Mobil'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
+- Ufon
+- CDMA
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jaky-je-ubiquam-u-400-a-sluzba-ufonuv-mobil
-published: true
+oldlink: 'https://www.marigold.cz/item/jaky-je-ubiquam-u-400-a-sluzba-ufonuv-mobil
+
+  '
 post_date: 2008-06-24 21:56:39
-categories: [Mobilní sítě, Ufon, CDMA]
+post_excerpt: ''
+published: true
+summary_points:
+- Ufonův mobil Ubiquam U-400 má upravenou frekvenci pro síť Ufon.
+- Cena U-400 je 3000-5000 Kč s tarifem Za Nula a pětikilem jistiny.
+- U-400 nabízí hovory, hlasovou schránku, SMS a časem datové přenosy.
+- SMS zprávy na U-400 jsou problematické kvůli T9 a délce zpráv.
+title: Jaký je Ubiquam U-400 a&nbsp;služba Ufonův Mobil
 ---
+
 Ufonův mobil jsem si pořídil dobrovolně, protože jsem mu chtěl dát šanci. Není to recenze novináře, který znechuceně nafasoval mobil, ale názor někoho, kdo vážně přemýšlel nad tím, že by Ufonův mobil používal. Protože mám rád změnu. Protože mám rád zajímavé tarify. A nakonec i proto, že jsem si říkal: proč taky jednou nemít úplně obyčejný mobil, který nic neumí. Minimálně v tom posledním Ufonův mobil vyhoví dokonale. 
 
 

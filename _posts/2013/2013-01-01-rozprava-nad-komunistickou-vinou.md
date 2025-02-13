@@ -1,14 +1,21 @@
 ---
 ID: 2591
-title: Rozprava nad komunistickou vinou
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/rozprava-nad-komunistickou-vinou
-published: true
+oldlink: 'https://www.marigold.cz/item/rozprava-nad-komunistickou-vinou
+
+  '
 post_date: 2013-01-01 13:42:40
+post_excerpt: ''
+published: true
+summary_points:
+- Komunistická vina zůstává v české společnosti nedostatečně prodiskutovaná.
+- Havel nabídl odpuštění, ale společnost k němu zřejmě nedorostla.
+- Hledání viníků komunismu je komplikované, odpověď je spíše individuální.
+- Důležité je rozlišovat slova, skutky, zbabělost a aktivní odboj.
+title: Rozprava nad komunistickou vinou
 ---
+
 <p>Vrací se to vždy, když přijde řeč na komunismus. Kdo byl vlastně vinen? Kdo byl ten spravedlivý, kdo byl ten dobrý a kdo byli ti zlí? A hlavně, kdo jsme byli mi, naši rodiče a prarodiče, kteří v komunismu žili, učili se a pracovali?</p>
 
 

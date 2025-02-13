@@ -1,16 +1,23 @@
 ---
 ID: 2094
-title: >
-  Předposlední generace, která umí
-  číst
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/predposledni-generace-ktera-umi-cist
-published: true
+oldlink: 'https://www.marigold.cz/item/predposledni-generace-ktera-umi-cist
+
+  '
 post_date: 2007-03-27 13:45:26
+post_excerpt: ''
+published: true
+summary_points:
+- Autor plánuje vydat knihu "Informace jako výrobní prostředek" jako vánoční dárek.
+- Mládež v zemích s dabingem filmů méně čte, než v zemích bez dabingu.
+- Video na internetu, například YouTube, nahrazuje text v mnoha oblastech.
+- Čtení a psaní bude postupně méně podstatné, nahradí je audiovizuální sdělení.
+title: 'Předposlední generace, která umí číst
+
+  '
 ---
+
 Dostal jsem před nějakou dobou zajímavý nápad, jak se dokopat k tomu, abych dotáhl do konce věci, které mám rozepsané. Nemrzí mne, že jsem ještě nevydal stručného průvodce světem Fiber to the X, ještě mi ho kus chybí dopsat, ale takových věcí je řada, které mám rozepsané do půlky a zaseknu se na tom, že teoreticky je mám napsané a už mi chybí jen převod z hlavy do papírové podoby. 
 
 dočAbych se postrčil a taky vyřešil problém s vánočními dárky, rozhodl jsem se mezi vánoční dárek pro své přátele zařadit knihu. Samozřejmě vlastní, vydanou v nákladu pár kusů. Samozřejmě žádný tlustospis, dvěstapadesát stránek by mělo stačit každému, říkával kdosi a já to jen zopakuji. A samozřejmě vydané nějakou online službou. Zatím nejnadějněji vypadá česká <a href="http://www.knihovnicka.cz">Knihovnička.cz</a> - služba pro publikaci on-demand publikací, budu mít míň stresu, jestli vytisknou české znaky, než u <a href="http://www.lulu.com">Lulu.com</a> ... 

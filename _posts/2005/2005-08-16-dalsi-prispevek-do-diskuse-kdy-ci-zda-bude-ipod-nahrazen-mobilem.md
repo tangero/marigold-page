@@ -1,14 +1,21 @@
 ---
 ID: 1772
-title: 'Další příspěvek do diskuse, kdy či&nbsp;zda bude iPod nahrazen mobilem'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-prispevek-do-diskuse-kdy-ci-zda-bude-ipod-nahrazen-mobilem
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-prispevek-do-diskuse-kdy-ci-zda-bude-ipod-nahrazen-mobilem
+
+  '
 post_date: 2005-08-16 09:13:17
+post_excerpt: ''
+published: true
+summary_points:
+- iPod má výrazně lepší uživatelské ovládání než MP3 telefony dle Strategy Analytics.
+- MP3 telefony často nemají vyhrazené klávesy a neumí přehrávat hudbu a pracovat současně.
+- Děti s iPodem poslouchaly více hudby a sdílely ji než děti s 3G mobilem.
+- Lidé preferují rozhraní přizpůsobené konkrétní aplikaci, což telefony zatím nenabízí.
+title: Další příspěvek do diskuse, kdy či&nbsp;zda bude iPod nahrazen mobilem
 ---
+
 <p>Je to věčné téma propírané v posledních měsících: bude iPod nahrazen mobilem s MP3 přehrávačem? Jak víte, jsem skeptik v tom, že k tomu dojde v nějaké dohledné době řekněme tří čtyř let a co je za tímhle horizontem, to  není na krátký článek. Důvodů pro to mám celou řadu, tím největším je ale podstatný rozdíl v pohodlí ovládání. </p>
 
 <p><a href="http://www.strategyanalytics.com/press/PR00200.htm">Strategy Analytics publikovala</a> svůj výzkum nazvaný Apple iPod Blows Away Mobile Music Challengers. Publikovala = za peníze, takže se stručně podívejme, co vyzkoumala. </p>

@@ -1,14 +1,23 @@
 ---
 ID: 1748
-title: 'Tak ještě jednou a&nbsp;pomalu: CzechTek nebyl právně zcela v&nbsp;pořádku, ale zásah proti němu byl nepřiměřeně brutální'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-jeste-jednou-a-pomalu-czechtek-nebyl-pravne-zcela-v-poradku-ale-zasah-proti-nemu-byl-neprimerene-brutalni
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-jeste-jednou-a-pomalu-czechtek-nebyl-pravne-zcela-v-poradku-ale-zasah-proti-nemu-byl-neprimerene-brutalni
+
+  '
 post_date: 2005-07-31 22:13:20
+post_excerpt: ''
+published: true
+summary_points:
+- CzechTek 2005 nebyl zcela v souladu se zákony, chybělo schválení a řešení pozemků.
+- Policejní zásah na CzechTeku byl neadekvátní společenské nebezpečnosti, šlo o policejní
+  brutalitu.
+- Policie mohla situaci řešit jinak, například regulací dopravy a usměrňováním davů.
+- Autor zve na Folkovou Ohři na hradě Hauenštejn, akci s povolením a komfortem.
+title: 'Tak ještě jednou a&nbsp;pomalu: CzechTek nebyl právně zcela v&nbsp;pořádku,
+  ale zásah proti němu byl nepřiměřeně brutální'
 ---
+
 <p>Přiznám se, že jsem nečekal tak bouřlivou odezvu a diskusi <a href="/item/czechtek-2005-policie-zmlatila-nase-deti-nas-necha-tvrdnout-na-ucpane-dalnici-a-nam-je-to-jedno">na svůj pohled na CzechTek</a>. Řada diskutujících pochopila, co jsem chtěl říct, část z nich se mylně domnívala, že na takový názor nemám právo a poslední skupinka mne buďto nepochopila, nebo se rozhodla uplatnit starou strategii: vyvracet mi něco, co jsem netvrdil a tím mne aklamovat nevěrohodným. Je to dobrá strategie, ale na mne nefunguje, znám ji taky. </p>
 
 <p>Kromě toho se mi nechce odpovídat na jednotlivé výpady k mojí osobě jednotlivě (kromě toho, že vůbec). Ale budiž. </p>

@@ -1,16 +1,23 @@
 ---
 ID: 1943
-title: >
-  Ta hudba nešla ukrást, protože ji
-  dávali zadarmo
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ta-hudba-nesla-ukrast-protoze-ji-davali-zadarmo
-published: true
+oldlink: 'https://www.marigold.cz/item/ta-hudba-nesla-ukrast-protoze-ji-davali-zadarmo
+
+  '
 post_date: 2006-03-10 10:02:44
+post_excerpt: ''
+published: true
+summary_points:
+- Ukolébavka od Znouzectnosti uspává Sofii, ale autor si pletl slova.
+- Autor zjistil název Ukolébavka a našel text na webu Znouzectnosti.
+- Originální nahrávka Ukolébavky byla nedostupná v obchodech i online.
+- Znouzecnost nabízí MP3 zdarma na svém webu, takže autor získal píseň legálně.
+title: 'Ta hudba nešla ukrást, protože ji dávali zadarmo
+
+  '
 ---
+
 <p>Občas musím řešit specifické problémy. Tentokrát jím byla ukolébavka pro Sofii. Jednu dobrou a méně známou znám, tak když dávám Sofii spát, tak ji zpívám. Zabírá to dokonale, u druhé sloky Sofie drží oči zavřené, abych už přestal a vypadl. Jenže se ukázalo, že si slova nepamatuju přesně. Tradičně jsem to řešil tak, že jsem si je domýšlel, jenže to už se mi v ukolébavce hromadili mrtví, přízraky a zombíci. </p>
 
 <p>A tak jsem tento týden zjistil, CO je to za ukolébavku. Jmenuje se nepříliš překvapivě <a href="http://www.znc.cz/texty/loutxt.htm">Ukolébavka</a>. A nazpívala ji Znouzecnost. Na webu Znouzecnosti jsem našel skutečná slova, ukázalo se, že jsem se lišil jen v prvních pár slokách. </p>

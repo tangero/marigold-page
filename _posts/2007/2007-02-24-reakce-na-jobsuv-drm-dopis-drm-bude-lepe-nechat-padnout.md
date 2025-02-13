@@ -1,14 +1,23 @@
 ---
 ID: 2090
-title: 'Reakce na Jobsův DRM dopis: DRM bude lépe nechat padnout'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/reakce-na-jobsuv-drm-dopis-drm-bude-lepe-nechat-padnout
-published: true
+oldlink: 'https://www.marigold.cz/item/reakce-na-jobsuv-drm-dopis-drm-bude-lepe-nechat-padnout
+
+  '
 post_date: 2007-02-24 09:46:43
+post_excerpt: ''
+published: true
+summary_points:
+- Steve Jobs prosazuje odstranění DRM z hudby, což vyvolává odpor vydavatelů a tvůrců
+  DRM.
+- Yahoo Music předpokládá 25% nárůst prodejů online hudby po odstranění DRM.
+- Macrovision hájí DRM jako podporu prodeje hudby a kritizuje uzavřenost Apple FairPlay.
+- Odstranění DRM může labelům pomoci vyhnout se úplné dominanci Apple na hudebním
+  trhu.
+title: 'Reakce na Jobsův DRM dopis: DRM bude lépe nechat padnout'
 ---
+
 Digitální správa práv chránící hudbu a další soubory emoce vzbuzuje neustále a vypadá to, že to jen tak nepomine. Do vosího hníza píchl před pár týdny Steve Jobs, šéf Apple, když publikoval dopis, v němž vysvětloval, že bez DRM by všem včetně labels, vydavatelů hudby, bylo lépe. 
 
 Vydavatelé hudby a tvůrci DRM ochran se nyní předhánějí v ujišťování, že Jobs je senilní stařík, jemuž by nemělo být dopřáváno sluchu. Spravedlivě je třeba poznamenat, že na druhé straně barikády stojí prodejci online hudby, většinou konkurující Apple, kteří poznamenávají, že na Jobsových slovech bude mnoho pravdy. 

@@ -1,15 +1,25 @@
 ---
 ID: 2600
-title: Knižní eldorádo
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Knihy
+- Příběh strýčka Martina
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/knizni-eldorado
-published: true
+oldlink: 'https://www.marigold.cz/item/knizni-eldorado
+
+  '
 post_date: 2013-01-16 11:16:14
-categories: [Knihy, Příběh strýčka Martina]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor popisuje vnitřní motivaci jako klíčový problém při psaní knih.
+- Rozpracované knihy často "kysnou", protože autor dosáhl uspokojivého stavu v hlavě.
+- Autor zmiňuje několik konkrétních nedokončených projektů, například Historii českého
+  internetu.
+- Kvalitní editace je pro autora zásadní, ale u knihy Apple se nepodařila.
+title: Knižní eldorádo
 ---
+
 <p>V publikování jsem vyzkoušel ledasco a už to by vydalo na knihu samo o sobě. Jednu věc, na kterou narážím nejčastěji, je vnitřní motivace. Závidím autorům, kteří mají svého vydavatele a editora a dostávají od něj cholerické telefonáty, kdy onen řve, že autor jest kurva, která slíbila dodat text před půl rokem a stále ani čárka, autor křičí, že v takovém kravále se nedá dělat a že už chtěl jen dopsat závěr, zatímco na obrazovce notebooku volí v iA Writeru <em>Create a new file</em>. A s chlapským <em>"jdi do prdele"</em> se oba v dobrém rozloučí. Protože tak to má být a všichni to vědí, že takto je svět v pořádku. Autorovi se dostává motivace a tlaku, vydavatel vnáší do projektu přidanou hodnotu uvážlivého project managementu založeného na úměrném užití slangu a argotu.</p>
 
 

@@ -1,15 +1,26 @@
 ---
 ID: 2850
-title: 'Zálohování počítače v&nbsp;době internetu: co uděláte, až vám ukradnou USB disk?'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Zálohování
+- Bezpečnost
+- Počítače
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zalohovani-pocitace-v-dobe-internetu-co-udelate-az-vam-ukradnou-usb-disk
-published: true
+oldlink: 'https://www.marigold.cz/item/zalohovani-pocitace-v-dobe-internetu-co-udelate-az-vam-ukradnou-usb-disk
+
+  '
 post_date: 2011-01-31 11:43:35
-categories: [Zálohování, Bezpečnost, Počítače]
+post_excerpt: ''
+published: true
+summary_points:
+- Data v počítači jsou cennější než hardware, krádež zálohy je zbytečná.
+- Záloha musí být bezpečná, dostupná a automatická, což je obtížné kombinovat.
+- Doporučuje se kombinace lokální (USB disk) a online zálohy pro komplexní ochranu.
+- Online zálohovací služby Mozy a CrashPlan jsou doporučeny, FTP záloha nedoporučena.
+title: 'Zálohování počítače v&nbsp;době internetu: co uděláte, až vám ukradnou USB
+  disk?'
 ---
+
 <p style="margin: 10px 0px; padding: 0px; font-size: 13px; color: #424037; font-family: Arial, Helvetica, sans-serif; line-height: 23px;">V posledním půl roce jsem se setkal se třemi případy vykradení bytu a ukradení počítače. Stane se, pojišťovny to nějak pořeší. Jenže... data. Ještě před pěti lety bylo spíše výjimkou, aby člověk měl na počítači "všechno" - fotky, videa, svoje dokumenty. Najednou tam máme všechno, nebo skoro všechno. Emaily, co stahujeme na počítač, fotky, dokumenty. </p>
 
 

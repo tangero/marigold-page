@@ -1,14 +1,24 @@
 ---
 ID: 1947
-title: 'Obecní samoobsluha &#8211; potraviny zdarma'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/obecni-samoobsluha-potraviny-zdarma
-published: true
+oldlink: 'https://www.marigold.cz/item/obecni-samoobsluha-potraviny-zdarma
+
+  '
 post_date: 2006-03-15 12:25:44
+post_excerpt: ''
+published: true
+summary_points:
+- Obce s horší dostupností služeb, jako obchodů a internetu, mají horší demografické
+  ukazatele.
+- Dotace na potraviny zdarma jsou ekvivalentem dotací na internet zdarma, mají stejné
+  důsledky.
+- Praha 5 dotuje prodej potravin zdarma bez výběrového řízení, což je předražené a
+  likvidační.
+- ISP by měli podat stížnost k ÚOHS na projekt Prahy 5 a zvážit právní kroky.
+title: Obecní samoobsluha &#8211; potraviny zdarma
 ---
+
 <p><strong>Noname píše:</strong> diskuse na téma <a href="/item/obecni-samoobsluha-mozkove-cviceni#comments">obecní samoobsluhy</a> se krásně rozjela, děkuji vám. Jak mnozí z vás pochopili, je to analogie k obecnímu internetu. Obce bez obchodu i internetu jsou méně populární, stárnou, hůř se tam pracuje, jsou tam levnější pozemky... a starosta, který prosadí to či ono získá volební body. V podstatě na každé "proč" a "jak" obecního internetu existuje ekvivalent v obecním obchodě (hospodě, kadeřnictví...) a řešení se tedy dají zaměňovat.</p>
 
 <p>Proto mě v této souvislosti "překvapuje", že od vás nezazněl návrh na obecní dotaci někomu, kdo otevře prodejnu a bude dávat zdarma veškeré potraviny. Zní to bláznivě? Ale vždyť to je ekvivalent dotace na obecní internet zdarma. U obou jsou fixní náklady (zaměstnanci, budovy, stroje...) i inkrementální (fakturace, telekomunikační poplatky, zboží, spotřební materiál ...) a příčiny, řešení i důsledky by byly stejné. Projekt Prahy 5 by se dal vyjádřit asi takto:</p>

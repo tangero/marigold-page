@@ -1,14 +1,22 @@
 ---
 ID: 2132
-title: 'Kudy Apple vnesl s&nbsp;iPhone nervozitu do telekomunikací'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kudy-apple-vnesl-s-iphone-nervozitu-do-telekomunikaci
-published: true
+oldlink: 'https://www.marigold.cz/item/kudy-apple-vnesl-s-iphone-nervozitu-do-telekomunikaci
+
+  '
 post_date: 2007-08-05 13:22:32
+post_excerpt: ''
+published: true
+summary_points:
+- iPhone mění telekomunikace, protože Apple je IT firma vstupující na trh.
+- Apple upřednostňuje standardy IT světa (H.264, AAC) před telekomunikačními (Flash,
+  J2ME).
+- iPhone ignoruje WAP a sází na XHTML, což uživatelům nechybí.
+- Prodeje iPhone jsou velmi úspěšné, předstihly Palm Treo za pouhé tři dny.
+title: Kudy Apple vnesl s&nbsp;iPhone nervozitu do telekomunikací
 ---
+
 Ve své <a href="/item/apple-iphone-recenze-muze-byt-delsi-nez-manual-musi-tady-je">recenzi Apple iPhone</a> jsem slíbil zamyslet se trochu nad tím, proč a jak iPhone změní telekomunikační prostředí, pokud vůbec. Argumentace a poznatky k tomu jsou obsáhlé a dlouhé. Zkusil jsem je trochu zestručnit, aby se to ještě dalo přečíst, ale i tak z toho zase vyšel poněkud dlouhý článek. Takže je vhodný pro zájemce o něco trochu méně povrchnějšího, než výkřiky iPhone Sucx/rullleezzz... :)
 
 Začneme trochu ze široka. 

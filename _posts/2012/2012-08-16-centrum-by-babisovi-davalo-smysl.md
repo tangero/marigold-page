@@ -1,15 +1,27 @@
 ---
 ID: 2488
-title: Centrum by Babišovi dávalo smysl
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Internet
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/centrum-by-babisovi-davalo-smysl
-published: true
+oldlink: 'https://www.marigold.cz/item/centrum-by-babisovi-davalo-smysl
+
+  '
 post_date: 2012-08-16 10:57:34
-categories: [Internet, Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Babiš usiluje o koupi Centrum Holdings, zejména kvůli zpravodajskému serveru Aktuálně.
+- Týdeník 5+2, vydávaný Babišem, obsahuje reklamu na jeho firmy a politické uskupení
+  Ano2011.
+- Koupě Aktuálně by Babišovi zajistila kvalitní novinářskou základnu a rozšíření mediálního
+  vlivu.
+- Vlastnictví médií se stalo standardem v české politice, vyžadující kritické posuzování
+  informací.
+title: Centrum by Babišovi dávalo smysl
 ---
+
 <p> Lidovky přinesly informaci o tom, že Andrej Babiš je jedním ze zájemců o koupi Centrum Holdins. Zejména kvůli zpravodajskému Aktuálně. Babiš si kromě toho údajně koupil slovenské Hospodárské noviny, jejich vydavatel Ecopress to ovšem odmítá. Tuzemské Hospodářky s těmi slovenskými nejsou spojené, ty české ovládá Bakala (trochu se to plete). <a href="http://medialne.etrend.sk/tlac-spravy/ln-babis-chce-centrum-holdings-udajne-kupil-hospodarske-noviny.html" target="_self" title="">Podrobněji je to zde</a>.</p>
 
 

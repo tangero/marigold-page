@@ -1,15 +1,23 @@
 ---
 ID: 2519
-title: Tři applistické drobnosti
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Apple
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tri-applisticke-drobnosti
-published: true
+oldlink: 'https://www.marigold.cz/item/tri-applisticke-drobnosti
+
+  '
 post_date: 2012-09-18 07:43:50
-categories: [Apple]
+post_excerpt: ''
+published: true
+summary_points:
+- MacForum.cz je nové diskusní fórum o Apple s pluginem pro TapaTalk.
+- Peter Druska vytvořil slovenskou knihu "Návrh iOS aplikácie" pro iPad za 20 euro.
+- 'Kniha "Apple: cesta k mobilům" byla v srpnu nejprodávanější e-kniha.'
+- Žebříček prodejnosti e-knih za srpen ovládl Zandl, který porazil Nesboa.
+title: Tři applistické drobnosti
 ---
+
 <h2> MacForum.cz</h2>
 
 <p>První aplistickou zmínkou pro dnešek bude upozornění na start nového diskusního fóra věnovaného Apple - <a href="http://www.macforum.cz" target="_self" title="">MacForum.cz</a>, za nímž stojí Honza Březina. Hezké, lehké, s pluginem pro TapaTalk, takže dobře užitelné i z chytrých telefonů. A s dostatkem lidí. Důstojná náhrada fóra na MůjMac, které už je poněkud nepřehledné. Akorát posuny mezi IDIF, MůjMac a Honzou jsem  nějak nepochopil, budu se na to někdy muset zeptat, to je zase nepřehledné pro mne.</p>

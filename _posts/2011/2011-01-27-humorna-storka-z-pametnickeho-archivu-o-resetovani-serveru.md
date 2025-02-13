@@ -1,15 +1,24 @@
 ---
 ID: 2852
-title: 'Humorná storka z&nbsp;pamětnického archivu o&nbsp;resetování serverů'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Historie internet
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/humorna-storka-z-pametnickeho-archivu-o-resetovani-serveru
-published: true
+oldlink: 'https://www.marigold.cz/item/humorna-storka-z-pametnickeho-archivu-o-resetovani-serveru
+
+  '
 post_date: 2011-01-27 11:44:36
-categories: [Historie internet, Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- Petr Koubský žádal vrátného PVT o reset serveru Mobil server.
+- Vrátný omylem resetoval řídící server RadioMobilu místo serveru Mobil server.
+- Výpadek serveru RadioMobil způsobil dočasnou nedostupnost telefonní sítě.
+- Server PVT byl sbírka vyřazených dílů, což způsobovalo časté problémy.
+title: Humorná storka z&nbsp;pamětnického archivu o&nbsp;resetování serverů
 ---
+
 Jak jsem tak dával dohromady podklady k Siteláckému data centru a zmínil tam Podivný mlýn PVTčka, vzpoměl jsem si na le-gen-dární historku, která se k tomu pojí (a inspiroval Petr Koubský vzpomínkovým článkem). A tak ji dám k lepšímu. 
 
 Datuje se někdy k počátkům GSM sítí v Česku, rok 1997-8 řekl bych. Měli jsme server v PVT, takovou děsivou krabici, ale zakrytovanou, takže z venku to vypadalo dobře. Jen tím, jak to byla sbírka vyřazených dílů (short budget, pamatujete?), tak se to prostě občas kouslo. 

@@ -1,17 +1,26 @@
 ---
 ID: 2388
-title: >
-  A proč vám Steve Jobs nedopřeje
-  alternativní dashboard pro iOS?
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Apple
+- iPhone
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/a-proc-vam-steve-jobs-nedopreje-alternativni-dashboard-pro-ios
-published: true
+oldlink: 'https://www.marigold.cz/item/a-proc-vam-steve-jobs-nedopreje-alternativni-dashboard-pro-ios
+
+  '
 post_date: 2011-06-08 08:47:43
-categories: [Apple, iPhone]
+post_excerpt: ''
+published: true
+summary_points:
+- Apple neumožňuje dashboardy kvůli optimalizaci výdrže baterie a výkonu.
+- Jailbreaknuté iPhony mají dashboardy, což ukazuje, že omezení je politické, ne technické.
+- iOS centralizuje úlohy na pozadí přes API pro efektivní správu baterie.
+- Centrála notifikací v iOS 5 je alternativou k dashboardu s odlišnou technologií.
+title: 'A proč vám Steve Jobs nedopřeje alternativní dashboard pro iOS?
+
+  '
 ---
+
 <p>To je dobrá otázka, která padla v komentářích <a href="/item/proc-nema-iphone-dashboard">k mé minulé mikrostati věnované dashboardu</a>, takové té "úvodní obrazovce", kam se na vás valí všechny záležitosti, které musíte vyřídit, abyste žili se svým zařízením v míru. Proč vám Apple nedopřeje možnost instalovat dashboard jako alternativu? Proč nám vnucuje jedinou cestu?</p>
 
 

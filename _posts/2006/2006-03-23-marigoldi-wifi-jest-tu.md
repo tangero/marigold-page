@@ -1,14 +1,21 @@
 ---
 ID: 1952
-title: Marigoldí WiFi jest tu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/marigoldi-wifi-jest-tu
-published: true
+oldlink: 'https://www.marigold.cz/item/marigoldi-wifi-jest-tu
+
+  '
 post_date: 2006-03-23 19:05:15
+post_excerpt: ''
+published: true
+summary_points:
+- Marigoldí WiFi tutorial je dostupný na www.marigold.cz/wifi.
+- Tutorial je přehled informací pro začátečníky o WiFi sítích.
+- Wiki obsahuje přes 100 000 znaků a bude se dále rozšiřovat.
+- Uživatelé mohou s obsahem wiki spolupracovat a doplňovat jej.
+title: Marigoldí WiFi jest tu
 ---
+
 <p>Vše se nakonec podařilo rozchodit, odchybovat - a slíbený WiFi tutorial je tu. Jmenuje se prozaicky <a href="http://www.marigold.cz/wifi">Marigoldí WiFi</a>, žádná velká invence se neočekávala. A najdete jej na adrese <a href="http://www.marigold.cz/wifi">www.marigold.cz/wifi</a>. Odkaz v horním menu nahradil již mrtvou a neudržovanou rubriku Hotspoty (těch je dost všude možně už).</p>
 
 <p>Co že to je?</p>

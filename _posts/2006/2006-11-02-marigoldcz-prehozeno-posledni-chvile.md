@@ -1,14 +1,21 @@
 ---
 ID: 2032
-title: 'Marigold.cz &#8211; přehozeno. Poslední chvíle&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/marigoldcz-prehozeno-posledni-chvile
-published: true
+oldlink: 'https://www.marigold.cz/item/marigoldcz-prehozeno-posledni-chvile
+
+  '
 post_date: 2006-11-02 16:48:29
+post_excerpt: ''
+published: true
+summary_points:
+- Wordpress je nově nasazen, ale zatím bez designu.
+- RSS/ATOM zdroje pro články a komentáře vyžadují opravu.
+- Kvalita redakčního systému se měří popularitou kvůli snadné konkurenci.
+- WordPress se stal nejoblíbenějším CMS, například pro Yahoo a New York Times.
+title: Marigold.cz &#8211; přehozeno. Poslední chvíle&#8230;
 ---
+
 <texy>Wordpress finálně nasazen. Zatím bez designu, na tom už jsem měl čas deset minut pracovat :)
 
 **Noname píše:** Opravte si prosím RSS / ATOM zdroje, články jsou nyní pod feed:http://www.marigold.cz/feed/ komentáře pod feed:http://www.marigold.cz/comments/feed/

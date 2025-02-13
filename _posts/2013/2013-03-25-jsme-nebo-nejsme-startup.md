@@ -1,15 +1,23 @@
 ---
 ID: 2638
-title: Jsme nebo nejsme startup?
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Energomonitor
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jsme-nebo-nejsme-startup
-published: true
+oldlink: 'https://www.marigold.cz/item/jsme-nebo-nejsme-startup
+
+  '
 post_date: 2013-03-25 12:17:08
-categories: [Energomonitor]
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor má znaky startupu, ale soustředí se na produkt, prodej a logistiku.
+- Startup nechce nahánět investory ani uchvacovat lidi, kteří nejsou zákazníci.
+- České startupové akce se nezajímají o energetiku a kombinaci starého a nového světa.
+- Autor postrádá akce propojující "staré" a "nové" firmy, například výrobce a programátory.
+title: Jsme nebo nejsme startup?
 ---
+
 <p>Prý jestli je <a href="http://www.energomonitor.cz">energomonitor</a> startup. Nevím. Řadu znaků máme: přicházíme s něčím novým, začínáme z nuly a tak i rychle rosteme. Ambice. V jiném nejsme úplně typický tuzemský startup: přehoupnuti přes první desítku lidí, kteří na tom pracují. Záměrně nezřejmý záměr, kde budou peníze, ale jeho silné vědomí. Vlastní peníze, hodně a zase málo.</p>
 
 

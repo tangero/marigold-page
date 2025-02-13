@@ -1,18 +1,35 @@
 ---
 ID: 2187
-title: Charita aneb mikroinvestice
 author: Patrick Zandl
-post_excerpt: |
-  Platba je převodem na účet, není to tak hezky interaktivní a promakané, jako u Kiva.org, ale pokud přemýšlíte o rizikových investičních aktivitách s charitativním podtextem, asi to pro vás bude lepší.
-  
-  ...Ale pokud pro někoho chcete něco udělat, může to být o něco adrenalinovější a adresnější, než poukázání pár anonymních korun na konta nejrůznějších nadací.
+categories:
+- Crowdfunding
+- Investice
+- Startupy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/charita-aneb-mikroinvestice
-published: true
+oldlink: 'https://www.marigold.cz/item/charita-aneb-mikroinvestice
+
+  '
 post_date: 2008-01-01 17:31:38
-categories: [Crowdfunding, Investice, Startupy]
+post_excerpt: 'Platba je převodem na účet, není to tak hezky interaktivní a promakané,
+  jako u Kiva.org, ale pokud přemýšlíte o rizikových investičních aktivitách s charitativním
+  podtextem, asi to pro vás bude lepší.
+
+
+  ...Ale pokud pro někoho chcete něco udělat, může to být o něco adrenalinovější a
+  adresnější, než poukázání pár anonymních korun na konta nejrůznějších nadací.
+
+  '
+published: true
+summary_points:
+- Mikroinvestice a mikroúvěry řeší finanční problémy lidí v rozvojových zemích malými
+  půjčkami.
+- Komunitní zodpovědnost ručí za půjčky, snižuje riziko nesplácení a motivuje k splácení.
+- Kiva.org je neziskový portál pro mikroinvestice, umožňuje přímou pomoc konkrétním
+  projektům.
+- myElen je český portál pro mikroinvestice do mexických projektů s možností výdělku.
+title: Charita aneb mikroinvestice
 ---
+
 <p>Web je plný zajímavých služeb, které ukazují, čeho všeho je komunita schopna, když se jí dá zajímavý názor a nespolehnete se jen na všemocnost internetu. Mikroinvestice a mikroúvěry jsou toho dobrý příkladem. A jelikož je po Silvestru a naše duše by se měly obrátit k bohulibé činnosti, abychom odepsaly své hríšky, tak něco o mikroinvesticích napíšu. Protože je to takový zajímavý způsob charity, bych řekl - někdy dokonce spojený s nulovou ztrátou či i se ziskem. </p>
 
 

@@ -1,14 +1,21 @@
 ---
 ID: 2741
-title: V zajetí nástrojů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/v-zajeti-nastroju
-published: true
+oldlink: 'https://www.marigold.cz/item/v-zajeti-nastroju
+
+  '
 post_date: 2013-12-20 21:25:11
+post_excerpt: ''
+published: true
+summary_points:
+- Autor tráví příliš času hledáním ideálních nástrojů, namísto samotné práce.
+- Pro psaní autor zkouší různé editory, ale není zcela spokojen s žádným.
+- Podobný problém má autor s nástroji pro úkoly, projekty a evidenci činností.
+- Výběr nástrojů pro wireframing webu málem vedl k zbytečné investici do Axure.
+title: V zajetí nástrojů
 ---
+
 <p>V posledních letech se potýkám s problémem, který si připouštím až v poslední době. Jsem v zajetí nástrojů. Místo toho, abych nějakou věc řešil, trávím mnoho času tím, že hledám vhodný nástroj na její vyřešení. A nakonec mne to, včetně času na samotné řešení, zažere času mnohem více.</p>
 
 

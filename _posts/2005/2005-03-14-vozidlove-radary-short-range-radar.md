@@ -1,14 +1,22 @@
 ---
 ID: 1577
-title: 'Vozidlové radary &#8211; Short-range radar'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vozidlove-radary-short-range-radar
-published: true
+oldlink: 'https://www.marigold.cz/item/vozidlove-radary-short-range-radar
+
+  '
 post_date: 2005-03-14 08:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- eSafety EU chtěla do roku 2010 snížit úmrtí chodců při srážkách s auty na polovinu.
+- Short-range radary (SRR) měly pomoci snížit nehodovost, montáž do vozů měla být
+  povinná od 2013.
+- SRR radary využívají frekvence 24 GHz (dočasně) a 79 GHz (trvale).
+- Konsorcium SARA vyvíjí SRR radary a zkoumá komunikaci radarů mezi vozidly.
+title: Vozidlové radary &#8211; Short-range radar
 ---
+
 <p>Evropská unie přišla v rámci programu eSafety s požadavkem snížit počet smrtelných úrazů při srážce chodce s vozidlem na polovinu do roku 2010. Vzhledem k tomu, že počet smrťáků roste, je to odvážný plán, podobný plán ostatně přijaly i USA. Jednou z cest, jak počet smrtelných úrazů snížit, mají být vozidlové radary s krátkým dosahem, takzvané Short-range radar (SRR). Podle některých zdrojů má být jejich montáž do vozů povinná od roku 2013, sám jsem tohle nařízení EU nedohledal, spíše jsem se díval po technologickém vymezení takových radarů.</p>
 
 <p>První problém je s pracovní frekvencí. Jsou stanoveny dvě – přechodná v pásmu 24 GHz a trvalá v pásmu 79 GHz, to určuje rozhodnutí 2004/545/ES ze dne 8. července 2004 o harmonizaci rádiového spektra v pásmu 79 GHz pro účely radarových zařízení krátkého dosahu pro použití v automobilové oblasti ve Společenství. </p>

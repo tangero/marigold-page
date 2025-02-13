@@ -1,15 +1,24 @@
 ---
 ID: 2213
-title: Nové služby na českém internetu
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Startupy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nove-sluzby-na-ceskem-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/nove-sluzby-na-ceskem-internetu
+
+  '
 post_date: 2008-03-16 08:17:08
-categories: [Startupy]
+post_excerpt: ''
+published: true
+summary_points:
+- eUcty.cz doplňuje systémy pro správu financí, podporuje mobilní přístup a import
+  dat z ČSOB.
+- Mapa cen piva v Praze od Jacka DeNeuta ukazuje levné pivo mimo centrum.
+- Hypotékař.cz je blog věnovaný hypotékám.
+- Shipito je nová služba pro přeposílání zboží z USA do Evropy.
+title: Nové služby na českém internetu
 ---
+
 Občas bych zase rád zmínil zajímavé nové služby na českém internetu. Tedy to, co mne zaujalo, abych byl přesnější. Tak pojďme na to. 
 
 Tak především systémy <strong>pro domácí správu financí</strong> doplnila služba <a href="http://www.eucty.cz">eUcty.cz</a>. Zajímavostí je nejenom podpora přístupu přes mobilní telefon, ale také import dat z CSOB. Jestli tím pádem i z Poštovní spořitelny, to nevím, nezkoušel jsem to, ale formát je to stejný (bo celé to bankovnictví je stejné).

@@ -1,14 +1,21 @@
 ---
 ID: 2102
-title: 'Líbačka právě běží online na Stream.cz (Update: už je konec)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/libacka-prave-bezi-online-na-streamcz
-published: true
+oldlink: 'https://www.marigold.cz/item/libacka-prave-bezi-online-na-streamcz
+
+  '
 post_date: 2007-05-01 09:22:31
+post_excerpt: ''
+published: true
+summary_points:
+- Stream.cz vysílal přenos "Líbačka" s odkazem na větší okno přenosu.
+- Přenos sledovalo v průměru 200 lidí v první čtvrthodině, což překonalo očekávání.
+- TTčka a Karo byli vtipní, takže se na přenos dalo koukat.
+- Návštěvnost Stream.cz byla o 500 lidí vyšší než víkendový průměr.
+title: 'Líbačka právě běží online na Stream.cz (Update: už je konec)'
 ---
+
 Sledovat můžete rovnou zde, slibně se to rozjíždí a lidí chodí dost :)
 
 <a href="http://www.stream.cz/libacka.html">http://www.stream.cz/libacka.html</a>

@@ -1,15 +1,24 @@
 ---
 ID: 2602
-title: 'Rozdělená společnost: my dole nejsme jedna země, ale dvojí lidé&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Politika
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/rozdelena-spolecnost-my-dole-nejsme-jedna-zeme-ale-dvoji-lide
-published: true
+oldlink: 'https://www.marigold.cz/item/rozdelena-spolecnost-my-dole-nejsme-jedna-zeme-ale-dvoji-lide
+
+  '
 post_date: 2013-01-24 12:39:05
-categories: [Politika]
+post_excerpt: ''
+published: true
+summary_points:
+- Volby 2013 odhalily hluboké rozdělení české společnosti na dva nesmiřitelné tábory.
+- Zeman oslovuje manuálně pracující, kterým vadí "bílé límečky" a nejistá budoucnost.
+- Schwarzenberg reprezentuje městskou, intelektuální generaci, která nezná fabriky
+  ani pole.
+- Autor preferuje Schwarzenberga pro jeho konzistentnost a nerozdělující rétoriku.
+title: 'Rozdělená společnost: my dole nejsme jedna země, ale dvojí lidé&#8230;'
 ---
+
 <p>Málokdo asi očekával, že volby prezidenta v Česku budou takový mazec. Zatím jsem si z toho dělal legraci, říkal jsem, že "to hodím Zemanovi" a když vyhraje, odstěhuju se do Rakouska a zbytek téhle realityshow dokoukám na ORF. Jenže to přestalo být vtipné. Víc reálné. Proč?</p>
 
 

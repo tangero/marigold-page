@@ -1,15 +1,23 @@
 ---
 ID: 2501
-title: Startupy na vrcholu hype křivky
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Startupy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/startupy-na-vrcholu-hype-krivky
-published: true
+oldlink: 'https://www.marigold.cz/item/startupy-na-vrcholu-hype-krivky
+
+  '
 post_date: 2012-09-04 08:52:10
-categories: [Startupy]
+post_excerpt: ''
+published: true
+summary_points:
+- Startup se stal produktem, zhodnocení startupu tak vynechává investory.
+- Životaschopné startupy je obtížné najít, naivní představy jsou houževnatě hájeny.
+- Marketing, obchod a substituce produktu jsou důležitější než samotný produkt.
+- Čeští startupisté často nemají rozmyšlený model financování a jeho úskalí.
+title: Startupy na vrcholu hype křivky
 ---
+
 Podívat se do tváře českým startupům chce v poslední době stále více odvahy. Spolu s tím, jak o “startupy” začal být zájem nejenom mediální, ale i investiční, se staly samy o sobě produktem, tedy došly do stavu, kdy není třeba vygenerovat produkt startupu a ten úspěšně zhodnotit, ale sám startup je produktem, který je zhodnocen. Vypadá to, jako formální, drobná změna, nicméně toto posunutí zhodnocení o jeden krok také znamená, že z onoho zhodnocení vypadají všichni po tomto kroku následující, například investoři. A to je (minimálně pro ně) špatná zpráva. 
 
 Jistou alergii na startupy jsem si vypěstoval v Lupě záhy po spuštění přílohy Startupy. Bylo obtížné, ne-li nemožné dostatečně často najít startupy, které by vypadaly životaschopně či alespoň z nich zůstat pozitivně naladěn. Neopakovat pořád do kola těch několik, které se uchytily a stoupají když ne k závratním sanfranciským výšinám, tak alespoň ke smíchovskému docenění. Bylo příliš časté, že jsem se setkával s představami tak naivními a přitom tak houževnatě hájenými spolu s výčitkou, že jsem negativista a nechci podat pomocnou ruku. Asi nejlépe se to projevilo v momentě, kdy padla první otázka z tradiční triády: “A jak máte rozmyšlený marketing produktu?”. 

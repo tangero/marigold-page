@@ -1,14 +1,21 @@
 ---
 ID: 2151
-title: 'Vodafone šlápl do UGC a&nbsp;úsměvu konkurentů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vodafone-slapl-do-udg-a-usmevu-konkurentu
-published: true
+oldlink: 'https://www.marigold.cz/item/vodafone-slapl-do-udg-a-usmevu-konkurentu
+
+  '
 post_date: 2007-09-18 20:09:50
+post_excerpt: ''
+published: true
+summary_points:
+- UGC je User Generated Content, tedy obsah tvořený samotnými uživateli.
+- Vodafone nabízí tarif SMS Grátis s limitem 300 SMS denně.
+- Mládež je pro média obtížně zacílitelná, ale mobil je oslovuje plošně.
+- Mobilní reklama není spása, ale zajímavý trend, kterého se Vodafone chopil.
+title: Vodafone šlápl do UGC a&nbsp;úsměvu konkurentů
 ---
+
 UGC je kryptická zkratka značící User Generated Content, tedy obsah tvořený uživateli. Úsměv konkurentů značí hypotetický stav pro případ, že O2 by se trendu na českém trhu ještě mohla smát a T-Mobile kdyby sehnal nějakou kreativní reklamku. Tolik počáteční definice. 
 
 Teď zase popořádku. Vodafone představil tarif <b>Vodafone SMS Grátis</b> nabízející zadarmo posílání SMS zpráv. Můžete namítnout, že limit je 300 SMS zpráv denně, já bych zase namítl, že limit je natolik benevolentní, aby zprudil tak akorát zájemce o vytvoření spammerské SMS brány. I mne by tohle množství SMS zpráv stačilo. 

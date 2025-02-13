@@ -1,15 +1,23 @@
 ---
 ID: 2635
-title: 'Jak Česká pošta podvádí s&nbsp;doručováním zásilek'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Česká pošta
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-ceska-posta-podvadi-s-dorucovanim-zasilek
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-ceska-posta-podvadi-s-dorucovanim-zasilek
+
+  '
 post_date: 2013-03-18 11:23:46
-categories: [Česká pošta]
+post_excerpt: ''
+published: true
+summary_points:
+- Česká pošta změnila systém doručování balíků, které putují do dep.
+- Depo Čertousy nedoručuje balíky, rovnou je předává brandýské pobočce.
+- Řidiči depa falšují doručení, aniž by se pokusili balík doručit.
+- Autor navrhuje kontrolu, stížnosti adresátů a odezvu od eshopů.
+title: Jak Česká pošta podvádí s&nbsp;doručováním zásilek
 ---
+
 <p>Česká pošta je kapitola sama pro sebe. Uznávám, že kolos s desetitisíci zaměstnanci je těžké uřídit a nebrblal bych, kdyby šlo o jednotlivá pochybení. Dneska vám ale ukážu, jak nefunguje celý systém doručování balíkových zásilek.</p>
 
 

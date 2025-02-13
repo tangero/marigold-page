@@ -1,14 +1,21 @@
 ---
 ID: 2183
-title: Dorazila mi mBank Visa karta
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dorazila-mi-mbank-visa-karta
-published: true
+oldlink: 'https://www.marigold.cz/item/dorazila-mi-mbank-visa-karta
+
+  '
 post_date: 2007-12-18 17:21:14
+post_excerpt: ''
+published: true
+summary_points:
+- mBank karta doručena nečekaně brzy obyčejným dopisem, což autorovi vyhovuje.
+- Karta není aktivní ihned, aktivace vyžaduje internetové bankovnictví a SMS autorizaci.
+- PayPal platby s kartou mKontu zatím neotestovány, internetové limity jsou nulové.
+- Karta je neembosovaná, bez čipu, s delfínem, vzhledově nenadchne, ale má fungovat.
+title: Dorazila mi mBank Visa karta
 ---
+
 Ačkoliv mne varovali, že mi platební karta mBank dorazí někdy  v půlce ledna, dorazila teď. Dneska. Obyčejným dopisem, který jsem málem automaticky hodil do koše, protože ho posílala polská firma a byl barevný (ergo podezření na letáky). Naštěstí jsem si dřív všiml, že mBank, takže jsem to pro jistotu otevřel. 
 
 Ano, přišel jako obyčejný dopis. A tady je vidět, jak se názory liší. Někdo si na to stěžuje, mi to přišlo super, protože jít na poštu bych nezvládl. Včera jsem tam trčel hodinu a to byl přede mnou 1 (slovy jeden) člověk. Samozřejmě karta není aktivní, takže kdyby ji někdo šlohl, bez aktivace přes internetové bankovnictví se neobejde (musí znát login, heslo a mít můj mobil pro SMS autorizaci), což považuji za dostatečné riziko pro kus plastu versus návštěvu pošty. 

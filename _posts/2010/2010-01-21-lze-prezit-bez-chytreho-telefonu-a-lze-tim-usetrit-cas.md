@@ -1,15 +1,26 @@
 ---
 ID: 2338
-title: 'Lze přežít bez chytrého telefonu? A&nbsp;lze tím ušetřit čas?'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Digitální detox
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lze-prezit-bez-chytreho-telefonu-a-lze-tim-usetrit-cas
-published: true
+oldlink: 'https://www.marigold.cz/item/lze-prezit-bez-chytreho-telefonu-a-lze-tim-usetrit-cas
+
+  '
 post_date: 2010-01-21 23:50:38
-categories: [Digitální detox]
+post_excerpt: ''
+published: true
+summary_points:
+- Chytrý telefon způsobuje autorovi ztrátu času synchronizací, čtením zbytečností
+  a přehlížením důležitých emailů.
+- Autor se zbavuje iPhonu a kupuje starší véčko Motorola RAZR2, protože nechce smartphone.
+- Moderní "hloupé" telefony postrádají snadné vyhledávání kontaktů, kvalitní displeje
+  a odolné materiály.
+- Autor deaktivuje mobilní data a vrací se k papírovému kalendáři, aby omezil závislost
+  na technologiích.
+title: Lze přežít bez chytrého telefonu? A&nbsp;lze tím ušetřit čas?
 ---
+
 Už nějakou dobu mám dojem, že kdybych neměl chytrý telefon, ušetřil bych tím dost času. Času, který si s někým esemeskuju, emailuju, instantně mesenžřím. Času, kdy se snažím synchronizovat firemní, soukromý a půlpracovní kalendář a přijít na to, proč se mi věci duplikují a vypadávají. Času, kdy si jen tak čtu články, které by mne normálně nezajímaly, protože na mobilu je to při ruce. A kdy přehlídnu poštu, protože jsem ji přečetl na mobilu a v tom fofru, kdy jsem na to měl jen vteřinku někde při vystupování v tramvaji jsem onen důležitý email zapomněl označit k vyřízení a on se nyní někde povaluje pouze "přečtený" a tím automaticky mnou přehlížený. Že ušetřím tu dobu, kdy jsem na dosah Sítě od každého ze svých čtyř tisícovek kontaktů. A to jsem pořád. To je prokletí chytrého telefonu. 
 
 A tak jsem dneska zabalil iPhone do krabice a na Aukru vydražil Motorola RAZR2. To je první problém, jemuž při takovém retro pokusu člověk čelí: co si tedy koupit? Většina dnešních telefonů jsou buďto low-endy nadupané sice funkcemi všeho druhu, ale s naprosto nekvalitním dílenským a materiálovým zpracováním. Menšina jsou smartphone a do těch jít nechci, to bych se nezbavoval iPhone. Mezi tím je toho pramálo. Těžko seženete málo imbecilně vyhlížející a kvalitně zpracovaný mobil, když nevolíte Vertu. A to já jsem chtěl véčko, protože mám véčka rád. Tam už se vysloveně muselo sáhnout do výprodeje, protože jediné slušné dělala před třemi lety Motorola. Dnes Motorola dělá kulový, její prodej mobilů prakticky zkrachoval, ale občas se ještě dá nějaké její véčko někde koupit. I šel jsem do něj. 

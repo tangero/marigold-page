@@ -1,17 +1,25 @@
 ---
 ID: 2363
-title: >
-  Časopisecké nálady na
-  předzpoplatněném trhu
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/casopisecke-nalady-na-predzpoplatnenem-trhu
-published: true
+oldlink: 'https://www.marigold.cz/item/casopisecke-nalady-na-predzpoplatnenem-trhu
+
+  '
 post_date: 2010-07-15 10:16:56
-categories: [Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor preferuje papírové časopisy před placeným internetovým obsahem.
+- Týden po odchodu Balšínka ztratil kvalitu a nabízí povrchní témata.
+- Respekt si autor oblíbil pro chytré články s odlišnými pohledy.
+- Víkend zaujal originálním obsahem pro specifické čtenáře.
+title: 'Časopisecké nálady na předzpoplatněném trhu
+
+  '
 ---
+
 Když jsem včera psal na <a href="http://www.lupa.cz/clanky/slovensko-hleda-superstar-zpoplatneni-obsahu/">Lupu článek o placeném obsahu</a>, tak jsem začal počítat, kolik obsahu bych na českém internetu byl ochoten platit. Vyšlo mi překvapivě málo. Když se nad tím tak zamýšlím, tak nula nad to, co už platím (firma solí za MediaSearch). iDnes? Hm, přečtu si pár článků. Aktuálně používám jen z mobilu, protože na webové verzi se nejsem schopen zorientovat. Platit za to? Nevím za co. A nevím, co by pro mne byl ten obsah navíc. Dopravní zpravodajství? Platil bych ho ad-hoc, kdyby za něco stálo. Znáte nějaké dobré? Se skutečnýma objížďkama?
 
 A to mne přivedlo zpět k časopisům. Časopisů si kupuju dost a čtu je rád. Platím za ně dost, takže to není neochota platit. Když pominu zahraniční, tak mne v návratu k českým časopisům přivedl loňský turbulentní rok, kdy jsem si řekl, že je třeba se zklidnit, uvolnit a zrelaxovat. Nečumět furt do compu, protože tam je opravdu těžké odlišit, kdy pracuju a kdy se bavím. A že odlišení těchto dvou stavů to chce. A tak jsem nakoupil časáky a četl. Sedl si na gauč, otevřel Týden a bylo to dobré. Fungovalo to i jako významný předěl pro můj mozek, že teď se nepracuje, teď se inhalují informace a rozvažuje se nad údělem světa a mojí roli v něm. Věřte, bylo to příjemné vrátit se k tomu oldschoolu. Ne jen proletět noviny, ale opravdu si číst téma a v časopisu. 

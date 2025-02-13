@@ -1,18 +1,26 @@
 ---
 ID: 2405
-title: >
-  Drazí programátoři, kdybyste
-  nevěděli, jak pomoct novinářům,
-  tady je pár tipů
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Programování
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drazi-programatori-kdybyste-nevedeli-jak-pomoct-novinarum-tady-je-par-tipu
-published: true
+oldlink: 'https://www.marigold.cz/item/drazi-programatori-kdybyste-nevedeli-jak-pomoct-novinarum-tady-je-par-tipu
+
+  '
 post_date: 2011-12-12 13:45:35
-categories: [Programování, Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Justice.cz data jsou pro novináře obtížně zpracovatelná bez skriptování.
+- Programátoři mohou vytvořit službu pro sledování změn firem v Obchodním rejstříku.
+- Služba by měla novináře upozornit na změny firem zadaných podle IČ.
+- Dále by se mohlo sledovat změny osob ve statutárních orgánech firem.
+title: 'Drazí programátoři, kdybyste nevěděli, jak pomoct novinářům, tady je pár tipů
+
+  '
 ---
+
 Na Twitteru se umí programátoři hezky odvázat, když jde o to, nakydat na novináře hnůj. A tak mě napadlo, že bych mohl programátorům, kteří touží být společensky užiteční, nabídnout pár tipů, jak ulehčit život novinářům, kteří se o to snaží taktéž. Ne, psaním článků to nebude. Ale pomůže udělat rozhraní mezi státními službami a novinářem. 
 
 Asi nejlepší příklad je Justice, bohatý zdroj všech informací, ale poskládaných tak, že jsou zbytečně málo použitelné pro běžného i velmi IT vzdělaného novináře, ovšem nekušeného se scriptováním, perlem, PHP a bash shellem. Vy, programátoři, lidé chytří a užiteční, to spíchnete předpokládám za pár minutek. Co novinář potřebuje dostat z Justice?

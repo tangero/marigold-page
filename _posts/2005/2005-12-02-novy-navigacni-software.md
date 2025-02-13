@@ -1,14 +1,21 @@
 ---
 ID: 1883
-title: Nový navigační software
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/novy-navigacni-software
-published: true
+oldlink: 'https://www.marigold.cz/item/novy-navigacni-software
+
+  '
 post_date: 2005-12-02 12:21:22
+post_excerpt: ''
+published: true
+summary_points:
+- TomTom Navigator 5 přináší 3D pohled a lepší hlasovou navigaci.
+- Radotínská mapa TomTom obsahuje chybu v ulici Ke Zdeří.
+- GPS TomTom navedl na polní cestu, což ukazuje detailnost map.
+- iPAQ se při současných teplotách nepřehřívá.
+title: Nový navigační software
 ---
+
 <p><strong>oook píše</strong>: Před nějakou dobou jsem tu popisoval svoje (termo) trable s navigací pomocí iPAQu a&nbsp;modrozubí GPS.<br /><br />Nedávno
 jsem vyměnil&nbsp;navigační softare (používám TomTom Navigator 5) a
 moje první dojmy jsou nadšené. 3D pohled je prostě přehledný a kecací

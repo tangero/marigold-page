@@ -1,14 +1,21 @@
 ---
 ID: 1988
-title: Pořídil jsem si low-end
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/poridil-jsem-si-low-end
-published: true
+oldlink: 'https://www.marigold.cz/item/poridil-jsem-si-low-end
+
+  '
 post_date: 2006-06-28 11:31:18
+post_excerpt: ''
+published: true
+summary_points:
+- Autor byl nespokojen s Motorolou RAZR kvůli problémům s SMS.
+- Požadoval malý telefon véčkové konstrukce s dobrým psaním SMS.
+- Operátoři Vodafone a T-Mobile nenabídli vyhovující telefony v akcích.
+- Autor nakonec vybral Sony Ericsson Z530i pro jeho SMS funkce.
+title: Pořídil jsem si low-end
 ---
+
 <p>Tento týden přetekl pohár trpělivosti se stavem mého soukromého mobilního telefonu. Po řadě nehod a úmrtí v mém telefonním parku jsem byl několik týdnů odkázán na Motorola V3 RAZR, který mi dlužno říci pěkně pije krev. Zkracování SMS při psaní pomocí iTapu mne pěkně štvalo, takže jsem nakonec SMS psal postaru, jenže Razor mi občas „sežral“ nějakou tu SMS (nedošla) nebo ji neodeslal a tvářil se nenápadně. Možná starý firmware, možná jen odfláknutá práce Motoroly, v každém případě dobrý impuls posunout se dále.</p>
 
 <p>Moje požadavky na soukromý telefon jsou trochu odlišné od telefonu firemního (to je smartphone, abych mohl cokoliv kdykoliv jakkoliv… ). Bod jedna, nechtěl jsem Nokia telefon, ten mám firemní a diverzita musí být Bod dvě: chci véčko nebo cokoliv, co je malé. A za třetí od soukromého mobilu požaduju pár zásadních věcí a to především přítulné psaní SMS zpráv, velkou kapacitu pro SMS zprávy, velkou kapacitu pro telefonní seznam, SyncML pro jeho synchronizaci, vyhledávání v seznamu ihned z menu pomocí více kláves. Za dobrý foťák, paměťovou kartu a MP3 přehrávač jsem ochoten si připlatit, ale velmi málo. </p>

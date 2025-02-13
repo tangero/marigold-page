@@ -1,17 +1,28 @@
 ---
 ID: 2526
-title: >
-  Redakční žurnalistika kurva není
-  mrtvá!
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/redakcni-zurnalistika-kurva-neni-mrtva
-published: true
+oldlink: 'https://www.marigold.cz/item/redakcni-zurnalistika-kurva-neni-mrtva
+
+  '
 post_date: 2012-09-19 17:43:54
-categories: [Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Redakční žurnalistika neupadá kvůli nárokům čtenářů, ale kvůli opomíjení ověřování
+  a kontextu informací.
+- Hodnota novin spočívá ve vytváření informací, nikoliv v pouhém zprostředkování autorů
+  a čtenářů.
+- Úspory v redakcích vedou k rozvratu a ztrátě paměti, což brání poučení se z chyb.
+- Financování zpravodajství je klíčové, dobrovolné platby nefungují, redakční systém
+  je dobrý.
+title: 'Redakční žurnalistika kurva není mrtvá!
+
+  '
 ---
+
 <p>Přečetl jsem si <a href="http://www.lupa.cz/clanky/jak-se-zmeni-media-noviny-kupovat-nebudeme-budoucnost-zurnalistiky-je-ale-ruzova/" target="_self" title="">článek Davida Antoše</a> na téma budoucích metod odměňování autorů zajímavých článků. Jako polemické východisko je to zajímavé, podnětné a dá se debatovat o tom, zda tací autoři budou třít spíš bídu nebo nouzi - například na Marigoldovi jsem aktuálně za měsíc vybral 20 euro na příspěvcích autorů, ač je pravda, že jsem je nijak nevymáhal. Nepraštil jsem dostolu a nezařval: chcete mít jeden článek na blogu za dva-tři dny, celkem deset měsíčně? Tak to musím vybrat 20 kKč měsíčně a na vás vychází 100 Kč.</p>
 
 

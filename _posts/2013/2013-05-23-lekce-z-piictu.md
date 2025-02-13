@@ -1,15 +1,23 @@
 ---
 ID: 2654
-title: 'Lekce z&nbsp;Piictu'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Startupy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lekce-z-piictu
-published: true
+oldlink: 'https://www.marigold.cz/item/lekce-z-piictu
+
+  '
 post_date: 2013-05-23 08:59:39
-categories: [Startupy]
+post_excerpt: ''
+published: true
+summary_points:
+- Piictu končí, data uživatelů lze získat emailem.
+- Piictu spoluzakládal Čech Robin Raszka.
+- Piictu nemělo obchodní model, spoléhalo se na akvizici.
+- Google vytvořil podobnou aplikaci Photovine, kterou později zrušil.
+title: Lekce z&nbsp;Piictu
 ---
+
 <p>Piictu v podstatě končí. A zavírá krám docela nesympatickým způsobem, na svém blogu lakonicky oznamuje, že kdo chcete data, máte si o ně napsat emailem. Respektive nekončí, vcucává se do jakéhosi utajeného projektu Kandu od firmy Betaworks, což je jedna ze společností, které zainvestovali Piictu v první fázi investic.</p>
 
 

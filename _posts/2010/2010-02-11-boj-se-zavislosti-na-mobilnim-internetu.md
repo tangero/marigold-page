@@ -1,17 +1,26 @@
 ---
 ID: 2343
-title: >
-  Boj se závislostí na mobilním
-  internetu
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Digitální detox
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/boj-se-zavislosti-na-mobilnim-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/boj-se-zavislosti-na-mobilnim-internetu
+
+  '
 post_date: 2010-02-11 13:05:35
-categories: [Digitální detox]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor vyřadil iPhone, mobilní internet a synchronizaci kalendáře v boji se závislostí.
+- První dva týdny abstinence od internetu provázely absťáky a nutnost papírových novin.
+- Omezení internetu vedlo k promyšlenějším zadáním od kolegů a kvalitnější komunikaci.
+- Autor získal čas na komplexní přemýšlení a hlubší názory, na rozdíl od povrchních
+  soudů.
+title: 'Boj se závislostí na mobilním internetu
+
+  '
 ---
+
 Příběh mého boje se závislostí na mobilním internetu pokračuje. Zopakujme si základní fakta: vyhodil jsem z výbavy iPhone, zrušil mobilní internet na svém novém telefonu Motorola RAZR2, který dnes už používají jen socky a retromaniaci a přestal jsem být dostupný na emailu a všelijakých socsítích každou minutu svého života. Dokonce se mi ani nesynchronizuje kalendář mezi všemi mými počítači - prostě proto, že ta papírová verze to neumí. 
 
 A jak to probíhá? První dva týdny jsem měl regulerní absťák. Znáte to. Jdu kolem něčeho, zaujme mě to, chci to někomu sdělit, vyndám z kapsy mobil ... a hm, safra, touhle křuskou můžu leda tak poslat SMS. Zandávám mobil. Čekám někde - přečetl bych si výběr RSS zpráv, který mi nikdy k ničemu moc nebyl. Nejde to, nemám mobilní internet. Pak jsem se na to připravil: vyndávám papírové noviny, které jsem si nasynchronizoval do tašky v trafice. A víte co? Má to zajímavou výhodu. Už nemůžu číst jen to, co mne zajímá. Musím zase sledovat všechno, jako kdysi. Jak to? No, v RSS mám jen věci, co mně zajímají. Noviny provedly selekci jinak - a tak můžu sedět v čekárně a nudit se, nebo si číst zprávy, které jsou sice důležité, ale jinak bych je přeskočil, protože na ně už nějaký názor mám. Začal jsem si kupovat Respekt, A2 a Hospodářky, já vím, že řeknete, že všechny upadají a nejsou, co kdysi, ale já jsem je za první republiky nečetl. Čtu je teď a jsem spokojen. Oni píšou o věcech, které by mne zajímaly, kdybych věděl, že mne zajímají. A co víc: píšou o věcech, na které mám svůj názor jen z toho, co jsem pochytával ve vzduchu. Z toho, co někdo tweetnul a co mi kdysi stačilo na to, abych ten názor převzal a byl hrdý na "svůj názor". Ale jak říká  Gabal: to zjednodušování složitých témat je velká hrozba dnešní civilizace.

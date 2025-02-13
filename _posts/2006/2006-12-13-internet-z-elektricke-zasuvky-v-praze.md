@@ -1,14 +1,21 @@
 ---
 ID: 2050
-title: 'Internet z&nbsp;elektrické zásuvky v&nbsp;Praze'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/internet-z-elektricke-zasuvky-v-praze
-published: true
+oldlink: 'https://www.marigold.cz/item/internet-z-elektricke-zasuvky-v-praze
+
+  '
 post_date: 2006-12-13 23:29:47
+post_excerpt: ''
+published: true
+summary_points:
+- ElectraStar nabízí v Praze komerční internet po elektrických rozvodech (Powerline).
+- Pražská energetika (PRE) zpřístupnila síť ElectraStar pro internetové přenosy.
+- Služba je dostupná pro 5000 zákazníků PRE na Vinohradech a Starém Městě.
+- ElectraStar nabízí různé rychlosti a ceny, včetně variant s telefonní linkou.
+title: Internet z&nbsp;elektrické zásuvky v&nbsp;Praze
 ---
+
 <texy>Šušká se o tom hodně dlouho. Vysokorychlostní internet po elektrických rozvodech. Zatím jsme čítali hezká silácká vyjádření našich energorozvodců a krmivé tiskové zprávy zahraničních pilotů. 
 
 Dneska přichází (jestli mne paměť neklame) první komerční nabídka internetu po elektrických rozvodech (Powerline systém) - a to v Praze. Pražská Energetika (PRE) pro internetové přenosy nabídla svou síť společnosti <a href="http://www.electrastar.com/">ElectraStar</a>. 

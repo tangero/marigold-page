@@ -1,15 +1,25 @@
 ---
 ID: 2627
-title: 'Tabu kolem nás a&nbsp;tabu v&nbsp;nás'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Společnost
+- Tabu
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tabu-kolem-nas-a-tabu-v-nas
-published: true
+oldlink: 'https://www.marigold.cz/item/tabu-kolem-nas-a-tabu-v-nas
+
+  '
 post_date: 2013-03-06 21:46:57
-categories: [Společnost, Tabu]
+post_excerpt: ''
+published: true
+summary_points:
+- Yoani Sanches, kubánská blogerka, křtila film Zakázané hlasy na festivalu Jeden
+  svět.
+- Češi mají tabu ohledně národní minulosti, komunistické éry a rolí jednotlivců.
+- Český národ si nepřiznává historické reálie a mýty o starobylosti.
+- Češi jsou málo tolerantní a rozdělení po mnoha liniích odlišnosti.
+title: Tabu kolem nás a&nbsp;tabu v&nbsp;nás
 ---
+
 <p>Byl jsem na věru zajímavé debatě. Kubánská blogerka <a href="http://cs.wikipedia.org/wiki/Yoani_Sánchez">Yoani Sanches</a> ve Francouzském institutu v rámci festivalu <a href="http://www.jedensvet.cz/2013/">Jeden svět</a> vlastně křtila film sama o sobě a o dalších persekuovaných blogerech nazvaný <em>Zakázané hlasy</em>. Film byl hodně silný a emotivní zážitek, to už tyhle dokumenty bývají. A už, když jsem se zdvihal ze sedadla a přemisťoval se do diskusního panelu, přemýšlel jsem, co na to říct. Žádná moje zkušenost nebyla ani vzdáleně poměřitelná s tím, co Yoani zažila. <br /><br /></p>
 
 

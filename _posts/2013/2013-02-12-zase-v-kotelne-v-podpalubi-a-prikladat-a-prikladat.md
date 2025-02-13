@@ -1,15 +1,25 @@
 ---
 ID: 2615
-title: 'Zase v&nbsp;kotelně v&nbsp;podpalubí &#8211; a&nbsp;přikládat a&nbsp;přikládat'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Energomonitor
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zase-v-kotelne-v-podpalubi-a-prikladat-a-prikladat
-published: true
+oldlink: 'https://www.marigold.cz/item/zase-v-kotelne-v-podpalubi-a-prikladat-a-prikladat
+
+  '
 post_date: 2013-02-12 21:23:01
-categories: [Energomonitor]
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor kombinuje fyzickou výrobu, vývoj aplikací a prodej, což je specifické.
+- Prodej Energomonitoru vyžaduje edukaci trhu, podobně jako internetová reklama v
+  roce 1996.
+- Propojení systémů usnadňují Zapier a API, ale české služby mají často omezené možnosti.
+- DopisyOnline od České pošty automatizuje tisk, obálkování a rozesílání dopisů přes
+  API.
+title: Zase v&nbsp;kotelně v&nbsp;podpalubí &#8211; a&nbsp;přikládat a&nbsp;přikládat
 ---
+
 <p>Pustit se do budování firmy a produktu od počátku a mít to všechno na triku, je zajímavý zážitek. Znovu se mi vrací v energomonitoru. Sháníme prostory, lidi, řešíme události jako nevyclitelná zásilka i dramata typu "folii na výlohu nelze lepit, když mrzne", to všechno najednou, za plného provozu.</p>
 
 

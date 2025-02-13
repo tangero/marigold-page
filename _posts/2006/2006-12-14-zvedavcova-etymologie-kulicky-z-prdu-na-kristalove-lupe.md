@@ -1,14 +1,21 @@
 ---
 ID: 2051
-title: 'Zvědavcova etymologie kuličky z&nbsp;prdu na Křišťálové Lupě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zvedavcova-etymologie-kulicky-z-prdu-na-kristalove-lupe
-published: true
+oldlink: 'https://www.marigold.cz/item/zvedavcova-etymologie-kulicky-z-prdu-na-kristalove-lupe
+
+  '
 post_date: 2006-12-14 07:47:35
+post_excerpt: ''
+published: true
+summary_points:
+- Autor reaguje na článek Zvědavce kritizující Křišťálovou Lupu.
+- Autor byl porotcem Křišťálové Lupy a vyvrací konspirační teorie.
+- Uvádí své hlasování v kategoriích Projekt roku a Anticena.
+- Vysvětluje své umístění v anketě Osobnost roku a obhajuje porotu.
+title: Zvědavcova etymologie kuličky z&nbsp;prdu na Křišťálové Lupě
 ---
+
 <texy>Chtěl jsem něco málo kdysivá napsat ke <a href="http://kristalova.lupa.cz/vysledky/">Křišťálové Lupě</a>, ocenění internetovým projektům. Jsa v komisi, chtěl jsem říci, komu a jak jsem hlasoval. Přepracování způsobilo, že příležitost vyšla jiná, než jsem snad původně čekal. 
 
 Začal bych tím, že mám rád konspirační teorie a občas si rád pročítám servery jim věnované. Vždycky dumám tím, nakolik je svět Matrixem a já jeho obětí a nakolik je autor takového článku zralý na psychiatrickou léčbu. Většinou usoudím, že pravda bude tradičně někde mezi - ale ne vždy mám čas na nějaký korektiv toho, co je <em>mezi</em>. 

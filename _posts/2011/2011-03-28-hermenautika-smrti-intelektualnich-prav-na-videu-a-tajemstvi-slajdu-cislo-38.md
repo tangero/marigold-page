@@ -1,15 +1,26 @@
 ---
 ID: 2378
-title: 'Hermeneutika smrti intelektuálních práv na videu a&nbsp;tajemství slajdu číslo 38'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Autorská práva
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hermenautika-smrti-intelektualnich-prav-na-videu-a-tajemstvi-slajdu-cislo-38
-published: true
+oldlink: 'https://www.marigold.cz/item/hermenautika-smrti-intelektualnich-prav-na-videu-a-tajemstvi-slajdu-cislo-38
+
+  '
 post_date: 2011-03-28 14:50:16
-categories: [Autorská práva]
+post_excerpt: ''
+published: true
+summary_points:
+- Přednáška na MU v Brně, "Hermeneutika smrti intelektuálních práv", byla součástí
+  akce Blog expertů.
+- Přednáška se zabývala problematikou intelektuálního vlastnictví v kontextu digitální
+  distribuce.
+- Autor sklidil úspěch s příběhem o reuploadu vlastní knihy na fóru.
+- Moderní autorské dílo spočívá v rozpoznání a šíření smysluplného obsahu z nadprodukce.
+title: Hermeneutika smrti intelektuálních práv na videu a&nbsp;tajemství slajdu číslo
+  38
 ---
+
 Pozvali mne nedávno přednášet na Filosofickou fakultu Masarykovy univerzity v Brně a protože tohle místo mám rád a navíc jsem si mohl vybrat téma, souhlasil jsem. Nakonec se ukázalo, že je to fajn akce, jmenuje se to <a href="http://kisk.phil.muni.cz/blok-expertu">Blog expertů</a>, pořádá to Kabinet informačních studií a je to zvládnuté na úrovni profi akce včetně přímého videopřenosu i textového přenosu. Všechna čest, hezké, vážně hezké a zbytkem Brna asi nedoceněné. 
 
 Příjemné bylo, že jsem si po dlouhé době mohl vybrat téma, jaké jsem chtěl (většinou mi ve firmě naordinují něco, co zbylo a pak mě to moc nebaví) a měl jsem na něj dost času - hodina a půl je luxus, jakého se málokdy dostane. A tak jsem si mohl vzít rovnou něco náročnějšího. Původně jsem přednášku nazval "Problematika intelektuálního vlastnictví a autorských práv v době digitální distribuce", pak jsem ji přejmenoval na Hermeneutika smrti intelektuálních práv. Proč? Za prvé to bylo kratší, za druhé jsme nechtěl, aby se přednáška zaměnila s běžným výčtem právních úprav a předpisů kolem intelektuálních práv. 

@@ -1,15 +1,24 @@
 ---
 ID: 2485
-title: 'Zlatá éra weblogů 2:  Flashmob v&nbsp;Carrefour'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Historie internetu
+- Weblogy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zlata-era-weblogu-2-flashmob-v-carrefour
-published: true
+oldlink: 'https://www.marigold.cz/item/zlata-era-weblogu-2-flashmob-v-carrefour
+
+  '
 post_date: 2012-08-14 11:33:26
-categories: [Historie internetu, Weblogy]
+post_excerpt: ''
+published: true
+summary_points:
+- Weblogy byly vnímány jako nový projev občanské společnosti a intelektuálního projevu.
+- Flashmob v Carrefour 2003 zahrnoval focení v obchodě, což vedlo ke konfliktu s ochrankou.
+- Incident v Carrefour vyvolal odezvu v blogosféře i mainstreamových médiích.
+- Flashmob v Carrefour neměl trvalý dopad na blogerskou komunitu ani média.
+title: 'Zlatá éra weblogů 2:  Flashmob v&nbsp;Carrefour'
 ---
+
 <p> Chvilkové okouzlení <em>"subkulturou weblogů"</em> vedlo až k tomu, že někteří alternativní optimisté je začali považovat za nový projev občanské společnosti či novou formu kultury a intelektuálního projevu, který prosakuje i mimo internet. Nejnižší demonstrací takových tužeb byly weblogerské formy řetězovek, kdy bylo třeba zodpovědět pár otázek či přepsat dvacátou větu dvacáté stránky rozečtené knihy a poslat štafetu dále, tedy vyzvat další blogery, aby udělali totéž. </p>
 
 

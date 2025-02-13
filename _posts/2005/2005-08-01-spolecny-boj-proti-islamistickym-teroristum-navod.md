@@ -1,14 +1,18 @@
 ---
 ID: 1749
-title: 'Společný boj proti islamistickým teroristům &#8211; návod'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/spolecny-boj-proti-islamistickym-teroristum-navod
-published: true
+oldlink: 'https://www.marigold.cz/item/spolecny-boj-proti-islamistickym-teroristum-navod
+
+  '
 post_date: 2005-08-01 10:23:55
+post_excerpt: ''
+published: true
+summary_points:
+- Sp
+title: Společný boj proti islamistickým teroristům &#8211; návod
 ---
+
 <p><b>oook píše:</b><br />
 Během víkendu mi přišel poněkud neortodoxní způsob, jak bojovat proti
 tzv. spáčům (agentům, kteří čekají na vybuzení k akci) ... Malý český

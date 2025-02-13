@@ -1,14 +1,21 @@
 ---
 ID: 1518
-title: 'Co si mám myslet o&nbsp;teležalobách a&nbsp;teležalujících?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/co-si-mam-myslet-o-telezalobach-a-telezalujicich
-published: true
+oldlink: 'https://www.marigold.cz/item/co-si-mam-myslet-o-telezalobach-a-telezalujicich
+
+  '
 post_date: 2005-02-09 08:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Tele2 žaluje Český Telecom kvůli tarifům Home Standard a Home Mini.
+- eTel podporuje žalobu Tele2 a má s Telecomem dřívější spory.
+- Home Mini neumožňoval volbu operátora, což je jádro sporu.
+- Autor kritizuje Tele2 za nedostatečné investice do vlastní infrastruktury.
+title: Co si mám myslet o&nbsp;teležalobách a&nbsp;teležalujících?
 ---
+
 <p>Tele2 zažalovalo Český Telecom a ten to považuje za komunikační
 gesto. Bude to gesto za dvě miliardy, které by Tele2 rádo, nebo jen
 vyhodí peníze za právníky a udělají si trochu toho píárká? Aby žalob

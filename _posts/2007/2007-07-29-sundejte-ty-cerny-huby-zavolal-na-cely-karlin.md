@@ -1,16 +1,23 @@
 ---
 ID: 2130
-title: >
-  Sundejte ty černý huby, zavolal na
-  celý Karlín
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sundejte-ty-cerny-huby-zavolal-na-cely-karlin
-published: true
+oldlink: 'https://www.marigold.cz/item/sundejte-ty-cerny-huby-zavolal-na-cely-karlin
+
+  '
 post_date: 2007-07-29 21:19:39
+post_excerpt: ''
+published: true
+summary_points:
+- Administrátor sítě byl omylem označen za rasistu kvůli křiku slova "huby".
+- Čeští politici se uchylují k rasistickým výrokům, které obhajují různými způsoby.
+- IAT test odhaluje skryté rasové předsudky v podvědomí měřením reakční doby.
+- Autor článku se podrobil IAT testu a zjistil, že má lehké rasové předsudky.
+title: 'Sundejte ty černý huby, zavolal na celý Karlín
+
+  '
 ---
+
 Abych byl přesný, zavolal to z pátého patra domu na nejrušnější Karlínské ulici náš administrátor sítě. Už je to řada let. Musel řvát, protože jsme stáli dole u náklaďáku a vykládali. Smůlu měl v tom, že vůkol procházela hlídka policistů, kteří se rozhodli zakročit proti tomu odpornému rasistovi, který provokuje celý Karlín, jenž v Praze už tehdy neslul zrovna rasovou vyvážeností. 
 
 Málem z toho tehdy chudák administrátor dostal flastr a od té doby používá striktně českou nomenklaturu a tak místo <em>huby</em> říká <em>rozbočovače</em>. Auto jimi bylo naložené až po strop a museli jsme rychle vykládat, protože jsme jich měli dost a před těmi téměř patnácti lety to bylo hodně drahé zboží. Horká novinka pro desetimegové sítě. Nakoupili jsme černé, ty šly do racku a pak bílé, ty šly do kanceláří, kde se nedostalo zásuvek nebo jsme byli líní je přidělávat. 

@@ -1,14 +1,21 @@
 ---
 ID: 2047
-title: Google spustil AdSense pro Česko
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/google-spustil-adsense-pro-cesko
-published: true
+oldlink: 'https://www.marigold.cz/item/google-spustil-adsense-pro-cesko
+
+  '
 post_date: 2006-12-07 15:51:23
+post_excerpt: ''
+published: true
+summary_points:
+- AdSense umožňuje českým webům vydělávat peníze pomocí reklamy.
+- AdSense funguje na principu platby za kliknutí a platby za zobrazení.
+- Registrace do AdSense probíhá online formulářem na webu Google.
+- Inzeráty se na webu zobrazí do 72 hodin po vložení kódu.
+title: Google spustil AdSense pro Česko
 ---
+
 <texy>Tak jsme se dočkali. Webové stránky psané v češtině mohou prodávat inzerci přes Google AdSense, což je velmi jednoduchý způsob, jak si vydělat nějakou tu korunku. Takže vyzkouším a uvidím :)
 
 Google o tom říká: Program AdSense je zdarma a je postaven na kombinaci „platby za kliknutí“ (pay per click) a „platby za zobrazení“ (pay-per-impression). Poskytovatel obsahu získává peníze při každém kliknutí uživatele na inzerát na jeho stránce. Samotní inzerenti se navíc mohou snažit získat místo na stránkách prostřednictvím online aukce. AdSense pro obsah neomezuje inzertní formáty na prostý text, ale umožňuje i využití obrázků a to v takové úpravě, která koresponduje s povahou a designem stránek i požadavky vydavatelů. 

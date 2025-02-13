@@ -1,14 +1,21 @@
 ---
 ID: 1954
-title: 'Starý a&nbsp;Nový svět'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/stary-a-novy-svet
-published: true
+oldlink: 'https://www.marigold.cz/item/stary-a-novy-svet
+
+  '
 post_date: 2006-03-28 11:37:05
+post_excerpt: ''
+published: true
+summary_points:
+- Telekomunikace se dělí na "Starý" a "Nový" svět s odlišnými obchodními pravidly.
+- Starý svět preferuje úplatky a známosti, Nový svět americký obchodní přístup.
+- Invex je vnímán jako výkladní skříň Starého světa, proto upadá s ním.
+- Nový svět je otevřený novým myšlenkám, Starý svět je uzavřený.
+title: Starý a&nbsp;Nový svět
 ---
+
 <p>Nedávno jsem na to narazil s jedním naším zákazníkem. Na Starý a Nový svět v telekomunikacích. Možná i někde, ale o tom psát nebudu. </p>
 
 <p>Dlouho jsem si myslel, že je to jen moje osobní teorie, spíše málo relevantní postřeh. Jenže tenhle člověk (zahraniční investor) si všiml téhož. Mluvili jsme o jedné firmě a já jsem řekl, že s jejím nákupem mu nepomůžu. Zeptal se, proč. Dobrá otázka - za tu provizi by mu člověk měl prodat cokoliv. Pravil jsem, že je to starý svět a do toho nechodíme. Pochopil ihned. A mimo jiné ztratil zájem.  Řekl, že Starý svět nechce. </p>

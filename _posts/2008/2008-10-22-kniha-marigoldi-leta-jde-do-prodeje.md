@@ -1,15 +1,23 @@
 ---
 ID: 2298
-title: Kniha Marigoldí léta jde do prodeje
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Knihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kniha-marigoldi-leta-jde-do-prodeje
-published: true
+oldlink: 'https://www.marigold.cz/item/kniha-marigoldi-leta-jde-do-prodeje
+
+  '
 post_date: 2008-10-22 08:49:30
-categories: [Knihy]
+post_excerpt: ''
+published: true
+summary_points:
+- Kniha Marigoldí léta je dostupná na Kronium.cz za 350 Kč včetně poštovného a DPH.
+- Objednávky knihy budou expedovány od 4.11.2008, ideálně bez dobírky kvůli administrativě.
+- Osobní odběr knihy není možný a objednávky nelze kombinovat s jiným zbožím z Kronium.cz.
+- Knihy je vytištěno 45 kusů, při vyprodání a 20+ objednávkách bude dotisk.
+title: Kniha Marigoldí léta jde do prodeje
 ---
+
 Tak se mi podařilo z cest zapravit vytištěnou knihu Marigoldí léta do shopu. Nakonec jsem pro jistotu použil engine pro Kronium.cz, což má pro mne výhodu (je to hned hotové) i nevýhody: jsou tu nabídky, které pro expedici této knihy nebudu schopen dodržet (jako platba dobírkou, nesnáším to papírování s tím). Doufám, že to omluvíte. 
 
 Tisk knihy dopadl nad očekávání dobře. I barevná obálka je fajnová, ačkoliv je na ní maličko vidět, že jde o digitální tisk, ponaučení pro příště: nepřehánět to se stínováním písma, na digitálním tisku to nikdy tak nevyjde. 

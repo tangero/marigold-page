@@ -1,14 +1,21 @@
 ---
 ID: 2121
-title: Na co je pan Koubský expert?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/na-co-je-pan-koubsky-expert
-published: true
+oldlink: 'https://www.marigold.cz/item/na-co-je-pan-koubsky-expert
+
+  '
 post_date: 2007-06-18 14:25:29
+post_excerpt: ''
+published: true
+summary_points:
+- Autor preferuje tištěné noviny před online obsahem pro retro atmosféru.
+- Online diskuze k rozhovoru s Koubským vyvolala u autora nevoli anonymními komentáři.
+- Neznalost Petra Koubského v diskuzi autor považuje za projev domnělé nadřazenosti.
+- Koubského názory autor cení pro jejich srozumitelnost a schopnost shrnout postoje.
+title: Na co je pan Koubský expert?
 ---
+
 Rozhovor s Petrem Koubským jsem četl v tištěné verzi iDnesu v sobotu. Mějte mne za nostalgika, já vím, že mám tablet s internetem po bytě na dosah a když vyrazím s dcerou do lesa, mám s sebou N95 pro každý případ. Jenže já si stejně v sobotu ráno rád sednu na židli, usrkávám presso silné tak, že by se dalo krájet jako rákosníček a čtu si papírové noviny. Přijde mi to takové... retro... 
 
 Dneska mne Adam upozornil, že si mám přečíst <a href="http://zpravy.idnes.cz/expert-koubsky-internetova-revoluce-nas-zaskocila-fxr-/vedatech.asp?c=A070617_083511_vedatech_jan">online verzi rozhovoru na iDnesu</a>. Neměl jsem to dělat, zbytečně se mi zdvihl žaludek nad tím, co lidé dokáží napsat do diskuse, když jsou anonymní. Redakce zřejmě zapracovala a ledasco odstranila, jenže co si myslet na otázky charakteru "kdo je to koubský? A co je to za experta?"

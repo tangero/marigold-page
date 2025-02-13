@@ -1,14 +1,21 @@
 ---
 ID: 2731
-title: 'Cesta k&nbsp;sítím 5G (aneb skoro vše, co nepotřebujete vědět)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesta-k-sitim-5g-aneb-skoro-vse-co-nepotrebujete-vedet
-published: true
+oldlink: 'https://www.marigold.cz/item/cesta-k-sitim-5g-aneb-skoro-vse-co-nepotrebujete-vedet
+
+  '
 post_date: 2013-12-09 09:54:37
+post_excerpt: ''
+published: true
+summary_points:
+- G sítě přichází jako řešení rostoucí spotřeby mobilních dat.
+- Tisícinásobné kapacity sítí 5G dosáhneme zvýšením počtu stanic, spektra a efektivity.
+- Projekt METIS v EU mapuje trh a připravuje standardizaci 5G sítí do roku 2020.
+- DIDO architektura má zajistit plnou rychlost pro uživatele minimalizací interferencí.
+title: Cesta k&nbsp;sítím 5G (aneb skoro vše, co nepotřebujete vědět)
 ---
+
 <p>Už i v Praze máme tu a tam LTE síť a těch několik set metrů čtverečních pokrytí přináší lákavou myšlenku, co bude pak. Nemyslím pak, až vyjdete za pár minut z pokrytí nebo za dalších pár minut, kdy vám přijde SMS, že jste vyčerpali FUP. Ale PAK - co přijde po 4G a sítích LTE. No ano, správně. Další vývoj. Prozatím bez velké invence označovaný jako 5G.</p>
 
 

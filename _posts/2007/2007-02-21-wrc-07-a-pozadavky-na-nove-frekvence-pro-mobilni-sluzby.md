@@ -1,14 +1,23 @@
 ---
 ID: 2081
-title: 'WRC 07 a&nbsp;požadavky na nové frekvence pro mobilní služby'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wrc-07-a-pozadavky-na-nove-frekvence-pro-mobilni-sluzby
-published: true
+oldlink: 'https://www.marigold.cz/item/wrc-07-a-pozadavky-na-nove-frekvence-pro-mobilni-sluzby
+
+  '
 post_date: 2007-02-21 23:07:37
+post_excerpt: ''
+published: true
+summary_points:
+- WRC 07 plánuje radiové frekvence, harmonizace frekvencí vyžaduje přihlášení na tomto
+  zasedání.
+- UMTS Fórum varuje, že sítě třetí generace potřebují velký frekvenční příděl.
+- Do roku 2020 je potřeba uvolnit 1 GHz frekvenčního spektra pro sítě.
+- Uvolnění frekvencí se očekává digitalizací a zánikem analogových sítí v pásmu 470-862
+  MHz.
+title: WRC 07 a&nbsp;požadavky na nové frekvence pro mobilní služby
 ---
+
 Do zasedání světové radiokomunikační konference zbývá ještě tři čtvrti roku, ale 3GSM kongres v Barceloně byl příhodný moment, kdy se začly na světlo vytahovat požadavky, jimiž by se WRC 07 mělo zabývat. Důvod je na snadě. Letošní zasedání se má věnovat plánování radiových frekvencí a pokud nějaká služba má mít šanci na "harmonizovanou frekvenci" - tedy na více či méně globálně platnou frekvenční výměru, měla by se o svůj příděl hlásit právě na letošním WRC. Další šance přijde až na zasedání v roce 2011.
 
 UMTS Fórum už připravilo varování, že na systémy sítí třetí generace by se mělo pamatovat s velkým přídělem. Ona ta mluva o třetí generaci je velmi prostořeká, protože číslovkami před G hází kdekdo ze strany na stranu, jak se zlíbí. V zásadě ale pamatujme, že zasedání WRC probíhá pod taktovkou ITU, takže se bavíme o IMT-2000 a o tom, co se zatím nazývá <strong>IMT-Advanced</strong>. Což může být cokoliv.

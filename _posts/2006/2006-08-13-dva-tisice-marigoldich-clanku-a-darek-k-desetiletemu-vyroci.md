@@ -1,14 +1,21 @@
 ---
 ID: 2000
-title: 'Dva tisíce marigoldích článků a&nbsp;dárek k&nbsp;desetiletému výročí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dva-tisice-marigoldich-clanku-a-darek-k-desetiletemu-vyroci
-published: true
+oldlink: 'https://www.marigold.cz/item/dva-tisice-marigoldich-clanku-a-darek-k-desetiletemu-vyroci
+
+  '
 post_date: 2006-08-13 15:10:09
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold dosáhl dvoutisícího článku, po třech letech existence a proměn.
+- Autor se blíží k desetiletému výročí působení na internetu od roku 1996.
+- Český internet zaostává za světem, postrádá dynamiku a inovace.
+- Autor plánuje projekt k desátému výročí, testující limity českého internetu.
+title: Dva tisíce marigoldích článků a&nbsp;dárek k&nbsp;desetiletému výročí
 ---
+
 <p>Když jsem tak kontroloval marigoldí databázi, všiml jsem si, že poslední článek má pořadové číslo 1999 - a tedy že další článek bude dvoutisící. Ne snad, že by to bylo nějak přehnaně významné výročí, ale je to dobrá příležitost, čím vyplnit ten dvoutisící marigoldí článek - totiž tento. </p>
 
 <p>Marigold prošel v průběhu tří let své existence pár proměnami, sloužíc mi spíše jako pokusné zvíře a pár lidem snad také jako možnost dostat se k alternativním názorům. Ačkoliv v podtitulku má WiFi, v poslední době nemám k WiFi vlastně ani co říci. Tahle oblast se stala rutinní mainstreamovou oblastí, která mne zajímá už jen okrajově, už jen v některých svých šlahounech, které vyhání do světa. Nemám ani kapacitu ani chuť na to, abych tu vedl dále přehledy hotspotů, testoval access pointy a dělal podobné věci, kterým se mají věnovat média, jež právě proto zoveme mainstreamová. </p>

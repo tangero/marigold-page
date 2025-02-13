@@ -1,14 +1,21 @@
 ---
 ID: 2966
-title: 'Vánoční přání: ať se pravda a&nbsp;láska navrátí do této krajiny'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vanocni-prani-at-se-pravda-a-laska-navrati-do-teto-krajiny
-published: true
+oldlink: 'https://www.marigold.cz/item/vanocni-prani-at-se-pravda-a-laska-navrati-do-teto-krajiny
+
+  '
 post_date: 2014-12-21 20:35:19
+post_excerpt: ''
+published: true
+summary_points:
+- Pravda a láska se staly v Česku nadávkou během čtvrtstoletí po revoluci.
+- Autor překvapen, že inteligentní lidé používají "pravdoláskař" jako urážku.
+- Václav Havel uhranul idealismem, morálkou a důrazem na člověka.
+- Morálka vymizela z české politiky, pravda a láska se musí vrátit.
+title: 'Vánoční přání: ať se pravda a&nbsp;láska navrátí do této krajiny'
 ---
+
 Čtvrt století od revoluce stačilo k tomu, aby se z pravdy a lásky stala nadávka. Je to zajímavá změna. 
 
 Když jsem studoval historii, vždycky mě překvapovalo, jak to, že lidé v nějaké turbulentní době žijící ty změny neviděli. Proč se proboha Židi nevystěhovali z Německa, když se stal Hitler kancléřem? Proč to nebo ono?

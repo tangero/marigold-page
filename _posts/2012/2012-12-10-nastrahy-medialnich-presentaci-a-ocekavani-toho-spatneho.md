@@ -1,15 +1,24 @@
 ---
 ID: 2581
-title: 'Nástrahy mediálních presentací a&nbsp;očekávání toho špatného'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nastrahy-medialnich-presentaci-a-ocekavani-toho-spatneho
-published: true
+oldlink: 'https://www.marigold.cz/item/nastrahy-medialnich-presentaci-a-ocekavani-toho-spatneho
+
+  '
 post_date: 2012-12-10 14:16:59
-categories: [Příběhy, Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Rozhovor o technických trendech a osobních dojmech vyvolal bouřlivou diskusi.
+- Autor vzpomínal na dědu, člena KSČ, což vyvolalo kritiku.
+- Autor srovnával vnímání procesů Horákové a Ratha médii.
+- Lidé napadají cizí práci, místo aby se soustředili na vlastní.
+title: Nástrahy mediálních presentací a&nbsp;očekávání toho špatného
 ---
+
 <p> </p>
 
 <p>Oslovili mne lidé (Marek Odstrčilík) z Xmana (to je magazín iDnesu), že by se mnou chtěl udělat rozhovor. Něco na pomezí technických trendů a osobních dojmů a příběhů, což se do takového magazínu hodí. A chtěli jsme být positivní. <a href="http://xman.idnes.cz/patrick-zandl-0d2-/xman-rozhovory.aspx?c=A121205_154243_xman-styl_fro">I vznikl takový rozhovor</a> a vyšel na Xmanu. A to je ta zajímavá zkušenost.</p>

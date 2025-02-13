@@ -1,16 +1,23 @@
 ---
 ID: 2016
-title: >
-  Půl tuny serverů, můžu to tak
-  nechat?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pul-tuny-serveru-muzu-to-tak-nechat
-published: true
+oldlink: 'https://www.marigold.cz/item/pul-tuny-serveru-muzu-to-tak-nechat
+
+  '
 post_date: 2006-10-04 21:19:11
+post_excerpt: ''
+published: true
+summary_points:
+- Firma obdržela velké množství serverů, což způsobilo logistické komplikace s doručením.
+- Servery IBM byly převezeny do TTC Malešice, kde je Vreco a Franci vyfotili.
+- Servery jsou instalovány a připravovány pro gama testy projektu Imago.
+- Na Broadband Monday proběhne pre-launch projektu Imago pro odbornou veřejnost.
+title: 'Půl tuny serverů, můžu to tak nechat?
+
+  '
 ---
+
 <p>Tento týden to vypadá na boží dopuštění. Ve firmě máme objednanou hromadu serverů. Jen jsme si nějak neuměli představit, co ta hromada serverů je objemově.</p>
 
 <p>Včera jsme parkovali před kanceláří a co nevidíme. Nákladák nám stojí před kanceláří. Jen tak pro představu, kancelář máme v úzkých uličkách za Národním divadlem v Opatovické, už jen tam zajet s náklaďákem je kumšt. </p>

@@ -1,17 +1,25 @@
 ---
 ID: 2256
-title: >
-  Jak nakupují fajnšmekři (jako já
-  třeba)
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Příběhy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-nakupuji-fajnsmekri-jako-ja-treba
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-nakupuji-fajnsmekri-jako-ja-treba
+
+  '
 post_date: 2008-07-03 11:20:51
-categories: [Příběhy]
+post_excerpt: ''
+published: true
+summary_points:
+- IKEA nákupy autor nerad, preferuje kavárnu, vyhýbá se vybírání košíčků.
+- Dotazník značek oblečení autora zaskočil, preferuje maskáče, značky neřeší.
+- Džíny autor kupuje až po zničení starých, v obchodě s "Wilém Debil".
+- Džíny značky "Wilém Debil" autorovi doporučila zkušená prodavačka.
+title: 'Jak nakupují fajnšmekři (jako já třeba)
+
+  '
 ---
+
 O víkendu se Dita rozhodla, že bychom mohli vyrazit na nákup do IKEA. Orosil jsem se. Ne snad, že by mi vadilo zboží z ikei, je to zboží pro mladé, což v newsspeaku těchto firem znamená, že to moc nevydrží a rozpadne se to tak rychle, jako se mění móda a vkus (true story), takže nám to doma místo dlouho zabírat nebude. Jenže ten nákup, to je něco, co nemám rád (eufemismus). Dita mne sice utěšovala, že všichni vypadli z Prahy a IKEA bude prázdná, ale to mne neuklidnilo. Asi to na mne bylo vidět, protože ještě na jižní spojce Dita navrhla, že by vlastně bylo lepší, kdybych si šel vedle sednout do kavárny a ona v klidu nakoupí. Pochopil jsem, že v klidu pro oba, protože jestli jsem na něco velmi špatný partner, tak na vybírání košíčků ze sedmi velikostí a sedmi barev. Co se dalo dělat, souhlasil jsem a vyrazil jsem do Centra Černý most, což je hned vedle, abych si dal kávu na uklidnění a dostal tlak i tep do normálu (jo, v tomhle případě na to kafe funguje).
 <!--more-->
 

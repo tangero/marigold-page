@@ -1,14 +1,21 @@
 ---
 ID: 1955
-title: Elegie evropské technoesoteriky
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/elegie-evropske-technoesoteriky
-published: true
+oldlink: 'https://www.marigold.cz/item/elegie-evropske-technoesoteriky
+
+  '
 post_date: 2006-04-01 22:34:06
+post_excerpt: ''
+published: true
+summary_points:
+- Dědeček doporučil učit se dějiny z učebnic sousedů pro ponaučení.
+- Konstantinův edikt zavedl demagogickou víru v jedinou pravdu a nesnášenlivost.
+- Technická prohlášení o "lepším" vyžadují opatrnost a zohlednění komplexnosti.
+- Esoterika a moderní fyzika (superstruny) se protínají v chápání světa.
+title: Elegie evropské technoesoteriky
 ---
+
 <p>Zavítal k nám minulý víkend Ditin dědeček. Pro mne jsou to vzácné chvíle (žije v cizině), protože ačkoliv dědeček tvrdí, že tomuhle světu už vůbec nerozumí, není to tak docela pravda - jsou věci, kterým rozumí zatraceně dobře a proklatě jasně mu to myslí, ne nadarmo byl ministrem kultury. Možná si ode mne nechá vysvětlit, co je to Google, ale kdybych tomu kolem sebe nerozuměl tak, jako on, výskal bych si. 
 I tentokrát jsem se nechal postrčit. Mluvili jsme o výstavě Karel IV. a připomenul mi jinou výstavu, o které jsem do téhle doby nepřemýšlel. Je v Budapešti a na téma Zikmund. Ano, Karlův synáček, liška ryšavá, národem proklínaná za zpopelnění Jana Husa. Výstava jej představuje jako nositele uherské státnosti, kultury a rozmachu. Po pravdě řečeno, zcela právem. A Ditin dědeček na to poznamenal větu, kterou stojí za to si zapamatovat: <i>„Dějiny bychom se měli učit z učebnic našich sousedů.“ </i></p>
 

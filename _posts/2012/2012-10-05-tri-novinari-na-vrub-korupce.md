@@ -1,15 +1,23 @@
 ---
 ID: 2542
-title: Tři novináři na vrub korupce
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Média
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tri-novinari-na-vrub-korupce
-published: true
+oldlink: 'https://www.marigold.cz/item/tri-novinari-na-vrub-korupce
+
+  '
 post_date: 2012-10-05 10:29:01
-categories: [Média]
+post_excerpt: ''
+published: true
+summary_points:
+- Turek článek "Úplatek od Nikonu" kritizuje novináře za přijetí darů.
+- Přijetí darů, i malých, je začátek korupce a morálních ústupků.
+- Redakce by měly mít jasná pravidla pro přijímání darů a vymáhat je.
+- Autor přiznává vlastní chybu, kdy za cestu zdarma propagoval firmu.
+title: Tři novináři na vrub korupce
 ---
+
 Ještě, než jsem v srpnu jel na dovolenou, vydal Jakub Turek na serveru Horydoly článek <a href="http://www.horydoly.cz/business/tri-novinari-vzali-dnes-uplatek-od-nikonu.html">Tři novináři vzali dnes úplatek od Nikonu</a>. A v diskusi dostával, co proto. Už tehdy jsem si říkal, že v tomhle střetu by neměl zůstat osamocen a protože to rezonuje s tím, co jsem v poslední době psal na Marigolda, tak se k tématu vracím. Je to dobře ilustrativní nejenom o médiích, ale především o nás samých. 
 
 Článek popisuje vcelku banální historku. Na tiskové konferenci firma vylosuje tři novináře, kterým dá fotoaparáty (spíše levnější, žádný hi-end, ale ani žádný šunt). Odmítá jediný z nich, místo něj je vylosován náhradník. Ten jeden o tom napíše článek s nadpisem “úplatek od Nikonu” - ano, je to Jakub Turek. A v diskusích pod článkem se strhne mazec, protože Jakub Turek to nenapíše jen tak obecně “někdo si vzal”, ale uvede jména, média, firmy. A klíčové slovo úplatek. Doslova všechny zúčastněné osolí. 

@@ -1,17 +1,23 @@
 ---
 ID: 2139
-title: >
-  Způsob používání počítačů
-  ohrožuje koncepty jako je desktop nebo
-  PDA
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zpusob-pouzivani-pocitacu-ohrozuje-koncepty-jako-je-desktop-nebo-pda
-published: true
+oldlink: 'https://www.marigold.cz/item/zpusob-pouzivani-pocitacu-ohrozuje-koncepty-jako-je-desktop-nebo-pda
+
+  '
 post_date: 2007-08-19 16:35:24
+post_excerpt: ''
+published: true
+summary_points:
+- Notebooky nahradily desktopy kvůli mobilitě a ceně, ale ergonomie trpí.
+- Životnost notebooků je kratší než desktopů, upgrade je omezený.
+- Autor se vrátil k desktopu (Mac Mini) kvůli tichu a synchronizaci dat.
+- Alternativní subnotebooky (Asus EEE, Palm Foleo) cílí na mobilitu a jednoduchost.
+title: 'Způsob používání počítačů ohrožuje koncepty jako je desktop nebo PDA
+
+  '
 ---
+
 Je zajímavé sledovat, jak se v průběhu generací mění způsob, jakým používáme počítače a v jaké formě počítače vyžadujeme. Prakticky od pradávna vládla terminálová forma, klávesnice spojená s monitorem (terminály u sálových počítačů), pak desktopové provedení, tedy monitor oddělený od desktopu a klávesnice. 
 
 <a href="http://www.marigold.cz/wp-content/2tek4025.jpg"><img src="http://www.marigold.cz/wp-content/_2tek4025.jpg" width="187" height="200" alt="Terminál k sálovému počítači" title="Terminál k sálovému počítači" align="right" /></a>Dneska se k terminálové formě vracíme. Notebooky jsou z hlediska ergonomie totéž, co terminály. Monitor je pevně spojený s klávesnicí. Přítel lékař, který vývoj počítačů nesleduje, dokáže přesně určit rok, kdy se tahle koncepce začala rozmáhat i u nás, protože mu stoupl počet pacientů stěžujících si na bolesti zad, které nepříliš ergonomické provedení notebooku při časté práci způsobuje. Zatímco fixní umístění displeje velmi nízko nad plochou stolu způsobuje hrbení  a bolesti zad, nevhodný sklon a rozměr klávesnice u většiny notebooků zase bolesti rukou. Ne každý zajde tak daleko, aby to řešil vhodnou dock-in station. 

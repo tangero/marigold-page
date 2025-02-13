@@ -1,16 +1,23 @@
 ---
 ID: 1981
-title: >
-  Děkuji všem voličům, kdo je ale
-  vítěz?
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dekuji-vsem-volicum-kdo-je-ale-vitez
-published: true
+oldlink: 'https://www.marigold.cz/item/dekuji-vsem-volicum-kdo-je-ale-vitez
+
+  '
 post_date: 2006-06-05 14:17:36
+post_excerpt: ''
+published: true
+summary_points:
+- Volby 2006 byly zajímavé, předvolební odhady agentury SC&C byly statisticky chybné.
+- Paroubek odmítl po volbách vystoupit v televizi a zpochybnil svobodné volby.
+- ČSSD otevřeně přiznala vůli vládnout s komunisty, což dříve popírala.
+- Autor vidí několik povolebních scénářů, včetně předčasných voleb a "kapříků".
+title: 'Děkuji všem voličům, kdo je ale vítěz?
+
+  '
 ---
+
 <p><strong>Noname píše:</strong> Shrnutí voleb ode mě, kdo si to chce přečíst, musí kliknout na celý článek, už je to tu moc přepolitizováno. Kdo nechce a klikne, tak ať si pak nestěžuje ;)</p>
 
 <!--more--><p>Volby skončily. Sám bedlivě sleduji každé volby již devadesátého roku, kdy jsem byl jako dítě fascinován onou euforií, která po '89 zavládla. Tak zajímavé jako letos ještě žádné volby nebyly. Přitom to co se dělo před volbami se dá jen těžko srovnávat s dobou těsně povolební.</p>

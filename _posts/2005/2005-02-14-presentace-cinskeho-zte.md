@@ -1,14 +1,22 @@
 ---
 ID: 1528
-title: Presentace čínského ZTE
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/presentace-cinskeho-zte
-published: true
+oldlink: 'https://www.marigold.cz/item/presentace-cinskeho-zte
+
+  '
 post_date: 2005-02-14 13:06:19
+post_excerpt: ''
+published: true
+summary_points:
+- ZTE představilo tři nové 3G telefony (F868, F858, F808) a datovou kartu MF320.
+- Mobilní divize ZTE sídlí v Šanghaji, má 3500 zaměstnanců a 6% podíl na čínském trhu.
+- ZTE prodává telefony v Evropě prostřednictvím Telefonica ve Španělsku a spolupracuje
+  s Alcatelem.
+- ZTE věří v technologii TD-S-CDMA a vyvíjí kompletní řešení.
+title: Presentace čínského ZTE
 ---
+
 <p>Po delší chvíli věnované domluveným obchodním schůzkám přepínám zase na novinky. Jsem na presentaci čínzského výrobce telco technologií ZTE.</p>
 
 <p>Presentace by byla lepší, kdyby před ní pořád dokola nehrál takový klip, na šestý poslech fakt protivný.</p>

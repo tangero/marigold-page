@@ -1,15 +1,24 @@
 ---
 ID: 2317
-title: 'Marigold se propojil s&nbsp;Facebookem'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Sociální sítě
+- Facebook
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/marigold-se-propojil-s-facebookem
-published: true
+oldlink: 'https://www.marigold.cz/item/marigold-se-propojil-s-facebookem
+
+  '
 post_date: 2008-12-12 14:37:47
-categories: [Sociální sítě, Facebook]
+post_excerpt: ''
+published: true
+summary_points:
+- Facebook Connect zaveden na Morigold pro přihlašování a diskuse.
+- Příspěvky z Morigolda volitelně sdíleny na Facebook profilu uživatele.
+- Počet členů Marigolda zahrnuje registrované uživatele i Facebook přihlášení.
+- Autor přiznává menší aktivitu na Morigold kvůli psaní pro Lupu.
+title: Marigold se propojil s&nbsp;Facebookem
 ---
+
 Píšíc včera na Lupu o Facebook Connect a dalších podobných systémech, rozhodl jsem se to vyzkoušet a protože do Lupy moc nehrábnu, tak na Morigoldovi. Rozchodil jsem základní přihlašování na Marigolda přes Facebook, stačí kliknout na ikonku vpravo a můžete se bezpečně přihlásit přes Facebook Connect. 
 
 Díky tomu v diskusích můžete psát registrovaně, propojeni se svým profilem na FB. Příspěvky se také mohou objevit ve vašem profilu, pokud budete chtít. Aplikace se zeptá, zda chcete, nechcete vždy nebo nechcete. A krom toho je vidět, kdo Marigolda navštěvuje. To číslo cca 270 členů je součet registrovaných uživatelů Marigolda a lidí, kteří se přihlásili svým loginem z FAcebooku, není to jen Facebook přihlášení.

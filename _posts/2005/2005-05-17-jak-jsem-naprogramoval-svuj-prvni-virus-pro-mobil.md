@@ -1,16 +1,23 @@
 ---
 ID: 1649
-title: >
-  Jak jsem naprogramoval svůj první
-  virus pro mobil
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-jsem-naprogramoval-svuj-prvni-virus-pro-mobil
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-jsem-naprogramoval-svuj-prvni-virus-pro-mobil
+
+  '
 post_date: 2005-05-17 14:23:58
+post_excerpt: ''
+published: true
+summary_points:
+- Konference AEC autora přivedla k vzpomínce na "první virus".
+- Autorův "virus" z roku 1998 aktivoval ikonu hlasové schránky na Nokiích.
+- Skript rozesílal SMS aktivující ikonu a varující před odposlechem.
+- Autorovi byl GSM modul zabaven, čímž byl "virus" zastaven.
+title: 'Jak jsem naprogramoval svůj první virus pro mobil
+
+  '
 ---
+
 <p>Včera jsem byl na konferenci AEC, výrobce to antivirových a jiných bezpečnostních řešení. A při té příležitosti jsem se zajímal o mobilní antiviry a následně jsem si vzpomněl na humornou historku, kterak jsem <em>"naprogramoval svůj první virus".</em></p>
 
 <p>Už je to mnoho let (tak rok 1998  ), dost možná to byl vůbec první virus na mobilní telefon, prosím tedy o trochu shovívavosti, protože v době telefonů s hloupým operačním systémem to nebylo tak jednoduché. Snad je můj počin promlčen…</p>

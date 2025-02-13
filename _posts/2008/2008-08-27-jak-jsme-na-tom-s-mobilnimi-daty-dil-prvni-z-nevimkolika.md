@@ -1,15 +1,23 @@
 ---
 ID: 2270
-title: 'Jak jsme na tom s&nbsp;mobilními daty (díl první z&nbsp;nevímkolika)'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-jsme-na-tom-s-mobilnimi-daty-dil-prvni-z-nevimkolika
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-jsme-na-tom-s-mobilnimi-daty-dil-prvni-z-nevimkolika
+
+  '
 post_date: 2008-08-27 15:05:48
-categories: [Mobilní sítě]
+post_excerpt: ''
+published: true
+summary_points:
+- Česko zaostává v mobilních datech, i s 3G, oproti rozvinutým zemím.
+- Evolved EDGE (EEDGE) nabízí rychlost do 600 Kb/s, hlavně pro rozvojové trhy.
+- Telstra Next G v Austrálii pokryla HSDPA sítí 98 % populace na 850 MHz.
+- Datové služby rostou v USA a Asii, v Česku tvoří cca 20 % ARPU.
+title: Jak jsme na tom s&nbsp;mobilními daty (díl první z&nbsp;nevímkolika)
 ---
+
 Blbý název článku, já vím, ale co se dá dělat. My v Česku na tom nejsme prakticky nijak a to ani se 3/3,5G. Myslel jsem to všeobjímajícně, jaká jest situace v rozvinutých zemích. Nás se zpráva týká minimálně. Původně jsem chtěl psát o vývoji v LTE a WiMaxu, jenže jsem se trochu více rozmáchl a následně se ukázalo, že bude jednodušší přepsat nadpis, než článek, takže LTE a WiMax někdy příště. 
 
 <!--more-->

@@ -1,14 +1,22 @@
 ---
 ID: 2159
-title: 'Apple otevře iPhone pro software třetích stran (a&nbsp;co je za tím)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/apple-otevre-iphone-pro-software-tretich-stran-a-co-je-za-tim
-published: true
+oldlink: 'https://www.marigold.cz/item/apple-otevre-iphone-pro-software-tretich-stran-a-co-je-za-tim
+
+  '
 post_date: 2007-10-20 09:30:14
+post_excerpt: ''
+published: true
+summary_points:
+- Apple oznámil vývojářský kit pro iPhone, umožňující instalaci aplikací třetích stran.
+- Uživatelé a vývojáři hrozili vzpourou kvůli uzavřenosti iPhone, což Apple přimělo
+  ke změně strategie.
+- Apple má provize z provozu iPhone, proto tvrdě bojuje proti odblokování telefonů.
+- Apple certifikuje aplikace pro iPhone kvůli bezpečnosti a hrozbě virů.
+title: Apple otevře iPhone pro software třetích stran (a&nbsp;co je za tím)
 ---
+
 Před pár dny udělal Apple věc, kterou dělá jen opravdu výjimečně. Oznámil, že se něco stane a nebude to hned. Oznámil, že v únoru 2008 nabídne vývojářský kit (SDK) pro iPhone a umožní do iPhone oficiálně nahrávat plnohodnotný software třetích stran. 
 
 Co je na tom tak výjimečného? Tak především to, že Apple většinou "události budoucí ani spekulace" nekomentuje.  Když oznámí novinku, tak tím způsobem, že zítra se začíná expedovat. Výjimky dělá jen v opravdu výjimečných a důležitých případech, jako bylo ohlášení operačního systému Mac OS X 10.5 Leopard nebo přechod na Intel platformu. I samotný iPhone oznámil spíše proto, že potřeboval předat dokumentaci FCC a lidem v Apple bylo zřejmé, že odtud se informace o telefonu rychle prosákne do médií, protože všechny výrobky procházející FCC jdou automaticky na web. 

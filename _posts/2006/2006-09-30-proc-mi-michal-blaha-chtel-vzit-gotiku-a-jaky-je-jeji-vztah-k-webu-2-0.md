@@ -1,14 +1,22 @@
 ---
 ID: 2014
-title: 'Proč mi Michal Bláha chtěl vzít gotiku a&nbsp;jaký je její vztah k&nbsp;Webu 2.0'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-mi-michal-blaha-chtel-vzit-gotiku-a-jaky-je-jeji-vztah-k-webu-2-0
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-mi-michal-blaha-chtel-vzit-gotiku-a-jaky-je-jeji-vztah-k-webu-2-0
+
+  '
 post_date: 2006-09-30 13:00:37
+post_excerpt: ''
+published: true
+summary_points:
+- Web 2.0 je přirozený vývoj internetu, i když se používá jako buzzword.
+- Gotika je pro románský sloh zlepšením, podobně jako Web 2.0 pro Web 1.0.
+- Parléř nadchnul Karla IV. pro gotickou katedrálu, posunul tak české stavebnictví.
+- Web 2.0 bude historiky vnímán jako etapa, stejně jako gotika v umění.
+title: Proč mi Michal Bláha chtěl vzít gotiku a&nbsp;jaký je její vztah k&nbsp;Webu
+  2.0
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/20060930-90px-Saint_Vitus_Cathedral_in_Prague.jpg" alt="Katedrála svatého Víta" width="90" height="120" /></div><p><a href="http://blog.vyvojar.cz/michal/articles/9318.aspx">Michal Bláha se zakousl do mého článku</a> věnovaného Webu 2.0 a jal se ho cupovat, až skončil závěrem, že Web 2.0 není žádná nová etapa, ale jen buzzword, jakých tu už hromada byla a hromada bude. Je to přirozený vývoj aplikací, říká Michal Bláha. A já s ním nejsem v zásadě ve sporu. Web 2.0 je opravdu přirozeným vývojem a to bez ohledu na to, že vývoj mohl pokračovat jinou cestou. Není sporu o tom, že pojem Web 2.0 je často používáno jako buzzwords za účelem vytáhnutí peněz z kapes investorů. Ale přes to všechno je to, co označujeme za Web 2.0 novou etapou ve vývoji internetu. </p>
 
 <p>Michalovi jsem do komentářů odpověděl, že jeho názor, pokud by byl pravdivý, vyškrtává z dějin gotiku. Michal se podivil a žádal si vysvětlení. Tak bych ho tu ve větší obšírnosti rád podal, protože když jsem hledal vhodný příměr, jevil se mi vztah gotiky a románského slohu jako nadmíru příhodný. </p>

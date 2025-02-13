@@ -1,14 +1,21 @@
 ---
 ID: 1977
-title: 'Pěkná panika: EU prý chystá zdanění SMS a&nbsp;emailů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pekna-panika-eu-pry-chysta-zdaneni-sms-a-emailu
-published: true
+oldlink: 'https://www.marigold.cz/item/pekna-panika-eu-pry-chysta-zdaneni-sms-a-emailu
+
+  '
 post_date: 2006-05-27 20:32:21
+post_excerpt: ''
+published: true
+summary_points:
+- Alain Lamassoure navrhl zdanění SMS a emailů pro financování EU.
+- Návrh daně argumentuje pomocí EU členským státům v komunikaci.
+- Zdanění emailů je technicky obtížné kvůli decentralizaci a chybějícím mikroplatbám.
+- Návrh je považován za nereálný a posiluje euroskepticismus.
+title: 'Pěkná panika: EU prý chystá zdanění SMS a&nbsp;emailů'
 ---
+
 <p>Už se to protřásá na českém i mezinárodním internetu. EU se chystá zdanit emaily a SMS zprávy, platit se má zhruba 40 halířů za SMS zprávu a zlomek fufníku za email. Skandál, co si to EU dovoluje. Fuj, hamba. </p>
 
 <p>Tradičně je to složitější, než nám média předkládají. Tak především s nápadem nepřišla celá EU, ale Alain Lamassoure, člen Evropského parlamentu a mimo jiné i člen jeho rozpočtového výboru (<a href="http://www.europarl.europa.eu/members/archive/alphaOrder/view.do?id=1204&amp;language=en">zde kompletní info</a>). Nějakou dobu byl ostatně i jeho předsedou. A právě tahle pozice nás zajímá nejvíce. </p>

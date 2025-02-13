@@ -1,14 +1,21 @@
 ---
 ID: 2176
-title: 'Stream otevřel brány Pekla: první vstoupí Daniel Landa'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/stream-otevrel-brany-pekla-prvni-vstoupi-daniel-landa
-published: true
+oldlink: 'https://www.marigold.cz/item/stream-otevrel-brany-pekla-prvni-vstoupi-daniel-landa
+
+  '
 post_date: 2007-11-26 11:52:36
+post_excerpt: ''
+published: true
+summary_points:
+- Stream spouští pořad Peklo s Landou, life show/reality show s životními osudy.
+- Pětice lidí s problémy se v Pekle fyzicky připravuje na zápas v thajském boxu.
+- Thajský box byl vybrán pro svou náročnost a nemožnost podvádění.
+- Peklo s Landou má krátké, dynamické díly a sleduje se na peklo.stream.cz.
+title: 'Stream otevřel brány Pekla: první vstoupí Daniel Landa'
 ---
+
 Musím se cvičit v bulvárních titulcích, takže mi odpusťte tuhle nadpisovou přípravu. Dnes večer spouštíme na Streamu projekt <a href="http://peklo.stream.cz">Peklo s Landou</a>, což je ten pořad, na který jsem někdy v červnu chtěl nakupovat reklamu v momentě, kdy jsem znejistil, zda ho budeme mít jak propagovat. Máme, naštěstí. 
 
 Peklo s Landou jsme nazvali life show, je to ale spíš taková naše varianta reality show. Něco o tom vyšlo v novinách, něco jste možná četli, možná vás to nezajímalo, protože reality show máte na háku podobně, jako já. Tak něco málo z pozadí, co novináře na tiskovce nezaujalo. 

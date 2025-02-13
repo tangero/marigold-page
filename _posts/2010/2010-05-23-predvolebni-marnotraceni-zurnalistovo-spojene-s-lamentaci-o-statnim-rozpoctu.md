@@ -1,15 +1,24 @@
 ---
 ID: 2351
-title: 'Předvolební marnotracení žurnalistovo spojené s&nbsp;lamentací o&nbsp;státním rozpočtu'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Politika
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/predvolebni-marnotraceni-zurnalistovo-spojene-s-lamentaci-o-statnim-rozpoctu
-published: true
+oldlink: 'https://www.marigold.cz/item/predvolebni-marnotraceni-zurnalistovo-spojene-s-lamentaci-o-statnim-rozpoctu
+
+  '
 post_date: 2010-05-23 11:03:47
-categories: [Politika]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor kritizuje nedostatečnou analýzu státního rozpočtu v českých médiích.
+- Státní rozpočet je nepřehledný a těžko se v něm hledají konkrétní informace.
+- Novináři nepředkládají čtenářům srozumitelné rozbory rozpočtu, na rozdíl od USA.
+- Povrchnost novinářů je částečně způsobena i povrchností a osobními útoky politiků.
+title: Předvolební marnotracení žurnalistovo spojené s&nbsp;lamentací o&nbsp;státním
+  rozpočtu
 ---
+
 <p>Honza Simkanič publikoval text s nadpisem <a href="http://www.simindr.cz/tragika-ceske-politicke-zurnalistiky/">Tragika české politické žurnalistiky</a>, čímž rozehrál moji myšlenku a stal se předjezdcem tohoto zápisku. Můj postřeh bude z jiné strany, z jiného úhlu, ač stejně plačtivý.</p>
 
 <p>Rozhodl jsem se být předvolebně zodpovědným občanem a prostudovat státní rozpočet. Podle článků, které jsem četl, jsem vyrozuměl, že zákon o státním rozpočtu je věc složitá, kterou bude zatěžko pochopit i promovanému ekonomovi. Nicméně volby se blíží, zodpovědnost k druhé vlasti především a nad osobní pohodlí. Do termosky nalil jsem kávu, připravil si drobné občerstvení, vygoogloval jsem si<a href="http://www.mfcr.cz/cps/rde/xbcr/mfcr/487_2009_komplet_pdf.pdf"> zákon ke státním rozpočtu</a> a jal se číst.</p>

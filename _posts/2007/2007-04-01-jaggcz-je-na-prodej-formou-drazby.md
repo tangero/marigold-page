@@ -1,14 +1,21 @@
 ---
 ID: 2095
-title: Jagg.cz je na prodej formou dražby
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jaggcz-je-na-prodej-formou-drazby
-published: true
+oldlink: 'https://www.marigold.cz/item/jaggcz-je-na-prodej-formou-drazby
+
+  '
 post_date: 2007-04-01 20:02:44
+post_excerpt: ''
+published: true
+summary_points:
+- Jagg.cz, služba pro sdílení záložek, je rok stará a autor se jí nevěnuje.
+- Služba Jagg.cz má zhruba 1000 uživatelů, ale potřebuje aktivní rozvoj.
+- Autor se rozhodl Jagg.cz prodat, protože má jiné priority.
+- Jagg.cz je nabízen k prodeji na Aukru s vyvolávací cenou 1 Kč.
+title: Jagg.cz je na prodej formou dražby
 ---
+
 <a href="http://www.Jagg.cz">Jagg.cz</a> je zhruba rok stará služba pro ukládání a sdílení záložek, obdoba americké služby <a href="http://Del.icio.us">Del.icio.us</a>. 
 
 Dorazila upomínka k zaplacení domény Jagg.cz. Doménu jsem prodloužil a přitom jsem se zamyslel nad tím, že za celý ten rok Jaggu jsem na službu ani nesáhl. Tedy, pár úprav jsem tu udělal, přidal jsem AdSense (14 USD měsíčně není žádný šlágr), upravil antispam. Ale v zásadě na to nemám čas, abych s tím něco dělal. A je to škoda. Vůkol se objevuje řada podobných služeb a aby Jagg držel krok, musí se ho ujmout někdo, kdo ho potáhne dál programátorsky i administračně.

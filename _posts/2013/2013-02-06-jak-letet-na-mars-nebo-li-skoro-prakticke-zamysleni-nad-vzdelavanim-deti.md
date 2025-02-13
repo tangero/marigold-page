@@ -1,18 +1,25 @@
 ---
 ID: 2611
-title: >
-  Jak letět na Mars nebo-li skoro
-  praktické zamyšlení nad
-  vzděláváním dětí
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Vzdělávání
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-letet-na-mars-nebo-li-skoro-prakticke-zamysleni-nad-vzdelavanim-deti
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-letet-na-mars-nebo-li-skoro-prakticke-zamysleni-nad-vzdelavanim-deti
+
+  '
 post_date: 2013-02-06 21:33:30
-categories: [Vzdělávání]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor reaguje na ohlasy k úvahám o programátorech a vesmírném křižníku.
+- Autor vyjadřuje zklamání nad současným stavem vzdělávání v IT.
+- Autor navrhuje hru simulující let na Mars pro rozvoj dovedností dětí.
+- Hra má propojovat děti s odborníky a využívat moderní technologie.
+title: 'Jak letět na Mars nebo-li skoro praktické zamyšlení nad vzděláváním dětí
+
+  '
 ---
+
 <p>Když jsem se tu nedávno rozepsal o tom, <a href="http://www.marigold.cz/item/otazka-kolik-programatoru-je-treba-pro-obsluhu-bojoveho-vesmirneho-krizniku-je-pro-ceskou-ekonomiku-nadmiru-aktualni">kolik programátorů je třeba na vesmírný bitevní křižník,</a> dostal jsem na to obrovské množství reakcí počínající slušným výběrem na trhu dostupných sedativ přes nadšený souhlas a otázky, co s tím. Tak vytáhnu podobně těžký kalibr - bohužel již také mnohem méně promyšlený. Nebo spíše: hodně promyšlený, ale nezrealizovaný.</p>
 
 

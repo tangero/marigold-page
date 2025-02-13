@@ -1,14 +1,21 @@
 ---
 ID: 2184
-title: 'MyMiniCity je další mor &#8230; tedy vlastně online hra'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/myminicity-je-dalsi-mor-tedy-vlastne-online-hra
-published: true
+oldlink: 'https://www.marigold.cz/item/myminicity-je-dalsi-mor-tedy-vlastne-online-hra
+
+  '
 post_date: 2007-12-19 11:50:18
+post_excerpt: ''
+published: true
+summary_points:
+- MyMiniCity je webový simulátor města, kde návštěvy zvyšují počet obyvatel.
+- Další linky zvyšují průmysl, dopravu, bezpečnost a další aspekty města.
+- Hra spočívá v získávání kliknutí, což vede k šíření odkazů.
+- Motion-Twin, tvůrce, těží z obrovské návštěvnosti a zobrazení stránek.
+title: MyMiniCity je další mor &#8230; tedy vlastně online hra
 ---
+
 S projektem <a href="http://www.myminicity.com">MyMiniCity</a> se už setkal nebo rychle setká kdokoliv, kdo provozuje nějaké diskusní fórum či komentáře. Tenhle projekt se už i českojazyčným internetem šíří jako mor. O co jde? 
 
 MyMiniCity vypadá jako webová obdoba simulátoru města SimCity, ve skutečnosti ale funguje (zatím) jinak. Proč zatím? Protože je to webová věc, která se vyvíjí, rozvíjí a nevíme dopředu, kam vás autorovy nápady zavedou. <!--more-->

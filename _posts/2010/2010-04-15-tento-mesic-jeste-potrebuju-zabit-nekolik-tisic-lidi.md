@@ -1,17 +1,25 @@
 ---
 ID: 2348
-title: >
-  Tento měsíc ještě potřebuju zabít
-  několik tisíc lidí
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Knihy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tento-mesic-jeste-potrebuju-zabit-nekolik-tisic-lidi
-published: true
+oldlink: 'https://www.marigold.cz/item/tento-mesic-jeste-potrebuju-zabit-nekolik-tisic-lidi
+
+  '
 post_date: 2010-04-15 11:47:45
-categories: [Knihy]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor psal "Příběh strýčka Martina" inspirován raným přemyslovským státem.
+- Příběh kombinuje hledání ztraceného strýčka s historickými událostmi.
+- Autor pro knihu načetl 83 knih a konzultoval s historiky.
+- Psaní historické části autor dokončil ve Varšavě v den polské letecké tragédie.
+title: 'Tento měsíc ještě potřebuju zabít několik tisíc lidí
+
+  '
 ---
+
 Začalo to před dvěmi lety. Safra, skoro třemi :( Začala mne honit mlsná něco dalšího napsat. Pár čtenářů se dožadovalo pokračování <a href="http://palmknihy.cz/www/?BOOK=3859">Flotily Země</a>, jenže já už jsem v hlavě nosil příběh historický. Záviděl jsem <a href="http://cs.wikipedia.org/wiki/Andrzej_Sapkowski">Sapkowskému</a>, že mi vyfoukl téma husitských válek, ale co si budeme povídat, trilogii napsal kolosálně a jakékoliv poměřování s jeho dílem by dopadlo nutně depresivně. 
 
 Navíc jsem chtěl něco z raně přemyslovského státu, mého oblíbeného historického období. A tak... proč ne rovnou jeho založení? Proč neodfláknout vraždu svatého Václava a nesoustředit se na spory Otty s Boleslavem I.? Období je to autorsky vděčné, rychlým náhledem do indexu vydaných knih jsem snadno zjistil, že o něm prakticky nikdo beletristicky nepsal, historických knih je pomálu a většina začíná "můžeme se domnívat", takže i faktografii půjde zvládnout. 

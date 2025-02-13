@@ -1,14 +1,24 @@
 ---
 ID: 1795
-title: 'Proč jsme nevěřili na novinařinu a&nbsp;jak jsme bránili Telecomu zlikvidovat seznam'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-jsme-neverili-na-novinarinu-a-jak-jsme-branili-telecomu-zlikvidovat-seznam
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-jsme-neverili-na-novinarinu-a-jak-jsme-branili-telecomu-zlikvidovat-seznam
+
+  '
 post_date: 2005-08-26 07:26:16
+post_excerpt: ''
+published: true
+summary_points:
+- Autor nevěřil na novinářská pravidla kvůli jejich vznešenosti a nenaplnitelnosti.
+- Novinářství není veřejná služba, ale vztah zaměstnanec-zaměstnavatel s konfliktem
+  zájmů.
+- Ověřování informací je problematické, protože zdroje často záměrně pouští informace
+  ven.
+- Mobil server se stavěl do role zastánce zákazníků telekomunikačních služeb.
+title: Proč jsme nevěřili na novinařinu a&nbsp;jak jsme bránili Telecomu zlikvidovat
+  seznam
 ---
+
 <p>Musím se přiznat, že jsem nikdy nevěřil na novinářská pravidla, zásady a etický kodex. Nikdy jsem se nepovažoval za novináře nejenom proto, že jsem žurnalistiku nevystudoval, v tom jsem ostatně odpovídal profilu průměrného českého technického novináře. Nešlo ani o pózu, jak se odlišit od ostatních, šlo spíše o to, že jsem tehdy považoval některé stávající novinářská pravidla za přežitá, nevyhovující a spíše směšná, než užitečná.  Ostatně i proto se dodnes nepovažuji za novináře, spíše za publicistu, když už, tak analytika. </p>
 
 <p>Etické kodexy novinářů jsou plné vznešeností a ideálů, které se právě díky svojí vznešenosti jen málokdy naplní. Nejvíce k smíchu je nestrannost a objektivnost, o níž jsem jako pečlivý návštěvník přednášek filosofie věděl své. Zaprvé – novinařina není žádná veřejná služba, leda byste pracovali ve veřejnoprávním médiu. Novinář představuje klasický vztah zaměstnanec – zaměstnavatel, kde zaměstnanec plní příkazy zaměstnavatele a pokud se mu nelíbí, může odejít, zatímco zaměstnavatel se prostřednictvím zaměstnance snaží vydělat peníze mimo jiné i na pokrytí zaměstnancova platu. To řadu médií žene do logického konfliktu zájmů, se kterým statut „veřejné a vyšší služby novináře“ nemá mnoho společného. Zjednodušeně řečeno: jako novinář jste objektivní do výše svého platu a do data výpovědi. Nemusí nutně rozhodnout to, zda jste napsali dobrý článek, ale jak tento článek vnímal inzerent vašeho média. To všechno nutně vede k autocenzuře nebo odchodu z branže – nepíšete o tématech, která by velký inzerent mohl považovat za nepřípustná. Zůstáváte tím spíše oním novinářem s vyšším posláním? Soudím, že nikoliv.

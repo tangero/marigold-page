@@ -1,14 +1,21 @@
 ---
 ID: 2129
-title: 'Jeden z&nbsp;největších příběhů lidstva se právě uzavřel'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jeden-z-nejvetsich-pribehu-lidstva-se-prave-uzavrel-2
-published: true
+oldlink: 'https://www.marigold.cz/item/jeden-z-nejvetsich-pribehu-lidstva-se-prave-uzavrel-2
+
+  '
 post_date: 2007-07-22 09:35:58
+post_excerpt: ''
+published: true
+summary_points:
+- Harry Potter 7, Deathly Hallows, se začal prodávat o půlnoci.
+- Autor koupil knihu v sobotu a bude ji číst dcerám.
+- Harry Potter je novodobý mýtus o naději a spasení.
+- Fanouškovské překlady HP7 existují online před oficiálním vydáním.
+title: Jeden z&nbsp;největších příběhů lidstva se právě uzavřel
 ---
+
 Sedmým dílem se měla úder srdce po páteční půlnoci uzavřít sága Harryho Pottera. Právě v ten moment se totiž po prakticky celém světě začal prodávat poslední díl <strong>Harry Potter and the Deathly Hallows</strong> a fanouškové se mohli přetrhnout, aby byli první ve dveřích svých knihkupectví, která výjimečně otevírala bez problémů o půlnoci. 
 
 <img src="http://www.marigold.cz/wp-content/medium_pottercover3.jpg" width="220" height="319" alt=" Harry Potter and the Deathly Hallows" title=" Harry Potter and the Deathly Hallows" align="right" />

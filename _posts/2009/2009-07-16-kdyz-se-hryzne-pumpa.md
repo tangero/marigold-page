@@ -1,15 +1,24 @@
 ---
 ID: 2331
-title: Když se hryzne pumpa
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Běhání
+- Běh
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdyz-se-hryzne-pumpa
-published: true
+oldlink: 'https://www.marigold.cz/item/kdyz-se-hryzne-pumpa
+
+  '
 post_date: 2009-07-16 09:19:39
-categories: [Běhání, Běh]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor začal běhat pro zdraví, ale Markéta pochybovala o jeho kondici.
+- SportTracker od Nokie sledoval autorovu trasu, ale brzy selhal.
+- Markéta se vyděsila, když SportTracker přestal hlásit autorův pohyb.
+- Autorova zkušenost s technologiemi připomíná nevyužitou permanentku do bazénu.
+title: Když se hryzne pumpa
 ---
+
 Rozhodl jsem se nedávno, že udělám další krok pro své zdraví a duševní svěžest a začnu běhat. Jistě může být, že mezi tímto nevidíte spojitost a právě pro vás je určen tento článek, který výhody sportu pro muže osvětlí. 
 
 Když jsem se totiž svěřil Markétě, že vyrazím běhat a vylíčil jí, jak sprintem proletím Prahou od Vyšehradu na Strahov a zpět, zapochybovala mírně o mé způsobilosti k takovému činu, řkouc, že má obav, aby se mi někde nehryzla pumpa. 

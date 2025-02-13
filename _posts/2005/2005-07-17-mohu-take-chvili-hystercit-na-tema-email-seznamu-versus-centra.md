@@ -1,16 +1,23 @@
 ---
 ID: 1727
-title: >
-  Mohu také chvíli hysterčit na téma
-  email Seznamu versus Centra?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mohu-take-chvili-hystercit-na-tema-email-seznamu-versus-centra
-published: true
+oldlink: 'https://www.marigold.cz/item/mohu-take-chvili-hystercit-na-tema-email-seznamu-versus-centra
+
+  '
 post_date: 2005-07-17 22:10:45
+post_excerpt: ''
+published: true
+summary_points:
+- Seznam email klade důraz na ergonomii a funkčnost pro uživatele.
+- Centrum email se zaměřuje na zdobnost a rozmařilost aplikace.
+- Seznam email nabízí jednoduché a funkční řešení pro freemail.
+- Design emailových služeb (Seznam, Centrum, Gmail) je podobný.
+title: 'Mohu také chvíli hysterčit na téma email Seznamu versus Centra?
+
+  '
 ---
+
 <p>Je to až s podivem, jaké vášně dokáže rozpoutat na českém e-rybníce nová emailová služba Seznamu a Centra. Pročítám si článečky vynášející do nebe centrácký email a někdy se mi až ježí chlupy, jak jednoznačně a bezhlavě ho autoři vyvyšují, aniž by připustili, že někdo může mít zcela jiné potřeby. </p>
 
 <p>Jsem uživatelem emailu jak u Centra, tak u Seznamu – mám zde emailové schránky pro vedlejší komunikaci (říkám jim odpaďáky) u kterých nechci, aby se mi motaly do mé hlavní pošty na Gmailu. Takže snad mohu mluvit ze zkušenosti běžného uživatele. </p>

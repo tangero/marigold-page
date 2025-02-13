@@ -1,17 +1,27 @@
 ---
 ID: 2231
-title: >
-  Patrick Vodafone nastupuje proti O2
-  Kvídovi
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
+- Vodafone
+- O2
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/patrick-vodafone-nastupuje-proti-o2-kvidovi
-published: true
+oldlink: 'https://www.marigold.cz/item/patrick-vodafone-nastupuje-proti-o2-kvidovi
+
+  '
 post_date: 2008-04-30 08:43:39
-categories: [Mobilní sítě, Vodafone, O2]
+post_excerpt: ''
+published: true
+summary_points:
+- Vodafone nabízí volání a SMS zdarma za změnu jména na Vodafone.
+- Střední jméno Vodafone znamená volání a SMS zdarma ve Vodafone síti.
+- Příjmení Vodafone přináší volání a SMS zdarma do všech sítí a data.
+- Vodafone Život nabídne slevy na fitness, kadeřnictví, oblečení a akce.
+title: 'Patrick Vodafone nastupuje proti O2 Kvídovi
+
+  '
 ---
+
 Zatímco Telefonica O2 přináší sponzorované hovory o délce jedné minuty pod heslem <em>
 Platí to Kvído</em>, Vodafone jde v zuřící reklamní válce telekomunikačních společností dále. Vodafone byl vždycky připraven posouvat limity a výzvy v reklamní branži a poslední jeho akce <em>"Vodafone Život"</em> je toho jen dobrým příkladem. Měl jsem příjemnou možnost přihlásit se do pilotního provozu a máte se věru na co těšit.
 

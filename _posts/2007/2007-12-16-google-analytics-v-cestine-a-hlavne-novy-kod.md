@@ -1,14 +1,21 @@
 ---
 ID: 2182
-title: 'Google Analytics v&nbsp;češtině (a&nbsp;hlavně nový kód)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/google-analytics-v-cestine-a-hlavne-novy-kod
-published: true
+oldlink: 'https://www.marigold.cz/item/google-analytics-v-cestine-a-hlavne-novy-kod
+
+  '
 post_date: 2007-12-16 12:56:49
+post_excerpt: ''
+published: true
+summary_points:
+- Google Analytics má nové funkce spojené s novým kódem ga.js.
+- Eshopy ocení lepší sledování transakcí v Google Analytics.
+- Dvojí metrika umožňuje porovnávat dvě hodnoty v grafu.
+- Microsoft Gatineau je konkurent Google Analytics s nedokončenými funkcemi.
+title: Google Analytics v&nbsp;češtině (a&nbsp;hlavně nový kód)
 ---
+
 Český Google to maličko Google Analytics zavařil. Vydal tiskovou zprávu, že GA jsou v češtině. Což je fajn. Tím se ale trochu přehlédlo, že Google Analytics má i nové funkce založené na novém kódu. Takže to pro jistotu připomínám, protože češtinu jsem si zapnul a zase vypnul. Nové funkce ale stojí za pozornost. <!--more-->
 
 Přínos češtiny v GA nakonec vidím hlavně v tom, že si lidé přestanou plést návštěvy a návštěvníky tedy visits a visitors. 

@@ -1,17 +1,26 @@
 ---
 ID: 2237
-title: >
-  Adobe Flash ve verzi 10 přináší
-  podporu P2P
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Adobe
+- Flash
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/adobe-flash-ve-verzi-10-prinasi-podporu-p2p
-published: true
+oldlink: 'https://www.marigold.cz/item/adobe-flash-ve-verzi-10-prinasi-podporu-p2p
+
+  '
 post_date: 2008-05-16 11:22:37
-categories: [Adobe, Flash]
+post_excerpt: ''
+published: true
+summary_points:
+- Flash 10 beta představuje P2P technologii, což je zásadní novinka.
+- Flash 10 umožňuje ukládat soubory na disk a dynamický streaming videa.
+- RTMFP protokol ve Flash 10 umožňuje P2P komunikaci mezi klienty.
+- Adobe integruje P2P do Flashe, umožní aplikace typu Skype nebo Joost.
+title: 'Adobe Flash ve verzi 10 přináší podporu P2P
+
+  '
 ---
+
 Tento týden představila firma Adobe betaverzi Flash 10 (kodové jméno Astro), to jste jistě nepřehlédli. Řada vylepšení se týká renderovacích schopností, filtrů, 3D zobrazení a efektů, od toho nyní abstrahujme, protože žádná z těch novinek není přelomová, v tomto ohledu Flash prostě jde s dobou (a začasté na špici). Detaily zde</a>. 
 
 Co pozornosti většiny médií uniklo, je podpora P2P technologie ve Flashi. A to je něco, co (u)dělá z desáté verze Flashe stejně přelomovou verzi, jako z verze deváté AS3 + podpora H.264, ačkoliv na využití té technologie si počkáme. Však používat H.264 ve Flash 9 se jednotlivé projekty teprve učí a to je rok od doby, co se devítka objevila. 

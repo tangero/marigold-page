@@ -1,14 +1,21 @@
 ---
 ID: 2100
-title: 'Kniha na dlouhé chvíle: Hádanky naší minulosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kniha-na-dlouhe-chvile-hadanky-nasi-minulosti
-published: true
+oldlink: 'https://www.marigold.cz/item/kniha-na-dlouhe-chvile-hadanky-nasi-minulosti
+
+  '
 post_date: 2007-04-29 07:50:02
+post_excerpt: ''
+published: true
+summary_points:
+- Kniha Hádanky naší minulosti je mylně řazena k záhadologické literatuře.
+- Jiří Bílek v Hádankách metodicky probírá sporné body české historie.
+- Bílek uvádí různé názory historiků a důkazy bez prosazování vlastních.
+- Autor recenze v knize našel odpovědi na otázky o raném přemyslovském státu.
+title: 'Kniha na dlouhé chvíle: Hádanky naší minulosti'
 ---
+
 Nejsem žádný knižní recenzent, ačkoliv se sluší říci, že pár knížek jsem za svůj život přečetl. Tuhle zmíním proto, že mne zaujala a také proto, že v knihkupectví ji najdete zpravidla tam, kde byste ji přešli s opovržením. 
 
 <img src="http://www.marigold.cz/wp-content/hadankyminulosti.gif" width="100" height="155" alt="Hádanky naší minulosti" title="Hádanky naší minulosti" align="right" />Kniha <a href="http://www.kosmas.cz/knihy/122901/hadanky-nasi-minulosti-4-noc-vrahu-zacala-kuropenim/">Hádanky naší minulosti</a> má totiž trochu záhadologický titulek a podle toho ji i v knihkupectví umisťují, hned vedle Odhalených tajemství templářů a podobné literatury. Zož je chyba. 

@@ -1,14 +1,21 @@
 ---
 ID: 1970
-title: Česká republika je WiFi velmoc
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ceska-republika-je-wifi-velmoc
-published: true
+oldlink: 'https://www.marigold.cz/item/ceska-republika-je-wifi-velmoc
+
+  '
 post_date: 2006-05-15 22:30:38
+post_excerpt: ''
+published: true
+summary_points:
+- Google Trends srovnává četnost vyhledávání frází a ukazuje regionální podíl.
+- Nástroj Google Trends umožňuje zjistit, kde lidé hledají práci nebo politické preference.
+- Srovnání poptávky po internetu (WiFi, ADSL, kabel) lze sledovat globálně i regionálně.
+- Databáze bezdrátových sítí Internet Pro Všechny byla inovována a nabízí vyhledávání.
+title: Česká republika je WiFi velmoc
 ---
+
 <p><strong>Noname píše:</strong> věta z nadpisu zní jako obehraná písnička, mnozí by namítali, že je to blbost, že to je jenom náš pohled "z vnitřku koule". Jenže teď pro to mám hezký důkaz. A to díky novému nástroji od Google - Google Trends. Ten srovnává počet hledání v čase a jako perličku ukazuje i regiony, kde se dané fráze vyhledávají nejčastěji, respektive kde tvoří největší podíl mezi vyhledávanými frázemi.  Schválně si dejte <a href="http://google.com/trends?q=wifi,+wi-fi&amp;ate=all&amp;all&amp;ab=1&amp;a=N" >hledat wifi resp. wi-fi</a>.</p>
 <p>Nástroj lze využít i k mnoha dalším účelům. Zajímá vás například, kde lidé nejvíce <a href="http://google.com/trends?q=pr%C3%A1ce,+zam%C4%9Bstn%C3%A1n%C3%AD&amp;date=all&amp;geo=all&amp;ctab=0&amp;sa=N">hledají práci</a>? Nebo jestli google používají <a href="http://google.com/trends?q=ods%2C+cssd&amp;ctab=0&amp;geo=all&amp;date=all">spíše voliči ODS nebo ČSSD</a>. Když jsem takhle odbočil k politice a nezaměstnanosti a jsme pár dní před volbami, doporučuji <a href="http://www.mfcr.cz/cps/rde/xbcr/mfcr/MakroPre_TG_2005Q3_G32.gif">graf vývoje nezaměstnanosti na Ministerstvu financí</a> - mozkové cvičení, odhadněte podle grafu, kdy padla pravicová vláda. Ani se nedivím, že u kamarádovy <a href="http://www.ictrecruit.com">IT personální agentury</a> je taková poptávka po zaměstnání v Anglii, Irsku nebo Americe. Mimochodem, všimli jste si také korelace mezi českými povodněmi (1997/2002/2006) a význačnými politickými událostmi?</p>
 

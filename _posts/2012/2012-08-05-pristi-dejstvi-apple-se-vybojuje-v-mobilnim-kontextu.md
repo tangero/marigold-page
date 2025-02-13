@@ -1,15 +1,24 @@
 ---
 ID: 2469
-title: 'Příští dějství Apple se vybojuje v&nbsp;mobilním kontextu'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Apple
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pristi-dejstvi-apple-se-vybojuje-v-mobilnim-kontextu
-published: true
+oldlink: 'https://www.marigold.cz/item/pristi-dejstvi-apple-se-vybojuje-v-mobilnim-kontextu
+
+  '
 post_date: 2012-08-05 23:04:27
-categories: [Apple]
+post_excerpt: ''
+published: true
+summary_points:
+- Apple vnímán tápavě kvůli neprezentování budoucích plánů, na rozdíl od Microsoftu
+  a Googlu.
+- iCloud integrace je základem budoucího vývoje Apple, synchronizace dat mezi zařízeními.
+- Apple pracuje na vizuálním rozpoznávání uživatele pro přihlašování, detekce tváře.
+- Apple se zaměřuje na rozpoznávání kontextu uživatele, odlišuje se tím od konkurence.
+title: Příští dějství Apple se vybojuje v&nbsp;mobilním kontextu
 ---
+
 <p>Pochybnost, zda Apple ví, kam kráčí, je v komentářích po vydání Mountain Lionu všudypřítomná. U nás ji nejsrdnatěji presentoval <a href="http://www.lupa.cz/clanky/petr-pixy-stanicek-pristi-dejstvi-apple-vs-microsoft-zajimave-casy/">Petr Staníček v blogpostu</a>, který následně převzala i Lupa, takže ptaní po tom, zda je Apple bezradný, můžeme považovat za mainstreamovou otázku. </p>
 
 

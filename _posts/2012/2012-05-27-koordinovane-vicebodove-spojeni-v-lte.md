@@ -1,15 +1,25 @@
 ---
 ID: 2416
-title: 'Koordinované vícebodové spojení v&nbsp;LTE'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- 3G
+- Mobilní sítě
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/koordinovane-vicebodove-spojeni-v-lte
-published: true
+oldlink: 'https://www.marigold.cz/item/koordinovane-vicebodove-spojeni-v-lte
+
+  '
 post_date: 2012-05-27 21:42:10
-categories: [3G, Mobilní sítě]
+post_excerpt: ''
+published: true
+summary_points:
+- CoMP zvyšuje rychlost a efektivitu mobilních datových přenosů v bezdrátových sítích.
+- CoMP umožňuje mobilnímu zařízení využívat zdroje z více rádiových zdrojů současně.
+- CoMP řeší problém nízké rychlosti na okrajích buněk v mobilních sítích.
+- 'Existují dvě hlavní varianty CoMP: koordinované plánování/formování paprsku a společné
+  zpracování.'
+title: Koordinované vícebodové spojení v&nbsp;LTE
 ---
+
 <p>Jednou z uvažovaných novinek pro vysokorychlostní datové mobilní přenosy v bezdrátových sítích je takzvané<em> “koordinované vícebodové spojení”</em>, anglicky <strong>Coordinated MultiPoint (CoMP)</strong>. Jde o další cestu, jakou by se mohly bezdrátové sítě dobrat vyšší rychlosti i efektivity (rychlostní i kapacitní).</p>
 
 
@@ -27,5 +37,3 @@ categories: [3G, Mobilní sítě]
 </p>
 
 <p>Hlavní faktický rozdíl mezi Společným zpracováním a CS/CB schématem je v tom, že v případě JP je potřeba optická síť propojující buňky, jinak nejde datové toky udržet na požadovaných hodnotách. To stojí peníze. JT umožní vyšší výkon, ale také má vyšší náklady na přenosovou páteřní síť. Je to něco za něco. <br /><br />To jsme hovořili o downlinku. V uplinku používá CoMP faktu, že je k dispozici několik geograficky oddělených antén, takže může přijímat signál z mobilky na více místech a vybrat ten nejlepší, co se rušení týká - nebo se dokonce pokusit jej rekonstruovat. Jasnou výhodou je, že v tomto případě může být technologie použita bez nutnosti změn na straně mobilky - té je jedno, kolik buněk ji poslouchá, důležité pro ni je, kolik s ní komunikuje. <br /><br />Sečteno a podtrženo, koordinované vícebodové spojení je jedním z horkých kandidátů na zrychlování LTE sítí, osobně jej považuji za významnější zlepšení, než třeba HetNet, protože adresuje problém, který zkrátka je významný a to výkon na okrajích buněk. <br /><br />Jenže už z hrubého popisu jasně cítíme, že tu jsou velké “výzvy”. Když odpočteme problémy se zpracováním matic pro beamforming, jež obnášejí požadovaný vyšší výpočetní výkon, připočtěme si hlavně obrovský dopad na páteřní a propojovací sítě takového LTE. Nejenom, že dochází k přenosům redundantních bloků dat (tedy je požadována kapacita), ale hlavně koordinace mobilky a eNodeB/RRE přes interface S1 obnáší značné nároky na nízkou latenci, jinak nemá vyhodnocování optimálního způsobu distribuce dat vůbec smysl. <br /><br />K tomu připočtěme problémy synchronizace, kdy jednotlivé kooperující eNodeB/RRE musí být velmi přesně frekvenčně i časově synchronizovány a to za hranici, jaká se dnes považuje za nutnou a hned máme další potíž. <br /><br />Tak a to je pro dnešek všechno.<br /></p>
-
-

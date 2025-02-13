@@ -1,14 +1,21 @@
 ---
 ID: 2077
-title: 'Bezdrátová Praha a&nbsp;tibetská doga'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezdratova-praha-a-tibetska-doga
-published: true
+oldlink: 'https://www.marigold.cz/item/bezdratova-praha-a-tibetska-doga
+
+  '
 post_date: 2007-02-17 12:32:59
+post_excerpt: ''
+published: true
+summary_points:
+- Noname řešil problémy jiných, což mu zabralo 30 hodin práce.
+- Narodilo se sedm štěňat tibetské dogy rodičů autora, vítězů soutěží.
+- Autor vede informační antikampaň proti projektu Bezdrátová Praha.
+- Projekt Bezdrátová Praha je kritizován pro neefektivitu, korupci a rušení sítí.
+title: Bezdrátová Praha a&nbsp;tibetská doga
 ---
+
 <strong>Noname píše:</strong> Musím říct, že tenhle týden byl celkem náročný a můžu si za to z půlky sám, protože když bych neměl neutuchající potřebu řešit problémy jiných, tak bych si ušetřil asi 30 hodin práce.
 
 <img src="http://www.marigold.cz/wp-content/Charon_a_Buddy.jpg" width="166" height="250" alt="Tibetská doga" title="Tibetská doga" style="float:right; margin: 5px 0 1em 1em" />

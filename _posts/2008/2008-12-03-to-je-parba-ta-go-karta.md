@@ -1,15 +1,23 @@
 ---
 ID: 2316
-title: To je pařba, ta Go karta
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/to-je-parba-ta-go-karta
-published: true
+oldlink: 'https://www.marigold.cz/item/to-je-parba-ta-go-karta
+
+  '
 post_date: 2008-12-03 10:56:56
-categories: [Mobilní sítě]
+post_excerpt: ''
+published: true
+summary_points:
+- Autor přešel zpět na Go kartu O2 po odchodu ze Streamu.
+- O2 neumí převést tarif na Go kartu bez výměny SIM.
+- Go karta s O2 Mix tarifem má levnější SMS až od následujícího měsíce.
+- Dobíjení Go karty převodem z Raiffeisenbank není možné.
+title: To je pařba, ta Go karta
 ---
+
 Odešel jsem ze Streamu a protože jsem před časem své soukromé číslo převedl na Stream, zase jsem ho převáděl zpět. Původně jsem přemýšlel o tom, že si pořídím tarif u O2 spolu s novým iPhone, ale tenhle příběh bude o tom, jak a proč jsem to neudělal a o tom, jaké smutné chvíle člověk s Go kartou musí zažít. Připomínám, že jiné prepaid karty na českém trhu jsem takhle intenzivně nepoužíval, takže možná by mne zprudila i konkurence, na druhou stranu jak Twist tak Vodakartu mám a tyhle strasti jsem s nimi nezažíval. 
 
 První chvíle nadšení pro O2 přijde v momentě, kdy zjistíte, že O2 neumí tarif převést na Go kartu bez výměny SIM karty. Což jsem zjistil v momentě, kdy mi přestala moje původní SIM karta fungovat. Naštěstí jsem rychle dohnal Streamáckou kontaktní osobu u O2, vše se vysvětlilo, nafasoval jsem novou Go kartu a strávil jsem s tím pouhé dvě hodinky svého času, kterého jsem měl jako nezaměstnaný na rozdávání (haha, to byl sarkasmus, nezaměstnaní mají takové práce, to si neumíte představit).

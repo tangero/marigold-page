@@ -1,16 +1,23 @@
 ---
 ID: 1573
-title: >
-  Fayn Free – konečně VoIP bez
-  paušálu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/fayn-free-konecne-voip-bez-pausalu
-published: true
+oldlink: 'https://www.marigold.cz/item/fayn-free-konecne-voip-bez-pausalu
+
+  '
 post_date: 2005-03-10 09:26:12
+post_excerpt: ''
+published: true
+summary_points:
+- Fayn Free zrušil měsíční paušál, ale má aktivační poplatek 400 Kč.
+- Fayn Free hovorné není nejvýhodnější, spíše pro příchozí hovory na pevnou linku.
+- Fayn Free se vyplatí méně volajícím, původní tarif je výhodnější pro časté hovory.
+- Do konce měsíce je snížen aktivační poplatek pro klasický tarif Fayn na 99 Kč.
+title: 'Fayn Free – konečně VoIP bez paušálu
+
+  '
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/20050310-cedulka_faynfree.gif" alt="Fayn Free" width="122" height="114" /></div><a href="http://www.fayn.cz">Fayn</a> měl pro řadu lidí dlouho podstatnou nevýhodu – trval na měsíčním paušálu za používání svých služeb. Tahle nevýhoda v březnu konečně padla a Fayn Free nabízí příchozí číslo bez měsíčního paušálu. Drobnou nevýhodou je už jen aktivační poplatek 400 Kč (u Fayn s paušálem je o stovku menší), případně poplatek za konverzi z tarifního programu Fayn na Fayn Free ve stejné výši (což staré klienty Faynu jistě příliš nepotěší).</p>
 
 <p>Na tabulce vidíte, že samotné hovorné pro Fayn Free není nijak excelentně výhodné, ačkoliv oproti telekomáckému tarifu Home Mini s nejnižším paušálem jsou ceny zpravidla lepší. Pokud ale chcete telefonovat více, vyplatí se zůstat o původního tarifu, Fayn Free je opravdu spíše pro lidi, kteří mají pevnou linku (ne ADSL, protože tam jim už příchozí číslo ČTc protlačil) a chtějí na ní mít zdarma příchozí číslo. </p>

@@ -1,14 +1,24 @@
 ---
 ID: 1983
-title: 'DVB-T (digitální televize) rulez &#8211; jaké doporučujete DVB-T přijímače?'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dvb-t-digitalni-televize-rulez-jake-doporucujete-dvb-t-prijimace
-published: true
+oldlink: 'https://www.marigold.cz/item/dvb-t-digitalni-televize-rulez-jake-doporucujete-dvb-t-prijimace
+
+  '
 post_date: 2006-06-12 10:52:42
+post_excerpt: ''
+published: true
+summary_points:
+- DVB-T signál přináší křišťálově čistý obraz a více programů i v oblastech se slabším
+  analogovým signálem.
+- Ovládání DVB-T přijímače může být složitější než u běžné televize, často vyžaduje
+  více ovladačů.
+- Nastavení DVB-T přijímače je komplikované, problémy působí i nekvalitní překlady
+  menu a názvů programů.
+- Autor zvažuje nákup nového DVB-T přijímače a žádá o doporučení konkrétních modelů.
+title: DVB-T (digitální televize) rulez &#8211; jaké doporučujete DVB-T přijímače?
 ---
+
 <p><strong>Noname píše:</strong> tak jsem se konečně dostal k vyzkoušení digitálního vysílání a musím potvrdit, že je to bomba. 15 km za Prahou (Světice u Říčan), předtím signál ČT+Nova obstojný, Prima hodně zašuměný, po připojení DVB-T přijímače signál 10 televizí (navíc ČT24, ČT Sport, 24CZ, TopTV, Óčko a nějaká slovenská) křišťálově čistý - digitálně dokonalý.</p>
 
 <p>Přesto jsou tam i nějaké nevýhody:</p>

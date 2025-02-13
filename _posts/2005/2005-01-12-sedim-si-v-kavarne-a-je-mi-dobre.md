@@ -1,14 +1,21 @@
 ---
 ID: 1471
-title: 'Sedím si v&nbsp;kavárně a&nbsp;je mi dobře&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sedim-si-v-kavarne-a-je-mi-dobre
-published: true
+oldlink: 'https://www.marigold.cz/item/sedim-si-v-kavarne-a-je-mi-dobre
+
+  '
 post_date: 2005-01-12 07:55:42
+post_excerpt: ''
+published: true
+summary_points:
+- Léky a krevní testy absolvovány, autor snídá v kavárně Piccadily.
+- Televize do bytu sháněna v Datartu a Carrefouru, s obtížemi.
+- Levná televize nakoupena až pátý model, kvůli slevovým nájezdům.
+- Autor uvažuje o výprodeji SMS zpráv ve firmě Pipeline.
+title: Sedím si v&nbsp;kavárně a&nbsp;je mi dobře&#8230;
 ---
+
 <p>Právě jsem vypadl od doktora s další zásobou léků a se ztrátou hromady krve pro nejrůznější vyšetření. A protože jsem nesnídal, zašel jsem do kavárny Piccadily na budějovické na malou snídani. Sedím si tu, na komunikátoru vyřizuji firemní záležitosti, jen mobilní tiskárna mi chybí, abych mohl vystavenou fakturu rovnou také vytisknout a vedle na poště odeslat.</p>
 
 

@@ -1,14 +1,21 @@
 ---
 ID: 2039
-title: 'Drobky: Digit videocast, slevové kupony, WiFitastic a&nbsp;další směska'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-digit-videocast-slevove-kupony-wifitastic-a-dalsi-smeska
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-digit-videocast-slevove-kupony-wifitastic-a-dalsi-smeska
+
+  '
 post_date: 2006-11-10 21:58:18
+post_excerpt: ''
+published: true
+summary_points:
+- Digit komentuje IT události formou videocastu, což je soukromý projekt.
+- WiFiTastic nabízí provozování placených hotspotů pomocí upraveného routeru.
+- Retail Me Not poskytuje databázi slevových kódů pro americké internetové obchody.
+- Zamzar konvertuje data z různých obrazových, textových a video formátů zdarma.
+title: 'Drobky: Digit videocast, slevové kupony, WiFitastic a&nbsp;další směska'
 ---
+
 <texy>Chtěl bych zcela nesouvisle upozornit bez ladu a skladu na pár zajímavostí, které mi tu zatím ležely bez užitku, leč jsou pozornosti hodny. 
 
 Tak především Honza Březina a Petr Mára spustili už před nějakou dobou projekt <a href="http://www.digit.cz">Digit</a>, kde <b>komentují IT události formou videocastu</b>. Je to příjemný projekt a je vidět, že se střihem se oba rychle učí. A Petr Mára <a href="http://www.petrmara.com/blog/">má kromě toho blog</a>, který se mi líbí volbou témat. Digit je soukromým odlehčením života obou pánů, nemá žádnou souvislost s Grafika Publishing. Prostě si jen ulétávají na videu. Jen tak dále :)

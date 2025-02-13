@@ -1,14 +1,22 @@
 ---
 ID: 2962
-title: 'MQTT a&nbsp;Docker jako kořist pro Internet věcí z&nbsp;konference ThingMonk'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mqtt-a-docker-jako-korist-pro-internet-veci-z-konference-thingmonk
-published: true
+oldlink: 'https://www.marigold.cz/item/mqtt-a-docker-jako-korist-pro-internet-veci-z-konference-thingmonk
+
+  '
 post_date: 2014-12-04 16:04:56
+post_excerpt: ''
+published: true
+summary_points:
+- Michal, Vlasta a Vojta navštívili londýnský ThingMonk, hackerskou akci zaměřenou
+  na Internet věcí.
+- Docker, původně neznámá technologie, se díky ThingMonku posunul do mainstreamu.
+- MQTT protokol od IBM je využíván pro efektivní komunikaci mezi IoT zařízeními.
+- Británie aktivně podporuje IoT skrze vládní iniciativy pro rozvoj digitální ekonomiky.
+title: MQTT a&nbsp;Docker jako kořist pro Internet věcí z&nbsp;konference ThingMonk
 ---
+
 <p>Tento týden Michal s Vlastou a Vojtou vyrazili na akci ThingMonk do Londýna, tím je minula krásná ledovka na Moravě, ale zase si užili poněkud hackerskou akci věnovanou hlavně Internetu věcí, tedy *ajotám* - IoT. <a href="http://thingmonk.com">ThingMonk</a> je fajnová akcička mimo korportání konferenční mainstream a levotočivé inspirativní slámomlaty jako je TEDx. Zaměřuje se na *bleeding edge* technologie, což je takový překladatelský oříšek, nazval bych to technologie krev a mlíko, kdy nevíte, jestli převáží krev a na technologii vykrvácíte, nebo mléko a hezky se napapkáte. Zjednodušeně řečeno, jde o setkání lidí, kteří dělají s technologiemi tak novými, že Root o nich napíše za rok aktualitu. No a tam kluci vyrazili.</p>
 
 

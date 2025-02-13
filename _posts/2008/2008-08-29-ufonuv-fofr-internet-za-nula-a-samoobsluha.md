@@ -1,15 +1,25 @@
 ---
 ID: 2272
-title: 'U:fonův Fofr internet Za nula  a&nbsp;Samoobsluha'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Mobilní sítě
+- Ufon
+- CDMA
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ufonuv-fofr-internet-za-nula-a-samoobsluha
-published: true
+oldlink: 'https://www.marigold.cz/item/ufonuv-fofr-internet-za-nula-a-samoobsluha
+
+  '
 post_date: 2008-08-29 17:00:21
-categories: [Mobilní sítě, Ufon, CDMA]
+post_excerpt: ''
+published: true
+summary_points:
+- U:fon nabízí Fofr internet Za nula za 5 Kč/15 minut v CDMA síti.
+- Autor potřebuje mobilní internet pro notebook, O2 je drahé.
+- Fofr internet má strop 800 Kč měsíčně, modem lze koupit bazarový.
+- U:fon spustil samoobsluhu pro faktury a výpisy hovorů, O2 ji nemá.
+title: U:fonův Fofr internet Za nula  a&nbsp;Samoobsluha
 ---
+
 Jestli se mi U:fon s něčím trefil do noty, pak to byla jeho nabídka Fofr internetu s tarifem Za nula. Zopakujme si nabídku: přístup k internetu v CDMA síti s určitým pokrytím republiky je v ceně 5 Kč za 15 minut. Platí se pouze za uvedený čas, neplatí se za přenesená data nebo nějaký paušál. Jedinou další finanční podmínkou je nutnost zaopatřit si modem, který stojí 3000 Kč (200Kč sleva při nákupu v Ufon shopu).
 
 Proč mne nabídka zaujala a proč by se mohla líbit vám: mám data v iPhone za cca 150 Kč měsíčně, tím vyřídím většinu věcí, když jsem v terénu. Jenže občas potřebuji pracovat v terénu na notebooku. Nejrozumějším řešením by asi bylo pořídit si od O2 <a href="http://www.cz.o2.com/osobni/cz/telefony_a_zarizeni/modemy_a_data/detail.html?phoneId=538">Anydata modem</a>, co zvládá CDMA/3G/GPRS. Tím získává člověk asi nejkomplenější datové pokrytí. Cena 832 Kč měsíčně (s DPH) ovšem v mém případě neospravedlní to, jak málo to používám (cca 10 hodin měsíčně). Takže jsem se zatím připojoval přes 3G USB modem a O2, což jde v Praze, kde je 3G, ale kdekoliv v terénu je to nepoužitelné díky pomalosti GPRS. 

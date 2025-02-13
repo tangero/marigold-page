@@ -1,14 +1,22 @@
 ---
 ID: 1819
-title: 'Ha-vel volá ha-loo s&nbsp;novou VoIP službou, která vám zaplatí za příchozí hovor'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ha-vel-vola-ha-loo-s-novou-voip-sluzbou-ktera-vam-zaplati-za-prichozi-hovor
-published: true
+oldlink: 'https://www.marigold.cz/item/ha-vel-vola-ha-loo-s-novou-voip-sluzbou-ktera-vam-zaplati-za-prichozi-hovor
+
+  '
 post_date: 2005-09-14 16:57:53
+post_excerpt: ''
+published: true
+summary_points:
+- Ha-loo nová VoIP služba od Ha-vel zaměřená na drobné uživatele.
+- Registrace ha-loo zdarma, minimální kredit 100 Kč, platnost kreditu jeden rok.
+- Ha-loo nabízí 5 haléřů za minutu příchozího hovoru ke kreditu.
+- Ha-loo má dealerský program s provizemi z provolaných částek doporučených uživatelů.
+title: Ha-vel volá ha-loo s&nbsp;novou VoIP službou, která vám zaplatí za příchozí
+  hovor
 ---
+
 <p>Tento týden z VoIP novinek asi nevyjdeme. Ha-vel právě spouští novou verzi své VoIP nabídky, tentokráte zaměřenou spíše na drobnější uživatele (firemní VoIP služby nabízí ha-vel už docela dlouho), tedy pro telefonování z jednoho telefonu nebo počítače. Služba se jmenuje ha-loo (ano, počáteční H je stejně jako ve jménu firmy malé) a kromě toho, že je povedeně přítulná a postavená na standardním SIPu i rozumných cenách, má ještě jednu zvláštnost. Z každého příchozího hovoru dostanete pět haléřů za minutu ke svému kreditu. Navíc se snadno můžete stát ha-loo dealerem a vydělávat na tom, co uživatelé, které jste do služby přivedl, provolají. </p>
 
 <p>Ale popořádku. Registrace je zdarma, jen si můsite koupit kredit v minimální výši 100 Kč plus DPH, platnost kreditu není omezena, pokud alespoň jednou za rok provedete/přijmete hovor (po roce je služba zrušena). Při registraci je tu jedna finta - musíte si vybrat, v jakém telefonním obvodě číslo chcete. Přečetl jsem si větičku, že jsem zodpovědný za to, že si vyberu číslo z TO kde bydlím a že ponesu všechny následky, když tomu tak nebude. Zatěšil jsem se, že si registruji číslo v pardubickém TO, aby mi mohla mamka volat za lokální taxu, jsa připraven nést následky. Nicméně ha-vel mne od pošetilosti mého  jednání ochránil a registrační formulář pravil, že vyplňuji jiné bydliště, než kde chci mít číslo a že to mám uvésti do souladu. Takže jsem si registroval pražské číslo a bylo po zvířátkách. Třikráte tfuj směrem k regulátorovi za požadavek geografické souvislosti telefonních čísel... </p>

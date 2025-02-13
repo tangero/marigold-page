@@ -1,14 +1,23 @@
 ---
 ID: 2109
-title: Česko má první videofenomény
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesko-ma-prvni-videofenomeny
-published: true
+oldlink: 'https://www.marigold.cz/item/cesko-ma-prvni-videofenomeny
+
+  '
 post_date: 2007-05-27 09:14:27
+post_excerpt: ''
+published: true
+summary_points:
+- Noisebrothers jsou český videofenomén, který Stream zviditelnil a popostrčil.
+- Facka Miroslava Macka Davidu Rathovi nebyla řízená videoprodukce, tedy nebyla fenomén.
+- Stream hledá člověka pro práci s komunitami, vyžaduje znalost vyhledávačů a zájem
+  o video.
+- Práce s komunitami je obtížná kvůli nejasné legislativě, která znevýhodňuje české
+  firmy.
+title: Česko má první videofenomény
 ---
+
 Videofenomén je něco, co vzniká v oblasti video produkce řízeně a dostavá se tomu značné pozornosti. Ze světa známe řadu videofenoménů, od videoblogujícího důchodce, přes osmnáctku k nakousnutí, až po maníky natáčející videoklip na rozdivočeném náčiní z posilovny. U nás bylo zatím vymeteno. Tomu je konec. Lakmusovým papírkem pro mne je zájem mainstreamových médií, protože i když mi bylo už nějakou dobu jasno, kdo to bude, teprve mainstreamová média aprobují fakt, že se tak stalo. Tím, že si povšimnou. Ten český fenomén se jmenuje Noisebrothers. 
 
 Namítli byste, že první vteřiny mediální slávy přinesla česku "macka" - tedy facka Miroslava Macka Davidu Rathovi. Dlužno říci, že macka byla sice první, ale nesplňuje kritéria fenoménu. Za prvé to nebyla řízená videoprodukce, ačkoliv tady záleží na úhlu pohledu. A za druhé kdyby jeden z pánů nebyl v té krátké chvíli ministrem zdravotnictví a zároveň během té (naštěstí) krátké chvíle si národ neuvědomil, jak ubohý zoufalec to je, nebylo by se jí dostalo pozornosti. Dnes se oba pánové mohou fackovat po libosti a kromě povzdechů "více krve na obou stranách" by to asi více pozornosti nepřineslo. 

@@ -1,16 +1,25 @@
 ---
 ID: 2113
-title: >
-  U nových Google Analytics se nemůžu
-  dohledat pár funkcí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/u-novych-google-analytics-se-nemuzu-dohledat-par-funkci
-published: true
+oldlink: 'https://www.marigold.cz/item/u-novych-google-analytics-se-nemuzu-dohledat-par-funkci
+
+  '
 post_date: 2007-06-11 06:14:51
+post_excerpt: ''
+published: true
+summary_points:
+- Nové Google Analytics postrádají detailní report Entrance Paths, zobrazují jen deset
+  nejčastějších cest.
+- Textový export dat do HTML pro snadné kopírování do Excelu v nových Analytics chybí.
+- Funely, zobrazující cesty uživatelů, v nových Google Analytics chybí, Goals je nenahradí.
+- Autor hledá sofistikovanější alternativy Google Analytics, například eMerite nebo
+  ClickTracks.
+title: 'U nových Google Analytics se nemůžu dohledat pár funkcí
+
+  '
 ---
+
 Mějte mne za zkostnatělého, ale novým Google Analytics nemůžu nějak přijít na chuť. Ty starý byly sice ošklivější, ale v těch nových prostě nevím, jak se doklikat na data, která v těch starých byla na pár kliknutí. 
 
 Google Analytics jsou skvělý nástroj pro lidi, kteří holdují číslíčkům, což já jsem. A jsou mocné, pokud se v nich mocně orientujete. Starou verzi jsem znal po slepu. V nové to buďto neumím najít, nebo to tam není a jelikož přístup do staré verze asi brzy zmizí, bude mi ouvej. 

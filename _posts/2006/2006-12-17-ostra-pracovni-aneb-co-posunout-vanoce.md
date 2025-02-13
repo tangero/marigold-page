@@ -1,14 +1,21 @@
 ---
 ID: 2053
-title: 'Ostrá pracovní &#8211; aneb co posunout vánoce'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ostra-pracovni-aneb-co-posunout-vanoce
-published: true
+oldlink: 'https://www.marigold.cz/item/ostra-pracovni-aneb-co-posunout-vanoce
+
+  '
 post_date: 2006-12-17 08:56:15
+post_excerpt: ''
+published: true
+summary_points:
+- Firma zažívá náročnou pracovní atmosféru i v neděli večer.
+- Autor raději píše na Marigold než aby pracoval.
+- Autor poslouchá Assonanci a zdůrazňuje modlitbu, práci a poslušnost.
+- Vánoce se kvůli pracovnímu vytížení zvažují odložit o měsíc.
+title: Ostrá pracovní &#8211; aneb co posunout vánoce
 ---
+
 <texy>Ve firmě panuje hustá pracovní nálada. Na to, že je neděle, si dovoluju velký luxus psát v devět příspěvek na Marigolda, namísto abych se odharcoval do práce. 
 
 Takhle to nějak vypadá ve vstupu do podpalubí naší římské galéry: 

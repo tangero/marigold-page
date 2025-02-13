@@ -1,16 +1,27 @@
 ---
 ID: 1964
-title: >
-  Na čem se zadrhly nejmodernější
-  mobilní technologie
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/na-cem-se-zadrhly-nejmodernejsi-mobilni-technologie
-published: true
+oldlink: 'https://www.marigold.cz/item/na-cem-se-zadrhly-nejmodernejsi-mobilni-technologie
+
+  '
 post_date: 2006-04-25 15:24:12
+post_excerpt: ''
+published: true
+summary_points:
+- Ekosystém telekomunikací tvoří dodavatel, poskytovatel služby a zákazník, jejichž
+  prosperita je vzájemně propojená.
+- Nové technologie krachují kvůli špatné interoperabilitě, uživatelské zkušenosti
+  a nedostatečné substituci stávajících služeb.
+- MMS zprávy selhaly kvůli špatné uživatelské zkušenosti, složitému nastavení a nejistotě
+  doručení.
+- Nové technologie jako VoIP a WiMAX nevyřeší problémy telekomunikací rychle, adaptace
+  trvá roky.
+title: 'Na čem se zadrhly nejmodernější mobilní technologie
+
+  '
 ---
+
 <p>K <a href="/item/telekomunikace-jsou-tesne-pred-dalsi-bublinou">minulému článku</a> se objevilo tolik komentářů a dotazů jak emailem, tak pod článkem, že se pokusím na ně odpovědět nějak uceleněji. </p>
 
 <h4>Proč hovořím o „ekosystému“?</h4>

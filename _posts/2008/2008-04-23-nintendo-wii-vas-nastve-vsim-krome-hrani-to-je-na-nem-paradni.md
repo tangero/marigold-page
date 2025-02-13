@@ -1,17 +1,27 @@
 ---
 ID: 2224
-title: >
-  Nintendo Wii vás naštve vším. Kromě
-  hraní. To je na něm parádní
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Konzole
+- Hry
+- Nintendo
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nintendo-wii-vas-nastve-vsim-krome-hrani-to-je-na-nem-paradni
-published: true
+oldlink: 'https://www.marigold.cz/item/nintendo-wii-vas-nastve-vsim-krome-hrani-to-je-na-nem-paradni
+
+  '
 post_date: 2008-04-23 10:57:24
-categories: [Konzole, Hry, Nintendo]
+post_excerpt: ''
+published: true
+summary_points:
+- Wii nabízí hratelnost a přirozenější ovládání, ideální pro občasné hráče.
+- Grafika Wii je pohádková, záměrně se vyhýbá fotorealismu Xboxu.
+- Ovládání Wiimote je intuitivní, využívá pohybové senzory pro zaměřování a gesta.
+- Wii má omezené multimediální funkce a problematické internetové připojení v ČR.
+title: 'Nintendo Wii vás naštve vším. Kromě hraní. To je na něm parádní
+
+  '
 ---
+
 První bitva marigoldí války konzolí byla vybojována. Půjčený Xbox jsem vrátil (díky, Ivono!), chvíli jsem nad tím ještě špekuloval, dlouho porovnával Xbox a Playstation 3, až jsem se na to vykašlal a v pátek si koupil Nintendo Wii. Vsadil jsem na to, že to, co mi lidi říkali, je pravda, že je to prudce víc hratelné. Dovolte mi pár zkušeností, možná přijdou vhod i dalším váhajícím. 
 
 Už jsem psal, že jsem prototyp občasného hráče se všemi klady a zápory tohoto oboru. Profesionální gamesníci nade mnou ohrnou nos. Moje preference u konzole jsou prostě jiné. 

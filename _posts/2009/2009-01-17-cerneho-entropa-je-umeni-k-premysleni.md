@@ -1,15 +1,23 @@
 ---
 ID: 2321
-title: 'Černého Entropa JE umění k&nbsp;přemýšlení'
 author: Patrick Zandl
-post_excerpt: "Je to nebo není umění?"
+categories:
+- Umění
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cerneho-entropa-je-umeni-k-premysleni
-published: true
+oldlink: 'https://www.marigold.cz/item/cerneho-entropa-je-umeni-k-premysleni
+
+  '
 post_date: 2009-01-17 10:20:51
-categories: [Umění]
+post_excerpt: Je to nebo není umění?
+published: true
+summary_points:
+- Moderní umění má nutit k přemýšlení, což platí od starověku.
+- Entropa Davida Černého je moderní umění, protože nutí k zamyšlení.
+- Standardní česká skulptura by v Bruselu nikoho nezaujala.
+- Entropa ukazuje Evropu tak, jak ji vidí předsedající země.
+title: Černého Entropa JE umění k&nbsp;přemýšlení
 ---
+
 Mám pochybnosti o moderním umění, nejsem intelektuál a vzdělanec, <a href="/videl-jsem-moderni-umeni">nechápu ho</a>. Ale jestli jsem něčemu porozuměl od jeho zastánců, pak tomu, že moderní umění má nutit přemýšlet. Což ostatně mělo umění vždycky už od časů starého Egypta a Babylonu a není chybou tehdejších autorů, že jejich souvislosti nám dneska unikají. A v době, kdy se dokonale namalovaný obraz dá nahradit fotografií za dvě devadesát, musí umění spočívat na něčem jiném...
 
 Na Entropii Davida Černého se snesla hromada ohně a ledaskdo <a href="http://ideesfixes.blogspot.com/2009/01/emu-se-smjete.html">dává palec dolů</a>. Jenže jestli je něco moderní umění podle mého gusta, tak zrovna Černého Entropa. Proč?

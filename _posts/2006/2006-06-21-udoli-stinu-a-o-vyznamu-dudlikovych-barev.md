@@ -1,14 +1,21 @@
 ---
 ID: 1986
-title: 'Údolí stínu a&nbsp;o&nbsp;významu dudlíkových barev'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/udoli-stinu-a-o-vyznamu-dudlikovych-barev
-published: true
+oldlink: 'https://www.marigold.cz/item/udoli-stinu-a-o-vyznamu-dudlikovych-barev
+
+  '
 post_date: 2006-06-21 11:11:05
+post_excerpt: ''
+published: true
+summary_points:
+- Autor neměl inspiraci pro psaní, fotbal ho nezajímá a MS nesleduje.
+- Dcera Sofie se učí chodit a vyžaduje neustálou asistenci dospělých.
+- Sofie si vybírá dudlíky podle příležitosti a ladí je s oblečením.
+- Autorovi se líbí Google Picasaweb pro jednoduché sdílení fotografií online.
+title: Údolí stínu a&nbsp;o&nbsp;významu dudlíkových barev
 ---
+
 <p>Jeden z komentářů se tu ptá, zda je to ještě můj weblog. Baže, je. Ale nějak jsem neměl, co psát. O čem taky? O mistrovství světa ve fotbale jako Noname, když mne fotbal nezajímá? Dokonce si ani nemůžu vzpomenout, na kolik minut se hraje poločas, pokud je to vůbec poločas? Mám vás oblažit svým komentářem k utkání Ghana – Česko, jež jsem ze společenské nutnosti sledoval a u něhož si nejsem jistý, zda se český tým včas dozvěděl, že se hraje fotbal a ne hokej? Samozřejmě kromě našeho brankáře, který si program show přečetl dopředu, jenže pak mu nezbývalo, aby sekundoval azylovému táboru ghanských uprchlíků rozloženému před naší branou. Asi těžko, nejsem sportmachr a jestli dneska prohrajeme s Itálií a pojedeme domů, tak mne to rozladí v jediném ohledu – budu se bát, že skončí slevy na LCD televizory, přičemž ještě pořád nejsem rozhodnutý, že nějaký chci. </p>
 
 <p>Ploužím se rozpáleným městem a vybavuje se mi jméno filmu Údolí stínů. Nevím, o co tam šlo, v tom vedru je to jedno, ale stín, to zní dobře. Semo tamo zapínám v autě klimatizaci, ale spíš se snažím bez ní obejít, abych ji neodstonal. Užívám si toho, že dcera se právě učí chodit. Jak to vypadá? Tvrdě vyžaduje, aby jí lidé nastavili prst na každé ruce, ona se jich chytí a ťape. Jenže je to turbomyšička – během pár minut létá po bytě jako torpédo, doprovodná osoba za ní vlaje a po deseti minutách odpadá s vyhřezlou plotýnkou nebo ischiasem. Sofie neodpadá, dožaduje se pokračování do večera.  </p>

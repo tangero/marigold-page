@@ -1,14 +1,21 @@
 ---
 ID: 1638
-title: Je WiFi hype over?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/je-wifi-hype-over
-published: true
+oldlink: 'https://www.marigold.cz/item/je-wifi-hype-over
+
+  '
 post_date: 2005-05-09 09:38:41
+post_excerpt: ''
+published: true
+summary_points:
+- Autor o WiFi v poslední době nepíše, protože se v ní nic nového neděje.
+- Uvolnění 5 GHz pásma brzdí ČTÚ, což autora unavuje neustále opakovat.
+- Mobilní sítě s technologiemi HSDPA a EV-DO Revize A jsou nyní zajímavější.
+- Autor se přesunul k novým a zajímavějším tématům, protože WiFi zevšedněla.
+title: Je WiFi hype over?
 ---
+
 <p>Asi nejsem sám, kdo si všimnul, že v poslední době nepíšu příliš o WiFi. Po pravdě řečeno, není o čem. Všechno, co být řečeno mělo, už řečeno či napsáno bylo a nic moc nového se neobjevuje. Nová WiFi technika je variací na tu starou, Microsoft vydává WPA2 pro XP, zatímco se běžně nepoužívání ani WPA, prostě samé takové běžné procesy, které už je člověku líto i zapisovat. Nejbližší vyhlížený impuls pro WiFi je uvolnění 5 GHz pásma, jenže i tady je trapné stále dokola psát, že ČTÚ si našlo další výmluvu, proč ho neuvolnit a proč nás ochránit před rizikem špatného nákupu. Poté, co jsme si zvykli na revoluční posuny typu 802.11b -> 802.11g nebo WEP -> WPA nám ty drobné změny přijdou zanedbatelné a vypadá to, že se WiFi vyčerpalo. </p>
 
 <p>S Marigoldem jsem to vyřešil jednoduše. Přestal jsem o WiFi psát. Sice ho po očku sleduji, ale chápu, že článek o stodvacátémpátém modelu přístupového bodu s nachlup stejnými vlastnostmi i cenou, jako ty předchozí, mnoho lidí nezaujme. Dostavila se únava z kvantity a stejnosti. </p>

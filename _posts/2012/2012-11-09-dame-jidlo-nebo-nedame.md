@@ -1,15 +1,23 @@
 ---
 ID: 2567
-title: Dáme jídlo nebo nedáme?
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Startupy
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dame-jidlo-nebo-nedame
-published: true
+oldlink: 'https://www.marigold.cz/item/dame-jidlo-nebo-nedame
+
+  '
 post_date: 2012-11-09 14:39:14
-categories: [Startupy]
+post_excerpt: ''
+published: true
+summary_points:
+- DámeJídlo.cz je další pokus o donášku jídla v Česku, podpořený Slevomatem.
+- Český trh s donáškou jídla naráží na nízkou zvyklost objednávání a ceny.
+- Restaurace v Česku nejsou připravené na donášku, chybí koordinace a marže.
+- Praha má kupní sílu pro donášku, ale i tak si lidé našli vlastní cesty.
+title: Dáme jídlo nebo nedáme?
 ---
+
 <p>Několik mých poznámek k nově spuštěnému projektu <a href="http://www.damejidlo.cz">DámeJídlo.cz</a>. Není to ani první pokus a asi ani poslední, rozeběhnout v Česku donášku jídla přes internet a kdyby za ním nestál Slevomat, asi by mnoho vzrušení nevzbudil. Přes to, že je hezky udělaný. Prostě to není oblast, kde jsme zvyklí vidět peníze, což nemusí znamenat, že tam nejsou.</p>
 
 

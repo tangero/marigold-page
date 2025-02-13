@@ -1,14 +1,21 @@
 ---
 ID: 2027
-title: Budoucnost veletrhů
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/budoucnost-veletrhu
-published: true
+oldlink: 'https://www.marigold.cz/item/budoucnost-veletrhu
+
+  '
 post_date: 2006-10-16 16:01:42
+post_excerpt: ''
+published: true
+summary_points:
+- IT/Telco firmy dotazovány na účast na novém, levnějším veletrhu v Praze.
+- Invexu účast firem zjišťována, včetně historie a důvodů účasti/neúčasti.
+- Segmentace firem (consumer/business) a obor podnikání jsou klíčové statistické údaje.
+- Cíle prezentace a očekávané služby od výstaviště jsou kvalitativní otázky průzkumu.
+title: Budoucnost veletrhů
 ---
+
 <texy><p><strong>Noname píše:</strong> Měl bych dotaz na všechny zde přítomné zástupce IT/Telco firem. Situace: Představte si nový veletrh ala Invex, ovšem v Praze a prezentace by nestála 4 tisíce metr, ale řekněme 500 Kč/metr.</p>
 
 <ul>

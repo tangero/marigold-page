@@ -1,17 +1,32 @@
 ---
 ID: 2319
-title: >
-  Převod čísla od O2 má drobné
-  nástrahy (neb je dost zflikovaný)
 author: Patrick Zandl
-post_excerpt: "Po odchodu ze Streamu jsem se rozhodl, že se vrátím se svým mobilním číslem k Vodafone, mimo jiné proto, že v místech, která potřebuju, má lepší signál a zejména EDGE. A také proto, že tam většinu věcí vyřeším přes Samoobsluhu a ne telefonováním na nedobytnou infolinku. Toto jsem před vánoci vysvětlil pracovníkům obou firem, odeslal dotyčnou převodní esemesku a čekal. A čekal bych do skonání světa, kdyby mne po novém roce nenapadlo zavolat na infolinku O2 a přeptat se, v jakém stavu je převod čísla k Vodafone. "
+categories:
+- O2
+- Mobily
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prevod-cisla-od-o2-ma-drobne-nastrahy-neb-je-dost-zflikovany
-published: true
+oldlink: 'https://www.marigold.cz/item/prevod-cisla-od-o2-ma-drobne-nastrahy-neb-je-dost-zflikovany
+
+  '
 post_date: 2009-01-09 10:03:12
-categories: [O2, Mobily]
+post_excerpt: 'Po odchodu ze Streamu jsem se rozhodl, že se vrátím se svým mobilním
+  číslem k Vodafone, mimo jiné proto, že v místech, která potřebuju, má lepší signál
+  a zejména EDGE. A také proto, že tam většinu věcí vyřeším přes Samoobsluhu a ne
+  telefonováním na nedobytnou infolinku. Toto jsem před vánoci vysvětlil pracovníkům
+  obou firem, odeslal dotyčnou převodní esemesku a čekal. A čekal bych do skonání
+  světa, kdyby mne po novém roce nenapadlo zavolat na infolinku O2 a přeptat se, v
+  jakém stavu je převod čísla k Vodafone. '
+published: true
+summary_points:
+- Převodní SMS O2 musí být odeslána v pracovní době (9-16 hodin).
+- Potvrzovací SMS "Váš požadavek byl přijat" neznamená zahájení převodu čísla.
+- Pravidelné reporty o přenosu čísla od O2 je nutné sledovat.
+- Samoobsluha O2 je nedostatečná, nastavení služeb vyžaduje infolinku.
+title: 'Převod čísla od O2 má drobné nástrahy (neb je dost zflikovaný)
+
+  '
 ---
+
 Po odchodu ze Streamu jsem se rozhodl, že se vrátím se svým mobilním číslem k Vodafone, mimo jiné proto, že v místech, která potřebuju, má lepší signál a zejména EDGE. A také proto, že tam většinu věcí vyřeším přes Samoobsluhu a ne telefonováním na nedobytnou infolinku. Toto jsem před vánoci vysvětlil pracovníkům obou firem, odeslal dotyčnou převodní esemesku a čekal. A čekal bych do skonání světa, kdyby mne po novém roce nenapadlo zavolat na infolinku O2 a přeptat se, v jakém stavu je převod čísla k Vodafone. 
 
 Tam mi bylo sděleno, že jsem sice správně poslal převodní SMS a vyřídil všechny formality, ale už mi jaksi pán z O2 opomenul sdělit, že převodní SMS lze posílat jen v pracovní době, tedy do 16ti hodin, jinak nebude vyřízena. A navíc ideálně až druhý den poté, co jste se u operátorů stavili, protože jinak nemusí být ještě "zahájení převodu připraveno". 

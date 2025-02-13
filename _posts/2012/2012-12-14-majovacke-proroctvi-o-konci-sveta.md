@@ -1,15 +1,23 @@
 ---
 ID: 2583
-title: 'Májovácké proroctví o&nbsp;konci světa'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Společnost
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/majovacke-proroctvi-o-konci-sveta
-published: true
+oldlink: 'https://www.marigold.cz/item/majovacke-proroctvi-o-konci-sveta
+
+  '
 post_date: 2012-12-14 10:35:53
-categories: [Společnost]
+post_excerpt: ''
+published: true
+summary_points:
+- Muž četl bulvární článek o konci světa v Hospodářských novinách.
+- Vzpomínky na dětství a četbu Májovek ho na chvíli potěšily.
+- Digitální hodinky ukazovaly 23:59:59, ale vteřiny se začaly odpočítávat zpět.
+- Muž se soustředí na zítřejší poradu a potenciální povýšení, zatímco hvězdy pohasínají.
+title: Májovácké proroctví o&nbsp;konci světa
 ---
+
 <p>Odložil nedočtený výtisk Hospodářských novin a zaklonil hlavu. Nechtělo se mu o tom přemýšlet, byl rozmrzelý, že se nechal nalákat bulvárním titulkem o zítřejším konci světa a věnoval těm pár odstavcům svůj čas.</p>
 
 
