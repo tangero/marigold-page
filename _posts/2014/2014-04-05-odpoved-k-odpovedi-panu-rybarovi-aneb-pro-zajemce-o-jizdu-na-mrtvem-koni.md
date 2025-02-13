@@ -1,14 +1,22 @@
 ---
 ID: 2866
-title: 'Odpověď k&nbsp;odpovědi panu Rybářovi aneb pro zájemce o&nbsp;jízdu na mrtvém koni'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/odpoved-k-odpovedi-panu-rybarovi-aneb-pro-zajemce-o-jizdu-na-mrtvem-koni
-published: true
+oldlink: 'https://www.marigold.cz/item/odpoved-k-odpovedi-panu-rybarovi-aneb-pro-zajemce-o-jizdu-na-mrtvem-koni
+
+  '
 post_date: 2014-04-05 06:51:52
+post_excerpt: ''
+published: true
+summary_points:
+- Pan Rybář neuznal chybu s publikací článku bez jeho vědomí.
+- Předražený roaming blokuje vstup alternativních operátorů na trh.
+- Zisky operátorů z roamingu brzdí inovace a expanzi služeb.
+- Regulace trhu odstraňuje bariéry pro spravedlivé podnikání.
+title: Odpověď k&nbsp;odpovědi panu Rybářovi aneb pro zájemce o&nbsp;jízdu na mrtvém
+  koni
 ---
+
 <p>Pan Rybář <a href="https://jirirybar.wordpress.com/2014/04/04/kratka-odpoved-panu-zandlovi-ohledne-unijni-regulace-roamingu/">mi odpověděl</a>. Doufal jsem, že je politicky protřelejší, přizná se, že článek bez jeho vědomí pod jeho jménem publikovala externí sekretářka, kterou právě vyhodil, jak bývá v tomto případě dobrou tradicí. Neučinil tak, pokračuje na jízdě na mrtvém koni a kdo máte tu touhu, <a href="https://jirirybar.wordpress.com/2014/04/04/kratka-odpoved-panu-zandlovi-ohledne-unijni-regulace-roamingu/">můžete se přidat</a>. Já jen pro pořádek doplním to, co je i v učebnicích ekonomie. (<a href="http://www.marigold.cz/item/jak-funguje-business-s-roamingem-aneb-vysvetleni-pro-svobodneho-pana">můj iniciační článek je zde</a>)</p>
 
 
@@ -45,4 +53,3 @@ post_date: 2014-04-05 06:51:52
 <p>Závěrem: od pana Rybáře se bohužel neliším světonázorem, ale zkušeností, znalostí a záklopkou nemluvit o věcech, kterým se nevěnuju do detailu a na které mám jen názor. Názor má každý, ale rozhoduje znalost. Regulace roamingu je aplikace sto let starých ekonomických pouček, musíte je ovšem znát a musíte se trochu situaci na trhu věnovat, věru nejde o žádnou mystiku nebo magii. V případě žárovek <em>(kdo chce svobodně Zandla bíti, svítí si při tom žárovkou)</em> je ta poučka rovněž jednoduchá a jde o to, zda máte obavy z Ruska a závislosti na něm. Pokud ano (já), považujete “zákaz žárovek” za prkotinu. Pokud ne, nebo jste nepochopili, o co jde, tak vám to trhá žíly. </p>
 
 <p>Tím považuji jízdu na mrtvém koni za ukončenou a přeměřením ujeté vzdálenosti můžeme zjistit, že ke svobodnější společnosti jsme se nepohnuli ani o milimetr. Je ale dobré jednou za čas experimentálně ověřit, že sebevědomí znalost stále ještě nenahrazuje.  </p>
-

@@ -1,14 +1,21 @@
 ---
 ID: 2938
-title: 'Uber a&nbsp;Airbnb &#8211; jde o&nbsp;rovné podmínky v&nbsp;odvětví'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/uber-a-airbnb-jde-o-rovne-podminky-v-odvetvi
-published: true
+oldlink: 'https://www.marigold.cz/item/uber-a-airbnb-jde-o-rovne-podminky-v-odvetvi
+
+  '
 post_date: 2014-07-31 08:15:12
+post_excerpt: ''
+published: true
+summary_points:
+- Jirka Hlavenka kritizuje Uber a Airbnb za obcházení stávajících regulací.
+- Problémem je nerovnost podmínek mezi tradičními službami a novými platformami.
+- Licenční podmínky pro taxikáře ztrácejí smysl kvůli technologiím a hodnocením.
+- Hlavní výzvou je zdanění zisků, které unikají do zahraničí přes daňové ráje.
+title: Uber a&nbsp;Airbnb &#8211; jde o&nbsp;rovné podmínky v&nbsp;odvětví
 ---
+
 <p>Jirka Hlavenka publikoval na Živě <a href="http://www.zive.cz/clanky/rozbijte-internet-kdyz-taxikari-a-hotelieri-prichazi-o-byznys/sc-3-a-174763/default.aspx">článek věnovaný problémům s internetovými službami typu Airbnb (ubytování) nebo Uber (taxi)</a>. Jak tak čtu Facebook, lidé souboj těchto služeb a služeb původních či municipalit chápou jako boj nového se starým. Jenže to je špatné chápání. Jirka to ve článku zmiňuje, ale asi málo viditelně, takže to připomeňme. Problém, který mají s Uberem nebo Airbnb jednotlivé státy či města, je v tom, že tyhle firmy vstoupili do odvětví, ve kterém existují z nějakého důvodu určité podmínky, jenže oni se na ně vykašlali.</p>
 
 

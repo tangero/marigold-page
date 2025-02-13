@@ -1,14 +1,21 @@
 ---
 ID: 2796
-title: 'Mystérium eurounijní energetiky a&nbsp;zákazu žárovek'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mysterium-eurounijni-energetiky-a-zakazu-zarovek-2
-published: true
+oldlink: 'https://www.marigold.cz/item/mysterium-eurounijni-energetiky-a-zakazu-zarovek-2
+
+  '
 post_date: 2014-03-10 08:06:37
+post_excerpt: ''
+published: true
+summary_points:
+- Eurounijní zákaz žárovek vyvolal v Česku vášnivé diskuse kvůli dezinformacím.
+- Česká média často negativně prezentují EU bez hlubšího porozumění jejím funkcím.
+- Zákaz žárovek je součástí strategie EU na snížení energetické závislosti a úspory.
+- Přechod na úsporné svítidla má ekonomický smysl, ale provázely ho kvalitativní problémy.
+title: Mystérium eurounijní energetiky a&nbsp;zákazu žárovek
 ---
+
 <p>Nikdy by mne nenapadalo, že tak banální téma, jakým je eurounijní *zákaz žárovek*ßė, vzbudí tolik vášní mezi českými internetovými uživateli. Ale vzbuzuje. A protože v českých médiích k tomu nenajdete mnoho relevantních materiálů, rozhodl jsem se po vzrušené twitterové diskusi posloužit obsáhlejším výkladem. Termín *zákaz žárovek* budu nadále používat, i když je nesmyslný, ale v českých médiích zavedený, což si vysvětlíme později.</p>
 
 

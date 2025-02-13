@@ -1,14 +1,21 @@
 ---
 ID: 2773
-title: Bezpečnost ve světě Internetu věcí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezpecnost-ve-svete-internetu-veci
-published: true
+oldlink: 'https://www.marigold.cz/item/bezpecnost-ve-svete-internetu-veci
+
+  '
 post_date: 2014-02-03 08:23:08
+post_excerpt: ''
+published: true
+summary_points:
+- Internet věcí zvýší efektivitu spotřeby zdrojů při zachování životní úrovně.
+- Bezpečnostní hrozby zahrnují kompromitaci dat, útoky na infrastrukturu a prvky sítě.
+- Lokální oprávnění a anonymizace dat snižují riziko úniku informací.
+- Rostoucí výpočetní výkon zvyšuje potenciál pro sofistikované bezpečnostní hrozby.
+title: Bezpečnost ve světě Internetu věcí
 ---
+
 <p>Už jsem kdysi předesílal, že "Internet věcí" bude podle mého soudu významným intenzifikačním faktorem pro udržení životní úrovně při snížení spotřeby limitovaných zdrojů (tedy snížení spotřeby zdrojů na hlavu). Bude podobnou revolucí ve spotřebě, jako vynález výroby z plastů nebo v Číně. Což má jeden háček. Bezpečnostní.</p>
 
 

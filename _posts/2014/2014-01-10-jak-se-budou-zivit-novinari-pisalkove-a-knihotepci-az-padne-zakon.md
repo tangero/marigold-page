@@ -1,14 +1,21 @@
 ---
 ID: 2762
-title: 'Jak se budou živit novináři, pisálkové a&nbsp;knihotepci, až padne zákon'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-se-budou-zivit-novinari-pisalkove-a-knihotepci-az-padne-zakon
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-se-budou-zivit-novinari-pisalkove-a-knihotepci-az-padne-zakon
+
+  '
 post_date: 2014-01-10 17:04:20
+post_excerpt: ''
+published: true
+summary_points:
+- Autorská ochrana prochází změnami, což snižuje příjmy kreativců.
+- Hudebníci se uživí koncerty, spisovatelé nemají podobný zdroj příjmů.
+- Noviny a časopisy nabízejí nízké honoráře, nejsou stabilní obživou.
+- Firemní copywriting představuje budoucnost pro spisovatele na zakázku.
+title: Jak se budou živit novináři, pisálkové a&nbsp;knihotepci, až padne zákon
 ---
+
 <p>Považuji za danné, že způsob právní ochrany autorských děl projde brutální změnou, ať již legislativní, nebo - jako se teď děje ponejvíce - faktickou. Jejím výsledkem bude pokles výběrů peněz z autorských děl, což se děje už teď. A vždycky mě zajímalo, jak se s tím vyrovná trh, tedy, čím se budou dotyční kreativci živit. Zajímá mě to mimo jiné proto, že k psaní mám vždycky jednou nohou nakročeno a tak mě perspektiva oboru tíží.</p>
 
 

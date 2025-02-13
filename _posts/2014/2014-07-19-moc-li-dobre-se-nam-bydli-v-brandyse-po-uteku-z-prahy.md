@@ -1,14 +1,21 @@
 ---
 ID: 2925
-title: 'Moc-li dobře se nám bydlí v&nbsp;Brandýse po&nbsp;útěku z&nbsp;Prahy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/moc-li-dobre-se-nam-bydli-v-brandyse-po-uteku-z-prahy
-published: true
+oldlink: 'https://www.marigold.cz/item/moc-li-dobre-se-nam-bydli-v-brandyse-po-uteku-z-prahy
+
+  '
 post_date: 2014-07-19 18:03:52
+post_excerpt: ''
+published: true
+summary_points:
+- Stěhování do Brandýsa přineslo spokojenost, zejména pro děti a zahradu.
+- Silnice a chodníky v Brandýse jsou ve špatném stavu, což komplikuje život.
+- Služby a obchody mají omezenou otevírací dobu, ale jsou zde kvalitní restaurace.
+- Místní řemeslníci nabízejí příjemný přístup a nižší ceny než v Praze.
+title: Moc-li dobře se nám bydlí v&nbsp;Brandýse po&nbsp;útěku z&nbsp;Prahy
 ---
+
 <p>Do Brandýsa jsme se <a href="http://www.marigold.cz/item/konec-prahy-aneb-stehovani">stěhovali před téměř třemi lety</a>. A každý rok jsme chtěl napsat, jaké jsou zkušenosti skoropražáka, který se vystěhoval do středočeské obce. Nikdy to nevyšlo. Až teď, napastoval jsem parkety, posekal v tomhle vedru zahradu, zalil záhony a jsem schopen pohybovat maximálně prsty.</p>
 
 

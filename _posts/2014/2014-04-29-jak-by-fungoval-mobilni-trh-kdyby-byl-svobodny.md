@@ -1,14 +1,21 @@
 ---
 ID: 2875
-title: 'Jak by fungoval mobilní trh, kdyby byl &#8222;svobodný&#8220;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-by-fungoval-mobilni-trh-kdyby-byl-svobodny
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-by-fungoval-mobilni-trh-kdyby-byl-svobodny
+
+  '
 post_date: 2014-04-29 12:19:17
+post_excerpt: ''
+published: true
+summary_points:
+- Svoboda na trhu je omezena potřebou respektovat práva ostatních.
+- Mobilní trh bez regulace vede k chaosu a technologické nekompatibilitě.
+- Finanční nejistota brzdí rozvoj sítí a vyvolává spekulace.
+- Konsolidace trhu vede k monopolům a vysokým cenám služeb.
+title: Jak by fungoval mobilní trh, kdyby byl &#8222;svobodný&#8220;
 ---
+
 <p>Svoboda je relativní věc. Pokud si ji dopředu vymezíme, jako něco, co umožňuje dělat cokoliv, co nenarušuje cizí práva, dostáváme se do drobného problému, co jsou ta cizí práva.</p>
 
 

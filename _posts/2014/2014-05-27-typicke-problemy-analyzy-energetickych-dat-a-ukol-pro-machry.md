@@ -1,14 +1,21 @@
 ---
 ID: 2899
-title: 'Typické problémy analýzy energetických dat &#8211; a&nbsp;úkol pro machry'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/typicke-problemy-analyzy-energetickych-dat-a-ukol-pro-machry
-published: true
+oldlink: 'https://www.marigold.cz/item/typicke-problemy-analyzy-energetickych-dat-a-ukol-pro-machry
+
+  '
 post_date: 2014-05-27 14:01:15
+post_excerpt: ''
+published: true
+summary_points:
+- Velká data nejsou jen o výpočetním výkonu, ale o chytré analýze.
+- Analýza spotřeby elektřiny vyžaduje pokročilé znalosti statistiky a dat.
+- Rozpoznání spotřebičů z vteřinových dat je komplexní úkol.
+- Velká data zahrnují obrovský rozsah, složitost a téměř reálné zpracování.
+title: Typické problémy analýzy energetických dat &#8211; a&nbsp;úkol pro machry
 ---
+
 <p>Dneska jsem četl příjemný <a href="http://www.lupa.cz/clanky/jiri-hlavenka-velka-data-nebo-jenom-velky-prachy">článek Jiřího Hlavenky o Velkých Datech na Lupě</a>. Asi mu rozumím trochu jinak, než většina diskutujících pod ním. Velká Data se používají občas jako kladivo na špendlíky, to ale neznamená, že to není dobře.</p>
 
 

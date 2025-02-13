@@ -1,14 +1,25 @@
 ---
 ID: 2802
-title: 'Dodatek k&nbsp;žárovkovým protiargumentům'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dodatek-k-zarovkovym-protiargumentum
-published: true
+oldlink: 'https://www.marigold.cz/item/dodatek-k-zarovkovym-protiargumentum
+
+  '
 post_date: 2014-03-11 10:23:49
+post_excerpt: ''
+published: true
+summary_points:
+- Úsporky jsou ekonomicky výhodné i pro sklepy, ceny klesají.
+- Topení žárovkami je drahé, svícení a topení je lepší oddělit.
+- Úspory ze svícení jsou malé, ale v kombinaci s dalšími kroky významné.
+- Rtuť v úsporkách je kontrolována, LED jsou ekologičtější alternativou.
+- Recyklační poplatek za úsporky je zahrnut v prodejní ceně.
+- Regulace byla nutná, volný trh nevedl k cenové konkurenceschopnosti.
+- Životnost úsporek závisí na kvalitě, důležité jsou záruky.
+- Zákaz žárovek byl přijat demokraticky, účastnily se občanské organizace.
+title: Dodatek k&nbsp;žárovkovým protiargumentům
 ---
+
 <p>V <a href="http://www.marigold.cz/item/mysterium-eurounijni-energetiky-a-zakazu-zarovek-2">diskusi se hromadí další a další dotazy a výtky ke článku o zákazu žárovek</a>. Pokusím se to tady sumarizovat, diskuse je už hodně nepřehledná, protože probíhá na asi deseti místech, takže se pokusím to tady shrnout. Ty komičtější nebo méně důležité výtky neuvádím.</p>
 
 

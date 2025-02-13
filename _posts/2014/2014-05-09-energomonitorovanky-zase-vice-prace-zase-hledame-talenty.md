@@ -1,14 +1,24 @@
 ---
 ID: 2880
-title: 'Energomonitorovánky: zase více práce, zase hledáme talenty'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/energomonitorovanky-zase-vice-prace-zase-hledame-talenty
-published: true
+oldlink: 'https://www.marigold.cz/item/energomonitorovanky-zase-vice-prace-zase-hledame-talenty
+
+  '
 post_date: 2014-05-09 09:33:28
+post_excerpt: ''
+published: true
+summary_points:
+- Firma hledá nové zaměstnance na severní Moravě, hlavně pro vývojové centrum ve Valašském
+  Meziříčí.
+- Aktuálně zpracovávají tendry, zahraniční zakázky a vyvíjejí průmyslový tablet a
+  aplikace.
+- Hledají systémového administrátora, vývojáře frontendu, UX/UI designéra a projektového
+  manažera.
+- Platové ohodnocení závisí na schopnostech, preferují spolehlivost a samostatnost.
+title: 'Energomonitorovánky: zase více práce, zase hledáme talenty'
 ---
+
 Mám z toho občas depresi. Libovolné množství lidí jsme do firmy schopni pohltit. Vždycky si exaktně spočítáme, co kdo bude dělat a ono se zase najde další a další práce. 
 
 V současné době zpracováváme nové tendry, k tomu odbavujeme zahraniční zakázky a ladíme vývoj. Minulý týden jsme spustili novou verzi aplikace pro sledování spotřeby, která už vypadá zhruba tak, jak (prozatím) chceme. Do toho dokončujeme vývoj průmyslového tabletu a sady aplikací pro něj, jsme jedni z bláznů, co se montují do MQTT. Je to trochu frmol. Abychom ten frmol ustáli se ctí, hledáme další chytré lidi, kteří nám pomůžou to odpíchnout. Primárně na severní Moravě - tedy tak, aby se byli schopni dostat jednou, dvakrát týdně do Valašského Meziříčí, kde máme vývojové centrum. Což nás mimochodem dovedlo k tomu, že hledáme nějaké větší prostory a ve Valmezu není nabídka kancelářských prostor největší :)

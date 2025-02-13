@@ -1,16 +1,23 @@
 ---
 ID: 2928
-title: >
-  Každoroční pokušení odejít od
-  iPhone
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kazdorocni-pokuseni-odejit-od-iphone
-published: true
+oldlink: 'https://www.marigold.cz/item/kazdorocni-pokuseni-odejit-od-iphone
+
+  '
 post_date: 2014-07-23 09:33:40
+post_excerpt: ''
+published: true
+summary_points:
+- Autor zvažuje přechod z iPhonu na Android kvůli nižší ceně.
+- Potřebuje telefon pro práci, synchronizaci a základní funkce.
+- Sony a Xiaomi lákají, ale přechod vyžaduje čas a úpravy.
+- Přes pokušení se vždy vrátí k iPhonu pro jeho jednoduchost.
+title: 'Každoroční pokušení odejít od iPhone
+
+  '
 ---
+
 <p>Vždycky je to taková chvíle pokušení. Zbavit se iPhone. Procházím ceníky mobilů a zírám, co si člověk pořídí za pár šlupek ve světě Androidu. Pak ke mě dorazí nějaký prototyp od androidího klienta a já znejistím. Je to pořád takový problém, nebo je to prototypem?</p>
 
 

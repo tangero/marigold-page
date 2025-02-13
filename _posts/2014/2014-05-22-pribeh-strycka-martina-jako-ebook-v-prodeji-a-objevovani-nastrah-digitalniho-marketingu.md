@@ -1,14 +1,22 @@
 ---
 ID: 2892
-title: 'Příběh strýčka Martina jako ebook v&nbsp;prodeji a&nbsp;objevování nástrah digitálního marketingu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pribeh-strycka-martina-jako-ebook-v-prodeji-a-objevovani-nastrah-digitalniho-marketingu
-published: true
+oldlink: 'https://www.marigold.cz/item/pribeh-strycka-martina-jako-ebook-v-prodeji-a-objevovani-nastrah-digitalniho-marketingu
+
+  '
 post_date: 2014-05-22 09:31:31
+post_excerpt: ''
+published: true
+summary_points:
+- Ebook Příběh strýčka Martina je k dispozici na Palmknihách za 199 Kč.
+- Cena knihy ovlivňuje prodejnost, příliš nízká nebo vysoká cena škodí.
+- Marketing digitálních knih je složitý a vyžaduje detailní znalost trhu.
+- Tištěná verze knihy je omezená a dostupná pouze pro předchozí objednávky.
+title: Příběh strýčka Martina jako ebook v&nbsp;prodeji a&nbsp;objevování nástrah
+  digitálního marketingu
 ---
+
 Včera se na Palmknihách konečně objevila finální verze ebooku mého Příběhu strýčka Martina, takže, pokud máte odvahu jít do netradiční knihy, <a href="https://www.palmknihy.cz/web/kniha/pribeh-strycka-martina-12714.htm">můžete vesele nakupovat</a>. Ebook funguje na všech běžných platformách, v nabídce formátů si jistě vyberete. A dejte pak vědět, jak se kniha ne/líbila :)
 
 Začít prodávat elektronickou knihu, to ale není jen tak. K tomu je dneska potřeba zpracovat marketingový plán a k věci přistoupit s vážností, jinak autor spláče nad výdělkem. Navíc, neboť digitální knihy jsou mladé dílo, je většina marketingových aktivit takový průzkum bojem. A to já rád. A jaké jsou prozatimní zkušenosti?
