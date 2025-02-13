@@ -1,16 +1,23 @@
 ---
 ID: 1885
-title: >
-  Wayfinder navigace – tak trochu
-  otestováno
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wayfinder-navigace-tak-trochu-otestovano
-published: true
+oldlink: 'https://www.marigold.cz/item/wayfinder-navigace-tak-trochu-otestovano
+
+  '
 post_date: 2005-12-05 11:26:45
+post_excerpt: ''
+published: true
+summary_points:
+- Wayfinder používá Nokia GPS modul s kompatibilní nabíječkou pro Series 60.
+- Wayfinder stahuje vektorové mapy za jízdy přes GPRS, což šetří paměť.
+- Navigace neumí vybírat alternativní trasy, což je zásadní nedostatek.
+- Online mapy Wayfinderu jsou aktuální a zahrnují i novější kruhové objezdy.
+title: 'Wayfinder navigace – tak trochu otestováno
+
+  '
 ---
+
 <p>GPS navigaci Wayfinder mám už nějakou tu chvíli, ale pár recenzí už jsem na ni četl, takže mi nepřišlo vhodné něco o ní psát. Ale teď o víkendu jsem si s ní hrál trochu více a také jsem tu četl ookovy nářky, takže přeci jen. </p>
 
 <p>Wayfinder mám ve verzi pro Series 60, mám k tomu Nokia GPS modul, protože doma používám především Nokia telefony a tak se mi hodí konektorová kompatibilita (nabíječka), ačkoliv připojení funguje i s PDA přes bluetooth. </p>

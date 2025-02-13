@@ -1,14 +1,22 @@
 ---
 ID: 1308
-title: 'Oficiální stanovisko ČTÚ k&nbsp;Nečekanému paušálu a&nbsp;internetu na geografických číslech'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oficialni-stanovisko-ctu-k-necekanemu-pausalu-a-internetu-na-geografickych-cislech
-published: true
+oldlink: 'https://www.marigold.cz/item/oficialni-stanovisko-ctu-k-necekanemu-pausalu-a-internetu-na-geografickych-cislech
+
+  '
 post_date: 2004-09-09 13:47:08
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ potvrdil nelegálnost internetu na geografických číslech dle Číslovacího plánu.
+- Přístup k internetu přes veřejnou telefonní síť smí být jen na číslech 971/976.
+- Firmám poskytujícím internet na geografických číslech hrozí vysoké pokuty.
+- ČTÚ omezuje i zahraniční připojení a RAS, což vyvolává pochybnosti o smysluplnosti.
+title: Oficiální stanovisko ČTÚ k&nbsp;Nečekanému paušálu a&nbsp;internetu na geografických
+  číslech
 ---
+
 <p>
 Dorazila mi oficiální odpověď ČTÚ na můj dotaz týkající se legálnosti provozu připojení k internetu na geografických číslech:</p>
 

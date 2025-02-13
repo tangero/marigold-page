@@ -1,14 +1,22 @@
 ---
 ID: 1435
-title: 'Internet pro všechny hlásí: &#8220;Kampaň na bezdráty pokračuje&#8221;'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/internet-pro-vsechny-hlasi-kampan-na-bezdraty-pokracuje
-published: true
+oldlink: 'https://www.marigold.cz/item/internet-pro-vsechny-hlasi-kampan-na-bezdraty-pokracuje
+
+  '
 post_date: 2004-12-07 17:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Internet pro všechny databáze bezdrátových sítí obsahuje 194 sítí a roste.
+- Uživatelé často chybně vyplňují registrační formulář, zejména ceník a popis sítě.
+- Provozovatelé bezdrátových sítí zanedbávají webovou prezentaci a chybí základní
+  informace.
+- Internet pro všechny spouští slovenskou verzi databáze bezdrátových sítí.
+title: 'Internet pro všechny hlásí: &#8220;Kampaň na bezdráty pokračuje&#8221;'
 ---
+
 <p>
 Článek Míly Sovy, který jsem zmínil ve svém včerejším příspěvku a měl vyjít na Mobil serveru z neznámých důvodů nevyšel a tak si jej dovolím umístit sem. IMHO přináší pár zajímavých informací, např. spuštění seznamu Wi-Fi sítí pro Slovenskou republiku.</p>
 

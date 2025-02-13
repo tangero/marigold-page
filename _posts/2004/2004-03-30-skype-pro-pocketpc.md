@@ -1,14 +1,21 @@
 ---
 ID: 954
-title: Skype pro PocketPC
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/skype-pro-pocketpc
-published: true
+oldlink: 'https://www.marigold.cz/item/skype-pro-pocketpc
+
+  '
 post_date: 2004-03-30 08:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- Skype testuje beta verzi VoIP softwaru pro PocketPC 2003 s WiFi.
+- PocketPC zařízení mají výpočetní výkon, WiFi a mikrofon pro VoIP telefonování.
+- GPRS připojení pro VoIP na PocketPC zatím nebylo testováno.
+- VoIP není standard, takže operátoři se nemusí bát o datové paušály.
+title: Skype pro PocketPC
 ---
+
 <p>
 Skype vypouští tento týden do uzavřených betatestů <STRONG>verzi svého VoIP telefonovacího software pro platformu PocketPC.</STRONG> Požadavek na testery zní PocketPC 2003 s 400 MHz procesorem a s WiFi, jímž se připojuje do internetu. Zatím není jasné, kdy se verze pro PocketPC dostane na veřejnost, ale dobré alespoň je to, že se chystá. Zdroj: <A href="http://forum.skype.com/bb/viewtopic.php?t=2471" target=_blank>Skype fórum</A>.</p>
 

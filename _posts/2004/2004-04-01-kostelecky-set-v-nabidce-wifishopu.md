@@ -1,14 +1,21 @@
 ---
 ID: 960
-title: 'Kostelecký set v&nbsp;nabídce WiFishopu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kostelecky-set-v-nabidce-wifishopu
-published: true
+oldlink: 'https://www.marigold.cz/item/kostelecky-set-v-nabidce-wifishopu
+
+  '
 post_date: 2004-04-01 08:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- Kostelecký set WiFishopu nabízí kompletní balíček pro výrobu WiFi antény.
+- 'Set se prodává ve dvou variantách: Plné (s párky) a Prázdné (bez párků).'
+- Cena plné verze je 99 Kč, prázdné 49 Kč, obě bez DPH.
+- CzFree fórum diskutuje o levnější výrobě a nabízí burzu plechovek.
+title: Kostelecký set v&nbsp;nabídce WiFishopu
 ---
+
 <p>
 <IMG height=250 alt="Kostelecký set WiFishopu" src="/wp-content/uploads/kosteleckyset.gif" width=250 align=right>Dnešní přehled WiFi novinek začneme nabídkou Kosteleckého setu z <A href="http://www.wifishop.cz/" target=_blank>WiFishopu</A>. Jde o <STRONG>kompletní balíček pro výrobu laciné antény pro WiFi založené na oblíbené kostelecké technologii.</STRONG> V setu kromě anténního jádra najdete také N konektor a kabel. </p>
 

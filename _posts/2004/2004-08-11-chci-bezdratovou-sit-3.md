@@ -1,14 +1,21 @@
 ---
 ID: 1244
-title: Chci bezdrátovou síť! (3)
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chci-bezdratovou-sit-3
-published: true
+oldlink: 'https://www.marigold.cz/item/chci-bezdratovou-sit-3
+
+  '
 post_date: 2004-08-11 00:01:00
+post_excerpt: ''
+published: true
+summary_points:
+- Hot-spoty umožňují připojení k internetu na veřejných místech jako hotely a letiště.
+- Nomadix firma stála u zrodu hot-spotů v roce 1998.
+- Bezdrátové hot-spoty jsou typicky vnitřní prostory, ale i venkovní areály.
+- Vnitřní bezdrátová síť pro domácnost stojí rozumně 1000-1500 Kč na klienta.
+title: Chci bezdrátovou síť! (3)
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040810-hotspoty.jpg" alt="Trhy pro bezdrátové sítě" width="210" height="173" /></div><p>
 V minulém díle jsme si rozebrali nejdůležitější termíny spjaté s bezdrátovými sítěmi, poslední co bych chtěl vysvětlit je pojem &#8220;<strong>hot-spot</strong>&#8221;. Máte-li libovolné další dotazy na nějaké nejasnosti ohledně názvosloví a podobně, dejte vědět v diskusi, pokusím se odpovědět.</p>
 <p>

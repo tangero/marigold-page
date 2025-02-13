@@ -1,14 +1,21 @@
 ---
 ID: 887
-title: 'WiMax &#8211; pozor na ten přehnaný optimismus'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wimax-pozor-na-ten-prehnany-optimismus
-published: true
+oldlink: 'https://www.marigold.cz/item/wimax-pozor-na-ten-prehnany-optimismus
+
+  '
 post_date: 2004-02-27 14:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiMax deklaruje rychlost 70 Mb/s a dosah 40 km, ale sdíleně.
+- Přímá viditelnost je pro WiMax žádoucí, navzdory deklarované absenci nutnosti.
+- WiMax technika bude zpočátku drahá, neklesne brzy na úroveň WiFi.
+- Autor varuje před přehnaným optimismem ohledně rychlého nástupu WiMaxu.
+title: WiMax &#8211; pozor na ten přehnaný optimismus
 ---
+
 <p>
 <IMG height=250 alt="Paul Otellini, prezident Intelu" src="/wp-content/uploads/cannes-2004-ottelini.jpg" width=164 align=right border=1>Na konferenci <STRONG>v Cannes hovořil prezident Intelu Paul Otellini velmi nadšeně o WiMax</STRONG>. Po konferenci se mne hodně lidí z ptalo, zda je to fakt tak růžové a proč vlastně existují 3G sítě, když je tu WiMax. Jenže zázraky se v radiových technologiích nedějí. WiMax je nesporně zajímavá technologie, ale není to žádný zázrak, má své limity jako každá radiová technologie a je potřeba si je uvědomit. </p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 1119
-title: >
-  Linksys WRT54G zvládne bandwidth
-  management
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-wrt54g-zvladne-bandwidth-management
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-wrt54g-zvladne-bandwidth-management
+
+  '
 post_date: 2004-06-02 09:35:54
+post_excerpt: ''
+published: true
+summary_points:
+- Sveasoft vydal firmware pro Linksys WRT54G s řízením rychlosti uživatelů.
+- Firmware se instaluje přes web administraci a přidává nové funkce.
+- Nastavení rychlosti je shodné pro WiFi/LAN porty, lze penalizovat priority.
+- Alternativy pro úpravu routerů zahrnují projekty EWRT a WiFi Box.
+title: 'Linksys WRT54G zvládne bandwidth management
+
+  '
 ---
+
 <p>
 Ptá se na to řada lidí dnes a denně - jak omezit rychlost lidí připojených přes WiFi nebo LAN a sdílejících jednu linku? Zatím bylo potřeba instalovat softwarový router na Linuxu, pokud jste se chtěli udržet v nějaké rozumné cenové relaci. Nyní je to o něco jednodušší. Firmička Sveasoft vydala vlastní firmware pro Linksys WRT54G, ve kterém se mimo řadu dalších zajímavých funkcí nachází i jednoduché, ale docela praktické řízení rychlosti připojených uživatelů. </p>
 

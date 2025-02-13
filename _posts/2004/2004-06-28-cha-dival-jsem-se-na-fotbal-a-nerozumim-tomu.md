@@ -1,14 +1,21 @@
 ---
 ID: 1173
-title: 'Cha, díval jsem se na fotbal a&nbsp;nerozumím tomu&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cha-dival-jsem-se-na-fotbal-a-nerozumim-tomu
-published: true
+oldlink: 'https://www.marigold.cz/item/cha-dival-jsem-se-na-fotbal-a-nerozumim-tomu
+
+  '
 post_date: 2004-06-28 09:21:51
+post_excerpt: ''
+published: true
+summary_points:
+- Dita považuje vypravěče za nenormálního, protože nekonzumuje fotbal a pivo.
+- Fotbalový poločas trvá 45 minut plus nastavený čas, což vypravěče překvapilo.
+- Vypravěč nechápe, proč fotbalisté nepoužívají vysílačky pro lepší komunikaci.
+- Použití vysílaček ve fotbale by mohlo být zakázané nějakým předpisem.
+title: Cha, díval jsem se na fotbal a&nbsp;nerozumím tomu&#8230;
 ---
+
 <p>
 Dita včera pravila, že nejsem normální chlap, že normální mužský by si měl pustit televizi, vytáhnout z ledničky pivo a čučet na fotbal a ne si číst o OFDM modulaci signálu ve vícecestném prostředí. Chtěl jsem vyhovět, tak jsem si pustil fotbal, na který jsem v televizi koukal naposledy tak před deseti lety někde na návštěvě - jen na to pivo jsem nějak neměl žaludek. </p>
 <p>

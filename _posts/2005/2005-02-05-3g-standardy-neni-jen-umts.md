@@ -1,14 +1,21 @@
 ---
 ID: 1514
-title: '3G standardy &#8211; není jen UMTS'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3g-standardy-neni-jen-umts
-published: true
+oldlink: 'https://www.marigold.cz/item/3g-standardy-neni-jen-umts
+
+  '
 post_date: 2005-02-05 11:14:47
+post_excerpt: ''
+published: true
+summary_points:
+- UMTS je pouze jeden z několika existujících 3G mobilních systémů.
+- ITU standard IMT-2000 zahrnuje technicky odlišné 3G standardy.
+- Mezi plnohodnotné 3G standardy patří W-CDMA, CDMA2000 a TD-SCDMA.
+- Existují čtyři mírně odlišné 3G technologie, podobně jako u 2G sítí.
+title: 3G standardy &#8211; není jen UMTS
 ---
+
 <p>Přehled jednotlivých standardů sítí třetí generace. To proto, abyste věděli, že 3G sítě nejsou jen UMTS.
 </p>
 
@@ -180,4 +187,3 @@ prosazují do Evropy i do CDMA2000, prostě si důkladně užívají problémy
 svého standardu. A opačně. Proto například náskok jednoho výrobce v
 produkci CDMA2000 telefonů neznamená, že jsou jeho šance na trhu UMTS
 mobilů o to vyšší. </p>
-

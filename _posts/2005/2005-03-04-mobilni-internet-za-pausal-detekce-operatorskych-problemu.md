@@ -1,14 +1,21 @@
 ---
 ID: 1563
-title: 'Mobilní internet za paušál: detekce operátorských problémů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-internet-za-pausal-detekce-operatorskych-problemu
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-internet-za-pausal-detekce-operatorskych-problemu
+
+  '
 post_date: 2005-03-04 07:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- Paušální mobilní internet v Evropě a USA měl datová omezení.
+- České nelimitované připojení bylo v zahraničí překvapivé a nepochopitelné.
+- Mobilní paušál zatěžuje sítě a komplikuje zisk z datových služeb.
+- Zrušení datového paušálu by poškodilo PR, ale situace se zlepší do roku 2010.
+title: 'Mobilní internet za paušál: detekce operátorských problémů'
 ---
+
 <p>Když mobilní operátoři představili mobilní internet za paušál, dokonce jsem měl chvíli dojem, že tohle nemůže vydržet dlouho. Pokud britský Orange dává internet za paušál, myslí tím 100 MB dat, v lepším případě u 3G sítě 500 MB dat v ceně a na veliké reklamě to má napsáno maličkým písmem jako dodatek k tomu, abyste věděli… </p>
 
 <p> V amerických sítích bývají o něco štědřejší a někteří operátoři o limitu nemluví vůbec. Když se jich zeptáte proč, tak proto, že uživatelé většinou přenesou nějaké "rozumné" množství dat typu půl giga. Zejména proto, že je nenapadne používat připojení přes mobil jako náhradu fixního připojení, každý uživatel se s chutí doma přepne na DSL a v práci na pevnou linku. </p>

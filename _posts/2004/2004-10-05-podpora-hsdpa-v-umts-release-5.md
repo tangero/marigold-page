@@ -1,15 +1,27 @@
 ---
 ID: 1347
-title: 'Podpora HSDPA v&nbsp;UMTS Release 5'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- UMTS
+- 3G
+- Turboúvod do mobilních sítí
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/podpora-hsdpa-v-umts-release-5
-published: true
+oldlink: 'https://www.marigold.cz/item/podpora-hsdpa-v-umts-release-5
+
+  '
 post_date: 2004-10-05 12:55:38
-categories: [UMTS, 3G, Turboúvod do mobilních sítí]
+post_excerpt: ''
+published: true
+summary_points:
+- HSDPA upgrade UMTS sítí je teoreticky jednoduchý, sdílí zdroje a vyžaduje úpravy
+  NodeB.
+- NodeB úpravy pro HSDPA vyžadují aktualizaci basebandu a zpracování MAC-hs, často
+  softwarově.
+- Klíčové elementy HSDPA zahrnují HS-DSCH, rychlé plánování, H-ARQ a adaptivní modulaci.
+- HSDPA v UMTS Release 5 nabízí teoretickou sdílenou rychlost až 14,4 Mb/s.
+title: Podpora HSDPA v&nbsp;UMTS Release 5
 ---
+
 <p>
 HSDPA jako další štace ve zrychlování UMTS dat je podle některých producentů za rohem a je dokonce pravděpodobné, že české UMTS sítě s HSDPA odstartují. Tedy, pokud se všechno stihne, že …</p>
 
@@ -42,4 +54,3 @@ V praxi se počítá, že maximální propustnost UMTS Rel99 je na makrocele zhr
 
 <p>
 Termín HSDPA se naučte, protože pro UMTS a jeho další naděje do budoucna je to jedna z nejčastěji vzývaných manter v boji o rychlodatovou mobilní přízeň… </p>
-

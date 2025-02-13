@@ -1,14 +1,21 @@
 ---
 ID: 1848
-title: 'Poetické seznamování s&nbsp;Mečíkem'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/poeticke-seznamovani-s-mecikem
-published: true
+oldlink: 'https://www.marigold.cz/item/poeticke-seznamovani-s-mecikem
+
+  '
 post_date: 2005-10-17 10:33:17
+post_excerpt: ''
+published: true
+summary_points:
+- Mac Mini je pro autora vhodný pracovní nástroj, nikoliv objekt chlubení.
+- Ergonomie Mac OS X je přirozenější než Windows, i pro konvertity.
+- Dock v Mac OS urychluje spouštění aplikací a interakci s nimi.
+- Mac OS má standardizované prostředí, usnadňující ovládání programů.
+title: Poetické seznamování s&nbsp;Mečíkem
 ---
+
 <p>￼￼￼Mám ho vybalený víkend a jsem nadšen. Je to něco  jiného, než Windows XP a zatím těžko soudit, nakolik jsem nadšen  z objevování nového a nakolik z toho, co jsem objevil, ale stejně  je to vhodná příležitost napsat několik prvních dojmů.</p>
 
 <p>Na otázku, proč si koupit Mac Mini, je logická odpověď: proč ne.  Neměřím svůj počítač podle toho, zda má nejnovější  grafickou kartu nebo nejpřetaktovatelnější procesor mezi těmi  nejnepřetaktovávatelnějšími (28 znaků na slovo!). Můj  počítač má před sebou jiná kritéria, protože je to můj  pracovní nástroj, nikoliv nástroj k hospodskému chlubení. Což  znamená, že má vyhovovat především mně.</p>

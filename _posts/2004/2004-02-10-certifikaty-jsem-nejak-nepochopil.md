@@ -1,14 +1,21 @@
 ---
 ID: 847
-title: 'Certifikáty jsem nějak nepochopil&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/certifikaty-jsem-nejak-nepochopil
-published: true
+oldlink: 'https://www.marigold.cz/item/certifikaty-jsem-nejak-nepochopil
+
+  '
 post_date: 2004-02-10 17:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Osobní certifikát pro ověření identity je skvělá myšlenka s problematickou realizací.
+- České certifikační autority účtují za osobní certifikát průměrně 500 Kč.
+- Platnost certifikátu je pouze jeden rok, prodloužení stojí opět 500 Kč.
+- Certifikát má pro osobní použití malé uplatnění a je finančně nevýhodný.
+title: Certifikáty jsem nějak nepochopil&#8230;
 ---
+
 <p>
 Přemýšlel jsem už delší dobu o tom, že bych si pořídil osobní certifikát, aby se dalo ověřovat, že email či dokument jsem odeslal opravdu já. Přijde mi to výborná myšlenka, úžasná a prostá. Tedy až na malou drobnost. Na její obchodní realizaci. </p>
 

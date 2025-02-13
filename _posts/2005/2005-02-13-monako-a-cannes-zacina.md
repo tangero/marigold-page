@@ -1,14 +1,21 @@
 ---
 ID: 1525
-title: 'Monako a&nbsp;Cannes začíná'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/monako-a-cannes-zacina
-published: true
+oldlink: 'https://www.marigold.cz/item/monako-a-cannes-zacina
+
+  '
 post_date: 2005-02-13 20:04:49
+post_excerpt: ''
+published: true
+summary_points:
+- Monako je drahý daňový ráj s drahými byty a přístavem jachet.
+- GSM kongres v Cannes se stěhuje do Barcelony kvůli vysokým cenám.
+- Kongres 3GSM se zaměří na vysokorychlostní data HSDPA a mobilní obsah.
+- Autor se setkal se švédem z japonské firmy a diskutovali o broadbandu.
+title: Monako a&nbsp;Cannes začíná
 ---
+
 <p>Ráno jsme se po snídani zabalili a vyrazili jsme do Monaka, protože do odpoledne, kdy začínají registrace, nebylo beztak co dělat. V neděli jsou pouze fóra členů GSM Asociace, což nikdo z nás není a vstup novinářům je tam zakázán.</p>
 <p> 
 Monako je taková malá ospalá díra zajímavá snad jen tím, že je daòovým rájem. Jenže získat tady občanství, to znamená mít tu byt a protože je Monako maličkým městem, jsou tu byty pekelně drahé a namačkané prakticky kdekoliv to jde. Jak to zhruba vypadá, vidíte na fotce - fotka zachycuje prakticky celé Monako. K Monaku samozřejmě patří jachtičky a přístav jachet, pokrytí WiFi sítí, protože někteří z majitelů jachet ještě nejsou rentiéři a musí občas i pracovat. Bohužel jsme WiFi neměli zaplaceno, takže no access. </p>

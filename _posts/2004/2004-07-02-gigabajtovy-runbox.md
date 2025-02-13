@@ -1,14 +1,21 @@
 ---
 ID: 1180
-title: Gigabajtový Runbox
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/gigabajtovy-runbox
-published: true
+oldlink: 'https://www.marigold.cz/item/gigabajtovy-runbox
+
+  '
 post_date: 2004-07-02 11:32:55
+post_excerpt: ''
+published: true
+summary_points:
+- Runbox.com nabízí placený email s 100 MB prostoru za 30 dolarů ročně.
+- Služba Runbox zahrnuje spolehlivý provoz, spam filtr, antivirus a různé přístupy.
+- Google aktivita s gigabajty zdarma Runbox příliš neovlivnila.
+- Runbox navýšil uživatelům prostor na 1 GB pro email a 100 MB pro data.
+title: Gigabajtový Runbox
 ---
+
 <p>
 Mám placenou emailovou schránku u <a href="http://www.runbox.com/">Runbox.com</a> - za 100 MB prostoru platím asi 30 dolarů ročně. Platím za to, že mi ta schránka funguje (a funguje fest dobře), nemusím se o nic starat, mám tam ostrý spam filtr, antivirus, dostatek místa a možnost ukládat soubory, jakož i přístup přes kdeco (wap, imap, web, fastweb, https atd). </p>
 <p>

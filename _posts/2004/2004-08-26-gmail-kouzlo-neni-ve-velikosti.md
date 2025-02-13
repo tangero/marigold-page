@@ -1,14 +1,23 @@
 ---
 ID: 1275
-title: 'GMail &#8211; kouzlo není ve velikosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/gmail-kouzlo-neni-ve-velikosti
-published: true
+oldlink: 'https://www.marigold.cz/item/gmail-kouzlo-neni-ve-velikosti
+
+  '
 post_date: 2004-08-26 09:06:22
+post_excerpt: ''
+published: true
+summary_points:
+- GMail nabízí automatické shlukování emailů podle odesilatele a tématu pro přehlednější
+  konverzace.
+- Labely v GMailu fungují jako intuitivnější pohledy na zprávy, umožňující vícenásobné
+  zařazení.
+- Hledání v GMailu je rychlé a efektivní, okamžitě nachází cokoliv v emailové schránce.
+- GMailu chybí možnost nastavit vlastní odchozí emailovou adresu, pouze Reply-To adresu.
+title: GMail &#8211; kouzlo není ve velikosti
 ---
+
 <p>
 Dlouhou dobu jsem <a href="http://gmail.google.com">GMailu</a> - emailové schránce od Google - odolával. Jeden GB prostoru je sice lákavá věc, jenže po pravdě řečeno mám stejnou kapacitu u RunBox.com, mám hromadu dalších kapacit u různých hosterů, ve firmě i na vlastním serveru a prakticky nikdy to nevyužívám, protože si poštu stáhnu přes POP3 a zpracuji v The Bat. Jenže s velkým množstvím pošty se pracuje stále hůře a prakticky nejvíce na The Batu oceňuji jednoduché i silné vyhledávání. A GMail slibuje právě s tímhle pomoci. Tak jsem od <a href="http://www.zpravy.net/weblog/archiv/0408/5-pozvanek-do-gmailu-uplne-zdarma.php">Petra Weidy</a> dostal pozvánku na GMail (registrovat se nejde) a už tři dny si nechám všechnu poštu směrovat tam. </p>
 <p>

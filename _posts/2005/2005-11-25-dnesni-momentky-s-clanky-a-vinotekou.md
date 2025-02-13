@@ -1,14 +1,21 @@
 ---
 ID: 1876
-title: 'Dnešní momentky s&nbsp;články a&nbsp;vinotékou'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dnesni-momentky-s-clanky-a-vinotekou
-published: true
+oldlink: 'https://www.marigold.cz/item/dnesni-momentky-s-clanky-a-vinotekou
+
+  '
 post_date: 2005-11-25 10:55:55
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa dnes zveřejnila článek o Pipay.cz a autorův článek o výdělečnosti serverů.
+- Chronomag slaví první výročí a dokazuje, že nové weby mohou být ziskové.
+- Autor se bál PR obvinění, ale článek o Chronomagu byl čtenáři chválen.
+- Autor nakoupil dvanáct lahví vína na Sofiinu půlroční oslavu díky zdatné prodavačce.
+title: Dnešní momentky s&nbsp;články a&nbsp;vinotékou
 ---
+
 <p>Dneska Lupa vypadá, jako moje příloha. Kromě <a href="http://www.lupa.cz/clanek.php3?show=4528">článku J. Peterky o naší službě Pipay.cz </a>tam vyšel i <a href="http://www.lupa.cz/clanek.php3?show=4529">můj článek o tom</a>, zda ještě dnes mohou vzniknout výdělečné servery. Píšu tam o zkušenostech s Chronomagem. Chronomag právě slaví první výročí existence a na to, že šlo o takový pokusný projekt, má za sebou zajímavé výsledky, které mne stále přesvědčují o tom, že nové internetové servery, které na sebe vydělají, vznikat mohou i u nás - pokud je do vínku nezatížíte rozpočtem v řádu milionů. </p>
 
 <p>Historie článku je docela legrační. Sliboval jsem ho Lupě delší dobu, jenže po nedávné smršti, kdy si na Lupě kdekdo stěžoval na kdejaký článek, že je to PR, jsem se jeho dodání začal vzpírat, protože se mi nechtělo číst v diskusi, že si dělám PR na Chronomag. Nakonec mne Aleš Miklík ukecal a článek jsem včera pozdě v noci dodal s tím, že se případně přizná, že si ho opravdu Lupa v této podobě obědnala. </p>

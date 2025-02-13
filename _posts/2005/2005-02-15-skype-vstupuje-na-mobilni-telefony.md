@@ -1,14 +1,21 @@
 ---
 ID: 1530
-title: Skype vstupuje na mobilní telefony
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/skype-vstupuje-na-mobilni-telefony
-published: true
+oldlink: 'https://www.marigold.cz/item/skype-vstupuje-na-mobilni-telefony
+
+  '
 post_date: 2005-02-15 08:30:49
+post_excerpt: ''
+published: true
+summary_points:
+- i-Mate bude přidávat Skype do svých produktů.
+- Motorola podepsala dohodu se Skype pro integraci do mobilů.
+- VoIP fenomén bude diskutován na přednáškách v Cannes.
+- Telekomunikační společnosti se obávají nástupu Skype volání.
+title: Skype vstupuje na mobilní telefony
 ---
+
 <p>Zatím byl Skype jen na osobních počítačích a PDA. Včera dopoledne
 potvrdil výrobce zařízení i-Mate, že bude Skype přidávat do svých
 produktů a odpoledne na tiskové konferenci nám potvrdil i šéf mobilní

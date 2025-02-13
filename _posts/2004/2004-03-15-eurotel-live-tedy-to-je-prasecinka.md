@@ -1,14 +1,21 @@
 ---
 ID: 918
-title: 'Eurotel Live! &#8211; tedy, to je prasečinka&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-live-tedy-to-je-prasecinka
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-live-tedy-to-je-prasecinka
+
+  '
 post_date: 2004-03-15 10:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel Live registrace probíhá v pohodě, ale přihlášení není na portálu vidět.
+- Výběr Java her je malý a objednání her je nejasné a komplikované.
+- Navigace webem Eurotel Live je zmatečná a nepřehledná, připomíná firemní web.
+- Eurotel Live působí roztříštěně, jako sbírka starších služeb bez koncepce.
+title: Eurotel Live! &#8211; tedy, to je prasečinka&#8230;
 ---
+
 <p>
 Nerad vypadám, že musím do všeho rýpat, jenže v případě Eurotel Live! se nezdržím toho, abych si nerýpnul. Službu jsem si aktivoval pro svoji Go kartu (můžete ji mít aktivní i bez Eurotel telefonu, jen se registrovat, jestli jsem to dobře pochopil, pak ale logicky nemůžete ovládat služby spojené s Eurotel mobilem).</p>
 

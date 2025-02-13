@@ -1,13 +1,19 @@
 ---
 ID: 876
-title: Siemens tisková konference
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/siemens-tiskova-konference
-published: true
+oldlink: 'https://www.marigold.cz/item/siemens-tiskova-konference
+
+  '
 post_date: 2004-02-24 13:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Siemens odhaduje, že v roce 2010 budou 2/3 uživatelů mobilů zařízení.
+- Siemens je v Evropě číslo 2, v Rusku a Brazílii číslo 1 v GSM.
+- G sítě mají dvojnásobnou rychlost nástupu zákazníků oproti GSM sítím.
+- Siemens se bude soustředit na klasický tvar telefonů, véčka výjimečně.
+title: Siemens tisková konference
 ---
 
 Tiskovou konferenci Motoroly jsem z poloviny zasabotoval a prchnul z ní, protože se tam nedalo sednout, byl tam vydýchaný zvuk a nebylo nic vidět, jen při maximální snaze slyšet. Díky tomu jsem v předstihu dorazil na Siemens tiskovku a zaujal strategické místo, protože situace s narváním se zde opakovala. A protože jsem měl možnost si v tomto případě si něco zapisovat, podívejme se na pár zajímavých momentů ze Siemens presentace. 

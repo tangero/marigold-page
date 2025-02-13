@@ -1,14 +1,21 @@
 ---
 ID: 1220
-title: 'Drobky: CDMA v&nbsp;pondělí, iTunes v&nbsp;Motorolách, nový weblog, RFID'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-cdma-v-pondeli-itunes-v-motorolach-novy-weblog-rfid
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-cdma-v-pondeli-itunes-v-motorolach-novy-weblog-rfid
+
+  '
 post_date: 2004-07-28 07:39:43
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel v pondělí představí mobilní internetové připojení přes CDMA EV-DO.
+- Motorola a Apple spolupracují na iTunes pro mobily, detaily spolupráce nejasné.
+- Petr Koubský, šéfredaktor Inside, spustil weblog na adrese http://akabelog.blogspot.com.
+- Na Lupě vyšel první díl článku o bezdrátových identifikačních čipech RFID.
+title: 'Drobky: CDMA v&nbsp;pondělí, iTunes v&nbsp;Motorolách, nový weblog, RFID'
 ---
+
 <p>
 Vypadá to, že se dočkáme - v pondělí Eurotel oficiálně představí nabídku svého <strong>mobilního připojení k internetu přes CDMA EV-DO</strong>. Bude k tomu tisková konference, přemýšlím, že bych se tam měl stavit, abych to alespoň oficiálně a na vlastní oči viděl. Ale už je to tak profláknuté, že otázkou je, co dodat...</p>
 <p>

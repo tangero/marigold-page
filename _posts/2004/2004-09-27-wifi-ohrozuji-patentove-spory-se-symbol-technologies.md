@@ -1,16 +1,25 @@
 ---
 ID: 1335
-title: >
-  WiFi ohrožují patentové spory se
-  Symbol Technologies
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-ohrozuji-patentove-spory-se-symbol-technologies
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-ohrozuji-patentove-spory-se-symbol-technologies
+
+  '
 post_date: 2004-09-27 08:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Symbol Technologies bude požadovat poplatky za patenty WiFi, první platí Proxim
+  23 milionů USD.
+- Power Save funkce, standardní součást čipových sad, je patentovaná společností Symbol.
+- Proxim prohrál spor o zrušení patentů Symbolu a platí poplatky za jejich užívání.
+- Cisco/Linksys, velký výrobce WiFi, je dalším potenciálním cílem vymáhání patentových
+  poplatků.
+title: 'WiFi ohrožují patentové spory se Symbol Technologies
+
+  '
 ---
+
 <p>
 Společnost Symbol Technologies oznámila, že bude požadovat poplatky od výrobců WiFi techniky za své patenty. A prvním, kdo jí peníze zaplatí, je Proxim. Ten uhradí za rok 2003 celkem 23 milionů dolarů za porušení patentových práv Symbolu. </p>
 

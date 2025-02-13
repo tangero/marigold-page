@@ -1,14 +1,21 @@
 ---
 ID: 1671
-title: 'Skype novinky: verze 1.3, videopodpora a&nbsp;další'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/skype-novinky-verze-1-3-videopodpora-a-dalsi
-published: true
+oldlink: 'https://www.marigold.cz/item/skype-novinky-verze-1-3-videopodpora-a-dalsi
+
+  '
 post_date: 2005-06-05 19:20:24
+post_excerpt: ''
+published: true
+summary_points:
+- Skype vydal betaverzi 1.3 2. června 2005 s mnoha známými problémy.
+- Nová verze Skype umožňuje zanechat vzkaz i uživatelům bez záznamníku.
+- USA vede v počtu Skype uživatelů, následují Polsko, Taiwan a Čína.
+- CERN zakázal Skype kvůli P2P architektuře obcházející firewally.
+title: 'Skype novinky: verze 1.3, videopodpora a&nbsp;další'
 ---
+
 <p>Skype vydal betaverzi 1.3 s datem 2. června 2005. Zatím není úplně jasné, proč ji vydal - seznam <a href="http://www.skype.com/help/guides/knownproblems.html#1.3">známých problémů</a> obsahuje čtrnáct položek, z nichž některé jako vytížení procesoru na 100% v neidentifikovaných případech, nejsou zrovna povzbudivé. </p>
 
 <p>Ale novinky jsou docela zajímavé. Uživatelé záznamové služby nyní mohou nechat vzkaz komukoliv, i když on sám nemá záznamník.  Dále došlo ke změnám grafickým - byla odstraněna titulní stránka programu Skype Start, namísto ní jsou informace rozmístěny do Events a Services. Plus nové emotikony a lepší editace vlastních údajů včetně lepší fotky Zdroj: <a href="http://share.skype.com/blog/products_and_services/skype_for_windows_1.3_beta_available/#readmore">Share Skype</a>.</p>

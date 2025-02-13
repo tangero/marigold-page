@@ -1,14 +1,21 @@
 ---
 ID: 1287
-title: Dokonalé weby mne děsí. Vás ne?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dokonale-weby-mne-desi-vas-ne
-published: true
+oldlink: 'https://www.marigold.cz/item/dokonale-weby-mne-desi-vas-ne
+
+  '
 post_date: 2004-09-01 07:43:06
+post_excerpt: ''
+published: true
+summary_points:
+- Marigoldovy úpravy od Radka Hulána autor vnímá pozitivně, ale s obavami.
+- Autor nedůvěřuje JavaScriptu a složitým webovým prvkům, snižují prý klikanost.
+- Dokonalé weby budí v autorovi nedůvěru, působí draze a odlidštěně.
+- Autor preferuje weby, kde je vidět lidský přístup a účelnost nad dokonalostí.
+title: Dokonalé weby mne děsí. Vás ne?
 ---
+
 <p>
 Radek Hulán updatoval systém i vzhled pro Marigolda a ihned jsem dostal řadu stížností. Sám považuji úpravy za vedoucí k lepšímu, i když chápu, že drobné problémy rozladí – a jsem rád, že je Radek provedl. Přesto mne Marigold začíná děsit. </p>
 

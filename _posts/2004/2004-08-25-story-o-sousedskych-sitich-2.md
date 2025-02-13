@@ -1,14 +1,21 @@
 ---
 ID: 1271
-title: 'Story o&nbsp;sousedských sítích (2.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-2
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-2
+
+  '
 post_date: 2004-08-25 10:57:12
+post_excerpt: ''
+published: true
+summary_points:
+- Obec v Ústeckém kraji s osadami a 1500 obyvateli má slabou kupní sílu.
+- Autor plánuje v osadách vybudovat WiFi síť s páteřními směrovými spoji.
+- Pro směrové spoje autor zvažuje PC s Linuxem a hardwarová AP pro uživatele.
+- Hlavní problém je nízký počet potenciálních uživatelů a financování provozu sítě.
+title: Story o&nbsp;sousedských sítích (2.)
 ---
+
 <p>
 Včera jsme probrali první, nejjednodušší kauzu. Přeskočme teď na kauzu třetí. Třetí kauza představuje největší výzvu (americky řečeno). </p>
 <p>

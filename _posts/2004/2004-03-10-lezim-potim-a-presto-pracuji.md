@@ -1,14 +1,21 @@
 ---
 ID: 910
-title: 'Ležím, potím (a&nbsp;přesto pracuji)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lezim-potim-a-presto-pracuji
-published: true
+oldlink: 'https://www.marigold.cz/item/lezim-potim-a-presto-pracuji
+
+  '
 post_date: 2004-03-10 10:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- Horečka ustupuje, autor doma léčí čajem a acylpirinem, pracuje z postele.
+- Autor dokončil dvě zakyslé smlouvy, i přes "vykašlaný" hlas při jednání.
+- Autor obdržel pozvánku na SDR fórum, zvažuje účast kvůli dalším akcím.
+- Článek Petra Koubského v Respektu pojednává o zániku autorského práva.
+title: Ležím, potím (a&nbsp;přesto pracuji)
 ---
+
 <p>
 Ještě jsem dneska zůstal doma - horečka je otravná, sice ustupuje, ale tak snadno jsem se jí nezbavil. Vyžahnul jsem doma všechny dostupné acylpiriny, tři velká balení čaje a potím se v posteli. Protože mám mírnou zminici, beru si do postele notebook, pěkně hřeje a sympaticky vrčí, skoro jako kočky - jenže na jejich chlupy jsem alergický a kýchat už se mi opravdu nechce. </p>
 

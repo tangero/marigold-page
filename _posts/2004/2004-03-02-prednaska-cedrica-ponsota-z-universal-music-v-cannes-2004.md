@@ -1,14 +1,22 @@
 ---
 ID: 894
-title: 'Přednáška Cédrica Ponsota z&nbsp;Universal Music v&nbsp;Cannes 2004'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prednaska-cedrica-ponsota-z-universal-music-v-cannes-2004
-published: true
+oldlink: 'https://www.marigold.cz/item/prednaska-cedrica-ponsota-z-universal-music-v-cannes-2004
+
+  '
 post_date: 2004-03-02 08:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobil nenahradí fotoaparáty, kamery ani MP3 přehrávače kvůli mizerné kvalitě.
+- Mobilní telefony zůstávají primárně hlasovými zařízeními, i vyzvánění je hlasová
+  služba.
+- Obsah pro mobily musí být originální, ne jen kopie jiných distribučních kanálů.
+- Vyzváněcí melodie generovaly 4 miliardy USD, hudební průmysl dostal jen 10%.
+title: Přednáška Cédrica Ponsota z&nbsp;Universal Music v&nbsp;Cannes 2004
 ---
+
 <p>
 O přednášce presidenta Universal Music Cédrica Ponsota na letošním 3GSM kongresu v Cannes jsem již pochvalně psal, jen mne tak napadlo, že by ještě stálo za to napsat, čím mne tak zaujala. Na Lupě po mne chtěli článek věnovaný zamyšlení nad službou Eurotel Jukebox a tam jsem pár postřehů z Ponsotovy přednášky zmínil, doporučuji k přečtení: <A href="http://www.lupa.cz/clanek.php3?show=3252" target=_blank>Distribuce hudby do mobilu? Nesmysl. Zatím. Skoro.</A></p>
 

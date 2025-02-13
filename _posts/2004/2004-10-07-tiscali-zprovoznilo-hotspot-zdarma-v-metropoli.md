@@ -1,14 +1,21 @@
 ---
 ID: 1351
-title: 'Tiscali zprovoznilo hotspot zdarma v&nbsp;Metropoli'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tiscali-zprovoznilo-hotspot-zdarma-v-metropoli
-published: true
+oldlink: 'https://www.marigold.cz/item/tiscali-zprovoznilo-hotspot-zdarma-v-metropoli
+
+  '
 post_date: 2004-10-07 13:08:16
+post_excerpt: ''
+published: true
+summary_points:
+- Metropole Zličín má nový Wi-Fi hotspot od Tiscali.
+- Tiscali hotspot se nachází nad Food Courtem v Metropoli Zličín.
+- Připojení k internetu přes Tiscali Wi-Fi je v pilotním provozu zdarma.
+- Hotspot pokrývá plochu 1500 m2 ve Food Courtu Metropole Zličín.
+title: Tiscali zprovoznilo hotspot zdarma v&nbsp;Metropoli
 ---
+
 <p>
 Když jsem se nedávno potuloval po nákupním centru Metropole se svým WiFi Finderem, odhalil jsem tam signál. Ale než jsem se tam vypravil s notebookem, přišla mi tisková zpráva z Tiscali - oni tam instalovali hotspot a je zdarma. Tisková zpráva píše:</p>
 

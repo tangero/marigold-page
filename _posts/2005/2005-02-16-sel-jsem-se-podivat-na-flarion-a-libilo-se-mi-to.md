@@ -1,14 +1,21 @@
 ---
 ID: 1537
-title: 'Šel jsem se podívat na Flarion &#8211; a&nbsp;líbilo se mi to'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sel-jsem-se-podivat-na-flarion-a-libilo-se-mi-to
-published: true
+oldlink: 'https://www.marigold.cz/item/sel-jsem-se-podivat-na-flarion-a-libilo-se-mi-to
+
+  '
 post_date: 2005-02-16 00:21:01
+post_excerpt: ''
+published: true
+summary_points:
+- Flexband od Flarionu se líbil autorovi v Cannes.
+- T-Mobile ČR by mohl Flexband koupit pro síť 872 MHz.
+- HSDPA Nortelu a Lucentu ani CDMA EV-DO Rel A nezaujaly.
+- Flexband je technicky nejlepší, navržený pro daný účel.
+title: Šel jsem se podívat na Flarion &#8211; a&nbsp;líbilo se mi to
 ---
+
 <p>V Cannes jsem se šel podívat na technologii Flexband, kterou
 americký Flarion možná prodá českému T-Mobile pro jeho síť v pásmu 872
 MHz. Přítomný flarionista všechny moje narážky na toto téma hrdinně

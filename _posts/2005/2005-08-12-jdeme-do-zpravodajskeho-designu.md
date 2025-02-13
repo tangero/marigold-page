@@ -1,14 +1,23 @@
 ---
 ID: 1764
-title: Jdeme do zpravodajského designu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jdeme-do-zpravodajskeho-designu
-published: true
+oldlink: 'https://www.marigold.cz/item/jdeme-do-zpravodajskeho-designu
+
+  '
 post_date: 2005-08-12 08:27:32
+post_excerpt: ''
+published: true
+summary_points:
+- Mobil server začínal jako odkazovník na nezávislé sekce, nikoliv jako zpravodajský
+  web.
+- Čtenáři Mobil serveru brzy požadovali centralizaci odkazů na aktualizované články.
+- Inspirováni News.com zavedli zpravodajský design s perexy článků na titulní stránce
+  v roce 1997.
+- Diskusní fóra pod články zavedl Mobil server v roce 1997, inspirován CGI scriptem.
+title: Jdeme do zpravodajského designu
 ---
+
 <p>Jak už jsem řekl, design Mobil serveru v prvních měsících neměl se zpravodajským vzhledem nic do činění, titulní stránka byla odkazovníkem na samostatné, jednoduše vedené rubriky. Nebylo to samoúčelné, původně jsme server chápali jako spojení nezávislých stránek, navíc jsme vůbec nepočítali s nějakým zpravodajstvím. Pouze jsme hodlali udržovat seznamy telefonů, přehled operátorských služeb a jejich ceníky, tedy všechno to, co operátoři ani výrobci mobilů na internetu v té době neměli. Každý z nás tří tedy měl na starosti svoji „sekci“ a tam si řádil po libosti. Jenže už krátce po neoficiálním startu v listopadu 96 a ještě silněji po tom oficiálním v lednu 97 se ukázalo, že tohle uspořádání není šťastné. Lidem se nechtělo procházet nezávisle na sobě aktualizované sekce a protože si všimli, že každá z těch sekcí se aktualizuje minimálně jedou týdně, chtěli, abychom odkazy na aktualizace centralizovali.
 </p>
 

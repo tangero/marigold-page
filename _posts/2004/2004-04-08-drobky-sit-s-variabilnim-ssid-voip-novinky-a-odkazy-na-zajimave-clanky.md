@@ -1,14 +1,22 @@
 ---
 ID: 974
-title: 'Drobky: síť s&nbsp;variabilním SSID, VoIP novinky a&nbsp;odkazy na zajímavé články'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-sit-s-variabilnim-ssid-voip-novinky-a-odkazy-na-zajimave-clanky
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-sit-s-variabilnim-ssid-voip-novinky-a-odkazy-na-zajimave-clanky
+
+  '
 post_date: 2004-04-08 08:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- Broadreach Networks nabízí ISP sdílenou WiFi síť s vlastním SSID pro snížení nákladů.
+- BroadVoice je poskytovatel internetové telefonie s voláním do ČR od 1,35 Kč/min.
+- V Česku vzniká server iPhone.cz zaměřený na VoIP od tvůrců WiFionline.net.
+- Mobil.cz recenzuje chytrý telefon Xplore G88 s PalmOS 4.1, který nedoporučuje.
+title: 'Drobky: síť s&nbsp;variabilním SSID, VoIP novinky a&nbsp;odkazy na zajímavé
+  články'
 ---
+
 <p>
 Broadreach Networks přišel se zajímavou nabídkou pro ISP - nabízí jim svoji <STRONG>WiFi síť, která může poskytovat SSID dle libosti ISP.</STRONG> To je zajímavý a podle mne smysluplný systém - místo toho, aby se ve vzduchu pralo několik nevyužívaných WiFi sítí, každý ISP si může přidat svoje SSID (=síť se tváří, jako jeho) a náklady na výstavbu jsou podstatně menší. Podrobnosti v <A href="http://biz.yahoo.com/bw/040406/65369_1.html" target=_blank>TZ na Yahoo</A>.</p>
 

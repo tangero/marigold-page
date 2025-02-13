@@ -1,14 +1,21 @@
 ---
 ID: 1743
-title: 'Jak nám hackli Mobil server (a&nbsp;taky pár dalších serverů)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-nam-hackli-mobil-server-a-taky-par-dalsich-serveru
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-nam-hackli-mobil-server-a-taky-par-dalsich-serveru
+
+  '
 post_date: 2005-07-29 06:59:01
+post_excerpt: ''
+published: true
+summary_points:
+- Rok 1997 zasáhl hack na server, MaMedia, Seznam a další.
+- Hackování je průnik do systému bez souhlasu uživatele.
+- Skupina CzERT hacknula MaMedia a zveřejnila data uživatelů Warez fóra.
+- Hacknutí Mobil.cz vedlo ke smazání dat a odsouzení hackování.
+title: Jak nám hackli Mobil server (a&nbsp;taky pár dalších serverů)
 ---
+
 <p>Rok 1997 nám přinesl ještě jedno nemilé překvapení. Na náš server se dostal hacker a pořádně nám zatopil. A nejenom k nám, ale i na MaMedia, Seznam a další servery. Jak k tomu došlo?
 </p>
 

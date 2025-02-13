@@ -1,14 +1,18 @@
 ---
 ID: 1707
-title: 'Češi pěstují olej a&nbsp;nepoužívají LinkedIn'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesi-pestuji-olej-a-nepouzivaji-linkedin
-published: true
+oldlink: 'https://www.marigold.cz/item/cesi-pestuji-olej-a-nepouzivaji-linkedin
+
+  '
 post_date: 2005-07-05 09:05:20
+post_excerpt: ''
+published: true
+summary_points:
+- Če
+title: Češi pěstují olej a&nbsp;nepoužívají LinkedIn
 ---
+
 <p>Včera jsem <a href="http://zpravy.idnes.cz/domaci.asp?r=domaci&amp;c=A050703_210457_domaci_bih">četl nějaký průzkum v MF DNES</a>, kde se o češích tvrdilo, že jsou to zaprdění peciválové  s charakterem rázovitých vidláků pěstující olej. Toliko názor lidí v zahraničí a zajímavé bylo, že čím bližší nám to byl soused, tím hůře nás viděl. </p>
 
 <p>O něco později jsem hledal nějaké kontakty přes <a href="http://www.linkedin.com">LinkedIn</a>. Pokud tuhle službu neznáte, měli byste ji vyzkoušet, protože pokud někdy potřebujete někoho kontaktovat, dohledat, je to zřejmě ta nejlepší možnost, samozřejmě pokud jej osobně neznáte. </p>

@@ -1,16 +1,23 @@
 ---
 ID: 1840
-title: >
-  Digitalizace domácnosti není
-  jednoduchá – pevnodiskové rekordery
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/digitalizace-domacnosti-neni-jednoducha-pevnodiskove-rekordery
-published: true
+oldlink: 'https://www.marigold.cz/item/digitalizace-domacnosti-neni-jednoducha-pevnodiskove-rekordery
+
+  '
 post_date: 2005-10-07 10:53:06
+post_excerpt: ''
+published: true
+summary_points:
+- Autor nahradil video pevnodiskovým rekordérem Panasonic DMR-EH60EG-S.
+- Rekordér umožňuje nahrávání, snadné vyhledávání a funkci Time Slip.
+- DVD vypalovačka umožňuje střih pořadů a vypálení bez reklam.
+- Autor oceňuje funkčnost rekordéru, ale postrádá EPG a USB.
+title: 'Digitalizace domácnosti není jednoduchá – pevnodiskové rekordery
+
+  '
 ---
+
 <p>Minulý týden jsem se rozhodl pokročit v digitalizaci naší domácnosti, vykopnout video a nahradit jej něčím inteligentnějším. Video totiž doma používáme prakticky a výhradně k nahrávání pořadů z televize, na které se chceme podívat. Doma totiž bereme televizi jako hodně off-line distribuční médium, takže nečekáme na pořad, ale pořady si nahráváme a pak dle libosti shlédneme, když máme čas. A k tomu video není nejlepší, protože se upřetáčíte, i když máte video s takovou tou indexační funkcí. Navíc pořady nemáme potřebu archivovat a ona taková stokrát jetá véháeska už není to nejlepší. A do třetice, filmů se na kazetu vejde jen pár a když si chcete naprogramovat týden dopředu a pak na to nemyslet, musíte dost třídit. </p>
 
 <p>Padlo strategicko-politické rozhodnutí koupit pevnodiskový rekordér.  Zatím jedinou nepříjemností tohoto zařízení je, že nevím, jak se mu česky říká, když opominu kulantní obchodní název DVD rekordér s pevným diskem. Nakonec jsem v Datartu koupil <a href="http://www.videoexpert.cz/dvd-rekordery-s-diskem/panasonic-dmr-eh60eg-s">PANASONIC DMR-EH60EG-S</a> – milé bylo, že zdejší prodavač o tom dost věděl, byl schopen poradit, což jsem původně ani neočekával a abych ho jen nechválil, trval na tom, abych říkal hardiskový rekorder a ne pevnodiskový :)</p>

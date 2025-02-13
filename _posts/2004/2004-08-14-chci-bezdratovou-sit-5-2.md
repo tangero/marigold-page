@@ -1,14 +1,21 @@
 ---
 ID: 1250
-title: Chci bezdrátovou síť! (5.2)
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chci-bezdratovou-sit-5-2
-published: true
+oldlink: 'https://www.marigold.cz/item/chci-bezdratovou-sit-5-2
+
+  '
 post_date: 2004-08-14 00:24:51
+post_excerpt: ''
+published: true
+summary_points:
+- Venkovní síť sdílí internet, pokud není jiný poskytovatel, nebo vrací peníze.
+- Cena internetu musí odpovídat počtu zákazníků a jejich platbám.
+- Pro umístění přístupového bodu je klíčová přímá viditelnost a vyvýšené místo.
+- Pro prodej internetu je nutná živnost a registrace u ČTÚ.
+title: Chci bezdrátovou síť! (5.2)
 ---
+
 <p>
 <em>pokračování přechozí kapitoly</em></p>
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040814-wireless-man.jpg" alt="Wireless MAN" width="250" height="172" /></div>

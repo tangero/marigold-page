@@ -1,14 +1,21 @@
 ---
 ID: 1372
-title: 'Elektronické mýtné &#8211; jak vypadá Toll Collect OBU'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/elektronicke-mytne-jak-vypada-toll-collect-obu
-published: true
+oldlink: 'https://www.marigold.cz/item/elektronicke-mytne-jak-vypada-toll-collect-obu
+
+  '
 post_date: 2004-10-25 17:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Toll Collect využívá OBU, krabičku s GPS/GSM pro digitální mýtné.
+- OBU se montuje do kamionu a sleduje jeho polohu na dálnici.
+- GPS rušičky a souběžné komunikace způsobovaly problémy systému.
+- Toll Collect zavedl kontrolní místa pro ověření funkčnosti OBU.
+title: Elektronické mýtné &#8211; jak vypadá Toll Collect OBU
 ---
+
 <p>
 Když jsem tu <a href="/item/digitalni-mytne-jsem-jeste-nepochopil">minulý týden psal</a> o elektronickém / digitálním mýtném, dostal jsem řadu reakcí. Nejvíce mne zaujalo to, co psal v komentářích Marko Zekič a z čeho jsem získal nástin dojmu, že kamion je rozšiřitelný o další přídavné karty podobně, jako počítač vybavený například PCMCIA, tedy že nebude problém vsunout u kamionu do slotu Toll Collect kartu, která se spojí s palubním počítačem a bude využívat jeho výpočetní kapacitu. Za následek by to mělo to, že by takové zařízení nemělo příliš mnoho smyslu krást. </p>
 

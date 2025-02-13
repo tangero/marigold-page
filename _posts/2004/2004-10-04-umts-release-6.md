@@ -1,15 +1,25 @@
 ---
 ID: 1344
-title: UMTS Release 6
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- UMTS
+- 3G
+- Turboúvod do mobilních sítí
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/umts-release-6
-published: true
+oldlink: 'https://www.marigold.cz/item/umts-release-6
+
+  '
 post_date: 2004-10-04 07:35:00
-categories: [UMTS, 3G, Turboúvod do mobilních sítí]
+post_excerpt: ''
+published: true
+summary_points:
+- UMTS Release 6 zahrnuje MBMS pro jednosměrnou distribuci obsahu point-to-multipoint.
+- EUDCH v Release 6 zlepší pokrytí, průchodnost a zpoždění při odesílání dat.
+- Release 6 obsahuje drobná vylepšení jako GUP, rozšířenou integraci s WLAN a SIP.
+- Release 7 bude obsahovat provázání IMS s pevnou sítí pro konvergenci sítí.
+title: UMTS Release 6
 ---
+
 <p>
 V září měl být zmrazen další update UMTS standardu nazývaný Release 6, šesté vydání. To zmrazení – frozen – je baladický opis toho, že s dalšími návrhy na rozšíření si od doby zmrazení máte dát svátek a počkat si na další Release. Jenže pořád se něco posouvá&#8230; </p>
 
@@ -28,4 +38,3 @@ No a pokud bychom dumali, co se do Release 6 nevešlo a čeká nás v Release 7,
 <p>
 Bohužel, můj návrh CNI se ani letos do standardu neprotlačil :( Asi jsem málo lobboval&#8230;
 </p>
-

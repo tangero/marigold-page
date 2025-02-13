@@ -1,14 +1,21 @@
 ---
 ID: 1034
-title: 'KlFree.Net &#8211; jako eseróčko nebo občanské sdružení?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/klfree-net-jako-eserocko-nebo-obcanske-sdruzeni
-published: true
+oldlink: 'https://www.marigold.cz/item/klfree-net-jako-eserocko-nebo-obcanske-sdruzeni
+
+  '
 post_date: 2004-05-13 09:35:00
+post_excerpt: ''
+published: true
+summary_points:
+- KlFree.Net řeší převod sítě do soukromé firmy Datinel s.r.o. za pořizovací cenu.
+- Milan Krčmář a Jaromír Šulc navrhují převod, Roman Štec je proti.
+- Členové KlFree.Net rozhodnou hlasováním na valné hromadě 20. května.
+- KlFree.Net má 300 členů a hospodaří s majetkem kolem 600 000 Kč.
+title: KlFree.Net &#8211; jako eseróčko nebo občanské sdružení?
 ---
+
 <p>
 Složitá situace je v poslední době <STRONG>kolem kladenské komunitní sítě </STRONG><A href="http://www.klfree.net/" target=_blank><STRONG>KlFree.Net</STRONG></A>. Tato komunitní síť má organizačně statut občanského sdružení a v nedávné době přišli dva členové -&#160; Milan Krčmář (aka MilanK), čestný člen sdružení, a Jaromír Šulc (aka Japan), člen rady s funkcí hospodáře, s myšlenkou&#160;převodu sítě KlFree.Net za pořizovací cenu do majetku jimi zakládané soukromé společnosti Datinel s.r.o. Datinel by tak převzal provoz KlFree.Netu na svá bedra, zajišťoval jej, financoval a dále rozvíjel. To samozřejmě rozvířilo hladinu emocí, protože druhá strana, zastupovaná hlavně Romanem Štecem (aka K5), požaduje zachování KlFree.Net, odmítá převod do s.r.o. a vůbec celý postup nevidí jako positivní, když to řeknu slušně. Stanovisko R. Štece najdete velmi hezky <A href="http://www.klfree.net/view.php?cisloclanku=2004051001" target=_blank>zpracované zde</A> pod názvem Přerod fanklubu na fungující KLFREE,&#160; - návrh Datinelu, opět velmi slušně zpracovaný a argumentovaný, <A href="http://www.klfree.net/view.php?cisloclanku=2004050205" target=_blank>je zde</A>. </p>
 

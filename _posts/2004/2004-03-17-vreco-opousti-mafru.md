@@ -1,14 +1,22 @@
 ---
 ID: 926
-title: Vreco opouští Mafru
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vreco-opousti-mafru
-published: true
+oldlink: 'https://www.marigold.cz/item/vreco-opousti-mafru
+
+  '
 post_date: 2004-03-17 15:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Zdeněk Polách (Vreco) končí jako šéfredaktor technických redakcí iDNESu a odchází
+  z Mafry.
+- Vreco se stává společníkem a jednatelem společnosti Expres Stores s.r.o.
+- iDNES opouští poslední člen vedení bývalého Mobil serveru/Mobil Media.
+- Vreco nebude psát pro BonusWeb, herní server, který založil.
+title: Vreco opouští Mafru
 ---
+
 <p>
 Zdeněk Polách alias Vreco koncem března skončí na pozici šéfredaktora technických redakcí iDNESu a odchází z Mafry. Místo řízení redakcí se chce věnovat něčemu jinému a trochu změnit luft - za tím účelem ho na serveru Justice najdete jako společníka a jednatele společnosti Expres Stores s.r.o. Co tahle společnost asi tak bude dělat, nechávám už na vaší obrazotvornosti a nejvíce pak na Vrecovi. </p>
 

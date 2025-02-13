@@ -1,14 +1,21 @@
 ---
 ID: 1414
-title: 'Killer App  jako hromada utilit (aneb jak hledám adresy)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/killer-app-jako-hromada-utilit-aneb-jak-hledam-adresy
-published: true
+oldlink: 'https://www.marigold.cz/item/killer-app-jako-hromada-utilit-aneb-jak-hledam-adresy
+
+  '
 post_date: 2004-11-26 07:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor nahrazuje programy a utility internetem, což zvažuje při reinstalaci systému.
+- Adresy pro svatební pozvánky autor zjišťoval online, hlavně přes Justice.cz.
+- Kamarádovi bez podnikání poslal obálku s popisem domu pro doručení.
+- Mobical.net synchronizuje telefonní kontakty a kalendář přes SyncML zdarma.
+title: Killer App  jako hromada utilit (aneb jak hledám adresy)
 ---
+
 <p>
 Četl jsem na Lupě <a href="http://www.lupa.cz/clanek.php3?show=3782">zajímavou glossu</a>. Autor (Pavel Houser z IDG) v něm konstatoval, že hromadu programů a utilit mu nahrazuje internet. A je to tak. O tom samém přemýšlím vždy, když musím reinstalovat systém a znovu uvažuji, co si nainstaluji na počítač. Jasný je email, prohlížeč, souborový správce (a FTP podle mne je taky souborový správce). Instaluji firewall, antivir, Office. </p>
 

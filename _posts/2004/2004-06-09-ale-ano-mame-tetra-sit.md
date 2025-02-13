@@ -1,14 +1,21 @@
 ---
 ID: 1139
-title: Ale ano, máme Tetra síť
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ale-ano-mame-tetra-sit
-published: true
+oldlink: 'https://www.marigold.cz/item/ale-ano-mame-tetra-sit
+
+  '
 post_date: 2004-06-09 08:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- Tetra síť v ČR existuje, což překvapuje některé lidi.
+- ČTÚ rozdával Tetra licence od roku 2000 různým firmám.
+- MobilKom dnes prakticky jediný provozuje veřejnou Tetra síť.
+- MobilKom nabízí Tetra paušály od 540 Kč a radiostanice od 11 000 Kč.
+title: Ale ano, máme Tetra síť
 ---
+
 <p>
 Čtu si tak dneska <a href="http://vucako.bloguje.cz/47096_item.php">Kamojedova</a>, který rovněž natírá na zeleno Rolanda Mahlera za rozhovor v Týdnu. A mimo jiné tam vidím, že je pro mnohé lidi překvapení, že máme nějakou Tetra síť v ČR. Tedy veřejnou. Ano ano, opravdu máme :)</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1426
-title: 'Super 3G &#8211; když 3G není dost'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/super-3g-kdyz-3g-neni-dost
-published: true
+oldlink: 'https://www.marigold.cz/item/super-3g-kdyz-3g-neni-dost
+
+  '
 post_date: 2004-12-01 11:01:34
+post_excerpt: ''
+published: true
+summary_points:
+- Autor onemocněl před svatbou a cestou do Egypta, léčí se čajem.
+- NTT DoCoMo vyvíjí Super 3G jako přechod k 4G kolem roku 2010.
+- Super 3G má nabídnout rychlost 30-100 Mb/s, nízkou latenci a levnou migraci.
+- NTT DoCoMo pracuje souběžně na Super 3G, 4G, HSDPA a OFDM technologiích.
+title: Super 3G &#8211; když 3G není dost
 ---
+
 <p>
 Chytil jsem virózu a baže si nemohla vybrat lepší čas, když se za dva dny žením a o pár dní později odlétáme do Egypta. Doktorovi jsem nakázal, aby přivez antibiotika, do té doby jsem v rukou léčivých čajů. Alespoň mám čas blognout o pár novinkách ve vývoji 3G. O DBV-H píšu něco většího, snad to časem dotvořím. </p>
 
@@ -31,4 +38,3 @@ Jsem vážně zvědavý, jak to NTT DoCoMo všechno stihne. Kromě Super 3G a 4G
 <p>
 <img src="/wp-content/uploads/1/20041201-ntt-super3g-2.jpg" alt="Super 3G" width="400" height="300" />
 </p>
-

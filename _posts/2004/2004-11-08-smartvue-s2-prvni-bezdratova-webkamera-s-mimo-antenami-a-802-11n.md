@@ -1,14 +1,21 @@
 ---
 ID: 1391
-title: 'Smartvue S2 &#8211; první bezdrátová webkamera s&nbsp;MIMO anténami a&nbsp;802.11N'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/smartvue-s2-prvni-bezdratova-webkamera-s-mimo-antenami-a-802-11n
-published: true
+oldlink: 'https://www.marigold.cz/item/smartvue-s2-prvni-bezdratova-webkamera-s-mimo-antenami-a-802-11n
+
+  '
 post_date: 2004-11-08 08:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Smartvue S2 je první webkamera s MIMO anténami a 802.11N standardem.
+- Kamera Smartvue S2 má Pixim DPS technologii, 720x480 rozlišení a 30fps.
+- Smartvue S2 přístupový bod ukládá video až z 30 kamer na 90/180GB disk.
+- Bezdrátové kamerové systémy jsou zajímavá spotřební elektronika s rostoucí popularitou.
+title: Smartvue S2 &#8211; první bezdrátová webkamera s&nbsp;MIMO anténami a&nbsp;802.11N
 ---
+
 <p>
 Na trh se dostává první webová kamera pracující se složenými MIMO anténami a podporující doposud neschválený standard 802.11N - model Smartvue S2. Musím zde podotknout, že pro kamery mi přijde využití MIMO antén a vysokorychlostního bezdrátového připojení jak dělané. </p>
 

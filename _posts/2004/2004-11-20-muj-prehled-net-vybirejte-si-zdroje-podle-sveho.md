@@ -1,14 +1,21 @@
 ---
 ID: 1408
-title: 'Můj.Přehled.net &#8211; vybírejte si zdroje podle svého'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/muj-prehled-net-vybirejte-si-zdroje-podle-sveho
-published: true
+oldlink: 'https://www.marigold.cz/item/muj-prehled-net-vybirejte-si-zdroje-podle-sveho
+
+  '
 post_date: 2004-11-20 08:53:26
+post_excerpt: ''
+published: true
+summary_points:
+- Můj Přehled.net umožňuje uživatelům definovat a sledovat vybrané zdroje přes RSS.
+- Klíčová slova umožňují sledovat články podle témat v nadpisech a perexu.
+- Kolaborativní funkce budou sledovat objevy lidí s podobnými zájmy anonymně.
+- Chronologický výpis nových technických článků je oblíbená funkce na www.prehled.net/chrono.
+title: Můj.Přehled.net &#8211; vybírejte si zdroje podle svého
 ---
+
 <p>
 Službu Přehled.net doplnil Petr Olmer o novinku - perzonalizovanou sekci Můj Přehled.Net na adrese <a href="http://muj.prehled.net">muj.prehled.net</a>.</p>
 

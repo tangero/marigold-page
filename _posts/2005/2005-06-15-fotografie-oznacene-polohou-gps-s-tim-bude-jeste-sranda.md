@@ -1,14 +1,21 @@
 ---
 ID: 1683
-title: 'Fotografie označené polohou GPS – s&nbsp;tím bude ještě sranda'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/fotografie-oznacene-polohou-gps-s-tim-bude-jeste-sranda
-published: true
+oldlink: 'https://www.marigold.cz/item/fotografie-oznacene-polohou-gps-s-tim-bude-jeste-sranda
+
+  '
 post_date: 2005-06-15 08:40:36
+post_excerpt: ''
+published: true
+summary_points:
+- GPS tagging označuje fotografie souřadnicemi pořízení, ukládanými do EXIF formátu.
+- Vyhledávání fotografií dle polohy usnadňuje identifikaci míst a objektů.
+- GPS tagging lze využít pro poznámky k místům, dostupné pro kolemjdoucí.
+- Fotoaparáty s GPS a geoblogging umožňují automatické i manuální GPS tagging.
+title: Fotografie označené polohou GPS – s&nbsp;tím bude ještě sranda
 ---
+
 <p>Internet má před sebou zřejmě další vlnu. Říkejme jí prozatím GPS tagging nebo Geo tagging, GPS značkování, protože nic lepšího jsem nenašel a nenapadlo mne. GPS značkování je zajímavá myšlenka, která se rozmáhá v japonsku a v USA, v zemích kde fotoaparáty vybavené GPS začínají hrubě převažovat. Ano, máte pravdu, jde o fotoaparáty v mobilních telefonech CDMA sítí, které obsahují lokalizaci polohy, většinou na bázi GPS. GPS tagging je vlastně označení fotografie souřadnicemi, na nichž byla fotografie pořízena. JPEG je schopen tuto informaci ukládat do EXIF formátu, kde jsou i další informace z fotoaparátu (datum, expozice atd), takže tuto informaci není třeba přenášet zvláště a lze ji pohodlně z obrázku extrahovat. </p>
 
 <p>K čemu vám může být znát polohu, na níž jste fotku pořídili? Inu, zjednodušilo by to vyhledávání nejenom vám, ale i dalším lidem. Řekněme, že sháníte fotografii pardubické Zelené brány. Najdete si ji na satelitní mapě, jenže ta není tak hezká, jako by ji někdo mohl pořídit, kdyby stál před Zelenou bránou (satelit fotí ze shora). Tak na mapě kliknete "Vyhledej fotografie dle polohy" a vyhledávač vám vyhledá fotky focené z toho patřičného místa. Protože bude vyhledávat v EXIF popiskách, půjde mu to rozhodně lépe, než se pokoušet identifikovat, zda na obrázku je Zelená brána. </p>

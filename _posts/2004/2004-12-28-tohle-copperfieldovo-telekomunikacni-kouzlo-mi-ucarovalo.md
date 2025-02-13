@@ -1,16 +1,23 @@
 ---
 ID: 1457
-title: >
-  Tohle Copperfieldovo telekomunikační
-  kouzlo mi učarovalo
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tohle-copperfieldovo-telekomunikacni-kouzlo-mi-ucarovalo
-published: true
+oldlink: 'https://www.marigold.cz/item/tohle-copperfieldovo-telekomunikacni-kouzlo-mi-ucarovalo
+
+  '
 post_date: 2004-12-28 10:17:03
+post_excerpt: ''
+published: true
+summary_points:
+- Copperfieldovo vystoupení v T-Mobile Aréně bylo drahé, ale zážitek stál za to.
+- Kouzlo s přesunem chlapce na Jamajku bylo nejvíce učarující.
+- Videopřenos z Jamajky byl kvalitní, rychlý a bez zpoždění.
+- Autorovi chybělo prozrazení triků, zejména toho s Jamajkou.
+title: 'Tohle Copperfieldovo telekomunikační kouzlo mi učarovalo
+
+  '
 ---
+
 <p>
 V listopadu jsme byli s Ditou na vystoupení Davida Copperfielda v T-Mobile Aréně. Vstupenky drahé jak (píp), ale vidět to na vlastní oči je zážitek, který stojí za to. Chválu Copperfieldovy magie jste si mohli přečíst v některých novinách po vystoupení, mně se ale líbilo jedno kouzlo, které mi přímo učarovalo - i když mi přišlo, že ho muselo pochopit málo lidí. Navíc mi přišlo šité na regionální poměry - v takových USA by vyšumělo bez pochopení. </p>
 

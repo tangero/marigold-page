@@ -1,14 +1,21 @@
 ---
 ID: 1488
-title: 'Bankovní momentky: byl tvůrce NetBanky příčetný?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bankovni-momentky-byl-tvurce-netbanky-pricetny
-published: true
+oldlink: 'https://www.marigold.cz/item/bankovni-momentky-byl-tvurce-netbanky-pricetny
+
+  '
 post_date: 2005-01-24 08:09:00
+post_excerpt: ''
+published: true
+summary_points:
+- Fio banka neotevřela autorovi eBroker účet kvůli občanskému průkazu.
+- Patria poskytla certifikát XETRA nejdříve na disketě, poté na CD.
+- Živnobanka (UniCredit) má problémy s funkčností internetového bankovnictví Netbanka.
+- Netbanka vyžaduje specifickou verzi JVM a má problémy s registrací certifikátu.
+title: 'Bankovní momentky: byl tvůrce NetBanky příčetný?'
 ---
+
 <p>Měl jsem tři bankovní momentky v průběhu minulého týdne, které na mne zanechaly nesmazatelné stopy. Tak zaprvé jsem se rozhodl otevřít si <a href="http://www.e-broker.cz/">eBroker </a> účet u Fio, protože jsem potřeboval nakoupit nějaké akcie na XETRA, německé burze - a to mi můj účet u Ameritrade neumožňuje. Myslel jsem, že to vyřídím, jak češi říkají, ajn-cvaj. Vyřídil. Naklusal jsem do Fio, vystál jsem si frontičku, dal jsem slečně občanku, úlisně pravil, že chci otevřít eBroker účet a ona popatřila na občanku s ustříhlým rohem a přilepeným papírem, že jsem ženat. A děla, že s tímto mi neotevře ničeho, ledaže dveře. I byl jsem hotov, jak češi říkají, ajn-cvaj. A taky jsem pochopil, proč mi PH v prosinci dával přednášku o tom, že svatba je jen obrovské bumážkování a jinak nic. </p>
 
 <p>Abych se nějak na Xetru dostal, rozhodl jsem se obnovit svůj certifikát u Patrie, kde xetru také zavedli a kde účet otevřený mám, takže mi nemohou dělat nohy za občanku. Dorazil jsem do Patrie, slečna mne usadila do kožené klubovky, přinesla obálku s certifikátem a já se díval na černý plastový čtvereček se stříbrným plíškem. &#8220;To je co&#8221;, otázal jsem se. &#8220;Disketa,&#8221; pravila slečna. Ojé - a jakpak já ji dostanu do notebooku, který disketovou jednotku nikdy neviděl? Slečna pochopila, že s disketou u mne neuspěje a kamsi odspěchala. Za pět minut mi přinesla certifikát na CDčku a bylo všechno vyřešeno. Fio příšlo o zákazníka, k Patrii se jeden vrátil. </p>

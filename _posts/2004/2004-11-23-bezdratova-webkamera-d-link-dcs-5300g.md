@@ -1,14 +1,21 @@
 ---
 ID: 1412
-title: Bezdrátová webkamera D-Link DCS-5300G
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezdratova-webkamera-d-link-dcs-5300g
-published: true
+oldlink: 'https://www.marigold.cz/item/bezdratova-webkamera-d-link-dcs-5300g
+
+  '
 post_date: 2004-11-23 22:41:42
+post_excerpt: ''
+published: true
+summary_points:
+- D-Link DCS-5300G kamera nahrává video a zvuk přes internet do počítače.
+- DCS-5300G má Ethernet port, digitální zoom a dálkové ovládání otáčení/náklonu.
+- Software DCS-5300G umožňuje sledovat až 16 kamer současně a připojit alarmy.
+- Kamera DCS-5300G detekuje pohyb, komprimuje data a podporuje DDNS/UpnP.
+title: Bezdrátová webkamera D-Link DCS-5300G
 ---
+
 <p>
 Společnost D-Link ohlásila zahájení prodeje internetové kamery DCS-5300G. Kamera umožňuje maximální využití diskového prostoru tím, že záznam probíhá pouze tehdy, pokud je aktivováno pohybové čidlo. DCS-5300G odstraňuje potřebu toho, aby na konkrétním místě musela být fyzicky přítomna nějaká osoba, neboť přenáší proud živého videa (streaming) a zvuku přes Internet do předem určeného počítače. Kamera využívá bezdrátové rozhraní 802.11g.</p>
 

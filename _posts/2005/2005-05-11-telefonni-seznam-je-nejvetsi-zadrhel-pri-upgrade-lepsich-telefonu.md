@@ -1,14 +1,21 @@
 ---
 ID: 1639
-title: 'Telefonní seznam je největší zádrhel při&nbsp;upgrade lepších telefonů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telefonni-seznam-je-nejvetsi-zadrhel-pri-upgrade-lepsich-telefonu
-published: true
+oldlink: 'https://www.marigold.cz/item/telefonni-seznam-je-nejvetsi-zadrhel-pri-upgrade-lepsich-telefonu
+
+  '
 post_date: 2005-05-11 08:27:11
+post_excerpt: ''
+published: true
+summary_points:
+- Upgrade telefonů brzdí problém s přenosem kontaktů, jak ukázala studie.
+- Autor upgradoval na Motorola V3 a narazil na potíže s konverzí 800 kontaktů.
+- Synchronizace přes Mobical/SyncML a software Motorola selhala kvůli komplikacím.
+- Přenos kontaktů komplikoval i rozhašený notebook a bluetooth připojení.
+title: Telefonní seznam je největší zádrhel při&nbsp;upgrade lepších telefonů
 ---
+
 <p>Díval jsem se nedávno do nějaké studie věnované upgrade cyklu mobilních telefonů a zaujalo mne, že za největší překážku při upgrade lepších telefonů je považovaný telefonní seznam. </p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20050511-motorola_v3.jpg" alt="Motorola V3" width="277" height="366" /></div>

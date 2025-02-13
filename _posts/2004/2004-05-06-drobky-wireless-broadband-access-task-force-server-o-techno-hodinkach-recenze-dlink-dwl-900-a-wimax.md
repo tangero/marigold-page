@@ -1,14 +1,22 @@
 ---
 ID: 1021
-title: 'Drobky: Wireless Broadband Access Task Force, server o&nbsp;techno hodinkách, recenze DLink DWL 900+ a&nbsp;WiMax'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-wireless-broadband-access-task-force-server-o-techno-hodinkach-recenze-dlink-dwl-900-a-wimax
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-wireless-broadband-access-task-force-server-o-techno-hodinkach-recenze-dlink-dwl-900-a-wimax
+
+  '
 post_date: 2004-05-06 08:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- FCC hledá volné frekvence pro licencované i nelicencované spektrum.
+- Wifionline.net publikoval českou recenzi na DLink DWL 900+.
+- Technohodinky s různými funkcemi popisuje server WristDreams.
+- Mobil.cz vyhodnotil soutěž v Java programování a pokračuje seriál o WiFi.
+title: 'Drobky: Wireless Broadband Access Task Force, server o&nbsp;techno hodinkách,
+  recenze DLink DWL 900+ a&nbsp;WiMax'
 ---
+
 <p>
 Včera jsem psal o tom, že<STRONG> FCC intenzivně hledá volné frekvence</STRONG> pro licencované i nelicencované spektrum. Pokud vás to více zajímá, zde jsou stránky <A href="http://www.fcc.gov/wbatf/" target=_blank>FCC Wireless Broadband Access Task Force</A>, která má hledání dalších spekter na starosti. Hezký komentář je <A href="http://www.thefeature.com/article?articleid=100604" target=_blank>na The Feature </A>od Carlo Longino.</p>
 

@@ -1,14 +1,20 @@
 ---
 ID: 1356
-title: Ferimex Flat 9 anténa
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ferimex-flat-9-antena
-published: true
+oldlink: 'https://www.marigold.cz/item/ferimex-flat-9-antena
+
+  '
 post_date: 2004-10-08 15:37:55
+post_excerpt: ''
+published: true
+summary_points:
+- Ferimex Flat 9 je panelová anténa se ziskem 9 dB a úhlem 60 stupňů.
+- PAN-10 je levná, ale méně spolehlivá anténa oproti Ferimexu.
+- PAN-14 je silnější variantou antény PAN-10.
+title: Ferimex Flat 9 anténa
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/1/20041008-ferimex-flat9.jpg" alt="Ferimex Flat 9" width="200" height="168" /></div>
 Ferimex vylepšoval design a hlavně parametry svých antén, mne ale zaujala novinka v jeho výrobní řadě, <a href="http://www.ferimex.com/product.php?Antenna_Flat_9">Flat 9</a>. Jak jméno napovídá, je to panelová anténa se ziskem 9 dB a vyzařovacím úhlem 60 stupnů.</p>
 

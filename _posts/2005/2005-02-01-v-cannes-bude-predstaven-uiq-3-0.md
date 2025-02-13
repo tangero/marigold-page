@@ -1,14 +1,21 @@
 ---
 ID: 1506
-title: V Cannes bude představen UIQ 3.0
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/v-cannes-bude-predstaven-uiq-3-0
-published: true
+oldlink: 'https://www.marigold.cz/item/v-cannes-bude-predstaven-uiq-3-0
+
+  '
 post_date: 2005-02-01 13:31:25
+post_excerpt: ''
+published: true
+summary_points:
+- UIQ Technology představí UIQ 3.0 na 3GSM kongresu v Cannes 14.2. na jachtě.
+- UIQ 3.0 přidává podporu 3G a Operator Configuration Package (OCP).
+- Devět telefonů aktuálně používá starší verze UIQ, například Sony Ericsson P910.
+- Článek obsahuje screenshoty nového grafického prostředí UIQ 3.0.
+title: V Cannes bude představen UIQ 3.0
 ---
+
 <p>Novou verzi grafického rozhraní UIQ 3.0 bude
 na 3GSM kongresu v Cannes představovat jeho výrobce UIQ Technology.
 Právě o tom informoval rozeslanou tiskovou zprávou, předváděčka se bude

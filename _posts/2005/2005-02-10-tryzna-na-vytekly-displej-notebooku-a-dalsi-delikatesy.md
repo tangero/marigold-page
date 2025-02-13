@@ -1,14 +1,21 @@
 ---
 ID: 1519
-title: 'Tryzna na vyteklý displej notebooku a&nbsp;další delikatesy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tryzna-na-vytekly-displej-notebooku-a-dalsi-delikatesy
-published: true
+oldlink: 'https://www.marigold.cz/item/tryzna-na-vytekly-displej-notebooku-a-dalsi-delikatesy
+
+  '
 post_date: 2005-02-10 07:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- Týden začal nepříjemností a zpackaným výletem na Petřín s úrazem notebooku.
+- Notebook se po pádu poškodil, což komplikuje plánovanou práci v Cannes.
+- Autor dostal pokutu za parkování a zažil nepříjemnost při snaze pomoci.
+- Autor nasadil automatického bota pro ICQ a hledá nový redakční systém.
+title: Tryzna na vyteklý displej notebooku a&nbsp;další delikatesy
 ---
+
 <p>Tento týden se vůbec nevydařil. Neuvěřitelně nahuštěná práce toho
 nebyla hlavní příčinou. Začalo to v neděli, kdy jsem s překvapením
 zjistil, že někdo dokáže být bezdůvodně neuvěřitelně nechutný. Abych si

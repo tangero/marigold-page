@@ -1,14 +1,21 @@
 ---
 ID: 1725
-title: 'Eurotel a&nbsp;WAP aneb bohové musí být šílení'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-a-wap-aneb-bohove-musi-byt-sileni
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-a-wap-aneb-bohove-musi-byt-sileni
+
+  '
 post_date: 2005-07-16 12:36:44
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel zdražil WAP u Data Nonstop, oznámil to SMS s pochybnou propagandou.
+- Eurotel mohl mít problém s vyplácením provizí partnerům za WAP provoz.
+- Eurotel se možná snaží omezit konkurenční WAP portály a uživatele.
+- Návštěva Live! portálu Eurotelu je levnější, což může být protisoutěžní.
+title: Eurotel a&nbsp;WAP aneb bohové musí být šílení
 ---
+
 <p>Eurotelu se zase podařila Eurotelu se zase podařila mistrná rošáda, u které si nejsem jistý, jestli ji udělali proto, že chtějí zavřít krám nebo jen vyhodit někoho, na koho se to hodí. Kdo v tyto týdny sleduje na ČT2 Jistě, pane ministře, spatřuje v postupu, jakým Eurotel oznámil zvýšení cen WAPu, mnoho společného s Humphryho politickou korektností. BBC tento pořad zamýšlela jako satiru, v případě Eurotel jde o dokonaný skutek. </p>
 
 <p>Zjednodušeně – zákazníci Eurotelu, kteří používají Data Nonstop, od pátku za wap musí platit, do pátku byl v rámci paušálu zdarma. Toto zdražení oznámil Eurotel výhradně esemeskou svým zákazníkům  a to formou, kde jim blahosklonně oznámil, že se mohou radovat, neb mají 500 kB pro WAP zdarma. Propaganda, jak vyšitá.<em> Německá válečná loď najela na britskou námořní minu, tu donutila k explozi a vyřadila ji z dalších bojů</em> – takhle nějak se to psalo před šedesáti lety, když jsme neměli wap. MobilMania to Eurotelu dala slušně a zaslouženě sežrat <a href="http://www.mobilmania.cz/Operatori/AR.asp?ARI=110495">(zde)</a>, Mobil.cz se zákazníků v podstatě ani nezastal a informoval <a href="http://mobil.idnes.cz/mob_operatori.asp?r=mob_operatori&amp;c=A050714_152701_mob_operatori_msj">jen suchým článkem</a>. Zato se rozčílilo pár blogerů, což bude Eurotelu tradičně jedno. </p>

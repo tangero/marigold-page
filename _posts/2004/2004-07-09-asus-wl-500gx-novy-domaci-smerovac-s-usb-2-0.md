@@ -1,14 +1,22 @@
 ---
 ID: 1189
-title: 'Asus WL-500GX &#8211; nový domácí směrovač s&nbsp;USB 2.0'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/asus-wl-500gx-novy-domaci-smerovac-s-usb-2-0
-published: true
+oldlink: 'https://www.marigold.cz/item/asus-wl-500gx-novy-domaci-smerovac-s-usb-2-0
+
+  '
 post_date: 2004-07-09 08:25:04
+post_excerpt: ''
+published: true
+summary_points:
+- Asus WL-500GX je inovovaný čtyřportový směrovač s podporou rychlosti až 125 Mb/s.
+- Technologie Broadcom Afterburner umožňuje rychlost 125 Mb/s i s jinými Broadcom
+  čipsety.
+- Dva USB 2.0 porty umožňují připojení webkamery, tiskárny nebo pevného disku.
+- Přístup k disku připojenému přes USB bude zřejmě možný jen přes FTP.
+title: Asus WL-500GX &#8211; nový domácí směrovač s&nbsp;USB 2.0
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/20040709-asus-wl_500gx.jpg" alt="Asus WL-500GX" width="220" height="180" /></div>
 <p>
 Asus na letošním Computextu představil několik novinek, které stojí za povšimnutí. Především je to inovovaný domácí čtyřportový směrovač Asus WL-500GX, navazující na u nás také velmi oblíbenou řadu. </p>

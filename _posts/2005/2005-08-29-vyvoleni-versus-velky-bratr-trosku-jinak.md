@@ -1,16 +1,23 @@
 ---
 ID: 1802
-title: >
-  Vyvolení versus Velký bratr trošku
-  jinak
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vyvoleni-versus-velky-bratr-trosku-jinak
-published: true
+oldlink: 'https://www.marigold.cz/item/vyvoleni-versus-velky-bratr-trosku-jinak
+
+  '
 post_date: 2005-08-29 20:30:24
+post_excerpt: ''
+published: true
+summary_points:
+- Reality show jsou ideální pro 24/7 streamování na internetu.
+- Big Brother nabízí video stream, Vyvolení ho teprve plánují.
+- Prima a Nova používají stejný proudovací server Media Capitol.
+- Televize se mediálně škorpí, ale využívají stejné technologie.
+title: 'Vyvolení versus Velký bratr trošku jinak
+
+  '
 ---
+
 <p><b>Oook píše</b>: Ne, že bych byl velký příznivec
 šmírování lidí, nicméně považuju reality show za ideální aplikaci pro
 proudování (streaming pro anglofily) 24x7 na Internetu. Vyvolení teprve

@@ -1,14 +1,22 @@
 ---
 ID: 1808
-title: 'Výhody optických sítí v&nbsp;praxi'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vyhody-optickych-siti-v-praxi
-published: true
+oldlink: 'https://www.marigold.cz/item/vyhody-optickych-siti-v-praxi
+
+  '
 post_date: 2005-09-02 12:14:24
+post_excerpt: ''
+published: true
+summary_points:
+- Hurikán Katrina poškodil síť Abilene projektu Internet2 v oblasti New Orleans.
+- Abilene vytvořila úzké místo mezi Indianapolis a Kansas City kvůli topologii.
+- Internet2 vytvořil záložní okruh Seattle-Chicago ve spolupráci s National Lambda
+  Rail.
+- CESNET v ČR se zabývá problematikou optických sítí.
+title: Výhody optických sítí v&nbsp;praxi
 ---
+
 <p><b>oook píše</b>: Hurikán Katrina se pochopitelně
 dotknul i telekomunikační infrastruktury. Jednou z postižených sítí se
 stala i síť <a href="http://abilene.internet2.edu/" >Abilene</a> projektu <a href="http://www.internet2.edu/">Internet2</a>. Její okruh z Atlanty do

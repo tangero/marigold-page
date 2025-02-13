@@ -1,14 +1,21 @@
 ---
 ID: 796
-title: 'Pán Prstenů: druhou řadu nebrat'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pan-prstenu-druhou-radu-nebrat
-published: true
+oldlink: 'https://www.marigold.cz/item/pan-prstenu-druhou-radu-nebrat
+
+  '
 post_date: 2004-01-18 19:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- 'Film Pán prstenů: Návrat krále viděli v Cinema City Zličín z druhé řady.'
+- Diváci měli kvůli blízkosti plátna z filmu špatný zážitek a křeč v krku.
+- Schodiště v Mordoru ve filmu Pán prstenů nesplňuje normy EU.
+- Blogportal nabízí přehled blogpostů s názory na třetího Pána prstenů.
+title: 'Pán Prstenů: druhou řadu nebrat'
 ---
+
 <p>
 Byli jsme s Ditou na Pánovi prstenů: Návrat krále. Až v sobotu jsme si udělali čas, takže jsme vyrazili do Cinema City na Zličín. Problém, jak se záhy ukázalo, byl v tom, že bylo prakticky vyprodáno na celý den a tak jsme dostali lístky jen do druhé řady, tedy těsně před plátno. Vzali jsme je, na film jsme se moc těšili a rezervovat si lístky na několik dní dopředu se nám nechtělo. </p>
 

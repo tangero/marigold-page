@@ -1,16 +1,23 @@
 ---
 ID: 1328
-title: >
-  Přišel čas snížit cenu za kabelový
-  internet nebo nabídnout služby navíc?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prisel-cas-snizit-cenu-za-kabelovy-internet-nebo-nabidnout-sluzby-navic
-published: true
+oldlink: 'https://www.marigold.cz/item/prisel-cas-snizit-cenu-za-kabelovy-internet-nebo-nabidnout-sluzby-navic
+
+  '
 post_date: 2004-09-21 09:06:50
+post_excerpt: ''
+published: true
+summary_points:
+- UPC internet autor používá od zavedení na Lužinách, nahradil jím InWay.
+- Autor platí 1550 Kč měsíčně za Chello Klasik s televizí, což považuje za hodně.
+- Rychlost 1,5 Mb/s od UPC autor nevyužívá, chybí mu obsah jako filmy online.
+- Autor zvažuje levnější alternativy jako ADSL nebo CzFree.net, ale má obavy.
+title: 'Přišel čas snížit cenu za kabelový internet nebo nabídnout služby navíc?
+
+  '
 ---
+
 <p>
 Doma jsem připojený přes UPC, už drahně let, prakticky ihned poté, co UPC internet zavedlo do mého původního bydliště na Lužinách. Tehdy jsem jím nahradil InWay počítanou linku (tuším BreezeNet). UPC víc padalo, ale bylo radikálně levnější, tehdy jen mírně pomalejší a bez limitů. </p>
 

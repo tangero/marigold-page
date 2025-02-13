@@ -1,16 +1,23 @@
 ---
 ID: 1225
-title: >
-  Vzniká Asociace lokálních
-  poskytovatelů lnternetu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vznika-asociace-lokalnich-poskytovatelu-lnternetu
-published: true
+oldlink: 'https://www.marigold.cz/item/vznika-asociace-lokalnich-poskytovatelu-lnternetu
+
+  '
 post_date: 2004-08-01 21:10:11
+post_excerpt: ''
+published: true
+summary_points:
+- Asociace lokálních ISP (ALPI) sdružuje malé poskytovatele a komunitní sítě.
+- ALPI hájí zájmy členů, sdílí zkušenosti a zvyšuje prestiž kodexem.
+- Cílem ALPI je stanovení indexu ceny konektivity pro lokální ISP.
+- Důležitá je komunikace s úřady a nízké provozní poplatky ALPI.
+title: 'Vzniká Asociace lokálních poskytovatelů lnternetu
+
+  '
 ---
+
 <p>
 Na internetu vzniká Asociace lokálních poskytovatelů lnternetu (<a href="http://www.alpi.cz">provizorní web zde</a>), která si klade za cíl sdružovat malé, lokální ISP a komunitní sítě. </p>
 

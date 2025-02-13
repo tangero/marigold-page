@@ -1,14 +1,21 @@
 ---
 ID: 1449
-title: 'Stanovisko IPV, ZUI a&nbsp;SOS k&nbsp;regulaci VoIP'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/stanovisko-ipv-zui-a-sos-k-regulaci-voip
-published: true
+oldlink: 'https://www.marigold.cz/item/stanovisko-ipv-zui-a-sos-k-regulaci-voip
+
+  '
 post_date: 2004-12-19 13:44:15
+post_excerpt: ''
+published: true
+summary_points:
+- Stanovisko k regulaci VoIP vydaly IPV, ZUI a SOS dne 26.11.2004.
+- ČTÚ neupřesnil, co považuje za IP telefonii, což je zásadní nedostatek.
+- IPV, ZUI a SOS jsou proti jakékoliv regulaci IP telefonie v ČR.
+- Voice over IP služby by měly být regulovány jako běžné telefony.
+title: Stanovisko IPV, ZUI a&nbsp;SOS k&nbsp;regulaci VoIP
 ---
+
 <p>
 Zasvěcení vědí, že jsem již od počátku &#8220;technický konzultant&#8221; sdružení Internet Pro Všechny, i když nikdy jsem nechtěl být moc viděn (dělal jsem pro jednoho AO a to se někomu zdálo v rozporu). Nyní jsme vypracovali opět jedno společné stanvisko k regulaci VoIP a to si sem dovolím umístit. V prvé řadě chci ale upozornit, že <span style="font-weight: bold;">pod tímto stanoviskem není podepsaný vlastník tohoto serveru Patrick Zandl</span> a nemohlo to být s ním ze známých důvodů zatím ani konzultováno, proto to opravdu berte jako stanovisko čistě IPV, ZUI a SOS, nikoliv Marigoldu a Patricka (je na něm, jestli se po svém návratu přidá k našemu stanovisku, či napíše vlastní, či se k problému nevyjádří). Děkuji</p>
 

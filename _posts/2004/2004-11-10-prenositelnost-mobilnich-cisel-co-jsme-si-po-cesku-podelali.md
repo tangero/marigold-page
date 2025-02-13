@@ -1,14 +1,21 @@
 ---
 ID: 1397
-title: 'Přenositelnost mobilních čísel – co jsme si po&nbsp;česku podělali'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prenositelnost-mobilnich-cisel-co-jsme-si-po-cesku-podelali
-published: true
+oldlink: 'https://www.marigold.cz/item/prenositelnost-mobilnich-cisel-co-jsme-si-po-cesku-podelali
+
+  '
 post_date: 2004-11-10 09:17:59
+post_excerpt: ''
+published: true
+summary_points:
+- Přenositelnost mobilních čísel EU požaduje od konce 90. let.
+- Zavedení přenositelnosti mobilních čísel v ČR se stále odkládá.
+- Operátoři a ČTÚ se v problému přenositelnosti mobilních čísel obviňují.
+- Za nedodržení termínu zavedení portability zaplatí stát, tedy daňoví poplatníci.
+title: Přenositelnost mobilních čísel – co jsme si po&nbsp;česku podělali
 ---
+
 <p>
 Včera jsem na konferenci Tel.Con2004 moderoval diskusní panel věnovaný přenositelnosti mobilních čísel, panelu se účastnili zástupci operátorů (pánové Kadeřábek – Eurotel, Nekvasil – T-Mobile a Mach – Oskar) i zástupce ČTÚ pan Ebert. A samozřejmě slušně nacpaný sál (bylo mi divné, jak moc lidí tam zůstalo na celou hodinovou diskusi, ale pak se mi jeden posluchač po skončení přiznal, že moc chtěl na toaletu, ale bál se zdvihnout a odejít, abych mu jednu neflákl – tak ostré to ale nebylo!).</p>
 

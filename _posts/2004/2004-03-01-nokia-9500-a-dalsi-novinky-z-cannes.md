@@ -1,14 +1,23 @@
 ---
 ID: 890
-title: 'Nokia 9500 a&nbsp;další novinky z&nbsp;Cannes'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-9500-a-dalsi-novinky-z-cannes
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-9500-a-dalsi-novinky-z-cannes
+
+  '
 post_date: 2004-03-01 08:56:00
+post_excerpt: ''
+published: true
+summary_points:
+- Samsung SGH-D410 recenzentovi připadal velký a nepraktický, s nedostatečným využitím
+  displeje.
+- Nokia 9500 udělala výborný dojem, má pohodlnější klávesnici a modernější funkce.
+- Sendo X600 se Symbianem zaujal atraktivním grafickým provedením Series 60.
+- Motorola MPx má nepraktickou klávesnici, ale může vyhovovat uživatelům preferujícím
+  menší rozměry.
+title: Nokia 9500 a&nbsp;další novinky z&nbsp;Cannes
 ---
+
 <p>
 V Cannes jsem měl možnost sáhnout si na nové zde představené mobily. A tak si říkám, proč se nepodělit o dojmy. Především Samsung SGH-D410 se mi naprosto nelíbil. Je to velký telefon, u kterého má velký displej jen mizivé odpostatnění, kromě toho, že při psaní/čtení SMS či wapování vidíte větší kus zprávy. Ano, promiňte, zapoměl jsem, že s tím lze natáčet videa. Je to velká kraxna a i přes ten povyk, co kolem toho dělal Samsung, se mi to zdá docela nepraktický mobil. </p>
 

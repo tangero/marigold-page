@@ -1,14 +1,21 @@
 ---
 ID: 1398
-title: 'Všechny cesty k&nbsp;internetu'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vsechny-cesty-k-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/vsechny-cesty-k-internetu
+
+  '
 post_date: 2004-11-10 14:08:05
+post_excerpt: ''
+published: true
+summary_points:
+- Konference Všechny cesty k internetu pořádaná ČVTSS byla dle autora přínosná.
+- Český Telecom vylepšoval technickou strategii DSL ve dvou generacích.
+- První generace DSL strategie ČTc zavedla tři vzdálenostní zóny dle rychlosti.
+- ČTc plánuje po ADSL technologii přejít na VDSL2 pro vyšší rychlosti.
+title: Všechny cesty k&nbsp;internetu
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041110-cvtss-logo.gif" alt="logo ČVTSS" width="164" height="80" /></div><p>
 Nevím jak vy, ale já se posledních pár let na všech konferencích vesměs nudím — většinu toho co říkají už jsem několikrát slyšel jinde nebo četl na webu, opravdu exkluzivních a překvapujících informací se člověk nedočká. Naprosto jiný pocit jsem měl ale z dvojdenní akce, která pod názvem <a href="http://www.cvtss.cz/akce.php"><u>Všechny cesty k internetu</u></a> proběhla minulý týden v Praze na Novotného lávce. Konferenci pořádala Česká vědeckotechnická společnost spojů (ČVTSS), garantem akce byl ing. Janoušek, a to obé je zárukou nabitého programu a renomovaných hostí (MI ČR, ČTÚ, Lucent Technologies, Eurotel, Cesnet, ČTc, Sitel, Siemens, Karnevalmedia, Star-21 a ČVUT).</p>
 

@@ -1,14 +1,23 @@
 ---
 ID: 1140
-title: 'MMS  a&nbsp;burzovní zprávy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mms-a-burzovni-zpravy
-published: true
+oldlink: 'https://www.marigold.cz/item/mms-a-burzovni-zpravy
+
+  '
 post_date: 2004-06-10 08:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile kurzy akcií jsou nepoužitelné, nabízejí jen RM-Systém, nikoliv hlavní burzy.
+- Kódy akcií RM-Systému (ISIN, BIC) jsou obtížně zapamatovatelné oproti americkým
+  zkratkám.
+- Profesionální obchodníci nevyužijí kurzy na mobilu, potřebují realtime software
+  s více monitory.
+- Služba kurzů na mobilu by mohla být pro drobné investory, ale těch je v ČR málo.
+title: MMS  a&nbsp;burzovní zprávy
 ---
+
 <p>
 Zamýšlel jsem se ještě jednou nad rozhovorem s R. Mahlerem v Týdnu a jeho výrokem, že nemá smysl služby zlevnit, ale nabídnout takové nové, které lidi budou chtít. A jako příklad zde byl uveden odběr kurzů akcií přes MMS. </p>
 <p>

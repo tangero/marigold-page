@@ -1,14 +1,21 @@
 ---
 ID: 1403
-title: 'Noční zápolení s&nbsp;recenzí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nocni-zapoleni-s-recenzi
-published: true
+oldlink: 'https://www.marigold.cz/item/nocni-zapoleni-s-recenzi
+
+  '
 post_date: 2004-11-15 07:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- Recenze Nokia 9500 byla dokončena po víkendovém psaní a úpravách.
+- Formátování recenze se zdrželo kvůli pomalému nahrávání fotek a problémům se softwarem.
+- Autor postrádá jednoduchý WYSIWYG HTML editor s funkcemi pro úpravu obrázků a tabulek.
+- Autor hledá náhradu za starší FrontPage 98 pro snadnou tvorbu HTML stránek.
+title: Noční zápolení s&nbsp;recenzí
 ---
+
 <p>
 Uvolil jsem se asi po třech letech, že bych napsal recenzi na mobilní telefon a to jen proto, že šlo o nový komunikátor Nokia 9500 a na ten už mne nějaký ten pátek svrběly prsty. Mimo jiné i proto, že je to první kombinace GPRS/WiFi (a samozřejmě EDGE), kterou u nás jde provozovat a vůbec jedna z prvních, co existuje, pokud odmyslíme PCMCIA karty. </p>
 

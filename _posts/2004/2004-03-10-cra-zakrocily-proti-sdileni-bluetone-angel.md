@@ -1,16 +1,23 @@
 ---
 ID: 908
-title: >
-  ČRa zakročily proti sdílení Bluetone
-  Angel
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cra-zakrocily-proti-sdileni-bluetone-angel
-published: true
+oldlink: 'https://www.marigold.cz/item/cra-zakrocily-proti-sdileni-bluetone-angel
+
+  '
 post_date: 2004-03-10 08:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- ČRa zakročily proti sdílení Bluetone Angel kapacity, často přes WiFi.
+- Sdíleče ČRa sloučily do agregační skupiny, aby neomezovali ostatní zákazníky.
+- Stížnosti na rychlost Bluetone Angel vedly ČRa k vydání tiskové zprávy.
+- Všeobecné podmínky ČRa sdílení kapacity nepovolují.
+title: 'ČRa zakročily proti sdílení Bluetone Angel
+
+  '
 ---
+
 <p>
 České Radiokomunikace vydaly včera tiskovou zprávu, v níž uvádějí, že provedly analýzu provozu ve své bezdrátové síti Bluetone Angel a zakročili proti "překupníkům kapacity" - tedy proti lidem, kteří kapacitu svého bezdrátové připojení Angel prodávali či sdíleli dále. Tisková zpráva vysloveně uvádí, že oblíbenou metodou sdílení kapacity bylo WiFi. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1128
-title: 'WiFi nezávislé na napájení &#8211; akumulátory a&nbsp;solární panely'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-nezavisle-na-napajeni-akumulatory-a-solarni-panely
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-nezavisle-na-napajeni-akumulatory-a-solarni-panely
+
+  '
 post_date: 2004-06-06 15:17:45
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi repeater lze napájet akumulátorem, například 6V/10Ah, pro dočasný provoz.
+- Solární panely vyžadují akumulátor a regulátor pro stálé napájení WiFi repeateru.
+- Linksys WRT54G je vhodný pro repeater díky nízké spotřebě (cca 6W).
+- Solární napájení WiFi repeateru je drahé (cca 10 000 Kč) a láká zloděje.
+title: WiFi nezávislé na napájení &#8211; akumulátory a&nbsp;solární panely
 ---
+
 <p>
 Potřebujete rozeběhnout WiFi i v oblasti bez elektrické energie? Musíte zřizovat repater v místě, kde není napájení? Přestřelit vrcholek kopce nebo mít mobilní hotspot?
 </p>

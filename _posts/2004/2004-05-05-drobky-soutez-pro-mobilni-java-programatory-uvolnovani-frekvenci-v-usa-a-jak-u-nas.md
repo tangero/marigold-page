@@ -1,14 +1,22 @@
 ---
 ID: 1017
-title: 'Drobky: soutěž pro mobilní Java programátory, uvolňování frekvencí v&nbsp;USA a&nbsp;jak u&nbsp;nás:)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-soutez-pro-mobilni-java-programatory-uvolnovani-frekvenci-v-usa-a-jak-u-nas
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-soutez-pro-mobilni-java-programatory-uvolnovani-frekvenci-v-usa-a-jak-u-nas
+
+  '
 post_date: 2004-05-05 08:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel, Nokia a UPMobile pořádají soutěž Start 2004 pro Java programátory.
+- FCC uvolňuje 50 MHz pásma pro WiMax na objednávku G. Bushe.
+- Zvažuje se souběh TV vysílání a bezdrátových sítí na stejné frekvenci.
+- V ČR se uvolnění frekvencí pro WiMax v dohledné době neočekává.
+title: 'Drobky: soutěž pro mobilní Java programátory, uvolňování frekvencí v&nbsp;USA
+  a&nbsp;jak u&nbsp;nás:)'
 ---
+
 <p>
 Se <STRONG>soutěžemi v programování pro mobilní Java programátory</STRONG> se roztrhl pytel, alespoň se mi to zdá, protože další javovou soutěž nazvanou Start 2004 o nejlepší Java aplikaci pořádá Eurotel, Nokia a UPMobile. Za odměnu dostane trojice nejlepších Nokia telefony a aplikace také musí běhat na Nokia telefonech. Podrobnosti zde na <A href="http://start.up.cz/" target=_blank>webu UPMobile</A>.</p>
 

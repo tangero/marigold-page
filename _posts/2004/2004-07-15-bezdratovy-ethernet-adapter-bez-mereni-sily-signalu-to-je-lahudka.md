@@ -1,14 +1,21 @@
 ---
 ID: 1197
-title: 'Bezdrátový ethernet adaptér bez měření síly signálu &#8211; to je lahůdka'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezdratovy-ethernet-adapter-bez-mereni-sily-signalu-to-je-lahudka
-published: true
+oldlink: 'https://www.marigold.cz/item/bezdratovy-ethernet-adapter-bez-mereni-sily-signalu-to-je-lahudka
+
+  '
 post_date: 2004-07-15 08:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bezdrátové ethernet adaptéry mají nezvládnutý Site Survey pro měření okolních sítí.
+- Site Survey adaptérů zobrazuje jen jméno sítě a MAC adresu, což je nedostatečné.
+- Pro správné nastavení antény je nutný software typu NetStumbler, ne adaptér.
+- Problémem je nekompatibilita konektorů antén mezi adaptéry a notebooky.
+title: Bezdrátový ethernet adaptér bez měření síly signálu &#8211; to je lahůdka
 ---
+
 <p>
 V poslední době jsem měl několikrát co do činění s bezdrátovými ethernet adaptéry, tedy krabičkami, které z WiFi signálu udělají výstup na ethernet a RJ-45. Naposledny mne taková pixla naštvala včera a znovu jsem narazil na tu samou věc. Absolutně nezvládnutý Site Survey. </p>
 <p>

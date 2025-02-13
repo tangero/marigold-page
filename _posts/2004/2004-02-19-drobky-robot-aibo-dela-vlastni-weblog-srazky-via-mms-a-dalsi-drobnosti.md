@@ -1,14 +1,23 @@
 ---
 ID: 870
-title: 'Drobky: robot Aibo dělá vlastní weblog, srážky via MMS a&nbsp;další drobnosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-robot-aibo-dela-vlastni-weblog-srazky-via-mms-a-dalsi-drobnosti
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-robot-aibo-dela-vlastni-weblog-srazky-via-mms-a-dalsi-drobnosti
+
+  '
 post_date: 2004-02-19 08:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel ruší CDMA450 kvůli obavám o ADSL, tvrdí Jiří Peterka.
+- Rita Pužmanová na Lupě píše o technologii 802.11g.
+- V Nepálu připojují vesnici k internetu pomocí WiFi antén Levi.
+- Robot Aibo si dělá weblog automatickým posíláním fotek.
+- ČHMÚ nabízí odběr měření z meteorologického radaru jako MMS.
+- NTT DoCoMo vyvinulo holografickou paměť o kapacitě 1GB.
+title: 'Drobky: robot Aibo dělá vlastní weblog, srážky via MMS a&nbsp;další drobnosti'
 ---
+
 <p>
 Lupa dnes <A href="http://www.lupa.cz/clanek.php3?show=3237" target=_blank>přináší článek</A> na téma <STRONG>zrušení CDMA450 Eurotelu Telecomem</STRONG>, je z pera Jiřího Peterky. Jiří Peterka vyslovuje názor, že Telecom ruší projekt CDMA450 kvůli obavám o své ADSL. Takže to nesouvisí s dalajlámou? Další úvahu na téma CDMA <A href="http://www.mobilmania.cz/Operatori/Ar.asp?ARI=106606&amp;CAI=2114" target=_blank>přináší MobilManie</A> z pera Jiřího Hlavenky. Ten nabádá k smířlivosti a domnívá se, že strategie Telecomu se teprve vytváří. Doufejme, že má pravdu - musíme si uvědomit, že nové vedení nemá s tím starým prakticky nic společného až na budovu, ve které sedí. A že připravit novou strategii chvíli trvá. No, je to na delší úvahu, budu ji muset sepsat... Jiří Hlavenka měl včera na Živě hezkou úvahu k WiMaxu: <A href="http://www.zive.cz/h/Byznys/Ar.asp?ARI=114959&amp;CAI=2034">Stane se WiMax konečným řešením pro internetovou konektivitu?</A>&#160;<STRONG>Já bych znovu před WiMaxem rád varoval</STRONG>: nic z toho, co se slibuje, se ještě nevyrábí, nejsou s tím žádné praktické zkušenosti vyjma reklamních letáčků. Neslibujte si od té technologie spásu, spása se neděje tak snadno!</p>
 

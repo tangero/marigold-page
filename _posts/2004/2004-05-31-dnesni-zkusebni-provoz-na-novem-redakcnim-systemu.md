@@ -1,16 +1,23 @@
 ---
 ID: 1111
-title: >
-  Dnešní zkušební provoz na novém
-  redakčním systému
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dnesni-zkusebni-provoz-na-novem-redakcnim-systemu
-published: true
+oldlink: 'https://www.marigold.cz/item/dnesni-zkusebni-provoz-na-novem-redakcnim-systemu
+
+  '
 post_date: 2004-05-31 08:40:56
+post_excerpt: ''
+published: true
+summary_points:
+- Články a zprávy z Genesis/Marigolda byly exportovány a nahrány do Nucleusu.
+- Titulní stránka Nucleusu je v testovacím provozu s designem Marigolda.
+- Některé funkce Nucleusu nefungují správně, například posílání emailů a vyhledávání.
+- Autor strávil víkend úpravami designu a zvažuje prioritu obsahu nad designem.
+title: 'Dnešní zkušební provoz na novém redakčním systému
+
+  '
 ---
+
 <p>
 Konečně jsem si dohrál se základními věcmi. Vyexportoval jsem z Genesis články a zprávy z Marigolda a nahrál jsem je do Nucleusu, obarvil jsem titulní stránku a stránku článků do designu Marigolda a mimo jiné jsem nově rozřezal titulní stránku tak, že je skoro XHTML Strict, kdyby nebylo problémů s externími kódy, kde to opravím časem. </p>
 

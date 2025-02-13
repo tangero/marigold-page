@@ -1,14 +1,21 @@
 ---
 ID: 1451
-title: Telefonní automaty for ever
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telefonni-automaty-for-ever
-published: true
+oldlink: 'https://www.marigold.cz/item/telefonni-automaty-for-ever
+
+  '
 post_date: 2004-12-21 12:12:02
+post_excerpt: ''
+published: true
+summary_points:
+- Autor očekával, že Patrick bude psát místo něj od včerejška.
+- Zpráva ČTK uvádí povinné úpravy telefonních automatů pro handicapované.
+- Autor vidí v úpravách automatů maskované obcházení zákona o zakázkách.
+- Telefonní automaty jsou v době mobilů zbytečná finanční zátěž.
+title: Telefonní automaty for ever
 ---
+
 <p>
 Opět píšu já, předpokládal jsem, že od včerejška bude psát už Patrick, že už se měl vrátit.</p>
 <p>

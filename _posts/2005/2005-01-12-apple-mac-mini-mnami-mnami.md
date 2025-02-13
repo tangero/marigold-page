@@ -1,14 +1,21 @@
 ---
 ID: 1472
-title: 'Apple Mac Mini &#8211; mňami mňami'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/apple-mac-mini-mnami-mnami
-published: true
+oldlink: 'https://www.marigold.cz/item/apple-mac-mini-mnami-mnami
+
+  '
 post_date: 2005-01-12 08:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mac Mini, novinka od Apple, má malé rozměry a základní specifikace.
+- Cena Mac Mini 500 USD je lákavá alternativa k Windows PC.
+- Autor touží po Mac Mini pro psaní, surfování a nenáročné úkoly.
+- Autor vzpomíná na Amiga CDTV a touží po počítači do věže.
+title: Apple Mac Mini &#8211; mňami mňami
 ---
+
 <p>Včera Apple představilo svoji horkou novinku Mac Mini, mrňavoučkou krabičku o velikosti osmi na sebe naskládaných obalů na CDčka. A v krabičce je počítač Mac i s CD-RW/DVD, minimálně 256 MB paměti a 40 GB disku (více za příplatek), procesor od 1,25 GHz. Specifikace a spousta podrobností je <a href="http://www.maler.cz/">u MaLéra</a> a zde na <a href="http://www.apple.com/macmini/">webu Apple.</a></p>
 
 

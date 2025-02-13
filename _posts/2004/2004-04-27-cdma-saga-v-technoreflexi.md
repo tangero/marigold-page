@@ -1,14 +1,21 @@
 ---
 ID: 1003
-title: 'CDMA sága v&nbsp;technoreflexi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cdma-saga-v-technoreflexi
-published: true
+oldlink: 'https://www.marigold.cz/item/cdma-saga-v-technoreflexi
+
+  '
 post_date: 2004-04-27 07:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- Unstrug reportuje o Eurotelu a jeho CDMA450, vnímaném jako "kacířství".
+- Eurotel zjistil, že Nokia nenabízí řešení pro pásmo 450 MHz.
+- Eurotel nakoupil CDMA2000 EV-DO od Nortelu pro pásmo 450 MHz.
+- Autor spekuluje o CDMA2000 pro 3G pásmo Eurotelu, ale vidí integraci problematicky.
+title: CDMA sága v&nbsp;technoreflexi
 ---
+
 <p>
 Také Unstrug <A href="http://semania.odblokovani.biz/index.php?option=content&amp;task=view&amp;id=72&amp;Itemid=2" target=_blank>vydal článek </A>o CDMA sáze Eurotelu (samozřejmě anglicky), Unstrug situaci kolem CDMA450 sleduje a bedlivě reportuje. Pročpak to? Protože s CDMA450 se "do ráje vkrádá kacířství". Že si pár bláznů a pošahanců z Běloruska nebo Moldávie nějaký podobný systém pořídí, to by se ještě dalo tolerovat, od pohrobků CCCP&#160;&#160;jsou západoevropské firmy zvyklé na ledasco. Jenže Eurotel byl až doposud braný jako pravověrná firma. Léta kupoval od firmy Nokia cokoliv co prodávala a byl vždy první hotov vyzkoušet nový objev. Jenže jednou zjistil, že má volné 450 MHz pásmo a tehdy to začalo být nahnuté. Eurotel poslal na Nokiu uctivý dotaz, co že v pásmu 450 Nokia dodává. Nokia odpověděla, že ničeho. Eurotel se pro jistotu přeptal, zda by nešlo přeladit Tetru do jeho pásma a Nokia odvětila, že do toho se jí tedy <EM>faaaakt</EM> nechce. Někdo v Eurotelu pak sedl k internetu, zadal do Google klíčové slovo <EM>450 MHz</EM> a zjistil, že na světě už dávno není jen Nokia a že už nejsou jen evropské megasystémy jako TETRA, GSM a UMTS. A tak si koupil CDMA2000 EV-DO v pásmu 450 MHz, protože Nortel neměl žádné hemzy, že nic takového se mu dělat nechce, naopak se tlačil přede dveřmi s dalšími zájemci o to, technologii Eurotelu prodat. A tak do evropského uniformního ráje vstoupilo kacířství. </p>
 

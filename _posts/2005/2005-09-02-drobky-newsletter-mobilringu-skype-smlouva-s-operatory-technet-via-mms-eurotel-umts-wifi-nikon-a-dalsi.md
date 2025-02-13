@@ -1,14 +1,23 @@
 ---
 ID: 1807
-title: 'Drobky: newsletter Mobilringu, Skype smlouvá s&nbsp;operátory, Technet via MMS, Eurotel UMTS, WiFi Nikon a&nbsp;další'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-newsletter-mobilringu-skype-smlouva-s-operatory-technet-via-mms-eurotel-umts-wifi-nikon-a-dalsi
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-newsletter-mobilringu-skype-smlouva-s-operatory-technet-via-mms-eurotel-umts-wifi-nikon-a-dalsi
+
+  '
 post_date: 2005-09-02 08:34:10
+post_excerpt: ''
+published: true
+summary_points:
+- Mobilring.com rozesílá newsletter o telekomunikacích, shrnující novinky z telco
+  businessu.
+- Skype podepsal dohodu s Eplusem o podpoře Skype v síti.
+- Eurotel chystá tiskovou konferenci příští čtvrtek ohledně UMTS.
+- Technet si pořídil zasílání MMS zpráv do systému a mobloguje z IFA.
+title: 'Drobky: newsletter Mobilringu, Skype smlouvá s&nbsp;operátory, Technet via
+  MMS, Eurotel UMTS, WiFi Nikon a&nbsp;další'
 ---
+
 <p>Dneska nemám na páteční psaní náladu. Máte sedět v práci na zadku a fárat jako já :/ Ale alespoň telegraficky zajímavosti a drobky:</p>
 
 <p>Zajímavá nová služba je na <a href="http://www.mobilring.com/">serveru Mobilring.com</a> - rozesílají emailem český <strong>newsletter o telekomunikacích</strong>, takže si na dvou A4 přečtete, co se stalo zajímavého nového v telco businessu. Asi to zaujme všechny, koho nezaujaly dnešní články na MobilManii a Mobilu (Vyberte si: nejošklivější a nejhorší telefony na našem trhu <em>versus</em> Jaké textovky se perou o váš mobil?) Alespoň nejsem sám, komu chybí telco ekonomika. </p>

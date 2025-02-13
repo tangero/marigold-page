@@ -1,14 +1,21 @@
 ---
 ID: 1009
-title: 'Help, počítač se mi zbláznil&#8230;.:('
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/help-pocitac-se-mi-zblaznil
-published: true
+oldlink: 'https://www.marigold.cz/item/help-pocitac-se-mi-zblaznil
+
+  '
 post_date: 2004-04-29 08:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- Trojan pronikl do systému přes e-mail, i přes antivirovou ochranu.
+- Virus modifikoval registry, takže se programy nespouštěly správně.
+- Notebook se po instalaci firewallu chová nestabilně a nespouští programy.
+- Data na notebooku nejsou zálohována a přeinstalace systému je komplikovaná.
+title: Help, počítač se mi zbláznil&#8230;.:(
 ---
+
 <p>
 <STRONG>Update: děkuji všem za rady, nakonec se ukázalo, že to byl </STRONG><A href="http://vil.nai.com/vil/content/v_100830.htm" target=_blank><STRONG>tenhle trojan</STRONG></A><STRONG>&#160;a už je po něm.</STRONG> Antivirus ho zachytil (zajímavé, jak se mi dostal do pošty, poštu scanuje antivirus na Runbox.com a pak ještě můj Norton Antivirus a všechny spustitelné přílohy automaticky maže) a smazal. Jenže ten trojský kůň ještě před tím zapsal nějak do registrů, že se mají všechny programy spouštět tak, že ho nejdříve zavolají (nikdy&#160; jsem netušil, že tohle udělat je tak prosté). A protože ho antivir smazal, tak se exe programy odmítaly spustit, protože na disku chyběl ten virus... No, děkuji všem za řešení, obešlo se to bez reinstalace a jen s malým infarktovým stavem :) Mimochodem, právě mi dobíhá roční předplatné za Nortona, jestli jsem ještě včera uvažoval, že si ho nepředplatím, nějak mne to pustilo a koupím si lepší verzi :) <EM>Konec update</EM></p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 888
-title: 'CDMA450 &#8211; nakonec, co jsme čekali?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cdma450-nakonec-co-jsme-cekali
-published: true
+oldlink: 'https://www.marigold.cz/item/cdma450-nakonec-co-jsme-cekali
+
+  '
 post_date: 2004-03-01 08:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel CDMA450 by bylo nadbytečné, protože konkuruje ADSL a je technologicky náročné.
+- Telecom pravděpodobně nechce CDMA450, aby nekonkurovalo jeho ADSL.
+- T-Mobile CDMA450 zvažuje pouze jako reakci na případný krok Eurotelu.
+- Oskar se zaměřuje na hlasové a SMS služby, EDGE nasadí nejdříve v polovině 2005.
+title: CDMA450 &#8211; nakonec, co jsme čekali?
 ---
+
 <p>
 O projektu CDMA450 se toho po jeho "pozastavení" Telecomem hovoří hodně. Dneska vyšel <A href="http://www.mobilmania.cz/Operatori/AR.asp?ARI=106682" target=_blank>další článek</A> na toto téma od Tomáše Votruby na MobilManii a autor si v něm tipuje: <EM>"Eurotel spustí CDMA, T-Mobile taky a Oskar dá přednost EDGE"</EM>. </p>
 

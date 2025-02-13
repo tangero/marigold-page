@@ -1,14 +1,22 @@
 ---
 ID: 1118
-title: 'Drobky: WiFi do mobilů, Navini konvertovalo k&nbsp;WiMaxu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-wifi-do-mobilu-navini-konvertovalo-k-wimaxu
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-wifi-do-mobilu-navini-konvertovalo-k-wimaxu
+
+  '
 post_date: 2004-06-02 08:34:35
+post_excerpt: ''
+published: true
+summary_points:
+- Avaya, Motorola a Proxim vyvíjejí telefon pro přepínání VoIP hovorů mezi WiFi a
+  mobilní sítí.
+- Telefon bude určen pro enterprise market a bude pracovat pouze s 802.11a.
+- a má větší kapacitu (21 kanálů) než 802.11b (3 kanály) pro hlasové hovory.
+- Navini opustilo podporu 802.20 (Mobile-Fi) a přešlo k mobilnímu WiMaxu (802.16e).
+title: 'Drobky: WiFi do mobilů, Navini konvertovalo k&nbsp;WiMaxu'
 ---
+
 <p>
 Avaya, Motorola a Proxim pracují společnými silami na telefonu, který by uměl přepínat hlasové hovory (vedené via VoIP) z WiFi sítě do mobilní sítě v případě, že by vypadl z pokrytí WiFi. Vtip je v tom, že nový telefon (určený pro "enterprise market") bude pracovat pouze s 802.11a. Důvod je údajně prostý - kapacita. Zatímco 802.11b má pouze tři nepřekrývající se kanály a zvládá tedy cca 6-8 hlasových hovorů najednou, 802.11a má kanálů 21 a může přenést řádově 25 hovorů. 
 <i>Zdroj: <a href="http://www.pcworld.com/news/article/0,aid,116334,00.asp">PCWorld.com - Combo Wi-Fi, Cell Phone Coming Soon</a></i></p>

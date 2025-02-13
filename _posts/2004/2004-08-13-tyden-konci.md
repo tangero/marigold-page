@@ -1,13 +1,19 @@
 ---
 ID: 1248
-title: Týden končí
 author: Noname
-post_excerpt: ""
 layout: post
 oldlink: https://www.marigold.cz/item/tyden-konci
-published: true
 post_date: 2004-08-13 10:08:05
+post_excerpt: ''
+published: true
+summary_points:
+- Autorův týden na Marigoldu končí, příští týden píše Patrik.
+- Dnes autor dopíše poslední díl seriálu "Chci bezdrátovou síť" o bezdrátovém internetu.
+- Autor se zalekl článku na Lupě, ale ten se netýká výběru správného připojení.
+- Čtenáři mají v anketě zhodnotit týden bez Patrika a s Nonamem.
+title: Týden končí
 ---
+
 <p>
 Můj týden na Marigoldu končí, příští týden už tu zase bude psát Patrik. Dnes ještě (doufám) dopíšu poslední díl seriálu "<a href="http://www.marigold.cz/?query=Chci+bezdr%E1tovou+s%ED%BB&amp;amount=0&amp;blogid=1">Chci bezdrátovou síť</a>", kde se budu věnovat tomu asi nejzajímavějšímu tématu "Chci bezdrátový Internet". Jestli se objeví v okurkové polívce ještě nějaká perla, tak dám i nějakou <strong>Zprávu z tisku</strong> (včera mě nezaujalo nic, kromě snad Lupáckého <a href="http://www.lupa.cz/clanek.php3?show=3559">WiFi vs. CDMA: kdo s koho?</a>, ale to je taková blbost, že jsem to pak nechal bez komentáře, ostatně <a href="http://chci%20bezdrátovou%20síť!%20(3)/">Chci bezdrátovou síť! (3)</a> nezasvěcenému vysvětlí, co je to hot-spot a CDMA se budu trochu věnovat dnes).</p>
 <p>

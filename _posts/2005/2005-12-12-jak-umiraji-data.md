@@ -1,14 +1,21 @@
 ---
 ID: 1895
-title: Jak umírají data
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-umiraji-data
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-umiraji-data
+
+  '
 post_date: 2005-12-12 14:47:58
+post_excerpt: ''
+published: true
+summary_points:
+- Data snadno umírají změnou nosiče, formátu, nebo ztrátou smyslu převodu.
+- Digitalizace dat představuje riziko ztráty informací kvůli zastarávání formátů.
+- Budoucí generace mohou mít problém s interpretací dat z naší doby.
+- Zálohování důležitých dat i v analogové formě je klíčové pro uchování.
+title: Jak umírají data
 ---
+
 <p><em>"Takový důl, to je díra v zemi. Ten vám nikdo nevezme,"</em> říkal klasik. S daty je to stejné. Jsou bezpečně uložená na pevném disku, disketě, cédéčku. Opravdu bezpečně, stejně jako ten důl v zemi…</p>
 
 <p>Jak umírají data? Proklatě snadno. S počítači pracuji dvacet let, jen o deset let méně, než žiju, prakticky celý svůj tvůrčí život. Kromě první žádosti o patent na hyperprostorový pohon (kterou jsem sesmolil v devíti letech, napsal na stroji a vyvedl mikrotužkou za 19,90 Kčs a patent mi bohužel nebyl uznán) mám prakticky veškeré své „životní dílo“ někde v počítačových datech. Zatraceně dobře vím, jak ta data umírají. </p>

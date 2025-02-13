@@ -1,14 +1,21 @@
 ---
 ID: 819
-title: Přidávání MMS zpráv na Marigolda
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pridavani-mms-zprav-na-marigolda
-published: true
+oldlink: 'https://www.marigold.cz/item/pridavani-mms-zprav-na-marigolda
+
+  '
 post_date: 2004-01-28 09:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- MMS zprávy přidány na Marigold pomocí Bloguje.cz jako obezličky pro Genesis.
+- Cannes postřehy budou zaznamenávány pomocí MMS zpráv pro okamžité zachycení.
+- Oskar nenabízí GPRS roaming ve Francii, což komplikuje posílání MMS.
+- Demo aplikace s výpisem ženských jmen omylem zobrazovala chybovou hlášku.
+title: Přidávání MMS zpráv na Marigolda
 ---
+
 <p>
 Včera jsem za vydatné Arthurovy pomoci zprovoznil přidávání MMS zpráv na Marigolda. Proč Arthurovy? Inu proto, že Genesis (redakční systém který Marigold používá), nemá vstup dat via MMS a tak jsem udělal hezkou obezličku - založil jsem si weblog na Bloguje.cz, na které se MMS zprávy posílat dají. A Genesis si pak data stáhne z toho weblogu a uloží je do své databáze. Holt finta - a funguje náramně, jen ta čeština zlobí. </p>
 

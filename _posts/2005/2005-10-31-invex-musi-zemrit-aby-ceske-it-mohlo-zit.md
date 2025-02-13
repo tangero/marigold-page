@@ -1,16 +1,23 @@
 ---
 ID: 1861
-title: >
-  Invex musí zemřít, aby české IT
-  mohlo žít
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/invex-musi-zemrit-aby-ceske-it-mohlo-zit
-published: true
+oldlink: 'https://www.marigold.cz/item/invex-musi-zemrit-aby-ceske-it-mohlo-zit
+
+  '
 post_date: 2005-10-31 09:46:01
+post_excerpt: ''
+published: true
+summary_points:
+- Invex 2005 byl pro autora zklamáním, srovnatelným s pohromou.
+- VoIP Expo a IDF byly jediné světlé momenty veletrhu Invex.
+- Křišťálový disk generálního ředitele BVV byl absurdní novou kategorií.
+- Invex se točí v kruhu, ignoruje nové trendy a mladou generaci.
+title: 'Invex musí zemřít, aby české IT mohlo žít
+
+  '
 ---
+
 <p>Pozorování veletrhu Invex je i pro velké fandy podobných akcí, jako jsem já, velmi smutná záležitost. Letošní ročník byl zatím největší pohromou od zničení Pompejí – tři čtvrtiny veletržních hal zavřených, zbytek povětšinou pronajatý hernímu mistrovstí nebo jiným pařanským akcím a pak tři haly, v nichž bylo bez ladu a skladu nashromážděno tolik firem, kolik se jich neodvážilo vypovědět smlouvu BVV. </p>
 
 <p>Světlých momentů bylo pomálu a museli jste opravdu hledat. Snad jedině VoIP Expo bylo na ráně, ne snad že by přinášelo zásadní novinky pro novináře, ale odbornou veřejnost zaujmout mohlo. Pak ještě obrovský pult IDF s všemi možnými fotoaparáty, jenže to bylo tak všechno. </p>

@@ -1,14 +1,22 @@
 ---
 ID: 1353
-title: 'Patentové šílenství s&nbsp;přesměrovací stránkou na hotspotu pokračuje'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/patentove-silenstvi-s-presmerovaci-strankou-na-hotspotu-pokracuje
-published: true
+oldlink: 'https://www.marigold.cz/item/patentove-silenstvi-s-presmerovaci-strankou-na-hotspotu-pokracuje
+
+  '
 post_date: 2004-10-08 09:05:27
+post_excerpt: ''
+published: true
+summary_points:
+- Acacia Technologies vlastní patent 6,226,677 na přesměrování hotspotů na vstupní
+  stránku.
+- Acacia je právní společnost, která vymáhá poplatky za patenty, nikoliv vývojář.
+- Acacia požaduje 1000 dolarů za 3500 přesměrování od provozovatelů hotspotů v USA.
+- Acacia hrozí soudy a má 30 milionů dolarů na právní výdaje.
+title: Patentové šílenství s&nbsp;přesměrovací stránkou na hotspotu pokračuje
 ---
+
 <p>
 Na světě je další mamelucká firma s patentem na přesměrování neautorizovaného připojení na hotspot na nějakou vstupní stránku. Firma se jmenuje Acacia Technologies a je vlastníkem patentu <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=6,226,677.WKU.&amp;OS=PN/6,226,677&amp;RS=PN/6,226,677">číslo 6,226,677</a>, který koupila od společnosti LodgeNet. </p>
 

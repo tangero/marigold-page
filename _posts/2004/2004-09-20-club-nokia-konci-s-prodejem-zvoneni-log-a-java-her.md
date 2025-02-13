@@ -1,14 +1,21 @@
 ---
 ID: 1326
-title: 'Club Nokia končí s&nbsp;prodejem zvonění, log a&nbsp;java her'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/club-nokia-konci-s-prodejem-zvoneni-log-a-java-her
-published: true
+oldlink: 'https://www.marigold.cz/item/club-nokia-konci-s-prodejem-zvoneni-log-a-java-her
+
+  '
 post_date: 2004-09-20 08:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia končí s prodejem vyzváněcích tónů, log a java her na Club Nokia.
+- Club Nokia nikdy nekonkuroval portálům operátorů, byl spíše technologickým demoprojektem.
+- Nokia se na trhu s vyzváněcími tóny a logy neprosadila.
+- Nokia si ponechává pouze obchod s prodejem her pro N-Gage.
+title: Club Nokia končí s&nbsp;prodejem zvonění, log a&nbsp;java her
 ---
+
 <p>
 Podle serveru <a href="http://www.nordicwirelesswatch.com/wireless/story.html?story_id=3785">Nordic Wireless Watch</a> končí Nokia s prodejem vyzváněcích tónů, log a java her na svém Club Nokia. Prodej těchto rozšíření Nokia telefonů fungoval na Club Nokia někdy od roku 1999 a to i v ČR, firma ale nikdy neukousla velký podíl z trhu odhadovaného na 1,5-3,5 miliard dolarů za letošní rok. Nokia tvrdí, že Club Nokia se také nikdy neměl stát konkurencí portálům operátorů, spíše byl takovým technologickým demoprojektem, protože v době, kdy vznikal, nic podobného u operátorů neexistovalo. </p>
 

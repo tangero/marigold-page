@@ -1,16 +1,23 @@
 ---
 ID: 806
-title: >
-  Vítězem tendru na RSS čtečku se
-  stává SharpReader
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vitezem-tendru-na-rss-ctecku-se-stava-sharpreader
-published: true
+oldlink: 'https://www.marigold.cz/item/vitezem-tendru-na-rss-ctecku-se-stava-sharpreader
+
+  '
 post_date: 2004-01-21 16:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- SharpReader vyhrál výběrové řízení na RSS čtečku kvůli chronologickému řazení příspěvků.
+- FeedDemon byl druhý finalista, ale byl placený a náročnější na paměť.
+- FeedReader neměl standardizovaný formát pro import/export zdrojů, což vadilo autorovi.
+- Autor preferuje jednoduchost SharpReaderu před zbytečnými funkcemi a filtry.
+title: 'Vítězem tendru na RSS čtečku se stává SharpReader
+
+  '
 ---
+
 <p>
 Moje výběrové řízení na novou RSS čtečku <STRONG>má svého vítěze - </STRONG><A href="http://www.sharpreader.net/" target=_blank><STRONG>SharpReader</STRONG></A>. Splňuje základní požadavky, z nichž ten nejdůležitější byl ten, abych si mohl prohlížet nadpisy všech příspěvků chronologicky za sebou. Moje dosavadní RSS čtečka FeedReader je vždy primárně řadila do skupiny podle serveru a teprve v ní chronologicky, což studium většího množství update dělalo velmi problematickým. Navíc mne často zlobila. </p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 1851
-title: >
-  Nová verze firmwaru pro Asus WL500
-  přináší podporu modemu AnyData
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nova-verze-firmwaru-pro-asus-wl500-prinasi-podporu-modemu-anydata
-published: true
+oldlink: 'https://www.marigold.cz/item/nova-verze-firmwaru-pro-asus-wl500-prinasi-podporu-modemu-anydata
+
+  '
 post_date: 2005-10-19 09:52:20
+post_excerpt: ''
+published: true
+summary_points:
+- Adam Koppel vydal nový firmware pro Asus WL-500 s podporou CDMA modemu AnyData E100h.
+- Firmware umožňuje sdílení připojení přes GTRAN nebo AnyData bez složitého nastavování.
+- Firmware podporuje sériovou komunikaci přes USB, včetně převodníků PL2303 pro GPRS/EDGE/3G.
+- AP Scan funkce usnadňuje správu a nasazení AP díky vyhledávání volných wifi kanálů.
+title: 'Nová verze firmwaru pro Asus WL500 přináší podporu modemu AnyData
+
+  '
 ---
+
 <p>Adam Koppel vydal novou aktualizaci firmware pro Asus WL-500. Nejočekávanější je podpora CDMA modemu AnyData E100h, se kterou přicházíme jako první platforma mimo oficiální Windows driver. </p>
 
 <p>Nový firmware uživatelům umožňuje sdílet připojení realizované modemem GTRAN nebo AnyData bez nutnosti provádět jakákoliv složitá nastavení.</p>

@@ -1,14 +1,22 @@
 ---
 ID: 1710
-title: 'Internet do bytu 10 Mb/s za 999&nbsp;Kč a&nbsp;TV po&nbsp;netu. A&nbsp;není to zpráva ze zahraničí.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/internet-do-bytu-10-mb-s-za-999-kc-a-tv-po-netu-a-neni-to-zprava-ze-zahranici
-published: true
+oldlink: 'https://www.marigold.cz/item/internet-do-bytu-10-mb-s-za-999-kc-a-tv-po-netu-a-neni-to-zprava-ze-zahranici
+
+  '
 post_date: 2005-07-07 11:29:44
+post_excerpt: ''
+published: true
+summary_points:
+- Mattes AD nabízí 10 Mb/s internet (802.10.MEGA) za 999 Kč ve Frýdku-Místku.
+- VOX je VoIP telefonní služba bez paušálu, volání od 50 haléřů.
+- TV streamuje TV Óčko a další stanice, zatím zdarma k internetu.
+- Dostupnost 802.10.MEGA je omezena na Frýdek-Místek a okolí.
+title: Internet do bytu 10 Mb/s za 999&nbsp;Kč a&nbsp;TV po&nbsp;netu. A&nbsp;není
+  to zpráva ze zahraničí.
 ---
+
 <p>Miluju takové ty zprávy ze zahraničí, že si můžete v japonské prefektuře Kuma objednat 100 Mb/s internetovou přípojku až do bytu. Taková zpráva je trochu k naxxání, protože my ostatní, kteří nebydlíme v prefektuře Kuma, se modlíme za to, aby u nás běhalo alespoň to ADSL.</p>
 
 <p>Tahle zpráva je česká, i když vypadá, jako z říše snů. </p>

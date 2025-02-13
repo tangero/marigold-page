@@ -1,14 +1,22 @@
 ---
 ID: 1159
-title: 'Drobky: SpaceShipOne uspěl, ČTÚ se nelíbí podivné antény pro TV. A&nbsp;zazvoníte a&nbsp;spadne letadlo&#8230; :)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-spaceshipone-uspel-ctu-se-nelibi-podivne-anteny-pro-tv-a-zazvonite-a-spadne-letadlo
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-spaceshipone-uspel-ctu-se-nelibi-podivne-anteny-pro-tv-a-zazvonite-a-spadne-letadlo
+
+  '
 post_date: 2004-06-22 08:31:48
+post_excerpt: ''
+published: true
+summary_points:
+- SpaceShipOne překonal 100 km, což je první soukromý suborbitální let.
+- Eurotel CDMA rušilo TV antény kvůli špatným anténám, potvrdilo šetření.
+- Bezdrátové zvonky na frekvenci NATO by prý mohly ohrozit letadla.
+- Mainstreamová média nevěnují letu SpaceShipOne dostatečnou pozornost.
+title: 'Drobky: SpaceShipOne uspěl, ČTÚ se nelíbí podivné antény pro TV. A&nbsp;zazvoníte
+  a&nbsp;spadne letadlo&#8230; :)'
 ---
+
 <p>
 První soukromý kosmický let na suborbitální dráhu dopadl dobře a <strong>SpaceShipOne překonal 100 km</strong> výšky nad zemským povrchem. Je zajímavé, jak málo pozornosti tak důležité události mainstreamová média věnují. Žádné přílohy, rozhovory a online chaty s konstruktéry, zatímco xichty SuperStar jsou všude. Přitom jestli se má do vesmíru létat za 100 000 USD v roce 2010, tak máme nejvyšší čas začít šetřit :) Podrobnosti anglicky <a href="http://www.signonsandiego.com/news/science/20040621-0751-ca-privaterocket.html">SanDiegoOnline</a>, česky u <a href="http://www.maler.cz/index.php?id=95">Maléra</a> a také na <a href="http://www.zive.cz/h/Bleskovky/AR.asp?ARI=117039">Živě</a> a <a href="http://www.technet.cz/zprava.html?zprava=28850">Technetu</a>. </p>
 

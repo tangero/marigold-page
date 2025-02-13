@@ -1,14 +1,21 @@
 ---
 ID: 1169
-title: 'Správně nakvašené ČTÚ (na Telecom)&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/spravne-nakvasene-ctu-na-telecom
-published: true
+oldlink: 'https://www.marigold.cz/item/spravne-nakvasene-ctu-na-telecom
+
+  '
 post_date: 2004-06-25 12:54:12
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom obvinil ČTÚ z ignorování podvodů s devítistovkovými linkami.
+- ČTÚ vydalo prohlášení, v němž odmítá ignorování podvodů a kritizuje Telecom.
+- ČTÚ zveřejnilo seznam opatření proti podvodům s dialery v PDF dokumentu.
+- ČTÚ zdůrazňuje odpovědnost uživatelů a navrhuje řešení v dostupném ADSL.
+title: Správně nakvašené ČTÚ (na Telecom)&#8230;
 ---
+
 <p>
 Český Telecom se na tiskové konferenci před deseti dny opřel do ČTÚ, že zneužívání devítistovkových linek pro podvodné dialery je jeho problém a že na to ČTÚ kašle (český překlad). </p>
 <p>

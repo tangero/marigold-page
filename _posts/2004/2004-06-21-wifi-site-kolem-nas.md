@@ -1,14 +1,21 @@
 ---
 ID: 1156
-title: WiFi sítě kolem nás
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-site-kolem-nas
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-site-kolem-nas
+
+  '
 post_date: 2004-06-21 17:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Seque SoftAP dorazil Fedexem s klíčenkou WiFinder pro detekci WiFi.
+- WiFinder diodami indikuje sílu okolních WiFi sítí bez nutnosti návodu.
+- WiFinder má překvapivě srovnatelnou citlivost s PCMCIA kartou.
+- Autor objevil množství WiFi sítí v obchodních centrech a ulicích Prahy.
+title: WiFi sítě kolem nás
 ---
+
 <p>
 Minulý týden jsem si objednal na recenzi Seque SoftAP, firma mi ho ochotně poslala, dorazilo to Fedexem z USA za dva dny. A v balíčku bylo kromě CDčka (ne, neposlali mi to emailem) také taková klíčenka nazvaná WiFinder. Když jsem to vídal na obrázcích a jen si o tom četl, považoval jsem to za kravinku. Ale když se mi to dostalo do rukou, docela mne to uchvátilo. </p>
 

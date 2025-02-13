@@ -1,14 +1,21 @@
 ---
 ID: 1278
-title: Vážně rozkošný iPod mini
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vazne-rozkosny-ipod-mini
-published: true
+oldlink: 'https://www.marigold.cz/item/vazne-rozkosny-ipod-mini
+
+  '
 post_date: 2004-08-27 08:48:15
+post_excerpt: ''
+published: true
+summary_points:
+- Autor podlehl MP3 přehrávačům a koupil si iPod mini modré barvy.
+- iPod mini vyniká intuitivním ovládáním pomocí Click Wheel a iTunes aplikací.
+- iTunes automaticky organizuje hudbu podle alba, interpreta, žánru a hodnocení.
+- Autor oželel chybějící funkce iPoda, oceňuje jeho eleganci a jednoduchost používání.
+title: Vážně rozkošný iPod mini
 ---
+
 <p>
 Včera jsem po velmi dlouhé době podlehl MP3 přehrávačům. Když jsem naposledy investoval do mobilní hudby a koupil si minidisc (v roce 1996), lezlo mi na nervy, že do něj nahraju pár písniček a konec. Nosit sebou hromadu minidisků mne nebavilo a tak jej používám spíš v případě, když potřebuji něco nahrát (rozhovor) a najdu externí mikrofon. Pak jsem Ditě k vánocům koupil iRivera s půl gigem paměti - a to je věru už o něčem jiném. Do toho se vejde slušná porce písniček, je to malá krabička a tak vůbec. A Dita to používá každý den. </p>
 <p>

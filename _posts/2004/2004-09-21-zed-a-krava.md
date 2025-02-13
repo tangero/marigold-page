@@ -1,13 +1,19 @@
 ---
 ID: 1329
-title: 'Zeď a&nbsp;kráva'
 author: Noname
-post_excerpt: ""
 layout: post
 oldlink: https://www.marigold.cz/item/zed-a-krava
-published: true
 post_date: 2004-09-21 14:33:21
+post_excerpt: ''
+published: true
+summary_points:
+- Tele2 protestuje proti zdržování přechodu 50 tisíc zákazníků Českým Telecomem.
+- Český Telecom reagoval transparentem a dvěma telety s číslicí 2.
+- Zaměstnanci Telecomu v hábitech přesvědčovali lidi, aby volali "aleluja".
+- Tele2 postavilo zeď symbolizující 50068 "zazděných" zákazníků Telecomem.
+title: Zeď a&nbsp;kráva
 ---
+
 <p>
 Tento na první pohled zmatený nadpis symbolizuje dění, které se právě v tuto chvíli odehrává před budovou Českého Telecomu v Praze. Společnost <a href="http://www.tele2.cz/">Tele2</a> zde protestuje proti postupu ČTc, který zdržuje volbu operátora a <strong>přes 50 tisíc jeho zákazníků teď čeká aby mohli přejít do sítě Tele2</strong>. Společnost Tele2 tedy postavila symbolickou zeď, která má těchto 50 tisíc „zazděných uživatelů“ symbolizovat. Hostesky přitom na ulici rozdávají vysvětlující letáky a srovnání cen Tele2 vůči Českému Telecomu (14-166% rozdílu u volání, 8-23% u internetu).</p>
 <p>

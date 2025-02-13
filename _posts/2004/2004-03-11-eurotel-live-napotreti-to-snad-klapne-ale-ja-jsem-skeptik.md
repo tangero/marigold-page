@@ -1,14 +1,21 @@
 ---
 ID: 913
-title: 'Eurotel Live! &#8211; napotřetí to snad klapne (ale já jsem skeptik)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-live-napotreti-to-snad-klapne-ale-ja-jsem-skeptik
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-live-napotreti-to-snad-klapne-ale-ja-jsem-skeptik
+
+  '
 post_date: 2004-03-11 09:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel v roce 2000 investoval do WAP portálu Juice, utratil 80 milionů Kč.
+- JuicePay služba s Citybank měla malý počet uživatelů a byla zrušena.
+- Eurotel Mobile Media a Pán prstenů generovaly omezený zisk z WAP služeb.
+- Eurotel Live! přišel pozdě s internetovou správou účtu a centralizací obsahu.
+title: Eurotel Live! &#8211; napotřetí to snad klapne (ale já jsem skeptik)
 ---
+
 <p>
 Eurotel je někdy kromobyčejně vytrvalý a nepoučitelný, když jde o to, udělat nějakou službu a při tom vyhodit hromadu peněz. <STRONG>Začalo to někdy v roce 2000, kdy přicházel WAP.</STRONG> Eurotel své WAP služby shrnul <A href="http://mobil.idnes.cz/mobilni_komunikace/operatori/sluzby/juiceportalpredstaven.html">do Juice portálu</A>, otevřel obrovskou reklamní kampaň a než zjistil, že není mnoho lidí sexy pro nový Juice, vyházel mírně pod 80 milionů Kč. Ještě před tím ale s&#160;Citybank spustil novou <STRONG>službu JuicePay,</STRONG> která umožňovala platit i přes wap. Byla to bomba, jak se ale ukázalo, tak hozená do vlastních řad. Už tehdy se povídalo, že veškerá aktivita byla na straně Citybank, jejíž management dostal z centrály vytaháno za uši, že není dostatečně <EM>in</EM> v elektronických platbách. A tak se sflikoval JuicePay, běžel přes nějaké indické servery Citybank, projela na něj reklama <EM>(na invexu jste mohli zdarma objednávat doutníky a podobné věci)</EM>, než to Eurotel <A href="http://mobil.idnes.cz/mobilni_komunikace/operatori/sluzby/juicepayzemrel011026.html">po roce odpískal</A>. Mimo jiné i pro to, že si vrabci na střeše štěbetali, že služba získala zhruba dvě stovky regulérních uživatelů... </p>
 

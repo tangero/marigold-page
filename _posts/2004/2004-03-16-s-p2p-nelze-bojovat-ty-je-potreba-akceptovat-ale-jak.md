@@ -1,14 +1,21 @@
 ---
 ID: 922
-title: 'S P2P nelze bojovat, ty je potřeba akceptovat &#8211; ale jak?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/s-p2p-nelze-bojovat-ty-je-potreba-akceptovat-ale-jak
-published: true
+oldlink: 'https://www.marigold.cz/item/s-p2p-nelze-bojovat-ty-je-potreba-akceptovat-ale-jak
+
+  '
 post_date: 2004-03-16 17:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Článek Lupy řeší zátěž P2P sítí a definici "fair user policy".
+- Kabeloví operátoři nabízejí vyšší rychlost v rámci sítě než do internetu.
+- Vyšší rychlost v síti motivuje uživatele k vytváření P2P serverů a sdílení.
+- Provozovatelé sítí mohou P2P využít ve svůj prospěch lokálními warez servery.
+title: S P2P nelze bojovat, ty je potřeba akceptovat &#8211; ale jak?
 ---
+
 <p>
 Na Lupě dnes vyšel článek Vojtěcha Bednáře nazvaný <A href="http://www.lupa.cz/clanek.php3?show=3271" target=_blank><STRONG>Zmatený provider vs. šílený stahovač</STRONG></A>&#160;věnovaný tomu, jakou zátěž generuje provoz P2P sítí a jak je problematické definovat nějakou "fair user policy" a předcházet problémům, kdy si někdo stěžuje, že mu pevná linka moc nejede a někdo jiný prská, že mu omezujete "neomezené" přenosy dat. Vskutku, P2P sítě jsou pro nelimitované tarify docela nepříjemné. </p>
 

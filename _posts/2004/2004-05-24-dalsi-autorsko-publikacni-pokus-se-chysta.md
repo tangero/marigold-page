@@ -1,14 +1,22 @@
 ---
 ID: 1048
-title: 'Další autorsko &#8211; publikační pokus se chystá'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-autorsko-publikacni-pokus-se-chysta
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-autorsko-publikacni-pokus-se-chysta
+
+  '
 post_date: 2004-05-24 08:09:00
+post_excerpt: ''
+published: true
+summary_points:
+- Studie se věnuje širokopásmovému bezdrátovému internetu, konkrétně technologiím
+  WiMAX a Mobile-Fi.
+- Autor píše studii "od podlahy" a úvod má přes 20 000 znaků.
+- Studie bude nově prodávána za cenu knihy, tedy několik málo stokorun.
+- Distribuce studie bude probíhat v PDF formátu s platbou kartou přes 2checkout.com.
+title: Další autorsko &#8211; publikační pokus se chystá
 ---
+
 <p>
 'Rozhodl jsem se věnovat velkou část víkendu psaní, neboť už bylo na čase dopsat chystanou studii věnovanou <STRONG>širokopásmovému bezdrátovému internetu - WBA</STRONG> - tedy převážně technologiím <STRONG>WiMAX a Mobile-Fi</STRONG>. Postupem doby jsme tu k tomu nahamounili dost podkladů, už to zbývalo jen zpracovat a zlomit do PDF. Ukázal se být trochu problém v mém přesvědčení, že když něco vysvětlovat, tak od podlahy, aby to pochopil každý a nebylo to takové to okecávání, kdy se něco vysvětlí tak, aby se to nevysvětlilo, protože autor moc neví, jak to funguje. Takže jsem ještě o víkendu sháněl další podklady k nejrůznějším proprietárním technologiím Navini, ArrayCom. Humorné je, že tiskový mluvčí byl schopný na dotazy reagovat i o víkendu... </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 770
-title: 'Zatoužil jsem po&nbsp;Linuxu. A&nbsp;Mandrake se tak snažil&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zatouzil-jsem-po-linuxu-a-mandrake-se-tak-snazil
-published: true
+oldlink: 'https://www.marigold.cz/item/zatouzil-jsem-po-linuxu-a-mandrake-se-tak-snazil
+
+  '
 post_date: 2004-01-04 21:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor se jednou ročně pokouší seznámit s Linuxem, ale neúspěšně.
+- V roce 1998 autor vyzkoušel RedHat, ale GIMP ho odradil.
+- Nyní autor zkouší Mandrake 9.2 na starším počítači od Dity.
+- Problémy s logováním a X serverem vedou k možnému odložení Linuxu.
+title: Zatoužil jsem po&nbsp;Linuxu. A&nbsp;Mandrake se tak snažil&#8230;
 ---
+
 <p>
 Jednou za rok na mne pravidelně přijde záchvat, že bych se mohl seznámit s Linuxem. Dvanáctiměsíční perioda je zhruba tak ta doba, kdy mi otrne z posledního setkání a říkám si, že se to jistě někam posunulo a že Linux již bude i pro normálního člověka, jenž mu je ochoten věnovat pramálo píle. V roce 1998 to došlo dokonce tak daleko, že jsem zprovoznil RedHat u sebe na počítači, jenže pak jsem si nechal doporučit grafický editor. Kluci mi tam natlačili GIMP, řekli mi, že je to stejné, jako Photoshop, já si to pustil a když mne po čtvrthodině přešel záchvat smíchu, šel GIMP i s Linuxem z disku. </p>
 

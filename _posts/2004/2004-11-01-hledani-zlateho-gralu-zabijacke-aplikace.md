@@ -1,16 +1,25 @@
 ---
 ID: 1380
-title: >
-  Hledání zlatého grálu zabijácké
-  aplikace
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hledani-zlateho-gralu-zabijacke-aplikace
-published: true
+oldlink: 'https://www.marigold.cz/item/hledani-zlateho-gralu-zabijacke-aplikace
+
+  '
 post_date: 2004-11-01 08:14:05
+post_excerpt: ''
+published: true
+summary_points:
+- Killer app pro 3G sítě neexistuje, podobně jako neexistuje Ježíšek.
+- Připojení k internetu za rozumnou cenu je žádaná aplikace, ale operátoři chtějí
+  maximalizovat zisk.
+- Emaily jako push zprávy jsou populární v Asii, ale v Evropě je to utopie kvůli SMS
+  ziskům.
+- G sítě v Evropě jsou evolucí GSM, ne revolucí, a přinášejí hlavně větší kapacitu.
+title: 'Hledání zlatého grálu zabijácké aplikace
+
+  '
 ---
+
 <p>
 Hledání &#8220;zabijácké aplikace&#8221;, která všechny lidi donutí používat sítě 3G, je oblíbeným tématem všech 3G setkání. Mnoho lidí totiž stále věří na to, že taková killer app existuje. Mnoho lidí stále věří na Ježíška. Je to kacířské, ale není ani Ježíšek, ani Killer app. </p>
 

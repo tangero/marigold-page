@@ -1,14 +1,21 @@
 ---
 ID: 997
-title: 'Reklama do RSS je k&nbsp;uzoufání'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/reklama-do-rss-je-k-uzoufani
-published: true
+oldlink: 'https://www.marigold.cz/item/reklama-do-rss-je-k-uzoufani
+
+  '
 post_date: 2004-04-23 10:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- Moreover agreguje telekomunikační zprávy z mnoha zahraničních serverů.
+- Do RSS Moreover nově přidává reklamu na prodejce telefonů z USA.
+- Reklama se objevuje při každé aktualizaci, což je velmi časté.
+- AdMuncher nedokáže tuto reklamu v RSS odběru filtrovat.
+title: Reklama do RSS je k&nbsp;uzoufání
 ---
+
 <p>
 Odebírám RSS z mnoha serverů, mimo jinými i z Moreover, to je takový agregátor zpravodajství, v němž mám nadefinováno sledování mnoha zahraničních serverů na telekomunikační zprávy. A mimo jiné i z něj tahám ten přehled WiFi zpráv v pravém sloupci (to ovšem ne přes RSS). </p>
 

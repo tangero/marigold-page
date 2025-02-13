@@ -1,14 +1,22 @@
 ---
 ID: 1874
-title: 'Tisková zpráva: Internetový mikroplatební systém Pipay.cz a&nbsp;MT SMS'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tiskova-zprava-internetovy-mikroplatebni-system-pipay-cz-a-mt-sms
-published: true
+oldlink: 'https://www.marigold.cz/item/tiskova-zprava-internetovy-mikroplatebni-system-pipay-cz-a-mt-sms
+
+  '
 post_date: 2005-11-23 19:33:43
+post_excerpt: ''
+published: true
+summary_points:
+- Pipay.cz spuštěn společnostmi Pipeline a Wirenode jako mikroplatební systém pro
+  digitální obsah.
+- Pipay umožňuje komukoliv zdarma přijímat SMS platby do výše 79 Kč.
+- Palmknihy.cz jako první využijí Pipay pro zpoplatnění knih s omezeným šířením.
+- Pipeline nabízí MT SMS, zprávy placené příjemcem, plánované i pro Pipay.
+title: 'Tisková zpráva: Internetový mikroplatební systém Pipay.cz a&nbsp;MT SMS'
 ---
+
 <p>Hotovooooooo....</p>
 
 <p>Praha, 23.11.2005: Společnosti Pipeline a Wirenode společně spouštějí mikroplatební systém <a href="http://www.pipay.cz">Pipay.cz</a>  určený ke zpoplatňování digitálního obsahu. Pipay je první službou svého druhu, která umožňuje komukoliv a zdarma přijímat SMS platby. Provozovatelé webových služeb a tvůrci tiskovin mohou nynítímto novým způsobem začít své služby zpoplatňovat.</p>

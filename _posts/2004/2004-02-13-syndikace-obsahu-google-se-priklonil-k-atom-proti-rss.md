@@ -1,14 +1,21 @@
 ---
 ID: 857
-title: 'Syndikace obsahu: Google se přiklonil k&nbsp;Atom proti RSS.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/syndikace-obsahu-google-se-priklonil-k-atom-proti-rss
-published: true
+oldlink: 'https://www.marigold.cz/item/syndikace-obsahu-google-se-priklonil-k-atom-proti-rss
+
+  '
 post_date: 2004-02-13 08:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- RSS je oblíbené pro existenci knihoven a základní funkční prvky.
+- Google Blogger přestal nabízet RSS syndikaci obsahu zdarma a přešel na Atom.
+- Atom je open source, což byl hlavní důvod přechodu od RSS.
+- Bloggerův přechod na Atom může změnit budoucnost syndikačních formátů.
+title: 'Syndikace obsahu: Google se přiklonil k&nbsp;Atom proti RSS.'
 ---
+
 <p>
 O RSS se už dlouho nedá říct, že by to byl příliš jednotný formát pro syndikaci obsahu, na druhou stranu v něm existuje základní množina prvků, které fungují prakticky kdykoliv a kdekoliv a jíž se většina webů drží. Krom toho pro parsování RSS existují knihovny pro všechny možné programovací jazyky, takže RSS je oblíbené a rozšířené navzdory tomu, že má snad pět různých verzí. </p>
 

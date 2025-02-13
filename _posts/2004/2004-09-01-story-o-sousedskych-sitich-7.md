@@ -1,14 +1,21 @@
 ---
 ID: 1288
-title: 'Story o&nbsp;sousedských sítích (7.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-7
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-7
+
+  '
 post_date: 2004-09-01 09:12:05
+post_excerpt: ''
+published: true
+summary_points:
+- CF s Mikrotikem dorazila s licencí svázanou se sériovým číslem CF.
+- Síťová karta se povysunula, což způsobilo desetiminutové hledání problému.
+- HW AP Orinoco AP-1000 stávkují a mají problémy s ethernetem.
+- Autor hledá firmware nebo software pro AP-1000, který je EOL.
+title: Story o&nbsp;sousedských sítích (7.)
 ---
+
 <p>
 Včera mi dorazila od českého distributora compactflash s Level4 softwarem mikrotiku. Paměť není ve známém čtvercovém obalu (jaké jsou například ve foťácích), ale má rozhraní, které je možné zastrčit přímo do slotu na základní desce. Dodavatel mě varoval, že licenční číslo mikrotiku je svázáno se sériovým číslem CF. Bohužel český distributor nedodává pouze licence na software, takže až tuhle CF vrátím, budu si muset koupit licenci přímo u výrobce.</p>
 <p>

@@ -1,14 +1,21 @@
 ---
 ID: 1267
-title: 'Story o&nbsp;sousedských sítích (1.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-1
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-1
+
+  '
 post_date: 2004-08-24 16:04:09
+post_excerpt: ''
+published: true
+summary_points:
+- Lidé se často ptají, jak se nejlevněji připojit k internetu.
+- Autor doporučuje komunitní sítě, konkrétně CZFree.Net.
+- Používá iPAQ, WiFi kartu Orinoco a software Ministumbler k měření signálu.
+- První kauza řeší připojení rodiny v centru Prahy přes CZFree.Net.
+title: Story o&nbsp;sousedských sítích (1.)
 ---
+
 <p>
 Prakticky každý, o němž jeho okolí ví, že se zabývá Internetem se již setkal s otázkou, které se bojí jako čert kříže: "Hele a jak se mám připojit, aby to bylo nejlevnější?" </p>
 <p>

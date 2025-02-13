@@ -1,14 +1,22 @@
 ---
 ID: 1582
-title: 'Jen tak netově a&nbsp;pátečně o&nbsp;registraci zahraničních domén&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jen-tak-netove-a-patecne-o-registraci-zahranicnich-domen
-published: true
+oldlink: 'https://www.marigold.cz/item/jen-tak-netove-a-patecne-o-registraci-zahranicnich-domen
+
+  '
 post_date: 2005-03-18 07:58:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ceny domén a registrační podmínky se u evropských TLD výrazně liší.
+- Slovenskou doménu nelze registrovat bez slovenské firmy/osoby, obchází se mandátní
+  smlouvou.
+- Ukrajinská doména druhého řádu vyžaduje ochrannou známku, jinak .com.ua.
+- EuroDNS byl použit pro registraci většiny domén díky přehlednosti a cenám.
+title: Jen tak netově a&nbsp;pátečně o&nbsp;registraci zahraničních domén&#8230;
 ---
+
 <p>Včera jsem se dal do registrování jedné domény nového projektu v řadě evropských TLD. Docela mne překvapilo, jaké jsou rozdíly nejenom v cenách mezi jednotlivými registrátory <i>(tutéž doménu pořídíte běžně o třetinu dráže, ale až za desetinásobek)</i>, ale jaké jsou rozdíly v podmínkách. Například slovenskou doménu nepořídíte, pokud nejste slovenská firma nebo osoba. Dá se to obcházet tím, že si ji registrujete na nějakou místní firmu a uzavřete s ní mandátní smlouvu, tak to dělá třeba Active24, ale moc mu to nefunguje (a bohužel to není jediná věc, která mne u nich trápí).</p>
 
 <p>Vtipná byla situace s registrací ukrajinské domény. Tak dlouho jsem tomu člověku vysvětloval svojí verzí ruštiny, co potřebuju, až se ukázalo, že došlo k trapnému omylu a že doména .UK nepatří Ukrajině, ale Británii, což jsem samozřejmě věděl, jen mne to tak nějak nenapadlo :) Tak proto ta firma neměla web vůbec v ruštině ... (chtělo to najít jinou, která nemá sídlo v Londýně...)</p>

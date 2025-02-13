@@ -1,14 +1,21 @@
 ---
 ID: 1385
-title: 'Kniha Stavíme si bezdrátovou síť Wi-fi  &#8211; Thomas Köhre'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kniha-stavime-si-bezdratovou-sit-wi-fi-thomas-kohre
-published: true
+oldlink: 'https://www.marigold.cz/item/kniha-stavime-si-bezdratovou-sit-wi-fi-thomas-kohre
+
+  '
 post_date: 2004-11-03 11:49:24
+post_excerpt: ''
+published: true
+summary_points:
+- Computer Press vydává knihu Stavíme si bezdrátovou síť Wi-fi od Thomase Köhre.
+- Kniha obsahuje CD se softwarem pro tvorbu a zabezpečení Wi-Fi sítí.
+- Publikace učí čtenáře budovat Wi-Fi sítě od nákupu hardwaru po provoz.
+- Kniha je překlad německého originálu, platná pro normy Evropské unie.
+title: Kniha Stavíme si bezdrátovou síť Wi-fi  &#8211; Thomas Köhre
 ---
+
 <p>
 V nakladatelství Computer Press vychází druhá kniha věnovaná WiFi (celkem třetí v češtině). Jmenuje se Stavíme si bezdrátovou síť Wi-fi a autorem je němec Thomas Köhre. Knihu jsem nečetl, zatím viděl jen upoutávku na webu, takže nemohu sdělit nic jiného, než sama upoutávka uvádí:</p>
 

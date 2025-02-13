@@ -1,14 +1,21 @@
 ---
 ID: 828
-title: UMTS deprese
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/umts-deprese
-published: true
+oldlink: 'https://www.marigold.cz/item/umts-deprese
+
+  '
 post_date: 2004-02-02 17:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- G sítě, konkrétně Trojka, nezměnily způsob, jakým lidé používají mobilní telefony.
+- UMTS sítě nejsou ekonomické, operátoři slibují rychlý internet, ale je drahý.
+- IMS doména v Release 5 nepřináší výhody, ale rekonfiguraci sítě a nákup nových zařízení.
+- Architektura UMTS je složitá, vyžaduje obsáhlý popis, článek by musel být kniha.
+title: UMTS deprese
 ---
+
 <p>
 O víkendu mne zachvátila UMTS deprese. Dneska jsem pookřál, když jsem zjistil, že nejsem sám... Prvním depresistou byl hned po ránu Anthony Newman, redaktor InfoSyncu, když si<A href="http://www.infosyncworld.com/news/n/4549.html" target=_blank>v úvodníku </A>povzdechl otázkou, <STRONG>co je špatně s 3G</STRONG>? Kdybych měl vybrat nejdůležitější odstaveček z jeho editorialu, asi bych volil tohle: </p>
 

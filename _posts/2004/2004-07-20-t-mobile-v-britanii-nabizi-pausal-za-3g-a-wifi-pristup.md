@@ -1,14 +1,21 @@
 ---
 ID: 1203
-title: 'T-Mobile v&nbsp;Británii nabízí paušál za 3G a&nbsp;WiFi přístup'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/t-mobile-v-britanii-nabizi-pausal-za-3g-a-wifi-pristup
-published: true
+oldlink: 'https://www.marigold.cz/item/t-mobile-v-britanii-nabizi-pausal-za-3g-a-wifi-pristup
+
+  '
 post_date: 2004-07-20 08:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile UK zavádí paušální poplatek 70 liber za mobilní data.
+- G síť T-Mobile UK nabízí rychlost pouze 128 Kb/s.
+- T-Mobile má v Británii přes 500 a v Evropě 3500 hotspotů.
+- G karta za 200 liber od T-Mobile nepodporuje WiFi připojení.
+title: T-Mobile v&nbsp;Británii nabízí paušál za 3G a&nbsp;WiFi přístup
 ---
+
 <p>
 Britský T-Mobile (ačkoliv tisková zpráva je označena jako Europe, všude se v ní hovoří jen o Británii) oznámil, že zavádí paušální poplatek pro připojení k mobilním datům bez ohledu na to, zda uživatel používá 3G síť nebo WiFi. Měsíční paušál je 70 liber, pro první tři měsíce je ale přístup k mobilnímu internetu zadarmo. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 815
-title: 'Vyhodnocení anketky: Rok 2003 patřil Eurotelu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vyhodnoceni-anketky-rok-2003-patril-eurotelu
-published: true
+oldlink: 'https://www.marigold.cz/item/vyhodnoceni-anketky-rok-2003-patril-eurotelu
+
+  '
 post_date: 2004-01-26 11:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel vyhrál anketu o operátora roku 2003 s 45 % hlasů.
+- Oskar získal v anketě o operátora roku 2003 38 % hlasů.
+- Nová anketa se ptá, zda do RSS přidávat plné znění článků.
+- RSS by mohlo obsahovat plné články pro pohodlnější čtení.
+title: 'Vyhodnocení anketky: Rok 2003 patřil Eurotelu'
 ---
+
 <p>
 V minulé anketce jsem se ptal, <STRONG>který operátor podle vás v roce 2003 nejvíce zabodoval. Celkem tu máme 106 hlasujících, z nichž 45% hlasovalo pro Eurotel</STRONG>, 38% pro Oskar a 16% pro T-Mobile.</p>
 

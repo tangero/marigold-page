@@ -1,14 +1,21 @@
 ---
 ID: 1035
-title: 'StarZone.cz &#8211; uskalí distribuce filmů po&nbsp;netu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/starzone-cz-uskali-distribuce-filmu-po-netu
-published: true
+oldlink: 'https://www.marigold.cz/item/starzone-cz-uskali-distribuce-filmu-po-netu
+
+  '
 post_date: 2004-05-14 08:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- StarZone.cz je technologicky drahá služba, vázaná na ADSL Českého Telecomu.
+- Nabídka StarZone málo známých filmů, chybí snímky od velkých distributorů.
+- Stažená data ze StarZone se nezapočítávají do objemových limitů ani FUP.
+- Kvalita přehrávání filmů ze StarZone je výborná, digitalizováno do dvou bitrate.
+title: StarZone.cz &#8211; uskalí distribuce filmů po&nbsp;netu
 ---
+
 <p>
 Včera jsem byl na tiskovce Telecomu věnované službě StarZone.cz - jednak mne to zajímalo, jednak jsem tam byl jako doprovod Dity (oblíbené PlusJeden). A samozřejmě se mne několik lidí ptalo, jak to vidím z pozice <A href="http://www.cinetik.cz/" target=_blank>Cinetiku</A>. O tom, co je StarZone, se dočtete ve starším spotu nebo prakticky kdekoliv na netu dnes - například zde je <A href="http://www.lupa.cz/clanek.php3?show=3376" target=_blank>článek Jiřího Peterky na Lupě</A>. Takže mne prosím samozřejmě považujte za mírně zaujatého. </p>
 

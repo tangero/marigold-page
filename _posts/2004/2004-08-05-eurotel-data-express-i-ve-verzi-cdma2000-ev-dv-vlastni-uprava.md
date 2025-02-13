@@ -1,14 +1,24 @@
 ---
 ID: 1234
-title: 'Eurotel Data Express i&nbsp;ve verzi CDMA2000 EV-DV (vlastní úprava)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-data-express-i-ve-verzi-cdma2000-ev-dv-vlastni-uprava
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-data-express-i-ve-verzi-cdma2000-ev-dv-vlastni-uprava
+
+  '
 post_date: 2004-08-05 08:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- GTran modem s Eurotel Data Express aktivován a funkční s průměrnou rychlostí 3-400
+  Kb/s.
+- VoIP telefonie přes Data Express (Softphone, SIP, Fayn, H.323) fungovala i při souběžném
+  odesílání dat.
+- Nestabilita modemu způsobuje problémy, například pády notebooku při vybití baterie,
+  řešením jsou nové ovladače.
+- Data Express se prodává velmi rychle, zájem zákazníků předčil očekávání Eurotelu.
+title: Eurotel Data Express i&nbsp;ve verzi CDMA2000 EV-DV (vlastní úprava)
 ---
+
 <p>
 Včera jsem se zmocnil jednoho modemu GTran a aktivace Eurotel Data Express, doma jsem všechno instaloval na svém notebooku dle přiloženého návodu a ejhle, všechno fungovalo na první zátah. Tedy až na to, že doma nemám v obýváku stabilní signál a bylo třeba připojit tu prutovou anténu, která opravdu výrazně pomáhá. </p>
 <p>

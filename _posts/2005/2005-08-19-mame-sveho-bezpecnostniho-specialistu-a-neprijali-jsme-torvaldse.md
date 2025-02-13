@@ -1,14 +1,21 @@
 ---
 ID: 1777
-title: 'Máme svého bezpečnostního specialistu a&nbsp;nepřijali jsme Torvaldse'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mame-sveho-bezpecnostniho-specialistu-a-neprijali-jsme-torvaldse
-published: true
+oldlink: 'https://www.marigold.cz/item/mame-sveho-bezpecnostniho-specialistu-a-neprijali-jsme-torvaldse
+
+  '
 post_date: 2005-08-19 08:50:35
+post_excerpt: ''
+published: true
+summary_points:
+- Hackerský útok firmu přiměl k opuštění nadšeneckého přístupu a investicím.
+- Firma získala bezpečnostního specialistu FUFa po hackerském útoku.
+- FUF proslul svými schopnostmi a neortodoxními metodami získávání dat.
+- FUF zpřísnil bezpečnostní pravidla, omezil přístupy a kontroloval kvalitu kódu.
+title: Máme svého bezpečnostního specialistu a&nbsp;nepřijali jsme Torvaldse
 ---
+
 <p>I pro nás byl hackerský útok rozsáhlým poučením. Mimo jiné to byl rázný štulec k uvědomnění si skutečnosti, že takový projekt nejde dělat jako nadšenecký dlouho. Sumy za zálohovací jednotku, lepší hardware atd sice nebyly příliš vysoké, ale platit je jako hobby, by bylo přeci jen  nepřiměřeným zásahem do osobního rozpočtu nás tří. </p>
 
 <p>Hlavní změna ale přišla téměř bez našeho přičinění. Získali jsme svého bezpečnostního specialistu. Celá tato událost se postupem času změnila v naší firmě přímo v legendu – a legendy jsou tu proto, aby dojímaly, nikoliv aby se jim věřilo

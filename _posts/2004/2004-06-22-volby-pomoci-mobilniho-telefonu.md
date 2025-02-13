@@ -1,14 +1,21 @@
 ---
 ID: 1160
-title: Volby pomocí mobilního telefonu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/volby-pomoci-mobilniho-telefonu
-published: true
+oldlink: 'https://www.marigold.cz/item/volby-pomoci-mobilniho-telefonu
+
+  '
 post_date: 2004-06-22 09:03:39
+post_excerpt: ''
+published: true
+summary_points:
+- Doležal navrhuje volby přes mobilní telefon pro zvýšení masovosti.
+- SuperStar hlasování ukázalo rozdíl mezi SMS a unikátními hlasujícími.
+- Volby mobilem vyžadují ověření identity voliče, například notářským ověřením.
+- Rizika mobilních voleb zahrnují kupčení s hlasy a vysledovatelnost hlasu.
+title: Volby pomocí mobilního telefonu
 ---
+
 <p>
 Včera jsem četl článek J.X. Doležala v Lidovkách <a href="http://lidovky.centrum.cz/clanek.phtml?id=271131">věnovaný SuperStar</a> &#8211; a tomu, že by se napříště mělo volit do sněmoven i přes mobilní telefon. <em>&quot;Má-li být příští politické hlasování skutečně masové, musí být realizováno přes mobily a internet,&quot;</em> prohlašuje Doležal &#8211; a já s ním souhlasím. Opravdu: volit přes mobilní telefon dává sakra velký smysl. Ale není to tak jednoduché, jako se SuperStar.</p>
 <p>

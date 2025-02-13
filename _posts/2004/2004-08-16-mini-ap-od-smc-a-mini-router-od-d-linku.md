@@ -1,14 +1,21 @@
 ---
 ID: 1257
-title: 'Mini AP od SMC a&nbsp;mini router od D-Linku'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mini-ap-od-smc-a-mini-router-od-d-linku
-published: true
+oldlink: 'https://www.marigold.cz/item/mini-ap-od-smc-a-mini-router-od-d-linku
+
+  '
 post_date: 2004-08-16 22:40:55
+post_excerpt: ''
+published: true
+summary_points:
+- Asus mini přístupový bod byl úspěšný, což inspirovalo konkurenci k podobným produktům.
+- SMCWTK-G je cestovní sada pro bezdrátové sítě s pěti režimy a cenou 100 USD.
+- D-Link DWL-G730AP je mini router s VPN, Radius a napájením přes USB za 100 USD.
+- SMC se zdá lepší díky WDS, ale oba fungují podobně a v ČR se neprodávají.
+title: Mini AP od SMC a&nbsp;mini router od D-Linku
 ---
+
 <p>
 Asus se svým mini přístupovým bodem udělal docela díru do světa, zjednodušeně řečeno je to výrobek, který byl na ráně a prodává se. A tak se objevují podobné výrobky i od konkurentů. </p>
 

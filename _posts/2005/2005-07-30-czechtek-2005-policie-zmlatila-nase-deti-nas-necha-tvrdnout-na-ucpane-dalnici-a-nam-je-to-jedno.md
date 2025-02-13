@@ -1,14 +1,22 @@
 ---
 ID: 1747
-title: 'CzechTek 2005: policie zmlátila naše děti, nás nechá tvrdnout na ucpané dálnici a&nbsp;nám je to jedno&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/czechtek-2005-policie-zmlatila-nase-deti-nas-necha-tvrdnout-na-ucpane-dalnici-a-nam-je-to-jedno
-published: true
+oldlink: 'https://www.marigold.cz/item/czechtek-2005-policie-zmlatila-nase-deti-nas-necha-tvrdnout-na-ucpane-dalnici-a-nam-je-to-jedno
+
+  '
 post_date: 2005-07-30 14:57:07
+post_excerpt: ''
+published: true
+summary_points:
+- Policie lhala o důvodech zásahu proti CzechTeku a ucpání dálnice.
+- Zásah proti CzechTeku byl nepřiměřený hluku a dalším drobným přestupkům.
+- Náklady na policejní zásah byly vysoké a neadekvátní údajné nebezpečnosti akce.
+- Ministr Bublan nese zodpovědnost za brutalitu zásahu a měl by odstoupit.
+title: 'CzechTek 2005: policie zmlátila naše děti, nás nechá tvrdnout na ucpané dálnici
+  a&nbsp;nám je to jedno&#8230;'
 ---
+
 <p>Můj vztah k CzechTeku byl vždy vlažný. Nikdy jsem na něj nejezdil, ale mám kamárady, kteří ano a od jisté doby také kamarády, kteří na něj jezdí služebně. Tedy na obou stranách barikády, kdysi barikády pomyslné. To, co se událo letos, se vymyká mému chápání. </p>
 
 <p>Takže, rekapitulujme to, jak se celá věc jeví z tepla (věru tepla!) rodinného krbu středostavovskému buržujovi:</p>

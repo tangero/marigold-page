@@ -1,14 +1,22 @@
 ---
 ID: 1857
-title: 'Ministerstvo informatiky právě začlo rozdávat dotace na broadband internet. Pošlete mu číslo účtu&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ministerstvo-informatiky-prave-zaclo-rozdavat-dotace-na-broadband-internet-poslete-mu-cislo-uctu
-published: true
+oldlink: 'https://www.marigold.cz/item/ministerstvo-informatiky-prave-zaclo-rozdavat-dotace-na-broadband-internet-poslete-mu-cislo-uctu
+
+  '
 post_date: 2005-10-24 13:01:27
+post_excerpt: ''
+published: true
+summary_points:
+- Dotace 200 milionů korun na širokopásmový internet v ČR je připravena pro rok 2006.
+- 'Projekty lze přihlásit do tří dotačních programů: infrastruktura, aplikace, osvěta.'
+- Žadatelé musí prokázat životaschopnost projektu a 30% finanční spoluúčast.
+- Přihlášky odevzdat do 9. prosince 2005 do 14:00 mohou fyzické i právnické osoby.
+title: Ministerstvo informatiky právě začlo rozdávat dotace na broadband internet.
+  Pošlete mu číslo účtu&#8230;
 ---
+
 <p>Ministerstvo informatiky právě publikovalo na svém webu podrobnější materiály týkající se podpory širokopásmového internetu v ČR formou státních dotací. Na rok 2006 je připraveno 200 milionů, čtvrtina celkové sumy pocházející z odstřelu Telecomu do Madridu. </p>
 
 <p>Projekty lze přihlásit do tří dotačních programů: </p>

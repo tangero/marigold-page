@@ -1,14 +1,21 @@
 ---
 ID: 991
-title: 'Eurotel CDMA &#8211; další podrobnosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-cdma-dalsi-podrobnosti
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-cdma-dalsi-podrobnosti
+
+  '
 post_date: 2004-04-20 08:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel CDMA EVDO služba popsána v článku na Mobil.cz.
+- Cena služby Eurotel CDMA EVDO odhadována na 1200 Kč bez DPH.
+- Hlasové služby v CDMA síti Eurotel nebudou dostupné.
+- Rychlost služby Eurotel CDMA EVDO srovnatelná s 0,25 Mb linkou.
+title: Eurotel CDMA &#8211; další podrobnosti
 ---
+
 <p>
 Včera jsem sepisoval další podrobnosti sehnané k nové službě Eurotelu CDMA EVDO (jak jsem se dočetl na manuálu, tak se to pro jistotu píše takto :). A protože to vydalo na delší článek, šoupnul jsem ho na Mobil.cz. </p>
 

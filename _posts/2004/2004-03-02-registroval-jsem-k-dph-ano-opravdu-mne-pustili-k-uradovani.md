@@ -1,14 +1,21 @@
 ---
 ID: 893
-title: 'Registroval jsem k&nbsp;DPH &#8211; ano, opravdu mne pustili k&nbsp;úřadování!'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/registroval-jsem-k-dph-ano-opravdu-mne-pustili-k-uradovani
-published: true
+oldlink: 'https://www.marigold.cz/item/registroval-jsem-k-dph-ano-opravdu-mne-pustili-k-uradovani
+
+  '
 post_date: 2004-03-02 08:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobil Media zakazovala autorovi styk s úřady kvůli zmatkům a kontrolám.
+- Nový zaměstnavatel autora pověřil stykem s úřady a registrací k DPH.
+- Úředník ve Štěpánské byl ochotný, poradil a slíbil odeslání dokumentů.
+- Autor byl překvapen rychlostí a hladkým průběhem registrace DPH.
+title: Registroval jsem k&nbsp;DPH &#8211; ano, opravdu mne pustili k&nbsp;úřadování!
 ---
+
 <p>
 Dokud jsem pracoval v Mobil Media, panovala ve firmě určitá zásada, že nemám být připouštěn ke styku se státními úřady, neb z toho vznikaly nejrůznější zmatky a infarktovky - asi jako když se rozhodl finanční úřad udělat u nás přepadovou kontrolu a vybral si dobu, kdy bude jak Péťa tak Bořík na dovolené a vesele přišli za mnou, kde že máme účetnictví, že ho chtějí projít. Po pravdě jsem odpověděl, že netuším a že mne to nezajímá, na to téma vznikla hodinová telefonní přestřelka. Nakonec to dopadlo tak, že přepadová kontrola to zabalila a&#160;pro příště se slušně ohlásila dopředu aby zjistila, že je tam někdo účetně svéprávný.</p>
 

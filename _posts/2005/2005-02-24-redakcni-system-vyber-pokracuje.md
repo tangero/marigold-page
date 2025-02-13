@@ -1,16 +1,23 @@
 ---
 ID: 1552
-title: >
-  Redakční systém – výběr
-  pokračuje
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/redakcni-system-vyber-pokracuje
-published: true
+oldlink: 'https://www.marigold.cz/item/redakcni-system-vyber-pokracuje
+
+  '
 post_date: 2005-02-24 12:03:06
+post_excerpt: ''
+published: true
+summary_points:
+- Autor vybírá redakční systém pro zpravodajské servery Marigold.
+- Drupal původně preferovaný, nyní Xaraya favorit kvůli funkcím a podpoře.
+- Požadavky zahrnují snadné zadávání článků, rozvinuté diskuse a šablonování.
+- Plone a Mambo jsou další kandidáti, ale mají nevýhody pro daný účel.
+title: 'Redakční systém – výběr pokračuje
+
+  '
 ---
+
 <p>Dostal jsem řadu emailů na téma výběru redakčního systému, řadu materiálů jsem vygoogloval a protože více hlav více ví a kromě toho to více hlav zajímá, dávám k dobru (či zlu) své dojmy z výběru redakčního systému. </p>
 
 <p>Ukázalo se, že to bude horší, než jsem si myslel. V době PHPNuka to bylo easy – nebylo na výběr. Dneska je. Existují stovky nejrůznějších redakčních systémů a CMS. Pokud se něco zaškatulkuje jako CMS, není ještě jasné, že je to to správné. Pro Marigolda potřebuji systém na vedení zpravodajských serverů. Tedy ani systém blogovací (je příliš jednoduchý na moje hračičkovství), ani CMS zaměřené na firemní weby, který má většinou slabou (nebo  komplikovanou) sekci zpráv. </p>

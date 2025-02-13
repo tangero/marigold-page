@@ -1,16 +1,23 @@
 ---
 ID: 1201
-title: >
-  ČTÚ vydalo licenci povolující (mimo
-  jiné) koncová zařízení CDMA2000
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctu-vydalo-licenci-povolujici-mimo-jine-koncova-zarizeni-cdma2000
-published: true
+oldlink: 'https://www.marigold.cz/item/ctu-vydalo-licenci-povolujici-mimo-jine-koncova-zarizeni-cdma2000
+
+  '
 post_date: 2004-07-19 11:05:42
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ vydalo generální licenci GL-45/R/2004 pro širokopásmová rádiová zařízení.
+- Eurotelu licence schvaluje provoz mobilních terminálů CDMA2000 v NMT pásmu.
+- Kamojedov si všiml ořezání pásma na dva CDMA2000 přenašeče v licenci.
+- Širokopásmové technologie u dalších držitelů kmitočtů jsou lákavé, ale nereálné.
+title: 'ČTÚ vydalo licenci povolující (mimo jiné) koncová zařízení CDMA2000
+
+  '
 ---
+
 <p>
 ČTÚ publikovalo v Telekomunikačním věstníku (a tím vyhlásilo v platnou a publikovalo i na webu)
 generální licenci č. GL - 45/R/2004

@@ -1,14 +1,22 @@
 ---
 ID: 807
-title: 'Jak se Amík dívá na shánění bydlení v&nbsp;Čechách'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-se-amik-diva-na-shaneni-bydleni-v-cechach
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-se-amik-diva-na-shaneni-bydleni-v-cechach
+
+  '
 post_date: 2004-01-22 08:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- Expats.cz je komunitní server pro anglicky mluvící cizince žijící v různých zemích.
+- Autor plánuje přeložit svůj seznam WiFi hotspotů do angličtiny pro Expats.cz.
+- Článek "Renting property in the Czech Republic" popisuje obtíže cizinců při hledání
+  bydlení v Praze.
+- Česká republika v oblasti standardů bydlení zaostává za Kalifornií a Evropou.
+title: Jak se Amík dívá na shánění bydlení v&nbsp;Čechách
 ---
+
 <p>
 Včera jsem se dostal na zajímavý server Expats.cz - to je taková komunita, soustava serverů v různých zemích a je určen pro cizince v nich žijící, tedy především pro anglicky hovořící cizince. Někdo tam odkazoval na můj seznam WiFi hotspotů a postěžoval si, že to není anglicky, tož jsem se rozhodl, že to časem přeložím. </p>
 

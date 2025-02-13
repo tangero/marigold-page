@@ -1,14 +1,21 @@
 ---
 ID: 1016
-title: '3G Týden: Vodafone roamuje a&nbsp;hledá mobily'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3g-tyden-vodafone-roamuje-a-hleda-mobily
-published: true
+oldlink: 'https://www.marigold.cz/item/3g-tyden-vodafone-roamuje-a-hleda-mobily
+
+  '
 post_date: 2004-05-04 09:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vodafone nabízí roaming dat v 3G sítích v Evropě bez příplatků od května.
+- Samsung dodá 3G telefony pro Vodafone v Německu a Portugalsku.
+- LG podepíše miliardový kontrakt s Hutchison Whampoa na dodávku 3G mobilů.
+- Orange spustil "precommercial" 3G provoz v Toulouse ve Francii.
+title: '3G Týden: Vodafone roamuje a&nbsp;hledá mobily'
 ---
+
 <H4>Vodafone roamuje data </H4>
 <p>
 Vodafone nabízí od května roaming ve svých 3G sítích v Evropě. Pravda, zatím v nich běhají jen data, ale majitelé 3G datových karet od Vodafone mohou službu používat po všech evropských Vodafone afiliacích. A co je na tom nejlepší: bez roamingových příplatků, data jsou všude za stejnou cenu dle tarifu. Týká se to zemí Německo, Británie, Itálie, Holandsko, Portugalsko, Španělsko a Švédsko. Škoda jen, že Vodafone průběžně nezveřejňuje nárůsty zákazníků, viděli bychom z toho, jak moc je pravdivý úzus, že 3G sítě budou lidé chtít kvůli datům...</p>

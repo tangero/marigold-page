@@ -1,14 +1,21 @@
 ---
 ID: 1032
-title: 'Internet Express &#8211; Český Telecom zajímavě mění nabídku ADSL'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/internet-express-cesky-telecom-zajimave-meni-nabidku-adsl
-published: true
+oldlink: 'https://www.marigold.cz/item/internet-express-cesky-telecom-zajimave-meni-nabidku-adsl
+
+  '
 post_date: 2004-05-12 11:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- ADSL 512/128 Kbps s hlasovou službou stojí 999 Kč bez DPH dva měsíce.
+- Eurotel nabízí služby Telecomu ve svých 84 prodejnách a naopak.
+- CDMA testování se zpozdilo kvůli interferencím s TV vysíláním a filtrace se montuje.
+- Telecom nezmění agregaci ADSL a FUP zpomaluje při překročení datového limitu.
+title: Internet Express &#8211; Český Telecom zajímavě mění nabídku ADSL
 ---
+
 <p>
 Berte toto prosím za textovou verzi online přenosu tiskové konference Českého Telecomu, která postupně přibývá. Omlouvám se za překlepy, rozhraní speech to text není dokonalé...;) Nejaktuálnější verzi najdete <A href="http://www.marigold.cz/zprava.html?cislo=28351">na tomto URL</A> <EM>(na titulce je verze z cache, aktuální se zpožděním)</EM></p>
 

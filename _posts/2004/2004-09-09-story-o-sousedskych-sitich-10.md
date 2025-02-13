@@ -1,14 +1,22 @@
 ---
 ID: 1310
-title: 'Story o&nbsp;sousedských sítích (10.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-10
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-10
+
+  '
 post_date: 2004-09-09 16:38:36
+post_excerpt: ''
+published: true
+summary_points:
+- CZFree.Net funguje skorotchánovi díky novému kabelu a anténě na střeše.
+- Duchovní vůdce vedlejší obce povolil směrování mimo CZFree, statické směrování je
+  dočasné.
+- Ovislink router nelze nastavit, běží v režimu bridge, DHCP server dělá směrovač.
+- Cendrův Supernet je dočasné internetové řešení, Duron topí, směrovač bude přemontován.
+title: Story o&nbsp;sousedských sítích (10.)
 ---
+
 <p>
 Hurá Hurá. Poté, co jsem vytáhl ten původní kabel v lokalitě dvě, nahradil ho proměřeným nakonektorovaným kabelem, se CZFree.Net dostal i na desktop skorotchána. Na následujícím obrázku je vidět, jak nově vypadá střecha v lokalitě dvě. Anténa nahoře je živá, síto čeká na oživení a tyčka slouží pro konektivitu k bazénu.</p>
 <div class="rightbox"><img src="/wp-content/uploads/rsscache/20040909-antena.JPG" alt="Stav na střeše" width="440" height="365" /> </div><p>

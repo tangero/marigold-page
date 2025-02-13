@@ -1,14 +1,21 @@
 ---
 ID: 1176
-title: 'Router s&nbsp;řízením šířky pásma'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/router-s-rizenim-sirky-pasma
-published: true
+oldlink: 'https://www.marigold.cz/item/router-s-rizenim-sirky-pasma
+
+  '
 post_date: 2004-06-29 18:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Routery umožňují řídit šířku pásma a limitovat data pro sdílené linky.
+- Levné routery nabízejí limitování dat a šířky pásma přes webové rozhraní.
+- Router má čtyři porty, NAT, dynamické i statické směrování.
+- i4 prodává router s těmito funkcemi za 6000 Kč bez DPH.
+title: Router s&nbsp;řízením šířky pásma
 ---
+
 <p>
 Často poptávanou funkcí u malých routerů je možnost řídit šířku pásma a limitovat objemy přenesených dat nebo přípojnou rychlost do internetu. Zajímavé je to především pro lidi, kteří spolu sdílejí počítanou linku nebo linku s limitem, levné varianty ADSL. </p>
 

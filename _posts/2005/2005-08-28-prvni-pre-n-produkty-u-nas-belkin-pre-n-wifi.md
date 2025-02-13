@@ -1,14 +1,21 @@
 ---
 ID: 1800
-title: 'První Pre-N produkty u&nbsp;nás: Belkin Pre-N WiFi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prvni-pre-n-produkty-u-nas-belkin-pre-n-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/prvni-pre-n-produkty-u-nas-belkin-pre-n-wifi
+
+  '
 post_date: 2005-08-28 20:50:25
+post_excerpt: ''
+published: true
+summary_points:
+- Belkin Pre-N produkty slibují až 800% větší pokrytí a 600% vyšší rychlost.
+- Technologie Pre-N využívá MIMO a chytré antény pro spolehlivý přenos multimédií.
+- Belkin Pre-N je zpětně kompatibilní s 802.11g a 802.11b standardy.
+- Router Belkin Pre-N stojí 2400 Kč bez DPH a má 60 měsíců záruku.
+title: 'První Pre-N produkty u&nbsp;nás: Belkin Pre-N WiFi'
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/20050828-belkin-pren.jpg" alt="Belkin Pre-N router" width="250" height="250" /></div>
 Už i na český trh dorážejí první výrobky vytvořené podle předběžných specifikací 802.11n, tedy takzvané "Pre-N" produkty. Pre-N produkty Belkin poskytují dle tvrzení výrobce větší pokrytí až o 800% a vyšší přenosové rychlosti až o 600% než stávající produkty 802.11b/g a 802.11a. Využívá technologii chytrých antén a čipsetu MIMO (Multiple Input Multiple Output) pro zvýšení rychlosti a pokrytí společnosti Airgo Networks. </p>
 

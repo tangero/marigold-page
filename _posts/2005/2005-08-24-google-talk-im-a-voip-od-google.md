@@ -1,14 +1,22 @@
 ---
 ID: 1789
-title: 'Google Talk &#8211; IM a&nbsp;VoIP od Google'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/google-talk-im-a-voip-od-google
-published: true
+oldlink: 'https://www.marigold.cz/item/google-talk-im-a-voip-od-google
+
+  '
 post_date: 2005-08-24 11:12:46
+post_excerpt: ''
+published: true
+summary_points:
+- Google Talk je Jabber IM protokol s VoIP nadstavbou, aktuálně dostupný pouze pro
+  Windows.
+- Google Talk umožňuje volání mezi počítači a zobrazuje sumář Gmail pošty.
+- Google Talk nepodporuje prostupy do ICQ, AOL, Yahoo, MSN ani Skype.
+- Gmail nově podporuje vlastní email adresu v políčku From (pro některé jazyky).
+title: Google Talk &#8211; IM a&nbsp;VoIP od Google
 ---
+
 <p>Google dneska spustil službu, o které se tak různě (včetně mne) spekuloval již nějakou dobu. Hodně lidí Google rozrušil například tím, že hledal programátory se zkušeností s VoIP. Google to tehdy vysvětloval tím, že je potřebuje na správu firemní ústředny, jenže na to jich potřeboval nějak podezřele moc. Tak už to víme - služba se jmenuje <a href="http://www.google.com/talk/">Google Talk</a> a je to vlastně Jabber IM protokol s VoIP nadstavbou. </p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20050824-googletalk.gif" alt="Google Talk" width="230" height="211" /></div>Jak klient vypadá, vidíte na obrázku. Je docela mrňavý, v paměti zabírá 6 MB (Skype mi dělá 11 MB, Miranda 5 MB, ICQ 12 MB) a je jednoduchý. Hodně. Možná zatím až moc. Verze je jen pro Windows.</p>

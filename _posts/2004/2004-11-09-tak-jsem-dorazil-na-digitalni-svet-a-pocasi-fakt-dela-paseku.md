@@ -1,14 +1,24 @@
 ---
 ID: 1393
-title: 'Tak jsem dorazil na Digitální svět a&nbsp;počasí fakt dělá paseku'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-jsem-dorazil-na-digitalni-svet-a-pocasi-fakt-dela-paseku
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-jsem-dorazil-na-digitalni-svet-a-pocasi-fakt-dela-paseku
+
+  '
 post_date: 2004-11-09 11:03:27
+post_excerpt: ''
+published: true
+summary_points:
+- Konference Digitální svět od Setosu se konala v TopHotelu, snadno nalezitelném díky
+  značení.
+- Cesta na konferenci byla komplikovaná kvůli mnoha dopravním nehodám způsobeným břečkou.
+- TopHotel je rekonstruovaný panelák s luxusním interiérem, mramorem, mosazí a huňatými
+  koberci.
+- Konferenci zdrželo počasí, autor využil čas k návštěvě přednášky Philipsu a chválí
+  WiFi zdarma.
+title: Tak jsem dorazil na Digitální svět a&nbsp;počasí fakt dělá paseku
 ---
+
 <p>
 S mírným zpožděním jsem vyrazil na konferenci Digitální svět, kterou pořádá pro své partnery Setos. Původně jsem se bál, že <a href="http://www.tophotel.cz">TopHotel</a> nenajdu, ale už na chodovském exitu mne směrovaly šipečky, takže se to prakticky nedalo minout. Zato ta cesta - měl jsem to asi tři kilometry jízdy autem, za tu dobu jsem potkal zhruba osm nehod včetně dost hnusně vypadající nehody před chodovským exitem, kde se pár auta sšuchla ve vyšší rychlosti. Je to překvapující, jak málo řidičů nemá ten reflex: břečka na silnici = nejedu jak prase a nelepím se autu přede mnou za kufr, pokud do něj za pár okamžiku sám nechci&#8230; (myslím, že ty řidiče proškolí až nehoda - jako mne. taky jsem byl prase řidič, dokud jsem to v osmdesátce nenarval někomu do kufru).</p>
 

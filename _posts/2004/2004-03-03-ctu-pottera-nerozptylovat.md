@@ -1,14 +1,21 @@
 ---
 ID: 895
-title: Čtu Pottera, nerozptylovat!
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctu-pottera-nerozptylovat
-published: true
+oldlink: 'https://www.marigold.cz/item/ctu-pottera-nerozptylovat
+
+  '
 post_date: 2004-03-03 09:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- Harry Potter pátý díl zakoupen v Carrefouru Stodůlky, i přes vyšší cenu.
+- Čtenář preferuje český překlad, ignoruje pirátské verze, angličtinu a slovenštinu.
+- Albatros uvádí nedělní vydání Harryho Pottera jako úsporu výmluv pro děti.
+- Kritika Harryho Pottera pochází od nečtenářů, autor knihu obhajuje.
+title: Čtu Pottera, nerozptylovat!
 ---
+
 <p>
 V neděli přišel ten velký den - vzal jsem si sváteční kalhoty, čistou košili a vyrazil jsem do stodůleckého Carrefoure, abych ve zdejším knihkupectví zakoupil pátý díl Harryho Pottera. Co na tom, že za rohem v hypermarketu ho měli bezmála o stovku laciněji a že jsem celou dobu přemýšlel nad tím, kdy budu nařčen, že jsem ho tam šlohl - naštěstí jsem měl účtenu a ochrance nevadilo, že mi při placení chleba kouká z kapsy...</p>
 

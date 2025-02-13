@@ -1,14 +1,21 @@
 ---
 ID: 1904
-title: 'Moje bitva u&nbsp;Grunwaldu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/moje-bitva-u-grunwaldu
-published: true
+oldlink: 'https://www.marigold.cz/item/moje-bitva-u-grunwaldu
+
+  '
 post_date: 2005-12-22 16:16:31
+post_excerpt: ''
+published: true
+summary_points:
+- Autor popisuje nečekané ohlasy na článek o Janu Sokolovi z Lamberka.
+- Autor se zúčastnil rekonstrukce bitvy u Grunwaldu a popisuje přípravy.
+- Před bitvou popisuje pocity nervozity, zimy a kontroly výstroje.
+- Autor zdůrazňuje, že pro autentické psaní je nutné bitvu prožít.
+title: Moje bitva u&nbsp;Grunwaldu
 ---
+
 <p>Článek o Janu Sokolovi z Lamberka se setkal s ohlasy, které jsem ani nečekal. Pokračovat v tématu – nevím jak bych. Možná vidím husitství trochu jinak, než vy ostatní, protože v době, kdy jsem dějiny českých zemí studoval na univerzitě, už ze mne vyprchal odér heroických filmů a knih, v nichž husitství bylo pasováno na první komunistickou revoluci. A moji profesoři měli jiný názor, začasté proto, že to nebyli češi a nebyli poznamenáni požadavkem strany. Snad i proto si husitů vážím jinak a vidím je jinak a snad i proto vyzdvihuji Jana Sokola více,  než „tradiční“ dějepisci čeští, </p>
 
 <p>Jak jsem minule konstatoval, bitvy u Grunwaldu jsem se zúčastnil také, sice o pár set let později, ale neméně urputně. Pár marigoldích čtenářů se mnou tu dobu zažilo, takže proč bychom si  nepřipomněli ve vánočním čase míru a hojnosti něco zcela jiného – boj družiníků Jana Lišky z Ronu u Grunwaldu… :)  Proč tedy nepokračovat právě tak – kolik z vás kdy stálo v bitvě? Nemyslím někde stranou jako diváci, když jste pozorovali, jak se pár lidí mlátí mečem? Alespoň na té dřevárně?</p>

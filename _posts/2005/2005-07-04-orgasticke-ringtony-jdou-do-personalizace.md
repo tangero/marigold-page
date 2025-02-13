@@ -1,16 +1,23 @@
 ---
 ID: 1706
-title: >
-  Orgastické ringtony jdou do
-  personalizace
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/orgasticke-ringtony-jdou-do-personalizace
-published: true
+oldlink: 'https://www.marigold.cz/item/orgasticke-ringtony-jdou-do-personalizace
+
+  '
 post_date: 2005-07-04 18:03:13
+post_excerpt: ''
+published: true
+summary_points:
+- Orgasmatones nabízí personalizované vyzváněcí tóny s dívkou křičící zvolené jméno.
+- V databázi Orgasmatones je 500 jmen, nejoblíbenější Zach, Wu a Sebastian.
+- Jeden personalizovaný orgastický tón stojí 2,5 libry a je dostupný pro britské sítě.
+- Zdrojový kód Orgasmatones umožňuje získat vyzvánění zdarma, ale kvalita zklamala.
+title: 'Orgastické ringtony jdou do personalizace
+
+  '
 ---
+
 <p>Obdivuju, co všechno se na mobily dá prodávat. Mým oblíbeným příkladem jsou orgastické vyzváněcí tóny, o kterých <a href="/item/orgasticke-ringtony-hitem">už jsem tu psal</a>. Nejdříve byly hitem komerčních hitparád vyzváněcích tónů, pak vznikly open-source orgasmy pro mobily, které si můžete nastavit jako své vyzvánění. </p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20050704-orgasmtones.gif" alt="Orgasmtones" width="132" height="131" /></div>

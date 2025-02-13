@@ -1,14 +1,21 @@
 ---
 ID: 1178
-title: 'Berdárovo temné mručení o&nbsp;podplacených novinářích'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/berdarovo-temne-mruceni-o-podplacenych-novinarich
-published: true
+oldlink: 'https://www.marigold.cz/item/berdarovo-temne-mruceni-o-podplacenych-novinarich
+
+  '
 post_date: 2004-07-01 08:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Berdár (Český Telecom) obvinil novináře z lživých komentářů a majetkového zájmu.
+- Autor se ptá, jaký majetkový prospěch mají novináři z psaní o Telecomu.
+- Telecom neposkytl důkazy o uplacených novinářích, jen obecná obvinění.
+- Autor se omluvil za chybnou informaci o M. Heřmanovi, šlo o slušnost.
+title: Berdárovo temné mručení o&nbsp;podplacených novinářích
 ---
+
 <p>
 Na Lupě <a href="http://www.lupa.cz/clanek.php3?show=3467">vyšel v sérii rozhovorů </a>také rozhovor s Gabrielem Berdárem, šéfem Českého Telecomu. Poměrně vkusný a hezký rozhovor, na to, jak je firma pana Berdára obecně oblíbená. Jenže na závěr se hovor stočil na novináře a pan Berdár si nenechal ujít příležitost, aby jim osladil pozornost, kterou Telecomu věnují, když oznámil, že<em> &quot;jedna či dvě redakce se musely za lživé komentáře svých novinářů omluvit, protože se navíc ještě zjistilo, že jeden z pisatelů měl na věci s velkou pravděpodobností i majetkový zájem&quot;.</em> O chvíli před tím pravil, že svou roli v pomlouvání Telecomu hrají též <em>&quot;neukojené ambice, osobní finanční prospěch, nebo prostě jenom tak, protože nadávat na cokoliv je snadné a v módě.&quot;</em></p>
 <p>

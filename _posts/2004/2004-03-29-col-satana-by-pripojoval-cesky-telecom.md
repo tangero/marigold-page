@@ -1,14 +1,21 @@
 ---
 ID: 952
-title: 'COL: Satana by připojoval Český Telecom'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/col-satana-by-pripojoval-cesky-telecom
-published: true
+oldlink: 'https://www.marigold.cz/item/col-satana-by-pripojoval-cesky-telecom
+
+  '
 post_date: 2004-03-29 08:54:00
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom je v telekomunikacích často obviňován z problémů a vysokých cen.
+- COL kritizuje Telecom za nedostatečnou podporu ADSL a monopol v CDMA.
+- COL se zviditelňuje nářky na Telecom, ale investicím se vyhýbá.
+- COL usiluje o levné PR namísto seriózních obchodních aktivit.
+title: 'COL: Satana by připojoval Český Telecom'
 ---
+
 <p>
 Vždy, když potřebuje někdo vysvětlit vysoké ceny, vlastní neschopnost, technologické problémy či průtahy, je v telekomunikacích pes k bití po ruce: Český Telecom. Móda označovat ho za původce všeho zla je tak rozšířená a tak vděčná, že nad tím mnohdy už ani nepřemýšlíme a jen automaticky odsouhlasíme konstatování faktu, že bez Telecomu bychom tu už dávno měli sítě čtvrté generace, volali za paušál, měli DSL za korunu a dopravní zácpu v Praze bychom vyřešili teleportací. Dlužno ovšem dodat, že Telecom příliš nevypadá, že by mu situace nějak vadila; minimálně proti ní nic nedělá alespoň v oblasti píárka. Pokud se říká, že Satan používá Windows, tak telekomunikační služby mu jistě dodává Český Telecom. </p>
 

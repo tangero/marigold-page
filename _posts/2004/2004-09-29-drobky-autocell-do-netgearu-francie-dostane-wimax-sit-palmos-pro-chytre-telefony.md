@@ -1,14 +1,22 @@
 ---
 ID: 1339
-title: 'Drobky: AutoCell do NetGearu, Francie dostane WiMax síť, PalmOS pro chytré telefony'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-autocell-do-netgearu-francie-dostane-wimax-sit-palmos-pro-chytre-telefony
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-autocell-do-netgearu-francie-dostane-wimax-sit-palmos-pro-chytre-telefony
+
+  '
 post_date: 2004-09-29 08:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- NetGear aktualizuje WiFi produkty WG302 a WAG511s o funkci AutoCell.
+- Altitude Telecom plánuje pokrýt celou Francii WiMax sítí pro malé firmy.
+- PalmOS 6.1 Cobalt pro chytré telefony bude podporovat Bluetooth, WiFi a GPRS.
+- Český Mobil a.s. se od 27.9.2004 přejmenoval na Oskar Mobil a.s.
+title: 'Drobky: AutoCell do NetGearu, Francie dostane WiMax síť, PalmOS pro chytré
+  telefony'
 ---
+
 <p>
 NetGear nabídl update pro své WiFi produkty WG302 (přístupový bod) a WAG511s (PC karta) <b>o funkci AutoCell</b>. Nové výrobky již funkci AutoCell budou obsahovat automaticky. AutoCell je zajímavá funkce vyvíjená firmou Propagate Networks, která umožní přístupovým bodům a kartám automaticky se naladit na nejlepší frekvenci a zároveň používat optimální vysílací výkon. Funkce má pracovat i ve velmi radiově rušném prostředí, nepotřebuje žádnou centrální správu a řízení kanálů i vysílacího výkonu zvládne zcela automaticky. Podrobnější presentaci <a href="http://www.propagatenet.com/">najdete zde</a>. Vhodné samozřejmě hlavně pro kancelářské budovy, zajímalo by mne, jak by to dopadlo v outdoor prostředí&#8230;</p>
 

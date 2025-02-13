@@ -1,14 +1,21 @@
 ---
 ID: 1439
-title: 'Jak je to s&nbsp;pásmem 5 GHz'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-je-to-s-pasmem-5-ghz
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-je-to-s-pasmem-5-ghz
+
+  '
 post_date: 2004-12-13 14:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- GHz pásmo má různá subpásma s odlišnou regulací v Americe a Evropě.
+- MHz je jediné pásmo v ČR pro 5 GHz sítě s 25 mW maximem.
+- MHz pásmo s 1 W EIRP v Evropě ČTÚ opakovaně odkládá.
+- ČTÚ odklady 5470-5725 MHz pásma způsobily operátorům mnohamilionové škody.
+title: Jak je to s&nbsp;pásmem 5 GHz
 ---
+
 <p>
 Už jsem to tu párkrát psal, ale dnešní Oookův článek mě inspiroval k tomu, abych ještě jednou v krátkosti vyjasnil to podstatné okolo pásma 5 GHz. Je třeba totiž zdůraznit, že toto pásmo má několik subpásem, které mají a budou mít odlišnou regulaci.</p>
 

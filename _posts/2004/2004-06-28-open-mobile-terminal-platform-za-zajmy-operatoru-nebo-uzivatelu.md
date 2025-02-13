@@ -1,14 +1,21 @@
 ---
 ID: 1172
-title: 'Open Mobile Terminal Platform &#8211; za zájmy operátorů nebo uživatelů?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/open-mobile-terminal-platform-za-zajmy-operatoru-nebo-uzivatelu
-published: true
+oldlink: 'https://www.marigold.cz/item/open-mobile-terminal-platform-za-zajmy-operatoru-nebo-uzivatelu
+
+  '
 post_date: 2004-06-28 09:09:33
+post_excerpt: ''
+published: true
+summary_points:
+- Operátoři a výrobci mobilů mají spor o služby s přidanou hodnotou.
+- OMTP iniciativa má sjednotit ovládání mobilních telefonů napříč značkami.
+- Sjednocení ovládání mobilů může brzdit vývoj, ale i rozšířit služby.
+- Uživatelé nestíhají přijímat nové funkce, je třeba stávající odladit.
+title: Open Mobile Terminal Platform &#8211; za zájmy operátorů nebo uživatelů?
 ---
+
 <p>
 Na mobilním trhu lze už delší dobu vypozorovat tenzi mezi mobilními operátory a výrobci mobilních telefonů. Mobilní operátoři říkají, že výrobci mají vyrábět a necpat se do služeb, výrobci zase namítají, že vyrábět za levno se jim neoplácí a že chtějí mít výhled na příjmy ze služeb s přidanou hodnotou. A tak Nokia má svůj Club Nokia, kde vám zašle loga, zvonění atd na váš Nokia mobil, Samsung má svůj Funclub dělající prakticky totéž a každý větší výrobce mobilů má něco podobného, nebo to plánuje (nebo mu na to došly peníze a nenápadně to zrušil...)</p>
 <p>

@@ -1,14 +1,22 @@
 ---
 ID: 1253
-title: 'Sdílení CDMA &#8211; Asus WL500g a&nbsp;CDMA Networking Router a&nbsp;CDMA antény'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sdileni-cdma-asus-wl500g-a-cdma-networking-router-a-cdma-anteny
-published: true
+oldlink: 'https://www.marigold.cz/item/sdileni-cdma-asus-wl500g-a-cdma-networking-router-a-cdma-anteny
+
+  '
 post_date: 2004-08-16 07:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- Asus WL500g router lze upravit pro sdílení Eurotel CDMA připojení.
+- I4 nabízí CDMA Networking Router s ethernetem, WiFi pro sdílení CDMA připojení.
+- I4 shop prodává Yagi anténu pro CDMA 450, její použití je licenčně omezené.
+- Eurotel povoluje pouze antény doporučené výrobcem kvůli schválení ČTÚ.
+title: Sdílení CDMA &#8211; Asus WL500g a&nbsp;CDMA Networking Router a&nbsp;CDMA
+  antény
 ---
+
 <p>
 Už když Eurotel ohlásil své CDMA, začala řada lidí hloubat nad tím, jak toto připojení co nejefektivněji nasdílet. Protože CDMA modem má jen USB rozhraní (anžto ono je podporované přímo na čipové sadě Qualcommu tvořící jádro modemu), dalo se přemýšlet o nasdílení pouze skrze trvale zapnutý počítač a proxymizaci skrze Linux či Windows software. Jenže pak se ukázalo, že by šlo přemluvit některé routery vybavené USB portem k tomu, aby tento port byl použitelný pro připojení do internetu. Na Chupa.nl fóru tuto teorii poprvé rozpracoval a uvedl do praxe Petr Neník Nejedlý a Adam Kopel to celé zorganizoval tak, aby to bylo blbuvzdorné a snadno instalovatelné. <strong>Do Asus WL500g nyní stačí nahrát úpravu firmware</strong> přes webové rozhraní, objeví se položka CDMA, kde vyplníte svůj Eurotel login a heslo a můžete na USB připojit modem. Jedna finta - Eurotel modem po dvou dnech automaticky odpojí, takže je třeba spojení sestavit znovu. Netuším, zda na to firmware pamatuje. Podrobný návod najdete <a href="http://www.koppel.cz/cdmawifi/">zde u Adama Kopela</a>. Cena Asus WL500g je cca 3800 Kč bez DPH.</p>
 <div class="rightbox">[div style="rightbox"]<img src="/wp-content/uploads/20040816-cdma-router.jpg" alt="CDMA networking router" width="200" height="164" />[/div]</div><p>

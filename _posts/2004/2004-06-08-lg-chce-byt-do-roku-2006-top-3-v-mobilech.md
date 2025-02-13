@@ -1,14 +1,21 @@
 ---
 ID: 1135
-title: 'LG chce být do roku 2006 Top 3 v&nbsp;mobilech'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lg-chce-byt-do-roku-2006-top-3-v-mobilech
-published: true
+oldlink: 'https://www.marigold.cz/item/lg-chce-byt-do-roku-2006-top-3-v-mobilech
+
+  '
 post_date: 2004-06-08 09:02:16
+post_excerpt: ''
+published: true
+summary_points:
+- LG chce být do roku 2006 mezi třemi největšími výrobci mobilů.
+- Reorganizace firmy zahrnuje globální výzkumný tým a integraci GSM/CDMA.
+- Regionální manažeři získají větší pravomoci v plánování produktů a marketingu.
+- LG otevře výzkumná centra v Číně, Evropě a později i jinde.
+title: LG chce být do roku 2006 Top 3 v&nbsp;mobilech
 ---
+
 <p>
 A ještě jednou Korea. Korejská firma LG (už nyní v Top 5) se chce probojovat mezi trojici největších světových výrobců mobilů do roku 2006. Včera také ohlásila, co pro to udělá.</p>
 

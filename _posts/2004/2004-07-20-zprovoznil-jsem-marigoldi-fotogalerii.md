@@ -1,14 +1,21 @@
 ---
 ID: 1205
-title: Zprovoznil jsem Marigoldí fotogalerii
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zprovoznil-jsem-marigoldi-fotogalerii
-published: true
+oldlink: 'https://www.marigold.cz/item/zprovoznil-jsem-marigoldi-fotogalerii
+
+  '
 post_date: 2004-07-20 20:28:39
+post_excerpt: ''
+published: true
+summary_points:
+- Coppermine Photo Gallery spuštěna na Marigold.cz na adrese www.marigold.cz/foto.
+- Mobil párty 1998 fotografie jsou v galerii, kvalita odpovídá tehdejší technice.
+- Nepublikované fotky z 3GSM kongresu v Cannes jsou také dostupné.
+- Popisky fotografií jsou neúplné, čtenáři mohou tipovat v komentářích.
+title: Zprovoznil jsem Marigoldí fotogalerii
 ---
+
 <p>
 Konečně jsem rozchodil velmi hezký software pro online zprávu fotogalerií - Coppermine Photo Gallery - a tak již konečně funguje nějaká inteligentnější fotogalerie pro Marigold.cz. Najdete ji na adrese <a href="http://www.marigold.cz/foto">www.marigold.cz/foto</a> a odkaz na ni také přidám do horního menu pod logo Marigolda. </p>
 <p>

@@ -1,16 +1,25 @@
 ---
 ID: 1402
-title: >
-  Siemens Gigaset M34 USB Adapter pro
-  Skype
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/siemens-gigaset-m34-usb-adapter-pro-skype
-published: true
+oldlink: 'https://www.marigold.cz/item/siemens-gigaset-m34-usb-adapter-pro-skype
+
+  '
 post_date: 2004-11-12 14:59:05
+post_excerpt: ''
+published: true
+summary_points:
+- Skype 10.11.2004 oznámil podporu Siemens Gigaset telefonů pomocí Gigaset M34 USB
+  adaptéru.
+- Podporované Siemens telefony zahrnují Gigaset C/CX/S/SX/SL řady 340/345, 440/445
+  a 645.
+- Adaptér M34 USB umožňuje Skype hovory, přístup k seznamu a konferenční hovory.
+- Gigaset M34 USB adaptér má být prodáván s kupónem pro Skype Out.
+title: 'Siemens Gigaset M34 USB Adapter pro Skype
+
+  '
 ---
+
 <p>
 Skype oznámil ve své tiskové zprávě z 10.11.2004 funkční podporu pro bezdrátové telefony Siemens Gigaset pomocí USB adaptéru Gigaset M34 USB Adapter.</p>
 

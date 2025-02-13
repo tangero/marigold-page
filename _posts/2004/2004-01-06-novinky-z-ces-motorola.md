@@ -1,14 +1,21 @@
 ---
 ID: 777
-title: 'Novinky z&nbsp;CES: Motorola'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/novinky-z-ces-motorola
-published: true
+oldlink: 'https://www.marigold.cz/item/novinky-z-ces-motorola
+
+  '
 post_date: 2004-01-06 10:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- CES veletrh představil nové produkty, například Motorola VT1000v pro analogové telefony.
+- Motorola WPS870 Wireless Print Server a WU830G USB adapter jsou 802.11g produkty.
+- Motorola HM1000 Home Monitoring je bezdrátová kamera pro domácí monitoring.
+- Motorola nabízí My Network Planner pro plánování domácí sítě s komponenty Motorola.
+title: 'Novinky z&nbsp;CES: Motorola'
 ---
+
 <p>
 Veletrh CES konečně prolomil ledy a objevují se po delší době informace o nových zajímavých produktech. </p>
 

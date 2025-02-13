@@ -1,14 +1,22 @@
 ---
 ID: 998
-title: 'Popracovní balada o&nbsp;korupci, příležitostech a&nbsp;tak různě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/popracovni-balada-o-korupci-prilezitostech-a-tak-ruzne
-published: true
+oldlink: 'https://www.marigold.cz/item/popracovni-balada-o-korupci-prilezitostech-a-tak-ruzne
+
+  '
 post_date: 2004-04-23 15:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- Smlouva z anglických textů připomíná nesmyslnou ústavu EU kvůli složitosti právních
+  systémů.
+- Levnější internet WLL vyžaduje více zájemců a složitý výpočet ceny dat.
+- Novináři jsou obviňováni z korupce bez ohledu na objektivitu článku.
+- MP3 přehrávač s bluetooth a WiFi kniha potěšily autora na víkend.
+title: Popracovní balada o&nbsp;korupci, příležitostech a&nbsp;tak různě
 ---
+
 <p>
 Ještě mi sice nepadla, ale mám toho tak akorát dost. Celý den se snažím udělat z deseti anglických textů jednu smlouvu, která by vypada, jako že ji psal někdo, kdo rozumí kontinentálnímu, americkéhmu a českému právu najednou. Zatím to vypadá spíše jako návrh ústavy EU, jen je to o něco kratší - úplně stejně to postrádá smysl. Právník tvrdí, že díky tomu to vypadá, jako profi smlouva... :(</p>
 

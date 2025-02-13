@@ -1,14 +1,21 @@
 ---
 ID: 795
-title: 'První uživatelské zkušenosti s&nbsp;bezdrátovým připojením Bluetone Angel'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prvni-uzivatelske-zkusenosti-s-bezdratovym-pripojenim-bluetone-angel
-published: true
+oldlink: 'https://www.marigold.cz/item/prvni-uzivatelske-zkusenosti-s-bezdratovym-pripojenim-bluetone-angel
+
+  '
 post_date: 2004-01-16 22:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bluetone Angel je bezdrátová technologie Českých Radiokomunikací v pásmu 3.5GHz.
+- Technologie Angel nevyžaduje přímou viditelnost vysílače a má dosah až 30 km.
+- Rychlost stahování dat u Angel Active 1024/256 se pohybuje mezi 70-110 kB/s.
+- Cena Angel 1024/256 je 1690 Kč bez DPH, což je levnější než srovnatelné ADSL.
+title: První uživatelské zkušenosti s&nbsp;bezdrátovým připojením Bluetone Angel
 ---
+
 <p>
 Včera jsem se stal (zatím) šťastným uživatelem nové služby Českých Radiokomunikací - <a href="http://www.bluetone.cz/main.php?pageid=52&lang=3&type=400&detail=1">Bluetone Angel</a>, konkrétně verzi Internet Angel Active 1024/256. A jaké jsou moje zkušenosti z prvních dnů používání?</p>
 

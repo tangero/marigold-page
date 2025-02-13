@@ -1,14 +1,21 @@
 ---
 ID: 1125
-title: 'Kandidátem na mobil s&nbsp;WiFi je také NEC N900iL'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kandidatem-na-mobil-s-wifi-je-take-nec-n900il
-published: true
+oldlink: 'https://www.marigold.cz/item/kandidatem-na-mobil-s-wifi-je-take-nec-n900il
+
+  '
 post_date: 2004-06-04 08:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- Motorola vyvíjí mobil s WiFi pro telefonování, nejen pro přístup k internetu.
+- NEC N900iL, WiFi telefon pro FOMA, se v Japonsku objeví v červenci/srpnu.
+- NEC N900iL váží 123 gramů a podporuje 802.11b i VoIP telefonování.
+- Telefon bude mít dvě čísla a VoIP tarify v dosahu WiFi sítě.
+title: Kandidátem na mobil s&nbsp;WiFi je také NEC N900iL
 ---
+
 <p>
 Včera jsem psal o tom, jak Motorola horečně spolu s partnery vyvíjí mobilní telefon vybavený WiFi, přičemž slovem vybavený se nemyslí jen fakt, že jím může přistupovat na internet (jako Nokia 9500), ale také že jím lze telefonovat. </p>
 

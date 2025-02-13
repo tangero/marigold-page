@@ -1,14 +1,21 @@
 ---
 ID: 1043
-title: 'Cometa Networks zavírá krám &#8211; WiFi hype je u&nbsp;konce?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cometa-networks-zavira-kram-wifi-hype-je-u-konce
-published: true
+oldlink: 'https://www.marigold.cz/item/cometa-networks-zavira-kram-wifi-hype-je-u-konce
+
+  '
 post_date: 2004-05-19 08:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Cometa Networks, WiFi projekt Intel Capital, AT&T a IBM, končí.
+- Důvodem ukončení projektu Cometa Networks je nenalezení finančního partnera.
+- Cometa chtěla vystavět 20 000 hotspotů v USA pro ISP.
+- Ukončení Cometa Networks neznamená konec WiFi, jen neúspěch jedné firmy.
+title: Cometa Networks zavírá krám &#8211; WiFi hype je u&nbsp;konce?
 ---
+
 <p>
 Cometa Networks měl být mamutí WiFi projekt Intel Capital, AT&amp;T a IBM. <A href="http://wifinetnews.com/archives/003349.html" target=_blank>Wifinetnews</A> včera přinesly zprávu, že <STRONG>Cometa končí.</STRONG> Důvod je prozajický, firmě se nepodařilo najít finančního partnera pro další provoz a zakladatelé se rozhodli v projektu dále nepokračovat. </p>
 

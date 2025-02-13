@@ -1,14 +1,21 @@
 ---
 ID: 1368
-title: 'Přístupový bod Wline W 4500 s&nbsp;řízením rychlosti připojených klientů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pristupovy-bod-wline-w-4500-s-rizenim-rychlosti-pripojenych-klientu
-published: true
+oldlink: 'https://www.marigold.cz/item/pristupovy-bod-wline-w-4500-s-rizenim-rychlosti-pripojenych-klientu
+
+  '
 post_date: 2004-10-21 12:19:33
+post_excerpt: ''
+published: true
+summary_points:
+- Wline W4500 AP umožňuje řízení šířky pásma připojených WiFi klientů.
+- Cena Wline W4500 je 2000 Kč bez DPH.
+- AP Wline W4500 podporuje WEP 128 bitů, klientský režim a NAT.
+- Wline W4500 postrádá 802.11g a WPA.
+title: Přístupový bod Wline W 4500 s&nbsp;řízením rychlosti připojených klientů
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/1/20041021-wlinew4500.gif" alt="Wline W4500" width="230" height="201" /></div>
 <p>
 Oblíbený problém - jak efektivně limitovat rychlost připojených klientů k přístupovému bodu WiFi sítě tak, aby jeden klient nesežral všechnu rychlost. Řešení tu již bylo několik, na <a href="http://www.wificentrum.cz/buxus/generate_page.php?page_id=568&amp;lng=cz">WiFiCentrum.cz</a> jsem ale našel nový a zajímavý přístupový bod Wline W 4500 s cenou 2000 Kč bez DPH, který řízení šířky přiděleného pásma umožňuje. Nenašel jsem ovšem žádnou podrobnější informaci o tom, jak jemně lze přidělené pásmo řídit, podle obrázků administrace to ale vypadá, že vcelku dostatečně. </p>

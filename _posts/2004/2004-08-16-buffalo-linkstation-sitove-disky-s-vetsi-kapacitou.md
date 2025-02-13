@@ -1,14 +1,21 @@
 ---
 ID: 1256
-title: 'Buffalo LinkStation &#8211; síťové disky s&nbsp;větší kapacitou'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/buffalo-linkstation-sitove-disky-s-vetsi-kapacitou
-published: true
+oldlink: 'https://www.marigold.cz/item/buffalo-linkstation-sitove-disky-s-vetsi-kapacitou
+
+  '
 post_date: 2004-08-16 22:07:55
+post_excerpt: ''
+published: true
+summary_points:
+- Síťové disky jsou dostupné pro malé firmy a domácnosti jako alternativa serverů.
+- Buffalo rozšiřuje řadu LinkStation o 160GB a 250GB modely s FTP serverem.
+- LinkStation umožňuje sdílení tiskárny přes USB a je kompatibilní s Win/Mac/Linux.
+- Buffalo LinkStation se pravděpodobně nedováží do Česka, i přes distributora AutoCont.
+title: Buffalo LinkStation &#8211; síťové disky s&nbsp;větší kapacitou
 ---
+
 <p>
 
 Samostatné síťové disky jsou mým momentálním hitem (už několik měsíců, tedy od té doby, co existují pro trh malých firem a domácností). Jde o pevné disky s ethernet či jiným síťovým či síťovatelným rozhraním, velmi šikovné věcičky, které můžou být někde v poličce, připojené do domácí či malé firemní sítě a vždy dostupné bez toho, aby byl zapnut nějaký centrální (hlučný a žravý) server.</p>

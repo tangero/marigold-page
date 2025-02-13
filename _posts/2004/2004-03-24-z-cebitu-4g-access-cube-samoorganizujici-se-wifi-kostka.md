@@ -1,14 +1,21 @@
 ---
 ID: 942
-title: 'Z CeBITu: 4G Access Cube &#8211; samoorganizující se WiFi kostka'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/z-cebitu-4g-access-cube-samoorganizujici-se-wifi-kostka
-published: true
+oldlink: 'https://www.marigold.cz/item/z-cebitu-4g-access-cube-samoorganizujici-se-wifi-kostka
+
+  '
 post_date: 2004-03-24 07:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- G Access Cube od 4G Systeme GmbH je WiFi kostka s mesh sítí.
+- Access Cube samoorganizovaně routuje internetové připojení mezi propojenými kostkami.
+- Kostky mají externí antény, ethernet, USB, FireWire a podporují vzdálenou správu.
+- Technologie Access Cube je proprietární, vyžaduje zařízení od 4G Systeme GmbH.
+title: 'Z CeBITu: 4G Access Cube &#8211; samoorganizující se WiFi kostka'
 ---
+
 <p>
 Už jsem se prokousal letáky a vytřídil jsem zajímavosti prvního sledu, takže nyní ta, která mne ve WiFi zaujala asi nejvíce - <STRONG>4G Access Cube</STRONG>. Autorem této kostky je německá firma <A href="http://www.4g-systems.biz/" target=_blank>4G Systeme GmbH</A>. Kostka mimo jiné vypadá moc hezky, kromě průhledného provedení na obrázku je také v černém provedení. </p>
 

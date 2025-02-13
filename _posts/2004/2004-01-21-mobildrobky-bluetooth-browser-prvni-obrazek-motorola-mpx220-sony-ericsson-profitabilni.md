@@ -1,14 +1,23 @@
 ---
 ID: 804
-title: 'Mobildrobky: Bluetooth Browser, první obrázek Motorola MPx220, Sony Ericsson profitabilní'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobildrobky-bluetooth-browser-prvni-obrazek-motorola-mpx220-sony-ericsson-profitabilni
-published: true
+oldlink: 'https://www.marigold.cz/item/mobildrobky-bluetooth-browser-prvni-obrazek-motorola-mpx220-sony-ericsson-profitabilni
+
+  '
 post_date: 2004-01-21 08:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bluetooth Browser je midlet pro prohlížení okolních Bluetooth zařízení a jejich
+  specifikací.
+- Motorola MPx220 má 640x480 kameru, Bluetooth, infra, USB a Windows Smartphone 2003.
+- Sony Ericsson dosáhl ve 4Q 2003 zisku 43 mil. EUR.
+- Sony Ericsson prodal o 8 milionů mobilů více ve 4Q 2003 než ve 4Q 2002.
+title: 'Mobildrobky: Bluetooth Browser, první obrázek Motorola MPx220, Sony Ericsson
+  profitabilní'
 ---
+
 <p>
 Zajímavou utilitkou je pro mobily vybavené bluetooth midlet <B>Bluetooth Browser</B>. Tento midlet vám umožní prohlížet a procházet okolní bloetooth zařízení a jejich technické specifikace. Funguje s telefony vybavenými Java Bluetooth specifikací JSR-82, autor uvádí výslovně Nokia 6600 nebo SEr P900, vyzkoušet můžete další. Ku stažení <A href="http://www.benhui.net/bluetooth/btbrowser.html">zde zdarma</A>, pro bluejacking a další bluetooth zábavu jak dělané. </p>
 

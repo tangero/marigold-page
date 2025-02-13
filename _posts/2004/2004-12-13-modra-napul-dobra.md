@@ -1,14 +1,22 @@
 ---
 ID: 1440
-title: Modrá napůl dobrá
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/modra-napul-dobra
-published: true
+oldlink: 'https://www.marigold.cz/item/modra-napul-dobra
+
+  '
 post_date: 2004-12-13 18:16:36
+post_excerpt: ''
+published: true
+summary_points:
+- Restaurace Modrá Lavička má reklamu v rádiu a nabízí thajské jídlo.
+- Přítelkyně si objednala kuřecí medailonky v bramboráku, které byly zřejmě ohřáté.
+- Nespokojenost s jídlem byla zmíněna při placení, personál se vymluvil na nového
+  kuchaře.
+- Autor doporučuje v Modré Lavičce pouze thajskou kuchyni.
+title: Modrá napůl dobrá
 ---
+
 <p>
 V sobotu jsme s přítelkyní navštívili <a href="http://www.modralavicka.cz/">restauraci</a>. Ano, je to ta, na kterou běží reklama na nejmenovaném rádiu. Nevyzkoušel jsem jsem sice místní hotspot ani připojení kabelem, ale zato jsem nabral cenné zkušenosti.</p>
 

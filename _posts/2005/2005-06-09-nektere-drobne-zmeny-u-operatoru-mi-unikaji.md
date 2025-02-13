@@ -1,14 +1,21 @@
 ---
 ID: 1677
-title: 'Některé drobné změny u&nbsp;operátorů mi unikají'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nektere-drobne-zmeny-u-operatoru-mi-unikaji
-published: true
+oldlink: 'https://www.marigold.cz/item/nektere-drobne-zmeny-u-operatoru-mi-unikaji
+
+  '
 post_date: 2005-06-09 08:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile zrušil MMS editor v T-Zones, nenabízí náhradu a zpoplatňoval odeslané MMS.
+- T-Mobile zrušil konfiguraci služeb přes SMS, nutí uživatele k webovému konfigurátoru.
+- Eurotel komplikovaně mění názvy datových služeb, ztěžuje orientaci zákazníkům.
+- Platnost MMS zpráv u Vodafone je pouze tři dny, což je nedostatečné.
+title: Některé drobné změny u&nbsp;operátorů mi unikají
 ---
+
 <p>Nejde o nic zásadního. Spíš drobnosti, které člověku ztrpčují život a kterých se operátoři vzdali, aniž bych chápal, proč tak učinili. Ačkoliv chápu, že moje chápání není pro operátory příliš podstatné, na druhou stranu mám neodbytný dojem, že nejsem sám, kdo nechápe. Doufám, že mne chápete ;) </p>
 
 <h3>U T-Mobile zmizel MMS editor z netu</h3>

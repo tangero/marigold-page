@@ -1,14 +1,21 @@
 ---
 ID: 825
-title: Dvakráte Sharp pro oblíznutí kosti
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dvakrate-sharp-pro-obliznuti-kosti
-published: true
+oldlink: 'https://www.marigold.cz/item/dvakrate-sharp-pro-obliznuti-kosti
+
+  '
 post_date: 2004-02-02 08:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Sharp PW-A8100 je japonský elektronický slovník za cca 11 000 Kč.
+- Sharp V801SH je dualmode GSM/3G telefon s megapixelovým fotoaparátem pro Vodafone.
+- Telefon Sharp V801SH má slot pro SD kartu a 16 MB kartu v balení.
+- Evropská nabídka 3G telefonů je dostupná na 3MobileStore, například Motorola A925.
+title: Dvakráte Sharp pro oblíznutí kosti
 ---
+
 <IMG height=175 alt="Sharp PWA8100" src="/wp-content/uploads/sharppwa8100.jpg" width=200 align=right> 
 <p>
 Přes víkend se mi nashromáždily (bohužel pouze virtuálně) dvě novinky od Sharpu, nad kterými stojí za to si trochu zaslintat. Na nic více se asi v ČR nezmůžeme, protože první hračka je japonský elektronický slovník a ta druhé je mobil pro GSM/3G. </p>

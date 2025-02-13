@@ -1,14 +1,21 @@
 ---
 ID: 1175
-title: 'Server MsMobiles.com je pěkně vysazený na Nokiu a&nbsp;padají ostrá slova'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/server-msmobiles-com-je-pekne-vysazeny-na-nokiu-a-padaji-ostra-slova
-published: true
+oldlink: 'https://www.marigold.cz/item/server-msmobiles-com-je-pekne-vysazeny-na-nokiu-a-padaji-ostra-slova
+
+  '
 post_date: 2004-06-29 08:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- MsMobiles.com je server zaměřený na Microsoftí smartphony, kritický k Nokii.
+- Andrew Orlowski z The Register byl označen za lháře kvůli názorům na Symbian.
+- MsMobiles přeložil a zkritizoval hodnoty firmy Nokia s paranoidními výhradami.
+- MsMobiles se graficky inspiroval serverem The Register, možná i obšlehl logo.
+title: Server MsMobiles.com je pěkně vysazený na Nokiu a&nbsp;padají ostrá slova
 ---
+
 <p>
 Někdy je to docela vtipné, sledovat zahraniční servery. <a href="http://www.msmobiles.com/">MsMobiles.com</a> je jeden z takových průbojnějších serverů, kde se ledaskdy vyskytne zajímavá novinka, ale na názory zdejších autorů si člověk musí dát trochu pozor a důkladně je sítem probrat. Server je zaměřený na PocketPC a obecně smártfouny vybavené Microsoftím řešením a Nokia jim tam leží vydatně v žaludku. V poslední době do toho ostře šlápli bez ohledu na slovník a já nestíhám žasnout. </p>
 <p>

@@ -1,14 +1,21 @@
 ---
 ID: 1151
-title: 'GPSVisualizer &#8211; zaneste si hotspoty do mapy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/gpsvisualizer-zaneste-si-hotspoty-do-mapy
-published: true
+oldlink: 'https://www.marigold.cz/item/gpsvisualizer-zaneste-si-hotspoty-do-mapy
+
+  '
 post_date: 2004-06-18 16:44:36
+post_excerpt: ''
+published: true
+summary_points:
+- RS-232/USB kabel zakoupen pro propojení Garmin eMap s notebookem bez sériového portu.
+- NetStumbler ukládá polohu GPS s informacemi o WiFi hotspotu do mapy.
+- GPSvisualizer online mapuje hotspoty z NetStumbler logu, ale mapy ČR nejsou ideální.
+- Autor plánuje zveřejnit výstup z měření WiFi hotspotů.
+title: GPSVisualizer &#8211; zaneste si hotspoty do mapy
 ---
+
 <p>
 Nedávno jsem se dovybavil kabelem, který konveruje RS-232 mého Garmin eMap na USB - tak nějak jsem pochopil, že můj notebook už seriový port považuje za mrtvý a že RS-232/USB konverze se mi bude ještě párkrát hodit. </p>
 <p>

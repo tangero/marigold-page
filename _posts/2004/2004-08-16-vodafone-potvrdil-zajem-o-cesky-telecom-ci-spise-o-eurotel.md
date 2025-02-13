@@ -1,14 +1,21 @@
 ---
 ID: 1254
-title: 'Vodafone potvrdil zájem o&nbsp;Český Telecom (či&nbsp;spíše o&nbsp;Eurotel)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vodafone-potvrdil-zajem-o-cesky-telecom-ci-spise-o-eurotel
-published: true
+oldlink: 'https://www.marigold.cz/item/vodafone-potvrdil-zajem-o-cesky-telecom-ci-spise-o-eurotel
+
+  '
 post_date: 2004-08-16 07:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vodafone projevil zájem o nákup 51 % akcií Českého Telecomu.
+- Vláda požaduje minimálně 2,3 miliardy USD za 51 % akcií Telecomu.
+- Vodafone zřejmě zajímá hlavně Eurotel, nikoliv pevnolinkový Telecom.
+- Deutsche Telekom a Orange by se také mohli zajímat o Eurotel.
+title: Vodafone potvrdil zájem o&nbsp;Český Telecom (či&nbsp;spíše o&nbsp;Eurotel)
 ---
+
 <p>
 Nadnárodní mobilní operátor Vodafone potvrdil, že má zájem účastnit se nákupu 51% akcií Českého Telecomu (to je ten balík, co vláda plus TelSource prodává). Zatím není jasné, kolik by Vodafone za Telecom nabídl, vláda by viděla 2,3 mld USD (60 miliard Kč) jako minimální cenu. S nákupem akcií by měly Vodafone radit Citygroup a Česká Spořitelna. Zdroj: <a href="http://quote.bloomberg.com/apps/news?pid=10000102&amp;sid=aEd8GgyRV1uk&amp;refer=uk">Bloomberg</a>.</p>
 <p>

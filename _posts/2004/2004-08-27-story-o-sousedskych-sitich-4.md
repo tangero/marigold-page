@@ -1,14 +1,22 @@
 ---
 ID: 1277
-title: 'Story o&nbsp;sousedských sítích (4.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-4
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-4
+
+  '
 post_date: 2004-08-27 09:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Balíček obsahuje kabel, anténu a bezdrátové karty XI-626 pro připojení.
+- Autor doveze kabel do lokality jedna pro natažení a upevnění antény.
+- Linuxový směrovač bude řešen plnokrevnou distribucí kvůli nedostupnosti redukce
+  CF-IDE.
+- CZFree.Net uživatelé mají lepší dostupnost do Internetu než v rámci sítě.
+title: Story o&nbsp;sousedských sítích (4.)
 ---
+
 <p>
 Jak jsem už <a href="/item/story-o-sousedskych-sitich-3">včera psal</a>, dorazil balíček, ve kterém jsou náležitosti pro připojení (kabel, anténa, dvě bezdrátové karty XI-626 a nějaké ty konektory). Takže mě čekají dvě povinnosti. Dovézt kabel do lokality jedna, ať si natáhnou těch 15 metrů kabelu za střechy a upevní anténu na stožárek (a zbytek do 30 metrů mi vrátí pro lokalitu dvě). </p>
 <p>

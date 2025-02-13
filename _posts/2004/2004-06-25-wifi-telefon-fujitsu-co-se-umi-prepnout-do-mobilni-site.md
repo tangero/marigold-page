@@ -1,16 +1,23 @@
 ---
 ID: 1167
-title: >
-  WiFi telefon Fujitsu, co se umí
-  přepnout do mobilní sítě
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-telefon-fujitsu-co-se-umi-prepnout-do-mobilni-site
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-telefon-fujitsu-co-se-umi-prepnout-do-mobilni-site
+
+  '
 post_date: 2004-06-25 09:38:27
+post_excerpt: ''
+published: true
+summary_points:
+- Fujitsu a Net-2Com představily WiFi telefon s přepojováním do japonské PHS sítě.
+- Prototyp telefonu je vystaven na China Telecom 2004 v Šanghaji.
+- T-Mobile v Evropě usiluje o podobné přepojování VoIP do mobilní sítě.
+- Telefon má QVGA displej, CompactFlash slot, USB, WinCE a chystaný Linux.
+title: 'WiFi telefon Fujitsu, co se umí přepnout do mobilní sítě
+
+  '
 ---
+
 <p>
 Fujitsu ve středu společně s Net-2Com představilo první telefon vybavený WiFi rozhraním, který se umí bezproblémově přepojit do mobilní sítě, v tomto případě bohužel do japonské PHS. Prototyp telefonu (na fotce) je vystavován právě teď na China Telecom 2004 v Šanghaji, tak se tam nezapomeňte stavit. </p>
 

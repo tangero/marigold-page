@@ -1,14 +1,21 @@
 ---
 ID: 1825
-title: 'Lov na LCD televizor po&nbsp;roce'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lov-na-lcd-televizor-po-roce
-published: true
+oldlink: 'https://www.marigold.cz/item/lov-na-lcd-televizor-po-roce
+
+  '
 post_date: 2005-09-20 11:17:27
+post_excerpt: ''
+published: true
+summary_points:
+- Autor zvažuje nákup 32palcové LCD televize kvůli problémům se starou.
+- Požaduje HD ready, HDMI/DVI vstup a minimální parametry displeje (jas, odezva, kontrast).
+- Digitální tuner DVB-T byl z požadavků vypuštěn kvůli nedostupnosti na trhu.
+- Autor uvádí seznam kandidátů na koupi, ale ptá se čtenářů na doporučení.
+title: Lov na LCD televizor po&nbsp;roce
 ---
+
 <p>Vloni jsem <a href="/item/lcd-crt-plazma-co-koupit-jako-tv">tu na podzim dumal</a>, zda si mám pořídit LCD televizor nebo plazmu. Nakonec jsem zvolil kompromis a nepořídil jsem si nic, neb nákupní seznam byl tehdy až neúnosně dlouhý, ale ukázalo se také, že nejsem sám, koho tohle dilema zaujalo. </p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20050920-SONY KLV-L32MRX1.jpg" alt="SONY KLV-L32MRX1" width="320" height="224" /></div>

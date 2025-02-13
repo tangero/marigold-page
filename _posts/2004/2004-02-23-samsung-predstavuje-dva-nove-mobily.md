@@ -1,14 +1,21 @@
 ---
 ID: 874
-title: Samsung představuje dva nové mobily
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/samsung-predstavuje-dva-nove-mobily
-published: true
+oldlink: 'https://www.marigold.cz/item/samsung-predstavuje-dva-nove-mobily
+
+  '
 post_date: 2004-02-23 09:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- Samsung představí v Cannes dva nové mobily, D410 a Z105.
+- D410 je vysunovací telefon pro GSM sítě.
+- Z105 je véčko určené pro UMTS a GSM sítě.
+- Samsung masivně propaguje D410 v Cannes.
+title: Samsung představuje dva nové mobily
 ---
+
 <p>
 V Cannes bude <STRONG>Samsung představovat dva nové mobily</STRONG>, vyhmátnul jsem jim tiskovou zprávu ještě před konferencí, takže stručný popis mobilů je ode mne už na Mobil.cz. Teď kmitám na přednášku o roll-outu 3G sítí, dneska je husto zajímavých témat, potřeboval bych se na klonovat.</p>
 

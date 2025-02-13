@@ -1,16 +1,23 @@
 ---
 ID: 1166
-title: >
-  První mobilní virus Cabir/Caribe má
-  prý český původ
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prvni-mobilni-virus-cabir-caribe-ma-pry-cesky-puvod
-published: true
+oldlink: 'https://www.marigold.cz/item/prvni-mobilni-virus-cabir-caribe-ma-pry-cesky-puvod
+
+  '
 post_date: 2004-06-24 16:58:36
+post_excerpt: ''
+published: true
+summary_points:
+- A, česká skupina autorů virů, si nárokuje autorství prvního mobilního viru Cabir.
+- Cabir se šířil přes bluetooth u telefonů se Symbianem, což je v ČR vzácné.
+- The Prague Post informoval o autorství Cabiru a původu jména skupiny 29A.
+- Autor pochybuje o rychlé reakci české policie v porovnání s německou policií.
+title: 'První mobilní virus Cabir/Caribe má prý český původ
+
+  '
 ---
+
 <p>
 Na autorství prvního mobilního viru Cabir nebo též Caribe si údajně dělá nároky česká skupina autorů virů, která se nazývá 29A. No to je super, takové prvenství jsme fakt potřebovali. </p>
 <p>

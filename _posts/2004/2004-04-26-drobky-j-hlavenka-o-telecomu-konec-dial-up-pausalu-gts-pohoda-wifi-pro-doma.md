@@ -1,14 +1,22 @@
 ---
 ID: 1000
-title: 'Drobky: J. Hlavenka o&nbsp;Telecomu, konec dial-up paušálu GTS Pohoda, WiFi pro doma'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-j-hlavenka-o-telecomu-konec-dial-up-pausalu-gts-pohoda-wifi-pro-doma
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-j-hlavenka-o-telecomu-konec-dial-up-pausalu-gts-pohoda-wifi-pro-doma
+
+  '
 post_date: 2004-04-26 08:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- Hlavenkův komentář k odvolání Valeskiho vidí situaci spíše neutrálně.
+- Telecom by se měl privatizovat a osud Eurotelu rozhodne nový majitel.
+- GTS Pohoda ruší neomezený paušální dial-up internet, zavádí limit 120 hodin.
+- Mobil.cz publikuje seriál o budování metropolitní WiFi sítě.
+title: 'Drobky: J. Hlavenka o&nbsp;Telecomu, konec dial-up paušálu GTS Pohoda, WiFi
+  pro doma'
 ---
+
 <p>
 Na MobilManii vyšel <STRONG>komentář Jiřího Hlavenky k pokusu o odvolání Valeskiho</STRONG>: <A href="http://www.mobilmania.cz/Operatori/AR.asp?ARI=107098" target=_blank>Český Telecom vs. Eurotel: boj o moc, nebo něco víc?</A>&#160;Článek na mne chvíli deklarativně působil, jako by se snažil polemizovat s těmi mými dvěma předchozími, závěry jsou tu ale nakonec prakticky stejné: do sporu vidíme málo, situace ale není ani černá ani bílá. A Telecom by se měl privatizovat (nevíme jak) a o osudu Eurotelu a Telecomu by měl rozhodnout jeho nový majitel. Jiří Hlavenka připomíná, že zatím se jedná pouze o odvolání Valeskiho z pozice jednatele, nikoliv ředitele Eurotelu, já ale soudím, že to je prakticky totéž, jen to pro nezasvědceného lépe vypadá. Bez pozice jednatele Valeski <EM>(soudím) </EM>odejde, protože bude na Eurotel mít menší vliv, ale prakticky stejnou zodpovědnost.</p>
 

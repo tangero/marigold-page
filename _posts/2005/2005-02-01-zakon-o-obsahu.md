@@ -1,14 +1,21 @@
 ---
 ID: 1505
-title: 'Zákon o&nbsp;obsahu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zakon-o-obsahu
-published: true
+oldlink: 'https://www.marigold.cz/item/zakon-o-obsahu
+
+  '
 post_date: 2005-02-01 08:30:23
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa.cz publikovala první díl článku o historii broadbandu v Koreji.
+- Korejský "Zákon o obsahu" vyžaduje zpřístupnění obsahu financovaného státem online.
+- Zákon o obsahu podpořil rozvoj placených obsahových služeb a broadbandu v Koreji.
+- Článek navrhuje podobný model pro Českou republiku s archivy ČTV.
+title: Zákon o&nbsp;obsahu
 ---
+
 <p>Na Lupě.cz dneska <a href="http://www.lupa.cz/clanek.php3?show=3913" >vyšel první díl mého článku</a>
 věnovaného historii a rozvoji broadband internetu v Koreji. Článek byl
 původně jednodílný, ale s šéfredaktorem Lupy jsme usoudili, že jsem ho

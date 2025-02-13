@@ -1,16 +1,23 @@
 ---
 ID: 809
-title: >
-  Stet Helas spustí první řecké 3G
-  UMTS
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/stet-helas-spusti-prvni-recke-3g-umts
-published: true
+oldlink: 'https://www.marigold.cz/item/stet-helas-spusti-prvni-recke-3g-umts
+
+  '
 post_date: 2004-01-23 10:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- Řecký operátor STET Hellas spouští 27. ledna první 3G síť v Athénách a Thessalonikách.
+- Telefony Nokia 6650, Nokia 7600, Motorola A835 a Siemens U15 budou pro 3G dostupné.
+- Tarif Telestet 3G 70 nabízí 70 minut, 40 MB dat a 15 MMS za 1200 Kč.
+- Videotelefonování v 3G síti stojí 16 haléřů za vteřinu, po dubnu dvojnásobek.
+title: 'Stet Helas spustí první řecké 3G UMTS
+
+  '
 ---
+
 <p>
 Tak už i řekové se dočkají své první 3G sítě. 27. ledna ji spoustí místní operátor STET Hellas. V nabídce budou mobilní telefony Nokia 6650, Nokia 7600, Motorola A835 a Siemens U15, služba bude dostupná v oblasti Athén a Thessaloniky, v brzku by mělo pokrytí být rozšířeno i na Patru a Irakleion. </p>
 

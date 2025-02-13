@@ -1,14 +1,21 @@
 ---
 ID: 987
-title: Sluha dvou pánů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sluha-dvou-panu
-published: true
+oldlink: 'https://www.marigold.cz/item/sluha-dvou-panu
+
+  '
 post_date: 2004-04-19 07:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor navštívil s Ditou představení Sluha dvou pánů v Národním divadle.
+- Donutil v roli Truffaldina autora nadchl, zejména improvizované monology.
+- Místa na galerii byla vzdálená, ale kukátka a Pyškův hlas Willise zážitek vylepšily.
+- Představení bylo vyprodané, což zpochybňuje stížnosti divadel na nedostatek financí.
+title: Sluha dvou pánů
 ---
+
 <p>
 Já vím, že zvolený nadpis vás láká ke čtení, protože si myslíte, že to bude nějaký zandlovsko-jízlivý telekomunikační komentář, který urazí vaši konkurenci a při troše štěstí i vás osobně, obojí byvše pak možnost diskutovat a promílat při obědě. Jenže v tomto případě jde o jméno divadelní hry, na kterou jsme včera vyrazili s Ditou do Národního divadla. Vskutku - já vidlák, naplavenina, hoch z vesnice, zašel jsem do národní kapličky, seděl jsem před nápisem Národ sobě (ještě ho neukradli, i když je zlacený).</p>
 

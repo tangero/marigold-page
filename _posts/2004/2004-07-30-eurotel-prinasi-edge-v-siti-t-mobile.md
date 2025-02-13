@@ -1,14 +1,21 @@
 ---
 ID: 1224
-title: 'Eurotel přináší EDGE (v&nbsp;síti T-Mobile)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-prinasi-edge-v-siti-t-mobile
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-prinasi-edge-v-siti-t-mobile
+
+  '
 post_date: 2004-07-30 07:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile potvrdil spuštění EDGE v ČR jako reakci na CDMA Eurotelu.
+- EDGE v USA stojí T-Mobile půl miliardy dolarů, start 2005.
+- Maďarský T-Mobile s Ericssonem ustanovil rychlostní rekord v EDGE síti.
+- T-Mobile s EDGE kontruje Eurotelu, reálné rychlosti budou třetinové.
+title: Eurotel přináší EDGE (v&nbsp;síti T-Mobile)
 ---
+
 <p>
 T-Mobile včera oficiálně potvrdil, že jeho koketování s EDGE technologií se v České republice stává realitou. Zprávu vydal poté, co se už i v Hospodářkách psalo o tom, že si příští pondělí Eurotel vybral pro spuštění své vysokorychlostní datové sítě CDMA2000 EV-DO. Tyto dvě události lze jen velmi těžko nespojovat a je zdřejmé, že EDGE přináší T-Mobile do ČR jen proto, že všechny pokusy zabránit Eurotelu ve spuštění CDMA přišly vniveč - naposledy stížnost k evropské komisi.</p>
 <p>

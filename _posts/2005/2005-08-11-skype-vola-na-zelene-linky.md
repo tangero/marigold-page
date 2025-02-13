@@ -1,14 +1,21 @@
 ---
 ID: 1763
-title: Skype volá na Zelené linky
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/skype-vola-na-zelene-linky
-published: true
+oldlink: 'https://www.marigold.cz/item/skype-vola-na-zelene-linky
+
+  '
 post_date: 2005-08-11 08:27:00
+post_excerpt: ''
+published: true
+summary_points:
+- Skype umožňuje zdarma volat na zelené linky a osmistovky.
+- Podporovaná čísla zahrnují Francii, Polsko, Velkou Británii a USA.
+- Skype plánuje rozšířit podporu pro volání na osmistovky celosvětově.
+- Petr Sršeň upozornil na tuto novinku ze zdroje Skype.
+title: Skype volá na Zelené linky
 ---
+
 <p>Zelené linky, osmistovky, bude možno volat i ze Skype a to zdarma. Zatím jsou podporována tato čísla:</p>
 
 <ul>    

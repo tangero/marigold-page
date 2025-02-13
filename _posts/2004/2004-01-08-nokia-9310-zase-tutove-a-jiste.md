@@ -1,14 +1,21 @@
 ---
 ID: 783
-title: 'Nokia 9310 zase tutově a&nbsp;jistě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-9310-zase-tutove-a-jiste
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-9310-zase-tutove-a-jiste
+
+  '
 post_date: 2004-01-08 08:44:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia zvažuje nástupce komunikátoru 9210, spekulace se množí před 3GSM a CeBIT.
+- Nokia 9310 by se mohla objevit na 3GSM kongresu, zaměřeném na business zařízení.
+- Telefon pravděpodobně nabídne Symbian Series 90, EDGE, dotykový displej a MMC slot.
+- Autor pochybuje o integraci WiFi a UMTS do nového modelu Nokia 9310.
+title: Nokia 9310 zase tutově a&nbsp;jistě
 ---
+
 <p>
 S blížící se dvojicí nejvýznamnějších evropských událostí pro telekomunikace, tedy odborného 3GSM kongresu v Cannes a spotřebního veletrhu CeBIT se zase rojí spekulace o tom, kdy Nokia vyjde s nástupcem svého 9210 komunikátoru. <A href="http://www.nokia.com/nokia/0,,47550,00.html" target=_blank>Model 7700</A> i Nokia sama považuje za novou modelovou řadu a nikomu se nechce příliš věřit, že své komunikátory by Nokia utnula, firma svoji komunikátorovou řadu považuje za úspěšnou a končit s ní nehodlá. A protože Nokia nikdy veřejně neprohlásila, jak to bude a nikdy ani neřekla, že 7700 je nástupce komunikátorů, je tu živná půda pro spekulace. A z mnoha konferencí se jich na mne valí řada, udělám v nich takový souhrn. </p>
 

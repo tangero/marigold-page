@@ -1,14 +1,21 @@
 ---
 ID: 994
-title: '3G Týden: Portugalské 3G, sdílení infrastruktury ve Finsku a&nbsp;další'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3g-tyden-portugalske-3g-sdileni-infrastruktury-ve-finsku-a-dalsi
-published: true
+oldlink: 'https://www.marigold.cz/item/3g-tyden-portugalske-3g-sdileni-infrastruktury-ve-finsku-a-dalsi
+
+  '
 post_date: 2004-04-21 18:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- TMN spustil 3G síť v Portugalsku, nabízí Siemens U15 a služby v Lisabonu/Oportu.
+- prodává Nokia 7600 v Británii, s cenou od zdarma do 140 liber.
+- Jižní Korea povolila dotace na mobilní telefony v 3G sítích do 40%.
+- USA předpovídají, že WiFi předstihne 3G připojení v roce 2007.
+title: '3G Týden: Portugalské 3G, sdílení infrastruktury ve Finsku a&nbsp;další'
 ---
+
 <p>
 <STRONG>Portugalský mobilní operátor TMN</STRONG> (dceřinka místního telekomu) spustil 19. dubna svoji 3G síť. Zatím pro ni prodává jediný mobilní telefon a to Siemens U15 (přebarvená obdoba Motoroly A835) za 699 euro. Služba je dostupná v Lisabonu a Oportu, do léta se má rozrůst na dalších šest měst. Do 3G sítě investoval TMN zatím 180 milionů euro a tiskovou zprávu mazaně vydal <A href="http://www.tmn.pt/tmn/noticias/2004_19_abr.shtml">jen v portugalštině</A>, takže další podrobnosti mohu jen odhadovat (neznaje příliš portugalsky :) Takže do konce června je cena za videohovor 5 eurocentů, potom to bude 99 eurocentů, tedy zhruba třicet korun. Do konce září je také poloviční sleva na datové přenosy a ještě k tomu 420 minut ve WiFi síti TMN zdarma - jinak platí stejné ceny, jako pro GSM/GPRS. </p>
 

@@ -1,14 +1,23 @@
 ---
 ID: 883
-title: 'UMTS starty &#8211; odlišně je chápe T-Mobile i&nbsp;Vodafone'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/umts-starty-odlisne-je-chape-t-mobile-i-vodafone
-published: true
+oldlink: 'https://www.marigold.cz/item/umts-starty-odlisne-je-chape-t-mobile-i-vodafone
+
+  '
 post_date: 2004-02-25 17:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile UMTS telefony prakticky neprodává, nabízí jen UMTS/GPRS kartu s rychlostí
+  384 Kb/s.
+- T-Mobile plánuje jednotný datový přístup UMTS/GPRS/WiFi a posílení sítě hotspotů.
+- Vodafone a T-Mobile mají odlišné UMTS strategie, Vodafone se zaměřuje na datové
+  karty.
+- O2 hodlá stavět UMTS síť jen tam, kde je velká zátěž GPRS sítě.
+title: UMTS starty &#8211; odlišně je chápe T-Mobile i&nbsp;Vodafone
 ---
+
 <p>
 Velmi <STRONG>vlažná prohlášení adresoval UMTS technologií šéf T-Mobile</STRONG> Rene Obermann na GSM kongresu v Cannes. Podle něj jde o velmi slibnou a potřebnou technologií, která má bohužel malou oporu v dostatku mobilů. T-Mobile se podle Obermanna nevydá cestou, jakou zvolil Vodafone, tedy prozatímní provozování sítě pouze pro datové služby, UMTS síť T-Mobile je přístupná všem, kdo mají T-Mobile kartu či roaming, UMTS mobil a jsou v oblasti UMTS pokrytí. </p>
 

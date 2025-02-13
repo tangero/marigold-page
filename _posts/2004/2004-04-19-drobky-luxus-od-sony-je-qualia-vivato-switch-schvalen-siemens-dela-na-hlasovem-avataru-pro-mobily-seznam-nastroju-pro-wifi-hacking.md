@@ -1,14 +1,22 @@
 ---
 ID: 989
-title: 'Drobky: Luxus od Sony je Qualia, Vivato switch schválen, Siemens dělá na hlasovém avataru pro mobily, seznam nástrojů pro WiFi hacking'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-luxus-od-sony-je-qualia-vivato-switch-schvalen-siemens-dela-na-hlasovem-avataru-pro-mobily-seznam-nastroju-pro-wifi-hacking
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-luxus-od-sony-je-qualia-vivato-switch-schvalen-siemens-dela-na-hlasovem-avataru-pro-mobily-seznam-nastroju-pro-wifi-hacking
+
+  '
 post_date: 2004-04-19 08:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- Sony uvede luxusní značku Qualia se spotřební elektronikou, obchody budou v USA.
+- T-Mobile nabízí balíček s GPS navigací pro PocketPC zařízení.
+- Vivato switch 802.11g prošel FCC, ale kvůli výkonu se v Evropě neprodá.
+- Siemens spolupracuje s SVOX na hlasových avatarech pro mobily.
+title: 'Drobky: Luxus od Sony je Qualia, Vivato switch schválen, Siemens dělá na hlasovém
+  avataru pro mobily, seznam nástrojů pro WiFi hacking'
 ---
+
 <p>
 Nokia má jako svoji luxusní značku mobilů Vertu, Motorola vyrábí diamanty posázené telefony (cena 125 000 USD), také <STRONG>Sony jde do luxusu. Ten bude mít název Qualia</STRONG>. Qualia bude zahrnovat spotřební elektroniku a prý postupně i mobily a budou to i samostatné obchůdky, které&#160; <EM>"meticulously calibrating every aspect to exploit and influence the psychology of consumerism"</EM>... Qualia začíná v květnu v USA, do chudších zemí (asi i k nám) se vozit nebude. Ostatně, kde je v Praze prodejna Vertu... Japonský <A href="http://www.sony.jp/products/Consumer/QUALIA/jp/main/main.html" target=_blank>web Qualia</A>.</p>
 

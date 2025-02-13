@@ -1,16 +1,23 @@
 ---
 ID: 850
-title: >
-  Weblogy jsou vlastně taková P2P
-  žurnalistika
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/weblogy-jsou-vlastne-takova-p2p-zurnalistika
-published: true
+oldlink: 'https://www.marigold.cz/item/weblogy-jsou-vlastne-takova-p2p-zurnalistika
+
+  '
 post_date: 2004-02-12 08:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- Weblogy fungují jako peer-to-peer novinařina, kde čtenáři doplňují a ověřují informace.
+- Důležité je filtrovat smysluplné dodatky čtenářů, což je problém u novinářské zodpovědnosti.
+- Komentáře čtenářů jsou často důležitější než samotný článek, například na Slashdotu.
+- Práce s komentáři čtenářů se stane důležitější než redakční zpracování zpráv.
+title: 'Weblogy jsou vlastně taková P2P žurnalistika
+
+  '
 ---
+
 <p>
 Přemýšlel jsem o tom ve vztahu k tomu příspěvku o zavedení příchozího telefonního čísla pro Fayn. <STRONG>Weblogy jsou něco jako taková peer-to-peer novinařina</STRONG>. Jak to funguje normálně: firma vydá tiskovou zprávu, <STRIKE>novinář uřízne patičku a nápis tisková zpráva a plkne ji do novin</STRIKE>, novinář ji prostuduje, chce nějaké doplnění, protože se mu něco nezdá, tak zavolá do firmy a všechno zjistí, pak to pro čtenáře sepíše a dá do novin. S Faynem to zafungovalo jinak - neměl jsem čas prověřovat, jak je to s geografickým přidělováním předečíslí a přenositelností, takže jsem zprávu publikoval bez toho. A někoho to zaujalo, takže si to prověřil sám a odpověď přidal ke článku, takže jsme ji doplnili i do hlavního článku pro ostatní. Klasická ukázka P2P novinařiny :)</p>
 

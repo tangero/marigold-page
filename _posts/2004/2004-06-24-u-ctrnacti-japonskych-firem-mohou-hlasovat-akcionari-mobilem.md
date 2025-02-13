@@ -1,16 +1,23 @@
 ---
 ID: 1165
-title: >
-  U čtrnácti japonských firem mohou
-  hlasovat akcionáři mobilem
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/u-ctrnacti-japonskych-firem-mohou-hlasovat-akcionari-mobilem
-published: true
+oldlink: 'https://www.marigold.cz/item/u-ctrnacti-japonskych-firem-mohou-hlasovat-akcionari-mobilem
+
+  '
 post_date: 2004-06-24 08:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- Japonské firmy umožňují akcionářům hlasovat mobilem, například NTT DoCoMo (774 hlasů).
+- Matsuzakaya, banky a Sony také umožňují akcionářům hlasovat pomocí mobilního telefonu.
+- Technologie mobilního hlasování v Japonsku není v textu specifikována.
+- TIW (Český Mobil) umožňoval hlasování internetem a zvažuje i mobilní hlasování.
+title: 'U čtrnácti japonských firem mohou hlasovat akcionáři mobilem
+
+  '
 ---
+
 <p>
 Když už jsem se tak rozepsal o možnosti volit mobilem (o něco obsáhlejší článek se zkušenostmi z ciziny vyšel na <a href="http://mobil.idnes.cz/mobilni_komunikace/mobilni_telefony/zpravy-mobilni_telefony/volby040623.html">Mobil.cz</a>), tak přidám zprávu z Japonska. Už čtrnáct japonských firem umožňuje svým akcionářům hlasovat pomocí mobilního telefonu. Jaká technologie se k tomu přesně používá, jsem bohužel nezjistil. </p>
 <p>

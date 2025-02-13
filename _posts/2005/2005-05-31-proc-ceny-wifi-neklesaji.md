@@ -1,14 +1,22 @@
 ---
 ID: 1666
-title: Proč ceny WiFi neklesají
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-ceny-wifi-neklesaji
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-ceny-wifi-neklesaji
+
+  '
 post_date: 2005-05-31 23:26:45
+post_excerpt: ''
+published: true
+summary_points:
+- Cena WiFi neklesá kvůli prodeji služeb a správy, ne kapacity samotné.
+- Menší WiFi firmy udržují kontakt se zákazníky, což velké firmy nedokážou.
+- WiFi operátoři působí v oblastech bez srovnatelné alternativy, takže není tlak na
+  cenu.
+- WiFi operátoři realizují FTTH projekty a mohou být cílem převzetí.
+title: Proč ceny WiFi neklesají
 ---
+
 <p>Oook píše: V diskusích se objevily diskuse o tom, proč cena WiFi připojení k Internetu (obecně) neklesá. <br />
 <br />
 Tento jev je podle mého názoru způsoben třemi faktory, které hrají dohromady (proti poklesu cen):<br />

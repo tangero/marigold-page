@@ -1,14 +1,21 @@
 ---
 ID: 975
-title: 'Anketa: jak vás zajímají Drobky a&nbsp;nově za kolik bude CDMA od Eurotelu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/anketa-jak-vas-zajimaji-drobky-a-nove-za-kolik-bude-cdma-od-eurotelu
-published: true
+oldlink: 'https://www.marigold.cz/item/anketa-jak-vas-zajimaji-drobky-a-nove-za-kolik-bude-cdma-od-eurotelu
+
+  '
 post_date: 2004-04-08 12:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Drobky, shrnující zprávy, zajímají 53% čtenářů hodně a 31% jak kdy.
+- Nová anketa zjišťuje odhad ceny nonstop CDMA připojení od Eurotelu.
+- Anketa se ptá na reálnou cenu CDMA připojení, ne na preferovanou.
+- Výsledky ankety o ceně CDMA budou zveřejněny až po oznámení Eurotelu.
+title: 'Anketa: jak vás zajímají Drobky a&nbsp;nově za kolik bude CDMA od Eurotelu'
 ---
+
 <p>
 Dneska jsem stáhnul anketku týkající se toho, jak vás zajímají Drobky - to jsou takové ty marigoldí zprávy, které v jednom článku shrnují více věcí, co mne za ten den zaujaly a které nejsou ani na to, aby z nich byla jedna samostatná zprávička. Sešlo se 82 hlasů, přičemž 53% tvrdí že hodně, 31% tvrdí že jak kdy a zbytek (14%) tvrdí že je to nezajímá. Tak mne to jaksi vnitřně duševně uklidnilo... :)</p>
 

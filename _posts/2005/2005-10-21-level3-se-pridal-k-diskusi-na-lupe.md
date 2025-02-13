@@ -1,14 +1,21 @@
 ---
 ID: 1854
-title: 'Level3 se přidal k&nbsp;diskusi na LUPĚ'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/level3-se-pridal-k-diskusi-na-lupe
-published: true
+oldlink: 'https://www.marigold.cz/item/level3-se-pridal-k-diskusi-na-lupe
+
+  '
 post_date: 2005-10-21 15:47:31
+post_excerpt: ''
+published: true
+summary_points:
+- Level3, páteřní síť Internetu, zaznamenala výpadek směrování kolem osmé hodiny ranní.
+- Dvouhodinový výpadek postihl "nezanedbatelnou" část IP páteřní sítě Level3.
+- Příčinou výpadku směrování Level3 mohl být upgrade softwaru na směrovačích.
+- Výpadek směrování znehodnocuje SEO optimalizaci webů, jak uvádí autor.
+title: Level3 se přidal k&nbsp;diskusi na LUPĚ
 ---
+
 <p><b>oook píše</b>: Před pár dny se na Lupě objevil <a href="http://www.lupa.cz/clanek.php3?show=4452" >článek Pavla Housera o stabilitě Internetu</a>, kolem kterého se rozproudila částečně zajímavá diskuse. <br />
 <br />
 Zatímco článek byl spíše intelektuálním cvičením autora, do diskuse se

@@ -1,14 +1,22 @@
 ---
 ID: 878
-title: 'Tema v&nbsp;Cannes &#8211; Push to Talk over Cellular aneb PoC'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tema-v-cannes-push-to-talk-over-cellular-aneb-poc
-published: true
+oldlink: 'https://www.marigold.cz/item/tema-v-cannes-push-to-talk-over-cellular-aneb-poc
+
+  '
 post_date: 2004-02-25 11:12:00
+post_excerpt: ''
+published: true
+summary_points:
+- PoC je v Cannes vnímáno jako záchrana upadajících příjmů z hlasových služeb.
+- Nejlepší zkušenosti s PoC jsou při účtování měsíčním paušálem bez dalšího účtování.
+- Typická délka trvání hlasové zprávy PoC je 6 vteřin.
+- Fastmobile představil PC aplikaci propojující PoC s PC počítači pro profesionální
+  uživatele.
+title: Tema v&nbsp;Cannes &#8211; Push to Talk over Cellular aneb PoC
 ---
+
 <p>
 Jedním z hlavních témat v Cannes je Push to Talk ověř Cellular aneb PoC. Včera mu byl věnován celý jeden konferenční blok (blog?), kdy svoje zkušenosti presentovali lidé, kteří už s PoC nějaké mají, jinak zmínky o této technologií má prakticky každý a v podstatě každý přednášející ji tu vidí jako záchranu pro upadající příjmy z hlasových služeb. </p>
 

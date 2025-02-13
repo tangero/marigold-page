@@ -1,14 +1,21 @@
 ---
 ID: 969
-title: Akce Internet pro dědu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/akce-internet-pro-dedu
-published: true
+oldlink: 'https://www.marigold.cz/item/akce-internet-pro-dedu
+
+  '
 post_date: 2004-04-06 09:01:00
+post_excerpt: ''
+published: true
+summary_points:
+- Děda projevil zájem o internet v 84 letech.
+- Připojení k internetu vyřešil GPRS modem Speeder od Tencomu.
+- XPčka byla vybrána, ale vyžadovala úpravy pro dědovo snadné používání.
+- Děda se učí základy ovládání webu, ale má problémy s myší.
+title: Akce Internet pro dědu
 ---
+
 <p>
 Nedávno jsem se bavil s dědou o tom, co dělám a děda pravil, že internet zní zajímavě a že kdyby byl o dvacet let mladší, že by to taky zkusil. S ohledem na to, že si děda stěžoval, jak je na vesnici nuda, jsem tedy hrdě prohlásil, že nač mládnout o dvacet let, že i v jeho 84 letech není pozdě s internetem začít a že to zařídím.&#160;Co by ne, děda je člověk pokrokový, maje za sebou prvorepublikové vzdělání, jednu světovou válku v totálním nasazení, komunistický režim se sbírkou metálů za obnovu pardubického pivovaru a tak ho nějaký internet nemůže rozházet. </p>
 

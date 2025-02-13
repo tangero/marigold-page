@@ -1,15 +1,25 @@
 ---
 ID: 1362
-title: 'Turboúvod do UMTS: Kapacita, CDMA a&nbsp;pár Shannonových kouzel'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- UMTS
+- 3G
+- Turboúvod do mobilních sítí
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/turbouvod-do-umts-kapacita-cdma-a-par-shannonovych-kouzel
-published: true
+oldlink: 'https://www.marigold.cz/item/turbouvod-do-umts-kapacita-cdma-a-par-shannonovych-kouzel
+
+  '
 post_date: 2004-10-18 07:42:00
-categories: [UMTS, 3G, Turboúvod do mobilních sítí]
+post_excerpt: ''
+published: true
+summary_points:
+- Kapacita sítě definuje počet simultánních uživatelů a souvisí s rychlostí.
+- Shannonova teorie určuje maximální kapacitu kanálu dle šumu, signálu a šířky pásma.
+- CDMA využívá kódové rozprostření do spektra, široký kanál a nízký poměr signál/šum.
+- UMTS s 5 MHz kanálem má teoretickou kapacitu 20 Mb/s, reálně méně.
+title: 'Turboúvod do UMTS: Kapacita, CDMA a&nbsp;pár Shannonových kouzel'
 ---
+
 <p>
 Minule jsem slíbil, že se konečně dostaneme k tomu, proč a jak zrychlit data v UMTS síti. Lhal jsem, asi nedostaneme. Dneska se ještě trochu podíváme na problematiku kapacity v radiových sítích. Proč? Protože kapacita a rychlost jsou spojené nádoby. </p>
 
@@ -103,4 +113,3 @@ Výsledek tohoto článku: prakticky jsme si ukázali, že rychlosti nabízené 
 <p>
 Na závěr jen doufám, že jsem vzorce příliš nepomotal, přepisoval jsem je asi desetkrát mezi českými a anglickými verzemi a nejrůznějšími variantami :(
 </p>
-

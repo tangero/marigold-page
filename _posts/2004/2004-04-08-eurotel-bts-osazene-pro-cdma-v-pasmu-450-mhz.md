@@ -1,14 +1,21 @@
 ---
 ID: 973
-title: 'Eurotel BTS osazené pro CDMA v&nbsp;pásmu 450 MHz'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-bts-osazene-pro-cdma-v-pasmu-450-mhz
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-bts-osazene-pro-cdma-v-pasmu-450-mhz
+
+  '
 post_date: 2004-04-08 08:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel instaluje CDMA vybavení v pásmu 450 na základnové stanice u Brna.
+- Snímky ukazují BTS v Brně-Líšni a Brně-Horních Heršpicích s novou technologií.
+- Deset snímků dokumentuje osazení CDMA technologií na brněnských základnových stanicích.
+- Odkaz vede ke snímkům Eurotel CDMA instalací v Brně.
+title: Eurotel BTS osazené pro CDMA v&nbsp;pásmu 450 MHz
 ---
+
 <p>
 Dostal jsem několik <STRONG>snímečků základnových stanic Eurotelu u Brna, které jsou již osazené pro CDMA v pásmu 450</STRONG>, takže praktický důkaz, že to s CDMA myslí Eurotel opravdu vážně.</p>
 

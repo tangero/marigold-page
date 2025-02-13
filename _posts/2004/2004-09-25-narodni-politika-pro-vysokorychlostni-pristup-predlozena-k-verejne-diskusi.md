@@ -1,14 +1,25 @@
 ---
 ID: 1334
-title: 'Národní politika pro vysokorychlostní přístup předložena k&nbsp;veřejné diskusi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/narodni-politika-pro-vysokorychlostni-pristup-predlozena-k-verejne-diskusi
-published: true
+oldlink: 'https://www.marigold.cz/item/narodni-politika-pro-vysokorychlostni-pristup-predlozena-k-verejne-diskusi
+
+  '
 post_date: 2004-09-25 14:12:13
+post_excerpt: ''
+published: true
+summary_points:
+- Ministerstvo informatiky navrhlo Národní politiku pro vysokorychlostní přístup s
+  cílem dohnat Evropu do 2010.
+- Fond pro rozvoj vysokorychlostního internetu spolufinancuje infrastrukturní projekty,
+  maximálně do 50% investičních nákladů.
+- Strategie předpokládá zřízení Národního fondu, Fóra, Serveru a Laboratoře pro vysokorychlostní
+  přístup v roce 2005.
+- Fond bude podporovat projekty agregující požadavky různých uživatelů a zajišťující
+  vyšší ekonomický efekt investic.
+title: Národní politika pro vysokorychlostní přístup předložena k&nbsp;veřejné diskusi
 ---
+
 <p>
 Ministerstvo informatiky předložilo k veřejné diskusi svůj návrh  Národní politiky pro vysokorychlostní přístup (broadband strategie - NBS). Je to 12 stran textu, z nichž dvě třetiny zabírá rekapitulace stávajícího stavu. Ministerstvo si vytklo za cíl, abychom v roce 2010 dohonili vyspělé státy Evropy. Zde je <a href="http://www.micr.cz/images/dokumenty/NBBS.pdf">ku stažení PDF verze</a>.</p>
 

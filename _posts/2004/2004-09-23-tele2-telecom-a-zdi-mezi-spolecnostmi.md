@@ -1,14 +1,22 @@
 ---
 ID: 1332
-title: 'Tele2, Telecom a&nbsp;zdi mezi společnostmi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tele2-telecom-a-zdi-mezi-spolecnostmi
-published: true
+oldlink: 'https://www.marigold.cz/item/tele2-telecom-a-zdi-mezi-spolecnostmi
+
+  '
 post_date: 2004-09-23 08:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- Telecom uspořádal happening s telaty a transparenty reagující na zeď Tele2.
+- Telecomu prozradil novinář akci Tele2, což umožnilo Telecomu se připravit.
+- Tele2 budí rozporuplné emoce, její PR je založeno na odporu proti Telecomu.
+- Autor viděl billboard parodující Grosse se sloganem "Jsem sociální případ. Volič
+  - živnostník."
+title: Tele2, Telecom a&nbsp;zdi mezi společnostmi
 ---
+
 <p>
 Z Českého Telecomu (oficiálně, z tiskového oddělení) mi poslali link na tu akci, kdyz Tele2 stavělo zeď před Telecomem a Telecom přitáhl dvě telata a vyvěsil transparenty. Telecom to hezky nazval happening :) - a jeho fotky <a href="http://www.telecom.cz/infocentrum/tiskove_centrum/happening/index.php">najdete zde</a>.</p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 1413
-title: 'Drobky: souhrn poznatků o&nbsp;5 GHz pásmu, Gmail J2ME čtečka a&nbsp;další odkazy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-souhrn-poznatku-o-5-ghz-pasmu-gmail-j2me-ctecka-a-dalsi-odkazy
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-souhrn-poznatku-o-5-ghz-pasmu-gmail-j2me-ctecka-a-dalsi-odkazy
+
+  '
 post_date: 2004-11-23 22:53:06
+post_excerpt: ''
+published: true
+summary_points:
+- Jan Sedlák napsal obsáhlý článek o 5GHz pásmu na i4shop.net.
+- Maratonský deník aerobního tragéda je blog pro zájemce o fyzkulturu.
+- ISDN server publikuje seriál o IP Multimedia Systému.
+- Dluhy.bloguje.cz a Pavel Kohout jsou inspirativní finanční blogy.
+title: 'Drobky: souhrn poznatků o&nbsp;5 GHz pásmu, Gmail J2ME čtečka a&nbsp;další
+  odkazy'
 ---
+
 <p>
 Hromada drobků bez ladu a skladu - omlouvám se, svatba se blíží a mám toho fakt nad hlavu. </p>
 

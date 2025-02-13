@@ -1,14 +1,21 @@
 ---
 ID: 950
-title: 'Wireless Sensor Network Spider-Net (další z&nbsp;CeBITu)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wireless-sensor-network-spider-net-dalsi-z-cebitu
-published: true
+oldlink: 'https://www.marigold.cz/item/wireless-sensor-network-spider-net-dalsi-z-cebitu
+
+  '
 post_date: 2004-03-26 06:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- WSN jsou bezdrátové sítě pro sběr dat ze senzorů.
+- Spider-Net je WSN vyvíjená Drážďanskou technickou univerzitou.
+- Spider-Net používá ISM pásmo 433 MHz s rychlostí do 76,8 Kb/s.
+- Web univerzity nabízí informace o projektech WSN.
+title: Wireless Sensor Network Spider-Net (další z&nbsp;CeBITu)
 ---
+
 <p>
 Na CeBITu jsem se šel podívat na další věc, Bezdrátové senzorové sítě, takzvané Wireless Sensor Network (WSN). V tomto případě jsem se šel podívat do Future zóny na Spider-Net, který vyvíjí Drážďanská technická universita. Bezdrátové senzorové sítě jsou taková zajímavá hračka, kterou chápu technicky, ale nějak mi stále mezi prsty uniká obchodně. </p>
 

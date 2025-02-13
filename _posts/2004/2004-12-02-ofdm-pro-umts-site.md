@@ -1,14 +1,21 @@
 ---
 ID: 1427
-title: OFDM pro UMTS sítě
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ofdm-pro-umts-site
-published: true
+oldlink: 'https://www.marigold.cz/item/ofdm-pro-umts-site
+
+  '
 post_date: 2004-12-02 10:55:29
+post_excerpt: ''
+published: true
+summary_points:
+- OFDM získává popularitu v telekomunikacích a proniká i do UMTS sítí.
+- OFDM bylo hlavním tématem workshopu 3GPP TSG RAN v Torontu.
+- Standard OFDM-HSDPA se očekává v roce 2006, technika v roce 2007.
+- Samsung představil mikročip pro WiFi v mobilech, dostupné v roce 2005.
+title: OFDM pro UMTS sítě
 ---
+
 <p>
 Rozhraní OFDM se stává stále populárnější a probojovává se do všech možných oblastí telekomunikací, takže by bylo s podivem, kdyby nedorazilo i do UMTS. </p>
 
@@ -33,4 +40,3 @@ Samsung pro doplnění obrazu představil svůj mikročip, který umožní mobil
 <p>
 <i>PS: Pro pořádek dodávám, že OFDM se bude pravděpodobně zavádět i do CDMA2000 sítí.</i>
 </p>
-

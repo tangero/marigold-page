@@ -1,16 +1,26 @@
 ---
 ID: 1255
-title: >
-  Vláda NEchce přitlačit na rychlejší
-  internet
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vlada-nechce-pritlacit-na-rychlejsi-internet
-published: true
+oldlink: 'https://www.marigold.cz/item/vlada-nechce-pritlacit-na-rychlejsi-internet
+
+  '
 post_date: 2004-08-16 19:09:42
+post_excerpt: ''
+published: true
+summary_points:
+- Autor reaguje na článek iDnes o vládní podpoře rychlého internetu.
+- Vláda chce do roku 2006 dosáhnout 80% pokrytí vysokorychlostním internetem (256
+  kbit/s).
+- Autor kritizuje vládní plán jako zbytečný a populistický, protože pokrytí bude vyšší
+  i bez zásahu.
+- Dostupnost internetu dle vlády neznamená reálné využití, pouze technickou možnost
+  připojení.
+title: 'Vláda NEchce přitlačit na rychlejší internet
+
+  '
 ---
+
 <p>
 Teda já vím, že už je Patrik nazpátek, doufám, že se nebude(te) zlobit, že se mu pletu do řemesla. Ale tahle zpráva mě nadzvedla ze židle a stojí za okamžité upozornění těch, kteří ji ještě nezaznamenali.</p>
 <p>

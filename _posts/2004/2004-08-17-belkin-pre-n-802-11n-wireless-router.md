@@ -1,14 +1,21 @@
 ---
 ID: 1258
-title: Belkin Pre-N (802.11n) Wireless Router
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/belkin-pre-n-802-11n-wireless-router
-published: true
+oldlink: 'https://www.marigold.cz/item/belkin-pre-n-802-11n-wireless-router
+
+  '
 post_date: 2004-08-17 07:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- Belkin chystá router s WiFi 802.11n o rychlosti 100-150 Mb/s.
+- Router Belkin Pre-N využívá MIMO technologii pro rozdělení a složení signálu.
+- Belkin Pre-N router a PCMCIA karta budou dostupné od října za 180 dolarů.
+- Podrobnosti o 802.11n a MIMO technologii jsou dostupné na Deviceforge.com.
+title: Belkin Pre-N (802.11n) Wireless Router
 ---
+
 <p>
 Společnost Belkin chystá bezdrátový router, který by měl fungovat podle dosud neschválené vysokorychlostní WiFi specifikace 802.11n. Měl by nabízet rychlosti 100-150 Mb/s, samotný Belkin tvrdí, že faktická rychlost / propustnost je oproti standardnímu 802.11g až šestinásobná. Zpětná kompatibilita s 802.11g má být zajištěna. </p>
 

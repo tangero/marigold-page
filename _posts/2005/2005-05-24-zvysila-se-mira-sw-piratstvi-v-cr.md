@@ -1,14 +1,23 @@
 ---
 ID: 1656
-title: 'Zvýšila se míra SW pirátství v&nbsp;ČR?'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zvysila-se-mira-sw-piratstvi-v-cr
-published: true
+oldlink: 'https://www.marigold.cz/item/zvysila-se-mira-sw-piratstvi-v-cr
+
+  '
 post_date: 2005-05-24 23:28:34
+post_excerpt: ''
+published: true
+summary_points:
+- ČT1 odvysílala rozhovor o výzkumu BSA, který ukázal nárůst SW pirátství v ČR.
+- Podle výzkumu BSA stoupl podíl pirátského SW na 41 % a hodnota na 130 mld Kč.
+- Autor textu považuje výzkum za nesmyslný kvůli metodologickým problémům a statistické
+  chybě.
+- Škoda způsobená pirátstvím je dle autora sporná, neboť uživatelé by si SW stejně
+  nekoupili.
+title: Zvýšila se míra SW pirátství v&nbsp;ČR?
 ---
+
 <p><b>noname píše:</b> Právě probíhal na ČT1 desetiminutový rozhovor na téma nového výzkumu SW pirátství v ČR od BSA (viz také <a href="http://digiweb.ihned.cz/?s1=i&amp;s2=0&amp;s3=0&amp;s4=0&amp;s5=0&amp;s6=0&amp;m=d&amp;a[id]=22515565&amp;p=i00000_d">zpráva na DIGIWEBu</a>). Podle výsledků tohoto výzkumu se zvýšil podíl pirátského software na českých počítačích z 40 na 41%. Podle tohoto výzkumu také narostla hodnota tohoto sw za poslední rok ze 100 na 130 MLD Kč.</p>
 
 <p>Komentátoři zmiňovali všechny možné důvody tohoto nárustu, zejména pak dostupnost internetu, P2P atd. Některé komentující weby také zmiňují způsobenou škodu a možné výrazný zisk pracovních míst atd.</p>

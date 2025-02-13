@@ -1,14 +1,22 @@
 ---
 ID: 1313
-title: 'Story o&nbsp;sousedských sítích (11.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-11
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-11
+
+  '
 post_date: 2004-09-13 08:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Směrovač Duron 700 Mhz nahrazen Celeronem 450 Mhz za méně než 4000 Kč.
+- Nízká rychlost internetu bude řešena navýšením kapacity ze strany skorotchána.
+- Konfigurace OSPF provedena, dynamické směrování funkční, připraveno na zakruhování
+  topologie.
+- ČD-Telekomunikace nabízí metalickou trasu pro páteřní síť, řeší se kvalita a zdroje.
+title: Story o&nbsp;sousedských sítích (11.)
 ---
+
 <p>
 Během soboty se mi podařilo nahradit v roli směrovače skvělý Duron 700 Mhz novým Celeronem 450 Mhz, který sice nemá (tak) oslnivou pracovní frekvenci, ale zase vydrží pod střechou bez zasekávání (což kvituje s pověkem především skorotchán). Provedl jsem vyúčtování základní sestavy (bez věcí, které dělají APčko), které vyšlo na méně než 4.000 kaček (včetně DPH). Pochopitelně jsem neúčtoval vložený čas <img alt="" src="http://www.marigold.cz/nucleus/plugins/wysiwyg/editor/images/smiley/msn/regular_smile.gif"/>.</p>
 <p>

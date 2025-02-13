@@ -1,14 +1,21 @@
 ---
 ID: 993
-title: 'Valeski: na českých chlívek moc dobrý&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/valeski-na-ceskych-chlivek-moc-dobry
-published: true
+oldlink: 'https://www.marigold.cz/item/valeski-na-ceskych-chlivek-moc-dobry
+
+  '
 post_date: 2004-04-21 07:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Valeskiho odvolání z Eurotelu iniciovalo představenstvo Telecomu.
+- Dozorčí rada Telecomu jednala o odvolání Valeskiho na popud představenstva.
+- Důvodem odvolání Valeskiho má být investice Eurotelu do CDMA.
+- Eurotel chce spustit CDMA síť bez licence ČTÚ.
+title: 'Valeski: na českých chlívek moc dobrý&#8230;'
 ---
+
 <p>
 O návrhu <STRONG>na odvolání Valeskiho</STRONG> <A href="http://www.euro.cz/id/fh9051o6t5/detail.jsp?id=60380" target=_blank>vyšel článek v Euru</A> a zaujalo to prakticky všechna média. Jak by ne - Valeski je boss nejvýznamnější české telekomunikační firmy (= Eurotelu), přičemž pokud slovo nejvýznamnější nahradíme telco synonymem (nejziskovější), můžeme se také tomuto kroku směle podivit. </p>
 

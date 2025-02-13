@@ -1,16 +1,23 @@
 ---
 ID: 1369
-title: >
-  Má být internetové připojení
-  sociálně spravedlivé?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ma-byt-internetove-pripojeni-socialne-spravedlive
-published: true
+oldlink: 'https://www.marigold.cz/item/ma-byt-internetove-pripojeni-socialne-spravedlive
+
+  '
 post_date: 2004-10-22 08:08:00
+post_excerpt: ''
+published: true
+summary_points:
+- ODS považuje 1 Mb/s za vysokorychlostní internet, MI čtvrtinu.
+- Návrh zákona o elektronických komunikacích neřeší vymezení univerzální služby.
+- Internet jako univerzální služba by pomohl vzdělávání, zaměstnanosti a egovernmentu.
+- Autor se kloní k názoru, že internet by neměl být univerzální službou.
+title: 'Má být internetové připojení sociálně spravedlivé?
+
+  '
 ---
+
 <p>
 Včera <a href="http://www.lupa.cz/clanek.php3?show=3716">na Lupě vyšel</a> článek poslance za ODS <a href="http://www.zbyneknovotny.cz/">Zbyňka Novotného </a>věnovaný návrhu ministestva informatiky národní broadband strategie. Ponechám zatím stranou to, že při čtení textu jsem se nemohl zbavit dojmu, že jeho prvotním účelem bylo zatopit ministru Mlynářovi, protože materiál bazíruje na druhotných záležitostech <i>(například rozprava, zda internet má být vysokorychlostní nebo širokopásmový, což je asi uživateli putna, pokud se mu data stahují rychle a levně)</i>, případně relativizuje Mlynářova tvrzení, aby je následně potvrdil.  Nejzásadnějším momentem je zjištění, že ODS považuje za vysokorychlostní internet přípojku nad 1 Mb/s, zatímco <s>Unie svobody</s> MI by souhlasilo s rychlostí čtvrtinovou. Což je rovněž pro většinu uživatelů velmi hypotetická úvaha. </p>
 

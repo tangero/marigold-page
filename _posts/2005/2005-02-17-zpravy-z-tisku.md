@@ -1,14 +1,21 @@
 ---
 ID: 1542
-title: 'Zprávy z&nbsp;tisku'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zpravy-z-tisku
-published: true
+oldlink: 'https://www.marigold.cz/item/zpravy-z-tisku
+
+  '
 post_date: 2005-02-17 10:42:17
+post_excerpt: ''
+published: true
+summary_points:
+- Patrickova nepřítomnost vedla k zveřejnění odkazů na zajímavosti.
+- Iva Lukačovič bloguje o situaci na Ruzynském letišti.
+- Český Telecom hlásí zisky, ale ztrácí zákazníky pevných linek.
+- ČRa nabízí velkoobchodní DSL, Telecom má Wi-Fi za 1 Kč do června.
+title: Zprávy z&nbsp;tisku
 ---
+
 <p>Protože teď bude asi Patrick nějakou dobu mimo Internet a možnost
 publikování (i když on vlastně může publikovat přes MMS), tak si zde
 dovolím malou výplň s odkazy na zajímavosti, které se v posledních dvou

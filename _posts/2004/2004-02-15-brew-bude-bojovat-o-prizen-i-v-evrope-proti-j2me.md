@@ -1,14 +1,21 @@
 ---
 ID: 859
-title: 'BREW bude bojovat o&nbsp;přízeň i&nbsp;v&nbsp;Evropě proti J2ME'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/brew-bude-bojovat-o-prizen-i-v-evrope-proti-j2me
-published: true
+oldlink: 'https://www.marigold.cz/item/brew-bude-bojovat-o-prizen-i-v-evrope-proti-j2me
+
+  '
 post_date: 2004-02-15 19:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- J2ME aplikace dominují mobilním aplikacím v Evropě, kromě nativních aplikací.
+- BREW je programovací jazyk od Qualcommu, zdarma pro výrobce, programátory i uživatele.
+- Qualcomm cílí s BREW v Evropě na 3G a EDGE sítě.
+- BREW nabízí operátorům podporu účtování a bezpečnou distribuci aplikací.
+title: BREW bude bojovat o&nbsp;přízeň i&nbsp;v&nbsp;Evropě proti J2ME
 ---
+
 <p>
 V Evropě to v rovině aplikační v mobilech vyhrávají zatím javové aplikace J2ME, midlety - to samozřejmě v případě, že nejde přímo o nativní aplikaci pro Symbian či Mobile Windows. Jenže minulý týden probíhala v Londýně vývojářská konference věnovaná BREW a Qualcomm bude chtít tuhle svoji technologii protlačit i do Evropy.</p>
 

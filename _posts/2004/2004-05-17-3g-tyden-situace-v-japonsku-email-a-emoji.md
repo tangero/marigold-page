@@ -1,14 +1,21 @@
 ---
 ID: 1038
-title: '3G Týden: situace v&nbsp;Japonsku &#8211; email a&nbsp;emoji'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3g-tyden-situace-v-japonsku-email-a-emoji
-published: true
+oldlink: 'https://www.marigold.cz/item/3g-tyden-situace-v-japonsku-email-a-emoji
+
+  '
 post_date: 2004-05-17 09:36:00
+post_excerpt: ''
+published: true
+summary_points:
+- Email je v Japonsku "killer app" díky cenové výhodnosti oproti SMS.
+- Emoji jsou pro japonské operátory pilířem loajality uživatelů.
+- Japonské mobilní emaily jsou Push aplikace doručované ihned po odeslání.
+- Emoji se přenášejí jako Unicode znaky, ale grafika se liší dle operátora.
+title: '3G Týden: situace v&nbsp;Japonsku &#8211; email a&nbsp;emoji'
 ---
+
 <p>
 Po článku z minulého týdne, jenž byl <A href="/zprava.html?cislo=28302">věnován japonským operátorům </A>a jejich podílu na trhu, se budeme chvíli věnovat službám emailu. Bohužel už je to deset let, co jsem tam byl, takže je neznám osobně, ale jen z rozhovorů s uživateli a z článků lidí, ale co naděláte, nemůžu to tam každý rok kontrolovat :)</p>
 

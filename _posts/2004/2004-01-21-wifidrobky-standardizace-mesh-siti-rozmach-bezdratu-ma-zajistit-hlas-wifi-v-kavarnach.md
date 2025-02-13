@@ -1,14 +1,23 @@
 ---
 ID: 805
-title: 'WiFidrobky: Standardizace mesh sítí, rozmach bezdrátů má zajistit hlas, WiFi v&nbsp;kavárnách'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifidrobky-standardizace-mesh-siti-rozmach-bezdratu-ma-zajistit-hlas-wifi-v-kavarnach
-published: true
+oldlink: 'https://www.marigold.cz/item/wifidrobky-standardizace-mesh-siti-rozmach-bezdratu-ma-zajistit-hlas-wifi-v-kavarnach
+
+  '
 post_date: 2004-01-21 08:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- IEEE standardizuje mesh protokoly pro WiFi sítě, včetně WDS propojení přístupových
+  bodů.
+- WLAN sítí rozmach bude dán integrací hlasu, podobně jako u UMTS dat.
+- WiFi v kavárnách má smysl jako přidaná služba, pokud je zdarma.
+- WiFi v kavárnách je výhoda, podobně jako televize s fotbalem v hospodách.
+title: 'WiFidrobky: Standardizace mesh sítí, rozmach bezdrátů má zajistit hlas, WiFi
+  v&nbsp;kavárnách'
 ---
+
 <p>
 Standardizátor IEEE ustavil zvláštní "Study Group" pro <B>standardizaci mesh protokolů do bezdrátových sítí WiFi</B>. Jedním z prvních úkolů této skupiny má být standardizace protokolu WDS pro bezdrátové propojení několika přístupových bodů mezi sebou (více <A href="http://www.marigold.cz/zacinajicim/wds030609.html">o něm zde</A>). Měla by také sjednotit protokol pro mesh propojení sítí, tedy "a protocol for auto-configuring paths between APs over self-configuring multi-hop topologies in a WDS to support both broadcast/multicast and unicast traffic in an ESS Mesh" - uf to se snad ani nedá přeložit ;) Více <A href="http://www.marigold.cz/trh/meshnetwork030330.html">o mesh sítích zde</A>. Zdroj: <A href="http://wifinetnews.com/archives/002814.html">WiFiNetNews.com</A> a <A href="http://www.wi-fiplanet.com/news/article.php/3300571">802.11 Planet</A>. </p>
 

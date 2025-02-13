@@ -1,14 +1,21 @@
 ---
 ID: 855
-title: 'SoftPHONE &#8211; další česká VoIP telefonie'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/softphone-dalsi-ceska-voip-telefonie
-published: true
+oldlink: 'https://www.marigold.cz/item/softphone-dalsi-ceska-voip-telefonie
+
+  '
 post_date: 2004-02-12 17:19:00
+post_excerpt: ''
+published: true
+summary_points:
+- SoftPHONE je český VoIP poskytovatel s aktivačním poplatkem 630 Kč.
+- Měsíční poplatek SoftPHONE je 105 Kč a zahrnuje 10 minut zdarma.
+- Hovory v ČR stojí 1,15 Kč/min, do mobilních sítí 4,83 Kč/min včetně DPH.
+- Anonymita provozovatele SoftPHONE vyvolává obavy o důvěryhodnost služby.
+title: SoftPHONE &#8211; další česká VoIP telefonie
 ---
+
 <p>
 Narazil jsem na dalšího českého poskytovatele VoIP telefonie - je jím služba <A href="http://www.softphone.cz/" target=_blank>SoftPHONE</A>. </p>
 

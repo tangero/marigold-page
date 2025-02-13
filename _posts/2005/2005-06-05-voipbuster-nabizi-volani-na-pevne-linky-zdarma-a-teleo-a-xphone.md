@@ -1,14 +1,21 @@
 ---
 ID: 1670
-title: 'VoipBuster nabízí volání na pevné linky zdarma (a&nbsp;Teleo a&nbsp;Xphone)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/voipbuster-nabizi-volani-na-pevne-linky-zdarma-a-teleo-a-xphone
-published: true
+oldlink: 'https://www.marigold.cz/item/voipbuster-nabizi-volani-na-pevne-linky-zdarma-a-teleo-a-xphone
+
+  '
 post_date: 2005-06-05 18:48:21
+post_excerpt: ''
+published: true
+summary_points:
+- VoipBuster nabízí bezplatné volání na pevné linky, omezené na jednu minutu.
+- VoipBuster může bezplatné volání zrušit, omezení se již zpřísnila.
+- Teleo nabízí měsíční paušál s voláním a vlastním telefonním číslem.
+- Xphone, česká VoIP služba, je v betatestu a momentálně nedostupná.
+title: VoipBuster nabízí volání na pevné linky zdarma (a&nbsp;Teleo a&nbsp;Xphone)
 ---
+
 <p><a href="http://www.voipbuster.com">VoipBuster</a> je program/služba, který je v posledních dnech na českém internetu pro telefonování stále populárnější. Důvodem je fakt, že od června lze s tímto programem telefonovat na pevné linky z počítače zadarmo - ačkoliv maximální doba hovoru je omezena na jednu minutu. I tak je to zajímavé. </p>
 
 <p>Kde jsou problémy? Tak především VoipBuster má tuto nabídku pouze jako marketingovou akci. Ještě v květnu nabízel telefonování za jeden eurocent, i to bylo dost laciné, ale mnoho uživatelů to přeci jen nepřesvědčilo na to, aby si předplatili kredit u neznámé švýcarské společnosti. Za jeden cent není tak zajímavé, jako zadarmo, ale reklamní kampaň to udělá větší, než protelefonované peníze, řekl bych. Ovšem s tím rizikem, že VoipBuster telefonování zadarmo zařízne. Už tak přistoupila firma k omezením - ještě včera mohl být hovor zdarma dlouhý až dvě minuty, dneska už se na webu hovoří jen o minutě. Na druhou stranu se na webu také tvrdí, že když si koupíte kredit za 1 euro, budete moci do těchto destinací volat zdarma bez omezení. Nějak se mi to nezdá - neznám nikoho, kdo si to koupil a sám to riskovat nechci, ale datle ani Stalinovi nevyrostly, někde tam bude háček. </p>

@@ -1,14 +1,21 @@
 ---
 ID: 864
-title: 'Motorola MPx200 &#8211; tak má vypadat propadák'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/motorola-mpx200-tak-ma-vypadat-propadak
-published: true
+oldlink: 'https://www.marigold.cz/item/motorola-mpx200-tak-ma-vypadat-propadak
+
+  '
 post_date: 2004-02-17 11:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Motorola MPx200 je propadák kvůli chybějícímu fotoaparátu a bluetooth.
+- Chytré telefony se odlišují od běžných podporou složitějších aplikací a rozhraní.
+- HTC Voyager je jediný prodávaný telefon s Microsoft softwarem a kamerou.
+- Motorola MPx220 by měla mít fotoaparát i bluetooth, což MPx200 chybělo.
+title: Motorola MPx200 &#8211; tak má vypadat propadák
 ---
+
 <p>
 <p>
 Jsem rád, že nejsem v tomto názoru sám a že se dostal i na papír tisku. <STRONG>Jestli považuji nějaký smartphone za propadák, pak je to Motorola MPx200.</STRONG> Chytrý telefon za hromadu peněz s funkcemi, které osloví opravdu málokoho. Jestli mu <STRONG>něco chybí, tak je to především fotoaparát a bluetooth.</STRONG>&#160;Souhlasím s tím, že dnes nemá smysl kupovat si chytrý telefon, který tyto funkce nemá, především když konkurence za podobnou cenu obojí nabízí. Podobný názor má i britský <A href="http://www.mobiletoday.co.uk/artman/publish/article_373.shtml" target=_blank>Mobile Today</A>: <EM>&#8220;An integrated camera may not appear to be an essential tool for business users but when rivals are all equipped with cameras and even include video recording, it&#8217;s a blow not to have one.&#8221;</EM></p>

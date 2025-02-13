@@ -1,14 +1,21 @@
 ---
 ID: 1264
-title: EDGE/GPRS nebo CDMA?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/edge-gprs-nebo-cdma
-published: true
+oldlink: 'https://www.marigold.cz/item/edge-gprs-nebo-cdma
+
+  '
 post_date: 2004-08-20 08:05:00
+post_excerpt: ''
+published: true
+summary_points:
+- EDGE/GPRS je vhodné pro občasné uživatele s datovou spotřebou do desítek MB.
+- CDMA Eurotelu se hodí pro trvalé připojení s vyššími rychlostmi a objemy dat.
+- Při spotřebě nad 30 MB dat měsíčně zvažte GPRS za 700 Kč nebo CDMA za 1000 Kč.
+- T-Mobile by mohl zvýšit datový limit v tarifu Standard, aby konkuroval CDMA.
+title: EDGE/GPRS nebo CDMA?
 ---
+
 <p>
 Na MobilManii se Martin Zikmund rozepsal ve článku <a href="http://www.mobilmania.cz/Operatori/AR.asp?ARI=107959">Duel technologií: Eurotel CDMA versus T-Mobile EDGE</a> o rozdílech mezi těmito technologiemi. Bere to hodně technicky. Zamyšlení, pro koho je která technologie vhodná, věnoval na závěr pár vět. Přitom je to tak prosté:</p>
 

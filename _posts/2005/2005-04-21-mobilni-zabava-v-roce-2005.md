@@ -1,14 +1,21 @@
 ---
 ID: 1621
-title: 'Mobilní zábava v&nbsp;roce 2005'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-zabava-v-roce-2005
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-zabava-v-roce-2005
+
+  '
 post_date: 2005-04-21 08:14:30
+post_excerpt: ''
+published: true
+summary_points:
+- 'Eurotel: Hráči Live! portálu utratili v lednu 2005 průměrně 120 Kč.'
+- 'T-Mobile: Uvítací tóny využívalo koncem roku 2004 250 000 zákazníků.'
+- 'LogicaCMG: Vyvinula rozpoznávač hudby, který identifikuje skladbu přes telefon.'
+- 'HandyGames: Portuje hry na desítky platforem, i méně zastoupené značky LG.'
+title: Mobilní zábava v&nbsp;roce 2005
 ---
+
 <p>Jak je to s mobilní zábavou u nás, o tom se hovořilo na včerejší Bezdrátové středě (WW). Začnu trojicí operátorských vystoupení (měli na něj 7 minut a 50 vteřin času).</p>
 
 <p><strong>Eurotel (Jan Karas)</strong> uvedl, že aktivní herní uživatel Live! portálu utratil v lednu 2005 v průměru 120 Kč, v lednu 2004 to bylo 90 Kč. Zajímavý, i když očekávaný poznatek: s rostoucí kvalitou her, zejména hratelností, se prodlužuje interval, kdy se uživatelé vrací pro novou hru. </p>

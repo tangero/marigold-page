@@ -1,14 +1,21 @@
 ---
 ID: 1783
-title: 'Divní lidé s&nbsp;anarchizujícími sklony'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/divni-lide-s-anarchizujicimi-sklony
-published: true
+oldlink: 'https://www.marigold.cz/item/divni-lide-s-anarchizujicimi-sklony
+
+  '
 post_date: 2005-08-22 15:13:19
+post_excerpt: ''
+published: true
+summary_points:
+- Truck trial zaujal autora minimálním dopadem na okolní pískovnu.
+- Řidiči trucků projevovali anarchizující sklony kritikou politiky a daní.
+- Závod truck trialu spolupořádal německý svaz, je tedy mezinárodní akcí.
+- Autor doporučuje návštěvu dalšího závodu truck trialu 17.-18. září.
+title: Divní lidé s&nbsp;anarchizujícími sklony
 ---
+
 <p><b>oook píše:</b> Tak jsem o vikendu navštívil závod českého <a href="http://www.trucktrial.cz/" >truck trialu</a>.
 Ne, že bych se honil v náklaďácích po pískovnách, nicméně mi to přišlo
 celkem fajn. Navíc po dvou dnech nevypadalo okolí pískovny (kde byla

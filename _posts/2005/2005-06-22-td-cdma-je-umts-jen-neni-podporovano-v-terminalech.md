@@ -1,14 +1,22 @@
 ---
 ID: 1690
-title: 'TD-CDMA je UMTS. Jen není podporováno v&nbsp;terminálech.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/td-cdma-je-umts-jen-neni-podporovano-v-terminalech
-published: true
+oldlink: 'https://www.marigold.cz/item/td-cdma-je-umts-jen-neni-podporovano-v-terminalech
+
+  '
 post_date: 2005-06-22 08:54:00
+post_excerpt: ''
+published: true
+summary_points:
+- TD-CDMA je standardizačními orgány od roku 1998 považováno za integrální součást
+  UMTS.
+- Výrobci mobilních telefonů TD-CDMA nepodporovali, protože by to zdrželo nástup UMTS.
+- FDD je v UMTS používáno pro okruhově spínaná data a klasický přenos dat.
+- TD-CDMA umožňuje asymetrické přenosy dat, ale má problémy s řízením výkonu a synchronizací.
+title: TD-CDMA je UMTS. Jen není podporováno v&nbsp;terminálech.
 ---
+
 <p>Vznikl s tím trochu zmatek. Je ta nová technologie, kterou bude T-Mobile nasazovat, UMTS nebo ne? Já s oblibou říkám, že pokud se hovoří o 3G, lze prohlásit cokoliv a je to pravda. Taktéž v tomto případě nelze zcela jasně stanovit, co je a co není pravdivé tvrzení. Faktem je, že dle názoru standardizátora patří TD-CDMA od roku 1998 integrálně do rodiny UMTS standardů jako druhá duplexní technologie k FDD, k frekvenčnímu duplexu. Rovněž v technických specifikacích 3GPP, který práci na UMTS standardu převzal, figuruje TD-CDMA jako součást standardu. Z toho můžeme neomylně vyvodit, že TD-CDMA ve skutečnosti je UMTS. </p>
 
 <p>Výrobci mobilních telefonů ale usoudili jinak a podporu TD-CDMA do svých terminálů nezařadili. Důvod byl jednoduchý a prostý, nikdo je do toho netlačil a patlat se s TD-CDMA by zdrželo nástup terminálů pro UMTS o další dva roky. Z toho bychom mohli rovněž spravedlivě usoudit, že tato technologie tedy není součástí UMTS. Co je větší pravda - realita nebo teorie standardu? Na to není jednoznačná odpověď.</p>

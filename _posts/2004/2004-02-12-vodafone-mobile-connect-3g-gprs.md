@@ -1,14 +1,21 @@
 ---
 ID: 851
-title: Vodafone Mobile Connect 3G/GPRS
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vodafone-mobile-connect-3g-gprs
-published: true
+oldlink: 'https://www.marigold.cz/item/vodafone-mobile-connect-3g-gprs
+
+  '
 post_date: 2004-02-12 08:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vodafone spustil komerční 3G síť, zatím pouze pro datové služby.
+- Datová PCMCIA karta Vodafone Mobile Connect 3G/GPRS podporuje rychlost 384 Kb/s.
+- Karta bude dostupná do čtyř týdnů v sedmi evropských zemích.
+- Cena karty bez dotace je odhadována na 8000 Kč.
+title: Vodafone Mobile Connect 3G/GPRS
 ---
+
 <p>
 Vodafone právě oznámil komerční spuštění své 3G sítě. Až doposud ji jen testoval, nyní se už <IMG height=212 alt="Vodafone 3G karta..." src="/wp-content/uploads/vodafone3g.jpg" width=150 align=right>jede na ostro, vtip je ale pořád v tom, že v Vodafone 3G síti jsou nabízeny jen datové služby. Zato ale na dobré úrovni: Vodafone dodává Vodafone Mobile Connect 3G/GPRS datacard, PCMCIA kartu do notebooku podporující rychlost až 384 Kb/s. </p>
 

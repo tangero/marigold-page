@@ -1,14 +1,22 @@
 ---
 ID: 884
-title: 'Nokia party &#8211; prodávali jsme Eurotel'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-party-prodavali-jsme-eurotel
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-party-prodavali-jsme-eurotel
+
+  '
 post_date: 2004-02-26 08:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia Party je vždy vrchol mezi firemními akcemi, bývá narvaná a plná známých tváří.
+- Světla nad stanem Nokia Party připomínala protiletadlovou baterii střežící před
+  Siemensem.
+- Steve Langkamp, bývalý šéf marketingu Eurotelu, nyní pracuje v Magic4.
+- Většina telekomunikačních odborníků tipuje Vodafone jako nového majitele Eurotelu.
+title: Nokia party &#8211; prodávali jsme Eurotel
 ---
+
 Podle fotek, které jsem posílal v průběhu, můžete oprávněné usoudit, že jsem byl na Nokia Party. Nokia Party je vždy pojem. Snad každá firma tu pořádá své party, zrauty a podobně podniky pro lidí, kteří ji za něco stojí nebo se tam procpou, ale Nokia party je vždy vrchol, to se nedá nic dělat. Jak by ne, na Nokia party nedochází pití, je tam vždy narváno a vždy tam potkáte spoustu lidí, které znáte, nebo byste znát odkenud měli. Nejinak tomu včera. Ačkoliv simultánně probíhaly další party, jako třeba party Philipsu, na Nokia party se záhy začali lidí z těchto party přesouvat. 
 <p>
 Nad stanem na pobřeží <EM>(pokud nevíte, jak vypadá megastan, tak to je on)</EM> svítily proudy světla že světlometů - po půlnoci když jsme seděli na pláži v písku a popíjeli, tak jsme si <IMG height=240 alt="Takhle vypadal Nokia stan, foceno z LG7100" src="http://marigold.bloguje.cz/1077746702_ar1.jpg" width=320 align=right border=1>dělali srandu, že je tam má protiletadlová baterie Nokia, která střeží stan proti bombardérům že Siemense. Těsně na jednou stranou stanu šumí moře a pokud si člověk chce pročistit hlavu nebo mírně popovídat, stačí vyjít že stanu na molo, posedět, popít. 

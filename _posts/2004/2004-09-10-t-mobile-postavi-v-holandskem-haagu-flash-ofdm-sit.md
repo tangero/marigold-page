@@ -1,14 +1,20 @@
 ---
 ID: 1312
-title: 'T-Mobile postaví v&nbsp;holandském Haagu Flash-OFDM síť'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/t-mobile-postavi-v-holandskem-haagu-flash-ofdm-sit
-published: true
+oldlink: 'https://www.marigold.cz/item/t-mobile-postavi-v-holandskem-haagu-flash-ofdm-sit
+
+  '
 post_date: 2004-09-10 08:26:19
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile postaví Flash-OFDM síť v Haagu s dodavatelem Flarion.
+- Haag bude první lokalitou s internetem od T-Mobile rychlostí 1 Mb/s.
+- Flash-OFDM je BWA technologie s nízkou latencí, až kolem 20 ms.
+title: T-Mobile postaví v&nbsp;holandském Haagu Flash-OFDM síť
 ---
+
 <p>
 Včera jsem narazil na zprávu, že T-Mobile hodlá v Haagu postavit Flash-OFDM síť. Dodavatelem sítě bude samozřejmě Flarion, jemuž tahle technologie patří. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1515
-title: Flarion představil Flexband
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/flarion-predstavil-flexband
-published: true
+oldlink: 'https://www.marigold.cz/item/flarion-predstavil-flexband
+
+  '
 post_date: 2005-02-05 19:49:19
+post_excerpt: ''
+published: true
+summary_points:
+- Flarion představil Flexband, nový Flash OFDM systém s technologií BeaconTone.
+- BeaconTone monitoruje interference a vybírá nejlepší přenašeč pro kvalitní připojení.
+- Flexband nabízí rychlosti až 15,9 Mb/s downlink a hlasové hovory pro sektor.
+- Siemens bude vyrábět koncová zařízení Flexband s podporou hlasu, například Gigaset.
+title: Flarion představil Flexband
 ---
+
 <p>Americký výrobce vysokorychlostních mobilních IP sítí Flarion
 představil pokračování svých Flash OFDM systémů. Novinka se jmenuje
 Flexband a je založena na technologii nazvané BeaconTone. <br />

@@ -1,14 +1,21 @@
 ---
 ID: 780
-title: 'Anketka: pokusil jsem se vás nachytat a&nbsp;nedali jste se'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/anketka-pokusil-jsem-se-vas-nachytat-a-nedali-jste-se
-published: true
+oldlink: 'https://www.marigold.cz/item/anketka-pokusil-jsem-se-vas-nachytat-a-nedali-jste-se
+
+  '
 post_date: 2004-01-07 09:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- Stádní chování nefunguje online bez vizuálního kontaktu, potvrdil experiment s anketou.
+- GSM je druhá generace mobilních sítí, ale někteří v anketě chybovali.
+- Marigold zvažuje změny v uspořádání titulní stránky kvůli její délce.
+- Čtyři možnosti uspořádání Marigolda jsou v anketě k hlasování.
+title: 'Anketka: pokusil jsem se vás nachytat a&nbsp;nedali jste se'
 ---
+
 <p>
 Minulý týden jsem četl kapitolu v jedné knize věnované stádnímu chování. Popisovali tam pokus, kdy vzali do místnosti deset lidí a s devíti byli smluveni. Pak se jich ptali, která čára na papíru je delší, přičemž těch devět záměrně ukazovalo na tu kratší. Ten desátý z toho byl tak zblbý, že mu bylo trapné se lišit a také ukázal na tu kratší. A tak mne napadlo, že bych to mohl zkusit podobně a s anketkou - zadal bych otázku, na tu vygeneroval přesvědčivé množství špatných odpovědí a sledoval, co se stane. Dita na to pravila, že to není replika toho stádního chování, že na to byste museli na sebe vidět, ale stejně jsem to chtěl vyzkoušet. </p>
 

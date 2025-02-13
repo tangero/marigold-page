@@ -1,14 +1,21 @@
 ---
 ID: 1024
-title: '3G Týden: situace v&nbsp;Japonsku &#8211; operátoři a&nbsp;penetrace'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3g-tyden-situace-v-japonsku-operatori-a-penetrace
-published: true
+oldlink: 'https://www.marigold.cz/item/3g-tyden-situace-v-japonsku-operatori-a-penetrace
+
+  '
 post_date: 2004-05-10 08:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- Japonsko mělo v březnu 2004 přes 81 milionů mobilních uživatelů.
+- Mobilní internet dosahoval v Japonsku 84% penetrace mezi uživateli.
+- KDDI vedl v Japonsku v 3G sítích s CDMA2000 1x standardem.
+- Vodafone po koupi J-Phone v Japonsku zaostával v konkurenci.
+title: '3G Týden: situace v&nbsp;Japonsku &#8211; operátoři a&nbsp;penetrace'
 ---
+
 <p>
 S oblibou se jako leader 3G světa ukazuje Jižní Korea. Nezajímavá situace ale není ani v Japonsku. </p>
 

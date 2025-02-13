@@ -1,13 +1,21 @@
 ---
 ID: 1056
-title: 'Tak porůznu&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
 oldlink: https://www.marigold.cz/item/tak-poruznu
-published: true
 post_date: 2004-05-27 08:01:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold má nečekanou návštěvnost z dotazů na "Sluha dvou pánů" a SuperStar.
+- Autor nechápe popularitu SuperStar a preferuje hudbu Vivaldiho, Vangelise a Čechomoru.
+- Autor koupil knihu MySQL za 21 dní a plánuje vylepšení databáze hotspotů.
+- Děda autora po slabším infarktu preferuje papírové dopisy před e-maily.
+- Dita žádá o americké vízum a musí vyplnit obsáhlý formulář a doložit výpis z účtu.
+- Telecom navrhuje slušnou dividendu, což autora jako akcionáře těší.
+title: Tak porůznu&#8230;
 ---
+
 <p>
 Občas se dívám, jaké dotazy pokládají lidé vyhledávačům, než dorazí na Marigolda. Je to poučné čtení - zatímco dotazy z ranku ADSL a WiFi tématky se dají očekávat, poměrně velký provoz mám na dotazy jako "Sluha dvou pánů" - přičemž jsem o té hře jednou psal, nebo třeba SuperStar, přičemž si nepamatuji, že bych o tom někdy psal. </p>
 

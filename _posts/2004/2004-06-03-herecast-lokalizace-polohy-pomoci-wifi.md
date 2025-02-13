@@ -1,14 +1,21 @@
 ---
 ID: 1123
-title: 'Herecast &#8211; Lokalizace polohy pomocí WiFi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/herecast-lokalizace-polohy-pomoci-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/herecast-lokalizace-polohy-pomoci-wifi
+
+  '
 post_date: 2004-06-03 09:21:00
+post_excerpt: ''
+published: true
+summary_points:
+- Herecast je open source projekt lokalizace polohy pomocí WiFi hotspotů.
+- Lokalizace Herecast funguje porovnáváním nalezených hotspotů s databází.
+- Přesnost lokalizace Herecast je minimální, v řádu desítek až stovek metrů.
+- Herecast nabízí aplikace HereSay (chat) a Area Maps (mapy oblasti).
+title: Herecast &#8211; Lokalizace polohy pomocí WiFi
 ---
+
 <p>
 Nedávno jsem zde odkazoval na článek věnovaný sledování dětí v Legolandu pomocí WiFi. Porozhlédl jsem se trochu kolem a ukázalo se, že služeb založených na lokalizaci polohy pomocí WiFi pár existuje. Jedním z takových zajímavějších (protože mimo jiní open source) je projekt <a href="http://www.herecast.com/">Herecast</a>.</p>
 

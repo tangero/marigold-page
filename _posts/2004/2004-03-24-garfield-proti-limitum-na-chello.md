@@ -1,14 +1,21 @@
 ---
 ID: 941
-title: Garfield proti limitům na Chello :)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/garfield-proti-limitum-na-chello
-published: true
+oldlink: 'https://www.marigold.cz/item/garfield-proti-limitum-na-chello
+
+  '
 post_date: 2004-03-24 07:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- UPC zvažuje omezení rychlosti pro uživatele s nadměrnou spotřebou dat.
+- Omezení rychlosti nebude automatické, UPC bude posuzovat případy individuálně.
+- UPC mělo lépe komunikovat s novináři a zákazníky ohledně limitů.
+- Internet reagoval na limity vtipnými obrázky s Garfieldem.
+title: Garfield proti limitům na Chello :)
 ---
+
 <p>
 Včera jsem tu psal, že snahy ořezávat rychlosti pro notorické sosáky na UPC docela chápu, mimo jiné se přes den také vyjasnilo, že <STRONG>limity MOHOU být uplatňovány, nikoliv že BUDOU STRIKTNĚ uplatňovány. </STRONG>Ukazuje se, že UPC to opravdu mělo lépe dát vědět novinářům i zákazníkům, protože se to rozmázlo podstatně více, než kdyby to UPC v klidu oznámilo a včas objasnilo, jak to je. Takže tiskové oddělení zdůrazňuje, že omezení se nebude uplatňovat vždy ihned při překročení limitu, ale bude se to posuzovat individuelně. </p>
 

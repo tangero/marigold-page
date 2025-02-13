@@ -1,14 +1,22 @@
 ---
 ID: 959
-title: 'Teslácké GDMA dostane šanci v&nbsp;CDMA2000'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/teslacke-gdma-dostane-sanci-v-cdma2000
-published: true
+oldlink: 'https://www.marigold.cz/item/teslacke-gdma-dostane-sanci-v-cdma2000
+
+  '
 post_date: 2004-04-01 07:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- GDMA, česká technologie Tesly Pardubice, je uvažována pro vysokorychlostní CDMA2000.
+- GDMA využívá hraniční kódy (guarding codes) pro oddělení a autorizaci stanic.
+- GDMA efektivněji alokuje kapacitu sítě oproti TDMA díky flexibilnímu ukončování
+  relací.
+- Qualcomm měřením potvrdil zvýšení rychlosti a propustnosti sítě s GDMA.
+title: Teslácké GDMA dostane šanci v&nbsp;CDMA2000
 ---
+
 <p>
 Česká radiová technologie vyvinutá ještě za komunismu&#160;<A href="http://teslapar.cz/" target=_blank>pardubickou Teslou</A> označovaná jako GDMA je další z uvažovaných přístupových technologiích uvažovaných pro vysokorychlostní připojení v CDMA2000. Americký Qualcomm začal v 3GPP2 fóru prosazovat její přijetí do další generace vysokorychlostních přenosů v CDMA sítích třetí generace. GDMA by tak mohlo v sítích 3.5G na bázi HSDPA nahradit doposud používaný časový duplex. </p>
 

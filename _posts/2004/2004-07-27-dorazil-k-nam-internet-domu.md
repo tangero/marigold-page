@@ -1,14 +1,21 @@
 ---
 ID: 1215
-title: 'Dorazil k&nbsp;nám internet (domů)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dorazil-k-nam-internet-domu
-published: true
+oldlink: 'https://www.marigold.cz/item/dorazil-k-nam-internet-domu
+
+  '
 post_date: 2004-07-27 07:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- Internetové připojení do bytu nakonec zařídil kontakt na technika UPC.
+- Router nefungoval, protože MAC adresa byla registrována na staré adrese.
+- Technik UPC naklonoval MAC adresu notebooku do routeru, aby to fungovalo.
+- UPC hrozí odpojením za "nelegální DHCP", což autor nechápe v kontextu domácí sítě.
+title: Dorazil k&nbsp;nám internet (domů)
 ---
+
 <p>
 Objednávání internetové přípojky do nového bytu se konečně včera završilo úspěchem. Ze začátku to vypadalo docela triviálně, tedy že postačí nahlásit na UPC, že se stěhujeme a že chceme přeložit modem do nového bytu z bytu starého. Jenže na infolince nás ujistili, že je to operace na měsíc a že to není jen tak. Dita pravila, že internet potřebuje k tomu, aby mohla pracovat a že to tedy ne - a že její redakce mají tradičně dobré vztahy s UPC a že jí UPC jistě vyjde vstříc, když jsem já neschopen to zařídit. A obeslala nějaké pohlaváry v UPC. Když se dva týdny nic nedělo a vynadáno jsem dostával pořád já za to, že nemáme doma internet, jsem sáhl do svých tajných kontaktů, kde jsem našel vizitku na člověka, co tu v baráku připojuje UPC. Objednal jsem u něj připojení, za týden (včera) naklusali dva technici, přinešli modem a všechno připojili. </p>
 <p>

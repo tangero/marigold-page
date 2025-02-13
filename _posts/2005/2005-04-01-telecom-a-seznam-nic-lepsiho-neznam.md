@@ -1,15 +1,22 @@
 ---
 ID: 1602
-title: 'Telecom a&nbsp;Seznam &#8230; nic lepšího neznám?'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telecom-a-seznam-nic-lepsiho-neznam
-published: true
+oldlink: 'https://www.marigold.cz/item/telecom-a-seznam-nic-lepsiho-neznam
+
+  '
 post_date: 2005-04-01 15:21:34
+post_excerpt: ''
+published: true
+summary_points:
+- Telefónica, majitel Terra Lycos, kupuje Telecom, který je konkurentem Seznamu.
+- Seznam má silnou značku a strategii, Telecom infrastrukturu a peníze.
+- Partnerství Seznamu a Telecomu je možné v projektech jako VoIP a Starzone.
+- Seznam by mohl dodávat obsah pro projekt Digitální domácnost Telecomu.
+title: Telecom a&nbsp;Seznam &#8230; nic lepšího neznám?
 ---
-	<p style="MARGIN: 0px"><b>Oook píše:</b>Tak se nám to všechno pěkně schází dohromady, paní Müllerová, pravil Švejk, sotva&nbsp;se dozvěděl, že odvolávaná vláda s několika ministry, kteří podali demisi,&nbsp;která nebyla přijata, prodává místní Telecom Telefónice.<br /><br />Telefónica totiž vlastní Terra Lycos, který vlastní minoritní podíl v Seznamu (a podle některých zdrojů na vlastní kůži zkusila, co je být minoritním akcionářem na Divokém Východě). <br /><br />Pokud se podíváme na Telecom a Seznam, stojí prakticky ve všech oblastech na opačných stranách. Namátkou:<br /><br /></p>
+
+<p style="MARGIN: 0px"><b>Oook píše:</b>Tak se nám to všechno pěkně schází dohromady, paní Müllerová, pravil Švejk, sotva&nbsp;se dozvěděl, že odvolávaná vláda s několika ministry, kteří podali demisi,&nbsp;která nebyla přijata, prodává místní Telecom Telefónice.<br /><br />Telefónica totiž vlastní Terra Lycos, který vlastní minoritní podíl v Seznamu (a podle některých zdrojů na vlastní kůži zkusila, co je být minoritním akcionářem na Divokém Východě). <br /><br />Pokud se podíváme na Telecom a Seznam, stojí prakticky ve všech oblastech na opačných stranách. Namátkou:<br /><br /></p>
 
 <ul>
 <li>Seznam disponuje skutečně silnou a pozitivně vnímanou značkou (značka Telecomu je také silná, nicméně ne tak pozitivně vnímaná) 

@@ -1,14 +1,22 @@
 ---
 ID: 923
-title: 'WideNet informoval o&nbsp;svém rozvoji'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/widenet-informoval-o-svem-rozvoji
-published: true
+oldlink: 'https://www.marigold.cz/item/widenet-informoval-o-svem-rozvoji
+
+  '
 post_date: 2004-03-16 20:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- WideNet se roamingově propojil s WeRoamem, což je výhodné pro zahraniční zákazníky.
+- WideNet plánuje roamingové smlouvy s českými provozovateli hotspotů, například Eurotelem.
+- WideNet zavádí indoor pokrytí pomocí WDS v provozovnách blízko svých přípojných
+  bodů.
+- WideNet má v plánu zasíťovat dalších 100 provozoven v dohledu své sítě.
+title: WideNet informoval o&nbsp;svém rozvoji
 ---
+
 <p>
 WideNet měl dnes tiskovou konferenci, na níž informoval o svých novinkách. O tom, že WideNet se roamingově propojil s WeRoamem, evropským roamingovým agregátorem, jenž obsluhuje přes 8500 hotspotů, jsem již informoval via MMS, pro české zákazníky to není moc podstatné, protože smlouva je jednosměrná a je tedy jen o tom, že zákazníci WeRoamu mohou používat síť WideNetu. Důležité je to pro provozovatele partnerských hotspotů v atraktivních lokalitách, kam by mohli směřovat cizinci využívající WeRoam - a také jejich penízky...</p>
 

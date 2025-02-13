@@ -1,14 +1,21 @@
 ---
 ID: 1263
-title: 'Drobky všeobecně bezdrátovo-mobilně a&nbsp;internetově formou linků&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-vseobecne-bezdratovo-mobilne-a-internetove-formou-linku
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-vseobecne-bezdratovo-mobilne-a-internetove-formou-linku
+
+  '
 post_date: 2004-08-19 08:45:52
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys WRT54G router lze modifikovat přidáním sériového portu dle návodu.
+- Skype vyvolává diskuse o dopadu na telekomunikační společnosti a jejich budoucnost.
+- Handango zveřejnil seznam nejprodávanějšího mobilního softwaru pro PDA a mobily.
+- Jihokorejci fotí knihy fotomobily kvůli vysokým cenám knih.
+title: Drobky všeobecně bezdrátovo-mobilně a&nbsp;internetově formou linků&#8230;
 ---
+
 <p>
 Dneska nemám náladu nic na weblog psát, mám hromadu psaní v práci a podobných záležitostí, takže se omezním na stručné odkazy na témata, která bych rád sám zpracoval, jenže jaksi nezbyl čas a chuť a přitom je škoda, aby to zapadlo.</p>
 <p>

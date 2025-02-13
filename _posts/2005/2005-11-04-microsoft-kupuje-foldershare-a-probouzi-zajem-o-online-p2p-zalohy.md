@@ -1,14 +1,24 @@
 ---
 ID: 1863
-title: 'Microsoft kupuje FolderShare a&nbsp;probouzí zájem o&nbsp;online P2P zálohy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/microsoft-kupuje-foldershare-a-probouzi-zajem-o-online-p2p-zalohy
-published: true
+oldlink: 'https://www.marigold.cz/item/microsoft-kupuje-foldershare-a-probouzi-zajem-o-online-p2p-zalohy
+
+  '
 post_date: 2005-11-04 10:04:48
+post_excerpt: ''
+published: true
+summary_points:
+- Microsoft koupil společnost FolderShare, americký start-up zaměřený na P2P zálohovací
+  software.
+- FolderShare kombinuje software pro Windows/Mac s webovým přístupem k synchronizovaným
+  souborům.
+- P2P zálohy umožňují ukládat data fragmentovaně a šifrovaně na počítače cizích uživatelů.
+- Microsoft Live koncept dává smysl s P2P zálohováním, ale technologie vyžaduje další
+  vývoj.
+title: Microsoft kupuje FolderShare a&nbsp;probouzí zájem o&nbsp;online P2P zálohy
 ---
+
 <p>Nebyla tomu věnována velká pozornost a kdyby mne tahle oblast nezajímala speciálně, asi bych tomu nevěnoval pozornost ani já, protože Microsoft nakupuje společnosti jak housky na krámě. Za blíže neurčenou sumu přechází do portfolia Microsoftu společnost FolderShare. Je to tři roky starý americký start-up, který přišel s P2P software pro zálohování. </p>
 
 <h4>FolderShare - P2P zálohy</h4>

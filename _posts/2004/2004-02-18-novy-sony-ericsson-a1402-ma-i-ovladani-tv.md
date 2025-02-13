@@ -1,14 +1,21 @@
 ---
 ID: 868
-title: 'Nový Sony Ericsson A1402 má i&nbsp;ovládání TV'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/novy-sony-ericsson-a1402-ma-i-ovladani-tv
-published: true
+oldlink: 'https://www.marigold.cz/item/novy-sony-ericsson-a1402-ma-i-ovladani-tv
+
+  '
 post_date: 2004-02-18 08:56:00
+post_excerpt: ''
+published: true
+summary_points:
+- Sony Ericsson A1402s je nový mobil pro japonskou CDMA síť KDDI.
+- A1402s má GPS modul, čtečku QR kódů a infra ovladač televize.
+- Telefon disponuje dvěma displeji, hlavním 2,3 palce a menším přídavným.
+- Kamera A1402s má QVGA rozlišení, 8 MB paměti a váží 104 gramů.
+title: Nový Sony Ericsson A1402 má i&nbsp;ovládání TV
 ---
+
 <p>
 Bohužel bude zase řeč o mobilu pro CDMA 1X, respektive v tomto případě přímo pro <IMG height=265 alt="Sony Ericsson A1402" src="/wp-content/uploads/sera1402.jpg" width=184 align=right border=0>japonskou síť KDDI. Ta v tomto týdnu uvedla na trh tři nové mobily, z nichž nejvíce mne zaujal <STRONG>Sony Ericsson A1402s</STRONG>. Jen podotýkám, že všechny tři mobily mají ve standardní výbavě GPS modul pro zjištění polohy. </p>
 

@@ -1,14 +1,23 @@
 ---
 ID: 779
-title: 'DrayTek Vigor2900G s&nbsp;omezením šířky pásma'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/draytek-vigor2900g-s-omezenim-sirky-pasma
-published: true
+oldlink: 'https://www.marigold.cz/item/draytek-vigor2900g-s-omezenim-sirky-pasma
+
+  '
 post_date: 2004-01-07 09:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- DrayTek Vigor 2900G je nový WiFi směrovač pro menší sítě s fastethernet porty.
+- USB port podporuje sdílení tiskáren, nahrazuje paralelní porty a podporuje 802.11G.
+- Bandwidth management umožňuje omezení šířky pásma uživatelům, což je u levných zařízení
+  neobvyklé.
+- Cena 200 USD je mírně vyšší, než u srovnatelných směrovačů, ale nižší než u konkurence
+  s bandwidth managementem.
+title: DrayTek Vigor2900G s&nbsp;omezením šířky pásma
 ---
+
 <p>
 DrayTek, i u nás poměrně populární a prodávaný výrobce síťové techniky, představil svůj nový širokopásmový směrovač s podporou WiFi <STRONG>DrayTek Vigor 2900G</STRONG>. Jde o klasický směrovač pro menší sítě, který nabízí čtyři fastethernet porty, jeden pro připojení do internetu (například na ADSL, kabelový modem atd) a jeden USB port pro zapojení sdílených zařízení, například tiskárny. To je dobrá zpráva, až doposud většinou výrobci tlačili do těchto zařízení paralelní port. K tomu všemu je <STRONG>podpora 802.11G</STRONG> a tedy rychlejší verze WiFi. </p>
 

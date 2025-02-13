@@ -1,14 +1,21 @@
 ---
 ID: 932
-title: 'Nokia Lifeblog &#8211; první Nokia software za peníze'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-lifeblog-prvni-nokia-software-za-penize
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-lifeblog-prvni-nokia-software-za-penize
+
+  '
 post_date: 2004-03-21 19:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia Lifeblog extrahuje data (SMS, MMS, fotky, videa) z mobilu do PC.
+- Data se řadí chronologicky a lze je prohlížet i upravovat.
+- Lifeblog zachycuje digitální život uživatele a uchovává vzpomínky.
+- Software funguje pouze s Nokia 7610 a je zpoplatněn po 200 záznamech.
+title: Nokia Lifeblog &#8211; první Nokia software za peníze
 ---
+
 <p>
 O konceptu Nokia Lifeblog se již na českém internetu něco málo psalo &#8211; na <A href="http://www.mobilmania.cz/Bleskovky/AR.asp?ARI=106791" target=_blank>MobilManii </A>i&#160;ve zprávičkách na&#160;Lupě. Nejsem tedy první a megaexklusivní, ale zato jsem se tomuto software věnoval docela dost na CeBITu i jinak a tak přinesu kompletnější zprávu. </p>
 

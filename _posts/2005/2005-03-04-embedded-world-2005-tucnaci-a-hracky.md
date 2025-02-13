@@ -1,14 +1,22 @@
 ---
 ID: 1564
-title: 'Embedded World 2005, tučnáci a&nbsp;hračky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/embedded-world-2005-tucnaci-a-hracky
-published: true
+oldlink: 'https://www.marigold.cz/item/embedded-world-2005-tucnaci-a-hracky
+
+  '
 post_date: 2005-03-04 08:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- Embedded World v Norimberku 2006 nabídl perfektní organizaci a bezplatný vstup po
+  registraci.
+- Linux posiluje v embedded oblasti, tradiční výrobci na něm usilovně pracují.
+- Automobilová elektronika se točila okolo CAN sběrnice a vývojových prostředí.
+- Autor Zdeněk Švarc veletrh Embedded World 2006 nenadchl ani nezklamal.
+title: Embedded World 2005, tučnáci a&nbsp;hračky
 ---
+
 <p>Zdeněk Švarc byl na letošním Embedded Worldu a napsal článeček pro všechy, kteří se na něj nedostali. Fotky jsou pořízeny mobilem, protože fotoaparát zapomněl :)</p>
 
 <p>---</p>

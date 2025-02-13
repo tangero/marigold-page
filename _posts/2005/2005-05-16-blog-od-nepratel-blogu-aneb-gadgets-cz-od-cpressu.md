@@ -1,16 +1,23 @@
 ---
 ID: 1644
-title: >
-  Blog od nepřátel blogů aneb
-  Gadgets.cz od Cpressu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/blog-od-nepratel-blogu-aneb-gadgets-cz-od-cpressu
-published: true
+oldlink: 'https://www.marigold.cz/item/blog-od-nepratel-blogu-aneb-gadgets-cz-od-cpressu
+
+  '
 post_date: 2005-05-16 08:52:16
+post_excerpt: ''
+published: true
+summary_points:
+- Živě spustilo blog Gadgets.cz o hračičkách a zajímavostech, postavený na Drupalu.
+- Gadgets.cz komerční význam je nejasný, inzerce na gadgety je v ČR minimální.
+- Gadgets.cz má reklamy na Živé ADSL a Skype sluchátko, důvod vzniku je nejasný.
+- Marek Lutonský uvádí, že Gadgets.cz vzniká ve spolupráci s autorem Supervěci.cz.
+title: 'Blog od nepřátel blogů aneb Gadgets.cz od Cpressu
+
+  '
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/20050516-gadgets.jpg" alt="Gadgets.cz" width="300" height="300" /></div>
 <p>Živě si to v minulých dnech rozdalo s weblogy v několika článcích a nyní poté, když čtenářům osvětlilo, jakou žumpou weblogy jsou, rozhodlo se jeden vlastní blog spustit. Jmenuje se <a href="http://www.gadgets.cz">Gadgets.cz</a> a je o takových těch hračičkách a zajímavostech. Inu, proč ne. </p>
 

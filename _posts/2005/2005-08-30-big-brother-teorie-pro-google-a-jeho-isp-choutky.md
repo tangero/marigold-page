@@ -1,14 +1,22 @@
 ---
 ID: 1804
-title: 'Big Brother teorie pro Google a&nbsp;jeho ISP choutky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/big-brother-teorie-pro-google-a-jeho-isp-choutky
-published: true
+oldlink: 'https://www.marigold.cz/item/big-brother-teorie-pro-google-a-jeho-isp-choutky
+
+  '
 post_date: 2005-08-30 17:19:50
+post_excerpt: ''
+published: true
+summary_points:
+- Google zvažuje nákup optických sítí v USA a sponzoruje WiFi startup Feeva.
+- Google sponzoruje Feeva kvůli snaze o zdarma dostupné WiFi v San Franciscu.
+- Nákup optických sítí může Googlu ušetřit za peeringové poplatky.
+- Google by mohl s optickou sítí podporovat lokální WiFi sítě a ověřovat lokality
+  uživatelů.
+title: Big Brother teorie pro Google a&nbsp;jeho ISP choutky
 ---
+
 <p>Článek <a href="http://www.business2.com/b2/web/articles/print/0,17925,1093558,00.html">v Business 2.0</a> jsem četl už v půlce srpna, když vyšel a čekal jsem, jak s ním naložit a co z toho povstane. Google má skupovat optické sítě v USA, které leží nevyužité v zemi po zkrachovalých opto-síťařích. K čemupak Google hodlá tuhle infrastrukturu potřebovat?</p>
 
 <p>Kromě toho Google sponzoruje WiFi startup zvaný Feeva v San Franciscu. Tyhle dva jediné zatím známé fakty stačí k tomu, aby se začalo psát o GoogleNetu. Třetím faktem je prohlášení tiskového mluvčího Google Nate Taylora: "Sponzorujeme Feeva, protože zkouší vytvořit zdarma přístupné WiFi v San Francisku, což odpovídá cílům Google uspořádávat informace ze světa a učinit je univerzálně dostupnými."</p>

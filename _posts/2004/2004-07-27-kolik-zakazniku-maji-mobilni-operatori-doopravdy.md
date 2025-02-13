@@ -1,16 +1,23 @@
 ---
 ID: 1217
-title: >
-  Kolik zákazníků mají mobilní
-  operátoři DOOPRAVDY?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kolik-zakazniku-maji-mobilni-operatori-doopravdy
-published: true
+oldlink: 'https://www.marigold.cz/item/kolik-zakazniku-maji-mobilni-operatori-doopravdy
+
+  '
 post_date: 2004-07-27 08:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Operátoři uvádějí počty SIM karet, které neodpovídají počtu reálných uživatelů.
+- Metody počítání aktivních SIM karet se liší a operátoři je tají.
+- Eurotel mohl mít v květnu reálně jen 3,5 milionu aktivních SIM karet.
+- Informace o počtech zákazníků operátorů nelze ověřit z veřejných zdrojů.
+title: 'Kolik zákazníků mají mobilní operátoři DOOPRAVDY?
+
+  '
 ---
+
 <p>
 Mobilní operátoři se radostně chlubí počty zákazníků, přitom většina lidí znalých věci má o těchto číslech seriosní pochybnosti. Ledaskomu už pomalu dochází, že počet SIM karet se nemusí rovnat (a nerovná) počtu skutečných fyzických uživatelů, neb jeden jedinec může mít a začasté také má i více SIM karet. Na tohle už jsme si snad i zvykli a pokud jsou ty SIM karty živé, nelze zase tak moc namítat, snad jen hádat se o slovíčka. </p>
 <p>

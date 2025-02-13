@@ -1,16 +1,23 @@
 ---
 ID: 981
-title: >
-  Automatická pokuta za překročení
-  rychlosti, co vy na to?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/automaticka-pokuta-za-prekroceni-rychlosti-co-vy-na-to
-published: true
+oldlink: 'https://www.marigold.cz/item/automaticka-pokuta-za-prekroceni-rychlosti-co-vy-na-to
+
+  '
 post_date: 2004-04-14 08:27:00
+post_excerpt: ''
+published: true
+summary_points:
+- GPS se protlačí do aplikací jako špiclování aut a kol.
+- Policie by mohla automaticky rozesílat vyúčtování za rychlou jízdu.
+- Automatické pokuty za každé překročení rychlosti by drsně potrestaly řidiče.
+- Povinné GPS v autech by mohly pročistit prasáckou dopravu.
+title: 'Automatická pokuta za překročení rychlosti, co vy na to?
+
+  '
 ---
+
 <p>
 Kamojedova vyprovokovalo moje zamyšlení nad GPS <A href="http://www.bloguje.cz/blogy/vucako/35779_item.php" target=_blank>k vlastnímu zamyšlení nad GPS</A>, kde sumarizuje současné používání GPS v mobilech dnes. Kamojedov upozorňuje, že lidé nebudou mít na výběr - já k tomu dodávám, že moje tvrzení bylo hlavně o tom, že si GPS v mobilu nebudou kupovat za stovku euro a další desetieuro měsíčně. Kamojedov se následně dostává k tomu, že GPS se nakonec protlačí do aplikací jako je špiclování osobních aut a kol, zda jezdí, kudy mají atd - říká se tomu spisovně tuším digitální mýtní systém.</p>
 

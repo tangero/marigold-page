@@ -1,14 +1,21 @@
 ---
 ID: 1604
-title: Sympatický starý pán
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sympaticky-stary-pan
-published: true
+oldlink: 'https://www.marigold.cz/item/sympaticky-stary-pan
+
+  '
 post_date: 2005-04-03 17:01:02
+post_excerpt: ''
+published: true
+summary_points:
+- Smrt papeže Jana Pavla II připomíná význam církve jako protiváhy státu.
+- Církev nabízí vznešené ideály na rozdíl od přízemních skutků státních zástupců.
+- Církevní postoje k potratům a eutanazii jsou oporou proti momentální náladě.
+- Tradice a zkušenosti církve by neměly být odmítány bez zamýšlení.
+title: Sympatický starý pán
 ---
+
 <p>Smrt papeže Jana Pavla II bude hojně komentována jinde a já vím, že napsat o ní cokoliv teď znamená nutně se propadat k frázím. Nejsem katolík, nakonec ani ne křesťan, abych ji prožíval stejně, jako oni, ale jestli něco s naléhavou nutností smrt papeže připomněla, pak je to pozice církve v současném světě. </p>
 
 <p>Bráno z pozice ateistických zemí českých bychom se mohli podivovat, proč skon sympatického starého pána uvrhne svět do lítosti. Sympatických starých pánů umírají denně tisíce a řada německých důchodců toho dost možná procestovala více než polák Karol Wojtyla.</p>

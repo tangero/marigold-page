@@ -1,14 +1,21 @@
 ---
 ID: 1544
-title: 'Bezdrátová středa: M-platby prostřednictvím SMS a&nbsp;WAP'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezdratova-streda-m-platby-prostrednictvim-sms-a-wap
-published: true
+oldlink: 'https://www.marigold.cz/item/bezdratova-streda-m-platby-prostrednictvim-sms-a-wap
+
+  '
 post_date: 2005-02-20 12:04:03
+post_excerpt: ''
+published: true
+summary_points:
+- M-platby SMS a WAP jsou tématem Wireless Wednesday.
+- Pipeline poskytuje M-platby, zejména přes T-Mobile T-Zones.
+- T-Mobile a Oskar nabízejí M-platby, Eurotel je nenabízí.
+- Akce zahrnuje přednášky o právních aspektech a řešeních M-plateb.
+title: 'Bezdrátová středa: M-platby prostřednictvím SMS a&nbsp;WAP'
 ---
+
 <p>Tuto (bezdrátovou) středu je téma M-platby prostřednictvím SMS a WAP. Samozřejmě mne to zajímá, protože Pipeline poskytuje M-platby (zatím spíše mimo SMS, přes <a href="http://www.pipeline.cz/mplatby.shtml">T-Mobile T-Zones</a>, ale i SMS se pomalu rozjíždějí) - takže tam budu (jen na chvíli, pak něco mám).</p>
 
 <p>Program:</p>

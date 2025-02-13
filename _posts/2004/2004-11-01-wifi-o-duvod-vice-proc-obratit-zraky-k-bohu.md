@@ -1,14 +1,21 @@
 ---
 ID: 1381
-title: 'WiFi &#8211; o&nbsp;důvod více, proč obrátit zraky k&nbsp;Bohu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-o-duvod-vice-proc-obratit-zraky-k-bohu
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-o-duvod-vice-proc-obratit-zraky-k-bohu
+
+  '
 post_date: 2004-11-01 16:56:17
+post_excerpt: ''
+published: true
+summary_points:
+- Pražský kostel adventistů sedmého dne na Malvazinkách má WiFi hotspot smichov.
+- Kostel ve Stodůlkách a sv. Ludmily v Praze také mají WiFi antény.
+- WiFi v kostele slouží pro online přenosy, setkání a školení.
+- Adventistické kostely jsou spíše funkcionalistické modlitebny, ne barokní chrámy.
+title: WiFi &#8211; o&nbsp;důvod více, proč obrátit zraky k&nbsp;Bohu
 ---
+
 <p>
 Nenapadl mne méně pitomý titulek. M. Kopta mne upozornil na článek v <a href="http://www.istrategie.cz/detail.htm?id=48214">iStrategii</a>, kde se píše o prvním českém hotspotu v kostele. Jde o kostel Církve adventistů sedmého dne v Praze na Malvazinkách, SSID je smichov, pokryt je vnitřek kostela, signál lze chytit i za jeho zdmi. </p>
 

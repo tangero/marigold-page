@@ -1,14 +1,20 @@
 ---
 ID: 1377
-title: Otakarova focena pres mms
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/otakarova-focena-pres-mms
-published: true
+oldlink: 'https://www.marigold.cz/item/otakarova-focena-pres-mms
+
+  '
 post_date: 2004-10-27 16:12:29
+post_excerpt: ''
+published: true
+summary_points:
+- Heslo zabezpečuje tento další pokus, jehož povaha není specifikována.
+- Obrázek Obraz035.jpg je vložen vpravo s rozměry 352x288 pixelů.
+- Obrázek se nachází v adresáři /wp-content/uploads/1/.
+title: Otakarova focena pres mms
 ---
+
 <p>
 A tohle je další pokus, tentokráte zabezpečeny přes heslo&#8230;</p>
 

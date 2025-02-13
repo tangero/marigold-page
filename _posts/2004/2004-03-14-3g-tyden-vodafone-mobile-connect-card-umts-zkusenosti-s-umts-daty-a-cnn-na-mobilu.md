@@ -1,14 +1,22 @@
 ---
 ID: 916
-title: '3G Týden: Vodafone Mobile Connect Card UMTS, zkušenosti s&nbsp;UMTS daty a&nbsp;CNN na mobilu&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3g-tyden-vodafone-mobile-connect-card-umts-zkusenosti-s-umts-daty-a-cnn-na-mobilu
-published: true
+oldlink: 'https://www.marigold.cz/item/3g-tyden-vodafone-mobile-connect-card-umts-zkusenosti-s-umts-daty-a-cnn-na-mobilu
+
+  '
 post_date: 2004-03-14 12:27:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vodafone UMTS karta od Optionu stojí 861 euro bez závazku.
+- Datové tarify Vodafone Volume začínají na 10 eurech za 10 MB.
+- Mobitel Slovinsko zaznamenal 18 MB průměrný datový objem na UMTS uživatele.
+- TeliaSonera Švédsko nabízí videohovory za 17,5 Kč za minutu.
+title: '3G Týden: Vodafone Mobile Connect Card UMTS, zkušenosti s&nbsp;UMTS daty a&nbsp;CNN
+  na mobilu&#8230;'
 ---
+
 <p>
 O Vodafone Mobile Connect Card UMTS jsem již psal v únoru, nyní ale znám další podrobnosti včetně konkrétních cen. </p>
 

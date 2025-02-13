@@ -1,14 +1,21 @@
 ---
 ID: 1824
-title: Weblogerská úmrtí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/weblogerska-umrti
-published: true
+oldlink: 'https://www.marigold.cz/item/weblogerska-umrti
+
+  '
 post_date: 2005-09-19 11:48:16
+post_excerpt: ''
+published: true
+summary_points:
+- Blogeři Koubský a Pixy ukončili činnost, což autor chápe kvůli nevýhodám čtenosti.
+- Čtenost blogu vytváří tlak na autora, aby se vyjadřoval ke všemu.
+- Autor je poznáván na veřejnosti, což narušuje jeho soukromí a anonymitu.
+- Autor omezuje odborné články na blogu, přesune je na Mobilring.
+title: Weblogerská úmrtí
 ---
+
 <p>Letos nás postihlo několik virtuálních weblogerských úmrtí. Po zavření aKB@large Petra Koubského následoval nedávno Pixy. A já musím říct, že jakkoliv je to smutné, chápu to. </p>
 
 <p>Jakkoliv má blog své výhody, od určitého zlomového bodu se člověk musí potýkat také se spoustou nevýhod. A tím zlomovým bodem je do značné míry čtenost. Čtenost je pro komerční servery zpravidla modla, k níž se vzhlíží a pro niž je radno ledasco udělat.  Zřejmě si to myslí i řada weblogerů, než se o svojí újmě přesvědčí o tom, že u weblogů to tak zřejmě neplatí. </p>

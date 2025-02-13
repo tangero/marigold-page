@@ -1,14 +1,22 @@
 ---
 ID: 820
-title: 'Jak poznáme, kolik zaplatíme při&nbsp;volání na přenesená mobilní čísla?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-pozname-kolik-zaplatime-pri-volani-na-prenesena-mobilni-cisla
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-pozname-kolik-zaplatime-pri-volani-na-prenesena-mobilni-cisla
+
+  '
 post_date: 2004-01-28 13:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Maler se ptal, jak poznat cenu volání na číslo přenesené k jinému operátorovi.
+- ČTÚ zvažuje "návěstní" informace pro volajícího, například hlasovou zprávu nebo
+  SMS.
+- ČTÚ oslovil operátory ohledně MNP, ale Eurotel a T-Mobile jsou zdrženliví.
+- Operátoři Eurotel a T-Mobile brzdí zavedení přenositelnosti čísel.
+title: Jak poznáme, kolik zaplatíme při&nbsp;volání na přenesená mobilní čísla?
 ---
+
 <p>
 Na tohle téma mne naťukl Maler - zajímalo ho, jak pozná,<STRONG> za kolik bude telefonovat na mobil, když si jeho majitel přenese číslo k jinému operátorovi</STRONG>, tedy použije <STRONG>Mobile Number Portability</STRONG>. Je to logická úvaha, protože ČTÚ dlouho trvalo na tom, že zákazníkovi musí být <STRONG>z telefonního čísla jasné, kolik bude za volání</STRONG> či psaní SMS na něj platit. Kupříkladu i proto měli operátoři problémy se zvláštně placenými SMS pro své služby a proto je tu koncept PremiumSMS, kdy se z posledních dvou čísel pozná cena. </p>
 

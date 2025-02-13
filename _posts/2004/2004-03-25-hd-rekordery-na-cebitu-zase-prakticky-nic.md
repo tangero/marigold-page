@@ -1,14 +1,21 @@
 ---
 ID: 946
-title: 'HD rekordery na CeBITu &#8211; zase prakticky nic'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hd-rekordery-na-cebitu-zase-prakticky-nic
-published: true
+oldlink: 'https://www.marigold.cz/item/hd-rekordery-na-cebitu-zase-prakticky-nic
+
+  '
 post_date: 2004-03-25 09:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor hledá HD rekordér (set-top box) pro nahrávání videa na pevný disk.
+- Zařízení by mělo podporovat časování nahrávání a ideálně ethernetové připojení.
+- Autor nechce zařízení s DVD vypalovačkou ani satelitním dekodérem kvůli ceně.
+- Na CeBITu našel jediné vyhovující zařízení, DMUZE CANNY Personal Video Recorder.
+title: HD rekordery na CeBITu &#8211; zase prakticky nic
 ---
+
 <p>
 Další věc, po které již delší dobu pasu, je HD rekorder - ani nevím, jak se to jmenuje česky. Jde o set-top box o formátu vhodném do věže, který umí ukládat video (přivedené televizní anténou SCART a jinými videokonektory) přímo na pevný disk nejlépe v MPEG4&#160;a z něj ho zase přehrávat, to vše samozřejmě s podporou časování nahrávání, ShowView a podobných udělátek. Ideálně to má také ethernet nebo FireWire konektor pro propojení s počítačem. </p>
 

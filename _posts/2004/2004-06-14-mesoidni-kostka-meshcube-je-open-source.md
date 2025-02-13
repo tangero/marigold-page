@@ -1,16 +1,23 @@
 ---
 ID: 1144
-title: >
-  Mešoidní kostka Meshcube je open
-  source
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mesoidni-kostka-meshcube-je-open-source
-published: true
+oldlink: 'https://www.marigold.cz/item/mesoidni-kostka-meshcube-je-open-source
+
+  '
 post_date: 2004-06-14 08:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- Meshcube je open source (GPL) mešoidní kostka s novým webem meshcube.org.
+- Zdrojové kódy Meshcube jsou dostupné v CVS repository pro vlastní výrobu.
+- Meshcube stojí od 200 euro a obsahuje WiFi, MIPS procesor a další komponenty.
+- Výrobcem Meshcube je 4G Systeme GmbH, která vyrábí i Access Cube.
+title: 'Mešoidní kostka Meshcube je open source
+
+  '
 ---
+
 <p>
 Na mesh sítích si ulítávám, fascinují mne a strašně toužím si jednu postavit (je to hned za výletem na Mars). A tak mne potěšilo, že mešoidní kostka, o které jsem kdysi <a href="/?itemid=942">psal z CeBITu</a>, je open source (GPL) a má i nové informativní stránky. Kostka se nově jmenuje Meshcube - zcela překvapivě, že :). A má svůj web <a href="http://www.meshcube.org">meshcube.org</a>.</p>
 

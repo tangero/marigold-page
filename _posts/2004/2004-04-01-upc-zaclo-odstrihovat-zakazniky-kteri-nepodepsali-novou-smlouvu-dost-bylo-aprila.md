@@ -1,17 +1,25 @@
 ---
 ID: 962
-title: >
-  UPC začlo odstřihovat zákazníky,
-  kteří nepodepsali novou smlouvu (dost
-  bylo apríla)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/upc-zaclo-odstrihovat-zakazniky-kteri-nepodepsali-novou-smlouvu-dost-bylo-aprila
-published: true
+oldlink: 'https://www.marigold.cz/item/upc-zaclo-odstrihovat-zakazniky-kteri-nepodepsali-novou-smlouvu-dost-bylo-aprila
+
+  '
 post_date: 2004-04-01 12:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- UPC začalo 1.4. odpojovat Chello zákazníky bez nové smlouvy podepsané v loňském
+  roce.
+- Deaktivováno bylo minimálně 60 klientů, kteří nepodepsali novou verzi smlouvy.
+- UPC nabízí opětovné zapojení do hodiny po podpisu nové smlouvy.
+- UPC sjednocuje smluvní podmínky, i když zákazníci se starou smlouvou platili.
+title: 'UPC začlo odstřihovat zákazníky, kteří nepodepsali novou smlouvu (dost bylo
+  apríla)
+
+  '
 ---
+
 <p>
 Právě mne informoval MaLer, že <STRONG>UPC začlo dnes odstřihovat Chello zákazníkům, kteří nepodepsali novou verzi smlouvy,</STRONG> což měli učinit v loňském roce. Od 1.4. se tedy započlo s jejich deaktivací - v tuto chvíli je prý deaktivováno minimálně 60 klientů. </p>
 

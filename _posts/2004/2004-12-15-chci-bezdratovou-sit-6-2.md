@@ -1,14 +1,21 @@
 ---
 ID: 1445
-title: Chci bezdrátovou síť (6.2)
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chci-bezdratovou-sit-6-2
-published: true
+oldlink: 'https://www.marigold.cz/item/chci-bezdratovou-sit-6-2
+
+  '
 post_date: 2004-12-15 10:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- Pasivní retranslace využívá přesměrování nebo odraz signálu mezi body A a C.
+- Přesměrování signálu vyžaduje směrové antény a koaxiální kabel pro spojení.
+- Odraz signálu vyžaduje malý úhel mezi body a odraznou desku.
+- Pasivní retranslace je vhodná na krátké vzdálenosti bez elektřiny, ale dražší.
+title: Chci bezdrátovou síť (6.2)
 ---
+
 <p>
 Tento článek navazuje na <a href="/item/chci-bezdratovou-sit-6-1">předchozí kapitolu</a> a věnuje se detailně problematice pasivních retranslací. Část o aktivních bude následovat odpoledne</p>
 <div class="rightbox">

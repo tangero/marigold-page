@@ -1,14 +1,22 @@
 ---
 ID: 906
-title: 'Vodablog &#8211; mobilní weblogy pro Vodafone na Microsoft .Net'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vodablog-mobilni-weblogy-pro-vodafone-na-microsoft-net
-published: true
+oldlink: 'https://www.marigold.cz/item/vodablog-mobilni-weblogy-pro-vodafone-na-microsoft-net
+
+  '
 post_date: 2004-03-09 17:12:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vodablog.com je nová služba pro mobilní weblogy, možná testovací provoz Vodafonu.
+- Vodablog umožňuje vytváření jednoduchých weblogů a zasílání příspěvků pomocí MMS.
+- MMS příspěvky mohou obsahovat fotografie a videa konvertovaná do QuickTime formátu.
+- Vodablog plánuje zasílání příspěvků z weblogu na telefon pomocí MMS a upozornění
+  SMS.
+title: Vodablog &#8211; mobilní weblogy pro Vodafone na Microsoft .Net
 ---
+
 <p>
 Vodablog.com je nová služba pro weblogy, přímo pro mobilní weblogy, která se objevila na internetu. Už její jméno napovídá, že bude určena především pro zákazníky společnosti Vodafone, dokonce se říká, že jde o testovací provoz služby Vodafone, na druhou stranu ale na webu nikde není ani logo společnosti ani její jméno, takže čert ví, komu to vážně patří. V každém případě na webu upozorňují, že jde o demonstrační službu. </p>
 

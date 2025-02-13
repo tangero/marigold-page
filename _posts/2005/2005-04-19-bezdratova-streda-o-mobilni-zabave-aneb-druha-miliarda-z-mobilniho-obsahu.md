@@ -1,14 +1,23 @@
 ---
 ID: 1618
-title: 'Bezdrátová středa o&nbsp;mobilní zábavě aneb druhá miliarda z&nbsp;mobilního obsahu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezdratova-streda-o-mobilni-zabave-aneb-druha-miliarda-z-mobilniho-obsahu
-published: true
+oldlink: 'https://www.marigold.cz/item/bezdratova-streda-o-mobilni-zabave-aneb-druha-miliarda-z-mobilniho-obsahu
+
+  '
 post_date: 2005-04-19 09:57:02
+post_excerpt: ''
+published: true
+summary_points:
+- Bezdrátová středa, zaměřená na mobilní zábavu, se koná zítra v Anděls hotelu od
+  17:00.
+- Vstup zdarma na Bezdrátovou středu získáte s kódem Marigold při registraci.
+- Mobilní hry, hudba a další obsah budou hlavní témata Bezdrátové středy.
+- Obrat mobilního obsahu v roce 2004 byl odhadnut na jednu miliardu korun.
+title: Bezdrátová středa o&nbsp;mobilní zábavě aneb druhá miliarda z&nbsp;mobilního
+  obsahu
 ---
+
 <p>Zítra je středa, přímo Bezdrátová středa a Tuesday opět pořádá setkání věnované bezdrátovým tématům, tentokráte na téma mobilní zábavy, spisovně M- entertainment. Pokud byste na akci chtěli vyrazit, je od 17 hodin tradičně v Anděls hotelu (metro Anděl) a <a href="http://www.tuesday.cz/detailAkce.aspx?id=222">pokud do registrace</a> vyplníte kód Marigold, budete mít vstup zdarma. </p>
 
 <p>Hovořit se bude hlavně o mobilních hrách a to jak z pohledu operátorů, tak i z pohledu vývojářů a nezávislých prodejců, ale také o hudbě na mobily a dalším obsahu. Program <a href="http://www.tuesday.cz/programAkce.aspx?id=222">najdete zde</a>. </p>

@@ -1,14 +1,21 @@
 ---
 ID: 1757
-title: 'Story o&nbsp;sousedských sítích (16.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-16
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-16
+
+  '
 post_date: 2005-08-07 18:30:34
+post_excerpt: ''
+published: true
+summary_points:
+- Lokalita dvě má kruhovou topologii sítě, což zvýšilo spolehlivost.
+- Internetová konektivita je nyní od lokálního přeprodejce net4net.
+- Testování připojení proběhlo sledováním Otázek Václava Moravce v HQ.
+- Connection.cz ztratila zákazníky, protože neumí prodávat konektivitu jinak.
+title: Story o&nbsp;sousedských sítích (16.)
 ---
+
 <p><b>Oook píše:</b><br />
 Minulý týden se nám podařilo v lokalitě dvě konečně vytvořit první
 kolečko (pro síťaře - změnili jsme topologii ze sběrnicové na kruhovou)

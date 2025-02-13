@@ -1,14 +1,21 @@
 ---
 ID: 983
-title: Web Pipeline
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/web-pipeline
-published: true
+oldlink: 'https://www.marigold.cz/item/web-pipeline
+
+  '
 post_date: 2004-04-15 07:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Převis práce a nevyspání autora po včerejší moderaci panelové diskuse.
+- Společnost Pipeline spustila nabídku služeb koncovým zákazníkům a nový web.
+- Autor pracoval na webu Pipeline.cz, který se týká vyúčtování mobilních aplikací.
+- Pipeline nabízí platby za mobilní aplikace přes Premium Rate SMS a hromadné SMS.
+title: Web Pipeline
 ---
+
 <p>
 Dnes je absolutní převis práce nad mými časovými možnostmi. Alespoň zatím, takhle po ránu. A to jsem ještě nevyspalý ze včerejšího Wireless Wednesday, kde jsem nějak ze zbytku včerejších sil zvlád odmoderovat panelovou diskusi, snad ani nebylo moc poznat, že bych u toho nejradši usnul.</p>
 

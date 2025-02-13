@@ -1,17 +1,23 @@
 ---
 ID: 1433
-title: >
-  Největší česká databáze
-  bezdrátových sítí již obsahuje 194
-  záznamů
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nejvetsi-ceska-databaze-bezdratovych-siti-jiz-obsahuje-194-zaznamu
-published: true
+oldlink: 'https://www.marigold.cz/item/nejvetsi-ceska-databaze-bezdratovych-siti-jiz-obsahuje-194-zaznamu
+
+  '
 post_date: 2004-12-06 10:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Patrick odcestoval do Egypta na líbánky, autor bude dva týdny přidávat články.
+- Internet pro všechny má databázi Wi-Fi sítí, nyní obsahuje 194 záznamů.
+- Provozovatelé sítí dělají chyby při přidávání, což komplikuje práci administrátorům.
+- Internet pro všechny databáze vznikla jako reakce na neochotu Českého Telecomu.
+title: 'Největší česká databáze bezdrátových sítí již obsahuje 194 záznamů
+
+  '
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041206-wifimapa.gif" alt="Mapa Wi-Fi sítí" width="200" height="122" /></div><p>
 Předpokládám, že Patrick je touhle dobou už někde v letadle na cestě do Egypta (i když nevím přesně kdy odlétá), přejme mu šťastné líbánky a málo teroristů po cestě.</p>
 <p>

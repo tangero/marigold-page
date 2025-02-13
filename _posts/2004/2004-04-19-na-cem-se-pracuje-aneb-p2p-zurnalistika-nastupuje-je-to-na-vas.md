@@ -1,14 +1,21 @@
 ---
 ID: 988
-title: 'Na čem se pracuje&#8230; (aneb P2P žurnalistika nastupuje, je to na vás)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/na-cem-se-pracuje-aneb-p2p-zurnalistika-nastupuje-je-to-na-vas
-published: true
+oldlink: 'https://www.marigold.cz/item/na-cem-se-pracuje-aneb-p2p-zurnalistika-nastupuje-je-to-na-vas
+
+  '
 post_date: 2004-04-19 08:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- NetPhone nově zavedena pevná linka přes RJ-45 konektor, recenze bude v týdnu.
+- GIOM zařízení testováno s úspěchem, recenze s omezením rychlosti bude brzy.
+- Autor slíbil článek o GPRS na Mobil a o WiFi anténách pro Marigold.
+- Autor vyzývá k řešení problému WiFi připojení tří lokalit A, B, C s nízkými náklady.
+title: Na čem se pracuje&#8230; (aneb P2P žurnalistika nastupuje, je to na vás)
 ---
+
 <p>
 Nějak se mi doma nahromadilo restů. Zakoupil jsem Fayn telefon NetPhone, díky čemuž mám asi tak po pěti letech pevnou telefonní linku doma, jen je připojená přes RJ-45 konektor a ne RJ-11. K tomu se hodlám svěřit se svými poznatky, leč nebylo času. Vyřídím v týdnu. Mám tu na test GIOM zařízení, o kterém jsem tu stručně psal, firma ho obětavě zapůjčila a funguje to fakt parádně. Včera jsem si hrál s omezováním rychlosti, skrouhnul jsem si přenosové pásmo na minimum a byl to opravdu otřes. Tož další restík tohle zrecenzovat. Kromě toho tu je Mikrotik router, ještě dvě nejrůznější krabičky které zatím neprozradím. </p>
 

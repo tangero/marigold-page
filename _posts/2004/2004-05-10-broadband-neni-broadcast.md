@@ -1,14 +1,24 @@
 ---
 ID: 1023
-title: Broadband není broadcast
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/broadband-neni-broadcast
-published: true
+oldlink: 'https://www.marigold.cz/item/broadband-neni-broadcast
+
+  '
 post_date: 2004-05-10 08:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Broadband není broadcast, internetová distribuce videa vyžaduje kapacitu pro každého
+  uživatele.
+- Internetová TV je dražší než tradiční, protože každý uživatel stojí peníze.
+- Interaktivní TV by měla využívat tradiční vysílání pro dopředný kanál a internet
+  pro zpětný.
+- Video on Demand má do masového nasazení daleko kvůli technickým, právním a cenovým
+  problémům.
+title: Broadband není broadcast
 ---
+
 <p>
 Je zajímavé, jak moc svůdná myšlenka to byla. Ještě před třemi lety se říkalo, že spuštění internetové televize a distribuce videa je jen o šířce pásma, o dostupnosti broadbandu. Už tehdy jsem pesimisticky tvrdil, že jest to kravina a že broadband není broacast. </p>
 

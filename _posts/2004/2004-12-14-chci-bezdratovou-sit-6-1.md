@@ -1,14 +1,21 @@
 ---
 ID: 1444
-title: Chci bezdrátovou síť (6.1)
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chci-bezdratovou-sit-6-1
-published: true
+oldlink: 'https://www.marigold.cz/item/chci-bezdratovou-sit-6-1
+
+  '
 post_date: 2004-12-14 22:12:00
+post_excerpt: ''
+published: true
+summary_points:
+- Článek navazuje na seriál "Chci bezdrátovou síť" a vysvětluje retranslace.
+- Retranslace spojuje místa bez přímé viditelnosti pomocí retranslačního bodu.
+- Retranslace mohou být jednoduché (A→R→B) nebo vícenásobné (A→R→S→T→B).
+- Retranslace se dělí na pasivní (odraz signálu) a aktivní (přístupový bod).
+title: Chci bezdrátovou síť (6.1)
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041214-retranslace.gif" alt="Retranslace" width="250" height="156" /></div><p>
 Tento článek je volným pokračováním mého srpnového seriálu <a href="http://www.marigold.cz/?query=chci%2Bbezdr%C3%A1tovou%2Bs%C3%AD%C5%A5&amp;amount=0&amp;blogid=1">Chci bezdrátovou síť</a>, jež objasňuje vše podstatné, co byste měli chtít vědět, když chcete bezdrátovou síť. Pro ty, kteří zde o prázdninách nebyli doporučuji <a href="/item/chci-bezdratovou-sit-1/category/wifi">první kapitolu</a> a pak si dole můžete kliknout na &#8220;lokální hledání&#8221; a můžete se tak dostat na další pokračování.</p>
 <p>

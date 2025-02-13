@@ -1,14 +1,23 @@
 ---
 ID: 1291
-title: 'Telefon Víkend aneb Internet za paušál je tady&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telefon-vikend-aneb-internet-za-pausal-je-tady
-published: true
+oldlink: 'https://www.marigold.cz/item/telefon-vikend-aneb-internet-za-pausal-je-tady
+
+  '
 post_date: 2004-09-02 08:40:23
+post_excerpt: ''
+published: true
+summary_points:
+- Telefon Víkend od Českého Telecomu za 99 Kč umožňoval víkendové hovory zdarma.
+- Půlhodinové limity hovorů u Telefonu Víkend mohly být využity pro internetové připojení.
+- Alternativní operátoři pravděpodobně nevyužijí Telefon Víkend pro internetové připojení
+  kvůli nízké ziskovosti.
+- Pro připojení přes Telefon Víkend lze využít telefonní čísla ISP jako Idnes, Volny,
+  Razdva.
+title: Telefon Víkend aneb Internet za paušál je tady&#8230;
 ---
+
 <p>
 Český Telecom spustil službu nazvanou Telefon Víkend, kterou nám tak nějak jasně vzkazuje, že nemožnost zavést paušál za vytáčené připojení k internetu je záležitostí fabulativní, nikoliv technickou či neekonomickou. Za 99 Kč máte možnost kecat si o víkendu po pevném telefonu do pevné linky v ČR po libosti. Zdroj: <a href="http://mobil.idnes.cz/publicistika/telecom_novetarify040902.html">Mobil.cz</a></p>
 

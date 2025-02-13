@@ -1,14 +1,21 @@
 ---
 ID: 1218
-title: 'AirCQ: WiFi Instant Messenger'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/aircq-wifi-instant-messenger
-published: true
+oldlink: 'https://www.marigold.cz/item/aircq-wifi-instant-messenger
+
+  '
 post_date: 2004-07-28 07:03:00
+post_excerpt: ''
+published: true
+summary_points:
+- AirCQ je WiFi Instant Messenger propojující počítače bez internetu.
+- Program AirCQ umožňuje sdílení hlasu, videa, souborů a chatu přes WiFi.
+- Propojit lze až 200 počítačů s AirCQ v infrastrukturní nebo ad-hoc síti.
+- AirCQ je placený software (20 USD) s třicetidenní zkušební verzí.
+title: 'AirCQ: WiFi Instant Messenger'
 ---
+
 <p>
 Tenhle program je už skoro rok starý, ale tehdy mi na něj nějak nepřišla chuť, už proto, že je placený. Jenže dneska přichází renesance zájmu o něj spolu s tím, jak se kategorii programů, do níž spadá, začalo moderně říkat mobile social software &#8211; zkráceně MoSoSo (fuj &#8211; mám raději "mobilní socioware").</p>
 <p align="right">

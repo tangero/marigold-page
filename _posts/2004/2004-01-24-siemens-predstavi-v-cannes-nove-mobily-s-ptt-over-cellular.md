@@ -1,14 +1,21 @@
 ---
 ID: 811
-title: 'Siemens představí v&nbsp;Cannes nové mobily s&nbsp;PTT over Cellular'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/siemens-predstavi-v-cannes-nove-mobily-s-ptt-over-cellular
-published: true
+oldlink: 'https://www.marigold.cz/item/siemens-predstavi-v-cannes-nove-mobily-s-ptt-over-cellular
+
+  '
 post_date: 2004-01-24 11:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- Siemens představí v Cannes nové mobily s funkcí Push to talk over Cellular.
+- Dva nové mobily Siemens s PTT budou manažerský a terénní model.
+- Ubiquity dodává software pro PTT funkci do mobilů Siemens.
+- Siemens bude zřejmě první s uceleným PTT řešením pro mobilní sítě.
+title: Siemens představí v&nbsp;Cannes nové mobily s&nbsp;PTT over Cellular
 ---
+
 <p>
 Už je to prakticky oficiálně potvrzené: <STRONG>Siemens bude v Cannes představovat nové mobily vybavené funkcí Push to talk over Cellular.</STRONG> Zatím se hovoří o dvou mobilech vybavených touto funkcí, jeden by měl být manažerský, druhý střední třídy do terénu - takže řekněme S a M řada, ovšem to není oficiální informace. Jak se budou jmenovat a jaké funkce budou obsahovat, to mi zatím kromě onoho PTT není definitivně známo, ačkoliv hádat bychom jistě mohli. </p>
 

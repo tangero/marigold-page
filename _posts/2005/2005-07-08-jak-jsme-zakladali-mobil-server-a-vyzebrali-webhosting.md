@@ -1,14 +1,21 @@
 ---
 ID: 1711
-title: 'Jak jsme zakládali Mobil server a&nbsp;vyžebrali webhosting'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-jsme-zakladali-mobil-server-a-vyzebrali-webhosting
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-jsme-zakladali-mobil-server-a-vyzebrali-webhosting
+
+  '
 post_date: 2005-07-08 09:59:30
+post_excerpt: ''
+published: true
+summary_points:
+- Autor radil s výběrem mobilů známým, což vedlo k vytvoření webu o telefonech.
+- Web Telefony na Codalanu z roku 1996 nabízel přehled mobilů a rady pro nákup.
+- Stránky operátorů Eurotel a RadioMobil měly v roce 1996 neaktuální informace.
+- Vznikla konference gsm@bajt.cz a později Mobil server spojením několika webů.
+title: Jak jsme zakládali Mobil server a&nbsp;vyžebrali webhosting
 ---
+
 <p>Na svých předchozích cestách světem jsem se také setkal s mobilními telefony a u německého operátora Mannesmann, sponzora jedné z výprav, jsem se docela podrobně na školení seznámil s technologií GSM a byl jsem majitelem tehdy luxusního telefonu Siemens S3 spolu s kartou D2-Mannesmann. A tak v době, kdy Eurotel začínal nabízet služby sítě GSM a čekalo se na nabídku RadioMobilu, mi mnoho lidí známých, méně známých i mně absolutně neznámých začalo psát, zda bych jim mohl s výběrem telefonu poradit.
 </p>
 

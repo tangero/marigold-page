@@ -1,14 +1,21 @@
 ---
 ID: 1434
-title: CDMA je slepá ulička
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cdma-je-slepa-ulicka
-published: true
+oldlink: 'https://www.marigold.cz/item/cdma-je-slepa-ulicka
+
+  '
 post_date: 2004-12-07 12:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- CDMA je v ČR úspěšné kvůli nedostupnosti levného pevného internetu.
+- Většina CDMA uživatelů (95%) nepoužívá toto připojení mobilně.
+- EDGE má větší potenciál díky integraci do mobilních tarifů a zařízeních.
+- Operátoři by měli dotovat EDGE mobily, aby byly konkurenceschopné CDMA.
+title: CDMA je slepá ulička
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041207-nocdma.gif" alt="CDMA je slepá ulička" width="204" height="200" /></div><p>
 Ano, vím, že možná tnu do živého a že se mnou mnozí nebudete souhlasit, přesto si neodpustím tuto polemiku na téma CDMA. Vedly mě k tomu vlastně dvě události. První byla Wireless Wednesday minulý týden, kde jeden člověk v diskusi (<strike>myslím, že to byl pan Čermák z firmy LogicaCMG</strike> z firmy Logos - vytváří pro Eurotel jejich Office Connector) upozorňoval na to, že se ve světě diví, jak tu máme úžasně levné neomezené mobilní připojení a pan Ryšánek z Eurotelu přihazoval, že nikde na světě nemají tak velké pokrytí vysokorychlostním mobilním datovým připojením. Druhá příčina pak byl včerejší článek <a href="http://www.zive.cz/h/Uzivatel/AR.asp?ARI=120269">EDGE - internet ve stínu CDMA</a> na Živě. Autor - Ota Schön v něm srovnával rychlosti EDGE a CDMA a ke svému překvapení zjistil, že je CDMA dvakrát rychlejší. Mohlo by se zdát, že EDGE je předem odsouzen k zániku a že CDMA je nějaká super technologie, ale zkusím vysvětlit můj osobní pohled na věc. </p>
 

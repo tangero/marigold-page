@@ -1,14 +1,21 @@
 ---
 ID: 1664
-title: 'Story o&nbsp;sousedských sítích (15.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-15
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-15
+
+  '
 post_date: 2005-05-31 07:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Lokalita jedna je pro freenet mrtvá kvůli konkurenci UPC Chello.
+- Lokalita dvě úspěšně vytvořila vlastní CLOUD s "zabranými" IP adresami.
+- Kruhová topologie s mizernou viditelností potřebuje 100m k uzavření.
+- Pětigigahertzový spoj je prozatím odložen, čeká se na verdikt ČTÚ.
+title: Story o&nbsp;sousedských sítích (15.)
 ---
+
 <p>Tak se nám to pěkně vyvíjí. <br />
 <br />
 V lokalitě jedna jsme tak dlouho váhali s instalací pořádné antény na

@@ -1,14 +1,21 @@
 ---
 ID: 1171
-title: 'Já vím, že mne nebudete mít rádi &#8211; ale proč by Telecom měl zlevnit ADSL&#8230;?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ja-vim-ze-mne-nebudete-mit-radi-ale-proc-by-telecom-mel-zlevnit-adsl
-published: true
+oldlink: 'https://www.marigold.cz/item/ja-vim-ze-mne-nebudete-mit-radi-ale-proc-by-telecom-mel-zlevnit-adsl
+
+  '
 post_date: 2004-06-28 08:18:01
+post_excerpt: ''
+published: true
+summary_points:
+- Instalace ADSL nestíhají poptávku, čekací doby dosahují měsíců.
+- Telecom raději prodává méně ADSL linek dráže kvůli omezené kapacitě instalací.
+- Problémem českého ADSL není cena, ale pomalé zavádění a dostupnost.
+- Do konce roku se očekává atraktivnější ADSL s nižší cenou a větší dostupností.
+title: Já vím, že mne nebudete mít rádi &#8211; ale proč by Telecom měl zlevnit ADSL&#8230;?
 ---
+
 <p>
 Pročítal jsem statistiku o poměru instalovaných a objednaných linek ADSL, zjednodušeně na webu ji najdete <a href="http://www.internetprovsechny.cz/blesk.php?cbl=154">například zde</a>. Ze statistiky vyplývá jedno - instalace ADSL se nestíhají, je neustálý převis objednávek a to v řádu měsíce a půl, dvou měsíců. Situace se tedy prakticky nezměnila od začátku prodeje ADSL - na ADSL se v praxi musí docela čekat.</p>
 <p>

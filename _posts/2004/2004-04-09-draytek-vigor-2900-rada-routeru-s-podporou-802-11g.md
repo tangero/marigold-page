@@ -1,14 +1,21 @@
 ---
 ID: 978
-title: 'Draytek Vigor 2900 &#8211; řada routerů s&nbsp;podporou 802.11g'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/draytek-vigor-2900-rada-routeru-s-podporou-802-11g
-published: true
+oldlink: 'https://www.marigold.cz/item/draytek-vigor-2900-rada-routeru-s-podporou-802-11g
+
+  '
 post_date: 2004-04-09 07:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- Draytek uvádí na trh novou řadu routerů Vigor 2900 s podporou 802.11g.
+- Vigor 2900 nabízí čtyři LAN porty, USB pro tiskárnu, NAT, firewall a VPN tunely.
+- Model 2900i má ISDN modem, 2900G má WiFi, 2900Gi má obojí.
+- Vigor 2900 je vhodný pro firmy díky VPN/IPSec tunelům a vyšší bezpečnosti.
+title: Draytek Vigor 2900 &#8211; řada routerů s&nbsp;podporou 802.11g
 ---
+
 <p>
 Na český trh se dostává nová řada routerů z produkce Drayteku. Výrobky Drayteku jsou u nás poměrně oblíbené zejména u WISP, protože ačkoliv nemají tak hezké ovládání, jako "velké" značky, lze u nich provádět více detailnějších nastavení. Nová řada broadband routerů Vigor 2900 přináší podporu 802.11g a je opět určena pro připojení a vytvoření počítačové sítě do rychlého internetu (například přes ADSL). Vybavena je rychlejšími procesory ARM9 na 144 MHz.</p>
 

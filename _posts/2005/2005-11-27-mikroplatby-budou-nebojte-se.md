@@ -1,14 +1,21 @@
 ---
 ID: 1877
-title: 'Mikroplatby budou, nebojte se&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mikroplatby-budou-nebojte-se
-published: true
+oldlink: 'https://www.marigold.cz/item/mikroplatby-budou-nebojte-se
+
+  '
 post_date: 2005-11-27 18:12:06
+post_excerpt: ''
+published: true
+summary_points:
+- Pipay provize budí rozporuplné reakce kvůli vysokému podílu operátorů.
+- Operátoři preferují vysoké provize z menšího objemu plateb mobilních služeb.
+- Pipay pracuje na mikroplatebním systému s nižšími poplatky než Mplatby.
+- Nový platební nástroj Pipay bude fungovat jednoduše a bezpečně přes mobil.
+title: Mikroplatby budou, nebojte se&#8230;
 ---
+
 <p>Na <a href="http://www.pipay.cz/">Pipay</a> jsou zatím zajímavě polarizované reakce. Lidi, kteří se v platebních systémech moc nepohybují (používají je maximálně jako plátci, ale ne jako příjemci plateb) jsou vyvalení z provizí, které požadujeme. Ti, kdo jsou trochu v obraze, situaci chápou - část z naší provize musí ještě putovat k operátorovi. Jaká část to je, nemohu říci (NDA), ale můžete zkusit hádat, kdo dostane více, zda já nebo operátor. </p>
 
 <p>Proč to tak je, proč je operátor "nenažraný"? Důvod je snadný: operátor ví, že peníze určené pro platbu mobilního účtu jsou jen jedny. Pokud někdo zaplatí mobilem za loga a hry měsíčně dvě stovky, budou mu ty dvě stovky scházet pro placení telefonování nebo esemeskování. Operátor, který si nevezme pořádnou porci ze služeb partnerů, jde proti sobě, protože ve výsledku se o peníze obere. Všichni máme zafixováno, že náš měsíční účet je X korun. Pokud je vyšší, hledíme šetřit a dostat se zpět na X, nedumáme nad tím, že jsme si přes mobil nakoupili přístup na web, hry nebo loga. A z vlastních služeb má samozřejmě operátor lepší příjem, než ze služeb partnerů. Pak už je to prostá matematika a trocha práce s Excelem, aby operátor zjistil, že se mu vyplatí brát vysoké provize z menšího množství plateb, než nízké provize z většího objemu plateb, protože k němu ve výsledku doteče méně peněz. A to je to, o co kráčí a dokud se nezmění systém plateb díky nějakému přímému spojení s bankovním účtem nebo platební kartou, nečekejme řádové posuny provizí z mobilních plateb. </p>

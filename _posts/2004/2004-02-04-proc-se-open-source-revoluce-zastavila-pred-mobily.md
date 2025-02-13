@@ -1,16 +1,24 @@
 ---
 ID: 832
-title: >
-  Proč se open-source revoluce zastavila
-  před mobily?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-se-open-source-revoluce-zastavila-pred-mobily
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-se-open-source-revoluce-zastavila-pred-mobily
+
+  '
 post_date: 2004-02-04 07:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Open-source revoluce v IT se zastavila před mobilními technologiemi.
+- Důvodem absence open-source v mobilech je složitost hardwaru a frekvencí.
+- Softwarově definované rádio a vyšší vysílací výkony jsou klíčové pro open-source
+  mobily.
+- P2P open-source mobilní sítě čekají na svého Linuse a uvolnění frekvenčního pásma.
+title: 'Proč se open-source revoluce zastavila před mobily?
+
+  '
 ---
+
 <p>
 Na máločem se lze v IT shodnout, ale snad každý připustí, že open-source způsobilo v IT výrazné změny, jež by se daly nazvat i revolucí. Můžeme debatovat nad tím, zda jsou změny k lepšímu (svoboda, transparentnost, zrychlení vývoj&#160;peníze) nebo k horšímu (hackeři, zpomalení vývoje, ohrožení stability hospodářství), ale to je tak všechno. Jenže <STRONG>proč se u všech čertů zastavil open source před mobily?</STRONG> Neříkejte mi, že kohokoliv s open source komunity dojímají nějaké uzavřené standardy jako GSM, CDMA nebo UMTS a že kohokoliv z programátorů trápí to, že by museli vyvýjet řešení obcházející či nahrazující něčí patenty. </p>
 

@@ -1,16 +1,27 @@
 ---
 ID: 1464
-title: >
-  Proč ještě nemáme normu na
-  internetové připojení
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-jeste-nemame-normu-na-internetove-pripojeni
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-jeste-nemame-normu-na-internetove-pripojeni
+
+  '
 post_date: 2005-01-03 07:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- EU sjednocuje národní normy (např. ČSN) pro "eurounijní platnost", což média často
+  neinformovaně kritizují.
+- Normy, ač dobrovolné, usnadňují sjednocení požadavků, například u "rovné okurky"
+  pro velkoobchod.
+- Poskytovatelé internetu často vágně definují "neomezený" a "vysokorychlostní" připojení,
+  což klame uživatele.
+- Normalizace internetového připojení by měla jasně definovat kvalitativní parametry,
+  aby uživatelé chápali, co kupují.
+title: 'Proč ještě nemáme normu na internetové připojení
+
+  '
 ---
+
 <p>Často si média dělají legraci z posedlosti EU na všechno vytvořit normu. Je to zajímavá ukázka neinformovanosti novinářů, protože podobné normy na národní úrovni už dávno specifikuje ČSN jako Česká státní norma a EU pouze sjednocuje tyto národní normy tak, aby měly <i>&#8220;eurounijní platnost&#8221;</i>.</p>
 
 

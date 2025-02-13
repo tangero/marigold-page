@@ -1,16 +1,23 @@
 ---
 ID: 1015
-title: >
-  SMS na pevné lince aneb zavedli do
-  jeskyně elektřinu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sms-na-pevne-lince-aneb-zavedli-do-jeskyne-elektrinu
-published: true
+oldlink: 'https://www.marigold.cz/item/sms-na-pevne-lince-aneb-zavedli-do-jeskyne-elektrinu
+
+  '
 post_date: 2004-05-04 08:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- SMS z pevné linky služba existuje od roku 2002, původně od Fincomu.
+- Telecom začal službu SMS z pevné linky oficiálně podporovat s Telepointem.
+- Odeslání SMS z pevné linky zlevnilo na 1 Kč, PhoneBuddy stojí 1000 Kč.
+- Odpověď na SMS z pevné linky je drahá (4,80-8 Kč) a omezená operátory.
+title: 'SMS na pevné lince aneb zavedli do jeskyně elektřinu
+
+  '
 ---
+
 <p>
 Prý to má být nová služba - možnost posílat SMS zprávy i na pevné linky a především z nich. Není na ní nic nového ani u nás, poprvé se objevila někdy v roce 2002, kdy ji sem přitáhl Fincom. Vtip je dnes v tom, že Telecomu se služba zalíbila, nebo spíše se rozhodl, že vykáže nějakou činnost a službu tedy podpoří oficiálně a marketingově, takže dva roky stará služba dostala novou šťávu spolu s tím, jak ji už netlačí jen Fincom, ale i samotný Telecom a jeho prodejní síť Telepoint. S tím služba také zlevnila - původně stálo odeslání SMS z pevné linky 2 Kč, nově má promo cenu 1 Kč, PhoneBuddy (taková ta placka s klávesnicí a displejem pro psaní sms) stála dva litry, nyní jest za polovic. </p>
 

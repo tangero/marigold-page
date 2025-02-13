@@ -1,14 +1,21 @@
 ---
 ID: 1847
-title: 'Tak nějak mi vytekly nervy a&nbsp;koupil jsem si Mac Mini'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-nejak-mi-vytekly-nervy-a-koupil-jsem-si-mac-mini
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-nejak-mi-vytekly-nervy-a-koupil-jsem-si-mac-mini
+
+  '
 post_date: 2005-10-15 09:13:27
+post_excerpt: ''
+published: true
+summary_points:
+- Notebook uživatele selhal, což vedlo ke ztrátě neuložené knihy (150 000 znaků).
+- Ztráta dat vedla k rozhodnutí reorganizovat uživatelův "strojový park".
+- Notebook bude používán hlavně v kanceláři, aby se snížilo riziko poškození.
+- Uživatel si koupil Apple Mac Mini na domácí použití, aby si spravil náladu.
+title: Tak nějak mi vytekly nervy a&nbsp;koupil jsem si Mac Mini
 ---
+
 <p>Chudák MaLér asi celou noc čekal, jestli si ráno na Marigoldovi  přečte odsuzující hanopis svého miláčka. Ale vezměme to  popořádku.</p>
 
 <p>Ve čtvrtek jsem dorazil do práce, pustil notebook, chvíli pracoval  a pak jsem si šel koupit nějaké to pitivo. Přijdu do kanceláře a  na notebooku hrdě září modrá obrazovka smrti. Krčím rameny,  dávám restart, notes ještě bootuje, jenže pak už se mu nějak  nechce dotáhnout systém a začíná to v něm klapat. Diagnostika je  rychlá a krátká - náhlá smrt pevného disku.</p>

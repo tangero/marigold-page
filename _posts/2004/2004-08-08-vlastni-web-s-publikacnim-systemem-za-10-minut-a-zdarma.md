@@ -1,14 +1,22 @@
 ---
 ID: 1238
-title: 'Vlastní web s&nbsp;publikačním systémem za 10 minut a&nbsp;zdarma'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vlastni-web-s-publikacnim-systemem-za-10-minut-a-zdarma
-published: true
+oldlink: 'https://www.marigold.cz/item/vlastni-web-s-publikacnim-systemem-za-10-minut-a-zdarma
+
+  '
 post_date: 2004-08-08 23:16:13
+post_excerpt: ''
+published: true
+summary_points:
+- Webové stránky lze tvořit jednoduše pomocí publikačního systému s administračním
+  rozhraním.
+- Webzdarma.cz nabízí bezplatný prostor s podporou MySQL a PHP pro publikační systémy.
+- BLOG:CMS vyžaduje registraci na Webzdarma.cz, stažení systému a jazykového balíčku.
+- Instalace BLOG:CMS zahrnuje nahrání souborů, vyplnění údajů a úpravu práv souborů.
+title: Vlastní web s&nbsp;publikačním systémem za 10 minut a&nbsp;zdarma
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040808-vlastni-web1.jpg" alt="Publikační systém za 10 minut" width="138" height="101" /></div><p>
 Chcete-li mít vlastní webové stránky (blog), můžete je vytvářet v zásadě dvěma způsoby &#8211; jednoduše a složitě.</p>
 

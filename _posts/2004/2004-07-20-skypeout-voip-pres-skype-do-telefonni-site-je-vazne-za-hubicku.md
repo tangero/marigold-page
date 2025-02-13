@@ -1,14 +1,21 @@
 ---
 ID: 1204
-title: 'SkypeOut &#8211; VoIP přes Skype do telefonní sítě je vážně za hubičku'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/skypeout-voip-pres-skype-do-telefonni-site-je-vazne-za-hubicku
-published: true
+oldlink: 'https://www.marigold.cz/item/skypeout-voip-pres-skype-do-telefonni-site-je-vazne-za-hubicku
+
+  '
 post_date: 2004-07-20 14:24:40
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa.cz zveřejnila článek srovnávající VoIP služby pro SOHO uživatele.
+- Skype nabízí betatest volání do telefonní sítě (SkypeOut) všem registrovaným uživatelům.
+- SkypeOut umožňuje volání do 25 zemí za 46 haléřů za minutu (včetně DPH).
+- Kredit SkypeOut lze zakoupit online, ale po 180 dnech nespotřebovaný propadá.
+title: SkypeOut &#8211; VoIP přes Skype do telefonní sítě je vážně za hubičku
 ---
+
 <p>
 Dneska <a href="http://www.lupa.cz/clanek.php3?show=3505">vyšel na Lupě</a> můj článek věnovaný srovnání služeb VoIP s příchozím telefonním číslem z hlediska domácího či lépe řečeno SOHO uživatele. A při té příležitosti se v diskusi ukázalo, že betatestování pro volání do telefonní sítě je u <a href="http://www.skype.com/">Skype</a> otevřené všem registrovaným uživatelům. Jen to Skype nikde nepíše - a tak na to novináři doposud nepřišli. </p>
 <div class="rightbox"><img src="/wp-content/uploads/20040720-skype-headset.jpg" alt="Skype" width="96" height="96" /></div><p>

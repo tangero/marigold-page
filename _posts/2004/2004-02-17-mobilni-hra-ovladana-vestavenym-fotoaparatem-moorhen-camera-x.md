@@ -1,14 +1,21 @@
 ---
 ID: 865
-title: 'Mobilní hra ovládaná vestavěným fotoaparátem: Moorhen Camera X'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-hra-ovladana-vestavenym-fotoaparatem-moorhen-camera-x
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-hra-ovladana-vestavenym-fotoaparatem-moorhen-camera-x
+
+  '
 post_date: 2004-02-17 17:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Moorhen Camera X hra ovládá se pohybem telefonu snímajícího pozadí.
+- Mobile Scope uvádí mobilní verzi hry Slepičky ovládanou čočkou fotoaparátu.
+- Ovládání střelby zůstává vyhrazenou klávesou, nikoliv pohybem telefonu.
+- Siemens SX1 už dříve využíval ovládání kamerou v komáří hře.
+title: 'Mobilní hra ovládaná vestavěným fotoaparátem: Moorhen Camera X'
 ---
+
 <p>
 Čekal jsem, kdy někdo přijde s další praktickou ukázkou využití fotoaparátů vestavěných do mobilního telefonu. A hle, je to tady - tentokráte v zábavní oblasti, tam je to řádně třeba. <IMG height=208 alt="Moorhen Camera x" src="/wp-content/uploads/moorhen_camera_x.gif" width=176 align=right border=1>Už žádné snímání ISBN kódů z knížek a online porovnávání nabídek, tentokráte se čočka v mobilu využije přímo k ovládání hry. S inovací přichází firma Mobile Scope a jde o mobilní verzi Slepiček, hry Moorhen. Ta se na trh bude dodávat i ve verzi <STRONG>Moorhen Camera X,tedy ovládaná čočkou aparátu</STRONG>. </p>
 

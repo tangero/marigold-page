@@ -1,14 +1,22 @@
 ---
 ID: 1557
-title: 'První mezicloudový sraz CzFree.net proběhl v&nbsp;sobotu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prvni-mezicloudovy-sraz-czfree-net-probehl-v-sobotu
-published: true
+oldlink: 'https://www.marigold.cz/item/prvni-mezicloudovy-sraz-czfree-net-probehl-v-sobotu
+
+  '
 post_date: 2005-02-28 08:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- Sobotní mezicloudový sraz CzFree.Net v kině Aero byl úspěšně zorganizován Edorasem.
+- Přednášky zahrnovaly témata WiMax, BWA a optické spoje, Láďova přednáška byla nejlépe
+  hodnocena.
+- Odpoledne proběhlo hlasování a diskuse o CzFree, autor se nezúčastnil.
+- Fotografie a video ze srazu jsou dostupné online, zápis je na CzFree.net fóru.
+title: První mezicloudový sraz CzFree.net proběhl v&nbsp;sobotu
 ---
+
 <p>V sobotu proběhl první mezicloudový straz CzFree.Net, pořádal ho Edoras a musím říci, že se mu (a ostatním kolem) to povedlo. I když jsem mohl být jen na dopolední části. </p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20050228-mezicloudy.jpg" alt="Záběr hlediště ... " width="250" height="192" /></div>

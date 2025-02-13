@@ -1,14 +1,22 @@
 ---
 ID: 1242
-title: Chci bezdrátovou síť! (2)
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chci-bezdratovou-sit-2
-published: true
+oldlink: 'https://www.marigold.cz/item/chci-bezdratovou-sit-2
+
+  '
 post_date: 2004-08-10 09:38:16
+post_excerpt: ''
+published: true
+summary_points:
+- Bezdrátová síť využívá radiové vlny, Wi-Fi pracuje v bezlicenčním pásmu 2,4 GHz.
+- Wi-Fi produkty dle 802.11b by měly být interoperabilní, kupujte výrobky s Wi-Fi
+  logem.
+- Standard 802.11 je určen pro vnitřní sítě, venkovní sítě v ČR jsou výjimkou.
+- Venkovní sítě řeší kolize pomocí RTS/CTS, ad-hoc sítě se nedoporučují.
+title: Chci bezdrátovou síť! (2)
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040810-Outdoor Wi-Fi.jpg" alt="Venkovní síť" width="239" height="153" /></div><p>
 V této kapitole se budeme věnovat bezdrátovému „newspeaku&#8221;, slovům, která nezasvěcení nemusí chápat.</p>
 

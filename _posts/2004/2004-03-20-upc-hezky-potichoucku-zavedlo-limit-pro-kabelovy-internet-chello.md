@@ -1,16 +1,23 @@
 ---
 ID: 931
-title: >
-  UPC hezky potichoučku zavedlo limit pro
-  kabelový internet Chello
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/upc-hezky-potichoucku-zavedlo-limit-pro-kabelovy-internet-chello
-published: true
+oldlink: 'https://www.marigold.cz/item/upc-hezky-potichoucku-zavedlo-limit-pro-kabelovy-internet-chello
+
+  '
 post_date: 2004-03-20 21:08:00
+post_excerpt: ''
+published: true
+summary_points:
+- UPC Chello snížilo rychlost po překročení 15 GB u linky 256/96 Kb/s.
+- Limity UPC Chello nejsou uvedeny v podmínkách, informují emailem.
+- UPC neinformovalo uživatele o zavedení datových limitů dopředu.
+- UPC zrealizovalo přístupové body WiFi v Braníku, Krči a Nuslích.
+title: 'UPC hezky potichoučku zavedlo limit pro kabelový internet Chello
+
+  '
 ---
+
 <p>
 A máme to tady - není to tak dávno, co jsem psal o tom, že UPC se bude jistě chtít nějak zbavit neomezeného limitu na svém kabelovém internetu. A už se ho zbavil, hezky potichoučku. Pokud máte linku 256/96 Kb/s - tedy základní domácí Chello linku, srazí vám UPC rychlost <STRONG>po překročení 15 GB za měsíc na 64/64 Kb/s </STRONG>. Jaký je limit na linku 512/128 Kb/s, netuším. Nikde to oficiálně napsané není, dozvíte se to, až vám přijde email... V diskusi na <A href="http://www.dsl.cz/index.php?akce=2&amp;vlakno=14443&amp;i=1079814879" target=_blank>DSL.cz</A> jsem zase našel informace, že Chello Clasic má limit 5GB a Chello Plus 20GB - co je pravda, netuším. </p>
 

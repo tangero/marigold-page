@@ -1,14 +1,22 @@
 ---
 ID: 1324
-title: 'Eurotel spláchnul z&nbsp;CDMA sosače P2P sítí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-splachnul-z-cdma-sosace-p2p-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-splachnul-z-cdma-sosace-p2p-siti
+
+  '
 post_date: 2004-09-17 08:44:25
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel omezil P2P sítě přes CDMA snížením rychlosti stahování na 1,5 Kb/s.
+- Eurotel selektivně omezil P2P sítě kvůli sdílené kapacitě a nadměrnému stahování.
+- Omezení P2P sítí se týká hlavně stahování nelegálního obsahu, nikoliv legálních
+  souborů.
+- Autor textu s řešením Eurotelu souhlasí, považuje ho za nejméně špatné.
+title: Eurotel spláchnul z&nbsp;CDMA sosače P2P sítí
 ---
+
 <p>
 Už ve středu někdo na Marigoldu obspamovával diskusní fórum vyhlášením stávky proti Eurotelu, an omezil stahování z P2P sítí přes CDMA. Asi tři aktivnější jedinci od té doby pilně spamují řadu dalších diskusních fór s dojmem, že Eurotel se z toho posadí na pozadí a omezení zruší. </p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 1906
-title: Silničářská logika
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/silnicarska-logika
-published: true
+oldlink: 'https://www.marigold.cz/item/silnicarska-logika
+
+  '
 post_date: 2005-12-29 11:22:45
+post_excerpt: ''
+published: true
+summary_points:
+- Cesta z Dejvic do Přezletic byla komplikovaná kvůli neprotaženým silnicím až do
+  Čakovic.
+- Mezi Čakovicemi a Vinoří byl spatřen sypač s pluhem na strategické silnici.
+- Autor se ptá, zda je tato silnice tak důležitá, nebo jel řidič domů.
+- Autor navrhuje zveřejnit plán nasazení techniky při sněhové kalamitě.
+title: Silničářská logika
 ---
+
 <p><b>ook píše</b>: Tak jsem se včera probíjel z Dejvic ke
 skorotchánovi do Přezletic (díky za optání, od zakruhování topologie
 tam nám CZF cloud funguje dobře). Celou cestu až do Čakovic jsem se

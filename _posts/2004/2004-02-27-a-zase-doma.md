@@ -1,13 +1,19 @@
 ---
 ID: 886
-title: 'A zase doma&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
 oldlink: https://www.marigold.cz/item/a-zase-doma
-published: true
 post_date: 2004-02-27 09:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- Cesta autem z Cannes do Česka měří 1260 km a trvá 12-13 hodin.
+- Švýcarsko vyžaduje celoroční dálniční známku, Rakousko desetidenní.
+- Vánice ve Švýcarsku cestou domů upozornila na nutnost nových stěračů.
+- V Cannes se autor věnoval pracovním záležitostem a mobilní hudbě.
+title: A zase doma&#8230;
 ---
+
 <p>
 Cesta autem z Cannes přes Švýcarsko obnáší zhruba 1260 km a to dělá nějakých 12 -13 hodin jízdy, většinou se jede po dálnici, ve Francii a Itálii je pagáre (tedy placená), ve Švýcarsku na celoroční známku (prodám, nechcete?) a v Rakousku na desetidenní známku. Jenže od Švýcarska až na české hranice se nás držela nějaká sněhová vánice, což mi osvětlilo, že bych opravdu mohl pořídit nové stěrače. Nakonec jsme dojeli pozdě po půlnoci úplně hotoví, tedy alespoň já. </p>
 

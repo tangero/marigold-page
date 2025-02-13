@@ -1,14 +1,21 @@
 ---
 ID: 782
-title: 'Drobky: VoIP, WiFi čipset na 140 Mb/s a&nbsp;další'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-voip-wifi-cipset-na-140-mb-s-a-dalsi
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-voip-wifi-cipset-na-140-mb-s-a-dalsi
+
+  '
 post_date: 2004-01-08 08:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobil.cz pojednává o trendech internetové telefonie pro daný rok.
+- Světu sítí informuje o rozšíření Cisco Aironet o standard 802.11g.
+- Maďarsko zakázalo focení mobilními telefony na veřejných prostranstvích.
+- GlobespanVirata představila WiFi čipset PRISM Nitro MX s rychlostí 140 Mb/s.
+title: 'Drobky: VoIP, WiFi čipset na 140 Mb/s a&nbsp;další'
 ---
+
 <p>
 V Praze je mlha, snížek, v tom všem abych vyrazil do práce, jsem zvědav, kolik bouraček potkám...</p>
 

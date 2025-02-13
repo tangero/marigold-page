@@ -1,14 +1,21 @@
 ---
 ID: 1801
-title: Univerzální zvukový kodek ARDOR
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/univerzalni-zvukovy-kodek-ardor
-published: true
+oldlink: 'https://www.marigold.cz/item/univerzalni-zvukovy-kodek-ardor
+
+  '
 post_date: 2005-08-29 08:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- ARDOR je adaptibilní zvukový kodek, který mění bitrate a šířku pásma dle zvuku.
+- Univerzální kodeky, jako ARDOR, zlepšují kvalitu VoIP a hlasové komunikace.
+- ARDOR vyvinul tým Philipsových laboratoří a podpořila jej Evropská komise.
+- Evropská komise zvažovala volné patenty IST pro evropské firmy.
+title: Univerzální zvukový kodek ARDOR
 ---
+
 <p>Výzkumný tým Philipsových laboratoří dokončil práce na univerzálním zvukovém kodeku ARDOR, což byl v oblasti zvukových kodeků jeden z nejslibnějších počinů poslední doby. </p>
 
 <p>Ardor (Adaptive Rate-Distortion Optimised sound codeR) je narozdíl od ostatních kodeků pro kódování zvuku adaptibilní v obou rovinách, je schopen měnit svoji bitrate i šířku kódovaného pásma podle toho, jaký zvuk kóduje nebo pro jaký zvuk je určen. To je velmi podstatné, protože dnešní kodeky jsou většinou určeny pro kódování konkrétního typu zvuku, například GSM kodeky jsou určeny pro kódování hlasu a jsou velmi úsporné, jenže hudební nahrávka jimi přehrávaná má příšernou kvalitu. Ardor by se měl umět přizpůsobit a vždy najít nebo nechat uživatele zvolit optimální šířku pásma i rychlost vzorkování a tyto parametry také průběžně měnit dle změny potřeb a možností. </p>

@@ -1,14 +1,21 @@
 ---
 ID: 980
-title: 'Filipika proti GPSkám a&nbsp;technickým blbostem vůbec'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/filipika-proti-gpskam-a-technickym-blbostem-vubec
-published: true
+oldlink: 'https://www.marigold.cz/item/filipika-proti-gpskam-a-technickym-blbostem-vubec
+
+  '
 post_date: 2004-04-13 12:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- AGPS zrychluje určení polohy pomocí mobilní sítě před GPS.
+- GPS moduly s GPRS stahují mapy, ale jsou drahé.
+- Autor GPS prakticky nepoužívá, preferuje mapu a kompas.
+- GPS je pro běžné uživatele zbytečná, drahá technologie.
+title: Filipika proti GPSkám a&nbsp;technickým blbostem vůbec
 ---
+
 <p>
 V Cannes jsem byl na několika presentacích firem, které se chlubily svými software pro GPS a AGPS. Připomínám, že A-GPS je asistované GPS, kdy hrubé zaměření polohy provede mobilní síť podle základnových stanic a polohy mobilu vůči nim, tento údaj je předán klasickému satelitnímu GPS a to tuto polohu zpřesní. Místo několika minut trvajícího prvotního určení polohy, jaké známe z klasických GPS, má AGPS přesnou polohu během pár vteřin, což je opravdu citelný rozdíl. AGPS se rozmáhá zejména v USA <EM>(kde&#160;musí mobil od roku 2006 poskytnout polohu při volání na 911)&#160;</EM>a CDMA2000 sítích, kam ho cpe ve svých čipech Qualcomm (pod názvem GPSOne, <A href="http://vucako.bloguje.cz/35111_item.php" target=_blank>jak poučuje zde Kamojedov</A>). K nám tahle technika ale jednou dorazí taky. </p>
 

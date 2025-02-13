@@ -1,16 +1,23 @@
 ---
 ID: 866
-title: >
-  Verizon típnul aukci čísla
-  212-867-5309
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/verizon-tipnul-aukci-cisla-212-867-5309
-published: true
+oldlink: 'https://www.marigold.cz/item/verizon-tipnul-aukci-cisla-212-867-5309
+
+  '
 post_date: 2004-02-18 05:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- Aukce telefonního čísla 212-867-5309 dosáhla na eBay až 200 000 USD.
+- Verizon zrušil aukci čísla, protože John neměl právo ho prodávat.
+- John se odvolává na zákon o přenositelnosti, ale spor je o změnu kontaktu.
+- Dražitel chtěl na čísle zřídit erotickou linku, což se dalo očekávat.
+title: 'Verizon típnul aukci čísla 212-867-5309
+
+  '
 ---
+
 <p>
 Ještě včera večer, když jsem se díval, jak pokračuje aukce čísla 212-867-5309 (to je to číslo z písničky Tommy Tutone), bylo na "tachometru" více jak 80 000 dolarů. Aukce se sice jednu chvíli přehoupla přes 200 000 USD, tedy k pěti milionům korun, pak ale zasáhlo eBay, prověřilo pár přihazujících a cena se dostala zpět k osmdesáti tisícům dolarů, tedy na "pouhé" dva miliony korun. Údajně se ještě vyšplhala přes 90 000 USD, to jsem ale už nezaregistroval. A mezi tím zasáhl Verizon, telefonní operátor, u něhož je číslo připojeno. <STRONG>Verizon prohlásil, že je vlastníkem čísla a na eBay toto číslo nabízející John ho nemá právo prodávat.</STRONG> eBay na to konto aukci smazalo. </p>
 

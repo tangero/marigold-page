@@ -1,14 +1,23 @@
 ---
 ID: 902
-title: 'Mobildrobky: americká CDMA2000 EV-DO Monet to balí, LBS pro hry'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobildrobky-americka-cdma2000-ev-do-monet-to-bali-lbs-pro-hry
-published: true
+oldlink: 'https://www.marigold.cz/item/mobildrobky-americka-cdma2000-ev-do-monet-to-bali-lbs-pro-hry
+
+  '
 post_date: 2004-03-07 18:19:00
+post_excerpt: ''
+published: true
+summary_points:
+- Monet Mobile Network, první americká CDMA2000 1x EV-DO síť, končí provoz 2. dubna
+  2004.
+- Eurotel zvažuje nasazení technologie podobné té, kterou používal Monet s frekvencí
+  1,25 MHz.
+- Nokia rozšiřuje sítě TeliaSonera o EDGE v Norsku, Švédsku, Finsku a Dánsku.
+- SingTel spustil LBS hru via SMS/Java, umožňující vyhledávání a "střílení" na protivníky.
+title: 'Mobildrobky: americká CDMA2000 EV-DO Monet to balí, LBS pro hry'
 ---
+
 <p>
 První americká síť <STRONG>CDMA2000 1x EV-DO </STRONG><A href="http://www.monetmobile.com/" target=_blank><STRONG>Monet</STRONG></A> patřící firmě Monet Mobile Network ukončí svůj provoz 2. dubna 2004. Síť nabízela přístup k rychlým datovým službám v osmi městech Jižní a Severní Dakoty, Wisconsinu a Minnesoty od roku 2002, kdy byla vlastně pilotní předváděčkou 3G sítě od Qualcommu, ačkoliv nenabízela hlasové služby. Důvodem má být nedostatečný počet zákazníků, firma jich získala jen pár tisícovek. </p>
 

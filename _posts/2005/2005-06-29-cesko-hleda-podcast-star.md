@@ -1,14 +1,21 @@
 ---
 ID: 1698
-title: Česko hledá podcast star
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesko-hleda-podcast-star
-published: true
+oldlink: 'https://www.marigold.cz/item/cesko-hleda-podcast-star
+
+  '
 post_date: 2005-06-29 09:04:29
+post_excerpt: ''
+published: true
+summary_points:
+- Podcasty mají v Česku a na Slovensku mizivé rozšíření a málo dostupných zdrojů.
+- Málo rozšířené MP3 přehrávače a nezvyk na talk-show mohou být příčinou.
+- Autor uvažuje o tvorbě podcastu z konferencí, ale řeší jazyk a lenost.
+- Marek Lutonský by mohl být prvním zpravodajským podcasterem díky nahrávání mobilů.
+title: Česko hledá podcast star
 ---
+
 <p>Vypůjčil jsem si titulek <a href="http://www.maler.cz/index.php?id=505">MaLérova článku</a>, protože je to tak. Podcast má v Česko/Slovensku zatím jen velmi mizivé rozšíření, co se dostupných zdrojů týká. Kromě projektu <a href="http://www.infoset.com/rss/">D. Pedéra</a>, kde Violka automaticky načítá texty a kromě Rádia Acropolis s jeho talk-show nevím o jediném podcastu v ČR. A myslím, že jsem hledal dobře. </p>
 
 <p>Čím to je? Je to tím, že MP3 přehrávače (a zejména iPody) jsou u nás málo rozšířené? Někde <a href="http://www.mpx.cz/clanek.asp?cl=14063">jsem četl</a>, že se u nás letos má prodat 20 000 kusů iPodů, to není málo. Nebo je to tím, že u nás lidé nejsou na talk-show vůbec zvyklí, protože rádia je až na malé výjimky nedělají? Nebo je rádia nedělají, protože lidé talk-show vůbec neposlouchají? Nebo je to začarovaný kruh?</p>

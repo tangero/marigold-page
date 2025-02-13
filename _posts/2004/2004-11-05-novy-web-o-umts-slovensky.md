@@ -1,14 +1,21 @@
 ---
 ID: 1390
-title: 'Nový web o&nbsp;UMTS (Slovensky)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/novy-web-o-umts-slovensky
-published: true
+oldlink: 'https://www.marigold.cz/item/novy-web-o-umts-slovensky
+
+  '
 post_date: 2004-11-05 13:13:11
+post_excerpt: ''
+published: true
+summary_points:
+- UMTS.site.cz je nový slovenský web věnovaný UMTS technologii.
+- Web obsahuje devět kapitol o základech UMTS.
+- Text je založen na diplomové práci a je psán vážnějším stylem.
+- Web se zaměřuje na základy UMTS, ne na budoucí vývoj.
+title: Nový web o&nbsp;UMTS (Slovensky)
 ---
+
 <p>
 K už existujícím (či spíše neexistujícím, protože toho fakt moc není) webům věnovaným UMTS se přidává jedna slovensky psaná novinka a to na adrese <a href="http://umts.site.cz">umts.site.cz</a>.</p>
 

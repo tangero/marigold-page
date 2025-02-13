@@ -1,14 +1,21 @@
 ---
 ID: 907
-title: 'GPRS roaming &#8211; účet za 3500 USD&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/gprs-roaming-ucet-za-3500-usd
-published: true
+oldlink: 'https://www.marigold.cz/item/gprs-roaming-ucet-za-3500-usd
+
+  '
 post_date: 2004-03-09 18:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- Joi Ito zaplatil 3500 USD za GPRS roaming s T-Mobile během cestování.
+- Eurotel účtuje v Německu až 1000 Kč za 1 MB dat v GPRS roamingu.
+- T-Mobile nabízí paušální cenu 210 Kč za 1 MB dat v GPRS roamingu.
+- Mobilní data via GPRS/UMTS jsou předražená a sítě by neunesly veškerý provoz.
+title: GPRS roaming &#8211; účet za 3500 USD&#8230;
 ---
+
 <p>
 Nevím, jestli znáte Joi Ito, to je japonský bloger, takový pošuk asi tak jako já <EM>(ehm a venture kapitalista)</EM>, pořád laboruje s novými technologiemi a je příjemné si jeho weblog číst, protože samozřejmě v Japonsku se dá laborovat s jinými hračkami, než tady u nás. I když dlužno dodat, že nejsme sto let za opicemi, jen se v některých vymoženostech míjíme. A Joi Ito si pořídil Nokia 6600, sbalil notebook a vyrazil do světa, kde si datových přenosů s T-Mobile užíval plnými doušky. Samozřejmě v roamingu a samozřejmě via GPRS. Nu a<STRONG> teď mu přišel účet na 3500 USD. </STRONG></p>
 

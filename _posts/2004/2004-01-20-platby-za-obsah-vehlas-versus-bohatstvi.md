@@ -1,14 +1,21 @@
 ---
 ID: 800
-title: 'Platby za obsah: Věhlas versus bohatství'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/platby-za-obsah-vehlas-versus-bohatstvi
-published: true
+oldlink: 'https://www.marigold.cz/item/platby-za-obsah-vehlas-versus-bohatstvi
+
+  '
 post_date: 2004-01-20 07:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mikroplatby za obsah na internetu nemají úspěch.
+- Szabo popisuje mentální transakční náklady jako problém mikroplateb.
+- Článek se zabývá důvody neúspěchu mikroplatebních systémů.
+- Shirky a Szabo poskytli autorovi zajímavé teze o mikroplatbách.
+title: 'Platby za obsah: Věhlas versus bohatství'
 ---
+
 <p>
 Původně to měl být blogspot, pak se mi ale ta úvaha o mikroplatbách a placení za obsah trochu natáhla, takže jsem ji dal jako článek. </p>
 

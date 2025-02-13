@@ -1,14 +1,22 @@
 ---
 ID: 903
-title: 'Drobky: Contactel prý převezmou ČRa, T-Mobile pro váš lepší svět, javový benchmark pro mobily a&nbsp;java hry'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-contactel-pry-prevezmou-cra-t-mobile-pro-vas-lepsi-svet-javovy-benchmark-pro-mobily-a-java-hry
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-contactel-pry-prevezmou-cra-t-mobile-pro-vas-lepsi-svet-javovy-benchmark-pro-mobily-a-java-hry
+
+  '
 post_date: 2004-03-08 09:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- Contactel by měly převzít České Radiokomunikace, které ovládá Deutsche Bank.
+- T-Mobile zavádí nový slogan "Pro Váš lepší svět" a vizuální podobu reklam.
+- JBenchmark je midlet pro otestování výkonu mobilního telefonu.
+- StrategyWar je česká java hra od RedBoss týmu, inspirovaná hrou Dune.
+title: 'Drobky: Contactel prý převezmou ČRa, T-Mobile pro váš lepší svět, javový benchmark
+  pro mobily a&nbsp;java hry'
 ---
+
 <p>
 Dnešní Euro píše o tom, o čem se už nějakou chvíli spekuluje, totiž o tom, že <STRONG>Contactel by měly převzít České Radiokomunikace</STRONG>. Na konci řetězu ale je stále Deutsche Bank, která ovládá ČRa přes Bivideon. Podle všeho by České Radiokomunikace Contactel nacucly do sebe a značku by použily jako značku pro komunikaci se zákazníky, protože značka Bluetone je zatím docela málo známa. Ještě jste se v motanicích kolem Contactelu a jeho prodeje neztratili? </p>
 

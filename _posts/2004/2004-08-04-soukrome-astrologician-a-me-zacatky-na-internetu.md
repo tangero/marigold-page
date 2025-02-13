@@ -1,14 +1,21 @@
 ---
 ID: 1232
-title: 'Soukromé: Astrologician a&nbsp;mé začátky na internetu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/soukrome-astrologician-a-me-zacatky-na-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/soukrome-astrologician-a-me-zacatky-na-internetu
+
+  '
 post_date: 2004-08-04 07:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobil server vznikal v době nástupu GSM v ČR, roku 1996.
+- Autor získal internetové připojení od INECu pro komunikaci a získávání podkladů.
+- První aktivitou autora byl převod Astrologician BBS na internetové stránky.
+- Hosting pro Astrologician poskytl Codalan, později Internext 2000 kvůli rychlosti.
+title: 'Soukromé: Astrologician a&nbsp;mé začátky na internetu'
 ---
+
 <p>
 Začátky Mobil serveru sahají do poloviny roku 1996, tedy do doby, kdy v ČR přicházely na trh telefony GSM nahrazující dosluhující analogový a předražený systém NMT.  K jeho startu na samostatné doméně <a href="http://www.mobil.cz/">www.mobil.cz</a> je ale ještě dlouhá cesta a bude mnoho projít lecjakou překážku. </p>
 

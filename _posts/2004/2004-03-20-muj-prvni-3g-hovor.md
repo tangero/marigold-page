@@ -1,14 +1,21 @@
 ---
 ID: 930
-title: Můj první 3G hovor
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/muj-prvni-3g-hovor
-published: true
+oldlink: 'https://www.marigold.cz/item/muj-prvni-3g-hovor
+
+  '
 post_date: 2004-03-20 10:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor uskutečnil první 3G hovor s Twist kartou v síti T-Mobile D.
+- T-Mobile překvapilo funkční 3G volání, 3G služby budou povoleny později.
+- Německý T-Mobile začne prodávat Nokia 7600, UMTS mobil bez videohovorů.
+- G datové přenosy byly rychlé, ale s citelnou latencí radiového připojení.
+title: Můj první 3G hovor
 ---
+
 <p>
 Tak jsem ve čtvrtek provedl svůj první hovor v živé 3G síti (tedy ne na nějakém testovacím polygonu, kde všechno musí fungovat...).&#160; Ponejprv se ukázalo, že moje Twist karta (bývalý tarif, speciálně vyměněný na USIM kartu) je zcela v pořádku a schopna 3G hovoru, jen se musí vylézt ze železobetonové kóje tiskového centra a experimentovat venku. Tam se Siemens U15 ihned chytnul, přihlásil mne do 3G sítě T-Mobile D (v telefonu jsem nastavil, že povoluji jen WCDMA sítě, tedy evropské 3G). Pak už jsem jen zakřičel na Vreca, ať mi zavolá, nadiktoval jsem mu číslo a za chvilku už jsem přijal svůj první 3G hovor. Drobnou vadou na kráse bylo, že jsme od sebe stáli asi deset metrů, takže dojem zkreslovalo to, že jsem slyšel o vteřinu dříve, co Vreco říká v reálu, než mi skrze mobil doputoval jeho hlas, ale jinak to bylo parádní, zvuk čistoučký, no jako bychom stáli kousek od sebe ;)</p>
 

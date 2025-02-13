@@ -1,16 +1,23 @@
 ---
 ID: 1309
-title: >
-  Uvolnění pásma 5 GHz pro bezdráty
-  letos nečekejme
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/uvolneni-pasma-5-ghz-pro-bezdraty-letos-necekejme
-published: true
+oldlink: 'https://www.marigold.cz/item/uvolneni-pasma-5-ghz-pro-bezdraty-letos-necekejme
+
+  '
 post_date: 2004-09-09 14:36:04
+post_excerpt: ''
+published: true
+summary_points:
+- GHz pásmo zpřístupněno pro RLAN nejdříve v prvním čtvrtletí 2005.
+- CEPT/ECC přijalo aktualizované rozhodnutí ECC/DEC/(04)08 s účinností 12. 11. 2004.
+- Evropská komise (EC) dosud neobdržela zdůvodňovací zprávu k rozhodnutí.
+- Generální licence v ČR bude vydána až po souhlasu EC, nejdříve Q1 2005.
+title: 'Uvolnění pásma 5 GHz pro bezdráty letos nečekejme
+
+  '
 ---
+
 <p>
 Abych měl všechny rány od ČTÚ v jednom dni, vyšla dnes na webu ČTÚ &#8220;Informace o stavu přípravy využití kmitočtového pásma 5 GHz systémy RLAN&#8221;. Pokud to chcete stručně a jasně, zpřístupnění frekvencí v pásmu 5 GHz se neočekává před prvním čtvrtletím 2005 (tedy velké zpoždění oproti původnímu plánu). Dále cituji <a href="http://www.ctu.cz/art.php?iSearch=&amp;iArt=452">z webu ČTÚ</a>.</p>
 

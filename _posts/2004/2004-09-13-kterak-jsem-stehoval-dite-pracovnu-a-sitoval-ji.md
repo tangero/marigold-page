@@ -1,14 +1,21 @@
 ---
 ID: 1315
-title: 'Kterak jsem stěhoval Ditě pracovnu a&nbsp;síťoval ji…'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kterak-jsem-stehoval-dite-pracovnu-a-sitoval-ji
-published: true
+oldlink: 'https://www.marigold.cz/item/kterak-jsem-stehoval-dite-pracovnu-a-sitoval-ji
+
+  '
 post_date: 2004-09-13 08:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vestavěná skříň od truhláře umožnila vybalení věcí a přesun pracovny.
+- WiFi signál mezi patry nefungoval po přesunu Ditiny pracovny.
+- CDMA modem nefungoval, i přes aktivaci a AT příkaz selhával.
+- Koupě PAN-10 antény v Lublaňské vyřešila problém s internetem v pracovně.
+title: Kterak jsem stěhoval Ditě pracovnu a&nbsp;síťoval ji…
 ---
+
 <p>
 Bydlení v novém bytě se minulý týden dostalo do nové fáze. Namontovali nám vestavěnou skříň, takže bylo možno začít vybalovat věci ze stěhovacích krabic do skříně. </p>
 

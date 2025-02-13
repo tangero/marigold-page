@@ -1,14 +1,21 @@
 ---
 ID: 1014
-title: 'Tisková zpráva: Hypermegaportálový projekt Přehled.net vstupuje do ČR'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tiskova-zprava-hypermegaportalovy-projekt-prehled-net-vstupuje-do-cr
-published: true
+oldlink: 'https://www.marigold.cz/item/tiskova-zprava-hypermegaportalovy-projekt-prehled-net-vstupuje-do-cr
+
+  '
 post_date: 2004-05-03 16:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- Přehled.net je nový česko-švýcarský projekt Olmer Media a Marigold Networks.
+- Investice do Přehled.net přesáhly 400 Kč, nejvíce za doménu.
+- Přehled.net je agregátor technického zpravodajství, analyzuje zprávy z českých serverů.
+- Ajoj Time Warning plánuje veřejný úpis akcií v americkém Nazdar.
+title: 'Tisková zpráva: Hypermegaportálový projekt Přehled.net vstupuje do ČR'
 ---
+
 <p>
 <EM>(Praha - Ženeva 3.5. 2004)</EM> Dvě vedoucí weblogerské společnosti Olmer Media a Marigold Networks oznamují spuštění ojedinělého projektu Přehled.net (<A href="http://www.prehled.net/">www.prehled.net</A>). Tento projekt budou provozovat v společném česko-švýcarském joint-venture nazvaném Ajoj Time Warning. </p>
 

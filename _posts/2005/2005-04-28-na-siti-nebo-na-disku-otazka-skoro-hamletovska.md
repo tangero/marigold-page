@@ -1,14 +1,21 @@
 ---
 ID: 1628
-title: 'Na síti nebo na disku &#8211; otázka skoro hamletovská'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/na-siti-nebo-na-disku-otazka-skoro-hamletovska
-published: true
+oldlink: 'https://www.marigold.cz/item/na-siti-nebo-na-disku-otazka-skoro-hamletovska
+
+  '
 post_date: 2005-04-28 09:38:06
+post_excerpt: ''
+published: true
+summary_points:
+- Souboj Blue-Ray a HD DVD může prohrát s rozvojem síťových technologií.
+- Rychlé mobilní sítě umožní streamování a ukládání dat online namísto lokálních disků.
+- Vysokokapacitní DVD jsou nepraktické pro zálohování, nahrazují je pevné disky.
+- Budoucí rozvoj sítí a cloudových služeb zpochybňuje smysl fyzických médií.
+title: Na síti nebo na disku &#8211; otázka skoro hamletovská
 ---
+
 <p>Pročítal jsem v poslední době řadu materiálů k novým formátům vysokokapacitního DVD. Celý technický svět vzrušuje, zda v souboji vyhraje Blue-Ray nebo HD DVD. Jenže co když nevyhraje nic? Co když to bude plichta? Ne plichta proto, že to bude půl na půl, ale proto, že se tyhle formáty stanou okrajovými, prakticky nepoužívanými? Všímají si toho i v posledním Wired, i v pár dalších médiích – souboj už není o tom, který formát DVD, ale zda vyhraje síť nebo disk. </p>
 
 <p>Už dlouho se o tom spekuluje a pořád nebyl ten správný čas. Pořád bylo pro mobilní zařízení a jejich uživatele podstatně pohodlnější uložit data na malý disk v zařízení, než je posílat po síti a ukládat centrálně. Nepomohlo v tom ani GPRS a zdá se, že ani EDGE. Jenže to vypadá, že nové síťové technologie v WCDMA a EV-DO sítí by mohly dojít podstatně dál, takže už bude SKORO jedno, zda fotku uložíte do paměti telefonu a nebo ji rovnou pošlete do svého fotoalba u operátora. A že by mohlo být jedno, zda si filmeček stáhnete do paměti nebo zda si ho budete streamovat přímo ze sítě. </p>

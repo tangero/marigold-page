@@ -1,14 +1,21 @@
 ---
 ID: 1306
-title: 'Drobky: BWA presentace, 3G Týden a&nbsp;Nečekaný paušál'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-bwa-presentace-3g-tyden-a-necekany-pausal
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-bwa-presentace-3g-tyden-a-necekany-pausal
+
+  '
 post_date: 2004-09-08 08:08:00
+post_excerpt: ''
+published: true
+summary_points:
+- Přednáška o bezdrátových sítích na First Tuesday byla časově přetažena.
+- G Týden byl definitivně přesunut na server Mobil.cz.
+- Na Lupě vyšel článek o nečekaném paušálu pro dial-up připojení.
+- ČTÚ zvažuje zastavení internetu na geografických číslech.
+title: 'Drobky: BWA presentace, 3G Týden a&nbsp;Nečekaný paušál'
 ---
+
 <p>
 Včera bylo WiFi věnované First Tuesday, měl jsem tam přednášku věnovanou bezdrátovým sítím nazvanou Kde jsme a kam kráčíme (či tak nějak). Můj pokus udělat průřez budoucností i přítomností bezdrátových sítí ve dvaceti minutách skončil fiaskem - přetáhl jsem opravdu hodně hodně a to prakticky nezbyl čas se věnovat něčemu podrobněji. Ach jo - a to jsem prezentaci dělal z nějaké přednášky starší, bohužel skoro dvouhodinové :) V každém případě PowerPoint <a href="http://www.marigold.cz/download/bwa.ppt">prezentace je zde</a>.</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1829
-title: 'To je fičák&#8230; (úvaha před pizzou)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/to-je-ficak-uvaha-pred-pizzou
-published: true
+oldlink: 'https://www.marigold.cz/item/to-je-ficak-uvaha-pred-pizzou
+
+  '
 post_date: 2005-09-22 15:56:42
+post_excerpt: ''
+published: true
+summary_points:
+- Venezia nabízí pizzu za poloviční cenu po třetí hodině odpoledne.
+- Čínská restaurace u Otakarovy zve na prohlídku kuchyně kvůli konkurenci.
+- Slogany z reality show VyVolení zdomácněly a jsou populární.
+- Virtuální realita může způsobit, že vzhled v ní bude důležitější.
+title: To je fičák&#8230; (úvaha před pizzou)
 ---
+
 <p>Dorazil jsem si do Venezie o půl čtvrté na pizzu, mají ji tu za poloviční cenu po třetí hodině a dříve jsem se na oběd nedostal. 
 Cestou mne zaujal plakát na mé oblíbené čínské restauraci na křižovatce u Otakarovy ulice. Majitel zve všechny zájemce na prohlídku kuchyně a hlásá, že hygienické standardy ctí. Nedivím se téhle akci. V okolí synkáče je minimálně šestice čínských vývařoven a podezřele mnoho z nic vyhlásilo dovolené poté, co kolem prolétlo komando hygienika. Na obranu té mé oblíbené na otakarce musím řící, že tam vaří dobře, hygienika zvládli, ale přeci jen je tu znát odliv klientů a já čínu každý den přeci jen nemusím. Leč akci s vizitou kuchyně chválím a beru.</p>
 

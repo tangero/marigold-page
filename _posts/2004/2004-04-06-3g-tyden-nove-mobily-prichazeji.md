@@ -1,14 +1,21 @@
 ---
 ID: 968
-title: '3G Týden: nové mobily přicházejí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3g-tyden-nove-mobily-prichazeji
-published: true
+oldlink: 'https://www.marigold.cz/item/3g-tyden-nove-mobily-prichazeji
+
+  '
 post_date: 2004-04-06 08:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vodafone Italia spouští 3G roaming v Británii, Portugalsku a Španělsku od 1. dubna.
+- Švédský operátor 3 nabízí zdarma hovory a videohovory ve vlastní síti.
+- NEC c616 se prodává v Hong Kongu s baterií o výdrži až 277 hodin.
+- NTT DoCoMo má přes 3 miliony uživatelů 3G sítě FOMA.
+title: '3G Týden: nové mobily přicházejí'
 ---
+
 <p>
 Síť Vodafone Italia začíná do svých 3G služeb zahrnovat i roaming. Roamovat mohou od 1. dubna (a není to apríl) v 3G sítích v Británii, Portugalsku a Španělsku, pracuje se na zprovoznění roamingu s Francií, Holandskem, Řeckem, Švédskem a Japonskem. </p>
 

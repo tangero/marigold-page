@@ -1,15 +1,25 @@
 ---
 ID: 1349
-title: 'Bláznův turboúvod do UMTS &#8211; jak vypadá síť'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- UMTS
+- 3G
+- Turboúvod do mobilních sítí
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/blaznuv-turbouvod-do-umts-jak-vypada-sit
-published: true
+oldlink: 'https://www.marigold.cz/item/blaznuv-turbouvod-do-umts-jak-vypada-sit
+
+  '
 post_date: 2004-10-07 09:26:24
-categories: [UMTS, 3G, Turboúvod do mobilních sítí]
+post_excerpt: ''
+published: true
+summary_points:
+- UMTS není technický zázrak, vychází z GSM a nepřineslo revoluci.
+- Jádro sítě UMTS tvoří počítače řídící síť, například routery a ústředny.
+- Přístupová síť UMTS, UTRAN, využívá základnové stanice (NodeB a RNC).
+- UMTS Release 99 je GSM posunuté do 3G pásma s širším kanálem.
+title: Bláznův turboúvod do UMTS &#8211; jak vypadá síť
 ---
+
 <p>
 Pokud jde řeč o UMTS, většinou se tato síť třetí generace tváří jako technický zázrak, jako složitý a komplexní systém a jako taková je i popisována. Moudré knihy vás v patnácti kapitolách provedou nástrahami tří stovek zkratek, které obsahuje norma UMTS ve svém prvním vydání, což odradí většinu. Zkusme si ale UMTS rozebrat jinak. </p>
 
@@ -78,4 +88,3 @@ Na závěr: uvědomme si také historická fakta. UMTS standard začal vznikat j
 <p>
 Zatímco GSM bylo v roce 1992, kdy první GSM sítě startovaly, s rychlostí dat na výši své doby (9,6 Kb/s uměly tehdy nejlepší modemy), o UMTS se to dnes říci nedá. A zdá se, že toto opomenutí vývojového trendu došlo i standardizátorům.
 </p>
-

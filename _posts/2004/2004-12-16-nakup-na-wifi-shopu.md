@@ -1,14 +1,21 @@
 ---
 ID: 1447
-title: Nákup na WiFi shopu
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nakup-na-wifi-shopu
-published: true
+oldlink: 'https://www.marigold.cz/item/nakup-na-wifi-shopu
+
+  '
 post_date: 2004-12-16 10:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- Wline W 4000 AP umí omezovat šířku pásma pro jednotlivé klienty.
+- SuperG noname routery budou testovány a případně publikovány příští týden.
+- WiFiShop.cz má nový on-line chat s prodejci a on-line stav skladových zásob.
+- WiFiShop.cz je největší prodejce bezdrátových prvků v ČR pro mnohé výrobce.
+title: Nákup na WiFi shopu
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041216-4000.jpg" alt="Wline 4000" width="223" height="202" /></div><p>
 (update - byl jsem upozorněn zástupcem jednoho distributora, že jsem se
 asi nechal příliš unést, a měl pravdu, za což se mu omlouvám - ještě to

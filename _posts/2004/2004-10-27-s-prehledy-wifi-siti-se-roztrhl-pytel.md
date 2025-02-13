@@ -1,14 +1,21 @@
 ---
 ID: 1374
-title: S přehledy WiFi sítí se roztrhl pytel
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/s-prehledy-wifi-siti-se-roztrhl-pytel
-published: true
+oldlink: 'https://www.marigold.cz/item/s-prehledy-wifi-siti-se-roztrhl-pytel
+
+  '
 post_date: 2004-10-27 14:36:26
+post_excerpt: ''
+published: true
+summary_points:
+- Marigoldova databáze WiFi hotspotů se smísila s body pro trvalé připojení.
+- Internet pro všechny vytvořil seznam přípojných bodů pro trvalé připojení.
+- Lupa a Mobil.cz také spustily databáze WiFi bodů a připojení.
+- Marigold ztratil motivaci k vývoji databáze kvůli odchodu a mapovým podkladům.
+title: S přehledy WiFi sítí se roztrhl pytel
 ---
+
 <p>
 Když jsem začínal s přehledem WiFi sítí na Marigoldovi, nic podobného u nás neexistovalo a pokud jste chtěli najít nějaké hotspoty, museli jste složitě prohledávat weby všech poskytovatelů. Za ty dva roky se ale situace změnila. Tak především se ukázalo, že nedonutím lidi zadávat do té marigoldí databáze pouze skutečné hotspoty, tedy přípojné body s přístupem možným snadno z ulice a placeným na bázi ad-hoc (když už ne zdarma), bez nutnosti paušální měsíční platby. Do databáze to zaneslo trochu zmatek, protože se hotspoty smíchaly s přípojnými body pro trvalé připojení. </p>
 

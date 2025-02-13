@@ -1,14 +1,23 @@
 ---
 ID: 953
-title: 'Mobildrobky: reklama z&nbsp;plakátu do mobilu, FOMA pro UMTS/GSM, WiFi je v&nbsp;Polsku dvakrát dražší než u&nbsp;nás&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobildrobky-reklama-z-plakatu-do-mobilu-foma-pro-umts-gsm-wifi-je-v-polsku-dvakrat-drazsi-nez-u-nas
-published: true
+oldlink: 'https://www.marigold.cz/item/mobildrobky-reklama-z-plakatu-do-mobilu-foma-pro-umts-gsm-wifi-je-v-polsku-dvakrat-drazsi-nez-u-nas
+
+  '
 post_date: 2004-03-29 09:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Japan Ubiquitous Systems vyvinula multimediální rozšíření pro reklamní plakáty s
+  infraportem.
+- NTT DoCoMo uvede mobil pro FOMA, UMTS/GSM sítě a roamingové smlouvy.
+- Lupa.cz publikovala článek o růstu mobilního připojení přes internet dle iAuditu.
+- MobilMania porovnává nabídku WiFi od českých operátorů, v Polsku je dražší.
+title: 'Mobildrobky: reklama z&nbsp;plakátu do mobilu, FOMA pro UMTS/GSM, WiFi je
+  v&nbsp;Polsku dvakrát dražší než u&nbsp;nás&#8230;'
 ---
+
 <p>
 Japonská firma <A href="http://j-u-s.co.jp/" target=_blank>Japan Ubiquitous Systems</A> vyvinula <STRONG>multimediální rozšíření pro reklamní plakáty</STRONG>. Celá věc využívá faktu, že v Japonsku je prakticky každý mobil vybavený infraportem a je tak možno do mobilu posílat obrázky. Zařízení se tedy montuje k plakátům a stačí na něj zamířit telefon a dostanete do mobilu další rozšiřující informace k tématu plakátu, například podrobnější ceník, mapku, slevový kupon atd. Zatím se to testuje u východu 8 ve stanici Tameike-Sanno v Tokiu (kdybyste měli cestu kolem), ale v květnu by měly následovat další stanice. </p>
 

@@ -1,14 +1,25 @@
 ---
 ID: 1020
-title: 'Mobile Urban Legends: fotoaparáty v&nbsp;mobilech jsou trhák'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobile-urban-legends-fotoaparaty-v-mobilech-jsou-trhak
-published: true
+oldlink: 'https://www.marigold.cz/item/mobile-urban-legends-fotoaparaty-v-mobilech-jsou-trhak
+
+  '
 post_date: 2004-05-06 07:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- Japonské průzkumy ukazují intenzivní používání fotoaparátů v mobilech krátce po
+  zakoupení.
+- Servisní logy NTT DoCoMo odhalily dramatický pokles frekvence focení po prvních
+  dvou měsících.
+- Marketing NTT DoCoMo zpochybňuje reprezentativnost dat ze servisních logů pro celkovou
+  populaci.
+- Fotoaparát v mobilu je zajímavá hračka, ale po počátečním nadšení se jeho používání
+  snižuje.
+title: 'Mobile Urban Legends: fotoaparáty v&nbsp;mobilech jsou trhák'
 ---
+
 <p>
 Minule jsem psal o tom, že za městskou legendu o tom, že lidé chtějí používat Ringback (nebo u nás Uvítací tóny), může z části jazyková bariéra, z části záměna. Další zajímavou a moderní městskou legendou je využívání fotoaparátů v mobilních telefonech. </p>
 

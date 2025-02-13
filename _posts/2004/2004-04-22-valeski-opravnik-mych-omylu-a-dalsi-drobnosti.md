@@ -1,14 +1,21 @@
 ---
 ID: 996
-title: 'Valeski, opravník mých omylů a&nbsp;další drobnosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/valeski-opravnik-mych-omylu-a-dalsi-drobnosti
-published: true
+oldlink: 'https://www.marigold.cz/item/valeski-opravnik-mych-omylu-a-dalsi-drobnosti
+
+  '
 post_date: 2004-04-22 18:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Valeskiho odvolání řeší článek na Mobil.cz, zítra vyjde pokračování.
+- Zákazníci si SMS brány představují jednodušeji než XML a IPSec.
+- CDMA2000 upload může být rychlejší než 153 Kb/s díky soft handoff.
+- Data Express je obchodní název pro CDMA Eurotelu.
+title: Valeski, opravník mých omylů a&nbsp;další drobnosti
 ---
+
 <p>
 Na Mobil.cz jsem napsal článek věnovaný pokusům o odvolání šéfa Eurotelu T. Valeskiho. Jmenuje se <A href="http://mobil.idnes.cz/publicistika/valeski040422.html" target=_blank>Valeski: příliš dobrý, aby tu byl s námi</A> a na zítra chystám pokračování, protože i dnes to bylo napínavé. Kdyby mi někdo z Eurotelu poslal ten anglický překlad, co po firmě koluje, uvítal bych to - rád bych ho viděl. </p>
 

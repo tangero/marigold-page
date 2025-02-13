@@ -1,14 +1,21 @@
 ---
 ID: 880
-title: 'Další přednáškový blok: video services'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-prednaskovy-blok-video-services
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-prednaskovy-blok-video-services
+
+  '
 post_date: 2004-02-25 14:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- 'Laura Rovizzi (Wind): Video na mobilech je spíše doplňková aktivita, nikoliv primární.'
+- 'O2: Obsah je klíčový, operátoři by měli respektovat náklady poskytovatelů obsahu.'
+- 'UPC Morgen: Typické mobilní video má malou velikost, nízké rozlišení a DRM ochranu.'
+- 'Mobilní video: Používá se hlavně jako kuriozita, což je nebezpečné pro jeho budoucnost.'
+title: 'Další přednáškový blok: video services'
 ---
+
 Dnešní přednáškový blok začíná tématem videosluzeb. První mluvila <STRONG>Laura Rovizzi z italského operátora Wind</STRONG>. Podle zkušenosti Windu videoprenosy buďto vyplňují čas mezi dvěmi aktivitami, nebo dublují právě probíhající aktivitu, například při poslouchání nějaké konference se stahuje video jen tak pro ukrácení dlouhé chvíle. To je zajímavé si uvědomit - video na mobilech není pro lidí nijak primární a od toho by se měla odvíjet použitelnost i cena. 
 <p>
 Wind ve své sítí videoslužby nabízí v portálu přes i-módě. Používání <STRONG>dle typu videoslužeb</STRONG> je následující: 

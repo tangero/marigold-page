@@ -1,14 +1,21 @@
 ---
 ID: 967
-title: 'Co ještě do mobilu? Co takhle FM vysílač&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/co-jeste-do-mobilu-co-takhle-fm-vysilac
-published: true
+oldlink: 'https://www.marigold.cz/item/co-jeste-do-mobilu-co-takhle-fm-vysilac
+
+  '
 post_date: 2004-04-05 17:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- MobilMania anketa upřednostňuje MP3 přehrávač před fotoaparátem v mobilních telefonech.
+- Sandeep navrhuje FM vysílač v mobilu pro vysílání hudby nebo hovorů.
+- iTrip je FM vysílač pro iPod, umožňující bezdrátové přehrávání hudby.
+- FM vysílání z mobilu je v České republice nelegální.
+title: Co ještě do mobilu? Co takhle FM vysílač&#8230;
 ---
+
 <p>
 O víkendu jsem koukal na <A href="http://www.mobilmania.cz/Bleskovky/AR.asp?ARI=106946" target=_blank>anketu na MobilManii</A>, zda <STRONG>by se lidem v mobilu více líbil MP3 přehrávač než fotoaparát</STRONG> - zatím v ní vede s mírným náskokem MP3 přehrávač. Já jsem pro foťák, ale to jen tak na okraj a nemám obecně platné argumenty, prostě nemám kde MP3 z přehrávače poslouchat - v metru je taký randál, že není slyšet nic (alespoň já tam hudbu moc nevychutnám), v práci a doma mám věž. A Dita mám iRiver, tak jí je to jedno. </p>
 

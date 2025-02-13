@@ -1,16 +1,23 @@
 ---
 ID: 1491
-title: >
-  Rok externích síťových pevných
-  disků
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/rok-externich-sitovych-pevnych-disku
-published: true
+oldlink: 'https://www.marigold.cz/item/rok-externich-sitovych-pevnych-disku
+
+  '
 post_date: 2005-01-25 08:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Externí disky s ethernetem a USB 2.0 rozhraním jsou trendem roku.
+- Maxtor Shared Storage nabízí 200-300 GB kapacity a automatické třídění souborů.
+- Zařízení funguje jako souborový server v domácí síti přes router.
+- Budoucnost vidí integraci P2P klientů pro automatické stahování filmů.
+title: 'Rok externích síťových pevných disků
+
+  '
 ---
+
 <p>Letošní rok by mohl být rokem externích pevných disků. Shodli se na tom vystavovatelé na americkém CESu, tak i já. Věru, už delší dobu se mi zdá, že externí pevný disk připojený ideálně síťovým kabelem, má smysl. Na trhu je řada výrobků, které mají ethernet rozhraní, pokud se vám nelíbí, můžete si disk dle své volby narvat do krabičky alespoň s USB 2.0 rozhraním.</p>
 
 <div class="rightbox"><img src="/wp-content/uploads/1/20050125-matroxss.jpg" alt="Matrox Shared Storage" width="110" height="110" /></div>

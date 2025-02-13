@@ -1,14 +1,21 @@
 ---
 ID: 1452
-title: 'Zpátky z&nbsp;Egypta'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zpatky-z-egypta
-published: true
+oldlink: 'https://www.marigold.cz/item/zpatky-z-egypta
+
+  '
 post_date: 2004-12-22 21:21:40
+post_excerpt: ''
+published: true
+summary_points:
+- Autor se vrátil z Egypta, kde bylo 25 stupňů, do chladné Prahy.
+- Na pražském letišti trvalo vyložení zavazadel hodinu.
+- Autorovi v Praze vykradli auto v podzemní garáži.
+- Tomáš Kapler (Nonamem) se staral o Marigold během autorovy nepřítomnosti.
+title: Zpátky z&nbsp;Egypta
 ---
+
 <p>
 Tak jsem zpátky. Ještě včera v Egyptě teploty kolem 25 stupňů Celsia, dnes v Praze o tricet méně. Co naplat. Legendární egtyptští chaosáři odbavili náš let na minutu přesně, zato pražskému letišti trvalo hodinu vyložit zavazadla. A abych věděl, že jsem zase v Česku, zjistil jsem, že mi někdo v podzemní garáži našeho domu vykradl auto. Roztřískaná okénka, sklo všude, vybitá autobaterka, zablokované zámky a zisk: autorádio bez panýlku. Vítej doma&#8230; </p>
 

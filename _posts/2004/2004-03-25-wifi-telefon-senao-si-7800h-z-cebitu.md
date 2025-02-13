@@ -1,14 +1,22 @@
 ---
 ID: 945
-title: 'WiFi telefon Senao SI-7800H (z&nbsp;CeBITu)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-telefon-senao-si-7800h-z-cebitu
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-telefon-senao-si-7800h-z-cebitu
+
+  '
 post_date: 2004-03-25 08:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi telefony využívají SIP technologii a WiFi signál pro volání přes internet.
+- CeBIT prezentoval mnoho WiFi telefonů, často s pochybnou kvalitou od tchajwanských
+  výrobců.
+- Senao SI-7800H nabízí WiFi základnovku s QoS a roamingem pro lepší hovory.
+- Přístupová stanice SI-7800B funguje i jako běžný WiFi AP pro další zařízení.
+title: WiFi telefon Senao SI-7800H (z&nbsp;CeBITu)
 ---
+
 <p>
 Na CeBITu jsem mimo jiné bažil po WiFi telefonech, tedy bezdrátových telefonech, kde onu bezdrátovou technologii namísto DECTu nahrazuje WiFi. Uchvátilo mne totiž, jak je to snadné k používání - seženete poskytovatele služeb se SIP technologií <EM>(tu většina WiFi telefonů nabízí)</EM>, pak si stoupnete do pokrytí WiFi signálem a v tom místě se váš WiFi telefon chová prakticky jako mobil. Viděl jsem na konferencích už několik lidí, kteří to tak používají (nebo mají telefon přes USB připojený k notebooku) a moc se mi líbilo, že se jim volá na jejich národní číslo, i když jsou třeba v Cannes. Žádné roamingové poplatky, paráda. </p>
 

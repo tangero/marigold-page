@@ -1,14 +1,21 @@
 ---
 ID: 961
-title: Z CzFree.Net je akciová společnost
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/z-czfree-net-je-akciova-spolecnost
-published: true
+oldlink: 'https://www.marigold.cz/item/z-czfree-net-je-akciova-spolecnost
+
+  '
 post_date: 2004-04-01 08:09:00
+post_excerpt: ''
+published: true
+summary_points:
+- CzFree se mění na akciovou společnost s názvem CZFree.COM a.s.
+- Zdeněk Janda děkuje uživatelům za jejich přínos k rozvoji sítě.
+- Podrobnosti o změnách jsou dostupné v diskusním fóru CZFree.COM.
+- Článek o transformaci CzFree je aprílový žert.
+title: Z CzFree.Net je akciová společnost
 ---
+
 <p>
 Moje dlouhodobé volání po tom, aby CzFree dostalo určitou strukturu a řád bylo vyslyšeno. <STRONG>Z CzFree se stává akciová společnost.</STRONG> Cituji z webu Czfree.com (už ne .net!):</p>
 

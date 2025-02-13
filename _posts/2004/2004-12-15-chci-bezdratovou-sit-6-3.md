@@ -1,14 +1,21 @@
 ---
 ID: 1446
-title: Chci bezdrátovou síť (6.3)
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chci-bezdratovou-sit-6-3
-published: true
+oldlink: 'https://www.marigold.cz/item/chci-bezdratovou-sit-6-3
+
+  '
 post_date: 2004-12-15 13:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- Aktivní retranslace využívá aktivní prvky pro zpracování a očištění signálu.
+- Aktivní retranslace s 1 AP je levné řešení pro menší vzdálenosti.
+- Aktivní retranslace se 2 AP používá Ethernet pro propojení, nabízí vyšší rychlost.
+- Aktivní retranslace s WDS využívá WDS pro propojení, vhodné pro vícenásobné retranslace.
+title: Chci bezdrátovou síť (6.3)
 ---
+
 <p>
 Tento článek navazuje na <a href="/item/chci-bezdratovou-sit-6-1">úvodní kapitolu retranslací</a> a na předchozí kapitolu věnovanou <a href="/item/chci-bezdratovou-sit-6-2">pasivním retranslacím</a>. Pro pochopení mnohých termínů z této části musíte bezpodmínečně znát termíny jako WDS, AP, ad-hoc, Klient atd. vysvětlené v <a href="http://www.marigold.cz/?query=chci%2Bbezdr%C3%A1tovou%2Bs%C3%AD%C5%A5&amp;amount=0&amp;blogid=1">předchozích částech seriálu</a>.</p>
 

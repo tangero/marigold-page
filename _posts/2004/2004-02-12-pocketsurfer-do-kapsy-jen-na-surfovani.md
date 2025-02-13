@@ -1,14 +1,22 @@
 ---
 ID: 852
-title: 'PocketSurfer &#8211; do kapsy jen na surfování'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pocketsurfer-do-kapsy-jen-na-surfovani
-published: true
+oldlink: 'https://www.marigold.cz/item/pocketsurfer-do-kapsy-jen-na-surfovani
+
+  '
 post_date: 2004-02-12 08:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- PocketSurfer je zařízení s barevným displejem a klávesnicí pro surfování na internetu.
+- Připojení k internetu PocketSurferu je možné pouze přes bluetooth.
+- Cena PocketSurferu je přibližně 200 USD a dostupnost byla plánována na třetí kvartál
+  2004.
+- Autor textu je skeptický k úspěchu PocketSurferu kvůli jeho omezenému využití.
+title: PocketSurfer &#8211; do kapsy jen na surfování
 ---
+
 <p>
 Další jednoúčelové zařízení je na světě. Jmenuje se <STRONG>PocketSurfer </STRONG>a je to vlastně barevný displej (šířka 640 bodů) s klávesnicí určený pro surfování na internetu. K internetu se to připojuje jedině přes bluetooth. </p>
 

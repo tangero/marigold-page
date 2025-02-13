@@ -1,14 +1,21 @@
 ---
 ID: 1013
-title: 'Fayn má nižší ceny a&nbsp;vůbec telekomunikace přeceňují'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/fayn-ma-nizsi-ceny-a-vubec-telekomunikace-precenuji
-published: true
+oldlink: 'https://www.marigold.cz/item/fayn-ma-nizsi-ceny-a-vubec-telekomunikace-precenuji
+
+  '
 post_date: 2004-05-03 08:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- DPH sjednoceno na 19%, telekomunikační služby zdánlivě zlevnily o 3%.
+- Fayn snížil cenu meziměstského volání na 1,50 Kč za minutu.
+- Kabelová televize zdražuje kvůli přesunu do 19% DPH pásma.
+- Internet od UPC zlevní o 3%, satelitní příjem se stává alternativou.
+title: Fayn má nižší ceny a&nbsp;vůbec telekomunikace přeceňují
 ---
+
 <p>
 Ke změnám cen docházelo prakticky všude, protože od 1.5. platí nový zákon o DPH. To se sjednocuje na 19%, čímž poklesly ceny telekomunikačních služeb pro koncové uživatele o 3%. Noviny to houfně presentují jako zlevnění telekomunikačních služeb, ale to je kravina - fakticky je to zdražení, protože ještě vloni bylo DPH na telco služby jen 5% - po novém roce se přeřadily do nové skupiny pro DPH a ta se od května o tři procenta snížila. Fuj... :(</p>
 

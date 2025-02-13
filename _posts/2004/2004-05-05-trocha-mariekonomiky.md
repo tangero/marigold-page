@@ -1,14 +1,23 @@
 ---
 ID: 1019
-title: Trocha MariEkonomiky
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/trocha-mariekonomiky
-published: true
+oldlink: 'https://www.marigold.cz/item/trocha-mariekonomiky
+
+  '
 post_date: 2004-05-05 17:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold používá automatický systém textové reklamy s platbou za kliknutí, ne za
+  zobrazení.
+- Cena reklamy se stanovuje burzovním systémem, minimální cena je 5 Kč za kliknutí.
+- Systém generuje srovnatelné příjmy s bannerovou reklamou, ale je levnější pro inzerenty.
+- Provozovatelé menších serverů nemají k dispozici jednoduchý systém pro správu textové
+  reklamy.
+title: Trocha MariEkonomiky
 ---
+
 <p>
 Dělal jsem nějaké úpravy na marigoldím reklamním systému a protože jsem to zmiňoval několikrát do diskusí, rozhodl jsem se to zrekapitulovat. </p>
 

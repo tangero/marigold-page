@@ -1,16 +1,22 @@
 ---
 ID: 843
-title: >
-  Telecom tlačí na ukončení projektu
-  CDMA450 Eurotelu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telecom-tlaci-na-ukonceni-projektu-cdma450-eurotelu
-published: true
+oldlink: 'https://www.marigold.cz/item/telecom-tlaci-na-ukonceni-projektu-cdma450-eurotelu
+
+  '
 post_date: 2004-02-09 07:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel zřejmě ukončí projekt CDMA450 kvůli tlaku Telecomu.
+- T-Mobile projevuje zájem o technologii CDMA450.
+- Podrobnosti o ukončení CDMA450 projektu Eurotelem na Mobil.cz.
+title: 'Telecom tlačí na ukončení projektu CDMA450 Eurotelu
+
+  '
 ---
+
 <p>
 Minulý týden jsem zaslechl zprávy, že<STRONG> Eurotel bude muset zřejmě ukončit projekt CDMA450</STRONG>, protože na jeho ukončení začal tlačit Telecom, vlastník Eurotelu. Nakonec se zprávy podařilo ověřit, vypadá to, že to není nějaká kachna, ale seriosní problém. </p>
 

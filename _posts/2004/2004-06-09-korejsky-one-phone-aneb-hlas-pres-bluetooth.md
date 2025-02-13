@@ -1,16 +1,24 @@
 ---
 ID: 1137
-title: >
-  Korejský One-phone aneb hlas přes
-  bluetooth
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/korejsky-one-phone-aneb-hlas-pres-bluetooth
-published: true
+oldlink: 'https://www.marigold.cz/item/korejsky-one-phone-aneb-hlas-pres-bluetooth
+
+  '
 post_date: 2004-06-09 08:27:56
+post_excerpt: ''
+published: true
+summary_points:
+- KT spustil One-phone, službu pro volání mobilem přes pevnou linku pomocí bluetooth.
+- One-phone vyžaduje bluetooth mobil a základnovou stanici pro propojení s pevnou
+  linkou.
+- KT plánuje službu DU, která má snížit náklady na volání o 20-30%.
+- I s 200 000 uživateli bude One-phone přínos pro KT menší než 1% příjmů.
+title: 'Korejský One-phone aneb hlas přes bluetooth
+
+  '
 ---
+
 <p>
 Největší korejský národní operátor KT letos spustil zajímavou novou službu nazvanou One-phone. Podstatou služby je mobilní telefon vybavený technologií bluetooth a malá stanice s bluetooth připojená na pevnou linku. Díky tomu může uživatel volat přes mobil z pevné linky a přijímat na ní příchozí hovory - o přenos hlasu ze stanice do mobilu se postará právě bluetooth. Princip je tedy vlastně stejný jako u bezdrátového telefonu. </p>
 

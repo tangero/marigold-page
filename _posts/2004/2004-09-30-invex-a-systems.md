@@ -1,14 +1,22 @@
 ---
 ID: 1341
-title: 'Invex a&nbsp;Systems'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/invex-a-systems
-published: true
+oldlink: 'https://www.marigold.cz/item/invex-a-systems
+
+  '
 post_date: 2004-09-30 07:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- Invex autor zvažuje vynechat kvůli nezajímavému programu a varováním před nedostatkem
+  novinek.
+- Systems v Mnichově láká autora zajímavým programem a možností setkání s lidmi.
+- Autor preferuje cestu na Systems do Mnichova před Invexem v Brně.
+- Systems nabízí témata jako Galileo, dálniční poplatky a Mobile Life.
+title: Invex a&nbsp;Systems
 ---
+
 <p>
 Začal jsem dostávat otázky, zda se sejdeme příští týden v Brně. Trochu mne to vyděsilo, protože já se do Brna nedostanu, jak je rok dlouhý a najednou všichni předpokládají, že tam budu. Opatrně jsem se zeptal, kde bychom se tam setkali. Na Invexu. Ahááá, ja jsem zapoměl na letošní Invex…</p>
 

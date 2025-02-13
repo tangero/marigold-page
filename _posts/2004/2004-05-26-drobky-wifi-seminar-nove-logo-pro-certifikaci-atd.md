@@ -1,14 +1,21 @@
 ---
 ID: 1053
-title: 'Drobky: WiFi seminář, nové logo pro certifikaci atd'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-wifi-seminar-nove-logo-pro-certifikaci-atd
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-wifi-seminar-nove-logo-pro-certifikaci-atd
+
+  '
 post_date: 2004-05-26 07:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vanet pořádá dvoudenní seminář o WiFi technologiích.
+- Wi-Fi Alliance zavádí nový grafický symbol pro certifikaci WiFi technologií.
+- Legoland využívá WiFi náramky pro sledování dětí v areálu.
+- Zcomax XI-1510V outdoor přístupový bod má recenzi na WiFionline.
+title: 'Drobky: WiFi seminář, nové logo pro certifikaci atd'
 ---
+
 <p>
 Dneska začíná <STRONG>dvoudenní seminář o WiFi pořádaný firmou Vanet</STRONG>. Škoda, že jsem na webový odkaz padl až náhodou, když jsem na novém notebooku ještě neinstaloval AdMuncher pro filtrování bannerové reklamy, tak jsem si na Živě všimnul banneru. Takže tady <A href="http://www.vanet.cz/index_skoleni-zive.php" target=_blank>odkaz zdarma</A> :)</p>
 

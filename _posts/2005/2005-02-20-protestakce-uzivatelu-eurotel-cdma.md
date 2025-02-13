@@ -1,14 +1,21 @@
 ---
 ID: 1546
-title: Protestakce uživatelů Eurotel CDMA
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/protestakce-uzivatelu-eurotel-cdma
-published: true
+oldlink: 'https://www.marigold.cz/item/protestakce-uzivatelu-eurotel-cdma
+
+  '
 post_date: 2005-02-20 17:21:47
+post_excerpt: ''
+published: true
+summary_points:
+- Uživatelé CDMA plánovali 1.3. masivní stahování dat na protest proti Eurotelu.
+- Akce pravděpodobně neovlivní celkový objem dat Eurotelu, ale sdílené médium.
+- Autor kritizuje anonymní spamování diskusí související s touto protestní akcí.
+- Protestní akce a diskuse probíhají na serveru CDMA.cz.
+title: Protestakce uživatelů Eurotel CDMA
 ---
+
 <p>Někteří nespokojení uživatelé datové sítě Eurotel Data Expres (prostě CDMA) se rozhodli dát svoji nespokojenost Eurotelu prakticky najevo a to tím, že budou 1.3. od devíti od rána sosat co nejvyšší množství dat. A jak se uvádí v prvotním vyhlášení akce: <i>"stahovat a stahovat bez prestani stahovat a stahovat ..... dokavad si ten eurotel neuvedomi ze neco ZKAZIL"</i>. </p>
 
 <p>Upřímně: dopsal bych k tomu ještě jednu větu - A pokud se neustahovali, stahují dodnes. Co tou akcí asi tak chtějí dokázat? Že najednou těch pár zákazníků na stejné buňce nebude moci stahovat, než to během pár minut nějaký mechanismus ořízne? Že Eurotelu vyskočí graf přenesených dat za den o něco výše? Fakt netuším. </p>

@@ -1,14 +1,21 @@
 ---
 ID: 1208
-title: 'Malý test, jak znáte tarify &#8211; jaký kredit má Home Mini?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/maly-test-jak-znate-tarify-jaky-kredit-ma-home-mini
-published: true
+oldlink: 'https://www.marigold.cz/item/maly-test-jak-znate-tarify-jaky-kredit-ma-home-mini
+
+  '
 post_date: 2004-07-21 17:45:38
+post_excerpt: ''
+published: true
+summary_points:
+- Tele2 zažalovalo Český Telecom kvůli srovnávacím letákům tarifů.
+- Telecom v letácích srovnával svůj tarif s voláním přes Tele2.
+- Uživatelé Home Standard dle Tele2 neprovolají celý kredit.
+- Článek se ptá na výši kreditu tarifu Home Mini Českého Telecomu.
+title: Malý test, jak znáte tarify &#8211; jaký kredit má Home Mini?
 ---
+
 <p>
 Tele2 právě zažalovalo Český Telecom za ty letáčky, v nichž Telecom srovnává svůj jeden tarif s voláním přes Tele2. Jednou z výhrad Tele2 je fakt, že uživatel u Home Standard neprovolal v propočtu Telecomu svůj kredit - své volání zdarma - a uvažovalo se pouze volání přes Telecom nebo přes Tele2. </p>
 <p>

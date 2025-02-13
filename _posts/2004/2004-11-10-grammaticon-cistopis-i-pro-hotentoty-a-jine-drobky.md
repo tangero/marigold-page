@@ -1,14 +1,21 @@
 ---
 ID: 1396
-title: 'Grammaticon – čistopis i&nbsp;pro hotentoty (a&nbsp;jiné drobky)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/grammaticon-cistopis-i-pro-hotentoty-a-jine-drobky
-published: true
+oldlink: 'https://www.marigold.cz/item/grammaticon-cistopis-i-pro-hotentoty-a-jine-drobky
+
+  '
 post_date: 2004-11-10 08:32:33
+post_excerpt: ''
+published: true
+summary_points:
+- Grammaticon je doporučen jako výborný software pro kontrolu pravopisu ve Wordu.
+- Firefox má ostrou českou verzi, autor ji používá a přispěl na reklamu.
+- Lumpyho blog je doporučen pro sledování novinek kolem prohlížeče Firefox.
+- Rony změnil design svého webu, který se autorovi velmi líbí.
+title: Grammaticon – čistopis i&nbsp;pro hotentoty (a&nbsp;jiné drobky)
 ---
+
 <p>
 Po dlouhé době jsem se dokopal k tomu, abych napsal nějaký pořádnější článek. Tentokráte na Technet a pod názvem <b><a href="http://technet.idnes.cz/sw/sw_kancelar/grammaticon041027.html">Grammaticon – čistopis i pro hotentoty</a></b>. Grammaticon je výborný software na kontrolu pravopisu, používám ho už docela rutinně. Samozřejmě jen při psaní ve Wordu, když píšu na Marigolda, píšu často rovnou do FireFoxu, kde mi to pravopis neočekuje, takže smůla. </p>
 

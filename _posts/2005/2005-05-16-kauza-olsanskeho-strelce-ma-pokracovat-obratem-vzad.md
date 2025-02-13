@@ -1,16 +1,23 @@
 ---
 ID: 1646
-title: >
-  Kauza olšanského střelce má
-  pokračovat obratem vzad
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kauza-olsanskeho-strelce-ma-pokracovat-obratem-vzad
-published: true
+oldlink: 'https://www.marigold.cz/item/kauza-olsanskeho-strelce-ma-pokracovat-obratem-vzad
+
+  '
 post_date: 2005-05-16 11:33:37
+post_excerpt: ''
+published: true
+summary_points:
+- Hospodářské noviny zveřejnily policejní protokoly o střelbě Gabriela Berdára.
+- Výpovědi mladíků Račka a Stěhule se rozcházejí, alibi je neprůkazné.
+- Únik spisu mohl pocházet od policie nebo z okolí Berdára.
+- Doporučuje se vyčkat, situace kolem střelby je stále nejasná.
+title: 'Kauza olšanského střelce má pokračovat obratem vzad
+
+  '
 ---
+
 <p>Hospodářské noviny dnes přinesly přílohu věnovanou střelbě na Gabriela Berdára, šéfa Telecomu. Článek najdete na internetu pod názvem "Nejdříve se zdálo, že Berdár střílel po nevinných lidech..." - má jít o nahlédnutí do policejních protokolů, z nichž by vyplývalo, že oba mladíci (Vladimír Račko a Stanislav Stěhule), na které G. Berdár střílel, se rozcházejí ve svých výpovědích. Také jejich alibi nemá být vůbec tak průkazné a má se rozcházet o dvě hodiny s osudnou událostí. Hospodářské noviny výpovědi považují za nevěrohodné. 
 Doporučuji <a href="http://digiweb.ihned.cz/?s1=i&amp;s2=0&amp;s3=0&amp;s4=0&amp;s5=0&amp;s6=0&amp;m=d&amp;a[id]=16155820&amp;p=i00000_d">k přečtení zde na DigiWebu</a>.</p>
 

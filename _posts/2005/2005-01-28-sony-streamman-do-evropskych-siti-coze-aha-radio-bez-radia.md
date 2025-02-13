@@ -1,16 +1,23 @@
 ---
 ID: 1499
-title: >
-  Sony StreamMan do evropských sítí
-  (cože? Aha, rádio bez rádia)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sony-streamman-do-evropskych-siti-coze-aha-radio-bez-radia
-published: true
+oldlink: 'https://www.marigold.cz/item/sony-streamman-do-evropskych-siti-coze-aha-radio-bez-radia
+
+  '
 post_date: 2005-01-28 13:41:03
+post_excerpt: ''
+published: true
+summary_points:
+- Sony StreamMan streamuje hudbu do mobilů se Symbianem (UIQ, Series60).
+- StreamMan ukládá hudbu do vyrovnávací paměti pro přehrávání offline.
+- Služba StreamMan umožňuje poslech rádií i vlastních playlistů ve WMA/AAC.
+- Pilotní provoz StreamMan je ve Finsku (TeliaSonnera), plánuje se Vodafone.
+title: 'Sony StreamMan do evropských sítí (cože? Aha, rádio bez rádia)
+
+  '
 ---
+
 <p>Sony si s hudbou zahrává rádo. Walkman, Discman a další. StreamMan je další zajímavý koncept – tentokráte určený pro mobilní telefony. Hudba se neukládá na nich, ale streamuje se po síti. S tou fíčurou, že pokud síť běží rychle, ukládá se hudba dopředu do vyrovnávací paměti, když má síť problémy nebo jste třeba v podchodu bez signálu, jede hudba z vyrovnávací paměti, dokud tam nedojde nebo se neobnoví signál. </p>
 
 <p>Je to vlastně něco jako rádio. V sofistikovaném průvodci si vyberete na svém mobilu žánr hudby, který chcete poslouchat a StreamMan vám jej hustí do head-setu ve formátu WMA na 96 kbps bitrate (AAC kodek). Pokud vás nebaví rádio, můžete si vytvořit vlastní playlist a ten si úplně stejně poslouchat. </p>

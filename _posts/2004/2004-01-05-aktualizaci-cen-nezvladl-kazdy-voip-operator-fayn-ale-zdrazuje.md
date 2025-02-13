@@ -1,16 +1,25 @@
 ---
 ID: 771
-title: >
-  Aktualizaci cen nezvládl každý VoIP
-  operátor, Fayn ale zdražuje
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/aktualizaci-cen-nezvladl-kazdy-voip-operator-fayn-ale-zdrazuje
-published: true
+oldlink: 'https://www.marigold.cz/item/aktualizaci-cen-nezvladl-kazdy-voip-operator-fayn-ale-zdrazuje
+
+  '
 post_date: 2004-01-05 08:44:00
+post_excerpt: ''
+published: true
+summary_points:
+- Viphone neaktualizoval DPH a uvádí ceny bez DPH, takže je nutné dopočítat.
+- Wirphone aktualizaci ceníku odkládá a zkrácený ceník je neaktuální, informace o
+  DPH chybí.
+- Fayn aktualizoval ceny s DPH a zdražil Zónu 1 a měsíční paušál více než odpovídá
+  DPH.
+- Fayn měl v prosinci problémy se sítí a nedodržel termín zavedení telefonních čísel.
+title: 'Aktualizaci cen nezvládl každý VoIP operátor, Fayn ale zdražuje
+
+  '
 ---
+
 <p>
 Od 1. ledna 2004 platí nová výše DPH na telekomunikační služby, místo doposavadních 5% se zvýšila na 22%. Podíval jsem se dnes ráno, jak si se změnou DPH poradily firmy nabízející internetovou telefonii. <STRONG>Viphone aktualizaci vůbec neprovedl</STRONG> a nadále uvádí jako DPH 5%, na druhou stranu to ale tak nevadí, protože ceny <A href="http://www.viphone.cz/cenik_vol_viphone.htm" target=_blank>udávají </A>bez DPH a stačí si připočítat správnou výši DPH a nenechat se zmást. </p>
 

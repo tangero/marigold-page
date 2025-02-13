@@ -1,14 +1,21 @@
 ---
 ID: 1340
-title: Chello Easy bude místo Light varianty
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chello-easy-bude-misto-light-varianty
-published: true
+oldlink: 'https://www.marigold.cz/item/chello-easy-bude-misto-light-varianty
+
+  '
 post_date: 2004-09-29 10:52:37
+post_excerpt: ''
+published: true
+summary_points:
+- Chello Easy od UPC nabízí 256/64 Kb/s za 555 Kč s DPH a 5GB dat.
+- Po překročení 5GB limitu klesne rychlost Chello Easy na symetrických 64 Kb/s.
+- UPC zavedlo Chello Easy kvůli poptávce po levném internetu s evropskými parametry.
+- UPC automaticky převede zákazníky Chello Light na Chello Easy s výhodnějšími podmínkami.
+title: Chello Easy bude místo Light varianty
 ---
+
 <p>
 UPC dnes oficiálně potvrdilo nabídku svého nejlevnějšího připojení k internetu pod názvem Chello Easy. To nabídne rychlost 256/64 Kb/s za 555 Kč s DPH při datovém limitu 5 GB měsíčně. Po jeho překročení spadne rychlost na symetrických 64 Kb/s. </p>
 

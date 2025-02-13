@@ -1,14 +1,22 @@
 ---
 ID: 1316
-title: 'OnAir &#8211; broadcasting TV programu z&nbsp;WiFi hotspotu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/onair-broadcasting-tv-programu-z-wifi-hotspotu
-published: true
+oldlink: 'https://www.marigold.cz/item/onair-broadcasting-tv-programu-z-wifi-hotspotu
+
+  '
 post_date: 2004-09-14 08:09:24
+post_excerpt: ''
+published: true
+summary_points:
+- OnAir Entertainment nabízí broadcasting TV programu z WiFi hotspotu do zařízení
+  uživatele.
+- Uživatelé budou službu využívat zdarma v dosahu hotspotu, například na letištích.
+- Provozovatelé hotspotů by museli upravit zúčtovací software, což je nákladné.
+- Bezplatný open-source software by byl zajímavější variantou pro uživatele.
+title: OnAir &#8211; broadcasting TV programu z&nbsp;WiFi hotspotu
 ---
+
 <p>
 Včera jsem narazil na zajímavý produkt od společnosti <a href="http://www.onairentertainment.com/">OnAir Entertainment</a>. Jde o broadcasting TV programu z WiFi hotspotu. Do svého notebooku či PDA si nainstalujete klient pro příjem videa a z hotspotu, který tuto technologii podporuje, můžete přijímat TV vysílání. </p>
 

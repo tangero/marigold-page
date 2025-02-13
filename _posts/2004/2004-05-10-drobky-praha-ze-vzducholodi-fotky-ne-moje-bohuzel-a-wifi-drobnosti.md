@@ -1,14 +1,21 @@
 ---
 ID: 1027
-title: 'Drobky: Praha ze vzducholodi (fotky, ne moje bohužel) a&nbsp;WiFi drobnosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-praha-ze-vzducholodi-fotky-ne-moje-bohuzel-a-wifi-drobnosti
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-praha-ze-vzducholodi-fotky-ne-moje-bohuzel-a-wifi-drobnosti
+
+  '
 post_date: 2004-05-10 18:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Prahou létala vzducholoď BMW, dostupné jsou fotografie z ní online.
+- WiFiOnline.Net publikoval recenzi Linksys WAP54G, oblíbeného přístupového bodu.
+- CNN informuje o používání WiFi tiráky v USA na odpočivadlech.
+- SWNet informuje o vizi sdílení zpráv P2P systémem, ale vidí problémy.
+title: 'Drobky: Praha ze vzducholodi (fotky, ne moje bohužel) a&nbsp;WiFi drobnosti'
 ---
+
 <p>
 Minulý týden jsem přidával pomocí <A href="http://beta.marigold.cz/mms.html?cislo=40">MMS zprávu</A> a fotku o <STRONG>vzducholodi BMW</STRONG>, která létala celý týden nad Prahou. Narozdíl ode mne se někdo dostal i do vzducholodi a tady jsou <A href="http://web.dkm.cz/kislik/praha/1.jpg" target=_blank>fotky Prahy ze vzducholodi</A>. Číslo jedna v URL nahrazujte dalšími čísly, abyste se dostali na ostatní fotku, žádnou stránku s náhledy autor bohužel nevyrobil. To musel být parádní výlet!</p>
 

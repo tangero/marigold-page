@@ -1,14 +1,21 @@
 ---
 ID: 934
-title: 'Spectrian: Sinclair ZX Spectrum Emulator pro Symbian Series 60'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/spectrian-sinclair-zx-spectrum-emulator-pro-symbian-series-60
-published: true
+oldlink: 'https://www.marigold.cz/item/spectrian-sinclair-zx-spectrum-emulator-pro-symbian-series-60
+
+  '
 post_date: 2004-03-22 08:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Spectrian je emulátor ZX Spectra pro telefony Symbian Series 60 od White Cloud Software.
+- Emulátor Spectrian podporuje formáty Z80, SNA a TAP pro nahrávání programů.
+- Spectrian zdarma zabírá 170 KB, placená verze umožňuje screenshoty a mapování kláves.
+- Autor článku zažil osmibitovou nostalgii na CeBITu, viděl Commodore a Amigy.
+title: 'Spectrian: Sinclair ZX Spectrum Emulator pro Symbian Series 60'
 ---
+
 <p>
 Tohle byste rozhodně neměli minout - Spectrian je <STRONG>emulátor ZX Spectra pro Symbian Series 60 telefony </STRONG>a na svědomí ho má firma <A href="http://www.whitecloudsoftware.com/" target=_blank>White Cloud Software</A>.&#160;Emuluje procesor Z80, kvalitně emuluje zvuk, umí se tvářit jako Spectrum Spectrum 48K / 128K / +2 / +2A a programy do něj můžete nahrávat z nejrůznějších abandon archivů ve formátu Z80, SNA a TAP a to jak emailem, tak přes bluetooth a infraport. </p>
 

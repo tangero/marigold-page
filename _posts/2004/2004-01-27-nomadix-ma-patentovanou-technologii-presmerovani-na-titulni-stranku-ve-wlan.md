@@ -1,17 +1,24 @@
 ---
 ID: 818
-title: >
-  Nomadix má patentovanou technologii
-  přesměrování na titulní stránku ve
-  WLAN
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nomadix-ma-patentovanou-technologii-presmerovani-na-titulni-stranku-ve-wlan
-published: true
+oldlink: 'https://www.marigold.cz/item/nomadix-ma-patentovanou-technologii-presmerovani-na-titulni-stranku-ve-wlan
+
+  '
 post_date: 2004-01-27 08:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nomadix získal patent USA na přesměrování zákazníka v bezdrátové síti na přihlašovací
+  stránku.
+- Patent je platný v USA, evropských firem se zatím netýká.
+- Nomadix chce inkasovat peníze za používání patentované technologie.
+- Nomadix si patentem udělal reklamu, očekává se negativní publicita.
+title: 'Nomadix má patentovanou technologii přesměrování na titulní stránku ve WLAN
+
+  '
 ---
+
 <p>
 Tak tomu říkám bomba. <STRONG>Nomadix získal patent na technologii umožňující přesměrovat zákazníka v bezdrátové síti na titulní stránku s přihlášením.</STRONG> Nomadix tvrdí, že tuto technologii vynalezl a že ostatní ji zkopírovali. Plné znění patentu číslo 6,636,894 <A href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1=6,636,894.WKU.&amp;OS=PN/6,636,894&amp;RS=PN/6,636,894">najdete zde</A>. </p>
 

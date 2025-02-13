@@ -1,14 +1,21 @@
 ---
 ID: 808
-title: 'HAPS &#8211; High Altitude Platform Stations &#8211; aneb internet ze vzduchu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/haps-high-altitude-platform-stations-aneb-internet-ze-vzduchu
-published: true
+oldlink: 'https://www.marigold.cz/item/haps-high-altitude-platform-stations-aneb-internet-ze-vzduchu
+
+  '
 post_date: 2004-01-23 09:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- HASP systémy jsou základnové stanice ve výšce 3-22 km.
+- HAPS systémy využívají balóny a letadla pro distribuci internetového signálu.
+- Autor vnímá HAPS jako technologickou výzvu s riziky.
+- Autor připravuje sumarizaci HAPS projektů s klady a zápory.
+title: HAPS &#8211; High Altitude Platform Stations &#8211; aneb internet ze vzduchu
 ---
+
 <p>
 V poslední době se i u nás častěji píše o distribuci signálu z balónů nebo speciálních letadel, která by nahradila základnové stanice. Naposledy udělal například hezký průřez rozbíhajícími se projekty ISDN server ve článku <A href="http://www.isdn.cz/clanek.php?cid=5481" target=_blank>V Evropě se chystá další internet ze stratosféry</A>.</p>
 

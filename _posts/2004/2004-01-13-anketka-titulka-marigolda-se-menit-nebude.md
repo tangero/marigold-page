@@ -1,14 +1,21 @@
 ---
 ID: 788
-title: 'Anketka: titulka Marigolda se měnit nebude'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/anketka-titulka-marigolda-se-menit-nebude
-published: true
+oldlink: 'https://www.marigold.cz/item/anketka-titulka-marigolda-se-menit-nebude
+
+  '
 post_date: 2004-01-13 08:58:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ankety na Marigoldovi nyní zobrazují výsledky až po hlasování.
+- '% hlasujících si přeje ponechat stávající podobu titulky Marigolda.'
+- WiFi konference na Pandoře je uzavřena pro externí přispěvatele.
+- Nová anketa se ptá na nejúspěšnějšího mobilního operátora roku 2003.
+title: 'Anketka: titulka Marigolda se měnit nebude'
 ---
+
 <p>
 Ankety na Marigoldovi jsem předělal v souladu s nejnovějšími poznatky psychologie a sociologie tak, že nezobrazují výsledky průběžně před hlasováním, uvidíte je až po hlasování nebo po kliku na patřičný link ve vyskakovacím okně. A nyní k vyhodnocení ankety minulé. Ptal jsem se, <STRONG>zda mám předělat titulku Marigolda</STRONG> a odpovědělo rovných 100 hlasujících. </p>
 

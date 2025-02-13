@@ -1,14 +1,21 @@
 ---
 ID: 1209
-title: KlFree.Net je krok před kolapsem
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/klfree-net-je-krok-pred-kolapsem
-published: true
+oldlink: 'https://www.marigold.cz/item/klfree-net-je-krok-pred-kolapsem
+
+  '
 post_date: 2004-07-22 08:21:00
+post_excerpt: ''
+published: true
+summary_points:
+- KlFree.Net valná hromada potvrdila setrvání sdružení a zvolila nové vedení.
+- Staré vedení KlFree.Net odneslo přístupové body a nabízí komerční WiFi.
+- Nové vedení KlFree.Net podalo trestní oznámení a upravuje síť.
+- Audit KlFree.Net by měl rozřešit spory o majetek a účetnictví.
+title: KlFree.Net je krok před kolapsem
 ---
+
 <p>
 O napjaté situaci v kladenské komunitní síti KlFree.Net jsem <a href="/item/klfree-net-jako-eserocko-nebo-obcanske-sdruzeni">tu již referoval</a> před její valnou hromadou v květnu. Valná hromada mezi tím proběhla (<a href="http://www.klfree.net/view.php?cisloclanku=2004052602">zápis z ní zde</a>) a členové sdružení se shodli na tom, že hodlají setrvat jako sdružení, komunita - a že nechtějí, aby jejich aktivity přebírala komerční firma. Bylo zvoleno nové představenstvo sdružení a vypadalo to, že věci naberou normální směr, kdy staré vedení vypadne a nové vedení začne dělat to, čím jej členové pověřili. </p>
 <p>

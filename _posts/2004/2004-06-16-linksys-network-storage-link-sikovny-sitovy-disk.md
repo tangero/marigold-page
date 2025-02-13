@@ -1,14 +1,21 @@
 ---
 ID: 1148
-title: 'Linksys Network Storage Link &#8211; šikovný síťový disk'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-network-storage-link-sikovny-sitovy-disk
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-network-storage-link-sikovny-sitovy-disk
+
+  '
 post_date: 2004-06-16 08:17:00
+post_excerpt: ''
+published: true
+summary_points:
+- Síťový disk pro sdílení dat mezi dvěma počítači je řešením.
+- Linksys NSL propojuje USB disky (až dva) s ethernetem pro síťový přístup.
+- Linksys NSL umožňuje veřejný i heslem chráněný přístup k diskům.
+- Ximeta NetDisk s kapacitou 120 GB je dražší alternativou, sdílenou jen pod Windows.
+title: Linksys Network Storage Link &#8211; šikovný síťový disk
 ---
+
 <p>
 Zrovna jsem začal špekulovat nad tím, jak bychom si mohli v novém bydlišti udělat síťový disk. Máme doma dva počítače v síti, občas se hodí mít disk, na který se dají odložit věci a sdílet jej. Nejtriviálnější možnost - mít někde bokem popelnici s linuxem a velkým diskem, mne neuspokojuje - takový počítač žere zbytečně spoustu elektřiny a navíc dělá kravál. Začal jsem přemýšlet nad tím, jak napojit externí disk samostatně do sítě a zda by APčka s konketorem pro USB (takové věci dělá třeba Asus) zvládla pevný disk připojený přes USB - i takových je už na trhu dost. </p>
 

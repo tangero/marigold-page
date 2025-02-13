@@ -1,14 +1,21 @@
 ---
 ID: 791
-title: Dvojí rozdávání mouder
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dvoji-rozdavani-mouder
-published: true
+oldlink: 'https://www.marigold.cz/item/dvoji-rozdavani-mouder
+
+  '
 post_date: 2004-01-15 08:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- Česká televize natáčela pořad o počítačové bezpečnosti s autorem a dalšími experty.
+- Dokument BBC byl srozumitelný a vyvážený, zahrnoval různé pohledy na hacking.
+- Rozhovor s autorem vyšel na Intervalu, původně určený pro weblog Oříšek.
+- Autor považuje za nejzajímavější teorii o proměně weblogů a ratingu příspěvků.
+title: Dvojí rozdávání mouder
 ---
+
 <p>
 Předevčírem jsem byl odpoledne v České televizi. Centrum pro vzdělávání zde natáčelo takový mix diskusního pořadu a dokumentu, tedy abych byl přesný, dokument dodávala BBC a diskusi jsem měl obstarat já s Ondřejem Neffem a panem Nemecem (zástupcem firmy distribuující u nás mimo jiné Panda antivirus). A hovořit se mělo o počítačové bezpečnosti, zejména pak hackerech. To je vždy průšvihové téma, protože televize je logicky masovém médium a diskuse v ní by se měla vyhýbat složitému výrazivu (i SPAM jsme v diskusi raději vyložili). Takže se pak v nějaké konferenci na netu potom dozvím, že Zandl je přeci debil, "šak kdyby nebyl, tak by jim hned řekl, že stačí bannout trefik na portech a dávat bacha, co teče přes údépé a na týsípí" atd... </p>
 

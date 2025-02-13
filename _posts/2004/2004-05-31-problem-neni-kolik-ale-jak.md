@@ -1,14 +1,21 @@
 ---
 ID: 1113
-title: 'Problém není kolik, ale jak&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/problem-neni-kolik-ale-jak
-published: true
+oldlink: 'https://www.marigold.cz/item/problem-neni-kolik-ale-jak
+
+  '
 post_date: 2004-05-31 09:28:01
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi problém spočívá v obtížné platbě, nikoliv ve výši poplatku.
+- WideNet nabízí nepraktické možnosti platby, jako SMS nebo hodinové intervaly.
+- Měsíční účet, záloha nebo platba kartou by byly pro zákazníky výhodnější.
+- Mikroplatební systémy mají vysoké provize a složité schvalování ČNB.
+title: Problém není kolik, ale jak&#8230;
 ---
+
 <p>
 Když jsem tak minulý týden používal WiFi sítě (WideNet a Český Telecom), uvědomil jsem si, že největší problém pro mne a zřejmě pro řadu dalších lidí ani tak nespočívá v tom, <b>kolik zaplatit, ale jak zaplatit</b>. Vezměme si příklad WideNetu. Pokud chcete delší připojení, máte dvě možnosti: zaplatit si minimálně celou hodinu kartou nebo eBanka převodem (pokud tedy chcete zaplatit a ihned surfovat). Pokud se bojíte kartu svěřit a ebanku nemáte, musíte si koupit čtvrthodinový interval, který lze zaplatit přes SMS nebo voláním na Žlutou linku. Jako dobrý trik by vypadalo, kdybyste si předplatili čtyři čtvrthodiny a proužívali si je. Jenže ono to nejde - další čtvrthodinu si můžete zaplatit, až vám ta předchozí vyprší. Dost nepříjemné, když se snažíte něco dělat a najednou se vám všechny služby přeruší a musíte znovu od začátku, až po zaplacení...</p>
 

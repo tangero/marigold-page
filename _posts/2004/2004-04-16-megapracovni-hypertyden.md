@@ -1,14 +1,21 @@
 ---
 ID: 986
-title: Megapracovní hypertýden
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/megapracovni-hypertyden
-published: true
+oldlink: 'https://www.marigold.cz/item/megapracovni-hypertyden
+
+  '
 post_date: 2004-04-16 16:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- Zaměstnanec Pipeline a.s. dokončil náročný týden úspěšným spuštěním produkční záležitosti.
+- Tisk smlouvy se zkomplikoval nedostatkem barvy v tiskárně, kterou musel autor shánět.
+- Pipeline a.s. propojuje aplikace klientů na PR SMS pro zpoplatnění obsahu.
+- PR SMS se používají pro zpoplatnění obsahu doručovaného na mobilní telefony.
+title: Megapracovní hypertýden
 ---
+
 <p>
 Je pátek a já mám dost. Tenhle týden opravdu stál za to, nicméně konečně se spustilo u mého ctěného zaměstnavatele všechno, co se spustit mělo a nespustilo se nic z toho, co se nemělo spustit, takže paráda. Dneska ráno naběhla naostro poslední produkční záležitost a i když jsem celý den ještě jak fretka vyřizoval emaily, byla to už úplná pohodka. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1143
-title: 'Drobky: zajímavé nové servery na českém internetu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-zajimave-nove-servery-na-ceskem-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-zajimave-nove-servery-na-ceskem-internetu
+
+  '
 post_date: 2004-06-14 08:30:11
+post_excerpt: ''
+published: true
+summary_points:
+- Bluejacking.cz je české diskusní fórum o bluejackingu.
+- Blog:CMS je nový blogovací systém Radka Hulána s webem blogcms.com.
+- Nový den je agregátor zpráv s analýzou důležitosti a příbuznosti.
+- Přehled.net je agregátor technických zpráv, hledá designéra.
+title: 'Drobky: zajímavé nové servery na českém internetu'
 ---
+
 <p>
 Vyrojilo se několik zajímavých serverů na českém internetu a tak je tu chci poodkazovat. </p>
 

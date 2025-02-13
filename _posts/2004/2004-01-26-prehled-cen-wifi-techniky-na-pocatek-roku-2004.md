@@ -1,16 +1,23 @@
 ---
 ID: 813
-title: >
-  Přehled cen WiFi techniky na počátek
-  roku 2004
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prehled-cen-wifi-techniky-na-pocatek-roku-2004
-published: true
+oldlink: 'https://www.marigold.cz/item/prehled-cen-wifi-techniky-na-pocatek-roku-2004
+
+  '
 post_date: 2004-01-26 08:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ceny značkových WiFi produktů klesly kvůli poklesu ceny dolaru.
+- Trh WiFi techniky se zahušťuje, obchody se soustředí na pár značek.
+- D-Link posiluje pozici, nejlevnější přístupový bod je ASUS WL-330b za 1420 Kč.
+- Vyplatí se zajímat o ceny D-Link a Asus WiFi produktů.
+title: 'Přehled cen WiFi techniky na počátek roku 2004
+
+  '
 ---
+
 <p>
 Přišla chvíle updatovat ceny v Přehledu WiFi techniky a z této dvouhodinové práce si odnáším několik poznatků, o něž bych se s vámi rád podělil. </p>
 

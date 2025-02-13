@@ -1,14 +1,21 @@
 ---
 ID: 911
-title: 'Přehled technického zpravodajství &#8211; můj hyperportál ;)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prehled-technickeho-zpravodajstvi-muj-hyperportal
-published: true
+oldlink: 'https://www.marigold.cz/item/prehled-technickeho-zpravodajstvi-muj-hyperportal
+
+  '
 post_date: 2004-03-10 16:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor vytvořil v Genesis agregátor českých technických zpráv.
+- Agregátor řadí články podle důležitosti analyzováním titulků.
+- Analýza titulků zohledňuje entity, akce a reaktanty v titulku.
+- Veřejná alfaverze agregátoru je dostupná na internet.marigold.cz.
+title: Přehled technického zpravodajství &#8211; můj hyperportál ;)
 ---
+
 <p>
 Nedávno jsem si tu stěžoval, že je škoda, že všechny agregátory obsahu řeší načítání RSS jako prosté rozchlívečkování (samozřejmě s čestnou blogportálovou výjimkou, kterou málokdo odhalí). A tak jsem si to vzal trochu jako výzvu, abych něco zkusil spíchnout v Genesis já. Otázka, proč v Genesis - v ničem jiném neumím a Genesis je docela mohutný framework. Bohužel někde už mi v mojí licenci nedává tolik prostoru, kolik by bylo třeba, takže je pravda, že v PHP by to bylo mnohem lepší. Až za to, že v PHP neumím :)</p>
 

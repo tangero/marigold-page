@@ -1,14 +1,21 @@
 ---
 ID: 1200
-title: 'Spor o&nbsp;letáky Českého Telecomu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/spor-o-letaky-ceskeho-telecomu
-published: true
+oldlink: 'https://www.marigold.cz/item/spor-o-letaky-ceskeho-telecomu
+
+  '
 post_date: 2004-07-19 08:42:00
+post_excerpt: ''
+published: true
+summary_points:
+- Telecom srovnává své služby s Tele2, vychází levněji díky modelovanému chování uživatele.
+- Telefon 120 nabízí hodinu volání zdarma ve špičce i mimo špičku za 400 Kč.
+- Uživatel Home Standard má 102 Kč volného kreditu, který by měl provolat nejdříve.
+- Reklama Telecomu modeluje chování zákazníka a zapomenutí na volný kredit.
+title: Spor o&nbsp;letáky Českého Telecomu
 ---
+
 <p>
 Český Telecom nechal vytisknout letáky, kde své služby porovnává se službami alternativních operátorů a asi nepřekvapí, že v nich vychází levněji. Nepřekvapí proto, že jinak by je asi netiskl. </p>
 

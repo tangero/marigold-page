@@ -1,14 +1,21 @@
 ---
 ID: 1114
-title: '3G Týden: prodeje 3G telefonů v&nbsp;Evropě stoupají'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3g-tyden-prodeje-3g-telefonu-v-evrope-stoupaji
-published: true
+oldlink: 'https://www.marigold.cz/item/3g-tyden-prodeje-3g-telefonu-v-evrope-stoupaji
+
+  '
 post_date: 2004-05-31 10:29:42
+post_excerpt: ''
+published: true
+summary_points:
+- G telefony v Evropě prodaly v dubnu 2004 přes 225 000 kusů.
+- Nokia a LG zvýšily prodeje 3G telefonů uvedením zajímavých modelů.
+- Vodafone, T-Mobile a další sítě začaly prodávat 3G telefony.
+- NTT DoCoMo prodal 20% podíl v Hutchison 3G UK za 220 milionů dolarů.
+title: '3G Týden: prodeje 3G telefonů v&nbsp;Evropě stoupají'
 ---
+
 <p>
 Podle výzkumů GfK rostou prodeje mobilních telefonů třetí generace v Evropě. <b>Za duben 2004 bylo prý prodáno přes 225 000 telefonů pro 3G sítě v Evropě</b> (tedy evropského UMTS standardu). To představuje 2% všech prodaných mobilních telefonů a do prosince to údajně má být až 10% celkového objemu. </p>
 

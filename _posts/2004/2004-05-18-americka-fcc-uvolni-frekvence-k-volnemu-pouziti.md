@@ -1,14 +1,21 @@
 ---
 ID: 1041
-title: 'Americká FCC uvolní frekvence k&nbsp;volnému použití'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/americka-fcc-uvolni-frekvence-k-volnemu-pouziti
-published: true
+oldlink: 'https://www.marigold.cz/item/americka-fcc-uvolni-frekvence-k-volnemu-pouziti
+
+  '
 post_date: 2004-05-18 08:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bushův plán cílil na širokopásmový internet pro každého občana USA v roce 2007.
+- FCC zvažuje uvolnění frekvencí 900 MHz a 3 GHz pro bezlicenční použití.
+- Nová zařízení na uvolněných frekvencích budou muset automaticky volit kanál.
+- FCC chce sdílení TV frekvencí mezi kanály 2 a 51 regionálně.
+title: Americká FCC uvolní frekvence k&nbsp;volnému použití
 ---
+
 <p>
 Dnes na Živě <A href="http://www.zive.cz/h/Byznys/AR.asp?ARI=116428" target=_blank>píše Jiří Hlavenka</A> o Bushově plánu <EM>"širokopásmový internet pro každého v roce 2007"</EM> - přičemž tím "každým" se samozřejmě myslí občan USA. Plán je americký - tedy žádné dotace, drastické zásahy státu nebo státní dodavatelé a jednotná řešení, spíše zametení cestiček a otevření nových možností. Jak poučné pro nás. Jednou z těch cestiček má být i uvolnění některých frekvencí, dnes používaných zejména pro TV. FCC také nyní přemýšlí nad tím, že by <STRONG>uvolnil do bezlicenčního použití frekvence</STRONG>&#160;v pásmu 900 MHz a 3GHz - v tom prvním pásmu fungují v USA bezdrátové telefony, v tom druhém zase tuším pobřežní radary. </p>
 

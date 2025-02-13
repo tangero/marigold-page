@@ -1,14 +1,21 @@
 ---
 ID: 1383
-title: Zase jedna malá podzimní únava
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zase-jedna-mala-podzimni-unava
-published: true
+oldlink: 'https://www.marigold.cz/item/zase-jedna-mala-podzimni-unava
+
+  '
 post_date: 2004-11-02 09:53:17
+post_excerpt: ''
+published: true
+summary_points:
+- Autor pociťuje tvůrčí krizi a nechuť k psaní článků.
+- Mobilní telefon autorovi spíše škodí a narušuje soustředění.
+- WAP přístup k emailu je zbytečný a nutí autora k neustálé kontrole.
+- Autor se omlouvá za nesouvislost textu způsobenou nechutí k psaní.
+title: Zase jedna malá podzimní únava
 ---
+
 <p>
 Na každého pisálka semo-tamo přijde moment, kdy by nejraději nenapsal ani čárku. Mám ten pocit posledních pár týdnů - za tu dobu jsem na Mobil ani na Lupu nenapsal ani čárku, ani svůj oblíbený 3G Týden, jen na Technet jednu recenzi software, která beztak nevyšla a která mi už dlouho smrděla v šuplíku. </p>
 

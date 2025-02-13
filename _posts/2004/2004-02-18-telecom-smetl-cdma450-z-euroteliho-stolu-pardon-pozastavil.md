@@ -1,14 +1,23 @@
 ---
 ID: 867
-title: 'Telecom smetl CDMA450 z&nbsp;eurotelího stolu. Pardon, pozastavil'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telecom-smetl-cdma450-z-euroteliho-stolu-pardon-pozastavil
-published: true
+oldlink: 'https://www.marigold.cz/item/telecom-smetl-cdma450-z-euroteliho-stolu-pardon-pozastavil
+
+  '
 post_date: 2004-02-18 08:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom zakázal Eurotelu pokračovat v přípravě sítě CDMA450, plánované na
+  duben.
+- Telecom pozastavil projekt Eurotelu do schválení podnikatelského plánu pro rok 2004.
+- Předložené podklady Eurotelu nesplňují požadavky na zvyšování hodnoty pro akcionáře
+  Telecomu.
+- Valeski prokázal lepší výsledky než Telecom a projevil zájem o jeho koupi.
+title: Telecom smetl CDMA450 z&nbsp;eurotelího stolu. Pardon, pozastavil
 ---
+
 <p>
 Dnešní MF DNES přináší oficiální zprávu o tom, že <STRONG>Český Telecom zakázal Eurotelu pokračovat v přípravě sítě CDMA450</STRONG>, která měla odstartovat už v dubnu letošního roku v prvních městech (informoval <A href="http://mobil.idnes.cz/mobilni_komunikace/operatori/nasi_operatori/cdma040206.html" target=_blank>jsem na Mobil.cz</A>). MF DNES cituje: <EM>&#8222;Na základě písemného oznámení z Telecomu jsme projekt zastavili. Informovali jsme o tom zaměstnance i dodavatele,&#8220;</EM> říká Diana Dobálová z Eurotelu. Firmě to oznámil 2. února dopisem šéf Telecomu Gabriel Berdár. Telecom včera reagoval, že záměr Eurotelu není definitivně smeten ze stolu. &#8222;<EM>Pozastavili jsme jej do doby, než bude schválen podnikatelský plán Eurotelu pro rok 2004&#8220;</EM>, říká Vladan Crha z Českého Telecomu.</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 901
-title: 'Bez přihlášení už to holt někdy nepůjde&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bez-prihlaseni-uz-to-holt-nekdy-nepujde
-published: true
+oldlink: 'https://www.marigold.cz/item/bez-prihlaseni-uz-to-holt-nekdy-nepujde
+
+  '
 post_date: 2004-03-07 17:56:00
+post_excerpt: ''
+published: true
+summary_points:
+- Horečka autora má neobvyklé projevy s nízkou teplotou, léčí se Paralenem a odpočinkem.
+- Autor o víkendu programoval inteligentnější řízení přístupu k informacím na Marigoldovi.
+- Přihlášení Genloginem bude povinné pro čtení některých článků na Marigoldovi.
+- Přihlášení je trvalé, registrace vyžaduje jméno, login a email, ale data se nezneužívají.
+title: Bez přihlášení už to holt někdy nepůjde&#8230;
 ---
+
 <p>
 Zachvátila mne&#160;horečka - mrcha jedna. Bohužel moje projevy chřipky jsou lékařsky neuctivé. Při horečce mi teploměr ukazuje přes 36,2C, pokud je to opravdu kruté, dostanu se i k 36,5C, což ale nejsou teploty, které by lékaři uznávali jako horečkové stavy. Takže s tím ani k doktorovi nechodím, protože mi ještě není zatěžko dát 12 Kč na Paralen a týden ležet v posteli, protože venkoncem nic jiného se s tím dělat nedá a jak mne přátelé lékaři již poučili, léky proti chřipce pouze zmírňují některé její příznaky, ve skutečnosti ale nic neléčí. A tak ležím v posteli, v pondělí se to pokusím vysvětlit v práci a budu úřadovat z domova. A mezi tím jsem o víkendu trochu programoval. </p>
 

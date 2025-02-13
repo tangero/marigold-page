@@ -1,16 +1,23 @@
 ---
 ID: 1348
-title: >
-  Mobilní sítě jsou stejné mystérium,
-  jako jiné esoterní víry
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-site-jsou-stejne-mysterium-jako-jine-esoterni-viry
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-site-jsou-stejne-mysterium-jako-jine-esoterni-viry
+
+  '
 post_date: 2004-10-06 10:59:39
+post_excerpt: ''
+published: true
+summary_points:
+- Autorovy spoty o UMTS jsou sice zajímavé, ale pro laiky nesrozumitelné.
+- Psaní článků pro laiky je nevděčné, protože mnozí chtějí složitý jazyk.
+- Autor preferuje srozumitelné zasvěcení laiků do technických mystérií.
+- Technické znalosti jsou moderní mystérium, kde autor laicizuje poznání.
+title: 'Mobilní sítě jsou stejné mystérium, jako jiné esoterní víry
+
+  '
 ---
+
 <p>
 Včera jsem dostal několik připomínek, že poslední spoty věnované UMTS jsou sice megazajímavé, ale také meganesrozumitelné. Baba – taková je již podstata magie, že se kryje slůvky a zaklínadly laikům nesrozumitelným, neboť nějak se vrstva privilegovaná od chátry odděliti musí, říkají klasikové magie v družné diskusi nad korbílkem časně před svítáním… </p>
 

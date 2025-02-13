@@ -1,14 +1,21 @@
 ---
 ID: 1379
-title: 'LCD, CRT, Plazma &#8211; co koupit jako TV?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lcd-crt-plazma-co-koupit-jako-tv
-published: true
+oldlink: 'https://www.marigold.cz/item/lcd-crt-plazma-co-koupit-jako-tv
+
+  '
 post_date: 2004-10-30 17:20:08
+post_excerpt: ''
+published: true
+summary_points:
+- LCD televize nemusí být nejlepší volbou pro sledování TV signálu.
+- LCD televize často interpolují obraz kvůli vyššímu rozlišení než PAL.
+- Nekvalitní TV signál je na LCD televizi více patrný než na CRT.
+- Osobní zkušenosti s LCD a plazma televizemi jsou žádány.
+title: LCD, CRT, Plazma &#8211; co koupit jako TV?
 ---
+
 <p>
 Když jsem nedávno dal link na LCD TV, která se mi docela zalíbila, dostal jsem několik komentářů na téma, že LCD není pro TV zrovna to nejlepší. Zarazilo mne to. Očekával jsem, že LCD jako výkvět moderní techniky bude automaticky to nejlepší, protože nabízí skvělé rozlišení, to dohasínání pixelů se už dá přehlédnout, kontrast taky ujde. Proč si tedy místo velké klasické CRT obrazovky nekoupit LCD nebo plazma panel?</p>
 

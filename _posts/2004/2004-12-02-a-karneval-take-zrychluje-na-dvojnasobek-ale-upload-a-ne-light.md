@@ -1,14 +1,21 @@
 ---
 ID: 1429
-title: 'A Karneval také zrychluje na dvojnásobek (ale upload a&nbsp;ne Light)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/a-karneval-take-zrychluje-na-dvojnasobek-ale-upload-a-ne-light
-published: true
+oldlink: 'https://www.marigold.cz/item/a-karneval-take-zrychluje-na-dvojnasobek-ale-upload-a-ne-light
+
+  '
 post_date: 2004-12-02 11:53:56
+post_excerpt: ''
+published: true
+summary_points:
+- Karneval zdvojnásobuje upload rychlost u Premium TURBO a TURBO tarifů.
+- Zvýšení upload rychlosti se týká pouze odchozího směru dat.
+- Tarif Premium TURBO bude mít 300 kbps, tarif TURBO 200 kbps upload.
+- Karneval plánuje další navýšení rychlostí v prvním čtvrtletí příštího roku.
+title: A Karneval také zrychluje na dvojnásobek (ale upload a&nbsp;ne Light)
 ---
+
 <p>
 Tisková zpráva Karnevalu na sebe nedala dlouho čekat a také jeho zákaznici budou mít rychlost kabelového připojení dvojnásobnou bez zvýšení ceny. Toto zvýšení se ale týká jen uploadu, tedy odesílání dat směrem od uživatele do internetu:</p>
 

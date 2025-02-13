@@ -1,14 +1,21 @@
 ---
 ID: 1653
-title: 'Flotila Země dopsána – přesně po&nbsp;devíti měsících'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/flotila-zeme-dopsana-presne-po-deviti-mesicich
-published: true
+oldlink: 'https://www.marigold.cz/item/flotila-zeme-dopsana-presne-po-deviti-mesicich
+
+  '
 post_date: 2005-05-19 09:10:51
+post_excerpt: ''
+published: true
+summary_points:
+- Flotila Země je scifi povídka o bitvě mezi lidstvem a mimozemšťany.
+- Autor odmítl hlavního hrdinu a zaměřil se na kolektivní úsilí.
+- Příběh se odehrává v českém prostředí s reáliemi jako Kofola.
+- Autor se inspiroval starověkou bitvou pro věrohodné zobrazení vesmírného boje.
+title: Flotila Země dopsána – přesně po&nbsp;devíti měsících
 ---
+
 <p>Přesně devět měsíců mi trvalo dopsat povídku <a href="http://flotila.bloguje.cz">Flotila Země</a>. Navzdory tomu, že jsem původně očekával, že ji za čtyři-pět týdnů budu mít z krku. Abych byl na sebe spravedlivý, původně jsem také očekával, že půjde o povídku v rozsahu deseti stránek. A nějak se mi to vymklo z rukou, povídka má přes čtvrt milionu znaků, což kdybyste převedli do knižní podoby, vyjde na nějakých 150 stran. Prostě tenčí knihu. Spolu s rostoucím rozsahem je tu jeden drobný problém: co s Flotilou teď, když je dopsaná? Původně jsme ji chtěl přihlásit do nějaké soutěže, ale jak se tak probírám <a href="http://www.ikarie.cz/">Ikarií</a>, všechny právě běžící soutěže mají limit délky povídky. Ach jo, to jsem to zase zvoral :)</p>
 
 <p>Flotila Země je scifi povídka a na rozdíl od většiny scifi povídek se nesnaží být nová svým námětem. Námět je až dramaticky prostý, nenápaditý a nefantaskní. Válka. Odkudsi z vesmíru se vynoří hromada ufonů a letí sežehnout Zemi svým smrdutým dechem, řečeno banálně. A na druhé straně existuje Flotila Země, která se jim postaví. Povídka vlastně není o ničem jiném, než o jedné jediné bitvě a spoustě umírání. Nenajdete tu časoprostorové paradoxy, frankensteinská monstra – jen techniku, o které byste věřili, že je lidstvu skoro na dosah ruky. Nebál bych se říci, že povídka slibuje parádní nudu.</p>

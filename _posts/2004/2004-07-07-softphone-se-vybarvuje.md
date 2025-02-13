@@ -1,14 +1,21 @@
 ---
 ID: 1187
-title: SoftPhone se vybarvuje
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/softphone-se-vybarvuje
-published: true
+oldlink: 'https://www.marigold.cz/item/softphone-se-vybarvuje
+
+  '
 post_date: 2004-07-07 18:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- SoftPhone nabízí IP telefony od 3650 Kč, včetně softwaru X-lite.
+- SoftPhone dotuje vyřazení IP telefonu NP210, používaného firmou Fayn.
+- SoftPhone podporuje vícenásobné přihlášení z různých míst na jeden účet.
+- SoftPhone nabízí provoz služby bez měsíčního paušálu, ale s poplatkem.
+title: SoftPhone se vybarvuje
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/20040707-softphone.jpg" alt="SoftPhone klient X-lite během mého hovoru na infolinku Telecomu (oblíbený obětní beránek, je tam plechová huba, dá se zkoušet po libosti)" width="275" height="379" /> </div> <p>
 O službě <a href="http://www.softphone.cz">SoftPhone</a> jsem psal v únoru, tehdy mi bylo divné, že na jejím serveru chybí informace o provozovateli. Evidentně si to provozovatel také uvědomil a zřejmě jsem ho chytil v době, kdy svůj web teprve rozjížděl. </p>
 <p>

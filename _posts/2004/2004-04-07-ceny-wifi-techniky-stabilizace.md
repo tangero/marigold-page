@@ -1,14 +1,22 @@
 ---
 ID: 971
-title: 'Ceny WiFi techniky &#8211; stabilizace&#8230;?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ceny-wifi-techniky-stabilizace
-published: true
+oldlink: 'https://www.marigold.cz/item/ceny-wifi-techniky-stabilizace
+
+  '
 post_date: 2004-04-07 08:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- Aktualizace přehledu cen WiFi techniky zaznamenala mírné zvýšení cen u některých
+  produktů.
+- Zyxel produkty zlevnily díky přesměrování na eD system, kde jsou nižší ceny.
+- SMC nabízí nejlepší ceny WiFi routerů, G verze za 2700 Kč.
+- V ČR se u 802.11a produktů 5GHz frekvence vypíná kvůli legislativě.
+title: Ceny WiFi techniky &#8211; stabilizace&#8230;?
 ---
+
 <p>
 Po nějaké době jsem aktualizoval přehled cen WiFi techniky, tedy orientační tabulku porovnávající ceny WiFi přístupových bodů (APček) a směrovačů (routerů). Ještě není aktualizováno všechno, ještě chci také doplnit nějaké novinky, ovšem nikoliv zásadní. </p>
 

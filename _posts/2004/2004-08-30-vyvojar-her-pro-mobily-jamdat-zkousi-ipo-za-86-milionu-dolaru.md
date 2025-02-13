@@ -1,16 +1,24 @@
 ---
 ID: 1283
-title: >
-  Vývojář her pro mobily Jamdat
-  zkouší IPO za 86 milionů dolarů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vyvojar-her-pro-mobily-jamdat-zkousi-ipo-za-86-milionu-dolaru
-published: true
+oldlink: 'https://www.marigold.cz/item/vyvojar-her-pro-mobily-jamdat-zkousi-ipo-za-86-milionu-dolaru
+
+  '
 post_date: 2004-08-30 08:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Jamdat Mobile, vývojář her pro mobily, plánuje IPO s cílem získat 86 milionů dolarů.
+- Příjmy Jamdat Mobile v roce 2003 dosáhly 13,5 milionu USD, ztráta činila 7,1 milionu
+  USD.
+- Více než 40% obchodu Jamdat Mobile v roce 2004 realizuje přes Verizon Wireless.
+- Jamdat Mobile uvádí, že 97% příjmů pochází z BREW a Java aplikací.
+title: 'Vývojář her pro mobily Jamdat zkouší IPO za 86 milionů dolarů
+
+  '
 ---
+
 <p>
 Veřejný úpis emise akcií (takzvané IPO) hodlá vyzkoušet další zajímavá firma, <b>Jamdat Mobile</b> (<a href="http://www.jamdat.com">web</a>). Ta právě vyplnila potřebné dokumenty pro SEC a v IPO hodlá získat 86 milionů dolarů. Jamdat Mobile patří mezi významné vývojáře her pro mobilní telefony a protože její obchod je postavený výhradně na mobilních telefonech a hry pro mobily tu nejsou přívažkem k hrám pro jiné platformy, jako je PC, je toto IPO bedlivě sledováno. IPO Jamdatu povedou renomované banky Lehman Brothers a Merrill Lynch, firma bude obchodována pod symbolem JMDT.</p>
 

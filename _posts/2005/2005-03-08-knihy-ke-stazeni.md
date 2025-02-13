@@ -1,14 +1,21 @@
 ---
 ID: 2373
-title: Knihy ke stažení
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/knihy-ke-stazeni
-published: true
+oldlink: 'https://www.marigold.cz/item/knihy-ke-stazeni
+
+  '
 post_date: 2005-03-08 08:40:39
+post_excerpt: ''
+published: true
+summary_points:
+- Autor digitalizoval a nabízí ke stažení své knihy.
+- Koncernová pětiletka, manažerská lovestory, je dostupná elektronicky za poplatek.
+- Flotila Země, sci-fi o bitvě s mimozemšťany, je zdarma v mnoha formátech.
+- Marigoldí léta, sbírka článků, je dostupná v digitálních formátech.
+title: Knihy ke stažení
 ---
+
 Napsal jsem pár knih, které jsou už dávno vydané nebo do vydání ještě dlouho mají. Zde jsou ke stažení ty, které jsem zdigitalizoval.
 
 <h3>Koncernová pětiletka</h3>

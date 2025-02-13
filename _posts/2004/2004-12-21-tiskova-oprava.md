@@ -1,14 +1,21 @@
 ---
 ID: 1450
-title: Tisková oprava
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tiskova-oprava
-published: true
+oldlink: 'https://www.marigold.cz/item/tiskova-oprava
+
+  '
 post_date: 2004-12-21 10:21:06
+post_excerpt: ''
+published: true
+summary_points:
+- Autor byl kritizován za PR článek o Wifi shopu a uznal chyby.
+- InWifi má zobrazený stav zásob, ale méně zřetelný než Wifi shop.
+- SMS potvrzování objednávek je novinka, kterou ostatní obchody nemají.
+- InWifi nabízí slevy, rychlé dodání, individuální komunikaci a další výhody.
+title: Tisková oprava
 ---
+
 <p>
 Když jsem psal článek na "<a href="/item/nakup-na-wifi-shopu">Nákup na Wifi shopu</a>", byl jsem vámi hodně kritizován. Nevadí mi, když mě lidé obviňují, že píšu PR články (viz "<a href="/item/jsem-hnusny-uplatny-hrdobec">Jsem hnusný úplatný hrdobec</a>") ovšem v tomto respektive v jeho komentářích jsem se dopustil chyb, na které mě e-mailem upozornil pan Klečka z další firmy obchodující s Wi-Fi technikou <a href="http://www.inwifi.cz">InWifi.cz</a>, a já se je tímto pokusím uvést na pravou míru.</p>
 

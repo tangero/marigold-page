@@ -1,14 +1,24 @@
 ---
 ID: 1794
-title: Co je konflikt zájmů?
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/co-je-konflikt-zajmu
-published: true
+oldlink: 'https://www.marigold.cz/item/co-je-konflikt-zajmu
+
+  '
 post_date: 2005-08-25 23:44:50
+post_excerpt: ''
+published: true
+summary_points:
+- Konfliktu zájmů nelze zabránit, proto je klíčové jej hlásit a zvážit jeho vliv na
+  hlasování.
+- Autor vítá diskusi o konfliktu zájmů pro zavedení pravidel do jednacího řádu fóra.
+- Komise je složena z lidí v potenciálním konfliktu zájmů kvůli jejich profesnímu
+  působení.
+- Autor navrhuje hlásit firmy, ve kterých členové komise působí, a nehlasovat o jejich
+  dotacích.
+title: Co je konflikt zájmů?
 ---
+
 <p>Diskuse pod <a href='http://www.lupa.cz/clanek.php3?show=4347'> mým článkem na Lupě</a> se rozjela, bohužel nikoliv kýženým směrem, a návrhů na to, kde jsou největší slabiny a kde mohou peníze fóra pomoci je tam málo. Nicméně se tam rozjela diskuse na téma konfliktu zájmů, kdy to zjevně vidím jinak, než velká část diskutujících. Oni tvrdí, že kdo je v konfliktu zájmu, nesmí být v komisi, či že kdo je v komisi, nesmí nabízet své služby těm co se hlásí o projekty. Já si myslím, že konfliktu zájmu zabránit nelze (vysvětlím dále) a že je tedy potřeba případný konflikt zájmu hlásit a podle závažnosti tohoto konfliktu se rozhodnout, zda-li ovlivňuje hlasování podle nejlepšího vědomí a svědomí a podle toho pak hlasovat, či se zdržet.</p>
 <p> Tuto diskusi velmi vítám, protože chci právě otázku konfliktu zájmu přednést na příštím fóru a zanést do jednacího řádu nějaká pravidla (v návrhu totiž žádná nejsou). Pátral jsem nyní hodinu po Internetu po nějakých takových pravidlech a všechna, která jsem našel, se shodují se mnou. Nebudu teď zatěžovat Patrikovu homepage, takže kdo čte článek na ní, nechť klikne na detaily.
 </p>

@@ -1,14 +1,25 @@
 ---
 ID: 817
-title: 'Linksys WRT54GS a&nbsp;Buffalo Buffalo WHR2-G54 jdou do vyších rychlostí WiFi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-wrt54gs-a-buffalo-buffalo-whr2-g54-jdou-do-vysich-rychlosti-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-wrt54gs-a-buffalo-buffalo-whr2-g54-jdou-do-vysich-rychlosti-wifi
+
+  '
 post_date: 2004-01-27 08:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys WRT54GS nabízí vyšší rychlost SpeedBooster, 802.11 kompatibilní, až o 30%
+  vyšší.
+- Buffalo AirStation 125Mbps router inzeruje rychlosti až 125 Mb/s, používá Broadcom
+  Afterburner.
+- Nové technologie zvyšování rychlostí nejsou standardizované, testy jsou rozpačité,
+  homogenita sítě nutná.
+- Internetové připojení je často brzdou, upgrade WiFi rychlosti nemusí přinést reálný
+  nárůst.
+title: Linksys WRT54GS a&nbsp;Buffalo Buffalo WHR2-G54 jdou do vyších rychlostí WiFi
 ---
+
 <p>
 Linksys se rozhodl upgradovat svůj oblíbený router WRT54G na verzi <B>Linksys WRT54GS</B> - dodavatelem čipové sady je Broadcom a hlavní upgrade je v tom, že <STRONG>router nabídne vyšší rychlost, kterou Linksys nazývá SpeedBooster</STRONG>. Zatím bohužel není přesně jasné, o co v případě SpeedBoosteru jde, Linksys pouze uvádí, že jde o 802.11 kompatibilní technologii (zřejmě tedy zpětně, jinak by to nemělo smysl) nabízející na jednom kanálu propustnost až o 30% vyšší, než v případě 802.11g. Bohužel nejsou k dispozici oficiální informace, pouze <A href="http://www.buy.com/retail/product.asp?sku=10360624&amp;loc=">tento přehled</A> na Buy.com, kde se router nabízí za 106 USD s tím, že k dodání je do dvou týdnů. To znamená, že ho Linksys ještě oficiálně neprodává. Další vlastnosti už jsou klasické jako u dnešního WRT54G, stojí za zmínku podpora WPA a 802.1x. </p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 1273
-title: 'Wi-Bro &#8211; další broadband technologie'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wi-bro-dalsi-broadband-technologie
-published: true
+oldlink: 'https://www.marigold.cz/item/wi-bro-dalsi-broadband-technologie
+
+  '
 post_date: 2004-08-26 08:15:09
+post_excerpt: ''
+published: true
+summary_points:
+- Wi-Bro je nová širokopásmová bezdrátová technologie vyvíjená Japonskem, Čínou a
+  Koreou.
+- Technologie Wi-Bro bude pracovat v licencovaném pásmu 2,3GHz s rychlostí 30-50 Mb/s.
+- Wi-Bro má být prvním krokem k sítím 4G a technologickému osamostatnění Asie.
+- Asie se snaží o technologickou nezávislost na Západu vývojem vlastních technologií.
+title: Wi-Bro &#8211; další broadband technologie
 ---
+
 <p>
 Japonsko, Čína a Korea spojují síly pro vývoj nové širokopásmové technologie, prozatím nazývané Wi-Bro nebo též WiBro, což má evokovat širokopásmovost a bezdrátovost a také úspěch WiFi. </p>
 <p>

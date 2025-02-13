@@ -1,14 +1,25 @@
 ---
 ID: 1314
-title: 'Telekomunikační hřbitov: Teledesic aneb Internet in the Sky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telekomunikacni-hrbitov-teledesic-aneb-internet-in-the-sky
-published: true
+oldlink: 'https://www.marigold.cz/item/telekomunikacni-hrbitov-teledesic-aneb-internet-in-the-sky
+
+  '
 post_date: 2004-09-13 08:42:34
+post_excerpt: ''
+published: true
+summary_points:
+- Teledesic byl ambiciózní projekt satelitní sítě zaměřený na data s investory Gatesem
+  a McCawem.
+- Původní plány Teledesicu zahrnovaly vypuštění až 924 družic pro celosvětový vysokorychlostní
+  internet.
+- Financování Teledesicu zahrnovalo investice od Boeingu, Motoroly a saudskoarabského
+  prince Alwaleeda.
+- Projekt Teledesic byl v roce 2002 ukončen kvůli problémům v telekomunikačním průmyslu
+  a na trzích.
+title: 'Telekomunikační hřbitov: Teledesic aneb Internet in the Sky'
 ---
+
 <p>
 Projekt Teledesic byl jedním z nejambicioznějších projektů satelitní sítě. Na rozdíl od jiných satelitních projektů jako je Iridium nebo Thuraya byl ale zaměřen výhradně na data. Pozornosti se mu dostávalo ze dvou důvodů – zaprvé mezi investory patřil legendární Craig McCaw spolu s další legendou Billem Gatesem (oba samozřejmě skrze své investiční společnosti). A za druhé Teledesic od počátku sliboval obrovský počet družic – první plány slibovaly 924 družic. </p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 976
-title: 'Stomegabitové mobily a&nbsp;moje mobilní věštby&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/stomegabitove-mobily-a-moje-mobilni-vestby
-published: true
+oldlink: 'https://www.marigold.cz/item/stomegabitove-mobily-a-moje-mobilni-vestby
+
+  '
 post_date: 2004-04-08 19:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- DoCoMo plánuje 4G sítě do konce desetiletí s rychlostí 100 megabitů.
+- Centralizace telekomunikací je neudržitelná, inovace přichází od decentralizovaných
+  sítí.
+- Decentralizace mobilní sítě přinese zrychlený vývoj služeb a lepší ceny.
+- Budoucnost může být v kompresi hlasu pomocí rozpoznávání a syntézy textu.
+title: Stomegabitové mobily a&nbsp;moje mobilní věštby&#8230;
 ---
+
 <p>
 Článeček o plánech DoCoMo v oblasti 4G sítí mi nejdříve vypadl v čtečce RSS anglicky, pak se ho ujal <A href="http://www.transhumanismus.cz/blog.php?time=040412#223" target=_blank>Transhumanistický weblog </A>a pak o tom psal i <A href="http://www.lupa.cz/" target=_blank>Martin Kopta na Lupě</A>. Mobilní sítě čtvrté generace jsou moje oblíbené téma, protože o nich můžete prohlásit cokoliv a ona to bude pravda ;)</p>
 

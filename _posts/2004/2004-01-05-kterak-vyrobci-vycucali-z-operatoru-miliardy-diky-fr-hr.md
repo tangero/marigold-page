@@ -1,14 +1,21 @@
 ---
 ID: 776
-title: 'Kterak výrobci vycucali z&nbsp;operátorů miliardy díky FR/HR'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kterak-vyrobci-vycucali-z-operatoru-miliardy-diky-fr-hr
-published: true
+oldlink: 'https://www.marigold.cz/item/kterak-vyrobci-vycucali-z-operatoru-miliardy-diky-fr-hr
+
+  '
 post_date: 2004-01-05 21:44:00
+post_excerpt: ''
+published: true
+summary_points:
+- Amazon doručil knihy dříve než české e-shopy, autor čte o GSM kodecích.
+- Operátoři GSM sítí v 90. letech řešili kapacitu sítě kvůli nárůstu zákazníků.
+- Výrobci zpozdili implementaci HR kodeku, operátoři investovali do upgradu sítí.
+- Ericsson, Motorola a Nokia vydělaly miliardy na upgradu sítí místo HR kodeku.
+title: Kterak výrobci vycucali z&nbsp;operátorů miliardy díky FR/HR
 ---
+
 <p>
 Hromada knížek, které jsem si objednal z Amazonu, mi dorazila právě dneska. Vtipné je, že knihy objednané dříve&#160;na dvou českých shopech ještě nemám. Ale co, právě jsem u velmi pikantní pasáže věnované vývoji hlasových kodeků pro GSM a myslím, že tuhle poezii také oceníte :)</p>
 

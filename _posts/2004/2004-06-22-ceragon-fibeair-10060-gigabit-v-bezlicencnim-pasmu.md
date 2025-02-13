@@ -1,14 +1,21 @@
 ---
 ID: 1162
-title: 'Ceragon FibeAir 10060 &#8211; Gigabit v&nbsp;bezlicenčním pásmu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ceragon-fibeair-10060-gigabit-v-bezlicencnim-pasmu
-published: true
+oldlink: 'https://www.marigold.cz/item/ceragon-fibeair-10060-gigabit-v-bezlicencnim-pasmu
+
+  '
 post_date: 2004-06-22 17:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ceragon FibeAir 10060 nabízí 1,25 Gb/s v bezlicenčním 60 GHz pásmu.
+- GHz pásmo trpí absorpcí vln vodou a kyslíkem, dosah je omezený.
+- FSona SonaBeam dosahuje 2,5 Gb/s pomocí laseru, ale má problémy s mlhou.
+- Oba systémy, 60 GHz a FSO, mají podobný dosah a jsou drahé pro komunitní sítě.
+title: Ceragon FibeAir 10060 &#8211; Gigabit v&nbsp;bezlicenčním pásmu
 ---
+
 <p>
 Izraelská společnost Ceragon dnes představila svoje bezdrátové řešení pro gigabitový ethernet. A co je na tom nejlepší, pracuje v bezlicenčním pásmu. Jde o FibeAir 10060 nabízející rychlosti až 1,25 Gb/s v bezlicenčním pásmu 60 GHz. Abych byl přesnější, toto pásmo je bezlicenční v USA, u nás jsem ho vůbec nenašel ve frekvenčním plánu, takže netuším, jestli tak daleko ČTÚ ještě nedohlédlo, nebo jsem to jen nenašel. </p>
 <p>

@@ -1,14 +1,22 @@
 ---
 ID: 816
-title: Nominace na GSM Association Awards 2004
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nominace-na-gsm-association-awards-2004
-published: true
+oldlink: 'https://www.marigold.cz/item/nominace-na-gsm-association-awards-2004
+
+  '
 post_date: 2004-01-26 17:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ceny GSM Asociace 2004 nemají českého zástupce v užších nominacích.
+- Best Mobile Terminal nominovány Treo 600, Motorola A835, Sharp GX20 a Sony Ericsson
+  T610.
+- Best Mobile Application zahrnuje školní připojení, m-parking, Shazam a SMART Load.
+- Autor preferuje Shazam nebo Mobilkom a z mobilů Treo 600.
+title: Nominace na GSM Association Awards 2004
 ---
+
 <p>
 Na webu 3GSM konference <A href="http://www.gsmworld.com/awards/nominees.html" target=_blank>byly zveřejněny </A>užší nominace na letošní Ceny GSM Asociace. Letos tu nemáme žádného českého zástupce.</p>
 

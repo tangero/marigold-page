@@ -1,14 +1,21 @@
 ---
 ID: 1049
-title: '3G Týden: 3G v&nbsp;Cannes, Hutchison výsledky, Ericsson a&nbsp;HSDPA'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3g-tyden-3g-v-cannes-hutchison-vysledky-ericsson-a-hsdpa
-published: true
+oldlink: 'https://www.marigold.cz/item/3g-tyden-3g-v-cannes-hutchison-vysledky-ericsson-a-hsdpa
+
+  '
 post_date: 2004-05-24 13:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- UMTS videohovory jsou častější v roamingu než v národních sítích.
+- Hutchison Whampoa má 1.73 milionu 3G uživatelů s vysokými akvizičními náklady.
+- Rumunský Zapp spustil Zapp Me, první evropskou implementaci BREW v CDMA450.
+- Ericsson očekává výrazné zlepšení WCDMA sítí s HSDPA technologií v roce 2006.
+title: '3G Týden: 3G v&nbsp;Cannes, Hutchison výsledky, Ericsson a&nbsp;HSDPA'
 ---
+
 <H4>Videohovory v národních sítích</H4>
 <p>
 Problém videotelefonátů v UMTS sítích tkví v tom, že příliš zřídka lze videotelefonovat v rámci státu, ale mezi různými 3G sítěmi. Dokonce je více roamingů pro videhovory, než národních videohovorových propojení. V Portugalsku už přišli na to, že lidem taková situace moc nevoní a mezi místními sítěmi Vodafone a TMN (vlastněná Portugal Telecomem) lze již provozovat videotelefonáty. Vodafone nabízí videohovory do sítě svého konkurenta za stejnou cenu, jako hovory hlasové - ovšem jen na zkušební dobu do konce roku. </p>

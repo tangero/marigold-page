@@ -1,14 +1,21 @@
 ---
 ID: 1620
-title: Jsme fakt východ
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jsme-fakt-vychod
-published: true
+oldlink: 'https://www.marigold.cz/item/jsme-fakt-vychod
+
+  '
 post_date: 2005-04-20 00:20:10
+post_excerpt: ''
+published: true
+summary_points:
+- Pražský taxikář s logem VISA sprostě nadával cizincům kvůli opřenému kufru.
+- Žádná škoda na autě nevznikla, ale poškozena byla pověst taxislužby.
+- Taxikář mluvil česky a lámavou angličtinou, turisté nerozuměli.
+- Autor doufá v odplatu od podnapilých anglických turistů.
+title: Jsme fakt východ
 ---
+
 <p><b>Oook píše:</b>Když jsem v pátek spěchal v Praze na letiště, viděl jsem melou
 nehodičku. Skupina zahraničních turistů tak nešikovně manévrovala s
 vozíkem s kufry, že se jim jeden opřel o zadek passatu místního

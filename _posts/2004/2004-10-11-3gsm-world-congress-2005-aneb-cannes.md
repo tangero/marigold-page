@@ -1,14 +1,22 @@
 ---
 ID: 1357
-title: 3GSM World Congress 2005 (aneb Cannes)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3gsm-world-congress-2005-aneb-cannes
-published: true
+oldlink: 'https://www.marigold.cz/item/3gsm-world-congress-2005-aneb-cannes
+
+  '
 post_date: 2004-10-11 08:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- GSM kongres v Cannes 2005 se koná 14.-17. února a má tři sekce.
+- Venture Funded Technologies nabízí Elevator Pitch pro začínající firmy.
+- Doprava do Cannes je komplikovaná, přímé lety neexistují a je třeba optimalizovat
+  cenu.
+- Příprava zahrnuje GPRS v zahraničí, SIM kartu, foťák a smartphone s češtinou.
+title: 3GSM World Congress 2005 (aneb Cannes)
 ---
+
 <p>
 Přišla mi (asi tak před měsícem) brožurka od GSM kongresu v Cannes a protože začíná být ta nejlepší chvíle objednávat ubytování a cestu, tak pár informací.</p>
 

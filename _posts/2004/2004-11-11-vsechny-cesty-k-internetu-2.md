@@ -1,14 +1,21 @@
 ---
 ID: 1401
-title: 'Všechny cesty k&nbsp;internetu (2)'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vsechny-cesty-k-internetu-2
-published: true
+oldlink: 'https://www.marigold.cz/item/vsechny-cesty-k-internetu-2
+
+  '
 post_date: 2004-11-11 17:15:48
+post_excerpt: ''
+published: true
+summary_points:
+- CDMA pokrytí od Prahy na jih je omezeno kvůli armádě ČR.
+- Eurotel CDMA omezuje rychlost po stažení většího objemu dat.
+- Eduroam umožňuje roaming v akademických sítích po Evropě.
+- Autentizace v Eduroam probíhá pomocí hierarchie Radius serverů.
+title: Všechny cesty k&nbsp;internetu (2)
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041111-eduroam-logo.gif" alt="Logo eduRoam" width="230" height="100" /></div><p>
 Včera jsem vám přinesl <a href="/item/vsechny-cesty-k-internetu">první článek o konferenci Všechny cesty k internetu</a>, jak jsem psal, bylo tam toho mnohem více, a tak si dnes dovolím pokračovat a zmíním další z probíraných témat a tím je mobilita v bezdrátových sítích (nejen) na evropských univerzitách.</p>
 <p>

@@ -1,14 +1,21 @@
 ---
 ID: 1610
-title: 'Google Gulp &#8211; nápoj, který zlepší vaše schopnosti organizovat informace'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/google-gulp-napoj-ktery-zlepsi-vase-schopnosti-organizovat-informace
-published: true
+oldlink: 'https://www.marigold.cz/item/google-gulp-napoj-ktery-zlepsi-vase-schopnosti-organizovat-informace
+
+  '
 post_date: 2005-04-09 10:41:21
+post_excerpt: ''
+published: true
+summary_points:
+- Google Gulp je aprílový žert, nápoj údajně zlepšující organizaci informací v mozku.
+- Autor by si Google Gulp sám objednal, což naznačuje úspěch žertu.
+- Aprílové žerty nejsou výsadou českého internetu, uvádí Washington Post.
+- Fyzikální blogeři ze Stanfordu také vytvořili aprílový žert.
+title: Google Gulp &#8211; nápoj, který zlepší vaše schopnosti organizovat informace
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/20050409-googlegulp.jpg" alt="Google Gulp" width="100" height="200" /></div>Legrácka na víkend - tentokráte jde o <a href="http://www.google.com/googlegulp/">Google Gulp</a>. Vypijte sklenku tohoto úžasného nápoje a nejmodernější genotechnologie rozšíří schopnosti vašeho mozku organizovat informace á la Google.</p>
 
 <p>Bohužel jsem nezjistil, kolik objednávek na tenhle nápoj Google dostal, ale asi dost. Sám bych ho bral... :)</p>

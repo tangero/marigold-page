@@ -1,16 +1,23 @@
 ---
 ID: 1399
-title: >
-  Slovensko definitivně uvolnilo 5GHz
-  pásmo pro WLAN
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/slovensko-definitivne-uvolnilo-5ghz-pasmo-pro-wlan
-published: true
+oldlink: 'https://www.marigold.cz/item/slovensko-definitivne-uvolnilo-5ghz-pasmo-pro-wlan
+
+  '
 post_date: 2004-11-10 15:27:57
+post_excerpt: ''
+published: true
+summary_points:
+- Slovenský Teleoff uvolnil 5GHz pásmo pro bezdrátové sítě s omezením výkonu.
+- Frekvence 5470–5725 MHz mají maximální EIRP 1W na 20MHz kanálu.
+- České povolení 5GHz pásma závisí na projednání v Evropské komisi.
+- ČTÚ čeká na schválení, generální licence v ČR hrozí až na jaře 2005.
+title: 'Slovensko definitivně uvolnilo 5GHz pásmo pro WLAN
+
+  '
 ---
+
 <p>
 Pětigigaherzové pásmo pro bezdrátové sítě podporující kontrolu vysílacího výkonu a dynamickou volbu kmitočtu, uvolnil slovenský regulátor Teleoff. Všeobecné povolení se už objevilo <a href="http://www.teleoff.gov.sk/Vpovolenia/hiperlan2.html">na webu</a>, zprávu úřad vydal již před měsícem. Konkrétně jde o frekvence 5470 – 5725 MHz, kde maximální střední hodnota EIRP je 1W na 20 MHz širokém kanálu (nebo 50mW na každý 1 MHz šířky jinak širokého kanálu).</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 900
-title: 'NetBanka a&nbsp;eBanka &#8211; internetové bankovnictví se dost liší'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/netbanka-a-ebanka-internetove-bankovnictvi-se-dost-lisi
-published: true
+oldlink: 'https://www.marigold.cz/item/netbanka-a-ebanka-internetove-bankovnictvi-se-dost-lisi
+
+  '
 post_date: 2004-03-05 08:56:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor byl jedním z prvních klientů eBanky s osobními i firemními účty.
+- NetBanka má horší uživatelský komfort a funkčnost než eBanka.
+- NetBanka nepodporuje částečnou realizaci ani platnost příkazu delší než jeden den.
+- Autorovi u eBanky chybí možnost převodu mezi osobním a firemním účtem online.
+title: NetBanka a&nbsp;eBanka &#8211; internetové bankovnictví se dost liší
 ---
+
 <p>
 Jsem jeden z prvních klientů eBanky - službu jsem si aktivoval jako snad první zákazník po jejich zaměstnancích, mám u eBanky soukromý účet i několik firemních účtů. Před nějakou dobou na mne přišla doba, kdy jsem se naštvaně podíval na oznámení o změnách poplatků a rozhodl jsem se, že změním banku. A s Ditou jsme si udělali účet v Živnostenské bance, která nabízí internetové bankovnictví pod jménem NetBanka. Mezi tím se v eBance vzpamatovali, nabídli mi lepší podmínky, v eBance jsem zůstal. Venkoncem i proto, že eBanka sice nabízí dražší služby, ale NetBanku se mi nepodařilo rozchodit z mého notebooku, jen z domácího počítače. Pořád tam kolidovaly nějaké javové vyblblosti s Nortonem starajícím se o zabezpečení mého počítače a s AdMuncherem. eBance funguje všechno i při mém paranoidním zabezpečení. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1360
-title: Malá ocenění velkých mužů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mala-oceneni-velkych-muzu
-published: true
+oldlink: 'https://www.marigold.cz/item/mala-oceneni-velkych-muzu
+
+  '
 post_date: 2004-10-14 08:35:00
+post_excerpt: ''
+published: true
+summary_points:
+- Invex udílí ceny, které často slouží spíše k PR než k reálnému ocenění.
+- Nominace na "Osobnost roku" jsou ovlivněny papírovou formou a opakujícími se jmény.
+- Odmítnutí ceny Berdárem poukazuje na sporné kvality nominovaných a politické pozadí.
+- Autor navrhuje ocenit i méně známé, ale přínosné osobnosti z oboru.
+title: Malá ocenění velkých mužů
 ---
+
 <p>
 Invex je mimo jiné příležitostí, jak dekorovat zasloužilé osoby a jiné veletržní exponáty. Podle stále rostoucího počtu ocenění a podle času, který při předávání cen věnují pořadatelé faktu, že se s cenami nedostalo na všechny zájemce, lze sice celou dekorativní šarádu spojenou s Invexem shrnout ze stolu jako pouhou snahu BVV protlačit alespoň v několika článcích invex do médií v positivním světle (a zároveň hromadně neurazit řídnoucí řady vystavovatelů). Jenže letos to všechno nabylo ještě komičtějšího rázu. 
 <b>

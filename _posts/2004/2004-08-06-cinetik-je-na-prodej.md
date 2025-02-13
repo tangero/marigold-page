@@ -1,14 +1,22 @@
 ---
 ID: 1237
-title: Cinetik je na prodej
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cinetik-je-na-prodej
-published: true
+oldlink: 'https://www.marigold.cz/item/cinetik-je-na-prodej
+
+  '
 post_date: 2004-08-06 14:17:44
+post_excerpt: ''
+published: true
+summary_points:
+- Cinetik, internetová DVD půjčovna, je na prodej z důvodu nedostatku času majitelů.
+- Cinetik doručuje DVD poštou za měsíční paušál, s možností budoucího kurýrního doručení.
+- Hlavní problémy Cinetiku jsou nedostatek času na rozvoj a investice do kurýrního
+  doručení.
+- Zájemce o Cinetik by měl investovat do rozvoje, lidských zdrojů a filmové technologie.
+title: Cinetik je na prodej
 ---
+
 <p>
 <font size="2"><p>
 Včera jsme se s Boříkem definitivně usnesli na tom, že bude lepší, když Cinetik dáme na bedra někomu, kdo bude mít čas se mu věnovat. Od doby, kdy se oba musíme věnovat jiným aktivitám, firma dosti strádá a je to na ní vidět. Pokud byste někdo měl zájem Cinetik odkoupit (nejrůznější formou) a věnovat se jeho rozvoji, napište na nabidky@cinetik.cz, jak byste si to představovali a co za údaje od nás pro další přemýšlení potřebujete. </p>

@@ -1,14 +1,23 @@
 ---
 ID: 1755
-title: 'Skype novinky: iSkoot pro levné mobilování, SkypePal pro placení a&nbsp;WiFi Skype telefon'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/skype-novinky-iskoot-pro-levne-mobilovani-skypepal-pro-placeni-a-wifi-skype-telefon
-published: true
+oldlink: 'https://www.marigold.cz/item/skype-novinky-iskoot-pro-levne-mobilovani-skypepal-pro-placeni-a-wifi-skype-telefon
+
+  '
 post_date: 2005-08-03 17:23:46
+post_excerpt: ''
+published: true
+summary_points:
+- iSkoot přesměrovává Skype hovory na mobil přes SkypeOut za nízké poplatky, stojí
+  10 USD ročně.
+- SkypePal umožní uživatelům SkypeOut platit za služby a zboží pomocí kreditu.
+- Skype chystá WiFi telefon pro hovory přes Skype bez nutnosti zapnutého počítače.
+- UTStarcom má vyrábět WiFi telefon pro Skype, cena se odhaduje na 150-400 dolarů.
+title: 'Skype novinky: iSkoot pro levné mobilování, SkypePal pro placení a&nbsp;WiFi
+  Skype telefon'
 ---
+
 <p>Trojice zajímavých nových práv týkajících se Skype. </p>
 
 <p><strong>iSkoot</strong></p>

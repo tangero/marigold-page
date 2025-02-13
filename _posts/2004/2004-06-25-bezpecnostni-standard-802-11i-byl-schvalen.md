@@ -1,16 +1,22 @@
 ---
 ID: 1168
-title: >
-  Bezpečnostní standard 802.11i byl
-  schválen
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezpecnostni-standard-802-11i-byl-schvalen
-published: true
+oldlink: 'https://www.marigold.cz/item/bezpecnostni-standard-802-11i-byl-schvalen
+
+  '
 post_date: 2004-06-25 09:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- i standard schválen, přináší silnější zabezpečení než WEP a WPA.
+- AES šifrování s 802.1X/EAP-TLS nebo PEAP je klíčovou novinkou standardu 802.11i.
+- Software upgrade na 802.11i by měl být možný pro zařízení po září 2002.
+title: 'Bezpečnostní standard 802.11i byl schválen
+
+  '
 ---
+
 <p>
 V tomto týdnu byl také konečně schválen nový bezpečnostní standard 802.11i. Tento standard přináší výrazně posílenou bezpečnost oproti WEP a WPA - především nabídne AES šifrování s 802.1X/EAP-TLS nebo PEAP. </p>
 <p>

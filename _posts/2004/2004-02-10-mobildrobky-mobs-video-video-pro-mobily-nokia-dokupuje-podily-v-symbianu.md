@@ -1,14 +1,21 @@
 ---
 ID: 845
-title: 'Mobildrobky: Mobs video &#8211; video pro mobily, Nokia dokupuje podíly v&nbsp;Symbianu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobildrobky-mobs-video-video-pro-mobily-nokia-dokupuje-podily-v-symbianu
-published: true
+oldlink: 'https://www.marigold.cz/item/mobildrobky-mobs-video-video-pro-mobily-nokia-dokupuje-podily-v-symbianu
+
+  '
 post_date: 2004-02-10 08:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobs video nabízí zdarma stahování videoklipů pro mobilní telefony.
+- Nokia získala 63,3% podíl v Symbianu odkupem od Psionu za 256 milionů dolarů.
+- Odkup Symbianu Nokií krátkodobě nemění situaci a neohrožuje Microsoft.
+- Nokia může díky kontrole Symbianu prosazovat 3G a mobilní hraní.
+title: 'Mobildrobky: Mobs video &#8211; video pro mobily, Nokia dokupuje podíly v&nbsp;Symbianu'
 ---
+
 <p>
 Na světě je další server nabízející&#160;<STRONG>stahování videoklipů na mobilní telefony</STRONG>. Tentokráte ale zadarmo. Jmenuje se <A href="http://www.mobsvideo.com/" target=_blank>Mobs video</A>, podporuje úctyhodnou řádku telefonů a nabízí také slušný výběr videozáznamů. </p>
 

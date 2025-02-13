@@ -1,14 +1,21 @@
 ---
 ID: 1482
-title: 'Dvě mesh řešení od Telabria a&nbsp;Sensoria'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dve-mesh-reseni-od-telabria-a-sensoria
-published: true
+oldlink: 'https://www.marigold.cz/item/dve-mesh-reseni-od-telabria-a-sensoria
+
+  '
 post_date: 2005-01-19 08:40:05
+post_excerpt: ''
+published: true
+summary_points:
+- CES veletrh ukázal mesh řešení, například Telabria CampusMesh pro kampusové sítě.
+- Telabria CampusMesh dosahuje 54 Mb/s a kombinuje vnitřní i venkovní prvky.
+- Sensoria EnRoute400 je béčkové řešení (11 Mb/s) pro průmyslové a bezpečnostní sítě.
+- Sensoria se zaměřuje na bezpečnost a jednoduchost instalace, ne na rychlost.
+title: Dvě mesh řešení od Telabria a&nbsp;Sensoria
 ---
+
 <p>Na veletrhu CES hned několik firem představilo svá mesh řešení pro samoorganizující se sítě. Já jsem vybral dvě, které mi přijdou dotažené do konce a také se mi zdá, že již opustily prototypové stádium. </p>
 
 <h5>Telabria</h5>

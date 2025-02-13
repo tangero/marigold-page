@@ -1,16 +1,23 @@
 ---
 ID: 1213
-title: >
-  Věru nevím, jak bude Český Telecom
-  čelit lavině komunitních sítí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/veru-nevim-jak-bude-cesky-telecom-celit-lavine-komunitnich-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/veru-nevim-jak-bude-cesky-telecom-celit-lavine-komunitnich-siti
+
+  '
 post_date: 2004-07-26 08:27:00
+post_excerpt: ''
+published: true
+summary_points:
+- Komunitní sítě pronikají i do malých vesnic, kde nabízejí levnější internet.
+- Místní nadšenci budují komunitní sítě, čímž konkurují velkým poskytovatelům.
+- Uživatelé upřednostňují cenu a pohodlí před spolehlivostí a technologií.
+- ADSL bude obtížně konkurovat komunitním sítím kvůli ceně a osobnímu přístupu.
+title: 'Věru nevím, jak bude Český Telecom čelit lavině komunitních sítí
+
+  '
 ---
+
 <p>
 Udělal jsem o víkendu zajímavou zkušenost. Až doposud jsem považoval české komunitní sítě za výsadu prakticky jen měst, neřku-li přímo měst větších. Praha je jasná,  Brno je jasné, Kladno, Slaný, ještě tak Mělník. O víkendu jsme byli u rodičů v Pardubicích. Zdejší nabídka internetu přes WiFi se ustálila na 300 Kč měsíčně, pokud netoužíte po dokladu (zdravíme Sobotku) a pokud nepotřebujete extra garantovanou linku - v praxi dostáváte něco jako lehce agregovanou čtvrtmegovku. Jenže věru, Pardubice jsou město s 90 000 obyvateli a tam jsem něco takového také čekal. </p>
 <p>

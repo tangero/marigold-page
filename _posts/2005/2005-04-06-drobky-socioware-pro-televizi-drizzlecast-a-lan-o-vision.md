@@ -1,14 +1,22 @@
 ---
 ID: 1607
-title: 'Drobky: SocioWare pro televizi, DrizzleCast a&nbsp;Lan-o-Vision'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-socioware-pro-televizi-drizzlecast-a-lan-o-vision
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-socioware-pro-televizi-drizzlecast-a-lan-o-vision
+
+  '
 post_date: 2005-04-06 07:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- NuParadigm nabízí zdarma podcastingový software DrizzleCast s technologií Microsoft
+  BITS.
+- Lan-o-Vision umožňuje sdílení filmů po lokální síti, streamování, nikoliv stahování.
+- Plasticbag server pojednává o socioware pro televizi a set-top boxy, sdílení preferencí.
+- Článek o socioware pro TV je inspirativní, ale pro český trh možná nepoužitelný.
+title: 'Drobky: SocioWare pro televizi, DrizzleCast a&nbsp;Lan-o-Vision'
 ---
+
 <p>A zase malá přehlídka drobků a zajímavostí, které by u mne jinak zapadly. </p>
 
 <p>Společnost <a href="http://www.nuparadigm.com">NuParadigm</a> dělá docela zajímavý software třeba pro workflow firemních dokumentů. Aby se ale zvýraznili, vypustili do světa zdarma <b>zajímavý podcastingový software</b> <a href="http://www.nuparadigm.com/Products/Toys/DrizzleCast/">DrizzleCast pro Windows</a>. Zajímavý je mimo jiné i tím, že používá technologii Microsoft BITS pro regulaci stahování v nevyužitém pásmu. A pokud si vzpomínáte na Pointcast a je vám líto, že nemůžete mít RSS zdroj jako screensaver, zkuste tamtéž <a href="http://www.nuparadigm.com/Products/Toys/RssScreensaver/">RSS Screensaver</a>. </p>

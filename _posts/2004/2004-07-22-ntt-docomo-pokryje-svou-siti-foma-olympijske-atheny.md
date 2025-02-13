@@ -1,16 +1,23 @@
 ---
 ID: 1210
-title: >
-  NTT DoCoMo pokryje svou sítí Foma
-  olympijské Athény
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ntt-docomo-pokryje-svou-siti-foma-olympijske-atheny
-published: true
+oldlink: 'https://www.marigold.cz/item/ntt-docomo-pokryje-svou-siti-foma-olympijske-atheny
+
+  '
 post_date: 2004-07-22 08:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- NTT DoCoMo vybuduje v Athénách tři základnové stanice pro 3G síť Foma.
+- Uživatelé Foma budou v Athénách telefonovat za japonské sazby.
+- Foma bude v Athénách fungovat od 30. července do 30. září.
+- Pokrytí Foma v Athénách nezahrnuje olympijský areál.
+title: 'NTT DoCoMo pokryje svou sítí Foma olympijské Athény
+
+  '
 ---
+
 <p>
 Zajímavým způsobem se rozhodl řešit japonský operátor NTT DoCoMo problémy s 3G roamingem na olympijských hrách v Athénách. Jeho síť Foma totiž není kompatibilní se sítěmi evropskými a navíc ani nemá s řeckým operátorem podepsanou roamingovou dohodu, takže ani zapůjčení evropských 3G mobilů by nepomohlo. A nutit zmlsaným japonským uživatelům evropské GSM, to už byla na pyšné NTT docela silná káva. A tak se řešení našlo - NTT DoCoMo od 1. srpna pokryje třemi základnovými stanicemi část Athén a tyto základnové stanice propojí pronajatým okruhem se svou ústřednou v Japonsku. </p>
 <p>

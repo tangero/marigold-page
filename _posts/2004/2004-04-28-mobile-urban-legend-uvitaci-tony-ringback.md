@@ -1,14 +1,21 @@
 ---
 ID: 1007
-title: 'Mobile urban legend: uvítací tóny (ringback)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobile-urban-legend-uvitaci-tony-ringback
-published: true
+oldlink: 'https://www.marigold.cz/item/mobile-urban-legend-uvitaci-tony-ringback
+
+  '
 post_date: 2004-04-28 06:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- Uvítací tóny spustil SK Telecom v Koreji v srpnu 2002 pod názvem Coloring.
+- SK Telecom aktivoval službu Coloring zdarma pro velké množství klientů.
+- NTT DoCoMo v Japonsku s uvítacími tóny neuspělo i přes tiskové zprávy.
+- T-Mobile Uvítací tóny má české stránky umístěné u britského T-Mobile.
+title: 'Mobile urban legend: uvítací tóny (ringback)'
 ---
+
 <p>
 Mám rád městské legendy ve spojení s mobilními telefony - ženy, které uhořely, když se jim vznítil mobil, benzinové stanice, které explodovaly, když při tankování zákazníkovi zazvonil telefon. Ale občas to nic není proti městským legendám, kterými nás častují výrobci a zejména operátoři ve snaze něco prodat. A tak jsem se rozhodl, že semo tamo nějakou úspěšnou legendu zmíním. Narozdíl od těch hořících žen a vybuchujících benzinek jim často totiž věří i lidé z branže. A první příklad, který jsem si vybral, jsou uvítací tóny, tedy ringback. To je takové to vyzvánění když někomu voláte, do něhož hraje nějaká hudba... </p>
 

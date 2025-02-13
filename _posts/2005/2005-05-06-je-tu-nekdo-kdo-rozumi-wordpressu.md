@@ -1,14 +1,21 @@
 ---
 ID: 1635
-title: Je tu někdo, kdo rozumí WordPressu?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/je-tu-nekdo-kdo-rozumi-wordpressu
-published: true
+oldlink: 'https://www.marigold.cz/item/je-tu-nekdo-kdo-rozumi-wordpressu
+
+  '
 post_date: 2005-05-06 08:51:20
+post_excerpt: ''
+published: true
+summary_points:
+- WordPress uživatel potřebuje zobrazit nejnovější články z celého serveru pod články.
+- Úprava WordPress dokumentace pro zobrazení nejnovějších článků se uživateli nedaří.
+- Plugin pro propojení WordPressu s phpBB fórem hlásí chyby a nezobrazuje příspěvky.
+- Uživatel hledá pomoc s funkčním propojením WordPressu a phpBB fóra.
+title: Je tu někdo, kdo rozumí WordPressu?
 ---
+
 <p>Mám dva drobné problémy s WordPressem a ne a ne přijít na to, jak se přes ně dostat. </p>
 
 <p>Věc první, kterou jsem chtěl a potřeboval &#8211; potřebuji pod články vypisovat nejnovější články z celého serveru. Nejsa dobrý programátor, nepodařilo se mi upravit <a href="http://codex.wordpress.org/The_Loop#Multiple_Loops_Version_1">příklad z dokumentace WordPressu</a>, aby fungoval. On tam totiž ještě počítá s tím, že selektruje jen články z té samé kategorie a protože na kýženém serveru ještě nedošlo ke konverzi článků do WordPressu, ani nevidím, zda to vůbec funguje. A navíc bych to opravdu chtěl tak, aby byly pod článkem odkazy na dalších X článků z celého serveru. </p>

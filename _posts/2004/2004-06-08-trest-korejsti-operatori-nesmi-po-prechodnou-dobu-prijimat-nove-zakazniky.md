@@ -1,14 +1,22 @@
 ---
 ID: 1134
-title: 'Trest: korejští operátoři nesmí po&nbsp;přechodnou dobu přijímat nové zákazníky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/trest-korejsti-operatori-nesmi-po-prechodnou-dobu-prijimat-nove-zakazniky
-published: true
+oldlink: 'https://www.marigold.cz/item/trest-korejsti-operatori-nesmi-po-prechodnou-dobu-prijimat-nove-zakazniky
+
+  '
 post_date: 2004-06-08 08:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- Korejští operátoři nabízeli dotace za přechod ke konkurenci.
+- Ministerstvo zakázalo aktivaci nových klientů operátorům SK Telecom, KTF, LG Telecom
+  a KT Resale.
+- Největší trest, 40 dní, dostal SK Telecom za agresivní kampaně.
+- Stabilizace akcií firem je očekávaným výsledkem tohoto rozhodnutí.
+title: 'Trest: korejští operátoři nesmí po&nbsp;přechodnou dobu přijímat nové zákazníky'
 ---
+
 <p>
 Korejští operátoři se do sebe nedávno pustili hlava nehlava a předháněli se lákavými nabídkami ponoukajícími přecházet od jednoho k druhému. Hon na přechod klientů šel tak daleko, že někteří operátoři nabízeli přímo dotace klientovi za změnu operátora (samozřejmě na ně).</p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 846
-title: 'Fayn konečně a&nbsp;skutečně nabízí příchozí telefonní číslo'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/fayn-konecne-a-skutecne-nabizi-prichozi-telefonni-cislo
-published: true
+oldlink: 'https://www.marigold.cz/item/fayn-konecne-a-skutecne-nabizi-prichozi-telefonni-cislo
+
+  '
 post_date: 2004-02-10 11:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- Fayn nabízí příchozí telefonní čísla do své VoIP sítě, zpoplatněná jako volání v
+  ČR.
+- NetPhone Start Pack od Faynu stojí 4600 Kč s DPH a nepotřebuje počítač.
+- Telefonní čísla Fayn jsou přidělována dle geografické lokace uživatele.
+- Přenositelnost telefonního čísla do služby Fayn není aktuálně možná.
+title: Fayn konečně a&nbsp;skutečně nabízí příchozí telefonní číslo
 ---
+
 <p>
 Po dlouhých měsících odkladů <STRONG>Fayn konečně nabídl příchozí telefonní číslo do své VoIP sítě</STRONG>. Zákazníci Faynu mají již přidělené telefonní číslo, na něž se jim lze dovolat z jiných telefonních sítí. Volání do sítě Fayn je zpoplatněno stejně, jako volání na jinou telefonní linku v ČR. </p>
 

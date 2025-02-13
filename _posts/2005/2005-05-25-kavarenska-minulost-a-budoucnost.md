@@ -1,14 +1,21 @@
 ---
 ID: 1657
-title: 'Kavárenská minulost a&nbsp;budoucnost'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kavarenska-minulost-a-budoucnost
-published: true
+oldlink: 'https://www.marigold.cz/item/kavarenska-minulost-a-budoucnost
+
+  '
 post_date: 2005-05-25 08:28:47
+post_excerpt: ''
+published: true
+summary_points:
+- Otec s přáteli navštívil Café Slávia, známou díky domnělému působení Kafky.
+- Autor vzal návštěvu do Café Imperial, proslulé saturninovskými koblihami.
+- Kavárenská kultura se přesunula do menších, méně známých podniků.
+- Moderní tvůrci v kavárnách používají notebooky a internet pro svou práci.
+title: Kavárenská minulost a&nbsp;budoucnost
 ---
+
 <p>V pátek dorazil z Říše můj otec.  Potkat jsme se měli v kavárně Slávie, přijel ještě s dalšími lidmi, aby jim ukázal Prahu. I dorazil jsem do <strong>Café Slávia</strong> toho teplého pátečního odpoledne a zastihl jsem je tam v dobrém rozmaru, jak pojídají a popíjejí a kochají se krásou Prahy, zejména pak kavárny Slávie. </p>
 
 <p>Začal jsem obecenstvu vysvětlovat, že tato kavárna je u nás tak populární a proto turisty narvaná, protože zde psali známí čeští autoři. Samozřejmě padla otázka, jací že to byli autoři. Nejdříve jsem pojal nápad vysvětlovat, kdo to byl Šimek a Grossman, pak jsem si ale ušetřil výklad a pravil jsem, že samozřejmě Kafka. Davem proletělo zašumění nad tou žhavou zvěstí, vždyť pojídat <em>kuchen</em> ve stejném <em>geistraumu</em>, jako Mistr, to je čest. Všichni se shodli na tom, že Mistr dlel v nadmíru hezké kavárně a že není se čemu divit. </p>

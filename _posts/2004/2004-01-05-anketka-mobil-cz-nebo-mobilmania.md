@@ -1,14 +1,21 @@
 ---
 ID: 774
-title: 'Anketka: Mobil.cz nebo MobilMania?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/anketka-mobil-cz-nebo-mobilmania
-published: true
+oldlink: 'https://www.marigold.cz/item/anketka-mobil-cz-nebo-mobilmania
+
+  '
 post_date: 2004-01-05 15:19:00
+post_excerpt: ''
+published: true
+summary_points:
+- MobilMania vyhrála anketu o nejlepší mobilní server s 37 % hlasů.
+- Mobil.cz dotahoval MobilManii, ale hlasy přicházely z IP adresy Mafry.
+- Hlasování z IP adresy Mafry bylo zablokováno kvůli podezření z manipulace.
+- Autor ankety zpochybňuje objektivitu výsledků a nasazuje novou anketu.
+title: 'Anketka: Mobil.cz nebo MobilMania?'
 ---
+
 <p>
 Na vánoce jsem si troufl nahodit provokativní anketu, v níž jsem se vás ptal, který z českých serverů o mobilních telefonech sledujete nejvíce, zda MobilManii nebo Mobil.cz. Škarohlíd by k tomu poznamenal, že těch serveru je zde více, pro tento pád jste ale měli možnost hlasovat pro volbu Nějaký jiný, což učinilo celých nula procent hlasujících. Čili ostatní jako Mobilmag nebo GSM4you vás asi příliš neuchvátili. </p>
 

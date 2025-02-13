@@ -1,14 +1,21 @@
 ---
 ID: 1612
-title: 'Ano, m-platby přes PR&nbsp;SMS jsou konečně zde'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ano-m-platby-pres-pr-sms-jsou-konecne-zde
-published: true
+oldlink: 'https://www.marigold.cz/item/ano-m-platby-pres-pr-sms-jsou-konecne-zde
+
+  '
 post_date: 2005-04-13 07:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa.cz zveřejnila články o mikroplatbách, zmiňující i systém Pipeline.
+- M-platby přes PR SMS umožňují platit mobilem za různé služby.
+- Pipeline od května nabízí M-platby přes PR SMS pro všechny operátory.
+- Transakční náklady M-plateb jsou vysoké, obchodníkovi zbývá stěží polovina.
+title: Ano, m-platby přes PR&nbsp;SMS jsou konečně zde
 ---
+
 <p>Poslední dva dny  na Lupě <a href="http://www.lupa.cz/clanek.php3?show=4066">vychází články věnované mikroplatbním systémům</a> a dneska je tam zmínka i o Pipeline. Nevěděl jsem, že nás autor vezme jako samostatnou kapitolku, takže jsem mu odpovídal spíše obecně, aby se trochu objasnilo, o co gou. Takže to nyní doplním o pár detailů prakticko informačního i skoro-reklamního charakteru. </p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20050413-mplatby.gif" alt="m-platby" width="76" height="77" /></div><b>M-platby na bázi PR SMS</b> jsou možnost nechat si zaplatit mobilem za cokoliv. Třeba za pizzu, za umytí auta, za stažení MP3 nebo přístup na web - oproti klasickým PR SMS, kde ihned operátor začal mávat fakturou s nápisem pokuta. Aby v tom byl trochu zmatek, T-Mobile poskytuje ještě M-platby přes T-Zones, kde se neposílá žádná SMS, jen se přihlašujete do T-Zones. O nich řeč nebude, o nich <a href="http://www.pipeline.cz/mplatby.shtml">píšeme zvláště zde</a>. </p>

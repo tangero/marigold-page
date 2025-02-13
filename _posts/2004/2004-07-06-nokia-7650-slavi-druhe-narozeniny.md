@@ -1,14 +1,21 @@
 ---
 ID: 1182
-title: Nokia 7650 slaví druhé narozeniny
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-7650-slavi-druhe-narozeniny
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-7650-slavi-druhe-narozeniny
+
+  '
 post_date: 2004-07-06 19:46:44
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia 7650 oslavila druhé narozeniny, což ukazuje vývoj chytrých telefonů.
+- Chytré telefony se vyvinuly, ale kvalita fotografií se výrazně nezlepšila.
+- Chytré telefony se prosazují v business třídě, ale pomalu u běžných uživatelů.
+- Technologie nejprve zaujmou "early adopters", poté se prosazují obtížněji.
+title: Nokia 7650 slaví druhé narozeniny
 ---
+
 <p>
 Nokia 7650 slaví druhé narozeniny - první chytrý telefon počátkem července oslavil dva roky na trhu. Tento moment má <strong>dvě mementa pro nás</strong>. Za prvé se podívejte, jak moc se Nokia 7650 liší od dnešních moderních Series 60 zařízení jako Nokia 6600 nebo Sendo X. Rozdíl, který vidíte i cítíte. </p>
 <p>

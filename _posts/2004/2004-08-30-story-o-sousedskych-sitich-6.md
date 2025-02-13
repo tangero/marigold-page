@@ -1,14 +1,22 @@
 ---
 ID: 1284
-title: 'Story o&nbsp;sousedských sítích (6.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-6
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-6
+
+  '
 post_date: 2004-08-30 11:23:10
+post_excerpt: ''
+published: true
+summary_points:
+- Koaxiální kabel nakonektorován s kolegy, proces trval nepřijatelně dlouho a spoj
+  není dokonalý.
+- Anténa z Vinohrad je menší (11 dBi) kvůli památkářům, bude prohozena s jinou.
+- Anténa byla předána i se stožárkem, autor ji vezl MHD z Flory na Dejvickou.
+- Český distributor Mikrotiku půjčí licenci na testování, softwarové AP nevyužito.
+title: Story o&nbsp;sousedských sítích (6.)
 ---
+
 <p>
 V pátek jsme si užili nakonektorování koaxiálního kabelu. Přes spolupráci kolegů (je třeba poděkovat MM a JF) nám to trvalo čas, který považuju za nepřijatelný (a to ten spoj neni ani zdaleka dokonalý).  Kdyby tak byla nějaká sada pro úplné nešiky&#8230;</p>
 <p>

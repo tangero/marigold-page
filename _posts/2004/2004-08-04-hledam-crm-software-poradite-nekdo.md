@@ -1,14 +1,21 @@
 ---
 ID: 1233
-title: 'Hledám CRM software &#8211; poradíte někdo?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hledam-crm-software-poradite-nekdo
-published: true
+oldlink: 'https://www.marigold.cz/item/hledam-crm-software-poradite-nekdo
+
+  '
 post_date: 2004-08-04 11:47:10
+post_excerpt: ''
+published: true
+summary_points:
+- Bugzilla je pro tazatele nevhodný CRM software kvůli složitosti a zbytečným políčkům.
+- Tazatel potřebuje CRM pro evidenci firem, akcí s nimi spojených a jejich přiřazení.
+- Požadováno je webové rozhraní a ideálně open-source řešení pro úpravy.
+- Tazatel hledá doporučení na jednoduchý CRM software, protože nabídka je příliš široká.
+title: Hledám CRM software &#8211; poradíte někdo?
 ---
+
 <p>
 Potřebuju už docela akutně používat nějaký CRM software <em>(jak se tomu říká česky? Software pro řízení a evidenci vztahu se zákazníky?).</em> Ve firmě mi instalovali <strong><em>Bugzillu</em></strong>, ze které se můžu pozvracet - je to asi super software na odstraňování chyb při vývoji, ale na CRM to opravdu není, má to hory políček, které nepotřebuju a není dobré je ignorovat atd. </p>
 <p>

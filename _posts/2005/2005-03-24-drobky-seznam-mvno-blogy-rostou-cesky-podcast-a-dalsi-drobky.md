@@ -1,14 +1,21 @@
 ---
 ID: 1591
-title: 'Drobky: seznam MVNO, blogy rostou, český podcast a&nbsp;další drobky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-seznam-mvno-blogy-rostou-cesky-podcast-a-dalsi-drobky
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-seznam-mvno-blogy-rostou-cesky-podcast-a-dalsi-drobky
+
+  '
 post_date: 2005-03-24 07:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- MVNO seznam ukazuje, kde virtuální mobilní operátoři nejvíce fungují.
+- Amaztype vyhledává knihy, DVD a CD na Amazonu a zobrazuje je.
+- Komunikatory.cz nabízejí odkazy a screenshoty Windows Mobile 2005 Magneto.
+- Blogspot.com návštěvností předběhl NY Times, což ukazuje sílu blogů.
+title: 'Drobky: seznam MVNO, blogy rostou, český podcast a&nbsp;další drobky'
 ---
+
 <p>Narazil jsem na skvělý <b>seznam MVNO, Mobile Virtual Network Operators</b> - virtuálních mobilních operátorů (těch, co nemají mobilní síť, ale pronajmou si ji a tváří se, jako by ji měli). Takoví mají dorazit i k nám, EU chce, aby uvolnění trhu pro MVNO bylo povinné stejně, jako pro alternativní pevnolinkové operátory. Zatím to u nás povinné není a pokud si chcete založit virtuálního operátora, musíte se dohodnout s nějakým vlastníkem místní mobilní sítě. <a href="http://www.takashimobile.com/mvno.html">Tenhle seznam</a> vám řekne, kde a jak moc MVNO frčí. </p>
 
 <p>Další zajímavý drobek patří do kategorie vyhledávání knih. <a href="http://amaztype.tha.jp/">Amaztype</a> je služba, kde zadáte, co hledáte a ono vám to na "hromadu, kterou se můžete prohrabávat" vyhází nalezené knížky (či DVD a CD) z Amazonu. </p>

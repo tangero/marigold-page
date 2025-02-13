@@ -1,14 +1,21 @@
 ---
 ID: 1228
-title: 'Eurotel spouští první 3G síť u&nbsp;nás &#8211; CDMA2000 EV-DO'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-spousti-prvni-3g-sit-u-nas-cdma2000-ev-do
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-spousti-prvni-3g-sit-u-nas-cdma2000-ev-do
+
+  '
 post_date: 2004-08-03 07:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel spustil první českou komerční 3G síť pro rychlá data.
+- EDGE je minimálně čtyřikrát pomalejší než CDMA Data Expres od Eurotelu.
+- Ping v CDMA síti se pohyboval na úrovni 140-160 ms při testování.
+- CDMA je plně mobilní technologie s lepším zvládáním handoverů než GSM.
+title: Eurotel spouští první 3G síť u&nbsp;nás &#8211; CDMA2000 EV-DO
 ---
+
 <p>
 <br/>Na včerejší tiskové konferenci Eurotel spustil první českou komerční 3G síť a sítí třetí generace zůstává bez ohledu na to, že v ní neběží hlasové volání. O rychlá data se stará a stará se o ně dobře. </p>
 <p>

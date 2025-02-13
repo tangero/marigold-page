@@ -1,14 +1,21 @@
 ---
 ID: 775
-title: '3GSM World Congress 2004 &#8211; akreditace dorazila'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3gsm-world-congress-2004-akreditace-dorazila
-published: true
+oldlink: 'https://www.marigold.cz/item/3gsm-world-congress-2004-akreditace-dorazila
+
+  '
 post_date: 2004-01-05 16:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor dříve míval problémy s akreditací na veletrhy.
+- Akreditace na 3GSM World Congress v Cannes pro autora schválena.
+- Autor nabízí volné místo v autě na kongres do Cannes.
+- Autor je zatím první český akreditovaný novinář na kongres.
+title: 3GSM World Congress 2004 &#8211; akreditace dorazila
 ---
+
 <p>
 Nevím proč, ale pořád trpím pocitem, že mne na nějaký veletrh neakreditují. Paradoxně s tím bývaly problémy spíše dříve, dnes (když už nejsem fakticky novinář) mi naopak akreditace vyřizují velmi rychle a bez problémů, ani nechtějí vidět novinářský průkaz, což je dobře, neb žádný nemám. Prostě se spokojují s tím, že na takové akce jezdím už téměř deset let. </p>
 

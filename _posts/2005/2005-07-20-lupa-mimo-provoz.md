@@ -1,14 +1,21 @@
 ---
 ID: 1730
-title: LUPA mimo provoz
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lupa-mimo-provoz
-published: true
+oldlink: 'https://www.marigold.cz/item/lupa-mimo-provoz
+
+  '
 post_date: 2005-07-20 00:42:18
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa server hlásil kolem půlnoci "právě pracujeme" a ruku v rukavici.
+- Hardwarová havárie způsobila dočasný výpadek serveru Lupa.
+- Internet Info usilovně pracuje na odstranění problému s Lupou.
+- Autor spekuluje o příčině výpadku a pozdním návratu ředitele.
+title: LUPA mimo provoz
 ---
+
 <p><b>Ook píše:</b>Dnes kolem půlnoci se na serveru LUPA objevila
 ruka v rukavici a text právě pracujeme. Tuto hlášku vystřídala kolem
 půl jedné jiná:</p>

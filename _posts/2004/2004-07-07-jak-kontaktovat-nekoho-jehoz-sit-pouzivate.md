@@ -1,16 +1,23 @@
 ---
 ID: 1185
-title: >
-  Jak kontaktovat někoho, jehož síť
-  používáte?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-kontaktovat-nekoho-jehoz-sit-pouzivate
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-kontaktovat-nekoho-jehoz-sit-pouzivate
+
+  '
 post_date: 2004-07-07 08:56:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi sítě umožňují připojení k cizím UPC linkám, což autor využil.
+- Autor se dostal do administrace nezabezpečeného Linksys routeru souseda.
+- Sdílený disk a nezabezpečený router souseda představují bezpečnostní riziko.
+- Autor hledá způsob, jak anonymně kontaktovat majitele WiFi sítě a upozornit ho.
+title: 'Jak kontaktovat někoho, jehož síť používáte?
+
+  '
 ---
+
 <p>
 Ptalo se mne na to nedávno několik lidí a právě sám řeším podobný problém. Jak zkontaktovat člověka, jehož SSID vidíte, nebo jste dokonce přes jeho přístupový bod připojeni k internetu? Řešení typu trigonometrické lokalizace jsou neuspokojivé, ale nic jiného mne nenapadlo. Máte někdo nějakou myšlenku na elektronický kontakt? Například jak nějakou Windows službou poslat vzkaz?</p>
 <p>

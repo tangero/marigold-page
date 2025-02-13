@@ -1,14 +1,21 @@
 ---
 ID: 1031
-title: 'Auta, další odbytiště síťových technologií &#8211; automotivní sítě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/auta-dalsi-odbytiste-sitovych-technologii-automotivni-site
-published: true
+oldlink: 'https://www.marigold.cz/item/auta-dalsi-odbytiste-sitovych-technologii-automotivni-site
+
+  '
 post_date: 2004-05-12 08:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- Automobily integrují WiFi sítě pro MP3 přehrávače a bezdrátové snímače tlaku.
+- Automotivní sítě propojují auta peer to peer pro výměnu informací o silnici.
+- Auta si vyměňují data o zácpách, vlhkosti a rychlosti pro bezpečnější jízdu.
+- Automotivní sítě přenášejí náklady na řidiče a automobilové radary jsou blízko realizaci.
+title: Auta, další odbytiště síťových technologií &#8211; automotivní sítě
 ---
+
 <p>
 Automobily jsou už dnes prošpikovány nejmodernější technologi (ty co se prodávají, ne ty, co máme :) a mnoho prodavačů integráčů už napadlo, že není důvod, proč by se jim bezdrátové sítě měly vyhýbat. V poslední době se vyrojilo několik článků na téma, že BMW bude do svých aut vestavovat WiFi sítě, už dnes se dělají WiFi MP3 přehrávače do auta, do kterých skrze WiFi přesypete MP3 soubory z notebooku, existují bezdrátové snímače tlaku v pneumatikách, ale tím by to skončit nemělo. Vzniklo celé schéma automotivních sítí. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 881
-title: 'Location Based Services &#8211; jsem k&nbsp;tomu skeptický'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/location-based-services-jsem-k-tomu-skepticky
-published: true
+oldlink: 'https://www.marigold.cz/item/location-based-services-jsem-k-tomu-skepticky
+
+  '
 post_date: 2004-02-25 16:42:00
+post_excerpt: ''
+published: true
+summary_points:
+- Lokalizace polohy využívá Cell ID (nepřesné) nebo GPS (nutný modul v mobilu).
+- Webraska nabízí externí GPS pro smartphony s měsíčním paušálem 300-500 Kč.
+- Vysoký paušál LBS služeb je pro občasné uživatele neekonomický.
+- Autor preferuje jednorázové platby za zjištění trasy přes operátora/WAP.
+title: Location Based Services &#8211; jsem k&nbsp;tomu skeptický
 ---
+
 <p>
 Protrpěl jsem několik přednášek o Location Based Services (LBS). Přednášky byly z větší části postavené na presentaci konkrétních produktů a nebylo to zase tak zajímavé. Služby založené na znalosti polohy jsou v mobilních sítích s oblibou velmi diskutované, všechna řešení ale mají svoji nevýhodu. V zásadě jsou dvě možná řešení: lokalizace na bázi znalosti Cell ID, což je docela nepřesné (s tolerancí stovek metrů) nebo na bázi GPS, což předpokládá vestavbu GPS modulu do mobilu. Existují kombinace (představuje je třeba Siemens), kdy lokalizace polohy podle Cell ID zrychlí samotné přesné určení polohy podle GPS. Jenže v každém případě (tedy použitelném případě)&#160;to předpokládá vestavět do mobilů něco, co v nich dneska není, tedy GPS. Hodně firem (jako Webraska) to řeší externím GPS, které připojíte k smartphone a dohrajete do něj patřičný software. Webraska má to GPS připojitelné kabelem, existují ale i propojené přes bluetooth. </p>
 

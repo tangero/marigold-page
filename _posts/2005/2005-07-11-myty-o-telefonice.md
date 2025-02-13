@@ -1,14 +1,21 @@
 ---
 ID: 1713
-title: 'Mýty o&nbsp;Telefonice'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/myty-o-telefonice
-published: true
+oldlink: 'https://www.marigold.cz/item/myty-o-telefonice
+
+  '
 post_date: 2005-07-11 08:56:35
+post_excerpt: ''
+published: true
+summary_points:
+- Článek kritizuje idealizovaný obraz Telefonicy prezentovaný Jiřím Hlavenkou.
+- Telefonica neúspěšně investovala do 3G licencí v mnoha zemích včetně Itálie.
+- Eurotel pravděpodobně 3G síť postaví, protože má smlouvu s Nokií.
+- Telefonica zavírá testovací laboratoře Eurotelu v Čechách, což je negativní.
+title: Mýty o&nbsp;Telefonice
 ---
+
 <p>Přečetl jsem si o víkendu článek Jiřího Hlavenky Slavíci z Madridu v Mobilitách. Trochu s křížkem po funuse, je to číslo pět, jenže já ho někde dostal, sám si časopisy moc nekupuju, protože už mi to přijde neekologické. Ale rád si počtu na papíře, to zase ano :)</p>
 
 <p>Slavíci z Madridu jsou o Telefonice - taková analýza, copak je to za firmu. A tady jsem si uvědomil, kolik mýtů si s Telefonicou spojujeme. Jirka Hlavenka ji líčí skoro jako idylickou firmičku, která rozvážně kráčí za svým cílem. Telefonica má k idylice daleko. </p>

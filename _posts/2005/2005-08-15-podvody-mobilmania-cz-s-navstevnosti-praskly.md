@@ -1,14 +1,21 @@
 ---
 ID: 1770
-title: 'Podvody MobilMania.cz s&nbsp;návštěvností praskly'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/podvody-mobilmania-cz-s-navstevnosti-praskly
-published: true
+oldlink: 'https://www.marigold.cz/item/podvody-mobilmania-cz-s-navstevnosti-praskly
+
+  '
 post_date: 2005-08-15 09:06:36
+post_excerpt: ''
+published: true
+summary_points:
+- MobilMania manipulovala s auditem návštěvnosti pomocí kódu na serveru GSMarena.com.
+- GSMarena.com zobrazoval obrázky z MobilManie s jejím auditorským kódem.
+- MobilMania se falešně deklarovala čtenější než Mobil.cz díky podvodné návštěvnosti.
+- Podvod MobilManie je obchodní ostuda a systémový způsob boje s konkurencí.
+title: Podvody MobilMania.cz s&nbsp;návštěvností praskly
 ---
+
 <p>Rychlý růst návštěvnosti MobilManie byl asi podivný všem, kdo statistiky iAuditu a další podobné sledovali. Že MobilMania nehraje nějaký ten pátek čistou hru, se dalo předpokládat a i jsem to předpokládal. Až nedávno prasklo, jak MobilMania s auditem návštěvnosti manipulovala. Článek o tom přináší Lupa.</p>
 
 	Za rychlým vzestupem unikátních návštěvníků, jenž umožnil MobilManii v březnu letošního roku prohlásit, že předstihla Mobil.cz, stojí jednoduchý leč obtížně odhalitelný trik. Spolupráce s anglicky psaným serverem GSMarena.com. Ten přebíral do angličtiny přeložené recenze telefonů z MobilManie. Až potud je to v pořádku. Problém je, že u všech náhledů obrázků zůstal auditorský kód MobilManie, čímž se takto zobrazené obrázky projevili v auditu, jako by je shlédli čtenáři MobilManie. </p>

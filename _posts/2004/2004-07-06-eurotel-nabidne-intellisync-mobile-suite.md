@@ -1,16 +1,23 @@
 ---
 ID: 1181
-title: >
-  Eurotel nabídne Intellisync Mobile
-  Suite
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-nabidne-intellisync-mobile-suite
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-nabidne-intellisync-mobile-suite
+
+  '
 post_date: 2004-07-06 19:31:59
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel nabídne Intellisync Mobile Suite pro lepší dostupnost emailových služeb.
+- Intellisync Mobile Suite zpřístupňuje email přes POP/IMAP a synchronizuje data.
+- Služba podporuje synchronizaci firemního groupwaru přes mobilní síť.
+- Spuštění Intellisync Mobile Suite Eurotelem se očekává do podzimu.
+title: 'Eurotel nabídne Intellisync Mobile Suite
+
+  '
 ---
+
 <p>
 Eurotel se chystá svým zákazníkům nabídnout docela zajímavé řešení Intellisync Mobile Suite. Intellisync je firma zabývající se výrobou synchronizačních řešení pro mobilní zařízení a Mobile Suite je její program určený bezdrátovým / mobilním operátorům. Systém má pro Eurotel integrovat Logos. </p>
 <p>

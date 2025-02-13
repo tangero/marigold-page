@@ -1,14 +1,21 @@
 ---
 ID: 1141
-title: Zkontrolovali jsme nové bydlení
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zkontrolovali-jsme-nove-bydleni
-published: true
+oldlink: 'https://www.marigold.cz/item/zkontrolovali-jsme-nove-bydleni
+
+  '
 post_date: 2004-06-14 07:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Návštěva nového bytu od IPB Real proběhla vcelku v pořádku a byl čistý.
+- V ložnici bytu nepochopitelně namontovali vodovodní trubky a odpad pro kuchyň.
+- Byt má rozlohu 120 metrů čtverečních, což je v Praze velký byt.
+- Po doplacení zbytku ceny a odstranění závady se budou stěhovat.
+title: Zkontrolovali jsme nové bydlení
 ---
+
 <p>
 V pátek jsme s Ditou měli důležitou práci &#8211; na ráno jsme se umluvili s IPB Realem, že se půjdeme podívat na náš čerstvě dostavěný byt, nadiktujeme závady a oni je opraví. Byla to naše první návštěva v novém bytě, protože když jsme ho kupovali, existoval jen na papíře. </p>
 

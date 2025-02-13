@@ -1,14 +1,21 @@
 ---
 ID: 810
-title: 'Notebook a&nbsp;datové přenosy v&nbsp;metru'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/notebook-a-datove-prenosy-v-metru
-published: true
+oldlink: 'https://www.marigold.cz/item/notebook-a-datove-prenosy-v-metru
+
+  '
 post_date: 2004-01-23 13:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Metro pokryté GSM signálem autor původně vítal, ale osobní zkušenost jej odradila.
+- Mladík v metru psal na notebooku, ale efektivita práce byla velmi nízká.
+- Notebook v metru je náchylný k poškození kvůli náhlému brzdění a přeplněnosti.
+- Práce na notebooku v přeplněném metru je nepraktická a riskantní pro zařízení.
+title: Notebook a&nbsp;datové přenosy v&nbsp;metru
 ---
+
 <p>
 Když mobilní operátoři před několika lety slavnostně spouštěli pokrytí stanic metra signálem GSM, posteskl jsem si při nějaké příležitosti, že pokrytí mezi tunely se neplánuje. Snil jsem o tom, jak pojedu metrem s notebookem a budu vyřizovat poštu a všechny potřebné věci. Pak jsem to jednou vyzkoušel a nějak mne to přešlo. </p>
 

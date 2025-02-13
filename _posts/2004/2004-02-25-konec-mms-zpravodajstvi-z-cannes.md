@@ -1,14 +1,22 @@
 ---
 ID: 877
-title: 'Konec MMS zpravodajstvi z&nbsp;Cannes'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/konec-mms-zpravodajstvi-z-cannes
-published: true
+oldlink: 'https://www.marigold.cz/item/konec-mms-zpravodajstvi-z-cannes
+
+  '
 post_date: 2004-02-25 11:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- 'Cannes: Mobilní sítě jsou přetížené, operátoři odpojili GPRS a MMS nefungují.'
+- T-Mobile postavil stánek s internetem pro novináře, protože kongresová infrastruktura
+  kolabuje.
+- GPRS funguje až v Antibes, dvacet kilometrů od výstaviště v Cannes.
+- Novinářka si stěžovala na pomalý internet šéfovi T-Mobile International, René Obermannovi.
+title: Konec MMS zpravodajstvi z&nbsp;Cannes
 ---
+
 <p>
 Tak to vypadá, že moje MMS zpravodajství z Cannes předčasné konci. Všechny mobilní sítě jsou zoufale přetížené, dneska jsem se tu snažil opět učinit několik pracovních hovoru a skončilo to fiaskem, kdy jsme se vzájemné moc neslyšeli. Operátoři to vyřešili svorně tak, že odpojili GPRS a tím i MMS, jak jsem avizoval, ostatně telefonovat v Boygues sítí se absolutně nedá, Orange France ještě trochu jede a SFR na třetí pokus také. Hlavně že se na veletrhu tak často mluví o MMS seamless user expirience - moje user expirience je spíše naser expirience. Go karta tu nefunguje vůbec, už bez ohledu na telefon. Prostě super - na největším kongresu mobiláru mobily nefungují. </p>
 

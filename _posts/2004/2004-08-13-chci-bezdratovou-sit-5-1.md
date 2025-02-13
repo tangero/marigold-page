@@ -1,14 +1,21 @@
 ---
 ID: 1249
-title: Chci bezdrátovou síť! (5.1)
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chci-bezdratovou-sit-5-1
-published: true
+oldlink: 'https://www.marigold.cz/item/chci-bezdratovou-sit-5-1
+
+  '
 post_date: 2004-08-13 23:57:45
+post_excerpt: ''
+published: true
+summary_points:
+- Článek radí, jak získat bezdrátový internet.
+- Dostupnost ADSL lze ověřit online formulářem.
+- Wi-Fi sítě lze hledat v online databázích.
+- Výběr internetu by měl odpovídat potřebám uživatele.
+title: Chci bezdrátovou síť! (5.1)
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040814-mobileuser.gif" alt="Mobilní uživatel" width="148" height="274" /></div><p>
 Závěrečný díl seriálu se snaží odpovědět těm, kteří &#8220;chtějí bezdrátový internet&#8221;. Opět zde bude trocha teorie, věnovat se budeme anténám a příslušenství a samozřejmě probereme &#8220;nákupní košík&#8221;.</p>
 

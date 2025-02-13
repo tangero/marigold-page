@@ -1,16 +1,23 @@
 ---
 ID: 1333
-title: >
-  Proč alternativním operátorů nevoní
-  developerské projekty?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-alternativnim-operatoru-nevoni-developerske-projekty
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-alternativnim-operatoru-nevoni-developerske-projekty
+
+  '
 post_date: 2004-09-24 07:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor očekával konkurenci alternativních operátorů v novém bydlišti, ale marně.
+- Developeři jako IPB Real preferují spolupráci s Českým Telecomem a UPC.
+- Alternativní operátoři neprojevili zájem o zasíťování developerských projektů.
+- Autor nechápe nezájem alternativních operátorů o lukrativní domácnosti v novostavbách.
+title: 'Proč alternativním operátorů nevoní developerské projekty?
+
+  '
 ---
+
 <p>
 Když jsem se stěhoval do Zeleného údolí, říkal jsem si, že to je ta správná lokalita, kde se alternativní operátoři porvou o nabídku připojení. Bláhově jsem si myslel, že dorazím do baráku a budu si moci vybrat minimálně ze dvou operátorů telekomunikačních služeb, ne-li více. Jak správně tušíte, nemohl - telefony jdou přes Český Telecom, televize přes UPC. Jediná konkurenční volba je ADSL versus Chello.</p>
 

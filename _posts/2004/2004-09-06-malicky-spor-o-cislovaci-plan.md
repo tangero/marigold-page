@@ -1,14 +1,21 @@
 ---
 ID: 1303
-title: 'Maličký spor o&nbsp;Číslovací plán'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/malicky-spor-o-cislovaci-plan
-published: true
+oldlink: 'https://www.marigold.cz/item/malicky-spor-o-cislovaci-plan
+
+  '
 post_date: 2004-09-06 08:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor polemizuje s Jiřím Peterkou ohledně výkladu Číslovacího plánu ČTÚ.
+- Číslovací plán má zajistit soudržnost a cenovou jednoznačnost telefonních čísel.
+- Připojení k internetu přes běžná čísla by nemělo porušovat Číslovací plán.
+- Autor se ptá ČTÚ na oficiální stanovisko k připojování přes jiná čísla než 971.
+title: Maličký spor o&nbsp;Číslovací plán
 ---
+
 <p>
 Lidi z ČTÚ prosím nechť dále nečtou, protože by se jen nadarmo dobře bavili nad prostotou tohoto sporu. Minulý týden jsem na Marigolda napsal, že se domnívám, že s novými tarify Víkend a Volno se mohou lidé zdarma rovněž připojovat na internet na čísla v místní a dálkové zóně, tedy nikoliv na čísla zvláštního tarifu Internet začínající 971. Posléze jsem článek doplnil o další zjištění (příkladmo ta čísla) a dal ho <a href="http://www.lupa.cz/clanek.php3?show=3614">druhý den na Lupu</a>. <a href="http://www.lupa.cz/clanek.php3?show=3617">Jiří Peterka dnes namítá</a>, že by to podle něj bylo porušení Číslovacího plánu. </p>
 

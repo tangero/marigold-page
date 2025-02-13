@@ -1,14 +1,24 @@
 ---
 ID: 938
-title: Chello by to schladit horké hlavy
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chello-by-to-schladit-horke-hlavy
-published: true
+oldlink: 'https://www.marigold.cz/item/chello-by-to-schladit-horke-hlavy
+
+  '
 post_date: 2004-03-23 08:12:00
+post_excerpt: ''
+published: true
+summary_points:
+- UPC Chello zavedlo datové limity, což vyvolalo vlnu nevole u některých uživatelů.
+- Autor chápe zavedení limitů, protože někteří uživatelé stahují nadměrná množství
+  dat.
+- Telekomunikační sítě kalkulují cenu služeb podle nákladů, elasticity trhu a celkového
+  výnosu.
+- Většina nespokojených zákazníků UPC pravděpodobně neodejde kvůli nedostatku lepších
+  alternativ.
+title: Chello by to schladit horké hlavy
 ---
+
 <p>
 Kolem zavedení datových limitů v UPC Chello se rozpoutala drobná bouře nevole, v diskusi na <A href="http://www.lupa.cz/clanek.php3?show=3283" target=_blank>Lupě se dozvídám, že Mirek Zeman je... </A>, když špatně vyhodnotil dopad omezení a dovolil si vyslovit názor, že je z části chápe - píše mu dokonce i Bill Gates, takže na tom něco bude ;)</p>
 

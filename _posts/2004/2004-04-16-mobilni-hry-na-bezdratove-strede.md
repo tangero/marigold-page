@@ -1,14 +1,21 @@
 ---
 ID: 1089
-title: Mobilní hry na Bezdrátové středě
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-hry-na-bezdratove-strede
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-hry-na-bezdratove-strede
+
+  '
 post_date: 2004-04-16 08:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobilní herní trh 2010 měl dosáhnout trojnásobku obratu PC her.
+- Eurotel vyžaduje u her češtinu, T-Mobile s tím nesouhlasí.
+- Hardcore hráče lze snadno získat, masový trh mobilních her obtížně.
+- Redboss.cz buduje komunitu hráčů, Eurotel na komunity nesází.
+title: Mobilní hry na Bezdrátové středě
 ---
+
 Jak vypadá trh s mobilními hrami v ČR a ve světě? O tom se mluvilo a diskutovalo na Wireless Wednesday a zde jsou sumarizované postřehy z toho...<!--more--><p>
 Ve středu jsem moderoval diskusní panel na <A href="http://www.tuesday.cz/detailAkce.aspx?id=187" target=_blank>Wireless Wednesday</A> věnovaný mobilním hrám, díky čemuž jsem se na WW taky po delší době dostal. A tak jsem se rozhodl z toho udělat malý zápis a zamyšlení nad tím, o čem se tam mluvilo. Včera jsem to už vážně nestihl...</p>
 

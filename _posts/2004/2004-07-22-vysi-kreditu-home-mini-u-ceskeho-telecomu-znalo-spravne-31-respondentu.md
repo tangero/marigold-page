@@ -1,14 +1,21 @@
 ---
 ID: 1211
-title: 'Výši kreditu Home Mini u&nbsp;Českého Telecomu znalo správně 31% respondentů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vysi-kreditu-home-mini-u-ceskeho-telecomu-znalo-spravne-31-respondentu
-published: true
+oldlink: 'https://www.marigold.cz/item/vysi-kreditu-home-mini-u-ceskeho-telecomu-znalo-spravne-31-respondentu
+
+  '
 post_date: 2004-07-22 18:58:40
+post_excerpt: ''
+published: true
+summary_points:
+- Home Mini tarifu kredit 102 Kč znalo pouze 31% hlasujících v anketě.
+- Běžní uživatelé Telecomu pravděpodobně neznají výši svého telefonního kreditu.
+- Lidé často žijí v dojmových stereotypech o mobilních operátorech a cenách.
+- Zákaznický servis Českého Telecomu je sice zdlouhavý, ale nakonec funkční.
+title: Výši kreditu Home Mini u&nbsp;Českého Telecomu znalo správně 31% respondentů
 ---
+
 <p>
 Moje anketa na téma, jaký kredit má tarif Home Mini u Českého Telecomu získala během jednoho dne přes 140 hlasů. 47% hlasujících soudilo, že tarif Home Mini žádný kredit nemá, zatímco jeho správnou výši 102 Kč znalo či uhodlo 31 procent hlasujících. A to není zrovna moc - čili se potvrdilo moje podezření, že výše kreditu u tarifů Českého Telecomu není zrovna obecně známa. Hlasující na tomto serveru bych si dovolil považovat za v telekomunikacích zběhlejší a pokud i z nich se správného výsledku dobere necelá třetina, není to mnoho. Aby bylo jasno - sám jsem to nevěděl, podíval jsem se do ceníku a myslel jsem si, že je tam chyba, až mi to i na infolince potvrdili... </p>
 <p>

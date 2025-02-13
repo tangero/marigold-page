@@ -1,13 +1,20 @@
 ---
 ID: 1367
-title: EDGE parade
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
 oldlink: https://www.marigold.cz/item/edge-parade
-published: true
 post_date: 2004-10-20 08:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel dvakrát podnítil rychlá data, zavedením datového paušálu a investicí do
+  CDMA.
+- Oskar zavedl EDGE, ale spuštění plánuje až v první polovině roku 2005.
+- T-Mobile umožní v síti EDGE i GPRS používat 4+4 timesloty, celkem pět najednou.
+- Slovenský EuroTel zvažuje instalaci CDMA v pásmu NMT, které provozuje.
+title: EDGE parade
 ---
+
 <p>
 Zatímco krávy z Prahy postupně mizí (tedy alespoň ty plastové), přichází k nám další zábava dovlečená Eurotelem – ještě rychlejší mobilní data. Protože, abychom nežili v bludu, je třeba mít na paměti, že to byl Eurotel, kdo po dvakráte  přišel s impulsem pro rychlá data. Ponejprv, když zavedl datový paušál a několik desítek tisíc lidí se přes GPRS připojilo k internetu. Podruhé, když Eurotel GPRS nazřel jako pomalé a zainvestoval CDMA. Můžeme si o CDMA myslet, co chceme, ale jisté je, že bez CDMA by nebylo EDGE. Už jsem tu probíral, že T-Mobile se prakticky nikde na trhu do rychlých dat nehrne, pokud nemá konkurenci – například v případě Vodafone funícího s UMTS nebo Orange utrácejícího právě za EDGE. </p>
 

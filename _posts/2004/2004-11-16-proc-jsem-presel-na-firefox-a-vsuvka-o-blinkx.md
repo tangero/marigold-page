@@ -1,14 +1,22 @@
 ---
 ID: 1405
-title: 'Proč jsem přešel na FireFox (a&nbsp;vsuvka o&nbsp;Blinkx)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-jsem-presel-na-firefox-a-vsuvka-o-blinkx
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-jsem-presel-na-firefox-a-vsuvka-o-blinkx
+
+  '
 post_date: 2004-11-16 16:27:36
+post_excerpt: ''
+published: true
+summary_points:
+- Firefox získal uživatele díky podobnosti s MSIE a drobným vylepšením.
+- Autor přešel na Firefox kvůli panelům, správci stahování a AdBlocku.
+- Blinkx je vyhledávač pro Windows 2000/XP, který prohledává různé dokumenty.
+- Smart Folders v Blinkx automaticky aktualizují obsah dle definovaných klíčových
+  slov.
+title: Proč jsem přešel na FireFox (a&nbsp;vsuvka o&nbsp;Blinkx)
 ---
+
 <p>
 FireFoxu se podařila opravdu slušná reklamní kampaň a média nás zleva zprava masírují informacemi o novém FireFoxu. Jak jsem si na netu všiml, pár lidí už toho má dost a argumentuje tím, že verze 1.0 není tak převratná oproti 0.8 a že humbuku už je kolem toho dost. Já si sice myslím, že pokud má MSIE procitnout ze svojí browserové dřímoty, dost toho humbuku ještě není, ale to není podstatné. </p>
 

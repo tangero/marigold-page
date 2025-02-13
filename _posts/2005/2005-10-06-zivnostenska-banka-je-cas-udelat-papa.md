@@ -1,14 +1,21 @@
 ---
 ID: 1839
-title: 'Živnostenská banka: je čas udělat pápá'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zivnostenska-banka-je-cas-udelat-papa
-published: true
+oldlink: 'https://www.marigold.cz/item/zivnostenska-banka-je-cas-udelat-papa
+
+  '
 post_date: 2005-10-06 09:48:22
+post_excerpt: ''
+published: true
+summary_points:
+- Živnostenská banka se stala nepochopitelnou po převzetí italským majitelem.
+- Instalace e-bankingu Živnobanky je komplikovaná a vede k frustraci.
+- PavelS nedostal od Živnobanky hypotéku s úrokem dle webové nabídky.
+- Živnobanka držela PavlaS pět let na vysoké úrokové sazbě hypotéky.
+title: 'Živnostenská banka: je čas udělat pápá'
 ---
+
 <p>Jsou bankovní ústavy, kterým nerozumím. Italskému majiteli se podařilo proměnit Živnostenskou banku ze sympatického ústavu na něco, co nechápu. Tento týden má Žiba dva zářezy.</p>
 
 <p>Ponejprv se Dita rozhodla, že si instaluje e-banking Žiba na notebook, protože jsme rozebrali velký počítač a odpojili jej od sítě. Instalace elektronického bankovnictví Žiba ale není věc, kterou by Dita sama zvládala v pohodě, má ostatně jen dvě vysoké školy a to evidentně nestačí. Nastoupil jsem já, místo vysokoškolského rozumu jsem se pokusil aplikovat hrubé násilí a nakonec jsme se pro jistotu shodli, že účet v Živnostenské bance zrušíme. Bude nás to stát méně nervů a nerozšlapu při tom notebook. Proč podporovat službu, která evidentně je jen proto jen že je. Naopak Spořitelna, pro kterou jsem od roku 1991 neměl dobrého slova, se překvapivě snaží. </p>

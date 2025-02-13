@@ -1,16 +1,25 @@
 ---
 ID: 1425
-title: >
-  Ajaj. Budeme regulovat IP telefonii. Jen
-  co regulátoři vymyslí, jak.
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ajaj-budeme-regulovat-ip-telefonii-jen-co-regulatori-vymysli-jak
-published: true
+oldlink: 'https://www.marigold.cz/item/ajaj-budeme-regulovat-ip-telefonii-jen-co-regulatori-vymysli-jak
+
+  '
 post_date: 2004-11-30 13:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- Evropská komise projednává regulaci přístupu ke službám využívajícím internetový
+  protokol.
+- Skupina evropských regulátorů (ERG) zpracovává návrh stanoviska k regulaci IP technologií.
+- ČTÚ pracuje na zásadách regulace elektronické komunikace a žádá o připomínky.
+- Regulace IP telefonie nemá ekonomický ani technický důvod, kromě vstupu do telefonní
+  sítě.
+title: 'Ajaj. Budeme regulovat IP telefonii. Jen co regulátoři vymyslí, jak.
+
+  '
 ---
+
 <p>
 Včera, když jsem psal o kmitočtové tabulce vydané ČTÚ, všiml jsem si také zprávy na webu ČTÚ <i>Stanovisko k zavádění technologie IP</i> (<a href="http://www.ctu.cz/art.php?iSearch=&amp;iArt=467">web ČTÚ</a>). Nejzajímavější pasáž:</p>
 

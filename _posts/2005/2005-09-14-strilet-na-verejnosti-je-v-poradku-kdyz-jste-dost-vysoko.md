@@ -1,14 +1,21 @@
 ---
 ID: 1820
-title: 'Střílet na veřejnosti je v&nbsp;pořádku (když jste dost vysoko)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/strilet-na-verejnosti-je-v-poradku-kdyz-jste-dost-vysoko
-published: true
+oldlink: 'https://www.marigold.cz/item/strilet-na-verejnosti-je-v-poradku-kdyz-jste-dost-vysoko
+
+  '
 post_date: 2005-09-14 17:19:24
+post_excerpt: ''
+published: true
+summary_points:
+- Berdár nebude obviněn za střelbu, policie neshledala trestný čin ani přestupek.
+- Autor ironicky srovnává Berdárovu beztrestnost s možnou reakcí policie na jeho chování.
+- Velíšek zemřel, když se zastal ženy ohrožované střelcem na ulici.
+- Autor vzpomíná na situaci, kdy napomenul muže za odhození odpadku a byl napaden.
+title: Střílet na veřejnosti je v&nbsp;pořádku (když jste dost vysoko)
 ---
+
 <p>Někdy nevím, co si mám myslet. Snad lépe nemyslet a jen odcitovat zprávu ČTK:</p>
 
 	<blockquote><p>

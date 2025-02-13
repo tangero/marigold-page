@@ -1,14 +1,22 @@
 ---
 ID: 1124
-title: Švýcarsko se ubránilo dani ze SMS
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/svycarsko-se-ubranilo-dani-ze-sms
-published: true
+oldlink: 'https://www.marigold.cz/item/svycarsko-se-ubranilo-dani-ze-sms
+
+  '
 post_date: 2004-06-03 09:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- Švýcarský parlament zamítl návrh na zdanění SMS zpráv 5 centimy za zprávu.
+- Návrh daně ze SMS měl ve Švýcarsku přinést 150 milionů franků na národní bezpečnost.
+- Filipíny zvažují zdanění SMS zpráv, protože je nepovažují za nutnost.
+- Filipínský návrh na zdanění SMS je vládní, švýcarský byl individuální poslanecký
+  návrh.
+title: Švýcarsko se ubránilo dani ze SMS
 ---
+
 <p>
 Švýcarsko se ubránilo zvláštnímu zdanění SMS zpráv. To navrhoval Národnímu shromáždění (zdejší obdoba parlamentu, doufám, že jsem to přeložil dobře) poslanec Alexander Baumann. Podle jeho představy se měla každá SMS danit 5 centimy (místní drobák), přičemž SMS stojí  20-30 centimů (to jsou 4-6 Kč zhruba) dle tarifu. </p>
 

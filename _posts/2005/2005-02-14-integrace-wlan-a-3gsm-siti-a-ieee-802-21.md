@@ -1,14 +1,21 @@
 ---
 ID: 1529
-title: 'Integrace WLAN a&nbsp;3GSM sítí a&nbsp;IEEE 802.21'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/integrace-wlan-a-3gsm-siti-a-ieee-802-21
-published: true
+oldlink: 'https://www.marigold.cz/item/integrace-wlan-a-3gsm-siti-a-ieee-802-21
+
+  '
 post_date: 2005-02-14 14:41:49
+post_excerpt: ''
+published: true
+summary_points:
+- IEEE 802.21 standardizuje handover mezi WLAN, WiMax a 3GSM technologiemi.
+- WLAN vyniká rychlostí a cenou, ale postrádá pokrytí a rychlý handover.
+- Nedostatečné WiFi pokrytí v domácnostech je častým důvodem vracení routerů.
+- WiFi v Cannes stojí 5 euro za hodinu, 130 euro za sedm dní.
+title: Integrace WLAN a&nbsp;3GSM sítí a&nbsp;IEEE 802.21
 ---
+
 <p>IEEE 802.21 je právě vytvářený standard pro handover mezi WLAN, WiMax a 3GSM. Stojí za ním Airwave, Intel, Microsoft a InterDigital. I proto jsou třeba SMS podporované na IP, aby prošly přes WLAN.</p>
 
 <p>Zákazník si vybere to nejlepší z každé technologie a pak to očekává od té druhé technologie. U WLAN je to vysoká rychlost, cena, počítačové interface. Naopak zde není pokrytí, rychlý handover a rozzáhlá síť.</p>

@@ -1,14 +1,22 @@
 ---
 ID: 1247
-title: Chci bezdrátovou síť! (4)
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chci-bezdratovou-sit-4
-published: true
+oldlink: 'https://www.marigold.cz/item/chci-bezdratovou-sit-4
+
+  '
 post_date: 2004-08-12 16:30:36
+post_excerpt: ''
+published: true
+summary_points:
+- Venkovní sítě propojují počítače/sítě vzdálené stovky metrů až kilometry s venkovní
+  anténou.
+- Důležitá je přímá viditelnost mezi body sítě, ovlivněná Fresnelovou zónou.
+- Výstavba venkovních sítí vyžaduje povolení, odbornost a znalost norem.
+- Topologie sítí se dělí na dvoubodové (PtP) a vícebodové (PtMP) s různými technologiemi.
+title: Chci bezdrátovou síť! (4)
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040812-PtMP diagram.jpg" alt="Zobrazení venkovní PtMP sítě" width="204" height="200" /></div><p>
 V minulém díle jsme se věnovali hot-spotům, a hlavně jsme konečně začali probírat jednotlivé typy bezdrátových sítí, co potřebujete k jejich vytvoření a kolik vás to bude stát. Minule jsme zvládli jen interní sítě, dnes se vrhneme na venkovní sítě.</p>
 

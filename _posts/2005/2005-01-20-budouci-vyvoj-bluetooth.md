@@ -1,14 +1,21 @@
 ---
 ID: 1486
-title: Budoucí vývoj Bluetooth
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/budouci-vyvoj-bluetooth
-published: true
+oldlink: 'https://www.marigold.cz/item/budouci-vyvoj-bluetooth
+
+  '
 post_date: 2005-01-20 14:01:18
+post_excerpt: ''
+published: true
+summary_points:
+- Bluetooth 2.0 EDR nabízí trojnásobnou rychlost a sníženou spotřebu energie.
+- Bluetooth SIG letos publikuje novou verzi specifikace s vylepšenou bezpečností.
+- V roce 2006 Bluetooth získá multicast pro odesílání zpráv více zařízením.
+- Dosah Bluetooth se v roce 2006 zvýší na sto metrů.
+title: Budoucí vývoj Bluetooth
 ---
+
 <p>Kampak kráčí low-cost bezdrátové propojení bluetooth? Jeho nová verze 2.0 s rozšířením EDR (Enhanced Data Rate) nabídne trojnásobnou rychlost, tedy až 3 Mb/s se současným snížením spotřeby.</p>
 
 <p>Letos hodlá Bluetooth SIG publikovat novou verzi specifikace, která dále rozšíří spolupráci více zařízení, zvýší bezpečnost a sníží odběr energie.</p>

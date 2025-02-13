@@ -1,14 +1,22 @@
 ---
 ID: 1684
-title: 'Drobky: mýtné, Google koupil mobilní socioware, WIA RLAN, VoIP u&nbsp;Unientu za paušál'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-mytne-google-koupil-mobilni-socioware-wia-rlan-voip-u-unientu-za-pausal
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-mytne-google-koupil-mobilni-socioware-wia-rlan-voip-u-unientu-za-pausal
+
+  '
 post_date: 2005-06-15 14:32:13
+post_excerpt: ''
+published: true
+summary_points:
+- Mýtné elektronické mýtné prosazuje EU a velké koncerny, existují i jednodušší řešení.
+- Google koupil Dodgeball, americkou aplikaci pro vyhledávání přátel a komunikaci.
+- WIA koupila RLAN síť Nextry, což má smysl i přes nenažranost Telecomu.
+- Unient spustil Viphone Express, VoIP telefonování za paušální poplatek.
+title: 'Drobky: mýtné, Google koupil mobilní socioware, WIA RLAN, VoIP u&nbsp;Unientu
+  za paušál'
 ---
+
 <p>Na <a href="http://www.blisty.cz/2005/6/15/art19761.html">Britských listech píše</a> Jiří Kofránek o výběru <b>silničního mýtného</b> a představách odborné komise ČSSD na to. Jako motto volí odstaveček z mého staršího článku. Jen pro pořádek připomínám, že já taky vím, že elektronické mýtné je proto, že si ho vynutila EU a prolobbovaly velké koncerny, které se na něm nakrmí. To nic nemění na tom, že existují jednodušší řešení. Jen tak na okraj: u Jiřího Kofránka často přemýšlím nad tím, proč je u ČSSD, když má rozumné nápady (což u ČSSD nevídám). Tomu odpovídá i článek. </p>
 
 <p><strong>Google koupil americkou socioware aplikaci <a href="http://www.dodgeball.com">Dodgeball</a>.</strong> Už před měsícem, ale nějak mi to uniklo.  Dodgebal umožňuje vyhledávání přátel ve vaší blízkosti mobilem, komunikaci s nimi, svolávání pařeb atd. V USA dosti oblíbená záležitost. Mám chuť to zkusit i u nás... Chlapci hledali investora, který by jim pomohl nějakou investicí hru dostat dál a ozval se Google, to muselo být docela překvapení. <em>Haloooo, Larry, Sergei, mám super plán, jak rozvinout Marigolda ;)</em></p>

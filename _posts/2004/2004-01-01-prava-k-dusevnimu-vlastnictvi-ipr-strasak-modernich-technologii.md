@@ -1,14 +1,21 @@
 ---
 ID: 769
-title: 'Práva k&nbsp;duševnímu vlastnictví (IPR) &#8211; strašák moderních technologií'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prava-k-dusevnimu-vlastnictvi-ipr-strasak-modernich-technologii
-published: true
+oldlink: 'https://www.marigold.cz/item/prava-k-dusevnimu-vlastnictvi-ipr-strasak-modernich-technologii
+
+  '
 post_date: 2004-01-01 08:12:00
+post_excerpt: ''
+published: true
+summary_points:
+- IPR (práva k duševnímu vlastnictví) ovlivňují moderní technologie.
+- GSM telefony vyžadují stovky patentů, které drží různé firmy.
+- Esenciální patenty jsou nezbytné pro fungování GSM telefonů.
+- Neesenciální patenty, například pro spoření baterie, nejsou nutné.
+title: Práva k&nbsp;duševnímu vlastnictví (IPR) &#8211; strašák moderních technologií
 ---
+
 <p>
 Přes vánoce jsem četl tlustou knihu věnovanou duševnímu vlastnictví v telco technologiích. Problematika tzv <STRONG>Intellectual Property Rights (IPR),</STRONG> Práv k duševnímu vlastnictví doléhá prakticky na všechny moderní technologie a je zajímavé, jak málo si to uvědomujeme. </p>
 

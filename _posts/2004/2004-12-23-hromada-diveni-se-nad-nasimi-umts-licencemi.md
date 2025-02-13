@@ -1,16 +1,23 @@
 ---
 ID: 1453
-title: >
-  Hromada divení se nad našimi UMTS
-  licencemi
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hromada-diveni-se-nad-nasimi-umts-licencemi
-published: true
+oldlink: 'https://www.marigold.cz/item/hromada-diveni-se-nad-nasimi-umts-licencemi
+
+  '
 post_date: 2004-12-23 16:37:38
+post_excerpt: ''
+published: true
+summary_points:
+- UMTS licence další pokus o plnění státních a stranických pokladen.
+- Oskar dříve odmítl 3G licenci za 2 miliardy korun.
+- Aukce by stanovila tržní cenu 3G licence, což je nejlepší řešení.
+- ČTÚ uděluje telekomunikační licenci v pásmu 872 MHz na širokopásmovou síť.
+title: 'Hromada divení se nad našimi UMTS licencemi
+
+  '
 ---
+
 <p>
 Ještě v letadle z Hurgady jsem se nad novinami podivoval, kam se to vůbec vracím a kdybych ty noviny začal číst ještě na letišti, asi bych návrat zavrhl úplně. Za všechny ty podivnosti, kterými nás české politická žumpérie častuje, bych připomněl něco z oboru – UMTS licence. Ejhle, hlavy pomazané pravily, že by bylo vhodno udělit další licenci pro 3G sítě. Modří již vědí – nejde o šanci na nové zajímavé služby, ale o další pokus zaplnit státní i stranické pokladny, státní z tender-fee, stranické pak z interes-fee. </p>
 

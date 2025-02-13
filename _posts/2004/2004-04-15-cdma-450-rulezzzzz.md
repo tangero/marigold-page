@@ -1,14 +1,21 @@
 ---
 ID: 984
-title: CDMA 450 Rulezzzzz
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cdma-450-rulezzzzz
-published: true
+oldlink: 'https://www.marigold.cz/item/cdma-450-rulezzzzz
+
+  '
 post_date: 2004-04-15 07:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- CDMA450 téma článků, Mr. B. z GSMWebu fotil a popsal antény.
+- MaLér zveřejnil článek s fotkami modemu CDMA, ale zřejmě ne od Eurotelu.
+- Kamojed vysvětluje technicky CDMA2000 EVDO (Eurotel na 450 MHz) a forward link.
+- Základy CDMA by potřebovaly srozumitelný článek, protože Kamojedův je složitý.
+title: CDMA 450 Rulezzzzz
 ---
+
 <p>
 Zase několik článků na téma CDMA 450. Na MobilManii jen odkazují na článek z GSMWebu, kde si Mr. B. konečně trochu pročetl, jak CDMA vypadá a šel ho vyfotit. Záslužný čin - do fotek i dokreslil, která anténa je pro CDMA. Článek <A href="http://www.gsmweb.cz/clanky/clanek.php?id=52" target=_blank>GSMWebu je zde</A>. Vypadá to, že mi konečně Mr. B. uvěřil, že CDMA450 existuje a funguje, článek z přelomu roku ovšem za přečtení <A href="http://www.gsmweb.cz/clanky/clanek.php?id=51" target=_blank>stojí také</A>. Je sugestivní a než uvěříte, že to, co je v něm, je pravda, doporučuji také diskusi na jeho konci. </p>
 

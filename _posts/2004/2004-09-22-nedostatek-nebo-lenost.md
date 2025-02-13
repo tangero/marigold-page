@@ -1,14 +1,21 @@
 ---
 ID: 1331
-title: Nedostatek nebo lenost?
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nedostatek-nebo-lenost
-published: true
+oldlink: 'https://www.marigold.cz/item/nedostatek-nebo-lenost
+
+  '
 post_date: 2004-09-22 11:29:07
+post_excerpt: ''
+published: true
+summary_points:
+- Patrick a Martin Kopta si stěžují na nedostatek obsahu pro broadband.
+- Doména .cz nabízí na 100 tisíc audio a video příspěvků.
+- Uživatelé očekávají televizní kvalitu a kvantitu obsahu online.
+- Martin Kopta nevyužívá legální odkazy na pořad Diagnóza na svém webu.
+title: Nedostatek nebo lenost?
 ---
+
 <p>
 Nedávno si Patrick na Marigoldu postěžoval, že mu chybí obsah pro broadband. Včera si na totéž stěžoval Martin kopta na <a href="http://www.lupa.cz/">Lupa(.cz)</a>. Podle zcela relevatního zdroje je v doméně .cz k dispozici na 100.000 audio a video příspěvků. </p>
 <p>

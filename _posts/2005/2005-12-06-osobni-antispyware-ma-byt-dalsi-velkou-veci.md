@@ -1,16 +1,23 @@
 ---
 ID: 1886
-title: >
-  Osobní antispyware má být další
-  velkou věcí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/osobni-antispyware-ma-byt-dalsi-velkou-veci
-published: true
+oldlink: 'https://www.marigold.cz/item/osobni-antispyware-ma-byt-dalsi-velkou-veci
+
+  '
 post_date: 2005-12-06 11:05:09
+post_excerpt: ''
+published: true
+summary_points:
+- Osobní antispyware má být "Příští velká věc" kvůli rostoucímu monitoringu.
+- Dostupnost satelitních map zdarma ukazuje na rostoucí možnosti sledování.
+- Existují první produkty osobního antispywaru, například filtry na displeje.
+- Vyvíjejí se technologie, které mají znesnadnit rozpoznání tváře kamerami.
+title: 'Osobní antispyware má být další velkou věcí
+
+  '
 ---
+
 <p>Next Big Thing – Příští velká věc, to je v žargonu investorů a průmyslníků něco, co má napříště změnit lidskou společnost nebo alespoň velkou část trhu, jako to třeba udělaly mobilní telefony. Příští velkou věcí má být osobní antispaware, tedy prostředky k osobní ochraně soukromí. </p>
 
 <p>Začíná to být čím dál větší problém. Na každém rohu kamera už i v menších městech, za pár let GPSka (pardon, Galilejka) v každém vozidle, co chce na dálnici. Spousta keců o tom, jak jsou tato data důmyslně zabezpečena před zneužitím, ale skutek utek. Do toho uchovávání dat o telefonních hovorech a SMS zprávách, Echelon, čert ví jaký monitoring vašeho počítače. Dneska ten problém stále ještě není citelný, protože udělat software, který by všechno inteligentně zpracoval a propojil pořád není levná a rychlá záležitost. Jenže co zítra, za rok, za pět let? </p>

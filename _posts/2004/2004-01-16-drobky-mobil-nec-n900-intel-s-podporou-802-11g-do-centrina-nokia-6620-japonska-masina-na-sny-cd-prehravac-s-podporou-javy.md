@@ -1,14 +1,22 @@
 ---
 ID: 794
-title: 'Drobky: mobil NEC N900, Intel s&nbsp;podporou 802.11g do Centrina. Nokia 6620, japonská mašina na sny. CD přehrávač s&nbsp;podporou Javy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-mobil-nec-n900-intel-s-podporou-802-11g-do-centrina-nokia-6620-japonska-masina-na-sny-cd-prehravac-s-podporou-javy
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-mobil-nec-n900-intel-s-podporou-802-11g-do-centrina-nokia-6620-japonska-masina-na-sny-cd-prehravac-s-podporou-javy
+
+  '
 post_date: 2004-01-16 09:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia 6620, první EDGE chytrý telefon pro USA, má více paměti a rychlejší procesor.
+- Japonská mašinka na sny a displej na hlavu jsou dostupné v Japonsku.
+- Philips eXp5371 je CD discman s podporou Java her (J2ME).
+- Intel přidává 802.11g do Centrina pomocí miniPCI karty, ne vylepšením čipu.
+title: 'Drobky: mobil NEC N900, Intel s&nbsp;podporou 802.11g do Centrina. Nokia 6620,
+  japonská mašina na sny. CD přehrávač s&nbsp;podporou Javy'
 ---
+
 <p>
 Nokia představila svůj první chystý telefon s podporou EDGE pro americký trh <STRONG>Nokia 6620</STRONG>. Je to snad vůbec první chytrý telefon s EDGE. Oproti 6600 má 6620 také více paměti (12 MB versus 6 MB) o něco rychlejší procesor a nějaké software utilitky navíc (<A href="http://press.nokia.com/PR/200401/930744_5.html" target=_blank>TZ Nokia</A>). <A href="http://gigaom.com/archives/2004/01/nokia_edge_but_not_till_april.html" target=_blank>GigaOm</A> ale reportuje, že <STRONG>&#8220;Nokia phone should be in stores March-April timeframe - no pricing yet.&#8221;</STRONG> Telefon se pro americké sítě liší také podporou GSM 850/1800/1900 MHz namísto 900 MHz evropanů.</p>
 

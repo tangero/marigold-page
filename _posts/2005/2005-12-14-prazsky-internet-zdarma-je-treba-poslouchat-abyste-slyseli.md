@@ -1,14 +1,21 @@
 ---
 ID: 1898
-title: 'Pražský internet zdarma: je třeba poslouchat, abyste slyšeli'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prazsky-internet-zdarma-je-treba-poslouchat-abyste-slyseli
-published: true
+oldlink: 'https://www.marigold.cz/item/prazsky-internet-zdarma-je-treba-poslouchat-abyste-slyseli
+
+  '
 post_date: 2005-12-14 10:12:21
+post_excerpt: ''
+published: true
+summary_points:
+- ALPI vydala prohlášení kritizující pražský magistrátní internet zdarma jako nepřijatelný.
+- Firmy zvažují žaloby proti magistrátu kvůli plánovanému internetu zdarma.
+- Mainstreamová média ignorují protesty lokálních sítí proti rušení způsobenému projektem.
+- Autor kritizuje nekvalitní internet zdarma a jeho dopad na hospodářskou soutěž.
+title: 'Pražský internet zdarma: je třeba poslouchat, abyste slyšeli'
 ---
+
 <p>První akce vzniklé oficiálně proti pražskému projektu magistrátního internetu zdarma jsou zde. Tak především a oficiálně Asociace lokálních poskytovatelů internetu vydala k tomuto prohlášení, jež bych shrnul jako shodné s tím mým, jen více newsspeakové (je také psáno pro média), projekt se neoznačuje za kravinu, ale za nepřijatelný. <a href="http://www.alpi.cz/kauzamagistrat/">Čtěte zde</a>. </p>
 
 <p>Kromě toho se chystají první žaloby, vím již o jedné firmě, která najala právníky a v případě, že magistrát do internetu zdarma půjde, vypustí ohaře na stopu. Pak bude ještě veselo. Další dvě firmy právní kroky zvažují a zatím se vyjadřují tak, že taková blbost přeci nemůže projít. Sám jsem větší pesimista, Rath je přeci také ministr zdravotnictví a to mi nedává naděje, co se neprůchodnosti blbostí týká. </p>

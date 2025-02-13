@@ -1,14 +1,22 @@
 ---
 ID: 1243
-title: 'Zpráva z&nbsp;tisku (10.8.04) &#8211; aktualizováno'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zprava-z-tisku-10-8-04-aktualizovano
-published: true
+oldlink: 'https://www.marigold.cz/item/zprava-z-tisku-10-8-04-aktualizovano
+
+  '
 post_date: 2004-08-10 14:19:04
+post_excerpt: ''
+published: true
+summary_points:
+- Skype má češtinu pro aktuální verzi, což posouvá otázku IP telefonie na "kdy".
+- CDMA je v porovnání s ADSL a kabelovkou nejhorší volbou internetového připojení.
+- Čtvrtina českých domácností má počítač, nejvíce v Praze (38%), nejméně na Olomoucku
+  (15%).
+- V Evropě má více lidí internet než v Česku kdy použilo počítač.
+title: Zpráva z&nbsp;tisku (10.8.04) &#8211; aktualizováno
 ---
+
 <p>
 Pro aktuální verzi Skype (viz Patrikův článek "<a href="http://www.lupa.cz/clanek.php3?show=3551">SkypeOut &#8211; Skype už není beta a umí telefonovat</a>")se <a href="http://www.xtel.cz/skype/cestina/">objevila čeština</a>. Otázka už není "<strong>jestli</strong>" budeme volat přes IP, jako spíše "<strong>kdy</strong>". Ale co je to vlastně IP v telefonii - v podstatě každý operátor už někde na trase využívá přenosu nějakou paketovou technologií.</p>
 <p>

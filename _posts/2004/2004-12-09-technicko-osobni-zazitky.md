@@ -1,14 +1,21 @@
 ---
 ID: 1436
-title: Technicko osobní zážitky
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/technicko-osobni-zazitky
-published: true
+oldlink: 'https://www.marigold.cz/item/technicko-osobni-zazitky
+
+  '
 post_date: 2004-12-09 14:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor plánuje článek o wi-fi, který by měl vyjít v pondělí ráno.
+- Skot žádal autora o kontrolu počítače a serveru po podezřelé zaměstnankyni.
+- Bratranec otevírá bar a autor mu pomáhal s nastavením routeru pro kamery.
+- Autor čistil bratrancův počítač od spyware a pomáhal s přípravou baru.
+title: Technicko osobní zážitky
 ---
+
 <p>
 Tak jsem tak nějak doufal, že RaDo, Ook nebo Sean sem také něco napíšou, když já nemůžu, ale vypadá to, že to zůstává na mně. Jak jsem ale už upozorňoval, nemám tentokrát čas psát každý den něco, věřím, že mě omluvíte. Mám nápad na jeden wi-fi related článek, ovšem zabere to dost času, takže to tu vyjde doufám v pondělí ráno.</p>
 <p>

@@ -1,14 +1,21 @@
 ---
 ID: 1090
-title: 'WDS &#8211; pro pohodlnou stavbu větší WiFi sítě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wds-pro-pohodlnou-stavbu-vetsi-wifi-site
-published: true
+oldlink: 'https://www.marigold.cz/item/wds-pro-pohodlnou-stavbu-vetsi-wifi-site
+
+  '
 post_date: 2004-04-27 07:03:00
+post_excerpt: ''
+published: true
+summary_points:
+- WDS propojuje bezdrátově přístupové body, eliminujíc ethernetové kabely.
+- WDS snižuje rychlost WiFi sítě zhruba na polovinu.
+- WDS není standardizovaný, proto je doporučeno používat zařízení stejného výrobce.
+- WDS lze použít pro přemostění sítí nebo opakování signálu s omezeními.
+title: WDS &#8211; pro pohodlnou stavbu větší WiFi sítě
 ---
+
 <p>
 Potřebujete propojit bezdrátově několik přístupových bodů? Udělat větší WiFi síť bez nutnosti každé AP připojovat do ethernetu? Pomůže WDS a zde se dočtete, jak.
 </p>

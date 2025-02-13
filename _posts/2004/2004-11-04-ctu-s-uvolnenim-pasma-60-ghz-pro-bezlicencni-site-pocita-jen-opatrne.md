@@ -1,14 +1,21 @@
 ---
 ID: 1387
-title: 'ČTÚ s&nbsp;uvolněním pásma 60 GHz pro bezlicenční sítě počítá jen opatrně'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctu-s-uvolnenim-pasma-60-ghz-pro-bezlicencni-site-pocita-jen-opatrne
-published: true
+oldlink: 'https://www.marigold.cz/item/ctu-s-uvolnenim-pasma-60-ghz-pro-bezlicencni-site-pocita-jen-opatrne
+
+  '
 post_date: 2004-11-04 08:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ navrhuje využití frekvencí nad 59 GHz po roce 2008.
+- ČTÚ vyhradí pro bezlicenční použití pásmo 61-62 GHz, užší než v USA.
+- Pásma 63-64 GHz jsou určena pro silniční telematiku (RTTT).
+- Kyslíková absorbce omezuje dosah signálu v pásmu 60 GHz na 2,5 km.
+title: ČTÚ s&nbsp;uvolněním pásma 60 GHz pro bezlicenční sítě počítá jen opatrně
 ---
+
 <p>
 Konečně jsem se prohrabal v nevyřízených dokumentech až k &#8220;Návrhu Přílohy č. 23/_.2004 pro kmitočtové pásmo 59–105 GHz k plánu využití kmitočtového spektra&#8221; - dokumentu ČTÚ, jenž specifikuje, k čemu se která frekvence bude používat. ČTÚ nyní navrhuje, jak se budou po roce 2008 používat vysoké a doposud opomíjené frekvence nad 59 GHz. (<a href="http://www.ctu.cz/art.php?iSearch=&amp;iArt=458">Zde dokumenty ČTÚ</a>)</p>
 

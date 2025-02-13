@@ -1,16 +1,23 @@
 ---
 ID: 1407
-title: >
-  Skype sluchátka jako samostatný
-  business
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/skype-sluchatka-jako-samostatny-business
-published: true
+oldlink: 'https://www.marigold.cz/item/skype-sluchatka-jako-samostatny-business
+
+  '
 post_date: 2004-11-19 09:09:18
+post_excerpt: ''
+published: true
+summary_points:
+- Logitech dodává vouchery na SkypeOut hovory ke svým USB sluchátkům.
+- DualPhone je DECT telefon s USB pro volání přes Skype z počítače.
+- PC Phone Line nabízí Skype a SIP hardwarové brány za 50 dolarů.
+- SkypeIn umožní v roce 2005 volání z pevných linek uživatelům Skype.
+title: 'Skype sluchátka jako samostatný business
+
+  '
 ---
+
 <p>
 Skype jako program pro volání po internetu začíná vytvářet svůj vlastní &#8220;ekosystém&#8221; - firmy produkující produkty spolupracující se Skype a podporující jej. Tento týden oznámil Logitech spolupráci se Skype, kdy ke svým USB sluchátkům bude dodávat voucher na 120 minut hovoru po SkypeOut World Class destinacích. To není špatné. </p>
 

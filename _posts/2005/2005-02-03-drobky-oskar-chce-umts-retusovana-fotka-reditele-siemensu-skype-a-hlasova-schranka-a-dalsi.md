@@ -1,14 +1,22 @@
 ---
 ID: 1512
-title: 'Drobky: Oskar chce UMTS, retušovaná fotka ředitele Siemensu, Skype a&nbsp;hlasová schránka a&nbsp;další'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-oskar-chce-umts-retusovana-fotka-reditele-siemensu-skype-a-hlasova-schranka-a-dalsi
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-oskar-chce-umts-retusovana-fotka-reditele-siemensu-skype-a-hlasova-schranka-a-dalsi
+
+  '
 post_date: 2005-02-03 08:59:18
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar Mobil podal žádost o UMTS licenci za 2 miliardy Kč.
+- ČTÚ zasedal ohledně tendru 872 MHz po výběru.
+- Řediteli Siemensu vyretušovali Rolex hodinky kvůli propouštění.
+- Skype testuje hlasovou schránku ve Windows verzi s poplatky.
+title: 'Drobky: Oskar chce UMTS, retušovaná fotka ředitele Siemensu, Skype a&nbsp;hlasová
+  schránka a&nbsp;další'
 ---
+
 <p>ČTÚ včera oficiálně potvrdilo, že O<b>skar Mobil podal žádost o udělení telekomunikační licence UMTS</b>
 v rámci prvního stupně výběrového řízení. To by znamenalo, že nakonec
 je společnost ochotna zaplatit za tuto licenci 2 mld Kč. Gratuluji k

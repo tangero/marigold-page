@@ -1,14 +1,23 @@
 ---
 ID: 1226
-title: Lupa nabízí seznam hotspotů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lupa-nabizi-seznam-hotspotu
-published: true
+oldlink: 'https://www.marigold.cz/item/lupa-nabizi-seznam-hotspotu
+
+  '
 post_date: 2004-08-02 08:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa zprovoznila seznam hotspotů na wifi.lupa.cz s 277 lokalitami od 15 poskytovatelů.
+- Seznam hotspotů na Lupa.cz uvádí adresu, cenu a dostupnost signálu, chybí SSID.
+- Databáze Lupy obsahuje pouze hotspoty, nikoliv komunitní sítě nebo WLL přípojné
+  body.
+- Autor textu pracuje na oddělení hotspotů a WLL v databázi Marigold a aktualizaci
+  dat.
+title: Lupa nabízí seznam hotspotů
 ---
+
 <p>
 Lupa konečně po delší době zprovznila seznam hotspotů v ČR a to na adrese <a href="http://wifi.lupa.cz">wifi.lupa.cz</a>. Seznam obsahuje 15 poskytovatelů a 277 hotspotů, jeho partnerem je Eurotel.</p>
 <p>

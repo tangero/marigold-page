@@ -1,14 +1,23 @@
 ---
 ID: 1262
-title: Moje Národní Broadband Strategie
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/moje-narodni-broadband-strategie
-published: true
+oldlink: 'https://www.marigold.cz/item/moje-narodni-broadband-strategie
+
+  '
 post_date: 2004-08-18 08:10:23
+post_excerpt: ''
+published: true
+summary_points:
+- Broadband strategie, vládní dokument, podněcuje diskusi o dostupnosti broadband
+  konektivity v ČR.
+- Autor sepsal vlastní, liberální verzi Národní Broadband Strategie, dostupnou na
+  Lupě.
+- Telecom ocenil Eurotel na stejnou cenu, jako je cena celého Telecomu na burze.
+- Autor se ptá, kde je přidaná hodnota Telecomu, když kilometry kabelů nikoho nezajímají.
+title: Moje Národní Broadband Strategie
 ---
+
 <p>
 V červnu jsem četl na Lupě článek Jiřího Peterky snažící se vybudit diskusi nad Národní Broadband Strategií, což je takový vládní cár papíru s popisem stavu telco v ČR a s nějakým stimulačním programem, co s tím dělat, abychom měli dostupnou broadband konektivitu. </p>
 <p>

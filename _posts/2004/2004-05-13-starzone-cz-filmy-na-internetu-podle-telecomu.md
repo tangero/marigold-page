@@ -1,14 +1,22 @@
 ---
 ID: 1033
-title: 'StarZone.cz &#8211; filmy na internetu podle Telecomu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/starzone-cz-filmy-na-internetu-podle-telecomu
-published: true
+oldlink: 'https://www.marigold.cz/item/starzone-cz-filmy-na-internetu-podle-telecomu
+
+  '
 post_date: 2004-05-13 09:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom poskytuje obsah na webu StarZone.cz, který nabízí filmy.
+- StarZone nabízí filmy za 40 Kč za shlédnutí, celodenní licence stojí 50 Kč.
+- Nabídka StarZone obsahuje desítky filmů, převážně české tvorby z let 1989-2000.
+- Filmy na StarZone mohou stahovat pouze zákazníci Českého Telecomu s rychlostí nad
+  512 Kb/s.
+title: StarZone.cz &#8211; filmy na internetu podle Telecomu
 ---
+
 <p>
 Včera Český Telecom oznámil, že bude na internetu <STRONG>poskytovat obsah na webu StarZone.cz.</STRONG> Když jsem si včera kliknul, dalo se na web dostat (podle mne docela hezký černo-oranžový design)&#160;a prozkoumat ho, později už chtěl heslo. Tisková konference o StarZone je až dneska odpoledne, jdu se tam podívat. Zatím popíšu, co jsem na StarZone našel. </p>
 

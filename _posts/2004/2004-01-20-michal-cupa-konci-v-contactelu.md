@@ -1,14 +1,21 @@
 ---
 ID: 802
-title: 'Michal Čupa končí v&nbsp;Contactelu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/michal-cupa-konci-v-contactelu
-published: true
+oldlink: 'https://www.marigold.cz/item/michal-cupa-konci-v-contactelu
+
+  '
 post_date: 2004-01-20 15:27:00
+post_excerpt: ''
+published: true
+summary_points:
+- Michal Čupa, šéf Contactelu, končí a nastupuje na dovolenou.
+- Peter Rubeck, dosavadní COO, dočasně povede firmu Contactel.
+- Zaměstnancům Contactelu oznámili odvolání Čupy na staff meetingu.
+- Contactel má nižší obrat než plán, ale vyšší provozní zisk.
+title: Michal Čupa končí v&nbsp;Contactelu
 ---
+
 <p>
 Alespoň toliko tvrdí krátká zprávička na <A href="http://mobil.idnes.cz/aktuality/cupakoncivcontactelu040120.html" target=_blank>Mobil.cz</A> - <STRONG>šéf Contactelu Michal Čupa končí</STRONG> a nastupuje na dovolenou. Pokud někdo víte nějaké drby a podrobnosti, sem s nimi.... psalo o tom také <A href="http://www.euro.cz/id/vadz4kau53/detail.jsp?id=58410">EURO</A>.</p>
 

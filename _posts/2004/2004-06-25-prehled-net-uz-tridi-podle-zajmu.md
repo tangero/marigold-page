@@ -1,14 +1,21 @@
 ---
 ID: 1170
-title: Přehled.net už třídí podle zájmu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prehled-net-uz-tridi-podle-zajmu
-published: true
+oldlink: 'https://www.marigold.cz/item/prehled-net-uz-tridi-podle-zajmu
+
+  '
 post_date: 2004-06-25 17:12:00
+post_excerpt: ''
+published: true
+summary_points:
+- Přehled.net nově určuje důležitost zpráv podle počtu kliknutí uživatelů.
+- Funkce interně funguje dlouho, aktivována byla až s dostatečnou návštěvností.
+- Kliky uživatelů ovlivňují váhová kritéria a zvýrazňují populární témata.
+- Technicky bulvární témata jsou díky klikům uživatelů více viditelná.
+title: Přehled.net už třídí podle zájmu
 ---
+
 <p>
 Petr Olmer zapracoval <a href="http://www.prehled.net/">do Přehled.net </a>další funkcičku. Důležitost zpráv nyní určuje také to, jak si na které zprávy kdo kliká. </p>
 <p>

@@ -1,14 +1,21 @@
 ---
 ID: 1352
-title: 'Corinex PowerNet &#8211; ethernet přes zásuvky na první pokus&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/corinex-powernet-ethernet-pres-zasuvky-na-prvni-pokus
-published: true
+oldlink: 'https://www.marigold.cz/item/corinex-powernet-ethernet-pres-zasuvky-na-prvni-pokus
+
+  '
 post_date: 2004-10-07 14:30:50
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi router Linksys WRT54G má slabý signál v nejzazším pokoji bytu.
+- PAN-10 anténa nezlepšila signál přes železobetonové zdi.
+- Corinex PowerNet adaptér zprovoznil síť přes zásuvky bez instalace.
+- Fungování PowerNet adaptéru umožňuje indukce díky souběhu kabeláže.
+title: Corinex PowerNet &#8211; ethernet přes zásuvky na první pokus&#8230;
 ---
+
 <p>
 S internetem doma byly dodnes problémy. Chello připojení si distribuuji po bytě přes WiFi router Linksys WRT54G. V celém bytě to funguje slušně, jen nejzazší pokoj je prakticky bez signálu. Jak na potvoru ten pokoj, kde má Dita pracovnu a opravdu tam potřebuje internet, který ji nespadne, když se hádá s redaktorem po ICQ či ještě lépe se snaží uložit do redakčního systému zeditovaný článek. A v takové chvíli WiFi rádo vypadne. </p>
 

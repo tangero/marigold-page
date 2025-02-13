@@ -1,16 +1,23 @@
 ---
 ID: 848
-title: >
-  MMS žádnou výhrou pro okamžité
-  zpravodajství nejsou
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mms-zadnou-vyhrou-pro-okamzite-zpravodajstvi-nejsou
-published: true
+oldlink: 'https://www.marigold.cz/item/mms-zadnou-vyhrou-pro-okamzite-zpravodajstvi-nejsou
+
+  '
 post_date: 2004-02-11 12:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- Okamžité zpravodajství naráží na kompromisy kvůli omezenému rozpočtu a technice.
+- MMS zprávy z mobilů mají mizernou kvalitu, zvláště za variabilních světelných podmínek.
+- Okamžité momentky se snadno vytratí, pokud nejsou rychle zaznamenány.
+- Autor čeká na lepší mobily s kvalitnějšími fotoaparáty pro MMS zpravodajství.
+title: 'MMS žádnou výhrou pro okamžité zpravodajství nejsou
+
+  '
 ---
+
 <p>
 "Okamžité zpravodajství" je fenomén poslední doby. Někde se něco stalo, hup tam se štábem, který odtud ihned přes satelit vysílá přímý přenos a komentáře. Jenže to může dělat tak CNN, pokud máte rozpočet o pár řádů nižší, musíte se spokojit s jednodušší technikou. Na jednu stranu to ani není špatně - tím se možnost okamžitého zaznamenání informace dostává přímo k lidem. Na druhou stranu se tím člověk dostává ke kompromisům a to nemilým. Dnešní technika je daleko, ale zase tak daleko ne. MMS zprávy jsou zajímavý pokus a to je tak všechno. Podívejte se například na <A href="/mms.html?id=10">tuto MMS zprávu </A>z autonehody, kterou jsem pořídil někdy před týdnem. Ano - na fotce toho opravdu mnoho vidět není...</p>
 

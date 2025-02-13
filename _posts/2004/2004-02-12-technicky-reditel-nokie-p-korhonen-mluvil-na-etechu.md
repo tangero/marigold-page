@@ -1,14 +1,21 @@
 ---
 ID: 849
-title: 'Technický ředitel Nokie P.&nbsp;Korhonen mluvil na ETechu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/technicky-reditel-nokie-p-korhonen-mluvil-na-etechu
-published: true
+oldlink: 'https://www.marigold.cz/item/technicky-reditel-nokie-p-korhonen-mluvil-na-etechu
+
+  '
 post_date: 2004-02-12 07:28:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia potvrdila Python jako scriptovací jazyk pro zařízení Series 60.
+- Mobloging je pro Nokii zajímavý trend, vyvíjí aplikaci PhotoBlog.
+- RFID čipy s mobily umožní zjistit údaje o zboží, brzy u knih.
+- Mobil se stává osobním záznamníkem života, důležité je sdílení dat.
+title: Technický ředitel Nokie P.&nbsp;Korhonen mluvil na ETechu
 ---
+
 <p>
 CTO (technický ředitel) firmy Nokia Pertti Korhonen byl hlavním řečníkem na <A href="http://www.oreillynet.com/et2004/" target=_blank>Emerging Technology Conference</A> v San Diegu. A protože to je opravdu člověk, který se v telekomunikacích vyzná, stojí za to podívat se, o čem mluvil. Konferenci jsem viděl ze záznamu, takže to projdeme letem světem.</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1428
-title: Qualcomm představil čipset 3G/EDGE
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/qualcomm-predstavil-cipset-3g-edge
-published: true
+oldlink: 'https://www.marigold.cz/item/qualcomm-predstavil-cipset-3g-edge
+
+  '
 post_date: 2004-12-02 11:14:46
+post_excerpt: ''
+published: true
+summary_points:
+- UMTS telefony s Qualcomm čipsety dříve nepodporovaly EDGE, pouze GPRS.
+- Qualcomm MSM6255 nově podporuje WCDMA, GPRS i EDGE.
+- Dostupnost MSM6255 je omezena do konce roku 2005, EDGE mobily až 2006.
+- Qualcomm prezentuje BREW řešení pro WCDMA v Cannes.
+title: Qualcomm představil čipset 3G/EDGE
 ---
+
 <p>
 Hlavní slabinou UMTS telefonů postavených na čipsetech Qualcommu pro evropské operátory byla absence podpory EDGE. Mobilní operátoři měli dojem, že zákaznící by se měly z rychlého WCDMA dostat do EDGE tam, kde WCDMA není a teprve ani když tam není EDGE, spadnout na GPRS. Jenže značná část telefonů pro UMTS měla smůlu, protože Qualcomm podporoval pouze GPRS. To bude pryč. Čipset Qualcomm MSM6255 podporuje jak WCDMA a GPRS, tak EDGE. Zdroj: <a href="http://www.3g.co.uk/PR/November2004/8663.htm">TZ Qualcomm</a>.</p>
 

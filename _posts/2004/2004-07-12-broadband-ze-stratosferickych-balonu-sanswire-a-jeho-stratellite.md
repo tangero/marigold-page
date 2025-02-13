@@ -1,14 +1,22 @@
 ---
 ID: 1193
-title: 'Broadband ze stratosférických balónů: SansWire a&nbsp;jeho Stratellite'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/broadband-ze-stratosferickych-balonu-sanswire-a-jeho-stratellite
-published: true
+oldlink: 'https://www.marigold.cz/item/broadband-ze-stratosferickych-balonu-sanswire-a-jeho-stratellite
+
+  '
 post_date: 2004-07-12 08:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- SansWire vyvíjí Stratellite, vzducholoď pro bezdrátové broadbandové pokrytí z výšky
+  20 km.
+- Stratellite má solární panely, GPS stabilizaci a údajně pokryje až 500 000 km2.
+- Technologie SansWire je nejasná, ale má používat 802.11 standard pro příjem signálu.
+- Autor je skeptický, ale SansWire prý má funkční prototyp a přesvědčivé argumenty.
+title: 'Broadband ze stratosférických balónů: SansWire a&nbsp;jeho Stratellite'
 ---
+
 <p>
 O projektech pokrytí signálem ze vysoko umístěných balónů, takzvaných HASP, jsem již psal. Tehdy jsem podobné projekty označil za žumpu na peníze, mimo jiné proto, že ty, co zatím proběhly, tak také skončily. </p>
 <p>

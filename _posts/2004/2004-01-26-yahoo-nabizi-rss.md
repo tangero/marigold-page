@@ -1,14 +1,21 @@
 ---
 ID: 814
-title: Yahoo nabízí RSS
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/yahoo-nabizi-rss
-published: true
+oldlink: 'https://www.marigold.cz/item/yahoo-nabizi-rss
+
+  '
 post_date: 2004-01-26 08:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Yahoo nabízí od pátku možnost sbírat a zobrazovat RSS zdroje na My Yahoo.
+- Česká mainstream média se zatím RSS portálování příliš nevěnují.
+- Nezávislé české RSS portály postrádají pokročilejší funkce a lepší prezentaci obsahu.
+- Stále existuje prostor pro vytvoření kvalitního RSS portálu v České republice.
+title: Yahoo nabízí RSS
 ---
+
 <p>
 RSS je už opravdu důležitý formát. Jak to poznáte? Tak, že ho bere vážně i Yahoo, které na svých stránkách od pátku nabízí <STRONG>možnost sbírat RSS zdroje a zobrazovat je v oblasti na My Yahoo</STRONG>. Patřičnou stránku, kde si funkci RSS nastavíte, najdete <A href="http://e.my.yahoo.com/config/promo_content?.module=ycontent" target=_blank>na Yahoo zde</A>. Samotnou možnost odebírat zprávy z News Yahoo jako RSS už firma nabízí od srpna 2003 <A href="http://news.yahoo.com/rss/" target=_blank>zde</A>. </p>
 

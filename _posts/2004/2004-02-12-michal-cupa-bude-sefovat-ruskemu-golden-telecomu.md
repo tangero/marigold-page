@@ -1,16 +1,23 @@
 ---
 ID: 853
-title: >
-  Michal Čupa bude šéfovat ruskému
-  Golden Telecomu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/michal-cupa-bude-sefovat-ruskemu-golden-telecomu
-published: true
+oldlink: 'https://www.marigold.cz/item/michal-cupa-bude-sefovat-ruskemu-golden-telecomu
+
+  '
 post_date: 2004-02-12 12:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- Michal Čupa jmenován provozním ředitelem (COO) ruského Golden Telecom.
+- Golden Telecom je významný ruský operátor srovnatelný s Contactelem.
+- Golden Telecom propojuje Rusko optickou a satelitní sítí a je kotován na Nasdaqu.
+- Telenor koupil přes 20% akcií Golden Telecomu, když tam Čupa pracoval.
+title: 'Michal Čupa bude šéfovat ruskému Golden Telecomu
+
+  '
 ---
+
 <p>
 <STRONG>Michal Čupa se stává&#160;provozním ředitelem</STRONG> (COO) ruského nezávislého&#160;telekomunikačního operátora <STRONG>Golden Telecom</STRONG>. V pozici COO nahrazuje Stana Abbelose, který z firmy odchází po osmi letech. </p>
 

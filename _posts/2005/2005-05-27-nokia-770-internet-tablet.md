@@ -1,14 +1,21 @@
 ---
 ID: 1660
-title: Nokia 770 Internet Tablet
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-770-internet-tablet
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-770-internet-tablet
+
+  '
 post_date: 2005-05-27 09:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia vyvinula tablet 770 s Linuxem a prostředím Maemo.
+- Tablet Nokia 770 se připojuje přes WiFi nebo Bluetooth, ne GSM.
+- Nokia 770 cílí na trhy s vysokou penetrací broadbandu a kupní silou.
+- Nokia 770 je určen pro snadný přístup k internetu v domácnosti.
+title: Nokia 770 Internet Tablet
 ---
+
 <p>Před necelým rokem jsem psal o tom, že očekávám u Nokie příchod tabletu – jednoduchého zařízení vybaveného prohlížečem, které bude schopno přepínat se do režimu spánku, ihned se z něj probudí a zase se ihned vypne, když nebude potřeba (<a href="/item/chytre-displeje-nokia-dalsi-cesta">Chytré displeje Nokia - další cesta?</a>). Dostal jsem řadu poučení, proč takové zařízení Nokia neuvede. Pak už jsem chytrého nedělal, protože o pár měsíců později jsem viděl prototyp, takže bylo zřejmé, že jsem ulétl v předpokladu, že by Nokia nasadila nějakou svoji Series – vývojáři jednoduše sáhli po Linuxu, který vyšperkovali hezoučkým prostředím <a href="http://www.maemo.org/">Maemo</a>. Také bylo zřejmé, že Nokia si připomínky čtenářů nepřečetla a rozhodla se uvést tablet bez GSM modulu – tablet se připojuje do internetu přes bluetooth nebo přes WiFi, což považuji za vhodné. Ušetřily se tím peníze (BT mobil Nokia máte přeci na stole) i hmotnost a nutnost redundantní SIM karty, nota bene když broadband už má každá domácnost (haha, já vím, ne u nás).</p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20050527-nokia770.jpg" alt="Nokia 770 Internet Tablet" width="363" height="207" /></div>

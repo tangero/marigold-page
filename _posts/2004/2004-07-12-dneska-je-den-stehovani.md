@@ -1,14 +1,21 @@
 ---
 ID: 1194
-title: 'Dneska je den stěhování&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dneska-je-den-stehovani
-published: true
+oldlink: 'https://www.marigold.cz/item/dneska-je-den-stehovani
+
+  '
 post_date: 2004-07-12 10:03:36
+post_excerpt: ''
+published: true
+summary_points:
+- Dovolená využita pro stěhování, hlavní část nábytku a knih se stěhuje dnes.
+- Bydlení v Zeleném údolí začíná dnes po dokončení stěhování.
+- Problémem je zprovoznění WiFi, nutný nákup dílů a testování antény notebooku.
+- Autor zabezpečil cizí WiFi síť, aby neměl pokušení ji využívat.
+title: Dneska je den stěhování&#8230;
 ---
+
 <p>
 Dneska jsem si vzal v práci dovolenou (což mi nebránilo po ránu pracovní věci vyříditi) a nadešel velký den stěhování. Tedy, abych byl přesný, stěhování probíhalo už o víkendu, kdy jsem odvážel křehčí věci, které se mi nechtělo svěřovat stěhovákům. Dneska přijede stěhovácká parta, do auta si chlapci naloží něco nábytku, jenž jsme se rozhodli přestěhovat, zbytek knih (asi tak dvacet krabic) a největší stěhováni bude za námi. Pak už tu jen popaběrkujeme, co zbylo a co se do stěhovacího auta nevešlo nebo jsem na to zapoměl, co je ale hlavní, že ode dneška už budeme bydlet v Zeleném údolí :)</p>
 <p>

@@ -1,14 +1,22 @@
 ---
 ID: 1112
-title: 'MMS používá 700&nbsp;000 uživatelů českých mobilních sítí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mms-pouziva-700-000-uzivatelu-ceskych-mobilnich-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/mms-pouziva-700-000-uzivatelu-ceskych-mobilnich-siti
+
+  '
 post_date: 2004-05-31 09:08:37
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel a T-Mobile mají shodně 300 000 klientů s aktivovanou službou MMS.
+- Oskar eviduje přes 130 000 uživatelů s aktivovanou službou MMS.
+- Počet uživatelů MMS se meziročně zvýšil desetinásobně.
+- České sítě řeší problém s posíláním fotek z megapixelových fotoaparátů kvůli limitu
+  30 Kb.
+title: MMS používá 700&nbsp;000 uživatelů českých mobilních sítí
 ---
+
 <p>
 Dneska jsem na serveru <a href="http://www.telefonie.cz/zprava.asp?id=4269">Telefonie</a> našel hezkou zprávu (původem z ČTK) o tom, že Eurotel i T-Mobile mají každý po 300 000 klientech s aktivovanou službou MMS a Oskar (který s MMS začal později a má méně klientů) jich má přes 130 000. </p>
 

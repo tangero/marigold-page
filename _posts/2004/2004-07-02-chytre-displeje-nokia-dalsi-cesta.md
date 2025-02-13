@@ -1,14 +1,21 @@
 ---
 ID: 1179
-title: 'Chytré displeje Nokia &#8211; další cesta?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chytre-displeje-nokia-dalsi-cesta
-published: true
+oldlink: 'https://www.marigold.cz/item/chytre-displeje-nokia-dalsi-cesta
+
+  '
 post_date: 2004-07-02 08:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia uvažuje o produkci netbooků/PDA kvůli rozdělení uživatelů a konkurenci.
+- Trh nabízí mobily, mikrokomunikátory, komunikátory, smartphony, PDA a notebooky.
+- Nokia by mohla podkopat koncept chytrých displejů od Microsoftu levnějším řešením.
+- Chytrý displej od Nokie by mohl být dotykový, s WiFi, Bluetooth a snadným ovládáním.
+title: Chytré displeje Nokia &#8211; další cesta?
 ---
+
 <p>
 Jiří Hlavenka <a href="http://www.mobilmania.cz/Mobilnitelefony/AR.asp?ARI=107651">na MobilManii uvažuje </a>nad tím, že Nokia se chystá produkovat nobetooky či PDA - a já už jsem se delší dobu chystal toto doplnit zase nějakou drobnou spekulací. </p>
 <p>

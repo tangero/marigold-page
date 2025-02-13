@@ -1,14 +1,21 @@
 ---
 ID: 1281
-title: A je tu nový redakční systém
 author: Radek Hulán
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/a-je-tu-novy-redakcni-system
-published: true
+oldlink: 'https://www.marigold.cz/item/a-je-tu-novy-redakcni-system
+
+  '
 post_date: 2004-08-30 02:12:12
+post_excerpt: ''
+published: true
+summary_points:
+- BLOG:CMS byl upgradován na verzi 3.4.5 s UTF-8 konverzí a upravenými šablonami.
+- Statistiky, WAP verze (http://www.marigold.cz/wap.php) a nové komentáře jsou dostupné.
+- Redakční systém generuje statické stránky s GZip kompresí a má nový back-end.
+- Volitelné servírování webu jako application/xhtml+xml je možné, ale zatím zamítnuto.
+title: A je tu nový redakční systém
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/4/20040830-newsystem.jpg" alt="BLOG:CMS" width="122" height="122" /></div><p>
 Tedy, ne tak docela nový, ale spíše <em>zrenovovaný</em>, Patrick totiž používal
 	stařičkou verzi <a href="http://blogcms.com/">BLOG:CMS</a> (stará 3 měsíce,

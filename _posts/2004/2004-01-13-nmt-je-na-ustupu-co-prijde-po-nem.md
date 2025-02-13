@@ -1,14 +1,21 @@
 ---
 ID: 787
-title: 'NMT je na ústupu. Co přijde po&nbsp;něm?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nmt-je-na-ustupu-co-prijde-po-nem
-published: true
+oldlink: 'https://www.marigold.cz/item/nmt-je-na-ustupu-co-prijde-po-nem
+
+  '
 post_date: 2004-01-13 08:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Analogové sítě první generace v Evropě ustupují nástupu GSM a 3G.
+- Německý regulátor hledá využití pro frekvenci 450 MHz po síti C Netz.
+- Norsko ukončí provoz NMT sítě Telenor a hledá náhradu.
+- CDMA450 se jeví jako smysluplná technologie pro frekvenci 450 MHz.
+title: NMT je na ústupu. Co přijde po&nbsp;něm?
 ---
+
 <p>
 Mobilní analogové sítě první generace jsou v celé evropě na ústupu. Prakticky neměly šanci proti GSM a v době, kdy přichází 3G, jsou jejich šance ještě menší. Koncem loňského roku ohlásil německý regulátor výběrové řízení na přidělené frekvencí německé analogové sítě C Netz fungující v pásmu 450 MHz (není to NMT, jde o vlastní systém Deutsche Telekomu). Ještě čtyři dny mají zájemci o podávání svých návrhů - RegTP dokonce ani nespecifikuje, jakou technologii by měly v tomto frekvenčním pásmu nabízet (Zdroj: <A href="http://www.regtp.de/aktuelles/pm/02885/index.html" target=_blank>RegTP TZ</A>). </p>
 

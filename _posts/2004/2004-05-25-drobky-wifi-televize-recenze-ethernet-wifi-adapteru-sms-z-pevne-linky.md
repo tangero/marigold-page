@@ -1,14 +1,21 @@
 ---
 ID: 1050
-title: 'Drobky: WiFi televize, recenze ethernet wifi adaptérů, SMS z&nbsp;pevné linky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-wifi-televize-recenze-ethernet-wifi-adapteru-sms-z-pevne-linky
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-wifi-televize-recenze-ethernet-wifi-adapteru-sms-z-pevne-linky
+
+  '
 post_date: 2004-05-25 09:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- Microsoft ukončil prodej WiFi produktů kvůli komoditnímu trhu a nezájmu o home segment.
+- Sony vyvíjí WiFi televizi, základnovou stanici s WiFi a odnímatelným LCD displejem.
+- WiFionline.net recenzuje ethernet adaptéry LinkSYS WET11 a Zcom XI-500A sma-r.
+- Telefonie.cz přináší postřehy z posílání SMS na pevnou linku, s rozpaky.
+title: 'Drobky: WiFi televize, recenze ethernet wifi adaptérů, SMS z&nbsp;pevné linky'
 ---
+
 <p>
 <STRONG>Microsoft skončil s prodejem WiFi produktů</STRONG>. Důvod: ceny za zboží odpovídají komoditnímu trhu a home segment se Microsoftu nepodařilo tak zlanařit, jako u myší a klávesnic. Inu, ergonomie access pointů není tak důležitá, dá se strčit i pod skříň a nikdy na něj nemusíte popatřit. </p>
 

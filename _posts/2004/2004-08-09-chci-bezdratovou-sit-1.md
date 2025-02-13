@@ -1,14 +1,21 @@
 ---
 ID: 1241
-title: Chci bezdrátovou síť! (1)
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/chci-bezdratovou-sit-1
-published: true
+oldlink: 'https://www.marigold.cz/item/chci-bezdratovou-sit-1
+
+  '
 post_date: 2004-08-09 21:41:36
+post_excerpt: ''
+published: true
+summary_points:
+- Wi-Fi sítě zažívají boom, článek je příručka pro laiky.
+- NCR WaveLAN v roce 1993 byla první komerční Wi-Fi technologie.
+- Standard 802.11b z roku 1999 přinesl rychlost 11 Mb/s a Wi-Fi certifikaci.
+- Standardy 802.11a/g/h přinesly vyšší rychlosti a řešily regionální omezení.
+title: Chci bezdrátovou síť! (1)
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040809-Wi-Fi Zone.jpg" alt="Wi-Fi Zone" width="203" height="152" /></div><p>
 Bezdráty (Wi-Fi zejména) zažívají v poslední době ohromný &#8220;boom&#8221;, respektive ty, používány v komunitních sítích (více Patrikův článek &#8220;<a href="/item/veru-nevim-jak-bude-cesky-telecom-celit-lavine-komunitnich-siti">Věru nevím, jak bude Český Telecom čelit lavině komunitních sítí</a>&#8221;).</p>
 <p>

@@ -1,14 +1,21 @@
 ---
 ID: 1463
-title: 'Tsunami fotografie před a&nbsp;po&nbsp;(a&nbsp;o&nbsp;úloze družic)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tsunami-fotografie-pred-a-po-a-o-uloze-druzic
-published: true
+oldlink: 'https://www.marigold.cz/item/tsunami-fotografie-pred-a-po-a-o-uloze-druzic
+
+  '
 post_date: 2005-01-01 21:44:53
+post_excerpt: ''
+published: true
+summary_points:
+- DigitalGlobe poskytuje QuickBird snímky zasažených oblastí tsunami.
+- QuickBird je družicový systém pořizující snímky s vysokým rozlišením.
+- Snímky QuickBird se komerčně prodávají bez ohledu na jejich obsah.
+- Kniha Deception Point od Dana Browna řeší komercializaci vesmíru.
+title: Tsunami fotografie před a&nbsp;po&nbsp;(a&nbsp;o&nbsp;úloze družic)
 ---
+
 <p>Katastrofu v Asii si lze jen těžko představit. Na <a href="http://www.digitalglobe.com/tsunami_gallery.html">těchto stránkách</a> společnosti DigitalGlobe jsou QuickBird fotografie jednotlivých lokalit před a poté, co se tsunami oblastí prohnala. Doporučuji, i když ten pohled na to není moc hezký. </p>
 
 

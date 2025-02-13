@@ -1,14 +1,21 @@
 ---
 ID: 999
-title: 'Kniha Shelly Brisbin: Wi-fi (taková mikrorecenze)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kniha-shelly-brisbin-wi-fi-takova-mikrorecenze
-published: true
+oldlink: 'https://www.marigold.cz/item/kniha-shelly-brisbin-wi-fi-takova-mikrorecenze
+
+  '
 post_date: 2004-04-25 19:35:00
+post_excerpt: ''
+published: true
+summary_points:
+- Kniha Wi-fi od Shelly Brisbin je určena pro absolutní začátečníky.
+- Kniha je dva roky stará, což je znát na zastaralé technice.
+- Kniha se zaměřuje na americké reálie a opomíjí české specifika.
+- Autor recenze doporučuje knihu spíše začátečníkům bez technických znalostí.
+title: 'Kniha Shelly Brisbin: Wi-fi (taková mikrorecenze)'
 ---
+
 <p>
 V pátek mi dorazila od Elity kniha Shelly Brisbin (český překlad) s názvem Wi-fi a podtitulem Postavte si svou vlastní wi-fi síť. Dokonce s pozdravem od jednoho z odborných korektorů, Dušana Zábrodského :) Knihu budu místy porovnávat se svojí a jakožto autora jiné WiFi knihy mne prosím berte jako mírně zaujatého. <EM>Jasně, že způsob mého uvažování a myšlení a tvorby knihy, je ten nejlepší na celém světě, proto jsem ho použil ;)</EM></p>
 

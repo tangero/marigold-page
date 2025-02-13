@@ -1,14 +1,21 @@
 ---
 ID: 1680
-title: 'ČTÚ zveřejnilo návrh všeobecného oprávnění pro pásmo  5 GHz'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctu-zverejnilo-navrh-vseobecneho-opravneni-pro-pasmo-5-ghz
-published: true
+oldlink: 'https://www.marigold.cz/item/ctu-zverejnilo-navrh-vseobecneho-opravneni-pro-pasmo-5-ghz
+
+  '
 post_date: 2005-06-13 15:04:06
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ zveřejnil návrh všeobecného oprávnění pro rádiové kmitočty 2,4 GHz a 5 GHz.
+- Návrh uvolňuje pásmo 5 GHz pro datové přenosy do 1 W vyzářeného výkonu.
+- Pásma 5150-5350 MHz omezena na 200 mW a použití uvnitř budov.
+- Oprávnění vstoupí v platnost až po zveřejnění v Telekomunikačním věstníku.
+title: ČTÚ zveřejnilo návrh všeobecného oprávnění pro pásmo  5 GHz
 ---
+
 <p>Na své <a href="http://www.ctu.cz/main.php?pageid=20">elektronické úřední desce </a>zveřejnil regulátor návrh všeobecného oprávnění k využívání rádiových kmitočtů a k provozování zařízení pro širokopásmový přenos dat na principu rozprostřeného spektra nebo OFDM v pásmech 2,4 GHz a 5 Ghz. V praxi jde o návrh uvolňující pásmo 5 Ghz pro datové přenosy až do jednoho wattu vyzářeného výkonu a to dle této tabulky: </p>
 
 <p>2400,0 – 2483,5 MHz

@@ -1,14 +1,21 @@
 ---
 ID: 1709
-title: Pro uživatele GPS
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pro-uzivatele-gps
-published: true
+oldlink: 'https://www.marigold.cz/item/pro-uzivatele-gps
+
+  '
 post_date: 2005-07-06 17:55:44
+post_excerpt: ''
+published: true
+summary_points:
+- iPAQ 4700 s GPS se v autě přehřívá na slunci a zamrzá.
+- Řidič sleduje GPS navigaci a méně se orientuje podle cedulí.
+- Zamrznutí iPAQu zdržuje a vyžaduje návrat po paměti nebo s mapou.
+- Doporučuje se chlazení zařízení a vozit s sebou papírovou mapu.
+title: Pro uživatele GPS
 ---
+
 <p><b>Oook píše:</b>Už nějakou dobu používám pro svoje cesty po ČR modrozubí GPS ve spolupráci s iPAQem 4700 a PocketKimem. <br />
 <br />
 iPAQ mám připevněný univerzálním držákem k přednímu sklu (tak, abych na

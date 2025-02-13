@@ -1,14 +1,21 @@
 ---
 ID: 1206
-title: 'Bezdrátová okurka &#8211; flamewary o&nbsp;GPL a&nbsp;vrtání díry do styroporu&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezdratova-okurka-flamewary-o-gpl-a-vrtani-diry-do-styroporu
-published: true
+oldlink: 'https://www.marigold.cz/item/bezdratova-okurka-flamewary-o-gpl-a-vrtani-diry-do-styroporu
+
+  '
 post_date: 2004-07-21 08:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Okurková sezóna zpomaluje bezdrátový svět, zprávy jsou málo zajímavé.
+- Sveasoft zpoplatnil fórum, což vyvolalo spor ohledně GPL licence.
+- GPL licence umožňuje volnou distribuci softwaru, což Sveasoft obchází.
+- Autor řeší problém s uchycením antény kvůli izolaci domu.
+title: Bezdrátová okurka &#8211; flamewary o&nbsp;GPL a&nbsp;vrtání díry do styroporu&#8230;
 ---
+
 <p>
 Okurková sezóna řádí i v bezdrátovém světě. Kdo mohl, vzal si dovolenou, kdo nemohl, je tak zmožen vedrem, že na seriosnější práci nemá pomyšlení a tak zprávy, které vycházejí, jsou většinou tak zajímavé, že nemám ani odvahu je publikovat. Nejvýraznější z nich <a href="http://story.news.yahoo.com/news?tmpl=story&amp;ncid=1212&amp;e=1&amp;u=/nm/20040720/wr_nm/telecoms_attwireless_3g_dc&amp;sid=95573503">je oznámení </a>AT &amp; T Wireless, že má 3G síť v čtyřech amerických městech....</p>
 <p>

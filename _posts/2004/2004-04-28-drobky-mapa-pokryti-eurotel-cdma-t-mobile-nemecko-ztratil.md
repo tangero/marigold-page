@@ -1,14 +1,21 @@
 ---
 ID: 1006
-title: 'Drobky: Mapa pokrytí Eurotel CDMA, T-Mobile Německo ztratil'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-mapa-pokryti-eurotel-cdma-t-mobile-nemecko-ztratil
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-mapa-pokryti-eurotel-cdma-t-mobile-nemecko-ztratil
+
+  '
 post_date: 2004-04-28 00:03:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel CDMA mapa pokrytí byla zveřejněna na Mobil.cz.
+- T-Mobile Německo získal v prvním čtvrtletí pouze 190 000 nových zákazníků.
+- O2 Německo získal 400 000 zákazníků v prvním čtvrtletí.
+- Verizon Wireless získal 1,4 milionu zákazníků s ARPU 48 USD.
+title: 'Drobky: Mapa pokrytí Eurotel CDMA, T-Mobile Německo ztratil'
 ---
+
 <p>
 Dovoluji si upozornit na mapu pokrytí Eurotel CDMA sítě, kterou jsem nahodil <A href="http://mobil.idnes.cz/mobilni_komunikace/operatori/sluzby/sluzby_eurotel/cdma040428.html" target=_blank>na Mobil.cz</A>. Také jsem v systému viděl článek o GSM 1X, <A href="http://vucako.bloguje.cz/38775_item.php" target=_blank>Kamojedov bude mít radost </A><EM>(nebo taky ne, já ho ještě nečetl, tak nevím)</EM>.</p>
 

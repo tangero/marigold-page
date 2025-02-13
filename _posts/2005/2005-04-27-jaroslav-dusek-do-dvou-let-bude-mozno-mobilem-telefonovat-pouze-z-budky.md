@@ -1,14 +1,21 @@
 ---
 ID: 1627
-title: 'Jaroslav Dušek: Do dvou let bude možno mobilem telefonovat pouze z&nbsp;budky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jaroslav-dusek-do-dvou-let-bude-mozno-mobilem-telefonovat-pouze-z-budky
-published: true
+oldlink: 'https://www.marigold.cz/item/jaroslav-dusek-do-dvou-let-bude-mozno-mobilem-telefonovat-pouze-z-budky
+
+  '
 post_date: 2005-04-27 09:22:03
+post_excerpt: ''
+published: true
+summary_points:
+- Duškova hra Čtyři dohody je spíše kázání v kontaktu s publikem.
+- Mobily mohou být regulovány jako drogy kvůli rušení a zneužívání.
+- Bohatí lidé se od mobilů oprošťují, vnímají je jako zotročení.
+- Budoucnost mobilů je nejistá, možná povede k jejich omezení nebo zániku.
+title: 'Jaroslav Dušek: Do dvou let bude možno mobilem telefonovat pouze z&nbsp;budky'
 ---
+
 <p>Včera jsme vyrazili na hru Jaroslava Duška Čtyři dohody. Osobně se tomu zdráhám říkat hra, jde spíše o kázání v takovém tom starosvětském stylu, v blízkém kontaktu s obecenstvem, ale kázání se tomu neříká. Asi proto, že kdysi by na kázání lidi nechodili a dneska, když už u J. Duška tuší, o co jde, je to jedno. Lístky samozřejmě zajistila Dita z moci své úřední od Cleverlance a já byl ten klasický Plus Jedna, ba dokonce jsem se domníval, že už v Cleverlance nikoho neznám. Později na rautu se ukázalo, že chyba lávky a několik cleverlancáků asi ještě teď dumá nad tím, jestli jsem opravdu VIP zákazník na javové bankovní systémy. Podle mne podařená akce, zdálo se mi, že i bankéři se bavili. </p>
 
 <p>Citát v nadpisu se samozřejmě také přeneseně týkal zvěstované toltécké moudrosti a J. Dušek také hned plasticky představoval, jak to bude vypadat, až EU přijme pravidla, že mobilem lze telefonovat jen ve vyhrazených prostorách. Totiž když úředníci budou moc hodní, udělají i speciální prostor, kde budete moci nejenom telefonovat, ale dokonce I KOUŘIT!</p>

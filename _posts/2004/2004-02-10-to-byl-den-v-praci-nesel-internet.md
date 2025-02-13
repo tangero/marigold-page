@@ -1,14 +1,22 @@
 ---
 ID: 844
-title: 'To byl den, v&nbsp;práci nešel internet&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/to-byl-den-v-praci-nesel-internet
-published: true
+oldlink: 'https://www.marigold.cz/item/to-byl-den-v-praci-nesel-internet
+
+  '
 post_date: 2004-02-10 08:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- Práce včera znemožněna pomalou sítí kvůli poruše páteřního připojení Ha-vel.
+- Emailová nedostupnost komplikovala práci, protože většina komunikace probíhá emailem.
+- Autor s Codym dokončili publikaci Necronomiconu, autor překládal, Cody zalomil do
+  HTML.
+- Překlad Necronomiconu je nekompletní, staršího data a obsahuje možnou chybu v překladu.
+title: To byl den, v&nbsp;práci nešel internet&#8230;
 ---
+
 <p>
 Včera byl zase den jak dáreček. Dorazil jsem do práce, zapnul notebook a síť šla tak pomalu, že se mi nepodařilo za půl hodiny stáhnout dva emaily. Ještě než jsem rozebral router se ukázalo, že za to může Ha-vel, kterému se sype nějaký kus páteře, na který jsme připojeni. Jenže hloupé bylo, že jsem potřeboval vyřídit pracovní emaily, zejména vyplnit jeden dotazník do Eurotelu. Nakonec mi ve dvě došla trpělivost, sbalil jsem se a jel jsem domů, kde síť fungovala... </p>
 

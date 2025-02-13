@@ -1,14 +1,21 @@
 ---
 ID: 1174
-title: 'NetGear WGR101 &#8211; první kapesní router'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/netgear-wgr101-prvni-kapesni-router
-published: true
+oldlink: 'https://www.marigold.cz/item/netgear-wgr101-prvni-kapesni-router
+
+  '
 post_date: 2004-06-29 08:21:47
+post_excerpt: ''
+published: true
+summary_points:
+- Netgear WGR101 je kapesní WiFi router s podporou 802.11g.
+- Router WGR101 nabízí WPA, NAT, SPI firewall a IPSec zabezpečení.
+- WGR101 postrádá ethernet porty a stojí přibližně 75 USD.
+- Asus nabízí kapesní přístupové body, ne routery.
+title: NetGear WGR101 &#8211; první kapesní router
 ---
+
 <p>
 Netgear <a href="http://www.netgear.com/products/details/WGR101.php?view=">představil</a> první &quot;kapesní&quot; router s podporou WiFi - Netgear WGR101. Je vybaven podporou 802.11g, má interní anténu, nabízí WPA, NAT, SPI firewall, IPSec a především kapesní rozměry krabičky od cigaret a váhu 80 gramů. </p>
 

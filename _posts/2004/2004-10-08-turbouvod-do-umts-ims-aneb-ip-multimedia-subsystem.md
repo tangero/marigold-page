@@ -1,15 +1,25 @@
 ---
 ID: 1354
-title: 'Turboúvod do UMTS: IMS aneb IP Multimedia Subsystem'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- UMTS
+- 3G
+- Turboúvod do mobilních sítí
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/turbouvod-do-umts-ims-aneb-ip-multimedia-subsystem
-published: true
+oldlink: 'https://www.marigold.cz/item/turbouvod-do-umts-ims-aneb-ip-multimedia-subsystem
+
+  '
 post_date: 2004-10-08 11:44:28
-categories: [UMTS, 3G, Turboúvod do mobilních sítí]
+post_excerpt: ''
+published: true
+summary_points:
+- UMTS Release 5 integruje All-IP koncept IMS pro paketový přenos dat, hlasu a obrazu.
+- IMS v UMTS posouvá síť k bezdrátovému modelu s protokoly SIP a IPV6.
+- IMS dělí okruhovou doménu na Media Gateway a MSC server pro efektivnější směrování.
+- IMS zatím není vhodný pro realtime aplikace, ale pro Push To Talk služby.
+title: 'Turboúvod do UMTS: IMS aneb IP Multimedia Subsystem'
 ---
+
 <p>
 Sliboval jsem minule, že se podíváme, jak by bylo možno přidat poměrně obstarožnímu UMTS Release 99 na rychlosti přenášených dat a přitom se pokusit redukovat počet krabic v schématu sítě, o kterých jsme si ještě ani neřekli, že existují. </p>
 
@@ -62,4 +72,3 @@ IMS jsme probrali jako malou odbočku, protože zatím se v praxi neprosazuje, j
 <p>
 Příště se snad konečně dostaneme k tomu, proč a jak zrychlují data v UMTS.
 </p>
-

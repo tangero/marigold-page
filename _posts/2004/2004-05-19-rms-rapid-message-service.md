@@ -1,14 +1,21 @@
 ---
 ID: 1045
-title: 'RMS &#8211; Rapid Message Service'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/rms-rapid-message-service
-published: true
+oldlink: 'https://www.marigold.cz/item/rms-rapid-message-service
+
+  '
 post_date: 2004-05-19 09:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- RMS je nová služba firmy HeyAnita podobná Push-to-Talk.
+- RMS funguje na 2G a vyšších sítích bez nutnosti nového telefonu.
+- Hlasový vzkaz se doručí přes SMS notifikaci a zpětné volání na server.
+- Tarifikace RMS pravděpodobně probíhá formou zpoplatněného hlasového hovoru.
+title: RMS &#8211; Rapid Message Service
 ---
+
 <p>
 Další rozšíření pro SMS službu se má jmenovat RMS. Ale nebojte se, nejde o žádný nový standard, jako jsou MMS, jde o službu americké firmy&#160; <A href="http://www.heyanita.com/press/pr040224.htm">HeyAnita.</A> Ta za <STRONG>RMS (Rapid Message Service)</STRONG> stojí. Služba RMS je vlastně podobná službě Push-to-Talk, v tomto případě stačí namluvit hlasový vzkaz a vybrat si číslo účastníka, kterému chcete vzkaz poslat. A on se mu doručí. Podstatné na tom je, že RMS má fungovat na všech mobilních telefonech od 2G nahoru a na všech typech digitálních mobilních sítích. A to je na tom právě to zajímavé - že není nutné používat nové mobilní telefony, že jde o službu kompatibilní se stávajícími typy, ačkoliv na těch nových mobilech se bude používa jednodušeji. </p>
 

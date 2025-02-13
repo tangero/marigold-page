@@ -1,14 +1,21 @@
 ---
 ID: 1637
-title: 'Adolf Hitler: Mein Kampf'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/adolf-hitler-mein-kampf
-published: true
+oldlink: 'https://www.marigold.cz/item/adolf-hitler-mein-kampf
+
+  '
 post_date: 2005-05-08 17:41:43
+post_excerpt: ''
+published: true
+summary_points:
+- Vydání Mein Kampf v Česku vyvolalo spory o morálnosti, nikoliv o obsahu.
+- Kniha Mein Kampf je rozdělena do dvou částí, popisuje Hitlerův světonázor a NSDAP.
+- Hitler kritizoval parlamentní systém a prosazoval diktaturu "zapáleného vůdce".
+- Mein Kampf ukazuje Hitlera jako oddaného služebníka německého národa.
+title: 'Adolf Hitler: Mein Kampf'
 ---
+
 <p>Vydání českého překladu této knihy vzbudilo takové emoce, že jsme pro samé diskuse o moralitě vydání knihy zapomněli debatovat o tom, co vlastně kniha sama obsahuje. O čem je tedy Hitlerův boj? Máme si ho přečíst?</p>
 
 <p>Od doby, kdy vyšel český překlad vůdci knihy narodněsocialistického hnutí, se okolo vydavatelského počinu strhla nebývalá diskuse. Diskutující se poměrně rychle rozdělili na dva tábory, kdy ten konzervativnější tvrdí, že kniha jest otevřenou propagaci fašistické ideologie a její vydání je nechutnost, ne-li trestný čin. Liberálněji laděný tábor tvrdí, že kniha je historickým dokumentem a jako taková nemá být sama o sobě zakazována, liberálové se také odvolávají na to, že díla jiných hnutí směřujících k potlačování svobod, jako jsou nejrůznější komunistické pamflety a manifesty, jsou běžné dostupná.

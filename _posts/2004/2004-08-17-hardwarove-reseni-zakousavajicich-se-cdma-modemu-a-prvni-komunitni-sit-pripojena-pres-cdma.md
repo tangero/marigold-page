@@ -1,14 +1,22 @@
 ---
 ID: 1260
-title: 'Hardwarové řešení zakousávajících se CDMA modemů a&nbsp;první komunitní síť připojená přes CDMA'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hardwarove-reseni-zakousavajicich-se-cdma-modemu-a-prvni-komunitni-sit-pripojena-pres-cdma
-published: true
+oldlink: 'https://www.marigold.cz/item/hardwarove-reseni-zakousavajicich-se-cdma-modemu-a-prvni-komunitni-sit-pripojena-pres-cdma
+
+  '
 post_date: 2004-08-17 16:34:08
+post_excerpt: ''
+published: true
+summary_points:
+- GTran modemy Eurotelu se občas kousnou a přestanou přenášet data.
+- Quattro vytvořil zapojení, které "kousnutý" modem automaticky restartuje.
+- Čejetická komunitní síť sdílí CDMA připojení přes WiFi a radí reklamaci.
+- Eurotel modemy s problémem vypínání vymění do sedmi dnů od nákupu.
+title: Hardwarové řešení zakousávajících se CDMA modemů a&nbsp;první komunitní síť
+  připojená přes CDMA
 ---
+
 <p>
 Našel jsem další zajímavý trik pro GTran modemy Eurotelu. Jejich majitelé si všimli, že se modemy občas "kousnou" - přestanou z ničeho nic přenášet a vypne se. Což je nepříjemné, pokud vyžadujete, aby měl autonomní provoz. Quattro na to vytvořil zapojení, které modem po takovém kousnutí znovu nahodí, stránku <a href="http://boat.aeroomni.com/cdma.htm">najdete zde</a>. Ztráta záruky je jistá. PS: Vtipné je, že jsem stránku našel přes nejrůznější odkazy a minutu poté ji autor postnul do diskuse na Marigolda :)</p>
 <p>

@@ -1,14 +1,21 @@
 ---
 ID: 1689
-title: 'O krmivosti operátorově a&nbsp;slastných očekávání nejrychlejšího UMTS'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/o-krmivosti-operatorove-a-slastnych-ocekavani-nejrychlejsiho-umts
-published: true
+oldlink: 'https://www.marigold.cz/item/o-krmivosti-operatorove-a-slastnych-ocekavani-nejrychlejsiho-umts
+
+  '
 post_date: 2005-06-20 18:23:29
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile uvádí Fast UMTS s průměrnou rychlostí 512 Kb/s a maximální 4,75 Mbps.
+- Fast UMTS je TD-CDMA, tedy ne standardní UMTS, s omezeným výběrem terminálů.
+- Instalace IP Wireless jsou často jen zkušební provozy, nikoliv rozsáhlé sítě.
+- T-Mobile vzbuzuje přehnaná očekávání ohledně rychlosti a dostupnosti Fast UMTS.
+title: O krmivosti operátorově a&nbsp;slastných očekávání nejrychlejšího UMTS
 ---
+
 <p>T-Mobile <a href="http://www.t-press.cz/tiskove-zpravy/archiv_detail.php?uid=508">dnes oznámil</a>, že štěstěna se usmála na občany této růží obsypané země a sestoupí na nás v podobě <em>"nejrychlejší komerční UMTS sítě na světě". </em>Abychom byli přesnější - síť podmanivě nazvaná Fast UMTS a dodávaná firmou IP Wireless pojede v nepárovém spektru 3G licence zakoupené za 3,8 mld Kč a ústy tiskové zprávy slibuje průměrnou rychlost 512 Kb/s a maximální sektorovou rychlost 4,75 Mbps.</p>
 
 <p>Než začnou teenageři omdlévat radostí a vyhazovat z ledniček rozjedné plechovky kosteleckých párků, z nichž ještě včera se zavázali vytvořit luxusní broadbandovou přípojku k nejbližšímu wifistickému ápéčku, chtěl bych  varovat před přílišným optimismem. </p>

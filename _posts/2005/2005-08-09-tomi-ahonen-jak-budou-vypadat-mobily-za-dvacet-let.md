@@ -1,14 +1,22 @@
 ---
 ID: 1760
-title: 'Tomi Ahonen: Jak budou vypadat mobily za dvacet let'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tomi-ahonen-jak-budou-vypadat-mobily-za-dvacet-let
-published: true
+oldlink: 'https://www.marigold.cz/item/tomi-ahonen-jak-budou-vypadat-mobily-za-dvacet-let
+
+  '
 post_date: 2005-08-09 08:53:41
+post_excerpt: ''
+published: true
+summary_points:
+- ': Mainstreamové mobily 3,5G, 5MP fotoaparáty, TV tuner, mobilní platby běžné.'
+- ': 4G telefony s 50x zoomem, překladačem jazyků, nahráváním okolí, mKey.'
+- ': 4,5G telefony s videoprojektory, terabytovou pamětí, virtuální sekretářkou, simultánní
+  překlad.'
+- ': 5G "telefony" velikosti zrnka cukru, obrovská paměť, vestavěné do šperků.'
+title: 'Tomi Ahonen: Jak budou vypadat mobily za dvacet let'
 ---
+
 <p>Je velmi nemilé referovat o dva měsíce staré události, může za to moje lenost a to,  že o tom nikdo jiný nenapsal. </p>
 
 <p>Jde o přednášku, kterou měl v kanadské Ottawě Tomi Ahonen, autor populárních knih věnovaných 3G. Tématem bylo dalších dvacet let budoucnosti mobilních komunikací. Jak tedy budou podle Tomi Ahonena vypadat budoucí mobilní telefony?</p>

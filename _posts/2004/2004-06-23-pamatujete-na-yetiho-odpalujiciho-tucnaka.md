@@ -1,16 +1,23 @@
 ---
 ID: 1163
-title: >
-  Pamatujete na yetiho odpalujícího
-  tučňáka?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pamatujete-na-yetiho-odpalujiciho-tucnaka
-published: true
+oldlink: 'https://www.marigold.cz/item/pamatujete-na-yetiho-odpalujiciho-tucnaka
+
+  '
 post_date: 2004-06-23 15:25:24
+post_excerpt: ''
+published: true
+summary_points:
+- Yeti Sports hra s tučňákem se stala internetovou mánií počátkem roku.
+- Rakouští programátoři úspěchu hry založili server Yetisports s pěti flash hrami.
+- Yeti Sports má fanklub, e-shop s CD, kalendáři a propagačními předměty.
+- Java verze Yeti Sports pro mobily bude brzy dostupná i v České republice.
+title: 'Pamatujete na yetiho odpalujícího tučňáka?
+
+  '
 ---
+
 <div class="rightbox"><img src="/wp-content/uploads/20040623-yetisports-hra.jpg" alt="Jak daleko odpálíte tučňáka...?" width="200" height="144" /></div><p>
 Tohle je prakticky velká sakces story, skoro stejná, jako Microsoft. Počátkem letošního roku se po internetu rozšířila mánie tučňákovské hry, kdy yeti odpaloval padajícího tučňáka do dálky. Já sám jsem <a href="http://www.marigold.cz/?itemid=805">zde dal</a> tip na hru. Hra slavila úspěch a to tak velký, že dvojice rakouských programátorů hry se dala prakticky na profesionální dráhu a vznikl celý server <a href="http://www.yetisports.org/englisch/">Yeti sports</a>.</p>
 <p>

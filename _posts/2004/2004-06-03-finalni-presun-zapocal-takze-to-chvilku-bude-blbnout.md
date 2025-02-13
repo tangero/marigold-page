@@ -1,14 +1,21 @@
 ---
 ID: 1122
-title: 'Finální přesun započal &#8211; takže to chvilku bude blbnout'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/finalni-presun-zapocal-takze-to-chvilku-bude-blbnout
-published: true
+oldlink: 'https://www.marigold.cz/item/finalni-presun-zapocal-takze-to-chvilku-bude-blbnout
+
+  '
 post_date: 2004-06-03 09:02:13
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold.cz adresa pro novou verzi nemusí fungovat ihned, používejte new.marigold.cz.
+- Staré RSS zdroje přestanou fungovat, nové odkazy jsou v pravém menu.
+- Genesis 2 končí, jeho funkce budou dočasně odkazovány, než budou přepsány v PHP.
+- Poděkování patří Vášovi, Lamimu, Lopovi a Mobil Media za podporu Marigoldu.
+title: Finální přesun započal &#8211; takže to chvilku bude blbnout
 ---
+
 <p>
 Poprosil jsem techniky, aby přehodily domény, takže v průběhu dne by měla začít fungovat www.marigold.cz pro novou verzi Marigoldu. Zatím to ale nefunguje, takže musíte používat new.marigold.cz. Jak to vypadá, přes den s www adresou budou ještě zmatky - omlouvám se, ale při stěhování DNS se tomu člověk asi nevyhne.  </p>
 

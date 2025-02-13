@@ -1,14 +1,22 @@
 ---
 ID: 772
-title: 'ČTÚ k&nbsp;pásmu 5GHz'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctu-k-pasmu-5ghz
-published: true
+oldlink: 'https://www.marigold.cz/item/ctu-k-pasmu-5ghz
+
+  '
 post_date: 2004-01-05 09:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ vydá generální licenci pro 5 GHz pásmo až po aktualizaci CEPT rozhodnutí.
+- Generální licence pro RLAN v pásmu 5 GHz bude vydána nejdříve koncem prvního čtvrtletí
+  2004.
+- Do vydání licence platí stávající předpisy pro provoz v pásmu 5 GHz.
+- ČTÚ obdrželo pouze nepodstatné připomínky k návrhu generální licence.
+title: ČTÚ k&nbsp;pásmu 5GHz
 ---
+
 <p>
 Před dvěmi týdny jsem psal o podmínkách využívání pásma 5GHz pro radiové sítě. Předposlední prosincový den si ČTÚ vybralo k publikaci "Informace o vydání generální licence k provozování systémů RLAN v kmitočtovém pásmu 5 GHz" (zde <A href="http://www.ctu.cz/art.php?iSearch=&amp;iArt=346" target=_blank>ČTÚ</A>), která prakticky potvrzuje další průběh udělování GL pro pásmo 5GHz.</p>
 

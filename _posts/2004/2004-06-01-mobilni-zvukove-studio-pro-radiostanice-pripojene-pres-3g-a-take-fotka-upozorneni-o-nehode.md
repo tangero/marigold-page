@@ -1,14 +1,22 @@
 ---
 ID: 1116
-title: 'Mobilní zvukové studio pro radiostanice připojené přes 3G. A&nbsp;také fotka upozornění o&nbsp;nehodě&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-zvukove-studio-pro-radiostanice-pripojene-pres-3g-a-take-fotka-upozorneni-o-nehode
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-zvukove-studio-pro-radiostanice-pripojene-pres-3g-a-take-fotka-upozorneni-o-nehode
+
+  '
 post_date: 2004-06-01 16:28:54
+post_excerpt: ''
+published: true
+summary_points:
+- Obrázek dopravní zácpy souvisí s obsahem weblogu.
+- NEC MobileStudio streamuje zvuk pro rozhlasové stanice pomocí ISDN a 3G.
+- NEC MobileStudio váží 3,3 kg a je produktem japonské firmy.
+- Podrobnosti o NEC MobileStudio jsou dostupné na K-Tai Watch.
+title: Mobilní zvukové studio pro radiostanice připojené přes 3G. A&nbsp;také fotka
+  upozornění o&nbsp;nehodě&#8230;
 ---
+
 <p>
 Tenhle obrázek se nedal zvěčnit, dostal jsem ho emailem a přijde mi, že souvisí s náplní tohoto weblogu (klik pro obrázek)...</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1366
-title: 'Zůstal jsem u&nbsp;Gmailu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zustal-jsem-u-gmailu
-published: true
+oldlink: 'https://www.marigold.cz/item/zustal-jsem-u-gmailu
+
+  '
 post_date: 2004-10-19 09:21:10
+post_excerpt: ''
+published: true
+summary_points:
+- Runbox předplatné nebylo obnoveno, autor přešel na Gmail a je spokojen.
+- Offline přístup k poště autor nepostrádá, počítač používá jako psací stroj.
+- Gmailu chybí možnost odesílat emaily z vlastní domény, ale Reply-To to řeší.
+- Gmail nemá POP3 ani WAP verzi pro mobil, což autorovi paradoxně vyhovuje.
+title: Zůstal jsem u&nbsp;Gmailu
 ---
+
 <p>
 Minulý týden mi vypršelo roční předplatné na Runbox.com. Už jsem jej neobnovoval - po několika týdnech používání Gmailu jsem se službou stále spokojen a zvyknul jsem si na ni. </p>
 

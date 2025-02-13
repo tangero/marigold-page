@@ -1,16 +1,23 @@
 ---
 ID: 966
-title: >
-  WiFi technika Giom českého výrobce
-  Mikrovlny s.r.o.
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-technika-giom-ceskeho-vyrobce-mikrovlny-s-r-o
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-technika-giom-ceskeho-vyrobce-mikrovlny-s-r-o
+
+  '
 post_date: 2004-04-05 08:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mikrovlny s.r.o. vyrábí vlastní WiFi ethernet konvertory Giom s řízením rychlosti.
+- Giom 1-3 nabízí webovou administraci, SNMP správu, firewall, Giom 3 i NAT.
+- Giom 4 (VPN bridge) vyžaduje PCMCIA kartu, což komplikuje připojení externí antény.
+- Mikrovlny vyvíjí vylepšený přístupový bod a klientskou jednotku s externím displejem.
+title: 'WiFi technika Giom českého výrobce Mikrovlny s.r.o.
+
+  '
 ---
+
 <p>
 Málokdy se člověk setkává s wifi technikou od českého výrobce, zpravidla narazím jen na nějaké malosériové výrobce antén. V případě společnosti Mikrovlny s.r.o. jde o čestnou výjimku, protože tato firma vyrábí několik produktů s WiFi, přičemž nejde o trapné variace na asijskou produkci běžných WiFi prvků, ale o skutečný vlastní vývoj produktů, se kterými se na trhu tak často nepotkáváme. </p>
 

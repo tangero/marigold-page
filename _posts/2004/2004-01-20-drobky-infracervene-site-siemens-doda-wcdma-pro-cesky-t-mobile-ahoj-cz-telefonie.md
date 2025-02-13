@@ -1,14 +1,22 @@
 ---
 ID: 801
-title: 'Drobky: Infračervené sítě, Siemens dodá WCDMA pro český T-Mobile, Ahoj.cz telefonie'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-infracervene-site-siemens-doda-wcdma-pro-cesky-t-mobile-ahoj-cz-telefonie
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-infracervene-site-siemens-doda-wcdma-pro-cesky-t-mobile-ahoj-cz-telefonie
+
+  '
 post_date: 2004-01-20 09:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- Infračervené sítě jsou popsány v článku Rity Pužmanové na Lupě.
+- Článek Mobil.cz pesimisticky hodnotí Wi-Fi v pásmu 5 GHz.
+- Siemens dodá WCDMA technologii pro českou síť T-Mobile.
+- Ahoj.cz nabízí volání v ČR za cenu místního hovoru.
+title: 'Drobky: Infračervené sítě, Siemens dodá WCDMA pro český T-Mobile, Ahoj.cz
+  telefonie'
 ---
+
 <p>
 Dnešní porci drobků z internetu začnu <A href="http://www.lupa.cz/clanek.php3?show=3186" target=_blank>článkem Rity Pužmanové</A> z Lupy <STRONG>věnovaný infračerveným sítím</STRONG>. Autorka jde hodně do hloubky (holt když tomu někdo rozumí, tak může :), pro obecný přehled se vyplatí pár odstavců povídání o technických detailech přeskočit a pokračovat zase na konci. Zajímavé je také povídání o difusní architektuře na konci článku. </p>
 

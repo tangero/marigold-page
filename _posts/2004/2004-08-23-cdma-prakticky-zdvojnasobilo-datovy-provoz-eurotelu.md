@@ -1,16 +1,23 @@
 ---
 ID: 1266
-title: >
-  CDMA prakticky zdvojnásobilo datový
-  provoz Eurotelu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cdma-prakticky-zdvojnasobilo-datovy-provoz-eurotelu
-published: true
+oldlink: 'https://www.marigold.cz/item/cdma-prakticky-zdvojnasobilo-datovy-provoz-eurotelu
+
+  '
 post_date: 2004-08-23 08:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- NIX statistiky ukazují provoz ISP partnerů, zejména do českých zdrojů.
+- Eurotel spustil CDMA v srpnu, což zvýšilo příchozí provoz přes NIX.
+- Vyšší rychlost připojení vede k většímu objemu přenesených dat.
+- Eurotel roste v provozu přes NIX, UPC je větší, T-Mobile menší.
+title: 'CDMA prakticky zdvojnásobilo datový provoz Eurotelu
+
+  '
 ---
+
 <p>
 Via <a href="http://vucako.bloguje.cz/61033_item.php">VÚČAKO</a> jsem (znovu)objevil zajímavé <a href="http://www.nix.cz/index.php?lg=cz&amp;wid=63">statistiky o provozu linek</a> jednotlivých ISP propojených přes NIX. Tedy, statistiky jsou jen za provoz skrze NIX peering, tedy korespondují s objemem provozu do serverů na další NIX partnery, zpravidla tedy do českých zdrojů. I tak je v nich možno najít ledasco zajímavého - ISP se snaží odbavovat český provoz přes NIX. </p>
 <p>

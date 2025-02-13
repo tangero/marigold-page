@@ -1,14 +1,21 @@
 ---
 ID: 1115
-title: 'Drobky: kterak skončila Cometa a&nbsp;marigoldí úpravy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-kterak-skoncila-cometa-a-marigoldi-upravy
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-kterak-skoncila-cometa-a-marigoldi-upravy
+
+  '
 post_date: 2004-06-01 09:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa publikovala článek o konci Cometa Networks s překlepem Intel Cupital.
+- Marigold má dočasně zvětšené písmo, úpravy designu provádí Radek Hulán.
+- Marigold RSS URL je dočasně http://new.marigold.cz/xml-rss2.php.
+- Oskar má reklamní kampaň na mapy.atlas.cz s bannerboardem.
+title: 'Drobky: kterak skončila Cometa a&nbsp;marigoldí úpravy'
 ---
+
 <p>
 Na Lupě <a href="http://www.lupa.cz/clanek.php3?show=3410">vyšel můj článek</a> podrobněji se zabývající <b>koncem Cometa Networks</b>, WiFi sítě v USA. Podařil se mi v něm epesní překlep - místo Intel Capital se v článku oběvilo Intel Cupital. Ne, že bych nevěděl, jak se to píše, ale Word za mne moudře usoudil, že Intel bude raději cupitat, než capital. Inu, čerstvá instalace a ještě jsem automatické opravy nenastavil pořádně...</p>
 

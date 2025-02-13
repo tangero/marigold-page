@@ -1,14 +1,22 @@
 ---
 ID: 798
-title: 'blog2mobile: další moblog na obzoru, Atari Retro a&nbsp;další Series 60 software'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/blog2mobile-dalsi-moblog-na-obzoru-atari-retro-a-dalsi-series-60-software
-published: true
+oldlink: 'https://www.marigold.cz/item/blog2mobile-dalsi-moblog-na-obzoru-atari-retro-a-dalsi-series-60-software
+
+  '
 post_date: 2004-01-19 00:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Blog2mobile umožňuje publikování weblogu z mobilu pomocí WAP a i-mode, nikoliv MMS.
+- Atari Retro nabízí balíček her z Atari 2600 pro Series60, Palm a PocketPC za 30
+  USD.
+- mStreamer za 10 USD streamuje živé video ze Series60 telefonu na jiná zařízení.
+- Task Switcher je zdarma dostupný program pro přepínání úloh na Symbian zařízeních.
+title: 'blog2mobile: další moblog na obzoru, Atari Retro a&nbsp;další Series 60 software'
 ---
+
 <p>
 Na internetu jsem narazil na další moblogovací server, tedy nabídku <STRONG>publikování weblogu pomocí mobilního telefonu</STRONG>. V tomto případě se nepublikuje pomocí MMS zpráv, ale využitím WAP a dokonce i i-mode. Služba se jmenuje <A href="http://www.b2mob.com/">blog2mobile</A>, software pro ni vyrábí firma <A href="http://www.wokup.com/" target=_blank>Wokup</A>.</p>
 

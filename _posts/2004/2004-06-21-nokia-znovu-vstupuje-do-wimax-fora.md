@@ -1,14 +1,20 @@
 ---
 ID: 1155
-title: Nokia znovu vstupuje do WiMAX fóra
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-znovu-vstupuje-do-wimax-fora
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-znovu-vstupuje-do-wimax-fora
+
+  '
 post_date: 2004-06-21 09:15:35
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia nejdříve opustila WiMAX fórum, ale po měsíci se do něj vrátila.
+- IP divize Nokia Networks zřejmě nenabízí konkurenceschopné produkty.
+- Nokia investovala do Mozilla projektu s cílem vytvořit mobilní prohlížeč Minimo.
+title: Nokia znovu vstupuje do WiMAX fóra
 ---
+
 <p>
 Někdy se obtížně chápe, co Nokia provádí. Před měsícem <a href="/?itemid=1040">vystoupila z WiMAX fóra</a>, což jsem rozdýchával jako pragmatické rozhodnutní věnovat se nyní důležitějším součástem jejího businessu. Zhruba měsíc po vystoupení z fóra ovšem Nokia prohlásila, že do WiMAX fóra opět vstupuje. Zdroj: <a href="http://www.computerweekly.com/articles/article.asp?liArticleID=131392&#038;liArticleTypeID=1&#038;liCategoryID=1&#038;liChannelID=7&#038;liFlavourID=1&#038;sSearch=&#038;nPage=1">ComputerWeekly</a>.</p>
 <p>

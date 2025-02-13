@@ -1,16 +1,23 @@
 ---
 ID: 1703
-title: >
-  Další VoIP komunita Gizmo je open
-  source
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-voip-komunita-gizmo-je-open-source
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-voip-komunita-gizmo-je-open-source
+
+  '
 post_date: 2005-07-01 08:55:51
+post_excerpt: ''
+published: true
+summary_points:
+- Wavigo nově nabízí bránu pro volání a instant messaging do Skype.
+- Autor článku udělal chybu v interpretaci statistik Skype volání.
+- Gizmo Project je open-source SIP klient pro Windows, Mac a Linux.
+- Mercora IM rádio je P2P internetové rádio s mnoha funkcemi.
+title: 'Další VoIP komunita Gizmo je open source
+
+  '
 ---
+
 <p>Po Jajah se objevilo několik dalších kandidátů na globální konkurenty Skype. Pokud jste četli můj <a href="http://www.lupa.cz/clanek.php3?show=4229">včerejší článek na Lupě Skypebijci</a>, psal jsem tam o dalším klientu <a href="http://www.wavigo.com">Wavigo</a>, jeho vývojáři mne včera upozornili, že stejně jako Jajah mají nově bránu na volání a IM do Skype (<a href="http://news.yahoo.com/news?tmpl=story&amp;u=/prweb/20050629/bs_prweb/prweb256288_1">zde tiskovka</a>. </p>
 
 <p>U článku jsem udělal hnusnou chybu - deset miliard proskypovaných minut jsem vzal jako SkypeOut minuty, což jsem pochopil ze dvou nezávislých článků, ale neověřil jsem to u Skype, což se mi stalo osudným (taky jsem nechápal, jak by to změřili, když Skype-Skype hovory jsou P2P bez průchodu přes Skype server). Jde o všechna volání přes Skype a mezi Skype klienty. Ach jo, taková ostuda :(</p>

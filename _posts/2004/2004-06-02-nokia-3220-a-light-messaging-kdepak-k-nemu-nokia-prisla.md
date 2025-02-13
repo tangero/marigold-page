@@ -1,14 +1,21 @@
 ---
 ID: 1120
-title: 'Nokia 3220 a&nbsp;Light Messaging &#8211; kdepak k&nbsp;němu Nokia přišla?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-3220-a-light-messaging-kdepak-k-nemu-nokia-prisla
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-3220-a-light-messaging-kdepak-k-nemu-nokia-prisla
+
+  '
 post_date: 2004-06-02 09:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia 3220 nabízí funkci Light Messaging, světelné zprávy diodami.
+- WildSeed vyvinul AirText, technologii světelných zpráv před Nokií.
+- Kyocera nabízí telefon Kurv s technologií AirText od WildSeed.
+- Nokia pravděpodobně technologii AirText od WildSeed nelicencovala.
+title: Nokia 3220 a&nbsp;Light Messaging &#8211; kdepak k&nbsp;němu Nokia přišla?
 ---
+
 <p>
 Nová Nokia 3220 přichází na trh se zajímavou blbůstkou pro teenagery - funkcí <b>Wild Text nebo též Light Messaging</b>. Tato funkce představuje jednu řadu diod na zadní straně telefonu, která se při pohybu vzduchem rozsvědcuje tak, že ve vzduchu je vidět text. </p>
 

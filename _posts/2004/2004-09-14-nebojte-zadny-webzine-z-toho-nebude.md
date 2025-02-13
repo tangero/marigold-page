@@ -1,14 +1,21 @@
 ---
 ID: 1317
-title: 'Nebojte, žádný webzine z&nbsp;toho nebude&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nebojte-zadny-webzine-z-toho-nebude
-published: true
+oldlink: 'https://www.marigold.cz/item/nebojte-zadny-webzine-z-toho-nebude
+
+  '
 post_date: 2004-09-14 08:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor vysvětluje občasné příspěvky jiných autorů na svém blogu Marigold.
+- Marigold zůstane osobním blogem, ne webzinem s více autory a tématy.
+- Kolaborativní blogy ztrácejí koherenci a čtenářskou orientaci, uvádí příklady.
+- Autor nevěří v přerod blogů na webziny, ale postrádá český Slashdot.
+title: Nebojte, žádný webzine z&nbsp;toho nebude&#8230;
 ---
+
 <p>
 Konečně jsem se prokousal připomínkami a emaily k Marigoldu ne více jak dva týdny starými a dorazil jsem k připomínkám, že tu publikují i jiní lidé, než já. Vskutku. A je třeba to asi osvětlit. Tak za prvé Noname, jehož jsem poprosil, aby sem dal nějakou tu zprávičku, zatímco se budu dovolenkovat. Myslel jsem to pro případ, kdyby tu přistáli ufoni z Melmeku a instalovali celorepublikovou WiFi síť nebo tak něco. Vzal to seriosně a celý týden poctivě smolil články jeden za druhým. Dalším případem je Oook, jehož Story o sousedských sítích přesáhla jedenáct dílů. Dlužno dodat, že oba znám osobně a oba rozumějí sítím, takže je čemu se od nich přiučit. Oba znám i z té druhé strany a vím, že je psací výron zase rychle pustí. Noname odpadl po týdnu, kdy se přiznal, že si na psaní zpráviček na Marigolda musel prakticky vzít dovolenou. Oook dobuduje WiFi pokrytí u svého skorotchána a v dalších svých skorolokalitách a rovněž padne nosem do trávy a bude si užívat toho, že nemusí&#8230; (především psáti). A popadne ho to zase za půl roku. O to nemám strach :)</p>
 

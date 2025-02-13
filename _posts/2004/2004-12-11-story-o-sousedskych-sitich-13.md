@@ -1,14 +1,21 @@
 ---
 ID: 1437
-title: 'Story o&nbsp;sousedských sítích (13.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-13
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-13
+
+  '
 post_date: 2004-12-11 09:22:32
+post_excerpt: ''
+published: true
+summary_points:
+- Pražský CLOUD, autonomní systém, trpí útoky komerční firmy rušící WiFi spoje.
+- Gubernátor CLOUDu nedokázal donutit firmu posílat agregované prefixy pro směrování.
+- V CZFree.Net probíhají spory o definici CZF kvůli různorodosti členů a technologií.
+- Otevřen byl první NCX bod Zápech, propojující dva CLOUDy pomocí switche.
+title: Story o&nbsp;sousedských sítích (13.)
 ---
+
 <p>
 Když už nás Noname tak hezky popíchl, zkusím sesumírovat několik zajímavostí ze světa komunitních sítí(=CZFree.Net).<br/> <br/>Pohybuji se v pražském CLOUDu (což je de facto jeden autonomní systém), který je podle mého názoru ztělesněním anarachie, kdy duchovní vůdci (provozovatelé AP) dobrovolně respektují rozumná rozhodnutí gubernátora.  On je naštěstí rozumný, takže zjevné blbosti, které u duchovních vůdců narazí,  nijak netlačí. Takže například nastavení OSPF v jedné části CLOUDu vypadá tak, že výpadek okruhu je detekován až po čtyřech minutách - to aby nestabilní Linuxy měly dost času naběhnout po zresetování.</p>
 

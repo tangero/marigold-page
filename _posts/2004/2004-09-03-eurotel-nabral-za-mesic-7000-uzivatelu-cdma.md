@@ -1,16 +1,23 @@
 ---
 ID: 1298
-title: >
-  Eurotel nabral za měsíc 7000
-  uživatelů CDMA
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-nabral-za-mesic-7000-uzivatelu-cdma
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-nabral-za-mesic-7000-uzivatelu-cdma
+
+  '
 post_date: 2004-09-03 19:03:22
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel získal 7000 uživatelů CDMA služby za první měsíc provozu.
+- Podmínky a ceny CDMA Eurotelu byly rozumnější než u ADSL Telecomu.
+- CDMA zákazníci Eurotelu přenesli zhruba pětinásobek dat oproti GPRS zákazníkům.
+- Investice Eurotelu do CDMA se zaplatí po 12 tisících uživatelích.
+title: 'Eurotel nabral za měsíc 7000 uživatelů CDMA
+
+  '
 ---
+
 <p>
 Je to hodně nebo málo? Eurotel nabral podle oficiálního známení za první měsíc provozu služby celkem 7000 uživatelů. Tím se nepotvrdily první spekulace, že prodává tisíc modemů denně, na druhou stranu to není ani málo. ADSL se na stejný počet klientů dostávalo čtyři měsíce a i když můžeme mluvit o kumulaci poptávky, u ADSL byla zřejmě stejná. </p>
 

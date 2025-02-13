@@ -1,14 +1,21 @@
 ---
 ID: 1004
-title: WDS hezky podrobně
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wds-hezky-podrobne
-published: true
+oldlink: 'https://www.marigold.cz/item/wds-hezky-podrobne
+
+  '
 post_date: 2004-04-27 07:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- WDS propojuje přístupové body na stejném kanálu a připojuje klienty.
+- WDS optimalizuje náklady při budování rozsáhlé WiFi sítě.
+- Článek o WDS je aktualizací WiFi knihy s více než 16000 znaky.
+- Článek o WDS je určený pro ty, kteří chtějí ušetřit při budování WiFi sítě.
+title: WDS hezky podrobně
 ---
+
 <p>
 <p>
 Už delší dobu jsem (si) sliboval, že napíšu něco většího k nějakému WiFi tématu. A tak jsem splodil článek o <STRONG>WDS, Wireless Distribution System</STRONG>. Jde o technologii, která umožní na stejném kanálu propojovat jednotlivé přístupové body a na stejném kanálu k nim také připojovat klientské adaptery. </p>

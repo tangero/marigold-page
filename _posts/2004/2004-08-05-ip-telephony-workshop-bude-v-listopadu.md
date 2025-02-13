@@ -1,14 +1,21 @@
 ---
 ID: 1235
-title: 'IP Telephony Workshop bude v&nbsp;listopadu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ip-telephony-workshop-bude-v-listopadu
-published: true
+oldlink: 'https://www.marigold.cz/item/ip-telephony-workshop-bude-v-listopadu
+
+  '
 post_date: 2004-08-05 17:09:44
+post_excerpt: ''
+published: true
+summary_points:
+- IP Telephony Workshop se koná 23.-24. listopadu 2004 v hotelu Olympik Praha.
+- Akce prezentuje produkty a služby IP telefonie, SW, řešení a hardware.
+- Workshop je určen zájemcům o IP telefonii a technologickým partnerům.
+- Kombinace konference a výstavy umožní vyzkoušet si konkrétní řešení.
+title: IP Telephony Workshop bude v&nbsp;listopadu
 ---
+
 <p>
 VoIP a VoBB stále populárnější. Dneska mi přišla tisková zpráva o listopadovém IP Telephony Workshop, v listopadu snad bude chvíle času, abych se tam propašoval a podíval se, co je kde zajímavého a nového. Takže cituji z tiskové zprávy...</p>
 <p>

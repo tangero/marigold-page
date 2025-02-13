@@ -1,14 +1,21 @@
 ---
 ID: 1282
-title: 'Překvapivé chvíle s&nbsp;vlastním serverem&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prekvapive-chvile-s-vlastnim-serverem
-published: true
+oldlink: 'https://www.marigold.cz/item/prekvapive-chvile-s-vlastnim-serverem
+
+  '
 post_date: 2004-08-30 08:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- Radek Hulán upgradoval redakční systém Marigold na novější verzi.
+- Administrace Marigoldu se po upgradu přepnula do ruštiny.
+- Nový Marigold zobrazuje varování proti používání MSIE prohlížeče.
+- Oook a Noname začali přispívat články na Marigold.
+title: Překvapivé chvíle s&nbsp;vlastním serverem&#8230;
 ---
+
 <p>
 Včera jsem pozdě do noci psal článek a když jsem ráno vstal a podíval se na Marigolda, nějak jsem ho nepoznával. Ukázalo se, že Radek Hulán nervově nevydržel stav, kdy Marigold používá tři měsíce starou verzi redakčního systému a upgradoval ho. Vypadá to teď lépe a hlavně je tu WAP, po kterém jsem tak prahnul&#8230; </p>
 <p>

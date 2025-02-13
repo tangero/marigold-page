@@ -1,14 +1,21 @@
 ---
 ID: 957
-title: 'CDMA weblog a&nbsp;jiné nóvosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cdma-weblog-a-jine-novosti
-published: true
+oldlink: 'https://www.marigold.cz/item/cdma-weblog-a-jine-novosti
+
+  '
 post_date: 2004-03-31 08:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- IT Security konference bude obsahovat přednášku o bezpečnosti bezdrátových sítí.
+- Mobilní hry budou tématem panelu moderovaného na Bezdrátové středě za dva týdny.
+- Weblog Vúčako od Kamojedova se věnuje technologii CDMA na českém internetu.
+- Internet v práci konečně funguje po výměně ISP a problémech s routerem.
+title: CDMA weblog a&nbsp;jiné nóvosti
 ---
+
 <p>
 Dneska odpoledne budu na konferenci IT Security vykládat o bezpečnosti bezdrátových sítí. Vymyslel jsem epesní scénku na začátek svého vystoupení, kdy pár přítomným jedincům nahackuji mobil s bluetooth, což rozšíří paniku a nebudou u mého projevu chrápat ale bedlivě poslouchat. Nakonec nemám Series60 telefon po ruce a i jsem si řekl, že možná bude lepší nedělat nějaký průšvih, protože je to usedlá konference a na estrádní oživení tam asi nejsou zvyklí... </p>
 

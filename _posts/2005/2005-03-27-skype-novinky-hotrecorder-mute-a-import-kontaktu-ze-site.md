@@ -1,14 +1,24 @@
 ---
 ID: 1595
-title: 'Skype novinky: Hotrecorder, Mute a&nbsp;import kontaktů ze sítě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/skype-novinky-hotrecorder-mute-a-import-kontaktu-ze-site
-published: true
+oldlink: 'https://www.marigold.cz/item/skype-novinky-hotrecorder-mute-a-import-kontaktu-ze-site
+
+  '
 post_date: 2005-03-27 21:13:05
+post_excerpt: ''
+published: true
+summary_points:
+- Hotrecorder nahrává Skype, AIM, Net2Phone a další VoIP přenosy, nabízí i zvukové
+  efekty.
+- Skype nahrazuje 800 linky a používá se pro podcasty, proto Hotrecorder nabízí zvukové
+  efekty.
+- Mute for Skype od Michala Bláhy ztiší hudbu při příchozím hovoru na Skype.
+- Skype 1.2 importuje kontakty ze sítě, Outlooku, Opery a MSN Messengeru a ukládá
+  je na server.
+title: 'Skype novinky: Hotrecorder, Mute a&nbsp;import kontaktů ze sítě'
 ---
+
 <p>Mám několik novinek / stařinek ke Skype, která vám mohou přijít k chuti. </p>
 
 <div class="rightbox"><img src="/wp-content/uploads/20050327-Hotrecorder-thumb.png" alt="Hotrecorder" width="200" height="394" /></div>Tak především jsem konečně našel docela komfortní nahrávač Skype telefonátů. Jmenuje se <b>Hotrecorder</b> a stojí buďto 15 dolarů, nebo je zdarma a s reklamou. Důležité je, že nahrávat umí i další VoIP přenosy, nejen Skype, ale i AIM, Net2Phone, Yahoo! Messenger, FireFly a další. Zajímavá je také funkce Emotisound - při rozhovoru do něj můžete pustit zvukové efekty jako pláč, smích atd. Kravinka, která potěší. Kromě toho je v Hotrecorderu také záznamník, jenže pro něj musíte mít zapnutý počítač, není to jako u Skype záznamníku, kde můžete nechat vzkaz i člověku v offline režimu (jenže za ty peníze je mi to docela dost). </p>

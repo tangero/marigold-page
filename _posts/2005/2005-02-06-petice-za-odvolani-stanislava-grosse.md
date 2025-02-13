@@ -1,14 +1,22 @@
 ---
 ID: 1516
-title: Petice za odvolání Stanislava Grosse
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/petice-za-odvolani-stanislava-grosse
-published: true
+oldlink: 'https://www.marigold.cz/item/petice-za-odvolani-stanislava-grosse
+
+  '
 post_date: 2005-02-06 22:57:39
+post_excerpt: ''
+published: true
+summary_points:
+- Petici za odvolání premiéra Grosse sestavili Filip Rožánek a Martin Malý (Artur
+  Dent).
+- Gross nedoložil původ peněz na byt a jeho manželka příjmy z podnikání.
+- Gross tajně vytvořil dva policejní týmy mimo kontrolu institucí.
+- Gross jmenoval Pavla Přibyla z Pohotovostního pluku SNB na Úřad vlády.
+title: Petice za odvolání Stanislava Grosse
 ---
+
 <p>Filip Rožánek s Martinem Malým (Artur Dent) sestavili <a href="http://www.bloguje.cz/petice/" >petici za odvolání premiéra Stanislava Grosse</a>.
 Podepsal jsem ji. Jak by ne - člověk, který si nemůže vzpomenout, kde
 sebral peníze na drahý byt a následně na to má tři fantaskní verze, ve

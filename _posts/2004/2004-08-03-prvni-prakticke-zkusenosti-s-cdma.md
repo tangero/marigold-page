@@ -1,14 +1,21 @@
 ---
 ID: 1230
-title: 'První praktické zkušenosti s&nbsp;CDMA'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prvni-prakticke-zkusenosti-s-cdma
-published: true
+oldlink: 'https://www.marigold.cz/item/prvni-prakticke-zkusenosti-s-cdma
+
+  '
 post_date: 2004-08-03 17:47:58
+post_excerpt: ''
+published: true
+summary_points:
+- CDMA dosahuje průměrné rychlosti 512 kbps, občas klesá pod 300 kbps.
+- Ping se pohybuje mezi 100-300 ms, instalace je rychlá a bezproblémová.
+- VPN (IPSec, PPTP) na CDMA nefunguje, podpora to potvrzuje a neví, zda se to změní.
+- Mobil.cz a MobilMania mají diskuse o zkušenostech s CDMA.
+title: První praktické zkušenosti s&nbsp;CDMA
 ---
+
 <p>
 Michal mi přeposlal první zkušenosti s CDMA, takže:</p>
 

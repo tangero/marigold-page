@@ -1,14 +1,23 @@
 ---
 ID: 897
-title: 'Potter dočten, takže hurá do drobků kolem sítí&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/potter-docten-takze-hura-do-drobku-kolem-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/potter-docten-takze-hura-do-drobku-kolem-siti
+
+  '
 post_date: 2004-03-04 08:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Harry Potter pátý díl je komplikovanější a úměrně roste s věkem čtenářů.
+- Marigold roztřídil zprávy do kategorií, včetně nové kategorie 3G a shrnutí 3G Týden.
+- Autor nesouhlasí, že Marigold je konkurencí Mobil.cz, píše pro menšinu geeků.
+- Zandan měří doručení SMS ve Francii, MobilMania informuje o Eurotel Live.
+- Specifikace UWB by se mohla schválit, Rita Pužmanová píše o spotřebě energie 802.11b/g.
+- Živě publikuje článek o počátcích telekomunikací na Slovensku od Juraje Procházky.
+title: Potter dočten, takže hurá do drobků kolem sítí&#8230;
 ---
+
 <p>
 Tak jsem včera <STRONG>dočetl pátý díl Harryho Pottera</STRONG> a při té příležitosti mne napadlo, že by nebylo od věci napsat paralelní knihu, která by byla vyprávěna z pohledu Luciuse Malfoye. Pátý díl Pottera mi přijde mnohem komplikovanější a v knihovně se nedalo přehlédnout, jak tloušťka dílů stoupá úměrně s pořadovým číslem dílu. Autorka se zřejmě snaží vyrovnat s tím, že i její čtenáři rostou a tak se snaží úměrně jejich věku zdvihat i "psychologické prostředí" knihy - hlavní hrdina už je daleko rozporuplnější než býval a někdy si říkám, že pár facek by tomu frackovi neškodilo.</p>
 

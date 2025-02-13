@@ -1,14 +1,21 @@
 ---
 ID: 1001
-title: 'CDMA se u&nbsp;Eurotelu zřejmě opozdí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cdma-se-u-eurotelu-zrejme-opozdi
-published: true
+oldlink: 'https://www.marigold.cz/item/cdma-se-u-eurotelu-zrejme-opozdi
+
+  '
 post_date: 2004-04-26 17:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel odloží spuštění CDMA kvůli chybějícímu souhlasu ČTÚ.
+- Šéf ČTÚ Stádník uvedl, že další vyjádření k povolení CDMA není nutné.
+- Carlo Longino tvrdí, že lidé nebudou platit mobil, ADSL a mobilní internet.
+- Steve Jones kritizuje Eurotel za plánování CDMA bez povolení a podpory.
+title: CDMA se u&nbsp;Eurotelu zřejmě opozdí
 ---
+
 <p>
 Na <A href="http://www.euro.cz/detail.jsp?id=60518" target=_blank>Euru vyšel článek</A> (později ho ze zdrojů ČTK potvrdily i <A href="http://mobil.idnes.cz/mobilni_komunikace/operatori/sluzby/sluzby_eurotel/eurotelodlozicdma040426.html" target=_blank>další servery</A>) o tom, že Eurotel odloží spuštění CDMA na později. Trnem v oku je Eurotelu tentokráte absence závěrečného požehnání ČTÚ. Poprosil jsem koncem minulého týdne šéfa ČTÚ D. Stádníka o vyjádření a přišlo mi následující: <STRONG>V současné době není nutné vydávat nějaké další vyjádření ve věci povolení provozu CDMA sítě.</STRONG> Český překlad této odpovědi si raději nebudu domýšlet...:(</p>
 

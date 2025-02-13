@@ -1,14 +1,21 @@
 ---
 ID: 1476
-title: 'Já už jsem stará generace (a&nbsp;to mi je třicet) &#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ja-uz-jsem-stara-generace-a-to-mi-je-tricet
-published: true
+oldlink: 'https://www.marigold.cz/item/ja-uz-jsem-stara-generace-a-to-mi-je-tricet
+
+  '
 post_date: 2005-01-17 08:44:33
+post_excerpt: ''
+published: true
+summary_points:
+- Redaktor Týdne zařadil autora do "staré" podnikatelské generace.
+- Autor bránil třicátníky, kteří neměli internet a mobily zadarmo.
+- Autor se pohybuje v telekomunikacích deset let.
+- Nobelovu cenu dostávají šedesátníci za dílo po pětatřicítce.
+title: Já už jsem stará generace (a&nbsp;to mi je třicet) &#8230;
 ---
+
 <p>Před deseti dny se se mnou domlouval redaktor Týdne, že by potřeboval pár názorů k článku věnovanému rozdílům mezi starou a mladou podnikatelskou generací. I souhlasil jsem a připravoval jsem si několik smířlivých názorů, kterak my, mladá generace, jsme positivní a blabla&#8230; Redaktor dorazil a po vteřině rozhovoru mne zarazil a objasnil mi, že já jsem přeci ta STARÁ generace, ne ta mladá, to mladou že myslí dnešní dvacátníky. </p>
 
 <p><i>Zvážil jsem možnost zpřerážet mu hnáty a poslat je doporučeně jako nevyplacenou zásilku zpět do redakce, jsem ale dobrák od kosti a tak jsem od toho upustil.</i> Nakonec jsem spíše nás třicátníky musel bránit. Bránit v tom, že ani my jsme to neměli jednoduché, že nám nikdo nedal nic zadarmo a nic nepřišlo samo. Že jsme nepřišli k internetu a nebylo zřejmé, že se na něm nadělají hromady peněz, že jsme se nepodívali na mobily a nebylo jasné, že je to zlatý důl. Redaktor chvíli pochyboval. Baže, z dnešního pohledu JE to jasné, že internet i mobily byla nová bonanza. Úlisně jsem se redaktora otázal, CO je tedy dnes podle něj nová bonanza, kde příjmy kvetou nerušeně - že to přeci také musí být zřejmé. Dal mi za pravdu, že tak  jednoduché to asi není. </p>

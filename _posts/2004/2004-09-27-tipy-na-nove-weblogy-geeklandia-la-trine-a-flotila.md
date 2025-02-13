@@ -1,14 +1,20 @@
 ---
 ID: 1337
-title: 'Tipy na nové weblogy: Geeklandia, La Trine  a&nbsp;Flotila'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tipy-na-nove-weblogy-geeklandia-la-trine-a-flotila
-published: true
+oldlink: 'https://www.marigold.cz/item/tipy-na-nove-weblogy-geeklandia-la-trine-a-flotila
+
+  '
 post_date: 2004-09-27 11:09:44
+post_excerpt: ''
+published: true
+summary_points:
+- Geeklandia Romana Staňka nabízí netradiční pohled na technologie ze zahraničí.
+- La Trine Davida Grudla je programátorský weblog s obsahem i pro neprogramátory.
+- Flotila Země je online sci-fi povídka doporučená pro milovníky žánru.
+title: 'Tipy na nové weblogy: Geeklandia, La Trine  a&nbsp;Flotila'
 ---
+
 <p>
 Mám tu zase nějaké tipy na zajímavé weblogy. Tak především <a href="http://geeklandia.blogspot.com/">Geeklandia</a> je weblog Romana Staňka, věnovaný technologiím viděným z zaoceánského pohledu. Stojí za pozornost, už proto, že Geeklandii píše člověk, který něco dokázal, takže jeho názorům je vhodno přikládat váhu. A také proto, že výběr témat je hodně netradiční oproti běžným webům, takže je to příjemné osvěžení. </p>
 

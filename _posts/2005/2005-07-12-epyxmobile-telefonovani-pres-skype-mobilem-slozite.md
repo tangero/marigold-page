@@ -1,14 +1,21 @@
 ---
 ID: 1714
-title: 'EpyxMobile: telefonování přes Skype mobilem (složitě)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/epyxmobile-telefonovani-pres-skype-mobilem-slozite
-published: true
+oldlink: 'https://www.marigold.cz/item/epyxmobile-telefonovani-pres-skype-mobilem-slozite
+
+  '
 post_date: 2005-07-12 08:57:43
+post_excerpt: ''
+published: true
+summary_points:
+- EpyxMobile umožňuje volat ze sítě GSM do Skype pomocí dvou mobilů a PC.
+- Volání mezi prvním a druhým mobilem je zpoplatněno dle tarifu uživatele.
+- Placené verze EpyxMobile umožňují i přijímání hovorů ze Skype sítě.
+- Autor považuje řešení EpyxMobile za nepraktické a složité.
+title: 'EpyxMobile: telefonování přes Skype mobilem (složitě)'
 ---
+
 <p>Telefonovat z mobilu zdarma přes Skype láká, jenže kromě PockePC PDA vybavených WiFi a GSM je to zatím jen utopie. Tedy skoro. Na trh přichází nová aplikace nazvaná <a href="http://www.epyxmobile.com">EpyxMobile</a>, která toto umožní. Bohužel dost složitě na to, aby mne to otrávilo. </p>
 
 <p>EpyxMobile funguje takto: svým jedním mobilním telefonem zavoláte na svůj druhý mobilní telefon, který je přes bluetooth propojený s vaším počítačem, na němž běží Skype. Tak se hovor z vašeho telefonu jedna dostane do Skype sítě (i SkypeOut). Samozřejmě za volání mezi telefonem číslo jedna a dva platíte dle svého tarifu. </p>

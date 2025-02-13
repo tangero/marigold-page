@@ -1,14 +1,21 @@
 ---
 ID: 790
-title: 'Drobky: ztrácí Nokia dech?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-ztraci-nokia-dech
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-ztraci-nokia-dech
+
+  '
 post_date: 2004-01-14 08:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia čelí konkurenci, nikoliv úpadku, a predikce vývoje mobilů je složitá.
+- UWB technologie pro rychlá data trpí rozkolem, doporučeno pro zájemce.
+- Orange zavádí funkci Push to talk TalkNow, brzy i na Slovensku.
+- Aireo je MP3 přehrávač s WiFi připojením, cena kolem 300 USD.
+title: 'Drobky: ztrácí Nokia dech?'
 ---
+
 <p>
 Dnešní přehled drobností z internetu bych začal článkem na MobilManii nazvaným <A href="http://www.mobilmania.cz/Mobilnitelefony/Ar.asp?ARI=106317&amp;CAI=2103" target=_blank>Nokia ztrácí dech. Kde dělá chyby?</A> Článek&#160;napsal, jestli se nemýlím, prodejce mobilů a je to typický příklad záměny příčiny a důsledku. Nokia neztrácí dech, ale firmy, které ho měly léta zaražený, ho končeně chytají. Už jen mezititulky v článku dávají důvod domnívat se, že ani sám autor není tím pravým zvěrozvěstem. Copak <STRONG>Mnoho modelů pro nic</STRONG> neprotiřečí <STRONG>Zákazníci chtějí výběr</STRONG>? Pamatuji se, jak jsem na přelomu osmdesátých let čítal články&#160;o tom, jak přeci nikdo z nás nepotřebuje takové systémy, jako jsou Windows a že Microsoft je s nimi úplně mimo (to byly Windows ve verzi 2.5 a do veleúspěšných trojek byla dlouhá cesta). Ve stejné pozici je Nokia - co se na obyčejném GSM telefonu dalo vylepšit, to udělala. Co s ním dál? O tom se nám teď hezky básní, jenže výrobci telefonů musí počítat a predikovat na dva roky dopředu. A to už není taková legrace, jako dnes napsat <EM>"Proč Nokia vůbec vyrábí řadu 6610/7210/6100".</EM> Mimochodem, zkuste si někdy vypsat funkce mobilů Nokia a zařadit k nim konkurenci ostatních výrobců... Více by mne znervozňovalo to, že Nokia nedodává paletu 3G telefonů.</p>
 

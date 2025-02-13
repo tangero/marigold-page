@@ -1,14 +1,21 @@
 ---
 ID: 1779
-title: Patrick Zandl je navržen na smazání
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/patrick-zandl-je-navrzen-na-smazani
-published: true
+oldlink: 'https://www.marigold.cz/item/patrick-zandl-je-navrzen-na-smazani
+
+  '
 post_date: 2005-08-19 17:28:42
+post_excerpt: ''
+published: true
+summary_points:
+- Wikipedie navrhla smazání hesla autora, označeného jako "ješitný článek".
+- Autor nesouhlasí s argumentem o nedostatečné reprezentativnosti v kategoriích.
+- Autor se ptá, proč by neměli mít profily i méně známé osobnosti.
+- Autor kritizuje malý zájem encyklopedií o moderní témata.
+title: Patrick Zandl je navržen na smazání
 ---
+
 <p>Dneska mi statistický program posílající mi nové zajímavé stránky odkazující na Marigolda (=dobrý zdroj nových webů o wifi a technice) vyplivl odkaz do wikipedie končící mým jménem. Překvapilo mne to a tak jsem se na něj šel podívat. Skutečně, česká Wikipedie má <a href="http://cs.wikipedia.org/wiki/Patrick_Zandl">jako heslo moje jméno</a>. Žádný obsáhlý životopis, nicméně autor hesla věděl, kde a kdy jsem se narodil, to není zase tak málo. Pak jsem se podíval na heslo pořádně a vidím popisek, že je navrženo na smazání. Protože jsem nikdy moc českou Wikipedii nepoužíval, prohlédl jsem si to – je to moc pěkná kolaborativní funkce, u hesla lze hlasovat, zda a proč by podle vás mělo být smazáno. Heslo o mně je označeno jako „ješitný článek“ – ve vysvětlivkách, co je to takový ješitný článek se uvádí, že si ho zřejmě autor napsal sám nebo z jiného důvodu je moc pochvalné :) Tak jen pro pořádek – nenapsal jsem si ho sám a pisatele neznám :) Ale to není podstatné. </p>
 
 <p>Podíval jsem se <a href="http://cs.wikipedia.org/wiki/Wikipedie:Hlasov%C3%A1n%C3%AD_o_smaz%C3%A1n%C3%AD">na Hlasování o smazání</a>, koho by nezaujalo, jak hlasování o jeho vlastním smazání probíhá. Zatím spíš budu vymazán. Líto mi to nebude, já vím, kdo jsem, vím, kdy jsem se narodil, takže sám sebe ve Wikipedii hledat nebudu. Nejdříve člověka samozřejmě zamrzí, že ho chtějí vyškrtnout kvůli tomu, že není dostatečně representativní zástupce ve svých kategoriích, jenže pak jsem se do těch kategorií podíval a opravdu. <a href="http://cs.wikipedia.org/wiki/Kategorie:Podnikatel%C3%A9">Seznam podnikatelů v české Wikipedii</a> je tento: Disney, Gates, Jobs, Rott, Soros, Zandl, což při veškeré mé ješitnosti není zcela adekvátní. V <a href="http://cs.wikipedia.org/wiki/Kategorie:%C4%8Ce%C5%A1t%C3%AD_novin%C3%A1%C5%99i">kategorii Novinářů</a> jsem postaven vedle S.K. Neumana (je to pocta nebo urážka?) či Ondřeje Neffa. Mimochodem, Ondřej je tam jeden z mála žijících, kromě mne (zatím nesmazaného), A. Lustiga,  R. Johna a pár dalších. </p>

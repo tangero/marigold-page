@@ -1,14 +1,21 @@
 ---
 ID: 1246
-title: 'Zpráva z&nbsp;tisku (11.8.04) &#8211; doplněno'
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zprava-z-tisku-11-8-04-doplneno
-published: true
+oldlink: 'https://www.marigold.cz/item/zprava-z-tisku-11-8-04-doplneno
+
+  '
 post_date: 2004-08-11 22:50:27
+post_excerpt: ''
+published: true
+summary_points:
+- Mobil server podruhé ukázal CDMA EV/DO technologii.
+- Ženy dokáží vyrobit Wi-Fi detektor s citem pro módu.
+- iPAQ 4150 je oblíbené Wi-Fi PDA, aktualizace ROM v1.10.03.
+- TISCALI Česká republika prozatím není na prodej.
+title: Zpráva z&nbsp;tisku (11.8.04) &#8211; doplněno
 ---
+
 <p>
 Dnes to byla slabota, což dávalo čas, poohlídnout se také po dění v cizině. Ale přesto začneme zprávami od nás:</p>
 <p>

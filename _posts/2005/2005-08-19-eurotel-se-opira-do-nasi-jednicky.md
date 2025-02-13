@@ -1,14 +1,21 @@
 ---
 ID: 1776
-title: Eurotel se opírá do naší jedničky
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-se-opira-do-nasi-jednicky
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-se-opira-do-nasi-jednicky
+
+  '
 post_date: 2005-08-19 08:10:11
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel zveřejnil tři celostránkové inzeráty, které cílí na T-Mobile.
+- Eurotel uvádí rostoucí zájem zákazníků a deset důvodů volby.
+- Titul mobilní jedničky je dle autora spíše PR záležitost.
+- Tržní podíly operátorů se do pěti let pravděpodobně vyrovnají.
+title: Eurotel se opírá do naší jedničky
 ---
+
 <p>Eurotel zřejmě někde vyhrabal příručku <em>"Nasíráme T-Mobile ve třech snadných krocích"</em> a dneska pouští naší čerstvé mobilní jedničce žilou. V dnešní MF DNES vyšla v sešitě A (=tom prvním =tom nejdražším) hned trojice celostránkových inzerátů, u kterých jen Robinson Crusoe může být na pochybách, k čemu se vztahují. </p>
 
 <p>Eurotel na to jde chytře, když konstatuje, že jeho zákaznící o něj mají stále větší zájem, když si koupili třikrát více tarifů. Na další stránce předkládá deset důvodů, proč si ho zákazníci volí. A v posledním inzerátu do toho jde na plno: "Pro nás existuje pouze jedna jednička. Vy.".</p>

@@ -1,14 +1,22 @@
 ---
 ID: 1223
-title: WideNet převzat německým AirNyxem
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/widenet-prevzat-nemeckym-airnyxem
-published: true
+oldlink: 'https://www.marigold.cz/item/widenet-prevzat-nemeckym-airnyxem
+
+  '
 post_date: 2004-07-30 07:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- WideNet, WiFi poskytovatel, byl převzat společností AIRNYX CZ a.s. s německými partnery.
+- AIRNYX CZ a.s. získala značku WideNet a provozuje síť "W" s 45 hotspoty.
+- WideNet implementuje roamingové služby a plánuje zpřístupnění sítě světovým zákazníkům
+  do konce roku 2004.
+- WideNet plánuje do konce roku 2004 zprovoznit 200 hotspotů ve větších městech ČR.
+title: WideNet převzat německým AirNyxem
 ---
+
 <p>
 Aktivity společnosti WideNet, předního poskytovatele bezdrátového připojení k internetu prostřednictvím technologie WiFi, dnes převzala společnost AIRNYX CZ a.s.. Za ní stojí partneři druhého největšího provozovatele sítě HotSpots v Německu &#8211; AIRNYX AG.</p>
 <p>

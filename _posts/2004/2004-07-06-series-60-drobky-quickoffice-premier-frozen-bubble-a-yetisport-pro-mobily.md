@@ -1,14 +1,22 @@
 ---
 ID: 1184
-title: 'Series 60 drobky: Quickoffice Premier, Frozen Bubble a&nbsp;Yetisport pro mobily'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/series-60-drobky-quickoffice-premier-frozen-bubble-a-yetisport-pro-mobily
-published: true
+oldlink: 'https://www.marigold.cz/item/series-60-drobky-quickoffice-premier-frozen-bubble-a-yetisport-pro-mobily
+
+  '
 post_date: 2004-07-06 20:25:43
+post_excerpt: ''
+published: true
+summary_points:
+- Quickoffice Premier umožňuje editaci Microsoft Office souborů na Series 60/UIQ za
+  50 USD.
+- Frozen Bubble je bezplatná hra pro Series 60 s GPL licencí od NewLC.
+- Yeti hrátky jsou J2ME hra dostupná pro různé mobily za 50 Kč u Redboss.
+title: 'Series 60 drobky: Quickoffice Premier, Frozen Bubble a&nbsp;Yetisport pro
+  mobily'
 ---
+
 <p>
 Tyhle dvě aplikace nejde nezmínit - jsou pro Series 60 a potěší mnoho uživatelů, ačkoliv v tom prvním případě pouze za penízky. Poslední hra je čistě J2ME, takže bude pro všechny...</p>
 

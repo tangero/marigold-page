@@ -1,14 +1,22 @@
 ---
 ID: 1126
-title: 'Wireless Unleashed &#8211; lobby za uvolnění dalších frekvencí pro bezlicenční použití'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wireless-unleashed-lobby-za-uvolneni-dalsich-frekvenci-pro-bezlicencni-pouziti
-published: true
+oldlink: 'https://www.marigold.cz/item/wireless-unleashed-lobby-za-uvolneni-dalsich-frekvenci-pro-bezlicencni-pouziti
+
+  '
 post_date: 2004-06-04 08:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- Wireless Unleashed propaguje uvolnění frekvencí pro bezlicenční použití v USA.
+- Kevin Werbach, Andrew Odlyzko, David Isenberg a Clay Shirky stojí za Wireless Unleashed.
+- Microsoft podporuje Wireless Unleashed, ale nezasahuje do obsahu webu.
+- Autor textu by rád viděl podobnou iniciativu pro bezlicenční frekvence v Evropě.
+title: Wireless Unleashed &#8211; lobby za uvolnění dalších frekvencí pro bezlicenční
+  použití
 ---
+
 <p>
 Amerika je zemí realizace některých mých snů (některých podtrhuji). Skupina lidí zde založila tzv <a href="http://wirelessunleashed.com/">Wireless Unleashed</a> - fórum, nebo chcete-li <b>lobby, které se snaží zpropagovat myšlenku uvolnění dalších frekvencí pro bezlicenční použití</b> (samozřejmě v USA). Za webem stojí pánové Kevin Werbach, Andrew Odlyzko, David Isenberg a Clay Shirky - tedy lidé v USA známí svojí aktivitou, zejména publikační. A zajímavé je, že web podporuje Microsoft, přičemž <a href="http://wirelessunleashed.com/about.html">v popisu webu</a> se jasně říká, že Microsoft nezasahuje do obsahové části, jen se mu líbí myšlenka uvolnění frekvencí pro bezlicenční pásmo. Bezpochyby pro to, že v tom Microsoft vidí další business - což ale není nic špatného. </p>
 

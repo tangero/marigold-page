@@ -1,14 +1,23 @@
 ---
 ID: 1597
-title: Avátary pro mobilní telefony
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/avatary-pro-mobilni-telefony
-published: true
+oldlink: 'https://www.marigold.cz/item/avatary-pro-mobilni-telefony
+
+  '
 post_date: 2005-03-30 07:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- Avatary jsou vizualizované reprezentace virtuální osobnosti, potenciálně animované
+  postavičky v mobilu.
+- Siemens zkouší Woobbie avatara, ale praktické využití v chytrých telefonech zatím
+  chybí.
+- Autor vidí avatary spíše jako virtuální náhradníky volané strany, ne imbecilní panáky.
+- Úspěch avatara závisí na jeho kvalitní připravenosti, aby uživatele nezklamal.
+title: Avátary pro mobilní telefony
 ---
+
 <p>Když jsem kdysi dávno přemýšlel o tom, co ještě není v mobilu a jak s námi jednou bude komunikovat, vzpomněl jsem si na avátary, <i>vizualizované representace virtuálizované osobnosti</i>, kdybyste chtěli nějakou definici. </p>
 
 <p>Avátar může mít řadu podob, na netu se nejčastěji používají ikonky, jenže proč nepoužít celou animovanou postavičku. Siemens si třeba hraje s <b>Woobbie</b> - avátarem do svých chytrých telefonů (viz obrázek). Jenže zatím jen hraje, praktické uplatnění to nemá, protože něco jiného je, aby vám avátar v mobilu četl, co jste si do mobilu zapsali vy a něco jiného je, aby interagoval, aby vám byl schopen sdělit, že letadlo, kterým máte v úmyslu letět, se zpozdilo. Je něco jiného avátara implementovat jako imbecilního pana Sponku a jako samostatně "myslící" objekt propojený s internetovými znalostními bázemi, už s omezeními pamětí mobilních telefonů, které neumožňují výrobcům nacpat do telefonu všechny potřebné algoritmy a ponechávají je uložené na vzdáleném serveru. </p>

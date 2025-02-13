@@ -1,14 +1,21 @@
 ---
 ID: 793
-title: iDNES narozeninová párty
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/idnes-narozeninova-party
-published: true
+oldlink: 'https://www.marigold.cz/item/idnes-narozeninova-party
+
+  '
 post_date: 2004-01-16 09:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor se zúčastnil narozeninové párty iDNESu jako doprovod.
+- Na baru probíhala akce "Nálet na Saigon" s drinky B-52.
+- Maturovič zhodnotil kabát z C&A jako odpovídající luxusu.
+- Autor našel v kapse sumář obchodních slibů z večera.
+title: iDNES narozeninová párty
 ---
+
 <p>
 Dnešní ráno je krušné. Včera byla narozeninová párty iDNESu pro zaměstnance, já nejsem zaměstnanec, ale šel jsem s Ditou jako plusjeden. Párty byla fajn, jen jeden idnesák mne upozornil, že má narozeniny až v září, když jsem mu přál vše nejlepší k narozeninám, ale pak se vrátil a řekl, že to pochopil. To bylo už po otevření baru, takže vše v pohodě. </p>
 

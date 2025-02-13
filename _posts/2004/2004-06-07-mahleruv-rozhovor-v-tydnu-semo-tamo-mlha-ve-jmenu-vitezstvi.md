@@ -1,14 +1,21 @@
 ---
 ID: 1133
-title: 'Mahlerův rozhovor v&nbsp;Týdnu &#8211; semo tamo mlha ve jménu vítězství'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mahleruv-rozhovor-v-tydnu-semo-tamo-mlha-ve-jmenu-vitezstvi
-published: true
+oldlink: 'https://www.marigold.cz/item/mahleruv-rozhovor-v-tydnu-semo-tamo-mlha-ve-jmenu-vitezstvi
+
+  '
 post_date: 2004-06-07 18:09:40
+post_excerpt: ''
+published: true
+summary_points:
+- Mahler v Týdnu zkreslil situaci vracení analogových frekvencí operátory.
+- Operátoři vraceli analogové frekvence dobrovolně nebo po vypršení licence.
+- Německý regulátor dodnes řeší využití frekvencí po síti C-Netz.
+- Mahlerovo zkreslení mělo poškodit Eurotel v licenční záležitosti.
+title: Mahlerův rozhovor v&nbsp;Týdnu &#8211; semo tamo mlha ve jménu vítězství
 ---
+
 <p>
 V Týdnu (24/2004) vyšel rozhovor se šéfem T-Mobile Rolandem Mahlerem. Docela zajímavý rozhovor. Příklad toho, jak lze vypustit mlhu ve jménu vítězství. Týkalo se to licencí v pásmu 450 MHz vydaných Eurotelu. Cituji:</p>
 

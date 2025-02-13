@@ -1,14 +1,21 @@
 ---
 ID: 1705
-title: Trocha Mariekonomiky
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/trocha-mariekonomiky-1705
-published: true
+oldlink: 'https://www.marigold.cz/item/trocha-mariekonomiky-1705
+
+  '
 post_date: 2005-07-04 15:49:01
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold v roce 2004 utržil za reklamu 68 000 Kč, do června 2005 pak 92 000 Kč.
+- Příjmy z PPC reklamy na Marigold pokrývají náklady na odborné konference a materiály.
+- Autor Marigoldu hledá open-source systém pro PPC reklamu s aukčním stanovením ceny.
+- PPC reklama na Marigoldu začala v říjnu 2003, cena je nyní pevná 5 Kč za klik.
+title: Trocha Mariekonomiky
 ---
+
 <p>Ivo Lukačovič napsal článek <a href="http://blog.lide.cz/ilblog/2005/07/01/133">Než se u nás rozjede PPC, v USA se možná tento obchodní model změní</a>. Na něj reagoval Yuhů článkem <a href="http://www.jakpsatweb.cz/weblog/b/1120230111-cisla-o-klikacich-podvodech-jsou-kecy.html">Čísla o klikacích podvodech jsou kecy</a>. Oba dva články doporučuji k přeštení, samozřejmě se týkají internetové reklamy placené za odkliky. Tedy té, kterou používám i já na Marigoldovi. </p>
 
 <p>Na Marigold jsem PPC reklamu umístil v říjnu 2003 a spíše proto, že jsem chtěl vyzkoušet něco, co tehdy na českém internetu nikdo moc nedělal – eTarget s ní právě začínal a vyzkoušet ji přes něj tehdy nebylo možno, na to byl Marigold moc mikroserver. Systém nejdříve fungoval dosti automatizovaně, prostě jste se registrovali, zaplatili a inzerovali, v půli roku 2004 se tahle automatizovanost z nejrůznějších organizačních důvodů "rozbila" a místo aukčního stanovení ceny funguje pevná cena 5 Kč bez DPH za kliknutí na reklamu. </p>

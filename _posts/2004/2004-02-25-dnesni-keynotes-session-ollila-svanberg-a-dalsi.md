@@ -1,14 +1,23 @@
 ---
 ID: 879
-title: 'Dnesni keynotes session &#8211; Ollila, Svanberg a&nbsp;dalsi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dnesni-keynotes-session-ollila-svanberg-a-dalsi
-published: true
+oldlink: 'https://www.marigold.cz/item/dnesni-keynotes-session-ollila-svanberg-a-dalsi
+
+  '
 post_date: 2004-02-25 11:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ollila zmínil ČR s Itálií a Portugalskem jako země s vyrovnaným poměrem volání.
+- Ollila vidí otevřenost, obchodní model a sílu zákazníka jako nutnosti pro mobilní
+  odvětví.
+- Otellini propagoval WiMax jako broadband technologii budoucnosti, ale byl kritizován.
+- Intel představil ZOAR, referenční platformu pro mobily podporující WiFi, GSM/GPRS
+  a Bluetooth.
+title: Dnesni keynotes session &#8211; Ollila, Svanberg a&nbsp;dalsi
 ---
+
 <p>
 Před chvilkou skončila keynotes session, kde mluvil šéf Nokia Jorma Ollila, prezident Ericssonu Čárl Henric Svanberg a Paul Ottelini, prezident a COO&#160;Intelu. Pak ještě povídal něco Rich Tempeton z TI, to ale už bylo neuvěřitelně nudné a v podstatě na bázi firemní produktové presentace, takže jsem to nevydržel a utekl. </p>
 

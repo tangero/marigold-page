@@ -1,16 +1,23 @@
 ---
 ID: 1300
-title: >
-  Případ Dolphin Telecom – konec
-  civilní PAMR TETRA
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pripad-dolphin-telecom-konec-civilni-pamr-tetra
-published: true
+oldlink: 'https://www.marigold.cz/item/pripad-dolphin-telecom-konec-civilni-pamr-tetra
+
+  '
 post_date: 2004-09-05 19:39:27
+post_excerpt: ''
+published: true
+summary_points:
+- Dolphin Telecom, PAMR síť, se potýkal s finančními problémy a nízkým zájmem.
+- TIW, Chase Manhattan a Motorola stáli za Dolphinem, který v roce 2001 zastavil vývoj.
+- Qualcomm navrhl využití spektra Dolphinu pro CDMA450, což vedlo k označení CDMA-PAMR.
+- Portugalský regulátor souhlasil s CDMA450, ale ve Francii a Británii Dolphin neuspěl.
+title: 'Případ Dolphin Telecom – konec civilní PAMR TETRA
+
+  '
 ---
+
 <p>
 Když se spouští nový projekt, je kolem toho většinou velká presska – spousta lidí od PíáRu rozesilá materiály a dává rozhovory, jak že je to skvělý projekt se světlou budoucností. Asi jste si povšimli, že když se o pár měsíců či let (dle výdrže investora) smetají ze stolu nedojedené zbytky, nebývají novináři v první řadě takové derniéry. Věru, umírajícím projektům už se pozornost nevěnuje. A tak jsem se rozhodl zašátrat po některých známějších a osvěžit nám všem paměť. </p>
 

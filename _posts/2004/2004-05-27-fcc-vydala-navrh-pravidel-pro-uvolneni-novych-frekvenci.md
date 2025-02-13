@@ -1,16 +1,23 @@
 ---
 ID: 1055
-title: >
-  FCC vydala návrh pravidel pro
-  uvolnění nových frekvencí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/fcc-vydala-navrh-pravidel-pro-uvolneni-novych-frekvenci
-published: true
+oldlink: 'https://www.marigold.cz/item/fcc-vydala-navrh-pravidel-pro-uvolneni-novych-frekvenci
+
+  '
 post_date: 2004-05-27 07:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- FCC navrhuje uvolnění nových frekvencí pod 900 MHz a v 3 GHz pásmu.
+- Návrh FCC projde připomínkovacím řízením s možným platností za 100 dní.
+- Úřední angličtina FCC je čtivější než úřední angličtina evropského CEPT.
+- Dokument FCC je úvod do problematiky trhu a má 40 stran.
+title: 'FCC vydala návrh pravidel pro uvolnění nových frekvencí
+
+  '
 ---
+
 <p>
 Americký regulátor <STRONG>FCC vydal návrh pravidel pro uvolnění nových frekvencí</STRONG> - týká se to frekvencí pod 900 MHz a v 3 GHz pásmu. Na tomto URL najdete <A href="http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-04-113A1.pdf" target=_blank>PDF verzi</A>. Návrh nyní musí projít připomínkovacím řízením, kdy se k němu mohou lidé a firmy vyjádřit a jejich připomínky následně FCC může zapracovat, všeho všudy to může platit za více jak 100 dní. </p>
 

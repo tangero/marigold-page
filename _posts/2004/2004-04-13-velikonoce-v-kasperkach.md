@@ -1,14 +1,21 @@
 ---
 ID: 979
-title: 'Velikonoce v&nbsp;Kašperkách'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/velikonoce-v-kasperkach
-published: true
+oldlink: 'https://www.marigold.cz/item/velikonoce-v-kasperkach
+
+  '
 post_date: 2004-04-13 08:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Velikonoce strávili v Kašperských Horách s cílem prozkoumat přírodu a hrady.
+- Výlet na Javorník zkomplikoval nečekaný sníh a chůze v jarních botách.
+- Na Javorníku je rozhledna s BTSkou, ideální pro sledování telekomunikační techniky.
+- Zlatá stezka a hledání zlata nebylo úspěšné, ale alespoň se dalo fotit.
+title: Velikonoce v&nbsp;Kašperkách
 ---
+
 <p>
 Rozhodli jsme se na velikonoce vyrazit více do přírody a odjeli jsme v pátek do Kašperských Hor, rozkošného městečka na Šumavě obklopeného několika hrady (výhoda pro mne).</p>
 

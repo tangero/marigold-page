@@ -1,14 +1,22 @@
 ---
 ID: 822
-title: 'Elektřina přes web &#8211; PRE'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/elektrina-pres-web-pre
-published: true
+oldlink: 'https://www.marigold.cz/item/elektrina-pres-web-pre
+
+  '
 post_date: 2004-01-30 07:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- PRE zpřístupňuje zákaznická data přes webovou aplikaci Phoenix na adrese phoenix.pre.cz.
+- Aplikace Phoenix nabízí faktury, dluhy a graf spotřeby elektřiny za odběrové období.
+- PRE plánuje aplikaci pro optimalizaci odběrového tarifu na základě spotřebovaných
+  dat.
+- Web PRE neuvádí pevně stanovené hodiny pro programové řízení nočního proudu.
+title: Elektřina přes web &#8211; PRE
 ---
+
 <p>
 Nedávno jsem dostal spolu s fakturou za elektřinu od Pražské energetiky také upozornění na webovou aplikaci zpřístupňující data ze zákaznického účtu. A tak jsem se rozhodl to vyzkoušet. Dlužno říci, že aplikace mne příjemně překvapila! Na adrese <A href="https://phoenix.pre.cz/" target=_blank>https://phoenix.pre.cz</A> si můžete zažádat o zaslání hesla (doporučeně poštou) na adresu své zákaznické smlouvy a až vám heslo dorazí, můžete se přihlásit na té samé adrese.</p>
 

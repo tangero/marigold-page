@@ -1,14 +1,21 @@
 ---
 ID: 1899
-title: Příští sezóna nejistá
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pristi-sezona-nejista
-published: true
+oldlink: 'https://www.marigold.cz/item/pristi-sezona-nejista
+
+  '
 post_date: 2005-12-15 11:54:06
+post_excerpt: ''
+published: true
+summary_points:
+- Marigoldova budoucnost je nejistá kvůli několika problémům.
+- Autor naráží na problémy kvůli kritice firem online.
+- Technické potíže způsobují pád serveru a vyžadují údržbu.
+- Autor nedosáhl cílů v osvětě a publikacích o telekomunikacích.
+title: Příští sezóna nejistá
 ---
+
 <p>Říkám to předem a na rovinu, příští sezóna Marigolda v této podobě je velmi nejistá. Důvodů, které mne k tomu vedou, je vícero a následující soupis není nutně dle pořadí důležitosti. </p>
 
 <p>Čím dál více se stává, že se svojí nevymáchanou webovou hubou narážím. Doba, kdy Marigolda nikdo nečetl, je pryč. Zmínka o podivně fungujícím bankovním systému vede k tomu, že mi pět zaměstnanců té banky nejrůznějších pozic nabídne osobní proškolení, to je ještě to nejmenší. Lehký povzdech nad službou operátora už má dramatičtější následky a zajímavé je, že dotčeni jsou všichni operátoři najednou, protože jednoho jsem „pomluvil“, druhý brblá, že jsem nepochválil jeho a třetí vrčí, že tahle věc konkurenta vůbec nestála za zmínku. </p>

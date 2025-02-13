@@ -1,14 +1,21 @@
 ---
 ID: 1609
-title: 'Cybersky-TV: P2P pro televizi plus internetový rekordér TV programů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cybersky-tv-p2p-pro-televizi-plus-internetovy-rekorder-tv-programu
-published: true
+oldlink: 'https://www.marigold.cz/item/cybersky-tv-p2p-pro-televizi-plus-internetovy-rekorder-tv-programu
+
+  '
 post_date: 2005-04-09 08:26:41
+post_excerpt: ''
+published: true
+summary_points:
+- Cybersky-TV je P2P program pro šíření televizního vysílání s tunerem.
+- OnlineTVrecorder.com nabízí online nahrávání TV pořadů s úložným prostorem.
+- OnlineTVrecorder.com je v beta verzi a omezeno pro obyvatele vybraných států.
+- Cybersky-TV a OnlineTVrecorder.com by mohly fungovat propojeně.
+title: 'Cybersky-TV: P2P pro televizi plus internetový rekordér TV programů'
 ---
+
 <p>Při svém každotýdenním procházení novinek v P2P aplikacích jsem narazil na zajímavost - Cybersky-TV. Zatím bohužel nejde o hotový software, ten by měl být dostupný až 12.4., to už je ale za chvíli. Tak uvidíme, zda to stihnou, nebo zase posunou. </p>
 
 <p>Ale o co jde: Cybersky-TV je program pro P2P šíření televizního vysílání. Stačí mít tuner v počítači a můžete se stát distributorem TV kanálu, pokud tuner nemáte, můžete TV kanály jen přijímat. Podobně, jako satelitem...</p>

@@ -1,14 +1,21 @@
 ---
 ID: 789
-title: 'Operátoři v&nbsp;roce 2003 &#8211; zákaznické zisky vede Oskar'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/operatori-v-roce-2003-zakaznicke-zisky-vede-oskar
-published: true
+oldlink: 'https://www.marigold.cz/item/operatori-v-roce-2003-zakaznicke-zisky-vede-oskar
+
+  '
 post_date: 2004-01-13 10:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar měl v roce 2003 1 547 000 zákazníků, meziroční růst 31,1 %.
+- Eurotel získal ve 4. čtvrtletí 2003 195 000 nových klientů.
+- T-Mobile měl v roce 2003 3 856 000 zákazníků, růst 9,1 %.
+- Eurotel vyhrál vánoční trh, Oskar celkově získal nejvíce zákazníků.
+title: Operátoři v&nbsp;roce 2003 &#8211; zákaznické zisky vede Oskar
 ---
+
 <p>
 Je zajímavé podívat se, jak si operátoři vedli v roce 2003. </p>
 

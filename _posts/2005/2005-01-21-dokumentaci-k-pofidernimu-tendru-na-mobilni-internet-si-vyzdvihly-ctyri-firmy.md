@@ -1,14 +1,25 @@
 ---
 ID: 1487
-title: 'Dokumentaci k&nbsp;pofidérnímu tendru na mobilní internet si vyzdvihly čtyři firmy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dokumentaci-k-pofidernimu-tendru-na-mobilni-internet-si-vyzdvihly-ctyri-firmy
-published: true
+oldlink: 'https://www.marigold.cz/item/dokumentaci-k-pofidernimu-tendru-na-mobilni-internet-si-vyzdvihly-ctyri-firmy
+
+  '
 post_date: 2005-01-21 08:42:56
+post_excerpt: ''
+published: true
+summary_points:
+- Čtyři společnosti T-Mobile, Eurotel, Czech On Line a České radiokomunikace projevily
+  zájem o pásmo 872 MHz.
+- Eurotel se pravděpodobně přihlásil do tendru, aby konkuroval T-Mobile a zpochybnil
+  případné vítězství.
+- Největší šance na získání pásma 872 MHz mají COL a T-Mobile.
+- Tendr na pásmo 872 MHz je podle autora zmanipulovaný ve prospěch předem vybrané
+  společnosti.
+title: Dokumentaci k&nbsp;pofidérnímu tendru na mobilní internet si vyzdvihly čtyři
+  firmy
 ---
+
 <p>Podle včerejší zprávy ČTK si dokumentaci k licenčnímu tendru na pásmo 872 MHz vyzdvihly čtyři společnosti: T- Mobile, Eurotel, Czech On Line a České radiokomunikace. Tedy nikoliv Tiscali, jak jsme se původně domníval. Včerejší MF DNES také označila za zájemce <i>&#8220;irskou společnost Qualcomm&#8221;</i> . měl jsem dojem, že Qualcomm je firma americká, ale asi jde jen o zmatek.</p>
 
 <p>Složení hráčů je docela silné a vyrovnané, menší ISP do tendru vůbec nešli, protože moc nevěří tomu, že bude regulérní a že by nevyhodili padesát tisíc. Nepravděpodobné je, že by prošel Eurotel, který již na podobnou službu pásmo má a v soutěži krásy tedy pravděpodobně vypadá, řekl bych, že firma se přihlásila spíš proto, aby případnému (a očekávanému) vítěznému T-Mobile vrátila jeho pozornost ze spouštění CDMA450 a mohla hlasitě vykřikovat, že nabízela lepší podmínky než T-Mobile a že je podfuck, že nevyhrála a že žádá revizi tendru. Toliko můj předpoklad - a po pravdě, přijde mi to fér odplata. </p>

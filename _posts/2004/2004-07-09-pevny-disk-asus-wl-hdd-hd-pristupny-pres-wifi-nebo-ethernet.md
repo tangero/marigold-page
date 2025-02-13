@@ -1,16 +1,23 @@
 ---
 ID: 1190
-title: >
-  Pevný disk Asus WL-HDD(HD) přístupný
-  přes WiFi nebo ethernet
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pevny-disk-asus-wl-hdd-hd-pristupny-pres-wifi-nebo-ethernet
-published: true
+oldlink: 'https://www.marigold.cz/item/pevny-disk-asus-wl-hdd-hd-pristupny-pres-wifi-nebo-ethernet
+
+  '
 post_date: 2004-07-09 08:40:09
+post_excerpt: ''
+published: true
+summary_points:
+- Asus WL-HDD(HD) je 2,5palcový disk s ethernetem a WiFi 802.11g.
+- Samba server umožňuje disku fungovat jako síťová jednotka.
+- USB utilita automaticky kopíruje data z připojené jednotky.
+- Zařízení funguje jako přístupový bod a stojí kolem 150 USD.
+title: 'Pevný disk Asus WL-HDD(HD) přístupný přes WiFi nebo ethernet
+
+  '
 ---
+
 <div class="rightbox"> <img src="/wp-content/uploads/20040709-asus-wl_hdd.jpg" alt="Asus WL-HDD(HD)" width="220" height="180" /> </div>
 <p>
 Pokračujeme v Computexových novinkách Asusu. Já vím, že Computex proběhl před měsícem, ale tyhle novinky tak nějak zapadly - když už se o nich někdo zmínil, tak jedním řádkem a já jsem konečně dohledal specifikace, takže i když to striktně vzato není novinka, tak je to novinka ve smyslu novinkovitosti ;)</p>

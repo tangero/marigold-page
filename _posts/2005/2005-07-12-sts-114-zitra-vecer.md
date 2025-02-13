@@ -1,14 +1,21 @@
 ---
 ID: 1717
-title: STS-114 zítra večer
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sts-114-zitra-vecer
-published: true
+oldlink: 'https://www.marigold.cz/item/sts-114-zitra-vecer
+
+  '
 post_date: 2005-07-12 15:05:26
+post_excerpt: ''
+published: true
+summary_points:
+- STS-114, první mise raketoplánu Discovery po katastrofě Columbie, startuje zítra.
+- Discovery odstartuje, pokud počasí dovolí, před devátou hodinou večerní našeho času.
+- NASA TV bude vysílat start STS-114 v přímém přenosu na webu Return to flight.
+- Autor se pokusí poslat fotografii z rampy 39B přes "mms" rozhraní.
+title: STS-114 zítra večer
 ---
+
 <p><div class="leftbox"><img src="/wp-content/uploads/1/20050712-PICT0523.jpg" alt="na rampě" width="320" height="426" /></div><br /><b>Ook píše:</b><br/>
 Pokud
 sledujete zprávy z vědy a techniky, už asi víte, že zítra začíná

@@ -1,14 +1,21 @@
 ---
 ID: 1042
-title: 'DoS útok na WiFi sítě &#8211; nemilá díra'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dos-utok-na-wifi-site-nemila-dira
-published: true
+oldlink: 'https://www.marigold.cz/item/dos-utok-na-wifi-site-nemila-dira
+
+  '
 post_date: 2004-05-18 17:58:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi díra umožňuje vyřadit 802.11b zařízení z činnosti zneužitím protokolu.
+- DSSS technologie je zranitelná, útok spočívá ve vysílání falešných CCA signálů.
+- Oprava vyžaduje změnu standardu 802.11b, což často znamená výměnu hardware.
+- Útok zastaví síť, ale neprolamuje hesla ani neumožňuje průnik do sítě.
+title: DoS útok na WiFi sítě &#8211; nemilá díra
 ---
+
 <p>
 Ve <STRONG>WiFi se objevila nepříjemná díra</STRONG>, která umožňuje zaútočit vůči libovolnému 802.11b zařízení a prakticky jej vyřadit z činnosti. Tato díra není žádnou specifickou implementační chybou, prostě jde o jistou nedomyšlenost v protokolu a nelze tedy aplikovat žádný patch. To je velmi nepříjemné, protože chyba je zde a ví se o ní. </p>
 

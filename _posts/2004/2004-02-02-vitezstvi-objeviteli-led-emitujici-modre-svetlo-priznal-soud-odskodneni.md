@@ -1,14 +1,22 @@
 ---
 ID: 826
-title: 'Vítězství: objeviteli LED emitující modré světlo přiznal soud odškodnění'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vitezstvi-objeviteli-led-emitujici-modre-svetlo-priznal-soud-odskodneni
-published: true
+oldlink: 'https://www.marigold.cz/item/vitezstvi-objeviteli-led-emitujici-modre-svetlo-priznal-soud-odskodneni
+
+  '
 post_date: 2004-02-02 08:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nakamura objevil postup pro efektivní modré LED diody, klíčové pro DVD a LCD panely.
+- Nichia Corporation vydělala na Nakamurově patentu, ale vyplatila mu jen 189 dolarů.
+- Soud v Tokiu přiznal Nakamurovi odškodné cca 189 milionů dolarů.
+- LED technologie nahrazuje klasické zdroje osvětlení díky nízké spotřebě a dlouhé
+  životnosti.
+title: 'Vítězství: objeviteli LED emitující modré světlo přiznal soud odškodnění'
 ---
+
 <p>
 Ani obrovské korporace už nejsou všemocné a případ Shuji Nakamury je toho (snad)&#160; příkladem. Jeho jméno asi neznáte, jenže Shuji Nakamura se zasloužil o mnoho moderních technologií, když <STRONG>objevil postup jak pořádně rozsvítit LED emitující modré světlo.</STRONG> To byl do té doby zásadní problém, se kterým se potýkalo mnoho týmů a specialistů, protože do té doby modré ledky oproti všem ostatním barvám svítili hodně nevýrazně. A modrá LED je velmi důležitá pro mnoho dnešních zařízení jako DVD nebo LCD panely. Japonská <A href="http://www.nichia.co.jp/">Nichia Corporation</A>, pro kterou Nakamura pracoval, si díky tomuto patentu přišla na mnoho peněz a dnes ovládá 40% trhu s LED, vynálezci ale vyplatila v přepočtu 189 dolarů. To není vtip. Nakamura odešel přednášet na univerzitu do USA a společnost zažaloval. </p>
 

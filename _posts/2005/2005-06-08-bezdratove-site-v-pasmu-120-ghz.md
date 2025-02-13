@@ -1,14 +1,21 @@
 ---
 ID: 1675
-title: 'Bezdrátové sítě v&nbsp;pásmu 120 GHz'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezdratove-site-v-pasmu-120-ghz
-published: true
+oldlink: 'https://www.marigold.cz/item/bezdratove-site-v-pasmu-120-ghz
+
+  '
 post_date: 2005-06-08 08:23:37
+post_excerpt: ''
+published: true
+summary_points:
+- NTT DoCoMo zkoumala volné frekvence nad 100 GHz pro nové sítě.
+- Pásmo 116-130 GHz o šířce 14 GHz bylo nalezeno jako potenciálně vhodné.
+- Optický spoj na 120 GHz dosáhl rychlosti 10 Gb/s na vzdálenost 1 km.
+- Technologie má limitace kvůli nedostatku součástek pro dané frekvence.
+title: Bezdrátové sítě v&nbsp;pásmu 120 GHz
 ---
+
 <p>Už dlouho jsem nepsal na Marigoldu nic o nějakém čarodějném
 udělátku. Nedávno jsem dostal od kamaráda z japonska sadu dokumentů
 věnovaných výzkumu NTT DoCoMo nových radiových frekvencí. Zatím jsem

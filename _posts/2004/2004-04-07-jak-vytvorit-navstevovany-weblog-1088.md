@@ -1,14 +1,21 @@
 ---
 ID: 1088
-title: Jak vytvořit navštěvovaný weblog
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-vytvorit-navstevovany-weblog-1088
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-vytvorit-navstevovany-weblog-1088
+
+  '
 post_date: 2004-04-07 13:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Design weblogu není klíčový, důležitější je kvalitní a odborný obsah.
+- Provokace zavedených blogerů novými názory zvyšuje čtenost weblogu.
+- Materiály trvalé hodnoty, jako návody, přitahují a udržují návštěvníky.
+- Propracované diskuse s aktivní komunitou zvyšují návštěvnost weblogu.
+title: Jak vytvořit navštěvovaný weblog
 ---
+
 Weblog už máte, jste tedy "in". Jenže on na něj nikdo nechodí... Co s tím? Jak přilákat čtenáře a své dílo udělat navštěvovaným? Pár dobře míněných rad k těm, které se všude na netu povalují...<!--more--><p>
 V poslední době se na českém internetu vyvrbila mikroaférka takzvaných kompostích weblogů - tedy weblogů, jejichž návštěvnost uměle táhlo nahoru osazenstvo diskusního fóra Kompostu. Weblogy se velmi rychle dostaly na špičku weblogové kategorie na Toplistu <EM>(například My first na adrese </EM><A href="http://blog.lide.cz/topivo" target=_blank><EM>blog.lide.cz/topivo</EM></A><EM> je vypovídající).</EM> Také jsem kdysi přemýšlel, kde se ta návštěvnost vzala - ne snad ze závisti, že předjeli Marigolda <EM>(toho předjíždí prakticky každý),</EM> spíše zhrozen nad tím, co se děje s lidmi, když tak hromadně čtou takový výtvor žijící z vykrádání cizích weblogů. Pak se ukázalo, že je to ta zmíněná kompostí recese. </p>
 

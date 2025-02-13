@@ -1,14 +1,21 @@
 ---
 ID: 1741
-title: Voipově rušný týden
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/voipove-rusny-tyden
-published: true
+oldlink: 'https://www.marigold.cz/item/voipove-rusny-tyden
+
+  '
 post_date: 2005-07-28 10:16:03
+post_excerpt: ''
+published: true
+summary_points:
+- Softphone má problémy kvůli neshodám s administrátorem Petrem Styxem.
+- Fayn nabízí slevy pro zákazníky Softphone, Viphone a Wirphone.
+- Voipex, nová VoIP služba od Ipexu, byla spuštěna do ostrého provozu.
+- Jajah vydal novou verzi klienta s vylepšenou kompatibilitou se Skype.
+title: Voipově rušný týden
 ---
+
 <p>Jak to tak vypadá, poslední doba je docela rušná na události na VoIP scéně a to nikoliv jen české. </p>
 
 <h3>Softphone</h3>

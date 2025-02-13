@@ -1,14 +1,22 @@
 ---
 ID: 1325
-title: 'Dobře &#8211; co kdyby si tedy sosači platili za spotřebovaná data? Potěší je to?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dobre-co-kdyby-si-tedy-sosaci-platili-za-spotrebovana-data-potesi-je-to
-published: true
+oldlink: 'https://www.marigold.cz/item/dobre-co-kdyby-si-tedy-sosaci-platili-za-spotrebovana-data-potesi-je-to
+
+  '
 post_date: 2004-09-20 08:39:03
+post_excerpt: ''
+published: true
+summary_points:
+- Autor ironicky reaguje na obvinění z placeného agentství Eurotelu.
+- IKEA zavedla "bezedné" nápoje, legalizující dřívější nelegální dolévání.
+- ISP řeší problém s "sosači" dat snižováním rychlosti nebo datovými limity.
+- Účtování internetu podle objemu dat je nejférovější řešení pro sdílené sítě.
+title: Dobře &#8211; co kdyby si tedy sosači platili za spotřebovaná data? Potěší
+  je to?
 ---
+
 <p>
 Když jsem se o víkendu z diskuse pod spotem dozvěděl, že jsem placený agent Eurotelu, ihned jsem se rozradostněně odebral do IKEA, abych tu za utržené úplatky nakoupil nábytek do našeho bytu. Až u pokladny se ovšem ukázalo, že to s mým agenstvím je zřejmě slabší, než se čtenářům zdálo, nebo že Eurotel platí podstatně hůře, než jsem si myslel. Nicméně jsem učinil zajímavý poznatek ohledně způsobů řízení přístupu ke sdílenému médiu. </p>
 

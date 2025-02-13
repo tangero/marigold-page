@@ -1,14 +1,21 @@
 ---
 ID: 786
-title: Zamestnava MI darmozrouty?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zamestnava-mi-darmozrouty
-published: true
+oldlink: 'https://www.marigold.cz/item/zamestnava-mi-darmozrouty
+
+  '
 post_date: 2004-01-12 20:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mlynář čelí kritice od odboráře Ministerstva informatiky na Neviditelném psu.
+- Ministerstvo informatiky zaměstnává neloajální darmožrouty dle kritiky.
+- Mlynář údajně nedokáže efektivně řídit své ministerstvo.
+- Diskuse pod článkem vykazuje podporu autora, často ze sítí státní správy.
+title: Zamestnava MI darmozrouty?
 ---
+
 <p>
 Na <A href="http://pes.eunet.cz/clanky/2004/01/34984_0_0_0.html">Neviditelnem psu </A>se objevil další z hanopisů na Mlynáře z pera (jednoho ze dvou) členů odborové organizace Ministerstva informatiky. </p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 1219
-title: 'Tak obecně o&nbsp;mobilním socioware'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-obecne-o-mobilnim-socioware
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-obecne-o-mobilnim-socioware
+
+  '
 post_date: 2004-07-28 07:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- Socioware propojuje lidi, mobilní socioware to dělá mobilně s proměnlivým úspěchem.
+- Orkut ovládli Brazilci, Friendster Američané, regionální specifika platí i u globálních
+  aplikací.
+- Damp Assassins je hra v USA s vodní pistolí, MMS a focením soupeřů.
+- Hráč Damp Assassins postříkal agenta FBI, což vedlo ke stažení jeho fotky ze serveru.
+title: Tak obecně o&nbsp;mobilním socioware
 ---
+
 <p>
 Proč mobilní socioware? Socioware je obecně nějaký software, který propojuje jednotlivé lidi, kteří se před tím většinou neznali. A mobilní socioware je takový, který to dělá mobilně. Po úspěchu (minimálně prozatimním) Orkutu, Friendsteru a dalších podobných socioware se tento typ aplikací dostává i na mobilní zařízení a také s proměnlivým úspěchem. Je třeba zajímavé, že Orkut si nejvíce oblíbili brazilci a prakticky jej ovládli, zatímco Friendster zůstal doménou američanů atd - regionální specifika se uplatňují i u globálních aplikací.</p>
 <p>

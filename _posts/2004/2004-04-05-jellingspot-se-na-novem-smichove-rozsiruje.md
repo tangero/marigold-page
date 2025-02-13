@@ -1,16 +1,24 @@
 ---
 ID: 965
-title: >
-  Jellingspot se na Novém Smíchově
-  rozšiřuje
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jellingspot-se-na-novem-smichove-rozsiruje
-published: true
+oldlink: 'https://www.marigold.cz/item/jellingspot-se-na-novem-smichove-rozsiruje
+
+  '
 post_date: 2004-04-05 08:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- Jellingspot distribuuje marketingové materiály přes bluetooth, pilotně v Pietro
+  Filipi.
+- Gyros-Gr nabízí menu ke stažení, Jackpot/Cottonfield slevové kupony přes Jellingspot.
+- Pět dalších obchodů na Novém Smíchově plánuje zprovoznit Jellingspot.
+- Calypso nabízí zdarma WiFi, stejně jako Český Telecom v Nescafé.
+title: 'Jellingspot se na Novém Smíchově rozšiřuje
+
+  '
 ---
+
 <p>
 O Jellingspotech jsem <A href="http://beta.marigold.cz/zprava.html?cislo=25774">už psal zde</A>. Jde o distribuci marketingových materiálů do bluetooth zařízení v určité lokaci od společnosti Midletsoft. Na Novém Smíchově běžel <STRONG>pilotní provoz Jellingspotu&#160;v prodejně Pietro Filipi,</STRONG> nově je Midletsoft nainstaloval v rychlém občerstvení <A href="http://www.gyros-gr.com/" target=_blank>Gyros-Gr</A> a Jackpot / Cottonfield. U Gyrosu si můžete přes bluetooth stáhnout a prostudovat menu, v Jackpot / Cottonfield si zase můžete prohlédnout kolekci oblečení a také stáhnout slevový kupon.</p>
 

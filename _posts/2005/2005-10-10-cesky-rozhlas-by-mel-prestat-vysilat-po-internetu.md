@@ -1,14 +1,21 @@
 ---
 ID: 1843
-title: 'Český rozhlas by měl přestat vysílat po&nbsp;internetu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-rozhlas-by-mel-prestat-vysilat-po-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-rozhlas-by-mel-prestat-vysilat-po-internetu
+
+  '
 post_date: 2005-10-10 09:18:42
+post_excerpt: ''
+published: true
+summary_points:
+- ČRo tvrdí, že počítače s internetem a zvukem umožňují příjem rozhlasu.
+- Navrhované řešení je zakázat ČRo vysílat po internetu.
+- Lidé si nekupují počítače primárně kvůli poslechu rozhlasu.
+- Zpoplatnění poslechu ČRo na internetu je technicky snadno realizovatelné.
+title: Český rozhlas by měl přestat vysílat po&nbsp;internetu
 ---
+
 <p>Vypadá to, že budeme mít další legraci - placení za počítače vybavené internetem a zvukovou kartou, neb tyto umožňují příjem rozhlasu. Toliko <a href="http://www.ceskamedia.cz/article.html?id=155059">tvrdí ČRo</a>. </p>
 
 <p>Řešení je, jako tradičně, když někoho berou roupy, jednoduché: <strong>zakázat ČRo, aby vysílal po internetu</strong>. </p>

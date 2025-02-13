@@ -1,14 +1,21 @@
 ---
 ID: 1496
-title: 'O jednotvárnosti a&nbsp;izolovanosti českého internetu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/o-jednotvarnosti-a-izolovanosti-ceskeho-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/o-jednotvarnosti-a-izolovanosti-ceskeho-internetu
+
+  '
 post_date: 2005-01-27 09:17:33
+post_excerpt: ''
+published: true
+summary_points:
+- Český internet je izolovaný a jednotvárný, opakuje stejná témata.
+- Technické servery píší o stejném, chybí jim originalita a různorodost.
+- Chybí české médium, které by vyhledávalo neobvyklé novinky ze zahraničí.
+- Na českém internetu témata nevznikají, pouze se přebírají ze zahraničí.
+title: O jednotvárnosti a&nbsp;izolovanosti českého internetu
 ---
+
 <p>Přečetl jsem si dnes na Lupě rozhovor <a href="http://www.lupa.cz/clanek.php3?show=3920">Markéty Kaclové s Denisou Kerou</a> a už samotný rozhovor nese titulek &#8220;Český Internet je izolovaný&#8221;. V rozhovoru je Denisa Kerá citována přímo: &#8220;Je mi totiž líto, že je české internetové prostředí dost jednotvárné. Když se podíváte na to, co se děje mimo českou sféru, je Internet mnohem různorodější.&#8221;</p>
 
 <p>Mám na to velmi podobný názor a už delší dobu přemýšlím, co je toho příčinou a jak z toho ven. Opravdu – český internet je izolovaný a jednotvárný. Odhlédněme nyní od související otázky, zda se to náhodou netýká i zbytku české společnosti, médií zvláště. </p>

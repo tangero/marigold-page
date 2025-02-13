@@ -1,16 +1,23 @@
 ---
 ID: 824
-title: >
-  T-Mobile oficiálně potvrdil
-  spuštění své UMTS sítě
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/t-mobile-oficialne-potvrdil-spusteni-sve-umts-site
-published: true
+oldlink: 'https://www.marigold.cz/item/t-mobile-oficialne-potvrdil-spusteni-sve-umts-site
+
+  '
 post_date: 2004-02-01 20:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- Německý T-Mobile spustil 3G síť s funkčním handoverem mezi UMTS a GSM.
+- G síť T-Mobile využijí majitelé GSM/UMTS telefonů, například Nokia 7600 a 6650.
+- T-Com chystá routování hovorů z pevných linek na WiFi hotspoty.
+- Datový přenos u T-Mobile stojí 9 eur za 1 MB, tedy 300 Kč.
+title: 'T-Mobile oficiálně potvrdil spuštění své UMTS sítě
+
+  '
 ---
+
 <p>
 Německý T-Mobile ve čtvrtek oficiálně potvrdil spuštění své 3G sítě, což byl krok, jenž mu ukládala německá a velmi draze zaplacená licence. T-Mobilu se dokonce podařilo vyřešit mezisystémový handover, kdy je hovor předán mezi UMTS a GSM sítí a to nyní T-Mobile funguje i za rychlého pohybu. To není špatný výsledek - takové věci sice UMTS specifikace předokládá, v realitě komerční sítě je to ale zatím ojedinělé. </p>
 

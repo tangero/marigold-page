@@ -1,14 +1,21 @@
 ---
 ID: 1127
-title: 'Alvarion BreezeMax &#8211; s&nbsp;nákupem bych počkal'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/alvarion-breezemax-s-nakupem-bych-pockal
-published: true
+oldlink: 'https://www.marigold.cz/item/alvarion-breezemax-s-nakupem-bych-pockal
+
+  '
 post_date: 2004-06-04 09:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Alvarion BreezeMax je první WiMax kompatibilní produktová řada dle draftů specifikací.
+- Finální WiMax standardy budou dostupné koncem léta (IEEE) a na podzim (WiMAX).
+- Alvarion se modlí, aby se finální standard WiMaxu neodchýlil od draftů.
+- Nákup prvních WiMax produktů, včetně BreezeMax, může přinést potíže s kompatibilitou.
+title: Alvarion BreezeMax &#8211; s&nbsp;nákupem bych počkal
 ---
+
 <p>
 Včera jsem <a href="/?itemid=1121">psal o tom</a>, jak chlapci z Alvarionu přišli s první WiMax kompatibilní produktovou řadou BreezeMax. Protože jsem šťoura, včera jsem lidi z Alvarionu prospamoval, protože jsem chtěl vědět, jakých specifikací WiMaxu se drží - sám jsem na webu IEEE ani WiMax fóra žádné final specifikace nenašel, pouze datace, že budou někdy koncem léta (IEEE specifikace) a na podzim (WiMAX certifikace).</p>
 

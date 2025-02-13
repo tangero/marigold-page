@@ -1,16 +1,23 @@
 ---
 ID: 1330
-title: >
-  All-in-one zařízení (kombinace
-  foto-mobil-média) jsou cesta do pekel
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/all-in-one-zarizeni-kombinace-foto-mobil-media-jsou-cesta-do-pekel
-published: true
+oldlink: 'https://www.marigold.cz/item/all-in-one-zarizeni-kombinace-foto-mobil-media-jsou-cesta-do-pekel
+
+  '
 post_date: 2004-09-22 08:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- All-in-one zařízení jsou obchodně úspěšná jen při rozšíření stávající funkčnosti.
+- Ovládání all-in-one zařízení je kompromisní a složité pro běžné uživatele.
+- Inovační cykly různých komponent all-in-one zařízení jsou nesynchronizované.
+- Uživatelé často preferují specializovaná zařízení kvůli lepší kvalitě a ceně.
+title: 'All-in-one zařízení (kombinace foto-mobil-média) jsou cesta do pekel
+
+  '
 ---
+
 <p>
 Nedávno jsem u <a href="http://hulan.info/blog/item/budoucnost-je-v-all-in-one-zarizenich">Radka Hulána četl spot</a>, v němž přesvědčoval, že budoucnost patří jen kombinovaným zařízením, takzvaným též All-in-one. Nemyslím si to, ačkoliv tento názor jsem slýchával na 3GSM World až příliš často a od chytrých lidí. </p>
 

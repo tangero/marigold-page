@@ -1,16 +1,25 @@
 ---
 ID: 1558
-title: >
-  Mobilní internet není totéž jako
-  internet přes mobil
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-internet-neni-totez-jako-internet-pres-mobil
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-internet-neni-totez-jako-internet-pres-mobil
+
+  '
 post_date: 2005-03-01 07:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskarovy tarify jsou levné na hlas a SMS, což tvoří 90% výnosů.
+- GPRS/EDGE nejsou technicky určeny pro trvalé připojení PC kvůli omezené kapacitě
+  BTS.
+- Oskar nastavil datový limit 70 MB pro uživatele chytrých telefonů, což odpovídá
+  běžné spotřebě.
+- Uživatelé s notebookem by měli za mobilní data platit více, Oskar to dobře propočítal.
+title: 'Mobilní internet není totéž jako internet přes mobil
+
+  '
 ---
+
 <p>Včera se mi spousta lidí pokoušela dávat co proto za to, že jsem se odvážil vyslovit svůj názor na Oskarovy datové tarify. Jak prý můžu takto naletět přesunu Oskara do nejdražšího a nejdebilnějšího operátora polokoule. </p>
 
 <p>To máte tak. Při letmém pohledu do Oskarova ceníku zjistíte, že Oskar má levný hlas a SMS, tedy služby, které mu dělají řádově 90% výnosů. To znamená, že v 90% svých nákladů šetříte. Šetříte na tom, že používáte předplacenou kartu maskovanou jako tarif, na tom, že Oskar šetří na callcentru a tlačí všechno do netu, na tom, že všechno jde přímým kontaktem a drahé mezičlánky jsou vyloučeny. Těch deset procent služeb ve výnosech pak dělá několik stovek položek, ve kterých je Oskar zhruba stejně drahý, jako konkurenti – data, loga, zvonění, atd. Rozumný člověk si z toho odvodí, co se samo nabízí…</p>
