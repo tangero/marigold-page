@@ -1,14 +1,22 @@
 ---
 ID: 455
-title: 'Bluetooth versus ZigBee versus WirelessUSB, je v&nbsp;tom trochu zmatek'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bluetooth-versus-zigbee-versus-wirelessusb-je-v-tom-trochu-zmatek
-published: true
+oldlink: 'https://www.marigold.cz/item/bluetooth-versus-zigbee-versus-wirelessusb-je-v-tom-trochu-zmatek
+
+  '
 post_date: 2003-08-26 09:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- ZigBee je robustní protokol pro stavový přenos informací a bezpečný přenos dat.
+- Bluetooth nahrazuje datové kabely a slouží k propojení "vyšší elektroniky" s rychlým
+  datovým přenosem.
+- Ericsson vyvíjí lehčí verzi Bluetooth, aby konkuroval ZigBee na novém trhu.
+- WirelessUSB je rychlý protokol, ale Bluetooth je lépe prosazený a kvalitnější.
+title: Bluetooth versus ZigBee versus WirelessUSB, je v&nbsp;tom trochu zmatek
 ---
+
 <p>
 V poslední době jsem četl hodně článků na téma, zak ZigBee ohrožuje Bluetootha jak se do toho ještě začíná míchat WirelessUSB. A jelikož jsem i <A href="http://mobil.idnes.cz/mobilni_komunikace/wifi/zigbee030826.html" target=_blank>dnes na Mobilu</A>, překvapivě od Petra Nachtmanna četl článek s nadpisem <STRONG>Bluetooth ohrožen pilnou včelkou, Ericsson chce zachránit situaci</STRONG>, řekl jsem si, že ten zmatek je třeba uvésti na pravou míru. </p>
 

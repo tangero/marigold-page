@@ -1,14 +1,21 @@
 ---
 ID: 520
-title: 'AirBlock 802.11 &#8211; zabezpečení WiFi sítě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/airblock-802-11-zabezpeceni-wifi-site
-published: true
+oldlink: 'https://www.marigold.cz/item/airblock-802-11-zabezpeceni-wifi-site
+
+  '
 post_date: 2003-09-22 11:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- AirBlock 802.11 je software pro zabezpečení WiFi sítí ve dvou verzích.
+- Automatická změna a distribuce WEP klíče je hlavní funkcí AirBlocku.
+- Windows XP/2000 a určená zařízení jsou nutné pro fungování AirBlocku.
+- Code Red, izraelská firma, je autorem softwaru AirBlock.
+title: AirBlock 802.11 &#8211; zabezpečení WiFi sítě
 ---
+
 <p>
 Na internetu se objevil zajímavý software pro zabezpečení bezdrátových sítí WiFi. Jmenuje se AirBlock 802.11 a je ve dvou verzích - Industrial Edition a SOHO market. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 463
-title: 'D-Link Airspot &#8211; hotspot pro veřejný i&nbsp;privátní přístup'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/d-link-airspot-hotspot-pro-verejny-i-privatni-pristup
-published: true
+oldlink: 'https://www.marigold.cz/item/d-link-airspot-hotspot-pro-verejny-i-privatni-pristup
+
+  '
 post_date: 2003-08-28 08:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- D-Link Airspot DSA-3100 je kompletní řešení pro výstavbu WiFi hotspotu.
+- Restaurace mohou Airspot využít pro veřejný internet a firemní intranet.
+- Airspot omezuje přenosovou kapacitu a podporuje 50 uživatelů a 10 hostů.
+- Cena Airspotu je kolem 600 USD, což je levné oproti konkurenci.
+title: D-Link Airspot &#8211; hotspot pro veřejný i&nbsp;privátní přístup
 ---
+
 <p>
 D-Link se v poslední době hodně snaží, aby bylo vidět, že má slušnou nabídku WiFi techniky. Jeho posledním výstřelkem je zařízení nazývané airspot, typově značené jako <STRONG>D-Link Airspot DSA-3100.</STRONG> Jde o kompletní řešení pro výstavbu hotspotu, tedy box s DHCP konfigurací, evidencí až 250 uživatelů, s podporou POP3, RADIUS, LDAP, možností tvorby vlastní grafiky stránek a také oddělení uživatelů veřejných od firemních firewallem tak, aby síť bylo možno používat jak pro veřejný přístup do internetu, tak pro firemní intranet. </p>
 

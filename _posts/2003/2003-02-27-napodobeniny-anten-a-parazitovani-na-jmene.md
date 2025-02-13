@@ -1,14 +1,21 @@
 ---
 ID: 125
-title: 'Napodobeniny antén a&nbsp;parazitování na jméně'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/napodobeniny-anten-a-parazitovani-na-jmene
-published: true
+oldlink: 'https://www.marigold.cz/item/napodobeniny-anten-a-parazitovani-na-jmene
+
+  '
 post_date: 2003-02-27 17:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- CSAT nabízí kvalitní a cenově dostupné antény pro Wireless LAN (ISM pásmo).
+- WLAN antény CSAT splňují evropskou normu EN 300 631 V1.2.1.
+- Na trhu se objevily nekvalitní napodobeniny antén CSAT s označením csatantenna.com.
+- Prodejce varuje před nákupem těchto napodobenin, které jsou v rozporu se zákonem.
+title: Napodobeniny antén a&nbsp;parazitování na jméně
 ---
+
 <p>
 Dostali jsme zajímavý email tohoto znění:</p>
 

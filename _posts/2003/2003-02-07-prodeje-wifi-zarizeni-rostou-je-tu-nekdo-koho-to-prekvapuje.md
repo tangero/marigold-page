@@ -1,16 +1,23 @@
 ---
 ID: 79
-title: >
-  Prodeje WiFi zařízení rostou, je tu
-  někdo, koho to překvapuje?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prodeje-wifi-zarizeni-rostou-je-tu-nekdo-koho-to-prekvapuje
-published: true
+oldlink: 'https://www.marigold.cz/item/prodeje-wifi-zarizeni-rostou-je-tu-nekdo-koho-to-prekvapuje
+
+  '
 post_date: 2003-02-07 08:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Prodej WiFi techniky vzrostl z 76 milionů USD v roce 2001 na 280 milionů v 2002.
+- Průměrná cena access pointu klesla z 136 USD na 87 USD v roce 2002.
+- PCMCIA WiFi karty v ČR klesly z 10 000 Kč na méně než 3 000 Kč v roce 2002.
+- Trh s WiFi se dělí na prodejce krabic a dodavatele řešení.
+title: 'Prodeje WiFi zařízení rostou, je tu někdo, koho to překvapuje?
+
+  '
 ---
+
 <p>
 Na CNetu vyšel článek <STRONG><A href="http://news.com.com/2100-1033-983684.html" target=_blank><STRONG>Sales of Wi-Fi gear jump, prices fall</STRONG></A></STRONG>. Zatímco v roce 2002 se prodalo WiFi techniky za 280 milionů dolarů, o rok před tím to bylo jen za 76 milionů dolarů. Mezitím poklesla průměrná cena access pointu z 136 USD na 87 USD. Pouhé jedno procento z těchto zařízení bylo ve standardu 802.11a, zbytek připadá na nejrozšířenější 802.11b.</p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 1075
-title: 6. Proč akademické sítě
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/6-proc-akademicke-site
-published: true
+oldlink: 'https://www.marigold.cz/item/6-proc-akademicke-site
+
+  '
 post_date: 2003-08-11 08:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Akademické sítě testují nové technologie, například IP6, které komerční sítě nemohou.
+- Akademické prostředí vytváří inovativní projekty, které komerční sféra zpočátku
+  odmítá.
+- University připravují studenty na praxi s moderními technologiemi, nikoliv zastaralými.
+- CESNET a TEN pochopení je klíčové pro pochopení fungování českého internetu.
+title: 6. Proč akademické sítě
 ---
+
 Možná se ptáte pro důvodu, jenž žene akademické instituce a vlády do výstavby a financování stále lepších a lepších akademických sítí. Proč se vůbec zabývat historií internetu, který z provopočátku akademické a experimentální sítě utvářely? A proč se ještě dnes starat o Cesnet a jeho děti?<!--more-->Možná se ptáte pro důvodu, jenž žene akademické instituce a vlády do výstavby a financování stále lepších a lepších akademických sítí. V době, kdy málokterá komerční panevropská síť disponuje podobnou kapacitou, se v akademickém internetu pracuje s gigabitovými rychlostmi. Není to zbytečné plýtvání peněz z kapes daňových poplatníků? Nevystačila by si akademická sféra s pomalejšími linkami? 
 <p>
 Dlužno připomenout, že většina novějších projektů jest iniciována z prostředků Evropské unie. Právě Evropská unie klade již od roku 1996 na rozvoj internetu hlavní důraz a v opoždění rozvoje internetu v Evropě je stále častěji spatřována jedna z hlavních příčin (ne-li hlavní) technologického a tím i ekonomického zaostávání Evropy za USA. 

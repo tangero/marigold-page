@@ -1,14 +1,22 @@
 ---
 ID: 574
-title: Near Field Communication
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/near-field-communication
-published: true
+oldlink: 'https://www.marigold.cz/item/near-field-communication
+
+  '
 post_date: 2003-10-12 13:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- NFC je bezdrátová technologie pro komunikaci na krátkou vzdálenost (do 10 cm).
+- NFC nevyžaduje párování zařízení, což usnadňuje komunikaci mezi nimi.
+- Sony vidí NFC jako nový interface pro lidskou komunikaci ve spotřební elektronice.
+- IBM si představuje NFC jako Personal Area Network propojující zařízení v blízkosti
+  člověka.
+title: Near Field Communication
 ---
+
 <p>
 Na stánku Sony jsem se díval na zajímavou technologii, o které jsem doposud jen slýchával. Jmenuje se <STRONG>Near Field Communication</STRONG> (NFC), tedy něco jako Komunikace v blízkosti. Jde samozřejmě o bezdrátovou technologii a tou blízkostí si Sony (technologii vyvíjí ve spolupráci s Philipsem, ale pracují na ní i další firmy) představuje 10 cm. </p>
 

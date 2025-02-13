@@ -1,14 +1,21 @@
 ---
 ID: 376
-title: Bluetooth verze 1.2 schválena
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bluetooth-verze-1-2-schvalena
-published: true
+oldlink: 'https://www.marigold.cz/item/bluetooth-verze-1-2-schvalena
+
+  '
 post_date: 2003-06-18 19:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bluetooth 1.2 schválen 17.6. přináší adaptive frequency hopping pro snížení interferencí.
+- Zvýšená kvalita zvuku v Bluetooth 1.2 je založena na error detection methodologies.
+- Bluetooth 1.2 zdokonaluje QoS pro obsluhu více klientů a zavádí anonymní mód.
+- Bluetooth 1.2 je zpětně kompatibilní, ale s funkční sadou nejnižšího zařízení.
+title: Bluetooth verze 1.2 schválena
 ---
+
 <p>
 Bluetooth SIG schválil 17.6. novou verzi protokolu bluetooth pro bezdrátové propojování zařízení. Blueto<STRONG>oth 1.2 </STRONG>se liší oproti doposud používané verzi 1.1 hlavně těmito novými vlastnostmi:</p>
 

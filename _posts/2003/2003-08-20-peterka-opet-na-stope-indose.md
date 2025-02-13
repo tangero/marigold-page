@@ -1,14 +1,23 @@
 ---
 ID: 450
-title: Peterka opět na stopě INDOŠE
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/peterka-opet-na-stope-indose
-published: true
+oldlink: 'https://www.marigold.cz/item/peterka-opet-na-stope-indose
+
+  '
 post_date: 2003-08-20 20:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- Jirka Peterka obnovil Indiánský projekt, jehož kompletní diskografie je dostupná
+  v archívu JP.
+- Česká škola v článcích komentuje zprávu NKÚ ohledně projektu SIPVZ.
+- Marigold jediný jasně formuluje problémy projektu, novináři z Týdnu a Respektu zkoumali
+  vazby.
+- Veřejnoprávní média ČRo a ČT se svezly po povrchu a konstatovaly známé věci.
+title: Peterka opět na stopě INDOŠE
 ---
+
 <p>
 Jirka Peterka obnovil své stopování Indiánského projektu (<A href="http://archiv.czech.net/i_itedu.php3">kompletní diskografie tématu&#160;v archívu JP</A>). </p>
 

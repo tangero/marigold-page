@@ -1,14 +1,21 @@
 ---
 ID: 21
-title: 'Hotely Marriott nabídnou WiFi a&nbsp;Intel zdrží své čipy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hotely-marriott-nabidnou-wifi-a-intel-zdrzi-sve-cipy
-published: true
+oldlink: 'https://www.marigold.cz/item/hotely-marriott-nabidnou-wifi-a-intel-zdrzi-sve-cipy
+
+  '
 post_date: 2002-12-19 11:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marriott zavede WiFi/WiFi5 ve všech hotelech do jara 2003, zajišťuje STSN.
+- Intel odložil čipovou sadu Calexio s WiFi/WiFi5 pro notebooky.
+- Intel bude mít WiFi5 až v polovině roku 2003, konkurence se raduje.
+- Pražský Marriott potvrzuje trend WiFi pro business klientelu.
+title: Hotely Marriott nabídnou WiFi a&nbsp;Intel zdrží své čipy
 ---
+
 <p>
 <STRONG>Hotely Marriott</STRONG> budou nabízet vysokorychlostní připojení do internetu skrze WiFi. Všechny hotely by měly být pokryté signálem sítě WiFi a později také WiFi5 do jara roku 2003 a pokrytí bude samozřejmě zajišťovat STSN, kde má Marriott podíl společně s fondy patřícimi Intelu. U nás je Marriott v Praze a pro nás je to jen potvrzení trendu vykrývat signálem komerčních sítí především business klientelu. Více k tomu <A href="http://news.com.com/2100-1033-978411.html" target=_blank>na News.com</A></p>
 

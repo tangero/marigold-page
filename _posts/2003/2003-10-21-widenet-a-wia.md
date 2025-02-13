@@ -1,14 +1,21 @@
 ---
 ID: 601
-title: 'WideNet a&nbsp;WIA'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/widenet-a-wia
-published: true
+oldlink: 'https://www.marigold.cz/item/widenet-a-wia
+
+  '
 post_date: 2003-10-21 14:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- WideNet převzal pilotní síť hotspotů od společnosti WIA.
+- WIA získala podíl ve WideNetu výměnou za předanou síť.
+- Hotspoty dříve provozované WIA nyní vysílají SSID "W" pod WideNetem.
+- WideNet využívá technologii účtování vyvinutou společností WIA.
+title: WideNet a&nbsp;WIA
 ---
+
 <p>
 Lupa.cz dnes píše článek o WideNetu a jeho partnerském řešení pro hotspoty. Mimo jiné nakousla událost, která mnoha lidem patrně ušla a to spolupráci WideNetu a WIA. Situace se má tak, že WIA předala WideNetu svoji pilotní síť a výměnou za to získala podíl ve WideNetu. </p>
 

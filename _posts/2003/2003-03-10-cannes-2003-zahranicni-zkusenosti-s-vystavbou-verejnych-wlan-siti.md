@@ -1,14 +1,20 @@
 ---
 ID: 156
-title: 'Cannes 2003: Zahraniční zkušenosti s&nbsp;výstavbou veřejných WLAN sítí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cannes-2003-zahranicni-zkusenosti-s-vystavbou-verejnych-wlan-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/cannes-2003-zahranicni-zkusenosti-s-vystavbou-verejnych-wlan-siti
+
+  '
 post_date: 2003-03-10 10:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- Cannes kongres shrnul přednášky o WiFi sítích budovaných mobilními operátory.
+- Operátoři zdražující SMS zprávy budou analyzováni na základě praktických příkladů.
+- GSM kongres v Cannes nabídl zajímavé zkušenosti s výstavbou veřejných WLAN sítí.
+title: 'Cannes 2003: Zahraniční zkušenosti s&nbsp;výstavbou veřejných WLAN sítí'
 ---
+
 <p>
 Ještě jednou a pravděpodobně ani ne naposledy se vracíme k kongresu v Cannes, tentokráte shrnutím bloku přednášek věnovaných výstavbě WiFi / WLAN sítí mobilními operátory. </p>
 

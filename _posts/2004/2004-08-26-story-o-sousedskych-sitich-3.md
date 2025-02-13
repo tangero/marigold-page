@@ -1,14 +1,21 @@
 ---
 ID: 1276
-title: 'Story o&nbsp;sousedských sítích (3.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-3
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-3
+
+  '
 post_date: 2004-08-26 14:54:47
+post_excerpt: ''
+published: true
+summary_points:
+- Autor zkoumal dostupné CZFree.Net AP v okolí obce pomocí antén.
+- Autor navrhl rozsáhlý plán se třemi anténami pro zakruhování a tranzit.
+- Komunikace s CZFree komunitou ohledně autonomního systému byla komplikovaná.
+- Pro směrování bude použit Linux s minimálním softwarem a starší hardware.
+title: Story o&nbsp;sousedských sítích (3.)
 ---
+
 <p>
 Dnes se podíváme na druhý případ, jehož cílem je zapojit malou obec do CZFree.Net. Tedy přesněji řečeno zajistit, aby rodiče přítelkyně meli přístup k Internetu z domácího počítače a já měl přístup k Internetu u venkovního bazénu (když tam zavítám s notebookem nebo iPAQem). Stejně jako v předchozích dílech se nejdříve podíváme, co se již stalo (narozdíl od ostatních kauz zde nastala i sociální interakce s poskytovatelem). </p>
 <p>

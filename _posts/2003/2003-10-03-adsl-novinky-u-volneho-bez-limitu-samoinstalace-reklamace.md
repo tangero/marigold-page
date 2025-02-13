@@ -1,14 +1,21 @@
 ---
 ID: 551
-title: 'ADSL novinky u&nbsp;Volného: bez limitu, samoinstalace, reklamace'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/adsl-novinky-u-volneho-bez-limitu-samoinstalace-reklamace
-published: true
+oldlink: 'https://www.marigold.cz/item/adsl-novinky-u-volneho-bez-limitu-samoinstalace-reklamace
+
+  '
 post_date: 2003-10-03 08:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Volný nabízí nové ADSL tarify bez účtování přenesených dat do konce roku.
+- Samoinstalační balíček Volný ADSL stojí 999 Kč při dvouleté smlouvě.
+- Balíček Volný ADSL obsahuje modem, firewall, kredit na volání a webový prostor.
+- Volný kompenzuje zákazníkům problémy s ADSL připojením ihned po nahlášení.
+title: 'ADSL novinky u&nbsp;Volného: bez limitu, samoinstalace, reklamace'
 ---
+
 <p>
 Volný.cz ohlásil několik novinek v nabídce ADSL. Kromě toho, že ohlásil nabídku nových ADSL tarifů (co mu zbývalo) oznámil, podobně jako dříve GTS, Nextra a Tiscali, že nové ADSL tarify do konce roku nebude hlídat ani účtovat, co se objemu přenesených dat týká. </p>
 

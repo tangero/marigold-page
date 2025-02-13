@@ -1,14 +1,22 @@
 ---
 ID: 198
-title: 'Místo odposlechu byl Tlustý to co sám prohlásil&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/misto-odposlechu-byl-tlusty-to-co-sam-prohlasil
-published: true
+oldlink: 'https://www.marigold.cz/item/misto-odposlechu-byl-tlusty-to-co-sam-prohlasil
+
+  '
 post_date: 2003-03-27 09:28:00
+post_excerpt: ''
+published: true
+summary_points:
+- Odposlech Tlustého pravděpodobně způsobil sám nahráním hovoru do hlasové schránky.
+- Eurotel potvrdil, že Tlustý měl v době "odposlechu" spojený hovor na "důvěryhodnou
+  osobu".
+- Tlustý žaluje Eurotel, tvrdí, že z něj dělají idiota kvůli ovládání mobilu.
+- Tlustý zřejmě stáhne žalobu, protože by ji nemohl vyhrát a je pod jeho úroveň.
+title: Místo odposlechu byl Tlustý to co sám prohlásil&#8230;
 ---
+
 <p>
 Do odposlechové kauzy poslance za ODS Tlustého jsem byl namočen od začátku už proto, že když mne přepadli novináři a chtěli vědět, jak to mohlo fungovat, tak jsem prohlásil, že spíše mi přijde pravděpodobnější, že si to sám nahrál do hlasové schránky, než že by ho někdo odposlouchával. Posléze tuto domněku potvrdil jak pressmluvčí Eurotelu Jan Kučmáš, tak vyšetřování policie, podle něhož měl Tlustý v inkriminovanou dobu <EM>"odposlouchávaného jednání"</EM> spojený hovor na <EM>"důvěryhodnou osobu"</EM> - a dál to pokračovalo, jak už se předpokládalo - hovor padl do schránky. Informují o tom mimo jiné <A href="http://www.lidovky.cz/clanekdomaci.asp?r=domaci&amp;c=A030326_091114_domaci_prs" target=_blank>Lidovky</A>. </p>
 

@@ -1,16 +1,24 @@
 ---
 ID: 715
-title: >
-  Telecom znovu prodlužuje provoz WiFi
-  zdarma
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telecom-znovu-prodluzuje-provoz-wifi-zdarma
-published: true
+oldlink: 'https://www.marigold.cz/item/telecom-znovu-prodluzuje-provoz-wifi-zdarma
+
+  '
 post_date: 2003-12-03 09:44:00
+post_excerpt: ''
+published: true
+summary_points:
+- Telecom posunul ukončení testovacího WiFi provozu na 31.3.2004, ale termín je nejistý.
+- Telecom provozuje velkou síť hotspotů na lukrativních místech, ale registrace má
+  problémy.
+- Systém Telecom WiFi je ve vývoji, účtování by bylo dražší než příjmy.
+- WiFi zdarma vyhovuje Telecomu, protože pokrytí hotspotů je omezené.
+title: 'Telecom znovu prodlužuje provoz WiFi zdarma
+
+  '
 ---
+
 <p>
 Český Telecom vydal upravené podmínky používání svojí WiFi služby. Termín ukončení testovacího provozu byl znovu posunut a tentokráte na 31.3.2004. Přesto zainteresovaní lidé soudí, že ani tento termín není poslední. </p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 545
-title: 'Teledrobky: 3G základnovka může způsobit zdravotní potíže, MMS aliance, porovnání cen přímo na Nokia 3650'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/teledrobky-3g-zakladnovka-muze-zpusobit-zdravotni-potize-mms-aliance-porovnani-cen-primo-na-nokia-3650
-published: true
+oldlink: 'https://www.marigold.cz/item/teledrobky-3g-zakladnovka-muze-zpusobit-zdravotni-potize-mms-aliance-porovnani-cen-primo-na-nokia-3650
+
+  '
 post_date: 2003-10-02 08:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- G základnové stanice mohou dle studie způsobovat bolesti hlavy v blízkosti.
+- Evropská MMS aliance propojuje MMS a GPRS služby devíti operátorů.
+- Nokia 3650 s PaperClip softwarem porovná ceny knih přes ISBN kód.
+- Amazon platí NeoMedia provizi za knihy prodané přes PaperClip software.
+title: 'Teledrobky: 3G základnovka může způsobit zdravotní potíže, MMS aliance, porovnání
+  cen přímo na Nokia 3650'
 ---
+
 <p>
 Další příspěvek k dohadům, zda a jak mobily působí na lidské zdraví, přináší studie holandského ministerstva. Ta tvrdí, že <STRONG>základnové stanice 3G sítí mohou způsobovat bolesti hlavy</STRONG> a další podobné potíže, pokud se zdržujete v jejich blízkosti. Těžko mi soudit, nejsem doktor, možné je dneska všechno. Na <A href="http://story.news.yahoo.com/news?tmpl=story&amp;cid=581&amp;ncid=581&amp;e=7&amp;u=/nm/20030930/tc_nm/health_mobile_damage_dc" target=_blank>Yahoo pod článkem </A>zuří bohatá diskuse, zprávy vydal Reuters.</p>
 

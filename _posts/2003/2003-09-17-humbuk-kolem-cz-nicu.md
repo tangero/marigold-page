@@ -1,14 +1,21 @@
 ---
 ID: 512
-title: Humbuk kolem CZ.NICu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/humbuk-kolem-cz-nicu
-published: true
+oldlink: 'https://www.marigold.cz/item/humbuk-kolem-cz-nicu
+
+  '
 post_date: 2003-09-17 21:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- CZ.NIC spustil nový systém s nedodělky, což vyvolává otázky ohledně kvality.
+- Valná hromada CZ.NIC nezlevnila ceny domén pro registrátory.
+- Globe Internet by mohl nabídnout domény za 640 korun, což je 20% sleva.
+- Autor preferuje dražší, ale stabilnější registraci domén u LRR.
+title: Humbuk kolem CZ.NICu
 ---
+
 <p>
 Jak už si někteří bystřejší čtenáři (většinou médií to prošlo bez povšimnutí) všimli, od pondělka funguje nový systém CZ.NICu (včetně webu - kde, ehm ...&#160;ehm, jsou nějaké ty nedodělečky). Za ty peníze, co komunita platí, by to mohlo být správně hned na poprvé, ne?</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 530
-title: Příspěvek psaný na václaváku
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prispevek-psany-na-vaclavaku
-published: true
+oldlink: 'https://www.marigold.cz/item/prispevek-psany-na-vaclavaku
+
+  '
 post_date: 2003-09-25 10:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor píše příspěvek z Václavského náměstí v Praze, využívaje hotspot.
+- KFC na Václavském náměstí má nefunkční WiFi připojení.
+- Hotspoty potřebují vhodné prostředí pro sezení a práci, což Václavák nesplňuje.
+- 'Na Václavském náměstí autor zachytil další dvě WiFi sítě: 101 a 2950vx.'
+title: Příspěvek psaný na václaváku
 ---
+
 <p>
 Omlouvám se za překlepy, ale tento příspěvek píšu na václaváku. To je tak: měl jsem ráno jednání a v 11 jdu na oběd s Vrecem. Jenže mezi tím byla proluka a tak jsem se rozhodl využít hotspotů v centru Prahy. Nejdříve jsem si šel dát kafe do KFC na Václaváku, abych zjistil, že to je asi jediné KFC, kde WiFi nefunguje. A tak jsem vylezl na václavák, sedl si tu na lavičku a na kolenou vyřizuji poštu via WIA hotspot...</p>
 

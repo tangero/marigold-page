@@ -1,14 +1,21 @@
 ---
 ID: 743
-title: 'UPC Chello u&nbsp;nás a&nbsp;v&nbsp;Holandsku &#8211; jsme dražší :('
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/upc-chello-u-nas-a-v-holandsku-jsme-drazsi
-published: true
+oldlink: 'https://www.marigold.cz/item/upc-chello-u-nas-a-v-holandsku-jsme-drazsi
+
+  '
 post_date: 2003-12-16 11:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- UPC Chello v Holandsku nabízí levnější internetové připojení než v ČR.
+- Holandské tarify Chello mají datové limity, české tarify je nemají.
+- Autor preferuje pomalejší internet bez datových limitů před rychlým s limitem.
+- Autor plánuje porovnat ceníky UPC v různých regionech.
+title: UPC Chello u&nbsp;nás a&nbsp;v&nbsp;Holandsku &#8211; jsme dražší :(
 ---
+
 <p>
 Náhodou jsem zabloudil na holandský web <A href="http://info.nld.chello.nl/products_intro.php?SessionID=3ff3eef0b0a80e6de4674d55e40d8b07" target=_blank>UPC Chello</A> a podíval jsem se do ceníku. A možná by vás zajímalo, jaké jsou ceny v Holandsku oproti těm našim - samozřejmě za připojení do internetu přes UPC Chello.</p>
 

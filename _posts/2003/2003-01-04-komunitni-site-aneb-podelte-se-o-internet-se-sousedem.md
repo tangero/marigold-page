@@ -1,14 +1,21 @@
 ---
 ID: 1062
-title: 'Komunitní sítě, aneb podělte se o&nbsp;internet se sousedem&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/komunitni-site-aneb-podelte-se-o-internet-se-sousedem
-published: true
+oldlink: 'https://www.marigold.cz/item/komunitni-site-aneb-podelte-se-o-internet-se-sousedem
+
+  '
 post_date: 2003-01-04 11:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- Komunitní sítě sdílejí internet, data, hry mezi sousedy za úhradu nákladů.
+- WiFi je oblíbené pro jednoduchost, ale kabel je levnější na kratší vzdálenosti.
+- Sdílení internetu od UPC je zakázané, ale poskytovatelé to obvykle nekontrolují.
+- Administrátor sítě potřebuje router, ideálně hardwarový pro snadnou správu.
+title: Komunitní sítě, aneb podělte se o&nbsp;internet se sousedem&#8230;
 ---
+
 Máte pár sousedů, kamarádů a chtěli byste se podělit o připojení do internetu, nebo jen si tak spolu pařit hry? Od toho jsou komunitní sítě. Poradíme, jak si ji postavit a jak sdílet připojení do internetu<!--more-->Tématikou komunitních sítí popojíždíme ve výkladu teorie síťování poněkud více k praxi. Zatím jsme vás informovali o tom, jaké existují komerční sítě a jak se sítě vytvářejí, jakou mají architekturu. Nyní se dostáváme k sítím komunitním, či téže sousedským, zájmovým atd. 
 <p>
 Co je komunitní síť? Jde o síť, kde se několik lidí vedených společným zájmem domluvilo, že budou sdílet prostředky a postaví si síť, která je společně propojí. Technicky je to tedy síť, jako jakákoliv jiná, přesto má ale svoje jistá specifika daná jednak právním prostředím, jednak také možnostmi stavitelů této sítě a také podmínkami. 

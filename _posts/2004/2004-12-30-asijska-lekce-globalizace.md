@@ -1,14 +1,21 @@
 ---
 ID: 1461
-title: Asijská lekce globalizace
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/asijska-lekce-globalizace
-published: true
+oldlink: 'https://www.marigold.cz/item/asijska-lekce-globalizace
+
+  '
 post_date: 2004-12-30 12:17:06
+post_excerpt: ''
+published: true
+summary_points:
+- Globalizace definována jako tornádo v Tokiu způsobené mávnutím motýla v New Yorku.
+- Katastrofy v Arménii, Gruzii nebo Azerbajdžánu byly pro autora příliš abstraktní.
+- Tsunami v Asii zasáhlo i zahraniční turisty, což zvýšilo globální pozornost.
+- Lidstvo potřebovalo tvrdou lekci v globalizaci, protože jemné lekce ignorovalo.
+title: Asijská lekce globalizace
 ---
+
 <p>
 
 Okřídlená definice označuje za globalizaci jev, kdy <i>&#8220;v New Yorku máchne motýl křídly a způsobí tornádo v Tokiu&#8221;</i>. Jak krásná definice, která tak citlivě obchází všechno, co globalizace obnáší. Po letošních vánocích budou průkopnické knihy ekonomie používat syrovější a surovější definici: <i>&#8220;globalizace je jev, kdy tsunami v Thajsku zabíjí Američany/Němce/Brity/Čechy&#8221;</i> (doplňte podle země vydání knihy).</p>

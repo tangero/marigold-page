@@ -1,14 +1,22 @@
 ---
 ID: 361
-title: 'Oblékatelné počítače (Wearable Computers) &#8211; bublina jak noha?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oblekatelne-pocitace-wearable-computers-bublina-jak-noha
-published: true
+oldlink: 'https://www.marigold.cz/item/oblekatelne-pocitace-wearable-computers-bublina-jak-noha
+
+  '
 post_date: 2003-06-12 10:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Pioneer vyvinul oblékatelný počítač s organickým displejem integrovaným v rukávu
+  oblečení.
+- Displej počítače zobrazuje informace z DVD, TV nebo internetu po připojení jednotky.
+- Technologie Pioneeru je bublinovitá, displej zůstává v oblečení i při praní.
+- Autor preferuje vize Nokie, Sony a Microsoftu pro personal infotainment před oblečením.
+title: Oblékatelné počítače (Wearable Computers) &#8211; bublina jak noha?
 ---
+
 <p>
 Včera jsem od kamaráda dostal nějaké info z tiskovky Pioneeru (byla v Japonsku a jeho tam pozvali i když dělá u konkurence, nějak na to nejsou hákliví :) týkající se prvního oblékatelného počítače, který Pioneer vyvinul a hodlá ho prodávat. </p>
 

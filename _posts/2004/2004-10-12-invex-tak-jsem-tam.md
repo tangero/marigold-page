@@ -1,14 +1,21 @@
 ---
 ID: 1358
-title: 'Invex &#8211; tak jsem tam&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/invex-tak-jsem-tam
-published: true
+oldlink: 'https://www.marigold.cz/item/invex-tak-jsem-tam
+
+  '
 post_date: 2004-10-12 15:25:33
+post_excerpt: ''
+published: true
+summary_points:
+- Invex 2008 byl slabý veletrh, autor jej prošel důkladně za dvě hodiny.
+- Pavilony Invexu 2008 jsou poloprázdné, výjimkou je Zetko s hrami.
+- Autor našel na Invexu 2008 jen pár zajímavostí, většinou opakujících se.
+- Autor nedokáže doporučit návštěvu Invexu 2008 kvůli jeho slabé úrovni.
+title: Invex &#8211; tak jsem tam&#8230;
 ---
+
 <p>
 Původně jsem na Invex ani nechtěl jet, jenže nakonec jsem si domluvil nějaké schůzky a dorazil jsem do Brna. </p>
 

@@ -1,16 +1,24 @@
 ---
 ID: 502
-title: >
-  Zase nějaké internetové terminály,
-  tentokráte od IQT
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zase-nejake-internetove-terminaly-tentokrate-od-iqt
-published: true
+oldlink: 'https://www.marigold.cz/item/zase-nejake-internetove-terminaly-tentokrate-od-iqt
+
+  '
 post_date: 2003-09-12 09:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- IQT terminály nabídnou surfování, e-maily, SMS a obchodování jako konkurenci Telecomu.
+- Terminál IQT obsahuje dotykový monitor, tiskárny, čtečky karet a potenciálně skener
+  a WiFi.
+- Metra Blansko vyrábí terminály IQT, plánuje se i export do zahraničí.
+- IQT plánuje instalaci 50 terminálů do konce roku a 1000 příští rok.
+title: 'Zase nějaké internetové terminály, tentokráte od IQT
+
+  '
 ---
+
 <p>
 Internetové terminály Českého Telecomu dostanou prý konkurenci a to v podobě <STRONG>terminálů společnosti IQT</STRONG>. Lidé by přes ně&#160;měli mít možnost surfovat po internetu, posílat maily i SMS a dokonce i obchodovat. </p>
 

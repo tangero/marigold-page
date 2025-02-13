@@ -1,16 +1,23 @@
 ---
 ID: 523
-title: >
-  Kterak jsem pro Telekonom vybíral
-  webhosting
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kterak-jsem-pro-telekonom-vybiral-webhosting
-published: true
+oldlink: 'https://www.marigold.cz/item/kterak-jsem-pro-telekonom-vybiral-webhosting
+
+  '
 post_date: 2003-09-22 21:58:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor chtěl publikovat blog Telekonom na vlastním FTP serveru.
+- Pipni.cz nabízelo webhosting zdarma při registraci domény, ale mělo výpadky.
+- Movable Type byl zvolen jako blogovací software pro svou rychlost.
+- Autor doporučuje MailCryptor pro ochranu emailových adres před spamem.
+title: 'Kterak jsem pro Telekonom vybíral webhosting
+
+  '
 ---
+
 <p>
 Když jsem si vytvořil anglicky psaný weblog o českých telekomunikacích a na Bloggeru jsem mu dal název Telekonom, napadlo mne, že bych mohl vyzkoušet publikování Bloggerem na vlastní FTP server. Nejdříve jsem laboroval s arigáckou Ježibabou, jenže se ukázalo, že Blogger kašle na připojení na SFTP na nestandardním portu a se zabezpečením, jaké tam kluci nastavili. A tak jsem majetnicky zapřemýšlel o tom, že bych si mohl pořídit ještě jeden webhosting, nějaký takový, kam bych mohl Telekonoma publikovat. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 717
-title: 'WiFidrobky: Ovislink Wireless Router, laciný D-Link,'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifidrobky-ovislink-wireless-router-laciny-d-link
-published: true
+oldlink: 'https://www.marigold.cz/item/wifidrobky-ovislink-wireless-router-laciny-d-link
+
+  '
 post_date: 2003-12-04 08:28:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobil.cz recenzoval Ovislink Wireless Router, levnější širokopásmový WiFi směrovač.
+- Wifishop.cz nabízí D-Link produkty, například APčko za necelé dva tisíce.
+- DigiWeb zveřejnil články o Wi-Fi ve firmách a rychlosti českého ADSL.
+- PCMCIA karta z Wifishop.cz má konektor pro externí anténu a čip Lucent/Agere.
+title: 'WiFidrobky: Ovislink Wireless Router, laciný D-Link,'
 ---
+
 <p>
 Na Mobil.cz se netradičně dali do recenzování širokopásmových směřovačů s podporou WiFi - konkrétně modelu <STRONG>Ovislink Wireless Router</STRONG>. <A href="http://mobil.idnes.cz/mobilni_komunikace/wifi/router031204.html" target=_blank>Recenzi </A>doporučuji všem zájemcům o levnější routery. </p>
 

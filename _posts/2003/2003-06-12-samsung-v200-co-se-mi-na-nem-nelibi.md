@@ -1,14 +1,21 @@
 ---
 ID: 360
-title: 'Samsung V200 &#8211; co se mi na něm nelíbí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/samsung-v200-co-se-mi-na-nem-nelibi
-published: true
+oldlink: 'https://www.marigold.cz/item/samsung-v200-co-se-mi-na-nem-nelibi
+
+  '
 post_date: 2003-06-12 09:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- Samsung V200 má problémy se SIM toolkitem pro bankovnictví, PIN je viditelný.
+- T9 u Samsungu V200 neumožňuje přidávat nová slova do slovníku.
+- WAP prohlížeč V200 má slabě propracované přidávání stránek do záložek.
+- MMS zpráva u V200 umožňuje vložit pouze jeden obrázek a má slabý editor.
+title: Samsung V200 &#8211; co se mi na něm nelíbí
 ---
+
 <p>
 Už jsem přes měsíc uživatelem Samsung V200 - chtěl jsem vyzkoušet véčko, těšil jsem se na vestavěnou kameru a MMS zprávy. Recenze najdete všude, tak snad jen pár mých zkušeností. </p>
 

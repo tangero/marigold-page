@@ -1,14 +1,21 @@
 ---
 ID: 385
-title: 'To je zase den&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/to-je-zase-den
-published: true
+oldlink: 'https://www.marigold.cz/item/to-je-zase-den
+
+  '
 post_date: 2003-06-24 13:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- Den je špatný i bez zjevných nepříjemností.
+- Autor se obává budoucnosti WiFi sítí.
+- Komerční WiFi sítě v Praze se nerozšiřují.
+- Komunitní sítě jako CzFree jsou nejisté.
+title: To je zase den&#8230;
 ---
+
 <p>
 Asi to taky znáte - vlastně se za to dopoledne nic hrozného nepřihodilo, nezmlátil mne policajt, nepřiskříply dveře metra ani mi trafikantka nedala včerejší JungeFronta Heute. Jenže stejně je ten den na houby. </p>
 

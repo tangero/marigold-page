@@ -1,14 +1,21 @@
 ---
 ID: 689
-title: 'Mekáč po&nbsp;manažersku: rizika jablečné taštičky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mekac-po-manazersku-rizika-jablecne-tasticky
-published: true
+oldlink: 'https://www.marigold.cz/item/mekac-po-manazersku-rizika-jablecne-tasticky
+
+  '
 post_date: 2003-11-24 21:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor se sešel s ředitelem Martinem v Mekáči u OMV na Jižní spojce.
+- Martin si objednal jablečnou taštičku, autor donut, ačkoliv je ředitel v obleku.
+- Martin si během jídla několikrát ušpinil oblek a košili od marmelády.
+- Autor se smál Martinově nešikovnosti a později mu příhodu poslal ke schválení.
+title: 'Mekáč po&nbsp;manažersku: rizika jablečné taštičky'
 ---
+
 <p>
 Dnes ráno jsem jel schůzku s Martinem (říkejme mu tak) a protože se už dlouho známe a netřeba hledět na formality a je třeba preferovat dopravní dostupnost, umluvili jsme se na Mekáč u benzínky OMV na Jižní spojce. </p>
 

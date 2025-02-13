@@ -1,14 +1,20 @@
 ---
 ID: 78
-title: 'WiFi ve vlaku, zabezpečení WiFi sítí tedy nic moc&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-ve-vlaku-zabezpeceni-wifi-siti-tedy-nic-moc
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-ve-vlaku-zabezpeceni-wifi-siti-tedy-nic-moc
+
+  '
 post_date: 2003-02-06 08:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi ve vlacích propojuje Kodaň a Göteborg díky satelitu a GSM síti.
+- Otevřené WiFi sítě jsou často nezabezpečené, 72% nepoužívá WEP.
+- T-Mobile je kritizován za nedostatečné zabezpečení a kapacitu portálu.
+title: WiFi ve vlaku, zabezpečení WiFi sítí tedy nic moc&#8230;
 ---
+
 <p>
 Chcete používat <STRONG>WiFi sítě ve vlaku</STRONG>? Pokud pojedete už příští měsíc z dánského Copenhagenu do švédského Gothenburgu (a nebo taky opačně), máte šanci. Systém vyvinutý firmou <A href="http://www.icomera.com/" target=_blank>Icomera</A> propojuje vlak vybavený WiFi spoty megabitovým satelitním spojením. Protože satelit kvůli ceně nabízí pouze downlink (příjem internetu), uplink (odchozí kanál) zajišťuje GSM síť. Jak vypadá taková anténa na vlaku, duálně pro satelit a GSM, uvidíte <A href="http://www.linx.se/about/linx_antenn_02.jpg" target=_blank>na tomto snímku</A>. Stránky této služby Linx <A href="http://www.linx.se/" target=_blank>najdete zde</A> a už podle obrázku vidíte, že asi nejde o zahumusenou čugálu typu ČD uvedenou do provozu za protektorátu. Halooo, pane Dušek, čtete to? Mohli by naši železničáři přestat chlastat, stávkovat, remcat&#160;a udělat také něco takového? Že by se třeba i u nás dalo jezdit vlakem i v případě, když nemusíte...</p>
 

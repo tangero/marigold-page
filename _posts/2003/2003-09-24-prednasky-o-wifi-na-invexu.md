@@ -1,14 +1,21 @@
 ---
 ID: 528
-title: 'Přednášky o&nbsp;WiFi na Invexu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prednasky-o-wifi-na-invexu
-published: true
+oldlink: 'https://www.marigold.cz/item/prednasky-o-wifi-na-invexu
+
+  '
 post_date: 2003-09-24 13:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- WideNet prezentoval WiFi pavilon na Invexu s přednáškami pro začátečníky.
+- Přednášky seznámí uživatele s WiFi technologiemi, možnostmi a cenami.
+- Šest přednáškových bloků zahrnuje témata od zabezpečení po provoz hotspotů.
+- WiFi pavilon nabízel připojení, notebooky IBM a prezentaci firem z oboru.
+title: Přednášky o&nbsp;WiFi na Invexu
 ---
+
 <p>
 Už jsem psal o tom, že WideNet spunktoval na letošním Invexu <A href="http://www.widenet.cz/wifilife/" target=_blank>WiFi pavilon</A>. A teď bych se rád zmínil přednáškách v onom pavilonu Y probíhajících. </p>
 

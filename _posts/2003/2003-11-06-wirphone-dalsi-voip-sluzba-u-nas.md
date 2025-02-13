@@ -1,14 +1,21 @@
 ---
 ID: 645
-title: 'Wirphone &#8211; další VoIP služba u&nbsp;nás'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wirphone-dalsi-voip-sluzba-u-nas
-published: true
+oldlink: 'https://www.marigold.cz/item/wirphone-dalsi-voip-sluzba-u-nas
+
+  '
 post_date: 2003-11-06 13:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- Wirphone nabízí internetovou telefonii s voláním do zahraničí a ČR.
+- Vteřinová tarifikace Wirphone začíná od první vteřiny hovoru.
+- Paušály Wirphone pro domácnosti a firmy zahrnují volné minuty a více telefonů.
+- Ceny Wirphone jsou srovnatelné s Fayn, ale jednodušší.
+title: Wirphone &#8211; další VoIP služba u&nbsp;nás
 ---
+
 <p>
 Objevila se <STRONG>další služba internetové telefonie - jmenuje se Wirphone</STRONG> a nabízí volání na linky do zahraničí a samozřejmě i po ČR (<A href="http://www.wirphone.cz/" target=_blank>link na Wirphone</A>). Zatím sice nenabízí příchozí telefonní číslo, ale chystá ho a údajně by mělo být na přelomu roku. Zajímavé jsou samozřejmě ceny - Wirphone především staví na vteřinové tarifikaci, přičemž ta se počítá již od první vteřiny, nikoliv od první minuty, jako u mobilních operátorů. </p>
 

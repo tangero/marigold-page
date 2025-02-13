@@ -1,14 +1,21 @@
 ---
 ID: 592
-title: 'Potřeboval bych malou radu s&nbsp;výběrem tiskárny&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/potreboval-bych-malou-radu-s-vyberem-tiskarny
-published: true
+oldlink: 'https://www.marigold.cz/item/potreboval-bych-malou-radu-s-vyberem-tiskarny
+
+  '
 post_date: 2003-10-16 12:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Tiskárna inkoustová je preferovaná kvůli potisku obálek formátu A5.
+- Podavač obálek musí být spolehlivý a s co největší kapacitou.
+- Levný tisk a celková nízká cena tiskárny jsou klíčové požadavky.
+- Kontakt pro tipy na tiskárnu je marigold@marigold.cz.
+title: Potřeboval bych malou radu s&nbsp;výběrem tiskárny&#8230;
 ---
+
 <p>
 Už několik dní si lámu hlavu s nákupem tiskárny do Cinetiku. Stará tiskárna definitivně dosluhuje a nákup nové je přede dveřmi. Jenže jako na potvoru zrovna námi požadované parametry nejsou moc často uváděné v nabídkách, takže jestli někdo víte o něčem, co by mohlo splňovat naše požadavky, dejte mi vědět na <A href="mailto:marigold@marigold.cz">marigold@marigold.cz</A> nebo samozřejmě do diskuse. </p>
 

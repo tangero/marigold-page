@@ -1,14 +1,21 @@
 ---
 ID: 311
-title: 'Mesh hopper &#8211; mesh architektura pro Windows'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mesh-hopper-mesh-architektura-pro-windows
-published: true
+oldlink: 'https://www.marigold.cz/item/mesh-hopper-mesh-architektura-pro-windows
+
+  '
 post_date: 2003-05-23 08:58:00
+post_excerpt: ''
+published: true
+summary_points:
+- BPO Solutions představila Mesh hopper, mesh architekturu pro Windows na WLAN Eventu.
+- Mesh hopper podporuje 802.11 deriváty a umožňuje Windows počítačům tvořit P2P sítě.
+- O Mesh hopperu je známo málo podrobností, dostupné jsou jen marketingové materiály.
+- Autor se těší na jednoduché a dostupné mesh sítě pro masové rozšíření.
+title: Mesh hopper &#8211; mesh architektura pro Windows
 ---
+
 <p>
 Firma BPO Solutions představila na londýnském WLAN Event&#160;svoji <STRONG>mesh architekturu pro Windows platformu. </STRONG>Jmenuje se to Mesh hopper a mělo by to umožnit každému Windows počítači zapojit se a spoluvytvářet mesh síť - podporuje to všechny 802.11 deriváty a vypadá to opravdu moc slibně. Pokud nevíte, co je mesh síť, přečtěte si <A href="/trh/meshnetwork030330.html">tento článek na Marigoldovi</A>, je to zajímavá věc umožňující každému vytvářet vlastní síť na bázi P2P a předávat provoz od jednoho počítače k druhému. ČTÚ se všemi licencemi jistě bude mít radost, až to k nám dorazí. </p>
 

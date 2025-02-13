@@ -1,16 +1,23 @@
 ---
 ID: 214
-title: >
-  AT Computers distributorem Buffalo,
-  802.11g produkty na trhu!
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/at-computers-distributorem-buffalo-802-11g-produkty-na-trhu
-published: true
+oldlink: 'https://www.marigold.cz/item/at-computers-distributorem-buffalo-802-11g-produkty-na-trhu
+
+  '
 post_date: 2003-04-01 14:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- AT Computers exkluzivně distribuuje Buffalo produkty v ČR a SR.
+- Buffalo produkty konkurují Linksys, upgrade řeší nový firmware.
+- Ceník prvních G produktů Buffalo je dostupný na webu AT Computers.
+- Buffalo PCMCIA karta stojí 2994 Kč, 54 Mbps router 7034 Kč bez DPH.
+title: 'AT Computers distributorem Buffalo, 802.11g produkty na trhu!
+
+  '
 ---
+
 <p>
 Produkty <STRONG>Buffalo bude v ČR (a SR) exklusivně distribuovat AT Computers.</STRONG> Značku Buffalo známe hlavně jako první značku s podporou 802.11g - a Buffalo produkty jsou dosti zajímavé, jako značkovější produkty ale budou konkurencí především pro Linksys produkty. K upgrade z "draft" verze 802.11g na standardizovanou verzi AT Computers říká: "Případné změny ve standardu bude výrobce řešit vydáním nového firmwaru" - tak je vezměme za slovo, až ta chvíle přijde. </p>
 

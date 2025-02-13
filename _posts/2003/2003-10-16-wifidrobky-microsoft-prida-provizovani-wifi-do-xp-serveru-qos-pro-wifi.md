@@ -1,14 +1,20 @@
 ---
 ID: 591
-title: 'WiFidrobky: Microsoft přidá provizování WiFi do XP serveru, QoS pro WiFi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifidrobky-microsoft-prida-provizovani-wifi-do-xp-serveru-qos-pro-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/wifidrobky-microsoft-prida-provizovani-wifi-do-xp-serveru-qos-pro-wifi
+
+  '
 post_date: 2003-10-16 10:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Microsoft představil WPS pro Windows XP, účtování provizí a bezpečné WiFi přihlašování.
+- Meru nabízí hardware s QoS pro WiFi sítě, bez čekání na 802.11e standard.
+- D-Link nabízí nestandardizovaný upgrade na 108 Mb/s pro G produkty.
+title: 'WiFidrobky: Microsoft přidá provizování WiFi do XP serveru, QoS pro WiFi'
 ---
+
 <p>
 Microsoft představil systém pro <STRONG>účtování provizí a bezpečné přihlašování do WiFi sítí pro uživatele Windows XP</STRONG>. Wireless Provisioning Service (WPS) bude k dispozici pro Server 2003 jako taková součást tlaku k upgrade z NT a Server 2000. Ve článku se vychvaluje, jak to bude pro uživatele XP pohodlné, ale nějak jsem nedošel na to, zda to bude alespoň fungovat i pro ostatní operační systémy. Podrobnosti <A href="http://www.wi-fiplanet.com/news/article.php/3091111" target=_blank>802.11 Planet</A>.</p>
 

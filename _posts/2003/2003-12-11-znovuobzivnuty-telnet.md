@@ -1,14 +1,21 @@
 ---
 ID: 735
-title: Znovuobživnutý Telnet
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/znovuobzivnuty-telnet
-published: true
+oldlink: 'https://www.marigold.cz/item/znovuobzivnuty-telnet
+
+  '
 post_date: 2003-12-11 14:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- TelNet byl dříve nekvalitní telekomunikační magazín s nadbytkem placených PR článků.
+- Telnet.cz nyní ožívá pod DCD Publishing s podtitulem "informace pro ICT profesionály".
+- Web Telnet.cz se zaměřuje na telekomunikace a sítě, konkuruje Lupě a Mobil.cz.
+- Webu Telnet.cz chybí originální témata, interní autor a RSS kanál.
+title: Znovuobživnutý Telnet
 ---
+
 <p>
 TelNet byl kdysi na počátku digitální revoluce u nás takový papírový telekomunikační magazín vpravdě nevalné úrovně, často jsem se nad ním rozčiloval. Nakonec nějak zašel na úbytě tím, že v něm nebylo co číst a bylo co číst kdekoliv jinde, navíc opravdu bazíroval hodně na placených PR materiálech. Joj, pardon, kromě toho je taky telnet terminálovým připojením, ale to sem jaksi nepatří...</p>
 

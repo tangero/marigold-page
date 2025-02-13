@@ -1,14 +1,21 @@
 ---
 ID: 1320
-title: 'ČTÚ došla soudnost (aneb co a&nbsp;jak s&nbsp;Nečekaným paušálem)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctu-dosla-soudnost-aneb-co-a-jak-s-necekanym-pausalem
-published: true
+oldlink: 'https://www.marigold.cz/item/ctu-dosla-soudnost-aneb-co-a-jak-s-necekanym-pausalem
+
+  '
 post_date: 2004-09-15 08:27:48
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ hodlá pokutovat firmy za internetové připojení mimo předvolbu 971.
+- ČTÚ dříve tolerovalo používání geografických čísel pro internet.
+- Předvolba 971 původně určena pro dálková dial-up připojení.
+- Autor kritizuje ČTÚ za zpětné vymáhání dodržování číslovacího plánu.
+title: ČTÚ došla soudnost (aneb co a&nbsp;jak s&nbsp;Nečekaným paušálem)
 ---
+
 <p>
 Marek Antoš dnes na Lupě publikoval glosu nazvanou <a href="http://www.lupa.cz/clanek.php3?show=3641">ČTÚ mění dějiny a porušuje zdravý rozum</a>, v níž mi mluví z duše. ČTÚ bude tvrdě zasahovat proti Nečekanému paušálu a firmám, které provozují internet na geografických číslech. V Číslovacím plánu jest uvedeno, že internet jedině na 971 smíte a nikde jinde. Kdo jinak, bum - ten pět mega pokuta. </p>
 

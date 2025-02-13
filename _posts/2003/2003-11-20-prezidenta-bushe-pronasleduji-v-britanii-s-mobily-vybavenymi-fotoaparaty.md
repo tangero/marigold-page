@@ -1,14 +1,23 @@
 ---
 ID: 683
-title: 'Prezidenta Bushe pronásledují v&nbsp;Británii s&nbsp;mobily vybavenými fotoaparáty'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prezidenta-bushe-pronasleduji-v-britanii-s-mobily-vybavenymi-fotoaparaty
-published: true
+oldlink: 'https://www.marigold.cz/item/prezidenta-bushe-pronasleduji-v-britanii-s-mobily-vybavenymi-fotoaparaty
+
+  '
 post_date: 2003-11-20 08:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- Británie zažívá "druhou generaci smart mobů" v souvislosti s návštěvou George W.
+  Bushe.
+- Hnutí "Chasing Bush" vyzývá k zasílání informací o pohybu Bushe nezávislým novinářům.
+- Stránky hnutí "Chasing Bush" byly po spuštění akce dočasně nedostupné.
+- Moderní technologie představují rostoucí riziko pro politiky, omezování funkcí fotoaparátů
+  je obtížné.
+title: Prezidenta Bushe pronásledují v&nbsp;Británii s&nbsp;mobily vybavenými fotoaparáty
 ---
+
 <p>
 Británie i Amerika mají postaráno o další zajímavý jev, který dokonce v rozhovoru pro BBC nazval jeden člověk <STRONG>druhou generací smart mobů</STRONG>. Legrační na tom je, že už jsem našel několik článků, zatím blogpostů, protože událost je docela ranná, kde si autoři pletli smart mob, tedy jakousi obdobu flash mobu, s moblogem, tedy blogováním z mobilního telefonu. Na druhou stranu se jim není co divit, protože oba jevy jsou si tentokráte velmi blízko. </p>
 

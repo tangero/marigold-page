@@ -1,14 +1,22 @@
 ---
 ID: 126
-title: 'Updaty firmware 802.11g, Wi-Fi aliance bude testovat i&nbsp;802.11g. Co je v&nbsp;Meshboxu?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/updaty-firmware-802-11g-wi-fi-aliance-bude-testovat-i-802-11g-co-je-v-meshboxu
-published: true
+oldlink: 'https://www.marigold.cz/item/updaty-firmware-802-11g-wi-fi-aliance-bude-testovat-i-802-11g-co-je-v-meshboxu
+
+  '
 post_date: 2003-02-28 09:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- Broadcom vydal aktualizaci firmwaru pro čipsety 802.11g.
+- Wi-Fi aliance zahájí testy interoperability 802.11g zařízení v červnu.
+- MeshBox je první komerční produkt pro sítě typu mesh.
+- Recenze MeshBoxu je dostupná na 802.11 Planet.
+title: Updaty firmware 802.11g, Wi-Fi aliance bude testovat i&nbsp;802.11g. Co je
+  v&nbsp;Meshboxu?
 ---
+
 <p>
 <A href="http://www.broadcom.com/">Broadcom</A> vydal <STRONG>update firmware pro čipsety 802.11g</STRONG> a na to reagovali výrobci používající jeho firmware - takže si můžete postahovat updaty, pokud někdo máte něco s 802.11g u těchto výrobců:&#160; <A href='http://linksys.com/download/firmware.asp?fwid=177"'>Linksys (WAP54G)</A>, <A href="http://web.belkin.com/support/download/download.asp?download=F5D7130&amp;lang=1&amp;mode=">Belkin</A> a <A href="http://docs.info.apple.com/article.html?artnum=120191">Apple (AirPort Extreme Base Station)</A>. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 781
-title: 'Akcie 5. &#8211; technická analýza nákupních příležitostí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/akcie-5-technicka-analyza-nakupnich-prilezitosti
-published: true
+oldlink: 'https://www.marigold.cz/item/akcie-5-technicka-analyza-nakupnich-prilezitosti
+
+  '
 post_date: 2004-01-08 08:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- Seriál na Peníze.cz pokračuje pátým dílem o technické analýze akcií.
+- Autor používá dvě základní metody technické analýzy pro zajištění obchodů.
+- Akcie TIW (TIWI) byla autorem doporučena jako investiční tip roku.
+- Akcie TIWI překonala hodnotu 10 USD v lednu 2004, doporučeno vybrat zisk.
+title: Akcie 5. &#8211; technická analýza nákupních příležitostí
 ---
+
 <p>
 Můj seriál věnovaný obchodování s akciemi na serveru Peníze.cz pokračuje pátým dílem. Tentokráte se věnuji technické analýze, tedy tomu, podle čeho vyhodnocovat zajímavé akcie jako nákupní příležitosti. Seriál měl přes vánoce pauzu, navíc se dostává zase do zajímavějších obrátek, jsem zvědav, zda tradeři do diskuse nadnesou svoje oblíbené metody a způsoby vyhodnocování, já jsem popsal pět nejzákladnějších, z nichž stejně používam jen dvě a to ještě více méně jako zajišťovací, tedy na to, abych si kryl záda kdyby můj odhad okamžité změny kurzu nevyšel. &#160;</p>
 

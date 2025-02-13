@@ -1,14 +1,21 @@
 ---
 ID: 955
-title: 'Další WiFi telefon &#8211; Zyxel Prestige 2000W'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-wifi-telefon-zyxel-prestige-2000w
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-wifi-telefon-zyxel-prestige-2000w
+
+  '
 post_date: 2004-03-30 08:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- Zyxel vyrábí WiFi telefon Prestige 2000W, což je známá firma.
+- Prestige 2000W podporuje 802.11b, SIP v2, G.711, G.729 a QoS (DiffServ, ToS).
+- Telefon má webové rozhraní, výdrž 24h v pohotovosti, 4h hovoru a nabíjecí stojánek.
+- Firmware Prestige 2000W dobře pracuje s NAT a má paměť na čísla.
+title: Další WiFi telefon &#8211; Zyxel Prestige 2000W
 ---
+
 <p>
 A jsem tu z dalším CeBITovým WiFi telefonem. Jestliže ty předchozí vypouštěly do světa firmy jména u nás neznámého, tomuto modelu neznámost výrobce vyčítat asi nemůžeme - <STRONG>model Prestige 2000W vyrábí firma Zyxel.</STRONG> </p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 84
-title: >
-  I doma se schyluje ke kloudné WiFi
-  síti
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/i-doma-se-schyluje-ke-kloudne-wifi-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/i-doma-se-schyluje-ke-kloudne-wifi-siti
+
+  '
 post_date: 2003-02-10 08:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi rozšíření do okolí brání nutnost montáže antény na správnou stranu domu.
+- Ethernet kabeláž přes byt komplikuje instalaci venkovní antény a zprovoznění WiFi.
+- Montáž antény z venku vyžaduje vystěhování pokoje a zpřístupnění okna.
+- Autor WiFi síť s externí anténou zatím nezprovoznil kvůli komplikacím s instalací.
+title: 'I doma se schyluje ke kloudné WiFi síti
+
+  '
 ---
+
 <p>
 Nevěřili byste, kolik výmluv je možné najít pro zprovoznění vlastní WiFi sítě. Poznal jsem to na sobě. Pravda, po bytě jsem měl WiFi pokrytí solidní, ale rozhodl jsem se trochu rozšířit svoji sousedskou síť a zapojit do netu i lidi z protějších domů. Na CzFree zatím nevidím, takže není přes koho se připojit do této sítě a být IN. Tak alespoň vyzkoušet, co WiFi řeknou ostatní na sídlišti Luka. </p>
 

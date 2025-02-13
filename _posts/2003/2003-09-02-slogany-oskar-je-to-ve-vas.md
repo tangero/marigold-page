@@ -1,14 +1,21 @@
 ---
 ID: 472
-title: 'Slogany: Oskar. Je to ve vás.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/slogany-oskar-je-to-ve-vas
-published: true
+oldlink: 'https://www.marigold.cz/item/slogany-oskar-je-to-ve-vas
+
+  '
 post_date: 2003-09-02 07:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar registroval nový slogan "Oskar. Je to ve vás." pro svou mobilní síť.
+- Paegas používal slogan "Paegas. Snadné spojení pro každého" jako odpověď Eurotelu.
+- T-Mobile představil nové tarify, které ale nenabídly očekávané inovace.
+- T-Mobile ztrácí atraktivitu kvůli vyšším cenám a srovnatelné kvalitě s konkurencí.
+title: 'Slogany: Oskar. Je to ve vás.'
 ---
+
 <p>
 Nový slogan pro svoji mobilní síť Oskar si registrovala společnost Český Mobil. A tak se zřejmě brzy budeme setkávat s reklamním sloganem <STRONG>Oskar. Je to ve vás.</STRONG> </p>
 

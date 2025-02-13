@@ -1,14 +1,21 @@
 ---
 ID: 716
-title: 'Obchodujeme s&nbsp;akciemi v&nbsp;USA díl 2.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/obchodujeme-s-akciemi-v-usa-dil-2
-published: true
+oldlink: 'https://www.marigold.cz/item/obchodujeme-s-akciemi-v-usa-dil-2
+
+  '
 post_date: 2003-12-03 10:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- Peníze.cz zveřejnily druhý díl seriálu o obchodování s americkými akciemi.
+- Článek se zabývá kapitálem pro daytrading a dlouhodobé investice.
+- Autor popisuje svou ztrátu 1500 dolarů kvůli atentátům bin Ládina.
+- Autor nakonec ztrátu smazal díky vzestupu akcií a prodeji.
+title: Obchodujeme s&nbsp;akciemi v&nbsp;USA díl 2.
 ---
+
 <p>
 Na Peníze.cz vyšel druhý díl mého seriálu věnovanému obchodování s akciemi na americké burze. Tentokráte je zaměřený na to, kolik peněz bude člověk potřebovat pro spekulativní obchody (takzvaný daytrading) a kolik by potřeboval na dlouhodobé investování, dozvíte se také základy technické práce s účtem, tedy co znamenají kryptogramy a anglické názvy jednotlivých obchodních pokynů. </p>
 

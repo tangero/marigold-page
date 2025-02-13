@@ -1,14 +1,22 @@
 ---
 ID: 727
-title: 'Recall &#8211; fulltext minulosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/recall-fulltext-minulosti
-published: true
+oldlink: 'https://www.marigold.cz/item/recall-fulltext-minulosti
+
+  '
 post_date: 2003-12-09 14:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Recall umožňuje fulltextové vyhledávání v archivovaných verzích webů WayBack Machine.
+- WayBack Machine archivuje dřívější podoby webů a Recall v nich vyhledává.
+- Recall zobrazuje graf četnosti a kontextu vyhledávaného slova v čase.
+- Alexandrijská knihovna provozuje WayBack Machine a Recall pro uchování digitálního
+  vědění.
+title: Recall &#8211; fulltext minulosti
 ---
+
 <p>
 Asi mi pár lidí bude vyčítat, že jsem objevil ameriku, ale nemohu si pomoci, tahle věc se mi tak líbí a ještě jsem o ní jinde nečetl. Při mých hrátkách s WayBack Machine jsem si všiml nové služby na Archive.org - fulltextu stránek nazvaném <A href="http://recall.archive.org/" target=_blank>Recall</A>. </p>
 

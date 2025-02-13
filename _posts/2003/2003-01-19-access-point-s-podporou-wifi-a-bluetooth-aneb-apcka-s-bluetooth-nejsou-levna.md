@@ -1,14 +1,23 @@
 ---
 ID: 51
-title: 'Access point s&nbsp;podporou WiFi a&nbsp;bluetooth &#8211; aneb APčka s&nbsp;bluetooth nejsou levná&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/access-point-s-podporou-wifi-a-bluetooth-aneb-apcka-s-bluetooth-nejsou-levna
-published: true
+oldlink: 'https://www.marigold.cz/item/access-point-s-podporou-wifi-a-bluetooth-aneb-apcka-s-bluetooth-nejsou-levna
+
+  '
 post_date: 2003-01-19 21:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bluetooth připojení Palm Tungstena k internetu přes PC přestalo fungovat.
+- Autor zvažoval koupi bluetooth access pointu pro pohodlnější používání Palmu.
+- Bluetooth access pointy jsou překvapivě dražší než WiFi, i v USA.
+- WNI Universal Wireless Gateway kombinuje WiFi, bluetooth a USB hub.
+- Autor se nakonec rozhodl opravit stávající připojení přes Windows XP.
+title: Access point s&nbsp;podporou WiFi a&nbsp;bluetooth &#8211; aneb APčka s&nbsp;bluetooth
+  nejsou levná&#8230;
 ---
+
 <p>
 Nějak jsem si doma rozhasil připojení z mého Palm Tungstena do internetu přes domácí počítač vybavený bluetooth kartou. Někde jsem něco změnil a za zlaté tele nemůžu přijít na to co a kde - Tungsten se mi přes bluetooth neautorizuje do sítě a na autorizaci skape. </p>
 

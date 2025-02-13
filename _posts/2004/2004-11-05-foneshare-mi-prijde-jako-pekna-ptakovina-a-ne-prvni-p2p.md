@@ -1,14 +1,21 @@
 ---
 ID: 1389
-title: 'FoneShare mi přijde jako pěkná ptákovina a&nbsp;ne první P2P'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/foneshare-mi-prijde-jako-pekna-ptakovina-a-ne-prvni-p2p
-published: true
+oldlink: 'https://www.marigold.cz/item/foneshare-mi-prijde-jako-pekna-ptakovina-a-ne-prvni-p2p
+
+  '
 post_date: 2004-11-05 07:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- FoneShare je webová aplikace, ne P2P software instalovaný v telefonu.
+- Uživatelé nahrávají obsah na web FoneShare přes formulář, nikoliv přímo z mobilu.
+- Stahování probíhá přes WAP PUSH zprávu s URL adresou souboru.
+- Autor považuje FoneShare za nepraktické a vzdálené pravému P2P sdílení.
+title: FoneShare mi přijde jako pěkná ptákovina a&nbsp;ne první P2P
 ---
+
 <p>
 Včera jsem si na několika serverech (a dneska i na Lupě a <a href="http://www.hlava.net/index.php?id=5130">na Hlavě</a>) všiml odkazů na &#8220;první P2P aplikaci pro mobilní telefony&#8221; zvanou FoneShare. S důvěrou jsem se obrátil na výrobce a záhy se registroval na jeho server <a href="http://www.TryFoneShare.com">TryFoneShare.com</a>. K P2P aplikaci to má daleko, protože pod pojmem P2P aplikace bych si představoval nějaký software nainstalovaný do telefonu, který namountí paměťový prostor i pro ostatní a umožní jim ode mne si sosat určený obsah. </p>
 

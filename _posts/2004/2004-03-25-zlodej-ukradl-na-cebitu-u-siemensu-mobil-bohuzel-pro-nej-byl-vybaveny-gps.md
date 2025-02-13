@@ -1,14 +1,22 @@
 ---
 ID: 949
-title: 'Zloděj ukradl na CeBITu u&nbsp;Siemensu mobil. Bohužel pro něj byl vybavený GPS&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zlodej-ukradl-na-cebitu-u-siemensu-mobil-bohuzel-pro-nej-byl-vybaveny-gps
-published: true
+oldlink: 'https://www.marigold.cz/item/zlodej-ukradl-na-cebitu-u-siemensu-mobil-bohuzel-pro-nej-byl-vybaveny-gps
+
+  '
 post_date: 2004-03-25 17:09:00
+post_excerpt: ''
+published: true
+summary_points:
+- Siemens SX1 prototyp s A-GPS byl ukraden na CeBITu.
+- A-GPS umožnilo Siemensu lokalizovat zloděje pomocí skrytých SMS.
+- Hannoverská policie zloděje na udané poloze zatkla.
+- Česká policie v podobném případu krádeže mobilu nepomohla.
+title: Zloděj ukradl na CeBITu u&nbsp;Siemensu mobil. Bohužel pro něj byl vybavený
+  GPS&#8230;
 ---
+
 <p>
 Tohje je <STRONG>opravdu pikantní historka z CeBITu.</STRONG> Na stánku Siemensu někdo ukradl mobil, konkrétně prototyp Siemens SX1. Až do tohoto okamžiku běžná scéna. <STRONG>Jenže ten Siemens SX1 byl prototyp proto, že&#160;byl vybaven A-GPS</STRONG>, tedy takzvaným asistovaným GPS, polohovacím systémem, kde mobilní síť předá přibližnou polohu GPS modulu a ten ji zpřesní. Výhodou oproti normálnímu postupu je, že je to citelně rychlejší i šetrnější na baterie. </p>
 

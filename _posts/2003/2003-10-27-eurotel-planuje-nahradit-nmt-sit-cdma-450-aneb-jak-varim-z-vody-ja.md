@@ -1,14 +1,21 @@
 ---
 ID: 616
-title: 'Eurotel plánuje nahradit NMT síť CDMA-450 (aneb jak vařím z&nbsp;vody já)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-planuje-nahradit-nmt-sit-cdma-450-aneb-jak-varim-z-vody-ja
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-planuje-nahradit-nmt-sit-cdma-450-aneb-jak-varim-z-vody-ja
+
+  '
 post_date: 2003-10-27 08:17:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel testuje technologii CDMA-450 EV-DO jako náhradu za NMT síť.
+- Článek o CDMA-450 doplněn o technické detaily, dodavatele a dostupné terminály.
+- Autor článku si nepamatuje jména informátorů kvůli ochraně zdrojů.
+- Původní titulek článku byl změněn, ale článek je podložen fakty.
+title: Eurotel plánuje nahradit NMT síť CDMA-450 (aneb jak vařím z&nbsp;vody já)
 ---
+
 <p>
 Minulý týden jsem tu kritizoval článek z MobilManie věnovaný EDGE u Eurotelu. Podstatná informace shrnutá do jedné věty, to byla síla. Abych to neměl na tom světě tak jednoduché, postavil jsem se před podobný problém, tedy jak uvařit článek z podobné výchozí informace. Dozvěděl jsem se totiž z velmi spolehlivých zdrojů, že <STRONG>Eurotel testuje techniku CDMA-450 EV-DO jíž by rád nahradil NMT síť</STRONG>. Čili jediná výchozí podstatná informace byla rovněž tato věta. </p>
 

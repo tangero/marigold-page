@@ -1,14 +1,21 @@
 ---
 ID: 1040
-title: Nokia opouští WiMAX
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-opousti-wimax
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-opousti-wimax
+
+  '
 post_date: 2004-05-18 08:12:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia opustila WiMAX fórum, což je pro WiMAX negativní zpráva z hlediska PR.
+- Nokia chtěla WiMAX pro rozvoj základnových stanic a mobilních terminálů.
+- Nokia se zaměřuje na rozvíjející se trhy v Rusku, Indii a Číně.
+- Nokia upřednostňuje hotové produkty a buňkové technologie před WiMAX.
+title: Nokia opouští WiMAX
 ---
+
 <p>
 Minulý týden Nokia oznámila, že opouští WiMAX fórum. Pro WiMAX je to minimálně opticky a z PR hlediska velmi zlá zpráva, protože Nokia byla vždy spolu s Intelem nejcitovanější firmou mezi podpůrci WiMAXu. Jak by ne - Nokia je firma známá a velmi úspěšná a odlesk jejího úspěchu ulpíval i na WiMAXu. </p>
 

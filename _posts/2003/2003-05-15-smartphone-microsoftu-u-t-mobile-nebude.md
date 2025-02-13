@@ -1,14 +1,21 @@
 ---
 ID: 294
-title: 'Smartphone Microsoftu u&nbsp;T-Mobile nebude'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/smartphone-microsoftu-u-t-mobile-nebude
-published: true
+oldlink: 'https://www.marigold.cz/item/smartphone-microsoftu-u-t-mobile-nebude
+
+  '
 post_date: 2003-05-15 20:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile ruší uvedení smartphonu s Microsoft Smartphone kvůli vysoké poruchovosti.
+- Microsoft Smartphone 2002 vyrábí HTC, prodává Orange, T-Mobile měl být další.
+- Sendo, původně s Microsoftem, přešel k Symbianu a žaloval Microsoft.
+- Microsoft dříve či později prosadí mobily s OS, Samsung preferuje Pocket PC.
+title: Smartphone Microsoftu u&nbsp;T-Mobile nebude
 ---
+
 <a href=mailto:maler@maler.cz>MaLér</a>: Patrick je zrovna někde mimo, tak se mu sem nacpu (neměl mi dávat přístup :). Podle <a href=http://www.reuters.com/newsArticle.jhtml?type=technologyNews&storyID=2751164 target=_blank>Reuters</a> dnes T-Mobile International jen tak mimochodem na tiskovce Deutsche Telekom oznámil, že nehodlá uvádět na trh chytrý telefon, poháněný operačním systémem Microsoft Smartphone. Tento přístroj, který měla nasadit celá síť operátorů T-Mobile, a měl se tedy objevit i u nás, byl představen letos v únoru na konferenci v Cannes.
 <p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 752
-title: Další trendy pro rok 2004
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-trendy-pro-rok-2004
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-trendy-pro-rok-2004
+
+  '
 post_date: 2003-12-19 10:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor shrnuje zajímavé komentáře z diskusí o trendech roku 2004.
+- Noname předpovídá paušály dial-upu, levnější ADSL a EU vstup jako IT bod.
+- Jiří Bureš vidí masový potenciál v JAVA aplikacích a hrách.
+- Miloš Enderle zdůrazňuje růst erotiky, sázení a multiplayer java her.
+title: Další trendy pro rok 2004
 ---
+
 <p>
 Rozhodl jsem se semo tamo vypíchnout nějaký zajímavý příspěveček z diskusí a komentářů, neb všechnu moudrost jsem zatím nepojedl a i kdyby, nestíhám ji všechnu zapsat ;) </p>
 

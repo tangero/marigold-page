@@ -1,16 +1,25 @@
 ---
 ID: 224
-title: >
-  Berdár novým šéfem Českého
-  Telecomu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/berdar-novym-sefem-ceskeho-telecomu
-published: true
+oldlink: 'https://www.marigold.cz/item/berdar-novym-sefem-ceskeho-telecomu
+
+  '
 post_date: 2003-04-08 08:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- Gabriel Berdár, bývalý šéf Dell Computer, byl jmenován novým generálním ředitelem
+  Českého Telecomu.
+- Šéf ČTc je pouze figurka, která nezmění podstatné věci ve společnosti.
+- Přemysl Klíma, bývalý ředitel, nepokračuje v manažerské pozici, ale v telekomunikačním
+  poradenství.
+- Nový ředitel bude pohlcen telekomunikačním "molochem" a nakonec propuštěn státem.
+title: 'Berdár novým šéfem Českého Telecomu
+
+  '
 ---
+
 <p>
 Představenstvo Českého Telecomu vybralo <STRONG>nového generálního ředitele Gabriela Berdára</STRONG>, dosavadního šéfa Dell Computer. Podrobnější článek o tomto člověku <A href="http://www.lupa.cz/clanek.php3?show=2786" target=_blank>přináší Lupa</A>. Já jen znovu připomínám, že figurka šéfa ČTc je JEN figurka - nic podstatného nezmění ani neznamená. Ostatně povšimněte si, že Přemysl Klíma nebyl katapultován do další manažerské pozice u velké firmy, ale odchází dělat "telekomunikační poradenství"...</p>
 

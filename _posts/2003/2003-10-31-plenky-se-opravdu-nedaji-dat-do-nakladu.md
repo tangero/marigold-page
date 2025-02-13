@@ -1,16 +1,23 @@
 ---
 ID: 630
-title: >
-  Plenky se opravdu nedají dát do
-  nákladů?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/plenky-se-opravdu-nedaji-dat-do-nakladu
-published: true
+oldlink: 'https://www.marigold.cz/item/plenky-se-opravdu-nedaji-dat-do-nakladu
+
+  '
 post_date: 2003-10-31 08:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bloger plánuje s Lopem nákup plenek jako dar pro novorozené dítě nejmenovaného blogera.
+- Lopo vybral peníze od známých na nákup velkého množství plenek v Makru.
+- Nákup plenek v Makru byl proveden na firmu Cinetik s fakturou na toto jméno.
+- Bořík z Cinetiku řeší, jak finančnímu úřadu vysvětlit fakturu za dětské pleny.
+title: 'Plenky se opravdu nedají dát do nákladů?
+
+  '
 ---
+
 <p>
 Je to složitá historie, ale rozhodl jsem se zapsat ji pro potřeby finančního úřadu, takže se s ní svěřím i na Marigoldovi. Jednomu blogerovi, zbrojíři a literátovi (pořád je to jeden člověk) jehož tu nebudu jmenovat (aby to bylo překvapení), se narodil potomek. A tak jsme s Lopem rozvažovali, co že mu k tomuto životnímu mezníku dát. Lopo je ovšem mistr překvapení a tak se <A href="http://blog.zbroj.info/" target=_blank>dotyčného</A> zeptal co že by si přál. A usnesli se, že nakoupí hromadu plenek, neb to vždy s potomkem užijete, když ne vy, tak on. A protože Lopo s výběrní kasičkou obkroužil hromadu dalších známých, vypadalo to, že lze zakoupit téměř celou fabriku na plenky. A tak jsme se s Lopem umluvili, že zajedeme do Makra a koupíme nějaké velké balení plenek. </p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 754
-title: WiFi cukroví
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-cukrovi
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-cukrovi
+
+  '
 post_date: 2003-12-22 09:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- Dita šla do práce, což autorovi připomnělo pracovní den a aktualizaci Marigolda.
+- Autor nakoupil ingredience na cukroví v prázdných obchodech, kromě přeplněného Makra.
+- Cukroví zabalili do krabice od WiFi routeru Linksys, kterou maskovali balicím papírem.
+- Autor zdůraznil Ditě zásadní roli WiFi v domácnosti, včetně vyřešení problému s
+  cukrovím.
+title: WiFi cukroví
 ---
+
 <p>
 Že je dnes pracovní den, jsem poznal až podle toho, že se Dita po snídani zdvihla a šla do práce. Ne každý ma dnes volno a tak jsem se rozhodl updatovat Marigolda. </p>
 

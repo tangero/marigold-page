@@ -1,14 +1,21 @@
 ---
 ID: 292
-title: '3G novinky, Telecom publikoval mapu ADSL a&nbsp;jiné ADSL legrácky&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3g-novinky-telecom-publikoval-mapu-adsl-a-jine-adsl-legracky
-published: true
+oldlink: 'https://www.marigold.cz/item/3g-novinky-telecom-publikoval-mapu-adsl-a-jine-adsl-legracky
+
+  '
 post_date: 2003-05-15 08:54:00
+post_excerpt: ''
+published: true
+summary_points:
+- IndiaMobile spustil 3G síť v 92 městech v Indii.
+- VIPnet v Chorvatsku spustil 3G síť pouze v testovacím provozu.
+- Tele2 dokoupil zbývající podíl ve finském Suomen 3G.
+- Český Telecom zveřejnil mapu pokrytí ADSL, Pooh.cz ji převedl do GIFu.
+title: 3G novinky, Telecom publikoval mapu ADSL a&nbsp;jiné ADSL legrácky&#8230;
 ---
+
 <p>
 Máme tu další 3G strarty: IndiaMobile v Indii s pokrytím 92 měst. Rovněž chorvatský VIPnet spustil 3G, ale pouze do testovacího provozu. Tele2 dokoupil zbývající podíl ve finském Suomen 3G. V něm již dříve vlastnil 27%. 3G konference, která původně měla být v Hongkongu bude v Bangkoku, Thajsku. Důvodem byly obavy ze SARS. Termín je 5.-7. listopadu. Vzhledem k tomu, že už jsem stihl svoji účast zrušit, tam asi nepojedu. </p>
 

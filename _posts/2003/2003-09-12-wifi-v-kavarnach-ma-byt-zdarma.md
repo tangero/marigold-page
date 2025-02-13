@@ -1,14 +1,21 @@
 ---
 ID: 503
-title: 'WiFi v&nbsp;kavárnách má být zdarma'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-v-kavarnach-ma-byt-zdarma
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-v-kavarnach-ma-byt-zdarma
+
+  '
 post_date: 2003-09-12 11:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi v kavárnách by měla být zdarma, podobně jako sůl a pepř.
+- Kavárník v USA vypíná WiFi jen v době oběda a večeře pro zvýšení obratu.
+- Hotspot bez autorizace stojí v USA 100 dolarů, autorizační software je drahý.
+- Článek v časopise Wired podporuje názor, že WiFi má být zdarma.
+title: WiFi v&nbsp;kavárnách má být zdarma
 ---
+
 <p>
 Dlouho dumám nad tím, zda WiFi v kavárnách, KFC a podobných podnicích je věc, která se využije a navíc, kolik se za ni má platit. Čím dál více jsem se utvrzoval v dojmu, <STRONG>že WiFi v takových podnicích má být zdarma.</STRONG> Díval jsem se trochu ve světě (rozuměj v USA), jak to řeší. Když opominu v tomto ohledu již příliš mediálně profláknuté StarBucks, kde za den v průměru WiFi použijí dva lidé (za tu cenu přes T-Mobile, jak jinak), zaujal mne názor jednoho nezávislého kavárníka. Ten pravil, že WiFi je u něj zadarmo a vypíná ho jen v době oběda a večeře, kdy potřebuje, aby se mu tam lidé otočili a nevysedávali tři hodiny. Proč zadarmo? Host si dá tři čtyři kávy v době, kdy bych měl jinak prázdno, nějaký sendvič atd. </p>
 

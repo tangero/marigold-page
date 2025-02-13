@@ -1,14 +1,22 @@
 ---
 ID: 393
-title: 'Pedro Pick znovu u&nbsp;telekomáckého lizu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pedro-pick-znovu-u-telekomackeho-lizu
-published: true
+oldlink: 'https://www.marigold.cz/item/pedro-pick-znovu-u-telekomackeho-lizu
+
+  '
 post_date: 2003-06-30 08:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- Pedro Pick vybrán Českým Telecomem jako poradce bez výběrového řízení za miliony
+  dolarů.
+- Pick figuroval v aféře uplácení při privatizaci Českého Telecomu v roce 1999.
+- Vyšetřování Pickovy role v korupční aféře privatizace Telecomu bylo zastaveno.
+- Článek spekuluje o politickém pozadí přidělení zakázky Pickovi bez výběrového řízení.
+title: Pedro Pick znovu u&nbsp;telekomáckého lizu
 ---
+
 <p>
 Máme tu další malý skandálek a v jeho středu je opět Pedro Pick. Český Telecom <STRONG>si ho totiž vybral bez výběrového řízení</STRONG> za poradce při nákupu Eurotelu a vyplatí mu za to 1 až 2 miliony dolarů. To, že by mělo proběhnout výběrové řízení, představenstvo Telecomu nevzrušuje.</p>
 

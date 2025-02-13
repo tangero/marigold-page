@@ -1,14 +1,21 @@
 ---
 ID: 699
-title: 'GPRS u&nbsp;T-Mobile &#8211; CS3 a&nbsp;CS4 nepovažuji za velkou výhodu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/gprs-u-t-mobile-cs3-a-cs4-nepovazuji-za-velkou-vyhodu
-published: true
+oldlink: 'https://www.marigold.cz/item/gprs-u-t-mobile-cs3-a-cs4-nepovazuji-za-velkou-vyhodu
+
+  '
 post_date: 2003-11-28 08:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile propaguje GPRS kódování CS3 a CS4 pro vyšší rychlost.
+- CS3 a CS4 vyžadují vysokou kvalitu signálu a jsou málo robustní.
+- Rychlost GPRS s CS3/CS4 se často neliší od staršího CS2.
+- Nadšení z GPRS kódování u T-Mobile je přehnané, využití je specifické.
+title: GPRS u&nbsp;T-Mobile &#8211; CS3 a&nbsp;CS4 nepovažuji za velkou výhodu
 ---
+
 <p>
 Prakticky pokaždé, když T-Mobile <EM>"komunikuje" </EM>svoje GPRS služby, neopomene zmínit, že jeho síť jako jediná v ČR používá progresivnější kódování CS3 a CS4. Tato kódování umožní dosáhnout vyšší přenosové rychlosti a to je nepochybně zajímavé. Jenže proč se používá v tak málo sítích? </p>
 

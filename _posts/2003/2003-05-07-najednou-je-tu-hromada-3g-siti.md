@@ -1,14 +1,21 @@
 ---
 ID: 276
-title: 'Najednou je tu hromada 3G sítí&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/najednou-je-tu-hromada-3g-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/najednou-je-tu-hromada-3g-siti
+
+  '
 post_date: 2003-05-07 10:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Švédský operátor 3 spouští 3G síť ve Švédsku s videopřenosy za 0,71 €/min.
+- Vodafone Irsko testuje 3G síť s telefonem Nokia 6650.
+- Hutchinson 3G má 20 000 klientů v Británii a 50 000 v Itálii.
+- T-Mobile a O2 sdílí 3G síť v Británii se souhlasem EU.
+title: Najednou je tu hromada 3G sítí&#8230;
 ---
+
 <p>
 V Evropě se nám přemnožily 3G sítě, už od minulého čtvrtka nečtu o ničem jiném, než kde to zase někdo spustil... takže po pořadě (a musíme to projet rychle, mám hlad, půjdu si pro rohlíky...)</p>
 

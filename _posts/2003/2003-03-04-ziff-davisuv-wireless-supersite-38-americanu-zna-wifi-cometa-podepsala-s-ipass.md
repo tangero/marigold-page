@@ -1,14 +1,21 @@
 ---
 ID: 140
-title: 'Ziff Davisův Wireless supersite, 38% američanů zná WiFi. Cometa podepsala s&nbsp;iPass'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ziff-davisuv-wireless-supersite-38-americanu-zna-wifi-cometa-podepsala-s-ipass
-published: true
+oldlink: 'https://www.marigold.cz/item/ziff-davisuv-wireless-supersite-38-americanu-zna-wifi-cometa-podepsala-s-ipass
+
+  '
 post_date: 2003-03-04 07:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ziff Davis spustil Wireless supersite pro články o bezdrátových technologiích.
+- procent dospělých Američanů ví, co je WiFi, 5 procent ji používá.
+- WiFi síť Cometa uzavřela smlouvu s iPass o přístupu uživatelů.
+- Cometa a iPass se zatím nedohodly na platbách za službu.
+title: Ziff Davisův Wireless supersite, 38% američanů zná WiFi. Cometa podepsala s&nbsp;iPass
 ---
+
 <p>
 Nakladatelství Ziff Davis v tichosti spustilo <STRONG>svůj Wireless supersite, </STRONG>kam přemístilo články ze svých serverů jako ZDNews, týkající se bezdrátových technologií. Je to velmi dobrá myšlenka i to vypadá hezky. Klikat <A href="http://wireless.ziffdavis.com/" target=_blank>račte zde</A>.</p>
 

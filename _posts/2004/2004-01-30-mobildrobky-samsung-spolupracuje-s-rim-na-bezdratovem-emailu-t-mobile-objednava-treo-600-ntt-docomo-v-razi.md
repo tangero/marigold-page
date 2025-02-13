@@ -1,14 +1,22 @@
 ---
 ID: 823
-title: 'Mobildrobky: Samsung spolupracuje s&nbsp;RIM na bezdrátovém emailu, T-Mobile objednává Treo 600, NTT DoCoMo v&nbsp;ráži'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobildrobky-samsung-spolupracuje-s-rim-na-bezdratovem-emailu-t-mobile-objednava-treo-600-ntt-docomo-v-razi
-published: true
+oldlink: 'https://www.marigold.cz/item/mobildrobky-samsung-spolupracuje-s-rim-na-bezdratovem-emailu-t-mobile-objednava-treo-600-ntt-docomo-v-razi
+
+  '
 post_date: 2004-01-30 08:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- RIM a Samsung spolupracují na vývoji emailového prostředí pro mobilní telefony.
+- NTT DoCoMo má přes 2 miliony uživatelů 3G sítě a sponzoruje tým F1 Renault.
+- NTT DoCoMo ruší spolupráci s Microsoftem ve firmě Mobimagic.
+- Treo 600 v barvách T-Mobile bude dostupné až v březnu.
+title: 'Mobildrobky: Samsung spolupracuje s&nbsp;RIM na bezdrátovém emailu, T-Mobile
+  objednává Treo 600, NTT DoCoMo v&nbsp;ráži'
 ---
+
 <p>
 Dvě zajímavé zprávy v jeden týden na téma mobilního (bezdrátového) emailu. Tak především společnost<STRONG> RIM (výrobce v USA tak populárního BlackBerry) a Samsung podepsali dohodu o spolupráci na vývoji email prostředí</STRONG> pro mobilní telefony, které by umožnilo co nejefektivnější práci s emaily. Abychom byli přesní, Samsung tím zahrne přístup k RIM serverům služby BlackBerry do software svých mobilů. RIM tím zvýší dostupnost své služby a Samsung zase bude moci nabídnout něco zajímavého pro firemní klientelu, protože BlackBerry služba je určená především pro čtení dat z firemních email řešení. Není to nic na způsobu bezplatné email schránky... Zdroj:<A href="http://www.canadait.com/cfm/index.cfm?It=106&amp;Id=19165&amp;Se=0&amp;Lo=2" target=_blank>CanadaIT</A>.</p>
 

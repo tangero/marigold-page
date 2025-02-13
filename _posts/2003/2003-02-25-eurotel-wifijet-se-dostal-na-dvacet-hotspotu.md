@@ -1,16 +1,23 @@
 ---
 ID: 116
-title: >
-  Eurotel WiFiJet se dostal na dvacet
-  hotspotů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-wifijet-se-dostal-na-dvacet-hotspotu
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-wifijet-se-dostal-na-dvacet-hotspotu
+
+  '
 post_date: 2003-02-25 07:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFiJet síť se rozšířila na dvacet lokalit v Čechách a na Moravě.
+- Většina WiFiJet lokalit jsou hotely, například Grandhotel Pupp Karlovy Vary.
+- Mezi lokalitami je i Mezinárodní letiště Ostrava - Mošnov a Carrefour Plzeň.
+- Brno má několik WiFiJet lokalit, například Hotel Voroněž a Hotel Continental.
+title: 'Eurotel WiFiJet se dostal na dvacet hotspotů
+
+  '
 ---
+
 <p>
 Koncem loňského roku se <STRONG>eurotelecí síť WiFiJet</STRONG> značně posílila a z původních pár hotýlků už <STRONG>máme dvacítku lokalit v Čechách i na Moravě</STRONG>. Většinou jde opět o hotely:</p>
 

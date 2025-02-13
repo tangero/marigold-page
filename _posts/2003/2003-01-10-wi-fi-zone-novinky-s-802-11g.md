@@ -1,14 +1,21 @@
 ---
 ID: 35
-title: 'Wi-Fi Zone, novinky s&nbsp;802.11g'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wi-fi-zone-novinky-s-802-11g
-published: true
+oldlink: 'https://www.marigold.cz/item/wi-fi-zone-novinky-s-802-11g
+
+  '
 post_date: 2003-01-10 15:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Wi-Fi Zone je certifikační služba pro hotspoty s poplatkem za registraci.
+- g router Linksys WRT54G se prodává na Amazonu za 133 USD.
+- SanDisk představil Wi-Fi CompactFlash kartu s 128 MB za 130 USD.
+- Yamaha nabízí hudební server s Wi-Fi a vypalovačkou za 2000 USD.
+title: Wi-Fi Zone, novinky s&nbsp;802.11g
 ---
+
 <p>
 Především začnu s omlouvou. Během týdne se na Marigolda vyhrnulo tolik práce, že naprosto nestíhla a v posteli odumíral, aniž by vám cokoliv napsal. Co naplat, snad se to zlepší. </p>
 

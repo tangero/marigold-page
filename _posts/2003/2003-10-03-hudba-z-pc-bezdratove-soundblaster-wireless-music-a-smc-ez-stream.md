@@ -1,14 +1,24 @@
 ---
 ID: 549
-title: 'Hudba z&nbsp;PC&nbsp;bezdrátově: SoundBlaster Wireless Music a&nbsp;SMC EZ-Stream'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hudba-z-pc-bezdratove-soundblaster-wireless-music-a-smc-ez-stream
-published: true
+oldlink: 'https://www.marigold.cz/item/hudba-z-pc-bezdratove-soundblaster-wireless-music-a-smc-ez-stream
+
+  '
 post_date: 2003-10-03 07:58:00
+post_excerpt: ''
+published: true
+summary_points:
+- Creative Labs uvádí SoundBlaster Wireless Music pro přenos hudby přes WiFi za 250
+  USD.
+- SMC nabízí SMCWMR-AG EZ-Stream, přehrává hudbu, obrázky i video přes WiFi za 200
+  USD.
+- Obě zařízení umožňují bezdrátový přenos hudby z PC do audiosystému pomocí WiFi.
+- Roste poptávka po zařízeních pro bezdrátový přenos hudby z počítače do obývacího
+  pokoje.
+title: 'Hudba z&nbsp;PC&nbsp;bezdrátově: SoundBlaster Wireless Music a&nbsp;SMC EZ-Stream'
 ---
+
 <p>
 <IMG height=172 alt="SoundBlaster Wireless Music" src="/wp-content/uploads/soudblasterwless.jpg" width=182 align=right>Společnost Creative Labs známe hlavně jako výrobce ozvučných komponent. A ejhle, i ona se rozhodla přidat do svého portfolia nějaké WiFi produkty, protože přišla na to, že je to sexy. Nebude vyrábět obyčejné WiFi karty, ale rovnou <STRONG>SoundBlaster Wireless Music</STRONG>, zařízení schopné přenášet hudbu z vašeho PC do jiných pokojů pomocí WiFi sítě. Bezdrátový přijímač se připojí k jakémukoliv audiozařízení, detekuje WiFi síť a je schopen zprostředkovat MP3 a WMA hudbu z počítače přímo do vaší audiosestavy. Cena 250 USD. Podrobnosti zde <A href="http://www.americas.creative.com/products/product.asp?product=2092" target=_blank>u CLabs</A>.</p>
 

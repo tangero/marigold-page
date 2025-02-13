@@ -1,14 +1,21 @@
 ---
 ID: 1448
-title: Jsem hnusný úplatný hrdobec
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jsem-hnusny-uplatny-hrdobec
-published: true
+oldlink: 'https://www.marigold.cz/item/jsem-hnusny-uplatny-hrdobec
+
+  '
 post_date: 2004-12-17 08:50:35
+post_excerpt: ''
+published: true
+summary_points:
+- Autor vrací smazané články po pozitivní reakci čtenářů.
+- Během záskoku autor napsal 10 menších a 4 rozsáhlejší články.
+- Autor byl osočován z PR článků, i přes vysokou návštěvnost serveru.
+- Autor vyzývá k pozitivnímu psaní a vyzdvihování kvality.
+title: Jsem hnusný úplatný hrdobec
 ---
+
 <p>
 <em>(updated) Drtivou převahou rozhodnuto, vracím články zpět (samozřejmě včetně komplet diskusí), doufal jsem, že se ve vás nezklamu a byl jsem potěšen vašemi reakcemi. Děkuji</em></p>
 <p>

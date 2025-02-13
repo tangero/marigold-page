@@ -1,14 +1,21 @@
 ---
 ID: 458
-title: 'WiFi na Novém Smíchově a&nbsp;v&nbsp;síti Nescafé'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-na-novem-smichove-a-v-siti-nescafe
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-na-novem-smichove-a-v-siti-nescafe
+
+  '
 post_date: 2003-08-26 17:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nový Smíchov nabízí WiFi připojení od Českého Telecomu v Nescafé kavárně.
+- WiFi funguje zdarma, ačkoli pokladní o spuštění služby nevěděla.
+- Český Telecom provozuje dva access pointy na kanálech 7 a 14.
+- Nescafé kavárny jsou vybaveny WiFi, což autor považuje za pozitivní krok.
+title: WiFi na Novém Smíchově a&nbsp;v&nbsp;síti Nescafé
 ---
+
 <p>
 Před chvílí jsem dorazil <STRONG>na Nový Smíchov</STRONG>, takové to nákupní centrum v Praze. A šel jsem si dát do Nescafé ledovou kávu, svoji oblíbenou pochoutku. Chtěl jsem na chvíli posedět, počíst si časopis, relaxovat. Když jsem platil, všiml jsem si prospektu Českého Telecomu "Připojte se, je to snadné" - a zjistil jsem, že inzerují WiFi připojení. I zeptal jsem se pokladní, zda to již funguje. Odvětila, že nikoliv, ale že to chystají brzy. Škoda, řekl jsem si. </p>
 

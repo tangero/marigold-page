@@ -1,14 +1,21 @@
 ---
 ID: 753
-title: Mobilní generace
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-generace
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-generace
+
+  '
 post_date: 2003-12-19 11:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- GSM je 2G, UMTS je 3G, v budoucnu se mluví o 4G a 5G.
+- EDGE je označováno jako 2.75G, HSDPA je 3.5G a HSUPA je 3.75G.
+- USA a Asie mají pokročilejší mobilní technologie než zbytek světa.
+- Asie má velmi rychlé mobilní datové sítě, o kterých se nám může zdát.
+title: Mobilní generace
 ---
+
 <p>
 Nemluvím teď o generacích lidských, ale o generacích mobilních telefonních systémů. Například GSM je druhá generace, označovaná též jako 2G. UMTS je 3G, třetí generace. Občas na konferencích narážím na 4G a když se někdo hodně odváže, tak mluví o 5G, pak mu ale většinou seberou flašku, mikrofon a vyprovodí ho ze sálu. </p>
 

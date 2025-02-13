@@ -1,16 +1,24 @@
 ---
 ID: 598
-title: >
-  Proč obcházet tiskového mluvčího
-  Telecomu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proc-obchazet-tiskoveho-mluvciho-telecomu
-published: true
+oldlink: 'https://www.marigold.cz/item/proc-obchazet-tiskoveho-mluvciho-telecomu
+
+  '
 post_date: 2003-10-20 08:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- MaM kritizuje Český Telecom za zveřejnění informací všem novinářům, čímž ztratili
+  exkluzivitu.
+- Mobilní firma uvolnila unikátní informace všem, aby zabránila exkluzivnímu vydání.
+- Tento postup vede k tomu, že se novináři bojí žádat o oficiální informace.
+- Autor popisuje konfrontaci s "velkým bossem" kvůli zveřejnění informací bez vyjádření.
+title: 'Proč obcházet tiskového mluvčího Telecomu
+
+  '
 ---
+
 <p>
 Dnešní vydání Marketingu a Medií přináší ještě <STRONG>jeden povzdech na Českým Telecomem, respektive PR oddělení</STRONG>m. Přímo šéfredaktor MaMu Daniel Kopl si stěžuje, že MaM vyštoural nějaké informace o výběrovém řízení probíhajícím v Telecomu a redaktoři požádali tiskového mluvčího Vladana Crhu o vyjádření. Ten ovšem vyjádření rozeslal všem novinářům formou tiskové zprávy. MaM tak přišla o exklusivní informaci a podle všeho taky o chuť příště si na nějaký takový špek vyžádat oficiální informaci z tiskového oddělení. <EM>"Místo aby odpovědi poslal pouze do redakce, která se jej ptala, poslal oficiální tiskovou zprávu s odpověďmi na otázky do všech redakcí. A pokud by snad vysvětlením tiskového mluvčího nyní mělo být to, že naše redakce nebyla první s těmito otázkami, tak bylo slušné tuto informaci sdělit novináři, který se na něj s prosbou o odpovědi obrátil,"</EM> píše Daniel Kopl v MaM. </p>
 

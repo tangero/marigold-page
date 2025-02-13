@@ -1,14 +1,21 @@
 ---
 ID: 1292
-title: 'Sen o&nbsp;evropské technologické dominaci je vlastně fuč'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sen-o-evropske-technologicke-dominaci-je-vlastne-fuc
-published: true
+oldlink: 'https://www.marigold.cz/item/sen-o-evropske-technologicke-dominaci-je-vlastne-fuc
+
+  '
 post_date: 2004-09-02 09:09:22
+post_excerpt: ''
+published: true
+summary_points:
+- Evropa chtěla sjednotit radiové telekomunikační technologie a dominovat světu.
+- GSM bylo velmi úspěšné, UMTS má zpoždění a není přesvědčivé.
+- ERMES a Tetra jsou prakticky mrtvé, rozvíjejí se proprietární standardy.
+- HiperLAN/MAN zachránilo sjednocení s WiFi/WiMax, jinak by zkrachovalo.
+title: Sen o&nbsp;evropské technologické dominaci je vlastně fuč
 ---
+
 <p>
 Evropa měla kdysi takovou zajímavou myšlenku, že stanoví jednotné panevropské technické standardy pro důležité radiové telekomunikační technologie. A mimo jiné v sobě nosila myšlenku, že je za čas přijme celý svět a potvrdí tak, že Evropa je technologicky i ekonomicky dominantní hráč. Mělo jít o tyto technologie: mobilní sítě druhé a třetí generace, bezdrátové sítě, paging a vysílačky veřejné radiové služby (PMR).</p>
 

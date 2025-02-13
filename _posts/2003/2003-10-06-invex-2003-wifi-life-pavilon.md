@@ -1,14 +1,21 @@
 ---
 ID: 558
-title: 'Invex 2003 &#8211; WiFi Life pavilon'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/invex-2003-wifi-life-pavilon
-published: true
+oldlink: 'https://www.marigold.cz/item/invex-2003-wifi-life-pavilon
+
+  '
 post_date: 2003-10-06 10:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- Invex nabízí zdarma WiFi v pavilonu WiFi Life s ochotným personálem.
+- WiFi Life pavilon představuje firmy IDG, VanCoNet, WideNet a Globe Internet.
+- WideNet nabízí techniku pro hotspot za 10 000 Kč s 65% zisku z provozu.
+- TSG Com a WideNet nabízejí provizní programy pro rozšiřování hotspotů.
+title: Invex 2003 &#8211; WiFi Life pavilon
 ---
+
 <p>
 Na Invexu je dneska (v kontrastu s prakticky celou ranní cestou po D1) hezké počasí, byť teplejší oblečení oceníte. První jsem se zašel podívat do pavilonu WiFi Life, kde&#160;opravdu funguje zdarma připojení k internetu skrze WiFi a pobíhá tu ochotný personál, který vám pomáhá připojení nastavit. Pavilon není nijak velký a taky v pondělním ránu je tu docela málo lidí, klid a volno, ale to zatím i v ostatních pavilonech. Fotečka se po odkliknutí zvětší...</p>
 

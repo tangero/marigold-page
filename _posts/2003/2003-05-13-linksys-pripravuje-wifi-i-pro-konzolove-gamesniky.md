@@ -1,14 +1,21 @@
 ---
 ID: 287
-title: 'Linksys připravuje WiFi i&nbsp;pro konzolové gamesníky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-pripravuje-wifi-i-pro-konzolove-gamesniky
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-pripravuje-wifi-i-pro-konzolove-gamesniky
+
+  '
 post_date: 2003-05-13 07:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys WGA54G adaptér připojí herní konzole (Xbox, PS2, GameCube) k 802.11G WiFi.
+- Linksys WGA54G bude dostupný ve třetím čtvrtletí 2003, cena není známa.
+- Linksys WET54G je ethernetový bridge s podporou 802.11g a Power-over-Ethernet.
+- Linksys WET54G bude dostupný v létě, cena není známa.
+title: Linksys připravuje WiFi i&nbsp;pro konzolové gamesníky
 ---
+
 <p>
 Ještě jsem Vreca nestihl informovat, ale jistě to udělám, když už je ve Státech na nějaké gamesnické sešlosti, aby se po tom podíval. Linksys připravuje nové verze svých WiFi zařízení, přičemž jedno je zaměřeno téměř výhradně na pařany - a to ještě na majitele <IMG height=200 alt="Linksys WGA54g" src="http://www.marigold.cz/grafika/linksyswga54g.jpg" width=164 align=right>konzolí. </p>
 

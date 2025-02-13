@@ -1,14 +1,21 @@
 ---
 ID: 757
-title: 'Valeskiho keynotes na 3GSM světovém kongresu v&nbsp;Cannes'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/valeskiho-keynotes-na-3gsm-svetovem-kongresu-v-cannes
-published: true
+oldlink: 'https://www.marigold.cz/item/valeskiho-keynotes-na-3gsm-svetovem-kongresu-v-cannes
+
+  '
 post_date: 2003-12-22 16:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- Terrence Valeski, šéf Eurotelu, bude hlavním řečníkem na 3GSM kongresu 2004.
+- GSM kongres v Cannes je prestižní událost s vlivnými řečníky.
+- Valeski vystoupí 26. února 2004 na panelu o distribuci služeb.
+- Autor článku bude reportovat o Valeskiho vystoupení na 3GSM kongresu.
+title: Valeskiho keynotes na 3GSM světovém kongresu v&nbsp;Cannes
 ---
+
 <p>
 Šéf Eurotelu <STRONG>Terrence Valeski je uveden mezi hlavními řečníky na 3GSM kongresu</STRONG> 2004 v Cannes. Zjistil jsem to dneska, když mi přišel poštou seznam přednáček, na které se lze těšit. Hned na první stránce vyhrazené právě nejdůležitějším řečínkům (takzvané "keynote sessions") je Terry Valeski uveden. </p>
 

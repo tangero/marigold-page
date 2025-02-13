@@ -1,16 +1,24 @@
 ---
 ID: 322
-title: >
-  Paušál za GPRS ve Finsku končí. Co
-  my?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pausal-za-gprs-ve-finsku-konci-co-my
-published: true
+oldlink: 'https://www.marigold.cz/item/pausal-za-gprs-ve-finsku-konci-co-my
+
+  '
 post_date: 2003-05-28 08:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- DNA ruší neomezený GPRS paušál v červnu, zavádí 100 MB limit a poplatky za data
+  navíc.
+- Operátoři, včetně Eurotelu, testovali datové paušály pro zjištění chování zákazníků.
+- Český Telecom brzdí využití GPRS jako náhrady pevné linky kvůli cenám a dostupnosti.
+- Autor předpovídá zrušení GPRS paušálu Eurotelem do konce ledna 2004.
+title: 'Paušál za GPRS ve Finsku končí. Co my?
+
+  '
 ---
+
 <p>
 Finský operátor DNA tento měsíc končí svůj GPRS datový paušál. Od června už nebude za paušální poplatek možno přenést neomezený počet dat, nově bude za paušál 100 MB dat a každý další megabajt dat vyjde na 1,22 &#8364;. Podle vyjádření lidí z DNA byly získány zkušenosti s tím, co zákaznící chtějí a potřebují a bylo možno přistoupit k tomuto omezení. </p>
 

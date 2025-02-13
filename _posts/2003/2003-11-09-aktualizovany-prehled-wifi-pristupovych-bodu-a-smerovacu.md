@@ -1,14 +1,22 @@
 ---
 ID: 648
-title: 'Aktualizovaný přehled WiFi přístupových bodů a&nbsp;směrovačů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/aktualizovany-prehled-wifi-pristupovych-bodu-a-smerovacu
-published: true
+oldlink: 'https://www.marigold.cz/item/aktualizovany-prehled-wifi-pristupovych-bodu-a-smerovacu
+
+  '
 post_date: 2003-11-09 12:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Přehled AP a routerů na Marigoldovi aktualizován o ceny, Radius, WPA, 802.1x.
+- Neaktualizovaná zařízení (4+ měsíce) přesunuta do samostatné tabulky, celkem cca
+  20.
+- AutoCont nabízí zajímavé ceny značek US Robotics, Buffalo, 3Com, levnější než Linksys.
+- Značkové produkty 802.11g cenově válcují neznačkové, zejména díky velkým distributorům.
+title: Aktualizovaný přehled WiFi přístupových bodů a&nbsp;směrovačů
 ---
+
 <p>
 Aktualizoval jsem (konečně!) přehled přístupových bodů a směrovačů, routerů, na Marigoldovi. Vybírat si můžete z třicítky APček a dvacítky směrovačů, nově jsou v přehledu nejenom ceny, ale také další detaily, například začínám zaznamenávat podporu Radius, WPA nebo 802.1x atd, někde přibyly odkazy na detailní informace u výrobce. Vyhrál jsem si s tím, už to bylo potřeba, některé ceny tam vyloženě zasmrádaly. </p>
 

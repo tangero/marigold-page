@@ -1,14 +1,22 @@
 ---
 ID: 714
-title: 'Panika na VoIP frontě kvůli zájmu FCC a&nbsp;novinky u&nbsp;nás'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/panika-na-voip-fronte-kvuli-zajmu-fcc-a-novinky-u-nas
-published: true
+oldlink: 'https://www.marigold.cz/item/panika-na-voip-fronte-kvuli-zajmu-fcc-a-novinky-u-nas
+
+  '
 post_date: 2003-12-03 09:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- FCC projednávala VoIP regulaci, což vyvolalo obavy zbytečné regulace internetové
+  telefonie.
+- Vonage CEO Jeff Citron se vyjádřil proti regulaci VoIP operátorů.
+- FCC zvažuje regulaci přidělování amerických telefonních čísel VoIP operátory.
+- Dyad zavedl VPN Unlimited pro neomezené volání mezi pobočkami za paušál.
+title: Panika na VoIP frontě kvůli zájmu FCC a&nbsp;novinky u&nbsp;nás
 ---
+
 <p>
 <STRONG>FCC nedávno projednávalo situaci kolem VoIP</STRONG>, kolem internetové telefonie. K diskusi si pozvalo zástupce nejrůznějších společností jako Cisco či Vonage a na internetu se rozšířila panika, že FCC se chystá na regulaci VoIP. Objevují se desítky článků věnovaných tomu, že regulace VoIP je zbytečná, zatím to ale také vypadá jen na to, že FCC si hledá podklady, zejména proto, že VoIP provideři jako Vonage už začali zasahovat do telefonního prostoru a tam se regulace přeci jen nějak vyskytuje. </p>
 

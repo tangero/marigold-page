@@ -1,14 +1,22 @@
 ---
 ID: 147
-title: 'Linksys vydal své dualbandové WiFi karty a&nbsp;bezdrátový přehrávač presentací'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-vydal-sve-dualbandove-wifi-karty-a-bezdratovy-prehravac-presentaci
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-vydal-sve-dualbandove-wifi-karty-a-bezdratovy-prehravac-presentaci
+
+  '
 post_date: 2003-03-06 11:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys uvolnil dualband WiFi techniku podporující 802.11a/g/b.
+- PCMCIA karta Linksys bude stát 99 USD.
+- Netgear brzy prodá PCMCIA karty za 129 USD.
+- Linksys WRT54G (router/AP/switch) byl schválen pro EU.
+- Linksys představil bezdrátový přehrávač prezentací WPG12.
+title: Linksys vydal své dualbandové WiFi karty a&nbsp;bezdrátový přehrávač presentací
 ---
+
 <p>
 Linksys oficiálně uvolnil svoji dualband WiFi techniku podporující jak 802.11a tak 802.11g (a tím samozřejmě i 802.11b, protože to je s Géčkem zpětně kompatibilní).</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 387
-title: 'Patent na online půjčování DVD&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/patent-na-online-pujcovani-dvd
-published: true
+oldlink: 'https://www.marigold.cz/item/patent-na-online-pujcovani-dvd
+
+  '
 post_date: 2003-06-25 07:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Netflix získal patent na online půjčování DVD za paušální poplatek v USA.
+- Cinetik, česká půjčovna, se patent Netflixu netýká, platí jen v USA.
+- Wal-Mart má problém s identickým systémem kvůli patentu Netflixu.
+- Farmaceutické koncerny patentují DNA exotických rostlin, omezují dovoz.
+title: Patent na online půjčování DVD&#8230;
 ---
+
 <p>
 Americká online půjčovna <STRONG>Netflix dostala včera patent na online půjčování DVD,</STRONG> tedy na systém, kdy zákazník přijde na web (či jinou službu), vybere si DVD a půjčí si je za paušální měsíční poplatek, načež je obdrží poštou. Dlouho jsem si myslel, že takový patent nemůže projít ani ve státech, takže jsem patentovou registraci Netflixu sledoval poměrně bez zájmu, ale nakonec to opravdu prošlo. Samozřejmě stejný systém používá <A href="http://www.cinetik.cz/">i náš Cinetik</A>. Toho se ovšem problém pantentu nedotkne, ten je platný pouze v USA a v ČR by pravděpodobně neprošel, ačkoliv se o tom dnes raději poradíme s právníky. </p>
 

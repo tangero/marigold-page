@@ -1,14 +1,21 @@
 ---
 ID: 759
-title: Jen tak předvánočně
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jen-tak-predvanocne
-published: true
+oldlink: 'https://www.marigold.cz/item/jen-tak-predvanocne
+
+  '
 post_date: 2003-12-23 10:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold nestihl vytvořit doporučovátko dárků pro návštěvnost webu.
+- Autor inspiroval kontextovou nápovědou z Yuhůova weblogu a CSS formátováním tabulek.
+- Doma přestala téci voda kvůli prasklému potrubí, objevivšímu se vedle silnice.
+- Čtyři programátoři se přihlásili na programování P2P knihovny.
+title: Jen tak předvánočně
 ---
+
 <p>
 Den před štědrým večerem a říkám si, že by to ještě chtělo poladit konfigurací dárků. Letos jsem <STRONG>chtěl na Marigolda udělat doporučovátko dárků</STRONG> - vybrali byste si typ osoby, které dárek kupujete a z databáze by vám Marigold vysypal dárková doporučení, vy sami byste mohli nějaká přidat. Skončilo to na tom, že jsem na to ve frmolu posledních dní zapoměl a pak už se mi na to zdálo dost pozdě, navíc se obávám, že vzhledem k marigoldí návštěvnosti bych musel dárky vymýšlet sám a&#160;k ničemu by takové doporučovátko nebylo. Ale třeba to příští rok přeci jen vyzkouším. </p>
 

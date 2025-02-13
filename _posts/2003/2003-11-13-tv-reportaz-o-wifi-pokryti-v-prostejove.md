@@ -1,14 +1,22 @@
 ---
 ID: 664
-title: 'TV reportáž o&nbsp;WiFi pokrytí v&nbsp;Prostějově'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tv-reportaz-o-wifi-pokryti-v-prostejove
-published: true
+oldlink: 'https://www.marigold.cz/item/tv-reportaz-o-wifi-pokryti-v-prostejove
+
+  '
 post_date: 2003-11-13 08:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Prostějov WiFi antény jsou umístěny vysoko na radnici, což může omezit dosah signálu.
+- Registrace k WiFi vyžaduje osobní návštěvu radnice s občanským průkazem, což je
+  nepraktické.
+- MAC adresa by mohla být použita pro ochranu sítě namísto osobní registrace.
+- Zavedení WiFi je záslužné, ale vyžaduje vylepšení v dosahu a přístupnosti.
+title: TV reportáž o&nbsp;WiFi pokrytí v&nbsp;Prostějově
 ---
+
 <p>
 Ráno běžela na nějaké televizi (asi ČT1, ještě jsem byl ospalý!) reportáž o pokrytí náměstí WiFi internetem v Prostějově. Byla hezká, přinesla dva zajímavé postřehy:</p>
 

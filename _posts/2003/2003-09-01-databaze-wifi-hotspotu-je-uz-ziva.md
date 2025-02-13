@@ -1,14 +1,22 @@
 ---
 ID: 471
-title: Databáze WiFi hotspotů je už živá
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/databaze-wifi-hotspotu-je-uz-ziva
-published: true
+oldlink: 'https://www.marigold.cz/item/databaze-wifi-hotspotu-je-uz-ziva
+
+  '
 post_date: 2003-09-01 11:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Databáze WiFi hotspotů obsahuje data T-Mobile, WIA, Českého Telecomu a nezávislých
+  sítí.
+- CzFree body nejsou primárně určeny pro databázi vyhledávání WiFi z ulice.
+- Vyhledávání hotspotů funguje kliknutím na jméno města.
+- Plánuje se přidání výpisu hotspotů podle sítě.
+title: Databáze WiFi hotspotů je už živá
 ---
+
 <p>
 Konečně jsem se dostal k tomu, abych <STRONG>databázi WiFi hotspotů naplnil daty</STRONG>. Zatím jsou tam data hotspotů T-Mobile (těch aktivních), WIA (fuj, adresy jsem musel nabušit z webu, kde jsou hooodně přibližné) a Českého Telecomu. K tomu je zde zhruba desítka hotspotů nezávislých, co lidi nabušili do databáze sami. Celkem jsem na 74 hotspotech. </p>
 

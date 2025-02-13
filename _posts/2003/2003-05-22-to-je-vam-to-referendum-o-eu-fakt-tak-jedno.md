@@ -1,14 +1,21 @@
 ---
 ID: 308
-title: 'To je vám to referendum o&nbsp;EU fakt tak jedno?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/to-je-vam-to-referendum-o-eu-fakt-tak-jedno
-published: true
+oldlink: 'https://www.marigold.cz/item/to-je-vam-to-referendum-o-eu-fakt-tak-jedno
+
+  '
 post_date: 2003-05-22 14:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autorovi vadí nezájem Čechů o referendum o EU.
+- Autor podporuje vstup do EU, protože se ho osobně nedotknou omezení.
+- Norma EU na banány se týká původu, norma na okurky zakřivení.
+- Autor kritizuje šíření nepravd o normách EU na ovoce a zeleninu.
+title: To je vám to referendum o&nbsp;EU fakt tak jedno?
 ---
+
 <p>
 Dneska jsem dostal několik udivených emailů téma <EM>"reklamy EU"</EM> na Marigoldovi. Dokonce v jednom si pisatel posteskl, že se mi to snadno s mými známostmi dostává reklama na EU z vládních peněz, zatímco na jeho servery nezbylo. Nevím, jaké známosti měl na mysli, nicméně tu "reklamu" jsem na Marigolda dal zadarmo jako cokoliv jiného, protože mi přišlo až trapné, jak je každému referendum o EU ukradené...</p>
 

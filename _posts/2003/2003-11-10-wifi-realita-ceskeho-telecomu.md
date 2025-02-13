@@ -1,14 +1,23 @@
 ---
 ID: 650
-title: WiFi realita Českého Telecomu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-realita-ceskeho-telecomu
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-realita-ceskeho-telecomu
+
+  '
 post_date: 2003-11-10 03:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- Telecom WiFi mělo v říjnu 2800 registrovaných účastníků, z nichž 14 % službu používalo
+  pravidelně.
+- Problém registrace spočívá v obtížně zapamatovatelném uživatelském jménu a heslu
+  generovaném Telecomem.
+- Aktivní uživatelé Telecom WiFi přenesli průměrně 322 MB dat měsíčně.
+- Nejoblíbenější pražské WiFi hotspoty se nacházejí v KFC, Nescafé a Káva Káva Káva.
+title: WiFi realita Českého Telecomu
 ---
+
 <p>
 Na <A href="http://mobil.idnes.cz/aktuality/statistikywifictc031107.html" target=_blank>Mobil.cz vyšla </A><STRONG>velmi stručná statistika WiFi hotspotů Českého Telecomu</STRONG>, z níž cituji: Na konci října měla služba zaregistrovaných 2800 účastníků, z nichž přibližně 14 % používá službu pravidelně. Průměrný měsíční objem přenesených dat u aktivních účastníků dosahuje 322 MB. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 239
-title: 'Rozkol v&nbsp;CzFree Netu předmětem komentářů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/rozkol-v-czfree-netu-predmetem-komentaru
-published: true
+oldlink: 'https://www.marigold.cz/item/rozkol-v-czfree-netu-predmetem-komentaru
+
+  '
 post_date: 2003-04-16 11:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- Rozkol CzFree a FreeNet.cz zaznamenaly Technet, Živě a Lupa bez hlubšího komentáře.
+- Administrace vBulletin na CzFree není tak jednoduchá, aby se dalo omylem mazat.
+- Zmizení diskusí o odchodu Clocka naznačuje cenzuru, nikoliv omyl moderátora.
+- CzFree doplácí na netransparentnost a nejasná pravidla, což umožňuje svévoli.
+title: Rozkol v&nbsp;CzFree Netu předmětem komentářů
 ---
+
 Rozkol v CzFree a rozdělení diskusního fóra na FreeNet.cz zaznamenalo i <A href="http://www.technet.cz/zprava.html?zprava=22333" target=_blank>Technet</A>, <A href="http://www.zive.cz/h/Bleskovky/AR.asp?ARI=110352&amp;CAI=2097&amp;HID=19" target=_blank>Živě</A> a Lupa, povětšinou to ponechali bez komentáře, ovšem na Živě se spustila diskuse pod článečkem. 
 <p>
 <STRONG>Komentář na Marigolda přidal Fyzik</STRONG> a jedna část mne zaujala: <I>Kecy o cenzure jsou take jenom kecy, nikdy nic smazano nebylo, kdyz nepocitam uklepnuti jednoho z moderatoru, za coz se tento verejne omluvil. Ze moderator splitne thread, ktery se vzdali od tematu, je snad dobre, ne? Ti samy, co kritizuji 'cenzuru' si neustale stezuji na neprehlednost fora.... ach jo. </I>

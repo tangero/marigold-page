@@ -1,11 +1,25 @@
 ---
-title: "AI v roce 2025: Regulace, spolehlivost, geopolitika a autentické blogy"
-author: Patrick Zandl
-post_excerpt: "Pokračujeme v zamyšlení nad tím, jak AI promění náš svět v roce 2025. Tentokráte se podíváme na regulaci, spolehlivost AI, geopolitiku a možný návrat autentických blogů. Takže dnes méně technologií, více politiky a ekonomiky."
-layout: post
-categories: [Čína, AI, USA, EU, geopolitika, regulace, blogy]
-thumbnail: https://www.marigold.cz/assets/ai-vsude-2025.png
 audio_url: https://www.marigold.cz/audio/2025-01-13-ai-rok-2025-dil-2.mp3
+author: Patrick Zandl
+categories:
+- Čína
+- AI
+- USA
+- EU
+- geopolitika
+- regulace
+- blogy
+layout: post
+post_excerpt: Pokračujeme v zamyšlení nad tím, jak AI promění náš svět v roce 2025.
+  Tentokráte se podíváme na regulaci, spolehlivost AI, geopolitiku a možný návrat
+  autentických blogů. Takže dnes méně technologií, více politiky a ekonomiky.
+summary_points:
+- EU regulace AI inspiruje svět, ale firmy se obávají nejasností a postihů.
+- Spolehlivost AI bude problém, očekávají se první incidenty s podvodným chováním.
+- USA a Čína soupeří o prvenství v AI, možný vznik státního AGI projektu.
+- Autentické blogy se mohou vrátit jako reakce na AI generovaný obsah na sítích.
+thumbnail: https://www.marigold.cz/assets/ai-vsude-2025.png
+title: 'AI v roce 2025: Regulace, spolehlivost, geopolitika a autentické blogy'
 ---
 
 V [prvním díle jsme se dívali](/item/rok-2025-v-ai/) především na technologické změny v umělé inteligenci. Dnes se podíváme spíše na ty politické a ekonomické.

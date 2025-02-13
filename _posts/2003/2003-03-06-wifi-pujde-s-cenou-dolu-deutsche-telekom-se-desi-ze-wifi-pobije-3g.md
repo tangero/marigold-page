@@ -1,14 +1,21 @@
 ---
 ID: 146
-title: 'WiFi půjde s&nbsp;cenou dolů, Deutsche Telekom se děsí, že WiFi pobije 3G'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-pujde-s-cenou-dolu-deutsche-telekom-se-desi-ze-wifi-pobije-3g
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-pujde-s-cenou-dolu-deutsche-telekom-se-desi-ze-wifi-pobije-3g
+
+  '
 post_date: 2003-03-06 09:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi komponenty zlevní, což je pozitivní zpráva pro spotřebitele.
+- San Francisco má WiFi síť od T-Mobile, podobné sítě se rozšiřují.
+- WiFi lépe a levněji obslouží 90% datových aplikací původně pro 3G.
+- Deutsche Telekom využívá studii o WiFi jako argument pro odklad 3G.
+title: WiFi půjde s&nbsp;cenou dolů, Deutsche Telekom se děsí, že WiFi pobije 3G
 ---
+
 <p>
 <A href="http://www.technet.cz/zprava.html?zprava=21429" target=_blank>Technet &#160;upozorňuje</A> na to, že <STRONG>ceny WiFi komponent půjdou dolů</STRONG>. Hurá hurá říkáme si asi všichni, takže PCMCIA za 10 amerických babek, to by šlo (při aktuálním kurzu a přirážkách to bude tisícovka na krámě u nás :(</p>
 

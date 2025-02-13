@@ -1,14 +1,21 @@
 ---
 ID: 498
-title: 'Pixi updatoval zjištění o&nbsp;rušení ISM pásma na Kladně'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pixi-updatoval-zjisteni-o-ruseni-ism-pasma-na-kladne
-published: true
+oldlink: 'https://www.marigold.cz/item/pixi-updatoval-zjisteni-o-ruseni-ism-pasma-na-kladne
+
+  '
 post_date: 2003-09-11 13:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Pixyho příspěvek o rušení ISM pásma na Kladně vyvolal reakci KLFreeNetu.
+- KLFreeNet občanské sdružení se distancuje od rušení a obcházení zákonů.
+- Původní komunitní síť KLFreeNet se rozdělila na sdružení a samostatné skupiny.
+- Rozlišování mezi budovateli sítě ze zájmu a hledači výdělku je obtížné.
+title: Pixi updatoval zjištění o&nbsp;rušení ISM pásma na Kladně
 ---
+
 <p>
 Včerejší Pixyho příspěvek týkající se rušení ISM pásma na Kladně neušel pozornosti lidí, o kterých se původně Pixy domníval, že to mají na triku. A tak to probrali a snad si to i trochu vyjasnili. <STRONG>Pixy k tomu píše:</STRONG></p>
 

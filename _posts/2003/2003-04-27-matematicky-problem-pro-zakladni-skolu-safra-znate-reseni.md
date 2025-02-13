@@ -1,14 +1,21 @@
 ---
 ID: 255
-title: 'Matematický problém pro základní školu &#8211; safra, znáte řešení?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/matematicky-problem-pro-zakladni-skolu-safra-znate-reseni
-published: true
+oldlink: 'https://www.marigold.cz/item/matematicky-problem-pro-zakladni-skolu-safra-znate-reseni
+
+  '
 post_date: 2003-04-27 18:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi kniha autora narazila na problém s výpočtem odvěsny pravoúhlého trojúhelníku.
+- Autor potřebuje vzorec pro výpočet náklonu antény ve vertikální rovině.
+- Příručky výpočet náklonu antény neuvádějí, pouze odkazují na jednoduchost.
+- Autor žádá čtenáře o pomoc s nalezením vzorce pro výpočet.
+title: Matematický problém pro základní školu &#8211; safra, znáte řešení?
 ---
+
 <p>
 Neděli jsem věnoval sepisování WiFi knihy. A právě jsem u antén<STRONG> narazil na problém založený na učivu základní školy.</STRONG> Problém zní takto: <STRONG>v pravoúhlém trojúhelníku znám všechny tři úhly a délku jedné z odvěsen. Potřebuji dopočítat délku druhé odvěsny. Jak na to?</STRONG> Je na to primitivní vzoreček, ale bohužel ho nemohu najít. Pokud si na něj někdo vzpomenete, napište mi ho prosím...</p>
 

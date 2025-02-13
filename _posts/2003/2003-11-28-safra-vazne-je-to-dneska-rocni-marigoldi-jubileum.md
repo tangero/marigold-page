@@ -1,16 +1,23 @@
 ---
 ID: 700
-title: >
-  Safra, vážně je to dneska roční
-  marigoldí jubileum
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/safra-vazne-je-to-dneska-rocni-marigoldi-jubileum
-published: true
+oldlink: 'https://www.marigold.cz/item/safra-vazne-je-to-dneska-rocni-marigoldi-jubileum
+
+  '
 post_date: 2003-11-28 09:54:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold vznikl 28. listopadu jako server o WiFi technice.
+- Původně měl Marigold dělat kamarád, ale nakonec ho převzal autor.
+- Návštěvnost Marigolda je překvapivě vysoká, 20% z RSS čteček.
+- Autor si Marigolda ponechá jako osobní blog s glosami o telekomunikacích.
+title: 'Safra, vážně je to dneska roční marigoldí jubileum
+
+  '
 ---
+
 <p>
 Marigoldovi bude dneska přesně jeden rok. Náhodou jsem si toho všiml, když jsem se hrabal ve starých šablonách a díval jsem se na data jejich vytvoření a je to tak, 28. listopadu jsem udělal první marigoldí šablonu s přehledem WiFi techniky, ačkoliv první krátké zprávičky přibyly v prosinci. </p>
 

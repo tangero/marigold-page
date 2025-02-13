@@ -1,14 +1,23 @@
 ---
 ID: 678
-title: 'Bluetooth rizika: snarfing a&nbsp;bluejacking'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bluetooth-rizika-snarfing-a-bluejacking
-published: true
+oldlink: 'https://www.marigold.cz/item/bluetooth-rizika-snarfing-a-bluejacking
+
+  '
 post_date: 2003-11-19 09:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bluetooth chyba snarfing umožňuje neautorizovaný přístup k datům telefonů Ericsson
+  a Nokia.
+- Bluejacking není bezpečnostní chyba, ale vlastnost umožňující posílání vizitek bez
+  svolení.
+- BlueStumbler, BlueJackQ a MobilMania poskytují podrobnosti o snarfingu a bluejackingu.
+- Ericsson T68, T68i, T610, Nokia 6310i a 7650 jsou zranitelné vůči snarfingu.
+title: 'Bluetooth rizika: snarfing a&nbsp;bluejacking'
 ---
+
 <p>
 Na serveru The Register <A href="http://www.theregister.co.uk/content/55/34007.html" target=_blank>byly publikovány</A> údaje <STRONG>o bezpečnostní chybě bluetooth</STRONG> technologie u některých telefonů Ericsson a Nokia. Konkrétně jde o mobily Ericsson T68, T68i, T610, Nokia 6310i a 7650, u kterých lze tyto položky stahovat i bez autorizace majitele ve visible režimu. Chyba umožňuje přístup k telefonnímu seznamu a kalendáři a její objevitelé Adam a Ben Lauriovi ji nazvali <STRONG>snarfing</STRONG>. Podrobnosti najdete na stránkách <A href="http://www.bluestumbler.org/" target=_blank>BlueStumbler</A>. Slovenský článek rovněž <A href="http://www.sme.sk/clanok.asp?cl=1172176" target=_blank>na SME</A>. </p>
 

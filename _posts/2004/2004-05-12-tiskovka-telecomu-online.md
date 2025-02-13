@@ -1,14 +1,21 @@
 ---
 ID: 1029
-title: 'Tiskovka Telecomu online&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tiskovka-telecomu-online
-published: true
+oldlink: 'https://www.marigold.cz/item/tiskovka-telecomu-online
+
+  '
 post_date: 2004-05-12 08:28:00
+post_excerpt: ''
+published: true
+summary_points:
+- Telecom tisková konference živě na live.atlas.cz dnes v 11:30.
+- M. Zeman z Lupy kritizuje zpoplatnění WiFi od Telecomu.
+- Telecom instaluje WiFi hotspoty i do provozoven Paneria.
+- Autor navrhuje streamovat tiskové konference jen se zvukem.
+title: Tiskovka Telecomu online&#8230;
 ---
+
 <p>
 Dneska je <STRONG>tisková konference Telecomu, má být živě přenášena </STRONG><A href="http://live.atlas.cz/" target=_blank><STRONG>na live.atlas.cz</STRONG></A><STRONG> v 11:30</STRONG>&#160;- takže ji tam můžete sledovat, já si ji hezky pustím na pozadí. Zajímavý námět na přímé přenosy tiskových konferencí - co je takhle streamovat jen se zvukem, bez obrazu? Ušetří se tím pásmo a po pravdě řečeno obrazových informací je tam většinou dost pomálu - navíc v práci si mohu pustit zvuk a na obraz stejně koukat nemůžu, protože musím řádit v Excelu...</p>
 

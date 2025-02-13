@@ -1,14 +1,21 @@
 ---
 ID: 94
-title: 'Někdo u&nbsp;Ty-Mobile myslel, když vymýšlel stránky o&nbsp;GPRS'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nekdo-u-ty-mobile-myslel-kdyz-vymyslel-stranky-o-gprs
-published: true
+oldlink: 'https://www.marigold.cz/item/nekdo-u-ty-mobile-myslel-kdyz-vymyslel-stranky-o-gprs
+
+  '
 post_date: 2003-02-13 21:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- GPRS pro T-Mobile nefungovalo s PCMCIA kartou před cestou do Cannes.
+- T-Mobile web neobsahuje potřebné DNS adresy pro manuální nastavení GPRS.
+- Autor nalezl DNS adresy pro Paegas na starším článku Mobil.cz.
+- Autor zvažuje, zda neměl raději využít Eurotel v Cannes.
+title: Někdo u&nbsp;Ty-Mobile myslel, když vymýšlel stránky o&nbsp;GPRS
 ---
+
 <p>
 Před sobotním odjezdem do Cannes jsem se rozhodl pořádně prověřit notebook, aby na něm chodily věci, které chodit mají a hlavně abych se přes francouzský Orange opravdu v pohodě dostal na internet via GPRS. Při té příležitosti jsem zjistil, že GPRS přes PCMCIA kartu mám rozchozené pouze přes Oskara, se kterýmžto si ve Francii datově nezaroamuji. I jal jsem se nastavovat GPRS pro Paegas, promiňte, Ty-Mobile. </p>
 

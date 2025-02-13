@@ -1,14 +1,21 @@
 ---
 ID: 221
-title: 'Estonsko také bude mít paušál za GPRS a&nbsp;WLAN!'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/estonsko-take-bude-mit-pausal-za-gprs-a-wlan
-published: true
+oldlink: 'https://www.marigold.cz/item/estonsko-take-bude-mit-pausal-za-gprs-a-wlan
+
+  '
 post_date: 2003-04-07 09:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- Radiolinja Eesti zavádí datový paušál pro GPRS a WiFi za 600 Kč měsíčně.
+- V Estonsku je v této službě registrováno 94 WiFi hotspotů.
+- Paušál na data je oblíbená metoda pro naučení zákazníků používat data.
+- T-Mobile má slabou síť pro nasazení datového paušálu v Česku.
+title: Estonsko také bude mít paušál za GPRS a&nbsp;WLAN!
 ---
+
 <p>
 Estonský operátor <STRONG>Radiolinja Eesti</STRONG> (dceřinka finské Radiolinja) ve spolupráci s Vodaphone zavádá paušál na data přes GPRS a také přes WiFi hotspoty. Měsíční poplatek odpovídá 600 Kč - za tento poplatek můžete sosat bez omezení. </p>
 

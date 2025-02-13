@@ -1,14 +1,22 @@
 ---
 ID: 1065
-title: 1. Internetový pravěk
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/1-internetovy-pravek
-published: true
+oldlink: 'https://www.marigold.cz/item/1-internetovy-pravek
+
+  '
 post_date: 2003-02-25 15:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- ARPANET v roce 1963, decentralizovaná síť, vznikla z iniciativy ministerstva obrany
+  USA.
+- NSFNET páteřní síť USA v roce 1986 podpořila rozvoj internetu ve vzdělávání.
+- High Performance Computing Act 1991 v USA vedl ke komercializaci internetu.
+- Od roku 1993 se internet v USA rozvíjel komerčně i akademicky.
+title: 1. Internetový pravěk
 ---
+
 Začátky internetu v USA od sítí ARPANet po skutečný rozvoj komerčního internetu.<!--more-->Oficiální a dnes již dobře zmapovaná historie světového internetu klade počátek internetu do roku 1963, kdy vzniká síť <STRONG>ARPANET</STRONG>, experimentáulní projekt agentury ministerstva obrany USA DARPA <EM>(U.S. Department of Defense Advanced Research Project Agency)</EM>. Projekt vznikající v době studené války a očekávání války jaderné měl před sebou základní úkol: vytvořit počítačovou síť se striktně decentralizovanou strukturou, kde výpadek jedné části sítě může ihned nahradit část jiná. 
 <p>
 Tento požadavek se ukázal být jednou z hlavních příčin budoucího úspěchu sítě. Stejně snadno, jak mohly části sítě nahrazovat poškozené části, bylo možno bez problémů do sítě připojovat další nové sítě nebo systémy. 

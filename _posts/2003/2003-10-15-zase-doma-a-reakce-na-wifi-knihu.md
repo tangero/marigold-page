@@ -1,14 +1,21 @@
 ---
 ID: 585
-title: 'Zase doma a&nbsp;Reakce na WiFi knihu&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zase-doma-a-reakce-na-wifi-knihu
-published: true
+oldlink: 'https://www.marigold.cz/item/zase-doma-a-reakce-na-wifi-knihu
+
+  '
 post_date: 2003-10-15 11:08:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor se vrátil z Ženevy a chystá se pracovat a publikovat články.
+- WiFi kniha získala ohlas na Pavlově zápisníku, autor reaguje na recenzi.
+- Výpočet přenosové trasy je důležitý, ale WiFi má omezené možnosti.
+- Konfigurace Linksys routeru v knize je praktický příklad nastavení.
+title: Zase doma a&nbsp;Reakce na WiFi knihu&#8230;
 ---
+
 <p>
 Tak jsme se dokodrcali z Ženevy domů, přes zapráskané německé dálnice a švýcarské nehodové štrůdly. Jsem mrtev, jdu se snažit vykazovat nějakou práci do Cinetiku, poslal jsem dva člány do Mafry, jeden už visí, druhý přijde na Palmare.cz snad zítra a je o Samsungách s PalmOS. Materiálu mám na dvacet dalších, chuť na žádný, takže jde o to, zda zvítězí moje nechuť nebo Trndova a Vrecova vemlouvavost. </p>
 

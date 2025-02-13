@@ -1,14 +1,21 @@
 ---
 ID: 758
-title: 'Mobilita v&nbsp;bezdrátových sítích, aneb 802.16e versus 802.20'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilita-v-bezdratovych-sitich-aneb-802-16e-versus-802-20
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilita-v-bezdratovych-sitich-aneb-802-16e-versus-802-20
+
+  '
 post_date: 2003-12-23 10:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Článek na Lupě řeší mobilitu v bezdrátových sítích (802.16e vs. 802.20).
+- Autor pochybuje o využití mobilní WLAN kvůli nedostatečnému pokrytí a integraci.
+- MobileIP považuje autor za lepší řešení než tlačení bezdrátových sítí na mobilní.
+- Mobilita v bezdrátových sítích nemá technické ani obchodní opodstatnění, radí autor.
+title: Mobilita v&nbsp;bezdrátových sítích, aneb 802.16e versus 802.20
 ---
+
 <p>
 Pod názvem <A href="http://www.lupa.cz/clanek.php3?show=3156" target=_blank>Mobilita v bezdrátových sítích, aneb 802.16e versus 802.20</A> vyšel na Lupě článek Rity Pužmanové věnovaný problémům s mobilitou v bezdrátových sítích. Článek je zajímavý, věnuje se nejrůznějším záměrům a návrhům, jak dostat mobilitu do bezdrátových sítí. Na závěr je dokonce malá anketka, která z technologií pro mobilitu WLAN zvítězí: Roaming mezi mobilními sítěmi (GPRS/3G) a WLAN, MBWA podle 802.20. nebo Metropolitní bezdrátová komunikace podle 802.16a/e. </p>
 

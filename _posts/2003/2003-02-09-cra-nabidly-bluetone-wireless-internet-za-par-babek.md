@@ -1,14 +1,21 @@
 ---
 ID: 81
-title: 'ČRa nabídly BlueTone Wireless internet za pár babek&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cra-nabidly-bluetone-wireless-internet-za-par-babek
-published: true
+oldlink: 'https://www.marigold.cz/item/cra-nabidly-bluetone-wireless-internet-za-par-babek
+
+  '
 post_date: 2003-02-09 08:42:00
+post_excerpt: ''
+published: true
+summary_points:
+- České Radiokomunikace nabízí WiFi internet BlueTone Wireless za necelou tisícikorunu.
+- ČRa konkuruje Contactelu, své dceřiné společnosti, což je dle autora nesmyslné.
+- Web ČRa má problémy s funkčností a zobrazením informací o nabízené službě.
+- Contactel má lepší web a značku, proto by měl nabízet 64 Kbps linku.
+title: ČRa nabídly BlueTone Wireless internet za pár babek&#8230;
 ---
+
 <p>
 České radiokomunikace, které vloni na Invexu vstoupili na pole poskytování internetu pro běžné zákazníky, nabídly službu připojení k internetu přes WiFi - BlueTone Wireless. Za necelou tisícikorunu si můžete pronajmout linku 64 Kbps, služba funguje v západní Praze a v okolí Hradce Králové. Zbytek povídání najdete <A href="http://www.technet.cz/zprava.html?zprava=20992" target=_blank>na Technetu</A>, nic zajímavého podstatného už tam ale není, je tam ale solidní menší diskuse. </p>
 

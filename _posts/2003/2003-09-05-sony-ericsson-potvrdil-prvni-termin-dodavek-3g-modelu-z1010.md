@@ -1,16 +1,23 @@
 ---
 ID: 483
-title: >
-  Sony Ericsson potvrdil první termín
-  dodávek 3G modelu Z1010
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sony-ericsson-potvrdil-prvni-termin-dodavek-3g-modelu-z1010
-published: true
+oldlink: 'https://www.marigold.cz/item/sony-ericsson-potvrdil-prvni-termin-dodavek-3g-modelu-z1010
+
+  '
 post_date: 2003-09-05 14:58:00
+post_excerpt: ''
+published: true
+summary_points:
+- Sony Ericsson Z1010 bude dodáván v lednu 2004.
+- Videokonference jsou hlavní zbraní tohoto 3G telefonu.
+- Dvě videokamery umožňují videohovory a tvorbu MMS.
+- Ericsson potvrdil sériové dodávky 3G telefonů.
+title: 'Sony Ericsson potvrdil první termín dodávek 3G modelu Z1010
+
+  '
 ---
+
 <p>
 Dodávky nových mobilních telefonů <STRONG>Sony Ericsson Z1010</STRONG> se mají rozeběhnout <STRONG>v prvních týdnech ledna roku 2004,</STRONG> ohlásil dnes zástupce společnosti. Nejdůležitější zbraní tohoto telefonu mají být oboustranné videokonference, tedy vlasnost tolik u 3G sítí propagovaná a doposud žádným telefonem nepodporovaná. Ostatně rozchození této funkce byl důvod, proč Sony Ericsson uvedení tohoto telefonu na trh od jeho ohlášení v březnu tak odkládal. </p>
 

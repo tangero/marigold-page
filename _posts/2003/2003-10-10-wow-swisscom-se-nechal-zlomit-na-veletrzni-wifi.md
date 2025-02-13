@@ -1,16 +1,23 @@
 ---
 ID: 570
-title: >
-  Wow, Swisscom se nechal zlomit na
-  veletržní WiFi
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wow-swisscom-se-nechal-zlomit-na-veletrzni-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/wow-swisscom-se-nechal-zlomit-na-veletrzni-wifi
+
+  '
 post_date: 2003-10-10 08:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- Swisscom poskytl autorovi zdarma přístup k WiFi na ženevském Palexpu.
+- Palexpo zasíťované umožní autorovi klidnou práci mimo press centrum.
+- Autor bude od neděle do úterka na Telecom Worldu v Ženevě.
+- Postřehy z Telecom Worldu budou publikovány na Marigold a Mobil.cz.
+title: 'Wow, Swisscom se nechal zlomit na veletržní WiFi
+
+  '
 ---
+
 <p>
 V průběhu týdne jsem na lakonický email od Swisscomu, nabízející mi za 200 franků připojení do WiFi sítě na ženevském Palexpu, kde od neděle poběží veletrh ITU Telecom World, napsal neméně lakonickou odpověď s žádostí o vydání přístupu do WiFi sítě zdarma. </p>
 

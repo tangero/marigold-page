@@ -1,14 +1,21 @@
 ---
 ID: 169
-title: 'Hruškin testoval WiFi Telecomu a&nbsp;moc se mu to nezdálo&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hruskin-testoval-wifi-telecomu-a-moc-se-mu-to-nezdalo
-published: true
+oldlink: 'https://www.marigold.cz/item/hruskin-testoval-wifi-telecomu-a-moc-se-mu-to-nezdalo
+
+  '
 post_date: 2003-03-16 06:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Hruškin testoval WiFi hotspoty Telecomu u Shellu v Praze 9 bez úspěchu.
+- Obsluha Shell pumpy o WiFi hotspotu nic nevěděla.
+- Test WiFi hotspotu před centrálou Telecomu na Žižkově také selhal.
+- Infolinka Telecomu o víkendu nefunguje a známý potvrdil vypnutí WiFi.
+title: Hruškin testoval WiFi Telecomu a&nbsp;moc se mu to nezdálo&#8230;
 ---
+
 <p>
 Domluvili jsme se s Hruškinem alias SF2, že <STRONG>pojede otestovat WiFi hotspoty u Shellu</STRONG>, když už je Telecom tak hezky pustil a když už stejně potřebuje dobrat benzín. Osobně jsem si vzpoměl, jak to dopadlo, když jsem se šel já sám podívat na hotspoty Telecomu dva dny po <EM>"spuštění"</EM> (rozeslaná tisková zpráva) a ono to neběželo, tak jsem se ani netlačil. A tu je, co Hruškin zapsal:</p>
 

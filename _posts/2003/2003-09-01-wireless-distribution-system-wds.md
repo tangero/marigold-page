@@ -1,14 +1,21 @@
 ---
 ID: 469
-title: Wireless Distribution System (WDS)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wireless-distribution-system-wds
-published: true
+oldlink: 'https://www.marigold.cz/item/wireless-distribution-system-wds
+
+  '
 post_date: 2003-09-01 08:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- WDS bezdrátově propojuje přístupové body a sdílí internetové připojení.
+- Apple, Buffalo a Linksys (novější modely) podporují WDS propojení.
+- WDS zařízení běží na stejném kanále, což snižuje přenosovou rychlost.
+- Budoucí WDS systémy pravděpodobně umožní provoz na jiném kanále.
+title: Wireless Distribution System (WDS)
 ---
+
 <p>
 Výborný článek o WDS <A href="http://www.oreillynet.com/pub/a/wireless/2003/08/28/wireless_bridging.html" target=_blank>vyšel na OReily </A>a je od Glenna Fleishmana. Co&#160; je to WDS? Článek o něm <A href="/zacinajicim/wds030609.html">mám už zde</A>, ale přidám další info:</p>
 

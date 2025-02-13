@@ -1,16 +1,23 @@
 ---
 ID: 186
-title: >
-  Nokia přidá WiFi do svých mobilů.
-  Pedagogická fakulta UK má prý WiFi
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-prida-wifi-do-svych-mobilu-pedagogicka-fakulta-uk-ma-pry-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-prida-wifi-do-svych-mobilu-pedagogicka-fakulta-uk-ma-pry-wifi
+
+  '
 post_date: 2003-03-23 10:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Pedagogická fakulta UK v Praze má mít WiFi síť pro studenty.
+- Rozesílání souhrnu zpráv z Marigolda emailem se rozbilo.
+- Nokia integruje WiFi do nových manažerských mobilních telefonů.
+- Nokia plánuje WiFi telefony v betatestech do konce roku.
+title: 'Nokia přidá WiFi do svých mobilů. Pedagogická fakulta UK má prý WiFi
+
+  '
 ---
+
 <p>
 Podle informací M.Kopty má být <STRONG>na Pedagogické fakultě UK v Praze WiFi síť pro studenty</STRONG>. Nemohli jsme to ale vyzkoušet, takže pokud někdo má bližší informace, zda tomu tak opravdu je a kde to všude chodí a za jakých podmínek, něchť se podělí - třeba přidáním komentáře. </p>
 

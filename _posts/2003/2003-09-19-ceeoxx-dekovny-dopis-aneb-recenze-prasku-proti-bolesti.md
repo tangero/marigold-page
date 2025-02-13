@@ -1,14 +1,21 @@
 ---
 ID: 515
-title: 'Ceeoxx: děkovný dopis (aneb recenze prášků proti bolesti)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ceeoxx-dekovny-dopis-aneb-recenze-prasku-proti-bolesti
-published: true
+oldlink: 'https://www.marigold.cz/item/ceeoxx-dekovny-dopis-aneb-recenze-prasku-proti-bolesti
+
+  '
 post_date: 2003-09-19 09:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Samurajské heslo o bolesti platilo autorovi do návštěvy zubaře.
+- Zubařovo "reagovat" značí bolestivou reakci na zásah do zubního nervu.
+- Ceeoxx je nový, účinný lék proti bolesti, ale je drahý a hůře dostupný.
+- Autor je s účinkem léku Ceeoxx natolik spokojen, že by výrobci poslal děkovný dopis.
+title: 'Ceeoxx: děkovný dopis (aneb recenze prášků proti bolesti)'
 ---
+
 <p>
 Vždy jsem o bolesti soudil toliko, co stanovuje samurajské heslo: bolest je výsada samuraje umožňující mu uvědomit si vlastní bytí. S tímto heslem jsem&#160;i vydržel nějakých devětadvacet let svého života, opovrhujíc dobrodiním léků na utišení bolesti.&#160;Až těsně po svých narozeninách jsem seznal, že samurajská hesla nemusela odrážet realitu návštěvy zubaře a čištění zubních kanálků, protože v té době obnášel&#160;zubař totéž, co dostat kladivem do huby, tedy situaci samuraji známou a zvládnutelnou. </p>
 

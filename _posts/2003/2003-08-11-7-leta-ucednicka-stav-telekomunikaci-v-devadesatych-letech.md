@@ -1,14 +1,21 @@
 ---
 ID: 1076
-title: '7. Léta učednická &#8211; Stav telekomunikací v&nbsp;devadesátých letech'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/7-leta-ucednicka-stav-telekomunikaci-v-devadesatych-letech
-published: true
+oldlink: 'https://www.marigold.cz/item/7-leta-ucednicka-stav-telekomunikaci-v-devadesatych-letech
+
+  '
 post_date: 2003-08-11 17:27:00
+post_excerpt: ''
+published: true
+summary_points:
+- České telekomunikace v 90. letech zaostávaly za světem kvůli státní politice.
+- SPT Telecom měl monopol na telefonní a datové sítě garantovaný státem.
+- Privatizace Telecomu upřednostnila zahraniční TelSource před českými investory.
+- TelSource se zapletl do korupčních afér a nesplnil očekávané know-how.
+title: 7. Léta učednická &#8211; Stav telekomunikací v&nbsp;devadesátých letech
 ---
+
 Jak vypadaly české telekomunikace v devadesátých letech? Jaké byly předpoklady pro expanzi internetových firem a jaké byly osudy tehdejšího SPT Telecom v první postkomunistické desetiletce?<!--more-->V části věnované akademické síti CESNET a jejím nástupcům již bylo zmíněno, že v určitém okamžiku síť CESNET započla nabízet i služby pro komerční subjekty. Ovšem situace s komerční nabídkou internetu a obecně jakýchkoliv veřejných datových sítí u nás dlouho nebyla vůbec jednoduchá. 
 <p>
 Hlavní roli sehrála neutěšená situace na federální a později české telekomunikační scéně, kdy díky neuvážené státní politice a několika rozhodnutím, jež dnes s odstupem doby nelze hodnotit jinak, než jako nešťastná, nedošlo k rozvoji internetu tak rychle, jako v zemích EU, natož jako v USA. Ztrátu českého internetu na internetu celosvětovém původně řada analytiků odhadovala na řádově čtyři až pět let, nyní převažuje názor, že se ji podařilo stáhnout na&#160;tři roky, v některých odvětvích (například internetová reklama)&#160;snad i na dobu kratší. &#160;

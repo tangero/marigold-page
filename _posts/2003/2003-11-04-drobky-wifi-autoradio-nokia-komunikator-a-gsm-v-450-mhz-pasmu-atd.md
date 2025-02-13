@@ -1,14 +1,22 @@
 ---
 ID: 637
-title: 'Drobky: WiFi autorádio, Nokia komunikátor a&nbsp;GSM v&nbsp;450 MHz pásmu atd&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-wifi-autoradio-nokia-komunikator-a-gsm-v-450-mhz-pasmu-atd
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-wifi-autoradio-nokia-komunikator-a-gsm-v-450-mhz-pasmu-atd
+
+  '
 post_date: 2003-11-04 11:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar GPRS funguje podle dohody autora.
+- Živě píše o autorádiu s WiFi, autor preferuje USB docking station.
+- MobilMania se zamýšlí nad poptávkou po novém komunikátoru Nokia.
+- Nokia ukončuje vývoj GSM v pásmech 450 a 480 MHz dle Mobil.cz.
+title: 'Drobky: WiFi autorádio, Nokia komunikátor a&nbsp;GSM v&nbsp;450 MHz pásmu
+  atd&#8230;'
 ---
+
 <p>
 Málo času, málo chuti, vezmu to telegraficky... GPRS u Oskara mi už chodí jak jsme se s oskárkem dohodli, tak prima. </p>
 

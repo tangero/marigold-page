@@ -1,14 +1,22 @@
 ---
 ID: 71
-title: 'Michael Polák k&nbsp;jednání CzFree InWay'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/michael-polak-k-jednani-czfree-inway
-published: true
+oldlink: 'https://www.marigold.cz/item/michael-polak-k-jednani-czfree-inway
+
+  '
 post_date: 2003-02-03 09:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- Jednání CzFree a InWay zatím nedospěla k závěru, řeší se technické možnosti.
+- CzFree má smlouvy s různými subjekty, například TransgasNet, PragoNet a dalšími.
+- Michal Polák (xChaos) platí Inway za služby a je považován za zákazníka.
+- CzFree nemůže členům nařídit instalaci techniky Inway, garantují jen jednotliví
+  členové.
+title: Michael Polák k&nbsp;jednání CzFree InWay
 ---
+
 <p>
 Michale Polák (xChaos) zaslal následující poznámku k jednání mezi CzFree a InWay: </p>
 

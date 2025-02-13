@@ -1,14 +1,21 @@
 ---
 ID: 490
-title: 'Ještě jednou k&nbsp;focení a&nbsp;k&nbsp;ochrankám'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jeste-jednou-k-foceni-a-k-ochrankam
-published: true
+oldlink: 'https://www.marigold.cz/item/jeste-jednou-k-foceni-a-k-ochrankam
+
+  '
 post_date: 2003-09-08 09:08:00
+post_excerpt: ''
+published: true
+summary_points:
+- Focení v zakázaných prostorech je pro autora důležité, děje se běžně.
+- Incident DarkMastera a Kostěje rozdělil názory na provokaci a práva ochranky.
+- Zákon nezakazuje focení v hypermarketech, ale v soukromých objektech ano.
+- Veřejně přístupné objekty nemohou omezit focení, stejně jako jiná lidská práva.
+title: Ještě jednou k&nbsp;focení a&nbsp;k&nbsp;ochrankám
 ---
+
 <p>
 Focení v prostorech, kde si majitel myslí, že se fotit nebude, je pro mne důležité, protože kupříkladu všechny fotky na CeBITu a na mnoha jiných akcích se dělají v prostorách, kde někdo vyvěsil zákaz focení. A tak se ještě jednou vrátím k incidentu DarkMastera a Kostěje na Novém Smíchově u Carrefouru.</p>
 

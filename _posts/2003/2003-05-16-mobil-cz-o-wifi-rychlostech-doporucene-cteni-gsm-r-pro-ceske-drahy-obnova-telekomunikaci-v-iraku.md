@@ -1,14 +1,22 @@
 ---
 ID: 297
-title: 'Mobil.cz o&nbsp;WiFi rychlostech, doporučené čtení. GSM-R pro České dráhy. Obnova telekomunikací v&nbsp;Iráku'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobil-cz-o-wifi-rychlostech-doporucene-cteni-gsm-r-pro-ceske-drahy-obnova-telekomunikaci-v-iraku
-published: true
+oldlink: 'https://www.marigold.cz/item/mobil-cz-o-wifi-rychlostech-doporucene-cteni-gsm-r-pro-ceske-drahy-obnova-telekomunikaci-v-iraku
+
+  '
 post_date: 2003-05-16 08:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nachtmannův článek na Mobil.cz kompaktně probírá WiFi modulace OFDM, PBCC a DSSS.
+- České dráhy do 25. května vyberou dodavatele GSM-R řešení pro komunikaci vlak-dispečink.
+- Iráckou telekomunikační infrastrukturu obnoví WorldCom za 45 milionů USD.
+- V Iráku bude zřejmě nasazen standard GSM pro mobilní síť.
+title: Mobil.cz o&nbsp;WiFi rychlostech, doporučené čtení. GSM-R pro České dráhy.
+  Obnova telekomunikací v&nbsp;Iráku
 ---
+
 <p>
 Na Mobil.cz napsal Petr Nachtmann článek <A href="http://www.mobil.cz/mobilni_komunikace/wifi/pastpbcc030512.html" target=_blank>Nesprávný výběr zařízení pro Wi-Fi vás může zavést do pasti</A>. <STRONG>Hezky&#160;tam probírá modulace používané ve WiFi,</STRONG> jako OFDM, PBCC a DSSS, jestli o nich chcete něco rychlého a kompaktního vědět, doporučuji to přečíst. &#160;</p>
 

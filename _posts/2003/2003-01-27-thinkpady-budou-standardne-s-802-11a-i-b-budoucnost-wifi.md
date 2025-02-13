@@ -1,14 +1,21 @@
 ---
 ID: 64
-title: 'ThinkPady budou standardně s&nbsp;802.11a i&nbsp;b, budoucnost WiFi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/thinkpady-budou-standardne-s-802-11a-i-b-budoucnost-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/thinkpady-budou-standardne-s-802-11a-i-b-budoucnost-wifi
+
+  '
 post_date: 2003-01-27 08:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- ThinkPady R40 budou standardně vybaveny čipem pro WiFi 802.11 a/b.
+- ZD News publikoval článek o budoucnosti WiFi, zejména standardu 802.11g.
+- Článek o WiFi zmiňuje dual-mode karty a propustnost b/g sítí.
+- Budoucnost WiFi 802.11a je v kancelářích, 802.11g v domácím multimédiu.
+title: ThinkPady budou standardně s&nbsp;802.11a i&nbsp;b, budoucnost WiFi
 ---
+
 <p>
 IBM se také rozhodlo přidat se k sílícímu trendu tlačení WiFi do notebooků a tak ohlásilo, že do jeho nových <STRONG>ThinkPadů přijde standardně čip pro 802.11 a i b</STRONG> síť. Firemní uživatelé to jistě ocení. Prvními takovými notebooky se stane R40. Více <A href="http://rss.com.com/2100-1001-982108.html?type=pt&amp;part=rss&amp;tag=feed&amp;subj=news" target=_blank>na CNetu</A>.</p>
 

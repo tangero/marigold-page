@@ -1,14 +1,21 @@
 ---
 ID: 325
-title: 'GPRS za paušál &#8211; kdo ho má?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/gprs-za-pausal-kdo-ho-ma
-published: true
+oldlink: 'https://www.marigold.cz/item/gprs-za-pausal-kdo-ho-ma
+
+  '
 post_date: 2003-05-28 23:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- Paušální GPRS data jsou výjimečná, operátoři nabízejí paušály hlavně pro WAP s limitem.
+- Vodafone Maďarsko nabízí datový paušál za 400 Kč, USA má dražší možnosti.
+- Verizon USA nabízí datový paušál za 100 USD, Nextel za 55 USD s nižší rychlostí.
+- ITU článek popisuje způsoby účtování v mobilních sítích a jejich nástrahy.
+title: GPRS za paušál &#8211; kdo ho má?
 ---
+
 <p>
 Díval jsem se do světa, kdo kde provozuje GPRS za paušální měsíční poplatek. Ukázalo se, že je to velmi výjimečný zjev. Většina operátorů nabízí GPRS za paušální poplatek, pokud vůbec, pak pouze pro WAPové stránky, často to bylo jen v rámci nějaké promo akce a je zde takzvaný cap 10 MB, tedy desetimegový limit. </p>
 

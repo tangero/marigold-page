@@ -1,14 +1,21 @@
 ---
 ID: 526
-title: 'WiFi kniha a&nbsp;zápletka v&nbsp;Tescu ohledně plechovek od párků&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-kniha-a-zapletka-v-tescu-ohledne-plechovek-od-parku
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-kniha-a-zapletka-v-tescu-ohledne-plechovek-od-parku
+
+  '
 post_date: 2003-09-23 11:28:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor lituje úprav v knize o WiFi, která je již v tisku.
+- Autor chtěl ověřit vhodnost plechovky od párků pro WiFi anténu.
+- V Tescu měřil plechovky s metrem a vzorci, což vzbudilo podezření.
+- Kniha neobsahuje konkrétní doporučení na plechovku kvůli této příhodě.
+title: WiFi kniha a&nbsp;zápletka v&nbsp;Tescu ohledně plechovek od párků&#8230;
 ---
+
 <p>
 Naposledy jsem četl text knihy o WiFi, ačkoliv už je někde v tiskárně a bylo to zbytečné. Jako vždy jsem tam našel spoustu míst, která bych ještě upravil, rozvedl, dopsal; jenže to bych knihu nikdy nedodělal a tak si všechno píšu pro případné druhé vydání. </p>
 

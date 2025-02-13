@@ -1,14 +1,21 @@
 ---
 ID: 494
-title: 'Oskar ohlásil za týden 10&nbsp;000 uživatelů MMS'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oskar-ohlasil-za-tyden-10-000-uzivatelu-mms
-published: true
+oldlink: 'https://www.marigold.cz/item/oskar-ohlasil-za-tyden-10-000-uzivatelu-mms
+
+  '
 post_date: 2003-09-10 08:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar aktivoval 10 000 MMS uživatelů během týdne po spuštění služby.
+- Balíčky MMS zdarma a načasování spuštění služby přispěly k úspěchu Oskara.
+- Oskar spustil MMS rok po konkurenci, což vedlo k akumulované poptávce.
+- Eurotel má 60 000 MMS uživatelů, T-Mobile 50 000, Oskar bude růst.
+title: Oskar ohlásil za týden 10&nbsp;000 uživatelů MMS
 ---
+
 <p>
 Včera vyšla zpráva, že Oskar aktivoval 9500 uživatelů MMS zpráv, do do večera číslo (už podle neofic informací) vystoupalo přes 10 000. Oskaru se tak podařil hezký nástup jeho MMS služby, když se k deseti tisícům uživatelů dostal za jediný týden. Původně očekával 12 tisíc do konce roku. </p>
 

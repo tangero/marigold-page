@@ -1,14 +1,21 @@
 ---
 ID: 633
-title: 'Křišťály stínů &#8211; vlastně literární prvotina'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kristaly-stinu-vlastne-literarni-prvotina
-published: true
+oldlink: 'https://www.marigold.cz/item/kristaly-stinu-vlastne-literarni-prvotina
+
+  '
 post_date: 2003-11-02 11:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor našel na ZIPce svou první, nedokončenou knihu Křišťály stínů z roku 1990.
+- Křišťály stínů měly být eposem podobným Zaklínači, včetně autorského manuálu a slovníku.
+- Autor knihu nedokončil kvůli jazykovým chybám a plánuje ji dopsat za 30-40 let.
+- Úvod Křišťálů stínů a další povídky budou zveřejněny na autorově webu Marigold.
+title: Křišťály stínů &#8211; vlastně literární prvotina
 ---
+
 <p>
 Nedávno jsem procházel zálohy na ZIPkách a našel jsem svoji úplně první knihu. Tedy abyste rozuměli, kdysi dávno, ještě v dětství, jsem chtěl být spisovatelem a psát knihy. A tak mám doma hromadu rozepsaných knih, které se na něčem zadrhly <EM>(zkrachoval nakladatel, nakladatel nikdy neexistoval, psal jsem to jen do šuplíku, nakladatel vydal tři kusy = byl jsem to já atd).</EM> </p>
 

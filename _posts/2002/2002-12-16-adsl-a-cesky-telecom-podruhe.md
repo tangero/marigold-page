@@ -1,14 +1,21 @@
 ---
 ID: 15
-title: 'ADSL a&nbsp;Český Telecom podruhé'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/adsl-a-cesky-telecom-podruhe
-published: true
+oldlink: 'https://www.marigold.cz/item/adsl-a-cesky-telecom-podruhe
+
+  '
 post_date: 2002-12-16 11:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- ADSL nabídka Českého Telecomu bude pravděpodobně platná od 1.2.2003 pro celou ČR.
+- Kbps ADSL linka od Telecomu by měla stát do 1300 Kč bez DPH.
+- UPC se obává nástupu ADSL kvůli konkurenční ceně a rychlosti Telecomu.
+- ADSL umožní levnější a rychlejší internet pro komunitní WiFi sítě.
+title: ADSL a&nbsp;Český Telecom podruhé
 ---
+
 <p>
 Dneska <STRONG>Technet</STRONG> <A href="http://www.technet.cz/novinky/internetnews/spusteniadsl_021216.html" target=_blank>publikoval článek věnovaný ADSL </A>- a tak jsem si updatoval přehled o tom, co se ohledně ADSL v Českém Telecomu děje, abych vás mohl poinformovat o věcech, které v článku nebyly, protože je autor nevěděl. Je už téměř jisté, že nová nabídka ADSL od Českého Telecomu bude platná od 1.2.2003&#160;a to pravděpodobně pro celou ČR, ne jen pro ta pilotní města, jak tomu bylo dříve. </p>
 

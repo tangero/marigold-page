@@ -1,14 +1,21 @@
 ---
 ID: 621
-title: Už je to tady, stěhuju se na Oskara
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/uz-je-to-tady-stehuju-se-na-oskara
-published: true
+oldlink: 'https://www.marigold.cz/item/uz-je-to-tady-stehuju-se-na-oskara
+
+  '
 post_date: 2003-10-29 15:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar aktivován kvůli otravným hovorům a změně telefonního čísla.
+- SIM karta Oskara aktivována, vložena do staré Nokie bez GPRS.
+- Klid po změně čísla, SMS za korunu, problém se signálem v IKEA.
+- Bořík aktivoval Oskara inspirován autorem, akcie TIW bez souvislosti.
+title: Už je to tady, stěhuju se na Oskara
 ---
+
 <p>
 Tak jsem vyhodnotil všechna pro a proti a nakonec to dopadlo tak, že jsem si aktivoval Oskara. Rozhodl jsem se využít příležitosti a řádně změnit své číslo tak, abych konečně vypadl z telefonních seznamů spousty lidí, kteří neváhají mi volat s nějakou děsivou otázkou v neděli v devět hodin večer, kdy se chci dívat na Monka a rozhodně ne jim radit, jak mají něco instalovat. </p>
 

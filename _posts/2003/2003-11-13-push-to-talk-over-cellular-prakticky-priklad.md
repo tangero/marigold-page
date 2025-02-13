@@ -1,14 +1,21 @@
 ---
 ID: 665
-title: 'Push to talk over Cellular &#8211; praktický příklad :)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/push-to-talk-over-cellular-prakticky-priklad
-published: true
+oldlink: 'https://www.marigold.cz/item/push-to-talk-over-cellular-prakticky-priklad
+
+  '
 post_date: 2003-11-13 08:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- Článek na MobilManii popisuje technologii Push to Talk over Cellular (PoC).
+- Čtenář v diskusi humorně poukazuje na možné problémy s PoC v praxi.
+- Scénka ilustruje zmatek a neefektivitu způsobenou zpožděním a souběžnými hovory.
+- Autor článku viděl PoC naživo a upozorňuje na zpoždění a řešení souběžných hovorů.
+title: Push to talk over Cellular &#8211; praktický příklad :)
 ---
+
 <p>
 Na MobilManii <A href="http://www.mobilmania.cz/Mobilnitelefony/AR.asp?ARI=105760&amp;CAI=2103" target=_blank>vyšel článek</A> věnovaný technologii Push to Talk over Cellular. Marek Lutonský se snažil přiblížit výklad a výhody technologie čtenářům a popsal tu takovou malou možnou scénku z hotelu. </p>
 

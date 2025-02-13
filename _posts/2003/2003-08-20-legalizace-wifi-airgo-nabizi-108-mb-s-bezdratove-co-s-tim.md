@@ -1,14 +1,23 @@
 ---
 ID: 448
-title: 'Legalizace WiFi :), Airgo nabízí 108 Mb/s bezdrátově &#8211; co s&nbsp;tím?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/legalizace-wifi-airgo-nabizi-108-mb-s-bezdratove-co-s-tim
-published: true
+oldlink: 'https://www.marigold.cz/item/legalizace-wifi-airgo-nabizi-108-mb-s-bezdratove-co-s-tim
+
+  '
 post_date: 2003-08-20 08:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Filipíny legalizovaly WiFi, venkovní použití vyžaduje licenci, vnitřní registrační
+  poplatek.
+- Airgo vyvinulo čipset pro bezdrátový přenos 108 Mb/s s větší vzdáleností.
+- Airgo používá technologii MIMO se šesti anténami a třemi kanály pro robustnější
+  vysílání.
+- Airgo potřebuje zajistit použitelnost, kompatibilitu s WiFi a široké rozšíření produktu.
+title: Legalizace WiFi :), Airgo nabízí 108 Mb/s bezdrátově &#8211; co s&nbsp;tím?
 ---
+
 <p>
 Vždycky, když si chcete zanadávat, jaké jsou u nás problémy, je dobré podívat se, jaké problémy mají jinde. Kupříkladu <STRONG>na Filipínách bylo doposud používání WiFi nelegální</STRONG>. Tento týden se s velkou slávou legalizovalo. Pro venkovní použití si musíte udělat licenci, pro vnitřní pak stačí zaplatit registrační poplatek cca. 10 USD. Zda se při udílění licence zkoumá, zda umíte morzeovku, ovšem netuším. Zdroj: <A href="http://techdirt.com/news/wireless/article/2464" target=_blank>TechDirt</A>.</p>
 

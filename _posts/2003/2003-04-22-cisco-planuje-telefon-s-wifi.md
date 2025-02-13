@@ -1,14 +1,22 @@
 ---
 ID: 248
-title: 'Cisco plánuje telefon s&nbsp;WiFi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cisco-planuje-telefon-s-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/cisco-planuje-telefon-s-wifi
+
+  '
 post_date: 2003-04-22 16:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- Cisco vyrobí VoIP telefon 7920 s WiFi, alternativu k ethernetovému modelu 7960.
+- SpectraLink nabízí podobný WiFi telefon pro internetovou telefonii vyžadující VoIP
+  server.
+- WiFi telefony postrádají QoS, což může ovlivnit kvalitu VoIP hovorů.
+- WiFi dosah je omezený, takže přetížení sítě několika uživateli nehrozí.
+title: Cisco plánuje telefon s&nbsp;WiFi
 ---
+
 <p>
 Další telefon dostane WiFi podporu a bude ho vyrábět přímo <STRONG>Cisco</STRONG>. Ale netěšte se - v tomto případě jde o zařízení pro Voice over IP, kde místo ethernetového konektoru bude síťové připojení obstarávat WiFi. Model 7920 tak v Cisco produktové řadě doplní VoIP zařízení 7960, které používá ethernetovou přípojku. Je to jednoduše a prostě určené pro telefonování po internetu... <EM>Zdroj: </EM><A href="http://www.silicon.com/news/148/1/3828.html" target=_blank><EM>Silicon News</EM></A>.</p>
 

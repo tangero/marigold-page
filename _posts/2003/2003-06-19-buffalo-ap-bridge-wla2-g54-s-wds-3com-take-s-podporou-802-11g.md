@@ -1,14 +1,23 @@
 ---
 ID: 379
-title: 'Buffalo AP/bridge WLA2-G54 s&nbsp;WDS, 3Com také s&nbsp;podporou 802.11g'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/buffalo-ap-bridge-wla2-g54-s-wds-3com-take-s-podporou-802-11g
-published: true
+oldlink: 'https://www.marigold.cz/item/buffalo-ap-bridge-wla2-g54-s-wds-3com-take-s-podporou-802-11g
+
+  '
 post_date: 2003-06-19 09:56:00
+post_excerpt: ''
+published: true
+summary_points:
+- Buffalo WLA2-G54 je přístupový bod/most podporující 802.11g a WDS pro propojení
+  AP.
+- Com představil OfficeConnect Wireless 11g s 256bitovým šifrováním a čipsety Intersil
+  PRISM GT.
+- Buffalo WLA2-G54 bude v USA dostupný od července za 149 USD.
+- Com OfficeConnect 11g nepodporuje point-to-point/multipoint režimy, pouze AP/klient.
+title: Buffalo AP/bridge WLA2-G54 s&nbsp;WDS, 3Com také s&nbsp;podporou 802.11g
 ---
+
 <p>
 <STRONG>Buffalo </STRONG>představilo svůj nový <STRONG>přístupový bod kombinovaný s mostem pod názvem WLA2-G54</STRONG>. Jak už název napovídá, zařízení <STRONG>podporuje 802.11g</STRONG> - a co je dále zajímavé, podporuje i <STRONG>WDS</STRONG> pro bezdrátové propojení mezi jednotlivýmí přistupovými body. Zařízení se tak může propojit s dalšími šesti zařízeními a vytvořit tak souvislé pokrytí WiFi signálem. Díky podpoře 802.11g ani nebude úbytek rychlosti příliš patrný. Podpora WPA, šifra 128 bitů, 802.11x a další běžné věci jako MAC filtrace. K dostání v USA od července za 149 USD, u nás cena zatím neznáma.<EM> Zdroj: </EM><A href="http://www.buffalotech.com/wireless/news/releases/2003-06-18.html" target=_blank><EM>TZ Buffalo</EM></A><EM>.</EM></p>
 

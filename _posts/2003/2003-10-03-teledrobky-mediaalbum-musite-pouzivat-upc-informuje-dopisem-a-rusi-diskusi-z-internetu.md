@@ -1,14 +1,22 @@
 ---
 ID: 553
-title: 'Teledrobky: MediaAlbum musíte používat, UPC informuje dopisem a&nbsp;ruší diskusi z&nbsp;internetu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/teledrobky-mediaalbum-musite-pouzivat-upc-informuje-dopisem-a-rusi-diskusi-z-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/teledrobky-mediaalbum-musite-pouzivat-upc-informuje-dopisem-a-rusi-diskusi-z-internetu
+
+  '
 post_date: 2003-10-03 10:03:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile zruší MediaAlbum po 30 dnech neaktivity v T-Zones.
+- UPC informovalo dopisem o zvýšení rychlosti internetu Chella.
+- UPC zrušilo dostupnost diskusního fóra Mistrál z internetu.
+- MMS ze Švýcarska bude stát 10 Kč dle infolinky T-Mobile.
+title: 'Teledrobky: MediaAlbum musíte používat, UPC informuje dopisem a&nbsp;ruší
+  diskusi z&nbsp;internetu'
 ---
+
 <p>
 Včera mi přišla SMS zpráva od T-Mobile informující mne o tom, že <STRONG>pokud více jak třicet dní nepoužívám službu MediaAlbum v T-Zones, bude mi služba zrušena</STRONG>. To jsem nějak původně přehlédl. Navíc skončila platnost ceny MMS zpráv za 2 Kč a na infolince mi řekli, že cena ze Švýcarska bude také 10 Kč, tak to jsem zvědav, jestli na účtárně nebudou jiného názoru. </p>
 

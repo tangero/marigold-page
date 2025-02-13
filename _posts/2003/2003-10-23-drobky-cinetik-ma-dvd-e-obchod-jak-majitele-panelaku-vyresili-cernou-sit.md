@@ -1,14 +1,21 @@
 ---
 ID: 605
-title: 'Drobky: Cinetik má DVD e-obchod, jak majitelé paneláku vyřešili černou síť'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-cinetik-ma-dvd-e-obchod-jak-majitele-panelaku-vyresili-cernou-sit
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-cinetik-ma-dvd-e-obchod-jak-majitele-panelaku-vyresili-cernou-sit
+
+  '
 post_date: 2003-10-23 11:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- Krušné hory navštíveny, autor v polobotkách prošel tři hrady.
+- Cinetik testuje internetový obchod s DVD, například Matrix Reloaded.
+- Catman.us popisuje případ neoprávněné instalace síťového připojení na domě.
+- Slovenský diskutující odsuzoval majitele domu za odříznutí sítě.
+title: 'Drobky: Cinetik má DVD e-obchod, jak majitelé paneláku vyřešili černou síť'
 ---
+
 <p>
 Včera jsem byl celý den u Kliďase na hradě, <STRONG>potulovali jsme se v Krušných horách</STRONG>. Zatímco na Hauenštejně bylo jen hnusně, na vrcholcích kopců hustě chumelilo a já jsem se tam špacíroval v polobotkách, protože kanady do terénu jsem omylem do auta při odjezdu nedal. I tak to bylo prima, projít si tři hrady za jeden (a ještě pracovní) den. </p>
 

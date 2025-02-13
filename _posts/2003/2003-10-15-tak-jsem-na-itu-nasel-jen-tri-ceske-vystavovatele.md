@@ -1,16 +1,23 @@
 ---
 ID: 588
-title: >
-  Tak jsem na ITU našel jen tři české
-  vystavovatele
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-jsem-na-itu-nasel-jen-tri-ceske-vystavovatele
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-jsem-na-itu-nasel-jen-tri-ceske-vystavovatele
+
+  '
 post_date: 2003-10-15 18:35:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ženevského výstaviště se účastnily české firmy Strom Telecom, FDH a 2N.
+- Česká účast na výstavě byla malá oproti jiným státům s národními stánky.
+- Autor se ptá, zda ČR nemá konkurenceschopné produkty pro mezinárodní trh.
+- Jablotron, Vanco.Net a Ronja by mohly být potenciálními vystavovateli.
+title: 'Tak jsem na ITU našel jen tři české vystavovatele
+
+  '
 ---
+
 <p>
 Snažil jsem se najít v katalogu vystavovatelů na na ženevském výstavišti přímo i v reálu nějaké české výstavovatele. Oproti řoku 1999 jejich řady prořídly, byl tu Strom Telecom s docela slušným stánkem, to je firma zabývající se stavbou sítí, pak firma FDH zabývající se výstavbou mobilních sítí a prodejem použitých síťových prvků (to fakt existuje, prostě si koupíte BTS z druhé ruky) a pak maličká stánek firmy 2N. Tím česká účast zhasla. </p>
 

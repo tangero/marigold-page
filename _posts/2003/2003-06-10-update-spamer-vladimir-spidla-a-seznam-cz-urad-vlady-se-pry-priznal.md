@@ -1,14 +1,22 @@
 ---
 ID: 355
-title: 'Update: Spamer Vladimír Špidla a&nbsp;Seznam.cz &#8211; Úřad vlády se prý přiznal&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/update-spamer-vladimir-spidla-a-seznam-cz-urad-vlady-se-pry-priznal
-published: true
+oldlink: 'https://www.marigold.cz/item/update-spamer-vladimir-spidla-a-seznam-cz-urad-vlady-se-pry-priznal
+
+  '
 post_date: 2003-06-10 08:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- Seznam a T.T.V. se omluvily Špidlovi za použití jeho jména v hromadném e-mailu.
+- Úřad vlády si objednal kampaň rozesílání e-mailů přes agenturu.
+- Špidla se distancoval od e-mailů vyzývajících k účasti na referendu o EU.
+- Špidla rozesílal spam a znemožnil odpovědi, schránka spidla.vladimir@seznam.cz neexistuje.
+title: 'Update: Spamer Vladimír Špidla a&nbsp;Seznam.cz &#8211; Úřad vlády se prý
+  přiznal&#8230;'
 ---
+
 <p>
 <STRONG>Update 4: </STRONG>Internetová společnost Seznam.cz a reklamní agentura T.T.V. se dnes odpoledne <STRONG>omluvily premiérovi Vladimíru Špidlovi, že použily jeho jméno k rozesílání hromadného e-mailu</STRONG>. Toliko k tomu <A href="http://digiweb.cz/index.php?p=i00000_d&amp;a[id]=12928270&amp;a[area_id]=10076450" target=_blank><A href="http://digiweb.cz/?s1=i&amp;s2=0&amp;s3=0&amp;s4=0&amp;s5=0&amp;s6=0&amp;m=d&amp;p=i00000_d" target=_blank>DigiWeb</A></A>. Jen bych rád připomenul, že jsem <STRONG>ani na chvíli nepomyslel na to, že dneska ráno premiér Špidla čerstvě v pět hodin ráno, jak je jeho zvykem, vstal, zamyslel se co by dělal a šel spamovat</STRONG> na Seznam. Jistěže takovou věc, kde je premiér osobně podepsán, osobně nikdy nedělá a takovou drobnost asi i jen málokdy schvaluje, to by nic jiného z premiérování neudělal. Od toho má Úřad vlády a od toho na něm má mít lidi, kteří vědí, kde jsou hranice. Úřad vlády je premiérovo zrcadlo a jaký úřad, takový premiér a obráceně. </p>
 

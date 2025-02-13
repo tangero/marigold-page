@@ -1,14 +1,21 @@
 ---
 ID: 495
-title: 'Jak se někteří chovají v&nbsp;etéru: KlFree.Net'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-se-nekteri-chovaji-v-eteru-klfree-net
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-se-nekteri-chovaji-v-eteru-klfree-net
+
+  '
 post_date: 2003-09-10 17:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- Soukromníci provozující WiFi často nedodržují limity vyzařování, na rozdíl od firem.
+- KlFree.Net v Kladně překračuje povolený vyzářený výkon antény, ignoruje nálezy ČTÚ.
+- Problémem je bezohlednost nových ISP, kteří ruší stávající připojení a nedbají předpisů.
+- Řešením je odmontování antény bez povolení a následná konfrontace s provozovatelem.
+title: 'Jak se někteří chovají v&nbsp;etéru: KlFree.Net'
 ---
+
 <p>
 Osobně mám hodně špatné zkušenosti se soukromníky provozujícími WiFi sítě. Zatímco firma si buďto nedovolí překračovat limity vyzařování, nebo na upozornění pochopí a situaci napraví, garážníci a soukromé osoby na to hodně kašlou. Sice často z neznalosti, ale náprava se dovolává velmi špatně. </p>
 

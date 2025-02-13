@@ -1,14 +1,21 @@
 ---
 ID: 489
-title: 'Moje zkušenosti s&nbsp;Nokia 6800'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/moje-zkusenosti-s-nokia-6800
-published: true
+oldlink: 'https://www.marigold.cz/item/moje-zkusenosti-s-nokia-6800
+
+  '
 post_date: 2003-09-08 07:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia 6800 má dobře použitelnou rozkládací klávesnici pro psaní SMS a MMS.
+- Emailový klient v Nokia 6800 je velmi nespolehlivý a často padá.
+- Baterie Nokia 6800 vydrží tři až čtyři dny při intenzivním používání.
+- Nokia 6800 umožňuje doinstalovat další aplikace pomocí Javy.
+title: Moje zkušenosti s&nbsp;Nokia 6800
 ---
+
 <p>
 Před několika týdny jsem přesedlal se Samsungu V200 na Nokia 6800 a protože s telefonem mám několik praktických zkušeností, rozhodl jsem se o ně podělit. </p>
 

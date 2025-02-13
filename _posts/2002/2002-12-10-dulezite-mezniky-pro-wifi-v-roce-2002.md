@@ -1,14 +1,23 @@
 ---
 ID: 1058
-title: 'Důležité mezníky pro WiFi v&nbsp;roce 2002'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dulezite-mezniky-pro-wifi-v-roce-2002
-published: true
+oldlink: 'https://www.marigold.cz/item/dulezite-mezniky-pro-wifi-v-roce-2002
+
+  '
 post_date: 2002-12-10 20:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- přinesl první vážné bezpečnostní problémy WiFi sítí, například zákaz v laboratoři.
+- WiFi aliance standardizovala WiFi Protected Access v říjnu 2002 jako reakci na prolomení
+  WEP.
+- Boingo Wireless spustil službu agregující stovky WiFi hotspotů s jednotným měsíčním
+  účtem.
+- Warchalking, značkování WiFi sítí v terénu, vznikl na jaře 2002 a rychle se rozšířil.
+title: Důležité mezníky pro WiFi v&nbsp;roce 2002
 ---
+
 Co se důležitého stalo v roce 2002 ve světě WiFi, co se stalo na americkém trhu a jak a s jakým zpožděním se to promítne u nás? Kam kráčí WiFi?<!--more-->V novinách <A href="http://seattletimes.nwsource.com/html/businesstechnology/134592327_wifi09.html" target=_blank>The Seattle Times jsem našel hezký článek</A> věnovaný mezníkům WiFi v roce 2002. Sice si ho můžete přečíst na původní adrese, pro jistotu jsem se rozhodl ho ale volně přeložit a trochu aktualizovat pro nás. 
 <p>
 Dlužno dodat, že Česká republika jako vždy (snad s výjimkou tunelování a pofidérnosti ministrů) za USA ve WiFi nějakou dobu zaostává &#8211; to zaostávání v podobě akceptace této technologie odhaduji zhruba na dvanáct měsíců, protože když se na ty mezníky podíváte, můžeme jim přiřadit český protějšek. 

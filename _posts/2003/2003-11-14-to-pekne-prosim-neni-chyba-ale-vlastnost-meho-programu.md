@@ -1,14 +1,22 @@
 ---
 ID: 670
-title: 'To pěkně prosím není chyba, ale vlastnost mého programu&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/to-pekne-prosim-neni-chyba-ale-vlastnost-meho-programu
-published: true
+oldlink: 'https://www.marigold.cz/item/to-pekne-prosim-neni-chyba-ale-vlastnost-meho-programu
+
+  '
 post_date: 2003-11-14 09:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold zobrazuje odkazy na nové články od poslední návštěvy uživatele.
+- Některé odkazy na nové články nemusí fungovat kvůli předgenerování titulní stránky.
+- Problém nastává, protože personalizovaná část zobrazuje odkazy dříve, než se článek
+  vygeneruje.
+- Řešením je zvyknout si na to, nebo manuálně upravit URL adresu článku.
+title: To pěkně prosím není chyba, ale vlastnost mého programu&#8230;
 ---
+
 <p>
 Dostal jsem tento týden několik upozornění na "vlastnost" na Marigoldovi, která je už docela stará. A protože se mi nechce to vysvětlovat jednotlivě, dám to v plen. Jak jste si možná všimli, když přijdete po delší době na marigolda, vypíše se vám na začátek stránky odkazy na nové články, které přibyly od doby poslední návštěvy (pokud máte cookies) - maximálně tuším deset odkazů. Když na něj kliknete, sjedete na stránce na ten článek. Až potud je to fajn, jenže někdy se vám stane, že ten první odkaz <EM>(nebo několik prvních odkazů)</EM> vás na článek nehodí a ten článek tam není. </p>
 

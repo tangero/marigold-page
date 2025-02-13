@@ -1,14 +1,21 @@
 ---
 ID: 210
-title: Faxování na poště není za babku
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/faxovani-na-poste-neni-za-babku
-published: true
+oldlink: 'https://www.marigold.cz/item/faxovani-na-poste-neni-za-babku
+
+  '
 post_date: 2003-03-31 15:01:00
+post_excerpt: ''
+published: true
+summary_points:
+- Fax byl nutný pro zaslání formuláře brokerovi do USA, email nebyl akceptován.
+- Pošta nabízí faxové služby, které autor využil pro odeslání tří stránek.
+- Cena faxu do USA byla 260 Kč za minutu a jednu vteřinu přenosu.
+- Cena faxu je výrazně vyšší než cena odeslání dopisu.
+title: Faxování na poště není za babku
 ---
+
 <p>
 Dovolím si dva povzdechy. Zaprvé jsem potřeboval do USA nafaxovat svému brokerovi nějaký formulář. Americký finančák ho emailem nebere a&#160;manipulovat s&#160;poštou od doby, kdy jsem na obálku napsal emailovou adresu a ta se mi následně vrátila s mnoha otazníky, raději nezkouším. </p>
 

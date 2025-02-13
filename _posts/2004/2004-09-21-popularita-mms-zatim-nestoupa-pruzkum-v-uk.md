@@ -1,14 +1,21 @@
 ---
 ID: 1327
-title: 'Popularita MMS zatím nestoupá (průzkum v&nbsp;UK)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/popularita-mms-zatim-nestoupa-pruzkum-v-uk
-published: true
+oldlink: 'https://www.marigold.cz/item/popularita-mms-zatim-nestoupa-pruzkum-v-uk
+
+  '
 post_date: 2004-09-21 08:34:16
+post_excerpt: ''
+published: true
+summary_points:
+- Continental Research zjistil pokles používání MMS ve Velké Británii.
+- Počet odeslaných MMS zpráv klesl, i přes nárůst fotomobilů.
+- Uživatelé fotomobilů je používají i k jiným účelům než MMS.
+- Problémy s nastavením, velikostí a podporou komplikují používání MMS.
+title: Popularita MMS zatím nestoupá (průzkum v&nbsp;UK)
 ---
+
 <p>
 Společnost <a href="http://www.continentalresearch.com/products/reports/mobile_phone.asp">Continental Research</a> vydala (za 150 liber) svůj podzimní průzkum věnovaný &#8220;Photo messaging ownershipand usage&#8221; - používání MMS zpráv ve Velké Británii. Celkem 36% majitelů fotomobilů nikdy neposlalo MMS zprávu, přičemž vloni to bylo jen 27%. Stejně tak průměrný počet poslaných MMS zpráv klesl z 6,1 na 3,7 zpráv. Přitom v Británii bylo vloni přes 3,5 milionů fotomobilů, zatímco letos stoupl tento počet na 6,1.</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 474
-title: České Radiokomunikace jsou Bluetone
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ceske-radiokomunikace-jsou-bluetone
-published: true
+oldlink: 'https://www.marigold.cz/item/ceske-radiokomunikace-jsou-bluetone
+
+  '
 post_date: 2003-09-02 14:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bluetone je nová obchodní značka Českých Radiokomunikací pro internetové připojení.
+- Bluetone nabízí různé varianty připojení, včetně ADSL, bezdrátu a pevných linek.
+- Web Bluetone nabízí identifikátor služby pro výběr vhodného připojení.
+- ČRa se musí naučit pracovat s masovým trhem zákazníků Bluetone.
+title: České Radiokomunikace jsou Bluetone
 ---
+
 <p>
 Když vloni České Radiokomunikace představovaly své <STRONG>internetové připojení pod názvem Bluetone</STRONG>, nebyl jsem asi sám, kdo přemýšlel, co novým názvem i novou službou sledují. Nyní už je to definitivně jasné, ČRa si zvolily název a logo Bluetone jako svoji obchodní značku. A pod touto značkou spustily také docela masivní reklamní kampaň jak v TV, tak v tisku. Reklama v TV i v Týdnu mi přišla docela vtipná. </p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 484
-title: >
-  KiSS Tech. nabídnou plazmový displej
-  vybavený WiFi
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kiss-tech-nabidnou-plazmovy-displej-vybaveny-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/kiss-tech-nabidnou-plazmovy-displej-vybaveny-wifi
+
+  '
 post_date: 2003-09-05 15:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- KiSS představila 42palcový plazmový displej PD342 s WiFi pro příjem multimédií.
+- Displej PD342 podporuje internetové video, DivX, vestavěné DVD a HDTV kvalitu.
+- KiSS DP-1500s DVD přehrávače mají ethernet, PCMCIA slot a volitelný WiFi adaptér.
+- DP-1500s přehrává CD/MP3, Ogg Vorbis, DivX, XviD, CD-RW, DVD+-RW a internetové rádio.
+title: 'KiSS Tech. nabídnou plazmový displej vybavený WiFi
+
+  '
 ---
+
 <p>
 Na německém veletrhu IFA byly k vidění i další zázraky soužití WiFi a spotřební elektroniky. <IMG height=135 alt="KiSS Plazmový displej s WiFi" src="/wp-content/uploads/kissplazma.jpg" width=148 align=right>Dánská firma KiSS Technology zaměřená hlavně na výrobu DVD přehrávačů a hifi techniky přišla se 42 palcovým plazmovým displejem označeným jako PD342. </p>
 

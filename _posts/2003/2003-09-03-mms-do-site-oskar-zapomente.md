@@ -1,14 +1,21 @@
 ---
 ID: 475
-title: 'MMS do sítě Oskar? Zapomeňte&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mms-do-site-oskar-zapomente
-published: true
+oldlink: 'https://www.marigold.cz/item/mms-do-site-oskar-zapomente
+
+  '
 post_date: 2003-09-03 09:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar spustil MMS, ale odesílání zpráv z Eurotelu a T-Mobile do Oskara nefunguje.
+- T-Mobile a Eurotel infolinky potvrdily, že MMS do Oskara nelze odesílat.
+- T-Zones aplikace hlásila chyby při odesílání MMS do Eurotelu i Oskara.
+- MMS funguje mezi Eurotelem a T-Mobile, a z Oskara ke konkurenci, opačně ne.
+title: MMS do sítě Oskar? Zapomeňte&#8230;
 ---
+
 <p>
 Oskar včera spustil svoji službu MMS zpráv a tak mi napadlo otestovat, když z oskaří sítě MMS doputují do Eurotelu i T-Mobile, jak to bude opačně. </p>
 

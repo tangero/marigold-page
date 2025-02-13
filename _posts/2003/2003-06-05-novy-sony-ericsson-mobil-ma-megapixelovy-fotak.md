@@ -1,16 +1,23 @@
 ---
 ID: 341
-title: >
-  Nový Sony Ericsson mobil má
-  megapixelový foťák
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/novy-sony-ericsson-mobil-ma-megapixelovy-fotak
-published: true
+oldlink: 'https://www.marigold.cz/item/novy-sony-ericsson-mobil-ma-megapixelovy-fotak
+
+  '
 post_date: 2003-06-05 08:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Sony Ericsson SO505i má 1,3 megapixelový fotoaparát a váží 145 gramů.
+- Displej SO505i zobrazuje 262144 barev a má úhlopříčku 2,2 palce.
+- SO505i podporuje i-mode a infračervený port pro datové přenosy.
+- Autor soudí, že pro focení mobilem je potřeba minimálně megapixelový fotoaparát.
+title: 'Nový Sony Ericsson mobil má megapixelový foťák
+
+  '
 ---
+
 <p>
 <IMG height=330 alt="Sony Ericsson SO505i" src="/wp-content/uploads/sonyericsson-so505-2.jpg" width=100 align=right>Nový mobilní telefon z produkce Sony Ericsson se zaměřuje na fotografování a na japonské sítě (zapomeňte na GSM), má vestavěnou kameru s rozlišením 1,3 milionu bodů. To vše ve váze 145 gramů. K tomu samozřejmě plnobarevný displej s 262144 barvami (až dosud bylo maximum 65535 barev!) a s úhlopříčkou 2,2 palce. </p>
 

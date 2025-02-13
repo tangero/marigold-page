@@ -1,14 +1,22 @@
 ---
 ID: 992
-title: 'Neocortex vydal knihu Shelly Brisbin: Wi-fi &#8211; postavte si svou vlastní wi-fi síť'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/neocortex-vydal-knihu-shelly-brisbin-wi-fi-postavte-si-svou-vlastni-wi-fi-sit
-published: true
+oldlink: 'https://www.marigold.cz/item/neocortex-vydal-knihu-shelly-brisbin-wi-fi-postavte-si-svou-vlastni-wi-fi-sit
+
+  '
 post_date: 2004-04-20 08:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- Neocortex vydal překlad knihy Shelly Brisbin o stavbě WiFi sítí.
+- Kniha má 248 stran a stojí 249 Kč, podobně jako autorova kniha.
+- Autor doporučuje nákup přímo u Neocortexu kvůli levnějšímu poštovnému.
+- Kniha obsahuje informace o 802.11a a nastavení Ad-Hoc sítí.
+title: 'Neocortex vydal knihu Shelly Brisbin: Wi-fi &#8211; postavte si svou vlastní
+  wi-fi síť'
 ---
+
 <p>
 <STRONG>Neocortex vydal knihu Shelly Brisbin o stavbě WiFi sítí.</STRONG> Jde o překlad z angličtiny, knihu jsem v angličtině viděl, listoval, ale moc si ji nepamatuji, protože anglických knih o WiFi je hodně a v poličce ji nemám, takže nemohu říci, jak na tom je. Neocortex s vydáním knihy o WiFi koketoval veeeeeelmi dlouho, původně jsem ani já knihu o WiFi nechtěl psát, protože jsem si říkal, že ji Neokortex vydá, nějaké korektury jsem viděl více jak před rokem. Jenže pak se to táhlo a táhlo... </p>
 

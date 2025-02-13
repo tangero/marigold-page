@@ -1,14 +1,21 @@
 ---
 ID: 213
-title: 'Linksys produkty tlačí s&nbsp;cenou dolů nová produktová řada'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-produkty-tlaci-s-cenou-dolu-nova-produktova-rada
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-produkty-tlaci-s-cenou-dolu-nova-produktova-rada
+
+  '
 post_date: 2003-04-01 12:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys snižuje ceny 802.11b produktů kvůli novým 802.11g zařízením.
+- WAP11 zlevnil o 1200 Kč na 7.100 Kč bez DPH.
+- BEFW11S4 zlevnil o 1200 Kč na 7.900 Kč bez DPH.
+- WiFi routery obecně zlevňují, očekává se další pokles cen.
+title: Linksys produkty tlačí s&nbsp;cenou dolů nová produktová řada
 ---
+
 <p>
 Linksys uvádí na trh nové produkty podle 802.11g a tak cena produktů klasického WiFi padá dolů a pokud máte na Linksys zálusk a vystačíte si s 802.11b (zatím není důvod proč nevystačit), můžete nakoupit výhodněji. </p>
 

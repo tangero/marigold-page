@@ -1,14 +1,21 @@
 ---
 ID: 290
-title: 'Kučmáš na odchodu, poptávka po&nbsp;tiskových mluvčích roste&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kucmas-na-odchodu-poptavka-po-tiskovych-mluvcich-roste
-published: true
+oldlink: 'https://www.marigold.cz/item/kucmas-na-odchodu-poptavka-po-tiskovych-mluvcich-roste
+
+  '
 post_date: 2003-05-15 08:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Jan Kučmáš odchází z Eurotelu kvůli nespokojenosti se zaměstnavatelem.
+- Diana Dobalová má nastoupit do Eurotelu na pozici tiskové mluvčí.
+- Oskar hledá nového tiskového mluvčího, Igor Přerovský má moc práce.
+- T-Mobile uvažuje o nové PR agentuře, rozhodnutí je lokální.
+title: Kučmáš na odchodu, poptávka po&nbsp;tiskových mluvčích roste&#8230;
 ---
+
 <p>
 <STRONG>Z Eurotelu odchází Jan Kučmáš</STRONG>, dosavadní tiskový mluvčí. Toliko předběžná info z Eurotelu, zatím bez záruky, oficiální zprávu jsem ještě nenašel. Proč Jan Kučmáš odchází? Inu, prý nebyl s Eurotelem jako zaměstnavatelem příliš spokojen, říká se v Eurotelu. A tak se rozhodl jít do konzultací a dělat nezávislého konzultanta. Mezi tiskovými mluvčími operátorů je to dosti rozšířené...</p>
 

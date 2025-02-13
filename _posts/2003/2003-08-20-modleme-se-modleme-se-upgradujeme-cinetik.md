@@ -1,16 +1,23 @@
 ---
 ID: 449
-title: >
-  Modleme se modleme se, upgradujeme
-  Cinetik
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/modleme-se-modleme-se-upgradujeme-cinetik
-published: true
+oldlink: 'https://www.marigold.cz/item/modleme-se-modleme-se-upgradujeme-cinetik
+
+  '
 post_date: 2003-08-20 14:08:00
+post_excerpt: ''
+published: true
+summary_points:
+- Cinetik odpojil původní stránky a spouští upgrade systému na Fázi2.
+- Fáze2 je kompletně nový systém, který nahrazuje původní Fázi1.
+- Fáze2 přináší CSS design, lepší expedice a automatizaci plateb.
+- Cinetik hledá investora pro DVD business, kontaktujte Boříka.
+title: 'Modleme se modleme se, upgradujeme Cinetik
+
+  '
 ---
+
 <p>
 Tři minuty před jednou hodinou Michal odpojil původní stránky Cinetiku, vytáhnul z databáze poslední nejčerstvější data a dal se do tolik očekávaného upgrade systému Cinetik na to, čemu interně říkáme Fáze2. Na <A href="http://www.cinetik.cz">www.cinetik.cz</A> tak nyní najdete jen omluvu a předpoklad, že se vše rozeběhne ve 20 hodin. A já nemám (skoro, abych nepřeháněl) co dělat, zato Michal se pěkně potí. A tak sem zapíšu, co se vůbec děje :)</p>
 

@@ -1,16 +1,24 @@
 ---
 ID: 720
-title: >
-  Byl jsem na módní přehlídce. Měli
-  tam motorovku!
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/byl-jsem-na-modni-prehlidce-meli-tam-motorovku
-published: true
+oldlink: 'https://www.marigold.cz/item/byl-jsem-na-modni-prehlidce-meli-tam-motorovku
+
+  '
 post_date: 2003-12-05 07:58:00
+post_excerpt: ''
+published: true
+summary_points:
+- Dita pozvala autora na módní přehlídku, což zpočátku podceňoval.
+- Autorův dřívější zážitek z módní přehlídky Kenzo byl pozitivní díky neformálnímu
+  oblečení.
+- Autor se oblékl "slušně", ale Dita ho přirovnala k "teplému ruskému mafiánovi".
+- Přehlídka začala pozdě, obsahovala motorovou pilu a modely připomínaly zboží z tržnice.
+title: 'Byl jsem na módní přehlídce. Měli tam motorovku!
+
+  '
 ---
+
 <p>
 Dita už nějakou dobu varovala, že dostala pozvánku na módní přehlídku a že by se na ní měla zjevit. Dlouho jsem situaci podceňoval, až mi včera z jejích dotazů, kdy že dorazím domů došlo, že se očekává, že ku zjevení bude zapotřebí moje přítomnost. Módní přehlídku jsem viděl jedenkrát v životě v Paříži od Kenza (a to ještě díky tomu, že tam Nokia představovala 8210, jinak bych tím byl nezasažen) a měl jsem na ni nejlepší vzpomínky. </p>
 

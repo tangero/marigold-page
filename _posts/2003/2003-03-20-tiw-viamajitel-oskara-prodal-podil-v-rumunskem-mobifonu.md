@@ -1,14 +1,21 @@
 ---
 ID: 180
-title: 'TIW (viamajitel Oskara) prodal podíl v&nbsp;rumunském MobiFonu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tiw-viamajitel-oskara-prodal-podil-v-rumunskem-mobifonu
-published: true
+oldlink: 'https://www.marigold.cz/item/tiw-viamajitel-oskara-prodal-podil-v-rumunskem-mobifonu
+
+  '
 post_date: 2003-03-20 10:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- TIW prodalo 5,7-5,9% podíl v rumunském MobiFone za 42,5 mil. USD.
+- Český Mobil/Oskar nebyl prodán, TIW zvolilo odprodej minoritního podílu.
+- TIW bude schopno splácet závazky a možná se vyhne razantnímu prodeji aktiv.
+- Kurz akcií TIW po zveřejnění finančních výsledků výrazně klesl.
+title: TIW (viamajitel Oskara) prodal podíl v&nbsp;rumunském MobiFonu
 ---
+
 <p>
 Již delší dobu se spekulovalo o tom, že TIW / ClearWave budou muset prodat podíly ve svých středoevropských operátorech, aby si doplnil zásobu hotovosti. Stalo se, bylo prodáno <STRONG>za 42,5 mil USD zhruba 5,7-5,9%</STRONG> (podle toho, kdy se uzavře vypořádání) v <STRONG>rumunském operátorovi MobiFone</STRONG> firmě Emerging Markets Partnership (EMP) - to jsou investoři, nikoliv telco firma.</p>
 

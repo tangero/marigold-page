@@ -1,14 +1,21 @@
 ---
 ID: 20
-title: 'Zkušenosti s&nbsp;kartou Trendware a&nbsp;anténa z&nbsp;plechovky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zkusenosti-s-kartou-trendware-a-antena-z-plechovky
-published: true
+oldlink: 'https://www.marigold.cz/item/zkusenosti-s-kartou-trendware-a-antena-z-plechovky
+
+  '
 post_date: 2002-12-18 20:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Trendware TEW-303PI karta má negativní recenzi na Chvalšiny.Net.
+- Chvalšiny.Net je komunitní síť bez uvedené adresy.
+- Slovenské stránky se věnují WiFi anténám z plechovek (canténám).
+- Canténu návody nabízí Rob Flickenger a Turnpoint.net.
+title: Zkušenosti s&nbsp;kartou Trendware a&nbsp;anténa z&nbsp;plechovky
 ---
+
 <p>
 Jeden náš čtenář nám poslal odkaz na svoji recenzi Trendware karty <A href="http://www.trendware.com/products/TEW-303PI.htm"><STRONG>TEW-303PI</STRONG></A>, fakt je, že si ji moc nepochvaluje, takže pokud o této jinak parametry i cenou zajímavé kartě přemýšlíte, přečtěti si nejdříve recenzi na <A href="http://milanc.host.sk/wireless/#hardware" target=_blank>Chvalšiny.Net</A>. Mimochodem tato sajta představuje zajímavé stránky komunitní sítě - jen je škoda, že v podstatě netuším, kde by ta síť mohla být, protože žádná adresa tam nikde není a jen podle jména sajtu bych soudil, že ta síť bude ve Chvalšinách. Takže vyzývám - pokud někde píšete o své WiFi síti, pište tam i nějakou adresu!</p>
 

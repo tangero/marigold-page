@@ -1,14 +1,22 @@
 ---
 ID: 658
-title: 'Jellingspot u&nbsp;Pietro Filipi na Smíchově &#8211; komerční využití bluetooth'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jellingspot-u-pietro-filipi-na-smichove-komercni-vyuziti-bluetooth
-published: true
+oldlink: 'https://www.marigold.cz/item/jellingspot-u-pietro-filipi-na-smichove-komercni-vyuziti-bluetooth
+
+  '
 post_date: 2003-11-11 11:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Midletsoft spustil Jellingspot Data Server v butiku pietro filipi v Novém Smíchově.
+- Jellingspot Data Server zasílá zákazníkům elektronické kupóny a další data přes
+  Bluetooth.
+- Dosah Jellingspot Data Serveru je až 50 metrů od obchodu pietro filipi.
+- Jellingspot Data Server funguje na Java platformě a přenos dat je zdarma.
+title: Jellingspot u&nbsp;Pietro Filipi na Smíchově &#8211; komerční využití bluetooth
 ---
+
 <p>
 Kdysi jsem <A href="http://beta.marigold.cz/zprava.html?id=22600">o této technologii psal</A> a dneska přišla tisková zpráva, že spustili první pokusný spot s ní. Jde o bluetooth technologii schopnou poskytovat data do speciálního klienta v závislosti na místě, kde jste. Takže dále už tisková zpráva, dneska s sebou nemám 7650, takže to vyzkouším asi až o víkendu...</p>
 

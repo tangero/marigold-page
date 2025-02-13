@@ -1,14 +1,22 @@
 ---
 ID: 413
-title: 'T-Mobile a&nbsp;záznamník v&nbsp;roamingu, ale fuj&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/t-mobile-a-zaznamnik-v-roamingu-ale-fuj
-published: true
+oldlink: 'https://www.marigold.cz/item/t-mobile-a-zaznamnik-v-roamingu-ale-fuj
+
+  '
 post_date: 2003-07-28 12:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- Keni dovolená mobil sloužil symbolicky, kvůli mizernému pokrytí a omezení rušení.
+- Přesměrování hovorů do hlasové schránky se v Keni nepodařilo kvůli zapomenutému
+  číslu.
+- T-Mobile údajně neumožňuje pevné přesměrování hovorů do schránky v roamingu.
+- Oskar měl problém s doručováním SMS do T-Mobile v roamingu, zprávy chodily opakovaně.
+title: T-Mobile a&nbsp;záznamník v&nbsp;roamingu, ale fuj&#8230;
 ---
+
 <p>
 Mobil jsem si na dovolenou bral spíše symbolicky, pokrytí mobilních sítí v Keni je jednak mizerné a jednak jsem neměl v úmyslu se nechat někým na dovolené rušit, jen sem tam napsat pár přátelům a také pro případ nouze. </p>
 

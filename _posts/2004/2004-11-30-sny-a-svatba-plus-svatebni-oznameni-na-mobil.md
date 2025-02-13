@@ -1,14 +1,21 @@
 ---
 ID: 1423
-title: 'Sny (a&nbsp;svatba) plus svatební oznámení na mobil'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sny-a-svatba-plus-svatebni-oznameni-na-mobil
-published: true
+oldlink: 'https://www.marigold.cz/item/sny-a-svatba-plus-svatebni-oznameni-na-mobil
+
+  '
 post_date: 2004-11-30 12:59:56
+post_excerpt: ''
+published: true
+summary_points:
+- Svatba se blíží, autor trpí nespavostí a sny o problémech s parkováním.
+- Parkovací místa pro svatebčany u radnice jsou vyhrazená, což autor osobně ověřil.
+- Googgi vytvořilo mobilní svatební oznámení pro Nokia telefony s WAP push.
+- SMS zpráva pro získání oznámení stojí 50 Kč a technicky ji zajišťuje Pipeline a.s.
+title: Sny (a&nbsp;svatba) plus svatební oznámení na mobil
 ---
+
 <p>
 Poslední tři dny do svatby. Prakticky nespím. Když usnu, zdá se mi, jak jedeme autem na radnici, jak přijedeme před radnici a nedá se tam nikde zaparkovat. Matrikářka mne ujistila, že to nehrozí, že je tam hromada parkovacích míst vyhražených pro svatebčany. Šel jsem se tam podívat. Fakt jsou. Večer jsem v klidu usnul a zase se mi zdál hrozný sen, že tam přijedeme a někdo si tam prostě jen tak frknul auto a zase se nedá zaparkovat. </p>
 

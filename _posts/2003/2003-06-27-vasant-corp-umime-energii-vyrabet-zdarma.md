@@ -1,14 +1,21 @@
 ---
 ID: 392
-title: 'Vasant corp: umíme energii vyrábět zdarma'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vasant-corp-umime-energii-vyrabet-zdarma
-published: true
+oldlink: 'https://www.marigold.cz/item/vasant-corp-umime-energii-vyrabet-zdarma
+
+  '
 post_date: 2003-06-27 08:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vasant corporation tvrdí, že vyvinula zařízení produkující "energii zdarma".
+- Firma nabízí "SpinWave Technology Book/CD" pro zájemce o technologii.
+- Autor článku si není jistý, zda jde o průlom nebo podvod.
+- Článek doufá, že odborník technologii Vasant corporation zhodnotí.
+title: 'Vasant corp: umíme energii vyrábět zdarma'
 ---
+
 <p>
 Při dnešním ranním surfováním webem jsem narazil na firmu Vasant corporation. Ta tvrdí, že po sedmi letech výzkumů se dopracovala k poznání, že <STRONG>lze stvořit zařízení produkující "energii zdarma"</STRONG> neboli beroucí ji ze zdroje neznámé lokace. </p>
 

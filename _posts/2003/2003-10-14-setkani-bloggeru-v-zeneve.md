@@ -1,14 +1,21 @@
 ---
 ID: 580
-title: 'Setkani bloggeru v&nbsp;Zeneve'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/setkani-bloggeru-v-zeneve
-published: true
+oldlink: 'https://www.marigold.cz/item/setkani-bloggeru-v-zeneve
+
+  '
 post_date: 2003-10-14 08:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- Petr Olmer uspořádal setkání českých blogerů v Ženevě.
+- Honza a autor byli jediní blogeři, kteří na setkání dorazili.
+- Program zahrnoval diskusi, sledování Jistě pane premiére a konzumaci vína.
+- Autor děkuje Petrovi za akci a těší se na další setkání.
+title: Setkani bloggeru v&nbsp;Zeneve
 ---
+
 <p>
 Vcera Petr Olmer (<A href="http://chinin.bloguje.cz/" target=_blank>weblog Chinin</A>) poradal setkani ceskych blogeru v Zeneve a tak jsme se s Honzou rozhodli zucastnit se. Petr nas zaukoloval, abychom dorazili na autobusovou zastavu a odtud mu zavolali, coz jsme ucinili. Kdyz jsme se pak propletali mezi domy, bylo nam jasne, ze nehodlal usporadavat patraci akci, az bychom se pri hledani jeho domu ztratili. </p>
 

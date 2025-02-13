@@ -1,16 +1,23 @@
 ---
 ID: 369
-title: >
-  Zázračná technologie WiFi od 5G
-  Wireles Communcations?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zazracna-technologie-wifi-od-5g-wireles-communcations
-published: true
+oldlink: 'https://www.marigold.cz/item/zazracna-technologie-wifi-od-5g-wireles-communcations
+
+  '
 post_date: 2003-06-16 09:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- G Wireless údajně posílá WiFi signál na 12 km skrze budovy.
+- USA povolují vyšší vysílací výkony, což může omezit využití v EU.
+- Technologie 5G Wireless není jasná, chybí informace o jejím fungování.
+- WiFi SpeedSpray je ověřená technologie pro zrychlení WiFi.
+title: 'Zázračná technologie WiFi od 5G Wireles Communcations?
+
+  '
 ---
+
 <p>
 Na Živě jsem si přečetl článek o inovaci firmy <A href="http://www.5gwireless.com/">5G Wireles Communcations</A> v oboru WiFi. Firma údajně <STRONG>umí posílat WiFi signál na vzdálenosti dvanácti kilometrů, signál prochází budovami</STRONG> atd (zdroj: <A href="http://www.zive.cz/h/Uzivatel/Ar.asp?ARI=111246&amp;CAI=2104" target=_blank>Živě</A>). Tento článek jsem četl od Adama Stona na 802.11Planet někdy v dubnu (zdroj: <A href="http://www.80211-planet.com/columns/article.php/2191841" target=_blank>802.11Planet</A>)&#160;a sám jsem o tom nepsal z několika důvodů. Především ani Stone mi nepřišel přesvědčen, sám to neviděl na vlastní oči a psal z tiskových materiálů firmy. </p>
 

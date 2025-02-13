@@ -1,14 +1,21 @@
 ---
 ID: 176
-title: Qualcomm věří že 3G pobije WiFi.
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/qualcomm-veri-ze-3g-pobije-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/qualcomm-veri-ze-3g-pobije-wifi
+
+  '
 post_date: 2003-03-20 08:36:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold měl včera výpadky kvůli poruše síťové karty serveru.
+- Qualcomm tvrdí, že 3G sítě díky pokrytí porazí WiFi.
+- Autor textu je méně optimistický ohledně 3G kvůli ceně WiFi.
+- Qualcomm profituje z patentů UMTS, proto propaguje 3G sítě.
+title: Qualcomm věří že 3G pobije WiFi.
 ---
+
 <p>
 Jak jste si všimli, byly včera problémy s dostupností Marigolda - na jednom ze serverů umřela síťovka nebo co, byla značková, server v záruce&#160;atd, chvíli to trvalo, než se to vyřešilo.</p>
 

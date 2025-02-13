@@ -1,14 +1,21 @@
 ---
 ID: 408
-title: Kořen WiFi sítí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/koren-wifi-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/koren-wifi-siti
+
+  '
 post_date: 2003-07-24 12:21:00
+post_excerpt: ''
+published: true
+summary_points:
+- ROOT publikoval dva články o WiFi a CZFREE.Net od Johanky a Zdeňka Štěpánka.
+- Články jsou aktivistické a zábavné, typické pro komunitu píšící pro ROOT.
+- Čtenář MK uvádí velikost pingů 24 156 B a 22 620 B.
+- Diskuse zve čtenáře k porovnání velikostí pingů s autorem (17 408 B).
+title: Kořen WiFi sítí
 ---
+
 <p>
 Na serveru ROOT vyšly tento týden dva články o WiFi, repsketive o CZFREE.Net. </p>
 

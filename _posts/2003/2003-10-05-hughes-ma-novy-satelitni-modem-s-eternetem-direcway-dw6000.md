@@ -1,14 +1,21 @@
 ---
 ID: 556
-title: 'Hughes má nový satelitní modem s&nbsp;eternetem DirecWay DW6000'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hughes-ma-novy-satelitni-modem-s-eternetem-direcway-dw6000
-published: true
+oldlink: 'https://www.marigold.cz/item/hughes-ma-novy-satelitni-modem-s-eternetem-direcway-dw6000
+
+  '
 post_date: 2003-10-05 19:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- DirecWay DW6000 má ethernetové rozhraní, na rozdíl od starších USB modemů.
+- DW6000 nepotřebuje pro první nastavení jiné internetové připojení.
+- DirecWay je solidní služba pro lokality s omezenými možnostmi připojení.
+- Cena DW6000 pro USA je 600 USD.
+title: Hughes má nový satelitní modem s&nbsp;eternetem DirecWay DW6000
 ---
+
 <p>
 Hughes konečně představil satelitní modem svojí služby <STRONG>DirecWay DW6000</STRONG> pro soho a <IMG height=133 alt="DirecWay DW6000" src="http://beta.marigold.cz/obrazek/direcwaydw6000.jpg" width=113 align=right border=1>domácí uživatele vybavený <STRONG>ethernetovým rozhraním</STRONG>. Až doposud měli běžní uživatelé jeho obousměrného satelitního připojení k internetu smůlu a museli používat starší modemyDW4000, které se připojovaly přes USB a vyžadovaly speciální Windows klientský software Díky tomu připojení DirecWay nemohli používat uživatelé s Mac nebo Linuxem, pokud i nekoupili výrazně dražší verzi modemů DW řady 4020 či 5000. </p>
 

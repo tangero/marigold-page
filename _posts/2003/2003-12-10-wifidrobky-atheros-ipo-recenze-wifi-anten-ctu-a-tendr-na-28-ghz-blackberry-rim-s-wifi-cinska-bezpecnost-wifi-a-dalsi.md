@@ -1,14 +1,22 @@
 ---
 ID: 730
-title: 'WiFidrobky: Atheros IPO, recenze WiFi antén, ČTÚ a&nbsp;tendr na 28 GHz, Blackberry RIM s&nbsp;WiFi, čínská bezpečnost WiFi a&nbsp;další&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifidrobky-atheros-ipo-recenze-wifi-anten-ctu-a-tendr-na-28-ghz-blackberry-rim-s-wifi-cinska-bezpecnost-wifi-a-dalsi
-published: true
+oldlink: 'https://www.marigold.cz/item/wifidrobky-atheros-ipo-recenze-wifi-anten-ctu-a-tendr-na-28-ghz-blackberry-rim-s-wifi-cinska-bezpecnost-wifi-a-dalsi
+
+  '
 post_date: 2003-12-10 08:44:00
+post_excerpt: ''
+published: true
+summary_points:
+- Atheros IPO je podle Om Malika zajímavá investice, autor zkusí akcie ukořistit.
+- ČTÚ vypisuje licenční tendr na pásmo 28 GHz, ale levné připojení nebude.
+- Blackberry RIM komunikátor bude vybaven WiFi, detaily na eWeeku.
+- Čína vytvořila vlastní bezpečnostní standard pro bezdrátové sítě WAPI.
+title: 'WiFidrobky: Atheros IPO, recenze WiFi antén, ČTÚ a&nbsp;tendr na 28 GHz, Blackberry
+  RIM s&nbsp;WiFi, čínská bezpečnost WiFi a&nbsp;další&#8230;'
 ---
+
 <p>
 Na mém oblíbeném weblogu Om Malik je článek věnovaný <STRONG>IPO firmy Atheros</STRONG> vyrábějící čipsety pro WiFi techniku. Článek se jmenuje <A href="http://gigaom.com/archives/2003/12/atheros_ipo_deconstructed.html" target=_blank>Atheros IPO, deconstructed</A>. Atheros je prý zajímavá investice, ostatně, myslím si to taky a zkusím v IPO pár akcií ukořistit :)</p>
 

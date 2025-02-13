@@ -1,17 +1,30 @@
 ---
 ID: 1370
-title: >
-  High Speed Downlink Packet Access
-  (HSDPA)
 author: Patrick Zandl
-post_excerpt: "Jak fungují rychlá paketová data HSDPA v sítích UMTS/3G"
+categories:
+- UMTS
+- 3G
+- Turboúvod do mobilních sítí
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/high-speed-downlink-packet-access-hsdpa
-published: true
+oldlink: 'https://www.marigold.cz/item/high-speed-downlink-packet-access-hsdpa
+
+  '
 post_date: 2004-10-25 08:16:00
-categories: [UMTS, 3G, Turboúvod do mobilních sítí]
+post_excerpt: Jak fungují rychlá paketová data HSDPA v sítích UMTS/3G
+published: true
+summary_points:
+- HSDPA (Release 5) zavádí rychlejší datové přenosy v UMTS sítích, očekávané kolem
+  roku 2006.
+- NodeB přebírá plánování a řízení dat (MAC-HS) od RNC, snižuje zpoždění.
+- HS-DSCH kanál umožňuje sdílení vzdušného rozhraní více uživateli rychlostí až 14,4
+  Mb/s.
+- Release 6 plánuje vylepšení HSDPA, včetně rozšířeného reportování CQI a EUDCH pro
+  uplink.
+title: 'High Speed Downlink Packet Access (HSDPA)
+
+  '
 ---
+
 <p>
 O datech v UMTS síti už něco málo víme, především to, kde jsou jejich zádrhely. Už tušíme, že to s rychostí nemusí být slavné, ale také to, že to slavné není ani se zpožděním a časovým rozptylem při přenosu dat, tedy se dvěma kvalitativními parametry, na které jsou služby vyžadující QoS háklivé. O HSDPA jsem již trochu psal, ale nyní to vezmeme maličko podrobněji. Jen připomínám, že HSDPA je systém rychlých dat pro stahování, tedy downlink, pro uplink se používá stávající mechanismus, případně se do Release 6 počítá s novým… </p>
 
@@ -101,4 +114,3 @@ Novinkou v Release 6 pak má být nový kanál pro rychlé odesílání dat, jen
 <p>
 Do dalších Release se počítá především s důsledným uplatněním inteligentních složených antén MIMO a také beamformingu, kdy základnové stanice mění směr svého pokrytí v závislosti na tom, kde jsou její uživatelé.
 </p>
-

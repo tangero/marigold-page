@@ -1,14 +1,21 @@
 ---
 ID: 396
-title: Telecom má nový web
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telecom-ma-novy-web
-published: true
+oldlink: 'https://www.marigold.cz/item/telecom-ma-novy-web
+
+  '
 post_date: 2003-07-01 11:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- Telecom spustil nový web s pochybnou validací HTML.
+- Design nového webu Telecomu je kritizován pro velké písmo a barvy.
+- Vyhledávání na novém webu Telecomu nefunguje a hlásí chybu.
+- Nefunkčnost vyhledávání odkazuje na chybu v konfiguraci.
+title: Telecom má nový web
 ---
+
 <p>
 Telecom zprovoznil bez velkého halasu&#160;nový web. Validaci HTML nechám na laskavých PT čtenářích. Jako správná konzerva musím přiznat, že původní design byl lepší, nový design bude vyhovovat především slabozrakým důchodcům (velká písmena). </p>
 

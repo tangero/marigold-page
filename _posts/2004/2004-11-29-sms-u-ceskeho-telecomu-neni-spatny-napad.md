@@ -1,14 +1,21 @@
 ---
 ID: 1419
-title: 'SMS u&nbsp;Českého Telecomu není špatný nápad'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sms-u-ceskeho-telecomu-neni-spatny-napad
-published: true
+oldlink: 'https://www.marigold.cz/item/sms-u-ceskeho-telecomu-neni-spatny-napad
+
+  '
 post_date: 2004-11-29 08:42:16
+post_excerpt: ''
+published: true
+summary_points:
+- Malérův článek o SMS z pevných linek Telecomu obsahuje ekonomické nepřesnosti.
+- Telecom službu SMS z pevných linek provozuje přes Fincom, který ji nabízel dříve.
+- Náklady na odeslání SMS jsou pro Telecom nízké, kolem 50-80 haléřů přes Connect.
+- Služba SMS z pevných linek má problémy s funkčností a omezeními pro operátory.
+title: SMS u&nbsp;Českého Telecomu není špatný nápad
 ---
+
 <p>
 Přečetl jsem si Malérův spot týkající se SMS z pevných linek: <a href="http://www.maler.cz/index.php?id=258">SMSky u Telecomu za půl roku = 3 hodiny u Eurotelu</a>. Ačkoliv bych nechtěl polemizovat s faktem, že těch SMS přes Telecom příliš neprošlo, což je z čísel evidentních, opravil bych rád nějaká fakta, která Malér uvádí ve své ekonomické kalkulaci, když říká, že <i>&#8220;jenom zavedení služby a marketing musel stát násobky toho, co zatím služba přinesla jako příjem&#8221;</i>.</p>
 

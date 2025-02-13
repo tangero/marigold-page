@@ -1,14 +1,21 @@
 ---
 ID: 749
-title: 'D-Link k&nbsp;nám začíná dodávat &#8222;HotSpot to go&#8220;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/d-link-k-nam-zacina-dodavat-hotspot-to-go
-published: true
+oldlink: 'https://www.marigold.cz/item/d-link-k-nam-zacina-dodavat-hotspot-to-go
+
+  '
 post_date: 2003-12-18 11:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- D-Link HotSpot to go řešení umožňuje menším firmám zpoplatněné WiFi připojení.
+- DSA-3100 brána zajišťuje přihlašovací stránku, řízení šířky pásma a účtování času.
+- Kompletní balík HotSpot to go stojí přes 28 000 Kč, samotná brána 19 000 Kč.
+- D-Link HotSpot je zajímavá varianta pro zpoplatněné WiFi v kavárnách.
+title: D-Link k&nbsp;nám začíná dodávat &#8222;HotSpot to go&#8220;
 ---
+
 <p>
 Včera jsem od D-Linku dostal tiskovou zprávu oznamující, že jejich řešení nazvané <STRONG>HotSpot to go </STRONG>se začíná prodávat a dodávat i u nás. Toto řešení je vlastně takovým ideálním řešením pro menší firmy, které chtějí poskytovat připojení k internetu skrze WiFi a chtějí za něj účtovat (pokud by nepotřebovali účtovat, stačí jim normální přístupový bod za zlomek ceny). </p>
 

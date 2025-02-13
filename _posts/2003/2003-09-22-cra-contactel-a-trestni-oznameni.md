@@ -1,14 +1,22 @@
 ---
 ID: 521
-title: 'ČRa, Contactel a&nbsp;trestní oznámení'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cra-contactel-a-trestni-oznameni
-published: true
+oldlink: 'https://www.marigold.cz/item/cra-contactel-a-trestni-oznameni
+
+  '
 post_date: 2003-09-22 11:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- ČRa navýšily základní jmění v Contactelu na 1,6875 mld Kč, což je 40,39% podíl.
+- Prodej podílu ČRa v Contactelu proběhne za 1 Kč společnosti TDC Totallosninger A/S.
+- Znalec určil hodnotu Contactelu mezi minus 1,091 mil. Kč a minus 403 mil. Kč.
+- ČRa prodělaly více než 1,68 mld Kč investicí do Contactelu, což kritizuje minoritní
+  akcionář.
+title: ČRa, Contactel a&nbsp;trestní oznámení
 ---
+
 <p>
 Tato zprávička je asi především pro komentátora Noname, který minulý týden komentoval zprávičku o trestním oznámení minoritního akcionáře na ČRa. A z něj vyplývá, že ČRa nikdy nesnížily základní jmění v Contactelu, naopak ho navyšovaly až na 1,6875 mld Kč, což představuje podíl 40,39%. Podíl zhruba 2,5 mld Kč = 59,61% drží TDC Internet. Z tohoto stavu se má provést prodej podílu ČRa v Contactelu za 1 Kč. Žádné snížení základního jmění se tu nepíše a neuvádí ho ani tisková zpráva ČRa, takže se mi zdá, že Noname mírně řečeno kecal.</p>
 

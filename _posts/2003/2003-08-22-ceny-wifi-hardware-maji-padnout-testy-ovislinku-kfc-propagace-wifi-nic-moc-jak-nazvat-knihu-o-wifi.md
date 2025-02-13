@@ -1,14 +1,22 @@
 ---
 ID: 452
-title: 'Ceny WiFi hardware mají padnout, testy OvisLinku. KFC propagace WiFi nic moc. Jak nazvat knihu o&nbsp;WiFi?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ceny-wifi-hardware-maji-padnout-testy-ovislinku-kfc-propagace-wifi-nic-moc-jak-nazvat-knihu-o-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/ceny-wifi-hardware-maji-padnout-testy-ovislinku-kfc-propagace-wifi-nic-moc-jak-nazvat-knihu-o-wifi
+
+  '
 post_date: 2003-08-22 08:09:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi hardware ceny mají padnout na polovinu, reálně spíše o deset-patnáct procent.
+- Mobil.cz testoval WiFi router a USB adaptér značky OvisLink, levné a dobré.
+- KFC Palác Flóra WiFi propaguje minimálně, téměř žádná informace pro zákazníky.
+- Autor řeší název knihy o WiFi, pracovní názvy jsou WiFi bible a Bezdrátové sítě.
+title: Ceny WiFi hardware mají padnout, testy OvisLinku. KFC propagace WiFi nic moc.
+  Jak nazvat knihu o&nbsp;WiFi?
 ---
+
 <p>
 Na Živě <A href="http://www.zive.cz/h/Uzivatel/Ar.asp?ARI=112234&amp;CAI=2104" target=_blank>Jiří Hlavenka píše</A>, že <STRONG>ceny WiFi hardware mají padnout</STRONG> na polovinu. Z celého článku na mne ale dýchá, že jde o ceny čipových sad, které mají jít na polovinu, to se ale v ceně celého výrobku zdaleka tak neprojeví. U nás budeme rádi, pokud cena půjde dolů o deset-patnáct procent. </p>
 

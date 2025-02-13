@@ -1,14 +1,21 @@
 ---
 ID: 462
-title: 'Tisková zpráva T-Mobile k&nbsp;MDA II mne naplnila optimismem&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tiskova-zprava-t-mobile-k-mda-ii-mne-naplnila-optimismem
-published: true
+oldlink: 'https://www.marigold.cz/item/tiskova-zprava-t-mobile-k-mda-ii-mne-naplnila-optimismem
+
+  '
 post_date: 2003-08-27 17:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile MDA II je kritizován za marketingové nesmysly v tiskové zprávě.
+- Třípásmové PDA a VGA fotoaparát jsou příklady nesmyslných marketingových formulací.
+- PocketPC dle autora nezrychluje práci s poštou pro běžné POP3 účty.
+- Microsoft MDA II bude k vidění na Invexu, což je jediná relevantní informace.
+title: Tisková zpráva T-Mobile k&nbsp;MDA II mne naplnila optimismem&#8230;
 ---
+
 <p>
 ...optimismem z toho, že humoristé ještě nevymřeli. T-Mobile se chlubí novým MDA II, který se představuje na IFA veletrhu v Berlíně. Z tiskové zprávy si dovolím vyjmout několik marketingových výstřelů do davu, kterým už opravdu nelze než se pousmát.</p>
 

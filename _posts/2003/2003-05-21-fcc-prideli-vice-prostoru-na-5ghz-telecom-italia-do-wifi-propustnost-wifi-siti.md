@@ -1,17 +1,24 @@
 ---
 ID: 303
-title: >
-  FCC přidělí více prostoru na 5GHz,
-  Telecom Italia do WiFi. Propustnost WiFi
-  sítí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/fcc-prideli-vice-prostoru-na-5ghz-telecom-italia-do-wifi-propustnost-wifi-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/fcc-prideli-vice-prostoru-na-5ghz-telecom-italia-do-wifi-propustnost-wifi-siti
+
+  '
 post_date: 2003-05-21 08:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- FCC zřejmě přidělí 255 MHz pro nelicencované 5GHz spektrum.
+- USA budou moci používat 20 WiFi kanálů místo dvanácti.
+- Telecom Italia buduje síť WiFi hotspotů na exponovaných místech.
+- Unstrung nabízí teze o datové propustnosti WiFi sítí.
+title: 'FCC přidělí více prostoru na 5GHz, Telecom Italia do WiFi. Propustnost WiFi
+  sítí
+
+  '
 ---
+
 <p>
 Americký telekomunikační úřad <STRONG>FCC zřejmě přidělí dalších 255 MHz</STRONG> pro nelicencované spektrum 5GHz. To by znamenalo, že v USA bude možno používat místo dvanácti rovných 20 kanálů pro WiFi 802.11a. PDF dokument s tímto záměrem <A href="http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-234566A1.pdf" target=_blank>je zde</A>. </p>
 

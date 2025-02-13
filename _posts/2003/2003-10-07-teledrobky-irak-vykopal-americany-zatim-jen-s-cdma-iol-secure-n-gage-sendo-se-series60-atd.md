@@ -1,14 +1,22 @@
 ---
 ID: 564
-title: 'Teledrobky: Irák vykopal američany (zatím jen s&nbsp;CDMA), IOL Secure, N-Gage, Sendo se Series60 atd&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/teledrobky-irak-vykopal-americany-zatim-jen-s-cdma-iol-secure-n-gage-sendo-se-series60-atd
-published: true
+oldlink: 'https://www.marigold.cz/item/teledrobky-irak-vykopal-americany-zatim-jen-s-cdma-iol-secure-n-gage-sendo-se-series60-atd
+
+  '
 post_date: 2003-10-07 17:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Irák udělil licence na GSM mobilní sítě firmám AsiaCell, Orascom a AtherTel.
+- Telecom nabízí IOL Secure, ochranu emailů před viry za 79 Kč měsíčně.
+- UMTS v ČR se zpozdí o rok, start sítí bude požadován do 1.1.2006.
+- Nokia zahájila distribuci herního mobilu N-Gage přes 30 000 distributorů.
+title: 'Teledrobky: Irák vykopal američany (zatím jen s&nbsp;CDMA), IOL Secure, N-Gage,
+  Sendo se Series60 atd&#8230;'
 ---
+
 <p>
 <STRONG>Irák včera udělil první licence na vybudování mobilních sítí</STRONG> firmám AsiaCell, Orascom a AtherTel. Všechny mobilní licence jsou pro systém GSM, žádná američany tolik tlačená podpora CDMA se nekoná. Je to symbolické na obě strany - Irák tim dává najevo, že si nenechá diktovat podmínky a USA zase svoji určitou toleranci netlačit na pili příliš. </p>
 

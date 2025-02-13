@@ -1,14 +1,22 @@
 ---
 ID: 222
-title: Nestíhačka vrcholí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nestihacka-vrcholi
-published: true
+oldlink: 'https://www.marigold.cz/item/nestihacka-vrcholi
+
+  '
 post_date: 2003-04-07 09:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Cinetik spuštěn, ale detaily vyžadují nečekané úpravy a předělávky.
+- Obálky pro Cinetik problematické, razítko se rozmazává, štítky překračují váhový
+  limit.
+- T-Mobile doručil MMS zprávu odeslanou v pátek až v neděli.
+- Marigold nestíhá aktualizovat kvůli nákupům titulů a dalším povinnostem.
+title: Nestíhačka vrcholí
 ---
+
 <p>
 Minulý čtvrtek mne čekalo spuštění Cinetiku a ačkoliv už za ta léta vím, jak spuštění nového projektu vypadá, tentokráte jsem se nechal mírně překvapit. Bylo toho moc najednou - ukázalo se, že spousta detailů musí být jinak a musí se najednou předělávat. Ukázalo se, že sehnat vhodné obálky je podstatně větší problém, než jsem myslel - na běžných obálkách špatně drží razítkovací barva a rozmazává se, protože jsou z hlazeného kartonu, lepit na ně štítky nejde, protože tím by překrošily váhový limit. Nechat si je potisknout - zajímavá myšlenka, jenže očekáváme že by se na ně mělo vytisknout i vyplacení od pošty, což stále ještě není - klasický zásek v kruhu.. :)</p>
 

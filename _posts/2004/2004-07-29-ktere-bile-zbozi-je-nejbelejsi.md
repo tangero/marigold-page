@@ -1,14 +1,21 @@
 ---
 ID: 1222
-title: Které Bílé zboží je nejbělejší
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ktere-bile-zbozi-je-nejbelejsi
-published: true
+oldlink: 'https://www.marigold.cz/item/ktere-bile-zbozi-je-nejbelejsi
+
+  '
 post_date: 2004-07-29 08:21:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor porovnával ceny praček Bosch WFO 2442 BY a WFX 2440 v různých e-shopech.
+- Bílý svět.cz a A-A Elektro.cz nabízely nejnižší ceny praček Bosch.
+- Bílé zboží.cz má srovnatelné ceny s většinou konkurence u vybraných modelů.
+- Autor doporučuje Moře židlí v Praze pro nákup židlí za zajímavé ceny.
+title: Které Bílé zboží je nejbělejší
 ---
+
 <p>
 Zatímco fázi stěhování máme za sebou, fáze nakupování u nás právě probíhá. Po prostudování hory materiálů týkajících se praček, prolezení všech možných i nemožných diskusních fór jsem našel dvě variantní pračky, které připadají v úvahu a liší se prakticky jen tím, že jedna má větší informační displej LCD, ta druhá malý LED, což výrobce ohodnotil na dvoutisícikorunový rozdíl. </p>
 <p>

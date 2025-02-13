@@ -1,14 +1,21 @@
 ---
 ID: 1087
-title: 'CzFree.Net rok poté: Na hranicích Říše'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/czfree-net-rok-pote-na-hranicich-rise-1087
-published: true
+oldlink: 'https://www.marigold.cz/item/czfree-net-rok-pote-na-hranicich-rise-1087
+
+  '
 post_date: 2004-02-06 08:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- CzFree.Net se rozdělilo na tvrdé jádro, uživatele a komercionalizátory.
+- Pravidla CzFree.Net jsou definována, ale jejich vynucování je problematické.
+- Růst sítě CzFree.Net překročil možnosti řízení a řešení problémů.
+- Ještě lze zvrátit úpadek CzFree.Net, ale je nutné si ho uvědomit.
+title: 'CzFree.Net rok poté: Na hranicích Říše'
 ---
+
 Jak vidím CzFree.Net o rok po napsání prvního článku? Jako Assimovu Říši: na vrcholu, na počátku pomalého rozkladu, který nikdo nevnímá a který se díky tomu ani nikdo nesnaží zastavit.<!--more--><p>
 Vloni v polovině ledna jsem vydal článek věnující se aktivitě CzFree.Net nazvaný <A href="/trh/czfree030112.html">CzFree Net - národ sobě nebo vzdušný chaos?</A> Byl to můj pohled na to, co je CzFree.Net, jak sebe představuje a jak jej někteří ostatní vnímají, co dokázal a kam to podle mne směřuje. Identifikoval jsem jako tři základní problémy CzFree netransparentnost, absenci jasných pravidel a nepublikování důležitých informací. Koncem loňského roku se v diskusi objevil příspěvek s tím, abych napsal, jak se situace změnila po roce. A to není špatný nápad. O tom tedy bude tento článek - jak vidím CzFree.Net počátkem roku 2004?</p>
 

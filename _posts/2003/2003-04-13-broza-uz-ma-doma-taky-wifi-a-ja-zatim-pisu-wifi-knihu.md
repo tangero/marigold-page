@@ -1,14 +1,21 @@
 ---
 ID: 231
-title: 'Broža už má doma taky WiFi a&nbsp;já zatím píšu WiFi knihu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/broza-uz-ma-doma-taky-wifi-a-ja-zatim-pisu-wifi-knihu
-published: true
+oldlink: 'https://www.marigold.cz/item/broza-uz-ma-doma-taky-wifi-a-ja-zatim-pisu-wifi-knihu
+
+  '
 post_date: 2003-04-13 09:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- Petr Broža (Cpress) si nainstaloval bezdrátový router UPC a používá WiFi.
+- Autor píše knihu o WiFi, podepsal smlouvu s nakladatelem.
+- Autor řeší hloubku výkladu WiFi standardu v knize.
+- Rozsáhlý výklad standardu WiFi bude pouze v autorově knize.
+title: Broža už má doma taky WiFi a&nbsp;já zatím píšu WiFi knihu
 ---
+
 <p>
 Dvě zprávičky pro většinu z vás charakteru nevýznamného. Cpressácký boss obsahu Petr Broža píše na Živě o tom, jak si doma nainstaloval bezdrátový router na UPC a hezky se připojuje skrze WiFi. Vítáme do klubu WiFi positivních. Článek <A href="http://www.zive.cz/h/Testcentrum/Ar.asp?ARI=110182&amp;CAI=&amp;HID=" target=_blank>najdete zde</A>, nečekejte technický hardcore, je to spíše o tom, že to fakt jde :) Zajímavé je, že se také svěřil do rukou SMC - i já mám doma "esemcéčko", ale ještě bez WiFi a mám na něj připojený access point od iTecu a neustále na něj nadávám, takže ho čeká výměna...ovšem předsevzal jsem si, že výměna bude pouze za peníze vydělané na WiFi :)</p>
 

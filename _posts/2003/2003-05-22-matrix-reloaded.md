@@ -1,14 +1,21 @@
 ---
 ID: 307
-title: Matrix reloaded
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/matrix-reloaded
-published: true
+oldlink: 'https://www.marigold.cz/item/matrix-reloaded
+
+  '
 post_date: 2003-05-22 08:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Lopo zajistil hromadu lístků na předpremiéru Matrixu v kině.
+- Autor lituje nezachycení vlivu fantasy filmů na mytologii v dřívější práci.
+- Dita tvrdí, že lidé v Matrixu vidí spíše analogie než doslovnou pravdu.
+- Autor zvažuje aktualizaci a publikaci starší práce o fantasy.
+title: Matrix reloaded
 ---
+
 <p>
 Včera jsme vyrazili na další díl Matrixu do kina. Lopo honosící se funkcí kinomanagera opět zabodoval a zajistil hromadu lístků. Na to, že premiéra má být až dneska a Lopo dotlačil opravdu pořádný sloupec lístků už včera do nějakého Vyliž si sinema, to byl od Lopa slušný výkon! Nevím, co komu v kině provedl, ale řekl bych, že jeho zručná práce s mečem zanechala v pokladně dojem...</p>
 

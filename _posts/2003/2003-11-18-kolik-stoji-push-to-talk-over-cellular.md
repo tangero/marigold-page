@@ -1,14 +1,21 @@
 ---
 ID: 674
-title: Kolik stojí Push-to-Talk over Cellular?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kolik-stoji-push-to-talk-over-cellular
-published: true
+oldlink: 'https://www.marigold.cz/item/kolik-stoji-push-to-talk-over-cellular
+
+  '
 post_date: 2003-11-18 07:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Verizon nabízí PTT zdarma s tarify nad 60 USD, podporuje Motorola V.60.
+- Sprint poskytuje PTT zdarma od 100 USD, Audiovox zařízení.
+- Nokia plánuje PoC ve všech nových telefonech v roce 2005.
+- Eurotel má šanci s PoC, T-Mobile podporuje FastChat pro Symbian.
+title: Kolik stojí Push-to-Talk over Cellular?
 ---
+
 <p>
 Ze zvědavosti jsem se díval, kolik stojí funkce PoC (Push-to-Talk over Cellular) v sítích, kde ji už nasadili. Americký Verizon ji nabízí zdarma, pokud máte tarifní plán vyšší jak 60 USD. Verizon podporuje PTT s telefony Motorola V.60. Americký Sprint nabízí zařízení Audiovox a PTT je zdarma při tarifech od 100 USD, případně si jej lze připlatit k nižším tarifům za cenu 5-15 USD v závislosti na ostatních službách zákazníka. Samozřejmě nic z toho není v GSM síti, u Verizonu jde o CDMA a Sprint je PCS.</p>
 

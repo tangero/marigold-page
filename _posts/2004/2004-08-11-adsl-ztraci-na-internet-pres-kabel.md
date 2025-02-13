@@ -1,14 +1,21 @@
 ---
 ID: 1245
-title: ADSL ztrácí na internet přes kabel
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/adsl-ztraci-na-internet-pres-kabel
-published: true
+oldlink: 'https://www.marigold.cz/item/adsl-ztraci-na-internet-pres-kabel
+
+  '
 post_date: 2004-08-11 11:34:22
+post_excerpt: ''
+published: true
+summary_points:
+- ADSL má 38 tisíc zákazníků, kabelový internet 42 tisíc.
+- Kabelovky mají 6% penetraci, Telecom jen 1,5%.
+- Kabelový internet je o 50% dražší než ADSL.
+- Telecom by měl přehodnotit nabídku DSL a zrušit datový limit.
+title: ADSL ztrácí na internet přes kabel
 ---
+
 <p><a href="http://mobil.idnes.cz/aktuality/adsl040811.html">ADSL prý dohání kabelovky</a>, zprávu jsem zaznamenal už včera, ale chtělo to delší komentář a na ten nezbyl čas. <strong>ADSL má nyní cca. 38 tisíc zákazníků</strong> (napříč všemi operátory), <strong>kabelový internet 42 tisíc zákazníků</strong>. Za poslední čtvrtletí nahrabalo ADSL cca. 15 tisíc zákazníků, kabelový internet asi polovinu. Zástupce Telecomu se tím samozřejmě chlubí, ale je opravdu čemu se chlubit?</p>
 
 <ul>

@@ -1,14 +1,21 @@
 ---
 ID: 614
-title: 'Nokia komunikátor se Series 90 &#8211; spekulace pokračují'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-komunikator-se-series-90-spekulace-pokracuji
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-komunikator-se-series-90-spekulace-pokracuji
+
+  '
 post_date: 2003-10-25 19:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia Hildon komunikátor by mohl být představen příští týden nebo v polovině listopadu.
+- Dotykový displej s grafity znaky může nahradit klávesnicové ovládání.
+- Displej by mohl být otočný pro psaní perem i v zavřeném stavu.
+- Nokia je opatrná v mechanických experimentech kvůli dřívějším problémům.
+title: Nokia komunikátor se Series 90 &#8211; spekulace pokračují
 ---
+
 <p>
 Nový Nokia komunikátor vybavený grafickou nadstavbou Series 90 přezdívanou Hildon, je tématem častých spekulací v poslední době. Spekuluje se o termínu: příší týden nebo v polovině listopad, protože jsou dvě mobilní akce, kde se s Hildonem může Nokia vytasit. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1066
-title: '2. Léta akademická: začínáme EARNem'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/2-leta-akademicka-zaciname-earnem
-published: true
+oldlink: 'https://www.marigold.cz/item/2-leta-akademicka-zaciname-earnem
+
+  '
 post_date: 2003-02-26 12:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- FidoNET byla první počítačová síť v Československu, amatérská a nekomerční.
+- EUNet dorazila do Prahy v květnu 1990, propojovala Unixové počítače.
+- EARN, evropská odnož BITNETu, začal fungovat na ČVUT v říjnu 1990.
+- února 1992 proběhlo slavnostní připojení Československa k internetu.
+title: '2. Léta akademická: začínáme EARNem'
 ---
+
 První počítačové sítě u nás - Fidonet a EARN...
 
 <!--more-->

@@ -1,14 +1,21 @@
 ---
 ID: 380
-title: 'Zákys v&nbsp;harmonizaci 5GHz pásma mezi Evropou a&nbsp;USA'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zakys-v-harmonizaci-5ghz-pasma-mezi-evropou-a-usa
-published: true
+oldlink: 'https://www.marigold.cz/item/zakys-v-harmonizaci-5ghz-pasma-mezi-evropou-a-usa
+
+  '
 post_date: 2003-06-20 13:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- WRC03 konference řeší harmonizaci kmitočtového spektra, zejména spor USA a Evropy.
+- Evropa chce omezit pásmo 5,25-5,35 GHz pro 802.11a pouze pro vnitřní použití.
+- Pásmo 14-14,5 GHz bude pravděpodobně vyhrazeno pro satelitní širokopásmové služby.
+- Frekvence pro navigační systém EU Galileo budou přiděleny bez problémů.
+title: Zákys v&nbsp;harmonizaci 5GHz pásma mezi Evropou a&nbsp;USA
 ---
+
 <p>
 Tento týden probíhá v Ženevě World Radiocommunications Conference (WRC03), jednání zabývající se perspektivami dalších radiových standardů a jejich rozvoje. Jedním z velkých témat jsou boje o harmonizaci kmitočtového spektra mezi USA a Evropou. Jeden z těchto bojů se <STRONG>rozhořel i o pásmo 5GHz používané 802.11a</STRONG> - delegáti zastupující Evropu žádají omezení <STRONG>pásma 5,25-5,35 GHz pouze pro použití indoor</STRONG>, tedy uvnitř budov. Obávají se, že by vysílání v tomto pásmu rušilo některé frekvence vyhrazené dosud satelitním přenosům. </p>
 

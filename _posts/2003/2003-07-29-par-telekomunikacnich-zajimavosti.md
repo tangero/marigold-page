@@ -1,14 +1,21 @@
 ---
 ID: 416
-title: 'Pár telekomunikačních zajímavostí&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/par-telekomunikacnich-zajimavosti
-published: true
+oldlink: 'https://www.marigold.cz/item/par-telekomunikacnich-zajimavosti
+
+  '
 post_date: 2003-07-29 08:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Michal Lojek odchází z LG, kde měl vést divizi mobilních telefonů.
+- Mobil.cz zveřejnil novou srovnávací databázi mobilních telefonů s 223 záznamy.
+- LG se stalo pátým největším výrobcem mobilních telefonů, předběhlo Sony Ericsson.
+- Databáze Mobil.cz vznikala dva roky a její naplnění daty bylo náročné.
+title: Pár telekomunikačních zajímavostí&#8230;
 ---
+
 <p>
 Tři týdny jsem tu nebyl a tak zejména pro sebe shrnuji to zajímavější, co nás potkalo v telekomunikacích. </p>
 

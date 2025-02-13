@@ -1,14 +1,21 @@
 ---
 ID: 468
-title: 'Něco málo fotek: Folková Ohře'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/neco-malo-fotek-folkova-ohre
-published: true
+oldlink: 'https://www.marigold.cz/item/neco-malo-fotek-folkova-ohre
+
+  '
 post_date: 2003-08-31 22:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- Folkovou Ohři na Hauenštejně navštívily kapely Nezmaři, Assonance a Hop Trop.
+- Na Hauenštejně proběhne 12.9. dražba řezbářských prací, seznam je online.
+- Na Hauenštejně je špatný signál, chytá se jen na vršku kapličky.
+- Víkend zakončila návštěva filmu Piráti z Karibiku, který autor doporučuje.
+title: 'Něco málo fotek: Folková Ohře'
 ---
+
 <p>
 Víkend jsem věnoval kulturnímu odpočinku. Od Kliďase jsem k narozeninám obdržel mimo jiné vstupenky na Folkovou Ohři, samozřejmě pořádanou na jeho hradě Hauenštejně. A byla to příležitost pořídit digitální fotky hradu, hodlám rovněž oscanovat nějaké starší nedigitální z doby nejdrsnější obnovy hradu, aby bylo porovnání. Tedy ono je, na hradním webu. </p>
 

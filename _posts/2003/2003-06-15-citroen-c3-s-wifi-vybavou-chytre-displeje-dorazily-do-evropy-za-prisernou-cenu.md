@@ -1,14 +1,22 @@
 ---
 ID: 368
-title: 'Citroen C3 s&nbsp;WiFi výbavou. Chytré displeje dorazily do Evropy &#8211; za příšernou cenu.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/citroen-c3-s-wifi-vybavou-chytre-displeje-dorazily-do-evropy-za-prisernou-cenu
-published: true
+oldlink: 'https://www.marigold.cz/item/citroen-c3-s-wifi-vybavou-chytre-displeje-dorazily-do-evropy-za-prisernou-cenu
+
+  '
 post_date: 2003-06-15 17:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Citroen C3 Pluriel nově nabízí WiFi připojení, posun od GSM modemu.
+- Chytré displeje Smart Displays se začaly prodávat v Evropě.
+- ViewSonic V110 stojí v Evropě 1200 EUR, v USA 800 USD.
+- Vysoká cena chytrých displejů v Evropě je nekonkurenceschopná.
+title: Citroen C3 s&nbsp;WiFi výbavou. Chytré displeje dorazily do Evropy &#8211;
+  za příšernou cenu.
 ---
+
 <p>
 Je to trochu automobilová zpráva:<STRONG> Citroen představil úpravu svého oblíbeného autíčka C3 Pluriel s WiFi.</STRONG> Citroen až doposud dodával jako možnost přístupu k internetu například v řadě Xsara připojení skrze GSM modem - připojení pomocí WiFi má být dalším krokem. A třetím krokem má být kombinace C3 s WiFi a 3G - to už bude z C3 přímo pojízdný hotspot... zdroj: <A href="http://www.gizmo.com.au/public/News/news.asp?articleid=1984" target=_blank>Gizmo</A>.</p>
 

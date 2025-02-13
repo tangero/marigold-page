@@ -1,16 +1,23 @@
 ---
 ID: 226
-title: >
-  Velikáni se spojují pro broadbadn
-  metropolitní sítě na 802.16a
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/velikani-se-spojuji-pro-broadbadn-metropolitni-site-na-802-16a
-published: true
+oldlink: 'https://www.marigold.cz/item/velikani-se-spojuji-pro-broadbadn-metropolitni-site-na-802-16a
+
+  '
 post_date: 2003-04-09 08:05:00
+post_excerpt: ''
+published: true
+summary_points:
+- Výrobci bezdrátové techniky spolupracují s WiMAX fórem na certifikaci 802.16a sítí.
+- WiMAX standard 802.16a má dosah 50 km a rychlost až 70 Mbps.
+- WiMAX technologie je aktuálně výrazně dražší než WiFi pro koncové uživatele.
+- WiMAX očekává pokles cen a hledá volné bezlicenční pásmo pro provoz.
+title: 'Velikáni se spojují pro broadbadn metropolitní sítě na 802.16a
+
+  '
 ---
+
 <p>
 Významní výrobci bezdrátové techniky se spojili s WiMAX fórem a hodlají spolupracovat na certifikaci a propagaci vysokorychlostních bezdrátových sítí vzniklých na standardu 802.16a. K této iniciativě se připojily mimo jiné firmy Intel, Nokia a Fujitsu. </p>
 

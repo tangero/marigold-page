@@ -1,14 +1,21 @@
 ---
 ID: 576
-title: 'Jak si u&nbsp;Panasonicu lze pohrát s&nbsp;3G bagrem'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-si-u-panasonicu-lze-pohrat-s-3g-bagrem
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-si-u-panasonicu-lze-pohrat-s-3g-bagrem
+
+  '
 post_date: 2003-10-13 09:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Panasonic představil ulítlé myšlenky, které přitahovaly nejvíce pozornosti.
+- Bagr je ovládán sériovým 3G telefonem Panasonic pomocí videotelefonátu.
+- Ovládání bagru vyžaduje zručnost a funguje pouze z 3G telefonu.
+- Japonská policie používá podobný systém pro průzkum terénu.
+title: Jak si u&nbsp;Panasonicu lze pohrát s&nbsp;3G bagrem
 ---
+
 <p>
 Panasonic tu má velký stánek a kromě mnoha vážně míněných a seriosních exponátů tu představují také pár ulýtlých myšlenek. Není se čemu divit, že ty přitahovaly nejvíce pozornosti. </p>
 

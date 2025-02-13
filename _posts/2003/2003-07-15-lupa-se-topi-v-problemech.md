@@ -1,14 +1,21 @@
 ---
 ID: 405
-title: 'LUPA se topí v&nbsp;problémech'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lupa-se-topi-v-problemech
-published: true
+oldlink: 'https://www.marigold.cz/item/lupa-se-topi-v-problemech
+
+  '
 post_date: 2003-07-15 09:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Server Lupa má opakované technické problémy, které vyžadují restarty.
+- Linux je použit pro databáze a server Lupy, přestože mu nerozumí.
+- Restart je navrhován jako řešení, i když je to již pátý restart dne.
+- Marek Antoš a bratr Krausovi řešili nespolehlivost serveru Lupa.
+title: LUPA se topí v&nbsp;problémech
 ---
+
 <p>
 Podařilo se nám odposlechnout následující telefonický&#160;rozhovor:</p>
 

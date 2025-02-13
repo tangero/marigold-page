@@ -1,14 +1,21 @@
 ---
 ID: 1117
-title: 'Tak a&nbsp;je tu nový redakční systém a&nbsp;skoro-nový vhled'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-a-je-tu-novy-redakcni-system-a-skoro-novy-vhled
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-a-je-tu-novy-redakcni-system-a-skoro-novy-vhled
+
+  '
 post_date: 2004-06-01 21:14:30
+post_excerpt: ''
+published: true
+summary_points:
+- Nucleus přechod úspěšný díky Radku Hulánovi, který upravil template Marigold.
+- Italica způsobovala dvoumilimetrový proužek v MSIE, vyřešeno pomocí hacku.
+- Autor se chce věnovat hackování Linksys WRT54G a instalaci řízení šířky pásma.
+- Autor se podělí o návod na hackování routeru, pokud se mu to povede.
+title: Tak a&nbsp;je tu nový redakční systém a&nbsp;skoro-nový vhled
 ---
+
 <p>
 Přechod na Nucleus se zřejmě vydařil. Kromě toho, že jsem včera dostal depresi z toho, že zákoutí CSS mi navždy zůstanou utajena, že by bylo nejlépe pevný disk serveru smazat a nikdy více se nevěnovat něčemu, co zavání tvorbou HTML/CSS stránek, to dopadlo dobře - Radek Hulán totiž template Marigolda přebudoval a upravil tak, že fungují a jsou v podstatě i validní. Takže web už by měl vypadat k světu, za což budiž <a href="http://hulan.info/blog">Radkovi Hulánovi</a> vzdán můj dík - i za Nucleus. </p>
 

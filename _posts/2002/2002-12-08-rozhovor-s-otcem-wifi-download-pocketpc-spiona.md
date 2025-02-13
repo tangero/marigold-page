@@ -1,14 +1,21 @@
 ---
 ID: 7
-title: 'Rozhovor s&nbsp;otcem WiFi, download PocketPC špiona'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/rozhovor-s-otcem-wifi-download-pocketpc-spiona
-published: true
+oldlink: 'https://www.marigold.cz/item/rozhovor-s-otcem-wifi-download-pocketpc-spiona
+
+  '
 post_date: 2002-12-08 18:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vic Hayes, předseda IEEE, je nazýván otcem WiFi standardu 802.11.
+- WLAN standard s rychlostí přes 100 Mbps se očekával v roce 2005.
+- Cirond nabídl klientské čmuchaly WiNc beta pro WinCE a PocketPC.
+- CNN publikoval článek o rostoucí popularitě komunitních WiFi sítí.
+title: Rozhovor s&nbsp;otcem WiFi, download PocketPC špiona
 ---
+
 <p>
 Samozřejmě ten rozhovor nebyl poskytnut Marigoldovi, je <A href="http://news.com.com/1200-1120-975460.html?tag=vs3_tocwheel" target=_blank>na News.com</A>. Otcem WiFi je nazýván <STRONG>Vic Hayes, předseda IEEE</STRONG>, který standardizoval IEEE 802.11. Rozhovor je docela zajímavý, ačkoliv tolik nového se tam nedozvíme. Zajímavé ale rozhodně je, že v roce 2005 se očekává standard pro <STRONG>WLAN s rychlostí přes 100 Mbps</STRONG>.</p>
 

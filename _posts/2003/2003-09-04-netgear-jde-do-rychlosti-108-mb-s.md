@@ -1,14 +1,21 @@
 ---
 ID: 479
-title: Netgear jde do rychlosti 108 Mb/s
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/netgear-jde-do-rychlosti-108-mb-s
-published: true
+oldlink: 'https://www.marigold.cz/item/netgear-jde-do-rychlosti-108-mb-s
+
+  '
 post_date: 2003-09-04 09:17:00
+post_excerpt: ''
+published: true
+summary_points:
+- Netgear ohlásil WiFi produkty s rychlostí až 108 Mb/s pomocí technologie Super G.
+- Netgear WGT624 směrovač a WG511T PCMCIA karta budou v USA dostupné příští měsíc.
+- Směrovač Netgear WGT624 má SPI firewall, NAT, podporu VPN a čtyři ethernet porty.
+- D-Link brzy nabídne 108 Mb/s produkty díky čipové sadě Atheros, jako Netgear.
+title: Netgear jde do rychlosti 108 Mb/s
 ---
+
 <p>
 Netgear se rozhodl trumfovat US Robotics a včera ohlásil, že jeho WiFi produkty <STRONG>nabídnou rychlost až 108 Mb/s</STRONG> a to na bázi technologie "<STRONG>Super G</STRONG>" od dodavatele čipových sad Atheros. US Robotics používá čipovou sadu firmy TI a technologii 802.11G+ na rychlosti 100 Mb/s. Jasné je, že nic z toho není standard a tak musíte používat výrobky téže firmy, abyste těchto rychlostí dosáhli. Netgear dokonce umožní upgrade již prodávaných produktů na tuto technologii, vzhledem k tomu, že jde o dualband výrobky podporující 802.11a/g, u nás se nesmějí používat. </p>
 

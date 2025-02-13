@@ -1,14 +1,21 @@
 ---
 ID: 659
-title: 'Přehled hotspotů aktualizován &#8211; jak si stojíme s&nbsp;WiFi hotspoty?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prehled-hotspotu-aktualizovan-jak-si-stojime-s-wifi-hotspoty
-published: true
+oldlink: 'https://www.marigold.cz/item/prehled-hotspotu-aktualizovan-jak-si-stojime-s-wifi-hotspoty
+
+  '
 post_date: 2003-11-11 20:44:00
+post_excerpt: ''
+published: true
+summary_points:
+- Databáze hotspotů nyní umožňuje vyhledávání podle města a provozovatele.
+- Celkem databáze obsahuje 178 hotspotů, nejvíce jich má Eurotel (62).
+- Eurotel se zaměřuje na pokrytí WiFi v rezidenčních oblastech u Prahy.
+- CzFree hotspoty v databázi jsou ty, které se do ní samy zapsaly.
+title: Přehled hotspotů aktualizován &#8211; jak si stojíme s&nbsp;WiFi hotspoty?
 ---
+
 <p>
 Aktualizoval jsem a z části doprogramoval databázi WiFi hostpotů. Nejdříve k vylepšením: vypsat si nyní můžete hotspoty nejenom podle města, ale i podle provozovatele, u každého provozovatele se také zobrazuje počet hotspotů, které provozuje a jeho podíl na trhu. Nic složitého, co byste také čekali... </p>
 

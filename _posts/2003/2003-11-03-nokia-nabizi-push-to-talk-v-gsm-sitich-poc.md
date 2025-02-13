@@ -1,14 +1,22 @@
 ---
 ID: 636
-title: 'Nokia nabízí push-to-talk v&nbsp;GSM sítích -PoC'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-nabizi-push-to-talk-v-gsm-sitich-poc
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-nabizi-push-to-talk-v-gsm-sitich-poc
+
+  '
 post_date: 2003-11-03 17:42:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia dodává první PoC produkty pro GSM sítě, komerční dostupnost počátkem roku
+  2004.
+- PoC vyžaduje IP Multimedia Core a kompatibilní mobilní telefony Nokia.
+- PoC umožňuje okamžitou semiduplexní hlasovou komunikaci stiskem tlačítka přes GPRS.
+- Podrobné anglické specifikace PoC jsou dostupné ke stažení v PDF dokumentech.
+title: Nokia nabízí push-to-talk v&nbsp;GSM sítích -PoC
 ---
+
 <p>
 O službě PTT (push-to-talk) jsem tu již psal. Nokia spolu s Ericssonem, Motorolou&#160;a Siemensem se shodli na jednotné specifikaci této služby v GSM sítích - Nokia jí nyní říká PoC (PTT over Cellular). A Nokia nedávno prohlásila, že již dodává první produkty&#160;PoC pro GSM sítě. Komerčně budou dostupné počátkem roku 2004 a Nokia se chlubí, že od června 2003 provedla testy v dvacítce GSM sítí po celém světě. </p>
 

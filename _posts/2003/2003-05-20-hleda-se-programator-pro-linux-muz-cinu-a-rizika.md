@@ -1,14 +1,21 @@
 ---
 ID: 302
-title: 'Hledá se programátor pro Linux, muž činu a&nbsp;rizika :)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hleda-se-programator-pro-linux-muz-cinu-a-rizika
-published: true
+oldlink: 'https://www.marigold.cz/item/hleda-se-programator-pro-linux-muz-cinu-a-rizika
+
+  '
 post_date: 2003-05-20 10:28:00
+post_excerpt: ''
+published: true
+summary_points:
+- Cinetik hledá programátora webových aplikací (Python/PHP) pro Linux.
+- Podíl ve společnosti je hlavní odměna pro programátora s možností platu.
+- Řízení podřízených a podnikatelské riziko jsou součástí nabídky.
+- Životopis a ukázka čitelného kódu se posílají na patrick.zandl@marigold.cz.
+title: Hledá se programátor pro Linux, muž činu a&nbsp;rizika :)
 ---
+
 <p>
 Pro naši malou a mladou společnost Cinetik <STRONG>hledáme programátora pro vývoj webových aplikací na Linuxu - preferované znalosti Python nebo PHP</STRONG>. Problém je asi následující, potřebujeme rozvíjet, udržovat a programovat aplikaci pro distribuci filmů, je to docela zajímavá a nová záležitost (na <A href="http://www.cinetik.cz/">www.cinetik.cz</A> vidíte její ASP verzi) - tedy žádná nuda. </p>
 

@@ -1,14 +1,24 @@
 ---
 ID: 505
-title: 'RSS na mobil via IMAP. Skype &#8211; P2P telefonování. Zony bez videotelefonů. PTT je zase blíž.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/rss-na-mobil-via-imap-skype-p2p-telefonovani-zony-bez-videotelefonu-ptt-je-zase-bliz
-published: true
+oldlink: 'https://www.marigold.cz/item/rss-na-mobil-via-imap-skype-p2p-telefonovani-zony-bez-videotelefonu-ptt-je-zase-bliz
+
+  '
 post_date: 2003-09-15 09:28:00
+post_excerpt: ''
+published: true
+summary_points:
+- Info Agregator umožňuje odebírat RSS zprávy na mobilu přes IMAP emailovou schránku.
+- Skype, P2P telefonní program od tvůrců Kazaa, funguje dobře i přes firewally.
+- Sensura vyvinula technologii pro zablokování videokamer v mobilních telefonech v
+  určitých zónách.
+- Push to talk over Cellular (PoC) specifikace pro 3G sítě umožní celosvětové PTT
+  hovory.
+title: RSS na mobil via IMAP. Skype &#8211; P2P telefonování. Zony bez videotelefonů.
+  PTT je zase blíž.
 ---
+
 <p>
 Hledal jsem, zda existuje nějaký middlet pro mobilní telefony umožňující <STRONG>odebírání RSS zpráv na mobilní telefony</STRONG>. A nakonec jsem jedno řešení našel a vůbec nepotřebuje middlety. Stačí mu, aby váš mobilní telefon uměl vybírat emaily skrze IMAP protokol. Služba se jmenuje <A href="http://rss.blogstreet.com/" target=_blank>Info Agregator </A>a vytvoří vám IMAP schránku, do které bude doručovat RSS zprávy. Vy si je už jen natáhnete do svého mobilu, kdy budete chtít. Jak prosté&#160;a hezké, zájemcům o čtení mnoha serverů z mobilu (včetně Marigolda) doporučuji).</p>
 

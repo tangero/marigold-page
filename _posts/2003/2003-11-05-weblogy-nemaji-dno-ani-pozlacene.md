@@ -1,14 +1,21 @@
 ---
 ID: 639
-title: Weblogy nemají dno ani pozlacené
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/weblogy-nemaji-dno-ani-pozlacene
-published: true
+oldlink: 'https://www.marigold.cz/item/weblogy-nemaji-dno-ani-pozlacene
+
+  '
 post_date: 2003-11-05 07:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- Blogováním se zbohatnout nedá, jak konstatuje článek na Lupě.
+- Mobilní operátoři rozšíří blogy, ale finanční efekt to nepřinese.
+- Weblogy budou osobní deníčky nebo oborové webziny s osobním pohledem.
+- Weblogy přináší vedlejší efekt, propagaci a menší přivýdělek, ne zbohatnutí.
+title: Weblogy nemají dno ani pozlacené
 ---
+
 <p>
 Dneska jsem na Lupě narazil na článek <A class=nadcl href="http://www.lupa.cz/clanek.php3?show=3091"><STRONG>Weblogy mají zlaté dno jen pro někoho</STRONG></A>. Autor v něm prakticky v celém článku konstatuje, že na blogování se zbohatnout nedá. A na závěr píše: </p>
 

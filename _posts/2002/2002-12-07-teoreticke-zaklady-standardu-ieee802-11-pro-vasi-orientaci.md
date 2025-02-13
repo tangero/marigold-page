@@ -1,16 +1,24 @@
 ---
 ID: 1057
-title: >
-  Teoretické základy standardu
-  IEEE802.11 pro vaši orientaci
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci
-published: true
+oldlink: 'https://www.marigold.cz/item/teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci
+
+  '
 post_date: 2002-12-07 19:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi standard IEEE802.11 definuje bezdrátové sítě v nelicencovaném pásmu 2,4 GHz.
+- WLAN (Wireless Local Area Network) je obecné označení pro jakoukoliv bezdrátovou
+  síť.
+- WiFi značka zaručuje propojitelnost zařízení pracujících podle standardu 802.11b.
+- Standard 802.11 má různé revize označené písmeny (a, b, g) s různými vlastnostmi.
+title: 'Teoretické základy standardu IEEE802.11 pro vaši orientaci
+
+  '
 ---
+
 Začínáte s bezdrátovými sítěmi? V tom případě by se hodilo načerpat trochu teorie o tom, co to vlastně WiFi a IEEE802.11 je, co znamenají jednotlivá písmenka za tímto číslem a vůbec dozvědět se pár detailů o standardu.<!--more--><p>
 Většina z vás si asi již odpověděla na otázku, proč se o bezdrátové sítě zajímat. Instalace bezdrátových sítí je na jednu stranu jednodušší na výstavbu a technickou realizaci, protože není třeba pokládat žádnou kabeláž, na stranu druhou nabízejí bezdrátové sítě podstatně nižší rychlosti, než nejmodernější ethernetové kabelové sítě. Jenže pokud nezamýšlíte přenášet ve vaší síti obrovská kvanta dat najednou, mohou výhody bezdrátové sítě převážit. </p>
 

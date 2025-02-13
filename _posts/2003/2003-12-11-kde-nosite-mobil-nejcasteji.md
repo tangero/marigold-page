@@ -1,14 +1,21 @@
 ---
 ID: 733
-title: Kde nosíte mobil nejčastěji?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kde-nosite-mobil-nejcasteji
-published: true
+oldlink: 'https://www.marigold.cz/item/kde-nosite-mobil-nejcasteji
+
+  '
 post_date: 2003-12-11 08:58:00
+post_excerpt: ''
+published: true
+summary_points:
+- Kapse u kalhot je nejoblíbenější místo pro nošení mobilu (48% hlasů).
+- Pouzdro na opasku je druhá nejčastější volba, preferuje ho 25% respondentů.
+- Taška/kabelka je třetí nejčastější místo pro mobil, s 9% hlasů.
+- Autor ankety nosí mobil v kapse a připravuje anketu o počtu vystřídaných čísel.
+title: Kde nosíte mobil nejčastěji?
 ---
+
 <p>
 Dneska stahuji marigoldí anketku o tom, kde nejčastěji nosíte mobilní telefon. Za ten zhruba měsíc, co tu visí, nasbírala 245 hlasů, což není zase tak málo z hlediska statistického, takže se podívejme na výsledky podle toho, kde mobil nejčastěji nosíte:</p>
 

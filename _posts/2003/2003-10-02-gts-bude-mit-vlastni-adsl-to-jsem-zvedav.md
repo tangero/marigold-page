@@ -1,16 +1,22 @@
 ---
 ID: 548
-title: >
-  GTS bude mít vlastní ADSL. To jsem
-  zvědav!
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/gts-bude-mit-vlastni-adsl-to-jsem-zvedav
-published: true
+oldlink: 'https://www.marigold.cz/item/gts-bude-mit-vlastni-adsl-to-jsem-zvedav
+
+  '
 post_date: 2003-10-02 20:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- GTS dříve kritizována za neposkytování ADSL na své síti v Praze.
+- GTS na Invexu představí vlastní verzi ADSL jako alternativu k Telecomu.
+- Tomáš Budník z GTS zdůrazňuje potenciál vysokorychlostního internetu v ČR.
+title: 'GTS bude mít vlastní ADSL. To jsem zvědav!
+
+  '
 ---
+
 <p>
 Už kdysi, když problémy kolem ADSL začínaly, jsem říkal, že GTS má nárok maximálně tak držet papulu a do Telecomu se nenaváže. GTS je totiž jedna z mála firem provozující klasickou telefonní síť a navíc ji provozuje na nejlukrativnějším území v Praze. A tak mi nebylo jasné, proč ve své Datelácká síti nenabídne ADSL a dává Telecomu lekce, jak ADSL má vypadat. </p>
 

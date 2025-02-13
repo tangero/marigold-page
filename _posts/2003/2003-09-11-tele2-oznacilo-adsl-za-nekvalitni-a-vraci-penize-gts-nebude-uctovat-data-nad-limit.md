@@ -1,14 +1,24 @@
 ---
 ID: 496
-title: 'Tele2 označilo ADSL za nekvalitní a&nbsp;vrací peníze, GTS nebude účtovat data nad limit'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tele2-oznacilo-adsl-za-nekvalitni-a-vraci-penize-gts-nebude-uctovat-data-nad-limit
-published: true
+oldlink: 'https://www.marigold.cz/item/tele2-oznacilo-adsl-za-nekvalitni-a-vraci-penize-gts-nebude-uctovat-data-nad-limit
+
+  '
 post_date: 2003-09-11 08:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Tele2 ukončuje nabízení ADSL, vrací peníze 300 zákazníkům a přechází na bezdrátové
+  připojení.
+- Český Telecom má zpoždění v zavádění ADSL a jeho kvalita je sporná.
+- GTS nebude do konce roku účtovat data nad limit u ADSL linek.
+- ADSL v ČR je považováno za komickou službu, neodpovídá standardům vysokorychlostního
+  připojení.
+title: Tele2 označilo ADSL za nekvalitní a&nbsp;vrací peníze, GTS nebude účtovat data
+  nad limit
 ---
+
 <p>
 Dvě důležité zprávy kolem ADSL, pokud opominu marketingové prohlášení Českého Telecomu, že ADSL již má deset tisíc klientů, na čemž je důležité hlavně to, že zavádění ADSL u Telecomu je ve skluzu. </p>
 

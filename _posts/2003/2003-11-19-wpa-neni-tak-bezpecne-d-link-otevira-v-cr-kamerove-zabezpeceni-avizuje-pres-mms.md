@@ -1,14 +1,22 @@
 ---
 ID: 680
-title: 'WPA není tak bezpečné, D-Link otevírá v&nbsp;ČR, kamerové zabezpečení avizuje přes MMS'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wpa-neni-tak-bezpecne-d-link-otevira-v-cr-kamerove-zabezpeceni-avizuje-pres-mms
-published: true
+oldlink: 'https://www.marigold.cz/item/wpa-neni-tak-bezpecne-d-link-otevira-v-cr-kamerove-zabezpeceni-avizuje-pres-mms
+
+  '
 post_date: 2003-11-19 16:05:00
+post_excerpt: ''
+published: true
+summary_points:
+- WPA má potenciální bezpečnostní problémy pro malé uživatele, nikoliv pro 802.1x.
+- D-Link otevřel 1. listopadu 2003 regionální zastoupení v Praze.
+- MRP nabízí videokamerový systém, který zasílá fotografie jako MMS zprávy.
+- MRP firma jménem připomíná prvního českého spamera.
+title: WPA není tak bezpečné, D-Link otevírá v&nbsp;ČR, kamerové zabezpečení avizuje
+  přes MMS
 ---
+
 <p>
 Na ComputerWorldu je článek <A href="http://www.cw.cz/cw.nsf/ID/674338FD9FB03012C1256DDE0037E372">Bezpečná, nebo nebezpečná WPA?</A>&#160;Píše se v něm, že s <STRONG>WPA mohou být také problémy ohledně kvality zabezpečení</STRONG>, nicméně ty jsou jen pro malé uživatele, uživatelé s autorizací přes vyhrazený server a 802.1x mohou spát klidně. </p>
 

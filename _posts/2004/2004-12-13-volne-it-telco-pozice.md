@@ -1,14 +1,21 @@
 ---
 ID: 1438
-title: Volné IT/Telco pozice
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/volne-it-telco-pozice
-published: true
+oldlink: 'https://www.marigold.cz/item/volne-it-telco-pozice
+
+  '
 post_date: 2004-12-13 12:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Irsko efektivně využívá dotace EU díky propracovaným vzdělávacím programům.
+- České firmy nehýčkají zaměstnance, což vede k nízké ochotě ke změně práce.
+- Češi odmítají cestovat za prací, ačkoliv by mohli výrazně zvýšit svůj plat.
+- Personální agentura ICT Recruit nabízí v ČR IT pozice i zdravotnické profese.
+title: Volné IT/Telco pozice
 ---
+
 <p>
 Irsko je po vstupu do EU země zaslíbená, narozdíl od nás tam ihned pochopili, jaký mohou mít pro ně potenciál dotace. Stát připravil programy, ve kterých zdarma vzdělává místní firmy i státní úřady, jak na peníze dosáhnout a jak napsat správnou žádost. Vyškolil pár tisíc odborníků, kteří pak vše zbaví formálních nedostatků a perfektně vyřídí, aby úspěch byl co nejjistější. Investovali takto pár milionů a každý rok jim to přinese pár desítek miliard. Protože jsem se před pár měsíci zabýval dotacemi u nás, mohu potvrdit, že zde je situace "trochu" jiná — nikdo vám nic zadarmo nedá, spíše vy musíte 30% dát někomu na správných místech.</p>
 <p>

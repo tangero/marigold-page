@@ -1,14 +1,21 @@
 ---
 ID: 414
-title: 'Geekoviny: digitální fotoaparát s&nbsp;WiFi podporou'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/geekoviny-digitalni-fotoaparat-s-wifi-podporou
-published: true
+oldlink: 'https://www.marigold.cz/item/geekoviny-digitalni-fotoaparat-s-wifi-podporou
+
+  '
 post_date: 2003-07-28 16:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- FujiFilm vyvinul digitální fotoaparát s WiFi podporou standardu 802.11b.
+- Fotoaparát má rozlišení 3 megapixely a byl představen na Wireless Japan 2003.
+- FujiFilm plánuje WiFi využití pro odesílání fotek do minilabů.
+- Autor doufá v budoucí možnosti odesílání fotek na FTP nebo emailem.
+title: 'Geekoviny: digitální fotoaparát s&nbsp;WiFi podporou'
 ---
+
 <p>
 Na tohle jsem čekal od doby, kdy jsem poprvé v digitální kameře Sony na CeBitu viděl bluetooth modul a koukal jsem, jak je schopna přes bluetooth a GPRS z mobilu odesílat fotky emailem: <STRONG>digitální fotoaparát s WiFi podporou</STRONG>. Výrobcem je firma FujiFilm, vyfotografovaný prototyp je z výstavy Wireless Japan 2003 (díky Petrovi Sršňovi za upozornění). </p>
 

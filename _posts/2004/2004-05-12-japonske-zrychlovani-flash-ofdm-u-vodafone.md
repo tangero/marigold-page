@@ -1,14 +1,21 @@
 ---
 ID: 1030
-title: 'Japonské zrychlování &#8211; Flash OFDM u&nbsp;Vodafone'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/japonske-zrychlovani-flash-ofdm-u-vodafone
-published: true
+oldlink: 'https://www.marigold.cz/item/japonske-zrychlovani-flash-ofdm-u-vodafone
+
+  '
 post_date: 2004-05-12 08:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- NTT DoCoMo plánuje v Japonsku implementaci HSDPA pro zvýšení rychlosti 3G sítí.
+- Vodafone Japan ohlásil přechod na flash OFDM s rychlostí až 3 Mb/s.
+- Flash OFDM je technologie firmy Flarion, dříve vyvinutá Bellovými laboratořemi.
+- Flarion dodává karty a čipové sady pro Flash OFDM, potenciálně i pro mobily.
+title: Japonské zrychlování &#8211; Flash OFDM u&nbsp;Vodafone
 ---
+
 <p>
 V Japonsku se již delší dobu místní mobilní operátoři trumfují, kdo nabídne vyšší rychlost, případně kdo ji alespoň ohlásí. Začalo s tím NTT DoCoMo, když chlubně prohlásilo, že HSDPA hodlá implementovat to své 3G sítě a tím ji povíšit na 3,5G. Nyní kontroval japonský Vodafone, když sdělil, že do své sítě hodlá implementovat jednoduchý přechod do flash OFDM, což mu umožní nabídnout rychlosti údajně až 3 Mb/s. Zkušební provoz započne v druhé polovině roku v Tokiu. </p>
 

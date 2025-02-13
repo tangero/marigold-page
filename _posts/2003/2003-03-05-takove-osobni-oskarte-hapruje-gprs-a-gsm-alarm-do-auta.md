@@ -1,14 +1,21 @@
 ---
 ID: 142
-title: 'Takové osobní: Oskartě hapruje GPRS a&nbsp;GSM alarm do auta'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/takove-osobni-oskarte-hapruje-gprs-a-gsm-alarm-do-auta
-published: true
+oldlink: 'https://www.marigold.cz/item/takove-osobni-oskarte-hapruje-gprs-a-gsm-alarm-do-auta
+
+  '
 post_date: 2003-03-05 08:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor vyřešil peskování za počítač pomocí mobilního přístupu k práci.
+- Oskarta GPRS se ukázala jako nespolehlivá alternativa k tarifnímu GPRS.
+- Autor hledá GSM pager pro lokalizaci polohy auta kvůli krádežím.
+- Zajímají ho osobní zkušenosti s lokalizačními zařízeními do auta.
+title: 'Takové osobní: Oskartě hapruje GPRS a&nbsp;GSM alarm do auta'
 ---
+
 <p>
 Abych nebyl doma pořád peskován, že neustále sedím u počítače, vyřešil jsem kdysi situaci nedávno: nakonfiguroval jsem si Nokia 7650 pro vyzdvihánáví pošty a do WAPu jsem předělal nějaké statistiky a administraci Marigolda a pracovních věcí, které s oblibou sleduji. Takže už nepracuju na počítači, ale Dita jen zabručí "zase si esemeskuješ" a já vyřizuji, co je potřeba. Strašně mazané. Nicméně to obnáší mít v telefonu GPRS kartu, abych se za účty doplatil a T-Mobile s měsíčním paušálem za GPRS jsem zamítl. Nakonec vyhrála Oskarta, protože cenu nabízí podstatně nižší bez paušálu. Jenže poslední dva dny mi na Lukách GPRS na Oskartě nejede - ikonka GPRS bliká jak zběsilá, ale nespojí se a nespojí. Obecně jsem si povšiml, že <STRONG>GPRS na Oskartě zlobí častěji, než tarifní GPRS </STRONG>- takže jsem chtěl varovat, abyste na něj nespoléhali. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 306
-title: 'Jiří Hlavenka na Živě o&nbsp;ADSL'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jiri-hlavenka-na-zive-o-adsl
-published: true
+oldlink: 'https://www.marigold.cz/item/jiri-hlavenka-na-zive-o-adsl
+
+  '
 post_date: 2003-05-22 08:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Hlavenka v článku o ADSL doporučuje levnější, pomalejší internetové připojení.
+- Většině uživatelů by stačila linka 64 Kbps za nízkou cenu.
+- Telecom preferuje dražší ADSL s vyšší rychlostí kvůli zisku.
+- Článek se ptá, zda snahy o výhodnější ADSL nejsou špatné.
+title: Jiří Hlavenka na Živě o&nbsp;ADSL
 ---
+
 <p>
 Na Živě doporučuji <STRONG>přečíst si článek Jiřího Hlavenky věnovaný ADSL a cenám.</STRONG> Mám stejný názor - <STRONG>většina uživatelů internetu by hrabala prstíčkem za relativně pomalou pevnou linku za stokorunové ceny</STRONG>. Málokdo využije půlmegovou linku doma - fajn je to na warez update, ale většině lidí by stačila linka 64 Kbps za cenu několika málo stokorun a byli by happy. Hlavně, že by byla dostupná po celé ČR. </p>
 

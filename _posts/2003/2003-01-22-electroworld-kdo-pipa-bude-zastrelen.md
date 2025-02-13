@@ -1,14 +1,21 @@
 ---
 ID: 58
-title: 'ElectroWorld: kdo pípá, bude zastřelen?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/electroworld-kdo-pipa-bude-zastrelen
-published: true
+oldlink: 'https://www.marigold.cz/item/electroworld-kdo-pipa-bude-zastrelen
+
+  '
 post_date: 2003-01-22 20:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- ElectroWorld v Průhonicích neměl ethernetový hub, pouze USB hub.
+- Zákazník pípal u vchodu a ochranka ho donutila k prohlídce.
+- Prohlídka odhalila jen běžné osobní věci, omluva neproběhla.
+- Hub byl nakonec zakoupen v Autocontu v Hypernově bez problémů.
+title: 'ElectroWorld: kdo pípá, bude zastřelen?'
 ---
+
 <p>
 <p>
 Humorná scéna dnes z prodejny ElectroWordu. Sháněl jsem v Průhonicích akutně ethernetový hub i napadlo mne (po Makru, kde ho neměli), že by ho mohli mít v ElectroWorldu. Proběhl jsem tedy během pár vteřin celou prodejnou až k počítačovému pultu, kde mi obsluhující personál osvětlil, že jediný hub mají pro USB a já jsem tedy usoudil, že zde tentokráte nenakoupím. </p>

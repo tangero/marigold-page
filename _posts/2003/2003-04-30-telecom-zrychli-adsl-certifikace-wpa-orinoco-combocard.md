@@ -1,16 +1,24 @@
 ---
 ID: 260
-title: >
-  Telecom zrychlí ADSL, certifikace WPA,
-  Orinoco ComboCard
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telecom-zrychli-adsl-certifikace-wpa-orinoco-combocard
-published: true
+oldlink: 'https://www.marigold.cz/item/telecom-zrychli-adsl-certifikace-wpa-orinoco-combocard
+
+  '
 post_date: 2003-04-30 09:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom slíbil zrychlit ADSL na 512 Kbps download a 128 Kbps upload do prázdnin.
+- WiFi aliance certifikovala WPA zabezpečení pro firmy Atheros, Broadcom, Cisco, Intel,
+  Intersil a Symbol.
+- Proxim představil PCMCIA kartu Orinoco 11a/b/g ComboCard s podporou WiFi a/b/g.
+- Nejlevnější ADSL linka by měla stát 1000 Kč v říjnu dle odhadu.
+title: 'Telecom zrychlí ADSL, certifikace WPA, Orinoco ComboCard
+
+  '
 ---
+
 <p>
 <STRONG>Český Telecom slíbil do prázdnin zrychlit ADSL.</STRONG> Moje proroctví, že do konce roku se cena za nejlevnější ADSL linku dostane na 1000 Kč ale stále platí, nyní to tipuji na říjen. Kdyby to nebylo nelegální, nabídnul bych tu i možnost si vsadit :) Zrychlné ADSL má vypadat tak, že místo 192 Kbps download nabídne telecom 512 Kbps a 128 Kbps upload. To už by stálo za to. Ne nadarmo se ministr Mlynář na Telecom zlobí...</p>
 

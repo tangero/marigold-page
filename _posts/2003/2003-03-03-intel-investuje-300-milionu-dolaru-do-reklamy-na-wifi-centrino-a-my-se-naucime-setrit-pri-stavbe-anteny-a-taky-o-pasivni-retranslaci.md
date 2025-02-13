@@ -1,14 +1,23 @@
 ---
 ID: 138
-title: 'Intel investuje 300 milionů dolarů do reklamy na WiFi Centrino. A&nbsp;my se naučíme šetřit při&nbsp;stavbě antény. A&nbsp;taky o&nbsp;pasivní retranslaci'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/intel-investuje-300-milionu-dolaru-do-reklamy-na-wifi-centrino-a-my-se-naucime-setrit-pri-stavbe-anteny-a-taky-o-pasivni-retranslaci
-published: true
+oldlink: 'https://www.marigold.cz/item/intel-investuje-300-milionu-dolaru-do-reklamy-na-wifi-centrino-a-my-se-naucime-setrit-pri-stavbe-anteny-a-taky-o-pasivni-retranslaci
+
+  '
 post_date: 2003-03-03 20:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- Intel investuje 300 milionů dolarů do reklamní kampaně na Centrino s WiFi.
+- Centrino bude oficiálně představeno 12. března a má změnit způsob práce.
+- Články Petra Šimandla se věnují levným a jednoduchým WiFi anténám.
+- Štěrbinová sektorová anténa je popsána na stránkách Vládi ze Střižkova.
+- Pasivní retranslace WiFi signálu je popsána na stránkách Daniela Hrotka.
+title: Intel investuje 300 milionů dolarů do reklamy na WiFi Centrino. A&nbsp;my se
+  naučíme šetřit při&nbsp;stavbě antény. A&nbsp;taky o&nbsp;pasivní retranslaci
 ---
+
 <p>
 Intel se rozhodl uspořádat masivní reklamní kampaň na Centrino, svoje mobilní řešení s WiFi. Celkem hodlá utratit 300 milionů dolarů, což tuto kampaň řadí mezi největší letošní kampaně. Kampaň má gradovat 12. března kdy Intel "změní nejen způsob vaší práce, ale i to, kde pracujete" - čili kdy představí Centrino, kombinaci dávno známých technologií. Můžeme se tomu ušklebovat, jenže marketingová podpora Intelu znamená hodně a WiFi se stane naprostou samozřejmostí ještě rychleji, než jak by se stalo bez pomoci Intelu. </p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 722
-title: 'Japonské mobilní trendy: WiFi a&nbsp;Linux v&nbsp;3G mobilech, Nokia ImageWear'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/japonske-mobilni-trendy-wifi-a-linux-v-3g-mobilech-nokia-imagewear
-published: true
+oldlink: 'https://www.marigold.cz/item/japonske-mobilni-trendy-wifi-a-linux-v-3g-mobilech-nokia-imagewear
+
+  '
 post_date: 2003-12-07 17:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- NTT DoCoMo a NEC vyvíjejí dualmod mobil s 3G a WiFi pro prodej v dubnu 2004.
+- NTT pracuje na vlastní Linuxové implementaci pro mobilní telefony, aby ušetřila
+  licenční poplatky.
+- Nokia uvádí na japonský trh elektronické šperky ImageWear, kompatibilní se všemi
+  telefony.
+title: 'Japonské mobilní trendy: WiFi a&nbsp;Linux v&nbsp;3G mobilech, Nokia ImageWear'
 ---
+
 <p>
 Japonský operátor NTT DoCoMo spolupracuje s firmou <STRONG>NEC na implementaci dualmod mobilu pro svoji 3G síť s podporou WiFi.</STRONG> Mobil by měl být v prodeji v dubnu 2004, v současné době probíhají testy. Telefon bude nabízet podporu standardu 802.11b a to jak pro datové přenosy, tak pro přenos hlasu. Rozměry telefonu jsou 103 x 53 x 30 mm a váha 123 gramů, to je o 14 gramů více, než stávající mobil NTT Docomo, z něhož je nový WiFi telefon odvozen. </p>
 

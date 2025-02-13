@@ -1,14 +1,21 @@
 ---
 ID: 729
-title: 'Bluetone Angel v&nbsp;dalších čtyřech městech'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bluetone-angel-v-dalsich-ctyrech-mestech
-published: true
+oldlink: 'https://www.marigold.cz/item/bluetone-angel-v-dalsich-ctyrech-mestech
+
+  '
 post_date: 2003-12-10 08:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Angel ČRa pokrývá nově Liberec, Pardubice, Olomouc a České Budějovice.
+- Pardubický vysílač Angel pokrývá kromě města i Heřmanův Městec, Přelouč a okolí.
+- Liberecký vysílač Angel na Ještědu pokrývá kromě Liberce i Tanvald.
+- Angel nepotřebuje přímou viditelnost a měsíční ceny začínají na 1500 Kč.
+title: Bluetone Angel v&nbsp;dalších čtyřech městech
 ---
+
 <p>
 Další čtyři města jsou pokryta službou Angel Českých Radiokomunikací: Liberec, Pardubice, Olomouc a České Budějovice. </p>
 

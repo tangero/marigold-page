@@ -1,14 +1,22 @@
 ---
 ID: 85
-title: 'Proxim a&nbsp;jeho 802.11g plán'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/proxim-a-jeho-802-11g-plan
-published: true
+oldlink: 'https://www.marigold.cz/item/proxim-a-jeho-802-11g-plan
+
+  '
 post_date: 2003-02-11 07:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- Orinoco AP-600 access point lze rozšířit mini-PCI kartou na 802.11g nebo budoucí
+  standardy.
+- Cena Orinoco AP-600 se pohybuje od 280 USD (802.11b) do 390 USD (802.11a).
+- Orinoco 11g Gold Cardbus Card pro notebooky bude stát 89 USD.
+- Starší ORiNOCO 11b Gold a Silver Cardbus Card zlevní díky nové kartě.
+title: Proxim a&nbsp;jeho 802.11g plán
 ---
+
 <p>
 Nový <STRONG>Orinoco AP-600 access point</STRONG> má být další živnou půdou pro 802.11g podhoubí ve WiFi sítích. Ačkoliv toto apčko setrvává na klasickém WiFi 802.11b, může být pomocí mini-PCI karty rozšířeno na 802.11g nebo jakýkoliv budoucí standard. Přitom jde o levné (na Proxim ano) APčka - cena 280 USD pro 802.11b případně 390 USD pro 802.11a sítě. 802.11g bude stát 350 USD a upgrade mini-PCI karta má vyjít na 100 USD, ovšem Proxim přikládá kupon na slevu 25 USD z APčka vybaveného 802.11b - abyste se dostali na stejnou cenu jako později nastoupivšího 802.11g - chce se tak bránit přechodu zákazníků jinam a chránit jejich investici. </p>
 

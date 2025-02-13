@@ -1,14 +1,21 @@
 ---
 ID: 327
-title: 'Boeing a&nbsp;Lufthansa: internet do letadel pokračuje'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/boeing-a-lufthansa-internet-do-letadel-pokracuje
-published: true
+oldlink: 'https://www.marigold.cz/item/boeing-a-lufthansa-internet-do-letadel-pokracuje
+
+  '
 post_date: 2003-05-29 07:36:00
+post_excerpt: ''
+published: true
+summary_points:
+- Lufthansa plánuje do konce roku 2004 vybavit 80 letadel internetem.
+- Cena internetu v letadlech Lufthansy by měla být 25-35 USD za let.
+- Maximálně 20 lidí využívalo internet v testovacích letech Lufthansy.
+- Ekonomická návratnost internetu v letadlech Lufthansy je nejistá.
+title: 'Boeing a&nbsp;Lufthansa: internet do letadel pokračuje'
 ---
+
 <p>
 Německé Lufthanse se projekt internetu do letadel (Connexion) natolik zalíbil, že do konce roku 2004 chce mít 80 svých letadel (jak Boeingů tak Airbusů) vybavených možností připojení k internetu. </p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 371
-title: >
-  Na Mobilu se draží Samsung Matrix
-  Phone
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/na-mobilu-se-drazi-samsung-matrix-phone
-published: true
+oldlink: 'https://www.marigold.cz/item/na-mobilu-se-drazi-samsung-matrix-phone
+
+  '
 post_date: 2003-06-17 09:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobil.cz draží na iDnes telefon Samsung z Matrixu (Matrix Phone).
+- Dražba Matrix Phone probíhá na iDnes, cena stoupá.
+- Výtěžek dražby Matrix Phone půjde na Dětský domov.
+- Autor článku uvažuje o účasti v dražbě Matrix Phone.
+title: 'Na Mobilu se draží Samsung Matrix Phone
+
+  '
 ---
+
 <p>
 Server <STRONG>Mobil.cz draží přes idnesácký dražební systém mobilní telefon Samsung</STRONG>, jenž účinkoval v Matrixu - takzvaný <STRONG>Matrix Phone</STRONG>. Nefunguje bohužel v GSM sítích, ale stejně jsem si řekl, že by nebylo od věci si přihodit. Podrobnosti <A href="http://www.mobil.cz/redakce/aukcematrix-pondeli030616.html" target=_blank>zde na Mobil.cz</A>.&#160;Už jsem takhle dražil telefon, co roztřískal redaktorovi MF DNES cholerik Klaus, bohužel jsem v závěrečném finiši podlehl tuším Ondřeji Frycovi, který ho nakonec získal a už nevím, co s ním udělal. </p>
 

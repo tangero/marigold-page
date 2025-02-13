@@ -1,14 +1,21 @@
 ---
 ID: 400
-title: 'A to je pro červenec vše přátelé, já dy já dy dá&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/a-to-je-pro-cervenec-vse-pratele-ja-dy-ja-dy-da
-published: true
+oldlink: 'https://www.marigold.cz/item/a-to-je-pro-cervenec-vse-pratele-ja-dy-ja-dy-da
+
+  '
 post_date: 2003-07-04 11:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Červenec autor tráví na Marigoldovi, v neděli odjíždí do Keni na tři týdny.
+- Autor nikoho nežádal o příspěvky na Marigolda, ale pochybuje, že někdo přispěje.
+- Před odjezdem se pokusí přidat Historii českého internetu na Marigolda.
+- Autor si vybral Keňu bez internetu a GSM na třítýdenní dovolenou po deseti letech.
+title: A to je pro červenec vše přátelé, já dy já dy dá&#8230;
 ---
+
 <p>
 Jak to tak vypadá, pro červenec je to na Marigoldovi vše. V neděli ráno vypadnu směrem na Vídeň, pak hup letadlem do Mombasy a tři týdny v Keňi podle toho, jak se zrovna dobře zorientujeme v mapě - takže dost možná i více, než tři týdny. </p>
 

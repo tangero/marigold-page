@@ -1,14 +1,21 @@
 ---
 ID: 552
-title: 'Elektronické mýtné v&nbsp;Německu má další problémy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/elektronicke-mytne-v-nemecku-ma-dalsi-problemy
-published: true
+oldlink: 'https://www.marigold.cz/item/elektronicke-mytne-v-nemecku-ma-dalsi-problemy
+
+  '
 post_date: 2003-10-03 08:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- Německé mýtné pro kamiony se od 2. listopadu platit nebude kvůli softwarovým chybám.
+- Německá vláda očekávala od mýta 160 milionů eur měsíčně.
+- Elektronické mýtné v ČR nevyužívá satelitní navigaci, ale odečet v mýtnicích.
+- Kamiony už dnes používají tachografy pro záznam rychlosti a času jízdy.
+title: Elektronické mýtné v&nbsp;Německu má další problémy
 ---
+
 <p>
 Hospodářské noviny dnes věnují velký článek problémům kolem německého elektronického mýtného na dálnicích pro kamiony: Mýtné na německých dálnicích se od 2. listopadu platit nebude, uvedl podle listu Handelsblatt spolkový ministr dopravy Manfred Stolpe. Systém bezdrátového přenosu dat prostřednictvím satelitu a mobilních telefonů, na němž je elektronické mýto postaveno, totiž vykazuje 64 závažných softwarových a technických chyb. Projekt byl přitom ostře sledovaný německou vládou. Ta si od mýta slibuje potřebných 160 miliónů eur měsíčně, navíc jde o největší současný projekt spojení veřejných a soukromých financí.</p>
 

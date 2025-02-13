@@ -1,14 +1,22 @@
 ---
 ID: 1028
-title: 'Především CDMA a&nbsp;kampaň na Expres je dnes oblíbeným tématem&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/predevsim-cdma-a-kampan-na-expres-je-dnes-oblibenym-tematem
-published: true
+oldlink: 'https://www.marigold.cz/item/predevsim-cdma-a-kampan-na-expres-je-dnes-oblibenym-tematem
+
+  '
 post_date: 2004-05-11 08:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Článek na Mobil.cz pojednává o prohlášení Ericssonu ohledně sítí 4G v roce 2012.
+- Mobil.cz publikoval pokračování seriálu o budování komunitních Wi-Fi sítí.
+- MaLér spekuluje o kampani Eurotelu a Telecomu pro službu Expres, což je společný
+  brand pro CDMA a ADSL.
+- V. Janeček na Gadgets spekuluje o CDMA od Eurotelu a kritizuje mlžení.
+title: Především CDMA a&nbsp;kampaň na Expres je dnes oblíbeným tématem&#8230;
 ---
+
 <p>
 Na Mobil.cz <A href="http://mobil.idnes.cz/mobilni_komunikace/mobilni_technologie/zpravy-mobilni_technologie/ctvrtagenerace040511.html" target=_blank>vyšel můj článek</A> věnovaný nedávnému prohlášení šéfa výzkumu Ericssonu Ulfa Wahlberga ve věci 4G. Článek se jmenuje <STRONG>Sítě 4G očekávejte v roce 2012 (říká Ericsson).</STRONG> Wifisty na Mobilu zaujme <A href="http://mobil.idnes.cz/mobilni_komunikace/wifi/wifi_volyne040511.html" target=_blank>pokračování seriálu</A> o stavbě komunitních wifi sítí Jak si postavit síť Wi-Fi na malých městech (3. - Občanské sdružení, připojení k internetu).</p>
 

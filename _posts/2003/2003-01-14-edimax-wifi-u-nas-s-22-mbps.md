@@ -1,14 +1,21 @@
 ---
 ID: 41
-title: 'Edimax WiFi u&nbsp;nás s&nbsp;22 Mbps'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/edimax-wifi-u-nas-s-22-mbps
-published: true
+oldlink: 'https://www.marigold.cz/item/edimax-wifi-u-nas-s-22-mbps
+
+  '
 post_date: 2003-01-14 21:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Edimax uvádí na český trh WiFi produkty s rychlostí 22 Mbps.
+- Distributorem Edimax produktů v Česku je společnost Actebis.
+- BR-6104WP je 4portový bezdrátový router s tiskovým serverem za 5 590,- Kč.
+- Zkušenosti s 22 Mbps WiFi od D-Linku jsou špatné, rychlost je nízká.
+title: Edimax WiFi u&nbsp;nás s&nbsp;22 Mbps
 ---
+
 <p>
 Po D-Linku je další výrobce, který na českém trhu nabízí WiFi s rychlostí 22 Mbps Edimax, distributorem je Actebis. Přikládám seznam produktů a koncové ceny bez DPH&#160;toho, co právě uvádějí na náš trh. Produkty také doplním do databáze produktů u nás, jen co bude více podrobností.</p>
 

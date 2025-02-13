@@ -1,14 +1,21 @@
 ---
 ID: 190
-title: 'Tarif, kde jsou SMS zdarma. V&nbsp;Dánsku: Telia Xpress'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tarif-kde-jsou-sms-zdarma-v-dansku-telia-xpress
-published: true
+oldlink: 'https://www.marigold.cz/item/tarif-kde-jsou-sms-zdarma-v-dansku-telia-xpress
+
+  '
 post_date: 2003-03-24 10:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- Telia Xpress je dánský mobilní tarif od Telia zaměřený na mladé.
+- SMS zprávy jsou v tarifu Telia Xpress neomezeně a zdarma.
+- Měsíční poplatek Telia Xpress je 510 Kč, volání 5,10 Kč/min.
+- Data v Telia Xpress stojí 1,7 Kč/10 Kb, lze přikoupit levnější tarif.
+title: 'Tarif, kde jsou SMS zdarma. V&nbsp;Dánsku: Telia Xpress'
 ---
+
 <p>
 Tohle je tarif pro mobily, který by se vám mohl líbit. Nabízí ho dánská Telia, jmenuje se <STRONG>Telia Xpress</STRONG>&#160;a míní ho jako tarif pro mladé. <STRONG>SMS zprávy jsou bez omezení počtu zdarma!</STRONG></p>
 

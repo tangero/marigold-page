@@ -1,14 +1,21 @@
 ---
 ID: 152
-title: 'Přehledový ceník ADSL a&nbsp;další novinky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prehledovy-cenik-adsl-a-dalsi-novinky
-published: true
+oldlink: 'https://www.marigold.cz/item/prehledovy-cenik-adsl-a-dalsi-novinky
+
+  '
 post_date: 2003-03-07 12:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold má novou rubriku Přehled cen ADSL s informacemi o ADSL.
+- Komentáře si pamatují email a jméno i bez registrace.
+- Naprogramována je možnost vypsat komentáře od poslední návštěvy.
+- Odkaz na nové komentáře je provizorně vedle nadpisu.
+title: Přehledový ceník ADSL a&nbsp;další novinky
 ---
+
 <p>
 Jelikož jsem se probíral nabídkou ADSL připojení, napadlo mne vytvořit nějakou šikovnou tabulku cen za připojení skrze ADSL. A jak jsem si usmyslel, tak se i stalo - Marigold má <STRONG>novou rubriku </STRONG><A href="/adsl"><STRONG>Přehled cen ADSL</STRONG></A> - tam najdete potřebné informace o cenách a můžete si hrát a přemýšlet :)</p>
 

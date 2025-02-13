@@ -1,14 +1,21 @@
 ---
 ID: 1304
-title: Prezentace pro zákazníka
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prezentace-pro-zakaznika
-published: true
+oldlink: 'https://www.marigold.cz/item/prezentace-pro-zakaznika
+
+  '
 post_date: 2004-09-07 08:01:00
+post_excerpt: ''
+published: true
+summary_points:
+- Práce se nahromadila a pracovní sinusoida se ustálila na horním extrému.
+- Firma prezentuje zákazníkům proces účtování XML dokumentů v mobilní síti.
+- Autor vtipně navrhuje prezentaci odhalující pravdu o zakázce a službách.
+- Autor nakonec zvolil konvenční prezentaci, i když si uvědomuje její prázdnotu.
+title: Prezentace pro zákazníka
 ---
+
 <p>
 Nahrnulo se nějak hodně práce. Dříve jsem si myslel, že ve firmě mne postihuje pracovní sinusoida, kdy jeden týden je práce do úmoru a druhý týden není do čeho píchnout. Těšil jsem se, jak se to stabilizuje. Stabilizovalo. Ovšem na tom horním extrému.</p>
 

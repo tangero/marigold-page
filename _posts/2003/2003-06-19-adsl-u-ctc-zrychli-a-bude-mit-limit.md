@@ -1,14 +1,21 @@
 ---
 ID: 377
-title: 'ADSL u&nbsp;ČTc zrychlí a&nbsp;bude mít limit'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/adsl-u-ctc-zrychli-a-bude-mit-limit
-published: true
+oldlink: 'https://www.marigold.cz/item/adsl-u-ctc-zrychli-a-bude-mit-limit
+
+  '
 post_date: 2003-06-19 08:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- ADSL u Českého Telecomu zrychlí od července pro domácí uživatele.
+- Základní linka navýší na 512/128 Kb/s s limitem 10 GB dat.
+- Odstranění dashboardu a NAT, statické veřejné IP adresy budou pro všechny.
+- Uvolnění trhu zařízení umožní uživatelům sami dodat ADSL modemy.
+title: ADSL u&nbsp;ČTc zrychlí a&nbsp;bude mít limit
 ---
+
 <p>
 ADSL u Českého Telecomu pro domácí uživatele má zrychlit. Od července půjde o tyto změny.</p>
 

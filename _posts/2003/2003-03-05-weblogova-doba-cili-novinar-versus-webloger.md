@@ -1,16 +1,23 @@
 ---
 ID: 1068
-title: >
-  Weblogová doba čili novinář versus
-  webloger
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/weblogova-doba-cili-novinar-versus-webloger
-published: true
+oldlink: 'https://www.marigold.cz/item/weblogova-doba-cili-novinar-versus-webloger
+
+  '
 post_date: 2003-03-05 12:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Weblogy vznikly v USA roku 1997, Dave Winer a Jorn Barger byli průkopníci.
+- Jorn Barger je autorem termínu "weblog", který použil koncem roku 1997.
+- První jednoduchý nástroj pro tvorbu blogů Pitas se objevil v červenci 1999.
+- Weblog je pravidelně aktualizovaná stránka s odkazy a subjektivními komentáři.
+title: 'Weblogová doba čili novinář versus webloger
+
+  '
 ---
+
 Trochu netradičně přeskočím příspěvkem na téma weblog. Co je to weblog, jak začínal a jaké měl podhoubí? A co je a není weblog?<!--more-->Před nějakými čtyřmi lety se mne jeden novinář zeptal, zda si myslím, že Neviditelný svět má ve světě nějakou obdobu. Tehdy jsem odpověděl, že o žádné takové nevím. Dnes už ano &#8211; je jí weblog. 
 <H4>Jak vůbec vznikl weblog? </H4>
 <p>

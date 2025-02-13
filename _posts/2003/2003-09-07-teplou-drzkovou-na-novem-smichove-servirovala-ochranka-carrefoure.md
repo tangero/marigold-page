@@ -1,16 +1,23 @@
 ---
 ID: 486
-title: >
-  Teplou držkovou na Novém Smíchově
-  servírovala ochranka CarreFoure
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/teplou-drzkovou-na-novem-smichove-servirovala-ochranka-carrefoure
-published: true
+oldlink: 'https://www.marigold.cz/item/teplou-drzkovou-na-novem-smichove-servirovala-ochranka-carrefoure
+
+  '
 post_date: 2003-09-07 18:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- Flash Mob na Novém Smíchově skončil napadením dvou blogerů ochrankou Carrefouru.
+- Ochranka Nového Smíchova zadržovala aktéry a držela je v cele.
+- Tesco Havířov řešilo podobný problém s násilnou a šmírující ochrankou.
+- Fotografování v Carrefouru může vést k problémům s ochrankou.
+title: 'Teplou držkovou na Novém Smíchově servírovala ochranka CarreFoure
+
+  '
 ---
+
 <p>
 Nedělní akce Flash Mob na Novém Smíchově pořádaná Danem Dočekalem dopadla zajímavě - ochranka vyhrožovala a napadla dva účastníky akce. O co šlo? Účastníci Flash Mobu měli přijít do obchodního centra Nový Smíchov a u CarreFoure začít fotografovat. Pointa byla samozřejmě v tom, že ochranka zde lidi otravuje a zakazuje jim fotit.</p>
 

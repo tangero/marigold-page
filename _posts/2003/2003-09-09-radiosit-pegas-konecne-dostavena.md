@@ -1,14 +1,21 @@
 ---
 ID: 493
-title: Radiosíť Pegas konečně dostavěna
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/radiosit-pegas-konecne-dostavena
-published: true
+oldlink: 'https://www.marigold.cz/item/radiosit-pegas-konecne-dostavena
+
+  '
 post_date: 2003-09-09 08:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- Pegas je digitální radiokomunikační síť pro integrovaný záchranný systém v Česku.
+- EADS Telecom dokončil výstavbu sítě Pegas, která pokrývá celé Česko.
+- Technologie Tetrapol, na které je Pegas založen, není standardem jako Tetra.
+- Výstavba sítě Pegas byla poznamenána zpožděními a problémy.
+title: Radiosíť Pegas konečně dostavěna
 ---
+
 Společnost EADS Telecom dokončila výstavbu infrastruktury digitální radiokomunikační sítě Pegas pro integrovaný záchranný systém. Síť nyní pokrývá signálem celé Česko, což by mělo umožnit vzájemnou komunikaci příslušníků policie, hasičů, záchranářů a dalších záchranných složek. 
 <p>
 <STRONG>Síť Pegas je profesionální trunková radiosíť</STRONG> určená primárně pro policii a složky ministerstva vnitra, má nahradit a pomalu taky nahrazuje zastaralou původní radiosíť určenou pro komunikaci bezpečnostních složek. Nově Pegas také přidává komunikaci hasičů, záchranářů atd. 

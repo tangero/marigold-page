@@ -1,14 +1,21 @@
 ---
 ID: 278
-title: 'Marigoldovi jsem vylepšil kabátek a&nbsp;přidal nabídku WIA do přehledu ADSL'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/marigoldovi-jsem-vylepsil-kabatek-a-pridal-nabidku-wia-do-prehledu-adsl
-published: true
+oldlink: 'https://www.marigold.cz/item/marigoldovi-jsem-vylepsil-kabatek-a-pridal-nabidku-wia-do-prehledu-adsl
+
+  '
 post_date: 2003-05-07 12:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Upír vytvořil logo pro Marigold, i když autor původně chtěl vlastní obličej.
+- Maler korigoval barvy webu na svém Apple LCD monitoru.
+- Marek Prokop autora proškolil v CSS a HTML, poukázal na chyby.
+- WIA byla přidána do nabídky ADSL, je levná při inkasu a roční smlouvě.
+title: Marigoldovi jsem vylepšil kabátek a&nbsp;přidal nabídku WIA do přehledu ADSL
 ---
+
 <p>
 Já a webdesign, to je jako když pejsek s kočičkou vaří dort. Prostě se mi líbí, když má server hezké logo. A tak jsem uprosil mistra tvorby obličejů do log, <A href="http://www.upirsoft.sk/" target=_blank><STRONG>Upíra</STRONG></A>, aby mi spíchnul opravdový obličej pro Marigolda. Štefan navrhoval, abych tam dal svůj obličej, pak ale souhlasil, že je to příliš velké selekční kritérium pro návštěvníky, zatímco Úpírovo dílo vypadá docela dobře. </p>
 

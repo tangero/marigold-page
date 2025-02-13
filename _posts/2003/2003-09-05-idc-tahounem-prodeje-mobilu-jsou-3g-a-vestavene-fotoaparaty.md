@@ -1,14 +1,21 @@
 ---
 ID: 482
-title: 'IDC: Tahounem prodeje mobilů jsou 3G a&nbsp;vestavěné fotoaparáty'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/idc-tahounem-prodeje-mobilu-jsou-3g-a-vestavene-fotoaparaty
-published: true
+oldlink: 'https://www.marigold.cz/item/idc-tahounem-prodeje-mobilu-jsou-3g-a-vestavene-fotoaparaty
+
+  '
 post_date: 2003-09-05 08:05:00
+post_excerpt: ''
+published: true
+summary_points:
+- IDC předpokládá prodej více než 500 milionů mobilů v roce 2004.
+- G sítě a fotoaparáty jsou hlavními tahouny prodeje mobilních telefonů.
+- V roce 2004 bude v oběhu 1,4 miliardy mobilních telefonů celosvětově.
+- Evropa, Amerika a Asie mají odlišné trendy v poptávce po mobilech.
+title: 'IDC: Tahounem prodeje mobilů jsou 3G a&nbsp;vestavěné fotoaparáty'
 ---
+
 <p>
 IDC vydala průzkum trhu s mobilními telefony, jasně že placený. Nicméně některá data z něj byla rozeslána volně v tiskové zprávě, jak už se to dělá, aby média průzkum citovala a zákazníci se dozvěděli, kde lze své dolárky utratit za celou verzi průzkumu. </p>
 

@@ -1,14 +1,23 @@
 ---
 ID: 560
-title: 'Invex 2003: jedna fotka, dvě hodinky chození'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/invex-2003-jedna-fotka-dve-hodinky-chozeni
-published: true
+oldlink: 'https://www.marigold.cz/item/invex-2003-jedna-fotka-dve-hodinky-chozeni
+
+  '
 post_date: 2003-10-07 08:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- Invex autora zklamal, zaznamenal zavřené haly a úpadek oproti minulým ročníkům.
+- Knihy iDNES byly přelepeny Computer Press, což značí prodej a konec působení v Mafře.
+- Mobilní operátoři Eurotel a T-Mobile vystavovali v Game hallu, Oskar měl klidná
+  zákoutí.
+- Creative Hall představovala studentské herní projekty, nabízející neotřelé nápady
+  na Invexu.
+title: 'Invex 2003: jedna fotka, dvě hodinky chození'
 ---
+
 <p>
 Možná podléhám předčasnému pesimismu, ale letošní Invex mne vyloženě zklamal. Sám jsem velký příznivec podobných akcí a výstav, CeBIT hájím do roztrhání těla, na Telecom International či GSM kongres se vyloženě těším. Jenže Invex mne poslední dva roky spíše dojímá. Zavřené haly, kdysi prestižní telekomunikační pavilon Z nacpaný nějakým mistrovstvím v hraní počítačových her a jen díky tomu trochu zaplněný, další zvýšení počtu stánků nejrůznějších vydavatelství presentujících své knihy a časopisy (samozřejmě barterová plocha) - to všechno je pro mne znamení hlubokého propadu. Ale abych jen nelamentoval, na Invexu jsem letos byl jediný den, po snad sedmi letech poprvé jsem tu nebyl celý týden, nepovažuji za vhodné po první dni soudit. Snad jen několik postřehů si dovolím:</p>
 

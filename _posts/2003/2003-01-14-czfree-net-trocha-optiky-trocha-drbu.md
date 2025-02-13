@@ -1,14 +1,22 @@
 ---
 ID: 40
-title: 'CzFree.Net &#8211; trocha optiky, trocha drbů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/czfree-net-trocha-optiky-trocha-drbu
-published: true
+oldlink: 'https://www.marigold.cz/item/czfree-net-trocha-optiky-trocha-drbu
+
+  '
 post_date: 2003-01-14 12:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- Deu údajně nezaplatil firmě Anixter fakturu za WiFi techniku dle tvrzení Tomáše
+  Kaplera.
+- xChaos v diskusi CzFree prohlásil, že dluží peníze Deuovi a přebírá jeho provinění.
+- Root.cz publikoval článek o první optické trase CzFree.Net s Ronja pojítky.
+- Marigold se těší na OmniLux, levná optická pojítka s vysokou kapacitou.
+title: CzFree.Net &#8211; trocha optiky, trocha drbů
 ---
+
 <p>
 Abych pokračoval v načnuté kauze s CzFree.Net - to je zajímavé, co všechno vyplave na povrch, když se v něčem začne šťourat. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 373
-title: 'Dražba Samsung Matrix Phone skončila na 35111&nbsp;Kč'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drazba-samsung-matrix-phone-skoncila-na-35111-kc
-published: true
+oldlink: 'https://www.marigold.cz/item/drazba-samsung-matrix-phone-skoncila-na-35111-kc
+
+  '
 post_date: 2003-06-17 16:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Matrix Phone Samsung vydražen za 35111 Kč Petru Syrovátkovi.
+- Dražba byla dramatická, cena rychle rostla přes 10000 Kč a 16000 Kč.
+- Kamil Vacek ze Samsungu se krátce zapojil do dražby.
+- Výtěžek dražby poputuje do Dětského domu ve Zbraslavi.
+title: Dražba Samsung Matrix Phone skončila na 35111&nbsp;Kč
 ---
+
 <p>
 Dnes dražený Matrix Phone od Samsungu (jediný určený pro ČR) skončil 17 minut po dražebním limitu <STRONG>na ceně 35111 Kč a majitelem se stává Petr Syrovátka</STRONG>. </p>
 

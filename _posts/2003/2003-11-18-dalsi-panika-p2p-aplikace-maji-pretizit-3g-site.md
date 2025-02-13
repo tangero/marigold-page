@@ -1,14 +1,24 @@
 ---
 ID: 676
-title: 'Další panika: P2P aplikace mají přetížit 3G sítě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-panika-p2p-aplikace-maji-pretizit-3g-site
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-panika-p2p-aplikace-maji-pretizit-3g-site
+
+  '
 post_date: 2003-11-18 17:03:00
+post_excerpt: ''
+published: true
+summary_points:
+- P2P aplikace údajně zatíží 3G sítě, což je dle autora spíše PR firmy Beep Science.
+- Beep Science nabízí P2P distribuci obsahu pro mobily s DRM ochranou, zaměřenou na
+  legální obsah.
+- P2P technologie se zdá pro distribuci legálního obsahu zbytečná, centrální servery
+  jsou jednodušší.
+- P2P klienty bez DRM pro chytré telefony jsou zatím v nedohlednu, kvůli omezené paměti
+  telefonů.
+title: 'Další panika: P2P aplikace mají přetížit 3G sítě'
 ---
+
 <p>
 P2P aplikace jsou pořádný žrout přenosové kapacity. V poslední době se objevují názory, že P2P aplikace dají pořádně zakouřit 3G sítím. Na toto téma jsem našel hned několik článků, veskrze stejných, například na NewsFactor <A href="http://www.newsfactor.com/perl/story/22706.html">P2P Set To Cause 3G Meltdown</A> nebo <A href="http://www.pcw.co.uk/News/1149068">zde na Personal Computer World</A>. Osobně si to tipuji jen na mazané PR společnosti Beep Science, protože se tam hovoří o jejích produktech a to velmi vemlouvavě. Nějak se tam nezmiňuje, že v žádné 3G sítí se za data neplatí paušál, takže možnost, že by si uživatelé pustili P2P síť na 3G telefonu a hromadně tahali data, by spíše operátora potěšila. Jenže už se toho chytají komentátoři z deního zpravodajství, kterým tahle maličkost uniká a už vytvářejí mlhu paniky, že 3G je v ohrožení. Nebojte, není. </p>
 

@@ -1,14 +1,23 @@
 ---
 ID: 420
-title: 'Další blogerské zajímavosti (po&nbsp;panice na blogerské kurze)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-blogerske-zajimavosti-po-panice-na-blogerske-kurze
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-blogerske-zajimavosti-po-panice-na-blogerske-kurze
+
+  '
 post_date: 2003-07-30 17:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- Gadgets blog s podtitulem Hi-tech hračky autora inspiroval článek o oborových webozích.
+- Žertvův deníček je anonymní blog s humorným obsahem, jehož identita je předmětem
+  soutěže.
+- Epileptický křeček je blog s kvalitním obsahem, za kterým stojí známý bloger Pixy.
+- Casanova je deníček virtuálního svůdníka, podobný Žertvovu deníčku, ale s nižším
+  platem.
+title: Další blogerské zajímavosti (po&nbsp;panice na blogerské kurze)
 ---
+
 Před odjezdem na dovolenou jsem se podíval po <A href="http://beta.marigold.cz/zprava.html?id=23735">nových zajímavých weblozích</A> <EM>(fuj, jak se to píše richtig tschechisch?)</EM> - a měsíční přestávka dala dost prostoru na to, aby se nové weblogy vytříbřily a ukázaly i nějaké další, takže si dovolím to zase okomentovat. 
 <p>
 Asi pro mne&#160;nezajímavější nový blog se <A href="http://www.bloguje.cz/blogy/gadgets/">jmenuje Gadgets</A> a má <B>podtitul Hi-tech hračky</B>. Je to něco jako já tu občas píšu Geekoviny, jenže i o věcech, které nesouvisejí s bezdráty. Například dnes píše o Sony Playstation Portable. Autor se dokonce přiznal, že ho inspirovalo moje zvolání jen houště oborových weblogů, to mne potěšilo že jsem inspiroval k něčemu tak zajímavému :). Doporučuji! 

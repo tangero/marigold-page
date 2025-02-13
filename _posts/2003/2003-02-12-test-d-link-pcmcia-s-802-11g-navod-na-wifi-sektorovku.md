@@ -1,14 +1,21 @@
 ---
 ID: 89
-title: 'Test D-Link PCMCIA s&nbsp;802.11g, návod na WiFi sektorovku'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/test-d-link-pcmcia-s-802-11g-navod-na-wifi-sektorovku
-published: true
+oldlink: 'https://www.marigold.cz/item/test-d-link-pcmcia-s-802-11g-navod-na-wifi-sektorovku
+
+  '
 post_date: 2003-02-12 08:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- D-Link AirPlus Xtreme G recenze PCMCIA karty je dostupná na 802.11 Planet.
+- WiFiOnline nabízí český návod na stavbu 10 dBi sektorové antény.
+- Mobil.cz publikoval přehled hodinek s pagingem od Microsoftu.
+- Hodinky s pagingem stahují informace jako počasí a dopravní zprávy.
+title: Test D-Link PCMCIA s&nbsp;802.11g, návod na WiFi sektorovku
 ---
+
 <p>
 Zatímco recenzí Géčkových APček a routerů je již poměrně požehnaně, recenzi PCMCIA karty pracující podle 802.11g je jako šafránu. Respektive jsem našel první pořádnou. A to na výrobek s fantastickým jménem <STRONG>D-Link AirPlus Xtreme G High-Speed 2.4 GHz Wireless CardBus Adapter</STRONG>. To zase někdo v marketingu myslel hlavou... Recenzi najdete <A href="http://www.80211-planet.com/reviews/CD/article.php/1582351" target=_blank>zde na 802.11 Planet</A>.</p>
 

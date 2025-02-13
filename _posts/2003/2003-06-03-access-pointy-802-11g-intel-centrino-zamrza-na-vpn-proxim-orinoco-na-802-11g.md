@@ -1,17 +1,25 @@
 ---
 ID: 337
-title: >
-  Access pointy 802.11g. Intel Centrino
-  zamrzá na VPN. Proxim Orinoco na
-  802.11g
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/access-pointy-802-11g-intel-centrino-zamrza-na-vpn-proxim-orinoco-na-802-11g
-published: true
+oldlink: 'https://www.marigold.cz/item/access-pointy-802-11g-intel-centrino-zamrza-na-vpn-proxim-orinoco-na-802-11g
+
+  '
 post_date: 2003-06-03 07:56:00
+post_excerpt: ''
+published: true
+summary_points:
+- NewsFactory testovala 54Mbps access pointy od Apple, Belkin, Buffalo, D-Link, Linksys,
+  Netgear a SMC.
+- Centrino čipset od Intelu způsobuje zamrzání počítačů při vytváření VPN spojení.
+- Proxim nabízí Orinoco produkty s 802.11g pro firemní použití, AP-2000b/g za 695
+  USD.
+- Orinoco PCMCIA karty 11b/g stojí 99 USD (Gold) nebo 81 USD (Silver).
+title: 'Access pointy 802.11g. Intel Centrino zamrzá na VPN. Proxim Orinoco na 802.11g
+
+  '
 ---
+
 <p>
 Na NewsFactory vyšlo hezké povídání o dostupných <STRONG>access pointech / broadband routerech s rychlosti 54Mbps, tedy postavených na 802.11g </STRONG>standardu. Testována byla i datová propustnost, doporučuji to k přečtení, jde o testy zařízení firem Apple, Belkin, Buffalo Technology D-Link Systems, Linksys, Netgear a SMC Networks. <A href="http://www.newsfactor.com/perl/story/21644.html" target=_blank>Podrobnosti zde</A>. </p>
 

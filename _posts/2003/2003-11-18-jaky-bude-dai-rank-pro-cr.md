@@ -1,14 +1,21 @@
 ---
 ID: 675
-title: Jaký bude DAI rank pro ČR?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jaky-bude-dai-rank-pro-cr
-published: true
+oldlink: 'https://www.marigold.cz/item/jaky-bude-dai-rank-pro-cr
+
+  '
 post_date: 2003-11-18 16:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- ITU zveřejnilo první informace o Digital Access Index (DAI rank).
+- DAI rank hodnotí dostupnost informačních a komunikačních technologií v zemích.
+- Plné zveřejnění DAI ranku proběhne v prosinci na WSIS v Ženevě.
+- Autor se zajímá o DAI rank České republiky.
+title: Jaký bude DAI rank pro ČR?
 ---
+
 <p>
 ITU publikovalo první informace o takzvaném <STRONG>DAI ranku, tedy Digital Access Index</STRONG>. DAI rank je číslo, jímž ITU označuje dostupnost a přístupnost moderních informačních a komunikačních technologií v jednotlivých státech světa. </p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 516
-title: >
-  Trestní oznámení na České
-  Radiokomunikace za prodej Contactelu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/trestni-oznameni-na-ceske-radiokomunikace-za-prodej-contactelu
-published: true
+oldlink: 'https://www.marigold.cz/item/trestni-oznameni-na-ceske-radiokomunikace-za-prodej-contactelu
+
+  '
 post_date: 2003-09-19 10:05:00
+post_excerpt: ''
+published: true
+summary_points:
+- Petr Rada podal trestní oznámení na management Českých radiokomunikací.
+- ČRa prodaly Contactel za korunu po investici 1,69 miliardy korun.
+- TDC, součást Bivideon, koupila Contactel od ČRa.
+- Miroslav Čuřín odmítá obvinění a zvažuje právní kroky.
+title: 'Trestní oznámení na České Radiokomunikace za prodej Contactelu
+
+  '
 ---
+
 <p>
 Cituji Lidové noviny:</p>
 

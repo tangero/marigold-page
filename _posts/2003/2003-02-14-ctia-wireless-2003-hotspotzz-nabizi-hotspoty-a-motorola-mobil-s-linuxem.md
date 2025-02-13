@@ -1,14 +1,21 @@
 ---
 ID: 95
-title: 'CTIA Wireless 2003, Hotspotzz nabízí hotspoty a&nbsp;Motorola mobil s&nbsp;Linuxem'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctia-wireless-2003-hotspotzz-nabizi-hotspoty-a-motorola-mobil-s-linuxem
-published: true
+oldlink: 'https://www.marigold.cz/item/ctia-wireless-2003-hotspotzz-nabizi-hotspoty-a-motorola-mobil-s-linuxem
+
+  '
 post_date: 2003-02-14 09:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- CTIA WIRELESS 2003 konference v březnu se zaměří na WiFi bezpečnost.
+- Hotspotzz nabízí hotové hotspoty s autorizačním systémem za 500 USD.
+- Motorola A760 je chytrý telefon s Linuxem a plnou verzí Javy.
+- Motorola A760 má kameru, MP3 přehrávač a firemní nadstavbu.
+title: CTIA Wireless 2003, Hotspotzz nabízí hotspoty a&nbsp;Motorola mobil s&nbsp;Linuxem
 ---
+
 <p>
 Dneska nic moc globálně zajímavého. <STRONG>CTIA WIRELESS 2003</STRONG> (americká konference) bude mít v březnu v náplni i WiFi - jenže já do Ameriky nejezdím, nesnáším tu buzeraci na letišti (a to i když jsem občan EU, to si vážně myslí, že každý touží prchnout do USA?). Takže tam nebudu. V každém případě to bude o bezdrátové bezpečnosti, <A href="http://www.wow-com.com/news/press/body.cfm?record_id=1216" target=_blank>program je zde</A>. </p>
 

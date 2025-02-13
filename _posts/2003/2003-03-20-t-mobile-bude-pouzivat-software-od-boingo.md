@@ -1,16 +1,23 @@
 ---
 ID: 178
-title: >
-  T-Mobile bude používat software od
-  Boingo
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/t-mobile-bude-pouzivat-software-od-boingo
-published: true
+oldlink: 'https://www.marigold.cz/item/t-mobile-bude-pouzivat-software-od-boingo
+
+  '
 post_date: 2003-03-20 09:03:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile a Boingo uzavřeli dohodu o autorizaci a klientském softwaru pro 2,5G síť.
+- T-Mobile zjednoduší autorizaci WiFi sítě pomocí řešení od Boingo.
+- Sprint PCS, investor Boinga, takto nepřímo ovlivňuje i T-Mobile.
+- Zpráva se týká T-Mobile USA, česká WiFi síť je teprve v testování.
+title: 'T-Mobile bude používat software od Boingo
+
+  '
 ---
+
 <p>
 Na konferenci CTIA byla <STRONG>oznámena dohoda mezi T-Mobile a Boingo.</STRONG> T-Mobile podle této dohody bude používat autorizační mechanismus Boingo a bude používat klienský software Boingo. Jde tedy výhradně o nákup back-endu a klientského řešení pro autorizaci a účtování s 2,5G sítí T-Mobile, nejde o roaming nebo koupi sítě Boingo, jak se to někde mylně vykládá (zdravíme Reuters!). </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 695
-title: 'Dvoustý hotspot v&nbsp;databázi, recenze ZyXEL ZyAIR B-3000'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dvousty-hotspot-v-databazi-recenze-zyxel-zyair-b-3000
-published: true
+oldlink: 'https://www.marigold.cz/item/dvousty-hotspot-v-databazi-recenze-zyxel-zyair-b-3000
+
+  '
 post_date: 2003-11-26 08:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- Dvoustý hotspot v databázi patří síti CzFree.Net a je v Praze 4.
+- ZyXEL ZyAIR B-3000 recenzován na WiFiNetNews.
+- Ericsson Z1010, první 3G telefon, uveden na trh v lednu 2004.
+- Martin a marmeláda u Donalda je rozšířený problém mezi manažery.
+title: Dvoustý hotspot v&nbsp;databázi, recenze ZyXEL ZyAIR B-3000
 ---
+
 <p>
 Tak jsem dnes slavnostně schválil <STRONG>dvoustý hotspot v databázi hotspotů</STRONG>, ten dvoustý patří do sítě CzFree.Net a jeho MAC je CZFree.Net.Heaven. Legrační je, že je na Praze 4 v Batelovské ulici, kde máme sídlo Cinetiku (jen to úřední, fyzicky je tam byt, ve kterém bydlí Vreco :) Dlužno ale dodat, že to takhle hezky vyšlo jen díky nedostatku času přidat do databáze hotspoty AutoContu - jinak by to vyšlo na AutoCont. A protože další hotspot si přidal CzNet, máme v databázi 201 hotspotů - hotspot CzNetu je přímo na Václaváku a zdá se mi, že se tahle síť hezky rozjíždí - provozuje <A href="/hotspoty2.html?network=cznet">už 12 hotspotů</A>, na Václaváku nabízí zdarma 32 Kb/s sdíleného prostoru, to už je veliká WiFi síť...</p>
 

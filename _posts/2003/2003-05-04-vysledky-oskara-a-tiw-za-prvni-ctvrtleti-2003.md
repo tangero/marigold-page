@@ -1,14 +1,21 @@
 ---
 ID: 266
-title: 'Výsledky Oskara a&nbsp;TIW za první čtvrtletí 2003'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vysledky-oskara-a-tiw-za-prvni-ctvrtleti-2003
-published: true
+oldlink: 'https://www.marigold.cz/item/vysledky-oskara-a-tiw-za-prvni-ctvrtleti-2003
+
+  '
 post_date: 2003-05-04 18:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar získal 90 800 zákazníků v 1Q/2003, celkem jich má 1 270 600.
+- procent nových Oskar zákazníků v 1Q/2003 si vybralo tarif.
+- Český Mobil dluží TIW 493,3 mil USD z celkového dluhu 1 mld USD.
+- TIW se zlepšují výsledky, analytici věří v překonání dluhů.
+title: Výsledky Oskara a&nbsp;TIW za první čtvrtletí 2003
 ---
+
 <p>
 TIW reportoval svoje kvartální výsledky za první část roku 2003. V prvé řadě se tedy podíváme na výsledky Českého Mobilu / Oskara za 1Q/2003. Především gratuluji k zisku domény oskar.cz (i když za ty peníze...). </p>
 

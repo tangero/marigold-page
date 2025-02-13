@@ -1,14 +1,21 @@
 ---
 ID: 271
-title: 'Novinky u&nbsp;NetGearu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/novinky-u-netgearu
-published: true
+oldlink: 'https://www.marigold.cz/item/novinky-u-netgearu
+
+  '
 post_date: 2003-05-05 19:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- NetGear WiFi produkty jsou funkcemi nadupané, ale v ČR hůře dostupné.
+- FWAG114 je WiFi router pro firmy s podporou dvou VPN za 460 USD.
+- ME103 je access point s podporou A/G WiFi a funkcemi bridge za 249 USD.
+- WG602 je jednoduchý access point s G standardem pro běžné uživatele za 100 USD.
+title: Novinky u&nbsp;NetGearu
 ---
+
 <p>
 WiFi produkty NetGearu mám ve zvláštní oblibě, firmá má ve zvyku dělat funkcemi nadupané výrobky. Bohužel jejich český partner AveNet jejich WiFi produkty nedělá a nikoho jiného neznám (jestli vy jo, napište!). I novinky, které NetGear vypusil, z tohoto trendu nevypadají.</p>
 

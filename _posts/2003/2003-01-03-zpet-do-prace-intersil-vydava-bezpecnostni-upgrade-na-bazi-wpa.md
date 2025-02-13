@@ -1,16 +1,23 @@
 ---
 ID: 28
-title: >
-  Zpět do práce, Intersil vydává
-  bezpečnostní upgrade na bázi WPA
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zpet-do-prace-intersil-vydava-bezpecnostni-upgrade-na-bazi-wpa
-published: true
+oldlink: 'https://www.marigold.cz/item/zpet-do-prace-intersil-vydava-bezpecnostni-upgrade-na-bazi-wpa
+
+  '
 post_date: 2003-01-03 10:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold se vrátil z dovolené a brzy zveřejní fotografie.
+- Intersil vydal nový Prism firmware s bezpečnostním standardem WPA pro WiFi.
+- WPA přináší dočasné klíče, lepší šifrování a dynamickou distribuci klíčů.
+- První produkty s WPA se očekávají na jaře 2003, podpora se čeká i od Lucentu.
+title: 'Zpět do práce, Intersil vydává bezpečnostní upgrade na bázi WPA
+
+  '
 ---
+
 <p>
 Marigold hlásí, že v pořádku dorazil do republiky z dovolené, kterou si fakt užil a fakt zasloužil. Nějaké fotečky budou časem. </p>
 

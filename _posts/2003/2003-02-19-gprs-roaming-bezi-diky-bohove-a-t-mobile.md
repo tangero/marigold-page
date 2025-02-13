@@ -1,14 +1,21 @@
 ---
 ID: 102
-title: 'GPRS roaming běží, díky bohové a&nbsp;T-Mobile&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/gprs-roaming-bezi-diky-bohove-a-t-mobile
-published: true
+oldlink: 'https://www.marigold.cz/item/gprs-roaming-bezi-diky-bohove-a-t-mobile
+
+  '
 post_date: 2003-02-19 14:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- GPRS roaming T-Mobile a Orange F levnější než SFR WiFi.
+- Datový roaming a MMS udržely autora u T-Mobile.
+- Siemens SX1 je dle autora Nokia 7650 bez vysouvací klávesnice.
+- Český server Mobil.cz publikoval preview Siemensu SX1.
+title: GPRS roaming běží, díky bohové a&nbsp;T-Mobile&#8230;
 ---
+
 <p>
 Dneska už to vypadalo, že budu muset vysázet pokorně 20 &#8364; za jeden den připojení k WiFi. Jenže včera konečně naskočil GPRS roaming mezi T-Mobile a Orange F, takže jsem mohl odeslat články atd přes GPRS. Nikdy bych nevěřil, že GPRS roaming vyjde levěji, než WiFi - nu, SFR si na tom WiFi dobře mastí kapsu. </p>
 

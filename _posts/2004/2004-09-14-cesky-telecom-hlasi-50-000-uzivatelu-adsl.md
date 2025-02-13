@@ -1,14 +1,21 @@
 ---
 ID: 1319
-title: 'Český Telecom hlásí 50&nbsp;000 uživatelů ADSL'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-telecom-hlasi-50-000-uzivatelu-adsl
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-telecom-hlasi-50-000-uzivatelu-adsl
+
+  '
 post_date: 2004-09-14 16:37:03
+post_excerpt: ''
+published: true
+summary_points:
+- září ADSL od Českého Telecomu využívalo přes 50 000 uživatelů.
+- Český Telecom zdvojnásobil počet ADSL klientů za poslední čtyři měsíce.
+- '% uživatelů ponechá ADSL připojení po zkušební době.'
+- Telecom dříve odhadoval 150 000 ADSL přípojek do konce roku 2004.
+title: Český Telecom hlásí 50&nbsp;000 uživatelů ADSL
 ---
+
 <p>
 v polovině září (14.9.) se k ADSL přes Český Telecom připojuje přes 50 000 uživatelů. Vzhledem k tomu, že dalším samostatným provozovatelem ADSL je už jen GTS (Praha 1 a 2) ČRa a <strike>Nextra</strike> Telenor Networks (také jen místně), lze také říci, že služba ADSL v ČR se pohybuje na hranici 51 000 uživatelů celkem. </p>
 

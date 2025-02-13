@@ -1,14 +1,21 @@
 ---
 ID: 201
-title: 'Eurotel koupí Český Telecom nebo Orange &#8211; pokud někdo.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-koupi-cesky-telecom-nebo-orange-pokud-nekdo
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-koupi-cesky-telecom-nebo-orange-pokud-nekdo
+
+  '
 post_date: 2003-03-27 19:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ředitel Českého Telecomu je neatraktivní pozice s malým vlivem před privatizací.
+- Český Telecom usiluje o podíl v Eurotelu, dříve neúspěšně, nyní s novou nabídkou.
+- Orange (France Telecom) má zájem o Eurotel a vstup na český trh.
+- Vodafone a T-Mobile o Eurotel neusilují, Telecom má poslední šanci na mobilním trhu.
+title: Eurotel koupí Český Telecom nebo Orange &#8211; pokud někdo.
 ---
+
 <p>
 Česká ekonomická média zatím z dění ohledně Českého Telecomu nejvíce vzrušuje disputace, kdo že se stane jeho novým šéfem. Přiznávám, že mne to překvapuje. Pozice generálního ředitele Českého Telecomu, jakkoliv je slušně honorovaná, je srovnatelná s prvními kosmonauty. Máte šanci být na očích, nemáte vliv na to, kam se to řítí a jestli se to podělá nebo ne. Proč se všichni kandidáti z ČR pomalu ze "shortlistů" vytrácejí? Protože pozice GŘ ČT je profesní sebevražda. Musí jím být někdo důstojný, komu nevadí, že zbytek života v telekomunikacích bude všemi nenáviděn a hrát druhé housle. Pro muže kteří ředitelují jiné telco firmy vskutku málo lákavé - už proto vědomí, že faktický vliv na to, co se s Telecomem do privatizace stane, mít nebudou. A po úspěšné privatizaci je nepravděpodobné, že nový majitel by starého ředitele nechal na svém místě...</p>
 

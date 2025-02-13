@@ -1,14 +1,21 @@
 ---
 ID: 90
-title: 'Když jsme u&nbsp;hodinek, zkuste WristLinx Communicator &#8211; hodinky s&nbsp;vysílačkou'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdyz-jsme-u-hodinek-zkuste-wristlinx-communicator-hodinky-s-vysilackou
-published: true
+oldlink: 'https://www.marigold.cz/item/kdyz-jsme-u-hodinek-zkuste-wristlinx-communicator-hodinky-s-vysilackou
+
+  '
 post_date: 2003-02-12 08:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- Firma Xact Communication vyrábí hodinky WristLinx Communicator s vestavěnou vysílačkou.
+- Hodinky využívají 22 kanálů v pásmu FRS/GMRS s dosahem 2-3 km.
+- WristLinx Communicator nabízí VOX aktivaci a stojí 50 USD.
+- Hodinky mají podsvícení a jsou určeny pro studenty a komunity.
+title: Když jsme u&nbsp;hodinek, zkuste WristLinx Communicator &#8211; hodinky s&nbsp;vysílačkou
 ---
+
 <p>
 Tahle firma by měla dostat na zadek, protože nečekala na spásu od Billa Gatese a rozhodla se sama šlápnout do komunikačního systému pro hodinky. Jen na to šla trochu jinak a do hodinek rovnou vestavěla vysílačku. </p>
 

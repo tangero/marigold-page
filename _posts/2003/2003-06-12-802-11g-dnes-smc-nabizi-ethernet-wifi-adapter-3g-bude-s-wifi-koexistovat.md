@@ -1,14 +1,21 @@
 ---
 ID: 359
-title: '802.11g dnes! SMC nabízí ethernet WiFi adaptér. 3G bude s&nbsp;WiFi koexistovat'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/802-11g-dnes-smc-nabizi-ethernet-wifi-adapter-3g-bude-s-wifi-koexistovat
-published: true
+oldlink: 'https://www.marigold.cz/item/802-11g-dnes-smc-nabizi-ethernet-wifi-adapter-3g-bude-s-wifi-koexistovat
+
+  '
 post_date: 2003-06-12 08:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- g standard s rychlostí 54 Mb/s v pásmu 2,4 GHz má být schválen IEEE.
+- SMC představilo bezdrátový ethernet adaptér SMC2671W pro připojení zařízení do WiFi.
+- ABI analyzuje možné soužití 3G a WiFi sítí, které považuje za reálné.
+- WiFi ukázalo na nereálnost masového používání 3G dat, dle autora textu.
+title: 802.11g dnes! SMC nabízí ethernet WiFi adaptér. 3G bude s&nbsp;WiFi koexistovat
 ---
+
 <p>
 Draft návrhu standardu 802.11g pro rychlosti 54 Mb/s v pásmu 2,4 GHz by měl dneska projít u standardizátoria IEEE. Společnosti reagovaly prohlášením, že v návaznosti na to vydají finální updaty pro svoje G zařízení tak, aby přesně splňovaly standard. </p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 128
-title: >
-  Marigoldí distribuce Linuxu pro APčka
-  na dohled
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/marigoldi-distribuce-linuxu-pro-apcka-na-dohled
-published: true
+oldlink: 'https://www.marigold.cz/item/marigoldi-distribuce-linuxu-pro-apcka-na-dohled
+
+  '
 post_date: 2003-02-28 15:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linux distribuce pro APčka je blízko, testy začnou brzy.
+- Marigold distribuce je CD s Linuxem pro hotspoty a management.
+- WiFi karty jsou omezeny pro funkčnost distribuce.
+- Distribuce je sesbíraný software, který ušetří práci.
+title: 'Marigoldí distribuce Linuxu pro APčka na dohled
+
+  '
 ---
+
 <p>
 Už po iXté tu hlásím, že <STRONG>slíbená distribuce Linuxu pro APčka je na dohled</STRONG>. Jeden z Marigoldů hlásil významné posuny ve svém časovém zatížení a tím i v práci na distribuci. A to je super, takže o víkendu začnou první testy u mne doma (snad). </p>
 

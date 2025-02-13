@@ -1,14 +1,21 @@
 ---
 ID: 1261
-title: 'Safra, co vůbec dělám&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/safra-co-vubec-delam
-published: true
+oldlink: 'https://www.marigold.cz/item/safra-co-vubec-delam
+
+  '
 post_date: 2004-08-17 22:05:22
+post_excerpt: ''
+published: true
+summary_points:
+- Autor prožívá tvůrčí krizi a pocity vyhoření z náročné práce v IT.
+- Autor obtížně vysvětluje rodině svou práci v oblasti mobilních technologií.
+- Autor obdivuje schopnost Karla z Googgi vytvářet chytlavé názvy.
+- Autor se cítí zahlcený prací a touží po odpočinku v přírodě.
+title: Safra, co vůbec dělám&#8230;
 ---
+
 <p>
 Četl jsem <a href="http://www.jakpsatweb.cz/weblog/a/1092622740-par-osobnich-vzdechu.html">Yuhůův <em>burnout </em>povzdech</a> o tom, kterak je vyšťaven a v depresi. Rezonuje to ve mně pochopením. Moje touha uspořádat knihu o sítích 3G vyprchává, stěží jsem dotáhl do konce poslední zakázku na analýzu fast-mobile networks a muka s socioware-education pro jednoho zahraničního operátora, který se rozhodl zkusit tímto zvýšit využívání non voice services, dosáhly neúnosnosti. Sedím u klávesnice počítače, vím, že bych měl sepsat elaborát, který bych normálně plynule psal z hlavy na klávesnici a myšlenky drhnou a drhnou. Šéfa Vodafone jsem si spletl s bývalým izraelským premiérem&#8230; pokud jsem schopen něco napsat, tak na tři tisíce znaků článeček a pak konec. Snad se vypíšu teď, když přepisuju bez ladu a skladu to, co se mi řine z hlavy&#8230;</p>
 <p>

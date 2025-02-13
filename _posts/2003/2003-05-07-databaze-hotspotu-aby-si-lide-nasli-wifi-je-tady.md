@@ -1,14 +1,21 @@
 ---
 ID: 279
-title: 'Databáze hotspotů, aby si lidé našli WiFi, je tady&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/databaze-hotspotu-aby-si-lide-nasli-wifi-je-tady
-published: true
+oldlink: 'https://www.marigold.cz/item/databaze-hotspotu-aby-si-lide-nasli-wifi-je-tady
+
+  '
 post_date: 2003-05-07 16:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- Databáze WiFi hotspotů má poskytovat přehled funkčních WiFi sítí.
+- Provozovatelé hotspotů mohou zadávat data o svých sítích do databáze.
+- Vyhledávání hotspotů podle lokality a sítě bude doplněno příští týden.
+- Webová adresa pro zadávání dat o hotspotech je www.marigold.cz/hotspoty.
+title: Databáze hotspotů, aby si lidé našli WiFi, je tady&#8230;
 ---
+
 <p>
 Tak jsem trochu pohnul s programováním a konečně je tu Databáze WiFi hotspotů. K čemu slouží? Měl by v ní být <STRONG>přehled WiFi hotspotů</STRONG>, které fungují a ke kterým se můžete připojit. Zatím funguje pouze zadávání dat, takže pokud nějaký hotspot provozujete, zadejte ho do databáze. Příští týden doplním i vyhledávání a především tam napumpuji data o komerčních sítích. </p>
 

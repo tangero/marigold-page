@@ -1,14 +1,21 @@
 ---
 ID: 330
-title: 'Souboj s&nbsp;dlaždičkami: kontumační prohra'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/souboj-s-dlazdickami-kontumacni-prohra
-published: true
+oldlink: 'https://www.marigold.cz/item/souboj-s-dlazdickami-kontumacni-prohra
+
+  '
 post_date: 2003-06-01 15:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Dlaždice měly o víkendu nahradit betonovou podlahu balkonu.
+- Teoretická příprava na pokládku dlaždic kontrastovala s nedostatkem zručnosti.
+- Balkon má nerovný okraj, dlaždice se nevešly a práce byla přerušena.
+- Autor hledá firmu na dokončení pokládky dlaždic na balkoně.
+title: 'Souboj s&nbsp;dlaždičkami: kontumační prohra'
 ---
+
 <p>
 Myšlenka položit na balkoně dlaždice a udělat tak z hnusné betonové podlahy luxusní zámeckou dlažbu, mne pronásledovala již delší čas. O víkendu však měla myšlenka dojít svého naplnění. Nakoupili jsme potřebné dlaždice a veškerá lepidla, spárovadla a další. Mnoho týdnů před tím jsem věnoval rešeršování informačních zdrojů věnovaných pokládce dlaždic a dalo by se říct, že teoreticky jsem byl mistrně připraven.</p>
 

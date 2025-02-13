@@ -1,14 +1,21 @@
 ---
 ID: 632
-title: 'Microsoft vyhodil zaměstnance za blogování. Ech, bylo to maličko jinak&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/microsoft-vyhodil-zamestnance-za-blogovani-ech-bylo-to-malicko-jinak
-published: true
+oldlink: 'https://www.marigold.cz/item/microsoft-vyhodil-zamestnance-za-blogovani-ech-bylo-to-malicko-jinak
+
+  '
 post_date: 2003-10-31 14:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Hanscom z Microsoftu propuštěn po zveřejnění fotky Apple G5 na blogu.
+- Propuštění Hanscoma nebylo za blogování, ale porušení zákazu focení.
+- Microsoft zřejmě potřeboval exemplární trest pro porušení zákazu focení.
+- Média zkreslila zprávu, psala o propuštění za prozrazení nákupu Apple.
+title: Microsoft vyhodil zaměstnance za blogování. Ech, bylo to maličko jinak&#8230;
 ---
+
 <p>
 Poslední dny na internetu je málo zajímavých zpráv a tak zpráva o vyhození blogera z Microsoftu poutá obecnou pozornost. Jestli jste to nezachytili, tak převyprávím událost: Michael Hanscom pracuje v Redmondu pro Microsoft. Jednoho dne vyfotil před prací náklaďák s Apple G5, které právě vykládali před Microsoftem a fotku <A href="http://www.michaelhanscom.com/eclecticism/2003/10/even_microsoft_.html" target=_blank>zveřejnil na svém weblogu s komentářem</A>, že někdo v Microsoftu si nakoupil nové hračky. O pár dní později si ho zavolal šéf oddělení a dal mu padáka. A pak už zapracovala blogerská scéna, o chvíli později se události chytla i velká média včetně MSNBC a je z toho událost, protože titulky všude možně hlásají, že <STRONG>Microsoft vyhodil někoho za blogování</STRONG>. Velká média mají o čem psát: blogování je nebezpečené atd, blogy zase soptí nad Microsoft. <STRONG>Přitom to všechno bylo trochu&#160;jinak...</STRONG> </p>
 

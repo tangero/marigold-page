@@ -1,14 +1,21 @@
 ---
 ID: 620
-title: 'Akciové drobky: Nokia a&nbsp;TIW'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/akciove-drobky-nokia-a-tiw
-published: true
+oldlink: 'https://www.marigold.cz/item/akciove-drobky-nokia-a-tiw
+
+  '
 post_date: 2003-10-29 08:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia delistuje akcie z londýnské burzy kvůli nízké likviditě.
+- Nokia zaznamenala nárůst ceny akcií po ohlášení nových mobilů.
+- TIW posílil díky navýšení podílu v Českém Mobilu a úspěchu MobiFon.
+- TIW zveřejní 5. listopadu výsledky za třetí kvartál s očekáváním růstu.
+title: 'Akciové drobky: Nokia a&nbsp;TIW'
 ---
+
 <p>
 Několik drobností k akciím telco firem, které bedlivěji sleduji: Nokia a TIW (Majitel Oskar/Českého Mobilu) patří ostatně mezi portfoliové favority. </p>
 

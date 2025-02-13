@@ -1,14 +1,21 @@
 ---
 ID: 1063
-title: 'CzFree Net &#8211; národ sobě nebo vzdušný chaos?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/czfree-net-narod-sobe-nebo-vzdusny-chaos
-published: true
+oldlink: 'https://www.marigold.cz/item/czfree-net-narod-sobe-nebo-vzdusny-chaos
+
+  '
 post_date: 2003-01-12 21:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- CzFree.Net je nezisková broadband síť založená na principu "přispěj a použij".
+- Síť CzFree.Net je spíše komunikační platforma s aktivními příznivci i odpůrci.
+- CzFree.Net trpí problémy decentralizace, chybí jasná pravidla a koordinace.
+- Transparentnost financování a technické informace jsou u CzFree.Net problematické.
+title: CzFree Net &#8211; národ sobě nebo vzdušný chaos?
 ---
+
 Komunitní síť CzFree.Net se stala pojmem sama o sobě. Opravdu naplní svoji deklaraci a stane se broadband sítí, která nabídne internet každému, nebo skončí v chaosu a rozkladu? Nebo něco mezi tím? Kde jsou silné a slabé stránky?<!--more-->Dějiny CzFree jsou zatím krátké &#8211; samotná idea se datuje do počátku roku 2002 a praktická realizace začala počátkem léta 2002. Tak by se dalo říci, že CzFree vlastně právě slaví první narozeniny. 
 <p>
 Také článků o CzFree vyšlo již několik, jak na internetu, zejména na Lupě, něco málo na Živě, Technetu i Mobilu. Pak tu máme proslavenou zmínku v Euru, články v Lidových novinách atd. Vcelku slušná publicita. Takže o co vlastně v CzFree jde? 

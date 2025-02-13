@@ -1,14 +1,21 @@
 ---
 ID: 687
-title: 'Výpadek sítě T-Mobile ho připravil o&nbsp;tisíce'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vypadek-site-t-mobile-ho-pripravil-o-tisice
-published: true
+oldlink: 'https://www.marigold.cz/item/vypadek-site-t-mobile-ho-pripravil-o-tisice
+
+  '
 post_date: 2003-11-24 07:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile měl výpadek sítě minulý týden v pěti pražských částech.
+- Jiří Michovský z Prahy kvůli výpadku sítě T-Mobile ztratil klienty a 18 tisíc korun.
+- Právníci tvrdí, že finanční odškodnění klientů je v takových případech téměř nulové.
+- Operátoři mobilních sítí nenabízejí SLA, na rozdíl od operátorů pevných linek.
+title: Výpadek sítě T-Mobile ho připravil o&nbsp;tisíce
 ---
+
 <p>
 V Blesku jsem našel článek na téma výpadku sítě T-Mobile z minulého týdne (nebojte, Blesk nečtu, článek vypadl z monitoringu tisku).</p>
 

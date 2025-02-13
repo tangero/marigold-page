@@ -1,14 +1,22 @@
 ---
 ID: 1059
-title: 'Komerční WiFi sítě v&nbsp;České republice'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/komercni-wifi-site-v-ceske-republice
-published: true
+oldlink: 'https://www.marigold.cz/item/komercni-wifi-site-v-ceske-republice
+
+  '
 post_date: 2002-12-13 10:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- WIA od VancoNetu pokrývá Václavské náměstí, Štěpánskou a Vodičkovu ulici v Praze.
+- Eurotel WiFiJet se zaměřuje na hotely a business klienty, účtování je časové.
+- GTS Wireless Internet funguje pouze na hotelu Holiday Inn na Pankráci.
+- Komerční WiFi sítě se soustředí na lukrativní lokality, jako hotely a kongresové
+  prostory.
+title: Komerční WiFi sítě v&nbsp;České republice
 ---
+
 V republice máme zatím tři klasické komerční WiFi sítě, ke kterým se můžete připojit, pokud náhodou jste v oblasti jejich pokrytí. Jak to s nimi vypadá do budoucna, kde se staví a co se děje?<!--more--><p>
 Rozhodl jsem se napsát pár slov k dění v komerčních WiFi sítích u nás, později se k tomu přidá článek o sítích nekomerčních. Důvod? Hodně lidí o tom nic moc neví, má přehnané představy na jednu i druhou stranu&#8230; </p>
 

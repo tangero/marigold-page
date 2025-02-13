@@ -1,14 +1,21 @@
 ---
 ID: 606
-title: Wapový Marigold
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wapovy-marigold
-published: true
+oldlink: 'https://www.marigold.cz/item/wapovy-marigold
+
+  '
 post_date: 2003-10-23 12:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- WAP Marigold nabízí přehled zpráviček a komentářů.
+- Databáze hotspotů a mobilní praktičnosti budou přidány.
+- WAP Marigold je dostupný na adrese marigold.cz/wap.html.
+- Vývojová verze osekává zprávy a komentáře na 1300 znaků.
+title: Wapový Marigold
 ---
+
 <p>
 Včera jsem také narychlo spíchnul malou wapovou verzi Marigolda. Především proto, že chci udělat přehled hotspotů ve WAPu, k čemuž ale musím doplnit databázi hotspotů o nové hotspoty. A tak zatím wap verze má jen <STRONG>přehled zpráviček z Marigolda a možnost číst si komentáře k nim</STRONG>. </p>
 

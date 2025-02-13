@@ -1,14 +1,22 @@
 ---
 ID: 697
-title: 'Inetdrobky: proč používám komerční email, nápad vydat bloggerskou knihu, cyklistický závod Ruská ruleta'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/inetdrobky-proc-pouzivam-komercni-email-napad-vydat-bloggerskou-knihu-cyklisticky-zavod-ruska-ruleta
-published: true
+oldlink: 'https://www.marigold.cz/item/inetdrobky-proc-pouzivam-komercni-email-napad-vydat-bloggerskou-knihu-cyklisticky-zavod-ruska-ruleta
+
+  '
 post_date: 2003-11-27 09:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Článek na Lupě pojednává o výhodách placeného emailu, konkrétně Runbox.com.
+- Kostěj plánuje vydat knihu svých blognutí formou předobjednávek s cílem 1000 zájemců.
+- Daniel Dočekal navrhuje vydání sbírky příběhů od více blogerů.
+- BakovDevils zveřejnili přihlášku na cyklozávod Ruská ruleta 2004.
+title: 'Inetdrobky: proč používám komerční email, nápad vydat bloggerskou knihu, cyklistický
+  závod Ruská ruleta'
 ---
+
 <p>
 Na Lupě dnes vyšel můj článeček věnovaný zamyšlení, zda a proč používat místo freemailů placený email. Konkrétně to ukazuji na příkladě mnou používaného Runbox.com. Přečíst <A href="http://www.lupa.cz/clanek.php3?show=3122" target=_blank>si ho můžete zde</A>. </p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 1072
-title: 'Mobilní sítě 4G &#8211; co umí a&nbsp;jak to dokáží?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-site-4g-co-umi-a-jak-to-dokazi-1072
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-site-4g-co-umi-a-jak-to-dokazi-1072
+
+  '
 post_date: 2003-05-09 11:08:00
+post_excerpt: ''
+published: true
+summary_points:
+- G sítě cílí na vysokorychlostní datové přenosy, až 100 Mbps na uživatele.
+- Radiové spektrum 4G sítí kombinuje nelicencovaná pásma 5/60 GHz a licencované 17
+  GHz.
+- Virtuální síťová buňka (VCN) řeší stínění signálu v 60 GHz pásmu.
+- Násobné přijímací antény zlepšují kvalitu signálu v 4G sítích eliminací odrazů.
+title: Mobilní sítě 4G &#8211; co umí a&nbsp;jak to dokáží?
 ---
+
 Sítě čtvrté generace jsou zatím více méně teoretickou záležitostí. Ale přicházejí se zajímavými myšlenkami, jak docílit vysokorychlostních datových přenosů, především pak s násobnými přijímacími anténami a virtuální cellulární sítí.<!--more-->Sítě 3G ještě ani zdaleka pořádně nefungují v praxi, ani zdaleka není jisté, zda na nich jejich provozovatelé někdy vydělají, ale vývoj se nezastavuje. Již drahnou dobu se hovoří o sítích 4G ba dokonce i o sítích 5G. 
 <p>
 Pravda je, že o obou sítích se zatím hovoří spíše v teoretické rovině a zatímco pojem 4G se používá pro označení nového technického řešení, označení 5G se používá především pro teoretické rozpravy o konvergenci jednotlivých typů bezdrátových sítí. Důvody jsou nasnadě &#8211; zatímco se ukazuje, že datové rychlosti nabízené sítěmi 3G jsou dnes vlastně nízké a tedy je třeba přemýšlet o nové generaci mobilních sítí, <STRONG>konvergence a slučování jednotlivých digitálních standardů</STRONG> je běh na dlouhou trať. 

@@ -1,14 +1,21 @@
 ---
 ID: 277
-title: 'S Contactelem je to zajímavé &#8211; ČRa pohřbí hodně peněz'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/s-contactelem-je-to-zajimave-cra-pohrbi-hodne-penez
-published: true
+oldlink: 'https://www.marigold.cz/item/s-contactelem-je-to-zajimave-cra-pohrbi-hodne-penez
+
+  '
 post_date: 2003-05-07 11:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- Contactel vznikl roku 1999 vyčleněním z Českých Radiokomunikací a Tele Danmark.
+- Firma Contactel je od vzniku ztrátová, ztráta přesáhla miliardu korun.
+- České Radiokomunikace snižují podíl v Contactelu a prodávají ho TDC.
+- České Radiokomunikace pohřbily stamilionovou investici do Contactelu.
+title: S Contactelem je to zajímavé &#8211; ČRa pohřbí hodně peněz
 ---
+
 <p>
 Historie Contactelu je podle mne historií privatizace za vládního bezvědomí. České Radiokomunikace se tak dlouho měly privatizovat, až jejich šéfové vyčlenili běžné telekomunikační služby do samostatné firmy Contactel, kterou založili napůl s Tele Danmark, jedním z uchazečů o privatizaci ČRa nebo Českého Telecomu. </p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 444
-title: >
-  Deutsche Telekom má rušnější
-  období
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/deutsche-telekom-ma-rusnejsi-obdobi
-published: true
+oldlink: 'https://www.marigold.cz/item/deutsche-telekom-ma-rusnejsi-obdobi
+
+  '
 post_date: 2003-08-15 11:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Deutsche Telekom chce snížit zadluženost na 52,3-49,5 miliard EUR do konce roku.
+- DT žádá o povolení zvýšit měsíční paušály za analogové linky v Německu.
+- Zisk Deutsche Telekom za druhé čtvrtletí letošního roku činí 256 milionů EUR.
+- Tisíce drobných akcionářů žalují Deutsche Telekom pro podezření ze špatného účetnictví.
+title: 'Deutsche Telekom má rušnější období
+
+  '
 ---
+
 Deutsche Telekom ovládající český T-Mobile má zase rušnější období. V poslední době se kolem něho vyrojilo množství nových informací, souvisejících především s ohlášením pololetních výsledků. 
 <p>
 Především podle informací Die Welt <B>hodlá DT snížit svoji zadluženost</B> a zatímco v prvním čtvrtletí letošního roku na něj doléhaly dluhy ve výši 54 miliard EUR (radši si to nepřepočítávejte na koruny), na konci roku by DT rád dluhy viděl v rozmezí 52,3 - 49,5 mld EUR. <I>Citace: <A href="http://quote.bloomberg.com/apps/news?pid=10000100&amp;sid=aKOS5n_8tI_8&amp;refer=germany">Bloomberg</A></I>. 

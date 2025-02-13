@@ -1,14 +1,21 @@
 ---
 ID: 464
-title: 'Moje soukromé spam řešení, které možná pomůže i&nbsp;ostatním'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/moje-soukrome-spam-reseni-ktere-mozna-pomuze-i-ostatnim
-published: true
+oldlink: 'https://www.marigold.cz/item/moje-soukrome-spam-reseni-ktere-mozna-pomuze-i-ostatnim
+
+  '
 post_date: 2003-08-28 12:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- Spam je problém, autor opustil adresu mobil.cz kvůli zahlcení spamem.
+- Řešení spočívá v používání "obětní" domény pro registrace na webech.
+- Pro každou webovou službu se používá unikátní emailová adresa (napr. lupa@marigold.cz).
+- Pracovní emailová adresa cinetik.cz se nikde nepublikuje a slouží pro komunikaci.
+title: Moje soukromé spam řešení, které možná pomůže i&nbsp;ostatním
 ---
+
 <p>
 Spam, nevyžádané emaily, jsou mor internetu. Definitivní řešení proti němu zatím neexistuje, ale třeba vám pomůže něco, co dobře funguje pro mne. </p>
 

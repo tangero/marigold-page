@@ -1,14 +1,23 @@
 ---
 ID: 437
-title: 'Trendy: (a&nbsp;revize vlastních názorů) WAP jako &#8222;operační systém&#8220; mobilů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/trendy-a-revize-vlastnich-nazoru-wap-jako-operacni-system-mobilu
-published: true
+oldlink: 'https://www.marigold.cz/item/trendy-a-revize-vlastnich-nazoru-wap-jako-operacni-system-mobilu
+
+  '
 post_date: 2003-08-11 08:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Prezentace z roku 1999 předpovídala budoucí trendy mobilních telefonů a komunikace.
+- WAPu základní problém byla neschopnost operátorů spolupracovat s poskytovateli obsahu.
+- Mobilní telefony mají tlačítka pro přístup k portálové stránce operátora, například
+  Vodafone Live!.
+- Mobilní telefon bude zpřístupňovatelem služeb, nikoliv jejich poskytovatelem.
+title: 'Trendy: (a&nbsp;revize vlastních názorů) WAP jako &#8222;operační systém&#8220;
+  mobilů'
 ---
+
 <p>
 Nedávno jsem našel při vybalování záloh PowerPointovou presentaci nějaké mé přednášky z roku 1999. Hovořil jsem v ní o budoucích trendech mobilních telefonů, o tom, kam se mobilní komunikace posunou. A tak mne napadlo veřejně vlastní předpovědi staré čtyři roky podrobit kritice. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 353
-title: 'Slovenskem hýbe on-line skandál [update 2x]'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/slovenskem-hybe-on-line-skandal-update-2x
-published: true
+oldlink: 'https://www.marigold.cz/item/slovenskem-hybe-on-line-skandal-update-2x
+
+  '
 post_date: 2003-06-09 16:28:00
+post_excerpt: ''
+published: true
+summary_points:
+- Hackeři ovládali část sítě Slovenských Telekomunikací, informoval časopis Prielom.
+- SME informovalo o kauze hackerského útoku na Slovensku.
+- TV Markíza a Nova přinesly zprávy o útoku, avšak s různou odborností.
+- Článek odkazuje na diskuzi a další zpravodajství o hackerském útoku.
+title: Slovenskem hýbe on-line skandál [update 2x]
 ---
+
 <p>
 <A href="http://www.hysteria.sk/prielom/20/">V pátečním čísle&#160;on-line časopisu&#160;Prielom</A> vyšel článek, který ukazuje, že skupina hackerů měla pod kontrolou část internetové sítě Slovenských Telekomunikací (bývalý monopol na Slovensku). O kauze už informovala významná analogová média na Slovensku (například SME). </p>
 

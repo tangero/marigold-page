@@ -1,14 +1,21 @@
 ---
 ID: 22
-title: 'Valná hromada Českého Telecomu rozhodne o&nbsp;kurzu?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/valna-hromada-ceskeho-telecomu-rozhodne-o-kurzu
-published: true
+oldlink: 'https://www.marigold.cz/item/valna-hromada-ceskeho-telecomu-rozhodne-o-kurzu
+
+  '
 post_date: 2002-12-20 07:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Valná hromada Českého Telecomu odrazí rozhodnutí majoritních akcionářů.
+- Marigold, minoritní akcionář, se valné hromady nezúčastní osobně.
+- Do představenstva Telecomu míří lidé se zkušenostmi ze západních firem.
+- Adam Blecha, spojený s Mobil Media a.s., by měl posílit představenstvo.
+title: Valná hromada Českého Telecomu rozhodne o&nbsp;kurzu?
 ---
+
 <p>
 Jaký kurz nabere Český Telecom, o tom&#160;z části rozhodne valná hromada. Ta začíná v devět hodin. Abych byl přesnější, ona ani tak nerozhodne, jako spíše bude odrazem tohoto rozhodnutí, které jistě již majoritní akcionáři učinili před tím a nyní jej jen právně a jasně vyjádří. Marigold na valné hromadě nebude, má nějakou práci, ale bude tam mít svého pověřeného zástupce a bude samozřejmě komentovat. Marigold je totiž akcionář telecomu, bohužel jen hodně minoritní :)</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 725
-title: Struktura weblogu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/struktura-weblogu
-published: true
+oldlink: 'https://www.marigold.cz/item/struktura-weblogu
+
+  '
 post_date: 2003-12-08 10:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- PC Magazine článek analyzuje strukturu blogů, ale nezohledňuje české nástroje.
+- Struktura blogu dle PC Magazine obsahuje prvky jako kalendář, RSS, profil autora.
+- PC Magazine nebere strukturu dogmaticky, popisuje typické prvky úspěšných blogů.
+- Principem většiny blogů je "vykrádat" a porovnávat cizí myšlenky.
+title: Struktura weblogu
 ---
+
 <p>
 V <STRONG>americkém PC Magazine jsem našel zajímavý článek věnovaný weblogům</STRONG> - je hodně rozsáhlý, věnuje se výběru blogovacích nástrojů; v tomto ohledu samozřejmě nezohlednil české nástroje, takže není pro nás tak aktuální. Online verzi <A href="http://www.pcmag.com/article2/0,4149,1403731,00.asp" target=_blank>najdete zde</A>. Co je pro nás ale zajímavější, že redakce sestavila Structure of Blog, strukturu blogu. Pro naše milovníky fundamentální analýzy toho, jak blog nutně musí vypadat, to bude těžká rána, protože jsou zde i prvky, které ani Sova, ani ConBlog ani další nepředpokládají jako povinné - jenže co zmůžou, PC Magazine vychází ve větším nákladu a co je v novinách, to je pravda :)</p>
 

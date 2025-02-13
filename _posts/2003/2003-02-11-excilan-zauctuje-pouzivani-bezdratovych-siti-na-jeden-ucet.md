@@ -1,16 +1,24 @@
 ---
 ID: 88
-title: >
-  Excilan zaúčtuje používání
-  bezdrátových sítí na jeden účet
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/excilan-zauctuje-pouzivani-bezdratovych-siti-na-jeden-ucet
-published: true
+oldlink: 'https://www.marigold.cz/item/excilan-zauctuje-pouzivani-bezdratovych-siti-na-jeden-ucet
+
+  '
 post_date: 2003-02-11 22:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Excilan nabízí účetní propojení různých bezdrátových sítí do jednoho telefonního
+  účtu.
+- Uživatel po připojení k WiFi síti odsouhlasí cenu hovorem a surfuje.
+- Testovací provoz probíhá na amsterodamském letišti Schiphol.
+- Systém vyžaduje zapojení mnoha operátorů a provozovatelů WiFi sítí.
+title: 'Excilan zaúčtuje používání bezdrátových sítí na jeden účet
+
+  '
 ---
+
 <p>
 Zajímavá novinka v oblasti účetního roamingu bezdrátových sítí přichází od <STRONG>firmy Excilan</STRONG>. Ta slibuje účetně propojit využívání různých bezdrátových sítí tak, aby vám účet za jejich používání chodil jednou a to k vašemu mobilnímu telefonu. </p>
 

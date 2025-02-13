@@ -1,14 +1,22 @@
 ---
 ID: 595
-title: 'MMS: v&nbsp;praxi na prd, samé problémy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mms-v-praxi-na-prd-same-problemy
-published: true
+oldlink: 'https://www.marigold.cz/item/mms-v-praxi-na-prd-same-problemy
+
+  '
 post_date: 2003-10-17 16:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia plánuje rozšířit telefony s fotoaparátem pro podporu MMS služeb a zvýšení
+  prodeje.
+- MMS zprávy měly problémy s odesíláním, doručováním a funkčností v různých sítích.
+- Doručování MMS zpráv je nespolehlivé a opakuje se v dlouhých intervalech.
+- Interoperabilita MMS je špatná, s rozdílnými limity velikosti zpráv u operátorů.
+title: 'MMS: v&nbsp;praxi na prd, samé problémy'
 ---
+
 <p>
 Na ITU v Ženevě se dost mluvilo o výhledech MMS služeb. Zatímco Nokia oznámila, že hodlá silně rozšířit svoje portfolio telefonů s fotoaparátem a vestavovat ho prakticky do každé novinky, protože tím podpoří rozvoj MMS (= prodají další mobily), já jsem se na MMS zprávy pěkně vztekal. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 333
-title: 'ZigBee: další technologie v&nbsp;pásmu 2,4 GHz'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zigbee-dalsi-technologie-v-pasmu-2-4-ghz
-published: true
+oldlink: 'https://www.marigold.cz/item/zigbee-dalsi-technologie-v-pasmu-2-4-ghz
+
+  '
 post_date: 2003-06-01 23:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- ZigBee je radiová technologie pro dálkové ovládání s vysokou odolností a bezpečností.
+- ZigBee se používá pro propojení zabezpečovacích prvků a dálkové ovladače elektroniky.
+- ZigBee využívá tři frekvenční pásma s různými rychlostmi a počtem kanálů.
+- ZigBee podporuje až 255 zařízení v síti, je úspornější než Bluetooth.
+title: 'ZigBee: další technologie v&nbsp;pásmu 2,4 GHz'
 ---
+
 <p>
 Ačkoliv technologie ZigBee nepatří mezi naprosté novinky, našel jsem o ní jen málo povídání v českých médiích a protože Motorola nedávno představila první ZigBee výrobek, rád bych něco k této technologii napsal. </p>
 

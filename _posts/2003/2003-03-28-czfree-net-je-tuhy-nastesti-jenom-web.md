@@ -1,16 +1,23 @@
 ---
 ID: 206
-title: >
-  CzFree.Net je tuhý. Naštěstí jenom
-  web
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/czfree-net-je-tuhy-nastesti-jenom-web
-published: true
+oldlink: 'https://www.marigold.cz/item/czfree-net-je-tuhy-nastesti-jenom-web
+
+  '
 post_date: 2003-03-28 14:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- CzFree.Net web je neobvykle pomalý kvůli přesunu serveru na Anděl.
+- Timeout traceroute ukazuje na deusystems.com, což zhoršuje prohlížení webu.
+- Dočasně zúžená propustnost sítě vysvětluje nespolehlivost CzFree.Net infrastruktury.
+- Server CzFree.Net bude upgradován na Athlon2000XP/1GB RAM pro zlepšení komfortu.
+title: 'CzFree.Net je tuhý. Naštěstí jenom web
+
+  '
 ---
+
 <p>
 Jestli jste se v poslední době dívali na web CzFree.Net, museli jste si toho všimnout - je neuvěřitelně pomalý. Důvod je jednoduchý - byl přesunut ze serverovny Casablanky na Anděl a připojen do sítě CzFree.Net. Pokus o tracer route končí na timeoutu, v případě lepším na zajímavé doméně <A href="http://www.deusystems.com/" target=_blank>deusystems.com</A> - na velké listování webem CzFree.Netu to není. </p>
 

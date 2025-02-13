@@ -1,14 +1,22 @@
 ---
 ID: 209
-title: 'SMC má kartu s&nbsp;vyšším výkonem, projev Jorma Ollily (Nokia). Proč Cisco koupilo Linksys? Gartneři: na hotspotech se nevydělá. ADSL tips'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/smc-ma-kartu-s-vyssim-vykonem-projev-jorma-ollily-nokia-proc-cisco-koupilo-linksys-gartneri-na-hotspotech-se-nevydela-adsl-tips
-published: true
+oldlink: 'https://www.marigold.cz/item/smc-ma-kartu-s-vyssim-vykonem-projev-jorma-ollily-nokia-proc-cisco-koupilo-linksys-gartneri-na-hotspotech-se-nevydela-adsl-tips
+
+  '
 post_date: 2003-03-31 08:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- SMC2532W karta od SMC má dvojnásobný výkon (200mW) oproti jiným kartám.
+- Jorma Ollila (Nokia) je skeptický k 3G a vidí telekomunikace jako motor ekonomiky.
+- Cisco koupilo Linksys, protože Linksys uměl vydělávat na produkci zařízení.
+- Gartner Group předpovídá nárůst WLAN uživatelů do roku 2007, ale ne zisk pro hotspoty.
+title: 'SMC má kartu s&nbsp;vyšším výkonem, projev Jorma Ollily (Nokia). Proč Cisco
+  koupilo Linksys? Gartneři: na hotspotech se nevydělá. ADSL tips'
 ---
+
 <p>
 Pro ty, kdo smaží do éteru málo, má nyní SMC řešení. Místo nákupu lepšího kabelu a výměny plechovky od párků za kvalitní směrovku stačí nyní koupit kartu s vyšším výkonem. Jmenuje se <STRONG>SMC2532W a za 139 USD</STRONG> ji prodává SMC. Hlavním rozdílem oproti jiným PC kartám je fakt, že její <STRONG>vyzářený výkon je 200 mW</STRONG>, tedy dvojnásobek ostatních karet. Díky tomu se dosah zvýšil na více jak tisíc metrů a signál projde i železnými dveřmi atd. Regulace výkonu ovšem není dostupná a karta funguje na 802.11b. Čili pro smažiče, kteří dělají bordel v etéru ideální nástroj, skutečně užitečné pro ty, co mají dlouhý kabel k anténě.&#160;Kvůli nám ostatním doufám, že se k nám tahle věc dovážet nebude. Jinak čipset Intersil 2.5. Zdroj: <A href="http://www.80211-planet.com/news/article.php/2171841" target=_blank>802.11 Planet</A>.</p>
 

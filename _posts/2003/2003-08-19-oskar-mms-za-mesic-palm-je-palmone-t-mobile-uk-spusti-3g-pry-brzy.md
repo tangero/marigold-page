@@ -1,16 +1,23 @@
 ---
 ID: 447
-title: >
-  Oskar MMS za měsíc. Palm je PalmOne,
-  T-Mobile UK spustí 3G prý brzy
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oskar-mms-za-mesic-palm-je-palmone-t-mobile-uk-spusti-3g-pry-brzy
-published: true
+oldlink: 'https://www.marigold.cz/item/oskar-mms-za-mesic-palm-je-palmone-t-mobile-uk-spusti-3g-pry-brzy
+
+  '
 post_date: 2003-08-19 07:54:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar spustí MMS službu 15. září, cena pravděpodobně pět korun.
+- Palm přejmenoval hardware divizi na PalmOne, softwarová divize PalmSource.
+- T-Mobile UK spustí 3G síť v Británii o Vánocích, v Německu na podzim.
+- Virgin dosáhl ve Velké Británii tří milionů zákazníků.
+title: 'Oskar MMS za měsíc. Palm je PalmOne, T-Mobile UK spustí 3G prý brzy
+
+  '
 ---
+
 <p>
 Podle některých informací z <STRONG>Oskara je start služby MMS stanoven na 15. září</STRONG>. MobilMania spekuluje nad tím, zda cena bude pětikačka, což se zdá být docela pravděpodobná cena za MMS zasílané z mobilu na mobil. <A href="http://www.mobilmania.cz/Operatori/AR.asp?ARI=105146" target=_blank>MobilMania do článku</A> přidala popis infokanálů, které si budete moci přes MMS objednat - nic extra proti T-Mobile a Eurotelu tam není. </p>
 

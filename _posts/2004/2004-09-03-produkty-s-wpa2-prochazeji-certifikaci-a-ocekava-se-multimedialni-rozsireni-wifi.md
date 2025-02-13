@@ -1,14 +1,23 @@
 ---
 ID: 1297
-title: 'Produkty s&nbsp;WPA2 procházejí certifikací a&nbsp;očekává se multimediální rozšíření WiFi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/produkty-s-wpa2-prochazeji-certifikaci-a-ocekava-se-multimedialni-rozsireni-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/produkty-s-wpa2-prochazeji-certifikaci-a-ocekava-se-multimedialni-rozsireni-wifi
+
+  '
 post_date: 2004-09-03 08:09:19
+post_excerpt: ''
+published: true
+summary_points:
+- WPA2 certifikaci získaly první produkty od Atheros, Broadcom, Cisco, Instant802,
+  Intel a Realtek.
+- WPA2 standard je založen na 802.11i a využívá AES šifrování namísto TKIP.
+- Broadcom čipy již podporují AES, takže WPA2 aktivuje softwarový upgrade.
+- WiFi chystá WMM, dočasný standard pro kvalitnější multimédia a VoIP skrze QoS.
+title: Produkty s&nbsp;WPA2 procházejí certifikací a&nbsp;očekává se multimediální
+  rozšíření WiFi
 ---
+
 <p>
 WiFi aliance oznámila, že první produkty vybavené rozšířeným standardem pro WPA2 prošly certifikačním kolečkem. Jedná se o produkty Atheros, Broadcom, Cisco, Instant802 Networks, Intel a Realtek. <a href="http://www.wi-fi.org/OpenSection/ReleaseDisplay.asp?TID=4&amp;ItemID=181&amp;StrYear=2004&amp;strmonth=9">Tisková zpráva</a> uvádí i konkrétní označení produktů.</p>
 

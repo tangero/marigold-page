@@ -1,14 +1,21 @@
 ---
 ID: 1069
-title: 'Cannes 2003: Zahraniční zkušenosti s&nbsp;výstavbou veřejných WLAN sítí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cannes-2003-zahranicni-zkusenosti-s-vystavbou-verejnych-wlan-siti-1069
-published: true
+oldlink: 'https://www.marigold.cz/item/cannes-2003-zahranicni-zkusenosti-s-vystavbou-verejnych-wlan-siti-1069
+
+  '
 post_date: 2003-03-09 20:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- TDC se soustředilo na pokrývání hotelů WiFi, hotely chtějí pokrýt všechny pokoje.
+- Zákazníci chtějí platit za WiFi připojením ke svému telefonnímu účtu.
+- SoneraTelia zjistila, že lidé raději platí za čas než za data.
+- Mobilní operátoři získávají největší pozici na WLAN poli díky důvěře.
+title: 'Cannes 2003: Zahraniční zkušenosti s&nbsp;výstavbou veřejných WLAN sítí'
 ---
+
 Slíbili jsme článek shrnující poznatky z cyklu přednášek o WLAN a WiFi sítích z 3GSM kongresu v Cannes. A tady je - takže jaké jsou poznatky a zkušenosti firem, které již veřejné WLAN sítě staví?<!--more--><p>
 Na 3GSM kongresu v Cannes byl blok zajímavých přednášek věnován také WLAN sítím vystavěným na bázi technologie WiFi. Ačkoliv převratné novinky se zde člověk nedozvěděl, zkušenosti lidí zabývajících se výstavbou veřejných homogenních WLAN sítí byly zajímavé. </p>
 

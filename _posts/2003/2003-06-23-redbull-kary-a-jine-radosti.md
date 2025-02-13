@@ -1,14 +1,21 @@
 ---
 ID: 382
-title: 'RedBull Káry a&nbsp;jiné radosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/redbull-kary-a-jine-radosti
-published: true
+oldlink: 'https://www.marigold.cz/item/redbull-kary-a-jine-radosti
+
+  '
 post_date: 2003-06-23 08:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Dita se nakazila, takže se s autorem vystřídají v marodění.
+- Autor s Ditou navštívili RedBull Káry na Petříně, kde bylo 50 000 lidí.
+- Autor pořídil fotografie na RedBull Káry, dostupné online.
+- Autor dokončil psaní své WiFi bible, kterou brzy předá vydavateli.
+title: RedBull Káry a&nbsp;jiné radosti
 ---
+
 <p>
 O víkendu jsem se snažil dolečit a jak to tak vypadá, mně se to podařilo - jenže se zase ode mne nakazila Dita, takže se akorát v marodění vystřídáme. </p>
 

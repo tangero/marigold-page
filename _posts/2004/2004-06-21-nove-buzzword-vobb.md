@@ -1,14 +1,23 @@
 ---
 ID: 1154
-title: 'Nové buzzword &#8211; VoBB'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nove-buzzword-vobb
-published: true
+oldlink: 'https://www.marigold.cz/item/nove-buzzword-vobb
+
+  '
 post_date: 2004-06-21 08:53:56
+post_excerpt: ''
+published: true
+summary_points:
+- VoBB znamená Voice over BroadBand, což je internetová telefonie s kvalitativními
+  parametry.
+- VoBB se liší od VoIP kvalitou připojení, zejména rychlostí, latencí a rozptylem.
+- Japonsko je populární pro VoBB díky vysokorychlostnímu internetu a drahým meziměstským
+  hovorům.
+- Japonské Yahoo testuje širokopásmový přístup pro VoBB službu směrem k mobilním telefonům.
+title: Nové buzzword &#8211; VoBB
 ---
+
 <p>
 Dostal jsem do rukou jednu studii asijského trhu, kde se psalo o VoBB. Chvíli jsem nad tím dumal, o co jde, až mi to došlo - <em>Voice over BroadBand</em>. Nakonec mi to v textu i potvrdili :)</p>
 <p>

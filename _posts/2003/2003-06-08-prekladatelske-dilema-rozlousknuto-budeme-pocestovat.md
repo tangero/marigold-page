@@ -1,14 +1,21 @@
 ---
 ID: 348
-title: 'Překladatelské dilema rozlousknuto &#8211; budeme počešťovat'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prekladatelske-dilema-rozlousknuto-budeme-pocestovat
-published: true
+oldlink: 'https://www.marigold.cz/item/prekladatelske-dilema-rozlousknuto-budeme-pocestovat
+
+  '
 post_date: 2003-06-08 08:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- České ekvivalenty budou upřednostňovány v knize pro laiky, kde existují zažité výrazy.
+- Vlastní překlady autor nezavádí, vyhýbá se takovým excesům jako "jaderná síť".
+- Autor finalizuje knihu a zvažuje prodej na Marigoldovi kvůli komerci.
+- Objednávky knihy přiměly autora zvážit dotisk alespoň třiceti výtisků.
+title: Překladatelské dilema rozlousknuto &#8211; budeme počešťovat
 ---
+
 <p>
 Ačkoliv diskuse na téma zda používat české nebo anglické výrazy se klonila k používání zejména anglických výrazů, rozhodl jsem se demokraticky spíše se přiklonit k českým ekvivalentům tam, kde jsou a kde jsou zažité. Ukázalo se, že hodně lidí soudí, že směrovač je opravdu zažitý výraz coby router (jen mezi sebou bojují puristé, zda jde o <EM>směřovač</EM> nebo <EM>směrovač </EM>:) a protože kniha má být především pro počítačové laiky, kterým je jedno, zda neznají výraz anglicky nebo česky, zdá se být Markem Prokopem protěžovaná jazykově vzdělávací funkce knihy navýsost obhajitelná. Kromě toho udělám radost editorovi a to je, co se počítá...</p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 948
-title: >
-  T-Mobile představil komerční službu
-  HotSpot
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/t-mobile-predstavil-komercni-sluzbu-hotspot
-published: true
+oldlink: 'https://www.marigold.cz/item/t-mobile-predstavil-komercni-sluzbu-hotspot
+
+  '
 post_date: 2004-03-25 14:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile spustil komerční provoz hotspotů celosvětově, včetně 30 v ČR.
+- Platba mobilem stojí 20 Kč za 15 minut po registraci SMS.
+- Platba kartou nabízí hodinu za 150 Kč, den za 500 Kč.
+- Uvedené ceny hotspotů platí pouze v tuzemsku, v zahraničí jsou jiné.
+title: 'T-Mobile představil komerční službu HotSpot
+
+  '
 ---
+
 <p>
 U dalšího poskytovatele WiFi hotspotů nám skončila doba hájení - T-Mobile dnes oznámil své představy oceňování své služby T-Mobile Hotspot, která také dnešním dnem přechází do komerčního provozu. </p>
 

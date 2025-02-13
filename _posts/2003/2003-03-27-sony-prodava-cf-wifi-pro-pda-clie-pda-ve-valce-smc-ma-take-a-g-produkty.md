@@ -1,17 +1,23 @@
 ---
 ID: 196
-title: >
-  Sony prodává CF WiFi pro PDA Clié,
-  PDA ve válce, SMC má také a/g
-  produkty
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sony-prodava-cf-wifi-pro-pda-clie-pda-ve-valce-smc-ma-take-a-g-produkty
-published: true
+oldlink: 'https://www.marigold.cz/item/sony-prodava-cf-wifi-pro-pda-clie-pda-ve-valce-smc-ma-take-a-g-produkty
+
+  '
 post_date: 2003-03-27 08:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Sony WL110 je nová WiFi Compact Flash karta pro PDA Clié NX a NZ.
+- Americká armáda v Iráku používá iPaq, jak uvádí Government Computer News.
+- SMC uvádí router, PCI a PCMCIA karty standardu 802.11g v dubnu 2003.
+- SMC v květnu 2003 uvede PCMCIA kartu SMC2336W-AG podporující a/g standard.
+title: 'Sony prodává CF WiFi pro PDA Clié, PDA ve válce, SMC má také a/g produkty
+
+  '
 ---
+
 <p>
 Sony uvolnilo inovovanou verzi WiFi karty pro svoji řadu PDA Clié. Ovšem bohužel stále nejde o memorystick kartu, ale o compact flash kartu vhodnou pouze do Clié řady NX a NZ. Jmenuje se <STRONG>Sony Wireless LAN Card WL110</STRONG>. Předchůdce byl WL100.&#160;Cena zhruba 140 USD, k nalezení <A href="http://www.bargainpda.com/price/default.asp?productID=445&amp;brandName=Sony&amp;productName=Wireless%20LAN%20Card%20WL110&amp;display=priceDetail" target=_blank>kupříkladu zde</A>. </p>
 

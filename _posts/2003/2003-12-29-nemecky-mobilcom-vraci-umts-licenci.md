@@ -1,14 +1,21 @@
 ---
 ID: 765
-title: 'Německý Mobilcom vrací UMTS licenci&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nemecky-mobilcom-vraci-umts-licenci
-published: true
+oldlink: 'https://www.marigold.cz/item/nemecky-mobilcom-vraci-umts-licenci
+
+  '
 post_date: 2003-12-29 01:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobilcom vrací UMTS licenci v Německu a žádá zpět 7,14 miliardy eur.
+- Německý regulátor nesouhlasí s vracením licence, podobný případ byl Quam.
+- Vodafone a T-Mobile mají zájem o uvolněné frekvence v nové aukci.
+- RegTP zahájil tendr na licenci frekvenčního spektra bývalé analogové sítě C-Netz.
+title: Německý Mobilcom vrací UMTS licenci&#8230;
 ---
+
 <p>
 ... a chce zpět své peníze. Na tuhle švandu jsem se tuze těšil. Nemluví se o tom, ale ví se o tom - operátoři, kteří si na aukcích zejména v Británii a v Německu nakoupili mastné 3G licence koumají, jak z problému vybruslit. V některých zemích (kde šlo o menší balíky) už to dopadlo tak, že pár operátorů licenci nezaplatilo, vrátilo a dohodlo se o tom, že budou prodávat síť svého dosavadního konkurenta přebarvenou do svých barev. V Německu a Británii operátoři jednali s místním regulátorem a vládou o odpuštění části plateb, čemuž se oba logicky bránili. </p>
 

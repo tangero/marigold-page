@@ -1,14 +1,21 @@
 ---
 ID: 253
-title: 'Okurková sezóna ve WiFi, Casio má PDA s&nbsp;WiFi.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/okurkova-sezona-ve-wifi-casio-ma-pda-s-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/okurkova-sezona-ve-wifi-casio-ma-pda-s-wifi
+
+  '
 post_date: 2003-04-25 10:58:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi inovace stagnují, nové produkty nepřinášejí zásadní změny.
+- Casio představilo PDA DT-X10 a IT-500 s WiFi a Windows CE.
+- DT-X10 má OCR, IT-500 VoIP, oba čtečky čárových kódů.
+- WiFi nachází uplatnění v průmyslových aplikacích, například ve skladech.
+title: Okurková sezóna ve WiFi, Casio má PDA s&nbsp;WiFi.
 ---
+
 <p>
 V poslední době se ve WiFi neděje nic moc zajímavého. Zahraniční servery vzpomenou maximálně tak Palm Tungsten C s podporou WiFi, občas se objeví nějaký nový a ne moc inovativní výrobek, takže celkově nuda. Jistě, neustále se přídává WiFi podpora do nových a nových značek, ale to je jen naskakování do vlaku, ne pokládání nových kolejí. Beru to jako signál, že bych konečně měl napsat něco o sítích 4G a více pracovat na knize :)</p>
 

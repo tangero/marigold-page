@@ -1,14 +1,21 @@
 ---
 ID: 1199
-title: 'Tak jsme si dali menší havárku a&nbsp;už to zase snad chvíli pojede&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-jsme-si-dali-mensi-havarku-a-uz-to-zase-snad-chvili-pojede
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-jsme-si-dali-mensi-havarku-a-uz-to-zase-snad-chvili-pojede
+
+  '
 post_date: 2004-07-16 16:21:35
+post_excerpt: ''
+published: true
+summary_points:
+- Blog CMS nová verze způsobila zahlcení MySQL a pád serveru.
+- Přesun na Xhost.cz vyřešil problémy s funkčností BlogCMS a fotogalerie.
+- Konverzi na Xhost.cz provedl administrátor hostingu velmi rychle.
+- Ponaučení plyne z nutnosti svěřit správu serveru odborníkům.
+title: Tak jsme si dali menší havárku a&nbsp;už to zase snad chvíli pojede&#8230;
 ---
+
 <p>
 S Linuxem se člověk nenudí, zejména, když mu vůbec nerozumí, což je můj případ. Radek Hulán mne pravidelně bombarduje výzvami, abych si instaloval novou verzi Blog CMS, což jsem statečně ignoroval, neboť jak víme - co funguje, do toho se nehrabe. Nakonec mne ale udolal poukazem na to, že nějakou fintou se dají přečíst hesla atd. Tož jsem nainstaloval novou verzi, vstoupil do její administrace a server zmrtvěl. Proč, nevíme. Prostě vždy, když člověk vlezl do administrace, tak se začalo zahlcovat MySQL, až padlo na ústa. </p>
 

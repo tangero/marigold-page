@@ -1,16 +1,23 @@
 ---
 ID: 436
-title: >
-  Jak rychlé jsou ve skutečnosti
-  kombinované 802.11 b/g sítě?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-rychle-jsou-ve-skutecnosti-kombinovane-802-11-b-g-site
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-rychle-jsou-ve-skutecnosti-kombinovane-802-11-b-g-site
+
+  '
 post_date: 2003-08-11 07:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Matthew Gast změřil datový tok 802.11 sítí v laboratorních podmínkách.
+- b dosahovala reálné rychlosti 5,6 Mb/s, 802.11a pak 27,3 Mb/s.
+- g běžela reálně 29 Mb/s, ale s 802.11b klesla na 8,9 Mb/s.
+- Přítomnost pomalejších klientů v 802.11 síti zpomaluje i ostatní.
+title: 'Jak rychlé jsou ve skutečnosti kombinované 802.11 b/g sítě?
+
+  '
 ---
+
 <p>
 Matthew Gast, autor skvělé knihy <A href="http://www.oreilly.com/catalog/802dot11/">802.11 Wireless Networks: The Definitive Guide</A>&#160;si dal práci se změřením a <STRONG>spočítáním skutečného datového toku v 802.11 sítích</STRONG>. Vše samozřejmě měřeno v laboratorních podmínkách, takže to berme jako hodnoty spíše maximální. Jeho obsáhlý článek na téma porovnání datové propustnosti 802.11 sítí <A href="http://www.oreillynet.com/pub/a/wireless/2003/08/08/wireless_throughput.html" target=_blank>najdete zde</A>. Já z něj pouze sumarizuji nejzajímavější čísla. </p>
 

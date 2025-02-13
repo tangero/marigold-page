@@ -1,16 +1,24 @@
 ---
 ID: 742
-title: >
-  Broadcom nadává na Atheros za jeho
-  SuperG technologii
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/broadcom-nadava-na-atheros-za-jeho-superg-technologii
-published: true
+oldlink: 'https://www.marigold.cz/item/broadcom-nadava-na-atheros-za-jeho-superg-technologii
+
+  '
 post_date: 2003-12-15 12:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- Atheros SuperG zdvojnásobuje rychlost WiFi, ale vyžaduje stejný čipset v síti.
+- Broadcom testy ukazují, že SuperG ruší jiná bezdrátová zařízení v pásmu 2.4 GHz.
+- SuperG spojuje dva kanály, což snižuje rychlost standardní WiFi a ruší Bluetooth.
+- Proprietární rozšíření WiFi standardu mohou způsobovat problémy s kompatibilitou
+  sítí.
+title: 'Broadcom nadává na Atheros za jeho SuperG technologii
+
+  '
 ---
+
 <p>
 WiFi čipová sada firmy Atheros podporuje technologii SuperG, tedy dvojnásobnou rychlost 108 Mb/s oproti standardu 802.11g. Této rychlosti dosahuje čipset firmy Atheros samozřejmě jen v případě, když mají všechna zařízení v síti tuto čipovou sadu (integruje ji D-Link a Netgear). </p>
 

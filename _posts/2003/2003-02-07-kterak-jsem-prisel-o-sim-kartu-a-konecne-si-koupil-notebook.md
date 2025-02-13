@@ -1,14 +1,22 @@
 ---
 ID: 80
-title: 'Kterak jsem přišel o&nbsp;SIM kartu a&nbsp;konečně si koupil notebook'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kterak-jsem-prisel-o-sim-kartu-a-konecne-si-koupil-notebook
-published: true
+oldlink: 'https://www.marigold.cz/item/kterak-jsem-prisel-o-sim-kartu-a-konecne-si-koupil-notebook
+
+  '
 post_date: 2003-02-07 19:19:00
+post_excerpt: ''
+published: true
+summary_points:
+- Testovací SIM karta Eurotelu zrušena kvůli klonování, autor zůstává s Paegasem a
+  Oskarem.
+- Notebook Dell Latitude nedostupný za původní cenu, Sony Vaio příliš drahé.
+- Acer zvažován, ale Bohouš Hyánek doporučil Gericom s procesorem Crusoe.
+- Nakonec zakoupen IBM ThinkPad R31, který zlepšil autorovu náladu.
+title: Kterak jsem přišel o&nbsp;SIM kartu a&nbsp;konečně si koupil notebook
 ---
+
 <p>
 Dnešek byl téměř dnem osobních tragédií. Především jsem ráno přišel o svoji oblíbenou SIM kartu Eurotelu, kterou jsme používali k testování služeb Eurotelu a já také mimo jiné k tomu, abych si tu a tam vybral poštu na cestách. Byla to totiž SIM karta testovací, to jest taková, od které nechodí účet. A to se to přeci jen trochu klidněji vyvíjí a datuje... Jenže někdo z povedených kamarádíků se pokusil (úspěšně) udělat si její klon. A Eurotel na to dneska přišel a kartu poslal do kytek. Krajně nepříjemné, protože novou asi už nedostanu. A tak jsem zůstal se svým Paegasem a Oskarem osamocen... buuuuu... Otázku, zda si SIM kartu Eurotelu mám kupovat a platit ze svého, jsem si po důkladné úvaze provázené pohledem na stav běžného účtu, zodpověděl záporně...</p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 738
-title: 'Dědictví aneb &#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dedictvi-aneb
-published: true
+oldlink: 'https://www.marigold.cz/item/dedictvi-aneb
+
+  '
 post_date: 2003-12-12 09:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- Prababička odkázala autorovi zrestituovaný pozemek v Holotíně, strejda Radim zdědil
+  movitý majetek.
+- Pozemek v Holotíně má nízkou odhadní cenu a leží daleko od Prahy.
+- Na pozemku hospodaří cizí lidé, kteří si tam vysázeli sad a pěstovali brambory.
+- Autor se rozhodl na pozemku vybudovat skládku jaderného odpadu.
+title: Dědictví aneb &#8230;
 ---
+
 <p>
 Ten film jste asi viděli - Bolek Polívka zdědil miliony a užíval si jich opravdu důstojně. Nemám to štěstí, co Bolek Polívka a když mi někdo nahoře psal scénář k životu, moje Dědictví by také vydalo na celovečerák, ale nevím, zda tak vtipný. Možná je chyba v obsazení :)</p>
 

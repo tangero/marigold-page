@@ -1,14 +1,21 @@
 ---
 ID: 401
-title: Tak kde to je?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-kde-to-je
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-kde-to-je
+
+  '
 post_date: 2003-07-06 16:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Útoky na internetové servery se podle DHS a médií nekonaly, šlo zřejmě o hoax.
+- Manipulace masmédii v oblasti technologií je snadná, ale mohla vést k záplatování
+  děr.
+- OSN by mohla vyhlásit den defacerů pro zvýšení bezpečnosti internetu.
+title: Tak kde to je?
 ---
+
 <p>
 Jak nás informovaly naše TV stanice, ČTK, ostátní madmédia&#160;a DHS (Americke ministerstvo domácí bezpečnosti), mělo dnes dojít k masivním útokům na internetové servery (s cílem pozměnit&#160;obsah jejich webových stránek&#160;- defacovat je). I když je v USA teprve&#160;časné ráno, zatím to vypadá, že pravdu měl <A href="http://www.dhs.gov/dhspublic/">Medvídek Pů</A>, když tvrdil, že jde o další z řady hoaxů.</p>
 

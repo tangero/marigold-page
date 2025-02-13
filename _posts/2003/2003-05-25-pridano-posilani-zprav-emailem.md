@@ -1,14 +1,21 @@
 ---
 ID: 315
-title: 'Přidáno posílání zpráv emailem&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pridano-posilani-zprav-emailem
-published: true
+oldlink: 'https://www.marigold.cz/item/pridano-posilani-zprav-emailem
+
+  '
 post_date: 2003-05-25 12:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- Emailové zprávy lze nyní posílat z Marigoldu kliknutím na odkaz pod zprávou.
+- Odesílatel musí vyplnit funkční emailovou adresu pro ověření SMTP serverem.
+- Ke zprávě lze přidat komentář, který se zobrazí modře před samotným textem.
+- Autor nedořešil znovunačítání titulní stránky při kliknutí na "poslat emailem".
+title: Přidáno posílání zpráv emailem&#8230;
 ---
+
 <p>
 Tak jsem přidal jednu věc, kterou osobně považuji za docela praktickou a to <STRONG>posílání zpráv emailem.</STRONG> Pokud vás nějaká zprávička na Marigoldovi zaujala, stačí kliknout na link pod ní <A class="sitelinksredorange anchor">poslat emailem</A> a můžete ji někomu poslat. </p>
 

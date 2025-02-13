@@ -1,16 +1,24 @@
 ---
 ID: 485
-title: >
-  Linksys představil WiFi Media Adaptor
-  pro spotřební elektroniku
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-predstavil-wifi-media-adaptor-pro-spotrebni-elektroniku
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-predstavil-wifi-media-adaptor-pro-spotrebni-elektroniku
+
+  '
 post_date: 2003-09-05 16:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys představil WiFi adaptér 802.11b pro spotřební elektroniku s S-Video a audio
+  vstupy.
+- Software pro adaptér je zatím pouze pro Windows a nepodporuje video.
+- Cena WiFi adaptéru je 200 USD a Linksys plánuje přidat podporu videa.
+- Linksys nabízí gigabitové přepínače pro domácnosti, pětiportový za 200 dolarů.
+title: 'Linksys představil WiFi Media Adaptor pro spotřební elektroniku
+
+  '
 ---
+
 <p>
 Celé prázdniny se nic neděje a najednou to vypadá, jako by se hromadně vrátili všichni tiskoví mluvčí z dovolené a zejména u Linksysu se roztrhl pytel s novinkami. Asi jim přišli peníze za akvizici Ciscem a mohou se rozšoupnout :)</p>
 

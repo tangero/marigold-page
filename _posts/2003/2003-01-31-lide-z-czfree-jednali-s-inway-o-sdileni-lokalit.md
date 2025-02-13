@@ -1,14 +1,21 @@
 ---
 ID: 69
-title: 'Lidé z&nbsp;CzFree jednali s&nbsp;Inway o&nbsp;&#8222;sdílení lokalit&#8220;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lide-z-czfree-jednali-s-inway-o-sdileni-lokalit
-published: true
+oldlink: 'https://www.marigold.cz/item/lide-z-czfree-jednali-s-inway-o-sdileni-lokalit
+
+  '
 post_date: 2003-01-31 09:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- CzFree jednal s Inway o montáži techniky Inway na místech CzFree.
+- Inway provozuje komerční sítě v pásmech 2.4 GHz, 10 GHz a 3.5 GHz.
+- Jednání ztroskotala, protože nikdo nechtěl nic garantovat.
+- CzFree má decentralizovanou strukturu, takže nikdo nemůže nic přikazovat.
+title: Lidé z&nbsp;CzFree jednali s&nbsp;Inway o&nbsp;&#8222;sdílení lokalit&#8220;
 ---
+
 <p>
 Jeden takový malý společenský drb, který ke mne dobublal složitou, lež důvěryhodnou cestou. Někteří nejmenovaní lidé z CzFree jednali s ISP Inway o tom, že by Inway mohl montovat svoji techniku tam, kde má CzFree své spoty. Inway provozuje komerční síť v pásmu 2.4 GHz a 10 GHz a v licencovaném 3,5 GHz - takže bylo možné vše uspořádat tak, aby se to s CzFree nerušilo. </p>
 

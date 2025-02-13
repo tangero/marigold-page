@@ -1,14 +1,23 @@
 ---
 ID: 702
-title: 'Bluejacking bude nástroj mobilního spamu. A&nbsp;otestujte si své digitální IQ'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bluejacking-bude-nastroj-mobilniho-spamu-a-otestujte-si-sve-digitalni-iq
-published: true
+oldlink: 'https://www.marigold.cz/item/bluejacking-bude-nastroj-mobilniho-spamu-a-otestujte-si-sve-digitalni-iq
+
+  '
 post_date: 2003-11-28 16:19:00
+post_excerpt: ''
+published: true
+summary_points:
+- Rainier PR vidí bluejacking jako budoucí marketingový kanál pro komerční sdělení.
+- Bluetooth umožňuje posílat velké množství vizitek bez spárování, což usnadňuje bluejacking.
+- Autor s kamarádem vytvořili bluespam software pro hromadné odesílání spamu přes
+  Bluetooth.
+- Článek nabízí test digitálního IQ a odkaz na vtipný manželský rozhovor.
+title: Bluejacking bude nástroj mobilního spamu. A&nbsp;otestujte si své digitální
+  IQ
 ---
+
 <p>
 Britská píár firma Rainier označila ve své tiskové zprávě <STRONG>bluejacking za další možný marketingový kanál,</STRONG> který bude v blízké budoucnosti hojně používání tak, že se vám přímo do kapsy povalí hromada komerčních sdělení pomocí právě bluejackingu. Co je bluejacking se <A href="http://beta.marigold.cz/zprava.html?id=25871">dozvíte zde</A>&#160;v mé starší zprávě. </p>
 

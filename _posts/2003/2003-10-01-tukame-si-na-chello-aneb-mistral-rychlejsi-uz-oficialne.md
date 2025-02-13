@@ -1,14 +1,21 @@
 ---
 ID: 540
-title: 'Ťukáme si na Chello aneb Mistrál rychlejší už oficiálně&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tukame-si-na-chello-aneb-mistral-rychlejsi-uz-oficialne
-published: true
+oldlink: 'https://www.marigold.cz/item/tukame-si-na-chello-aneb-mistral-rychlejsi-uz-oficialne
+
+  '
 post_date: 2003-10-01 08:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- UPC mění značku Mistral na Chello kvůli holandské společnosti Chello.
+- Chello Classic nabízí 256/96 Kb/s, Chello Plus 512/128 Kb/s, ceny zůstávají.
+- Chello Profesional pro firmy má 768/256 Kb/s za necelé 4000 Kč.
+- UPC začalo posílat faktury e-mailem na zákazníkem uvedený e-mail.
+title: Ťukáme si na Chello aneb Mistrál rychlejší už oficiálně&#8230;
 ---
+
 <p>
 UPC podlehlo mánii změny imáže a rozhodlo se změnit značku. <STRONG>Místo Mistralu to bude Chello.</STRONG> Proč? Protože nějací holanďani se taky jmenují Chello a tak se rozhodli, že bezpodmínečně nutné pro úspěch v téhle banana republic je, aby se kabelový internet jmenoval stejně, jako tam v té zaslíbené zemi sýrových mužů. Kvůli tomu se budou měnit smlouvy, emailové adresy, domény, všechno. Nápad hodný choromyslných - ku cti místního vedení UPC slouží jen to, že jim toto rozhodnutí se nezrodilo v jejich vlastních hlavičkách, ale doputovalo befehlem právě od oněch moudrých holanďanů. Budiž, ať je z toho Chello, hlavní je, že UPC zrychluje svoji službu Mistral a to již oficiálně (my co na ní běžíme, víme, že neoficiálně už je to rychlejší zhruba měsíc). Parametry kabelového internetu UPC Mistrach Chello jsou nyní následující:</p>
 

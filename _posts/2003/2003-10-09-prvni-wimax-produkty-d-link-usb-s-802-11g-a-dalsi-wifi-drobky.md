@@ -1,14 +1,23 @@
 ---
 ID: 568
-title: 'První WiMAX produkty, D-Link USB s&nbsp;802.11g a&nbsp;další WiFi drobky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prvni-wimax-produkty-d-link-usb-s-802-11g-a-dalsi-wifi-drobky
-published: true
+oldlink: 'https://www.marigold.cz/item/prvni-wimax-produkty-d-link-usb-s-802-11g-a-dalsi-wifi-drobky
+
+  '
 post_date: 2003-10-09 07:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys WRT54G má nový firmware 1.41.7 s Cisco designem a blokováním obsahu.
+- D-Link představil USB 2.0 adaptér DWL-G120 s WiFi 802.11g za 89 USD.
+- Překlad Knihy o mikrovlnných anténách na bz.wz.cz zatím nepokročil.
+- Redline Communications ohlásila první produkty plně odpovídající specifikaci WiMAX
+  802.16a.
+- WSC nabízí autorizaci proti 802.1x serveru za 8 USD měsíčně na uživatele.
+title: První WiMAX produkty, D-Link USB s&nbsp;802.11g a&nbsp;další WiFi drobky
 ---
+
 <p>
 Upgrade na <STRONG>novou verzi firmware pro WiFi směrovač Linksys WRT54G</STRONG> najdete na <A href="http://www.tweakers.net/meuktracker/4748" target=_blank>těchto stránkách</A>. Jde o verzi 1.41.7 určenou pro Evropu, novinkou je Cisco design a především možnost blokování přístupu k nevhodnému obsahu. </p>
 

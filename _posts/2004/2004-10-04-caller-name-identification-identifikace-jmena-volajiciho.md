@@ -1,14 +1,21 @@
 ---
 ID: 1345
-title: 'Caller Name Identification &#8211; identifikace jména volajícího'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/caller-name-identification-identifikace-jmena-volajiciho
-published: true
+oldlink: 'https://www.marigold.cz/item/caller-name-identification-identifikace-jmena-volajiciho
+
+  '
 post_date: 2004-10-04 10:59:01
+post_excerpt: ''
+published: true
+summary_points:
+- CNI identifikuje volajícího jménem a dalšími daty, nejen číslem.
+- Mobilní telefony dnes zobrazují jen čísla, i když lze přenášet jména.
+- GPP nepodporuje nezávislé návrhy, zvláště ty zdarma pro uživatele.
+- CNI návrh zřejmě neprojde, dokud ho nepodá velká firma.
+title: Caller Name Identification &#8211; identifikace jména volajícího
 ---
+
 <p>
 Zapoměl jsem dodat, co je to CNI. Caller Name Identification. Myšlenka, že volající stanice by se měla identifikovat nikoliv jen svým číslem, ale také jménem. Jméno by samozřejmě každý uživatel mohl na svém mobilu nastavit libovolné a při sestavování spojení by se signalizačním kanálem přenášelo i jméno volajícího nebo spíše to, co by měl nastavené v telefonu, třeba jeho přezdívka plus URL na XML dokument s dalšími daty o volajícím jako je věk, město, stát, fotka, narozeniny, záliby. Samozřejmě v případě, že by to považoval za užitečné vyplnit. Třeba pro nějaké budoucí použití typu uložení narozenin člověka do kalendáře.  </p>
 

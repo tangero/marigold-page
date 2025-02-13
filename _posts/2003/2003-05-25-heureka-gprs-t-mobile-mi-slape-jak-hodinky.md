@@ -1,14 +1,21 @@
 ---
 ID: 314
-title: 'Heureka &#8211; GPRS T-Mobile mi šlape jak hodinky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/heureka-gprs-t-mobile-mi-slape-jak-hodinky
-published: true
+oldlink: 'https://www.marigold.cz/item/heureka-gprs-t-mobile-mi-slape-jak-hodinky
+
+  '
 post_date: 2003-05-25 09:50:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile GPRS údajně zlepšilo funkčnost, což autor ověřil při výpadku UPC.
+- Autor testoval GPRS v Praze, ale zajímá ho funkčnost u rodičů u Pardubic.
+- Bořík odjel na Moravu psát business plán Cinetiku a má testovat GPRS.
+- Autor doporučil Boříkovi aktivaci GPRS T-Mobile pro práci na dovolené.
+title: Heureka &#8211; GPRS T-Mobile mi šlape jak hodinky
 ---
+
 <p>
 V týdnu jsem dostal email z T-Mobile, že GPRS, na které jsem si tu stěžoval, jim již funguje a že bych je tedy za to měl pochválit. Slíbil jsem si, že to vyzkouším při nejbližší příležitosti a netušil jsem, že hned v sobotu k tomu budu mít praktický důvod. Doma padla linka od UPC a skoro celou sobotu neběžela. A protože jsem psal knihu o WiFi a potřeboval jsem pár věcí ověřit, nezbylo mi, než nastartovat GPRS od T-Mobile a řádně ho zatížit. </p>
 

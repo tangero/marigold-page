@@ -1,14 +1,21 @@
 ---
 ID: 1395
-title: 'Nokia 6260 &#8211; pár chybiček se najde&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-6260-par-chybicek-se-najde
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-6260-par-chybicek-se-najde
+
+  '
 post_date: 2004-11-09 15:39:16
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia 6260 neumožňuje odeslat pořízenou fotografii fasády TopHOTELU.
+- Fotka je označena jako chráněný obsah, nelze ji kopírovat ani odeslat.
+- Bankovní sim toolkit Oskara způsobuje pád podpory v Nokii při neuzavření zprávy.
+- Další zprávy sim toolkitu se nezobrazí do restartu telefonu.
+title: Nokia 6260 &#8211; pár chybiček se najde&#8230;
 ---
+
 <p>
 Vzal jsem si nedávno na osahaní novou Nokia 6260, takové to véčko se series 60. Doufám, že si to značení nepletu. A právě jsem chtěl z něj poslat na server fotku fasády TopHOTELU, abyste názorně viděli, co s fasádou paneláku udělá mramor...</p>
 <p>

@@ -1,14 +1,21 @@
 ---
 ID: 63
-title: 'I jako truhlář bych se uživil a&nbsp;jiné povzdechy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/i-jako-truhlar-bych-se-uzivil-a-jine-povzdechy
-published: true
+oldlink: 'https://www.marigold.cz/item/i-jako-truhlar-bych-se-uzivil-a-jine-povzdechy
+
+  '
 post_date: 2003-01-25 09:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Kancelář vymalovali svépomocí s přáteli žluto-oranžovou barvou, což bylo drahé.
+- Místo lina si autor nechal položit kancelářský koberec specialistou.
+- Speciální police autor sehnal přes inzerát z Mostu a sám je smontoval.
+- V pondělí bude v kanceláři zprovozněn internet přes WiFi.
+title: I jako truhlář bych se uživil a&nbsp;jiné povzdechy
 ---
+
 <p>
 Začátkem ledna jsem se rozhodl, že bych si mohl pořídit kancelář pro svoji novou firmičku. I jak jsem si usmyslel, stalo se. Našel jsem dopravně dostupné, s bezproblémovým parkovánín i jinak příznivé prostory a začal jsem si je zařizovat, vzpomínaje na svoje začátky v Mobil serveru. První legrace nastala s vymalováním. S dvěma přáteli jsem se <STRONG>usnesl vymalovat svépomocí</STRONG>, což se nakonec podařilo a kancelář je v příjemně žluto-oranžovém tónu (návštěvnící Mobil Media na Vinohradské asi tuší, co to může být za odstín). Když připomenu, že oba přátelé jsou ředitelé velkých firem, lze se domnívat, že jde o nejdražší nátěr v Praze převedeno na hodinovou sazbu natěračů</p>
 

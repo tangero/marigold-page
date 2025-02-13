@@ -1,14 +1,23 @@
 ---
 ID: 646
-title: 'Logitech io &#8211; počítačové pero, co rozpozná psané poznámky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/logitech-io-pocitacove-pero-co-rozpozna-psane-poznamky
-published: true
+oldlink: 'https://www.marigold.cz/item/logitech-io-pocitacove-pero-co-rozpozna-psane-poznamky
+
+  '
 post_date: 2003-11-07 08:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- Logitech io je digitální psací pero používající inkoustové bombičky a speciální
+  papír.
+- Pero snímá mikrotečky na papíře optickým senzorem pro rozpoznávání psaného textu.
+- Vestavěná paměť pera pojme 40 stran poznámek, které se synchronizují přes USB do
+  PC.
+- Software pera umí rozpoznávat rukopis a integrovat text do různých aplikací.
+title: Logitech io &#8211; počítačové pero, co rozpozná psané poznámky
 ---
+
 <p>
 Tohle je parádní geekovina, kterou jsem našel v novém čísle Wired. Jmenuje se to Logitech io a je to vlastně digitální psací pero. Vypadá podobně jako chatpeny, které se snaží několik firem vyvinout a dodávat k mobilním telefonům, funguje ale maličko jinak. </p>
 

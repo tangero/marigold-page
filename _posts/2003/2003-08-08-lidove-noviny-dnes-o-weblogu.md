@@ -1,14 +1,21 @@
 ---
 ID: 434
-title: 'Lidové noviny dnes o&nbsp;weblogu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lidove-noviny-dnes-o-weblogu
-published: true
+oldlink: 'https://www.marigold.cz/item/lidove-noviny-dnes-o-weblogu
+
+  '
 post_date: 2003-08-08 14:12:00
+post_excerpt: ''
+published: true
+summary_points:
+- Lidové noviny vydaly článek o weblozích v příloze Pátek.
+- Článek zmiňuje Řetězčin blog, Žertvův deníček a Gentlemanův weblog.
+- Gentleman je z trojice mediálně nejznámější a nejstarší weblog.
+- Autor vyzývá k zasílání tipů na méně obvyklé blogy do komentářů.
+title: Lidové noviny dnes o&nbsp;weblogu
 ---
+
 <p>
 Lidové noviny ve své dnešní příloze Pátek (tuším že se tak jmenuje) vydaly dvoustránkový článek o weblogu, hezky napsaný. Dokonce je tam uveden Marigold :) </p>
 

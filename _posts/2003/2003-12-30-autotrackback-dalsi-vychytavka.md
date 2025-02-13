@@ -1,14 +1,21 @@
 ---
 ID: 768
-title: 'AutoTrackBack &#8211; další vychytávka'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/autotrackback-dalsi-vychytavka
-published: true
+oldlink: 'https://www.marigold.cz/item/autotrackback-dalsi-vychytavka
+
+  '
 post_date: 2003-12-30 15:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- TrackBack je málo používaná funkce na českých webech.
+- Autor vytvořil AutoTrackBack, jednodušší automatický systém logování odkazů.
+- AutoTrackBack zobrazuje odkazy pouze z přímých odkazů na zprávy Marigolda.
+- AutoTrackBack má omezení, zobrazuje se jen po kliknutí na "Zalinkovat".
+title: AutoTrackBack &#8211; další vychytávka
 ---
+
 <p>
 Funkce TrackBack je na československých weblozích (?) málo obvyklá, znám asi jen dva nebo tři servery, co ji používají. Nicméně jde o zajímavou funkci - ke každému příspěvku, spotu,&#160;lze automaticky přiřadit odkaz, že na tento příspěvek ze svého webu odkazujete. A čtenář se tak dozví, co si o tomto tématu myslí další blogeři. </p>
 

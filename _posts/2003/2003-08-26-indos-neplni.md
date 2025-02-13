@@ -1,14 +1,24 @@
 ---
 ID: 456
-title: INDOŠ neplní?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/indos-neplni
-published: true
+oldlink: 'https://www.marigold.cz/item/indos-neplni
+
+  '
 post_date: 2003-08-26 14:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Teplýšovická škola stále nemá internet v rámci projektu Indoš, ačkoliv je místnost
+  připravena.
+- Telecom sliboval zavedení internetu do Teplýšovic, ale termín se posunul na konec
+  října.
+- Plná kapacita místní sítě Telecomu bránila dříve připojení školy k internetu.
+- Autor textu kritizuje systém generálního dodavatele a neschopnost Telecomu zajistit
+  konektivitu.
+title: INDOŠ neplní?
 ---
+
 <p>
 V novinách Benešovský deník dnes vyšel následující článek:</p>
 

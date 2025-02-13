@@ -1,14 +1,21 @@
 ---
 ID: 42
-title: 'WiFi v&nbsp;mobilech, Dell WiFi standardně, Hitachi projektor atd&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-v-mobilech-dell-wifi-standardne-hitachi-projektor-atd
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-v-mobilech-dell-wifi-standardne-hitachi-projektor-atd
+
+  '
 post_date: 2003-01-15 09:19:00
+post_excerpt: ''
+published: true
+summary_points:
+- Hitachi LCD projektor lze rozšířit o WiFi za 1500 USD.
+- Lufthansa testuje WiFi internet na palubě letadel za 35 dolarů.
+- Dell bude standardně vestavovat WiFi do notebooků Latitude.
+- Avaya, Proxim a Motorola vyvíjejí WiFi roaming s mobilními telefony.
+title: WiFi v&nbsp;mobilech, Dell WiFi standardně, Hitachi projektor atd&#8230;
 ---
+
 <p>
 A máme tu něco dnešních WiFi novinek. Především mne zaujal <STRONG>LCD projektor Hitachi</STRONG>, který lze přes DVI konektor (sic!) rozšířit o připojení do WiFi. Tak ho můžete jednoduše řídit po síti, můžete tak řídit i více projektorů až na 255 IP adresách. No, levná hračka to není, projektory stojí mírně pod 400 000 Kč a to bezdrátové rozšíření samo vyjde na 1500 USD. Více <A href="http://www.allnetdevices.com/wireless/news/2003/01/14/hitachi_unveils.html" target=_blank>podrobností zde</A>. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 964
-title: 'To byl týden&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/to-byl-tyden
-published: true
+oldlink: 'https://www.marigold.cz/item/to-byl-tyden
+
+  '
 post_date: 2004-04-02 12:21:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor prožil frustrující týden plný pracovních neúspěchů a zmeškaných termínů.
+- MHD průkazka přinesla úlevu, ale i paranoidní obavy z jízdy načerno.
+- Instalace USB modemu pro projekt "Internet pro dědu" se zkomplikovala.
+- Miranda nahradila ICQ a AI bot pobavil přátele simulací konverzace.
+title: To byl týden&#8230;
 ---
+
 <p>
 Tenhle týden bych zařadil na seznam týdnů ve svém životě, které bych s chutí škrtnul. V práci hromada práce a nakonec jsem prošvihnul i nejzazší a naprosto nejposlednější termín dodání jednoho projektu a prvního dubna se nespustilo nic. Už ani nemám sílu sledovat, jestli je to moje chyba. Kromě toho se za ten týden nepodařilo snad nic, co by stálo za zmínku, snad s čestnou výjimkou toho, že jsem si vyřídil konečně průkazku na MHD, takže už nemusím cvakat lístek. Abych z toho nevyšel tak lacino, pronásleduje mne v metru utkvělá představa, že když jsem si necvakl, určitě jedu na černo a pořád kontroluju, zda tu průkazku mám. Při minulé kontrole mi na jezdících schodech vypadla z penězenky platební karta a málem jsem si toho nevšiml, to by mne asi dorazilo totálně. </p>
 

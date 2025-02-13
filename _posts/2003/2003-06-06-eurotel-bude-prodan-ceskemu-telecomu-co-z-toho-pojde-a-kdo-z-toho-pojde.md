@@ -1,14 +1,22 @@
 ---
 ID: 347
-title: 'Eurotel bude prodán Českému Telecomu. Co z&nbsp;toho pojde? A&nbsp;kdo z&nbsp;toho pojde?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-bude-prodan-ceskemu-telecomu-co-z-toho-pojde-a-kdo-z-toho-pojde
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-bude-prodan-ceskemu-telecomu-co-z-toho-pojde-a-kdo-z-toho-pojde
+
+  '
 post_date: 2003-06-06 13:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom dokoupí zbytek podílu Eurotelu za 1,05 miliardy USD.
+- Vladimír Mlynář prosazuje spojení vlastnictví mobilního a pevného operátora.
+- Telecom potřebuje ráznou ruku a tvrdé manažery pro zlepšení situace.
+- Miroslav Antl dostal nabídku na šéfa bezpečnosti Českého Telecomu.
+title: Eurotel bude prodán Českému Telecomu. Co z&nbsp;toho pojde? A&nbsp;kdo z&nbsp;toho
+  pojde?
 ---
+
 <p>
 Dlouho očekávaný krok zřejmě vážně nastane. Český Telecom si dokoupí zbytek podílu v společnosti s ručeným omezením Eurotel. Za 49 procent podílu by měl Český Telecom zaplatit čásku 1,05 mld USD neboli 26 mld Kč (dle ČTK) či 28 mld Kč dle MF DNES. Dvě miliardy prořez zatím neřešme, ty se někde vytratí. Český Telecom také schválil dividendu 18 miliard, tedy něco přes 57 Kč na akcii, což je velmi slušné, akcie se prodávají za 377 Kč (včera 351 Kč, posílení přes 7 procent). Trh hodnotí odkup Eurotelu positivně. </p>
 

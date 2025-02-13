@@ -1,14 +1,21 @@
 ---
 ID: 745
-title: 'Drobky: VoIP a&nbsp;WiFi, DVD přehrávač s&nbsp;DivX, etexty na mobilu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-voip-a-wifi-dvd-prehravac-s-divx-etexty-na-mobilu
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-voip-a-wifi-dvd-prehravac-s-divx-etexty-na-mobilu
+
+  '
 post_date: 2003-12-17 08:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi VoIP čeká na specifikaci 802.11e s QoS pro spolehlivý přenos.
+- Yamada DVX 6000 je DVD přehrávač, který údajně dobře přehrává DivX.
+- GSMReader je český software pro čtení e-knih na mobilech Eurotelu.
+- Vypnutý AdMuncher odhalil agresivní reklamy na českém internetu.
+title: 'Drobky: VoIP a&nbsp;WiFi, DVD přehrávač s&nbsp;DivX, etexty na mobilu'
 ---
+
 <p>
 Na ISDN serveru dnes rozebírají zprávu Unstrung Insider věnovanou přenosu hlasu po bezdrátových sítích, zejména pak WiFi. V podstatě již dnes VoIP na WiFi sítích funguje, dokonce existují telefonky s podporou WiFi. Jenže dobré to je jen s málo uživateli ve WiFi síti, jakmile počet uživatelů vzroste, je problém. A tak se čeká na <STRONG>specifikaci 802.11e, která přinese QoS</STRONG> (řízení kvality služby) do WiFi. Pak už by ani přenos dat náročných na reálný čas neměl být problém. Z článku cituji zajímavou myšlenku: <EM>Využití VoWLAN k poskytování veřejných hlasových služeb prostřednictvím Wi-Fi hotspotů se asi příliš neprosadí, alespoň ne do té doby, než budou k dispozici zmíněné duální telefony s podporou GSM i 802.11 (plus VoIP).</EM> Souhlasím. Na druhou stranu spolu s rozvojem služeb nabízejících telefonování po internetu včetně příchozího telefonního čísla se i u nás nachází stále více lidí, kteří by <STRONG>byli schopni a ochotni WiFi sluchátko používat místo klasického domácího/firemního bezdrátového telefonu</STRONG>. <EM>Zdroj: ISDN server - </EM><A href="http://www.isdn.cz/clanek.php?cid=5418" target=_blank><EM>Jakou šanci má Voice over Wi-Fi?</EM></A><EM>&#160;</EM><A href="http://www.unstrung.com/insider/default.asp?page=excerpt#22" target=_blank><EM>Unstrung Insider report</EM></A><EM> ku koupi.</EM></p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 1002
-title: >
-  Meshování (samoorganizování)
-  bezdrátových sítí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/meshovani-samoorganizovani-bezdratovych-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/meshovani-samoorganizovani-bezdratovych-siti
+
+  '
 post_date: 2004-04-26 17:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- Samoorganizující sítě jsou skvělý překlad pro mesh sítě.
+- Holandská komunitní síť FolDerEn používá hardware Soekris.
+- Diskuse o hardware pro AP zmiňuje desku P50x Spider od GMS.
+- UltraMesh nabízí zkompletované Outdoor MeshAP za 450 USD.
+title: 'Meshování (samoorganizování) bezdrátových sítí
+
+  '
 ---
+
 <p>
 Nedávno jsem našel báječný překlad pojmu mesh sítě - samoorganizujícíse sítě. Bohužel už si nepamatuju kde, až později mi totiž došlo, o co jde a jak je to báječný překlad. Autorovi (žel neznámému) gratuluji a hodlám jej používat :)</p>
 

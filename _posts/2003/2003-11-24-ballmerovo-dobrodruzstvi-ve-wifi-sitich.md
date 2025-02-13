@@ -1,16 +1,24 @@
 ---
 ID: 688
-title: >
-  Ballmerovo dobrodružství ve WiFi
-  sítích
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ballmerovo-dobrodruzstvi-ve-wifi-sitich
-published: true
+oldlink: 'https://www.marigold.cz/item/ballmerovo-dobrodruzstvi-ve-wifi-sitich
+
+  '
 post_date: 2003-11-24 11:35:00
+post_excerpt: ''
+published: true
+summary_points:
+- Steve Ballmer popisuje připojení k nezabezpečené WiFi síti "Mountaineer" v hotelu.
+- Ballmerova historka vedla k článkům o něm jako o "wardriverovi".
+- Bill Gates a další se připojovali k internetu přes Ballmerovu hotelovou WiFi.
+- Článek ironicky spekuluje o Gatesovi a Ballmerovi používajících Linux k prolomení
+  WEP.
+title: 'Ballmerovo dobrodružství ve WiFi sítích
+
+  '
 ---
+
 <p>
 Na <A href="http://www.infoworld.com/article/02/07/18/020722plballmer_1.html" target=_blank>InfoWorldu</A> jsem našel <STRONG>rozhovor s Microsoft CEO&#160;Stevem Ballmerem</STRONG> - rozhovor je obecně věnován jeho (=MS) pohledu na technologie a mimo jiné stojí za přečtení pasáž, kde <STRONG>Ballmer hovoří o WiFi</STRONG>. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 338
-title: 'Překládat či&nbsp;nepřekládat technické termíny?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prekladat-ci-neprekladat-technicke-terminy
-published: true
+oldlink: 'https://www.marigold.cz/item/prekladat-ci-neprekladat-technicke-terminy
+
+  '
 post_date: 2003-06-03 20:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- Kniha o WiFi řeší problém používání anglických technických termínů.
+- Autor preferuje anglické termíny, editor trvá na českých ekvivalentech.
+- České překlady jako "přístupový bod" a "směřovač" považuje autor za zavádějící.
+- Autor se obává, že s českými termíny bude působit neprofesionálně.
+title: Překládat či&nbsp;nepřekládat technické termíny?
 ---
+
 <p>
 Už jen dva týdny zbývají do odevzdání klávesnicopisu (rukopis je přeci nesmysl) knihy o WiFi. A mezi tím jsem opět dostal sprďana od editora, že jsem se totálně vykašlal na jeho výtky týkající se používání anglických termínů. A protože sám moc nevím, co s tím, máte příležitost dát argumenty na jednu i druhou misku vah. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1280
-title: 'Story o&nbsp;sousedských sítích (5.)'
 author: Michal Krsek
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/story-o-sousedskych-sitich-5
-published: true
+oldlink: 'https://www.marigold.cz/item/story-o-sousedskych-sitich-5
+
+  '
 post_date: 2004-08-27 13:41:41
+post_excerpt: ''
+published: true
+summary_points:
+- Duron obdržel bezdrátové a drátové karty, překvapivě i SCSI řadič s diskem.
+- Mikrotik OS se zdá být vhodný, verze Level 4 stojí 65 dolarů.
+- Dnes autor předá kabel v lokalitě jedna a vyzvedne anténu na Vinohradech.
+- Nové antény budou instalovány na stožárek v lokalitě dva.
+title: Story o&nbsp;sousedských sítích (5.)
 ---
+
 <p>
 Jak už jsem včera psal, dorazil mi balíček a v něm chybějící komponenty (karty, kabely, konektory, anténa). Vzal jsem svého Duroně - eh Durona, a nastrkal do něj bezdrátové a drátové karty (zatím obojí po dvou kouscích). Zajímave je, že v Duronovi jsem objevil SCSI řadič a disk, přestože si nevzpomínám, že jsem ho tam dával (nicméně to PCdlo sloužilo jako web a DB server v <a href="http://www.pragonet.cz/sluzby/viacollocation_car_cz.php">hostingovém centru PragoNETu</a> a už je to hodně dlouho, co jsem ho viděl před předvčerejším vyzvednutím). Směrovač teď vypadá takhle:</p>
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040827-router1.JPG" alt="Celkový pohled" width="320" height="240" /></div><div class="rightbox"><img src="/wp-content/uploads/cache/20040827-router2.JPG" alt="Pohled na rozhraní" width="320" height="240" /></div><div class="rightbox"><img src="/wp-content/uploads/cache/20040827-router3.JPG" alt="Detail karet" width="320" height="240" /></div><div style='clear:both'></div><p>

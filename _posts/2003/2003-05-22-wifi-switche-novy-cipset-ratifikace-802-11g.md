@@ -1,16 +1,22 @@
 ---
 ID: 304
-title: >
-  WiFi switche, nový čipset, ratifikace
-  802.11g
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-switche-novy-cipset-ratifikace-802-11g
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-switche-novy-cipset-ratifikace-802-11g
+
+  '
 post_date: 2003-05-22 07:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi switche nabízejí zabezpečení, řízení zatížení a roaming pro firemní WiFi.
+- Ratifikace 802.11g specifikace je plánována na 12. června firmou Broadcom.
+- Marvell vyrábí levný a výkonný WiFi čipset 802.11g pro ostatní výrobce.
+title: 'WiFi switche, nový čipset, ratifikace 802.11g
+
+  '
 ---
+
 <p>
 Našel jsem <STRONG>výborný článek o WiFi switche</STRONG>, <EM>(safra, jak se to přechyluje, WiFi switchích? fuj, to asi ne)</EM> - na Network World Fusion. U nás se tato zařízení moc nevidí (resp zatím jsem je u nás vůbec neviděl). WiFi switch nabízí jak zabezpečení, tak například řízení zatížení a roaming, je to takové komplexní řešení pro WiFi ve firmě. Většinou je vybaveno prací na více kanálech a například Vivanco dělá i speciální fázové antény, jimiž signál může posílat do daleka. Článek je výborným a obsáhlým sumářem WiFi switche trhu, tedy přehledem výrobků i vlastností a způsobů použití. <A href="http://www.nwfusion.com/techinsider/2003/0519techinsidermain.html" target=_blank>Článek je zde</A>. </p>
 

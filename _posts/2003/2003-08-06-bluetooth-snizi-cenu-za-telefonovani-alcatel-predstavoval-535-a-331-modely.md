@@ -1,14 +1,20 @@
 ---
 ID: 427
-title: 'Bluetooth sníží cenu za telefonování, Alcatel představoval 535 a&nbsp;331 modely'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bluetooth-snizi-cenu-za-telefonovani-alcatel-predstavoval-535-a-331-modely
-published: true
+oldlink: 'https://www.marigold.cz/item/bluetooth-snizi-cenu-za-telefonovani-alcatel-predstavoval-535-a-331-modely
+
+  '
 post_date: 2003-08-06 09:21:00
+post_excerpt: ''
+published: true
+summary_points:
+- British Telecom plánuje Bluetooth přístupové body pro volání přes telefony s Bluetooth.
+- Alcatel představil nové modely 535 a 331, srovnávané s konkurenčními telefony.
+- Alcatel 535 s barevným displejem a MMS je u T-Mobile dotovaný za 2000 Kč.
+title: Bluetooth sníží cenu za telefonování, Alcatel představoval 535 a&nbsp;331 modely
 ---
+
 <p>
 Našel jsem zprávu, podle níž British Telecom hodlá <STRONG>umožnit telefonům vybaveným bluetooth volání skrze speciální přístupové body vybavené bluetooth</STRONG>. Zprávičku jsem našel na <A href="http://www.itnews.sk/buxus_dev/generate_page.php3?page_id=911374" target=_blank>IT News</A>, zapátral jsem, protože se mi zdálo divné,když jsem v ní četl, že podle BT půjde o stavbu velké bluetooth sítě. Nakonec se ukázalo, že BT hodlá představit technické řešení podobné základnové stanici DECT telefonu, tedy krabičku vybavenou bluetooth a přípojkou do telefonu, díky níž budou moci bluetooth telefony sloužit jako bezdrátové telefony za lokální poplatek. Vše by mělo být kombinovatelné i do firemních ústředen pro lokální volání na ústředně zdarma. Zní to slibně, ale bluetooth hlasový profil má jen málo zařízení a i dosah současných zařízení je kolem 10 metrů, spíše než proklamovaných 100 metrů.</p>
 

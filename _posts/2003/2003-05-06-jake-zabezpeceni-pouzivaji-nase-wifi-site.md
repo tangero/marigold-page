@@ -1,16 +1,23 @@
 ---
 ID: 275
-title: >
-  Jaké zabezpečení používají naše
-  WiFi sítě?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jake-zabezpeceni-pouzivaji-nase-wifi-site
-published: true
+oldlink: 'https://www.marigold.cz/item/jake-zabezpeceni-pouzivaji-nase-wifi-site
+
+  '
 post_date: 2003-05-06 18:01:00
+post_excerpt: ''
+published: true
+summary_points:
+- Filtrace MAC adres je velmi populární způsob zabezpečení WiFi sítí.
+- WEP a MAC zabezpečení je stejně populární jako filtrace MAC adres.
+- Devatenáct procent WiFi sítí zůstává bez jakéhokoliv zabezpečení.
+- Studie tvrdí, že MAC a WEP zabezpečení je v komunitních sítích obtížně prolomitelné.
+title: 'Jaké zabezpečení používají naše WiFi sítě?
+
+  '
 ---
+
 <p>
 Před dvěmi týdny jsem tu nahodil anketní otázku, jaké způsoby zabezpečení používáte ve svých WiFi sítích.&#160;Po cca 50 ti hlasech jsem anketku stopnul a přináším graf s vyhodnocením. </p>
 

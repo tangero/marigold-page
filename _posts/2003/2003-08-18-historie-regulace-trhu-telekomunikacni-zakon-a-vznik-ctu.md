@@ -1,14 +1,22 @@
 ---
 ID: 1077
-title: 'Historie regulace trhu: telekomunikační zákon a&nbsp;vznik ČTÚ'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/historie-regulace-trhu-telekomunikacni-zakon-a-vznik-ctu
-published: true
+oldlink: 'https://www.marigold.cz/item/historie-regulace-trhu-telekomunikacni-zakon-a-vznik-ctu
+
+  '
 post_date: 2003-08-18 11:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ vznikl 1993 oddělením od SPT Telecom, aby objektivně rozhodoval o telekomunikačních
+  službách.
+- Vláda nedostatečně legislativně ošetřila liberalizaci trhu v letech 1994-2001.
+- Telekomunikační zákon z roku 2000 měl nedostatky a zkomplikoval liberalizaci trhu.
+- Stát měl dvojí roli vlastníka a regulátora, což deformovalo telekomunikační prostředí.
+title: 'Historie regulace trhu: telekomunikační zákon a&nbsp;vznik ČTÚ'
 ---
+
 Pro telekomunikační trh je důležitý především kvalitní telekomunikační zákon a dále nezávislý regulátor trhu napravující deformace z minulého období. Tato kapitola Historie českého internetu popisuje vznik ČTÚ a telekomunikačního zákona<!--more-->Z <A href="/historieinternetu/ucednickaleta030811.html">předchozí kapitoly</A> vyplývá hlavní slabina vývoje českého telekomunikačního trhu v devadesátých letech: obecně potřebnému a požadovanému boomu až do roku 1994 (kdy do Telecomu vstupuje TelSource) nestačí technologické zázemí a po roce 1996, kdy kvalitativní kritéria pevné telekomunikační sítě jdou rapidně nahoru, se v plné nahotě projevuje deformovanost trhu způsobená monopolním postavením SPT Telecom. 
 <p>
 Ačkoliv by bylo možno<STRONG> považovat období let 1994 &#8211; 2001 za období přechodné</STRONG>, období nutné k rozvoji a stabilizaci telefonní sítě a tedy vzniklou deformaci trhu označit za daň nutnou k pojištění miliardových investic do telefonní sítě, je nutné kriticky pohlédnout na vládní politiku v těchto letech. Během této doby bylo nutno systematicky pracovat na tvorbě legislativního pozadí ošetřujícího start liberalizovaného trhu tak, aby bylo možno již dopředu pro zájemce o vstup na český telekomunikační trh nabídnout jasné podmínky a transparentní legislativní prostředí vymezující práva a povinnosti nejenom pro nové operátory, ale také pro bývalého monopolního operátora. S odstupem času je nutno prohlásit, že žádná z vládnoucích garnitur ve sféře legislativní nepodnikla dostatečné kroky. 

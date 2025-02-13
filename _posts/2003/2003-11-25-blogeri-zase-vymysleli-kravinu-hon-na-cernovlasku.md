@@ -1,14 +1,24 @@
 ---
 ID: 693
-title: 'Blogeři zase vymysleli kravinu: hon na Černovlásku'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/blogeri-zase-vymysleli-kravinu-hon-na-cernovlasku
-published: true
+oldlink: 'https://www.marigold.cz/item/blogeri-zase-vymysleli-kravinu-hon-na-cernovlasku
+
+  '
 post_date: 2003-11-25 12:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- Blogeři pořádají "hon" na Černovlásku kvůli mazání kritiky a publikování neověřených
+  textů.
+- DarkMaster nazval "hon" na Černovlásku "První internetový FlashMob", což autor kritizuje.
+- Černovláska má právo mazat příspěvky na svém serveru, ale publikování neověřených
+  textů je problematické.
+- Filip Rožánek a Kostěj se postavili proti "honu" na Černovlásku, ostatní blogeři
+  ho podporují.
+title: 'Blogeři zase vymysleli kravinu: hon na Černovlásku'
 ---
+
 <p>
 Někdy přemýšlím, co české blogery pořád bere na tom někoho štvát a pronásledovat a proč to ještě vydávají za recesi typu flashmob. FlashMob na Smíchově nedávno skončil držkovou, budiž, bylo to poprvé a ne všechno se vydaří. Pak někdo ukradl design Piximu, budiž, to neni správné a je to třeba říci &#8211; a hned se organizovala Google bomba. Chvilku jsem přemýšlel, jak za to může Google, když si vysloužil do baráku bombu, než se ukázalo, že to je takový fórek: postup, který způsobí po vyhledání na Google jména toho postiženého, že to jako první našlo článek o tom, že krade design. Budiž, třikráte budiž, krást se nemá. </p>
 

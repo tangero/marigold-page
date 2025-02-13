@@ -1,14 +1,21 @@
 ---
 ID: 657
-title: 'T-Mobile Bonus &#8211; chtělo by to oživit'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/t-mobile-bonus-chtelo-by-to-ozivit
-published: true
+oldlink: 'https://www.marigold.cz/item/t-mobile-bonus-chtelo-by-to-ozivit
+
+  '
 post_date: 2003-11-11 08:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bonus body T-Mobile mají nízkou hodnotu, 1000 bodů je zhruba 300 Kč.
+- Nabídka telefonů v Bonus katalogu T-Mobile je mizerná, chybí atraktivní modely.
+- Příslušenství v Bonus programu T-Mobile tvoří hlavně pouzdra a baterie.
+- Autor nakonec koupil hands-free pro Nokii, kterou nikdo v rodině nepoužívá.
+title: T-Mobile Bonus &#8211; chtělo by to oživit
 ---
+
 <p>
 Zároveň s likvidací mého tarifu u T-Mobile jsem se rozhodl vyzkoušet službu Bonus, tedy za své našetřené Bonusové body si u T-Mobile něco hezkého pořídit. Především mne překvapilo, že těch bodů mám nějak málo, za sedm let jsem měl pět tisíc bodů. Ukázalo se, že se na něco vybrali ještě v Mobil Media, aniž bych o tom věděl že těch pět tisíc bodů mám za jeden rok. No nic, auto stejně není v katalogu :)</p>
 

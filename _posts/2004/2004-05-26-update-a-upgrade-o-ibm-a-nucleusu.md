@@ -1,14 +1,21 @@
 ---
 ID: 1054
-title: 'Update a&nbsp;upgrade (o&nbsp;IBM a&nbsp;Nucleusu)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/update-a-upgrade-o-ibm-a-nucleusu
-published: true
+oldlink: 'https://www.marigold.cz/item/update-a-upgrade-o-ibm-a-nucleusu
+
+  '
 post_date: 2004-05-26 11:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor si pořídil nový notebook IBM R50 s lepším displejem a WiFi.
+- Starý redakční systém Genesis nahrazuje novým Nucleus kvůli robustnosti a administraci.
+- Nucleus vyžaduje složitější konfiguraci designu oproti Genesis šablonám.
+- Autor plánuje migraci dat do Nucleusu a učí se PHP pro úpravu databází.
+title: Update a&nbsp;upgrade (o&nbsp;IBM a&nbsp;Nucleusu)
 ---
+
 <p>
 Zastávám fordovskou zásadu, že nezáleží na značce notebooku, pokud je to IBM. Včera se mi podařilo úspěšně zajistit nový IBM R50, jímž nahrazuji dosluhující R31 - a chrochtám si blahem. Půl giga paměti, displej o rozlišení 1400 bodů, takže už se na něj opravdu vejde všechno, co bych potřeboval vidět. A toho místa na disku, paráda. K tomu displeji - což je moje klíčové místo každého notebooku - oproti R31 je citelně kontrastnější a samozřejmě lepší. Chrochty chrochty. Kromě toho je v notebooku Centrinu a tedy i WiFi 802.11b, což se hodí, protože jsem nedávno v kufříku zlomil svoji PCMCIA WiFi kartu. A také bluetooth, ještě ho rozchodím a budu megaspokojen. Takže dneska mimo běžné práce kopíruju data ze starého na nový notebook, instaluju programy a vůbec si nový notebook uživám. Dovedete si představit pět hodin práce na baterky? Já snad dneska půjdu pracovat do Františkánské zahrady na místní WiFi od WideNetu :)</p>
 

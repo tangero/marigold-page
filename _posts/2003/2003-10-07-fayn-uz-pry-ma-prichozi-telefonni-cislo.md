@@ -1,16 +1,23 @@
 ---
 ID: 563
-title: >
-  Fayn už prý má příchozí telefonní
-  číslo
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/fayn-uz-pry-ma-prichozi-telefonni-cislo
-published: true
+oldlink: 'https://www.marigold.cz/item/fayn-uz-pry-ma-prichozi-telefonni-cislo
+
+  '
 post_date: 2003-10-07 17:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- NetPhone 210 od Faynu stojí 4800 Kč bez DPH.
+- Fayn údajně nabízí příchozí telefonní čísla.
+- Fayn zatím neuvádí cenu NetPhone ani příchozí čísla.
+- Příchozí čísla dávají internetové telefonii smysl.
+title: 'Fayn už prý má příchozí telefonní číslo
+
+  '
 ---
+
 <p>
 MaLér reportuje z výstaviště novinky, které já jsem v pondělí z Faynů nevyrazil. Takže <STRONG>NetPhone 210 stojí 4800 Kč bez DPH</STRONG>, to mi přijde dost slušná cena. </p>
 

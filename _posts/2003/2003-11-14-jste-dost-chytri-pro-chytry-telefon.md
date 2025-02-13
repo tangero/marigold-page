@@ -1,14 +1,23 @@
 ---
 ID: 668
-title: Jste dost chytří pro chytrý telefon?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jste-dost-chytri-pro-chytry-telefon
-published: true
+oldlink: 'https://www.marigold.cz/item/jste-dost-chytri-pro-chytry-telefon
+
+  '
 post_date: 2003-11-14 07:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- Smartphony jsou kupovány pro modernost a funkce, ale složité ovládání uživatele
+  zklame.
+- Operátoři dlouho nechápali nutnost přednastaveného WAP a jednoduchého přístupu k
+  MMS.
+- Nokia boduje díky stálému ovládání, podpoře OTA a vzdělávání uživatelů i operátorů.
+- Telefony potřebují dedikovaná tlačítka pro fotoaparáty, aby se daly snadno používat.
+title: Jste dost chytří pro chytrý telefon?
 ---
+
 <p>
 Na serveru Vnunet jsem našel článek s příznačným názvem <A href="http://www.vnunet.com/News/1148597" target=_blank>Users not smart enough for smartphones </A>a podtitulkem Survey finds smartphone take-up is held back by device complexity and lack of mobile operator support. Chytré telefony si lidé kupují proto, že někde četli, že je to teď moderní, protože mají spoustu skvělých funkcí. Jenže ty funkce nebývají často příliš intiutivní, složitě se ovládají, nastavují. Uživatelé jsou zklamáni a drahý smartphone používají jako normální mobil a příště už si normální mobil také koupí. </p>
 

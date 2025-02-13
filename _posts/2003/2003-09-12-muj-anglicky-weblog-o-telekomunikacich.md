@@ -1,14 +1,21 @@
 ---
 ID: 499
-title: 'Můj anglický weblog o&nbsp;telekomunikacích'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/muj-anglicky-weblog-o-telekomunikacich
-published: true
+oldlink: 'https://www.marigold.cz/item/muj-anglicky-weblog-o-telekomunikacich
+
+  '
 post_date: 2003-09-12 08:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- AdSense neumožnil autorovi umístit reklamy na anglický blog Telekonom.
+- Telekonom vznikl kvůli AdSense, zaměřuje se na telekomunikace a WiFi.
+- WiFiNetNews zmínil Telekonom, což zvýšilo jeho návštěvnost a ohlas.
+- Autor pokračuje v psaní Telekonomu navzdory jazykovým nedostatkům.
+title: Můj anglický weblog o&nbsp;telekomunikacích
 ---
+
 <p>
 Původně jsem chtěl vyzkoušet, jak funguje Google AdSense - reklamní systém pro weblogy. Jenže v Google mi řekli, že je pouze pro anglicky psané weblogy. A tak jsem si na Bloggeru jeden anglicky psaný weblog založil a dal jsem do něj pár zpráv z telekomunikací. Protože byly subdomény na téma WiFi hodně obsazené, nakonec jsem ho nazval <A href="http://telekonom.blogspot.com/">Telekonom</A>. Z Google mi následně odepsali, že můj weblog prověrkou pro AdSense zase neprošel, zejména proto, že už tam mají umístěný reklamní blok nahoře a tedy nepotřebují se se mnou dělit o jeho používání (to jsem si domyslel, Google důvody neschválení nesděluje). Tím jsem myslel, že moje weblogování v angličtině skončilo, protože jsem se na ně jazykové příliš necítil. </p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 643
-title: >
-  Oskar rostl, TIW roste, akcie rostou,
-  děkuji všem :)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oskar-rostl-tiw-roste-akcie-rostou-dekuji-vsem
-published: true
+oldlink: 'https://www.marigold.cz/item/oskar-rostl-tiw-roste-akcie-rostou-dekuji-vsem
+
+  '
 post_date: 2003-11-05 17:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- TIW akcie po reportu kvartálních výsledků vzrostly z 6,4 USD na 7,6 USD.
+- Autor gratuluje těm, kteří na jeho radu akcie TIW nakoupili včas.
+- Oskar získal ve třetím čtvrtletí 100 650 nových zákazníků.
+- TIW konsolidované výnosy za tři čtvrtletí dosáhly 654 milionů USD.
+title: 'Oskar rostl, TIW roste, akcie rostou, děkuji všem :)
+
+  '
 ---
+
 <p>
 Na dnešní zahájení obchodování na NYSE jsem se moc těšil, protože TIW včera reportoval svoje kvartální výsledky a jak jsem tu troubil již dříve, očekávalo se, že budou velmi slušné a následkem téhož že akcie půjdou rovněž slušně nahoru. I je to tak, za první dvě hodiny obchodování na burze šly akcie TIW nahoru o více jak dolar - minimum měly na 6,4 USD, pak si investoři konečně přečetli tu výsledovku a akcie šly na 7,6 USD v maximu, teď se pohybují kolem toho. Já jsem měl uložený balíček akcií koupených ještě výrazně levněji o pár dní předem a tak mi výsledky TIW (a hlavně akcií) zlepšily den, ve kterém na moje nervy útočila návštěva českého finančáku a obchodního rejstříku. No a všem, kteří si ode mne nechali poradit a včas nakoupili, nyní gratuluji k pěknému zisku... což mi připomíná, že jsem se zavázal pro Peníze.cz napsat článeček pro začátečníky, jak se obchoduje s akciemi na americkém trhu.</p>
 

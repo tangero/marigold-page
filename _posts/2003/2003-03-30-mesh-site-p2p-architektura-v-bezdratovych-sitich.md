@@ -1,14 +1,21 @@
 ---
 ID: 1071
-title: 'Mesh sítě &#8211; P2P architektura v&nbsp;bezdrátových sítích'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mesh-site-p2p-architektura-v-bezdratovych-sitich
-published: true
+oldlink: 'https://www.marigold.cz/item/mesh-site-p2p-architektura-v-bezdratovych-sitich
+
+  '
 post_date: 2003-03-30 20:08:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mesh sítě jsou P2P sítě aplikované do bezdrátového světa, kde si zařízení jsou rovna.
+- Mobilní síť je příklad, kde mesh adaptéry předávají signál mezi sebou.
+- Vojenské využití bylo prvopočátkem mesh sítí, kde tanky distribuovaly data.
+- Zastupitelnost, úspora pásma, nízké náklady a zvýšení dosahu jsou výhody mesh sítí.
+title: Mesh sítě &#8211; P2P architektura v&nbsp;bezdrátových sítích
 ---
+
 O mesh sítích jsme se tu již několikrát zmiňovali a slíbil jsem článek o tom, co je to zač. Takže tu je - mesh sítě jsou vlastně sítě typu peer to peer. A to v bezdrátových sítích není vůbec samozřejmostí.<!--more--><p>
 Mesh sítě jsou u nás zatím málo známý pojem, přitom jde o velmi zajímavý fenomén. Zda tento fenomén dojde praktického uplatnění (a ziskovosti), teprve uvidíme. Přesto stojí za to říci si o něm více.</p>
 

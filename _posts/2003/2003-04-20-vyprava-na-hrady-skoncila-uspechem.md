@@ -1,16 +1,23 @@
 ---
 ID: 242
-title: >
-  Výprava na hrady skončila úspěchem
-  :)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vyprava-na-hrady-skoncila-uspechem
-published: true
+oldlink: 'https://www.marigold.cz/item/vyprava-na-hrady-skoncila-uspechem
+
+  '
 post_date: 2003-04-20 09:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor navštívil hrad Ronov a zhodnotil stav vegetace po svém zásahu.
+- Doporučuje dvoudenní výlet vlakem z Prahy do Blíževedel s návštěvou Ronova a Hřídelíku.
+- Trasa zahrnuje i Úštěk, Helfenburg a cukrárnu U bílé paní s levnou kávou.
+- Doprava stojí okolo 300 Kč, ubytování je zdarma a trasa je vhodná i pro začátečníky.
+title: 'Výprava na hrady skončila úspěchem :)
+
+  '
 ---
+
 <p>
 Moje tradiční putování po hradech skončilo úspěšně, ačkoliv počasí nepřálo. Dita byla fascinována mojí šlechetnou nabídkou, že sebou nevezmu ani mobilní telefon a když se tím v práci pochlubila Maturáčovi, tento pravil, že tuto pohádku nezná, ale jestli je od Andersena, že bude jistě dobrá. Nakonec jsem slib dodržel <EM>(na to abych tahal v takovém dešti s sebou nového Samsunga V200 jsem žaludek neměl a navíc jsem ještě vypadal jako dobrák:)</EM> a tak jediný mobil s sebou měla Dita, abychom mohli situaci dokladovat odesláním MMS zprávy z Ronova. Maturáčovi samozřejmě nedošla protože&#160;jsme ji posílali přes T-Mobile, ale možná do konce pololetí dojde... <EM>(otázka, nevíte proč ty MMS zprávy u T-Mobile tak chcípají? Infolinka samozřejmě tvrdí, že vše je ok.)</EM></p>
 

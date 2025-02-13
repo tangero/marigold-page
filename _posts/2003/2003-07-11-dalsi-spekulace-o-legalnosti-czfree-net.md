@@ -1,14 +1,20 @@
 ---
 ID: 404
-title: 'Další spekulace o&nbsp;legálnosti CZFree.Net'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-spekulace-o-legalnosti-czfree-net
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-spekulace-o-legalnosti-czfree-net
+
+  '
 post_date: 2003-07-11 10:19:00
+post_excerpt: ''
+published: true
+summary_points:
+- CZFree.NET řeší legálnost provozu a nutnost licence dle článku na Lupě.
+- ČTÚ se vyhnul přímé odpovědi ohledně posouzení sítě CZFree.NET.
+- ČTÚ by měl vydat stanovisko, místo vyhýbání se odpovědnosti.
+title: Další spekulace o&nbsp;legálnosti CZFree.Net
 ---
+
 <p>
 Na lupě vyšel <A href="http://www.lupa.cz/clanek.php3?show=2922">další článek</A> o legálnosti současného stavu CZFree.Net (a nutnosti mít licenci pro provoz komunitních sítí). </p>
 

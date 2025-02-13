@@ -1,14 +1,22 @@
 ---
 ID: 188
-title: 'Geekoviny: robot ApriAlpha od Toshiby s&nbsp;WiFi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/geekoviny-robot-aprialpha-od-toshiby-s-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/geekoviny-robot-aprialpha-od-toshiby-s-wifi
+
+  '
 post_date: 2003-03-24 08:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- Geekoviny na Marigoldu představují technické výstřednosti určené technofandům.
+- Toshiba představila robotka ApriAlpha na RoboDexu, který rozpozná stovku tváří.
+- ApriAlpha komunikuje, rozpoznává hlas (japonsky), má infraport, bluetooth, WiFi
+  a kameru.
+- Robot ApriAlpha hlídá dům, posílá fotky, ale zloděj by ho spíš ukradl kvůli ceně.
+title: 'Geekoviny: robot ApriAlpha od Toshiby s&nbsp;WiFi'
 ---
+
 <p>
 Abych trochu odlišil ty technické výsřednosti, které jsem slíbil občas vylepit na Marigolda, rozhodl jsem se nazývat je Geekoviny, neboť jsou beztak zpravidla určeny geekům, technofandům. </p>
 

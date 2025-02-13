@@ -1,14 +1,21 @@
 ---
 ID: 710
-title: Mobilní noviny jako Java aplikace
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-noviny-jako-java-aplikace
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-noviny-jako-java-aplikace
+
+  '
 post_date: 2003-12-02 07:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobilní noviny je Java aplikace iHned pro stahování zpráv a TV programu do telefonu.
+- Telefon uchovává minimálně 6 titulků zpráv v šesti informačních kanálech.
+- TV program lze stáhnout až na týden dopředu, detaily článků dočasně.
+- Aktualizace zpráv probíhá přes WAP, ideální by bylo GPRS.
+title: Mobilní noviny jako Java aplikace
 ---
+
 <p>
 Ještě než se půjdu zahrabat, napíšu sem o aplikaci Mobilní noviny, se kterou přichází iHned (uf, automaticky jsem napsal iDNES). Je to Java aplikace instalovatelná přes WAP, která vám umožní stahovat si a ukládat si zprávy a TV program přímo do telefonu. </p>
 

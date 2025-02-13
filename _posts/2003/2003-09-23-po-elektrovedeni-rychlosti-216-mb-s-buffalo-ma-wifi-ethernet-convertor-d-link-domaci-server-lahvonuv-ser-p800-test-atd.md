@@ -1,18 +1,24 @@
 ---
 ID: 524
-title: >
-  Po elektrovedení rychlostí 216 Mb/s,
-  Buffalo má WiFi ethernet convertor,
-  D-Link domácí server, Lahvoňův Ser
-  P800 test atd.
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/po-elektrovedeni-rychlosti-216-mb-s-buffalo-ma-wifi-ethernet-convertor-d-link-domaci-server-lahvonuv-ser-p800-test-atd
-published: true
+oldlink: 'https://www.marigold.cz/item/po-elektrovedeni-rychlosti-216-mb-s-buffalo-ma-wifi-ethernet-convertor-d-link-domaci-server-lahvonuv-ser-p800-test-atd
+
+  '
 post_date: 2003-09-23 08:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- Corridor Systems PowerCorridor dosahuje rychlosti 216 Mb/s pro koncové zákazníky.
+- Buffalo uvádí ethernetový bezdrátový konvertor WLI-TX1-G54 AirStation za 129 USD.
+- D-Link představil domácí datovou centrálu DSM-602H s 20GB diskem za 250 USD.
+- Lahvoň recenzoval chytrý mobil Sony Ericsson P800 na jiri.hlavac.cz.
+title: 'Po elektrovedení rychlostí 216 Mb/s, Buffalo má WiFi ethernet convertor, D-Link
+  domácí server, Lahvoňův Ser P800 test atd.
+
+  '
 ---
+
 Společnost <A href="http://www.corridor.biz/">Corridor Systems</A> oznámila, že její řešení <B>přenosu dat po elektrickém vedení PowerCorridor</B> je schopno přenášet data až rychlostí 216 Mb/s pro koncového zákazníka. To je čtyřnásobek jakékoliv jiné technologie pro přenos dat pro elektrickém vedení středního napětí. Pro odběratele bude systém PowerCorridor dostupný od 2. čtvrtletí 2004. 
 <p>
 <B>Buffalo se přidalo k všeobecné oblibě ethernetových bezdrýtových konvertorů</B>, tedy zařízení, které propojují ethernet s WiFi sítí. Tato zařízení se často používají k připojování počítačů vybavených ethernetovými konektory a jejich výhodou oproti jiným (třeba USB) rozhraním je absence nutnosti instalovat ovladače. Buffalo samozřejmě uvádí konvertor podle 802.11g - WLI-TX1-G54 AirStation 54Mbps Wireless Ethernet Converter G. Cena 129 USD, běžné funkce, správa přes webové rozhraní, WPA upgrade prý přijde. Zdroj <A href="http://www.buffalotech.com/wireless/products/airstation/wlitx1g54.php">Buffalo</A>. 

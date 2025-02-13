@@ -1,14 +1,21 @@
 ---
 ID: 324
-title: 'Takový pojeb z&nbsp;Eurotelu jsem už dlouho neschytal&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/takovy-pojeb-z-eurotelu-jsem-uz-dlouho-neschytal
-published: true
+oldlink: 'https://www.marigold.cz/item/takovy-pojeb-z-eurotelu-jsem-uz-dlouho-neschytal
+
+  '
 post_date: 2003-05-28 22:54:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel manažer zuřivě volal kvůli zprávě na Mobilmanii o rušení GPRS paušálu.
+- Autor zprávu o GPRS paušálu získal z neveřejné konference a e-mailu.
+- Autor neví, zda Eurotel zruší GPRS paušál, má pouze mnoho předpokladů.
+- Autor se chystá zveřejnit informace o GPRS paušálech u jiných operátorů.
+title: Takový pojeb z&nbsp;Eurotelu jsem už dlouho neschytal&#8230;
 ---
+
 <p>
 Jdu si tak v klidu po ulici, v taštičce mám hromadu DVDček pro Cinetik a zcela bezelstně přijmu příchozí hovor do headsetu. Řev jednoho z manažerů Eurotelu mi vyrazil headset z ucha, což způsobilo, že jsem se chvíli neorientoval, za co jest na mne řváno. Měl jsem v podstatě oficiálně prohlásit, že Eurotel ruší GPRS paušál. Nakonec, těsně před tím, než reproduktor telefonu umřel, jsme si vyjasnili sled událostí. Zprávu z Marigolda o GPRS dal někdo <A href="http://www.mobilmania.cz/Bleskovky/F.asp?ARI=104764&amp;HID=1&amp;CAI=2097" target=_blank>na Mobilmanii </A>a přepsal ji tak, jako by Eurotel paušál rušil. Člověk z Eurotelu to zmerčil, zprávu z Marigolda moc nečetl, ale dost na to, aby pochopil, že původ informace je ode mne. A tak neleni, vytočil moje numero a chtěl mi prorazit bubínek. Co na tom, že jsem jasně psal, že je to můj odhad... </p>
 

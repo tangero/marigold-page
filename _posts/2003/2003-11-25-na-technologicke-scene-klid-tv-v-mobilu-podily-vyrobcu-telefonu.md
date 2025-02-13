@@ -1,14 +1,21 @@
 ---
 ID: 690
-title: 'Na technologické scéně klid: TV v&nbsp;mobilu, podíly výrobců telefonů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/na-technologicke-scene-klid-tv-v-mobilu-podily-vyrobcu-telefonu
-published: true
+oldlink: 'https://www.marigold.cz/item/na-technologicke-scene-klid-tv-v-mobilu-podily-vyrobcu-telefonu
+
+  '
 post_date: 2003-11-25 09:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobile TV článek na The Feature zkoumá výsledky v Koreji, Japonsku a plány Nokie.
+- Nokia vede trh mobilů s 33,8% podílem, mírně klesla.
+- Motorola je druhá s 15% podílem, zaznamenala nárůst prodeje.
+- Samsung, Siemens a LG rostou, Sony Ericsson klesá, Motorola výhercem.
+title: 'Na technologické scéně klid: TV v&nbsp;mobilu, podíly výrobců telefonů'
 ---
+
 <p>
 Už několik dní si zoufám nad tím, že se nic zajímavého neděje (tedy alespoň ve WiFi či telco), najít něco co stojí za zmínku, naž za větší zamyšlení, je prakticky nemožné. Na serveru <A href="http://www.thefeature.com/article?articleid=100217" target=_blank>The Feature</A> najdete článek <STRONG>Mobile TV - More Than Just Hype?</STRONG> - stojí za přečtení, je to zamyšlení nad výsledky TV v Koreji, Japonsku a co na to plány firmy Nokia a také co standardy. </p>
 

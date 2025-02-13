@@ -1,14 +1,22 @@
 ---
 ID: 154
-title: 'Beng USB WiFi adaptér, Britové s&nbsp;WiFi v&nbsp;hospodách, Pooh vyhlašuje anketu Český Lahváč'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/beng-usb-wifi-adapter-britove-s-wifi-v-hospodach-pooh-vyhlasuje-anketu-cesky-lahvac
-published: true
+oldlink: 'https://www.marigold.cz/item/beng-usb-wifi-adapter-britove-s-wifi-v-hospodach-pooh-vyhlasuje-anketu-cesky-lahvac
+
+  '
 post_date: 2003-03-09 20:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Benq USB adaptér pro WiFi se líbí recenzentovi, ale nemá WiFi certifikaci.
+- Britské puby budou vybaveny WiFi, což autor očekává i v pražských hospodách.
+- Pooh.cz vyhlásil anketu Český Lahváč 2002 jako alternativu k Zavináči.
+- Autor doporučuje hlasovat v anketě Český Lahváč 2002 a je zvědav na výsledky.
+title: Beng USB WiFi adaptér, Britové s&nbsp;WiFi v&nbsp;hospodách, Pooh vyhlašuje
+  anketu Český Lahváč
 ---
+
 <p>
 Začnu dvěmi odkazy na Technet - respektive v prvním případě na jeho část Notebooky.cz - <A href="http://www.notebooky.cz/prislusenstvi/bezdratove_site/benqawl400preview030307.html" target=_blank>Bohumil Hyánek recenzuje</A> <STRONG>Benq techniku pro WiFi a pozastavuje se nad USB adaptérem vybaveným WiFi</STRONG> (jak připomíná jeden diskutující, nemá to WiFi certifikaci WECA, takže vlastně není WiFi :) - i mně se ten adaptér líbí, není to takové neforemné WiFi na USB, jako jsem si jednou ve slabší chvíli koupil od SMC. Vypadá to jako větší dongle s bluetooth. </p>
 

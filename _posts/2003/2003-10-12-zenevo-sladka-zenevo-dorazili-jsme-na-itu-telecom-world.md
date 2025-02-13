@@ -1,14 +1,21 @@
 ---
 ID: 573
-title: 'Ženevo, sladká Ženevo &#8211; dorazili jsme na ITU Telecom World&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zenevo-sladka-zenevo-dorazili-jsme-na-itu-telecom-world
-published: true
+oldlink: 'https://www.marigold.cz/item/zenevo-sladka-zenevo-dorazili-jsme-na-itu-telecom-world
+
+  '
 post_date: 2003-10-12 10:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- Cesta do Ženevy proběhla přes noc, řidiči vypadají unaveně kvůli mlze.
+- Policie ve Švýcarsku kontrolovala auta na dálnici, auto reportérů jen odmávli.
+- Reportéři zapomněli, kde zaparkovali auto v Ženevě, hledali ho hodinu.
+- Ubytování vyřešili v hostelu pro baťůžkáře za třicet franků na osobu.
+title: Ženevo, sladká Ženevo &#8211; dorazili jsme na ITU Telecom World&#8230;
 ---
+
 <p>
 Tak jsme dorazili do Ženevy na ITU Telecom World. Na poslední chvíli to vzdal Karel Holub, prý má moc práce se svojí novou firmou. A tak jsme jeli s Honzou sami. Máme za sebou jízdu přes noc, tisíc kilometrů, z toho polovina v pravé alpské a bavorské mlze, podle toho vypadáme. V Makru jsem si před odjezem koupil karton (=24 ks) Semtexu, polovinu už mám v sobě a vypadá to, že minimálně ještě dvě hodiny tu nebudu usínat. </p>
 

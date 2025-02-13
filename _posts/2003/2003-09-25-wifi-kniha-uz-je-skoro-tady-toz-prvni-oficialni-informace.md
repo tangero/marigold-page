@@ -1,14 +1,21 @@
 ---
 ID: 531
-title: 'WiFi kniha už je skoro tady, tož první oficiální informace&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-kniha-uz-je-skoro-tady-toz-prvni-oficialni-informace
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-kniha-uz-je-skoro-tady-toz-prvni-oficialni-informace
+
+  '
 post_date: 2003-09-25 13:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- Kniha Bezdrátové sítě WiFi vyjde u Cpressu a bude stát 249 Kč.
+- Autor knihu prodává i přes Marigold, protože psaní je náročnější než prodej.
+- Objednávkový formulář pro knihu přes Marigold je nyní funkční.
+- Knihu budou expedovat lidé z Cinetiku.
+title: WiFi kniha už je skoro tady, tož první oficiální informace&#8230;
 ---
+
 <p>
 Kniha vznikala dlouho, alespoň na můj vkus, ale jak to tak vypadá, její vydání už je za dveřmi. Jmenuje se nakonec docela nekonfliktně Bezdrátové sítě WiFi: Praktický průvodce. <STRONG>Vydavatelem je Cpress a kniha bude stát 249 Kč</STRONG>, k dostání by měla být už během Invexu, jisto jistě na stáncích Cpressu na výstavišti a i ve WiFiLife pavilonu. </p>
 

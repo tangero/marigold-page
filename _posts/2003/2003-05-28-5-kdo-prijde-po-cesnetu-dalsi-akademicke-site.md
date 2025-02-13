@@ -1,14 +1,22 @@
 ---
 ID: 1073
-title: '5. Kdo přijde po&nbsp;CESNETu? Další akademické sítě&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/5-kdo-prijde-po-cesnetu-dalsi-akademicke-site
-published: true
+oldlink: 'https://www.marigold.cz/item/5-kdo-prijde-po-cesnetu-dalsi-akademicke-site
+
+  '
 post_date: 2003-05-28 10:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- TEN-34 CZ byl schválen 1996, řešitelem se stal CESNET, využívající ATM technologii.
+- QUANTUM navázal na TEN-34, cílem byla celoevropská síť TEN-155 s rychlostí 155 Mb/s.
+- CESNET2 zahájil testovací provoz 2000 s linkou 2,5 Gbps Praha-Brno, technologie
+  Packet over SONET.
+- Projekt GÉANT navázal na Quantum, cílem síť s jádrem 10 Gb/s, CESNET se podílí.
+title: 5. Kdo přijde po&nbsp;CESNETu? Další akademické sítě&#8230;
 ---
+
 Projektem Cesnet vývoj akademického internetu v ČR natož ve světě neskončil. Jsou tu další projekty a rychlý internet pro akademiky výzkumníky je celosvětovou prioritou.<!--more--><P style="MARGIN: 0cm 0cm 0pt"><SPAN>Evropa počátkem devadesátých let započla přikládat internetu stále větší váhu nejenom ve sféře komerční, ale i v prostředí universitním, akademickém. Poté, co USA začaly v roce 1992 s budováním vyhrazené vysokorychlostní páteřní sítě určené pro university a výzkumné ústavy, přišla s dvouletým zpožděním s podobnou myšlenkou i Evropa. Už v roce 1994 se Česká republika zapojuje do projektu TEN-34 (Trans-European Network Interconnect at 34 Mbps), tedy do projektu, jehož cílem je vybudování panevropské páteřní sítě propojující univerzity a výzkumná střediska. Rychlost páteřní sítě měla dosahovat 34 Mbps a rpojekt vznikal pod koordinací neziskové společnosti DANTE (Delivering of Advenced Network To Europe). </SPAN></p>
 
 <P style="MARGIN: 0cm 0cm 0pt"><SPAN><FONT face=Arial>&#160;</FONT></SPAN></p>

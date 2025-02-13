@@ -1,14 +1,21 @@
 ---
 ID: 1070
-title: '4. Dobudování sítě CesNet a&nbsp;její spuštění, odmítnutí EuroTelu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/4-dobudovani-site-cesnet-a-jeji-spusteni-odmitnuti-eurotelu
-published: true
+oldlink: 'https://www.marigold.cz/item/4-dobudovani-site-cesnet-a-jeji-spusteni-odmitnuti-eurotelu
+
+  '
 post_date: 2003-03-24 11:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- EuroTelu pronájem VDS se nevyplatil, vlastní síť byla levnější pro akademické uživatele.
+- FESNET se přejmenoval na CESNET po rozdělení Československa a vzniku SANET.
+- CESNET měl hvězdicovou topologii se dvěma centry v Praze a Brně.
+- CESNET slavnostně zahájil provoz 15. června 1993 s uzly v 11 městech.
+title: 4. Dobudování sítě CesNet a&nbsp;její spuštění, odmítnutí EuroTelu
 ---
+
 Jak probíhalo budování sítě CesNet, proč byl odmítnut EuroTel se svojí veřejnou datovou sítí? Rozdělení federace a dopad na akademickou síť, vznik metropolitních sítí.Shrnutí minulosti CesNetu až do jeho spuštění v roce 1993.<!--more--><H4>Pronájem VDS EuroTelu se nevyplatí</H4>
 <p>
 Když se zabýváme detaily volby technického řešení páteřní sítě, bude vhodné zmínit i variantu pronájmu veřejné datové sítě. Provozovatelé veřejné datové sítě v té době byly v Evropě zpravidla v té době ještě monopolní národní operátoři a podmínky pronájmu veřejné datové sítě (VDS) byly vhodné jen pro menší objemy dat. Například ale v Německu byla akademická síť realizována jako privátní podsíť v rámci veřejné datové sítě Datex-P. Deutsche Telekom tehdy považoval toto svoje rozhodnutí za podporu akademické obce a o několik let později se mu tato prozíravá politika mnohonásobně vyplatila na poplatcích z časně nastartovaného německého datového a internetového boomu. 

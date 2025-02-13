@@ -1,14 +1,21 @@
 ---
 ID: 567
-title: 'NGMP &#8211; Next Generation Mail Protocol'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ngmp-next-generation-mail-protocol
-published: true
+oldlink: 'https://www.marigold.cz/item/ngmp-next-generation-mail-protocol
+
+  '
 post_date: 2003-10-08 07:19:00
+post_excerpt: ''
+published: true
+summary_points:
+- NGMP kombinuje prvky SMTP a Jabberu, implementuje design Internet Mail 2000.
+- Internet Mail 2000 obsahuje odvážné myšlenky, například ukládání pošty u ISP odesílatele.
+- NGMP využívá stávající služby (Apache, MTA, Jabberd) pomocí skriptů.
+- Instalace NGMP je složitá, což snižuje šanci na široké přijetí.
+title: NGMP &#8211; Next Generation Mail Protocol
 ---
+
 <p>
 Od Petra Krištofa jsem dostal následující komentář k NGMP a protože si myslím, že by to mohlo zajímat více lidí, tak to, co mi poslal,&#160;končí na Marigoldovi:</p>
 

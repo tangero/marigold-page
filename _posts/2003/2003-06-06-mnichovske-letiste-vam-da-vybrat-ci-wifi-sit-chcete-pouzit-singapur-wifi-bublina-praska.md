@@ -1,14 +1,22 @@
 ---
 ID: 345
-title: 'Mnichovské letiště vám dá vybrat, čí WiFi síť chcete použít. Singapur: WiFi bublina praská?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mnichovske-letiste-vam-da-vybrat-ci-wifi-sit-chcete-pouzit-singapur-wifi-bublina-praska
-published: true
+oldlink: 'https://www.marigold.cz/item/mnichovske-letiste-vam-da-vybrat-ci-wifi-sit-chcete-pouzit-singapur-wifi-bublina-praska
+
+  '
 post_date: 2003-06-06 07:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mnichovské letiště používá Cisco technologii pro výběr ISP uživatelem.
+- MobileOne v Singapuru omezuje investice do WiFi a zaměřuje se na 3G.
+- WiFi obchodní model v Singapuru zklamal kvůli nízké poptávce po datech.
+- Autor článku odchází na poradu Cinetiku.
+title: 'Mnichovské letiště vám dá vybrat, čí WiFi síť chcete použít. Singapur: WiFi
+  bublina praská?'
 ---
+
 <p>
 Mnichovské letiště (po Frankfurtu největší německé) implementovalo <STRONG>zajímavou Cisco technologii</STRONG>, díky níž si můžete vybrat, kterého ISP chcete používat. Ne snad, že by udělali více hotspotů, jak by nás asi napadlo, ale noý hardware Cisco (jeho specifikaci jsem ještě nenašel, ještě se to oficiálně neprodává) se tváří jako ISP neutrální, umožňuje provoz více SSID najednou, takže na něm může být provozováno více ISP - vše je pak předáváno inteligentně jejich zúčtovacím systémům. Je to hezké řešení. <A href="http://www.wirelessdevnet.com/news/2003/156/news6.html" target=_blank>Tisková zpráva zde</A>.</p>
 

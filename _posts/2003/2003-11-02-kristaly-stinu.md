@@ -1,14 +1,21 @@
 ---
 ID: 1079
-title: Křišťály stínů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kristaly-stinu
-published: true
+oldlink: 'https://www.marigold.cz/item/kristaly-stinu
+
+  '
 post_date: 2003-11-02 10:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Křišťály stínů je nedokončený epos z roku 1990 odehrávající se ve světě bohů.
+- Hráč, trpaslík, se stává bohem her a sázek po dohodě s Argaronem.
+- Kouzelník Tamin varuje Hráče před nebezpečím a daruje mu knihu kouzel Magikon.
+- Hráč navštíví mistra Sorgona, který souhlasí s účastí na Argaronově slavnosti.
+title: Křišťály stínů
 ---
+
 Tak tohle byl začátek rozsáhlého eposu, který jsem psal v roce 1990. A nikdy nedopsal - schovávám si ten nápad na dobu, kdy se naučím pořádně psát. Křišťály stínů jsou vlastně verzí qwestů, Putování. Jenže tentokráte ve světě bohů, kterým se prohnala válka...<!--more--><BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
 <P style="MARGIN: 0cm 0cm 0pt"><SPAN><SPAN></SPAN>Tahle povídka byla vlastně úvodem rozsáhlého díla <STRONG>Křišťály stínů</STRONG>. Vznikla v roce 1990 a tak omluvte mé schopnosti psaní v češtině v té době. Na dopsání se chystám na dobu, až se pořádně naučím psát a někoho to bude zajímat... :) </SPAN><SPAN>Povídka obsahuje uvedení do obsazení následujícího putování světem Bohů. </SPAN></p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 249
-title: >
-  Eurotel WiFiJet hotelům mnoho peněz
-  nenese
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-wifijet-hotelum-mnoho-penez-nenese
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-wifijet-hotelum-mnoho-penez-nenese
+
+  '
 post_date: 2003-04-23 08:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi hotely nevydělává, pražský pětihvězdičkový hotel inkasuje jen pár tisíc korun.
+- Eurotel nedodal hotely dostatek propagačních materiálů o WiFi službě.
+- Zákazníci si stěžují na složité a drahé účtování WiFi od Eurotelu.
+- Počet uživatelů hotelové WiFi se pohybuje okolo deseti za měsíc.
+title: 'Eurotel WiFiJet hotelům mnoho peněz nenese
+
+  '
 ---
+
 <p>
 Minulý týden jsem se náhodou dozvěděl drb, že WiFi připojení hotelům mnoho peněz nenese. A když jsem se potkal včera s jedním kamarádem, managerem velkého pražského hotelu, tak jsem se zepta. Čísla opravdu nejsou valná - velký hotel zaměřený na business klientelu (samozřejmě pětihvězdičkový) inkasuje "několik málo tisícikorun". </p>
 

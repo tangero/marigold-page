@@ -1,16 +1,23 @@
 ---
 ID: 929
-title: >
-  Běžné T-Mobile SIM karty mi nejdou ve
-  3G
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezne-t-mobile-sim-karty-mi-nejdou-ve-3g
-published: true
+oldlink: 'https://www.marigold.cz/item/bezne-t-mobile-sim-karty-mi-nejdou-ve-3g
+
+  '
 post_date: 2004-03-18 18:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- Siemens U15 telefon v Hannoveru neumožnil konfiguraci MMS zpráv.
+- T-Mobile SIM karty často nejsou USIM kompatibilní pro 3G sítě.
+- G sítě Eplus, O2, Vodafone a T-Mobile byly dostupné na výstavišti.
+- Telefonování v 3G roamingu s T-Mobile nefungovalo, Go karta se nepřihlásila.
+title: 'Běžné T-Mobile SIM karty mi nejdou ve 3G
+
+  '
 ---
+
 <p>
 Do Hannoveru jsem si zapůjčil 3G telefon - Siemens U15. Kromě toho, že na něm neumím nakonfigurovat MMS zprávy (to je ta předělaná Motorola 835) - má to příšerně podrobné nastavování, které bez manálu, co jsem nechal doma, asi jen tak nerozlousknu - jsem na něm hlavně chtěl vyzkoušet německé 3G sítě. </p>
 

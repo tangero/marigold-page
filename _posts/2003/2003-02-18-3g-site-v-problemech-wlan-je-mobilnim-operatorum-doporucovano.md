@@ -1,14 +1,22 @@
 ---
 ID: 101
-title: '3G sítě v&nbsp;problémech, WLAN je mobilním operátorům doporučováno'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3g-site-v-problemech-wlan-je-mobilnim-operatorum-doporucovano
-published: true
+oldlink: 'https://www.marigold.cz/item/3g-site-v-problemech-wlan-je-mobilnim-operatorum-doporucovano
+
+  '
 post_date: 2003-02-18 19:35:00
+post_excerpt: ''
+published: true
+summary_points:
+- Presscentrum vyhodilo flákače s notebookem připojeného k internetu.
+- Autor píše deset článků, jeden o WiFi řešeních HP.
+- Mobil.cz publikoval autorův článek o 3G sítích z Cannes 2003.
+- SFR účtuje 20 Euro za den WiFi připojení, pokrytí je mizerné.
+- Přednášky se věnovaly WLAN a kooperaci s GSM/3G.
+title: 3G sítě v&nbsp;problémech, WLAN je mobilním operátorům doporučováno
 ---
+
 <p>
 Tak jsem konečně vyhodil v presscentru od internetu jednoho hocha, co se tu evidentně flákal a připojil se vlastním notebookem. Chtěl jsem vám jen narychlo sdělit, že mám rozepsáno asi deset článků, doufám že alespoň jeden stihnu na zítra. Právě jsem byl povečeřet jednohubky u HPčka, mají zajímavá WiFi řešení (kromě jiných věcí, co dělají) a o tom budu psát příště. </p>
 

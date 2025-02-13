@@ -1,14 +1,23 @@
 ---
 ID: 1086
-title: 'Platby za obsah: Věhlas versus bohatství'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/platby-za-obsah-vehlas-versus-bohatstvi-1086
-published: true
+oldlink: 'https://www.marigold.cz/item/platby-za-obsah-vehlas-versus-bohatstvi-1086
+
+  '
 post_date: 2004-01-20 07:27:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mikroplatby selhávají kvůli mentálním transakčním nákladům spojeným s rozhodováním
+  o koupi.
+- Internetový obsah zdarma existuje, protože autoři upřednostňují věhlas před bohatstvím.
+- Čtenáři preferují bezplatný obsah, protože placený obsah nenabízí dostatečnou přidanou
+  hodnotu.
+- Weblogy poskytují dostatečné informace zdarma, čímž snižují potřebu placeného obsahu.
+title: 'Platby za obsah: Věhlas versus bohatství'
 ---
+
 Mikroplatby za obsah se nechytily. Jenže proč? A proč je tolik obsahu na internetu zdarma?<!--more--><p>
 V poslední době se prodírám množstvím článků věnovaných mikroplatbám a platbám za obsah na internetu. A jako vždy mi kápnul do noty Clay Shirky a Nick Szabo, jejichž teze mi přišly hodně zajímavé. </p>
 

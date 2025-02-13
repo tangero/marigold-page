@@ -1,14 +1,23 @@
 ---
 ID: 173
-title: 'Centrino v&nbsp;Čechách a&nbsp;blouznící Intel, Vivato WiFi switch, Mobil s&nbsp;WiFi od Motoroly a&nbsp;také od TI.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/centrino-v-cechach-a-blouznici-intel-vivato-wifi-switch-mobil-s-wifi-od-motoroly-a-take-od-ti
-published: true
+oldlink: 'https://www.marigold.cz/item/centrino-v-cechach-a-blouznici-intel-vivato-wifi-switch-mobil-s-wifi-od-motoroly-a-take-od-ti
+
+  '
 post_date: 2003-03-18 07:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- Centrino od Intelu je dle Notebooky.cz marketingově přeceňované řešení s integrovanou
+  WLAN.
+- Vivato představilo WiFi switch s dosahem 4 km a rychlostí 33 Mbps za 13499 USD.
+- Nextel a Motorola chystají mobil kombinující WiFi a iDEN síť, později i GSM/GPRS.
+- TI představilo WANDA, koncept trimodového telefonu s GSM/GPRS, Bluetooth a WiFi.
+title: Centrino v&nbsp;Čechách a&nbsp;blouznící Intel, Vivato WiFi switch, Mobil s&nbsp;WiFi
+  od Motoroly a&nbsp;také od TI.
 ---
+
 <p>
 Na serveru Notebooky.cz, části to Technetu, <A href="http://www.notebooky.cz/novinky/centrinotzcr030318.html" target=_blank>vyšel Bohoušův článek věnovaný příchodu Centrina od Intelu</A>. Už název je pro zběhlého wifistu provokativní: <B>Centrino v Čechách! Po rádiu a mikrovlnné troubě třetí revoluce.</B> Jak by ne - Intel na vcelku neinovativní řešení hodně vsází a ačkoliv je jedinou zásluhou Centrina integrace WLAN do majoritně používaného mobilního řešení, Intel "vkládá do Centrino platformy naděje srovnatelné s vynálezem a následným úspěchem takových zařízení jako je rádio či mikrovlnná trouba."<STRONG> Marketingové kecy a žvásty</STRONG> - není to nic, co byste nákupem PCMCIA karty do stávajícího notebooku nezvládli taky. </p>
 

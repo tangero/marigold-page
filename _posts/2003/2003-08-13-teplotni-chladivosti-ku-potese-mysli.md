@@ -1,14 +1,22 @@
 ---
 ID: 442
-title: Teplotní chladivosti ku potěše mysli
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/teplotni-chladivosti-ku-potese-mysli
-published: true
+oldlink: 'https://www.marigold.cz/item/teplotni-chladivosti-ku-potese-mysli
+
+  '
 post_date: 2003-08-13 13:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vedro v kanceláři znemožňuje autorovi soustředit se na práci pro Marigold.
+- Šachmatky, aplikace Ministerstva financí pro sestavování rozpočtu, zaujala autora.
+- Žertva, populární weblog, pokračuje díky čtenářům a pátrání po jeho identitě je
+  zajímavé.
+- Vosa na jazyku se vrací s krátkým obrázkovým stripem po delší pauze.
+title: Teplotní chladivosti ku potěše mysli
 ---
+
 <p>
 Je vedro. Nevím kolik, protože mi prasknul v kanceláři teploměr a já nemám chuť psát nic důležitého na Marigolda. Ostatně, v tom vedru, přijde mi, se nic důležitého neděje. Nakonec mne z latergie vytvořené ještě updatem systému Cinetiku a kontrolou DVD expedic, vytrhl email Honzy Sedláka (i4). Ten mne upozornil na stránky <A href="http://www.mfcr.cz/sachmatky.php" target=_blank>Ministerstva financí</A>. Nechápal jsem o co jde - poukazoval na <STRONG>aplikaci zvanou Šachmatky</STRONG>. K čemu Šachmatky slouží? K sestavování státního rozpočtu. Prý to jako zběratel kuriozit ocením. Ocenil - nomen omen, ten kdo to jméno vymyslel, si zaslouží už za tohle svůj třináctý plat. </p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 1441
-title: >
-  Změnil jsem internetový vyhledavač
-  (aktualizováno)
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zmenil-jsem-internetovy-vyhledavac-aktualizovano
-published: true
+oldlink: 'https://www.marigold.cz/item/zmenil-jsem-internetovy-vyhledavac-aktualizovano
+
+  '
 post_date: 2004-12-14 01:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- Google suggest automaticky navrhuje hledané výrazy a zobrazuje počet výsledků.
+- Požadavek na Google suggest odesílá XML dotaz po každém napsaném písmenu.
+- Froogle Wish list umožňuje vytvářet seznamy zboží z různých obchodů.
+- České firmy nevyužívají Froogle, ačkoliv je zdarma a usnadňuje expanzi.
+title: 'Změnil jsem internetový vyhledavač (aktualizováno)
+
+  '
 ---
+
 <p>
 <em>aktualizováno: už vám slibuji, že nebudu psát články po jedné hodině ranní, samozřejmě že Google suggest ukazuje počet výsledků. Všem se moc omlouvám za mystifikaci a díky za slušné komentáře, já sám bych se asi někam poslal.</em></p>
 <p>

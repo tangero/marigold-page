@@ -1,14 +1,21 @@
 ---
 ID: 622
-title: 'Rychlá data Eurotelu: buďto EDGE nebo CDMA-450?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/rychla-data-eurotelu-budto-edge-nebo-cdma-450
-published: true
+oldlink: 'https://www.marigold.cz/item/rychla-data-eurotelu-budto-edge-nebo-cdma-450
+
+  '
 post_date: 2003-10-30 08:03:00
+post_excerpt: ''
+published: true
+summary_points:
+- CDMA-450 implementace namísto NMT se autorovi zdá stále smysluplnější.
+- Článek o CDMA-450 byl publikován na Mobil.cz s pozitivními ohlasy.
+- Článek na Mobil.cz pojednává o rychlých datech Eurotelu, EDGE nebo CDMA-450.
+- Druhý článek o CDMA-450 byl publikován kvůli vysoké čtenosti prvního.
+title: 'Rychlá data Eurotelu: buďto EDGE nebo CDMA-450?'
 ---
+
 <p>
 Tento týden jsem věnoval shánění zajímavých informací věnovaných eurotelecí myšlence na implementaci CDMA-450 namísto NMT. Jak se mi to původně zdála zvrhlá myšlenka, přijde mi to stále zajímavější a smysluplnější, ačkoliv je zřejmé, že je to projekt v nejlepším případě s výhledem na konec příštího roku, spíše ale až na rok 2005. </p>
 

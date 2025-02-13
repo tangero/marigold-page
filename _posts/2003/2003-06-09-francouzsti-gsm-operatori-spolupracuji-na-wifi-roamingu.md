@@ -1,16 +1,24 @@
 ---
 ID: 349
-title: >
-  Francouzští GSM operátoři
-  spolupracují na WiFi roamingu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/francouzsti-gsm-operatori-spolupracuji-na-wifi-roamingu
-published: true
+oldlink: 'https://www.marigold.cz/item/francouzsti-gsm-operatori-spolupracuji-na-wifi-roamingu
+
+  '
 post_date: 2003-06-09 08:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Francouzští operátoři Orange, SFR a Bouygues Telecom umožní roaming mezi svými WiFi
+  hotspoty.
+- Zákazníci budou moci používat hotspoty konkurence a platit skrze svého operátora.
+- Francouzští operátoři chtějí vytvořit standard pro roaming WiFi a GSM sítí.
+- SFR podepsala roamingovou dohodu s evropským hotspot operátorem Swisscom Eurospot.
+title: 'Francouzští GSM operátoři spolupracují na WiFi roamingu
+
+  '
 ---
+
 <p>
 Ve Francii to několika otevřeným hlavám došlo - francouzští mobilní operátoři pracují na tom, aby jejich zákazníci mohli využívat hotspoty i jejich konkurentů. Jak <STRONG>Orange, tak SFR i Bouygues Telecom staví svoje WiFi hotspoty</STRONG> a nyní došli k závěru, že zákazníkům i jejich příjmům by více prospělo, kdyby <STRONG>bylo možné mezi hotspoty roamovat</STRONG>. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 234
-title: 'Skupina lidí shledala stav CzFree Netu kritickým a&nbsp;zakládá FreeCz NET'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/skupina-lidi-shledala-stav-czfree-netu-kritickym-a-zaklada-freecz-net
-published: true
+oldlink: 'https://www.marigold.cz/item/skupina-lidi-shledala-stav-czfree-netu-kritickym-a-zaklada-freecz-net
+
+  '
 post_date: 2003-04-15 09:14:00
+post_excerpt: ''
+published: true
+summary_points:
+- Clockovo odstranění z CzFree Netu vyvolalo nesouhlas aktivních členů.
+- Moderátoři CzFree reagovali smazáním diskusních příspěvků k tématu.
+- Gogoo a další založili nové fórum FreeCZ NET kvůli svobodě projevu.
+- FreeCZ NET fórum je dostupné na www.freecz.net a dočasně www.travelpages.cz.
+title: Skupina lidí shledala stav CzFree Netu kritickým a&nbsp;zakládá FreeCz NET
 ---
+
 <p>
 Včerejší téma odstranění Clocka z CzFree Netu vyvolala určitou nevoli i mezi některými aktivnějšími členy CzFree. Oficiální místa - tedy lidé pověření moderováním diskusních fór CzFree&#160;- <STRONG>reagovala smazáním patřičných diskusních příspěvků</STRONG>, takže odkazy ze včerejšího článku jsou zhusta nefunkční. Na to reagoval Gogoo spolu s dalšími založením FreeCZ NET fóra. Přetiskuji zprávu, kterou mi k tomu poslal:</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 340
-title: 'Mobilní telefon značky Tesco&#8230; to je úpadek&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-telefon-znacky-tesco-to-je-upadek
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-telefon-znacky-tesco-to-je-upadek
+
+  '
 post_date: 2003-06-04 12:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- Tesco uvede na britský trh mobilní telefony a služby pod vlastní značkou.
+- Tesco Mobile je společný podnik s mmO2, využívající jejich síť a technologie.
+- Investice do Tesco Mobile dosáhne 13 milionů USD od každého partnera.
+- Trend brandování vychází z marketingových poznatků, ale vhodnost pro Tesco je diskutabilní.
+title: Mobilní telefon značky Tesco&#8230; to je úpadek&#8230;
 ---
+
 <p>
 Řetězec supermarketů Tesco se rozhodl nabídnout vlastní značku mobilních telefonů a mobilních služeb. <STRONG>Mobilní telefony Tesco spolu s předplacenými Tesco kartami</STRONG> by se na britský trh měly dostat před letošními vánocemi a Tesco zakládá spolu s britským operátorem mmO2 společnou firmu Tesco Mobile. Ta bude používat síť a technologie mmO2. </p>
 

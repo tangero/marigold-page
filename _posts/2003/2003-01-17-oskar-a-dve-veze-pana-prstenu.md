@@ -1,14 +1,22 @@
 ---
 ID: 45
-title: 'Oskar a&nbsp;Dvě věže Pána prstenů'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oskar-a-dve-veze-pana-prstenu
-published: true
+oldlink: 'https://www.marigold.cz/item/oskar-a-dve-veze-pana-prstenu
+
+  '
 post_date: 2003-01-17 08:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold zhlédl film Pán prstenů - Dvě věže na firemním promítání Oskara.
+- Oskar uspořádal tematickou akci v Joshua baru s elfkou Jarošiel a soutěžemi.
+- Marigold v soutěži porazil nazgúla a následně se slavnostně rozkrajovaly melouny.
+- Oskar využívá reklamní slogany T-Mobile, například "Zdražili ti esemesky? Nevaž
+  se, odvaž se...".
+title: Oskar a&nbsp;Dvě věže Pána prstenů
 ---
+
 <p>
 Marigold včera vyrazil do kina na film Pán prstěnů - Dvě věže. A aby spojil příjemné s užitečným, využil nabídky Oskara jít se podívat na "jeho firemní promítání". O den dříve, když něco podobného nabízel Eurotel, Marigold nemohl. Nu, Oskarovy akce jsou vždy fajnově uspořádané, dav lidí nafasoval kolu a popkorn v kelímcích Oskar a pak už tříhodinový fantastický zážitek z velkofilmu všech velkofilmů a mýtu všech mýtů. Doporučoval bych to ke shlédnutí, kdyby všem nebylo jasné, že to se prostě musí vidět...</p>
 

@@ -1,14 +1,23 @@
 ---
 ID: 740
-title: 'WiFidrobky: recenze D-Link DWL-700AP, ASUS WL-500, čínské WiFi a&nbsp;PocketPC mobil Eten P300'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifidrobky-recenze-d-link-dwl-700ap-asus-wl-500-cinske-wifi-a-pocketpc-mobil-eten-p300
-published: true
+oldlink: 'https://www.marigold.cz/item/wifidrobky-recenze-d-link-dwl-700ap-asus-wl-500-cinske-wifi-a-pocketpc-mobil-eten-p300
+
+  '
 post_date: 2003-12-15 08:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- D-Link DWL700AP recenzován na InWiFi, recenze dostupná v PDF formátu.
+- Asus WL-500 recenzován na i4shopu, má USB port a stojí 3650 Kč s DPH.
+- Článek na Mobil.cz o čínském bezpečnostním standardu pro WiFi.
+- Eten P300 recenzován na PPCW.Net, nejlevnější chytrý mobil s PocketPC.
+- Saddám Husajn dopaden, detaily a fotky na iDNES.
+title: 'WiFidrobky: recenze D-Link DWL-700AP, ASUS WL-500, čínské WiFi a&nbsp;PocketPC
+  mobil Eten P300'
 ---
+
 <p>
 Dneska je nachumeleno, já mám za chvíli po ránu nějaké řízení, takže začnu drobky z internetu (a pak se uvidí).</p>
 

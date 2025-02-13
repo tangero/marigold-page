@@ -1,16 +1,22 @@
 ---
 ID: 350
-title: >
-  Wireless Distribution System (WDS) aneb
-  Bezdrátový systém propojení
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wireless-distribution-system-wds-aneb-bezdratovy-system-propojeni
-published: true
+oldlink: 'https://www.marigold.cz/item/wireless-distribution-system-wds-aneb-bezdratovy-system-propojeni
+
+  '
 post_date: 2003-06-09 08:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- WDS umožňuje bezdrátové propojení přístupových bodů WiFi.
+- Intersil vytvořil WDS pro čipové sady Prism.
+- WDS využívá část pásma pro komunikaci mezi přístupovými body.
+title: 'Wireless Distribution System (WDS) aneb Bezdrátový systém propojení
+
+  '
 ---
+
 <p>
 Slíbil jsem, že napíšu pár řádků o technologii WDS umožňující bezdrátové propojení přístupových bodů mezi sebou. Pár řádků se maličko rozrostlo, tož jsem z toho udělal samostatný článek.</p>
 

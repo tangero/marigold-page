@@ -1,14 +1,21 @@
 ---
 ID: 940
-title: WLAN calculator od Ferimexu zdarma
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wlan-calculator-od-ferimexu-zdarma
-published: true
+oldlink: 'https://www.marigold.cz/item/wlan-calculator-od-ferimexu-zdarma
+
+  '
 post_date: 2004-03-23 17:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- WLAN Calculator od Ferimexu zdarma počítá SOM pro ověření funkčnosti WiFi trasy.
+- SOM hodnota nad 20 dB indikuje provozuschopnou WiFi trasu dle kalkulátoru.
+- Utilita dále převádí jednotky a kalkuluje vyzářený výkon bezdrátových spojů.
+- Program je volně ke stažení pro Windows z webu Ferimexu.
+title: WLAN calculator od Ferimexu zdarma
 ---
+
 <p>
 Slovenská firma Ferimex dala na svůj web volně ke stažení utilitku nazvanou <STRONG>WLAN Calculator</STRONG>. Je to program, který podle zadaných parametrů spočítá především SOM (System Operating Margin) - tedy&#160;zisk na trase bezdrátového spoje, jímž ověřujete, zda přenosová trasa bude funkční. Vyplníte parametry použité WiFi techniky <EM>(lze použít předvolené parametry některých wifi výrobků)</EM> a musíte dbát na to, aby hodnota SOM přesáhla 20 dB - pak je trasa provozuschopná. </p>
 

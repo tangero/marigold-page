@@ -1,16 +1,24 @@
 ---
 ID: 510
-title: >
-  ČTÚ se nakrklo na neustálý tlak
-  Contactelu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctu-se-nakrklo-na-neustaly-tlak-contactelu
-published: true
+oldlink: 'https://www.marigold.cz/item/ctu-se-nakrklo-na-neustaly-tlak-contactelu
+
+  '
 post_date: 2003-09-17 07:56:00
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ se ohradil proti tlaku Contactelu ohledně rozhodnutí o propojení sítí ADSL.
+- Contactel očekával pozitivní rozhodnutí ČTÚ do 19. září ve prospěch ADSL.
+- ČTÚ zdůrazňuje, že postupuje podle zákona a prodloužil lhůtu pro dokazování.
+- Autor vyzývá ČTÚ k nezávislému rozhodnutí s podrobným zdůvodněním, aby se předešlo
+  emotivním výpadům.
+title: 'ČTÚ se nakrklo na neustálý tlak Contactelu
+
+  '
 ---
+
 Včera mi přišla tisková zpráva ČTÚ s podtitulkem "k problematice sporů o propojení sítí pro služby využívající technologii ADSL". Přečetl jsem si ji a nedá se shrnout jinak, než že ČTÚ se mírně nakrklo na neustálý tlak Contactelu a jeho opakování, že ČTÚ musí do 19. září vydat rozhodnutí. Contactel ostatně nikdy nenechal veřejnost na pochybách, jaké to rozhodnutí musí být, aby bylo správné. 
 <p>
 Contactel ve své tiskové zprávě přímo uváděl: <I>"Právě 19. září Contactel očekává pozitivní rozhodnutí Českého telekomunikačního úřadu nařizující propojení v oblasti služeb ADSL. Tento krok přinese dlouho očekávané zlepšení poměru ceny a kvality ADSL. &#8222;Věříme, že rozhodnutí regulátora přinese dlouho očekávaný pokrok v rozvoji širokopásmového přístupu k internetu,&#8220; říká Michal Čupa, generální ředitel Contactelu."</I> Zdroj: <A href="http://www.contactel.cz/script/7_presstext.asp?rid=470">tz Contactel 2.9.2003</A>. 

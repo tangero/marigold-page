@@ -1,16 +1,23 @@
 ---
 ID: 594
-title: >
-  O tom, kterak se něco na České
-  poště zadrhlo
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/o-tom-kterak-se-neco-na-ceske-poste-zadrhlo
-published: true
+oldlink: 'https://www.marigold.cz/item/o-tom-kterak-se-neco-na-ceske-poste-zadrhlo
+
+  '
 post_date: 2003-10-17 08:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- Cinetik posílá DVD poštou, denně expeduje a přijímá stovky zásilek.
+- PO BOX je malý, větší zásilky se ukládají do koše na prádlo.
+- Pošta nemá odbavovací pracoviště pro podnikatele, fronty jsou s důchodci.
+- Zásilky se ztratily, protože je pošta uložila do koše na chodbě.
+title: 'O tom, kterak se něco na České poště zadrhlo
+
+  '
 ---
+
 <p>
 Pokud zrovna nepíšu Marigolda, pracuji ve firmě Cinetik, resp obráceně. A prací Cinetiku je dodávat lidem na DVD filmy, které chtějí a tyto filmy k nim putují poštou jako obyčejná zásilka. Denně expedujeme několik stovek zásilek a další stovky jich se nám zase vracejí do PO Boxu. </p>
 

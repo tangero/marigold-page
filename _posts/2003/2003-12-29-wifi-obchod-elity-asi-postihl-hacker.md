@@ -1,14 +1,21 @@
 ---
 ID: 766
-title: WiFi obchod Elity asi postihl hacker
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-obchod-elity-asi-postihl-hacker
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-obchod-elity-asi-postihl-hacker
+
+  '
 post_date: 2003-12-29 15:36:00
+post_excerpt: ''
+published: true
+summary_points:
+- Elity.cz obchod hlásí ztrátu dat a vyzrazení osobních údajů zákazníků.
+- Obchod Elity.cz má nefunkční nabídku zboží a pravděpodobně i objednávkový systém.
+- Autor nabízí 10% slevu na knihy o UMTS/GPRS na Amazonu.
+- Sleva na knihy je dostupná přes odkaz, ale autor ji nemůže využít.
+title: WiFi obchod Elity asi postihl hacker
 ---
+
 <p>
 Dneska mi z email adresy <A href="http://beta.marigold.cz/mailto:Elity@uvirt3.globe.cz">Elity@uvirt3.globe.cz</A>&#160;přišel email následujícího znění:</p>
 <FONT size=2>

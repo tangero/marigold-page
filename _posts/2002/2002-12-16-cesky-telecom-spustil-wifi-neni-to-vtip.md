@@ -1,16 +1,24 @@
 ---
 ID: 16
-title: >
-  Český Telecom spustil WiFi, není to
-  vtip!
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-telecom-spustil-wifi-neni-to-vtip
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-telecom-spustil-wifi-neni-to-vtip
+
+  '
 post_date: 2002-12-16 12:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom spustil pilotní projekt WiFi hotspotů zdarma na prodejnách Telepoint.
+- Rychlost připojení u WiFi hotspotů je 256 Kbps a registrace probíhá až po připojení.
+- WiFi hotspoty Telepoint jsou dostupné v Praze, Hradci Králové, Ústí nad Labem, Kladně
+  a dalších.
+- Technické informace a konfigurace WiFi hotspotů jsou dostupné na webu telecom.cz/wifi.
+title: 'Český Telecom spustil WiFi, není to vtip!
+
+  '
 ---
+
 <p>
 </p>
 

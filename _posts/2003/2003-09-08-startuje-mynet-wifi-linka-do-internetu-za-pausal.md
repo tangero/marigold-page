@@ -1,14 +1,21 @@
 ---
 ID: 491
-title: 'Startuje MyNet &#8211; WiFi linka do internetu za paušál'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/startuje-mynet-wifi-linka-do-internetu-za-pausal
-published: true
+oldlink: 'https://www.marigold.cz/item/startuje-mynet-wifi-linka-do-internetu-za-pausal
+
+  '
 post_date: 2003-09-08 10:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- MyNet nabízí 64 Kb/s internet za 500 Kč měsíčně nebo 1 Kč/MB.
+- MyNet umožňuje telefonování s paušálem 88 Kč a různými sazbami.
+- Pokrytí sítě MyNet je omezené, primárně Český Krumlov, Praha-Opatov a Barrandov.
+- MyNet iBOX umožňuje zprovoznit komerční hotspot s provizemi za data a volání.
+title: Startuje MyNet &#8211; WiFi linka do internetu za paušál
 ---
+
 <p>
 Právě svojí oficiální tiskovou zprávou odstartoval projekt MyNet společnosti TSGCom nabízející připojení do internetu skrze vlastní WiFi síť a to za velmi rozumných cenových požadavků. <STRONG>Linka o rychlosti 64 Kb/s vyjde bez DPH na necelou pětistovku měsíčně</STRONG>, pokud nechcete platit paušální poplatky, můžete vyzkoušet nabídku předplaceného přístupu v ceně 1 Kč za 1 MB přenesených dat. V ceně služby je email adresa a prostor pro webové stránky. <A href="http://www.mynet.cz/index.php?subject=94" target=_blank>Ceník je zde</A>.</p>
 

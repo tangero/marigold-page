@@ -1,14 +1,22 @@
 ---
 ID: 542
-title: 'Teledrobky: MMS na pevnou linku, SEr odložil prodej 3G telefonů, Motorola bude mít málo fotomobilů, Gallileo a&nbsp;další&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/teledrobky-mms-na-pevnou-linku-ser-odlozil-prodej-3g-telefonu-motorola-bude-mit-malo-fotomobilu-gallileo-a-dalsi
-published: true
+oldlink: 'https://www.marigold.cz/item/teledrobky-mms-na-pevnou-linku-ser-odlozil-prodej-3g-telefonu-motorola-bude-mit-malo-fotomobilu-gallileo-a-dalsi
+
+  '
 post_date: 2003-10-01 08:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- LogicaCMG implementuje řešení pro přenos MMS na pevné linky v Německu.
+- Milan Sameš, dříve Nokia, se stává obchodním šéfem Logica v Česku.
+- Sony Ericsson odložil uvedení 3G terminálů na začátek roku 2004.
+- Indie a Izrael se hodlají připojit k evropskému navigačnímu systému Galileo.
+title: 'Teledrobky: MMS na pevnou linku, SEr odložil prodej 3G telefonů, Motorola
+  bude mít málo fotomobilů, Gallileo a&nbsp;další&#8230;'
 ---
+
 <p>
 LogicaCMG vyvinula <STRONG>řešení přenosu MMS zpráv na pevné linky</STRONG> a implementuje ho v Německu pro firmu Itenos, dceřinku Deutsche Telekomu. MMS zprávy tak bude možno doručovat na pevné linky v případě, že si člověk dokoupí speciální zařízení. Podle Itenosu bude zájem zejména o odběr MMS zpravodajství. Moc tomu nevěřím, aby takový MMS terminál měl smysl, bude muset být relativně dobrý (barevný displej, paměť) a tedy ne moc laciný. A koupí si ho někdo místo novin? Inu, pokus jak oživit pevné linky. Zdroj: <A href="http://www.cellular-news.com/story/9788.shtml" target=_blank>Cellular-News</A>.</p>
 

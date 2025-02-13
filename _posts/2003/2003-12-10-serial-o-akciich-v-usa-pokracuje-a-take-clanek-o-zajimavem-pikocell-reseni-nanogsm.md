@@ -1,14 +1,23 @@
 ---
 ID: 728
-title: 'Seriál o&nbsp;akciích v&nbsp;USA pokračuje a&nbsp;také článek o&nbsp;zajímavém pikocell řešení nanoGSM'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/serial-o-akciich-v-usa-pokracuje-a-take-clanek-o-zajimavem-pikocell-reseni-nanogsm
-published: true
+oldlink: 'https://www.marigold.cz/item/serial-o-akciich-v-usa-pokracuje-a-take-clanek-o-zajimavem-pikocell-reseni-nanogsm
+
+  '
 post_date: 2003-12-10 08:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Penize.cz zveřejnily třetí díl seriálu o obchodování s akciemi na amerických trzích.
+- Mobil.cz publikoval článek o nanoGSM, kompaktní pikocelle pro vnitřní pokrytí.
+- Svět sítí a AKA-Monitor zveřejnily recenze autorovy WiFi knihy.
+- Články srovnávají výnosy akciových fondů s indexovými akciemi a vysvětlují maržinové
+  obchody.
+title: Seriál o&nbsp;akciích v&nbsp;USA pokračuje a&nbsp;také článek o&nbsp;zajímavém
+  pikocell řešení nanoGSM
 ---
+
 <p>
 Dneska se mi na internetu sešly a vyšly hned&#160;dva články. Na Penize.cz vyšel <STRONG>třetí díl seriálu o obchodování s akciemi na amerických trzích</STRONG>. Tentokráte jsem si neodpustil škodolibé srovnání výnosů z akciových fondů a indexových akcií a seriál se věnuje dalším pojmům potřebným pro obchodování, mimo jiné vysvětluje princip maržinových obchodů a krátkého obchodování akcií. <A href="http://www.penize.cz/info/zpravy/zprava.asp?IDP=1&amp;NewsID=2607" target=_blank>Obchodujeme s akciemi na amerických trzích III</A>.</p>
 

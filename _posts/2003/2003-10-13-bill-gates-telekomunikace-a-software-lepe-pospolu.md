@@ -1,14 +1,24 @@
 ---
 ID: 579
-title: 'Bill Gates: Telekomunikace a&nbsp;software &#8211; lépe pospolu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bill-gates-telekomunikace-a-software-lepe-pospolu
-published: true
+oldlink: 'https://www.marigold.cz/item/bill-gates-telekomunikace-a-software-lepe-pospolu
+
+  '
 post_date: 2003-10-13 13:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bill Gates hovořil na ITU Telecom World o spolupráci telekomunikačních a softwarových
+  firem.
+- Digitalizace produkce, distribuce a konzumace mění propojování a ovládání zařízení.
+- Microsoft a Vodafone uzavřeli partnerství pro tvorbu standardů mobilních webových
+  služeb.
+- Microsoft představil IP TV řešení založené na Windows Media 9 pro živé vysílání
+  a VOD.
+title: 'Bill Gates: Telekomunikace a&nbsp;software &#8211; lépe pospolu'
 ---
+
 <p>
 Přednáška Billa Gatese na letošním ITU Telecom World (byl tu i v roce 1999 jako hlavní řečník) byla na téma spolupráce telekomunikačních firem a firem softwarových. Zatímco u telco firem mluvil Gates obecně, u softwarové firmy bylo evidentní, že má na mysli tu svoji. Téma jeho přednášky Telecommunications and Software: Better together bylo vlastně předehrou k oznámení partnerství mezi Microsoftem a Vodafonem, ale nepředbíhejme. </p>
 

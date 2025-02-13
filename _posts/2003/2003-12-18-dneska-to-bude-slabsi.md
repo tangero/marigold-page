@@ -1,14 +1,24 @@
 ---
 ID: 748
-title: 'Dneska to bude slabší&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dneska-to-bude-slabsi
-published: true
+oldlink: 'https://www.marigold.cz/item/dneska-to-bude-slabsi
+
+  '
 post_date: 2003-12-18 07:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- Psaní článků vyžadovalo vypnutí rušivých aplikací pro soustředění na souvislý text.
+- Teleinform, encyklopedie komunikačních technologií od VUT Brno, nabízí rychlou orientaci
+  v telco technologiích.
+- Autor poslal životopisy do telekomunikačních firem a nečekaně dostal pozvání na
+  schůzku.
+- Ministr Mlynář vysvětlil angažmá Dušana Chmelíčka a kritizoval anonymní udání na
+  ministerstvu.
+title: Dneska to bude slabší&#8230;
 ---
+
 <p>
 Včera jsem celý den psal nějaké články a texty, co jsem tak porůznu nasliboval. Robert Neměc měl pravdu, když zde v diskusi psal, že efektivitu práce zvýší vypnutí Outlooku a ICQ, bez toho bych nenapasal soustavný text a to mne včera čekalo zhruba dvacet tisíc znaků. Nejhorší na tom vždy je takový text napsat - celý článek jsem měl v hlavě a bylo potřeba ho přes interface (v tomto případě skrze prsty a klávesnici) digitalizovat. A mým oblíbeným problémem je úvod, nikdy se nemohu dobrat k tomu, jak text začít. Vyřešil jsem to kulantně, první větu jsem doslova opsal z nějakého textu na podobné téma, co jsem kde našel a pak už se mi psalo krásně. Vzpomínám si, že vždy, když jsem četl knihu J. Verna, tak jsem vždy napoprvé přeskočil prvních dvacet stránek, protože se mi zdálo, že úvod Verne nezvládá. Dneska se utěšuji tím, že když i takový mistr s tím má v mých očích problémy, tak se to mně dá odpustit. </p>
 

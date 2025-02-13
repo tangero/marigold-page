@@ -1,14 +1,21 @@
 ---
 ID: 577
-title: 'Bill Gates v&nbsp;Ženevě &#8211; fotky. Ženevské setkání českých blogerů.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bill-gates-v-zeneve-fotky-zenevske-setkani-ceskych-blogeru
-published: true
+oldlink: 'https://www.marigold.cz/item/bill-gates-v-zeneve-fotky-zenevske-setkani-ceskych-blogeru
+
+  '
 post_date: 2003-10-13 12:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiLAN přednáška byla nudná a WiFi nefungovalo, autor proto odešel do press centra.
+- Bill Gates ohlašoval alianci s anonymním šéfem Vodafone Services.
+- Petr Olmer (Chinin) pozval české bloggery v Ženevě na setkání.
+- Oběd bude v Carrefouru, kam autor pojede MHD zdarma.
+title: Bill Gates v&nbsp;Ženevě &#8211; fotky. Ženevské setkání českých blogerů.
 ---
+
 <p>
 Z přednášky o WiLAN jsem utekl, ten chlápek z Tachyonu byl neuvěřitelně nudný a navíc mi moc nefungovalo WiFi, nedalo se na tom moc pracovat a tak jsem prchl do press centra na kabelový ethernet. Jak by to WiFi fungovat mohlo, když Nokia D211 hlásí full load na připojeném APčku - SwissCom s tím má asi problémy. </p>
 

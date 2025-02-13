@@ -1,14 +1,21 @@
 ---
 ID: 92
-title: 'Kterak úžasně ušetřiti na počítačích a&nbsp;operačním systému'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kterak-uzasne-usetriti-na-pocitacich-a-operacnim-systemu
-published: true
+oldlink: 'https://www.marigold.cz/item/kterak-uzasne-usetriti-na-pocitacich-a-operacnim-systemu
+
+  '
 post_date: 2003-02-13 09:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linux nešel nabootovat na starých Compaq počítačích kvůli problémům s řadičem.
+- BeOS 4.5 se podařilo nainstalovat, ale nepodporoval vestavěnou síťovou kartu.
+- Windows 2000 fungoval i se síťovou kartou, nyní se testuje BeOS 5.
+- Autor hledá někoho, kdo by zkusil nainstalovat Linux na Compaq počítače.
+title: Kterak úžasně ušetřiti na počítačích a&nbsp;operačním systému
 ---
+
 <p>
 Potřeboval jsem v práci zprovoznit dvě mašiny pouze pro surfování. I napadlo mne, že bych na ně instaloval Linux a Mozillu. Dále mne v mojí šetrnosti (no, tady je na vinně spíše Bořík) napadlo, že bych mohl koupit nějaké popelnice a Linux ještě ke všemu bootovat ze serveru, když už je to tak síťový a báječný operační systém (alespoň to tvrdí reklama v podobě Fufa a Jacka :)</p>
 

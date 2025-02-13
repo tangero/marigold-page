@@ -1,14 +1,21 @@
 ---
 ID: 666
-title: 'Šetření pokračuje &#8211; přecházím na bionaftu a&nbsp;co z&nbsp;toho pošlo&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/setreni-pokracuje-prechazim-na-bionaftu-a-co-z-toho-poslo
-published: true
+oldlink: 'https://www.marigold.cz/item/setreni-pokracuje-prechazim-na-bionaftu-a-co-z-toho-poslo
+
+  '
 post_date: 2003-11-13 11:05:00
+post_excerpt: ''
+published: true
+summary_points:
+- Úspory se autor zaměřil na provoz vozidla, i když jezdit bez něj by bylo levnější.
+- Bionafta byla zvažována pro úsporu, ale ukázalo se, že je dražší kvůli DPH.
+- Autor tankoval bionaftu u OMV, kde mu obsluha natankovala plnou nádrž.
+- Autor řeší dilema, zda dávat spropitné obsluze na benzínce.
+title: Šetření pokračuje &#8211; přecházím na bionaftu a&nbsp;co z&nbsp;toho pošlo&#8230;
 ---
+
 <p>
 Moje úsporná mánie pokračuje. V dalším kole šetření jsem se zaměřil na provoz vozidla. Sice jsem tu dostal četné doporučení, že bez vozidla se žije levněji, což je nepochybně pravda, ale obávám se, že bych to už nezvládl. Jezdit s krosnou do Tesca na Zličíně na víkendový nákup&#160;jsem zvládal před lety, dneska už by mi dva kartony vody, karton mléka a vytékající jogurt na zádech asi nesvědčil. Odsaď podstaď - taky nehodlám do práce jezdit hodinu metrem, když to po jižní spojce mám 20 minut, natož do Pardubic předraženým a špinavým vlakem, kde bych notabene asi záhy musel platit pokutu za napadení nějakého železničáře. </p>
 

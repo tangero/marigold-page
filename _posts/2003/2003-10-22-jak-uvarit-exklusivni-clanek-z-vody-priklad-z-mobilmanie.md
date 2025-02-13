@@ -1,14 +1,21 @@
 ---
 ID: 603
-title: 'Jak uvařit exklusivní článek z&nbsp;vody (příklad z&nbsp;MobilManie)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-uvarit-exklusivni-clanek-z-vody-priklad-z-mobilmanie
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-uvarit-exklusivni-clanek-z-vody-priklad-z-mobilmanie
+
+  '
 post_date: 2003-10-22 08:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel vybírá dodavatele EDGE technologie, rozhodnutí padne příští týden.
+- Článek MobilManie o EDGE od Eurotelu obsahuje minimum nových informací.
+- Autor kritizuje článek za natahování a budování dojmu exkluzivity.
+- Trendem českého technického zpravodajství je klesající informační hodnota článků.
+title: Jak uvařit exklusivní článek z&nbsp;vody (příklad z&nbsp;MobilManie)
 ---
+
 <p>
 Dneska mne dostal článek na MobilManii, autorem je Martin Zikmund a článek se jmenuje <A href="http://www.mobilmania.cz/Operatori/Ar.asp?ARI=105526&amp;CAI=2114" target=_blank>Konec tajností: Eurotel a rychlý internet přes EDGE</A>. Také pouták článku je nadějný: <EM>"Nyní jsme získali podrobnější informace z toho nejvěrohodnějšího zdroje &#8211; od generálního ředitele Eurotelu, Terrence Edwarda Valeskiho."</EM> Jenže <STRONG>lepší případ vaření z vody aby pohledal</STRONG>. </p>
 

@@ -1,14 +1,24 @@
 ---
 ID: 264
-title: 'Jiří Hlavenka vidí málo peněz ve WiFi. Jenže problém je hlubší &#8211; je jich málo v&nbsp;mobilních datech obecně!'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jiri-hlavenka-vidi-malo-penez-ve-wifi-jenze-problem-je-hlubsi-je-jich-malo-v-mobilnich-datech-obecne
-published: true
+oldlink: 'https://www.marigold.cz/item/jiri-hlavenka-vidi-malo-penez-ve-wifi-jenze-problem-je-hlubsi-je-jich-malo-v-mobilnich-datech-obecne
+
+  '
 post_date: 2003-05-04 09:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- Článek Hlavenky na Živě konstatuje nízké finanční výnosy z WiFi sítí.
+- Mobilní data se dělí na "true mobility" a "nomadic", přičemž true mobility nevyužívá
+  mnoho uživatelů.
+- Zákazníci nejsou ochotni platit za vysokorychlostní mobilní data kvůli omezeným
+  aplikacím.
+- Bublina není jen ve WiFi, ale v celém segmentu mobilních dat.
+title: Jiří Hlavenka vidí málo peněz ve WiFi. Jenže problém je hlubší &#8211; je jich
+  málo v&nbsp;mobilních datech obecně!
 ---
+
 <p>
 Na <STRONG>Živě vyšel článek Jiřího Hlavenky </STRONG><A href="http://www.zive.cz/h/Byznys/Ar.asp?ARI=110596&amp;CAI=2034" target=_blank><STRONG>Málo peněz ve WiFi</STRONG></A>. Jiří v něm prochází finanční výsledky WiFi u řetězce Starbucks a také poslední zprávu Gartnerů na WiFi téma. Shledává jedno - ve WiFi je málo peněz a podezřívá WiFi z toho, že jde o podobnou bublinu jakou byl internet.</p>
 

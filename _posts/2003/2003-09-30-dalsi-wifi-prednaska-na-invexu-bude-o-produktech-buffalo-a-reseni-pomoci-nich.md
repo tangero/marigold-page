@@ -1,14 +1,22 @@
 ---
 ID: 539
-title: 'Další WiFi přednáška na Invexu bude o&nbsp;produktech Buffalo a&nbsp;řešení pomocí nich'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-wifi-prednaska-na-invexu-bude-o-produktech-buffalo-a-reseni-pomoci-nich
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-wifi-prednaska-na-invexu-bude-o-produktech-buffalo-a-reseni-pomoci-nich
+
+  '
 post_date: 2003-09-30 15:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- Přednáška BVV a DCD Publishing představí produkty Buffalo pro bezdrátové sítě.
+- Standard 802.11g a trendy v 2,4 GHz bezdrátových sítích budou popsány.
+- Akce se koná 6.10.2003 v Brně na Invexu, Conference Hall G2, od 10:00.
+- Vstup na přednášku je zdarma a bez registrace, kapacita je 80 míst.
+title: Další WiFi přednáška na Invexu bude o&nbsp;produktech Buffalo a&nbsp;řešení
+  pomocí nich
 ---
+
 <p>
 Tak mi dorazilo avízo o další přednášce na téma bezdrátových sítí. Pořádá ji BVV ve spolupráci s DCD Publishing a jde o<STRONG> technicko-obchodní presentaci produktů bezdrátových sítí</STRONG> Buffalo. Ty u nás distribuuje AT Computers. </p>
 

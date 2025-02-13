@@ -1,14 +1,21 @@
 ---
 ID: 331
-title: 'Naopak si myslím, že ze mnou jednou bude dobrý úředník&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/naopak-si-myslim-ze-ze-mnou-jednou-bude-dobry-urednik
-published: true
+oldlink: 'https://www.marigold.cz/item/naopak-si-myslim-ze-ze-mnou-jednou-bude-dobry-urednik
+
+  '
 post_date: 2003-06-01 15:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- DigiWeb zveřejnil rozhovor s autorem textu, který vedla Markéta Kaclová pro ČRO.
+- Autor popírá fámy o jeho práci ve státní správě, i když ji nevylučuje.
+- Autor kritizuje byrokracii a zbytečné obíhání úřadů pro získávání dokumentů.
+- Autor navrhuje, aby úředníci získávali potřebné informace přímo ze státních databází.
+title: Naopak si myslím, že ze mnou jednou bude dobrý úředník&#8230;
 ---
+
 <p>
 Na <A href="http://digiweb.cz/index.php?p=i00000_d&amp;a[id]=12864730&amp;a[area_id]=10074060" target=_blank>DigiWebu vyšel </A>rozhovor se mnou, pořízený pro ČRO Markétou Kaclovou. Co říkali posluchači rozhlasoví, to samozřejmě netuším, kromě toho, že se nám do Cinetiku hrnou noví a noví zákazníci. </p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 1082
-title: 'Mobilní technologie, které námi otřesou v&nbsp;roce 2004'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobilni-technologie-ktere-nami-otresou-v-roce-2004-1082
-published: true
+oldlink: 'https://www.marigold.cz/item/mobilni-technologie-ktere-nami-otresou-v-roce-2004-1082
+
+  '
 post_date: 2003-12-16 16:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mobilní instant messaging zlevní a zpohodlní komunikaci oproti SMS díky chytrým
+  telefonům.
+- WiFi sítě nahradí ADSL, lidé sdílejí internetové připojení a přeprodávají sousedům.
+- VoIP zlevní volání díky přidělení čísel a klesajícím cenám VoIP telefonů.
+- ČTÚ uvolní 5GHz pásmo pro WiFi, což zlepší kvalitu bezdrátového připojení.
+title: Mobilní technologie, které námi otřesou v&nbsp;roce 2004
 ---
+
 Jaké mobilní technologie a zázraky nás budou atakovat v roce 2004 a mají vyhlídky zaujmout naši pozornost?<!--more--><p>
 Když jsem tento týden psal o mobilních aplikacích, které podle Telephony Magazine budou otřásat USA, vyzýval jsem k zamýšlení, jaké technologie to budou u nás. Moc tipů jsem nedostal a tak seznam vychází z toho, jaké technologie a aplikace považuji za zajímavé já a nečiním si rozhodně nároky na to, že všechny z těchto technologií se prosadí, některé z nich k nám naopak už rychle přicházejí. Berte to spíš jako takové tipy, než jako dogma.</p>
 

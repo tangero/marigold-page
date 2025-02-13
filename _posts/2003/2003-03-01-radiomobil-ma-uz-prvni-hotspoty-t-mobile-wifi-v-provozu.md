@@ -1,14 +1,21 @@
 ---
 ID: 131
-title: 'RadioMobil má už první hotspoty T-Mobile WiFi v&nbsp;provozu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/radiomobil-ma-uz-prvni-hotspoty-t-mobile-wifi-v-provozu
-published: true
+oldlink: 'https://www.marigold.cz/item/radiomobil-ma-uz-prvni-hotspoty-t-mobile-wifi-v-provozu
+
+  '
 post_date: 2003-03-01 09:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- RadioMobil testuje komerční WiFi síť, hotspoty nalezeny v BB centru a Londýnské.
+- Hotspoty nevysílají ESSID, detekce vyžaduje specializovaný WiFi analyzer.
+- T-Mobile rozjíždí WiFi sítě globálně, včetně USA a Německa.
+- RadioMobil aktuálně nepodporuje roaming v WiFi sítích mateřské společnosti.
+title: RadioMobil má už první hotspoty T-Mobile WiFi v&nbsp;provozu
 ---
+
 <p>
 Přišlo se na to docela náhodou při testování analyzeru WiFi sítí, když s ním marigoldi jezdili po Praze a měli zapnuté scanování a připojenou GPSku. Ale přišlo se na to a je to tak. RadioMobil <STRONG>spustil na pankráckém BB centru</STRONG> několik <EM>(zjistili jsme zatím šest)</EM> WiFi hotspotů a testují svoji komerční WiFi síť. Další jsme <STRONG>následně našli v Londýnské</STRONG>, k dalším budovám nebyl čas se zatím dostat. </p>
 

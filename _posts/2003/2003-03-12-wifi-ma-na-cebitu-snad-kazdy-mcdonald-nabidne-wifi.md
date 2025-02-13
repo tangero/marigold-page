@@ -1,16 +1,23 @@
 ---
 ID: 162
-title: >
-  WiFi má na CeBITu snad každý,
-  McDonald nabídne WiFi
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-ma-na-cebitu-snad-kazdy-mcdonald-nabidne-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-ma-na-cebitu-snad-kazdy-mcdonald-nabidne-wifi
+
+  '
 post_date: 2003-03-12 18:27:00
+post_excerpt: ''
+published: true
+summary_points:
+- Telekomunikační haly CeBITu dominují WiFi a ADSL technologie v různých kombinacích.
+- McDonald nabídne WiFi připojení ve svých restauracích, začíná s Manhattanem.
+- WiFi zdarma v McDonald's bude hodinu při objednávce nad určitou částku.
+- Rozšíření WiFi v ČR brání malý počet řetězců, jako je McDonald's.
+title: 'WiFi má na CeBITu snad každý, McDonald nabídne WiFi
+
+  '
 ---
+
 <p>
 Tak jsem tu dnes prochodil většinu telekomunikačních hal a WiFi spolu s ADSL tu vládne - obojí nacházíme v nejrůznějších kombinacích. To nejzajímavější jsem už zaznamenal z haly 27, to ostatní tolik nezaujalo nebo naopak zaujalo natolik, že to zpracuji později do nějakého většího článku. </p>
 

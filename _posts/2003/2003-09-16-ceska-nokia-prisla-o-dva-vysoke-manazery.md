@@ -1,14 +1,21 @@
 ---
 ID: 508
-title: 'Česká Nokia přišla o&nbsp;dva vysoké manažery'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ceska-nokia-prisla-o-dva-vysoke-manazery
-published: true
+oldlink: 'https://www.marigold.cz/item/ceska-nokia-prisla-o-dva-vysoke-manazery
+
+  '
 post_date: 2003-09-16 08:54:00
+post_excerpt: ''
+published: true
+summary_points:
+- Milan Sameš opouští Nokia Networks, míří do vedení IT firmy.
+- Karel Holub odchází z Nokia Mobile Phone, zakládá vlastní firmu.
+- Sameš byl uznávaný odborník, jeho náhrada bude obtížná.
+- Holub prosazoval aktivity Nokie v ČR, zklamal novináře.
+title: Česká Nokia přišla o&nbsp;dva vysoké manažery
 ---
+
 <p>
 Česká pobočka společnosti Nokia přichází v těchto okamžicích o dva významné manažery. <STRONG>Nokia Networks opouští Milan Sameš</STRONG> zodpovědný za prodej síťových produktů ve střední a východní Evropě, vůbec nejvýše postavený český manažer v Nokia Networks. Téměř ve stejnou chvíli se <STRONG>s mobilní divizí Nokia Mobile Phone loučí Karel Holub</STRONG> zodpovědný za prodej mobilních telefonů významným zákazníkům a za podporu speciálních služeb a produktů jako je N-Gage nebo middlety. Důvodem odchodu v obou případech je touha po změně; zatímco Milan Sameš míří do vedení významné IT firmy, Karel Holub prý bude zakládat vlastní společnost zaměřenou na poskytování služeb a obsahu pro mobilní telefony. </p>
 

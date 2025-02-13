@@ -1,14 +1,21 @@
 ---
 ID: 134
-title: 'ADSL sice drahé, ale ono se to pohne&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/adsl-sice-drahe-ale-ono-se-to-pohne
-published: true
+oldlink: 'https://www.marigold.cz/item/adsl-sice-drahe-ale-ono-se-to-pohne
+
+  '
 post_date: 2003-03-03 07:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nejlevnější ADSL přípojka 192/64 kbps stojí 1600 Kč včetně modemu.
+- Telecom nabízí agregaci 1:50 pro nejlevnější ADSL, což je nevýhodné.
+- Telecom pravděpodobně do roka zlevní nejlevnější ADSL linku na tisíc korun.
+- ADSL je zatím spíše vhodné pro sdílení v sousedských sítích než pro jednotlivce.
+title: ADSL sice drahé, ale ono se to pohne&#8230;
 ---
+
 <p>
 Nechal jsem si trochu odstup, abych ceny ADSL v České republice nekomentoval ihned po jejich zveřejnění. Zařekl jsem se, že na Marigoldovi nebudu mluvit sprostě, i když si to situace zaslouží, takže k cenám jen shodně s ostatními komentátory řeknu, že mi to přijde trochu přestřelené. Našli jste ostatně někde názor, že ADSL dává Telecom za příznivé peníze? Samozřejmě mimo firemní weby Telecomu?</p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 76
-title: 'Mesh sítě, WiFi a&nbsp;GSM roaming, ethernet přes el. zásuvky, nejnadějnější WiFi společnosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mesh-site-wifi-a-gsm-roaming-ethernet-pres-el-zasuvky-nejnadejnejsi-wifi-spolecnosti
-published: true
+oldlink: 'https://www.marigold.cz/item/mesh-site-wifi-a-gsm-roaming-ethernet-pres-el-zasuvky-nejnadejnejsi-wifi-spolecnosti
+
+  '
 post_date: 2003-02-05 09:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- Mesh sítě buduje sítovou infrastrukturu uživateli, nikoliv oficiální firma.
+- Ethernet přes zásuvky umožňuje rozvod sítě elektrickými dráty v domácnosti.
+- WiFi a GSM roaming účtuje GSM operátor za používání WiFi dat.
+- Report zveřejnil patnáct nejnadějnějších WiFi společností pro daný rok.
+title: Mesh sítě, WiFi a&nbsp;GSM roaming, ethernet přes el. zásuvky, nejnadějnější
+  WiFi společnosti
 ---
+
 <p>
 Dobrý článek o Mesh sítích najdete <A href="http://news.com.com/2009-1033-982113.html?tag=techdirt" target=_blank>na Cnetu</A> - <STRONG>o mesh sítích</STRONG>, kdy sítovou infrastrukturu vytvářejí sami uživatelé síťových zařízení, nikoliv nějaká oficiální firma nebo jeden operátor, hodláme ostatně psát. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 426
-title: 'Český Telecom udělal z&nbsp;ADSL komedii'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-telecom-udelal-z-adsl-komedii
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-telecom-udelal-z-adsl-komedii
+
+  '
 post_date: 2003-08-05 10:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- ADSL Českého Telecomu brzdí a agregace 1:50 snižuje reálnou rychlost.
+- Datový limit ADSL (10-20 GB) nutí zákazníky dokupovat další data za 400 Kč/10GB.
+- Český Telecom nabízí marketingově vyšší rychlost ADSL, reálně nedosažitelnou.
+- ADSL od ČTc ztrácí na zajímavosti kvůli výše zmíněným omezením a podmínkám.
+title: Český Telecom udělal z&nbsp;ADSL komedii
 ---
+
 <p>
 <STRONG>Komediální seriál Step by Step připomíná poslední dění okolo ADSL</STRONG>. Krok za krokem nás Český Telecom přesvědčuje, jak vypadá broadband služba v narowband provedení. ADSL v průběhu minulého týdne zbrzdilo tak citelně, že majitelé internetových přípojek kabelové televize, kde agregace se pohybuje kolem poměrů 1:12 (UPC), tedy téměř na polovině agregace, kterou Český Telecom cpe "profesionálním zákazníkům", mohou přestat váhat, zda nepřejít na ADSL. ADSL s pokrytím tří měst se definitivně stalo nejlegračnější přenosovou službou tento týden, když Český Telecom oznámil definitivní podmínky pro nové poskytování této služby. To, že ČTc nabízí všem zákazníkům vyšší rychlost, je marketingový kec první kategorie - k čemu vám bude linka o megabitové rychlosti, když díky agregaci 1:50 se tato rychlost může změnit prakticky v cokoliv. Nakonec byste se nemohli divit, kdyby na této lince byla data přenášena rychlostí 3 KB/s - i to by odpovídalo deklarované rychlosti. Co na tom, že podobné rychlosti bez problémů dosáhnou i majitelé analogových modemů, co teprve šťastlivci s ISDN...</p>
 

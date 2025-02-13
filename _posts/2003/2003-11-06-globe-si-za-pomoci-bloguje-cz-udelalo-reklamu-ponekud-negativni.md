@@ -1,14 +1,21 @@
 ---
 ID: 644
-title: 'Globe si za pomoci Bloguje.cz udělalo reklamu. Poněkud negativní&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/globe-si-za-pomoci-bloguje-cz-udelalo-reklamu-ponekud-negativni
-published: true
+oldlink: 'https://www.marigold.cz/item/globe-si-za-pomoci-bloguje-cz-udelalo-reklamu-ponekud-negativni
+
+  '
 post_date: 2003-11-06 07:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Bloguje.cz přesun na Globe hosting provázely víkendové problémy s dostupností.
+- Doména Bloguje.cz nyní dočasně funguje na adrese bloguje.cz.gds5.globe.cz.
+- Autor Bloguje.cz, Artur Dent, kritizuje Globe za problémy s hostingem.
+- Problémy Bloguje.cz jsou menší než dřívější výpadky placených T-Zones.
+title: Globe si za pomoci Bloguje.cz udělalo reklamu. Poněkud negativní&#8230;
 ---
+
 <p>
 Kdo trochu sleduje weblogy, asi nepřehlédl, že víkendový přesun nejoblíbenějšího blogovacího českého systému <STRONG>Bloguje.cz na nový server a na hosting ke Globe</STRONG>, se neobešel bez problémů. Weblogy na bloguje.cz i samotný systém byl včera prakticky nedostupný - záleželo na tom, u jakého ISP jste připojeni a jakou má zrovna Globe náladu. Dneska je to lepší o to, že doména Bloguje.cz se přesměrovává na méně poetickou, ale zato funkční <A href="http://www.bloguje.cz.gds5.globe.cz/">http://www.bloguje.cz.gds5.globe.cz/</A>&#160;- a to jede. </p>
 

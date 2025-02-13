@@ -1,14 +1,23 @@
 ---
 ID: 123
-title: 'CzFree Net nominován na Nejlepší nový projekt a&nbsp;Událost roku 2002'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/czfree-net-nominovan-na-nejlepsi-novy-projekt-a-udalost-roku-2002
-published: true
+oldlink: 'https://www.marigold.cz/item/czfree-net-nominovan-na-nejlepsi-novy-projekt-a-udalost-roku-2002
+
+  '
 post_date: 2003-02-26 15:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- CzFree Net nominován na Českého zavináče v kategoriích Nejlepší nový projekt a Událost
+  roku.
+- Nejlepší osobní stránka má nominace Klaus.cz, Viditelný Macek a Peterka.cz.
+- Miloš Čermák nominován na Internetového novináře za Mediář, což vyvolává otázky
+  střetu zájmů.
+- Zdeněk Janda a Miloslav Sova jsou navrženi na osobnost českého internetu.
+title: CzFree Net nominován na Nejlepší nový projekt a&nbsp;Událost roku 2002
 ---
+
 <p>
 Jak jsem tu tak agitoval, aby se při udílení cen Českého zavináče nezapomělo na některé projekty, tak mohu být téměř spokojen. Právě jsem se vrátil z České televize, kde probíhalo vyhlášení nominací a <STRONG>CzFree Net bylo nominováno v kategorii Nejlepší nový projekt</STRONG> spolu s enycklopedií <STRONG>Co to je</STRONG> a s vyhledávačem <STRONG>Jyxo</STRONG>. To není špatná sestava a přiznám se, že mi udělala tato nominace radost - všechny tři projekty jsou zajímavé a v každém případě budu s vítězem spokojen. </p>
 

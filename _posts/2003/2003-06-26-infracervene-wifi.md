@@ -1,14 +1,21 @@
 ---
 ID: 390
-title: Infračervené WiFi
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/infracervene-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/infracervene-wifi
+
+  '
 post_date: 2003-06-26 11:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- standard definuje rádiové i infračervené spektrum pro fyzickou vrstvu.
+- Infračervené WiFi dle 802.11 dosahuje rychlostí pouze 1 a 2 Mbps.
+- Firma Spectrix vyvinula vlastní IR rozhraní s rychlostí 3-4 Mb/s a plošným pokrytím.
+- Infračervené spoje se téměř nemohou rušit, na rozdíl od zaplněného ISM spektra.
+title: Infračervené WiFi
 ---
+
 <p>
 Nedávno když jsem popisoval fyzickou vrstvu standardu 802.11 jsem si všiml poznámky, že pro infračervené spektrum zatím nejsou komerční výrobky. Zaujalo mne to a rozhodl jsem si updatovat přehled. Ale popořádku: standard 802.11 definuje dvě přenosová média fyzické vrstvy, tedy rádiové a infračervené spektrum. Radiové znáte, to se běžně používá, ale infračervené WiFi? Vskutku - standard 802.11 definuje i infračervené světlo jako přenosové médium, bohužel o rychlostech pouze 1 a 2 Mbps. Původně se čekalo, že to výrobci nacpou do notebooků k infraportům, tam se ale stále chytá pouze IrDa. </p>
 

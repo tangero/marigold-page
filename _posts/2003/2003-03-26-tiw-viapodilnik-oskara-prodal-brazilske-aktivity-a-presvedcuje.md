@@ -1,14 +1,21 @@
 ---
 ID: 195
-title: 'TIW (viapodílník Oskara) prodal brazilské aktivity a&nbsp;přesvědčuje&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tiw-viapodilnik-oskara-prodal-brazilske-aktivity-a-presvedcuje
-published: true
+oldlink: 'https://www.marigold.cz/item/tiw-viapodilnik-oskara-prodal-brazilske-aktivity-a-presvedcuje
+
+  '
 post_date: 2003-03-26 20:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- TIW prodal 49% podíl v brazilské společnosti Telpart za 70 milionů dolarů.
+- Kupcem brazilského podílu TIW je Highlake International Business Company.
+- Prodej brazilských aktivit TIW burza vnímá jako signál zlepšení finanční situace.
+- Akcie TIW posílily po prodeji brazilského podílu na 0.27 USD.
+title: TIW (viapodílník Oskara) prodal brazilské aktivity a&nbsp;přesvědčuje&#8230;
 ---
+
 <p>
 Je to tak, kanadský telekomunikační operátor <STRONG>TIW prodal za 70 milionů dolarů své aktivity v Brazílii.</STRONG> Šlo o 49 % ve společnosti Telpart, holdingovou společnost&#160;ovládající dva brazilské mobilní operátory Telemig a Telenorte. Kupcem je Highlake International Business Company, fond specializovaný na rizikovější operace. Pro jistotu ještě zopakuji, že TIW skrze ClearWave je majoritním akcionářem Českého Mobilu / Oskara. Minulý týden TIW podobně prodal minoritní podíl v rumunském MobiFonu. </p>
 

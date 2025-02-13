@@ -1,14 +1,21 @@
 ---
 ID: 202
-title: 'Copak to Eurotel postihlo s&nbsp;těmi GPRS daty za paušál?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/copak-to-eurotel-postihlo-s-temi-gprs-daty-za-pausal
-published: true
+oldlink: 'https://www.marigold.cz/item/copak-to-eurotel-postihlo-s-temi-gprs-daty-za-pausal
+
+  '
 post_date: 2003-03-28 07:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel nabízí datový tarif Data Nonstop za 1000 Kč bez DPH.
+- GPRS je pomalejší než ADSL, reálné rychlosti jsou nízké.
+- Eurotel zavedl paušál, protože GPRS data málo lidí používá.
+- T-Mobile nenabízí konkurenceschopné GPRS ceny ani podmínky.
+title: Copak to Eurotel postihlo s&nbsp;těmi GPRS daty za paušál?
 ---
+
 <p>
 Komentáře k eurotelecímu datovému tarifu Data Nonstop se již objevily leckde, většinou jen citují cenu. Rekapitulujme si to - za tisícikorunu (bez DPH) měsíčního příplatku ke klasickému tarifu (tedy bohužel ne tarify Individual) můžete skrze GPRS datovat po libosti, bez účtování. To je velmi zajímavá nabídka. </p>
 

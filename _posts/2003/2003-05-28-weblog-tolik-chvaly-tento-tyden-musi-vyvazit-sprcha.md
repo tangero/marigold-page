@@ -1,14 +1,21 @@
 ---
 ID: 321
-title: 'Weblog &#8211; tolik chvály tento týden musí vyvážit sprcha'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/weblog-tolik-chvaly-tento-tyden-musi-vyvazit-sprcha
-published: true
+oldlink: 'https://www.marigold.cz/item/weblog-tolik-chvaly-tento-tyden-musi-vyvazit-sprcha
+
+  '
 post_date: 2003-05-28 08:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa.cz publikovala články o weblozích od Martina Kopty a Mirka Zemana.
+- BlogTalk v Rakousku čeští blogeři dle autora neúspěšně reflektovali.
+- Jiří Hlavenka na Živě vidí weblogy jako internetovou bublinu.
+- Blogy privatizují zpravodajství, zkracují zprávy a ubírají hodnotu médiím.
+title: Weblog &#8211; tolik chvály tento týden musí vyvážit sprcha
 ---
+
 <p>
 Tento týden se na českém internetu vyrojilo několik článků o weblogu. Ty na Lupě jste asi postřehli: Martin Kopta píše článek <A class=nadcl href="http://www.lupa.cz/clanek.php3?show=2853"><STRONG>Weblogy: úsvit nových médií</STRONG></A>, zatímco ve článku Mirka Zemana <A class=nadcl href="http://www.lupa.cz/clanek.php3?show=2854"><STRONG>Strasti a slasti autorů weblogů</STRONG></A>&#160;se dočtete, co si autoři některých blogů u nás myslí, najdete tu ostatně i něco o Marigoldovi. </p>
 

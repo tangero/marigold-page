@@ -1,14 +1,21 @@
 ---
 ID: 148
-title: 'Koho jsem tedy nominoval na České Zavináče 2002 v&nbsp;prvním kole?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/koho-jsem-tedy-nominoval-na-ceske-zavinace-2002-v-prvnim-kole
-published: true
+oldlink: 'https://www.marigold.cz/item/koho-jsem-tedy-nominoval-na-ceske-zavinace-2002-v-prvnim-kole
+
+  '
 post_date: 2003-03-06 13:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor zveřejnil své nominace na Českého Zavináče 2002.
+- Technet, CD-R a Pravednes jsou autorovy oblíbené zpravodajské stránky.
+- Kompost, Strach a BonusWeb jsou autorovy nominace v kategorii zábavná stránka.
+- Autor nominoval weby CzFreeNet, Jyxo a Sova v síti jako nový projekt.
+title: Koho jsem tedy nominoval na České Zavináče 2002 v&nbsp;prvním kole?
 ---
+
 <p>
 Není to tak dávno, co jsem se rozhodl, že <STRONG>zveřejním svoje nominace na Českého Zavináče 2002</STRONG>. Jednak proto, abyste věděli, jaké stránky se mi líbí a taky proto, že mi lidé píšou o těch nominacích, že Akademici jsou úplně vygumovaní. Teď alespoň můžete přemýšlet nad tím, jaké weby byste nominovali vy...</p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 760
-title: >
-  Vyhodnocení ankety kolik mobilních
-  čísel jste dosud vlastnili
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vyhodnoceni-ankety-kolik-mobilnich-cisel-jste-dosud-vlastnili
-published: true
+oldlink: 'https://www.marigold.cz/item/vyhodnoceni-ankety-kolik-mobilnich-cisel-jste-dosud-vlastnili
+
+  '
 post_date: 2003-12-23 11:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- Třetina respondentů ankety stále používá své první mobilní číslo.
+- Skoro polovina hlasujících v anketě vystřídala minimálně tři mobilní čísla.
+- Ankety se zúčastnilo 141 respondentů.
+- 'Nová anketa se ptá na preferovaný server o mobilech: Mobil nebo MobilManii.'
+title: 'Vyhodnocení ankety kolik mobilních čísel jste dosud vlastnili
+
+  '
 ---
+
 <p>
 Ještě jsem se rozhodl předvánočně vyhodnotit anketu o tom, kolik mobilních čísel jste vlastnili či nyní vlastníte. </p>
 

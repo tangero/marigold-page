@@ -1,16 +1,23 @@
 ---
 ID: 305
-title: >
-  Nokia vidí WiFi jako důležitou
-  součást mobilů
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-vidi-wifi-jako-dulezitou-soucast-mobilu
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-vidi-wifi-jako-dulezitou-soucast-mobilu
+
+  '
 post_date: 2003-05-22 08:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi bude klíčové pro budoucí hi-end mobilní telefony Nokia.
+- Budoucí telefony Nokia nabídnou gigabity paměti a dvoumegapixelové kamery.
+- Nokia preferuje datový přenos přes WiFi, nikoliv hlasové hovory.
+- Symbian OS a Series 60 zůstávají preferovaným systémem Nokie, ne Linux.
+title: 'Nokia vidí WiFi jako důležitou součást mobilů
+
+  '
 ---
+
 <p>
 Hlavní muž vývoje mobilních telefonů u firmy Nokia Donal O'Connell prohlásil, že WiFi představuje důležitou součást budoucích hi-end mobilních telefonů. Je to v krátké době druhé ujištění ze strany Nokia, že WiFi považuje za důležité. </p>
 

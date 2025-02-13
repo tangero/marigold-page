@@ -1,14 +1,24 @@
 ---
 ID: 100
-title: 'GPRS roaming T-Mobilu ve Francii nefunguje, Regional BGAN pres satelit jede&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/gprs-roaming-t-mobilu-ve-francii-nefunguje-regional-bgan-pres-satelit-jede
-published: true
+oldlink: 'https://www.marigold.cz/item/gprs-roaming-t-mobilu-ve-francii-nefunguje-regional-bgan-pres-satelit-jede
+
+  '
 post_date: 2003-02-18 16:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- GPRS roaming mezi T-Mobile a Orange F v Cannes nefunguje, což ztěžuje přístup k
+  internetu.
+- Press centrum na 3GSM kongresu je přeplněné, takže přístup k internetu je obtížný.
+- Alternativou je satelitní internet Inmarsat Regional BGAN s cenou 1300-1900 USD
+  za modem.
+- Satelitní internet BGAN nabízí rychlá data s latencí 50-100ms, cena 1MB je 10-12
+  USD.
+title: GPRS roaming T-Mobilu ve Francii nefunguje, Regional BGAN pres satelit jede&#8230;
 ---
+
 <p>
 Pokud mirite do francouzskeho Cannes na 3GSM kongres a domnivate se, ze budete moci pouzivat pro pripojeni do internetu GPRS roaming mezi T-Mobile a Orange F, mame pro vas spatnou zpravu. Ackoliv by fungovat mel, nefunguje. Orange tvrdi, ze chyba je u T-Mobile a volat na infolinku ceskeho T-Mobile za roamingove penize, k tomu jsme se jeste neodhodlali. V kazdem pripade to nefunguje a je to hodne skoda. A pak se mate na profesionalni sluzbu spolehnout...</p>
 

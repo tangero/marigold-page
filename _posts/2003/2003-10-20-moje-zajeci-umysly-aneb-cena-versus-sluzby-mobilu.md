@@ -1,16 +1,23 @@
 ---
 ID: 599
-title: >
-  Moje zaječí úmysly aneb cena versus
-  služby mobilů.
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/moje-zajeci-umysly-aneb-cena-versus-sluzby-mobilu
-published: true
+oldlink: 'https://www.marigold.cz/item/moje-zajeci-umysly-aneb-cena-versus-sluzby-mobilu
+
+  '
 post_date: 2003-10-20 09:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- Účet T-Mobile činil tři tisíce korun, což autora přimělo k zamyšlení nad úsporami.
+- SMS zprávy a proměnlivý objem datových přenosů jsou největšími problémy s T-Mobile.
+- Přechodem k Oskaru by autor ušetřil 500 až 1200 korun měsíčně.
+- Roamingové služby T-Mobile jsou nespolehlivé a autor má problémy se signálem.
+title: 'Moje zaječí úmysly aneb cena versus služby mobilů.
+
+  '
 ---
+
 <p>
 Přišel mi minulý týden účet za můj soukromý T-mobil(e). Tři tísícovky není málo. A protože už delší dobu přemýšlím o tom, jestli bych někde neušetřil a potlačuji v sobě nostalgii z toho, že mám mobilní číslo od roku 1996 stále stejné, sedl jsem si v neděli ku kalkulačce a tarifům operátorů. </p>
 

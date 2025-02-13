@@ -1,14 +1,21 @@
 ---
 ID: 575
-title: 'ITU Telecom World &#8211; další maličkosti z&nbsp;Ženevy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/itu-telecom-world-dalsi-malickosti-z-zenevy
-published: true
+oldlink: 'https://www.marigold.cz/item/itu-telecom-world-dalsi-malickosti-z-zenevy
+
+  '
 post_date: 2003-10-13 08:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- ITU Telecom World očekává 110 tisíc odborných návštěvníků, vystavuje téměř každý.
+- Asijské firmy Samsung, NEC, LG prezentují 3G telefony a zajímavá řešení.
+- Identifikace obličeje a televize v mobilu jsou nové trendy prezentované na výstavě.
+- Bill Gates má hlavní projev, další přednášky se týkají WLAN a 3G licencí.
+title: ITU Telecom World &#8211; další maličkosti z&nbsp;Ženevy
 ---
+
 <p>
 Na výstavišti jsem včera stihl projít zhruba dvě haly z těch pěti, co mne čekají. Kontrast s Invexem jakožto masovou akcí je opravdu obrovský: ITU předpokládá, že na TW přijde přes 110 tisíc návštěvníků, většinou odborníků. Tomu také odpovídá skladba vystavovatelů: vystavuje tu snad každý, jen stánku Nokia nebo Motorola jsem si nevšiml. Sehnat a kontrahovat tu můžete snad všechno, co v telekomunikacích potřebujete. Chcete satelit? Celý, pronajmout transpondér, nebo jen díly na sestavu přijímače a vysílače? Bezdrátové prvky? Řešení pro IP telefonii? UMTS síť? Kromě asijských firem je tu také hodně návštěvníků z Asie, Arábie, zájem o výstavu byl už včera veliký a to to tu teprve začínalo, ještě neběželo ani fórum.</p>
 

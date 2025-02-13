@@ -1,16 +1,23 @@
 ---
 ID: 611
-title: >
-  Uživatelů internetového připojení
-  skrze kabelové rozvody přibývá
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/uzivatelu-internetoveho-pripojeni-skrze-kabelove-rozvody-pribyva
-published: true
+oldlink: 'https://www.marigold.cz/item/uzivatelu-internetoveho-pripojeni-skrze-kabelove-rozvody-pribyva
+
+  '
 post_date: 2003-10-24 09:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- tisíc domácností a firem v ČR předplácí vysokorychlostní internet po kabelu.
+- ČAKK sdružuje hlavní kabelové společnosti UPC, Karneval a SELF servis.
+- Zdeněk Tvarůžek z Rosic je třicetitisící předplatitel kabelového internetu.
+- Počet kabelových připojení je pravděpodobně vyšší než 30 tisíc.
+title: 'Uživatelů internetového připojení skrze kabelové rozvody přibývá
+
+  '
 ---
+
 <p>
 <FONT face="Arial CE" size=2>Přišla mi tisková zpráva, která je ve světle posledního aktuálního ADSL dění zajímavá, takže z ní vybírám to podstatné:</FONT></p>
 

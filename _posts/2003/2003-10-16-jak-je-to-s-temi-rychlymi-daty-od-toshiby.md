@@ -1,14 +1,22 @@
 ---
 ID: 590
-title: 'Jak je to s&nbsp;těmi rychlými daty od Toshiby'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-je-to-s-temi-rychlymi-daty-od-toshiby
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-je-to-s-temi-rychlymi-daty-od-toshiby
+
+  '
 post_date: 2003-10-16 09:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Toshiba prezentovala rychlé bezdrátové sítě s rychlostí přes 100 Mb/s, výhledově
+  1 Gb/s.
+- MIMO technologie využívá více přijímačů a vysílačů, včetně kombinované antény.
+- Vícesegmentová anténa Toshiby vysílá více datových proudů najednou, zvyšuje rychlost.
+- Standardizace technologie Toshiby je nutná pro uvedení na trh, očekává se za 3 roky.
+title: Jak je to s&nbsp;těmi rychlými daty od Toshiby
 ---
+
 <p>
 Na několika serverech jsem četl zprávy o rychlých bezdrátových sítích od Toshiby a protože jsem se na stánku Toshiby v expozici WLAN stavil, rád bych něco uvedl na pravou míru. Toshiba skutečně ve svých laboratořích TRL v Bristolu experimentuje s rychlými datovými přenosy v bezlicenčním pásmu a na veletrhu <STRONG>představovala rychlosti přes 100 Mb/s s výhledem na 1 Gb/s. </STRONG></p>
 

@@ -1,17 +1,24 @@
 ---
 ID: 430
-title: >
-  Telecom pozastavuje agregaci ADSL,
-  Vrecův bulharský blog expanduje, Bakov
-  Devils nově
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/telecom-pozastavuje-agregaci-adsl-vrecuv-bulharsky-blog-expanduje-bakov-devils-nove
-published: true
+oldlink: 'https://www.marigold.cz/item/telecom-pozastavuje-agregaci-adsl-vrecuv-bulharsky-blog-expanduje-bakov-devils-nove
+
+  '
 post_date: 2003-08-07 14:09:00
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom pozastavuje agregaci na ADSL do 15. října kvůli přechodu na nové linky.
+- Nokia 6600 má výrazně lepší displej a kameru než předchozí modely Series 60.
+- Vreco si založil blog z Bulharska o jídle, pití a okrádání.
+- Bakov Devils, cyklistický server, má nový design inspirovaný Marigoldem.
+title: 'Telecom pozastavuje agregaci ADSL, Vrecův bulharský blog expanduje, Bakov
+  Devils nově
+
+  '
 ---
+
 <p>
 Český Telecom <STRONG>pozastavuje agregaci na ADSL</STRONG> - ovšem jen do 15. října. Díky&#160;tomu budou moci lidé bez problému se přesunout na nové linky o vyšší deklarované rychlosti. Při agregaci 1:50 ale ta deklarovaná rychlost je beztak jen teoretická... Nu, třeba se to ještě změní. Podrobnosti a hlavně <A href="http://www.zive.cz/h/Bleskovky/AR.asp?ARI=112046&amp;CAI=2097&amp;HID=19" target=_blank>bouřlivá diskuse na Živě</A>. </p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 149
-title: 'Oskarovy víkendové hovory zdarma: pozor, lezou do zálohy'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oskarovy-vikendove-hovory-zdarma-pozor-lezou-do-zalohy
-published: true
+oldlink: 'https://www.marigold.cz/item/oskarovy-vikendove-hovory-zdarma-pozor-lezou-do-zalohy
+
+  '
 post_date: 2003-03-07 07:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar tarify nabízí víkendové hovory zdarma po síti Oskar po dobu několika měsíců.
+- Český Mobil účtuje víkendové hovory v síti Oskar do výše zálohy.
+- Faktura uvádí víkendové hovory jako slevu, takže je z hlediska faktury vše v pořádku.
+- Hovory zdarma se započítávají do volacího limitu, což může vést k nečekané blokaci
+  SIM karty.
+title: 'Oskarovy víkendové hovory zdarma: pozor, lezou do zálohy'
 ---
+
 <p>
 Pokud jste si koupil v poslední době některý z Oskarových tarifů, jistě vás potěšila možnost <STRONG>víkendových hovorů zdarma po síti Oskar</STRONG>. Milé překvapení můžete používat několik měsíců podle toho, jaký tarif jste si koupili, v případě tarifu nejvyššího až rok. </p>
 

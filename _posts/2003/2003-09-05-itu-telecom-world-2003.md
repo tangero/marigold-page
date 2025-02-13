@@ -1,14 +1,21 @@
 ---
 ID: 481
-title: ITU Telecom World 2003
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/itu-telecom-world-2003
-published: true
+oldlink: 'https://www.marigold.cz/item/itu-telecom-world-2003
+
+  '
 post_date: 2003-09-05 07:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- ITU Telecom World 2003 se koná 12.-18. října v Ženevě.
+- Evropské firmy považují účast na ITU za povinnost.
+- Výstava ITU je zaměřena na obchod a vývoj sítí.
+- Cesta na ITU je pro česká média finančně náročná.
+title: ITU Telecom World 2003
 ---
+
 <p>
 V říjnu, těsně po našem Invexu, odstartuje v Ženevě veliká a důležitá telekomunikační akce, <STRONG>ITU Telecom World 2003. Finální termín je 12.-18. října 2003</STRONG>. Veliká a důležitá je proto, že se koná v Evropě jednou za čtyři roky (v mezidobí vystřídá ostatní kontinenty) a evropské firmy tedy berou bezmála za svoji povinnost se jí zúčastnit, pokud chtějí vypadat, že mají v telekomunikacích co nabídnout. </p>
 

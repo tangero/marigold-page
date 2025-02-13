@@ -1,16 +1,25 @@
 ---
 ID: 501
-title: >
-  Jednosměrné satelitní připojení
-  Astra přes PragoNet
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jednosmerne-satelitni-pripojeni-astra-pres-pragonet
-published: true
+oldlink: 'https://www.marigold.cz/item/jednosmerne-satelitni-pripojeni-astra-pres-pragonet
+
+  '
 post_date: 2003-09-12 08:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- Astra SES podepsala smlouvu s PragoNetem na distribuci jednosměrného satelitního
+  DSL internetu.
+- Jednosměrný satelitní internet Astry slouží pouze pro příjem dat, odesílání zajišťuje
+  jiný kanál.
+- Cena jednosměrného satelitního zařízení je výrazně nižší než obousměrného.
+- Jednosměrné připojení je zajímavé pro rychlý download v kombinaci s pomalým uploadem.
+title: 'Jednosměrné satelitní připojení Astra přes PragoNet
+
+  '
 ---
+
 <p>
 Společnost <STRONG>Astra SES podepsala smlouvu s PragoNetem </STRONG><EM>(koupený T-Systems)</EM>. Podle ní bude PragoNet na území České republiky distribuovat služby jednosměrného satelitního DSL internetu. Smlouva je součástí expanze SES Astra na nové trhy, mezi něž bude nyní patřit také Francie, Alžírsko, Maďarsko, Irsko a Polsko.</p>
 

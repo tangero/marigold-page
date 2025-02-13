@@ -1,14 +1,21 @@
 ---
 ID: 38
-title: 'A budeme se hádat s&nbsp;CZFree.Netem&#8230; :)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/a-budeme-se-hadat-s-czfree-netem
-published: true
+oldlink: 'https://www.marigold.cz/item/a-budeme-se-hadat-s-czfree-netem
+
+  '
 post_date: 2003-01-13 15:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Článek o CzFree.netu vyvolal rozsáhlé diskuse na různých platformách.
+- Deu tvrdí, že pravidla CzFree jsou dostupná pouze členům sítě.
+- Autor kritizuje nedostupnost pravidel CzFree pro nové uživatele.
+- Autor shrne další připomínky k CzFree v budoucím článku.
+title: A budeme se hádat s&nbsp;CZFree.Netem&#8230; :)
 ---
+
 <p>
 Jak se dalo očekávat, článek věnovaný CzFree.netu přinesl hromadu reakcí. Některé jsou v diskusi přímo pod článkem, další diskuse běží <A href="http://www.czfree.net/forum/showthread.php?s=&amp;threadid=2134" target=_blank>přímo na stránkách CzFree</A>. V této diskusi stojí za to pročíst si příspěvek od Deu, duchovního (i jiného otce) CzFree. Diskusi <A href="/rozbal_diskusi.html?diskuse=czfreenet&amp;vsechny_r=0">u nás najdete zde</A>.</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1212
-title: 'Další anténní zázrak &#8211; Flatenna společnosti Tritium'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-antenni-zazrak-flatenna-spolecnosti-tritium
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-antenni-zazrak-flatenna-spolecnosti-tritium
+
+  '
 post_date: 2004-07-23 08:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- Flatenna od Tritia je papírová anténa pro router, skládací jako vystřihovánka.
+- Anténa Flatenna zvyšuje zisk 2 dBI antény na 9 dBI se sektorem 90 stupňů.
+- Flatenna funguje jako odražeč signálu díky pokovené zadní straně papíru.
+- Cena Flatenny je 10 liber, ale lze ji vyrobit svépomocí.
+title: Další anténní zázrak &#8211; Flatenna společnosti Tritium
 ---
+
 <p>
 Takhle v létě se to vyrojí řadou různých zázraků, které miluji. Například v oblasti antén se objevil nový výrobek od společnosti Tritium a jmenuje se Flatenna. Jde o anténu, která se přidělává na klasickou pendrekovou anténu na router, jak vidno na obrázku. A jde o anténu, která vám příjde ve složeném stavu jako vystřihovánka z papíru a vy si ji sestavíte - připomíná mí to staré dobré časy Ábíčka, jestli ještě vychází, mohli by své vystřihovánky inovovat na vystřihovánky antén ;)</p>
 <div class="rightbox"><img src="/wp-content/uploads/20040723-Flatenna.jpg" alt="Tritium Flatenna" width="448" height="241" /></div><p>

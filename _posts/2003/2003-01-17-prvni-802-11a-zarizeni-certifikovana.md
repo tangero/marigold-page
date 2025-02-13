@@ -1,16 +1,23 @@
 ---
 ID: 46
-title: >
-  První 802.11a zařízení
-  certifikována
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prvni-802-11a-zarizeni-certifikovana
-published: true
+oldlink: 'https://www.marigold.cz/item/prvni-802-11a-zarizeni-certifikovana
+
+  '
 post_date: 2003-01-17 08:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi5 certifikaci získalo prvních sedm zařízení standardu 802.11a.
+- Certifikace 802.11g produktů měla začít v létě po schválení standardu.
+- Proxim, Cisco a Intel jsou pravděpodobní dodavatelé WiFi zařízení v Česku.
+- Certifikace zajišťuje funkční kompatibilitu WiFi zařízení různých výrobců.
+title: 'První 802.11a zařízení certifikována
+
+  '
 ---
+
 <p>
 Prvních sedm zařízení pracujících podle <STRONG>802.11a (WiFi5)</STRONG> bylo certifikováno Wi-Fi Aliancí. Také bylo oznámeno, že se započlo s certifikací prvních 802.11g produktů a jejich certifikace by měla započnout do léta, pokud se schválí standard v termínu. </p>
 

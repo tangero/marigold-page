@@ -1,14 +1,21 @@
 ---
 ID: 300
-title: 'Strand consult: 3G sítě nebudou WiFi pokořeny'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/strand-consult-3g-site-nebudou-wifi-pokoreny
-published: true
+oldlink: 'https://www.marigold.cz/item/strand-consult-3g-site-nebudou-wifi-pokoreny
+
+  '
 post_date: 2003-05-18 17:36:00
+post_excerpt: ''
+published: true
+summary_points:
+- Strand Consulting obhajuje 3G sítě oproti Wi-Fi, vidí v nich dlouhodobého vítěze.
+- WiFi roaming je minimální, ale vyvíjí se software pro roaming mezi WiFi provozovateli.
+- Uživatelé budou zvažovat cenu versus pokrytí při výběru mezi 3G a WiFi.
+- G bude bodovat v nativních mobilních aplikacích, ale chybí standardy.
+title: 'Strand consult: 3G sítě nebudou WiFi pokořeny'
 ---
+
 <p>
 Strand consulting vydal zprávu obhajující 3G sítě vůči Wi-Fi. Podle Strandu bude dlouhodobě 3G vítězem. Má pro toto tvrzení několik odůvodnění:</p>
 

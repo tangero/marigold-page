@@ -1,14 +1,22 @@
 ---
 ID: 286
-title: 'Slovensko: nelicencovaným radiovým sítím hrozí megapokuty. ČTÚ: u&nbsp;nás taky!'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/slovensko-nelicencovanym-radiovym-sitim-hrozi-megapokuty-ctu-u-nas-taky
-published: true
+oldlink: 'https://www.marigold.cz/item/slovensko-nelicencovanym-radiovym-sitim-hrozi-megapokuty-ctu-u-nas-taky
+
+  '
 post_date: 2003-05-12 15:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Slovenský TÚ vyžaduje licenci pro veřejné radiové sítě i v bezlicenčních pásmech.
+- ČTÚ v ČR také vyžaduje licenci pro provozování veřejné telekomunikační sítě.
+- Nabízení připojení k internetu přes WiFi je považováno za provozování veřejné sítě.
+- ČTÚ prověřuje subjekty poskytující WiFi připojení a chystá se na další kontroly.
+title: 'Slovensko: nelicencovaným radiovým sítím hrozí megapokuty. ČTÚ: u&nbsp;nás
+  taky!'
 ---
+
 <p>
 Slovenský Telekomunikační úrad si hodlá vyšlápnout na radiové sítě v bezlicenčních pásmech. Pokud někdo provozuje radiovou síť sloužící k připojování veřejnosti, musí mít licenci na provozování veřejné radiové sítě. Podle TÚ vůbec nezáleží na tom, zda jde o radiovou síť v pásmu licencovaném nebo bezlicenčním, hlavní rozdíl je v tom, zda je veřejná nebo neveřejná. Pokuty až 5 milionů Sk tak mohou očekávat drobní ISP, kteří začali vesele budovat radiové sítě v pásmu 2,4 GHz a jichž zejména nad Bratislavou zhoustlo. </p>
 

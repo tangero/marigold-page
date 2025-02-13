@@ -1,14 +1,21 @@
 ---
 ID: 582
-title: 'NTT DoCoMo: 4G? Zapomente na to&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ntt-docomo-4g-zapomente-na-to
-published: true
+oldlink: 'https://www.marigold.cz/item/ntt-docomo-4g-zapomente-na-to
+
+  '
 post_date: 2003-10-14 09:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- NTT DoCoMo prezentovala výhled mobilních sítí, zejména 3G, na tiskové konferenci.
+- Keiji Tachikawa, president NTT DoCoMo, zlepšil dojem po nudné prezentaci v dotazech.
+- G sítě jsou podle Tachikawy v tomto desetiletí předčasné kvůli rizikům a 3G sítím.
+- Financování a stavba 4G sítí je podle NTT DoCoMo obchodně nejasná.
+title: 'NTT DoCoMo: 4G? Zapomente na to&#8230;'
 ---
+
 <p>
 Vcera byla tiskova konference japonskeho mobilniho giganta NTT DoCoMo. Hovorilo se hodne o vyhledu mobilnich siti, zejmena 3G siti, s nimiz ma NTT velke zkusenosti, provozuje 3G sit FOMA v Japonsku. </p>
 

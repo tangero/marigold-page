@@ -1,14 +1,21 @@
 ---
 ID: 93
-title: Linksys produkty 802.11g dorazí do ČR
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-produkty-802-11g-dorazi-do-cr
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-produkty-802-11g-dorazi-do-cr
+
+  '
 post_date: 2003-02-13 11:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys vyhrává neoficiální soutěž o první 802.11g produkty v ČR.
+- První Linksys 802.11g produkty dorazí v polovině března s dostatečnou zásobou.
+- WAP54G access point stojí 9500 Kč bez DPH, PCI karta WMP54G 3800 Kč.
+- PCI karta WMP54G by mohla být zajímavá pro CzFree páteřní spoje.
+title: Linksys produkty 802.11g dorazí do ČR
 ---
+
 <p>
 Moji neoficiální soutěž o to, kdy první 802.11g produkty dorazí do ČR zatím vyhrává Linksys. V polovině března by měly dorazit první produkty a zásoba údajně bude dostatečná. Koncové ceny bez DPH jsou následující:</p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 546
-title: >
-  Další přednášky na Invexu zejména
-  na téma broadbandu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dalsi-prednasky-na-invexu-zejmena-na-tema-broadbandu
-published: true
+oldlink: 'https://www.marigold.cz/item/dalsi-prednasky-na-invexu-zejmena-na-tema-broadbandu
+
+  '
 post_date: 2003-10-02 13:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- ATTel pořádá 8. října 2003 v G2 invexové přednášky.
+- Dundy Yeh a Jozef Derner přednáší o Broadband Access od TAINET v 11:00.
+- Irene Chen a Jozef Derner prezentují širokopásmové routery DrayTek ve 14:00.
+- Vstup na přednášky je zdarma, ATTel vystavuje v hale F32.
+title: 'Další přednášky na Invexu zejména na téma broadbandu
+
+  '
 ---
+
 <p>
 Přišlo mi další avízo na invexové přednášky a to na středu 8. října - přednášky pořádá ATTel v Conference Hall G2 a to následujícně:</p>
 

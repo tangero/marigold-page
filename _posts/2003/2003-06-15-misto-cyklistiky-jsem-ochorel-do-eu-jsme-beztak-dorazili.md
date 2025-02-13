@@ -1,14 +1,21 @@
 ---
 ID: 367
-title: 'Místo cyklistiky jsem ochořel, do EU jsme beztak dorazili&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/misto-cyklistiky-jsem-ochorel-do-eu-jsme-beztak-dorazili
-published: true
+oldlink: 'https://www.marigold.cz/item/misto-cyklistiky-jsem-ochorel-do-eu-jsme-beztak-dorazili
+
+  '
 post_date: 2003-06-15 13:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor onemocněl a zůstal doma místo cyklistického závodu.
+- Autor volil pro přistoupení do EU, ačkoli výsledek byl jasný.
+- DigiWeb zveřejnil vtipný rozhovor s Vrecem, vyvolávající bouřlivou diskusi.
+- Rozhovor s Vrecem je dostupný i jako zvukový záznam na ČRo1.
+title: Místo cyklistiky jsem ochořel, do EU jsme beztak dorazili&#8230;
 ---
+
 <p>
 Namísto slíbeného cyklistického pretěku Ruská ruleta jsem zůstal doma v posteli, neznámo kde a jak jsem onemocněl, potím se jak vrata od chléva a hltám čaj. Ještě, že existují takové zdravotnické instituce, jako je Sante - doktor přijel za mnou domů, vyšetřil mne, přivezl mi léky a ani mi ještě nebral míru na rakev, takže zřejmě zůstává naděje :)</p>
 

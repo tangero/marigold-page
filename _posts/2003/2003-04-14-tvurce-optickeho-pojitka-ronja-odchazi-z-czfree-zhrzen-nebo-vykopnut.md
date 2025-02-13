@@ -1,14 +1,21 @@
 ---
 ID: 233
-title: 'Tvůrce optického pojítka Ronja odchází z&nbsp;CzFree. Zhrzen nebo vykopnut?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tvurce-optickeho-pojitka-ronja-odchazi-z-czfree-zhrzen-nebo-vykopnut
-published: true
+oldlink: 'https://www.marigold.cz/item/tvurce-optickeho-pojitka-ronja-odchazi-z-czfree-zhrzen-nebo-vykopnut
+
+  '
 post_date: 2003-04-14 13:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- Clock, tvůrce Ronji, odešel z CzFree kvůli prohlášení o negativním přínosu.
+- Petice vznikla na CzFree za navrácení Clocka, ale Carlos a Deu mlčí.
+- Fyzik tvrdí, že Clock odmítl spolupráci i za peníze kvůli "haluzním" důvodům.
+- CzFree je kritizováno za centralizaci, chaos a cenzuru příspěvků.
+title: Tvůrce optického pojítka Ronja odchází z&nbsp;CzFree. Zhrzen nebo vykopnut?
 ---
+
 <p>
 Clock neboli Karel Kulhavý, tvůrce GLP projektu optického pojítka Ronja <STRONG>odešel z CzFree</STRONG>. V <A href="http://www.czfree.net/forum/showthread.php?postid=34035#post34035" target=_blank>diskusním příspěvku</A>, kde svůj odchod oznamuje, píše: "<FONT size=2>Carlos, administrátor Fóra CZFree v mailu adresovaném mě dne 28.3.2003 prohlásil: <EM>"tvá přítomnost ve fórech CZF není již dále vítána, protože tvůj přínos komunitě je negativní". Deu, zakladatel fóra Optické pojítko Alphawave, mě umístil na svůj ignore list, čímž mi znemožnil další svobodné vyjádření na tomto fóru a na všech dalších fórech, která začal. Moje členství bylo degradováno z Project Advisor na Member."</EM></FONT></p>
 

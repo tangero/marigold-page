@@ -1,14 +1,22 @@
 ---
 ID: 298
-title: 'Je CzFree veřejná telekomunikační síť a&nbsp;tedy musí mít licenci?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/je-czfree-verejna-telekomunikacni-sit-a-tedy-musi-mit-licenci
-published: true
+oldlink: 'https://www.marigold.cz/item/je-czfree-verejna-telekomunikacni-sit-a-tedy-musi-mit-licenci
+
+  '
 post_date: 2003-05-16 08:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi sítě v pásmu 2,4 GHz mohou vyžadovat licenci pro veřejné telekomunikační sítě.
+- CzFree síť pravděpodobně splňuje definici veřejné telekomunikační sítě a podléhá
+  regulaci.
+- Řešením pro CzFree je založení právní subjektivity a jednání s ČTÚ.
+- Alternativně lze CzFree považovat za propojení více soukromých sítí.
+title: Je CzFree veřejná telekomunikační síť a&nbsp;tedy musí mít licenci?
 ---
+
 <p>
 Docela rušno začalo být <A href="/zprava.html?id=22875">tento týden kolem zjištění,</A> že stavět sítě v ISM pásmu (2,4 GHz) není tak právně triviální a že pokud je tato síť veřejnou telekomunikační sítí, musí na ni mít provozovatel licenci. Nejvíce to jistě překvapí firmičky nabízející za peníze připojení do WiFi, licenci mají zpravidla jen větší firmy a co jsem se tak díval, z těch menších málokdo. </p>
 

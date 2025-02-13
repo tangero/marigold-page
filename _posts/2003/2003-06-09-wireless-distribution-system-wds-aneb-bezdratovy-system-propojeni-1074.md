@@ -1,16 +1,23 @@
 ---
 ID: 1074
-title: >
-  Wireless Distribution System (WDS) aneb
-  Bezdrátový systém propojení
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wireless-distribution-system-wds-aneb-bezdratovy-system-propojeni-1074
-published: true
+oldlink: 'https://www.marigold.cz/item/wireless-distribution-system-wds-aneb-bezdratovy-system-propojeni-1074
+
+  '
 post_date: 2003-06-09 08:36:00
+post_excerpt: ''
+published: true
+summary_points:
+- WDS propojuje access pointy skrze WiFi, vyhrazuje pásmo pro jejich komunikaci.
+- Intersil vyvinul WDS pro čipové sady Prism, maximálně osm přístupových bodů.
+- Rychlost WDS je nižší, Intersil uvádí reálných 1,5 Mb/s.
+- Podpora WDS je omezená, nabízí ji například Proxim Orinoco a ZyXel.
+title: 'Wireless Distribution System (WDS) aneb Bezdrátový systém propojení
+
+  '
 ---
+
 Když jste poprvé slyšeli o WiFi, možná jste si mysleli, že přístupové body je možné mezi sebou propojit pomocí WiFi a není potřeba vlastně nic dělat, než je dát do zástrčky. Inu, vlastně by to šlo - místo ethernetu je můžete propojit skrze WiFi v režimu WDS. Co to je a jak to funguje?<!--more-->Bezdrátový systém propojení (WDS) je technologie, se kterou<STRONG> přišel Intersil ve svých čipových sadách Prism</STRONG>. Také Intersil totiž přemýšlel, jak vyřešit propojení jednotlivých access pointů a napadlo jej, použít k tomu samotné WiFi. WDS tedy vyhrazuje část přenosového pásma ne pro komunikaci mezi přístupovým bodem a klientem, ale pro komunikaci mezi přistupovými body najednou. Jak to funguje, je zřejmé z následujícího obrázku. 
 <P align=center><IMG height=283 alt="Wireless Distribution System" src="/wp-content/uploads/wds.png" width=418></p>
 

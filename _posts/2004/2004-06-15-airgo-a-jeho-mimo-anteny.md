@@ -1,14 +1,23 @@
 ---
 ID: 1147
-title: 'AirGo a&nbsp;jeho MIMO antény'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/airgo-a-jeho-mimo-anteny
-published: true
+oldlink: 'https://www.marigold.cz/item/airgo-a-jeho-mimo-anteny
+
+  '
 post_date: 2004-06-15 07:45:51
+post_excerpt: ''
+published: true
+summary_points:
+- MIMO antény jsou chytré antény, dříve v drahých Vivato WiFi switchích, nyní pro
+  běžné uživatele.
+- AirGo vyrábí čipové sady pro MIMO antény a licencuje technologii dalším firmám.
+- MIMO antény nabízejí rychlost až 108 Mb/s a větší dosah, APčka budou dražší o 50
+  USD.
+- SOHOware, Planex, Askey a Taiyo Yuden budou prvními dodavateli AirGo technologie.
+title: AirGo a&nbsp;jeho MIMO antény
 ---
+
 <p>
 MIMO antény (Multiple In, Multiple Out) se počítají mezi chytré antény. Jde o složené antény, setkávali jsme se s nimi zatím jen v drahých Vivato WiFi switch, nyní ale přichází na trh pro segment běžných uživatelů. Výrobcem je firma AirGo, ta produkuje čipové sady a licencuje svoji technologii dalším firmám. </p>
 <p>

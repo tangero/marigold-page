@@ -1,14 +1,23 @@
 ---
 ID: 129
-title: 'eBanka: ztrácení zpráv o&nbsp;ní mne zneklidňuje více, než klevety&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ebanka-ztraceni-zprav-o-ni-mne-zneklidnuje-vice-nez-klevety
-published: true
+oldlink: 'https://www.marigold.cz/item/ebanka-ztraceni-zprav-o-ni-mne-zneklidnuje-vice-nez-klevety
+
+  '
 post_date: 2003-03-01 09:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- eBanka fáma o problémech se šířila, autor ověřoval informace u známých a na fórech.
+- Technet zprávu o eBance smazal, později ji šéfredaktor Vreco obnovil.
+- iDNES a Fincentrum zprávu o eBance nezveřejnily, Měšec.cz odkazuje na tiskovou zprávu
+  eBanky.
+- Autor je znepokojen mizení informací o eBance z webů a hledá spolehlivou banku s
+  internet bankingem.
+title: 'eBanka: ztrácení zpráv o&nbsp;ní mne zneklidňuje více, než klevety&#8230;'
 ---
+
 <p>
 Včera se mne několik lidí ptalo, co je pravy na tom, že eBanka je v problémech, chystá se uzavírat atd. Obvolal jsem známé (maje v eBance účet), prošel jsem pár serverů, diskusních fór k tomu a nabyl jsem dojmu, že někdo si udělal "legraci" a pustil do světa fámu. Včera jsem v pohodě vyřídil pár bankovních operací a vyřídil dvě větší (předem plánované) platby a všechno jsem pustil z hlavy. </p>
 

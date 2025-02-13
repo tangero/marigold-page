@@ -1,14 +1,21 @@
 ---
 ID: 445
-title: 'Výpadek proudu na v&nbsp;oblasti Velkých jezer'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vypadek-proudu-na-v-oblasti-velkych-jezer
-published: true
+oldlink: 'https://www.marigold.cz/item/vypadek-proudu-na-v-oblasti-velkych-jezer
+
+  '
 post_date: 2003-08-15 18:08:00
+post_excerpt: ''
+published: true
+summary_points:
+- Výpadek elektřiny postihl včera oblast Velkých jezer a Východní pobřeží USA.
+- Upstreamy ujišťují o dostatku nafty v dýzlech a cisternách pro případné problémy.
+- Výpadek v USA může argumentovat proti jihočeským odpůrcům jaderné energie.
+- Větrníky nepovažuje autor za dostatečnou náhradu elektřiny, navíc hyzdí krajinu.
+title: Výpadek proudu na v&nbsp;oblasti Velkých jezer
 ---
+
 <p>
 Během včerejška došlo k výpadku elektrické energie v oblasti Velkých jezer a na kusu Východního pobřeží USA (<A href="http://edition.cnn.com/2003/US/08/14/blackout.glance.ap/index.html">CNN story</A>). Nechci spekulovat nad tím, zda se Skynet vymknul kontrole nebo šlo o úspěšný export know-how našich darkerů.</p>
 

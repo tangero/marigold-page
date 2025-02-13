@@ -1,14 +1,22 @@
 ---
 ID: 424
-title: ADSL drsně agregováno
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/adsl-drsne-agregovano
-published: true
+oldlink: 'https://www.marigold.cz/item/adsl-drsne-agregovano
+
+  '
 post_date: 2003-08-04 08:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom snížil rychlost ADSL agregací datového provozu, až o tři čtvrtiny.
+- Lupa.cz informuje o návrzích Telecomu na ADSL s rychlostmi 512/128 a 1024/256 kb/s.
+- Telecom zvažuje limity pro přenos dat 10/20 GB s možností dokoupení 10 GB za 300
+  Kč.
+- Mobil.iDNES.cz píše o výpadcích T-Zones a problémech s funkčností GPRS u T-Mobile.
+title: ADSL drsně agregováno
 ---
+
 <p>
 Minulý týden Český Telecom <STRONG>spouštěl agregaci datového provozu na ADSL linkách</STRONG>, což ve výsledku dramaticky srazilo rychlost. Někteří uživatelé hlásí až snížení rychlosti o tři čtvrtiny. Jak by ne, agregace 1:50 na nejlevnějších linkách umí s přenosovou rychlostí zacvičit. </p>
 

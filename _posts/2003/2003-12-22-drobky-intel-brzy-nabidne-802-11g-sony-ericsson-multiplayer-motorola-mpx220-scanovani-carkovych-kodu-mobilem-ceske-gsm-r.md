@@ -1,14 +1,22 @@
 ---
 ID: 755
-title: 'Drobky: Intel brzy nabídne 802.11g, Sony Ericsson multiplayer, Motorola MPx220, scanování čárkových kódů mobilem, české GSM-R.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-intel-brzy-nabidne-802-11g-sony-ericsson-multiplayer-motorola-mpx220-scanovani-carkovych-kodu-mobilem-ceske-gsm-r
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-intel-brzy-nabidne-802-11g-sony-ericsson-multiplayer-motorola-mpx220-scanovani-carkovych-kodu-mobilem-ceske-gsm-r
+
+  '
 post_date: 2003-12-22 09:35:00
+post_excerpt: ''
+published: true
+summary_points:
+- Intel nabídne podporu 802.11g v Centrino, očekáváno v prvním čtvrtletí 2004.
+- Sony Ericsson propaguje multiplayer hry Terraplay Move, konkurence pro Nokia N-Gage.
+- ScanBuy představil ScanZoom, aplikaci pro čtení čárových kódů fotoaparátem telefonu.
+- Dráhy mají dlouhodobé problémy s výběrem GSM-R sítě pro železniční dopravu.
+title: 'Drobky: Intel brzy nabídne 802.11g, Sony Ericsson multiplayer, Motorola MPx220,
+  scanování čárkových kódů mobilem, české GSM-R.'
 ---
+
 <p>
 Podle posledních informací objevujících se porůznu na internetu by měl Intel nabídnout podporu 802.11g v nejbližší době. Géčková varianta Centrina by se na trhu měla objevit v prvním čtvrtletí roku 2004. </p>
 

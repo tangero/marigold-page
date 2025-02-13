@@ -1,14 +1,21 @@
 ---
 ID: 706
-title: 'Tiscali a&nbsp;jeho WiFi (aneb Lupí příloha o&nbsp;WiFi)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tiscali-a-jeho-wifi-aneb-lupi-priloha-o-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/tiscali-a-jeho-wifi-aneb-lupi-priloha-o-wifi
+
+  '
 post_date: 2003-12-01 08:41:00
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa vydala komerční přílohu o WiFi, sponzorovanou firmou Tiscali.
+- Tiscali aktuálně provozuje čtyři WiFi hotspoty v Praze, Brně, Ostravě a Olomouci.
+- Tiscali plánuje rozšířit síť na 20 hotspotů v krajských městech a významných objektech.
+- Autor dříve Tiscali a GTS v přehledu hotspotů opomněl, nyní Tiscali doplní.
+title: Tiscali a&nbsp;jeho WiFi (aneb Lupí příloha o&nbsp;WiFi)
 ---
+
 <p>
 Lupa dneska vydala <A href="http://www.lupa.cz/wifi/" target=_blank>svoji přílohu</A> věnovanou WiFi, jde o přílohu komerční. Hádat, kdo si ji zaplatil, nemusíte věru dlouho, natvrdlejším napoví položka v nabídce WiFi u Tiscali. Což ovšem ničemu nevadí, ba právě naopak, protože WiFi u Tiscali pro mne dlouho byla velká neznámá. A tak doporučuji přečíst Rozhovor s Product Managerem <STRONG>Bohdanem Gembalou</STRONG> o TISCALI Wi-Fi (<A href="http://www.lupa.cz/wifi/rozhovor.html" target=_blank>Lupa zde</A>). </p>
 

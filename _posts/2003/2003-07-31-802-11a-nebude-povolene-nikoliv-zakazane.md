@@ -1,14 +1,21 @@
 ---
 ID: 422
-title: '802.11a nebude povolené, nikoliv zakázané&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/802-11a-nebude-povolene-nikoliv-zakazane
-published: true
+oldlink: 'https://www.marigold.cz/item/802-11a-nebude-povolene-nikoliv-zakazane
+
+  '
 post_date: 2003-07-31 12:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ nezakazuje, ale ani nepovoluje provoz zařízení 802.11a.
+- Provoz zařízení 802.11a je povolen pouze ve vnitřních prostorách.
+- Zařízení 802.11h je lepší než 802.11a díky DFS a TPC.
+- Evropské regulace povolují 802.11h/Hiperlan pro krátké vzdálenosti.
+title: 802.11a nebude povolené, nikoliv zakázané&#8230;
 ---
+
 <p>
 Dneska vyšly články věnované uvolnění pásma 5 GHz u nás <A href="http://www.zive.cz/h/Uzivatel/Ar.asp?ARI=111949&amp;CAI=2104" target=_blank>na Živě</A> a <A href="http://technet.idnes.cz/hw/hw_sit/ieee80211h030731.html" target=_blank>na Technetu</A>. Při té příležitosti jsem si povšiml nepatrného rozdílu ve tvrzeních - <STRONG>ČTÚ implicitně (zatím) nezakazuje provoz zařízení podle 802.11a, nicméně jej nepovoluje.</STRONG> </p>
 

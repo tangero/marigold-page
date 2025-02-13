@@ -1,14 +1,21 @@
 ---
 ID: 858
-title: 'První nalezená WiFi restaurace: Jáma'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prvni-nalezena-wifi-restaurace-jama
-published: true
+oldlink: 'https://www.marigold.cz/item/prvni-nalezena-wifi-restaurace-jama
+
+  '
 post_date: 2004-02-13 14:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Restaurace Jáma v ulici V Jámě nabízí WiFi zdarma pro své zákazníky.
+- WiFi funguje v nekuřáckém salonku restaurace Jáma, kde je i internetová kavárna.
+- Jáma nabízí levné polední menu (75 Kč) a personál rozumí WiFi technologii.
+- Webové stránky restaurace Jáma jsou dostupné na jamapub.cz.
+title: 'První nalezená WiFi restaurace: Jáma'
 ---
+
 <p>
 Dneska jsem našel první skutečnou restauraci, kde nabízejí WiFi. Já vím, existuje pár restaurací, kde WiFi nějakou shodou okolností chytnete například díky tomu, že je vedle nečí hotspot, nebo že tam hotspot zavedl Telecom (KFC, KávaKávaKáva), tohle je ale první restaurace, o které vím a která si sama vlastními silami zřídila WiFi hotspot pro své hosty. A ještě ke všemu zdarma. Jmenuje se Jáma a je v ulici V Jámě, kousek od Václaváku. </p>
 

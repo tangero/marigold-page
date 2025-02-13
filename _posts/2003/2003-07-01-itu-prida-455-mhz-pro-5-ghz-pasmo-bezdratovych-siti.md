@@ -1,16 +1,23 @@
 ---
 ID: 395
-title: >
-  ITU přidá 455 MHz pro 5 GHz pásmo
-  bezdrátových sítí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/itu-prida-455-mhz-pro-5-ghz-pasmo-bezdratovych-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/itu-prida-455-mhz-pro-5-ghz-pasmo-bezdratovych-siti
+
+  '
 post_date: 2003-07-01 09:48:00
+post_excerpt: ''
+published: true
+summary_points:
+- WRC-03 zasedání ITU dosáhlo dohody o harmonizaci 5 GHz frekvencí.
+- ITU přidělí 455 MHz v 5 GHz pásmu pro bezdrátové sítě.
+- MHz pásmo bude v Evropě pro indoor, v USA i outdoor.
+- MHz pásmo je volné pro vnitřní i venkovní použití.
+title: 'ITU přidá 455 MHz pro 5 GHz pásmo bezdrátových sítí
+
+  '
 ---
+
 <p>
 Měsíc trvající zasedání WRC-03 pod záštitou ITU skončilo nakonec dohodou mezi zástupci amerického FCC a EU o harmonizaci frekvencí v pásmu 5 GHz. ITU jako mezinárodní koordinátor frekvencí přidá celkem 455 MHz pro bezdrátové sítě v pásmu 5 GHz, ačkoliv určitým omezením se zde přeci jen nevyhneme. </p>
 

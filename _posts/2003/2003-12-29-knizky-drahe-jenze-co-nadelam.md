@@ -1,14 +1,23 @@
 ---
 ID: 764
-title: 'Knížky&#8230; drahé, jenže co nadělám&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/knizky-drahe-jenze-co-nadelam
-published: true
+oldlink: 'https://www.marigold.cz/item/knizky-drahe-jenze-co-nadelam
+
+  '
 post_date: 2003-12-29 00:36:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor nakoupil na Amazonu knihu Introduction to 3G Mobile Communications od Juha
+  Korhonena.
+- Knihy od Artech House jsou drahé, ale kvalitní a vysvětlují normy srozumitelně.
+- Český trh by těžko uživil kvalitní odbornou knihu s odpovídajícím honorářem pro
+  autora.
+- Autor vtipně doporučuje drahou výbavu do koupelny jako tip na dárek.
+title: Knížky&#8230; drahé, jenže co nadělám&#8230;
 ---
+
 <p>
 Bránil jsem se tomu dost dlouho, ale dneska jsem se v noci vydal na Amazon na nákup knih. Zasnil jsem se do druhého vydání výborné knihy <A href="http://www.amazon.com/exec/obidos/tg/detail/-/1580535070/ref=lpr_g_1/103-4779444-7871846?v=glance&amp;s=ebooks&amp;n=507846" target=_blank>Introduction to 3G Mobile Communications</A> od Juha Korhonen <EM>(</EM><A href="http://www.amazon.com/exec/obidos/stl/2V40QSUO50MX/103-4779444-7871846" target=_blank><EM>tady na Amazonu&#160;</EM></A><EM>ji můžete koupit se slevou 10%, případně se stejnou slevou GPRS Demystified - bohužel jsem tu slevu vygeneroval vlastním nákupem:)</EM>&#160;- sto dolarů bylo hned v pytli. Přihodil jsem několik dalších knížek a moje platební karta týraná už beztak vánoci, bude mít opravdu co dělat. </p>
 

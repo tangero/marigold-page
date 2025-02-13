@@ -1,14 +1,21 @@
 ---
 ID: 506
-title: 'Patria Direct umí obchodovat s&nbsp;akciemi na zahraničních burzách'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/patria-direct-umi-obchodovat-s-akciemi-na-zahranicnich-burzach
-published: true
+oldlink: 'https://www.marigold.cz/item/patria-direct-umi-obchodovat-s-akciemi-na-zahranicnich-burzach
+
+  '
 post_date: 2003-09-15 15:21:00
+post_excerpt: ''
+published: true
+summary_points:
+- Patria Direct umožňuje nově obchodování na zahraničních trzích online.
+- Poplatky Patria Direct za obchodování v USA jsou dražší než u Ameritrade.
+- Patria Direct nabízí méně služeb a horší zpravodajství než Ameritrade.
+- Autor preferoval Patrii dříve kvůli snadné dostupnosti pobočky.
+title: Patria Direct umí obchodovat s&nbsp;akciemi na zahraničních burzách
 ---
+
 Dneska jsem potřeboval poštelovat něco s akciemi na české burze a po dvou měsících jsem se zase přilogoval na svůj účet na Patria Direct. A dostalo se mi dvou překvapení. Tím prvním byl fakt, že můj bezpečnostní certifikát vypršel před třemi dny a nový se povaloval na poště dva týdny jako doporučená zásilka pod mým oblíbeným heslem "když to nějaká buzerant neumí poslat obyčejně, tak si pro to nepůjdu", než ho pošta poslala zpět. To jsem si naběhl na vlastní vidle neochoty chodit doma na poštu :) 
 <p>
 Druhá a pro většinu zájemco podstatnější finta, je <STRONG>možnost přes Patria Direct nakupovat i na zahraničních trzích skrze internet,</STRONG> tedy za nižší poplatky a interaktivně. Mezi českou burzu tak přibyl americký Amex, Nasdaq a Nyse, z dalších bych jmenoval německou Xetru, švýcarský Virtx a londýnskou burzu, jsou tu i nějaké menší burzy které jsem nikdy nezkoušel jako Belgie, Francie. Veselé je, že už koncem minulého roku mi pod rouškou zpovědního tajemství operátorka callcentra Patrie sdělovala, že nákup akcií na zahraničních trzích po netu zavedou co nevidět, ještě do konce roku 2002. Nestihli to. 

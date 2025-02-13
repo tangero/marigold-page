@@ -1,14 +1,22 @@
 ---
 ID: 562
-title: NetPhone 210 od Faynu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/netphone-210-od-faynu
-published: true
+oldlink: 'https://www.marigold.cz/item/netphone-210-od-faynu
+
+  '
 post_date: 2003-10-07 12:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- NetPhone 210 je IP telefon od Fayn, který nepotřebuje zapnutý počítač.
+- NetPhone 210 nabízí poštovního klienta, Jabber, NetMeeting, kalkulačku a telefonní
+  seznam.
+- Fayn na Invexu nezveřejnil cenu NetPhone 210.
+- Fayn nenabízí příchozí telefonní číslo, což službu činí nepoužitelnou.
+title: NetPhone 210 od Faynu
 ---
+
 <p>
 Provozovatel IP telefonie Fayn představil na Invexu dlouho slibovaný telefon NetPhone 210 a hned za něj slíznul Křišťálový disk. <STRONG>NetPhone 210 je IP telefon</STRONG> (určený pro Fayn síť), který nepotřebuje pro svůj provoz zapnutý počítač, vystačí si s internetovým připojením. </p>
 

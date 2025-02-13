@@ -1,14 +1,21 @@
 ---
 ID: 461
-title: 'T-Mobile vylepšuje SIM a&nbsp;T-Zones. První pozdě, druhé málo.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/t-mobile-vylepsuje-sim-a-t-zones-prvni-pozde-druhe-malo
-published: true
+oldlink: 'https://www.marigold.cz/item/t-mobile-vylepsuje-sim-a-t-zones-prvni-pozde-druhe-malo
+
+  '
 post_date: 2003-08-27 13:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nové SIM karty T-Mobile podporují dvě bankovní aplikace současně, jako Eurotel.
+- JavaCard podpora je nová u SIM karet T-Mobile, ale zatím bez využití.
+- T-Mobile by měl odstranit reklamy z webu SMS brány T-Zones.
+- SMS brána T-Zones by měla mít telefonní seznam a archiv SMS zpráv.
+title: T-Mobile vylepšuje SIM a&nbsp;T-Zones. První pozdě, druhé málo.
 ---
+
 <p>
 Na <A href="http://www.einstein.cz/aktuality/?id=153" target=_blank>serveru Einstein</A> jsem našel zprávu <STRONG>o nových SIM kartách T-Mobile</STRONG>. Hlavní výhodou je možnost nahrát si dvě bankovní aplikace najednou od různých bank. To zatím uměly jen SIM karty Eurotelu - u Oskara to nevím jistě, nezkoušel jsem to, zřejmě umí jen jednu banku. T-Mobile tak v možnosti nahrát si na SIM kartu více bankovních služeb Eurotel konečně dotáhl. Vypadá to komicky, že by to někdo mohl potřebovat, ale pokud máte firemní a soukromý účet u dvou bank (což při dnešním tempu krachu bank není nic nerozumného), asi jste narazili na podobný problém jako já - u T-Mobile se zatím více bank nevešlo. Teď jde, kartu si musíte vyměnit. Nyní je také možné na SIM kartě mít k bankovnictví službu Locator.</p>
 

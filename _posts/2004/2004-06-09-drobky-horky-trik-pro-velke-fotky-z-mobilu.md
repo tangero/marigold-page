@@ -1,14 +1,21 @@
 ---
 ID: 1138
-title: 'Drobky: horký trik pro velké fotky z&nbsp;mobilu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-horky-trik-pro-velke-fotky-z-mobilu
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-horky-trik-pro-velke-fotky-z-mobilu
+
+  '
 post_date: 2004-06-09 08:48:59
+post_excerpt: ''
+published: true
+summary_points:
+- Digital photography hacks kniha učí dělat velké fotky i mizerným mobilem.
+- WiMAX článek Rity Pužmanové na Lupě popisuje poslední vývoj technologie.
+- Mobil.cz článek se věnuje mobilním píchačkám s GPS pro evidenci docházky.
+- Apple AirPort Express distribuuje hudbu z počítače přes WiFi síť.
+title: 'Drobky: horký trik pro velké fotky z&nbsp;mobilu'
 ---
+
 <p>
 Vyšla kniha <b>Digital photography hacks</b> - a zaujala mne vzorová kapitola, která píše, jak udělat i z mizerného mobilu velké fotky. Třeba panoramata. Popis celého triku najdete v tomto <a href="http://www.oreilly.com/catalog/digphotohks/chapter/hack82.pdf">PDF souboru</a> (je to demokapitola).</p>
 

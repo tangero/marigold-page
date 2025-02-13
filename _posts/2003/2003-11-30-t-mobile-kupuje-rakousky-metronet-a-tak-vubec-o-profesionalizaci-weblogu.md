@@ -1,14 +1,22 @@
 ---
 ID: 705
-title: 'T-Mobile kupuje rakouský Metronet (a&nbsp;tak vůbec o&nbsp;profesionalizaci weblogů)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/t-mobile-kupuje-rakousky-metronet-a-tak-vubec-o-profesionalizaci-weblogu
-published: true
+oldlink: 'https://www.marigold.cz/item/t-mobile-kupuje-rakousky-metronet-a-tak-vubec-o-profesionalizaci-weblogu
+
+  '
 post_date: 2003-11-30 20:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile Rakousko koupil Metronet, největšího rakouského provozovatele WiFi hotspotů.
+- Wifinetnews sleduje autor od počátku a oceňuje jeho vývoj od blogu k webu.
+- Editor Wifinetnews Nancy Gohring přidává příliš mnoho obecných WiFi zpráv.
+- Autor preferuje osobní weblog s občasnými příspěvky hostů, ne placeného editora.
+title: T-Mobile kupuje rakouský Metronet (a&nbsp;tak vůbec o&nbsp;profesionalizaci
+  weblogů)
 ---
+
 <p>
 Na WiFiNetNews Glenna Fleishmana vyšlo zpozornění na akvizici rakouského provozovatele <STRONG>WiFi hotspotů, firmy Metronet společností T-Mobile Rakousko</STRONG>. Metronet je prakticky největší rakouský WiFi operátor, provozuje 300 hotspotů a s T-Mobile Austria se kamarádil již dříve, když klientům T-Mobile poskytoval WiFi přes účetní roaming. Tisková zpráva <A href="http://content.metronet.at/?detail=1605" target=_blank>Metronetu v němčině je zde</A>, za kolik se to prodalo, se neví. Nicméně není to špatná zpráva, mohla by povzbudit stavitele českých hotspotů k tomu, aby také napráskali pár stovek hotspotů v zajímavých lokalitách a pak poslali do T-Mobile svoji finanční nabídku :)</p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 741
-title: >
-  ČTÚ odpovídá na moje brblání nad
-  megadotazníkem
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctu-odpovida-na-moje-brblani-nad-megadotaznikem
-published: true
+oldlink: 'https://www.marigold.cz/item/ctu-odpovida-na-moje-brblani-nad-megadotaznikem
+
+  '
 post_date: 2003-12-15 11:17:00
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ reagoval na autorův článek o rozsáhlém dotazníku pro telekomunikační firmy.
+- Statistické výkazy ČTÚ schvaluje Český statistický úřad a jsou součástí zákona.
+- Povinnost výkazů vychází ze zákona o telekomunikacích a státní statistické službě.
+- Data slouží ČSÚ, ČTÚ, mezinárodním organizacím a pro výpočty podílů na trhu.
+title: 'ČTÚ odpovídá na moje brblání nad megadotazníkem
+
+  '
 ---
+
 <p>
 Nedávno jsem si tu <A href="/zprava.html?id=25785">povzdechnul nad megadotazníkem</A>, který mi přišel z ČTÚ a který musí vyplnit každý držitel licencí na provozování telekomunikačních služeb. A z ČTÚ mi nedávno přišlo vyjádření - na článek se nějak dostali a tak se mi rozhodli vysvětlit, že nejde o byrokratickou obstrukci. To jsem ostatně ani tak netvrdil, spíš mne mrzelo, že nelze jednoduše dotazník zodpovědět tak, že jsme ještě nezačali poskytovat telekomunikační služby <EM>(a Ariga ani jen tak nezačne, byl to dávný nápad)</EM> a tudíž není co do dotazníku uvést. Místo toho jsem ho musel poctivě povyplňovat nulami. Odpověď je hojně prošpikovaná paragrafy, takže ji nebudu publikovat celou, jen výtažky toho nejpodstatnějšího (tedy pokud nepotřebujete ty paragrafy):</p>
 

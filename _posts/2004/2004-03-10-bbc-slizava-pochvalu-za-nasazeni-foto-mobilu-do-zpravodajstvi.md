@@ -1,16 +1,23 @@
 ---
 ID: 909
-title: >
-  BBC slízává pochvalu za nasazení
-  foto-mobilů do zpravodajství
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bbc-slizava-pochvalu-za-nasazeni-foto-mobilu-do-zpravodajstvi
-published: true
+oldlink: 'https://www.marigold.cz/item/bbc-slizava-pochvalu-za-nasazeni-foto-mobilu-do-zpravodajstvi
+
+  '
 post_date: 2004-03-10 09:08:00
+post_excerpt: ''
+published: true
+summary_points:
+- BBC vybavila reportéry telefony pro posílání fotek a videí přímo z terénu.
+- Forbes chválil BBC za rychlé pokrytí nehody autobusu díky mobilnímu reportérovi.
+- BBC používala upravené Nokie 3650 a přechází na 3G telefony pro delší videa.
+- iDNES a Právo také nasadily mobily do zpravodajství, kvalita fotek se zlepšuje.
+title: 'BBC slízává pochvalu za nasazení foto-mobilů do zpravodajství
+
+  '
 ---
+
 <p>
 BBC se vloni odhodlala k zajímavému kroku - vybavila čtyřicítků svých reportérů telefony a vybudovala systém pro příjem zpráv pomocí&#160;foto-telefonů - reportéři tak mohou posílat jak fotky, tak dokonce video přímo z mobilu do BBC. Už vloni, při návštěvě Bushe v Británii s tím <A href="http://www.cyberjournalist.net/news/000793.php" target=_blank>sklízeli úspěchy,</A> protože reportéři s mobilem byli nenápadní, všude se vmáčkli a fotku byly schopni ihned odeslat do redakce. </p>
 

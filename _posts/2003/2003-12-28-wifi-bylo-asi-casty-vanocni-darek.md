@@ -1,16 +1,23 @@
 ---
 ID: 762
-title: >
-  WiFi bylo asi častý vánoční dárek
-  :)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-bylo-asi-casty-vanocni-darek
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-bylo-asi-casty-vanocni-darek
+
+  '
 post_date: 2003-12-28 09:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vánoce trávili v Chotěboři, kde řešili problém s mrazem v lednici.
+- Dita pracovala s notebookem, autor ripoval hudbu do WMA kvůli placenému MP3.
+- Počítač odhalil náhlý nárůst objednávek na WiFi knihu po Vánocích.
+- Autor doporučuje Web2RSS pro RSS kanály a TetriNet pro online Tetris.
+title: 'WiFi bylo asi častý vánoční dárek :)
+
+  '
 ---
+
 <p>
 Vánoce jsme přežili daleko od Prahy, v Chotěboři. Namísto davů lidí a šňůry aut, jaké by nás čekaly v Praze, je Chotěboř klidné městečko především se spoustou sněhu (oproti Praze tutově). Ačkoliv i zde bylo třeba řešit několik problémů. Kupříkladu ten, jak uchovávat potraviny v ledničce, která stojí v místnosti, kde panují teploty mínus deset a přitom je potřeba, aby ty potraviny nezmrzly. Kupodivu je to problém, protože u ledničky se obvykle předpokládá, že bude chladit, ne že bude hřát. Nejdříve jsem přišel na to, že bych mohl do ledničky zabouchnout svíčku, pak se ale jako nejlepší kompromis ukázalo sežrat nejdříve všechno, co nesmělo v ledničce zmrznout. Háleluja, to byl štědrý večer :)</p>
 

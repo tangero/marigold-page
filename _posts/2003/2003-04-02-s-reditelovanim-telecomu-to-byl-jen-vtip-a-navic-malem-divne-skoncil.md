@@ -1,14 +1,21 @@
 ---
 ID: 217
-title: 'S ředitelováním Telecomu to byl jen vtip a&nbsp;navíc málem divně skončil&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/s-reditelovanim-telecomu-to-byl-jen-vtip-a-navic-malem-divne-skoncil
-published: true
+oldlink: 'https://www.marigold.cz/item/s-reditelovanim-telecomu-to-byl-jen-vtip-a-navic-malem-divne-skoncil
+
+  '
 post_date: 2003-04-02 11:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- Kandidatura na šéfa Telecomu vznikla aprílovým žertem na Mobil.cz od Vreca.
+- Novinář volal autorovi textu ohledně kandidatury, autor mu poskytl "komplexní výklad".
+- Mobil.cz aprílem o prodeji Eurotelu ovlivnil i analytické firmy a další servery.
+- Haló noviny převzaly zprávu o prodeji Eurotelu jako "informaci z otevřených zdrojů".
+title: S ředitelováním Telecomu to byl jen vtip a&nbsp;navíc málem divně skončil&#8230;
 ---
+
 <p>
 Pokud jste včera četli Mobil.cz nebo Marigolda, možná jste si té zprávičky o mé kandidatuře na post šéfa Českého Telecomu všimli. Původně to ani nebyl můj vtípek a tím taky začal problém. </p>
 

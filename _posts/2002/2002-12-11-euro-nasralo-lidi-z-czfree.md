@@ -1,14 +1,21 @@
 ---
 ID: 11
-title: 'Euro nasralo lidi z&nbsp;CzFree&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/euro-nasralo-lidi-z-czfree
-published: true
+oldlink: 'https://www.marigold.cz/item/euro-nasralo-lidi-z-czfree
+
+  '
 post_date: 2002-12-11 21:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Euro článek mylně spojil CzFree s warchalkingem, což vyvolalo reakci.
+- Autor článku Euro opakovaně zaměňuje komunitní WiFi sítě a warchalkery.
+- Euro se k chybě v článku explicitně nevyjádřilo, pouze ji zamaskovalo.
+- Diskusní fórum CzFree Net obsahovalo přitroublé komentáře o článku Euro.
+title: Euro nasralo lidi z&nbsp;CzFree&#8230;
 ---
+
 Kdybych řekl, že Euro zdvihl lidem kolem CzFree mandle, bylo by to asi spisovné, ale málo výstižné. Článek Marka Rudolfa v Euru přitom o CzFree obsahoval jen několik málo řádek. Zato tak dokonale zmatených, že to nešlo přehlédnout. 
 <p>
 Inkriminovaná pasáž článku <A href="http://online.euro.cz/id/ncxm77ltwz/detail.jsp?id=47624" target=_blank>Eterický web</A> zněla:<EM> &#8222;Nebyli bychom Čechy, kdyby se už v Praze, Brně, Olomouci a Plzni nehoufovaly skupiny amatérských průzkumníků, kteří se snaží buď loupit signál TransgasNetu, VŠCHT a jiných institucí, nebo amatérsky tvořit vlastní bezdrátové minisítě. Založily si webovou stránku (www.czfree.cz), kde se dělí o výsledky svých pátrání po vysílačích a do budoucna jistě připraví i partizánskou mapu možností bezplatného připojení.&#8220;</EM> 

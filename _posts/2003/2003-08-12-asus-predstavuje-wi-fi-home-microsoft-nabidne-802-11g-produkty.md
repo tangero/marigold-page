@@ -1,16 +1,25 @@
 ---
 ID: 441
-title: >
-  Asus představuje Wi-Fi@Home. Microsoft
-  nabídne 802.11g produkty
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/asus-predstavuje-wi-fi-home-microsoft-nabidne-802-11g-produkty
-published: true
+oldlink: 'https://www.marigold.cz/item/asus-predstavuje-wi-fi-home-microsoft-nabidne-802-11g-produkty
+
+  '
 post_date: 2003-08-12 08:56:00
+post_excerpt: ''
+published: true
+summary_points:
+- ASUS představil Wi-Fi@HOME, platformu pro domácí WLAN s deskou, kartou a Software
+  AP.
+- 'Microsoft chystá WiFi produkty 802.11g: směřovač, PCMCIA kartu, PCI adaptér a notebookový
+  kit.'
+- Microsoft MN-740 bude bezdrátový adaptér pro X-Box s čipem Broadcom od Acctonu.
+- Informace o Microsoft produktech unikly z online databáze FCC.
+title: 'Asus představuje Wi-Fi@Home. Microsoft nabídne 802.11g produkty
+
+  '
 ---
+
 <p>
 Společnost <A href="http://www.asus.com.tw/">ASUSTeK Computer Inc.</A> představila novou platformu pro budování domácích bezdrátových sítí WLAN. Projekt <STRONG>pod značkou ASUSu nese označení Wi-Fi@HOME</STRONG> a sestává ze tří částí: základní desky od stejnojmenné značky s Wi-Fi slotem, kartou WiFi-b WLAN a přístupovým bodem Software AP. Zdroj a podrobnosti: <A href="http://www.zive.cz/h/Bleskovky/AR.asp?ARI=112093&amp;CAI=2097&amp;HID=19" target=_blank>Živě</A>.</p>
 

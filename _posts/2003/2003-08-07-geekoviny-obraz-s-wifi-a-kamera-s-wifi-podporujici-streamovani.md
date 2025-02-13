@@ -1,14 +1,22 @@
 ---
 ID: 429
-title: 'Geekoviny: Obraz s&nbsp;WiFi a&nbsp;kamera s&nbsp;WiFi podporující streamování'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/geekoviny-obraz-s-wifi-a-kamera-s-wifi-podporujici-streamovani
-published: true
+oldlink: 'https://www.marigold.cz/item/geekoviny-obraz-s-wifi-a-kamera-s-wifi-podporujici-streamovani
+
+  '
 post_date: 2003-08-07 13:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Wallflower je LCD obraz s WiFi, zobrazující fotky nahrané z počítače, za cenu 700
+  dolarů.
+- Toshiba IK-WB11a je WiFi kamera streamující video v kvalitě 1280x960 s SD slotem.
+- Toshiba chystá pro kameru dynamické DNS a unikátní URL, plus placený 400 GB prostor.
+- Cena kamery Toshiba IK-WB11a je 800 USD.
+title: 'Geekoviny: Obraz s&nbsp;WiFi a&nbsp;kamera s&nbsp;WiFi podporující streamování'
 ---
+
 <p>
 První hezká hračka je vlastně <STRONG>starší nápad použít LCD displej jako obraz do místnosti</STRONG> - tedy jako obraz v rámu a do obrazu si z počítače nahrajete nějaké fotky, které obraz zobrazuje (trvale, nebo je střídá atd). Wallflower je obraz o úhlopříčce 12 palců, kam fotky posíláte přes WiFi. Za takovou hezkou ptákovinu můžete utratit cca 700 dolarů. Bližší info v češtině <A href="http://www.bloguje.cz/blogy/gadgets/3158_item.php" target=_blank>na Gadgets</A>.</p>
 

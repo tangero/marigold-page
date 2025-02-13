@@ -1,14 +1,22 @@
 ---
 ID: 767
-title: 'Drobky: RSS pro MS Smartphone, vylepšení antén u&nbsp;APčka, dolarový EDGE upgrade atd&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-rss-pro-ms-smartphone-vylepseni-anten-u-apcka-dolarovy-edge-upgrade-atd
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-rss-pro-ms-smartphone-vylepseni-anten-u-apcka-dolarovy-edge-upgrade-atd
+
+  '
 post_date: 2003-12-30 10:44:00
+post_excerpt: ''
+published: true
+summary_points:
+- Smartphone RSS je čtečka RSS zdarma pro MS Smartphone 2003 telefony.
+- Parabolický štít vylepšuje antény access pointu a zvyšuje jejich sektorovost.
+- EDGE upgrade z GSM/GPRS stojí operátory typicky 1-2 dolary na osobu.
+- České noviny připomínají tištěnou kategorii českých weblogů s obsahem z internetu.
+title: 'Drobky: RSS pro MS Smartphone, vylepšení antén u&nbsp;APčka, dolarový EDGE
+  upgrade atd&#8230;'
 ---
+
 <p>
 Vstával jsem trochu později, přeci jen jsem včera nad počítačem seděl hluboko do noci. A přináším takřka obvyklou směsici internetových drobností, které mne po ránu (no, už je skoro jedenáct, já vím) zaujaly:</p>
 

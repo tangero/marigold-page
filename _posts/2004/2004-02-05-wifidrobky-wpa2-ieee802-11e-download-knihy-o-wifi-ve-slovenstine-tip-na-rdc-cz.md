@@ -1,14 +1,23 @@
 ---
 ID: 835
-title: 'WiFidrobky: WPA2, IEEE802.11e, download knihy o&nbsp;WiFi ve slovenštině, tip na RDC.cz'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifidrobky-wpa2-ieee802-11e-download-knihy-o-wifi-ve-slovenstine-tip-na-rdc-cz
-published: true
+oldlink: 'https://www.marigold.cz/item/wifidrobky-wpa2-ieee802-11e-download-knihy-o-wifi-ve-slovenstine-tip-na-rdc-cz
+
+  '
 post_date: 2004-02-05 10:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- WPA2 bezpečnostní standard od Wi-Fi Alliance má vyřešit problémy původního WPA.
+- IEEE 802.11e standard doplní QoS do WiFi sítí pro aplikace náročné na spolupráci.
+- Výrobci odkládají 5GHz WiFi zařízení kvůli nejednotnosti Evropy ohledně 802.11h.
+- Slovenský překlad knihy Bezdrátové komunitní sítě je zdarma na SkFree.Net.
+- RDC.cz nabízí seriál o Bluetooth a tutoriály pro Symbian a J2ME aplikace.
+title: 'WiFidrobky: WPA2, IEEE802.11e, download knihy o&nbsp;WiFi ve slovenštině,
+  tip na RDC.cz'
 ---
+
 <p>
 Wi-Fi Alliance připravuje <STRONG>bezpečnostní standard WPA 2</STRONG>, standard by měl projít v polovině tohoto roku a měl by zavřít některé problémy, které se objevily s původním WPA. Podrobněji česky <A href="http://technet.idnes.cz/zprava.html?zprava=26936" target=_blank>Technet</A> a anglicky <A href="http://www.theregister.co.uk/content/69/35332.html" target=_blank>The Register</A>.</p>
 

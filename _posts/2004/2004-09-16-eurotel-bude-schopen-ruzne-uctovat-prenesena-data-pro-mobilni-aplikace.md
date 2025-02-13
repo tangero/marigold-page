@@ -1,16 +1,26 @@
 ---
 ID: 1323
-title: >
-  Eurotel bude schopen různě účtovat
-  přenesená data pro mobilní aplikace
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-bude-schopen-ruzne-uctovat-prenesena-data-pro-mobilni-aplikace
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-bude-schopen-ruzne-uctovat-prenesena-data-pro-mobilni-aplikace
+
+  '
 post_date: 2004-09-16 07:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel implementuje ECS od NetSpiry pro diferencované účtování datových přenosů
+  dle aplikace.
+- ECS umožní Eurotelu účtovat Live! portál, MMS a videostreaming různě přes jednotné
+  připojení.
+- Zpráva nevěstí konec GPRS paušálů, ale zjednodušení plateb za mobilní obsah Eurotelu.
+- ECS je určen pro účtování mobilních aplikací, nikoliv primárně internetového provozu
+  přes GPRS.
+title: 'Eurotel bude schopen různě účtovat přenesená data pro mobilní aplikace
+
+  '
 ---
+
 <p>
 Eurotel podepsal smlouvu se španělskou firmou NetSpira na dodávku jejího řešení ECS platform (Enhanced Charging Solution). Díky integraci tohoto řešení do své sítě bude moci Eurotel různě účtovat ceny za datové přenosy podle typu aplikace, která tyto přenosy vyvolala. To je velmi důležité, protože například na GPRS v současné době jsou operátoři schopni účtování dělat rozdílně pouze pro různá APN, což uživatele otravuje - musí si různá APN nastavení vytvářet a není to pro něj pohodlné. Nový systém umožní nastavit jinou cenu i při stejném APN, takže například pro hraní online her bude možné používat stejné nastavení dat a přitom přenášet data za jinou cenu. </p>
 

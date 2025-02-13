@@ -1,14 +1,22 @@
 ---
 ID: 398
-title: 'Era nabídne digitální podpis mobilem, ADSL u&nbsp;Telecomu začalo s&nbsp;prázdninami zlobit'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/era-nabidne-digitalni-podpis-mobilem-adsl-u-telecomu-zacalo-s-prazdninami-zlobit
-published: true
+oldlink: 'https://www.marigold.cz/item/era-nabidne-digitalni-podpis-mobilem-adsl-u-telecomu-zacalo-s-prazdninami-zlobit
+
+  '
 post_date: 2003-07-02 08:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Polský operátor Era nabízí digitální podpis pomocí mobilního telefonu a SIM karty.
+- Uživatelé ADSL od Telecomu hlásí problémy s logováním na dashboard.
+- Analytici Forresteru předpovídají lepší prodejnost bluetooth, vyšší výdělky z WiFi.
+- Blog se možná přejmenuje na Marígold, v souladu s bloggerskými trendy.
+title: Era nabídne digitální podpis mobilem, ADSL u&nbsp;Telecomu začalo s&nbsp;prázdninami
+  zlobit
 ---
+
 <p>
 Digitální podpis je i u nás teoreticky a někdy i prakticky fungující věc. <STRONG>Polský operátor Era přišel s řešením digitálního podpisu</STRONG> a certifikátu <STRONG>pomocí mobilního telefonu</STRONG>. Digitální podpis používá Public Key Infrastructure a tajný klíč je uložený na SIM, přičemž certifikace transakce je prováděna mobilním telefonem velmi jednoduše tak, že si z počítače vyžádáte podepsání odesílaného dokumentu a vše se automaticky provede skrze váš mobilní telefon. Do budoucna se počítá i se šifrováním dokumentů a šifrováním přístupu do intranetu atd. Je to hezká služba pro lidi kteří se nechtějí zabývat normálními elektronickými podpisy, s nimiž je o málo více práce. Ještě ale, že nevím, kolik tato služba stojí :) Zdroj: <A href="http://www.cellular-news.com/story/9177.shtml" target=_blank>Cellular-News</A>.</p>
 

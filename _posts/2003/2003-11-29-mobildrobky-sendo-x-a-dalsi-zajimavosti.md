@@ -1,14 +1,25 @@
 ---
 ID: 703
-title: 'Mobildrobky: Sendo X a&nbsp;další zajímavosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobildrobky-sendo-x-a-dalsi-zajimavosti
-published: true
+oldlink: 'https://www.marigold.cz/item/mobildrobky-sendo-x-a-dalsi-zajimavosti
+
+  '
 post_date: 2003-11-29 15:36:00
+post_excerpt: ''
+published: true
+summary_points:
+- ISDN článek pojednává o rozmáhajícím se bezlicenčním bezdrátovém připojení (Unlicensed
+  Broadband Wireless).
+- ComputerWorld inzeruje celosvětové satelitní připojení Inmarsat Regional BGAN, ale
+  bez českých prodejních informací.
+- ComputerWorld testoval captcha metody pro redukci spamu a automatického vytváření
+  účtů.
+- Sendo představilo chytrý model X na setkání vývojářů mobilů v Británii (AAS Pub
+  Meeting).
+title: 'Mobildrobky: Sendo X a&nbsp;další zajímavosti'
 ---
+
 <p>
 Na ISDN serveru <A href="http://www.isdn.cz/clanek.php?cid=5373" target=_blank>najdete hezký článek</A> o rozmáhajícím se připojování lidí přes bezlicenční pásma - <STRONG>Unlicensed Broadband Wireless</STRONG>. Doporučuji si ho přečíst, je krátký, ale pro přehled dobrý. </p>
 

@@ -1,14 +1,20 @@
 ---
 ID: 70
-title: 'Dynamická IP adresa u&nbsp;UPC Mistrál je už fakt dynamická'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dynamicka-ip-adresa-u-upc-mistral-je-uz-fakt-dynamicka
-published: true
+oldlink: 'https://www.marigold.cz/item/dynamicka-ip-adresa-u-upc-mistral-je-uz-fakt-dynamicka
+
+  '
 post_date: 2003-02-03 09:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- UPC Mistral dříve přiděloval IP adresy dynamicky, ale s chováním blízkým statickému.
+- Konflikty IP adres vedly UPC k dynamickému přidělování IP adres na několik dní.
+- Řešením pro stálou IP je platba 200 Kč měsíčně u UPC Mistral.
+title: Dynamická IP adresa u&nbsp;UPC Mistrál je už fakt dynamická
 ---
+
 <p>
 Poměrně dlouho měl DHCP server kabelového internetu UPC Mistral benevolentní vztah k přidělování dynamicky generovaných IP adres. Většinou adresu přidělil a nechal vám ji do skonání světa nebo síťové karty. V podstatě se dalo říct, že jde o adresu statickou a hodně lidí se k ní tak chovalo - natvrdo ji zadávali do hardwarových routerů, kteří si jinak s dynamickou adresou těžko uměly poradit a nenačítali ji (proč to na Mistralu nešlo, o tom se vedou velké spekulace).</p>
 

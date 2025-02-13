@@ -1,14 +1,21 @@
 ---
 ID: 419
-title: 'Zamysleme se nad investicemi do UMTS u&nbsp;nás&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zamysleme-se-nad-investicemi-do-umts-u-nas
-published: true
+oldlink: 'https://www.marigold.cz/item/zamysleme-se-nad-investicemi-do-umts-u-nas
+
+  '
 post_date: 2003-07-30 15:09:00
+post_excerpt: ''
+published: true
+summary_points:
+- Stát potřebuje peníze a rychlý start UMTS není jeho prioritou.
+- Eurotel zvažuje levnější technologie jako EDGE a CDMA místo UMTS.
+- Oskar nemá finanční prostředky a nevidí v UMTS výnosný byznys.
+- Radiomobil šetří a sleduje konkurenci kvůli finanční situaci T-Mobile.
+title: Zamysleme se nad investicemi do UMTS u&nbsp;nás&#8230;
 ---
+
 <p>
 <STRONG>Marigoldí kamarád píše:</STRONG></p>
 

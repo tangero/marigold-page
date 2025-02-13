@@ -1,14 +1,21 @@
 ---
 ID: 320
-title: 'Stěhujeme se a&nbsp;tak mám na pilno'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/stehujeme-se-a-tak-mam-na-pilno
-published: true
+oldlink: 'https://www.marigold.cz/item/stehujeme-se-a-tak-mam-na-pilno
+
+  '
 post_date: 2003-05-27 14:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Cinetik se stěhuje, protože původní prostory nevyhovují kanceláři a expedici DVD.
+- Bořík hledal levné prostory, například šatny za 3000 Kč měsíčně.
+- Garáže jako kancelář byly zamítnuty kvůli špatnému přístupu a vzhledu.
+- Stěhování bude do budovy Armabetonu (Lumira) na Pankráci.
+title: Stěhujeme se a&nbsp;tak mám na pilno
 ---
+
 <p>
 Cinetik se nám rozrostl a původní prostory přestaly vyhovovat, neboť jsou spíše pro prodejnu, než pro kancelář a expedici DVD. A tak se musíme přestěhovat. Což má za následek, že při běžném provozu ještě stěhujeme a já mám na Marigolda málo času. </p>
 

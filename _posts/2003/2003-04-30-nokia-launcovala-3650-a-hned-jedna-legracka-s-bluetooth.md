@@ -1,14 +1,21 @@
 ---
 ID: 261
-title: 'Nokia launčovala 3650 a&nbsp;hned jedna legrácka s&nbsp;bluetooth'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-launcovala-3650-a-hned-jedna-legracka-s-bluetooth
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-launcovala-3650-a-hned-jedna-legracka-s-bluetooth
+
+  '
 post_date: 2003-04-30 09:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia uvedla na trh telefon Nokia 3650 s kulatým číselníkem.
+- JellySpot je klientský program pro telefony Nokia Series 60.
+- JellySpot posílá data do telefonu přes Bluetooth ze serveru.
+- Autor pochybuje o komerční uplatnitelnosti technologie JellySpot.
+title: Nokia launčovala 3650 a&nbsp;hned jedna legrácka s&nbsp;bluetooth
 ---
+
 <p>
 Nokia včera v klubu FX Radost <STRONG>uváděla na trh telefon Nokia 3650</STRONG>, to je ten s tím kulatým číselníkem. <EM>Moderně se říká launčovala, to je výraz ze vznešeného jazyka používaného marketingovými polobohy - podle marketingového náboženství je Launč otec Sukcesu. A tak, aby byl Sukces, musí být Launč.</EM> A na launči hodně papání a bumbání, vše bylo, protože Nokia je v tomto uznalá a nenechá novináře ani dealery na suchu. Dorazil jsem tam a ještě než bylo toho bumbání hodně, jsem stihl zachytit zajímavou technologii, o které nevím, co si mám myslet. A protože ty lidé stihli o ní říct jenom mně <EM>(pak už se tam všichni namazali a na technologii neměli náladu),</EM> bylo by nespravedlivé, abych to nenapsal. Navíc by mne zajímal váš názor. </p>
 

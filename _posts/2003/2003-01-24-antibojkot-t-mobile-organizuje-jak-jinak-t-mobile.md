@@ -1,16 +1,23 @@
 ---
 ID: 60
-title: >
-  Antibojkot T-Mobile organizuje, jak
-  jinak, T-Mobile
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/antibojkot-t-mobile-organizuje-jak-jinak-t-mobile
-published: true
+oldlink: 'https://www.marigold.cz/item/antibojkot-t-mobile-organizuje-jak-jinak-t-mobile
+
+  '
 post_date: 2003-01-24 00:45:00
+post_excerpt: ''
+published: true
+summary_points:
+- RadioMobil organizuje antibojkotní akci jako protiakci na plánovaný bojkot.
+- T-Mobile se snaží žehlit špatnou komunikaci touto antibojkotní akcí.
+- Mobil.cz odhalil organizování antibojkotu, což firmě způsobilo ostudu.
+- Autor článku sníží svůj tarif u T-Mobile kvůli zdražování služeb.
+title: 'Antibojkot T-Mobile organizuje, jak jinak, T-Mobile
+
+  '
 ---
+
 <p>
 V píár kruzích se o tom šuškalo už pár dní a já jsem si chvíli myslel, že do toho nikdo nešlápne. Ale je to venku, Mobil to provalil: <A href="http://www.mobil.cz/mobilni_komunikace/operatori/sluzby/sluzby_tmobile/tmobileantibojkot030124.html" target=_blank>Antibojkot? To jen T-Mobile žehlí špatnou komunikaci</A>. Co? Fakt, že <STRONG>RadioMobil organizuje antibojkotní akci</STRONG>, tedy jakousi protiakci bojkotu, který chystají uživatelé T-Mobile na 28. ledna odměnou za četná zdražování. Samozřejmě ji neorganizuje na své triko, ale nechává za sebe hovořit <EM>"spokojeného&#160;a uvažujícího zákazníka"</EM> - pravděpodobně také zákazníka neexistujícího.&#160;Je to asi docela symbolické, že si ho musí firma vymyslet...</p>
 

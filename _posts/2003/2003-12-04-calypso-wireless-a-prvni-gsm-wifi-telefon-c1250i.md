@@ -1,14 +1,21 @@
 ---
 ID: 719
-title: 'Calypso Wireless a&nbsp;první GSM/WiFi telefon c1250i'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/calypso-wireless-a-prvni-gsm-wifi-telefon-c1250i
-published: true
+oldlink: 'https://www.marigold.cz/item/calypso-wireless-a-prvni-gsm-wifi-telefon-c1250i
+
+  '
 post_date: 2003-12-04 16:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- Calypso Wireless představil telefon kombinující triband GSM a WiFi 802.11b.
+- ASNAP technologie Calypso umožňuje plynulé přepínání mezi GSM/GPRS a WiFi sítěmi.
+- Telefon Calypso testován v sítích WIND, TIM, Nocable a T-Mobile USA.
+- Calypso chce ASNAP technologii licencovat, telefon je spíše průmyslový vzorek.
+title: Calypso Wireless a&nbsp;první GSM/WiFi telefon c1250i
 ---
+
 <p>
 <IMG height=259 alt="Calypso WiFi telefon" src="http://www.newswireless.net/images/articles/calypsophone.jpg" width=154 align=right border=1>Společnost Calypso Wireless představila svůj první telefon kombinující triband GSM a WiFi 802.11b. O telefonu se ví delší dobu, ale zatím nebyly fotky, jedna už je uvolněná na svět a tak ji tu máte. </p>
 

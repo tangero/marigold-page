@@ -1,14 +1,22 @@
 ---
 ID: 407
-title: ADSL pod palbou
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/adsl-pod-palbou
-published: true
+oldlink: 'https://www.marigold.cz/item/adsl-pod-palbou
+
+  '
 post_date: 2003-07-21 17:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- Czech On-Line kritizuje nestabilitu, výkon a spolehlivost systému service selection
+  dashboard.
+- Český Telecom má dle Czech On-Line vyřadit problematický dashboard z provozu.
+- Dashboard způsobuje mizernou kvalitu služeb pro ISP a koncové zákazníky.
+- Cílem je plnohodnotné připojení konkurující digitálním pevným okruhům.
+title: ADSL pod palbou
 ---
+
 <p>
 Po delším nespokojeném mručení ze strany ISP a AO nad "spolehlivostí" velkoobchodních&#160;ADSL služeb, jednomu z nich došla trpělivost. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 473
-title: 'Oskarovy MMS &#8211; velké překvapení se nekonalo'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oskarovy-mms-velke-prekvapeni-se-nekonalo
-published: true
+oldlink: 'https://www.marigold.cz/item/oskarovy-mms-velke-prekvapeni-se-nekonalo
+
+  '
 post_date: 2003-09-02 10:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar účtuje 9,50 Kč za MMS zprávu, podobně jako konkurence.
+- FotoPošta MMS umožňuje posílat MMS zprávy mezi telefony nebo na email.
+- MMS Studio od Oskara stojí 40 Kč měsíčně a nabízí 5MB prostoru.
+- T-Mobile má do konce září MMS za 2 Kč, což je levnější než SMS.
+title: Oskarovy MMS &#8211; velké překvapení se nekonalo
 ---
+
 <p>
 Oskar již <A href="http://www.oskarmobil.cz/services/mms/index.php" target=_blank>na svých stránkách zveřejnil </A>informace o MMS zprávách. Zásadní informace je cenová - za jednu <STRONG>MMS zprávu zaslanou na mobil zaplatíte 9,50 Kč</STRONG> - tedy zhruba stejně, jako u konkurence. Jenže T-Mobile je do konce září nabízí za 2 Kč, tedy zhruba za cenu SMS zprávy. </p>
 

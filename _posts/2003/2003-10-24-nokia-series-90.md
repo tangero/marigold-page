@@ -1,14 +1,21 @@
 ---
 ID: 608
-title: Nokia Series 90
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nokia-series-90
-published: true
+oldlink: 'https://www.marigold.cz/item/nokia-series-90
+
+  '
 post_date: 2003-10-24 08:40:00
+post_excerpt: ''
+published: true
+summary_points:
+- Series 90 je grafická nadstavba pro komunikátory Nokia, postavená na Symbianu 7.
+- Nokia 9310, nástupce 9210, bude mít Series 90, MMS, fotoaparát a GPRS.
+- Nokia chce Series 90 licencovat dalším firmám, cílí na plné klávesnice.
+- Trh s PDA nebyl pro Nokii prioritou, Symbian 6 neměl GPRS podporu.
+title: Nokia Series 90
 ---
+
 <p>
 Dnešní <A href="http://mobil.idnes.cz/zprava.html?zprava=25404" target=_blank>Mobil.cz</A> i <A href="http://www.mobilmania.cz/Bleskovky/AR.asp?ARI=105541" target=_blank>MobilMania</A> nakousli nové prostředí firmy Nokia Series 90, ale jen drobně, takže něco málo více informací. Především připomínám, že nokiácké produkty Series 60 a budoucně i 90 nejsou operačním systémem, ale jeho grafickou nadstavbou, operačním systémem je samozřejmě Symbian toho času ve verzi 7. </p>
 

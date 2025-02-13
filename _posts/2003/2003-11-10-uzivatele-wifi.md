@@ -1,14 +1,22 @@
 ---
 ID: 654
-title: Uživatelé WiFi
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/uzivatele-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/uzivatele-wifi
+
+  '
 post_date: 2003-11-10 17:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Kavárny WiFi využití je minimální, placené hotspoty jsou prakticky bez zájmu.
+- Hoteloví hosté preferují jednoduché WiFi připojení bez složitého zadávání údajů.
+- Jachtaři v přístavech jsou významní uživatelé WiFi kvůli bohatství a internetovému
+  hladu.
+- Američan provozující WiFi síť sdílel zkušenosti o reálném využití.
+title: Uživatelé WiFi
 ---
+
 <p>
 V souvislosti s Marigoldovým článkem o dostupnosti WiFi Telecomu jsem si vzpoměl na jednu&#160;poučnou příhodu.</p>
 

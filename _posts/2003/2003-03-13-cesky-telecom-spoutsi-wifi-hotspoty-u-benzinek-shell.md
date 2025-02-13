@@ -1,14 +1,21 @@
 ---
 ID: 164
-title: 'Český Telecom spoutší WiFi hotspoty u&nbsp;benzinek Shell'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-telecom-spoutsi-wifi-hotspoty-u-benzinek-shell
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-telecom-spoutsi-wifi-hotspoty-u-benzinek-shell
+
+  '
 post_date: 2003-03-13 15:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- Shell benzínky hostí 15 nových WiFi hotspotů Českého Telecomu.
+- Telecom rozšiřuje WiFi síť mimo prodejny Telepoint, celkem jich má 35.
+- Autor pochybuje o smyslu WiFi na benzínkách kvůli krátkému pobytu zákazníků.
+- Seznam WiFi hotspotů Českého Telecomu je dostupný na telecom.cz/wifi/lokality.php.
+title: Český Telecom spoutší WiFi hotspoty u&nbsp;benzinek Shell
 ---
+
 <p>
 Benzinové stanice Shell&#160;jsou další zastávkou Telecomu při šíření víry ve WiFi technologii. O patnáct hotspotů instalovaných právě na benzinkách Shell totiž rozšířil Český Telecom svoji nabídku WiFi lokalit. Až doposud až na jednu výjimku v pražské kavárně Platýz totiž Telecom nabízel WiFi připojení pouze v blízkosti svých prodejen <STRONG>Telepoint.</STRONG> Celkem tedy Telecom provozuje 35 hotspotů. </p>
 

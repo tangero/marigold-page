@@ -1,14 +1,21 @@
 ---
 ID: 681
-title: 'Tak jak jsme dopadli s&nbsp;Digital Access Index (DAI)?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-jak-jsme-dopadli-s-digital-access-index-dai
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-jak-jsme-dopadli-s-digital-access-index-dai
+
+  '
 post_date: 2003-11-19 16:43:00
+post_excerpt: ''
+published: true
+summary_points:
+- ITU publikovalo Digital Access Index (DAI) hodnotící dostupnost moderních technologií.
+- Jižní Korea se umístila čtvrtá v DAI indexu, za Švédskem, Dánskem a Islandem.
+- Slovinsko je jediná postkomunistická země v nejvyšší kategorii DAI indexu.
+- Česká republika je na 39. místě v DAI indexu s hodnotou 0.66.
+title: Tak jak jsme dopadli s&nbsp;Digital Access Index (DAI)?
 ---
+
 <p>
 ITU dneska <STRONG>publikovalo konkrétní čísla svého DAI ranku</STRONG>, tedy Digital Access Indexu, čísla vyjadřujícího dostupnost a rozšířenost moderních informačních a komunikačních technologií. S jeho sestavováním si vyhrál docela dlouho, takže to vypadá, že mu můžeme docela věřit, je publikovaná přesná metodika. DAI index hodnotí rozšíření infrastruktury, dostupnost internetu jako cenu vztaženou na HDP/hlava, znalost, kvalitu (celková zahraniční konektivita a procento broadband uživatelů) a nakonec procento uživatelů internetu. </p>
 

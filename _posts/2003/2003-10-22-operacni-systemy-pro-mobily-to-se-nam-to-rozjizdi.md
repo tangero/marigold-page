@@ -1,14 +1,23 @@
 ---
 ID: 604
-title: 'Operační systémy pro mobily &#8211; to se nám to rozjíždí'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/operacni-systemy-pro-mobily-to-se-nam-to-rozjizdi
-published: true
+oldlink: 'https://www.marigold.cz/item/operacni-systemy-pro-mobily-to-se-nam-to-rozjizdi
+
+  '
 post_date: 2003-10-22 08:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Sony Ericsson zůstává u Symbianu/UIQ, ale monitoruje situaci operačních systémů.
+- Sendo přešlo k Symbianu a představilo smartphone X s prostředím Now!.
+- Nokia optimalizuje PrismeXsys platformu pro Series 60 po Motorolině prodeji podílu
+  v Symbianu.
+- Dell zrušil plány na smartphone s Microsoftem, kritizujíc jeho neschopnost konkurovat
+  Symbianu.
+title: Operační systémy pro mobily &#8211; to se nám to rozjíždí
 ---
+
 <p>
 Není to tak dávno, co se na internetu objevily zprávy o tom, že Ericsson přemýšlí o tom, že by svoje smartphone převedl pod PalmOS místo dosavadního Symbianu a grafického prostředí UIQ. Situaci pak klidnilo až oficiální prohlášení Sony Ericsson o tom, že jeho smartphone dále budou na Symbianu/UIQ - ačkoliv se dá předpokládat, že SEr bedlivě monitoruje situaci v operačních systémech a je kdykoliv hotov k jakékoliv konverzi, pokud ho to udrží v černých číslech a pomůže mu to prodat dalších pár kusů a zároveň to neznehodnotí jeho Symbian investice. </p>
 

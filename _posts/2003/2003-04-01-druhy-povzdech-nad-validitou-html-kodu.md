@@ -1,14 +1,24 @@
 ---
 ID: 212
-title: Druhý povzdech nad validitou HTML kódu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/druhy-povzdech-nad-validitou-html-kodu
-published: true
+oldlink: 'https://www.marigold.cz/item/druhy-povzdech-nad-validitou-html-kodu
+
+  '
 post_date: 2003-04-01 12:44:00
+post_excerpt: ''
+published: true
+summary_points:
+- Faxování z počítače nepomohlo, protože autor potřeboval odeslat ručně vyplněný formulář
+  a kopii pasu.
+- Validita HTML kódu vyžaduje nejvíce práce u posledních chyb, například u znaku &amp;.
+- Autor preferuje aktualizaci obsahu před ruční opravou validity HTML, kterou považuje
+  za zbytečnou.
+- Autor argumentuje, že validní kód byl původně důležitý pro zařízení s omezenými
+  prohlížeči, což už neplatí.
+title: Druhý povzdech nad validitou HTML kódu
 ---
+
 <p>
 Když jsem včera sliboval dva povzdechy, dostalo se jen na jeden - na faxování přes Českou poštu. Jen připomínám, že faxování z počítače a po internetu by mi nepomohlo, protože jsem potřeboval ihned odeslat formulář vyplněný rukou a s podpisem a kopii pasu a neměl jsem tu scanner...</p>
 

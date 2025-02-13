@@ -1,14 +1,22 @@
 ---
 ID: 565
-title: 'Externí klávesnice pro Series60 telefony a&nbsp;Ser P800'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/externi-klavesnice-pro-series60-telefony-a-ser-p800
-published: true
+oldlink: 'https://www.marigold.cz/item/externi-klavesnice-pro-series60-telefony-a-ser-p800
+
+  '
 post_date: 2003-10-07 17:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- Pocketop je externí klávesnice připojitelná přes infraport k zařízením jako Palm,
+  PocketPC a Series60 telefony.
+- Klávesnice Pocketop je skládací, stojí 79 USD a výrobce ji prodává na pocketop.net.
+- Infraport umístění na telefonech může být problémem pro používání klávesnice.
+- Palmare.cz informuje o klávesnici s Bluetooth připojením.
+title: Externí klávesnice pro Series60 telefony a&nbsp;Ser P800
 ---
+
 <p>
 Tak tohle mi přijde hodně dobrá vychytávka pro případ, že máte chytrý mobilní telefon vybavený Series60 nebo Sony Ericsson P800. Jde totiž o externí klávesnici, kterou k nim můžete připojit. Jmenuje se Pocketop a připojuje se pomocí infračerveného portu. Díky tomu ji lze připojit k nejrůznějším zařízením včetně Palmů, PocketPC zařízení a nově i k chytrým telefonům vybaveným Series60 nebo UIQ (tam udávají jen P800 podporu). </p>
 

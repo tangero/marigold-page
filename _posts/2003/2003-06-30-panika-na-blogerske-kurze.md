@@ -1,14 +1,21 @@
 ---
 ID: 394
-title: 'Panika na blogerské kurze&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/panika-na-blogerske-kurze
-published: true
+oldlink: 'https://www.marigold.cz/item/panika-na-blogerske-kurze
+
+  '
 post_date: 2003-06-30 08:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- Blogovací platformy zpřístupnily blogování širšímu okruhu uživatelů, včetně náctiletých.
+- Nové blogy vyvolaly obavy starších blogerů o kvalitu a budoucnost blogů.
+- Autor článku nesdílí obavy, věří v konkurenci a tlak na kvalitu.
+- Chybí blogy na technická témata, prospěšná by byla hierarchie témat.
+title: Panika na blogerské kurze&#8230;
 ---
+
 <p>
 Spolu se startem projektů bloguje.cz a blog.lide.cz přešla možnost psát vlastní blog z lidí schopných pořídit si místo na serveru a instalovat si hromadu skriptů nebo alespoň najít zahraniční utilitu toto obstarávající, v podstatě na kohokoliv alespoň trochu rozumějícího česky. Tím blogování přestalo být výhradní doménou ředitelů firem (i když one-man show) a své blogy si nyní zejména na lidé.cz zakládají i náctiletí. </p>
 

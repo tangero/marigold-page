@@ -1,14 +1,21 @@
 ---
 ID: 230
-title: 'Obchodování v&nbsp;ČR: naučme se kruci zavolat, když to slíbíme!'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/obchodovani-v-cr-naucme-se-kruci-zavolat-kdyz-to-slibime
-published: true
+oldlink: 'https://www.marigold.cz/item/obchodovani-v-cr-naucme-se-kruci-zavolat-kdyz-to-slibime
+
+  '
 post_date: 2003-04-11 11:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- Obchodníci často nesplní slib zavolat zpět zákazníkovi, což autora frustruje.
+- Autor zjistil, že problém není v nedovolatelnosti, ale v neochotě volat.
+- Nespolehlivost se týká nákupů různé hodnoty, od nosičů po projekty.
+- Rychlá a slušná komunikace se zákazníky je vnímána pozitivně a překvapivě.
+title: 'Obchodování v&nbsp;ČR: naučme se kruci zavolat, když to slíbíme!'
 ---
+
 <p>
 <STRONG>Jednu věc na českém obchodování bytostně nesnáším</STRONG>. Sliby, že vám někdo zavolá. Nevím, kolikrát se to stává vám, ale mně téměř denně&#160; a jsem na to zhusta alergický. Někam zavolám, někam přijdu, chci něco koupit, pořídit. Oni mi slíbí, že mi připraví nabídku a zavolají mi zpět. Pak čekám a čekám... a zavolám si nakonec sám. A oni mi řeknou, jej, máme to pro vás připravené...</p>
 

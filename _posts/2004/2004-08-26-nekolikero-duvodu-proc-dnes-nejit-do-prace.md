@@ -1,14 +1,21 @@
 ---
 ID: 1274
-title: 'Několikero důvodů, proč dnes nejít do práce&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nekolikero-duvodu-proc-dnes-nejit-do-prace
-published: true
+oldlink: 'https://www.marigold.cz/item/nekolikero-duvodu-proc-dnes-nejit-do-prace
+
+  '
 post_date: 2004-08-26 08:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Dovolená byla vzata na narozeniny, které autor nechce trávit prací.
+- Problémy byly vyřešeny nebo přesunuty, kontakt by je mohl vrátit.
+- Nedostatek spánku a riziko jízlivosti při dotazech na software.
+- Setkání s uklizečkou a zbytečné hádky s programátory vedou k volnu.
+title: Několikero důvodů, proč dnes nejít do práce&#8230;
 ---
+
 <p>
 Rozhodl jsem se dnes ráno provést průzkum, shromáždit body pro a proti rozhodnutí jít do práce a na základě tohoto průzkumu se rozhodnout. A zjistil jsem, že:</p>
 

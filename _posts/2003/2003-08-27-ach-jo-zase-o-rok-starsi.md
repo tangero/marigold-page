@@ -1,14 +1,22 @@
 ---
 ID: 459
-title: 'Ach jo, zase o&nbsp;rok starší&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ach-jo-zase-o-rok-starsi
-published: true
+oldlink: 'https://www.marigold.cz/item/ach-jo-zase-o-rok-starsi
+
+  '
 post_date: 2003-08-27 08:23:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor dosáhl 29 let a vnímá paralelu s tragickými historickými daty.
+- Oběd s Mobil Media připomněl autorovi vděčnost za malou firmu.
+- Narozeninové dárky se změnily, knihy nahradilo víno, což Dita vysvětlila praktičností.
+- Hosté obdivovali autorovo "kachličkové veledílo" na balkoně a navrhovali řešení
+  odtoku vody.
+title: Ach jo, zase o&nbsp;rok starší&#8230;
 ---
+
 <p>
 Včera mi přibyl další rok, dnes už mohu bezpečně prohlásit, že jsem se dožil devětadvaceti let. Kdysi jsem si dělal legraci, že jsou to tři tragická výročí připadající na 26. srpen pro tuhle zemi: smrt Přemysla Otakara II. na Moravském poli, smrt Jana Lucemburka u Kresčaku a moje narození. Dneska už mi to tak vtipné nepřijde, protože čert ví, jak moc je to pravda. </p>
 

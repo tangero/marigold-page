@@ -1,14 +1,22 @@
 ---
 ID: 751
-title: 'Pátek a&nbsp;pak svátek&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/patek-a-pak-svatek
-published: true
+oldlink: 'https://www.marigold.cz/item/patek-a-pak-svatek
+
+  '
 post_date: 2003-12-19 09:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Notebooku zbývá 50 minut života, adaptér zůstal v práci.
+- Hotspot na Lužinách opraven, cín koupen v Baumaxu.
+- Zemědělec z Holotína se ozval díky Marigoldovi.
+- Autor přeje příjemné Vánoce a odjezd na Vysočinu.
+- Knihovnu chce programovat už několik lidí.
+title: Pátek a&nbsp;pak svátek&#8230;
 ---
+
 <p>
 Mám padesát minut života. Naštěstí na internetu, pak mi dojde baterka v notebooku a já jsem nechal adaptér v práci. </p>
 

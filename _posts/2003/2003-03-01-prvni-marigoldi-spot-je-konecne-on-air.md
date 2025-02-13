@@ -1,16 +1,23 @@
 ---
 ID: 132
-title: >
-  První marigoldí spot je konečně on
-  air :)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prvni-marigoldi-spot-je-konecne-on-air
-published: true
+oldlink: 'https://www.marigold.cz/item/prvni-marigoldi-spot-je-konecne-on-air
+
+  '
 post_date: 2003-03-01 22:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- Anténa s hotspotem Marigold nainstalována na paneláku u metra Luka.
+- Špatně nakrimpovaný ethernet kabel zkomplikoval prvotní konfiguraci hotspotu.
+- Sektorová anténa 180 stupňů vykloněna pro pokrytí ulice signálem.
+- SSID Marigold na kanálu 1 je volně dostupné pro testování v okolí Luka.
+title: 'První marigoldí spot je konečně on air :)
+
+  '
 ---
+
 <p>
 Tak se konečně podařilo. Sice je hodina před půlnocí a těsně po obědě jsem to odhadoval na dvě hodiny práce, ale <IMG height=400 alt="Takhle vypadá nainstalovaný access point s anténou" src="/wp-content/uploads/marigold-okno-celek.jpg" width=205 align=right border=1>podařilo se. Na panelák jsem namontoval anténu, protahal veškerou kabeláž, udělal dva metry anténního kabelu a zapojit celý hotspot. </p>
 

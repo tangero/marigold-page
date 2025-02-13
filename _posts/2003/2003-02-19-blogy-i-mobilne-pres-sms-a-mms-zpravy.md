@@ -1,14 +1,21 @@
 ---
 ID: 103
-title: 'Blogy i&nbsp;mobilně přes SMS a&nbsp;MMS zprávy!'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/blogy-i-mobilne-pres-sms-a-mms-zpravy
-published: true
+oldlink: 'https://www.marigold.cz/item/blogy-i-mobilne-pres-sms-a-mms-zpravy
+
+  '
 post_date: 2003-02-19 17:52:00
+post_excerpt: ''
+published: true
+summary_points:
+- Blokovací software zaujal autora na kongresu 3GSM v Cannes.
+- Blogy lze aktualizovat pomocí SMS a MMS zpráv, což je chytré.
+- Marigold již má rozhraní pro SMS/MMS v Genesis, ale pro komplexní redakční systém.
+- Outdoor blogeři by ocenili možnost přispívat přes MMS přímo z terénu.
+title: Blogy i&nbsp;mobilně přes SMS a&nbsp;MMS zprávy!
 ---
+
 Jestli mne v Cannes na 3GSM kongresu něco příjemně zaujalo, tak to byla nabídka blokovacího software fungujícího přes MMS a SMS zprávy. Krátce k blogům: blogy jsou malé soukromé weby, kde jejich majitelé neustále píší něco o něčem nebo i vcelku o ničem. Kupříkladu Marigold je blog. Blog plní majitel zpravidla přes web. Jenže někoho napadlo naprogramovat software pro tvorbu blogu, který má rozhraní pro zadávání dat přes SMS a MMS zprávy. 
 <p>
 To je velmi chytré. MMS zprávu můžete naformátovat a napsat na mobilním telefonu, dneska už včetně diakritiky. Telefony s vestavěným fotoaparátem mohou přímo do zprávy přidat fotku, video nebo zvukovou nahrávku. Prostě luxus publikování &#8211; vy totiž takovou MMS zprávu někam pošlete a ona se automaticky přidá na váš blog. 

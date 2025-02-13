@@ -1,17 +1,24 @@
 ---
 ID: 218
-title: >
-  SARS ohrožuje výrobu WiFi, Linksys
-  přísahal na 802.11g upgrade, Cinetik
-  na startu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/sars-ohrozuje-vyrobu-wifi-linksys-prisahal-na-802-11g-upgrade-cinetik-na-startu
-published: true
+oldlink: 'https://www.marigold.cz/item/sars-ohrozuje-vyrobu-wifi-linksys-prisahal-na-802-11g-upgrade-cinetik-na-startu
+
+  '
 post_date: 2003-04-03 09:19:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi produkce je omezena kvůli epidemii SARS v Asii, zejména v Číně a na Tchajwanu.
+- WiFi může mírně podražit nebo být omezeně dostupná kvůli produkčním omezením.
+- Linksys slíbil upgrade firmware pro 802.11g produkty na schválenou normu.
+- Cinetik pilotní testy byly spuštěny, autor se věnuje ladění chyb.
+title: 'SARS ohrožuje výrobu WiFi, Linksys přísahal na 802.11g upgrade, Cinetik na
+  startu
+
+  '
 ---
+
 <p>
 Většina výrobků <STRONG>WiFi je produkována v Asii, kde zrovna řádí SARS</STRONG>, nějaký speciální zápal plic. Nu a mnozí výrobci kvůli této epidemii museli omezit výrobu. 85 procent WiFi techniky je z Číny a z Tchajwanu. Takže se může stát, že <STRONG>WiFi mírně podraží nebo bude omezeně dostupné</STRONG>. U nás se ale podle mne maximálně nebude chvíli zlevňovat - je tu už tak dražší než v USA. Názor přinesl <A href="http://www.80211-planet.com/news/article.php/2174371" target=_blank>802.11 Planet</A>.</p>
 

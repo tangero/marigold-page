@@ -1,16 +1,23 @@
 ---
 ID: 1342
-title: >
-  Speciální IM zařízení Zipit
-  Wireless Instant Messenger
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/specialni-im-zarizeni-zipit-wireless-instant-messenger
-published: true
+oldlink: 'https://www.marigold.cz/item/specialni-im-zarizeni-zipit-wireless-instant-messenger
+
+  '
 post_date: 2004-09-30 08:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- Zipit, instant messagingové zařízení za 99 USD, míří na americký trh.
+- Podporuje MSN, AOL, Yahoo a ICQ přes WiFi a má QWERTY klávesnici.
+- Cybiko, podobný koncept, založený na ad-hoc sítích, dříve propadl.
+- Evropští operátoři IM nepodporují, preferují ziskové SMS zprávy.
+title: 'Speciální IM zařízení Zipit Wireless Instant Messenger
+
+  '
 ---
+
 <p>
 Na trh v USA má přijít speciální instant messagingové zařízení <a href="http://www.target.com/gp/detail.html/sr=2_1/qid=1095139879/ref=sr_2_1/601-7954806-9197729?asin=B0002ZYJ78&amp;qid%5F=1095139879">Zipit</a>. Stát bude 99 dolarů a umožní připojit se přes WiFi k bezdrátové síti a používat vestavěný IM klient podporující MSN, AOL, Yahoo a ICQ. Monochromatická obrazovka, neidentifikovatelný a zřejmě nerozšiřitelný operační systém, plná QWERTY klávesnice, děti se po tom mají utlouci. </p>
 

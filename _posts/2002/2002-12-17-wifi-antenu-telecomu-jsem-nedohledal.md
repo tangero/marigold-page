@@ -1,14 +1,22 @@
 ---
 ID: 18
-title: WiFi Anténu Telecomu jsem nedohledal
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-antenu-telecomu-jsem-nedohledal
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-antenu-telecomu-jsem-nedohledal
+
+  '
 post_date: 2002-12-17 21:56:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi Telecom v Praze nemá venkovní antény na Telepointech Jindřišská a Politických
+  vězňů.
+- Telecom plánuje WiFi hotspoty v lukrativních lokalitách jako hotely a letiště.
+- Pilotní projekt WiFi v Telepointech testoval rychlost objednávek a nasazení techniků.
+- Test pokrytí na Technetu ukazuje dosah WiFi Telecomu cca 10 metrů.
+title: WiFi Anténu Telecomu jsem nedohledal
 ---
+
 <p>
 Tak jsem přeci jen <STRONG>vyrazil do terénu obhlédnout WiFi Telecomu</STRONG>. V Praze svinsku chumelilo, nachumelilo mi do notebooku a očekávám, že boss mi nachumelí na kebuli, jestli se ten notebook do rána neprobere. V Praze byla celé odpoledne tma jak hádejte kde, tak jsem se alespoň utěšoval že vyzkouším infrafocení na mém superdigitálním extrafoťáku. Výsledek nulový - pendloval jsem kolem dvou pražských Telepointů, až mne málem sebrala ochranka. Z deprese jsem málem na WiFi anténu pasoval čidlo u kamery. Nakonec jsem ale na venkovní fasádě WiFi anténu nenašel. Tomu říkám deklas - ani Jindřišská ani Politických věznů nemá signál, spot tam neběží. Nakonec jsem došel k tomu, že&#160;APčka asi mají v interiéru, nebo opravdu moc mazaně maskované a potvrdil mi to i dnešní test pokrytí který <A href="http://www.technet.cz/hw/hw_sit/wifitelecom_test021217.html" target=_blank>vyšel na Technetu</A>, doporučuji přečíst. Podle toho pokrytí, které anténa generovala (cca 10 metrů v každém směru ulice) to ale vážně vypadá na vestavěnou anténu v APčku. No, jestli jste byl někdo úspěšnější, pište mi na <A href="mailto:marigold@marigold.cz">marigold@marigold.cz</A> - vy ostatní se alespoň netlemte nahlas. </p>
 

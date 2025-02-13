@@ -1,14 +1,21 @@
 ---
 ID: 204
-title: 'Válka v&nbsp;Iráku se vede i&nbsp;mezi GSM a&nbsp;CDMA'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/valka-v-iraku-se-vede-i-mezi-gsm-a-cdma
-published: true
+oldlink: 'https://www.marigold.cz/item/valka-v-iraku-se-vede-i-mezi-gsm-a-cdma
+
+  '
 post_date: 2003-03-28 11:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- Irák zřejmě vybuduje mobilní síť CDMA firmy Qualcomm na nátlak USA.
+- CDMA celosvětově prohrává s GSM, ale USA jej prosazují z obchodních důvodů.
+- USA rozdávají "prebendy" a Irák bude mít nestandardní CDMA síť.
+- Článek na The Register sarkasticky komentuje spojení vojenské invaze a obchodu.
+title: Válka v&nbsp;Iráku se vede i&nbsp;mezi GSM a&nbsp;CDMA
 ---
+
 <p>
 Válka zajímavě zasahuje do technologie. Již nyní se mluví o tom, že <STRONG>v Iráku by měla vzniknout mobilní síť</STRONG> a USA prý budou silně se zasazovat za to, aby byla postavena na&#160;bázi <STRONG>CDMA firmy Qualcomm</STRONG>, předvoje to americké technologie. </p>
 

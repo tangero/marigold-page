@@ -1,14 +1,21 @@
 ---
 ID: 328
-title: NTT DoCoMo testuje síť 4G
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ntt-docomo-testuje-sit-4g
-published: true
+oldlink: 'https://www.marigold.cz/item/ntt-docomo-testuje-sit-4g
+
+  '
 post_date: 2003-05-29 08:06:00
+post_excerpt: ''
+published: true
+summary_points:
+- NTT DoCoMo testuje mobilní síť 4G, a to od roku 1998.
+- G od DoCoMo dosahuje rychlosti 100 Mbps download a 20 Mbps upload.
+- Testují se VSF-OFCDM a VSF-CDMA pro přenos dat v síti 4G.
+- Mezi zkoušené technologie patří adaptivní modulace a retransmisní kontrola.
+title: NTT DoCoMo testuje síť 4G
 ---
+
 <p>
 Japonský operátor NTT DoCoMo ohlásil zahájení testování mobilní sítě čtvrté generace. Samozřejmě nejde o komerční testy, ale o testování technologie a předpokladů, z nichž vychází. <STRONG>DoCoMo si se 4G hraje od roku 1998 </STRONG>a jeho stávající vývojový produkt umí přenášet <STRONG>100 Mbps pro download a 20 Mbps pro upload</STRONG>. To nejsou zlé rychlosti, což?</p>
 

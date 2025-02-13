@@ -1,14 +1,21 @@
 ---
 ID: 1346
-title: 'Buffalo Technology, Revolution a&nbsp;Kuro Box'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/buffalo-technology-revolution-a-kuro-box
-published: true
+oldlink: 'https://www.marigold.cz/item/buffalo-technology-revolution-a-kuro-box
+
+  '
 post_date: 2004-10-05 10:45:49
+post_excerpt: ''
+published: true
+summary_points:
+- Buffalo Technology uvádí Revolution, řadu pro pokročilé síťové uživatele.
+- Kuro Box je PowerPC počítač s Linuxem pro různé serverové funkce.
+- Kuro Box má nízkou spotřebu (17W) a tichý provoz (22 dB).
+- Cena Kuro Boxu je 160 dolarů, což je více než Linksys NSLU2.
+title: Buffalo Technology, Revolution a&nbsp;Kuro Box
 ---
+
 <p>
 Buffalo Technology představilo svoji novou produktovou řadu nazvanou Revolution. Ta má být zaměřená na velmi pokročilé uživatele síťových technologií. Prvním produktem z této řady je Kuro Box, <i> customizable embedded Linux development kit</i>. Aby to bylo jasnější, je to PowerPC počítač v hezkém, atraktivním a malém balení s Linuxem. Počítač si můžete libovolně nastavit, takže může sloužit jako router, přes NAS také jako souborový server, tiskový server, domácí server pro všechno atd. Vybaven je PowerPC 200MHz, 64 MB RAM, 4MB ROM, jedním USB 2.0 portem, ethernet 10/100 Mb/s a hlavně Linuxem včetně zdrojáků a vývojových utilit, takže si můžete všechno nakonfigurovat podle svého. Buffalo očekává, že Kuro Box se stane oblíbeným v komunitních sítích a domácnostech jako malý server nebo router. </p>
 

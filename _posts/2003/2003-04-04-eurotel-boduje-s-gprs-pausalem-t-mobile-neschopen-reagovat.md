@@ -1,14 +1,21 @@
 ---
 ID: 219
-title: 'Eurotel boduje s&nbsp;GPRS paušálem, T-Mobile neschopen reagovat'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/eurotel-boduje-s-gprs-pausalem-t-mobile-neschopen-reagovat
-published: true
+oldlink: 'https://www.marigold.cz/item/eurotel-boduje-s-gprs-pausalem-t-mobile-neschopen-reagovat
+
+  '
 post_date: 2003-04-04 08:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- Eurotel dohnal T-Mobile v GPRS roamingu a dokonce jej i předčil.
+- Eurotel zavedl datový paušál pro GPRS, což bylo unikátní.
+- T-Mobile nemůže zavést paušál kvůli globální strategii skupiny.
+- T-Mobile bude mít problém lákat nové zákazníky.
+title: Eurotel boduje s&nbsp;GPRS paušálem, T-Mobile neschopen reagovat
 ---
+
 <p>
 Ještě před dvěmi lety Eurotel vypadal jako pohrobek monopolismu a za neustále inovujícím RadioMobilem nezaostával snad jedině v lobbyngu. Časy se mění, z naducaného monopolisty je pružně reagující firma, které dává T-Mobile jednu lekci za druhou. </p>
 

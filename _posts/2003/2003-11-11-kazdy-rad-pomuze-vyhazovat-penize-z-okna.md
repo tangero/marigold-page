@@ -1,14 +1,21 @@
 ---
 ID: 655
-title: 'Každý rád pomůže vyhazovat peníze z&nbsp;okna&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kazdy-rad-pomuze-vyhazovat-penize-z-okna
-published: true
+oldlink: 'https://www.marigold.cz/item/kazdy-rad-pomuze-vyhazovat-penize-z-okna
+
+  '
 post_date: 2003-11-11 07:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile autorovi opakovaně nabízel prodloužení smlouvy a levnější telefon.
+- Autor se rozhodl zrušit smlouvu s T-Mobile a převést SIM kartu na Twist.
+- UPC autorovi účtovalo 400 Kč měsíčně za málo sledované televizní programy.
+- Autor snížil rychlost internetu od UPC na nejnižší tarif 256 Kb/s.
+title: Každý rád pomůže vyhazovat peníze z&nbsp;okna&#8230;
 ---
+
 <p>
 Před pár dny mi přišel dopis od T-Mobile, firma mi nabízela už potřetí letos prodloužení smlouvy na dva roky a možnost koupit si nějaký levnější telefon. Připomělo mi to, co jsem chtěl udělat, sedl jsem k počítači a napsal jsem T-Mobile líbesbríf, který jsem chtěl napsat už zatraceně dlouho: žádost o deaktivaci SIM karty resp její převedení na Twist. A tím mi také přišla myšlenka vyrubat všechny kontrakty, platby a smlouvy, které prakticky nepoužívám. </p>
 

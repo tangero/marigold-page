@@ -1,14 +1,21 @@
 ---
 ID: 724
-title: 'MIA končí &#8211; Telecom ji definitivně potopil'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mia-konci-telecom-ji-definitivne-potopil
-published: true
+oldlink: 'https://www.marigold.cz/item/mia-konci-telecom-ji-definitivne-potopil
+
+  '
 post_date: 2003-12-08 08:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom agenturu MIA, koupenou pro internetové podnikání, ke konci roku zavírá.
+- Autor nastoupil do MIA v roce 1996, kde pracoval na projektu Media serveru.
+- Projekt Media serveru selhal kvůli shodnosti úhlů pohledu českých novin.
+- Vyhledávač Zmije.cz vznikl jako náhrada, ale autor z MIA odešel před jeho změnou.
+title: MIA končí &#8211; Telecom ji definitivně potopil
 ---
+
 <p>
 Český Telecom se stal vlastníkem internetové agentury MIA před několika lety, když ji slavnostně koupil za poměrně vysokou částku, aby se pokusil dohnat svoji ztrátu v internetovém podnikání. A ke konci letošního roku ji definitivně zavírá, ačkoliv útlum společnosti bylo možné sledovat delší dobu. Definitivně tak odchází další legenda českého internetu. Zdroj: <A href="http://www.telecom.cz/infocentrum/tiskove_centrum/tiskove_zpravy/clanek.php?tz=04122003_1&amp;id=554" target=_blank>TZ Český Telecom</A>.</p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 672
-title: 'Marigoldí vánoční dárek pro webshopy s&nbsp;WiFi technikou: reklamní pětistovka každému'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/marigoldi-vanocni-darek-pro-webshopy-s-wifi-technikou-reklamni-petistovka-kazdemu
-published: true
+oldlink: 'https://www.marigold.cz/item/marigoldi-vanocni-darek-pro-webshopy-s-wifi-technikou-reklamni-petistovka-kazdemu
+
+  '
 post_date: 2003-11-17 21:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold nabízí 500 Kč kredit na inzerci WiFi shopům za slevu pro zákazníky.
+- Sleva pro zákazníky z Marigoldu musí být minimálně jedno procento.
+- Kredit získáte registrací, zasláním emailu s údaji o shopu a slevě.
+- Nabídka platí do odvolání a pouze pro WiFi techniku/služby.
+title: 'Marigoldí vánoční dárek pro webshopy s&nbsp;WiFi technikou: reklamní pětistovka
+  každému'
 ---
+
 <p>
 Od té doby, co jsem naprogramoval reklamní modul pro textovou inzerci na Marigoldovi, jsem jeho jediným uživatelem a nemám rád, když takové hezké dílko leží ladem.&#160;Když jsem o tom tak přemýšlel, rozhodl jsem se pro malý vánoční dárek: <STRONG>každý WiFi shop, který nabídne slevu pro zákazníky přišlé z Marigolda, dostane kredit 500 Kč na onu textovou inzerci na Marigoldovi</STRONG> (za tu cenu přijde až 100 návštěvníků/zákazníků). Bez dalších podmínek - nemusí si nic kupovat, může ji vypotřebovat a už tu nikdy nic neinzerovat, není to žádný <EM>"bonus po proinzerování půl milionu Kč"</EM>&#160;prostě je to pětikilo výměnou za slevu pro zákazníky z koncové ceny. Stejně ji na webshopu dává každý každému, jsou vánoce, tak nějak lidi ten váš webshop nalákat musí.</p>
 

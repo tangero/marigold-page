@@ -1,14 +1,21 @@
 ---
 ID: 647
-title: 'Tak jsem oslavil svůj první akciový dvojnásobek&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-jsem-oslavil-svuj-prvni-akciovy-dvojnasobek
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-jsem-oslavil-svuj-prvni-akciovy-dvojnasobek
+
+  '
 post_date: 2003-11-07 09:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Investice autora na americké burze dosáhly zisku 117 procent za rok.
+- Autor nedodržuje investiční poučky, investuje hlavně do telekomunikací a biotechnologií.
+- Fio investoři vydělali 27 procent, autor obchoduje pouze s vlastními penězi.
+- Autor plánuje napsat článek o investování do akcií.
+title: Tak jsem oslavil svůj první akciový dvojnásobek&#8230;
 ---
+
 <p>
 Ve středu jsem měl malou soukromou oslavu <EM>(dal jsem si kafe dole v automatu u recepce)</EM> - poprvé se mi podařilo za rok&#160;zdvojnásobit investice na americké burze. Abych byl přesnější, ve středu jsem při kontrole na svém účtu měl zisk 117 procent, jenže patnáct procent si nechávám jako rezervu na pokles dolaru, protože patnáct procent byl můj nejpesimističtější odhad. Vloni jsem se k tak hezkému výsledku nedohrabal, na Nasdaqu jsem se nakonec dostal jen přes 70 procent zisku. </p>
 

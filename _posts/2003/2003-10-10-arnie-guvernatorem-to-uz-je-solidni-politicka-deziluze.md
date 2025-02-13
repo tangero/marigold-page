@@ -1,14 +1,21 @@
 ---
 ID: 571
-title: 'Arnie Guvernátorem &#8211; to už je solidní politická deziluze!'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/arnie-guvernatorem-to-uz-je-solidni-politicka-deziluze
-published: true
+oldlink: 'https://www.marigold.cz/item/arnie-guvernatorem-to-uz-je-solidni-politicka-deziluze
+
+  '
 post_date: 2003-10-10 09:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- Schwarzenegger zvolen guvernérem Kalifornie, sedmého nejbohatšího státu světa.
+- Vodička v MF Dnes přezdívá Schwarzeneggera Guvernátor.
+- Volba svalovce bez programu není jen americký úlet.
+- Trend volby svalovců hrozí Evropě i Česku problémy.
+title: Arnie Guvernátorem &#8211; to už je solidní politická deziluze!
 ---
+
 <p>
 Titulní stránky novin včera plnila zpráva hlásající příchod hollywoodské hvězdy Arnolda Schwarzeneggera do její nové role. Legenda akčních hrdinů byla zvolena téměř polovinou kaliforňanů guvernérem tohoto nejbohatšího státu Ameriky (a jak málokteré noviny zapomenou připomenout, sedmého nejbohatšího státu světa). Milan Vodička v MF Včera překřtil Arnieho na Guvernátora.</p>
 

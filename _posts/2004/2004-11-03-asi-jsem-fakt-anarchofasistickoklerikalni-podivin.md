@@ -1,16 +1,23 @@
 ---
 ID: 1384
-title: >
-  Asi jsem fakt
-  anarchofašistickoklerikální podivín
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/asi-jsem-fakt-anarchofasistickoklerikalni-podivin
-published: true
+oldlink: 'https://www.marigold.cz/item/asi-jsem-fakt-anarchofasistickoklerikalni-podivin
+
+  '
 post_date: 2004-11-03 07:36:00
+post_excerpt: ''
+published: true
+summary_points:
+- Schůzka tel.con 2004 řešila přenositelnost čísel s operátory a ČTÚ.
+- Autor zaslal ČTÚ podnět ke změně číslovacího plánu pro internet.
+- ČTÚ a autor mají rozdílné pohledy na regulaci telekomunikací.
+- Autor zpochybňuje smysl číslovacího plánu pro typy služeb.
+title: 'Asi jsem fakt anarchofašistickoklerikální podivín
+
+  '
 ---
+
 <p>
 Někdy mám o sobě vážné pochybnosti. Včera byl dobrý den demonstrovat si je v praxi. Kupříkladu tím, že jsem dorazil na schůzku Tuesday advisory boardu, kde jsem byl nejmladší a navíc vytrvale chodící v košili a svetru, bez kravaty. Což jsem kromě dvou přítomných dam byl jediný. Celou dvouhodinovou schůzku jsem o tom měl příležitost přemýšlet.</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 1285
-title: 'Drobky: BREW a&nbsp;Java, weblogy zainvestované a&nbsp;konspirační iPod teorie'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-brew-a-java-weblogy-zainvestovane-a-konspiracni-ipod-teorie
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-brew-a-java-weblogy-zainvestovane-a-konspiracni-ipod-teorie
+
+  '
 post_date: 2004-08-31 08:19:24
+post_excerpt: ''
+published: true
+summary_points:
+- Mobil.cz článek o BREW a Javě se zaměřuje spíše na obchodní stránku.
+- Lupa.cz píše o investicích do Technorati a NewsGatoru, firem spojených s weblogy.
+- Amazon.com plánuje prodej her pro mobilní telefony vedle počítačových her.
+- Ericsson ukončuje výrobu bluetooth hardware, ale vývoj bude pokračovat externě.
+title: 'Drobky: BREW a&nbsp;Java, weblogy zainvestované a&nbsp;konspirační iPod teorie'
 ---
+
 <p>
 Na <a href="http://mobil.idnes.cz/fixni_spojeni/sluzby_operatoru/zpravy-sluzby_operatoru/javaabrew040831.html">Mobil.cz jsem napsal článek</a> o BREW a Javě - původně měl být zaměřen více na porovnání technologií, nakonec je spíše o obchodní stránce věci. </p>
 

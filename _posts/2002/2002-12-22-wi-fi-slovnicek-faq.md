@@ -1,14 +1,23 @@
 ---
 ID: 1061
-title: Wi-Fi slovníček/FAQ
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wi-fi-slovnicek-faq
-published: true
+oldlink: 'https://www.marigold.cz/item/wi-fi-slovnicek-faq
+
+  '
 post_date: 2002-12-22 09:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- Článek je překladem materiálu o Wi-Fi certifikaci od organizace WECA.
+- Wi-Fi certifikace zaručuje interoperabilitu bezdrátových zařízení splňujících standardy
+  IEEE 802.11.
+- Wi-Fi aliance podporuje standard 802.11, testuje interoperabilitu a certifikuje
+  Wi-Fi produkty.
+- Článek se zabývá i praktickými aspekty používání a zabezpečení Wi-Fi sítí.
+title: Wi-Fi slovníček/FAQ
 ---
+
 Z webu certifikátora WiFi zařízení jsme pro vás přeložili malý slovníček a až bych řekl něco jako nejčastěji kladené otázky. Článek je zase zaměřen pro začínající uživatele, aby se zorientovali.<!--more--><p>
 Tento článek psaný hodnou a milou Marigoldkou, je překladem materiálu z webu Weca.net. WECA je organizace dbající na uplatňování standardů a interoperabilitu jednotlivých IEEE802.11 zařízení a ta zařízení, která splňují její požadavky na společnou funkčnost, jsou pak nositeli certifikace Wi-Fi. Tento článek vám pomůže pochopit některé další detaily a aspekty jak Wi-Fi certifikace, tak WiFi technologií. Připomínám, že výjimečně používáme správný název Wi-Fi namísto nesprávného WiFi &#8211; Marigoldka není takový lempl, jako já&#8230; </p>
 

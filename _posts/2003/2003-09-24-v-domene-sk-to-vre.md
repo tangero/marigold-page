@@ -1,14 +1,21 @@
 ---
 ID: 529
-title: V doméně .SK to vře
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/v-domene-sk-to-vre
-published: true
+oldlink: 'https://www.marigold.cz/item/v-domene-sk-to-vre
+
+  '
 post_date: 2003-09-24 19:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- Slovensko řeší problémy s novým systémem registrace domén, včetně výpadků.
+- SANET ostře kritizuje problémy s novým slovenským systémem registrace domén.
+- Magazín Prielom odhalil úspěšný útok na původní slovenský systém registrace.
+- Česká migrace na nový systém registrace domén probíhá bez zájmu veřejnosti.
+title: V doméně .SK to vře
 ---
+
 <p>
 Přestože si Tangero postěžoval nad okurkovostí dnešního dne, naši východní sousedé se nenudí.</p>
 

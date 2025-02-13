@@ -1,14 +1,20 @@
 ---
 ID: 507
-title: 'Čipsetové novinky: Atheros a&nbsp;Broadcom upgradují, Intel Centrino zpožďuje'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cipsetove-novinky-atheros-a-broadcom-upgraduji-intel-centrino-zpozduje
-published: true
+oldlink: 'https://www.marigold.cz/item/cipsetove-novinky-atheros-a-broadcom-upgraduji-intel-centrino-zpozduje
+
+  '
 post_date: 2003-09-16 08:35:00
+post_excerpt: ''
+published: true
+summary_points:
+- Atheros čipová sada 802.11a/g zvyšuje dosah WiFi na kilometr a snižuje spotřebu.
+- Intel posunul uvedení dualbandového Centrina 802.11a/b na konec roku 2003.
+- Broadcom uvádí, že notebooky s jejich čipem 802.11g vydrží o 20 minut déle.
+title: 'Čipsetové novinky: Atheros a&nbsp;Broadcom upgradují, Intel Centrino zpožďuje'
 ---
+
 Několik novinek v oblasti čipových sad pro WiFi z poslední doby probereme nyní letem světem. 
 <p>
 <B>Atheros představil novou čipovou sadu kombinující 802.11a/g</B>, která prý <B>umí zvýšit dosah WiFi na jeden kilometr</B> a konzumuje méně energie, pokud je v power-idle režimu (tedy "vypnutá", nepoužívaná). Čipová sada zlepší odběr energie až o 60 procent, oproti Centrinu firmy Intel spotřebuje o 95 % energie méně v power-idle stavu. Zvýšení dosahu je realizováno novou architekturou zpracování signálu, díky níž se citlivost zařízení zvyšuje na -105 dBm, zhruba o 15 dB výše, než u ostatních čipových sad. Tady bych rád podotknul, že nevidím cestu, jak by zvýšený dosah mohl fungovat ve spolupráci s výrobky s jinými čipovými sadami, které nebudou mít vyšší citlivost. Je jasné, že na menší vzdálenosti to půjde, ale na dlouhé bude třeba používat stejnou čipovou sadu. Nová čipová sada podporuje také technologii SuperG, tedy přenosovou rychlost 108 Mb/s. Tisková <A href="http://www.atheros.com/news/AR5004.html">zpráva Aetheros</A>. 

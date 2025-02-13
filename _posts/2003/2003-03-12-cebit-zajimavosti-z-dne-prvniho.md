@@ -1,14 +1,21 @@
 ---
 ID: 161
-title: 'CeBIT zajímavosti z&nbsp;dne prvního'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cebit-zajimavosti-z-dne-prvniho
-published: true
+oldlink: 'https://www.marigold.cz/item/cebit-zajimavosti-z-dne-prvniho
+
+  '
 post_date: 2003-03-12 12:27:00
+post_excerpt: ''
+published: true
+summary_points:
+- CeBIT má letos slabé press centrum s rigidní síťovou politikou a drahým WiFi.
+- Topcom nabízí 802.11b technologii s rychlostí 44 Mbps, ale budoucnost je nejistá.
+- Macaron kombinuje WiFi router s Bluetooth, ADSL modemem, USB portem a firewallem.
+- Garmin vystavuje GPS vysílačky Rino s PMR446, umožňující posílat pozici zdarma.
+title: CeBIT zajímavosti z&nbsp;dne prvního
 ---
+
 <p>
 První <STRONG>velkou slabinou CeBITu je letos press centrum.</STRONG> Na rozdíl od minulých let je tu velmi rigidní síťová politika, takže se na internet přistupuje skrze proxy, která není průchozí ani pro smtp ani pro pop3 nebo FTP. Dost mizerné, nahrávat fotografie na server ručně přes webové rozhraní po jedné se mi zase tak moc nechce, takže uvidíme co s tím nadělám. WiFi je tu placené a stojí 30 &#8364; na den, což je drahota maximální, to i GPRS v roamingu vyjde podstatně laciněji při rozumném užití... a pak má být WiFi levná technologie, když to takhle zdražují uměle. Naštěstí se situace dá řešit a tento článek sponzoruje Cisco, přes jehož APčko jsem napojen v hale 27 (no, do doby, než si toho všimnou :).</p>
 

@@ -1,14 +1,23 @@
 ---
 ID: 698
-title: 'T-Mobile Hotspoty od ledna naostro &#8211; a&nbsp;za peníze'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/t-mobile-hotspoty-od-ledna-naostro-a-za-penize
-published: true
+oldlink: 'https://www.marigold.cz/item/t-mobile-hotspoty-od-ledna-naostro-a-za-penize
+
+  '
 post_date: 2003-11-27 19:46:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile zpoplatní WiFi hotspoty za čas, s platbou přes účet nebo platební kartu.
+- Cena jedné hodiny WiFi od T-Mobile CZ je 150 Kč, což je dražší než konkurence.
+- T-Mobile účtuje WiFi po 15minutových blocích při platbě přes vyúčtování mobilních
+  služeb.
+- Celodenní přístup k WiFi od T-Mobile stojí 500 Kč, což je srovnatelné s měsíčním
+  připojením.
+title: T-Mobile Hotspoty od ledna naostro &#8211; a&nbsp;za peníze
 ---
+
 <p>
 T-Mobile na dnešní tiskové konferenci oznámil způsob zpoplatnění svých WiFi hotspotů. Zatím jich má 16, zhruba stejně, jako CzNet, třetinu oproti Eurotelu. Do konce roku jich chce mít celkem 40 a rovnou vám můžu říct, že to nestihne - můj soukromý názor podepřený informacemi od lidí, co o tom něco ve firmě vědí. </p>
 

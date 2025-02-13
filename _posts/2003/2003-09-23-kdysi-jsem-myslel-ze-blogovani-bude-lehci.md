@@ -1,14 +1,21 @@
 ---
 ID: 525
-title: 'Kdysi jsem myslel, že blogování bude lehčí&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdysi-jsem-myslel-ze-blogovani-bude-lehci
-published: true
+oldlink: 'https://www.marigold.cz/item/kdysi-jsem-myslel-ze-blogovani-bude-lehci
+
+  '
 post_date: 2003-09-23 09:03:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi články v češtině jsou vzácné, proto odkazování na ně nefunguje.
+- Marigold blog je navštěvovaný, ačkoliv jeho téma není všem jasné.
+- Odborné blogy mimo webdesign mají potenciál oslovit čtenáře.
+- Osobní blogy vyžadují slohové schopnosti a nadšení autora.
+title: Kdysi jsem myslel, že blogování bude lehčí&#8230;
 ---
+
 Udělat odborný weblog (tím odborný jsem myslel především tematicky zaměřený, ne snad, že bych si myslel, že telekomunikacím rozumím) mne napadlo mimo jiné tehdy, když jsem viděl WiFiNetNews Glenna Fleishmana. Používá poměrně jednoduchou a účinnou metodu: najde si zprávičku, připíše k ní svůj trefný komentář a dá odkaz na původní zprávičku. Vcelku pohodka, pokud máte přístup k informačním zdrojům a umíte s nimi pracovat. 
 <p>
 Myslel jsem si, že to udělám podobně. Záhy jsem ale došel k tomu, že o WiFi tu nepíše prakticky nikdo. Jednou dvakrát týdně se o něm někdo zmíní a to je všechno. Není vcelku nač odkazovat ani co komentovat a moje myšlenka udělat odkazovník na další české WiFi zdroje skončila u přidání odkazů na těch pár stránek, kde je něco podstatného k dohledání, na titulní stránku. Zbytek musí zachraňovat klasické telekomunikace, kterým už se u nás naštěstí věnuje dost lidí. Bohužel především systémem přebírání tiskových zpráv. 

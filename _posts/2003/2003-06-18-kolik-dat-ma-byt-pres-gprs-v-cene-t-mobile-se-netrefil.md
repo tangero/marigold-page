@@ -1,14 +1,21 @@
 ---
 ID: 374
-title: 'Kolik dat má být přes GPRS v&nbsp;ceně? T-Mobile se netrefil&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kolik-dat-ma-byt-pres-gprs-v-cene-t-mobile-se-netrefil
-published: true
+oldlink: 'https://www.marigold.cz/item/kolik-dat-ma-byt-pres-gprs-v-cene-t-mobile-se-netrefil
+
+  '
 post_date: 2003-06-18 10:28:00
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile tvrdil, že 50 MB GPRS dat stačí, autor to testoval.
+- Autor přenesl 57 MB dat při běžné práci, limit 50 MB je nedostatečný.
+- GPRS uživatelé potřebují spíše 200 MB dat pro běžné pracovní využití.
+- Uživatelé GPRS jsou nárazoví, operátoři by měli zvážit low-cap nabídky.
+title: Kolik dat má být přes GPRS v&nbsp;ceně? T-Mobile se netrefil&#8230;
 ---
+
 Když v květnu T-Mobile spouštěl GPRS tarif Business, prohlašoval u toho silácky něco v tom smyslu, že více než 50 MB volných dat není potřeba. Rozhodl jsem se to testnout. Takže &#8211; kolik MB dat je reálné přenést pro normálního uživatele při &#8222;normálním&#8220; používání GPRS? 
 <p>
 Především chci říci, že <STRONG>GPRS nepovažuji za alternativu k pevnému připojení do internetu</STRONG>, ale spíše jako mobilní připojení určené pro notebooky a PDA v okamžiku, kdy v dohledu není internet a vy chcete nebo potřebujete něco vyřídit. Je jasné, že T-Mobile může bazírovat <STRONG>na rozdílu právě mezi slovy &#8222;chcete&#8220; a &#8222;potřebujete&#8220;</STRONG> &#8211; rozdíl mezi nimi je vyjádřitelný v penězích a je značný. 

@@ -1,14 +1,22 @@
 ---
 ID: 358
-title: 'Nakupuje se byt a&nbsp;nákupní horečka stoupá&#8230;a&nbsp;bude i&nbsp;WiFi :)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nakupuje-se-byt-a-nakupni-horecka-stoupa-a-bude-i-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/nakupuje-se-byt-a-nakupni-horecka-stoupa-a-bude-i-wifi
+
+  '
 post_date: 2003-06-12 08:16:00
+post_excerpt: ''
+published: true
+summary_points:
+- Dita, Vreco a vypravěč kupují byty v lokalitě s poetickým názvem.
+- Cihlová zástavba vyžaduje hlubokou kapsu, zjistili kupující.
+- Rezervace bytu způsobila zmatek kvůli volání na různé pobočky.
+- Vreco řešil rychlost internetu jako hlavní starost s novým bytem.
+title: Nakupuje se byt a&nbsp;nákupní horečka stoupá&#8230;a&nbsp;bude i&nbsp;WiFi
+  :)
 ---
+
 <p>
 Posledních několik týdnů se věnujeme shánění bytu, neboť se Dita rozhodla, že nový byt by se jí líbil a tak že si ho koupí. Po mnoha úvahách a rozhodováních se přidal i Vreco, který se rovněž dostal do nálady, že si koupí byt a nakonec jsme vybrali i lokalitu. Zajímavé je, že lokality mývají poetická jména jako Na hrádku, U rokytky, Zelený palouk (to je ta naše) a nikdy ne U výpadovky, Mezi železničními koridory nebo Nedaleko skládky - to byl první marketingový poznatek. Druhý marketingový poznatek byl, že pokud nechcete bydlet v modernějším paneláku, ale v nějaké rozumnější a ne zcela typické cihlové zástavbě, už musíte sáhnout hodně hluboko do kapsy. A třetí poznatek byl, že jsme s Ditou a Vrecem rození odborníci na vytváření zmatků, zejména pak v IPB Real.</p>
 

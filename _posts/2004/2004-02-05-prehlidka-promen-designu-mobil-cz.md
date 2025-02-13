@@ -1,14 +1,21 @@
 ---
 ID: 836
-title: Přehlídka proměn designů Mobil.cz
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prehlidka-promen-designu-mobil-cz
-published: true
+oldlink: 'https://www.marigold.cz/item/prehlidka-promen-designu-mobil-cz
+
+  '
 post_date: 2004-02-05 12:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Změna designu zpravodajského serveru je náročná a nevděčná práce.
+- Mobil server prošel několika změnami designu od roku 1997.
+- Některé návrhy designu Mobilu nebyly nikdy použity.
+- Portálová lišta Mobil.cz je standard iDNES, existuje od roku 2000.
+title: Přehlídka proměn designů Mobil.cz
 ---
+
 <p>
 Změna vzhledu velkého zpravodajského serveru je vždy obrovská a navíc nevděčná práce. Návrh nového vzhledu serveru začíná prakticky v okamžiku, kdy je publikován nový vzhled, pak se na tom rok tak-nějak dělá, sbírají se pomalu další poznatky, sem tam někdo nahodí novou myšlenku. Jenže za rok se ukáže, že původní design už je mnoha změnami a dodatky (zejména nové reklamy) tak rozkorejněný, že je potřeba ho urychleně vyměnit... a pak stres, rychlá akce a měsíční prakticky non-stop práce při běžném provozu jako kreslení bannerů atd. Prostě lahůdka na nervy, myslím že grafici Mobilu i kdekoliv jinde&#160;mohou má slova potvrdit. </p>
 

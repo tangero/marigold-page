@@ -1,14 +1,21 @@
 ---
 ID: 1080
-title: 'Internetové obchody s&nbsp;WiFi technikou'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/internetove-obchody-s-wifi-technikou-1080
-published: true
+oldlink: 'https://www.marigold.cz/item/internetove-obchody-s-wifi-technikou-1080
+
+  '
 post_date: 2003-11-10 10:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- i4Shop má dobré ceny na méně značkovou WiFi techniku (Z-com/Zcomax).
+- Elity nabízí nejširší výběr WiFi techniky, ale ceny jsou různorodé.
+- WiFiShop VancoNetu má zboží ihned k odběru, ale sortiment je omezený.
+- inWiFi nabízí nejlevnější Compexy a D-Link, ale sortiment je omezený.
+title: Internetové obchody s&nbsp;WiFi technikou
 ---
+
 Kde je nejlepší nakupovat WiFi techniku na internetu? Jaké jsou kde ceny a sortiment? Tento článek mapuje situaci na českém trhu v listopadu 2003.<!--more--><p>
 Jak jsem tak vyplňoval databázi WiFi techniky, prošel jsem celou řadu internetových obchodů s WiFi a dovolím si zde stručně shrnout své poznatky, které by vám možná před nákupem přišly vhod. Upozorňuji, že jsem se na obchody díval především pohledem&#160;člověka kupujícího routery a přístupové body, s kartami to může být maličko jinak. &#160;</p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 9
-title: 'WiFi v&nbsp;ČR, CzFree.Net, ADSL a&nbsp;Český Telecom'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-v-cr-czfree-net-adsl-a-cesky-telecom
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-v-cr-czfree-net-adsl-a-cesky-telecom
+
+  '
 post_date: 2002-12-10 11:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- CZFree.Net je experimentální platforma s užitkem pro technicky erudované jedince
+  v lokalitách.
+- Vysoká pořizovací cena a nejistá budoucnost CZFree.Net brání masovému rozšíření.
+- Nástup ADSL a sdílení internetu přes WiFi routery představují konkurenci pro CZFree.Net.
+- CZFree.Net je edukační kurz pro technicky zdatné, nikoliv řešení pro běžné uživatele.
+title: WiFi v&nbsp;ČR, CzFree.Net, ADSL a&nbsp;Český Telecom
 ---
+
 <p>
 Lupa v dnešním článku <A href="http://www.lupa.cz/clanek.php3?show=2622" target=_blank>CZFree.Net roste a sílí</A> hezky rekapituluje fungování komunitních sítí WiFi u nás. Marigold doporučuje ke čtení. Do závěrů se Lupa moc nepouští a dobře dělá. CZFree.Net v současné době není koherentní síť, ale spíše myšlenková a hlavně experimentální platforma, která zatím (a dlouho tomu tak bude) přináší praktický užitek pouze technicky erudovaným jedincům navíc ve vhodné lokalitě. Nadšení, že se lidé budou houfně připojovat přes CZFree.Net Marigold sdílet nemůže - zatím se horko těžko spolu propojují jednotlivé body, natož aby bylo možno k bodům plošně připojovat i normální lidi. Problémy: vysoká pořizovací cena, ne zcela jistá budoucnost (co když se odstěhuje majitel hotspotu, na který jste připojeni). V oblastech kde je UPC, je WiFi hodně používáno pro sdílení UPC (v rozporu se smlouvou, ale squadra páně&#160;BArtoně drží jazyk za zuby, mnoho klientů ani tu tisícovku neunese) - a běžní lidé tam do CZFree za stávajících nákladů a náročnosti nepůjdou. </p>
 

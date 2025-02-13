@@ -1,16 +1,23 @@
 ---
 ID: 228
-title: >
-  Oskarova reklama na Moje Jednička je
-  příšerná
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oskarova-reklama-na-moje-jednicka-je-priserna
-published: true
+oldlink: 'https://www.marigold.cz/item/oskarova-reklama-na-moje-jednicka-je-priserna
+
+  '
 post_date: 2003-04-10 10:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Reklamní bloky na Nově rušily sledování filmu Divoká řeka.
+- Oskarova reklama Moje jednička je oproti dřívějším reklamám krok zpět.
+- Dřívější reklamy Oskara byly vkusné, s detaily a bez obličejů.
+- Nová reklama Oskara se podobá stupidním reklamám T-Mobilu a Eurotelu.
+title: 'Oskarova reklama na Moje Jednička je příšerná
+
+  '
 ---
+
 <p>
 Včera jsem se zase po dlouhé době díval na televizi jindy, než na zprávy, které stíhám bez reklam. Film Divoká řeka Nova zvládla prošpikovat reklamními bloky snad co dvacet minut a už to bylo hodně nepříjemné, protože tak často nepotřebuju do kuchyně skočit ani pro pití, ani pro něco k jídlu. A tak jsem shlédl reklamu Oskara na službu Moje jednička. </p>
 

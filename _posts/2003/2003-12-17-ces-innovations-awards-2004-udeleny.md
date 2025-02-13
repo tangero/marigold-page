@@ -1,14 +1,21 @@
 ---
 ID: 747
-title: CES Innovations Awards 2004 uděleny
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ces-innovations-awards-2004-udeleny
-published: true
+oldlink: 'https://www.marigold.cz/item/ces-innovations-awards-2004-udeleny
+
+  '
 post_date: 2003-12-17 09:17:00
+post_excerpt: ''
+published: true
+summary_points:
+- CES Innovations Awards 2004 vyhlásila nejinovativnější spotřební elektroniku.
+- ArrowVision Fingerprint Doorlock je zámek ovládaný otiskem prstu.
+- NETGEAR WGT634U vyhrál v Home Networking kategorii.
+- Danger Hiptop zvítězil v kategorii Wireless Communications.
+title: CES Innovations Awards 2004 uděleny
 ---
+
 <p>
 Asociace CEA oznámila vítěze cen CES Innovations pro rok 2004, tedy nejinovativnější produkty ve spotřební elektronice (akce je spojena s veletrhem CES).</p>
 

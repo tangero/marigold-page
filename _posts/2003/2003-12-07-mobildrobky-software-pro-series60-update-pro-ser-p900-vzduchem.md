@@ -1,14 +1,23 @@
 ---
 ID: 723
-title: 'Mobildrobky: software pro Series60, update pro SEr P900 vzduchem'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobildrobky-software-pro-series60-update-pro-ser-p900-vzduchem
-published: true
+oldlink: 'https://www.marigold.cz/item/mobildrobky-software-pro-series60-update-pro-ser-p900-vzduchem
+
+  '
 post_date: 2003-12-07 17:54:00
+post_excerpt: ''
+published: true
+summary_points:
+- Visual Communicator, Push To Talk aplikace pro Series 60, je dostupná na Handango
+  za 10 USD.
+- Symbian Dater je bezplatný program pro seznamování přes bluetooth na telefonech
+  Symbian.
+- ETI Camcorder Pro umožňuje nahrávání videa na Series 60 bez omezení délky záznamu.
+- Sony Ericsson P900 umožňuje vzdálenou instalaci firmware bez nutnosti servisu.
+title: 'Mobildrobky: software pro Series60, update pro SEr P900 vzduchem'
 ---
+
 <p>
 Narazil jsem na dva zajímavé programy pro Series 60 telefony, tedy pro Nokia 3650/7650. O prvním, <STRONG>Visual Communicatoru</STRONG>, Push To Talk aplikaci, jsem se již zmiňoval, tehdy ale ještě nebyla ke stažení. Dnes už <A href="http://www.handango.com/PlatformProductDetail.jsp?siteId=1&amp;osId=298&amp;jid=XC34D41XE3X71F725DF8437XCCE81784&amp;platformId=4&amp;productType=2&amp;sectionId=0&amp;productId=93012&amp;catalog=0" target=_blank>na Handango je</A>, můžete ji vyzkoušet. Plná verze stojí 10 USD, sám bohužel nemám proti komu to vyzkoušet, ale nějaké poznatky už na stránky přinášejí recenzenti... Další recenze na <A href="http://www.mobitopia.com/20031205.html#013413" target=_blank>Mobitopia</A>.</p>
 

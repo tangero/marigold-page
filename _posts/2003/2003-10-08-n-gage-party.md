@@ -1,14 +1,21 @@
 ---
 ID: 566
-title: N-Gage párty
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/n-gage-party
-published: true
+oldlink: 'https://www.marigold.cz/item/n-gage-party
+
+  '
 post_date: 2003-10-08 07:13:00
+post_excerpt: ''
+published: true
+summary_points:
+- Nokia uspořádala celosvětovou párty v Praze k uvedení herního telefonu N-Gage.
+- Vstup na párty v Celnici střežili vojáci s M16, což byl vtípek.
+- Nokia investuje 40% marketingového rozpočtu do podpory N-Gage.
+- Dealeři jsou skeptičtí ohledně prodeje N-Gage cílové skupině 18-25 let.
+title: N-Gage párty
 ---
+
 <p>
 Nokia včera vypouštěla oficiálně do světa svoji herně telefonní mašinku N-Gage a při té příležitosti udělala velkou párty, jak to jen Nokia umí. Dělala ji celosvětově, já jsem dorazil do Celnice na tu pražskou.</p>
 

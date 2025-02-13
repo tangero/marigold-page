@@ -1,14 +1,23 @@
 ---
 ID: 1067
-title: '3. Další šíření sítě EARN u&nbsp;nás a&nbsp;vznik CESNETu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/3-dalsi-sireni-site-earn-u-nas-a-vznik-cesnetu
-published: true
+oldlink: 'https://www.marigold.cz/item/3-dalsi-sireni-site-earn-u-nas-a-vznik-cesnetu
+
+  '
 post_date: 2003-03-03 09:49:00
+post_excerpt: ''
+published: true
+summary_points:
+- Československo se připojilo do EARNu, ale pouze pražská akademická pracoviště.
+- EARN nebyl perspektivní kvůli specifickým protokolům a nemožnosti propojení s jinými
+  sítěmi.
+- Vznikla myšlenka celostátní páteřní sítě pro akademická pracoviště, budoucí CESNET.
+- Pro CESNET se zvažovaly protokoly X.25 (levnější) a TCP/IP (modernější), zvolen
+  TCP/IP.
+title: 3. Další šíření sítě EARN u&nbsp;nás a&nbsp;vznik CESNETu
 ---
+
 Československo se sice připojilo do EARNu, ale jen pražská akademická pracoviště. A tak se začalo pracovat na celostátní páteřní akademické síti - ta později dostala jméno CESNET.<!--more--><p>
 Připojením do sítě EARN&#160;ovšem bylo vyřešeno připojení jednoho pracoviště v Praze - akademických pracovišť, která by logicky měla být napojena do sítě EARN, byly ale v české republice desítky. Problém představovala telekomunikační infrastruktura nalézající se v té době v neuspokojivém stavu. Cena za pronájem analogové linky nevalné kvality a hlavně nevalné přenosové rychlosti tehdy neumožňovala připojit většinu pracovitšť pevnou linkou. Proto se EARN rozšířil rychle v rámci Prahy, kde poplatky a vzdálenosti mezi pracovišti nebyly velké, z ostatních měst se ale dostal pouze do Brna a Bánské Bystrice. Ostatní pracoviště se musely připojovat terminálovým přístupem pomocí komutované telefonní linky, tedy za klasické telefonní poplatky a tomu odpovídající rychlost 2400 nebo 9600 bps. V tomto případě šlo o velmi nekomfortní, dlouhodobě neperspektivní a vzhledem ke kvalitě služeb i velmi drahé řešení a bylo třeba začít hledat východisko. 
 <p>

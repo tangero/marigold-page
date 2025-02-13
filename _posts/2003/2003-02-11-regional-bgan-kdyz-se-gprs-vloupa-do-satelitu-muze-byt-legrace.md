@@ -1,14 +1,21 @@
 ---
 ID: 86
-title: 'Regional Bgan &#8211; když se GPRS vloupá do satelitů, může být legrace'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/regional-bgan-kdyz-se-gprs-vloupa-do-satelitu-muze-byt-legrace
-published: true
+oldlink: 'https://www.marigold.cz/item/regional-bgan-kdyz-se-gprs-vloupa-do-satelitu-muze-byt-legrace
+
+  '
 post_date: 2003-02-11 08:01:00
+post_excerpt: ''
+published: true
+summary_points:
+- Regional Bgan nabízí rychlá satelitní data, o kterých se v Čechách nemluví.
+- Satelitní modem pro Bgan váží 1,6 kg a má USB, ethernet i bluetooth.
+- Bgan dosahuje rychlosti 144 Kbps a komerčně funguje od roku 2002.
+- Pokrytí Bgan zahrnuje 99 států a do roku 2004 pokryje většinu Země.
+title: Regional Bgan &#8211; když se GPRS vloupá do satelitů, může být legrace
 ---
+
 <p>
 Strašně dlouho jsem považoval Inmarsat za beznadějně zastarávající systém. Iridum a Globalstar nabízely více a modernějších možností. Jenže obchodně neobstály právě pro svoje náklady na onu modernost. Mezi tím Inmarsat posadil na oblohu pár nových satelitů a rozhodl se nabídnout nové a moderní služby, především pak přenosy dat. A tak se <STRONG>narodil systém Regional Bgan</STRONG>, o němž jsem v Čechách zatím nezaznamenal ani zmínku. V podstatě jde o rychlá data skrze satelit.</p>
 

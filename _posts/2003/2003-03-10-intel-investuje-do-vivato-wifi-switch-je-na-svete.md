@@ -1,14 +1,20 @@
 ---
 ID: 157
-title: 'Intel investuje do Vivato &#8211; WiFi switch je na světě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/intel-investuje-do-vivato-wifi-switch-je-na-svete
-published: true
+oldlink: 'https://www.marigold.cz/item/intel-investuje-do-vivato-wifi-switch-je-na-svete
+
+  '
 post_date: 2003-03-10 10:58:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vivato uvádí WiFi switch s anténou na bázi fázového pole pro zvýšení dosahu.
+- Intel Communications Fund investuje 29 milionů dolarů do společnosti Vivato.
+- WiFi switch Vivato je určen pro firmy, stojí 10 000 USD a obslouží 150 uživatelů.
+title: Intel investuje do Vivato &#8211; WiFi switch je na světě
 ---
+
 <p>
 Společnost Vivato je známá především svým nedávno představeným a <STRONG>nyní k prodeji přichystaným WiFi switchem a anténou na bázi fázového pole</STRONG>. Toto zařízení slibuje zvýšení dosahu, propustnosti a bezpečnosti WiFi, protože vysílá signál určený pro WiFi klienta pouze v určitém směru (hooodně zjednodušeně řečeno).</p>
 

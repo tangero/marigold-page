@@ -1,16 +1,25 @@
 ---
 ID: 77
-title: >
-  Spotřební elektronika Philips vybavena
-  WiFi. Ostatně, vede tudy cesta?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/spotrebni-elektronika-philips-vybavena-wifi-ostatne-vede-tudy-cesta
-published: true
+oldlink: 'https://www.marigold.cz/item/spotrebni-elektronika-philips-vybavena-wifi-ostatne-vede-tudy-cesta
+
+  '
 post_date: 2003-02-06 08:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Philips představuje Streamium MCi-250, Wireless Digital Multimedia Reciever a iPronto
+  s WiFi.
+- Výrobci spotřební elektroniky se obtížně prosazují v počítačovém průmyslu kromě
+  Sony.
+- Uživatelé chtějí propojit počítače s audio-video systémy, což WiFi umožňuje.
+- WiFi home centrála propojuje TV, věž a další spotřebiče s počítačem bezdrátově.
+title: 'Spotřební elektronika Philips vybavena WiFi. Ostatně, vede tudy cesta?
+
+  '
 ---
+
 <p>
 Na <A href="http://www.technet.cz/novinky/philips2003.html" target=_blank>Technetu najdete</A> novinky Philipsu připravované pro CeBIT. A konečně dochází na to, že se bezdrátové sítě dostávají i do spotřební elektroniky. Philips představuje minivěž <STRONG>Streamium MCi-250</STRONG> vybavenou mimo jiné WiFi rozhraním, dále <STRONG>Wireless Digital Multimedia Reciever</STRONG>, centrálu domácí zábavy, která propojí další zařízení jako TV, rádio atd s vaším domácím počítačem a umožní míchat a propojovat vše se vším bez drátů. Vrcholem všeho je dálkové ovládání <STRONG>Philips iPronto</STRONG> schopné používat jak WiFi tak infra pro pohodlné ovládání jednotlivých spotřebičů.</p>
 

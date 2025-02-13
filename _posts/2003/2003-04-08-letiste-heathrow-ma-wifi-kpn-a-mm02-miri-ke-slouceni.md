@@ -1,14 +1,20 @@
 ---
 ID: 225
-title: 'Letiště Heathrow má WiFi, KPN a&nbsp;mm02 míří ke sloučení,'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/letiste-heathrow-ma-wifi-kpn-a-mm02-miri-ke-slouceni
-published: true
+oldlink: 'https://www.marigold.cz/item/letiste-heathrow-ma-wifi-kpn-a-mm02-miri-ke-slouceni
+
+  '
 post_date: 2003-04-08 08:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- Heathrow nabízí WiFi na Terminálu 1 za 6 liber/hodinu nebo 85 liber/měsíc.
+- KPN a mmO2 zvažují fúzi, čímž vznikne velká nadnárodní mobilní skupina.
+- Hagiwara Sys-Com bude vyrábět WiFi SD a Memorystick karty pro Palmy.
+title: Letiště Heathrow má WiFi, KPN a&nbsp;mm02 míří ke sloučení,
 ---
+
 <p>
 Na londýnském letišti <STRONG>Heathrow můžete používat přístup do WiFi sítě</STRONG>. Ovšem pouze na Terminálu 1 a za pěkně mastné peníze. Buďto 6 liber na hodinu, nebo 85 liber na měsíc, což je 300 Kč za hodinu nebo 4300 Kč na měsíc. Pěkně drahé! ... podrobnosti na <A href="http://news.zdnet.co.uk/story/0,,t269-s2133058,00.html" target=_blank>ZD News</A>.</p>
 

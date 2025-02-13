@@ -1,14 +1,21 @@
 ---
 ID: 68
-title: 'WiFi vážně bude ohrožovat 3G sítě &#8211; už se bojí i&nbsp;BT&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wifi-vazne-bude-ohrozovat-3g-site-uz-se-boji-i-bt
-published: true
+oldlink: 'https://www.marigold.cz/item/wifi-vazne-bude-ohrozovat-3g-site-uz-se-boji-i-bt
+
+  '
 post_date: 2003-01-30 09:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi sítě představují pro UMTS sítě vážný problém kvůli ceně a rychlosti dat.
+- UMTS je dražší než WiFi a v počátcích nabídne podobnou rychlost jako GSM.
+- Zákazníci se orientují podle ceny a volí levnější WiFi namísto drahého UMTS.
+- UMTS se potýká s finančními problémy kvůli vysokým poplatkům za licence.
+title: WiFi vážně bude ohrožovat 3G sítě &#8211; už se bojí i&nbsp;BT&#8230;
 ---
+
 <p>
 Další zajímavý článek je na ZDNetu: <A href="http://news.zdnet.co.uk/story/0,,t269-s2129548,00.html?rtag=marigold" target=_blank>BT's Wi-Fi adventure snubs 3G</A>. Konečně někdo přiznává to, na co jsem dlouho upozorňoval - <STRONG>WiFi sítě znamenají "problémy" pro sítě 3G, tedy UMTS</STRONG>. A to problémy smrtelné!&#160;Proč? Inu, protože UMTS jsou vlastně jen hlasové hovory a rychlejší data. Jenže ne tak rychlá data, jako WiFi a zdaleka dražší. Proč byste neměli používat WiFi spolu s telefonem GSM vybaveným daty HSCSD/GPRS jakožto záložním datovým spojem? Stejně UMTS sítě ze začátku nabídnou rychlost podobnou jako GSM a v terénu nebudou mít pokrytí vůbec a budou se spoléhat na GSM. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 182
-title: 'Český zavináč 2002: CzFree Net je událost roku. A&nbsp;další výsledky?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-zavinac-2002-czfree-net-je-udalost-roku-a-dalsi-vysledky
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-zavinac-2002-czfree-net-je-udalost-roku-a-dalsi-vysledky
+
+  '
 post_date: 2003-03-20 20:05:00
+post_excerpt: ''
+published: true
+summary_points:
+- CzFree Net vyhrál cenu Českého Zavináče za Událost roku 2002.
+- České noviny získaly ocenění pro nejlepší zpravodajský server.
+- Peterka Jiří obdržel cenu pro internetového novináře za články o telekomunikacích.
+- Ondřej Neff byl oceněn jako osobnost českého internetu.
+title: 'Český zavináč 2002: CzFree Net je událost roku. A&nbsp;další výsledky?'
 ---
+
 <p>
 Ceny Českého Zavináče jsou rozdány a tak už víme, že Událostí roku 2002 bylo zvoleno právě CzFree Net - blahopřejeme. A protože se výsledky právě oznamují, nevynecháme ani další ocenění:</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 136
-title: 'Update Přehledu WiFi techniky a&nbsp;Historie internetu pokračuje'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/update-prehledu-wifi-techniky-a-historie-internetu-pokracuje
-published: true
+oldlink: 'https://www.marigold.cz/item/update-prehledu-wifi-techniky-a-historie-internetu-pokracuje
+
+  '
 post_date: 2003-03-03 16:32:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ceny WiFi techniky byly aktualizovány, zobrazuje se datum poslední aktualizace.
+- WiFi technika zlevnila za dva měsíce průměrně o 10 procent.
+- Některé starší WiFi výrobky byly nahrazeny novějšími modely.
+- Rubrika Historie českého internetu byla vylepšena a doplněna o úvod.
+title: Update Přehledu WiFi techniky a&nbsp;Historie internetu pokračuje
 ---
+
 <p>
 Po dvou měsících jsem se dostal k tomu, abych v rubrice Přehledy WiFi techniky updatoval většinu cen. Jen někde ještě čekám na doručení cenníků, abych zapsal aktuální ceny. Pro jistotu jsem ale výpis upravil tak, aby se zobrazovalo, kdy naposledy byla cena aktualizována. Snad vám to pomůže. </p>
 

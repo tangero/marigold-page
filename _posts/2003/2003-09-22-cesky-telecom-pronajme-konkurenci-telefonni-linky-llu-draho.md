@@ -1,16 +1,27 @@
 ---
 ID: 518
-title: >
-  Český Telecom pronajme konkurenci
-  telefonní linky (LLU). Draho.
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-telecom-pronajme-konkurenci-telefonni-linky-llu-draho
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-telecom-pronajme-konkurenci-telefonni-linky-llu-draho
+
+  '
 post_date: 2003-09-22 07:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom nabízí pronájem linek konkurenci, což umožní kompletní účet od alternativního
+  operátora.
+- Pronájem linek je pro konkurenci dražší (491 Kč) než pro koncové zákazníky (299
+  Kč).
+- V Evropě je pronájem linek málo rozšířený kvůli podobným cenovým podmínkám jako
+  v ČR.
+- Alternativní operátoři se zaměří na firmy, protože se jim pronájem linek vyplatí
+  více.
+title: 'Český Telecom pronajme konkurenci telefonní linky (LLU). Draho.
+
+  '
 ---
+
 <p>
 Český Telecom konečně splnil další podmínku pro liberalizaci telekomunikačního trhu (jako vždy se zpožděním oproti původním plánům). Nabídne konkurenci pronájem telefonních linek, tedy abyste tomu rozuměli: nyní vám může kompletní účet přijít od jednoho alternativního operátora, protože on si pronajme telefonní linku vedoucí k vám. Až doposud pevnou linku vám účtoval Telecom a platby za hovory Telecom a alternativní operátor, pokud jste ho používali. </p>
 

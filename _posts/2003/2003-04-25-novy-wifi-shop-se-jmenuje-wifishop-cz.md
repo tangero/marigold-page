@@ -1,16 +1,23 @@
 ---
 ID: 254
-title: >
-  Nový WiFi shop se jmenuje WiFishop.cz
-  :)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/novy-wifi-shop-se-jmenuje-wifishop-cz
-published: true
+oldlink: 'https://www.marigold.cz/item/novy-wifi-shop-se-jmenuje-wifishop-cz
+
+  '
 post_date: 2003-04-25 12:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- Vanco.Net spustil WiFi shop wifi-shop.cz s potřebami pro síťaře.
+- Vanco.Net má výhodu skladové dostupnosti díky vlastní výstavbě sítí.
+- Logistika e-shopů je náročná, autor má zkušenosti z Mobil Media a Cinetiku.
+- Autorovi trvala objednávka z Elity přes týden, navýšili cenu o 50%.
+title: 'Nový WiFi shop se jmenuje WiFishop.cz :)
+
+  '
 ---
+
 <p>
 <p>
 Nedávno jsem dostal tip na <STRONG>právě zahájený provoz WiFi shopu firmy Vanco.Net</STRONG>, provozovatele sítě WIA. Shop najdete na doméně <A href="http://www.wifi-shop.cz/" target=_blank>wifi-shop.cz</A>- a příjemné na něm je to, že na něm najdete všechno možné co je pro síťařinu potřeba a to včetně stožárů, hmoždinek a dalších legrácek. Například výběr access pointů tu není nijak široký - v podstatě jen dva levné a několik drahých, například shop od Elity má nabídku širší. Otázka je, jestli mezi access pointy najdete tolik rozdílů (vyjma ceny), abyste museli vybírat podle značek. </p>

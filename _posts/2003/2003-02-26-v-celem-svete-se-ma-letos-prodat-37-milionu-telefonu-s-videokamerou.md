@@ -1,14 +1,21 @@
 ---
 ID: 121
-title: 'V celém světě se má letos prodat 37 milionů telefonů s&nbsp;videokamerou'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/v-celem-svete-se-ma-letos-prodat-37-milionu-telefonu-s-videokamerou
-published: true
+oldlink: 'https://www.marigold.cz/item/v-celem-svete-se-ma-letos-prodat-37-milionu-telefonu-s-videokamerou
+
+  '
 post_date: 2003-02-26 08:42:00
+post_excerpt: ''
+published: true
+summary_points:
+- milionů mobilů s kamerou se očekává letos, dle analytické skupiny SA.
+- Vodafone loni prodal 36 procent z 18 milionů mobilů s kamerou.
+- Nokia ovládla 91 procent prodeje GSM telefonů s vestavěnou kamerou.
+- Ericsson prodal přes 2 miliony přídavných fotoaparátů k mobilním telefonům.
+title: V celém světě se má letos prodat 37 milionů telefonů s&nbsp;videokamerou
 ---
+
 <p>
 Čočka vestavěné digitální kamery má letos zdobit přes 37 milionů mobilních telefonů. Toliko mne zaujalo z poslední zprávy analytické skupiny SA. </p>
 

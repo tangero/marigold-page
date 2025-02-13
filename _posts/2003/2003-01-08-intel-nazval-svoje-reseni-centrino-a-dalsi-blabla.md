@@ -1,14 +1,21 @@
 ---
 ID: 34
-title: 'Intel nazval svoje řešení Centrino a&nbsp;další bláblá'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/intel-nazval-svoje-reseni-centrino-a-dalsi-blabla
-published: true
+oldlink: 'https://www.marigold.cz/item/intel-nazval-svoje-reseni-centrino-a-dalsi-blabla
+
+  '
 post_date: 2003-01-08 16:17:00
+post_excerpt: ''
+published: true
+summary_points:
+- Centrino je nové notebookové řešení Intelu s novou architekturou procesoru a WiFi.
+- Intel Centrino nepřináší zásadní inovace, podobné funkce jsou dostupné i jinde.
+- Centrino integruje procesor, čipset a WiFi, dříve vyvíjené samostatně.
+- Intel Centrino přispěje k rozšíření WiFi jako standardu v noteboocích.
+title: Intel nazval svoje řešení Centrino a&nbsp;další bláblá
 ---
+
 <p>
 Intel dneska oficiálně představil svoje notebookové technologické&#160;řešení nazvané Centrino. Jeho základem je nová mikroarchitektura procesoru, nové bezdrátové funkce, konstrukční prvky pro prodloužení provozu akumulátorů, menší rozměry s nižší váhou a mobilní výkon. Pro nás je podstatné to, že Centrino také v sobě má zahrnovat podporu WiFi, takže notebooky vybavené Centrinem budou automaticky podporovat i Wi-Fi. </p>
 

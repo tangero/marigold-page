@@ -1,15 +1,25 @@
 ---
 ID: 1081
-title: Garangova limita
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- Povídka
+- Umělá inteligence
+- AI
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/garangova-limita
-published: true
+oldlink: 'https://www.marigold.cz/item/garangova-limita
+
+  '
 post_date: 2003-11-23 23:14:00
-categories: [Povídka, Umělá inteligence, AI]
+post_excerpt: ''
+published: true
+summary_points:
+- Garangova limita definuje nedosažitelnost umělé inteligence bez mimosmyslové komunikace.
+- CeBIT 2005 se stal místem sporu Ballmera (Microsoft) a Garanga o UI.
+- Garangova smrt, infarkt, vyvolala konspirace a protimicrosoftí vlnu.
+- Borland s neurogramingem částečně posunul vývoj, ale limitu nepřekonal.
+title: Garangova limita
 ---
+
 Povídka na téma umělé inteligence a problémů s ní spojených. Pomezí sci-fi a sociologické eseje :)
 
 <!--more-->

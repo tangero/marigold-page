@@ -1,14 +1,22 @@
 ---
 ID: 172
-title: 'Lupa o&nbsp;certifikaci a&nbsp;přejmenování WiFi aliance. Omrkněte chytré displeje na CeBITu.'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/lupa-o-certifikaci-a-prejmenovani-wifi-aliance-omrknete-chytre-displeje-na-cebitu
-published: true
+oldlink: 'https://www.marigold.cz/item/lupa-o-certifikaci-a-prejmenovani-wifi-aliance-omrknete-chytre-displeje-na-cebitu
+
+  '
 post_date: 2003-03-17 08:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Lupa článek Jiřího Peterky pojednává o WiFi certifikacích a změnách v názvosloví.
+- WECA se přejmenovala na WiFi Alianci, označení Wi-FI5 se ruší.
+- CeBIT prezentuje "chytré displeje" od Microsoftu a partnerů.
+- Chytrý displej funguje bezdrátově, ale je zatím příliš drahý.
+title: Lupa o&nbsp;certifikaci a&nbsp;přejmenování WiFi aliance. Omrkněte chytré displeje
+  na CeBITu.
 ---
+
 <p>
 Na Lupě najdete hezký <STRONG>článek Jiřího Peterky o WiFi certifikacích a změnách v názvosloví</STRONG>. Už víme, že WECA se přejmenovala na WiFi Alianci a že místo označení Wi-FI5 pro výrobky podle 802.11a se bude také používat jen WiFi. Další podrobnosti z CeBITu popisuje tento <A href="http://www.lupa.cz/clanek.php3?show=2752" target=_blank>článek na Lupě</A>. Doporučuji přečíst, my od psaní na toto téma tedy upouštíme. </p>
 

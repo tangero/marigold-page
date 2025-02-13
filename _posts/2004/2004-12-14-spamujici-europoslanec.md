@@ -1,14 +1,23 @@
 ---
 ID: 1442
-title: Spamující Europoslanec?!
 author: Noname
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/spamujici-europoslanec
-published: true
+oldlink: 'https://www.marigold.cz/item/spamujici-europoslanec
+
+  '
 post_date: 2004-12-14 13:17:00
+post_excerpt: ''
+published: true
+summary_points:
+- JUDr. Stanislav Polčák odeslal hromadný e-mail redaktorům z freemailové adresy polcak@email.cz.
+- E-mail obsahoval návrh poslance ohledně patentovatelnosti software ve formátu PDF.
+- Autor kritizuje spamovou formu rozesílání a právní přestupek ze strany poslanecké
+  kanceláře.
+- Přiložený faxový dokument obsahoval ručně psané podpisy poslanců a faxové číslo
+  kanceláře.
+title: Spamující Europoslanec?!
 ---
+
 <p>
 Právě mi přišel e-mail od člověka s tímto podpisem:</p>
 

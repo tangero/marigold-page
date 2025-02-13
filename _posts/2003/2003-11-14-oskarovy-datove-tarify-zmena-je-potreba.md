@@ -1,14 +1,21 @@
 ---
 ID: 669
-title: 'Oskarovy datové tarify &#8211; změna je potřeba'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oskarovy-datove-tarify-zmena-je-potreba
-published: true
+oldlink: 'https://www.marigold.cz/item/oskarovy-datove-tarify-zmena-je-potreba
+
+  '
 post_date: 2003-11-14 08:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Oskar chystá změny datových tarifů, detaily nejsou známy.
+- Lidé chtějí levné datové tarify, ale Oskar se bojí zátěže sítě.
+- Oskar by měl srovnat ceny Basic a Standard GPRS tarifů.
+- Doporučuje se zahrnout data do paušálu Standard tarifu.
+title: Oskarovy datové tarify &#8211; změna je potřeba
 ---
+
 <p>
 MobilMania publikovala včera <A href="http://www.mobilmania.cz/Bleskovky/F.asp?ARI=105766&amp;HID=1&amp;CAI=2097" target=_blank>krátký článeček</A> ("bleskovku") o tom, že se Oskar chystá změnit datové tarify. Krátkou větičku o tom prohlásil někdo z Oskara v Euru, bohužel nejsou známy žádné oficiální detaily. A tak malé zamyšlení.</p>
 

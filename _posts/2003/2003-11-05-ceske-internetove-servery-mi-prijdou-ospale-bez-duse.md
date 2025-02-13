@@ -1,14 +1,21 @@
 ---
 ID: 641
-title: 'České internetové servery mi přijdou ospalé, bez duše&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ceske-internetove-servery-mi-prijdou-ospale-bez-duse
-published: true
+oldlink: 'https://www.marigold.cz/item/ceske-internetove-servery-mi-prijdou-ospale-bez-duse
+
+  '
 post_date: 2003-11-05 11:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- Technické servery v Česku se omezují na tiskové zprávy, chybí vlastní aktivita.
+- Lupa ztratila zajímavé autory a koncepci serveru o internetu.
+- Živě.cz slouží Cpressu jako marketingový kanál, analýzy se schovávají.
+- Redakce zeštíhlely, chybí lidé na složitější témata, atraktivita klesá.
+title: České internetové servery mi přijdou ospalé, bez duše&#8230;
 ---
+
 <p>
 <BR>Už delší dobu mi přijde, že české technické servery, jsou nějaké chcíplé. Většina z nich se snaží držet krok tak maximálně s tiskovými zprávami výrobců a operátorů, o nějaké vlastní aktivitě nemůže být příliš řeči. </p>
 

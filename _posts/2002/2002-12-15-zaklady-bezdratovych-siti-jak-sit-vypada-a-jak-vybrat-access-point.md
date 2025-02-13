@@ -1,14 +1,21 @@
 ---
 ID: 1060
-title: 'Základy bezdrátových sítí: jak síť vypadá a&nbsp;jak vybrat Access Point?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/zaklady-bezdratovych-siti-jak-sit-vypada-a-jak-vybrat-access-point
-published: true
+oldlink: 'https://www.marigold.cz/item/zaklady-bezdratovych-siti-jak-sit-vypada-a-jak-vybrat-access-point
+
+  '
 post_date: 2002-12-15 20:08:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ad-hoc sítě jsou jednoduché peer-to-peer propojení, vhodné pro rychlé, dočasné použití.
+- Infrastrukturní sítě využívají access point pro komunikaci mezi zařízeními.
+- Access point směruje provoz mezi bezdrátovými klienty a kabelovou sítí.
+- Cena access pointu závisí na počtu obsloužených klientů, rychlosti a funkcích správy.
+title: 'Základy bezdrátových sítí: jak síť vypadá a&nbsp;jak vybrat Access Point?'
 ---
+
 Náš malý úvodní seriál o bezdrátových sítích pokračuje. Tentokráte se dozvíte o dvou základních typech bezdrátových sítích, infrastrukturní a ad-hoc síti. A navíc se podíváme na to, co má access point umět.<!--more-->Tento článek by měl navazovat na teoretické základy o standardu IEEE802.11b, o kterých jsme se dozvěděli minule a i tyto základy lze vztáhnout i na další odvozené standardy, jako je IEEE802.11a nebo 802.11g. 
 <p>
 Před tím, než začnete stavět bezdrátovou síť, je třeba si udělat jasno v tom, jaká bude její základní struktura, tedy jak vlastně chcete mezi sebou propojovat počítače. 

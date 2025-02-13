@@ -1,14 +1,23 @@
 ---
 ID: 312
-title: 'Genoa II &#8211; zázrak spolupráce?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/genoa-ii-zazrak-spoluprace
-published: true
+oldlink: 'https://www.marigold.cz/item/genoa-ii-zazrak-spoluprace
+
+  '
 post_date: 2003-05-25 09:17:00
+post_excerpt: ''
+published: true
+summary_points:
+- Genoa II je projekt americké vlády pro analýzu dat souvisejících s terorismem v
+  USA.
+- Cílem Genoa II je propojit lidské a strojové myšlení pro efektivnější řešení problémů.
+- Projekt Genoa II má zjednodušit vyhledávání informací a vytvořit dynamickou síť
+  spolupráce.
+- Autor hledá software pro automatické vyhodnocování a odpovídání na firemní emaily.
+title: Genoa II &#8211; zázrak spolupráce?
 ---
+
 <p>
 O třetí hodině ranní brouzdání webem jsem narazil čistě náhodou na zajímavý <A href="http://www.darpa.mil/iao/GenoaII.htm" target=_blank>projekt Genoa II</A>. Anžto mi přišel vskutku zajímavý a nikde u nás jsem o tom neslyšel, vizte zde pár informací. </p>
 

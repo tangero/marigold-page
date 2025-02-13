@@ -1,14 +1,21 @@
 ---
 ID: 935
-title: 'Do třetice UPC Chello: tentokráte se navyšuje rychlost'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/do-tretice-upc-chello-tentokrate-se-navysuje-rychlost
-published: true
+oldlink: 'https://www.marigold.cz/item/do-tretice-upc-chello-tentokrate-se-navysuje-rychlost
+
+  '
 post_date: 2004-03-22 12:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- UPC navyšuje rychlosti Chello Classic, Plus a Profi od 24. března.
+- Chello Classic nově nabídne rychlost 768/128 Kb/s.
+- Chello Plus nově nabídne rychlost 1024/256 Kb/s.
+- Tisková zpráva UPC nezmiňuje zavedení datových limitů.
+title: 'Do třetice UPC Chello: tentokráte se navyšuje rychlost'
 ---
+
 <p>
 UPC právě rozesílalo tiskovou zprávu, v níž informuje o navýšení rychlosti u kabelového připojení Chello beze změny ceny. Změny budou vypadat následovně:</p>
 

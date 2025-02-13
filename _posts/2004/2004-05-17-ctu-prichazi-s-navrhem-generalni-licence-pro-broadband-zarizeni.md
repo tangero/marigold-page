@@ -1,14 +1,22 @@
 ---
 ID: 1037
-title: 'ČTÚ přichází s&nbsp;návrhem generální licence pro broadband zařízení'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/ctu-prichazi-s-navrhem-generalni-licence-pro-broadband-zarizeni
-published: true
+oldlink: 'https://www.marigold.cz/item/ctu-prichazi-s-navrhem-generalni-licence-pro-broadband-zarizeni
+
+  '
 post_date: 2004-05-17 09:31:00
+post_excerpt: ''
+published: true
+summary_points:
+- Frekvenční pásma 410-470 MHz a 870-921 MHz jsou určena pro Eurotel CDMA a broadband
+  sítě.
+- Generální licence umožňuje hromadné schvalování zařízení bez dalšího povolení ČTÚ.
+- Maximální ERP je 10 W (200 kHz kanál) nebo 1 W (širší kanál), externí antény zakázány.
+- Platnost generální licence je do 30. června 2014.
+title: ČTÚ přichází s&nbsp;návrhem generální licence pro broadband zařízení
 ---
+
 <p>
 Abychom byli přesní, jedná se o zařízení pracující ve frekvenčním pásmu 410 &#8211; 430 MHz, 450 - 470 MHz a 870 &#8211; 876 MHz / 915 - 921 MHz - tato licence je tedy především směrována k <STRONG>stanovení obecných podmínek pro provoz Eurotel CDMA zařízení</STRONG>, nově ale také otevírá možnosti využití na nižších frekvenčních pásmech, kde jsou dosud nepoužívané Tetra licence a kde by bylo možné postavit další broadband přístupovou síť, pokud by se našel mezi výrobci dobrovolník, který by své zařízení frekvenčně posunul. </p>
 

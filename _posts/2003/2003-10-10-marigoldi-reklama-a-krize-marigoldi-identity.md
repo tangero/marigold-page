@@ -1,14 +1,21 @@
 ---
 ID: 572
-title: 'Marigoldí reklama a&nbsp;krize Marigoldí identity?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/marigoldi-reklama-a-krize-marigoldi-identity
-published: true
+oldlink: 'https://www.marigold.cz/item/marigoldi-reklama-a-krize-marigoldi-identity
+
+  '
 post_date: 2003-10-10 15:20:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold není weblog ani zpravodajský server, je subjektivní.
+- Marigold zavedl reklamní systém s platbou za proklik, bez bannerů.
+- Inzerenti si sami stanovují cenu za proklik, minimálně 5 Kč.
+- Příjmy nad 2000 Kč z reklamy budou investovány do aktualizace databází.
+title: Marigoldí reklama a&nbsp;krize Marigoldí identity?
 ---
+
 <p>
 Na Invexu jsem se potkal s lidmi z různých společností, kteří se mne ptali, co je to vlastně Marigold. Ne snad, že by ho nikdy neviděli, ale nějak jim unikal smysl toho, proč to dělám. Odpověď, že mne to baví, jsem si nechal pro sebe, to u businessmanů je vždy špatná odpověď. </p>
 

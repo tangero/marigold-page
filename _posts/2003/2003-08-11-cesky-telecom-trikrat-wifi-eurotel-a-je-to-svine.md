@@ -1,14 +1,21 @@
 ---
 ID: 438
-title: 'Český Telecom třikrát: WiFi, Eurotel a&nbsp;je to svině'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-telecom-trikrat-wifi-eurotel-a-je-to-svine
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-telecom-trikrat-wifi-eurotel-a-je-to-svine
+
+  '
 post_date: 2003-08-11 10:33:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi uživatelé Českého Telecomu vzrostli o polovinu na 1400 v červenci.
+- Antimonopolní úřad povolil Českému Telecomu vlastnit Eurotel.
+- Český Telecom vymáhal poplatky za odpojenou linku a poslal vymahače.
+- Podzimní kampaň ADSL podpoří trojnásobné zrychlení internetu od Telecomu.
+title: 'Český Telecom třikrát: WiFi, Eurotel a&nbsp;je to svině'
 ---
+
 <p>
 Tři zprávičky věnované Českému Telecomu. Především ohlásil rapidní procentuální vzestup uživatelů svého WiFi připojení. Český Telecom zvýšil v červenci celkový počet uživatelů bezdrátového připojení k internetu prostřednictvím technologie <STRONG>WiFi oproti předchozím sedmi měsícům o polovinu na 1400 lidí</STRONG>. Do června se přitom zaregistrovalo 929 klientů. </p>
 

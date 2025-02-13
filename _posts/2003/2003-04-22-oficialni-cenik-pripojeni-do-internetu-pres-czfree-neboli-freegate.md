@@ -1,14 +1,22 @@
 ---
 ID: 247
-title: '&#8222;Oficiální&#8220; ceník připojení do internetu přes CzFree &#8211; neboli FreeGate'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/oficialni-cenik-pripojeni-do-internetu-pres-czfree-neboli-freegate
-published: true
+oldlink: 'https://www.marigold.cz/item/oficialni-cenik-pripojeni-do-internetu-pres-czfree-neboli-freegate
+
+  '
 post_date: 2003-04-22 08:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- CzFree Net zajišťuje zdarma přenos dat mezi uživateli, internetový přístup je placený.
+- FreeGate nabízí free konektivitu 32 Kbps nodům, studentům a vývojářům CzFree.
+- Vyšší rychlosti FreeGate jsou dražší než nabídky UPC nebo Tesmedia.
+- FreeGate má web internet.czfree.net, kde je nutná nová registrace.
+title: '&#8222;Oficiální&#8220; ceník připojení do internetu přes CzFree &#8211; neboli
+  FreeGate'
 ---
+
 <p>
 CzFree Net je broadband síť, praví se v jejím popisu. Z toho vyplývá, že řešení přístupu do "normálních" sítí jako internet, jest tu řešeno separátně - czfree se stará o přenos dat mezi sebou a to je zdarma. Na vstup do internetu jsou takzvané internetové gatewaye. Ty jsou ovšem placené - a protože CzFree samo o sobě nenabízí mnoho zajímavého obsahu, je o ně zájem. Až dosud se dohadování o tom, kde a jak se dostanete do internetu řešilo ad hoc, nyní jsou tu ale oficiální stránky FreeGate vytvořené přímo Deu (ta gate, ne stránky, ty dělal Carlos).</p>
 

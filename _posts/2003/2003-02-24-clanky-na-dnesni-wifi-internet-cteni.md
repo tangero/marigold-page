@@ -1,16 +1,23 @@
 ---
 ID: 113
-title: >
-  Články na dnešní WiFi / internet
-  čtení
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/clanky-na-dnesni-wifi-internet-cteni
-published: true
+oldlink: 'https://www.marigold.cz/item/clanky-na-dnesni-wifi-internet-cteni
+
+  '
 post_date: 2003-02-24 09:30:00
+post_excerpt: ''
+published: true
+summary_points:
+- Článek o 3G systémech na Mobil.cz byl odložen pro doplnění.
+- Video on demand článek autora vyšel na serveru Lupa.cz.
+- Jiří Hlavenka publikoval na Živě článek o vlivu WiFi na chytré domy.
+- Autor plánuje oprášit starší článek o stavbě chytrého domu s X10.
+title: 'Články na dnešní WiFi / internet čtení
+
+  '
 ---
+
 <p>
 Můj <STRONG>článek o otevřených/uzavřených systémech pro 3G</STRONG> na Mobil.cz dneska nevyšel, Rosťa Kocman ho posunul s tím, že je moc dobrý, aby k němu ještě nesehnal další články, což raději beru jako pochvalu :) Čili na link z předchozí zprávy je zbytečno klikat - zatím nikam nevede. </p>
 

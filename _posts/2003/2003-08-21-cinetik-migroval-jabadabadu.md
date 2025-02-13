@@ -1,14 +1,21 @@
 ---
 ID: 451
-title: 'Cinetik migroval, jabadabadů&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cinetik-migroval-jabadabadu
-published: true
+oldlink: 'https://www.marigold.cz/item/cinetik-migroval-jabadabadu
+
+  '
 post_date: 2003-08-21 07:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor odešel dříve z Cinetiku kvůli migraci systému Michalem.
+- Film Čtyři psi hrají poker byl po dlouhé době kvalitní.
+- Nový web Cinetiku je tvořený CSS, ale není validní.
+- Autor řeší expediční sestavy a tisk adres na obálky.
+title: Cinetik migroval, jabadabadů&#8230;
 ---
+
 <p>
 Včera jsem se výjimečně dříve zdýchnul z <A href="http://www.cinetik.cz/">Cinetiku</A>, protože migrace systému byla na Michalovi a jen bychom se tam pletli. Jinak nebylo co dělat. Když jsem dorazil domů, pustil jsem si nový film<EM> Čtyři psi hrají poker</EM> (na DVD ještě nevyšel, půjčil jsem si ho na VHS u konkurence :) - konečně po dlouhé době film, na který se dalo koukat a měl trochu neotřelý nápad. Po debilitách typu Pluto Nash nebo Absolon či Tělo na tělo dobré osvěžení. A když film skončil, Michal hlásil, že vše je zmigrováno a web běží. Skutečně běžel. </p>
 

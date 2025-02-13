@@ -1,14 +1,21 @@
 ---
 ID: 533
-title: Hackujeme Linksys WRT54G
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hackujeme-linksys-wrt54g
-published: true
+oldlink: 'https://www.marigold.cz/item/hackujeme-linksys-wrt54g
+
+  '
 post_date: 2003-09-26 06:09:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys WRT54G router běží na Linuxu s kernelem 2.4.5.
+- Úpravy WRT54G vyžadují zálohu flash paměti pro případ selhání.
+- WRT54G lze vylepšit o logování přístupů a úvodní stránku.
+- Linksys zveřejnil zdrojové kódy Linuxu pro WRT54G po kritice.
+title: Hackujeme Linksys WRT54G
 ---
+
 <p>
 Konečně se mi zase podařilo uvést můj přístupový bod <STRONG>Linksys WRT54G</STRONG> do původního stavu a tak mohu podat zprávu o tom, s čím jsem si hrál. Tento přístupový bod, resp širokopásmový směrovač <STRONG>je totiž vybaven Linuxem a kernelem 2.4.5</STRONG>. Což dalo příležitost, jak se do něj probojovat a provádět v něm podstatně větší změny, než výrobce zamýšlel přímým dohráním a rekonfigurací ovladačů. Například regulace vysílacího výkonu je dostupná, stačí si na routeru pustit shell...</p>
 

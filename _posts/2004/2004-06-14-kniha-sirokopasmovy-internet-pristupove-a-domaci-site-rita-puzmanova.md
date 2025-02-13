@@ -1,14 +1,22 @@
 ---
 ID: 1142
-title: 'Kniha Širokopásmový Internet &#8211; Přístupové a&nbsp;domácí sítě (Rita Pužmanová)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kniha-sirokopasmovy-internet-pristupove-a-domaci-site-rita-puzmanova
-published: true
+oldlink: 'https://www.marigold.cz/item/kniha-sirokopasmovy-internet-pristupove-a-domaci-site-rita-puzmanova
+
+  '
 post_date: 2004-06-14 08:20:40
+post_excerpt: ''
+published: true
+summary_points:
+- Kniha Širokopásmový Internet od Rity Puzmanové (Cpress) má 380 stran.
+- Popisuje technologie přístupových sítí, včetně DSL, optiky, WiFi, mobilních sítí
+  a dalších.
+- Kniha je spíše přehledem technologií, vhodná pro rychlé zjištění vlastností a parametrů.
+- Polovina knihy se věnuje bezdrátovým sítím, druhá kabelovým technologiím.
+title: Kniha Širokopásmový Internet &#8211; Přístupové a&nbsp;domácí sítě (Rita Pužmanová)
 ---
+
 <p>
 O víkendu jsem si koupil (zřejmě docela nově vyšlou) knihu Rity Puzmanové nazvanou Širokopásmový Internet &#8211; Přístupové a domácí sítě. Vydal Cpress. Kniha má 380 stran a věnuje se technologiím pro první/poslení míli přístupu k internetu, popisuje DSL, optiku, ethernet, bezdrátové sítě WiFi, WiMAX, PAN sítě, VSAT, sítě mobilní (2G i 3G) a také internet po elektrických rozvodech. </p>
 

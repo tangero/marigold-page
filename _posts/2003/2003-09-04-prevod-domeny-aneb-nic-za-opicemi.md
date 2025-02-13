@@ -1,14 +1,21 @@
 ---
 ID: 477
-title: Převod domény aneb NIC za opicemi?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prevod-domeny-aneb-nic-za-opicemi
-published: true
+oldlink: 'https://www.marigold.cz/item/prevod-domeny-aneb-nic-za-opicemi
+
+  '
 post_date: 2003-09-04 08:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Doména grimoar.cz byla převedena z autora na původního kamaráda.
+- Překvapením byl proces generování formuláře pro ověření převodu domény.
+- Formulář se negeneroval přímo, ale posílal se e-mailem.
+- Autor nechápe zastaralé e-mailové rozhraní NICu pro správu domén.
+title: Převod domény aneb NIC za opicemi?
 ---
+
 <p>
 Včera jsem převáděl jednu doménu. Ne snad, že bych byl doménový vexklák, ale kdysi jeden kamarád registroval doménu <A href="http://www.grimoar.cz/" target=_blank>grimoar.cz</A> na mne a nyní jsme se dohodli, že ji na něj převedu, abych ji už neměl na krku. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 708
-title: 'Na jiné ADSL raději zapomeňte&#8230;?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/na-jine-adsl-radeji-zapomente
-published: true
+oldlink: 'https://www.marigold.cz/item/na-jine-adsl-radeji-zapomente
+
+  '
 post_date: 2003-12-01 09:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ studie o cenách ADSL budí rozpaky kvůli metodologickým chybám.
+- Sova kritizuje studii ČTÚ za míchání limitovaných a nelimitovaných variant ADSL.
+- ČTÚ nemůže kritizovat ADSL, protože by přiznalo vlastní nečinnost v minulosti.
+- Firmy se snaží obejít ADSL Telecomu instalací vlastních DSLAMů.
+title: Na jiné ADSL raději zapomeňte&#8230;?
 ---
+
 <p>
 V pátek vydané <STRONG>materiály ČTÚ věnované ADSL</STRONG> dnes plní většinu serverů. Nejdále je na tom samozřejmě Jiří Peterka na Lupě, jehož názor asi nejlépe shrnuje nadpis prvního článku <A href="http://www.lupa.cz/clanek.php3?show=3127" target=_blank>Na jiné ADSL raději zapomeňte</A>. </p>
 

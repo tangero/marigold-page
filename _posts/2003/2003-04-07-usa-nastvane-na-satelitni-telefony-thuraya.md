@@ -1,16 +1,23 @@
 ---
 ID: 220
-title: >
-  USA naštvané na satelitní telefony
-  Thuraya
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/usa-nastvane-na-satelitni-telefony-thuraya
-published: true
+oldlink: 'https://www.marigold.cz/item/usa-nastvane-na-satelitni-telefony-thuraya
+
+  '
 post_date: 2003-04-07 09:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Americká armáda přestala používat telefony Thuraya v Iráku.
+- Telefony Thuraya mají GPS, Američané se bojí vyzrazení polohy.
+- Tři muži údajně zabiti kvůli vyzrazení polohy telefonů Thuraya.
+- Zprávy naznačují dezinformaci pro posílení amerických satelitních systémů.
+title: 'USA naštvané na satelitní telefony Thuraya
+
+  '
 ---
+
 <p>
 Americká armáda přestala používat satelitní telefony sítě Thuraya v Iráku. Důvod je jednoduchý - telefony jsou vybaveny GPS systémem a američani si myslí, že provozovatel sítě vyzrazuje iráčanům polohy telefonů v Iráku. Již tři muži byli údajně zabiti protože byla jejich poloha takto vyzrazena. </p>
 

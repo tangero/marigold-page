@@ -1,14 +1,20 @@
 ---
 ID: 44
-title: 'Konkrétní realizace bezdrátové linky (v&nbsp;Egyptě)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/konkretni-realizace-bezdratove-linky-v-egypte
-published: true
+oldlink: 'https://www.marigold.cz/item/konkretni-realizace-bezdratove-linky-v-egypte
+
+  '
 post_date: 2003-01-16 08:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- 'Hurghada: Hassan Adly postavil WiFi linku 1 km/2 Mbps za pár dolarů.'
+- Apple představil AP a notebooky s podporou 802.11g (WiFiG?).
+- a a 802.11g jsou dle Intersilu obdobné, dualband je budoucnost.
+title: Konkrétní realizace bezdrátové linky (v&nbsp;Egyptě)
 ---
+
 <p>
 Našel jsem fajn stránku popisující konkrétní výstavbu bezdrátové linky s WiFi. Na vzdálenost <STRONG>jednoho kilometru na rychlosti 2 Mbps a za pár dolarů</STRONG> - o svoje zkušenosti se dělí Hassan Adly, provozovatel internet café v egyptské Hurghadě. Doporučuji se na to podívat, velmi detailně dokumentuje, co kde a jak udělal, jak Linksys APčko nacpal do plastové krabice kterou zavařil, aby mu nenemoklo, prostě je to pro nás bohatá inspirace. Doprovodil to pár linkama a myslím, že jestli umíte trochu anglicky, tak vám to dá hodně praktických poznatků do začátku. Abych <A href="http://www.d128.com/wireless/" target=_blank>nezapoměl link...</A></p>
 

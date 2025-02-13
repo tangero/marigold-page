@@ -1,14 +1,21 @@
 ---
 ID: 65
-title: 'Smutná notebooková smrt&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/smutna-notebookova-smrt
-published: true
+oldlink: 'https://www.marigold.cz/item/smutna-notebookova-smrt
+
+  '
 post_date: 2003-01-28 19:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Internet a firemní síť byly v nové kanceláři zprovozněny, ale s drobnými komplikacemi.
+- Zrušení přihlašování do firemní sítě způsobilo nedostupnost vlastního notebooku.
+- Data z notebooku jsou obtížně dostupná kvůli zabezpečení Windows XP.
+- Autor vyrobil velkou polici, která vyžadovala připevnění ke zdi pro stabilitu.
+title: Smutná notebooková smrt&#8230;
 ---
+
 <p>
 Včera mi do fungl nové kanceláře zapojili fungl nový internet (samozřejmě bezdrát skrzevá WiFi) a tak jsem většinu dne věnoval rozcházení a zapojování fungl nové firemní sítě. Drobné přehmaty - kupříkladu jsme koupili moc malý hub - se rychle podařilo retušovat a dneska už jsem se těšil, jak to hezky všechno pojede a zase budu více času věnovat Marigoldovi. </p>
 

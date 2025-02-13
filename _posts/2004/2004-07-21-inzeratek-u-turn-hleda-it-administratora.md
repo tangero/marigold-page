@@ -1,14 +1,21 @@
 ---
 ID: 1207
-title: 'Inzerátek: U-Turn hledá IT administrátora'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/inzeratek-u-turn-hleda-it-administratora
-published: true
+oldlink: 'https://www.marigold.cz/item/inzeratek-u-turn-hleda-it-administratora
+
+  '
 post_date: 2004-07-21 10:25:15
+post_excerpt: ''
+published: true
+summary_points:
+- U-Turn hledá IT administrátora pro správu Linux serveru a MS Windows.
+- Požadují se znalosti Linuxu, Microsoft produktů, síťových technologií a SŠ/VŠ vzdělání.
+- Náplní práce je správa sítě, instalace HW/SW a uživatelská podpora pro cca 30 stanic.
+- U-Turn nabízí práci v Praze, v mladém kolektivu a odpovídající platové ohodnocení.
+title: 'Inzerátek: U-Turn hledá IT administrátora'
 ---
+
 <p>
 Slíbil jsem U-Turnu dát sem jejich inzerát, kde hledají IT administrátora, takže:</p>
 <p>

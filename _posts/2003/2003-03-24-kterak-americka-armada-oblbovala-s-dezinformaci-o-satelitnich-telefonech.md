@@ -1,14 +1,23 @@
 ---
 ID: 191
-title: 'Kterak americká armáda oblbovala s&nbsp;dezinformací o&nbsp;satelitních telefonech'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kterak-americka-armada-oblbovala-s-dezinformaci-o-satelitnich-telefonech
-published: true
+oldlink: 'https://www.marigold.cz/item/kterak-americka-armada-oblbovala-s-dezinformaci-o-satelitnich-telefonech
+
+  '
 post_date: 2003-03-24 11:02:00
+post_excerpt: ''
+published: true
+summary_points:
+- Satelitní telefony nepřitahují americké chytré bomby, původní zpráva byla nevážná
+  spekulace.
+- Chytré bomby se navádějí laserem, radiomajákem s GPS, nikoliv satelitními telefony.
+- Americká armáda šířila dezinformaci o satelitních telefonech, aby omezila pohyb
+  reportérů v Iráku.
+- Autor doporučuje film Vrtěti psem pro kritické zhodnocení mediálního obrazu války.
+title: Kterak americká armáda oblbovala s&nbsp;dezinformací o&nbsp;satelitních telefonech
 ---
+
 <p>
 Minulý týden jsem se nechal nachytat na špek, kterému ještě dnes většina médií věří. Napsal <A href="#">jsem tu zprávu </A><EM>(ačkoliv jsem ji označil jako nevážnou, měl jsem chvíli za to, že tomu tak fakt může být)</EM>, podle níž se ukázalo, že <STRONG>satelitní telefony mohou sloužit jako maják přitahující americké chytré bomby</STRONG>. Jenže se ukázalo, že je to trochu jinak.</p>
 

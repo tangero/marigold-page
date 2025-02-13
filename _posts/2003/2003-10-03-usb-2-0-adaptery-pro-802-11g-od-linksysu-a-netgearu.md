@@ -1,14 +1,21 @@
 ---
 ID: 550
-title: 'USB 2.0 adaptéry pro 802.11g od Linksysu a&nbsp;NetGearu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/usb-2-0-adaptery-pro-802-11g-od-linksysu-a-netgearu
-published: true
+oldlink: 'https://www.marigold.cz/item/usb-2-0-adaptery-pro-802-11g-od-linksysu-a-netgearu
+
+  '
 post_date: 2003-10-03 08:17:00
+post_excerpt: ''
+published: true
+summary_points:
+- USB 2.0 adaptéry 802.11g představili NetGear (WG121) a Linksys (WUSB54G).
+- NetGear WG121 má čipset Intersil Prism, ovladače pro Windows, stojí 65 USD.
+- Linksys WUSB54G stojí také 65 USD a ještě se nedodává.
+- Oba adaptéry nepodporují WPA šifrování ani externí anténu.
+title: USB 2.0 adaptéry pro 802.11g od Linksysu a&nbsp;NetGearu
 ---
+
 <p>
 Další dva významní výrobci WiFi techniky představili svoje USB 2.0 adaptéry pro standard 802.11g. Minule, když jsem psal o Buffalu, které je dělá (koncová cena u AutoContu pod 4000 Kč), mi někdo napsal - na co USB adaptér, když jsou tu PCI karty. Inu to máte tak - ne každému se chce rozdělávat počítač a cpát tam PCI kartu, většina lidí je šťastná, že jejich počítač jede, nerozsýpá se a drží se osvědčeného hesla techniku: nehrab se v tom, co funguje. </p>
 

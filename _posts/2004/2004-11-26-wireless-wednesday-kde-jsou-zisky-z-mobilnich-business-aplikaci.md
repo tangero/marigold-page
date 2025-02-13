@@ -1,14 +1,21 @@
 ---
 ID: 1415
-title: 'Wireless Wednesday: Kde jsou zisky z&nbsp;mobilních business aplikací?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wireless-wednesday-kde-jsou-zisky-z-mobilnich-business-aplikaci
-published: true
+oldlink: 'https://www.marigold.cz/item/wireless-wednesday-kde-jsou-zisky-z-mobilnich-business-aplikaci
+
+  '
 post_date: 2004-11-26 16:23:02
+post_excerpt: ''
+published: true
+summary_points:
+- Bezdrátová středa 1.12. v Anděls hotelu se zaměří na zisky z mobilních aplikací.
+- Marigold čtenáři mají vstup zdarma s kódem "marigold" při registraci.
+- Program zahrnuje přednášky o trendech, business aplikacích a případové studie.
+- Panelová diskuse se zaměří na zisky v mobilních aplikacích pro firmy.
+title: 'Wireless Wednesday: Kde jsou zisky z&nbsp;mobilních business aplikací?'
 ---
+
 <p>
 Ve středu 1.12. od 17 hodin probíhá tradiční Bezdrátová středa - v Anděls hotelu vedle Nového Smíchova. Tentokráte je na téma <b>Kde jsou zisky z mobilních business aplikací</b>, takže se přijďte podívat, pokud vás to zajímá. </p>
 

@@ -1,16 +1,23 @@
 ---
 ID: 661
-title: >
-  Jak se ČTÚ pomstí provozovatelům
-  malých sítí? Megadotazníkem :)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-se-ctu-pomsti-provozovatelum-malych-siti-megadotaznikem
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-se-ctu-pomsti-provozovatelum-malych-siti-megadotaznikem
+
+  '
 post_date: 2003-11-12 08:53:00
+post_excerpt: ''
+published: true
+summary_points:
+- Ariga obdržela od ČTÚ obsáhlý dotazník, i když telekomunikační služby neposkytuje.
+- Dotazník vyžaduje vyplnění i při neposkytování služeb, včetně nulových hodnot.
+- Finanční údaje v dotazníku se uvádějí v tisících, aby nedošlo k nedorozuměním.
+- Autor by rád získal přístup ke zpracovaným datům z těchto výkazů ČTÚ.
+title: 'Jak se ČTÚ pomstí provozovatelům malých sítí? Megadotazníkem :)
+
+  '
 ---
+
 <p>
 Už dlouho jsem přemýšlel nad tím, že to přeci nebude jen tak, aby garážová firmička od ČTÚ dostala telekomunikační licenci za pár šupů a s ní mohla konkurovat velkým a zavedeným firmám. S hrůzou jsem čekal, kdy přijde úder úřadu a v jaké podobě oněch sedm ran sešle. A tento měsíc to přišlo. </p>
 

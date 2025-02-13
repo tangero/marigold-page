@@ -1,14 +1,22 @@
 ---
 ID: 332
-title: 'Trendy: softwarové radiové rozhraní'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/trendy-softwarove-radiove-rozhrani
-published: true
+oldlink: 'https://www.marigold.cz/item/trendy-softwarove-radiove-rozhrani
+
+  '
 post_date: 2003-06-01 21:19:00
+post_excerpt: ''
+published: true
+summary_points:
+- Článek pojednává o posunu od specializovaných k víceúčelovým čipům pro radiové rozhraní.
+- Specializované čipy dnes kódují radiové rozhraní natvrdo, což brzdí vývoj.
+- Víceúčelové čipy s aktualizovatelným firmware by umožnily flexibilnější radiové
+  systémy.
+- Oddělení hardwaru a softwaru radiových rozhraní by prospělo výrobcům i zákazníkům.
+title: 'Trendy: softwarové radiové rozhraní'
 ---
+
 <p>
 Nedávno mne obecný nedostatek zajímavých zpráv přiměl znovu se zamyslet nad tím, co jsem už dávno chtěl psát - tedy o nových trendech. Pravda, přidal jsem článek o 4G sítích, přečetlo si ho asi 240 lidí, tedy o 230 lidí více, než jsem původně očekával. Ale to jsou věci příliš komplexní, chtěl bych také psát o drobnostech, o vývojových stupních, které nás možná čekají a možná nikdy nepřijdou. </p>
 

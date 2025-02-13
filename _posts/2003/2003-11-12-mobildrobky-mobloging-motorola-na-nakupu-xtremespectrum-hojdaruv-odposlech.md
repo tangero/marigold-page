@@ -1,14 +1,21 @@
 ---
 ID: 660
-title: 'Mobildrobky: Mobloging, Motorola na nákupu XtremeSpectrum, Hojdarův odposlech'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobildrobky-mobloging-motorola-na-nakupu-xtremespectrum-hojdaruv-odposlech
-published: true
+oldlink: 'https://www.marigold.cz/item/mobildrobky-mobloging-motorola-na-nakupu-xtremespectrum-hojdaruv-odposlech
+
+  '
 post_date: 2003-11-12 08:37:00
+post_excerpt: ''
+published: true
+summary_points:
+- Moblogging je tématem článku na The Feature, který poskytuje odkazy a úvod.
+- Motorola koupila firmu XtremeSpectrum, která se zabývala UWB technologiemi.
+- V autě poslance Hojdara byl nalezen odposlech, jehož původ je neznámý.
+- ČTÚ podepíše dohodu s Eurotelem a T-Mobilem o UMTS licencích do konce listopadu.
+title: 'Mobildrobky: Mobloging, Motorola na nákupu XtremeSpectrum, Hojdarův odposlech'
 ---
+
 <p>
 Dnešní dávku internetových drobků bych začal zajímavým článkem <SPAN><STRONG><A href="http://www.thefeature.com/article?articleid=100193" target=_blank><SPAN><STRONG>Moblogging -- It's Easier Than You Think</STRONG></SPAN></A></STRONG></SPAN>&#160;na The Feature věnovaném moblogingu, tedy mobilním weblogům. Článek vás uvede do problematiky a poskytne hromadu odkazů na podrobnější materiály i služby. Neváhejte se seznámit.</p>
 

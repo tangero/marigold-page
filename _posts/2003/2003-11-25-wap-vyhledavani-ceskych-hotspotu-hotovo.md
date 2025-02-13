@@ -1,16 +1,23 @@
 ---
 ID: 691
-title: >
-  WAP vyhledávání českých hotspotů
-  hotovo
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wap-vyhledavani-ceskych-hotspotu-hotovo
-published: true
+oldlink: 'https://www.marigold.cz/item/wap-vyhledavani-ceskych-hotspotu-hotovo
+
+  '
 post_date: 2003-11-25 10:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold a.s. spustila WiFi Hotspot Finder pro vyhledávání WiFi sítí v ČR.
+- Služba je dostupná přes web marigold.cz/hotspoty a WAP na marigold.cz/wap.
+- Funkce SelfFind umožňuje uživatelům vybrat město pro vyhledání hotspotů.
+- WAP rozhraní má opravené problémy s délkou zpráv, ořezává je na 1300 znaků.
+title: 'WAP vyhledávání českých hotspotů hotovo
+
+  '
 ---
+
 <p>
 Nejprve formou oficiální tiskové zprávy</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 6
-title: 'D-Link DI-614+ má problémy s&nbsp;UPC internetem'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/d-link-di-614-ma-problemy-s-upc-internetem
-published: true
+oldlink: 'https://www.marigold.cz/item/d-link-di-614-ma-problemy-s-upc-internetem
+
+  '
 post_date: 2002-12-07 10:01:00
+post_excerpt: ''
+published: true
+summary_points:
+- D-Link DI-614+ router má problémy s DHCP přidělováním adresy u UPC.
+- Pevná IP adresa nebo statické nastavení DHCP adresy řeší problém s D-Linkem u UPC.
+- Linksys BEFW11S4 je další zajímavý soho router s WiFi dostupný na Amazon.co.uk.
+- Autor chystá testování soho routerů a hledá zapůjčení od dovozců.
+title: D-Link DI-614+ má problémy s&nbsp;UPC internetem
 ---
+
 <p>
 Pokud jste podlehli vábení předvánočních nabídek v USA a koupili si soho router <STRONG>D-Link DI-614+</STRONG> a používáte připojení k UPC, tak máte trochu problém. Marigold zjistil, že tato jinak velmi dobrá hračička se čtyřmi 10/100 Ethernet porty a s integrovaným WiFi dělá v UPC problémy, protože má malý timeout při čekání na DHCP adresu. UPC Mistral jí prostě nestihne IP adresu přidělit. Řešení? Systémové: za dvě stovky měsíčně si aktivovat pevnou IP adresu a vykašlat se na DHCP ze strany UPC. Levné: zjistit si, jakou IP adresu vám Mistrál přiděluje přes DHCP a natvrdo ji nastavit do modemu. Využíváte toho, že Mistral ji téměř nemění a dá se považovat za pevnou. Marigoldovi se IP adresa na Mistralu nezměnila od té doby co ho má a tak to považuje za obstojné a odporně nesystémové řešení...</p>
 

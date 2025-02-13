@@ -1,14 +1,22 @@
 ---
 ID: 684
-title: 'WAP help wanted&#8230; safra, jak předat slova s&nbsp;diakritikou v&nbsp;URL ve wapu?'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/wap-help-wanted-safra-jak-predat-slova-s-diakritikou-v-url-ve-wapu
-published: true
+oldlink: 'https://www.marigold.cz/item/wap-help-wanted-safra-jak-predat-slova-s-diakritikou-v-url-ve-wapu
+
+  '
 post_date: 2003-11-23 08:27:00
+post_excerpt: ''
+published: true
+summary_points:
+- WAP vyhledávání hotspotů se ukázalo složitější, než autor čekal.
+- Diakritika v URL parametru "mesto" způsobuje chybu formátování URL.
+- HTML konstrukce s &lt;a href&gt; i &lt;OPTION - SELECT&gt; selhávají.
+- WAPserver.cz, zdroj českých tutorialů, již neexistuje.
+title: WAP help wanted&#8230; safra, jak předat slova s&nbsp;diakritikou v&nbsp;URL
+  ve wapu?
 ---
+
 <p>
 Včera jsem měl volnou chvilku a pustil jsem se do zprovoznění vyhledávání hotspotů ve WAPu. Myslel jsem si, že to bude brnkačka na pár minut, jenže došlo k nepříjemnému zákusu. Ve WAPu jsem něco náročnějšího dělal naposledy před čtyřmi lety, od té doby se toho dost z hlavy vykouřilo. </p>
 

@@ -1,16 +1,26 @@
 ---
 ID: 1083
-title: >
-  Licence ČTÚ pro provoz radiových
-  zařízení
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/licence-ctu-pro-provoz-radiovych-zarizeni
-published: true
+oldlink: 'https://www.marigold.cz/item/licence-ctu-pro-provoz-radiovych-zarizeni
+
+  '
 post_date: 2003-12-28 21:55:00
+post_excerpt: ''
+published: true
+summary_points:
+- ČTÚ vydává generální licence pro běžné používání radiových zařízení, například mobilních
+  telefonů.
+- WiFi v pásmu 2,4 GHz povoluje generální licence 12/R/2000 pro RLAN s rozprostřeným
+  spektrem.
+- Pásmo 5 GHz je aktuálně omezeno na Hiperlan s interními anténami a specifickými
+  limity výkonu.
+- V budoucnu se plánuje rozšíření pásma 5 GHz pro indoor/outdoor použití s TPC a DFS.
+title: 'Licence ČTÚ pro provoz radiových zařízení
+
+  '
 ---
+
 Na jakých frekvencích můžete provozovat své datové spoje v ČR a zejména jak je to s pásmem 5 GHz v současnosti a blízké budoucnosti?<!--more--><p>
 Málokdo přesně ví, jak je to u nás s legislativním podchycením provozu zařízení na radiových frekvencích. Nejistota se týká především WiFi zařízení v pásmu 5 GHz. A tak jsem přinesl článeček sumarizující, co za frekvence běžnému smrtelníkovi ČTÚ v oblasti datových přenosů povoluje. </p>
 

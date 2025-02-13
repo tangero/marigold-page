@@ -1,14 +1,21 @@
 ---
 ID: 323
-title: 'Geekoviny: Samsung Nexio S160'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/geekoviny-samsung-nexio-s160
-published: true
+oldlink: 'https://www.marigold.cz/item/geekoviny-samsung-nexio-s160
+
+  '
 post_date: 2003-05-28 08:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- Samsung Nexio S160 PDA zaujalo autora díky svému provedení.
+- Nexio S160 má 400MHz procesor, WinCE .NET 4.1 a vyklápěcí klávesnici.
+- Cena Nexia S160 je 1250 USD, což autor považuje za vysokou částku.
+- Evropská verze Nexia S160 je podle Ivana Trnečky v plánu.
+title: 'Geekoviny: Samsung Nexio S160'
 ---
+
 <p>
 Delší dobu jsem kašlal na svoji oblíbenou rubriku geekoviny, ale bylo to proto, že jsem <IMG height=147 alt="Samsung Nexio S160" src="/wp-content/uploads/samsungnexios160.jpg" width=200 align=right border=1>nenašel nic, co by mne tak zaujalo. Ale ta doba je pryč, přišel Samsung Nexio S160 a všechny ostatní PDA jsou pro mne zapomenuta. Ostatně, vizte obrázek - už to provedení nového samsungáckého PDA jasně říká, že to nebude ořezávátko. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 713
-title: 'MMS weblog na Bloguje.cz &#8211; pomožte testovat'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mms-weblog-na-bloguje-cz-pomozte-testovat
-published: true
+oldlink: 'https://www.marigold.cz/item/mms-weblog-na-bloguje-cz-pomozte-testovat
+
+  '
 post_date: 2003-12-03 09:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- Artur Dent na bloguje.cz testuje publikování pomocí MMS zpráv.
+- Veřejnost je žádána o testování MMS publikování na pokus.bloguje.cz.
+- Testovací MMS zpráva má obsahovat text, typ mobilu a operátora.
+- Autor testoval MMS zprávu z Nokie 6800 s externím fotoaparátem.
+title: MMS weblog na Bloguje.cz &#8211; pomožte testovat
 ---
+
 <p>
 Vyprovokoval jsem Artura Denta k tomu, aby na bloguje.cz přidal také možnost publikování pomocí MMS zpráv. Zatím to nefunguje pro veřejnost právě proto, že bychom potřebovali otestovat, zda to chodí z jiných mobilů a operátorů, než my používáme. </p>
 

@@ -1,16 +1,24 @@
 ---
 ID: 737
-title: >
-  Desítka nejžhavějších mobilních
-  aplikací pro rok 2004
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/desitka-nejzhavejsich-mobilnich-aplikaci-pro-rok-2004
-published: true
+oldlink: 'https://www.marigold.cz/item/desitka-nejzhavejsich-mobilnich-aplikaci-pro-rok-2004
+
+  '
 post_date: 2003-12-12 08:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Telephony Magazine vyhlásil desítku nejžhavějších mobilních aplikací pro příští
+  rok.
+- VoIP telefony s WiFi umožňují přenos zvuku po bezdrátových sítích.
+- Moblogy umožňují psaní blogů na cestách pomocí MMS zpráv.
+- Článek vyzývá k navrhování cool aplikací a trendů pro rok 2004.
+title: 'Desítka nejžhavějších mobilních aplikací pro rok 2004
+
+  '
 ---
+
 <p>
 Americký <A href="http://telephonyonline.com/ar/telecom_wireless_hottest_wireless/index.htm" target=_blank>Telephony Magazine</A> vyhlásil na svých stránkách desítku nejžhavějších mobilních aplikací pro příští rok. A takovou věc nelze nekomentovat. Takže, co by měly být pro uživatele trháky příští rok?</p>
 

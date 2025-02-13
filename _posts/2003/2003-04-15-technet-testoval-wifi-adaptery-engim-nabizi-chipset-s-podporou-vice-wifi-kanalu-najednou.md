@@ -1,14 +1,21 @@
 ---
 ID: 235
-title: 'Technet testoval WiFi adaptéry, Engim nabízí chipset s&nbsp;podporou více WiFi kanálů najednou'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/technet-testoval-wifi-adaptery-engim-nabizi-chipset-s-podporou-vice-wifi-kanalu-najednou
-published: true
+oldlink: 'https://www.marigold.cz/item/technet-testoval-wifi-adaptery-engim-nabizi-chipset-s-podporou-vice-wifi-kanalu-najednou
+
+  '
 post_date: 2003-04-15 09:26:00
+post_excerpt: ''
+published: true
+summary_points:
+- Technet recenzuje USB a PCMCIA WiFi adaptéry HP, Bluetake a OvisLink.
+- Engim představil čipovou sadu pro WiFi s podporou tří až devíti kanálů.
+- Linksys produkty 802.11g jsou dostupné skladem u Levi i BlueCom.
+title: Technet testoval WiFi adaptéry, Engim nabízí chipset s&nbsp;podporou více WiFi
+  kanálů najednou
 ---
+
 <p>
 Na Technetu najdete <STRONG>recenzi WiFi adaptérů.</STRONG> Jde o USB a PCMCIA karty HP, Bluetake a OvisLink. Recenzi <A href="http://www.technet.cz/hw/hw_sit/wifihpAirliveBlutake030415.html" target=_blank>najdete zde</A>, doporučuji k nahlédnutí. Snad příště zahrnou i PCI karty.</p>
 

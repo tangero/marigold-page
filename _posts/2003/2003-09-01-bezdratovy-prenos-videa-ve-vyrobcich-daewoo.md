@@ -1,16 +1,25 @@
 ---
 ID: 470
-title: >
-  Bezdrátový přenos videa ve
-  výrobcích Daewoo
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/bezdratovy-prenos-videa-ve-vyrobcich-daewoo
-published: true
+oldlink: 'https://www.marigold.cz/item/bezdratovy-prenos-videa-ve-vyrobcich-daewoo
+
+  '
 post_date: 2003-09-01 08:35:00
+post_excerpt: ''
+published: true
+summary_points:
+- Daewoo představilo na IFA LCD televizor s bezdrátovým přenosem videa pomocí WiFi
+  ViXS.
+- ViXS vyvinula čipovou sadu Matrix a software XCode pro distribuci videa v reálném
+  čase.
+- Bezdrátové video snižuje nechuť uživatelů k propojování zařízení kabely.
+- Obava z propojování drátů je druhý největší důvod, proč lidé nekupují novou elektroniku.
+title: 'Bezdrátový přenos videa ve výrobcích Daewoo
+
+  '
 ---
+
 Na veletrhu IFA probíhající v Berlíně (do 3.9.) představila společnost Daewoo první praktické počiny v oblasti bezdrátové distribuce videosignálu pro spotřební elektroniku. 
 <p>
 Co si pod tímto výrazem konkrétně přestavit? <STRONG>Daewoo ohlásilo TFT LCD televizor</STRONG>, do něhož se videosignál <STRONG>dopravuje bezdrátově pomocí WiFi technologie firmy ViXS</STRONG>. <EM>Zdroj: </EM><A href="http://www.wi-fiplanet.com/news/article.php/3070521" target=_blank><EM>Daewoo takes Wi-Fi Video Mainstream</EM></A><EM>.</EM>

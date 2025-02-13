@@ -1,16 +1,23 @@
 ---
 ID: 739
-title: >
-  Kterak si Indoš naběhl na dvojitou
-  haluz od Technetu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kterak-si-indos-nabehl-na-dvojitou-haluz-od-technetu
-published: true
+oldlink: 'https://www.marigold.cz/item/kterak-si-indos-nabehl-na-dvojitou-haluz-od-technetu
+
+  '
 post_date: 2003-12-12 12:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- Technet publikoval článek o spamu rozesílaném přes servery Indoš.
+- Indoš reagoval popřením a zpochybněním faktů v prvním článku.
+- Technet zveřejnil druhý článek s důkazy o zneužívání Indoše pro spam.
+- AoC (Autocont on Line) se choval neprofesionálně a lhal o situaci.
+title: 'Kterak si Indoš naběhl na dvojitou haluz od Technetu
+
+  '
 ---
+
 <p>
 Dneska jsem se po dlouhé době kromobyčenjně dobře pobavil při čtení článků na internetu. Možná jste to ve středu sledovali: na Technetu (součást iDNES) vyšel článek věnovaný Indoši, přes jehož servery spameři rozesílají své výtvory. Nu a Indoš se dal nachytat na klasickou dvojitou haluz a snažil se všechno zahrát do autu s tím, že autoři článku jsou idioti. A autoři ho dneska sejmuli tak, že i nejprostší duše už jasně cítí, jak to v Indoši a celém Autocont on Line smrdí. </p>
 

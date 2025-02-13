@@ -1,14 +1,21 @@
 ---
 ID: 110
-title: 'Karneval mých dcer a&nbsp;rozdávání odposlechových mouder'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/karneval-mych-dcer-a-rozdavani-odposlechovych-mouder
-published: true
+oldlink: 'https://www.marigold.cz/item/karneval-mych-dcer-a-rozdavani-odposlechovych-mouder
+
+  '
 post_date: 2003-02-23 10:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- Karneval v Liboci pořádali nadšenci bez sponzorů pro děti v maskách.
+- Vanda byla za Ferdu Mravence, Lída za žábu a obě plnily úkoly.
+- Lída spadla ze žebříku, ale bavila se po svém i při úkolech.
+- Autor pořídil desítky fotografií, Vanda skákala s rozkoší, Lída s nadšením.
+title: Karneval mých dcer a&nbsp;rozdávání odposlechových mouder
 ---
+
 <p>
 <STRONG>V sobotu byl karneval</STRONG>, kam jsem se vypravil se svými dvěma dcerami a mimo to s digitálním foťákem (ne tím v Nokia 7650). A z toho vzniklo osm desítek fotografií, <A href="http://tangero.me.cz/karneval-unor/" target=_blank>jež jsem umístil zde</A> a lze s nimi listovat. Bystřejší si povšimnou, že Vanda, ta starsí (4 roky) byla za Ferdu Mravence a Lída (2 roky) není zelená od přírody, ale pouze maskovaná za žábu. Méně bystří to poznají podle informací obsažených v předchozí větě. Vždy jsem obdivoval podobné akce, které pořádají lidé z nadšení - bylo to v sokolovně v Liboci, nemělo to žádného sponzora typu Delvita či Globus, prostě se jen pár lidí co chodí s dětmi cvičit rozhodlo a udělalo hezkou akci, na kterou malé děti přišly v maskách a plnili pětici úkolů - což je bavilo. Nakonec se tancovalo, což je rovněž bavilo. </p>
 

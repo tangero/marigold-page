@@ -1,16 +1,23 @@
 ---
 ID: 617
-title: >
-  Dneska bude Marigold asi dost padací,
-  tak se omlouvám
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dneska-bude-marigold-asi-dost-padaci-tak-se-omlouvam
-published: true
+oldlink: 'https://www.marigold.cz/item/dneska-bude-marigold-asi-dost-padaci-tak-se-omlouvam
+
+  '
 post_date: 2003-10-27 09:09:00
+post_excerpt: ''
+published: true
+summary_points:
+- Genesis 2 redakční systém má poruchu serverů u Mobil Media.
+- Autor zvažuje přesun na weblogový systém, ale Genesis mu vyhovuje.
+- Genesis nabízí funkce jako wap a databáze, které autor potřebuje.
+- Titulní stránka Genesis má 300 KB, což je pomalé přes GPRS.
+title: 'Dneska bude Marigold asi dost padací, tak se omlouvám
+
+  '
 ---
+
 <p>
 V Mobil Media hlásí nějakou poruchu na serverech, starajících se o Genesis 2, redakční systém, který využívá i Marigold. Těch serverů sice mají více, ale jak to tak vypadá, občas to zažumpí pořádně, hoši na tom pilně pracují, ale znám tyhle technické problémy, takže varuju, že dneska to může být se čtením Marigolda na levačku. </p>
 

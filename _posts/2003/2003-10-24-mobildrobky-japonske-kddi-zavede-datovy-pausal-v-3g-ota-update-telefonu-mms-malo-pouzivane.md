@@ -1,14 +1,24 @@
 ---
 ID: 610
-title: 'Mobildrobky: japonské KDDI zavede datový paušál v&nbsp;3G. OTA update telefonů, MMS málo používané'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobildrobky-japonske-kddi-zavede-datovy-pausal-v-3g-ota-update-telefonu-mms-malo-pouzivane
-published: true
+oldlink: 'https://www.marigold.cz/item/mobildrobky-japonske-kddi-zavede-datovy-pausal-v-3g-ota-update-telefonu-mms-malo-pouzivane
+
+  '
 post_date: 2003-10-24 09:18:00
+post_excerpt: ''
+published: true
+summary_points:
+- KDDI zavede paušál 4200 jenů za neomezená data s rychlostí až 2,4 Mb/s.
+- Bitfone nabízí OTA update pro Symbian, umožňující operátorům posílat záplaty a nové
+  funkce.
+- T-Mobile zavede OTA personalizaci menu pro Nokia 3650/7650 za 200 Kč.
+- Japonští uživatelé pošlou průměrně 2 MMS zprávy měsíčně, používání klesá po dvou
+  měsících.
+title: 'Mobildrobky: japonské KDDI zavede datový paušál v&nbsp;3G. OTA update telefonů,
+  MMS málo používané'
 ---
+
 <p>
 <STRONG>Japonský operátor KDDI</STRONG> (drobek oproti vedoucímu NTT DoCoMo, má zhruba půl milionu klientů) hodlá od 28. října <STRONG>zavést paušál na datové přenosy</STRONG>. Za neomezený přístup k internetu jeho uživatelé budou moci platit paušál 4200 jenů měsíčně, to je zhruba 1033 Kč, přibližně stejně, jako u Eurotel Data Nonstop. KDDI ale provozuje síť 3G na EV-DO technologii, takže přenosová rychlost nabízená zákazníkům činí až 2,4 Mb/s - to je šestkrát více, než nabízí NTT DoCoMo. KDDI se ani nemusí bát, že by lidé toto připojení brali jako náhradu oproti ADSL - to je v Japonsku docela rozšířené a levnější. Zdroj: <A href="http://story.news.yahoo.com/news?tmpl=story&amp;ncid=1212&amp;e=4&amp;u=/afp/20031022/tc_afp/japan_telecom_kddi&amp;sid=96001018" target=_blank>AFP</A>. </p>
 

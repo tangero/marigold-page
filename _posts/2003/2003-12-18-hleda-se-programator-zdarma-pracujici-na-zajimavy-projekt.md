@@ -1,16 +1,24 @@
 ---
 ID: 750
-title: >
-  Hledá se programátor (zdarma
-  pracující) na zajímavý projekt
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hleda-se-programator-zdarma-pracujici-na-zajimavy-projekt
-published: true
+oldlink: 'https://www.marigold.cz/item/hleda-se-programator-zdarma-pracujici-na-zajimavy-projekt
+
+  '
 post_date: 2003-12-18 12:10:00
+post_excerpt: ''
+published: true
+summary_points:
+- Autor chce vytvořit P2P knihovnu pro půjčování papírových knih mezi neznámými lidmi.
+- Programátora hledá autor pro realizaci P2P knihovny, systém složitostí jednoduchého
+  e-shopu.
+- Server a grafiku zajistí autor, funkčnost služby je detailně promyšlená.
+- Zájemci o programování P2P knihovny se mohou ozvat autorovi na email patrick@marigold.cz.
+title: 'Hledá se programátor (zdarma pracující) na zajímavý projekt
+
+  '
 ---
+
 <p>
 Když jsem psal o zajímavých technologiích pro rok 2004, zmínil jsem tam i P2P komunity. U nás je zatím moc neznáme, jenže už dlouho mi leží v hlavě myšlenka na to, <STRONG>vytvořit takovou P2P knihovnu, službu, která umožní lidem (kteří se neznají) si mezi sebou jednoduše a snadno půjčovat papírové knížky.</STRONG> </p>
 

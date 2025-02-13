@@ -1,14 +1,21 @@
 ---
 ID: 114
-title: 'Hlasujte o&nbsp;Osobnost českého internetu!'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/hlasujte-o-osobnost-ceskeho-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/hlasujte-o-osobnost-ceskeho-internetu
+
+  '
 post_date: 2003-02-24 09:38:00
+post_excerpt: ''
+published: true
+summary_points:
+- Akademik nedostal žádné tipy na nominace do ceny Zavináče.
+- Hlasování bude zveřejněno, preferovány jsou nové projekty a lidé.
+- Hlasování o Osobnost českého internetu 2003 je otevřené.
+- Autor zvažuje Jandu (CzFree) nebo Sovu (internetové poplatky, ADSL).
+title: Hlasujte o&nbsp;Osobnost českého internetu!
 ---
+
 <p>
 Není to tak dávno, co jsem psal o tom, že jsa akademik, uvítám vaše tipy na zajímavé projekty, které bych mohl nominovat do ceny o Zavináče. Nedostal jsem jediný tip, takže až Marigoldí čtenáři budou skuhrat, komu že to zase akademie udělila ceny, tak mohou skuhrat hlavně na sebe - stačilo poslat tip. </p>
 

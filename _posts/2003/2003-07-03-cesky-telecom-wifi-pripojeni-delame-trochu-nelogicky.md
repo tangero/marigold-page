@@ -1,14 +1,21 @@
 ---
 ID: 399
-title: 'Český Telecom: WiFi připojení děláme trochu nelogicky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-telecom-wifi-pripojeni-delame-trochu-nelogicky
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-telecom-wifi-pripojeni-delame-trochu-nelogicky
+
+  '
 post_date: 2003-07-03 09:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Český Telecom používá pro WiFi pouze vnitřní přístupové body bez externí antény.
+- Pokrytí WiFi je téměř výhradně uvnitř budov Telepointů a pump Shell.
+- U pump Shell je nutné pro připojení vystoupit z auta a jít dovnitř.
+- Telecom prodloužil zdarma WiFi, protože je to levnější než zpoplatnění.
+title: 'Český Telecom: WiFi připojení děláme trochu nelogicky'
 ---
+
 <p>
 Včera a dnes jsem měl tu čest prověřit po několika měsících osobně rozchozené hotspoty WiFi Českého Telecomu. Ovšemže pouze v Praze a zatím bez KFC, to vyzkouším až dnes. </p>
 

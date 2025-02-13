@@ -1,14 +1,21 @@
 ---
 ID: 57
-title: 'Linksys nebude vyrábět jen 802.11a produkty a&nbsp;nějaké recenze'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-nebude-vyrabet-jen-802-11a-produkty-a-nejake-recenze
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-nebude-vyrabet-jen-802-11a-produkty-a-nejake-recenze
+
+  '
 post_date: 2003-01-22 08:25:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys ruší vývoj produktů pouze s 802.11a standardem.
+- BuffaloTech router 802.11g snižuje rychlost s 802.11b klientem.
+- Small Net Builder recenzuje Linksys WAP54G a WiFi booster.
+- BusinessWeek uvádí nízký počet platících uživatelů WiFi v Evropě.
+title: Linksys nebude vyrábět jen 802.11a produkty a&nbsp;nějaké recenze
 ---
+
 <p>
 Linksys v úterý potvrdil, že ruší všechny produktové a vývojové řady založené pouze na standardu 802.11a. Napříště bude vyvíjet a vyrábět pouze dualbandové technologie 802.11a + b a technologii 802.11g. Singlebandové produkty 802.11a jsou tedy nepopulární i u dalšího výrobce a vypadá to tak, že předpovědi se potvrdí - tento standard je rychlejší, ale přichází pozdě a není zpětně kompatibilní, takže se na něj všichni vykašlou a přidají ho jen (v lepším případě) do stávajících produktů. Oproti tomu 802.11g je zpětně kompatibilní s WiFi, takže do ní výrobci investují s klidem. </p>
 

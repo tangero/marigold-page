@@ -1,14 +1,21 @@
 ---
 ID: 831
-title: 'Dva pěkné mobily: Samsung SGH-D410 a&nbsp;NEC fotoaparát s&nbsp;GSM'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/dva-pekne-mobily-samsung-sgh-d410-a-nec-fotoaparat-s-gsm
-published: true
+oldlink: 'https://www.marigold.cz/item/dva-pekne-mobily-samsung-sgh-d410-a-nec-fotoaparat-s-gsm
+
+  '
 post_date: 2004-02-03 08:47:00
+post_excerpt: ''
+published: true
+summary_points:
+- Samsung SGH-D410 má VGA kameru, 260k barevný displej a 10 MB RAM.
+- NEC kombinuje fotoaparát s GSM modulem a klávesnicí pro čínský trh.
+- Samsung neumí video z kamery přidat do MMS zprávy.
+- NEC podporuje WAP a GPRS, ale další specifikace jsou nejasné.
+title: 'Dva pěkné mobily: Samsung SGH-D410 a&nbsp;NEC fotoaparát s&nbsp;GSM'
 ---
+
 <p>
 Dneska jsem si pro váš našel dva hezké mobilní telefony. Tím prvním je <STRONG>Samsung SGH-D410</STRONG> <IMG height=250 alt="Samsung sghi410" src="/wp-content/uploads/samsung-sghi410.jpg" width=96 align=right>a Samsung jej právě představuje na asijském CeBitu. Jde o triband telefon s integrovanou VGA kamerou, která umí fotografovat v rozlišení 640x480 a také umí ukládat videozáznam až o třicetivteřinové délce. Trochu problém je, že narozdíl od fotek neumí video přidat telefon do MMS zprávy. </p>
 

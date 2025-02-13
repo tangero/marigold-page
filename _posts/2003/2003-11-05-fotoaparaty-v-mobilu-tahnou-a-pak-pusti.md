@@ -1,14 +1,22 @@
 ---
 ID: 640
-title: 'Fotoaparáty v&nbsp;mobilu &#8211; táhnou a&nbsp;pak pustí&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/fotoaparaty-v-mobilu-tahnou-a-pak-pusti
-published: true
+oldlink: 'https://www.marigold.cz/item/fotoaparaty-v-mobilu-tahnou-a-pak-pusti
+
+  '
 post_date: 2003-11-05 08:04:00
+post_excerpt: ''
+published: true
+summary_points:
+- Používání fotoaparátu v mobilu klesá po dvou měsících o 80 procent kvůli nízké kvalitě
+  fotek.
+- Přenos fotek z mobilu do PC je komplikovaný, operátoři preferují drahé MMS zprávy.
+- Zájem o MMS fotky lze podpořit akcemi, jako jsou mobilní weblogy nebo tištěné pohlednice.
+- MMS zprávy jsou drahé, nekompatibilní a operátoři se snaží udržet zájem o fotoaparáty.
+title: Fotoaparáty v&nbsp;mobilu &#8211; táhnou a&nbsp;pak pustí&#8230;
 ---
+
 <p>
 Četl jsem zajímavý průzkum prováděný v sítích Vodafone. Týkal se používání fotoaparátů v mobilních telefonech. Podle tohoto průzkumu klesá používání vestavěného fotoaparátu po dvou měsících o osmdesát procent. Důvodů je několik. Především jsou fotky z fotoaparátu nekvalitní - nemají ani potřebné rozlišení ani ostrost a barevnou věrnost. Kromě toho, že čipy pro mobilní fotoaparáty nemají dostatečné rozlišení nemají totiž ani kvalitní optiku a zatímco rozlišení se bude zlepšovat, s tou optikou se toho moc nenadělá - optika potřebuje hromadu skla a ta se do telefonu nevejde. </p>
 

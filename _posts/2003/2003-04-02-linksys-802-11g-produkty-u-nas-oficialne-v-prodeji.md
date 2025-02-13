@@ -1,14 +1,21 @@
 ---
 ID: 216
-title: 'Linksys 802.11g produkty u&nbsp;nás oficiálně v&nbsp;prodeji'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/linksys-802-11g-produkty-u-nas-oficialne-v-prodeji
-published: true
+oldlink: 'https://www.marigold.cz/item/linksys-802-11g-produkty-u-nas-oficialne-v-prodeji
+
+  '
 post_date: 2003-04-02 09:03:00
+post_excerpt: ''
+published: true
+summary_points:
+- Linksys uvolnil produkty s 802.11g, dostupné u Levi a BlueCom.
+- WAP54G stojí 8700 Kč, WMP54G 3600 Kč, WRT54G 9300 Kč a WPC54G 3400 Kč.
+- Router Linksys je dražší než Buffalo, ale s lepším ovládáním.
+- Linksys negarantuje upgrade na finální standard 802.11g.
+title: Linksys 802.11g produkty u&nbsp;nás oficiálně v&nbsp;prodeji
 ---
+
 <p>
 Včera krátce po nahození zprávy o produktech Buffalo přišla zpráva o tom, že byly <B>uvolněny k prodeji výrobky Linksys podporující 802.11g,</B> tedy teoretickou rychlost 54 Mbps. Linksys produkty tu mají být již v dostatečném množství a okamžitě dosupné u obou distributorů (<A href="http://www.levi.cz/" target=_blank>Levi</A> a <A href="http://www.bluecom.cz/" target=_blank>BlueCom</A>), takže rekapitulujme, <B>co u nás Linksys nabízí</B> (koncové ceny bez DPH):</p>
 

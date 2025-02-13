@@ -1,14 +1,21 @@
 ---
 ID: 671
-title: 'To jsem zvědav, jak to s&nbsp;doménou Marigold dopadne&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/to-jsem-zvedav-jak-to-s-domenou-marigold-dopadne
-published: true
+oldlink: 'https://www.marigold.cz/item/to-jsem-zvedav-jak-to-s-domenou-marigold-dopadne
+
+  '
 post_date: 2003-11-17 21:24:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold.cz doména existuje od roku 1999, původně pro básničky, později pro weblog.
+- Autorovi hrozí ztráta domény Marigold.cz kvůli LRR a nejasným platbám.
+- Autor převádí doménu k registrátorovi Ignum a zaplatil poplatky za převod.
+- NIC.CZ neposkytuje dostatečné informace o převodu domény a používá zastaralé systémy.
+title: To jsem zvědav, jak to s&nbsp;doménou Marigold dopadne&#8230;
 ---
+
 <p>
 Doménu Marigold.cz držím od roku 1999 - tehdy to byly básničky. S básničkama přišel později konec a když jsem si chtěl udělat weblog, tak jsem doménu znovu použil pro něj. Jenže tehdy to s doménami bylo jednodušší a rozuměl jsem tomu, jak to s nimi funguje. Před týdnem mi suše Dan Dočekal aka Medvídek Pů napsal, že o doménu asi přijdu, pokud ji urychleně nedám do pořádku. Doména, jako hromada jiných domén, padla do nějakého LRR a jestli posílali nějaký požadavek k platbě nebo co, to tedy nevím, ale nic nemohu nikde najít. Jenže doména má být naživu jen do 24.10. pak expiruje = čert ví co se s ní stane. </p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 561
-title: 'Viphone &#8211; konečně pořádná IP telefonie'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/viphone-konecne-poradna-ip-telefonie
-published: true
+oldlink: 'https://www.marigold.cz/item/viphone-konecne-poradna-ip-telefonie
+
+  '
 post_date: 2003-10-07 08:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- Viphone nabízí jako první IP telefonie v ČR i příchozí telefonní číslo.
+- Instalační poplatky Viphone začínají na 1600 Kč, měsíční paušál na 399 Kč.
+- Viphone paušál zahrnuje 150 minut volání do pevných sítí ČR a vybraných zemí.
+- Funkce Viphone zahrnují integraci s Outlookem, web-to-call a přesměrování hovorů.
+title: Viphone &#8211; konečně pořádná IP telefonie
 ---
+
 <p>
 Jedna z mála horkých premiér letošního Invexu se jmenuje Viphone a představuje ji společnost Unient communications. Jde o internetovou telefonii, ale vzatou hezky od základu. Služba by mohla zajímat především firmy, které mají více poboček, není ale nezajímavá ani pro soukromé podnikatele. </p>
 

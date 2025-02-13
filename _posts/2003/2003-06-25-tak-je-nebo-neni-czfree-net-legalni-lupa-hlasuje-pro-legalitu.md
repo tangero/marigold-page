@@ -1,16 +1,23 @@
 ---
 ID: 389
-title: >
-  Tak je nebo není CzFree.Net legální?
-  Lupa hlasuje pro legalitu.
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/tak-je-nebo-neni-czfree-net-legalni-lupa-hlasuje-pro-legalitu
-published: true
+oldlink: 'https://www.marigold.cz/item/tak-je-nebo-neni-czfree-net-legalni-lupa-hlasuje-pro-legalitu
+
+  '
 post_date: 2003-06-25 08:39:00
+post_excerpt: ''
+published: true
+summary_points:
+- CzFree.Net provoz je dle Jána Matejky legální, protože síť nerozhoduje o připojení.
+- FAQ CzFree.Net uvádí, že kdokoliv se může připojit a síť rozšířit.
+- Právník definuje CzFree.Net jako veřejnou síť, protože nikoho nevylučuje.
+- Řešením rozporu je úprava podmínek připojení, ale hrozí obvinění z diskriminace.
+title: 'Tak je nebo není CzFree.Net legální? Lupa hlasuje pro legalitu.
+
+  '
 ---
+
 <p>
 Oblíbené téma vztahu CzFree.Net vůči požadavku na licenci pro provozování veřejné telekomunikační sítě probírá Lupa, resp. Ján Matejka. V poměrně dlouhé argumentaci dochází k názoru, že provoz CzFree.Net je legální, protože nejde o veřejnou telekomunikační síť, neboť rozhodnutí kdo se může do sítě připojit, je na jejích provozovatelích. </p>
 

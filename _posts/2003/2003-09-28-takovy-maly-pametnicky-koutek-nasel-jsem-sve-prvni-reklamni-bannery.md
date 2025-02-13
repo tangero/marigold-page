@@ -1,14 +1,24 @@
 ---
 ID: 534
-title: 'Takový malý pamětnický koutek &#8211; našel jsem své první reklamní bannery'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/takovy-maly-pametnicky-koutek-nasel-jsem-sve-prvni-reklamni-bannery
-published: true
+oldlink: 'https://www.marigold.cz/item/takovy-maly-pametnicky-koutek-nasel-jsem-sve-prvni-reklamni-bannery
+
+  '
 post_date: 2003-09-28 20:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- Zipka s kapacitou 100 MB sloužila k záloze obrázků pro překlad Necronomiconu z roku
+  2000.
+- Autor nalezl svůj první banner z 8.2.1997, vytvořený pro recenzi telefonů Siemens
+  S4 a Sony CMD-Z1.
+- Druhý banner, o dva měsíce mladší, propagoval službu M-line pro přeposílání emailů
+  do SMS.
+- Autor objevil i fotku v brnění na koni z doby kolem roku 1995.
+title: Takový malý pamětnický koutek &#8211; našel jsem své první reklamní bannery
 ---
+
 <p>
 Potřeboval jsem <A href="http://cody.mysteria.cz/" target=_blank>pro Codyho</A> dohledat nějaké obrázky k překladu Necronomiconu (překlad je z roku 2000, od té doby jsem na to nesáhl, ale jak se ukazuje, nikdo jiný taky ne) a ty byly v záloze na ZIPce. Zipku jsem před lety používal, protože nabízela 100 MB pro zálohy a to bylo za ty peníze excelentní. Dneska ve věku CD už je to samozřejmě k smíchu, ale když pálička stála třicet, nebylo moc variant. A tak jsem vyhrabal zipku, připojuje se přes paralelní port, to je taková díra v některých starých počítačích, ve středověku používaná k připojení tiskárny. Podle přenosové rychlosti přišla na trh hned po Guttenbergově knihtisku. </p>
 

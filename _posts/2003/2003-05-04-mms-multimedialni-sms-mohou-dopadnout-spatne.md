@@ -1,16 +1,23 @@
 ---
 ID: 265
-title: >
-  MMS (multimediální SMS) mohou
-  dopadnout špatně
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mms-multimedialni-sms-mohou-dopadnout-spatne
-published: true
+oldlink: 'https://www.marigold.cz/item/mms-multimedialni-sms-mohou-dopadnout-spatne
+
+  '
 post_date: 2003-05-04 18:11:00
+post_excerpt: ''
+published: true
+summary_points:
+- Dan Dočekal shrnul na Pooh.cz zprávu varující před přehnaným očekáváním od MMS.
+- MMS zprávy jsou drahé a složité, což brání jejich masovému rozšíření.
+- Mnoho uživatelů posílá obrázky raději e-mailem kvůli ceně a dostupnosti.
+- Nespolehlivost doručení MMS zpráv je zásadní problém pro uživatele.
+title: 'MMS (multimediální SMS) mohou dopadnout špatně
+
+  '
 ---
+
 <p>
 Dan Dočekal dal na Pooh.cz výtah ze zprávy Wireless World Fóra, publikující varování před přehnaným očekáváním z MMS zpráv. Zprávu z titulkem MMS (multimediální SMS) mohou dopadnout jako WAP! najdete <A href="http://www.pooh.cz/a.asp?id=2004177&amp;db=" target=_blank>zde na Pooh.cz.</A>&#160;Doporučuji přečíst, nebudu to zde přemýlat, nebuďte líní kliknout, jeslti vás to zajímá. </p>
 

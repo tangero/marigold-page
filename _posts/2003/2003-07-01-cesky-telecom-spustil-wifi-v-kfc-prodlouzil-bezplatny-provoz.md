@@ -1,14 +1,21 @@
 ---
 ID: 397
-title: 'Český Telecom spustil WiFi v&nbsp;KFC, prodloužil bezplatný provoz'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/cesky-telecom-spustil-wifi-v-kfc-prodlouzil-bezplatny-provoz
-published: true
+oldlink: 'https://www.marigold.cz/item/cesky-telecom-spustil-wifi-v-kfc-prodlouzil-bezplatny-provoz
+
+  '
 post_date: 2003-07-01 11:57:00
+post_excerpt: ''
+published: true
+summary_points:
+- WiFi spuštěno v pěti pražských KFC provozovnách Českým Telecomem.
+- Provoz WiFi zdarma prodloužen do konce září, poté možná platba přes telefonní účet.
+- Telecom eviduje 929 registrovaných uživatelů WiFi, pravidelně používá zhruba stovka.
+- KFC předběhlo McDonald's v zavedení WiFi v českých pobočkách.
+title: Český Telecom spustil WiFi v&nbsp;KFC, prodloužil bezplatný provoz
 ---
+
 <p>
 Český Telecom dnes oficiálně oznámil spuštění WiFi v provozovnách KFC <EM>(o tom, že vyhrál tendr KFC jsem již dříve psal)</EM>. Zatím se zprovoznění WiFi <STRONG>týká pěti pražských provozoven KFC</STRONG>, ostatní si musí počkat. Jde o tyto lokality:</p>
 

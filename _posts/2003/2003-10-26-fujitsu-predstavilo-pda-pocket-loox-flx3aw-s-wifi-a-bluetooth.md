@@ -1,14 +1,21 @@
 ---
 ID: 615
-title: 'Fujitsu představilo PDA Pocket LOOX FLX3AW s&nbsp;WiFi a&nbsp;Bluetooth'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/fujitsu-predstavilo-pda-pocket-loox-flx3aw-s-wifi-a-bluetooth
-published: true
+oldlink: 'https://www.marigold.cz/item/fujitsu-predstavilo-pda-pocket-loox-flx3aw-s-wifi-a-bluetooth
+
+  '
 post_date: 2003-10-26 08:07:00
+post_excerpt: ''
+published: true
+summary_points:
+- Fujitsu uvádí na japonský trh PDA Pocket LOOX FLX3AW.
+- Pocket LOOX FLX3AW disponuje WiFi 802.11b a Bluetooth rozhraním.
+- Zařízení váží 199 gramů a má 3,5 palcový TFT displej.
+- Fujitsu plánuje prodat v Japonsku 60 000 kusů tohoto PDA.
+title: Fujitsu představilo PDA Pocket LOOX FLX3AW s&nbsp;WiFi a&nbsp;Bluetooth
 ---
+
 <p>
 <STRONG>Fujitsu nabízí na japonský trh nové PDA</STRONG>. Jmenuje se Pocket LOOX FLX3AW a je standardně <STRONG>vybavené WiFi 802.11b a Bluetooth rozhraním</STRONG>. Další parametry (klik na obrázek pro detail):</p>
 

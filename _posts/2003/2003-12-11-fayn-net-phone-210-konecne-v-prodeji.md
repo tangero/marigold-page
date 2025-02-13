@@ -1,14 +1,21 @@
 ---
 ID: 734
-title: 'Fayn Net Phone 210 konečně v&nbsp;prodeji'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/fayn-net-phone-210-konecne-v-prodeji
-published: true
+oldlink: 'https://www.marigold.cz/item/fayn-net-phone-210-konecne-v-prodeji
+
+  '
 post_date: 2003-12-11 13:17:00
+post_excerpt: ''
+published: true
+summary_points:
+- Fayn Net Phone 210 se prodává za 4490 Kč s DPH.
+- Telefon používá ethernetový konektor RJ-45 místo RJ-11.
+- Recenze Fayn Net Phone 210 je dostupná na Mobil.cz.
+- Problémem je stále funkčnost příchozího čísla u Faynu.
+title: Fayn Net Phone 210 konečně v&nbsp;prodeji
 ---
+
 <p>
 Od včerejška je konečně po měsících odkladů v prodeji <STRONG>Fayn Net Phone 210. Cena s DPH je 4490 Kč</STRONG> tedy 3680 Kč bez DPH. Ku koupi v <A href="http://www.fayn.cz/?p=eshop" target=_blank>shopu Faynu</A>.</p>
 

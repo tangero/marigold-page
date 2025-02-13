@@ -1,17 +1,23 @@
 ---
 ID: 243
-title: >
-  Přidal jsem možnost dělat HTML
-  komentáře se smajlíkama, CzFree
-  zlepšuje moderaci diskusí
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pridal-jsem-moznost-delat-html-komentare-se-smajlikama-czfree-zlepsuje-moderaci-diskusi
-published: true
+oldlink: 'https://www.marigold.cz/item/pridal-jsem-moznost-delat-html-komentare-se-smajlikama-czfree-zlepsuje-moderaci-diskusi
+
+  '
 post_date: 2003-04-21 09:59:00
+post_excerpt: ''
+published: true
+summary_points:
+- Marigold má DHTML editor pro komentáře, funkční v MSIE 5.5 a vyšším.
+- CzFree zavedlo moderování příspěvků s možností zobrazení smazaných.
+- Deu píše o jarních novinkách CzFree, včetně ukázky smazaného příspěvku.
+title: 'Přidal jsem možnost dělat HTML komentáře se smajlíkama, CzFree zlepšuje moderaci
+  diskusí
+
+  '
 ---
+
 <p>
 Dneska jsem <STRONG>na Marigolda doplnil DHTML editor pro přidávání komentářů</STRONG> (teď mne napadlo, že jsem to zapoměl dát do diskusí u článků, to doplním příště) - takže komentovat můžete i s grafickýma smajlíkama a s hezkým HTML vzhledem. Ovšem pouze v případě, že <STRONG>máte MSIE 5.5 a vyšší</STRONG>. Lami kdysi usoudil, že to tak bude nejlepší a nejméně padavé a od té doby podporu Mozilly nepřidal :)</p>
 

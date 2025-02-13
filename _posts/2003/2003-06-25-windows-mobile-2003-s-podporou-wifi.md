@@ -1,14 +1,21 @@
 ---
 ID: 386
-title: 'Windows Mobile 2003 s&nbsp;podporou WiFi'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/windows-mobile-2003-s-podporou-wifi
-published: true
+oldlink: 'https://www.marigold.cz/item/windows-mobile-2003-s-podporou-wifi
+
+  '
 post_date: 2003-06-25 07:00:00
+post_excerpt: ''
+published: true
+summary_points:
+- Windows Mobile 2003 nativně podporuje WiFi a GSM/GPRS data.
+- Microsoft sjednocuje kódy PDA a SmartPhone pro konkurenci se Symbianem.
+- Shared Source licence PocketPC umožňuje výrobcům modifikace systému.
+- HP iPaq h2210 a JVC MP-PV131/331 jsou první zařízení s WM2003.
+title: Windows Mobile 2003 s&nbsp;podporou WiFi
 ---
+
 <p>
 Nová verze Windows Mobile 2003 for PocketPC bude mít plnou nativní podporu WiFi a také GSM/GPRS dat. Microsoft doufá, že další posilování jeho operačního systému a především sjednocování zdrojových kódů platformy PDA a SmartPhone jeho operačního systému mu přinese další zákazníky především vůči stále více se rozmáhajícímu Symbianu. Dodávaný prohlížeč bude umět IPV6, XHTML, HTML 4.01, WML 2.0, Jscript 5.5. <EM>Zdroj: </EM><A href="http://www.pocketpcthoughts.com/forums/viewtopic.php?p=125125" target=_blank><EM>PocketPCThoughts</EM></A>. <EM>Český zdroj: </EM><A href="http://www.palmare.cz/PocketPC_WinCE/WinCE_Utility/ppc2003030624.html" target=_blank><EM>Palmare</EM></A><EM>.</EM></p>
 

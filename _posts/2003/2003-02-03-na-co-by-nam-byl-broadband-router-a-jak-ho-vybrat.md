@@ -1,14 +1,24 @@
 ---
 ID: 1064
-title: 'Na co by nám byl broadband router a&nbsp;jak ho vybrat'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/na-co-by-nam-byl-broadband-router-a-jak-ho-vybrat
-published: true
+oldlink: 'https://www.marigold.cz/item/na-co-by-nam-byl-broadband-router-a-jak-ho-vybrat
+
+  '
 post_date: 2003-02-03 09:29:00
+post_excerpt: ''
+published: true
+summary_points:
+- Broadband routery propojují vnitřní síť s internetem, ideální pro domácnosti a malé
+  firmy.
+- WAN rozhraní routeru bývá ethernetový konektor, LAN nabízí obvykle čtyři porty.
+- DHCP server, NAT a firewall jsou klíčové funkce routeru pro správu a zabezpečení
+  sítě.
+- Konfigurace routeru probíhá webovým rozhraním, důležité je nastavení firewallu a
+  hesel.
+title: Na co by nám byl broadband router a&nbsp;jak ho vybrat
 ---
+
 Máte doma nebo ve firmě dva počítače, nebo o něco málo více? Chtěli byste je rozumně propojit mezi sebou a nechat sdílet připojení do internetu? Na to by se vám hodil broadband router. Co umí, jak ho vybrat, na co bude? Poradíme<!--more-->Slíbil jsem testy broadband routerů a slovo se má držet. Než se do nich pustíme, chtěl bych vás s problematikou broadband routerů seznámit. 
 <p>
 Router je zařízení starající se o směrování provozu mezi vnitřní sítí a internetem &#8211; ostatně i proto se jmenuje router, směřovač. Broadband (nebo též soho, home atd) router je označení, které se vžilo pro levné verze těchto routerů určené pro domácnosti a malé firmy. Takovýto router je určený pro směřování provozu několika málo počítačů, zpravidla obsahuje rovnou výbavu pro jednoduché a snadné zapojení malé sítě. Broadband se jim říká proto, že jsou určeny pro připojení přes nějaký broadband (tedy širokopásmový, rychlý) kanál do internetu &#8211; například přes kabelovou televizi, ADSL atd. Většinou disponují ethernetovým konektorem pro připojení do internetu, některé jsou ale vybaveny i rozhraním RS-232 pro připojení modemu, nebo vestavěným ISDN či ADSL modemem. Je třeba zvážit, jakým přístupem disponujete, firmy nabízejí broadband routery ve velké škále konfigurací, takže je můžete používat i s připojením přes analogový modem, nebo s vestavěným modemem atd. 

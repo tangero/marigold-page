@@ -1,14 +1,21 @@
 ---
 ID: 1252
-title: 'Konec zotavování a&nbsp;zase doma'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/konec-zotavovani-a-zase-doma
-published: true
+oldlink: 'https://www.marigold.cz/item/konec-zotavovani-a-zase-doma
+
+  '
 post_date: 2004-08-15 21:00:35
+post_excerpt: ''
+published: true
+summary_points:
+- Autor ukončil dovolenou a po celonoční jízdě autem se vrací k práci.
+- Noname dostal přístup na Marigold a publikoval novinky a seriály.
+- Autor děkuje Nonamovi za jeho příspěvky a projevuje mu důvěru.
+- Poštovní server je zahlcen emaily, autor řeší spam a první český virus.
+title: Konec zotavování a&nbsp;zase doma
 ---
+
 <p>
 Dal jsem si celonoční jízdu autíčkem ze Ženevy a jsem totálně nevyspalý, takže než spadnu do postele, abych se do zítřka pokusil vyspat, jen konstatuji, že zotavování a dovolenkování mi skončilo. </p>
 <p>

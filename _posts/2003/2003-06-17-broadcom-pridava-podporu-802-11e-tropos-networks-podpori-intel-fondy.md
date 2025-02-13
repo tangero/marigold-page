@@ -1,16 +1,23 @@
 ---
 ID: 372
-title: >
-  Broadcom přidává podporu 802.11e.
-  Tropos Networks podpoří Intel fondy.
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/broadcom-pridava-podporu-802-11e-tropos-networks-podpori-intel-fondy
-published: true
+oldlink: 'https://www.marigold.cz/item/broadcom-pridava-podporu-802-11e-tropos-networks-podpori-intel-fondy
+
+  '
 post_date: 2003-06-17 10:03:00
+post_excerpt: ''
+published: true
+summary_points:
+- Broadcom přidá do WiFi produktů podporu draftu 802.11e (QoS).
+- WiFi sítě by měly dosáhnout propustnosti až 30 Mb/s díky QoS.
+- Internetová telefonie trpí kolísáním zátěže WiFi sítí bez QoS.
+- Tropos Networks získá investici 150 milionů USD, včetně Intel Communications Fund.
+title: 'Broadcom přidává podporu 802.11e. Tropos Networks podpoří Intel fondy.
+
+  '
 ---
+
 <p>
 Broadcom oznámil, že do svých WiFi produktů přidá podporu draftu 802.11e - tedy podporu řízení kvality služby (QoS). Ačkoliv standard není ještě finální, Broadcom tvrdí, že implementací draftu je schopen zvýšit výrazně propustnost WiFi sítí - u 802.11g standardu až na 30 Mb/s z dnešních průměrných 24 Mb/s. Podrobnosti na <A href="http://www.extremetech.com/article2/0,3973,1128665,00.asp" target=_blank>ExtremeTech</A>.</p>
 

@@ -1,14 +1,22 @@
 ---
 ID: 554
-title: 'Malý UPC Chello update k&nbsp;diskusím a&nbsp;limitům'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/maly-upc-chello-update-k-diskusim-a-limitum
-published: true
+oldlink: 'https://www.marigold.cz/item/maly-upc-chello-update-k-diskusim-a-limitum
+
+  '
 post_date: 2003-10-03 13:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- UPC Chello diskusní fórum funguje na adrese home.ces.chello.cz, přístupné přes odkaz
+  "Diskuse".
+- Alternativní diskuse zákazníků UPC je na portal.dkm.cz/diskuse.php s tickerem závad.
+- UPC diskuse má wapovou verzi na home.ces.chello.cz/wapdiskuze pro mobilní prohlížení.
+- UPC má ve smlouvě možnost zavést datový limit, zatím jej ale nezavedlo.
+title: Malý UPC Chello update k&nbsp;diskusím a&nbsp;limitům
 ---
+
 <p>
 Tak se mi za četné pomoci čtenářů a nakonec i lidí z UPC&#160;podařilo <STRONG>dohledat fungující stránky diskusního fóra UPC Chello</STRONG> a ty jsou na adrese <A href="http://home.ces.chello.cz/">http://home.ces.chello.cz/</A>&#160;- tam stačí <STRONG>kliknout na Diskuse</STRONG> v horní liště.&#160;Nyní chytík - jak se na tyto stránky dostat z oficiální adresy <A href="http://www.chello.cz">www.chello.cz</A>? Tak že kliknete na ikonku Webmail! To mne, přiznám se&#160;nenapadlo.</p>
 

@@ -1,14 +1,21 @@
 ---
 ID: 679
-title: 'Drobky: moblogy, VPN, další útěk k&nbsp;Oskarovi, blogerské dogma a&nbsp;další&#8230;'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/drobky-moblogy-vpn-dalsi-utek-k-oskarovi-blogerske-dogma-a-dalsi
-published: true
+oldlink: 'https://www.marigold.cz/item/drobky-moblogy-vpn-dalsi-utek-k-oskarovi-blogerske-dogma-a-dalsi
+
+  '
 post_date: 2003-11-19 09:34:00
+post_excerpt: ''
+published: true
+summary_points:
+- Goodbye Lenin je podle autora spíše smutný film, než komedie, nesouhlasí s recenzenty.
+- Autor obdržel faktury od Oskara a T-Mobile, přičemž přechodem k Oskaru ušetřil.
+- Článek na MobilManii se věnuje moblogům, tedy blogování z mobilu pomocí MMS.
+- Na ISDN serveru vyšla příloha o VPN, virtuální privátní síti, s hezkým zpracováním.
+title: 'Drobky: moblogy, VPN, další útěk k&nbsp;Oskarovi, blogerské dogma a&nbsp;další&#8230;'
 ---
+
 <p>
 Dneska jsem se probudil nějak podezřele pozdě, kolem deváté hodiny, budík nezafungoval a Dita mne nechala spát. Asi mne přemohl film Goodbye Lenin, doporučuji na něj zajít, je to opravdu hezký film, i když mi přišel víc smutný, než jako komedie. Holt se s recenzenty neshodnu. </p>
 

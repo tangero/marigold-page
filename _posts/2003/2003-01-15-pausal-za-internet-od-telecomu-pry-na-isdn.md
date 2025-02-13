@@ -1,16 +1,23 @@
 ---
 ID: 43
-title: >
-  Paušál za internet od Telecomu prý na
-  ISDN
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pausal-za-internet-od-telecomu-pry-na-isdn
-published: true
+oldlink: 'https://www.marigold.cz/item/pausal-za-internet-od-telecomu-pry-na-isdn
+
+  '
 post_date: 2003-01-15 09:44:00
+post_excerpt: ''
+published: true
+summary_points:
+- Telecom zvažuje paušál za ISDN internet s kreditem 100 Kč za hovory.
+- ISDN internet by stál necelou tisícovku měsíčně, s rychlostí 64 kbps.
+- Cena ISDN internetu by mohla být reálně 600 Kč po odečtení paušálu za telefon.
+- Nabídka ISDN internetu by mohla rozproudit prodej ISDN přípojek.
+title: 'Paušál za internet od Telecomu prý na ISDN
+
+  '
 ---
+
 <p>
 Živě přineslo zprávu o tom, že Telecom zase jednou přemýšlí o paušálu za přístup k internetu. Marigold trochu špicloval a názory se samozřejmě jako vždy různí, počínaje tím, že to bude zase jedna taková "výhodná nabídka" od Telecomu, na jakou jsme si zvykli za ta léta a jakou použije jen zoufalec, až po poměrně zajímavé nápady. </p>
 

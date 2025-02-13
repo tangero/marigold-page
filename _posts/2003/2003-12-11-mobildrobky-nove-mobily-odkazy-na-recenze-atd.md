@@ -1,14 +1,21 @@
 ---
 ID: 732
-title: 'Mobildrobky: nové mobily, odkazy na recenze atd'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mobildrobky-nove-mobily-odkazy-na-recenze-atd
-published: true
+oldlink: 'https://www.marigold.cz/item/mobildrobky-nove-mobily-odkazy-na-recenze-atd
+
+  '
 post_date: 2003-12-11 08:15:00
+post_excerpt: ''
+published: true
+summary_points:
+- Sony Ericsson T630 návod na data a první zkušenosti na PowerPage.
+- TechWorthy porovnává Motorola MPx200 a Samsung SCH-i600 mobily.
+- Mobil.cz informuje o inovovaných telefonech Alcatel 536 a 736.
+- FingerWhisper od NTT DoCoMo přenáší zvuk chvěním kosti do ucha.
+title: 'Mobildrobky: nové mobily, odkazy na recenze atd'
 ---
+
 <p>
 Našel jsem pěkný návod, jak rozchodit <STRONG>data na novém Sony Ericsson T630</STRONG>. U nás se tuším ještě neprodává, takže budete v předstihu :) Tamtéž najdete <A href="http://www.powerpage.org/cgi-bin/WebObjects/powerpage.woa/wa/story?newsID=11624" target=_blank>první zkušenosti</A> s tímto telefonem. Zdroj: <A href="http://www.powerpage.org/cgi-bin/WebObjects/powerpage.woa/wa/story?newsID=11627" target=_blank>PowerPage</A>. Telefon se zatím prodává jen v Číně, tak se netěšte, až počátkem roku půjde do USA a Evropy. </p>
 

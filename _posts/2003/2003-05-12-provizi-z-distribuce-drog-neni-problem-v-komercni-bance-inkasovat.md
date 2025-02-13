@@ -1,14 +1,21 @@
 ---
 ID: 285
-title: 'Provizi z&nbsp;distribuce drog není problém v&nbsp;Komerční bance inkasovat'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/provizi-z-distribuce-drog-neni-problem-v-komercni-bance-inkasovat
-published: true
+oldlink: 'https://www.marigold.cz/item/provizi-z-distribuce-drog-neni-problem-v-komercni-bance-inkasovat
+
+  '
 post_date: 2003-05-12 14:51:00
+post_excerpt: ''
+published: true
+summary_points:
+- Dividenda Philip Moris činila 1400 Kč na akcii před zdaněním.
+- Autor si v Komerční bance vtipně požádal o "provizi z distribuce drog".
+- Banka vyplatila dividendu bez reakce na autorův specifický dotaz.
+- Dividenda byla zdaněna 15% daní a bude zatížena 22% DPH při nákupu.
+title: Provizi z&nbsp;distribuce drog není problém v&nbsp;Komerční bance inkasovat
 ---
+
 <p>
 Měl jsem ve středu trochu času, i rozhodl jsem se vyzdvihnout si dividendu z akcií Philips Moris (dříve Tabák Kutná Hora, abyste chápali pointu). Na to, že mám jednu akcii to vypadalo na nějakých 1400 Kč dividenty a já šel kolem Komerčky, která měla dividendy vyplácet. </p>
 
