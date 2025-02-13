@@ -1,5 +1,7 @@
 ---
 ID: 1084
+audio_url: http://www.marigold.cz/audio/2004-01-01-prava-k-dusevnimu-vlastnictvi-ipr-strasak-modernich-technologii-1084.mp3
+audiooff: false
 author: Patrick Zandl
 layout: post
 oldlink: 'https://www.marigold.cz/item/prava-k-dusevnimu-vlastnictvi-ipr-strasak-modernich-technologii-1084
@@ -9,12 +11,16 @@ post_date: 2004-01-01 06:41:00
 post_excerpt: ''
 published: true
 summary_points:
-- Patenty zatěžují tvorbu standardů finančně i časově, týká se to většiny moderních
-  technologií.
-- GSM telefon vyžaduje stovky patentů, dělí se na esenciální a neesenciální.
-- Patentové poplatky jsou odměnou za vývoj, sladění s konkurencí je problém.
-- ETSI prosadila nediskriminační podmínky pro patenty GSM/UMTS, ale zdrželo to standardizaci.
-title: Práva k&nbsp;duševnímu vlastnictví (IPR) &#8211; strašák moderních technologií
+- "Patenty zat\u011B\u017Euj\xED tvorbu standard\u016F finan\u010Dn\u011B i \u010D\
+  asov\u011B, t\xFDk\xE1 se to v\u011Bt\u0161iny modern\xEDch technologi\xED."
+- "GSM telefon vy\u017Eaduje stovky patent\u016F, d\u011Bl\xED se na esenci\xE1ln\xED\
+  \ a neesenci\xE1ln\xED."
+- "Patentov\xE9 poplatky jsou odm\u011Bnou za v\xFDvoj, slad\u011Bn\xED s konkurenc\xED\
+  \ je probl\xE9m."
+- "ETSI prosadila nediskrimina\u010Dn\xED podm\xEDnky pro patenty GSM/UMTS, ale zdr\u017E\
+  elo to standardizaci."
+title: "Pr\xE1va k&nbsp;du\u0161evn\xEDmu vlastnictv\xED (IPR) &#8211; stra\u0161\xE1\
+  k modern\xEDch technologi\xED"
 ---
 
 Problematika patentů, ochrany duševního vlastnictví, je velkou finanční i časovou zátěží při tvorbě a prosazování dnes již prakticky všech standardů. O co jde?<!--more--><p>
