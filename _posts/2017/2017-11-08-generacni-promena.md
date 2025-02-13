@@ -1,12 +1,18 @@
 ---
 ID: 3859
-title: Generační proměna
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-published: true
 post_date: 2017-11-08 08:27:37
+post_excerpt: ''
+published: true
+summary_points:
+- Autor, IT veterán, zažívá generační nepochopení kvůli svému věku.
+- Obchodníci a vývojáři často podceňují jeho znalosti a vnucují mu svá řešení.
+- Autorovi vadí vnucování moderních trendů bez respektování jeho specifických požadavků.
+- Nepříjemná je i nepřipravenost obchodníků, kteří si nezjistí informace o klientovi.
+title: Generační proměna
 ---
+
 <p>Ta generační proměna je zajímavá věc. Narážím teď na ni. Je mi přes čtyřicet. S počítači dělám od deseti let, v malíku mám věci jako Commodore 64, Amigu, STčko nebo XT a DR-DOS. Poslední programovací jazyk, který jsem fakt intenzivně používal se jmenoval Fortran (Assembler nepočítám). S internetem jsem začal v roce 1992 a zažil jsem všechno možné i nemožné. Začali jsme dělat první weby, první reklamu, první mobilní aplikace, vyvíjel jsem chytré mobily ještě než byly chytré. Snad to nezní neskromně, když řeknu, že o internetu a telekomunikacích mám slušný povrchní přehled.</p>
 
 <p>Jenže je mi přes čtyřicet. A už ani tak nevypadám jako ajťák. Často dorazím na schůzku, kde lidi předpokládají, že ten postarší pán neví ani ťuk o moderních technologiích. A začnou mi vysvětlovat, jak se "musím dívat na možnosti internetu" a tak podobně. Občas je to směšné. Obchoďák PPC, který trval na schůzce před tím, než mi dá slevu, kterou mi stejně dá, protože přesně vím, kam může jít. A který mi chce vysvětlit "ten klikací marketing" a nedá si to vymluvit.</p>

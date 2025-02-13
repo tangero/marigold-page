@@ -1,12 +1,20 @@
 ---
-title: "Obecní povídání o nákladech na provoz veřejného osvětlení"
 author: Patrick Zandl
-post_excerpt: "Na Twitter jsem dal malou anketku, kolik stojí ročně v průměru provoz městského veřejného osvětlení (VO). Zajímalo mě, zda lidé mají aspoň hrubou představu."
+categories:
+- politika
+- Rozpočet obce
+- Jak na zastupitelstvo
 layout: post
-categories: [politika, Rozpočet obce, Jak na zastupitelstvo]
+post_excerpt: Na Twitter jsem dal malou anketku, kolik stojí ročně v průměru provoz
+  městského veřejného osvětlení (VO). Zajímalo mě, zda lidé mají aspoň hrubou představu.
+summary_points:
+- Veřejné osvětlení stojí obce průměrně přes 500 Kč na obyvatele ročně.
+- Běžné výdaje zahrnují elektřinu a údržbu, investiční nové trasy a rekonstrukce.
+- Brandýs-Boleslav vydává ročně 12 milionů Kč za provoz 3000 stožárů.
+- Obce často nemají přehled o nákladech a dokumentaci veřejného osvětlení.
 thumbnail: https://www.marigold.cz/assets/verejne-osvetleni.jpg
+title: Obecní povídání o nákladech na provoz veřejného osvětlení
 ---
-
 
 Na Twitter jsem dal malou anketku, kolik stojí ročně v průměru provoz městského veřejného osvětlení (VO). Zajímalo mě, zda lidé mají aspoň hrubou představu. Průměr na obcích vyjma metropolí je někde přes 500 Kč za osobu a rok. Dobře tipovala polovina hlasujících, ale řada z nich se také přiznala, že vybrala prostě nejvyšší sumu v hlasování.  Tak si dejme malé Twitter školení na pátek, jak se rozpočtuje a platí veřejné osvětlení v obci. 
 
@@ -80,4 +88,4 @@ Běžný chyták: co je investice a co je oprava? Běžné je, že se tyhle kate
 
 Kdybyste si o tom chtěli z úřadu promluvit, klidně se mi ozvěte, rád vyměním zkušenosti. 
 
-Pro další samostudium tématu veřejného osvětlení [mohu doporučit třeba tuto příručku](https://www.mpo-efekt.cz/upload/7799f3fd595eeee1fa66875530f33e8a/faq-vo-efekt2015.pdf). 
+Pro další samostudium tématu veřejného osvětlení [mohu doporučit třeba tuto příručku](https://www.mpo-efekt.cz/upload/7799f3fd595eeee1fa66875530f33e8a/faq-vo-efekt2015.pdf).

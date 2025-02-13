@@ -1,14 +1,22 @@
 ---
 ID: 3098
-title: '5G: SDN nebo NFV a&nbsp;další tendence osvobodit mobilní sítě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/5g-sdn-nebo-nfv-a-dalsi-tendence-osvobodit-mobilni-site
-published: true
+oldlink: 'https://www.marigold.cz/item/5g-sdn-nebo-nfv-a-dalsi-tendence-osvobodit-mobilni-site
+
+  '
 post_date: 2016-07-28 20:46:59
+post_excerpt: ''
+published: true
+summary_points:
+- G sítě cílí na snížení nákladů a zjednodušení infrastruktury pomocí nových přístupů.
+- WiFi integrace do 5G sítí umožní levnější technologie pro drobné zákazníky a mikrooperátory.
+- SDN odděluje řízení sítě od hardwaru, umožňuje softwarové upgrady a nové funkce.
+- NFV virtualizuje síťové funkce na běžné servery, snižuje náklady a zjednodušuje
+  provoz.
+title: '5G: SDN nebo NFV a&nbsp;další tendence osvobodit mobilní sítě'
 ---
+
 <p>Kolem sítí páté generace se objevuje celá řada nových architektonických a konstrukčních přístupů. Dnešní malý náhled bude na dva významné přístupy, které se mají podílet na poklesu cen infrastruktury a do jisté míry i na “laicizaci” - tedy zjednodušení síťové infrastruktury tak, aby byla snáze obsluhovatelná. Tlak je tedy jak na capex, tak na provozní výdaje opex - to z pohledu velkého operátora. Z pohledu menších operátorů by mohlo dojít k tomu, že infrastruktura 5G jimi bude použitelná.</p>
 
 

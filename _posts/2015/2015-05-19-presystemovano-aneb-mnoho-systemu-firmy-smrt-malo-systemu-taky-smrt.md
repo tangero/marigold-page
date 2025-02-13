@@ -1,16 +1,24 @@
 ---
 ID: 2998
-title: >
-  Přesystémováno aneb mnoho systémů,
-  firmy smrt, málo systémů, taky smrt
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/presystemovano-aneb-mnoho-systemu-firmy-smrt-malo-systemu-taky-smrt
-published: true
+oldlink: 'https://www.marigold.cz/item/presystemovano-aneb-mnoho-systemu-firmy-smrt-malo-systemu-taky-smrt
+
+  '
 post_date: 2015-05-19 12:07:33
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor řeší integraci vnitrofiremních systémů, dříve sdíleli soubory přes
+  Dropbox a Google Apps.
+- Dropbox Business je drahý, proto firma přechází na Google Drive, i přes jeho nedostatky.
+- Objednávky přicházejí přes eshop, email, telefon; data se exportují do OnePageCRM.
+- Plánuje se zrušení Freshdesku a převod na Daktelu, řeší se komunikace přes Slack.
+title: 'Přesystémováno aneb mnoho systémů, firmy smrt, málo systémů, taky smrt
+
+  '
 ---
+
 <p>Jedna z věcí, na které v <a href="http://www.energomonitor.cz">Energomonitoru</a> neustále narážíme, jsou vnitrofiremní informační systémy. Respektive to, jak se s nimi vypořádat. Zatím situaci řešíme systémově a uvážlivě zřízením ředitelství pro integraci vnitrofiremních systémů - tedy pokusy o propojení již používaných systémů - ale pojďme se na to podívat, v čem tkví jádro pudla.</p>
 
 

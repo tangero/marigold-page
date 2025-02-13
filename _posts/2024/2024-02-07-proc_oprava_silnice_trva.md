@@ -1,9 +1,18 @@
 ---
+categories:
+- Město
+- Politika
+excerpt: Proč jsou věci v Česku složité? Ukážu vám to na případu, který mám už trochu
+  v oku. Taková rekonstrukce silnice. Pojďme se podívat na to, proč v Česku trvá měsíce
+  ba i roky, zatímco Čína nebo Holandsko to spíchnou za víkend.
 layout: post
-title:  Proč oprava silnice v Česku trvá? Protože...
-categories: [Město, Politika]
-excerpt: Proč jsou věci v Česku složité? Ukážu vám to na případu, který mám už trochu v oku. Taková rekonstrukce silnice. Pojďme se podívat na to, proč v Česku trvá měsíce ba i roky, zatímco Čína nebo Holandsko to spíchnou za víkend.
+summary_points:
+- České rekonstrukce silnic komplikují inženýrské sítě s různými vlastníky.
+- Tendry na silnici a sítě se soutěží odděleně, což vede k prodlevám.
+- Odvolání v tendru, vytíženost firem a dodatečné požadavky zdržují stavbu.
+- Zpoždění způsobují i majetkové spory a problémy s koordinací sítí.
 thumbnail: https://kraje.rsd.cz/zlinsky/wp-content/uploads/sites/15/2021/09/242524491_1290532711401683_7020099745421483765_n-1.jpg
+title: Proč oprava silnice v Česku trvá? Protože...
 ---
 
 Proč jsou věci v Česku složité? Ukážu vám to na případu, který mám už trochu v oku. Taková rekonstrukce silnice. Pojďme se podívat na to, proč v Česku trvá měsíce ba i roky, zatímco Čína nebo Holandsko to spíchnou za víkend.

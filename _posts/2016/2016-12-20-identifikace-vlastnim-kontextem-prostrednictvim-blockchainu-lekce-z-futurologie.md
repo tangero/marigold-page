@@ -1,14 +1,26 @@
 ---
 ID: 3437
-title: 'Identifikace vlastním kontextem prostřednictvím blockchainu (lekce z&nbsp;futurologie)'
 author: Patrick Zandl
-post_excerpt: "Důvod, proč jsem se poněkud ponořil do blockchainu, je vlastně docela prostý. Potřeboval jsem vymyslet autorizační mechanismus, který by byl bezobslužný. Kde by jste nevyplňovali nic. Ani uživatelské jméno, natož heslo. Něco, co bych mohl drze použít do své knihy Flotila jako samozřejmý prvek budoucnosti. Tak samozřejmý, že si jednou řeknou, proč to nikoho nenapadlo, když je to tak zřejmý. A vymyslel jsem takovou ptákovinu, že to musí fungovat."
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/identifikace-vlastnim-kontextem-prostrednictvim-blockchainu-lekce-z-futurologie
-published: true
+oldlink: 'https://www.marigold.cz/item/identifikace-vlastnim-kontextem-prostrednictvim-blockchainu-lekce-z-futurologie
+
+  '
 post_date: 2016-12-20 22:05:07
+post_excerpt: Důvod, proč jsem se poněkud ponořil do blockchainu, je vlastně docela
+  prostý. Potřeboval jsem vymyslet autorizační mechanismus, který by byl bezobslužný.
+  Kde by jste nevyplňovali nic. Ani uživatelské jméno, natož heslo. Něco, co bych
+  mohl drze použít do své knihy Flotila jako samozřejmý prvek budoucnosti. Tak samozřejmý,
+  že si jednou řeknou, proč to nikoho nenapadlo, když je to tak zřejmý. A vymyslel
+  jsem takovou ptákovinu, že to musí fungovat.
+published: true
+summary_points:
+- Autor potřeboval bezobslužný autorizační mechanismus pro knihu Flotila.
+- Eklog zaznamenává veškeré chování uživatele do blockchainových transakcí.
+- Eklog slouží k identifikaci a autorizaci na základě chování uživatele.
+- Eklog vyhodnocuje přínos jedince společnosti a podle toho povoluje zdroje.
+title: Identifikace vlastním kontextem prostřednictvím blockchainu (lekce z&nbsp;futurologie)
 ---
+
 Důvod, proč jsem se poněkud ponořil do blockchainu, je vlastně docela prostý. Potřeboval jsem vymyslet autorizační mechanismus, který by byl bezobslužný. Kde by jste nevyplňovali nic. Ani uživatelské jméno, natož heslo. Něco, co bych mohl drze použít do své knihy Flotila jako samozřejmý prvek budoucnosti. Tak samozřejmý, že si jednou řeknou, proč to nikoho nenapadlo, když je to tak zřejmý. A vymyslel jsem takovou ptákovinu, že to musí fungovat. 
 
 > Možná ten vtip znáte. Šéf americké NSA přijde do práce a sekretářka mu říká “Volal nějaký Orwell a vzkazuje vám, že ta kniha 1984, co se vám tak líbila, měla být varování, ne návod."

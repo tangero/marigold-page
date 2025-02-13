@@ -1,10 +1,19 @@
 ---
-title: "Výsledek a memento pirátských voleb"
 author: Patrick Zandl
-post_excerpt: "Jak dopadly volby pirátského předsednictva a jaký je kontext za tím? Novým předsedou je Zdeněk Hřib, strana má i tři nové místopředsedy."
+categories:
+- politika
+- piráti
+- společnost
 layout: post
-categories: [politika, piráti, společnost]
+post_excerpt: Jak dopadly volby pirátského předsednictva a jaký je kontext za tím?
+  Novým předsedou je Zdeněk Hřib, strana má i tři nové místopředsedy.
+summary_points:
+- Piráti zvolili Zdeňka Hřiba předsedou a schválili reformní balíček Nová Vlna.
+- Nová Vlna omezuje transparentnost a demokracii úpravami hlasování a pravomocí.
+- Reformy mají snížit byrokracii a umožnit efektivnější fungování strany.
+- Piráti se chtějí zaměřit na centristické voliče s důrazem na sociální témata.
 thumbnail: https://www.marigold.cz/assets/rp-2024.jpg
+title: Výsledek a memento pirátských voleb
 ---
 
 O víkendu proběhl pirátské celostátní fórum, v němž se strana rozhodovala o novém předsedovi. Už v minulém článku jsem se snažil vysvětlit pár nuancí, především pak skutečnost, že tyto volby jsou důležité pro rekonstrukci strany, ne pro její veřejně realizovanou politiku. 

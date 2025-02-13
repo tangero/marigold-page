@@ -1,14 +1,21 @@
 ---
 ID: 3385
-title: Fenomén levného čínského smartphone
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/fenomen-levneho-cinskeho-smartphone
-published: true
+oldlink: 'https://www.marigold.cz/item/fenomen-levneho-cinskeho-smartphone
+
+  '
 post_date: 2016-12-03 18:22:00
+post_excerpt: ''
+published: true
+summary_points:
+- Čínské smartphony dobyly trh, překonávají předsudky o kvalitě.
+- Čína má obrovský trh s 800 miliony uživatelů smartphonů.
+- Xiaomi, LeEco a Huawei ukazují různé strategie čínských výrobců.
+- Čína usiluje o vlastní operační systém, snižuje závislost na Androidu.
+title: Fenomén levného čínského smartphone
 ---
+
 <p>Letos s plnou silou dorazil do světa mobilních telefonů fenomén čínského smartphone. Jistěže, vlastně všechny mobily se vyrábějí v Číně (pokud ne v Korei), ale vyráběly se pro zavedené značky. Kdo to kdy slyšel, aby čínský výrobce byl značkou, natož značkou požadovanou. Tak ta doba právě přišla. Úplně ještě není odepsaná teze, že číňané nedovedou nic kvalitního vymyslet a to je naše obrana proti nim, i ti největší optimisté ale vidí její slabiny. </p>
 
 

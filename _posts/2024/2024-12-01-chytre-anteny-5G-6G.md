@@ -1,12 +1,24 @@
 ---
-title: "Chytré antény pro sítě 5G a 6G"
-post_excerpt: "Dnešní mobilní telefony potřebují být zároveň stále menší, výkonější a déle vydržet na baterie. Jenže výkon - v ohledu přenosových rychlostí - znamená především stále širší obsluhované rádiové spektrum, aby bylo možné zdvihat přenosové rychlosti. A to také znamená nutnost prudkého vývoje anténních technologií."
+categories:
+- Mobilní sítě
+- 5G
+- antény
 layout: post
-categories: [Mobilní sítě, 5G, antény]
+post_excerpt: Dnešní mobilní telefony potřebují být zároveň stále menší, výkonější
+  a déle vydržet na baterie. Jenže výkon - v ohledu přenosových rychlostí - znamená
+  především stále širší obsluhované rádiové spektrum, aby bylo možné zdvihat přenosové
+  rychlosti. A to také znamená nutnost prudkého vývoje anténních technologií.
+summary_points:
+- G/6G sítě využívají chytré antény pro efektivní spektrum, rychlé přepínání a zacílení
+  signálu.
+- MIMO a beamforming zvyšují kapacitu a kvalitu signálu chytrých antén v 5G/6G sítích.
+- Antenna-in-Package minimalizuje rozměry antén a zlepšuje efektivitu přenosu signálu
+  v mmWave pásmech.
+- Rekonfigurovatelné inteligentní povrchy (RIS) optimalizují šíření signálu odrazem
+  nebo přesměrováním v 5G/6G.
 thumbnail: https://www.marigold.cz/assets/chytre-anteny-praha.png
+title: Chytré antény pro sítě 5G a 6G
 ---
-
-
 
 Dnešní mobilní telefony potřebují být zároveň stále menší, výkonější a déle vydržet na baterie. Jenže výkon - v ohledu přenosových rychlostí - znamená především stále širší obsluhované rádiové spektrum, aby bylo možné zdvihat přenosové rychlosti. A to také znamená nutnost prudkého vývoje anténních technologií. Moderní antény musí být kompaktní, dobře pracovat s frekvencemi, které by se mohly vzájemně rušit a také přispívat k energetické úspornosti. Pro jednoduchost všeho říkáme, že musí být „chytré“. Přeci byste nechtěli mít pitomou anténu na chytrém mobilu. A už to také nejsou antény, ale spíše pole. Podívejme se na to, co se s ohledem na sítě 5G a 6G děje v anténních technologiích.
 

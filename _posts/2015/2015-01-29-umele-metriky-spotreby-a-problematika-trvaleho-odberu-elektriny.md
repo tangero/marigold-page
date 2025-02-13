@@ -1,14 +1,21 @@
 ---
 ID: 2982
-title: 'Umělé metriky spotřeby a&nbsp;problematika trvalého odběru elektřiny'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/umele-metriky-spotreby-a-problematika-trvaleho-odberu-elektriny
-published: true
+oldlink: 'https://www.marigold.cz/item/umele-metriky-spotreby-a-problematika-trvaleho-odberu-elektriny
+
+  '
 post_date: 2015-01-29 09:29:51
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor řeší problém identifikace a vysvětlení zbytečných výdajů za energie.
+- Trvalá spotřeba definována jako nejnižší průběžná spotřeba elektřiny, často zbytečná.
+- Optimalizací trvalé spotřeby lze ušetřit až 6000 Kč ročně.
+- Energomonitor pomáhá metriky pochopit, srovnat, zlepšit a dlouhodobě kontrolovat.
+title: Umělé metriky spotřeby a&nbsp;problematika trvalého odběru elektřiny
 ---
+
 <p>Jaký problém řešíme v <a href="http://www.energomonitor.com">energomonitoru</a> nejvíce? Teda krom toho, že češi jsou hauři a šetření je pod jejich úroveň, neb oni na to mají, což kontrastuje s přístupem třeba holandských nebo španělských zákazníků?</p>
 
 <p>Největším problémem je, jak lidem identifikovat a vysvětlit, kde utrácejí zbytečně a kde se dá šetřit. Když se totiž do grafu podívá někdo od nás, většinou na první pohled nebo po kontrole pár údajů jako <em>“čím se topí a co je to za nemovitost”</em>, se dá zjistit, kde klienta tlačí bota.</p>

@@ -1,14 +1,21 @@
 ---
 ID: 3067
-title: Když můžu běhat já, můžeš taky
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdyz-muzu-behat-ja-muzes-taky
-published: true
+oldlink: 'https://www.marigold.cz/item/kdyz-muzu-behat-ja-muzes-taky
+
+  '
 post_date: 2016-05-06 10:08:32
+post_excerpt: ''
+published: true
+summary_points:
+- Běhání začněte pomalu, abyste předešli zraněním a demotivaci.
+- Měření uběhnuté vzdálenosti motivuje a ukazuje pokrok v běhání.
+- Funkční oblečení, i to levné, zásadně zlepší komfort běhu v nepříznivém počasí.
+- Kvalitní běžecké boty jsou klíčové pro prevenci bolesti kolen a zranění.
+title: Když můžu běhat já, můžeš taky
 ---
+
 <p>Dělat něco pro svoje zdraví v době, kdy je pohodlnější a oceňovanější dělat něco proti němu, je těžké. Hlavně z pohledu sebemotivace, tedy z toho, vyhoupnout se k tomu. Moderně se říká, dostat se z komfortní zóny, ale to je békovina, ve skutečnosti jde o to, svou komfortní zónu rozšířit.</p>
 
 <p>Začal jsem zase běhat. Nikomu to necpu (aj blog jsem si na to <a href="http://krysabeha.blogspot.cz">šoupl bokem</a>), vím, že někteří jsou na to alergičtí, ale baví mě to a zase jiní chtějí vědět, jaké to je, když tlustá kancelářská krysa začne běhat. Jestli to vůbec jde.</p>

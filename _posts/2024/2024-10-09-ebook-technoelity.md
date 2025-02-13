@@ -1,13 +1,19 @@
 ---
-title: "Ebook Technoelity - Když příliš málo určuje příliš mnoho"
 author: Patrick Zandl
-post_excerpt: "Připravuji nový ebook, předobjednávat si ho už můžete..."
+categories:
+- Knihy
+- eBook
 layout: post
-categories: [Knihy, eBook]
+post_excerpt: Připravuji nový ebook, předobjednávat si ho už můžete...
+summary_points:
+- Kniha Mýty a naděje digitálního světa původně obsahovala kapitolu o šéfech technofirem.
+- Autor se rozhodl napsat ebook Technoelity o excentrických šéfech technologických
+  korporací.
+- Ebook Technoelity bude mít rozsah cca 150 000 znaků a bude ve formátech PDF a ePub.
+- Projekt ebooku Technoelity byl úspěšně financován a autor jej dokončí.
 thumbnail: https://www.marigold.cz/assets/technoelity.png
+title: Ebook Technoelity - Když příliš málo určuje příliš mnoho
 ---
-
-
 
 Když jsem připravoval knihu [Mýty a naděje digitálního světa](https://www.melvil.cz/kniha-myty-a-nadeje-digitalniho-sveta/?utm_source=substack&utm_medium=email), byla zde kapitola věnovaná svébytným šéfům technologických korporací. Nakonec jsme ji vyřadili, protože tematicky vybočovala, byla spíše o společnosti, než o technologiích - a výrazně prodlužovala knihu. Jenže je to velká škoda, byl to dobrý vhled do toho, jak se excentričtí a egocentričtí šéfové technofirem se svými obrovskými zdroji propisují do našeho světa. 
 

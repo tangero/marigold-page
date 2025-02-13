@@ -1,11 +1,22 @@
 ---
+categories:
+- Mobilní sítě
+- 5G
+- 5G Advanced
+- 4G
+excerpt: Technologie pro radiové přístupové sítě se vyvíjejí. Pojďme se podívat na
+  nejmodernější koncepty, které se dostávají do sítí 5G, 5G Advanced a také do 6G.
 layout: post
-title:  Způsoby zlepšení radiové sítě v 5G čili C-RAN, vRAN a Open RAN
-categories: [Mobilní sítě, 5G, 5G Advanced, 4G]
-excerpt: Technologie pro radiové přístupové sítě se vyvíjejí. Pojďme se podívat na nejmodernější koncepty, které se dostávají do sítí 5G, 5G Advanced a také do 6G.
-post_date: 2024-9-26 13:48:16
+post_date: 2024-09-26 13:48:16
+summary_points:
+- C-RAN centralizuje zpracování signálu v jádru sítě pomocí cloudových serverů.
+- D-RAN sítě decentralizovaly zpracování signálu na tisících základnových stanicích.
+- C-RAN snižuje náklady na hardware, elektřinu a zjednodušuje správu sítě.
+- Open RAN otevírá rozhraní mezi komponentami RAN pro interoperabilitu různých výrobců.
 thumbnail: https://www.marigold.cz/assets/dran-cran.png
+title: Způsoby zlepšení radiové sítě v 5G čili C-RAN, vRAN a Open RAN
 ---
+
 Problematika C-RAN patří mezi na první pohled obtížně pochopitelné změny v architektuře sítí 5G a tak se u ní speciálně zastavíme. Je totiž symbolem pokroku v rádiové přístupové síti, tedy ve způsobu, jakým se mobilní telefon připojuje do mobilní sítě.
 
 Malá vsuvka: C-RAN bývá dávána za příklad toho, že i Čína je schopna na intelektuálním poli rozvoje mobilních technologií nějak přispět, nikoliv pouze kopírovat. S návrhem C-RAN totiž přišel v roce 2010 China Mobile Research Institut. Kritikové přípomínají, že patenty na tuto technologii ovšem o nějakých deset let dříve podala americká firma, respektive Steve Shattil, takže zase takový čínský průlom to nebyl. Na jednu stranu nazrála doba (a technologie), na druhou je dobré, že se tento přístup podařilo čínskému CMRI dotáhnout do konce.
@@ -84,4 +95,4 @@ V 3GPP Release 14 jsou zahájeny práce na rozdělení funkcí RAN, příprava n
 
 Open RAN (O-RAN) není přímo specifikován v žádné konkrétní verzi 3GPP Release. Místo toho je O-RAN standardizován a vyvíjen prostřednictvím O-RAN Alliance, která definuje specifikace pro otevřená rozhraní mezi různými komponentami Radio Access Network (RAN). O-RAN Alliance spolupracuje s 3GPP na zajištění interoperability mezi otevřenými rozhraními a existujícími 3GPP specifikacemi.
 
-Open RAN vypadá jako dobrý přístup a uvidíme, nakolik se ve výstavbě sítí chytne. 
+Open RAN vypadá jako dobrý přístup a uvidíme, nakolik se ve výstavbě sítí chytne.

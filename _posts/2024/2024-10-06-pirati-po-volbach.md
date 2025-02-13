@@ -1,10 +1,19 @@
 ---
-title: "Pirátská situace na podzim 2024 - pohled z podpalubí"
 author: Patrick Zandl
-post_excerpt: "Naordinoval jsem si týdenní radiový klid, protože emoce cloumají mnohým majestátem. A děkuju vám za četnou podporu. Tak tedy krátce k Pirátům i těm ostatním. Jaká je pirátská situace po prohraných krajských volbách?"
+categories:
+- Česko
+- Město
 layout: post
-categories: [Česko, Město]
+post_excerpt: Naordinoval jsem si týdenní radiový klid, protože emoce cloumají mnohým
+  majestátem. A děkuju vám za četnou podporu. Tak tedy krátce k Pirátům i těm ostatním.
+  Jaká je pirátská situace po prohraných krajských volbách?
+summary_points:
+- Piráti vstoupili do vlády s cílem prosadit svůj program, ale neuspěli.
+- Digitalizace stavebního řízení (DSŘ) se stala pro Piráty politicky nevděčným úkolem.
+- Premiér Fiala odvolal Bartoše, což vedlo k odchodu Pirátů z vlády.
+- Piráti se musí odbyrokratizovat, šetřit a komunikovat i ekonomická témata.
 thumbnail: https://www.marigold.cz/assets/patrick-ivan-jura.jpeg
+title: Pirátská situace na podzim 2024 - pohled z podpalubí
 ---
 
 Naordinoval jsem si týdenní radiový klid, protože emoce cloumají mnohým majestátem. A děkuju vám za četnou podporu. Tak tedy krátce k Pirátům i těm ostatním. 
