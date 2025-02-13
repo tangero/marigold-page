@@ -1,5 +1,5 @@
 ---
-audio_url:
+audio_url: null
 author: Patrick Zandl
 categories:
 - AI
@@ -11,10 +11,17 @@ post_excerpt: Před měsícem vyšla výzkumná zpráva, tento týden vymazal bi
   z hodnoty amerických technologických firem. Čínský Deepseek vydal nové AI modely
   a způsobil na trhu paniku, protože podstatně levněji udělal něco, čím předstihl
   své dražší a slavnější americké konkurenty. Co se stalo a co to znamená pro AI vývoj?
+summary_points:
+- Vance vidí AI jako revoluční nástroj pro ekonomiku, bezpečnost, zdravotnictví a
+  svobodu projevu.
+- Trumpova administrativa chce deregulovat AI, aby podpořila inovace a konkurenceschopnost
+  USA.
+- Administrativa zajistí, že americká AI nebude ideologicky zaujatá a bude chráněna
+  před zneužitím.
+- AI má doplňovat práci, zvyšovat produktivitu a vyžaduje budování energetické infrastruktury.
 thumbnail: https://www.marigold.cz/assets/JD-Vance-Paris-summit-2025.jpg
 title: Projev viceprezidenta JD Vance na pařížském AI summitu 2025
 ---
-
 
 Na pařížském AI Summitu přednesl JD Vance důležitý projev, který zcela jasně ukázal, jak Trumpova administrativa hodlá přistupovat k umělé inteligenci. Vance zdůraznil, že umělá inteligence je nejen technologií budoucnosti, ale také nástrojem, který může zlepšit životy lidí po celém světě. Zároveň však varoval před nebezpečím, které může AI přinést, pokud se dostane do špatných rukou. 
 
