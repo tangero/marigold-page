@@ -1,16 +1,23 @@
 ---
 ID: 3095
-title: >
-  Možná si tu hru se cvičkama
-  pamatujete ze základní školy
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/prispevek-z-facebooku-dne-july-27-2016-at-0836pm
-published: true
+oldlink: 'https://www.marigold.cz/item/prispevek-z-facebooku-dne-july-27-2016-at-0836pm
+
+  '
 post_date: 2016-07-27 19:37:09
+post_excerpt: ''
+published: true
+summary_points:
+- Hra s přezůvkami na základce byla nevyhratelná kvůli fyzikálním zákonům.
+- Pasivní přístup zastavil šikanu efektivněji než konfrontace.
+- Teroristické útoky vyžadují dlouhodobá opatření, ne rychlá řešení.
+- Integrace a prevence radikalizace jsou klíčové, ale složité na realizaci.
+title: 'Možná si tu hru se cvičkama pamatujete ze základní školy
+
+  '
 ---
+
 Možná si tu hru pamatujete ze základní školy: sebrat spolužákovi pytlík s přezůvkama nebo čepici a rychle to hodit dál, než doběhne. Pokračovat, dokud nedorazí učitelka nebo nezazvoní, pak rychle hodit pytlík či čepici na drátěnou střechu šatny a zdrhat na hodinu. Velká bžunda. 
 
 Jako každý budoucí ajťák jsem tuhle hru na základce hrával často, nikoliv však rád. Rychle jsem odhalil pár triků a zákonitostí, především pak to, že se nedala vyhrát. Přezůvky hozené vysokým obloukem se prakticky nikdy nedaly chytit a k druhému chytajícímu se nedalo doběhnout včas. Byla to cenná lekce z oblasti fyzikálních zákonitostí pohybu, setrvačnosti, elevace a hybnosti. Brečení  nepomohlo. A další ponaučení: i když jsem byl silnější a ze svého pohledu oběť, zmydlit házejícího nebo chytajícího bylo učitelským sborem vnímáno jako zásadní prohřešek. Nakonec poradila moudrá třídní učitelka: “Nech je, za chvíli je to přestane bavit.” 

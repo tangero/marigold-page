@@ -1,14 +1,22 @@
 ---
 ID: 2907
-title: 'Robotická sekačka Robomow: jak dobře poslouží na zahradě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/roboticka-sekacka-robomow-jak-dobre-poslouzi-na-zahrade
-published: true
+oldlink: 'https://www.marigold.cz/item/roboticka-sekacka-robomow-jak-dobre-poslouzi-na-zahrade
+
+  '
 post_date: 2014-05-28 09:51:32
+post_excerpt: ''
+published: true
+summary_points:
+- Robomow RC306 je efektivní robotická sekačka pro zahrady do 600 m2.
+- Sekačka využívá mulčování, čímž trávník hnojí a udržuje jej stále posekaný.
+- Instalace vymezovacího kabelu je složitá, doporučuje se odborná pomoc.
+- Robomow má bezpečnostní prvky, ale vyžaduje kontrolu před sečením kvůli dětem a
+  předmětům.
+title: 'Robotická sekačka Robomow: jak dobře poslouží na zahradě'
 ---
+
 <p>Jsem fanda do robotů. Před nějakou dobou jsem tu recenzoval roboty - vysavače - a pořád si stojím za tím, že Roomba je o řád dále, než její běžná konkurence, snad s výjimkou kamerového Samsungu, který ale má celou řadu svých problémů.</p>
 
 

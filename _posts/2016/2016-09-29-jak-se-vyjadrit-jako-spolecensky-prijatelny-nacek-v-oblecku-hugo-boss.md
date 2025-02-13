@@ -1,14 +1,21 @@
 ---
 ID: 3190
-title: 'Jak se vyjádřit jako společensky přijatelný nácek v&nbsp;oblečku Hugo Boss'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-se-vyjadrit-jako-spolecensky-prijatelny-nacek-v-oblecku-hugo-boss
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-se-vyjadrit-jako-spolecensky-prijatelny-nacek-v-oblecku-hugo-boss
+
+  '
 post_date: 2016-09-29 09:59:51
+post_excerpt: ''
+published: true
+summary_points:
+- Ondřej Neff kritizuje přijímání migrantů jako dlouhodobý sociální problém.
+- Sociologové předpokládají, že migrace nezpůsobí zásadní společenské změny.
+- USA nepykají za dovoz černochů, jejich přínos převážil negativa.
+- Neffův názor je založen na emocích, nikoliv na faktech.
+title: Jak se vyjádřit jako společensky přijatelný nácek v&nbsp;oblečku Hugo Boss
 ---
+
 Onřej Neff dneska tematicky jako nácek ve slušivém obleku Huggo Boss. U něj by mě to kdysi překvapilo, v poslední době bohužel standard. Takže co je na níže uvedeném tvrzení špatně?
 
 <em>"Ale časem by i dobrodějové měli pochopit, že bezbřehým přijímáním migrantům zaděláváme Evropě strašlivý sociální problém ne na desítky, ale na stovky let dopředu. Ty lidi odsud už nikdo nedostane a jejich stoprocentní asimilace je nepředstavitelná. Zatím nic z dosavadních zkušeností neukazuje, že by byla možná.

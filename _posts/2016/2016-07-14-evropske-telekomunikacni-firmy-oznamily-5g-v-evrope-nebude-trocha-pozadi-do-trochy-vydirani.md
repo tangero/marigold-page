@@ -1,14 +1,26 @@
 ---
 ID: 3085
-title: 'Evropské telekomunikační firmy oznámily: 5G v&nbsp;Evropě nebude (trocha pozadí do trochy vydírání)'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/evropske-telekomunikacni-firmy-oznamily-5g-v-evrope-nebude-trocha-pozadi-do-trochy-vydirani
-published: true
+oldlink: 'https://www.marigold.cz/item/evropske-telekomunikacni-firmy-oznamily-5g-v-evrope-nebude-trocha-pozadi-do-trochy-vydirani
+
+  '
 post_date: 2016-07-14 08:47:11
+post_excerpt: ''
+published: true
+summary_points:
+- Evropské telekomunikační firmy vydaly 5G Manifest požadující ústup od síťové neutrality
+  do roku 2020.
+- Síťová neutralita zajišťuje rovný přístup k internetu bez upřednostňování služeb
+  či dat.
+- Telekomunikační průmysl varuje, že bez ústupků od neutrality nebudou investice do
+  5G sítí realizovány.
+- Facebook představil OpenCellular, opensource platformu pro levnou výstavbu mobilních
+  sítí.
+title: 'Evropské telekomunikační firmy oznámily: 5G v&nbsp;Evropě nebude (trocha pozadí
+  do trochy vydírání)'
 ---
+
 <p>Minulý týden přinesl jednu průlomovou událost ve světě mobilních sítí páté generace. Skupina evropských telekomunikačních firem vydala společný Manifest 5G. V něm reaguje na výzvu vybudovat v Evropě 5G sítě do roku 2020. To nebude možné, pokud Evropa neustoupí z požadavku na síťovou neutralitu, vyhrožují telekomunikační firmy. A kladou si celou řadu dalších více či méně rozumných podmínek. Pokračuje tak odložené přetahování o síťovou neutralitu, které vloni na podzim timeoutovalo přijetím požadavku na síťovou neutralitu do evropského telekomunikačního rámce v Evropském parlamentu.</p>
 
 <p>Téma je poněkud složité a nepřehledné, pokusím se jej rozmotat, obávám se však, že to bude na úkor délky textu.</p>

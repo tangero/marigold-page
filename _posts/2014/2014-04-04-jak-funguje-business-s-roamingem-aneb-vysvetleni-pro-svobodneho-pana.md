@@ -1,14 +1,21 @@
 ---
 ID: 2864
-title: 'Jak funguje business s&nbsp;roamingem aneb vysvětlení pro Svobodného pána'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-funguje-business-s-roamingem-aneb-vysvetleni-pro-svobodneho-pana
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-funguje-business-s-roamingem-aneb-vysvetleni-pro-svobodneho-pana
+
+  '
 post_date: 2014-04-04 19:53:03
+post_excerpt: ''
+published: true
+summary_points:
+- EU zakázala roamingové poplatky, což snížilo ceny pro spotřebitele.
+- Roamingové poplatky slouží velkým operátorům k blokování konkurence.
+- Koncové ceny roamingu neodráží skutečné náklady mezi operátory.
+- EU zavedla regulaci, aby odstranila neférové praktiky v telekomunikačním trhu.
+title: Jak funguje business s&nbsp;roamingem aneb vysvětlení pro Svobodného pána
 ---
+
 <p>EU zakázala roamingové ceny. Opatření, které sníží ceny, staví odpůrce Evropské unie do nezáviděníhodné pozice, jak jej vydávat za zdražení a úřední zvůli proti lidu. Hezký pokus <a href="http://web.svobodni.cz/clanky/jiri-rybar-konec-roamingu-v-eu-zaplatite-vy">uskutečnil pan Rybář ze Strany svobodných občanů</a> a u lidí, kteří nemají ponětí, jak roamingový business v mobilních sítích funguje, by to i mohlo vzbuzovat dojem oprávněných výhrad. Opak je pravdou a pokud vás zajímá, proč, čtěte dále možná trochu upovídané vysvětlení psané v metru na trase IP Pavlova - Letňany (tudíž omluvte překlepy i délku, nebyl čas).</p>
 
 

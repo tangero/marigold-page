@@ -1,16 +1,23 @@
 ---
 ID: 3072
-title: >
-  Virtuální realita má být motor
-  další technologické spotřeby
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/virtualni-realita-ma-byt-motor-dalsi-technologicke-spotreby
-published: true
+oldlink: 'https://www.marigold.cz/item/virtualni-realita-ma-byt-motor-dalsi-technologicke-spotreby
+
+  '
 post_date: 2016-05-12 18:32:45
+post_excerpt: ''
+published: true
+summary_points:
+- Virtuální realita zatím nenabízí dostatečný uživatelský komfort pro masové přijetí.
+- Technologické limity jako 8K rozlišení a přenos dat brzdí rozvoj VR.
+- Oculus Rift a Google Cardboard znovu probudily zájem o virtuální realitu.
+- Psychologické a technické problémy mohou zpomalit masovou adopci VR.
+title: 'Virtuální realita má být motor další technologické spotřeby
+
+  '
 ---
+
 <p>Bude virtuální realita tím průlomem, který znovu povede zvyšování zátěže internetu a další průnik technologií do našich životů? Výrobci jsou plni navenek manifestovaného optimismu, ale jejich kroky jsou veskrze opatrné. Úspěchy produktů typu Oculus Rift jsou zatím relativizovány jako “úchylka” a “nalezení niky v nice”.</p>
 
 

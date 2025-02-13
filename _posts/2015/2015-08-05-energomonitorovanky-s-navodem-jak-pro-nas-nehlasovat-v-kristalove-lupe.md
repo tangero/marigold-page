@@ -1,14 +1,22 @@
 ---
 ID: 3004
-title: 'Energomonitorovánky s&nbsp;návodem, jak pro nás nehlasovat v&nbsp;Křišťálové Lupě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/energomonitorovanky-s-navodem-jak-pro-nas-nehlasovat-v-kristalove-lupe
-published: true
+oldlink: 'https://www.marigold.cz/item/energomonitorovanky-s-navodem-jak-pro-nas-nehlasovat-v-kristalove-lupe
+
+  '
 post_date: 2015-08-05 08:12:20
+post_excerpt: ''
+published: true
+summary_points:
+- Robert Vlach nominoval Energomonitor na Křišťálovou Lupu 2015.
+- Energomonitor má stabilní pozice v evropských trzích a vlastní hardware.
+- Firma čelí výzvám v řízení, produktu a obchodních strategiích.
+- Plánují rozšíření do Evropy a hledají další investice.
+title: Energomonitorovánky s&nbsp;návodem, jak pro nás nehlasovat v&nbsp;Křišťálové
+  Lupě
 ---
+
 <p>Robert Vlach <a href="https://www.facebook.com/robertvlach.cz/posts/10153503719059808?pnref=story">na Facebooku dneska uveřejnil svoje nominace</a> na Křišťálovou Lupu 2015 a jako globální startup projekt zde dal Energomonitor. To je důvěra, která těší (a děkuju za ni), ale pokusil bych se vysvětlit ve stručnosti, proč byste nám neměli dát hlas. </p>
 
 

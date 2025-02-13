@@ -1,14 +1,21 @@
 ---
 ID: 3236
-title: 'Trvalá pohotovost, soustředění a&nbsp;multitasking života i&nbsp;práce'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/trvala-pohotovost-a-multitasking-zivota-i-prace
-published: true
+oldlink: 'https://www.marigold.cz/item/trvala-pohotovost-a-multitasking-zivota-i-prace
+
+  '
 post_date: 2016-10-17 08:31:27
+post_excerpt: ''
+published: true
+summary_points:
+- Poslední desetiletí přineslo masivní prolínání práce a osobního života.
+- Trvalá pohotovost znamená, že práce proniká do soukromí bez přestávky.
+- Multitasking narušuje soustředění a snižuje produktivitu hluboké práce.
+- Oddělení práce a soukromí je klíčové pro lepší výsledky a duševní pohodu.
+title: Trvalá pohotovost, soustředění a&nbsp;multitasking života i&nbsp;práce
 ---
+
 Multitasking života a práce. Jestli nějaké slovní spojení může charakterizovat změny, jež přineslo poslední desetiletí, tak právě tohle. Nikdy před tím nedocházelo k tak rozsáhlému prolínání práce a osobního života, jako v posledním desetiletí. To, co se ještě před pár lety týkalo jen vrcholových manažerů či politiků, tedy nutnost být v případě potřeby na příjmu a řešit problém ohrožující život korporace či státu, je najednou běžná samozřejmost pro každého. Zatím to považujeme za výhodu  nebo to neřešíme. Dostali jsme přeci v práci chytrý mobilní telefon zapůjčený zdarma. Notebook. No a že šéf píše o víkendu? Tak si to přečteme a když tak do pondělí promyslíme. Nic závadného to přeci není. 
 
 Problémy jsou dva. Tím prvním je multitasking, tím druhým trvalá pohotovost. Do téhle chvíle jsme měli svět práce a soukromí ve většině případů geograficky oddělený, pracovalo se jinde, než se žilo. Najednou, s chytromobilem v kapse, je práce tam, kde jste vy. 

@@ -1,16 +1,23 @@
 ---
 ID: 3228
-title: >
-  Znalost je na nic, škola má naučit
-  obsluhu Wikipedie? Ne!
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/znalost-je-na-nic-skola-ma-naucit-obsluhu-wikipedie-ne
-published: true
+oldlink: 'https://www.marigold.cz/item/znalost-je-na-nic-skola-ma-naucit-obsluhu-wikipedie-ne
+
+  '
 post_date: 2016-10-12 06:59:20
+post_excerpt: ''
+published: true
+summary_points:
+- Karlův most měří přibližně 516 metrů, přesná délka není klíčová.
+- Test psychologického profilu hodnotí schopnost odhadu, ne přesné znalosti.
+- Znalost je nezbytná pro tvoření, nelze ji nahradit vyhledáváním.
+- Školy by měly učit znalosti, hledání se snáze staví na již známém.
+title: 'Znalost je na nic, škola má naučit obsluhu Wikipedie? Ne!
+
+  '
 ---
+
 Jak dlouhý je Karlův most? Tuhle otázku jsem před mnoha lety měl v jednom testu. Nechápal jsem, proč v testu psychologického profilu je tahle otázka, ale poctivě jsem ji zodpověděl podle svého nejlepšího vědomí a svědomí. Když se test s psychologem vyhodnocoval, zeptal jsem se ho zvědavě, jak se k testování vztahuje znalost délky Karlova mostu. Psycholog mi vysvětlil, že jde o posouzení schopnosti vyhodnotit situaci, se kterou je člověk zběžně obeznámen. Že součástí testu není odpovědět přesně, ale tím, že se zhruba trefíte prokázat, že máte smysl pro proporce a odhad. Pak se podíval na moji odpověď a tím se to trochu pokazilo, protože to byla tříodstavcová analýza rozebírající různé možnosti v průběhu doby, ale to už s příběhem nesouvisí. 
 
 V poslední době stále častěji slýchám, že znalost není důležitá, že důležitá je schopnost najít. Že školy nemají nabiflovat, ale naučit používat vyhledávací nástroje. Považuju to za nebezpečné a hloupé. Neznalost nelze nahradit vyhledáváním. Tvořit můžete, pokud máte na čem stavět, co modifikovat. Když tvoříte, nemůžete ztrácet čas tím, že si základní znalosti vyhledáváte. A z ničeho nic nepovstane. Z neznalosti nevznikne nové dílo ani dobrá odvozenina díla stávajícího, protože jak byste mohli odvozovat, když neznáte východiska. Základem nového je znát staré. Jistě, nemusíte znát staré do detailu. Není podstatné, abyste přesně věděli, jak dlouhý je Karlův most, ale je důležité, abyste měli nějakou představu o proporcích. Abyste v případě potřeby věděli, co máte hledat a jak zhruba hledané vypadá. Abyste tím měli i smysl pro realitu. 

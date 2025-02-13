@@ -1,14 +1,22 @@
 ---
 ID: 3018
-title: 'Kdo je kdo v&nbsp;českém (a&nbsp;slovenském) Internetu věcí &#8211; IoT'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdo-je-kdo-v-ceskem-a-slovenskem-internetu-veci-iot
-published: true
+oldlink: 'https://www.marigold.cz/item/kdo-je-kdo-v-ceskem-a-slovenskem-internetu-veci-iot
+
+  '
 post_date: 2015-10-16 14:30:45
+post_excerpt: ''
+published: true
+summary_points:
+- Internet věcí vyžaduje propojení a inteligenci, ne jen připojení zařízení.
+- Firmy v IoT musí zpracovávat data, ne jen je zobrazovat nebo přenášet.
+- Kvantifikace významu firem v IoT je obtížná kvůli specializacím a nedostatku dat.
+- Seznam českých a slovenských IoT firem zahrnuje různé oblasti od monitoringu po
+  domácí automatizaci.
+title: Kdo je kdo v&nbsp;českém (a&nbsp;slovenském) Internetu věcí &#8211; IoT
 ---
+
 <p>Kdo je kdo v českém (a slovenském) Internetu věcí? To je dobrá otázka, na kterou se pokusím záhy odpovědět. Nejdříve malé vymezení. Internet věcí může obnášet celou plejádu firem, počínaje těmi, které lisují plasty pro krabičky, přes tiskaře manuálů až po dodavatele kompletních řešení. Já za firmu pro tento seznam beru takovou, která vytváří propojení mezi “věcmi”. Tiskaře nebo výrobce plastů za firmu v IoT činnou nepovažuji, byť chápu, že něco dodávají. Z toho důvodu mírně bokem dávám firmy poskytující infrastrukturu, protože ti nevytvářejí chytrost samu. </p>
 
 

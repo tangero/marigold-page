@@ -1,16 +1,26 @@
 ---
 ID: 2784
-title: >
-  Když vyslyšíte cílovou skupinu,
-  která jí není, je to průšvih
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kdyz-vyslysite-cilovou-skupinu-ktera-ji-neni-je-to-prusvih
-published: true
+oldlink: 'https://www.marigold.cz/item/kdyz-vyslysite-cilovou-skupinu-ktera-ji-neni-je-to-prusvih
+
+  '
 post_date: 2014-02-18 21:26:08
+post_excerpt: ''
+published: true
+summary_points:
+- Kritika je účinnější, když vychází z vlastních chyb.
+- Energomonitor se zaměřuje na šetření energie pomocí online služby.
+- První verze energomonitoru byla příliš složitá a neintuitivní.
+- Druhá verze, "bílý web", uspěla u elektrikářů, ale ne u běžných uživatelů.
+- Finální "černý web" vznikl po důkladném testování a zpětné vazbě.
+- Chybou bylo naslouchání nesprávné cílové skupině.
+- Poučení z chyb je klíčové pro úspěšný vývoj produktu.
+title: 'Když vyslyšíte cílovou skupinu, která jí není, je to průšvih
+
+  '
 ---
+
 <p>Má-li zaznít kritika, tak je nejlepší ukázat ji na vlastních pochybeních. Když jsem <a href="http://www.marigold.cz/item/lean-startup-aneb-jak-se-propivotovat-do-pekla">psal o "lean startupu"</a>, snažil jsem se vysvětlit, že jejich metodika stálého testování vlastně není metodikou, jen temným příkázáním. Což je nepříjemné ve chvíli, kdy nevíte, jak se testování a průzkumy dělají, přičemž Riesův “lean” se na ně opravdu hodně odvolává. Snadno se pak necháte svést na zcestí, protože neodhadnete, co a kdo je vaše cílová skupina či jaký je její rozměr nebo dynamika. A už vůbec nebudete schopni odvodit z reakcí, jaké bude skutečné přijetí novinky, se kterou trh nemá zkušenosti.</p>
 <p>Takže k našemu příkladu...</p>
 

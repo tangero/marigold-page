@@ -1,14 +1,21 @@
 ---
 ID: 3344
-title: 'Jak EET dopadne na eshopy: bude se zdražovat, komfort poklesne'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-eet-dopadne-na-eshopy-bude-se-zdrazovat-komfort-poklesne
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-eet-dopadne-na-eshopy-bude-se-zdrazovat-komfort-poklesne
+
+  '
 post_date: 2016-11-23 12:15:30
+post_excerpt: ''
+published: true
+summary_points:
+- EET pro eshopy je nejasné a komplikované, s mnoha nejasnými pravidly.
+- Každá platební metoda vyžaduje jiný postup v EET, což zvyšuje složitost.
+- Náklady na implementaci EET jsou vysoké, odhadované na 100 000 Kč a více.
+- EET povede ke zdražení zboží a snížení zákaznického komfortu v eshopech.
+title: 'Jak EET dopadne na eshopy: bude se zdražovat, komfort poklesne'
 ---
+
 Pár článků o tom, jak dopadne EET na eshopy, už jsem četl, většinou nebylo mnoho jistého a věci se vybarvují teprve teď, když do startu EET pro eshopy zbývají čtyři měsíce. Ve skutečnosti bude EET pro eshopy zřejmě největší oser ze všech oborů, kde evidence probíhá bez problémů (tedy s výjimkou těch, kdo šidili na daních a neevidovali).
 
 Z povahy věci eshopy mají každou transakci zaevidovanou, což samozřejmě neznamená, že nemusí být v pokušení finančnímu úřadu ji upravovat. Jelikož ale tato je křížově ověřitelná proti dopravním službám a dodavatelům, je její “padělání” za účelem hypotetického krácení daně těžko představitelné, pokud se v tomto segmentu dějí podvody, pak v oblasti vratek DPH mezi zahraničními subjekty a největším “podvodem” bude fakt, že šéf eshopu dá svým dětem mobil, který má oficiálně ve vitríně a tudíž z něj neovedl DPH. Proto považuji jakoukoliv evidenci tržeb eshopů vůči finančímu úřadu (FU) za nesmysl a zbytečnou práci, může ale být, že nejsem s principem karuselových podvodů s DPH vůči zahraničním subjektům dostatečně obeznámen (neb v tom oboru nepodnikám).

@@ -1,14 +1,21 @@
 ---
 ID: 3114
-title: 'Nespravedlnost světa nemá smysl vybíjet si na malých a&nbsp;slabých'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/nespravedlnost-sveta-nema-smysl-vybijet-si-na-malych-a-slabych
-published: true
+oldlink: 'https://www.marigold.cz/item/nespravedlnost-sveta-nema-smysl-vybijet-si-na-malych-a-slabych
+
+  '
 post_date: 2016-08-03 08:12:21
+post_excerpt: ''
+published: true
+summary_points:
+- Nespravedlnost světa se nevyřeší útoky na slabé, jen zvyšuje frustraci.
+- Pomoc cizincům vyvolává nesouhlas, ale odpor k nim nic neřeší.
+- Nepřátelství vůči cizím produktům či lidem zhoršuje společnost.
+- Respektování práv druhých je klíčem k lepšímu světu.
+title: Nespravedlnost světa nemá smysl vybíjet si na malých a&nbsp;slabých
 ---
+
 Včerejším <a href="http://www.marigold.cz/item/indove-prestupujici-v-ladvi">příspěvkem o Indech</a> v metru jsem chtěl říct jednu (pro mne dost podstatnou) věc: nespravedlnost světa nemá smysl vybíjet si na malých a slabých. Tím se nespraví nic, jen se zvýší obecná hladina nasranosti. Jo, nebaví mě islámský fanatismus, ale držkovat na osmahnuté chlapíky ztracené v metru, tím se válka s terorismem rozhodně nevyhraje. 
 
 Mám podobné případy z odlišných konců spektra. Před rokem jsem bloudil Letňanama a paní s kočárkem se mě rusky ptala, jak se dostane do nějaké ulice. Kouknul jsem do mobilu do mapy a poradil jí, načež okoloprocházející starší paní na mne houkla, jak jí můžu radit, když jsou to okupanti. Paní asi myslela Ukrajinu a jistě to myslela dobře. 

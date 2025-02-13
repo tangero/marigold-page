@@ -1,15 +1,25 @@
 ---
 ID: 3142
-title: 'O vlivu liberality akademického vzdělávání na ekonomický výnos z&nbsp;nových odvětví na příkladu vzniku standardu GSM'
 author: Patrick Zandl
-post_excerpt: ""
-layout: post
-oldlink: >
-  https://www.marigold.cz/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm
-published: true
 featured: true
+layout: post
+oldlink: 'https://www.marigold.cz/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm
+
+  '
 post_date: 2016-08-31 09:53:08
+post_excerpt: ''
+published: true
+summary_points:
+- Švédsko v 70. letech investovalo do univerzit a propojilo je s průmyslem, což pomohlo
+  Ericssonu.
+- Ericsson díky univerzitním zdrojům vyvinul úspěšný standard GSM v roce 1987.
+- Německo a Francie kvůli nedostatku odborníků neuspěly v konkurenci se Skandinávií.
+- Skandinávské firmy jako Ericsson a Nokia dominovaly mobilnímu trhu díky vzdělávacím
+  reformám.
+title: O vlivu liberality akademického vzdělávání na ekonomický výnos z&nbsp;nových
+  odvětví na příkladu vzniku standardu GSM
 ---
+
 Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro <a href="https://www.nehnuti.cz">Hnutí NE</a> píše o reformě vzdělávacího systému v Česku, přišla mi jedna kapitolka z knihy jako dobrá ukázka toho, PROČ je reforma vzdělání u nás tak důležitá. Abychom si vědomili, že nejde jen o to, že nějaký báby ve školách budou důstojněji žít a občas tam půjde dělat i chlap, ale abychom si uvědomili, že kvalitně fungující vzdělávání rozhoduje o tom, jak budeme žít o deset a více let později my. A že kvalitní školství není věc "politického programu", kterým se mlátí strany po hlavě, ale životní nutnost, která vyžaduje kontinuitu a shodu "napříč politickým spektrem". 
 
 <strong>TLDr; verze článku:</strong> Švédsko v 70. letech investovalo do univerzit a akademického výzkumu, zjednodušilo napojení škol na soukromý sektor. Díky tomu byl Ericsson schopen představit kvalitní návrh pro standard GSM, který byl 1987 přijat a celá skandinávská ekonomika z toho těžila 20 let a těží dosud (přímo přes 150 000 pracovních míst, nepřímo statisíce dalších, miliardy korun). Německo spolu s Francií přes svou velikost nebylo schopné zmobilizovat tolik odborných sil, aby zvládli vytvořit svůj kvalitní návrh, který by vyhovoval podmínkám. Ale Německo se poučilo a reformy také později provedlo, jenže mobilní éru už zdaleka tolik nevytěžilo. Vítěz vzal téměř vše a tím se stal Ericsson, Nokia a další skandinávské firmy.
@@ -41,4 +51,3 @@ Skandinávská orientace univerzit na výzkum a vybudování teoretického i pra
 Samozřejmě nešlo jen o vzdělanostní politiku, šlo o celou souhru “štastných” rozhodnutí zahrnujících postupnou liberalizaci v odvětví a také touhu po mezinárodní spolupráci respektující vědomí vlastní geografické i vlivové omezenosti, které k tomuto výsledku přispěly. 
 
 Z této pozice se postupně poučilo i Německo. Vláda Helmuta Kohla situaci postupně analyzovala a v průběhu devadesátých let výrazně reformovala způsob, jakým univerzity spolupracovaly s polo/státním a soukromým sektorem na výzkumu a vývoji. S ohledem na mnohaleté zprodlení už se nepodařilo zachytit vlnu mobilních telekomunikací a jak Siemens, tak Bosch, AEG a další německé firmy hrály spíše okrajovou roli, přičemž ani po dvaceti letech se situaci nepodařilo výrazně změnit. Na přelomu tisíciletí, až se Německo bude rozhodovat o Energiewende, bude faktor obavy ze zaspání místního průmyslu jedním z podstatných důvodů (spolu s ekonomickými důvody), proč se Německo přikloní k masivním investicím do rozvoje obnovitelných zdrojů.
-

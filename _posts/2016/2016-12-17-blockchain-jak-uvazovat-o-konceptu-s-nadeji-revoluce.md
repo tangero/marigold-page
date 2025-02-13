@@ -1,14 +1,28 @@
 ---
 ID: 3428
-title: 'Blockchain: jak uvažovat o&nbsp;konceptu s&nbsp;nadějí revoluce'
 author: Patrick Zandl
-post_excerpt: "Tohle je pouze úvaha, nikoliv článek nebo analýza. Kolem Bitcoinu a blockchainu je tak husto, že projít skrze nánosy hype i nedůvěry není snadné a některé úvahy snadno zapadnou ve výkřicích *kacíř* případně *debil*. O blockchainu slýchám v poslední době hodně a nikdy mi nebylo zase tak moc jasné, proč se s ním pojí tolik nadějí. Odpusťte mi tedy toto veřejné třídění myšlenek, o kterých nejsem schopen prohlásit tradiční české ajťácké *teď vám povím, jak to je, vy debilové sedněte na prdel a poslouchejte*."
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/blockchain-jak-uvazovat-o-konceptu-s-nadeji-revoluce
-published: true
+oldlink: 'https://www.marigold.cz/item/blockchain-jak-uvazovat-o-konceptu-s-nadeji-revoluce
+
+  '
 post_date: 2016-12-17 08:32:02
+post_excerpt: Tohle je pouze úvaha, nikoliv článek nebo analýza. Kolem Bitcoinu a
+  blockchainu je tak husto, že projít skrze nánosy hype i nedůvěry není snadné a některé
+  úvahy snadno zapadnou ve výkřicích *kacíř* případně *debil*. O blockchainu slýchám
+  v poslední době hodně a nikdy mi nebylo zase tak moc jasné, proč se s ním pojí tolik
+  nadějí. Odpusťte mi tedy toto veřejné třídění myšlenek, o kterých nejsem schopen
+  prohlásit tradiční české ajťácké *teď vám povím, jak to je, vy debilové sedněte
+  na prdel a poslouchejte*.
+published: true
+summary_points:
+- Blockchain je veřejná databáze transakcí s decentralizovanou a neměnnou strukturou.
+- Blockchain umožňuje chytré smlouvy, které automatizují podmíněné transakce.
+- Transakce v blockchainu jsou pseudonymní, ale mohou být propojeny s reálnou identitou.
+- Blockchain má potenciál revolučně změnit finance, energetiku a správu digitální
+  identity.
+title: 'Blockchain: jak uvažovat o&nbsp;konceptu s&nbsp;nadějí revoluce'
 ---
+
 Tohle je pouze úvaha, nikoliv článek nebo analýza. Kolem Bitcoinu a blockchainu je tak husto, že projít skrze nánosy hype i nedůvěry není snadné a některé úvahy snadno zapadnou ve výkřicích "kacíř" případně "debil". O blockchainu slýchám v poslední době hodně a nikdy mi nebylo zase tak moc jasné, proč se s ním pojí tolik nadějí. Odpusťte mi tedy toto veřejné třídění myšlenek, o kterých nejsem schopen prohlásit tradiční české ajťácké "teď vám povím, jak to je, vy debilové sedněte na prdel a poslouchejte".
 
 <!--more-->

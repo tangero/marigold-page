@@ -1,14 +1,21 @@
 ---
 ID: 3000
-title: 'Pár poznámek k&nbsp;T-Mobile a&nbsp;SigFox'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/par-poznamek-k-t-mobile-a-sigfox
-published: true
+oldlink: 'https://www.marigold.cz/item/par-poznamek-k-t-mobile-a-sigfox
+
+  '
 post_date: 2015-05-22 06:19:06
+post_excerpt: ''
+published: true
+summary_points:
+- T-Mobile a ČRa spouští sítě pro Internet věcí na technologiích SigFox a LoRa.
+- Obě technologie využívají bezlicenční ISM pásmo 868 MHz s nízkou spotřebou energie.
+- SigFox a LoRa přenášejí malé objemy dat, ideální pro stavovou komunikaci mezi stroji.
+- Operátoři vstupují do M2M trhu kvůli nízké bariéře vstupu a vysokému počtu uživatelů.
+title: Pár poznámek k&nbsp;T-Mobile a&nbsp;SigFox
 ---
+
 <p>Včera ohlásil T-Mobile, že spouští síť pro Internet věcí na technologii SigFox, záhy se ozvaly ČRa, že spouští to samé od LoRa. Tak pár poznámek od mě, neználka se zkoušečkou.</p>
 
 

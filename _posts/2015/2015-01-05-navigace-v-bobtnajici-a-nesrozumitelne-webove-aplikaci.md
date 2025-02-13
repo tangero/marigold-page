@@ -1,14 +1,21 @@
 ---
 ID: 2971
-title: 'Navigace v&nbsp;bobtnající a&nbsp;nesrozumitelné webové aplikaci'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/navigace-v-bobtnajici-a-nesrozumitelne-webove-aplikaci
-published: true
+oldlink: 'https://www.marigold.cz/item/navigace-v-bobtnajici-a-nesrozumitelne-webove-aplikaci
+
+  '
 post_date: 2015-01-05 07:30:59
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor řeší zjednodušení složitých energetických dat pro zákazníky.
+- Většina zákazníků chce šetřit peníze, ne rozumět energetickým pojmům.
+- Segmentace zákazníků do šesti skupin podle motivací zlepšuje personalizaci informací.
+- Používá se služba Intercom.io pro interaktivní reakce na chování uživatelů.
+title: Navigace v&nbsp;bobtnající a&nbsp;nesrozumitelné webové aplikaci
 ---
+
 <p>Nakousl jsem to na Twitteru, ale nebyl jsem mocen to ve 140 znacích vysvětlit. Jeden z hlavních UX problémů, které řešíme v <a href="http://www.energomonitor.cz">Energomonitoru</a>, je způsob zpřístupnění relativně složitých dat zákazníkům, kteří o ně vlastně ani nemají zájem. Většina zákazníků, pokud něco, chce šetřit peníze. Rozumí tedy pojmům koruna/euro, ale ne energetickým pojmům, jako je spotřeba, příkon, spalné teplo či tepelná setrvačnost atd. Někdy lze energetickou veličinu převést jednoduše na koruny, jindy ne. V řadě případů je vhodné rozumět tomu, jak původní energetická veličina funguje, protože to umožní efektivně šetřit. Například už jen takovou spotřebu nelze snadno převést na koruny. Kromě toho, že musíte znát cenu, používá řada lidí dělený tarif, kdy v určitých časových pásmech se aplikuje nižší cena. Musíte tedy vědět i to, kdy ke spotřebě došlo. A má-li zákazník efektivně šetřit, měl by vědět, jak spotřebu přesouvat do levnějšího pásma, což hodně závisí na typu spotřebičů.</p>
 
 

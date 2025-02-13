@@ -1,14 +1,21 @@
 ---
 ID: 3160
-title: 'Apple, lightning a&nbsp;sluchátka'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/apple-lightning-a-sluchatka
-published: true
+oldlink: 'https://www.marigold.cz/item/apple-lightning-a-sluchatka
+
+  '
 post_date: 2016-09-08 12:19:41
+post_excerpt: ''
+published: true
+summary_points:
+- Apple odstranil analogový konektor pro sluchátka u iPhone 7.
+- Vodotěsnost a úspora místa jsou hlavní důvody odstranění jacku.
+- Lightning sluchátka jsou proprietární a nekompatibilní s jinými zařízeními.
+- Bezdrátová sluchátka mají omezenou výdrž a vyžadují časté dobíjení.
+title: Apple, lightning a&nbsp;sluchátka
 ---
+
 <p>Včerejský keynote Apple potvrdila dlouho předpokládané. Firma u iPhone 7 odstraní analogový konektor pro připojení sluchátek a napříště bude možné používat sluchátka jen přes Lightning konektor a nebo bezdrátově připojená přes bluetooth.</p>
 
 

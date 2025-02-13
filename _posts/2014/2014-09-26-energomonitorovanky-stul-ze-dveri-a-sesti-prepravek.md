@@ -1,14 +1,24 @@
 ---
 ID: 2952
-title: 'Energomonitorovánky: stůl ze dveří a&nbsp;šesti přepravek plus další novinky'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/energomonitorovanky-stul-ze-dveri-a-sesti-prepravek
-published: true
+oldlink: 'https://www.marigold.cz/item/energomonitorovanky-stul-ze-dveri-a-sesti-prepravek
+
+  '
 post_date: 2014-09-26 13:56:24
+post_excerpt: ''
+published: true
+summary_points:
+- Energomonitor se přestěhoval do vily bývalého majitele skláren Salomona Reicha ve
+  Valašském Meziříčí.
+- Firma využívá nábytek z bývalého Českého Telecomu, který sloužil i pro rozjezd Stream.cz.
+- Energomonitor řeší software, hardware a výrobu, přičemž detaily spotřebují nejvíce
+  pracovních kapacit.
+- Firma se účastní European Utility Week v Amsterodamu, kde představí svou expozici
+  energetické veřejnosti.
+title: 'Energomonitorovánky: stůl ze dveří a&nbsp;šesti přepravek plus další novinky'
 ---
+
 <p>Energomonitor jsme ve Valašském Meziříčí přestěhovali. Z náměstí do vily bývalého majitele skláren Salomona Reicha. Jen tak mimochodem, ve Valmezu se dá ubytovat v Reichově vile, jenže to není ta opravdová, kde bydlel, jen ji myslím vlastnil - v té, kde bydlel, sídlí teď Energomonitor.</p>
 
 

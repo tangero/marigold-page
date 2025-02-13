@@ -1,17 +1,23 @@
 ---
 ID: 2984
-title: >
-  Václav Klaus nám přinesl více, než
-  jen supermarkety (původně recenze
-  knihy)
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/vaclav-klaus-nam-prinesl-vice-nez-jen-supermarkety-puvodne-recenze-knihy
-published: true
+oldlink: 'https://www.marigold.cz/item/vaclav-klaus-nam-prinesl-vice-nez-jen-supermarkety-puvodne-recenze-knihy
+
+  '
 post_date: 2015-04-13 07:59:09
+post_excerpt: ''
+published: true
+summary_points:
+- Kniha Václava Klause kritizuje přeregulaci Česka a viní za ni EU.
+- Klaus obhajuje privatizaci jako úspěšnou, ignoruje její negativní dopady.
+- Klausismus odstranil dialog z politiky, vedl k politickému marasmu.
+- Klausova ekonomická vize ignorovala morálku a společenské dopady.
+title: 'Václav Klaus nám přinesl více, než jen supermarkety (původně recenze knihy)
+
+  '
 ---
+
 <p>Knihu Václava Klause “Chtěli jsme víc, než supermarkety”, je těžké číst bez toho, abyste ji vnímali jako sebeobhajobu polistopadového politika a předlistopadového ekonoma. Proto krátkou recenzi zahájím osobním vyznáním. Plakát Václava Klause jsem měl nad postelí od listopadové revoluce až do druhé poloviny devadesátých let. Patřil jsem k mladým vyznavačům klausovské verze pravicové politiky. A právě Supermarketová kniha mi připomněla se vší naléhavostí, proč od druhé poloviny devadesátých let Klause považuji za přítěž, za škodlivou váhu tuzemské politické scény.</p>
 
 

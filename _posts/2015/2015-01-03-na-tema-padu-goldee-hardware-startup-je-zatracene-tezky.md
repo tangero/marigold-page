@@ -1,16 +1,23 @@
 ---
 ID: 2968
-title: 'Na téma pádu Goldee: hardware startup je zatraceně těžký'
 author: Patrick Zandl
-post_excerpt: ""
-layout: post
-oldlink: >
-  https://www.marigold.cz/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky
-published: true
 featured: true
-thumbnail: https://miro.medium.com/v2/resize:fit:1200/1*RysvyfiJbAzyqb362Rt2rA.png
+layout: post
+oldlink: 'https://www.marigold.cz/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky
+
+  '
 post_date: 2015-01-03 22:55:30
+post_excerpt: ''
+published: true
+summary_points:
+- Goldee skončilo kvůli selhání v přípravě gateway do výrobní série.
+- Hardwarové startupy jsou náročné na technické a procesní zajištění.
+- Počáteční tým musí být připraven na rychlý růst a škálování.
+- Vývoj hardware vyžaduje specifické zkušenosti a znalosti.
+thumbnail: https://miro.medium.com/v2/resize:fit:1200/1*RysvyfiJbAzyqb362Rt2rA.png
+title: 'Na téma pádu Goldee: hardware startup je zatraceně těžký'
 ---
+
 <p>Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.</p>
 
 <p>Proč skutečně Goldee skončilo, netuším. Zda hlavní hybatel projektu <a href="http://www.startupers.sk/velka-hanba-a-smutny-koniec-globalnej-startupovej-nadeje-zo-slovenska/">odrbal investory cíleně</a> nebo to <a href="http://www.lupa.cz/clanky/slovenska-startupova-nadeje-goldee-konci-chytremu-svetlu-dosly-penize/">jen upřímně nezvládli</a> či cokoliv mezi tím, fakt nevím. Nemám žádné zákulisní informace. V Energomonitoru jsme Goldee zachytili, jenže jejich téma se nás moc netýkalo a ani jsme tomu moc nevěřili. Ovládat chytrá světla je z hlediska úspor energií neatraktivní, pro nás to spadá do kategorie gadgetů, hračiček, které nejsou k ničemu jinému, než pro radost a to je jiný styl obchodu. Takže do toho nejdeme. Říkali jsme si, že se časem pravděpodobně seznámíme, když to oba vydýcháme dost dlouho, protože nepochybně budou řešit věci, které řešíme i my. Ale k tomu už nedošlo.</p>

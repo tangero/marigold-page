@@ -1,14 +1,21 @@
 ---
 ID: 3126
-title: 'Kniha o&nbsp;mobilních sítích a&nbsp;4G je v&nbsp;přípravě'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/kniha-o-mobilnich-sitich-a-4g-je-v-priprave
-published: true
+oldlink: 'https://www.marigold.cz/item/kniha-o-mobilnich-sitich-a-4g-je-v-priprave
+
+  '
 post_date: 2016-08-13 13:36:02
+post_excerpt: ''
+published: true
+summary_points:
+- Autor se vrátil k psaní knihy o mobilních sítích po ztrátě váhy pod 87 kg.
+- Kniha byla příliš technická a autor ji zkrátil o polovinu kvůli zastaralým informacím.
+- Autor upravuje texty o telekomunikacích a kritizuje nedostatky ve zdrojích informací.
+- Připravuje knihu pro běžné čtenáře s historickými traktáty o technologiích a rozhodnutích.
+title: Kniha o&nbsp;mobilních sítích a&nbsp;4G je v&nbsp;přípravě
 ---
+
 Váha klesla pod 87 kilogramů a s tím souvisí socialistický závazek: vrátit se k přerušenému psaní. Taková malá sebemotivace. Oprášil jsem druhý díl Flotily, který jsem před rokem uložil k ledu, trochu poopravil, ale především vytáhl knihu o mobilních sítích. Ta má pohnutou historii. Začal jsem ji psát (včera jsem se díval) v roce 2004. Pak jsem zlanařil Kamojedova, což bylo poučné, neboť jsme se párkrát zhádali jak koně. Jak jsem teď kompletoval ty texty, procházel jsem ty vzkazy jako “opovrhuješ technologií, která bude esenciální”, na což mi zpět přišlo “je zřejmé, že směr je přesně v protisměru tady”. Moc hezké výměny. Obě námi obhajované esenciální technologie byly v Release 8 potichu vypuštěny a nikdy se nepoužívaly. Jak příznačné pro spory mezi techniky.
 
 Příznačné také je, že tehdy jsem knihu dodělal do tří čtvrtin a dost možná bych z ní dneska už neměl takovou radost. Za prvé UMTS v roce 2004 bylo o dost jiné, než v jaké podobě se skutečné 3G/UMTS sítě prosadily a jak je známe dnes. Za druhé (a to především) byla kniha zoufale technická. Jedna kapitola za druhou docela nudně a technicistně popisuje, z čeho se skládají bursty či dost nesrozumitelně (=technicky) popisuje modulaci. Jasně, formálně je to správně, ale k učtení to je jen pro velkého technofandu. Vlastně jsem ji nedopsal proto, že jsem se chystal na kapitolu o protokolech používaných v rámci UMTS sítí a to bylo nesmírně nudné i na mne, takže jsem se k tomu odhodlával tak dlouho, až to úplně zapadlo. 

@@ -1,14 +1,21 @@
 ---
 ID: 3353
-title: 'Spadnout do exekucí je jednoduché a&nbsp;promítá se to do celé společnosti'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/spadnout-do-exekuci-je-jednoduche-a-promita-se-to-do-cele-spolecnosti
-published: true
+oldlink: 'https://www.marigold.cz/item/spadnout-do-exekuci-je-jednoduche-a-promita-se-to-do-cele-spolecnosti
+
+  '
 post_date: 2016-11-25 13:29:17
+post_excerpt: ''
+published: true
+summary_points:
+- Sociální sítě diskutují o chudobě a exekucích v Česku.
+- Exekuce v Česku jsou snadno dosažitelné i pro zodpovědné lidi.
+- Banka Raiffeisenbank nekomunikovala, což vedlo k exekuci přes vymáhací agenturu.
+- Exekuce se staly lukrativním byznysem s neetickými praktikami.
+title: Spadnout do exekucí je jednoduché a&nbsp;promítá se to do celé společnosti
 ---
+
 Dnešní téma sociálních sítí je chudoba a exekuce. A silácké řeči, jak do problémů přijdou jen nemakačenkové a lidé hloupí, kteréžto nikoho ostatně nepotřebujeme. 
 
 Zajímavostí české verze exekucí je pro mne to, jak snadno do nich spadnete. Nepatřím mezi úplné sociální případy a ačkoliv mi na tomto světě patří jen naděje na spásu, neřekl bych, že někdy do exekuce spadnu. Stalo se, dvakrát. První případ probírat nebudu, ten je zajímavý právně a vztahově, ale ten druhý, to je takový dobrý příklad toho, jak to funguje, byť byl na moji firmu, ne přímo na mne.<!--more-->

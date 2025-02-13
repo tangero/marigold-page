@@ -1,17 +1,25 @@
 ---
 ID: 3031
-title: >
-  Jak jsme proškolili bananářskou hvězdu
 author: Patrick Zandl
-post_excerpt: ""
-layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-jsme-proskolili-bananarskou-hvezdu
-published: true
 featured: true
-thumbnail: https://i.ytimg.com/vi/jjlOkOemN5k/maxresdefault.jpg
+layout: post
+oldlink: 'https://www.marigold.cz/item/jak-jsme-proskolili-bananarskou-hvezdu
+
+  '
 post_date: 2016-02-18 10:17:03
+post_excerpt: ''
+published: true
+summary_points:
+- Banány se dovážejí hlavně v odrůdě Cavendish kvůli snadné přepravě a dozrávání.
+- Pět velkých firem ovládá globální obchod s banány, největší je Chiquita.
+- Licenční systém v EU uměle reguloval dovoz banánů, ovlivňoval ceny a značky.
+- Prodej banánů ve velkém zahrnuje složité strategie, ceny a logistiku.
+thumbnail: https://i.ytimg.com/vi/jjlOkOemN5k/maxresdefault.jpg
+title: 'Jak jsme proškolili bananářskou hvězdu
+
+  '
 ---
+
 Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
 Tohle je další prastarý příběh, na který jsem si vzpomněl v týdnu při nákupu banánů. Bylo to tehdy, když jsem nastoupil jako asistent do největší české firmy dovážející ovoce a zeleninu a omylem jsem se stal ředitelem pro Čechy. Takže už více jak dvacet let. Berte tedy aktuálnost informací s jistou časovou rezervou. 
 <!--more-->

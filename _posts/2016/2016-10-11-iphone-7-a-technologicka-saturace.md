@@ -1,14 +1,21 @@
 ---
 ID: 3223
-title: 'iPhone&nbsp;7 a&nbsp;technologická saturace'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/iphone-7-a-technologicka-saturace
-published: true
+oldlink: 'https://www.marigold.cz/item/iphone-7-a-technologicka-saturace
+
+  '
 post_date: 2016-10-11 06:33:51
+post_excerpt: ''
+published: true
+summary_points:
+- iPhone 5s stále splňuje základní potřeby bez zbytečného tlaku na sdílení.
+- Nové iPhony zvyšují produktivitu, ale také neustálou dostupnost a stres.
+- Sdílení zážitků se stalo nutností, což omezuje osobní prožitek.
+- Oprava starého iPhonu je volbou proti společenskému tlaku na neustálou modernizaci.
+title: iPhone&nbsp;7 a&nbsp;technologická saturace
 ---
+
 Mám iPhone 5s a na jazyku otázku, proč bych měl přejít na sedmičku, telefon o tři generace novější. Dobrá odpověď mi chybí, ale tohle není příběh obyčejného Apple hejtu. To je příběh generace. 
 
 iPhone byl před deseti lety zjevením. Materializací snu. Snu o tom, že kdykoliv bude potřeba, budu moct vyřídit pracovní věc bez ohledu na to, že zrovna nejsem v práci. Že dostanu zprávu o emailu a budu moct vyhodnotit, zda je důležité na něj reagovat. Tenhle sen jsme s Petrem Mitošinkou začali snít někdy v roce 1996, když jsme spustili první tuzemskou službu, která uměla vzít váš email a poslat jej jako SMS zprávu. Jenže s iPhone to bylo ještě pohodlnější, ještě efektivnější, jedním slovem parádní. 

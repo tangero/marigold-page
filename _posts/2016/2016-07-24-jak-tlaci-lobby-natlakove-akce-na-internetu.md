@@ -1,16 +1,23 @@
 ---
 ID: 3092
-title: >
-  Jak tlačí lobby nátlakové akce na
-  internetu?
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jak-tlaci-lobby-natlakove-akce-na-internetu
-published: true
+oldlink: 'https://www.marigold.cz/item/jak-tlaci-lobby-natlakove-akce-na-internetu
+
+  '
 post_date: 2016-07-24 06:46:18
+post_excerpt: ''
+published: true
+summary_points:
+- Lobby využívá online prostředí pro levné a rychlé nátlakové akce.
+- 'Nátlakové akce mají jasné kroky: nastolení tématu, agenda, zpracování oponentů.'
+- Negativní nosné vlny se šíří snadněji než pozitivní.
+- Oponenti jsou izolováni, znevěrohodňováni a marginalizováni.
+title: 'Jak tlačí lobby nátlakové akce na internetu?
+
+  '
 ---
+
 <p>V poslední době se na internetu množí nejrůznějšími nátlakovými akcemi nejrůznějších lobby. Protože jsem v poslední době pár takových vyhrožovaček a nátlakovek evidoval (od proruských, přes zbrojní až po telekomunikační lobby), sledoval a zažil, pokusil jsem se sumarizovat, jak takové nátlakovky a prosazovačky pohledu na téma vypadají. Zajímavé je, že schéma se používá stejné, liší se jen “kultura” užitých prostředků - jak výrazových, tak argumentačních.</p>
 
 

@@ -1,14 +1,22 @@
 ---
 ID: 3011
-title: 'Za tajemstvím chytrých hodinek: silnou stránkou je komunikace'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/za-tajemstvim-chytrych-hodinek-silnou-strankou-je-komunikace
-published: true
+oldlink: 'https://www.marigold.cz/item/za-tajemstvim-chytrych-hodinek-silnou-strankou-je-komunikace
+
+  '
 post_date: 2015-08-31 10:04:43
+post_excerpt: ''
+published: true
+summary_points:
+- Chytré hodinky jsou užitečné pro rychlé notifikace bez nutnosti vytahovat mobil.
+- Fitbit Charge HR má problémy s přesností měření kroků a nepohodlným utahováním.
+- Apple Watch nabízí komplexní aplikace, ale jejich využití závisí na individuálních
+  potřebách.
+- Pebble Time je cenově dostupnější s dlouhou výdrží, ale má slabší displej.
+title: 'Za tajemstvím chytrých hodinek: silnou stránkou je komunikace'
 ---
+
 <p>Ještě vás nezasáhla vlna chytrých hodinek? K čemu taky. Proč byste v době zvětšujících se displejů mobilů měli řešit hodinkové pididispleje a proč byste se měli o Apple Watch a jiné chytrohodinky vůbec zajímat, říkáte si. Jenže pro intenzivně komunikujícího uživatele jsou chytré hodinky skvělé rozšíření komunikace. Pokusím se sepsat, proč tomu tak je.</p>
 
 

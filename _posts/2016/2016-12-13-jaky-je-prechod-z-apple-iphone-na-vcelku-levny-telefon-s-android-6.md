@@ -1,14 +1,22 @@
 ---
 ID: 3413
-title: 'Jaký je přechod z&nbsp;Apple iPhone na vcelku levný telefon s&nbsp;Android 6'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/jaky-je-prechod-z-apple-iphone-na-vcelku-levny-telefon-s-android-6
-published: true
+oldlink: 'https://www.marigold.cz/item/jaky-je-prechod-z-apple-iphone-na-vcelku-levny-telefon-s-android-6
+
+  '
 post_date: 2016-12-13 10:47:58
+post_excerpt: ''
+published: true
+summary_points:
+- iOS nabízí lepší uživatelský zážitek než Android navzdory slabšímu hardwaru.
+- Přenos dat mezi iOS a Android je komplikovaný a časově náročný.
+- Huawei P9 Lite má dobrý poměr cena/výkon, ale fotoaparát selhává ve tmavých scénách.
+- Aktualizace systému na Androidu závisí na distributorech a je nepředvídatelná.
+title: Jaký je přechod z&nbsp;Apple iPhone na vcelku levný telefon s&nbsp;Android
+  6
 ---
+
 <p>Jednou za čas se pokusím o přechod z iOS na něco jiného. Je to součást určité systémové hygieny. Chci mít přehled a přehled neznamená, že zařízení máte v ruce na pár hodin, jeho součástí je, že systém dlouhou dobu používáte jako svůj hlavní. Tak, abyste se zbavili původních návyků a přijali za své novou filosofii. Zatím vždycky to dopadlo neslavně, protože Android 5 je opravdu výrazně uživatelsky horší systém, než iOS té doby. <br />Úvaha uživatelů je vždycky stejná. Proč si kupovat iPhone za deset až třicet tisíc, když srovnatelně vybavený telefon s Androidem stojí polovinu a možná méně. Fanatický příznivec Androidu s chutí porovnává nejnadupanější iPhone 7 Plus a jeho cenovku s něčím podobně velkým třeba od Xiaomi, kde rozdíl dvacet tisíc samozřejmě vzbudí jistý údiv. </p>
 
 
@@ -45,4 +53,3 @@ post_date: 2016-12-13 10:47:58
 <p>Mimochodem, v akci Amazonu jsem koupil i sedmipalcový tablet za 40 dolarů. Je na něm vidět, že to není žádné rychlostní dělo, ale na čtení PDF v posteli a takové to matlání prstem po displeji to použitelné je. S výhradou skutečnosti, že Fire OS je sice částečně Android, ale na nějaké větší instalace androidích aplikací tam bez značného úsilí zapomeňte. I tady je ale kvalitativní přibližování Androidu a iOS vidět, v Amazoním ekosystému mě ale učarovala Alexa a služba Echo, reproduktor, který dokonce rozumí mojí angličtině a angličtině dětí, které si s Alexou rády povídají. Škoda zbytečných omezení typu "nelze nastavit domovskou lokaci mimo oblast prodeje" - takže u počasí musíte pořád dodávat, že ho chcete v Praze, Česká republika, protože jinak vám najde Prahu v USA. Hlasové rozpoznávání má Amazon výrazně lepší, než Google a Apple zde hodně zaspal. </p>
 
 <p>Závěrem: je dobré si uvědomit, že když se člověk ve světě Androidu podívá po telefonech, které kvalitativně odpovídají iPhone, není to už taková sláva. Papírově lepší hardware sráží menší optimalizace a rozežranost Androidu, takže nakonec podobně užitný Android je naceněný velmi podobně, rozdíly jsou v řádu jednoho, dvou tisíc. Můžete dostat něco navíc, po čem určitě prahnete (NFC, bezdrátové nabíjení, zakřivený displej), dostanete svobodu si telefon zprasit jak chcete, ale pokud chcete svobodu pracovat bez toho, abyste opečovávali svůj mobil jak mimino, to vám Android nedá. A je to jeho filosofická odlišnost, vlastnost. <br />  </p>
-

@@ -1,16 +1,23 @@
 ---
 ID: 3048
-title: >
-  Blokování reklamy telekomunikačními
-  operátory je jízda na mrtvém koni
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/blokovani-reklamy-telekomunikacnimi-operatory-je-jizda-na-mrtvem-koni
-published: true
+oldlink: 'https://www.marigold.cz/item/blokovani-reklamy-telekomunikacnimi-operatory-je-jizda-na-mrtvem-koni
+
+  '
 post_date: 2016-03-02 09:10:46
+post_excerpt: ''
+published: true
+summary_points:
+- O2 plánuje blokovat reklamy v mobilní a fixní síti.
+- Blokování reklam cílí na příjmy reklamních a mediálních agentur.
+- Uživatelé by mohli platit za přístup k obsahu bez reklam.
+- Blokování reklam vyvolává právní, ekonomické a technologické problémy.
+title: 'Blokování reklamy telekomunikačními operátory je jízda na mrtvém koni
+
+  '
 ---
+
 <p>Má to být nové zpříjemnění internetu pro uživatele O2 a zároveň další příjem pro poskytovatele českého obsahu. Tak by se dal shrnout oficiální výstup z plánu tuzemského O2 nabídnout blokování reklamy v jeho mobilní a fixní síti. </p>
 
 

@@ -1,14 +1,22 @@
 ---
 ID: 2770
-title: 'Malá rozprava o&nbsp;podstatě a&nbsp;historii svobody'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/mala-rozprava-o-podstate-a-historii-svobody
-published: true
+oldlink: 'https://www.marigold.cz/item/mala-rozprava-o-podstate-a-historii-svobody
+
+  '
 post_date: 2014-01-20 17:00:39
+post_excerpt: ''
+published: true
+summary_points:
+- Svoboda byla po většinu lidské existence strašákem a vyhnanství bylo nejtvrdším
+  trestem.
+- Absolutní svoboda byla v pravěku vzácná a vyhnanec byl bez ochrany a práv.
+- Svoboda se vyvíjela od středověku až po Francouzskou revoluci, kdy se stala ulehčením.
+- Důležitá je trvalá diskuse o hranicích svobody a neustálé hledání rovnováhy ve společnosti.
+title: Malá rozprava o&nbsp;podstatě a&nbsp;historii svobody
 ---
+
 <p>Zase jsem se nedávno na Twitteru nechal zatáhnout do tématu utopií předkládaných Svobodnými. A protože tohle se tématu vtažení týká, poznamenám si to.</p>
 
 <p>Jedním z největších strašáků lidstva po naprostou většinu jeho existence, kam až máme zdokumentováno nebo kam až můžeme z pravěkých nálezů soudit, byla svoboda. Samozřejmě ne všechny části svobody, ale většinou a pro nás těžko představitelně její aspekty, které dnes považujema za samozřejmé a ani by nám nenapadlo je mezi svobodu řadit. Jistěže pravěký člověk měl naprostou svobodu vypálit les ze vzácných dřevin nebo mohl nahlas volat Heil Hitler, jenže obojí dělal (pokud vůbec) nanejvýš opatrně. Zpravidla to obnášelo běh, tu před nekontrolovaným požárem, tu před vlčí smečkou, která konečně zaslechla kořist. Pokud nějakou svobodu nechtěl, pak to bylo svoboda jít kamkoliv jinam mimo hranici jeho přátelské jeskyně, hradiště, města. </p>

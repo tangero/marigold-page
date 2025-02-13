@@ -1,15 +1,27 @@
 ---
 ID: 3356
-title: 'Varianty LTE LPWA jako konkurent Sigfoxu v&nbsp;IoT v&nbsp;podobě nízkoodběrových bezdrátových sítí'
 author: Patrick Zandl
-post_excerpt: ""
+categories:
+- LTE
+- IoT
+- Mobilní sítě
+- 4G
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti
-published: true
+oldlink: 'https://www.marigold.cz/item/varianty-lte-lpwa-jako-konkurent-sigfoxu-v-iot-v-podobe-nizkoodberovych-bezdratovych-siti
+
+  '
 post_date: 2016-11-28 19:57:50
-categories: [LTE, IoT, Mobilní sítě, 4G]
+post_excerpt: ''
+published: true
+summary_points:
+- Sigfox dominuje v Česku díky podpoře T-Mobile a charismatickým lidem.
+- České Radiokomunikace provozují síť LoRa, O2 se zaměřuje na LTE Category 0.
+- LTE pro IoT nabízí různé frekvence a modulace, přizpůsobené specifickým potřebám.
+- Sigfox a LoRa jsou jednodušší, LTE je komplexní, ale s potenciálem pro masivní IoT.
+title: Varianty LTE LPWA jako konkurent Sigfoxu v&nbsp;IoT v&nbsp;podobě nízkoodběrových
+  bezdrátových sítí
 ---
+
 <p>V Česku se prosazuje hlavně Sigfox coby síť pro přenosy stavových informací Internetu věcí, protože tu má charismatické a tlačící lidi s T-Mobile v zády, ale ve světě není situace zdaleka tak jednoznačná. Sigfox patří mezi jednu z vůdčích firem, jenže ostatní brousí jako ohaři. I u nás mají České Radiokomunikace síť LoRa a jistá váhavost O2 má své důvody. Tím prvním je skutečnost, že firma má zrovna fofr obhájit před majitelem obchodní výsledky a nemůže se pouštět do větších samostatných akcí, vytěžuje ji akvizice pro O2TV a nové lukrativní naleziště s názvem Smart Cities. Ale docela takhle to není, protože O2 vidí budoucnost v LTE “Nule” - tedy v zařízeních Category 0 v Release 12 a dalších návazných technologiích. Abychom se zorientovali, podívejme se, kam kráčí LTE v oblasti <strong>LPWA, Low Power Wide Area</strong>, jak se tyhle technologie souhrnně nazývají. </p>
 
 
@@ -62,5 +74,3 @@ categories: [LTE, IoT, Mobilní sítě, 4G]
 <li><a href="http://www.3gpp.org/images/presentations/3GPP_Standards_for_IoT.pdf">3GPP presentace stávajících 3GPP technologií pro IOT</a></li>
 <li><a href="https://arxiv.org/pdf/1606.04171.pdf">A Primer on 3GPP Narrowband Internet of Things (NB-IoT)</a></li>
 </ul>
-
-

@@ -1,14 +1,21 @@
 ---
 ID: 3408
-title: 'Námět na nedělní přemýšlení: Společnost Blackboxu'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/namet-na-nedelni-premysleni-spolecnost-blackboxu
-published: true
+oldlink: 'https://www.marigold.cz/item/namet-na-nedelni-premysleni-spolecnost-blackboxu
+
+  '
 post_date: 2016-12-11 09:40:49
+post_excerpt: ''
+published: true
+summary_points:
+- Blockchain je považován za inspirativní a průhlednou technologii.
+- Frank Pasquale popisuje společnost ovládanou utajenými algoritmy.
+- Algoritmy ovlivňují životy, ale jejich fungování je často neprůhledné.
+- Společnost se dělí na tábory kvůli nedůvěře v technologické systémy.
+title: 'Námět na nedělní přemýšlení: Společnost Blackboxu'
 ---
+
 <p><span id="docs-internal-guid-8bd44c7b-ed04-eb40-a1a8-3999982c611e"><span style="font-size: 14.666666666666666px; font-family: Arial; background-color: transparent; font-variant-ligatures: normal; font-variant-position: normal; font-variant-numeric: normal; font-variant-alternates: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">V poslední době je zřejmě nejinspirativnější soustava myšlenek kolem konceptu blockchainu. K němu někdy jindy, tohle je jen námět na malé nedělní přemýšlení. Začínáme být společností blackboxu. Co to je a o co jde?</span></span></p>
 
 

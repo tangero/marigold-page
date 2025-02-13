@@ -1,15 +1,23 @@
 ---
 ID: 3184
-title: 'Státní postnárodnostní celky v&nbsp;době digitální etnicity'
 author: Patrick Zandl
-post_excerpt: "Datektivové jsou ti, kdo hledají pravdu v datech, o níž jiní doufají, že bude na věky skryta a překryta obrovským množstvím dat... Povídka k zamyšlení. "
-layout: post
 featured: true
-oldlink: >
-  https://www.marigold.cz/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity
-published: true
+layout: post
+oldlink: 'https://www.marigold.cz/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity
+
+  '
 post_date: 2016-09-25 16:22:36
+post_excerpt: 'Datektivové jsou ti, kdo hledají pravdu v datech, o níž jiní doufají,
+  že bude na věky skryta a překryta obrovským množstvím dat... Povídka k zamyšlení. '
+published: true
+summary_points:
+- Virtuální realita viru dominuje světu, offlajn je opomíjen.
+- Michal Hollan pracuje jako datektiv, analyzuje data z viru i offlajnu.
+- Jack McLou představuje plán na využití lidské kreativity jako nové měny.
+- Hollan přijímá roli viceprezidenta, symbolizuje přechod lidstva do virtuálního světa.
+title: Státní postnárodnostní celky v&nbsp;době digitální etnicity
 ---
+
 <em>Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. </em>
 
 Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce virtuální reality jeho kancelář vypadala zoufale. Malá kancelář v kdovíkolikátém patře mrakodrapu, jenž měl svá nejhonosnější léta za sebou, pokud je kdy měl před sebou. Výhled z okna na Central Park byl svěží jen v projekci viru, ve skutečnosti, offlajnu, tom nepříjemném a zmatečném světě, výhledu bránilo několik bloků stejně nevzhledných domů před oknem. A špína na okně. Asi proto měl offlajn málokdo rád. Vlastně si ani nemohl vzpomenout na to patro. Výtah jej vždycky poznal a automaticky vyvezl tam, kde měl kancelář. Na začátku patra byla určitě trojka. Nebo na konci. Je to jedno. Nikdy to nepotřeboval vědět, určitě by to našel ve smlouvě. 

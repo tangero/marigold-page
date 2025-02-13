@@ -1,16 +1,23 @@
 ---
 ID: 3055
-title: Zamrzlá evoluce ve světě techniky
 author: Patrick Zandl
-post_excerpt: ""
-layout: post
-oldlink: >
-  https://www.marigold.cz/item/zamrzla-evoluce-ve-svete-techniky
-published: true
-post_date: 2016-04-22 11:34:36
 featured: true
+layout: post
+oldlink: 'https://www.marigold.cz/item/zamrzla-evoluce-ve-svete-techniky
+
+  '
+post_date: 2016-04-22 11:34:36
+post_excerpt: ''
+published: true
+summary_points:
+- Přednáška v Olomouci se zaměřila na vizi internetu v roce 2025.
+- Teorie zamrzlé evoluce vysvětluje nelineární vývoj komplexních systémů.
+- Telekomunikační trh prošel revolučními změnami s nástupem internetové telefonie.
+- Internet pravděpodobně nečelí zamrzlé evoluci, ale bude se dál dynamicky vyvíjet.
 thumbnail: https://www.marigold.cz/assets/zamrzla-evoluce.png
+title: Zamrzlá evoluce ve světě techniky
 ---
+
 <p>Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okrajově jsem se totiž na přednášce dotkl tématu, které by si zasloužilo samostatný prostor. A proto bych mu jej rád věnoval.</p>
 
 <p>Vždycky, když člověk přemýšlí o budoucnosti, je buďto pesimistický ve stylu “bude to, jako je to teď” nebo používá v podstatě lineární interpolaci “když se loni prodalo 2x víc, bude to i letos a příští rok 2x víc”. Jenže tak to není. Komplexní systémy mají tendenci chovat se na první pohled nestabilně a také nelineárně, ve skutečnosti je v tom řád. V tom řádu se smíchává revoluce, kdy všechno skutečně explozivně roste a pak náhlé zamrznutí. Proto používám termín “zamrzlá evoluce”, s nímž přišel český biolog Jaroslav Flegr a skvěle se hodí i na popis stavu trhu.</p>

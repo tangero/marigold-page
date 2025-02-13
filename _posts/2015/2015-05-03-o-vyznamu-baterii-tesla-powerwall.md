@@ -1,14 +1,22 @@
 ---
 ID: 2988
-title: O významu baterií Tesla Powerwall
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/o-vyznamu-baterii-tesla-powerwall
-published: true
+oldlink: 'https://www.marigold.cz/item/o-vyznamu-baterii-tesla-powerwall
+
+  '
 post_date: 2015-05-03 21:15:36
+post_excerpt: ''
+published: true
+summary_points:
+- Elon Musk představil Tesla Energy, novou divizi zaměřenou na baterie.
+- Tesla Powerwall nabízí kapacitu 7 kWh za 3000 USD a 10 kWh za 3500 USD.
+- V Česku se baterie nevyplatí pro přetahování elektřiny mezi tarify kvůli vysoké
+  ceně.
+- Baterie jsou výhodné pro domácnosti s fotovoltaikou nebo pro energetickou soběstačnost.
+title: O významu baterií Tesla Powerwall
 ---
+
 <p>Elon Musk představil další pilíř svého Tesla businessu - po Tesla Motors vyrábějící elektromobily také Tesla Energy vyrábějící baterie. Z hloubi české kotliny je těžké dohlédnout význam tohoto kroku, takže se to podívejme hlouběji. </p>
 
 

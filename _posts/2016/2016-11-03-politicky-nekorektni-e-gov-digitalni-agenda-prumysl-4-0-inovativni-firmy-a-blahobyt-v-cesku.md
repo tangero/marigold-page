@@ -1,14 +1,22 @@
 ---
 ID: 3292
-title: 'Politicky nekorektní e-gov, digitální agenda, Průmysl 4.0, inovativní firmy a&nbsp;blahobyt v&nbsp;Česku'
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/politicky-nekorektni-e-gov-digitalni-agenda-prumysl-4-0-inovativni-firmy-a-blahobyt-v-cesku
-published: true
+oldlink: 'https://www.marigold.cz/item/politicky-nekorektni-e-gov-digitalni-agenda-prumysl-4-0-inovativni-firmy-a-blahobyt-v-cesku
+
+  '
 post_date: 2016-11-03 15:49:40
+post_excerpt: ''
+published: true
+summary_points:
+- Česká vláda neplní digitální agendu, změny vznikají samospádem technologického pokroku.
+- Ekonomický růst vyžaduje inovace a odlišné strategie než konkurence.
+- Česko nemá jasnou strategii, pouze následuje ostatní země bez snahy je předstihnout.
+- Státní sektor může být klíčovým hybatelem růstu, chybí však dlouhodobé plány a odvaha.
+title: Politicky nekorektní e-gov, digitální agenda, Průmysl 4.0, inovativní firmy
+  a&nbsp;blahobyt v&nbsp;Česku
 ---
+
 Součástí mojí práce na Lupě bylo, jednou za čas vyhodnotit digitální agendu české vlády. Vláda si ji vždy připravila na mnoha stránkách, schválila a veškeré moje vyhodnocení proběhlo za rok, když se ukázalo, že se nestalo nic a co se stalo, stalo se samospádem ve smyslu vědeckotechnického pokroku. 
 
 Budu teď říkat nepopulární věci a odložím politickou nekorektnost. Jak se startuje ekonomický růst? Metod je mnoho, ekonomové se rafnou, která je nejlepší, ale když je analyzujete, tak rychle zjistíte, že zásadou je dělat to jinak, než to dělají ostatní a trefit se tam, kam směřuje “doba”. Jestli vsadíte na to, že uděláte zemi hypermoderní, kam se sypou všichni geekové pracovat, nebo naopak rájem divoké přírody, kam jezdí turisté odpočívat, to je tak trochu o tom, jaké možnosti máte, ale obojí je zcela legitimní přístup, který v dobrém provedení vygeneruje růst. 

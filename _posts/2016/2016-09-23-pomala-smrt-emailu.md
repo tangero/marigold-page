@@ -1,14 +1,21 @@
 ---
 ID: 3179
-title: Pomalá smrt emailu
 author: Patrick Zandl
-post_excerpt: ""
 layout: post
-oldlink: >
-  https://www.marigold.cz/item/pomala-smrt-emailu
-published: true
+oldlink: 'https://www.marigold.cz/item/pomala-smrt-emailu
+
+  '
 post_date: 2016-09-23 10:44:11
+post_excerpt: ''
+published: true
+summary_points:
+- Přesunul jsem email z Gmailu na ProtonMail kvůli šifrování a nechuti k Google.
+- Většina emailů jsou automatické zprávy, nabídky a newslettery, ne osobní komunikace.
+- Email nahrazují messagingové služby jako WhatsApp, SMS a iMessages.
+- Notifikační centrum mobilu se stává hlavním místem pro příjem zpráv.
+title: Pomalá smrt emailu
 ---
+
 Před několika dny jsem si přesunul svůj soukromý email z Gmailu, kde ho mám od vzniku služby, na <a href="https://protonmail.com">ProtonMail</a>. Důvod? Šifrování, bezpečnost, ale i nechuť mít všechno u Google, ve který přestávám mít důvěru. 
 
 Včera jsem se díval, co mi na soukromý email chodí za emaily. Letos jsem schránku už několikrát léčil službama jako Unroll me. Podařilo se mi zredukovat objem newsletterů, které mi chodí, na únosnou úroveň a Gmail si velmi slušně radí s tím nejplacatějším spamem. 

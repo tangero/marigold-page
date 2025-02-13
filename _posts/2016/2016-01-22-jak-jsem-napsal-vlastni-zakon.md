@@ -5,13 +5,16 @@ categories:
 - Politika
 featured: true
 layout: post
-post_excerpt: "Dneska v\xE1m pov\xEDm, jak jsem si napsal vlastn\xED z\xE1kon a jak\
-  \ tenhle z\xE1kon skon\u010Dil ve Sb\xEDrce z\xE1kon\u016F. "
+post_excerpt: 'Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon
+  skončil ve Sbírce zákonů. '
+summary_points:
+- Po revoluci jsem pracoval jako asistent politické strany v parlamentu.
+- Přeložil jsem německý zákon a přizpůsobil ho českým podmínkám.
+- Spolupracoval jsem s komunistickým poslancem Čapkem na úpravách zákona.
+- Zákon platí dodnes a je považován za kvalitní a stabilní.
 thumbnail: null
-title: "Jak jsem napsal vlastn\xED z\xE1kon"
+title: Jak jsem napsal vlastní zákon
 ---
-
-
 
 Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, když jsem dělal rozhovor a pan novinář se mě ptal, jestli jsem neměl politické ambice. A já jsem si vzpomněl na svou politickou éru. 
 
@@ -29,9 +32,4 @@ Uplynulo pár dalších měsíců a zákon byl v prvním čtení přijat. Můj p
 
 Můj zákon platí dodneška, bez větších změn i po dvaceti letech. Občas ho ještě nostalgicky sleduju. Před pár lety ho renomovaný právník dával za příklad stabilního, kvalitně připraveného zákona, který vydržel věky. Opsal ho z německého práva student prvního ročníku Vysoké školy ekonomické osm měsíců před tím, než jej vyrazí za neschopnost dorazit na přednášky. Jiný kamarád právník se zase před pár lety podivoval, když ho potřeboval projít, aby se připravil k soudu, že ho jsem schopen citovat z hlavy. Dneska už bych ho celý nedal, ale vzpomínka na to, jak jsem sepsal vlastní zákon je mi také přípomínkou, že do politiky opravdu nechci. A co je to za zákon, vám neprozradím, protože si za dalších pár let zase rád počtu nějakou pochvalu ve stylu “je vidět, že zákon připravili profesionálové”…
 
-PS: Miroslava Čapka jsem tehdy viděl naposledy, ale mám na něj fakt ty nejlepší vzpomínky. Snad se mu u teplického okresního soudu daří dobře. 
-
-
-
- 
-
+PS: Miroslava Čapka jsem tehdy viděl naposledy, ale mám na něj fakt ty nejlepší vzpomínky. Snad se mu u teplického okresního soudu daří dobře.
