@@ -1,5 +1,7 @@
 ---
 ID: 2762
+audio_url: http://www.marigold.cz/audio/2014-01-10-jak-se-budou-zivit-novinari-pisalkove-a-knihotepci-az-padne-zakon.mp3
+audiooff: false
 author: Patrick Zandl
 layout: post
 oldlink: 'https://www.marigold.cz/item/jak-se-budou-zivit-novinari-pisalkove-a-knihotepci-az-padne-zakon
@@ -9,11 +11,15 @@ post_date: 2014-01-10 17:04:20
 post_excerpt: ''
 published: true
 summary_points:
-- Autorská ochrana prochází změnami, což snižuje příjmy kreativců.
-- Hudebníci se uživí koncerty, spisovatelé nemají podobný zdroj příjmů.
-- Noviny a časopisy nabízejí nízké honoráře, nejsou stabilní obživou.
-- Firemní copywriting představuje budoucnost pro spisovatele na zakázku.
-title: Jak se budou živit novináři, pisálkové a&nbsp;knihotepci, až padne zákon
+- "Autorsk\xE1 ochrana proch\xE1z\xED zm\u011Bnami, co\u017E sni\u017Euje p\u0159\xED\
+  jmy kreativc\u016F."
+- "Hudebn\xEDci se u\u017Eiv\xED koncerty, spisovatel\xE9 nemaj\xED podobn\xFD zdroj\
+  \ p\u0159\xEDjm\u016F."
+- "Noviny a \u010Dasopisy nab\xEDzej\xED n\xEDzk\xE9 honor\xE1\u0159e, nejsou stabiln\xED\
+  \ ob\u017Eivou."
+- "Firemn\xED copywriting p\u0159edstavuje budoucnost pro spisovatele na zak\xE1zku."
+title: "Jak se budou \u017Eivit novin\xE1\u0159i, pis\xE1lkov\xE9 a&nbsp;knihotepci,\
+  \ a\u017E padne z\xE1kon"
 ---
 
 <p>Považuji za danné, že způsob právní ochrany autorských děl projde brutální změnou, ať již legislativní, nebo - jako se teď děje ponejvíce - faktickou. Jejím výsledkem bude pokles výběrů peněz z autorských děl, což se děje už teď. A vždycky mě zajímalo, jak se s tím vyrovná trh, tedy, čím se budou dotyční kreativci živit. Zajímá mě to mimo jiné proto, že k psaní mám vždycky jednou nohou nakročeno a tak mě perspektiva oboru tíží.</p>
