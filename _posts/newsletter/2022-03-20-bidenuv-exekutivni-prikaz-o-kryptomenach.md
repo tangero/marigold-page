@@ -1,14 +1,17 @@
 ---
+audio_url: http://www.marigold.cz/audio/2022-03-20-bidenuv-exekutivni-prikaz-o-kryptomenach.mp3
+audiooff: false
 author: Patrick Zandl
 categories:
-- Patrickův newsletter
+- "Patrick\u016Fv newsletter"
 - Joe Biden
-- kryptoměny
+- "kryptom\u011Bny"
 - USA
 date: '2022-03-20'
 layout: post
-original_newsletter: '#44: Drony na Ukrajině, RePowerEU změny i novoroční detox'
-title: Bidenův exekutivní příkaz o kryptoměnách
+original_newsletter: "#44: Drony na Ukrajin\u011B, RePowerEU zm\u011Bny i novoro\u010D\
+  n\xED detox"
+title: "Biden\u016Fv exekutivn\xED p\u0159\xEDkaz o kryptom\u011Bn\xE1ch"
 ---
 
 Americký prezident Joe Biden vydal exekutivní příkaz o kryptoměnách, který požaduje, aby různé americké regulační agentury vypracovaly řadu zpráv o různých regulačních otázkách, od digitálních měn centrální banky až po ochranu spotřebitele, což je krok k regulaci. Opatření úřadů se mají zaměřit na těchto šest klíčových oblastí:
