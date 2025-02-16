@@ -15,3 +15,4 @@ assets/.DS_Store
 .DS_Store
 generate_local_summaries.py
 /.venv
+/newsletter
