@@ -26,7 +26,7 @@ thumbnail: https://www.marigold.cz/assets/openeurollm.png
 title: Evropa zatoužila po vlastním LLM. Bude OpenEuroLLM průšvih nebo má šanci?
 ---
 
-Projekt OpenEuroLLM vznikl jako evropská iniciativa pro vývoj otevřených velkých jazykových modelů (LLM) s cílem posílit technologickou suverenitu a konkurenceschopnost Evropy v oblasti umělé inteligence. To jsou takové ty úřední vyjádření. Oficiálně byl zahájen 1. února 2025 a cílem je vytvořit modely pokrývající všechny oficiální jazyky EU a další evropské jazyky. Má také zajistit soulad s evropským AI Actem. 
+Projekt [OpenEuroLLM](https://openeurollm.eu/) vznikl jako evropská iniciativa pro vývoj otevřených velkých jazykových modelů (LLM) s cílem posílit technologickou suverenitu a konkurenceschopnost Evropy v oblasti umělé inteligence. To jsou takové ty úřední vyjádření. Oficiálně byl zahájen 1. února 2025 a cílem je vytvořit modely pokrývající všechny oficiální jazyky EU a další evropské jazyky. Má také zajistit soulad s evropským AI Actem. 
 
 Projekt dostal do vínku 37 milionů Euro od Evropské komise, což se může zdát málo. Dostaneme se k té částce později. 
 
