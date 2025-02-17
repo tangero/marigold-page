@@ -27,7 +27,7 @@ Proč placení za zprávu? Sepsání takové zprávy je náročné nejenom časo
 
 Pokud jste již zaplatili (nebo se rozhodli zaplatit později), tak si můžete zprávu stáhnout na svůj počítač ve formátu PDF nebo ePub zde: 
 
-- [formát PDF (zobrazení spíše na počítači)](/assets/ebook/assets/ebook/aizprava-2025.pdf)
+- [formát PDF (zobrazení spíše na počítači)](/assets/ebook/aizprava-2025.pdf)
 - [formát ePub (elektronická kniha, zobrazení na tabletu nebo mobilu)](/assets/ebook/aizprava-2025.epub)
 
 Případnou odezvu na zprávu můžete poslat emailem na zandl@marigold.cz.
