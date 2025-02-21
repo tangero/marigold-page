@@ -49,11 +49,11 @@ Jednu Postavu a také obraz Bobino uvidíte na výstavě Národní galerie v Pra
 #### Pont Neuf (1912)
 - Pohled na slavný pařížský most
 - Kombinuje fauvistickou barevnost s kubizujícími tendencemi
-- Zajímavost: Byl reprodukován ve Volných směrech ještě v roce svého vzniku
+- Zajímavost: Byl reprodukován ve Volných směrech ještě v roce svého vzniku, dnes nezvěstný
 
 #### Umírající Hermes (1913)
 - Monumentální kompozice s mytologickým námětem
-- Dnes je nezvěstný, známe ho jen z fotografií
+- Dnes je nezvěstný, dnes nezvěstný, známe ho pouze z fotografie z výstavy Mánesa v roce 1913
 - Zajímavost: Způsobil rozruch na výstavě v Mánesu pro své radikální pojetí
 
 #### Vybírání brambor (1909-1910)
@@ -71,7 +71,9 @@ Jednu Postavu a také obraz Bobino uvidíte na výstavě Národní galerie v Pra
 - Objevil se po letech na aukci v Londýně
 - Zajímavost: Na zadní straně má uvedenu adresu básníka Otto Kleina v St. Cloud
 
-Meziválečné období (1920-1939): Usazuje se v Provence a přijímá jméno Othon Coubine.  Typická díla: Les de pins à Simiane (1921), Paysage de Provence (1923).
+Meziválečné období (1920-1939): Usazuje se v Provence a přijímá jméno Othon Coubine.  Typická díla: Jaro v Simiane (1921), Paysage de Provence (1923).
+
+![Jaro v Simiane](/assets/obrazy/otakar-kubin-jaro-v-simiane.jpg)
 
 Poválečné období (1945-1969): V letech 1952-1955 se vrací do Československa, tato tvorba je poznamenána tlakem na socialistický realismus. Po návratu do Francie se vrací ke svému osvědčenému stylu. Díla z tohoto období jsou méně ceněna než předválečná tvorba. 
 
