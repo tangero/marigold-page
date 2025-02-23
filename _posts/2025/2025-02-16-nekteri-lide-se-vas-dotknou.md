@@ -1,11 +1,20 @@
 ---
-audio_url:
+audio_url: null
 author: Patrick Zandl
 categories:
 - Osobní
 - Historie internetu
 layout: post
-post_excerpt: Někteří lidé se vás dotknou, i když je potkáte na krátko. Josef byl Boříkův strejda, říkal o sobě, že je SAPér, ale s výbušninama neuměl, takže asi kecal. Ale byl to přesně ten případ. 
+post_excerpt: Někteří lidé se vás dotknou, i když je potkáte na krátko. Josef byl
+  Boříkův strejda, říkal o sobě, že je SAPér, ale s výbušninama neuměl, takže asi
+  kecal. Ale byl to přesně ten případ.
+summary_points:
+- Josef, Boříkův strejda, byl najat pro zkušenosti s prodejem softwaru velkým firmám.
+- Josefova "štábní kultura" prodeje zahrnovala obsáhlou dokumentaci, jako nabídky
+  a smlouvy.
+- Josef zachránil prezentaci obsáhlým "implementačním plánem", i když realita byla
+  jednodušší.
+- Josefův půlrok ve firmě výrazně posunul autorovy prodejní dovednosti a chápání procesů.
 thumbnail: https://www.marigold.cz/assets/lide-na-kopci.png
 title: Někteří lidé se vás dotknou, i když je potkáte na krátko
 ---
@@ -19,4 +28,4 @@ Dorazili jsme k zákazníkovi, dělám mu presentaci možností, zákazník je n
 O několik hodin později v kanceláři čučím do těch Josefových papírů a moudrý z toho nejsem. "Josefe, co teda máme dělat, vysvětlíš mi to?"
 
 Josef se blahosklonně usmál: "Přesně, jak jsi říkal - vyfakturujeme, nainstalujeme." 
-A já zíral a učil se. Ten půlrok, než ho přestala dovolená u nás bavit a než odešel někam dál,  jsme se hodně posunuli. A nakonec jsem i pochopil, co na těch papírech bylo a že to mělo nějaký smysl. 
+A já zíral a učil se. Ten půlrok, než ho přestala dovolená u nás bavit a než odešel někam dál,  jsme se hodně posunuli. A nakonec jsem i pochopil, co na těch papírech bylo a že to mělo nějaký smysl.

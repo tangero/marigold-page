@@ -1,10 +1,20 @@
 ---
-audio_url:
+audio_url: null
 author: Patrick Zandl
 categories:
 - AI
 layout: post
-post_excerpt: Pařížský summit, eurounijní AI a čínské bušení na hradby. V AI se toho děje hodně a nebývá čas zastavit se nad širším kontextem. V této zprávě si v určité stručnosti podíváme na to, co se stalo v AI od konce loňského roku.
+post_excerpt: Pařížský summit, eurounijní AI a čínské bušení na hradby. V AI se toho
+  děje hodně a nebývá čas zastavit se nad širším kontextem. V této zprávě si v určité
+  stručnosti podíváme na to, co se stalo v AI od konce loňského roku.
+summary_points:
+- OpenAI vede závod v AI, následován xAI, Google (Gemini) a komerčně úspěšným Anthropic
+  (Claude).
+- Zpráva analyzuje pařížský summit, AI strategie EU, pozici Francie, Německa a Číny.
+- Zpráva o AI má 15 stran (30 000 znaků) a je dostupná v PDF a ePub formátu za 100
+  Kč.
+- Zpráva je ke stažení po platbě, která pokrývá náklady na služby a testování LLM
+  modelů.
 thumbnail: https://www.marigold.cz/assets/macron-altman.jpg
 title: Zpráva o stavu AI pro jaro 2025
 ---
@@ -31,8 +41,3 @@ Pokud jste již zaplatili (nebo se rozhodli zaplatit později), tak si můžete 
 - [formát ePub (elektronická kniha, zobrazení na tabletu nebo mobilu)](/assets/ebook/aizprava-2025.epub)
 
 Případnou odezvu na zprávu můžete poslat emailem na zandl@marigold.cz.
-
-
-
-
-
