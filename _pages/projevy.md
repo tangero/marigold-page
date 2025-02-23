@@ -4,6 +4,8 @@ title: Projevy
 permalink: /projevy/
 ---
 
+Některé projevy či přednášky zahraničních autorů, které jsem považoval za důležité a přeložil jsem je do češtiny. To, že jsou tady, neznamená, že s nimi musím souhlasit, ale pokud s nimi vedu polemiku, tak ve vyhrazeném článku, nikoliv v textu přepisu přednášky či projevu. 
+
 <div class="post-list">
   {% for post in site.categories.projev %}
     <article class="post">
@@ -48,9 +50,6 @@ permalink: /projevy/
         <time datetime="{{ post.date | date_to_xmlschema }}">
           {{ post.date | date: "%-d. %-m. %Y" }}
         </time>
-        {% if post.author %}
-          • {{ post.author }}
-        {% endif %}
       </div>
     </article>
     <hr>

@@ -45,6 +45,14 @@ layout: default
   </div>
   {% endif %}
 
+  {% if page.categories contains "projev" %}
+  <div class="posts">
+    <blockquote>
+      <p>💡 <a href="/projevy/">Překlady zajímavých projevů a přednášek - zde</a></p>
+    </blockquote>
+  </div>
+  {% endif %}
+
   {% if page.collection != 'obrazy' %}
   <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
   <div>
