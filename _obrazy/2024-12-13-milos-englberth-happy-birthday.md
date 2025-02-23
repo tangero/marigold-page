@@ -7,7 +7,7 @@ namalovano: 2024
 autor: Miloš Englberth
 obraz: Happy Birthday
 styl: hyperrealismus
-urlobrazu: /assets/obrazy/hundertwasser-hommage.jpeg
+urlobrazu: /assets/obrazy/milos-englberth-happy-birthday.jpg
 ---
 
 Miloš Englberth - Happy Birthday (2024) je olej na plátně od mého oblíbeného libereckého malíře (je starší o dva měsíce, taky ročník 1974). A troufnu si říct, že je širší veřejnosti prakticky neznámý, samotnému vypadl z AI analytiky jako nedoceněný a zajímavý autor. 
