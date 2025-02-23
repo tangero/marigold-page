@@ -69,7 +69,7 @@ Jaký dopad bude mít na jejich děti a rodinu, pokud budou drženi ve vazbě? J
 
 Když tedy přemýšlíme o tomto rozhodnutí o kauci, není to jednorozměrné rozhodnutí založené na předpovědi. Vyžaduje vyvážení celé řady faktorů. A nemusí existovat jediný správný způsob, jak všechny tyto faktory vyvážit. Neexistuje způsob, kdy byste mohli říci: dám všem těmto faktorům číselné hodnocení a pak vyberu možnost, která získá nejvyšší číslo. Takto situace nefunguje, ale takto by fungoval systém umělé inteligence. Obavy zde tedy spočívají v tom, že místo abychom umělou inteligenci použili k řešení našich problémů, změníme povahu našich problémů.  
 
-**Ta UI nám začne takříkajíc diktovat, jaké jsou problémy, kterým čelíme.**  **Dostáváme věci zpět do popředí.**  
+**Ta AI nám začne takříkajíc diktovat, jaké jsou problémy, kterým čelíme.**  **Dostáváme věci zpět do popředí.**  
 
 ## **Hrozba 3: Ohrožení našich hodnot**  
 
@@ -113,7 +113,7 @@ Mluvil jsem o rizicích, která AI představuje. Nyní se ale možná ptáte, ja
 
 ## **Řešení a role demokracie**  
 
-A já si myslím, že při jakémkoli realistickém pohledu neexistuje žádné jednoduché jediné řešení. Například v mém institutu se zabýváme takovými věcmi, jako je potřeba nového práva, práva na lidské rozhodnutí, zvláštního nového práva pro věk UI. Ale pokud existuje ještě jedno zásadní řešení, myslím, že odpověď spočívá v demokracii.  
+A já si myslím, že při jakémkoli realistickém pohledu neexistuje žádné jednoduché jediné řešení. Například v mém institutu se zabýváme takovými věcmi, jako je potřeba nového práva, práva na lidské rozhodnutí, zvláštního nového práva pro věk AI. Ale pokud existuje ještě jedno zásadní řešení, myslím, že odpověď spočívá v demokracii.  
 
 Protože historická zkušenost ukazuje, že technické a technologické inovace nepřinášejí automaticky výhody pro všechny. Přináší prosperitu a další výhody pouze tehdy, pokud podléhají důkladné demokratické kontrole. Demokracie dokáží vytvářet dobrá rozhodnutí lépe než nedemokratické systémy. A také demokracie mají takovou hodnotu procesu, o které jsem mluvil. Pokud společně jako svobodní a rovnoprávní občané uvažujeme o společném dobru a společně dospějeme k rozhodnutí, respektujeme vzájemnou důstojnost způsobem, který jiné systémy nemají. Dobře, ale samozřejmě víme, že žijeme v době demokratické krize, kdy demokracie ztrácí víru.  
 

@@ -160,3 +160,6 @@ tipue_search:
     pages: true
   exclude:
     files: [search.html]
+
+header_pages:
+  - projevy.md
