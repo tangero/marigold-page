@@ -4,7 +4,7 @@ categories:
 - Patrickův newsletter
 - Apple
 - AI
-- Projev
+- projev
 date: '2024-10-06'
 layout: post
 original_newsletter: "#83 \U0001F353OpenAI představila jahodovou inteligenci o1 a
