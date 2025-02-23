@@ -53,7 +53,6 @@ A neuznávají to ani lidé, kteří zůstali v zemi, kde se zavírají továrny
 
 Musíme se tedy postavit za kapitalismus volného trhu, ale musíme si také dát pozor, co přesně hájíme. Volný trh nakonec skutečně prosperuje pouze ve společnostech, kde existuje správné sdílené chápání ctnosti a vzájemné cti. Proto londýnská City tolik let prosperovala jen díky etice „mé slovo je mým závazkem“. Zkorumpované společnosti naopak praktikují tribalismus a kamarádíčkování.  
 
-ČTĚTE TAKÉ: Jedna jednoduchá metoda, jak se naučit jakýkoli jazyk by Scott Young & Vat Jaiswal (Přepis)  
 
 Představte si Somálsko, Sicílii nebo Davos. Největší nebezpečí pro svobodné trhy dnes spočívá v tom, že ztrácíme toto sdílené chápání ctnosti. Když se ctnost rozpadne, začnou se objevovat zmutované kmeny kapitalismu.  
 
@@ -83,8 +82,6 @@ Během jedné generace však byl tento původní duch zkažen. Loot se stalo jed
 
 Obžaloba však neuspěla, protože v té době téměř čtvrtina poslanců držela akcie společnosti. Dnes, v 21. století, by nás mělo znepokojovat, že příliš mnoho úspěšných společností následovalo trajektorii Východoindické společnosti. Ani Google, ani Goldman Sachs, ani Pfizer dnes nezaměstnávají stálou armádu 20 000 vojáků, alespoň pokud vím. Na druhou stranu asi dvě třetiny Kongresu dostávají finanční prostředky od farmaceutického průmyslu.  
 
-ČTĚTE TAKÉ: Jak může změna vašeho příběhu změnit váš život: Lori Gottliebová (přepis)  
-
 Polovina z nich dostává finanční prostředky od zbrojní lobby. Žijeme v době kamarádíčkování. Máme dokonce exkluzivní místo konání, každoroční konferenci ve švýcarských horách, kde se kumpáni jednou ročně scházejí, aby se co nejefektivněji domluvili v celosvětovém měřítku. Americké korporace utratí ročně více než 2 miliardy dolarů za lobbování ve Washingtonu, D.C. Evropské korporace utratí více než 1 miliardu eur ročně za lobbování v Bruselu.  
 
 Tyto výdaje mají vysokou návratnost investic, vysokou RLI, jak by se dalo říci, návratnost investic do lobbingu. Vezměme si například Big Pharma. Velká farmaceutická společnost utratí za lobbování v USA 356 milionů dolarů ročně. Jen společnost Pfizer utratí 11 milionů dolarů.  
@@ -104,8 +101,6 @@ Jejich ideologie je zarámována prostřednictvím ESG. V některých případec
 Do tohoto řídicího vakua vstoupila společnost BlackRock, indexační průmysl, Organizace spojených národů a samozřejmě Evropská unie. Záměr, který stojí za všemi třemi prvky ESG, tedy životním prostředím, sociálními aspekty a správou a řízením, může být ve skutečnosti dobrý.  
 
 Výsledkem však bylo vytvoření souboru standardizovaných, ideologicky založených taxonomií, které mají s dobrou správou jen velmi málo společného.  
-
-ČTĚTE TAKÉ: Vývoj žonglování: Jay Gilligan na TEDxHelsinki (přepis)  
 
 Správnou reakcí na probuzený kapitalismus by však neměl být návrat ke statu quo ante. Místo toho bychom měli všichni zavést takový způsob vládnutí, na který by byl Adam Smith hrdý. To znamená, že každý správce fondu a skutečný vlastník ji bude brát vážně, bude využívat technologie k hlasování o svých akciích podle svého jedinečného, pro daný případ specifického způsobu a bude přímo spolupracovat s investujícími společnostmi, aby prosazoval správné postupy správy a řízení.  
 
