@@ -10,6 +10,11 @@ date: '2024-05-23'
 layout: post
 original_newsletter: "#76 \U0001F9D1‍\U0001F4BB K čemu všechna ta AI v počítačích
   je?"
+summary_points:
+- 15.5.2024 autor přestal být místostarostou Brandýsa-Boleslavi kvůli rozpadu koalice.
+- Autor se nyní věnuje AI, konkrétně workshopům pro firmy a vzdělávání.
+- Workshopy AI ve firmách zahrnují interaktivní SWOT analýzu dopadu AI.
+- Web pro workshopy AI ve firmách byl vytvořen pomocí umělé inteligence.
 title: Dobrý den u Patrickova newsletteru.
 ---
 

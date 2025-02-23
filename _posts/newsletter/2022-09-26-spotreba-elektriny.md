@@ -7,6 +7,11 @@ date: '2022-09-26'
 layout: post
 original_newsletter: 'Patrickův newsletter #55: Zastupitel a Ethereum Merge: jak ušetřit
   spotřebu elektřiny v Česku díky změně ve zdrojovém kódu'
+summary_points:
+- Ethereum hashrate klesla z 900 TW na 740 TW po přechodu na Proof of Stake.
+- Ethereum Classic hashrate vzrostla z 45 TH/s na 150 TH/s po přechodu Etherea.
+- Bitcoin těžba využívá ASICy, proto těžaři Etherea nemohou snadno přejít.
+- Ethereum Merge snížil spotřebu elektřiny o 10-20%, ne o slibované násobky.
 title: Spotřeba elektřiny
 ---
 

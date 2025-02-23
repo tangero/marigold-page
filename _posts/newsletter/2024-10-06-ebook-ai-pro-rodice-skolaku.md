@@ -8,6 +8,11 @@ date: '2024-10-06'
 layout: post
 original_newsletter: "#83 \U0001F353OpenAI představila jahodovou inteligenci o1 a
   Canvas"
+summary_points:
+- Ebook "AI pro rodiče školáků" pomáhá rodičům využívat AI v učení dětí.
+- ChatGPT ve firmách se dá naučit skrze využití pro děti zaměstnanců.
+- Povídka Eklog v Forbes The Next Big Think popisuje systém placení dle přínosu společnosti.
+- Eklog je zařízení, které zohledňuje přínos jedince pro určení jeho podílu na majetku.
 title: "\U0001F4BC Ebook AI pro rodiče školáků"
 ---
 

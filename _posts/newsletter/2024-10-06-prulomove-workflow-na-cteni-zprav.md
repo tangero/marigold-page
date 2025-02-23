@@ -11,6 +11,12 @@ date: '2024-10-06'
 layout: post
 original_newsletter: "#83 \U0001F353OpenAI představila jahodovou inteligenci o1 a
   Canvas"
+summary_points:
+- 'Zdroje zpráv: autor preferuje zahraniční média, zejména Financial Times a Sueddeutsche
+  Zeitung.'
+- 'Deepl a Ground.news: autor používá tyto pluginy pro překlad a hodnocení zpráv.'
+- 'Revolut Metal: předplatné umožňuje levnější přístup k Financial Times.'
+- 'České zdroje: autor je předplácí, ale prakticky nečte, spíše je podporuje.'
 title: "\U0001F4D5Průlomové workflow na čtení zpráv"
 ---
 

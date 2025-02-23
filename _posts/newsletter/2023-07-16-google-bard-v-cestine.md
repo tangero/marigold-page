@@ -11,6 +11,11 @@ date: '2023-07-16'
 layout: post
 original_newsletter: 'Patrickův newsletter #65: Google má AI Bard v češtině, na AI
   maká Elon Musk i já!'
+summary_points:
+- Google zpřístupnil jazykový model Bard v češtině, s větším objemem dat než ChatGPT.
+- Bard čerpá data z internetu v reálném čase, včetně veřejných fór a korpusu C4.
+- Korpus C4 Googlu obsahuje patenty, Wikipedii a Scribd, i weby s pirátskými knihami.
+- Bard je zdarma, ChatGPT 4 je placený, ale OpenAI nabízí zdarma i čtvrtou verzi.
 title: Google Bard v češtině
 ---
 

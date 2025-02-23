@@ -10,6 +10,13 @@ date: '2024-10-06'
 layout: post
 original_newsletter: "#83 \U0001F353OpenAI představila jahodovou inteligenci o1 a
   Canvas"
+summary_points:
+- Intel čelí krizi kvůli konkurenci, ztrátě důvěry investorů a zaostávání ve výrobních
+  procesech.
+- Intel zvažuje ukončení plánu výroby čipů pro jiné společnosti, což ohrožuje jeho
+  vizi.
+- TSMC má téměř monopol na výrobu špičkových polovodičů, což může vést k vyšším cenám.
+- Monopol TSMC by mohl ohrozit začínající firmy zabývající se návrhem čipů.
 title: "\U0001F41EIntel na rozhraní: akvizice nebo konec?"
 ---
 

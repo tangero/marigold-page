@@ -13,6 +13,14 @@ date: '2022-08-21'
 layout: post
 original_newsletter: 'Patrickův newsletter #53: Moje Stezka Českem. Čipů už je prý
   zase dostatek či spíše nadbytek? Ale kdeže... '
+summary_points:
+- Čipů nadbytek se týká hlavně procesorů pro osobní počítače, nikoliv celého trhu.
+- Specializované čipy, mikrokontrolery a zákaznické obvody stále vykazují nedostatek
+  a vysokou poptávku.
+- Zakázkové čipy (SoC, ASIC) rostou nejrychleji, ovlivňují i pokles čínských výrobců
+  mobilů.
+- Výroba čipů je složitá, drahá a vyžaduje státní podporu, Applied Materials má stále
+  vysoké objednávky.
 title: Čipů už je prý zase dostatek či spíše nadbytek? Ale kdeže...
 ---
 

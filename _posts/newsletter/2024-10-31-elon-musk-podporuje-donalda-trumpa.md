@@ -7,6 +7,15 @@ categories:
 date: '2024-10-31'
 layout: post
 original_newsletter: "#84 \U0001F47D Vliv mimozemšťanů na AI"
+summary_points:
+- Musk podpořil Trumpa finančně, daroval minimálně 75 milionů dolarů pro-Trumpovské
+  skupině America Pac.
+- Musk podporuje Trumpa kvůli potřebě "rozumných regulací" pro urychlení procesů,
+  například licencování pro SpaceX.
+- Trumpova podpora může přinést Muskovým firmám, SpaceX a Tesla, výhody v oblasti
+  vládních kontraktů.
+- SpaceX plánuje navýšit počet satelitů z 7 500 na 29 988 a očekává nárůst příjmů
+  do roku 2030.
 title: "\U0001F9E2 Elon Musk podporuje Donalda Trumpa"
 ---
 

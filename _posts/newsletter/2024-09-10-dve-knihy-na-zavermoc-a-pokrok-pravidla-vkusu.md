@@ -10,6 +10,12 @@ date: '2024-09-10'
 layout: post
 original_newsletter: "#82\U0001F34F\U0001F1EA\U0001F1FA Apple představil iPhone 16
   a šel si vyřídit účty s EU"
+summary_points:
+- Acemoglu, americko-turecký ekonom, zkoumá v knize Moc a pokrok vliv vizionářů na
+  technologie.
+- Moc a pokrok vyvrací nevyhnutelnost technologického pokroku, zdůrazňuje roli vizionářů.
+- Pravidla vkusu od českých a polských autorů analyzují preference a společenský status.
+- Pravidla vkusu zkoumají, proč se lidem líbí různé věci a jak to ovlivňuje společnost.
 title: "\U0001F4D3Dvě knihy na závěrMoc a pokrok + Pravidla vkusu"
 ---
 

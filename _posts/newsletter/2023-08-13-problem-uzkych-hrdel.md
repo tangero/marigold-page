@@ -9,6 +9,13 @@ date: '2023-08-13'
 layout: post
 original_newsletter: 'Patrickův newsletter #66: Potíže s průlomovými změnami prostřednictvím
   AI'
+summary_points:
+- Umělá inteligence nenahradí všechny lidské činnosti ve vývoji, výrobě a distribuci
+  produktů.
+- Robotika má stále problémy s jemnou motorikou, například píchání injekcí.
+- Úzká hrdla na výstupu brání škálování služeb poskytovaných umělou inteligencí.
+- Získávání dat pro rozvoj AI je omezeno úzkými hrdly na vstupu, například manipulací
+  s Petriho miskami.
 title: Problém úzkých hrdel
 ---
 

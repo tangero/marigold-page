@@ -8,6 +8,11 @@ date: '2022-07-27'
 layout: post
 original_newsletter: '#51: O sebemotivaci a také o tom, jak Huawei může narušit kritickou
   komunikaci strategického velení USA'
+summary_points:
+- Aktualizace software over-the-air jsou klíčové pro elektromobily, ale VW je nezvládl.
+- Herbert Diess byl odvolán z pozice CEO VW kvůli zpoždění vývoje softwaru.
+- Uvedení nových elektromobilů Porsche, Audi a Bentley se zpozdilo kvůli softwaru.
+- Bentley možná nestihne přejít na plně elektrický pohon do konce desetiletí.
 title: Šéf VW Herbert Diess odstoupil kvůli updatům software
 ---
 

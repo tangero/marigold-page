@@ -7,6 +7,11 @@ date: '2022-07-03'
 layout: post
 original_newsletter: 'Patrickův newsletter #49: stále neprodaný Twitter a příliš mnoho
   potratových receptů'
+summary_points:
+- Muskova koupě Twitteru je po třech měsících stále nejistá a nestabilní.
+- Musk se podle některých snaží z nákupu Twitteru vycouvat.
+- Ze schůzky s Twitterem neunikly žádné zásadní informace.
+- Musk zřejmě nemá velkou motivaci Twitter výrazně měnit.
 title: 'Elon Musk a koupě Twitteru: stále zataženo'
 ---
 

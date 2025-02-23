@@ -15,6 +15,13 @@ date: '2023-02-12'
 layout: post
 original_newsletter: "Patrickův newsletter #63 \U0001F916 Naděje roku: procesory RISC-V
   a hromada AI novinek"
+summary_points:
+- AI potřebuje procesory, kde dominuje ARM, ale RISC-V představuje otevřenou alternativu.
+- RISC-V je otevřená architektura ISA, umožňující přizpůsobení a sdílení návrhů procesorů.
+- RISC-V nachází uplatnění v IoT a průmyslu, kde se snižuje závislost na operačních
+  systémech.
+- Kniha Stevena Pinkera "Lepší andělé naší povahy" zkoumá důvody poklesu násilí ve
+  společnosti.
 title: "\U0001F9D1‍\U0001F4BBNaděje roku: procesory RISC-V"
 ---
 

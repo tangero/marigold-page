@@ -8,6 +8,11 @@ date: '2022-07-10'
 layout: post
 original_newsletter: 'Patrickův newsletter #50: Elon Musk stáhl nabídku koupě Twitteru
   i další kalhotky'
+summary_points:
+- Musk stáhl nabídku na koupi Twitteru za 44 miliard dolarů.
+- Důvodem stažení nabídky je údajný vysoký počet botů na Twitteru.
+- Twitter může uplatnit pokutu ve výši 1 miliardy dolarů za odstoupení.
+- Musk mohl nabídku využít k prodeji akcií Tesly za 8,5 miliardy dolarů.
 title: Elon Musk stáhl nabídku koupě Twitteru...
 ---
 

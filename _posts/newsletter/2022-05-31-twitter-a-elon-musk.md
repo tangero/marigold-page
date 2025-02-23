@@ -10,6 +10,12 @@ date: '2022-05-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #48: Špicl páně vyšel, na Apple novinky
   se čeká'
+summary_points:
+- Akcionáři Twitteru zvažují žalobu na Muska kvůli manipulaci s cenou akcií.
+- Musk tvrdil, že má zajištěné financování pro převzetí Tesly do soukromých rukou.
+- Saúdský fond PIF projevil zájem o převzetí Tesly, což Musk bral jako závazek.
+- Musk tlačil na PIF, aby potvrdil jednání o převzetí Tesly, jinak s nimi přeruší
+  kontakt.
 title: Twitter a Elon Musk
 ---
 

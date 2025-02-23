@@ -12,10 +12,19 @@ categories:
 - EU
 - Automotive
 date: '2023-09-03'
+featured: true
 layout: post
 original_newsletter: 'Patrickův newsletter #67: Kdo jde kdo v AI?'
+summary_points:
+- Sam Altman vede OpenAI, firmu vyvíjející obecnou umělou inteligenci, s investicí
+  od Microsoftu.
+- Andrew Ng, akademik a spoluzakladatel Coursera, významně přispěl k hlubokému učení
+  a AI.
+- Daniela Amodei spoluzaložila Anthropic, firmu zaměřenou na bezpečnost AI, s chatbotem
+  Claude.
+- Emad Mostaque, CEO Stability AI, vytvořil Stable Diffusion, model s otevřeným zdrojovým
+  kódem.
 title: Kdo je kdo v AI
-featured: true
 ---
 
 Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle významnosti, druhé podle vlivu, třetí jako alternativu k prvnímu. 
@@ -70,4 +79,4 @@ Společnost se podílela na vytvoření AI modelu Stable Diffusion pro převod t
 
 Tento postoj vyvolal odpor dalších členů komunity umělé inteligence, veřejných činitelů a firem, jako je Getty Images, která v únoru zažalovala Stability AI za porušení autorských práv a tvrdila, že společnost zkopírovala 12 milionů obrázků pro trénink svého modelu umělé inteligence.
 
-Přesto se nástroje společnosti Stability AI staly jedněmi z nejoblíbenějších a nejznámějších zástupců v oblasti generativní umělé inteligence. Čtyřicetiletý Mostaque bydlí v Londýně a vymyká se snadnému zaškatulkování. V březnu 2023 patřil ke skupině, která podepsala otevřený dopis vyzývající k pozastavení vývoje umělé inteligence pro cokoli pokročilejšího než GPT-4, chatbota umělé inteligence od OpenAI. Zdá se, že jeho pohled na pokrok A.I. se pohybuje ve dvou extrémech vzhledem k jeho nedávným komentářům, že by v nejhorším případě mohla ovládat lidstvo, zatímco při jiné příležitosti prohlásil, že AI se nebude zajímat o lidi. Mezi další zvláštnosti patří, že mu bylo diagnostikováno ADHD a Aspergerův syndrom. Naposledy se do novin pořádně pod palbu dostal v červnu 2023, kdy se ukázalo, že lhal ohledně rozsahu svého zapojení do vývoje Stable Diffusion a že mystifikoval veřejnost o svém vzdělání. V každém případě ale hodnota jeho společnosti Stability AI dosahuje 4 miliard dolarů a přes svoji velkou hubu patří Emad Mostaque mezi nejvlivnější osoby v oblasti AI. 
+Přesto se nástroje společnosti Stability AI staly jedněmi z nejoblíbenějších a nejznámějších zástupců v oblasti generativní umělé inteligence. Čtyřicetiletý Mostaque bydlí v Londýně a vymyká se snadnému zaškatulkování. V březnu 2023 patřil ke skupině, která podepsala otevřený dopis vyzývající k pozastavení vývoje umělé inteligence pro cokoli pokročilejšího než GPT-4, chatbota umělé inteligence od OpenAI. Zdá se, že jeho pohled na pokrok A.I. se pohybuje ve dvou extrémech vzhledem k jeho nedávným komentářům, že by v nejhorším případě mohla ovládat lidstvo, zatímco při jiné příležitosti prohlásil, že AI se nebude zajímat o lidi. Mezi další zvláštnosti patří, že mu bylo diagnostikováno ADHD a Aspergerův syndrom. Naposledy se do novin pořádně pod palbu dostal v červnu 2023, kdy se ukázalo, že lhal ohledně rozsahu svého zapojení do vývoje Stable Diffusion a že mystifikoval veřejnost o svém vzdělání. V každém případě ale hodnota jeho společnosti Stability AI dosahuje 4 miliard dolarů a přes svoji velkou hubu patří Emad Mostaque mezi nejvlivnější osoby v oblasti AI.

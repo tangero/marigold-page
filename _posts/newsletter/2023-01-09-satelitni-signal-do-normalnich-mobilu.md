@@ -11,6 +11,13 @@ date: '2023-01-09'
 layout: post
 original_newsletter: 'Patrickův newsletter #62: Technologie roku? Generativní umělá
   inteligence!'
+summary_points:
+- iPhone 14 umožňuje satelitní komunikaci v oblastech bez signálu.
+- Qualcomm Snapdragon Satellite nabídne obousměrné SMS na Androidu přes 66 Iridium
+  satelitů.
+- Snapdragon Satellite bude dostupný v nových telefonech s Qualcomm hardwarem v druhé
+  polovině roku.
+- T-Mobile a Starlink plánují podobnou satelitní službu pro telefony.
 title: Satelitní signál do normálních mobilů
 ---
 

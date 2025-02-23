@@ -10,6 +10,13 @@ date: '2022-05-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #48: Špicl páně vyšel, na Apple novinky
   se čeká'
+summary_points:
+- Jack Welch kritizován za negativní dopad na firemní kulturu a kapitalismus.
+- Gellesova kniha obviňuje Welcha z upřednostňování zisku před zaměstnanci a inovacemi.
+- Welchova strategie propouštění a outsourcingu vedla k masivnímu snižování počtu
+  zaměstnanců.
+- Boeing pod vedením Welchových chráněnců upřednostnil zisk, což vedlo k tragickým
+  nehodám.
 title: 'Kniha do vaší knihovničky. Jack Welch: Muž, který rozbil kapitalismus'
 ---
 

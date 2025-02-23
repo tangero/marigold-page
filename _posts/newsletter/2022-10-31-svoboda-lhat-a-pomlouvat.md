@@ -9,6 +9,11 @@ date: '2022-10-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #57: Musk nakonec koupil Twitter a všechny
   povyházel'
+summary_points:
+- Musk zvažoval zásah do dosahu účtu @catturd2 šířícího dezinformace.
+- Twitter zřídí radu pro moderování obsahu s rozmanitými názory.
+- Musk slíbil propuštění uživatelů suspendovaných z nevýznamných důvodů.
+- Exodus uživatelů z Twitteru se po Muskově převzetí zatím nekoná.
 title: Svoboda lhát a pomlouvat?
 ---
 

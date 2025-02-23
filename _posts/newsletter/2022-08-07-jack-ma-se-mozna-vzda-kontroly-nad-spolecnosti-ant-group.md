@@ -6,6 +6,11 @@ date: '2022-08-07'
 layout: post
 original_newsletter: 'Patrickův newsletter #52: Facebook bude muset stáhnout své služby
   z EU - a k čemu bude Amazonu iRobot?'
+summary_points:
+- Jack Ma se pravděpodobně vzdá kontroly nad Ant Group.
+- Ma ovládá 50,52 % akcií Ant Group přes Hangzhou Yunbo.
+- Kontrolu by Ma mohl převést na vedoucí pracovníky Ant Group.
+- Důvodem jsou zřejmě tlaky čínské vlády.
 title: Jack Ma se možná vzdá kontroly nad společností Ant Group
 ---
 

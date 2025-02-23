@@ -9,6 +9,11 @@ date: '2022-08-07'
 layout: post
 original_newsletter: 'Patrickův newsletter #52: Facebook bude muset stáhnout své služby
   z EU - a k čemu bude Amazonu iRobot?'
+summary_points:
+- Meta hrozí stažením Facebooku a Instagramu z EU kvůli sporům o výměnu dat.
+- Meta toto oznámení podala regulačním orgánům, ne veřejně, což značí vážnost situace.
+- Irský regulátor zvažuje zákaz předávání dat uživatelů Facebooku do USA.
+- Nová dohoda mezi EU a USA je nepravděpodobná kvůli sběru dat americkými službami.
 title: Bude muset Facebook a Instagram odejít z EU?
 ---
 

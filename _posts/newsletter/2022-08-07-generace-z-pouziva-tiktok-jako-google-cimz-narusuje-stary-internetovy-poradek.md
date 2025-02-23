@@ -10,6 +10,11 @@ date: '2022-08-07'
 layout: post
 original_newsletter: 'Patrickův newsletter #52: Facebook bude muset stáhnout své služby
   z EU - a k čemu bude Amazonu iRobot?'
+summary_points:
+- TikTok nahrazuje Google pro mladé při vyhledávání informací a doporučení.
+- Tržby TikToku se ztrojnásobí na 12 miliard dolarů, třetinu tvoří generace Z.
+- 40 % Američanů 18-24 let používá TikTok/Instagram pro doporučení, ne Google.
+- Google si uvědomuje, že TikTok a Instagram ohrožují jeho vyhledávání.
 title: Generace Z používá TikTok jako Google, čímž narušuje starý internetový pořádek
 ---
 

@@ -14,6 +14,11 @@ date: '2023-07-04'
 layout: post
 original_newsletter: "Patrickův newsletter #64 \U0001F942 Jak Twitter padnul nezaplaceným
   účtem (a poslední AI dění)"
+summary_points:
+- Musk zavedl editační tlačítko na Twitteru, s historií úprav a za příplatek.
+- Twitter omezil čtení tweetů kvůli nákladům na cloudové úložiště Googlu.
+- Nový Twitter funguje agilně, testuje hypotézy v praxi a rychle opravuje chyby.
+- Algoritmy Twitteru podporují toxicitu a polarizaci, což vede k odchodu uživatelů.
 title: Twitter se pod Muskovým vedením stal dynamickým
 ---
 

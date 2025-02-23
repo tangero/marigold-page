@@ -8,6 +8,11 @@ date: '2022-07-03'
 layout: post
 original_newsletter: 'Patrickův newsletter #49: stále neprodaný Twitter a příliš mnoho
   potratových receptů'
+summary_points:
+- Sociální sítě snižovaly autorovi soustředění a schopnost dodělávat rozsáhlejší úkoly.
+- Twitter účet byl smazán kvůli nutkavé potřebě jej neustále kontrolovat.
+- Facebook a Twitter byly odinstalovány z mobilu i počítače pro lepší soustředění.
+- Odstranění politicky zaměřené komunikace je vnímáno jako pozitivní dopad.
 title: Limituji účast na Twitteru
 ---
 

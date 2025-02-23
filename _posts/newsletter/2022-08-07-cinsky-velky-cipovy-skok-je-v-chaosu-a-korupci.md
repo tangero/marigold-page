@@ -9,6 +9,12 @@ date: '2022-08-07'
 layout: post
 original_newsletter: 'Patrickův newsletter #52: Facebook bude muset stáhnout své služby
   z EU - a k čemu bude Amazonu iRobot?'
+summary_points:
+- Čína zvládla 7nm výrobu čipů díky špionáži a kopírování technologie TSMC.
+- SMIC používá starší DUV litografii, limitující další vývoj a efektivitu výroby.
+- Čínský čipový průmysl provází korupce a zatýkání v souvislosti s obrovskými investicemi.
+- Udržení čipové nadvlády je pro Evropu a USA klíčové kvůli zranitelnosti spojené
+  s TSMC.
 title: Čínský Velký čipový skok je v chaosu a korupci
 ---
 

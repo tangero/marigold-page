@@ -9,6 +9,14 @@ date: '2022-11-27'
 layout: post
 original_newsletter: 'Patrickův newsletter #59: moje kniha v prodeji. A o krizi efektivního
   altruismu vinou krachu kryptoburzy FTX'
+summary_points:
+- FTX krach odhalil absenci kontrolních mechanismů a zpochybnil důvěryhodnost neregulovaného
+  finančního světa.
+- Efektivní altruismus je filosofie, která se snaží zlepšit svět pomocí vědeckých
+  důkazů a rozumu.
+- Sam Bankman-Fried, propagátor efektivního altruismu, ztratil miliardy dolarů a znevěrohodnil
+  hnutí.
+- Pád FTX může efektivní altruismus vážně poškodit ztrátou financí a etickými dopady.
 title: Efektivní altruismus ve víru pádu kryptoburzy FTX a SBF
 ---
 

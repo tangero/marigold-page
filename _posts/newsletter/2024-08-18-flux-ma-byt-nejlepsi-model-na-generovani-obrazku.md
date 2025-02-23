@@ -7,6 +7,11 @@ categories:
 date: '2024-08-18'
 layout: post
 original_newsletter: "#81: \U0001FA93Jak rozbít Google a zachránit trh"
+summary_points:
+- Flux je nový open source model pro generování obrázků z textu.
+- Konkuruje Dalle i Midjourney, ale nabízí lepší výsledky.
+- 'Black Forest Labs nabízí Flux ve třech verzích: API, ke stažení a pro běžné uživatele.'
+- Flux lze vyzkoušet ve webovém rozhraní na aiflux.cc.
 title: Flux má být nejlepší model na generování obrázků
 ---
 

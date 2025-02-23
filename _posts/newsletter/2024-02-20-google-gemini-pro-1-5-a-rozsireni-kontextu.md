@@ -13,6 +13,11 @@ date: '2024-02-20'
 layout: post
 original_newsletter: "Patrickův newsletter #73: \U0001F973 Před branami všeobecné
   umělé inteligence...?"
+summary_points:
+- Google přejmenovává Bard na Gemini a nové modely označuje Gemini.
+- Gemini Pro 1.5 vyniká kontextovým oknem až deset milionů tokenů.
+- Dlouhý kontext umožňuje AI zpracovávat rozsáhlá data a učit se nové úkoly.
+- Gemini Pro využívá architekturu Mixture of Experts (MoE) pro efektivnější škálování.
 title: Google Gemini Pro 1.5 a rozšíření kontextu
 ---
 

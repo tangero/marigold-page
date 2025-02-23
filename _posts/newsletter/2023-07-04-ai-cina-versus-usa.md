@@ -8,6 +8,11 @@ date: '2023-07-04'
 layout: post
 original_newsletter: "Patrickův newsletter #64 \U0001F942 Jak Twitter padnul nezaplaceným
   účtem (a poslední AI dění)"
+summary_points:
+- AI závody jsou velmocenský souboj mezi Čínou a USA o budoucí svět.
+- USA zpřísňují vývoz čipů pro AI do Číny, cílí na Nvidia A800.
+- Čínská Baidu tvrdí, že její chatbot Ernie překonává ChatGPT.
+- AI startupy v USA získávají miliardové investice, například Inflection AI.
 title: 'AI: Čína versus USA'
 ---
 

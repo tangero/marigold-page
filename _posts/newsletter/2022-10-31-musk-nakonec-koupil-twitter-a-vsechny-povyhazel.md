@@ -8,6 +8,11 @@ date: '2022-10-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #57: Musk nakonec koupil Twitter a všechny
   povyházel'
+summary_points:
+- Musk převzal Twitter a propustil klíčové vedení včetně Agrawala, Gadde a Segala.
+- Musk vstoupil do centrály Twitteru s umyvadlem a tweetoval "Let that sink in".
+- Agrawal získá po propuštění z Twitteru přibližně 42 milionů dolarů.
+- Gadde dohlížel na pravidla Twitteru a čelil kritice za zákaz Trumpa.
 title: Musk nakonec koupil Twitter a všechny povyházel
 ---
 

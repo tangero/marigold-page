@@ -13,6 +13,11 @@ categories:
 date: '2024-07-28'
 layout: post
 original_newsletter: '#80: Kyberkatastrofa Crowdstrike'
+summary_points:
+- Globální výpadek způsobila chybná aktualizace softwaru Falcon od Crowdstrike.
+- Problém postihl platící zákazníky Crowdstrike, paradoxně ty zodpovědnější.
+- Microsoft se dříve pokusil omezit přístup k jádru, ale narazil na odpor.
+- Šéf Crowdstrike, George Kurtz, zažil podobnou havárii i ve firmě McAfee.
 title: ☠️ Nebyl to kyberútok, ale kyberkatastrofa. Crowdstrike. Co bylo za ním, co
   s ním?
 ---

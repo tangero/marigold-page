@@ -10,6 +10,12 @@ date: '2024-09-10'
 layout: post
 original_newsletter: "#82\U0001F34F\U0001F1EA\U0001F1FA Apple představil iPhone 16
   a šel si vyřídit účty s EU"
+summary_points:
+- Apple představil nové Apple Watch, Ultra generaci, AirPod a AirPod Pro.
+- Hodinky Apple Watch jsou připraveny pro šnorchlování a měří teplotu pro menstruační
+  cyklus.
+- Sluchátka AirPod nabízejí vylepšené potlačení hluku.
+- 'Doporučení zní: kupte si nové modely, pokud je potřebujete.'
 title: Apple hodinky i sluchátka
 ---
 

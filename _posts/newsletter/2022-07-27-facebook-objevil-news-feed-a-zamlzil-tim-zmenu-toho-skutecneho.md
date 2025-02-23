@@ -7,6 +7,12 @@ date: '2022-07-27'
 layout: post
 original_newsletter: '#51: O sebemotivaci a také o tom, jak Huawei může narušit kritickou
   komunikaci strategického velení USA'
+summary_points:
+- Facebook zavede novou záložku s chronologickým zobrazením příspěvků přátel.
+- Hlavní stránka Facebooku bude nově zobrazovat příspěvky od nesledovaných profilů.
+- Algoritmy Facebooku budou vybírat příspěvky, které by uživatele "mohly zajímat".
+- Chronologický feed od přátel bude pravděpodobně nepoužitelný kvůli velkému objemu
+  dat.
 title: Facebook objevil news feed a zamlžil tím změnu toho skutečného...
 ---
 

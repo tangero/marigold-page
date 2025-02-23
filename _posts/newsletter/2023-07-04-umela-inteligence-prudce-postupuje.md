@@ -11,6 +11,11 @@ date: '2023-07-04'
 layout: post
 original_newsletter: "Patrickův newsletter #64 \U0001F942 Jak Twitter padnul nezaplaceným
   účtem (a poslední AI dění)"
+summary_points:
+- Umělá inteligence je událostí roku, její rozvoj je prudší než u internetu.
+- Odpůrci AI nestíhají argumentovat, její rychlý pokrok jim bere argumenty.
+- Generativní AI automatizuje právní úkoly, 44 % dle Goldman Sachs.
+- Harvey, Casetext a Luminance jsou startupy legaltech, využívající AI.
 title: Umělá inteligence prudce postupuje
 ---
 

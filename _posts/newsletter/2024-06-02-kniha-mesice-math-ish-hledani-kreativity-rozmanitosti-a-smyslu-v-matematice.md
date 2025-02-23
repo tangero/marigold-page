@@ -9,6 +9,11 @@ date: '2024-06-02'
 layout: post
 original_newsletter: "#77: Jak se USA \U0001F1FA\U0001F1F8 snaží dosáhnout polovodičové
   převahy nad Čínou \U0001F1E8\U0001F1F3"
+summary_points:
+- Jo Boalerová, stanfordská profesorka, napsala knihu Math-ish o výuce matematiky.
+- Math-ish hodnotí tradiční výuku matematiky a navrhuje nové přístupy k učení.
+- Kniha je určena pro zájemce o vzdělávání, zejména v matematice.
+- Autor textu se inspiroval knihou pro tvorbu inovativního IT kurzu pro ZŠ.
 title: "\U0001F4D7Kniha měsíce? Math-ish: Hledání kreativity, rozmanitosti a smyslu
   v matematice"
 ---

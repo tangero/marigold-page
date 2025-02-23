@@ -8,6 +8,11 @@ date: '2022-11-27'
 layout: post
 original_newsletter: 'Patrickův newsletter #59: moje kniha v prodeji. A o krizi efektivního
   altruismu vinou krachu kryptoburzy FTX'
+summary_points:
+- Pitchfork od Google Labs využívá AI pro automatickou úpravu a aktualizaci kódu.
+- Cílem Pitchfork je optimalizace a modernizace stávajícího kódu, ne jeho tvorba.
+- Původní zaměření Pitchfork bylo na automatickou aktualizaci Python kódu v Google.
+- AI Developer Assistance team v Google Labs vyvíjí Pitchfork.
 title: Google Pitchfork je AI, která má psát a opravovat kód
 ---
 

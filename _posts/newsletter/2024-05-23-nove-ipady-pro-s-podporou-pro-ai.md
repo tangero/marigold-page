@@ -11,6 +11,13 @@ date: '2024-05-23'
 layout: post
 original_newsletter: "#76 \U0001F9D1‍\U0001F4BB K čemu všechna ta AI v počítačích
   je?"
+summary_points:
+- Nové iPady Pro s M4 a příslušenství jsou výkonnější, ale nekompatibilní se staršími
+  zařízeními.
+- Apple tlačí iPady Pro jako náhradu notebooků, přestože jsou dražší než Macbook Air.
+- Rychlé uvedení M4 procesoru pravděpodobně souvisí s lepší výtěžností výrobního procesu
+  N3E.
+- Apple se údajně snaží zajistit si exkluzivní přístup k 2nm výrobní technologii TSMC.
 title: Nové iPady Pro s podporou pro AI
 ---
 

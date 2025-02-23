@@ -8,6 +8,12 @@ categories:
 date: '2024-01-21'
 layout: post
 original_newsletter: 'Patrickův newsletter #72: Co nás čeká, nemine a mine? '
+summary_points:
+- AI workshop strategicky analyzuje dopady a příležitosti umělé inteligence pro konkrétní
+  firmu.
+- Interaktivní SWOT analýza v kurzu zkoumá hrozby a příležitosti AI pro služby i výrobu.
+- Dvouapůlhodinový workshop pro menší kolektiv stojí 10 000 Kč bez DPH.
+- Kontakt pro domluvení termínu v únoru nebo březnu je zandl@marigold.cz nebo 777677077.
 title: 'Nabídka workshopu: Strategie AI pro firmy'
 ---
 

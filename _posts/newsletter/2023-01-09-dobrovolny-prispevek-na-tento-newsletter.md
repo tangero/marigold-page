@@ -9,6 +9,11 @@ date: '2023-01-09'
 layout: post
 original_newsletter: 'Patrickův newsletter #62: Technologie roku? Generativní umělá
   inteligence!'
+summary_points:
+- QR kód slouží pro platbu dobrovolného příspěvku, například na dvě kafe.
+- Autor nabízí týdenní newsletter z komunální politiky k odběru.
+- Patrick Zandl přeje vše nejlepší do nového týdne.
+- Odkaz směřuje na knihu "Mýty a naděje digitálního světa".
 title: Dobrovolný příspěvek na tento newsletter?
 ---
 

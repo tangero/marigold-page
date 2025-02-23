@@ -14,6 +14,12 @@ date: '2024-05-01'
 layout: post
 original_newsletter: '#75: Jak na zápisy ze schůzek a porad pomocí AI aplikací (plus
   Tesla a Apple novinky)'
+summary_points:
+- AI aplikace Wave AI, Summie, Lush a MinutAI podporují zápis schůzek v češtině.
+- Mobilní aplikace pro zápis schůzek vyžadují datové připojení pro odeslání nahrávek
+  do cloudu.
+- Summie je nejkomplexnější aplikace, rozpoznává mluvčí a umožňuje doplňující dotazy.
+- Přizpůsobení slovníku a opakování akčních bodů zlepšuje kvalitu zápisu AI.
 title: ✍️ Zápis z porady či jednání pomocí umělé inteligence
 ---
 

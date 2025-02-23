@@ -16,6 +16,12 @@ date: '2022-12-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #61: Roky změn nemáme za sebou, ale před
   sebou... '
+summary_points:
+- Technologické posuny mění společnost, globalizace přesouvá pracovní místa a internet
+  ovlivňuje vnímání informací.
+- Klimatická změna, vliv korporací, nerovnost a nedůvěra k elitám jsou globální rizika.
+- Korporace si přisvojují kvazistátní působnost a konkurují státům v digitálním světě.
+- Technologické superkorporace FAMAG mají větší hodnotu než většina zemí světa.
 title: Zajímavé časy
 ---
 

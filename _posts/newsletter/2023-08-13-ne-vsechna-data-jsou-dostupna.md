@@ -11,6 +11,15 @@ date: '2023-08-13'
 layout: post
 original_newsletter: 'Patrickův newsletter #66: Potíže s průlomovými změnami prostřednictvím
   AI'
+summary_points:
+- Společenské vědy hrají klíčovou roli v rozvoji AGI, protože zprostředkovávají nezapsané
+  znalosti.
+- Projektové týmy balancují mezi kulturní homogenitou a inovačním potenciálem při
+  začleňování AGI.
+- Reverzní inženýrství a rozšíření senzorů AGI pomáhají postihnout nezapsané zkušenosti
+  pro výuku.
+- Syntéza společenských věd s technologiemi je nezbytná pro rozvoj AGI, ale zatím
+  nezačala.
 title: Ne všechna data jsou dostupná
 ---
 

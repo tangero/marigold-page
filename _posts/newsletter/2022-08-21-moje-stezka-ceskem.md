@@ -10,6 +10,11 @@ date: '2022-08-21'
 layout: post
 original_newsletter: 'Patrickův newsletter #53: Moje Stezka Českem. Čipů už je prý
   zase dostatek či spíše nadbytek? Ale kdeže... '
+summary_points:
+- Autor strávil týden pěší turistikou po Stezce Českem, začal na nejzápadnějším bodě.
+- Krušné hory na trase Stezky Českem nabízejí krásnou přírodu a zaniklé obce.
+- Sucho v Krušných horách ztěžuje doplňování vody, ale obce reagují.
+- Autor doporučuje zvážit výbavu a denní vzdálenost pro Stezku Českem.
 title: Moje Stezka Českem
 ---
 

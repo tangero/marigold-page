@@ -10,6 +10,12 @@ categories:
 date: '2024-08-18'
 layout: post
 original_newsletter: "#81: \U0001FA93Jak rozbít Google a zachránit trh"
+summary_points:
+- Pixel 9 řada zahrnuje tři telefony a skládací model s cenami od 799 USD.
+- AI funkce Pixel 9 zahrnují generování obrázků a generativní úpravy fotografií v
+  Google Photos.
+- Pixel Watch 3 přichází s větší variantou a novou funkcí detekce pulzu.
+- Gemini Live je nová funkce hlasového chatu pro komunikaci s AI asistentem.
 title: "\U0001F4F1Novinky Made by Google: mobily Pixel 9 a řízení o rozdělení Alphabet/Google"
 ---
 

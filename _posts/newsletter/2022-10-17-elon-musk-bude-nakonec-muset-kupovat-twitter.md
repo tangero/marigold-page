@@ -8,6 +8,11 @@ date: '2022-10-17'
 layout: post
 original_newsletter: 'Patrickův newsletter #56: Muskův Starlink, nákup Twitteru a
   Čínsko-Americká válka o čipy a AI nadvládu'
+summary_points:
+- Musk pravděpodobně koupí Twitter kvůli sankcím ze smlouvy, ačkoliv je frustrovaný.
+- Musk navrhuje kontroverzní řešení pro Ukrajinu a Tchaj-wan, což vyvolává obavy.
+- Starlink nefunguje na okupovaných územích Ukrajiny záměrně, ne z důvodu nevole.
+- Musk původně chtěl, aby Pentagon platil Starlink pro Ukrajinu, ale nakonec ustoupil.
 title: Elon Musk bude nakonec muset kupovat Twitter
 ---
 

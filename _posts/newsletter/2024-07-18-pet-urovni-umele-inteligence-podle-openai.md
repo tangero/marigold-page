@@ -7,6 +7,11 @@ categories:
 date: '2024-07-18'
 layout: post
 original_newsletter: '#79: Pět úrovní umělé inteligence podle OpenAI'
+summary_points:
+- Bloomberg popsal pět úrovní AI vedoucích k superinteligenci převyšující lidské schopnosti.
+- Reasoners, úroveň 2, samostatně řeší základní problémy na úrovni doktorského vzdělání.
+- Organizátoři, úroveň 5, budou schopni vykonávat práci celé organizace.
+- Sam Altman předpovídá dosažení páté úrovně do deseti let, jiní odborníci do padesáti.
 title: Pět úrovní umělé inteligence podle OpenAI
 ---
 

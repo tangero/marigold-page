@@ -4,16 +4,21 @@ categories:
 - Patrickův newsletter
 - Apple
 - AI
-- Energie
-- Automotive
+- Projev
 date: '2024-10-06'
 layout: post
 original_newsletter: "#83 \U0001F353OpenAI představila jahodovou inteligenci o1 a
   Canvas"
+summary_points:
+- AI dramaticky zlepší lidské schopnosti a povede k nebývalé prosperitě.
+- Hluboké učení je klíčový algoritmus umožňující AI řešit složité problémy.
+- Dostupná výpočetní technika a energie jsou zásadní pro široké využití AI.
+- Je třeba minimalizovat rizika AI a maximalizovat její přínosy pro společnost.
+thumbnail: https://substack-post-media.s3.amazonaws.com/public/images/715a5f00-f0be-4e73-a3d0-ced81c3d99d3_624x351.jpeg
 title: 'Sam Altman: Věk inteligence'
 ---
 
- _Toto je překlad[blogpostu šéfa OpenAI Sama Altmana](https://ia.samaltman.com). _
+Toto je překlad [blogpostu šéfa OpenAI Sama Altmana](https://ia.samaltman.com).
 
 V příštích několika desetiletích budeme schopni dělat věci, které by našim prarodičům připadaly jako kouzlo.
 

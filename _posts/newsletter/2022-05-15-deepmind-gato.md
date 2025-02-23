@@ -7,6 +7,11 @@ date: '2022-05-15'
 layout: post
 original_newsletter: 'Patrickův newsletter #47: Internetizace války na Ukrajině a
   Muskova šaráda s Twitterem'
+summary_points:
+- Gato od DeepMind je univerzální AI transformátor schopný různých úkolů.
+- Model Gato zvládá hraní Atari, popis obrázků, chatování a ovládání robotické ruky.
+- DeepMind popisuje Gato nejen jako transformátor, ale i jako inteligentního agenta.
+- Gato vznikl spojením transformátorů a pokroku v multiúlohovém posilovacím učení.
 title: Deepmind Gato
 ---
 

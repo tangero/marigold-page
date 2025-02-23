@@ -12,6 +12,13 @@ date: '2024-02-20'
 layout: post
 original_newsletter: "Patrickův newsletter #73: \U0001F973 Před branami všeobecné
   umělé inteligence...?"
+summary_points:
+- OpenAI představila Sora, AI nástroj generující minutová, hyperrealistická videa
+  z textu.
+- Sora využívá difuzní transformátor, inspirovaný LLM, pro zpracování a komprimaci
+  videodat.
+- Tréninková data Sory a technické detaily zůstávají nejasné, což vyvolává otázky.
+- Sora má potenciál ovlivnit filmový průmysl a vytvořit nové trhy.
 title: OpenAI Sora je nový model, který převádí text na video
 ---
 

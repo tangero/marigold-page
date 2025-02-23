@@ -8,6 +8,12 @@ categories:
 date: '2023-09-03'
 layout: post
 original_newsletter: 'Patrickův newsletter #67: Kdo jde kdo v AI?'
+summary_points:
+- ChatGPT Enterprise nabízí firemní verzi s pokročilými funkcemi a ochranou soukromí.
+- Neomezené používání GPT-4, šifrování dat a zákaz vývoje z dat zákazníků jsou klíčové.
+- Dohoda o ceně a možnost delších vstupů cílí na větší firemní klientelu.
+- Integrace s cloudovými úložišti a analýza firemních dat jsou potenciální budoucí
+  funkce.
 title: ChatGPT Enterprise bude umělá inteligence pro vaši firmu
 ---
 

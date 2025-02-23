@@ -11,6 +11,11 @@ date: '2022-05-15'
 layout: post
 original_newsletter: 'Patrickův newsletter #47: Internetizace války na Ukrajině a
   Muskova šaráda s Twitterem'
+summary_points:
+- Kniha Špicl páně 955 vyjde počátkem června na Světě knihy za 349 Kč.
+- Děj se odehrává roku 955, kdy se očekává druhý příchod Krista.
+- Evropu ohrožují útoky a král Oto ztrácí moc, zatímco Boleslav upevňuje Čechy.
+- České vojsko rozhodne o osudu Evropy, proroctví o trojí vládě Čech hraje roli.
 title: Špicl páně 955 těsně před vydáním
 ---
 

@@ -11,6 +11,12 @@ date: '2022-07-10'
 layout: post
 original_newsletter: 'Patrickův newsletter #50: Elon Musk stáhl nabídku koupě Twitteru
   i další kalhotky'
+summary_points:
+- Musk má dvojčata s Shivon Zilis, šéfkou Neuralinku, žádost o změnu jména schválil
+  soud.
+- Zilis je respektovaná odbornice na AI, pracovala s Muskem v OpenAI.
+- Musk reagoval na zprávu o dvojčatech tweetem o populační krizi.
+- Musk čelil obvinění ze sexuálního obtěžování a SpaceX platila odškodnění.
 title: '... našly se Muskova dvojčata...'
 ---
 

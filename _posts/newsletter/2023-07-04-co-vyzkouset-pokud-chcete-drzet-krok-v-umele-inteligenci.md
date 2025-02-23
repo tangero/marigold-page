@@ -9,6 +9,11 @@ date: '2023-07-04'
 layout: post
 original_newsletter: "Patrickův newsletter #64 \U0001F942 Jak Twitter padnul nezaplaceným
   účtem (a poslední AI dění)"
+summary_points:
+- AI chatbot úřadu odpovídá na běžné dotazy občanů, ale ostrý provoz je drahý.
+- Rows.com pomáhá s analýzou dat z excelových tabulek.
+- Knibble.ai a Nuclia.com analyzují nahrané dokumenty, ChatPDF analyzuje knihy.
+- 10web vytváří weby, Jit.codes generuje kód, stockimg.ai generuje grafiku.
 title: Co vyzkoušet, pokud chcete držet krok v umělé inteligenci?
 ---
 

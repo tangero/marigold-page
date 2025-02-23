@@ -11,6 +11,11 @@ date: '2023-10-08'
 layout: post
 original_newsletter: 'Patrickův newsletter #68: Kvantové počítače a jiné novinky u
   Apple'
+summary_points:
+- Dall-E 3 variuje obrázky na základě vstupu a bude integrován do ChatGPT v říjnu.
+- OpenAI očekává tržby miliardu dolarů a jedná o navýšení investic na 80-90 miliard.
+- Jony Ive spolupracuje s OpenAI na novém hardwaru, spekuluje se o novém smartphonu.
+- Rewind Pendant je přívěšek, který nahrává a přepisuje celodenní konverzace uživatele.
 title: 'Novinky v OpenAI: Dalle-E 3 a údajný nový hardware'
 ---
 

@@ -10,6 +10,12 @@ date: '2022-09-08'
 layout: post
 original_newsletter: 'Patrickův newsletter #54: Nové iPhony a Příběhy umělointeligenční
   chudoby'
+summary_points:
+- 'Apple Watch 8: Teplotní senzor pro sledování menstruace a ovulace, data šifrována.'
+- 'Gyroskop a akcelerometr: Detekce autonehody s automatickým kontaktováním záchranných
+  složek.'
+- 'Režim nízké spotřeby: Prodlouží výdrž baterie až na 36 hodin u Series 8.'
+- 'Apple Watch Ultra: Odolné hodinky pro sportovce s větším displejem a delší výdrží.'
 title: Apple Watch 8, Ultra a SE
 ---
 

@@ -12,10 +12,16 @@ date: '2022-09-08'
 layout: post
 original_newsletter: 'Patrickův newsletter #54: Nové iPhony a Příběhy umělointeligenční
   chudoby'
+summary_points:
+- USA zakázaly vývoz pokročilých AI čipů do Číny, dotkne se to Nvidia a AMD.
+- Hliníkové baterie se sírou jsou slibnou levnější alternativou k lithiovým.
+- iPhony pořídily tři biliony fotografií loni, stonásobek analogových fotoaparátů
+  1999.
+- Policie chce data mobilů kvůli vyšetřování požáru u Hřenska, sběr dat.
 title: Jednohubky
 ---
 
-  * **USA zakázaly vývoz pokročilých AI čipů do Číny** , omezení se dotkne především Nvidia a AMD. [Článek zde](https://money.usnews.com/investing/news/articles/2022-09-06/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes). 
+* **USA zakázaly vývoz pokročilých AI čipů do Číny** , omezení se dotkne především Nvidia a AMD. [Článek zde](https://money.usnews.com/investing/news/articles/2022-09-06/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes). 
 
   * Nastal čas **vyzkoušet baterie s hliníkem a sírou** \- slibnou levnější alternativu k ukládání energie. Tedy, o téhle technologii se [objevuje stále více zpráv](https://www.zmescience.com/science/news-science/new-aluminum-batteries-could-be-the-dirt-cheap-alternative-to-lithium-ion-that-weve-all-been-waiting-for/), snad je to kýžený průlom a ne kachna. 
 

@@ -9,6 +9,11 @@ categories:
 date: '2024-07-28'
 layout: post
 original_newsletter: '#80: Kyberkatastrofa Crowdstrike'
+summary_points:
+- UBI snížil individuální příjem o 1500 USD ročně a pracovní aktivitu.
+- UBI příjemci utráceli peníze za bydlení a podporu, méně za zdraví.
+- UBI zvýšil zájem o podnikání, mladí lidé se více vzdělávali.
+- Studie UBI neprokázala zlepšení kvality zaměstnání ani lidského kapitálu.
 title: "\U0001F4B0Jak dopadla studie Univerzálního základního příjmu"
 ---
 

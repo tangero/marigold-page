@@ -8,6 +8,9 @@ date: '2022-05-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #48: Špicl páně vyšel, na Apple novinky
   se čeká'
+summary_points:
+- 'Podcast Roku: Autor žádá o hlas pro Patrickův Podcast v anketě do 6. června.'
+- 'Kniha: Autorova kniha byla vydána v papírové podobě v pondělí.'
 title: Hlasování o Podcast roku 2022
 ---
 

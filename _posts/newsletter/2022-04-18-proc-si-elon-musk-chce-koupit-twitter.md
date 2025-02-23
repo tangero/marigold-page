@@ -11,6 +11,13 @@ date: '2022-04-18'
 layout: post
 original_newsletter: 'Patrickův newsletter #46: Proč si Elon Musk chce koupit Twitter?
   A jak dobrý je AI DALL-E 2?'
+summary_points:
+- Musk nabídl 43 miliard dolarů za Twitter, což představenstvo odmítá a brání se "jedovatou
+  pilulkou".
+- Musk chce Twitter stáhnout z burzy, prosazovat svobodu slova a zpřístupnit algoritmus.
+- Musk plánuje zpoplatnit ověřené účty a bojovat proti botům, ale nemá jasný obchodní
+  plán.
+- Musk by mohl využít Twitter k propagaci svých dalších firem a zvýšení jejich hodnoty.
 title: Proč si Elon Musk chce koupit Twitter?
 ---
 

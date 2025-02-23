@@ -10,6 +10,13 @@ date: '2023-08-13'
 layout: post
 original_newsletter: 'Patrickův newsletter #66: Potíže s průlomovými změnami prostřednictvím
   AI'
+summary_points:
+- AI implementace nemusí automaticky zvýšit produktivitu, implementační rizika nejsou
+  jediný problém.
+- Sociální sítě s AI algoritmy pro doporučování témat snižují produktivitu uživatelů.
+- Automatizace s AI může snížit produktivitu i v obchodních dohodách kvůli lidské
+  libovůli.
+- Strojový čas a energie potřebné pro AI komunikaci mohou snížit celkovou produktivitu.
 title: AI nemusí produktivitu jen zvýšit, ale i snížit
 ---
 

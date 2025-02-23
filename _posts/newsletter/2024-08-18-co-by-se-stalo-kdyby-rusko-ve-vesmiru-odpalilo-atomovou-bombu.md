@@ -7,6 +7,11 @@ categories:
 date: '2024-08-18'
 layout: post
 original_newsletter: "#81: \U0001FA93Jak rozbít Google a zachránit trh"
+summary_points:
+- Rusko umístilo do vesmíru satelit schopný zničit mnoho obíhajících satelitů.
+- Zničení satelitů by způsobilo pád trosek na Zemi a znehodnotilo část oběžné dráhy.
+- Výpadek satelitů by ovlivnil internet, vojenské systémy a další technologie.
+- Rusku může destrukce oběžné dráhy dávat smysl kvůli omezeným kosmickým technologiím.
 title: Co by se stalo, kdyby Rusko ve vesmíru odpálilo atomovou bombu?
 ---
 

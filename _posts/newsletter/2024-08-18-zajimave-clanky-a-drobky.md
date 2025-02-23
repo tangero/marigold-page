@@ -7,6 +7,11 @@ categories:
 date: '2024-08-18'
 layout: post
 original_newsletter: "#81: \U0001FA93Jak rozbít Google a zachránit trh"
+summary_points:
+- Mac Mini s M4 bude menší, velikostně odpovídat Apple TV a ve dvou verzích.
+- Zakladatelé Fitbitu vyvinuli populární fitness tracker, článek popisuje vývoj hardware.
+- Andrew Ng nabízí čtyřhodinový kurz Pythonu s AI pro začátečníky.
+- USA se staly největším těžařem fosilních paliv za Bidenovy administrativy.
 title: "\U0001F35EZajímavé články a drobky"
 ---
 

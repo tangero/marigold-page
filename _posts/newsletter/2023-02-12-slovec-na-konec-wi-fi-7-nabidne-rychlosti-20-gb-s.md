@@ -7,6 +7,12 @@ date: '2023-02-12'
 layout: post
 original_newsletter: "Patrickův newsletter #63 \U0001F916 Naděje roku: procesory RISC-V
   a hromada AI novinek"
+summary_points:
+- Wi-Fi 7 čipy dosahují rychlosti až 20 Gb/s, teoreticky až 46 Gb/s.
+- Šířka pásma Wi-Fi 7 je 320 MHz, což je dvojnásobek oproti Wi-Fi 6E.
+- Multi-Link Operation (MLO) umožňuje Wi-Fi 7 zařízením současné připojení ke dvěma
+  spektrům.
+- Newsletter o Wi-Fi 7 byl rozeslán na 2788 odběratelů.
 title: "\U0001F578️Slovec na konec: Wi-Fi 7 nabídne rychlosti 20 Gb/s"
 ---
 

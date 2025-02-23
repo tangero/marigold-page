@@ -10,6 +10,11 @@ date: '2024-06-02'
 layout: post
 original_newsletter: "#77: Jak se USA \U0001F1FA\U0001F1F8 snaží dosáhnout polovodičové
   převahy nad Čínou \U0001F1E8\U0001F1F3"
+summary_points:
+- Čína investuje do nových odvětví kvůli zpomalení růstu, což vyvolává ochranářství
+  USA/EU.
+- Čína přesouvá výrobu a posiluje vliv v rozvojových zemích, což je riskantní strategie.
+- Marxistická perspektiva vidí pád říší v nadměrném vykořisťování lidu vládnoucí třídou.
 title: "\U0001F1E8\U0001F1F3Okénko do Číny: je to průmyslový hazard?"
 ---
 

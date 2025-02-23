@@ -10,6 +10,11 @@ date: '2023-01-09'
 layout: post
 original_newsletter: 'Patrickův newsletter #62: Technologie roku? Generativní umělá
   inteligence!'
+summary_points:
+- Wi-Fi 7 čipy umožňují routery s rychlostí až 20 Gb/s, teoreticky až 46 Gb/s.
+- Šířka pásma Wi-Fi 7 dosahuje 320 MHz, což je dvojnásobek oproti Wi-Fi 6E.
+- Multi-Link Operation (MLO) v Wi-Fi 7 umožňuje současné připojení ke dvěma spektrům.
+- Wi-Fi 7 je obchodní název pro standard IEEE 802.11be.
 title: Wi-Fi 7 nabídne rychlosti 20 Gb/s
 ---
 

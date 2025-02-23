@@ -10,6 +10,12 @@ date: '2022-11-27'
 layout: post
 original_newsletter: 'Patrickův newsletter #59: moje kniha v prodeji. A o krizi efektivního
   altruismu vinou krachu kryptoburzy FTX'
+summary_points:
+- Musk chaoticky, ale agilně vyvíjí Twitter, testuje novinky a reaguje na jejich úspěšnost.
+- Propouštění na Twitteru snížilo počet zaměstnanců z 7500 na 2700, nyní firma nabírá
+  inženýry.
+- Twitter dluží miliardu dolarů, Musk se snaží o brutální ořez nákladů a zvýšení příjmů.
+- Musk ujistil zaměstnance, že propouštění skončilo a Twitter nabírá nové lidi.
 title: Elon Musk řádí v Twitteru
 ---
 

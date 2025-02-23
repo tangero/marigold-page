@@ -10,6 +10,12 @@ categories:
 date: '2024-07-28'
 layout: post
 original_newsletter: '#80: Kyberkatastrofa Crowdstrike'
+summary_points:
+- Národní strategie UI 2030 v ČR administrativně plní cíle, ale fakticky zaostává.
+- Strava zkoumá AI pro odhalování podvodů v žebříčcích fitness aktivit.
+- Americké státy zavádějí ověřování věku na porno webech, vyvolává to debaty.
+- Elon Musk má spor s transgender dcerou kvůli její identitě a jeho postojům.
+- Kniha Patogeneze zkoumá vliv osmi epidemií na světové dějiny.
 title: "\U0001F9D1‍\U0001F4BBDrobnější společenská témata ze světa techniky"
 ---
 

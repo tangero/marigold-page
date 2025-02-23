@@ -11,6 +11,11 @@ categories:
 date: '2024-03-23'
 layout: post
 original_newsletter: '#74: Apple vyměnilo auta za AI'
+summary_points:
+- Workshopy ukazují firmám dopad AI, včetně propouštění zaměstnanců nahrazených AI.
+- Důležitá je vnitřní připravenost firem, zejména datové sklady a procesy.
+- Firmy nejvíce zajímají konkrétní AI nástroje a jejich praktické využití.
+- Roste poptávka po programátorských firmách specializovaných na AI řešení.
 title: "\U0001F1E8\U0001F1FF AI v českých firmách"
 ---
 

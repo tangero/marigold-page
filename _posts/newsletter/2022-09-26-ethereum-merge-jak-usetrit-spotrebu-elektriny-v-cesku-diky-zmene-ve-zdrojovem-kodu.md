@@ -11,6 +11,11 @@ date: '2022-09-26'
 layout: post
 original_newsletter: 'Patrickův newsletter #55: Zastupitel a Ethereum Merge: jak ušetřit
   spotřebu elektřiny v Česku díky změně ve zdrojovém kódu'
+summary_points:
+- Putin podnítil hledání alternativních zdrojů energie.
+- Ethereum Merge převedlo ověřování plateb na Proof of Stake.
+- Proof of Stake snižuje energetickou náročnost ověřování transakcí.
+- Centralizace ověřování a pokles hodnoty krypta jsou problémy.
 title: 'Ethereum Merge: jak ušetřit spotřebu elektřiny v Česku díky změně ve zdrojovém
   kódu'
 ---

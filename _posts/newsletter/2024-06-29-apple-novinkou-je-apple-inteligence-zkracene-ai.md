@@ -13,6 +13,11 @@ categories:
 date: '2024-06-29'
 layout: post
 original_newsletter: "#78: Letní dávka AI čili Apple Inteligence \U0001F607"
+summary_points:
+- Apple představil Apple Intelligence, integraci AI do svých zařízení s pomocí OpenAI.
+- Apple klade důraz na užitečnost, snadné použití, integraci a personalizaci AI.
+- Soukromí dat je klíčové, Apple se poučil z chyb Microsoftu a Adobe.
+- AI funkce od Apple nebudou v EU dostupné kvůli legislativě a sporům.
 title: Apple novinkou je Apple Inteligence, zkráceně AI
 ---
 

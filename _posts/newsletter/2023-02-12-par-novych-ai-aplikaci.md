@@ -12,6 +12,11 @@ date: '2023-02-12'
 layout: post
 original_newsletter: "Patrickův newsletter #63 \U0001F916 Naděje roku: procesory RISC-V
   a hromada AI novinek"
+summary_points:
+- Stockimg.ai generuje loga, obálky knih a užitnou grafiku.
+- Usechannel analyzuje data z databáze pomocí anglických dotazů bez SQL.
+- Papercup rychle nadabuje videa pomocí umělé inteligence.
+- Youtube Summary Plugin shrnuje dlouhá výuková videa pomocí ChatGPT.
 title: "\U0001F916Pár nových AI aplikací"
 ---
 

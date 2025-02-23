@@ -12,6 +12,11 @@ date: '2024-02-20'
 layout: post
 original_newsletter: "Patrickův newsletter #73: \U0001F973 Před branami všeobecné
   umělé inteligence...?"
+summary_points:
+- AI čipy zažívají obrovskou poptávku, Nvidia nestíhá a Meta utrácí miliardy.
+- Masajoši San shání 100 miliard dolarů na projekt Izanagi, konkurenci Nvidii.
+- Čína rekordně nakupuje vybavení na výrobu polovodičů, obchází tak americké embargo.
+- Obchodní válka USA a Číny stupňuje výdaje a omezuje obchod.
 title: Všichni shánějí peníze na čipy
 ---
 

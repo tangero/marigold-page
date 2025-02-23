@@ -7,6 +7,12 @@ categories:
 date: '2022-03-20'
 layout: post
 original_newsletter: '#44: Drony na Ukrajině, RePowerEU změny i novoroční detox'
+summary_points:
+- Ukrajina využívá civilní drony DJI pro rychlý přehled o bojišti a tvorbu map.
+- Drony slouží i k dokumentaci ruských zvěrstev, stovky jich používají dobrovolníci.
+- Rusko používá systém Aeroscope k zaměření operátorů dronů a následné dělostřelecké
+  palbě.
+- Ukrajina žádá DJI o znemožnění lokalizace dronů, zatím bez oficiální odezvy.
 title: Drony v Ukrajinské válce
 ---
 

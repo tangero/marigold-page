@@ -13,6 +13,15 @@ date: '2022-10-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #57: Musk nakonec koupil Twitter a všechny
   povyházel'
+summary_points:
+- Zandl byl zvolen neuvolněným místostarostou Brandýsa nad Labem-Staré Boleslavi se
+  zaměřením na majetek, firmy a energetiku.
+- První týden ve funkci místostarosty byl velmi náročný, vyžadoval si volno z běžného
+  zaměstnání.
+- Místostarosta se rozhodl pro tuto pozici, aby vrátil společnosti to, co mu bylo
+  dáno.
+- Víkend strávil přechodem Lužických hor, což mu poskytlo odpočinek od pracovního
+  frmolu.
 title: První místostarostenský týden
 ---
 

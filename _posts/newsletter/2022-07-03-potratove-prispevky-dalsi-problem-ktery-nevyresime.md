@@ -10,6 +10,15 @@ date: '2022-07-03'
 layout: post
 original_newsletter: 'Patrickův newsletter #49: stále neprodaný Twitter a příliš mnoho
   potratových receptů'
+summary_points:
+- Nejvyšší soud USA zrušil právo na potrat, čímž umožnil státům regulovat potratovou
+  politiku.
+- Sociální sítě zaplavily videa s nebezpečnými radami na vyvolání potratu po rozhodnutí
+  soudu.
+- Zdravotníci varují před toxickými bylinkami doporučovanými k potratu, které jsou
+  zdraví nebezpečné.
+- Jednoduchá řešení složitých problémů, jako je potrat, nikdy nefungovala, jen to
+  nebylo vidět.
 title: 'Potratové příspěvky: další problém, který nevyřešíme'
 ---
 

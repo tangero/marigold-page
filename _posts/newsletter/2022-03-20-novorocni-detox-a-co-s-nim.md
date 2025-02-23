@@ -10,6 +10,11 @@ categories:
 date: '2022-03-20'
 layout: post
 original_newsletter: '#44: Drony na Ukrajině, RePowerEU změny i novoroční detox'
+summary_points:
+- Digitální detox zahrnuje měsíční používání Nokia 8110 namísto iPhonu.
+- Detox odhalil negativní vliv digitálních zařízení na soustředění.
+- Autor zrušil Twitter a přestal nosit Apple Watch kvůli notifikacím.
+- Pro sledování zdraví zvolil hodinky Withings Scanwatch s vypnutými notifikacemi.
 title: Novoroční detox a co s ním
 ---
 

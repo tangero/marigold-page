@@ -10,6 +10,11 @@ categories:
 date: '2024-10-31'
 layout: post
 original_newsletter: "#84 \U0001F47D Vliv mimozemšťanů na AI"
+summary_points:
+- Apple tento týden představuje novinky, včetně iMacu a Mac Mini s procesory M4.
+- Mac Mini má redukované rozměry a procesory M4 nebo M4 Pro.
+- Macbook Pro je nově vybaven procesory M4 Pro nebo M4 Max.
+- iOS 18.1 a iPadOS 18.1 s AI jsou pro USA, Evropa v angličtině duben 2025.
 title: "\U0001F9D1‍\U0001F4BB Apple má týden novinek"
 ---
 

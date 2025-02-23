@@ -8,6 +8,11 @@ date: '2024-05-01'
 layout: post
 original_newsletter: '#75: Jak na zápisy ze schůzek a porad pomocí AI aplikací (plus
   Tesla a Apple novinky)'
+summary_points:
+- Musk jednal v Číně o povolení plného provozu autonomního řízení FSD pro Tesly.
+- Tesla získá pro FSD v Číně datové podklady od společnosti Baidu.
+- Čínské zákony brání Tesle v přenosu dat o řízení do zahraničí.
+- Tesla Model Y a 3 splňují čínské požadavky na zabezpečení dat.
 title: "\U0001F698 Tesla získala příslib spuštění FSD v Číně"
 ---
 

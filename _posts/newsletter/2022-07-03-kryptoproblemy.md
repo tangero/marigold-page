@@ -8,6 +8,12 @@ date: '2022-07-03'
 layout: post
 original_newsletter: 'Patrickův newsletter #49: stále neprodaný Twitter a příliš mnoho
   potratových receptů'
+summary_points:
+- Bitcoin od začátku roku klesl o 60 %, Solana o 80 %, kryptoburzy krachují.
+- Krypto-zima je nový termín pro delší pokles kryptoměn, ale problémy má i ekonomika.
+- Akcie firem jako GameStop, Netflix a Meta zaznamenaly velké propady srovnatelné
+  s Bitcoinem.
+- Investoři by se kryptu měli vyhýbat, atmosféra je zjitřená a komunita netolerantní.
 title: Kryptoproblémy
 ---
 

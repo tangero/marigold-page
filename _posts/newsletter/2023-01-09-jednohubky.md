@@ -11,10 +11,15 @@ date: '2023-01-09'
 layout: post
 original_newsletter: 'Patrickův newsletter #62: Technologie roku? Generativní umělá
   inteligence!'
+summary_points:
+- Alexa možná skončí, protože hlasoví asistenti s AI nesplnili očekávání.
+- Meta čelí tlaku EU, což signalizuje konec cílené reklamy.
+- Kniha Mýty a naděje digitálního světa získala pozitivní recenzi.
+- Schwarzenegger nabízí denní newsletter o zdravém životním stylu.
 title: Jednohubky
 ---
 
-  * Eva Pavlíková - [Otužování je můj největší objev v roce 2022](https://evapavlikova.substack.com/p/otuzovani-je-muj-nejvetsi-objev-v).
+* Eva Pavlíková - [Otužování je můj největší objev v roce 2022](https://evapavlikova.substack.com/p/otuzovani-je-muj-nejvetsi-objev-v).
 
   * **[Amazon potřebuje zabít Alexu a opustit trh Echo zařízení](https://www.thestreet.com/retailers/amazon-needs-to-kill-alexa-maybe-exit-echo-devices)** \- dost kontroverzní článek o tom, že Alexa nemá výsledky. Internetový maloobchodní gigant měl v plánu vlastnit váš obývací pokoj. Nevyšlo to, protože hlasoví asistenti s umělou inteligencí nefungují. Samotného mě to překvapuje, kdysi jsem čekal více, ale asi je to také důvod, proč do trhu příliš nešlape Apple. 
 

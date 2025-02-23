@@ -11,6 +11,15 @@ date: '2022-04-18'
 layout: post
 original_newsletter: 'Patrickův newsletter #46: Proč si Elon Musk chce koupit Twitter?
   A jak dobrý je AI DALL-E 2?'
+summary_points:
+- DALL-E 2 je pokročilejší AI pro tvorbu fotorealistických obrázků z textu a jejich
+  modifikaci.
+- Difuzní model, inpainting a variace jsou klíčová vylepšení DALL-E 2 oproti předchozí
+  verzi.
+- DALL-E 2 je v testovací fázi s omezeným přístupem a přísnými pravidly pro generovaný
+  obsah.
+- Google považuje obsah generovaný AI za spam a OpenAI řeší optimalizaci cílů dle
+  Goodhartova zákona.
 title: Nový Dall-E 2 umí vytvářet fotorealistické obrázky podle textového zadání
 ---
 
@@ -34,4 +43,4 @@ DALL-E 2 zatím běží na hostované platformě, což je testovací prostředí
 
 Společnost Google nedávno veřejně prohlásila, že obsah generovaný umělou inteligencí je v rozporu s jejími pokyny a bude považován jako druh spamu, jak uvádí Search Engine Journal. Není také jasné, jak by Google poznal, že je obsah generován umělou inteligencí, ať už v textu, nebo obrázcích, ale je zřejmé, že kvůli trénování modelů se tímto problémem Google bude muset významně zabývat. Jinak si totiž trénink modelů poškodí a zavleče si do modelů předsudky. 
 
-A když už půjdete na blog OpenAI, přečtěte si i poslední článek ["Měření Goodhartova zákona"](https://openai.com/blog/measuring-goodharts-law/). Goodhartův zákon říká: "Když se měření stane cílem, přestává být dobrým měřením." Ačkoli pochází z ekonomie, je to něco, s čím se musí potýkat v OpenAI, když vymýšlí, jak optimalizovat cíle, které je obtížné nebo nákladné měřit. Často je nutné zavést nějaký zástupný cíl, který je snadněji nebo levněji měřitelný, ale když se to udělá, je nutné dát pozor, abychom ho neoptimalizovali příliš... (článek mi mluví z duše). 
+A když už půjdete na blog OpenAI, přečtěte si i poslední článek ["Měření Goodhartova zákona"](https://openai.com/blog/measuring-goodharts-law/). Goodhartův zákon říká: "Když se měření stane cílem, přestává být dobrým měřením." Ačkoli pochází z ekonomie, je to něco, s čím se musí potýkat v OpenAI, když vymýšlí, jak optimalizovat cíle, které je obtížné nebo nákladné měřit. Často je nutné zavést nějaký zástupný cíl, který je snadněji nebo levněji měřitelný, ale když se to udělá, je nutné dát pozor, abychom ho neoptimalizovali příliš... (článek mi mluví z duše).

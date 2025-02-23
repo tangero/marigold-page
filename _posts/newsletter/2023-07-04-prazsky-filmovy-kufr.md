@@ -7,6 +7,10 @@ date: '2023-07-04'
 layout: post
 original_newsletter: "Patrickův newsletter #64 \U0001F942 Jak Twitter padnul nezaplaceným
   účtem (a poslední AI dění)"
+summary_points:
+- Pražský filmový kufr je festival dětských a mládežnických filmů.
+- Festival se potýká s nedostatkem financí a hledá dárce.
+- Autor doporučuje poslat na festival děti a zvážit finanční podporu.
 title: Pražský filmový kufr
 ---
 

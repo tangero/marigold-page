@@ -12,6 +12,8 @@ date: '2022-07-27'
 layout: post
 original_newsletter: '#51: O sebemotivaci a také o tom, jak Huawei může narušit kritickou
   komunikaci strategického velení USA'
+summary_points:
+- WS
 title: Měl Elon Musk sex s manželkou zakladatele Google?
 ---
 

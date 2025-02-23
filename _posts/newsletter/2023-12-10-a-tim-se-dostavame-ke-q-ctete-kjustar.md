@@ -9,6 +9,11 @@ date: '2023-12-10'
 layout: post
 original_newsletter: 'Patrickův newsletter #71: Za tajemstvím rozkladu světa prostřednictvím
   Qstar'
+summary_points:
+- Altman před odvoláním naznačil přelomový AI produkt Q*, který se sám učí.
+- Generativní AI rychle nahrazuje juniorní pozice v grafice, žurnalistice a dabingu.
+- Automatizace ohrožuje středně vzdělané pracovníky, podobně jako stroje tkalce.
+- Politická reprezentace dělnictva v USA a ČR oslabila, což využilo ANO.
 title: A tím se dostáváme ke Q*, čtěte kjůstár
 ---
 

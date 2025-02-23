@@ -10,6 +10,11 @@ date: '2023-08-13'
 layout: post
 original_newsletter: 'Patrickův newsletter #66: Potíže s průlomovými změnami prostřednictvím
   AI'
+summary_points:
+- Průmyslová revoluce vznikla v Británii díky specifickým socioekonomickým podmínkám.
+- Otevřenost společnosti nemusí být vždy výhodou pro dlouhodobý růst inovací.
+- Regulace a nedůvěra zpomalí pronikání umělé inteligence do podnikání.
+- Některé státy mohou odmítnout umělou inteligenci kvůli potenciálním škodám.
 title: Socioekonomické a regulatorní překážky
 ---
 

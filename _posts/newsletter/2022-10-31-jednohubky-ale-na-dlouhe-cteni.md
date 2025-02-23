@@ -7,6 +7,11 @@ date: '2022-10-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #57: Musk nakonec koupil Twitter a všechny
   povyházel'
+summary_points:
+- IG Farben rozdělení firmy podpořilo inovace, dokládá Felix Poege z Bostonské univerzity.
+- Koncentrace podniků v USA za 100 let trvale rostla, uvádí studie.
+- Rostoucí koncentrace firem souvisí s investicemi do výzkumu, vývoje a IT.
+- Vyšší koncentrace v odvětví vykazuje také vyšší růst produkce.
 title: Jednohubky (ale na dlouhé čtení)
 ---
 

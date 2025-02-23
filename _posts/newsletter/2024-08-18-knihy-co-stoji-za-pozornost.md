@@ -10,6 +10,15 @@ categories:
 date: '2024-08-18'
 layout: post
 original_newsletter: "#81: \U0001FA93Jak rozbít Google a zachránit trh"
+summary_points:
+- Pathogenesis zkoumá vliv epidemií na historické události a argumentuje významnou
+  rolí infekcí.
+- Rethinking the Economics of Land analyzuje vztah pozemků ke krizi bydlení a finanční
+  nestabilitě.
+- Umění skončit od Annie Duke radí, kdy a jak ukončit aktivity v osobním i firemním
+  životě.
+- How China Escaped the Poverty Trap vysvětluje, jak Čína unikla pasti chudoby adaptivním
+  řízením.
 title: "\U0001F4D7Knihy, co stojí za pozornost"
 ---
 

@@ -11,6 +11,11 @@ date: '2024-10-06'
 layout: post
 original_newsletter: "#83 \U0001F353OpenAI představila jahodovou inteligenci o1 a
   Canvas"
+summary_points:
+- Hedra AI tvoří videa mluvících hlav z fotky a textu, ideální pro video podcasty.
+- Solvely AI pomáhá s domácími úkoly, vstup v češtině, výstup anglicky.
+- Filmora je software pro střih videa na MacOS s pomocí AI.
+- ReadPartner sumarizuje články, dokumenty i videa, zdarma, ale ne česky.
 title: "\U0001F4A1Nové služby, které byste nemuseli minout"
 ---
 

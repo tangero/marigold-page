@@ -9,6 +9,11 @@ date: '2022-07-10'
 layout: post
 original_newsletter: 'Patrickův newsletter #50: Elon Musk stáhl nabídku koupě Twitteru
   i další kalhotky'
+summary_points:
+- Tesla zpřístupní síť Superchargerů v USA i pro elektromobily jiných značek.
+- Bílý dům oznámil dohodu Tesly s americkou vládou ohledně Superchargerů.
+- Superchargery v USA budou osazeny koncovkami CCS a Chademo kvůli kompatibilitě.
+- Evropské a americké CCS koncovky se liší, proto jsou nutné úpravy pro USA.
 title: '... a Tesla v USA zpřístupní superchargery'
 ---
 

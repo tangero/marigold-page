@@ -8,6 +8,11 @@ date: '2022-08-07'
 layout: post
 original_newsletter: 'Patrickův newsletter #52: Facebook bude muset stáhnout své služby
   z EU - a k čemu bude Amazonu iRobot?'
+summary_points:
+- Hubermanovy podcasty biochemicky rozebírají dopamin, jeho vliv na motivaci a prevenci
+  závislostí.
+- Kniha "Vymezte si své hranice" pomáhá nastavit hranice pro rovnováhu a lepší vztahy.
+- Deník N publikoval článek o Uberu a jeho kontroverzním vlivu na taxikářské mafie.
 title: Odezvy na sebemotivaci a vymezování hranic
 ---
 

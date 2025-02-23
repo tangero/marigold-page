@@ -12,6 +12,13 @@ date: '2024-10-06'
 layout: post
 original_newsletter: "#83 \U0001F353OpenAI představila jahodovou inteligenci o1 a
   Canvas"
+summary_points:
+- Ebook Technoelity vznikne, pokud si jej předobjedná alespoň 80 lidí za 200 Kč.
+- Autor doporučuje psychoterapeutku Gabrielu Horákovou-Bohmovou, která se přestěhovala
+  do Prahy.
+- Autor nabízí firmám workshop o dopadu umělé inteligence, včetně SWOT analýzy.
+- Autor se věnuje psaní o umění na Twitteru, aby se vyhnul horkokrevným politickým
+  komentářům.
 title: "\U0001F4D5Ebook Technoelity - Když příliš málo určuje příliš mnoho"
 ---
 

@@ -14,6 +14,14 @@ date: '2022-04-02'
 layout: post
 original_newsletter: 'Patrickův newsletter #45: Přenositelnost kecálků a německý exportní
   model '
+summary_points:
+- DMA reguluje velké online platformy, takzvané "strážce brány" s obratem nad 8 miliard
+  eur.
+- DMA nařizuje interoperabilitu messengerů, odinstalaci předinstalovaných aplikací
+  a přenositelnost dat.
+- Pokuty za porušení DMA dosahují až 20 % celosvětového obratu společnosti.
+- Apple a Google kritizují DMA kvůli obavám o bezpečnost, inovace a ochranu duševního
+  vlastnictví.
 title: Zprávy půjde posílat mezi Instant Messagingovými službami, nakazuje EU DMA
 ---
 
@@ -66,4 +74,4 @@ Apple se odvolává na bezpečnost a ochranu intelektuálního vlastnictví: "n�
 
 Eurounijní studie dopadů najdete [zalinkované v tomto PDF](https://www.europarl.europa.eu/RegData/etudes/BRIE/2022/703347/IPOL_BRI\(2022\)703347_EN.pdf). 
 
-DMA budu nadále sledovat, je to důležité téma. 
+DMA budu nadále sledovat, je to důležité téma.

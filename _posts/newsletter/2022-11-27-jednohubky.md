@@ -14,6 +14,13 @@ date: '2022-11-27'
 layout: post
 original_newsletter: 'Patrickův newsletter #59: moje kniha v prodeji. A o krizi efektivního
   altruismu vinou krachu kryptoburzy FTX'
+summary_points:
+- Klimecký spustil newsletter Myšleno výživně se dvěma články o pohybu a tucích.
+- Stable Diffusion 2 přináší vnímání hloubky, zvýšení rozlišení a lepší kvalitu obrazu.
+- Meta AI vytvořila Cicero, AI hrající Diplomacii na lidské úrovni pomocí sociálních
+  dovedností.
+- Microsoft a Activision Blizzard čelí antimonopolní žalobě kvůli fúzi za 69 miliard
+  dolarů.
 title: Jednohubky
 ---
 

@@ -10,6 +10,13 @@ categories:
 date: '2024-07-28'
 layout: post
 original_newsletter: '#80: Kyberkatastrofa Crowdstrike'
+summary_points:
+- OpenAI GPT-4o mini je o 60 % levnější než GPT-3,5 Turbo.
+- Meta vydala Llama 3.1, open-source model s kontextem 128k a 405 miliardami parametrů.
+- Mistral Large 2, model s 123B parametry, konkuruje Llama 3.1 v generování kódu a
+  matematice.
+- Mistral dosahuje s menšími modely srovnatelných výsledků jako Llama, což snižuje
+  provozní náklady.
 title: "\U0001F916 Nové představené LLM modely - hustý týden"
 ---
 

@@ -14,6 +14,13 @@ date: '2024-06-02'
 layout: post
 original_newsletter: "#77: Jak se USA \U0001F1FA\U0001F1F8 snaží dosáhnout polovodičové
   převahy nad Čínou \U0001F1E8\U0001F1F3"
+summary_points:
+- Moonshot označuje ambiciózní technologický projekt, například posílení amerického
+  polovodičového průmyslu.
+- NSTC, Národní technologické centrum pro polovodiče, má využít 11 miliard dolarů
+  na výzkum.
+- Tržní síly samy o sobě nestačí k dynamickému rozvoji polovodičového průmyslu v USA.
+- USA se snaží o vědecko-technický průlom v polovodičích pro zajištění dominance.
 title: "\U0001F1E8\U0001F1F3\U0001F1FA\U0001F1F8O čínsko-americkém soupeření: jak
   zopakovat \"moonshot\" s polovodiči?"
 ---

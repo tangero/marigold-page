@@ -8,6 +8,13 @@ categories:
 date: '2023-09-03'
 layout: post
 original_newsletter: 'Patrickův newsletter #67: Kdo jde kdo v AI?'
+summary_points:
+- Český přístup k AI ve školství je restriktivní, preferuje memorování a samostatné
+  myšlení.
+- OpenAI doporučuje pedagogům prozkoumat AI a formulovat vlastní zásady používání.
+- Detektory AI nejsou spolehlivé, OpenAI doporučuje ověřovat práci studentů skrze
+  konverzace.
+- AI se využívá ve vzdělávání, plánování cest, výuce jazyků a generování receptů.
 title: OpenAI vydala příručku pro učitele
 ---
 

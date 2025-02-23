@@ -10,6 +10,11 @@ date: '2022-07-27'
 layout: post
 original_newsletter: '#51: O sebemotivaci a také o tom, jak Huawei může narušit kritickou
   komunikaci strategického velení USA'
+summary_points:
+- Google dodává Izraeli AI nástroje pro sledování a analýzu dat v rámci Projektu Nimbus.
+- Projekt Nimbus posiluje izraelskou schopnost sledovat a kontrolovat Palestince.
+- Izrael již dříve využil AI pro sledování Palestinců, například program Blue Wolf.
+- Zaměstnanci Googlu vyjadřují nesouhlas s podílením se na vývoji sledovacího softwaru.
 title: Google dodává Izraeli šmírovací cloud
 ---
 

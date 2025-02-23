@@ -13,6 +13,13 @@ date: '2022-12-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #61: Roky změn nemáme za sebou, ale před
   sebou... '
+summary_points:
+- Kapitalismus transformuje společnost technologiemi, ale cílem je spíše zisk než
+  vědomý účel.
+- Současný kapitalismus vykazuje socialistické prvky, například benefity pro intelektuální
+  pracovníky.
+- Práce se dělí na nejistý prekariát a privilegované intelektuální pracovníky s benefity.
+- Budoucnost vyžaduje kreativní překonání rozporů, kombinaci recyklace a omezení spotřeby.
 title: Společnost na rozcestí
 ---
 

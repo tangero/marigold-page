@@ -7,6 +7,11 @@ categories:
 date: '2024-03-23'
 layout: post
 original_newsletter: '#74: Apple vyměnilo auta za AI'
+summary_points:
+- Reddit vstoupil na burzu s tickerem RDDT a akcie posílily o 48 %.
+- Ziskovost Redditu ohrožuje ztráta 90 milionů dolarů i přes 800 milionů z reklamy.
+- Reddit chce růst prodejem dat pro trénink LLM modelů.
+- Uživatelé Redditu nesouhlasí s využitím jejich obsahu pro trénink AI.
 title: Reddit je na burze a prodá data do cizí AI
 ---
 

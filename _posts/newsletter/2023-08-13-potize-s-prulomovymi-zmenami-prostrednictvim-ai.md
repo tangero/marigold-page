@@ -9,6 +9,14 @@ date: '2023-08-13'
 layout: post
 original_newsletter: 'Patrickův newsletter #66: Potíže s průlomovými změnami prostřednictvím
   AI'
+summary_points:
+- AI potenciálně nastartuje technologickou transformaci a ekonomiku, pokud nebude
+  limitována.
+- Transformace spočívá v násobném zvýšení produktivity práce a změně pracovních i
+  sociálních zvyklostí.
+- Použití AI ke zvýšení produktivity je pravděpodobné, pokud bude taková možnost existovat.
+- Obecná umělá inteligence (AGI) není dostupná a současná AI má omezené uplatnění
+  pro různé úlohy.
 title: Potíže s průlomovými změnami prostřednictvím AI
 ---
 

@@ -13,6 +13,15 @@ categories:
 date: '2024-08-18'
 layout: post
 original_newsletter: "#81: \U0001FA93Jak rozbít Google a zachránit trh"
+summary_points:
+- Google čelí možnému rozdělení od amerického ministerstva spravedlnosti kvůli monopolizaci
+  online vyhledávání.
+- Android a Chrome jsou nejpravděpodobnějšími kandidáty na nucený odprodej v případě
+  rozdělení Googlu.
+- Rozdělení Bell Systems v 80. letech vedlo k nárůstu inovací a konkurenceschopnosti
+  v telekomunikacích.
+- Rozdělení monopolů by mělo být zvažováno opatrně, s ohledem na vysoké náklady a
+  dlouhodobé dopady.
 title: "\U0001FA93Rozdělí se Google?"
 ---
 

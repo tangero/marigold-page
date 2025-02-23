@@ -6,6 +6,11 @@ date: '2022-12-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #61: Roky změn nemáme za sebou, ale před
   sebou... '
+summary_points:
+- Rok 2022 byl pro autora i ostatní náročný, podobně jako roky budoucí.
+- Autor se s rokem loučí úvodem z knihy Mýty a naděje digitálního světa.
+- Původní název knihy Digitální kapitál byl intelektuální, ale změněn.
+- Úvod knihy byl přepsán, aby byl chytlavější a nebral tolik naději.
 title: Všechno nejlepší do roku 2023
 ---
 

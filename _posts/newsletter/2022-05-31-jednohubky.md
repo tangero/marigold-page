@@ -11,6 +11,12 @@ date: '2022-05-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #48: Špicl páně vyšel, na Apple novinky
   se čeká'
+summary_points:
+- Twitter dostal pokutu 150 milionů dolarů za zneužití telefonních čísel pro reklamu.
+- Čínští výzkumníci navrhují zničení satelitní sítě Starlink v případě války.
+- Data z aplikací pro sledování periody mohou být zneužita.
+- Meta zpřístupňuje jazykový model OPT s detailními informacemi o trénování.
+- Čínské automobilky porážejí světové značky v prodeji elektrovozů.
 title: Jednohubky
 ---
 

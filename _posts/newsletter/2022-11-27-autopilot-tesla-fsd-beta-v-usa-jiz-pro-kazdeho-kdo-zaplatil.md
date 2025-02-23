@@ -8,6 +8,13 @@ date: '2022-11-27'
 layout: post
 original_newsletter: 'Patrickův newsletter #59: moje kniha v prodeji. A o krizi efektivního
   altruismu vinou krachu kryptoburzy FTX'
+summary_points:
+- Full Self-Driving beta je dostupná všem platícím zákazníkům v Severní Americe.
+- Dříve byl přístup do beta verze podmíněn bezpečnostním skóre a ujetím 100 mil s
+  Autopilotem.
+- Full Self-Driving stojí 15 000 dolarů jednorázově nebo 199 dolarů měsíčně.
+- Tesla usiluje o to, aby se její dobíjecí standard stal severoamerickým veřejným
+  standardem.
 title: Autopilot Tesla FSD Beta v USA již pro každého (kdo zaplatil)
 ---
 

@@ -10,6 +10,13 @@ categories:
 date: '2024-03-23'
 layout: post
 original_newsletter: '#74: Apple vyměnilo auta za AI'
+summary_points:
+- Apple ukončil vývoj automobilu a přesunul tým do vývoje AI.
+- MM1, nový multimodální AI model od Apple, vyniká schopností zpracovávat různé formáty
+  dat.
+- Apple jedná s Google o využití modelu Gemini v zařízeních Apple, například v iOS
+  18.
+- iOS 18 integruje AI do Siri, Apple Music, Pages, Xcode, Spotlight, Health a Zpráv.
 title: "\U0001F34E Co Apple a umělá inteligence?"
 ---
 

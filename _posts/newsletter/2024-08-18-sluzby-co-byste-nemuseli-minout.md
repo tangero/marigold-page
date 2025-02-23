@@ -10,6 +10,11 @@ categories:
 date: '2024-08-18'
 layout: post
 original_newsletter: "#81: \U0001FA93Jak rozbít Google a zachránit trh"
+summary_points:
+- Dupe hledá levnější varianty zboží z eshopů, funguje dobře na nábytek.
+- Defog umožňuje nahrát data a ptát se na jejich význam.
+- Mindgrasp vytváří výukové materiály z dokumentů, videí a PDF.
+- Kling AI tvoří videa z fotografií, ale má problémy s detaily.
 title: "\U0001F6E0️Služby, co byste nemuseli minout"
 ---
 

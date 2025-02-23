@@ -9,6 +9,14 @@ date: '2023-12-10'
 layout: post
 original_newsletter: 'Patrickův newsletter #71: Za tajemstvím rozkladu světa prostřednictvím
   Qstar'
+summary_points:
+- Piketty a Gethin popsali vymizení politické reprezentace dělnické a nižší střední
+  třídy.
+- Umělá inteligence ohrožuje i vzdělané profese, které byly dříve považovány za imunní.
+- Právníci, lékaři a učitelé, politicky vlivné profese, mohou být nahrazeni umělou
+  inteligencí.
+- Neupřímnost vedení OpenAI ohledně odvolání Altmana znepokojuje v souvislosti s dopady
+  AI.
 title: Když si umělá inteligence přijde pro ty, kdo mají politickou moc…
 ---
 

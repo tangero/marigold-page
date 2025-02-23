@@ -11,6 +11,12 @@ date: '2022-08-07'
 layout: post
 original_newsletter: 'Patrickův newsletter #52: Facebook bude muset stáhnout své služby
   z EU - a k čemu bude Amazonu iRobot?'
+summary_points:
+- Ellisonova farma Sensei Ag ročně vypěstuje téměř milion kilogramů produktů na Havaji.
+- Česko má nejvyšší spotřebu piva na hlavu, odmítnutí panáka je vnímáno jako urážka.
+- IEEE Spectrum publikoval článek o ruské elektronické válce na Ukrajině.
+- Prusa zveřejnila aktualizace k očekávané tiskárně XL na svém blogu.
+- WiFi 7 s rychlostí až 5,8 Gb/s bude v počítačích dostupné v roce 2024.
 title: Jednohubky
 ---
 

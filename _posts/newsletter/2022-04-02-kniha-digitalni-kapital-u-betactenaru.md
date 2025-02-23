@@ -10,6 +10,12 @@ date: '2022-04-02'
 layout: post
 original_newsletter: 'Patrickův newsletter #45: Přenositelnost kecálků a německý exportní
   model '
+summary_points:
+- Betačtenáři pomohli autorovi přehodnotit strukturu knihy Digitální kapitál.
+- Kniha bude rozdělena do šesti částí, technologických vlivů zvětšujících "křehkost"
+  světa.
+- Každá kapitola bude obsahovat sumář kroků k minimalizaci škodlivých vlivů technologií.
+- Autor knihu zkrátil o příběhy, které neseděly do centrálního sdělení, ale je delší.
 title: Kniha Digitální kapitál u betačtenářů
 ---
 

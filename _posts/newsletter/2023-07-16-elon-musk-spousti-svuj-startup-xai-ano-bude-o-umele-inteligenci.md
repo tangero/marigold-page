@@ -11,6 +11,13 @@ date: '2023-07-16'
 layout: post
 original_newsletter: 'Patrickův newsletter #65: Google má AI Bard v češtině, na AI
   maká Elon Musk i já!'
+summary_points:
+- Musk investuje do xAI, nové společnosti zaměřené na vývoj obecné umělé inteligence
+  (AGI).
+- xAI plánuje využívat veřejné tweety (text, obrázky, videa) k tréninku AI.
+- Musk očekává příchod AGI kolem roku 2029 a zdůrazňuje důležitost poměru digitálních/biologických
+  výpočtů.
+- Musk navrhuje, aby ověření uživatelé hlasovali o budoucnosti xAI.
 title: Elon Musk spouští svůj startup xAI - ano, bude o umělé inteligenci
 ---
 

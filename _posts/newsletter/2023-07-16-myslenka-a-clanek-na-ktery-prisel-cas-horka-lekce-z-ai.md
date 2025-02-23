@@ -8,6 +8,12 @@ date: '2023-07-16'
 layout: post
 original_newsletter: 'Patrickův newsletter #65: Google má AI Bard v češtině, na AI
   maká Elon Musk i já!'
+summary_points:
+- Suttonova esej tvrdí, že obecné metody využívající výpočetní techniku jsou v AI
+  nejefektivnější.
+- GPT-4 využívá propojené jazykové a matematické modely, nikoliv jen vyšší počet slov.
+- OpenAI předběhla Google díky obrovskému výpočetnímu výkonu.
+- USA se snaží omezit výpočetní kapacitu Číny v oblasti AI.
 title: Myšlenka a článek, na který přišel čas? Hořká lekce z AI
 ---
 

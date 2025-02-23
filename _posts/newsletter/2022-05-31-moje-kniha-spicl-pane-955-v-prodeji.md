@@ -9,6 +9,11 @@ date: '2022-05-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #48: Špicl páně vyšel, na Apple novinky
   se čeká'
+summary_points:
+- Špicl Páně je první díl trilogie, druhý díl je rozmyšlený.
+- Autor se vsadil, že dopíše Flotilu Země po prodeji 3000 Špiclů.
+- Špicla Páně lze koupit na Mystery Press s 30% slevou nebo na Světu Knihy.
+- Autor knihu ještě neviděl a doufá, že v ní nenajde mnoho chyb.
 title: Moje kniha Špicl Páně 955 v prodeji
 ---
 

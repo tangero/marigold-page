@@ -8,6 +8,11 @@ date: '2023-07-16'
 layout: post
 original_newsletter: 'Patrickův newsletter #65: Google má AI Bard v češtině, na AI
   maká Elon Musk i já!'
+summary_points:
+- Anthropic získal 1,5 miliardy dolarů investic na vývoj jazykových modelů.
+- Claude od Anthropic monitoruje Slack a vytváří sumáře komunikace pro firmy.
+- Claude 2 konkuruje ChatGPT, nabízí vylepšené kódování, matematiku a uvažování.
+- Claude 2 analyzuje až 75 tisíc slov, což je více než GPT4.
 title: 'A další model: Anthropic Claude 2'
 ---
 

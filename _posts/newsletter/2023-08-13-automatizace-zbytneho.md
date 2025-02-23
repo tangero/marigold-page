@@ -9,6 +9,11 @@ date: '2023-08-13'
 layout: post
 original_newsletter: 'Patrickův newsletter #66: Potíže s průlomovými změnami prostřednictvím
   AI'
+summary_points:
+- Automatizace bez podstatných přínosů vede ke zbytečným nákladům a plýtvání zdroji.
+- AI v copywritingu nemusí nutně zvýšit produktivitu celého odvětví.
+- Automatizace úloh pomocí AI nemusí vést ke zvýšení celkové produktivity odvětví.
+- Častým problémem je automatizace úloh, které nemají vliv na produktivitu odvětví.
 title: Automatizace zbytného
 ---
 

@@ -9,6 +9,11 @@ categories:
 date: '2024-03-23'
 layout: post
 original_newsletter: '#74: Apple vyměnilo auta za AI'
+summary_points:
+- Nvidia dominuje trhu s AI čipy, dodává přes 70 % a udává směr.
+- Tržby Nvidie z datových center vzrostly na 18,4 miliardy dolarů díky AI boomu.
+- Blackwell B200 a GB200 jsou nové AI čipy s výrazně vyšším výkonem a efektivitou.
+- Nvidia vyvíjí GR00T, základní model pro učení humanoidních robotů.
 title: "\U0001F916Nvidia má nový superčip a další novinky"
 ---
 

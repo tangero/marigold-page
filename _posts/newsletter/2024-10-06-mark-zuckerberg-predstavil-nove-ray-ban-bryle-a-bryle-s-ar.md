@@ -10,6 +10,11 @@ date: '2024-10-06'
 layout: post
 original_newsletter: "#83 \U0001F353OpenAI představila jahodovou inteligenci o1 a
   Canvas"
+summary_points:
+- Meta představila AR brýle Orion s funkcemi sledování očí a rukou.
+- Meta Quest 3S, levnější alternativa, stojí 299 USD a nahrazuje Quest 2/Pro.
+- Meta AI umožňuje hlasovou komunikaci a má 500 milionů uživatelů.
+- Ray-Ban Meta brýle získají AI vylepšení včetně živého překladu.
 title: "\U0001F453Mark Zuckerberg představil nové Ray-Ban brýle a brýle s AR"
 ---
 

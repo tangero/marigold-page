@@ -10,6 +10,11 @@ categories:
 date: '2024-07-18'
 layout: post
 original_newsletter: '#79: Pět úrovní umělé inteligence podle OpenAI'
+summary_points:
+- Ryzen AI je první x86 procesor od AMD s NPU pro AI výpočty.
+- AMD konkuruje Nvidii v AI čipech a kupuje firmu Silo za 665 milionů dolarů.
+- Intel představil procesory Arrow Lake a Lunar Lake s NPU pro AI.
+- Lunar Lake od Intelu slibuje snížení spotřeby a trojnásobnou AI kapacitu.
 title: AMD, Nvidia i Intel představili nové čipy - pro AI a AMD nakupuje
 ---
 

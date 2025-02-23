@@ -8,6 +8,10 @@ date: '2024-05-01'
 layout: post
 original_newsletter: '#75: Jak na zápisy ze schůzek a porad pomocí AI aplikací (plus
   Tesla a Apple novinky)'
+summary_points:
+- Workshopy AI ve firmách se zaměřují na dopad a implementaci AI.
+- Volný termín workshopu AI ve firmách je k dispozici v květnu.
+- Detaily workshopu AI ve firmách jsou dostupné na aivefirmach.cz.
 title: "\U0001F4A1Workshopy AI ve firmách"
 ---
 

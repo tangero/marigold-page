@@ -10,6 +10,12 @@ date: '2022-08-07'
 layout: post
 original_newsletter: 'Patrickův newsletter #52: Facebook bude muset stáhnout své služby
   z EU - a k čemu bude Amazonu iRobot?'
+summary_points:
+- Amazon převezme iRobot za 1,7 miliardy dolarů, firmu známou robotickými vysavači
+  Roomba.
+- iRobot vidí Roomba jako spojovací tkáň inteligentní domácnosti budoucnosti.
+- Amazon kupuje One Medical za 3,9 miliardy dolarů, službu primární péče.
+- Amazon chce rozšířit vliv v robotizované domácnosti a možná i ve zdravotnictví.
 title: Amazon kupuje společnosti iRobot a One Medical
 ---
 

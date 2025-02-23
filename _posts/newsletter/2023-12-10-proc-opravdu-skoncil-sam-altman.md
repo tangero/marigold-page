@@ -8,6 +8,12 @@ date: '2023-12-10'
 layout: post
 original_newsletter: 'Patrickův newsletter #71: Za tajemstvím rozkladu světa prostřednictvím
   Qstar'
+summary_points:
+- Altmanovo odvolání provází nejasnosti a minimálně čtyři různé teorie o důvodech.
+- Altman čelí podezření z konfliktu zájmů kvůli nákupu čipů od firmy, kde měl podíl.
+- OpenAI byla založena jako nezisková organizace s cílem vyvíjet bezpečnou AI pro
+  lidstvo.
+- Poslání OpenAI motivuje výzkumníky i přes potenciálně lepší nabídky jinde.
 title: Proč opravdu skončil Sam Altman?
 ---
 

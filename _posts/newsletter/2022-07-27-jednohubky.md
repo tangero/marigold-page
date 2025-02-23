@@ -10,6 +10,14 @@ date: '2022-07-27'
 layout: post
 original_newsletter: '#51: O sebemotivaci a také o tom, jak Huawei může narušit kritickou
   komunikaci strategického velení USA'
+summary_points:
+- Tesla prodala 75% bitcoinů, což vedlo k poklesu ceny kryptoměny.
+- ChromeOS Flex oživuje staré počítače, Google certifikoval přes 400 modelů.
+- Carbon je experimentální jazyk od Google jako nástupce C++.
+- NFT jsou pro herní průmysl toxické, Microsoft zakazuje NFT v Minecraftu.
+- Netflix testuje zpoplatnění sdílení účtů v Latinské Americe.
+- Švýcarsko buduje podzemní síť autonomní nákladní dopravy za 3,5 miliardy dolarů.
+- Atari slaví 50 let, Commodore 64 byl konkurent.
 title: Jednohubky
 ---
 

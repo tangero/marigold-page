@@ -7,6 +7,13 @@ date: '2022-09-26'
 layout: post
 original_newsletter: 'Patrickův newsletter #55: Zastupitel a Ethereum Merge: jak ušetřit
   spotřebu elektřiny v Česku díky změně ve zdrojovém kódu'
+summary_points:
+- Piráti obhájili v komunálních volbách dva mandáty a autor získal 666 preferenčních
+  hlasů.
+- Vládní strany zaznamenaly v komunálních volbách neúspěch, ANO a SPD posilovaly.
+- Úspěšní byli kandidáti s regionální známostí a "nezávislé" kandidátky bez politické
+  značky.
+- Pro úspěch fungovalo strašení voličů a sliby návratu "do starých kolejí".
 title: Zvolen zastupitelem
 ---
 

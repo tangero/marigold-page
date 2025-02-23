@@ -12,6 +12,11 @@ date: '2023-02-12'
 layout: post
 original_newsletter: "Patrickův newsletter #63 \U0001F916 Naděje roku: procesory RISC-V
   a hromada AI novinek"
+summary_points:
+- Google Bard udělal faktickou chybu při prezentaci, což poškodilo jeho reputaci.
+- Prezentace Google AI v Paříži selhala, viceprezidentka nemohla předvést funkce.
+- Microsoft integruje ChatGPT do Bingu a investuje do OpenAI deset miliard.
+- Quora představila aplikaci Poe s AI chatboty, ale v češtině má slabé výsledky.
 title: "\U0001F5E3️Umělá inteligence Google Bard má konkurovat ChatGPT"
 ---
 

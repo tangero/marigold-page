@@ -12,6 +12,14 @@ date: '2024-10-06'
 layout: post
 original_newsletter: "#83 \U0001F353OpenAI představila jahodovou inteligenci o1 a
   Canvas"
+summary_points:
+- DoJ obvinilo Google z monopolu v reklamních technologiích, který poškozuje konkurenci
+  a zvyšuje náklady.
+- Soud shledal Google vinným z monopolizace trhu vyhledávání, trest se očekává příští
+  rok.
+- USA, EU a Čína shodně usilují o regulaci technologických gigantů a aplikaci stejných
+  pravidel.
+- Google shromažďuje data o uživatelích online, což umožňuje potenciální cenovou diskriminaci.
 title: "\U0001F578️Google zase o krok blíže rozdělení"
 ---
 

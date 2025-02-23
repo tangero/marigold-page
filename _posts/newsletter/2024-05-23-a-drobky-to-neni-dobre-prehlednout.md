@@ -9,6 +9,12 @@ date: '2024-05-23'
 layout: post
 original_newsletter: "#76 \U0001F9D1‍\U0001F4BB K čemu všechna ta AI v počítačích
   je?"
+summary_points:
+- Hinton prosazuje univerzální příjem kvůli ztrátě pracovních míst způsobené umělou
+  inteligencí.
+- AlphaFold 3 od Google DeepMind přesně předpovídá struktury proteinů a DNA.
+- OpenAI rozpustila bezpečnostní tým a propustila klíčové osoby včetně Sutskevera.
+- Humane hledá kupce pro AI Pin i přes rozpačité recenze produktu.
 title: A drobky, to není dobré přehlédnout
 ---
 

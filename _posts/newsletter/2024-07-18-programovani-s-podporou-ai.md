@@ -8,6 +8,14 @@ categories:
 date: '2024-07-18'
 layout: post
 original_newsletter: '#79: Pět úrovní umělé inteligence podle OpenAI'
+summary_points:
+- AI nástroje jako Claude a Copilot usnadňují programování, automatizují rutinní úkoly
+  a šetří čas.
+- Claude doporučila BannerGPT a Cloudinary pro generování a úpravu obrázků na webu
+  Marigold.
+- No-code platformy jako GitWit umožňují vytvářet aplikace z textového zadání, zjednodušují
+  vývoj.
+- AI má velký potenciál v testování kódu a kontrole kvality, mění budoucnost programování.
 title: Programování s podporou AI
 ---
 

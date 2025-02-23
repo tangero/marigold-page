@@ -12,6 +12,11 @@ date: '2022-04-02'
 layout: post
 original_newsletter: 'Patrickův newsletter #45: Přenositelnost kecálků a německý exportní
   model '
+summary_points:
+- Německý exportní model ohrožuje konec levné energie z Ruska a vývozu do Číny.
+- Automobilový průmysl je na Číně silně závislý, což představuje značné riziko.
+- Evropa se musí vrátit k výrobě, kterou dříve outsourcovala, a ocenit i drobnou práci.
+- Česko by mělo diverzifikovat obchodní vazby v Asii, podporovat vzdělanost a vzdělávání.
 title: Proč je německý exportní model ohrožen
 ---
 

@@ -7,6 +7,11 @@ date: '2023-10-08'
 layout: post
 original_newsletter: 'Patrickův newsletter #68: Kvantové počítače a jiné novinky u
   Apple'
+summary_points:
+- Galaxy S24 série bude představena počátkem roku 2024.
+- S24 a S24 Plus sdílí design s plochým kovovým okrajem.
+- S24 Ultra si zachovává design Ultra používaný od S22.
+- S24 Ultra nabídne Snapdragon 8 Gen 3, 5000 mAh baterii a 2 TB úložiště.
 title: Unikly rendery telefonů Samsung S24
 ---
 

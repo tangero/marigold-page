@@ -14,6 +14,15 @@ date: '2022-05-15'
 layout: post
 original_newsletter: 'Patrickův newsletter #47: Internetizace války na Ukrajině a
   Muskova šaráda s Twitterem'
+summary_points:
+- Ukrajina využívá automatizovaný systém řízení dělostřelecké palby s rychlou koordinací
+  a přesností.
+- Starlink poskytuje Ukrajině klíčové satelitní připojení pro armádní komunikaci a
+  koordinaci palby.
+- Ukrajinská armáda získává informace o cílech z cizích zpravodajských služeb, GIS
+  ART a crowdsourcingu.
+- Moderní válka se internetizuje, klade důraz na online propojení, automatizaci a
+  decentralizaci řízení.
 title: 'Ukrajina: Válka satelitů, dronů a počítačů. Jenže nejenom.'
 ---
 

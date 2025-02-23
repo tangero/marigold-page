@@ -8,6 +8,11 @@ date: '2024-10-06'
 layout: post
 original_newsletter: "#83 \U0001F353OpenAI představila jahodovou inteligenci o1 a
   Canvas"
+summary_points:
+- Nvidia vyvinula NVLM, multimodální open-source LLM model srovnatelný s GPT-4o.
+- NVLM s 72 miliardami parametrů překonává LLAMA s 404 miliardami v některých úlohách.
+- Open-source NVLM je určen pro firemní nasazení a vývoj vlastních řešení.
+- NVLM je dostupný na HuggingFace pro vývojáře, kteří rozumí problematice.
 title: "\U0001F916Nvidia představila vlastní open source LLM model"
 ---
 

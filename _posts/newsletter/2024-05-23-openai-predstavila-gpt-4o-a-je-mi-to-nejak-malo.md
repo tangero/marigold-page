@@ -9,6 +9,12 @@ date: '2024-05-23'
 layout: post
 original_newsletter: "#76 \U0001F9D1‍\U0001F4BB K čemu všechna ta AI v počítačích
   je?"
+summary_points:
+- GPT-4o, nový model OpenAI, vyniká rychlostí, multimodálností (text, zvuk, obraz)
+  a je zdarma.
+- Očekávání od GPT-4o byla vyšší, spekulovalo se o GPT-5 nebo AI vyhledávači.
+- AI se nachází v období technologické pauzy, čeká se na nové inovace.
+- Budoucnost AI je nejistá, možný je generační skok (GPT-5) nebo inkrementální vývoj.
 title: OpenAI představila GPT-4o a je mi to nějak málo...
 ---
 

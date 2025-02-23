@@ -9,6 +9,12 @@ date: '2022-07-27'
 layout: post
 original_newsletter: '#51: O sebemotivaci a také o tom, jak Huawei může narušit kritickou
   komunikaci strategického velení USA'
+summary_points:
+- Piráti sestavili kandidátku v Brandýse-Boleslavi s Markem Řebíčkem, Marií Kubáčovou
+  a autorem textu.
+- Kandidátka je genderově, věkově a profesně vyvážená, složená ze skvělých lidí.
+- Piráti doufají ve zisk čtyř mandátů v jednadvacetičlenném zastupitelstvu.
+- Úspěch Pirátů a dalších stran by mohl vést ke změně komunální politiky.
 title: Pirátská kandidátka v Brandýse-Boleslavi
 ---
 

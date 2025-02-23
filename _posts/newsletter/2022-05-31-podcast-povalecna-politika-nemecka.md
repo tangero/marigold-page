@@ -6,6 +6,11 @@ date: '2022-05-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #48: Špicl páně vyšel, na Apple novinky
   se čeká'
+summary_points:
+- Poválečná politika Německa je tématem podcastu Patricka Zandla.
+- Článek vysvětluje důvody a podobu současné německé politiky.
+- Podcast reaguje na kritiku německé politiky ze strany českých uživatelů.
+- Německá politika mimo jiné umožnila vstup České republiky do NATO.
 title: Podcast Poválečná politika Německa
 ---
 

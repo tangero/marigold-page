@@ -8,6 +8,11 @@ date: '2022-09-08'
 layout: post
 original_newsletter: 'Patrickův newsletter #54: Nové iPhony a Příběhy umělointeligenční
   chudoby'
+summary_points:
+- AirPods Pro mají nový čip H2 od Apple a vylepšený zvuk.
+- Potlačení hluku u AirPods Pro je dvojnásobné a výdrž baterie delší o 1,5 hodiny.
+- Pouzdro AirPods Pro poskytuje 30 hodin poslechu a dobíjení Watch nabíječkou.
+- iOS 16 přináší sekci AirPods a Personalized Spatial Audio i pro starší modely.
 title: Další generace sluchátek Airpods Pro
 ---
 

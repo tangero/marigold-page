@@ -9,6 +9,14 @@ date: '2022-07-27'
 layout: post
 original_newsletter: '#51: O sebemotivaci a také o tom, jak Huawei může narušit kritickou
   komunikaci strategického velení USA'
+summary_points:
+- Amazon koupil One Medical za 3,9 miliardy dolarů, firmu provozující síť klinik primární
+  péče.
+- One Medical kombinuje přímý prodej služeb spotřebitelům a prodej firmám pro zaměstnance.
+- Amazon pravděpodobně usiluje o digitalizaci a inovaci amerického zdravotnického
+  trhu.
+- One Medical má silnou kartotéku pacientů a sází na zaměnitelnost lékařů a nástup
+  AI.
 title: Amazon kupuje řetězec klinik One Medical
 ---
 

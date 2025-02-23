@@ -9,6 +9,11 @@ date: '2023-02-12'
 layout: post
 original_newsletter: "Patrickův newsletter #63 \U0001F916 Naděje roku: procesory RISC-V
   a hromada AI novinek"
+summary_points:
+- Sofie zvažuje studium eurounijního práva v zahraničí po maturitě.
+- ChatGPT pomohl Sofii s porovnáním univerzit a studijních programů.
+- Konverzační AI umožňuje získávat informace formou otázek a odpovědí.
+- Autor ověřoval informace z ChatGPT u reálných lidí kvůli přesnosti.
 title: "\U0001F393Praktická ukázka AI: dcera, univerzita a ChatGPT"
 ---
 

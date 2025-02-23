@@ -7,6 +7,11 @@ date: '2022-08-07'
 layout: post
 original_newsletter: 'Patrickův newsletter #52: Facebook bude muset stáhnout své služby
   z EU - a k čemu bude Amazonu iRobot?'
+summary_points:
+- Kissingerova kniha analyzuje šest vůdců 20. století a jejich vliv.
+- Adenauer, de Gaulle, Nixon, Sadat, Lee Kuan Yew a Thatcherová jsou analyzovaní lídři.
+- Kissinger je vnímán jako osobnost studené války a konzervatismu.
+- Newsletter Patricka Zandla informuje o knize a žádá tipy od 2323 odběratelů.
 title: 'Kniha týdne: Vůdcovství: Šest studií o světové strategii od Henryho Kissingera'
 ---
 

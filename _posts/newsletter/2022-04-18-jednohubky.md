@@ -8,6 +8,10 @@ date: '2022-04-18'
 layout: post
 original_newsletter: 'Patrickův newsletter #46: Proč si Elon Musk chce koupit Twitter?
   A jak dobrý je AI DALL-E 2?'
+summary_points:
+- Houby komunikují mezi sebou, což dokazuje vědecká studie o jejich jazyku.
+- Google přestal rozmazávat ruské vojenské základny na satelitních snímcích v Mapách.
+- AirTagy jsou zneužívány ke stalkingu, což se týká třetiny policejních případů.
 title: Jednohubky
 ---
 

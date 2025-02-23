@@ -13,6 +13,13 @@ date: '2023-01-09'
 layout: post
 original_newsletter: 'Patrickův newsletter #62: Technologie roku? Generativní umělá
   inteligence!'
+summary_points:
+- Generativní AI technologie roku, umožňuje tvorbu "nového" rekombinací existujícího
+  obsahu.
+- ChatGPT používají studenti pro tvorbu textů, školy jej zakazují a hledají nástroje
+  detekce.
+- Apple využívá AI pro načítání e-knih, Accapella učí AI hlas a načítá texty.
+- Autor doporučuje vyzkoušet generativní AI služby, jako Dall-e 2, Amper Music a Deepl.
 title: Technologie roku? Generativní umělá inteligence!
 ---
 

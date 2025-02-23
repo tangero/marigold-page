@@ -7,6 +7,12 @@ categories:
 date: '2024-08-18'
 layout: post
 original_newsletter: "#81: \U0001FA93Jak rozbít Google a zachránit trh"
+summary_points:
+- Humane, první AI nositelné zařízení, se ukázalo jako aplikace pro Android na špatném
+  hardwaru.
+- Prodeje Humane dosáhly 9 milionů dolarů, ale reklamace dosáhly 1 milionu dolarů.
+- Vratky Humane převyšují prodeje a v rukou uživatelů zůstalo jen 8 000 kusů.
+- Firma Humane je blízko klinické smrti a hledá se kupec.
 title: RIP Humane
 ---
 

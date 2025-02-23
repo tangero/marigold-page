@@ -8,6 +8,11 @@ categories:
 date: '2024-07-28'
 layout: post
 original_newsletter: '#80: Kyberkatastrofa Crowdstrike'
+summary_points:
+- Fastn.ai integruje různé zdroje dat do jednotného API rozhraní.
+- Room GPT redesignuje pokoje z fotografií pomocí AI, první zdarma.
+- Excel Formula Bot řeší problémy v Excelu a Google Sheets pomocí AI.
+- Larry the Elf pomáhá s výběrem dárků pro různé osoby zdarma.
 title: "\U0001F4CANové služby, které byste nemuseli minout"
 ---
 

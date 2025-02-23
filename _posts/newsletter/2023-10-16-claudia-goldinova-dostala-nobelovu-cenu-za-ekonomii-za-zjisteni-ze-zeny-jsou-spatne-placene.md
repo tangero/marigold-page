@@ -14,6 +14,12 @@ date: '2023-10-16'
 layout: post
 original_newsletter: 'Patrickův newsletter #69: Trocha omáčky k Nobelově ceně pro
   Claudii Goldinovou '
+summary_points:
+- Goldinová získala Nobelovu cenu za ekonomii za výzkum postavení žen na trhu práce.
+- Kliometrie, metoda Goldinové, kombinuje historická data s moderní ekonomickou analýzou.
+- Goldinová zkoumala vliv technologií, vzdělání a společenských norem na nerovnosti
+  mezd.
+- Budoucí nerovnosti ovlivní trendy jako AI, práce z domova a délka rodičovské dovolené.
 title: Claudia Goldinová dostala Nobelovu cenu za ekonomii za zjištění, že ženy jsou
   špatně placené?
 ---

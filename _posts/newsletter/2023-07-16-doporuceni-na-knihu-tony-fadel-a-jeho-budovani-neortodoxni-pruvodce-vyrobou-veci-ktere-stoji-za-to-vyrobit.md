@@ -10,6 +10,11 @@ date: '2023-07-16'
 layout: post
 original_newsletter: 'Patrickův newsletter #65: Google má AI Bard v češtině, na AI
   maká Elon Musk i já!'
+summary_points:
+- Tony Fadell vedl vývoj iPhonu, ale pokusil se o to dvakrát.
+- Kniha se zaměřuje na návrh úspěšných produktů, ne jen na iPhone.
+- Autor knihy je zkušený praktik, který se vzpírá pravidlům Silicon Valley.
+- Marc Porat z Apple nakreslil koncept iPhonu už v roce 1989.
 title: 'Doporučení na knihu? Tony Fadel a jeho Budování: Neortodoxní průvodce výrobou
   věcí, které stojí za to vyrobit'
 ---

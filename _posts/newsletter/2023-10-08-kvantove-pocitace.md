@@ -13,6 +13,14 @@ date: '2023-10-08'
 layout: post
 original_newsletter: 'Patrickův newsletter #68: Kvantové počítače a jiné novinky u
   Apple'
+summary_points:
+- Kvantové počítače využívají qubity, které mohou být v superpozici, tedy více stavech
+  najednou.
+- Entanglement qubitů umožňuje exponenciální nárůst výpočetního výkonu kvantových
+  počítačů.
+- Kvantové počítače jsou vhodné pro paralelizované výpočty, například simulace kvantových
+  jevů.
+- Česko zaostává v popularizaci a výzkumu kvantových počítačů, chybí odborná literatura.
 title: Kvantové počítače
 ---
 

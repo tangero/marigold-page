@@ -11,6 +11,12 @@ date: '2022-05-15'
 layout: post
 original_newsletter: 'Patrickův newsletter #47: Internetizace války na Ukrajině a
   Muskova šaráda s Twitterem'
+summary_points:
+- Kryptoměny propadly, hodnota se drží zboží ve skladech, což ukazuje na dematerializaci
+  vlastnictví.
+- Apple testuje iPhony s USB-C konektorem kvůli požadavkům Evropské unie.
+- Prusa Research vydala kryt Enclosure pro 3D tiskárnu, cena začíná na 9000 Kč.
+- Nvidia otevřela zdrojový kód ovladačů R515 grafických karet pro Linux kernel.
 title: Jednohubky
 ---
 

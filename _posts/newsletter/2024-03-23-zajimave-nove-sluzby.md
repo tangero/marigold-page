@@ -7,6 +7,12 @@ categories:
 date: '2024-03-23'
 layout: post
 original_newsletter: '#74: Apple vyměnilo auta za AI'
+summary_points:
+- Heardly nabízí patnáctiminutové výcucy z audioknih v mobilní aplikaci, čeština zatím
+  nefunguje.
+- RecCloud AI Subtitle automaticky generuje a překládá titulky k videím.
+- Suno AI vytváří písně včetně textu a hudby, dostupná je třetí generace.
+- Newsletter byl rozeslán na 3086 adres.
 title: Zajímavé nové služby
 ---
 

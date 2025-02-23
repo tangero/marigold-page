@@ -14,6 +14,11 @@ date: '2024-09-10'
 layout: post
 original_newsletter: "#82\U0001F34F\U0001F1EA\U0001F1FA Apple představil iPhone 16
   a šel si vyřídit účty s EU"
+summary_points:
+- Apple odkládá AI funkce v EU kvůli sporu o 14 miliard euro s EU.
+- Apple AI nepodporuje jiné jazyky než angličtinu, což brání EU nasazení.
+- EU regulace je srovnatelná s Čínou, ale lépe vymahatelná než v USA.
+- Apple využívá situaci k tlaku na EU, podobně jako Musk v Brazílii.
 title: "\U0001F34F Apple představil nový iPhone … … a šel si vyřídit účty s EU \U0001F1EA\U0001F1FA"
 ---
 

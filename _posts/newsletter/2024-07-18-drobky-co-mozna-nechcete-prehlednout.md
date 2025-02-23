@@ -14,10 +14,15 @@ categories:
 date: '2024-07-18'
 layout: post
 original_newsletter: '#79: Pět úrovní umělé inteligence podle OpenAI'
+summary_points:
+- Suno AI umožňuje nahrát ukázku stylu pro generování hudby.
+- Samsung představil chytrý prsten Galaxy Ring a ohebné telefony.
+- Anthropic zdvojnásobil limit tokenů pro Claude 3.5 Sonnet.
+- Ivo Lukačovič založil placený kanál na Patreonu kvůli toxicitě X.
 title: Drobky, co možná nechcete přehlédnout
 ---
 
-  * AI pro **tvoru hudebních skladeb[Suno](https://suno.com/) **zprovoznilo možnost nahrát až minutovou ukázku stylu, do něhož se její AI vygenerovaná skladba má přizpůsobit. Tak jsem si [vytvořil hymnu Flotily Země](https://suno.com/song/cd33d177-3027-4740-933a-e5b1b90e015a) pro moji rozepsanou knihu a pokusil jsem se donutit Suno, aby ji ztvárnila do podoby českého zpěváka. Schválně, jestli poznáte, kterého... 
+* AI pro **tvoru hudebních skladeb[Suno](https://suno.com/) **zprovoznilo možnost nahrát až minutovou ukázku stylu, do něhož se její AI vygenerovaná skladba má přizpůsobit. Tak jsem si [vytvořil hymnu Flotily Země](https://suno.com/song/cd33d177-3027-4740-933a-e5b1b90e015a) pro moji rozepsanou knihu a pokusil jsem se donutit Suno, aby ji ztvárnila do podoby českého zpěváka. Schválně, jestli poznáte, kterého... 
 
   * Samsung představoval nové ohebné mobily a také a především svůj [první chytrý prsten](https://www.idnes.cz/mobil/tech-trendy/samsung-galaxy-ring-chytry-prsten-novinka-uvedeni.A240709_164509_mob_tech_oma). [Detaily česky zde](https://www.idnes.cz/mobil/telefony/samsung-galaxy-z-fold-6-z-flip-6-galaxy-watch-ultra-premiera.A240709_162715_telefony_vok). Mimochodem, o chytrém prstenu Apple se prosakují informace - jsem zvědav. A skládací ohebné telefony mi začínají být sympatické, hodně do nich naskočila Motorola svou revival řadou RAZR. Konečně provedení telefonu, které se vejde do kapsy u kalhot a kde honička za tenkostí má smysl. 
 

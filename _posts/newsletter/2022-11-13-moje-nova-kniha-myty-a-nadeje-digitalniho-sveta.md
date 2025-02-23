@@ -9,6 +9,12 @@ categories:
 date: '2022-11-13'
 layout: post
 original_newsletter: 'Patrickův newsletter #58: Co znamená pád kryptoburzy FTX?'
+summary_points:
+- Kniha Mýty a naděje digitálního světa vyjde 22. listopadu 2022 v nakladatelství
+  Melvil.
+- Melvil web nabízí propozici knihy, která je vhodná jako dárek pro všechny generace.
+- Autor informuje o vydání knihy a slibuje dát vědět po jejím vydání.
+- Marigold článek autora se zabývá zlevněním Česka skrze místní samosprávu.
 title: 'Moje nová kniha: Mýty a naděje digitálního světa'
 ---
 

@@ -15,6 +15,13 @@ date: '2022-09-08'
 layout: post
 original_newsletter: 'Patrickův newsletter #54: Nové iPhony a Příběhy umělointeligenční
   chudoby'
+summary_points:
+- Průmyslová revoluce vytvořila veřejnou infrastrukturu, která podpořila podnikání
+  a rozvoj.
+- Informační věk vyžaduje novou infrastrukturu, například velké jazykové modely.
+- Jazykové modely jako GPT-3 se staly standardem pro implementace umělé inteligence.
+- Nedostatek dat v jazykových modelech ohrožuje používání jazyka v UI.
+- Investice do jazykových modelů a jejich zpřístupnění je klíčové pro budoucnost češtiny.
 title: O umělointeligenční infrastruktuře a chudobě
 ---
 

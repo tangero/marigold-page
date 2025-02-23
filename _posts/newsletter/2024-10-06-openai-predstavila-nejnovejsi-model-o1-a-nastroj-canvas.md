@@ -14,6 +14,11 @@ date: '2024-10-06'
 layout: post
 original_newsletter: "#83 \U0001F353OpenAI představila jahodovou inteligenci o1 a
   Canvas"
+summary_points:
+- OpenAI představila o1, novou verzi AI, která je v mnoha ohledech lepší než GPT-4o.
+- o1 "promýšlí" odpovědi a pomáhá autorovi s rešeršemi a argumentací.
+- Nevýhodou o1 je absence vkládání souborů a hlasového rozhraní kvůli regulacím.
+- OpenAI byla oceněna na 157 miliard dolarů a Sam Altman má vizi budoucnosti s AI.
 title: "\U0001F353OpenAI představila nejnovější model o1 a nástroj Canvas"
 ---
 

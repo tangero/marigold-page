@@ -8,6 +8,13 @@ date: '2022-07-27'
 layout: post
 original_newsletter: '#51: O sebemotivaci a také o tom, jak Huawei může narušit kritickou
   komunikaci strategického velení USA'
+summary_points:
+- Sebemotivace autora vyžaduje interakci s druhými lidmi pro rozbor a posun myšlenek.
+- Autor tvořivě pracoval na knize Špicl páně během tůry s kamarádem v Krušných horách.
+- Kniha Digitální kapitál byla zásadně předělána po rozboru s chytrými lidmi a týdenní
+  izolaci.
+- Autor hledá tipy a doporučení na sebemotivaci, kurzy, materiály a lidi s analytickými
+  schopnostmi.
 title: O sebemotivaci
 ---
 

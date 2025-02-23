@@ -13,6 +13,11 @@ categories:
 date: '2024-07-28'
 layout: post
 original_newsletter: '#80: Kyberkatastrofa Crowdstrike'
+summary_points:
+- AI vyhledávače jako SearchGPT nahrazují fulltextové hledání, ale jsou nákladnější.
+- OpenAI ohlásilo SearchGPT, což představuje závazek a potenciální změnu trhu.
+- AI vyhledávače syntetizují informace, což může vést k názorovému zploštění.
+- SearchGPT může halucinovat a poskytovat chybné informace, což je vážný problém.
 title: "\U0001F50EJak se změní internet s příchodem SearchGPT?"
 ---
 

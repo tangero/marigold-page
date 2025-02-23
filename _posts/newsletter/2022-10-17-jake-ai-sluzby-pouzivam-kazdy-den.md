@@ -13,6 +13,11 @@ date: '2022-10-17'
 layout: post
 original_newsletter: 'Patrickův newsletter #56: Muskův Starlink, nákup Twitteru a
   Čínsko-Americká válka o čipy a AI nadvládu'
+summary_points:
+- Deepl překládá texty lépe než Google Translator, autor jej používá pro překlad knih.
+- Midjourney generuje obrázky z textu, autor jej používá pro grafiku a ilustrace.
+- Mem.ai jsou samoorganizující se pracovní prostory pro poznámky, doporučuje se video.
+- Descript slouží k tvorbě podcastů, umožňuje úpravy a automatický přepis do textu.
 title: Jaké AI služby používám každý den?
 ---
 

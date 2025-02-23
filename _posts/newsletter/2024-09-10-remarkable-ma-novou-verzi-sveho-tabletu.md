@@ -12,6 +12,12 @@ date: '2024-09-10'
 layout: post
 original_newsletter: "#82\U0001F34F\U0001F1EA\U0001F1FA Apple představil iPhone 16
   a šel si vyřídit účty s EU"
+summary_points:
+- reMarkable tablety mají eInk displej pro anotace a poznámky, ne pro multimédia.
+- reMarkable Paper Pro nově nabízí barevný eInk displej, 64 GB RAM a výdrž 2 týdny.
+- Cena reMarkable Paper Pro s klávesnicí je 900 euro, což je alternativa k Macbooku
+  Air.
+- Onyx Boox, Kindle Scribe, Kobo Elipsa a Supernote A5X jsou alternativy k reMarkable.
 title: "\U0001F9D1‍\U0001F4BBRemarkable má novou verzi svého tabletu"
 ---
 

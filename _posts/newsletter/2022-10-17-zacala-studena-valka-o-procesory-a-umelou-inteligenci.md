@@ -7,6 +7,11 @@ date: '2022-10-17'
 layout: post
 original_newsletter: 'Patrickův newsletter #56: Muskův Starlink, nákup Twitteru a
   Čínsko-Americká válka o čipy a AI nadvládu'
+summary_points:
+- USA zpřísnily exportní omezení čipů do Číny kvůli AI a vojenským aplikacím.
+- Licence potřebují firmy prodávající pokročilé čipy nebo výrobní zařízení do Číny.
+- Američané potřebují povolení pro práci v čínských továrnách na čipy.
+- Omezení mohou zpomalit čínský čipový průmysl, ale poškodí i americké firmy.
 title: Začala studená válka o procesory a umělou inteligenci?
 ---
 

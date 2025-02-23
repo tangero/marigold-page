@@ -13,6 +13,11 @@ categories:
 date: '2024-06-29'
 layout: post
 original_newsletter: "#78: Letní dávka AI čili Apple Inteligence \U0001F607"
+summary_points:
+- Superhuman 2.0 emailová služba pro týmy sdílí konverzace za 30 dolarů měsíčně.
+- Abby a Wendy jsou AI nástroje pro terapii a koučink, Abby funguje česky.
+- Lede pomáhá psát články s rešeršemi, ale stojí 25 dolarů měsíčně.
+- Outfithunter radí s oblečením na základě nahrané fotografie.
 title: Zajímavé nové služby stojící za pozornost
 ---
 

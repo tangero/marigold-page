@@ -9,6 +9,11 @@ categories:
 date: '2022-03-20'
 layout: post
 original_newsletter: '#44: Drony na Ukrajině, RePowerEU změny i novoroční detox'
+summary_points:
+- EU nařídila platformám stahovat obsah ruských státních médií, což je precedens.
+- Viasat modemy byly hacknuty, což způsobilo výpadek tisíců větrných turbín.
+- Rusko se odpojuje od globálního internetu, vzniká tak splinternet.
+- Facebook kryptoměna Libra neuspěla kvůli odporu regulátorů a politiků.
 title: Jednohubky
 ---
 

@@ -12,6 +12,11 @@ categories:
 date: '2022-03-20'
 layout: post
 original_newsletter: '#44: Drony na Ukrajině, RePowerEU změny i novoroční detox'
+summary_points:
+- Evropská komise navrhuje akce pro dostupnější, bezpečnější a udržitelnější energii.
+- Plán RePowerEU má do roku 2030 zbavit Evropu závislosti na ruských fosilních palivech.
+- Česko bude muset řešit LNG přepravou a pravděpodobně obnoví spalování uhlí.
+- Úspory energie jsou pro Česko klíčové, ale dosud nedostatečně řešené.
 title: Evropská komise zveřejnila návrh nové strategie pro energetickou nezávislost
   nazvanou RePowerEU
 ---

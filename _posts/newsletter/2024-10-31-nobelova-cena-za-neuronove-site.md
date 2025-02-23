@@ -10,6 +10,10 @@ categories:
 date: '2024-10-31'
 layout: post
 original_newsletter: "#84 \U0001F47D Vliv mimozemšťanů na AI"
+summary_points:
+- Hopfield a Hinton získali Nobelovu cenu za fyziku za přínos umělým neuronovým sítím.
+- Objevitelé položili základy moderní umělé inteligence (AI) svým převratným výzkumem.
+- Makroskop newsletter detailně popisuje Nobelovu cenu za ekonomii.
 title: Nobelova cena za neuronové sítě
 ---
 

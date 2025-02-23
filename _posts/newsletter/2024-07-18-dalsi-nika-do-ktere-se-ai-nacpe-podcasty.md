@@ -10,6 +10,11 @@ categories:
 date: '2024-07-18'
 layout: post
 original_newsletter: '#79: Pět úrovní umělé inteligence podle OpenAI'
+summary_points:
+- Podcasty jsou informačně řídké, články poskytují informace rychleji.
+- Služby jako NoteGPT, Podsmart a Sumly sumarizují anglické podcasty.
+- České podcasty sumarizační služby nepodporují, což je nevýhoda.
+- AutoThread analyzuje anglické podcasty a vytváří vlákna na Twitter.
 title: Další nika, do které se AI nacpe? Podcasty!
 ---
 

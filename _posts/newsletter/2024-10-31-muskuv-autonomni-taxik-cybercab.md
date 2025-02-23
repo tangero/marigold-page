@@ -10,6 +10,11 @@ categories:
 date: '2024-10-31'
 layout: post
 original_newsletter: "#84 \U0001F47D Vliv mimozemšťanů na AI"
+summary_points:
+- Cybercab je plně autonomní taxi od Elona Muska s cenou kolem 30 000 $.
+- Uvedení Cybercabu na trh se očekává v roce 2026, ale závisí na povolení regulátorů.
+- Waymo má výrazně lepší bezpečnostní data autonomního řízení než Tesla FSD.
+- Tesla FSD je na druhém stupni autonomie, Cybercab vyžaduje minimálně čtvrtý stupeň.
 title: "\U0001F695 Muskův autonomní taxík Cybercab"
 ---
 

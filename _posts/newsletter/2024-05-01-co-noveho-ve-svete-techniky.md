@@ -13,6 +13,11 @@ date: '2024-05-01'
 layout: post
 original_newsletter: '#75: Jak na zápisy ze schůzek a porad pomocí AI aplikací (plus
   Tesla a Apple novinky)'
+summary_points:
+- Apple chystá nové iPady a vyvíjí vlastní AI řešení pro iOS 18.
+- OpenELM, nový LLM od Apple, má levnější trénink a rychlejší výstup.
+- Meta vydala Llama 3 8B a 70B, nejvýkonnější open source modely.
+- Copilot Workspace, Memory od OpenAI a roboty Boston Dynamics jsou novinky.
 title: ✅ Co nového ve světě techniky?
 ---
 

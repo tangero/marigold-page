@@ -6,6 +6,11 @@ date: '2022-09-08'
 layout: post
 original_newsletter: 'Patrickův newsletter #54: Nové iPhony a Příběhy umělointeligenční
   chudoby'
+summary_points:
+- Politickej podcast Adama Blišťana doporučen pro běhání díky zajímavým hostům a délce.
+- Štěpán Ryšavý a jeho Programy do voleb zmíněny s odkazem na komunální volby.
+- Autor hledá tipy na méně známé podcasty mimo velká mediahousu.
+- Newsletter byl rozeslán na 2 453 odběratelů.
 title: Tip na Politickej podcast
 ---
 

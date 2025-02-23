@@ -11,6 +11,11 @@ date: '2023-08-13'
 layout: post
 original_newsletter: 'Patrickův newsletter #66: Potíže s průlomovými změnami prostřednictvím
   AI'
+summary_points:
+- Inovace musí probíhat rovnoměrně, jinak vzniká makroekonomické úzké hrdlo.
+- Produktivitu omezuje nejslabší článek v inovačním řetězci, nikoliv dílčí pokroky.
+- Úspěch nové technologie závisí na tempu inovací v celém potřebném segmentu.
+- Elektromobily a AGI ukazují, že širší záběr inovací vyžaduje delší čas etablování.
 title: Problematika nerovnoměrných inovací
 ---
 

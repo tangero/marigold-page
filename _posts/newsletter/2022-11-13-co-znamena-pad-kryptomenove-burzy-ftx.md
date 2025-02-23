@@ -12,6 +12,12 @@ categories:
 date: '2022-11-13'
 layout: post
 original_newsletter: 'Patrickův newsletter #58: Co znamená pád kryptoburzy FTX?'
+summary_points:
+- FTX burza kryptoměn zbankrotovala po odhalení finančních nesrovnalostí a propojení
+  s Alameda Research.
+- Alameda Research držela značné množství FTT tokenů, což vyvolalo pochybnosti o likviditě.
+- Binance od převzetí FTX ustoupila kvůli špatnému nakládání s prostředky zákazníků.
+- Kryptosvět postrádá propojení s reálnou ekonomikou a hrozí mu variace Ponziho schématu.
 title: Co znamená pád kryptoměnové burzy FTX?
 ---
 

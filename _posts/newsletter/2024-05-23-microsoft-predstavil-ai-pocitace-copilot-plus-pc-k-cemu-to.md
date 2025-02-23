@@ -13,6 +13,13 @@ date: '2024-05-23'
 layout: post
 original_newsletter: "#76 \U0001F9D1‍\U0001F4BB K čemu všechna ta AI v počítačích
   je?"
+summary_points:
+- Copilot Plus PC jsou nové AI počítače od Microsoftu, reagující na Apple.
+- Recall je průlomová funkce, která nahrává obrazovku a analyzuje činnost uživatele
+  pomocí AI.
+- Analýza Recall probíhá lokálně na počítači, což má zajistit bezpečnost dat.
+- Existují obavy ohledně soukromí a bezpečnosti dat funkce Recall, vzhledem k historii
+  Microsoftu.
 title: 'Microsoft představil AI počítače: Copilot Plus PC! K čemu to?'
 ---
 

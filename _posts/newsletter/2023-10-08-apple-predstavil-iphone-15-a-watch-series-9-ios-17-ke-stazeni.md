@@ -9,6 +9,11 @@ date: '2023-10-08'
 layout: post
 original_newsletter: 'Patrickův newsletter #68: Kvantové počítače a jiné novinky u
   Apple'
+summary_points:
+- iPhone 15 přináší rychlejší hardware, lepší displej a USB-C konektor.
+- Apple Watch Series 9 nově ovládá gesto "double tap" pro příjem hovorů.
+- EU donutila Apple k zavedení USB-C v iPhone 15 namísto Lightning.
+- Liché modely iPhonů se zaměřují na technické upgrady, ne zásadní inovace.
 title: Apple představil iPhone 15 a Watch Series 9, iOS 17 ke stažení
 ---
 

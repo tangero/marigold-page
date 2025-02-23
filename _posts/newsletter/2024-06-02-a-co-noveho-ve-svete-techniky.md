@@ -8,6 +8,11 @@ date: '2024-06-02'
 layout: post
 original_newsletter: "#77: Jak se USA \U0001F1FA\U0001F1F8 snaží dosáhnout polovodičové
   převahy nad Čínou \U0001F1E8\U0001F1F3"
+summary_points:
+- WWDC konference Apple proběhne 10. června a očekává se představení novinek.
+- iOS 18 bude představen s podporou umělé inteligence.
+- Apple pravděpodobně využije model OpenAI pro vylepšení Siri.
+- Neúspěch v AI by mohl vést ke kritice Apple.
 title: "\U0001F9D1‍\U0001F4BBA co nového ve světě techniky?"
 ---
 

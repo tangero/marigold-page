@@ -10,6 +10,11 @@ date: '2023-08-13'
 layout: post
 original_newsletter: 'Patrickův newsletter #66: Potíže s průlomovými změnami prostřednictvím
   AI'
+summary_points:
+- Transformace AI vyžaduje komplexní a zdlouhavý posun ve všech parametrech vývoje.
+- Dosažení obecné umělé inteligence je dle autora vzdáleno minimálně čtvrtstoletí.
+- Největší rizika AI v blízké budoucnosti představuje zneužití a předpojatost systémů.
+- Sledování rozvoje AGI vyžaduje vyhodnocování pokroku v širokém spektru odvětví.
 title: Komplexní řešení, komplexní výzvy
 ---
 

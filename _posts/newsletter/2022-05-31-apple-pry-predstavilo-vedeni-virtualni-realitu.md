@@ -10,6 +10,14 @@ date: '2022-05-31'
 layout: post
 original_newsletter: 'Patrickův newsletter #48: Špicl páně vyšel, na Apple novinky
   se čeká'
+summary_points:
+- Apple údajně prezentoval VR brýle představenstvu a registruje realityOS ochranné
+  známky.
+- WWDC 2022 pravděpodobně představí iOS 16 s widgety na uzamčené obrazovce a přepracovanými
+  notifikacemi.
+- iPadOS 16 má vylepšit práci s okny a multitasking, což uživatelé ocení.
+- WatchOS 9 pro Apple Watch přinese nové zdravotní funkce a přepracované každodenní
+  funkce.
 title: Apple prý představilo vedení virtuální realitu
 ---
 

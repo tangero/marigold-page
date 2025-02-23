@@ -10,6 +10,15 @@ date: '2022-07-27'
 layout: post
 original_newsletter: '#51: O sebemotivaci a také o tom, jak Huawei může narušit kritickou
   komunikaci strategického velení USA'
+summary_points:
+- CNN reportáž odhalila obavy FBI z čínského zařízení Huawei poblíž amerických vojenských
+  základen.
+- Huawei zařízení údajně dokáže zachytit a narušit komunikaci ministerstva obrany
+  USA.
+- Čínská vláda a Huawei popírají špionážní aktivity a schopnost zařízení narušovat
+  vojenskou komunikaci.
+- Čínské firmy jsou povinny pomáhat vládě, což vyvolává obavy o bezpečnost čínských
+  technologií.
 title: Pozadí zákazu Huawei technologií
 ---
 

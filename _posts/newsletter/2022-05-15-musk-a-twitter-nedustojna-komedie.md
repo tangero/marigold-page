@@ -8,6 +8,12 @@ date: '2022-05-15'
 layout: post
 original_newsletter: 'Patrickův newsletter #47: Internetizace války na Ukrajině a
   Muskova šaráda s Twitterem'
+summary_points:
+- Musk dosud Twitter nekoupil, akcionáři musí jeho nabídku ještě schválit.
+- Musk pozastavil odkup kvůli údajnému vysokému počtu spam účtů, což snížilo cenu
+  akcií.
+- Musk snižuje cenu Twitteru, využívá poklesu akcií Tesly a vyjednává s investory.
+- V Twitteru panuje nejistota, propouští se vedoucí pracovníci a situace je nestabilní.
 title: 'Musk a Twitter: nedůstojná komedie'
 ---
 
@@ -30,4 +36,3 @@ Pokud teď musíte jít do televize udělat prohlášení ve věci Twitteru, bu�
 Koneckonců pořád je řeč o Muskovi, který před několika lety prohlásil, že má "zajištěné financování", aby mohl Teslu převést na soukromou společnost. 
 
 Všichni víme, jak to dopadlo.
-

@@ -10,6 +10,11 @@ date: '2023-01-09'
 layout: post
 original_newsletter: 'Patrickův newsletter #62: Technologie roku? Generativní umělá
   inteligence!'
+summary_points:
+- Matter má usnadnit propojení zařízení chytré domácnosti různých ekosystémů.
+- Matter funguje jako prostředník pro akce zařízení přes Wi-Fi nebo protokol Thread.
+- Thread je radiová mesh technologie vyžadující Thread border router pro internet.
+- Matter je zdarma pro výrobce, kteří zaplatí certifikaci svých výrobků.
 title: Co je to Matter a proč je tak důležitý pro chytrou domácnost?
 ---
 

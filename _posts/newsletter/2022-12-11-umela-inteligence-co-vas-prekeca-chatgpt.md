@@ -13,6 +13,11 @@ date: '2022-12-11'
 layout: post
 original_newsletter: 'Patrickův newsletter #60: Umělá inteligence, co vás překecá.
   ChatGPT'
+summary_points:
+- ChatGPT je chatovací služba OpenAI založená na jazykovém modelu GPT-3.
+- ChatGPT má limity ve faktických znalostech, etice a skutečném porozumění.
+- Google by se mohl bát, ChatGPT by mohlo změnit vyhledávání na internetu.
+- Starlink rozšiřuje služby o vojenské aplikace Starshield pro vládní použití.
 title: Umělá inteligence, co vás překecá. ChatGPT
 ---
 

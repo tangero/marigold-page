@@ -9,6 +9,11 @@ date: '2023-10-08'
 layout: post
 original_newsletter: 'Patrickův newsletter #68: Kvantové počítače a jiné novinky u
   Apple'
+summary_points:
+- Pixel 8 a 8 Pro mají vylepšený fotoaparát a procesor Tensor G3 pro AI.
+- Android 14 je uvolňován pro Pixely a později i další zařízení.
+- Pixel 8 má podporovat generativní AI, ale Magic Editor má problémy.
+- Kvantové počítače budou dalším tématem po představení Pixelů.
 title: Google představil Android 14 a Pixel 8
 ---
 

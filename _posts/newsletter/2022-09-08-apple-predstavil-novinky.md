@@ -8,6 +8,10 @@ date: '2022-09-08'
 layout: post
 original_newsletter: 'Patrickův newsletter #54: Nové iPhony a Příběhy umělointeligenční
   chudoby'
+summary_points:
+- iPhone 14, Watch Series 8 a AirPods Pro jsou hlavní novinky od Applu.
+- Evoluce, ne revoluce, charakterizuje představené produkty Apple.
+- Prezentace Applu proběhla 7. září.
 title: Apple představil novinky
 ---
 

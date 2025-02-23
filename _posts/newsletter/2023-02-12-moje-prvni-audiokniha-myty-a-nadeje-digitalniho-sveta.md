@@ -9,6 +9,12 @@ date: '2023-02-12'
 layout: post
 original_newsletter: "Patrickův newsletter #63 \U0001F916 Naděje roku: procesory RISC-V
   a hromada AI novinek"
+summary_points:
+- Kniha autora je nejprodávanější na Melvilu a nově dostupná i jako audiokniha.
+- Audioknihu Mýty a naděje načetl herec Ondřej Halámek, ukázka je na Youtube.
+- Audiokniha samostatně stojí 429 Kč, balíček s e-knihou je se slevou za 365 Kč.
+- Autor žádá čtenáře o zpětnou vazbu na audioknihu a recenze na Goodreads/Databázi
+  knih.
 title: "\U0001F4D6Moje první audiokniha: Mýty a naděje digitálního světa"
 ---
 
