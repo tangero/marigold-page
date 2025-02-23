@@ -16,7 +16,7 @@ summary_points:
   chápání ctnosti.
 - 'Identifikovány jsou tři zmutované formy kapitalismu: monopolní, pokoutní a probuzený.'
 - Marshall vyzývá k lepší správě volných trhů a boji proti korporativismu a kamarádíčkování.
-thumbnail: https://www.marigold.cz/assets/JD-Vance-Paris-summit-2025.jpg
+thumbnail: https://i.ytimg.com/vi/G2DIEzdJLaA/maxresdefault.jpg
 title: 'Paul Marshall: Boj proti třem zmutovaným kapitalismům (přepis)'
 ---
 
