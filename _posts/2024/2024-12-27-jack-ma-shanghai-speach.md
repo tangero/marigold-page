@@ -5,6 +5,7 @@ categories:
 - Čína
 - Jack Ma
 - Ekonomika
+- projev
 layout: post
 post_excerpt: Toto je překlad projevu Jacka Ma, který pronesl 24. října 2020 na finančním
   summitu Bund v Šanghaji. Jack Ma v projevu zpochybnil tradiční bankovní model v
