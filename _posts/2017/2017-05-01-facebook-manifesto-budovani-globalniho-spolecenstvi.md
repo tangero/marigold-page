@@ -2,6 +2,11 @@
 ID: 3671
 author: Patrick Zandl
 layout: post
+categories:
+- projev
+- Facebook
+- Mark Zuckerberg
+- Meta
 post_date: 2017-05-01 20:34:53
 post_excerpt: ''
 published: true
@@ -54,7 +59,6 @@ title: 'Facebook Manifesto: Budování Globálního Společenství'
 
 <p>Naším úkolem ve Facebooku je pomoci lidem dosáhnout největšího pozitivního dopadu při současném zjemnění oblastí, kde technologie a sociální média mohou přispět k rozdělení a izolaci. Facebook je stále pokračující práce, stále se věnujeme vzdělávání a zlepšování. Bereme naši odpovědnost vážně, a dnes chci mluvit o tom, jak hodláme naplňovat naši roli při budování této globální komunity.</p>
 
-<p><img title="981135_10103508263194231_9002390543365843049_o.jpg" src="https://www.marigold.cz/wp-content/uploads/981135_10103508263194231_9002390543365843049_o.jpg" alt="981135 10103508263194231 9002390543365843049 o" width="600" height="60" border="0" /></p>
 
 <h2>Podpůrná společenství</h2>
 <p>Budování globální komunity, která funguje pro každého, obnáší začít s miliony menších komunit a hlubokými sociálními strukturami, které dnes používáme pro vlastní osobní, emocionální a duchovní potřeby.</p>
@@ -87,7 +91,6 @@ title: 'Facebook Manifesto: Budování Globálního Společenství'
 
 <p>Zdravá společnost potřebuje tyto společenství, komunity, k podpoře našich osobních, emočních a duchovních potřeb. Ve světě, v němž tato fyzická sociální infrastruktura klesá, máme opravdovou příležitost pomoci posilovat tyto komunity a sociální strukturu naší společnosti.</p>
 
-<p><img title="16715909_10103508266218171_6404994222609695260_o.jpg" src="https://www.marigold.cz/wp-content/uploads/16715909_10103508266218171_6404994222609695260_o.jpg" alt="16715909 10103508266218171 6404994222609695260 o" width="600" height="60" border="0" /></p>
 
 <p><span style="font-size: 1.5em; text-align: center;">Bezpečná komunita</span></p>
 
@@ -117,7 +120,6 @@ title: 'Facebook Manifesto: Budování Globálního Společenství'
 
 <p>Cesta kupředu spočívá ve vědomí, že globální společenství potřebuje sociální infrastrukturu, aby nás chránilo před hrozbami na celém světě a že naše společenství má jedinečnou pozici v předcházení katastrofám, pomoci při krizových situacích a následné obnově. Udržet globální komunitu v bezpečí je důležitou součástí naší mise - a důležitou součástí toho, jak měříme náš budoucí pokrok.</p>
 
-<p><img title="16700630_10103508268748101_7504257376118798153_o.jpg" src="https://www.marigold.cz/wp-content/uploads/16700630_10103508268748101_7504257376118798153_o.jpg" alt="16700630 10103508268748101 7504257376118798153 o" width="600" height="60" border="0" /></p>
 
 <h2>Informovaná komunita</h2>
 <p>Účelem každé komunity je svést lidi dohromady, aby dělali věci, které bychom sami udělat nemohli. K tomu potřebujeme způsoby, jak sdílet nové nápady a vytvářet dostatečné vzájemné pochopení vedoucí ke skutečné spolupráci.</p>
@@ -152,7 +154,6 @@ title: 'Facebook Manifesto: Budování Globálního Společenství'
 
 <p>Bez ohledu na vaši situaci, když vstoupíte do naší komunity, je naším závazkem pokračovat v zdokonalování našich nástrojů, abychom vám umožnili sdílet vaše zkušenosti. Zvyšováním rozmanitosti našich nápadů a posílením našeho vzájemného porozumění může mít naše společenství největší pozitivní dopad na svět.</p>
 
-<p><img title="16665524_10103508270883821_5598229689314358353_o.jpg" src="https://www.marigold.cz/wp-content/uploads/16665524_10103508270883821_5598229689314358353_o.jpg" alt="16665524 10103508270883821 5598229689314358353 o" width="600" height="60" border="0" /></p>
 
 <h2>Občansko-angažované společenství</h2>
 <p>Naše společnost odráží naše kolektivní hodnoty pouze tehdy, pokud se zapojíme do občanského procesu a podílíme se na samosprávě. Existují dva odlišné typy sociální infrastruktury, které musí být postaveny:</p>
@@ -175,7 +176,6 @@ title: 'Facebook Manifesto: Budování Globálního Společenství'
 
 <p>Poskytování hlasu lidem je principem, ke kterému se naše komunita od počátku zavázala. Při pohledu na budování sociální infrastruktury pro globální komunitu budeme pracovat na vytváření nových nástrojů, které podporují přemýšlivou občanskou angažovanost. Posílení schopnosti používat naše hlasy bude stále důležitější.</p>
 
-<p><img title="16722779_10103508272585411_3324456226748657389_o.jpg" src="https://www.marigold.cz/wp-content/uploads/16722779_10103508272585411_3324456226748657389_o.jpg" alt="16722779 10103508272585411 3324456226748657389 o" width="600" height="60" border="0" /></p>
 
 <h2>Inkluzivní Společenství</h2>
 <p>Budování inkluzivní globální komunity vyžaduje zavedení nového procesu pro občany po celém světě, aby se mohli účastnit správy komunit. Doufám, že budeme moci prozkoumat příklady toho, jak by kolektivní rozhodování mohlo fungovat v širším měřítku.</p>
@@ -208,7 +208,6 @@ title: 'Facebook Manifesto: Budování Globálního Společenství'
 
 <p>Celkově lze říci, že nároky na správu naší komunity roste s komplexitou a požadavky lidí. Naším závazkem je vždy dělat to nejlepší, ačkoliv to vede třeba k vytvoření celosvětového hlasovacího systému, abychom mohli lépe slyšet vaše požadavky a přizpůsobit jim tak vaše nastavení. Naší nadějí je, že tento model přináší příklady toho, jak kolektivní rozhodování může fungovat v jiných aspektech globální komunity.</p>
 
-<p><img title="16804067_10103508274631311_8401613758833731878_o.jpg" src="https://www.marigold.cz/wp-content/uploads/16804067_10103508274631311_8401613758833731878_o.jpg" alt="16804067 10103508274631311 8401613758833731878 o" width="600" height="60" border="0" /></p>
 
 <p>Jsou to důležité chvíle ve vývoji globálního společenství a jsou to také okamžiky, kdy mnoho z nás na celém světě zvažuje, jak by mohli co nejlépe a positivně přispět. </p>
 
