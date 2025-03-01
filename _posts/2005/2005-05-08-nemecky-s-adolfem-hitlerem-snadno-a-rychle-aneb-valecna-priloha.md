@@ -1,5 +1,7 @@
 ---
 ID: 1636
+audio_url: http://www.marigold.cz/audio/2005-05-08-nemecky-s-adolfem-hitlerem-snadno-a-rychle-aneb-valecna-priloha.mp3
+audiooff: false
 author: Patrick Zandl
 layout: post
 oldlink: 'https://www.marigold.cz/item/nemecky-s-adolfem-hitlerem-snadno-a-rychle-aneb-valecna-priloha
@@ -9,11 +11,16 @@ post_date: 2005-05-08 11:28:23
 post_excerpt: ''
 published: true
 summary_points:
-- iDNES vydal flashovou prezentaci o druhé světové válce s videozáznamy.
-- Hitlerovy projevy s českým textem jsou dostupné pro jazykovou a rétorickou analýzu.
-- Příloha nabízí i dobový pořad o nutriční hodnotě bramborové nati z roku 1945.
-- Autor doporučuje svou starou recenzi Mein Kampf, za kterou dostal obsílku.
-title: Německy s&nbsp;Adolfem Hitlerem snadno a&nbsp;rychle (aneb válečná příloha)
+- "iDNES vydal flashovou prezentaci o druh\xE9 sv\u011Btov\xE9 v\xE1lce s videoz\xE1\
+  znamy."
+- "Hitlerovy projevy s \u010Desk\xFDm textem jsou dostupn\xE9 pro jazykovou a r\xE9\
+  torickou anal\xFDzu."
+- "P\u0159\xEDloha nab\xEDz\xED i dobov\xFD po\u0159ad o nutri\u010Dn\xED hodnot\u011B\
+  \ bramborov\xE9 nati z roku 1945."
+- "Autor doporu\u010Duje svou starou recenzi Mein Kampf, za kterou dostal obs\xED\
+  lku."
+title: "N\u011Bmecky s&nbsp;Adolfem Hitlerem snadno a&nbsp;rychle (aneb v\xE1le\u010D\
+  n\xE1 p\u0159\xEDloha)"
 ---
 
 <p>Na iDNESu vyšla příloha věnovaná druhé světové válce. Není to jen pár textů a rozhovorů s pamětníky, je to celá flashová presentace, moc hezky udělaná. <a href="http://imgs.idnes.cz/oprilohy/infografika/valka/start.html">Najdete ji zde</a>. </p>
