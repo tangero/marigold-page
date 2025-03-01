@@ -6,8 +6,8 @@ categories:
 - kreativita
 - projev
 layout: post
-post_excerpt: Přepis přednášky Eda Newton-Rexe s názvem Jak modely umělé inteligence
-  kradou tvůrčí práci - a co s tím  z konference TEDx
+thumbnail: https://www.speakeragency.co.uk/media/03rnugam/edward-newton-rex-1160x500.jpg
+post_excerpt: Přepis přednášky Eda Newton-Rexe s názvem Jak modely umělé inteligence kradou tvůrčí práci - a co s tím  z konference TEDx
 summary_points:
 - AI modely trénují na tvůrčí práci bez licence, což je nespravedlivé.
 - Licencování tréninkových dat AI je možné a buduje lepší ekosystém.
