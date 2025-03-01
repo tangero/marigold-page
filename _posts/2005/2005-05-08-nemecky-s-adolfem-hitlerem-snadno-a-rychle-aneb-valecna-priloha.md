@@ -25,5 +25,5 @@ title: Německy s&nbsp;Adolfem Hitlerem snadno a&nbsp;rychle (aneb válečná p�
 <p>Velmi hezká multimediální příloha, jen co je pravda. Škoda, že se s takovými nesetkáváme výrazně častěji a i při moderních událostech, přeci jen je to osvěžení a využití toho, co internet nabízí.
 </p>
 
-<p><i>Update: a můžete si přečíst <a href="/item/adolf-hitler-mein-kampf/category/povidky-a-jine-newifi">moji starou recenzi Mein Kampf</a>, ve své době byla tak populární, že jsem za ni dostal obsílku :)</i>
+<p><i>Update: a můžete si přečíst <a href="/item/adolf-hitler-mein-kampf/">moji starou recenzi Mein Kampf</a>, ve své době byla tak populární, že jsem za ni dostal obsílku :)</i>
 </p>
