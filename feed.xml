@@ -1,4 +1,138 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-01T11:36:09+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">John Tasioulas - Proč je umělá inteligence hrozbou a jak ji využít pro dobro věci (přepis přednášky)</title><link href="https://www.marigold.cz/item/john-tasioulas-proc-je-ai-hrozbou/" rel="alternate" type="text/html" title="John Tasioulas - Proč je umělá inteligence hrozbou a jak ji využít pro dobro věci (přepis přednášky)" /><published>2025-02-23T00:00:00+00:00</published><updated>2025-02-23T00:00:00+00:00</updated><id>https://www.marigold.cz/item/john-tasioulas-proc-je-ai-hrozbou</id><content type="html" xml:base="https://www.marigold.cz/item/john-tasioulas-proc-je-ai-hrozbou/"><![CDATA[<p>Přepis přednášky <a href="https://en.wikipedia.org/wiki/John_Tasioulas">Johna Tasioulase</a> s názvem „Why AI Is A Threat - And How To Use It For Good“ na konferenci TEDxAthens 2025, která se konala 16. února 2025.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-01T14:46:39+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Victor Riparbelli - Stane se z nás poslední generace, která bude umět číst a psát? (přepis přednášky)</title><link href="https://www.marigold.cz/item/victor-riparbelli-will-AI-make-us-the-last-generation-to-read-write/" rel="alternate" type="text/html" title="Victor Riparbelli - Stane se z nás poslední generace, která bude umět číst a psát? (přepis přednášky)" /><published>2025-03-01T00:00:00+00:00</published><updated>2025-03-01T00:00:00+00:00</updated><id>https://www.marigold.cz/item/victor-riparbelli-will-AI-make-us-the-last-generation-to-read-write</id><content type="html" xml:base="https://www.marigold.cz/item/victor-riparbelli-will-AI-make-us-the-last-generation-to-read-write/"><![CDATA[<p>Přepis přednášky podnikatele Victora Riparbelliho s názvem <a href="https://www.ted.com/talks/victor_riparbelli_will_ai_make_us_the_last_generation_to_read_and_write">„Will AI Make Us the Last Generation to Read and Write?“</a> na konferenci TED Talk 19. října 2024.</p>
+
+<p>Přednáška se zabývá tím, jak by umělá inteligence mohla změnit lidskou komunikaci a potenciálně učinit tradiční gramotnost pro budoucí generace zastaralou.</p>
+
+<p>Kdo je <a href="https://www.linkedin.com/in/victorriparbelli/">Victor Riparbelli</a>? Zakladatel a CEO významné firmy podnikající v AI Synthesia.ai a jeden z nejvlivnějších lidí v oblasti AI.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6wCml0g2mRE?si=gqTw88NXx4A6vAod" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<h3 id="konec-čtení-a-psaní-jak-je-známe">Konec čtení a psaní, jak je známe</h3>
+<p>VICTOR RIPARBELLI: Vaši vnuci budou poslední generací, která bude číst a psát. Vím, že to zní divně, téměř nemyslitelně. Text je všude kolem nás. Používáme ho stokrát denně a prorůstá do struktury našeho každodenního života. Ale dnes budu tvrdit, že neúnavná snaha lidstva o lepší způsoby předávání myšlenek a uchovávání znalostí nekončí u textu.</p>
+
+<p>Myslím, že stojíme na úsvitu nové éry komunikace s využitím umělé inteligence. A myslím si, že budoucí generace budou text pomalu nahrazovat intuitivnějšími formami komunikace, jako je zvuk, video a nakonec i imerzivní technologie. A myslím, že jednoho dne se budeme na čtení a psaní dívat jako na historické artefakty, podobně jako na papyrové svitky, hieroglyfy nebo jeskynní malby.</p>
+
+<p>Nechápejte mě špatně, já čtu rád. To není osobní msta vůči textu. K mým nejmilejším vzpomínkám patří procházky po místní knihovně v Kodani, kterou tady vidíte za mnou, vybírání nejrůznějších knih, většinou sci-fi, vracení se domů, abych si je přečetl a mohl se tam zase vrátit a vybrat si další sadu vzrušujících knih ke čtení. Rád jsem se ztrácel v těchto světech, které byly jiné než fyzický svět kolem mě.</p>
+
+<h3 id="internet-všechno-změnil">Internet všechno změnil</h3>
+
+<p>A to se samozřejmě jen umocnilo, když jsem asi v deseti letech objevil internet, který mi otevřel zcela nový svět myšlenek, hudby a lidí. Informace na internetu však byly zdarma a já na vlastní oči viděl, jak technologie nezměnila jen distribuci obsahu, ale i obsah samotný. Rozdíl mezi živým fórem a knihou je obrovský, že? Blog a noviny a tak dále.</p>
+
+<p>V hudbě, která je mou velkou mimopracovní vášní, jsem viděl, jak softwarové nástroje, samplování a bicí automaty daly vzniknout zcela novým žánrům, které předtím nebyly možné. A nejen to, všichni lidé na celém světě, kteří vytvářeli novou, vzrušující hudbu, se o ni mohli podělit se světem bez prostředníků v podobě vydavatelství.</p>
+
+<p>Videohry, které jsem hrál, se připojily k internetu. Vytvářeli jste komunity s lidmi z celého světa, které jste neznali. Alespoň tak si to mysleli moji rodiče. Svůj první podnik jsem založil ve třinácti letech ve hře World of Warcraft. Bylo nás 50 lidí, kteří jsme společně zabíjeli draky online, a později jsem v životě zjistil, že to vlastně není tak odlišné od vedení startupu.</p>
+
+<h3 id="od-her-k-umělé-inteligenci">Od her k umělé inteligenci</h3>
+
+<p>A právě tyto první roky mého života podnítily můj celoživotní zájem o média a technologie, o to, jak mění způsob, jakým tvoříme, konzumujeme, hrajeme a komunikujeme. A v roce 2016 jsem objevil výzkumnou práci s názvem Face-to-Face od profesora Matthiase Miesnera a jeho týmu. Sestrojili systém, který pomocí neuronových sítí dokázal vytvořit opravdu, ale opravdu fotorealistické video.</p>
+
+<p>A když jsem to viděl poprvé, měl jsem pocit, že jsem viděl kouzlo. A byl jsem přesvědčen, že za deset let budete moci vytvořit hollywoodský film ze své ložnice, aniž byste potřebovali cokoli jiného než jen svou představivost. To bude za tři roky a myslím, že to skutečně vydrží.</p>
+
+<p>Nemohl jsem tuhle myšlenku dostat z hlavy a nakonec jsem spolu s Matthiasem a Ludusem a Steffenem, mými spoluzakladateli, založil společnost Synthesia, která se zabývá umělou inteligencí ve videu. A to byl opravdu způsob, jak skloubit můj zájem o média, technologie a sci-fi. Společnost jsme založili s vizí, že z každého člověka na světě uděláme hollywoodského režiséra.</p>
+
+<p>A i když je to rozhodně stále velmi vzrušující vize, postupem času jsme si uvědomili, že jakkoli jsou hollywoodské filmy generované umělou inteligencí vzrušující, je to jen špička ledovce. Skutečně vzrušující potenciál těchto technologií spočívá v tom, že umožní oživit ve videu a zvuku každý jednotlivý obsah, od textových zpráv přes romány až po nudné firemní školicí materiály.</p>
+
+<h3 id="vývoj-lidské-komunikace">Vývoj lidské komunikace</h3>
+
+<p>Než si však povíme více o videu, pojďme si povědět něco o textu. Text je původním způsobem komprese lidské komunikace. Své myšlenky a znalosti kódujeme do symbolů, které mohou přenášet význam napříč časem a prostorem. Nebylo tomu tak vždy. Před tisíci lety text neexistoval a jediným způsobem, jak sdílet informace, byla ústní komunikace.</p>
+
+<p>V roce 1500 př. n. l. byla vynalezena první abeceda, která v podstatě převzala tyto velmi složité systémy psaní a zjednodušila je na pouhých několik znaků, čímž položila základy moderní společnosti, kterou známe dnes. V roce 1440 vynalezl Gutenberg knihtisk a poprvé v historii jsme mohli masově produkovat psaný obsah. Trvalo až do poloviny 20. století, než se čtení stalo masovou záležitostí a lidé se pomalu stávali gramotnými.</p>
+
+<h3 id="omezení-textu">Omezení textu</h3>
+
+<p>Pokud se přesuneme do dnešní doby, text je všudypřítomný a žít život bez schopnosti číst a psát je nemožné. Ale jakkoli je text skvělý, je to nedokonalá technologie. Je velmi efektivní a škálovatelná. Ale je to velmi, velmi ztrátová metoda komprese informací. Postrádá všechny nuance a dodatečné informace, které získáme, když s někým mluvíme v reálném životě. Váš tón hlasu, řeč těla, místo, kde se nacházíte, všechny tyto věci jsou pro toto sdělení důležité, že?</p>
+
+<p>Text lze interpretovat milionem různých způsobů v závislosti na příjemci. Je to dobrá, nebo špatná zpráva? To je velmi těžké říct, že? Ale vynalezli jsme emotikony, abychom to trochu vylepšili. Ale ani emodži nejsou dokonalé. Lidé stále diskutují o tom, zda je tento smajlík šťastný. Je snad naštvaný? Chystá se vás zabít? Debata pokračuje.</p>
+
+<h3 id="síla-vizuální-komunikace">Síla vizuální komunikace</h3>
+
+<p>A když se zamyslíte nad vizuální komunikací, tohle je obrázek. Všem vám trvalo pár vteřin, než jste se na tento obrázek podívali a pochopili ho, že? Je to velmi intuitivní způsob konzumace informací. Co kdybych se s vámi místo toho podělil o tento textový popis obrázku? Trvalo by vám 30 sekund, než byste si ho přečetli? Vysoké kognitivní zatížení, abyste tyto kousky symbolů vzali a v mysli z nich vytvořili obraz, že? A i kdybych vám dal 30 stránek popisu, vždycky byste si představili jiný obraz, než jaký právě teď vidíte za mnou.</p>
+
+<p>Jakmile přidáme časový rozměr, jako je tomu u videa, tento problém se masivně prohloubí. Není tedy až tak zvláštní, že od vynálezu textu inovujeme směrem k bohatším a intuitivnějším způsobům výměny informací. Vynalezli jsme rádio, televizi, internet, VR, sociální média a nyní umělou inteligenci.</p>
+
+<h3 id="vzestup-videa-a-zvuku">Vzestup videa a zvuku</h3>
+
+<p>V roce 2024 je zcela zřejmé, že se lidé chtějí dívat a poslouchat. Pokud se podíváte na digitální ekonomiku, nejrychleji rostoucí sociální sítí je TikTok. Je také nejrychleji rostoucím vyhledávačem, což je velmi zajímavé. Video a zvuk jsou všude v aplikacích, které používáme. V aplikaci WhatsApp posíláme hlasové poznámky. Nyní jsme v seznamovacích aplikacích. Když nakupujeme, sledujeme produktová videa.</p>
+
+<p>A moje teze je, že čím více konzumujeme video, tím více nás nudí text. A musím říct, že to platí i pro mě, přestože rád čtu. Když se učím něco nového, obvykle začnu na YouTube, na TikToku nebo poslouchám podcast. A jen když mě něco opravdu, ale opravdu zajímá, tak si udělám hodiny času na to, abych si přečetla dvousetstránkovou knihu. Už mi to prostě tolik nestojí za to.</p>
+
+<p>A mnozí z vás to nejspíš cítí stejně. Chcete se učit hudební teorii z dlouhé knihy, nebo z videa na YouTube, které má zvuk? Chcete cestou do práce poslouchat zprávy v podcastu nebo si někde složit ten fyzický list papíru? Většina lidí to tak cítí.</p>
+
+<h3 id="vina-moderní-konzumace-médií">Vina moderní konzumace médií</h3>
+
+<p>Všichni však máme tento pocit viny. Alespoň já ji mám. Cítím se provinile, když se dívám na videa a když poslouchám podcasty, místo abych vzal do ruky starou dobrou knihu. Když k tomu slyšíte komentáře, mladí lidé se už nedokážou soustředit. Potřebují neustálé dávky dopaminu z laciného obsahu, který projíždějí v aplikacích na sociálních sítích. Už nevycházejí ze svého pokoje. Přesně to samé říkají rodiče už 200 let.</p>
+
+<p>Mám jeden výsadní nápad. Co když jsme všichni jen unavení z příliš hutných a pomalých informací? Knihy s příliš mnoha stránkami. Novinové články s výplní. Co když začneme být mnohem citlivější na kvalitu a stručnost obsahu, který konzumujeme, protože nyní máme nekonečný výběr? Co když se současná generace dětí dokáže učit a vstřebávat informace mnohem rychleji díky technologiím, ne jim navzdory? Je problém v nás, nebo v textu?</p>
+
+<p>Stále ještě hodně čteme, že? Jen čteme každý den z mnoha různých zdrojů, nejen z knihy a novin. Čteme v aplikacích pro zasílání zpráv a na sociálních sítích.</p>
+
+<p>A náš blog. Posloucháme dlouhé podcasty. Velmi se to rozrůstá, že? Ale stále máme představu, že knihy jsou v jistém smyslu morálně nadřazené. A i když vám přednáším, stále to velmi silně pociťuji. Nevím, proč tomu tak je. Nechám to na někom jiném, aby to prozkoumal. Ale rozhodně je velmi zajímavé, jak psychologicky přisuzujeme větší hodnotu psanému slovu.</p>
+
+<h3 id="ekonomika-tvorby-obsahu">Ekonomika tvorby obsahu</h3>
+
+<p>Proč je tedy tolik informací stále textových, když ve skutečnosti dáváme přednost videu? Je to docela jednoduché. Odpovědí jsou náklady. Náklady v čase a náklady v penězích. Dnes si musíme vybrat mezi rychlostí a rozsahem textu nebo přesností a angažovaností videoobsahu.</p>
+
+<p>A tak je zde základní ekonomická motivace, kdy se do video a audio formátů převádí pouze obsah a myšlenky a znalosti, které považujeme za dostatečně důležité. A tak to v zábavním průmyslu znamená, že dostáváme spíše Rychle a zběsile 278 než avantgardní filmy od studentů filmových škol. Ve firemním světě to znamená, že reklama na Super Bowl je video, ale video o požární bezpečnosti je dlouhý, nudný dokument.</p>
+
+<h3 id="jak-umělá-inteligence-změní-tvorbu-obsahu">Jak umělá inteligence změní tvorbu obsahu</h3>
+<p>A to se brzy změní ve velkém, velkém stylu. Umělá inteligence tuto rovnici zcela změní. Díky AI můžeme získat jak rychlost, tak rozsah, přesnost a angažovanost. AI dokáže digitálně vytvářet vysoce fotorealistický obsah. Počítače se mohou naučit, jak vypadá svět, a mohou ho replikovat a remixovat do úžasných detailů.</p>
+
+<p>Tím se spustí nová vlna kreativity. A nebude řízena Hollywoodem. Budou ji pohánět youtubeři a mladí lidé se skvělými nápady, kteří tyto nástroje využijí a budou vyprávět úžasné příběhy.</p>
+
+<h3 id="avataři-s-umělou-inteligencí-a-digitální-lidé">Avataři s umělou inteligencí a digitální lidé</h3>
+
+<p>Ve společnosti Cynthesia se zaměřujeme na avatary AI, digitální lidi, kteří zní a vypadají jako my. Mohou být dokonce námi, pokud si vytvoříte svůj klon. Dnes už naši avataři komunikují s miliony lidí každý den. Učí školní předměty, nastupují do restaurací, poskytují zdravotní poradenství a prodávají produkty ve více než 130 různých jazycích. A začínají být opravdu dobří. Velmi brzy je bude velmi obtížné odlišit od reality.</p>
+
+<p>„Dobrý den. Jsem Alex, osobní avatar. Jsem tak nadšený a šťastný, že jsem tady. Vidíte, jak výrazný jsem a slyšíte, jak přirozeně zním? Není to skvělé? Zatím se měj. Doufám, že se brzy uvidíme.“</p>
+
+<p>Toto video je kompletně vytvořeno umělou inteligencí. Já jsem Alex. Stále neví, kdy přestat mluvit.</p>
+
+<p>S těmito technologiemi tedy můžeme vytvořit cokoli, aniž bychom potřebovali kamery. Můžeme přivést k životu své představy bez tradičních bariér v podobě dovedností a nákladů.</p>
+
+<h3 id="demokratizace-tvorby-videa">Demokratizace tvorby videa</h3>
+
+<p>Co je však na všech těchto nových technologiích ještě zajímavější, je to, že díky nim bude vytváření obsahu nesmírně snadné pro kohokoli. Už jsme viděli, jak klávesnice a počítače z nás všech udělaly spisovatele. Viděli jsme, jak PowerPoint z nás všech udělal designéry. A s umělou inteligencí se každý bude moci stát režisérem a vytvářet videa hollywoodské kvality, aniž by k tomu potřeboval jakékoli školení, jako to vidíte tady za mnou.</p>
+
+<p>V Zendidě jsme už z více než milionu lidí udělali tvůrce videí a je opravdu zábavné sledovat, o čem všem lidé natáčejí videa, ale nemusí se ptát svého šéfa, protože se prostě mohou přihlásit a natáčet videa sami.</p>
+
+<h3 id="výzkum-preferencí-při-učení">Výzkum preferencí při učení</h3>
+
+<p>Proč lidé natáčejí videa? Zatím to není příliš prozkoumaná oblast, ale spolupracujeme s UCL v Londýně, abychom zjistili, jak se učíme jinak s videem a videem s umělou inteligencí než s textem. Provedli jsme studii se 400 účastníky. Stále probíhá. Výsledky plánujeme zveřejnit někdy v příštím roce, ale máme opravdu zajímavé první poznatky.</p>
+
+<p>Když se lidí prostě zeptáte, zda se raději učíte pomocí videa s umělou inteligencí, nebo pomocí textu, výsledky jsou docela překvapivé. Až 77 % lidí se raději učí prostřednictvím videa.</p>
+
+<h3 id="mimo-tradiční-mediální-formáty">Mimo tradiční mediální formáty</h3>
+
+<p>Rychlejší a jednodušší tvorba obsahu tak bude mít transformační význam. Ale s novými technologiemi vždy vymýšlíme nové mediální formáty. A právě teď je většina obsahu vytvářeného umělou inteligencí tím, čemu říkám překlenovací žánr. Používáme ho k vytváření starých formátů pomocí nových technologií.
+Stejně jako první webové stránky vypadaly jako noviny na obrazovce, jsou dnes videa s umělou inteligencí lineární. Mají začátek a konec. V podstatě napodobují to, co můžeme zaznamenat fyzickou kamerou.</p>
+
+<p>Jakmile zkombinujeme AI videa s uvažovacími systémy, jako jsou jazykové modely, odemkneme zcela nový typ médií, která budou interaktivní a personalizovaná. Budou schopna přemýšlet, vyprávět a personalizovat obsah za nás.</p>
+
+<h3 id="budoucnost-personalizovaného-učení-a-zábavy">Budoucnost personalizovaného učení a zábavy</h3>
+
+<p>Pokud se učíte hudební teorii, budete mít k dispozici asistenta, který zná úroveň vašich dovedností, zná váš hudební vkus a podle toho sestaví učební plán. Všechny vaše děti možná budeme mít ve škole jejich oblíbené celebrity, které je budou učit matematiku. A budou to dělat v kontextu, který je pro vaše dítě zajímavý. Třeba to bude fotbal nebo sci-fi nebo cokoli jiného. Vzdělávání bude díky těmto novým systémům umělé inteligence nabitější.
+Zábava se změní. Bude se utvářet podle diváků a okolního světa.</p>
+
+<p>Pravděpodobně budeme mít interaktivní filmy. Budeme mít televizní seriály, které nikdy neskončí. Zní to divně, ale v mnoha ohledech je právě tohle kanál sociálních médií, že? Je to prostě konec příběhu. Váš kanál TikTok je také nekonečný proud personalizovaného obsahu určeného právě pro vás.</p>
+
+<p>A když to zkombinujeme s novými formami, jako je rozšířená realita, virtuální realita, rozhraní mozek-počítač, budou se média stále více podobat skutečnému životu. Možná budeme v budoucnu předávat zprávy svým přátelům jen prostřednictvím myšlenek. A naše schránka nebude textová. Budou to videa všech vašich přátel a avatarů vašich příbuzných s umělou inteligencí, kteří s vámi budou mluvit. Zní to divně, ale myslím, že to není tak daleko. A slibuji vám, že vaše video o požární bezpečnosti v práci bude v nedaleké budoucnosti spielbergovským mistrovským dílem.</p>
+
+<h3 id="etické-a-filozofické-otázky">Etické a filozofické otázky</h3>
+
+<p>Tyto technologie otevírají Pandořinu skříňku otázek. Jsou tu otázky etické, politické, designové i komerční. A v těchto otázkách se dnes mnoho řečníků podělilo o skvělé názory.</p>
+
+<p>Nechám vás tu s několika provokativními otázkami. Záleží vám na tom, zda je náš obsah generován umělou inteligencí, nebo ne? Záleží vám na tom, když se ve filmu používají speciální efekty nebo zelené plátno? Není nám jedno, že herci v reklamách jsou placeni za to, aby hráli někoho jiného a propagovali produkty, o kterých pravděpodobně nikdy neslyšeli?</p>
+
+<p>Záleží nám na tom, zda jsou herci skuteční, nebo generovaní? Jste fanoušky Harryho Pottera nebo Daniela Radcliffa? Záleží na tom, že Daniel Radcliffe existuje ve skutečném světě? Pravděpodobně se s ním nikdy nesetkáte, že? A co Mickey Mouse nebo postavičky z Pixaru? Můžeme k nim něco cítit, přestože jsou vytvořeny umělou inteligencí?</p>
+
+<p>Budeme důvěřovat agentům s umělou inteligencí, nebo budete stále chtít zavolat do call centra a mluvit s člověkem? Mohou nás bavit počítače, které spolu komunikují? Chtěli byste hrát s počítači, hrát fotbal nebo šachy proti sobě? Možná ne.</p>
+
+<h3 id="závěr">Závěr</h3>
+
+<p>Budoucnost je před námi, a i když mnohé z toho zní jako sci-fi, ve skutečnosti není tak daleko. A je na nás všech v této místnosti a ve společnosti, abychom se postarali o to, že vybudujeme opravdu úžasnou budoucnost. Myslím, že na to máme technologie a myslím, že na to máme lidi.</p>
+
+<p>Děkuji vám.</p>
+
+<p><strong>Poznámka na závěr:</strong> nesouhlasím s Riparbellim, že by uživatelé plošně dávali přednost videoobsahu. Videoobsah je velmi řídké médium, poměr informací k nutné délce konzumace je nevýhodný oproti psanému textu. Pro náročnější informace je psaný text stále výhodnější, než video, video se hodí pro povrchnější informovanost. Což ale neznamená, že nesouhlasím v hlavní myšlence, že video se začne stávat stále významnějším způsobem informovanosti…</p>]]></content><author><name>Patrick Zandl</name></author><category term="Videoobsah" /><category term="AI" /><category term="projev" /><summary type="html"><![CDATA[Přepis přednášky podnikatele Victora Riparbelliho s názvem „Will AI Make Us the Last Generation to Read and Write?“ na konferenci TED Talk 19. října 2024.]]></summary></entry><entry xml:lang="cs"><title type="html">John Tasioulas - Proč je umělá inteligence hrozbou a jak ji využít pro dobro věci (přepis přednášky)</title><link href="https://www.marigold.cz/item/john-tasioulas-proc-je-ai-hrozbou/" rel="alternate" type="text/html" title="John Tasioulas - Proč je umělá inteligence hrozbou a jak ji využít pro dobro věci (přepis přednášky)" /><published>2025-02-23T00:00:00+00:00</published><updated>2025-02-23T00:00:00+00:00</updated><id>https://www.marigold.cz/item/john-tasioulas-proc-je-ai-hrozbou</id><content type="html" xml:base="https://www.marigold.cz/item/john-tasioulas-proc-je-ai-hrozbou/"><![CDATA[<p>Přepis přednášky <a href="https://en.wikipedia.org/wiki/John_Tasioulas">Johna Tasioulase</a> s názvem „Why AI Is A Threat - And How To Use It For Good“ na konferenci TEDxAthens 2025, která se konala 16. února 2025.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8vQGGcPojM4?si=emkWPhWprrnDw9iW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
@@ -1540,165 +1674,4 @@ Využití fyzikálně podmíněných generativních adversariálních sítí (GA
 
 <p>Audio Přehled je momentálně asi funkce navíc, protože bez kvalitního českého hlasu to v angličtině příliš nevyužijete.</p>
 
-<p>GenFM chybí možnost audiosoubory exportovat, ale je to nadějné - zatím spíše pro osobní použití. A Superpodcast zatím spíše slíbil…</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="NotebookML" /><category term="podcasty" /><summary type="html"><![CDATA[Umělá inteligence přinesla řadu úžasných nástrojů pro analýzu dat. Jednou z forem výstupu takové analýzy může být i hlasová podcast. Představíme si tři nástroje, do nichž můžete nasypat své podklady, nechat si vygenerovat hlasový výstup - a ten si pak nahrát do mobilu a poslouchat jej za běhání či v autě.]]></summary></entry><entry xml:lang="cs"><title type="html">Vývoj frekvenčního spektra pro 5G a 6G: Standardizace a hledání nových frekvencí</title><link href="https://www.marigold.cz/item/nova-frekvenci-pasma-5g-6g/" rel="alternate" type="text/html" title="Vývoj frekvenčního spektra pro 5G a 6G: Standardizace a hledání nových frekvencí" /><published>2024-11-24T00:00:00+00:00</published><updated>2024-11-24T00:00:00+00:00</updated><id>https://www.marigold.cz/item/nova-frekvenci-pasma-5g-6g</id><content type="html" xml:base="https://www.marigold.cz/item/nova-frekvenci-pasma-5g-6g/"><![CDATA[<p>Technologie 5G přinesla zásadní změny v mobilních sítích, včetně vyšších rychlostí, nižší latence a vyšší spolehlivosti. S nástupem 6G však očekáváme další zvyšování nároků na všechny tyto parametry, které určují spokojenost uživatelů s datovými přenosy. Bude potřeba rozsáhlé frekvenční spektrum, které bude schopno poskytovat nejen kapacitu, ale i dostatečné pokrytí. A k tomu se tradičně dostáváme především rozšiřování frekvenčního spektra použitelného v sítích 5G a 6G.</p>
-
-<p>Od roku 2014 byl pokrok v oblasti hledání a standardizace nových frekvencí zaměřen především na optimalizaci stávajícího využití a otevírání nových pásem, která byla dříve využívána pro jiné účely. V tomto článku prozkoumáme klíčové milníky v této oblasti a hodnotí přínosy jednotlivých frekvenčních rozsahů.</p>
-
-<p><img src="/assets/6g-radio-spectrum.jpg" alt="Přehled frekvencí" /></p>
-
-<h2 id="vývoj-frekvenčních-pásem-pro-5g">Vývoj frekvenčních pásem pro 5G</h2>
-
-<h3 id="nízké-pásmo--1-ghz">Nízké pásmo (&lt; 1 GHz)</h3>
-
-<p>Nízkofrekvenční pásma byla tradičně používána pro televizní vysílání a některé vojenské aplikace. Tato pásma poskytují vynikající pokrytí a průnik signálu do budov, avšak jejich omezená šířka pásma omezuje datové přenosy. S nástupem 5G byla nízká pásma znovu přidělena pro mobilní komunikaci, což umožnilo lepší dostupnost sítí v odlehlých oblastech a budovách. Tradičně se používají frekvence 900 MHz pro GSM, postupem doby se ale toto pásmo refarmovalo na využití pro LTE. Například v Česku takto postupoval v minulosti Vodafone s částí svého 900 MHz pásma a nejnověji <a href="https://www.lupa.cz/aktuality/hotovo-o2-hlasi-konec-modernizace-site-na-kmitoctech-pro-2g-spusti-lte/">v říjnu 2024 české O2</a>. Nepříjemnou nevýhodou tohoto postupu je ale ukončení životnosti řady zařízení, které v tomto pásmu očekávají sítě GSM a s LTE neumí fungovat. Jde především o nejrůznější telematické a zabezpečovací zařízení.</p>
-
-<h3 id="střední-pásmo-17-ghz">Střední pásmo (1–7 GHz)</h3>
-
-<p>Střední pásmo se stalo hlavní „pracovní frekvencí“ pro 5G, protože nabízí ideální rovnováhu mezi kapacitou a pokrytím. V USA se od roku 2014 využívají pásma kolem 2,5 GHz a 3,5 GHz. Pásmo 6 GHz bylo nedávno přidáno k mezinárodním standardům pro IMT, přičemž některé části jsou stále sdíleny s Wi-Fi a dalšími technologiemi.</p>
-
-<h3 id="milimetrové-vlny--24-ghz">Milimetrové vlny (&gt; 24 GHz)</h3>
-
-<p>Milimetrové vlny (mmWave) byly původně vyhrazeny pro radarové systémy, satelitní komunikaci a vědecký výzkum. V sítích 5G slouží k pokrytí hustě zalidněných oblastí, jako jsou stadiony nebo nákupní centra, kde je požadována vysoká kapacita. Tyto frekvence mají však omezené pokrytí a špatný průnik překážkami, což omezuje jejich využití ve velkém měřítku.</p>
-
-<h2 id="přechod-k-6g-potenciál-nových-frekvenčních-pásem">Přechod k 6G: Potenciál nových frekvenčních pásem</h2>
-
-<h3 id="rozšíření-středního-pásma-715-ghz">Rozšíření středního pásma (7–15 GHz)</h3>
-
-<p>Rozsah 7,125–15,35 GHz, označovaný jako „horní střední pásmo“, se stává klíčovým kandidátem pro 6G. V minulosti byla tato pásma využívána například pro radarové systémy nebo satelitní služby. Jejich hlavní výhodou je větší dostupná šířka pásma, která umožňuje současné zpracování vysokého objemu dat a poskytuje lepší možnosti sdílení spektra.</p>
-
-<p>Sdílení spektra v této oblasti však vyžaduje pokročilé technologie, jako jsou masivní MIMO systémy nebo dynamické sdílení spektra. Zvláště důležitá je schopnost přizpůsobit se potřebám stávajících uživatelů spektra, což zahrnuje využití exkluzivních zón a koordinace s radiolokačními a satelitními systémy.</p>
-
-<h3 id="sub-thz-pásma-90300-ghz">Sub-THz pásma (90–300 GHz)</h3>
-
-<p>Sub-THz frekvence představují novou hranici v telekomunikacích. Dříve byla tato pásma využívána hlavně pro vědecké účely, jako je spektrální analýza atmosféry. S nástupem 6G se očekává, že tato pásma poskytnou obrovskou kapacitu pro aplikace vyžadující extrémně vysoké přenosové rychlosti, jako je bezdrátový přenos dat v datových centrech nebo velmi přesné polohovací služby.</p>
-
-<p>Technologické výzvy spojené s těmito frekvencemi zahrnují vyšší ztráty signálu způsobené atmosférickou absorpcí a nutnost použití pokročilých anténních systémů, například čočkových antén.</p>
-
-<p><img src="/assets/vyvoj-frekvenci-5G.png" alt="Frekvence pro pásma 5G a 6G v plánování" /></p>
-
-<h2 id="klíčové-metody-pro-využití-nových-pásem">Klíčové metody pro využití nových pásem</h2>
-
-<p><strong>Vyčištění a repacking</strong> <br />
-Vyčištění spektra spočívá v přesunutí nebo optimalizaci stávajících služeb. Například přechod televizního vysílání na digitální platformy uvolnil spektrum v pásmu 600 MHz, které bylo následně použito pro mobilní sítě. Podobný proces probíhá u satelitních služeb v C-pásmu (3,7–4,2 GHz).</p>
-
-<p><strong>Sdílení spektra</strong> <br />
-Sdílení spektra je klíčovou metodou tam, kde není možné vyčistit celé pásmo. Příkladem je pásmo CBRS (3,55–3,7 GHz) v USA, kde probíhá dynamické sdílení mezi vojenskými radary a komerčními mobilními službami.</p>
-
-<h2 id="globální-standardizace">Globální standardizace</h2>
-<p>Světová radiokomunikační konference (WRC-23) přijala několik důležitých rozhodnutí:</p>
-
-<ul>
-  <li>Identifikace pásma 3,3-3,4 GHz pro IMT v regionu 1 (Evropa, Afrika)</li>
-  <li>Přidělení pásma 6,425-7,125 GHz pro IMT v regionu 1</li>
-  <li>Studium možností využití pásem 4,4-15,5 GHz pro budoucí mobilní sítě</li>
-</ul>
-
-<p>USA</p>
-
-<ul>
-  <li>Zaostává v dostupnosti středního pásma (13. místo z 15 sledovaných zemí)</li>
-  <li>Celkem 450 MHz spektra v pásmu 3-7 GHz</li>
-  <li>Vedoucí pozice v nízkých pásmech</li>
-</ul>
-
-<p>Japonsko</p>
-
-<ul>
-  <li>1100 MHz spektra v středním pásmu</li>
-  <li>Pokročilé nasazení mmWave technologií</li>
-</ul>
-
-<p>Čína</p>
-
-<ul>
-  <li>460 MHz v středním pásmu + plánovaných 1200 MHz v pásmu 6 GHz</li>
-  <li>Aktivní podpora vývoje 6G technologií</li>
-</ul>
-
-<p>Na základě dokumentu a mých znalostí připravím analýzu situace v Evropě:</p>
-
-<h2 id="situace-s-frekvenčními-pásmy-v-evropě">Situace s frekvenčními pásmy v Evropě</h2>
-
-<p>Evropa, spadající do Regionu 1 podle ITU, má specifickou situaci ve využívání frekvenčních pásem pro 5G a budoucí 6G sítě. Klíčovou roli zde hraje CEPT (European Conference of Postal and Telecommunications Administrations), který koordinuje telekomunikační politiku napříč evropskými zeměmi.</p>
-
-<p>Aktuálně využívaná pásma pro 5G:</p>
-
-<ol>
-  <li>Mid-band (3.4-3.8 GHz) 
-    <ul>
-      <li>Toto pásmo je považováno za “zlatý střed” pro 5G v Evropě</li>
-      <li>Většina evropských zemí již dokončila aukce těchto frekvencí</li>
-      <li>Nabízí dobrý kompromis mezi pokrytím a kapacitou</li>
-      <li>V porovnání s USA má Evropa v tomto pásmu výhodu díky včasnému uvolnění frekvencí</li>
-    </ul>
-  </li>
-  <li>Vysoko-frekvenční pásmo (26 GHz) 
-    <ul>
-      <li>Evropské země postupně uvolňují toto pásmo pro 5G</li>
-      <li>Využití je zatím omezené, především pro specifické průmyslové aplikace</li>
-      <li>Potenciál pro velmi vysoké přenosové rychlosti v hustě osídlených oblastech</li>
-    </ul>
-  </li>
-</ol>
-
-<p>Nově plánovaná pásma podle WRC-23:</p>
-
-<ol>
-  <li>6.425-7.125 GHz
-    <ul>
-      <li>Region 1 (včetně Evropy) získal identifikaci tohoto pásma pro IMT</li>
-      <li>Představuje významný potenciál pro rozšíření kapacity 5G sítí</li>
-      <li>Vyžaduje koordinaci s existujícími službami, zejména satelitními</li>
-    </ul>
-  </li>
-  <li>Upper Mid-band (7.125-8.5 GHz)
-    <ul>
-      <li>V Evropě se studuje část 7.125-7.25 GHz a 7.75-8.4 GHz</li>
-      <li>Potenciál pro budoucí využití v 6G sítích</li>
-      <li>Nutná koordinace s vojenskými a satelitními systémy</li>
-    </ul>
-  </li>
-</ol>
-
-<p>Specifické evropské výzvy:</p>
-
-<ol>
-  <li>Přeshraniční koordinace
-    <ul>
-      <li>Hustá síť státních hranic vyžaduje složitou mezinárodní koordinaci</li>
-      <li>Potřeba harmonizace využití spektra mezi sousedními zeměmi</li>
-      <li>Implementace speciálních koordinačních mechanismů</li>
-    </ul>
-  </li>
-  <li>Sdílení spektra
-    <ul>
-      <li>Evropa je průkopníkem v oblasti dynamického sdílení spektra</li>
-      <li>Rozvoj nových technologií pro koexistenci různých služeb</li>
-      <li>Implementace sofistikovaných systémů správy spektra</li>
-    </ul>
-  </li>
-</ol>
-
-<p>Celkově lze říci, že Evropa zaujímá proaktivní přístup k identifikaci a implementaci nových frekvenčních pásem, s důrazem na harmonizaci a efektivní využití spektra. Významnou roli hraje také snaha o podporu evropského technologického průmyslu a zachování konkurenceschopnosti v globálním měřítku.</p>
-
-<h2 id="touhy-po-6g">Touhy po 6G</h2>
-
-<p>Pro úspěšné nasazení 6G sítí bude klíčové:</p>
-
-<ul>
-  <li>Zajištění dostatečné šířky pásma (odhadováno 2-3 GHz na operátora)</li>
-  <li>Vyřešení technologických výzev v oblasti sub-THz komunikace</li>
-  <li>Standardizace nových frekvenčních pásem</li>
-  <li>Efektivní využití existující síťové infrastruktury</li>
-</ul>
-
-<p>S přípravou na 6G sítě se pozornost odborné komunity obrací k novým frekvenčním pásmům. Významnou roli by mělo hrát horní střední pásmo (Upper Mid-Band) v rozsahu 7,125-15,35 GHz. Zejména frekvence pod 10 GHz představují zajímavý potenciál díky kombinaci relativně dobrých propagačních vlastností a dostupné šířky pásma. Toto pásmo, dosud využívané především pro mikrovlnné spoje a satelitní komunikaci, vyžaduje implementaci pokročilých anténních systémů pro kompenzaci vyššího útlumu signálu.</p>
-
-<p>Skutečnou revoluci by mohlo přinést sub-terahertzové pásmo (Sub-THz Band) mezi 90-300 GHz. Toto pásmo nabízí bezprecedentní šířku pásma umožňující přenosové rychlosti v řádu stovek gigabitů za sekundu. Extrémní útlum signálu však omezuje jeho praktické využití na velmi specifické aplikace, jako jsou bezdrátová datacentra nebo vysokorychlostní point-to-point spoje.</p>
-
-<p>V globálním měřítku lze pozorovat významné rozdíly v přístupu jednotlivých regionů k přidělování spektra. Zatímco Spojené státy americké vedou v dostupnosti nízkého pásma, v kritickém středním pásmu zaostávají za většinou vyspělých zemí. Japonsko naopak disponuje rozsáhlým středním pásmem o šířce 1100 MHz a pokročilým nasazením mmWave technologií. Čína zvolila ambiciózní přístup s plánovaným přidělením až 1200 MHz v pásmu 6 GHz pro mobilní služby.
-Světová radiokomunikační konference (WRC-23) přinesla několik klíčových rozhodnutí pro budoucí vývoj. Kromě identifikace nových pásem pro IMT (International Mobile Telecommunications) v různých regionech světa stanovila také ambiciózní plán studia využití frekvencí mezi 4,4-15,5 GHz pro příští generaci mobilních sítí.</p>
-
-<p>Prognózy předpovídají čtyřnásobný nárůst mobilního datového provozu do roku 2028, což klade enormní nároky na kapacitu sítí. Pro uspokojení této poptávky bude klíčové nejen nalezení nových frekvenčních pásem, ale také vývoj efektivnějších technologií pro využití spektra a nových přístupů ke sdílení frekvencí mezi různými službami.</p>
-
-<p>Úspěšné nasazení 6G sítí bude vyžadovat komplexní přístup zahrnující technologické inovace, mezinárodní standardizaci a efektivní využití existující infrastruktury. Odhaduje se, že každý operátor bude potřebovat 2-3 GHz spektra pro plnohodnotné poskytování 6G služeb. Dosažení tohoto cíle představuje významnou výzvu pro celé odvětví mobilních telekomunikací.</p>]]></content><author><name>Patrick Zandl</name></author><category term="Mobilní sítě" /><category term="5G" /><summary type="html"><![CDATA[Technologie 5G přinesla zásadní změny v mobilních sítích, včetně vyšších rychlostí, nižší latence a vyšší spolehlivosti. S nástupem 6G však očekáváme další zvyšování nároků na všechny tyto parametry, které určují spokojenost uživatelů s datovými přenosy. Bude potřeba rozsáhlé frekvenční spektrum, které bude schopno poskytovat nejen kapacitu, ale i dostatečné pokrytí. A k tomu se tradičně dostáváme především rozšiřování frekvenčního spektra použitelného v sítích 5G a 6G.]]></summary></entry></feed>
+<p>GenFM chybí možnost audiosoubory exportovat, ale je to nadějné - zatím spíše pro osobní použití. A Superpodcast zatím spíše slíbil…</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="NotebookML" /><category term="podcasty" /><summary type="html"><![CDATA[Umělá inteligence přinesla řadu úžasných nástrojů pro analýzu dat. Jednou z forem výstupu takové analýzy může být i hlasová podcast. Představíme si tři nástroje, do nichž můžete nasypat své podklady, nechat si vygenerovat hlasový výstup - a ten si pak nahrát do mobilu a poslouchat jej za běhání či v autě.]]></summary></entry></feed>
