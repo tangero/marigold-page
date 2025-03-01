@@ -3,7 +3,7 @@ layout: post
 title: "Matthew Wong - The Kingdom (2017)"
 date: 2025-03-01
 order: 
-namalovano: 1910
+namalovano: 2017
 autor: Matthew Wong
 obraz: The Kingdom
 styl: expresionismus
@@ -18,7 +18,7 @@ Kontrast mezi zlatavými slunečnicemi a temným pozadím vytváří napětí me
 
 Obraz zjevně vychází ze slunečnic van Gogha. Van Gogh maloval své Slunečnice (1888-1889) jako symbol přátelství a naděje, ale v jeho malbě lze cítit i osobní vnitřní boj. U Wonga slunečnice získávají symbol osamělosti a pomíjivosti. Matthew Wong se nepochybně inspiroval van Goghem, ale jeho Slunečnice jsou mnohem temnější, hloubavější a symboličtější. Zatímco Van Gogh viděl v květinách přátelství a cyklus života, Wong je vkládá do tajuplného prostoru, kde se realita mísí se vzpomínkami a snem. Oba mistři využívají stejný motiv, ale s odlišným emocionálním poselstvím.
 
-![Matthew Wong - The Sunflower](/assets/obrazy/matthew-wong-the-sunflower)
+![Matthew Wong - The Sunflower](/assets/obrazy/matthew-wong-the-sunflower.jpg)
 
 ### 2️⃣ Království - The Kingdom” 🍂💛 
 
