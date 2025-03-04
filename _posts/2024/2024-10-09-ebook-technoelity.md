@@ -1,18 +1,25 @@
 ---
+audio_url: http://www.marigold.cz/audio/2024-10-09-ebook-technoelity.mp3
+audiooff: false
 author: Patrick Zandl
 categories:
 - Knihy
 - eBook
 layout: post
-post_excerpt: Připravuji nový ebook, předobjednávat si ho už můžete...
+post_excerpt: "P\u0159ipravuji nov\xFD ebook, p\u0159edobjedn\xE1vat si ho u\u017E\
+  \ m\u016F\u017Eete..."
 summary_points:
-- Kniha Mýty a naděje digitálního světa původně obsahovala kapitolu o šéfech technofirem.
-- Autor se rozhodl napsat ebook Technoelity o excentrických šéfech technologických
-  korporací.
-- Ebook Technoelity bude mít rozsah cca 150 000 znaků a bude ve formátech PDF a ePub.
-- Projekt ebooku Technoelity byl úspěšně financován a autor jej dokončí.
+- "Kniha M\xFDty a nad\u011Bje digit\xE1ln\xEDho sv\u011Bta p\u016Fvodn\u011B obsahovala\
+  \ kapitolu o \u0161\xE9fech technofirem."
+- "Autor se rozhodl napsat ebook Technoelity o excentrick\xFDch \u0161\xE9fech technologick\xFD\
+  ch korporac\xED."
+- "Ebook Technoelity bude m\xEDt rozsah cca 150 000 znak\u016F a bude ve form\xE1\
+  tech PDF a ePub."
+- "Projekt ebooku Technoelity byl \xFAsp\u011B\u0161n\u011B financov\xE1n a autor\
+  \ jej dokon\u010D\xED."
 thumbnail: https://www.marigold.cz/assets/technoelity.png
-title: Ebook Technoelity - Když příliš málo určuje příliš mnoho
+title: "Ebook Technoelity - Kdy\u017E p\u0159\xEDli\u0161 m\xE1lo ur\u010Duje p\u0159\
+  \xEDli\u0161 mnoho"
 ---
 
 Když jsem připravoval knihu [Mýty a naděje digitálního světa](https://www.melvil.cz/kniha-myty-a-nadeje-digitalniho-sveta/?utm_source=substack&utm_medium=email), byla zde kapitola věnovaná svébytným šéfům technologických korporací. Nakonec jsme ji vyřadili, protože tematicky vybočovala, byla spíše o společnosti, než o technologiích - a výrazně prodlužovala knihu. Jenže je to velká škoda, byl to dobrý vhled do toho, jak se excentričtí a egocentričtí šéfové technofirem se svými obrovskými zdroji propisují do našeho světa. 
