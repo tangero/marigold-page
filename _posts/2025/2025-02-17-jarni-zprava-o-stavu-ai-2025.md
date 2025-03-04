@@ -27,7 +27,7 @@ Materiál je rozsáhlejší, 15 stran v PDF, cca 30 000 znaků. Proto je ke sta�
 
 ### Platba za zprávu
 
-Cena zprávy je 100 Kč. Zaplatit můžete buďto přes QR platbu nebo [službou Buy me a Coffee](https://buymeacoffee.com/vybaveni).  Přednastavenou částku 100 Kč můžete libovolně změnit nahoru (i dolů, pokud vám zpráva nebyla užitečná).
+Cena zprávy je 100 Kč. Zaplatit můžete buďto přes QR platbu nebo [službou Buy me a Coffee](https://buymeacoffee.com/vybaveni) nebo elektronicky přes [Payhip](https://payhip.com/b/pOzsy)  Přednastavenou částku 100 Kč můžete libovolně změnit nahoru (i dolů, pokud vám zpráva nebyla užitečná).
 
 ![QR platba](/assets/ebook/qr-fio.jpeg)
 
