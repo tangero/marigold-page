@@ -14,7 +14,7 @@ post_excerpt: Musk se rozhodl přitlačit na vydírání Ukrajiny a hrozí vypnu
 summary_points:
 - Musk hrozí vypnutím Starlinku na Ukrajině, proto se hledá záložní řešení.
 - Eutelsat Group vznikla fúzí Eutelsatu a OneWeb v roce 2023, má 630 satelitů.
-- Eutelsat nabízí nižší latenci, ale menší přenosovou rychlost než Starlink.
+- Eutelsat má nižší latenci oproti GEO satelitům, ale menší přenosovou rychlost než Starlink.
 - Starlink má kompaktnější terminály, Eutelsat je vhodnější pro vládní použití.
 thumbnail: http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2025-03/2025-03-04T101756Z_1534088195_RC2DGT9QBZCY_RTRMADP_3_EUTELSAT-COM-STOCKS.JPG.jpg
 title: Může Eutelsat nahradit na Ukrajině Starlink?
@@ -24,12 +24,12 @@ Musk se rozhodl přitlačit na vydírání Ukrajiny a hrozí vypnutím Starlinku
 
 Eutelsat a OneWeb jsou nyní součástí jedné společnosti, která vznikla jejich fúzí v roce 2023. Zde je stručná historie:
 
-**Historie Eutelsat**
+**Historie Eutelsat** 
 - Založen v roce 1977 jako evropská mezivládní organizace pro satelitní komunikaci
 - V roce 2001 se transformoval na soukromou společnost
 - V roce 2005 vstoupil na burzu
 
-**Historie OneWeb**
+**Historie OneWeb** 
 - Založen v roce 2012 pod názvem WorldVu
 - V roce 2019 vypustil první satelity
 - V roce 2020 [vyhlásil bankrot](https://www.marigold.cz/item/starlink_internet_vsude_pres_satelity/), následně byl zachráněn investicí britské vlády a indické společnosti Bharti Global
@@ -38,22 +38,22 @@ Fúze Eutelsat a OneWeb byla oznámena v červenci 2022 a dokončena 28. září
 
 ### Technologické porovnání
 
-Pokrytí signálem:
-     🛰️ Eutelsat/OneWeb: Po fúzi s OneWebdisponuje Eutelsat přibližně 630 satelity na nízké oběžné dráze Země (LEO), které pokrývají Evropu, včetně Ukrajiny.  
+Pokrytí signálem: \
+     🛰️ Eutelsat/OneWeb: Po fúzi s OneWebdisponuje Eutelsat přibližně 630 satelity na nízké oběžné dráze Země (LEO), které pokrývají Evropu, včetně Ukrajiny.  \
     ♨️ Starlink: Provozuje více než 7 000 satelitů na LEO, což mu umožňuje globální pokrytí, včetně Ukrajiny.  
 
-Kapacita sítě a přenosová rychlost:
-     🛰️  Eutelsat/OneWeb: Nabízí přenosové rychlosti až 150 Mb/s.
+Kapacita sítě a přenosová rychlost: \
+     🛰️  Eutelsat/OneWeb: Nabízí přenosové rychlosti až 150 Mb/s.\
      ♨️  Starlink: Poskytuje rychlosti stahování až 200 Mb/s.  
 
-Kvalita a latence datových přenosů:
-     🛰️  Eutelsat/OneWeb: Díky umístění satelitů na LEO nabízí nižší latenci ve srovnání se satelity na geostacionární dráze.  
+Kvalita a latence datových přenosů: \
+     🛰️  Eutelsat/OneWeb: Díky umístění satelitů na LEO nabízí nižší latenci ve srovnání se satelity na geostacionární dráze.  \
      ♨️  Starlink: Dosahuje latence mezi 20 a 40 ms, což je srovnatelné s pozemními připojeními.  
 
 Terminály Eutelsatu jsou navrženy pro podnikové a vládní použití, jsou větší a méně přenosné. Ukrajina pracuje na kompaktní verzi. Terminály Starlinku jsou kompaktní a snadno přenosné, což umožňuje rychlé nasazení v terénu. I tak ale zpravidla potřebují rozměrnější anténu. 
 
-Možnost použití v dálkových dronech pronikajících hluboko do ruského týlu:
-     🛰️  Eutelsat/OneWeb: Díky nižší latenci a stabilnímu připojení by mohl podporovat komunikaci s drony, avšak větší velikost terminálů může omezit jejich integraci do menších dronů.
+Možnost použití v dálkových dronech pronikajících hluboko do ruského týlu: \
+     🛰️  Eutelsat/OneWeb: Díky nižší latenci a stabilnímu připojení by mohl podporovat komunikaci s drony, avšak větší velikost terminálů může omezit jejich integraci do menších dronů.\
      ♨️  Starlink: Kompaktní terminály umožňují integraci do různých typů zařízení, ale ani současná nejmenší verze Starlinku není vhodná pro přímou integraci do dronů. 
 
 Tady je potřeba dodat, že o tom, jakým způsobem komunikují dálkové drony s centrálou, se logicky mnoho neví. Předpokládá se, že se používají zmenšené terminály, ale datová kapacita nebude vysoká, rozhodně se neobjevují žádná videa z těchto dronů a tak je třeba uvažovat o tom, že dnes se Starlink (i kvůli rozměrné anténě) pro spojení s dálkovými drony nepoužívá. Ano, některé mobilní telefony mají možnost používat Starlink přenosy, což naznačuje možnou miniaturizaci, ale tato možnost je za podmínek otevřeného nebe (drony splňují) a velmi nízké přenosové kapacity. Věrohodně ovšem víme pramálo. 
