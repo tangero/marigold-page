@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-06T07:10:29+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Může Eutelsat nahradit na Ukrajině Starlink?</title><link href="https://www.marigold.cz/item/eutelsat-versus-starlink-ukrajina/" rel="alternate" type="text/html" title="Může Eutelsat nahradit na Ukrajině Starlink?" /><published>2025-03-06T00:00:00+00:00</published><updated>2025-03-06T00:00:00+00:00</updated><id>https://www.marigold.cz/item/eutelsat-versus-starlink-ukrajina</id><content type="html" xml:base="https://www.marigold.cz/item/eutelsat-versus-starlink-ukrajina/"><![CDATA[<p>Musk se rozhodl přitlačit na vydírání Ukrajiny a hrozí vypnutím Starlinku. Již podruhé. Naštěstí se již přes rok pracuje na záložním řešením, jímž může být Eutelsat. Nebude dokonalé, ale bude pro řadu případů dostatečné. Pojďme se na to podívat.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-06T07:25:38+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Může Eutelsat nahradit na Ukrajině Starlink?</title><link href="https://www.marigold.cz/item/eutelsat-versus-starlink-ukrajina/" rel="alternate" type="text/html" title="Může Eutelsat nahradit na Ukrajině Starlink?" /><published>2025-03-06T00:00:00+00:00</published><updated>2025-03-06T00:00:00+00:00</updated><id>https://www.marigold.cz/item/eutelsat-versus-starlink-ukrajina</id><content type="html" xml:base="https://www.marigold.cz/item/eutelsat-versus-starlink-ukrajina/"><![CDATA[<p>Musk se rozhodl přitlačit na vydírání Ukrajiny a hrozí vypnutím Starlinku. Již podruhé. Naštěstí se již přes rok pracuje na záložním řešením, jímž může být Eutelsat. Nebude dokonalé, ale bude pro řadu případů dostatečné. Pojďme se na to podívat.</p>
 
 <p>Eutelsat a OneWeb jsou nyní součástí jedné společnosti, která vznikla jejich fúzí v roce 2023. Zde je stručná historie:</p>
 
@@ -20,22 +20,22 @@
 
 <h3 id="technologické-porovnání">Technologické porovnání</h3>
 
-<p>Pokrytí signálem:
-     🛰️ Eutelsat/OneWeb: Po fúzi s OneWebdisponuje Eutelsat přibližně 630 satelity na nízké oběžné dráze Země (LEO), které pokrývají Evropu, včetně Ukrajiny.<br />
+<p>Pokrytí signálem: <br />
+     🛰️ Eutelsat/OneWeb: Po fúzi s OneWebdisponuje Eutelsat přibližně 630 satelity na nízké oběžné dráze Země (LEO), které pokrývají Evropu, včetně Ukrajiny.  <br />
     ♨️ Starlink: Provozuje více než 7 000 satelitů na LEO, což mu umožňuje globální pokrytí, včetně Ukrajiny.</p>
 
-<p>Kapacita sítě a přenosová rychlost:
-     🛰️  Eutelsat/OneWeb: Nabízí přenosové rychlosti až 150 Mb/s.
+<p>Kapacita sítě a přenosová rychlost: <br />
+     🛰️  Eutelsat/OneWeb: Nabízí přenosové rychlosti až 150 Mb/s.<br />
      ♨️  Starlink: Poskytuje rychlosti stahování až 200 Mb/s.</p>
 
-<p>Kvalita a latence datových přenosů:
-     🛰️  Eutelsat/OneWeb: Díky umístění satelitů na LEO nabízí nižší latenci ve srovnání se satelity na geostacionární dráze.<br />
+<p>Kvalita a latence datových přenosů: <br />
+     🛰️  Eutelsat/OneWeb: Díky umístění satelitů na LEO nabízí nižší latenci ve srovnání se satelity na geostacionární dráze.  <br />
      ♨️  Starlink: Dosahuje latence mezi 20 a 40 ms, což je srovnatelné s pozemními připojeními.</p>
 
 <p>Terminály Eutelsatu jsou navrženy pro podnikové a vládní použití, jsou větší a méně přenosné. Ukrajina pracuje na kompaktní verzi. Terminály Starlinku jsou kompaktní a snadno přenosné, což umožňuje rychlé nasazení v terénu. I tak ale zpravidla potřebují rozměrnější anténu.</p>
 
-<p>Možnost použití v dálkových dronech pronikajících hluboko do ruského týlu:
-     🛰️  Eutelsat/OneWeb: Díky nižší latenci a stabilnímu připojení by mohl podporovat komunikaci s drony, avšak větší velikost terminálů může omezit jejich integraci do menších dronů.
+<p>Možnost použití v dálkových dronech pronikajících hluboko do ruského týlu: <br />
+     🛰️  Eutelsat/OneWeb: Díky nižší latenci a stabilnímu připojení by mohl podporovat komunikaci s drony, avšak větší velikost terminálů může omezit jejich integraci do menších dronů.<br />
      ♨️  Starlink: Kompaktní terminály umožňují integraci do různých typů zařízení, ale ani současná nejmenší verze Starlinku není vhodná pro přímou integraci do dronů.</p>
 
 <p>Tady je potřeba dodat, že o tom, jakým způsobem komunikují dálkové drony s centrálou, se logicky mnoho neví. Předpokládá se, že se používají zmenšené terminály, ale datová kapacita nebude vysoká, rozhodně se neobjevují žádná videa z těchto dronů a tak je třeba uvažovat o tom, že dnes se Starlink (i kvůli rozměrné anténě) pro spojení s dálkovými drony nepoužívá. Ano, některé mobilní telefony mají možnost používat Starlink přenosy, což naznačuje možnou miniaturizaci, ale tato možnost je za podmínek otevřeného nebe (drony splňují) a velmi nízké přenosové kapacity. Věrohodně ovšem víme pramálo.</p>
