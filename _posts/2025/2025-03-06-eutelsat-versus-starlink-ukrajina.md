@@ -49,7 +49,7 @@ Kapacita sítě a přenosová rychlost: \
      ♨️  Starlink: Poskytuje rychlosti stahování až 200 Mb/s.  
 
 Kvalita a latence datových přenosů: \
-     🛰️  Eutelsat/OneWeb: Díky umístění satelitů na LEO nabízí nižší latenci ve srovnání se satelity na geostacionární dráze.  \
+     🛰️  Eutelsat/OneWeb: Díky umístění satelitů na LEO nabízí nižší latenci ve srovnání se satelity na geostacionární dráze, jako jsou třeba Inmarsat. Latence je ale vyšší, než u Starlinku, kolem 80 ms. \
      ♨️  Starlink: Dosahuje latence mezi 20 a 40 ms, což je srovnatelné s pozemními připojeními.  
 
 Terminály Eutelsatu jsou navrženy pro podnikové a vládní použití, jsou větší a méně přenosné. Ukrajina pracuje na kompaktní verzi. Terminály Starlinku jsou kompaktní a snadno přenosné, což umožňuje rychlé nasazení v terénu. I tak ale zpravidla potřebují rozměrnější anténu. 
