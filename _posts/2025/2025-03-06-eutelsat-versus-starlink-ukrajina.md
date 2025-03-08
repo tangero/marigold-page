@@ -36,6 +36,8 @@ Eutelsat a OneWeb jsou nyní součástí jedné společnosti, která vznikla jej
 
 Fúze Eutelsat a OneWeb byla oznámena v červenci 2022 a dokončena 28. září 2023. Vznikla nová společnost “Eutelsat Group” s dvěma hlavními dceřinými společnostmi - Eutelsat a Eutelsat OneWeb. Hlavními akcionáři jsou francouzská a britská vláda, každá s přibližně 10% podílem. Další významní akcionáři zahrnují Bharti Global, Bpifrance a Hanwha Group. Společnost je veřejně obchodována na burze
 
+> **📕 Technoelity a nástup broligarchie** - můj nový ebook, který vás provede světem svérázných šéfů technologických firem a jejich nárokům na to, jak má vypadat funkční stát. Detailněji se podíváme na to, jak se Elon Musk stal podporovatelem Donalda Trumpa i co si od toho vlastně broligarchové slibují. A že nevíte, co jsou broligarchové? I to se dozvíte. 👉 [Stahovat můžete zde](https://payhip.com/b/yjt2Z). 
+
 ### Technologické porovnání
 
 Pokrytí signálem: \
