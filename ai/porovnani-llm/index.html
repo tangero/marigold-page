@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné? | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou." />
+<meta property="og:description" content="Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou." />
+<link rel="canonical" href="https://www.marigold.cz/ai/porovnani-llm/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/porovnani-llm/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-03-09T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-03-09T00:00:00+00:00","datePublished":"2025-03-09T00:00:00+00:00","description":"Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou.","headline":"Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/porovnani-llm/"},"url":"https://www.marigold.cz/ai/porovnani-llm/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?" />
+    <meta property="twitter:title" content="Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?" />
+    
+
+    
+    <!-- page.thumbnail -->
+    
+        <!-- page.thumbnail https://cxscoop.com/wp-content/uploads/2023/07/Google-Microsoft-OpenAI-and-Anthropic-to-Form-Industry-Group-1440x914.png |  -->
+    <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/https://cxscoop.com/wp-content/uploads/2023/07/Google-Microsoft-OpenAI-and-Anthropic-to-Form-Industry-Group-1440x914.png"/>
+    <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/https://cxscoop.com/wp-content/uploads/2023/07/Google-Microsoft-OpenAI-and-Anthropic-to-Form-Industry-Group-1440x914.png"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/porovnani-llm/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+9.
+březen
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+  
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/https://cxscoop.com/wp-content/uploads/2023/07/Google-Microsoft-OpenAI-and-Anthropic-to-Form-Industry-Group-1440x914.png" alt="Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?">
+  </div>
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou.</p>
+
+<p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#openai" id="markdown-toc-openai">OpenAI</a>    <ul>
+      <li><a href="#shrnutí-vhodnosti-použití" id="markdown-toc-shrnutí-vhodnosti-použití">Shrnutí vhodnosti použití:</a></li>
+    </ul>
+  </li>
+  <li><a href="#anthropic-claude" id="markdown-toc-anthropic-claude">Anthropic Claude</a>    <ul>
+      <li><a href="#shrnutí-vhodnosti-použití-1" id="markdown-toc-shrnutí-vhodnosti-použití-1">Shrnutí vhodnosti použití:</a></li>
+    </ul>
+  </li>
+  <li><a href="#google-gemini" id="markdown-toc-google-gemini">Google Gemini</a>    <ul>
+      <li><a href="#shrnutí-vhodnosti-použití-2" id="markdown-toc-shrnutí-vhodnosti-použití-2">Shrnutí vhodnosti použití:</a></li>
+    </ul>
+  </li>
+  <li><a href="#ponaučení" id="markdown-toc-ponaučení">Ponaučení</a></li>
+</ul>
+
+<h2 id="openai">OpenAI</h2>
+
+<p>Zde je tabulka porovnávající modely OpenAI o1, o3-mini (včetně variant low/medium/high), GPT-4o a GPT-4.5 z hlediska parametrů a vhodnosti použití:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Model</strong></th>
+      <th><strong>Počet parametrů</strong></th>
+      <th><strong>Vhodné pro úlohy</strong></th>
+      <th><strong>Klíčové vlastnosti</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>o1</strong></td>
+      <td>~200 miliard (odhad)</td>
+      <td>STEM (věda, technologie, inženýrství, matematika), generování kódu, vědecký výzkum, pokročilé uvažování</td>
+      <td>Vylepšené uvažování (Chain of Thought), excelentní v matematice a kódování, analýza obrázků</td>
+    </tr>
+    <tr>
+      <td><strong>o3-mini-low</strong></td>
+      <td>~8 miliard (odhad)</td>
+      <td>Nákladově efektivní úlohy s nižšími požadavky na přesnost</td>
+      <td>Optimalizováno pro nízké náklady, základní úroveň uvažování</td>
+    </tr>
+    <tr>
+      <td><strong>o3-mini-medium</strong></td>
+      <td>~8 miliard (odhad)</td>
+      <td>Vyvážené úlohy mezi výkonem a náklady</td>
+      <td>Střední úroveň uvažování</td>
+    </tr>
+    <tr>
+      <td><strong>o3-mini-high</strong></td>
+      <td>~8 miliard (odhad)</td>
+      <td>Úlohy vyžadující vyšší přesnost a lepší analytické schopnosti</td>
+      <td>Nejvyšší úroveň uvažování, delší doba zpracování</td>
+    </tr>
+    <tr>
+      <td><strong>GPT-4o</strong></td>
+      <td>~200 miliard (odhad)</td>
+      <td>Multimodální úlohy (text, obraz, audio), reálné interakce, analýza dat, překlady</td>
+      <td>Multimodalita (text, obraz, audio), velké kontextové okno (128 000 tokenů), generování řeči</td>
+    </tr>
+    <tr>
+      <td><strong>GPT-4.5</strong></td>
+      <td>Neznámý (větší než GPT-4)</td>
+      <td>Široké spektrum úloh: kreativní psaní, programování, komplexní analýzy</td>
+      <td>Největší model OpenAI s vylepšeným kontextovým oknem (128 000 tokenů), excelentní v programování a analýze</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="shrnutí-vhodnosti-použití">Shrnutí vhodnosti použití:</h3>
+<ol>
+  <li><strong>o1:</strong> Ideální pro vědecký výzkum, matematiku a složité technické problémy. Nabízí pokročilé uvažování a schopnost analyzovat obrazy.</li>
+  <li><strong>o3-mini:</strong> Nákladově efektivní volba pro STEM úlohy. Varianta “high” je vhodná pro přesnější analýzy.</li>
+  <li><strong>GPT-4o:</strong> Skvělý pro multimodální aplikace zahrnující text, obraz a zvuk. Vhodný pro překlady, reálné interakce a datovou analýzu.</li>
+  <li><strong>GPT-4.5:</strong> Nejuniverzálnější model s vysokou přesností a velkým kontextovým oknem. Vhodný pro kreativní psaní, programování a komplexní analýzy.</li>
+</ol>
+
+<p>Každý model má své specifické silné stránky a je vhodný pro různé typy aplikací v závislosti na požadavcích na výkon, přesnost nebo náklady.</p>
+
+<p>Zdroje:</p>
+<ul>
+  <li><a href="https://www.techtarget.com/whatis/feature/OpenAI-o1-explained-Everything-you-need-to-know">OpenAI o1 explained: Everything you need to know</a></li>
+  <li><a href="https://www.techtarget.com/WhatIs/feature/OpenAI-o3-explained-Everything-you-need-to-know">OpenAI o3 explained: Everything you need to know</a></li>
+  <li><a href="https://www.techtarget.com/whatis/feature/GPT-4o-explained-Everything-you-need-to-know">GPT-4o explained: Everything you need to know - TechTarget</a></li>
+  <li><a href="https://www.ibm.com/think/topics/gpt-4o">What Is GPT-4o? - IBM</a></li>
+</ul>
+
+<h2 id="anthropic-claude">Anthropic Claude</h2>
+
+<p>Zde je tabulka porovnávající modely Claude 3.7 Sonnet, 3.5 Sonnet, 3.5 Haiku a 3 Opus z hlediska parametrů a vhodnosti použití:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>Počet parametrů</th>
+      <th>Vhodné pro úlohy</th>
+      <th>Klíčové vlastnosti</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Claude 3.7 Sonnet</td>
+      <td>Neznámý</td>
+      <td>Vyvážené úlohy mezi výkonem a rychlostí, kreativní úkoly, programování</td>
+      <td>Vylepšené schopnosti oproti 3.5, “rozšířené myšlení”</td>
+    </tr>
+    <tr>
+      <td>Claude 3.5 Sonnet</td>
+      <td>Neznámý</td>
+      <td>Všeobecné použití, analýza dat, generování obsahu</td>
+      <td>Vylepšená verze 3 Sonnet, rychlejší než Opus</td>
+    </tr>
+    <tr>
+      <td>Claude 3.5 Haiku</td>
+      <td>Neznámý</td>
+      <td>Rychlé zpracování, nákladově efektivní úlohy</td>
+      <td>Nejrychlejší a nejlevnější model z rodiny Claude 3.5</td>
+    </tr>
+    <tr>
+      <td>Claude 3 Opus</td>
+      <td>Neznámý</td>
+      <td>Komplexní analýzy, vědecký výzkum, pokročilé uvažování</td>
+      <td>Nejvýkonnější model, nejlepší v řešení složitých úloh</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="shrnutí-vhodnosti-použití-1">Shrnutí vhodnosti použití:</h3>
+
+<ol>
+  <li><strong>Claude 3.7 Sonnet:</strong> Ideální pro úlohy vyžadující rovnováhu mezi výkonem a rychlostí. Vhodný pro kreativní práci a programování.</li>
+  <li><strong>Claude 3.5 Sonnet:</strong> Univerzální model pro širokou škálu úloh. Dobře se hodí pro analýzu dat a generování obsahu.</li>
+  <li><strong>Claude 3.5 Haiku:</strong> Nejlepší volba pro aplikace vyžadující rychlé odpovědi a nízké náklady.</li>
+  <li><strong>Claude 3 Opus:</strong> Nejvhodnější pro nejnáročnější úlohy vyžadující hluboké porozumění a analýzu, jako je vědecký výzkum nebo komplexní rozhodování.</li>
+</ol>
+
+<p>Všechny modely mají pokročilé multimodální schopnosti, včetně zpracování textu a obrazu, a nabízejí zlepšené multilingvální porozumění.</p>
+
+<p>Kontextové okno pro modely Anthropic je 200 000 tokenů, čili cca 680 000 unicode znaků.</p>
+
+<p>Zdroje</p>
+<ul>
+  <li><a href="https://www.anthropic.com/news/claude-3-family">Introducing the next generation of Claude - Anthropic</a></li>
+  <li><a href="https://anthropic.com/claude-3-model-card">The Claude 3 Model Family: Opus, Sonnet, Haiku - Anthropic</a></li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[Claude 3 SOTA Model Suite: Opus, Sonnet, and Haiku</td>
+          <td>Encord](https://encord.com/blog/claude-3-explained/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li><a href="https://latenode.com/blog/ai-anthropic-claude-3-overview">AI Anthropic Claude 3 Detailed Overview - Latenode</a></li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[claude-3-opus model</td>
+          <td>Clarifai - The World’s AI](https://clarifai.com/anthropic/completion/models/claude-3-opus)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<h2 id="google-gemini">Google Gemini</h2>
+
+<p>Zde je tabulka porovnávající modely Google Gemini 2.0 z hlediska parametrů a vhodnosti použití. Starší modely 1.5 už jsem vypustil, nevyplatí se jimi zabývat snad už ani kvůli ceně.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Model</strong></th>
+      <th><strong>Max. počet tokenů</strong></th>
+      <th><strong>Vhodné pro úlohy</strong></th>
+      <th><strong>Klíčové vlastnosti</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Gemini 2.0 Flash</strong></td>
+      <td>1 048 576 (vstup), 8 192 (výstup)</td>
+      <td>Multimodální úlohy (text, obraz, audio, video), generování kódu, analýza dat</td>
+      <td>Multimodální vstupy/výstupy, podpora reálného času (Multimodal Live API), generování obrázků a řeči</td>
+    </tr>
+    <tr>
+      <td><strong>Gemini 2.0 Flash-Lite</strong></td>
+      <td>1 048 576 (vstup), 8 192 (výstup)</td>
+      <td>Rychlé a nákladově efektivní úlohy vyžadující multimodální vstupy</td>
+      <td>Optimalizace na rychlost a nízké náklady, nepodporuje multimodální výstupy ani pokročilé nástroje</td>
+    </tr>
+    <tr>
+      <td><strong>Gemini 2.0 Pro Experimental</strong></td>
+      <td>2 097 152 (vstup), 8 192 (výstup)</td>
+      <td>Komplexní úlohy: programování, matematika, dlouhé kontexty</td>
+      <td>Nejdelší kontextové okno, vylepšené schopnosti faktické přesnosti a řešení složitých problémů</td>
+    </tr>
+    <tr>
+      <td><strong>Gemini 2.0 Flash Thinking Experimental</strong></td>
+      <td>1 048 576 (vstup), 65 536 (výstup)</td>
+      <td>Úlohy vyžadující transparentní myšlenkový proces a hluboké uvažování</td>
+      <td>Zobrazuje myšlenkový proces modelu, lepší schopnosti uvažování než základní Flash</td>
+    </tr>
+    <tr>
+      <td><strong>Gemini 2.0 Flash Experimental</strong></td>
+      <td>1 048 576 (vstup), 8 192 (výstup)</td>
+      <td>Testování nových funkcí: text-to-speech, multimodální generace</td>
+      <td>Experimentální funkce jako generování řeči a obrázků</td>
+    </tr>
+    <tr>
+      <td><strong>LearnLM 1.5 Pro Experimental</strong></td>
+      <td>Neznámý</td>
+      <td>Vzdělávací aplikace a personalizované učení</td>
+      <td>Optimalizováno pro vzdělávací účely, zaměřeno na adaptivní učení a personalizaci obsahu</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="shrnutí-vhodnosti-použití-2">Shrnutí vhodnosti použití:</h3>
+<ol>
+  <li><strong>Gemini 2.0 Flash:</strong> Univerzální model pro multimodální úlohy s vysokou rychlostí a širokou podporou funkcí.</li>
+  <li><strong>Gemini 2.0 Flash-Lite:</strong> Ideální pro aplikace s omezeným rozpočtem nebo tam, kde je prioritou rychlost.</li>
+  <li><strong>Gemini 2.0 Pro Experimental:</strong> Nejlepší volba pro složité úlohy vyžadující dlouhé kontexty a přesnost.</li>
+  <li><strong>Gemini 2.0 Flash Thinking Experimental:</strong> Vhodný pro analytické úkoly, kde je důležitá transparentnost myšlenkového procesu.</li>
+  <li><strong>Gemini 2.0 Flash Experimental:</strong> Experimentální model pro testování nových funkcí.</li>
+  <li><strong>LearnLM 1.5 Pro Experimental:</strong> Specializovaný model pro vzdělávací aplikace.</li>
+</ol>
+
+<p>Každý model má unikátní zaměření, což umožňuje jejich využití v různých scénářích od rychlých aplikací po komplexní analýzy nebo vzdělávací projekty.</p>
+
+<p>Zdroje</p>
+<ul>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[Gemini models</td>
+          <td>Gemini API</td>
+          <td>Google AI for Developers](https://ai.google.dev/gemini-api/docs/models/gemini)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[Gemini 2.0 Flash Thinking Mode</td>
+          <td>Gemini API</td>
+          <td>Google AI for Developers](https://ai.google.dev/gemini-api/docs/thinking-mode)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li><a href="https://www.techtarget.com/whatis/feature/Google-Gemini-20-explained-Everything-you-need-to-know">Google Gemini 2.0 explained: Everything you need to know</a></li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[Google Gemini: Everything you need to know about the generative AI models</td>
+          <td>TechCrunch](https://techcrunch.com/2024/09/10/what-is-google-gemini-ai/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+</ul>
+
+<h2 id="ponaučení">Ponaučení</h2>
+
+<p>Ve skutečnosti, pokud budete něco vyvíjet, doporučuji nejdříve ve webovém rozhraní odladit prompt na konkrétní model. Nejprve si napište prompt, pak jej vyzkoušejte na jednotlivé modely ve webovém rozhraní a zjistěte, který vám vyhovuje nejlépe. Pak přizpůsobujte prompt tak, abyste dosáhli přesně toho výstupu, jaký potřebujete.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <p class="excerpt">
+                  
+                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
+                <p class="excerpt">
+                  
+                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?&url=https://www.marigold.cz/ai/porovnani-llm/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/porovnani-llm/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2025-03-09-porovnani-llm.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/mindmapy/">&laquo; Generování mindmap z knih pomocí AI</a> |
+      
+      
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+ 
+  </body>
+</html>
