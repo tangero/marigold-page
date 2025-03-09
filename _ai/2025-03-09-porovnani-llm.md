@@ -66,9 +66,9 @@ Kontextové okno pro modely Anthropic je 200 000 tokenů, čili cca 680 000 unic
 Zdroje
 - [Introducing the next generation of Claude - Anthropic](https://www.anthropic.com/news/claude-3-family)
 - [The Claude 3 Model Family: Opus, Sonnet, Haiku - Anthropic](https://anthropic.com/claude-3-model-card)
-- [Claude 3 SOTA Model Suite: Opus, Sonnet, and Haiku| Encord](https://encord.com/blog/claude-3-explained/)
+- [Claude 3 SOTA Model Suite: Opus, Sonnet, and Haiku - Encord](https://encord.com/blog/claude-3-explained/)
 - [AI Anthropic Claude 3 Detailed Overview - Latenode](https://latenode.com/blog/ai-anthropic-claude-3-overview)
-- [claude-3-opus model | Clarifai - The World's AI](https://clarifai.com/anthropic/completion/models/claude-3-opus)
+- [claude-3-opus model - Clarifai - The World's AI](https://clarifai.com/anthropic/completion/models/claude-3-opus)
 
 ## Google Gemini
 
@@ -94,10 +94,10 @@ Zde je tabulka porovnávající modely Google Gemini 2.0 z hlediska parametrů a
 Každý model má unikátní zaměření, což umožňuje jejich využití v různých scénářích od rychlých aplikací po komplexní analýzy nebo vzdělávací projekty.
 
 Zdroje
-- [Gemini models | Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs/models/gemini)
-- [Gemini 2.0 Flash Thinking Mode | Gemini API | Google AI for Developers](https://ai.google.dev/gemini-api/docs/thinking-mode)
+- [Gemini models - Gemini API - Google AI for Developers](https://ai.google.dev/gemini-api/docs/models/gemini)
+- [Gemini 2.0 Flash Thinking Mode - Gemini API - Google AI for Developers](https://ai.google.dev/gemini-api/docs/thinking-mode)
 - [Google Gemini 2.0 explained: Everything you need to know](https://www.techtarget.com/whatis/feature/Google-Gemini-20-explained-Everything-you-need-to-know)
-- [Google Gemini: Everything you need to know about the generative AI models | TechCrunch](https://techcrunch.com/2024/09/10/what-is-google-gemini-ai/)
+- [Google Gemini: Everything you need to know about the generative AI models - TechCrunch](https://techcrunch.com/2024/09/10/what-is-google-gemini-ai/)
 
 ## Ponaučení
 
