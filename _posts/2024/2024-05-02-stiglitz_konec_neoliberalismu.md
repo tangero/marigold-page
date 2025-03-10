@@ -1,6 +1,7 @@
 ---
 categories:
 - Ekonomika
+- -projevy
 excerpt: Český překlad eseje amerického nobelisty za ekonomii Josepha Stiglitze. Čtyřicet
   let elity v bohatých i chudých zemích slibovaly, že neoliberální politika povede
   k rychlejšímu hospodářskému růstu a že výhody se budou šířit dolů, takže se budou
