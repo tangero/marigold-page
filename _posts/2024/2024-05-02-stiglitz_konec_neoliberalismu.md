@@ -3,7 +3,7 @@ audio_url: http://www.marigold.cz/audio/2024-05-02-stiglitz_konec_neoliberalismu
 audiooff: false
 categories:
 - Ekonomika
-- -projevy
+- projevy
 excerpt: "\u010Cesk\xFD p\u0159eklad eseje americk\xE9ho nobelisty za ekonomii Josepha\
   \ Stiglitze. \u010Cty\u0159icet let elity v bohat\xFDch i chud\xFDch zem\xEDch slibovaly,\
   \ \u017Ee neoliber\xE1ln\xED politika povede k rychlej\u0161\xEDmu hospod\xE1\u0159\
