@@ -26,7 +26,7 @@ Jeho matka Nina Gore Auchincloss byla poloviční sestrou slavného spisovatele 
 
 Dílo lze chápat jako odkaz na křehkost lidských vztahů tváří v tvář těžkým životním okolnostem. Zdůrazněním obyčejnosti prostředí (koupelna s vanou, jednoduché zařízení bytu) a vynecháním detailních rysů tváří postav umělec poukazuje na univerzálnost situace – na to, jak nemoc, láska či smutek mohou být součástí každého života, skrytého za zdánlivě všedními fasádami.
 
-Obraz Fulton Couch si můžete prohlédnout do konce března 2025 na výstavě muzea Kampa nazvané Visions of the World](https://www.museumkampa.cz/vystava/visions-of-the-world-2/), mimo jiné s díly Davida Hockneye nebo Kehinde Wiley. Je to slušný průřez děl zaměřených na postavy a osoby, příjemně strávená hodinka na Kampě :) Gratis k tomu je vstup na výstavu soch Tomáše Rajlicha, na kterou byste asi samostatně nešli... 
+Obraz Fulton Couch si můžete prohlédnout do konce března 2025 na výstavě muzea Kampa nazvané Visions of the World](https://www.museumkampa.cz/vystava/visions-of-the-world-2/), mimo jiné s díly [Davida Hockneye](https://www.marigold.cz/obrazy/david-hockney-portrait-of-an-artist/) nebo [Kehinde Wiley](https://www.marigold.cz/obrazy/Kehinde-Wiley-John-Burgoyne/). Je to slušný průřez děl zaměřených na postavy a osoby, příjemně strávená hodinka na Kampě :) Gratis k tomu je vstup na výstavu soch Tomáše Rajlicha, na kterou byste asi samostatně nešli... 
 
 Na výstavě najdete i druhý jeho obraz Two Men and a Woman z roku 1992. 
 
