@@ -1,20 +1,25 @@
 ---
+audio_url: http://www.marigold.cz/audio/2024-05-02-stiglitz_konec_neoliberalismu.mp3
+audiooff: false
 categories:
 - Ekonomika
-excerpt: Český překlad eseje amerického nobelisty za ekonomii Josepha Stiglitze. Čtyřicet
-  let elity v bohatých i chudých zemích slibovaly, že neoliberální politika povede
-  k rychlejšímu hospodářskému růstu a že výhody se budou šířit dolů, takže se budou
-  mít lépe všichni, včetně těch nejchudších. Nyní, když se toto nepotvrdilo, lze se
-  divit, že důvěra v elity a důvěra v demokracii prudce poklesla?
+- projevy
+excerpt: "\u010Cesk\xFD p\u0159eklad eseje americk\xE9ho nobelisty za ekonomii Josepha\
+  \ Stiglitze. \u010Cty\u0159icet let elity v bohat\xFDch i chud\xFDch zem\xEDch slibovaly,\
+  \ \u017Ee neoliber\xE1ln\xED politika povede k rychlej\u0161\xEDmu hospod\xE1\u0159\
+  sk\xE9mu r\u016Fstu a \u017Ee v\xFDhody se budou \u0161\xED\u0159it dol\u016F, tak\u017E\
+  e se budou m\xEDt l\xE9pe v\u0161ichni, v\u010Detn\u011B t\u011Bch nejchud\u0161\
+  \xEDch. Nyn\xED, kdy\u017E se toto nepotvrdilo, lze se divit, \u017Ee d\u016Fv\u011B\
+  ra v elity a d\u016Fv\u011Bra v demokracii prudce poklesla?"
 featured: true
 layout: post
 summary_points:
-- Neoliberalismus nesplnil sliby o sdílené prosperitě.
-- Voliči trestají elity za nerovnoměrný ekonomický růst.
-- Neoliberální politika podkopala důvěru v demokracii.
-- Klimatická krize vyžaduje obnovu osvícenských hodnot.
+- "Neoliberalismus nesplnil sliby o sd\xEDlen\xE9 prosperit\u011B."
+- "Voli\u010Di trestaj\xED elity za nerovnom\u011Brn\xFD ekonomick\xFD r\u016Fst."
+- "Neoliber\xE1ln\xED politika podkopala d\u016Fv\u011Bru v demokracii."
+- "Klimatick\xE1 krize vy\u017Eaduje obnovu osv\xEDcensk\xFDch hodnot."
 thumbnail: https://uplandseconyear12ib.weebly.com/uploads/1/3/4/3/13432222/7702367_orig.jpg
-title: Joseph Stiglitz - Konec neoliberalismu a znovuzrození dějin
+title: "Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin"
 ---
 
 Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalosti či pominutí smyslů. Že by tito voliči měli prokázat, že rozumí trhům a demokracii. Jenže taková situace není. Voliči masivně trestají dnešní politické elity za porušení nepsané společenské dohody, která voličům měla zajistit účast na ekonomickém růstu výměnou za politickou podporu. Jenže dnešní otázka běžného minoritního voliče je "když jste tak chytří, tak jak se stalo, že se nemáme rok od roku lépe?" Situaci skvěle popisuje Joseph Stiglitz ve své eseji [Konec neoliberalismu a znovuzrození dějin](https://economics.utoronto.ca/gindart/2019-11-04%20-%20The%20end%20of%20neoliberalism%20and%20the%20rebirth%20of%20history.pdf), kterou jsem z angličtiny přeložil. 
