@@ -40,7 +40,7 @@ Poznámka pod čarou: kašlete na to, že digitálně ten obraz vypadá obyčejn
 
 Otto Plachtův styl navazuje na několik významných uměleckých směrů a osobností, které ovlivnily jeho tvorbu. Jeho práce vykazuje prvky expresionismu, surrealismu a vizionářského umění, přičemž čerpá inspiraci jak ze západní moderny, tak z domorodé kultury Amazonie.
 
-🎨 Inspirace v západním umění
+🎨 Inspirace v západním umění \
 - 🖌 Expresionismus – Plachtova divoká barevnost, dynamické tahy štětcem a emocionálně nabitá plátna odkazují na expresionisty jako: \
     - Emil Nolde či Egon Schiele – spontánní práce s barvou a strukturou. \
     - Franz Marc – spojení mystiky s přírodním světem. \
