@@ -41,16 +41,16 @@ Poznámka pod čarou: kašlete na to, že digitálně ten obraz vypadá obyčejn
 Otto Plachtův styl navazuje na několik významných uměleckých směrů a osobností, které ovlivnily jeho tvorbu. Jeho práce vykazuje prvky expresionismu, surrealismu a vizionářského umění, přičemž čerpá inspiraci jak ze západní moderny, tak z domorodé kultury Amazonie.
 
 🎨 Inspirace v západním umění
-	•	🖌 Expresionismus – Plachtova divoká barevnost, dynamické tahy štětcem a emocionálně nabitá plátna odkazují na expresionisty jako: \
-	•	Emil Nolde či Egon Schiele – spontánní práce s barvou a strukturou. \
-	•	Franz Marc – spojení mystiky s přírodním světem. \
-	•	🌀 Surrealismus – jeho malby mají snový, vizionářský charakter, podobně jako: \
-	•	Max Ernst – využití přírodních struktur, magických krajin. \
-	•	Roberto Matta – organická abstrakce, propojení reality s vnitřním prožitkem. \
-	•	🌈 Psychedelické umění a vizionářské malířství – zde je patrná inspirace u umělců jako: \
-	•	Alex Grey – duchovní a multidimenzionální vnímání reality. \
-	•	Pablo Amaringo – peruánský malíř ayahuaskových vizí, s nímž sdílí fascinaci domorodou kulturou a šamanskými rituály.
+- 🖌 Expresionismus – Plachtova divoká barevnost, dynamické tahy štětcem a emocionálně nabitá plátna odkazují na expresionisty jako: \
+    - Emil Nolde či Egon Schiele – spontánní práce s barvou a strukturou. \
+    - Franz Marc – spojení mystiky s přírodním světem. \
+- 🌀 Surrealismus – jeho malby mají snový, vizionářský charakter, podobně jako: \
+    - Max Ernst – využití přírodních struktur, magických krajin. \
+    - Roberto Matta – organická abstrakce, propojení reality s vnitřním prožitkem. \
+- 🌈 Psychedelické umění a vizionářské malířství – zde je patrná inspirace u umělců jako: \
+    - Alex Grey – duchovní a multidimenzionální vnímání reality. \
+    - Pablo Amaringo – peruánský malíř ayahuaskových vizí, s nímž sdílí fascinaci domorodou kulturou a šamanskými rituály.
 
 🌿 Inspirace amazonskou kulturou a domorodým uměním \
-	•	🌱 Domorodé vzory Shipibo – složité geometrické ornamenty a symbolika, které Placht často přetváří v dynamické kompozice.\
-	•	🍃 Šamanské vize a ayahuasca – jeho tvorba reflektuje zkušenosti s amazonským šamanismem, podobně jako tradiční umění Shipibo-konibo.
+- 🌱 Domorodé vzory Shipibo – složité geometrické ornamenty a symbolika, které Placht často přetváří v dynamické kompozice.\
+- 🍃 Šamanské vize a ayahuasca – jeho tvorba reflektuje zkušenosti s amazonským šamanismem, podobně jako tradiční umění Shipibo-konibo.
