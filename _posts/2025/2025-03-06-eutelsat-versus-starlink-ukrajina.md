@@ -34,7 +34,9 @@ Eutelsat a OneWeb jsou nyní součástí jedné společnosti, která vznikla jej
 - V roce 2019 vypustil první satelity
 - V roce 2020 [vyhlásil bankrot](https://www.marigold.cz/item/starlink_internet_vsude_pres_satelity/), následně byl zachráněn investicí britské vlády a indické společnosti Bharti Global
 
-Fúze Eutelsat a OneWeb byla oznámena v červenci 2022 a dokončena 28. září 2023. Vznikla nová společnost “Eutelsat Group” s dvěma hlavními dceřinými společnostmi - Eutelsat a Eutelsat OneWeb. Hlavními akcionáři jsou francouzská a britská vláda, každá s přibližně 10% podílem. Další významní akcionáři zahrnují Bharti Global, Bpifrance a Hanwha Group. Společnost je veřejně obchodována na burze
+Fúze Eutelsat a OneWeb byla oznámena v červenci 2022 a dokončena 28. září 2023. Vznikla nová společnost “Eutelsat Group” s dvěma hlavními dceřinými společnostmi - Eutelsat a Eutelsat OneWeb. Hlavními akcionáři jsou francouzská a britská vláda, každá s přibližně 10% podílem. Další významní akcionáři zahrnují Bharti Global, Bpifrance a Hanwha Group. Společnost je veřejně obchodována na burze. 
+
+> **📕 Technoelity a nástup broligarchie** - můj nový ebook, který vás provede světem svérázných šéfů technologických firem a jejich nárokům na to, jak má vypadat funkční stát. Detailněji se podíváme na to, jak se Elon Musk stal podporovatelem Donalda Trumpa i co si od toho vlastně broligarchové slibují. A že nevíte, co jsou broligarchové? I to se dozvíte. 👉 [Stahovat můžete zde](https://payhip.com/b/yjt2Z). 
 
 ### Technologické porovnání
 
@@ -47,7 +49,7 @@ Kapacita sítě a přenosová rychlost: \
      ♨️  Starlink: Poskytuje rychlosti stahování až 200 Mb/s.  
 
 Kvalita a latence datových přenosů: \
-     🛰️  Eutelsat/OneWeb: Díky umístění satelitů na LEO nabízí nižší latenci ve srovnání se satelity na geostacionární dráze.  \
+     🛰️  Eutelsat/OneWeb: Díky umístění satelitů na LEO nabízí nižší latenci ve srovnání se satelity na geostacionární dráze, jako jsou třeba Inmarsat. Latence je ale vyšší, než u Starlinku, kolem 80 ms. \
      ♨️  Starlink: Dosahuje latence mezi 20 a 40 ms, což je srovnatelné s pozemními připojeními.  
 
 Terminály Eutelsatu jsou navrženy pro podnikové a vládní použití, jsou větší a méně přenosné. Ukrajina pracuje na kompaktní verzi. Terminály Starlinku jsou kompaktní a snadno přenosné, což umožňuje rychlé nasazení v terénu. I tak ale zpravidla potřebují rozměrnější anténu. 
