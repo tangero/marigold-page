@@ -170,6 +170,26 @@ březen
   <div class="entry">
     <p>Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou.</p>
 
+<p>A protože se na to často ptáte, tady je můj osobní setup, když se musím trochu víc koukat na cenu (tj. převážně v případě, když jedu přes API za peníze):</p>
+
+<ul>
+  <li>Nejlepší model pro všeobecné použití: Sonet 3.7 pokud chci používat češtinu, Gemini Pro 2.0 Experimental pokud je to na jazyk nenáročné (jinak OpenAI GPT-4.5, ale za to se nedoplatíte)</li>
+  <li>Nejlepší okamžité odpovědi na cokoliv:  Perplexity Pro bez Deepseek volby</li>
+  <li>Zpracování velkého množství obsahu najednou (např. vytahání podstatných info z přepisů zastupitelstev): Gemini 2.0 Pro Experimental.</li>
+  <li>Nejlepší psaní textu (a odůvodnění): 3.7 Sonet</li>
+  <li>Nejlepší pro analýzu PDF, porozumění datům: 3.7 Sonet</li>
+  <li>Nejlepší pro OCR: <a href="https://mistral.ai/news/mistral-ocr">Mistral OCR</a></li>
+  <li>Nejlepší pro kód: 3.7 Sonnet (v Cursoru to počátkem března haprovalo, ladí se, tam nechte 3.5)</li>
+  <li>Nejlepší agent pro výzkum: OpenAI Deep Research nebo Gemini Deep Research s myšlením Flash 2 je dobrý pro rychlejší a rozsáhlejší výzkum - Sonet 3.7 je málo důkladný.</li>
+  <li>Nejlepší uvažování pro pokročilou analýzu: o1 Pro - pokud nemáte, tak spíš GPT-4.5 s výhodou možnost zapnout si dohledávání na webu.</li>
+  <li>Nejlepší pro okamžité odpovědi s úžasným vyhledáváním: Grok 3 (v češtině občas hapruje)</li>
+  <li>Nejlepší multimodální: Gemini 2.0 Flash experimental / Gemini 2.0 Pro experimental</li>
+</ul>
+
+<p>Velmi často také nechávám používat na zpracování textu starý GPT-3.5, když mi jde o cenu na úlohy jazykového typu (najdi mi v přepisu všechna jména atd) - ale přes OpenRouter často narazíte na modely, které jsou mnohem silnější a zdarma, takže není důvod po starých modelech sahat. A po pravdě, ve web rozhraní OpenAI často používám také 4o, prostě proto, že už mám vychytané, co mu dělá a nedělá problémy…</p>
+
+<p>Osobně výrazně preferuju modely, u kterých se dá zapnout dohledávání infomací na webu a pro vývojáře je téměř nutností seznámit se s <a href="/ai/mcp">MCP</a>.</p>
+
 <p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
 <ul id="markdown-toc">
   <li><a href="#openai" id="markdown-toc-openai">OpenAI</a>    <ul>
@@ -423,10 +443,10 @@ březen
           
             <tr>
               <td>
-                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
+                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
                 <p class="excerpt">
                   
-                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  Zlatá éra weblogů a můžete si ji stáhnout zdar...
+                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  Zásady pro výstavbu ve městě, které stanoví rámec spolupráce s developery. Zásady se nevztahují n...
                   
                 </p>
               </td>
@@ -434,10 +454,10 @@ březen
           
             <tr>
               <td>
-                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
+                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
                 <p class="excerpt">
                   
-                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
+                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
                   
                 </p>
               </td>
