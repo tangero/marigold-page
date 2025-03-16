@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Model Context Protocol (MCP) - Průvodce pro Začátečníky a Vývojáře | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Model Context Protocol (MCP) - Průvodce pro Začátečníky a Vývojáře" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Model Context Protocol (MCP) je nová technologie - protokol - která se rychle stává důležitou součástí světa umělé inteligence (AI). Jednoduše řečeno, MCP je standardizovaný způsob, jakým AI agenti (jako jsou Claude, OpenAI, Cursor, Windsurf, a potenciálně i Siri) mohou komunikovat s různými webovými službami a aplikacemi. Autorem protokolu MCP je Anthropic a MCP lze přirovnat k univerzálnímu USB-C konektoru pro web: umožňuje online propojení AI s existujícími systémy, jako jsou databáze (PostgreSQL, Supabase), designové nástroje (Figma), verzovací systémy (GitHub), e-shopy (Amazon) a další. Díky tomu by se nemělo stát, že AI neví nové věci a nebo že se na ně musí stále přeučovat." />
+<meta property="og:description" content="Model Context Protocol (MCP) je nová technologie - protokol - která se rychle stává důležitou součástí světa umělé inteligence (AI). Jednoduše řečeno, MCP je standardizovaný způsob, jakým AI agenti (jako jsou Claude, OpenAI, Cursor, Windsurf, a potenciálně i Siri) mohou komunikovat s různými webovými službami a aplikacemi. Autorem protokolu MCP je Anthropic a MCP lze přirovnat k univerzálnímu USB-C konektoru pro web: umožňuje online propojení AI s existujícími systémy, jako jsou databáze (PostgreSQL, Supabase), designové nástroje (Figma), verzovací systémy (GitHub), e-shopy (Amazon) a další. Díky tomu by se nemělo stát, že AI neví nové věci a nebo že se na ně musí stále přeučovat." />
+<link rel="canonical" href="https://www.marigold.cz/ai/mcp/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/mcp/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-03-15T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Model Context Protocol (MCP) - Průvodce pro Začátečníky a Vývojáře" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-03-15T00:00:00+00:00","datePublished":"2025-03-15T00:00:00+00:00","description":"Model Context Protocol (MCP) je nová technologie - protokol - která se rychle stává důležitou součástí světa umělé inteligence (AI). Jednoduše řečeno, MCP je standardizovaný způsob, jakým AI agenti (jako jsou Claude, OpenAI, Cursor, Windsurf, a potenciálně i Siri) mohou komunikovat s různými webovými službami a aplikacemi. Autorem protokolu MCP je Anthropic a MCP lze přirovnat k univerzálnímu USB-C konektoru pro web: umožňuje online propojení AI s existujícími systémy, jako jsou databáze (PostgreSQL, Supabase), designové nástroje (Figma), verzovací systémy (GitHub), e-shopy (Amazon) a další. Díky tomu by se nemělo stát, že AI neví nové věci a nebo že se na ně musí stále přeučovat.","headline":"Model Context Protocol (MCP) - Průvodce pro Začátečníky a Vývojáře","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/mcp/"},"url":"https://www.marigold.cz/ai/mcp/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Model Context Protocol (MCP) je nová technologie - protokol - která se rychle stává důležitou součástí světa umělé inteligence (AI). Jednoduše řečeno, MCP je standardizovaný způsob, jakým AI agenti (jako jsou Claude, OpenAI, Cursor, Windsurf, a potenciálně i Siri) mohou komunikovat s různými webovými službami a aplikacemi. Autorem protokolu MCP je Anthropic a MCP lze přirovnat k univerzálnímu USB-C konektoru pro web: umožňuje online propojení AI s existujícími systémy, jako jsou databáze (PostgreSQL, Supabase), designové nástroje (Figma), verzovací systémy (GitHub), e-shopy (Amazon) a další. Díky tomu by se nemělo stát, že AI neví nové věci a nebo že se na ně musí stále přeučovat.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Model Context Protocol (MCP) - Průvodce pro Začátečníky a Vývojáře" />
+    <meta property="twitter:title" content="Model Context Protocol (MCP) - Průvodce pro Začátečníky a Vývojáře" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/mcp/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Model Context Protocol (MCP) - Průvodce pro Začátečníky a Vývojáře</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+15.
+březen
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Model Context Protocol (MCP) je nová technologie - protokol - která se rychle stává důležitou součástí světa umělé inteligence (AI). Jednoduše řečeno, MCP je <em>standardizovaný způsob</em>, jakým AI agenti (jako jsou Claude, OpenAI, Cursor, Windsurf, a potenciálně i Siri) mohou komunikovat s různými webovými službami a aplikacemi. Autorem protokolu MCP je Anthropic a MCP lze přirovnat k univerzálnímu USB-C konektoru pro web: umožňuje online propojení AI s existujícími systémy, jako jsou databáze (PostgreSQL, Supabase), designové nástroje (Figma), verzovací systémy (GitHub), e-shopy (Amazon) a další. Díky tomu by se nemělo stát, že AI neví nové věci a nebo že se na ně musí stále přeučovat.</p>
+
+<h3 id="proč-je-mcp-důležité">Proč je MCP důležité?</h3>
+
+<p>Před zavedením internetového protokolu TCP/IP to byla podobná situace, jako dnes v AI. Každá společnost měla svůj vlastní komunikační standard. Vývojáři museli vytvářet specifické integrace pro každou platformu zvlášť. TCP/IP tento problém vyřešil a umožnil vznik moderního internetu s aplikacemi a službami, které známe dnes. MCP má ambici udělat totéž pro AI.  Sjednocuje způsob, jakým AI agenti přistupují k externím systémům. A umožňuje jim tento přístup.</p>
+
+<h3 id="jak-mcp-funguje">Jak MCP funguje</h3>
+
+<p>Architektura MCP se skládá ze tří hlavních částí:</p>
+
+<ol>
+  <li><strong>MCP Host:</strong>  Toto je AI agent, který využívá MCP.  Může to být například Claude Desktop nebo Cursor.</li>
+  <li><strong>MCP Client:</strong>  Kód, který je integrován do hostitele (AI agenta) a umožňuje mu komunikovat s MCP serverem.</li>
+  <li><strong>MCP Server:</strong>  “Prostředník” mezi AI agentem a cílovou webovou službou/aplikací.  Server rozumí API cílové služby a překládá požadavky z přirozeného jazyka (od AI agenta) do formátu, kterému služba rozumí (a naopak).</li>
+</ol>
+
+<p><strong>Příklady použití MCP:</strong></p>
+
+<ul>
+  <li><strong>Přístup k databázím:</strong> AI agent může pomocí MCP serveru získat data z databáze (např. PostgreSQL, Supabase) bez nutnosti psát složité SQL dotazy. Stačí zadat požadavek v přirozeném jazyce (např. “Jaké sociální sítě jsou v mé databázi?”).</li>
+  <li><strong>Integrace s Figmou:</strong> MCP server umožňuje AI agentům “vidět” a pracovat s designy ve Figmě.  Můžete například zadat AI agentovi úkol vytvořit webovou stránku na základě Figma designu, a agent vygeneruje odpovídající HTML/CSS/JavaScript kód.</li>
+  <li><strong>Automatizace webového prohlížení:</strong>  MCP servery mohou používat nástroje jako Puppeteer pro automatizaci úloh v prohlížeči (např. procházení webů, pořizování screenshotů).</li>
+  <li><strong>Další integrace:</strong> Existují MCP servery pro integraci s YouTube, Google Sheets, Brave Search, Jira, a mnoha dalšími službami.</li>
+</ul>
+
+<h3 id="jak-začít-s-mcp-pro-uživatele">Jak začít s MCP (pro uživatele)</h3>
+
+<ol>
+  <li><strong>Vyberte si AI agenta s podporou MCP:</strong> Cursor a Claude Desktop (pozor, web verze Claude MCP nepodpořuje!) jsou dva populární příklady.</li>
+  <li><strong>Nainstalujte a povolte MCP server:</strong> V nastavení vašeho AI agenta (v Cursoru v sekci MCP, v Claude Desktop v souboru <code class="language-plaintext highlighter-rouge">claude_desktop_config.json</code>) přidejte požadované MCP servery.  Každý server má specifický příkaz, který se spouští (obvykle pomocí <code class="language-plaintext highlighter-rouge">npx</code> pro Node.js aplikace nebo <code class="language-plaintext highlighter-rouge">uv</code> pro Python aplikace).</li>
+  <li><strong>Používejte MCP servery v chatu:</strong> V chatu s AI agentem můžete odkazovat na dostupné MCP servery a zadávat jim úkoly v přirozeném jazyce.</li>
+</ol>
+
+<p><strong>Jak vytvořit vlastní MCP server (pro vývojáře):</strong></p>
+
+<ol>
+  <li><strong>Vyberte si programovací jazyk:</strong> Anthropic poskytuje SDK pro Python, TypeScript, Javu a Kotlin.</li>
+  <li><strong>Použijte třídu <code class="language-plaintext highlighter-rouge">FastMCP</code>:</strong> Tato třída (v Python SDK) zjednodušuje vytvoření serveru.</li>
+  <li><strong>Definujte funkce (tools):</strong> Použijte dekorátor <code class="language-plaintext highlighter-rouge">@mcp.tool()</code> k definování funkcí, které bude váš server poskytovat.  V popisu funkce uveďte, co funkce dělá, jaké má vstupy a jaké výstupy generuje.</li>
+  <li><strong>Spusťte server:</strong>  Použijte příkaz <code class="language-plaintext highlighter-rouge">mcp run</code> (pro Python) nebo odpovídající příkaz pro váš zvolený jazyk.</li>
+  <li><strong>Zveřejněte svůj server (volitelné):</strong> Svůj server můžete zveřejnit na platformách jako Glama a Smithery.ai, aby ho mohli používat ostatní.</li>
+</ol>
+
+<p><strong>Kód pro spuštění serveru (příklad z videa, Python):</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npx <span class="nt">-y</span> @modelcontextprotocol/server-postgres postgresql://localhost/mydb
+</code></pre></div></div>
+<p>Je potřeba nainstalovat si Node.js.
+<strong>Bezpečnostní upozornění:</strong></p>
+
+<p>Autor důrazně upozorňuje na <em>bezpečnost</em>.  MCP servery běží na vašem lokálním počítači a mohou mít přístup k vašim aplikacím a datům.  Stahujte a používejte pouze servery, kterým důvěřujete a jejichž kód rozumíte, nebo u kterých je zaručena kvalita a zabezpečení.</p>
+
+<p><strong>Kde najít další informace a zdroje:</strong></p>
+
+<ul>
+  <li><strong>Oficiální stránka Anthropic:</strong> <a href="https://www.anthropic.com/news/model-context-protocol">https://www.anthropic.com/news/model-context-protocol</a></li>
+  <li><strong>GitHub repozitář MCP:</strong> <a href="https://github.com/modelcontext/protocol">https://github.com/modelcontext/protocol</a></li>
+  <li><strong>GitHub servery:</strong><a href="https://github.com/modelcontextprotocol/servers">https://github.com/modelcontextprotocol/servers</a></li>
+  <li><strong>Glama</strong> (katalog MCP serverů): <a href="https://glama.io/">https://glama.io/</a></li>
+  <li><strong>Smithery.ai</strong> (katalog MCP serverů): <a href="https://smithery.ai/">https://smithery.ai/</a></li>
+  <li><strong>SwitchDimension.com</strong> (komunita a kurz autora): <a href="https://switchdimension.com/">https://switchdimension.com/</a></li>
+  <li>Další katalog serverů a klientů na <a href="https://mcp.so">mcp.so</a></li>
+  <li><strong>Figma-Context-MCP (GitHub):</strong><a href="https://github.com/Glps/Figma-Context-MCP">https://github.com/Glps/Figma-Context-MCP</a></li>
+</ul>
+
+<p><strong>Závěr</strong></p>
+
+<p>MCP je slibná technologie s potenciálem zásadně změnit způsob, jakým pracujeme s AI.  Otevírá dveře pro nové typy aplikací, zjednodušuje integraci a umožňuje uživatelům interagovat s webem a aplikacemi prostřednictvím přirozeného jazyka.  Vývoj vlastních MCP serverů je relativně snadný, a existuje již rostoucí komunita a ekosystém kolem této technologie. Je důležité klást důraz na bezpečnost.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
+                <p class="excerpt">
+                  
+                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
+                <p class="excerpt">
+                  
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Model Context Protocol (MCP) - Průvodce pro Začátečníky a Vývojáře&url=https://www.marigold.cz/ai/mcp/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/mcp/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2025-03-15-mcp.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/porovnani-llm/">&laquo; Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?</a> |
+      
+      
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+ 
+  </body>
+</html>
