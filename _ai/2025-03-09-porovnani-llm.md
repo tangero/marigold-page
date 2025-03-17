@@ -9,6 +9,24 @@ thumbnail: https://cxscoop.com/wp-content/uploads/2023/07/Google-Microsoft-OpenA
 
 Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou. 
 
+A protože se na to často ptáte, tady je můj osobní setup, když se musím trochu víc koukat na cenu (tj. převážně v případě, když jedu přes API za peníze):
+
+- Nejlepší model pro všeobecné použití: Sonet 3.7 pokud chci používat češtinu, Gemini Pro 2.0 Experimental pokud je to na jazyk nenáročné (jinak OpenAI GPT-4.5, ale za to se nedoplatíte)
+- Nejlepší okamžité odpovědi na cokoliv:  Perplexity Pro bez Deepseek volby
+- Zpracování velkého množství obsahu najednou (např. vytahání podstatných info z přepisů zastupitelstev): Gemini 2.0 Pro Experimental.
+- Nejlepší psaní textu (a odůvodnění): 3.7 Sonet
+- Nejlepší pro analýzu PDF, porozumění datům: 3.7 Sonet
+- Nejlepší pro OCR: [Mistral OCR](https://mistral.ai/news/mistral-ocr)
+- Nejlepší pro kód: 3.7 Sonnet (v Cursoru to počátkem března haprovalo, ladí se, tam nechte 3.5)
+- Nejlepší agent pro výzkum: OpenAI Deep Research nebo Gemini Deep Research s myšlením Flash 2 je dobrý pro rychlejší a rozsáhlejší výzkum - Sonet 3.7 je málo důkladný. 
+- Nejlepší uvažování pro pokročilou analýzu: o1 Pro - pokud nemáte, tak spíš GPT-4.5 s výhodou možnost zapnout si dohledávání na webu. 
+- Nejlepší pro okamžité odpovědi s úžasným vyhledáváním: Grok 3 (v češtině občas hapruje)
+- Nejlepší multimodální: Gemini 2.0 Flash experimental / Gemini 2.0 Pro experimental
+
+Velmi často také nechávám používat na zpracování textu starý GPT-3.5, když mi jde o cenu na úlohy jazykového typu (najdi mi v přepisu všechna jména atd) - ale přes OpenRouter často narazíte na modely, které jsou mnohem silnější a zdarma, takže není důvod po starých modelech sahat. A po pravdě, ve web rozhraní OpenAI často používám také 4o, prostě proto, že už mám vychytané, co mu dělá a nedělá problémy... 
+
+Osobně výrazně preferuju modely, u kterých se dá zapnout dohledávání infomací na webu a pro vývojáře je téměř nutností seznámit se s [MCP](/ai/mcp). 
+
 __Co konkrétně se v tomto článku dozvíte?__ 
 * Obsah
 {:toc} 
