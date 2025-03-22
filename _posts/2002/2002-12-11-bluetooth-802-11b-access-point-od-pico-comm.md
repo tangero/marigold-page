@@ -1,5 +1,7 @@
 ---
 ID: 10
+audio_url: http://www.marigold.cz/audio/2002-12-11-bluetooth-802-11b-access-point-od-pico-comm.mp3
+audiooff: false
 author: Patrick Zandl
 layout: post
 oldlink: https://www.marigold.cz/item/bluetooth-802-11b-access-point-od-pico-comm
@@ -7,11 +9,13 @@ post_date: 2002-12-11 12:27:00
 post_excerpt: ''
 published: true
 summary_points:
-- Pico Communications představila PicoBlue II, AP s podporou Bluetooth a WiFi.
-- PicoBlue II umožňuje surfování přes PDA bez nutnosti WiFi žaketu.
+- "Pico Communications p\u0159edstavila PicoBlue II, AP s podporou Bluetooth a WiFi."
+- "PicoBlue II umo\u017E\u0148uje surfov\xE1n\xED p\u0159es PDA bez nutnosti WiFi\
+  \ \u017Eaketu."
 - Firma Pico Communications se specializuje na Bluetooth podporu pro PalmOS.
-- Marigold oceňuje duální APčko od Pica jako zajímavou vychytávku.
-title: "Bluetooth/802.11b access point od Pico Comm."
+- "Marigold oce\u0148uje du\xE1ln\xED AP\u010Dko od Pica jako zaj\xEDmavou vychyt\xE1\
+  vku."
+title: Bluetooth/802.11b access point od Pico Comm.
 ---
 
 <p>
