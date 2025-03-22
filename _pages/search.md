@@ -105,7 +105,4 @@ exclude_from_search: true
     {% endfor %}
   };
 </script>
-<script src="{{ "/assets/js/search/lunr.min.js" | relative_url }}"></script>
-<script src="{{ "/assets/js/search/lunr.stemmer.support.js" | relative_url }}"></script>
-<script src="{{ "/assets/js/search/lunr.cs.js" | relative_url }}"></script>
-<script src="{{ "/assets/js/search/search.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/search/simple-search.js" | relative_url }}"></script>
