@@ -5411,20 +5411,20 @@
   
     {
       "title"    : "",
-      "url"      : "//item/2002-12-11-bluetooth-802-11b-access-point-od-pico-comm/",
-      "category" : "",
-      "tags"     : "",
-      "date"     : "22.3.2025",
-      "content"  : "Konečně někoho napadla další záslužná novinka - nabídnout APčko podporující jak bluetooth, tak WiFi. Jako první s reálným výrobkem přichází americká Pico Communications a tohle APčko nazvala PicoBlue II - už před tím dělala AP pouze s bluetooth. Tahle firma není neznámá, dělá podporu bluetooth pro PalmOS, jmenovitě pro Tungsteny a její myšlenka je logická: Bluetooth je už v hodně těch krabičkách a je docela příjemné si surfovat přes své PDA a nekupovat si k němu žaket si WiFi nebo nějakou podobnou vychytávku, nehledě na to, že pro PalmOS zatím WiFi není. A jak to řeší Marigold? Má doma MSI..."
-    },
-  
-    {
-      "title"    : "",
       "url"      : "//item/2002-12-07-teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci/",
       "category" : "",
       "tags"     : "",
       "date"     : "22.3.2025",
       "content"  : "Začínáte s bezdrátovými sítěmi? V tom případě by se hodilo načerpat trochu teorie o tom, co to vlastně WiFi a IEEE802.11 je, co znamenají jednotlivá písmenka za tímto číslem a vůbec dozvědět se pár detailů o standardu.&amp;lt;p&amp;gt;Většina z vás si asi již odpověděla na otázku, proč se o bezdrátové sítě zajímat. Instalace bezdrátových sítí je na jednu stranu jednodušší na výstavbu a technickou realizaci, protože není třeba pokládat žádnou kabeláž, na stranu druhou nabízejí bezdrátové sítě podstatně nižší rychlosti, než nejmodernější ethernetové kabelové sítě. Jenže pokud nezamýšlíte přenášet ve vaší síti obrovská kvanta dat najednou, mohou výhody bezdrátové sítě převážit...."
+    },
+  
+    {
+      "title"    : "Wi-Fi 7 - standard 802.11be, technologie a pozice",
+      "url"      : "//item/wi-fi-7-802-11be/",
+      "category" : "WiFi, Wi-Fi 7, IEEE 802.11be, Mobilní sítě",
+      "tags"     : "",
+      "date"     : "22.3.2025",
+      "content"  : "Nedávno jsem si s hrůzou povšimnul, že jsem zcela pominul technolofii 802.11be, dnes obchodně známou jako WiFi 7. Pamatujete si někdo, že tento server Marigold vznikl původně jako zpravodajství o bezdrátových sítích? To přeci není možné, abych další rozvoj WiFi opomněl. Takže nebojte, dnes se pořádně podíváme na zoubek jeho rozvoji. A jen faktická poznámka: běžně používám označení WiFi, jak jsem zvyklý. Nicméně podle standardizátora je správným názvem Wi-Fi s pomlčkou. Pokusil jsem se autokorektora na to naučit, takže mi to často opraví. Ale někdy také ne. Berme toto označení jako záměnné.Na dalším rozvoji standardu WiFi se začalo pracovat v..."
     },
   
     {
@@ -25687,6 +25687,15 @@
     },
   
     {
+      "title"    : "Bluetooth/802.11b access point od Pico Comm.",
+      "url"      : "//item/bluetooth-802-11b-access-point-od-pico-comm/",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "11.12.2002",
+      "content"  : "Konečně někoho napadla další záslužná novinka - nabídnout APčko podporující jak bluetooth, tak WiFi. Jako první s reálným výrobkem přichází americká Pico Communications a tohle APčko nazvala PicoBlue II - už před tím dělala AP pouze s bluetooth. Tahle firma není neznámá, dělá podporu bluetooth pro PalmOS, jmenovitě pro Tungsteny a její myšlenka je logická: Bluetooth je už v hodně těch krabičkách a je docela příjemné si surfovat přes své PDA a nekupovat si k němu žaket si WiFi nebo nějakou podobnou vychytávku, nehledě na to, že pro PalmOS zatím WiFi není. A jak to řeší Marigold? Má doma MSI..."
+    },
+  
+    {
       "title"    : "WiFi v ČR, CzFree.Net, ADSL a Český Telecom",
       "url"      : "//item/wifi-v-cr-czfree-net-adsl-a-cesky-telecom/",
       "category" : "",
@@ -25829,7 +25838,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 168 - UMTS: 6 - 3G: 9 - Turboúvod do mobilních sítí: 6 - Historie: 5 - Startupy: 33 - Mobilní sítě: 34 - SMS: 3 - Apple: 96 - Příběhy: 29 - Sociální sítě: 61 - Knihy: 17 - eKnihy: 7 - Twitter: 3 - Konference: 3 - Video: 5 - Média: 20 - iPhone: 15 - Google: 65 - Nova: 4 - Weblogy: 6 - Ufon: 6 - CDMA: 6 - LTE: 8 - 4G: 4 - Čína: 11 - Osobní: 3..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 168 - UMTS: 6 - 3G: 9 - Turboúvod do mobilních sítí: 6 - Historie: 5 - Startupy: 33 - Mobilní sítě: 35 - SMS: 3 - Apple: 96 - Příběhy: 29 - Sociální sítě: 61 - Knihy: 17 - eKnihy: 7 - Twitter: 3 - Konference: 3 - Video: 5 - Média: 20 - iPhone: 15 - Google: 65 - Nova: 4 - Weblogy: 6 - Ufon: 6 - CDMA: 6 - LTE: 8 - 4G: 4 - Čína: 11 - Osobní: 3..."
     }
     
   
