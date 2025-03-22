@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Claude Code - programování s AI | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Claude Code - programování s AI" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Claude Code: AI asistent pro vývojáře přímo v terminálu" />
+<meta property="og:description" content="Claude Code: AI asistent pro vývojáře přímo v terminálu" />
+<link rel="canonical" href="https://www.marigold.cz/ai/claude-code/" />
+<meta property="og:url" content="https://www.marigold.cz/ai/claude-code/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-03-22T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Claude Code - programování s AI" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-03-22T00:00:00+00:00","datePublished":"2025-03-22T00:00:00+00:00","description":"Claude Code: AI asistent pro vývojáře přímo v terminálu","headline":"Claude Code - programování s AI","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/ai/claude-code/"},"url":"https://www.marigold.cz/ai/claude-code/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Claude Code: AI asistent pro vývojáře přímo v terminálu
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Claude Code - programování s AI" />
+    <meta property="twitter:title" content="Claude Code - programování s AI" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/ai/claude-code/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Claude Code - programování s AI</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+22.
+březen
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <h1 id="claude-code-ai-asistent-pro-vývojáře-přímo-v-terminálu">Claude Code: AI asistent pro vývojáře přímo v terminálu</h1>
+
+<p>Claude Code je nástroj od společnosti Anthropic, který přináší obrovský náskok a zkušenost jejího jazykového modelu Claude Sonnet přímo do vývojářského prostředí. Jde o  CLI nástroj (tedy běžící v příkazové řádce)  integrovaný do terminálu, který umožňuje vývojářům spolupracovat s AI při každodenní práci s kódem. Ale nebojte se slov CLI ani příkazová řáda, prostě si povídáte s “chatbotem” a necháte jej, aby realizoval vaše zadání ke zdrojovému kódu. Jen ho zavoláte z Terminálu, což mu dává řadu možností a také to důstojně vynechává představu, že se sami budete hrabat ve zdrojáku, jako to naznačuje <a href="/item/programovani-s-ai/">Cursor nebo Copilot ve VS Code</a>.</p>
+
+<p>Stáhnout si <a href="https://ai-claude.net/code/">Claude Code můžete zde</a> (macOS 10.15+, Ubuntu 20.04+/Debian 10+, Windows via WSL)</p>
+
+<p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#claude-code-ai-asistent-pro-vývojáře-přímo-v-terminálu" id="markdown-toc-claude-code-ai-asistent-pro-vývojáře-přímo-v-terminálu">Claude Code: AI asistent pro vývojáře přímo v terminálu</a>    <ul>
+      <li><a href="#jak-claude-code-funguje" id="markdown-toc-jak-claude-code-funguje">Jak Claude Code funguje</a></li>
+      <li><a href="#podporované-jazyky-a-typy-projektů" id="markdown-toc-podporované-jazyky-a-typy-projektů">Podporované jazyky a typy projektů</a>        <ul>
+          <li><a href="#programovací-jazyky" id="markdown-toc-programovací-jazyky">Programovací jazyky</a></li>
+          <li><a href="#typy-projektů" id="markdown-toc-typy-projektů">Typy projektů</a></li>
+        </ul>
+      </li>
+      <li><a href="#klíčové-funkce-claude-code" id="markdown-toc-klíčové-funkce-claude-code">Klíčové funkce Claude Code</a>        <ul>
+          <li><a href="#kontextové-porozumění" id="markdown-toc-kontextové-porozumění">Kontextové porozumění</a></li>
+          <li><a href="#práce-s-kódem" id="markdown-toc-práce-s-kódem">Práce s kódem</a></li>
+          <li><a href="#integrace-s-vývojovým-procesem" id="markdown-toc-integrace-s-vývojovým-procesem">Integrace s vývojovým procesem</a></li>
+          <li><a href="#interaktivita-a-autonomie" id="markdown-toc-interaktivita-a-autonomie">Interaktivita a autonomie</a></li>
+        </ul>
+      </li>
+      <li><a href="#použití-v-praxi" id="markdown-toc-použití-v-praxi">Použití v praxi</a>        <ul>
+          <li><a href="#1-onboarding-do-nového-projektu" id="markdown-toc-1-onboarding-do-nového-projektu">1. Onboarding do nového projektu</a></li>
+          <li><a href="#2-řešení-komplexních-problémů" id="markdown-toc-2-řešení-komplexních-problémů">2. Řešení komplexních problémů</a></li>
+          <li><a href="#3-automatizace-rutinních-úkolů" id="markdown-toc-3-automatizace-rutinních-úkolů">3. Automatizace rutinních úkolů</a></li>
+          <li><a href="#4-učení-a-prohlubování-znalostí" id="markdown-toc-4-učení-a-prohlubování-znalostí">4. Učení a prohlubování znalostí</a></li>
+        </ul>
+      </li>
+      <li><a href="#instalace-a-začátek-práce" id="markdown-toc-instalace-a-začátek-práce">Instalace a začátek práce</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="jak-claude-code-funguje">Jak Claude Code funguje</h2>
+
+<p>Claude Code je postaven jako terminálová aplikace, která umožňuje konverzaci s AI asistentem Claude, ale na rozdíl od webové verze má přístup k vašemu lokálnímu vývojovému prostředí. To znamená, že může:</p>
+
+<ul>
+  <li>Číst a analyzovat soubory ve vašem projektu</li>
+  <li>Provádět Git operace</li>
+  <li>Navrhovat a implementovat změny v kódu</li>
+  <li>Vytvářet nové soubory a skripty</li>
+  <li>Pomáhat s debugováním a řešením problémů</li>
+</ul>
+
+<p>Celý nástroj funguje v kontextu vašeho projektu, což umožňuje Claude porozumět vaší kódové základně a poskytovat relevantnější pomoc. Také to má ale nástrahy, protože posílání “kontextu”, tj. všech souvisejících kódů hodně zatěžuje LLM a zaplatíte si to. A tím se <strong>dostáváme k bodu placení</strong>, který trochu odbudeme. Claude Code se platí, pro jeho použití se musíte přihlásit do služby Claude a dostatečně si ji naplnit alespoň 5 dolary plus DPH. Bez platební karty se neobejdete. A cena se platí podle tarifu Claude Sonnet, tedy za odeslané a vygenerované tokeny. Počítejte s tím, že Claude Code je vlastně docela drahý v kontextu jiných nástrojů. Hodně plýtvá kontextem, díky čemuž má ale také výrazně lepší výsledky. Počítejte s tím, že jednoduchý script vás vyjde na dolary, denní velmi intenzivní práce může stát i třeba dvacet dolarů…</p>
+
+<p>Co je výhoda? Můžet s Claudem mluvit česky, rozumí vám. Bude odpovídat také převážně česky, některé drobnosti dá anglicky.</p>
+
+<p>Na obrazovce vidíte, jak všechno funguje:</p>
+
+<p><img src="/assets/claudecode-marigold.png" alt="Claude Code použité na Marigold.cz" /></p>
+
+<p>Spustím Terminál, přejdu do adresáře, kde mám projekt a nyní si mohu poroučet, co se s ním má dělat. Tento web je staticky generovaný, funguje přes Github Pages a Jekyll, jenže už dávno si nové věci neřeším sám, ale nechávám si to vyvíjet právě přes AI. Jenže to má své problémy. Například teď jsem si nechal udělat script, který opravil nadpisy článků, ve kterých byly někdy paznaky. Jenže při tom udělal jiný problém. Ten nyní chci po Claude Code upravit, když mu říkám: __Potřebuji projít všechny soubory v adresáři _posts a podadresářích s koncovkou .md … __</p>
+
+<p>Claude rekapituluje, co bude dělat a pak se hned pouští do řešení. Rozhodne se, že k tomu použije již existující soubor, aniž by se podíval, k čemu ten soubor slouží a přemastí mi jeho funkci. Což by bylo nepříjemné, kdyby to nebyl starý už nepoužívaný script. Ale je to typický příklad toho, že se Claude Code musí dost jasně říkat, co a jak má udělat. Mimo jiné jej na začátku musíte instruovat, jestli takové věci může nebo nemůže provést sám, bez zeptání se (já pro tento případ nastavil, ať to sází bez mého schválení). Ale to už je ta vyšší dívčí, na kterou se podíváme někdy příště.</p>
+
+<p>Teď se ještě pojďme věnovat teorii…</p>
+
+<h2 id="podporované-jazyky-a-typy-projektů">Podporované jazyky a typy projektů</h2>
+
+<p>Claude Code je navržen jako univerzální nástroj pro vývojáře a podporuje široké spektrum programovacích jazyků a typů projektů:</p>
+
+<h3 id="programovací-jazyky">Programovací jazyky</h3>
+
+<p>Claude Code má silnou podporu pro většinu populárních jazyků včetně:</p>
+<ul>
+  <li><strong>JavaScript/TypeScript</strong> - kompletní podpora včetně moderních frameworků</li>
+  <li><strong>Python</strong> - plná podpora pro Python 3.x a běžné knihovny</li>
+  <li><strong>Java/Kotlin</strong> - dobré porozumění objektovému kódu a Android vývoji</li>
+  <li><strong>C/C++</strong> - schopnost analyzovat a navrhovat úpravy v komplexních codebases</li>
+  <li><strong>Go</strong> - dobrá podpora pro idiomatický Go kód</li>
+  <li><strong>Rust</strong> - rozumí konceptům ownership a borrowing</li>
+  <li><strong>Ruby</strong> - včetně Rails a dalších frameworků</li>
+  <li><strong>PHP</strong> - od malých skriptů po rozsáhlé aplikace</li>
+  <li><strong>C#/.NET</strong> - dobrá podpora pro ekosystém .NET</li>
+  <li><strong>Swift</strong> - včetně iOS/macOS vývoje</li>
+</ul>
+
+<h3 id="typy-projektů">Typy projektů</h3>
+
+<p>Claude Code je efektivní napříč různými typy projektů:</p>
+
+<ul>
+  <li><strong>Backend aplikace</strong> - API, mikroslužby, serverové aplikace</li>
+  <li><strong>Frontend vývoj</strong> - React, Vue, Angular a další JS frameworky</li>
+  <li><strong>Mobile development</strong> - nativní aplikace pro iOS a Android</li>
+  <li><strong>DevOps</strong> - skripty, konfigurace, CI/CD pipelines</li>
+  <li><strong>Data Science</strong> - analýza dat, ML modely, jupyter notebooks</li>
+  <li><strong>Embedded systémy</strong> - s určitými omezeními u velmi specifického hardwaru</li>
+  <li><strong>Desktop aplikace</strong> - multiplatformní i nativní aplikace</li>
+  <li><strong>Game development</strong> - včetně herních enginů jako Unity</li>
+</ul>
+
+<p>Ačkoliv Claude Code zvládá všechny uvedené oblasti, jeho efektivita může kolísat podle specifičnosti domény a komplexity projektu. Nejsilnější je v oblastech web developmentu, backendových systémů a obecného programování.</p>
+
+<h2 id="klíčové-funkce-claude-code">Klíčové funkce Claude Code</h2>
+
+<h3 id="kontextové-porozumění">Kontextové porozumění</h3>
+
+<p>Claude Code automaticky shromažďuje kontext z vašeho projektu, aby mohl poskytovat odpovědi a návrhy relevantní pro vaši kódovou základnu. Dokáže navigovat strukturou souborů, analyzovat závislosti a pochopit architektonické vztahy.</p>
+
+<h3 id="práce-s-kódem">Práce s kódem</h3>
+
+<ul>
+  <li><strong>Analýza kódu</strong>: Identifikace potenciálních problémů, vysvětlení složitých částí kódu</li>
+  <li><strong>Refaktorizace</strong>: Návrhy na zlepšení struktury kódu s ohledem na osvědčené postupy</li>
+  <li><strong>Implementace</strong>: Tvorba nových funkcí na základě specifikací</li>
+  <li><strong>Testování</strong>: Pomoc při vytváření testů pro existující kód</li>
+</ul>
+
+<h3 id="integrace-s-vývojovým-procesem">Integrace s vývojovým procesem</h3>
+
+<p>Claude Code se integruje do existujícího workflow vývojáře:</p>
+
+<ul>
+  <li><strong>Git integrace</strong>: Práce s větvemi, commity a pull requesty (můžete mu říct lidsky, on příkaz navrhne a provede)</li>
+  <li><strong>Práce na projektech</strong>: Schopnost řešit tickety a issues (doporučuju vyzkoušet, díky GIT integraci toho pořeší opravdu slušně dost)</li>
+  <li><strong>Podpora dokumentace</strong>: Generování a aktualizace dokumentace (další dobrá vychytávka, já si od něj nechávám sjet, co nového v kódu u mých vývojářů a jak dobře to udělali a zadokumentovali)</li>
+</ul>
+
+<h3 id="interaktivita-a-autonomie">Interaktivita a autonomie</h3>
+
+<p>Na rozdíl od tradičních asistentů pro programování může Claude Code vést dialog, ptát se na doplňující informace a pracovat iterativně. Lze nastavit různé úrovně autonomie - od pouhého navrhování změn po jejich automatickou implementaci. S tím doporučuju poněkud opatrně, protože v takovém případě první, co se vám logicky stane je, že Claude Code něco špatně pochopí, přemastí vám kód a ještě ho automaticky commitne na Github, odkud se to nasadí na produkci a už se vezete…</p>
+
+<h2 id="použití-v-praxi">Použití v praxi</h2>
+
+<p>Claude Code se mi osvědčuje v široké paletě scénářů. Tak například:</p>
+
+<h3 id="1-onboarding-do-nového-projektu">1. Onboarding do nového projektu</h3>
+
+<p>Když začínáte pracovat na existujícím projektu, Claude Code může výrazně zkrátit čas potřebný k pochopení kódové základny:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude "Vysvětli mi architekturu tohoto projektu a hlavní toky dat"
+</code></pre></div></div>
+
+<p>Můžete také požádat Claude o:</p>
+<ul>
+  <li>Identifikaci klíčových komponent a jejich interakce</li>
+  <li>Vytvoření mapy závislostí mezi moduly</li>
+  <li>Vysvětlení historických rozhodnutí v kódu (pomocí git historie)</li>
+  <li>Shrnutí účelu a funkcionality konkrétních souborů nebo adresářů</li>
+</ul>
+
+<p>Pro větší projekty je užitečné říct Claudovi, aby “přemýšlel” o struktuře. Používám anglický výraz think hard, který uvádí dokumentace Antrhopicu, používat nějakou formu “usilovně přemýšlej” mi přijde divné, think hard rozumí a funguje to, takže směska angličtiny a češtiny funguje dobře. Stejně tak tak code base - kódová základna :</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude "Analyzuj code base a think hard o tom, jak jednotlivé části spolupracují"
+</code></pre></div></div>
+
+<h3 id="2-řešení-komplexních-problémů">2. Řešení komplexních problémů</h3>
+
+<p>Při řešení složitých úkolů můžete využít Claude jako sparring partnera:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude "Potřebuji implementovat autentizaci pomocí OAuth2. Můžeš mi pomoci navrhnout řešení?"
+</code></pre></div></div>
+
+<p>Claude Code dokáže:</p>
+<ul>
+  <li>Navrhnout různé architektury řešení problému</li>
+  <li>Identifikovat potenciální výzvy a rizika jednotlivých přístupů</li>
+  <li>Generovat prototypový kód pro ověření konceptu</li>
+  <li>Nabídnout postupný plán implementace</li>
+</ul>
+
+<p>Pro komplexní problémy využijte možnost rozšířeného myšlení:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude "Potřebujeme zlepšit výkon naší databázové vrstvy. Přemýšlej hlubocels o možných optimalizacích a zlepšeních"
+</code></pre></div></div>
+
+<h3 id="3-automatizace-rutinních-úkolů">3. Automatizace rutinních úkolů</h3>
+
+<p>Claude Code je ideální pro automatizaci opakujících se úloh:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude "Najdi všechny funkce bez jednotkových testů a vytvoř pro ně základní testy"
+</code></pre></div></div>
+
+<p>Mezi další rutinní úlohy patří:</p>
+<ul>
+  <li>Refaktorizace kódu podle aktuálních best practices</li>
+  <li>Aktualizace dokumentace podle změn v kódu</li>
+  <li>Konverze mezi formáty (např. z JSON na TypeScript typy)</li>
+  <li>Standardizace formátování a stylu kódu</li>
+</ul>
+
+<p>Pro maximální efektivitu využijte režim auto-accept:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude "Přidej JSDoc komentáře ke všem veřejným funkcím v src/utils" [SHIFT+TAB pro auto-accept]
+</code></pre></div></div>
+
+<h3 id="4-učení-a-prohlubování-znalostí">4. Učení a prohlubování znalostí</h3>
+
+<p>Claude Code může sloužit jako osobní mentor přímo při práci s kódem:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude "Vysvětli mi, jak funguje tento algoritmus v sorting.js a proč je implementován takto"
+</code></pre></div></div>
+
+<p>Claude může:</p>
+<ul>
+  <li>Vysvětlit neznámé koncepty nebo vzory použité v projektu</li>
+  <li>Navrhnout alternativní implementace s vysvětlením výhod a nevýhod</li>
+  <li>Doporučit relevantní materiály k dalšímu studiu</li>
+  <li>Vytvářet cvičení a výzvy pro procvičení specifických dovedností</li>
+</ul>
+
+<p>Pro efektivní učení požádejte Claude o kontextové vysvětlení:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude "V tomto projektu vidím použití návrhového vzoru Observer. Vysvětli mi jeho implementaci na konkrétních třídách v našem kódu"
+</code></pre></div></div>
+
+<h2 id="instalace-a-začátek-práce">Instalace a začátek práce</h2>
+
+<p>Claude Code lze nainstalovat pomocí npm:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm install -g @anthropic-ai/claude-code
+</code></pre></div></div>
+
+<p>Po instalaci stačí v kořenovém adresáři vašeho projektu spustit:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude
+</code></pre></div></div>
+
+<p>Tím se spustí interaktivní terminálové rozhraní, kde můžete začít konverzaci s Claudem v kontextu vašeho projektu.</p>
+
+<p>Uvidíte zobáček, který indikuje, že můžete zadávat své požadavky. Pokud začínáte od nuly, můžete začít formulovat svůj požadavek, pokud jste v adresáři, kde už nějaký svůj projekt máte, hodí se dát /init - tím prozkoumáte stávající projekt a vygenerujete k němu shrnutí do souboru claude.md.</p>
+
+<blockquote>
+  <p>💡 POZOR: rozhodně nezačínejte pracovat s Claude v nějakém svém ostrém a cenném projektu. Bez určitých zkušeností se vám relativně snadno stane, že vám “přemastí” zdrojáky, která byste chtěli nechat tak, jak jsou.  Začněte experimentovat s prázdným projektem</p>
+</blockquote>
+
+<p>Jak Claude Code používat lépe a intenzivněji si řekneme někdy příště.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
+                <p class="excerpt">
+                  
+                    
+Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůli t...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
+                <p class="excerpt">
+                  
+                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Claude Code - programování s AI&url=https://www.marigold.cz/ai/claude-code/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/ai/claude-code/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_ai/2025-03-22-claude-code.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/ai/mcp/">&laquo; Model Context Protocol (MCP) - Průvodce pro Začátečníky a Vývojáře</a> |
+      
+      
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+ 
+  </body>
+</html>

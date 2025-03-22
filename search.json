@@ -26422,6 +26422,13 @@
         "content"  : "Model Context Protocol (MCP) je nová technologie - protokol - která se rychle stává důležitou součástí světa umělé inteligence (AI). Jednoduše řečeno, MCP je standardizovaný způsob, jakým AI agenti (jako jsou Claude, OpenAI, Cursor, Windsurf, a potenciálně i Siri) mohou komunikovat s různými webovými službami a aplikacemi. Autorem protokolu MCP je Anthropic a MCP lze přirovnat k univerzálnímu USB-C konektoru pro web: umožňuje online propojení AI s existujícími systémy, jako jsou databáze (PostgreSQL, Supabase), designové nástroje (Figma), verzovací systémy (GitHub), e-shopy (Amazon) a další. Díky tomu by se nemělo stát, že AI neví nové věci a nebo že se na..."
       }
       
+      ,{
+        "title"    : "Claude Code - programování s AI",
+        "url"      : "//ai/claude-code/",
+        "category" : "ai",
+        "content"  : "Claude Code: AI asistent pro vývojáře přímo v termináluClaude Code je nástroj od společnosti Anthropic, který přináší obrovský náskok a zkušenost jejího jazykového modelu Claude Sonnet přímo do vývojářského prostředí. Jde o CLI nástroj (tedy běžící v příkazové řádce) integrovaný do terminálu, který umožňuje vývojářům spolupracovat s AI při každodenní práci s kódem. Ale nebojte se slov CLI ani příkazová řáda, prostě si povídáte s “chatbotem” a necháte jej, aby realizoval vaše zadání ke zdrojovému kódu. Jen ho zavoláte z Terminálu, což mu dává řadu možností a také to důstojně vynechává představu, že se sami budete hrabat ve zdrojáku, jako..."
+      }
+      
     
   
     
