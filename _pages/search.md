@@ -66,43 +66,72 @@ exclude_from_search: true
 </style>
 
 <script>
-  window.store = {
-    {% for post in site.posts %}
-      "{{ post.url | slugify }}": {
-        "title": "{{ post.title | xml_escape }}",
-        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ site.baseurl }}{{ post.url | xml_escape }}",
-        "category": "{{ post.categories | join: ', ' | xml_escape }}",
-        "tags": "{{ post.tags | join: ', ' | xml_escape }}",
-        "date": "{{ post.date | date: '%-d.%-m.%Y' }}"
-      }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-    {% for page in site.pages %}
-      {% if page.title and page.exclude_from_search != true %}
-        ,
-        "{{ page.url | slugify }}": {
-          "title": "{{ page.title | xml_escape }}",
-          "content": {{ page.content | strip_html | strip_newlines | jsonify }},
-          "url": "{{ site.baseurl }}{{ page.url | xml_escape }}",
-          "category": "stránka",
-          "date": ""
+  // Inicializace prázdného store objektu
+  window.store = {};
+  
+  // Funkce pro bezpečné přidání položky do store objektu
+  function addToStore(key, data) {
+    try {
+      window.store[key] = {
+        title: data.title || "",
+        content: data.content || "",
+        url: data.url || "",
+        category: data.category || "",
+        tags: data.tags || "",
+        date: data.date || ""
+      };
+    } catch(e) {
+      console.error("Error adding item to store:", key, e);
+    }
+  }
+  
+  // Postupné přidávání položek z postů
+  {% for post in site.posts %}
+    addToStore(
+      "{{ post.url | slugify }}",
+      {
+        title: "{{ post.title | replace: '"', '\"' | strip_newlines | escape }}",
+        content: "{{ post.content | strip_html | truncatewords: 50 | replace: '"', '\"' | strip_newlines | escape }}",
+        url: "{{ site.baseurl }}{{ post.url }}",
+        category: "{{ post.categories | join: ', ' | replace: '"', '\"' | escape }}",
+        tags: "{{ post.tags | join: ', ' | replace: '"', '\"' | escape }}",
+        date: "{{ post.date | date: '%-d.%-m.%Y' }}"
+      }
+    );
+  {% endfor %}
+  
+  // Přidání stránek
+  {% for page in site.pages %}
+    {% if page.title and page.exclude_from_search != true %}
+      addToStore(
+        "{{ page.url | slugify }}",
+        {
+          title: "{{ page.title | replace: '"', '\"' | strip_newlines | escape }}",
+          content: "{{ page.content | strip_html | truncatewords: 50 | replace: '"', '\"' | strip_newlines | escape }}",
+          url: "{{ site.baseurl }}{{ page.url }}",
+          category: "stránka",
+          date: ""
         }
-      {% endif %}
-    {% endfor %}
-    {% for collection in site.collections %}
-      {% unless collection.label == "posts" %}
-        {% for item in site[collection.label] %}
-          ,
-          "{{ item.url | slugify }}": {
-            "title": "{{ item.title | xml_escape }}",
-            "content": {{ item.content | strip_html | strip_newlines | jsonify }},
-            "url": "{{ site.baseurl }}{{ item.url | xml_escape }}",
-            "category": "{{ collection.label | xml_escape }}",
-            "date": "{{ item.date | date: '%-d.%-m.%Y' }}"
+      );
+    {% endif %}
+  {% endfor %}
+  
+  // Přidání kolekcí
+  {% for collection in site.collections %}
+    {% unless collection.label == "posts" %}
+      {% for item in site[collection.label] %}
+        addToStore(
+          "{{ item.url | slugify }}",
+          {
+            title: "{{ item.title | replace: '"', '\"' | strip_newlines | escape }}",
+            content: "{{ item.content | strip_html | truncatewords: 50 | replace: '"', '\"' | strip_newlines | escape }}",
+            url: "{{ site.baseurl }}{{ item.url }}",
+            category: "{{ collection.label | escape }}",
+            date: "{{ item.date | date: '%-d.%-m.%Y' }}"
           }
-        {% endfor %}
-      {% endunless %}
-    {% endfor %}
-  };
+        );
+      {% endfor %}
+    {% endunless %}
+  {% endfor %}
 </script>
 <script src="{{ "/assets/js/search/simple-search.js" | relative_url }}"></script>
