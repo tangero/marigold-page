@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Nové funkce v Claude Code pro programování s AI",
+      "url"      : "//item/claude-code-novinky/",
+      "category" : "Claude, Anthropic, vibe code, AI",
+      "tags"     : "",
+      "date"     : "22.3.2025",
+      "content"  : "Svůj nástroj Claude Code pro “vibe coding” představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat. 💡 Nevíte, co je Claude Code? Detailnější popis jsme si přinesli zde.A co je nového? 1. Rozšířené myšlení (Extended thinking) 2. Vim mód 3. Vlastní slash příkazy 4. Zlepšená latence nástrojů 5. Režim auto-accept 6. Automatické doplňování cest k souborům 7. Auto-compact pro správu kontextu 8. Web fetch1. Rozšířené myšlení (Extended thinking)Claude Code nyní podporuje mód “rozšířeného myšlení”, který je poháněn..."
+    },
+  
+    {
       "title"    : "Wi-Fi 7 - standard 802.11be, technologie a pozice",
       "url"      : "//item/wi-fi-7-802-11be/",
       "category" : "WiFi, Wi-Fi 7, IEEE 802.11be, Mobilní sítě",
@@ -25818,7 +25827,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Surya Ganguli - Může se umělá inteligence vyrovnat lidskému mozku? ( 7.03.2025) Victor Riparbelli - Stane se z nás poslední generace, která bude umět číst a psát? (přepis přednášky) ( 1.03.2025) Ed Newton-Rex - Jak modely umělé inteligence kradou tvůrčí práci..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Nové funkce v Claude Code pro programování s AI (22.03.2025) Surya Ganguli - Může se umělá inteligence vyrovnat lidskému mozku? ( 7.03.2025) Victor Riparbelli - Stane se z nás poslední generace, která bude umět číst a psát? (přepis přednášky) ( 1.03.2025)..."
     }
     
   
@@ -25838,7 +25847,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 181 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 65 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 182 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 65 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -25889,6 +25898,17 @@
       "category" : "stránka",
       "content"  : "Test content here."
     }
+    
+  
+    
+    ,{
+      "title"    : "Test YAML with HTML entities   and … problems -  and colons",
+      "url"      : "//test_yaml_complex/",
+      "category" : "stránka",
+      "content"  : "This is a test file to check if the validation and fixing functionality works correctly.It contains HTML entities in the title and excerpt fields, as well as colons and quotes."
+    }
+    
+  
     
   
     
