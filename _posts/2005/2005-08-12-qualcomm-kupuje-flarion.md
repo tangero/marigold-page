@@ -20,10 +20,9 @@ title: "Qualcomm kupuje Flarion"
 
 <p>Copak se to děje? (Qualcomm oficiálně žádný nesdělil). </p>
 
-	<blockquote><p>
-CEO Qualcommu  Paul E. Jacobs k tomu řekl: "We believe CDMA will provide the most advanced spectrally efficient wide-area wireless networks for the foreseeable future, but with Flarion we can now more effectively support operators who prefer an OFDMA or hybrid OFDM/CDMA track for differentiating their services."
-</p>
-</blockquote>
+
+> CEO Qualcommu  Paul E. Jacobs k tomu řekl: "We believe CDMA will provide the most advanced spectrally efficient wide-area wireless networks for the foreseeable future, but with Flarion we can now more effectively support operators who prefer an OFDMA or hybrid OFDM/CDMA track for differentiating their services."
+
 <p>Důvodů může být několik:</p>
 
 <p>Tak za prvé je technologie Flarionu zatím jediným potenciálním a vážným konkurentem pro pásmo 450 MHz, které jinak chce Qualcomm ovládnout svým EV-DO. Například v Norsku se ale bude stavět Flarion a exempla trahunt. </p>
