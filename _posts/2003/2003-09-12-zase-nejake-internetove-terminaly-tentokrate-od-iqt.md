@@ -14,9 +14,7 @@ summary_points:
   a WiFi.
 - Metra Blansko vyrábí terminály IQT, plánuje se i export do zahraničí.
 - IQT plánuje instalaci 50 terminálů do konce roku a 1000 příští rok.
-title: "'Zase nějaké internetové terminály, tentokráte od IQT"
-
-  '
+title: Zase nějaké internetové terminály, tentokráte od IQT
 ---
 
 <p>

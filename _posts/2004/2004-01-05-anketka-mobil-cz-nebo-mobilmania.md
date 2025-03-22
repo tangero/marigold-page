@@ -13,7 +13,7 @@ summary_points:
 - Mobil.cz dotahoval MobilManii, ale hlasy přicházely z IP adresy Mafry.
 - Hlasování z IP adresy Mafry bylo zablokováno kvůli podezření z manipulace.
 - Autor ankety zpochybňuje objektivitu výsledků a nasazuje novou anketu.
-title: 'Anketka: Mobil.cz nebo MobilMania?'
+title: Anketka -  Mobil.cz nebo MobilMania?
 ---
 
 <p>

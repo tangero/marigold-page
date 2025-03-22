@@ -13,7 +13,7 @@ summary_points:
 - Datový roaming a MMS udržely autora u T-Mobile.
 - Siemens SX1 je dle autora Nokia 7650 bez vysouvací klávesnice.
 - Český server Mobil.cz publikoval preview Siemensu SX1.
-title: "GPRS roaming běží, díky bohové a T-Mobile…"
+title: GPRS roaming běží, díky bohové a T-Mobile…
 ---
 
 <p>

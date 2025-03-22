@@ -16,7 +16,7 @@ summary_points:
 - Technické kapacity SMS rozhraní jsou dostatečné, zpoždění je pravděpodobně způsobeno
   špatným nastavením DP.
 - Autor doporučuje při kontrole s nedoručenou SMS jízdenkou předstírat vybitý telefon.
-title: 'SMS Jízdenka: maličkosti, které zabíjí fajn službu'
+title: SMS Jízdenka -  maličkosti, které zabíjí fajn službu
 ---
 
 Včera jsem dorazil na metro Chodov a řekl jsem si, že vyzkouším SMS jízdenku. Hlavně z nostalgie. Za mého působení v Pipeline jsem potkal asi pět SMS projektů na prodej jízdenek různých ambicí a jestli jsem si z toho odnesl nějaký poznatek, tak fakt, že zprovoznit tuhle službu je technicky snadné a složité je jen domluvit to s Dopravním podnikem. Zjevně proto celá záležitost jde do provozu až teď, po nějakých třech letech od prvních pokusů.

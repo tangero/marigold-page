@@ -13,9 +13,7 @@ summary_points:
 - Prim Chronomag vznikly návrhy nadšenců na Fóru Chronomagu v roce 2005.
 - Limitovaná edice Prim Chronomag měla 40 kusů s renovovanými strojky kalibr 66.
 - Hodinky Prim Chronomag nebyly běžně prodejné, pouze pro tvůrce a aukci.
-title: "'Tak si ty hodinky navrhněte sami, když jste tak chytří!"
-
-  '
+title: Tak si ty hodinky navrhněte sami, když jste tak chytří!
 ---
 
 <p>Tohle asi bude památná věta a podobnými větami, co se pamatuju, začínalo každé legendární dílo českého internetu. Pamětníci vědí. Takhle například Seznam přišel k prvnímu obchodnímu ředitelovi, když neznámý Marko Zekič napsal neznámému Ivo Lukačovičovi, že četl, že Seznam si vydělá peníze webdesignem a že by bylo lepší prodávat reklamu. Druhý zmíněný odepsal tomu prvně zmíněnému <i>"Tak si ji zkus prodávat sám, když jsi tak chytrý"</i> - a tak to začalo, to byl rok 1996. </p>

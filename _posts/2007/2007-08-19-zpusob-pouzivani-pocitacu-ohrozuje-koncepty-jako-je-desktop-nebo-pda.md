@@ -13,9 +13,7 @@ summary_points:
 - Životnost notebooků je kratší než desktopů, upgrade je omezený.
 - Autor se vrátil k desktopu (Mac Mini) kvůli tichu a synchronizaci dat.
 - Alternativní subnotebooky (Asus EEE, Palm Foleo) cílí na mobilitu a jednoduchost.
-title: "'Způsob používání počítačů ohrožuje koncepty jako je desktop nebo PDA"
-
-  '
+title: Způsob používání počítačů ohrožuje koncepty jako je desktop nebo PDA
 ---
 
 Je zajímavé sledovat, jak se v průběhu generací mění způsob, jakým používáme počítače a v jaké formě počítače vyžadujeme. Prakticky od pradávna vládla terminálová forma, klávesnice spojená s monitorem (terminály u sálových počítačů), pak desktopové provedení, tedy monitor oddělený od desktopu a klávesnice. 

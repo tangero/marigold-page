@@ -13,7 +13,7 @@ summary_points:
 - Cena internetu v letadlech Lufthansy by měla být 25-35 USD za let.
 - Maximálně 20 lidí využívalo internet v testovacích letech Lufthansy.
 - Ekonomická návratnost internetu v letadlech Lufthansy je nejistá.
-title: "Boeing a Lufthansa: internet do letadel pokračuje"
+title: Boeing a Lufthansa -  internet do letadel pokračuje
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Miniprojektory promítají obraz z mobilu na zeď nebo stůl.
 - Dvě technologie miniprojektorů jsou CGH a LPD.
 - Autor vidí potenciál, ale obává se omezeného zájmu o miniprojektory.
-title: "CGH versus LPD miniprojektory"
+title: CGH versus LPD miniprojektory
 ---
 
 <p>Na Mobil.cz dneska vyšel můj článek nazvaný <a href="http://mobil.idnes.cz/mob_tech.asp?r=mob_tech&amp;c=A050328_125728_mob_tech_zan">Malý mobil, velký obraz (miniprojektory pro mobily okouzlily CeBIT)</a>. Původně jsem ho nazval prozajičtěji <i>"Miniprojektory pro mobilní telefony"</i> - už proto, že na CeBITu jsem letos po devíti letech poprvé nebyl a také proto, že se o ty miniprojektory zajímám delší dobu. </p>

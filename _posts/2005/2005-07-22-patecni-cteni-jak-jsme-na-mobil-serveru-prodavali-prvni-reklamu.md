@@ -13,7 +13,7 @@ summary_points:
 - Jiří Peterka píše na Živě seriál o historii internetu.
 - Díl seriálu Jiřího Peterky se jmenuje "Jak se kdysi hledalo".
 - Autor vzpomíná na prodej první reklamy na Mobil serveru.
-title: 'Páteční čtení: jak jsme na Mobil serveru prodávali první reklamu'
+title: Páteční čtení -  jak jsme na Mobil serveru prodávali první reklamu
 ---
 
 <p>Na pátek už potřetí přichází páteční čtení věnované kapce historie internetu. Jen pro úplnost dodávám, že na Živě vychází také historický seriálek věnovaný internetu, píše ho Jiří Peterka a dnešní díl se jmenuje <a href="http://www.zive.cz/h/Uzivatel/AR.asp?ARI=124567">Jak se kdysi hledalo</a>.</p>

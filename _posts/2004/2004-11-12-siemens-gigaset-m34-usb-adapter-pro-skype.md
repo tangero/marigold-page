@@ -15,9 +15,7 @@ summary_points:
   a 645.
 - Adaptér M34 USB umožňuje Skype hovory, přístup k seznamu a konferenční hovory.
 - Gigaset M34 USB adaptér má být prodáván s kupónem pro Skype Out.
-title: "'Siemens Gigaset M34 USB Adapter pro Skype"
-
-  '
+title: Siemens Gigaset M34 USB Adapter pro Skype
 ---
 
 <p>

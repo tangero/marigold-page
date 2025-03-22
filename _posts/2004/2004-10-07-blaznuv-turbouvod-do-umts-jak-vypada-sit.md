@@ -17,7 +17,7 @@ summary_points:
 - Jádro sítě UMTS tvoří počítače řídící síť, například routery a ústředny.
 - Přístupová síť UMTS, UTRAN, využívá základnové stanice (NodeB a RNC).
 - UMTS Release 99 je GSM posunuté do 3G pásma s širším kanálem.
-title: "Bláznův turboúvod do UMTS – jak vypadá síť"
+title: Bláznův turboúvod do UMTS – jak vypadá síť
 ---
 
 <p>

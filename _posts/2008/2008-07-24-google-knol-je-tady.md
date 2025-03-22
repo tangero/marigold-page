@@ -15,7 +15,7 @@ summary_points:
 - Knol se zaměřuje na praktické problémy, na rozdíl od encyklopedických hesel Wikipedie.
 - Autoři Knol článků si volí stupeň spolupráce a práva šíření díla.
 - Editor Knol je uživatelsky přívětivější než editor Wikipedie.
-title: "Google Knol je tady"
+title: Google Knol je tady
 ---
 
 Samozřejmě je to náhoda, ale vtipná. Pár dní poté, co jsem si postěžoval, že <strong>Google Knol</strong> po roce od oznámení stále není, ho Google uvolnil a najdete ho na <a href="http://knol.google.com">knol.google.com</a>.

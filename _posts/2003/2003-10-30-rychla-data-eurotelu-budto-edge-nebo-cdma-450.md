@@ -13,7 +13,7 @@ summary_points:
 - Článek o CDMA-450 byl publikován na Mobil.cz s pozitivními ohlasy.
 - Článek na Mobil.cz pojednává o rychlých datech Eurotelu, EDGE nebo CDMA-450.
 - Druhý článek o CDMA-450 byl publikován kvůli vysoké čtenosti prvního.
-title: 'Rychlá data Eurotelu: buďto EDGE nebo CDMA-450?'
+title: Rychlá data Eurotelu -  buďto EDGE nebo CDMA-450?
 ---
 
 <p>

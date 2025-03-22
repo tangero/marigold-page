@@ -13,9 +13,7 @@ summary_points:
 - Verizon zrušil aukci čísla, protože John neměl právo ho prodávat.
 - John se odvolává na zákon o přenositelnosti, ale spor je o změnu kontaktu.
 - Dražitel chtěl na čísle zřídit erotickou linku, což se dalo očekávat.
-title: "'Verizon típnul aukci čísla 212-867-5309"
-
-  '
+title: Verizon típnul aukci čísla 212-867-5309
 ---
 
 <p>

@@ -12,7 +12,7 @@ summary_points:
   k dialogu.
 - Autor na snídani nakonec nejde kvůli pracovnímu závazku, což může být chápáno jako
   výmluva.
-title: "Jak moc vymknutá je doba z normality, když je pozvánka na snídani problém?"
+title: Jak moc vymknutá je doba z normality, když je pozvánka na snídani problém?
 ---
 
 Dostal jsem email. Četl jsem ho v autě cestou na výstaviště CeBItu, kde vystavujeme naše superbezpečné (naučil jsem se nové slovo!) routery Turris, takže jsem mu nevěnoval hned tolik pozornosti. Ministr financí Andrej Babiš mě v něm zval na páteční snídani. Až večer, když jsem pročítal vzkazy a zprávy se ukázalo, že z pozvánky je povyk nad poměry.

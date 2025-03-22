@@ -16,8 +16,7 @@ summary_points:
 - Bisquitt umožňuje komunikaci v sítích jako NB-IoT, které nepodporují TCP/IP.
 - WeCrashed je nový seriál na Apple TV o vzestupu a pádu WeWork.
 - Benjamin Labatut napsal knihu When We Cease to Understand the World o temné vědě.
-title: "Energomonitor vydává transparentní bránu MQTT-SN nazvanou Bisquitt jako open"
-  source
+title: Energomonitor vydává transparentní bránu MQTT-SN nazvanou Bisquitt jako open source
 ---
 
 Společnost Energomonitor (kde mám menší podíl) vydala jako open source transparentní bránu MQTT-SN nazvanou Bisquitt. Poskytuje jednoduchý, bezpečný a na standardech založený způsob připojení zařízení IoT s omezenými zdroji k infrastruktuře MQTT. Bisquitt je určen pro komunikaci prostřednictvím sítě NB-IoT, která neumožňuje protokol TCP/IP, ale pouze UDP, nebo podobné jiné sítě s omezenými síťovými zdroji. Pokud vás to zajímá, [detaily a odkaz na GitHub zde](https://www.energomonitor.com/insight/energomonitor-releases-bisquitt-transparent-mqtt-sn-gateway/). 

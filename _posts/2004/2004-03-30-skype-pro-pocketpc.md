@@ -13,7 +13,7 @@ summary_points:
 - PocketPC zařízení mají výpočetní výkon, WiFi a mikrofon pro VoIP telefonování.
 - GPRS připojení pro VoIP na PocketPC zatím nebylo testováno.
 - VoIP není standard, takže operátoři se nemusí bát o datové paušály.
-title: "Skype pro PocketPC"
+title: Skype pro PocketPC
 ---
 
 <p>

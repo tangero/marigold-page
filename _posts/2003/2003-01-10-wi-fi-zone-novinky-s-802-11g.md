@@ -13,7 +13,7 @@ summary_points:
 - g router Linksys WRT54G se prodává na Amazonu za 133 USD.
 - SanDisk představil Wi-Fi CompactFlash kartu s 128 MB za 130 USD.
 - Yamaha nabízí hudební server s Wi-Fi a vypalovačkou za 2000 USD.
-title: "Wi-Fi Zone, novinky s 802.11g"
+title: Wi-Fi Zone, novinky s 802.11g
 ---
 
 <p>

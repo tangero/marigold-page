@@ -13,7 +13,7 @@ summary_points:
 - ArrowVision Fingerprint Doorlock je zámek ovládaný otiskem prstu.
 - NETGEAR WGT634U vyhrál v Home Networking kategorii.
 - Danger Hiptop zvítězil v kategorii Wireless Communications.
-title: "CES Innovations Awards 2004 uděleny"
+title: CES Innovations Awards 2004 uděleny
 ---
 
 <p>

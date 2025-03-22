@@ -13,7 +13,7 @@ summary_points:
 - ČTÚ vyžaduje, aby síť nebyla přístupná komukoliv za úplatu.
 - Autor shrnutí nesouhlasí s názorem, že CzFree tuto podmínku splňuje.
 - CzFree je dle autora dostupné každému a provozováno se ziskem.
-title: "Lupa o telco licenci a CzFree.cz"
+title: Lupa o telco licenci a CzFree.cz
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Propagační materiály v KFC, Pannerie a Nescafe Café stále uvádějí WiFi zdarma.
 - Kartičky pro placené WiFi nejsou dostupné v provozovnách s hotspoty.
 - Telecom zřejmě neaktualizoval informace o placené WiFi ve svých hotspot lokalitách.
-title: 'Hotspoty Českého Telecomu: prý zadarmo, přitom za peníze'
+title: Hotspoty Českého Telecomu -  prý zadarmo, přitom za peníze
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Platby SMS umožňují okamžitou aktivaci WiFi bez nutnosti skládat zálohy.
 - SMS platby jsou určeny pro ad-hoc připojení, nikoliv pro trvalé odběry.
 - Trvalé připojení k WiFi od WideNetu se platí bankovním převodem.
-title: "WideNet nabízí platbu WiFi hotspotů přes PR SMS"
+title: WideNet nabízí platbu WiFi hotspotů přes PR SMS
 ---
 
 <p>

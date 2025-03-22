@@ -14,9 +14,7 @@ summary_points:
 - Softwarově definované rádio a vyšší vysílací výkony jsou klíčové pro open-source
   mobily.
 - P2P open-source mobilní sítě čekají na svého Linuse a uvolnění frekvenčního pásma.
-title: "'Proč se open-source revoluce zastavila před mobily?"
-
-  '
+title: Proč se open-source revoluce zastavila před mobily?
 ---
 
 <p>

@@ -16,9 +16,7 @@ summary_points:
 - Autor odmítl vydavatele, kniha je žánrově nezařaditelná, proto crowdfunding.
 - Papírová kniha bude kvalitní vazba, ilustrace, korektury, i pro e-knihu.
 - Příběh strýčka Martina je autorovo opus magnum, náročné psaní i editace.
-title: "'Zainvestujte si mou novou knihu Příběh strýčka Martina"
-
-  '
+title: Zainvestujte si mou novou knihu Příběh strýčka Martina
 ---
 
 <p>Tak a je to tady. Příběh strýčka Martina se chystá jako kniha. Nejenom jako elektronická, ale i jako papírová kniha. Jenže to bych to nebyl já, kdyby to bylo jednoduché a šlo si knihu obyčejně koupit v obchodě. Nejde. <a href="https://www.startovac.cz/projekty/pribeh-strycka-martina/">Musíte pro ni na Startovač</a> - takový český kickstarter. Proč a nač?</p>

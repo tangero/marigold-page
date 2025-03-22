@@ -13,7 +13,7 @@ summary_points:
 - Databáze hotspotů a mobilní praktičnosti budou přidány.
 - WAP Marigold je dostupný na adrese marigold.cz/wap.html.
 - Vývojová verze osekává zprávy a komentáře na 1300 znaků.
-title: "Wapový Marigold"
+title: Wapový Marigold
 ---
 
 <p>

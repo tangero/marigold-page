@@ -15,7 +15,7 @@ summary_points:
   1,25 MHz.
 - Nokia rozšiřuje sítě TeliaSonera o EDGE v Norsku, Švédsku, Finsku a Dánsku.
 - SingTel spustil LBS hru via SMS/Java, umožňující vyhledávání a "střílení" na protivníky.
-title: 'Mobildrobky: americká CDMA2000 EV-DO Monet to balí, LBS pro hry'
+title: Mobildrobky -  americká CDMA2000 EV-DO Monet to balí, LBS pro hry
 ---
 
 <p>

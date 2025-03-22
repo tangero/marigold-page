@@ -16,7 +16,7 @@ summary_points:
 - Pohlreich údajně způsobil zrušení zeleninové oblohy v hospodách.
 - Autor preferuje poctivé jídlo z kvalitních surovin před "ekobiogreen" produkty.
 - Italská kuchyně chutná italsky v Itálii, oblohu ať nechají.
-title: "Mně ta moderní mánie pro vysokou kuchařinu nějak nevoní…"
+title: Mně ta moderní mánie pro vysokou kuchařinu nějak nevoní…
 ---
 
 V poslední době je každý kolem kuchařský expert non plus ultra. Klučina, se kterým jsme na puťáku vařili špagety s landšmítem na kopřivách, mi významně sděluje, že konečně našel "skvělé italské prošuto". A na mou otázku, kde je vzpomínka na problitou noc nad rendlíkem, mě ujišťuje, že je to věc stylu.

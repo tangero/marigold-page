@@ -13,7 +13,7 @@ summary_points:
 - Chello Classic nově nabídne 2048/256 kbit/s, Chello Plus 4096/512 kbit/s.
 - Ceny služeb Chello Classic a Plus se po navýšení rychlosti nemění.
 - Do Vánoc bude rychlost navýšena pro všechny uživatele UPC Chello.
-title: "UPC opět zvyšuje rychlost Chello internetu a to až na 4 Mb/s"
+title: UPC opět zvyšuje rychlost Chello internetu a to až na 4 Mb/s
 ---
 
 <p>

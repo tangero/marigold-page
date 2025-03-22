@@ -13,7 +13,7 @@ summary_points:
 - Ping se pohybuje mezi 100-300 ms, instalace je rychlá a bezproblémová.
 - VPN (IPSec, PPTP) na CDMA nefunguje, podpora to potvrzuje a neví, zda se to změní.
 - Mobil.cz a MobilMania mají diskuse o zkušenostech s CDMA.
-title: "První praktické zkušenosti s CDMA"
+title: První praktické zkušenosti s CDMA
 ---
 
 <p>

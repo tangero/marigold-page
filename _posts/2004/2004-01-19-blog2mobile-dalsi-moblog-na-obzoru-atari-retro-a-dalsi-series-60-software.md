@@ -14,7 +14,7 @@ summary_points:
   USD.
 - mStreamer za 10 USD streamuje živé video ze Series60 telefonu na jiná zařízení.
 - Task Switcher je zdarma dostupný program pro přepínání úloh na Symbian zařízeních.
-title: "blog2mobile: další moblog na obzoru, Atari Retro a další Series 60 software"
+title: blog2mobile -  další moblog na obzoru, Atari Retro a další Series 60 software
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Autor inspiroval kontextovou nápovědou z Yuhůova weblogu a CSS formátováním tabulek.
 - Doma přestala téci voda kvůli prasklému potrubí, objevivšímu se vedle silnice.
 - Čtyři programátoři se přihlásili na programování P2P knihovny.
-title: "Jen tak předvánočně"
+title: Jen tak předvánočně
 ---
 
 <p>

@@ -13,9 +13,7 @@ summary_points:
 - Marigold se autorovi zdál pro článek o úspěšných serverech nevhodný.
 - Autor se blíží k limitu datového transferu serveru Marigold.
 - Autor zvažuje omezení návštěvnosti Marigoldu kvůli datovému limitu.
-title: "'Rozdávám moudra na Lupě, ach jo to zase dopadá"
-
-  '
+title: Rozdávám moudra na Lupě, ach jo to zase dopadá
 ---
 
 <p>

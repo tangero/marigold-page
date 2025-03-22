@@ -13,7 +13,7 @@ summary_points:
 - Chytrost a strategie jsou důležitější než technologie pro Smart Cities
 - Vertikální stratifikace měst je obtížná kvůli nedůvěře a korupci
 - Smart řešení vyžadují kontinuální vývoj a otevřenost pro další inovace
-title: "SmartCities: o chytrosti v technice a hlouposti v nás"
+title: SmartCities -  o chytrosti v technice a hlouposti v nás
 ---
 
 <p>Byl jsem dneska na konferenci Smart Cities pořádané Economií, seděl jsem tam v panelu, ve kterém půlku z pěti lidí dělali zástupci čeští, druhou zástupci zahraniční (a já dělal půlku na obě strany). Bylo to zajímavé setkání dvou světů a tak několik poznámek. </p>

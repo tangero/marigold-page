@@ -13,7 +13,7 @@ summary_points:
 - Parkovací místa pro svatebčany u radnice jsou vyhrazená, což autor osobně ověřil.
 - Googgi vytvořilo mobilní svatební oznámení pro Nokia telefony s WAP push.
 - SMS zpráva pro získání oznámení stojí 50 Kč a technicky ji zajišťuje Pipeline a.s.
-title: "Sny (a svatba) plus svatební oznámení na mobil"
+title: Sny (a svatba) plus svatební oznámení na mobil
 ---
 
 <p>

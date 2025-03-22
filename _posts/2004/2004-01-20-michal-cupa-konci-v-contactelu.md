@@ -13,7 +13,7 @@ summary_points:
 - Peter Rubeck, dosavadní COO, dočasně povede firmu Contactel.
 - Zaměstnancům Contactelu oznámili odvolání Čupy na staff meetingu.
 - Contactel má nižší obrat než plán, ale vyšší provozní zisk.
-title: "Michal Čupa končí v Contactelu"
+title: Michal Čupa končí v Contactelu
 ---
 
 <p>

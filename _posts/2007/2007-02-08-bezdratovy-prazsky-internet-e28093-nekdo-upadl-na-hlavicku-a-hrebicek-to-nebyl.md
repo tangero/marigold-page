@@ -11,7 +11,7 @@ summary_points:
 - Autor kritizuje plán jako technologicky a ekonomicky labilní, možná zmanipulovaný.
 - WiFi síť je pro magistrátní účely pomalá, nevhodná a kapacitně nedostačující technologie.
 - Místo WiFi by Praha měla investovat do optické sítě FTTH, která je modernější.
-title: "Bezdrátový pražský internet – někdo upadl na hlavičku a hřebíček to nebyl"
+title: Bezdrátový pražský internet – někdo upadl na hlavičku a hřebíček to nebyl
 ---
 
 <texy>Kauza bezdrátového internetu v Praze se mi zdála být natolik komickou, že se jí zabývám na Marigoldu jen okrajově, jednou za uherský rok. Zdá se, že uhrovitost tohoto roku je dostatečná k tomu, abychom se k tématu vrátili. 

@@ -15,7 +15,7 @@ summary_points:
   zákoutí.
 - Creative Hall představovala studentské herní projekty, nabízející neotřelé nápady
   na Invexu.
-title: 'Invex 2003: jedna fotka, dvě hodinky chození'
+title: Invex 2003 -  jedna fotka, dvě hodinky chození
 ---
 
 <p>

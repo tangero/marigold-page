@@ -13,7 +13,7 @@ summary_points:
 - Korejský "Zákon o obsahu" vyžaduje zpřístupnění obsahu financovaného státem online.
 - Zákon o obsahu podpořil rozvoj placených obsahových služeb a broadbandu v Koreji.
 - Článek navrhuje podobný model pro Českou republiku s archivy ČTV.
-title: "Zákon o obsahu"
+title: Zákon o obsahu
 ---
 
 <p>Na Lupě.cz dneska <a href="http://www.lupa.cz/clanek.php3?show=3913" >vyšel první díl mého článku</a>

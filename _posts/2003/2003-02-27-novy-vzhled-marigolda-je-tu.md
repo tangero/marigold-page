@@ -14,7 +14,7 @@ summary_points:
 - Titulka je jediná část webu Marigold, která má nový vzhled.
 - Firma Miton.cz zablokovala FTP účty Otoman, Marigold nemůže aktualizovat archivy
   fotek.
-title: "Nový vzhled Marigolda je tu :)"
+title: Nový vzhled Marigolda je tu  - )
 ---
 
 <p>

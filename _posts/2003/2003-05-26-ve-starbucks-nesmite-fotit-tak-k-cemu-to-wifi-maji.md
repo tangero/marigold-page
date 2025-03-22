@@ -13,7 +13,7 @@ summary_points:
 - Zákaz focení v kavárnách s WiFi sítí je podle autora článku stupidní.
 - Autor spekuluje, že Starbucks se bojí odhalení nekalých praktik, ne kopírování designu.
 - Veřejná WiFi v kavárnách Starbucks je problematická kvůli zákazu focení.
-title: "Ve StarBucks nesmíte fotit! Tak k čemu to WiFi mají?"
+title: Ve StarBucks nesmíte fotit! Tak k čemu to WiFi mají?
 ---
 
 <p>

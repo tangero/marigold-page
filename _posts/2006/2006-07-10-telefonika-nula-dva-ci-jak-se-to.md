@@ -13,7 +13,7 @@ summary_points:
 - Telefonica přejmenovala Český Telecom a Eurotel na Telefonica O2 Czech Republic.
 - Změna jména Telefonica O2 zákazníkům nepřinesla žádný valný smysl.
 - NMT Eurotelu definitivně zaniklo, což autor článku zaznamenal.
-title: "Telefonika Nula Dva či jak se to…"
+title: Telefonika Nula Dva či jak se to…
 ---
 
 <p>Těžko byste v českých telekomunikacích našli jiné lepší jméno, na které lze lépe svorně nadávat, než Český Telecom. Kdysi jsem soudil, že jakýkoliv svéprávný kupec našeho inkumbenta firmu nutně přejmenuje. I stalo se tak. </p>

@@ -13,7 +13,7 @@ summary_points:
 - Autor preferuje anglické termíny, editor trvá na českých ekvivalentech.
 - České překlady jako "přístupový bod" a "směřovač" považuje autor za zavádějící.
 - Autor se obává, že s českými termíny bude působit neprofesionálně.
-title: "Překládat či nepřekládat technické termíny?"
+title: Překládat či nepřekládat technické termíny?
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Číslo je spojeno s megahitem Tommy TuTone, důvodem vysoké ceny.
 - Přenositelnost čísel v USA podpořila trh se "zlatými" telefonními čísly.
 - Salem se dříve soudil o vnitrostátní volačku 666.
-title: "Na eBay se draží číslo – a už za milion korun…"
+title: Na eBay se draží číslo – a už za milion korun…
 ---
 
 <p>

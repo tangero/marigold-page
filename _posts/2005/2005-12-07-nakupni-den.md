@@ -10,7 +10,7 @@ summary_points:
 - SkyNet koupila nizozemská společnost Tinezo Investments B.V., včetně změny předsedy.
 - GTS CE koupila Telenor Networks a Nextru, dle neověřeného, ale spolehlivého zdroje.
 - Nákup Nextry společností GTS CE potvrzuje tisková zpráva Nextry a článek na Euru.
-title: "Nákupní den?"
+title: Nákupní den?
 ---
 
 <p><b>ook píše</b>: Dnes do mého ICQ dorazily dvě zprávy. <br />

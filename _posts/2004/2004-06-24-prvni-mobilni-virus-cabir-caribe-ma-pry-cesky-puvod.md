@@ -13,9 +13,7 @@ summary_points:
 - Cabir se šířil přes bluetooth u telefonů se Symbianem, což je v ČR vzácné.
 - The Prague Post informoval o autorství Cabiru a původu jména skupiny 29A.
 - Autor pochybuje o rychlé reakci české policie v porovnání s německou policií.
-title: "'První mobilní virus Cabir/Caribe má prý český původ"
-
-  '
+title: První mobilní virus Cabir/Caribe má prý český původ
 ---
 
 <p>

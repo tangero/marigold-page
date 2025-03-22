@@ -13,7 +13,7 @@ summary_points:
 - Internet WIA 5G poskytuje spolehlivé připojení v pásmu 5 GHz s rychlostí 3 Mb/s.
 - Obě služby WIA WiFi a 5G jsou mobilní a dostupné v pokrytých oblastech.
 - WIA hledá partnery pro rozšíření pokrytí sítě, nabízí spolupráci.
-title: "WiFi či 5 GHz – bezdrátové připojení přehledně na mapě pokrytí"
+title: WiFi či 5 GHz – bezdrátové připojení přehledně na mapě pokrytí
 ---
 
 <texy>**Noname píše:**  musím se pochlubit svou prací, kterou jsem v poslední době dělal, omlouvám se předem za mírně reklamní charakter článku. Vytvářel jsem dva weby pro služby bezdrátového připojení k Internetu. První je obecně známá, ostatně je to asi jedna ze 3 nejpoužívanějších komerčních WiFi sítí v České Republice - "WIA WiFi":http://wifi.wia.cz.

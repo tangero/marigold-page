@@ -13,7 +13,7 @@ summary_points:
 - Autor nastoupil do MIA v roce 1996, kde pracoval na projektu Media serveru.
 - Projekt Media serveru selhal kvůli shodnosti úhlů pohledu českých novin.
 - Vyhledávač Zmije.cz vznikl jako náhrada, ale autor z MIA odešel před jeho změnou.
-title: "MIA končí – Telecom ji definitivně potopil"
+title: MIA končí – Telecom ji definitivně potopil
 ---
 
 <p>

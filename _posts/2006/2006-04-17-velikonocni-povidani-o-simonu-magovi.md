@@ -13,7 +13,7 @@ summary_points:
 - Šimon Mág byl současníky považován za Velikého, konal divy a zázraky.
 - Pavel z Tarsu zřejmě likvidoval Šimonovský mýtus a šířil kristovskou legendu.
 - Apokryfní Skutky Petrovy líčí Šimonovu smrt po pádu z výšky v Římě.
-title: "Velikonoční povídání o Šimonu Mágovi"
+title: Velikonoční povídání o Šimonu Mágovi
 ---
 
 <p><strong>Update:</strong> <i>ego sum stultus.</i> Úplně jsem zapoměl napsat, proč jsem tento článek vůbec smolil. Důvody jsou dva, oba publikačního charakteru. Ponejprv na počest vydání překladu apokryfního <a href="http://www.national-geographic.cz/detail.asp?id=1160">Evangelia podle Jidáše</a>. 	Podle mne poměrně průlomového. Překlad je z koptštiny do en/fr/de - zkoušel jsem to přeložit do češtiny, ale došla mi chuť a baterka do notebooku. A druhá událost je vydání českého překladu knihy The Traveller - <a href="http://www.daemon.cz/kniha/6077/hawks-john-twelve-poutnik.htm">Poutník</a>. Zatímco Jidášovo evangelium asi pravděpodobně bude nad vaši chuť se věnovat křesťanské gnosi, Poutníka si kupte a přečtěte. A neptejte se mne proč, to pochopíte, až ho dočtete.</p>

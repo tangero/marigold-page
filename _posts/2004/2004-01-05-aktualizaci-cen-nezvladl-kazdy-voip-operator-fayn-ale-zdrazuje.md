@@ -15,9 +15,7 @@ summary_points:
 - Fayn aktualizoval ceny s DPH a zdražil Zónu 1 a měsíční paušál více než odpovídá
   DPH.
 - Fayn měl v prosinci problémy se sítí a nedodržel termín zavedení telefonních čísel.
-title: "'Aktualizaci cen nezvládl každý VoIP operátor, Fayn ale zdražuje"
-
-  '
+title: Aktualizaci cen nezvládl každý VoIP operátor, Fayn ale zdražuje
 ---
 
 <p>

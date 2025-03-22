@@ -16,7 +16,7 @@ summary_points:
 - iRobot vidí Roomba jako spojovací tkáň inteligentní domácnosti budoucnosti.
 - Amazon kupuje One Medical za 3,9 miliardy dolarů, službu primární péče.
 - Amazon chce rozšířit vliv v robotizované domácnosti a možná i ve zdravotnictví.
-title: "Amazon kupuje společnosti iRobot a One Medical"
+title: Amazon kupuje společnosti iRobot a One Medical
 ---
 
 Společnost Amazon oznámila, že plánuje převzít firmu **iRobot za 1,7 miliardy dolarů v hotovosti**. Firmu zabývající se domácí robotikou, která je známá především jako průkopník robotických vysavačů, založili v roce 1990 členové laboratoře umělé inteligence MIT Colin Angle, Rodney Brooks a Helen Greinerová. Dvanáct let po svém založení společnost představila model Roomba, který se od té doby stal synonymem pro tuto kategorii a do roku 2020 se ho prodalo více než 30 milionů kusů.

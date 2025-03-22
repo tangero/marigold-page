@@ -14,7 +14,7 @@ summary_points:
 - Klávesnice Pocketop je skládací, stojí 79 USD a výrobce ji prodává na pocketop.net.
 - Infraport umístění na telefonech může být problémem pro používání klávesnice.
 - Palmare.cz informuje o klávesnici s Bluetooth připojením.
-title: "Externí klávesnice pro Series60 telefony a Ser P800"
+title: Externí klávesnice pro Series60 telefony a Ser P800
 ---
 
 <p>

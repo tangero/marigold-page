@@ -14,7 +14,7 @@ summary_points:
 - Délka stránky je problém, navrhováno zkrácení na perex s odkazem na článek.
 - Autor zvažuje širší design stránky, ale nesouhlasí s perexem a odkazem.
 - Autor žádá čtenáře o názory na design ve fóru Marigoldovského serveru.
-title: "Změnit rozvržení titulní stránky?"
+title: Změnit rozvržení titulní stránky?
 ---
 
 <p>

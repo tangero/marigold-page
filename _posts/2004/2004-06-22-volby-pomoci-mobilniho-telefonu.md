@@ -13,7 +13,7 @@ summary_points:
 - SuperStar hlasování ukázalo rozdíl mezi SMS a unikátními hlasujícími.
 - Volby mobilem vyžadují ověření identity voliče, například notářským ověřením.
 - Rizika mobilních voleb zahrnují kupčení s hlasy a vysledovatelnost hlasu.
-title: "Volby pomocí mobilního telefonu"
+title: Volby pomocí mobilního telefonu
 ---
 
 <p>

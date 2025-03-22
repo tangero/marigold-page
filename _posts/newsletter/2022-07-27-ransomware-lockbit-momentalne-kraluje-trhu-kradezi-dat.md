@@ -15,7 +15,7 @@ summary_points:
 - LockBit má letos přes 450 obětí, což je dvakrát více než konkurence.
 - Česko zaznamenalo desítky firem s zašifrovanými daty, hrozí prodej na TORu.
 - LockBit zakazuje útoky na kritickou infrastrukturu a zdravotnictví kvůli pozornosti.
-title: "Ransomware LockBit momentálně kraluje trhu krádeží dat"
+title: Ransomware LockBit momentálně kraluje trhu krádeží dat
 ---
 
 Ransomware, software, který unese vaše data a vydá vám je za výkupné, má v poslední době žně. Mezi aktivními gangy vyděračů se objevila nová vyděračská organizace. Podle společnosti GuidePoint Security si skupina LockBit letos zatím vyžádala více než 450 obětí, což je dvakrát více než její nejbližší konkurenti. V Česku bylo za poslední týdny zaznamenáno kolem deseti případů firem, kterým byla zašifrována data a pokud si dotyčné firmy nezaplatí, budou jejich data nabídnuta k prodeji na TORu. 

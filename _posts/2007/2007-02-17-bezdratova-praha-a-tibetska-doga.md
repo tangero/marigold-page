@@ -13,7 +13,7 @@ summary_points:
 - Narodilo se sedm štěňat tibetské dogy rodičů autora, vítězů soutěží.
 - Autor vede informační antikampaň proti projektu Bezdrátová Praha.
 - Projekt Bezdrátová Praha je kritizován pro neefektivitu, korupci a rušení sítí.
-title: "Bezdrátová Praha a tibetská doga"
+title: Bezdrátová Praha a tibetská doga
 ---
 
 <strong>Noname píše:</strong> Musím říct, že tenhle týden byl celkem náročný a můžu si za to z půlky sám, protože když bych neměl neutuchající potřebu řešit problémy jiných, tak bych si ušetřil asi 30 hodin práce.

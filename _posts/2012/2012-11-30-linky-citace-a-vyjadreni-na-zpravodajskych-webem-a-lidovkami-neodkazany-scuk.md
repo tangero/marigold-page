@@ -16,8 +16,7 @@ summary_points:
   nikoliv.
 - Článek v Lidových novinách sloužil čtenáři, ne propagaci Martina Kuciela.
 - Kritici Lidových novin sami často nelinkují, rychlý lynč ničemu neprospívá.
-title: "Linky, citace a vyjádření na zpravodajských webem a Lidovkami neodkázaný"
-  Scuk
+title: Linky, citace a vyjádření na zpravodajských webem a Lidovkami neodkázaný Scuk
 ---
 
 <p>Porušily Lidové noviny něco, když neprolinkovaly odkaz na Martina Kuciela, jehož <a href="http://www.lidovky.cz/proc-nam-to-delate-zlobi-se-vyrobci-dochucovadel-na-sefkuchare-p6t-/dobra-chut.asp?c=A121126_100349_dobra-chut_ape" target="_self" title="">vyjádření v článku citovaly</a>? Hned se jim dostalo hromady emotivních kleteb, čímž se svezly na vlně odporu proti "odpíračům odkazů". Jenže je to trochu složitější.</p>

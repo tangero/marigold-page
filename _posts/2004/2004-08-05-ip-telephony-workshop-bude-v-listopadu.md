@@ -13,7 +13,7 @@ summary_points:
 - Akce prezentuje produkty a služby IP telefonie, SW, řešení a hardware.
 - Workshop je určen zájemcům o IP telefonii a technologickým partnerům.
 - Kombinace konference a výstavy umožní vyzkoušet si konkrétní řešení.
-title: "IP Telephony Workshop bude v listopadu"
+title: IP Telephony Workshop bude v listopadu
 ---
 
 <p>

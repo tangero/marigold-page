@@ -18,9 +18,7 @@ summary_points:
 - Autor kritizuje nezvládnutý redesign Žena-in a nedostatečnou komunikaci s uživateli.
 - Autor nabízí ponaučení z neúspěšného redesignu Žena-in, zdůrazňuje důležitost zpětné
   vazby.
-title: "'Když se něco nepromyslí, tak se to nepovede"
-
-  '
+title: Když se něco nepromyslí, tak se to nepovede
 ---
 
 Zaujalo mne to. Minule, když jsem si dovolil o redesignu <a href="http://www.zena-in.cz/">Žena-in</a> napsat <a href="http://www.lupa.cz/zpravicky/zena-in-v-prechodu-a-la-radek-hulan/">do zpráviček na Lupu</a>, tak si v diskusi několik lidí přisadilo, že určitě jen kvůli realizátorovi. Těžko vysvětlovat, že nikoliv, že hlavně proto, že jde o výborný příklad nezvládnutého "redesignu" a komunikace kolem něho, jaký si můžu dovolit já na Marigoldovi, jehož čtenost je mi ukradená, ale těžko někdo se serverem, jenž by měl být komerční. A tak se i chovat - komerčně, tedy i transparentně. 

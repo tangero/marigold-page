@@ -13,7 +13,7 @@ summary_points:
 - Telefon používá ethernetový konektor RJ-45 místo RJ-11.
 - Recenze Fayn Net Phone 210 je dostupná na Mobil.cz.
 - Problémem je stále funkčnost příchozího čísla u Faynu.
-title: "Fayn Net Phone 210 konečně v prodeji"
+title: Fayn Net Phone 210 konečně v prodeji
 ---
 
 <p>

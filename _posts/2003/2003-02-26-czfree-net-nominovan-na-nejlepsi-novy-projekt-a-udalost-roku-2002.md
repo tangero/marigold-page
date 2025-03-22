@@ -15,7 +15,7 @@ summary_points:
 - Miloš Čermák nominován na Internetového novináře za Mediář, což vyvolává otázky
   střetu zájmů.
 - Zdeněk Janda a Miloslav Sova jsou navrženi na osobnost českého internetu.
-title: "CzFree Net nominován na Nejlepší nový projekt a Událost roku 2002"
+title: CzFree Net nominován na Nejlepší nový projekt a Událost roku 2002
 ---
 
 <p>

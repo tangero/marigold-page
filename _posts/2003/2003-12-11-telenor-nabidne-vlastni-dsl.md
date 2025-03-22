@@ -13,7 +13,7 @@ summary_points:
 - Telenor DSL služby budou spuštěny v prvním čtvrtletí 2004 v Praze.
 - Nextra bude jedním z ISP nabízejících Telenor DSL služby.
 - ADSL se díky cenám daří v LLU lépe než jiným službám.
-title: "Telenor nabídne vlastní DSL"
+title: Telenor nabídne vlastní DSL
 ---
 
 <p>

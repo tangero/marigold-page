@@ -13,7 +13,7 @@ summary_points:
 - Chronomag slaví první výročí a dokazuje, že nové weby mohou být ziskové.
 - Autor se bál PR obvinění, ale článek o Chronomagu byl čtenáři chválen.
 - Autor nakoupil dvanáct lahví vína na Sofiinu půlroční oslavu díky zdatné prodavačce.
-title: "Dnešní momentky s články a vinotékou"
+title: Dnešní momentky s články a vinotékou
 ---
 
 <p>Dneska Lupa vypadá, jako moje příloha. Kromě <a href="http://www.lupa.cz/clanek.php3?show=4528">článku J. Peterky o naší službě Pipay.cz </a>tam vyšel i <a href="http://www.lupa.cz/clanek.php3?show=4529">můj článek o tom</a>, zda ještě dnes mohou vzniknout výdělečné servery. Píšu tam o zkušenostech s Chronomagem. Chronomag právě slaví první výročí existence a na to, že šlo o takový pokusný projekt, má za sebou zajímavé výsledky, které mne stále přesvědčují o tom, že nové internetové servery, které na sebe vydělají, vznikat mohou i u nás - pokud je do vínku nezatížíte rozpočtem v řádu milionů. </p>

@@ -16,7 +16,7 @@ summary_points:
 - Zpráva je ke stažení po platbě, která pokrývá náklady na služby a testování LLM
   modelů.
 thumbnail: https://www.marigold.cz/assets/macron-altman.jpg
-title: "Zpráva o stavu AI pro jaro 2025"
+title: Zpráva o stavu AI pro jaro 2025
 ---
 
 Ještě nedávno vypadalo AI jako velmi přehledné závodiště. Se značným náskokem vede OpenAI, snaží se dotahovat prostřednictvím obrovských investic Muskův xAI a Google, který má vlastní AI model Gemini. K tomu je obchodně velmi úspěšný Antrhopic se svým modelem Claude. Pokud nás mohlo něco zarazit, pak snad jen to, že Google přes veškerý náskok v odvětví a obrovské investice do AI není vedoucí hybnou silou. 

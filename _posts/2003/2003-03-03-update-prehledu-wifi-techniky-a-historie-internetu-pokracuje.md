@@ -13,7 +13,7 @@ summary_points:
 - WiFi technika zlevnila za dva měsíce průměrně o 10 procent.
 - Některé starší WiFi výrobky byly nahrazeny novějšími modely.
 - Rubrika Historie českého internetu byla vylepšena a doplněna o úvod.
-title: "Update Přehledu WiFi techniky a Historie internetu pokračuje"
+title: Update Přehledu WiFi techniky a Historie internetu pokračuje
 ---
 
 <p>

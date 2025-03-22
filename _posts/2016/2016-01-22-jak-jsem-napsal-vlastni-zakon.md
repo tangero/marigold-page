@@ -13,7 +13,7 @@ summary_points:
 - Spolupracoval jsem s komunistickým poslancem Čapkem na úpravách zákona.
 - Zákon platí dodnes a je považován za kvalitní a stabilní.
 thumbnail: null
-title: "Jak jsem napsal vlastní zákon"
+title: Jak jsem napsal vlastní zákon
 ---
 
 Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, když jsem dělal rozhovor a pan novinář se mě ptal, jestli jsem neměl politické ambice. A já jsem si vzpomněl na svou politickou éru. 

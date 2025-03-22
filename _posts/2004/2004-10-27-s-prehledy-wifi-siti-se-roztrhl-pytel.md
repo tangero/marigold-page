@@ -13,7 +13,7 @@ summary_points:
 - Internet pro všechny vytvořil seznam přípojných bodů pro trvalé připojení.
 - Lupa a Mobil.cz také spustily databáze WiFi bodů a připojení.
 - Marigold ztratil motivaci k vývoji databáze kvůli odchodu a mapovým podkladům.
-title: "S přehledy WiFi sítí se roztrhl pytel"
+title: S přehledy WiFi sítí se roztrhl pytel
 ---
 
 <p>

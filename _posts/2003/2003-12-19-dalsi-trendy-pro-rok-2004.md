@@ -13,7 +13,7 @@ summary_points:
 - Noname předpovídá paušály dial-upu, levnější ADSL a EU vstup jako IT bod.
 - Jiří Bureš vidí masový potenciál v JAVA aplikacích a hrách.
 - Miloš Enderle zdůrazňuje růst erotiky, sázení a multiplayer java her.
-title: "Další trendy pro rok 2004"
+title: Další trendy pro rok 2004
 ---
 
 <p>

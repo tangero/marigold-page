@@ -13,7 +13,7 @@ summary_points:
 - CS3 a CS4 vyžadují vysokou kvalitu signálu a jsou málo robustní.
 - Rychlost GPRS s CS3/CS4 se často neliší od staršího CS2.
 - Nadšení z GPRS kódování u T-Mobile je přehnané, využití je specifické.
-title: "GPRS u T-Mobile – CS3 a CS4 nepovažuji za velkou výhodu"
+title: GPRS u T-Mobile – CS3 a CS4 nepovažuji za velkou výhodu
 ---
 
 <p>

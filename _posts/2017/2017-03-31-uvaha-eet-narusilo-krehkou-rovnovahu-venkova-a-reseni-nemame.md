@@ -10,7 +10,7 @@ summary_points:
 - Venkovské hospody čelí vyšším cenám kvůli menším možnostem daňových optimalizací.
 - Zavírání hospod na venkově může vést k migraci obyvatel do měst.
 - Řešením mohou být dotace nebo daňové úlevy pro regiony.
-title: "Úvaha: EET narušilo křehkou rovnováhu venkova a řešení nemáme"
+title: Úvaha -  EET narušilo křehkou rovnováhu venkova a řešení nemáme
 ---
 
 Dejme ještě jednu šanci přemýšlení nad EET. Řada restaurací zdražila (hlavně polední menu) a to je fakt. Z části pro vyšší náklady a opruz s EET, z části promítla jednorázově dlouhodobé cenové změny vstupů, z další části nepochybně promítla menší možnost daňových optimalizací. Jak kdo, jak kde, jak kolik.

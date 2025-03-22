@@ -13,7 +13,7 @@ summary_points:
 - Microsoft sjednocuje kódy PDA a SmartPhone pro konkurenci se Symbianem.
 - Shared Source licence PocketPC umožňuje výrobcům modifikace systému.
 - HP iPaq h2210 a JVC MP-PV131/331 jsou první zařízení s WM2003.
-title: "Windows Mobile 2003 s podporou WiFi"
+title: Windows Mobile 2003 s podporou WiFi
 ---
 
 <p>

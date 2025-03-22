@@ -28,8 +28,7 @@ summary_points:
 - "Chyb\xED mezistupe\u0148 mezi hrav\xFDm a profesion\xE1ln\xEDm programov\xE1n\xED\
   m."
 - "Low-code a no-code platformy jsou drah\xE9 a cloudov\u011B z\xE1visl\xE9."
-title: ""Programov\xE1n\xED pro pokro\u010Dil\xE9 d\u011Bti a pro ty, co skute\u010D\"
-  n\u011B za\u010D\xEDnaj\xED"
+title: Programov\xE1n\xED pro pokro\u010Dil\xE9 d\u011Bti a pro ty, co skute\u010D\ n\u011B za\u010D\xEDnaj\xED
 ---
 
 Mírně osobní a spíše brainstormovací článek. Řeším teď pro syna Vojtu (10 let) programování. Chodí (chodil, bo COVID) ve škole na  [Javorkovic kroužek programování](https://www.programovanihrou.cz/), skvělé. Jenže všechno je to takové hraní. Scratch je skvělý pro menší děti, ale skutečnému programování se tam jen přiblížíte. Také s Microbitem je zábava, Vojta tady týden přeprogramovával hry Scratch hry, aby je mohl ovládat svým vlastním ovladačem postaveným na desce Microbitu. Skvělý seznam materiálů pro první stupeň  [vytváří Miroslav Suchý](https://github.com/xsuchy/programovani_pro_deti/), doporučuji tam započít studium tématu. Ale taky se to časem omrzí. A tady přichází problém: je velká mezera mezi „hracím“ programováním a tím „skutečným“?

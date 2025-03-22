@@ -13,9 +13,7 @@ summary_points:
 - Talisman Basic nabízí užitečné funkce pro domácí routery, ale ne hotspot.
 - Podporované routery zahrnují Asus, Buffalo, Linksys a Netgear modely.
 - Bezdrátové VLAN, BGP, OSPF, RIP2 a P2P správa jsou další funkce.
-title: "'Sveasoft uvolnil alternativní firmware pro WiFi routery Talisman Basic"
-
-  '
+title: Sveasoft uvolnil alternativní firmware pro WiFi routery Talisman Basic
 ---
 
 Konečně něco trochu více zajímavého v oblasti WiFi, než plejáda 802.11Nkových karet. I když, možná už mimo dozor zájmu řady lidí. <a href="http://www.sveasoft.com">Sveasoft</a> právě uvolnil alternativní firmware pro WiFi routery Talisman ve verzi Basic zdarma. To je dobrá zpráva, dva roky staré Alchemy a tři roky staré Satori už si nějakou tu správku vysloužilo. Talisman ve verzi 1.3.1 už je stabilní, od 1.2.9 ostatně problému pozoruju minimum. 

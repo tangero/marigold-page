@@ -13,7 +13,7 @@ summary_points:
 - M2M komunikace vytváří samostatnou internetovou subvrstvu, které lidé nerozumí.
 - Internet věcí vyžaduje nové postupy a koncepty, které zatím nejsou dotažené.
 - Velká data budou rozhraním mezi internetem lidí a internetem strojů.
-title: "Chcete změnit svět? Věnujte pozornost Internetu věcí a Velkým datům"
+title: Chcete změnit svět? Věnujte pozornost Internetu věcí a Velkým datům
 ---
 
 <p> Napsal jsem to na Twitter jako hlášku, kterou bez souvislostí a delšího povídání není možné tak snadno pochopit těm, kdo technologie dlouhodobě nesledují: <em>"Konglomerát Internetu věcí a Velkých dat otevírá obrovské příležitosti ke vstupu do odvětví v celé řadě segmentů a bez nadsázky jej můžeme považovat za podobně důležitou změnu a trend, jakým byl nástup internetu v devadesátých letech. Pokud je vám líto, že jste tehdy u toho nebyli, teď máte možnost."</em></p>

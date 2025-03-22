@@ -13,7 +13,7 @@ summary_points:
 - Mlynář navrhuje posunutí spuštění UMTS o rok výměnou za předčasnou splátku.
 - Operátoři mají dle licence spustit UMTS v Praze do 1.1.2005.
 - RadioMobil nabídl 3,861 mld. Kč, Eurotel 3,535 mld. Kč za UMTS licenci.
-title: "UMTS v ČR se může posunout do roku 2006"
+title: UMTS v ČR se může posunout do roku 2006
 ---
 
 <p>

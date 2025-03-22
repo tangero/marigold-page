@@ -13,7 +13,7 @@ summary_points:
 - Český Telecom zdvojnásobil počet ADSL klientů za poslední čtyři měsíce.
 - '% uživatelů ponechá ADSL připojení po zkušební době.'
 - Telecom dříve odhadoval 150 000 ADSL přípojek do konce roku 2004.
-title: "Český Telecom hlásí 50 000 uživatelů ADSL"
+title: Český Telecom hlásí 50 000 uživatelů ADSL
 ---
 
 <p>

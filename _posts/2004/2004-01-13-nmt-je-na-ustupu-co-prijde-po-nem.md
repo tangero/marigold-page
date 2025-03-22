@@ -13,7 +13,7 @@ summary_points:
 - Německý regulátor hledá využití pro frekvenci 450 MHz po síti C Netz.
 - Norsko ukončí provoz NMT sítě Telenor a hledá náhradu.
 - CDMA450 se jeví jako smysluplná technologie pro frekvenci 450 MHz.
-title: "NMT je na ústupu. Co přijde po něm?"
+title: NMT je na ústupu. Co přijde po něm?
 ---
 
 <p>

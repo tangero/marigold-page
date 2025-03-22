@@ -13,7 +13,7 @@ summary_points:
 - KFC na Václavském náměstí má nefunkční WiFi připojení.
 - Hotspoty potřebují vhodné prostředí pro sezení a práci, což Václavák nesplňuje.
 - 'Na Václavském náměstí autor zachytil další dvě WiFi sítě: 101 a 2950vx.'
-title: "Příspěvek psaný na václaváku"
+title: Příspěvek psaný na václaváku
 ---
 
 <p>

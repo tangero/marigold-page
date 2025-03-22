@@ -13,7 +13,7 @@ summary_points:
 - EUNet dorazila do Prahy v květnu 1990, propojovala Unixové počítače.
 - EARN, evropská odnož BITNETu, začal fungovat na ČVUT v říjnu 1990.
 - února 1992 proběhlo slavnostní připojení Československa k internetu.
-title: '2. Léta akademická: začínáme EARNem'
+title: 2. Léta akademická -  začínáme EARNem
 ---
 
 První počítačové sítě u nás - Fidonet a EARN...

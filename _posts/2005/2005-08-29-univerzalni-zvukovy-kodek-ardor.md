@@ -13,7 +13,7 @@ summary_points:
 - Univerzální kodeky, jako ARDOR, zlepšují kvalitu VoIP a hlasové komunikace.
 - ARDOR vyvinul tým Philipsových laboratoří a podpořila jej Evropská komise.
 - Evropská komise zvažovala volné patenty IST pro evropské firmy.
-title: "Univerzální zvukový kodek ARDOR"
+title: Univerzální zvukový kodek ARDOR
 ---
 
 <p>Výzkumný tým Philipsových laboratoří dokončil práce na univerzálním zvukovém kodeku ARDOR, což byl v oblasti zvukových kodeků jeden z nejslibnějších počinů poslední doby. </p>

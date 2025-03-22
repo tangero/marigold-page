@@ -13,8 +13,7 @@ summary_points:
 - Přenos dat mezi iOS a Android je komplikovaný a časově náročný.
 - Huawei P9 Lite má dobrý poměr cena/výkon, ale fotoaparát selhává ve tmavých scénách.
 - Aktualizace systému na Androidu závisí na distributorech a je nepředvídatelná.
-title: "Jaký je přechod z Apple iPhone na vcelku levný telefon s Android"
-  6
+title: Jaký je přechod z Apple iPhone na vcelku levný telefon s Android 6
 ---
 
 <p>Jednou za čas se pokusím o přechod z iOS na něco jiného. Je to součást určité systémové hygieny. Chci mít přehled a přehled neznamená, že zařízení máte v ruce na pár hodin, jeho součástí je, že systém dlouhou dobu používáte jako svůj hlavní. Tak, abyste se zbavili původních návyků a přijali za své novou filosofii. Zatím vždycky to dopadlo neslavně, protože Android 5 je opravdu výrazně uživatelsky horší systém, než iOS té doby. <br />Úvaha uživatelů je vždycky stejná. Proč si kupovat iPhone za deset až třicet tisíc, když srovnatelně vybavený telefon s Androidem stojí polovinu a možná méně. Fanatický příznivec Androidu s chutí porovnává nejnadupanější iPhone 7 Plus a jeho cenovku s něčím podobně velkým třeba od Xiaomi, kde rozdíl dvacet tisíc samozřejmě vzbudí jistý údiv. </p>

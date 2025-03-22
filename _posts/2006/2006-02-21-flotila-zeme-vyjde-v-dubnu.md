@@ -13,7 +13,7 @@ summary_points:
 - Prodej Flotily s Pevností bude cenově srovnatelný s pozdějším volným prodejem.
 - Přiložení k Pevnosti automaticky zajistí Flotile status bestselleru.
 - Autor spočítal, že napsal ekvivalent 32 knih rozsahu Flotily za deset let.
-title: "Flotila Země vyjde v dubnu"
+title: Flotila Země vyjde v dubnu
 ---
 
 <p>Práce na knize pokročily tak daleko, že už se její existence dá oficiálně potvrdit. Kniha vyjde v dubnu 2006, nicméně pozor. Malá finta. Knihu vydává Wolf Publishing a toto nakladatelství vydává knihy primárně jako přílohu časopisu Pevnost. Takže zájemci o knižní vydání Flotily v dubnu budou muset knihu zakoupit i s Pevností. Jeslti vás to potěší, tak až později přijde kniha do volného prodeje, bude zhruba stejně drahá, jako bez časáku :)</p>

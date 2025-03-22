@@ -14,7 +14,7 @@ summary_points:
   SMS.
 - ČTÚ oslovil operátory ohledně MNP, ale Eurotel a T-Mobile jsou zdrženliví.
 - Operátoři Eurotel a T-Mobile brzdí zavedení přenositelnosti čísel.
-title: "Jak poznáme, kolik zaplatíme při volání na přenesená mobilní čísla?"
+title: Jak poznáme, kolik zaplatíme při volání na přenesená mobilní čísla?
 ---
 
 <p>

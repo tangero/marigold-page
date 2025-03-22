@@ -13,7 +13,7 @@ summary_points:
 - Ericsson spustil nový vývojářský web s placenými i bezplatnými registracemi.
 - Vývojářský web nabízí slevy na rané verze telefonů pro testování.
 - Sekce Tipů a Triků pro Sony Ericsson telefony je doporučena majitelům.
-title: "Sony Ericsson: petice za UIQ 2.1 do P800 a nový developer web"
+title: Sony Ericsson -  petice za UIQ 2.1 do P800 a nový developer web
 ---
 
 <p>

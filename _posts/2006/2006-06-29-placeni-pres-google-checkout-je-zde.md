@@ -13,7 +13,7 @@ summary_points:
 - Obchodníci platí Googlu poplatek, zhruba 2%, za transakce přes Checkout.
 - Systém Google Checkout je primárně určen pro občany USA.
 - Registrace české karty do Google Checkout kupujícímu z Česka prošla.
-title: "Placení přes Google Checkout je zde"
+title: Placení přes Google Checkout je zde
 ---
 
 <p>Google dnes spustil svoji verzi elektronické peněženky. Jmenuje se <a href="http://checkout.google.com">Google Checkout</a> a funguje jednoduše. Jako kupující si registrujete platební kartu a Google ji pro obchodníka zinkasuje, aniž byste museli svoje data o kartě dávat obchodníkovi. Data jsou uložena u Google, takže musíte věřit jen Google, ne každému obchodníkovi. </p>

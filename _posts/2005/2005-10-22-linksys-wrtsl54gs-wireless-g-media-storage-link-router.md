@@ -13,9 +13,7 @@ summary_points:
 - USB 2.0 port routeru podporuje sdílení disků přes SMB/CIFS.
 - Router Linksys WRTSL54GS nepodporuje FTP/HTTP ani automatické zálohování.
 - Cena routeru Linksys WRTSL54GS je okolo 100 USD.
-title: "'Linksys WRTSL54GS Wireless-G Media Storage Link Router"
-
-  '
+title: Linksys WRTSL54GS Wireless-G Media Storage Link Router
 ---
 
 <p>Linksys bude mít svůj první router vybavený USB portem. Jde o model Linksys WRTSL54GS Wireless-G Media Storage Link Router, což už z názvu můžeme identifikovat jako router postavený na základu WRT54GS, tedy s funkcí SpeedBooster, rychlostím rozšířením BroadComu. </p>

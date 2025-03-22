@@ -13,9 +13,7 @@ summary_points:
 - Důvodem prodeje je změna struktury a snaha o zvýšení podnikatelské úspěšnosti.
 - Fayn potřebuje nového partnera pro finanční injekci a expanzi na trhu.
 - Technologii Faynu poskytuje slovenská firma Voipac, která je akcionářem.
-title: "'Český VoIP poskytovatel Fayn je na prodej"
-
-  '
+title: Český VoIP poskytovatel Fayn je na prodej
 ---
 
 <p>Společnost Fayn.cz s.r.o, poskytovatel

@@ -11,7 +11,7 @@ summary_points:
 - Koaliční spolupráce založena na čtyřleté opoziční zkušenosti.
 - Neuvolněná funkce s plnými nároky na čtvrtinový plat.
 - Skatepark vyvolal stížnosti kvůli hluku a drenáži.
-title: "Místostarostou Brandýsa nad Labem – Staré Boleslavi"
+title: Místostarostou Brandýsa nad Labem – Staré Boleslavi
 ---
 
 🏙

@@ -13,8 +13,7 @@ summary_points:
 - Ethernet přes zásuvky umožňuje rozvod sítě elektrickými dráty v domácnosti.
 - WiFi a GSM roaming účtuje GSM operátor za používání WiFi dat.
 - Report zveřejnil patnáct nejnadějnějších WiFi společností pro daný rok.
-title: "Mesh sítě, WiFi a GSM roaming, ethernet přes el. zásuvky, nejnadějnější"
-  WiFi společnosti
+title: Mesh sítě, WiFi a GSM roaming, ethernet přes el. zásuvky, nejnadějnější WiFi společnosti
 ---
 
 <p>

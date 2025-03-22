@@ -16,9 +16,7 @@ summary_points:
 - Ochrana dat a propojení s registry zvyšují náročnost státních IT systémů.
 - Vstup a výstup dat z různých systémů komplikuje státní IT projekty.
 - Analýza státních IT projektů vyžaduje rozsáhlou dokumentaci a zkušenosti.
-title: "'Jak jsem pracoval na zkorumpovaném státním projektu"
-
-  '
+title: Jak jsem pracoval na zkorumpovaném státním projektu
 ---
 
 <p>Nadpis přehání, ale je to úkol nadpisů, nalákat na něco, co není až tak pravda. Chtěl jsem vysvětlit, proč mám mírný odstup od současného obecného dojmu, že co stát dělá, dělá z korupčního důvodu, ačkoliv nevylučuji, že je to tak v netriviálním množství případů.</p>

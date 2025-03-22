@@ -13,7 +13,7 @@ summary_points:
 - Honza a autor byli jediní blogeři, kteří na setkání dorazili.
 - Program zahrnoval diskusi, sledování Jistě pane premiére a konzumaci vína.
 - Autor děkuje Petrovi za akci a těší se na další setkání.
-title: "Setkani bloggeru v Zeneve"
+title: Setkani bloggeru v Zeneve
 ---
 
 <p>

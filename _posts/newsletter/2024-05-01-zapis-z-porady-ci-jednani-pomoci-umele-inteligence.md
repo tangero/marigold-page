@@ -20,7 +20,7 @@ summary_points:
   do cloudu.
 - Summie je nejkomplexnější aplikace, rozpoznává mluvčí a umožňuje doplňující dotazy.
 - Přizpůsobení slovníku a opakování akčních bodů zlepšuje kvalitu zápisu AI.
-title: "✍️ Zápis z porady či jednání pomocí umělé inteligence"
+title: ✍️ Zápis z porady či jednání pomocí umělé inteligence
 ---
 
 Jednou z aplikací umělé inteligence, kterou používám prakticky rutinně, je zápis ze schůzky, porady či jednání. Pojďme se podívat na to, jak to funguje. 

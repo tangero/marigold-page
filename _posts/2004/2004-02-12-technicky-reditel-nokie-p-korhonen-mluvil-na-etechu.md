@@ -13,7 +13,7 @@ summary_points:
 - Mobloging je pro Nokii zajímavý trend, vyvíjí aplikaci PhotoBlog.
 - RFID čipy s mobily umožní zjistit údaje o zboží, brzy u knih.
 - Mobil se stává osobním záznamníkem života, důležité je sdílení dat.
-title: "Technický ředitel Nokie P. Korhonen mluvil na ETechu"
+title: Technický ředitel Nokie P. Korhonen mluvil na ETechu
 ---
 
 <p>

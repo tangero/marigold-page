@@ -17,7 +17,7 @@ summary_points:
 - Tomáš je spoluúčastníkem diskuze v tomto díle Lomítka.
 - Video je dostupné ve formátu Flash, DivX nebyl úspěšný.
 - Diváci jsou zváni ke sledování videa o mobilním marketingu.
-title: "Lomítko /3 – Mobilní marketing"
+title: Lomítko /3 – Mobilní marketing
 ---
 
 Tak jsme natočili a sestříhali třetí díl Lomítka a tentokráte se s Tomášem bavíme o mobilním marketingu, kterého je na MWC plno. Takže, pokud vás to zajímá, nechte si chutnat :)

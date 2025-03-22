@@ -16,7 +16,7 @@ summary_points:
   jsou jednodušší.
 - P2P klienty bez DRM pro chytré telefony jsou zatím v nedohlednu, kvůli omezené paměti
   telefonů.
-title: 'Další panika: P2P aplikace mají přetížit 3G sítě'
+title: Další panika -  P2P aplikace mají přetížit 3G sítě
 ---
 
 <p>

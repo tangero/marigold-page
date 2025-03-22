@@ -13,7 +13,7 @@ summary_points:
 - Lokalizace Herecast funguje porovnáváním nalezených hotspotů s databází.
 - Přesnost lokalizace Herecast je minimální, v řádu desítek až stovek metrů.
 - Herecast nabízí aplikace HereSay (chat) a Area Maps (mapy oblasti).
-title: "Herecast – Lokalizace polohy pomocí WiFi"
+title: Herecast – Lokalizace polohy pomocí WiFi
 ---
 
 <p>

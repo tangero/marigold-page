@@ -13,9 +13,7 @@ summary_points:
 - Big Brother nabízí video stream, Vyvolení ho teprve plánují.
 - Prima a Nova používají stejný proudovací server Media Capitol.
 - Televize se mediálně škorpí, ale využívají stejné technologie.
-title: "'Vyvolení versus Velký bratr trošku jinak"
-
-  '
+title: Vyvolení versus Velký bratr trošku jinak
 ---
 
 <p><b>Oook píše</b>: Ne, že bych byl velký příznivec

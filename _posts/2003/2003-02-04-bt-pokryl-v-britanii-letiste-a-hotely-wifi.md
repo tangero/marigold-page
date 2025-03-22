@@ -13,7 +13,7 @@ summary_points:
 - WiFi síť BT Openzone nabízí trojnásobnou rychlost 3G za poloviční cenu.
 - BT plánuje do léta 400 WiFi hotspotů a do června 2005 dokonce 4000.
 - British Telecom pokryl WiFi signálem letiště, hotely Hilton a motoresty.
-title: "BT pokryl v Británii letiště a hotely WiFi"
+title: BT pokryl v Británii letiště a hotely WiFi
 ---
 
 <p>

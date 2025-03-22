@@ -14,9 +14,7 @@ summary_points:
   firmami.
 - Marek Sláčík (marketing), Radek Vodra (CIO) a Pavel Sunda (BSS/OSS) posílili MobilKom.
 - Luboš Bórik, bývalý z Eurotelu, je předseda představenstva MobilKomu.
-title: "'MobilKom nabírá lidi, holt to myslí vážně"
-
-  '
+title: MobilKom nabírá lidi, holt to myslí vážně
 ---
 
 <texy>Nejnovější U-fon na telekomunikačním trhu to asi vážně myslí vážně. MobilKom a.s. nabírá v posledních třech měsících spousty lidí a dochází k řadě přestupů a posunů. Vzhledem k tomu, že situace v bývalém Eurotelu je turbulentní a v T-Mobile vládne tuhá disciplína, nelze se některým přestupům divit. Je zajímavé, že podle osobních referencí mi momentálně vychází jako top zaměstavatel mezi velkými českými telco firmami Vodafone (to jen tak na okraj). Na druhou stranu lidi na vyšší pozice zřejmě najímají personální agentury, takže není úplně zřetelné, co jsou pozice v MobilKomu. 

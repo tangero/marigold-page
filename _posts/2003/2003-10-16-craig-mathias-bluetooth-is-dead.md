@@ -13,7 +13,7 @@ summary_points:
 - Autor oponuje, že WiFi je pro sluchátka příliš robustní a náročná.
 - IrDa a kabely se používají pro snadné propojení, WiFi pro náročnější bezdrát.
 - Bluetooth se autorovi líbí, ale v praxi se téměř nepoužívá.
-title: 'Craig Mathias: Bluetooth is dead'
+title: Craig Mathias -  Bluetooth is dead
 ---
 
 <p>

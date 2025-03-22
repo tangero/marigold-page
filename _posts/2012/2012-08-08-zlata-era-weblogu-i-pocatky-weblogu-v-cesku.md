@@ -16,7 +16,7 @@ summary_points:
 - Neviditelný pes Ondřeje Neffa byl patrně prvním českým blogem (před rokem 2003).
 - Google koupil Blogger v roce 2003, což podnítilo zájem o blogování.
 - Bloguje.cz založil Martin Malý v roce 2003, rychle si získal komunitu.
-title: "Zlatá éra weblogů I. – počátky weblogů v Česku"
+title: Zlatá éra weblogů I. – počátky weblogů v Česku
 ---
 
 <p>Tichý skon českého blogovacího systému Bloguje.cz připomněl, že blogování jako fenomén internetové publicistiky je tu s námi už docela dlouho. Zažil strmý vzestup plný nadějí ve zrod občanské žurnalistiky, pak vystřízlivění, kdy se ukázalo, že novinářem nebude každý, kdo sežene klávesnici, pak vytlačování sociálními sítěmi a nakonec - a asi i u nás - prožívá určitou renesanci.</p>

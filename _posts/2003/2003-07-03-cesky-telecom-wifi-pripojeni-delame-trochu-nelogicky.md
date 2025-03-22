@@ -13,7 +13,7 @@ summary_points:
 - Pokrytí WiFi je téměř výhradně uvnitř budov Telepointů a pump Shell.
 - U pump Shell je nutné pro připojení vystoupit z auta a jít dovnitř.
 - Telecom prodloužil zdarma WiFi, protože je to levnější než zpoplatnění.
-title: 'Český Telecom: WiFi připojení děláme trochu nelogicky'
+title: Český Telecom -  WiFi připojení děláme trochu nelogicky
 ---
 
 <p>

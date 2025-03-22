@@ -13,7 +13,7 @@ summary_points:
 - DSA-3100 brána zajišťuje přihlašovací stránku, řízení šířky pásma a účtování času.
 - Kompletní balík HotSpot to go stojí přes 28 000 Kč, samotná brána 19 000 Kč.
 - D-Link HotSpot je zajímavá varianta pro zpoplatněné WiFi v kavárnách.
-title: "D-Link k nám začíná dodávat „HotSpot to go“"
+title: D-Link k nám začíná dodávat „HotSpot to go“
 ---
 
 <p>

@@ -14,7 +14,7 @@ summary_points:
 - Notebook Dell Latitude nedostupný za původní cenu, Sony Vaio příliš drahé.
 - Acer zvažován, ale Bohouš Hyánek doporučil Gericom s procesorem Crusoe.
 - Nakonec zakoupen IBM ThinkPad R31, který zlepšil autorovu náladu.
-title: "Kterak jsem přišel o SIM kartu a konečně si koupil notebook"
+title: Kterak jsem přišel o SIM kartu a konečně si koupil notebook
 ---
 
 <p>

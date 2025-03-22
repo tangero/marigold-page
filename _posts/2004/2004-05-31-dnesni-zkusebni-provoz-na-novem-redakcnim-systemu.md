@@ -13,9 +13,7 @@ summary_points:
 - Titulní stránka Nucleusu je v testovacím provozu s designem Marigolda.
 - Některé funkce Nucleusu nefungují správně, například posílání emailů a vyhledávání.
 - Autor strávil víkend úpravami designu a zvažuje prioritu obsahu nad designem.
-title: "'Dnešní zkušební provoz na novém redakčním systému"
-
-  '
+title: Dnešní zkušební provoz na novém redakčním systému
 ---
 
 <p>

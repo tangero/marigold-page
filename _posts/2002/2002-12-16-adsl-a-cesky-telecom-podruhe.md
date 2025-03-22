@@ -13,7 +13,7 @@ summary_points:
 - Kbps ADSL linka od Telecomu by měla stát do 1300 Kč bez DPH.
 - UPC se obává nástupu ADSL kvůli konkurenční ceně a rychlosti Telecomu.
 - ADSL umožní levnější a rychlejší internet pro komunitní WiFi sítě.
-title: "ADSL a Český Telecom podruhé"
+title: ADSL a Český Telecom podruhé
 ---
 
 <p>

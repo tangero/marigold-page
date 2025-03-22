@@ -13,7 +13,7 @@ summary_points:
 - DrayTek Vigor2200We a Linksys BEFW11S4 budou recenzovány.
 - Recenze porovná rozdíly zařízení s podobnými funkcemi a cenovým rozdílem 3000 Kč.
 - Oba routery nabízejí WiFi, WAN výstup a 4 LAN porty.
-title: "Testujeme pro vás broadband routery s WiFi"
+title: Testujeme pro vás broadband routery s WiFi
 ---
 
 <p>

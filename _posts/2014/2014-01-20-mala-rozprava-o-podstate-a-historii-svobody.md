@@ -14,7 +14,7 @@ summary_points:
 - Absolutní svoboda byla v pravěku vzácná a vyhnanec byl bez ochrany a práv.
 - Svoboda se vyvíjela od středověku až po Francouzskou revoluci, kdy se stala ulehčením.
 - Důležitá je trvalá diskuse o hranicích svobody a neustálé hledání rovnováhy ve společnosti.
-title: "Malá rozprava o podstatě a historii svobody"
+title: Malá rozprava o podstatě a historii svobody
 ---
 
 <p>Zase jsem se nedávno na Twitteru nechal zatáhnout do tématu utopií předkládaných Svobodnými. A protože tohle se tématu vtažení týká, poznamenám si to.</p>

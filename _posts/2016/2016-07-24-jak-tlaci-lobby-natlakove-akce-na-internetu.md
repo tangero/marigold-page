@@ -13,9 +13,7 @@ summary_points:
 - 'Nátlakové akce mají jasné kroky: nastolení tématu, agenda, zpracování oponentů.'
 - Negativní nosné vlny se šíří snadněji než pozitivní.
 - Oponenti jsou izolováni, znevěrohodňováni a marginalizováni.
-title: "'Jak tlačí lobby nátlakové akce na internetu?"
-
-  '
+title: Jak tlačí lobby nátlakové akce na internetu?
 ---
 
 <p>V poslední době se na internetu množí nejrůznějšími nátlakovými akcemi nejrůznějších lobby. Protože jsem v poslední době pár takových vyhrožovaček a nátlakovek evidoval (od proruských, přes zbrojní až po telekomunikační lobby), sledoval a zažil, pokusil jsem se sumarizovat, jak takové nátlakovky a prosazovačky pohledu na téma vypadají. Zajímavé je, že schéma se používá stejné, liší se jen “kultura” užitých prostředků - jak výrazových, tak argumentačních.</p>

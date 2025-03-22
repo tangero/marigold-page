@@ -13,9 +13,7 @@ summary_points:
 - Oskar dříve odmítl 3G licenci za 2 miliardy korun.
 - Aukce by stanovila tržní cenu 3G licence, což je nejlepší řešení.
 - ČTÚ uděluje telekomunikační licenci v pásmu 872 MHz na širokopásmovou síť.
-title: "'Hromada divení se nad našimi UMTS licencemi"
-
-  '
+title: Hromada divení se nad našimi UMTS licencemi
 ---
 
 <p>

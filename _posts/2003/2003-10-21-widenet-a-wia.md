@@ -13,7 +13,7 @@ summary_points:
 - WIA získala podíl ve WideNetu výměnou za předanou síť.
 - Hotspoty dříve provozované WIA nyní vysílají SSID "W" pod WideNetem.
 - WideNet využívá technologii účtování vyvinutou společností WIA.
-title: "WideNet a WIA"
+title: WideNet a WIA
 ---
 
 <p>

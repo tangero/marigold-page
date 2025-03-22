@@ -14,7 +14,7 @@ summary_points:
   firmy.
 - Specifikace UMA jsou veřejně dostupné od konce roku 2003.
 - Úspěch UMA v Evropě závisí na názoru evropských operátorů jako T-Mobile.
-title: "Unlicensed Mobile Access (UMA) má nabízet přechod z mobilních dat do WLAN"
+title: Unlicensed Mobile Access (UMA) má nabízet přechod z mobilních dat do WLAN
 ---
 
 <p>

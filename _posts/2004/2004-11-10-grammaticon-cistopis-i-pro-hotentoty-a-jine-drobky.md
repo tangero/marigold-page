@@ -13,7 +13,7 @@ summary_points:
 - Firefox má ostrou českou verzi, autor ji používá a přispěl na reklamu.
 - Lumpyho blog je doporučen pro sledování novinek kolem prohlížeče Firefox.
 - Rony změnil design svého webu, který se autorovi velmi líbí.
-title: "Grammaticon – čistopis i pro hotentoty (a jiné drobky)"
+title: Grammaticon – čistopis i pro hotentoty (a jiné drobky)
 ---
 
 <p>

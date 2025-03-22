@@ -14,7 +14,7 @@ summary_points:
 - Autor píše studii "od podlahy" a úvod má přes 20 000 znaků.
 - Studie bude nově prodávána za cenu knihy, tedy několik málo stokorun.
 - Distribuce studie bude probíhat v PDF formátu s platbou kartou přes 2checkout.com.
-title: "Další autorsko – publikační pokus se chystá"
+title: Další autorsko – publikační pokus se chystá
 ---
 
 <p>

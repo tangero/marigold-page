@@ -14,7 +14,7 @@ summary_points:
 - Generativní AI rychle nahrazuje juniorní pozice v grafice, žurnalistice a dabingu.
 - Automatizace ohrožuje středně vzdělané pracovníky, podobně jako stroje tkalce.
 - Politická reprezentace dělnictva v USA a ČR oslabila, což využilo ANO.
-title: "A tím se dostáváme ke Q*, čtěte kjůstár"
+title: A tím se dostáváme ke Q*, čtěte kjůstár
 ---
 
 Jen den před svým odvoláním z čela OpenAI prohodil Sam Altman na firemní developerské konferenci, že je společnost na prahu přelomového produktu. Co jím mělo být, se tehdy nevědělo a vlastně dosud najisto neví. Produkt označovaný jako Q* ale prý podle zvěstí má být rozsáhlým jazykovým modelem, který se sám umí adaptovat na jiné úlohy, než na jaké byl natrénován. Tedy že je umělou inteligencí, která se sama umí učit. Která umí spustit řetězovou reakci rychlého pronikání AI do dalších oborů, jež se sama naučí. A právě tohle je jeden z velkých problémů.

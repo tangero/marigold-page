@@ -13,7 +13,7 @@ summary_points:
 - Seznam majetkově vstoupil do Stream.cz, obchod a marketing Streamu přechází na Seznam.
 - Seznam plánuje změnu vzhledu a loga Streamu, redesign připravil autor textu.
 - Daniel Landa bude mít na Streamu reality show "Peklo" s partou ztroskotanců.
-title: "Drobné novinky v rámci možností"
+title: Drobné novinky v rámci možností
 ---
 
 První drobnou novinkou je vzhledová úprava Marigolda. Pravý blok, který byl na titulní stránce a graficky se nevyvedl, jsem přesunul doleva. Dvousloupcový design is back. Bohužel až dneska jsem si všiml, že úprava nedopadla dobře v MSIE, kde se druhý článek zarovnává až na konec menu, což je zjevně chyba. V čem, to budu muset ještě poštelovat. 

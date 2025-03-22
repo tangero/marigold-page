@@ -14,7 +14,7 @@ summary_points:
   aplikací.
 - Damp Assassins je hra v USA s vodní pistolí, MMS a focením soupeřů.
 - Hráč Damp Assassins postříkal agenta FBI, což vedlo ke stažení jeho fotky ze serveru.
-title: "Tak obecně o mobilním socioware"
+title: Tak obecně o mobilním socioware
 ---
 
 <p>

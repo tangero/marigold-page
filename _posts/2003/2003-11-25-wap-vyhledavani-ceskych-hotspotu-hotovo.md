@@ -13,9 +13,7 @@ summary_points:
 - Služba je dostupná přes web marigold.cz/hotspoty a WAP na marigold.cz/wap.
 - Funkce SelfFind umožňuje uživatelům vybrat město pro vyhledání hotspotů.
 - WAP rozhraní má opravené problémy s délkou zpráv, ořezává je na 1300 znaků.
-title: "'WAP vyhledávání českých hotspotů hotovo"
-
-  '
+title: WAP vyhledávání českých hotspotů hotovo
 ---
 
 <p>

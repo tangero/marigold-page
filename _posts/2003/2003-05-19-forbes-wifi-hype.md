@@ -13,7 +13,7 @@ summary_points:
 - Shiphool letiště vykazuje nízké využití WiFi ve srovnání s pevnými linkami.
 - WiFi je dražší než internetové kavárny, což brzdí jeho širší využití.
 - Cena WiFi má zásadní vliv na jeho budoucí popularitu a růst.
-title: 'Forbes: WiFi hype'
+title: Forbes -  WiFi hype
 ---
 
 <p>

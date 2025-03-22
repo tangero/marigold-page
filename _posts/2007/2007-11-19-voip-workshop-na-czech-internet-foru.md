@@ -13,7 +13,7 @@ summary_points:
 - Workshop "VoIP doma i v kanceláři" ukáže, jak levně telefonovat.
 - Předvedou se praktické i teoretické ukázky, kdy se VoIP vyplatí.
 - Bude porovnání VoIP tarifů z Internetu Pro Všechny a přednáška online.
-title: "VoIP workshop na Czech Internet Fóru"
+title: VoIP workshop na Czech Internet Fóru
 ---
 
 <strong>Noname píše:</strong> Za pár dní začíná <a href="http://kristalova.lupa.cz/program-konference/">Czech Internet Fórum</a> - konference k akci Křišťálová Lupa, pořádané fy. Internet Info (Lupa, Root ...).

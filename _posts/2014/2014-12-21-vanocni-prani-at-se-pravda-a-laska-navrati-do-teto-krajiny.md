@@ -13,7 +13,7 @@ summary_points:
 - Autor překvapen, že inteligentní lidé používají "pravdoláskař" jako urážku.
 - Václav Havel uhranul idealismem, morálkou a důrazem na člověka.
 - Morálka vymizela z české politiky, pravda a láska se musí vrátit.
-title: "Vánoční přání: ať se pravda a láska navrátí do této krajiny"
+title: Vánoční přání -  ať se pravda a láska navrátí do této krajiny
 ---
 
 Čtvrt století od revoluce stačilo k tomu, aby se z pravdy a lásky stala nadávka. Je to zajímavá změna. 

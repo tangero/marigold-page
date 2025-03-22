@@ -15,9 +15,7 @@ summary_points:
 - Autor touží po centrálním úložišti hudby/filmů s jednoduchým přehráváním.
 - Televize neumí titulky ze sítě, DLNA je tedy pro autora nepoužitelné.
 - Po deseti letech je autor s digitalizací domácnosti nespokojený.
-title: "'Digitalizace domácnosti stále uspokojivě nedořešena"
-
-  '
+title: Digitalizace domácnosti stále uspokojivě nedořešena
 ---
 
 <p>Digitalizace domácnosti je moje oblíbené téma, které bych označil za trvalku. Na Marigoldovi jsem o tom psal <a href="http://www.marigold.cz/item/digitalizace-domacnosti-neni-jednoducha-pevnodiskove-rekordery">poprvé tak před osmi lety</a>, řeším to pořád do kola a ke svému překvapení jsem zásadně nepokročil.</p

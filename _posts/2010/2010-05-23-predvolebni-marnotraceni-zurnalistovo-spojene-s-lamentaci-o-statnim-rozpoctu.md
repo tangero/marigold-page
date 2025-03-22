@@ -15,8 +15,7 @@ summary_points:
 - Státní rozpočet je nepřehledný a těžko se v něm hledají konkrétní informace.
 - Novináři nepředkládají čtenářům srozumitelné rozbory rozpočtu, na rozdíl od USA.
 - Povrchnost novinářů je částečně způsobena i povrchností a osobními útoky politiků.
-title: "Předvolební marnotracení žurnalistovo spojené s lamentací o státním"
-  rozpočtu
+title: Předvolební marnotracení žurnalistovo spojené s lamentací o státním rozpočtu
 ---
 
 <p>Honza Simkanič publikoval text s nadpisem <a href="http://www.simindr.cz/tragika-ceske-politicke-zurnalistiky/">Tragika české politické žurnalistiky</a>, čímž rozehrál moji myšlenku a stal se předjezdcem tohoto zápisku. Můj postřeh bude z jiné strany, z jiného úhlu, ač stejně plačtivý.</p>

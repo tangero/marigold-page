@@ -14,7 +14,7 @@ summary_points:
 - Webové rozhraní mBank je funkční, ale sparťanské, chybí inkaso, SIPO a zahraniční
   platby.
 - Autor je zklamán stavem mBank, čekal více inovací a lépe přizpůsobené rozhraní.
-title: "mBank – reálné zkušenosti s účtem"
+title: mBank – reálné zkušenosti s účtem
 ---
 
 Mám to za sebou. Ozvali se mi z mBanky s tím, že vše jest připraveno, mohu naklusnout na Vinohradskou 37 do zbrusu nového finančního centra mBanky a několika podpisy stvrdit naši úmluvu, která změní bankovní svět. I učiniv tak, mám založený účet. Proto bych si dovolil pár zkušeností pro váhající. 

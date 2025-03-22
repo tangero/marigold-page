@@ -14,8 +14,7 @@ summary_points:
 - Motorola použije čipy Texas Instruments pro mobilní telefony s 2,5/3G a WiFi.
 - Motorola i.250 platforma bude podporovat mobilní sítě, WLAN a VoIP telefonování.
 - Telefonování přes WiFi je dle autora textu problematické kvůli absenci QoS.
-title: "802.11g od Intelu až v roce 2004. Motorola použije do svých mobilů čipovou"
-  sadu TI a&nbsp;tím přidá WiFi
+title: 802.11g od Intelu až v roce 2004. Motorola použije do svých mobilů čipovou sadu TI a tím přidá WiFi
 ---
 
 <p>

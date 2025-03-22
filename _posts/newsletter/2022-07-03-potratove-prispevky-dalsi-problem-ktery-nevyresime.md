@@ -19,7 +19,7 @@ summary_points:
   zdraví nebezpečné.
 - Jednoduchá řešení složitých problémů, jako je potrat, nikdy nefungovala, jen to
   nebylo vidět.
-title: 'Potratové příspěvky: další problém, který nevyřešíme'
+title: Potratové příspěvky -  další problém, který nevyřešíme
 ---
 
 Je to teprve týden, co Nejvyšší soud USA usoudil, že právo na potrat není "hluboce zakořeněno v historii nebo tradici tohoto národa" a zrušil rozsudek ve [věci Roe v. Wade](https://en.wikipedia.org/wiki/Roe_v._Wade). Tím fakticky vrátil do hry možnost jednotlivých států federace regulovat svou proti/potratovou politiku. Jedním z důsledků rozhodnutí je o prudký nárůst videí s potratovou tématikou, jejichž rozpoznávací ikonkou se stává žena s věšákem. Ve videích na sociálních sítích putují zaručené recepty, jak "si pomoct", přičemž zdravotníci varují před tím, že většina rad je v nejlepším případě neúčinná, v horším případě zdraví ohrožující až vysloveně nebezpečná. Jde především o nejrůznější toxické bylinky, které jsou doporučovány k vyvolání potratu. Podle amerických zdravotníků je to logický důsledek rozhodnutí, kdy nemožnost či opatrnost před získáváním oficiálních informací je nahrazována zdroji nejistého původu. 

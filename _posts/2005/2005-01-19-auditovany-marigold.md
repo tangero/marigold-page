@@ -13,7 +13,7 @@ summary_points:
 - Návštěvnost Marigolda lze porovnat s klasickými zpravodajskými servery v iAuditu.
 - Marigold má měsíčně mírně pod 20 000 unikátních návštěvníků.
 - Pravidelně čte Marigold zhruba 3000 lidí, nepravidelně 5-7 tisíc.
-title: "Auditovaný Marigold"
+title: Auditovaný Marigold
 ---
 
 <p>Jestli se nemýlím, je Marigold.cz jediným auditovaným weblogem <i>(jak to udělat, aby Pooh.cz nebyl weblog a byl jsem fakt jediný?)</i> na českém internetu <i>(ha, možná celosvětově, to zní světově!)</i>. Kdysi jsem to udělal proto, že jsem si chtěl porovnávat a zkoumat, jak se vyvíjí návštěvnost weblogu versus klasická média, takže kdo máte přístup <a href="http://www.iaudit.info/ap/">do detailů iAuditu</a> (něco je free, nevím zda vše), můžete si tam zkusit porovnat návštěvnost Marigolda a klasických zpravodajských serverů. Není to nezajímavé, ale nemám čas tu to teď pitvat, i když jsem jednou zašel tak daleko, že jsem přepočítával výkon blogera na výkon autora běžného zpravodajského serveru, co se do poměru návštěvnosti týká. Na co takové výpočty? Chtěl jsem zjistit, kolik autorů technicky zaměřených weblogů se musí ještě objevit, aby byl výkon weblogerů schopen nahradit české technické zpravodajské servery. Vyšlo mi překvapivě malé číslo!</p>

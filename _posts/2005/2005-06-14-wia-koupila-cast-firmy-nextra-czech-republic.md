@@ -13,9 +13,7 @@ summary_points:
 - WIA WiFi nabízí flexibilní připojení s možností změny bodu a platby.
 - WIA používá hot-spotové řešení s garancí rychlosti CIR a MIR.
 - WIA plánuje spuštění WiMAX služeb v několika městech o prázdninách.
-title: "'WIA koupila část firmy NEXTRA Czech Republic"
-
-  '
+title: WIA koupila část firmy NEXTRA Czech Republic
 ---
 
 <p><b>Noname píše:</b> Podle <a href="http://www.internetprovsechny.cz/blesk.php?cbl=203">tiskové zprávy WIA, která mi právě přišla</a> kupuje firma WIA bezdrátovou síť Nextry (tedy tu část, která se zabývá 2,4 GHz a 5 GHz, nikoliv 26 GHz) a to včetně technologie, zákazníků atd. Chtějí na tom nabízet vlastní službu <a href="http://wifi.wia.cz/">WIA WiFi</a>, která se mi moc líbí. Funguje tak, že prostě vezmete nějakou kartu a anténu, namíříte to na jejich bod a připojíte se do jejich sítě. Pak otevřete prohlížeč a automaticky na vás vykoukne jejich webová stránka, která vám umožní se zaregistrovat a zaplatit. A kdykoliv můžete tento bod změnit, takže můžu být připojen za jedny peníze v týdnu v Praze a o víkendu třeba v Chebu.</p>

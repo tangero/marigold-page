@@ -15,7 +15,7 @@ summary_points:
 - Sekretářka volá kvůli příhodě, jak autor vlezl miliardáři na stůl.
 - Autor chápe, že příhoda je určena jen pro něj a miliardáře.
 - Příhoda je popsána jako "koan" pro vyvolené, pro dva.
-title: "Starosti miliardářovy"
+title: Starosti miliardářovy
 ---
 
 Byl jsem, kulantně řečeno v jisté věci v kanceláři českého miliardáře. Skončili jsme, odcházím. Ve dveřích mě zastaví. "Ale nedočtu se o sobě zítra u vás na twitteru. Že ne?" 

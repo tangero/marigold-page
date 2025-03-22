@@ -16,8 +16,7 @@ summary_points:
 - Ethereum Merge převedlo ověřování plateb na Proof of Stake.
 - Proof of Stake snižuje energetickou náročnost ověřování transakcí.
 - Centralizace ověřování a pokles hodnoty krypta jsou problémy.
-title: "'Ethereum Merge: jak ušetřit spotřebu elektřiny v Česku díky změně ve zdrojovém"
-  kódu'
+title: Ethereum Merge -  jak ušetřit spotřebu elektřiny v Česku díky změně ve zdrojovém kódu
 ---
 
 Dva původem rusové udělali letos pro energetickou nezávislost světa více, než kdokoliv jiný. Tím prvním je Vladimír Putin, který ponoukl velkou část demokratického světa k usilovnému hledání alternativ. Tím druhým je Vitalik Buterin, jeden ze zakladatelů kryptoměny Ethereum. Ethereum totiž 15. září provedlo pět let připravovaný přechod na nový způsob ověřování plateb, díky němuž má ročně ušetřit odhadem 120 TWh, tedy dvojnásobek spotřeby Česka. 

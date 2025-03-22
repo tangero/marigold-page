@@ -16,7 +16,7 @@ summary_points:
 - Odstranění korupčníků neznamená konec korupce, problémů je více.
 - Změna společnosti vyžaduje práci každého jednotlivce, ne "někoho".
 - Začít je třeba u sebe, drobnými prospěšnými činy v okolí.
-title: "Největším problémem téhle země je…"
+title: Největším problémem téhle země je…
 ---
 
 … vždycky, když vidím tenhle úvod do diskuse, může mě z toho vzít šlak. Přitom na tuhle mudrlantskou, rýdobychytráckou postulaci nevyhnutelna narážíme prakticky všude, především v diskusních názorech pod články, v komentářích čtenářů, případně ve článcích autorů amatérů, kteří se rozhodli něco, co by nemělo mít prostor ani jako komentář, vydat jako samostatný článek. 

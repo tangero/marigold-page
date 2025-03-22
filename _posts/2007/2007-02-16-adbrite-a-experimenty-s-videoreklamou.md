@@ -13,7 +13,7 @@ summary_points:
 - AdBrite nově podporuje InVideo reklamu ve Flash videích (.flv soubory).
 - InVideo vygeneruje kód s Flash playerem a reklamou placenou za kliknutí.
 - Inzerenti musí pro vlastní reklamu založit inzerentský účet v AdBrite.
-title: "AdBrite a experimenty s videoreklamou"
+title: AdBrite a experimenty s videoreklamou
 ---
 
 Byl jsem zvědavý, kdy se objeví první volně dostupné systémy pro videoreklamu na internetu. Zatímco na českém trhu je videoreklama tak v plenkách, že pro ni žádný funkční systém neexistuje ani za peníze, natož zadarmo, trh nadnárodní už má i ten zadarmo systém. Jmenuje se <a href="http://www.adbrite.com/mb/landing_both.php?spid=41917&afb=125x125-1-blue">AdBrite</a> a video nebylo jeho hlavní náplní. Ve skutečnosti je to systém pro zprostředkování inzerce mezi vydavateli a inzerenty s tím, že on celou věc obchodně zprostředkovává a technicky odbaví. Obojí zcela automaticky. Je sice zaměřený primárně na anglofilní web, ale funguje i pro jiné jazyky, pokud angličtinu skousnete.

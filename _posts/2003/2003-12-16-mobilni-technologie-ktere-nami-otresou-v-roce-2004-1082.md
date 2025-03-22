@@ -14,7 +14,7 @@ summary_points:
 - WiFi sítě nahradí ADSL, lidé sdílejí internetové připojení a přeprodávají sousedům.
 - VoIP zlevní volání díky přidělení čísel a klesajícím cenám VoIP telefonů.
 - ČTÚ uvolní 5GHz pásmo pro WiFi, což zlepší kvalitu bezdrátového připojení.
-title: "Mobilní technologie, které námi otřesou v roce 2004"
+title: Mobilní technologie, které námi otřesou v roce 2004
 ---
 
 Jaké mobilní technologie a zázraky nás budou atakovat v roce 2004 a mají vyhlídky zaujmout naši pozornost?<!--more--><p>

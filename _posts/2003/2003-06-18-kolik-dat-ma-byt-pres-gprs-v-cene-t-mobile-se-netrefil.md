@@ -13,7 +13,7 @@ summary_points:
 - Autor přenesl 57 MB dat při běžné práci, limit 50 MB je nedostatečný.
 - GPRS uživatelé potřebují spíše 200 MB dat pro běžné pracovní využití.
 - Uživatelé GPRS jsou nárazoví, operátoři by měli zvážit low-cap nabídky.
-title: "Kolik dat má být přes GPRS v ceně? T-Mobile se netrefil…"
+title: Kolik dat má být přes GPRS v ceně? T-Mobile se netrefil…
 ---
 
 Když v květnu T-Mobile spouštěl GPRS tarif Business, prohlašoval u toho silácky něco v tom smyslu, že více než 50 MB volných dat není potřeba. Rozhodl jsem se to testnout. Takže &#8211; kolik MB dat je reálné přenést pro normálního uživatele při &#8222;normálním&#8220; používání GPRS? 

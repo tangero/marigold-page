@@ -13,9 +13,7 @@ summary_points:
 - ČAKK sdružuje hlavní kabelové společnosti UPC, Karneval a SELF servis.
 - Zdeněk Tvarůžek z Rosic je třicetitisící předplatitel kabelového internetu.
 - Počet kabelových připojení je pravděpodobně vyšší než 30 tisíc.
-title: "'Uživatelů internetového připojení skrze kabelové rozvody přibývá"
-
-  '
+title: Uživatelů internetového připojení skrze kabelové rozvody přibývá
 ---
 
 <p>

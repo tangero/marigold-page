@@ -16,7 +16,7 @@ summary_points:
   z internetových přípojek.
 - Budoucnost CzFree závisí na řešení problému s datovým tranzitem zdarma, včetně potenciálních
   poplatků.
-title: "Datový tranzit v CzFree zdarma – je udržitelný?"
+title: Datový tranzit v CzFree zdarma – je udržitelný?
 ---
 
 <p>

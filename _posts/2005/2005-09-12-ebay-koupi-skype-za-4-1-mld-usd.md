@@ -12,7 +12,7 @@ summary_points:
 - eBay kupuje Skype za 4,1 miliardy USD, což autor považuje za vysokou cenu.
 - OpenWengo je doporučen jako open-source VoIP program s podporou SIP a videa.
 - Autor uzavírá téma VoIP pro daný den.
-title: "eBay koupí Skype za 4,1 mld USD"
+title: eBay koupí Skype za 4,1 mld USD
 ---
 
 <p>Tak už je to dopečeno. eBay kupuje Skype a to za hromadu peněz - 4,1 mld USD (možná levněji, jsou tam výkonnostní prémie). Napsal jsem o tom <a href="http://www.mobilring.cz/component/option,com_mbr_content/task,view/id,36/category,telekomunikace/">obsáhlejší referenci</a>, protože osobně si myslím, že cena je až příliš vysoká. Já bych to za to nedal - a taky nedal... </p>

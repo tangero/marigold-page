@@ -13,9 +13,7 @@ summary_points:
 - Vanco.Net má výhodu skladové dostupnosti díky vlastní výstavbě sítí.
 - Logistika e-shopů je náročná, autor má zkušenosti z Mobil Media a Cinetiku.
 - Autorovi trvala objednávka z Elity přes týden, navýšili cenu o 50%.
-title: "'Nový WiFi shop se jmenuje WiFishop.cz :)"
-
-  '
+title: Nový WiFi shop se jmenuje WiFishop.cz  - )
 ---
 
 <p>

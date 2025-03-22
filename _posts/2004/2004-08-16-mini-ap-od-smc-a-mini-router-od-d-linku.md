@@ -13,7 +13,7 @@ summary_points:
 - SMCWTK-G je cestovní sada pro bezdrátové sítě s pěti režimy a cenou 100 USD.
 - D-Link DWL-G730AP je mini router s VPN, Radius a napájením přes USB za 100 USD.
 - SMC se zdá lepší díky WDS, ale oba fungují podobně a v ČR se neprodávají.
-title: "Mini AP od SMC a mini router od D-Linku"
+title: Mini AP od SMC a mini router od D-Linku
 ---
 
 <p>

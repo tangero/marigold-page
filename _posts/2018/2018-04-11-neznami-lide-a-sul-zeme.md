@@ -10,7 +10,7 @@ summary_points:
 - Lidé v Česku tvoří a realizují nápady navzdory byrokracii.
 - Největší hodnotu mají neznámí lidé, kteří dělají věci pro radost.
 - Uznání a podpora těchto lidí zlepšuje život pro všechny.
-title: "Neznámí lidé a sůl země"
+title: Neznámí lidé a sůl země
 ---
 
 <div id="js_6" class="_5pbx userContent _22jv _3576" data-ft="{&quot;tn&quot;:&quot;K&quot;}">

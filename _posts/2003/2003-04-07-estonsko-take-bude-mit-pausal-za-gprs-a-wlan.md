@@ -13,7 +13,7 @@ summary_points:
 - V Estonsku je v této službě registrováno 94 WiFi hotspotů.
 - Paušál na data je oblíbená metoda pro naučení zákazníků používat data.
 - T-Mobile má slabou síť pro nasazení datového paušálu v Česku.
-title: "Estonsko také bude mít paušál za GPRS a WLAN!"
+title: Estonsko také bude mít paušál za GPRS a WLAN!
 ---
 
 <p>

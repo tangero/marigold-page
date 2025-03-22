@@ -13,7 +13,7 @@ summary_points:
 - Mobile Scope uvádí mobilní verzi hry Slepičky ovládanou čočkou fotoaparátu.
 - Ovládání střelby zůstává vyhrazenou klávesou, nikoliv pohybem telefonu.
 - Siemens SX1 už dříve využíval ovládání kamerou v komáří hře.
-title: 'Mobilní hra ovládaná vestavěným fotoaparátem: Moorhen Camera X'
+title: Mobilní hra ovládaná vestavěným fotoaparátem -  Moorhen Camera X
 ---
 
 <p>

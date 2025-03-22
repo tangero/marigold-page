@@ -17,7 +17,7 @@ summary_points:
 - Apple tvrdí, že M1 má nejrychlejší integrovanou grafiku na trhu.
 - Přechod na ARM architekturu znamená konec éry Intelu v Apple zařízeních.
 thumbnail: https://fossbytes.com/wp-content/uploads/2020/11/Apple-ARM-M1-Chip-MacBook-Apple-Silicon-681x383.jpg
-title: "Apple s ARM procesory a PostPC éra"
+title: Apple s ARM procesory a PostPC éra
 ---
 
 Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. O tomto kroku se ví již nějakou dobu, byl i oficiálně oznámen Timem Cookem, jenže na konkrétní parametry se čekalo.

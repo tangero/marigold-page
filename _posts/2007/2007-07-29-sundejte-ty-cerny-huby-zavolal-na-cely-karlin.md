@@ -13,9 +13,7 @@ summary_points:
 - Čeští politici se uchylují k rasistickým výrokům, které obhajují různými způsoby.
 - IAT test odhaluje skryté rasové předsudky v podvědomí měřením reakční doby.
 - Autor článku se podrobil IAT testu a zjistil, že má lehké rasové předsudky.
-title: "'Sundejte ty černý huby, zavolal na celý Karlín"
-
-  '
+title: Sundejte ty černý huby, zavolal na celý Karlín
 ---
 
 Abych byl přesný, zavolal to z pátého patra domu na nejrušnější Karlínské ulici náš administrátor sítě. Už je to řada let. Musel řvát, protože jsme stáli dole u náklaďáku a vykládali. Smůlu měl v tom, že vůkol procházela hlídka policistů, kteří se rozhodli zakročit proti tomu odpornému rasistovi, který provokuje celý Karlín, jenž v Praze už tehdy neslul zrovna rasovou vyvážeností. 

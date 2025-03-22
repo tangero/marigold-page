@@ -13,7 +13,7 @@ summary_points:
 - Anténa má dosah až 10 km, ale použití 500mW zesilovače je nelegální.
 - Hledáček je na takovou vzdálenost zbytečný kvůli zakřivení šíření vln.
 - Návod na výrobu podobné antény je dostupný online, ale doporučuje se opatrnost.
-title: "Wi-Fi Snipper ;-)"
+title: Wi-Fi Snipper ;-)
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040809-wifi-gun.jpg" alt="Wi-Fi Snipper" width="201" height="151" /></div><p>

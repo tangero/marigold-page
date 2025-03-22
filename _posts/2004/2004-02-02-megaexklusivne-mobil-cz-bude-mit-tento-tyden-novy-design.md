@@ -13,7 +13,7 @@ summary_points:
 - Nový design Mobil.cz se zbavil některých reklam a přeskupil zbývající.
 - Vzhled článků Mobil.cz prošel kompletní změnou kódu a modernizací.
 - Autor uvažuje o "gumovém" designu Mobil.cz, který by se natahoval do krajů.
-title: 'Megaexklusivně: Mobil.cz bude mít tento týden nový design'
+title: Megaexklusivně -  Mobil.cz bude mít tento týden nový design
 ---
 
 <p>

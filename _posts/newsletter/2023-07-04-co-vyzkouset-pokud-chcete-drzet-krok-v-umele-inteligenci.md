@@ -14,7 +14,7 @@ summary_points:
 - Rows.com pomáhá s analýzou dat z excelových tabulek.
 - Knibble.ai a Nuclia.com analyzují nahrané dokumenty, ChatPDF analyzuje knihy.
 - 10web vytváří weby, Jit.codes generuje kód, stockimg.ai generuje grafiku.
-title: "Co vyzkoušet, pokud chcete držet krok v umělé inteligenci?"
+title: Co vyzkoušet, pokud chcete držet krok v umělé inteligenci?
 ---
 
 Musím se přiznat, že mě trochu mrzí, že mé politické období padlo zrovna do chvíle, kdy AI tak prudce nabírá na rychlosti. Je fascinující to sledovat a bylo by ještě lepší to implementovat a zkoušet. Je fascinující sledovat přínos chatbota, kterého jsem nakrmil daty z úřadu a kterého se můžete ptát na otázky typu “potřebuji na stavbu plotu stavební povolení” nebo “kolik je poplatek za odpady” - takové ty nejběžnější dotazy. Možná by si taková úřední aplikace zasloužila ostrý provoz, jenže za mé peníze se mi do něj nechce, platí se za objem dotazů - a za peníze úřadu je to moc nová technologie.

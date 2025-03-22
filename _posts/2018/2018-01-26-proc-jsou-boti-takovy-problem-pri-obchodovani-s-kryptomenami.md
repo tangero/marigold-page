@@ -10,7 +10,7 @@ summary_points:
 - Boti využívají vysokou volatilitu kryptoměn k automatizovanému obchodování
 - Refill strategie umožňuje nakupovat kryptoměny za nižší ceny a získat zpět pozici
 - Kryptoboti zvyšují volatilitu a mohou být zneužiti k pumpování cen kryptoměn
-title: "Proč jsou boti takový problém při obchodování s kryptoměnami"
+title: Proč jsou boti takový problém při obchodování s kryptoměnami
 ---
 
 Obchodní boti se stávají stále důležitějším prvkem obchodování s kryptoměnami, i když jsou zatím pod rozlišovací schopností začátečníků. A stojí za to o nich vědět. <!--more-->

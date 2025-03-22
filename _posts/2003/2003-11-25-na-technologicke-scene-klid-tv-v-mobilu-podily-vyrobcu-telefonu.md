@@ -13,7 +13,7 @@ summary_points:
 - Nokia vede trh mobilů s 33,8% podílem, mírně klesla.
 - Motorola je druhá s 15% podílem, zaznamenala nárůst prodeje.
 - Samsung, Siemens a LG rostou, Sony Ericsson klesá, Motorola výhercem.
-title: "Na technologické scéně klid: TV v mobilu, podíly výrobců telefonů"
+title: Na technologické scéně klid -  TV v mobilu, podíly výrobců telefonů
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
 - Systém generuje srovnatelné příjmy s bannerovou reklamou, ale je levnější pro inzerenty.
 - Provozovatelé menších serverů nemají k dispozici jednoduchý systém pro správu textové
   reklamy.
-title: "Trocha MariEkonomiky"
+title: Trocha MariEkonomiky
 ---
 
 <p>

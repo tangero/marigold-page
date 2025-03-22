@@ -14,7 +14,7 @@ summary_points:
 - Tele2 budí rozporuplné emoce, její PR je založeno na odporu proti Telecomu.
 - Autor viděl billboard parodující Grosse se sloganem "Jsem sociální případ. Volič
   - živnostník."
-title: "Tele2, Telecom a zdi mezi společnostmi"
+title: Tele2, Telecom a zdi mezi společnostmi
 ---
 
 <p>

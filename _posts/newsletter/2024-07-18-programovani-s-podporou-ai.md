@@ -16,7 +16,7 @@ summary_points:
 - No-code platformy jako GitWit umožňují vytvářet aplikace z textového zadání, zjednodušují
   vývoj.
 - AI má velký potenciál v testování kódu a kontrole kvality, mění budoucnost programování.
-title: "Programování s podporou AI"
+title: Programování s podporou AI
 ---
 
 Musím říct, programování s AI za zády, to je jako mít za sebou zkušeného slušně seniorního a trpělivého programátora a devopsáka v jednom. Tak například pro [Marigold.cz](http://marigold.cz/) potřebuji občas sáhnout do šablon a upravit v nich něco, co mě štve. Například na konci titulní stránky se mi vypisovaly všechny archivní stránky, bylo jich přes 170. Jelikož Jekyll (nástroj, kterým se Marigold generuje) moc neznám, poležel bych si v dokumentaci, než bych to vyřešil, takže jsem poprosil Claude, ať to zařídí. Obratem mi dodala kus kódu, který to uspokojivě vyřešil tak, že to vypisuje jen odkaz na archivní stránku, na níž jste, tři před, tři za a skok na konec a začátek. Elegantní. 

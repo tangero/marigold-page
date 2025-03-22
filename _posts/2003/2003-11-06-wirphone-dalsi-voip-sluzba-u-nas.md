@@ -13,7 +13,7 @@ summary_points:
 - Vteřinová tarifikace Wirphone začíná od první vteřiny hovoru.
 - Paušály Wirphone pro domácnosti a firmy zahrnují volné minuty a více telefonů.
 - Ceny Wirphone jsou srovnatelné s Fayn, ale jednodušší.
-title: "Wirphone – další VoIP služba u nás"
+title: Wirphone – další VoIP služba u nás
 ---
 
 <p>

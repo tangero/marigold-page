@@ -13,7 +13,7 @@ summary_points:
 - Jagg.cz není zabanován Googlem, doporučuje se vytvořit sitemap pro indexaci.
 - Výtěžek z dražby Jaggu půjde na nový český internetový projekt.
 - Autor bude do středy mimo internet, dostupný pouze emailem.
-title: "Jagg.cz bude prodán v neděli po osmé večerní"
+title: Jagg.cz bude prodán v neděli po osmé večerní
 ---
 
 V neděli ve 20 hodin a 37 minut skončí dražba služby Jagg.cz. Mezi tím jsem prověřil zájemce a vyškrtal je, takže jsme se v nabídkách dostali na 17 100 Kč. 

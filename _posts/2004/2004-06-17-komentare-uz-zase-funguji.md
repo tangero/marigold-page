@@ -12,7 +12,7 @@ summary_points:
 - Komentáře nyní fungují, chyba byla úspěšně odstraněna.
 - Komentování je opět možné po vyřešení dřívějšího problému.
 - Webová stránka hlásí obnovení funkčnosti komentářů.
-title: "Komentáře už zase fungují"
+title: Komentáře už zase fungují
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Interdnestrcom v Moldavsku provozuje pirátskou CDMA síť bez licence.
 - Článek o CDMA ve východní Evropě je publikován na Kremlinově weblogu.
 - Ruské CDMA a CDMA2000 sítě se autorovi pletou.
-title: "Zkušenosti s CDMA ve východní Evropě"
+title: Zkušenosti s CDMA ve východní Evropě
 ---
 
 <p>

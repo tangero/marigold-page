@@ -13,7 +13,7 @@ summary_points:
 - Hrad Haunštejn je po konfiskaci využíván jako open source projekt.
 - Open source hradu znamená sdílení zdrojů a práce pro jeho obnovu.
 - Hradní akce nabízejí alternativu k nákupním centrům pro děti.
-title: "Hrad jako open source"
+title: Hrad jako open source
 ---
 
 <p>Stál jsem o víkendu v pokladně hradu, inkasoval jsem peníze a vydával na ruku hezké červené razítko s erbem a nápisem Návštěvník. A přitom jsem přemýšlel o tom, jak moc se vnímání hradů v průběhu staletí změnilo. Před pěti stoletími mocné zdi hauenštejnské chránily zemskou stezku a hrad měl hluboký ekonomicko strategický význam. Dnes už jeho vojensko-strategický význam značně upadl, přeci jen lze předpokládat, že byste jej dobyli i s pár tančíky, co teprve letadla. Proč tedy opravujeme a zachováváme hrady? Jako památku? Když se nechováme uctivě k památkám z druhé světové války, proč zrovna k hradům?</p>

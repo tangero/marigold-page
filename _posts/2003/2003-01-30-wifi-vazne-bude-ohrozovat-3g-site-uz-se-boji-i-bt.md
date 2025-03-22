@@ -13,7 +13,7 @@ summary_points:
 - UMTS je dražší než WiFi a v počátcích nabídne podobnou rychlost jako GSM.
 - Zákazníci se orientují podle ceny a volí levnější WiFi namísto drahého UMTS.
 - UMTS se potýká s finančními problémy kvůli vysokým poplatkům za licence.
-title: "WiFi vážně bude ohrožovat 3G sítě – už se bojí i BT…"
+title: WiFi vážně bude ohrožovat 3G sítě – už se bojí i BT…
 ---
 
 <p>

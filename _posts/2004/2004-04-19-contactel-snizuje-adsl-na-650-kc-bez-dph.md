@@ -13,7 +13,7 @@ summary_points:
 - ČTÚ neřešilo kvalitativní a technické parametry ADSL služby.
 - Parametry ADSL služby zůstávají nezměněny dle Contactelu.
 - Contactel bude s ČTÚ o parametrech ADSL jednat.
-title: "Contactel snižuje ADSL na 650 Kč (bez DPH)"
+title: Contactel snižuje ADSL na 650 Kč (bez DPH)
 ---
 
 <p>

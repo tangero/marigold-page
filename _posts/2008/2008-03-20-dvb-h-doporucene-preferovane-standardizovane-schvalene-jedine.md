@@ -16,9 +16,7 @@ summary_points:
 - Standardizace DVB-H má vytvořit jednotný trh mobilní televize v Evropě.
 - Evropa chce preferovat vlastní technologie a patenty, ne cizí.
 - EU se nezachovala férově v proklamované technologické neutralitě.
-title: "'DVB-H doporučené, preferované, standardizované, schválené, jediné?"
-
-  '
+title: DVB-H doporučené, preferované, standardizované, schválené, jediné?
 ---
 
 Bylo prima nechat si tuhle zprávu tři dny uležet, protože ve slovíčkách nebylo jasno. Ostatně, stále není. V zásadě je to tak, že Evropská komise se vyslovila v tom smyslu, že doporučeným technickým standardem pro mobilní televizi v zemích EU je DVB-H. Což některé, <a href="http://vucako.bloguje.cz/669726-es-schaun-aufs-dvb-h-voll-hoffnung-schon-millionen.php">jako Kamojeda,</a> přivedlo k výlevům nechutenství nad neuvážlivostí EU. 

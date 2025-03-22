@@ -13,8 +13,7 @@ summary_points:
 - Násilí železnou tyčí je nepřípustné; řešení sporů má být právní cestou.
 - Zkreslené vnímání událostí ztěžuje objektivní posouzení bez důkazů.
 - Otázkou je, proč se věří spíše pochybným svědkům než řediteli Telecomu.
-title: "Když někoho tlučete tyčí do hlavy, jste zodpovědný i za to, že se pak"
-  chvíli chová nepříčetně.
+title: Když někoho tlučete tyčí do hlavy, jste zodpovědný i za to, že se pak chvíli chová nepříčetně.
 ---
 
 <p>Ukázalo se, že ne všem bylo zřejmé, co jsem článek o mediálním terorismu Telecomu včera chtěl říci. Záměrně jsem se v postu vyhýbal nějakému názoru na zmlácení G. Berdára a jeho následnou střelbu a článek byl opravdu jen o tom, jaký tlačí Telecom vztah k médiím. Ani si nemyslím, že by to Berdárovi patřilo, ani si nemyslím, že všechno bylo tak, jak popisuje. </p>

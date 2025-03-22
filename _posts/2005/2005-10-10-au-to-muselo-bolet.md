@@ -12,7 +12,7 @@ summary_points:
 - Nehoda se stala na Argentinské ulici, příčina je neznámá.
 - Obrázek nehody je dostupný ke zvětšení.
 - Obrázek nehody má rozměry 350x262 pixelů.
-title: "Au to muselo bolet…"
+title: Au to muselo bolet…
 ---
 
 <p>tohlejednešní nehoda na argentinské. Jak se to podařilo to opravdu nechápu....

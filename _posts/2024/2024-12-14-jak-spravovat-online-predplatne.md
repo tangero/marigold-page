@@ -13,7 +13,7 @@ summary_points:
 - Revolut umožňuje kontrolu přes virtuální karty a blokování plateb.
 - Netflix vyžaduje rušení předplatného přímo na jejich webu.
 thumbnail: https://www.f22designs.com/wp-content/uploads/2016/03/subscribe.jpg
-title: "Jak bezpečně spravovat svoje online předplatné"
+title: Jak bezpečně spravovat svoje online předplatné
 ---
 
 Předplatné za online služby se stalo morem posledních let. Nejde ani tak o to, že by člověk nebyl ochoten zaplatit pár babek za nějakou službu, kterou právě v tuto chvíli potřebuje. Jenže celá řada služeb dnes neakceptuje jednorázovou platbu, musíte si je předplatit. Na měsíc, za zvýhodněnou částku za rok. A když měsíc uplyne, zaúčtuje se vám další. Co s tím?

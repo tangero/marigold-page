@@ -13,7 +13,7 @@ summary_points:
 - Fotoaparát má rozlišení 3 megapixely a byl představen na Wireless Japan 2003.
 - FujiFilm plánuje WiFi využití pro odesílání fotek do minilabů.
 - Autor doufá v budoucí možnosti odesílání fotek na FTP nebo emailem.
-title: "Geekoviny: digitální fotoaparát s WiFi podporou"
+title: Geekoviny -  digitální fotoaparát s WiFi podporou
 ---
 
 <p>

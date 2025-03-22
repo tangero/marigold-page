@@ -7,8 +7,10 @@ from pathlib import Path
 def process_md_files(directory):
     """
     Process all .md files in the given directory and its subdirectories
-    to replace HTML entities in title with Unicode characters and add
-    quotes around the title.
+    to clean title values in YAML front matter:
+    - Remove HTML entities and replace with Unicode characters
+    - Remove quotes and apostrophes
+    - Replace colons with spaced hyphens
     """
     # Find all .md files
     md_files = list(Path(directory).glob('**/*.md'))
@@ -34,36 +36,49 @@ def process_file(file_path):
     if not content.startswith('---'):
         return False
     
-    # Find the title in front matter (with different formatting possibilities)
-    title_match = re.search(r'title:\s*(.*?)(\n|$)', content)
+    # Split content to get front matter
+    parts = content.split('---', 2)
+    if len(parts) < 3:
+        return False
+    
+    front_matter = parts[1]
+    body = parts[2]
+    
+    # Find the title line in front matter
+    title_match = re.search(r'title:\s*(.*?)(\n[a-zA-Z]|\n$|\n\n|$)', front_matter, re.DOTALL)
     if not title_match:
         return False
     
-    title = title_match.group(1).strip()
-    original_title = title
+    title_line = title_match.group(0)
+    title_value = title_match.group(1).strip()
     
-    # Check if title already has quotes
-    has_quotes = (title.startswith('"') and title.endswith('"')) or (title.startswith("'") and title.endswith("'"))
+    # Remove any existing quotes
+    if (title_value.startswith('"') and title_value.endswith('"')) or (title_value.startswith("'") and title_value.endswith("'")):
+        title_value = title_value[1:-1]
+    elif title_value.startswith("'") or title_value.startswith('"'):
+        # Handle unclosed quotes
+        title_value = title_value[1:]
     
-    # If title has quotes, extract the content inside quotes
-    if has_quotes:
-        if title.startswith('"'):
-            title = title[1:-1]
-        else:
-            title = title[1:-1]
+    # Handle multi-line titles
+    title_value = re.sub(r'\s+', ' ', title_value.strip())
     
     # Decode HTML entities
-    new_title = html.unescape(title)
+    title_value = html.unescape(title_value)
     
-    # Skip if no changes needed
-    if new_title == title and has_quotes:
-        return False
+    # Remove any remaining quotes or apostrophes
+    title_value = title_value.replace('"', '').replace("'", '')
     
-    # Add double quotes
-    new_title_formatted = f'"{new_title}"'
+    # Replace colons with spaced hyphens
+    title_value = title_value.replace(':', ' - ')
     
-    # Replace the title in the content
-    new_content = content.replace(f'title: {original_title}', f'title: {new_title_formatted}')
+    # Create new title line
+    new_title_line = f'title: {title_value}'
+    
+    # Replace the title line in front matter
+    new_front_matter = front_matter.replace(title_line, new_title_line + '\n')
+    
+    # Reconstruct the content
+    new_content = f"---{new_front_matter}---{body}"
     
     # Check if content actually changed
     if new_content == content:
@@ -72,8 +87,8 @@ def process_file(file_path):
     # Write the updated content back to the file
     try:
         print(f"Updating {file_path}")
-        print(f"  Old title: {original_title}")
-        print(f"  New title: {new_title_formatted}")
+        print(f"  Old title: {title_line.strip()}")
+        print(f"  New title: {new_title_line}")
         
         with open(file_path, 'w', encoding='utf-8') as file:
             file.write(new_content)

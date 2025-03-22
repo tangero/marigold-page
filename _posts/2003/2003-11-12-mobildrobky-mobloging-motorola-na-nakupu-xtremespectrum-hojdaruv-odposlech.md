@@ -13,7 +13,7 @@ summary_points:
 - Motorola koupila firmu XtremeSpectrum, která se zabývala UWB technologiemi.
 - V autě poslance Hojdara byl nalezen odposlech, jehož původ je neznámý.
 - ČTÚ podepíše dohodu s Eurotelem a T-Mobilem o UMTS licencích do konce listopadu.
-title: 'Mobildrobky: Mobloging, Motorola na nákupu XtremeSpectrum, Hojdarův odposlech'
+title: Mobildrobky -  Mobloging, Motorola na nákupu XtremeSpectrum, Hojdarův odposlech
 ---
 
 <p>

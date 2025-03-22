@@ -16,7 +16,7 @@ summary_points:
 - Moc a pokrok vyvrací nevyhnutelnost technologického pokroku, zdůrazňuje roli vizionářů.
 - Pravidla vkusu od českých a polských autorů analyzují preference a společenský status.
 - Pravidla vkusu zkoumají, proč se lidem líbí různé věci a jak to ovlivňuje společnost.
-title: "\U0001F4D3Dvě knihy na závěrMoc a pokrok + Pravidla vkusu"
+title: \U0001F4D3Dvě knihy na závěrMoc a pokrok + Pravidla vkusu
 ---
 
 Moc a pokrok + Pravidla vkusu 

@@ -13,7 +13,7 @@ summary_points:
 - '% uživatelů Chello Classic nepřesáhne 5 GB dat měsíčně.'
 - '% uživatelů Chello Plus nepřesáhne 15 GB dat měsíčně.'
 - Překročení limitu dat u Chello znamená snížení rychlosti na 64/64 kb/s.
-title: 'UPC počtvrté: limity dat na Chello oficiálně'
+title: UPC počtvrté -  limity dat na Chello oficiálně
 ---
 
 <p>

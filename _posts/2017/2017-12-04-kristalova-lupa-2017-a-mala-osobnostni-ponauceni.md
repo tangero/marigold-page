@@ -10,7 +10,7 @@ summary_points:
 - Ivo Lukačovič úspěšně rozjel globálně využívanou službu Windy.
 - Janek Rubeš získal cenu Osobnost roku za pranýřování společenských nešvarů.
 - Honza Sadílek z ČTK zůstal neoceněn, přestože je respektovaným odborníkem na telekomunikace.
-title: "Křišťálová Lupa 2017 a malá osobnostní ponaučení."
+title: Křišťálová Lupa 2017 a malá osobnostní ponaučení.
 ---
 
 Včera jsem byl na udílení cen Křišťálové Lupy. Jedna z mála společenských akcí, kam se dostanu. A tohle bude o několika lidech z té akce.<!--more-->

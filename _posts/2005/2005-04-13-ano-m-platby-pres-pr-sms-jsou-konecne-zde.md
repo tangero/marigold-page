@@ -13,7 +13,7 @@ summary_points:
 - M-platby přes PR SMS umožňují platit mobilem za různé služby.
 - Pipeline od května nabízí M-platby přes PR SMS pro všechny operátory.
 - Transakční náklady M-plateb jsou vysoké, obchodníkovi zbývá stěží polovina.
-title: "Ano, m-platby přes PR SMS jsou konečně zde"
+title: Ano, m-platby přes PR SMS jsou konečně zde
 ---
 
 <p>Poslední dva dny  na Lupě <a href="http://www.lupa.cz/clanek.php3?show=4066">vychází články věnované mikroplatbním systémům</a> a dneska je tam zmínka i o Pipeline. Nevěděl jsem, že nás autor vezme jako samostatnou kapitolku, takže jsem mu odpovídal spíše obecně, aby se trochu objasnilo, o co gou. Takže to nyní doplním o pár detailů prakticko informačního i skoro-reklamního charakteru. </p>

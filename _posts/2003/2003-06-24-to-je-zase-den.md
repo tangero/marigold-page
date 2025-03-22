@@ -13,7 +13,7 @@ summary_points:
 - Autor se obává budoucnosti WiFi sítí.
 - Komerční WiFi sítě v Praze se nerozšiřují.
 - Komunitní sítě jako CzFree jsou nejisté.
-title: "To je zase den…"
+title: To je zase den…
 ---
 
 <p>

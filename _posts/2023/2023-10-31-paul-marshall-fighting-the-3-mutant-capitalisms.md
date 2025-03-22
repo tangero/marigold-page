@@ -17,7 +17,7 @@ summary_points:
 - 'Identifikovány jsou tři zmutované formy kapitalismu: monopolní, pokoutní a probuzený.'
 - Marshall vyzývá k lepší správě volných trhů a boji proti korporativismu a kamarádíčkování.
 thumbnail: https://i.ytimg.com/vi/G2DIEzdJLaA/maxresdefault.jpg
-title: 'Paul Marshall: Boj proti třem zmutovaným kapitalismům (přepis)'
+title: Paul Marshall -  Boj proti třem zmutovaným kapitalismům (přepis)
 ---
 
 Přepis přednášky sira Paula Marshalla s názvem „Fighting the 3 Mutant Capitalisms“ na konferenci The Alliance for Responsible Citizenship (ARC) dne 31. října 2023.  

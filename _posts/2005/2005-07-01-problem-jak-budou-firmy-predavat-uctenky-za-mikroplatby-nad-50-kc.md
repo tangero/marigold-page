@@ -13,7 +13,7 @@ summary_points:
 - Mikroplatby na dálku představují problém s vystavováním účtenek.
 - Poskytovatelé služeb musí vystavit daňový doklad pro m-platby a PayPal.
 - Finanční úřady mohou zpochybnit metody vystavování účtenek pro mikroplatby.
-title: "Problém: jak budou firmy předávat účtenky za mikroplatby nad 50 Kč"
+title: Problém -  jak budou firmy předávat účtenky za mikroplatby nad 50 Kč
 ---
 
 <p>Další skvělý zákon vypadl z dílny našich zákonodárců a deklaruje povinnost pro podnikatele vydávat účtenky pro nákupy nad 50 Kč (<a href="http://zpravy.atlas.cz/clanek.aspx?rubrika=243&amp;clanek=31753">čtěte třeba zde</a>). Když toho zákazníka máte na dosah, je to ještě legrace, akorát opruz. Jenže co když zákazník platí mikroplatbou na dálku? Jak jim vydáte účtenky? Zákon přitom platí ode dneška, takže pokud dneska budete vstupovat na nějaký placený web a platit přes SMS nebo Premium číslo, měli byste dostat účtenku, pokud částka převýší 50 Kč. Důvod, proč <a href="http://www.pipeline.cz">Pipeline</a> nabízí mikroplatby jen do 50 Kč - nechtěli jsme to řešit. Problém se samozřejmě netýká PR SMS, kde daňový doklad vystavuje operátor, ale m-plateb (jak internetových, tak wap a SMS formy), kde daňový doklad musí vystavit poskytovatel služby. A samozřejmě také plateb přes PayPal a další.</p>

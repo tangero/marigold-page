@@ -17,9 +17,7 @@ summary_points:
 - Reakce na cenu byla překvapivá, mnoho účastníků ji považovalo za velmi nízkou.
 - Expozice byla unikátní, ručně malovaný stánek a funkční demopanel zaujaly.
 - Zájem projevili zejména zástupci z Blízkého východu a střední Asie
-title: "'Jak jsme představovali energomonitor na European Utility Week 2014"
-
-  '
+title: Jak jsme představovali energomonitor na European Utility Week 2014
 ---
 
 <p>Stálo nás to dva měsíce příprav, ale nakonec se vyplatily. Energomonitor vlétnul na třídenní veletrh European Utility Week (EUW), největší evropskou akci v oboru energetiky - a uspěli jsme. Alespoň, co se z první vlny zájmu dá soudit, zda ji přetavíme v objednávky, už bude záležet na dalším.</p>

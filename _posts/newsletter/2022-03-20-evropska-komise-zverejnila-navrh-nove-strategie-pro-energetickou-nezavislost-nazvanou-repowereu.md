@@ -17,8 +17,7 @@ summary_points:
 - Plán RePowerEU má do roku 2030 zbavit Evropu závislosti na ruských fosilních palivech.
 - Česko bude muset řešit LNG přepravou a pravděpodobně obnoví spalování uhlí.
 - Úspory energie jsou pro Česko klíčové, ale dosud nedostatečně řešené.
-title: "Evropská komise zveřejnila návrh nové strategie pro energetickou nezávislost"
-  nazvanou RePowerEU
+title: Evropská komise zveřejnila návrh nové strategie pro energetickou nezávislost nazvanou RePowerEU
 ---
 
 V Česku tahle zpráva proběhla vcelku bez povšimnutí. Počátkem března [vydala Evropská komise návrh evropské akce](https://czechia.representation.ec.europa.eu/repowereu-spolecna-evropska-akce-pro-cenove-dostupnejsi-bezpecnejsi-udrzitelnejsi-energii-2022-03-08_cs) "pro cenově dostupnější, bezpečnější a udržitelnější energii", která přímo reflektuje dění na Ukrajině a především rizikovost dodávek energosurovin z "některých regionů" (=Ruska). Pokud bude návrh přijat, bude to pro eurounijní energetiku zásadní, už proto, že zahrnuje řadu korekcí německé energetické cesty a také proto, že potvrzuje nastoupený trend Zeleného plánu, jenž u nás i přes všechno dění bývá označován za "mrtvý". 

@@ -13,7 +13,7 @@ summary_points:
 - Premiér Fiala odvolal Bartoše, což vedlo k odchodu Pirátů z vlády.
 - Piráti se musí odbyrokratizovat, šetřit a komunikovat i ekonomická témata.
 thumbnail: https://www.marigold.cz/assets/patrick-ivan-jura.jpeg
-title: "Pirátská situace na podzim 2024 - pohled z podpalubí"
+title: Pirátská situace na podzim 2024 - pohled z podpalubí
 ---
 
 Naordinoval jsem si týdenní radiový klid, protože emoce cloumají mnohým majestátem. A děkuju vám za četnou podporu. Tak tedy krátce k Pirátům i těm ostatním. 

@@ -16,7 +16,7 @@ summary_points:
 - Procesorová zátěž je vysoká, nutný přepis do AS3 pro optimalizaci.
 - Kvalita H.264 videa dramaticky lepší než VP6 při srovnatelném bitrate.
 - Flash 9 má jen 70% uživatelů, což je zádrhel pro rozšíření.
-title: "Experimentování s H.264 ve Flashi"
+title: Experimentování s H.264 ve Flashi
 ---
 
 Už jsem kdysi psal, že s tímhle bude jednou sranda - H.264 ve Flashi. Připravili jsme (tedy Franta, abych byl přesný v rámci elaborování s vyšší kvalitou) takový malý pokus, abyste si to uměli lépe představit ... 

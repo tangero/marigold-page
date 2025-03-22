@@ -14,7 +14,7 @@ summary_points:
   známost.
 - Autor preferuje Operu a nebude tolerovat debaty o lepších prohlížečích.
 - Textové reklamy v Opeře autor ponechával i v době, kdy nemusel.
-title: "OPERA ZDARMA"
+title: OPERA ZDARMA
 ---
 
 <p><strong>Noname píše:</strong> Jedna zpráva, snad nezvýší Patrickovi návštěvnost ;-)

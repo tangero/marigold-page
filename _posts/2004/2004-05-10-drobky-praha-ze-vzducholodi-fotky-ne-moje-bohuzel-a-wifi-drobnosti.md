@@ -13,7 +13,7 @@ summary_points:
 - WiFiOnline.Net publikoval recenzi Linksys WAP54G, oblíbeného přístupového bodu.
 - CNN informuje o používání WiFi tiráky v USA na odpočivadlech.
 - SWNet informuje o vizi sdílení zpráv P2P systémem, ale vidí problémy.
-title: "Drobky: Praha ze vzducholodi (fotky, ne moje bohužel) a WiFi drobnosti"
+title: Drobky -  Praha ze vzducholodi (fotky, ne moje bohužel) a WiFi drobnosti
 ---
 
 <p>

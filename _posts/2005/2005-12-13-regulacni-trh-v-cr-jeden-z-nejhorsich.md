@@ -15,7 +15,7 @@ summary_points:
   trhu.
 - Nový telekomunikační zákon situaci nezlepšil, spíše zvýhodnil Český Telecom.
 - Autor vyzývá radu ČTÚ a ty, kteří ji volí, k nápravě situace v telekomunikacích.
-title: "Regulační trh v ČR – jeden z nejhorších"
+title: Regulační trh v ČR – jeden z nejhorších
 ---
 
 <p><strong>Noname píše:</strong><br/> Kolega Vašek Rada připravil krásný <a href="http://www.internetprovsechny.cz/clanek.php?cid=147">článek na webu IPV, vycházející ze Studie Jones Day a SPC Network realizované pod názvem „Regulatory Scorecard 2005“ pro organizaci ECTA (The European Competitive Telecommunications Association)</a>.</p>

@@ -13,7 +13,7 @@ summary_points:
 - Eurotel vyžaduje u her češtinu, T-Mobile s tím nesouhlasí.
 - Hardcore hráče lze snadno získat, masový trh mobilních her obtížně.
 - Redboss.cz buduje komunitu hráčů, Eurotel na komunity nesází.
-title: "Mobilní hry na Bezdrátové středě"
+title: Mobilní hry na Bezdrátové středě
 ---
 
 Jak vypadá trh s mobilními hrami v ČR a ve světě? O tom se mluvilo a diskutovalo na Wireless Wednesday a zde jsou sumarizované postřehy z toho...<!--more--><p>

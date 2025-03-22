@@ -13,9 +13,7 @@ summary_points:
 - K tarifu Telefon Mini se připočítává 5,95 Kč za každý hovor s tarifikací 120+60.
 - ČTÚ zdražení chválí s odůvodněním dorovnání nákladů a podpory konkurence.
 - Zdražení povede k odhlašování linek a rozvoji internetové telefonie s levnější tarifikací.
-title: "'Tak nám Telecom opět zdražil (nejen) ADSL"
-
-  '
+title: Tak nám Telecom opět zdražil (nejen) ADSL
 ---
 
 <p><strong>Noname píše:</strong> Asi jste zaznamenali nové změny cen u Českého Telecomu. Nejpoužívanější tarif Telefon Standard zdražuje o 18,5 % na 403 Kč. Telefon Mini "jen" o 16% ze 199 na 237 Kč, ovšem zato ke každému hovoru (včetně volání s předvolbou operátora) musíte připlatit 5,95 Kč. Tarifikace je 120+60, Není přitom žádným tajemstvím, že průměrná doba hovoru je pod 2 minuty, fakticky tedy u tohoto tarifu dochází krom 16% zdražení také ke 300% zdražení hovorů.</p>

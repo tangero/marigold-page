@@ -14,7 +14,7 @@ summary_points:
 - Instalace vymezovacího kabelu je složitá, doporučuje se odborná pomoc.
 - Robomow má bezpečnostní prvky, ale vyžaduje kontrolu před sečením kvůli dětem a
   předmětům.
-title: 'Robotická sekačka Robomow: jak dobře poslouží na zahradě'
+title: Robotická sekačka Robomow -  jak dobře poslouží na zahradě
 ---
 
 <p>Jsem fanda do robotů. Před nějakou dobou jsem tu recenzoval roboty - vysavače - a pořád si stojím za tím, že Roomba je o řád dále, než její běžná konkurence, snad s výjimkou kamerového Samsungu, který ale má celou řadu svých problémů.</p>

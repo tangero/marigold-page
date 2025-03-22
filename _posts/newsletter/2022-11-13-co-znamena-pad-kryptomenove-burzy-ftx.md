@@ -18,7 +18,7 @@ summary_points:
 - Alameda Research držela značné množství FTT tokenů, což vyvolalo pochybnosti o likviditě.
 - Binance od převzetí FTX ustoupila kvůli špatnému nakládání s prostředky zákazníků.
 - Kryptosvět postrádá propojení s reálnou ekonomikou a hrozí mu variace Ponziho schématu.
-title: "Co znamená pád kryptoměnové burzy FTX?"
+title: Co znamená pád kryptoměnové burzy FTX?
 ---
 
 Pro kryptosvět je to těžká rána a pro svět IT je to velmi významné. Nejenom tím, že se potvrzuje, že _vyfukováním kouře do vody zlato nevzniká_. Pojďme si o pádu FTX říct něco bližšího. 

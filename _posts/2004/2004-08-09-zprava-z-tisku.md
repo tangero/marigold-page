@@ -13,7 +13,7 @@ summary_points:
 - CDMA má výhody v dostupnosti a novinářské podpoře, navzdory ceně.
 - Tiscali česká pobočka bude prodána italským vedením, nezávisle na výsledcích.
 - Telekomunikační firmy prochází změnami, bezdrátové sítě a pevné linky umírají.
-title: "Zpráva z tisku …"
+title: Zpráva z tisku …
 ---
 
 <p>

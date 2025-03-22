@@ -13,7 +13,7 @@ summary_points:
 - Doména .cz nabízí na 100 tisíc audio a video příspěvků.
 - Uživatelé očekávají televizní kvalitu a kvantitu obsahu online.
 - Martin Kopta nevyužívá legální odkazy na pořad Diagnóza na svém webu.
-title: "Nedostatek nebo lenost?"
+title: Nedostatek nebo lenost?
 ---
 
 <p>

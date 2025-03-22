@@ -13,7 +13,7 @@ summary_points:
 - Koncernová pětiletka, manažerská lovestory, je dostupná elektronicky za poplatek.
 - Flotila Země, sci-fi o bitvě s mimozemšťany, je zdarma v mnoha formátech.
 - Marigoldí léta, sbírka článků, je dostupná v digitálních formátech.
-title: "Knihy ke stažení"
+title: Knihy ke stažení
 ---
 
 Napsal jsem pár knih, které jsou už dávno vydané nebo do vydání ještě dlouho mají. Zde jsou ke stažení ty, které jsem zdigitalizoval.

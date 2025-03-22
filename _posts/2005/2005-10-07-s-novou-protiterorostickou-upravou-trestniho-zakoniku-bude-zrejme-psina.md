@@ -13,9 +13,7 @@ summary_points:
 - Telnet ve Windows by mohl být dle novely trestný.
 - Multitasking by teoreticky mohl být ilegální kvůli přístupu k OS.
 - Autor kritizuje novelu a politiky, kteří ji prosazují.
-title: "'S novou protiterorostickou úpravou trestního zákoníku bude zřejmě psina"
-
-  '
+title: S novou protiterorostickou úpravou trestního zákoníku bude zřejmě psina
 ---
 
 <p>Tak si čtu <a href="http://www.blisty.cz/2005/10/6/art25278.html">článek Štěpána Kotrby na Blistech</a> o "protiteroristické" novele tresního zákoníku a co to vidím:  </p>

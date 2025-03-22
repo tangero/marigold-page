@@ -14,7 +14,7 @@ summary_points:
 - Vývoj prémiového produktu, dotykového tabletu pro domácí automatizaci, je v přípravě.
 - První vzorky tabletu budou dostupné partnerům koncem srpna/začátkem září pro testování.
 - Nová verze webové aplikace se zpožďuje, hledají se frontend JavaScript vývojáři.
-title: "Energeticky horké léto a tablet pro dům"
+title: Energeticky horké léto a tablet pro dům
 ---
 
 <p>Už dlouho jsem nestihl napsat nic kolem <a href="http://www.energomonitor.cz">energomonitoru</a>. Máme polovinu horkého léta az sebou a vidíme, že další polovinu před sebou a práce stále jak na kostele. Minulý týden jsem do toho vklínil dovolenou, která už byla zatraceně potřeba. Měl jsem za sebou maraton po odběratelích, dodavatelích a investorech, s čímž trávím většinu času - tu druhou většinu pak tvorbou podkladů pro všechny skupiny (součet dvou většin = pracovní doba). Hledání investora je ostatně dobrá příležitost setřást na hromadu a taxonomicky pojmenovat a finančně oškatulkovat věci, co děláme. Někdy je to zajímavé. </p>

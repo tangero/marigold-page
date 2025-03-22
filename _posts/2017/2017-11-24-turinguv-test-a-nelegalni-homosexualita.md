@@ -12,7 +12,7 @@ summary_points:
 - Test zjišťuje, zda stroje budeme považovat za inteligentní.
 - Turing spáchal sebevraždu předtím, než byl jeho poznatek plně oceněn.
 - Test zůstává jedinou obecně uznávanou metodou rozlišení stroje od umělé inteligence.
-title: "Turingův test a nelegální homosexualita"
+title: Turingův test a nelegální homosexualita
 ---
 
 Turingův test na odhalení umělé inteligence strojů <a href="https://cs.wikipedia.org/wiki/Turingův_test">vymyslel britský matematik Alan Turing v roce 1950</a>. Turing byl homosexuál, což bylo v té době v Británii trestné. Při vyšetřování musel podstoupit standardní test pro osoby podezřelé z homosexuality a při tom si uvědomil, že není podstatné, jaký člověk je, ale jak ho vnímají ostatní. Toto zjištění promítl do konceptu svého testu umělé inteligence, přičemž jako první konstatoval, že není důležité, zda stroje budou skutečně mít duši nebo vědomí, ale zda je za takové budeme považovat.

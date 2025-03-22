@@ -13,7 +13,7 @@ summary_points:
 - Navigace v autech mohou vykazovat nepřesnosti až 200 metrů.
 - Německý autoklub varuje řidiče před spoléháním se na GPS.
 - EU projekt Galileo získává argument pro investici kvůli GPS závislosti.
-title: "O válce v Iráku se nejdříve dozvědí řidiči…"
+title: O válce v Iráku se nejdříve dozvědí řidiči…
 ---
 
 <p>

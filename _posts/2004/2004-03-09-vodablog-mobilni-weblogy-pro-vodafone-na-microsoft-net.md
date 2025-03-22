@@ -14,7 +14,7 @@ summary_points:
 - MMS příspěvky mohou obsahovat fotografie a videa konvertovaná do QuickTime formátu.
 - Vodablog plánuje zasílání příspěvků z weblogu na telefon pomocí MMS a upozornění
   SMS.
-title: "Vodablog – mobilní weblogy pro Vodafone na Microsoft .Net"
+title: Vodablog – mobilní weblogy pro Vodafone na Microsoft .Net
 ---
 
 <p>

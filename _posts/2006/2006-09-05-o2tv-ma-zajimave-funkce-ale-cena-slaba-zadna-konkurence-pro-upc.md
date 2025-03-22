@@ -13,7 +13,7 @@ summary_points:
 - Archiv pořadů O2TV by vyřešil zapomenuté nahrávání, ale obsah archivu je nejasný.
 - O2TV balíček je dražší než UPC (1517 Kč vs 999 Kč) včetně vnucené telefonní linky.
 - Autorovi O2TV nenabízí dostatečné výhody pro přechod od UPC kvůli ceně.
-title: "O2TV má zajímavé funkce, ale cena slabá – žádná konkurence pro UPC"
+title: O2TV má zajímavé funkce, ale cena slabá – žádná konkurence pro UPC
 ---
 
 <p>Pročítal jsem si materiály věnované IP televizi od O2 (zvané O2TV). Zaujaly mne dvě funkce: týdenní archív pořadů a videopůjčovna. </p>

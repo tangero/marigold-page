@@ -13,7 +13,7 @@ summary_points:
 - Router nefungoval, protože MAC adresa byla registrována na staré adrese.
 - Technik UPC naklonoval MAC adresu notebooku do routeru, aby to fungovalo.
 - UPC hrozí odpojením za "nelegální DHCP", což autor nechápe v kontextu domácí sítě.
-title: "Dorazil k nám internet (domů)"
+title: Dorazil k nám internet (domů)
 ---
 
 <p>

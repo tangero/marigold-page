@@ -14,7 +14,7 @@ summary_points:
 - 4. Nízké platy vedou k demotivaci a špatnému výkonu státních agend.
 - 5. Reforma zákona o státní službě je nezbytná pro zlepšení fungování státu.
 thumbnail: https://www.marigold.cz/assets/kolapsceska.png
-title: "Kolaps Česka, úředníci a služební zákon"
+title: Kolaps Česka, úředníci a služební zákon
 ---
 
 ---

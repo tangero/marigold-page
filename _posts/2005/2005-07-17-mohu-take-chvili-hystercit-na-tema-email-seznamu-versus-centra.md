@@ -13,9 +13,7 @@ summary_points:
 - Centrum email se zaměřuje na zdobnost a rozmařilost aplikace.
 - Seznam email nabízí jednoduché a funkční řešení pro freemail.
 - Design emailových služeb (Seznam, Centrum, Gmail) je podobný.
-title: "'Mohu také chvíli hysterčit na téma email Seznamu versus Centra?"
-
-  '
+title: Mohu také chvíli hysterčit na téma email Seznamu versus Centra?
 ---
 
 <p>Je to až s podivem, jaké vášně dokáže rozpoutat na českém e-rybníce nová emailová služba Seznamu a Centra. Pročítám si článečky vynášející do nebe centrácký email a někdy se mi až ježí chlupy, jak jednoznačně a bezhlavě ho autoři vyvyšují, aniž by připustili, že někdo může mít zcela jiné potřeby. </p>

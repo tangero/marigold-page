@@ -13,9 +13,7 @@ summary_points:
 - Blokování reklam cílí na příjmy reklamních a mediálních agentur.
 - Uživatelé by mohli platit za přístup k obsahu bez reklam.
 - Blokování reklam vyvolává právní, ekonomické a technologické problémy.
-title: "'Blokování reklamy telekomunikačními operátory je jízda na mrtvém koni"
-
-  '
+title: Blokování reklamy telekomunikačními operátory je jízda na mrtvém koni
 ---
 
 <p>Má to být nové zpříjemnění internetu pro uživatele O2 a zároveň další příjem pro poskytovatele českého obsahu. Tak by se dal shrnout oficiální výstup z plánu tuzemského O2 nabídnout blokování reklamy v jeho mobilní a fixní síti. </p>

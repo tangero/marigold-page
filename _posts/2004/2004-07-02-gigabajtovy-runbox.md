@@ -13,7 +13,7 @@ summary_points:
 - Služba Runbox zahrnuje spolehlivý provoz, spam filtr, antivirus a různé přístupy.
 - Google aktivita s gigabajty zdarma Runbox příliš neovlivnila.
 - Runbox navýšil uživatelům prostor na 1 GB pro email a 100 MB pro data.
-title: "Gigabajtový Runbox"
+title: Gigabajtový Runbox
 ---
 
 <p>

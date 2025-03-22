@@ -13,7 +13,7 @@ summary_points:
 - Autor nabídl Patrickovi pomoc s vedením Marigoldu, čeká na odpověď.
 - RSS čtečky by mohly být řešením pro provoz webu bez nežádoucích uživatelů.
 - Dočasně lze Marigold číst přes "tajný odkaz" na webu.
-title: "Jsem zvědav kdo si to přečte ;-)"
+title: Jsem zvědav kdo si to přečte ;-)
 ---
 
 <p><strong>Noname píše:</strong> Patrick zavřel Marigold, nevím jestli na dobro, nebo jestli svůj názor změní, posílal jsem mu e-mail, že klidně veškerou zátěž vezmu na sebe, nechám mu zde jeho reklamy i možnost publikovat atd., tak uvidíme jak moc je děním okolo marigoldu hnusen.</p>

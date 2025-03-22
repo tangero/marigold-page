@@ -13,8 +13,7 @@ summary_points:
 - T-Mobile WiFi síť má 2300 hotspotů a očekává se 5000 do konce roku.
 - Autorovi GPRS od T-Mobile v Praze funguje dobře, ale doma je zbytečné.
 - Srovnání WiFi karet Z-COM XI-626 a Alphawave Airwave P24-PCI je v praxi nerozlišitelné.
-title: "T-Mobile USA spojuje GPRS s nabídkou WiFi, srovnání Z-COM XI-626 a Alphawave"
-  Airwave P24-PCI
+title: T-Mobile USA spojuje GPRS s nabídkou WiFi, srovnání Z-COM XI-626 a Alphawave Airwave P24-PCI
 ---
 
 <p>

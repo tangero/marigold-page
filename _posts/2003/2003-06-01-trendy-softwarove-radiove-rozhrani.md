@@ -14,7 +14,7 @@ summary_points:
 - Víceúčelové čipy s aktualizovatelným firmware by umožnily flexibilnější radiové
   systémy.
 - Oddělení hardwaru a softwaru radiových rozhraní by prospělo výrobcům i zákazníkům.
-title: 'Trendy: softwarové radiové rozhraní'
+title: Trendy -  softwarové radiové rozhraní
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Autor se zúčastnil rekonstrukce bitvy u Grunwaldu a popisuje přípravy.
 - Před bitvou popisuje pocity nervozity, zimy a kontroly výstroje.
 - Autor zdůrazňuje, že pro autentické psaní je nutné bitvu prožít.
-title: "Moje bitva u Grunwaldu"
+title: Moje bitva u Grunwaldu
 ---
 
 <p>Článek o Janu Sokolovi z Lamberka se setkal s ohlasy, které jsem ani nečekal. Pokračovat v tématu – nevím jak bych. Možná vidím husitství trochu jinak, než vy ostatní, protože v době, kdy jsem dějiny českých zemí studoval na univerzitě, už ze mne vyprchal odér heroických filmů a knih, v nichž husitství bylo pasováno na první komunistickou revoluci. A moji profesoři měli jiný názor, začasté proto, že to nebyli češi a nebyli poznamenáni požadavkem strany. Snad i proto si husitů vážím jinak a vidím je jinak a snad i proto vyzdvihuji Jana Sokola více,  než „tradiční“ dějepisci čeští, </p>

@@ -13,7 +13,7 @@ summary_points:
 - Router D-Link DI-864 obsahuje DHCP server, web konfiguraci a NAT firewall.
 - D-Link ohlásil řadu dalších WiFi zařízení podporujících všechny tři WiFi normy.
 - D-Link DI-864 má být dostupný v Evropě, cena zatím nebyla zveřejněna.
-title: "D-Link představuje a/b/g router"
+title: D-Link představuje a/b/g router
 ---
 
 <p>

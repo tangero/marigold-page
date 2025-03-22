@@ -16,7 +16,7 @@ summary_points:
 - Symbian prohlížeč zdědil problémy ovládání z dřívějších modelů Nokia.
 - Nokia N8 má detaily, které uživatel zjistí až dlouhodobým používáním.
 - Autor nedokončil recenzi Nokie N8 kvůli narození syna Vojtěcha.
-title: "Nokia N8 a rezidua nedotykovosti (předporodní článek)"
+title: Nokia N8 a rezidua nedotykovosti (předporodní článek)
 ---
 
 Pokud si dobře pamatujete, Symbian a hlavně jeho grafická nastavba S60 byli vyvinuty pro nedotykové systémy, tedy pro ovládání z klávesnice. Pak přišel iPhone a mánie dotyků. Nokia šla rychle přeprogramovávat, aby mohla nabídnout své dotykové telefony a bylo vidět, že to flikovala různě. S různou mírou intenzity toho, co může uživatel vnímat, všimnout si. 

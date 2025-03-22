@@ -14,9 +14,7 @@ summary_points:
 - Autor bere výsledky voleb jako lekci a očekává, že nenastane konec světa.
 - Důležité je správně vyhodnotit voličskou zpětnou vazbu a respektovat demokracii.
 - Seriál Mladý papež může pomoci lépe porozumět současné situaci.
-title: "'A co jste dělali vy, když zvolili Trumpa?"
-
-  '
+title: A co jste dělali vy, když zvolili Trumpa?
 ---
 
 Dneska nás všichni budou oblažovat nářky nad výsledky voleb v USA. Volič intuitivně ztrestal ty, kdož mu stále dokola vysvětlovali, koho má volit ve svůj prospěch tím, že si zvolil jiného ke své škodě, ale vědomě. Jestli z toho bude konec světa, jak ho známe, nevím. Ale pro každý pád si zaznamenám, jak jsem trávil tu chvíli, když jsem se to dozvěděl, jako jsem si ji zaznamenal naposledy, když se něco takového stalo. 

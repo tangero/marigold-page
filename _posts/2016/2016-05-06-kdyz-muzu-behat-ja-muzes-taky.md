@@ -13,7 +13,7 @@ summary_points:
 - Měření uběhnuté vzdálenosti motivuje a ukazuje pokrok v běhání.
 - Funkční oblečení, i to levné, zásadně zlepší komfort běhu v nepříznivém počasí.
 - Kvalitní běžecké boty jsou klíčové pro prevenci bolesti kolen a zranění.
-title: "Když můžu běhat já, můžeš taky"
+title: Když můžu běhat já, můžeš taky
 ---
 
 <p>Dělat něco pro svoje zdraví v době, kdy je pohodlnější a oceňovanější dělat něco proti němu, je těžké. Hlavně z pohledu sebemotivace, tedy z toho, vyhoupnout se k tomu. Moderně se říká, dostat se z komfortní zóny, ale to je békovina, ve skutečnosti jde o to, svou komfortní zónu rozšířit.</p>

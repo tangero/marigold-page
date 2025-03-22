@@ -13,7 +13,7 @@ summary_points:
 - Akreditace na 3GSM World Congress v Cannes pro autora schválena.
 - Autor nabízí volné místo v autě na kongres do Cannes.
 - Autor je zatím první český akreditovaný novinář na kongres.
-title: "3GSM World Congress 2004 – akreditace dorazila"
+title: 3GSM World Congress 2004 – akreditace dorazila
 ---
 
 <p>

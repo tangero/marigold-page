@@ -13,9 +13,7 @@ summary_points:
 - Důvodem registrace SIM karet má být údajný boj proti kriminalitě.
 - Registrace SIM karet bude obcházena a reálné uživatele neidentifikuje.
 - Švýcarský příklad registrace SIM karet je zavádějící a motivován tlakem USA.
-title: "'Tažení proti anonymním SIM kartám je blbost"
-
-  '
+title: Tažení proti anonymním SIM kartám je blbost
 ---
 
 <p>Je to pozoruhodné, co všechno dokáže skopová

@@ -13,9 +13,7 @@ summary_points:
 - Video on demand článek autora vyšel na serveru Lupa.cz.
 - Jiří Hlavenka publikoval na Živě článek o vlivu WiFi na chytré domy.
 - Autor plánuje oprášit starší článek o stavbě chytrého domu s X10.
-title: "'Články na dnešní WiFi / internet čtení"
-
-  '
+title: Články na dnešní WiFi / internet čtení
 ---
 
 <p>

@@ -17,7 +17,7 @@ summary_points:
 - Palmknihy vytvořily elektronickou verzi Marigoldích let ke stažení zdarma.
 - Autor pracuje na dopsání Příběhu strýčka Martina po večerech.
 - Tištěná verze Marigoldích let nebude, šlo o výroční záležitost.
-title: "Marigoldí léta v elektronické podobě"
+title: Marigoldí léta v elektronické podobě
 ---
 
 <p>Kniha Marigoldí léta byla pětiletým souhrnem toho zajímavějšího, co jsem zde na Marigolda napsal. A pokusem o samopublikaci, s jehož výsledky jsem se chtěl podělit. Nicméně doba byla turbulentní, na podělení se o výsledky nedošlo skrzevá naléhavější problémy a dnes už by asi ty dojmy byly zastaralé.</p>

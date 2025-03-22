@@ -12,7 +12,7 @@ summary_points:
 - ISDN server získal nový vizuálně líbivý layout.
 - Validitu nového layoutu ISDN serveru posoudí Lupa.cz.
 - Kvalitní obsah ISDN serveru může ohrozit pozici Lupa.cz.
-title: "Nový layout ISDN serveru"
+title: Nový layout ISDN serveru
 ---
 
 <p>

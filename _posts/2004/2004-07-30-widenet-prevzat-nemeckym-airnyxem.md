@@ -14,7 +14,7 @@ summary_points:
 - WideNet implementuje roamingové služby a plánuje zpřístupnění sítě světovým zákazníkům
   do konce roku 2004.
 - WideNet plánuje do konce roku 2004 zprovoznit 200 hotspotů ve větších městech ČR.
-title: "WideNet převzat německým AirNyxem"
+title: WideNet převzat německým AirNyxem
 ---
 
 <p>

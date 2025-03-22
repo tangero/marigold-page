@@ -13,7 +13,7 @@ summary_points:
 - T-Mobile ČR by mohl Flexband koupit pro síť 872 MHz.
 - HSDPA Nortelu a Lucentu ani CDMA EV-DO Rel A nezaujaly.
 - Flexband je technicky nejlepší, navržený pro daný účel.
-title: "Šel jsem se podívat na Flarion – a líbilo se mi to"
+title: Šel jsem se podívat na Flarion – a líbilo se mi to
 ---
 
 <p>V Cannes jsem se šel podívat na technologii Flexband, kterou

@@ -12,7 +12,7 @@ summary_points:
 - Michal založil vývojářský weblog na adrese blog.vyvojar.cz/michal/.
 - Weblog Michala se zaměřuje na témata .NET a databáze.
 - Autor textu přiznává omezené porozumění programátorskému obsahu weblogu.
-title: "Michalův vývojářský weblog o .NET"
+title: Michalův vývojářský weblog o .NET
 ---
 
 Michal se přidal ke skupině weblogerů a založil si <A href="http://blog.vyvojar.cz/michal/" target=_blank>vývojářský weblog</A> <STRONG>věnovaný .NET a databázím</STRONG>. To je také jediné, co jsem na tom webu porozuměl, všechno ostatní už není česky, ale programátorsky a já poznávám jen některé spojky mezi tím :)

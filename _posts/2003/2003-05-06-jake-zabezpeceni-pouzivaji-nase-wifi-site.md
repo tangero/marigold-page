@@ -13,9 +13,7 @@ summary_points:
 - WEP a MAC zabezpečení je stejně populární jako filtrace MAC adres.
 - Devatenáct procent WiFi sítí zůstává bez jakéhokoliv zabezpečení.
 - Studie tvrdí, že MAC a WEP zabezpečení je v komunitních sítích obtížně prolomitelné.
-title: "'Jaké zabezpečení používají naše WiFi sítě?"
-
-  '
+title: Jaké zabezpečení používají naše WiFi sítě?
 ---
 
 <p>

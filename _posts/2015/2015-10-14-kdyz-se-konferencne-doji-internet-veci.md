@@ -13,9 +13,7 @@ summary_points:
 - Program konference dominuje Vodafone s opakovanými tématy a reklamou na EET.
 - Bezpečnostní panel zahrnuje instituce bez praktických zkušeností s IoT.
 - Konference postrádá skutečné odborníky a reálné zkušenosti z oblasti IoT.
-title: "'Když se konferenčně dojí Internet věcí"
-
-  '
+title: Když se konferenčně dojí Internet věcí
 ---
 
 <p>Že je IoT po několika letech (kdy jsem <a href="http://www.marigold.cz/item/chcete-zmenit-svet-venujte-pozornost-internetu-veci-a-velkym-datum">vám připomínal, ať se mu věnujete</a>) v kurzu, se pozná tak, že se o něm pořádají konference a vystupují tam lidi, který v branži nikdo nezná. Dobrým příkladem je české <a href="http://iotforum.cz">IoT Forum</a>, které pořádá IDC větřící sukces. A řešící jej tak, jak to IDC dělá vždycky: sepětím s velkým průmyslem schopným věc cvaknout bez ohledu na to, jaký skutečný přínos bude mít.</p>

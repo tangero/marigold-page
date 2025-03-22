@@ -17,7 +17,7 @@ summary_points:
 - IMS v UMTS posouvá síť k bezdrátovému modelu s protokoly SIP a IPV6.
 - IMS dělí okruhovou doménu na Media Gateway a MSC server pro efektivnější směrování.
 - IMS zatím není vhodný pro realtime aplikace, ale pro Push To Talk služby.
-title: 'Turboúvod do UMTS: IMS aneb IP Multimedia Subsystem'
+title: Turboúvod do UMTS -  IMS aneb IP Multimedia Subsystem
 ---
 
 <p>

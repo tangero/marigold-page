@@ -22,7 +22,7 @@ summary_points:
   systémech.
 - Kniha Stevena Pinkera "Lepší andělé naší povahy" zkoumá důvody poklesu násilí ve
   společnosti.
-title: "\U0001F9D1‍\U0001F4BBNaděje roku: procesory RISC-V"
+title: \U0001F9D1‍\U0001F4BBNaděje roku -  procesory RISC-V
 ---
 
 V minulém vydání jsme si řekli, že technologií roku 2023 bude umělá inteligence, AI. A pokud jste četli moji knihu Mýty a naděje, tak jste jistě postřehli, že za klíčovou technologii pro AI a svět obecně považuji i procesory. AI se bez procesorů neobejde, jenže svět je nyní tak zvláštně rozdělen. Velkým vládcem procesorového světa je rodina ARM. Může se to nějak změnit? Může něco převzít roli ARM procesorů podobně, jako to tyto procesory udělaly Intelu? Nebojte se, pokusím se o tom napsat pár informací, které vás zaujmou i v případě, že jsou vám procesory šumák. Protože to bude business, vliv a politika. 

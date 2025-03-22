@@ -13,7 +13,7 @@ summary_points:
 - Chello Classic nabízí 256/96 Kb/s, Chello Plus 512/128 Kb/s, ceny zůstávají.
 - Chello Profesional pro firmy má 768/256 Kb/s za necelé 4000 Kč.
 - UPC začalo posílat faktury e-mailem na zákazníkem uvedený e-mail.
-title: "Ťukáme si na Chello aneb Mistrál rychlejší už oficiálně…"
+title: Ťukáme si na Chello aneb Mistrál rychlejší už oficiálně…
 ---
 
 <p>

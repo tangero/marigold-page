@@ -13,7 +13,7 @@ summary_points:
 - První díl seriálu představuje brokery pro obchodování na burze v New Yorku.
 - Autor se v seriálu zaměřuje na americkou burzu, nikoliv na evropskou XETRA.
 - Druhý díl seriálu vyjde příští týden na Peníze.cz.
-title: "Seriál Obchodujeme s akciemi v USA je na světě"
+title: Seriál Obchodujeme s akciemi v USA je na světě
 ---
 
 <p>

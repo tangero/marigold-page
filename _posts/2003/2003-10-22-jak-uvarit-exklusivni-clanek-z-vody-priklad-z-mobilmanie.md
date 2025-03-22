@@ -13,7 +13,7 @@ summary_points:
 - Článek MobilManie o EDGE od Eurotelu obsahuje minimum nových informací.
 - Autor kritizuje článek za natahování a budování dojmu exkluzivity.
 - Trendem českého technického zpravodajství je klesající informační hodnota článků.
-title: "Jak uvařit exklusivní článek z vody (příklad z MobilManie)"
+title: Jak uvařit exklusivní článek z vody (příklad z MobilManie)
 ---
 
 <p>

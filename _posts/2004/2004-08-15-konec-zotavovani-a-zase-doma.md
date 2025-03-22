@@ -13,7 +13,7 @@ summary_points:
 - Noname dostal přístup na Marigold a publikoval novinky a seriály.
 - Autor děkuje Nonamovi za jeho příspěvky a projevuje mu důvěru.
 - Poštovní server je zahlcen emaily, autor řeší spam a první český virus.
-title: "Konec zotavování a zase doma"
+title: Konec zotavování a zase doma
 ---
 
 <p>

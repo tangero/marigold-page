@@ -13,9 +13,7 @@ summary_points:
 - Levnější banka je management, zadarmo je vize internetové komunity.
 - České banky jsou rozežrané, bankovní historie je zbytečná.
 - Autor preferuje správu účtu online a nesnáší čísla účtů s pomlčkou.
-title: "'mBank má zatím vřelejší přijetí než služby"
-
-  '
+title: mBank má zatím vřelejší přijetí než služby
 ---
 
 Veřejných konferencí a vystoupení se už prakticky neúčastním, ale v pátek jsem měl něco dávno domluveného, takže jsem tam dorazil a pokoušel se uvést pár lidí do obrazu, jak internet mění svět. A kromě velmi poučné Apple iPhone LiIont story jsem vytáhl i příklad mBanky. 

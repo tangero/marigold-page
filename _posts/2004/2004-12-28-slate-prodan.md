@@ -13,7 +13,7 @@ summary_points:
 - Microsoft projevil zájem o prodej Slate v polovině roku.
 - Prodej Slate vyvolal diskusi na serveru SlashDot.
 - Washington Post koupil Slate od Microsoftu.
-title: "Slate prodán"
+title: Slate prodán
 ---
 
 <p>

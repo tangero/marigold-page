@@ -15,7 +15,7 @@ summary_points:
 - MIMO antény nabízejí rychlost až 108 Mb/s a větší dosah, APčka budou dražší o 50
   USD.
 - SOHOware, Planex, Askey a Taiyo Yuden budou prvními dodavateli AirGo technologie.
-title: "AirGo a jeho MIMO antény"
+title: AirGo a jeho MIMO antény
 ---
 
 <p>

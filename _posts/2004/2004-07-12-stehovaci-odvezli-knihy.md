@@ -13,7 +13,7 @@ summary_points:
 - Zákazníci prý často zveličují množství knih, aby vypadali inteligentně.
 - Kromě knih zbývá odstěhovat televizi, mikrovlnku a další drobnosti.
 - Autor hledá levný způsob, jak dočasně zprovoznit televizi bez antény.
-title: "Stěhováci odvezli knihy… :)"
+title: Stěhováci odvezli knihy…  - )
 ---
 
 <p>

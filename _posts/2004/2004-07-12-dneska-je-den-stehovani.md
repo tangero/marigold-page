@@ -13,7 +13,7 @@ summary_points:
 - Bydlení v Zeleném údolí začíná dnes po dokončení stěhování.
 - Problémem je zprovoznění WiFi, nutný nákup dílů a testování antény notebooku.
 - Autor zabezpečil cizí WiFi síť, aby neměl pokušení ji využívat.
-title: "Dneska je den stěhování…"
+title: Dneska je den stěhování…
 ---
 
 <p>

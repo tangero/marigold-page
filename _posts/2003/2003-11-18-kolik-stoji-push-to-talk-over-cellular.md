@@ -13,7 +13,7 @@ summary_points:
 - Sprint poskytuje PTT zdarma od 100 USD, Audiovox zařízení.
 - Nokia plánuje PoC ve všech nových telefonech v roce 2005.
 - Eurotel má šanci s PoC, T-Mobile podporuje FastChat pro Symbian.
-title: "Kolik stojí Push-to-Talk over Cellular?"
+title: Kolik stojí Push-to-Talk over Cellular?
 ---
 
 <p>

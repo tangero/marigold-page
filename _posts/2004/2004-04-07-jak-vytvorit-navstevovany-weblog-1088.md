@@ -13,7 +13,7 @@ summary_points:
 - Provokace zavedených blogerů novými názory zvyšuje čtenost weblogu.
 - Materiály trvalé hodnoty, jako návody, přitahují a udržují návštěvníky.
 - Propracované diskuse s aktivní komunitou zvyšují návštěvnost weblogu.
-title: "Jak vytvořit navštěvovaný weblog"
+title: Jak vytvořit navštěvovaný weblog
 ---
 
 Weblog už máte, jste tedy "in". Jenže on na něj nikdo nechodí... Co s tím? Jak přilákat čtenáře a své dílo udělat navštěvovaným? Pár dobře míněných rad k těm, které se všude na netu povalují...<!--more--><p>

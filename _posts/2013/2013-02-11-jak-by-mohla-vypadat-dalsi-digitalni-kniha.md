@@ -15,9 +15,7 @@ summary_points:
 - Elektronická kniha by mohla být aplikace s týdenními kapitolami za 5 Kč.
 - Čtenáři mohou komentovat pasáže a vidět komentáře ostatních v aplikaci.
 - Autor zvažuje, zda čtení na kapitoly bude vyhovovat a chybí potřebná aplikace.
-title: "'Jak by mohla vypadat další digitální kniha"
-
-  '
+title: Jak by mohla vypadat další digitální kniha
 ---
 
 <p> Do éry multimediálních zázraků je v knize stále daleko. Mimo jiné proto, že schopnost zvládnout jejich produkci je za hranicí "jednočlověčího týmu", který se dnes typicky podílí na napsání knihy a rozšíření týmu přináší problémy nejenom ekonomické, ale zejména realizační, založené na problémech se sdílením vize takového díla.</p>

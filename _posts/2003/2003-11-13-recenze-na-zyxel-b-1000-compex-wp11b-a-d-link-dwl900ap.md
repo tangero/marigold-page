@@ -13,7 +13,7 @@ summary_points:
 - Compex WP11B+ recenzi zveřejnil WiFiOnline, převzatou z inwifi.cz.
 - D-LINK DWL900AP+ rev. C1 recenze je dostupná v PDF na inwifi.cz.
 - Compex WP11B recenze je také dostupná v PDF formátu na inwifi.cz.
-title: "Recenze na ZyXEL B-1000, Compex WP11B+ a D-LINK DWL900AP+"
+title: Recenze na ZyXEL B-1000, Compex WP11B+ a D-LINK DWL900AP+
 ---
 
 <p>

@@ -14,7 +14,7 @@ summary_points:
 - Blinkx je vyhledávač pro Windows 2000/XP, který prohledává různé dokumenty.
 - Smart Folders v Blinkx automaticky aktualizují obsah dle definovaných klíčových
   slov.
-title: "Proč jsem přešel na FireFox (a vsuvka o Blinkx)"
+title: Proč jsem přešel na FireFox (a vsuvka o Blinkx)
 ---
 
 <p>

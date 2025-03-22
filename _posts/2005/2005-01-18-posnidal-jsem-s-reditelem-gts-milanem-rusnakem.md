@@ -13,7 +13,7 @@ summary_points:
 - 'Rusnák: Konvergence sítí je klíčová, rozdělení na pevné a mobilní sítě je umělé.'
 - 'Rusnák: Český telco trh potřebuje konsolidaci, aby se zlepšila konkurence.'
 - 'Rusnák: Mobilní internet je zbytečný, regulátor v ČR je pasivní.'
-title: "Posnídal jsem s ředitelem GTS Milanem Rusnákem"
+title: Posnídal jsem s ředitelem GTS Milanem Rusnákem
 ---
 
 <p>Abych to upřesnil, nesnídal jsem s ním sám, natolik důvěrně se neznáme. Akci pořádalo Tuesday Business Network, přišlo cca třicet lidí. A podle mne to bylo zajímavé, musím na to chodit častěji. Přikládám přepis toho, co mne zaujalo (a co jsem přeložil při přepisu dočeštiny, protože ředitel GTS Czech a.s. Milan Rusnák hovořil slovensky). M. Rusnák je šéf největšího alternativního operátora a jeho názory a pohledy na trh mají rozhodně svoji váhu.</p>

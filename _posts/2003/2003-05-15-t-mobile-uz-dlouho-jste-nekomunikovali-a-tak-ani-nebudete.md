@@ -12,7 +12,7 @@ summary_points:
 - T-Zones nefunguje pro SMS odesílání z internetu, hlásí odhlášení z důvodu neaktivity.
 - TyDebajil mi potřetí letos poslal nabídku k úpisu na dva roky.
 - Autor se domnívá, že je označen jako "mešuge" v zákaznickém softwaru TyDebajl.
-title: "T-Mobile: už dlouho jste nekomunikovali a tak ani nebudete…"
+title: T-Mobile -  už dlouho jste nekomunikovali a tak ani nebudete…
 ---
 
 <p>

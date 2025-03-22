@@ -10,8 +10,7 @@ summary_points:
 - České volby jsou pro autora utrpením kvůli nedostatku ideálních kandidátů.
 - Piráti jsou volbou kvůli jejich přístupu k aktuálním tématům a vyvážené politice.
 - Volba Pirátů je kompromis, ale nabízejí zamyšlení nad podstatnými otázkami.
-title: "Koho budu volit letos já a proč? Ty, co aspoň přemýšlejí i o výzvách"
-  budoucnosti. Piráty.
+title: Koho budu volit letos já a proč? Ty, co aspoň přemýšlejí i o výzvách budoucnosti. Piráty.
 ---
 
 Internet se začíná plnit nesmiřitelnými vzkazy, kdo je nevolitelný a koho rozhodně může volit jen debil. Tak jsem si řekl, že popíšu, koho budu volit a proč bez nároku na to, shodit vaši vlastní preferenci.

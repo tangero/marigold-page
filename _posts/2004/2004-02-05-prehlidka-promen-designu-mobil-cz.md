@@ -13,7 +13,7 @@ summary_points:
 - Mobil server prošel několika změnami designu od roku 1997.
 - Některé návrhy designu Mobilu nebyly nikdy použity.
 - Portálová lišta Mobil.cz je standard iDNES, existuje od roku 2000.
-title: "Přehlídka proměn designů Mobil.cz"
+title: Přehlídka proměn designů Mobil.cz
 ---
 
 <p>

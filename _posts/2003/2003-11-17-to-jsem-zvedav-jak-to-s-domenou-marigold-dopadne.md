@@ -13,7 +13,7 @@ summary_points:
 - Autorovi hrozí ztráta domény Marigold.cz kvůli LRR a nejasným platbám.
 - Autor převádí doménu k registrátorovi Ignum a zaplatil poplatky za převod.
 - NIC.CZ neposkytuje dostatečné informace o převodu domény a používá zastaralé systémy.
-title: "To jsem zvědav, jak to s doménou Marigold dopadne…"
+title: To jsem zvědav, jak to s doménou Marigold dopadne…
 ---
 
 <p>

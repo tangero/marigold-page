@@ -13,7 +13,7 @@ summary_points:
 - Oskar získal v anketě o operátora roku 2003 38 % hlasů.
 - Nová anketa se ptá, zda do RSS přidávat plné znění článků.
 - RSS by mohlo obsahovat plné články pro pohodlnější čtení.
-title: 'Vyhodnocení anketky: Rok 2003 patřil Eurotelu'
+title: Vyhodnocení anketky -  Rok 2003 patřil Eurotelu
 ---
 
 <p>

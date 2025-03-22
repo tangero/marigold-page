@@ -13,7 +13,7 @@ summary_points:
 - Marcela Gürlichová z Úřadu Vlády ČR a Přemysl Klíma z APKT jsou jmenováni.
 - Ivo Ludvík je místopředseda a Arnošt Traxler je předseda fóra.
 - Členové fóra zastupují různé obory související s rozhodováním fóra.
-title: "Členové broadband fóra"
+title: Členové broadband fóra
 ---
 
 <p><strong>Noname píše:</strong> tak už jsou známy vybraní členové broadband fóra, v některých ezinech tento seznam již uveřejnili, ovšem kromě chybky v mém jméně neuvedli ani organizace, za které dotyční vystupují. Takže vám přináším tento kompletní seznam:</p>

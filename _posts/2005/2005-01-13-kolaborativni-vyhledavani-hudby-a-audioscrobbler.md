@@ -14,7 +14,7 @@ summary_points:
   preferencí.
 - Autor vytvořil linkbázi o socioware s odkazy na zajímavé projekty.
 - Počet českých uživatelů AudioScrobbleru zaznamenává nárůst.
-title: "Kolaborativní vyhledávání hudby a AudioScrobbler"
+title: Kolaborativní vyhledávání hudby a AudioScrobbler
 ---
 
 <p>Na Lupě vyšel můj další článek věnovaný kolaborativnímu software: <a href="http://www.lupa.cz/clanek.php3?show=3884">Kolaborativní vyhledávání hudby a AudioScrobbler</a>. Protože jsem minule dostal několik připomínek, že to jsou všechno jen teoretické táračky, ale praktické uplatnění nikde nevidno, sáhnul jsem po několika méně známých (alespoň u nás) projektech, z nichž nejraději mám právě AudioScrobbler, takového špionka, jenž sleduje, co si přehráváte za hudbu a je vám schopen doporučit další hudbu, která by se vám mohla líbit. Takhle jsem už objevil pár pro mne neznámých kapel <i>(to nic neznamená, nejsem znalec)</i>, takže to opravdu doporučuju. <a href="http://www.audioscrobbler.com/user/marigold_cz/">Tady je</a> kupříkladu vidět, co poslouchám a když poslouchám, je tam online vidět, co. Nedávno jsem ale svoji statistiku vymazal, protože jsem začal experimentovat s tím, jak to, že některé skladby neprojdou, stránka hlásí chybu při přijímání jejich tagů&#8230;</p>

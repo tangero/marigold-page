@@ -13,7 +13,7 @@ summary_points:
 - Oskar roaming GPRS/MMS nenabízí, ačkoliv to dříve sliboval.
 - MMS posílání komplikuje nekompatibilita Nokie 6600 s Go kartou.
 - CeBIT akreditace byla vyřízena včas, což je pozitivní.
-title: "Poslední přípravy :)"
+title: Poslední přípravy  - )
 ---
 
 <p>

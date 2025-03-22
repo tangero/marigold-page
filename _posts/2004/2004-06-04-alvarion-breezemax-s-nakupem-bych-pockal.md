@@ -13,7 +13,7 @@ summary_points:
 - Finální WiMax standardy budou dostupné koncem léta (IEEE) a na podzim (WiMAX).
 - Alvarion se modlí, aby se finální standard WiMaxu neodchýlil od draftů.
 - Nákup prvních WiMax produktů, včetně BreezeMax, může přinést potíže s kompatibilitou.
-title: "Alvarion BreezeMax – s nákupem bych počkal"
+title: Alvarion BreezeMax – s nákupem bych počkal
 ---
 
 <p>

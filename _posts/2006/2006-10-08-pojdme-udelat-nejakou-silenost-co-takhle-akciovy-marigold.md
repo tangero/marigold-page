@@ -13,9 +13,7 @@ summary_points:
 - Pro Mobil server navrhoval prodej akcií malým akcionářům, což se nerealizovalo.
 - Autorovi chybí technický server sledující trendy, ne zaměřený na spotřební zboží.
 - Navrhuje nový server s autory jako akcionáři, odměňovanými dle čtenosti článků.
-title: "'Pojďme udělat nějakou šílenost. Co takhle akciový Marigold?"
-
-  '
+title: Pojďme udělat nějakou šílenost. Co takhle akciový Marigold?
 ---
 
 <p>Delší dobu mi straší v hlavě udělat nějakou šílenost. Já vím, že naše pondělní oznamka bude trochu šílenost, jenže z obchodního hlediska je to taková... klasika.</p>

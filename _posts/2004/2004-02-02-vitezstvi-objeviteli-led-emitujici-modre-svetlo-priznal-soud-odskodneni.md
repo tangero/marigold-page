@@ -14,7 +14,7 @@ summary_points:
 - Soud v Tokiu přiznal Nakamurovi odškodné cca 189 milionů dolarů.
 - LED technologie nahrazuje klasické zdroje osvětlení díky nízké spotřebě a dlouhé
   životnosti.
-title: 'Vítězství: objeviteli LED emitující modré světlo přiznal soud odškodnění'
+title: Vítězství -  objeviteli LED emitující modré světlo přiznal soud odškodnění
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Valná hromada CZ.NIC nezlevnila ceny domén pro registrátory.
 - Globe Internet by mohl nabídnout domény za 640 korun, což je 20% sleva.
 - Autor preferuje dražší, ale stabilnější registraci domén u LRR.
-title: "Humbuk kolem CZ.NICu"
+title: Humbuk kolem CZ.NICu
 ---
 
 <p>

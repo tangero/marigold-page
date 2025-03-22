@@ -13,7 +13,7 @@ summary_points:
 - UMTS sítě nejsou ekonomické, operátoři slibují rychlý internet, ale je drahý.
 - IMS doména v Release 5 nepřináší výhody, ale rekonfiguraci sítě a nákup nových zařízení.
 - Architektura UMTS je složitá, vyžaduje obsáhlý popis, článek by musel být kniha.
-title: "UMTS deprese"
+title: UMTS deprese
 ---
 
 <p>

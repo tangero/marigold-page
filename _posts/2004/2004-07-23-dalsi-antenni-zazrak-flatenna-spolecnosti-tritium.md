@@ -13,7 +13,7 @@ summary_points:
 - Anténa Flatenna zvyšuje zisk 2 dBI antény na 9 dBI se sektorem 90 stupňů.
 - Flatenna funguje jako odražeč signálu díky pokovené zadní straně papíru.
 - Cena Flatenny je 10 liber, ale lze ji vyrobit svépomocí.
-title: "Další anténní zázrak – Flatenna společnosti Tritium"
+title: Další anténní zázrak – Flatenna společnosti Tritium
 ---
 
 <p>

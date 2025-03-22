@@ -13,7 +13,7 @@ summary_points:
 - Dokument BBC byl srozumitelný a vyvážený, zahrnoval různé pohledy na hacking.
 - Rozhovor s autorem vyšel na Intervalu, původně určený pro weblog Oříšek.
 - Autor považuje za nejzajímavější teorii o proměně weblogů a ratingu příspěvků.
-title: "Dvojí rozdávání mouder"
+title: Dvojí rozdávání mouder
 ---
 
 <p>

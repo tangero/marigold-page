@@ -16,8 +16,7 @@ summary_points:
 - Největší šance na získání pásma 872 MHz mají COL a T-Mobile.
 - Tendr na pásmo 872 MHz je podle autora zmanipulovaný ve prospěch předem vybrané
   společnosti.
-title: "Dokumentaci k pofidérnímu tendru na mobilní internet si vyzdvihly čtyři"
-  firmy
+title: Dokumentaci k pofidérnímu tendru na mobilní internet si vyzdvihly čtyři firmy
 ---
 
 <p>Podle včerejší zprávy ČTK si dokumentaci k licenčnímu tendru na pásmo 872 MHz vyzdvihly čtyři společnosti: T- Mobile, Eurotel, Czech On Line a České radiokomunikace. Tedy nikoliv Tiscali, jak jsme se původně domníval. Včerejší MF DNES také označila za zájemce <i>&#8220;irskou společnost Qualcomm&#8221;</i> . měl jsem dojem, že Qualcomm je firma americká, ale asi jde jen o zmatek.</p>

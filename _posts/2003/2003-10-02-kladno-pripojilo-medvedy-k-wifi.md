@@ -13,7 +13,7 @@ summary_points:
 - Primátor Volf plánuje další rozšíření bezplatné WiFi sítě.
 - WiFi signál pokrývá zámeckou zahradu včetně medvědária.
 - Město Kladno spolupracovalo se společností WideNet na zavedení WiFi.
-title: "Kladno připojilo medvědy k WiFi!"
+title: Kladno připojilo medvědy k WiFi!
 ---
 
 <p>

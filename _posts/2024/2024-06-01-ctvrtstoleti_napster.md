@@ -15,7 +15,7 @@ summary_points:
 - Apple využil příležitost k rozvoji iTunes a iPodu.
 - Shawn Fanning a Sean Parker pokračovali v technologických projektech.
 thumbnail: https://s.libertaddigital.com/fotos/noticias/1920/1080/fit/napster-050613.jpg
-title: "Před čtvrtstoletím odstartoval Napster a změnil svět hudby"
+title: Před čtvrtstoletím odstartoval Napster a změnil svět hudby
 ---
 
 Před čtvrtstoletím odstartovala služba Napster, která změnila svět hudby a filmu. Službu založili Shawn Fanning a Sean Parker a umožňovala pohodlné sdílení a stahování hudebních souborů. Do té doby hudební průmysl svorně tvrdil, že nic takového nemůže fungovat a lidé to nebudou používat. 

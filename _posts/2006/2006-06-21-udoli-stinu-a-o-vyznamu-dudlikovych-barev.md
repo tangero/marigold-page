@@ -13,7 +13,7 @@ summary_points:
 - Dcera Sofie se učí chodit a vyžaduje neustálou asistenci dospělých.
 - Sofie si vybírá dudlíky podle příležitosti a ladí je s oblečením.
 - Autorovi se líbí Google Picasaweb pro jednoduché sdílení fotografií online.
-title: "Údolí stínu a o významu dudlíkových barev"
+title: Údolí stínu a o významu dudlíkových barev
 ---
 
 <p>Jeden z komentářů se tu ptá, zda je to ještě můj weblog. Baže, je. Ale nějak jsem neměl, co psát. O čem taky? O mistrovství světa ve fotbale jako Noname, když mne fotbal nezajímá? Dokonce si ani nemůžu vzpomenout, na kolik minut se hraje poločas, pokud je to vůbec poločas? Mám vás oblažit svým komentářem k utkání Ghana – Česko, jež jsem ze společenské nutnosti sledoval a u něhož si nejsem jistý, zda se český tým včas dozvěděl, že se hraje fotbal a ne hokej? Samozřejmě kromě našeho brankáře, který si program show přečetl dopředu, jenže pak mu nezbývalo, aby sekundoval azylovému táboru ghanských uprchlíků rozloženému před naší branou. Asi těžko, nejsem sportmachr a jestli dneska prohrajeme s Itálií a pojedeme domů, tak mne to rozladí v jediném ohledu – budu se bát, že skončí slevy na LCD televizory, přičemž ještě pořád nejsem rozhodnutý, že nějaký chci. </p>

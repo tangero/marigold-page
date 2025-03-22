@@ -13,7 +13,7 @@ summary_points:
 - Szabo popisuje mentální transakční náklady jako problém mikroplateb.
 - Článek se zabývá důvody neúspěchu mikroplatebních systémů.
 - Shirky a Szabo poskytli autorovi zajímavé teze o mikroplatbách.
-title: 'Platby za obsah: Věhlas versus bohatství'
+title: Platby za obsah -  Věhlas versus bohatství
 ---
 
 <p>

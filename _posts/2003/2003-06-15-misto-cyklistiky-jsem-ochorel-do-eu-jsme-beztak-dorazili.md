@@ -13,7 +13,7 @@ summary_points:
 - Autor volil pro přistoupení do EU, ačkoli výsledek byl jasný.
 - DigiWeb zveřejnil vtipný rozhovor s Vrecem, vyvolávající bouřlivou diskusi.
 - Rozhovor s Vrecem je dostupný i jako zvukový záznam na ČRo1.
-title: "Místo cyklistiky jsem ochořel, do EU jsme beztak dorazili…"
+title: Místo cyklistiky jsem ochořel, do EU jsme beztak dorazili…
 ---
 
 <p>

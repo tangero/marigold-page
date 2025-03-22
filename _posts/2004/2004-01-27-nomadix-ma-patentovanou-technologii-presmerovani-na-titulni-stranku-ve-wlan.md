@@ -14,9 +14,7 @@ summary_points:
 - Patent je platný v USA, evropských firem se zatím netýká.
 - Nomadix chce inkasovat peníze za používání patentované technologie.
 - Nomadix si patentem udělal reklamu, očekává se negativní publicita.
-title: "'Nomadix má patentovanou technologii přesměrování na titulní stránku ve WLAN"
-
-  '
+title: Nomadix má patentovanou technologii přesměrování na titulní stránku ve WLAN
 ---
 
 <p>

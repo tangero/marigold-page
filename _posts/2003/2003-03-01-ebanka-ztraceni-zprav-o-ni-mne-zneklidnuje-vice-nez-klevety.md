@@ -15,7 +15,7 @@ summary_points:
   eBanky.
 - Autor je znepokojen mizení informací o eBance z webů a hledá spolehlivou banku s
   internet bankingem.
-title: "eBanka: ztrácení zpráv o ní mne zneklidňuje více, než klevety…"
+title: eBanka -  ztrácení zpráv o ní mne zneklidňuje více, než klevety…
 ---
 
 <p>

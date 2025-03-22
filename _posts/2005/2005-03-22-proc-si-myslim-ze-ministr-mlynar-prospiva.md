@@ -14,9 +14,7 @@ summary_points:
 - Digitalizace státní správy za Mlynáře pokročila, i když pomalu.
 - Mlynář prosadil CDMA u Eurotelu a dokoupení Eurotelu Telecomem.
 - Kauza Testcomu je dle autora spíše účelová než korupční.
-title: "'Proč si myslím, že ministr Mlynář prospívá"
-
-  '
+title: Proč si myslím, že ministr Mlynář prospívá
 ---
 
 <p>V souvislosti se svojí opovážlivostí pochválit ve svém článku v Lidovkách minulý týden ministra Mlynáře jsem dostal řadu emailů, v nichž mi většinou zcela neznámí lidé psali, že mne považovali za inteligentního člověka a co že jsem si tedy odvážil pochválit toho debila a defraudanta.  Jelikož si obojí nemyslím, rád bych osvětlil svůj názor, proč soudím, že Mlynář jako ministr informatiky spíše prospívá, než škodí a proč mu fandím v jeho práci <i>(i když moje fandovství – a to si řekněme na rovinu - je mu na houby)</i>. </p>

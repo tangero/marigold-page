@@ -14,7 +14,7 @@ summary_points:
 - Faktura uvádí víkendové hovory jako slevu, takže je z hlediska faktury vše v pořádku.
 - Hovory zdarma se započítávají do volacího limitu, což může vést k nečekané blokaci
   SIM karty.
-title: 'Oskarovy víkendové hovory zdarma: pozor, lezou do zálohy'
+title: Oskarovy víkendové hovory zdarma -  pozor, lezou do zálohy
 ---
 
 <p>

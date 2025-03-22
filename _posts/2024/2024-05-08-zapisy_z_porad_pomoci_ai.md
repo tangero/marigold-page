@@ -12,7 +12,7 @@ summary_points:
 - MinutAI je zatím kompletně zdarma, iOS a Android.
 - Notta podporuje češtinu, automatizuje webcall zápisy.
 thumbnail: https://www.marigold.cz/assets/robot-ai-prepis.png
-title: "Zápis z porady či jednání pomocí umělé inteligence"
+title: Zápis z porady či jednání pomocí umělé inteligence
 ---
 
 **Aktualizováno 7.11.2024** Jednou z aplikací umělé inteligence, kterou používám prakticky rutinně, je zápis ze schůzky, porady či jednání. Pojďme se podívat na to, jak to funguje.

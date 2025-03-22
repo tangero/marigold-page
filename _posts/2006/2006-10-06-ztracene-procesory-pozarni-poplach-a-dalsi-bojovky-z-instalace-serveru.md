@@ -13,7 +13,7 @@ summary_points:
 - Řidič náklaďáku servery převezl do TTC, kde je ručně vyložili.
 - Při instalaci serverů chyběly RAM, procesory a dva disky.
 - SuperHosting servery vybalil a nainstaloval přes noc do racků.
-title: "Ztracené procesory, požární poplach a další bojovky z instalace serverů"
+title: Ztracené procesory, požární poplach a další bojovky z instalace serverů
 ---
 
 <p><b>Vreco píše:</b> Když nám do Opatovické dorazilo osmnáct nových našlapaných černo-modrých skříní od IBM v objemově cca 10x větších obalech, netušili jsme, že netrpělivě očekávaný okamžik se změní ve dvoudenní bojovku. Ačkoliv náklaďák přepravní společnosti se do Opatovické vměstnal, palety jasně naznačily, abychom nepočítali s tím, že by prošly dveřmi. Přemluvili jsme tedy notně přinasraného řidiče (po telefonu jsem ho mírně odbyl s tím, že nevím, proč by kvůli pár serverům byl potřeba vysokozdvižný vozík a ať vydrží minutu, že zrovna zatáčím do Opatovické), aby nám servery transportoval do TTC, které je naší první a do budoucna primární serverovou lokalitou. Přiznávám, faux pas s náklaďákem v centru Prahy byla naše chyba, předtím jsme servery kupovali po 1-2 kusech dle potřeby a z IBM nám je vozili Oktávkou, takže nás nenapadlo, že tentokrát toho budou rovnou dvě palety. </p>

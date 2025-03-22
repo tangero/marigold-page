@@ -16,9 +16,7 @@ summary_points:
   omezený.
 - Autor hledá praktické zkušenosti s jízdou na skútru v Praze, patolog skútristy na
   sále neměl.
-title: "'Skutr do Prahy, jak moc zlý nápad to je?"
-
-  '
+title: Skutr do Prahy, jak moc zlý nápad to je?
 ---
 
 Mám takové osobní dilema. Už delší dobu si říkám, že bych měl změnit způsob dopravy Prahou. Až do letošního roku se to nějak dalo ustát, ale v posledních měsících se mi zdá, že se doprava v Praze horší skokově. Pozoruju to statisticky, na dopravě do práce. Vzdálenostně to mám podle tachometu osm (číslem 8) kilometrů. Ještě vloni jsem to jezdil průměrně za třicet minut v ranní špičce. Poslední měsíce se pohybuju přes 40 minut, zpravidla ještě více. A to zapomínám prozradit, že v Římské prakticky nelze zaparkovat, takže parkuju tak kilometr od kanceláře. Když nemám pech. Hodinová doprava do práce se začíná stávat spíše pravidlem, než výjimkou a to bez ohledu, zda jedu v sedm, nebo v deset. 

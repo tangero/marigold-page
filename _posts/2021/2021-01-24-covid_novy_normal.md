@@ -16,7 +16,7 @@ summary_points:
 - Čína roste, Česko zaznamenává propad HDP o 7 %.
 - Firmy musí přizpůsobit byznys novému normálu.
 - Vakcinace není rychlé řešení, vyžaduje čas a organizaci.
-title: "Co když COVID bude nový normál?"
+title: Co když COVID bude nový normál?
 ---
 
 Spoléháme se až příliš v poslední době na to, že karanténní opatření vytěsní COVID a vakcinace jej dorazí, načež zmizí ze scény a už se nevrátí. Jenže tohle není vůbec samozřejmé. Z COVIDu mnohem spíše bude „nový normál“: svět se změnil a už zřejmě nebude takový, jako býval. Boj s COVIDem bude podobně, jako s jinými chorobami, trvat desetiletí a kdo ví, zda to nedopadne jako s chřipkou – potichu se smíříme s tím, že určitý počet obětí je normální součást našeho života a z boje se stane soužití.

@@ -13,7 +13,7 @@ summary_points:
 - Náklady na připojení nových bytů dosahují až 500 000 Kč na jednotku.
 - Administrativní zátěž a vícepráce výrazně prodražují stavební projekty.
 - Developerský trh je uzavřený s vysokými vstupními náklady a maržemi.
-title: "Proč je bydlení drahé? Protože nezlevnilo, že ano…"
+title: Proč je bydlení drahé? Protože nezlevnilo, že ano…
 ---
 
 Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme si věci zasadit do mírného kontextu. Článek je fakultativní a nebudete z něj mít žádný přímý užitek.

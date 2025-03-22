@@ -17,7 +17,7 @@ summary_points:
   vizi.
 - TSMC má téměř monopol na výrobu špičkových polovodičů, což může vést k vyšším cenám.
 - Monopol TSMC by mohl ohrozit začínající firmy zabývající se návrhem čipů.
-title: "\U0001F41EIntel na rozhraní: akvizice nebo konec?"
+title: \U0001F41EIntel na rozhraní -  akvizice nebo konec?
 ---
 
 Intel jsem vždycky považoval v IT za něco jako vzduch. Je všude, nemůžete bez něj být i když si ho neuvědomujete. Jenže pak přišlo AMD, post-PC éra a dnes naprostá většina čipů je non-Intel. A s tím, jak se Apple dalo na návrh vlastních procesorů a jak i Windows spustíte na ARM čipech, je hegemonie Intelu ještě řidší, než kdy dříve. Jasně, firma má hromadu aktivit, je prorostlá oborem, ale pamatujete si, jak krátkou dobu trvalo, než padla Nokia? 

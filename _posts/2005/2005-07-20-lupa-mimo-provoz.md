@@ -13,7 +13,7 @@ summary_points:
 - Hardwarová havárie způsobila dočasný výpadek serveru Lupa.
 - Internet Info usilovně pracuje na odstranění problému s Lupou.
 - Autor spekuluje o příčině výpadku a pozdním návratu ředitele.
-title: "LUPA mimo provoz"
+title: LUPA mimo provoz
 ---
 
 <p><b>Ook píše:</b>Dnes kolem půlnoci se na serveru LUPA objevila

@@ -13,7 +13,7 @@ summary_points:
 - Bílý svět.cz a A-A Elektro.cz nabízely nejnižší ceny praček Bosch.
 - Bílé zboží.cz má srovnatelné ceny s většinou konkurence u vybraných modelů.
 - Autor doporučuje Moře židlí v Praze pro nákup židlí za zajímavé ceny.
-title: "Které Bílé zboží je nejbělejší"
+title: Které Bílé zboží je nejbělejší
 ---
 
 <p>

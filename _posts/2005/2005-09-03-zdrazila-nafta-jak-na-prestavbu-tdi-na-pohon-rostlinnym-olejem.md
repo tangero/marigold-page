@@ -13,7 +13,7 @@ summary_points:
 - TDi motory lze upravit pro spalování rostlinného oleje předehřívačem kvůli viskozitě.
 - Úprava spočívá v automatickém přepínání mezi naftou (start) a olejem (provoz).
 - Autor hledá servis v ČR se zkušenostmi s přestavbami TDi na rostlinný olej.
-title: 'Zdražila nafta: jak na přestavbu TDi na pohon rostlinným olejem'
+title: Zdražila nafta -  jak na přestavbu TDi na pohon rostlinným olejem
 ---
 
 <p>Ceny pohonných hmot mne v poslední době pěkně kvasí. Nafta se vyšplhala přes třicet korun a to je ten správný moment zapřemýšlet nad alternativama, protože nafta v dlouhodobém výhledu moc dolů nepůjde. </p>

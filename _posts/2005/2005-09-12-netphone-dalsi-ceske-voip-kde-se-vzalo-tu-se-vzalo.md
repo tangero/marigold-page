@@ -13,7 +13,7 @@ summary_points:
 - Petr Styx, dříve ze Softphone.cz, stojí za NetPhone.
 - Web NetPhone je rozpracovaný, ale Marigold čtenáři mají přístup.
 - NetPhone slibuje zajímavé ceny a nadstandardní služby.
-title: "NetPhone – další české VoIP kde se vzalo tu se vzalo"
+title: NetPhone – další české VoIP kde se vzalo tu se vzalo
 ---
 
 <p>Dalším českým poskytovatelem VoIP služeb se zřejmě v brzské době stane <a href="http://www.netphone.cz/?nid=902282">NetPhone</a>. Kde se vzal, tu se vzal, spadnul do toho rovnýma nohama, říkáte si? I kdeže. Důležité je maličké jméno na konci stránky: Petr Styx. Ano, to je ten Petr Styx, který se zapleteně rozešel se <a href="http://www.softphone.cz">Softphone.cz</a>, když se s nimi nedohodl na odměnách či podílech, aby se posléze ukázalo, že celá služba běží na jeho vlastním software a nový administrátor se musel narychlo učit s Asteriskem. Což zákazníky nepotěšilo. </p>

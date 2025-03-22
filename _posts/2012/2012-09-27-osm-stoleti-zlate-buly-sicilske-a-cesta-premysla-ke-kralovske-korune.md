@@ -15,7 +15,7 @@ summary_points:
 - Fridrich II. listinou stvrzoval něco, co Přemysl již dříve získal.
 - Bula nebyla do obrození považována za zásadní dokument české historie.
 - Historiky zajímá "Mocran et Mocran" v listině, sporné určení území Moravy.
-title: "Osm století Zlaté buly Sicilské a cesta Přemysla ke královské koruně"
+title: Osm století Zlaté buly Sicilské a cesta Přemysla ke královské koruně
 ---
 
 <p> Je tomu právě osm set let, kdy notář Jindřich z Piaris vyhotovil listinu, ke které Fridrich II., vyvolený císař římanů a král Sicilie, připojil zlatou pečeť. 26. září 1212 v Basileji (tehdy ještě říšském městě) sice císařský písař vydal více listin, jen tahle jedna (respektive trojice provázaných listin) se stala symbolem české státnosti. A to ještě ke všemu spíše o dalších 700 let později, než ve své době. Fridrich totiž Přemyslovi potvrzoval něco, co už tento měl.</p>

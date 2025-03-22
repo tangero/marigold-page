@@ -13,8 +13,7 @@ summary_points:
 - Živě píše o autorádiu s WiFi, autor preferuje USB docking station.
 - MobilMania se zamýšlí nad poptávkou po novém komunikátoru Nokia.
 - Nokia ukončuje vývoj GSM v pásmech 450 a 480 MHz dle Mobil.cz.
-title: "'Drobky: WiFi autorádio, Nokia komunikátor a GSM v 450 MHz pásmu"
-  atd&#8230;'
+title: Drobky -  WiFi autorádio, Nokia komunikátor a GSM v 450 MHz pásmu atd…
 ---
 
 <p>

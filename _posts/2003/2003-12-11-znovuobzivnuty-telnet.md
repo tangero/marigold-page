@@ -13,7 +13,7 @@ summary_points:
 - Telnet.cz nyní ožívá pod DCD Publishing s podtitulem "informace pro ICT profesionály".
 - Web Telnet.cz se zaměřuje na telekomunikace a sítě, konkuruje Lupě a Mobil.cz.
 - Webu Telnet.cz chybí originální témata, interní autor a RSS kanál.
-title: "Znovuobživnutý Telnet"
+title: Znovuobživnutý Telnet
 ---
 
 <p>

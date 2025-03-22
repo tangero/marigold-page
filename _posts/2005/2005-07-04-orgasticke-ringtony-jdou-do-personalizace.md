@@ -13,9 +13,7 @@ summary_points:
 - V databázi Orgasmatones je 500 jmen, nejoblíbenější Zach, Wu a Sebastian.
 - Jeden personalizovaný orgastický tón stojí 2,5 libry a je dostupný pro britské sítě.
 - Zdrojový kód Orgasmatones umožňuje získat vyzvánění zdarma, ale kvalita zklamala.
-title: "'Orgastické ringtony jdou do personalizace"
-
-  '
+title: Orgastické ringtony jdou do personalizace
 ---
 
 <p>Obdivuju, co všechno se na mobily dá prodávat. Mým oblíbeným příkladem jsou orgastické vyzváněcí tóny, o kterých <a href="/item/orgasticke-ringtony-hitem">už jsem tu psal</a>. Nejdříve byly hitem komerčních hitparád vyzváněcích tónů, pak vznikly open-source orgasmy pro mobily, které si můžete nastavit jako své vyzvánění. </p>

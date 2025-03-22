@@ -14,7 +14,7 @@ summary_points:
 - BOINC software je základem pro výpočty projektu Predictor@Home.
 - Stávající uživatelé Predictor@Home se mohou k projektu znovu připojit.
 - Nové registrace do Predictor@Home budou možné od ledna.
-title: "Predictor@home opět žije"
+title: Predictor@home opět žije
 ---
 
 <p>

@@ -13,9 +13,7 @@ summary_points:
 - Společnost hledá JAVA programátora pro vývoj webového projektu streamingu videa.
 - Požadována výborná znalost Javy/C++, SQL, webových aplikací a ochota učit se.
 - Nabízí se zajímavá práce, výborné platové podmínky a profesní růst.
-title: "'Hledá se kolega-programátor pro vývoj streaming-videozázraku"
-
-  '
+title: Hledá se kolega-programátor pro vývoj streaming-videozázraku
 ---
 
 <p>Nerad to dělám, ale pro vlastní blaho je to potřeba: hledá se schopný Javista pro opravdu zajímavý a slušně proinvestovaný projekt projekt online videa. Ještě, než se případný zájemce začte do standardního inzerátu, bych připomněl z mého pohledu hlavní devizu téhle práce: dost zajímavá věc unikátní i v celosvětovém měřítku a navíc s velmi zajímavými lidmi okolo. </p>

@@ -13,7 +13,7 @@ summary_points:
 - Pouzdro na opasku je druhá nejčastější volba, preferuje ho 25% respondentů.
 - Taška/kabelka je třetí nejčastější místo pro mobil, s 9% hlasů.
 - Autor ankety nosí mobil v kapse a připravuje anketu o počtu vystřídaných čísel.
-title: "Kde nosíte mobil nejčastěji?"
+title: Kde nosíte mobil nejčastěji?
 ---
 
 <p>

@@ -16,7 +16,7 @@ summary_points:
 - Mapa cen piva v Praze od Jacka DeNeuta ukazuje levné pivo mimo centrum.
 - Hypotékař.cz je blog věnovaný hypotékám.
 - Shipito je nová služba pro přeposílání zboží z USA do Evropy.
-title: "Nové služby na českém internetu"
+title: Nové služby na českém internetu
 ---
 
 Občas bych zase rád zmínil zajímavé nové služby na českém internetu. Tedy to, co mne zaujalo, abych byl přesnější. Tak pojďme na to. 

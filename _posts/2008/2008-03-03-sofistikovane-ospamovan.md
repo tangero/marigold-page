@@ -15,7 +15,7 @@ summary_points:
 - Spam na Chronomagu propagoval eshop s hodinkami Guess a Wenger.
 - Komentáře byly cizelované, gramaticky chybné a psané ze stejné IP adresy.
 - Autor bude spam mazat a preferuje partnerský program pro eshopy.
-title: "Sofistikovaně ospamován"
+title: Sofistikovaně ospamován
 ---
 
 Minulý týden byl týden plný bojových událostí, nenadálých zvratů a akcí hodných pár facek. Podle toho také dopadl, nic jsem nestíhal. Už ani odpovídat na emaily. Skončilo to horečkou a ležením v posteli. A při té příležitosti jsem procházel administraci serveru a všimnul jsem si nového sofistikovaného druhu spamu v češtině. A teď trochu morálního "co s tím".

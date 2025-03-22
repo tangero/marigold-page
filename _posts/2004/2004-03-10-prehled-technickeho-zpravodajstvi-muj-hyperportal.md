@@ -13,7 +13,7 @@ summary_points:
 - Agregátor řadí články podle důležitosti analyzováním titulků.
 - Analýza titulků zohledňuje entity, akce a reaktanty v titulku.
 - Veřejná alfaverze agregátoru je dostupná na internet.marigold.cz.
-title: "Přehled technického zpravodajství – můj hyperportál ;)"
+title: Přehled technického zpravodajství – můj hyperportál ;)
 ---
 
 <p>

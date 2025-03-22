@@ -14,7 +14,7 @@ summary_points:
 - MaLér spekuluje o kampani Eurotelu a Telecomu pro službu Expres, což je společný
   brand pro CDMA a ADSL.
 - V. Janeček na Gadgets spekuluje o CDMA od Eurotelu a kritizuje mlžení.
-title: "Především CDMA a kampaň na Expres je dnes oblíbeným tématem…"
+title: Především CDMA a kampaň na Expres je dnes oblíbeným tématem…
 ---
 
 <p>

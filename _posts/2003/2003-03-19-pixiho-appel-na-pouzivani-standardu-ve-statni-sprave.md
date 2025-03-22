@@ -13,9 +13,7 @@ summary_points:
 - Proprietární formáty omezují komunikaci občanů se státní správou.
 - Podpisem výzvy lze podpořit nezávislost na komerčním softwaru.
 - Daňové přiznání by nemělo vyžadovat drahý software.
-title: "'Pixiho appel na používání standardů ve státní správě"
-
-  '
+title: Pixiho appel na používání standardů ve státní správě
 ---
 
 <p>

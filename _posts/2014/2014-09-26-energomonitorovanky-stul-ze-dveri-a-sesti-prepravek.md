@@ -16,7 +16,7 @@ summary_points:
   pracovních kapacit.
 - Firma se účastní European Utility Week v Amsterodamu, kde představí svou expozici
   energetické veřejnosti.
-title: "Energomonitorovánky: stůl ze dveří a šesti přepravek plus další novinky"
+title: Energomonitorovánky -  stůl ze dveří a šesti přepravek plus další novinky
 ---
 
 <p>Energomonitor jsme ve Valašském Meziříčí přestěhovali. Z náměstí do vily bývalého majitele skláren Salomona Reicha. Jen tak mimochodem, ve Valmezu se dá ubytovat v Reichově vile, jenže to není ta opravdová, kde bydlel, jen ji myslím vlastnil - v té, kde bydlel, sídlí teď Energomonitor.</p>

@@ -18,8 +18,7 @@ summary_points:
 - "Podpora vyd\xE1v\xE1n\xED kritick\xFDch ekonomick\xFDch knih by mohla zm\u011B\
   nit diskusi."
 thumbnail: https://demotix.com/wp-content/uploads/2021/07/Books-on-Economics.jpg
-title: ""My\u0161lenky nelze ignorovat a knihy nevyd\xE1vat. Jen\u017Ee z\xE1sadn\xED\"
-  \ knihy u n\xE1s \u010Dasto nevych\xE1zej\xED."
+title: My\u0161lenky nelze ignorovat a knihy nevyd\xE1vat. Jen\u017Ee z\xE1sadn\xED\ \ knihy u n\xE1s \u010Dasto nevych\xE1zej\xED.
 ---
 
 Před lety jsem se rozhodl doplnit si vzdělání a číst především knihy, které u nás nevyšly. Zejména o ekonomii a společnosti. Otevřely se mi uplně nové obzory. Jména, která jsem znal okrajově. Takový J. Stiglitz (Nobelova cena za ekonomii 2001). V češtině vyšly 3 knihy. Spíše ty okrajové. Jeho popularizační práce věnované ekonomii nerovnosti a globalizaci česky nejsou. David Harvery: vyšla jedna kniha, stěžejní díla jako Stručná historie neoliberalismu nebo Stav postmoderny nevyšly. Ano, je to moderní marxista, ale česky se nedozvíte, že jeho kritika současného vývoje neoliberální demokracie je zajímavá a pádná.

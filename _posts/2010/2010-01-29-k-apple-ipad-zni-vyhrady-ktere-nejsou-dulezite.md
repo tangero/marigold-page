@@ -16,9 +16,7 @@ summary_points:
 - Autor se obává omezení aplikací třetích stran, zejména e-knih.
 - Podpora titulků, regionálních klávesnic a česká lokalizace jsou nejisté.
 - Autor vidí potenciál iPadu pro čtení, úpravy dokumentů a internet.
-title: "'K Apple iPad zní výhrady, které nejsou důležité"
-
-  '
+title: K Apple iPad zní výhrady, které nejsou důležité
 ---
 
 Motto: <em>"I still can't believe this! All this hype for something so ridiculous! ... I want something new! I want them to think differently! Why oh why would they do this?! It's so wrong! It's so stupid!"</em> (komentáře k uvedení iPodu na trh v roce 2001)

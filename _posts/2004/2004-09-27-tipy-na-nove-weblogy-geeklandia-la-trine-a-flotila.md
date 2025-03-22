@@ -12,7 +12,7 @@ summary_points:
 - Geeklandia Romana Staňka nabízí netradiční pohled na technologie ze zahraničí.
 - La Trine Davida Grudla je programátorský weblog s obsahem i pro neprogramátory.
 - Flotila Země je online sci-fi povídka doporučená pro milovníky žánru.
-title: "Tipy na nové weblogy: Geeklandia, La Trine  a Flotila"
+title: Tipy na nové weblogy -  Geeklandia, La Trine a Flotila
 ---
 
 <p>

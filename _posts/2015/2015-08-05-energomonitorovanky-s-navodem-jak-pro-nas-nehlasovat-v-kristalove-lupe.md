@@ -13,8 +13,7 @@ summary_points:
 - Energomonitor má stabilní pozice v evropských trzích a vlastní hardware.
 - Firma čelí výzvám v řízení, produktu a obchodních strategiích.
 - Plánují rozšíření do Evropy a hledají další investice.
-title: "Energomonitorovánky s návodem, jak pro nás nehlasovat v Křišťálové"
-  Lupě
+title: Energomonitorovánky s návodem, jak pro nás nehlasovat v Křišťálové Lupě
 ---
 
 <p>Robert Vlach <a href="https://www.facebook.com/robertvlach.cz/posts/10153503719059808?pnref=story">na Facebooku dneska uveřejnil svoje nominace</a> na Křišťálovou Lupu 2015 a jako globální startup projekt zde dal Energomonitor. To je důvěra, která těší (a děkuju za ni), ale pokusil bych se vysvětlit ve stručnosti, proč byste nám neměli dát hlas. </p>

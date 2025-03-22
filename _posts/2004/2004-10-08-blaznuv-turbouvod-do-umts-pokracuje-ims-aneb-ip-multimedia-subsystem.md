@@ -17,7 +17,7 @@ summary_points:
 - Autor plánuje zveřejnit detailnější článek o IMS a struktuře UMTS sítě.
 - Článek o IMS je dostupný na uvedeném odkazu.
 - Zveřejnění detailního článku bude trvat kvůli jeho rozsahu a formátu.
-title: 'Bláznův turboúvod do UMTS pokračuje: IMS aneb IP Multimedia Subsystem'
+title: Bláznův turboúvod do UMTS pokračuje -  IMS aneb IP Multimedia Subsystem
 ---
 
 <p>

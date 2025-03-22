@@ -13,7 +13,7 @@ summary_points:
 - Infolinka Oskara potvrdila účtování plné ceny hovorů s následnou slevou.
 - Faktura Oskara ukazuje hovory nejprve účtované, poté s 100% slevou.
 - Autor se omlouvá za možné mylné informace o navyšování záloh.
-title: "Oskarovy zálohy 2"
+title: Oskarovy zálohy 2
 ---
 
 <p>

@@ -13,8 +13,7 @@ summary_points:
 - Eurotel CDMA rušilo TV antény kvůli špatným anténám, potvrdilo šetření.
 - Bezdrátové zvonky na frekvenci NATO by prý mohly ohrozit letadla.
 - Mainstreamová média nevěnují letu SpaceShipOne dostatečnou pozornost.
-title: "'Drobky: SpaceShipOne uspěl, ČTÚ se nelíbí podivné antény pro TV. A zazvoníte"
-  a&nbsp;spadne letadlo&#8230; :)'
+title: Drobky -  SpaceShipOne uspěl, ČTÚ se nelíbí podivné antény pro TV. A zazvoníte a spadne letadlo…  - )
 ---
 
 <p>

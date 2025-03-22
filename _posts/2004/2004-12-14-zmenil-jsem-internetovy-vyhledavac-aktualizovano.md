@@ -13,9 +13,7 @@ summary_points:
 - Požadavek na Google suggest odesílá XML dotaz po každém napsaném písmenu.
 - Froogle Wish list umožňuje vytvářet seznamy zboží z různých obchodů.
 - České firmy nevyužívají Froogle, ačkoliv je zdarma a usnadňuje expanzi.
-title: "'Změnil jsem internetový vyhledavač (aktualizováno)"
-
-  '
+title: Změnil jsem internetový vyhledavač (aktualizováno)
 ---
 
 <p>

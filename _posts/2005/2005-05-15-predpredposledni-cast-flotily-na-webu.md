@@ -13,9 +13,7 @@ summary_points:
 - Autor původně plánoval předposlední část s epilogem.
 - Délka textu autora donutila rozdělit předposlední část.
 - Autor se potýkal s obtížemi při psaní této části.
-title: "'Předpředposlední část Flotily na webu"
-
-  '
+title: Předpředposlední část Flotily na webu
 ---
 
 <p><b>Předpředposlední část povídky Flotila Země je na webu.</b> Původně jsem myslel, že to už bude opravdu předposlední a bude následovat jen epilog, ale pak už se mi to zdálo dlouhé na jednu část, takže jsem to zase rozseknul. Co se dá dělat, s touhle částí jsem se trápil zcela nechutně dlouho, protože mne ne a ne napadnout, jak to sepsat, co všechno jsem tam chtěl sepsat. </p>

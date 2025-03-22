@@ -13,7 +13,7 @@ summary_points:
 - Tutorial je přehled informací pro začátečníky o WiFi sítích.
 - Wiki obsahuje přes 100 000 znaků a bude se dále rozšiřovat.
 - Uživatelé mohou s obsahem wiki spolupracovat a doplňovat jej.
-title: "Marigoldí WiFi jest tu"
+title: Marigoldí WiFi jest tu
 ---
 
 <p>Vše se nakonec podařilo rozchodit, odchybovat - a slíbený WiFi tutorial je tu. Jmenuje se prozaicky <a href="http://www.marigold.cz/wifi">Marigoldí WiFi</a>, žádná velká invence se neočekávala. A najdete jej na adrese <a href="http://www.marigold.cz/wifi">www.marigold.cz/wifi</a>. Odkaz v horním menu nahradil již mrtvou a neudržovanou rubriku Hotspoty (těch je dost všude možně už).</p>

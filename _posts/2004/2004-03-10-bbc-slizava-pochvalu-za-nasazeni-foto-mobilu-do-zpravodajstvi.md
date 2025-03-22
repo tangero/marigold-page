@@ -13,9 +13,7 @@ summary_points:
 - Forbes chválil BBC za rychlé pokrytí nehody autobusu díky mobilnímu reportérovi.
 - BBC používala upravené Nokie 3650 a přechází na 3G telefony pro delší videa.
 - iDNES a Právo také nasadily mobily do zpravodajství, kvalita fotek se zlepšuje.
-title: "'BBC slízává pochvalu za nasazení foto-mobilů do zpravodajství"
-
-  '
+title: BBC slízává pochvalu za nasazení foto-mobilů do zpravodajství
 ---
 
 <p>

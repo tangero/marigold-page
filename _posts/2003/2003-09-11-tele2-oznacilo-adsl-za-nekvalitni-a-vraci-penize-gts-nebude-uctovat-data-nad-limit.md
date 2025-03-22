@@ -15,8 +15,7 @@ summary_points:
 - GTS nebude do konce roku účtovat data nad limit u ADSL linek.
 - ADSL v ČR je považováno za komickou službu, neodpovídá standardům vysokorychlostního
   připojení.
-title: "Tele2 označilo ADSL za nekvalitní a vrací peníze, GTS nebude účtovat data"
-  nad limit
+title: Tele2 označilo ADSL za nekvalitní a vrací peníze, GTS nebude účtovat data nad limit
 ---
 
 <p>

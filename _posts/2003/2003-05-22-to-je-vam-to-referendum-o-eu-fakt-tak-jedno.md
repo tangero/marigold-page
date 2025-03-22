@@ -13,7 +13,7 @@ summary_points:
 - Autor podporuje vstup do EU, protože se ho osobně nedotknou omezení.
 - Norma EU na banány se týká původu, norma na okurky zakřivení.
 - Autor kritizuje šíření nepravd o normách EU na ovoce a zeleninu.
-title: "To je vám to referendum o EU fakt tak jedno?"
+title: To je vám to referendum o EU fakt tak jedno?
 ---
 
 <p>

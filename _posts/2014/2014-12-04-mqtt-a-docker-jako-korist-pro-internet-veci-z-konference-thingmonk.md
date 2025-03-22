@@ -14,7 +14,7 @@ summary_points:
 - Docker, původně neznámá technologie, se díky ThingMonku posunul do mainstreamu.
 - MQTT protokol od IBM je využíván pro efektivní komunikaci mezi IoT zařízeními.
 - Británie aktivně podporuje IoT skrze vládní iniciativy pro rozvoj digitální ekonomiky.
-title: "MQTT a Docker jako kořist pro Internet věcí z konference ThingMonk"
+title: MQTT a Docker jako kořist pro Internet věcí z konference ThingMonk
 ---
 
 <p>Tento týden Michal s Vlastou a Vojtou vyrazili na akci ThingMonk do Londýna, tím je minula krásná ledovka na Moravě, ale zase si užili poněkud hackerskou akci věnovanou hlavně Internetu věcí, tedy *ajotám* - IoT. <a href="http://thingmonk.com">ThingMonk</a> je fajnová akcička mimo korportání konferenční mainstream a levotočivé inspirativní slámomlaty jako je TEDx. Zaměřuje se na *bleeding edge* technologie, což je takový překladatelský oříšek, nazval bych to technologie krev a mlíko, kdy nevíte, jestli převáží krev a na technologii vykrvácíte, nebo mléko a hezky se napapkáte. Zjednodušeně řečeno, jde o setkání lidí, kteří dělají s technologiemi tak novými, že Root o nich napíše za rok aktualitu. No a tam kluci vyrazili.</p>

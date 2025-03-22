@@ -14,8 +14,7 @@ summary_points:
 - NTT DoCoMo uvede mobil pro FOMA, UMTS/GSM sítě a roamingové smlouvy.
 - Lupa.cz publikovala článek o růstu mobilního připojení přes internet dle iAuditu.
 - MobilMania porovnává nabídku WiFi od českých operátorů, v Polsku je dražší.
-title: "'Mobildrobky: reklama z plakátu do mobilu, FOMA pro UMTS/GSM, WiFi je"
-  v&nbsp;Polsku dvakrát dražší než u&nbsp;nás&#8230;'
+title: Mobildrobky -  reklama z plakátu do mobilu, FOMA pro UMTS/GSM, WiFi je v Polsku dvakrát dražší než u nás…
 ---
 
 <p>

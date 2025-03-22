@@ -13,7 +13,7 @@ summary_points:
 - Marigold byl odstraněn ze statistik Navrcholu kvůli překročení limitu zdarma.
 - Anketa o přenosu dat z mobilu do notebooku měla 152 respondentů.
 - Překvapivě 38% respondentů používá Bluetooth pro přenos dat.
-title: "Jak používáte data z mobilu? Uzavření marigoldí anketky"
+title: Jak používáte data z mobilu? Uzavření marigoldí anketky
 ---
 
 <p>

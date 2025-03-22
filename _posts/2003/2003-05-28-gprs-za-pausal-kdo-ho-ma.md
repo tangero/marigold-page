@@ -13,7 +13,7 @@ summary_points:
 - Vodafone Maďarsko nabízí datový paušál za 400 Kč, USA má dražší možnosti.
 - Verizon USA nabízí datový paušál za 100 USD, Nextel za 55 USD s nižší rychlostí.
 - ITU článek popisuje způsoby účtování v mobilních sítích a jejich nástrahy.
-title: "GPRS za paušál – kdo ho má?"
+title: GPRS za paušál – kdo ho má?
 ---
 
 <p>

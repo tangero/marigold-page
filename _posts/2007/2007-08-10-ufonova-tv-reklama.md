@@ -13,7 +13,7 @@ summary_points:
 - Autor má rychlý internet doma, v práci i v mobilu (Nokia N95).
 - USB modem autor nechce, ale zvažuje mobil s CDMA EV-DO a vysílačkou.
 - Autor se zajímá o budoucí TV reklamu U:fona.
-title: "U:fonova TV reklama"
+title: U - fonova TV reklama
 ---
 
 U:fon začíná být vidět. Na Novodvorská plazza jsem byl v krámku, kde mají pultík s nabídkou jeho služeb. Lákalo by mne to jen tak pro tu srandu to zkusit, jenže doma mám rychlý net, v práci mám ještě rychlejší net a po cestě mám Nokia N95 s 3G od OuJé. Tedy dostatečně rychlý net na to, co ta krabička potřebuje. I tak přes 3G data protlačím pozoruhodné množství dat na to, že s tím podle mne nic moc nedělám (mírně přes 1 GB měsíčně). 

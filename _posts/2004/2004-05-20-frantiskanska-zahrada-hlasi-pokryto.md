@@ -13,7 +13,7 @@ summary_points:
 - WideNet hotspot pokrývá Františkánskou zahradu z hotelu Adria.
 - Zahrada u Václavského náměstí je oblíbená pro odpočinek a práci.
 - Františkánská zahrada je udržovaná františkány a má lavičky.
-title: "Františkánská zahrada hlásí: „Pokryto“"
+title: Františkánská zahrada hlásí -  „Pokryto“
 ---
 
 <p>

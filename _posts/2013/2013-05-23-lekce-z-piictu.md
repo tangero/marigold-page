@@ -15,7 +15,7 @@ summary_points:
 - Piictu spoluzakládal Čech Robin Raszka.
 - Piictu nemělo obchodní model, spoléhalo se na akvizici.
 - Google vytvořil podobnou aplikaci Photovine, kterou později zrušil.
-title: "Lekce z Piictu"
+title: Lekce z Piictu
 ---
 
 <p>Piictu v podstatě končí. A zavírá krám docela nesympatickým způsobem, na svém blogu lakonicky oznamuje, že kdo chcete data, máte si o ně napsat emailem. Respektive nekončí, vcucává se do jakéhosi utajeného projektu Kandu od firmy Betaworks, což je jedna ze společností, které zainvestovali Piictu v první fázi investic.</p>

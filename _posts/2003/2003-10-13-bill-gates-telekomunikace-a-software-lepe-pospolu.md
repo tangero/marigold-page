@@ -16,7 +16,7 @@ summary_points:
   služeb.
 - Microsoft představil IP TV řešení založené na Windows Media 9 pro živé vysílání
   a VOD.
-title: "Bill Gates: Telekomunikace a software – lépe pospolu"
+title: Bill Gates -  Telekomunikace a software – lépe pospolu
 ---
 
 <p>

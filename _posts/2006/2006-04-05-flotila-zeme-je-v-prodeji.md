@@ -13,7 +13,7 @@ summary_points:
 - Kniha Flotila Země obsahuje málo chyb, například chybné jméno "Adrien" místo "Adrian".
 - Autor odměnil čtenáře Marigoldí použitím jejich jmen v knize.
 - Autor děkuje Wolf Publishing, Pevnosti a čtenářům online verze za pomoc.
-title: "Flotila Země je v prodeji"
+title: Flotila Země je v prodeji
 ---
 
 <p><div class="rightbox"><img src="/wp-content/uploads/20060221-flotila_zeme.jpg" alt="Flotila Země" width="382" height="583" /></div>Tak konečně. Moje knížečka Flotila Země (původně vycházející na pokračování na Bloguje.cz) je už na stáncích trafik. Takže pokud jste na ni čekali, je to jednoduché - najdete trafiku, kde prodávají časopis Pevnost, vezmete jeho dubnovou verzi (ode dneška v prodeji) s přílohou - a skrze fólii knížku už uvidíte. Za 119 Kč dostanete časopis aj knížku, za pár měsíců bude v prodeji knížka i samotná asi za 90 Kč, takže velký rozdíl to není. </p>

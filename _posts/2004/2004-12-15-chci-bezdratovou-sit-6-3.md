@@ -13,7 +13,7 @@ summary_points:
 - Aktivní retranslace s 1 AP je levné řešení pro menší vzdálenosti.
 - Aktivní retranslace se 2 AP používá Ethernet pro propojení, nabízí vyšší rychlost.
 - Aktivní retranslace s WDS využívá WDS pro propojení, vhodné pro vícenásobné retranslace.
-title: "Chci bezdrátovou síť (6.3)"
+title: Chci bezdrátovou síť (6.3)
 ---
 
 <p>

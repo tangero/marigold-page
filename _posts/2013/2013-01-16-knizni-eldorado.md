@@ -17,7 +17,7 @@ summary_points:
 - Autor zmiňuje několik konkrétních nedokončených projektů, například Historii českého
   internetu.
 - Kvalitní editace je pro autora zásadní, ale u knihy Apple se nepodařila.
-title: "Knižní eldorádo"
+title: Knižní eldorádo
 ---
 
 <p>V publikování jsem vyzkoušel ledasco a už to by vydalo na knihu samo o sobě. Jednu věc, na kterou narážím nejčastěji, je vnitřní motivace. Závidím autorům, kteří mají svého vydavatele a editora a dostávají od něj cholerické telefonáty, kdy onen řve, že autor jest kurva, která slíbila dodat text před půl rokem a stále ani čárka, autor křičí, že v takovém kravále se nedá dělat a že už chtěl jen dopsat závěr, zatímco na obrazovce notebooku volí v iA Writeru <em>Create a new file</em>. A s chlapským <em>"jdi do prdele"</em> se oba v dobrém rozloučí. Protože tak to má být a všichni to vědí, že takto je svět v pořádku. Autorovi se dostává motivace a tlaku, vydavatel vnáší do projektu přidanou hodnotu uvážlivého project managementu založeného na úměrném užití slangu a argotu.</p>

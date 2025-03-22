@@ -15,7 +15,7 @@ summary_points:
   svolení.
 - BlueStumbler, BlueJackQ a MobilMania poskytují podrobnosti o snarfingu a bluejackingu.
 - Ericsson T68, T68i, T610, Nokia 6310i a 7650 jsou zranitelné vůči snarfingu.
-title: "Bluetooth rizika: snarfing a bluejacking"
+title: Bluetooth rizika -  snarfing a bluejacking
 ---
 
 <p>

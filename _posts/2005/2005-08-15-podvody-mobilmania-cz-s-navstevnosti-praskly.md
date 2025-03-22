@@ -13,7 +13,7 @@ summary_points:
 - GSMarena.com zobrazoval obrázky z MobilManie s jejím auditorským kódem.
 - MobilMania se falešně deklarovala čtenější než Mobil.cz díky podvodné návštěvnosti.
 - Podvod MobilManie je obchodní ostuda a systémový způsob boje s konkurencí.
-title: "Podvody MobilMania.cz s návštěvností praskly"
+title: Podvody MobilMania.cz s návštěvností praskly
 ---
 
 <p>Rychlý růst návštěvnosti MobilManie byl asi podivný všem, kdo statistiky iAuditu a další podobné sledovali. Že MobilMania nehraje nějaký ten pátek čistou hru, se dalo předpokládat a i jsem to předpokládal. Až nedávno prasklo, jak MobilMania s auditem návštěvnosti manipulovala. Článek o tom přináší Lupa.</p>

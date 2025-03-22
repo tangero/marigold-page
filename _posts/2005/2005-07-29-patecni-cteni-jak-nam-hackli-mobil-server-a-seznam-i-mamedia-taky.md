@@ -13,7 +13,7 @@ summary_points:
 - Texty byly původně psány pro interní účely a pobavení v roce 2001.
 - Autor se omlouvá za případné nepřesnosti a neaktuálnost citací.
 - Čtenáři se mohou těšit na příběh o hacknutí Mobil serveru.
-title: "Páteční čtení: jak nám hackli Mobil server (a Seznam i MaMedia taky)"
+title: Páteční čtení -  jak nám hackli Mobil server (a Seznam i MaMedia taky)
 ---
 
 <p>Na pátek už tradičně chystám vzpomínkové příběhy, jak jsme začínali podnikat na internetu. Rád bych poprosil o malou shovívavost při jejich čtení, tohle už jsou části, které jsem psal kdysi pro interní potřebu a pobavení pár lidí, kteří znali historii Mobil serveru a chtěli si ji připomenout. Aby to byl seriosní text, musel bych do toho hodně sahat a přepisovat, což se mi teď nechce. </p>

@@ -12,7 +12,7 @@ summary_points:
 - 'Hurghada: Hassan Adly postavil WiFi linku 1 km/2 Mbps za pár dolarů.'
 - Apple představil AP a notebooky s podporou 802.11g (WiFiG?).
 - a a 802.11g jsou dle Intersilu obdobné, dualband je budoucnost.
-title: "Konkrétní realizace bezdrátové linky (v Egyptě)"
+title: Konkrétní realizace bezdrátové linky (v Egyptě)
 ---
 
 <p>

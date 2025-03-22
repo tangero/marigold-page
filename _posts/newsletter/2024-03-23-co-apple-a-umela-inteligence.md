@@ -17,7 +17,7 @@ summary_points:
 - Apple jedná s Google o využití modelu Gemini v zařízeních Apple, například v iOS
   18.
 - iOS 18 integruje AI do Siri, Apple Music, Pages, Xcode, Spotlight, Health a Zpráv.
-title: "\U0001F34E Co Apple a umělá inteligence?"
+title: \U0001F34E Co Apple a umělá inteligence?
 ---
 
 Společnost Apple provedla v poslední době několik zajímavých a pro budoucnost důležitých obratů, u kterých stojí za to se zastavit. Tak především zřejmě poslala k vodě projekt automobilu. Spálila na něm miliardu dolarů, zlanařila spoustu lidí a stejně to nevedlo k ničemu, co by firmu uspokojilo. Lidi z projektu autonomního vozu přesunula do AI. 

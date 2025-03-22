@@ -13,7 +13,7 @@ summary_points:
 - Volání mezi prvním a druhým mobilem je zpoplatněno dle tarifu uživatele.
 - Placené verze EpyxMobile umožňují i přijímání hovorů ze Skype sítě.
 - Autor považuje řešení EpyxMobile za nepraktické a složité.
-title: 'EpyxMobile: telefonování přes Skype mobilem (složitě)'
+title: EpyxMobile -  telefonování přes Skype mobilem (složitě)
 ---
 
 <p>Telefonovat z mobilu zdarma přes Skype láká, jenže kromě PockePC PDA vybavených WiFi a GSM je to zatím jen utopie. Tedy skoro. Na trh přichází nová aplikace nazvaná <a href="http://www.epyxmobile.com">EpyxMobile</a>, která toto umožní. Bohužel dost složitě na to, aby mne to otrávilo. </p>

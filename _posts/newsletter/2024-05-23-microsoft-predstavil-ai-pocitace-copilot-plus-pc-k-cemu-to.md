@@ -20,7 +20,7 @@ summary_points:
 - Analýza Recall probíhá lokálně na počítači, což má zajistit bezpečnost dat.
 - Existují obavy ohledně soukromí a bezpečnosti dat funkce Recall, vzhledem k historii
   Microsoftu.
-title: 'Microsoft představil AI počítače: Copilot Plus PC! K čemu to?'
+title: Microsoft představil AI počítače -  Copilot Plus PC! K čemu to?
 ---
 
 Další květnová novinka je znovu navázaná na AI. Microsoft představil své AI počítače Copilot Plus PC. Sice tak učinil pár dní po představení nových Ipadů vybavený AI procesory, takže to svádí k prohlášení, že tak Microsoft jen reaguje na to, co udělalo Apple. Jenže minimálně podle vzhledu má Microsoft celou integraci dobře promyšlenou a je v ní významně dále, než co jsme viděli od Apple v polovině května. Nechci přitom zpochybňovat výkonnost produktového oddělení Microsoftu, ale neřekl bych, že tohle spíchli za ten týden. 

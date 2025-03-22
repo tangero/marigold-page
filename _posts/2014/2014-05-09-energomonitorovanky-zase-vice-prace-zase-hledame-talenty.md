@@ -16,7 +16,7 @@ summary_points:
 - Hledají systémového administrátora, vývojáře frontendu, UX/UI designéra a projektového
   manažera.
 - Platové ohodnocení závisí na schopnostech, preferují spolehlivost a samostatnost.
-title: 'Energomonitorovánky: zase více práce, zase hledáme talenty'
+title: Energomonitorovánky -  zase více práce, zase hledáme talenty
 ---
 
 Mám z toho občas depresi. Libovolné množství lidí jsme do firmy schopni pohltit. Vždycky si exaktně spočítáme, co kdo bude dělat a ono se zase najde další a další práce. 

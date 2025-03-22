@@ -13,9 +13,7 @@ summary_points:
 - Akce zahrnuje přednášky o bezdrátovém broadbandu a novinkách, včetně U:fon.
 - Tomáš Kapler shrne vývoj bezdrátů a jejich konkurenceschopnost.
 - Pro vážné zájemce z telco firem je k dispozici 14 volných vstupenek.
-title: "'14 volných vstupenek na bezdrátové Broadband Monday"
-
-  '
+title: 14 volných vstupenek na bezdrátové Broadband Monday
 ---
 
 <p>Příští pondělí pořádá TUESDAY Business Network akci s všeříkajícím názvem <a href="http://tuesday.cz/detailAkce.aspx?id=299">Broadband jde i bez drátů, milí uživatelé</a>. Tématem tedy budou bezdrátové sítě (nejen WiFi). Program akce je následující:</p>

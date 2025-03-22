@@ -13,7 +13,7 @@ summary_points:
 - WordPress je odzkoušený, ale autor se zdráhá k němu přejít z Blog:CMS.
 - PublicSquare je testovaný systém pro spolupráci, ale má omezení instalace.
 - Stream má prioritu, takže vývoj Marigolda se zpomalí, i přes nový design.
-title: "Spam prorazil až na titulku"
+title: Spam prorazil až na titulku
 ---
 
 <texy><p>Ach jo. Přísun spamu na Marigolda neustává a včera se jeden probojoval dírou v systému až na titulní stránku mezi články. Co naplat, mea culpa. </p>

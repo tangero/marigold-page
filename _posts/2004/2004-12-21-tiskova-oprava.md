@@ -13,7 +13,7 @@ summary_points:
 - InWifi má zobrazený stav zásob, ale méně zřetelný než Wifi shop.
 - SMS potvrzování objednávek je novinka, kterou ostatní obchody nemají.
 - InWifi nabízí slevy, rychlé dodání, individuální komunikaci a další výhody.
-title: "Tisková oprava"
+title: Tisková oprava
 ---
 
 <p>

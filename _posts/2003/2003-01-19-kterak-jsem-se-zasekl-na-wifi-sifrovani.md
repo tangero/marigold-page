@@ -13,7 +13,7 @@ summary_points:
 - Článek o WiFi bezpečnosti bude přepracován a vydán později.
 - Tento týden bude zveřejněna recenze broadband routerů.
 - Autor se omlouvá za nedodržení víkendové tradice rozsáhlého článku.
-title: "Kterak jsem se zasekl na WiFi šifrování…"
+title: Kterak jsem se zasekl na WiFi šifrování…
 ---
 
 <p>

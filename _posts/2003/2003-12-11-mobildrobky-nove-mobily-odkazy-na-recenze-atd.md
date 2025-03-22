@@ -13,7 +13,7 @@ summary_points:
 - TechWorthy porovnává Motorola MPx200 a Samsung SCH-i600 mobily.
 - Mobil.cz informuje o inovovaných telefonech Alcatel 536 a 736.
 - FingerWhisper od NTT DoCoMo přenáší zvuk chvěním kosti do ucha.
-title: 'Mobildrobky: nové mobily, odkazy na recenze atd'
+title: Mobildrobky -  nové mobily, odkazy na recenze atd
 ---
 
 <p>

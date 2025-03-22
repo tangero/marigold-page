@@ -14,7 +14,7 @@ summary_points:
   akcií.
 - Musk snižuje cenu Twitteru, využívá poklesu akcií Tesly a vyjednává s investory.
 - V Twitteru panuje nejistota, propouští se vedoucí pracovníci a situace je nestabilní.
-title: 'Musk a Twitter: nedůstojná komedie'
+title: Musk a Twitter -  nedůstojná komedie
 ---
 
 Tady je ještě spousta dění. Ještě jednou to zopakuju: Musk zatím stále Twitter NEKOUPIL. Jen počátkem měsíce představenstvo společnosti schválilo a doporučilo akcionářům jeho nabídku odkupu akcií, je teď ale na akcionářích, zda akcie prodají. A já jsem stále na silných pochybách, že Musk Twitter ve skutečnosti koupí. Nebo rozhodně ne za podmínek, které se publikovaly. 

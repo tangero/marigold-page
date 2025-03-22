@@ -13,9 +13,7 @@ summary_points:
 - WiMAX standard 802.16a má dosah 50 km a rychlost až 70 Mbps.
 - WiMAX technologie je aktuálně výrazně dražší než WiFi pro koncové uživatele.
 - WiMAX očekává pokles cen a hledá volné bezlicenční pásmo pro provoz.
-title: "'Velikáni se spojují pro broadbadn metropolitní sítě na 802.16a"
-
-  '
+title: Velikáni se spojují pro broadbadn metropolitní sítě na 802.16a
 ---
 
 <p>

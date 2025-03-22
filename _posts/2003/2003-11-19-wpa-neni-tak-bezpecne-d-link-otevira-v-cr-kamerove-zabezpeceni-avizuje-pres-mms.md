@@ -13,8 +13,7 @@ summary_points:
 - D-Link otevřel 1. listopadu 2003 regionální zastoupení v Praze.
 - MRP nabízí videokamerový systém, který zasílá fotografie jako MMS zprávy.
 - MRP firma jménem připomíná prvního českého spamera.
-title: "WPA není tak bezpečné, D-Link otevírá v ČR, kamerové zabezpečení avizuje"
-  přes MMS
+title: WPA není tak bezpečné, D-Link otevírá v ČR, kamerové zabezpečení avizuje přes MMS
 ---
 
 <p>

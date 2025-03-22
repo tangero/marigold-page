@@ -13,8 +13,7 @@ summary_points:
 - Gotika je pro románský sloh zlepšením, podobně jako Web 2.0 pro Web 1.0.
 - Parléř nadchnul Karla IV. pro gotickou katedrálu, posunul tak české stavebnictví.
 - Web 2.0 bude historiky vnímán jako etapa, stejně jako gotika v umění.
-title: "Proč mi Michal Bláha chtěl vzít gotiku a jaký je její vztah k Webu"
-  2.0
+title: Proč mi Michal Bláha chtěl vzít gotiku a jaký je její vztah k Webu 2.0
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20060930-90px-Saint_Vitus_Cathedral_in_Prague.jpg" alt="Katedrála svatého Víta" width="90" height="120" /></div><p><a href="http://blog.vyvojar.cz/michal/articles/9318.aspx">Michal Bláha se zakousl do mého článku</a> věnovaného Webu 2.0 a jal se ho cupovat, až skončil závěrem, že Web 2.0 není žádná nová etapa, ale jen buzzword, jakých tu už hromada byla a hromada bude. Je to přirozený vývoj aplikací, říká Michal Bláha. A já s ním nejsem v zásadě ve sporu. Web 2.0 je opravdu přirozeným vývojem a to bez ohledu na to, že vývoj mohl pokračovat jinou cestou. Není sporu o tom, že pojem Web 2.0 je často používáno jako buzzwords za účelem vytáhnutí peněz z kapes investorů. Ale přes to všechno je to, co označujeme za Web 2.0 novou etapou ve vývoji internetu. </p>

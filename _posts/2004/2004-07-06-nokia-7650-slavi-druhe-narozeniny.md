@@ -13,7 +13,7 @@ summary_points:
 - Chytré telefony se vyvinuly, ale kvalita fotografií se výrazně nezlepšila.
 - Chytré telefony se prosazují v business třídě, ale pomalu u běžných uživatelů.
 - Technologie nejprve zaujmou "early adopters", poté se prosazují obtížněji.
-title: "Nokia 7650 slaví druhé narozeniny"
+title: Nokia 7650 slaví druhé narozeniny
 ---
 
 <p>

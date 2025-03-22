@@ -12,9 +12,7 @@ summary_points:
 - GTS dříve kritizována za neposkytování ADSL na své síti v Praze.
 - GTS na Invexu představí vlastní verzi ADSL jako alternativu k Telecomu.
 - Tomáš Budník z GTS zdůrazňuje potenciál vysokorychlostního internetu v ČR.
-title: "'GTS bude mít vlastní ADSL. To jsem zvědav!"
-
-  '
+title: GTS bude mít vlastní ADSL. To jsem zvědav!
 ---
 
 <p>

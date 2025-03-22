@@ -13,7 +13,7 @@ summary_points:
 - JellySpot je klientský program pro telefony Nokia Series 60.
 - JellySpot posílá data do telefonu přes Bluetooth ze serveru.
 - Autor pochybuje o komerční uplatnitelnosti technologie JellySpot.
-title: "Nokia launčovala 3650 a hned jedna legrácka s bluetooth"
+title: Nokia launčovala 3650 a hned jedna legrácka s bluetooth
 ---
 
 <p>

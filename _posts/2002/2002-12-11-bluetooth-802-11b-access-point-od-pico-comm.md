@@ -11,7 +11,7 @@ summary_points:
 - PicoBlue II umožňuje surfování přes PDA bez nutnosti WiFi žaketu.
 - Firma Pico Communications se specializuje na Bluetooth podporu pro PalmOS.
 - Marigold oceňuje duální APčko od Pica jako zajímavou vychytávku.
-title: "Bluetooth/802.11b access point od Pico Comm."
+title: Bluetooth/802.11b access point od Pico Comm.
 ---
 
 <p>

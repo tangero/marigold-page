@@ -13,8 +13,7 @@ summary_points:
 - Cihlová zástavba vyžaduje hlubokou kapsu, zjistili kupující.
 - Rezervace bytu způsobila zmatek kvůli volání na různé pobočky.
 - Vreco řešil rychlost internetu jako hlavní starost s novým bytem.
-title: "Nakupuje se byt a nákupní horečka stoupá…a bude i WiFi"
-  :)
+title: Nakupuje se byt a nákupní horečka stoupá…a bude i WiFi  - )
 ---
 
 <p>

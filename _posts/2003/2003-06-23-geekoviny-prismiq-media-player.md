@@ -13,7 +13,7 @@ summary_points:
 - Podporované formáty zahrnují DivX, MPEG 1,2,4 a MP3, přehrávané na televizi.
 - Cena Prismiqu je 250 USD, WiFi karta se dokupuje zvlášť.
 - Prismiq postavený na Linuxu nemá interní disk pro nahrávání pořadů.
-title: 'Geekoviny: Prismiq Media Player'
+title: Geekoviny -  Prismiq Media Player
 ---
 
 <p>

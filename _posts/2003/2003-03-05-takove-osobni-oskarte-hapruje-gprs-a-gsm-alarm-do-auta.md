@@ -13,7 +13,7 @@ summary_points:
 - Oskarta GPRS se ukázala jako nespolehlivá alternativa k tarifnímu GPRS.
 - Autor hledá GSM pager pro lokalizaci polohy auta kvůli krádežím.
 - Zajímají ho osobní zkušenosti s lokalizačními zařízeními do auta.
-title: "Takové osobní: Oskartě hapruje GPRS a GSM alarm do auta"
+title: Takové osobní -  Oskartě hapruje GPRS a GSM alarm do auta
 ---
 
 <p>

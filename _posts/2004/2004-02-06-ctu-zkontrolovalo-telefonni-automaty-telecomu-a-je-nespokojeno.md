@@ -13,7 +13,7 @@ summary_points:
 - Displeje VTA v Praze a krajích informují o zjištění cen na čísle 800123456.
 - Informace o cenách na čísle 800123456 je poskytnuta až po 10-30 vteřinách hovoru.
 - Český telekomunikační úřad zahájil cenovou kontrolu společnosti ČESKÝ TELECOM, a.s.
-title: "ČTÚ zkontrolovalo telefonní automaty Telecomu a je nespokojeno"
+title: ČTÚ zkontrolovalo telefonní automaty Telecomu a je nespokojeno
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
 - Český trh by těžko uživil kvalitní odbornou knihu s odpovídajícím honorářem pro
   autora.
 - Autor vtipně doporučuje drahou výbavu do koupelny jako tip na dárek.
-title: "Knížky… drahé, jenže co nadělám…"
+title: Knížky… drahé, jenže co nadělám…
 ---
 
 <p>

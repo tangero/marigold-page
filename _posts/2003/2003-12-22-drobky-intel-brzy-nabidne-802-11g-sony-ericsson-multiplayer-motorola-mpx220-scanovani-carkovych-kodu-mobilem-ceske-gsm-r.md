@@ -13,8 +13,7 @@ summary_points:
 - Sony Ericsson propaguje multiplayer hry Terraplay Move, konkurence pro Nokia N-Gage.
 - ScanBuy představil ScanZoom, aplikaci pro čtení čárových kódů fotoaparátem telefonu.
 - Dráhy mají dlouhodobé problémy s výběrem GSM-R sítě pro železniční dopravu.
-title: "'Drobky: Intel brzy nabídne 802.11g, Sony Ericsson multiplayer, Motorola MPx220,"
-  scanování čárkových kódů mobilem, české GSM-R.'
+title: Drobky -  Intel brzy nabídne 802.11g, Sony Ericsson multiplayer, Motorola MPx220, scanování čárkových kódů mobilem, české GSM-R.
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Podcasty umožňují automatické stahování MP3 do smartphonů.
 - Operátoři by mohli Skookum nabízet pro zvýšení datové spotřeby.
 - Operátoři omezují přenos dat do PC mimo mobilní sítě.
-title: "Skookum aneb podcast pro Windows Mobile a vůbec o podcastu"
+title: Skookum aneb podcast pro Windows Mobile a vůbec o podcastu
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20050422-Skookum.jpg" alt="Skookum" width="178" height="222" /></div>Mobilní telefony vybavené microsoftím operačním systémem Windows Mobile nyní mohou být dovybaveny zajímavým kouskem software. Program se jmenuje Skookum a jde o klienta pro podcast. Tímto programem se můžete přihlásit k odběru podcastových zpráv a automaticky si je stahovat přes připojený počítač nebo přes mobilní síť. Skookum stojí 10 USD, <a href="http://www.smartphone.net/software_detail.asp?id=1401&amp;associateid=280">ku koupi zde</a>.</p>

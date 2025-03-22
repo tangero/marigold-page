@@ -14,7 +14,7 @@ summary_points:
 - Pozemek v Holotíně má nízkou odhadní cenu a leží daleko od Prahy.
 - Na pozemku hospodaří cizí lidé, kteří si tam vysázeli sad a pěstovali brambory.
 - Autor se rozhodl na pozemku vybudovat skládku jaderného odpadu.
-title: "Dědictví aneb …"
+title: Dědictví aneb …
 ---
 
 <p>

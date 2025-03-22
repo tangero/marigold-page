@@ -13,7 +13,7 @@ summary_points:
 - SANET ostře kritizuje problémy s novým slovenským systémem registrace domén.
 - Magazín Prielom odhalil úspěšný útok na původní slovenský systém registrace.
 - Česká migrace na nový systém registrace domén probíhá bez zájmu veřejnosti.
-title: "V doméně .SK to vře"
+title: V doméně .SK to vře
 ---
 
 <p>

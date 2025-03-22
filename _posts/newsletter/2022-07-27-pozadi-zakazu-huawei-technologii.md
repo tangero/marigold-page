@@ -19,7 +19,7 @@ summary_points:
   vojenskou komunikaci.
 - Čínské firmy jsou povinny pomáhat vládě, což vyvolává obavy o bezpečnost čínských
   technologií.
-title: "Pozadí zákazu Huawei technologií"
+title: Pozadí zákazu Huawei technologií
 ---
 
 Minulý týden přineslo CNN rozsáhlou reportáž o pozadí mnoho let probíhajícího zátahu na čínskou technologickou infrastrukturu v amerických sítích. Konkrétně se článek týkal nejviditelnějšího problému, Huawei. Ostatně, stopku má Huawei i v Česku a nese to velmi nelibě. Prostřednictvím svých nastrčených ambasadorů říká, že k tomu není žádný důvod ani důkaz. Takže se podívejme na některé pasáže ze článku CNN nazvaného [Vyšetřování FBI zjistilo, že zařízení Huawei vyrobené v Číně by mohlo narušit komunikaci amerického jaderného arzenálu](https://edition.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/).

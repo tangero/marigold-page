@@ -16,7 +16,7 @@ summary_points:
   konce.
 - Cílem je zjistit náklady a práci s vydáním e-knihy bez DRM ochrany.
 - Autor chce zjistit prodejnost a míru "rozkrádání" e-knih.
-title: "Pokus zvaný Koncernová pětiletka"
+title: Pokus zvaný Koncernová pětiletka
 ---
 
 <p>Je to socialistický závazek pro letošek. Vyzkoušet elektronické knihy, povrtat se v jejich vydávání, udělat s tím zkušenosti. Přestat teoretizovat, vyzkoušet, spočítat, vyhodnotit. Myšlenková poznámka <a href="/kolik-by-mela-stat-digitalni-knizka-bez-drm-a">stran toho je zde</a>.</p>

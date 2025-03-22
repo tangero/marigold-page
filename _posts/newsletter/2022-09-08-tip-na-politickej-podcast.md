@@ -11,7 +11,7 @@ summary_points:
 - Štěpán Ryšavý a jeho Programy do voleb zmíněny s odkazem na komunální volby.
 - Autor hledá tipy na méně známé podcasty mimo velká mediahousu.
 - Newsletter byl rozeslán na 2 453 odběratelů.
-title: "Tip na Politickej podcast"
+title: Tip na Politickej podcast
 ---
 
 Zvyknul jsem si při běhání poslouchat podcasty a tak je tu jeden tip na méně známý [Politickej podcast](https://www.politickejpodcast.cz) Adama Blišťana. Méně známí, ale zajímaví hosté, fajn formát a délka přesně na běhání. Dejte si třeba [rozhovor se Štěpánem Ryšavým](https://www.politickejpodcast.cz/post/politickej-podcast-stepan-rysavy), který dělá přehled volebních programů Programy do voleb - tady se mrkněte, co třeba [má o komunálkách v našem Brandýse-Boleslavi](https://2022.programydovoleb.cz/obec/538094-brandys-nad-labem-stara-boleslav). 

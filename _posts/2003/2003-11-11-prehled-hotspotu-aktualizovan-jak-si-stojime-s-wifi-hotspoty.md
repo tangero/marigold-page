@@ -13,7 +13,7 @@ summary_points:
 - Celkem databáze obsahuje 178 hotspotů, nejvíce jich má Eurotel (62).
 - Eurotel se zaměřuje na pokrytí WiFi v rezidenčních oblastech u Prahy.
 - CzFree hotspoty v databázi jsou ty, které se do ní samy zapsaly.
-title: "Přehled hotspotů aktualizován – jak si stojíme s WiFi hotspoty?"
+title: Přehled hotspotů aktualizován – jak si stojíme s WiFi hotspoty?
 ---
 
 <p>

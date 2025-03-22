@@ -13,7 +13,7 @@ summary_points:
 - Čtyři náhledy obrázků (thumb) jsou zobrazeny s rozměry 350x262 pixelů.
 - Kliknutím na náhled lze obrázek zvětšit do okna 1280x960 pixelů.
 - Názvy obrázků obsahují datum 10022006, 13022006, 14022006 a 15022006.
-title: "Pár fotek z 3Gsm"
+title: Pár fotek z 3Gsm
 ---
 
 <p>Jen tak co se našlo...

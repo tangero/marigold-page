@@ -13,9 +13,7 @@ summary_points:
 - iAudit umožňuje srovnání webů podle stejných kritérií.
 - Více zapojených weblogů umožní porovnat vliv s mainstreamovými médii.
 - Rony a CubSEO již o nabídce iAuditu informovali.
-title: "'iAudit to myslel se zdarma auditem weblogů vážně"
-
-  '
+title: iAudit to myslel se zdarma auditem weblogů vážně
 ---
 
 <p>Když jsem tu nedávno psal o auditovaném Marigoldovi v iAuditu, nabídl zde Tomáš Urbánek z iAuditu možnost vytvořit <a href="/item/auditovany-marigold#comment3180">audit pro weblogy zdarma</a>. Nějak mi to uteklo a zapoměl jsem na to, ale když jsem se dneska díval do iAuditu, tak už to visí jako <a href="http://www.iaudit.info/v3/?country=CZ&amp;lang=&amp;op=&amp;id=&amp;subid=&amp;newsid=124#124">oficiální nabídka na stránkách iAuditu</a>. </p>

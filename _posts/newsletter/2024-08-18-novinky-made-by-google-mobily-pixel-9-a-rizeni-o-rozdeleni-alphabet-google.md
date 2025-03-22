@@ -16,7 +16,7 @@ summary_points:
   Google Photos.
 - Pixel Watch 3 přichází s větší variantou a novou funkcí detekce pulzu.
 - Gemini Live je nová funkce hlasového chatu pro komunikaci s AI asistentem.
-title: "\U0001F4F1Novinky Made by Google: mobily Pixel 9 a řízení o rozdělení Alphabet/Google"
+title: \U0001F4F1Novinky Made by Google -  mobily Pixel 9 a řízení o rozdělení Alphabet/Google
 ---
 
 Jsou to dvě věci, které nesouvisí, ale propojuje je jméno Google, respektive mateřské společnosti Alphabet. Začneme novými mobily, jestli vás nezajímají, přeskočte dále - ta hrozba antimonopolního řízení gradující do nuceného rozdělení společnosti je důležitá!

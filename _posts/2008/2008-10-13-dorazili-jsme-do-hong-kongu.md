@@ -16,7 +16,7 @@ summary_points:
 - Smog v Hong Kongu snižuje viditelnost mrakodrapů.
 - Mrakodrap AIG v Hong Kongu svítí i v neděli kvůli krizi.
 - Autor si v Hong Kongu koupil nový fotoaparát Nikon D90.
-title: "Dorazili jsme do Hong Kongu"
+title: Dorazili jsme do Hong Kongu
 ---
 
 Tak jsme v pátek dorazili do Hong Kongu, ale práce tu bylo neúrekom, navíc jsme nemohli najít internet. Všechen je tu placený a těmi povětšinou čínsky psanými návody, jak ho zaplatit, není lehké se prokousat. Dneska už jsme to nevzdali, zaplatili si asi 40 Kč za denní připojení, které je dostupné na hromadě míst v Hong Kongu a vyřizujeme práci. Na hotelu bychom tytéž peníze dali za čtvrt hodiny, tfujho, pěkně to nacenili. 

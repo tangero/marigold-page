@@ -14,7 +14,7 @@ summary_points:
 - Konfigurace OSPF provedena, dynamické směrování funkční, připraveno na zakruhování
   topologie.
 - ČD-Telekomunikace nabízí metalickou trasu pro páteřní síť, řeší se kvalita a zdroje.
-title: "Story o sousedských sítích (11.)"
+title: Story o sousedských sítích (11.)
 ---
 
 <p>

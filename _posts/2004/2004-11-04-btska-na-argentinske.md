@@ -13,7 +13,7 @@ summary_points:
 - Kabel od antény BTS vede do oken bytu v budově.
 - Autor spekuluje o snížení nájmu výměnou za BTS v bytě.
 - Fotografie ukazuje BTS vedle billboardu na budově.
-title: "BTSka na Argentinské"
+title: BTSka na Argentinské
 ---
 
 <p>

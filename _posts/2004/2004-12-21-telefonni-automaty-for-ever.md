@@ -13,7 +13,7 @@ summary_points:
 - Zpráva ČTK uvádí povinné úpravy telefonních automatů pro handicapované.
 - Autor vidí v úpravách automatů maskované obcházení zákona o zakázkách.
 - Telefonní automaty jsou v době mobilů zbytečná finanční zátěž.
-title: "Telefonní automaty for ever"
+title: Telefonní automaty for ever
 ---
 
 <p>

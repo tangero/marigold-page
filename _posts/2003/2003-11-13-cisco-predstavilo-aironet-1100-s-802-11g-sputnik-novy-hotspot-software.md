@@ -13,7 +13,7 @@ summary_points:
 - Aironety od Cisca podporují WPA, ale AES bude deaktivován do standardizace 802.11i.
 - Sputnik představil verzi 2 software pro management hotspotů za 895 USD.
 - Sputnik software podporuje max. 20 AP od Actiontec.
-title: "Cisco představilo Aironet 1100 s 802.11G, Sputnik nový hotspot software"
+title: Cisco představilo Aironet 1100 s 802.11G, Sputnik nový hotspot software
 ---
 
 <p>

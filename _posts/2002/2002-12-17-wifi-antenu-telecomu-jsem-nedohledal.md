@@ -14,7 +14,7 @@ summary_points:
 - Telecom plánuje WiFi hotspoty v lukrativních lokalitách jako hotely a letiště.
 - Pilotní projekt WiFi v Telepointech testoval rychlost objednávek a nasazení techniků.
 - Test pokrytí na Technetu ukazuje dosah WiFi Telecomu cca 10 metrů.
-title: "WiFi Anténu Telecomu jsem nedohledal"
+title: WiFi Anténu Telecomu jsem nedohledal
 ---
 
 <p>

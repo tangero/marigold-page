@@ -13,7 +13,7 @@ summary_points:
 - Nové Corinex adaptéry podporují UPA standard a dosahují rychlosti až 200 Mb/s.
 - Corinex AV Powerline Ethernet Adapter je název nových adaptérů s vyšší rychlostí.
 - Autor zatím neplánuje upgrade, nové adaptéry se v ČR ještě neprodávají.
-title: "Corinex nabízí 200 Mb/s po elektrickém vedení"
+title: Corinex nabízí 200 Mb/s po elektrickém vedení
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20050321-corinex200.jpg" alt="Corinex až o rychlostech 200 Mb/s" width="270" height="122" /></div>Mám doma adaptéry Corinexu přenášející po elektrickém vedení ethernet až o rychlosti do 14 Mb/s a jsem s nimi spokojen. Nyní přichází Corinex s novinkou, adaptéry pro rychlosti až 200 Mb/s podporujícími nový standard UPA. Jmenují se Corinex AV Powerline Ethernet Adapter. </p>

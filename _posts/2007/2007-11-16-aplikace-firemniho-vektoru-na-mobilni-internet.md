@@ -15,9 +15,7 @@ summary_points:
 - Technicky orientovaní lidé často podceňují vliv vnitrofiremních sil na výsledné
   produkty.
 - Mobilní operátoři ztratili iniciativu a reagují na trh, O2 ustupuje s nabídkou zdarma.
-title: "'Aplikace firemního vektoru na mobilní internet"
-
-  '
+title: Aplikace firemního vektoru na mobilní internet
 ---
 
 O2 zkouší další <a href="http://zdarmavmobilu.o2active.cz/">lákavou nabídku</a>. Přístup na mobilní portál O2 Active mají zákazníci zdarma, tedy většina stránek, která byla doposud placená, bude napříště gratis. Ne nějak přechodně, ale dlouhodobě. Placené zůstává stahování obsahu typu loga a hry a pak také erotika. Zdarma jsou i datové přenosy skrze WAP na GPRS, pokud někdo ještě používá vytáčené spojení, má zdarma pět minut, pak platí kačku za minutu. 

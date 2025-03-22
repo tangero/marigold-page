@@ -16,9 +16,7 @@ summary_points:
 - Bezdrátový broadband nahradí ADSL a kabelové technologie, podobně jako mobily nahradily
   pevné linky.
 - Mobilní data budou dražší a méně kvalitní než pevné, ale s nálepkou "on the move".
-title: "'Přinášíme vám exkluzivní překlad myšlenek Aruna Sarina"
-
-  '
+title: Přinášíme vám exkluzivní překlad myšlenek Aruna Sarina
 ---
 
 <p>Do diskuse i ke mně do emailu dorazilo několik připomínek, že <a href="http://www.mobilring.cz/component/option,com_mbr_content/task,view/id,228/category,operatori/">Arun Sarin na snídani s novináři pouze plytce plkal</a>. Nechápal jsem, jak to někdo může říci. Prohlášení mi přišla jasná a zásadní. Až o víkendu jsem si uvědomil, že čtenářstvo zřejmě nemá tu zkušenost s překladem z business new(s)speak, takže skutečně mohou některá vyjádření působit plytce. Myslím, že nejlepší kurz je praxí, takže pojďme si rovnou přeložit několik nejzajímavějších myšlenek. Uvidíte, proč se business newspeak používá - je stručnější, jednoznačnější, elegantnější, stylovější a spisovnější - a co více, je přístupný jen zasvěcencům ;)</p>

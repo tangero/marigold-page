@@ -13,7 +13,7 @@ summary_points:
 - Uživatelé nahrávají obsah na web FoneShare přes formulář, nikoliv přímo z mobilu.
 - Stahování probíhá přes WAP PUSH zprávu s URL adresou souboru.
 - Autor považuje FoneShare za nepraktické a vzdálené pravému P2P sdílení.
-title: "FoneShare mi přijde jako pěkná ptákovina a ne první P2P"
+title: FoneShare mi přijde jako pěkná ptákovina a ne první P2P
 ---
 
 <p>

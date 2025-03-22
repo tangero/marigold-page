@@ -13,7 +13,7 @@ summary_points:
 - Pětice lidí s problémy se v Pekle fyzicky připravuje na zápas v thajském boxu.
 - Thajský box byl vybrán pro svou náročnost a nemožnost podvádění.
 - Peklo s Landou má krátké, dynamické díly a sleduje se na peklo.stream.cz.
-title: 'Stream otevřel brány Pekla: první vstoupí Daniel Landa'
+title: Stream otevřel brány Pekla -  první vstoupí Daniel Landa
 ---
 
 Musím se cvičit v bulvárních titulcích, takže mi odpusťte tuhle nadpisovou přípravu. Dnes večer spouštíme na Streamu projekt <a href="http://peklo.stream.cz">Peklo s Landou</a>, což je ten pořad, na který jsem někdy v červnu chtěl nakupovat reklamu v momentě, kdy jsem znejistil, zda ho budeme mít jak propagovat. Máme, naštěstí. 

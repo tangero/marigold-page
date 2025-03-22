@@ -14,7 +14,7 @@ summary_points:
 - Lan-o-Vision umožňuje sdílení filmů po lokální síti, streamování, nikoliv stahování.
 - Plasticbag server pojednává o socioware pro televizi a set-top boxy, sdílení preferencí.
 - Článek o socioware pro TV je inspirativní, ale pro český trh možná nepoužitelný.
-title: "Drobky: SocioWare pro televizi, DrizzleCast a Lan-o-Vision"
+title: Drobky -  SocioWare pro televizi, DrizzleCast a Lan-o-Vision
 ---
 
 <p>A zase malá přehlídka drobků a zajímavostí, které by u mne jinak zapadly. </p>

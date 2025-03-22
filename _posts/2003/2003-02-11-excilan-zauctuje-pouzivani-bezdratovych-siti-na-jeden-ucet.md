@@ -14,9 +14,7 @@ summary_points:
 - Uživatel po připojení k WiFi síti odsouhlasí cenu hovorem a surfuje.
 - Testovací provoz probíhá na amsterodamském letišti Schiphol.
 - Systém vyžaduje zapojení mnoha operátorů a provozovatelů WiFi sítí.
-title: "'Excilan zaúčtuje používání bezdrátových sítí na jeden účet"
-
-  '
+title: Excilan zaúčtuje používání bezdrátových sítí na jeden účet
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Hotspoty nevysílají ESSID, detekce vyžaduje specializovaný WiFi analyzer.
 - T-Mobile rozjíždí WiFi sítě globálně, včetně USA a Německa.
 - RadioMobil aktuálně nepodporuje roaming v WiFi sítích mateřské společnosti.
-title: "RadioMobil má už první hotspoty T-Mobile WiFi v provozu"
+title: RadioMobil má už první hotspoty T-Mobile WiFi v provozu
 ---
 
 <p>

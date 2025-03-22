@@ -14,7 +14,7 @@ summary_points:
   licenční poplatky.
 - Nokia uvádí na japonský trh elektronické šperky ImageWear, kompatibilní se všemi
   telefony.
-title: "Japonské mobilní trendy: WiFi a Linux v 3G mobilech, Nokia ImageWear"
+title: Japonské mobilní trendy -  WiFi a Linux v 3G mobilech, Nokia ImageWear
 ---
 
 <p>

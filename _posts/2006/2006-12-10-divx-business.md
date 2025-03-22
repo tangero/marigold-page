@@ -13,7 +13,7 @@ summary_points:
 - DivX nabízí levné licence pro DVD přehrávače s garantovanou kompatibilitou.
 - DivX generuje zisk z podpory video na vyžádání a přístupu k trhu.
 - DivX expanduje do mobilů s profily pro S60, UIQ, PocketPC a Palm.
-title: "DivX business"
+title: DivX business
 ---
 
 <texy>Je zajímavé, jak se člověku otevírají naprosto jiné souvislosti s tím, jak mírně změní úhel pohledu. Dříve jsem se díval na video z pohledu mobilu. Teď, když na mobily, tak z pohledu videa. A zaujal mne obchodní model DivX. 

@@ -13,9 +13,7 @@ summary_points:
 - SMS zprávy a proměnlivý objem datových přenosů jsou největšími problémy s T-Mobile.
 - Přechodem k Oskaru by autor ušetřil 500 až 1200 korun měsíčně.
 - Roamingové služby T-Mobile jsou nespolehlivé a autor má problémy se signálem.
-title: "'Moje zaječí úmysly aneb cena versus služby mobilů."
-
-  '
+title: Moje zaječí úmysly aneb cena versus služby mobilů.
 ---
 
 <p>

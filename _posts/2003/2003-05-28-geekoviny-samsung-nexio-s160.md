@@ -13,7 +13,7 @@ summary_points:
 - Nexio S160 má 400MHz procesor, WinCE .NET 4.1 a vyklápěcí klávesnici.
 - Cena Nexia S160 je 1250 USD, což autor považuje za vysokou částku.
 - Evropská verze Nexia S160 je podle Ivana Trnečky v plánu.
-title: 'Geekoviny: Samsung Nexio S160'
+title: Geekoviny -  Samsung Nexio S160
 ---
 
 <p>

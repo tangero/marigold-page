@@ -13,7 +13,7 @@ summary_points:
 - WDS (Wireless Distribution System) propojuje access pointy bezdrátově.
 - Zyxel ZyAir B-3000 podporuje WDS a propojení až šesti access pointů.
 - ZyAir B-3000 bude dostupný za 200 USD ve druhém pololetí.
-title: "WPA podpora roste, WDS podpora u Zyxelu ZyAir B-3000"
+title: WPA podpora roste, WDS podpora u Zyxelu ZyAir B-3000
 ---
 
 <p>

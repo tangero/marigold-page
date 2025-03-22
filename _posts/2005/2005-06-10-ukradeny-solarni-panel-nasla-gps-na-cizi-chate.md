@@ -15,9 +15,7 @@ summary_points:
   modulem Motorola.
 - Retranslační bod byl odcizen, ale poloha modulu GPS pomohla k jeho nalezení.
 - Ukradený panel nyní slouží k napájení televize v chatové osadě.
-title: "'Ukradený solární panel našla GPS na cizí chatě"
-
-  '
+title: Ukradený solární panel našla GPS na cizí chatě
 ---
 
 <p>Když jsem někdy vloni na Marigoldovi psal o solárních panelech a jejich použití pro WiFi, bylo to hlavně z toho důvodu, že jsme si s jedním takovým řešením hráli. Kamarád se chtěl na vesničce připojit do netu, ale nejbližší přípojný bod byl za kopcem. Pasivní retranslace už nefungovala, musela přijít na řadu retranslace aktivní a s ní i problém napájení. Tahat elektřinu na kopec by dalo dost práce, tak jsme vyprojektovali solární panel a akumulátory, které zajistili napájení jednomu modifikovanému APčku (Linksys s WDS).</p>

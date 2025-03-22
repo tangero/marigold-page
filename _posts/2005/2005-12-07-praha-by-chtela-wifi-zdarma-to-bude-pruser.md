@@ -13,9 +13,7 @@ summary_points:
 - Projekt ohrožuje existující poskytovatele internetu a vyžaduje odškodnění.
 - Financování projektu z Broadband fóra je nejisté a sporné.
 - Realizace projektu zdarma povede k problémům s kvalitou a rušením.
-title: "'Praha by chtěla WiFi zdarma. To bude průser…"
-
-  '
+title: Praha by chtěla WiFi zdarma. To bude průser…
 ---
 
 <p>Nejsem principiálně proti věcem zdarma, jen mám takové neblahé a zkušenostmi dané přesvědčení, že nic zdarma neexistuje a nakonec se to někde musí zaplatit. Pokud to nejsem já, budiž. Většinou jsem. </p>

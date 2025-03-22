@@ -13,7 +13,7 @@ summary_points:
 - Google Blogger přestal nabízet RSS syndikaci obsahu zdarma a přešel na Atom.
 - Atom je open source, což byl hlavní důvod přechodu od RSS.
 - Bloggerův přechod na Atom může změnit budoucnost syndikačních formátů.
-title: "Syndikace obsahu: Google se přiklonil k Atom proti RSS."
+title: Syndikace obsahu -  Google se přiklonil k Atom proti RSS.
 ---
 
 <p>

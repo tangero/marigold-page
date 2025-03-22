@@ -22,9 +22,7 @@ summary_points:
 - Blogeři se profesionalizovali, zakládali firmy a sítě pro prodej inzerce.
 - V Česku málo blogerů prorazilo, trh je malý a psaní málo lukrativní.
 - Sociální média převzala autory blogů, vyjádření je kratší a rychlejší.
-title: "'Sociální média jsou největší vlnou internetu, protože jsou změnou generační"
-
-  '
+title: Sociální média jsou největší vlnou internetu, protože jsou změnou generační
 ---
 
 Už půl roku mám v Lupě na starosti školení o sociálních médiích. Čtyři - pět hodinek mne někdo poslouchá, když vykládám o tom, jak fungují sociální média. Mám s tím určitou zkušenost, občas dělám správu "digital assets" pro německé a americké brandy, nedávno jsem to počítal a na spravovaných účtech mám hezké číslo fans. Přesto nebo právě proto si myslím, že sociálním sítím nerozumím. Ale považuju je za velikou vlnu pro internet. Zda i změnu, revoluci, tam už bych byl opatrnější. 

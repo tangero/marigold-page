@@ -13,7 +13,7 @@ summary_points:
 - Úprava WordPress dokumentace pro zobrazení nejnovějších článků se uživateli nedaří.
 - Plugin pro propojení WordPressu s phpBB fórem hlásí chyby a nezobrazuje příspěvky.
 - Uživatel hledá pomoc s funkčním propojením WordPressu a phpBB fóra.
-title: "Je tu někdo, kdo rozumí WordPressu?"
+title: Je tu někdo, kdo rozumí WordPressu?
 ---
 
 <p>Mám dva drobné problémy s WordPressem a ne a ne přijít na to, jak se přes ně dostat. </p>

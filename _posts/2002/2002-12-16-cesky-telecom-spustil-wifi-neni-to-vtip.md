@@ -14,9 +14,7 @@ summary_points:
 - WiFi hotspoty Telepoint jsou dostupné v Praze, Hradci Králové, Ústí nad Labem, Kladně
   a dalších.
 - Technické informace a konfigurace WiFi hotspotů jsou dostupné na webu telecom.cz/wifi.
-title: "'Český Telecom spustil WiFi, není to vtip!"
-
-  '
+title: Český Telecom spustil WiFi, není to vtip!
 ---
 
 <p>

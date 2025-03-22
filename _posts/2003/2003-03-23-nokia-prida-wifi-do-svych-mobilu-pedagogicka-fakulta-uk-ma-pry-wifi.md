@@ -13,9 +13,7 @@ summary_points:
 - Rozesílání souhrnu zpráv z Marigolda emailem se rozbilo.
 - Nokia integruje WiFi do nových manažerských mobilních telefonů.
 - Nokia plánuje WiFi telefony v betatestech do konce roku.
-title: "'Nokia přidá WiFi do svých mobilů. Pedagogická fakulta UK má prý WiFi"
-
-  '
+title: Nokia přidá WiFi do svých mobilů. Pedagogická fakulta UK má prý WiFi
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Data poskytují operátoři T-Mobile, Vodafone, Orange a O2.
 - Žebříček zahrnuje hry jako Tetris, Pub Pool a FIFA Football 2004.
 - Data pravděpodobně pochází pouze z britských poboček operátorů.
-title: "Nejstahovanější Java hry za březen"
+title: Nejstahovanější Java hry za březen
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Autor plánuje psát o vítězných projektech BBF, analyzovat důvody jejich úspěchu.
 - Dotace jsou vnímány jako investice státu, která se vrací formou daní a rozvoje.
 - Cílem BBF je podpořit rozvoj internetu v zaostalých oblastech a ukázat jeho výhody.
-title: "Zajímáte se o BBF?"
+title: Zajímáte se o BBF?
 ---
 
 <p><strong>Noname píše:</strong> Minulé články o BBF sklidily rozporuplné reakce, až jsem o tom pak přestal publikovat vůbec. Chtěl jsem původně psát detailně, k čemu budou primárně dotace určené, dát návod (možná i vzor) na vyplnění žádosti, na co si dávat pozor atd., ale za ty nadávky mi to nestálo, kdo chtěl, mohl si zavolat na MIČR, nebo to zvládl sám, takových bylo 300, takže to evidentně šlo.</p>

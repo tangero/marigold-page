@@ -13,7 +13,7 @@ summary_points:
 - Novinář se autora před čtyřmi lety ptal na obdobu Neviditelného světa.
 - Autor dříve neznal obdobu, ale nyní ji vidí ve weblogu.
 - Článek pojednává o vzniku a podstatě weblogu.
-title: 'Článek: Weblogová doba čili novinář versus webloger'
+title: Článek -  Weblogová doba čili novinář versus webloger
 ---
 
 <p>

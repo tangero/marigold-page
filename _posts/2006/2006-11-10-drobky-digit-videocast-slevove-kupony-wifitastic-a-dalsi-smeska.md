@@ -13,7 +13,7 @@ summary_points:
 - WiFiTastic nabízí provozování placených hotspotů pomocí upraveného routeru.
 - Retail Me Not poskytuje databázi slevových kódů pro americké internetové obchody.
 - Zamzar konvertuje data z různých obrazových, textových a video formátů zdarma.
-title: "Drobky: Digit videocast, slevové kupony, WiFitastic a další směska"
+title: Drobky -  Digit videocast, slevové kupony, WiFitastic a další směska
 ---
 
 <texy>Chtěl bych zcela nesouvisle upozornit bez ladu a skladu na pár zajímavostí, které mi tu zatím ležely bez užitku, leč jsou pozornosti hodny. 

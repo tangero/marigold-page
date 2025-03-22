@@ -10,8 +10,7 @@ summary_points:
 - Nejproblematičtějšími profese jsou cukráři, uklízeči, a stavební profese.
 - Nedostatečná mobilita zaměstnatelných v ČR je větším problémem než vzdělávací směrování
   studentů.
-title: "Je něco ve vzdělávacím systému špatně, když mládež chodí i na gympl a humanitní"
-  obory
+title: Je něco ve vzdělávacím systému špatně, když mládež chodí i na gympl a humanitní obory
 ---
 
 Vladimír Dlouhý se sugestivně ptá, zda opravdu potřebujeme tolik gymnázií, poskytujících všeobecné střední vzdělání, když je málo řemeslníků? Prezident Hospodářské komory a bývalý prominentní komunista nám sugeruje, že je něco ve vzdělávacím systému špatně, když mladí preferují gympl před učňákem a když existují vysokoškolské humanitní obory.

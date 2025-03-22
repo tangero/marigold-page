@@ -15,7 +15,7 @@ summary_points:
 - Epileptický křeček je blog s kvalitním obsahem, za kterým stojí známý bloger Pixy.
 - Casanova je deníček virtuálního svůdníka, podobný Žertvovu deníčku, ale s nižším
   platem.
-title: "Další blogerské zajímavosti (po panice na blogerské kurze)"
+title: Další blogerské zajímavosti (po panice na blogerské kurze)
 ---
 
 Před odjezdem na dovolenou jsem se podíval po <A href="http://beta.marigold.cz/zprava.html?id=23735">nových zajímavých weblozích</A> <EM>(fuj, jak se to píše richtig tschechisch?)</EM> - a měsíční přestávka dala dost prostoru na to, aby se nové weblogy vytříbřily a ukázaly i nějaké další, takže si dovolím to zase okomentovat. 

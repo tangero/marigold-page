@@ -13,7 +13,7 @@ summary_points:
 - Chvalšiny.Net je komunitní síť bez uvedené adresy.
 - Slovenské stránky se věnují WiFi anténám z plechovek (canténám).
 - Canténu návody nabízí Rob Flickenger a Turnpoint.net.
-title: "Zkušenosti s kartou Trendware a anténa z plechovky"
+title: Zkušenosti s kartou Trendware a anténa z plechovky
 ---
 
 <p>

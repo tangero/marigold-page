@@ -13,9 +13,7 @@ summary_points:
 - Hodnotitelé obdrží projekty ve čtvrtek a vyhodnotí je do půlky ledna.
 - Ministryně rozhodne o podpořených projektech do konce ledna.
 - Autor se ptá na nápady pro rozvoj broadbandu v ČR.
-title: "'Pro Broadband fórum bylo přihlášeno 290 projektů"
-
-  '
+title: Pro Broadband fórum bylo přihlášeno 290 projektů
 ---
 
 <p><strong>Noname píše.</strong> V pátek ve 14:00 končil termín pro podání žádostí o dotace z 200 MIO rozdělovaných Broadband fórem. Bylo podáno 290 žádostí, ještě ovšem není známo, kolik z nich bude vyřazeno pro nesplnění formálních požadavků, ani kolik projektů se přihlásilo do které kategorie či o kolik žádají.</p>

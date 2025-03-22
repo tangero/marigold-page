@@ -14,7 +14,7 @@ summary_points:
 - Internet2 vytvořil záložní okruh Seattle-Chicago ve spolupráci s National Lambda
   Rail.
 - CESNET v ČR se zabývá problematikou optických sítí.
-title: "Výhody optických sítí v praxi"
+title: Výhody optických sítí v praxi
 ---
 
 <p><b>oook píše</b>: Hurikán Katrina se pochopitelně

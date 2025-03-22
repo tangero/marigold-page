@@ -13,9 +13,7 @@ summary_points:
 - Autor gratuluje těm, kteří na jeho radu akcie TIW nakoupili včas.
 - Oskar získal ve třetím čtvrtletí 100 650 nových zákazníků.
 - TIW konsolidované výnosy za tři čtvrtletí dosáhly 654 milionů USD.
-title: "'Oskar rostl, TIW roste, akcie rostou, děkuji všem :)"
-
-  '
+title: Oskar rostl, TIW roste, akcie rostou, děkuji všem  - )
 ---
 
 <p>

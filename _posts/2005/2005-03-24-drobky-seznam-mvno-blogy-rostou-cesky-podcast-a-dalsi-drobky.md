@@ -13,7 +13,7 @@ summary_points:
 - Amaztype vyhledává knihy, DVD a CD na Amazonu a zobrazuje je.
 - Komunikatory.cz nabízejí odkazy a screenshoty Windows Mobile 2005 Magneto.
 - Blogspot.com návštěvností předběhl NY Times, což ukazuje sílu blogů.
-title: "Drobky: seznam MVNO, blogy rostou, český podcast a další drobky"
+title: Drobky -  seznam MVNO, blogy rostou, český podcast a další drobky
 ---
 
 <p>Narazil jsem na skvělý <b>seznam MVNO, Mobile Virtual Network Operators</b> - virtuálních mobilních operátorů (těch, co nemají mobilní síť, ale pronajmou si ji a tváří se, jako by ji měli). Takoví mají dorazit i k nám, EU chce, aby uvolnění trhu pro MVNO bylo povinné stejně, jako pro alternativní pevnolinkové operátory. Zatím to u nás povinné není a pokud si chcete založit virtuálního operátora, musíte se dohodnout s nějakým vlastníkem místní mobilní sítě. <a href="http://www.takashimobile.com/mvno.html">Tenhle seznam</a> vám řekne, kde a jak moc MVNO frčí. </p>

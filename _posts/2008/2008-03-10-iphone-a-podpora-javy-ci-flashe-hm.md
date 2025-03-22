@@ -20,7 +20,7 @@ summary_points:
   J2ME.
 - Flash by se na iPhone hodil pro webový obsah, ale Steve Jobs ho odmítl kvůli výkonu.
 - Apple možná využívá spor s Flashem k tlaku na Adobe ohledně formátu PDF.
-title: "iPhone a podpora Javy či Flashe … hm…"
+title: iPhone a podpora Javy či Flashe … hm…
 ---
 
 O tom, že by iPhone měl podporovat Flash i Javu se v minulých pár dnech mluvilo. A když už jsem se pustil do iphonování, tak dokončím i tohle, ostatně <a href="http://blog.macich.net/clanky/java-pro-iphone-nebude/">po přečtení článku Jirky Macicha</a> mi přišlo, že ne každý pochopil pointu Javy v mobilních telefonech. 

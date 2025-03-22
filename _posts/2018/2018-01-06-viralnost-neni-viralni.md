@@ -10,7 +10,7 @@ summary_points:
 - Rozhodující roli hrají vlivní uživatelé s vysokým sociálním kapitálem.
 - Odkazy se šíří efektivně pouze při podpoře alfa uživatelů.
 - Sociální kapitál je monetizovatelný, ale jeho dosah není nekonečný.
-title: "Virálnost není virální"
+title: Virálnost není virální
 ---
 
 <p style="text-align: left;">Vloni (!) jsem se na chvíli vrátil ke své zálibě, analýze dat ze sociálních sítí. A podezření se stalo jistotou. Virální šíření není vůbec virální tak, jak ho většinově chápeme. Představa, že váš odkaz si budou šířit tisíce lidí po sociálních sítích a tím se stane navštěvovaný, je z poloviny mimo realitu. A pro marketing na sociálních sítích je to důležité říct si to.</p>

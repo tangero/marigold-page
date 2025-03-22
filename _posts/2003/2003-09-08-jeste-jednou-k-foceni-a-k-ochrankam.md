@@ -13,7 +13,7 @@ summary_points:
 - Incident DarkMastera a Kostěje rozdělil názory na provokaci a práva ochranky.
 - Zákon nezakazuje focení v hypermarketech, ale v soukromých objektech ano.
 - Veřejně přístupné objekty nemohou omezit focení, stejně jako jiná lidská práva.
-title: "Ještě jednou k focení a k ochrankám"
+title: Ještě jednou k focení a k ochrankám
 ---
 
 <p>

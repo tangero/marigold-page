@@ -17,7 +17,7 @@ summary_points:
 - IEEE Spectrum publikoval článek o ruské elektronické válce na Ukrajině.
 - Prusa zveřejnila aktualizace k očekávané tiskárně XL na svém blogu.
 - WiFi 7 s rychlostí až 5,8 Gb/s bude v počítačích dostupné v roce 2024.
-title: "Jednohubky"
+title: Jednohubky
 ---
 
 **Larry Ellison zásobuje Havaj** ze své špičkové hydroponické farmy na ostrově Lanai ([zdroj](https://www.sfgate.com/hawaii/article/larry-ellison-feeding-hawaii-17338314.php)). Jeho společnost Sensei Ag pod spotřebitelskou značkou Sensei Farms dokáže ročně vypěstovat téměř 1 milion kilogramů produktů. Připomíná mi to našeho Vladimíra Schmalzce, který u elektráren na odpadním teple pěstuje česká rajčata🙂 A taky hi-tech :)

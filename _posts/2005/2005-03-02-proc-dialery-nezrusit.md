@@ -14,7 +14,7 @@ summary_points:
   906.
 - Přístup do datových sítí přes 976 je problematický, mobilní volání na 906 je transparentnější.
 - Operátoři by mohli přijít o část příjmů z podvodných datových služeb.
-title: "Proč dialery nezrušit….?"
+title: Proč dialery nezrušit….?
 ---
 
 <p>Operátoři konečně přišli na to, jak budou bojovat proti podvodným dialerům, hlásá <a href="http://www.apvts.cz/novinky.php?dokument_id=321">prohlášení APVTS</a>. V řadě článků se dočtete, že nic není stoprocentní a všechno lze obejít. </p>

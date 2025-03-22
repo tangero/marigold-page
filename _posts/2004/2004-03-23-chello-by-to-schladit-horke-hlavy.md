@@ -16,7 +16,7 @@ summary_points:
   výnosu.
 - Většina nespokojených zákazníků UPC pravděpodobně neodejde kvůli nedostatku lepších
   alternativ.
-title: "Chello by to schladit horké hlavy"
+title: Chello by to schladit horké hlavy
 ---
 
 <p>

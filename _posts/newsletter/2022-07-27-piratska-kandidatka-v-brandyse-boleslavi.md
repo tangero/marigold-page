@@ -15,7 +15,7 @@ summary_points:
 - Kandidátka je genderově, věkově a profesně vyvážená, složená ze skvělých lidí.
 - Piráti doufají ve zisk čtyř mandátů v jednadvacetičlenném zastupitelstvu.
 - Úspěch Pirátů a dalších stran by mohl vést ke změně komunální politiky.
-title: "Pirátská kandidátka v Brandýse-Boleslavi"
+title: Pirátská kandidátka v Brandýse-Boleslavi
 ---
 
 Drobný politický oznam: sestavili jsme čistě pirátskou kandidátku v Brandýse-Boleslavi. Na prvním místě kandiduje Marek Řebíček, Marie Kubáčová, která mě nahradila v zastupitelstvu, je dvojka a já jsem na třetím místě, přičemž na čtyřce je Štěpán Bohm. Máme i genderově, i věkově a profesně velmi hezky vyladěnou kandidátku se skvělými lidmi. Děláme si naděje, že takové čtyři mandáty z jednadvaceti členného zastupitelstva bychom mohli získat. Nebo taky ne, v politice nikdy nevíme. Pokud se to podaří a dobře uspějí ještě některé další politické strany, mohla by se nám podařit změna v komunální politice. Díky za čtyři roky v opozici, byla to skvělá škola. 

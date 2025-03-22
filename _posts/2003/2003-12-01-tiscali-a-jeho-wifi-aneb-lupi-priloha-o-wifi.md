@@ -13,7 +13,7 @@ summary_points:
 - Tiscali aktuálně provozuje čtyři WiFi hotspoty v Praze, Brně, Ostravě a Olomouci.
 - Tiscali plánuje rozšířit síť na 20 hotspotů v krajských městech a významných objektech.
 - Autor dříve Tiscali a GTS v přehledu hotspotů opomněl, nyní Tiscali doplní.
-title: "Tiscali a jeho WiFi (aneb Lupí příloha o WiFi)"
+title: Tiscali a jeho WiFi (aneb Lupí příloha o WiFi)
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
 - Přijetí darů, i malých, je začátek korupce a morálních ústupků.
 - Redakce by měly mít jasná pravidla pro přijímání darů a vymáhat je.
 - Autor přiznává vlastní chybu, kdy za cestu zdarma propagoval firmu.
-title: "Tři novináři na vrub korupce"
+title: Tři novináři na vrub korupce
 ---
 
 Ještě, než jsem v srpnu jel na dovolenou, vydal Jakub Turek na serveru Horydoly článek <a href="http://www.horydoly.cz/business/tri-novinari-vzali-dnes-uplatek-od-nikonu.html">Tři novináři vzali dnes úplatek od Nikonu</a>. A v diskusi dostával, co proto. Už tehdy jsem si říkal, že v tomhle střetu by neměl zůstat osamocen a protože to rezonuje s tím, co jsem v poslední době psal na Marigolda, tak se k tématu vracím. Je to dobře ilustrativní nejenom o médiích, ale především o nás samých. 

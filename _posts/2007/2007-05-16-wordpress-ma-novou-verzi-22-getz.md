@@ -13,7 +13,7 @@ summary_points:
 - Wordpress na Marigoldu zablokoval přes 100 000 spamů.
 - Nová verze WordPressu 2.2 Getz podporuje widgets v jádru.
 - Wordpress se používá i pro firemní weby, nejen blogy.
-title: "WordPress má novou verzi 2.2 Getz"
+title: WordPress má novou verzi 2.2 Getz
 ---
 
 1. Jak vesměs víte, Marigold běží již 6 měsíců na CMS <a href="http://www.wordpress.org">Wordpress</a>

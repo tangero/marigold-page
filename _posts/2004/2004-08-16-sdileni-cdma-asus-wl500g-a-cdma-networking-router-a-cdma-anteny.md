@@ -13,8 +13,7 @@ summary_points:
 - I4 nabízí CDMA Networking Router s ethernetem, WiFi pro sdílení CDMA připojení.
 - I4 shop prodává Yagi anténu pro CDMA 450, její použití je licenčně omezené.
 - Eurotel povoluje pouze antény doporučené výrobcem kvůli schválení ČTÚ.
-title: "Sdílení CDMA – Asus WL500g a CDMA Networking Router a CDMA"
-  antény
+title: Sdílení CDMA – Asus WL500g a CDMA Networking Router a CDMA antény
 ---
 
 <p>

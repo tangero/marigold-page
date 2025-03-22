@@ -13,7 +13,7 @@ summary_points:
 - Autor zjistil, že problém není v nedovolatelnosti, ale v neochotě volat.
 - Nespolehlivost se týká nákupů různé hodnoty, od nosičů po projekty.
 - Rychlá a slušná komunikace se zákazníky je vnímána pozitivně a překvapivě.
-title: "Obchodování v ČR: naučme se kruci zavolat, když to slíbíme!"
+title: Obchodování v ČR -  naučme se kruci zavolat, když to slíbíme!
 ---
 
 <p>

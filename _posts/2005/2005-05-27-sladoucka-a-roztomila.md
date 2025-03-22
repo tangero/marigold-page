@@ -13,7 +13,7 @@ summary_points:
 - Autor děkuje za četná přání.
 - Autor se omlouvá za nestíhání odpovídat na přání.
 - Text obsahuje obrázek Sofie.
-title: "Slaďoučká a roztomilá"
+title: Slaďoučká a roztomilá
 ---
 
 <p>Sofie ve věku jednoho dne. A děkuji za ta četná přání na webu i jinak, omlouvám se, že je nestíhám lépe zodpovědět...

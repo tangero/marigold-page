@@ -13,7 +13,7 @@ summary_points:
 - Autor veze domů prospekty a CDčka, utratil stovky euro.
 - Zpracování materiálů proběhne offline doma, ne online jako dříve.
 - České redakce se kongresu nezúčastnily, pravděpodobně kvůli financím.
-title: "Dneska končíme s Cannes ačkoliv 3GSM kongres nekončí"
+title: Dneska končíme s Cannes ačkoliv 3GSM kongres nekončí
 ---
 
 <p>

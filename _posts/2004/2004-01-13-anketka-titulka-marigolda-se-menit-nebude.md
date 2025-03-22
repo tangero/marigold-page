@@ -13,7 +13,7 @@ summary_points:
 - '% hlasujících si přeje ponechat stávající podobu titulky Marigolda.'
 - WiFi konference na Pandoře je uzavřena pro externí přispěvatele.
 - Nová anketa se ptá na nejúspěšnějšího mobilního operátora roku 2003.
-title: 'Anketka: titulka Marigolda se měnit nebude'
+title: Anketka -  titulka Marigolda se měnit nebude
 ---
 
 <p>

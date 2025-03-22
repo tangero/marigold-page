@@ -13,7 +13,7 @@ summary_points:
 - Mlynář obdržel dopis od T-Mobile s požadavkem na frekvenci 450 MHz.
 - T-Mobile dle Mlynáře a autora pravděpodobně síť v pásmu 450 MHz stavět nehodlá.
 - T-Mobile může spustit CDMA síť na již zaplacených 3G frekvencích.
-title: "T-Mobile přeci může CDMA síť spustit ihned…"
+title: T-Mobile přeci může CDMA síť spustit ihned…
 ---
 
 <p>

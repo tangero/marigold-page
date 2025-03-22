@@ -13,9 +13,7 @@ summary_points:
 - Antivir na Mečíku není nutný, albánské viry vyžadují formátování disku.
 - Virus pod Mečíkem se nespustil, systém navrhl instalaci VirtualPC.
 - Uživateli viry na Mečíku nechybí, což považuje za pozitivní.
-title: "'Jak jsem se pokoušel na Mečíka instalovat virus"
-
-  '
+title: Jak jsem se pokoušel na Mečíka instalovat virus
 ---
 
 <p>S Mečíkem si neznalý Windowsář užije řadu zábavy. Kupříkladu včera jsem si vybíral firemní schránku a viděl jsem tu frontu virů. Antivir jsem si na Mečíka ještě neinstaloval, neb mne někdo ujistil, že to není k ničemu. Na mečíkovi fungují zejména albánské druhy virů: Jsem virus z Albánie, vzhledem k situaci v mé zemi bych potřeboval, abyste mne pro moje správné fungování rozeslali emailem svým přátelům a pak si zformátovali pevný disk. </p>

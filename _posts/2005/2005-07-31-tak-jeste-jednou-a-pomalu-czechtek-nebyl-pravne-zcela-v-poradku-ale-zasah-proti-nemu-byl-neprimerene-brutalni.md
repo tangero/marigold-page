@@ -14,8 +14,7 @@ summary_points:
   brutalitu.
 - Policie mohla situaci řešit jinak, například regulací dopravy a usměrňováním davů.
 - Autor zve na Folkovou Ohři na hradě Hauenštejn, akci s povolením a komfortem.
-title: "'Tak ještě jednou a pomalu: CzechTek nebyl právně zcela v pořádku,"
-  ale zásah proti němu byl nepřiměřeně brutální'
+title: Tak ještě jednou a pomalu -  CzechTek nebyl právně zcela v pořádku, ale zásah proti němu byl nepřiměřeně brutální
 ---
 
 <p>Přiznám se, že jsem nečekal tak bouřlivou odezvu a diskusi <a href="/item/czechtek-2005-policie-zmlatila-nase-deti-nas-necha-tvrdnout-na-ucpane-dalnici-a-nam-je-to-jedno">na svůj pohled na CzechTek</a>. Řada diskutujících pochopila, co jsem chtěl říct, část z nich se mylně domnívala, že na takový názor nemám právo a poslední skupinka mne buďto nepochopila, nebo se rozhodla uplatnit starou strategii: vyvracet mi něco, co jsem netvrdil a tím mne aklamovat nevěrohodným. Je to dobrá strategie, ale na mne nefunguje, znám ji taky. </p>

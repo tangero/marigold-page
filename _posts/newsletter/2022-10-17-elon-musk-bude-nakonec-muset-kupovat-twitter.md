@@ -13,7 +13,7 @@ summary_points:
 - Musk navrhuje kontroverzní řešení pro Ukrajinu a Tchaj-wan, což vyvolává obavy.
 - Starlink nefunguje na okupovaných územích Ukrajiny záměrně, ne z důvodu nevole.
 - Musk původně chtěl, aby Pentagon platil Starlink pro Ukrajinu, ale nakonec ustoupil.
-title: "Elon Musk bude nakonec muset kupovat Twitter"
+title: Elon Musk bude nakonec muset kupovat Twitter
 ---
 
 A nezlepšuje mu to náladu. Problém je jednoduchý: podepsal smlouvu se sankcemi, takže jej vyjde lépe si nakonec ten Twitter přeci jen koupit. Už se do tématu nechci pouštět podrobněji, situace je turbulentní, zatím to ale vypadá tak, že frustrovaný je Musk (Twitter koupit nechce) i zaměstnanci Twitteru (nechtějí Muska za majitele) - a už to ani není zábava sledovat. 

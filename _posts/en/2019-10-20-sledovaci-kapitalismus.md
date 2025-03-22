@@ -12,8 +12,8 @@ layout: post
 original_lang: cs
 permalink: /en/item/sledovaci-kapitalismus/
 thumbnail: https://www.duurzaamnieuws.nl/wp-content/uploads/2019/10/tegenlicht-dataroof.jpg
-title: "Surveillance capitalism"
-translated: true
+title: Surveillance capitalism
+ranslated: true
 ---
 
 Liberal capitalism has one charm: everyone can do what they want in it, as long as they don't restrict anyone else, and it is on this rule that the modern world tries to stand, with minor adjustments. For a long time now, theorists on all sides of the barricades, from economists to sociologists to political scientists to apocalypse prophets, have been pondering what might upset this magic formula for success. Isn't liberal capitalism all-absorbing by its very nature?

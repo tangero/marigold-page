@@ -13,7 +13,7 @@ summary_points:
 - Zdeněk Cendra začal podnikat mladý, což autor textu vnímá jako výhodu.
 - SuperHosting Zdeňka Cendry má moderní servery v datacentru, nikoliv vyřazené stroje.
 - Vreco využívá hosting SuperHosting, což svědčí o jeho kvalitě.
-title: "Hostovinky – Cendrův weblog o internetu"
+title: Hostovinky – Cendrův weblog o internetu
 ---
 
 <p>Objevil jsem (via <a href="http://blog.air4web.com/cendra-jede.html" >Krutá realita</a>) veblog Zdeňka Cendry nazvaný <a href="http://www.hostovinky.cz">Hostovinky.cz</a>.

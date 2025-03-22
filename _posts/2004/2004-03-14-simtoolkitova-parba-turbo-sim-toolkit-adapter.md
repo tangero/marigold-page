@@ -13,7 +13,7 @@ summary_points:
 - Adaptér umožňuje ukládání SMS, šifrování a další toolkitové aplikace.
 - Řešení funguje jako adaptér s vlastním procesorem, vložený do čtečky SIM.
 - Adaptér stojí kolem 2000 Kč a je primárně určen pro Nokia 3310.
-title: 'Simtoolkitová pařba: Turbo SIM toolkit adaptér'
+title: Simtoolkitová pařba -  Turbo SIM toolkit adaptér
 ---
 
 <p>

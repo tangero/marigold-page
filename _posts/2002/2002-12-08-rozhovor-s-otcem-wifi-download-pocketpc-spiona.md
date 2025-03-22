@@ -13,7 +13,7 @@ summary_points:
 - WLAN standard s rychlostí přes 100 Mbps se očekával v roce 2005.
 - Cirond nabídl klientské čmuchaly WiNc beta pro WinCE a PocketPC.
 - CNN publikoval článek o rostoucí popularitě komunitních WiFi sítí.
-title: "Rozhovor s otcem WiFi, download PocketPC špiona"
+title: Rozhovor s otcem WiFi, download PocketPC špiona
 ---
 
 <p>

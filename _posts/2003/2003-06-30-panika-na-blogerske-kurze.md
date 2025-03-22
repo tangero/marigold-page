@@ -13,7 +13,7 @@ summary_points:
 - Nové blogy vyvolaly obavy starších blogerů o kvalitu a budoucnost blogů.
 - Autor článku nesdílí obavy, věří v konkurenci a tlak na kvalitu.
 - Chybí blogy na technická témata, prospěšná by byla hierarchie témat.
-title: "Panika na blogerské kurze…"
+title: Panika na blogerské kurze…
 ---
 
 <p>

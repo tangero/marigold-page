@@ -13,7 +13,7 @@ summary_points:
 - Základní linka navýší na 512/128 Kb/s s limitem 10 GB dat.
 - Odstranění dashboardu a NAT, statické veřejné IP adresy budou pro všechny.
 - Uvolnění trhu zařízení umožní uživatelům sami dodat ADSL modemy.
-title: "ADSL u ČTc zrychlí a bude mít limit"
+title: ADSL u ČTc zrychlí a bude mít limit
 ---
 
 <p>

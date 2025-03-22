@@ -16,9 +16,7 @@ summary_points:
 - Pásmo 5 GHz je aktuálně omezeno na Hiperlan s interními anténami a specifickými
   limity výkonu.
 - V budoucnu se plánuje rozšíření pásma 5 GHz pro indoor/outdoor použití s TPC a DFS.
-title: "'Licence ČTÚ pro provoz radiových zařízení"
-
-  '
+title: Licence ČTÚ pro provoz radiových zařízení
 ---
 
 Na jakých frekvencích můžete provozovat své datové spoje v ČR a zejména jak je to s pásmem 5 GHz v současnosti a blízké budoucnosti?<!--more--><p>

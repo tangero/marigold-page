@@ -17,7 +17,7 @@ summary_points:
   Zprávy iDnes.
 - Počet zobrazených stránek na uživatele na Nova.cz klesl po počátečním zájmu.
 - Investice 100 milionů do Tn.cz přinesla jen mírné zlepšení oproti původnímu Nova.cz.
-title: "Nova a Tn.cz už jdou dolů"
+title: Nova a Tn.cz už jdou dolů
 ---
 
 Původní opravdu zajímavé výsledky spuštění zpravodajského portálu Nova.cz (inzerovaného jako Tn.cz) se radikálně proměňují. Na následujícím grafu vidíme výsledky provozu domény Nova.cz v Netmonitoru - doména Tn.cz se na Nova.cz přesměrovává kvůli součtu provozu. 

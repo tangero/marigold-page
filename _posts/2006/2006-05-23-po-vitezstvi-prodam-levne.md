@@ -13,7 +13,7 @@ summary_points:
 - Volby1946.cz je webová stránka, na kterou text odkazuje.
 - Tigra upozornil na fotografii a odkaz.
 - Obrázek volby06.jpg lze zvětšit kliknutím.
-title: "Po vítězství prodám levně"
+title: Po vítězství prodám levně
 ---
 
 <p>Tak tahle fotka, ta stojí za to... :) <a href="http://www.volby1946.cz/">Web nabídky.</a> Upozornil: <a href="http://ketry.net/phorum/read/2/3923">Tigra</a>

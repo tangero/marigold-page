@@ -13,9 +13,7 @@ summary_points:
 - Složení peněz pro vstup do tendru mělo šibeniční termín.
 - Tendr vyvolává podezření z politické objednávky a předem daného vítěze.
 - Autor kritizuje nezávislost a chyby ČTÚ v posledním roce.
-title: "'ČTÚ se daří organizovat podivný tendr pro mobilní internet"
-
-  '
+title: ČTÚ se daří organizovat podivný tendr pro mobilní internet
 ---
 
 <p>ČTÚ mne občas dokáže řádně zkrušit. Jeho poslední tendr na mobilní internet v pásmu 872 MHz je příkladem, jak udělat podivný tendr - tendr, kde jsou našponované termíny. Termíny, kde jediný den rozhoduje. Co je to za tendr, když na složení peněz (=nutné pro vstup do tendru) máte jediný den a vyhlášeno je to den před tím (nakonec po protestech prodlouženo). Většina zpravodajských serverů ani informaci o tendru nestihla vydat, natož aby byla regulérní možnost se přihlásit. Čemu se pak divit, že se ozvývají hlasy, že tendr je na politickou objednávku a vítěz je známý. </p>

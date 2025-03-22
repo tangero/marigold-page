@@ -14,7 +14,7 @@ summary_points:
 - Uživatelé budou službu využívat zdarma v dosahu hotspotu, například na letištích.
 - Provozovatelé hotspotů by museli upravit zúčtovací software, což je nákladné.
 - Bezplatný open-source software by byl zajímavější variantou pro uživatele.
-title: "OnAir – broadcasting TV programu z WiFi hotspotu"
+title: OnAir – broadcasting TV programu z WiFi hotspotu
 ---
 
 <p>

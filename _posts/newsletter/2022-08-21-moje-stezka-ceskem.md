@@ -15,7 +15,7 @@ summary_points:
 - Krušné hory na trase Stezky Českem nabízejí krásnou přírodu a zaniklé obce.
 - Sucho v Krušných horách ztěžuje doplňování vody, ale obce reagují.
 - Autor doporučuje zvážit výbavu a denní vzdálenost pro Stezku Českem.
-title: "Moje Stezka Českem"
+title: Moje Stezka Českem
 ---
 
 Letos jsem si naplánoval týdenní dovolenou jen pro sebe - a vydal se na pěší túru. Po hranicích Česka chodím či běhám už dva roky, ale trase [Stezky Českem](https://www.stezkaceskem.cz) se letos dostalo významné propagace a tak jsem se rozhodl, že ji začnu pěkně na počátku a znovu si ji přejdu od nejzápadnějšího bodu Česka přes Krušné hory až kam dojdu. Sedm dní včetně dopravy bylo maximum, co jsem si letos mohl dovolit obětovat, ale jsem nadšený. Nebojte, nebudu otravovat podrobnou reportáží, Stezka je spíše osobní prožitek, než něco, z čeho by dával smysl přímý přenos. Ale pár poznatků přeci jen dodám. 

@@ -13,7 +13,7 @@ summary_points:
 - Pro psaní autor zkouší různé editory, ale není zcela spokojen s žádným.
 - Podobný problém má autor s nástroji pro úkoly, projekty a evidenci činností.
 - Výběr nástrojů pro wireframing webu málem vedl k zbytečné investici do Axure.
-title: "V zajetí nástrojů"
+title: V zajetí nástrojů
 ---
 
 <p>V posledních letech se potýkám s problémem, který si připouštím až v poslední době. Jsem v zajetí nástrojů. Místo toho, abych nějakou věc řešil, trávím mnoho času tím, že hledám vhodný nástroj na její vyřešení. A nakonec mne to, včetně času na samotné řešení, zažere času mnohem více.</p>

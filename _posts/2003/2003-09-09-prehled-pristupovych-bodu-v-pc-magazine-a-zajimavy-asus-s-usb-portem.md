@@ -15,8 +15,7 @@ summary_points:
 - Kamera připojená k Asus WL-500b umožňuje hlídací režim s odesíláním e-mailů při
   pohybu.
 - Recenze Asus WL-500b vyšla na Živě, kde zmiňují problémy s USB portem.
-title: "Přehled přístupových bodů v PC Magazine a zajímavý Asus s USB"
-  portem
+title: Přehled přístupových bodů v PC Magazine a zajímavý Asus s USB portem
 ---
 
 <p>

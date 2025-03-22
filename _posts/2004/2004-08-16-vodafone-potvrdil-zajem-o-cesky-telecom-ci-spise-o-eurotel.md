@@ -13,7 +13,7 @@ summary_points:
 - Vláda požaduje minimálně 2,3 miliardy USD za 51 % akcií Telecomu.
 - Vodafone zřejmě zajímá hlavně Eurotel, nikoliv pevnolinkový Telecom.
 - Deutsche Telekom a Orange by se také mohli zajímat o Eurotel.
-title: "Vodafone potvrdil zájem o Český Telecom (či spíše o Eurotel)"
+title: Vodafone potvrdil zájem o Český Telecom (či spíše o Eurotel)
 ---
 
 <p>

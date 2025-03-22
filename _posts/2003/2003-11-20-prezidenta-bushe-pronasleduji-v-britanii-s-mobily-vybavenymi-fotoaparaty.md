@@ -15,7 +15,7 @@ summary_points:
 - Stránky hnutí "Chasing Bush" byly po spuštění akce dočasně nedostupné.
 - Moderní technologie představují rostoucí riziko pro politiky, omezování funkcí fotoaparátů
   je obtížné.
-title: "Prezidenta Bushe pronásledují v Británii s mobily vybavenými fotoaparáty"
+title: Prezidenta Bushe pronásledují v Británii s mobily vybavenými fotoaparáty
 ---
 
 <p>

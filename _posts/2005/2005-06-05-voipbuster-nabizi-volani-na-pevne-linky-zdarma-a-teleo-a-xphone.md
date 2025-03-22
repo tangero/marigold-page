@@ -13,7 +13,7 @@ summary_points:
 - VoipBuster může bezplatné volání zrušit, omezení se již zpřísnila.
 - Teleo nabízí měsíční paušál s voláním a vlastním telefonním číslem.
 - Xphone, česká VoIP služba, je v betatestu a momentálně nedostupná.
-title: "VoipBuster nabízí volání na pevné linky zdarma (a Teleo a Xphone)"
+title: VoipBuster nabízí volání na pevné linky zdarma (a Teleo a Xphone)
 ---
 
 <p><a href="http://www.voipbuster.com">VoipBuster</a> je program/služba, který je v posledních dnech na českém internetu pro telefonování stále populárnější. Důvodem je fakt, že od června lze s tímto programem telefonovat na pevné linky z počítače zadarmo - ačkoliv maximální doba hovoru je omezena na jednu minutu. I tak je to zajímavé. </p>

@@ -15,9 +15,7 @@ summary_points:
   Sony.
 - Uživatelé chtějí propojit počítače s audio-video systémy, což WiFi umožňuje.
 - WiFi home centrála propojuje TV, věž a další spotřebiče s počítačem bezdrátově.
-title: "'Spotřební elektronika Philips vybavena WiFi. Ostatně, vede tudy cesta?"
-
-  '
+title: Spotřební elektronika Philips vybavena WiFi. Ostatně, vede tudy cesta?
 ---
 
 <p>

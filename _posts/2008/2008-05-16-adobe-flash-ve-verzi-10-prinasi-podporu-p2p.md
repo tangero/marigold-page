@@ -16,9 +16,7 @@ summary_points:
 - Flash 10 umožňuje ukládat soubory na disk a dynamický streaming videa.
 - RTMFP protokol ve Flash 10 umožňuje P2P komunikaci mezi klienty.
 - Adobe integruje P2P do Flashe, umožní aplikace typu Skype nebo Joost.
-title: "'Adobe Flash ve verzi 10 přináší podporu P2P"
-
-  '
+title: Adobe Flash ve verzi 10 přináší podporu P2P
 ---
 
 Tento týden představila firma Adobe betaverzi Flash 10 (kodové jméno Astro), to jste jistě nepřehlédli. Řada vylepšení se týká renderovacích schopností, filtrů, 3D zobrazení a efektů, od toho nyní abstrahujme, protože žádná z těch novinek není přelomová, v tomto ohledu Flash prostě jde s dobou (a začasté na špici). Detaily zde</a>. 

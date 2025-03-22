@@ -13,7 +13,7 @@ summary_points:
 - Motorola a Apple spolupracují na iTunes pro mobily, detaily spolupráce nejasné.
 - Petr Koubský, šéfredaktor Inside, spustil weblog na adrese http://akabelog.blogspot.com.
 - Na Lupě vyšel první díl článku o bezdrátových identifikačních čipech RFID.
-title: "Drobky: CDMA v pondělí, iTunes v Motorolách, nový weblog, RFID"
+title: Drobky -  CDMA v pondělí, iTunes v Motorolách, nový weblog, RFID
 ---
 
 <p>

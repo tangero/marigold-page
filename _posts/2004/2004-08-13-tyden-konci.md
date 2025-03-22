@@ -11,7 +11,7 @@ summary_points:
 - Dnes autor dopíše poslední díl seriálu "Chci bezdrátovou síť" o bezdrátovém internetu.
 - Autor se zalekl článku na Lupě, ale ten se netýká výběru správného připojení.
 - Čtenáři mají v anketě zhodnotit týden bez Patrika a s Nonamem.
-title: "Týden končí"
+title: Týden končí
 ---
 
 <p>

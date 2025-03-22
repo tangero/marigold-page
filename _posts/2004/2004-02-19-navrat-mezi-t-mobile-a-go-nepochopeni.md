@@ -13,7 +13,7 @@ summary_points:
 - Aktivace tarifu T-Mobile je nyní rychlá a stojí 121 Kč plus záloha.
 - Autor neví, jak zjistit kredit na Go kartě Eurotel pro MMS zprávy.
 - Autorovi přišla jen jedna SMS o odečtení kreditu za MMS z Go karty.
-title: "Návrat mezi T-Mobile a Go nepochopení"
+title: Návrat mezi T-Mobile a Go nepochopení
 ---
 
 <p>

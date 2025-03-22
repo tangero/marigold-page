@@ -13,7 +13,7 @@ summary_points:
 - Skype zaznamenává průměrně 1,2 milionu stažení měsíčně a má 8,5 milionu celkem.
 - Registrováno je přes 3,5 milionu uživatelů Skype.
 - Venture investoři vložili do Skype 18,8 milionu dolarů.
-title: "Skype nabízí konferenční hovory a získává investice"
+title: Skype nabízí konferenční hovory a získává investice
 ---
 
 <p>

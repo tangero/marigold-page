@@ -13,9 +13,7 @@ summary_points:
 - Ovládání all-in-one zařízení je kompromisní a složité pro běžné uživatele.
 - Inovační cykly různých komponent all-in-one zařízení jsou nesynchronizované.
 - Uživatelé často preferují specializovaná zařízení kvůli lepší kvalitě a ceně.
-title: "'All-in-one zařízení (kombinace foto-mobil-média) jsou cesta do pekel"
-
-  '
+title: All-in-one zařízení (kombinace foto-mobil-média) jsou cesta do pekel
 ---
 
 <p>

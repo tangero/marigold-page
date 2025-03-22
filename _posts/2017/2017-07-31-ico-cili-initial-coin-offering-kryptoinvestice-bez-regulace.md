@@ -10,9 +10,7 @@ summary_points:
 - ICO umožňuje firmám získat peníze bez formálních akcií a papírování.
 - Mastercoin byl první ICO v roce 2013, s proměnlivým úspěchem.
 - Scam ICO poznáte podle anonymity, nerealistických cílů a přílišného marketingu.
-title: "'ICO čili Initial Coin Offering, kryptoinvestice bez regulace"
-
-  '
+title: ICO čili Initial Coin Offering, kryptoinvestice bez regulace
 ---
 
 ICO je způsob, jak (zejména) blockchainové společnosti mohou sehnat peníze mimo klasické finanční sféry. Je to drobná ekonomicko-společenská zajímavost na pomezí revoluce, hry a podvodu, tak jako momentálně všechno kolem kryptoměn. ICO je odvozeno zcela nepokrytě od IPO, veřejného úpisu akcií, protože nejčastější výklad toho slova je vlastně veřejný úpis elektronických podílů. Je to způsob, jak podpořit něčí podnikání výměnou za podíl na výnosech, potenciál růstu vašeho podílu nebo jen za dobrý pocit.<!--more-->

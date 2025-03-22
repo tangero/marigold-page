@@ -13,7 +13,7 @@ summary_points:
 - Článek se zabývá kapitálem pro daytrading a dlouhodobé investice.
 - Autor popisuje svou ztrátu 1500 dolarů kvůli atentátům bin Ládina.
 - Autor nakonec ztrátu smazal díky vzestupu akcií a prodeji.
-title: "Obchodujeme s akciemi v USA díl 2."
+title: Obchodujeme s akciemi v USA díl 2.
 ---
 
 <p>

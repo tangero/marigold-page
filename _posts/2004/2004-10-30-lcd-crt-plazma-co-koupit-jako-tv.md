@@ -13,7 +13,7 @@ summary_points:
 - LCD televize často interpolují obraz kvůli vyššímu rozlišení než PAL.
 - Nekvalitní TV signál je na LCD televizi více patrný než na CRT.
 - Osobní zkušenosti s LCD a plazma televizemi jsou žádány.
-title: "LCD, CRT, Plazma – co koupit jako TV?"
+title: LCD, CRT, Plazma – co koupit jako TV?
 ---
 
 <p>

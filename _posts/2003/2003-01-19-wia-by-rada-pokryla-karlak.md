@@ -13,7 +13,7 @@ summary_points:
 - Karlovo náměstí je největší náměstí ve střední Evropě.
 - Univerzitní pracoviště v okolí zvyšují potenciální poptávku po WiFi.
 - Marigold drží palce úspěšnému pokrytí Karlova náměstí WiFi.
-title: "WIA by ráda pokryla Karlák"
+title: WIA by ráda pokryla Karlák
 ---
 
 <p>

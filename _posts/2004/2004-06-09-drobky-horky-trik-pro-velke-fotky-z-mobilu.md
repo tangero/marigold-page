@@ -13,7 +13,7 @@ summary_points:
 - WiMAX článek Rity Pužmanové na Lupě popisuje poslední vývoj technologie.
 - Mobil.cz článek se věnuje mobilním píchačkám s GPS pro evidenci docházky.
 - Apple AirPort Express distribuuje hudbu z počítače přes WiFi síť.
-title: "Drobky: horký trik pro velké fotky z mobilu"
+title: Drobky -  horký trik pro velké fotky z mobilu
 ---
 
 <p>

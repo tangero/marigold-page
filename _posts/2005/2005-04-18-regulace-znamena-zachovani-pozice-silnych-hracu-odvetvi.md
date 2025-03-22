@@ -13,9 +13,7 @@ summary_points:
 - Regulace telekomunikací zpravidla chrání silné, již zavedené hráče na trhu.
 - Licence pro radiové spektrum jsou klíčové pro podnikání, ale existují i jiné možnosti.
 - Regulace frekvencí vedla k úpadku žánrové nabídky rádií, což ukazuje její negativa.
-title: "'Regulace znamená zachování pozice silných hráčů odvětví"
-
-  '
+title: Regulace znamená zachování pozice silných hráčů odvětví
 ---
 
 <p>Spolu se zveřejněním informací, že <a href="http://www.telefonie.cz/zprava.asp?id=5474">David Stádník nebyl nominován do Rady ČTÚ</a> a že tedy dost možná se jeho dny na postu šéfa ČTÚ blíží ke konci, se u nás mírně přetřásla i míra a také smysl regulace telekomunikačního prostředí. </p>

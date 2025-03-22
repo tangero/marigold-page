@@ -13,7 +13,7 @@ summary_points:
 - Firmy zvažují žaloby proti magistrátu kvůli plánovanému internetu zdarma.
 - Mainstreamová média ignorují protesty lokálních sítí proti rušení způsobenému projektem.
 - Autor kritizuje nekvalitní internet zdarma a jeho dopad na hospodářskou soutěž.
-title: 'Pražský internet zdarma: je třeba poslouchat, abyste slyšeli'
+title: Pražský internet zdarma -  je třeba poslouchat, abyste slyšeli
 ---
 
 <p>První akce vzniklé oficiálně proti pražskému projektu magistrátního internetu zdarma jsou zde. Tak především a oficiálně Asociace lokálních poskytovatelů internetu vydala k tomuto prohlášení, jež bych shrnul jako shodné s tím mým, jen více newsspeakové (je také psáno pro média), projekt se neoznačuje za kravinu, ale za nepřijatelný. <a href="http://www.alpi.cz/kauzamagistrat/">Čtěte zde</a>. </p>

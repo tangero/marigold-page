@@ -13,7 +13,7 @@ summary_points:
 - Požadují se znalosti Linuxu, Microsoft produktů, síťových technologií a SŠ/VŠ vzdělání.
 - Náplní práce je správa sítě, instalace HW/SW a uživatelská podpora pro cca 30 stanic.
 - U-Turn nabízí práci v Praze, v mladém kolektivu a odpovídající platové ohodnocení.
-title: 'Inzerátek: U-Turn hledá IT administrátora'
+title: Inzerátek -  U-Turn hledá IT administrátora
 ---
 
 <p>

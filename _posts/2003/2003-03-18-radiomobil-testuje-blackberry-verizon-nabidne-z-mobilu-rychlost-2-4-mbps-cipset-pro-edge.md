@@ -15,8 +15,7 @@ summary_points:
   než GPRS.
 - Český T-Mobile testuje BlackBerry od RIMu a zvažuje lokalizaci pro český trh.
 - BlackBerry má GSM/GPRS, pohodlnou práci s poštou a SMS, ale záleží na ceně.
-title: "RadioMobil testuje BlackBerry. Verizon nabídne z mobilů rychlost 2,4 Mbps,"
-  čipset pro EDGE
+title: RadioMobil testuje BlackBerry. Verizon nabídne z mobilů rychlost 2,4 Mbps, čipset pro EDGE
 ---
 
 <p>

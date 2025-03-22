@@ -17,7 +17,7 @@ summary_points:
   trhu.
 - One Medical má silnou kartotéku pacientů a sází na zaměnitelnost lékařů a nástup
   AI.
-title: "Amazon kupuje řetězec klinik One Medical"
+title: Amazon kupuje řetězec klinik One Medical
 ---
 
 Amazon zaplatil 3,9 miliardy dolarů za koupi společnosti One Medical, která provozuje malý, ale dobře hodnocený řetězec klinik primární péče v USA. Společnost One Medical funguje jak na modelu přímého prodeje spotřebitelům, tak i prodejem služeb prostřednictvím společností v rámci jejich zdravotních plánů pro zaměstnance. V současné době má více než 8 000 organizací jako klienty B2B2C - tedy asi něco jako třeba u nás Sante. Českému zájmu transakce ušla, ale my se u toho krátce zastavíme. 

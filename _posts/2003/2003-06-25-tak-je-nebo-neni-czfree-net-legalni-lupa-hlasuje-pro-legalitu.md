@@ -13,9 +13,7 @@ summary_points:
 - FAQ CzFree.Net uvádí, že kdokoliv se může připojit a síť rozšířit.
 - Právník definuje CzFree.Net jako veřejnou síť, protože nikoho nevylučuje.
 - Řešením rozporu je úprava podmínek připojení, ale hrozí obvinění z diskriminace.
-title: "'Tak je nebo není CzFree.Net legální? Lupa hlasuje pro legalitu."
-
-  '
+title: Tak je nebo není CzFree.Net legální? Lupa hlasuje pro legalitu.
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - AntiBW blog kritizuje BonusWeb, autor zůstává anonymní a poukazuje na překlepy.
 - BusinessWeek.cz je zpravodajský server o internetovém obchodu psaný formou blogu.
 - aKB@large, jeden z nejlepších českých weblogů, ukončil svou činnost.
-title: 'Blogerské novinky: NTS Govera, Antibonusweb, BusinessWeek končící Akabe'
+title: Blogerské novinky -  NTS Govera, Antibonusweb, BusinessWeek končící Akabe
 ---
 
 <p>Skrzevá <a href="http://www.pooh.cz/pooh/a.asp?a=2012266">Pooh.cz</a> jsem objevil zajímavý weblog <b><a href="http://ntsgovera.bloguje.cz/">NTS Govera</a></b> věnovaný fiktivní telekomunikační společnosti. Samozřejmě se podle názvu nedá vůbec tušit, jaká společnost to je, zřejmě Telecom nebo Vodafone, ale za počtení to stojí. GTS Novera začala mezi tím uhánět adminástrátory bloguje, aby jí vyzradili, kdo blog píše. Proč, když to není o ní...</p>

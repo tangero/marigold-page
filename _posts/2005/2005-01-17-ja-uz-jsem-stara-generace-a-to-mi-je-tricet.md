@@ -13,7 +13,7 @@ summary_points:
 - Autor bránil třicátníky, kteří neměli internet a mobily zadarmo.
 - Autor se pohybuje v telekomunikacích deset let.
 - Nobelovu cenu dostávají šedesátníci za dílo po pětatřicítce.
-title: "Já už jsem stará generace (a to mi je třicet) …"
+title: Já už jsem stará generace (a to mi je třicet) …
 ---
 
 <p>Před deseti dny se se mnou domlouval redaktor Týdne, že by potřeboval pár názorů k článku věnovanému rozdílům mezi starou a mladou podnikatelskou generací. I souhlasil jsem a připravoval jsem si několik smířlivých názorů, kterak my, mladá generace, jsme positivní a blabla&#8230; Redaktor dorazil a po vteřině rozhovoru mne zarazil a objasnil mi, že já jsem přeci ta STARÁ generace, ne ta mladá, to mladou že myslí dnešní dvacátníky. </p>

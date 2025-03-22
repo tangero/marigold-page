@@ -15,9 +15,7 @@ summary_points:
   jiný kanál.
 - Cena jednosměrného satelitního zařízení je výrazně nižší než obousměrného.
 - Jednosměrné připojení je zajímavé pro rychlý download v kombinaci s pomalým uploadem.
-title: "'Jednosměrné satelitní připojení Astra přes PragoNet"
-
-  '
+title: Jednosměrné satelitní připojení Astra přes PragoNet
 ---
 
 <p>

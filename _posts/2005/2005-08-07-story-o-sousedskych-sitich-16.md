@@ -13,7 +13,7 @@ summary_points:
 - Internetová konektivita je nyní od lokálního přeprodejce net4net.
 - Testování připojení proběhlo sledováním Otázek Václava Moravce v HQ.
 - Connection.cz ztratila zákazníky, protože neumí prodávat konektivitu jinak.
-title: "Story o sousedských sítích (16.)"
+title: Story o sousedských sítích (16.)
 ---
 
 <p><b>Oook píše:</b><br />

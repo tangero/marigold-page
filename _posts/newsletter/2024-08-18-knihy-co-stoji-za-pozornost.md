@@ -19,7 +19,7 @@ summary_points:
   životě.
 - How China Escaped the Poverty Trap vysvětluje, jak Čína unikla pasti chudoby adaptivním
   řízením.
-title: "\U0001F4D7Knihy, co stojí za pozornost"
+title: \U0001F4D7Knihy, co stojí za pozornost
 ---
 
 Minule jsem sliboval, že zvýrazním pár knih, které stojí za pozornost. 

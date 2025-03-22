@@ -13,7 +13,7 @@ summary_points:
 - ChatGPT ve firmách se dá naučit skrze využití pro děti zaměstnanců.
 - Povídka Eklog v Forbes The Next Big Think popisuje systém placení dle přínosu společnosti.
 - Eklog je zařízení, které zohledňuje přínos jedince pro určení jeho podílu na majetku.
-title: "\U0001F4BC Ebook AI pro rodiče školáků"
+title: \U0001F4BC Ebook AI pro rodiče školáků
 ---
 
 Začnu novým ebookem, který jsme připravili spolu s Arnoštem Štěpánkem (brzy bývalý náměstek hejtmana královéhradeckého kraje pro školství) a Institutem Pí. **Ebook se jmenuje["AI pro rodiče školáků"](https://www.pii.cz/clanky/ai-pro-rodice-skolaku/)** a je přesně to, jak se jmenuje. Určen rodičům dětí a mládeže, jak využít AI, například v momentě, kdy si sami potřebujete osvěžit postup řešení matematického úkolu nebo zatraktivnit povinnou literaturu. Osobně tento přístup doporučuji na svých workshopech, protože je to nejsnazší cesta, jak s AI naučit zaměstnance ve firmách: zaplatit jim firemní ChatGPT a ukázat jim, jak to mohou použít se svými dětmi. Tím se to naučí používat a budou to používat i ve firmě k práci. [Stahovat zdarma můžete zde](https://www.pii.cz/clanky/ai-pro-rodice-skolaku/). 

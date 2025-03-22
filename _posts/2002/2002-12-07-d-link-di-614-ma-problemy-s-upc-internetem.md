@@ -13,7 +13,7 @@ summary_points:
 - Pevná IP adresa nebo statické nastavení DHCP adresy řeší problém s D-Linkem u UPC.
 - Linksys BEFW11S4 je další zajímavý soho router s WiFi dostupný na Amazon.co.uk.
 - Autor chystá testování soho routerů a hledá zapůjčení od dovozců.
-title: "D-Link DI-614+ má problémy s UPC internetem"
+title: D-Link DI-614+ má problémy s UPC internetem
 ---
 
 <p>

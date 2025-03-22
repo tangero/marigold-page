@@ -13,7 +13,7 @@ summary_points:
 - Software by mohl řešit přepínání mezi WiFi a GPRS sítěmi automaticky.
 - České Radiokomunikace nabízí bezdrátové připojení Bluetone na Breeznetu.
 - Mikrovlnka se dá využít k nečekaným experimentům, například s žárovkou.
-title: "Siemens o bezproblémovém roamingu mezi WiFi a GPRS, bezdráty od Radiokomunikací"
+title: Siemens o bezproblémovém roamingu mezi WiFi a GPRS, bezdráty od Radiokomunikací
 ---
 
 <p>

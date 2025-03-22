@@ -13,7 +13,7 @@ summary_points:
 - Oběti krádeží hlásí případy, kdy zloději lokalizovali byt pomocí WiFi.
 - V ČR je tento způsob krádeží méně pravděpodobný kvůli technické vybavenosti.
 - Nízká technická uvědomělost českých zlodějů brání tomuto postupu.
-title: "Bezdrátová síť tipem na vykrádačku"
+title: Bezdrátová síť tipem na vykrádačku
 ---
 
 <p>

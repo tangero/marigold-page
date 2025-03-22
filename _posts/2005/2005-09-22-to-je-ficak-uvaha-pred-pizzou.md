@@ -13,7 +13,7 @@ summary_points:
 - Čínská restaurace u Otakarovy zve na prohlídku kuchyně kvůli konkurenci.
 - Slogany z reality show VyVolení zdomácněly a jsou populární.
 - Virtuální realita může způsobit, že vzhled v ní bude důležitější.
-title: "To je fičák… (úvaha před pizzou)"
+title: To je fičák… (úvaha před pizzou)
 ---
 
 <p>Dorazil jsem si do Venezie o půl čtvrté na pizzu, mají ji tu za poloviční cenu po třetí hodině a dříve jsem se na oběd nedostal. 

@@ -13,9 +13,7 @@ summary_points:
 - Psaní článků pro laiky je nevděčné, protože mnozí chtějí složitý jazyk.
 - Autor preferuje srozumitelné zasvěcení laiků do technických mystérií.
 - Technické znalosti jsou moderní mystérium, kde autor laicizuje poznání.
-title: "'Mobilní sítě jsou stejné mystérium, jako jiné esoterní víry"
-
-  '
+title: Mobilní sítě jsou stejné mystérium, jako jiné esoterní víry
 ---
 
 <p>

@@ -13,9 +13,7 @@ summary_points:
 - Návrh FCC projde připomínkovacím řízením s možným platností za 100 dní.
 - Úřední angličtina FCC je čtivější než úřední angličtina evropského CEPT.
 - Dokument FCC je úvod do problematiky trhu a má 40 stran.
-title: "'FCC vydala návrh pravidel pro uvolnění nových frekvencí"
-
-  '
+title: FCC vydala návrh pravidel pro uvolnění nových frekvencí
 ---
 
 <p>

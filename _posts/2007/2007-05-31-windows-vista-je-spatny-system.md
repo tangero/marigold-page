@@ -13,7 +13,7 @@ summary_points:
 - Autor kritizuje GUI Visty pro zastaralost a nepraktičnost ve srovnání s jinými systémy.
 - Vista má tragickou myš/touchpad podporu a pomalý software s rizikem virů.
 - Vista má horší podporu periférií, menší komunitu a omezené možnosti přizpůsobení.
-title: "Windows Vista je špatný systém"
+title: Windows Vista je špatný systém
 ---
 
 Update: Pro jistotu to napíšu hned na začátek a následně rozvedu: článek Windows Vista je špatný systém jsem nemyslel vážně a byla to jen parodie na sociosystém lůzy … <a href="http://www.marigold.cz/item/2111">vysvětluji to celé podrobně zde</a> :) Gratulace těm, co to pochopili ...

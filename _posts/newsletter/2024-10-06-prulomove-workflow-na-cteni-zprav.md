@@ -17,7 +17,7 @@ summary_points:
 - 'Deepl a Ground.news: autor používá tyto pluginy pro překlad a hodnocení zpráv.'
 - 'Revolut Metal: předplatné umožňuje levnější přístup k Financial Times.'
 - 'České zdroje: autor je předplácí, ale prakticky nečte, spíše je podporuje.'
-title: "\U0001F4D5Průlomové workflow na čtení zpráv"
+title: \U0001F4D5Průlomové workflow na čtení zpráv
 ---
 
 Tohle dávám jako svůj osobní tip, ke kterému jsem se po letech dopracoval. Jak "konzumuji" zprávy?

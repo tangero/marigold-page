@@ -13,7 +13,7 @@ summary_points:
 - Autor píše knihu o WiFi, podepsal smlouvu s nakladatelem.
 - Autor řeší hloubku výkladu WiFi standardu v knize.
 - Rozsáhlý výklad standardu WiFi bude pouze v autorově knize.
-title: "Broža už má doma taky WiFi a já zatím píšu WiFi knihu"
+title: Broža už má doma taky WiFi a já zatím píšu WiFi knihu
 ---
 
 <p>

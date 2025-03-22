@@ -16,7 +16,7 @@ summary_points:
 - Autor z prodeje 12 tisíc výtisků knihy obdržel necelých 120 000 Kč.
 - Autoři v Česku se psaním knih neuživí, je to spíše hobby.
 - Elektronizace prodeje knih je pravá příčina stížností vydavatelů.
-title: "Pane Pistorie, bojujete za vydavatele, ne za autory…"
+title: Pane Pistorie, bojujete za vydavatele, ne za autory…
 ---
 
 Se zájmem se pročítám diskusí na téma konec knih v Česku vinou DPH, vládní garnitury, důchodů a jiného neřádstva. Myslím si své. Především to, že vydavatelé bojují za zájmy své branže za zájmy vydavatelů, nikoliv autorů. Proč?

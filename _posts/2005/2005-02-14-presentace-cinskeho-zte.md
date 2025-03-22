@@ -14,7 +14,7 @@ summary_points:
 - ZTE prodává telefony v Evropě prostřednictvím Telefonica ve Španělsku a spolupracuje
   s Alcatelem.
 - ZTE věří v technologii TD-S-CDMA a vyvíjí kompletní řešení.
-title: "Presentace čínského ZTE"
+title: Presentace čínského ZTE
 ---
 
 <p>Po delší chvíli věnované domluveným obchodním schůzkám přepínám zase na novinky. Jsem na presentaci čínzského výrobce telco technologií ZTE.</p>

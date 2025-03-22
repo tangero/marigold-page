@@ -10,7 +10,7 @@ summary_points:
 - Kuřáci se cítí pronásledováni, ale ne vždy respektují nekuřáky.
 - Stát zasáhl kvůli nedohodě a situace se vyhrotila.
 - Řešením je tolerovat se a dohodnout v rámci lidské slušnosti.
-title: 'K zákazu kouření: kde selhala samoregulace, udeřil stát'
+title: K zákazu kouření -  kde selhala samoregulace, udeřil stát
 ---
 
 O zákazu kouření už bylo napsáno už skoro všechno. Nebudu se opakovat a nudit banalitami, jenže hřebíček na hlavičku se uhodil málokde.

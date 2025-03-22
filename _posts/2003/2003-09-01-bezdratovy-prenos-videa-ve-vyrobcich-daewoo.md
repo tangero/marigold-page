@@ -15,9 +15,7 @@ summary_points:
   čase.
 - Bezdrátové video snižuje nechuť uživatelů k propojování zařízení kabely.
 - Obava z propojování drátů je druhý největší důvod, proč lidé nekupují novou elektroniku.
-title: "'Bezdrátový přenos videa ve výrobcích Daewoo"
-
-  '
+title: Bezdrátový přenos videa ve výrobcích Daewoo
 ---
 
 Na veletrhu IFA probíhající v Berlíně (do 3.9.) představila společnost Daewoo první praktické počiny v oblasti bezdrátové distribuce videosignálu pro spotřební elektroniku. 

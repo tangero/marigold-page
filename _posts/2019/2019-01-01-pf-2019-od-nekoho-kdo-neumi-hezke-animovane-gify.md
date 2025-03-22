@@ -10,7 +10,7 @@ summary_points:
 - Návrat k byzantinskému světu založeném na úplatcích a známostech.
 - Důležitost společné práce a zapojení do komunitních aktivit.
 - Rok 2019 přinese šíření alternativních míst a občanských iniciativ.
-title: "PF 2019 (od někoho, kdo neumí hezké animované GIFy…)"
+title: PF 2019 (od někoho, kdo neumí hezké animované GIFy…)
 ---
 
 Rok 2018 byl rokem, kdy se definitivně ukázalo být vítězství pravdy a lásky nad lží a nenávistí jen další z fake news. Ba naopak. Přihrát si malou domů je dnes znamení přičinlivosti, šidit na daních ve velkém je starostlivostí zodpovědného hospodáře vlevo i vpravo na politickém spektru a lež už má tak krátké nohy, že se věrohodně usalašila mezi námi a nehodlá se od nás hnout.

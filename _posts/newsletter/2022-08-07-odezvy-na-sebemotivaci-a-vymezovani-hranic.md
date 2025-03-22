@@ -13,7 +13,7 @@ summary_points:
   závislostí.
 - Kniha "Vymezte si své hranice" pomáhá nastavit hranice pro rovnováhu a lepší vztahy.
 - Deník N publikoval článek o Uberu a jeho kontroverzním vlivu na taxikářské mafie.
-title: "Odezvy na sebemotivaci a vymezování hranic"
+title: Odezvy na sebemotivaci a vymezování hranic
 ---
 
 Minulý týden jsem zde psal o sebemotivaci a dostal jsem od vás celou řadu tipů a odkazů. Zdá se, že s českými zdroji je malá zkušenost a (nebo) také malá důvěra. A co jste doporučovali?

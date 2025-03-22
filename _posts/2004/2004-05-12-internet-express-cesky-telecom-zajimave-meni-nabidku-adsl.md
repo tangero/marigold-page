@@ -13,7 +13,7 @@ summary_points:
 - Eurotel nabízí služby Telecomu ve svých 84 prodejnách a naopak.
 - CDMA testování se zpozdilo kvůli interferencím s TV vysíláním a filtrace se montuje.
 - Telecom nezmění agregaci ADSL a FUP zpomaluje při překročení datového limitu.
-title: "Internet Express – Český Telecom zajímavě mění nabídku ADSL"
+title: Internet Express – Český Telecom zajímavě mění nabídku ADSL
 ---
 
 <p>

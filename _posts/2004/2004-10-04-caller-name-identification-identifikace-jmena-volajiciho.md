@@ -13,7 +13,7 @@ summary_points:
 - Mobilní telefony dnes zobrazují jen čísla, i když lze přenášet jména.
 - GPP nepodporuje nezávislé návrhy, zvláště ty zdarma pro uživatele.
 - CNI návrh zřejmě neprojde, dokud ho nepodá velká firma.
-title: "Caller Name Identification – identifikace jména volajícího"
+title: Caller Name Identification – identifikace jména volajícího
 ---
 
 <p>

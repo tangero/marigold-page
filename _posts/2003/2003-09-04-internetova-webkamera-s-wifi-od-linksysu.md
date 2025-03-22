@@ -13,7 +13,7 @@ summary_points:
 - Kamera podporuje WiFi 802.11b i RJ-45 ethernet připojení k internetu.
 - MPEG-4 video v rozlišení 320x240 bodů produkuje tato webová kamera.
 - Detekce pohybu aktivuje odeslání emailu s videem nebo nahrávání na disk.
-title: "Internetová webkamera s WiFi od Linksysu"
+title: Internetová webkamera s WiFi od Linksysu
 ---
 
 <p>

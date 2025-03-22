@@ -13,7 +13,7 @@ summary_points:
 - Důvodem ukončení projektu Cometa Networks je nenalezení finančního partnera.
 - Cometa chtěla vystavět 20 000 hotspotů v USA pro ISP.
 - Ukončení Cometa Networks neznamená konec WiFi, jen neúspěch jedné firmy.
-title: "Cometa Networks zavírá krám – WiFi hype je u konce?"
+title: Cometa Networks zavírá krám – WiFi hype je u konce?
 ---
 
 <p>

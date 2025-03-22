@@ -13,7 +13,7 @@ summary_points:
 - Site Survey adaptérů zobrazuje jen jméno sítě a MAC adresu, což je nedostatečné.
 - Pro správné nastavení antény je nutný software typu NetStumbler, ne adaptér.
 - Problémem je nekompatibilita konektorů antén mezi adaptéry a notebooky.
-title: "Bezdrátový ethernet adaptér bez měření síly signálu – to je lahůdka"
+title: Bezdrátový ethernet adaptér bez měření síly signálu – to je lahůdka
 ---
 
 <p>

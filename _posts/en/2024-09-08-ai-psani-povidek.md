@@ -13,8 +13,8 @@ post_excerpt: It was the first time I actually wrote fiction with the help of ar
   intelligence. And I have to say, it was pretty helpful. How have I used AI to write
   a scifi story, where has it helped me and where are its limitations?
 thumbnail: https://www.marigold.cz/assets/aipovidky.png
-title: "AI can already help with fiction writing"
-translated: true
+title: AI can already help with fiction writing
+ranslated: true
 ---
 
 I've been using AI to write articles for quite a long time, but so far it's always been for fact-based writing. I haven't used it for fiction, because generating fiction text alone didn't give me a result that was worthwhile. The text has no flow, tends to be naive, full of clichés. Maybe it can be smoothed out with better prompting, but I'll write better text faster than I can type it into Claude.

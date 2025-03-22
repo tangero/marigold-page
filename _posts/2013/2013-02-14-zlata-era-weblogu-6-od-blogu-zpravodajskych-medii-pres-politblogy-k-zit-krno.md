@@ -19,8 +19,7 @@ summary_points:
 - SME na Slovensku v roce 2004 spustilo blogovací systém s redakčním výběrem příspěvků.
 - Aktuálně, iDnes a Lidové noviny v Česku zavedly politblogy, které ovlivňovaly veřejné
   mínění.
-title: "'Zlatá éra weblogů 6: od blogů zpravodajských médií přes politblogy k Žít"
-  Krno'
+title: Zlatá éra weblogů 6 -  od blogů zpravodajských médií přes politblogy k Žít Krno
 ---
 
 <p>S blogy si z počátku české zpravodajské portály, natož papírová média, nevěděly rady. Novináři je sice nezřídka používali jako návodný zdroj informací či vysvětlení nebo jiného pohledu na popisovanou událost, zejména, když věděli, že blog píše insider, někdy též žádali blogera o oficiální článek pro své médium, ale jinak žádná spolupráce neexistovala.</p>

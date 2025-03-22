@@ -14,7 +14,7 @@ summary_points:
 - Telecom zvažuje limity pro přenos dat 10/20 GB s možností dokoupení 10 GB za 300
   Kč.
 - Mobil.iDNES.cz píše o výpadcích T-Zones a problémech s funkčností GPRS u T-Mobile.
-title: "ADSL drsně agregováno"
+title: ADSL drsně agregováno
 ---
 
 <p>

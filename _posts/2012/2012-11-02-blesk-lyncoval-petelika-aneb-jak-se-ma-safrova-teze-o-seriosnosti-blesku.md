@@ -15,7 +15,7 @@ summary_points:
 - Redakce Blesku si neověřila autenticitu výroku a Petelíka veřejně dehonestovala.
 - Šéfredaktor Blesku Pavel Šafr a redaktor Jiří Fabián na dotazy nereagovali.
 - Blesk se za publikování nepravdivé zprávy neomluvil a situaci nenapravil.
-title: "Blesk lynčoval Petelíka aneb jak se má Šafrova teze o seriosnosti Blesku"
+title: Blesk lynčoval Petelíka aneb jak se má Šafrova teze o seriosnosti Blesku
 ---
 
 <p> Minulou sobotu vyšel v Blesku článek věnovaný údajnému výroku Jaromíra Petelíka, v němž hlásal věšení pravičáků a vyvlastňování. Zastupitel Prahy 8 Jaromír Petelík je komunista a Blesk si na jeho orientaci i facebookovém výroku smlsnul sérií článků. Jenže se záhy ukázalo, že celá záležitost má háček: Petelík velmi pravděpodobně nikdy kritizovaný výrok na Facebook nenapsal a veřejně se od něj distancoval.</p>

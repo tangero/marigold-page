@@ -13,8 +13,7 @@ summary_points:
 - Předražený roaming blokuje vstup alternativních operátorů na trh.
 - Zisky operátorů z roamingu brzdí inovace a expanzi služeb.
 - Regulace trhu odstraňuje bariéry pro spravedlivé podnikání.
-title: "Odpověď k odpovědi panu Rybářovi aneb pro zájemce o jízdu na mrtvém"
-  koni
+title: Odpověď k odpovědi panu Rybářovi aneb pro zájemce o jízdu na mrtvém koni
 ---
 
 <p>Pan Rybář <a href="https://jirirybar.wordpress.com/2014/04/04/kratka-odpoved-panu-zandlovi-ohledne-unijni-regulace-roamingu/">mi odpověděl</a>. Doufal jsem, že je politicky protřelejší, přizná se, že článek bez jeho vědomí pod jeho jménem publikovala externí sekretářka, kterou právě vyhodil, jak bývá v tomto případě dobrou tradicí. Neučinil tak, pokračuje na jízdě na mrtvém koni a kdo máte tu touhu, <a href="https://jirirybar.wordpress.com/2014/04/04/kratka-odpoved-panu-zandlovi-ohledne-unijni-regulace-roamingu/">můžete se přidat</a>. Já jen pro pořádek doplním to, co je i v učebnicích ekonomie. (<a href="http://www.marigold.cz/item/jak-funguje-business-s-roamingem-aneb-vysvetleni-pro-svobodneho-pana">můj iniciační článek je zde</a>)</p>

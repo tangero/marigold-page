@@ -13,7 +13,7 @@ summary_points:
 - Sveasoft zpoplatnil fórum, což vyvolalo spor ohledně GPL licence.
 - GPL licence umožňuje volnou distribuci softwaru, což Sveasoft obchází.
 - Autor řeší problém s uchycením antény kvůli izolaci domu.
-title: "Bezdrátová okurka – flamewary o GPL a vrtání díry do styroporu…"
+title: Bezdrátová okurka – flamewary o GPL a vrtání díry do styroporu…
 ---
 
 <p>

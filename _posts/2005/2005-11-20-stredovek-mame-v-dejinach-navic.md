@@ -18,7 +18,7 @@ summary_points:
 - Fomenko zpochybňuje datování raného středověku a spolehlivost Scaligerovy chronologie.
 - Historické datace jsou dle Fomenka založeny na nespolehlivých a neověřených zdrojích.
 - Oficiální věda Fomenkovu novou chronologii většinou mlčí nebo ji odmítá.
-title: "Středověk máme v dějinách navíc"
+title: Středověk máme v dějinách navíc
 ---
 
 Udělal jsem na Amazonu další nehoráznou útratu a na poslední chvíli jsem si všimnul, že mi Amazon podstrčil knihu „která by se mohla líbit“. Nejdříve jsem jí nevěnoval pozornost, ono taky nadpis <a href="http://www.amazon.com/gp/product/2913621058/103-1264839-4831858?v=glance&amp;n=283155&amp;%5Fencoding=UTF8&amp;me=ATVPDKIKX0DER&amp;no=283155&amp;st=books">History: fiction or science</a>, to je název, jaký mohl zvolit třeba ten <a href="http://en.wikipedia.org/wiki/Daniken">kuchař ze švýcarského hotýlku</a> (vím, znevažující tvrzení, ale co nadělám, nemám rád jeho metody). Jenže pak mi došlo, že to nečitelné jméno je fonetickou transkripcí ruského jména Anatolie Fomenka. 

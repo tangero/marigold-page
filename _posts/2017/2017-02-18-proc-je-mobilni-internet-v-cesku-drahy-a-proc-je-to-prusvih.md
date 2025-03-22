@@ -11,7 +11,7 @@ summary_points:
 - Akce mobilních operátorů omezily práva zákazníků a zvýšily ceny.
 - Nedostatek zájmu o mobilní služby v Česku vede k nedostatečné nabídce a stagnaci
   trhu.
-title: "Proč je mobilní internet v Česku drahý a proč je to průšvih"
+title: Proč je mobilní internet v Česku drahý a proč je to průšvih
 ---
 
 <p>Proč je mobilní internet v Česku drahý a kdy bude levnější, na  průměru vyspělých evropských zemích? Na to mám dlouhou odpověď, jenže doba nepřeje dlouhým vysvětlením. Ta krátká vám ale moc nepomůže: mobilní internet je v Česku drahý, protože situace umožňuje držet ceny vysoko. A změna není na dohled, protože situace se v dohledné době nezmění.</p>

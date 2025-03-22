@@ -13,7 +13,7 @@ summary_points:
 - COL kritizuje Telecom za nedostatečnou podporu ADSL a monopol v CDMA.
 - COL se zviditelňuje nářky na Telecom, ale investicím se vyhýbá.
 - COL usiluje o levné PR namísto seriózních obchodních aktivit.
-title: 'COL: Satana by připojoval Český Telecom'
+title: COL -  Satana by připojoval Český Telecom
 ---
 
 <p>

@@ -12,8 +12,7 @@ summary_points:
 - Článek na Mobil.cz shrnuje dilema otevřených vs. uzavřených OS v 3G telefonech.
 - Lupa.cz dnes zveřejní článek o problematice Video on Demand.
 - Autor se intenzivně zabývá Video on Demand a nabízí shrnutí poznatků.
-title: "'Dva články: otevřené versus uzavřené OS na Mobilu a Video on Demand na"
-  Lupě'
+title: Dva články -  otevřené versus uzavřené OS na Mobilu a Video on Demand na Lupě
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Technet, CD-R a Pravednes jsou autorovy oblíbené zpravodajské stránky.
 - Kompost, Strach a BonusWeb jsou autorovy nominace v kategorii zábavná stránka.
 - Autor nominoval weby CzFreeNet, Jyxo a Sova v síti jako nový projekt.
-title: "Koho jsem tedy nominoval na České Zavináče 2002 v prvním kole?"
+title: Koho jsem tedy nominoval na České Zavináče 2002 v prvním kole?
 ---
 
 <p>

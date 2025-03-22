@@ -13,9 +13,7 @@ summary_points:
 - Eurotel Jukebox vyhrál Best Show na Mobile Entertainment Forum.
 - Ocenění Eurotelu a Chaoticomu bylo uděleno v SMS hlasování.
 - Další ocenění z MEF 2004 jsou dostupné na msmobiles.com.
-title: "'Eurotel dostal ocenění Best Contribution to Mobile Music 2004"
-
-  '
+title: Eurotel dostal ocenění Best Contribution to Mobile Music 2004
 ---
 
 <p>

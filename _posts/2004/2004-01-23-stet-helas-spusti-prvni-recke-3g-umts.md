@@ -13,9 +13,7 @@ summary_points:
 - Telefony Nokia 6650, Nokia 7600, Motorola A835 a Siemens U15 budou pro 3G dostupné.
 - Tarif Telestet 3G 70 nabízí 70 minut, 40 MB dat a 15 MMS za 1200 Kč.
 - Videotelefonování v 3G síti stojí 16 haléřů za vteřinu, po dubnu dvojnásobek.
-title: "'Stet Helas spustí první řecké 3G UMTS"
-
-  '
+title: Stet Helas spustí první řecké 3G UMTS
 ---
 
 <p>

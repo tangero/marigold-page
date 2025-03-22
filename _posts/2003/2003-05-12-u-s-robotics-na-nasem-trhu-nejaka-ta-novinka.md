@@ -13,7 +13,7 @@ summary_points:
 - USR produkty podporují 22 Mbps s možností upgradu na 54 Mbps.
 - Ceny U.S. Robotics produktů se pohybují od 2001 Kč s DPH.
 - Produkty U.S. Robotics jsou určeny pro domácí a SOHO uživatele.
-title: "U.S. Robotics na našem trhu – nějaká ta novinka"
+title: U.S. Robotics na našem trhu – nějaká ta novinka
 ---
 
 <p>

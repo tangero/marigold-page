@@ -13,7 +13,7 @@ summary_points:
 - Překlad článku obsahuje nepřesnosti ohledně Unix systémů.
 - Soubor /etc/heslo neexistuje v Unixu, správný název je /etc/password.
 - Hesla v Unixu se obvykle nacházejí v /etc/shadow nebo AAA databázi.
-title: "Je libo /etc/heslo ?"
+title: Je libo /etc/heslo ?
 ---
 
 <p>

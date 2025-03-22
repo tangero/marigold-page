@@ -20,7 +20,7 @@ summary_points:
 - Agresivita a hrozby demotivují politickou angažovanost.
 - Česko potřebuje
 thumbnail: https://www.marigold.cz/assets/patrick-forbes-next.jpg
-title: "Zúčtování s rokem 2024 a nahlížení do politiky verze 50"
+title: Zúčtování s rokem 2024 a nahlížení do politiky verze 50
 ---
 
 Rok 2024 pro mne měl několik momentů, pro který ho považuji za jeden z nejtěžších v mém životě, ačkoliv to celkově a osobně pro mě byl zároveň jeden z nejlepších roků mého života. Vynechávám teď fakt, že jsem měl padesáté narozeniny, ale to je přeci přípustný moment k ohlédnutí. Zejména tomu politickému. 

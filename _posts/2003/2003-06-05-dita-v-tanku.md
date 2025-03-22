@@ -13,7 +13,7 @@ summary_points:
 - Hyperbarická oxygenoterapie znamená ležení v nádrži s kyslíkem, ne řízení tanku.
 - Dita ignorovala zákaz předjíždění na cestě do Chrudimi, jela 176 km/h.
 - Dita jezdí rychle, autor prohrál spor o maximální povolenou rychlost.
-title: "Dita v tanku…"
+title: Dita v tanku…
 ---
 
 <p>

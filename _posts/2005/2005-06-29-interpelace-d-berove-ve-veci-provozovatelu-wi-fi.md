@@ -13,9 +13,7 @@ summary_points:
 - Bérová odkazuje s připomínkami k WiFi pásmům přímo na ČTÚ.
 - Návrh úprav WiFi pásem je aktuálně v připomínkovém řízení.
 - Poslanec Novotný sám připomínky k návrhu teprve formuluje.
-title: "'Interpelace D. Bérové ve věci provozovatelů Wi-Fi"
-
-  '
+title: Interpelace D. Bérové ve věci provozovatelů Wi-Fi
 ---
 
 <p>Poslanec Zbyněk Novotný (ODS, jeden z mála, co se věnuje telco ne z pohledu, kde co sebrat) interpeloval ministryni informatiky D. Bérovou ve věci nového návrhu úprav WiFi pásem presentovaným ČTÚ. </p>

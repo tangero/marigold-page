@@ -15,7 +15,7 @@ summary_points:
   ve volbách.
 - Celospolečenský tlak podporuje koalici jako možnost zabránit další vládě Andreje
   Babiše.
-title: "Piráti se STANem nebo bez stanu"
+title: Piráti se STANem nebo bez stanu
 ---
 
 Zanedlouho se bude rozhodovat o tom, zda Piráti půjdou či nepůjdou do koalice se STANem. Zajímavé je, že když poslouchám lidi v obou stranách (a v Brandýse jsme s nimi do místního zastupitelstva koalici už měli), slýchám prakticky vždycky to samé – na *ty druhé*.

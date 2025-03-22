@@ -12,7 +12,7 @@ summary_points:
 - Musk se podle některých snaží z nákupu Twitteru vycouvat.
 - Ze schůzky s Twitterem neunikly žádné zásadní informace.
 - Musk zřejmě nemá velkou motivaci Twitter výrazně měnit.
-title: 'Elon Musk a koupě Twitteru: stále zataženo'
+title: Elon Musk a koupě Twitteru -  stále zataženo
 ---
 
 Třetí měsíc řeší Elon Musk nákup Twitteru a stále není dořešeno. Jistě, taková transakce trvají, jenže ono to chvíli vypadá tak a chvíli jinak, rozhodně to nevypadá na stabilní transakci a dokonce už ani na to, že by jen tlačil na cenu. Řada dalších lidí má dojem, že se snaží z obchodu vykroutit. 

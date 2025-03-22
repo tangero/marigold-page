@@ -17,7 +17,7 @@ summary_points:
   prince Alwaleeda.
 - Projekt Teledesic byl v roce 2002 ukončen kvůli problémům v telekomunikačním průmyslu
   a na trzích.
-title: 'Telekomunikační hřbitov: Teledesic aneb Internet in the Sky'
+title: Telekomunikační hřbitov -  Teledesic aneb Internet in the Sky
 ---
 
 <p>

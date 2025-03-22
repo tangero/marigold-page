@@ -11,7 +11,7 @@ published: true
 summary_points:
 - Root.cz vyhrál soutěž o kachnu dne za zprávu o Google video.
 - Google video prohledává televizní programy, ne internet
-title: "Google nabízí prohledávání videa"
+title: Google nabízí prohledávání videa
 ---
 
 <p>Soutěž o kachnu dne vyhrává server root.cz. V krátkých zprávách editor (anička) napsal: <span style="font-weight: bold;">&#8220;Google nabízí </span><a href="http://video.google.com/" style="font-weight: bold;">prohledávání videa</a><span style="font-weight: bold;">. Jde o další z kroků, které vedou k jeho cíli: </span><a href="http://video.google.com/video_about.html" style="font-weight: bold;">zorganizovat veškeré informace</a><span style="font-weight: bold;"> na Internetu. [Anička]</span>&#8221; </p>

@@ -14,7 +14,7 @@ summary_points:
   regulaci.
 - Řešením pro CzFree je založení právní subjektivity a jednání s ČTÚ.
 - Alternativně lze CzFree považovat za propojení více soukromých sítí.
-title: "Je CzFree veřejná telekomunikační síť a tedy musí mít licenci?"
+title: Je CzFree veřejná telekomunikační síť a tedy musí mít licenci?
 ---
 
 <p>

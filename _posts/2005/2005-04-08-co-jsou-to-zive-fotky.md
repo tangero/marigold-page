@@ -13,7 +13,7 @@ summary_points:
 - Dříve se telefony skenovaly, digitální fotoaparáty byly drahé.
 - Dnešní recenze obsahují stovky redundantních fotografií telefonů.
 - Čtenáři mohou být zahlceni nadměrným množstvím detailních fotek.
-title: "Co jsou to živé fotky"
+title: Co jsou to živé fotky
 ---
 
 <p>Občas se mi dostane překvapení ze strany, kde bych ho nečekal. Například už delší dobu dumám nad tím, co jsou to <em>"živé foto"</em> a jak se liší od těch neživých, tedy mrtvých? Tohle novodobé spojení začala před delší dobou používat MobilMania, která si v patvarech a novotvarech libuje (co třeba <em>megarecenze</em>).</p>

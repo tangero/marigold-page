@@ -12,7 +12,7 @@ summary_points:
 - Zakladatelé Fitbitu vyvinuli populární fitness tracker, článek popisuje vývoj hardware.
 - Andrew Ng nabízí čtyřhodinový kurz Pythonu s AI pro začátečníky.
 - USA se staly největším těžařem fosilních paliv za Bidenovy administrativy.
-title: "\U0001F35EZajímavé články a drobky"
+title: \U0001F35EZajímavé články a drobky
 ---
 
 Apple **představí nový Mac Mini na procesoru M4** , přičemž zásadní má být podstatné zmenešní. Velikostně by měl Mini odpovídat Apple TV, budou dvě verze počítače: základní a Pro. Dosud velikost Miniho určovala velikost CDčka, které se do nich kdysi dalo zasunout. To už dnes není třeba a díky lepší možnosti optimalizovat velikost desky tak přišla i možnost změny velikosti počítače. Těším se na to, prý již v září! Reportuje [MacRumors](https://www.macrumors.com/2024/08/08/mac-mini-to-become-smallest-ever-apple-computer/). 

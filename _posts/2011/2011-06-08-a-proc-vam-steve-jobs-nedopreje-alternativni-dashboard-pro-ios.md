@@ -16,9 +16,7 @@ summary_points:
 - Jailbreaknuté iPhony mají dashboardy, což ukazuje, že omezení je politické, ne technické.
 - iOS centralizuje úlohy na pozadí přes API pro efektivní správu baterie.
 - Centrála notifikací v iOS 5 je alternativou k dashboardu s odlišnou technologií.
-title: "'A proč vám Steve Jobs nedopřeje alternativní dashboard pro iOS?"
-
-  '
+title: A proč vám Steve Jobs nedopřeje alternativní dashboard pro iOS?
 ---
 
 <p>To je dobrá otázka, která padla v komentářích <a href="/item/proc-nema-iphone-dashboard">k mé minulé mikrostati věnované dashboardu</a>, takové té "úvodní obrazovce", kam se na vás valí všechny záležitosti, které musíte vyřídit, abyste žili se svým zařízením v míru. Proč vám Apple nedopřeje možnost instalovat dashboard jako alternativu? Proč nám vnucuje jedinou cestu?</p>

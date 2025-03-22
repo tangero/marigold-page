@@ -17,7 +17,7 @@ summary_points:
   stres.
 - Apple ponechal třídění událostí na uživateli, který si sám vybírá, co chce vidět.
 - iOS ustupuje od absence dashboardu, protože jej používají i datoví profesionálové.
-title: "Proč nemá iPhone dashboard"
+title: Proč nemá iPhone dashboard
 ---
 
 Víte, proč nemá iPhone / iPad - tedy iOS platforma, dashboard, tedy takovou tu úvodní obrazovku, na které se sumarizuje, kdo vám právě volal, odkud vám přišel jaký email a kolik máte záznamů v kalendáři? 

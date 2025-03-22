@@ -14,7 +14,7 @@ summary_points:
   v Praze.
 - Glenn Hall a Patrick Marigold Zandl budou přednášet na akci Tuesday Business Network.
 - VoIP & Broadband Expo se koná v Brně v pavilonu F, souběžně s Invexem.
-title: "Jedete na Invex? Nezapomeňte na pavilon F – aktualizováno"
+title: Jedete na Invex? Nezapomeňte na pavilon F – aktualizováno
 ---
 
 <p><strong>Noname píše:</strong> Je středa večer, dva pracovní dny před začátkem Invexu a přesto se o něm nikdě nepíše. Zjevně jeho krize dosahuje vrcholu a IMHO je to jen a jen pořadatelská chyba (i když světový trend odklonu od podobných akcí je neodiskutovatelný). Už jsme to tu tuším řešili loni či předloni, takže to asi znovu řešit netřeba. Osobně si myslím, že ať jakkoliv pitomá, je to stále největší akce svého druhu u nás a na dvě tři hodinky má smysl se účastnit.</p>

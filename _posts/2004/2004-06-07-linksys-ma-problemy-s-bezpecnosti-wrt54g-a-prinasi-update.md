@@ -13,7 +13,7 @@ summary_points:
 - Nová beta verze firmware 2.02.8 od Linksysu tento problém s administrací řeší.
 - WiFisti spekulují, zda šlo o chybu nebo zadní vrátka, podobně jako u Netgear WG602.
 - Linksys firmware je open-source, ale zdrojový kód je dostupný za poplatek.
-title: "Linksys má problémy s bezpečností WRT54G a přináší update"
+title: Linksys má problémy s bezpečností WRT54G a přináší update
 ---
 
 <p>

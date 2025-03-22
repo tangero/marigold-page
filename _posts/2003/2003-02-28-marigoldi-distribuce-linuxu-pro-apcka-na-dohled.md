@@ -13,9 +13,7 @@ summary_points:
 - Marigold distribuce je CD s Linuxem pro hotspoty a management.
 - WiFi karty jsou omezeny pro funkčnost distribuce.
 - Distribuce je sesbíraný software, který ušetří práci.
-title: "'Marigoldí distribuce Linuxu pro APčka na dohled"
-
-  '
+title: Marigoldí distribuce Linuxu pro APčka na dohled
 ---
 
 <p>

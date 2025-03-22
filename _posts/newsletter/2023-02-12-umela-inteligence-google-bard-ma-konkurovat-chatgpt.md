@@ -17,7 +17,7 @@ summary_points:
 - Prezentace Google AI v Paříži selhala, viceprezidentka nemohla předvést funkce.
 - Microsoft integruje ChatGPT do Bingu a investuje do OpenAI deset miliard.
 - Quora představila aplikaci Poe s AI chatboty, ale v češtině má slabé výsledky.
-title: "\U0001F5E3️Umělá inteligence Google Bard má konkurovat ChatGPT"
+title: \U0001F5E3️Umělá inteligence Google Bard má konkurovat ChatGPT
 ---
 
 Google do nového roku v oblasti umělé inteligence nevykročil nejlépe. Jistě, v poslední době na sebe pozornost strhává chatGPT od OpenAI. Nový chatbot s umělou inteligencí od Googlu nazvaný Bard měl být důstojnou odpovědí. Jenže jeho jeho první ukázka skončila faktickou chybou. Bot byl [oznámen v pondělí](https://blog.google/technology/ai/bard-google-ai-search-updates/) jako konkurent ChatGPT společnosti OpenAI a měl být "v příštích týdnech více dostupný veřejnosti". V ukázce byl Bard dotázán na nové objevy vesmírného teleskopu Jamese Webba a odpověděl třemi odrážkami, včetně tvrzení, že teleskop "pořídil vůbec první snímky planety mimo naši sluneční soustavu". Toto tvrzení však bylo nesprávné. Jenže astronomové rychle upozornili, že první snímek exoplanety byl pořízen v roce 2004 a nebyl pořízen James Webb Space Telescope.

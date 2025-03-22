@@ -10,10 +10,7 @@ summary_points:
 - Autor vyzývá k veřejnému odsouzení násilí a podpoře školy.
 - Spustil veřejnou sbírku, aby škole finančně pomohl.
 - Cílem je ukázat dětem, že nejsou samy.
-title: "'Sbírka mezi přáteli na Teplickou školu čili malá soukromá vzpoura proti tomu,"
-  že rasismus je zase normální
-
-  '
+title: Sbírka mezi přáteli na Teplickou školu čili malá soukromá vzpoura proti tomu, že rasismus je zase normální
 ---
 
 Dneska vás potřebuju. Někdy je mi ze situace v Česku opravdu těžko. Ne kvůli volbám. Ne kvůli prezidentovi. Kvůli nám. Škola u Teplic. Nadávky, výhrůžky na adresu dětí. Granáty a plyn (<a href="https://zpravy.aktualne.cz/domaci/trida-plna-teroristu-nadavali-lide-na-facebooku-na-prvnackum/r~49e3c1b2c2ee11e7b286002590604f2e/">článek třeba zde</a>). Když už si vysvětlím, že je to lokální výron frustrace a čekám její hromadné odsouzení, slyším jen ohlušující ticho. Je mi zle z takového ticha. Je čas si to říct na rovinu. Když vidíme zlo a mlčíme, jsme sami součást zla. Udělat jen to málo jako říct "je hnus navážet se do dětí, natož jim přát plyn" snad nevyžaduje velkou osobní oběť. Stále snad jsme země, kde se smí ohrožování dětí odsoudit. Proč jsme to teda neudělali? Já původně pod dojmem své nevýznamnosti. Co koho zajímá můj pohled. Ale včera mi došlo, že čekám marně na to, až se dětí zastane někdo významnější. A tak jsem do té školy napsal s pár slovy podpory a otázkou, zda pro ně mohu něco udělat. Na něčem jsme se dohodli nebo dohodneme, to zařídím. Vás potřebuju na to, abych věděl, že nejsem sám. A ty děti a učitelé vás potřebují.

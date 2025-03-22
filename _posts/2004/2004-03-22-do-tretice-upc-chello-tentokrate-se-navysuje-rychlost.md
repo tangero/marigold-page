@@ -13,7 +13,7 @@ summary_points:
 - Chello Classic nově nabídne rychlost 768/128 Kb/s.
 - Chello Plus nově nabídne rychlost 1024/256 Kb/s.
 - Tisková zpráva UPC nezmiňuje zavedení datových limitů.
-title: 'Do třetice UPC Chello: tentokráte se navyšuje rychlost'
+title: Do třetice UPC Chello -  tentokráte se navyšuje rychlost
 ---
 
 <p>

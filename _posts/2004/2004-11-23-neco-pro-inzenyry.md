@@ -12,7 +12,7 @@ summary_points:
 - AVC Sillicon Hill zpracovalo záznam diskuse "Kam kráčíš, česká techniko?" z 17.11.2004.
 - Diskuse se účastnili prezident, ministryně školství a čtyři rektoři.
 - Záznam diskuse je dostupný ve videoarchívu CESNETu.
-title: "Něco pro inženýry"
+title: Něco pro inženýry
 ---
 
 <p>

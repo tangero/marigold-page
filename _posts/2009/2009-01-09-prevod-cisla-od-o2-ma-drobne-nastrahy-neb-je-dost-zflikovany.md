@@ -22,9 +22,7 @@ summary_points:
 - Potvrzovací SMS "Váš požadavek byl přijat" neznamená zahájení převodu čísla.
 - Pravidelné reporty o přenosu čísla od O2 je nutné sledovat.
 - Samoobsluha O2 je nedostatečná, nastavení služeb vyžaduje infolinku.
-title: "'Převod čísla od O2 má drobné nástrahy (neb je dost zflikovaný)"
-
-  '
+title: Převod čísla od O2 má drobné nástrahy (neb je dost zflikovaný)
 ---
 
 Po odchodu ze Streamu jsem se rozhodl, že se vrátím se svým mobilním číslem k Vodafone, mimo jiné proto, že v místech, která potřebuju, má lepší signál a zejména EDGE. A také proto, že tam většinu věcí vyřeším přes Samoobsluhu a ne telefonováním na nedobytnou infolinku. Toto jsem před vánoci vysvětlil pracovníkům obou firem, odeslal dotyčnou převodní esemesku a čekal. A čekal bych do skonání světa, kdyby mne po novém roce nenapadlo zavolat na infolinku O2 a přeptat se, v jakém stavu je převod čísla k Vodafone. 

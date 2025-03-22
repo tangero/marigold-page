@@ -13,9 +13,7 @@ summary_points:
 - Autorův "virus" z roku 1998 aktivoval ikonu hlasové schránky na Nokiích.
 - Skript rozesílal SMS aktivující ikonu a varující před odposlechem.
 - Autorovi byl GSM modul zabaven, čímž byl "virus" zastaven.
-title: "'Jak jsem naprogramoval svůj první virus pro mobil"
-
-  '
+title: Jak jsem naprogramoval svůj první virus pro mobil
 ---
 
 <p>Včera jsem byl na konferenci AEC, výrobce to antivirových a jiných bezpečnostních řešení. A při té příležitosti jsem se zajímal o mobilní antiviry a následně jsem si vzpomněl na humornou historku, kterak jsem <em>"naprogramoval svůj první virus".</em></p>

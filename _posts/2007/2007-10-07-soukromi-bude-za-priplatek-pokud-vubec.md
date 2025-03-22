@@ -13,9 +13,7 @@ summary_points:
 - Mobilní operátoři a firmy využívají SMS spam a telefonáty k propagaci služeb.
 - Uživatelé platí za ochranu soukromí a omezení reklamního spamu v mobilech.
 - 'Nerovný boj: reklama může lhát, ale kritika firem je obtížná a riskantní.'
-title: "'Soukromí bude za příplatek. Pokud vůbec."
-
-  '
+title: Soukromí bude za příplatek. Pokud vůbec.
 ---
 
 Invaze reklamy a jiných typů sdělení třetích stran do našich životů i do prostředí, které jsme doposud považovaly za nedotknutelné, souvisí s narůstajícím přesvědčením, že na reklamě lze vydělat kdekoliv a kdykoliv. Kde jsou ty časy, kdy se nad prvním inzerátem v novinách lidé podivovali. Dnešní noviny jsou zaplaveny inzercí, takže redakční informace zabírá někdy i jen polovinu plochy. A bude hůře. Zatímco dříve noviny a časopisy vznikaly s prvotním záměrem dát čtenářům nové podněty, dnes je prvotní záměr vytvořit reklamní nosič. Což je na řadě těch nově vznikajících děl až nepříjemně vidět a takové časopisy o bydlení jsou plejádou inzerátů, označených i neoznačených PR článků a jednoho tematického článku, který beztak slouží k tomu, aby vykolíkoval oblast pro inzerenty zajímavou a umožnil je efektivně a "bezešvě" nabalit na obsah. 

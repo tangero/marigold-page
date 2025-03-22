@@ -14,7 +14,7 @@ summary_points:
 - Apple Watch nabízí komplexní aplikace, ale jejich využití závisí na individuálních
   potřebách.
 - Pebble Time je cenově dostupnější s dlouhou výdrží, ale má slabší displej.
-title: 'Za tajemstvím chytrých hodinek: silnou stránkou je komunikace'
+title: Za tajemstvím chytrých hodinek -  silnou stránkou je komunikace
 ---
 
 <p>Ještě vás nezasáhla vlna chytrých hodinek? K čemu taky. Proč byste v době zvětšujících se displejů mobilů měli řešit hodinkové pididispleje a proč byste se měli o Apple Watch a jiné chytrohodinky vůbec zajímat, říkáte si. Jenže pro intenzivně komunikujícího uživatele jsou chytré hodinky skvělé rozšíření komunikace. Pokusím se sepsat, proč tomu tak je.</p>

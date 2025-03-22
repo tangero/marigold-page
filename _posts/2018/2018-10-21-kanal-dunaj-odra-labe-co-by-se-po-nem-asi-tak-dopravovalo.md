@@ -10,7 +10,7 @@ summary_points:
 - Labe je pro přepravu ropných produktů a obilí nespolehlivé a málo využívané.
 - Kontajnerová přeprava kanálem by ušetřila jen několik kamionů za hodinu.
 - Kanál DOL je megalomanskou investicí bez ekonomického opodstatnění.
-title: "Kanál Dunaj Odra Labe - co by se po něm asi tak dopravovalo…"
+title: Kanál Dunaj Odra Labe - co by se po něm asi tak dopravovalo…
 ---
 
 Já vím, že to nemá smysl, ale ze zvědavosti jsem se podíval na to, co by se mělo přepravovat po kanale Dunaj-Odra-Labe (DOL).

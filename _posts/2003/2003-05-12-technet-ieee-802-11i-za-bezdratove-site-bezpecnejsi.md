@@ -13,7 +13,7 @@ summary_points:
 - Autor píše kapitolu o bezpečnosti bezdrátových sítí do WiFi knihy.
 - Časové spínací hodiny pro vypínání WiFi mimo pracovní dobu je bezpečnostní doporučení.
 - Roman Všetečka nezmínil časové spínací hodiny jako bezpečnostní prvek WiFi.
-title: 'Technet: IEEE 802.11i, za bezdrátové sítě bezpečnější'
+title: Technet -  IEEE 802.11i, za bezdrátové sítě bezpečnější
 ---
 
 <p>

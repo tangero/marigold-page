@@ -14,7 +14,7 @@ summary_points:
 - Firma plánuje vlastní výrobu a kompletaci v Česku, menší zakázky.
 - Inspiraci pro nové kanceláře hledají, ale extravagantní designy odmítají.
 - Přijali nové zaměstnance a čeká je seznámení s novým šéfem projektů.
-title: "Chvíle na stěhování energomonitoru"
+title: Chvíle na stěhování energomonitoru
 ---
 
 <p>V energomonitoru nás za jaro přibylo tolik, že už se do kanceláří ve Valašském Meziříčí nemůžeme vejít. Tedy, můžeme, ale už je problém cokoliv jiného, než se tam vejít, například pracovat či se poradit - a to další kolegové mají dorazit v létě a jak to tak vypadá, s hledáním fajn a schopných lidí nějakou dobu nebudeme končit. Takže nás čeká stěhování. </p>

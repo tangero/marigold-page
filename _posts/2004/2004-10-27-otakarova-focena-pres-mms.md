@@ -12,7 +12,7 @@ summary_points:
 - Heslo zabezpečuje tento další pokus, jehož povaha není specifikována.
 - Obrázek Obraz035.jpg je vložen vpravo s rozměry 352x288 pixelů.
 - Obrázek se nachází v adresáři /wp-content/uploads/1/.
-title: "Otakarova focena pres mms"
+title: Otakarova focena pres mms
 ---
 
 <p>

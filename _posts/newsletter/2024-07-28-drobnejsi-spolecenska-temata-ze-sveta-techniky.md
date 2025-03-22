@@ -16,7 +16,7 @@ summary_points:
 - Americké státy zavádějí ověřování věku na porno webech, vyvolává to debaty.
 - Elon Musk má spor s transgender dcerou kvůli její identitě a jeho postojům.
 - Kniha Patogeneze zkoumá vliv osmi epidemií na světové dějiny.
-title: "\U0001F9D1‍\U0001F4BBDrobnější společenská témata ze světa techniky"
+title: \U0001F9D1‍\U0001F4BBDrobnější společenská témata ze světa techniky
 ---
 
 **🇨🇿Vláda schválila koncem července[Národní strategii umělé inteligence 2030](https://www.mpo.gov.cz/assets/cz/podnikani/digitalni-ekonomika/umela-inteligence/2024/7/Narodni-strategie-umele-inteligence-2030.pdf)**. A tak jsem se začetl do vyhodnocení plnění strategie z roku 2019. Administrativní body? Splněny. Faktické body? Zpravidla marnost. Zase jsme na chvostě. Proč?   

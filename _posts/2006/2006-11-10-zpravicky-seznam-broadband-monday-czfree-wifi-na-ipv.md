@@ -13,7 +13,7 @@ summary_points:
 - Stream.cz má nový vzhled, záznam Patrickovy přednášky je dostupný na Monday.cz.
 - Noname je novým uživatelem sítě CZFree na Praze 11 (JM-Net) a je spokojen.
 - Slovenská WiFi síť získala 30% zákazníků díky mapě wifi sítí Internet Pro Všechny.
-title: "Zprávičky – Seznam, Broadband Monday, CZFree, WiFi na IPV"
+title: Zprávičky – Seznam, Broadband Monday, CZFree, WiFi na IPV
 ---
 
 <texy>**Noname píše:** jen heslovitě několik zpráviček

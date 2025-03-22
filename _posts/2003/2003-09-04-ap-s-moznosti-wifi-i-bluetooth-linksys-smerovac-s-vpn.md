@@ -13,7 +13,7 @@ summary_points:
 - WRV54G od Linksys je širokopásmový směrovač s VPN podporou.
 - VPN umožňuje až dvaceti uživatelům vzdálený přístup do firemní sítě.
 - Linksys WRV54G podporuje hotspot funkce, registrace a autorizace uživatelů.
-title: "AP s možností WiFi i bluetooth. Linksys směrovač s VPN"
+title: AP s možností WiFi i bluetooth. Linksys směrovač s VPN
 ---
 
 Společnosti <STRONG>Possio a IPWireless</STRONG> představily přístupový bod kombinující možnosti přístupu přes bluetooth i přes WiFi ve standardu 802.11b. Společnosti tvrdí, že tak umožní zkombinovat přístup přes obě oblíbené technologie k internetu - některá PDA jsou již standardně vybavována bluetooth technologií ale nikoliv WiFi. Zdroj: <A href="http://www.ipwireless.com/press_090203.html">TZ IPWireless</A>. 

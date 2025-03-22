@@ -13,7 +13,7 @@ summary_points:
 - Autor shrnuje návrhy z diskuse a přidává k nim otázky.
 - Návrhy zahrnují výběrové řízení, financování obcí, a volnou konkurenci.
 - Další návrhy se týkají pokrytí náměstí, snížení daní, a spolupráce s ISP.
-title: "Obecní internet – vaše návrhy"
+title: Obecní internet – vaše návrhy
 ---
 
 <p>

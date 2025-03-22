@@ -13,7 +13,7 @@ summary_points:
 - ČRa konkuruje Contactelu, své dceřiné společnosti, což je dle autora nesmyslné.
 - Web ČRa má problémy s funkčností a zobrazením informací o nabízené službě.
 - Contactel má lepší web a značku, proto by měl nabízet 64 Kbps linku.
-title: "ČRa nabídly BlueTone Wireless internet za pár babek…"
+title: ČRa nabídly BlueTone Wireless internet za pár babek…
 ---
 
 <p>

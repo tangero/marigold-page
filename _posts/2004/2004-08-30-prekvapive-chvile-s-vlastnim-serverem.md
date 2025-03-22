@@ -13,7 +13,7 @@ summary_points:
 - Administrace Marigoldu se po upgradu přepnula do ruštiny.
 - Nový Marigold zobrazuje varování proti používání MSIE prohlížeče.
 - Oook a Noname začali přispívat články na Marigold.
-title: "Překvapivé chvíle s vlastním serverem…"
+title: Překvapivé chvíle s vlastním serverem…
 ---
 
 <p>

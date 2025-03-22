@@ -13,9 +13,7 @@ summary_points:
 - PO BOX je malý, větší zásilky se ukládají do koše na prádlo.
 - Pošta nemá odbavovací pracoviště pro podnikatele, fronty jsou s důchodci.
 - Zásilky se ztratily, protože je pošta uložila do koše na chodbě.
-title: "'O tom, kterak se něco na České poště zadrhlo"
-
-  '
+title: O tom, kterak se něco na České poště zadrhlo
 ---
 
 <p>

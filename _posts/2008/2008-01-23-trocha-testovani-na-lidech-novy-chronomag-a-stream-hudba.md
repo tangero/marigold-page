@@ -17,7 +17,7 @@ summary_points:
 - Diskusní fórum Chronomagu přešlo na Invision Power Board kvůli administraci a prodeji
   hodinek.
 - Stream Hudba byla přepracována na Windows Media Player pro zvýšení kvality.
-title: "Trocha testování na lidech: nový Chronomag a Stream Hudba"
+title: Trocha testování na lidech -  nový Chronomag a Stream Hudba
 ---
 
 Letošní rok jsem se rozhodl věnovat konsolidaci webů, které provozujeme či spravujeme jako Ariga. Ne každý si toho všiml, ale nakonec jsme vybudovali ne zase tak nenavštěvované portfolio webů zaměřených na slušné "tržní niche". Úhrnem dva miliony zobrazených stránek měsíčně, dvě stovky tisíc návštěvníků. Marigold je na první pohled vlajková loď. Chyba lávky. Vlajkovou lodí je <a href="http://www.chronomag.cz">Chronomag</a>, na který jsem kvůli pracovnímu vytížení musel kašlat hodně moc. A letos jsem se rozhodl mu to vynahradit. 

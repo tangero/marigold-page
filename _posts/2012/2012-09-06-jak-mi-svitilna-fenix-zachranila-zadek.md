@@ -15,7 +15,7 @@ summary_points:
 - Během cesty do Itálie upadl autorovi stěrač v silném dešti.
 - Firemní svítilna Fenix posloužila k nouzové opravě stěrače poutkem.
 - Dočasná oprava svítilnou Fenix vydržela cestu zpět i další používání.
-title: "Jak mi svítilna Fenix zachránila zadek"
+title: Jak mi svítilna Fenix zachránila zadek
 ---
 
 <p> Tohle je příhoda, jaká se jednou stát musela, jenom jsem nevěděl, kdy a jak to přijde. Už to vím. Jednou z našich reinkarnací je <a href="http://www.kronium.cz" target="_self" title="">prodej speciálních svítilen</a>, povětšinou značky Fenix. Ponechám teď stranou souvislosti, jako jak jsme na to došli, proč a nač takovou svítilnu - ti, co potřebují, vědí, ostatní nechť si nakoupí ve vietnamské tržnici a uloží si nás do bookmarků pro použití po první větší akci. </p>

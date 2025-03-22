@@ -13,7 +13,7 @@ summary_points:
 - Autor textu vyjadřuje radost nad obsahem menu.
 - Obrázek ukazuje menu z hospůdky v Opletalově ulici.
 - Obrázek lze zvětšit pro lepší prohlédnutí.
-title: "Konečně to pochopili…"
+title: Konečně to pochopili…
 ---
 
 <p>Jdu si tak Opletalovou ulicí a co to nevidím jako menu v jedné hospůdce...</p>

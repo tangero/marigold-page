@@ -13,7 +13,7 @@ summary_points:
 - Česká mainstream média se zatím RSS portálování příliš nevěnují.
 - Nezávislé české RSS portály postrádají pokročilejší funkce a lepší prezentaci obsahu.
 - Stále existuje prostor pro vytvoření kvalitního RSS portálu v České republice.
-title: "Yahoo nabízí RSS"
+title: Yahoo nabízí RSS
 ---
 
 <p>

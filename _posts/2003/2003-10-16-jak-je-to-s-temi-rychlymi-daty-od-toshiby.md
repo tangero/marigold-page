@@ -14,7 +14,7 @@ summary_points:
 - MIMO technologie využívá více přijímačů a vysílačů, včetně kombinované antény.
 - Vícesegmentová anténa Toshiby vysílá více datových proudů najednou, zvyšuje rychlost.
 - Standardizace technologie Toshiby je nutná pro uvedení na trh, očekává se za 3 roky.
-title: "Jak je to s těmi rychlými daty od Toshiby"
+title: Jak je to s těmi rychlými daty od Toshiby
 ---
 
 <p>

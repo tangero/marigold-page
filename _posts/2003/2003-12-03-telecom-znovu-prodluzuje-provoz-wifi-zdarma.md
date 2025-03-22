@@ -14,9 +14,7 @@ summary_points:
   problémy.
 - Systém Telecom WiFi je ve vývoji, účtování by bylo dražší než příjmy.
 - WiFi zdarma vyhovuje Telecomu, protože pokrytí hotspotů je omezené.
-title: "'Telecom znovu prodlužuje provoz WiFi zdarma"
-
-  '
+title: Telecom znovu prodlužuje provoz WiFi zdarma
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
 - Předložené podklady Eurotelu nesplňují požadavky na zvyšování hodnoty pro akcionáře
   Telecomu.
 - Valeski prokázal lepší výsledky než Telecom a projevil zájem o jeho koupi.
-title: "Telecom smetl CDMA450 z eurotelího stolu. Pardon, pozastavil"
+title: Telecom smetl CDMA450 z eurotelího stolu. Pardon, pozastavil
 ---
 
 <p>

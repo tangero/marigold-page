@@ -13,9 +13,7 @@ summary_points:
 - SuperHlas umožňuje vytvoření callcentra a funguje jako vzdálená softwarová ústředna.
 - VoIP telefony lze pořídit od 500 Kč, měsíční paušál začíná na 249 Kč.
 - Služby založené na Asterisku, jako SuperHlas, budou zřejmě přibývat.
-title: "'SuperHlas – další VoIP telefonie zaměřená na firmy"
-
-  '
+title: SuperHlas – další VoIP telefonie zaměřená na firmy
 ---
 
 <p>Zejména na firemní uživatele je zaměřena VoIP služba <a href="http://www.superhlas.cz">SuperHlas</a>. Není tak úplně nejnovější (2004), ale psalo se o ní málo, takže si dovolím na ni speciálně upozornit. Už podle předpony Super se právem domníváte, že patří do rodiny služeb Zdeňka Cendry (také SuperHosting). </p>

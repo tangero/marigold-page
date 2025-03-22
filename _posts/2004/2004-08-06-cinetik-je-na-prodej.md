@@ -14,7 +14,7 @@ summary_points:
 - Hlavní problémy Cinetiku jsou nedostatek času na rozvoj a investice do kurýrního
   doručení.
 - Zájemce o Cinetik by měl investovat do rozvoje, lidských zdrojů a filmové technologie.
-title: "Cinetik je na prodej"
+title: Cinetik je na prodej
 ---
 
 <p>

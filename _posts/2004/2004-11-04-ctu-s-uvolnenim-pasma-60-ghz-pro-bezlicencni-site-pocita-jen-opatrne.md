@@ -13,7 +13,7 @@ summary_points:
 - ČTÚ vyhradí pro bezlicenční použití pásmo 61-62 GHz, užší než v USA.
 - Pásma 63-64 GHz jsou určena pro silniční telematiku (RTTT).
 - Kyslíková absorbce omezuje dosah signálu v pásmu 60 GHz na 2,5 km.
-title: "ČTÚ s uvolněním pásma 60 GHz pro bezlicenční sítě počítá jen opatrně"
+title: ČTÚ s uvolněním pásma 60 GHz pro bezlicenční sítě počítá jen opatrně
 ---
 
 <p>

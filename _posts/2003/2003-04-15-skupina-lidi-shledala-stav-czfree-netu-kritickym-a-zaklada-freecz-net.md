@@ -13,7 +13,7 @@ summary_points:
 - Moderátoři CzFree reagovali smazáním diskusních příspěvků k tématu.
 - Gogoo a další založili nové fórum FreeCZ NET kvůli svobodě projevu.
 - FreeCZ NET fórum je dostupné na www.freecz.net a dočasně www.travelpages.cz.
-title: "Skupina lidí shledala stav CzFree Netu kritickým a zakládá FreeCz NET"
+title: Skupina lidí shledala stav CzFree Netu kritickým a zakládá FreeCz NET
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Infrastrukturní sítě využívají access point pro komunikaci mezi zařízeními.
 - Access point směruje provoz mezi bezdrátovými klienty a kabelovou sítí.
 - Cena access pointu závisí na počtu obsloužených klientů, rychlosti a funkcích správy.
-title: "Základy bezdrátových sítí: jak síť vypadá a jak vybrat Access Point?"
+title: Základy bezdrátových sítí -  jak síť vypadá a jak vybrat Access Point?
 ---
 
 Náš malý úvodní seriál o bezdrátových sítích pokračuje. Tentokráte se dozvíte o dvou základních typech bezdrátových sítích, infrastrukturní a ad-hoc síti. A navíc se podíváme na to, co má access point umět.<!--more-->Tento článek by měl navazovat na teoretické základy o standardu IEEE802.11b, o kterých jsme se dozvěděli minule a i tyto základy lze vztáhnout i na další odvozené standardy, jako je IEEE802.11a nebo 802.11g. 

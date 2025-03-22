@@ -14,7 +14,7 @@ summary_points:
 - Typická délka trvání hlasové zprávy PoC je 6 vteřin.
 - Fastmobile představil PC aplikaci propojující PoC s PC počítači pro profesionální
   uživatele.
-title: "Tema v Cannes – Push to Talk over Cellular aneb PoC"
+title: Tema v Cannes – Push to Talk over Cellular aneb PoC
 ---
 
 <p>

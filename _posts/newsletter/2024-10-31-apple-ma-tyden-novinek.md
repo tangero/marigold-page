@@ -15,7 +15,7 @@ summary_points:
 - Mac Mini má redukované rozměry a procesory M4 nebo M4 Pro.
 - Macbook Pro je nově vybaven procesory M4 Pro nebo M4 Max.
 - iOS 18.1 a iPadOS 18.1 s AI jsou pro USA, Evropa v angličtině duben 2025.
-title: "\U0001F9D1‍\U0001F4BB Apple má týden novinek"
+title: \U0001F9D1‍\U0001F4BB Apple má týden novinek
 ---
 
 Apple vydává každý den tohoto týdne nějakou novinku. Nově představuje počítače iMac vybavené procesorem M4 a především výrazně firma zatraktivnila Mac Mini, rovněž vybavený M4 nebo M4 Pro procesorem, přičemž rozměrově opouští půdorys dávno zavrženého CDčka a nabízí výrazně redukovaný rozměr. 

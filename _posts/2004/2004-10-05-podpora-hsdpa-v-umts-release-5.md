@@ -19,7 +19,7 @@ summary_points:
   softwarově.
 - Klíčové elementy HSDPA zahrnují HS-DSCH, rychlé plánování, H-ARQ a adaptivní modulaci.
 - HSDPA v UMTS Release 5 nabízí teoretickou sdílenou rychlost až 14,4 Mb/s.
-title: "Podpora HSDPA v UMTS Release 5"
+title: Podpora HSDPA v UMTS Release 5
 ---
 
 <p>

@@ -14,7 +14,7 @@ summary_points:
 - Tržby Nvidie z datových center vzrostly na 18,4 miliardy dolarů díky AI boomu.
 - Blackwell B200 a GB200 jsou nové AI čipy s výrazně vyšším výkonem a efektivitou.
 - Nvidia vyvíjí GR00T, základní model pro učení humanoidních robotů.
-title: "\U0001F916Nvidia má nový superčip a další novinky"
+title: \U0001F916Nvidia má nový superčip a další novinky
 ---
 
 V době, kdy byla Nvidia známá svými grafickými procesory pro hry a kryptografii, nebyla její konference **NVIDIA GPU Technology Conference** (GTC) tak velkou událostí. Ale teď, když je vedoucí společností na poli AI, jako by se všechno změnilo. Dnes je tato akce hlavní událostí pro inovátory, vývojáře a nadšence v oblasti umělé inteligence.

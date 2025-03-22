@@ -13,7 +13,7 @@ summary_points:
 - ČTÚ neupřesnil, co považuje za IP telefonii, což je zásadní nedostatek.
 - IPV, ZUI a SOS jsou proti jakékoliv regulaci IP telefonie v ČR.
 - Voice over IP služby by měly být regulovány jako běžné telefony.
-title: "Stanovisko IPV, ZUI a SOS k regulaci VoIP"
+title: Stanovisko IPV, ZUI a SOS k regulaci VoIP
 ---
 
 <p>

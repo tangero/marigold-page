@@ -13,8 +13,7 @@ summary_points:
 - NEC MobileStudio streamuje zvuk pro rozhlasové stanice pomocí ISDN a 3G.
 - NEC MobileStudio váží 3,3 kg a je produktem japonské firmy.
 - Podrobnosti o NEC MobileStudio jsou dostupné na K-Tai Watch.
-title: "Mobilní zvukové studio pro radiostanice připojené přes 3G. A také fotka"
-  upozornění o&nbsp;nehodě&#8230;
+title: Mobilní zvukové studio pro radiostanice připojené přes 3G. A také fotka upozornění o nehodě…
 ---
 
 <p>

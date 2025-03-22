@@ -13,9 +13,7 @@ summary_points:
 - Roster Teeth simulují scénky ve hře, stříhají, dabují a přidávají hudbu.
 - Dialogy a vtip jsou hlavní, vizuální provedení The Strangerhood je překvapivě dobré.
 - Autoři Strangerhood dříve vytvořili seriál Red vs Blue založený na střílečce.
-title: "'Seriál natáčený pomocí počítačové hry"
-
-  '
+title: Seriál natáčený pomocí počítačové hry
 ---
 
 <p>Odchýlím se od tématu Marigolda k něčemu, co mne zaujalo. Měli jsme tu počítačové hry podle filmů, měli jsme tu už i filmy podle počítačových her. The Strangerhood je seriál natočený pomocí počítačové hry, konkrétně The Sims 2. Cožeto? Několik lidí (zvoucích se Roster Teeth) se rozhodlo, že si natočí seriál a aby moc neutráceli, tak k tomu použili hru The Sims 2. Ta totiž umožňuje ukládat průběh hry do videosouboru a tak tvůrci seriálu nasimulují nějakou scénku ve hře, tu pak sestříhají, doprovodí hudbou a odabují. Seriál The Strangerhood  tedy vytváří čtyři Xboxy a balík Premiere na jednom PC. </p>

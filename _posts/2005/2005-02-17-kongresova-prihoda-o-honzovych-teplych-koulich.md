@@ -13,7 +13,7 @@ summary_points:
 - Honza koupil zmrzlé karbanátkové koule v hypermarketu.
 - Honza se pokusil ohřát koule na elektrickém topení.
 - Pokoj byl po dvou hodinách plný smradu a horka.
-title: "Kongresová příhoda: O Honzových teplých koulích"
+title: Kongresová příhoda -  O Honzových teplých koulích
 ---
 
 <p>Tahle příhodá nás všechny včera rozesmála. Protože jsme byli úplně mrtví (průměrná délka spánku za poslední tři dny jsou čtyři hodiny), vypadli jsme z kongesu o něco dříve, už tak v pět - a že nepůjdeme na Nokia párty, ale ihned do pelechu spát. A ještě před tím že si koupíme něco k jídlu.</p>

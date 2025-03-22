@@ -13,7 +13,7 @@ summary_points:
 - Nokia zaznamenala nárůst ceny akcií po ohlášení nových mobilů.
 - TIW posílil díky navýšení podílu v Českém Mobilu a úspěchu MobiFon.
 - TIW zveřejní 5. listopadu výsledky za třetí kvartál s očekáváním růstu.
-title: "Akciové drobky: Nokia a TIW"
+title: Akciové drobky -  Nokia a TIW
 ---
 
 <p>

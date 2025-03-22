@@ -12,7 +12,7 @@ summary_points:
 - Oskar zavedl EDGE, ale spuštění plánuje až v první polovině roku 2005.
 - T-Mobile umožní v síti EDGE i GPRS používat 4+4 timesloty, celkem pět najednou.
 - Slovenský EuroTel zvažuje instalaci CDMA v pásmu NMT, které provozuje.
-title: "EDGE parade"
+title: EDGE parade
 ---
 
 <p>

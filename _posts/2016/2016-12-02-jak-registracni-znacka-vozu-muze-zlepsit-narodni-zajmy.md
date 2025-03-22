@@ -13,9 +13,7 @@ summary_points:
 - Registrační značka obsahovala iniciály, sportovní klub a čísla.
 - V Německu lze získat přenosnou značku na přání za 25 eur.
 - Český systém značek na přání je drahý a nepřevoditelný.
-title: "'Jak registrační značka vozu může zlepšit národní zájmy"
-
-  '
+title: Jak registrační značka vozu může zlepšit národní zájmy
 ---
 
 Prý málo zohledňuji národní zájmy. Musím si vzít příklad ze svého otce, pro něhož "Nic než národ" je sice dráždidlem (navíc zrovna německá část rodiny je na ten slogan v němčině poněkud háklivá), ale umí to lépe maskovat. <!--more-->

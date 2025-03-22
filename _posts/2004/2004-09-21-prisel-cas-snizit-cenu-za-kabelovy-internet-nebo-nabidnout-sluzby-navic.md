@@ -13,9 +13,7 @@ summary_points:
 - Autor platí 1550 Kč měsíčně za Chello Klasik s televizí, což považuje za hodně.
 - Rychlost 1,5 Mb/s od UPC autor nevyužívá, chybí mu obsah jako filmy online.
 - Autor zvažuje levnější alternativy jako ADSL nebo CzFree.net, ale má obavy.
-title: "'Přišel čas snížit cenu za kabelový internet nebo nabídnout služby navíc?"
-
-  '
+title: Přišel čas snížit cenu za kabelový internet nebo nabídnout služby navíc?
 ---
 
 <p>

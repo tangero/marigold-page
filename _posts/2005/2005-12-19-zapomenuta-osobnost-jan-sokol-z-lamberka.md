@@ -15,7 +15,7 @@ summary_points:
 - Roku 1410 Sokol vedl české vojsko v bitvě u Grunwaldu.
 - Sokolova role v Grunwaldu a jeho vliv na Žižku jsou nedoceněny.
 thumbnail: https://2.bp.blogspot.com/-gqMIU0WgEvg/V1_lHlWFPWI/AAAAAAACOkM/MkaRD3WQA-IWwk9OhEle9KZXClK1ThqpQCLcB/s1600/1.jpg
-title: "Zapomenutá osobnost: Jan Sokol z Lamberka"
+title: Zapomenutá osobnost -  Jan Sokol z Lamberka
 ---
 
 <p>Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zněla něco jako "A proč právě Paroubka," rozhodl jsem se potvrdit svoji pověst cvoka a ihned jsem vypálil: "Jan Sokol z Lamberka". Na emailové lince bylo následující hodinku tichu, novinář zřejmě zoufale googloval, o koho jde. Na netu toho o Janu Sokolovi z Lamberka něco málo najdete, ale bez většího vlastního historického pozadí vám nedojde tak rychle, proč bych neváhal tohoto člověka zařadit mezi největší osobnosti českých dějin. </p>

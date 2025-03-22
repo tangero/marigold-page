@@ -15,9 +15,7 @@ summary_points:
 - Autor opustil pozici ředitele produktu a stal se řadovým zaměstnancem ve Streamu.
 - Dovolená slouží k zhodnocení změn v práci a rozhodnutí o dalším postupu.
 - Administrace a databáze Wordpressu jsou zablokovány kvůli čínským hackerům.
-title: "'Dovolená čili vyčistit hlavu od práce"
-
-  '
+title: Dovolená čili vyčistit hlavu od práce
 ---
 
 Odjíždím na dovolenou, což bude mít za následek nejenom to, že Marigold se nebude aktualizovat (to byste snadno přehlédli - jen twitty nahoře možná budou přibývat), ale také to, že nebudu odpovídat na emaily ani na telefonáty. Prostě se to tu bude muset beze mne nějakou dobu obejít, zatímco já se budu cachtat v moři, upíjet Cuba Libre, mazat se krémem a vůbec dělat všechny ty věci, co se u národu turistů sluší. Zejména, pokud zjistím, co se skrývá pod označením Terminál Sever 1 na pardubickém letišti :) (jo, to já zjistím, jsem nějaký pardubák přeci!)

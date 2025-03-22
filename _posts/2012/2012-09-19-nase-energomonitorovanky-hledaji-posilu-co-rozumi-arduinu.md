@@ -16,9 +16,7 @@ summary_points:
 - Pro majitele domů, bazénů a firem je Energomonitor užitečný nástroj.
 - Připravují se nové verze Energomonitoru s malým a velkým displejem a průmyslové
   aplikace.
-title: "'Naše Energomonitorovánky hledají posilu, co rozumí Arduinu"
-
-  '
+title: Naše Energomonitorovánky hledají posilu, co rozumí Arduinu
 ---
 
 <p>Když jsme před téměř rokem spouštěli zkušební verzi <a href="http://www.energomonitor.cz" target="_self" title="">Energomonitoru</a>, nevěděli jsme hodně věcí. Dnes jsme dál - hádáme se už spíš o to, jestli se má psát s malým (Pavel) nebo velkým (já) e.</p>

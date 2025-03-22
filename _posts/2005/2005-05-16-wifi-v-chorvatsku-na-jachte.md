@@ -13,7 +13,7 @@ summary_points:
 - Během plavby se zlomil spinakrový peň a posádka "krmila ryby".
 - Na lodi byl dostupný internet přes GPRS a Wi-Fi od T-mobile.
 - Posádka testovala bezpečnost Wi-Fi hotspotů a objevila díry v systému.
-title: "WiFi v Chorvatsku na jachtě"
+title: WiFi v Chorvatsku na jachtě
 ---
 
 <div class=rightbox><img src="/wp-content/uploads/cache/20050516-jachtas.jpg" alt="Foto z plavby, já jsem ten v černé mikině" width="300" height="225" /></div>

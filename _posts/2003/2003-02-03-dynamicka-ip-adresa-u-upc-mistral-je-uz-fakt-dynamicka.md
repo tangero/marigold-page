@@ -12,7 +12,7 @@ summary_points:
 - UPC Mistral dříve přiděloval IP adresy dynamicky, ale s chováním blízkým statickému.
 - Konflikty IP adres vedly UPC k dynamickému přidělování IP adres na několik dní.
 - Řešením pro stálou IP je platba 200 Kč měsíčně u UPC Mistral.
-title: "Dynamická IP adresa u UPC Mistrál je už fakt dynamická"
+title: Dynamická IP adresa u UPC Mistrál je už fakt dynamická
 ---
 
 <p>

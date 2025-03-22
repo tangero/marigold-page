@@ -13,7 +13,7 @@ summary_points:
 - Blogeři si hromadně vytvářeli portréty ve stylu South Parku.
 - Šnůrka vytvořila galerii blogerů a čtenářů v South Park stylu.
 - Autor postrádá v galerii portrét učitelky Sandry.
-title: "South Park šílenství mezi weblogery"
+title: South Park šílenství mezi weblogery
 ---
 
 <p>

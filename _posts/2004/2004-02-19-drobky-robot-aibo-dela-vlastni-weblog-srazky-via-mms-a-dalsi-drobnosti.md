@@ -15,7 +15,7 @@ summary_points:
 - Robot Aibo si dělá weblog automatickým posíláním fotek.
 - ČHMÚ nabízí odběr měření z meteorologického radaru jako MMS.
 - NTT DoCoMo vyvinulo holografickou paměť o kapacitě 1GB.
-title: "Drobky: robot Aibo dělá vlastní weblog, srážky via MMS a další drobnosti"
+title: Drobky -  robot Aibo dělá vlastní weblog, srážky via MMS a další drobnosti
 ---
 
 <p>

@@ -12,7 +12,7 @@ summary_points:
 - British Telecom plánuje Bluetooth přístupové body pro volání přes telefony s Bluetooth.
 - Alcatel představil nové modely 535 a 331, srovnávané s konkurenčními telefony.
 - Alcatel 535 s barevným displejem a MMS je u T-Mobile dotovaný za 2000 Kč.
-title: "Bluetooth sníží cenu za telefonování, Alcatel představoval 535 a 331 modely"
+title: Bluetooth sníží cenu za telefonování, Alcatel představoval 535 a 331 modely
 ---
 
 <p>

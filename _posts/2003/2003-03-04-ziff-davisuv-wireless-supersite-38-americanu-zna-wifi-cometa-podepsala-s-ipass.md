@@ -13,7 +13,7 @@ summary_points:
 - procent dospělých Američanů ví, co je WiFi, 5 procent ji používá.
 - WiFi síť Cometa uzavřela smlouvu s iPass o přístupu uživatelů.
 - Cometa a iPass se zatím nedohodly na platbách za službu.
-title: "Ziff Davisův Wireless supersite, 38% američanů zná WiFi. Cometa podepsala s iPass"
+title: Ziff Davisův Wireless supersite, 38% američanů zná WiFi. Cometa podepsala s iPass
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Švédský operátor 3 nabízí zdarma hovory a videohovory ve vlastní síti.
 - NEC c616 se prodává v Hong Kongu s baterií o výdrži až 277 hodin.
 - NTT DoCoMo má přes 3 miliony uživatelů 3G sítě FOMA.
-title: '3G Týden: nové mobily přicházejí'
+title: 3G Týden -  nové mobily přicházejí
 ---
 
 <p>

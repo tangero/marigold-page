@@ -13,7 +13,7 @@ summary_points:
 - Režisér zřejmě hru zkazil, žánr představení byl nejasný a hudba bizarní.
 - Jediným pozitivem byl herec dabující Rimmera z Červeného trpaslíka.
 - Autor lituje návštěvy divadla a měl raději psát článek o 4G sítích.
-title: "Kulturně-divadelní prožitek, že já vůl nepsal raději ten článek o 4G"
+title: Kulturně-divadelní prožitek, že já vůl nepsal raději ten článek o 4G
 ---
 
 <p>

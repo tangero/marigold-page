@@ -13,7 +13,7 @@ summary_points:
 - Lokality s WiFi Chello zahrnují Nusle, Krč, Horní Počernice a další.
 - Ceny WiFi Chello jsou srovnatelné s kabelovým, ale kvalita je nižší.
 - UPC WiFi Chello je utajené, informace se nachází pouze ve fóru.
-title: "Utajené WiFi od UPC Chello"
+title: Utajené WiFi od UPC Chello
 ---
 
 <p>

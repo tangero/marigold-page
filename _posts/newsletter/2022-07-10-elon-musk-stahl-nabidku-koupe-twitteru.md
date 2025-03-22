@@ -13,7 +13,7 @@ summary_points:
 - Důvodem stažení nabídky je údajný vysoký počet botů na Twitteru.
 - Twitter může uplatnit pokutu ve výši 1 miliardy dolarů za odstoupení.
 - Musk mohl nabídku využít k prodeji akcií Tesly za 8,5 miliardy dolarů.
-title: "Elon Musk stáhl nabídku koupě Twitteru..."
+title: Elon Musk stáhl nabídku koupě Twitteru...
 ---
 
 Největší událostí minulého týdne je stažení Muskovy nabídky na koupi Twitteru za 44 miliard dolarů. O tom, že s obchodem to nejde úplně nejlépe, si již delší dobu štěbetali vrabci na světě, nedocházelo k žádným velkým posunům, ačkoliv papírování v takových případech obvykle trvá. Hlavním důvodem stažení nabídky má být příliš vysoký počet počet botů respektive rozdíl v tom, co se domnívá Twitter a co se domnívá Musk. Twitter navíc údajně nebyl schopen tyto rozpory vysvětlit. V dopise, který byl zveřejněn ve zprávě pro Komisi pro cenné papíry, právník společnosti Mike Ringler uvedl, že "Twitter nedodržel své smluvní závazky". Ringler tvrdí, že Twitter neposkytl Muskovi relevantní obchodní informace, které požadoval, jak by podle Ringlera smlouva vyžadovala. Musk již dříve uvedl, že chtěl posoudit tvrzení společnosti Twitter, že přibližně 5 % jejích zpeněžitelných denních aktivních uživatelů (mDAU) jsou spamové účty. "Společnost Twitter tyto informace neposkytla nebo odmítla poskytnout," tvrdil Ringler. "Někdy Twitter Muskovy žádosti ignoroval, někdy je odmítl z důvodů, které se zdají být neopodstatněné, a někdy tvrdil, že vyhoví, a přitom panu Muskovi poskytl neúplné nebo nepoužitelné informace." 

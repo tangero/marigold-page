@@ -20,7 +20,7 @@ summary_points:
 - Česko nenabízí své zkušenosti a pomoc EU, místo toho kritizuje EU bez konkrétních
   návrhů na zlepšení.
 thumbnail: https://www.marigold.cz/assets/pomazankove-maslo.png
-title: "Jak to bylo s pomazánkovým máslem?"
+title: Jak to bylo s pomazánkovým máslem?
 ---
 
 Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich otců a Evropská unie ji zakázala. Bez respektu k nám, bez respektu k našim otcům, tradicím, bez jediné otázky na nás. Cožpak z takové instituce může někdy vzejít něco dobrého? 

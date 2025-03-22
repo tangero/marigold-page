@@ -13,7 +13,7 @@ summary_points:
 - Článek spekuluje o průměrné útratě uživatele a návratnosti VoIP služby.
 - Autor zvažuje etiku možnosti změny dealera u služby Ha-loo.
 - Autor se domnívá, že změna dealera může odrazovat potenciální dealery.
-title: "VoIP ekonomika"
+title: VoIP ekonomika
 ---
 
 <p>Tak jsem <a href="http://www.mobilring.cz/index.php?option=com_mbr_content&amp;task=view&amp;id=545&amp;category=telekomunikace">na Mobilring přidal článek</a> věnovaný postřehům z dealerského systému VoIP služby Ha-loo společnosti Havel. Kolik protelefonuje průměrný uživatel takové služby a kdy se služba zaplatí? Zaspekulujme si... </p>

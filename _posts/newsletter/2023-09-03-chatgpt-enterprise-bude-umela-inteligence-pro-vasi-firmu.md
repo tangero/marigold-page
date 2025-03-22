@@ -14,7 +14,7 @@ summary_points:
 - Dohoda o ceně a možnost delších vstupů cílí na větší firemní klientelu.
 - Integrace s cloudovými úložišti a analýza firemních dat jsou potenciální budoucí
   funkce.
-title: "ChatGPT Enterprise bude umělá inteligence pro vaši firmu"
+title: ChatGPT Enterprise bude umělá inteligence pro vaši firmu
 ---
 
 A příjem pro OpenAI. OpenAI představila firemní verzi ChatGPT s přidanými funkcemi a ochranou soukromí, což je zatím nejvýznamnější snaha přilákat širokou škálu firemních zákazníků a zvýšit příjmy. Kolik se za službu umělé inteligence pro firmy bude platit, zatím není známo. Prý se lze dohodnout - zatím to ale vypadá na službu pro větší firmy. 

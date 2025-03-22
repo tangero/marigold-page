@@ -17,9 +17,7 @@ summary_points:
 - Grafika Wii je pohádková, záměrně se vyhýbá fotorealismu Xboxu.
 - Ovládání Wiimote je intuitivní, využívá pohybové senzory pro zaměřování a gesta.
 - Wii má omezené multimediální funkce a problematické internetové připojení v ČR.
-title: "'Nintendo Wii vás naštve vším. Kromě hraní. To je na něm parádní"
-
-  '
+title: Nintendo Wii vás naštve vším. Kromě hraní. To je na něm parádní
 ---
 
 První bitva marigoldí války konzolí byla vybojována. Půjčený Xbox jsem vrátil (díky, Ivono!), chvíli jsem nad tím ještě špekuloval, dlouho porovnával Xbox a Playstation 3, až jsem se na to vykašlal a v pátek si koupil Nintendo Wii. Vsadil jsem na to, že to, co mi lidi říkali, je pravda, že je to prudce víc hratelné. Dovolte mi pár zkušeností, možná přijdou vhod i dalším váhajícím. 

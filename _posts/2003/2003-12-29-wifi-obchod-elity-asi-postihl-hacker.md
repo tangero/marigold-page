@@ -13,7 +13,7 @@ summary_points:
 - Obchod Elity.cz má nefunkční nabídku zboží a pravděpodobně i objednávkový systém.
 - Autor nabízí 10% slevu na knihy o UMTS/GPRS na Amazonu.
 - Sleva na knihy je dostupná přes odkaz, ale autor ji nemůže využít.
-title: "WiFi obchod Elity asi postihl hacker"
+title: WiFi obchod Elity asi postihl hacker
 ---
 
 <p>

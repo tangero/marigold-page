@@ -13,7 +13,7 @@ summary_points:
 - Eurotel si registroval doménu eurotellive.cz a ochrannou známku Live!.
 - Eurotel zvažoval registraci Live s i bez vykřičníku.
 - Eurotel možná koupil řešení od Vodafone a nasadí ho s telefony Sharp.
-title: "Tak to opravdu bude Eurotel Live!"
+title: Tak to opravdu bude Eurotel Live!
 ---
 
 <p>

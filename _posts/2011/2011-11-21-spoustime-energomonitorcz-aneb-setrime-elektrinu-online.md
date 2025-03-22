@@ -15,9 +15,7 @@ summary_points:
 - Krabička u elektroměru sleduje spotřebu a data odesílá do webové aplikace.
 - Aplikace zobrazuje spotřebu v grafech, tabulkách a analyzuje odběrové minimum.
 - Budoucí verze aplikace bude aktivně radit, jak snížit spotřebu elektřiny.
-title: "'Spouštíme energomonitor.cz aneb šetříme elektřinu online"
-
-  '
+title: Spouštíme energomonitor.cz aneb šetříme elektřinu online
 ---
 
 Je to taková libůstka, která začala jako všechny hezké věci začínají. Abych to zkrátil, spouštíme s Pavlem Štorkem <a href="http://www.energomonitor.cz/?utm_source=Marigold&utm_medium=text&utm_campaign=Start">energomonitor.cz</a>, službu na online monitoring spotřeby energie a její brutální šetření. Nebo-li si koupíte krabičku, strčíte ji k elektroměru a na webu sledujete, kolik “pálíte” a po chvíli také, co máte dělat, abyste pálili méně. 

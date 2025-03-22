@@ -18,7 +18,7 @@ summary_points:
 - Nároky církví musí být doloženy, a zahrnují i budoucí postupné snižování státních
   příspěvků.
 - Cílem restitucí je majetkové vyrovnání a oddělení církve od státu do roku 2043.
-title: "Ve věci církevních restitucí"
+title: Ve věci církevních restitucí
 ---
 
 <p>Je paradoxem, když ostrý kritik církve jde psát něco, s čím nakonec bude církev hájit. Jenže je mi nepříjemné číst kolem sebe neustále ty nesmysly kolem církevních restitucí a bláboly politiků, které se nezakládají na faktech. Tento článek bude tedy stručným kompendiem fakt kolem církevních restitucí pro ty, kdo o ně mají zájem. Pro ostatní, jděte bez váhání jinam, do diskusí na iDnes, Blesku nebo do grémia ČSSD.</p>

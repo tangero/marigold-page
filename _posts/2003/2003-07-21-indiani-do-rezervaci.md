@@ -13,7 +13,7 @@ summary_points:
 - Česká škola a LUPA informují o průšvihu Internet do škol.
 - Zpráva NKÚ dává podklad pro trestní řízení v kauze.
 - Orgány činné v trestním řízení mohou konat díky zprávě NKÚ.
-title: "Indiání do rezervací?"
+title: Indiání do rezervací?
 ---
 
 <p>

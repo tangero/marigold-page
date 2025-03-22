@@ -13,7 +13,7 @@ summary_points:
 - Pláž nabízí i plážový volejbal a nachází se vedle botelu Admirál.
 - Autor doporučuje hledat webové stránky akce přes Google.
 - Fotografie pláže je k dispozici, ale kvalita je snížená kvůli tmě.
-title: "Pláž v Praze u Vltavy"
+title: Pláž v Praze u Vltavy
 ---
 
 <p>Jdu si tak od zubaře a co nevidim: na druhém břehu Vltavy je regulérní písečná pláž a kypí tam zábava. Pokusil jsem se o fotku, ale už se stmívá, takže zřejmě mnoho neuvidíte. Ale celá akce má i web, jen nevím jaký, googlujte.</p>

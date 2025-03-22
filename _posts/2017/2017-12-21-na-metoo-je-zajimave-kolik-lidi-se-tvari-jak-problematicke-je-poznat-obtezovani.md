@@ -10,9 +10,7 @@ summary_points:
 - Inteligentní lidé často nerozpoznají hranici mezi seznamováním a obtěžováním.
 - Tolerance škodlivých názorů vede k jejich realizaci ve společnosti.
 - Morálka a štěstí jsou propojené, což je třeba znovu pochopit.
-title: "'Na Metoo je zajímavé, kolik lidí se tváří, jak problematické je poznat obtěžování"
-
-  '
+title: Na Metoo je zajímavé, kolik lidí se tváří, jak problematické je poznat obtěžování
 ---
 
 Na #metoo mě fascinovaly dvě věci:

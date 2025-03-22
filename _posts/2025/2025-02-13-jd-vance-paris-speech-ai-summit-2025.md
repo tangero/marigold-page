@@ -20,7 +20,7 @@ summary_points:
   před zneužitím.
 - AI má doplňovat práci, zvyšovat produktivitu a vyžaduje budování energetické infrastruktury.
 thumbnail: https://www.marigold.cz/assets/JD-Vance-Paris-summit-2025.jpg
-title: "Projev viceprezidenta JD Vance na pařížském AI summitu 2025"
+title: Projev viceprezidenta JD Vance na pařížském AI summitu 2025
 ---
 
 Na pařížském AI Summitu přednesl JD Vance důležitý projev, který zcela jasně ukázal, jak Trumpova administrativa hodlá přistupovat k umělé inteligenci. Vance zdůraznil, že umělá inteligence je nejen technologií budoucnosti, ale také nástrojem, který může zlepšit životy lidí po celém světě. Zároveň však varoval před nebezpečím, které může AI přinést, pokud se dostane do špatných rukou. 

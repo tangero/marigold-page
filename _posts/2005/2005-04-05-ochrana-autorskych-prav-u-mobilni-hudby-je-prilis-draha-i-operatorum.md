@@ -13,7 +13,7 @@ summary_points:
 - OMA DRM 2.0 se nelíbí výrobcům telefonů ani mobilním operátorům.
 - Základní patenty DRM vlastní InterTrust, ContentGuard, Sony, Matsushita a Philips.
 - Operátoři a výrobci hrozí podporou nezabezpečených MP3 kvůli nákladům DRM.
-title: "Ochrana autorských práv u mobilní hudby je příliš drahá i operátorům"
+title: Ochrana autorských práv u mobilní hudby je příliš drahá i operátorům
 ---
 
 <p>Ochrana autorských práv u mobilní hudby formou digitální správy práv (DRM) je v posledním provedením, s nímž souhlasí i zástupci hudebního průmyslu, příliš drahá. Alespoň to zase namítají zástupci GSM Asociace.</p>

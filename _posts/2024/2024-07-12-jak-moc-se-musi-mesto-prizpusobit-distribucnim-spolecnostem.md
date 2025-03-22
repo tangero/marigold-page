@@ -14,7 +14,7 @@ summary_points:
 - Řešení zahrnují rezignaci, přizpůsobení nebo represi měst.
 - Malé dopravní prostředky jsou preferovanou alternativou.
 thumbnail: https://www.marigold.cz/assets/IMG_4426.jpeg
-title: "Musí se město přizpůsobit distribučním společnostem?"
+title: Musí se město přizpůsobit distribučním společnostem?
 ---
 
 Tohle je zajímavé téma: proměna města v čase a tím i v měnících se podmínkách. Jedním z největších problémů, nicméně rozprostřených do dlouhého času, bylo přizpůsobení se automobilismu a individiuální automobilové dopravě. Tam už jsme dospěli do stádia Zamrzlé evoluce. Novým zajímavým problémem jsou distribuční a rozvážkové služby. 

@@ -13,7 +13,7 @@ summary_points:
 - Autor získal internetové připojení od INECu pro komunikaci a získávání podkladů.
 - První aktivitou autora byl převod Astrologician BBS na internetové stránky.
 - Hosting pro Astrologician poskytl Codalan, později Internext 2000 kvůli rychlosti.
-title: "Soukromé: Astrologician a mé začátky na internetu"
+title: Soukromé -  Astrologician a mé začátky na internetu
 ---
 
 <p>

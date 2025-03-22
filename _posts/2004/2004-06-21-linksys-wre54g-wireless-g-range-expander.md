@@ -13,7 +13,7 @@ summary_points:
 - WRE54G funguje pouze s 54G produkty Linksys, nikoliv se staršími B produkty.
 - Cena WRE54G je 76 USD, což je srovnatelné s konkurenčními produkty s WDS.
 - Autor nevidí zásadní výhody WRE54G oproti levnějším řešením s WDS.
-title: "Linksys WRE54G Wireless-G Range Expander"
+title: Linksys WRE54G Wireless-G Range Expander
 ---
 
 <p>

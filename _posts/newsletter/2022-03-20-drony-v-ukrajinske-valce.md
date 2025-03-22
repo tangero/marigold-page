@@ -13,7 +13,7 @@ summary_points:
 - Rusko používá systém Aeroscope k zaměření operátorů dronů a následné dělostřelecké
   palbě.
 - Ukrajina žádá DJI o znemožnění lokalizace dronů, zatím bez oficiální odezvy.
-title: "Drony v Ukrajinské válce"
+title: Drony v Ukrajinské válce
 ---
 
 Těžko se tomu vyhnout a nezmínit válku na Ukrajině. Nechci ale hovořit o strategiích a možnostech, chci se znovu podívat na něco konkrétního, co ukazuje měnící se svět, v daném případě měnící se povahu zapojení moderních technologií do konfliktů. Dnes právě dronů. 

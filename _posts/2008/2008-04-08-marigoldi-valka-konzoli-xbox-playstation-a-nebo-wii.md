@@ -16,7 +16,7 @@ summary_points:
 - Herní konzole je pro autora lepší než hraní na počítači.
 - Xbox 360 se ukázal jako vhodná volba díky Xbox Live Arcade.
 - Autor hledá podobné hry jako Zuma i pro jiné konzole.
-title: "Marigoldí válka konzolí: Xbox, Playstation a nebo Wii"
+title: Marigoldí válka konzolí -  Xbox, Playstation a nebo Wii
 ---
 
 Řekl jsem si onehdá, že bych si docela zahrál nějakou počítačovou hru. A byl to proces, jakému není rovno, jak u mne jinak. Proč? Protože nejsem typický pařan. Čas, který mohu/chci věnovat hře na počítači, je spíše v úrovni několika minut, maximálně desítek minut denně, počítám-li v to klidný sobotní večer. Proč tak málo, to je jiná otázka kombinující rodinu (item primo) a práci (item secundo) v odpovědi. A za tuhle dobu na PC hru většinou ani nespustím, natož abych ji stihl instalovat. Rozumějte: mám plnou poličku her pro PC, šlágry jako Balldurs Gate, Diablo 2, Sacred, všechno originálky. Jenže na ně nemám čas. A od jisté doby už ani doma nemáme PC, musel bych Macka spouštět ve Windows. Pár her na Macka mám taky, ale mají jedno shodné s Windowsáckýma: nebaví mne to. Nemám čas na to je hrát a vím, že to jsou hry, které čas vyžadují. Jsem prostě "občasný hráč" - <em><a href="http://en.wikipedia.org/wiki/Casual_gamer">casual gamer</a></em>.

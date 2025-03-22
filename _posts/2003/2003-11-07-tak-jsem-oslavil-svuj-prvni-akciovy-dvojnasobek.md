@@ -13,7 +13,7 @@ summary_points:
 - Autor nedodržuje investiční poučky, investuje hlavně do telekomunikací a biotechnologií.
 - Fio investoři vydělali 27 procent, autor obchoduje pouze s vlastními penězi.
 - Autor plánuje napsat článek o investování do akcií.
-title: "Tak jsem oslavil svůj první akciový dvojnásobek…"
+title: Tak jsem oslavil svůj první akciový dvojnásobek…
 ---
 
 <p>

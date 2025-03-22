@@ -16,7 +16,7 @@ summary_points:
 - Úzká hrdla na výstupu brání škálování služeb poskytovaných umělou inteligencí.
 - Získávání dat pro rozvoj AI je omezeno úzkými hrdly na vstupu, například manipulací
   s Petriho miskami.
-title: "Problém úzkých hrdel"
+title: Problém úzkých hrdel
 ---
 
 Zásadním problémem umělé inteligence je fakt, že dnes není schopna nahrazovat celou škálu lidských činností nutných pro vývoj, výrobu a distribuci nějakého produktu. Zatímco někde lze umělou inteligenci použít ke škálování, tedy zvýšení výkonu a tím i produktivity, jinde ji tak použít neumíme. Už ten příklad z nemocnice: umělá inteligence již dnes umí přesvědčivě posoudit snímky z nejrůznějších lékařských snímkovacích zařízení, od rentgenu, přes magnetickou rezonanci. Umí dokonce vyrozumět pacienta a již dnes je myslitelné vyvinout pracoviště, kde je pacient osnímkován a diagnostikován, aniž by přišel do styku s člověkem, ponechme stranou, nakolik je to dnes žádoucí. Jenže píchnutí injekce či zavedení fyziologického roztoku, nebo chcete-li vulgárněji, utření zadku v téže nemocnici umělá inteligence dnes schopná udělat není. Ba dokonce není ani na dohled, že by mohla nahradit péči sestřiček, zatímco vzdělání doktorů by již záhy nahradit mohla. 

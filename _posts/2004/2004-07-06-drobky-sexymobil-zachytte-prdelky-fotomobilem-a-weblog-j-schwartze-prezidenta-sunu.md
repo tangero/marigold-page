@@ -13,8 +13,7 @@ summary_points:
 - Nahrávání fotek na Sexymobil.com z mobilu přímo není možné.
 - Jonathan Schwartz, prezident Sun Microsystems, má firemní weblog.
 - Schwartzův blog nabízí pohled na IT z pozice vysoce postaveného manažera.
-title: "'Drobky: Sexymobil – zachyťte prdelky fotomobilem a weblog J. Schwartze"
-  &#8211; prezidenta Sunu'
+title: Drobky -  Sexymobil – zachyťte prdelky fotomobilem a weblog J. Schwartze – prezidenta Sunu
 ---
 
 <p>

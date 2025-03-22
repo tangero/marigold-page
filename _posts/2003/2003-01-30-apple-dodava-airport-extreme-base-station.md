@@ -12,9 +12,7 @@ summary_points:
 - Apple dodává AirPort Extreme Base Station s podporou 802.11g.
 - PowerMacy budou mít volitelnou mini-PCI kartu s 802.11g.
 - Standard 802.11g se tak rozšiřuje do zařízení Apple.
-title: "'Apple dodává AirPort Extreme Base Station."
-
-  '
+title: Apple dodává AirPort Extreme Base Station.
 ---
 
 <p>

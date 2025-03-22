@@ -13,9 +13,7 @@ summary_points:
 - Telefonica zaplatí 39 milionů Euro za porušení smlouvy o 3G síti v Itálii.
 - Italské ministerstvo nařídilo IPSE prodat 3G frekvence nebo firmu do měsíce.
 - Enel nabízí 800 milionů Euro za licence, Telefonica a Sonera doplatí zbytek.
-title: "'Italské tažení přijde Telefonicu draho"
-
-  '
+title: Italské tažení přijde Telefonicu draho
 ---
 
 <p>Problémy s insider tradingem šéfa Telefonica Cesara Alierty nejsou těmi jedinými, které Telefonicu trápí. O problémech s insider tradingem píší obsáhle jinde, <a href="http://digiweb.ihned.cz/4-10076450-16474200-i00000_d-48">přečtěte si to třeba zde</a>, já jen podotknu, že zrovna insider trading patří mezi obtížně prokazatelnou činnost a navíc je obtížné říci, zda to pachatel vůbec zamýšlel zde, protože v době, kdy firmy zaměstnancům rozdávají své akcie horem dolem, je problém je jako zaměstnanec nezobchodovávat… Což ale neznamená, že se Alierta nutně čtyřletému pobytu v base vyhne.</p>

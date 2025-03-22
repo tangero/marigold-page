@@ -15,7 +15,7 @@ summary_points:
 - Evolved EDGE (EEDGE) nabízí rychlost do 600 Kb/s, hlavně pro rozvojové trhy.
 - Telstra Next G v Austrálii pokryla HSDPA sítí 98 % populace na 850 MHz.
 - Datové služby rostou v USA a Asii, v Česku tvoří cca 20 % ARPU.
-title: "Jak jsme na tom s mobilními daty (díl první z nevímkolika)"
+title: Jak jsme na tom s mobilními daty (díl první z nevímkolika)
 ---
 
 Blbý název článku, já vím, ale co se dá dělat. My v Česku na tom nejsme prakticky nijak a to ani se 3/3,5G. Myslel jsem to všeobjímajícně, jaká jest situace v rozvinutých zemích. Nás se zpráva týká minimálně. Původně jsem chtěl psát o vývoji v LTE a WiMaxu, jenže jsem se trochu více rozmáchl a následně se ukázalo, že bude jednodušší přepsat nadpis, než článek, takže LTE a WiMax někdy příště. 

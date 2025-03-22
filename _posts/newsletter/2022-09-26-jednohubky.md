@@ -17,7 +17,7 @@ summary_points:
 - Google zpřístupnil veřejnosti svůj velký jazykový model LaMDA v rámci AI Test Kitchen.
 - OpenAI uvolnil systém Whisper pro automatické rozpoznávání řeči a překlad jazyků.
 - Whisper od OpenAI funguje dobře i pro češtinu a slovenštinu.
-title: "Jednohubky"
+title: Jednohubky
 ---
 
 * tohle mě pobavilo. The New York Times [vydal článek](https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8) o tom, jak se jejich **paywall pomocí strojového učení adaptuje** na to, kolik článků vám má ukázat zdarma, aby vás donutilo zaplatit. Copak, to je jen zajímavé, ale taky je vtipné, že NYT konstantně bojuje proti vlivu podobných algoritmů na lidi a kritizuje je. O čemž je například ten [druhý článek](https://www.nytimes.com/2021/04/30/opinion/dark-pattern-internet-ecommerce-regulation.html)... Vliv temných algoritmů na náš svět není malý a stále se zvyšuje. 

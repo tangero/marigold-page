@@ -17,7 +17,7 @@ summary_points:
   matematice.
 - Mistral dosahuje s menšími modely srovnatelných výsledků jako Llama, což snižuje
   provozní náklady.
-title: "\U0001F916 Nové představené LLM modely - hustý týden"
+title: \U0001F916 Nové představené LLM modely - hustý týden
 ---
 
 **OpenAI představilo lehčí verzi 4o ([oznam zde](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/))**. GPT-4o mini je o 60 % levnější než GPT-3,5 Turbo. Slušný!

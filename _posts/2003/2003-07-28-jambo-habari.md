@@ -13,7 +13,7 @@ summary_points:
 - Pevný disk autora obsahuje 500 fotografií z Keni k roztřídění a popsání.
 - Na Marigoldovi vyšel článek díky příteli autora během jeho pobytu v Keni.
 - Autor plánuje sepsat zážitky z Keni a vytvořit o ní českou webovou stránku.
-title: "Jambo, habari?"
+title: Jambo, habari?
 ---
 
 <p>

@@ -14,7 +14,7 @@ summary_points:
 - Autor nabízí týdenní newsletter z komunální politiky k odběru.
 - Patrick Zandl přeje vše nejlepší do nového týdne.
 - Odkaz směřuje na knihu "Mýty a naděje digitálního světa".
-title: "Dobrovolný příspěvek na tento newsletter?"
+title: Dobrovolný příspěvek na tento newsletter?
 ---
 
 Pokud mi tedy chcete poslat dvě kafe, tady je QR kod pro platbu dobrovolného příspěvku:

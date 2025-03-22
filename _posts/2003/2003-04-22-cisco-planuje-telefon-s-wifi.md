@@ -14,7 +14,7 @@ summary_points:
   server.
 - WiFi telefony postrádají QoS, což může ovlivnit kvalitu VoIP hovorů.
 - WiFi dosah je omezený, takže přetížení sítě několika uživateli nehrozí.
-title: "Cisco plánuje telefon s WiFi"
+title: Cisco plánuje telefon s WiFi
 ---
 
 <p>

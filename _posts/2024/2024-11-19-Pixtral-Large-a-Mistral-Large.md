@@ -16,8 +16,7 @@ summary_points:
 - Le Chat Agents automatizují opakující se úkoly a workflow.
 - Pixtral Large a Mistral Large 24.11 posouvají multimodální AI možnosti.
 thumbnail: https://www.marigold.cz/assets/le-chat-mistral-ai.jpg
-title: "'Mistral AI má Pixtral Large a Mistral Large 24.11 a rozšiřuje možnosti: vyhledávání,"
-  canvas, zpracování dokumentů, obrázky '
+title: Mistral AI má Pixtral Large a Mistral Large 24.11 a rozšiřuje možnosti -  vyhledávání, canvas, zpracování dokumentů, obrázky 
 ---
 
 Francouzská společnost Mistral AI oznámila významnou aktualizaci svých LLM nástrojů a také své chatovací platformy *le Chat* [/lə ʃa/]. Dotahuje tak svůj open-source model významně blízko k možnostem uzavřených řešení, jako je Claude nebo ChatGPT. 

@@ -15,7 +15,7 @@ summary_points:
   izolaci.
 - Autor hledá tipy a doporučení na sebemotivaci, kurzy, materiály a lidi s analytickými
   schopnostmi.
-title: "O sebemotivaci"
+title: O sebemotivaci
 ---
 
 Mám celoživotní problémy se sebemotivací a tak jsem se rozhodl ji začít u sebe více zkoumat. Každý se motivujeme nějak jinak. - Mým klíčem je druhý člověk, se kterým mohu záležitost rozebrat. Stačí mi si o věci promluvit se zaujatým člověkem a najednou jde realizace sama. Článek? Říct si ho v bodech, zamyslet se nad ním - a je obratem. Kniha? Probrat s někým směr, stavbu příběhu, kapitoly, témata. Pak se to najednou posouvá. Pokud taková protistrana není, je to špatné. 

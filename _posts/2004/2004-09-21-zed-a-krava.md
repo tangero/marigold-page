@@ -11,7 +11,7 @@ summary_points:
 - Český Telecom reagoval transparentem a dvěma telety s číslicí 2.
 - Zaměstnanci Telecomu v hábitech přesvědčovali lidi, aby volali "aleluja".
 - Tele2 postavilo zeď symbolizující 50068 "zazděných" zákazníků Telecomem.
-title: "Zeď a kráva"
+title: Zeď a kráva
 ---
 
 <p>

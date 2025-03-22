@@ -13,9 +13,7 @@ summary_points:
 - Operátor v Cannes se divil vysoké penetraci, vysvětleno SIM v automatech.
 - Vysvětlení vedlo k úvaze o husté síti benzinek Aral v České republice.
 - Diskutuje se o možnosti nahradit občanský průkaz SIM kartou pro občanská práva.
-title: "'Kde se vzalo více mobilů, než obyvatel"
-
-  '
+title: Kde se vzalo více mobilů, než obyvatel
 ---
 
 <p>Počet SIM karet přesáhl koncem loňského roku počet obyvatel, takže jsme se v penetraci mobilů dostali na nějakých 104%.</p>

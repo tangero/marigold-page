@@ -13,7 +13,7 @@ summary_points:
 - Společnost Pipeline spustila nabídku služeb koncovým zákazníkům a nový web.
 - Autor pracoval na webu Pipeline.cz, který se týká vyúčtování mobilních aplikací.
 - Pipeline nabízí platby za mobilní aplikace přes Premium Rate SMS a hromadné SMS.
-title: "Web Pipeline"
+title: Web Pipeline
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - UWB technologie pro rychlá data trpí rozkolem, doporučeno pro zájemce.
 - Orange zavádí funkci Push to talk TalkNow, brzy i na Slovensku.
 - Aireo je MP3 přehrávač s WiFi připojením, cena kolem 300 USD.
-title: 'Drobky: ztrácí Nokia dech?'
+title: Drobky -  ztrácí Nokia dech?
 ---
 
 <p>

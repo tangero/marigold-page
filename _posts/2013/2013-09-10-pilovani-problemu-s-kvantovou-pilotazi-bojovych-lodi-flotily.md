@@ -16,7 +16,7 @@ summary_points:
 - Autor konzultoval problém s kvantovým fyzikem, který byl překvapen jednoduchostí
   autorova řešení.
 - Autor odkládá dopsání kapitoly kvůli oponentuře a experimentům s drahou extramašinou.
-title: "Pilování problémů s kvantovou pilotáží bojových lodí Flotily"
+title: Pilování problémů s kvantovou pilotáží bojových lodí Flotily
 ---
 
 <p> Jedna ze zápletek v druhém díle Flotily je v podstatě banální. Flotila chystá do výzbroje drony, vesmírné bojové lodě řiditelné na dálku. Na to se mne ptali čtenáři už u prvního dílu, proč se něco takového nepoužívá. Odpověď byla samozřejmě prostá: na ohromné vzdálenosti by byla loď neřiditelná, protože zpoždění rádiového signálu by bylo příliš velké.</p>

@@ -13,7 +13,7 @@ summary_points:
 - Minimální cena za kliknutí v Marisense je 5 Kč, časem se sníží.
 - Firmy dostávají kredit 10 000 Kč, fakturace probíhá měsíčně.
 - Marisense nově zahrnuje i Chronomag a menší weby z IT oblasti.
-title: "Změny v Marigoldí reklamě"
+title: Změny v Marigoldí reklamě
 ---
 
 <p>Včera jsem dokončil větší část přechodu (chybí upravit a dodělat texty a podmínky) na nový systém Marigoldí reklamy – na serveru běží úžasný a skvělý <a href="http://www.marigold.cz/marisense">nový systém Marisense</a>, v němž si mohou zájemci o reklamu prakticky zcela bez mého přičinění (tedy po úvodním schválení) zadávat reklamu po libosti. </p>

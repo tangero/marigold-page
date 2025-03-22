@@ -13,7 +13,7 @@ summary_points:
 - Každá platební metoda vyžaduje jiný postup v EET, což zvyšuje složitost.
 - Náklady na implementaci EET jsou vysoké, odhadované na 100 000 Kč a více.
 - EET povede ke zdražení zboží a snížení zákaznického komfortu v eshopech.
-title: 'Jak EET dopadne na eshopy: bude se zdražovat, komfort poklesne'
+title: Jak EET dopadne na eshopy -  bude se zdražovat, komfort poklesne
 ---
 
 Pár článků o tom, jak dopadne EET na eshopy, už jsem četl, většinou nebylo mnoho jistého a věci se vybarvují teprve teď, když do startu EET pro eshopy zbývají čtyři měsíce. Ve skutečnosti bude EET pro eshopy zřejmě největší oser ze všech oborů, kde evidence probíhá bez problémů (tedy s výjimkou těch, kdo šidili na daních a neevidovali).

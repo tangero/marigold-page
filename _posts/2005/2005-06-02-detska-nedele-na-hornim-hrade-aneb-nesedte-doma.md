@@ -13,9 +13,7 @@ summary_points:
 - Středověký program pro děti připravilo šermířské sdružení Savioli.
 - Akce je určena pro lidi ze středních a západních Čech.
 - Autor se dětského dne nezúčastní.
-title: "'Dětská neděle na Horním hradě aneb neseďte doma"
-
-  '
+title: Dětská neděle na Horním hradě aneb neseďte doma
 ---
 
 <p>Minule, když jsem psal o Horním hradě, jsem tu dostal od pár lidí vynadáno, že jsem včas neavizoval tak zajímavou akci. Nyní to snad napravím. </p>

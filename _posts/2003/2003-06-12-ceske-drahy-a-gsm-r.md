@@ -13,7 +13,7 @@ summary_points:
 - Prvních 700 km tratí I. a II. koridoru bude pokryto signálem GSM-R.
 - Kapsch vyhrál výběrové řízení na pilotní projekt GSM-R.
 - Testování GSM-R začne mezi Prahou a Kolínem v únoru.
-title: "České dráhy a GSM-R"
+title: České dráhy a GSM-R
 ---
 
 Článek z <STRONG>Dopravních novin</STRONG> na téma GSM-R: České dráhy zřejmě zainvestují do budování infrastruktury pro mobilní síť GSM-R až 1,7 miliardy Kč. Dráhy plánují nejdříve pokrýt signálem zhruba 700 kilometrů tratí I. a II. koridoru. V konečné fázi by mohlo být pokryto šest tisíc kilometrů tratí, což jsou dvě třetiny tuzemské železniční sítě, uvedl na konci května Pavel Tesař z tiskového oddělení ČD.

@@ -17,7 +17,7 @@ summary_points:
 - Autor potřebuje mobilní internet pro notebook, O2 je drahé.
 - Fofr internet má strop 800 Kč měsíčně, modem lze koupit bazarový.
 - U:fon spustil samoobsluhu pro faktury a výpisy hovorů, O2 ji nemá.
-title: "U:fonův Fofr internet Za nula  a Samoobsluha"
+title: U - fonův Fofr internet Za nula a Samoobsluha
 ---
 
 Jestli se mi U:fon s něčím trefil do noty, pak to byla jeho nabídka Fofr internetu s tarifem Za nula. Zopakujme si nabídku: přístup k internetu v CDMA síti s určitým pokrytím republiky je v ceně 5 Kč za 15 minut. Platí se pouze za uvedený čas, neplatí se za přenesená data nebo nějaký paušál. Jedinou další finanční podmínkou je nutnost zaopatřit si modem, který stojí 3000 Kč (200Kč sleva při nákupu v Ufon shopu).

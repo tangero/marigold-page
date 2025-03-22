@@ -13,7 +13,7 @@ summary_points:
 - Redigg umožňuje ubírat body článkům, což Digg neumožňuje.
 - Co je nového nevyžaduje registraci, na rozdíl od Linkuj.
 - Autorem Co je nového je Jack DeNeut z firmy Dekadu.
-title: "A tentokráte variace na Reddit – CoJeNoveho.cz"
+title: A tentokráte variace na Reddit – CoJeNoveho.cz
 ---
 
 <p>Abychom ještě trochu rozšířili počet Web 2.0 invazních modelů do českého internetu, objevila se česká variace na <a href="http://www.reddit.com">Reddit</a> - jmenuje se <a href="http://www.cojenoveho.cz">Co je nového</a>.</p>

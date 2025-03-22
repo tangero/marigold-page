@@ -13,7 +13,7 @@ summary_points:
 - Keiji Tachikawa, president NTT DoCoMo, zlepšil dojem po nudné prezentaci v dotazech.
 - G sítě jsou podle Tachikawy v tomto desetiletí předčasné kvůli rizikům a 3G sítím.
 - Financování a stavba 4G sítí je podle NTT DoCoMo obchodně nejasná.
-title: "NTT DoCoMo: 4G? Zapomente na to…"
+title: NTT DoCoMo -  4G? Zapomente na to…
 ---
 
 <p>

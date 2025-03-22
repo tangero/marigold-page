@@ -13,7 +13,7 @@ summary_points:
 - VO-R/14/08.2005-26 se vydává bez časového omezení, což je výhodné.
 - VO-R/20/08.2005-32 se týká širokopásmových zařízení v pásmech 400 a 800/900 MHz.
 - ČTÚ publikovalo i další Všeobecná oprávnění, dostupné na webu.
-title: "Pásmo 10 GHz prodlouženo bez omezení"
+title: Pásmo 10 GHz prodlouženo bez omezení
 ---
 
 <p>Oblíbené spoje v bezlicenčním pásmu 10 GHz, kterým hrozilo, že jim za pár let vyprší generální povolení, zřejmě spasí nové Všeobecné oprávnění vydané ČTÚ pod označením VO-R/14/08.2005-26. Jeho <a href="http://www.ctu.cz/1/download/Opatreni%20obecne%20povahy/VO_R_14_08_2005_26.pdf">PDF verzi najdete zde </a>u ČTÚ. Výhodou všeobecného oprávnění oproti původním generálním povolením je hlavně fakt, že se vydává bez časového omezení. Dobrá to zpráva pro všechny provozovatele i výrobce 10 GHz spojů.  </p>

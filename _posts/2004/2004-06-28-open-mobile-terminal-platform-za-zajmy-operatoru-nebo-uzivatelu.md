@@ -13,7 +13,7 @@ summary_points:
 - OMTP iniciativa má sjednotit ovládání mobilních telefonů napříč značkami.
 - Sjednocení ovládání mobilů může brzdit vývoj, ale i rozšířit služby.
 - Uživatelé nestíhají přijímat nové funkce, je třeba stávající odladit.
-title: "Open Mobile Terminal Platform – za zájmy operátorů nebo uživatelů?"
+title: Open Mobile Terminal Platform – za zájmy operátorů nebo uživatelů?
 ---
 
 <p>

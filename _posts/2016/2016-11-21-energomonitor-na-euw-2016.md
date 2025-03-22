@@ -13,7 +13,7 @@ summary_points:
 - Použití ekologického a skládacího demopanelu z kartonu
 - Zvýšený zájem o technologii průběžného měření spotřeby
 - Pozitivní ohlasy o návštěvnosti a zájmu na veletrhu EUW
-title: "Energomonitor na EUW 2016"
+title: Energomonitor na EUW 2016
 ---
 
 I letos vystavujeme s <a href="http://www.energomonitor.com">Energomonitorem</a> na European Utility Week, největší evropském energetickém veletrhu. Už je to potřetí, po loňské zkušenosti z Vídně, kde jsme vystavovali ve společném partnerském stánku CzechTrade jsme se letos rozhodli opět pro samostatný vlastní stánek. Zkusím vysvětlit. CzechTrade všechno dohaduje v dostatečném předstihu, zatímco my jsme zvyklí na "just in time", už proto, že do poslední chvíle ladíme, co a jak tam budeme dělat. Tohle mělo za následek, že jsme si vloni včas neřekli, jak chceme náš stánek upravit a už to nešlo změnit. Byl potom takový ... standardní. A to my neradi. Radši vystupujeme z davu, v rámci finančních možností. Takže letos jsme zase vzali stánek samostatně, byl pravda o něco dražší a byl s tím více práce, ale zase jsme si to udělali po svém. 

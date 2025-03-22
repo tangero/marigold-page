@@ -15,7 +15,7 @@ summary_points:
   MMS.
 - Nokia boduje díky stálému ovládání, podpoře OTA a vzdělávání uživatelů i operátorů.
 - Telefony potřebují dedikovaná tlačítka pro fotoaparáty, aby se daly snadno používat.
-title: "Jste dost chytří pro chytrý telefon?"
+title: Jste dost chytří pro chytrý telefon?
 ---
 
 <p>

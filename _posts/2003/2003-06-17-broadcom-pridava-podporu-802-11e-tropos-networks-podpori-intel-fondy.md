@@ -13,9 +13,7 @@ summary_points:
 - WiFi sítě by měly dosáhnout propustnosti až 30 Mb/s díky QoS.
 - Internetová telefonie trpí kolísáním zátěže WiFi sítí bez QoS.
 - Tropos Networks získá investici 150 milionů USD, včetně Intel Communications Fund.
-title: "'Broadcom přidává podporu 802.11e. Tropos Networks podpoří Intel fondy."
-
-  '
+title: Broadcom přidává podporu 802.11e. Tropos Networks podpoří Intel fondy.
 ---
 
 <p>

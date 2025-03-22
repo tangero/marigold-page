@@ -12,7 +12,7 @@ summary_points:
 - Hledání použitého Macu s dostatečnou konfigurací bylo obtížné kvůli nedostatku rozšiřitelnosti.
 - Autor nakonec zakoupil iMac late 2013 jako cenově-výkonové optimum, ale rozšiřování
   bude problematické.
-title: "Přemýšlení o alternativním systému skončilo tradičně: iMac"
+title: Přemýšlení o alternativním systému skončilo tradičně -  iMac
 ---
 
 <p>Tak dlouho jsem snil o počítačové alternativě, až jsem znovu a zase ověřil, že žádná není a jde jen o to, kde a za kolik. Navíc pravda je, že poslední domácí počítač pro sebe jsem si koupil v roce 2008, takže koupit si nový není zase taková rozežranost. Zejména s ohledem na to, že iMac model 2008 ztratil podporu nových systémů a … už je opravdu unavený. </p>

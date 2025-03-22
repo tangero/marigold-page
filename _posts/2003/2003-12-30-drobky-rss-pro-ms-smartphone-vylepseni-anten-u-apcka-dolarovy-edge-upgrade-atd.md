@@ -13,8 +13,7 @@ summary_points:
 - Parabolický štít vylepšuje antény access pointu a zvyšuje jejich sektorovost.
 - EDGE upgrade z GSM/GPRS stojí operátory typicky 1-2 dolary na osobu.
 - České noviny připomínají tištěnou kategorii českých weblogů s obsahem z internetu.
-title: "'Drobky: RSS pro MS Smartphone, vylepšení antén u APčka, dolarový EDGE"
-  upgrade atd&#8230;'
+title: Drobky -  RSS pro MS Smartphone, vylepšení antén u APčka, dolarový EDGE upgrade atd…
 ---
 
 <p>

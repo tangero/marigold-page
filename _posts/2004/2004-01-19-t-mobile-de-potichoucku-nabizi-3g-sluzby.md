@@ -13,9 +13,7 @@ summary_points:
 - UMTS telefon a T-Mobile SIM karta umožňují přístup do 3G sítě.
 - Eplus a O2 plánují představit 3G služby na CeBITu v březnu.
 - Vodafone Německo spustil 3G síť, ale zatím pouze pro data.
-title: "'T-Mobile DE potichoučku nabízí 3G služby"
-
-  '
+title: T-Mobile DE potichoučku nabízí 3G služby
 ---
 
 <p>

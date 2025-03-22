@@ -14,7 +14,7 @@ summary_points:
 - iMovie je uživatelsky přívětivý software pro střih videa.
 - Autor vytvořil videoreportáž o hodinkách Seiko Spring Drive.
 - Vložení videa ze Stream.cz selhalo kvůli designu Chronomagu.
-title: "Hodinářský veletrh a vlastní videostřih …"
+title: Hodinářský veletrh a vlastní videostřih …
 ---
 
 Vrátiv se z cest, popatřil jsem v práci na četné změny, jež nastaly. Snad budou ku užitku, jistěže budou, takhle už to nešlo. Růst byl příliš rychlý a chtělo to odkalit vodu. 

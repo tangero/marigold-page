@@ -12,9 +12,7 @@ summary_points:
 - Eurotel zřejmě ukončí projekt CDMA450 kvůli tlaku Telecomu.
 - T-Mobile projevuje zájem o technologii CDMA450.
 - Podrobnosti o ukončení CDMA450 projektu Eurotelem na Mobil.cz.
-title: "'Telecom tlačí na ukončení projektu CDMA450 Eurotelu"
-
-  '
+title: Telecom tlačí na ukončení projektu CDMA450 Eurotelu
 ---
 
 <p>

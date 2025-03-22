@@ -13,7 +13,7 @@ summary_points:
 - Autor vzal návštěvu do Café Imperial, proslulé saturninovskými koblihami.
 - Kavárenská kultura se přesunula do menších, méně známých podniků.
 - Moderní tvůrci v kavárnách používají notebooky a internet pro svou práci.
-title: "Kavárenská minulost a budoucnost"
+title: Kavárenská minulost a budoucnost
 ---
 
 <p>V pátek dorazil z Říše můj otec.  Potkat jsme se měli v kavárně Slávie, přijel ještě s dalšími lidmi, aby jim ukázal Prahu. I dorazil jsem do <strong>Café Slávia</strong> toho teplého pátečního odpoledne a zastihl jsem je tam v dobrém rozmaru, jak pojídají a popíjejí a kochají se krásou Prahy, zejména pak kavárny Slávie. </p>

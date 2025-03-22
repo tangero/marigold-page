@@ -13,7 +13,7 @@ summary_points:
 - Operátoři vraceli analogové frekvence dobrovolně nebo po vypršení licence.
 - Německý regulátor dodnes řeší využití frekvencí po síti C-Netz.
 - Mahlerovo zkreslení mělo poškodit Eurotel v licenční záležitosti.
-title: "Mahlerův rozhovor v Týdnu – semo tamo mlha ve jménu vítězství"
+title: Mahlerův rozhovor v Týdnu – semo tamo mlha ve jménu vítězství
 ---
 
 <p>

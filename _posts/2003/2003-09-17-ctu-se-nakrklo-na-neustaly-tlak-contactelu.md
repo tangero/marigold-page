@@ -14,9 +14,7 @@ summary_points:
 - ČTÚ zdůrazňuje, že postupuje podle zákona a prodloužil lhůtu pro dokazování.
 - Autor vyzývá ČTÚ k nezávislému rozhodnutí s podrobným zdůvodněním, aby se předešlo
   emotivním výpadům.
-title: "'ČTÚ se nakrklo na neustálý tlak Contactelu"
-
-  '
+title: ČTÚ se nakrklo na neustálý tlak Contactelu
 ---
 
 Včera mi přišla tisková zpráva ČTÚ s podtitulkem "k problematice sporů o propojení sítí pro služby využívající technologii ADSL". Přečetl jsem si ji a nedá se shrnout jinak, než že ČTÚ se mírně nakrklo na neustálý tlak Contactelu a jeho opakování, že ČTÚ musí do 19. září vydat rozhodnutí. Contactel ostatně nikdy nenechal veřejnost na pochybách, jaké to rozhodnutí musí být, aby bylo správné. 

@@ -17,7 +17,7 @@ summary_points:
   zaměstnanců.
 - Boeing pod vedením Welchových chráněnců upřednostnil zisk, což vedlo k tragickým
   nehodám.
-title: 'Kniha do vaší knihovničky. Jack Welch: Muž, který rozbil kapitalismus'
+title: Kniha do vaší knihovničky. Jack Welch -  Muž, který rozbil kapitalismus
 ---
 
 Bývalý šéf společnosti General Electric Jack Welch, který byl kdysi označován za nejlepšího manažera 20. století, v právě vyšlé knize reportéra deníku New York Times Davida Gellese přebírá vinu za mnohé z toho, co je s firmami v 21. století špatně. Kniha se jmenuje [Muž, který rozbil kapitalismus](https://www.amazon.com/Man-Who-Broke-Capitalism-America_and/dp/198217644X) a má podobně provokativní podtitul: Jak Jack Welch rozvrátil Heartland a zničil duši korporátní Ameriky - a jak napravit jeho dědictví. Welchův odkaz se objevuje všude v podnikové kultuře, od uctívání slavných generálních ředitelů - jeho odkaz nese i Elon Musk na Twitteru - přes nehorázné odměny až po neúnavné zaměření na akcionáře a zpětný odkup akcií na úkor dlouhodobých inovací a blahobytu zaměstnanců.

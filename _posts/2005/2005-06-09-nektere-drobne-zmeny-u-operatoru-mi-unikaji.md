@@ -13,7 +13,7 @@ summary_points:
 - T-Mobile zrušil konfiguraci služeb přes SMS, nutí uživatele k webovému konfigurátoru.
 - Eurotel komplikovaně mění názvy datových služeb, ztěžuje orientaci zákazníkům.
 - Platnost MMS zpráv u Vodafone je pouze tři dny, což je nedostatečné.
-title: "Některé drobné změny u operátorů mi unikají"
+title: Některé drobné změny u operátorů mi unikají
 ---
 
 <p>Nejde o nic zásadního. Spíš drobnosti, které člověku ztrpčují život a kterých se operátoři vzdali, aniž bych chápal, proč tak učinili. Ačkoliv chápu, že moje chápání není pro operátory příliš podstatné, na druhou stranu mám neodbytný dojem, že nejsem sám, kdo nechápe. Doufám, že mne chápete ;) </p>

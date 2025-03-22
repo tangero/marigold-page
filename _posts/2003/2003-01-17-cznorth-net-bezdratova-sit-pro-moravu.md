@@ -13,7 +13,7 @@ summary_points:
 - Cznorth.net je název nové sítě v Zábřehu, která má vlastní doménu.
 - Webová prezentace cznorth.net byla ve vývoji a měla být spuštěna v pondělí.
 - Grafika serveru cznorth.net je zdařilá a obsahuje užitečné informace.
-title: "CzNorth.net – bezdrátová síť pro Moravu"
+title: CzNorth.net – bezdrátová síť pro Moravu
 ---
 
 <p>

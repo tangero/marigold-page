@@ -14,7 +14,7 @@ summary_points:
 - Mobil.cz publikoval autorův článek o 3G sítích z Cannes 2003.
 - SFR účtuje 20 Euro za den WiFi připojení, pokrytí je mizerné.
 - Přednášky se věnovaly WLAN a kooperaci s GSM/3G.
-title: "3G sítě v problémech, WLAN je mobilním operátorům doporučováno"
+title: 3G sítě v problémech, WLAN je mobilním operátorům doporučováno
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Zubařovo "reagovat" značí bolestivou reakci na zásah do zubního nervu.
 - Ceeoxx je nový, účinný lék proti bolesti, ale je drahý a hůře dostupný.
 - Autor je s účinkem léku Ceeoxx natolik spokojen, že by výrobci poslal děkovný dopis.
-title: 'Ceeoxx: děkovný dopis (aneb recenze prášků proti bolesti)'
+title: Ceeoxx -  děkovný dopis (aneb recenze prášků proti bolesti)
 ---
 
 <p>

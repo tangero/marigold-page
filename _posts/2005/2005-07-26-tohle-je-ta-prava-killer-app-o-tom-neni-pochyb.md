@@ -13,7 +13,7 @@ summary_points:
 - Program má jednoduché rozhraní a umožňuje snadné stahování MP3 souborů.
 - Stahování MP3 přes P2P je výhodnější než drahé WAP verze pro uživatele.
 - Mobilní P2P aplikace mohou způsobit problémy hudebníkům a hudebnímu průmyslu.
-title: "Tohle je ta pravá killer app – o tom není pochyb"
+title: Tohle je ta pravá killer app – o tom není pochyb
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20050726-symella.jpg" alt="Symella - P2P pro Series 60" width="350" height="406" /></div>Nainstaloval jsem si v průběhu víkendu na svoji Nokia <strike>6681</strike> 6680 (ergo Series 60) software Symella. Je to program pro Series 60 umožňující připojení do P2P sítí založených na Gnutella protokolu. Myslel jsem si, že to bude nějaký otřesný software, ale kdeže – všechno šlo snadno. Program má hezké a jednoduché grafické rozhraní a fungoval na první pokus. </p>

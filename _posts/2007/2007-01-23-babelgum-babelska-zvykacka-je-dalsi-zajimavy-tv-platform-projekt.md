@@ -13,7 +13,7 @@ summary_points:
 - Silvio Scaglia, zakladatel Fastwebu, založil Babelgum jako P2P platformu.
 - Babelgum slibuje tvůrcům obsahu platby za stažení videoklipů.
 - Google investoval do čínského Xunlei, další P2PTV platformy.
-title: "Babelgum – Bábelská žvýkačka je další zajímavý TV platform projekt"
+title: Babelgum – Bábelská žvýkačka je další zajímavý TV platform projekt
 ---
 
 <texy>V poslední době je už potřeba rozlišovat, co který dobrodruh s internetovou televizí dělá, zda jen platformu pro její šíření, nebo samotný obsah, či obojí. 

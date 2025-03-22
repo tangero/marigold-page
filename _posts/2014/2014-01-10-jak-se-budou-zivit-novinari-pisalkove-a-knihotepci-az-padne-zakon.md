@@ -18,8 +18,7 @@ summary_points:
 - "Noviny a \u010Dasopisy nab\xEDzej\xED n\xEDzk\xE9 honor\xE1\u0159e, nejsou stabiln\xED\
   \ ob\u017Eivou."
 - "Firemn\xED copywriting p\u0159edstavuje budoucnost pro spisovatele na zak\xE1zku."
-title: ""Jak se budou \u017Eivit novin\xE1\u0159i, pis\xE1lkov\xE9 a knihotepci,\"
-  \ a\u017E padne z\xE1kon"
+title: Jak se budou \u017Eivit novin\xE1\u0159i, pis\xE1lkov\xE9 a knihotepci,\ \ a\u017E padne z\xE1kon
 ---
 
 <p>Považuji za danné, že způsob právní ochrany autorských děl projde brutální změnou, ať již legislativní, nebo - jako se teď děje ponejvíce - faktickou. Jejím výsledkem bude pokles výběrů peněz z autorských děl, což se děje už teď. A vždycky mě zajímalo, jak se s tím vyrovná trh, tedy, čím se budou dotyční kreativci živit. Zajímá mě to mimo jiné proto, že k psaní mám vždycky jednou nohou nakročeno a tak mě perspektiva oboru tíží.</p>

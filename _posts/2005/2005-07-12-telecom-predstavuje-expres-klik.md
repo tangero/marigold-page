@@ -13,7 +13,7 @@ summary_points:
 - Rychlost ADSL lze navýšit o více stupňů za násobek poplatku, datové limity rostou.
 - Služba Expres Klik bude dostupná i pro další poskytovatele internetu.
 - Změna rychlosti ADSL se provádí online kliknutím na webu.
-title: "Telecom představuje Expres Klik"
+title: Telecom představuje Expres Klik
 ---
 
 <p>Máte ADSL službu Internet Expres Doma a chcete si krátkodobě zvýšit rychlost třeba na stáhnutí velkého souboru? Telecom představuje Expres Klik, kdy za 49 Kč na 24 hodin zvýšíte rychlost o jeden stupeň, tedy třeba z 128 Kb/ na 512 Kb/s. Zvýšit si můžete za násobek poplatku na násobek stupňů. Navýší se i datové limity.</p>

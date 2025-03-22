@@ -13,9 +13,7 @@ summary_points:
 - Nové mobilní služby jako obsah, hudba a videohovory zatím selhávají.
 - Operátoři investují do technologií, ale uživatelé z obsahu moc nemají.
 - Autor předpovídá prasknutí bubliny v mobilních telekomunikacích na jaře 2009.
-title: "'Telekomunikace jsou těsně před další bublinou"
-
-  '
+title: Telekomunikace jsou těsně před další bublinou
 ---
 
 <p>O víkendu jsem trochu pracoval s tabulkami výkonu telco ekonomik. Anžto je duben, už byly updatované o celoroční výsledky za rok 2005. Telekomunikace utěšeně rostou. Zachtělo se mi oslavně křičet, jak se máme dobře. Jenže pak jsem si ty statistiky prošel hlouběji. Ne podle firem, podle zemí. Ale strukturálně. Podle segmentů, příjmů a výdajů na technologie. Už to bylo mnohem méně povzbudivé čtení. Následuje výklad, proč si myslím, že nás do tří let postihne další obrovské zemětřesení v telekomunikačním sektoru. </p>

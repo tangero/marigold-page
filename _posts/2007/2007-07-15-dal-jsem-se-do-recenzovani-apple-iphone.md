@@ -13,9 +13,7 @@ summary_points:
 - Autor se rozhodl napsat vlastní recenzi iPhonu kvůli nedostatku kvalitních recenzí.
 - Kvalita fotografií iPhonu byla nízká, autor použil pro focení Nokii N95.
 - Autor plánuje doplnit recenzi o video, pokud sežene potřebné vybavení.
-title: "'Dal jsem se do recenzování Apple iPhone"
-
-  '
+title: Dal jsem se do recenzování Apple iPhone
 ---
 
 Myslel jsem, když je iPhone dva týdny na trhu, že nějaká slušná česká recenze bude. Oba hlavní mobilní servery ale zklamaly a na místních "recenzích" je vidět, že jejich autoři drželi telefon v ruce jen na chvíli. Hodně se snažil MaLér, který dopadl o řády lépe, ale i tam mi pár poznatků chybí. A tak jsem se dal do psaní vlastní recenze. Navíc, poté, co jsem viděl výsledky fotek (nemám doma foťák, tak jsem iPhone musel fotit Nokia N95 a podle toho to dopadlo), jsem si radši zajel do práce pro kameru, možná něco sestříhám (jestli najdu kazetu a firewire kabel a čas ovšem).

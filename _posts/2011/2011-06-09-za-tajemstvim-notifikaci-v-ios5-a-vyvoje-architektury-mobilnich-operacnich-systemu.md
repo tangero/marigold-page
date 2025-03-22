@@ -20,8 +20,7 @@ summary_points:
   místo aby se dotazovaly.
 - Vývoj mobilních OS směřuje k závislosti na cloudu, Apple a Google slevují ze svých
   původních pozic.
-title: "Za tajemstvím notifikací v iOS5 a vývoje architektury mobilních operačních"
-  systémů
+title: Za tajemstvím notifikací v iOS5 a vývoje architektury mobilních operačních systémů
 ---
 
 Je chvíle, tak se podívejme na to, jak Apple řeší šlamastiku s absentujícím dashboardem a co je nového v notifikacích na iOS5.

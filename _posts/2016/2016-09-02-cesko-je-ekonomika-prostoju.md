@@ -14,7 +14,7 @@ summary_points:
 - Česko trpí ekonomickými prostoji ve zdravotnictví, úřadech a dopravě.
 - Češi se s prostoji smířili a vnímají je jako běžnou součást života.
 - Německý přístup k práci je efektivnější a méně náchylný k prokrastinaci.
-title: "Česko je ekonomika prostojů"
+title: Česko je ekonomika prostojů
 ---
 
 Z letních zpráv mě zaujala jedna. <a href="http://www.byznysnoviny.cz/2016/08/01/v-cesku-je-pouze-polovicni-produktivita-prace-nez-v-nemecku-nejvyssi-je-v-usa/">Produktivita práce v Česku je poloviční oproti Německu</a>. Našel jsem hromadu vysvětlení od méně odborných jako “český líný kurvy” až po maximálně ekonomická (medián přidané hodnoty se v Německu realizuje nad bazálním českým produktem) atd. Moje trocha do mlýna? Česko je ekonomikou prostojů. Nad tím prorůstovou a produktivní ekonomiku nevybudujeme nijak snadno. 

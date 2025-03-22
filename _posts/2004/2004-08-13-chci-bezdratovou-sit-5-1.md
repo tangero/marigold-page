@@ -13,7 +13,7 @@ summary_points:
 - Dostupnost ADSL lze ověřit online formulářem.
 - Wi-Fi sítě lze hledat v online databázích.
 - Výběr internetu by měl odpovídat potřebám uživatele.
-title: "Chci bezdrátovou síť! (5.1)"
+title: Chci bezdrátovou síť! (5.1)
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040814-mobileuser.gif" alt="Mobilní uživatel" width="148" height="274" /></div><p>

@@ -13,7 +13,7 @@ summary_points:
 - Přenos sledovalo v průměru 200 lidí v první čtvrthodině, což překonalo očekávání.
 - TTčka a Karo byli vtipní, takže se na přenos dalo koukat.
 - Návštěvnost Stream.cz byla o 500 lidí vyšší než víkendový průměr.
-title: 'Líbačka právě běží online na Stream.cz (Update: už je konec)'
+title: Líbačka právě běží online na Stream.cz (Update -  už je konec)
 ---
 
 Sledovat můžete rovnou zde, slibně se to rozjíždí a lidí chodí dost :)

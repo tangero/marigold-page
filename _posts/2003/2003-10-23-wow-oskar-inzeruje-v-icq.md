@@ -13,7 +13,7 @@ summary_points:
 - Nokia Game 2003 je další česká reklama, která se na ICQ objevila.
 - Autor používá AdMuncher k filtrování reklamy na internetu.
 - Internet je podle autora zavalený reklamou, což si uvědomuje při vypnutí AdMuncheru.
-title: "Wow, Oskar inzeruje v ICQ…"
+title: Wow, Oskar inzeruje v ICQ…
 ---
 
 <p>

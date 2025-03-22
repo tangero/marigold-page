@@ -14,7 +14,7 @@ summary_points:
 - Technologie Wi-Bro bude pracovat v licencovaném pásmu 2,3GHz s rychlostí 30-50 Mb/s.
 - Wi-Bro má být prvním krokem k sítím 4G a technologickému osamostatnění Asie.
 - Asie se snaží o technologickou nezávislost na Západu vývojem vlastních technologií.
-title: "Wi-Bro – další broadband technologie"
+title: Wi-Bro – další broadband technologie
 ---
 
 <p>

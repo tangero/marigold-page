@@ -13,7 +13,7 @@ summary_points:
 - Funkce interně funguje dlouho, aktivována byla až s dostatečnou návštěvností.
 - Kliky uživatelů ovlivňují váhová kritéria a zvýrazňují populární témata.
 - Technicky bulvární témata jsou díky klikům uživatelů více viditelná.
-title: "Přehled.net už třídí podle zájmu"
+title: Přehled.net už třídí podle zájmu
 ---
 
 <p>

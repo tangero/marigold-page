@@ -13,9 +13,7 @@ summary_points:
 - USA povolují vyšší vysílací výkony, což může omezit využití v EU.
 - Technologie 5G Wireless není jasná, chybí informace o jejím fungování.
 - WiFi SpeedSpray je ověřená technologie pro zrychlení WiFi.
-title: "'Zázračná technologie WiFi od 5G Wireles Communcations?"
-
-  '
+title: Zázračná technologie WiFi od 5G Wireles Communcations?
 ---
 
 <p>

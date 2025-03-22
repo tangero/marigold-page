@@ -13,7 +13,7 @@ summary_points:
 - Algoritmy Facebooku budou vybírat příspěvky, které by uživatele "mohly zajímat".
 - Chronologický feed od přátel bude pravděpodobně nepoužitelný kvůli velkému objemu
   dat.
-title: "Facebook objevil news feed a zamlžil tím změnu toho skutečného..."
+title: Facebook objevil news feed a zamlžil tím změnu toho skutečného...
 ---
 
 Mark Zuckerberg oznámil, že Facebook přidá novou záložku, na které uvidíte... jen příspěvky od svých přátel, a to v chronologickém pořadí. Tedy to, co byl před mnoha lety původní původní newsfeed Facebooku. Lidé se po něm prostě ptali, říká Zuckerberg. Jenže tím nějak zamlžuje jednu věc. Tohle bude speciální záložka. Ta normální hlavní stránka Facebooku vám ovšem do přehledu "vybraných příspěvků" začne doplňovat i příspěvky od lidí či stránek, které vůbec nesledujete, ale "mohly by vás zajímat". Vliv algoritmů znovu roste - doposud se vám do takového výběru nedostávaly příspěvky od nikoho, koho jste nesledovali a vaši přátelé ho nezvýraznili. Nebo to alespoň byla reklama. 

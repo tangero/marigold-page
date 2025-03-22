@@ -13,7 +13,7 @@ summary_points:
 - Odesílání MMS z T-Mobile a Eurotelu na Sony Ericsson u Oskara nefunguje dobře.
 - MMS z Ericssonu na Ericsson fungují, stejně jako ze Siemensu na Sony Ericsson.
 - Nokia má s MMS u Oskara nejlepší kompatibilitu, služba je pro ně optimalizovaná.
-title: "MMS Koktej u Oskara bez problémů jen pro Nokia telefony"
+title: MMS Koktej u Oskara bez problémů jen pro Nokia telefony
 ---
 
 <p>

@@ -14,9 +14,7 @@ summary_points:
 - Amazon Echo se stává populárním díky jednoduchému ovládání a integraci s domácí
   automatizací
 - Boj o centrum chytré domácnosti mezi Amazonem a Applen se stává bodem zlomu
-title: "'Jak Amazon Echo zpopelňuje šance Apple na domácí revoluci"
-
-  '
+title: Jak Amazon Echo zpopelňuje šance Apple na domácí revoluci
 ---
 
 Už dávnou soudím, že  jestli něco zásadně změní vyhledávání na internetu a s tím i pozici firem, které na vyhledávání zásadně závisí (třeba Google), bude to hlasové vyhledávání. Samozřejmě kromě toho, že vyhledávat přestaneme, k čemuž sociální sítě a bubliny v nich směřují. 

@@ -13,7 +13,7 @@ summary_points:
 - Balíčky MMS zdarma a načasování spuštění služby přispěly k úspěchu Oskara.
 - Oskar spustil MMS rok po konkurenci, což vedlo k akumulované poptávce.
 - Eurotel má 60 000 MMS uživatelů, T-Mobile 50 000, Oskar bude růst.
-title: "Oskar ohlásil za týden 10 000 uživatelů MMS"
+title: Oskar ohlásil za týden 10 000 uživatelů MMS
 ---
 
 <p>

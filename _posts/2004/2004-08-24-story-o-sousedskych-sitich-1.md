@@ -13,7 +13,7 @@ summary_points:
 - Autor doporučuje komunitní sítě, konkrétně CZFree.Net.
 - Používá iPAQ, WiFi kartu Orinoco a software Ministumbler k měření signálu.
 - První kauza řeší připojení rodiny v centru Prahy přes CZFree.Net.
-title: "Story o sousedských sítích (1.)"
+title: Story o sousedských sítích (1.)
 ---
 
 <p>

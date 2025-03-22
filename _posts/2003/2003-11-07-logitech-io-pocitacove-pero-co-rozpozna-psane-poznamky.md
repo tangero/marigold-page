@@ -15,7 +15,7 @@ summary_points:
 - Vestavěná paměť pera pojme 40 stran poznámek, které se synchronizují přes USB do
   PC.
 - Software pera umí rozpoznávat rukopis a integrovat text do různých aplikací.
-title: "Logitech io – počítačové pero, co rozpozná psané poznámky"
+title: Logitech io – počítačové pero, co rozpozná psané poznámky
 ---
 
 <p>

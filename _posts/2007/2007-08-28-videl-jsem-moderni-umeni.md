@@ -13,7 +13,7 @@ summary_points:
 - Autor přiznává omezené znalosti moderního umění, preferuje starší epochy.
 - Performance s mužem a igelitkami Delvita autor nepochopil, záměr mu zůstal skryt.
 - Film "Mozartovo requiem" Petra Nikla autor kritizuje pro nedostatek myšlenky.
-title: "Viděl jsem moderní umění"
+title: Viděl jsem moderní umění
 ---
 
 V sobotu jsem dorazil na karlovarský <a href="http://www.freshfilmfest.net/">Fresh Film Fest</a>. Měl jsem se tu účastnit diskusního panelu o internetu a distribuci filmů.  A záměrně jsem doputoval o něco dříve, abych si poněkud rozšířil obzory v moderních trendech, fimech a umění. 

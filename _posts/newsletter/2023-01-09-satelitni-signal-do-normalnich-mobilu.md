@@ -18,7 +18,7 @@ summary_points:
 - Snapdragon Satellite bude dostupný v nových telefonech s Qualcomm hardwarem v druhé
   polovině roku.
 - T-Mobile a Starlink plánují podobnou satelitní službu pro telefony.
-title: "Satelitní signál do normálních mobilů"
+title: Satelitní signál do normálních mobilů
 ---
 
 Nové iPhone 14 mají schopnost připojit se k satelitní síti a komunikovat i v odlehlých oblastech bez klasického terestrického signálu. Tuhle schopnost nicméně chce trumfnout Qualcomm, který tutéž funkci prostřednictví 66 satelitů Iridium chce nabídnout i v telefonech s operačním systémem Android. Služba Snapdragon Satellite umožní obousměrný přenos SMS zpráv, tedy větší komfort než jednostranné komprimované nouzové zprávy na iPhone. iPhone používá Globalstar, který má pouze 24 satelitů pokrývajících celý svět, takže Iridium bude nabízet kvalitnější přenos zpráv a pokrytí. Služba nicméně bude fungovat jen s novými telefony vybavenými hardware od Qualcommu. Jedna věc je na tom zajímavá: Qualcomm je výrobce čipových sad pro mobilní telefony, velký držitel patentů, ale pro běžné uživatele v podstatě neviditelná firma. V poslední době se nicméně snaží ke svým čipům přibalovat i službu, kterou uživatelé vidí - jako třeba právě Snapdragon Satellite. 

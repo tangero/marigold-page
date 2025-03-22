@@ -15,8 +15,7 @@ summary_points:
 - Média šetří kvůli krizi, což vede k povrchnosti a bulvarizaci obsahu.
 - Seriózní žurnalistika je drahá a chybí jí finanční podpora i tradice.
 - Změna začíná u každého jednotlivce, poctivou prací bez "ochcávek".
-title: "O chcípáctví novinařiny, proč jsou noviny hnůj a co s tím konkrétně"
-  vy můžete udělat?
+title: O chcípáctví novinařiny, proč jsou noviny hnůj a co s tím konkrétně vy můžete udělat?
 ---
 
 Kritika novinářů je dnes velmi oblíbená záležitost. Od premiéra Zemana ji postupně převzala většina politiků a z politiky proniklo přesvědčení o tom, že novináři jsou nemakačenskovská lemplovská žumpa společnosti i dále. V českých sociálních sítích nemine den, aby se někdo neopřel do novinářů s něčím, co je prý „klasický fail“, „jeden příklad z mnoha“ a další krásné paušalizující soudy. 

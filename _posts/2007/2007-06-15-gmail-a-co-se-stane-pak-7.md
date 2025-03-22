@@ -13,7 +13,7 @@ summary_points:
 - Uživatel ukládá přílohy mimo Gmail, přesto schránku zaplnil.
 - Čtyři tisíce nevyřízených emailů a 27 tisíc spamů jsou běžné.
 - Množství spamu v Gmailu uživatele exponenciálně roste.
-title: "GMail – a co se stane PAK?"
+title: GMail – a co se stane PAK?
 ---
 
 Mám malý soukromý problém s Gmailem. Jeho podstatu odhalí následující obrázek:

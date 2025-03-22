@@ -13,7 +13,7 @@ summary_points:
 - Rozhodčí komise řešily spory o domény .cz podle ochranných známek.
 - Správce TLD doménu přepsal podle rozhodnutí rozhodce, což bylo jeho právo.
 - Extralegalita online businessu v Second Life a hrách přináší nové problémy.
-title: "Obtíže rozhodování a extralegální procesy na internetu"
+title: Obtíže rozhodování a extralegální procesy na internetu
 ---
 
 Četl jsem dnes <a href="http://www.misantrop.info/607398-pondelni-psani-o-nerozhodnosti.php">článeček Artura Denta</a> věnovaný obtížnému rozhodování v pozici duchovního šéfa Bloguje.cz. Rozhodování, i když to tak nevypadá, je jednou z nejtěžších lidských disciplín. Už proto, že je disciplínou velmi abstraktní a na první pohled snadnou. Vezmete možnosti, poměříte je a rozhodnete se. Kéž by to tak bylo. 

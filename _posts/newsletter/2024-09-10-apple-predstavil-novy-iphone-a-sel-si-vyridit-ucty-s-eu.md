@@ -19,7 +19,7 @@ summary_points:
 - Apple AI nepodporuje jiné jazyky než angličtinu, což brání EU nasazení.
 - EU regulace je srovnatelná s Čínou, ale lépe vymahatelná než v USA.
 - Apple využívá situaci k tlaku na EU, podobně jako Musk v Brazílii.
-title: "\U0001F34F Apple představil nový iPhone … … a šel si vyřídit účty s EU \U0001F1EA\U0001F1FA"
+title: \U0001F34F Apple představil nový iPhone … … a šel si vyřídit účty s EU \U0001F1EA\U0001F1FA
 ---
 
 … a šel si vyřídit účty s EU 🇪🇺

@@ -13,9 +13,7 @@ summary_points:
 - Samba server umožňuje disku fungovat jako síťová jednotka.
 - USB utilita automaticky kopíruje data z připojené jednotky.
 - Zařízení funguje jako přístupový bod a stojí kolem 150 USD.
-title: "'Pevný disk Asus WL-HDD(HD) přístupný přes WiFi nebo ethernet"
-
-  '
+title: Pevný disk Asus WL-HDD(HD) přístupný přes WiFi nebo ethernet
 ---
 
 <div class="rightbox"> <img src="/wp-content/uploads/20040709-asus-wl_hdd.jpg" alt="Asus WL-HDD(HD)" width="220" height="180" /> </div>

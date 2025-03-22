@@ -13,7 +13,7 @@ summary_points:
 - Zodpovědní představitelé obcí konzultují problematiku internetu zdarma s odborníky.
 - Autor nesouhlasí s tím, aby radnice konkurovala soukromým firmám internetem zdarma.
 - Autor hledá způsoby, jak zajistit přístup k informacím bez poškození ISP.
-title: "Jaký je váš názor na „obecní“ internet (zdarma)?"
+title: Jaký je váš názor na „obecní“ internet (zdarma)?
 ---
 
 <p><strong>Noname píše:</strong> Kauza projektu "Internet zdarma" Hlavního města Prahy rozpotala vlnu podobných projektů, mnoho obcí se tím nyní prezentuje na venek, zjevně za účelem zvýšit popularitu svých starostů před nadcházejícími volbami, a nebo prostě jen proto, že jim to přijde hezké, ale jaksi se tím hlouběji nezabývali a nebo tomu ani tolik nerozumí (ostatně - proč by měli rozumět všemu).</p>

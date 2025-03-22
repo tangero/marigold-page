@@ -15,8 +15,7 @@ summary_points:
 - Kniha se zaměřuje na návrh úspěšných produktů, ne jen na iPhone.
 - Autor knihy je zkušený praktik, který se vzpírá pravidlům Silicon Valley.
 - Marc Porat z Apple nakreslil koncept iPhonu už v roce 1989.
-title: "'Doporučení na knihu? Tony Fadel a jeho Budování: Neortodoxní průvodce výrobou"
-  věcí, které stojí za to vyrobit'
+title: Doporučení na knihu? Tony Fadel a jeho Budování -  Neortodoxní průvodce výrobou věcí, které stojí za to vyrobit
 ---
 
 Tonyho Fadela si možná pamatujete z Apple. Měl na starosti například iPhone. A tím vlastně také knihu začíná: Zkoušel jsem iPhone sestavit dvakrát.

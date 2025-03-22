@@ -13,7 +13,7 @@ summary_points:
 - SANET, slovenská akademická síť, požádala o delegaci domény dříve.
 - eNUM převádí telefonní čísla na IP adresy pomocí DNS systému.
 - RIPE je celosvětový koordinátor delegování zónových souborů.
-title: "eNUM se blíží"
+title: eNUM se blíží
 ---
 
 <p>

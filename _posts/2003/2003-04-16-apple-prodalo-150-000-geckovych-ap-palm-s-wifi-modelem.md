@@ -13,7 +13,7 @@ summary_points:
 - Tungsten C s WiFi a Intel procesorem má stát 500 USD.
 - Článek Palmare doporučuje WiFi Toshibu e750 pro PocketPC.
 - WiFi pouzdro je dostupné pro zařízení Palm.
-title: "Apple prodalo 150 000 Géčkových AP, Palm s WiFi modelem"
+title: Apple prodalo 150 000 Géčkových AP, Palm s WiFi modelem
 ---
 
 <p>

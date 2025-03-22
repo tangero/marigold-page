@@ -16,7 +16,7 @@ summary_points:
   složek.'
 - 'Režim nízké spotřeby: Prodlouží výdrž baterie až na 36 hodin u Series 8.'
 - 'Apple Watch Ultra: Odolné hodinky pro sportovce s větším displejem a delší výdrží.'
-title: "Apple Watch 8, Ultra a SE"
+title: Apple Watch 8, Ultra a SE
 ---
 
 Osmá generace hodinek Apple Watch přináší jako hlavní inovací **teplotní senzor** , který na zápěstí snímá v noci teplotu v pravidelných pětivteřinových intervalech a zapisuje ji do aplikace Zdraví. Údaj se využije hlavně ke sledování menstruačních cyklů a zjišťování ukazatelů ovulace. Data budou v zařízení zašifrována a při přenosu poskytovatelům zdravotní péče budou šifrována end-to-end. Využijí se ke sledování menstruačního cyklu. **Sledování menstruace a ovulace** se stává letos hlavním tahákem pro nové chytré hodinky. Až doposud to ale většina modelů (jako Garmin či Fitbit) řešily jen matematicky, zatímco nově se prosazuje doplnění o měření teploty, které umožní předpovědi zpřesnit. Je také pravděpodobné, leč. nepotvrzené, že změnu teploty bude Apple používat k detekci onemocnění, již dnes takto používá tepovou frekvenci.

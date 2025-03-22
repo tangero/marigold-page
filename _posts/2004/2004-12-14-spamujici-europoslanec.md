@@ -15,7 +15,7 @@ summary_points:
   kanceláře.
 - Přiložený faxový dokument obsahoval ručně psané podpisy poslanců a faxové číslo
   kanceláře.
-title: "Spamující Europoslanec?!"
+title: Spamující Europoslanec?!
 ---
 
 <p>

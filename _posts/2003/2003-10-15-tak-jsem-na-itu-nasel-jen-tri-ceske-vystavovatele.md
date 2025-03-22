@@ -13,9 +13,7 @@ summary_points:
 - Česká účast na výstavě byla malá oproti jiným státům s národními stánky.
 - Autor se ptá, zda ČR nemá konkurenceschopné produkty pro mezinárodní trh.
 - Jablotron, Vanco.Net a Ronja by mohly být potenciálními vystavovateli.
-title: "'Tak jsem na ITU našel jen tři české vystavovatele"
-
-  '
+title: Tak jsem na ITU našel jen tři české vystavovatele
 ---
 
 <p>

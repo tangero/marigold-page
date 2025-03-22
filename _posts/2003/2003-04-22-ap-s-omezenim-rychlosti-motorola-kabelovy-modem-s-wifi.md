@@ -13,7 +13,7 @@ summary_points:
 - XI-1500P podporuje RADIUS autorizaci a napájení po ethernetu.
 - Motorola SBG1000 je WiFi kabelový modem s ethernet switchem a firewallem.
 - SBG1000 má port pro tiskárnu, dostupnost v ČR je neznámá.
-title: "AP s omezením rychlosti, Motorola kabelový modem s WiFi"
+title: AP s omezením rychlosti, Motorola kabelový modem s WiFi
 ---
 
 <p>

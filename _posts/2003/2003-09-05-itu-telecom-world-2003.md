@@ -13,7 +13,7 @@ summary_points:
 - Evropské firmy považují účast na ITU za povinnost.
 - Výstava ITU je zaměřena na obchod a vývoj sítí.
 - Cesta na ITU je pro česká média finančně náročná.
-title: "ITU Telecom World 2003"
+title: ITU Telecom World 2003
 ---
 
 <p>

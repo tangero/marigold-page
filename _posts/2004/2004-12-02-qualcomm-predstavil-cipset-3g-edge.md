@@ -13,7 +13,7 @@ summary_points:
 - Qualcomm MSM6255 nově podporuje WCDMA, GPRS i EDGE.
 - Dostupnost MSM6255 je omezena do konce roku 2005, EDGE mobily až 2006.
 - Qualcomm prezentuje BREW řešení pro WCDMA v Cannes.
-title: "Qualcomm představil čipset 3G/EDGE"
+title: Qualcomm představil čipset 3G/EDGE
 ---
 
 <p>

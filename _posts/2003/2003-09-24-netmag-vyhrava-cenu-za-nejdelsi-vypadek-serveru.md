@@ -13,9 +13,7 @@ summary_points:
 - Zbyněk Pospíchal server NetMag po dlouhé době nerestartování u ISP obnovil.
 - Autor vítá NetMag zpět online, design serveru však považuje za otřesný.
 - V telekomunikacích a WiFi nenastal žádný nový vývoj, jen hrozí vyšší DPH.
-title: "'NetMag vyhrává cenu za nejdelší výpadek serveru"
-
-  '
+title: NetMag vyhrává cenu za nejdelší výpadek serveru
 ---
 
 <p>

@@ -13,8 +13,7 @@ summary_points:
 - Registrace ha-loo zdarma, minimální kredit 100 Kč, platnost kreditu jeden rok.
 - Ha-loo nabízí 5 haléřů za minutu příchozího hovoru ke kreditu.
 - Ha-loo má dealerský program s provizemi z provolaných částek doporučených uživatelů.
-title: "Ha-vel volá ha-loo s novou VoIP službou, která vám zaplatí za příchozí"
-  hovor
+title: Ha-vel volá ha-loo s novou VoIP službou, která vám zaplatí za příchozí hovor
 ---
 
 <p>Tento týden z VoIP novinek asi nevyjdeme. Ha-vel právě spouští novou verzi své VoIP nabídky, tentokráte zaměřenou spíše na drobnější uživatele (firemní VoIP služby nabízí ha-vel už docela dlouho), tedy pro telefonování z jednoho telefonu nebo počítače. Služba se jmenuje ha-loo (ano, počáteční H je stejně jako ve jménu firmy malé) a kromě toho, že je povedeně přítulná a postavená na standardním SIPu i rozumných cenách, má ještě jednu zvláštnost. Z každého příchozího hovoru dostanete pět haléřů za minutu ke svému kreditu. Navíc se snadno můžete stát ha-loo dealerem a vydělávat na tom, co uživatelé, které jste do služby přivedl, provolají. </p>

@@ -13,7 +13,7 @@ summary_points:
 - Eurotel účtuje v Německu až 1000 Kč za 1 MB dat v GPRS roamingu.
 - T-Mobile nabízí paušální cenu 210 Kč za 1 MB dat v GPRS roamingu.
 - Mobilní data via GPRS/UMTS jsou předražená a sítě by neunesly veškerý provoz.
-title: "GPRS roaming – účet za 3500 USD…"
+title: GPRS roaming – účet za 3500 USD…
 ---
 
 <p>

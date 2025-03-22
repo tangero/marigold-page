@@ -16,7 +16,7 @@ summary_points:
 - Zapomenuté podklady vedly k panickému hackování cizí WiFi a zpoždění na schůzku.
 - Absence internetu v tramvaji vedla k hlubšímu přemýšlení a poznámkám do notýsku.
 - Autor strávil s mobilem minimum času a zjistil, že má čas na promýšlení věcí.
-title: "Zpráva o příznacích z nepoužívání mobilního internetu"
+title: Zpráva o příznacích z nepoužívání mobilního internetu
 ---
 
 Jste asi napnuti, jak se odvíjí můj pokus nepoužívat chytrofouny ani mobilní internet. Co si budeme namlouvat, abstinenční příznaky jsou tady. Tak především, nově nejsem kdekoliv online. Několik lidí z toho usoudilo, že email přestal fungovat, protože jsem jim neodpověděl během tří minut od jeho odeslání. Marty se přiznal, že kdyby nečetl předchozí blogpost, šel by rozmontovat router a pak seřvat svého ISP. To jsou ty jednodušší okamžiky nepoužívání mobilního internetu. 

@@ -13,7 +13,7 @@ summary_points:
 - G označuje nové technické řešení, zatímco 5G je teoretická konvergence sítí.
 - G datové rychlosti jsou nízké, proto se uvažuje o nové generaci mobilních sítí.
 - Konvergence digitálních standardů je dlouhodobý proces.
-title: "Mobilní sítě 4G – co umí a jak to dokáží?"
+title: Mobilní sítě 4G – co umí a jak to dokáží?
 ---
 
 Sítě 3G ještě ani zdaleka pořádně nefungují v praxi, ani zdaleka není jisté, zda na nich jejich provozovatelé někdy vydělají, ale vývoj se nezastavuje. Již drahnou dobu se hovoří o sítích 4G ba dokonce i o sítích 5G. 

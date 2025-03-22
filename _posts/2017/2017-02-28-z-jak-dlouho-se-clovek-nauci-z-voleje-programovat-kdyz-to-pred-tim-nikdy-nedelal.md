@@ -10,8 +10,7 @@ summary_points:
 - Naučit se programovat od nuly vyžaduje čas a zvládnutí moderních frameworků.
 - Zkušený programátor hodnotí, že základy Pythonu lze zvládnout za pár dní.
 - Orientace v algoritmizaci a moderních jazycích je klíčová pro praktické využití.
-title: "Za jak dlouho se člověk naučí z voleje programovat, když to před tím nikdy"
-  nedělal?
+title: Za jak dlouho se člověk naučí z voleje programovat, když to před tím nikdy nedělal?
 ---
 
 <p>Dneska se tolik nakecá o tom, že lidi, kteří dělají práci, za kterou se neplatí dost, mají přesedlat. Jenže je to taková legrace? Dokonce v Česku přeškolují horníky na programátory. Tohle je něco, čím si sám jen tak ze zájmu lámu hlavu - zvládl bych to? Začít zase programovat? Fakt je možné se naučit programovat z voleje za nějakou rozumnou dobu, když jste to nikdy nedělali, abyste byli schopni třeba spáchat takový normální web (když někdo jiný dodá HTML kód, jak je dneska zvykem)? <a href="http://finance.idnes.cz/hornici-z-okd-se-preskoluji-na-it-specialisty-fa4-/viteze.aspx?c=A161207_113619_viteze_mrs">Tady to "Minaříkovic úderka" zkouší</a> na hornících, ale netřeba chodit tak daleko, jen mi připomněli, že by mě zajímal kvalifikovaný názor. Kupříkladu jak bych na tom byl já sám.</p>

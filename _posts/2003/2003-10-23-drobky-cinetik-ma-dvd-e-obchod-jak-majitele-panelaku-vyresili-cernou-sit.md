@@ -13,7 +13,7 @@ summary_points:
 - Cinetik testuje internetový obchod s DVD, například Matrix Reloaded.
 - Catman.us popisuje případ neoprávněné instalace síťového připojení na domě.
 - Slovenský diskutující odsuzoval majitele domu za odříznutí sítě.
-title: 'Drobky: Cinetik má DVD e-obchod, jak majitelé paneláku vyřešili černou síť'
+title: Drobky -  Cinetik má DVD e-obchod, jak majitelé paneláku vyřešili černou síť
 ---
 
 <p>

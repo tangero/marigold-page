@@ -13,7 +13,7 @@ summary_points:
 - Datový limit ADSL (10-20 GB) nutí zákazníky dokupovat další data za 400 Kč/10GB.
 - Český Telecom nabízí marketingově vyšší rychlost ADSL, reálně nedosažitelnou.
 - ADSL od ČTc ztrácí na zajímavosti kvůli výše zmíněným omezením a podmínkám.
-title: "Český Telecom udělal z ADSL komedii"
+title: Český Telecom udělal z ADSL komedii
 ---
 
 <p>

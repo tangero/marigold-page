@@ -13,7 +13,7 @@ summary_points:
   jako WiFi. Zpoplatnění iniciovalo vedení O2 kvůli finančním tlakům. Pavel Dvořák
   možná ovlivnil změnu dokumentu ve prospěch O2. Zpoplatnění by zvýšilo ceny internetu
   a omezilo jeho dostupnost.
-title: "Co je za zpoplatněním WiFi frekvencí v Česku"
+title: Co je za zpoplatněním WiFi frekvencí v Česku
 ---
 
 <p>V MF Dnes<a href="http://www.mfdnes.cz/nahled.aspx?d=16.1.2015&amp;n=MFD&amp;e=PRAHA&amp;id=2787889"> vyšel článek můj a Pavla Novotného o tom, že české Ministerstvo obchodu a průmyslu chce zpoplatnit používání dosud nelicencovaných frekvencí</a>, jako jsou ty pro WiFi nebo pásmo 10 GHz. Byli bychom první stát na světě, který tyto frekvence zpoplatní. Doporučuju dnešní MF Dnes koupit, je to hodně důležitá věc, která nám zadělá na problémy mnoho let dopředu. Nejenom, že internet skokově zdraží o stokoruny, ale hlavně přestane být v některých regionech, kam nesahají velcí operátoři, dostupný.</p>

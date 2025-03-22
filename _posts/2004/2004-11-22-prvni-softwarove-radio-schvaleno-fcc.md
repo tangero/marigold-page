@@ -13,7 +13,7 @@ summary_points:
 - Vanu stanice pracuje v pásmu 20 MHz - 3 GHz a podporuje více technologií.
 - Vanu technologie se hodí pro vojenské účely a budoucí upgrade sítí operátorů.
 - Stanice Vanu podporuje AMPS, TDMA, GSM, CDMA, Project25, Mobitex, FRS a FM.
-title: "První softwarové rádio schváleno FCC"
+title: První softwarové rádio schváleno FCC
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/1/20041122-vanu-tower.jpg" alt="základnová stanice Vanu" width="205" height="230" /></div>

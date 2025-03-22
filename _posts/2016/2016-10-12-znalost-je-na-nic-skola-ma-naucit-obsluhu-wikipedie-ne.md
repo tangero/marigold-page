@@ -13,9 +13,7 @@ summary_points:
 - Test psychologického profilu hodnotí schopnost odhadu, ne přesné znalosti.
 - Znalost je nezbytná pro tvoření, nelze ji nahradit vyhledáváním.
 - Školy by měly učit znalosti, hledání se snáze staví na již známém.
-title: "'Znalost je na nic, škola má naučit obsluhu Wikipedie? Ne!"
-
-  '
+title: Znalost je na nic, škola má naučit obsluhu Wikipedie? Ne!
 ---
 
 Jak dlouhý je Karlův most? Tuhle otázku jsem před mnoha lety měl v jednom testu. Nechápal jsem, proč v testu psychologického profilu je tahle otázka, ale poctivě jsem ji zodpověděl podle svého nejlepšího vědomí a svědomí. Když se test s psychologem vyhodnocoval, zeptal jsem se ho zvědavě, jak se k testování vztahuje znalost délky Karlova mostu. Psycholog mi vysvětlil, že jde o posouzení schopnosti vyhodnotit situaci, se kterou je člověk zběžně obeznámen. Že součástí testu není odpovědět přesně, ale tím, že se zhruba trefíte prokázat, že máte smysl pro proporce a odhad. Pak se podíval na moji odpověď a tím se to trochu pokazilo, protože to byla tříodstavcová analýza rozebírající různé možnosti v průběhu doby, ale to už s příběhem nesouvisí. 

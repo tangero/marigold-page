@@ -13,7 +13,7 @@ summary_points:
 - Nokia těží z mnohaletého budování značky, Samsung se jí snaží následovat.
 - WiFi bylo akceptováno, nikdo nerozporoval jeho prvenství v pásmu 2,4GHz.
 - CeBIT nepřinesl letos žádné velké překvapení ani markantní trendy.
-title: "CeBIT je pro mne téměř u konce"
+title: CeBIT je pro mne téměř u konce
 ---
 
 <p>

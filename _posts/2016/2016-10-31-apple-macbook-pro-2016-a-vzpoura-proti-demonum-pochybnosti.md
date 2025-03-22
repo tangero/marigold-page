@@ -13,7 +13,7 @@ summary_points:
 - Touch Bar nabízí programovatelný OLED displej a Touch ID.
 - USB-C nahradilo většinu portů, vyžaduje redukce pro starší zařízení.
 - Ceny začínají na 1500 dolarech, Air model čeká na upgrade.
-title: "Apple MacBook Pro 2016 a vzpoura proti démonům pochybností"
+title: Apple MacBook Pro 2016 a vzpoura proti démonům pochybností
 ---
 
 Apple během druhé podzimní technologické show představoval své novinky, tentokráte ze světa hardware. Na akci svolával sloganem Hello again, přičemž právě slovo Hello naznačovalo, že si od představení firma slibuje zlom. Poprvé takto Apple lákalo technomaniaky v roce 1984, když představovalo platformu Macintosh 128K, podruhé o třináct let později pro platformu iMac a návrat Steva Jobse do Apple. I proto byla očekávání veliká. <!--more-->

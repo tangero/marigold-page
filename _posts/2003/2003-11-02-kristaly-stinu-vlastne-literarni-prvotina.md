@@ -13,7 +13,7 @@ summary_points:
 - Křišťály stínů měly být eposem podobným Zaklínači, včetně autorského manuálu a slovníku.
 - Autor knihu nedokončil kvůli jazykovým chybám a plánuje ji dopsat za 30-40 let.
 - Úvod Křišťálů stínů a další povídky budou zveřejněny na autorově webu Marigold.
-title: "Křišťály stínů – vlastně literární prvotina"
+title: Křišťály stínů – vlastně literární prvotina
 ---
 
 <p>

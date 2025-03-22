@@ -11,7 +11,7 @@ summary_points:
 - Andrew Leigh přibližuje ekonomické síly formující svět.
 - Yuval Noah Harari popisuje dějiny informačních sítí od pravěku.
 thumbnail: https://target.scene7.com/is/image/Target/GUEST_e2452797-6b29-4e5f-a032-5294b9a6c9f1
-title: "Knihy k těšení na podzim 2024"
+title: Knihy k těšení na podzim 2024
 ---
 
 Je pár knížek, které jejich autoři oznámili a na které se těším - a které mají vyjít na podzim letošního roku. Třeba zaujmou i vás. 

@@ -13,8 +13,7 @@ summary_points:
 - MobileOne v Singapuru omezuje investice do WiFi a zaměřuje se na 3G.
 - WiFi obchodní model v Singapuru zklamal kvůli nízké poptávce po datech.
 - Autor článku odchází na poradu Cinetiku.
-title: "'Mnichovské letiště vám dá vybrat, čí WiFi síť chcete použít. Singapur: WiFi"
-  bublina praská?'
+title: Mnichovské letiště vám dá vybrat, čí WiFi síť chcete použít. Singapur -  WiFi bublina praská?
 ---
 
 <p>

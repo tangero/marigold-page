@@ -13,7 +13,7 @@ summary_points:
 - Nástroj Google Trends umožňuje zjistit, kde lidé hledají práci nebo politické preference.
 - Srovnání poptávky po internetu (WiFi, ADSL, kabel) lze sledovat globálně i regionálně.
 - Databáze bezdrátových sítí Internet Pro Všechny byla inovována a nabízí vyhledávání.
-title: "Česká republika je WiFi velmoc"
+title: Česká republika je WiFi velmoc
 ---
 
 <p><strong>Noname píše:</strong> věta z nadpisu zní jako obehraná písnička, mnozí by namítali, že je to blbost, že to je jenom náš pohled "z vnitřku koule". Jenže teď pro to mám hezký důkaz. A to díky novému nástroji od Google - Google Trends. Ten srovnává počet hledání v čase a jako perličku ukazuje i regiony, kde se dané fráze vyhledávají nejčastěji, respektive kde tvoří největší podíl mezi vyhledávanými frázemi.  Schválně si dejte <a href="http://google.com/trends?q=wifi,+wi-fi&amp;ate=all&amp;all&amp;ab=1&amp;a=N" >hledat wifi resp. wi-fi</a>.</p>

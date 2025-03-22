@@ -14,9 +14,7 @@ summary_points:
 - Videotelefonie na 3G trpí zpožděním obrazu, což je znervózňující.
 - G hovory mají podobný problém, ale na malých displejích je méně patrný.
 - Videotelefonie má problémy s cenou, synchronizací, stabilizací a praktičností.
-title: "'Budete videotelefonovat, jako byste používali nesynchronní dabing?"
-
-  '
+title: Budete videotelefonovat, jako byste používali nesynchronní dabing?
 ---
 
 <p>S nesynchronním dabingem jsem vždy měl problémy. Buďto jsem si rád dal titulky a původní verzi, takže jsem si mohl vychutnat původní znění a opřít svoji angličtinu a hluchost o psaný text, nebo mám rád pořádně udělanou češtinu / němčinu do filmu. Takové ty polské rychlodabingy, kdy celý film nadrčí unuděným hlasem jeden člověk a pod ním je potichu slyšet původní stopa, mi nikdy moc nešly k duhu. Těžko zapomínat na dabing filmu Zmrtvýchvstání Ježíše Krista, kde Ježíš křičí bolestí na kříži a k tomu znuděný hlas čte <em>"Au. Au. To bolí. Au."</em></p>

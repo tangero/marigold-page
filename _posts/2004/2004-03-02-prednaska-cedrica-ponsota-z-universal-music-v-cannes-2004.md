@@ -14,7 +14,7 @@ summary_points:
   služba.
 - Obsah pro mobily musí být originální, ne jen kopie jiných distribučních kanálů.
 - Vyzváněcí melodie generovaly 4 miliardy USD, hudební průmysl dostal jen 10%.
-title: "Přednáška Cédrica Ponsota z Universal Music v Cannes 2004"
+title: Přednáška Cédrica Ponsota z Universal Music v Cannes 2004
 ---
 
 <p>

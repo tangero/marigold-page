@@ -13,7 +13,7 @@ summary_points:
 - Kniha je dva roky stará, což je znát na zastaralé technice.
 - Kniha se zaměřuje na americké reálie a opomíjí české specifika.
 - Autor recenze doporučuje knihu spíše začátečníkům bez technických znalostí.
-title: 'Kniha Shelly Brisbin: Wi-fi (taková mikrorecenze)'
+title: Kniha Shelly Brisbin -  Wi-fi (taková mikrorecenze)
 ---
 
 <p>

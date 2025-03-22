@@ -13,7 +13,7 @@ summary_points:
 - Patrick Zandl zahájí přednáškou o bezdrátovém přenosu dat.
 - Jonathan Belwood a Jakub Ditrich promluví o Wi-Fi aplikacích a zkušenostech.
 - Roman Naspierala představí Wi-Fi pro Varšavskou univerzitní knihovnu.
-title: 'Wi-Fi Reality Show: Bezdrátový přenos dat'
+title: Wi-Fi Reality Show -  Bezdrátový přenos dat
 ---
 
 <p>

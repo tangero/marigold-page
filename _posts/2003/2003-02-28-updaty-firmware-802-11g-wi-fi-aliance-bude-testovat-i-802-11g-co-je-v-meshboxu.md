@@ -13,8 +13,7 @@ summary_points:
 - Wi-Fi aliance zahájí testy interoperability 802.11g zařízení v červnu.
 - MeshBox je první komerční produkt pro sítě typu mesh.
 - Recenze MeshBoxu je dostupná na 802.11 Planet.
-title: "Updaty firmware 802.11g, Wi-Fi aliance bude testovat i 802.11g. Co je"
-  v&nbsp;Meshboxu?
+title: Updaty firmware 802.11g, Wi-Fi aliance bude testovat i 802.11g. Co je v Meshboxu?
 ---
 
 <p>

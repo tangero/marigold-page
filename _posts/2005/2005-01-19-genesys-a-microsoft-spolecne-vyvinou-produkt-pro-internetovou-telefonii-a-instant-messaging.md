@@ -15,8 +15,7 @@ summary_points:
 - Řešení zjednoduší komunikaci zjišťováním dostupnosti kontaktů přes telefon nebo
   internet.
 - Autor textu srovnává vyvíjené řešení se stávající aplikací Skype.
-title: "Genesys a Microsoft společně vyvinou produkt pro internetovou telefonii"
-  a&nbsp;instant messaging
+title: Genesys a Microsoft společně vyvinou produkt pro internetovou telefonii a instant messaging
 ---
 
 <p>Dostal jsem tiskovou zprávu: </p>

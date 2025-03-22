@@ -13,8 +13,7 @@ summary_points:
 - Programátor pro Symbian je hledán, kontakt získáte emailem na job zavinac marigold.cz.
 - Designer pro open source projekt Nalanda.cz hledán pro CSS design.
 - Kontakt pro Nalanda.cz je marigold-zavináč-marigold.cz.
-title: "Hledají se programátoři v Java a Symbian (pro firmy) a designer"
-  pro Nalandu
+title: Hledají se programátoři v Java a Symbian (pro firmy) a designer pro Nalandu
 ---
 
 <p>

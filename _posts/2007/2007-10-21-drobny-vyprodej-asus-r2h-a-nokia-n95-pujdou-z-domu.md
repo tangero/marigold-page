@@ -12,7 +12,7 @@ summary_points:
 - Asus R2H a Nokia N95 jdou z domu, nahradily je MacBook a iPhone.
 - Aukro dražba obou zařízení začala na jedné koruně.
 - Dražba končí příští neděli, autor je zvědav na výslednou cenu.
-title: "Drobný výprodej: Asus R2H a Nokia N95 půjdou z domu"
+title: Drobný výprodej -  Asus R2H a Nokia N95 půjdou z domu
 ---
 
 Tak jsem prošel skříně, zaevidoval nepoužívané a dvě věci musí z domu: Asus R2H a Nokia N95. Obojí nahradil tandem MacBook a iPhone.

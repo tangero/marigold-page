@@ -13,7 +13,7 @@ summary_points:
 - Autor si stěžuje na otravné spamování od zmíněných firem.
 - Spam neobsahuje možnost odhlášení z odběru.
 - Autor se již dříve ze spamlistů odhlásil.
-title: "Vánoce se blíží"
+title: Vánoce se blíží
 ---
 
 <p><b>ook píše: </b>Že se blíží

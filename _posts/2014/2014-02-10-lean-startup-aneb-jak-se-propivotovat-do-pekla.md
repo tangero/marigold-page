@@ -13,9 +13,7 @@ summary_points:
 - Lean startup opomíjí fázi výzkumu a vývoje produktu, což je zásadní nedostatek.
 - Úspěch vyžaduje silnou vizi, znalost trhu, a sociální dovednosti, ne jen testování.
 - Lean startup může vést k neustálému pivotování bez jasného směru a vize.
-title: "'Lean Startup aneb jak se propivotovat do pekla"
-
-  '
+title: Lean Startup aneb jak se propivotovat do pekla
 ---
 
 <p>Musím říct, že kniha <a href="http://www.amazon.com/gp/product/B004J4XGN6/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004J4XGN6&linkCode=as2&tag=marigoldcz-20">Lean Startup Erika Riese</a> mě nechávala dlouho chladným, z části i proto, že jsem si říkal, že jí zřejmě i kvůli kulturním rozdílům zle chápu. Jenže jak se tak v poslední době toulám po investorech a startupech, tu a tam narazím na otázku, zda jedeme podle lean principu. Přiznávám, že jsem dlouho z kontextu odvozoval, že anglické "lean" znamená líný, takže jsem po pravdě odpovídal, že ne. Náš startup zřejmě není dost dobrý startup, protože nápadně připomíná ostrou práci. Nu, ale přeci jen jsem si říkal, že když má<strong> lean startup </strong>tolik obdivovatelů, je dobré se k tomu vrátit a zjistit, zda jsme neminuli poklad.</p>

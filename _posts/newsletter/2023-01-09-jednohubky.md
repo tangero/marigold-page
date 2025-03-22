@@ -16,7 +16,7 @@ summary_points:
 - Meta čelí tlaku EU, což signalizuje konec cílené reklamy.
 - Kniha Mýty a naděje digitálního světa získala pozitivní recenzi.
 - Schwarzenegger nabízí denní newsletter o zdravém životním stylu.
-title: "Jednohubky"
+title: Jednohubky
 ---
 
 * Eva Pavlíková - [Otužování je můj největší objev v roce 2022](https://evapavlikova.substack.com/p/otuzovani-je-muj-nejvetsi-objev-v).

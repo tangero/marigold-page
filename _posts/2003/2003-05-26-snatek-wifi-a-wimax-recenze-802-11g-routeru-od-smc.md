@@ -12,7 +12,7 @@ summary_points:
 - Deans vidí potenciál propojení WiFi a WiMAX pro konkurenci ISP bez licencí.
 - SMC router 802.11g je recenzován na HardwareZone a stojí 180 USD.
 - David Deans analyzuje soužití WiFi a WiMAX a jeho vliv na trh.
-title: "Sňatek WiFi a WiMAX? Recenze 802.11g routeru od SMC"
+title: Sňatek WiFi a WiMAX? Recenze 802.11g routeru od SMC
 ---
 
 <p>

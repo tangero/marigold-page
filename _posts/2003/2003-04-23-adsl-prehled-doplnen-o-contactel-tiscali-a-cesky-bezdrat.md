@@ -13,7 +13,7 @@ summary_points:
 - Český Bezdrát nabízí levnější ADSL připojení, stojí za zvážení.
 - Autor žádá o kontrolu cen ADSL a nahlášení případných chyb.
 - Na webu je dostupný přehled cen ADSL připojení.
-title: "ADSL přehled doplněn o Contactel, Tiscali a Český Bezdrát"
+title: ADSL přehled doplněn o Contactel, Tiscali a Český Bezdrát
 ---
 
 Dvě další společnosti jsem doplnil do <STRONG>přehledu cen ADSL připojení a to Contactel, Tiscali&#160;a Český Bezdrát</STRONG>. Českému Bezdrátu doporučím věnovat chvíli pozornosti, je přeci jen levnější. Ověřoval jsem to, nepřepočítal jsem se a nepřehlédl, snad je to tak ok - kdybyste zjistili chyby, dejte vědět. <A href="/adsl">Přehled ADSL cen zde...&gt;&gt;</A>

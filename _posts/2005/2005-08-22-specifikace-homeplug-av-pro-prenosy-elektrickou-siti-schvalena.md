@@ -13,9 +13,7 @@ summary_points:
 - Původní HomePlug 1.0 dosahoval rychlosti pouze 14 Mb/s.
 - Pre-HomePlug AV produkty jsou již dostupné, hlavně v USA.
 - Standardizované HomePlug AV produkty budou dostupné počátkem roku 2006.
-title: "'Specifikace HomePlug AV pro přenosy elektrickou sítí schválena"
-
-  '
+title: Specifikace HomePlug AV pro přenosy elektrickou sítí schválena
 ---
 
 <p>HomePlug Powerline Alliance schválila nový standard pro přenosy dat skrze elektrickou síť (nebo obecně skrze nestíněný kabel, po němž se jako základní přenáší jiný signál). Specifikace se jmenuje HomePlug AV a měla by umožnit sdílenou rychlost až 200 Mb/s. Původní protokol HomePlug 1.0 nabízel rychlosti do 14 Mb/s, je to tedy citelné zvýšení rychlosti. </p>

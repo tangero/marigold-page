@@ -13,9 +13,7 @@ summary_points:
 - Drupal původně preferovaný, nyní Xaraya favorit kvůli funkcím a podpoře.
 - Požadavky zahrnují snadné zadávání článků, rozvinuté diskuse a šablonování.
 - Plone a Mambo jsou další kandidáti, ale mají nevýhody pro daný účel.
-title: "'Redakční systém – výběr pokračuje"
-
-  '
+title: Redakční systém – výběr pokračuje
 ---
 
 <p>Dostal jsem řadu emailů na téma výběru redakčního systému, řadu materiálů jsem vygoogloval a protože více hlav více ví a kromě toho to více hlav zajímá, dávám k dobru (či zlu) své dojmy z výběru redakčního systému. </p>

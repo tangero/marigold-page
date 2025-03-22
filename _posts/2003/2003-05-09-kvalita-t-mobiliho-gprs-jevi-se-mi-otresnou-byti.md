@@ -13,7 +13,7 @@ summary_points:
 - T-Mobile GPRS Business s neomezenými daty má otřesnou rychlost a vypadává.
 - Autor se vrací k Oskaru, jehož data jsou dražší, ale alespoň fungují.
 - Další příspěvky lze očekávat až po návratu do Prahy a připojení k WiFi.
-title: "Kvalita T-Mobilího GPRS jeví se mi otřesnou býti…"
+title: Kvalita T-Mobilího GPRS jeví se mi otřesnou býti…
 ---
 
 Rozhodl jsem se svátky strávit u rodičů v Pardubicích &#8211; a abych mohl popojet v práci na knize, aktivoval jsem si GPRS Business u T-Mobile v naději, že budu moci používat svoji soukromou &#8222;týmobajlí&#8220; kartu i na data místo Oskara, protože Business GPRS tarif nabízí nyní neomezené přenosy. Bláhově jsem se domníval, že GPRS funguje jako u Eurotelu nebo jako u Oskara, tedy zejména že funguje. 

@@ -15,7 +15,7 @@ summary_points:
 - Umělý mramor v baroku byl luxusní náhražka, nabízející nové barvy a tvarovatelnost.
 - Instantní káva a umělé korkové zátky marketingem získaly status luxusní náhražky.
 - Budoucí generace mohou lamino považovat za kvalitní materiál, nikoliv náhražku.
-title: "Historie Nutella a náhražky náhražek"
+title: Historie Nutella a náhražky náhražek
 ---
 
 Miluju historii náhražek. Když tu byl před dvěma týdny otec a snídali jsme Nutellu, kterou jsem na jeho počest koupil a já četl nějaký její reklamní slogan, připomněl mi, že Nutella je vlastně náhražka. Proslavila se po válce, kdy ceny čokolády byly tak vysoké, že se vyplatilo nahradit čokoládové máslo máslem oříškovým a vytvořit pomazánku převážně z oříšků. Ořechy tak nahradily kakaové boby, ovšemže jen z větší části, jinak by to nebylo hnědé. Takže chuť ořechů byla dlouho chutí lacinou, jenže v poválečných letech se nedalo si moc vybírat. A tak si generace zvykly. Dneska je Nutella klasika na pokraji luxusu, náhražkou jsou nejrůznější krémy, kde ořechové máslo nahrazují ztužené řepkové či jaké tuky, takže sklenička stojí polovinu toho, co opravdová Nutella. Ta klasická, luxusní. 

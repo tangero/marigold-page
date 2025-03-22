@@ -13,9 +13,7 @@ summary_points:
 - Kniha vyšla elektronicky díky příspěvkům na Startovači a v limitované papírové edici.
 - Autogramiáda se koná 17.5.2014 na Světě knihy v Praze bez velkých ceremonií.
 - Kniha není mainstreamová a vyžaduje přemýšlení, což může odradit některé čtenáře.
-title: "'Evropská unie přidala mou knihu na index zakázaných, autogramiáda přesto bude"
-
-  '
+title: Evropská unie přidala mou knihu na index zakázaných, autogramiáda přesto bude
 ---
 
 <p>Moje nová kniha Příběh strýčka Martina ještě ani není v prodeji a už se ocitla na indexu zakázaných knih, který vydává Evropská komise. Pro Evropskou unii je kniha, která svět popisuje jinak, než evropské normy, nepotřebná a nepotřebné knihy jsou škodlivé, rozhodla evropská komisařka pro kulturu Androulla Vassiliou. Tfuj :( </p>

@@ -13,7 +13,7 @@ summary_points:
 - Registrace na Broadband Monday je zdarma s kódem Marigold, jinak stojí 500 Kč.
 - Panelové diskuse se účastní Žilka, Semrád, Mastník a Šrámek.
 - Program zahrnuje přednášky o poptávce a rozvoji broadbandu do roku 2008.
-title: "Pozvánka na Širkopásmové pondělí 22. května"
+title: Pozvánka na Širkopásmové pondělí 22. května
 ---
 
 <p>Tuesday Business Network pořádá Broadband Monday, širokopásmové pondělky, na nichž se hovoří o broadbandu a co a jak s ním. Další takový pondělek je 22. květen a <a href="http://www.tuesday.cz/detailAkce.aspx?id=270">registrovat se na něj můžete zde</a>. Pokud do políčka kódu pro vstup zdarma uvedete Marigold, nemusíte platit poplatek 500 Kč za účast na akci. </p>

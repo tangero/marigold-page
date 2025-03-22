@@ -13,7 +13,7 @@ summary_points:
 - Autor bude muset použít větší anténu, což ztíží malý vikýř.
 - Autor v hnědých montérkách lovil signál na střeše v centru Prahy.
 - Měření signálu probíhalo v listopadu za deštivého počasí.
-title: "Story o sousedských sítích (12.)"
+title: Story o sousedských sítích (12.)
 ---
 
 <p>

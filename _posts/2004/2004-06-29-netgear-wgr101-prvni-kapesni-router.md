@@ -13,7 +13,7 @@ summary_points:
 - Router WGR101 nabízí WPA, NAT, SPI firewall a IPSec zabezpečení.
 - WGR101 postrádá ethernet porty a stojí přibližně 75 USD.
 - Asus nabízí kapesní přístupové body, ne routery.
-title: "NetGear WGR101 – první kapesní router"
+title: NetGear WGR101 – první kapesní router
 ---
 
 <p>

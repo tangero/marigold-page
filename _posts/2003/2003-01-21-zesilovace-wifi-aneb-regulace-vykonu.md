@@ -13,7 +13,7 @@ summary_points:
 - USA definuje WiFi výkon na konektoru zařízení, ne na anténě.
 - Kontrola výkonu na konektoru zařízení je lepší pro regulaci a menší zarušení.
 - ČTÚ začalo namátkově prověřovat výstupní WiFi výkony.
-title: "Zesilovače WiFi aneb regulace výkonu"
+title: Zesilovače WiFi aneb regulace výkonu
 ---
 
 <p>

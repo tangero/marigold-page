@@ -13,7 +13,7 @@ summary_points:
 - Siemens je v Evropě číslo 2, v Rusku a Brazílii číslo 1 v GSM.
 - G sítě mají dvojnásobnou rychlost nástupu zákazníků oproti GSM sítím.
 - Siemens se bude soustředit na klasický tvar telefonů, véčka výjimečně.
-title: "Siemens tisková konference"
+title: Siemens tisková konference
 ---
 
 Tiskovou konferenci Motoroly jsem z poloviny zasabotoval a prchnul z ní, protože se tam nedalo sednout, byl tam vydýchaný zvuk a nebylo nic vidět, jen při maximální snaze slyšet. Díky tomu jsem v předstihu dorazil na Siemens tiskovku a zaujal strategické místo, protože situace s narváním se zde opakovala. A protože jsem měl možnost si v tomto případě si něco zapisovat, podívejme se na pár zajímavých momentů ze Siemens presentace. 

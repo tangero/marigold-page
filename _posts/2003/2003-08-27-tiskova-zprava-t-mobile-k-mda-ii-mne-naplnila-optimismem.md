@@ -13,7 +13,7 @@ summary_points:
 - Třípásmové PDA a VGA fotoaparát jsou příklady nesmyslných marketingových formulací.
 - PocketPC dle autora nezrychluje práci s poštou pro běžné POP3 účty.
 - Microsoft MDA II bude k vidění na Invexu, což je jediná relevantní informace.
-title: "Tisková zpráva T-Mobile k MDA II mne naplnila optimismem…"
+title: Tisková zpráva T-Mobile k MDA II mne naplnila optimismem…
 ---
 
 <p>

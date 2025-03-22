@@ -13,7 +13,7 @@ summary_points:
 - Hudební sekce Stream.cz nabízí 24 žánrových hudebních streamů ve Flash.
 - Upload videa na Stream.cz má nové kategorie a stovky uživatelských videí.
 - Stream.cz spustil reklamní kampaň v pražském metru na lince B.
-title: "Televize Stream.cz má ostrou verzi"
+title: Televize Stream.cz má ostrou verzi
 ---
 
 Včera, po dvou úmorných měsících, odstartovala ostrá (gama :) ) verze <a href="http://www.stream.cz">Stream.cz</a>. Internetová televize tak došla své finálnější podoby v řadě funkcí, které jsme tu chtěli nasadit. 

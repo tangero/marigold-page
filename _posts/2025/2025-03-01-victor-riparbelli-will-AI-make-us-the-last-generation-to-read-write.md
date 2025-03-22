@@ -16,8 +16,7 @@ summary_points:
 - AI umožní rychlou a levnou tvorbu personalizovaného videoobsahu, měnící vzdělávání
   a zábavu.
 thumbnail: https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_146165/a7a304bc-55fe-416d-8685-f34c0603c05d/VictorRiparbelli_2024S-embed.jpg?u%5Br%5D=2&u%5Bs%5D=0.5&u%5Ba%5D=0.8&u%5Bt%5D=0.03&quality=80&w=750
-title: "Victor Riparbelli - Stane se z nás poslední generace, která bude umět číst"
-  a psát? (přepis přednášky)
+title: Victor Riparbelli - Stane se z nás poslední generace, která bude umět číst a psát? (přepis přednášky)
 ---
 
 Přepis přednášky podnikatele Victora Riparbelliho s názvem [„Will AI Make Us the Last Generation to Read and Write?“](https://www.ted.com/talks/victor_riparbelli_will_ai_make_us_the_last_generation_to_read_and_write) na konferenci TED Talk 19. října 2024. 

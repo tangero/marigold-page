@@ -12,9 +12,7 @@ summary_points:
 - T-Zones SMS brána postrádá adresář kontaktů, což ztěžuje odesílání zpráv.
 - MSIE částečně usnadňuje zadávání čísel automatickým doplňováním.
 - Autor hledá SMS bránu s vlastním telefonním číslem odesílatele a adresářem.
-title: "'Proč T-zones nemají seznam příjemců SMS?"
-
-  '
+title: Proč T-zones nemají seznam příjemců SMS?
 ---
 
 <p>

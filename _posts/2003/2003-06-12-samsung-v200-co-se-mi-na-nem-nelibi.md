@@ -13,7 +13,7 @@ summary_points:
 - T9 u Samsungu V200 neumožňuje přidávat nová slova do slovníku.
 - WAP prohlížeč V200 má slabě propracované přidávání stránek do záložek.
 - MMS zpráva u V200 umožňuje vložit pouze jeden obrázek a má slabý editor.
-title: "Samsung V200 – co se mi na něm nelíbí"
+title: Samsung V200 – co se mi na něm nelíbí
 ---
 
 <p>

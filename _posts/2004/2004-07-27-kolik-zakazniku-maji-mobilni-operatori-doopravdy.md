@@ -13,9 +13,7 @@ summary_points:
 - Metody počítání aktivních SIM karet se liší a operátoři je tají.
 - Eurotel mohl mít v květnu reálně jen 3,5 milionu aktivních SIM karet.
 - Informace o počtech zákazníků operátorů nelze ověřit z veřejných zdrojů.
-title: "'Kolik zákazníků mají mobilní operátoři DOOPRAVDY?"
-
-  '
+title: Kolik zákazníků mají mobilní operátoři DOOPRAVDY?
 ---
 
 <p>

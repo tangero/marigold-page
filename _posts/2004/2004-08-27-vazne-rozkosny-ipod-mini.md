@@ -13,7 +13,7 @@ summary_points:
 - iPod mini vyniká intuitivním ovládáním pomocí Click Wheel a iTunes aplikací.
 - iTunes automaticky organizuje hudbu podle alba, interpreta, žánru a hodnocení.
 - Autor oželel chybějící funkce iPoda, oceňuje jeho eleganci a jednoduchost používání.
-title: "Vážně rozkošný iPod mini"
+title: Vážně rozkošný iPod mini
 ---
 
 <p>

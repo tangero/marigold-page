@@ -13,7 +13,7 @@ summary_points:
 - Elity nabízí nejširší výběr WiFi techniky, ale ceny jsou různorodé.
 - WiFiShop VancoNetu má zboží ihned k odběru, ale sortiment je omezený.
 - inWiFi nabízí nejlevnější Compexy a D-Link, ale sortiment je omezený.
-title: "Internetové obchody s WiFi technikou"
+title: Internetové obchody s WiFi technikou
 ---
 
 Kde je nejlepší nakupovat WiFi techniku na internetu? Jaké jsou kde ceny a sortiment? Tento článek mapuje situaci na českém trhu v listopadu 2003.<!--more--><p>

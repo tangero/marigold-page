@@ -10,7 +10,7 @@ summary_points:
 - Papírový diář umožňuje efektivní plánování a přehled o úkolech.
 - Zápisník slouží k rozkladu úkolů na menší, zvládnutelné části.
 - Vizuální paměť pomáhá při orientaci v dlouhodobých projektech.
-title: "Jak si uspořádat den, práci, život a kalendář?"
+title: Jak si uspořádat den, práci, život a kalendář?
 ---
 
 <p>Tohle bývá časté téma okultní manažerské literatury. Pracuj jako Jobs, mysli jako Edison, buď kreativní jako Musk, vynalézavý jako Tesla a inspirativní jako Micheal Angello. Dovolte mi osobní přesvědčení: pro to, abyste dokázali veliké věci, nepotřebujete být pronikavě geniální, ale musíte mít sebeorganizaci, tedy to, co se označuje jako “tah na branku”. Ve skutečnosti je to ale schopnost vzpomenout si na jednoduché úkoly, které musíte udělat a ty pak udělat ve správném pořadí. A i když nechcete být miliardářem a změnit svět, tahle schopnost se hodí. Takže se u ní na chvíli zastavím, protože mě zajímá, jak to dělají jiní.</p>

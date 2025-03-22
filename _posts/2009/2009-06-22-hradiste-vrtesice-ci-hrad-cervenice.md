@@ -18,7 +18,7 @@ summary_points:
 - Zničení lokality Vrtěšice způsobil lom, který odtěžil zhruba čtvrtinu rozlohy hradu.
 - Autor pochybuje o hradišti, spíše jde o malý hrad zřejmě související s ochranou
   stezky.
-title: "Hradiště Vrtěšice či hrad Červenice"
+title: Hradiště Vrtěšice či hrad Červenice
 ---
 
 Jsa hlava sklerotická, rozhodl jsem si udělat poznámky. Hradiště Vrtěšice mne zaujalo především svojí polohou, kterou by bylo zajímavě posazeno v pozici rozhraní čáslavska a havlíčkobrodska, dost možná v návaznosti na pozdější Libickou stezku. Datovat tuto pozici jako raně středověké hradiště by bylo zajímavé už z toho důvodu, že v okolí je příznaků raně středověkého osídlení pramálo a posouvalo by to naše úvahy o kolonizaci havlíčkobrodska a dále směrem na severní Moravu. Podle dosavadních předpokladů tu byl v desátém století spíše neprostupný hvozd. 

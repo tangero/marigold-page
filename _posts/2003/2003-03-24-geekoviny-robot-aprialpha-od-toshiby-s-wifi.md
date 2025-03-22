@@ -14,7 +14,7 @@ summary_points:
 - ApriAlpha komunikuje, rozpoznává hlas (japonsky), má infraport, bluetooth, WiFi
   a kameru.
 - Robot ApriAlpha hlídá dům, posílá fotky, ale zloděj by ho spíš ukradl kvůli ceně.
-title: "Geekoviny: robot ApriAlpha od Toshiby s WiFi"
+title: Geekoviny -  robot ApriAlpha od Toshiby s WiFi
 ---
 
 <p>

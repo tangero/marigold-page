@@ -15,7 +15,7 @@ summary_points:
 - Počáteční tým musí být připraven na rychlý růst a škálování.
 - Vývoj hardware vyžaduje specifické zkušenosti a znalosti.
 thumbnail: https://miro.medium.com/v2/resize:fit:1200/1*RysvyfiJbAzyqb362Rt2rA.png
-title: 'Na téma pádu Goldee: hardware startup je zatraceně těžký'
+title: Na téma pádu Goldee -  hardware startup je zatraceně těžký
 ---
 
 <p>Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.</p>

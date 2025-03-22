@@ -18,7 +18,7 @@ summary_points:
 - ChatGPT má limity ve faktických znalostech, etice a skutečném porozumění.
 - Google by se mohl bát, ChatGPT by mohlo změnit vyhledávání na internetu.
 - Starlink rozšiřuje služby o vojenské aplikace Starshield pro vládní použití.
-title: "Umělá inteligence, co vás překecá. ChatGPT"
+title: Umělá inteligence, co vás překecá. ChatGPT
 ---
 
 Událostí posledních dvou týdnů je bezpochyby zveřejnění umělointeligenčního chatovacího modelu [ChatGPT](https://chat.openai.com/). Službu představila společnot OpenAI a je to chatovací služba založená na jazykovém modelu GPT-3. 

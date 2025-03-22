@@ -13,9 +13,7 @@ summary_points:
 - Statistické výkazy ČTÚ schvaluje Český statistický úřad a jsou součástí zákona.
 - Povinnost výkazů vychází ze zákona o telekomunikacích a státní statistické službě.
 - Data slouží ČSÚ, ČTÚ, mezinárodním organizacím a pro výpočty podílů na trhu.
-title: "'ČTÚ odpovídá na moje brblání nad megadotazníkem"
-
-  '
+title: ČTÚ odpovídá na moje brblání nad megadotazníkem
 ---
 
 <p>

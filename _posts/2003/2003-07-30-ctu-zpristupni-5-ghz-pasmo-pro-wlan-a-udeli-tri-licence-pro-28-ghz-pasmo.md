@@ -13,7 +13,7 @@ summary_points:
 - Standardy 802.11h a HIPERLAN2 budou přípustné v pásmu 5 GHz.
 - ČTÚ vydá návrh generální licence pro pásmo 5 GHz v říjnu.
 - ČTÚ uděluje licence pro pásmo 28 GHz, primárně pro FWA v Praze.
-title: "ČTÚ zpřístupní 5 GHz pásmo pro WLAN a udělí tři licence pro 28 GHz pásmo"
+title: ČTÚ zpřístupní 5 GHz pásmo pro WLAN a udělí tři licence pro 28 GHz pásmo
 ---
 
 <p>

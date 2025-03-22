@@ -20,7 +20,7 @@ summary_points:
 - USA, EU a Čína shodně usilují o regulaci technologických gigantů a aplikaci stejných
   pravidel.
 - Google shromažďuje data o uživatelích online, což umožňuje potenciální cenovou diskriminaci.
-title: "\U0001F578️Google zase o krok blíže rozdělení"
+title: \U0001F578️Google zase o krok blíže rozdělení
 ---
 
 Americké ministerstvo spravedlnosti (DoJ) v září obvinilo Google, že ve snaze maximalizovat zisky provozuje rozsáhlý monopol v oblasti reklamních technologií, který odřízl potenciální konkurenty a zvýšil náklady vydavatelů a inzerentů. O tři týdny před tím v jiném antimonopolním případu ministerstva spravedlnosti proti Googlu soud shledal, že společnost monopolizovala trh vyhledávání na internetu. Rozhodnutí o způsobu potrestání společnosti Google se očekává v příštím roce.

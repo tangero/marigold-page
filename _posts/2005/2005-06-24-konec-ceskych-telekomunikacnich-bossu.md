@@ -13,9 +13,7 @@ summary_points:
 - Odchodem Berdára a Heřmana končí éra českých šéfů velkých telekomunikačních firem.
 - Jaime Smith ze španělské Telefonica se stává novým šéfem Českého Telecomu.
 - Michala Heřmana v Eurotelu nahradí Salvador Anglada.
-title: "'Konec českých telekomunikačních bossů"
-
-  '
+title: Konec českých telekomunikačních bossů
 ---
 
 <p>Na včerejší valné hromadě prosadila Telefonica odvolání dosavadních generálních ředitelů Českého Telecomu Gabriela Berdára a Eurotelu Michala Heřmana. Uvědomil si to možná málokdo, ale s jejich odchodem také končí éra českých šéfů velkých telekomunikačních firem, nejbližší další český šéf telekomunikační firmy je Milan Rusnák, ovšem jeho firma má citelně slabší pozici, než Telecom a trojice mobilních operátorů.</p>

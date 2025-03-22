@@ -15,7 +15,7 @@ summary_points:
 - Marigold jediný jasně formuluje problémy projektu, novináři z Týdnu a Respektu zkoumali
   vazby.
 - Veřejnoprávní média ČRo a ČT se svezly po povrchu a konstatovaly známé věci.
-title: "Peterka opět na stopě INDOŠE"
+title: Peterka opět na stopě INDOŠE
 ---
 
 <p>

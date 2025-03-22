@@ -13,7 +13,7 @@ summary_points:
 - ČTÚ snížil propojovací poplatky, ale koncové ceny dial-upu se nezměnily.
 - Telecom zrušil balíčky a dial-up zdražil, zvýšil si tak marže.
 - Dial-up v ČR na rozdíl od světa neustále zdražuje.
-title: "Druhý díl seriálu Rychle na Internet"
+title: Druhý díl seriálu Rychle na Internet
 ---
 
 <p><strong>Noname píše:</strong> <a href="http://www.internetprovsechny.cz/clanek.php?cid=145">Druhý díl seriálu Rychle na Internet</a> se zabývá dial-upem (a nakousne i DSL), myslím, že je zajímavé i pro nás geeky zjistit, kolik že vlastně stojí hodina takového připojení těch 60% uživatelů Internetu v ČR. Úžasné je, že ČTÚ svým naprosto typickým způsobem v červnu t.r. snížil propojovací poplatky o desítky halířů, ovšem na koncových cenách se to neprojevilo, ba dokonce Telecom dial-up při posledních změnách mnohým zdražil, když zrušil balíčky na 780 minut atp.

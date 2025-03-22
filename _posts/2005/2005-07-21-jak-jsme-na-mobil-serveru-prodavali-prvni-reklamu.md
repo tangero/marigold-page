@@ -13,9 +13,7 @@ summary_points:
 - Nokia jako první velká firma inzerovala, prolomila tak bariéru pro další výrobce.
 - Mobil server, Seznam a MIA/Medea sjednotili prodej reklamy na imprese.
 - Karel Holub a Marek Zekič byli pionýři české internetové reklamy na Mobil serveru.
-title: "'Jak jsme na Mobil serveru prodávali první reklamu"
-
-  '
+title: Jak jsme na Mobil serveru prodávali první reklamu
 ---
 
 <p>Na internetu se občas vedou spory o to, kdo prodal první reklamu. Zatímco provozovatelé serveru Živě argumentují tím, že u nich reklamní pruhy běhaly již v říjnu 1996, Seznam tvrdí, že u něj se na podzim roku 1996 prodala první placená reklama. Blíže pravdě je dle mého soudu nárok Seznamu – server Živě v té době reklamu neprodával na Živě (to ostatně byla jen Invexová příloha, poté Živě na dlouho umřelo), ale do svých časopisů a na Živě přihazovali prodejci reklamu jako bonus zdarma. Seznam oproti tomu prodal zřejmě první reklamu výhradně pro internet. Najisto ale víme jen jedno – my jsme nebyli první, kdo reklamu na českém internetu prodal. </p>

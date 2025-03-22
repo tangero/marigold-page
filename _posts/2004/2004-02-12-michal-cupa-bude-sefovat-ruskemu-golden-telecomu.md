@@ -13,9 +13,7 @@ summary_points:
 - Golden Telecom je významný ruský operátor srovnatelný s Contactelem.
 - Golden Telecom propojuje Rusko optickou a satelitní sítí a je kotován na Nasdaqu.
 - Telenor koupil přes 20% akcií Golden Telecomu, když tam Čupa pracoval.
-title: "'Michal Čupa bude šéfovat ruskému Golden Telecomu"
-
-  '
+title: Michal Čupa bude šéfovat ruskému Golden Telecomu
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Marigold server občas shazoval, proto byla nutná reinstalace.
 - Výpadek serveru odpoledne byl způsoben reinstalací Ježibaby.
 - Komentáře dočasně nefungují kvůli chybějící instalaci potřebné věci.
-title: "Tak jsme si dali upgrade"
+title: Tak jsme si dali upgrade
 ---
 
 <p>

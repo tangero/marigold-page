@@ -13,8 +13,7 @@ summary_points:
 - IKEA zavedla "bezedné" nápoje, legalizující dřívější nelegální dolévání.
 - ISP řeší problém s "sosači" dat snižováním rychlosti nebo datovými limity.
 - Účtování internetu podle objemu dat je nejférovější řešení pro sdílené sítě.
-title: "Dobře – co kdyby si tedy sosači platili za spotřebovaná data? Potěší"
-  je to?
+title: Dobře – co kdyby si tedy sosači platili za spotřebovaná data? Potěší je to?
 ---
 
 <p>

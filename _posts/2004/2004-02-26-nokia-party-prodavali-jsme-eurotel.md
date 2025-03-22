@@ -14,7 +14,7 @@ summary_points:
   Siemensem.
 - Steve Langkamp, bývalý šéf marketingu Eurotelu, nyní pracuje v Magic4.
 - Většina telekomunikačních odborníků tipuje Vodafone jako nového majitele Eurotelu.
-title: "Nokia party – prodávali jsme Eurotel"
+title: Nokia party – prodávali jsme Eurotel
 ---
 
 Podle fotek, které jsem posílal v průběhu, můžete oprávněné usoudit, že jsem byl na Nokia Party. Nokia Party je vždy pojem. Snad každá firma tu pořádá své party, zrauty a podobně podniky pro lidí, kteří ji za něco stojí nebo se tam procpou, ale Nokia party je vždy vrchol, to se nedá nic dělat. Jak by ne, na Nokia party nedochází pití, je tam vždy narváno a vždy tam potkáte spoustu lidí, které znáte, nebo byste znát odkenud měli. Nejinak tomu včera. Ačkoliv simultánně probíhaly další party, jako třeba party Philipsu, na Nokia party se záhy začali lidí z těchto party přesouvat. 

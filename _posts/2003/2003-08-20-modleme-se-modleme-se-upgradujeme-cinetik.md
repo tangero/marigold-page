@@ -13,9 +13,7 @@ summary_points:
 - Fáze2 je kompletně nový systém, který nahrazuje původní Fázi1.
 - Fáze2 přináší CSS design, lepší expedice a automatizaci plateb.
 - Cinetik hledá investora pro DVD business, kontaktujte Boříka.
-title: "'Modleme se modleme se, upgradujeme Cinetik"
-
-  '
+title: Modleme se modleme se, upgradujeme Cinetik
 ---
 
 <p>

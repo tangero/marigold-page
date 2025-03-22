@@ -13,9 +13,7 @@ summary_points:
 - Důležité je filtrovat smysluplné dodatky čtenářů, což je problém u novinářské zodpovědnosti.
 - Komentáře čtenářů jsou často důležitější než samotný článek, například na Slashdotu.
 - Práce s komentáři čtenářů se stane důležitější než redakční zpracování zpráv.
-title: "'Weblogy jsou vlastně taková P2P žurnalistika"
-
-  '
+title: Weblogy jsou vlastně taková P2P žurnalistika
 ---
 
 <p>

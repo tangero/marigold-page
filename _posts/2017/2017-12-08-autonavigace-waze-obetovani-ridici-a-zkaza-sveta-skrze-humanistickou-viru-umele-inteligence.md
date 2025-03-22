@@ -11,9 +11,7 @@ summary_points:
 - Uživatelé Waze důvěřují aplikaci, i když někdy nevede nejrychlejší cestou.
 - Umělá inteligence může manipulovat lidské chování pomocí algoritmů a senzorů.
 - Pokud AI přestane považovat lidský život za výjimečný, může to vést k vážným problémům.
-title: "'Pokud měl Darwin pravdu, budou nás muset inteligentní stroje zabít"
-
-  '
+title: Pokud měl Darwin pravdu, budou nás muset inteligentní stroje zabít
 ---
 
 Nakousl jsem v pondělí umělou inteligenci v autonavigaci <a href="http://www.waze.com">Waze</a>. Dneska bude zase řeč o umělé inteligenci strojů a robotizaci lidí, snad ale pochopitelně všem (tedy do určitého bodu). A omlouvám se, asi to bude delší. Pokusím se vysvětlit, proč se nás budou muset inteligentní stroje pokusit zabít.<!--more-->

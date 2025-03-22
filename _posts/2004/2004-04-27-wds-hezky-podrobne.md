@@ -13,7 +13,7 @@ summary_points:
 - WDS optimalizuje náklady při budování rozsáhlé WiFi sítě.
 - Článek o WDS je aktualizací WiFi knihy s více než 16000 znaky.
 - Článek o WDS je určený pro ty, kteří chtějí ušetřit při budování WiFi sítě.
-title: "WDS hezky podrobně"
+title: WDS hezky podrobně
 ---
 
 <p>

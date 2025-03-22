@@ -13,7 +13,7 @@ summary_points:
 - Vodafone nabízí tarif SMS Grátis s limitem 300 SMS denně.
 - Mládež je pro média obtížně zacílitelná, ale mobil je oslovuje plošně.
 - Mobilní reklama není spása, ale zajímavý trend, kterého se Vodafone chopil.
-title: "Vodafone šlápl do UGC a úsměvu konkurentů"
+title: Vodafone šlápl do UGC a úsměvu konkurentů
 ---
 
 UGC je kryptická zkratka značící User Generated Content, tedy obsah tvořený uživateli. Úsměv konkurentů značí hypotetický stav pro případ, že O2 by se trendu na českém trhu ještě mohla smát a T-Mobile kdyby sehnal nějakou kreativní reklamku. Tolik počáteční definice. 

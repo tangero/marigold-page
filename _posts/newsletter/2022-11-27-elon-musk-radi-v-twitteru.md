@@ -16,7 +16,7 @@ summary_points:
   inženýry.
 - Twitter dluží miliardu dolarů, Musk se snaží o brutální ořez nákladů a zvýšení příjmů.
 - Musk ujistil zaměstnance, že propouštění skončilo a Twitter nabírá nové lidi.
-title: "Elon Musk řádí v Twitteru"
+title: Elon Musk řádí v Twitteru
 ---
 
 Elon Musk od převzetí Twitteru ve firmě úřaduje jako černá ruka a internet je plný komentářů k tomu. Především těch posměšných. Inu, občas je to směšné. Jako když se uživatel Twitteru dožaduje toho, aby si mohl změnit své jméno, když je platící uživatel a Elon Musk mu promptně vyhoví a funkci dodá. No a následně se tento uživatel přejmenuje na Elon Musk, přičemž má vedle sebe onu modrou ikonku ověřeného uživatele... 

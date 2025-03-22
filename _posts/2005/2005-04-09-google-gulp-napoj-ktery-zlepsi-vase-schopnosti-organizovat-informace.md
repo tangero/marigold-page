@@ -13,7 +13,7 @@ summary_points:
 - Autor by si Google Gulp sám objednal, což naznačuje úspěch žertu.
 - Aprílové žerty nejsou výsadou českého internetu, uvádí Washington Post.
 - Fyzikální blogeři ze Stanfordu také vytvořili aprílový žert.
-title: "Google Gulp – nápoj, který zlepší vaše schopnosti organizovat informace"
+title: Google Gulp – nápoj, který zlepší vaše schopnosti organizovat informace
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20050409-googlegulp.jpg" alt="Google Gulp" width="100" height="200" /></div>Legrácka na víkend - tentokráte jde o <a href="http://www.google.com/googlegulp/">Google Gulp</a>. Vypijte sklenku tohoto úžasného nápoje a nejmodernější genotechnologie rozšíří schopnosti vašeho mozku organizovat informace á la Google.</p>

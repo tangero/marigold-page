@@ -17,7 +17,7 @@ summary_points:
 - Zilis je respektovaná odbornice na AI, pracovala s Muskem v OpenAI.
 - Musk reagoval na zprávu o dvojčatech tweetem o populační krizi.
 - Musk čelil obvinění ze sexuálního obtěžování a SpaceX platila odškodnění.
-title: '... našly se Muskova dvojčata...'
+title: ... našly se Muskova dvojčata...
 ---
 
 Aby těch zpráv s Muskem dnes nebylo málo. Našla se Muskova dvojčata. Nekecám. Web [Insider vyhrabal žádost](https://www.businessinsider.com/elon-musk-shivon-zilis-secret-twins-neuralink-tesla) k soudu z listopadu, v níž Musk a Shivon Zilis žádali o změnu příjmení právě narozených dvojčat tak, aby se jmenovali po obou. Texaský soud žádost letos v květnu schválil. Zajímavé na tom není ani tak to, že Muskovi se právě v tu dobu narodily týden před narozením Muskova druhého syna s Claire Boucherovou. To si bude muset vysvětlit s ní, nám po tom mnoho není. 

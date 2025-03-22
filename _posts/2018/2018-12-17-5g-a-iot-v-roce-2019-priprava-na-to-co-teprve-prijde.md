@@ -13,7 +13,7 @@ summary_points:
 - Čína investuje miliardy do 5G a IoT, což ji staví do vedoucí pozice.
 - IoT bude hlavním motorem růstu a opodstatněním pro 5G sítě.
 - Česko je mimo hlavní technologický proud s novinkami přicházejícími se zpožděním.
-title: "5G a IOT v roce 2019 - příprava na to, co teprve přijde"
+title: 5G a IOT v roce 2019 - příprava na to, co teprve přijde
 ---
 
 Končí rok 2018, všechny telco konference a časáky se plní prognózami, slogany o IoT a nástupu sítí 5G v roce 2019. Jaká je realita, když ponecháme slogany stranou?

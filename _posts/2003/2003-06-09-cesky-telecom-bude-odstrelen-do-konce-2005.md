@@ -13,9 +13,7 @@ summary_points:
 - Gabriel Berdár se stane generálním ředitelem Českého Telecomu 13. června 2003.
 - Eurotelu nákup Telecomem je analytiky hodnocen pozitivně.
 - Přemysl Klíma obdržel od Telecomu zlatý padák ve výši 12 milionů Kč.
-title: "'Český Telecom bude odstřelen do konce 2005"
-
-  '
+title: Český Telecom bude odstřelen do konce 2005
 ---
 
 <p>

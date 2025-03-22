@@ -13,9 +13,7 @@ summary_points:
 - Dražba Matrix Phone probíhá na iDnes, cena stoupá.
 - Výtěžek dražby Matrix Phone půjde na Dětský domov.
 - Autor článku uvažuje o účasti v dražbě Matrix Phone.
-title: "'Na Mobilu se draží Samsung Matrix Phone"
-
-  '
+title: Na Mobilu se draží Samsung Matrix Phone
 ---
 
 <p>

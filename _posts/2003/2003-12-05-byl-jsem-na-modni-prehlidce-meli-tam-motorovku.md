@@ -14,9 +14,7 @@ summary_points:
   oblečení.
 - Autor se oblékl "slušně", ale Dita ho přirovnala k "teplému ruskému mafiánovi".
 - Přehlídka začala pozdě, obsahovala motorovou pilu a modely připomínaly zboží z tržnice.
-title: "'Byl jsem na módní přehlídce. Měli tam motorovku!"
-
-  '
+title: Byl jsem na módní přehlídce. Měli tam motorovku!
 ---
 
 <p>

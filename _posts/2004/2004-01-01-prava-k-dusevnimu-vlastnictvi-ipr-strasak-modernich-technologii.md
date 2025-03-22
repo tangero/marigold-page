@@ -13,7 +13,7 @@ summary_points:
 - GSM telefony vyžadují stovky patentů, které drží různé firmy.
 - Esenciální patenty jsou nezbytné pro fungování GSM telefonů.
 - Neesenciální patenty, například pro spoření baterie, nejsou nutné.
-title: "Práva k duševnímu vlastnictví (IPR) – strašák moderních technologií"
+title: Práva k duševnímu vlastnictví (IPR) – strašák moderních technologií
 ---
 
 <p>

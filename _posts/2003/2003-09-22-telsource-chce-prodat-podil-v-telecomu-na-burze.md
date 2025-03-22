@@ -13,7 +13,7 @@ summary_points:
 - Podíl TelSource má tržní hodnotu téměř miliardy eur.
 - Prodej podílu zřejmě sníží cenu akcií Českého Telecomu.
 - Nizozemská vláda prodala 12% akcií KPN za dvě miliardy eur.
-title: "TelSource chce prodat podíl v Telecomu na burze"
+title: TelSource chce prodat podíl v Telecomu na burze
 ---
 
 <p>

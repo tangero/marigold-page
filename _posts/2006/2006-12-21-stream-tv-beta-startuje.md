@@ -13,7 +13,7 @@ summary_points:
 - Stream.cz nabízí ochutnávku zpravodajství, seriálů, pořadů a hudby.
 - Registrace a některé funkce Stream TV zatím nejsou veřejně dostupné.
 - Oficiální spuštění Stream TV je plánováno na rok 2007.
-title: "Stream TV beta odstartovala"
+title: Stream TV beta odstartovala
 ---
 
 <texy>Stram TV včera večer odstartovalo. Dvorní astrolog propočítal postavení hvězd, dvorní technici update DNS a tak je termín otevření ochutnávky pro veřejnost symbolický: 21.12. (dneska) ve 21 hodin, 12 minut. Teď se jděte podívat na <a href="http://www.stream.cz">www.stream.cz</a>.

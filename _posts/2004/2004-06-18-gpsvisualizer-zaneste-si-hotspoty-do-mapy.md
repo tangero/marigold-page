@@ -13,7 +13,7 @@ summary_points:
 - NetStumbler ukládá polohu GPS s informacemi o WiFi hotspotu do mapy.
 - GPSvisualizer online mapuje hotspoty z NetStumbler logu, ale mapy ČR nejsou ideální.
 - Autor plánuje zveřejnit výstup z měření WiFi hotspotů.
-title: "GPSVisualizer – zaneste si hotspoty do mapy"
+title: GPSVisualizer – zaneste si hotspoty do mapy
 ---
 
 <p>

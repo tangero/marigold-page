@@ -13,7 +13,7 @@ summary_points:
 - MyNet umožňuje telefonování s paušálem 88 Kč a různými sazbami.
 - Pokrytí sítě MyNet je omezené, primárně Český Krumlov, Praha-Opatov a Barrandov.
 - MyNet iBOX umožňuje zprovoznit komerční hotspot s provizemi za data a volání.
-title: "Startuje MyNet – WiFi linka do internetu za paušál"
+title: Startuje MyNet – WiFi linka do internetu za paušál
 ---
 
 <p>

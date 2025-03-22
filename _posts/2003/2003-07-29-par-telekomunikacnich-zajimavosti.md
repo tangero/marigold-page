@@ -13,7 +13,7 @@ summary_points:
 - Mobil.cz zveřejnil novou srovnávací databázi mobilních telefonů s 223 záznamy.
 - LG se stalo pátým největším výrobcem mobilních telefonů, předběhlo Sony Ericsson.
 - Databáze Mobil.cz vznikala dva roky a její naplnění daty bylo náročné.
-title: "Pár telekomunikačních zajímavostí…"
+title: Pár telekomunikačních zajímavostí…
 ---
 
 <p>

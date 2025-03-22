@@ -13,7 +13,7 @@ summary_points:
 - Mikrotik OS se zdá být vhodný, verze Level 4 stojí 65 dolarů.
 - Dnes autor předá kabel v lokalitě jedna a vyzvedne anténu na Vinohradech.
 - Nové antény budou instalovány na stožárek v lokalitě dva.
-title: "Story o sousedských sítích (5.)"
+title: Story o sousedských sítích (5.)
 ---
 
 <p>

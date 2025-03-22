@@ -13,7 +13,7 @@ summary_points:
 - Eurotel SMS Server je dle článku kvůli úsporám nedostatečně zabezpečený.
 - T-Mobile má dle článku specifické podmínky pro firmu eMedia/Gemfor.
 - Článek o T-Mobile je srozumitelnější než ten o Eurotelu.
-title: 'Telnet.cz: SMS jako drsný business'
+title: Telnet.cz -  SMS jako drsný business
 ---
 
 <p>

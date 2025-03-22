@@ -18,7 +18,7 @@ summary_points:
 - iPadOS 16 má vylepšit práci s okny a multitasking, což uživatelé ocení.
 - WatchOS 9 pro Apple Watch přinese nové zdravotní funkce a přepracované každodenní
   funkce.
-title: "Apple prý představilo vedení virtuální realitu"
+title: Apple prý představilo vedení virtuální realitu
 ---
 
 Teď nemyslím plnění obchodních plánů, Apple není žádný startup, tam reporting běží přesně a jak po drátkách, žádné vzdušné zámky. Myslím opravdová zařízení pro AR/VR, tedy údajně brýle pro virtuální realitu. Alespoň to tvrdí agengura Bloomberg, podle níž byly VR brýle presentovány představenstvu společnosti Apple. K tomu připočtěte, že se v minulosti objevily zmínky o realityOS ve zdrojových kódech a nyní i v registrovaných ochranných známkách a zdá se, že představení virtuální reality od Apple se blíží. Za týden, 6. června 2022 začíná Apple svou tradiční vývojářskou konferenci WWDC, že by se tam oznámilo zpřístupnění vývojářských nástrojů? Spíše ne. 

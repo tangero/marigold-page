@@ -13,7 +13,7 @@ summary_points:
 - ASNAP technologie Calypso umožňuje plynulé přepínání mezi GSM/GPRS a WiFi sítěmi.
 - Telefon Calypso testován v sítích WIND, TIM, Nocable a T-Mobile USA.
 - Calypso chce ASNAP technologii licencovat, telefon je spíše průmyslový vzorek.
-title: "Calypso Wireless a první GSM/WiFi telefon c1250i"
+title: Calypso Wireless a první GSM/WiFi telefon c1250i
 ---
 
 <p>

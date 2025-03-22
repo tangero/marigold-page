@@ -14,7 +14,7 @@ summary_points:
   výrobců.
 - Senao SI-7800H nabízí WiFi základnovku s QoS a roamingem pro lepší hovory.
 - Přístupová stanice SI-7800B funguje i jako běžný WiFi AP pro další zařízení.
-title: "WiFi telefon Senao SI-7800H (z CeBITu)"
+title: WiFi telefon Senao SI-7800H (z CeBITu)
 ---
 
 <p>

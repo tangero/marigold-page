@@ -13,7 +13,7 @@ summary_points:
 - Samoobsluha ani infolinka GPRS aktivaci u Oskara nezajistily.
 - Autor chtěl GPRS pro čtení emailů v mobilu.
 - Dita zpochybnila autorovu potřebu GPRS v mobilu.
-title: 'První Oskaří problém: nejde mi aktivovat GPRS'
+title: První Oskaří problém -  nejde mi aktivovat GPRS
 ---
 
 <p>

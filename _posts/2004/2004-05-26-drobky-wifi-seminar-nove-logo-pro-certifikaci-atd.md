@@ -13,7 +13,7 @@ summary_points:
 - Wi-Fi Alliance zavádí nový grafický symbol pro certifikaci WiFi technologií.
 - Legoland využívá WiFi náramky pro sledování dětí v areálu.
 - Zcomax XI-1510V outdoor přístupový bod má recenzi na WiFionline.
-title: 'Drobky: WiFi seminář, nové logo pro certifikaci atd'
+title: Drobky -  WiFi seminář, nové logo pro certifikaci atd
 ---
 
 <p>

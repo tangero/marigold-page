@@ -13,7 +13,7 @@ summary_points:
 - Český Telecom usiluje o podíl v Eurotelu, dříve neúspěšně, nyní s novou nabídkou.
 - Orange (France Telecom) má zájem o Eurotel a vstup na český trh.
 - Vodafone a T-Mobile o Eurotel neusilují, Telecom má poslední šanci na mobilním trhu.
-title: "Eurotel koupí Český Telecom nebo Orange – pokud někdo."
+title: Eurotel koupí Český Telecom nebo Orange – pokud někdo.
 ---
 
 <p>

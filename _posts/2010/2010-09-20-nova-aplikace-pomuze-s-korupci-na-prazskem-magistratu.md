@@ -16,7 +16,7 @@ summary_points:
 - Zdarma verze pro občany a placená verze MIP pro firmy existují.
 - Aplikace detekuje polohu v úřadu a informuje o službách a úplatcích.
 - Databáze aplikace nabízí informace, taxy, lhůty a klíčová slova.
-title: "Nová aplikace pomůže s korupcí na pražském magistrátu"
+title: Nová aplikace pomůže s korupcí na pražském magistrátu
 ---
 
 Po velkém úspěchu aplikace pro iPhone, která má <a href="http://zpravy.idnes.cz/s-virtualnim-taxametrem-prijdou-spory-o-cenu-a-udavani-ridicu-p6o-/domaci.asp?c=A100917_124722_domaci_hv">odhalovat nepoctivé taxikáře</a> a pomoci návštěvníkům metropole orientovat se v cenách taxislužby, přichází na trh další aplikace. Ta má pomoci zorientovat se v úplatnosti magistrátních úředníků. 

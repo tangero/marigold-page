@@ -12,7 +12,7 @@ summary_points:
 - Zničení satelitů by způsobilo pád trosek na Zemi a znehodnotilo část oběžné dráhy.
 - Výpadek satelitů by ovlivnil internet, vojenské systémy a další technologie.
 - Rusku může destrukce oběžné dráhy dávat smysl kvůli omezeným kosmickým technologiím.
-title: "Co by se stalo, kdyby Rusko ve vesmíru odpálilo atomovou bombu?"
+title: Co by se stalo, kdyby Rusko ve vesmíru odpálilo atomovou bombu?
 ---
 
 Tohle není vůbec teorie. Zdá se, že Rusko do vesmíru umístilo satelit, který může být na dálku odpálen a zničit velkou část satelitů obíhajících kolem země. WSJ se tomu detailně věnuje, [má k tomu infografiky, jejich článek si projděte](https://www.washingtonpost.com/technology/interactive/2024/nukes-space-explosion-nuclear-weapon-russia/). Zdá se, že na Zemi by dopadlo mnoho trosek a především by se oběžná dráha stala z části nepoužitelnou, posetou neřiditelnými a nezmapovatelnými troskami. A také by vypadla velká část nejrůznějších satelitů, od těch na internet, po ty vojenské. Samozřejmě nejen USA, ale i Rusku, jenže pro něj to dává smysl: v kosmických technologiích na oběžné dráže i kvůli embargu nemůže dlouhodobě mnoho konkurovat, tak proč nezničit oběžnou dráhu pro satelity nepřítele.

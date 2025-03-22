@@ -18,8 +18,7 @@ summary_points:
 - TransferJet vyžaduje fyzický kontakt zařízení (do 3 cm) s rychlostí až 560 Mb/s.
 - Apple láká na MacBookAir, spekuluje se o podpoře WiMaxu.
 - TransferJet má být komerčně dostupný v roce 2009, zatím není standardizován.
-title: "'Oživení bezdrátových sítí: Sony TransferJet a There is something in the"
-  air'
+title: Oživení bezdrátových sítí -  Sony TransferJet a There is something in the air
 ---
 
 Minulý týden Sony představila na veletrhu CES2008 svoji novou technologii nazvanou TransferJet. Většina médií ji pasovala na konkurenta Bluetooth 3.0, ale tak jednoduché to zase není... Jak to tak vypadá, v dnes již poklidném bezdrátovém světě přijde v nejbližších letech trocha vzrušení. Nejdříve Sony a zítra možná přijde i kouzelník, protože na Mac Expo v SF už jsou k vidění plagáty Apple hlásající, že There is something in the air. Jenže co je to ten MacBookAir? Lepší vzduch pro naše jablíčka asi těžko. 

@@ -13,8 +13,7 @@ summary_points:
 - UPC informovalo dopisem o zvýšení rychlosti internetu Chella.
 - UPC zrušilo dostupnost diskusního fóra Mistrál z internetu.
 - MMS ze Švýcarska bude stát 10 Kč dle infolinky T-Mobile.
-title: "'Teledrobky: MediaAlbum musíte používat, UPC informuje dopisem a ruší"
-  diskusi z&nbsp;internetu'
+title: Teledrobky -  MediaAlbum musíte používat, UPC informuje dopisem a ruší diskusi z internetu
 ---
 
 <p>

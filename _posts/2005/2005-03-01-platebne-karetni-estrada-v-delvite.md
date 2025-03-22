@@ -13,7 +13,7 @@ summary_points:
 - Platby kartou v ČR jsou pomalé a často selhávají.
 - eBanka zavedla povinné pomlčky v číslech bankovních účtů.
 - Platba kartou se používá jako zdržení při balení zboží.
-title: "Platebně karetní estráda v Delvitě"
+title: Platebně karetní estráda v Delvitě
 ---
 
 <p>Někdy přemýšlím nad tím, zda za to opravdu může jen komunismus, že v používání elektronických peněz a peněženek jsme sto let za opicemi (opravdu jsem viděl v mnichovské zoo opici s platební kartou, jen jsem si nevšiml, zda byla na její jméno - mají takové opice i v pražské Zoo?).</p>

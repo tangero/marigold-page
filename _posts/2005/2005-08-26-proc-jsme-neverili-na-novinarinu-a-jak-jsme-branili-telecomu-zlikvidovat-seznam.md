@@ -15,8 +15,7 @@ summary_points:
 - Ověřování informací je problematické, protože zdroje často záměrně pouští informace
   ven.
 - Mobil server se stavěl do role zastánce zákazníků telekomunikačních služeb.
-title: "Proč jsme nevěřili na novinařinu a jak jsme bránili Telecomu zlikvidovat"
-  seznam
+title: Proč jsme nevěřili na novinařinu a jak jsme bránili Telecomu zlikvidovat seznam
 ---
 
 <p>Musím se přiznat, že jsem nikdy nevěřil na novinářská pravidla, zásady a etický kodex. Nikdy jsem se nepovažoval za novináře nejenom proto, že jsem žurnalistiku nevystudoval, v tom jsem ostatně odpovídal profilu průměrného českého technického novináře. Nešlo ani o pózu, jak se odlišit od ostatních, šlo spíše o to, že jsem tehdy považoval některé stávající novinářská pravidla za přežitá, nevyhovující a spíše směšná, než užitečná.  Ostatně i proto se dodnes nepovažuji za novináře, spíše za publicistu, když už, tak analytika. </p>

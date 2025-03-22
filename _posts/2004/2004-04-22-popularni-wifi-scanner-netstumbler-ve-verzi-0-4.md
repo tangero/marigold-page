@@ -13,9 +13,7 @@ summary_points:
 - Podpora čipsetů Atheros, Atmel, Intersil Prism2 a Cisco byla výrazně vylepšena.
 - Zlepšena byla podpora GPS a automatické zjišťování subnetu a IP adresy.
 - NetStumbler team doporučuje instalaci nové verze 0.4.
-title: "'Populární WiFi scanner NetStumbler ve verzi 0.4"
-
-  '
+title: Populární WiFi scanner NetStumbler ve verzi 0.4
 ---
 
 <p>

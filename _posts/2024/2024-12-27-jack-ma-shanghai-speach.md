@@ -17,7 +17,7 @@ summary_points:
 - Projev vyvolal ostré reakce čínských úřadů a zastavení IPO Ant Group.
 - Ma zdůraznil potřebu podpory malých podniků a budoucí roli digitálních měn.
 thumbnail: https://www.marigold.cz/assets/jack-ma-shanghai-bund-summit-10-2020.jpg
-title: 'Jacka Ma, šéf Alibaby: Dobrá inovace se nebojí regulace'
+title: Jacka Ma, šéf Alibaby -  Dobrá inovace se nebojí regulace
 ---
 
 Toto je překlad projevu Jacka Ma, který pronesl 24. října 2020 na finančním summitu Bund v Šanghaji. Jack Ma v projevu zpochybnil tradiční bankovní model v Číně a vyjádřil se kriticky k příliš konzervativním regulacím. Upozorňoval, že inovační prostředí se dusí zastaralými pravidly a že Čína potřebuje modernizovat a zjednodušit finanční sektor, aby mohl držet krok se světem. 

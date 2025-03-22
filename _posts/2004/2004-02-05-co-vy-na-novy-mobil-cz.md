@@ -13,7 +13,7 @@ summary_points:
 - Autor preferuje výraznější barvy, které lze snadno změnit pomocí CSS skinů.
 - Autor by ocenil jméno autora u článků a oddělení článků z různých dní.
 - Autorovi se nový design vcelku líbí a těší se na barevné skiny.
-title: "Co vy na nový Mobil.cz"
+title: Co vy na nový Mobil.cz
 ---
 
 <p>

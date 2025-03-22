@@ -14,7 +14,7 @@ summary_points:
 - GPT-4 využívá propojené jazykové a matematické modely, nikoliv jen vyšší počet slov.
 - OpenAI předběhla Google díky obrovskému výpočetnímu výkonu.
 - USA se snaží omezit výpočetní kapacitu Číny v oblasti AI.
-title: "Myšlenka a článek, na který přišel čas? Hořká lekce z AI"
+title: Myšlenka a článek, na který přišel čas? Hořká lekce z AI
 ---
 
 Na čtyři roky starou esej [Richarda Suttona nazvanou Hořká lekce](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) dozrál právě čas. Právě přemýšlíme, co bude ten další skok, jak bude vypadat GPT-5 a co nového přinese? Už GPT-4 nespoléhá jen na vyšší počet "slov", ve skutečnosti je konglomerátem několika propojených jazykových a matematických modelů, které si předávají slovo podle toho, který z nich podá nejlepší výsledek (pozor, toto je domněnka, OpenAI detaily nezveřejnila). 

@@ -13,9 +13,7 @@ summary_points:
 - VIP status u banky a operátora nepřináší výhody, spíše komplikace.
 - Autor preferuje rychlé, věcné a anonymní řešení požadavků přes internet nebo call
   centrum.
-title: "'Já nechci žádného osobního asistenta!"
-
-  '
+title: Já nechci žádného osobního asistenta!
 ---
 
 V poslední době se přemnožili osobní asistenti. Nemyslím tím ti najatí, kteří mne sledují krok za krokem a vyřizují, co jim zadám. Myslím ti lidé v cizích firmách, kteří jsou prý vyhrazeni pro moji komunikaci s dotyčnou společností. 

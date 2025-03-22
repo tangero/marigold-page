@@ -13,7 +13,7 @@ summary_points:
 - Intel Centrino nepřináší zásadní inovace, podobné funkce jsou dostupné i jinde.
 - Centrino integruje procesor, čipset a WiFi, dříve vyvíjené samostatně.
 - Intel Centrino přispěje k rozšíření WiFi jako standardu v noteboocích.
-title: "Intel nazval svoje řešení Centrino a další bláblá"
+title: Intel nazval svoje řešení Centrino a další bláblá
 ---
 
 <p>

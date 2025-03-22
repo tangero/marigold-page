@@ -13,7 +13,7 @@ summary_points:
 - Německý regulátor nesouhlasí s vracením licence, podobný případ byl Quam.
 - Vodafone a T-Mobile mají zájem o uvolněné frekvence v nové aukci.
 - RegTP zahájil tendr na licenci frekvenčního spektra bývalé analogové sítě C-Netz.
-title: "Německý Mobilcom vrací UMTS licenci…"
+title: Německý Mobilcom vrací UMTS licenci…
 ---
 
 <p>

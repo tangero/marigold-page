@@ -13,7 +13,7 @@ summary_points:
 - Petice vznikla na CzFree za navrácení Clocka, ale Carlos a Deu mlčí.
 - Fyzik tvrdí, že Clock odmítl spolupráci i za peníze kvůli "haluzním" důvodům.
 - CzFree je kritizováno za centralizaci, chaos a cenzuru příspěvků.
-title: "Tvůrce optického pojítka Ronja odchází z CzFree. Zhrzen nebo vykopnut?"
+title: Tvůrce optického pojítka Ronja odchází z CzFree. Zhrzen nebo vykopnut?
 ---
 
 <p>

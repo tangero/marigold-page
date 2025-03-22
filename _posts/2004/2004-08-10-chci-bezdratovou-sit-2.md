@@ -14,7 +14,7 @@ summary_points:
   logem.
 - Standard 802.11 je určen pro vnitřní sítě, venkovní sítě v ČR jsou výjimkou.
 - Venkovní sítě řeší kolize pomocí RTS/CTS, ad-hoc sítě se nedoporučují.
-title: "Chci bezdrátovou síť! (2)"
+title: Chci bezdrátovou síť! (2)
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040810-Outdoor Wi-Fi.jpg" alt="Venkovní síť" width="239" height="153" /></div><p>

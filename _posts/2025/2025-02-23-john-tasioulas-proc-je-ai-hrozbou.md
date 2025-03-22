@@ -15,8 +15,7 @@ summary_points:
 - AI ohrožuje procesní hodnoty, upřednostňuje efektivní výsledky před způsobem dosažení.
 - Demokratická kontrola AI je zásadní pro zajištění prospěchu pro všechny občany.
 thumbnail: https://www.ox.ac.uk/sites/files/oxford/styles/ow_medium_feature/s3/field/field_image_main/John%20stand%202.jpg
-title: "John Tasioulas - Proč je umělá inteligence hrozbou a jak ji využít pro dobro"
-  věci (přepis přednášky)
+title: John Tasioulas - Proč je umělá inteligence hrozbou a jak ji využít pro dobro věci (přepis přednášky)
 ---
 
 Přepis přednášky [Johna Tasioulase](https://en.wikipedia.org/wiki/John_Tasioulas) s názvem „Why AI Is A Threat - And How To Use It For Good“ na konferenci TEDxAthens 2025, která se konala 16. února 2025.  

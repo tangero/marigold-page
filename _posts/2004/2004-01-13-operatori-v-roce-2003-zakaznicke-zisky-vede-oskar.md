@@ -13,7 +13,7 @@ summary_points:
 - Eurotel získal ve 4. čtvrtletí 2003 195 000 nových klientů.
 - T-Mobile měl v roce 2003 3 856 000 zákazníků, růst 9,1 %.
 - Eurotel vyhrál vánoční trh, Oskar celkově získal nejvíce zákazníků.
-title: "Operátoři v roce 2003 – zákaznické zisky vede Oskar"
+title: Operátoři v roce 2003 – zákaznické zisky vede Oskar
 ---
 
 <p>

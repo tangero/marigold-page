@@ -13,9 +13,7 @@ summary_points:
 - Průměrná cena access pointu klesla z 136 USD na 87 USD v roce 2002.
 - PCMCIA WiFi karty v ČR klesly z 10 000 Kč na méně než 3 000 Kč v roce 2002.
 - Trh s WiFi se dělí na prodejce krabic a dodavatele řešení.
-title: "'Prodeje WiFi zařízení rostou, je tu někdo, koho to překvapuje?"
-
-  '
+title: Prodeje WiFi zařízení rostou, je tu někdo, koho to překvapuje?
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Joost je P2P infrastruktura pro šíření videa po internetu.
 - Autor má s Joostem v Česku problémy s připojením k serveru.
 - Joost se vyvíjí i pro Mac, včetně webu a API.
-title: "The Venice Project je nově Joost"
+title: The Venice Project je nově Joost
 ---
 
 <texy>Věděl se od počátku, že The Venice Project se nebude takto jmenovat definitivně. Benátský projekt se dneska oficiálně přejmenoval a jeho nové a sexy jméno je <a href="http://www.joost.com">Joost</a>. Nic jiného se zatím nemění, projektu se účastní testeři (třeba já), běžní uživatelé k němu přístup zatím nemají. Jasně, změnila se grafika webu, jestli vás to zaujme. 

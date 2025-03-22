@@ -13,8 +13,7 @@ summary_points:
 - FreeGate nabízí free konektivitu 32 Kbps nodům, studentům a vývojářům CzFree.
 - Vyšší rychlosti FreeGate jsou dražší než nabídky UPC nebo Tesmedia.
 - FreeGate má web internet.czfree.net, kde je nutná nová registrace.
-title: "'„Oficiální“ ceník připojení do internetu přes CzFree – neboli"
-  FreeGate'
+title: „Oficiální“ ceník připojení do internetu přes CzFree – neboli FreeGate
 ---
 
 <p>

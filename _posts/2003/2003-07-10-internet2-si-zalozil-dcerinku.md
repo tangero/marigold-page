@@ -13,7 +13,7 @@ summary_points:
 - Fiberco spolupracuje se společností Level3 v oblasti nákupu vláken.
 - Akademická síť řeší dilema mezi nákupem infrastruktury a výzkumem.
 - Evropská síť GÉANT provozovaná DANTE nasmlouvává SDH služby.
-title: "Internet2 si založil dceřinku"
+title: Internet2 si založil dceřinku
 ---
 
 <p>

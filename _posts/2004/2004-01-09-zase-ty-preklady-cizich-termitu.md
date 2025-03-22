@@ -13,7 +13,7 @@ summary_points:
 - Zkratky v mobilních sítích je lepší nepřekládat, i když USRAN zní divně.
 - Core Network je problematické přeložit do češtiny, "Jaderná síť" je odvážné.
 - Přepis UMTS věty plné zkratek do srozumitelné češtiny vyžaduje dlouhý odstavec.
-title: "Zase ty překlady cizích termitů"
+title: Zase ty překlady cizích termitů
 ---
 
 <p>

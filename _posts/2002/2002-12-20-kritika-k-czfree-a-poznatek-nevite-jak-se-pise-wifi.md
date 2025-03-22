@@ -13,7 +13,7 @@ summary_points:
 - Článek o CzFree bude na Marigoldu, hlasování o názorech již probíhá.
 - Správný název sítě IEEE802.11b je Wi-Fi, nikoliv WiFi.
 - Autor používá WiFi kvůli zvyku a vyhnutí se problémům s ochrannou známkou.
-title: "Kritika k CzFree a poznatek: nevíte, jak se píše WiFi :)"
+title: Kritika k CzFree a poznatek -  nevíte, jak se píše WiFi  - )
 ---
 
 <p>

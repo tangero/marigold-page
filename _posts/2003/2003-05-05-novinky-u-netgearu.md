@@ -13,7 +13,7 @@ summary_points:
 - FWAG114 je WiFi router pro firmy s podporou dvou VPN za 460 USD.
 - ME103 je access point s podporou A/G WiFi a funkcemi bridge za 249 USD.
 - WG602 je jednoduchý access point s G standardem pro běžné uživatele za 100 USD.
-title: "Novinky u NetGearu"
+title: Novinky u NetGearu
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Přístupová hesla byla rozdána, server může být aktualizován nebo smazán.
 - Autor si s sebou bere pouze vypnutý mobilní telefon.
 - Lemíci v DHTML jsou doporučeni jako zábava pro čtenáře.
-title: "Týden to tu osiří…"
+title: Týden to tu osiří…
 ---
 
 <p>

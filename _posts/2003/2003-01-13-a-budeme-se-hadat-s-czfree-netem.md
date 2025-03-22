@@ -13,7 +13,7 @@ summary_points:
 - Deu tvrdí, že pravidla CzFree jsou dostupná pouze členům sítě.
 - Autor kritizuje nedostupnost pravidel CzFree pro nové uživatele.
 - Autor shrne další připomínky k CzFree v budoucím článku.
-title: "A budeme se hádat s CZFree.Netem… :)"
+title: A budeme se hádat s CZFree.Netem…  - )
 ---
 
 <p>

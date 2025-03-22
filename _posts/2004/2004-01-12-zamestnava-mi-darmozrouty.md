@@ -13,7 +13,7 @@ summary_points:
 - Ministerstvo informatiky zaměstnává neloajální darmožrouty dle kritiky.
 - Mlynář údajně nedokáže efektivně řídit své ministerstvo.
 - Diskuse pod článkem vykazuje podporu autora, často ze sítí státní správy.
-title: "Zamestnava MI darmozrouty?"
+title: Zamestnava MI darmozrouty?
 ---
 
 <p>

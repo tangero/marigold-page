@@ -13,7 +13,7 @@ summary_points:
 - Po překročení 5GB limitu klesne rychlost Chello Easy na symetrických 64 Kb/s.
 - UPC zavedlo Chello Easy kvůli poptávce po levném internetu s evropskými parametry.
 - UPC automaticky převede zákazníky Chello Light na Chello Easy s výhodnějšími podmínkami.
-title: "Chello Easy bude místo Light varianty"
+title: Chello Easy bude místo Light varianty
 ---
 
 <p>

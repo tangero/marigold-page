@@ -13,8 +13,7 @@ summary_points:
 - Vladimír Mlynář prosazuje spojení vlastnictví mobilního a pevného operátora.
 - Telecom potřebuje ráznou ruku a tvrdé manažery pro zlepšení situace.
 - Miroslav Antl dostal nabídku na šéfa bezpečnosti Českého Telecomu.
-title: "Eurotel bude prodán Českému Telecomu. Co z toho pojde? A kdo z toho"
-  pojde?
+title: Eurotel bude prodán Českému Telecomu. Co z toho pojde? A kdo z toho pojde?
 ---
 
 <p>

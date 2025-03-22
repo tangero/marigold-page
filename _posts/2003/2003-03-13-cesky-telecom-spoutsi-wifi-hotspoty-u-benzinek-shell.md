@@ -13,7 +13,7 @@ summary_points:
 - Telecom rozšiřuje WiFi síť mimo prodejny Telepoint, celkem jich má 35.
 - Autor pochybuje o smyslu WiFi na benzínkách kvůli krátkému pobytu zákazníků.
 - Seznam WiFi hotspotů Českého Telecomu je dostupný na telecom.cz/wifi/lokality.php.
-title: "Český Telecom spoutší WiFi hotspoty u benzinek Shell"
+title: Český Telecom spoutší WiFi hotspoty u benzinek Shell
 ---
 
 <p>

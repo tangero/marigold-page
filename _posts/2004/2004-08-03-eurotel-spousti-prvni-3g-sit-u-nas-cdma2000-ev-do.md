@@ -13,7 +13,7 @@ summary_points:
 - EDGE je minimálně čtyřikrát pomalejší než CDMA Data Expres od Eurotelu.
 - Ping v CDMA síti se pohyboval na úrovni 140-160 ms při testování.
 - CDMA je plně mobilní technologie s lepším zvládáním handoverů než GSM.
-title: "Eurotel spouští první 3G síť u nás – CDMA2000 EV-DO"
+title: Eurotel spouští první 3G síť u nás – CDMA2000 EV-DO
 ---
 
 <p>

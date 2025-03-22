@@ -14,9 +14,7 @@ summary_points:
 - Mobilní firma uvolnila unikátní informace všem, aby zabránila exkluzivnímu vydání.
 - Tento postup vede k tomu, že se novináři bojí žádat o oficiální informace.
 - Autor popisuje konfrontaci s "velkým bossem" kvůli zveřejnění informací bez vyjádření.
-title: "'Proč obcházet tiskového mluvčího Telecomu"
-
-  '
+title: Proč obcházet tiskového mluvčího Telecomu
 ---
 
 <p>

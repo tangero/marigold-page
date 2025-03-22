@@ -13,7 +13,7 @@ summary_points:
 - Adresy pro svatební pozvánky autor zjišťoval online, hlavně přes Justice.cz.
 - Kamarádovi bez podnikání poslal obálku s popisem domu pro doručení.
 - Mobical.net synchronizuje telefonní kontakty a kalendář přes SyncML zdarma.
-title: "Killer App  jako hromada utilit (aneb jak hledám adresy)"
+title: Killer App jako hromada utilit (aneb jak hledám adresy)
 ---
 
 <p>

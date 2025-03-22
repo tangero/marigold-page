@@ -15,7 +15,7 @@ summary_points:
 - Defog umožňuje nahrát data a ptát se na jejich význam.
 - Mindgrasp vytváří výukové materiály z dokumentů, videí a PDF.
 - Kling AI tvoří videa z fotografií, ale má problémy s detaily.
-title: "\U0001F6E0️Služby, co byste nemuseli minout"
+title: \U0001F6E0️Služby, co byste nemuseli minout
 ---
 
 [Dupe](https://dupe.com/) je super služba. Dáte do ní URL nějakého konkrétního **zboží na eshopu** a ona vám **najdete parametry podobné, ale levnější zboží** jinde. Samozřejmě to ze dvaceti věcí třetinu najde blbě, ale fakt jsou v tom dobré tipy, skvěle to funguje na nábytku (zradou je chybějící doprava do ČR), ale třeba najít variantu ultralight stanu na výpravy mi to také pomohlo!

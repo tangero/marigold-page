@@ -16,7 +16,7 @@ summary_points:
 - Dobrovolné slučování obcí často selhává bez pobídek.
 - Česká reforma by měla být postupná a založená na spolupráci.
 thumbnail: https://a.cdn-hotels.com/gdcs/production62/d681/3709d4b0-db83-11e8-8252-0242ac110006.jpg
-title: "Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu"
+title: Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu
 ---
 
 V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížíme náklady a ušetříme. Zkušenosti ze světa ukazují, že tomu tak není. Redukce počtu obcí by státnímu rozpočtu nepomohla, přesto má smysl ji provést. Proč?

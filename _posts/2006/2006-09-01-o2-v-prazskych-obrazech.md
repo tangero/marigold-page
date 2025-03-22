@@ -13,7 +13,7 @@ summary_points:
 - Fotografie bubliny připomíná výron bahenního plynu, focení kyslíku je obtížné.
 - O2 nezvládlo zprovoznit ADSL v centru Prahy kvůli nepořádku v systému.
 - Autor bude po poradě vyprávět historku o problémech s O2 a ADSL.
-title: "O2 v pražských obrazech"
+title: O2 v pražských obrazech
 ---
 
 <p>Tak jsme s Vrecem jeli do práce autem, já řídil a Vreco fotil. Nevím,jak vám - ale mně ta bublina připomíná výron bahenního plynu. Nu,nafotit kyslík není tak snadné.Storka o tom, jak nám O2 nebylo schopno rozchodit ADSL v centru Prahy,protože v tom mají bordel, bude následovat po poradě, na  kteroužtopadám...

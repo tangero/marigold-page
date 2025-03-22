@@ -13,7 +13,7 @@ summary_points:
 - Albatros nezvládl české vydání na Vánoce, slovenské je alternativa.
 - Ikar má legální licenci, Albatros nemůže prodeji slovenského vydání zabránit.
 - Slovenské vydání Harryho Pottera může pomoci dětem se slovenštinou.
-title: "Harry Potter u nás slovensky :)"
+title: Harry Potter u nás slovensky  - )
 ---
 
 <p>

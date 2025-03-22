@@ -13,9 +13,7 @@ summary_points:
 - McDonald nabídne WiFi připojení ve svých restauracích, začíná s Manhattanem.
 - WiFi zdarma v McDonald's bude hodinu při objednávce nad určitou částku.
 - Rozšíření WiFi v ČR brání malý počet řetězců, jako je McDonald's.
-title: "'WiFi má na CeBITu snad každý, McDonald nabídne WiFi"
-
-  '
+title: WiFi má na CeBITu snad každý, McDonald nabídne WiFi
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Pardubický vysílač Angel pokrývá kromě města i Heřmanův Městec, Přelouč a okolí.
 - Liberecký vysílač Angel na Ještědu pokrývá kromě Liberce i Tanvald.
 - Angel nepotřebuje přímou viditelnost a měsíční ceny začínají na 1500 Kč.
-title: "Bluetone Angel v dalších čtyřech městech"
+title: Bluetone Angel v dalších čtyřech městech
 ---
 
 <p>

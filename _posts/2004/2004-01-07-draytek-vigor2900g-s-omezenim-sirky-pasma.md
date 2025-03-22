@@ -15,7 +15,7 @@ summary_points:
   neobvyklé.
 - Cena 200 USD je mírně vyšší, než u srovnatelných směrovačů, ale nižší než u konkurence
   s bandwidth managementem.
-title: "DrayTek Vigor2900G s omezením šířky pásma"
+title: DrayTek Vigor2900G s omezením šířky pásma
 ---
 
 <p>

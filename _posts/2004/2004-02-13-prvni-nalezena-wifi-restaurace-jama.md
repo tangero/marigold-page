@@ -13,7 +13,7 @@ summary_points:
 - WiFi funguje v nekuřáckém salonku restaurace Jáma, kde je i internetová kavárna.
 - Jáma nabízí levné polední menu (75 Kč) a personál rozumí WiFi technologii.
 - Webové stránky restaurace Jáma jsou dostupné na jamapub.cz.
-title: 'První nalezená WiFi restaurace: Jáma'
+title: První nalezená WiFi restaurace -  Jáma
 ---
 
 <p>

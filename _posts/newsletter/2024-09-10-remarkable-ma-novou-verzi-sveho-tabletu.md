@@ -18,7 +18,7 @@ summary_points:
 - Cena reMarkable Paper Pro s klávesnicí je 900 euro, což je alternativa k Macbooku
   Air.
 - Onyx Boox, Kindle Scribe, Kobo Elipsa a Supernote A5X jsou alternativy k reMarkable.
-title: "\U0001F9D1‍\U0001F4BBRemarkable má novou verzi svého tabletu"
+title: \U0001F9D1‍\U0001F4BBRemarkable má novou verzi svého tabletu
 ---
 
 V technologickém světě je to takový niche produkt - [tablety reMarkable](https://remarkable.com/). Asi jste je viděli u pár lidí na poradách, pointou je, že mají eInk displej a jsou určené pro načítání materiálů, jejich anotace a dělání poznámek. Je k tomu pero, zapisujete si poznámky z porady, dá se k tomu připojit klávesnice, na baterky to díky eInk displeji vydrží mraky času, ale tím to taky není na multimédia. 

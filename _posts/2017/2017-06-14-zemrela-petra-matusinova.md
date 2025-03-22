@@ -10,7 +10,7 @@ summary_points:
 - Stála u zrodu prvních mobilních sítí v ČR i ve světě.
 - Projekt Opencard jí zlomil kariéru, přesto zůstala čestná.
 - Věnovala se dobrovolnictví a pomáhala dětem v Africe.
-title: "Zemřela Petra Matušínová"
+title: Zemřela Petra Matušínová
 ---
 
 Zemřela Petra Matušínová. Nic vám to neřekne, pravděpodobně jste ji neznali. Není to ta dojemná bulvárová smrt celebrity. Však to také nepíšu pro vás, abych vás dojímal, ale pro sebe, abych se s tím vyrovnal, protože jsem přišel o člověka velmi blízkého, kterého jsem znal dvacet let. Protože její smrt je pro mně ... symbolem doby, to je asi to skoro správné slovo. Vy, kdož jste ji znali, vzpomeňte na ni prosím se mnou.

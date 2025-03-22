@@ -13,9 +13,7 @@ summary_points:
 - Limity UPC Chello nejsou uvedeny v podmínkách, informují emailem.
 - UPC neinformovalo uživatele o zavedení datových limitů dopředu.
 - UPC zrealizovalo přístupové body WiFi v Braníku, Krči a Nuslích.
-title: "'UPC hezky potichoučku zavedlo limit pro kabelový internet Chello"
-
-  '
+title: UPC hezky potichoučku zavedlo limit pro kabelový internet Chello
 ---
 
 <p>

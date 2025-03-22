@@ -13,7 +13,7 @@ summary_points:
 - JavaCard podpora je nová u SIM karet T-Mobile, ale zatím bez využití.
 - T-Mobile by měl odstranit reklamy z webu SMS brány T-Zones.
 - SMS brána T-Zones by měla mít telefonní seznam a archiv SMS zpráv.
-title: "T-Mobile vylepšuje SIM a T-Zones. První pozdě, druhé málo."
+title: T-Mobile vylepšuje SIM a T-Zones. První pozdě, druhé málo.
 ---
 
 <p>

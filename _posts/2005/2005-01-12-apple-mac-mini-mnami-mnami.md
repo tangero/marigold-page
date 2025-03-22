@@ -13,7 +13,7 @@ summary_points:
 - Cena Mac Mini 500 USD je lákavá alternativa k Windows PC.
 - Autor touží po Mac Mini pro psaní, surfování a nenáročné úkoly.
 - Autor vzpomíná na Amiga CDTV a touží po počítači do věže.
-title: "Apple Mac Mini – mňami mňami"
+title: Apple Mac Mini – mňami mňami
 ---
 
 <p>Včera Apple představilo svoji horkou novinku Mac Mini, mrňavoučkou krabičku o velikosti osmi na sebe naskládaných obalů na CDčka. A v krabičce je počítač Mac i s CD-RW/DVD, minimálně 256 MB paměti a 40 GB disku (více za příplatek), procesor od 1,25 GHz. Specifikace a spousta podrobností je <a href="http://www.maler.cz/">u MaLéra</a> a zde na <a href="http://www.apple.com/macmini/">webu Apple.</a></p>

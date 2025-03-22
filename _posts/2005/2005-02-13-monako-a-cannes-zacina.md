@@ -13,7 +13,7 @@ summary_points:
 - GSM kongres v Cannes se stěhuje do Barcelony kvůli vysokým cenám.
 - Kongres 3GSM se zaměří na vysokorychlostní data HSDPA a mobilní obsah.
 - Autor se setkal se švédem z japonské firmy a diskutovali o broadbandu.
-title: "Monako a Cannes začíná"
+title: Monako a Cannes začíná
 ---
 
 <p>Ráno jsme se po snídani zabalili a vyrazili jsme do Monaka, protože do odpoledne, kdy začínají registrace, nebylo beztak co dělat. V neděli jsou pouze fóra členů GSM Asociace, což nikdo z nás není a vstup novinářům je tam zakázán.</p>

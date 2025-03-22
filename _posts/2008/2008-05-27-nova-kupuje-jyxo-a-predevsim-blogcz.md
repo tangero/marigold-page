@@ -17,7 +17,7 @@ summary_points:
 - CME koupila Jyxo (včetně Blog.cz) pro TV Nova za 163-200 milionů Kč.
 - Michal Illich z Jyxo posílí Novu v rozvoji internetových služeb.
 - Blog.cz s 2,5 miliony uživatelů je pro Novu strategická akvizice.
-title: "Nova kupuje Jyxo a především Blog.cz"
+title: Nova kupuje Jyxo a především Blog.cz
 ---
 
 <strong>Update:</strong> David Grudl o číslech Blog.cz pochybuje a poukazuje na robotické generování bložínků. Má k tomu pádné důvody a stojí to za promyšlení... <a href="http://www.latrine.cz/moc-divna-cisla-kolem-blog-cz">čtěte zde...</a>

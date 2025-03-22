@@ -16,7 +16,7 @@ summary_points:
 - Praha 5 dotuje prodej potravin zdarma bez výběrového řízení, což je předražené a
   likvidační.
 - ISP by měli podat stížnost k ÚOHS na projekt Prahy 5 a zvážit právní kroky.
-title: "Obecní samoobsluha – potraviny zdarma"
+title: Obecní samoobsluha – potraviny zdarma
 ---
 
 <p><strong>Noname píše:</strong> diskuse na téma <a href="/item/obecni-samoobsluha-mozkove-cviceni#comments">obecní samoobsluhy</a> se krásně rozjela, děkuji vám. Jak mnozí z vás pochopili, je to analogie k obecnímu internetu. Obce bez obchodu i internetu jsou méně populární, stárnou, hůř se tam pracuje, jsou tam levnější pozemky... a starosta, který prosadí to či ono získá volební body. V podstatě na každé "proč" a "jak" obecního internetu existuje ekvivalent v obecním obchodě (hospodě, kadeřnictví...) a řešení se tedy dají zaměňovat.</p>

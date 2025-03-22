@@ -13,9 +13,7 @@ summary_points:
 - Gadgets.cz komerční význam je nejasný, inzerce na gadgety je v ČR minimální.
 - Gadgets.cz má reklamy na Živé ADSL a Skype sluchátko, důvod vzniku je nejasný.
 - Marek Lutonský uvádí, že Gadgets.cz vzniká ve spolupráci s autorem Supervěci.cz.
-title: "'Blog od nepřátel blogů aneb Gadgets.cz od Cpressu"
-
-  '
+title: Blog od nepřátel blogů aneb Gadgets.cz od Cpressu
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20050516-gadgets.jpg" alt="Gadgets.cz" width="300" height="300" /></div>

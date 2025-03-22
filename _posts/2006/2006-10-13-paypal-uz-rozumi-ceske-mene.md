@@ -13,7 +13,7 @@ summary_points:
 - Přijímání CZK vyžaduje aktivaci měny v nastavení PayPal účtu.
 - Kód měny pro platby v českých korunách přes PayPal je CZK.
 - Poplatky pro příjemce na business účtu činí 10 Kč + 3,2 % z částky.
-title: "PayPal už rozumí české měně"
+title: PayPal už rozumí české měně
 ---
 
 <p>Včera pozdě v noci se PayPal stal plnohodnotným platebním systémem pro český internet. Po možnosti peníze přijímat totiž přidal i možnost pracovat s českou korunou (a pár dalšími měnami). Do té doby mohly převody probíhat v eurech, dolarech a pár dalších měnách. </p>

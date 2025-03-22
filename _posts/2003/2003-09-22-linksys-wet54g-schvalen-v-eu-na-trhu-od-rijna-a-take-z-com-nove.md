@@ -12,7 +12,7 @@ summary_points:
 - Linksys WET54G, klientský adaptér, bude od října dostupný na českém trhu.
 - Z-COM zařízení v normě 802.11g se začnou prodávat v ČR od 1. října.
 - Z-COM je oblíbený mezi CzFree díky softwaru a Linux podpoře.
-title: "Linksys WET54G schválen v EU, na trhu od října. A také Z-Com nově."
+title: Linksys WET54G schválen v EU, na trhu od října. A také Z-Com nově.
 ---
 
 <p>

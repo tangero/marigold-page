@@ -13,7 +13,7 @@ summary_points:
 - RMS funguje na 2G a vyšších sítích bez nutnosti nového telefonu.
 - Hlasový vzkaz se doručí přes SMS notifikaci a zpětné volání na server.
 - Tarifikace RMS pravděpodobně probíhá formou zpoplatněného hlasového hovoru.
-title: "RMS – Rapid Message Service"
+title: RMS – Rapid Message Service
 ---
 
 <p>

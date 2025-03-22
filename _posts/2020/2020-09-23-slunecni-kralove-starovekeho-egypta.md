@@ -12,7 +12,7 @@ summary_points:
 - Popisky exponátů jsou stručné a neposkytují dostatečný kontext pro běžné návštěvníky.
 - Chybí atraktivní exponáty jako zlato, převažují drobné předměty a repliky.
 - Pro děti jsou nejzajímavější interaktivní prvky jako barevné osvětlení a úzké průchody.
-title: "Sluneční králové starověkého Egypta"
+title: Sluneční králové starověkého Egypta
 ---
 
 Nebojte, není to politický jinotaj. Fakt mi jde o malou nezávislou recenzi výstavy Sluneční králové v Národním Muzeu.

@@ -13,7 +13,7 @@ summary_points:
 - Služba je placený FTP server ideální pro menší výměnu souborů.
 - Aktuálně Giga za kilo funguje zdarma v testovacím provozu.
 - Hosting pravděpodobně podporuje web, PHP a možná i SQL.
-title: "Giga za kilo"
+title: Giga za kilo
 ---
 
 <p>

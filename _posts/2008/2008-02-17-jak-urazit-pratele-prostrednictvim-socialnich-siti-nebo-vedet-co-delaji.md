@@ -15,9 +15,7 @@ summary_points:
 - Autor omylem označil kontakty za obchodní, což způsobilo rozhořčení.
 - Spokeo agreguje aktivity kontaktů z různých sociálních sítí, ale nepodporuje české.
 - Spokeo vyhledává velké množství informací, ale vyžaduje propojení kontaktů.
-title: "'Jak urazit přátele prostřednictvím sociálních sítí (nebo vědět, co dělají)"
-
-  '
+title: Jak urazit přátele prostřednictvím sociálních sítí (nebo vědět, co dělají)
 ---
 
 Již nějakou tu dobu používám službu <a href="http://www.plaxo.com">Plaxo</a> - jde o americký server určený původně k uchovávání a aktualizaci obchodních kontaktů, v poslední době se ale rozhodli svést se na vlně zájmu o sociální sítě a přidali rozhraní přetvořené i na ostatní typy kontaktů. V poslední době do toho Plaxo pořádně šlape, v zahraničí a mezi pokrokovými businessmany i u nás je to dost používaná služba a někoho moudrého v Plaxu napadlo, že businessman netouží vést si odděleně business kontakty a přátele a také, že nechce, aby se to nějak směšovalo, což bylo doposaváde jedinou možností, jak obojí v Plaxu vést. 

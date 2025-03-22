@@ -13,7 +13,7 @@ summary_points:
 - WiFi se profesionalizuje a slouží jako poslední článek připojení.
 - Regionální ISP rozšiřují sítě i do odlehlých oblastí, často s optikou.
 - Česko má nejvíce ISP v Evropě, což je unikátní situace.
-title: "WiFi není mrtvé"
+title: WiFi není mrtvé
 ---
 
 <p>V poslední době jsem proputoval pár konferencí, na nichž hlahol šel coby jeden hlas, že WiFi mrtvo jest a není nad spásu v podobě ADSL, případně fajbrtuhoum. I připadal jsem si jak Ježíš, an přišedše do chrámu, zpřevracel stoly penězoměnců a tak je připravil o jejich lehký výdělek. V mém případě jsem sice nepřevracel stoly, ale naruby mínění diváků v sále, když jsem pochmurným hlasem pravil, že na ADSL je koncovým uživatelům sympatický jedině Kraus, ale že z průzkumů, jichž mám já v ruce, pořídiv je pro našeho klienta osobně, mi plynou zlé zprávy. ADSL je považováno za vydřidušskou službu nevalné kvality a pochybného poskytovatele. </p>

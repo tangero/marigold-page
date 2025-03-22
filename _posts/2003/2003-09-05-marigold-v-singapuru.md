@@ -13,7 +13,7 @@ summary_points:
 - Marigold má v Singapuru reklamu na taxiku.
 - Autor neví, co singapurský Marigold propaguje.
 - Autor vtipkuje o novém sloganu pro Marigold.
-title: "Marigold v Singapuru :)"
+title: Marigold v Singapuru  - )
 ---
 
 <p>

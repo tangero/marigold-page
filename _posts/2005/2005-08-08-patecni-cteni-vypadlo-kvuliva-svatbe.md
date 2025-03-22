@@ -13,9 +13,7 @@ summary_points:
 - Autor obdržel dvacet emailů s výčitkami za zrušené čtení.
 - Romanova svatba se vydařila, jen krátce vypadla elektřina.
 - Autor a Martin Zikmund se ztrapnili při natáčení svatebního přání.
-title: "'Páteční čtení vypadlo kvůlivá svatbě"
-
-  '
+title: Páteční čtení vypadlo kvůlivá svatbě
 ---
 
 <p>Omlouvám se za výpadek pátečního čtení o internetovém pravěku. Po pravdě řečeno, mohla za to jednak moje lenost, jednak svatba Romana F, na niž jsem v pátek dorazil. Článek jsem si nepřipravil, protože jsem na jednu stranu čekal, že to stihnu udělat přes den, na druhou stranu jsem netušil, že kdybych to nestihl, mohlo by to někomu zásadně chybět. Opak byl pravdou, dostal jsem asi dvacet emailů, kde jste mi to vyčetli. Omlouvám se a zase v pátek, materiály přeci jen vyžadují větší korekturu. </p>

@@ -13,7 +13,7 @@ summary_points:
 - Formátování recenze se zdrželo kvůli pomalému nahrávání fotek a problémům se softwarem.
 - Autor postrádá jednoduchý WYSIWYG HTML editor s funkcemi pro úpravu obrázků a tabulek.
 - Autor hledá náhradu za starší FrontPage 98 pro snadnou tvorbu HTML stránek.
-title: "Noční zápolení s recenzí"
+title: Noční zápolení s recenzí
 ---
 
 <p>

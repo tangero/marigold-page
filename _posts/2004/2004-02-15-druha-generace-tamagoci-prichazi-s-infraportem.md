@@ -13,7 +13,7 @@ summary_points:
 - Druhá generace Tamagoči má infraport pro vzájemné seznamování.
 - Nová generace Tamagoči bude v Japonsku v březnu za cca 500 Kč.
 - Původní Tamagoči byl jednotvárný a omrzel, propojení je zajímavější.
-title: "Druhá generace Tamagoči přichází – s infraportem"
+title: Druhá generace Tamagoči přichází – s infraportem
 ---
 
 <p>

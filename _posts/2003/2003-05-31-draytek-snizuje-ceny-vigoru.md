@@ -14,7 +14,7 @@ summary_points:
   Kč.
 - Nové ceny routerů Vigor platí od 16. června a jsou koncové bez DPH.
 - Autor odložil update přehledu WiFi techniky kvůli pokládání dlaždiček.
-title: "DrayTek snižuje ceny Vigorů"
+title: DrayTek snižuje ceny Vigorů
 ---
 
 <p>

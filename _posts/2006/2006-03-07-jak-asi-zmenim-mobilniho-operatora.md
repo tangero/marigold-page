@@ -13,7 +13,7 @@ summary_points:
 - Internetové volání je levnější díky sekundové tarifikaci a cenám.
 - Eurotel, T-mobile a Vodafone nabízí tarify kolem 200 Kč.
 - T-mobile se jeví jako nejvýhodnější varianta z nabídek.
-title: "Jak asi změním mobilního operátora"
+title: Jak asi změním mobilního operátora
 ---
 
 <p><strong>Noname píše: </strong>Už tu dlouho nebyl žádný článek, tak jeden hodím v plén. Rozhodl jsem se totiž, že porovnám nabídky mobilních operátorů a zoptimalizuji si svůj účet za mobilní telefon.</p>

@@ -13,7 +13,7 @@ summary_points:
 - Zákazník pípal u vchodu a ochranka ho donutila k prohlídce.
 - Prohlídka odhalila jen běžné osobní věci, omluva neproběhla.
 - Hub byl nakonec zakoupen v Autocontu v Hypernově bez problémů.
-title: 'ElectroWorld: kdo pípá, bude zastřelen?'
+title: ElectroWorld -  kdo pípá, bude zastřelen?
 ---
 
 <p>

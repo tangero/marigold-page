@@ -13,9 +13,7 @@ summary_points:
 - Platba mobilem stojí 20 Kč za 15 minut po registraci SMS.
 - Platba kartou nabízí hodinu za 150 Kč, den za 500 Kč.
 - Uvedené ceny hotspotů platí pouze v tuzemsku, v zahraničí jsou jiné.
-title: "'T-Mobile představil komerční službu HotSpot"
-
-  '
+title: T-Mobile představil komerční službu HotSpot
 ---
 
 <p>

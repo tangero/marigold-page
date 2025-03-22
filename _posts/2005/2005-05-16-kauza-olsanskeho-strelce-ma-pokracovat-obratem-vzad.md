@@ -13,9 +13,7 @@ summary_points:
 - Výpovědi mladíků Račka a Stěhule se rozcházejí, alibi je neprůkazné.
 - Únik spisu mohl pocházet od policie nebo z okolí Berdára.
 - Doporučuje se vyčkat, situace kolem střelby je stále nejasná.
-title: "'Kauza olšanského střelce má pokračovat obratem vzad"
-
-  '
+title: Kauza olšanského střelce má pokračovat obratem vzad
 ---
 
 <p>Hospodářské noviny dnes přinesly přílohu věnovanou střelbě na Gabriela Berdára, šéfa Telecomu. Článek najdete na internetu pod názvem "Nejdříve se zdálo, že Berdár střílel po nevinných lidech..." - má jít o nahlédnutí do policejních protokolů, z nichž by vyplývalo, že oba mladíci (Vladimír Račko a Stanislav Stěhule), na které G. Berdár střílel, se rozcházejí ve svých výpovědích. Také jejich alibi nemá být vůbec tak průkazné a má se rozcházet o dvě hodiny s osudnou událostí. Hospodářské noviny výpovědi považují za nevěrohodné. 

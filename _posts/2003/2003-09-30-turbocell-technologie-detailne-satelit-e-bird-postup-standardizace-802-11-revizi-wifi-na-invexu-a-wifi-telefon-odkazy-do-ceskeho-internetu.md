@@ -13,8 +13,7 @@ summary_points:
 - Satelit e-Bird je určený výhradně pro připojení k internetu a je na oběžné dráze.
 - IEEE 802.11 standardu se schvalují další revize, vývoj mapuje Lupa.
 - WiFi pavilon a přednášky jsou k dispozici na Invexu, informuje Mobil.cz.
-title: "'TurboCell technologie detailně, satelit e-Bird, postup standardizace 802.11"
-  revizí, WiFi na Invexu a&nbsp;WiFi telefon: odkazy do českého internetu'
+title: TurboCell technologie detailně, satelit e-Bird, postup standardizace 802.11 revizí, WiFi na Invexu a WiFi telefon -  odkazy do českého internetu
 ---
 
 <p>

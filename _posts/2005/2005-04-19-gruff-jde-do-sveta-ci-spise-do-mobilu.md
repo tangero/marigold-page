@@ -13,7 +13,7 @@ summary_points:
 - Gruff je motorizované zvířátko, jehož melodii lze objednat SMS zprávou.
 - SMS zprávou lze objednat melodie pro Nokia za 50 Kč na číslo 9070950.
 - Video s Gruffem je ke stažení ve formátu DivX 5.2.1.
-title: "Gruff jde do světa (či spíše do mobilů)"
+title: Gruff jde do světa (či spíše do mobilů)
 ---
 
 <p>Zajímavý koncept mobilního obsahu právě zkouší společnost Googgi, ctěný to můj zákazník. Kromě toho, že nakupuje práva k obrázkům a hudbě se rozhodla vytvořit si vlastní postavičku a k ní kromě grafiky také hudbu. A co víc, to všechno propaguje v televizní reklamě (na Primě). Čímž je to jednou z prvních českých TV reklam na mobilní obsah (vlastně vyjma operátorů).</p>

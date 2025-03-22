@@ -13,7 +13,7 @@ summary_points:
 - Skype Voicemail, hlasová schránka ke Skype účtu, stojí 5/15 Euro za 3 měsíce/rok.
 - Skype 1.2 (0.21) s podporou nových funkcí je dostupný pro betatestery.
 - Skype má 84 milionů uživatelů, milion platí za SkypeOut kredit.
-title: "SkypeIn – příchozí číslo pro Skype, zatím ne české"
+title: SkypeIn – příchozí číslo pro Skype, zatím ne české
 ---
 
 <p>Skype zprovoznil možnost aktivovat si příchozí číslo, tedy takzvaný SkypeIn. Prozatím je možné objednat národní čísla z USA, Velké Británie, Francie a Hong Kongu. Cena je 10 Euro za 3 měsíce nebo 30 Euro za rok. Na dalších číslech se údajně pracuje, jenže s těmi českými, co jsem to tak vyrozuměl to nebude příliš žhavé. </p>

@@ -12,7 +12,7 @@ summary_points:
 - Root.cz byl ráno napaden a hlavní stránka byla změněna.
 - Webová stránka Root.cz je momentálně nedostupná.
 - Autor ironicky doporučuje Windows 2003 .NET server.
-title: "Tak nám oloupali roota"
+title: Tak nám oloupali roota
 ---
 
 <p>

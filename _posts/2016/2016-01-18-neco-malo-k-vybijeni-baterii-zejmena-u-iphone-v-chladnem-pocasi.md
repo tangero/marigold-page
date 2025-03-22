@@ -19,8 +19,7 @@ summary_points:
   C"
 - "\u0158e\u0161en\xED probl\xE9mu s teplotami u modern\xEDch bateri\xED je obt\xED\
   \u017En\xE9, n\u011Bkter\xE9 powerbanky nab\xEDzej\xED NiMH akumul\xE1tory"
-title: ""N\u011Bco m\xE1lo k vyb\xEDjen\xED bateri\xED zejm\xE9na u iPhone\"
-  \ v&nbsp;chladn\xE9m po\u010Das\xED"
+title: N\u011Bco m\xE1lo k vyb\xEDjen\xED bateri\xED zejm\xE9na u iPhone\ \ v chladn\xE9m po\u010Das\xED
 ---
 
 <p>Baterie jsou jako lidi. Nejlépe je jim za pokojové teploty. Když ji nemají, je to problém. Zatímco staré těžké NiCd akumulátory dodávaly spolehlivě elektřinu i v -40°C, moderní Li-Iont baterie s tím mají problém a většina moderních akumulátorů v teplotách pod -20°C nefunguje nebo nefunguje spolehlivě. Čím nižší teplota, tím vyšší je vnitřní odpor baterie a tím těžší je pro baterii chemickou reakcí vyrobit energii.</p>

@@ -13,7 +13,7 @@ summary_points:
 - DirecWay má pokrytí v USA a Evropě, ale v Evropě je drahá instalace a latence.
 - Provoz DirecWay má nejasné limity dat, po jejichž překročení klesá rychlost.
 - Contactel a Tiscali prodávají DirecWay v České republice.
-title: "Satelitní WiFi"
+title: Satelitní WiFi
 ---
 
 <p>

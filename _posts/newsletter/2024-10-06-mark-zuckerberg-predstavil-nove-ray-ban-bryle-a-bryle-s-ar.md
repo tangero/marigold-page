@@ -15,7 +15,7 @@ summary_points:
 - Meta Quest 3S, levnější alternativa, stojí 299 USD a nahrazuje Quest 2/Pro.
 - Meta AI umožňuje hlasovou komunikaci a má 500 milionů uživatelů.
 - Ray-Ban Meta brýle získají AI vylepšení včetně živého překladu.
-title: "\U0001F453Mark Zuckerberg představil nové Ray-Ban brýle a brýle s AR"
+title: \U0001F453Mark Zuckerberg představil nové Ray-Ban brýle a brýle s AR
 ---
 
 Rozšířená, augmentovaná realita, to mají nabídnout nové brýle od společnosti Meta/Facebooku. Novinky představil šéf firmy Mark Zuckerberg na konferenci Meta Connect 2024 25. září 2024. Vezmeme to telegraficky, detailní popis [najdete třeba na Techcrunch](https://techcrunch.com/2024/09/26/meta-connect-2024-orion-glasses-quest-3s-headset-meta-ai-upgrades-ray-ban-meta-real-time-video-and-more-revealed/) a u nás bude dostupnost těchto produktů i využitelnost zatím omezená. 

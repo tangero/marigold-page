@@ -13,7 +13,7 @@ summary_points:
 - Marigold, minoritní akcionář, se valné hromady nezúčastní osobně.
 - Do představenstva Telecomu míří lidé se zkušenostmi ze západních firem.
 - Adam Blecha, spojený s Mobil Media a.s., by měl posílit představenstvo.
-title: "Valná hromada Českého Telecomu rozhodne o kurzu?"
+title: Valná hromada Českého Telecomu rozhodne o kurzu?
 ---
 
 <p>

@@ -14,9 +14,7 @@ summary_points:
 - Gyros-Gr nabízí menu ke stažení, Jackpot/Cottonfield slevové kupony přes Jellingspot.
 - Pět dalších obchodů na Novém Smíchově plánuje zprovoznit Jellingspot.
 - Calypso nabízí zdarma WiFi, stejně jako Český Telecom v Nescafé.
-title: "'Jellingspot se na Novém Smíchově rozšiřuje"
-
-  '
+title: Jellingspot se na Novém Smíchově rozšiřuje
 ---
 
 <p>

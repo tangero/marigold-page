@@ -13,7 +13,7 @@ summary_points:
 - Firma nabízí "SpinWave Technology Book/CD" pro zájemce o technologii.
 - Autor článku si není jistý, zda jde o průlom nebo podvod.
 - Článek doufá, že odborník technologii Vasant corporation zhodnotí.
-title: 'Vasant corp: umíme energii vyrábět zdarma'
+title: Vasant corp -  umíme energii vyrábět zdarma
 ---
 
 <p>

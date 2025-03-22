@@ -13,7 +13,7 @@ summary_points:
 - Club Nokia nikdy nekonkuroval portálům operátorů, byl spíše technologickým demoprojektem.
 - Nokia se na trhu s vyzváněcími tóny a logy neprosadila.
 - Nokia si ponechává pouze obchod s prodejem her pro N-Gage.
-title: "Club Nokia končí s prodejem zvonění, log a java her"
+title: Club Nokia končí s prodejem zvonění, log a java her
 ---
 
 <p>

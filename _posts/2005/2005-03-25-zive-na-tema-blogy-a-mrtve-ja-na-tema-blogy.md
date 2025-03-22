@@ -13,7 +13,7 @@ summary_points:
 - Blogy nejsou jen deníčky, ale různorodé zdroje informací.
 - Blogeři se specializují, mají hlubší znalosti než novináři.
 - Americká armáda hledá blogery pro interní síť.
-title: "Živě na téma blogy (a mrtvě já na téma blogy)"
+title: Živě na téma blogy (a mrtvě já na téma blogy)
 ---
 
 <p>Na Živě dnes vyšel článek <a href="http://www.zive.cz/h/Uzivatel/AR.asp?ARI=122644">Diskutujte na téma: blogy</a>. V. Bednář v něm presentuje protipól k mému názoru, že blogy začínají být čím dál více zajímavým informačním médiem, když říká <i>"že blogy jsou ve skutečnosti zcela okrajovou záležitostí živenou určitou kategorií lidí"</i>.   Nakonec článek uzavírání názorem, se kterým bych z větší části souhlasil: <i>"Tím netvrdím, že blogy a bloggeři zaniknou, ale že se jejich počet v nějaké, zřejmě dohledné době sníží. Tento úbytek aktivně blogujících by se mohl pozitivně odrazit na kvalitě informací jimi prezentovaných. Lidé, kteří se umějí skutečně podělit o své názory a informace, budou ale nejspíše vždy utíkat od deníčků jinam, nebo z nich udělají jen jednu, opět okrajovou, metodu své komunikace s veřejností."</i></p>

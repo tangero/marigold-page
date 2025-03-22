@@ -14,9 +14,7 @@ summary_points:
 - SuperG spojuje dva kanály, což snižuje rychlost standardní WiFi a ruší Bluetooth.
 - Proprietární rozšíření WiFi standardu mohou způsobovat problémy s kompatibilitou
   sítí.
-title: "'Broadcom nadává na Atheros za jeho SuperG technologii"
-
-  '
+title: Broadcom nadává na Atheros za jeho SuperG technologii
 ---
 
 <p>

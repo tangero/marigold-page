@@ -14,9 +14,7 @@ summary_points:
 - 'Požadavek: Čtečka musí chronologicky řadit všechny příspěvky v jednom okně.'
 - Blogportál vyhovuje, ale je určen pro česká RSS kanály.
 - Hledá se tip na RSS čtečku pro Windows s chronologickým řazením.
-title: "'Výběrové řízení na novou RSS čtečku"
-
-  '
+title: Výběrové řízení na novou RSS čtečku
 ---
 
 <p>

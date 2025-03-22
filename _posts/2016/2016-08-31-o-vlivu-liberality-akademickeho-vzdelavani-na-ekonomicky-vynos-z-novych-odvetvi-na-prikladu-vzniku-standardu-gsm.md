@@ -16,8 +16,7 @@ summary_points:
 - Německo a Francie kvůli nedostatku odborníků neuspěly v konkurenci se Skandinávií.
 - Skandinávské firmy jako Ericsson a Nokia dominovaly mobilnímu trhu díky vzdělávacím
   reformám.
-title: "O vlivu liberality akademického vzdělávání na ekonomický výnos z nových"
-  odvětví na příkladu vzniku standardu GSM
+title: O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM
 ---
 
 Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro <a href="https://www.nehnuti.cz">Hnutí NE</a> píše o reformě vzdělávacího systému v Česku, přišla mi jedna kapitolka z knihy jako dobrá ukázka toho, PROČ je reforma vzdělání u nás tak důležitá. Abychom si vědomili, že nejde jen o to, že nějaký báby ve školách budou důstojněji žít a občas tam půjde dělat i chlap, ale abychom si uvědomili, že kvalitně fungující vzdělávání rozhoduje o tom, jak budeme žít o deset a více let později my. A že kvalitní školství není věc "politického programu", kterým se mlátí strany po hlavě, ale životní nutnost, která vyžaduje kontinuitu a shodu "napříč politickým spektrem". 

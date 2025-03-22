@@ -13,7 +13,7 @@ summary_points:
 - Program Folkové Ohře zahrnuje hudbu, šerm, pohádky a křest Hrochovy knihy.
 - Horní hrad (Hauenštejn) se nachází v horách, doporučuje se počítat se změnou počasí.
 - Cesta autem z Prahy na Horní hrad trvá přibližně 1,5 hodiny.
-title: 'Tip na víkend: Folková Ohře na Horním hradě'
+title: Tip na víkend -  Folková Ohře na Horním hradě
 ---
 
 <p>Aby nebylo tipů na víkend málo, přináším ještě jeden a to na Folkovou Ohři. Je v sobotu i v neděli na Horním hradě, <a href="http://www.dronte.cz/index_folkohre.htm">tady najdete všechny programy i dopravní informace</a>, je to cca 1,5 hodiny jízdy autem z Prahy.</p>

@@ -13,9 +13,7 @@ summary_points:
 - Pasivní přístup zastavil šikanu efektivněji než konfrontace.
 - Teroristické útoky vyžadují dlouhodobá opatření, ne rychlá řešení.
 - Integrace a prevence radikalizace jsou klíčové, ale složité na realizaci.
-title: "'Možná si tu hru se cvičkama pamatujete ze základní školy"
-
-  '
+title: Možná si tu hru se cvičkama pamatujete ze základní školy
 ---
 
 Možná si tu hru pamatujete ze základní školy: sebrat spolužákovi pytlík s přezůvkama nebo čepici a rychle to hodit dál, než doběhne. Pokračovat, dokud nedorazí učitelka nebo nezazvoní, pak rychle hodit pytlík či čepici na drátěnou střechu šatny a zdrhat na hodinu. Velká bžunda. 

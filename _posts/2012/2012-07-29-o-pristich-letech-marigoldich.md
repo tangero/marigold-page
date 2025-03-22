@@ -15,7 +15,7 @@ summary_points:
 - Marigold se zaměří na důležitá témata mimo mainstreamová média.
 - Autor se vrací k LTE, mobilním technologiím a rádiovým technologiím.
 - Autor plánuje obsáhlejší články, nový design a Flattr pro Marigold.
-title: "O příštích letech Marigoldích"
+title: O příštích letech Marigoldích
 ---
 
 <p> Je to vlastně na den přesně měsíc, co jsem odešel z Lupy. Užil jsem odpočinku, pohasil problémy tlačené před sebou včetně lahůdek jako vydání osobních dokladů a zbylo i místo, rozmyslet, co bude s Marigoldem dále. </p>

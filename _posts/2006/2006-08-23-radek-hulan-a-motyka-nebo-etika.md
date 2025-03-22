@@ -13,7 +13,7 @@ summary_points:
 - Autor Jagg.cz uvádí, že licence Scuttle umožňuje jeho použití.
 - Hulán dle autora šíří nenávist, výmysly a dezorientuje ostatní.
 - Autor maže Hulánovy komentáře kvůli šíření nenávisti a lží.
-title: "Radek Hulán a Motyka nebo etika"
+title: Radek Hulán a Motyka nebo etika
 ---
 
 <texy><p>Radkovi Hulánovi je to jedno, zda je to motyka nebo etika, hlavně když se tím dá kopnout do lidí, které nesnáší. A tak si na mne vyšlápl v<a href="http://radekhulan.cz/item/jagg-cz-chlubit-se-cizim-perim-je-normalni"> článku, kde tvrdí, že Jagg je neetická záležitost.</a> Prý proto, že jsem dostatečně neoslavil open source projekt <a href="http://scuttle.org">Scuttle</a>, ze kterého vzešel. A že článek vyzněl příliš bombasticky. </p>

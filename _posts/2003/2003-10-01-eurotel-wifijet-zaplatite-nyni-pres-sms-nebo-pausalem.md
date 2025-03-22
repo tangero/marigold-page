@@ -13,9 +13,7 @@ summary_points:
 - Eurotel nabízí datový paušál WiFiJet za 1495 Kč měsíčně se 120 volnými hodinami.
 - Autor považuje datový paušál WiFiJet za drahý a doporučuje spíše GPRS data.
 - T-Mobile inzeruje HotSpot, ale má málo přípojných bodů, což autora zvažuje.
-title: "'Eurotel WiFiJet zaplatíte nyní přes SMS nebo paušálem"
-
-  '
+title: Eurotel WiFiJet zaplatíte nyní přes SMS nebo paušálem
 ---
 
 <p>

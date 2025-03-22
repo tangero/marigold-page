@@ -13,7 +13,7 @@ summary_points:
 - Švédsko a Finsko budou rozhodovat o licencích, CDMA450 má šanci.
 - Skylink v Murmansku zavádí CDMA450 EV-DO síť od ZTE.
 - Argentina zavede CDMA450 síť od ZTE, důraz na hlasové služby.
-title: "CDMA450 na přelomu roku"
+title: CDMA450 na přelomu roku
 ---
 
 <p>Technologie CDMA přenesená do frekvenčního pásma 450 MHz určeného dříve analogovým systémům, je stále na postupu. Podívejme se, co se událo na sklonku roku 2004/5. </p>

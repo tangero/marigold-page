@@ -13,7 +13,7 @@ summary_points:
 - 'Článek sepsán: Článek o mesh sítích je nyní napsán.'
 - 'Diskuse vítána: Autor vyzývá čtenáře k sdílení zkušeností.'
 - 'Odkaz na článek: Článek o mesh sítích je dostupný online.'
-title: "Mesh sítě – jak fungují a co to je, článek zde…"
+title: Mesh sítě – jak fungují a co to je, článek zde…
 ---
 
 <p>

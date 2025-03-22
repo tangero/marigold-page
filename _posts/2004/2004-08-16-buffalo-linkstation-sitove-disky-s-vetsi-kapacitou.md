@@ -13,7 +13,7 @@ summary_points:
 - Buffalo rozšiřuje řadu LinkStation o 160GB a 250GB modely s FTP serverem.
 - LinkStation umožňuje sdílení tiskárny přes USB a je kompatibilní s Win/Mac/Linux.
 - Buffalo LinkStation se pravděpodobně nedováží do Česka, i přes distributora AutoCont.
-title: "Buffalo LinkStation – síťové disky s větší kapacitou"
+title: Buffalo LinkStation – síťové disky s větší kapacitou
 ---
 
 <p>

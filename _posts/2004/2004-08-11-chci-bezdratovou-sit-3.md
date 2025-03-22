@@ -13,7 +13,7 @@ summary_points:
 - Nomadix firma stála u zrodu hot-spotů v roce 1998.
 - Bezdrátové hot-spoty jsou typicky vnitřní prostory, ale i venkovní areály.
 - Vnitřní bezdrátová síť pro domácnost stojí rozumně 1000-1500 Kč na klienta.
-title: "Chci bezdrátovou síť! (3)"
+title: Chci bezdrátovou síť! (3)
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040810-hotspoty.jpg" alt="Trhy pro bezdrátové sítě" width="210" height="173" /></div><p>

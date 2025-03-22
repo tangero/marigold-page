@@ -13,9 +13,7 @@ summary_points:
 - Dědova moudrost říká, že důležití jsou lidé ve skupině, ne její název.
 - Autor byl označen za hlupáka za to, že Hedvíčka nazval spamerem.
 - Autor nechápe označení za neúspěšného mystika, ale s ostatním souhlasí.
-title: "'Proud member of Czech Internet Stupids Group"
-
-  '
+title: Proud member of Czech Internet Stupids Group
 ---
 
 <texy>Občas natrefím na vtipné věci. Například nově jsem narazil na <a href="http://dvoranaslavy.blogspot.com/">Dvoranu slávy hlupáků českého internetu</a>. Mám tu čest být na druhém místě. Má hruď se dme pýchou a kvačím vám toto štěstí zvěstovati, neboť jsem se zařadil po bok takových lidí, jako je František Fuka nebo Adam Javůrek. Proč jsem pyšný? Inu, kdysi jsem se svého moudrého dědy Františka ptal, jestli mu dneska nevadí, že byl komunista.  

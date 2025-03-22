@@ -13,7 +13,7 @@ summary_points:
 - Autor lituje nezachycení vlivu fantasy filmů na mytologii v dřívější práci.
 - Dita tvrdí, že lidé v Matrixu vidí spíše analogie než doslovnou pravdu.
 - Autor zvažuje aktualizaci a publikaci starší práce o fantasy.
-title: "Matrix reloaded"
+title: Matrix reloaded
 ---
 
 <p>

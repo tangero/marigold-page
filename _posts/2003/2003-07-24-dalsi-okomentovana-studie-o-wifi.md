@@ -12,7 +12,7 @@ summary_points:
 - ISDN server publikoval článek o optimistické studii Pyramid Research o WiFi.
 - Budoucnost WiFi je podle studií buď velmi dobrá, nebo velmi špatná.
 - Autor článku si myslí, že budoucnost WiFi bude spíše průměrná.
-title: "Další okomentovaná studie o WiFi"
+title: Další okomentovaná studie o WiFi
 ---
 
 <p>

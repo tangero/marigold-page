@@ -21,7 +21,7 @@ summary_points:
   dovedností.
 - Microsoft a Activision Blizzard čelí antimonopolní žalobě kvůli fúzi za 69 miliard
   dolarů.
-title: "Jednohubky"
+title: Jednohubky
 ---
 
 Chci vám **doporučit nový newsletter Jirky Klimeckého věnovaný výživě** \- jmenuje se [Myšleno výživně](https://jiriklimecky.substack.com/)🙂 Zatím jsou tu dva dobré články, takže subscribněte, ať to autor nevzdá, vypadá, že má co říct. 

@@ -13,7 +13,7 @@ summary_points:
 - Paegas používal slogan "Paegas. Snadné spojení pro každého" jako odpověď Eurotelu.
 - T-Mobile představil nové tarify, které ale nenabídly očekávané inovace.
 - T-Mobile ztrácí atraktivitu kvůli vyšším cenám a srovnatelné kvalitě s konkurencí.
-title: 'Slogany: Oskar. Je to ve vás.'
+title: Slogany -  Oskar. Je to ve vás.
 ---
 
 <p>

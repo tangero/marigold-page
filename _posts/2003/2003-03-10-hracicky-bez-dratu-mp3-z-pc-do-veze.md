@@ -13,7 +13,7 @@ summary_points:
 - Free Music Transplayer přenáší hudbu z PC do věže bezdrátově přes FM.
 - Transplayer vysílá hudbu z PC po FM frekvenci, napájení je přes USB.
 - Cena Transplayeru je 50 USD, v ČR může být jeho používání nelegální.
-title: "Hračičky bez drátů: MP3 z PC do věže"
+title: Hračičky bez drátů -  MP3 z PC do věže
 ---
 
 <p>

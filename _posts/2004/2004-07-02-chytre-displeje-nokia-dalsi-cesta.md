@@ -13,7 +13,7 @@ summary_points:
 - Trh nabízí mobily, mikrokomunikátory, komunikátory, smartphony, PDA a notebooky.
 - Nokia by mohla podkopat koncept chytrých displejů od Microsoftu levnějším řešením.
 - Chytrý displej od Nokie by mohl být dotykový, s WiFi, Bluetooth a snadným ovládáním.
-title: "Chytré displeje Nokia – další cesta?"
+title: Chytré displeje Nokia – další cesta?
 ---
 
 <p>

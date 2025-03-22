@@ -14,7 +14,7 @@ summary_points:
 - Mobilkom získal frekvence pro U-fon nestandardně, ČTÚ nezasáhl včas.
 - ČTÚ dlouhodobě selhává v podpoře virtuálních operátorů v Česku.
 - Český virtuální operátor funguje jako přeprodej existujících služeb s marží.
-title: "Marťan zleva, U-fon zprava a dramata regulátorova"
+title: Marťan zleva, U-fon zprava a dramata regulátorova
 ---
 
 Z podobného soudku, z jakého se vylíhli Paroubkovi marťani, jsou i zbrusu noví u-foni české telekomunikační scény. Ještě nestihli ani prvních pár zákazníků a už se postarali o slušné dusno navíc k tomu, o které se stará okluzní fronta. 

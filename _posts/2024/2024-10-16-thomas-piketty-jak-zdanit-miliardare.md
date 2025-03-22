@@ -14,7 +14,7 @@ summary_points:
 - Nezbytné je nezpochybnitelné zdanění nejbohatších pro řešení sociálních a klimatických
   výzev.
 thumbnail: https://www.challenges.fr/assets/img/2017/06/30/cover-r4x3w1200-5baa35f02b86b-thomas-piketty.jpg
-title: 'Thomas Piketty: Jak zdanit miliardáře'
+title: Thomas Piketty -  Jak zdanit miliardáře
 ---
 
 V polovině října vydal francouzský ekonom Thomas Piketty článek v [Le Monde pod provokativním nápisem "Jak zdanit miliardáře"](https://www.lemonde.fr/blog/piketty/2024/10/15/how-to-tax-billionaires/). Připomeňme si: Piketty je setrvalý sledovatel a kritik narůstající nerovnosti v ekonomice. A autor Kapitálu v 21. století. Nelze se tedy divit, že předkládá radikální návrhy: zdanit plošně francouzské miliardáře alespoň desetiprocentní daní z majetku. 

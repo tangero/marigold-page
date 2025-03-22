@@ -13,9 +13,7 @@ summary_points:
 - Zákazníci UPC nebyli o výpadku a jeho příčinách informováni.
 - UPC navyšuje downstream a snižuje upstream, což nemusí vyhovovat všem.
 - Infolinka UPC potvrdila výpadek a pracuje na jeho odstranění.
-title: "'UPC se rozhodlo dát telekomáckému ADSL šanci"
-
-  '
+title: UPC se rozhodlo dát telekomáckému ADSL šanci
 ---
 
 <p>

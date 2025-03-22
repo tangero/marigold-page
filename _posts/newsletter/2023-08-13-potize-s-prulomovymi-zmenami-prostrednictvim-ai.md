@@ -17,7 +17,7 @@ summary_points:
 - Použití AI ke zvýšení produktivity je pravděpodobné, pokud bude taková možnost existovat.
 - Obecná umělá inteligence (AGI) není dostupná a současná AI má omezené uplatnění
   pro různé úlohy.
-title: "Potíže s průlomovými změnami prostřednictvím AI"
+title: Potíže s průlomovými změnami prostřednictvím AI
 ---
 
 Dnes bude řeč hlavně o umělé inteligence a to poněkud teoreticky. Nakolik je reálné, aby způsobila průlomové změny ve společnosti a masivní transformaci ekonomiky? 

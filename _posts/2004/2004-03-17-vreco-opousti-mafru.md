@@ -14,7 +14,7 @@ summary_points:
 - Vreco se stává společníkem a jednatelem společnosti Expres Stores s.r.o.
 - iDNES opouští poslední člen vedení bývalého Mobil serveru/Mobil Media.
 - Vreco nebude psát pro BonusWeb, herní server, který založil.
-title: "Vreco opouští Mafru"
+title: Vreco opouští Mafru
 ---
 
 <p>

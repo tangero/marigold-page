@@ -15,7 +15,7 @@ summary_points:
 - Do roku 2020 je potřeba uvolnit 1 GHz frekvenčního spektra pro sítě.
 - Uvolnění frekvencí se očekává digitalizací a zánikem analogových sítí v pásmu 470-862
   MHz.
-title: "WRC 07 a požadavky na nové frekvence pro mobilní služby"
+title: WRC 07 a požadavky na nové frekvence pro mobilní služby
 ---
 
 Do zasedání světové radiokomunikační konference zbývá ještě tři čtvrti roku, ale 3GSM kongres v Barceloně byl příhodný moment, kdy se začly na světlo vytahovat požadavky, jimiž by se WRC 07 mělo zabývat. Důvod je na snadě. Letošní zasedání se má věnovat plánování radiových frekvencí a pokud nějaká služba má mít šanci na "harmonizovanou frekvenci" - tedy na více či méně globálně platnou frekvenční výměru, měla by se o svůj příděl hlásit právě na letošním WRC. Další šance přijde až na zasedání v roce 2011.

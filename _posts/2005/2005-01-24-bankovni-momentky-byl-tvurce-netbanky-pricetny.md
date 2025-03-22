@@ -13,7 +13,7 @@ summary_points:
 - Patria poskytla certifikát XETRA nejdříve na disketě, poté na CD.
 - Živnobanka (UniCredit) má problémy s funkčností internetového bankovnictví Netbanka.
 - Netbanka vyžaduje specifickou verzi JVM a má problémy s registrací certifikátu.
-title: 'Bankovní momentky: byl tvůrce NetBanky příčetný?'
+title: Bankovní momentky -  byl tvůrce NetBanky příčetný?
 ---
 
 <p>Měl jsem tři bankovní momentky v průběhu minulého týdne, které na mne zanechaly nesmazatelné stopy. Tak zaprvé jsem se rozhodl otevřít si <a href="http://www.e-broker.cz/">eBroker </a> účet u Fio, protože jsem potřeboval nakoupit nějaké akcie na XETRA, německé burze - a to mi můj účet u Ameritrade neumožňuje. Myslel jsem, že to vyřídím, jak češi říkají, ajn-cvaj. Vyřídil. Naklusal jsem do Fio, vystál jsem si frontičku, dal jsem slečně občanku, úlisně pravil, že chci otevřít eBroker účet a ona popatřila na občanku s ustříhlým rohem a přilepeným papírem, že jsem ženat. A děla, že s tímto mi neotevře ničeho, ledaže dveře. I byl jsem hotov, jak češi říkají, ajn-cvaj. A taky jsem pochopil, proč mi PH v prosinci dával přednášku o tom, že svatba je jen obrovské bumážkování a jinak nic. </p>

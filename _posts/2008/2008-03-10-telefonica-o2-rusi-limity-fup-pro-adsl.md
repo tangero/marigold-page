@@ -16,7 +16,7 @@ summary_points:
 - Zrušení FUP umožňuje implementace nových technologií v síti.
 - Agregace dat 1:50 je klíčová technologie pro zrušení FUP.
 - Zrušení FUP je krok ke zkvalitnění ADSL datových služeb.
-title: "Telefonica O2 ruší limity FUP pro ADSL"
+title: Telefonica O2 ruší limity FUP pro ADSL
 ---
 
 No vida, že to jde. Telefonica dnes oznámila, že ruší limity FUP pro všechny staré i nové zákazníky ADSL a to od prvního dubna. Snad to není apríl, protože jestli ne, tak bychom rovnou mohli říci, že je to dobrá zpráva. I když můžeme dodat, že mohla přijít dříve, díky za to, že vůbec přišla. 

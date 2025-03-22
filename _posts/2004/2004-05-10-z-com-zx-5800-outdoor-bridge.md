@@ -13,7 +13,7 @@ summary_points:
 - Cena Z-COM ZX-5800 je kolem 20 000 Kč za kus bez DPH u i4shop.
 - ČTÚ omezuje vyzářený výkon 5GHz na 25mW EIRP, což omezuje dosah zařízení.
 - Zařízení 802.11a se nedoporučuje kvůli omezením ČTÚ a nízkému dosahu.
-title: "Z-COM ZX-5800 Outdoor Bridge"
+title: Z-COM ZX-5800 Outdoor Bridge
 ---
 
 <p>

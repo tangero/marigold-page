@@ -13,8 +13,7 @@ summary_points:
 - Quattro vytvořil zapojení, které "kousnutý" modem automaticky restartuje.
 - Čejetická komunitní síť sdílí CDMA připojení přes WiFi a radí reklamaci.
 - Eurotel modemy s problémem vypínání vymění do sedmi dnů od nákupu.
-title: "Hardwarové řešení zakousávajících se CDMA modemů a první komunitní síť"
-  připojená přes CDMA
+title: Hardwarové řešení zakousávajících se CDMA modemů a první komunitní síť připojená přes CDMA
 ---
 
 <p>

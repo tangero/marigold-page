@@ -13,7 +13,7 @@ summary_points:
 - EDGE je označováno jako 2.75G, HSDPA je 3.5G a HSUPA je 3.75G.
 - USA a Asie mají pokročilejší mobilní technologie než zbytek světa.
 - Asie má velmi rychlé mobilní datové sítě, o kterých se nám může zdát.
-title: "Mobilní generace"
+title: Mobilní generace
 ---
 
 <p>

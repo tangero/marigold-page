@@ -15,9 +15,7 @@ summary_points:
 - Obchodník s projekt manažerem halasně zdraví autora na recepci.
 - Autoři si myslí, že autor přišel doladit jejich projekt pro firmu.
 - Šéf společnosti slyšel omylem konverzaci o projektu.
-title: "'Není dobrý sedět prdelí na více židlích"
-
-  '
+title: Není dobrý sedět prdelí na více židlích
 ---
 
 Občas mě to dožene. Jako nedávno. Šel jsem na schůzku s šéfem jedné společnosti, vyptával jsem se, co nového, co starého, co ty nové a budoucí projekty, výsledky, předpoklady. Tak, jako vždycky. Dotyčný brousil opatrně kolem, sem-tam ťuknul, konkrétního neřekl vcelku nic, jak už to tak bývá. 

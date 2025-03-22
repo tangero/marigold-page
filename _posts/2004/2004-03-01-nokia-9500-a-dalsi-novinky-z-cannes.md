@@ -15,7 +15,7 @@ summary_points:
 - Sendo X600 se Symbianem zaujal atraktivním grafickým provedením Series 60.
 - Motorola MPx má nepraktickou klávesnici, ale může vyhovovat uživatelům preferujícím
   menší rozměry.
-title: "Nokia 9500 a další novinky z Cannes"
+title: Nokia 9500 a další novinky z Cannes
 ---
 
 <p>

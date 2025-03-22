@@ -13,7 +13,7 @@ summary_points:
 - NTT DoCoMo vyvíjí Super 3G jako přechod k 4G kolem roku 2010.
 - Super 3G má nabídnout rychlost 30-100 Mb/s, nízkou latenci a levnou migraci.
 - NTT DoCoMo pracuje souběžně na Super 3G, 4G, HSDPA a OFDM technologiích.
-title: "Super 3G – když 3G není dost"
+title: Super 3G – když 3G není dost
 ---
 
 <p>

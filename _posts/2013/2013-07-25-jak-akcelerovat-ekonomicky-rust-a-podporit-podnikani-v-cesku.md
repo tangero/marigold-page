@@ -13,7 +13,7 @@ summary_points:
 - Podnikatelské prostředí se zhoršuje kvůli nadměrnému a nesmyslnému papírování.
 - Státní pobídky se zaměřují na tradiční průmysl, ignorujíce potenciál IT a inovací.
 - Česko potřebuje snížit administrativní zátěž a podporovat rozmanitost pro konkurenceschopnost.
-title: "Jak akcelerovat ekonomický růst a podpořit podnikání v Česku"
+title: Jak akcelerovat ekonomický růst a podpořit podnikání v Česku
 ---
 
 <p>Tohle téma je taková Bartošová české politiky - vrací se pořád dokola, debatuje se o tom, všichni se tváří nadšeně, ale ve skutečnosti to snad ani nechtějí. Vláda nás tu a tam ohromí prohlášením o podpoře ekonomického růstu a podnikání, na což už vlastně ani nemá smysl reagovat, protože většinou je to buďto rovnou snůška nesmyslů nebo něco, co víc, než podporu, připomíná buzeraci navíc.</p>

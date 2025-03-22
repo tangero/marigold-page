@@ -13,7 +13,7 @@ summary_points:
 - Jiří Bílek v Hádankách metodicky probírá sporné body české historie.
 - Bílek uvádí různé názory historiků a důkazy bez prosazování vlastních.
 - Autor recenze v knize našel odpovědi na otázky o raném přemyslovském státu.
-title: 'Kniha na dlouhé chvíle: Hádanky naší minulosti'
+title: Kniha na dlouhé chvíle -  Hádanky naší minulosti
 ---
 
 Nejsem žádný knižní recenzent, ačkoliv se sluší říci, že pár knížek jsem za svůj život přečetl. Tuhle zmíním proto, že mne zaujala a také proto, že v knihkupectví ji najdete zpravidla tam, kde byste ji přešli s opovržením. 

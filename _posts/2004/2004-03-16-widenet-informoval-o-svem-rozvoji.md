@@ -14,7 +14,7 @@ summary_points:
 - WideNet zavádí indoor pokrytí pomocí WDS v provozovnách blízko svých přípojných
   bodů.
 - WideNet má v plánu zasíťovat dalších 100 provozoven v dohledu své sítě.
-title: "WideNet informoval o svém rozvoji"
+title: WideNet informoval o svém rozvoji
 ---
 
 <p>

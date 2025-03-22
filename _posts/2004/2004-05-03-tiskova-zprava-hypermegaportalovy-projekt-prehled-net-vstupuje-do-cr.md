@@ -13,7 +13,7 @@ summary_points:
 - Investice do Přehled.net přesáhly 400 Kč, nejvíce za doménu.
 - Přehled.net je agregátor technického zpravodajství, analyzuje zprávy z českých serverů.
 - Ajoj Time Warning plánuje veřejný úpis akcií v americkém Nazdar.
-title: 'Tisková zpráva: Hypermegaportálový projekt Přehled.net vstupuje do ČR'
+title: Tisková zpráva -  Hypermegaportálový projekt Přehled.net vstupuje do ČR
 ---
 
 <p>

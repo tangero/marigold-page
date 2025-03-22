@@ -13,7 +13,7 @@ summary_points:
 - Sony vyvíjí WiFi televizi, základnovou stanici s WiFi a odnímatelným LCD displejem.
 - WiFionline.net recenzuje ethernet adaptéry LinkSYS WET11 a Zcom XI-500A sma-r.
 - Telefonie.cz přináší postřehy z posílání SMS na pevnou linku, s rozpaky.
-title: "Drobky: WiFi televize, recenze ethernet wifi adaptérů, SMS z pevné linky"
+title: Drobky -  WiFi televize, recenze ethernet wifi adaptérů, SMS z pevné linky
 ---
 
 <p>

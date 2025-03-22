@@ -13,7 +13,7 @@ summary_points:
 - Starší obyvatelé Marigoldu mají potíže s nákupy kvůli vzdálenosti a dopravě.
 - Ztráta obchodu snižuje hodnotu pozemků a pouto obyvatel k obci Marigold.
 - Firmy v Marigoldu řeší stravování zaměstnanců, hospoda nestačí.
-title: "Obecní samoobsluha – mozkové cvičení"
+title: Obecní samoobsluha – mozkové cvičení
 ---
 
 <p><strong>Noname píše:</strong> Jako takové odlehčení a zároveň velmi důležité procvičení při našem workshopu o obecním internetu mám pro vás jeden úkol: vyřešit problém obecní samoobsluhy:

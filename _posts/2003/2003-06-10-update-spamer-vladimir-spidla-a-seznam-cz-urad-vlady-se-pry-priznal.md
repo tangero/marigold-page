@@ -13,8 +13,7 @@ summary_points:
 - Úřad vlády si objednal kampaň rozesílání e-mailů přes agenturu.
 - Špidla se distancoval od e-mailů vyzývajících k účasti na referendu o EU.
 - Špidla rozesílal spam a znemožnil odpovědi, schránka spidla.vladimir@seznam.cz neexistuje.
-title: "'Update: Spamer Vladimír Špidla a Seznam.cz – Úřad vlády se prý"
-  přiznal&#8230;'
+title: Update -  Spamer Vladimír Špidla a Seznam.cz – Úřad vlády se prý přiznal…
 ---
 
 <p>

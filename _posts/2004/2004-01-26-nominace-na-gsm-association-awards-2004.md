@@ -14,7 +14,7 @@ summary_points:
   T610.
 - Best Mobile Application zahrnuje školní připojení, m-parking, Shazam a SMART Load.
 - Autor preferuje Shazam nebo Mobilkom a z mobilů Treo 600.
-title: "Nominace na GSM Association Awards 2004"
+title: Nominace na GSM Association Awards 2004
 ---
 
 <p>

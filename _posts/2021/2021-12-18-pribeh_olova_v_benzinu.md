@@ -15,8 +15,7 @@ summary_points:
 - Průmysl ignoroval varování vědců kvůli ziskům.
 - 'Poučení: technologický pokrok může mít katastrofální vedlejší účinky.'
 thumbnail: https://www.etaletaculture.fr/wp-content/uploads/2014/01/thomas-midgley.jpg
-title: "Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana"
-  Midgleyho mladšího vztažený k dnešní umělé inteligenci
+title: Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci
 ---
 
 Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. Jako ukázka, že lidská zvídavost, představivost a um mají svoje nečekané hranice. V dnešním příběhu si spojíme olovo v benzínu s umělou inteligencí.

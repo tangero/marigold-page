@@ -16,7 +16,7 @@ summary_points:
 - LTE má vyšší efektivitu využití spektra než WiFi, ale může mít problémy s soužitím
   s WiFi.
 - Cena a změna poměrů na trhu jsou klíčové problémy spojené s implementací LTE-U.
-title: "LTE-Unlicenced, o co jde v případě LTE v nelicencovaném pásmu"
+title: LTE-Unlicenced, o co jde v případě LTE v nelicencovaném pásmu
 ---
 
 Vize provozu LTE v nelicencovaném pásmu je stará pět let, nakonec ji ale představil Qualcomm a Ericsson koncem roku 2013.  Od té doby se neví přesně, zda jde o myšlenku heretickou nebo spásnou. Jak tedy?

@@ -24,7 +24,7 @@ summary_points:
   Claude.
 - Emad Mostaque, CEO Stability AI, vytvořil Stable Diffusion, model s otevřeným zdrojovým
   kódem.
-title: "Kdo je kdo v AI"
+title: Kdo je kdo v AI
 ---
 
 Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle významnosti, druhé podle vlivu, třetí jako alternativu k prvnímu. 

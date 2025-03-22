@@ -13,7 +13,7 @@ summary_points:
 - Hutchison Whampoa má 1.73 milionu 3G uživatelů s vysokými akvizičními náklady.
 - Rumunský Zapp spustil Zapp Me, první evropskou implementaci BREW v CDMA450.
 - Ericsson očekává výrazné zlepšení WCDMA sítí s HSDPA technologií v roce 2006.
-title: "3G Týden: 3G v Cannes, Hutchison výsledky, Ericsson a HSDPA"
+title: 3G Týden -  3G v Cannes, Hutchison výsledky, Ericsson a HSDPA
 ---
 
 <H4>Videohovory v národních sítích</H4>

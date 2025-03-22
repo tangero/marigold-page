@@ -13,7 +13,7 @@ summary_points:
 - Autor utřídil údaje o používání 5 GHz pásma v ČR.
 - Článek obsahuje i informace o dalších generálních licencích.
 - Článek "Licence ČTÚ pro provoz radiových zařízení" je dostupný online.
-title: "Jak je to s používáním 5 GHz pásma pro WiFi"
+title: Jak je to s používáním 5 GHz pásma pro WiFi
 ---
 
 <p>

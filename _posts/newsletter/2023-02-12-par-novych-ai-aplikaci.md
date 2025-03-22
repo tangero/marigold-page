@@ -17,7 +17,7 @@ summary_points:
 - Usechannel analyzuje data z databáze pomocí anglických dotazů bez SQL.
 - Papercup rychle nadabuje videa pomocí umělé inteligence.
 - Youtube Summary Plugin shrnuje dlouhá výuková videa pomocí ChatGPT.
-title: "\U0001F916Pár nových AI aplikací"
+title: \U0001F916Pár nových AI aplikací
 ---
 
 Svět generativního AI se intenzivně rozvíjí a každý týden se objevují nové zajímavé služby. Tady jich pár je. 

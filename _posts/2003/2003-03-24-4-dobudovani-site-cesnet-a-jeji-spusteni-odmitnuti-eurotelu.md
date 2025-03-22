@@ -13,7 +13,7 @@ summary_points:
 - FESNET se přejmenoval na CESNET po rozdělení Československa a vzniku SANET.
 - CESNET měl hvězdicovou topologii se dvěma centry v Praze a Brně.
 - CESNET slavnostně zahájil provoz 15. června 1993 s uzly v 11 městech.
-title: "4. Dobudování sítě CesNet a její spuštění, odmítnutí EuroTelu"
+title: 4. Dobudování sítě CesNet a její spuštění, odmítnutí EuroTelu
 ---
 
 Jak probíhalo budování sítě CesNet, proč byl odmítnut EuroTel se svojí veřejnou datovou sítí? Rozdělení federace a dopad na akademickou síť, vznik metropolitních sítí.Shrnutí minulosti CesNetu až do jeho spuštění v roce 1993.<!--more--><H4>Pronájem VDS EuroTelu se nevyplatí</H4>

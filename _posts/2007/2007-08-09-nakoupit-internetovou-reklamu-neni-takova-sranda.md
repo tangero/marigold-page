@@ -13,9 +13,7 @@ summary_points:
 - PPC systémy jako Sklik a AdWords jsou pro masový zásah drahé.
 - Bannerová reklama se přepočítává na CPV, což odhaluje vysoké náklady.
 - Seznam nabízí největší zásah za výhodnějších podmínek než konkurence.
-title: "'Nakoupit internetovou reklamu není taková sranda"
-
-  '
+title: Nakoupit internetovou reklamu není taková sranda
 ---
 
 Abych byl přesnější, nakoupit ji dobře není taková sranda. Než se začnete usmívat, že neumím používat Sklik a AdWords, trochu upřesním problém. 

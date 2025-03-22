@@ -13,7 +13,7 @@ summary_points:
 - CzechTek znevěrohodnil policii a rozdělil společnost zhruba půl na půl.
 - Policie si v souvislosti s CzechTekem účelově přibarvovala informace a lhala.
 - Náměstek policejního prezidenta Husák popřel vhazování slzného plynu do vozů.
-title: 'Nejvíce CzechTek poškodil policii:  ukázal ji jako nedůvěryhodnou'
+title: Nejvíce CzechTek poškodil policii -  ukázal ji jako nedůvěryhodnou
 ---
 
 <p>Nejdříve ta dobrá zpráva. Policista David, který dostal kamenem do krku a už to vypadalo, že bude do konce života na vozíčku, bude podle lékařů chodit a neodnese si trvalé následky. I patnáctiletá Eva, která má rozdrcené kosti v ruce, si zřejmě neodnese žádné trvalé následky. To jsou také poslední dobré zprávy, které můžeme kolem CzechTeku spatřit. </p>

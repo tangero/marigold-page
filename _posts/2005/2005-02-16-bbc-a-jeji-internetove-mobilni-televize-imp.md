@@ -13,7 +13,7 @@ summary_points:
 - iMP umožňuje sledovat pořady BBC až sedm dní zpětně.
 - Služba iMP je zdarma, protože uživatelé platí koncesionářské poplatky.
 - Text se ptá, zda by se Česká televize mohla inspirovat službou iMP.
-title: "BBC a její internetově mobilní televize iMP"
+title: BBC a její internetově mobilní televize iMP
 ---
 
 <p>BBC právě v Cannes představila službu iMP -

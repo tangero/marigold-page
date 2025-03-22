@@ -13,8 +13,7 @@ summary_points:
 - Uživatelé ADSL od Telecomu hlásí problémy s logováním na dashboard.
 - Analytici Forresteru předpovídají lepší prodejnost bluetooth, vyšší výdělky z WiFi.
 - Blog se možná přejmenuje na Marígold, v souladu s bloggerskými trendy.
-title: "Era nabídne digitální podpis mobilem, ADSL u Telecomu začalo s prázdninami"
-  zlobit
+title: Era nabídne digitální podpis mobilem, ADSL u Telecomu začalo s prázdninami zlobit
 ---
 
 <p>

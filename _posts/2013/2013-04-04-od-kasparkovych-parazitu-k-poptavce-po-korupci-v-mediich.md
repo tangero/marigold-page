@@ -15,7 +15,7 @@ summary_points:
 - OSVČ mají nižší daně kompenzované menším sociálním zabezpečením a právní ochranou.
 - Podnikatelské riziko OSVČ je vyšší než riziko zaměstnance, který má odbory.
 - Korupce je větší problém než zdanění OSVČ, odvádí pozornost od rozpočtových deficitů.
-title: "Od Kašpárkových parazitů k poptávce po korupci v médiích"
+title: Od Kašpárkových parazitů k poptávce po korupci v médiích
 ---
 
 <p>Mám rád články, které mne inspirují, i když s nimi nesouhlasím a nejraději mám ty inspirující, se kterými souhlasím. Michalu Kašpárkovi se daří to druhé, tentokráte jsme ale u první zaznamenané výjimky. Jeho článek <a href="http://www.penize.cz/dan-z-prijmu/252276-ani-paraziti-ani-sul-zeme-at-zivnostnici-plati-podobne-jako-zamestnanci">"Ani paraziti, ani sůl země. Ať živnostníci platí podobně jako zaměstnanci"</a> je kromobyčejnou snůškou nesmyslů i logických faulů a zajímavé je, že jak se na Twitteru ukázalo, autor si to neuvědomuje. Nicméně, je to dobrý start k jinému přemýšlení, mnohem důležitějšímu.</p>

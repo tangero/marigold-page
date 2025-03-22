@@ -13,7 +13,7 @@ summary_points:
 - Nokia 9310, nástupce 9210, bude mít Series 90, MMS, fotoaparát a GPRS.
 - Nokia chce Series 90 licencovat dalším firmám, cílí na plné klávesnice.
 - Trh s PDA nebyl pro Nokii prioritou, Symbian 6 neměl GPRS podporu.
-title: "Nokia Series 90"
+title: Nokia Series 90
 ---
 
 <p>

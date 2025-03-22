@@ -13,7 +13,7 @@ summary_points:
 - Martin si objednal jablečnou taštičku, autor donut, ačkoliv je ředitel v obleku.
 - Martin si během jídla několikrát ušpinil oblek a košili od marmelády.
 - Autor se smál Martinově nešikovnosti a později mu příhodu poslal ke schválení.
-title: "Mekáč po manažersku: rizika jablečné taštičky"
+title: Mekáč po manažersku -  rizika jablečné taštičky
 ---
 
 <p>

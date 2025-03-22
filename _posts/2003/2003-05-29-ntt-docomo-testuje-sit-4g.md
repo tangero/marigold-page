@@ -13,7 +13,7 @@ summary_points:
 - G od DoCoMo dosahuje rychlosti 100 Mbps download a 20 Mbps upload.
 - Testují se VSF-OFCDM a VSF-CDMA pro přenos dat v síti 4G.
 - Mezi zkoušené technologie patří adaptivní modulace a retransmisní kontrola.
-title: "NTT DoCoMo testuje síť 4G"
+title: NTT DoCoMo testuje síť 4G
 ---
 
 <p>

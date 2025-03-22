@@ -14,8 +14,7 @@ summary_points:
   spotřeby.
 - Pochybnosti o NATO pramení z nedostatečné reflexe jeho intervencí a jejich dlouhodobých
   dopadů.
-title: "Nejvíce věříme Rusku … tedy to úplně ne, ale proč tolik alternativních"
-  pohledů?
+title: Nejvíce věříme Rusku … tedy to úplně ne, ale proč tolik alternativních pohledů?
 ---
 
 Podle průzkumu nejvíce věříme Rusku. Tedy, <a href="http://www.iri.org/sites/default/files/four_country_full_presentation_may_24_2017.pdf">průzkum to neříká zdaleka takhle</a>, ale řada novin si to interpretovala tímto směrem, což samo o sobě je signál. Na první pohled je to z pražské redakce těžké pochopit. Zkusím vám dát druhý pohled z brandýského záhumenku.

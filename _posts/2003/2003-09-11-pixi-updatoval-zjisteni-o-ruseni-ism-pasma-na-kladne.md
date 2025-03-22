@@ -13,7 +13,7 @@ summary_points:
 - KLFreeNet občanské sdružení se distancuje od rušení a obcházení zákonů.
 - Původní komunitní síť KLFreeNet se rozdělila na sdružení a samostatné skupiny.
 - Rozlišování mezi budovateli sítě ze zájmu a hledači výdělku je obtížné.
-title: "Pixi updatoval zjištění o rušení ISM pásma na Kladně"
+title: Pixi updatoval zjištění o rušení ISM pásma na Kladně
 ---
 
 <p>

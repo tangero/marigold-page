@@ -13,7 +13,7 @@ summary_points:
 - Žádná škoda na autě nevznikla, ale poškozena byla pověst taxislužby.
 - Taxikář mluvil česky a lámavou angličtinou, turisté nerozuměli.
 - Autor doufá v odplatu od podnapilých anglických turistů.
-title: "Jsme fakt východ"
+title: Jsme fakt východ
 ---
 
 <p><b>Oook píše:</b>Když jsem v pátek spěchal v Praze na letiště, viděl jsem melou

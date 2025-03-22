@@ -13,9 +13,7 @@ summary_points:
 - T-Mobile mění systém dotací, protože nepodporují věrnost zákazníků.
 - Snížení dotací má vést ke snížení cen a novým tarifům po vzoru USA.
 - Obermann vyzývá k radikálnímu snížení roamingových poplatků v Evropě.
-title: "'Šéf T-Mobile René Obermann proti dotacím telefonů"
-
-  '
+title: Šéf T-Mobile René Obermann proti dotacím telefonů
 ---
 
 <p>Nejvyšší šéf skupiny T-Mobile René Obermann se včera na diskusním panelu pekně rozpovídal. Tak zaprvé je podle něj potřeba ukončit dotování mobilních telefonů, protože v době stoprocentních penetrací ztratilo svůj historický význam generovat růst celého odvětví. Podle Obermanna bude třeba zvolit jiné postupy na takových trzích, jako je Británie, Portugalsko či Švédsko, kde penetrace mobilů přesáhly sto procent.</p>

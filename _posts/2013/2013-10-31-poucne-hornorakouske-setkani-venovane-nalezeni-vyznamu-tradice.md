@@ -13,9 +13,7 @@ summary_points:
 - Komunismus v Česku zničil tradice, což je nejhorší důsledek vlády.
 - Rakousko udržuje staré domy, zatímco Česko preferuje renovace.
 - Čechům chybí živé tradice, což se projevilo při srovnání s Rakouskem.
-title: "'Poučné hornorakouské setkání věnované nalezení významu tradice"
-
-  '
+title: Poučné hornorakouské setkání věnované nalezení významu tradice
 ---
 
 <p>První zářiový víkend jsem trávil rodinně, což v tomto případě znamenalo tradiční straz bratranců a sestřenic. Bývají to velmi poučná setkání.</p>

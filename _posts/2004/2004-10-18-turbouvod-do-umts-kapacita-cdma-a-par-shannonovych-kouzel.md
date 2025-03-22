@@ -17,7 +17,7 @@ summary_points:
 - Shannonova teorie určuje maximální kapacitu kanálu dle šumu, signálu a šířky pásma.
 - CDMA využívá kódové rozprostření do spektra, široký kanál a nízký poměr signál/šum.
 - UMTS s 5 MHz kanálem má teoretickou kapacitu 20 Mb/s, reálně méně.
-title: "Turboúvod do UMTS: Kapacita, CDMA a pár Shannonových kouzel"
+title: Turboúvod do UMTS -  Kapacita, CDMA a pár Shannonových kouzel
 ---
 
 <p>

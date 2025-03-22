@@ -13,7 +13,7 @@ summary_points:
 - Autor s Ditou navštívili RedBull Káry na Petříně, kde bylo 50 000 lidí.
 - Autor pořídil fotografie na RedBull Káry, dostupné online.
 - Autor dokončil psaní své WiFi bible, kterou brzy předá vydavateli.
-title: "RedBull Káry a jiné radosti"
+title: RedBull Káry a jiné radosti
 ---
 
 <p>

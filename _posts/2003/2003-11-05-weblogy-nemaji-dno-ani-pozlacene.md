@@ -13,7 +13,7 @@ summary_points:
 - Mobilní operátoři rozšíří blogy, ale finanční efekt to nepřinese.
 - Weblogy budou osobní deníčky nebo oborové webziny s osobním pohledem.
 - Weblogy přináší vedlejší efekt, propagaci a menší přivýdělek, ne zbohatnutí.
-title: "Weblogy nemají dno ani pozlacené"
+title: Weblogy nemají dno ani pozlacené
 ---
 
 <p>

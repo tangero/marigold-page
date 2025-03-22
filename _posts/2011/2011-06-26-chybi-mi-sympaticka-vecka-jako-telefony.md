@@ -16,9 +16,7 @@ summary_points:
 - Véčkové telefony kvalitního provedení jsou v současnosti na trhu nedostatkové zboží.
 - Zvažuje nákup starší Motoroly V9 z eBay, ale obává se cla z Hongkongu.
 - Autor se ptá, zda je o kvalitní "nechytré" véčkové telefony malý zájem.
-title: "'Chybí mi sympatická véčka jako telefony"
-
-  '
+title: Chybí mi sympatická véčka jako telefony
 ---
 
 Mám pro "véčka" jako mobilní telefony slabost. Většinou mám "hloupý" mobil jako "hlavní záložní" a když to jde, je to véčko. Abych to upřesnil, z nejrůznějších důvodů mi rukami protékají všechny možné i nemožné současné mobily, takže je většinou nosím jako "hlavní", aby je "zažil". Jenže takový Androidí mid-range telefon mi vydrží do lehkého odpoledne, pak je grogy a dojde mu štáva, přichází pak nutnost vyměnit jej za "hlavní záložní", což bývá ten hloupý mobil. Dlouho jsem měl Motorolu V8, tu jsem nedávno posunul dále, používám Nokii N8, ale ta má své potíže: baterka jí u mně taky rychle dojde. Holt problém smartphone. Takže jsem zase v procesu hledání "hloupého telefonu". A musím si postěžovat, není to jednoduché. 

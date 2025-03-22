@@ -18,8 +18,7 @@ summary_points:
 - Problém postihl platící zákazníky Crowdstrike, paradoxně ty zodpovědnější.
 - Microsoft se dříve pokusil omezit přístup k jádru, ale narazil na odpor.
 - Šéf Crowdstrike, George Kurtz, zažil podobnou havárii i ve firmě McAfee.
-title: "☠️ Nebyl to kyberútok, ale kyberkatastrofa. Crowdstrike. Co bylo za ním, co"
-  s ním?
+title: ☠️ Nebyl to kyberútok, ale kyberkatastrofa. Crowdstrike. Co bylo za ním, co s ním?
 ---
 
 Chvíli to páteční ráno vypadalo jako vydařený kyberútok. Zapnuté počítače náhle nebyly schopné zavést operační systém a hroutily se do modré obrazovky smrti. Pracovníci bank, nemocnic a dalších institucí se nemohli dostat do počítačů. V Austrálii havarovaly samoobslužné pokladeny. Ve Velké Británii musela televize Sky News přerušit vysílání poté, co začaly havarovat servery a počítače na odbavovacích pracovištích. V Hongkongu a Indii začaly selhávat odbavovací přepážky na letištích. Než nastalo ráno v USA, zhroutily se miliony počítačů se systémem Windows a nastala globální technická katastrofa.

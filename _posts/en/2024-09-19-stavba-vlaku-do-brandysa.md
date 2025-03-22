@@ -14,9 +14,8 @@ post_excerpt: On Monday, the Brandýs-Boleslav City Council unanimously approved
   take a long time in the Czech Republic, you can read here why it took so long just
   to understand each other.
 thumbnail: https://www.marigold.cz/assets/taky-mame-mobil-na-hriba.jpg
-title: "'Building the train to Brandýs: when everyone has a pitchfork in their closet,"
-  what can they throw at you'
-translated: true
+title: Building the train to Brandýs -  when everyone has a pitchfork in their closet, what can they throw at you
+ranslated: true
 ---
 
 Take this as my little recap and optional article for those interested in why everything takes so long to build in the Czech Republic.

@@ -13,8 +13,7 @@ summary_points:
 - Diakritika v URL parametru "mesto" způsobuje chybu formátování URL.
 - HTML konstrukce s &lt;a href&gt; i &lt;OPTION - SELECT&gt; selhávají.
 - WAPserver.cz, zdroj českých tutorialů, již neexistuje.
-title: "WAP help wanted… safra, jak předat slova s diakritikou v URL"
-  ve wapu?
+title: WAP help wanted… safra, jak předat slova s diakritikou v URL ve wapu?
 ---
 
 <p>

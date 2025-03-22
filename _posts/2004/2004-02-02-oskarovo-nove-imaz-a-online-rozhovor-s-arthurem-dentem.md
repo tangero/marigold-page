@@ -13,7 +13,7 @@ summary_points:
 - DigiWeb nabízí online rozhovor s Martinem Malým, tvůrcem Bloguje.cz.
 - Rozhovor s Martinem Malým proběhne v úterý.
 - Článek o Oskaru na iStrategie obsahuje obrázky a cíle rebrandingu.
-title: "Oskarovo nové imáž a online rozhovor s Arthurem Dentem"
+title: Oskarovo nové imáž a online rozhovor s Arthurem Dentem
 ---
 
 <p>

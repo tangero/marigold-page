@@ -13,8 +13,7 @@ summary_points:
 - Ekonomický růst vyžaduje inovace a odlišné strategie než konkurence.
 - Česko nemá jasnou strategii, pouze následuje ostatní země bez snahy je předstihnout.
 - Státní sektor může být klíčovým hybatelem růstu, chybí však dlouhodobé plány a odvaha.
-title: "Politicky nekorektní e-gov, digitální agenda, Průmysl 4.0, inovativní firmy"
-  a&nbsp;blahobyt v&nbsp;Česku
+title: Politicky nekorektní e-gov, digitální agenda, Průmysl 4.0, inovativní firmy a blahobyt v Česku
 ---
 
 Součástí mojí práce na Lupě bylo, jednou za čas vyhodnotit digitální agendu české vlády. Vláda si ji vždy připravila na mnoha stránkách, schválila a veškeré moje vyhodnocení proběhlo za rok, když se ukázalo, že se nestalo nic a co se stalo, stalo se samospádem ve smyslu vědeckotechnického pokroku. 

@@ -13,7 +13,7 @@ summary_points:
 - Autor se ptá, jaký majetkový prospěch mají novináři z psaní o Telecomu.
 - Telecom neposkytl důkazy o uplacených novinářích, jen obecná obvinění.
 - Autor se omluvil za chybnou informaci o M. Heřmanovi, šlo o slušnost.
-title: "Berdárovo temné mručení o podplacených novinářích"
+title: Berdárovo temné mručení o podplacených novinářích
 ---
 
 <p>

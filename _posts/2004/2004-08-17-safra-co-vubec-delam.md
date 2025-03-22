@@ -13,7 +13,7 @@ summary_points:
 - Autor obtížně vysvětluje rodině svou práci v oblasti mobilních technologií.
 - Autor obdivuje schopnost Karla z Googgi vytvářet chytlavé názvy.
 - Autor se cítí zahlcený prací a touží po odpočinku v přírodě.
-title: "Safra, co vůbec dělám…"
+title: Safra, co vůbec dělám…
 ---
 
 <p>

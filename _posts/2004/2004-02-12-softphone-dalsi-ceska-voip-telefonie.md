@@ -13,7 +13,7 @@ summary_points:
 - Měsíční poplatek SoftPHONE je 105 Kč a zahrnuje 10 minut zdarma.
 - Hovory v ČR stojí 1,15 Kč/min, do mobilních sítí 4,83 Kč/min včetně DPH.
 - Anonymita provozovatele SoftPHONE vyvolává obavy o důvěryhodnost služby.
-title: "SoftPHONE – další česká VoIP telefonie"
+title: SoftPHONE – další česká VoIP telefonie
 ---
 
 <p>

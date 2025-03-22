@@ -17,7 +17,7 @@ summary_points:
 - Automobilový průmysl je na Číně silně závislý, což představuje značné riziko.
 - Evropa se musí vrátit k výrobě, kterou dříve outsourcovala, a ocenit i drobnou práci.
 - Česko by mělo diverzifikovat obchodní vazby v Asii, podporovat vzdělanost a vzdělávání.
-title: "Proč je německý exportní model ohrožen"
+title: Proč je německý exportní model ohrožen
 ---
 
 Německé noviny Frankfurter Allgemaine (FAZ) vydaly začátkem dubna zásadní článek s názvem [Proč je německý exportní model ohrožen](https://www.faz.net/aktuell/wirtschaft/china-und-russland-deutschlands-exportmodell-wird-leiden-17909638.html). Odezvy z německého tisku většinou [publikuju na Twitteru](https://twitter.com/tangero), ale tohle je delší a extrémně důležité téma. A protože český průmysl je výrazně propojený s německým, přináším výpisky z článku (FAZ je placený). S drobným komentářem. 

@@ -13,9 +13,7 @@ summary_points:
 - AutoCont rozšiřuje své portfolio WiFi produktů po Bufalu o Belkin.
 - Konkurence AutoContu, Levi, nabízí produkty Linksys.
 - Autor plánuje zjistit dostupnost a ceny Belkin produktů v ČR.
-title: "'Belkin míří do ČR pod křídla AutoContu"
-
-  '
+title: Belkin míří do ČR pod křídla AutoContu
 ---
 
 <p>

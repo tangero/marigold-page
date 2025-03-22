@@ -13,7 +13,7 @@ summary_points:
 - Wifishop.cz nabízí D-Link produkty, například APčko za necelé dva tisíce.
 - DigiWeb zveřejnil články o Wi-Fi ve firmách a rychlosti českého ADSL.
 - PCMCIA karta z Wifishop.cz má konektor pro externí anténu a čip Lucent/Agere.
-title: 'WiFidrobky: Ovislink Wireless Router, laciný D-Link,'
+title: WiFidrobky -  Ovislink Wireless Router, laciný D-Link,
 ---
 
 <p>

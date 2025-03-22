@@ -13,7 +13,7 @@ summary_points:
 - Rychlé mobilní sítě umožní streamování a ukládání dat online namísto lokálních disků.
 - Vysokokapacitní DVD jsou nepraktické pro zálohování, nahrazují je pevné disky.
 - Budoucí rozvoj sítí a cloudových služeb zpochybňuje smysl fyzických médií.
-title: "Na síti nebo na disku – otázka skoro hamletovská"
+title: Na síti nebo na disku – otázka skoro hamletovská
 ---
 
 <p>Pročítal jsem v poslední době řadu materiálů k novým formátům vysokokapacitního DVD. Celý technický svět vzrušuje, zda v souboji vyhraje Blue-Ray nebo HD DVD. Jenže co když nevyhraje nic? Co když to bude plichta? Ne plichta proto, že to bude půl na půl, ale proto, že se tyhle formáty stanou okrajovými, prakticky nepoužívanými? Všímají si toho i v posledním Wired, i v pár dalších médiích – souboj už není o tom, který formát DVD, ale zda vyhraje síť nebo disk. </p>

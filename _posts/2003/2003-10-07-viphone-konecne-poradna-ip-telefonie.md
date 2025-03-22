@@ -13,7 +13,7 @@ summary_points:
 - Instalační poplatky Viphone začínají na 1600 Kč, měsíční paušál na 399 Kč.
 - Viphone paušál zahrnuje 150 minut volání do pevných sítí ČR a vybraných zemí.
 - Funkce Viphone zahrnují integraci s Outlookem, web-to-call a přesměrování hovorů.
-title: "Viphone – konečně pořádná IP telefonie"
+title: Viphone – konečně pořádná IP telefonie
 ---
 
 <p>

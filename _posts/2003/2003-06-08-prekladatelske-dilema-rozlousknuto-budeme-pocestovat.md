@@ -13,7 +13,7 @@ summary_points:
 - Vlastní překlady autor nezavádí, vyhýbá se takovým excesům jako "jaderná síť".
 - Autor finalizuje knihu a zvažuje prodej na Marigoldovi kvůli komerci.
 - Objednávky knihy přiměly autora zvážit dotisk alespoň třiceti výtisků.
-title: "Překladatelské dilema rozlousknuto – budeme počešťovat"
+title: Překladatelské dilema rozlousknuto – budeme počešťovat
 ---
 
 <p>

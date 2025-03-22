@@ -13,9 +13,7 @@ summary_points:
 - Videotelefonie s Honzou Řežábem zaujala, ale minuta stála korunu.
 - Eurotel Live! 3G portál účtoval neúměrné poplatky za stažená data.
 - Infolinka Eurotelu přiznala chybu v účtování a reklamaci vyřešila částečně.
-title: "'Kterak jsem si vychutnával počteníčko Live! portálu přes 3G"
-
-  '
+title: Kterak jsem si vychutnával počteníčko Live! portálu přes 3G
 ---
 
 <p>Chtěl jsem si včera vychutnat oficiální 3G pošušnáníčko od Eurotelu. Nejprve jsem se málem zmrzačil při laborování se Siemens U15 – ne a ne na něm rozchodit prohlížení wap stránek. Ani oficiální konfigurátor na stránkách Siemensu mi nepomohl, telefon vždy zkrachoval. Došlo mi, že bude třeba použít pro užívání si UMTS nějaký o pár let mladší mobilní telefon a Nokia 6680 mi k tomu přišla ideální. Přendal jsem SIM karty a hned jsem vyzkoušel videotelefonování s Honzou Řežábem. Bylo to fajn, prošli jsme se virtuálně svými kancelářemi – videotelefonie překvapivě zaujala více, než když jsem to viděl naposledy. Holt je lepší to testovat se živým člověkem, než s nějakým statistou. Ovšem zaujala taky proto, že stála korunu za minutu, což je dobrá legrace, při osminásobku (což má být oficiální sazba) bychom se nebavili tak dobře (natož dlouho).</p>

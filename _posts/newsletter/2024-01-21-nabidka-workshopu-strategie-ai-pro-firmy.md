@@ -14,7 +14,7 @@ summary_points:
 - Interaktivní SWOT analýza v kurzu zkoumá hrozby a příležitosti AI pro služby i výrobu.
 - Dvouapůlhodinový workshop pro menší kolektiv stojí 10 000 Kč bez DPH.
 - Kontakt pro domluvení termínu v únoru nebo březnu je zandl@marigold.cz nebo 777677077.
-title: 'Nabídka workshopu: Strategie AI pro firmy'
+title: Nabídka workshopu -  Strategie AI pro firmy
 ---
 
 Už delší dobu dělám aplikované brainstormingy či workshopy o umělé inteligenci pro firemní zákazníky. Nyní se mi uvolnil čas na dva další kurzy a tak je nabízím “veřejně”. **Potřebujete se dozvědět, jak se AI dotkne vašeho podnikání, kde bude tlačit na náklady, kde na zaměstnance, jaké jsou hrozby či jaký dopad to bude mít na vaši konkurenci?** Udělejme si na to společný workshop cca 2,5 hodiny, kdy si v menším kolektivu do cca 10 lidí řekneme, jak AI funguje a zkusíme promyslet právě ty dopady a příležitosti. Je to interaktivní SWOT analýza hrozeb a příležitostí pro konkrétní firmu, pro konkrétní případ. Zkušenosti mám jak s podniky, které poskytují služby, tak s výrobními fabrikami.  

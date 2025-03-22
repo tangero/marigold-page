@@ -17,9 +17,7 @@ summary_points:
 - Politici dlouhodobě ignorují problémy exekuovaných a sociálně slabých.
 - Nelítostná pravicová politika přispěla k systémové nespokojenosti a mimosystémovým
   volbám.
-title: "'Kde se vzaly dva miliony voličů Miloše Zemana"
-
-  '
+title: Kde se vzaly dva miliony voličů Miloše Zemana
 ---
 
 Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to ta méně vzdělaná část národa, zkrachovalci, ti hloupí. Vesničani. Rozhodli se kvůli svojí hlouposti.

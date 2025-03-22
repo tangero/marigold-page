@@ -13,7 +13,7 @@ summary_points:
 - Tiscali hotspot se nachází nad Food Courtem v Metropoli Zličín.
 - Připojení k internetu přes Tiscali Wi-Fi je v pilotním provozu zdarma.
 - Hotspot pokrývá plochu 1500 m2 ve Food Courtu Metropole Zličín.
-title: "Tiscali zprovoznilo hotspot zdarma v Metropoli"
+title: Tiscali zprovoznilo hotspot zdarma v Metropoli
 ---
 
 <p>

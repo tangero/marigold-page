@@ -10,7 +10,7 @@ summary_points:
 - Politická kariéra znamená ztrátu soukromí a vysoké náklady.
 - Česká politika je plná kritiky, nenávisti a cílené diskreditace.
 - Změna politiky vyžaduje aktivní přístup každého jednotlivce.
-title: "Proč nejsem politik? Taková mikroúvaha o tom, proč lidé nejdou do politiky."
+title: Proč nejsem politik? Taková mikroúvaha o tom, proč lidé nejdou do politiky.
 ---
 
 Co dělat s nastalou vnitropolitickou situací? Na to není lehká odpověď, která by se vám líbila. Pokud jste doufali, že zveřejním číslo účtu, vy pošlete pár stokorun a MY (=já a pár kamarádů) to dáme do kupy, tak vám na rovinu říkám, že by to bylo zase špatně. Asi tak po milionté byste naletěli vlastní lenosti. Vždycky, když čekáte, až se to samo spraví, tak se načekáte. Samo se nic dobrého neudá. Je třeba si to odpracovat. My všichni. To je moje osobní přesvědčení.

@@ -13,7 +13,7 @@ summary_points:
 - Články jsou aktivistické a zábavné, typické pro komunitu píšící pro ROOT.
 - Čtenář MK uvádí velikost pingů 24 156 B a 22 620 B.
 - Diskuse zve čtenáře k porovnání velikostí pingů s autorem (17 408 B).
-title: "Kořen WiFi sítí"
+title: Kořen WiFi sítí
 ---
 
 <p>

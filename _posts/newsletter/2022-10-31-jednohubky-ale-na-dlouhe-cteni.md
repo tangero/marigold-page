@@ -12,7 +12,7 @@ summary_points:
 - Koncentrace podniků v USA za 100 let trvale rostla, uvádí studie.
 - Rostoucí koncentrace firem souvisí s investicemi do výzkumu, vývoje a IT.
 - Vyšší koncentrace v odvětví vykazuje také vyšší růst produkce.
-title: "Jednohubky (ale na dlouhé čtení)"
+title: Jednohubky (ale na dlouhé čtení)
 ---
 
 **Jak nucené rozdělení firem podporuje inovaci?** Často slýchám od nepřátel regulace, jak devastující pro trh regulační zásahy jsou. Což je názor plynoucí z neznalosti. Nejnověji doporučuji k přečtení dokument [Konkurence a inovace: rozdělení IG Farben](https://docs.iza.org/dp15517.pdf), jehož autorem je Felix Poege z Bostonské univerzity. Dokládá, jak rozdělení sjednocené IG Farben nastartovalo inovace. 

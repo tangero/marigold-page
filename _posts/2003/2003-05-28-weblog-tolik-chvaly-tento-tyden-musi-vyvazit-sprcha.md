@@ -13,7 +13,7 @@ summary_points:
 - BlogTalk v Rakousku čeští blogeři dle autora neúspěšně reflektovali.
 - Jiří Hlavenka na Živě vidí weblogy jako internetovou bublinu.
 - Blogy privatizují zpravodajství, zkracují zprávy a ubírají hodnotu médiím.
-title: "Weblog – tolik chvály tento týden musí vyvážit sprcha"
+title: Weblog – tolik chvály tento týden musí vyvážit sprcha
 ---
 
 <p>

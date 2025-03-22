@@ -15,9 +15,7 @@ summary_points:
 - Licenční systém v EU uměle reguloval dovoz banánů, ovlivňoval ceny a značky.
 - Prodej banánů ve velkém zahrnuje složité strategie, ceny a logistiku.
 thumbnail: https://i.ytimg.com/vi/jjlOkOemN5k/maxresdefault.jpg
-title: "'Jak jsme proškolili bananářskou hvězdu"
-
-  '
+title: Jak jsme proškolili bananářskou hvězdu
 ---
 
 Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.

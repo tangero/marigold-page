@@ -14,7 +14,7 @@ summary_points:
   odmítá.
 - University připravují studenty na praxi s moderními technologiemi, nikoliv zastaralými.
 - CESNET a TEN pochopení je klíčové pro pochopení fungování českého internetu.
-title: "6. Proč akademické sítě"
+title: 6. Proč akademické sítě
 ---
 
 Možná se ptáte pro důvodu, jenž žene akademické instituce a vlády do výstavby a financování stále lepších a lepších akademických sítí. Proč se vůbec zabývat historií internetu, který z provopočátku akademické a experimentální sítě utvářely? A proč se ještě dnes starat o Cesnet a jeho děti?<!--more-->Možná se ptáte pro důvodu, jenž žene akademické instituce a vlády do výstavby a financování stále lepších a lepších akademických sítí. V době, kdy málokterá komerční panevropská síť disponuje podobnou kapacitou, se v akademickém internetu pracuje s gigabitovými rychlostmi. Není to zbytečné plýtvání peněz z kapes daňových poplatníků? Nevystačila by si akademická sféra s pomalejšími linkami? 

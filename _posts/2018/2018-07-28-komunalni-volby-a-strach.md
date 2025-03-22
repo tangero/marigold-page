@@ -9,7 +9,7 @@ summary_points:
 - Sestavení kandidátky je obtížné i pro zavedené strany jako Piráti a STAN.
 - Mladí lidé se do politiky zapojují více než čtyřicátníci, kteří se bojí následků.
 - Společnost často čeká na zázračné řešení místo aktivního přístupu k problémům.
-title: "Komunální volby a strach"
+title: Komunální volby a strach
 ---
 
 Jestli mě něco na komunální politice překvapilo, tak nechuť, s jsou se do ní lidé zapojují.

@@ -13,7 +13,7 @@ summary_points:
 - Autor ironicky srovnává Berdárovu beztrestnost s možnou reakcí policie na jeho chování.
 - Velíšek zemřel, když se zastal ženy ohrožované střelcem na ulici.
 - Autor vzpomíná na situaci, kdy napomenul muže za odhození odpadku a byl napaden.
-title: "Střílet na veřejnosti je v pořádku (když jste dost vysoko)"
+title: Střílet na veřejnosti je v pořádku (když jste dost vysoko)
 ---
 
 <p>Někdy nevím, co si mám myslet. Snad lépe nemyslet a jen odcitovat zprávu ČTK:</p>

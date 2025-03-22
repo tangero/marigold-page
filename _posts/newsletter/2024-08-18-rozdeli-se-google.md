@@ -22,7 +22,7 @@ summary_points:
   v telekomunikacích.
 - Rozdělení monopolů by mělo být zvažováno opatrně, s ohledem na vysoké náklady a
   dlouhodobé dopady.
-title: "\U0001FA93Rozdělí se Google?"
+title: \U0001FA93Rozdělí se Google?
 ---
 
 Americké ministerstvo spravedlnosti zvažuje rozdělení společnosti Alphabet, mateřské společnosti Google. A to v návaznosti na rozhodnutí, podle kterého společnost monopolizovala trh s online vyhledáváním. 

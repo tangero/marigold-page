@@ -13,7 +13,7 @@ summary_points:
 - Inway provozuje komerční sítě v pásmech 2.4 GHz, 10 GHz a 3.5 GHz.
 - Jednání ztroskotala, protože nikdo nechtěl nic garantovat.
 - CzFree má decentralizovanou strukturu, takže nikdo nemůže nic přikazovat.
-title: "Lidé z CzFree jednali s Inway o „sdílení lokalit“"
+title: Lidé z CzFree jednali s Inway o „sdílení lokalit“
 ---
 
 <p>

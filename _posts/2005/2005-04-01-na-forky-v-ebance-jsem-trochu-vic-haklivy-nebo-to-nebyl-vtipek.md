@@ -13,7 +13,7 @@ summary_points:
 - Chybové hlášení eBanky zobrazovalo datum 27.3.2005, což autora znepokojilo.
 - Autor se obával o stabilitu eBanky a možný krach, což v Česku není neobvyklé.
 - Po čtvrt hodině se přihlášení do eBanky podařilo a účty byly prázdné.
-title: "Na fórky v eBance jsem trochu víc háklivý – nebo to nebyl vtípek?"
+title: Na fórky v eBance jsem trochu víc háklivý – nebo to nebyl vtípek?
 ---
 
 <p>Přikulím se ráno do práce a říkám si, že zkontroluju firemní i osobní účet, kdopak nám zaplatil nebo naopak komupak udělám radost já. A přihlašování do eBanky se nezdaří, což je věc veeeelmi výjimečná. Vyplivlo mi to tuhle obrazovku (trochu jsem ji ořízl o postranní menu).</p>

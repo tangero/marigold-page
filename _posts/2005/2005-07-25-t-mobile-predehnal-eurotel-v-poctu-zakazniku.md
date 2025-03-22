@@ -13,7 +13,7 @@ summary_points:
 - Eurotelu ubylo 244 tisíc zákazníků, celkem jich má přes 4,4 milionu.
 - T-Mobile pravděpodobně brzy předstihne Eurotel v počtu zákazníků.
 - Eurotel ztrácí pozici největšího operátora a zřejmě i nejziskovějšího.
-title: "T-Mobile předehnal Eurotel v počtu zákazníků"
+title: T-Mobile předehnal Eurotel v počtu zákazníků
 ---
 
 <p>Už dlouho jsem spekuloval nad tím, že ve skutečnosti je T-Mobile větším operátorem co do počtu zákazníků, než Eurotel. Byla pro to řada nepřímých důkazů, oficiální přiznání Eurotelem ale chybělo a před dokončením privatizace Telecomu se ani nedalo očekávat. Teď přišlo. Eurotel konečně zkompatibilnil metodu výpočtu aktivních zákazníků prepaid služeb na doporučení GSM Asociace – nově tedy počítá za klienty pouze ty Go karty, které byly v průběhu dvanácti měsíců používány. Tedy stejně, jako je započítávají T-Mobile a Vodafone Cz. Doposud je ovšem započítával po dobu osmnácti měsíců. </p>

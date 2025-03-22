@@ -10,7 +10,7 @@ summary_points:
 - Dnes je tvorba webů složitější, vyžaduje šablony a nástroje.
 - Kvalita webů klesá při vlastních úpravách a chybách.
 - Tvorba webů je nyní komplexní, podobně jako produkce filmu.
-title: "Když bylo pět HTML příkazů, udělali jste si web sami i s obsahem"
+title: Když bylo pět HTML příkazů, udělali jste si web sami i s obsahem
 ---
 
 <p>Když jsem s internetem začínal <a href="http://mobil.idnes.cz/mobil-server-ma-20-let-0lx-/mob_tech.aspx?c=A161229_140955_mob_tech_jm">před dvaceti lety</a>, stačilo vám na vyprodukování webu na úrovni doby znát přesně pět "příkazů" jazyka HTML. Zvládnul jsem to i já, přes noc. Dneska je to jinačejší fičák. Jasně, nepotřebujete člověka na UX, ani grafika či kodéra, když nechcete něco zase tak moc luxusně unikátního, ale zase potřebujete sehnat šablonu a vizuální nástroj, kterým ji přizpůsobíte, protože jinak jste si to mohli naprgat celý od základu sami, než se hrabat v cizím kódu. Už jen ten výběr: šablon free i za třicet doláčů jsou tisíce, všeho druhu. Většina z nich vypadá líp, než většina českých webů. Ale pak si do toho hrábnete a kvalita jde rázem dolů, jak si tam zavlékáte chyby a potíže.</p>

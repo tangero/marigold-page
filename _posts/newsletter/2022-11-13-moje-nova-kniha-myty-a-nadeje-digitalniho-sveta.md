@@ -15,7 +15,7 @@ summary_points:
 - Melvil web nabízí propozici knihy, která je vhodná jako dárek pro všechny generace.
 - Autor informuje o vydání knihy a slibuje dát vědět po jejím vydání.
 - Marigold článek autora se zabývá zlevněním Česka skrze místní samosprávu.
-title: 'Moje nová kniha: Mýty a naděje digitálního světa'
+title: Moje nová kniha -  Mýty a naděje digitálního světa
 ---
 
 A je to skoro venku. Kniha, kterou jsem přes prázdniny dopsal a která měla pracovní název Digitální kapitál, je už téměř venku. Jmenuje se **Mýty a naděje digitálního světa** , vydává ji Melvil a z tiskárny vyleze 22.listopadu 2022. Na [webu Melvilu ji najdete zatím zde](https://www.melvil.cz/edicni-plan/). Těším se na ni, myslím si, že se moc povedla a její propozici najdete na webu Melvilu. Nebojte se, jen co vyjde, vám dám vědět. Je to zaručený dárek k vánocům pro všechny, kdo chtějí porozumět moderním technologiím v souvislostech - je nejenom pro vás, ale i pro děti a ba dokonce i pro prarodiče, kteří ještě chtějí držet krok. 

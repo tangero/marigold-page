@@ -14,7 +14,7 @@ summary_points:
 - WiFi hotspoty Telecomu stojí 2 Kč za každé započaté 3 minuty spojení bez slev.
 - Platba za WiFi hotspoty je možná pouze kartou zakoupenou v Telepointu.
 - Telecom a Eurotel umožňují vzájemné využívání hotspotů, správu převezme Eurotel.
-title: 'Český Telecom WiFi Hot Spots: včera zadarmo, dnes za peníze'
+title: Český Telecom WiFi Hot Spots -  včera zadarmo, dnes za peníze
 ---
 
 <p>

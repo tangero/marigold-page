@@ -14,7 +14,7 @@ summary_points:
   Systems".
 - Catering je důležitým faktorem návštěvnosti tiskových konferencí novináři.
 - Samsung má představit mnoho novinek, očekává se vysoká účast na konferenci.
-title: 'Problem: dosla baterie, adapter neni, budeme bez cestiny'
+title: Problem -  dosla baterie, adapter neni, budeme bez cestiny
 ---
 
 <p>

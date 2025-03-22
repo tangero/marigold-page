@@ -13,7 +13,7 @@ summary_points:
 - Technologie Angel nevyžaduje přímou viditelnost vysílače a má dosah až 30 km.
 - Rychlost stahování dat u Angel Active 1024/256 se pohybuje mezi 70-110 kB/s.
 - Cena Angel 1024/256 je 1690 Kč bez DPH, což je levnější než srovnatelné ADSL.
-title: "První uživatelské zkušenosti s bezdrátovým připojením Bluetone Angel"
+title: První uživatelské zkušenosti s bezdrátovým připojením Bluetone Angel
 ---
 
 <p>

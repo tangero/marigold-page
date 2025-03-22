@@ -13,7 +13,7 @@ summary_points:
 - Pomoc cizincům vyvolává nesouhlas, ale odpor k nim nic neřeší.
 - Nepřátelství vůči cizím produktům či lidem zhoršuje společnost.
 - Respektování práv druhých je klíčem k lepšímu světu.
-title: "Nespravedlnost světa nemá smysl vybíjet si na malých a slabých"
+title: Nespravedlnost světa nemá smysl vybíjet si na malých a slabých
 ---
 
 Včerejším <a href="http://www.marigold.cz/item/indove-prestupujici-v-ladvi">příspěvkem o Indech</a> v metru jsem chtěl říct jednu (pro mne dost podstatnou) věc: nespravedlnost světa nemá smysl vybíjet si na malých a slabých. Tím se nespraví nic, jen se zvýší obecná hladina nasranosti. Jo, nebaví mě islámský fanatismus, ale držkovat na osmahnuté chlapíky ztracené v metru, tím se válka s terorismem rozhodně nevyhraje. 

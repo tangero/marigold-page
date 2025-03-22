@@ -15,7 +15,7 @@ summary_points:
 - Telecom nenabízí konkurenční ceny a podmínky pro ADSL, proto vznikají bezdrátové
   alternativy.
 - Rozšíření DSL vyžaduje zásah státu, podobně jako v Koreji a Skandinávii.
-title: "Ani já v principu nevěřím na mobilní internet"
+title: Ani já v principu nevěřím na mobilní internet
 ---
 
 <p>V záznamu myšlenek M. Rusnáka jsem jej citoval, když říkal, že nevěří na mobilní internet. V komentářích se někdo ozval, že mobilní internet přeci funguje a co že je to za kraviny. Zkusím vysvětlit, proč ani já nevěřím na mobilní internet a v čem je mi Rusnákova myšlenka blízká.</p>

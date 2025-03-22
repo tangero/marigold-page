@@ -15,7 +15,7 @@ summary_points:
 - Uvedení Cybercabu na trh se očekává v roce 2026, ale závisí na povolení regulátorů.
 - Waymo má výrazně lepší bezpečnostní data autonomního řízení než Tesla FSD.
 - Tesla FSD je na druhém stupni autonomie, Cybercab vyžaduje minimálně čtvrtý stupeň.
-title: "\U0001F695 Muskův autonomní taxík Cybercab"
+title: \U0001F695 Muskův autonomní taxík Cybercab
 ---
 
 Elon Musk představil Cybercab - plně autonomní taxi. Stát má kolem 30 000 $, přivoláte si jej aplikací, nasednete do dvojmístného vozidla s futuristickým otevíráním dveří, bez volantu a pedálů - a frčíte. Tedy, teoreticky. V praxi Musk slibuje, že vůz se na trh dostane v roce 2026, možná o něco později, neboť vyžaduje povolení regulátora. A regulátoři dali povolení zatím jen autonomním taxi Waymo, které jsou nadupané senzory včetně Lidaru, zatímco Cybercab má v souladu s Tesla strategií jen pár kamer. 

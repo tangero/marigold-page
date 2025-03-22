@@ -13,7 +13,7 @@ summary_points:
 - Ditrich se bude věnovat firmě WideNet a bezdrátovým sítím.
 - Plánuje publikační a konzultační činnost, možná o WiFi.
 - Doména ditrich.cz je již v provozu pro jeho aktivity.
-title: "Jakub Ditrich ven z Globe a blíže k WiFi"
+title: Jakub Ditrich ven z Globe a blíže k WiFi
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - QuickBird je družicový systém pořizující snímky s vysokým rozlišením.
 - Snímky QuickBird se komerčně prodávají bez ohledu na jejich obsah.
 - Kniha Deception Point od Dana Browna řeší komercializaci vesmíru.
-title: "Tsunami fotografie před a po (a o úloze družic)"
+title: Tsunami fotografie před a po (a o úloze družic)
 ---
 
 <p>Katastrofu v Asii si lze jen těžko představit. Na <a href="http://www.digitalglobe.com/tsunami_gallery.html">těchto stránkách</a> společnosti DigitalGlobe jsou QuickBird fotografie jednotlivých lokalit před a poté, co se tsunami oblastí prohnala. Doporučuji, i když ten pohled na to není moc hezký. </p>

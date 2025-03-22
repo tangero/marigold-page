@@ -13,7 +13,7 @@ summary_points:
 - NIX.CZ sbírá indikativní nabídky na umístění technologií v Brně.
 - Zájemci o členství v NIX.CZ se mají ozvat do 15.2.2005.
 - NIX.CZ žádá zájemce, aby nepsali dopisy v hantecu.
-title: "NIX.CZ v Brně?"
+title: NIX.CZ v Brně?
 ---
 
 <p>NIX.CZ, české propojovací centrum, kouká na Brno. Na <a href="http://www.nix.cz/">svém webu</a>  zveřejnilo  <a href="http://www.nix.cz/pruzkum.pdf">dokument</a>, ve kterém zkoumá zájem brněnských poskytovatelů Internetu být členy a zároveň sbírá indikativní nabídky na umístění technologií.</p>

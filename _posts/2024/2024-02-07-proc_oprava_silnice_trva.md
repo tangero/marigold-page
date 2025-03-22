@@ -12,7 +12,7 @@ summary_points:
 - Odvolání v tendru, vytíženost firem a dodatečné požadavky zdržují stavbu.
 - Zpoždění způsobují i majetkové spory a problémy s koordinací sítí.
 thumbnail: https://kraje.rsd.cz/zlinsky/wp-content/uploads/sites/15/2021/09/242524491_1290532711401683_7020099745421483765_n-1.jpg
-title: "Proč oprava silnice v Česku trvá? Protože..."
+title: Proč oprava silnice v Česku trvá? Protože...
 ---
 
 Proč jsou věci v Česku složité? Ukážu vám to na případu, který mám už trochu v oku. Taková rekonstrukce silnice. Pojďme se podívat na to, proč v Česku trvá měsíce ba i roky, zatímco Čína nebo Holandsko to spíchnou za víkend.

@@ -13,8 +13,7 @@ summary_points:
 - ČTÚ v ČR také vyžaduje licenci pro provozování veřejné telekomunikační sítě.
 - Nabízení připojení k internetu přes WiFi je považováno za provozování veřejné sítě.
 - ČTÚ prověřuje subjekty poskytující WiFi připojení a chystá se na další kontroly.
-title: "'Slovensko: nelicencovaným radiovým sítím hrozí megapokuty. ČTÚ: u nás"
-  taky!'
+title: Slovensko -  nelicencovaným radiovým sítím hrozí megapokuty. ČTÚ -  u nás taky!
 ---
 
 <p>

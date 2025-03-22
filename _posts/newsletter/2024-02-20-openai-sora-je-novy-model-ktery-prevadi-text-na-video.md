@@ -19,7 +19,7 @@ summary_points:
   videodat.
 - Tréninková data Sory a technické detaily zůstávají nejasné, což vyvolává otázky.
 - Sora má potenciál ovlivnit filmový průmysl a vytvořit nové trhy.
-title: "OpenAI Sora je nový model, který převádí text na video"
+title: OpenAI Sora je nový model, který převádí text na video
 ---
 
 Minulý týden se pokusil Google ohromit celý svět novým posunem stran umělé inteligence nazvaným Gemini 1.5. Jenže společnost OpenAI byla nachystána a aby přerazila jakýkoliv dojem, že existuje ještě někdo jiný, kdo by svět umělé inteligence posouval, okamžitě uvolnila informace o novém AI nástroji nazvaném Sora, který umí převádět textové zadání do videa. Překotnost uvolnění informace je viditelná na první pohled. Je patrné, že OpenAI měla všechny tiskové informace připravené předem, presskity odladěné, ale samotný model Sora pro veřejnost neuvolnila, vydala z něj jen výstupy. Pravděpodobně jde o nějaký druh PR zápolení s Googlem, protože naprosto stejně (řekneme si později) postupoval i Google: informace vydal, model neuvolnil. 

@@ -13,7 +13,7 @@ summary_points:
 - Kniha byla příliš technická a autor ji zkrátil o polovinu kvůli zastaralým informacím.
 - Autor upravuje texty o telekomunikacích a kritizuje nedostatky ve zdrojích informací.
 - Připravuje knihu pro běžné čtenáře s historickými traktáty o technologiích a rozhodnutích.
-title: "Kniha o mobilních sítích a 4G je v přípravě"
+title: Kniha o mobilních sítích a 4G je v přípravě
 ---
 
 Váha klesla pod 87 kilogramů a s tím souvisí socialistický závazek: vrátit se k přerušenému psaní. Taková malá sebemotivace. Oprášil jsem druhý díl Flotily, který jsem před rokem uložil k ledu, trochu poopravil, ale především vytáhl knihu o mobilních sítích. Ta má pohnutou historii. Začal jsem ji psát (včera jsem se díval) v roce 2004. Pak jsem zlanařil Kamojedova, což bylo poučné, neboť jsme se párkrát zhádali jak koně. Jak jsem teď kompletoval ty texty, procházel jsem ty vzkazy jako “opovrhuješ technologií, která bude esenciální”, na což mi zpět přišlo “je zřejmé, že směr je přesně v protisměru tady”. Moc hezké výměny. Obě námi obhajované esenciální technologie byly v Release 8 potichu vypuštěny a nikdy se nepoužívaly. Jak příznačné pro spory mezi techniky.

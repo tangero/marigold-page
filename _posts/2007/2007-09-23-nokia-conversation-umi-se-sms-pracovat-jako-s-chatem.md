@@ -13,7 +13,7 @@ summary_points:
 - Konverzační řazení SMS shlukuje zprávy podle adresáta, pak data.
 - Nokia Conversation je aplikace pro telefony S60 3rd Edition zdarma.
 - Aplikace řadí konverzace dle odesilatele nebo abecedně.
-title: "Nokia Conversation umí se SMS pracovat jako s chatem"
+title: Nokia Conversation umí se SMS pracovat jako s chatem
 ---
 
 Normální SMS klient pracuje se sms zprávami podle data doručení. Existují (a existovaly) pokusy pracovat se zprávami i podle odesilatele, například na Palm Treu a nově a úspěšněji také na Apple iPhone. Nokia si povšimla oblíbenosti konverzačního řazení SMS zpráv, kdy zprávy se primárně shlukují podle adresáta a teprve v rámci tohoto řazení podle data zpracování zprávy. A urychleně připravila vlastní aplikaci nazvanou Conversation pro telefony vybavené S60 3rd Edition. Dostupná je zdarma přes <a href="http://www.nokia.com/A4568203">Nokia Beta Labs zde.</a> 

@@ -13,7 +13,7 @@ summary_points:
 - Vodafone zaostával v progresivních datových službách, což autora štvalo.
 - Eurotel nabídl stejné ceny jako Vodafone a navíc 3G data v Praze.
 - Autorovi Vodafone nenabídl zajímavou nabídku a proto přechází k Telefonica 02.
-title: "Vodafone zrušil 3G a přišel o zákazníka"
+title: Vodafone zrušil 3G a přišel o zákazníka
 ---
 
 <p>Jmenovitě o mne. Byl jsem u Oskara a později u Vodafone nějakých pět let s průměrnou útratou kolem dvou tisícovek měsíčně. Celou dobu jsem se ujišťoval, že ty ceny ospravedlňují to, že nedostanu ani pitomý dotovaný telefon levněji (Vodafone nebere v potaz vaši útratu, ale tarif, který jsem měl vždy nízký, protože používám hlavně SMS, roaming a data). Jestli mne něco štvalo, tak trvalé zaostávání Vodafone v progresivních službách, zejména v těch datech.</p>

@@ -15,7 +15,7 @@ summary_points:
 - Očekávání od GPT-4o byla vyšší, spekulovalo se o GPT-5 nebo AI vyhledávači.
 - AI se nachází v období technologické pauzy, čeká se na nové inovace.
 - Budoucnost AI je nejistá, možný je generační skok (GPT-5) nebo inkrementální vývoj.
-title: "OpenAI představila GPT-4o a je mi to nějak málo..."
+title: OpenAI představila GPT-4o a je mi to nějak málo...
 ---
 
 Tento měsíc také představila vedoucí společnost v oblasti umělé inteligence OpenAI svůj nový model umělé inteligence nazvaný GPT-4o. Čím se liší od toho předešlého? Ve jméně jen tím písmenkem O, což znamená Omni. Firma tím chce zdůraznit rozsáhlé možnosti vstupu a výstupu dat, od klasického textového zadání, přes obrazové či třeba hlasové zadání. 

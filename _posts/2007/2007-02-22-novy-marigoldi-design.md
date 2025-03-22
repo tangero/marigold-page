@@ -13,7 +13,7 @@ summary_points:
 - Po čtyřech měsících od přechodu na nový systém byl upravený design nasazen.
 - Problémem zůstává zub v logu a hlavičce způsobený hyperportálovou lištou.
 - Autor se pokouší pomocí CSS posunout obrázek pozadí, ale zatím neúspěšně.
-title: "Nový Marigoldí design"
+title: Nový Marigoldí design
 ---
 
 Že Nonameho design Marigolda byl dočasný, bylo veřejné tajemství. Veřejným tajemstvím také bylo, že dočasnost se může protáhnout na řadu let. Takže jsem na tom trochu zapracoval a za pomoci Japana a dalších CSS dobrodinců dopracoval rozpracovaný design určený pro nasazení na Marigoldovi. Čtyři měsíce po přechodu na nový systém bylo na čase. 

@@ -13,9 +13,7 @@ summary_points:
 - Eurotel nedodal hotely dostatek propagačních materiálů o WiFi službě.
 - Zákazníci si stěžují na složité a drahé účtování WiFi od Eurotelu.
 - Počet uživatelů hotelové WiFi se pohybuje okolo deseti za měsíc.
-title: "'Eurotel WiFiJet hotelům mnoho peněz nenese"
-
-  '
+title: Eurotel WiFiJet hotelům mnoho peněz nenese
 ---
 
 <p>

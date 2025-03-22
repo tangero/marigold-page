@@ -13,7 +13,7 @@ summary_points:
 - Agere Systems navrhuje 500 Mb/s s MIMO anténami a 40 MHz kanálem.
 - Airgo navrhuje MIMO-OFDM s 20 MHz kanálem pod WWiSE hlavičkou.
 - Produkty s 802.11n standardem se očekávají na přelomu let 2005-2006.
-title: "IEEE 802.11n – vysokorychlostní bezdrátové sítě"
+title: IEEE 802.11n – vysokorychlostní bezdrátové sítě
 ---
 
 <p>

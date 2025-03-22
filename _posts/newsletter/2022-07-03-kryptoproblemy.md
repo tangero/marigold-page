@@ -14,7 +14,7 @@ summary_points:
 - Akcie firem jako GameStop, Netflix a Meta zaznamenaly velké propady srovnatelné
   s Bitcoinem.
 - Investoři by se kryptu měli vyhýbat, atmosféra je zjitřená a komunita netolerantní.
-title: "Kryptoproblémy"
+title: Kryptoproblémy
 ---
 
 Většinou jsem k novinovým titulkům _"Kurz Bitcoinu se dramaticky propadl"_ velmi rezervovaný, protože v době, kdy jsou vytištěny na papír, je již situace dávno jiná. Ke kurzu kryptoměn propady a vzestupy patří stejně neobytně, jako k jednorožci miliarda dolarů valuace. 

@@ -13,9 +13,7 @@ summary_points:
 - Lopo vybral peníze od známých na nákup velkého množství plenek v Makru.
 - Nákup plenek v Makru byl proveden na firmu Cinetik s fakturou na toto jméno.
 - Bořík z Cinetiku řeší, jak finančnímu úřadu vysvětlit fakturu za dětské pleny.
-title: "'Plenky se opravdu nedají dát do nákladů?"
-
-  '
+title: Plenky se opravdu nedají dát do nákladů?
 ---
 
 <p>

@@ -13,9 +13,7 @@ summary_points:
 - ČTÚ čeká na EU regulace 5GHz, aby předešel problémům s lokálními předpisy.
 - Slovensko regulovalo 5GHz dříve, protože očekává minimální změny od EU.
 - Autor kritizuje úřady, které by měly hájit zájmy občanů v EU.
-title: "'Uvolnění pásma 5GHz se opět odkládá"
-
-  '
+title: Uvolnění pásma 5GHz se opět odkládá
 ---
 
 <p>Nekonečný seriál pětigigaherzové dynastie má další pokračování. Ve čtvrtek zasedala RSC (Radio Spectrum Committee), aby projednala budoucnost 5GHz technologií v Říši. Snahy dozvědět se cokoliv o rokování fóra moudrých nevedly ku kloudnému výsledku, neboť <a href="http://forum.europa.eu.int/Public/irc/infso/radiospectrum/home">webové stránky</a> teprve v úterý byly aktualizovány veřejně nepřístupným programem proběhnuvšího zasedání, zpráva o výsledku rokování tu stále není.</p>

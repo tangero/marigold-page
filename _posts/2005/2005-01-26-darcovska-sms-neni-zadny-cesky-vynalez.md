@@ -13,9 +13,7 @@ summary_points:
 - Dárcovské SMS jsou transpozicí PR SMS s větším výnosem pro pořadatele.
 - V zahraničí se dárcovské SMS využívají spíše pro výjimečné události.
 - Český model s trvalou organizací pro dárcovské SMS je ve světě spíše unikát.
-title: "'Dárcovská SMS není žádný český vynález"
-
-  '
+title: Dárcovská SMS není žádný český vynález
 ---
 
 <p>Ohledně dárcovských SMS jsem byl osloven několika novinami, zda bych o nich něco nenapsal. Vždy jsem to zahrál do autu, protože se přiznám, že se necítím na to psát někam veřejně o službě, kterou technicky zajišťuje můj konkurent. Nebylo by to halal. Jenže v poslední době toho o dárcovských SMS bylo napsáno tolik, že si alespoň na vlastním weblogu neodpustím pár úprav. Už proto, že na kampaň o výjimečnosti a českém vynálezu naletěli i tací profíci, jako Jiří Peterka (<a href="http://www.lupa.cz/clanek.php3?show=3889">zde na Lupě</a>) nebo <a href="http://zpravy.idnes.cz/domaci.asp?r=domaci&amp;c=A050110_161815_domaci_ton&amp;t=A050110_161815_domaci_ton&amp;r2=domaci">iDNES</a>.</p>

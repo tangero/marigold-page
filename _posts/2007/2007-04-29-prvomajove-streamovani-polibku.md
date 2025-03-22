@@ -13,7 +13,7 @@ summary_points:
 - Streamování z Petřína bude náročné kvůli chybějící elektřině a internetu.
 - Kameru bude nutné hlídat před krádeží kvůli následné demonstraci ODS.
 - Záznam polibků a dárky budou dostupné na webu Streamu.
-title: "Prvomájové streamování polibků"
+title: Prvomájové streamování polibků
 ---
 
 Když už nevíte, jak vyzkoušet streamovací technologii, tak vezmete za vděk sebepitomějším důvodem. A to je i náš případ ve firmě. Víte, streamovat odněkud z klubu, jak to děláme dnes, je pohodka. Máte tam internet, elektřinu, místnost, kam zamknete počítač, prostě labůžo. Jenže co když chcete streamovat odněkud, kde nic z toho není, už to tak jednoduché není. A tak prvomájový streaming připomíná spíše ostré cvičení. 

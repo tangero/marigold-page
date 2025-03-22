@@ -14,7 +14,7 @@ summary_points:
 - SMS a data jsou pro autora užitečnější než hovory, protože je vyřizuje ve volných
   chvílích.
 - Autor zpochybňuje mýtus o úspoře času s mobilem a touží po větším klidu.
-title: 'Zrušit mobil: není to nereálné'
+title: Zrušit mobil -  není to nereálné
 ---
 
 <p>Někdy se zasním nad tou dobou, kdy jsem neměl mobilní telefon, nebo alespoň kdy ho neměl každý kolem mne. Pamatujete si to? Když jste si dali schůzku "u koně" nebo "na pólu", tak byla akademická čtvrthodinka a kdo ji prošvihl, měl pech. Zavolat, že "je dopravní zácpa" nebylo možné. A tak se musel každý nějak vypořádat s tím, že v Praze je dopravní zácpa pořád a není to důvod výmluvy. </p>

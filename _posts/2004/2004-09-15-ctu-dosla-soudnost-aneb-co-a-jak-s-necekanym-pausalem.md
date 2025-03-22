@@ -13,7 +13,7 @@ summary_points:
 - ČTÚ dříve tolerovalo používání geografických čísel pro internet.
 - Předvolba 971 původně určena pro dálková dial-up připojení.
 - Autor kritizuje ČTÚ za zpětné vymáhání dodržování číslovacího plánu.
-title: "ČTÚ došla soudnost (aneb co a jak s Nečekaným paušálem)"
+title: ČTÚ došla soudnost (aneb co a jak s Nečekaným paušálem)
 ---
 
 <p>

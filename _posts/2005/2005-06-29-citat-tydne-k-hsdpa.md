@@ -12,7 +12,7 @@ summary_points:
 - HSDPA upgrade je z 90% softwarová záležitost, zbytek hardware.
 - GPRS a EDGE aktualizace trvaly operátorům roky.
 - Operátoři čekají na ozkoušené HSDPA před stavbou 3G sítí.
-title: "Citát týdne (k HSDPA)"
+title: Citát týdne (k HSDPA)
 ---
 
 <p>Narazil jsem <a href="http://www.abiresearch.com/abiprdisplay.jsp?pressid=500">na hezký citát</a> (via David), jenž bych nazval Citátem týdne: <em>Upgrade na HSDPA je z 90% softwarová záležitost, druhou půlku dělá hardware.</em> </p>

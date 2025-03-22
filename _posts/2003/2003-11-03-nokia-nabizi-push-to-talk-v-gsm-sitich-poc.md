@@ -14,7 +14,7 @@ summary_points:
 - PoC vyžaduje IP Multimedia Core a kompatibilní mobilní telefony Nokia.
 - PoC umožňuje okamžitou semiduplexní hlasovou komunikaci stiskem tlačítka přes GPRS.
 - Podrobné anglické specifikace PoC jsou dostupné ke stažení v PDF dokumentech.
-title: "Nokia nabízí push-to-talk v GSM sítích -PoC"
+title: Nokia nabízí push-to-talk v GSM sítích -PoC
 ---
 
 <p>

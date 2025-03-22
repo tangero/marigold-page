@@ -14,8 +14,8 @@ post_excerpt: Spreadable butter is a manifestation of what irritates the Czechs 
   respect for us, without respect for our fathers, our traditions, without a single
   question to us. Can anything good ever come out of such an institution?
 thumbnail: https://www.marigold.cz/assets/pomazankove-maslo.png
-title: "How was the butter spread story in EU?"
-translated: true
+title: How was the butter spread story in EU?
+ranslated: true
 ---
 
 Spreadable butter is a manifestation of what irritates the Czechs about the European Union. It is a traditional Czech food, an invention of socialist dairy farmers, a heritage of our fathers, and the European Union has banned it. Without respect for us, without respect for our fathers, our traditions, without a single question being asked of us. Can anything good ever come out of such an institution?

@@ -13,7 +13,7 @@ summary_points:
 - Autor publikoval názor na CzFree.Net s ročním odstupem.
 - Seriál o historii českého internetu na Lupě byl po dvanácti dílech ukončen.
 - Autorův seriál o historii českého internetu se nesetkal s příznivým ohlasem.
-title: 'CzFree.Net rok poté: Na hranicích Říše'
+title: CzFree.Net rok poté -  Na hranicích Říše
 ---
 
 <p>

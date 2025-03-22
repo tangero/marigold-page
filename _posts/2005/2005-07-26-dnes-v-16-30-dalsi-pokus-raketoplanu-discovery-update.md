@@ -13,7 +13,7 @@ summary_points:
 - Přímý přenos startu Discovery bude vysílat NASA TV a portál přenosy.
 - Discovery úspěšně oddělil přídavnou nádrž, počáteční fáze proběhla dobře.
 - Záznam startu Discovery je dostupný ve videoarchívu NASA a na odkazu.
-title: "Dnes v 16:30 další pokus raketoplánu Discovery (update)"
+title: Dnes v 16 - 30 další pokus raketoplánu Discovery (update)
 ---
 
 <p><b>Ook píše:</b> Dnes v 16:39 (našeho času) se NASA

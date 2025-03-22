@@ -13,9 +13,7 @@ summary_points:
 - Plugin pro anketu je dalším testovaným nástrojem pro zpětnou vazbu.
 - Cílem testování pluginů je zjistit zájem uživatelů o nové funkce.
 - Anketa má sloužit k určení preference vláknových komentářů.
-title: "'Jaký způsob komentování vám vyhovuje?"
-
-  '
+title: Jaký způsob komentování vám vyhovuje?
 ---
 
 <texy>**Noname píše:** zkusil jsem nainstalovat plugin pro "threaded" komentáře, tj. odpovídáte-li na něčí komentář, ten váš je odsazený přímo pod původním komentářem. Jenže nevím, jestli to vůbec někdo chce. Takže zkouším ještě jeden plugin - anketku

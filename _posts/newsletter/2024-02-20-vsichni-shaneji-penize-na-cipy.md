@@ -17,7 +17,7 @@ summary_points:
 - Masajoši San shání 100 miliard dolarů na projekt Izanagi, konkurenci Nvidii.
 - Čína rekordně nakupuje vybavení na výrobu polovodičů, obchází tak americké embargo.
 - Obchodní válka USA a Číny stupňuje výdaje a omezuje obchod.
-title: "Všichni shánějí peníze na čipy"
+title: Všichni shánějí peníze na čipy
 ---
 
 Prudký nárůst poptávce po AI také přinesl nebývalou poptávko po čipech. Nvidia, dnešní leader v čipech pro trénování AI, nestíhá vyrábět a dodávat. Meta investuje 10 miliard dolarů do nákupu čipů na trénink AI v průběhu roku, jedna čipová sestava Nvidia H100 stojí kolem milionu korun, takže utrácení do AI čipů jde hodně rychle. Sam Altman shání sto miliard dolarů na to, aby mohl pro OpenAI vyrábět čipy. Peníze na čipy shání kdekdo.

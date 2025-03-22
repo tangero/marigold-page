@@ -13,7 +13,7 @@ summary_points:
 - Technologie Pre-N využívá MIMO a chytré antény pro spolehlivý přenos multimédií.
 - Belkin Pre-N je zpětně kompatibilní s 802.11g a 802.11b standardy.
 - Router Belkin Pre-N stojí 2400 Kč bez DPH a má 60 měsíců záruku.
-title: "První Pre-N produkty u nás: Belkin Pre-N WiFi"
+title: První Pre-N produkty u nás -  Belkin Pre-N WiFi
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20050828-belkin-pren.jpg" alt="Belkin Pre-N router" width="250" height="250" /></div>

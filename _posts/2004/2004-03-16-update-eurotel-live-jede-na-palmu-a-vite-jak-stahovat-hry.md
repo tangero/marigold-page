@@ -13,7 +13,7 @@ summary_points:
 - Web Live! má beztabulkový design, ale navigace je stále špatná.
 - Eurotel inzeruje návod na stahování Java her pro Live! portál.
 - Návod Eurotelu pro stahování her nefunguje, chybí odkaz.
-title: "Update: Eurotel Live! jede na Palmu a víte jak stahovat hry?"
+title: Update -  Eurotel Live! jede na Palmu a víte jak stahovat hry?
 ---
 
 <p>

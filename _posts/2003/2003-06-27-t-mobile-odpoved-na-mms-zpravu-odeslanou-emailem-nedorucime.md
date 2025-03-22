@@ -14,7 +14,7 @@ summary_points:
 - Odpověď na MMS emailovou adresu 603xxxyyy@mms.t-mobile.cz není doručena, doména
   neexistuje.
 - T-Mobile by měl zajistit funkční odpovědní adresu pro MMS zprávy posílané emailem.
-title: 'T-Mobile: odpověď na MMS zprávu odeslanou emailem nedoručíme'
+title: T-Mobile -  odpověď na MMS zprávu odeslanou emailem nedoručíme
 ---
 
 <p>

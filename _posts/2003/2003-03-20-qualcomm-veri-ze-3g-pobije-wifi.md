@@ -13,7 +13,7 @@ summary_points:
 - Qualcomm tvrdí, že 3G sítě díky pokrytí porazí WiFi.
 - Autor textu je méně optimistický ohledně 3G kvůli ceně WiFi.
 - Qualcomm profituje z patentů UMTS, proto propaguje 3G sítě.
-title: "Qualcomm věří že 3G pobije WiFi."
+title: Qualcomm věří že 3G pobije WiFi.
 ---
 
 <p>

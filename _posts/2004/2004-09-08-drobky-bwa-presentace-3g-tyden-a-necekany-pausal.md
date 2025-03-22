@@ -13,7 +13,7 @@ summary_points:
 - G Týden byl definitivně přesunut na server Mobil.cz.
 - Na Lupě vyšel článek o nečekaném paušálu pro dial-up připojení.
 - ČTÚ zvažuje zastavení internetu na geografických číslech.
-title: "Drobky: BWA presentace, 3G Týden a Nečekaný paušál"
+title: Drobky -  BWA presentace, 3G Týden a Nečekaný paušál
 ---
 
 <p>

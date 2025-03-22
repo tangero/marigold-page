@@ -13,7 +13,7 @@ summary_points:
 - Autor plánuje přesun serverů Marigold na vlastní hardware, konkrétně na Mac Mini.
 - Mac Mini jako server je zajímavá varianta, zvažuje se Tiger OS X Server a USB Flash.
 - Česká verze Wordpressu od Accida získala certifikaci Marigold, web ji používá.
-title: "Betaverze nového Marigolda"
+title: Betaverze nového Marigolda
 ---
 
 <texy>Správný web má být pořád beta, má se na něm stále něco dít a ideálně má být co nejvíce rozbořený. NoName zdárně dokončil transporty potřebných dat z Blog:CMS/Nucleusu do Wordpressu, jak vidno na new.marigold.cz. Tím ale legrace nekončí, ba právě naopak.

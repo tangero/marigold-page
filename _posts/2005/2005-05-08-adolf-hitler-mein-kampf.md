@@ -13,7 +13,7 @@ summary_points:
 - Kniha Mein Kampf je rozdělena do dvou částí, popisuje Hitlerův světonázor a NSDAP.
 - Hitler kritizoval parlamentní systém a prosazoval diktaturu "zapáleného vůdce".
 - Mein Kampf ukazuje Hitlera jako oddaného služebníka německého národa.
-title: 'Adolf Hitler: Mein Kampf'
+title: Adolf Hitler -  Mein Kampf
 ---
 
 <p>Vydání českého překladu této knihy vzbudilo takové emoce, že jsme pro samé diskuse o moralitě vydání knihy zapomněli debatovat o tom, co vlastně kniha sama obsahuje. O čem je tedy Hitlerův boj? Máme si ho přečíst?</p>

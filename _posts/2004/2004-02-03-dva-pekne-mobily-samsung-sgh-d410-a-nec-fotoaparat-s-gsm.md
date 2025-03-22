@@ -13,7 +13,7 @@ summary_points:
 - NEC kombinuje fotoaparát s GSM modulem a klávesnicí pro čínský trh.
 - Samsung neumí video z kamery přidat do MMS zprávy.
 - NEC podporuje WAP a GPRS, ale další specifikace jsou nejasné.
-title: "Dva pěkné mobily: Samsung SGH-D410 a NEC fotoaparát s GSM"
+title: Dva pěkné mobily -  Samsung SGH-D410 a NEC fotoaparát s GSM
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Partnerský WiFi program Tiscali vyžaduje individuální kontakt a není cenově jasný.
 - Tiscali plánuje do konce roku vybudovat 20 WiFi hotspotů, detaily chybí.
 - WiFi připojení Tiscali nemá dostupné ceny ani konkrétní lokality připojení.
-title: "Tiscali také u nás šlápne do WiFi"
+title: Tiscali také u nás šlápne do WiFi
 ---
 
 <p>

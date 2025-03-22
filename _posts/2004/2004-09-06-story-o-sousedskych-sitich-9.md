@@ -13,7 +13,7 @@ summary_points:
 - Řešením pro trasu v lokalitě dvě je výroba kabelu na zakázku a jeho výměna.
 - V lokalitě tři sestra a její přítel neprojevili zájem o komunitní síť.
 - Autor má k dispozici tématické fotky z odkrytého bazénu.
-title: "Story o sousedských sítích (9.)"
+title: Story o sousedských sítích (9.)
 ---
 
 <p>

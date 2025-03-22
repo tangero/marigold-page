@@ -13,7 +13,7 @@ summary_points:
 - Korunové platby na PayPalu by měly být spuštěny 12. října.
 - Český PayPal účet možná začne přijímat platby po zavedení korun.
 - Oficiální vyjádření PayPalu o funkčnosti českých účtů chybí.
-title: "PayPal bude v říjnu nebo to nechodí jen mně?"
+title: PayPal bude v říjnu nebo to nechodí jen mně?
 ---
 
 <p>Chvíli to vypadalo dobře, že PayPal konečně bude umožňovat příjem všech typů plateb i pro uživatele z Česka. Jenže pořád mi to nějak nefunguje. Nemůžu formulářem poslat žádné peníze na náš business účet. Funguje to někomu z vás? </p>

@@ -16,7 +16,7 @@ summary_points:
   za zbytečnou.
 - Autor argumentuje, že validní kód byl původně důležitý pro zařízení s omezenými
   prohlížeči, což už neplatí.
-title: "Druhý povzdech nad validitou HTML kódu"
+title: Druhý povzdech nad validitou HTML kódu
 ---
 
 <p>

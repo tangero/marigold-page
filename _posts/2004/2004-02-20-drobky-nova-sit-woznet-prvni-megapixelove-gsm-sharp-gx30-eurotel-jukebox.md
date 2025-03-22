@@ -13,7 +13,7 @@ summary_points:
 - Sharp GX30 je první GSM telefon s megapixelovým fotoaparátem od Vodafonu.
 - Eurotel Jukebox je chystaná služba pro distribuci hudby přes mobilní síť.
 - T-Mobile připravuje podobnou hudební platformu, dodavatel není znám.
-title: 'Drobky: Nová síť wOzNet, první megapixelové GSM Sharp GX30, Eurotel Jukebox'
+title: Drobky -  Nová síť wOzNet, první megapixelové GSM Sharp GX30, Eurotel Jukebox
 ---
 
 <p>

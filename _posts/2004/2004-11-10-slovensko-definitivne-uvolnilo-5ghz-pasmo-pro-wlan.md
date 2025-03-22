@@ -13,9 +13,7 @@ summary_points:
 - Frekvence 5470–5725 MHz mají maximální EIRP 1W na 20MHz kanálu.
 - České povolení 5GHz pásma závisí na projednání v Evropské komisi.
 - ČTÚ čeká na schválení, generální licence v ČR hrozí až na jaře 2005.
-title: "'Slovensko definitivně uvolnilo 5GHz pásmo pro WLAN"
-
-  '
+title: Slovensko definitivně uvolnilo 5GHz pásmo pro WLAN
 ---
 
 <p>

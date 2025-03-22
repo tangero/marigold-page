@@ -14,7 +14,7 @@ summary_points:
 - České noviny řeší hoteliéra, Čína korupci s trestem smrti.
 - Pražské letiště a MHD jsou špatně organizované, horší než v Číně.
 - Čína ukázala relativitu české důležitosti a odlišnosti v přístupu.
-title: "Zpět z Číny"
+title: Zpět z Číny
 ---
 
 Tak jsme včera dorazili z cest, dneska se pokusím odjetlagovat, případně dorazit do Streamu vyřídit pár věcí, které ku vyřízení jsou. 

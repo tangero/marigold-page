@@ -13,7 +13,7 @@ summary_points:
 - Výkonnost radiových sítí je obtížné porovnávat kvůli přetížení.
 - Nejlepší síť pro lokalitu je třeba vyzkoušet individuálně.
 - Autor se omlouvá za mylné označení Nancy Gohring za muže.
-title: "Seznam chyb na Marigoldovi: T-Mobile CS-3/4 a Nancy"
+title: Seznam chyb na Marigoldovi -  T-Mobile CS-3/4 a Nancy
 ---
 
 <p>

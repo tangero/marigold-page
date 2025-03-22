@@ -13,7 +13,7 @@ summary_points:
 - Tisková zpráva Virága upozorňuje na pokračující útok, který vystřídal fyzické napadení.
 - Kauza Berdár po zveřejnění zprávy prakticky zmizela z mediálního prostoru.
 - Nátlakové akce proti médiím probíhají v souvislosti s kauzou Berdár.
-title: "Jak pokračuje kauza Berdárova přepadení a střelby"
+title: Jak pokračuje kauza Berdárova přepadení a střelby
 ---
 
 <p>Právník G. Berdára Pavel Virág včera rozeslal tiskovou zprávu s názvem Útok na Berdára neskončil jeho brutálním napadením, ale nadále trvá (třeba <a href="http://www.telefonie.cz/zprava.asp?id=5602">zde na Telefonii</a>). </p>

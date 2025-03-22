@@ -14,7 +14,7 @@ summary_points:
 - WiFi operátoři působí v oblastech bez srovnatelné alternativy, takže není tlak na
   cenu.
 - WiFi operátoři realizují FTTH projekty a mohou být cílem převzetí.
-title: "Proč ceny WiFi neklesají"
+title: Proč ceny WiFi neklesají
 ---
 
 <p>Oook píše: V diskusích se objevily diskuse o tom, proč cena WiFi připojení k Internetu (obecně) neklesá. <br />

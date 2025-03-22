@@ -19,7 +19,7 @@ summary_points:
 - USA a Čína soupeří o prvenství v AI, možný vznik státního AGI projektu.
 - Autentické blogy se mohou vrátit jako reakce na AI generovaný obsah na sítích.
 thumbnail: https://www.marigold.cz/assets/ai-vsude-2025.png
-title: 'AI v roce 2025: Regulace, spolehlivost, geopolitika a autentické blogy'
+title: AI v roce 2025 -  Regulace, spolehlivost, geopolitika a autentické blogy
 ---
 
 V [prvním díle jsme se dívali](/item/rok-2025-v-ai/) především na technologické změny v umělé inteligenci. Dnes se podíváme spíše na ty politické a ekonomické.

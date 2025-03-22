@@ -13,7 +13,7 @@ summary_points:
 - Barcelona je lokace 3GSM kongresu, autor ji miluje a zítra odlétá.
 - ČSA letenky přes víkend jsou levnější, takže výprava odlétá dříve.
 - Český pavilon na 3GSM se nepodařilo zrealizovat kvůli časové náročnosti.
-title: "Zítra už v Barceloně a od pondělí 3GSM"
+title: Zítra už v Barceloně a od pondělí 3GSM
 ---
 
 <p>Po měsíci abstinence mi blog skoro vůbec nechybí. Jenže se blíží akce, kterou jsem si předsevzal zaznamenat a nechce se mi předsevzetí porušit, protože se tím donutím k věcem, o nichž vím, že jsou i mně užitečné, ale jinak bych na ně asi kašlal. Tedy systematicky povysedávat co největší počet přednášek na 3GSM kongresu. </p>

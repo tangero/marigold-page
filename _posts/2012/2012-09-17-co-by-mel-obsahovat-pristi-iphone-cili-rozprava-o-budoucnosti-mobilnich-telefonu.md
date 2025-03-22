@@ -16,8 +16,7 @@ summary_points:
 - NFC platby nejsou průlom, protože nenabízí zásadní výhody oproti stávajícím metodám.
 - Latentní potřeby mobilů jsou lepší vstupní/výstupní zařízení a delší výdrž baterie.
 - Současné technologie pro displeje a baterie nepřináší revoluční zlepšení, jen dílčí.
-title: "Co by měl obsahovat příští iPhone čili rozprava o budoucnosti mobilních"
-  telefonů
+title: Co by měl obsahovat příští iPhone čili rozprava o budoucnosti mobilních telefonů
 ---
 
 <p> Když v roce 2007 na trh přicházel iPhone, způsobil revoluci a proměnil od základů trh. Když byl letos představen iPhone 5, řada komentátorů včetně mne prohlásila, že je spíše očekávaným telefonem (případně rovnou zklamáním). Čekalo se více. Jenže... co? Co by mohl nový iPhone (a obecně jakýkoliv mobil) mít, aby byl <strong><em>další revolucí v mobilech</em></strong>?</p>

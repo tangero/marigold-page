@@ -15,7 +15,7 @@ summary_points:
 - Stream.cz testuje inteligentní distribuci celovečerního filmu online.
 - Používají Flash s H.264 pro plynulé přehrávání a streaming.
 - Žádají uživatele o zpětnou vazbu na funkčnost a komfort přehrávání.
-title: 'Otestujte si: celovečerní film Renesance online'
+title: Otestujte si -  celovečerní film Renesance online
 ---
 
 <b>Update:</b> našli jsme chybu, kvůli které nám to vyhazovalo testery. Poté, co jsme všechno rozkopali, se ukázalo, že u jedné komponenty jsme špatně zkopírovali konfiguraci balanceru a ten nám vyhazoval uživatele. Už jest to opraveno, takže: 

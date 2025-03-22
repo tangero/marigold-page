@@ -13,7 +13,7 @@ summary_points:
 - Lupa.cz píše o investicích do Technorati a NewsGatoru, firem spojených s weblogy.
 - Amazon.com plánuje prodej her pro mobilní telefony vedle počítačových her.
 - Ericsson ukončuje výrobu bluetooth hardware, ale vývoj bude pokračovat externě.
-title: "Drobky: BREW a Java, weblogy zainvestované a konspirační iPod teorie"
+title: Drobky -  BREW a Java, weblogy zainvestované a konspirační iPod teorie
 ---
 
 <p>

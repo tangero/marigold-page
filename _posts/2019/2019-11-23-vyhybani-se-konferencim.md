@@ -12,7 +12,7 @@ summary_points:
 - Na konferenci Devel hovořil o organizaci, nikoli o konkrétním vývoji.
 - Preferuje, aby na konferencích vystupovali mladší a nadšení účastníci.
 - Nadšení a skepse jsou důležité, ale často se neslučují.
-title: "Vyhýbání se konferencím"
+title: Vyhýbání se konferencím
 ---
 
 Poslední roky se snažím systematicky vyhýbat vystupování na nejrůznějších tuzemských konferencích. Minulý víkend byla jedna z výjimek, na  [konferenci Devel](https://devel.cz/konference)  jsem hovořil o vývoji 3D tiskáren v rámci Prusa Research. Na tomhle příkladě je moje „neochota“ dobře vidět.

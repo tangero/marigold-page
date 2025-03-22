@@ -13,7 +13,7 @@ summary_points:
 - Analýza spotřeby elektřiny vyžaduje pokročilé znalosti statistiky a dat.
 - Rozpoznání spotřebičů z vteřinových dat je komplexní úkol.
 - Velká data zahrnují obrovský rozsah, složitost a téměř reálné zpracování.
-title: "Typické problémy analýzy energetických dat – a úkol pro machry"
+title: Typické problémy analýzy energetických dat – a úkol pro machry
 ---
 
 <p>Dneska jsem četl příjemný <a href="http://www.lupa.cz/clanky/jiri-hlavenka-velka-data-nebo-jenom-velky-prachy">článek Jiřího Hlavenky o Velkých Datech na Lupě</a>. Asi mu rozumím trochu jinak, než většina diskutujících pod ním. Velká Data se používají občas jako kladivo na špendlíky, to ale neznamená, že to není dobře.</p>

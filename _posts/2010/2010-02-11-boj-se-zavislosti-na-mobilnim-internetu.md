@@ -16,9 +16,7 @@ summary_points:
 - Omezení internetu vedlo k promyšlenějším zadáním od kolegů a kvalitnější komunikaci.
 - Autor získal čas na komplexní přemýšlení a hlubší názory, na rozdíl od povrchních
   soudů.
-title: "'Boj se závislostí na mobilním internetu"
-
-  '
+title: Boj se závislostí na mobilním internetu
 ---
 
 Příběh mého boje se závislostí na mobilním internetu pokračuje. Zopakujme si základní fakta: vyhodil jsem z výbavy iPhone, zrušil mobilní internet na svém novém telefonu Motorola RAZR2, který dnes už používají jen socky a retromaniaci a přestal jsem být dostupný na emailu a všelijakých socsítích každou minutu svého života. Dokonce se mi ani nesynchronizuje kalendář mezi všemi mými počítači - prostě proto, že ta papírová verze to neumí. 

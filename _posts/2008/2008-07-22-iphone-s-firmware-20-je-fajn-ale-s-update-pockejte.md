@@ -16,7 +16,7 @@ summary_points:
 - Oficiální iPhone aplikace jsou dostupné, ale nákup komplikuje nekompatibilita iTunes
   účtů.
 - iPhone 3G se v 38 zemích vyprodal, za první tři dny se prodalo přes milion kusů.
-title: "iPhone s firmware 2.0 je fajn, ale s update počkejte"
+title: iPhone s firmware 2.0 je fajn, ale s update počkejte
 ---
 
 O víkendu vyšla utilitka Pwnage určená k přechodu na nový firmware pro Apple iPhone a jeho odemčení. A tak jsem upgradoval na 2.0. Těšil jsem se a moje očekávání byla více méně naplněna. Ačkoliv přechod doporučuji, doporučuji také ještě pár dní počkat, až se vyladí drobné problémy, jako nemožnost pohodlně vypnout automatický opravovač psaní (<a href="http://www.petrmara.com/blogger/2008/07/iphone-20-vypnut-predikce-textu-ugly.html">zde nepohodlný postup</a>), u něhož původní postup vypnutí nefunguje. Návod pro upgrade firmware pro uživatele Mac <a href="http://www.petrmara.com/blogger/2008/07/iphone-firmware-20-na-starch-iphonech.html">sepsal Petr Mára</a> zde. 

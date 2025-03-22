@@ -15,9 +15,7 @@ summary_points:
 - Autor vyjadřuje zklamání nad současným stavem vzdělávání v IT.
 - Autor navrhuje hru simulující let na Mars pro rozvoj dovedností dětí.
 - Hra má propojovat děti s odborníky a využívat moderní technologie.
-title: "'Jak letět na Mars nebo-li skoro praktické zamyšlení nad vzděláváním dětí"
-
-  '
+title: Jak letět na Mars nebo-li skoro praktické zamyšlení nad vzděláváním dětí
 ---
 
 <p>Když jsem se tu nedávno rozepsal o tom, <a href="http://www.marigold.cz/item/otazka-kolik-programatoru-je-treba-pro-obsluhu-bojoveho-vesmirneho-krizniku-je-pro-ceskou-ekonomiku-nadmiru-aktualni">kolik programátorů je třeba na vesmírný bitevní křižník,</a> dostal jsem na to obrovské množství reakcí počínající slušným výběrem na trhu dostupných sedativ přes nadšený souhlas a otázky, co s tím. Tak vytáhnu podobně těžký kalibr - bohužel již také mnohem méně promyšlený. Nebo spíše: hodně promyšlený, ale nezrealizovaný.</p>

@@ -13,7 +13,7 @@ summary_points:
 - Autor dříve zvažoval jízdu na kole do práce.
 - Autor nikdy předtím neviděl cyklistu na Barrandovském mostě.
 - Autor málem cyklistu srazil při focení.
-title: "cyklista na Barrandovskem mostě"
+title: cyklista na Barrandovskem mostě
 ---
 
 <p>

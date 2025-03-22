@@ -15,7 +15,7 @@ summary_points:
 - Geni.com je vybrán pro jednoduchost, online spolupráci a grafický editor.
 - Geni.com umožňuje pozvat příbuzné, přidávat fotky, časové osy a mapy.
 - Geni.com umožňuje export dat ve formátu GEDCOM a sdílení na Facebooku.
-title: "Geni.com – vytvořte si rodokmen online"
+title: Geni.com – vytvořte si rodokmen online
 ---
 
 Jsa nachcípán, mám chuť podívat se na nějaké triviální téma. Co třeba rodokmeny? Napadlo vás někdy udělat si rodokmen rodiny a zjistit, kdo je ve skutečnosti ta "tetička" nebo "strýček"? Nebo dokonce jít do delší minulosti a zjistit, odkud pocházíte, zda se třeba náhodou váš prapraděda nejmenoval Václav a nezemřel v nějaké rvačce roku 1306 v Olomouci, z čehož byste mohli ledasco vyvozovat... 

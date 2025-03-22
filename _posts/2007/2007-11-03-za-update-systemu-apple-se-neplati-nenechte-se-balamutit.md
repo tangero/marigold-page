@@ -14,9 +14,7 @@ summary_points:
   placené.
 - iLife a iWork jsou rozšiřující balíky softwaru, .Mac nabízí webhosting a synchronizaci.
 - Pages a Numbers z iWork nabízejí pokročilé funkce a estetické grafické zpracování.
-title: "'Za update systému Apple se neplatí, nenechte se balamutit"
-
-  '
+title: Za update systému Apple se neplatí, nenechte se balamutit
 ---
 
 Zběsilá jízda na Leopardu (aneb Mac OS X 10.5)

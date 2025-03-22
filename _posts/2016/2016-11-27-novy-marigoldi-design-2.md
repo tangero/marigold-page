@@ -15,7 +15,7 @@ summary_points:
 - Twitter účet byl zrušen, nahrazen emailem a Facebook Messengerem.
 - Plánuje se psaní článků o egovernmentu a moderních telekomunikacích.
 - Školení moderních telekomunikací v Česku má nízkou poptávku.
-title: "Nový marigoldí design"
+title: Nový marigoldí design
 ---
 
 <p>O tom, že bych rád změnil po deseti letech design Marigolda, přemýšlím už tak zhruba… no asi deset let. Ten původní měl pár drobných nevýhod, především tu, že jsem si ho vytvářel kódoval já, pod nedostatkem času a připusťme si, i bez řemeslné zručnosti. Vlastně jediná hezká věc tam byla logo Marigolda, které kreslil Upír, bohužel ztrativ původní soubory s návrhem. Logo původně představovalo zcela náhodnou tvář, jenže dneska po deseti letech se portrét ukazuje být prorockým - takhle zhruba dneska vypadám. Jen ty vlasy šedivějí. Nový design má na svědomí Honza Tippman, tedy svým způsobem. </p>

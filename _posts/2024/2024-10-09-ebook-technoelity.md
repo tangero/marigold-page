@@ -18,8 +18,7 @@ summary_points:
 - "Projekt ebooku Technoelity byl \xFAsp\u011B\u0161n\u011B financov\xE1n a autor\
   \ jej dokon\u010D\xED."
 thumbnail: https://www.marigold.cz/assets/technoelity.png
-title: ""Ebook Technoelity - Kdy\u017E p\u0159\xEDli\u0161 m\xE1lo ur\u010Duje p\u0159\"
-  \xEDli\u0161 mnoho"
+title: Ebook Technoelity - Kdy\u017E p\u0159\xEDli\u0161 m\xE1lo ur\u010Duje p\u0159\ \xEDli\u0161 mnoho
 ---
 
 Když jsem připravoval knihu [Mýty a naděje digitálního světa](https://www.melvil.cz/kniha-myty-a-nadeje-digitalniho-sveta/?utm_source=substack&utm_medium=email), byla zde kapitola věnovaná svébytným šéfům technologických korporací. Nakonec jsme ji vyřadili, protože tematicky vybočovala, byla spíše o společnosti, než o technologiích - a výrazně prodlužovala knihu. Jenže je to velká škoda, byl to dobrý vhled do toho, jak se excentričtí a egocentričtí šéfové technofirem se svými obrovskými zdroji propisují do našeho světa. 

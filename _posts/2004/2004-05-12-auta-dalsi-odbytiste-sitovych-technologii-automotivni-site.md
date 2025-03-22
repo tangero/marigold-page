@@ -13,7 +13,7 @@ summary_points:
 - Automotivní sítě propojují auta peer to peer pro výměnu informací o silnici.
 - Auta si vyměňují data o zácpách, vlhkosti a rychlosti pro bezpečnější jízdu.
 - Automotivní sítě přenášejí náklady na řidiče a automobilové radary jsou blízko realizaci.
-title: "Auta, další odbytiště síťových technologií – automotivní sítě"
+title: Auta, další odbytiště síťových technologií – automotivní sítě
 ---
 
 <p>

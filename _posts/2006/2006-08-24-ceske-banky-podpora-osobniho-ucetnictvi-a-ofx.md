@@ -13,7 +13,7 @@ summary_points:
 - eBanka nepodporuje export dat do textového souboru, ani OFX.
 - Raiffeisen banka a Citibank hlásí podporu OFX formátu.
 - Autor zvažuje změnu banky kvůli chybějící podpoře exportu dat.
-title: "České banky, podpora osobního účetnictví a OFX"
+title: České banky, podpora osobního účetnictví a OFX
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20060824-small_expenses_graph.gif" alt="graf z moneydance" width="400" height="267" /></div>Řeším takový malý soukromý problém. Rozhodl jsem se výrazněji analyzovat výdaje naší domácnosti a při tom efektivizovat čas, který trávím s tímtéž. Našel jsem řadu programů k tomu určených od Quicken po multiplatformní <a href="http://moneydance.com/">Moneydance</a>. Jenže jsem narazil na problém. Úžasné elektronické bankovnictví eBanky nemá k osobním účtům žádný export dat do textového souboru, natož pak do standardu OFX, který snad každý home-accounting software umí načíst.</p>

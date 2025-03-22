@@ -13,7 +13,7 @@ summary_points:
 - HAPS systémy využívají balóny a letadla pro distribuci internetového signálu.
 - Autor vnímá HAPS jako technologickou výzvu s riziky.
 - Autor připravuje sumarizaci HAPS projektů s klady a zápory.
-title: "HAPS – High Altitude Platform Stations – aneb internet ze vzduchu"
+title: HAPS – High Altitude Platform Stations – aneb internet ze vzduchu
 ---
 
 <p>

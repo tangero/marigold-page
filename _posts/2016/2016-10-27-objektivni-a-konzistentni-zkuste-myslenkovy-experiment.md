@@ -13,7 +13,7 @@ summary_points:
 - Myšlenkový experiment pomáhá ověřit názorovou konzistenci a nestrannost.
 - Prima má právo rozhodovat o obsahu, ale kritika plyne z její nekonzistentnosti.
 - Myšlenkový experiment využíval i Einstein k formulaci teorie relativity.
-title: "Objektivní a konzistentní? Zkuste myšlenkový experiment"
+title: Objektivní a konzistentní? Zkuste myšlenkový experiment
 ---
 
 Poslední lapálie s Primou a show Jana Krause ukazuje, jak moc problémů nám dělá kritické a nezaujaté myšlení, ačkoliv se jím zaklínáme a o své nestrannosti jsme přesvěčeni. Ve skutečnosti si tak racionalizujeme intuitivní inklinaci. Takže vám dneska svěřím jednu z věcí, kterou považuji za nezbytnou součást úspěchu každého analytika. Postup zvaný myšlenkový experiment, který vy/roz/vinula antická filosofie pro prověření záležitostí, které jinak z nějakých důvodů fyzicky či objektivně měřitelně ověřit nelze. 

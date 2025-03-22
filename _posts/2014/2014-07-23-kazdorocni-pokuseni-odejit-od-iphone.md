@@ -13,9 +13,7 @@ summary_points:
 - Potřebuje telefon pro práci, synchronizaci a základní funkce.
 - Sony a Xiaomi lákají, ale přechod vyžaduje čas a úpravy.
 - Přes pokušení se vždy vrátí k iPhonu pro jeho jednoduchost.
-title: "'Každoroční pokušení odejít od iPhone"
-
-  '
+title: Každoroční pokušení odejít od iPhone
 ---
 
 <p>Vždycky je to taková chvíle pokušení. Zbavit se iPhone. Procházím ceníky mobilů a zírám, co si člověk pořídí za pár šlupek ve světě Androidu. Pak ke mě dorazí nějaký prototyp od androidího klienta a já znejistím. Je to pořád takový problém, nebo je to prototypem?</p>

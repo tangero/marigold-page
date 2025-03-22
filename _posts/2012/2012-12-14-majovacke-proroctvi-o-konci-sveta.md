@@ -15,7 +15,7 @@ summary_points:
 - Vzpomínky na dětství a četbu Májovek ho na chvíli potěšily.
 - Digitální hodinky ukazovaly 23:59:59, ale vteřiny se začaly odpočítávat zpět.
 - Muž se soustředí na zítřejší poradu a potenciální povýšení, zatímco hvězdy pohasínají.
-title: "Májovácké proroctví o konci světa"
+title: Májovácké proroctví o konci světa
 ---
 
 <p>Odložil nedočtený výtisk Hospodářských novin a zaklonil hlavu. Nechtělo se mu o tom přemýšlet, byl rozmrzelý, že se nechal nalákat bulvárním titulkem o zítřejším konci světa a věnoval těm pár odstavcům svůj čas.</p>

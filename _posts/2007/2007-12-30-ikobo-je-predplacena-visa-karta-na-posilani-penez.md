@@ -15,9 +15,7 @@ summary_points:
 - Předplacená VISA karta se posílá adresátovi s PINem, lze ji dobíjet.
 - iKobo VISA kartou lze platit i v USA e-shopech, kde české karty nefungují.
 - Český trh nemá dostupné předplacené VISA karty, iKobo je alternativa.
-title: "'iKobo je předplacená VISA karta na posílání peněz"
-
-  '
+title: iKobo je předplacená VISA karta na posílání peněz
 ---
 
 <p><a href="http://www.ikobo.com/">iKobo</a> je služba nabízející netradiční peněžní převody. Namísto peněz je na místo určení poslána předplacená platební VISA karta, kterou můžete přednabít a později dle libosti dobíjet. Stojí za to ji zmínit z několika důvodů, ačkoliv to není česká služba, ale funguje i pro český trh.</p>

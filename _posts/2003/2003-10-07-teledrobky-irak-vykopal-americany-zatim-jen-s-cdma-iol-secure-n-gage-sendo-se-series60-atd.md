@@ -13,8 +13,7 @@ summary_points:
 - Telecom nabízí IOL Secure, ochranu emailů před viry za 79 Kč měsíčně.
 - UMTS v ČR se zpozdí o rok, start sítí bude požadován do 1.1.2006.
 - Nokia zahájila distribuci herního mobilu N-Gage přes 30 000 distributorů.
-title: "'Teledrobky: Irák vykopal američany (zatím jen s CDMA), IOL Secure, N-Gage,"
-  Sendo se Series60 atd&#8230;'
+title: Teledrobky -  Irák vykopal američany (zatím jen s CDMA), IOL Secure, N-Gage, Sendo se Series60 atd…
 ---
 
 <p>

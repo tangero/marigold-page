@@ -13,7 +13,7 @@ summary_points:
 - GSM kongres v Cannes je prestižní událost s vlivnými řečníky.
 - Valeski vystoupí 26. února 2004 na panelu o distribuci služeb.
 - Autor článku bude reportovat o Valeskiho vystoupení na 3GSM kongresu.
-title: "Valeskiho keynotes na 3GSM světovém kongresu v Cannes"
+title: Valeskiho keynotes na 3GSM světovém kongresu v Cannes
 ---
 
 <p>

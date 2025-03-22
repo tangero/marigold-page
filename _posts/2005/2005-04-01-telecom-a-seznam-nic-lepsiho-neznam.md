@@ -13,7 +13,7 @@ summary_points:
 - Seznam má silnou značku a strategii, Telecom infrastrukturu a peníze.
 - Partnerství Seznamu a Telecomu je možné v projektech jako VoIP a Starzone.
 - Seznam by mohl dodávat obsah pro projekt Digitální domácnost Telecomu.
-title: "Telecom a Seznam … nic lepšího neznám?"
+title: Telecom a Seznam … nic lepšího neznám?
 ---
 
 <p style="MARGIN: 0px"><b>Oook píše:</b>Tak se nám to všechno pěkně schází dohromady, paní Müllerová, pravil Švejk, sotva&nbsp;se dozvěděl, že odvolávaná vláda s několika ministry, kteří podali demisi,&nbsp;která nebyla přijata, prodává místní Telecom Telefónice.<br /><br />Telefónica totiž vlastní Terra Lycos, který vlastní minoritní podíl v Seznamu (a podle některých zdrojů na vlastní kůži zkusila, co je být minoritním akcionářem na Divokém Východě). <br /><br />Pokud se podíváme na Telecom a Seznam, stojí prakticky ve všech oblastech na opačných stranách. Namátkou:<br /><br /></p>

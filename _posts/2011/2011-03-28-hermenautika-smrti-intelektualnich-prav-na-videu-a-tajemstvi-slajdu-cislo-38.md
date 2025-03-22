@@ -17,8 +17,7 @@ summary_points:
   distribuce.
 - Autor sklidil úspěch s příběhem o reuploadu vlastní knihy na fóru.
 - Moderní autorské dílo spočívá v rozpoznání a šíření smysluplného obsahu z nadprodukce.
-title: "Hermeneutika smrti intelektuálních práv na videu a tajemství slajdu číslo"
-  38
+title: Hermeneutika smrti intelektuálních práv na videu a tajemství slajdu číslo 38
 ---
 
 Pozvali mne nedávno přednášet na Filosofickou fakultu Masarykovy univerzity v Brně a protože tohle místo mám rád a navíc jsem si mohl vybrat téma, souhlasil jsem. Nakonec se ukázalo, že je to fajn akce, jmenuje se to <a href="http://kisk.phil.muni.cz/blok-expertu">Blog expertů</a>, pořádá to Kabinet informačních studií a je to zvládnuté na úrovni profi akce včetně přímého videopřenosu i textového přenosu. Všechna čest, hezké, vážně hezké a zbytkem Brna asi nedoceněné. 

@@ -13,9 +13,7 @@ summary_points:
 - Systém Tropos Sphere NOS automaticky optimalizuje trasy a snadno se spravuje.
 - Další WiFi spoty posilují síť, dynamický routing reaguje na výpadky a kapacitu.
 - Cena systému Tropos je pro jedno město orientačně 20-50 tisíc USD.
-title: "'Tropos představil cellulární WiFi síť"
-
-  '
+title: Tropos představil cellulární WiFi síť
 ---
 
 <p>

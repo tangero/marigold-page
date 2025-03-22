@@ -13,7 +13,7 @@ summary_points:
 - Marigold je jeden z prvních českých serverů optimalizovaných pro iPhone.
 - Návštěvnost z iPhone na Marigold dosáhla v říjnu několika desítek uživatelů.
 - Odhaduje se, že v Česku je přibližně 500 kusů iPhone.
-title: "Marigold optimalizovaný pro iPhone"
+title: Marigold optimalizovaný pro iPhone
 ---
 
 <a href="http://www.marigold.cz/wp-content/mari2.png"><img src="http://www.marigold.cz/wp-content/_mari2.png" width="166" height="250" alt="Marigold na iPhone" title="Marigold na iPhone" align="right" /></a>Ekosystém kolem iPhone je zajímavý. Tak například vznikl <a href="http://iwphone.contentrobot.com/">plugin pro WordPress</a>, který optimalizuje vzhled serveru, pokud na něj přistupují lidé přes iPhone. Takže jsem to vyzkoušel, plugin si mírně upravil do češtiny (ne zcela) a instaloval. Vypadá to na iPhone fajnově... 

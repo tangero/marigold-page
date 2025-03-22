@@ -13,7 +13,7 @@ summary_points:
 - Terence Valeski, šéf Eurotelu, usiluje o koupi Telecomu i s Eurotelem.
 - Valeski potřebuje sehnat 50 miliard Kč pro uskutečnění privatizace.
 - Server Komunikatory.cz postrádá RSS, což ztěžuje jeho sledování.
-title: "Mobildrobky: Komunikatory.cz, Valeski má zálusk na nákup Telecomu i s Eurotelem"
+title: Mobildrobky -  Komunikatory.cz, Valeski má zálusk na nákup Telecomu i s Eurotelem
 ---
 
 <p>

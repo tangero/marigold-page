@@ -13,7 +13,7 @@ summary_points:
 - Provoz WiFi zdarma prodloužen do konce září, poté možná platba přes telefonní účet.
 - Telecom eviduje 929 registrovaných uživatelů WiFi, pravidelně používá zhruba stovka.
 - KFC předběhlo McDonald's v zavedení WiFi v českých pobočkách.
-title: "Český Telecom spustil WiFi v KFC, prodloužil bezplatný provoz"
+title: Český Telecom spustil WiFi v KFC, prodloužil bezplatný provoz
 ---
 
 <p>

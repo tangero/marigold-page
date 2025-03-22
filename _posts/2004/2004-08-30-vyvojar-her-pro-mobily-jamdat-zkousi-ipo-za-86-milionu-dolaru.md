@@ -14,9 +14,7 @@ summary_points:
   USD.
 - Více než 40% obchodu Jamdat Mobile v roce 2004 realizuje přes Verizon Wireless.
 - Jamdat Mobile uvádí, že 97% příjmů pochází z BREW a Java aplikací.
-title: "'Vývojář her pro mobily Jamdat zkouší IPO za 86 milionů dolarů"
-
-  '
+title: Vývojář her pro mobily Jamdat zkouší IPO za 86 milionů dolarů
 ---
 
 <p>

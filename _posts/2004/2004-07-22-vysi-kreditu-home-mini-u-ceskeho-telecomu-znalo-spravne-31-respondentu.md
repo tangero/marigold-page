@@ -13,7 +13,7 @@ summary_points:
 - Běžní uživatelé Telecomu pravděpodobně neznají výši svého telefonního kreditu.
 - Lidé často žijí v dojmových stereotypech o mobilních operátorech a cenách.
 - Zákaznický servis Českého Telecomu je sice zdlouhavý, ale nakonec funkční.
-title: "Výši kreditu Home Mini u Českého Telecomu znalo správně 31% respondentů"
+title: Výši kreditu Home Mini u Českého Telecomu znalo správně 31% respondentů
 ---
 
 <p>

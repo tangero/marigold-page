@@ -13,9 +13,7 @@ summary_points:
 - WiFi broadband se stal králem levných internetových přípojek v roce 2004.
 - VoIP firmy využívají, občané preferují mobilní volání a Skype.
 - Java hry a aplikace zaznamenaly masivní rozvoj včetně herních portálů.
-title: "'Jak dopadly moje předpovědi na rok 2004"
-
-  '
+title: Jak dopadly moje předpovědi na rok 2004
 ---
 
 <p>Koncem roku 2003 jsem sepsal <a href="/item/mobilni-technologie-ktere-nami-otresou-v-roce-2004-1082">Mobilní technologie, které námi otřesou v roce 2004</a>. Ačkoliv jsem to nemyslel jako závaznou předpověď, ale spíše jako sumář trendů, přesto bych se nyní o rok později rád nad článkem zastavil a vyhodnotil&#8230;</p>

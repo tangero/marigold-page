@@ -14,7 +14,7 @@ summary_points:
 - Výrobci mobilních telefonů TD-CDMA nepodporovali, protože by to zdrželo nástup UMTS.
 - FDD je v UMTS používáno pro okruhově spínaná data a klasický přenos dat.
 - TD-CDMA umožňuje asymetrické přenosy dat, ale má problémy s řízením výkonu a synchronizací.
-title: "TD-CDMA je UMTS. Jen není podporováno v terminálech."
+title: TD-CDMA je UMTS. Jen není podporováno v terminálech.
 ---
 
 <p>Vznikl s tím trochu zmatek. Je ta nová technologie, kterou bude T-Mobile nasazovat, UMTS nebo ne? Já s oblibou říkám, že pokud se hovoří o 3G, lze prohlásit cokoliv a je to pravda. Taktéž v tomto případě nelze zcela jasně stanovit, co je a co není pravdivé tvrzení. Faktem je, že dle názoru standardizátora patří TD-CDMA od roku 1998 integrálně do rodiny UMTS standardů jako druhá duplexní technologie k FDD, k frekvenčnímu duplexu. Rovněž v technických specifikacích 3GPP, který práci na UMTS standardu převzal, figuruje TD-CDMA jako součást standardu. Z toho můžeme neomylně vyvodit, že TD-CDMA ve skutečnosti je UMTS. </p>

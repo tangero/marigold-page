@@ -13,7 +13,7 @@ summary_points:
 - Lupa ztratila zajímavé autory a koncepci serveru o internetu.
 - Živě.cz slouží Cpressu jako marketingový kanál, analýzy se schovávají.
 - Redakce zeštíhlely, chybí lidé na složitější témata, atraktivita klesá.
-title: "České internetové servery mi přijdou ospalé, bez duše…"
+title: České internetové servery mi přijdou ospalé, bez duše…
 ---
 
 <p>

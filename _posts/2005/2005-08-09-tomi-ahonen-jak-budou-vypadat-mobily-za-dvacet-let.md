@@ -14,7 +14,7 @@ summary_points:
 - ': 4,5G telefony s videoprojektory, terabytovou pamětí, virtuální sekretářkou, simultánní
   překlad.'
 - ': 5G "telefony" velikosti zrnka cukru, obrovská paměť, vestavěné do šperků.'
-title: 'Tomi Ahonen: Jak budou vypadat mobily za dvacet let'
+title: Tomi Ahonen -  Jak budou vypadat mobily za dvacet let
 ---
 
 <p>Je velmi nemilé referovat o dva měsíce staré události, může za to moje lenost a to,  že o tom nikdo jiný nenapsal. </p>

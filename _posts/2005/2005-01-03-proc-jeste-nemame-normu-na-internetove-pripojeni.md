@@ -17,9 +17,7 @@ summary_points:
   což klame uživatele.
 - Normalizace internetového připojení by měla jasně definovat kvalitativní parametry,
   aby uživatelé chápali, co kupují.
-title: "'Proč ještě nemáme normu na internetové připojení"
-
-  '
+title: Proč ještě nemáme normu na internetové připojení
 ---
 
 <p>Často si média dělají legraci z posedlosti EU na všechno vytvořit normu. Je to zajímavá ukázka neinformovanosti novinářů, protože podobné normy na národní úrovni už dávno specifikuje ČSN jako Česká státní norma a EU pouze sjednocuje tyto národní normy tak, aby měly <i>&#8220;eurounijní platnost&#8221;</i>.</p>

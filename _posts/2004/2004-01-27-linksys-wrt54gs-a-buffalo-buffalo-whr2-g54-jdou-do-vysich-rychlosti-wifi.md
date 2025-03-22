@@ -17,7 +17,7 @@ summary_points:
   homogenita sítě nutná.
 - Internetové připojení je často brzdou, upgrade WiFi rychlosti nemusí přinést reálný
   nárůst.
-title: "Linksys WRT54GS a Buffalo Buffalo WHR2-G54 jdou do vyších rychlostí WiFi"
+title: Linksys WRT54GS a Buffalo Buffalo WHR2-G54 jdou do vyších rychlostí WiFi
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
   Symbian.
 - ETI Camcorder Pro umožňuje nahrávání videa na Series 60 bez omezení délky záznamu.
 - Sony Ericsson P900 umožňuje vzdálenou instalaci firmware bez nutnosti servisu.
-title: 'Mobildrobky: software pro Series60, update pro SEr P900 vzduchem'
+title: Mobildrobky -  software pro Series60, update pro SEr P900 vzduchem
 ---
 
 <p>

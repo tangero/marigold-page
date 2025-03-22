@@ -18,7 +18,7 @@ summary_points:
 - Musk očekává příchod AGI kolem roku 2029 a zdůrazňuje důležitost poměru digitálních/biologických
   výpočtů.
 - Musk navrhuje, aby ověření uživatelé hlasovali o budoucnosti xAI.
-title: "Elon Musk spouští svůj startup xAI - ano, bude o umělé inteligenci"
+title: Elon Musk spouští svůj startup xAI - ano, bude o umělé inteligenci
 ---
 
 Nebyl by to souhrn toho zajímavého, abychom si neřekli něco o Elonu Muskovi. Jeho dar vyhmátnout témata, která hýbou technologickým světem a spojit se sebou samým, je legendární. Tentokráte investuje do umělé inteligence. Zase. Proč zase? Inu, v roce 2015 zainvestoval neziskovou společnost OpenAI, která se měla zaměřovat na opensource rozvoj umělé inteligence ([Muskova historie s OpenAI](https://finance.yahoo.com/news/elon-musk-history-openai-maker-011005933.html?guccounter=1&guce_referrer=aHR0cHM6Ly9kdWNrZHVja2dvLmNvbS8&guce_referrer_sig=AQAAAHKvRc2TgUHDvaA3eHGHeOlixIK1Mp60tHV6_I_y7-NVCk0G51h2r0SSggHxrkT9sL435s48wgaVhHxnZZG68M-1ARuySTH_YivnZTXiRv-kkCCdZ7U_zyWoXi6Lxqe6yETFyczzOflZZlTVR9tSGGATlSR39GPSdrwAR2mqi0et)). Jenže narazila na zlatou žílu a z otevřenosti nezbylo mnoho, firma se v roce 2019 přeměnila na společnost s "ohraničeným ziskem", rok před tím Musk odstoupil z představenstva společnosti a dneska na její chod prakticky nemá žádný vliv, neboť v investicích do společnosti jeho podíl dávno marginalizoval Microsoft a ostatní. 

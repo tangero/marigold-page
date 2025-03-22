@@ -14,8 +14,7 @@ summary_points:
 - Wap.pic4mms.com je český vyhledávač obrázků pro mobily, určený pro MMS a tapety.
 - Švédský Big Brother přenášený přes 3G síť je populární pro sledování na mobilech.
 - Sony Ericsson S700 s 1,3MPx foťákem je žádaný telefon, ale cena může ovlivnit koupi.
-title: "'MobilDrobky: Jbag – dokumenty domobilu, Pic4MMS.com a Big Brother"
-  via 3G sítě'
+title: MobilDrobky -  Jbag – dokumenty domobilu, Pic4MMS.com a Big Brother via 3G sítě
 ---
 
 <p>

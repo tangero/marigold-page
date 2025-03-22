@@ -13,7 +13,7 @@ summary_points:
 - Displeje v brýlích (HMD) a virtuální retinální displeje (VRT) jsou potenciální řešení.
 - Eye-Up Display (EUD) kontaktní čočky jsou drahý prototyp pro armádu.
 - Free-Space Display a elektronický papír (e-paper) jsou další vyvíjené technologie.
-title: 'Budoucnost mobilů: zobrazovací zařízení nejsou jen displeje'
+title: Budoucnost mobilů -  zobrazovací zařízení nejsou jen displeje
 ---
 
 <p>Tomi Ahonen se ve své predikci budoucnosti mobilů vůbec nezdržoval tím, že by se snažil objasnit, JAK konkrétně budou překonána současná omezení vstupně výstupních zařízení. Jistě, on jako analytik a s příspěvkem určeným spíše k zamyšlení a pobavení, než jasné narýsování cesty, si to může dovolit, ostatně může abstrahovat a může také předpokládat, že není podstatné JAK, ale ŽE si nějak poradíme. </p>

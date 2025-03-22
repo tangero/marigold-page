@@ -17,7 +17,7 @@ summary_points:
 - Internet od Ufona stojí 200 Kč měsíčně s rychlostí 153 Kb/s.
 - Pokrytí Ufona je slušné v Praze 1, 2 a 4, ale slabší v budovách.
 - Telefon Ubiquam U-400 se občas samovolně rozsvítí a zhasne.
-title: "Ufonův telefon dorazil"
+title: Ufonův telefon dorazil
 ---
 
 Tak mi dorazil telefon od Ufona. Ubiquam U-400 je návrat tak o osm let zpět, co se výbavy týká a kupodivu mi to zatím vyhovuje. O tom někdy jindy. 

@@ -13,7 +13,7 @@ summary_points:
 - Andrew Orlowski z The Register byl označen za lháře kvůli názorům na Symbian.
 - MsMobiles přeložil a zkritizoval hodnoty firmy Nokia s paranoidními výhradami.
 - MsMobiles se graficky inspiroval serverem The Register, možná i obšlehl logo.
-title: "Server MsMobiles.com je pěkně vysazený na Nokiu a padají ostrá slova"
+title: Server MsMobiles.com je pěkně vysazený na Nokiu a padají ostrá slova
 ---
 
 <p>

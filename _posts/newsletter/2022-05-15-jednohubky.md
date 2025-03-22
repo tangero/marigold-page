@@ -17,7 +17,7 @@ summary_points:
 - Apple testuje iPhony s USB-C konektorem kvůli požadavkům Evropské unie.
 - Prusa Research vydala kryt Enclosure pro 3D tiskárnu, cena začíná na 9000 Kč.
 - Nvidia otevřela zdrojový kód ovladačů R515 grafických karet pro Linux kernel.
-title: "Jednohubky"
+title: Jednohubky
 ---
 
 **Kryptoměny se propadly, Bitcoin o třicet procent.** Obrovský výplach na trhu, včetně NFTček. Na druhou stranu, buďme spravedlivý. Výplach je i na burzách a všude jinde. Co si drží hodnotu, nejsou finanční deriváty, ale zboží ve skladech, ať jsou to ojetá auta, nová auta nebo díly na auta. Asi je to malá lekce o dematerializaci vlastnictví i nebezpečí výrobních systémů Just-in-time...

@@ -14,7 +14,7 @@ summary_points:
 - Důležitá je přímá viditelnost mezi body sítě, ovlivněná Fresnelovou zónou.
 - Výstavba venkovních sítí vyžaduje povolení, odbornost a znalost norem.
 - Topologie sítí se dělí na dvoubodové (PtP) a vícebodové (PtMP) s různými technologiemi.
-title: "Chci bezdrátovou síť! (4)"
+title: Chci bezdrátovou síť! (4)
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040812-PtMP diagram.jpg" alt="Zobrazení venkovní PtMP sítě" width="204" height="200" /></div><p>

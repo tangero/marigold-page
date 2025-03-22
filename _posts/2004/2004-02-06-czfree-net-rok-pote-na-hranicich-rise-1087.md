@@ -13,7 +13,7 @@ summary_points:
 - Pravidla CzFree.Net jsou definována, ale jejich vynucování je problematické.
 - Růst sítě CzFree.Net překročil možnosti řízení a řešení problémů.
 - Ještě lze zvrátit úpadek CzFree.Net, ale je nutné si ho uvědomit.
-title: 'CzFree.Net rok poté: Na hranicích Říše'
+title: CzFree.Net rok poté -  Na hranicích Říše
 ---
 
 Jak vidím CzFree.Net o rok po napsání prvního článku? Jako Assimovu Říši: na vrcholu, na počátku pomalého rozkladu, který nikdo nevnímá a který se díky tomu ani nikdo nesnaží zastavit.<!--more--><p>

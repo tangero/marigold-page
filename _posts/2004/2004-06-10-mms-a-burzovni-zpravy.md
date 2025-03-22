@@ -15,7 +15,7 @@ summary_points:
 - Profesionální obchodníci nevyužijí kurzy na mobilu, potřebují realtime software
   s více monitory.
 - Služba kurzů na mobilu by mohla být pro drobné investory, ale těch je v ČR málo.
-title: "MMS  a burzovní zprávy"
+title: MMS a burzovní zprávy
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Microsoft Smartphone 2002 vyrábí HTC, prodává Orange, T-Mobile měl být další.
 - Sendo, původně s Microsoftem, přešel k Symbianu a žaloval Microsoft.
 - Microsoft dříve či později prosadí mobily s OS, Samsung preferuje Pocket PC.
-title: "Smartphone Microsoftu u T-Mobile nebude"
+title: Smartphone Microsoftu u T-Mobile nebude
 ---
 
 <a href=mailto:maler@maler.cz>MaLér</a>: Patrick je zrovna někde mimo, tak se mu sem nacpu (neměl mi dávat přístup :). Podle <a href=http://www.reuters.com/newsArticle.jhtml?type=technologyNews&storyID=2751164 target=_blank>Reuters</a> dnes T-Mobile International jen tak mimochodem na tiskovce Deutsche Telekom oznámil, že nehodlá uvádět na trh chytrý telefon, poháněný operačním systémem Microsoft Smartphone. Tento přístroj, který měla nasadit celá síť operátorů T-Mobile, a měl se tedy objevit i u nás, byl představen letos v únoru na konferenci v Cannes.

@@ -13,7 +13,7 @@ summary_points:
 - Internet Mail 2000 obsahuje odvážné myšlenky, například ukládání pošty u ISP odesílatele.
 - NGMP využívá stávající služby (Apache, MTA, Jabberd) pomocí skriptů.
 - Instalace NGMP je složitá, což snižuje šanci na široké přijetí.
-title: "NGMP – Next Generation Mail Protocol"
+title: NGMP – Next Generation Mail Protocol
 ---
 
 <p>

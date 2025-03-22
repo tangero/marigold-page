@@ -19,7 +19,7 @@ summary_points:
 - o1 "promýšlí" odpovědi a pomáhá autorovi s rešeršemi a argumentací.
 - Nevýhodou o1 je absence vkládání souborů a hlasového rozhraní kvůli regulacím.
 - OpenAI byla oceněna na 157 miliard dolarů a Sam Altman má vizi budoucnosti s AI.
-title: "\U0001F353OpenAI představila nejnovější model o1 a nástroj Canvas"
+title: \U0001F353OpenAI představila nejnovější model o1 a nástroj Canvas
 ---
 
 Už v září představila OpenAI svou novou verzi umělé inteligence, kterou původně vyvíjela pod krycím jménem jahoda. Nyní se jmenuje o1 - to proto, aby se odlišila od předchozích verzí nazvaných GPT. Nebudu se příliš o o1 rozepisovat, to nejpodstatnější je, že je opravdu na řadu užití výrazně lepší, než GPT-4o, má ale svoje momentální limity. 

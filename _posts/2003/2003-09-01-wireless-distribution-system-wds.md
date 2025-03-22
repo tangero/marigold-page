@@ -13,7 +13,7 @@ summary_points:
 - Apple, Buffalo a Linksys (novější modely) podporují WDS propojení.
 - WDS zařízení běží na stejném kanále, což snižuje přenosovou rychlost.
 - Budoucí WDS systémy pravděpodobně umožní provoz na jiném kanále.
-title: "Wireless Distribution System (WDS)"
+title: Wireless Distribution System (WDS)
 ---
 
 <p>

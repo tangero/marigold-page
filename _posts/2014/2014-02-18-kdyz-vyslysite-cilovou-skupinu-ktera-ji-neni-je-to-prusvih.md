@@ -16,9 +16,7 @@ summary_points:
 - Finální "černý web" vznikl po důkladném testování a zpětné vazbě.
 - Chybou bylo naslouchání nesprávné cílové skupině.
 - Poučení z chyb je klíčové pro úspěšný vývoj produktu.
-title: "'Když vyslyšíte cílovou skupinu, která jí není, je to průšvih"
-
-  '
+title: Když vyslyšíte cílovou skupinu, která jí není, je to průšvih
 ---
 
 <p>Má-li zaznít kritika, tak je nejlepší ukázat ji na vlastních pochybeních. Když jsem <a href="http://www.marigold.cz/item/lean-startup-aneb-jak-se-propivotovat-do-pekla">psal o "lean startupu"</a>, snažil jsem se vysvětlit, že jejich metodika stálého testování vlastně není metodikou, jen temným příkázáním. Což je nepříjemné ve chvíli, kdy nevíte, jak se testování a průzkumy dělají, přičemž Riesův “lean” se na ně opravdu hodně odvolává. Snadno se pak necháte svést na zcestí, protože neodhadnete, co a kdo je vaše cílová skupina či jaký je její rozměr nebo dynamika. A už vůbec nebudete schopni odvodit z reakcí, jaké bude skutečné přijetí novinky, se kterou trh nemá zkušenosti.</p>

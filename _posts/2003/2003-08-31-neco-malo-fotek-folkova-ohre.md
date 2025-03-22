@@ -13,7 +13,7 @@ summary_points:
 - Na Hauenštejně proběhne 12.9. dražba řezbářských prací, seznam je online.
 - Na Hauenštejně je špatný signál, chytá se jen na vršku kapličky.
 - Víkend zakončila návštěva filmu Piráti z Karibiku, který autor doporučuje.
-title: 'Něco málo fotek: Folková Ohře'
+title: Něco málo fotek -  Folková Ohře
 ---
 
 <p>

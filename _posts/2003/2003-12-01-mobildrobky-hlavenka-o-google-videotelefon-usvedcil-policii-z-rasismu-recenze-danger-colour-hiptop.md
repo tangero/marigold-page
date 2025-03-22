@@ -14,8 +14,7 @@ summary_points:
 - Individuální investoři se zajímají o Google IPO, fondy mají obavy.
 - Policie v USA byla nafocena při zásahu telefonem s fotoaparátem.
 - Danger Hiptop, chytrý telefon T-Mobile USA, je recenzován.
-title: "'Mobildrobky: Hlavenka o Google, videotelefon usvědčil policii z rasismu,"
-  recenze Danger Colour Hiptop'
+title: Mobildrobky -  Hlavenka o Google, videotelefon usvědčil policii z rasismu, recenze Danger Colour Hiptop
 ---
 
 <p>

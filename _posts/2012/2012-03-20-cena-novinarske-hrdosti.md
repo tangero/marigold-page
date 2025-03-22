@@ -16,7 +16,7 @@ summary_points:
 - Autor trvá na placení vlastních obědů s lidmi z oboru, aby zachoval nezávislost.
 - Drahý oběd v luxusní restauraci byl zaplacen autorem, aby si zachoval novinářskou
   hrdost.
-title: "Cena novinářské hrdosti"
+title: Cena novinářské hrdosti
 ---
 
 V poslední době se mi zdá, že se všeobecně rozšiřují propasti mezi lidmi a skupinami a v novinařině se to projevuje tak, že mezi píáristy koluje řada hemzů na to, že novináři se chodí na tiskovky jen nažrat a loudí obědy zdarma. Proti čemuž bojuju tím, že na tiskovky si nosím vlastní jídlo, když už tam jdu a mám hlad (tiskovky jsou, víme, v redakcích na úkor jídla, bo práce se sama neurobí). Naposledy jsem takto ostentativně požíral vlastní bagetu na tiskové konferenci H1, když jeden ze spolumajitelů na Twitteru brblal, že novináři se tam přijdou jen najíst. Každý novinář má svou hrdost a řada z nich ji má postavenou více, než na cenovce dvou paukertových chlebíčků. 

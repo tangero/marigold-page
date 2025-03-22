@@ -13,7 +13,7 @@ summary_points:
 - eTel podporuje žalobu Tele2 a má s Telecomem dřívější spory.
 - Home Mini neumožňoval volbu operátora, což je jádro sporu.
 - Autor kritizuje Tele2 za nedostatečné investice do vlastní infrastruktury.
-title: "Co si mám myslet o teležalobách a teležalujících?"
+title: Co si mám myslet o teležalobách a teležalujících?
 ---
 
 <p>Tele2 zažalovalo Český Telecom a ten to považuje za komunikační

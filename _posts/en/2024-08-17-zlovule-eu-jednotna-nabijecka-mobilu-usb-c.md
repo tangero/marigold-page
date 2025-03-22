@@ -14,8 +14,8 @@ post_excerpt: It is another thing that the European Union has dictated to us. A 
   like pushing for a single charger for mobiles, what was the background and how did
   it proceed?
 thumbnail: https://www.marigold.cz/assets/nabijecky-eu.png
-title: "The case of the EU's unified mobile phone charger"
-translated: true
+title: The case of the EUs unified mobile phone charger
+ranslated: true
 ---
 
 Every now and then, a Euro-EU scandal whizzes through the Czech basin, which Western Europe is not as good at picking up as the alert Czech reader. For example, the god-awful fuss that the EU has banned various types and models of chargers and allowed one single one, USB-C, keeps coming back in cycles. It's a similar kerfuffle to the one [was with the spreadable butter](/item/how-it-was-with-the-butter/) that the EU banned for us (except not at all) How could such a thing happen, why don't we have the right to use dozens of charger and connector models like we did at the turn of the millennium - and how do the poor companies come to that? Let's get the facts straight.

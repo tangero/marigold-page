@@ -13,7 +13,7 @@ summary_points:
 - Číslovací plán má zajistit soudržnost a cenovou jednoznačnost telefonních čísel.
 - Připojení k internetu přes běžná čísla by nemělo porušovat Číslovací plán.
 - Autor se ptá ČTÚ na oficiální stanovisko k připojování přes jiná čísla než 971.
-title: "Maličký spor o Číslovací plán"
+title: Maličký spor o Číslovací plán
 ---
 
 <p>

@@ -18,7 +18,7 @@ summary_points:
 - Gemini Pro 1.5 vyniká kontextovým oknem až deset milionů tokenů.
 - Dlouhý kontext umožňuje AI zpracovávat rozsáhlá data a učit se nové úkoly.
 - Gemini Pro využívá architekturu Mixture of Experts (MoE) pro efektivnější škálování.
-title: "Google Gemini Pro 1.5 a rozšíření kontextu"
+title: Google Gemini Pro 1.5 a rozšíření kontextu
 ---
 
 Google se v poslední době hodně snaží a s umělou inteligencí posouvá. Před dvěma týdny vydal model Ultra 1.0, minulý týden pak model Gemini Pro 1.5. Budeme si muset trochu udělat pořádek v Google AI modelech, ale nebojte, ještě to chvilku počká, protože Google je nejdříve oznamuje a veřejné uvolnění mu trvá, tím spíše pro Českou republiku. Co je ale důležité: Google opouští značku Bard a své nové LLM modely označuje jako Gemini.

@@ -13,7 +13,7 @@ summary_points:
 - WiFi funguje zdarma, ačkoli pokladní o spuštění služby nevěděla.
 - Český Telecom provozuje dva access pointy na kanálech 7 a 14.
 - Nescafé kavárny jsou vybaveny WiFi, což autor považuje za pozitivní krok.
-title: "WiFi na Novém Smíchově a v síti Nescafé"
+title: WiFi na Novém Smíchově a v síti Nescafé
 ---
 
 <p>

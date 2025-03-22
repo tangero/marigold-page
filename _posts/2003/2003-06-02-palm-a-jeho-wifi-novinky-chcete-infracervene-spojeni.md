@@ -13,7 +13,7 @@ summary_points:
 - WiFi SD karta pro Palm Tungsten T bude dostupná až na podzim.
 - Láďa Myslík napsal návod pro infračervené spojení.
 - Infračervené spojení je dle Myslíka pro ty, co nechtějí ušetřit čas.
-title: "Palm a jeho WiFi novinky. Chcete infračervené spojení?"
+title: Palm a jeho WiFi novinky. Chcete infračervené spojení?
 ---
 
 <p>

@@ -13,8 +13,7 @@ summary_points:
 - T-Mobile zavádí nový slogan "Pro Váš lepší svět" a vizuální podobu reklam.
 - JBenchmark je midlet pro otestování výkonu mobilního telefonu.
 - StrategyWar je česká java hra od RedBoss týmu, inspirovaná hrou Dune.
-title: "'Drobky: Contactel prý převezmou ČRa, T-Mobile pro váš lepší svět, javový benchmark"
-  pro mobily a&nbsp;java hry'
+title: Drobky -  Contactel prý převezmou ČRa, T-Mobile pro váš lepší svět, javový benchmark pro mobily a java hry
 ---
 
 <p>

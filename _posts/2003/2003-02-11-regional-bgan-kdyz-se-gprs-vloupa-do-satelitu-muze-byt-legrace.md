@@ -13,7 +13,7 @@ summary_points:
 - Satelitní modem pro Bgan váží 1,6 kg a má USB, ethernet i bluetooth.
 - Bgan dosahuje rychlosti 144 Kbps a komerčně funguje od roku 2002.
 - Pokrytí Bgan zahrnuje 99 států a do roku 2004 pokryje většinu Země.
-title: "Regional Bgan – když se GPRS vloupá do satelitů, může být legrace"
+title: Regional Bgan – když se GPRS vloupá do satelitů, může být legrace
 ---
 
 <p>

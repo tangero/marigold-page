@@ -13,7 +13,7 @@ summary_points:
 - Autor byl porotcem Křišťálové Lupy a vyvrací konspirační teorie.
 - Uvádí své hlasování v kategoriích Projekt roku a Anticena.
 - Vysvětluje své umístění v anketě Osobnost roku a obhajuje porotu.
-title: "Zvědavcova etymologie kuličky z prdu na Křišťálové Lupě"
+title: Zvědavcova etymologie kuličky z prdu na Křišťálové Lupě
 ---
 
 <texy>Chtěl jsem něco málo kdysivá napsat ke <a href="http://kristalova.lupa.cz/vysledky/">Křišťálové Lupě</a>, ocenění internetovým projektům. Jsa v komisi, chtěl jsem říci, komu a jak jsem hlasoval. Přepracování způsobilo, že příležitost vyšla jiná, než jsem snad původně čekal. 

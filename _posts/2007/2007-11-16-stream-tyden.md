@@ -14,7 +14,7 @@ summary_points:
 - Propagace Streamu na Seznamu odstartovala 12.11., návštěvnost prudce vzrostla.
 - Návštěvnost Streamu dosáhla přes 150 000 návštěvníků, distribuováno přes půl milionu
   videí.
-title: "Stream týden"
+title: Stream týden
 ---
 
 Poslední dobou bylo ve Streamu dost rušno, což se mimo jiné projevuje tím, že přijdu domů a jsem tak vyflusnutý, že nenapíšu ani čárku. A když ano, tak do práce.  Ale všechna ta práce začala konečně tento týden nést ovoce viditelné, utrhnutelné. Návštěvnost.

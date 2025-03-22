@@ -16,7 +16,7 @@ summary_points:
 - Rodina se rozhodla odstěhovat z Prahy do Brandýsa nad Labem kvůli lepšímu prostředí.
 - Původní volba Stará Boleslav byla zamítnuta kvůli špatné situaci způsobené opravou
   mostu.
-title: "Konec Prahy aneb stěhování"
+title: Konec Prahy aneb stěhování
 ---
 
 V Praze jsem prožil, ať počítám jak počítám, nějakých osmnáct let. Což mi dnes přijde neuvěřitelné. Úplně poprvé jsme dorazili na VŠE se spolužákem Jiříkem zvaným Komarkinem, abychom zjistili, že se nedostaneme na kolej, protože nespadáme do kilometrového limitu. Namítli jsme, že kilometrový limit je pěkná věc, ale z našich vesniček prostě autobus k vlaku nejezdí, takže je tu drobný problém. Říkali jsme si, že takový rozumný argument bude stačit. 

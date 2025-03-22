@@ -17,7 +17,7 @@ summary_points:
 - Propojení systémů usnadňují Zapier a API, ale české služby mají často omezené možnosti.
 - DopisyOnline od České pošty automatizuje tisk, obálkování a rozesílání dopisů přes
   API.
-title: "Zase v kotelně v podpalubí – a přikládat a přikládat"
+title: Zase v kotelně v podpalubí – a přikládat a přikládat
 ---
 
 <p>Pustit se do budování firmy a produktu od počátku a mít to všechno na triku, je zajímavý zážitek. Znovu se mi vrací v energomonitoru. Sháníme prostory, lidi, řešíme události jako nevyclitelná zásilka i dramata typu "folii na výlohu nelze lepit, když mrzne", to všechno najednou, za plného provozu.</p>

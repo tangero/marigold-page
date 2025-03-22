@@ -13,9 +13,7 @@ summary_points:
 - Palm přejmenoval hardware divizi na PalmOne, softwarová divize PalmSource.
 - T-Mobile UK spustí 3G síť v Británii o Vánocích, v Německu na podzim.
 - Virgin dosáhl ve Velké Británii tří milionů zákazníků.
-title: "'Oskar MMS za měsíc. Palm je PalmOne, T-Mobile UK spustí 3G prý brzy"
-
-  '
+title: Oskar MMS za měsíc. Palm je PalmOne, T-Mobile UK spustí 3G prý brzy
 ---
 
 <p>

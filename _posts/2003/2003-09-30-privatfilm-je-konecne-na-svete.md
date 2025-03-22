@@ -14,7 +14,7 @@ summary_points:
 - Erotické filmy v Cinetiku vadily rodičům a výběr byl pro zájemce nedostatečný.
 - PrivatFilm vyžadoval manuální zpracování popisků a obálek erotických titulů.
 - Databázoví plniči Cinetiku nakonec PrivatFilm úspěšně zprovoznili.
-title: "PrivatFilm je konečně na světě"
+title: PrivatFilm je konečně na světě
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - 'O2: Obsah je klíčový, operátoři by měli respektovat náklady poskytovatelů obsahu.'
 - 'UPC Morgen: Typické mobilní video má malou velikost, nízké rozlišení a DRM ochranu.'
 - 'Mobilní video: Používá se hlavně jako kuriozita, což je nebezpečné pro jeho budoucnost.'
-title: 'Další přednáškový blok: video services'
+title: Další přednáškový blok -  video services
 ---
 
 Dnešní přednáškový blok začíná tématem videosluzeb. První mluvila <STRONG>Laura Rovizzi z italského operátora Wind</STRONG>. Podle zkušenosti Windu videoprenosy buďto vyplňují čas mezi dvěmi aktivitami, nebo dublují právě probíhající aktivitu, například při poslouchání nějaké konference se stahuje video jen tak pro ukrácení dlouhé chvíle. To je zajímavé si uvědomit - video na mobilech není pro lidí nijak primární a od toho by se měla odvíjet použitelnost i cena. 

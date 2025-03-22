@@ -16,7 +16,7 @@ summary_points:
 - Průměrný denní výdělek weblogu Marigold byl 1,3 dolaru, průměrně 10 centů za kliknutí.
 - Reklama pro české weblogy nemá velkou perspektivu, pokryje maximálně náklady na
   webhosting.
-title: 'Finanční výtěžnost weblogů: asi nic moc'
+title: Finanční výtěžnost weblogů -  asi nic moc
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - CZFree.Net hesla ke směrovačům jsou na Lamer.cz.
 - xChaos sdělil hesla k páteřním směrovačům.
 - Schůze CLOUDu se týkala i lokality dvě (skorotchán).
-title: "Všichni jsme lamy"
+title: Všichni jsme lamy
 ---
 
 <p>

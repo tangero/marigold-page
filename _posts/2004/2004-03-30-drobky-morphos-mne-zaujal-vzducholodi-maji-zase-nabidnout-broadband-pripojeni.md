@@ -13,7 +13,7 @@ summary_points:
 - Capanina projekt vyhodil 5.6 milionů eur na vzducholodi pro broadband.
 - Vzducholodi Capanina měly distribuovat levné broadband připojení ze stratosféry.
 - Autor navrhuje šít wifi přístupové body do oblečení pro broadband připojení.
-title: 'Drobky: Morphos mne zaujal, vzducholodi mají zase nabídnout broadband připojení'
+title: Drobky -  Morphos mne zaujal, vzducholodi mají zase nabídnout broadband připojení
 ---
 
 <p>

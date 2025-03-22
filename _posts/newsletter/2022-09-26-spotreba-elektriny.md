@@ -12,7 +12,7 @@ summary_points:
 - Ethereum Classic hashrate vzrostla z 45 TH/s na 150 TH/s po přechodu Etherea.
 - Bitcoin těžba využívá ASICy, proto těžaři Etherea nemohou snadno přejít.
 - Ethereum Merge snížil spotřebu elektřiny o 10-20%, ne o slibované násobky.
-title: "Spotřeba elektřiny"
+title: Spotřeba elektřiny
 ---
 
 Další zastávka bude u spotřeby elektřiny. Tu v kryptoměnovém světě spotřebovávají nejrůznější počítače na zajištění ověřování a těžby kryptoměny, nejčastěji jsou to specializované těžební ASICy a upravené počítače s GPU, které nelze na nic jiného pořádně použít. Takže se nedá předpokládat, že je jejich uživatelé okamžitě vyhodí a elektřina se ušetří. 

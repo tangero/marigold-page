@@ -12,8 +12,7 @@ summary_points:
 - Cisco koupilo Linksys za půl miliardy dolarů v akciích.
 - Americká armáda v Iráku může zaměnit satelitní signál za cíl.
 - Linksys má v nabídce zhruba 70 produktů a 300 zaměstnanců.
-title: "Cisco odkoupilo Linksys za 500 mil USD. Máte v Iráku satelitní telefon?"
-  Můžete schytat bombu&#8230;
+title: Cisco odkoupilo Linksys za 500 mil USD. Máte v Iráku satelitní telefon? Můžete schytat bombu…
 ---
 
 <p>

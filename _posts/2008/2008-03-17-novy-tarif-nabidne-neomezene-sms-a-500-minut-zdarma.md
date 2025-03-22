@@ -15,7 +15,7 @@ summary_points:
 - České tarify srovnatelné služby stojí 1400 Kč až 1782 Kč.
 - Britská 3 nabízí Skype, IM klienty a 3GB dat za 500 Kč.
 - Britský O2 nabízí 400 minut a 500 SMS za 960 Kč s úpisem.
-title: "Nový tarif nabídne neomezené SMS a 500 minut v ceně"
+title: Nový tarif nabídne neomezené SMS a 500 minut v ceně
 ---
 
 To všechno za poměrně slušný poplatek 800 Kč měsíčně. Pokud je vám těch minut málo, dostanete dražší paušál za 1100 Kč, kde dostanete v ceně SMS zprávy a 750 volných minut měsíčně. K tomu zdarma (za symbolickou kačku) Sony Ericsson K660i nebo Nokia 6500 dle vaší volby. Tím se dostáváme ke dvěma nevýhodám této tarifní nabídky. Tak za prvé je podmíněna úpisem na 12 či 18 měsíců (za 18 měsíců úpisu jsou i lepší mobily). Tahle podmínka by asi vadila méně. Více vadí geografické omezení, nabídka pochází od britské 3 a jde o <a href="http://www.three.co.uk/personal/price_plans_/pay_monthly_/unlimited-texter.omp">tarifní plán Short & Sweet</a>. Takže se týká její britské sítě. 

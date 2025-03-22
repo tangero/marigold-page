@@ -17,10 +17,7 @@ summary_points:
 - Autor se rozhodl otestovat prodej e-knihy bez DRM za rozumnou cenu.
 - Kniha "Koncernová pětiletka" bude vydána digitálně za odhadovanou cenu 50 Kč.
 - Z prodejní ceny 50 Kč zbývá po odečtení DPH a provize portálu 25 Kč.
-title: "'Kolik by měla stát digitální knížka bez DRM (ano, tohle je šance jí dát cenu,"
-  vážně)
-
-  '
+title: Kolik by měla stát digitální knížka bez DRM (ano, tohle je šance jí dát cenu, vážně)
 ---
 
 V souvislosti s e-knihami je jednou z největších debat, kolik by taková digitální knížka měla stát. Zákazníci jsou toho názoru, že by měla stát co nejméně, vydavatelé zase, že o něco více. Situace se především liší v tom, že zákazník si myslí, že většinu ceny knihy dělá tisk a papír, zatímco vydavatel ví, že to není pravda - až na majstrštyky v desetitisícových nákladech dělá papír a tisk tak třetinu. Do toho kniha je v nižší sazbě DPH, což kniha digitální není. Výsledek je ten, že potenciální zákazník bývá zklamán kombinací ceny, která není jemu libá a DRM, které mu je libé ještě méně, jenže vydavatel doufá, že mu ochrání nelevnou knihu před rozpirátěním. Zákazník namítá: dejte ji levněji a bez DRM, abychom si ji mohli přečíst bez potíží. Vydavatel křičí: jak zaplatím lidi a ještě mi ji rozpirátí... Zákazník oponuje: tak to si ji nekoupím. Vydavatel: vidíte, digitální knihy se neprodávají, lidi chtějí papír. 

@@ -13,7 +13,7 @@ summary_points:
 - prodává Nokia 7600 v Británii, s cenou od zdarma do 140 liber.
 - Jižní Korea povolila dotace na mobilní telefony v 3G sítích do 40%.
 - USA předpovídají, že WiFi předstihne 3G připojení v roce 2007.
-title: "3G Týden: Portugalské 3G, sdílení infrastruktury ve Finsku a další"
+title: 3G Týden -  Portugalské 3G, sdílení infrastruktury ve Finsku a další
 ---
 
 <p>

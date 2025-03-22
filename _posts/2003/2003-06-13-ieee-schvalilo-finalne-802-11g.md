@@ -13,7 +13,7 @@ summary_points:
 - NetGear vydal update firmware pro produkty splňující standard.
 - Texas Instrument a Intersil Prismo Nitro čipsety vyhovují standardu.
 - Ostatní výrobci provedou update v nejbližších dnech.
-title: "IEEE schválilo finálně 802.11g"
+title: IEEE schválilo finálně 802.11g
 ---
 
 <p>

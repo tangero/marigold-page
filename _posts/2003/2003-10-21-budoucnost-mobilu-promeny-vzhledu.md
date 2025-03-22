@@ -13,7 +13,7 @@ summary_points:
 - Neatraktivní mobil nemá šanci v konkurenci.
 - Výrobci kladou velký důraz na vývoj vzhledu mobilů.
 - Článek se zabývá koncepty vzhledu mobilů a jejich proměnami.
-title: 'Budoucnost mobilů: proměny vzhledu'
+title: Budoucnost mobilů -  proměny vzhledu
 ---
 
 <p>

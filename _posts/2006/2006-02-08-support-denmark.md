@@ -13,7 +13,7 @@ summary_points:
 - Autor upřednostňuje české produkty a nyní odmítá muslimské.
 - Dánské firmy by mohly žalovat noviny za finanční škody.
 - Autor založil diskusi k tématu na fóru Marigold.cz.
-title: "Support Denmark"
+title: Support Denmark
 ---
 
 <p><strong>Noname píše:</strong> Patrick umístil do pravého rohu stránek odkaz na <a href="http://www.supportdenmark.com/more.html#CS">Support Denmark</a>. Je skvělé, že máme stejný názor, doporučuji i ostatním vlastníkům webů, ostatně už jsem tu o tom dávno chtěl psát, ale bez komentářů by to bylo k ničemu. Celá situace udělala složitější i moje nakupování - zatím jsem vždy pátral, jestli je produkt z Česka a když ne, jestli existuje nějaká jeho česká, byť dražší alternativa, kterou si koupím.  Nyní pátrám, jestli náhodou není produkt z nějaké muslimské země, abych jej zavrhl.</p>

@@ -13,9 +13,7 @@ summary_points:
 - FeedDemon byl druhý finalista, ale byl placený a náročnější na paměť.
 - FeedReader neměl standardizovaný formát pro import/export zdrojů, což vadilo autorovi.
 - Autor preferuje jednoduchost SharpReaderu před zbytečnými funkcemi a filtry.
-title: "'Vítězem tendru na RSS čtečku se stává SharpReader"
-
-  '
+title: Vítězem tendru na RSS čtečku se stává SharpReader
 ---
 
 <p>

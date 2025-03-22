@@ -13,7 +13,7 @@ summary_points:
 - Autor navrhl rozsáhlý plán se třemi anténami pro zakruhování a tranzit.
 - Komunikace s CZFree komunitou ohledně autonomního systému byla komplikovaná.
 - Pro směrování bude použit Linux s minimálním softwarem a starší hardware.
-title: "Story o sousedských sítích (3.)"
+title: Story o sousedských sítích (3.)
 ---
 
 <p>

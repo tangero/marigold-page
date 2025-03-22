@@ -13,7 +13,7 @@ summary_points:
 - MediaPlazza nabízí java hry, pozadí, vyzváněcí tóny a další obsah.
 - Pipeline tranzituje obsah pro české sítě, kromě monofonních zvonění a log.
 - Loga a zvonění stojí 30 Kč, hry 60 Kč, autor testoval a hraje Pinball.
-title: "Připojený zákazník – hajdy stahovat hry a loga :)"
+title: Připojený zákazník – hajdy stahovat hry a loga  - )
 ---
 
 <p>

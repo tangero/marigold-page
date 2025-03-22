@@ -15,7 +15,7 @@ summary_points:
 - Prezentace z Barcelony je dostupná online na Scribd.com.
 - Přednáška o vlivu komunikace čeká autora v Jilemnici.
 - Autorova účast na veřejných akcích bude po Jilemnici omezena.
-title: "Včerejší Communication Wednesday a Barcelona"
+title: Včerejší Communication Wednesday a Barcelona
 ---
 
 Včera jsem byl na akci zvané Communication Wednesday, kterou pořádá sdružení Tuesday Business Network. Byl  jsem požádán, abych rekapituloval zajímavosti z Barcelony, takže jsem tam udělal maličkou presentaci. Tu najdete zde. 

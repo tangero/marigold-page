@@ -13,7 +13,7 @@ summary_points:
 - Telecom raději prodává méně ADSL linek dráže kvůli omezené kapacitě instalací.
 - Problémem českého ADSL není cena, ale pomalé zavádění a dostupnost.
 - Do konce roku se očekává atraktivnější ADSL s nižší cenou a větší dostupností.
-title: "Já vím, že mne nebudete mít rádi – ale proč by Telecom měl zlevnit ADSL…?"
+title: Já vím, že mne nebudete mít rádi – ale proč by Telecom měl zlevnit ADSL…?
 ---
 
 <p>

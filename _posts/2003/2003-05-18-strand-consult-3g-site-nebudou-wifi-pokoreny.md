@@ -13,7 +13,7 @@ summary_points:
 - WiFi roaming je minimální, ale vyvíjí se software pro roaming mezi WiFi provozovateli.
 - Uživatelé budou zvažovat cenu versus pokrytí při výběru mezi 3G a WiFi.
 - G bude bodovat v nativních mobilních aplikacích, ale chybí standardy.
-title: 'Strand consult: 3G sítě nebudou WiFi pokořeny'
+title: Strand consult -  3G sítě nebudou WiFi pokořeny
 ---
 
 <p>

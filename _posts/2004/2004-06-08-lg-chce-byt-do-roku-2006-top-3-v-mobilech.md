@@ -13,7 +13,7 @@ summary_points:
 - Reorganizace firmy zahrnuje globální výzkumný tým a integraci GSM/CDMA.
 - Regionální manažeři získají větší pravomoci v plánování produktů a marketingu.
 - LG otevře výzkumná centra v Číně, Evropě a později i jinde.
-title: "LG chce být do roku 2006 Top 3 v mobilech"
+title: LG chce být do roku 2006 Top 3 v mobilech
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Skype vyvolává diskuse o dopadu na telekomunikační společnosti a jejich budoucnost.
 - Handango zveřejnil seznam nejprodávanějšího mobilního softwaru pro PDA a mobily.
 - Jihokorejci fotí knihy fotomobily kvůli vysokým cenám knih.
-title: "Drobky všeobecně bezdrátovo-mobilně a internetově formou linků…"
+title: Drobky všeobecně bezdrátovo-mobilně a internetově formou linků…
 ---
 
 <p>

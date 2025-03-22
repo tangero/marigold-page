@@ -13,9 +13,7 @@ summary_points:
 - MMS zprávy jsou drahé a složité, což brání jejich masovému rozšíření.
 - Mnoho uživatelů posílá obrázky raději e-mailem kvůli ceně a dostupnosti.
 - Nespolehlivost doručení MMS zpráv je zásadní problém pro uživatele.
-title: "'MMS (multimediální SMS) mohou dopadnout špatně"
-
-  '
+title: MMS (multimediální SMS) mohou dopadnout špatně
 ---
 
 <p>

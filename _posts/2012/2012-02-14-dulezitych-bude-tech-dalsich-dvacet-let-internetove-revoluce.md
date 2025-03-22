@@ -20,9 +20,7 @@ summary_points:
   konflikt.
 - Budoucnost internetu závisí na domluvě mezi generacemi, jinak hrozí "výbuch kotle"
   revoluce.
-title: "'Důležitých bude těch dalších dvacet let internetové revoluce"
-
-  '
+title: Důležitých bude těch dalších dvacet let internetové revoluce
 ---
 
 Oslava dvaceti let připojení Česka (a formálně i Slovenska) do celosvětové akademické sítě Internet nabízí řadu příležitostí ohlédnout se a rekapitulovat. Na ohlížení je ovšem poněkud pozdě. Zajímavé není ani tak to, jakých bylo uplynulých dvacet let, ale to, jakých bude příštích dvacet let.

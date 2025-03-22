@@ -16,7 +16,7 @@ summary_points:
 - T-Mobile neplánuje inovace datové nabídky v nejbližších třech letech.
 - LTE technologie je zatím v rané fázi vývoje, reálné nasazení potrvá.
 - Ostatní operátoři (O2, Vodafone) situaci nevyužívají, vyhovuje jim stávající stav.
-title: "Datová vrnění: T-Mobile na nás peče via LTE, Vodafone vypéká a O2 vybulbává"
+title: Datová vrnění -  T-Mobile na nás peče via LTE, Vodafone vypéká a O2 vybulbává
 ---
 
 Situace s mobilními daty je v Česku velmi tristní. Když odmyslíme veskrze nahodilé způsoby jako WiFi a orientovali bychom se podle nabídky "profesionálních" firem aka mobilních operátorů, zjistíme, že situace je nerůžová a to dokonce i ve firmách, které magentu mají v popisu identity. 

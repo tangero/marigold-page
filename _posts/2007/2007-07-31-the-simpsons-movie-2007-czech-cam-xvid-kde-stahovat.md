@@ -13,7 +13,7 @@ summary_points:
 - BontonFilm a ČPU likvidují odkazy na film a chystají trestní oznámení.
 - Publikování odkazů na nelegální obsah není trestné jako stahování.
 - Distribuční společnosti nenabízí digitální prodej ani vracení peněz za zklamání.
-title: "The Simpsons Movie 2007 CZECH CAM XVID – kde stahovat"
+title: The Simpsons Movie 2007 CZECH CAM XVID – kde stahovat
 ---
 
 Že Simpsonovi jsou už na torrentu, vám asi neuniklo. Respektive cokoliv dneska přijde do kin, je ihned na torrentu. Nedávno se ale objevili i v češtině - s českým dubbingem, ne jenom s titulky. Je to natočené v kině, kvalita není nijak excelentní, jak ostatně kino ripu přísluší , ale na domácí produkci pro děti před spaním to bude stačit.

@@ -13,7 +13,7 @@ summary_points:
 - FCC zvažuje uvolnění frekvencí 900 MHz a 3 GHz pro bezlicenční použití.
 - Nová zařízení na uvolněných frekvencích budou muset automaticky volit kanál.
 - FCC chce sdílení TV frekvencí mezi kanály 2 a 51 regionálně.
-title: "Americká FCC uvolní frekvence k volnému použití"
+title: Americká FCC uvolní frekvence k volnému použití
 ---
 
 <p>

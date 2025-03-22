@@ -13,7 +13,7 @@ summary_points:
 - ČTÚ vydalo prohlášení, v němž odmítá ignorování podvodů a kritizuje Telecom.
 - ČTÚ zveřejnilo seznam opatření proti podvodům s dialery v PDF dokumentu.
 - ČTÚ zdůrazňuje odpovědnost uživatelů a navrhuje řešení v dostupném ADSL.
-title: "Správně nakvašené ČTÚ (na Telecom)…"
+title: Správně nakvašené ČTÚ (na Telecom)…
 ---
 
 <p>

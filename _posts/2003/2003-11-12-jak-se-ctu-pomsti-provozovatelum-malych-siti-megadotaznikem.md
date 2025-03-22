@@ -13,9 +13,7 @@ summary_points:
 - Dotazník vyžaduje vyplnění i při neposkytování služeb, včetně nulových hodnot.
 - Finanční údaje v dotazníku se uvádějí v tisících, aby nedošlo k nedorozuměním.
 - Autor by rád získal přístup ke zpracovaným datům z těchto výkazů ČTÚ.
-title: "'Jak se ČTÚ pomstí provozovatelům malých sítí? Megadotazníkem :)"
-
-  '
+title: Jak se ČTÚ pomstí provozovatelům malých sítí? Megadotazníkem  - )
 ---
 
 <p>

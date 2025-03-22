@@ -13,7 +13,7 @@ summary_points:
 - Podavač obálek musí být spolehlivý a s co největší kapacitou.
 - Levný tisk a celková nízká cena tiskárny jsou klíčové požadavky.
 - Kontakt pro tipy na tiskárnu je marigold@marigold.cz.
-title: "Potřeboval bych malou radu s výběrem tiskárny…"
+title: Potřeboval bych malou radu s výběrem tiskárny…
 ---
 
 <p>

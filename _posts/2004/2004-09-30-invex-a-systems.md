@@ -14,7 +14,7 @@ summary_points:
 - Systems v Mnichově láká autora zajímavým programem a možností setkání s lidmi.
 - Autor preferuje cestu na Systems do Mnichova před Invexem v Brně.
 - Systems nabízí témata jako Galileo, dálniční poplatky a Mobile Life.
-title: "Invex a Systems"
+title: Invex a Systems
 ---
 
 <p>

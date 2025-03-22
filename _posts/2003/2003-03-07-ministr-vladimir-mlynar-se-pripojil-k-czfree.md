@@ -13,7 +13,7 @@ summary_points:
 - CzFree.Net získal PR úspěch díky připojení ministra informatiky.
 - Ministr informatiky nemůže mít ADSL za ceny Telecomu.
 - Xchaos měl problémy s instalací kvůli slabému signálu a Windows 98.
-title: "Ministr Vladimír Mlynář se připojil k CzFree"
+title: Ministr Vladimír Mlynář se připojil k CzFree
 ---
 
 <p>

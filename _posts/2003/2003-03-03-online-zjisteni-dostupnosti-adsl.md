@@ -13,7 +13,7 @@ summary_points:
 - Dostupnost ADSL lze ověřit online pro konkrétní telefonní číslo.
 - Telefonní linka je nutná pro zavedení ADSL.
 - Online ověření dostupnosti ADSL je užitečná služba.
-title: "Online zjištění dostupnosti ADSL"
+title: Online zjištění dostupnosti ADSL
 ---
 
 <p>

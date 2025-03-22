@@ -15,7 +15,7 @@ summary_points:
 - Rozměry iPhone 3G se mírně zvětšily, hmotnost naopak klesla o 2 gramy.
 - Prodej iPhone 3G začíná 11. července ve 22 zemích, bez ČR.
 - Appstore, Exchange server a firemní funkce dělají z iPhone firemní nástroj.
-title: "Nový iPhone 3G – 199$, UMTS/HSDPA, GPS, jinak se moc neliší"
+title: Nový iPhone 3G – 199$, UMTS/HSDPA, GPS, jinak se moc neliší
 ---
 
 <a href="http://internet.blog.lupa.cz/iphone-3g-s-upisem-zdarma-od-o2">UPDATE - iPhone 3G zdarma od O2 (bohužel v UK)</a>

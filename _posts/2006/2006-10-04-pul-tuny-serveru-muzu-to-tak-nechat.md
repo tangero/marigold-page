@@ -13,9 +13,7 @@ summary_points:
 - Servery IBM byly převezeny do TTC Malešice, kde je Vreco a Franci vyfotili.
 - Servery jsou instalovány a připravovány pro gama testy projektu Imago.
 - Na Broadband Monday proběhne pre-launch projektu Imago pro odbornou veřejnost.
-title: "'Půl tuny serverů, můžu to tak nechat?"
-
-  '
+title: Půl tuny serverů, můžu to tak nechat?
 ---
 
 <p>Tento týden to vypadá na boží dopuštění. Ve firmě máme objednanou hromadu serverů. Jen jsme si nějak neuměli představit, co ta hromada serverů je objemově.</p>

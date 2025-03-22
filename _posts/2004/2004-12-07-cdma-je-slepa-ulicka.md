@@ -13,7 +13,7 @@ summary_points:
 - Většina CDMA uživatelů (95%) nepoužívá toto připojení mobilně.
 - EDGE má větší potenciál díky integraci do mobilních tarifů a zařízeních.
 - Operátoři by měli dotovat EDGE mobily, aby byly konkurenceschopné CDMA.
-title: "CDMA je slepá ulička"
+title: CDMA je slepá ulička
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041207-nocdma.gif" alt="CDMA je slepá ulička" width="204" height="200" /></div><p>

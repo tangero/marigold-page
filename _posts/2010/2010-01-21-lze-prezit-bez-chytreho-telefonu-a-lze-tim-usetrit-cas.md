@@ -18,7 +18,7 @@ summary_points:
   a odolné materiály.
 - Autor deaktivuje mobilní data a vrací se k papírovému kalendáři, aby omezil závislost
   na technologiích.
-title: "Lze přežít bez chytrého telefonu? A lze tím ušetřit čas?"
+title: Lze přežít bez chytrého telefonu? A lze tím ušetřit čas?
 ---
 
 Už nějakou dobu mám dojem, že kdybych neměl chytrý telefon, ušetřil bych tím dost času. Času, který si s někým esemeskuju, emailuju, instantně mesenžřím. Času, kdy se snažím synchronizovat firemní, soukromý a půlpracovní kalendář a přijít na to, proč se mi věci duplikují a vypadávají. Času, kdy si jen tak čtu články, které by mne normálně nezajímaly, protože na mobilu je to při ruce. A kdy přehlídnu poštu, protože jsem ji přečetl na mobilu a v tom fofru, kdy jsem na to měl jen vteřinku někde při vystupování v tramvaji jsem onen důležitý email zapomněl označit k vyřízení a on se nyní někde povaluje pouze "přečtený" a tím automaticky mnou přehlížený. Že ušetřím tu dobu, kdy jsem na dosah Sítě od každého ze svých čtyř tisícovek kontaktů. A to jsem pořád. To je prokletí chytrého telefonu. 

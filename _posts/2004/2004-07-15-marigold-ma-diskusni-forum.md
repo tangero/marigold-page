@@ -12,7 +12,7 @@ summary_points:
 - Marigold má nové diskusní fórum na adrese http://www.marigold.cz/forum.
 - PunBB Forum počeštil autor textu a Radek Hulán jej napasoval do BlogCMS.
 - Na Marigold byla obnovena rubrika reklamy, zadávání je zatím e-mailem.
-title: "Marigold má diskusní fórum"
+title: Marigold má diskusní fórum
 ---
 
 <p>

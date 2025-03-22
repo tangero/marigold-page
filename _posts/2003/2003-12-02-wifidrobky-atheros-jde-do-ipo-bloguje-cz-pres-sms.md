@@ -13,7 +13,7 @@ summary_points:
 - Atheros dosáhl příjmů 50 milionů USD za tři čtvrtletí.
 - Atheros nabízí čipové sady SuperG s rychlostí až 108 Mb/s.
 - Bloguje.cz umožňuje přidávání příspěvků pomocí SMS zpráv.
-title: 'WiFidrobky: Atheros jde do IPO, Bloguje.cz přes SMS'
+title: WiFidrobky -  Atheros jde do IPO, Bloguje.cz přes SMS
 ---
 
 <p>

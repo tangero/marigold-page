@@ -13,7 +13,7 @@ summary_points:
 - V roce 1998 autor vyzkoušel RedHat, ale GIMP ho odradil.
 - Nyní autor zkouší Mandrake 9.2 na starším počítači od Dity.
 - Problémy s logováním a X serverem vedou k možnému odložení Linuxu.
-title: "Zatoužil jsem po Linuxu. A Mandrake se tak snažil…"
+title: Zatoužil jsem po Linuxu. A Mandrake se tak snažil…
 ---
 
 <p>

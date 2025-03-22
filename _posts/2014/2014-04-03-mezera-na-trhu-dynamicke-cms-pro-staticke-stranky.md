@@ -13,7 +13,7 @@ summary_points:
 - Statické stránky budou uloženy na Amazon S3 pro snadné zvládnutí zátěže.
 - Hledá se webové CMS pro více uživatelů s možností generování statických stránek.
 - Stávající řešení jsou buď lokální, nebo závislá na Dropboxu, což není ideální.
-title: 'Mezera na trhu: dynamické CMS pro statické stránky'
+title: Mezera na trhu -  dynamické CMS pro statické stránky
 ---
 
 <p>Řešíme ve firmě přípravu anglického webu. Tak nějak jsme se shodli, že pro naše potřeby presentace, kde každá stránka je jiná, nejsou potřeba žádné dynamické prvky jako diskuse (však je to firemní web) atd, případně se vkládají beztak přes javascript, je nejlepší udělat stránky statické. A když statické, tak je uložit na Amazon S3, odkud se pohrnou v libovolné zátěži. Jenže přišel problém, jak to rozumně obsloužit. A vypadla mi tím zajímavá mezena na trhu. </p>

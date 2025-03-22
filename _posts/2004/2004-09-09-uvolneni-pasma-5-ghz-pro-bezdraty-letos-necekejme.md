@@ -13,9 +13,7 @@ summary_points:
 - CEPT/ECC přijalo aktualizované rozhodnutí ECC/DEC/(04)08 s účinností 12. 11. 2004.
 - Evropská komise (EC) dosud neobdržela zdůvodňovací zprávu k rozhodnutí.
 - Generální licence v ČR bude vydána až po souhlasu EC, nejdříve Q1 2005.
-title: "'Uvolnění pásma 5 GHz pro bezdráty letos nečekejme"
-
-  '
+title: Uvolnění pásma 5 GHz pro bezdráty letos nečekejme
 ---
 
 <p>

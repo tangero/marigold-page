@@ -13,7 +13,7 @@ summary_points:
 - Autorovi policie udělila pokutu za propadlou STK krátce po servisu.
 - Hasiči na rozdíl od policie často pomáhají a ne jen napomínají.
 - Autor vzpomíná jen na málo případů, kdy mu policie pomohla.
-title: "Proč je policie tak neoblíbená"
+title: Proč je policie tak neoblíbená
 ---
 
 <p>Zeptal se mne kamarád (policista), proč je podle mne policie u nás tak nepopulární. Slíbil jsem mu se nad tím zamyslet.</p>

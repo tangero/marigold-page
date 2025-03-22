@@ -21,7 +21,7 @@ summary_points:
   mobilů.
 - Výroba čipů je složitá, drahá a vyžaduje státní podporu, Applied Materials má stále
   vysoké objednávky.
-title: "Čipů už je prý zase dostatek či spíše nadbytek? Ale kdeže..."
+title: Čipů už je prý zase dostatek či spíše nadbytek? Ale kdeže...
 ---
 
 I do českých médií probublala velmi optimistická zpráva Bloombergu, podle níž začíná být čipů na trhu nadbytek a očekává se pokles poptávky. Tak vznikla vlna optimismu, který - nutno říci - je značně nadhodnocený a založený na špatném chápání souvislostí. Pokud o tom více nepotřebujete vědět, tak ve zkratce: čipů je stále pro většinu použití nedostatek, roční dodací lhůty jsou běžné. Dostatek je procesorů pro osobní počítače. Pokud chcete zákaznický procesor, třeba svůj návrh, stoupáte si ve výrobě do velmi dlouhé fronty. 

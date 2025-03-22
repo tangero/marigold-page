@@ -13,7 +13,7 @@ summary_points:
 - Zvuk orgasmu se stal hitem mezi realtone vyzváněními pro mobilní telefony.
 - Darla Mack nabídla zdarma vlastní verzi orgasmu jako MP3 ke stažení.
 - Jamba nabízí osmnáct verzí orgasmu pro mobily včetně bavorské a sadomaso.
-title: "Orgastické ringtony hitem"
+title: Orgastické ringtony hitem
 ---
 
 <p>Občas mne pohled do vlastního průmyslu mobilního obsahu zaujme. Před několika týdny se totiž objevil nový hit mezi vyzváněcími tóny na mobil – takzvanými RealTone, RealSounds nebo TrueTone. Realtone jsou nahrávky určené jako zvonění pro telefony schopné přehrávat MP3, nejde o polyfonické skladby, ale normální MP3 nahrávky se zvuky či hudbou. </p>

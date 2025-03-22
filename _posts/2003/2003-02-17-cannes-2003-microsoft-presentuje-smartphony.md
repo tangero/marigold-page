@@ -15,7 +15,7 @@ summary_points:
   začne u Orange.
 - Přednášky v Cannes se věnují budoucímu vývoji mobilních telefonů.
 - WiFi v Cannes je placené, alternativa je psaní v press centru.
-title: 'Cannes 2003: Microsoft presentuje smartphony'
+title: Cannes 2003 -  Microsoft presentuje smartphony
 ---
 
 <p>

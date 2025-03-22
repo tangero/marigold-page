@@ -15,7 +15,7 @@ summary_points:
 - Nové kabely při hoření jedovatý dým nedělají, jak udává norma.
 - Norma nevyžaduje odstranění starých kabelů s jedovatým opláštěním.
 - Rekonstrukce elektrorozvodů bude provedena jinak, mimo rámec normy.
-title: "Taková normativní odpověď"
+title: Taková normativní odpověď
 ---
 
 Rekonstruujeme elektrorozvody v severozápadní části prvního patra našeho sídla - tedy to, co jsem si nechával "na potom". Ptám se elektrikáře, proč zasekával nové kabely do zdi."Protože ty staré nelze použít," pravil. "Na to je norma.""Proč je nelze použít," zeptal jsem se?"Protože, kdyby hořelo, tak ty staré kabely dělají jedovatý dým," vysvětloval normu onen učený muž. "Proto se dávají kabely nové, jejichž plast při hoření jedovatý dým nedělá," přesně jak stanovuje norma, doplnil sám sebe. 

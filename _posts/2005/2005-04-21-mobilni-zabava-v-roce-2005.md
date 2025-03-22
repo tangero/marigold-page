@@ -13,7 +13,7 @@ summary_points:
 - 'T-Mobile: Uvítací tóny využívalo koncem roku 2004 250 000 zákazníků.'
 - 'LogicaCMG: Vyvinula rozpoznávač hudby, který identifikuje skladbu přes telefon.'
 - 'HandyGames: Portuje hry na desítky platforem, i méně zastoupené značky LG.'
-title: "Mobilní zábava v roce 2005"
+title: Mobilní zábava v roce 2005
 ---
 
 <p>Jak je to s mobilní zábavou u nás, o tom se hovořilo na včerejší Bezdrátové středě (WW). Začnu trojicí operátorských vystoupení (měli na něj 7 minut a 50 vteřin času).</p>

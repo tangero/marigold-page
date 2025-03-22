@@ -13,7 +13,7 @@ summary_points:
 - Rita Pužmanová na Lupě se věnuje WiMAX a bezdrátovým metropolitním sítím.
 - Mobil recenzuje telefon NetFayn, ale jeho prodej je nejistý.
 - I4 nabízí program pro regulaci výkonu wifi karet s čipovou sadou PRISM 2.5.
-title: "Drobky: internetová telefonie a WiMax na lupě, NetFayn na Mobilu a další"
+title: Drobky -  internetová telefonie a WiMax na lupě, NetFayn na Mobilu a další
 ---
 
 <p>

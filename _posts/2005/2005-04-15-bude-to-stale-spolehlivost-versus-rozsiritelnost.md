@@ -13,9 +13,7 @@ summary_points:
 - Dřívější nestabilitu Windows způsobovaly špatné ovladače třetích stran.
 - BlackBerry vyniká rychlostí a spolehlivostí, ale omezenou rozšiřitelností.
 - Mobilní operační systémy nenabízejí dostatečnou ochranu před nekorektním softwarem.
-title: "'Bude to stále spolehlivost versus rozšiřitelnost?"
-
-  '
+title: Bude to stále spolehlivost versus rozšiřitelnost?
 ---
 
 <p>Téma dnešních chytrých telefonů zní: spolehlivost versus rozšiřitelnost. Existuje mezi těmito dvěma nároky kauzální spojitost? Před lety Microsoft prohlásil, že valnou řadu nestabilit Windows způsobují špatně napsané programy a ovladače třetích stran. Docela bych mu to věřil, protože momentů, kdy mi systém zbuchl po zapojení scanneru, bylo dost (a Billovi také alespoň jednou). Příznivci jiných systémů namítnou, že kvalitní operační systém je napsaný tak, aby jeden blbý ovladač neshodil celý systém. Opravdu takhle rozsáhlou ochranu mohou mít relativně kompaktní systémy chytrých telefonů?</p>

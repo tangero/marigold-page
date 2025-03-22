@@ -27,7 +27,7 @@ summary_points:
 - Kiva.org je neziskový portál pro mikroinvestice, umožňuje přímou pomoc konkrétním
   projektům.
 - myElen je český portál pro mikroinvestice do mexických projektů s možností výdělku.
-title: "Charita aneb mikroinvestice"
+title: Charita aneb mikroinvestice
 ---
 
 <p>Web je plný zajímavých služeb, které ukazují, čeho všeho je komunita schopna, když se jí dá zajímavý názor a nespolehnete se jen na všemocnost internetu. Mikroinvestice a mikroúvěry jsou toho dobrý příkladem. A jelikož je po Silvestru a naše duše by se měly obrátit k bohulibé činnosti, abychom odepsaly své hríšky, tak něco o mikroinvesticích napíšu. Protože je to takový zajímavý způsob charity, bych řekl - někdy dokonce spojený s nulovou ztrátou či i se ziskem. </p>

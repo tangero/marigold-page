@@ -13,7 +13,7 @@ summary_points:
 - HSOPA kombinuje OFDM a MIMO antény pro zvýšení rychlosti.
 - Rychlost HSOPA dosahuje 40 Mbps, latence je 20 ms.
 - Nasazení HSOPA je plánováno na roky 2007-2008.
-title: "Nové buzzword pro rychlá data je HSOPA"
+title: Nové buzzword pro rychlá data je HSOPA
 ---
 
 <p>Nový směr vývoje rychlých dat dnes na konferenci představil Nortel. Jde o překlopení OFDM do 3G sítí spolu s aplikací MIMO antén - HSOPA. High speed OFDM Packet Access.</p>

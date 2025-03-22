@@ -15,7 +15,7 @@ summary_points:
 - Detektory AI nejsou spolehlivé, OpenAI doporučuje ověřovat práci studentů skrze
   konverzace.
 - AI se využívá ve vzdělávání, plánování cest, výuce jazyků a generování receptů.
-title: "OpenAI vydala příručku pro učitele"
+title: OpenAI vydala příručku pro učitele
 ---
 
 Českem rezonuje nadhozené téma AI a vzdělávání. Česká tendence AI ve školství vypadá zatím velmi restriktivně: zakázat, identifikovat, zadupat, ať se žáci snaží sami, memorují a sami přemýšlejí. OpenAI jako lídr v oblasti umělé inteligence [vydal článek a další materiály o použití umělé inteligence ve vzdělávání](https://openai.com/blog/teaching-with-ai). 

@@ -13,7 +13,7 @@ summary_points:
 - Definovat internetové postupy je obtížné, i když jsou intuitivně zřejmé.
 - Korporátní internetové projekty selhávají kvůli nedostatku vizionářů.
 - Zkušenost není znalost, což je klíčové pro úspěch internetového projektu.
-title: "Proč to bude mít Nova s tažením na internet těžké"
+title: Proč to bude mít Nova s tažením na internet těžké
 ---
 
 Včera jsme měli celofiremní výjezd, kde jsme mudrovali, strategizovali a pilovali, co k pilování na Streamu jest. A že toho dosti. Kromě toho bylo na čase seznámit se s novými kolegy, protože je řada nových a neznámých tváří, pohybujících se po firmě. A je milé dozvědět se, že ten človíček je váš kolega dříve, než ho vyhodíte z patra s tím, že se nám tam civilové nemají co volně promenovat.

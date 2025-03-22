@@ -13,7 +13,7 @@ summary_points:
 - MaLér zveřejnil článek s fotkami modemu CDMA, ale zřejmě ne od Eurotelu.
 - Kamojed vysvětluje technicky CDMA2000 EVDO (Eurotel na 450 MHz) a forward link.
 - Základy CDMA by potřebovaly srozumitelný článek, protože Kamojedův je složitý.
-title: "CDMA 450 Rulezzzzz"
+title: CDMA 450 Rulezzzzz
 ---
 
 <p>

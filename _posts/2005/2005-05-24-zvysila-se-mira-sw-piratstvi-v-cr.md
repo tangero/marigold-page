@@ -15,7 +15,7 @@ summary_points:
   chybě.
 - Škoda způsobená pirátstvím je dle autora sporná, neboť uživatelé by si SW stejně
   nekoupili.
-title: "Zvýšila se míra SW pirátství v ČR?"
+title: Zvýšila se míra SW pirátství v ČR?
 ---
 
 <p><b>noname píše:</b> Právě probíhal na ČT1 desetiminutový rozhovor na téma nového výzkumu SW pirátství v ČR od BSA (viz také <a href="http://digiweb.ihned.cz/?s1=i&amp;s2=0&amp;s3=0&amp;s4=0&amp;s5=0&amp;s6=0&amp;m=d&amp;a[id]=22515565&amp;p=i00000_d">zpráva na DIGIWEBu</a>). Podle výsledků tohoto výzkumu se zvýšil podíl pirátského software na českých počítačích z 40 na 41%. Podle tohoto výzkumu také narostla hodnota tohoto sw za poslední rok ze 100 na 130 MLD Kč.</p>

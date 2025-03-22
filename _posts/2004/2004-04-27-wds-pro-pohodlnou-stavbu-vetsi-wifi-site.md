@@ -13,7 +13,7 @@ summary_points:
 - WDS snižuje rychlost WiFi sítě zhruba na polovinu.
 - WDS není standardizovaný, proto je doporučeno používat zařízení stejného výrobce.
 - WDS lze použít pro přemostění sítí nebo opakování signálu s omezeními.
-title: "WDS – pro pohodlnou stavbu větší WiFi sítě"
+title: WDS – pro pohodlnou stavbu větší WiFi sítě
 ---
 
 <p>

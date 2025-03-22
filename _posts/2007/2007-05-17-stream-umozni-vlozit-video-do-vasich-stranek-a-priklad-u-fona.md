@@ -14,7 +14,7 @@ summary_points:
 - Stream má pro český trh lepší distribuční síť než Youtube.
 - Stream ztěžuje uložení videa z distribuční sítě na lokální disk.
 - Pro vkládání videa do HTML se používá Script, nikoliv embeded object.
-title: "Stream umožní vložit video do vašich stránek a příklad U-fona"
+title: Stream umožní vložit video do vašich stránek a příklad U-fona
 ---
 
 Tahle funkce nakonec trvala o něco déle, než jsme čekali, protože nás pohltila příprava virtuálního studia. O něm ale někdy jindy, protože je to dost zajímavé na to, aby se to dalo odbýt pár slovy. 

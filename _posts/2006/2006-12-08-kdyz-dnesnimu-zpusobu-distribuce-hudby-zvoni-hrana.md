@@ -13,9 +13,7 @@ summary_points:
 - Stát podlehl lobbingu a zavedl presumpci viny v autorském právu.
 - Vydavatelé neinovují distribuci hudby digitálně, deformují trh.
 - Výrobci mobilů se účinně bránili poplatkům, na rozdíl od občanů.
-title: "'Když dnešnímu způsobu distribuce hudby zvoní hrana"
-
-  '
+title: Když dnešnímu způsobu distribuce hudby zvoní hrana
 ---
 
 <texy>Psáno pro sobotní Lidové noviny: Odvod poplatků ze záznamových médií a tiskáren přináší zajímavý problém. I pokud si nekupujete žádnou hudbu a používáte například CD k archivaci dat nebo tiskárnu k tisku vaší obchodní korespondence, platíte kolektivním správcům autorských poplatků. Za díla, která nespravují. Protože jsou vaše.

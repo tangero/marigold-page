@@ -13,7 +13,7 @@ summary_points:
 - Tesla získá pro FSD v Číně datové podklady od společnosti Baidu.
 - Čínské zákony brání Tesle v přenosu dat o řízení do zahraničí.
 - Tesla Model Y a 3 splňují čínské požadavky na zabezpečení dat.
-title: "\U0001F698 Tesla získala příslib spuštění FSD v Číně"
+title: \U0001F698 Tesla získala příslib spuštění FSD v Číně
 ---
 
 Elon Musk se velmi překvapivě zjevil v Číně, kde se setkal s nejvyššími vládním představiteli. Jeho rychlá cesta souvisela **s vyjednáváním o umožnění provozu autonomního řízení v automobilech Tesla** nazývaného FSD. Tesla sice nabízí systém FSD v Číně již čtyři roky za předplatné, ale s omezeným souborem funkcí, které systém omezují na operace, jako je automatická změna jízdního pruhu. Nově má Musk příslib schválení FSD v Číně do provozu, [reportuje WSJ](https://www.wsj.com/tech/tesla-wins-chinas-backing-for-driver-assistance-service-20816802). Jen tak mimochodem, datové podklady dodá Baidu, potvrdila Tesla… 

@@ -14,7 +14,7 @@ summary_points:
 - Fialová grafika seriálu Gynekologie 2 byla změněna na novou, startovní verzi.
 - Pro plynulé přehrávání traileru Gynekologie 2 je doporučeno připojení 1 Mb/s a Flash
   Plugin 8+.
-title: "Je čas na Stream trailer"
+title: Je čas na Stream trailer
 ---
 
 <texy>Zvědavost lidí je veliká. Denně odpovídají snad všichni lidi z naší firmy na řadu dotazů, kdy už... 

@@ -14,8 +14,7 @@ summary_points:
 - SkypePal umožní uživatelům SkypeOut platit za služby a zboží pomocí kreditu.
 - Skype chystá WiFi telefon pro hovory přes Skype bez nutnosti zapnutého počítače.
 - UTStarcom má vyrábět WiFi telefon pro Skype, cena se odhaduje na 150-400 dolarů.
-title: "'Skype novinky: iSkoot pro levné mobilování, SkypePal pro placení a WiFi"
-  Skype telefon'
+title: Skype novinky -  iSkoot pro levné mobilování, SkypePal pro placení a WiFi Skype telefon
 ---
 
 <p>Trojice zajímavých nových práv týkajících se Skype. </p>

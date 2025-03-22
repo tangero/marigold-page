@@ -13,7 +13,7 @@ summary_points:
 - Sestavení PTT hovoru trvá zhruba jednu vteřinu, zpoždění 1-2 vteřiny.
 - PTT umožňuje komunikaci one-to-many se skupinami uloženými na serveru.
 - PTT nepodporuje call waiting, takže nelze vstoupit do probíhajícího PTT hovoru.
-title: "PTT na Nokia 5140 v praxi"
+title: PTT na Nokia 5140 v praxi
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
 - Dierami stoupali za deště, opevňovali přístřešek na Mezirozsudckém sedle.
 - Markův meteoradar na mobilu selhal, fronta přišla přes Rakousko nečekaně.
 - Po výstupu na Velký Rozsutec sestoupili na chatu Grúň, kde se najedli.
-title: "Ochraňuj nebe nad námi, cestu před námi a přátele kolem nás"
+title: Ochraňuj nebe nad námi, cestu před námi a přátele kolem nás
 ---
 
 <p> Byly to jen tři dny, ale osvěžily. Po staru, tak, jak jsme to vždycky měli rádi. Tři kluci s batohem nacpaným vším pro každý případ, boty s podrážkou vzor zetor a tři biletky do lůžkového vozu směr Žilina. A odtud už místním busem do Terchovej, rodiště prvního to československého ministra financí, který ještě bohatým bral a chudým dával minust dvacet procent na režii. Oj Juro Jánoši, vela sa zmenilo od tých čas.</p>

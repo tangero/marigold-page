@@ -18,7 +18,7 @@ summary_points:
 - Abby a Wendy jsou AI nástroje pro terapii a koučink, Abby funguje česky.
 - Lede pomáhá psát články s rešeršemi, ale stojí 25 dolarů měsíčně.
 - Outfithunter radí s oblečením na základě nahrané fotografie.
-title: "Zajímavé nové služby stojící za pozornost"
+title: Zajímavé nové služby stojící za pozornost
 ---
 
 **[Superhuman 2.0](https://superhuman.com/) je nová emailová služba pro pracovní týmy** \- stojí třicet doláčů za osobu, není to levné (měsíčně, jasně) - takže si ji asi jen tak nekoupíte. Jenže dobře ukazuje, kam týmová komunikace může kráčet. Vše je o sdílení a propojování konverzací, takže když přijdete k emailu, už vidíte souhrn toho, co se na dané téma probralo. Například. Službu [popisují zde](https://blog.superhuman.com/superhuman-2-0/) na blogu.

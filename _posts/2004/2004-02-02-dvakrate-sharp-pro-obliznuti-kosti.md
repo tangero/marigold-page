@@ -13,7 +13,7 @@ summary_points:
 - Sharp V801SH je dualmode GSM/3G telefon s megapixelovým fotoaparátem pro Vodafone.
 - Telefon Sharp V801SH má slot pro SD kartu a 16 MB kartu v balení.
 - Evropská nabídka 3G telefonů je dostupná na 3MobileStore, například Motorola A925.
-title: "Dvakráte Sharp pro oblíznutí kosti"
+title: Dvakráte Sharp pro oblíznutí kosti
 ---
 
 <IMG height=175 alt="Sharp PWA8100" src="/wp-content/uploads/sharppwa8100.jpg" width=200 align=right> 

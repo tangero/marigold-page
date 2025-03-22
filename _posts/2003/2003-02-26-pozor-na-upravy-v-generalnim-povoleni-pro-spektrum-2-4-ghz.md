@@ -13,7 +13,7 @@ summary_points:
 - Maximální EIRP pro WiFi zařízení je nově stanoveno na 100 mW.
 - Spektrální hustota EIRP pro přímou sekvenci nesmí překročit -20 dBW/1 MHz.
 - Spektrální hustota EIRP pro frekvenční skok nesmí překročit -10 dBW/100 kHz.
-title: "Pozor na úpravy v generálním povolení pro spektrum 2,4 GHz"
+title: Pozor na úpravy v generálním povolení pro spektrum 2,4 GHz
 ---
 
 <p>

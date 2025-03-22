@@ -12,9 +12,7 @@ summary_points:
 - Carnegie Mellon University zveřejňuje statistiky WiFi sítě včetně mapy uživatelů.
 - Knihovna Carnegie Mellon má 18 WiFi uživatelů připojených přes sedm access pointů.
 - Mapa hotspotů v Londýně je k dispozici pro cestovatele.
-title: "'Mapa WiFi uživatelů? Tomuhle říkám kousek"
-
-  '
+title: Mapa WiFi uživatelů? Tomuhle říkám kousek
 ---
 
 <p>

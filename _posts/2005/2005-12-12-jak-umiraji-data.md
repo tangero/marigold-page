@@ -13,7 +13,7 @@ summary_points:
 - Digitalizace dat představuje riziko ztráty informací kvůli zastarávání formátů.
 - Budoucí generace mohou mít problém s interpretací dat z naší doby.
 - Zálohování důležitých dat i v analogové formě je klíčové pro uchování.
-title: "Jak umírají data"
+title: Jak umírají data
 ---
 
 <p><em>"Takový důl, to je díra v zemi. Ten vám nikdo nevezme,"</em> říkal klasik. S daty je to stejné. Jsou bezpečně uložená na pevném disku, disketě, cédéčku. Opravdu bezpečně, stejně jako ten důl v zemi…</p>

@@ -13,7 +13,7 @@ summary_points:
 - Autor naráží na problémy kvůli kritice firem online.
 - Technické potíže způsobují pád serveru a vyžadují údržbu.
 - Autor nedosáhl cílů v osvětě a publikacích o telekomunikacích.
-title: "Příští sezóna nejistá"
+title: Příští sezóna nejistá
 ---
 
 <p>Říkám to předem a na rovinu, příští sezóna Marigolda v této podobě je velmi nejistá. Důvodů, které mne k tomu vedou, je vícero a následující soupis není nutně dle pořadí důležitosti. </p>

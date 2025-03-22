@@ -16,7 +16,7 @@ summary_points:
 - Důležitá je vnitřní připravenost firem, zejména datové sklady a procesy.
 - Firmy nejvíce zajímají konkrétní AI nástroje a jejich praktické využití.
 - Roste poptávka po programátorských firmách specializovaných na AI řešení.
-title: "\U0001F1E8\U0001F1FF AI v českých firmách"
+title: \U0001F1E8\U0001F1FF AI v českých firmách
 ---
 
 Ale nejdříve pár zkušeností o AI z českých firem. Musím říct, že si [svůj workshop](https://www.aivefirmach.cz), který pro firmy pořádám, užívám. Nejdříve jsem to bral jako takovou osvětu. Uklidnit emoce, nabídnout firmám hlubší seznámení s tím, co AI umí a expertní úvahu, jak se jich dotkne. Abych v tom měl řád, zavázal jsem se dělat právě dva workshopy měsíčně - víc nestíhám. A musím říct, že mě posouvá vidět rozmanitost a dotek praxe. Asi nejdrsnější zážitek byl, když jsem dorazil do firmy, povyprávěl o tom, jak AI ohrožuje místa středního juniorního personálu, abych zjistil, že těch osm lidí na workshopu jej dostalo jako součást rozlučkového balíčku, neboť je právě vyhodili, když jejich práci AI již nahradila. Nakonec z toho byla zajímavá diskuse, ale od té doby se významně více přeptávám, kdo na workshopu bude. 

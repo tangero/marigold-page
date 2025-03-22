@@ -13,7 +13,7 @@ summary_points:
 - Cannes postřehy budou zaznamenávány pomocí MMS zpráv pro okamžité zachycení.
 - Oskar nenabízí GPRS roaming ve Francii, což komplikuje posílání MMS.
 - Demo aplikace s výpisem ženských jmen omylem zobrazovala chybovou hlášku.
-title: "Přidávání MMS zpráv na Marigolda"
+title: Přidávání MMS zpráv na Marigolda
 ---
 
 <p>

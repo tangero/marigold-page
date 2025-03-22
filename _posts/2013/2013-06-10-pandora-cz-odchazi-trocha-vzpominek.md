@@ -16,7 +16,7 @@ summary_points:
   chybami.
 - Pandora generovala provoz Mobil serveru reklamou v emailech, ale další rozvoj nebyl
   realizován.
-title: "Pandora.cz odchází. Trocha vzpomínek…"
+title: Pandora.cz odchází. Trocha vzpomínek…
 ---
 
 <p>Koncem listopadu 2013 naposledy vydechne jedna z nejdéle kontinuálně beze změn běžících služeb českého internetu - emailový diskusní server <a href="http://www.pandora.cz">Pandora.cz</a>. A protože jsem stál u jeho zrodu, přišlo mi vhodné si vzpomenout jeho začátků. </p>

@@ -10,9 +10,7 @@ summary_points:
 - Piráti staví komunální kandidátku v Brandýse-Boleslavi, ne do senátních voleb.
 - Autor je ostražitý k novým zákonům a upřednostňuje méně státu.
 - Věří v důležitost spolupráce a pracuje na komunálních volbách v Brandýse-Boleslavi.
-title: "'Oficiálně jsem členem České pirátské strany"
-
-  '
+title: Oficiálně jsem členem České pirátské strany
 ---
 
 V průběhu minulého týdne jsem se stal oficiálně členem Pirátské strany. Ale kvůli masakru v práci nebyl čas, takže pár postřehů a FAQ až nyní.

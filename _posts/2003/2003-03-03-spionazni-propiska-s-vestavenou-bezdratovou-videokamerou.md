@@ -13,7 +13,7 @@ summary_points:
 - Propiska s kamerou od Swann stojí přibližně 400 amerických dolarů.
 - Kamera v propisce má mikrofon a váží 35 gramů se spotřebou 65 mW.
 - Autor článku doporučuje propisku s kamerou jako dárek pro poslance Tlustého.
-title: "Špionážní propiska s vestavěnou bezdrátovou videokamerou"
+title: Špionážní propiska s vestavěnou bezdrátovou videokamerou
 ---
 
 <p>

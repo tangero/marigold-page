@@ -20,7 +20,7 @@ summary_points:
   obsah.
 - Google považuje obsah generovaný AI za spam a OpenAI řeší optimalizaci cílů dle
   Goodhartova zákona.
-title: "Nový Dall-E 2 umí vytvářet fotorealistické obrázky podle textového zadání"
+title: Nový Dall-E 2 umí vytvářet fotorealistické obrázky podle textového zadání
 ---
 
 Přesně před rokem vydal OpenAI umělointeligenční framework pro vytváření obrázků z textového zadání. Už tehdy šlo o impresivní dílo, jenže po roce nebyl zřejmý posun k nasazení. Nyní se vysvětlilo, čím to je: OpenAI pracovalo [na druhé verzi](https://openai.com/dall-e-2/), která je mnohem pokročilejší a mnohem dále. Je schopná z textového zadání vytvářet a postupně modifikovat fotorealistické obrázky. 

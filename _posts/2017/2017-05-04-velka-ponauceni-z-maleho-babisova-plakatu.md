@@ -14,7 +14,7 @@ summary_points:
 - Tradiční politické strany selhávají v reakci na současnou politickou situaci.
 - Řešením je politická cesta, která ukáže, že lze dělat politiku bez korupce.
 - Příklady a spolupráce jsou klíčové pro změnu, ale chybí zkušenosti a týmová práce.
-title: "Velká ponaučení z malého Babišova plakátu"
+title: Velká ponaučení z malého Babišova plakátu
 ---
 
 <p>Když jsem včera ráno vstal a udělal práci, prošel jsem si zprávy a sociální sítě, jimž vévodila Babišova akce s plakátem, jímž sugestivně naznačoval, jak se jej snaží ČSSD umlčet. A první, co mě napadlo, že je to skvělá nahrávka na smeč. To muselo někoho v marketingu ČSSD napadnout. Udělat plakát a říct mu, že PROTO. A vyjmenovat ty důvody, přesně ten seznam, na který měl už tolikrát odpovědět.</p>

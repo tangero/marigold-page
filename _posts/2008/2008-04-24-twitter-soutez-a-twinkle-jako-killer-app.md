@@ -16,7 +16,7 @@ summary_points:
 - Nelso a Twinkle pořádají první českou Twitter soutěž o iPod Touch.
 - Twinkle je iPhone klient pro Twitter s polohou a sdílením fotek.
 - Alert Thingy je aplikace pro FriendFeed napsaná v Adobe Air.
-title: "Twitter soutěž a Twinkle jako killer app"
+title: Twitter soutěž a Twinkle jako killer app
 ---
 
 Sám jsem nikdy nepřišel Twitteru a mikroblogování na chuť. Účet tam mám, z povinnosti, abych zkoumal. Použil jsem to jedinkráte, když jsem z Barcelony přes Twitter psal postřehy, od té doby ležel ladem. Až v poslední době a může za to Twinkle. A Twinkle může také za první Twitter soutěž u nás. 

@@ -15,7 +15,7 @@ summary_points:
   body.
 - Autor textu pracuje na oddělení hotspotů a WLL v databázi Marigold a aktualizaci
   dat.
-title: "Lupa nabízí seznam hotspotů"
+title: Lupa nabízí seznam hotspotů
 ---
 
 <p>

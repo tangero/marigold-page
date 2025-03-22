@@ -13,7 +13,7 @@ summary_points:
 - 'Monako: Před registrací v Cannes plánují navštívit Monako.'
 - 'Hotel Etap: Ubytování v levném hotelu Etap je 10 km od centra.'
 - 'Citroen 2CV: V hotelu Etap probíhá setkání vozů Citroen 2CV.'
-title: "Tak jsme dorazili do Cannes"
+title: Tak jsme dorazili do Cannes
 ---
 
 <p>Naše malá čtyřčlená výprava včera dorazila do Cannes. Z úsporných důvodů jsme letěli z Prahy do Paříže a odsud do Marsei, odkud se přepravujeme vozem. 

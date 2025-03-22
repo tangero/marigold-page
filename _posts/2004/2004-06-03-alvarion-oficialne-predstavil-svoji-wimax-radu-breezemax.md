@@ -15,9 +15,7 @@ summary_points:
 - Alvarion nabízí první komerčně dostupnou WiMax techniku pro širokopásmový bezdrátový
   přístup.
 - Očekává se, že další výrobci nabídnou WiMax produkty do konce roku 2004.
-title: "'Alvarion oficiálně představil svoji WiMAX řadu BreezeMax"
-
-  '
+title: Alvarion oficiálně představil svoji WiMAX řadu BreezeMax
 ---
 
 <p>

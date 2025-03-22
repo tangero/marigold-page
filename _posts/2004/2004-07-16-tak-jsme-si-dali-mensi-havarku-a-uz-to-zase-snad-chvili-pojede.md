@@ -13,7 +13,7 @@ summary_points:
 - Přesun na Xhost.cz vyřešil problémy s funkčností BlogCMS a fotogalerie.
 - Konverzi na Xhost.cz provedl administrátor hostingu velmi rychle.
 - Ponaučení plyne z nutnosti svěřit správu serveru odborníkům.
-title: "Tak jsme si dali menší havárku a už to zase snad chvíli pojede…"
+title: Tak jsme si dali menší havárku a už to zase snad chvíli pojede…
 ---
 
 <p>

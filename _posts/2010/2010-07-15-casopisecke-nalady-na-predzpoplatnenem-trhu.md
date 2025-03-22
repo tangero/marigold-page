@@ -15,9 +15,7 @@ summary_points:
 - Týden po odchodu Balšínka ztratil kvalitu a nabízí povrchní témata.
 - Respekt si autor oblíbil pro chytré články s odlišnými pohledy.
 - Víkend zaujal originálním obsahem pro specifické čtenáře.
-title: "'Časopisecké nálady na předzpoplatněném trhu"
-
-  '
+title: Časopisecké nálady na předzpoplatněném trhu
 ---
 
 Když jsem včera psal na <a href="http://www.lupa.cz/clanky/slovensko-hleda-superstar-zpoplatneni-obsahu/">Lupu článek o placeném obsahu</a>, tak jsem začal počítat, kolik obsahu bych na českém internetu byl ochoten platit. Vyšlo mi překvapivě málo. Když se nad tím tak zamýšlím, tak nula nad to, co už platím (firma solí za MediaSearch). iDnes? Hm, přečtu si pár článků. Aktuálně používám jen z mobilu, protože na webové verzi se nejsem schopen zorientovat. Platit za to? Nevím za co. A nevím, co by pro mne byl ten obsah navíc. Dopravní zpravodajství? Platil bych ho ad-hoc, kdyby za něco stálo. Znáte nějaké dobré? Se skutečnýma objížďkama?

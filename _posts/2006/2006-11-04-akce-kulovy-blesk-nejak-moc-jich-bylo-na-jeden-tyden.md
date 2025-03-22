@@ -63,7 +63,7 @@ summary_points:
 - Wordpress filtruje spam efektivněji než Blog:CMS, který vyžadoval ruční zásahy.
 - Firma Global Inspiration se přestěhovala na novou adresu Římská 20 v Praze.
 - Firma řešila problémy s internetovým připojením a dodávkou gigabitového switche.
-title: "Akce Kulový blesk – nějak moc jich bylo na jeden týden"
+title: Akce Kulový blesk – nějak moc jich bylo na jeden týden
 ---
 
 <texy>Kulový blesk se netýkal jen stěhování Marigolda z Blog:CMS na Wordpress. Rozlučkový článek jsem původně chtěl napsat já, nakonec jen napsal Noname a tak se připojím: děkuju autorům Nucleusu a jeho lokalizované kopie Blog:CMS. 

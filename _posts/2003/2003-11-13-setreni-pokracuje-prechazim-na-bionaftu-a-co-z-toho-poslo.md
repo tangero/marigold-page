@@ -13,7 +13,7 @@ summary_points:
 - Bionafta byla zvažována pro úsporu, ale ukázalo se, že je dražší kvůli DPH.
 - Autor tankoval bionaftu u OMV, kde mu obsluha natankovala plnou nádrž.
 - Autor řeší dilema, zda dávat spropitné obsluze na benzínce.
-title: "Šetření pokračuje – přecházím na bionaftu a co z toho pošlo…"
+title: Šetření pokračuje – přecházím na bionaftu a co z toho pošlo…
 ---
 
 <p>

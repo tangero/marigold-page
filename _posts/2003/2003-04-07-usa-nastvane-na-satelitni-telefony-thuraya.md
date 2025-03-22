@@ -13,9 +13,7 @@ summary_points:
 - Telefony Thuraya mají GPS, Američané se bojí vyzrazení polohy.
 - Tři muži údajně zabiti kvůli vyzrazení polohy telefonů Thuraya.
 - Zprávy naznačují dezinformaci pro posílení amerických satelitních systémů.
-title: "'USA naštvané na satelitní telefony Thuraya"
-
-  '
+title: USA naštvané na satelitní telefony Thuraya
 ---
 
 <p>

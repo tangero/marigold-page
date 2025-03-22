@@ -13,7 +13,7 @@ summary_points:
 - Topcom nabízí 802.11b technologii s rychlostí 44 Mbps, ale budoucnost je nejistá.
 - Macaron kombinuje WiFi router s Bluetooth, ADSL modemem, USB portem a firewallem.
 - Garmin vystavuje GPS vysílačky Rino s PMR446, umožňující posílat pozici zdarma.
-title: "CeBIT zajímavosti z dne prvního"
+title: CeBIT zajímavosti z dne prvního
 ---
 
 <p>

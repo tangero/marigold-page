@@ -13,7 +13,7 @@ summary_points:
 - RecCloud AI Subtitle automaticky generuje a překládá titulky k videím.
 - Suno AI vytváří písně včetně textu a hudby, dostupná je třetí generace.
 - Newsletter byl rozeslán na 3086 adres.
-title: "Zajímavé nové služby"
+title: Zajímavé nové služby
 ---
 
 [Heardly](https://www.heard.ly/) \- nabízí patnáctiminutový výcuc z audioknih tak, abyste dostali ty nejdůležitější myšlenky v mobilní apce. Aplikace umí knihy načítat v nejrůznějších jazycích, tváří se, že i čeština, ale nějak mi to nefachá. Snad to opraví. Pokud jste OK s angličtinou, tak už teď je to super. Cena 350 Kč měsíčně, sleva na rok. 

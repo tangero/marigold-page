@@ -13,7 +13,7 @@ summary_points:
 - WiFi techniku Belkin bude v Česku distribuovat společnost ED Systems.
 - Autor se omlouvá za mylnou informaci o distribuci Belkinu AutoContem.
 - Autor nemůže sdělit ceny Belkin WiFi produktů od ED Systems.
-title: "Belkin nedistribuuje AutoCont ani AT Computers, oprava…"
+title: Belkin nedistribuuje AutoCont ani AT Computers, oprava…
 ---
 
 <p>

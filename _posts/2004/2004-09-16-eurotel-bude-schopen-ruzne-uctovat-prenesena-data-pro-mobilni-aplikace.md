@@ -16,9 +16,7 @@ summary_points:
 - Zpráva nevěstí konec GPRS paušálů, ale zjednodušení plateb za mobilní obsah Eurotelu.
 - ECS je určen pro účtování mobilních aplikací, nikoliv primárně internetového provozu
   přes GPRS.
-title: "'Eurotel bude schopen různě účtovat přenesená data pro mobilní aplikace"
-
-  '
+title: Eurotel bude schopen různě účtovat přenesená data pro mobilní aplikace
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Požaduje HD ready, HDMI/DVI vstup a minimální parametry displeje (jas, odezva, kontrast).
 - Digitální tuner DVB-T byl z požadavků vypuštěn kvůli nedostupnosti na trhu.
 - Autor uvádí seznam kandidátů na koupi, ale ptá se čtenářů na doporučení.
-title: "Lov na LCD televizor po roce"
+title: Lov na LCD televizor po roce
 ---
 
 <p>Vloni jsem <a href="/item/lcd-crt-plazma-co-koupit-jako-tv">tu na podzim dumal</a>, zda si mám pořídit LCD televizor nebo plazmu. Nakonec jsem zvolil kompromis a nepořídil jsem si nic, neb nákupní seznam byl tehdy až neúnosně dlouhý, ale ukázalo se také, že nejsem sám, koho tohle dilema zaujalo. </p>

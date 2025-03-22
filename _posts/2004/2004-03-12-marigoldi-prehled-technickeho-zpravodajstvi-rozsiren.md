@@ -13,9 +13,7 @@ summary_points:
 - Výpis podle témat a sledování odklikovosti článků se chystá doplnit.
 - Gatesova návštěva Prahy zaujala nejvíce čtenářů Marigold technického zpravodajství.
 - Dnes vyšlo málo technických článků, Marigold chystá import dat z dalších serverů.
-title: "'Marigoldí přehled technického zpravodajství rozšířen"
-
-  '
+title: Marigoldí přehled technického zpravodajství rozšířen
 ---
 
 <p>

@@ -17,10 +17,7 @@ summary_points:
 - Sudety, obývané Němci, byly trvalým problémem kvůli neochotě se integrovat.
 - Československo se v krizi 30. let izolovalo a odmítlo evropskou spolupráci.
 - Česko by mělo solidárně přispět k řešení evropských problémů a budovat kredit.
-title: "'Na naši odtažitost vůči Evropě si vzpomeňme, až Evropa bude odtažitá vůči"
-  nám
-
-  '
+title: Na naši odtažitost vůči Evropě si vzpomeňme, až Evropa bude odtažitá vůči nám
 ---
 
 Poslední debata o záchraně Eura mi připomíná debaty, které se vedly už mnohokrát a které Čechy (Moravu a Země koruny) pasovaly mezi neužitečné blby Evropy. Na Twitteru jsem si v tomto smyslu posteskl, že máme na své chování vůči záchraně Eura pamatovat ve chvíli, až budeme prožívat nějaký náš Mnichov. Nešlo o doslovné srovnání, ačkoliv o jeho doslovnost se pár diskutujících na Twitteru opřelo. Mnichov nám nehrozí, Mnichov teď Evropě vracíme, komu jsme ublížili před Mnichovem... a tak dále. 

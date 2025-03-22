@@ -13,7 +13,7 @@ summary_points:
 - Eurotel zavedl datový paušál pro GPRS, což bylo unikátní.
 - T-Mobile nemůže zavést paušál kvůli globální strategii skupiny.
 - T-Mobile bude mít problém lákat nové zákazníky.
-title: "Eurotel boduje s GPRS paušálem, T-Mobile neschopen reagovat"
+title: Eurotel boduje s GPRS paušálem, T-Mobile neschopen reagovat
 ---
 
 <p>

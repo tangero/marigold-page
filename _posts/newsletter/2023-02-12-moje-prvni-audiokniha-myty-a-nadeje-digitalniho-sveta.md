@@ -15,7 +15,7 @@ summary_points:
 - Audiokniha samostatně stojí 429 Kč, balíček s e-knihou je se slevou za 365 Kč.
 - Autor žádá čtenáře o zpětnou vazbu na audioknihu a recenze na Goodreads/Databázi
   knih.
-title: "\U0001F4D6Moje první audiokniha: Mýty a naděje digitálního světa"
+title: \U0001F4D6Moje první audiokniha -  Mýty a naděje digitálního světa
 ---
 
 Moje kniha je momentálně na žebříčku nejprodávanějších knih Melvilu, to je ta dobrá zpráva. A ta ještě lepší? **Máme i audioknihu.** Kompletně namluvené Mýty a naděje jsou načteny hercem Ondřejem Halámkem a já mu ten důstojný hlas závidím! [Ukázka 45 minut je zde na Youtube](https://www.youtube.com/watch?v=Bu3eMJDJn7Q&t=1s). A chcete nákupní tip? Samotná audiokniha stojí 429 Kč, ale když si ji koupíte spolu s elektronickou knihou, dostanete na celý balík slevu 50 % a tím se dostanete na 365 Kč. To už se vyplatí, můžete poslouchat v autě i číst ...🙂

@@ -13,9 +13,7 @@ summary_points:
 - Fotografie od tajného agenta odhalila zdroj financování.
 - Autor plánuje získat "analýzu" od televizních analytiků.
 - Financování open source je nečekané a překvapivé.
-title: "'Zdroj financování Linuxu odhalen (oživeno)"
-
-  '
+title: Zdroj financování Linuxu odhalen (oživeno)
 ---
 
 <div class="leftbox"><img src="/wp-content/uploads/1/20050714-penguins.png" alt="Linux" width="320" height="240" /></div>

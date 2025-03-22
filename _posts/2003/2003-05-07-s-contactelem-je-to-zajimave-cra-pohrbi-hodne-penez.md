@@ -13,7 +13,7 @@ summary_points:
 - Firma Contactel je od vzniku ztrátová, ztráta přesáhla miliardu korun.
 - České Radiokomunikace snižují podíl v Contactelu a prodávají ho TDC.
 - České Radiokomunikace pohřbily stamilionovou investici do Contactelu.
-title: "S Contactelem je to zajímavé – ČRa pohřbí hodně peněz"
+title: S Contactelem je to zajímavé – ČRa pohřbí hodně peněz
 ---
 
 <p>

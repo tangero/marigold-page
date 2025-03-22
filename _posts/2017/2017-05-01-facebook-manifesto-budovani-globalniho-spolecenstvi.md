@@ -15,7 +15,7 @@ summary_points:
 - Zuckerberg klade otázku, zda stavíme svět, který všichni chceme.
 - Facebook se zaměřuje na budování globálního společenství propojením lidí.
 - Manifest zdůrazňuje potřebu sociální infrastruktury pro řešení globálních výzev.
-title: 'Facebook Manifesto: Budování Globálního Společenství'
+title: Facebook Manifesto -  Budování Globálního Společenství
 ---
 
 <p>Tento text považuji za jedno z nejdůležitějších součastných politických prohlášení, snad jen s tou výhradou, že jej nevydal žádný klasický politik, ale “majitel” největšího lidského společenství světa Facebooku: Mark Zuckerberg. Či spíše právě proto jej považuji za velmi důležité a velmi jasně to ukazuje kontury dnešní politiky, kdy směr vývoje lidské společnosti i nástroje k tomu spolu s vizí nabízí šéf firmy, nikoliv politik. Text bývá označován za manifest globalizace. </p>

@@ -13,7 +13,7 @@ summary_points:
 - Firmy chtějí opět chválu pro nové technologie, ale novináři jsou skeptičtí.
 - Telekomunikační firmy podváděly marketingem, což vedlo ke ztrátě důvěry.
 - Důvěra je v krizi, protože PR oddělení lžou, zatímco novináři jsou trestáni.
-title: 'Cannes: podvedení novináři, rozmrzelí vystavovatelé'
+title: Cannes -  podvedení novináři, rozmrzelí vystavovatelé
 ---
 
 <p>Pokud bych měl shrnout svoje letošní dojmy z 3GSM kongresu v Cannes, asi bych řekl to, co jsem použil do nadpisu. I když s drobným vysvětlením. </p>

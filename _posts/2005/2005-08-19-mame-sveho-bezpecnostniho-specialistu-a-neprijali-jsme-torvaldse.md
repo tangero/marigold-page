@@ -13,7 +13,7 @@ summary_points:
 - Firma získala bezpečnostního specialistu FUFa po hackerském útoku.
 - FUF proslul svými schopnostmi a neortodoxními metodami získávání dat.
 - FUF zpřísnil bezpečnostní pravidla, omezil přístupy a kontroloval kvalitu kódu.
-title: "Máme svého bezpečnostního specialistu a nepřijali jsme Torvaldse"
+title: Máme svého bezpečnostního specialistu a nepřijali jsme Torvaldse
 ---
 
 <p>I pro nás byl hackerský útok rozsáhlým poučením. Mimo jiné to byl rázný štulec k uvědomnění si skutečnosti, že takový projekt nejde dělat jako nadšenecký dlouho. Sumy za zálohovací jednotku, lepší hardware atd sice nebyly příliš vysoké, ale platit je jako hobby, by bylo přeci jen  nepřiměřeným zásahem do osobního rozpočtu nás tří. </p>

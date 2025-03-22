@@ -17,7 +17,7 @@ summary_points:
   byly zajímavé.
 - Elevator pitch nabídl AbakoWiki a cestovatelský ontheroad.to, srovnatelný s Cestuje.org.
 - Martin Snopek chystá novou verzi Linkuj.cz proti zaplevelování odkazy.
-title: "Jaký byl první pražský TechCrunch"
+title: Jaký byl první pražský TechCrunch
 ---
 
 V pátek se mi nakonec poštěstilo dorazit (už to jednu chvíli nevypadalo) na první český TechCrunch, setkání lidí kolem internetu pořádané pod záštitou webu TechCrunch. Už začátek byl zajímavý. Na iPhone jsem si v aplikaci Maps našel Zvonařku (cílová destinace), pak nejbližší parkoviště mimo ty debilní modré zóny, abych auto nemusel vyzdvihovat za dva litříky na odtahovce u Nuseláku. To se mi do večerního programu nehodilo. 

@@ -13,7 +13,7 @@ summary_points:
 - WAP54G stojí 8700 Kč, WMP54G 3600 Kč, WRT54G 9300 Kč a WPC54G 3400 Kč.
 - Router Linksys je dražší než Buffalo, ale s lepším ovládáním.
 - Linksys negarantuje upgrade na finální standard 802.11g.
-title: "Linksys 802.11g produkty u nás oficiálně v prodeji"
+title: Linksys 802.11g produkty u nás oficiálně v prodeji
 ---
 
 <p>

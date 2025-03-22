@@ -13,7 +13,7 @@ summary_points:
 - Konkrétní fotka na Motobandě je silně nevhodná pro citlivé jedince.
 - Řidiči by měli před jízdou zvážit následky dopravních nehod.
 - Oběti nehod nepředpokládaly tragický konec krátce před nehodou.
-title: "Už jste dneska zvraceli a za chvíli máte sednout do auta?"
+title: Už jste dneska zvraceli a za chvíli máte sednout do auta?
 ---
 
 <p>Jestli ne, tak si projděte pár fotogalerií z bouraček <a href="http://nehody.motobanda.com/">na Motobandě</a>. A na <a href="http://nehody.motobanda.cz/praha/img00006.htm">tuhle fotku</a> si klikněte fakt jen v případě, že jste slepí nebo máte prázdný žaludek. </p>

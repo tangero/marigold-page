@@ -13,7 +13,7 @@ summary_points:
 - Vstup na párty v Celnici střežili vojáci s M16, což byl vtípek.
 - Nokia investuje 40% marketingového rozpočtu do podpory N-Gage.
 - Dealeři jsou skeptičtí ohledně prodeje N-Gage cílové skupině 18-25 let.
-title: "N-Gage párty"
+title: N-Gage párty
 ---
 
 <p>

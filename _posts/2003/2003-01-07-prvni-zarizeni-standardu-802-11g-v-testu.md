@@ -13,7 +13,7 @@ summary_points:
 - Simultánní práce v obou WiFi standardech je velkou výhodou Buffalo WBR-G54.
 - Buffalo slibuje upgrade firmwaru po standardizaci 802.11g.
 - Access point Buffalo WBR-G54 má firewall, webový management a připojení antény.
-title: "První zařízení standardu 802.11g v testu"
+title: První zařízení standardu 802.11g v testu
 ---
 
 <p>

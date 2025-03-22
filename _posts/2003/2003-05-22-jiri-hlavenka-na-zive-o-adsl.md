@@ -13,7 +13,7 @@ summary_points:
 - Většině uživatelů by stačila linka 64 Kbps za nízkou cenu.
 - Telecom preferuje dražší ADSL s vyšší rychlostí kvůli zisku.
 - Článek se ptá, zda snahy o výhodnější ADSL nejsou špatné.
-title: "Jiří Hlavenka na Živě o ADSL"
+title: Jiří Hlavenka na Živě o ADSL
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - ČTÚ rozdával Tetra licence od roku 2000 různým firmám.
 - MobilKom dnes prakticky jediný provozuje veřejnou Tetra síť.
 - MobilKom nabízí Tetra paušály od 540 Kč a radiostanice od 11 000 Kč.
-title: "Ale ano, máme Tetra síť"
+title: Ale ano, máme Tetra síť
 ---
 
 <p>

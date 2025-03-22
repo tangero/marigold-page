@@ -15,7 +15,7 @@ summary_points:
 - Otevřenost společnosti nemusí být vždy výhodou pro dlouhodobý růst inovací.
 - Regulace a nedůvěra zpomalí pronikání umělé inteligence do podnikání.
 - Některé státy mohou odmítnout umělou inteligenci kvůli potenciálním škodám.
-title: "Socioekonomické a regulatorní překážky"
+title: Socioekonomické a regulatorní překážky
 ---
 
 I tohle je těžko uchopitelná část, ale ve skutečnosti o prosazení se transformativních technologií ve společnosti rozhodovalo konkrétní nastavení společnosti. Ne bez důvodu vznikla průmyslová revoluce v Británii a ne jinde v Evropě, ačkoliv doba v Evropě byla “těhotná” myšlenkou průmyslové revoluce, industrializace a parního stroje. Jenže socioekonomické podmínky byly příznivé právě tam, v Británii, která se tím stala Velikou. 

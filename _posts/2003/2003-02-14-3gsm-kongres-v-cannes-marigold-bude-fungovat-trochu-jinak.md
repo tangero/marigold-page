@@ -13,7 +13,7 @@ summary_points:
 - Příští týden se budou věnovat novinkám z Cannes.
 - O 3GSM kongresu budou informovat zajímavěji než jiná média.
 - Fotografie z Cannes budou publikovány na speciální URL adrese.
-title: "3GSM kongres v Cannes – Marigold bude fungovat trochu jinak"
+title: 3GSM kongres v Cannes – Marigold bude fungovat trochu jinak
 ---
 
 <p>

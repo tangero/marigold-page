@@ -13,7 +13,7 @@ summary_points:
 - Pražský WiFi projekt má zastavenou dotaci z EU a je financován z daní.
 - Autor aktivně jedná s EU komisí a poskytuje jí informace o WiFi projektu.
 - Autor žádá pražské ISP z vyjmenovaných oblastí o spolupráci a stanoviska.
-title: "V krátkosti: statistika, WiFi v Praze a iPhone"
+title: V krátkosti -  statistika, WiFi v Praze a iPhone
 ---
 
 <texy>**Noname píše:** jen v krátkosti - zajímá-li vás rozšiřování broadbandu v ČR a ve světě, koukněte na "aktuální článek Míly Sovy na Internet Pro Všechny":http://www.internetprovsechny.cz/clanek.php?cid=181, opět čerpá ze spolupráce s agenturou Point-Topic. Na můj vkus to vidí možná trochu černě, samozřejmě že ADSL u nás ještě stále značně pokulhává, celkový počet broadband přípojek ale podle mého průměrný evropský trend kopíruje a <a href="http://www.internetprovsechny.cz/clanek.php?cid=180">letos se pravděpodobně dočkáme "normalizace" trhu s připojením k internetu</a>.

@@ -12,7 +12,7 @@ summary_points:
 - HSDPA je tématem bláznova turobúvodu do UMTS.
 - Článek o HSDPA je dostupný na uvedeném odkazu.
 - UMTS a HSDPA jsou spolu propojené technologie.
-title: 'Turboúvod do UMTS: HSDPA aneby ještě rychlejší data'
+title: Turboúvod do UMTS -  HSDPA aneby ještě rychlejší data
 ---
 
 <p>

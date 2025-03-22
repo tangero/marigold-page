@@ -13,7 +13,7 @@ summary_points:
 - Daňová úleva u WiFi techniky by mohla snížit DPH z 22 na 5 procent.
 - Vzhledem ke konci vlády je státní podpora WiFi nejistá.
 - Státní podpora málokdy přináší obecný užitek.
-title: 'Vladimír Mlynář: WiFi se státní podporou'
+title: Vladimír Mlynář -  WiFi se státní podporou
 ---
 
 <p>

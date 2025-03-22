@@ -14,7 +14,7 @@ summary_points:
   ke změně strategie.
 - Apple má provize z provozu iPhone, proto tvrdě bojuje proti odblokování telefonů.
 - Apple certifikuje aplikace pro iPhone kvůli bezpečnosti a hrozbě virů.
-title: "Apple otevře iPhone pro software třetích stran (a co je za tím)"
+title: Apple otevře iPhone pro software třetích stran (a co je za tím)
 ---
 
 Před pár dny udělal Apple věc, kterou dělá jen opravdu výjimečně. Oznámil, že se něco stane a nebude to hned. Oznámil, že v únoru 2008 nabídne vývojářský kit (SDK) pro iPhone a umožní do iPhone oficiálně nahrávat plnohodnotný software třetích stran. 

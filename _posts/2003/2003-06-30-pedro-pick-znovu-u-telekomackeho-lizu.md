@@ -14,7 +14,7 @@ summary_points:
 - Pick figuroval v aféře uplácení při privatizaci Českého Telecomu v roce 1999.
 - Vyšetřování Pickovy role v korupční aféře privatizace Telecomu bylo zastaveno.
 - Článek spekuluje o politickém pozadí přidělení zakázky Pickovi bez výběrového řízení.
-title: "Pedro Pick znovu u telekomáckého lizu"
+title: Pedro Pick znovu u telekomáckého lizu
 ---
 
 <p>

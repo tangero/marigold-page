@@ -13,7 +13,7 @@ summary_points:
 - Omezení rychlosti nebude automatické, UPC bude posuzovat případy individuálně.
 - UPC mělo lépe komunikovat s novináři a zákazníky ohledně limitů.
 - Internet reagoval na limity vtipnými obrázky s Garfieldem.
-title: "Garfield proti limitům na Chello :)"
+title: Garfield proti limitům na Chello  - )
 ---
 
 <p>

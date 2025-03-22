@@ -16,7 +16,7 @@ summary_points:
 - Saúdský fond PIF projevil zájem o převzetí Tesly, což Musk bral jako závazek.
 - Musk tlačil na PIF, aby potvrdil jednání o převzetí Tesly, jinak s nimi přeruší
   kontakt.
-title: "Twitter a Elon Musk"
+title: Twitter a Elon Musk
 ---
 
 Uděláme dohodu. Já to sleduju a když bude něco důležitého, tak vám řeknu. Momentálně nejdůležitější zprávou je, že někteří akcionáři i představitelé Twitteru jsou na Muska naštvaní a [chtějí podat žalobu, že manipuluje kurzem akcií Twitteru](https://www.euronews.com/culture/2022/05/27/twitter-sues-elon-musk-for-manipulating-stock-market?utm_source=flipboard.com&utm_campaign=feeds_cultureVertical&utm_medium=referral), aby jej koupil levněji. Jenže takové žaloby jsou v USA v podobných případech běžné a nic to neznamená. Takže kromě zvyšujícího se roztrpčení a debaty o tom, zda Musk Twitter chce opravdu koupit, se nestalo nic. Pořád myslím, že z obchodu nakonec sejde. 

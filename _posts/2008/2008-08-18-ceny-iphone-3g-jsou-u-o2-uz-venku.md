@@ -15,7 +15,7 @@ summary_points:
 - Tarif iPhone M nabízí 8GB za 5995 Kč, 16GB za 7995 Kč plus 600 Kč měsíčně.
 - Tarif iPhone M zahrnuje neomezená data, víkendová volání v O2 a dražší hovory.
 - Neon tarify jsou dražší o 2000 Kč, paušál začíná na 260 Kč měsíčně bez WiFi.
-title: "Ceny iPhone 3G jsou u O2 už venku"
+title: Ceny iPhone 3G jsou u O2 už venku
 ---
 
 O2 <a href="http://www.cz.o2.com/osobni/cz/telefony_a_zarizeni/iphone/prices.html?page=info">zveřejnilo ceny pro iPhone 3G</a>. Lze jej pořídit draho bez tarifu iPhone 3G 8GB verze za 11 995 Kč (s DPH) nebo 16 GB verzi za 14 095 Kč. 

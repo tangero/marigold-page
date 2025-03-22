@@ -15,9 +15,7 @@ summary_points:
 - Proxim nabízí Orinoco produkty s 802.11g pro firemní použití, AP-2000b/g za 695
   USD.
 - Orinoco PCMCIA karty 11b/g stojí 99 USD (Gold) nebo 81 USD (Silver).
-title: "'Access pointy 802.11g. Intel Centrino zamrzá na VPN. Proxim Orinoco na 802.11g"
-
-  '
+title: Access pointy 802.11g. Intel Centrino zamrzá na VPN. Proxim Orinoco na 802.11g
 ---
 
 <p>

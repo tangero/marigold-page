@@ -13,9 +13,7 @@ summary_points:
 - 'CzFree Net: Ocenění hnutí rovnosti je problematické kvůli předání ceny.'
 - 'LinuxExpo: CzFree Net měl stánek s Ronjou, ale slabým signálem.'
 - 'Stánek CellNetu: Distributor Nokie neměl s Nokií nic společného.'
-title: "'CzFree Net si Zavináče nevyzdvihnul. Kdo by také měl?"
-
-  '
+title: CzFree Net si Zavináče nevyzdvihnul. Kdo by také měl?
 ---
 
 <p>

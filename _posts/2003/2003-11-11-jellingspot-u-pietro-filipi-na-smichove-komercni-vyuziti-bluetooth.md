@@ -14,7 +14,7 @@ summary_points:
   Bluetooth.
 - Dosah Jellingspot Data Serveru je až 50 metrů od obchodu pietro filipi.
 - Jellingspot Data Server funguje na Java platformě a přenos dat je zdarma.
-title: "Jellingspot u Pietro Filipi na Smíchově – komerční využití bluetooth"
+title: Jellingspot u Pietro Filipi na Smíchově – komerční využití bluetooth
 ---
 
 <p>

@@ -14,7 +14,7 @@ summary_points:
 - NetPhone Start Pack od Faynu stojí 4600 Kč s DPH a nepotřebuje počítač.
 - Telefonní čísla Fayn jsou přidělována dle geografické lokace uživatele.
 - Přenositelnost telefonního čísla do služby Fayn není aktuálně možná.
-title: "Fayn konečně a skutečně nabízí příchozí telefonní číslo"
+title: Fayn konečně a skutečně nabízí příchozí telefonní číslo
 ---
 
 <p>

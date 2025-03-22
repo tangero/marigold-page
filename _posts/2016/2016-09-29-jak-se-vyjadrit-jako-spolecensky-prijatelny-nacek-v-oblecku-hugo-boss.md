@@ -13,7 +13,7 @@ summary_points:
 - Sociologové předpokládají, že migrace nezpůsobí zásadní společenské změny.
 - USA nepykají za dovoz černochů, jejich přínos převážil negativa.
 - Neffův názor je založen na emocích, nikoliv na faktech.
-title: "Jak se vyjádřit jako společensky přijatelný nácek v oblečku Hugo Boss"
+title: Jak se vyjádřit jako společensky přijatelný nácek v oblečku Hugo Boss
 ---
 
 Onřej Neff dneska tematicky jako nácek ve slušivém obleku Huggo Boss. U něj by mě to kdysi překvapilo, v poslední době bohužel standard. Takže co je na níže uvedeném tvrzení špatně?

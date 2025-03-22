@@ -16,7 +16,7 @@ summary_points:
 - Drbz.cz umožňuje přidávání příspěvků přes web, SMS a integraci do Wordpressu.
 - Teidu.cz od Bloguje.cz umožňuje teidovat z mobilu, webu i SecondLife.
 - Mikroblogy v Česku se pravděpodobně nezhodnotí rychle, ale mají svůj smysl.
-title: "Mikroblogování po česku: Drbz a Teidu"
+title: Mikroblogování po česku -  Drbz a Teidu
 ---
 
 Bylo jen otázkou času, kdy mikroblogovací systémy dorazí i do Česka. Po slušném celosvětovém úspěchu Twitteru a Jaiku (ve smyslu návštěvnosti a citovanosti v médiích) se i u nás něco urodilo, ale byly to spíš drobnosti reklamního charakteru jako staropramenný reklamní <a href="http://www.zijesjenjednou.cz">ŽiješJenJednou.cz</a> nebo velmi jednoduché <a href="http://www.codelam.cz">CoDělám.cz</a>. Zatímco oba dva tyto projekty jsou už spíše neaktuální, dva nové přicházejí.

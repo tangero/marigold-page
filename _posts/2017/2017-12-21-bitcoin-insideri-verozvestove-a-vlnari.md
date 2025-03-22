@@ -12,7 +12,7 @@ summary_points:
   v mainstreamových médiích.
 - 'Doporučení: "Kryptoměnám bude tím lépe, čím hůře bude světu" - důvěra v kryptoměny
   roste při poklesu důvěry ve státní měny.'
-title: "Bitcoin insideři, věrozvěstové a vlnaři"
+title: Bitcoin insideři, věrozvěstové a vlnaři
 ---
 
 Se psaním o bitcoinu je to teď těžké. Je to přesně ta zlomová doba v Česku, kdy se "přes noc objevila" revoluce ve finančnictví. Co na tom, že je za ní mnoho let tvrdé práce, prostě se zjevila přes noc. A rychle naskakují ti, kdo chtějí jet nahoru na vlně. I v psaní a moudrých úsudcích. A protože všechny takové jevy jsou u nás tradičně revoluce přes noc, je těžké je rozlišit. Ty, kdo o tom něco vědí a ty kdo jsou lekci před vámi. Proč?<!--more-->První skupinou jsou vždy <strong>věrozvěstové</strong>. Naskočili před mnoha lety a poznáte je podle bezmezné víry manifestované tím, že všechny svoje peníze vložili do "krypta" už před lety. Takže dneska jsou v balíku, což je pro ně důkaz neomylnosti.

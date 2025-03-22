@@ -13,9 +13,7 @@ summary_points:
 - Autor zjistil název Ukolébavka a našel text na webu Znouzectnosti.
 - Originální nahrávka Ukolébavky byla nedostupná v obchodech i online.
 - Znouzecnost nabízí MP3 zdarma na svém webu, takže autor získal píseň legálně.
-title: "'Ta hudba nešla ukrást, protože ji dávali zadarmo"
-
-  '
+title: Ta hudba nešla ukrást, protože ji dávali zadarmo
 ---
 
 <p>Občas musím řešit specifické problémy. Tentokrát jím byla ukolébavka pro Sofii. Jednu dobrou a méně známou znám, tak když dávám Sofii spát, tak ji zpívám. Zabírá to dokonale, u druhé sloky Sofie drží oči zavřené, abych už přestal a vypadl. Jenže se ukázalo, že si slova nepamatuju přesně. Tradičně jsem to řešil tak, že jsem si je domýšlel, jenže to už se mi v ukolébavce hromadili mrtví, přízraky a zombíci. </p>

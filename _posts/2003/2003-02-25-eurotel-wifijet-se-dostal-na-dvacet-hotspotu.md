@@ -13,9 +13,7 @@ summary_points:
 - Většina WiFiJet lokalit jsou hotely, například Grandhotel Pupp Karlovy Vary.
 - Mezi lokalitami je i Mezinárodní letiště Ostrava - Mošnov a Carrefour Plzeň.
 - Brno má několik WiFiJet lokalit, například Hotel Voroněž a Hotel Continental.
-title: "'Eurotel WiFiJet se dostal na dvacet hotspotů"
-
-  '
+title: Eurotel WiFiJet se dostal na dvacet hotspotů
 ---
 
 <p>

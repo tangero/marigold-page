@@ -15,7 +15,7 @@ summary_points:
 - Česko ztrácí pozici v telekomunikační revoluci kvůli nedostatku inovací.
 - Technické vzdělávání v Česku postrádá obchodní a soft skills aspekty.
 - Uvolněná intelektuální kapacita často odchází do zahraničí.
-title: "5G Jobs Offloading čili  mizení práce kvůli sítím 5G"
+title: 5G Jobs Offloading čili mizení práce kvůli sítím 5G
 ---
 
 <p>Infrastruktura mění pracovní příležitosti v místě, kde je - i kde není. Pozorovali jsme to u dálnic a víme, že je to obousečná zbraň. Dálnice přinese do kraje pracovní příležitosti, jenže nejenom ty lepší, ale i ty prekariátní, jakou nesou sklady, výrobní haly a montovny. Místo, kde dálnice není, může naopak těžit z odlehlosti a stát se rájem luxusnější verze turismu. Dopady jsou těžko odhadnutelné v globálu a zhusta záleží na lokální připravenosti, podmínkách a aktivitě místních lidí či existenci někoho osvíceného, kdo se do záležitosti ponoří a pohne ji svým směrem.</p>

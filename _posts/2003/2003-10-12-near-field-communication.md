@@ -14,7 +14,7 @@ summary_points:
 - Sony vidí NFC jako nový interface pro lidskou komunikaci ve spotřební elektronice.
 - IBM si představuje NFC jako Personal Area Network propojující zařízení v blízkosti
   člověka.
-title: "Near Field Communication"
+title: Near Field Communication
 ---
 
 <p>

@@ -13,9 +13,7 @@ summary_points:
 - Vyhledávání probíhá i v metadatech multimediálních souborů.
 - Yahoo! vydalo specifikaci Media RSS Syndication pro roboty.
 - Cílem Media RSS Syndication je usnadnit nalezení URL obsahu.
-title: "'Yahoo! ve videosouborech skutečně vyhledává"
-
-  '
+title: Yahoo! ve videosouborech skutečně vyhledává
 ---
 
 <p>Jak správně napsal v krátkých zprávičkách na Lupě.cz Tomáš Hloboď ,<a href="http://video.search.yahoo.com/">Yahoo!</a> nabízí vyhledávání videosouborů na Internetu. Od poslední betaverze verze se poučili (možná přečetli naši technickou zprávu z roku 2003 s poutavým názvem <a href="http://www.cesnet.cz/doc/techzpravy/2003/jyxosearch/jyxosearch.html">Internet search in multimedia data</a>), nyní vyhledávají nejen v názvech souborů, ale také v metadatech uložených v multimediálních souborech (ale asi jen v názvech). </p>

@@ -19,7 +19,7 @@ summary_points:
 - MIMO (vícecestný vstup/výstup) zlepšuje kvalitu signálu pomocí více antén.
 - QAM modulace v R7 zvyšuje přenosovou rychlost bez MIMO.
 - CPC (kontinuální paketové připojení) snižuje zátěž sítě a spotřebu energie.
-title: "Vysokorychlostní data HSPA+ aneb 3GPP Release 7"
+title: Vysokorychlostní data HSPA+ aneb 3GPP Release 7
 ---
 
 <p>V přehledu vývojových verzí UMTS/3G sítí jsem se zadrhl u <a href="http://www.marigold.cz/item/umts-release-6">Release 6</a> – další Release měly už tu smůlu, že jsem měl dost jiné práce. Tak alespoň zpětně a s ohledem na to, že funkcionality (vybrané) z nových Release se pomaličku dostávají i do českých mobilních sítí.</p>

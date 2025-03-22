@@ -13,7 +13,7 @@ summary_points:
 - Cinetik, česká půjčovna, se patent Netflixu netýká, platí jen v USA.
 - Wal-Mart má problém s identickým systémem kvůli patentu Netflixu.
 - Farmaceutické koncerny patentují DNA exotických rostlin, omezují dovoz.
-title: "Patent na online půjčování DVD…"
+title: Patent na online půjčování DVD…
 ---
 
 <p>

@@ -14,8 +14,7 @@ summary_points:
 - WLAN sítí rozmach bude dán integrací hlasu, podobně jako u UMTS dat.
 - WiFi v kavárnách má smysl jako přidaná služba, pokud je zdarma.
 - WiFi v kavárnách je výhoda, podobně jako televize s fotbalem v hospodách.
-title: "'WiFidrobky: Standardizace mesh sítí, rozmach bezdrátů má zajistit hlas, WiFi"
-  v&nbsp;kavárnách'
+title: WiFidrobky -  Standardizace mesh sítí, rozmach bezdrátů má zajistit hlas, WiFi v kavárnách
 ---
 
 <p>

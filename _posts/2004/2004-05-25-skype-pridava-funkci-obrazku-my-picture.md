@@ -13,7 +13,7 @@ summary_points:
 - Verze 0.98.0.04 Skype pro PC obsahuje novou funkci My Picture.
 - Skype nabízí uživatelům obrázky ke stažení pro funkci My Picture.
 - Funkce My Picture byla jednou z nejžádanějších funkcí uživatelů Skype.
-title: "Skype přidává funkci obrázků „My Picture“"
+title: Skype přidává funkci obrázků „My Picture“
 ---
 
 <p>

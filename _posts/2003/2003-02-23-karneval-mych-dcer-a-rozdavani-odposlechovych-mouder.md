@@ -13,7 +13,7 @@ summary_points:
 - Vanda byla za Ferdu Mravence, Lída za žábu a obě plnily úkoly.
 - Lída spadla ze žebříku, ale bavila se po svém i při úkolech.
 - Autor pořídil desítky fotografií, Vanda skákala s rozkoší, Lída s nadšením.
-title: "Karneval mých dcer a rozdávání odposlechových mouder"
+title: Karneval mých dcer a rozdávání odposlechových mouder
 ---
 
 <p>

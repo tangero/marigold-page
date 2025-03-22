@@ -13,7 +13,7 @@ summary_points:
 - Průvodkyně odhalila transformaci soukromých prostor v turistické atrakce
 - Autor reflektuje potřebu soukromí pro rozhodování a meditaci
 - Nesnáší turistické cesty bez hlubšího vztahu k místu a historii
-title: "Turismus jako znásilnění místa (poznámka k meditaci)"
+title: Turismus jako znásilnění místa (poznámka k meditaci)
 ---
 
 O víkendu jsem doprovázel naše čínské partnery na Karlštejn <em>(jejich návštěva je samostatná story na nikdy jindy, seznámit se s čínským miliardářem v teplákách a CTO velké mobilfouní firmy je samo o sobě zajímavý)</em>. 

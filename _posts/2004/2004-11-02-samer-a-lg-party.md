@@ -13,7 +13,7 @@ summary_points:
 - Samer byl přítomen na LG párty.
 - Mojito bylo podáváno na LG párty a bylo výborné.
 - Fotografie z LG párty byla zaslána emailem.
-title: "Samer a LG Party"
+title: Samer a LG Party
 ---
 
 <p>

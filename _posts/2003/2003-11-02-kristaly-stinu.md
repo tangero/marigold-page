@@ -13,7 +13,7 @@ summary_points:
 - Hráč, trpaslík, se stává bohem her a sázek po dohodě s Argaronem.
 - Kouzelník Tamin varuje Hráče před nebezpečím a daruje mu knihu kouzel Magikon.
 - Hráč navštíví mistra Sorgona, který souhlasí s účastí na Argaronově slavnosti.
-title: "Křišťály stínů"
+title: Křišťály stínů
 ---
 
 Tak tohle byl začátek rozsáhlého eposu, který jsem psal v roce 1990. A nikdy nedopsal - schovávám si ten nápad na dobu, kdy se naučím pořádně psát. Křišťály stínů jsou vlastně verzí qwestů, Putování. Jenže tentokráte ve světě bohů, kterým se prohnala válka...<!--more--><BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">

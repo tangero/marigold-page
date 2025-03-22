@@ -13,7 +13,7 @@ summary_points:
 - Autor článku Euro opakovaně zaměňuje komunitní WiFi sítě a warchalkery.
 - Euro se k chybě v článku explicitně nevyjádřilo, pouze ji zamaskovalo.
 - Diskusní fórum CzFree Net obsahovalo přitroublé komentáře o článku Euro.
-title: "Euro nasralo lidi z CzFree…"
+title: Euro nasralo lidi z CzFree…
 ---
 
 Kdybych řekl, že Euro zdvihl lidem kolem CzFree mandle, bylo by to asi spisovné, ale málo výstižné. Článek Marka Rudolfa v Euru přitom o CzFree obsahoval jen několik málo řádek. Zato tak dokonale zmatených, že to nešlo přehlédnout. 

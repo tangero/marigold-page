@@ -13,9 +13,7 @@ summary_points:
 - Technologické limity jako 8K rozlišení a přenos dat brzdí rozvoj VR.
 - Oculus Rift a Google Cardboard znovu probudily zájem o virtuální realitu.
 - Psychologické a technické problémy mohou zpomalit masovou adopci VR.
-title: "'Virtuální realita má být motor další technologické spotřeby"
-
-  '
+title: Virtuální realita má být motor další technologické spotřeby
 ---
 
 <p>Bude virtuální realita tím průlomem, který znovu povede zvyšování zátěže internetu a další průnik technologií do našich životů? Výrobci jsou plni navenek manifestovaného optimismu, ale jejich kroky jsou veskrze opatrné. Úspěchy produktů typu Oculus Rift jsou zatím relativizovány jako “úchylka” a “nalezení niky v nice”.</p>

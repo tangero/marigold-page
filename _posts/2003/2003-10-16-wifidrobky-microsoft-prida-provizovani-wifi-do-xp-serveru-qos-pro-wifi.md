@@ -12,7 +12,7 @@ summary_points:
 - Microsoft představil WPS pro Windows XP, účtování provizí a bezpečné WiFi přihlašování.
 - Meru nabízí hardware s QoS pro WiFi sítě, bez čekání na 802.11e standard.
 - D-Link nabízí nestandardizovaný upgrade na 108 Mb/s pro G produkty.
-title: 'WiFidrobky: Microsoft přidá provizování WiFi do XP serveru, QoS pro WiFi'
+title: WiFidrobky -  Microsoft přidá provizování WiFi do XP serveru, QoS pro WiFi
 ---
 
 <p>

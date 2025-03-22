@@ -12,7 +12,7 @@ summary_points:
 - Marigoldí restaurant byl poprvé otevřen, fotografie pochází z Austrálie.
 - Péťa z Austrálie poslal fotografii nově otevřeného Marigold restaurantu.
 - Kliknutím na fotografii lze zobrazit větší verzi Marigold restaurantu.
-title: "První marigoldí restaurant"
+title: První marigoldí restaurant
 ---
 
 <p>

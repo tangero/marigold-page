@@ -13,9 +13,7 @@ summary_points:
 - Atlas přivedl ve stejný den zhruba 70 lidí, Centrum jednotky odkazů.
 - Článek s fotografiemi tsunami dosáhl přes pět tisíc shlédnutí.
 - Seznam má stále výrazně větší vliv než Atlas a Centrum.
-title: "'Seznam mne zahrnuje tsunami návštěvníků"
-
-  '
+title: Seznam mne zahrnuje tsunami návštěvníků
 ---
 
 <p>Nedávno jsem tu napsal článek s odkazem na satelitní fotografie oblastí postižených tsunami. Článek zaindexovaly vyhledávače (ha, pamatujete na doby, kdy se na návštěvu vyhledávače a zaindexování webu čekalo dva měsíce a slavilo se to jako svátek?) a pak se začaly dít věci. Začalo sem lozit nějak moc lidí. A je to zajímavé, jaký poměr je mezi Seznamem, Atlasem a Centrem. </p>

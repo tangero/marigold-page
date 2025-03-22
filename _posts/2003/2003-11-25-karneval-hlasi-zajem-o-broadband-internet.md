@@ -15,7 +15,7 @@ summary_points:
 - Na přelomu roku 2003 bude vysokorychlostní internet od Karnevalu dostupný ve 180
   tisících domácností.
 - Karneval zaznamenává čtvrtletní 22 procentní nárůst zákazníků internetu.
-title: "Karneval hlásí zájem o broadband internet"
+title: Karneval hlásí zájem o broadband internet
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
 - Autor vybral 80 článků z Marigolda a sázet knihu se učil v Pages.
 - Obálka knihy kombinuje marketingový styl s techno-fotkou od Marka.
 - Autor vytiskl 50 kusů knihy, část půjde do prodeje přes Marigold.
-title: "Marigoldí léta"
+title: Marigoldí léta
 ---
 
 Letos bude Marigoldovi pět let. Původně jsem to ani nechtěl nějak podstatně slavit, však co na tom. Jenže pak mi několik lidí nezávisle na sobě připomenulo můj někdejší slib, že články z Marigolda vytisknu a dám jim je. 

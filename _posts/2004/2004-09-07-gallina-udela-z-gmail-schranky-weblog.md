@@ -13,7 +13,7 @@ summary_points:
 - Hvězdičkou označené GMail zprávy se zobrazí na weblogu.
 - Odpovědi na GMail zprávy fungují jako komentáře na weblogu.
 - Robs Blog nabízí seznam utilit a pluginů pro GMail.
-title: "Gallina udělá z GMail schránky weblog"
+title: Gallina udělá z GMail schránky weblog
 ---
 
 <p>

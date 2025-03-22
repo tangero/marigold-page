@@ -16,7 +16,7 @@ summary_points:
 - Flashmob v Carrefour 2003 zahrnoval focení v obchodě, což vedlo ke konfliktu s ochrankou.
 - Incident v Carrefour vyvolal odezvu v blogosféře i mainstreamových médiích.
 - Flashmob v Carrefour neměl trvalý dopad na blogerskou komunitu ani média.
-title: "Zlatá éra weblogů 2:  Flashmob v Carrefour"
+title: Zlatá éra weblogů 2 -  Flashmob v Carrefour
 ---
 
 <p> Chvilkové okouzlení <em>"subkulturou weblogů"</em> vedlo až k tomu, že někteří alternativní optimisté je začali považovat za nový projev občanské společnosti či novou formu kultury a intelektuálního projevu, který prosakuje i mimo internet. Nejnižší demonstrací takových tužeb byly weblogerské formy řetězovek, kdy bylo třeba zodpovědět pár otázek či přepsat dvacátou větu dvacáté stránky rozečtené knihy a poslat štafetu dále, tedy vyzvat další blogery, aby udělali totéž. </p>

@@ -13,7 +13,7 @@ summary_points:
 - Finder v Leopardu lépe pracuje se síťovými disky díky oddělenému vláknu.
 - Quick Look umožňuje rychlý náhled souborů bez spouštění příslušných programů.
 - Spaces vytváří virtuální pracovní plochy pro lepší organizaci aplikací a oken.
-title: "Zběsilá jízda na Leopardu 1. – Začínáme s novinkami Mac OS X 10.5"
+title: Zběsilá jízda na Leopardu 1. – Začínáme s novinkami Mac OS X 10.5
 ---
 
 Od teoretizování o verzích Mac OS přejděme k leopardí praxi. Dopředu předesílám, že účelem článku není ohromit majitele jiných operačních systémů a ani s nimi Leoparda srovnávat jinak, než v základních odlišnostech. Článek je určen zájemcům o Leoparda a očekávám, že ti se budou rekrutovat především z Mac uživatelů verze Tiger. <!--more-->

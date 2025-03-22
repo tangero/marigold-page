@@ -13,7 +13,7 @@ summary_points:
 - Kvantové počítače jsou vhodné pro paralelní a kvantové simulace.
 - Výroba kvantových počítačů je technicky náročná a drahá.
 thumbnail: https://live.staticflickr.com/4758/39660636671_0210f113a6_b.jpg
-title: "Kvantové počítače"
+title: Kvantové počítače
 ---
 
 Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jejich důsledky pro lidstvo.

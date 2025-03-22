@@ -19,7 +19,7 @@ summary_points:
 - Ronja Karla Kulhavého umožnila spolehlivé páteřní spoje pro bezdrátové sítě.
 - I4Wifi Jana Sedláka zajistila dostupnou techniku pro regionální poskytovatele internetu.
 - Internet pro všechny Miloslava Sovy zvýšil povědomí o menších poskytovatelích internetu.
-title: "Hrdinové českého broadbandu"
+title: Hrdinové českého broadbandu
 ---
 
 <p>Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má zásluhu na tom, že jsme se dostali alespoň tam, kde nyní jsme? Většinou jsou to jména, která nejsou všeobecně známá, ale to zásluhy oněch lidí neumenšuje. A myslím, že je spravedlivé, jejich roli zaznamenat. Berte to tak, že je to můj osobní výběr, pár lidí, jejichž práce na poli broadbandu si vážím - lidí, kteří ji dělali z nadšení a s nadšením. Nebyli to povětšinou znudění ředitelé telekomunikačních firem, kteří se nechali někam dotlačit ubíhajícím trhem, ale naopak to byli ti, kdo sami trh někam tlačili a strkali.</p>

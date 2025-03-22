@@ -13,7 +13,7 @@ summary_points:
 - T-Mobile Německo získal v prvním čtvrtletí pouze 190 000 nových zákazníků.
 - O2 Německo získal 400 000 zákazníků v prvním čtvrtletí.
 - Verizon Wireless získal 1,4 milionu zákazníků s ARPU 48 USD.
-title: 'Drobky: Mapa pokrytí Eurotel CDMA, T-Mobile Německo ztratil'
+title: Drobky -  Mapa pokrytí Eurotel CDMA, T-Mobile Německo ztratil
 ---
 
 <p>

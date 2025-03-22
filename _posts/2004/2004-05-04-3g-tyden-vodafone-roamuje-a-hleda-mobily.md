@@ -13,7 +13,7 @@ summary_points:
 - Samsung dodá 3G telefony pro Vodafone v Německu a Portugalsku.
 - LG podepíše miliardový kontrakt s Hutchison Whampoa na dodávku 3G mobilů.
 - Orange spustil "precommercial" 3G provoz v Toulouse ve Francii.
-title: "3G Týden: Vodafone roamuje a hledá mobily"
+title: 3G Týden -  Vodafone roamuje a hledá mobily
 ---
 
 <H4>Vodafone roamuje data </H4>

@@ -13,7 +13,7 @@ summary_points:
 - WeRoam nabídne akreditovaným novinářům zdarma WiFi na CeBitu.
 - SFR byl kritizován za zpoplatněné připojení v Cannes.
 - Tisková zpráva WeRoam oznamuje bezplatné WiFi pro novináře.
-title: 'Došlo jim to: WiFi bude pro novináře na CeBITu zdarma'
+title: Došlo jim to -  WiFi bude pro novináře na CeBITu zdarma
 ---
 
 <p>

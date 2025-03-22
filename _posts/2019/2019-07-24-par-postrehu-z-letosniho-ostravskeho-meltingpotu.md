@@ -13,7 +13,7 @@ summary_points:
 - Jeffrey Winters diskutoval o oligarchii a globální majetkové nerovnosti.
 - Američtí řečníci vynikali jasnou a jednoduchou angličtinou oproti českým.
 - Colours nabízí kvalitní přednášky i bez hudby za přijatelnou cenu.
-title: "Pár postřehů z letošního ostravského Meltingpotu"
+title: Pár postřehů z letošního ostravského Meltingpotu
 ---
 
 Na ostravské Colours jsem jel také kvůli přednáškovému bloku  [Meltingpot](https://www.meltingpotforum.com/cs). Dvě stovky lidí, jací se na akcích v Česku běžně nevidí. Žádná opakující se jména. To mě zaujalo – a nakonec, už jsem dlouho na žádné konferenci nebyl.

@@ -13,7 +13,7 @@ summary_points:
 - Disk serveru u poskytovatele PinkNET selhal a záloha neexistuje.
 - Obnova starých funkcí bude složitá kvůli staré záloze souborů.
 - Nové funkce a články budou připraveny, prosí o podporu a návštěvnost.
-title: "omluva za výpadek internetprovsechny.cz"
+title: omluva za výpadek internetprovsechny.cz
 ---
 
 <p>Jménem Internet Pro Všechny se omlouvám všem, kteří trpí výpadkem serveru <a href="http://www.internetprovsechny.cz" >www.internetprovsechny.cz</a>.

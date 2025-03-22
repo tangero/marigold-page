@@ -13,7 +13,7 @@ summary_points:
 - PayPal usnadňuje mikroplatby s nižšími poplatky než SMS platby.
 - Čeští obchodníci mohou díky PayPalu snadněji prodávat zboží v zahraničí.
 - PayPal je pro český internet významný, konkuruje bankám a usnadňuje e-komerci.
-title: "Konečně: PayPal funguje i pro české účty. Už doopravdy!"
+title: Konečně -  PayPal funguje i pro české účty. Už doopravdy!
 ---
 
 <p>Vypadá to tak jednoduše, dělat platební převody mezi státy po internetu. Adaptovat mikroplatby. Technicky jistě. Právně je to opruz nesmírný, dělat takový systém. PayPal měl do Česka nakročeno dlouho a konečně dorazil. Dnes vypršelo i poslední zpoždění a uživatelé v Česku (i pár dalších dalších zemích, Slovensko mezi nimi ale není) mohou přijímat na své PayPal účty převody peněz. Zatím v eurech, dolarech a dalších obskurnějších měnách, naše vlastní a nejobskurnější měna mezi nimi zatím chybí. Ale všeho do času. </p>

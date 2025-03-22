@@ -14,7 +14,7 @@ summary_points:
   limit.
 - T-Mobile doručil MMS zprávu odeslanou v pátek až v neděli.
 - Marigold nestíhá aktualizovat kvůli nákupům titulů a dalším povinnostem.
-title: "Nestíhačka vrcholí"
+title: Nestíhačka vrcholí
 ---
 
 <p>

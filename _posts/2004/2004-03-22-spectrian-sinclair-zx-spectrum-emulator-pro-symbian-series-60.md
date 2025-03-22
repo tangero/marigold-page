@@ -13,7 +13,7 @@ summary_points:
 - Emulátor Spectrian podporuje formáty Z80, SNA a TAP pro nahrávání programů.
 - Spectrian zdarma zabírá 170 KB, placená verze umožňuje screenshoty a mapování kláves.
 - Autor článku zažil osmibitovou nostalgii na CeBITu, viděl Commodore a Amigy.
-title: 'Spectrian: Sinclair ZX Spectrum Emulator pro Symbian Series 60'
+title: Spectrian -  Sinclair ZX Spectrum Emulator pro Symbian Series 60
 ---
 
 <p>

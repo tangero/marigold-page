@@ -16,7 +16,7 @@ summary_points:
   textů je problematické.
 - Filip Rožánek a Kostěj se postavili proti "honu" na Černovlásku, ostatní blogeři
   ho podporují.
-title: 'Blogeři zase vymysleli kravinu: hon na Černovlásku'
+title: Blogeři zase vymysleli kravinu -  hon na Černovlásku
 ---
 
 <p>

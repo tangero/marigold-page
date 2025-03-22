@@ -13,7 +13,7 @@ summary_points:
 - Operátoři pochybují o ziskovosti ARPU 2-4 dolary měsíčně.
 - Vysokotržbové trhy jsou saturovány, operátoři možná změní strategii.
 - Úspěch projektu závisí na investicích a nalezení ziskového modelu.
-title: "Žádný business pod dva dolary"
+title: Žádný business pod dva dolary
 ---
 
 <p>Na letošním 3GSM kongresu v Cannes představila GSM Asociace plány na vytvoření superlevného mobilu, který by se měl prodávat za cca 1000 Kč a měl by být určený pro nově se rozvíjející trhy. Premisa je jednoduchá: z 6,5 miliard lidí jich více jak jedna miliarda musí vystačit denně s méně jak dvěma dolary. A v takovém případě není mnoho prostoru doufat, že z těch lidí vymáčknete třetinu jejich měsíčního příjmu na to, abyste vygenerovali ARPU 20 dolarů. Zdá se, že horní hranice ARPU se zde pohybují mezi 2 až 4 dolary měsíčně.</p>

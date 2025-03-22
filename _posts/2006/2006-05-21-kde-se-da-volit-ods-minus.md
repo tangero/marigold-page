@@ -13,7 +13,7 @@ summary_points:
 - Televizní debata ČT1 byla nejasná, Kalousek překvapil, Němec mile překvapil.
 - Plakáty "ODS Mínus" s negativními hesly jsou ve skutečnosti od ČSSD.
 - Telekomunikace jsou pro autora důvodem nevolit ODS kvůli minulým chybám.
-title: "Kde se dá volit ODS Mínus"
+title: Kde se dá volit ODS Mínus
 ---
 
 <p>Politice se chci vyhýbat, seč mohu. Jenže těžko to učinit ve volebním roce. Domů dorazily oficiální volební letáčky a já jsem je procházel. Zjednodušeně řečeno by se dalo říci, že bída a utrpení. Před chvílí jsem si dal trochu práce a ta jména z některých kandidátek jsem progoogloval (slovo progooglovat nahrazuje pomalu slovo prolustrovat, co? Co to bylo za tu firmu Lustr, nevíte někdo?). Ejhle, řada těch jmen má za sebou minimálně na místní úrovni ledasco zajímavého, s čím lze souhlasit. Jenže k čemu mi to je, když se ti lidé s jednoduchými a čitelnými myšlenkami nepropracovali do televize či novin, kde bych je na vteřinu zahlédl a udělal si samozřejmě nekompromisní a instantní názor?</p>

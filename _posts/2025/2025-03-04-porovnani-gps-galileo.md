@@ -14,7 +14,7 @@ summary_points:
 - Galileo a GPS jsou interoperabilní, kombinace zvyšuje robustnost navigace.
 - Galileo nabízí Evropě nezávislost na americkém GPS systému.
 thumbnail: https://www.adslzone.net/app/uploads-adslzone.net/2016/11/galileo-gps-europeo.jpg
-title: "Srovnání systémů GPS a Galileo pro vojenské účely"
+title: Srovnání systémů GPS a Galileo pro vojenské účely
 ---
 
 Galileo je evropský globální družicový navigační systém vytvořený jako nezávislá alternativa k americkému GPS. Hlavním cílem bylo zajistit pro Evropu vlastní vysoce přesný navigační systém, aby evropské autority (včetně armády) nemusely spoléhat na cizí systémy, které mohou jejich provozovatelé v krizové situaci omezit či vypnout. Toto téma se stalo v minulých dnech velmi aktuální. A proto je důležitá otázka: lze systémem Galileo nahradit americké GPS ve vojenském použití? 

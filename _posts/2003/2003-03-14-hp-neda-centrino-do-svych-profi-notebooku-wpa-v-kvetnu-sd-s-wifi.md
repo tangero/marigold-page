@@ -13,7 +13,7 @@ summary_points:
 - WPA certifikace Wi-Fi Aliancí proběhne pravděpodobně v květnu.
 - SD karty s WiFi budou dostupné od SanDisku a Socket Communications.
 - Ovladače pro WiFi SD karty ve smartphonech s MS systémem zatím nejsou.
-title: "HP nedá Centrino do svých profi notebooků, WPA v květnu, SD s WiFi"
+title: HP nedá Centrino do svých profi notebooků, WPA v květnu, SD s WiFi
 ---
 
 <p>

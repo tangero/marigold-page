@@ -19,8 +19,7 @@ summary_points:
   \ bramborov\xE9 nati z roku 1945."
 - "Autor doporu\u010Duje svou starou recenzi Mein Kampf, za kterou dostal obs\xED\
   lku."
-title: ""N\u011Bmecky s Adolfem Hitlerem snadno a rychle (aneb v\xE1le\u010D\"
-  n\xE1 p\u0159\xEDloha)"
+title: N\u011Bmecky s Adolfem Hitlerem snadno a rychle (aneb v\xE1le\u010D\ n\xE1 p\u0159\xEDloha)
 ---
 
 <p>Na iDNESu vyšla příloha věnovaná druhé světové válce. Není to jen pár textů a rozhovorů s pamětníky, je to celá flashová presentace, moc hezky udělaná. <a href="http://imgs.idnes.cz/oprilohy/infografika/valka/start.html">Najdete ji zde</a>. </p>

@@ -14,7 +14,7 @@ summary_points:
 - Amazon Sidewalk využívá existující zařízení jako brány pro připojení k internetu.
 - Ring Neighbors aplikace slouží k upozorňování na bezpečnostní incidenty v okolí.
 - Sidewalk nabízí rychlé pokrytí díky softwarovému upgradu a existujícím zařízením.
-title: "Amazon Sidewalk a renesance nízkoenergetických bezdrátových sítí s velkým dosahem"
+title: Amazon Sidewalk a renesance nízkoenergetických bezdrátových sítí s velkým dosahem
 ---
 
 WiFi a Bluetooth zná ledaskdo, málokdo ale zná nízkoenergetické bezdrátové sítě typu LPWAN (low-power WAN). LPWAN jsou bezdrátové sítě, které s maličkým vysílacím výkonem (a tedy vysokou výdrží na baterii) jsou schopné vysílat na slušný, několikakilometrový dosah, byť nevysokou rychlostí. Řekl bych, že populární a známá je třeba LoRa nebo Sigfox, ale lhal bych, nejsou ani populární, ani známé a to je ten problém.

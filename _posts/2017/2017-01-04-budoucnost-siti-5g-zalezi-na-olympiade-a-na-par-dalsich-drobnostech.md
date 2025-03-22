@@ -18,7 +18,7 @@ summary_points:
   rurální oblasti.
 - Evropští operátoři usilují o konsolidaci trhu a omezení síťové neutrality pro zlepšení
   mobilních sítí.
-title: "Budoucnost sítí 5G záleží na olympiádě. A na pár dalších drobnostech."
+title: Budoucnost sítí 5G záleží na olympiádě. A na pár dalších drobnostech.
 ---
 
 <p>Jak to bude s mobilními sítěmi páté generace? Do jejich podoby se má promítnout celá řada jevů, pokusme se na ně nyní podívat. Překvapivě hodně bude záviset podoba sítí páté generace na olympijských hrách. Právě tam se chce s úspěšnou implementací technologie pochlubit nejprve korejská, pak čínská i japonská telekomunikační elita. </p>

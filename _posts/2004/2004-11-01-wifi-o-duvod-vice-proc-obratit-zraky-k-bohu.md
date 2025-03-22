@@ -13,7 +13,7 @@ summary_points:
 - Kostel ve Stodůlkách a sv. Ludmily v Praze také mají WiFi antény.
 - WiFi v kostele slouží pro online přenosy, setkání a školení.
 - Adventistické kostely jsou spíše funkcionalistické modlitebny, ne barokní chrámy.
-title: "WiFi – o důvod více, proč obrátit zraky k Bohu"
+title: WiFi – o důvod více, proč obrátit zraky k Bohu
 ---
 
 <p>

@@ -18,7 +18,7 @@ summary_points:
 - Autor odešel ze Streamu kvůli častým změnám vedení.
 - Autor se stal šéfredaktorem Lupy kvůli zajímavé výzvě.
 - Autor omezil psaní na blogu kvůli práci na knize.
-title: "Novoročenkovánky s všehochutí loňského životního koření"
+title: Novoročenkovánky s všehochutí loňského životního koření
 ---
 
 Z přání se nemá stát něco jako povinnost. A nechci, aby se stala. S většinou nevirtuálních přátel jsem si stihl popřát osobně, když hůře, pak telefonicky. Hromadná přání jsem nerozesílal, je mi to už delší dobu žinantní. Ano, už i na internetu jsem ze staré školy - ale prostě si pořád naivně myslím, že pár osobních vět či slov potěší více, než průměrně zvládnuté následování tutorialu k Photoshopu, jež z mých mizerných fotek vykouzlí PFko. Snad jedna věc mne napadla, když jsem vloni (ano, už vloni) byl v PPF - jestli posílají PPFka nebo normální PFka. Musím se jich zeptat.  

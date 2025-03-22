@@ -13,7 +13,7 @@ summary_points:
 - Radek Hulán poskytl cenné rady pro opravu zobrazení Marigoldu v Opeře.
 - Autor se pokouší opravit validitu Marigoldu, řeší nadbytek ID tagů.
 - Klávesové zkratky v Opeře autorovi vadí, zejména CTRL ALT V.
-title: "Pro Operu opraveno"
+title: Pro Operu opraveno
 ---
 
 <p>

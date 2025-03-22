@@ -13,9 +13,7 @@ summary_points:
 - T-Mobile zjednoduší autorizaci WiFi sítě pomocí řešení od Boingo.
 - Sprint PCS, investor Boinga, takto nepřímo ovlivňuje i T-Mobile.
 - Zpráva se týká T-Mobile USA, česká WiFi síť je teprve v testování.
-title: "'T-Mobile bude používat software od Boingo"
-
-  '
+title: T-Mobile bude používat software od Boingo
 ---
 
 <p>

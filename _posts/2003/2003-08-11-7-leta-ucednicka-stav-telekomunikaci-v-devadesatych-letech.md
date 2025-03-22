@@ -13,7 +13,7 @@ summary_points:
 - SPT Telecom měl monopol na telefonní a datové sítě garantovaný státem.
 - Privatizace Telecomu upřednostnila zahraniční TelSource před českými investory.
 - TelSource se zapletl do korupčních afér a nesplnil očekávané know-how.
-title: "7. Léta učednická – Stav telekomunikací v devadesátých letech"
+title: 7. Léta učednická – Stav telekomunikací v devadesátých letech
 ---
 
 Jak vypadaly české telekomunikace v devadesátých letech? Jaké byly předpoklady pro expanzi internetových firem a jaké byly osudy tehdejšího SPT Telecom v první postkomunistické desetiletce?<!--more-->V části věnované akademické síti CESNET a jejím nástupcům již bylo zmíněno, že v určitém okamžiku síť CESNET započla nabízet i služby pro komerční subjekty. Ovšem situace s komerční nabídkou internetu a obecně jakýchkoliv veřejných datových sítí u nás dlouho nebyla vůbec jednoduchá. 

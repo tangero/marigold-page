@@ -14,9 +14,7 @@ summary_points:
 - Dropbox Business je drahý, proto firma přechází na Google Drive, i přes jeho nedostatky.
 - Objednávky přicházejí přes eshop, email, telefon; data se exportují do OnePageCRM.
 - Plánuje se zrušení Freshdesku a převod na Daktelu, řeší se komunikace přes Slack.
-title: "'Přesystémováno aneb mnoho systémů, firmy smrt, málo systémů, taky smrt"
-
-  '
+title: Přesystémováno aneb mnoho systémů, firmy smrt, málo systémů, taky smrt
 ---
 
 <p>Jedna z věcí, na které v <a href="http://www.energomonitor.cz">Energomonitoru</a> neustále narážíme, jsou vnitrofiremní informační systémy. Respektive to, jak se s nimi vypořádat. Zatím situaci řešíme systémově a uvážlivě zřízením ředitelství pro integraci vnitrofiremních systémů - tedy pokusy o propojení již používaných systémů - ale pojďme se na to podívat, v čem tkví jádro pudla.</p>

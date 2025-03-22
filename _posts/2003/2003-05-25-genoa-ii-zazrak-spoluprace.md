@@ -15,7 +15,7 @@ summary_points:
 - Projekt Genoa II má zjednodušit vyhledávání informací a vytvořit dynamickou síť
   spolupráce.
 - Autor hledá software pro automatické vyhodnocování a odpovídání na firemní emaily.
-title: "Genoa II – zázrak spolupráce?"
+title: Genoa II – zázrak spolupráce?
 ---
 
 <p>

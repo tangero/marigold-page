@@ -13,7 +13,7 @@ summary_points:
 - Politici často nemají dostatečné IT znalosti pro efektivní obecní internet.
 - Motivy pro obecní internet zahrnují hlasy, dotace, pokrytí, ceny a rozvoj.
 - Dostupný internet může obci snížit náklady, zvýšit příjmy a zaměstnanost.
-title: "Obecní internet – PROČ?"
+title: Obecní internet – PROČ?
 ---
 
 <p><strong>Noname píše:</strong> Minulý týden jsme tu ve dvou článcích (<a href="/item/jaky-je-vas-nazor-na-obecni-internet-zdarma">Jaký je váš názor na obecní internet zdarma</a> a <a href="/item/obecni-internet-vase-navrhy">Obecní internet - vaše návrhy</a>) otevřeli diskusi na téma obecního internetu. Přiznám se, byl to ode mě takový podlý tah, čekal jsem, až se někdo zeptá na jeden klíčový bod "proč vlastně obecní internet", až konečně <a href="/item/obecni-internet-vase-navrhy#comment11356">pod druhým článkem tak učinil Pavel</a> a byl za to veřejně před nastoupenou jednotkou pochválen ;-).</p>

@@ -13,7 +13,7 @@ summary_points:
 - Access Pointy a Home Routery se liší více než PCMCIA/PCI karty.
 - Přehled obsahuje popisky a ceny, ale chybí značky Cisco, 3Com a Avaya.
 - Připomínky k přehledu WiFi techniky lze zasílat na marigold@marigold.cz.
-title: "Přehled WiFi AP a home routerů už běží"
+title: Přehled WiFi AP a home routerů už běží
 ---
 
 <p>

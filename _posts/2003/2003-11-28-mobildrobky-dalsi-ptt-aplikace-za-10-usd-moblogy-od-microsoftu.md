@@ -15,7 +15,7 @@ summary_points:
   mezi uživateli.
 - Sapio nabízí i software pro sdílení fotografií z mobilů, dostupný na photostore.se.
 - Microsoft plánuje v prosinci představit řešení pro moblogování z Pocket PC a Smartphone.
-title: 'Mobildrobky: další PTT aplikace za 10 USD. Moblogy od Microsoftu'
+title: Mobildrobky -  další PTT aplikace za 10 USD. Moblogy od Microsoftu
 ---
 
 <p>

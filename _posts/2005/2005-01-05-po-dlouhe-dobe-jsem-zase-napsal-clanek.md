@@ -14,9 +14,7 @@ summary_points:
 - Autor článek pojal jako pokus o prosazení tématu socioware na Lupě.
 - Socioware je trend, jehož budoucnost je nejistá, na rozdíl od existujícího Orkut.
 - Autorovi chybí v českých médiích články o nových, rozvíjejících se trendech.
-title: "'Po dlouhé době jsem zase napsal článek"
-
-  '
+title: Po dlouhé době jsem zase napsal článek
 ---
 
 <p>Můj dnešní článek na Lupě s názvem <a href="http://www.lupa.cz/clanek.php3?show=3871">Orkut, pozvánky a budoucnost SocioWare</a>, má pohnutou historii. Slíbil jsem ho udělat už někdy v listopadu, kdy jsem ho taky začal z části psát a připravovat, jenže pak jsem ho pro různé nemoci, dovolené a jiná zaneprázdnění a dopsal jsem ho teprve teď, když už si nový šéfredaktor Lupy musel myslet, že si s ním věčnými odklady dělám legraci. Nedělal, prostě jsem nestíhal. V práci se toho nějak nakupilo, po bezmála měsíční nepřítomnosti na mne čekala deset čísel tlustá hromada papírů na prostudování, kterou jsem se prokousal až včera. Nicméně myslím, že je to můj rekord, protože jsem dva měsíce nenapsal ani čárku (vyjma vlastního serveru).</p>

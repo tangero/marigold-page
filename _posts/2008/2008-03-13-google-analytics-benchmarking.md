@@ -15,7 +15,7 @@ summary_points:
 - Aktivace benchmarkingu trvá dva týdny, než se zobrazí výsledky.
 - Benchmark ukazuje návštěvnost, zobrazené stránky a poměry shlédnutí.
 - Benchmarking se schvaluje pro všechny spravované weby anonymně.
-title: "Google Analytics Benchmarking"
+title: Google Analytics Benchmarking
 ---
 
 Novinkou v Google Analytics je funkce nazvaná "benchmarking", tedy porovnání (informuje <a href="http://analytics.blogspot.com/2008/03/benchmarking-now-available-plus.html">Google na blogu</a>). V daném případě jde o porovnání vašeho webu s provozem na jiných webech ve stejném odvětví. Odvětví si můžete vybrat ze seznamu kategorií v seznamu. 

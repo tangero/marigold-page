@@ -13,7 +13,7 @@ summary_points:
 - Deset klientů streamovalo video, MP3 a prohlíželo web s latencí 50-70 ms.
 - Motorola karta D1100 zvládá HSDPA 3,6 Mb/s, dostupná bude ve čtvrtém kvartále.
 - Road testy HSDPA dosahovaly 2,3 Mb/s při rychlosti 50 mil/h ve městě.
-title: "Motorola a její HSDPA – úplně jiná káva"
+title: Motorola a její HSDPA – úplně jiná káva
 ---
 
 <p>Včera jsem na výstavišti chtěl kromě nějakých firemních věcí skouknout i HSDPA u Ericsson a Motoroly. Nejdříve jsem se vypravil do Motoroly, na stánku měli hezké powerpoint demo a kartu Motorola D1100 s podporou HSDPA, jenže mne upozornili, že HSDPA demo zde není. Ukázalo se, že pro operátory a další hóch nóbl společnost je všechno k vidění kousek za výstavištěm, i nelenil jsem, otočil jsem cedulku press aby kompromitující nápis nebyl vidět a dorazil jsem na ono místo  (nebylo to lehké najít, ale podařilo se).</p>

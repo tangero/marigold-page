@@ -13,7 +13,7 @@ summary_points:
 - Připojení k internetu vyřešil GPRS modem Speeder od Tencomu.
 - XPčka byla vybrána, ale vyžadovala úpravy pro dědovo snadné používání.
 - Děda se učí základy ovládání webu, ale má problémy s myší.
-title: "Akce Internet pro dědu"
+title: Akce Internet pro dědu
 ---
 
 <p>

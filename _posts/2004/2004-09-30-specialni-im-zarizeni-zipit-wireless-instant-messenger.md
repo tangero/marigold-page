@@ -13,9 +13,7 @@ summary_points:
 - Podporuje MSN, AOL, Yahoo a ICQ přes WiFi a má QWERTY klávesnici.
 - Cybiko, podobný koncept, založený na ad-hoc sítích, dříve propadl.
 - Evropští operátoři IM nepodporují, preferují ziskové SMS zprávy.
-title: "'Speciální IM zařízení Zipit Wireless Instant Messenger"
-
-  '
+title: Speciální IM zařízení Zipit Wireless Instant Messenger
 ---
 
 <p>

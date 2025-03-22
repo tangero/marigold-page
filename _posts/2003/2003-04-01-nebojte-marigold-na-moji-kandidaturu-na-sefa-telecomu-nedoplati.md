@@ -13,9 +13,7 @@ summary_points:
 - Teuro tvrdí, že autor má pozici jistou díky úzkým vztahům, což autor popírá.
 - Autor tvrdí, že i jako šéf ČTc bude mít dostatek času na Marigold.
 - Šéf ČTc je čestná a dobře placená funkce spojená s vládním zadáním.
-title: "'Nebojte, Marigold na moji kandidaturu na šéfa Telecomu nedoplatí"
-
-  '
+title: Nebojte, Marigold na moji kandidaturu na šéfa Telecomu nedoplatí
 ---
 
 <p>

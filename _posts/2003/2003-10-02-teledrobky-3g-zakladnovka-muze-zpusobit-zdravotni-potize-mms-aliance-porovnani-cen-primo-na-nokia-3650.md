@@ -13,8 +13,7 @@ summary_points:
 - Evropská MMS aliance propojuje MMS a GPRS služby devíti operátorů.
 - Nokia 3650 s PaperClip softwarem porovná ceny knih přes ISBN kód.
 - Amazon platí NeoMedia provizi za knihy prodané přes PaperClip software.
-title: "'Teledrobky: 3G základnovka může způsobit zdravotní potíže, MMS aliance, porovnání"
-  cen přímo na Nokia 3650'
+title: Teledrobky -  3G základnovka může způsobit zdravotní potíže, MMS aliance, porovnání cen přímo na Nokia 3650
 ---
 
 <p>

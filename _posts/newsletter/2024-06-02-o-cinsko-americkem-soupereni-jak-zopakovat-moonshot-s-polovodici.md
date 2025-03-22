@@ -21,8 +21,7 @@ summary_points:
   na výzkum.
 - Tržní síly samy o sobě nestačí k dynamickému rozvoji polovodičového průmyslu v USA.
 - USA se snaží o vědecko-technický průlom v polovodičích pro zajištění dominance.
-title: ""\U0001F1E8\U0001F1F3\U0001F1FA\U0001F1F8O čínsko-americkém soupeření: jak"
-  zopakovat \"moonshot\" s polovodiči?"
+title: \U0001F1E8\U0001F1F3\U0001F1FA\U0001F1F8O čínsko-americkém soupeření -  jak zopakovat \moonshot\ s polovodiči?
 ---
 
 Slovo “moonshot” lze přeložit jako “ambiciózní projekt” nebo “odvážný cíl”. V češtině nevím, jestli máme nějaký ekvivalent, my si na ambiciozní projekty nepotrpíme. Americká ministryně obchodu Gina Raimondo přirovnává snahu o posílení amerického polovodičového průmyslu k technologickému moonshotu, obdobě slavného Apollo programu NASA. Úspěch tohoto projektu závisí na odvaze snít velké a vytvářet revoluční technologie. A takový má být projekt Národního technologického centra pro polovodiče (NSTC) a jeho význam pro budoucnost amerického polovodičového průmyslu. 

@@ -13,8 +13,7 @@ summary_points:
 - Přístup k internetu přes veřejnou telefonní síť smí být jen na číslech 971/976.
 - Firmám poskytujícím internet na geografických číslech hrozí vysoké pokuty.
 - ČTÚ omezuje i zahraniční připojení a RAS, což vyvolává pochybnosti o smysluplnosti.
-title: "Oficiální stanovisko ČTÚ k Nečekanému paušálu a internetu na geografických"
-  číslech
+title: Oficiální stanovisko ČTÚ k Nečekanému paušálu a internetu na geografických číslech
 ---
 
 <p>

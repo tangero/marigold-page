@@ -13,7 +13,7 @@ summary_points:
 - Mladík v metru psal na notebooku, ale efektivita práce byla velmi nízká.
 - Notebook v metru je náchylný k poškození kvůli náhlému brzdění a přeplněnosti.
 - Práce na notebooku v přeplněném metru je nepraktická a riskantní pro zařízení.
-title: "Notebook a datové přenosy v metru"
+title: Notebook a datové přenosy v metru
 ---
 
 <p>

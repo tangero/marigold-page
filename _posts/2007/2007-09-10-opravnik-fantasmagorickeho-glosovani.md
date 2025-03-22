@@ -13,7 +13,7 @@ summary_points:
 - Antošova kritika Streamu na Lupě je založena na nezkušenosti a osobních preferencích.
 - Stream.cz nabízí rozmanitý obsah, ale má problémy s marketingem a přehledností.
 - Autor textu, externista Streamu, obhajuje video s Wendy a kritizuje Antošovu analýzu.
-title: "Opravník fantasmagorického glosování"
+title: Opravník fantasmagorického glosování
 ---
 
 Často mne nemile překvapí, jaké obskurní konstrukce umí vymyslet lidé, kteří mají jednoduchou možnost se zeptat, jak se věci mají. Už jsem vyrostl z toho, že by za tím mohla být nevědomost. Neznalost a povrchní informovanost je základem takových konstrukcí, žárlení stojí někde v teple v pozadí. Slovy Shreka, <em>co si tím kdo kompenzuje...</em>

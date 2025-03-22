@@ -13,7 +13,7 @@ summary_points:
 - SIM karta Oskara aktivována, vložena do staré Nokie bez GPRS.
 - Klid po změně čísla, SMS za korunu, problém se signálem v IKEA.
 - Bořík aktivoval Oskara inspirován autorem, akcie TIW bez souvislosti.
-title: "Už je to tady, stěhuju se na Oskara"
+title: Už je to tady, stěhuju se na Oskara
 ---
 
 <p>

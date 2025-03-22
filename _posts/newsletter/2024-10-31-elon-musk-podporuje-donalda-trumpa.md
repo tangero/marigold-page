@@ -16,7 +16,7 @@ summary_points:
   vládních kontraktů.
 - SpaceX plánuje navýšit počet satelitů z 7 500 na 29 988 a očekává nárůst příjmů
   do roku 2030.
-title: "\U0001F9E2 Elon Musk podporuje Donalda Trumpa"
+title: \U0001F9E2 Elon Musk podporuje Donalda Trumpa
 ---
 
 Elon Musk se rozhodl podpořit Donalda Trumpa v jeho kandidatuře na prezidenta USA. Je to považováno za jedno z jeho nejriskantnějších rozhodnutí. Pojďme se podívat na to, jaké jsou jeho kroky a zájmy v prezidentských volbách:

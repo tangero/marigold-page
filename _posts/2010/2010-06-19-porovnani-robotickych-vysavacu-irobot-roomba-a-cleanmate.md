@@ -15,7 +15,7 @@ summary_points:
 - Roomba kopíruje zdi a lépe vysává prach podél nich.
 - Roomba se lépe vypořádává se zamotáním do kabelů a překážek.
 - Roomba s automatikou umožňuje programované denní luxování.
-title: "Porovnání robotických vysavačů iRobot Roomba a CleanMate"
+title: Porovnání robotických vysavačů iRobot Roomba a CleanMate
 ---
 
 <p>Nedávno jsem spíše z legrace napsal <a href="http://www.lupa.cz/clanky/strastiplnost-hackovani-domaciho-vysavace/">článek o tom, jak všelijak se dají hackovat robotické vysavače</a>. Ukázalo se, že slušné obliby došly vcelku vážně míněné, byť humorněji podané argumenty pro a proti dvěma v Česku asi nejprodávanějším modelům: CleanMate versus Roomba. Měl jsem možnost porovnat oba a ve více modelech a generačních provedeních. A aby to bylo snáze dohledatelné, vytáhnu toto porovnání zvláště.</p>

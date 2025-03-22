@@ -13,7 +13,7 @@ summary_points:
 - Mobil párty 1998 fotografie jsou v galerii, kvalita odpovídá tehdejší technice.
 - Nepublikované fotky z 3GSM kongresu v Cannes jsou také dostupné.
 - Popisky fotografií jsou neúplné, čtenáři mohou tipovat v komentářích.
-title: "Zprovoznil jsem Marigoldí fotogalerii"
+title: Zprovoznil jsem Marigoldí fotogalerii
 ---
 
 <p>

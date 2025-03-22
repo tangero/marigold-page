@@ -13,7 +13,7 @@ summary_points:
 - Autor koupil knihu v sobotu a bude ji číst dcerám.
 - Harry Potter je novodobý mýtus o naději a spasení.
 - Fanouškovské překlady HP7 existují online před oficiálním vydáním.
-title: "Jeden z největších příběhů lidstva se právě uzavřel"
+title: Jeden z největších příběhů lidstva se právě uzavřel
 ---
 
 Sedmým dílem se měla úder srdce po páteční půlnoci uzavřít sága Harryho Pottera. Právě v ten moment se totiž po prakticky celém světě začal prodávat poslední díl <strong>Harry Potter and the Deathly Hallows</strong> a fanouškové se mohli přetrhnout, aby byli první ve dveřích svých knihkupectví, která výjimečně otevírala bez problémů o půlnoci. 

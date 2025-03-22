@@ -14,7 +14,7 @@ summary_points:
 - OpenAI byla založena jako nezisková organizace s cílem vyvíjet bezpečnou AI pro
   lidstvo.
 - Poslání OpenAI motivuje výzkumníky i přes potenciálně lepší nabídky jinde.
-title: "Proč opravdu skončil Sam Altman?"
+title: Proč opravdu skončil Sam Altman?
 ---
 
 Ve skutečnosti se totiž o důvodech překotného Altmanova odvolání nevysvětlilo mnoho. Různě hluboko zainteresovaní novináři přišli s minimálně čtyřmi verzemi. Od palácového převratu z obav před dopadem oné univerzální umělé inteligence, přes dosti pofidérní podezření, že jedna ze členek správní rady byla komunistka, až po střet zájmů Adama D'Angela, člena představenstva OpenAI a zároveň člověka šéfujícího službě Quora, jejíž existence měla být umělou inteligencí ohrožena. Jenže je tu ještě čtvrtá teorie. Co když oficiální vyjádření Open AI o tom, že se obává Altmanovy upřímnosti, bylo pravdivé? Ano, jistě, většina lidí oficiální vyjádření zavrhla jako neupřímnou výmluvu o pochybné upřímnosti, jenže se objevuje řada náznaků, že důvody k pochybnostem byly tehdy oprávněné. Nebo jsou oprávněné nyní. 

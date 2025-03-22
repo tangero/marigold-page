@@ -13,7 +13,7 @@ summary_points:
 - Dozorčí rada Telecomu jednala o odvolání Valeskiho na popud představenstva.
 - Důvodem odvolání Valeskiho má být investice Eurotelu do CDMA.
 - Eurotel chce spustit CDMA síť bez licence ČTÚ.
-title: "Valeski: na českých chlívek moc dobrý…"
+title: Valeski -  na českých chlívek moc dobrý…
 ---
 
 <p>

@@ -14,7 +14,7 @@ summary_points:
   GHz.
 - Virtuální síťová buňka (VCN) řeší stínění signálu v 60 GHz pásmu.
 - Násobné přijímací antény zlepšují kvalitu signálu v 4G sítích eliminací odrazů.
-title: "Mobilní sítě 4G – co umí a jak to dokáží?"
+title: Mobilní sítě 4G – co umí a jak to dokáží?
 ---
 
 Sítě čtvrté generace jsou zatím více méně teoretickou záležitostí. Ale přicházejí se zajímavými myšlenkami, jak docílit vysokorychlostních datových přenosů, především pak s násobnými přijímacími anténami a virtuální cellulární sítí.<!--more-->Sítě 3G ještě ani zdaleka pořádně nefungují v praxi, ani zdaleka není jisté, zda na nich jejich provozovatelé někdy vydělají, ale vývoj se nezastavuje. Již drahnou dobu se hovoří o sítích 4G ba dokonce i o sítích 5G. 

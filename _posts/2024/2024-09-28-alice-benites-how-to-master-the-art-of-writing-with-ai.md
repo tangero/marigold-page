@@ -14,8 +14,7 @@ summary_points:
 - Lidé podvědomě spojují plynulost textu s kompetencí, což AI využívá.
 - Jazykoví profesionálové pomáhají s finální úpravou textu a porozumění čtenářům.
 thumbnail: https://www.marigold.cz/assets/alice-delorme-benites.png
-title: "Alice Delorme Benites - Jak ovládnout umění psaní s umělou inteligencí (přepis"
-  přednášky)
+title: Alice Delorme Benites - Jak ovládnout umění psaní s umělou inteligencí (přepis přednášky)
 ---
 
 Přepis přednášky profesorky [Alice Delorme Benitesové](https://www.zhaw.ch/en/about-us/person/delr) s názvem *„How To Master The Art of Writing With AI“* na konferenci TEDxZHAW 2024.

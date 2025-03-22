@@ -13,7 +13,7 @@ summary_points:
 - Server FSV-PGX1 má 20 GB disk, podporuje FTP, NFS, CIFS protokoly.
 - Cena FSV-PGX1 je 354 USD, prodej začne v Japonsku koncem března.
 - FSV-PGX1 má záložní baterku, nepotřebuje chlazení a nedělá hluk.
-title: "Sony nabízí domácí WiFi serveříček…"
+title: Sony nabízí domácí WiFi serveříček…
 ---
 
 <p>

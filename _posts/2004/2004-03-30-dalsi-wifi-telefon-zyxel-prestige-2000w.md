@@ -13,7 +13,7 @@ summary_points:
 - Prestige 2000W podporuje 802.11b, SIP v2, G.711, G.729 a QoS (DiffServ, ToS).
 - Telefon má webové rozhraní, výdrž 24h v pohotovosti, 4h hovoru a nabíjecí stojánek.
 - Firmware Prestige 2000W dobře pracuje s NAT a má paměť na čísla.
-title: "Další WiFi telefon – Zyxel Prestige 2000W"
+title: Další WiFi telefon – Zyxel Prestige 2000W
 ---
 
 <p>

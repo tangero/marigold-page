@@ -15,7 +15,7 @@ summary_points:
   zákony.
 - Spojení mysli a stroje umožňuje číst myšlenky a vyvolávat halucinace ovládáním neuronů.
 thumbnail: https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145110/9b1dbc4f-436c-4833-af8e-64d1e5e96145/SuryaGanguli_2024S-embed.jpg
-title: "Surya Ganguli - Může se umělá inteligence vyrovnat lidskému mozku?"
+title: Surya Ganguli - Může se umělá inteligence vyrovnat lidskému mozku?
 ---
 
 Přednáška neurovědce a stanfordského profesora Stanfordu Suryi Ganguliho s názvem [„Can AI Match the Human Brain?“](https://www.ted.com/talks/surya_ganguli_can_ai_match_the_human_brain), která zazněla 22. října 2024 na konferenci TEDAI v San Franciscu.

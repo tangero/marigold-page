@@ -13,7 +13,7 @@ summary_points:
 - Program AirCQ umožňuje sdílení hlasu, videa, souborů a chatu přes WiFi.
 - Propojit lze až 200 počítačů s AirCQ v infrastrukturní nebo ad-hoc síti.
 - AirCQ je placený software (20 USD) s třicetidenní zkušební verzí.
-title: 'AirCQ: WiFi Instant Messenger'
+title: AirCQ -  WiFi Instant Messenger
 ---
 
 <p>

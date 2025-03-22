@@ -16,7 +16,7 @@ summary_points:
 - Solvely AI pomáhá s domácími úkoly, vstup v češtině, výstup anglicky.
 - Filmora je software pro střih videa na MacOS s pomocí AI.
 - ReadPartner sumarizuje články, dokumenty i videa, zdarma, ale ne česky.
-title: "\U0001F4A1Nové služby, které byste nemuseli minout"
+title: \U0001F4A1Nové služby, které byste nemuseli minout
 ---
 
 [Hedra AI](https://www.hedra-ai.com) \- **vytvořte videa mluvící hlavy z fotky a textu**. Skvělé, když chcete udělat video podcast a nechce se vám s tím natáčet. 

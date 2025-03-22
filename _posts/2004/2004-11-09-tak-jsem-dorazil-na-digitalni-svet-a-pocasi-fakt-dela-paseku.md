@@ -16,7 +16,7 @@ summary_points:
   koberci.
 - Konferenci zdrželo počasí, autor využil čas k návštěvě přednášky Philipsu a chválí
   WiFi zdarma.
-title: "Tak jsem dorazil na Digitální svět a počasí fakt dělá paseku"
+title: Tak jsem dorazil na Digitální svět a počasí fakt dělá paseku
 ---
 
 <p>

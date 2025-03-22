@@ -16,7 +16,7 @@ summary_points:
 - SportTracker od Nokie sledoval autorovu trasu, ale brzy selhal.
 - Markéta se vyděsila, když SportTracker přestal hlásit autorův pohyb.
 - Autorova zkušenost s technologiemi připomíná nevyužitou permanentku do bazénu.
-title: "Když se hryzne pumpa"
+title: Když se hryzne pumpa
 ---
 
 Rozhodl jsem se nedávno, že udělám další krok pro své zdraví a duševní svěžest a začnu běhat. Jistě může být, že mezi tímto nevidíte spojitost a právě pro vás je určen tento článek, který výhody sportu pro muže osvětlí. 

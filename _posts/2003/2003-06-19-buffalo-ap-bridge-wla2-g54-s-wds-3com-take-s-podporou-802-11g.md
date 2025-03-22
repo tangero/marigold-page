@@ -15,7 +15,7 @@ summary_points:
   PRISM GT.
 - Buffalo WLA2-G54 bude v USA dostupný od července za 149 USD.
 - Com OfficeConnect 11g nepodporuje point-to-point/multipoint režimy, pouze AP/klient.
-title: "Buffalo AP/bridge WLA2-G54 s WDS, 3Com také s podporou 802.11g"
+title: Buffalo AP/bridge WLA2-G54 s WDS, 3Com také s podporou 802.11g
 ---
 
 <p>

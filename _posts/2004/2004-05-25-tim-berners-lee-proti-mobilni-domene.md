@@ -13,7 +13,7 @@ summary_points:
 - Internet by měl fungovat nezávisle na zařízení, softwaru a síti podle Berners-Leeho.
 - Autor textu je neutrální k zavedení mobilní domény .mobi.
 - Úspěch domény .mobi na trhu určí její přínos, jinak zanikne.
-title: "Tim Berners-Lee proti mobilní doméně"
+title: Tim Berners-Lee proti mobilní doméně
 ---
 
 <p>

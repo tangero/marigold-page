@@ -17,8 +17,7 @@ summary_points:
   5G sítí realizovány.
 - Facebook představil OpenCellular, opensource platformu pro levnou výstavbu mobilních
   sítí.
-title: "'Evropské telekomunikační firmy oznámily: 5G v Evropě nebude (trocha pozadí"
-  do trochy vydírání)'
+title: Evropské telekomunikační firmy oznámily -  5G v Evropě nebude (trocha pozadí do trochy vydírání)
 ---
 
 <p>Minulý týden přinesl jednu průlomovou událost ve světě mobilních sítí páté generace. Skupina evropských telekomunikačních firem vydala společný Manifest 5G. V něm reaguje na výzvu vybudovat v Evropě 5G sítě do roku 2020. To nebude možné, pokud Evropa neustoupí z požadavku na síťovou neutralitu, vyhrožují telekomunikační firmy. A kladou si celou řadu dalších více či méně rozumných podmínek. Pokračuje tak odložené přetahování o síťovou neutralitu, které vloni na podzim timeoutovalo přijetím požadavku na síťovou neutralitu do evropského telekomunikačního rámce v Evropském parlamentu.</p>

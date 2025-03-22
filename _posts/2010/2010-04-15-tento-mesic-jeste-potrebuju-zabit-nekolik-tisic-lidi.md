@@ -15,9 +15,7 @@ summary_points:
 - Příběh kombinuje hledání ztraceného strýčka s historickými událostmi.
 - Autor pro knihu načetl 83 knih a konzultoval s historiky.
 - Psaní historické části autor dokončil ve Varšavě v den polské letecké tragédie.
-title: "'Tento měsíc ještě potřebuju zabít několik tisíc lidí"
-
-  '
+title: Tento měsíc ještě potřebuju zabít několik tisíc lidí
 ---
 
 Začalo to před dvěmi lety. Safra, skoro třemi :( Začala mne honit mlsná něco dalšího napsat. Pár čtenářů se dožadovalo pokračování <a href="http://palmknihy.cz/www/?BOOK=3859">Flotily Země</a>, jenže já už jsem v hlavě nosil příběh historický. Záviděl jsem <a href="http://cs.wikipedia.org/wiki/Andrzej_Sapkowski">Sapkowskému</a>, že mi vyfoukl téma husitských válek, ale co si budeme povídat, trilogii napsal kolosálně a jakékoliv poměřování s jeho dílem by dopadlo nutně depresivně. 

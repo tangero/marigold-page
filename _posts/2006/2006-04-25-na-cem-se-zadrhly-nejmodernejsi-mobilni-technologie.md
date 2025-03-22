@@ -17,9 +17,7 @@ summary_points:
   doručení.
 - Nové technologie jako VoIP a WiMAX nevyřeší problémy telekomunikací rychle, adaptace
   trvá roky.
-title: "'Na čem se zadrhly nejmodernější mobilní technologie"
-
-  '
+title: Na čem se zadrhly nejmodernější mobilní technologie
 ---
 
 <p>K <a href="/item/telekomunikace-jsou-tesne-pred-dalsi-bublinou">minulému článku</a> se objevilo tolik komentářů a dotazů jak emailem, tak pod článkem, že se pokusím na ně odpovědět nějak uceleněji. </p>

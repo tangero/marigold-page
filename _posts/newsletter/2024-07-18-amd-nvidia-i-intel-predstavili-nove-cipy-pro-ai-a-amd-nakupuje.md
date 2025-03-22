@@ -15,7 +15,7 @@ summary_points:
 - AMD konkuruje Nvidii v AI čipech a kupuje firmu Silo za 665 milionů dolarů.
 - Intel představil procesory Arrow Lake a Lunar Lake s NPU pro AI.
 - Lunar Lake od Intelu slibuje snížení spotřeby a trojnásobnou AI kapacitu.
-title: "AMD, Nvidia i Intel představili nové čipy - pro AI a AMD nakupuje"
+title: AMD, Nvidia i Intel představili nové čipy - pro AI a AMD nakupuje
 ---
 
 AMD je jeden z nejvýznamnějších výrobců procesorů pro počítače - když se bavíme o Windows, tak je to dvojka po Intelu. A jeho poslední krok je očekávatelný, jenže ho měl udělat právě Intel. Neudělal. AMD totiž představilo sérii Ryzen AI, první x86 procesor s podporou pro AI pomocí NPU, tedy zvlášního procesoru či jádra určeného pro AI výpočty. 

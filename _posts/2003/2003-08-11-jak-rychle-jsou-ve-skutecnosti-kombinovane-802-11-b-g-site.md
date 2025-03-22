@@ -13,9 +13,7 @@ summary_points:
 - b dosahovala reálné rychlosti 5,6 Mb/s, 802.11a pak 27,3 Mb/s.
 - g běžela reálně 29 Mb/s, ale s 802.11b klesla na 8,9 Mb/s.
 - Přítomnost pomalejších klientů v 802.11 síti zpomaluje i ostatní.
-title: "'Jak rychlé jsou ve skutečnosti kombinované 802.11 b/g sítě?"
-
-  '
+title: Jak rychlé jsou ve skutečnosti kombinované 802.11 b/g sítě?
 ---
 
 <p>

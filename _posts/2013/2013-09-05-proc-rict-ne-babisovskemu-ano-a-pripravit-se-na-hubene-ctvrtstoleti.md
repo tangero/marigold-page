@@ -13,7 +13,7 @@ summary_points:
 - Politická scéna je nemocná, protože lidé tolerují kšefty a zlodějiny.
 - Skutečná změna vyžaduje budování poptávky po zodpovědné politice zdola.
 - Volby nic nezmění, důležitá je práce na věcech kolem sebe.
-title: "Proč říct NE Babišovskému ANO a připravit se na hubené čtvrtstoletí"
+title: Proč říct NE Babišovskému ANO a připravit se na hubené čtvrtstoletí
 ---
 
 <p>Seděl jsem nedávno na takové diskusní akci s Andrejem Babišem. Vkusně, energicky ten pán z lidu vykládal o tom, jak vidí naši politiku, svět, ba i média. Souzněli jsme si v klidu ševelící klimatizace a já si říkal, že takovému člověku bych v klidu mohl hodit hlas.</p>

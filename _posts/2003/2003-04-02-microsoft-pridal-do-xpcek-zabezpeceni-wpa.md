@@ -12,9 +12,7 @@ summary_points:
 - Windows XP získal upgrade pro podporu zabezpečení WiFi WPA.
 - Upgrade je zdarma ke stažení v Microsoft Knowledge Base.
 - Slovenské Živě přináší k tomuto tématu další informace.
-title: "'Microsoft přidal do XPček zabezpečení WPA"
-
-  '
+title: Microsoft přidal do XPček zabezpečení WPA
 ---
 
 <p>

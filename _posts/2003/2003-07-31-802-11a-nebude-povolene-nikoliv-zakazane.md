@@ -13,7 +13,7 @@ summary_points:
 - Provoz zařízení 802.11a je povolen pouze ve vnitřních prostorách.
 - Zařízení 802.11h je lepší než 802.11a díky DFS a TPC.
 - Evropské regulace povolují 802.11h/Hiperlan pro krátké vzdálenosti.
-title: "802.11a nebude povolené, nikoliv zakázané…"
+title: 802.11a nebude povolené, nikoliv zakázané…
 ---
 
 <p>

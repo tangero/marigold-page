@@ -13,7 +13,7 @@ summary_points:
 - Potenza je zajímavá pro menší weby, textová reklama se rozšiřuje.
 - Autor chce detailnější statistiky vyhledávání Seznamu, než publikoval Lukačovič.
 - Autor analyzoval data operátora a chce naučit uživatele lépe využívat smartphony.
-title: "Článek o inzertním tržišti Potenza"
+title: Článek o inzertním tržišti Potenza
 ---
 
 <p>Na Lupu jsem přislíbil (a také dodal) <a href="http://www.lupa.cz/clanek.php3?show=3933" >článek o inzertním tržišti Potenza</a>, dneska vyšel. Aby to nebylo jen o něm, doplnil jsme tam i billboardí bbKontext, kdysi Edwards. <br />

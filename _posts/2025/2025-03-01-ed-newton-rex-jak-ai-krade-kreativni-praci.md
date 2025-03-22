@@ -1,7 +1,7 @@
 ---
 audio_url: null
-title: "Ed Newton-Rex - Jak modely umělé inteligence kradou tvůrčí práci - a co s tím"
-author: Patrick Zandl
+title: Ed Newton-Rex - Jak modely umělé inteligence kradou tvůrčí práci - a co s tím
+uthor: Patrick Zandl
 categories:
 - AI
 - kreativita

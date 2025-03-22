@@ -13,9 +13,7 @@ summary_points:
 - T-Mobile SIM karty často nejsou USIM kompatibilní pro 3G sítě.
 - G sítě Eplus, O2, Vodafone a T-Mobile byly dostupné na výstavišti.
 - Telefonování v 3G roamingu s T-Mobile nefungovalo, Go karta se nepřihlásila.
-title: "'Běžné T-Mobile SIM karty mi nejdou ve 3G"
-
-  '
+title: Běžné T-Mobile SIM karty mi nejdou ve 3G
 ---
 
 <p>

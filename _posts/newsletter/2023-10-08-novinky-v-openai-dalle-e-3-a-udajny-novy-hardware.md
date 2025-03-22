@@ -16,7 +16,7 @@ summary_points:
 - OpenAI očekává tržby miliardu dolarů a jedná o navýšení investic na 80-90 miliard.
 - Jony Ive spolupracuje s OpenAI na novém hardwaru, spekuluje se o novém smartphonu.
 - Rewind Pendant je přívěšek, který nahrává a přepisuje celodenní konverzace uživatele.
-title: 'Novinky v OpenAI: Dalle-E 3 a údajný nový hardware'
+title: Novinky v OpenAI -  Dalle-E 3 a údajný nový hardware
 ---
 
 OpenAI vydalo novou verzi svého [grafického AI engine Dall-E 3](https://openai.com/dall-e-3). Lépe si poradí s detaily, nedělá tolik chyby. A především umí variovat na základě vašeho vstupu. Například můžete říct, co na scéně vygenerovaného obrázku chcete změnit. Což je pro užitečnost výstupu průlomové. Zatím se netěšte, třetí verze bude uvolněna v průběhu října, ale zajímavé také je, že bude integrována do ChatGPT. 

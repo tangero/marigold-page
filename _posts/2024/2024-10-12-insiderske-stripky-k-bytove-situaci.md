@@ -13,7 +13,7 @@ summary_points:
 - Investiční byty se vracejí na trh jako nájemní.
 - Hodnota bytů vzrostla o 150 % za posledních deset let.
 thumbnail: https://img.ihned.cz/attachment.php/470/53699470/EmRiJ1WB60NAjc9Dk2rGITVFfznbpSdO/Rezidence_Central_Plaza_-_celkovy_pohled_na_objekt_1_.jpg
-title: "Insiderské střípky k bytové situaci v Praze"
+title: Insiderské střípky k bytové situaci v Praze
 ---
 
 Právě jsem byl na zajímavém setkání s insiderem bytového trhu, kde se řeč rychle stočila na bydlení, development a bytovou politiku. A pobavilo mě, jak přesně tyto názory ladí s těmi mými:

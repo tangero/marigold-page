@@ -13,7 +13,7 @@ summary_points:
 - Claude od Anthropic monitoruje Slack a vytváří sumáře komunikace pro firmy.
 - Claude 2 konkuruje ChatGPT, nabízí vylepšené kódování, matematiku a uvažování.
 - Claude 2 analyzuje až 75 tisíc slov, což je více než GPT4.
-title: 'A další model: Anthropic Claude 2'
+title: A další model -  Anthropic Claude 2
 ---
 
 Společnost Anthropic je významný hráč na poli umělé inteligence, od roku 2021 posbírala 1,5 miliardy dolarů investic od společností jako Google, Zoom nebo Salesforce, to abych jmenoval jen ta technologická jména, ne investiční firmy. Firma se zaměřuje na jazykové modely se speciálním určením - ve viditelném spektru se pak její jazykový model nazvaný Claude snaží zpracovávat komunikaci například na Slacku, takže si od něj můžete nechat hlídat kanál na Slacku a pak dostat sumář, co se tam důležitého probíralo. Obchodní model Antrhopicu se zatím zaměřuje na velkoobchodní prodej, tedy na dodávku Claude firmám, které nechtějí podporovat Google a jeho Barda nebo ChatGPT. 

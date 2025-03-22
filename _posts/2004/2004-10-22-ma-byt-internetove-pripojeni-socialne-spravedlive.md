@@ -13,9 +13,7 @@ summary_points:
 - Návrh zákona o elektronických komunikacích neřeší vymezení univerzální služby.
 - Internet jako univerzální služba by pomohl vzdělávání, zaměstnanosti a egovernmentu.
 - Autor se kloní k názoru, že internet by neměl být univerzální službou.
-title: "'Má být internetové připojení sociálně spravedlivé?"
-
-  '
+title: Má být internetové připojení sociálně spravedlivé?
 ---
 
 <p>

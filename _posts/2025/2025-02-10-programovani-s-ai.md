@@ -16,7 +16,7 @@ summary_points:
   po komplexní vývoj.'
 - 'Ceny jsou založeny na spotřebě tokenů – rychle rostou s intenzivním používáním.'
 thumbnail: https://www.marigold.cz/assets/ai-programovani.jpg
-title: 'Programování s AI pro neprogramátory: už je to tady!'
+title: Programování s AI pro neprogramátory -  už je to tady!
 ---
 
 Programování pro neprogramátory je svatý grál počítačů. A zdá se, že už je opravdu tady. Díky AI vzniklo několik nástrojů, které už se nesoustředí na to, že programátorům našeptávají pokračování příkazu nebo opravují chyby v kódu. Moderní nástroje zdrojový kód vytvářejí celý ze zadání a některé už jej dokonce i před uživatelem skrývají. Programovat může nyní „skoro každý“. Jak na to?

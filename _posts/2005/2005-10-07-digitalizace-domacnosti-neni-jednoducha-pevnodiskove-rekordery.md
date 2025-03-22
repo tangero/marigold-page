@@ -13,9 +13,7 @@ summary_points:
 - Rekordér umožňuje nahrávání, snadné vyhledávání a funkci Time Slip.
 - DVD vypalovačka umožňuje střih pořadů a vypálení bez reklam.
 - Autor oceňuje funkčnost rekordéru, ale postrádá EPG a USB.
-title: "'Digitalizace domácnosti není jednoduchá – pevnodiskové rekordery"
-
-  '
+title: Digitalizace domácnosti není jednoduchá – pevnodiskové rekordery
 ---
 
 <p>Minulý týden jsem se rozhodl pokročit v digitalizaci naší domácnosti, vykopnout video a nahradit jej něčím inteligentnějším. Video totiž doma používáme prakticky a výhradně k nahrávání pořadů z televize, na které se chceme podívat. Doma totiž bereme televizi jako hodně off-line distribuční médium, takže nečekáme na pořad, ale pořady si nahráváme a pak dle libosti shlédneme, když máme čas. A k tomu video není nejlepší, protože se upřetáčíte, i když máte video s takovou tou indexační funkcí. Navíc pořady nemáme potřebu archivovat a ona taková stokrát jetá véháeska už není to nejlepší. A do třetice, filmů se na kazetu vejde jen pár a když si chcete naprogramovat týden dopředu a pak na to nemyslet, musíte dost třídit. </p>

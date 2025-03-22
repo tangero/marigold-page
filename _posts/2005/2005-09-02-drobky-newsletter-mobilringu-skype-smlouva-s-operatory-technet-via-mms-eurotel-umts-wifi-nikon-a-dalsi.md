@@ -14,8 +14,7 @@ summary_points:
 - Skype podepsal dohodu s Eplusem o podpoře Skype v síti.
 - Eurotel chystá tiskovou konferenci příští čtvrtek ohledně UMTS.
 - Technet si pořídil zasílání MMS zpráv do systému a mobloguje z IFA.
-title: "'Drobky: newsletter Mobilringu, Skype smlouvá s operátory, Technet via"
-  MMS, Eurotel UMTS, WiFi Nikon a&nbsp;další'
+title: Drobky -  newsletter Mobilringu, Skype smlouvá s operátory, Technet via MMS, Eurotel UMTS, WiFi Nikon a další
 ---
 
 <p>Dneska nemám na páteční psaní náladu. Máte sedět v práci na zadku a fárat jako já :/ Ale alespoň telegraficky zajímavosti a drobky:</p>

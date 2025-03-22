@@ -13,7 +13,7 @@ summary_points:
 - Pocket LOOX FLX3AW disponuje WiFi 802.11b a Bluetooth rozhraním.
 - Zařízení váží 199 gramů a má 3,5 palcový TFT displej.
 - Fujitsu plánuje prodat v Japonsku 60 000 kusů tohoto PDA.
-title: "Fujitsu představilo PDA Pocket LOOX FLX3AW s WiFi a Bluetooth"
+title: Fujitsu představilo PDA Pocket LOOX FLX3AW s WiFi a Bluetooth
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Diváci měli kvůli blízkosti plátna z filmu špatný zážitek a křeč v krku.
 - Schodiště v Mordoru ve filmu Pán prstenů nesplňuje normy EU.
 - Blogportal nabízí přehled blogpostů s názory na třetího Pána prstenů.
-title: 'Pán Prstenů: druhou řadu nebrat'
+title: Pán Prstenů -  druhou řadu nebrat
 ---
 
 <p>

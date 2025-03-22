@@ -13,9 +13,7 @@ summary_points:
 - Podmínky a ceny CDMA Eurotelu byly rozumnější než u ADSL Telecomu.
 - CDMA zákazníci Eurotelu přenesli zhruba pětinásobek dat oproti GPRS zákazníkům.
 - Investice Eurotelu do CDMA se zaplatí po 12 tisících uživatelích.
-title: "'Eurotel nabral za měsíc 7000 uživatelů CDMA"
-
-  '
+title: Eurotel nabral za měsíc 7000 uživatelů CDMA
 ---
 
 <p>

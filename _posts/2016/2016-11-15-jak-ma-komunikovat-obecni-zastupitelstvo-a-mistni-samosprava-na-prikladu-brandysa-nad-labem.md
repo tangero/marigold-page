@@ -16,8 +16,7 @@ summary_points:
   o stavu řešení chybí.
 - Doporučení zahrnují vícekolovou moderovanou veřejnou diskusi, průběžné reportování
   stavu řešení a použití různých informačních kanálů.
-title: "Jak má komunikovat obecní zastupitelstvo a místní samospráva (na příkladu"
-  Brandýsa nad Labem)
+title: Jak má komunikovat obecní zastupitelstvo a místní samospráva (na příkladu Brandýsa nad Labem)
 ---
 
 Je zajímavé sledovat míjející se názory úřadů a občanů na to, jak má vypadat komunikace mezi nimi. Pro příklad použiju náš Brandýs, ale situace zde zdaleka není ojedinělá, spíše zcela ukázková. 

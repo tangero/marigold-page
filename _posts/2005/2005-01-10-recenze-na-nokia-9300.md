@@ -13,7 +13,7 @@ summary_points:
 - Autor nemůže publikovat sám kvůli omezenému přístupu do redakčního systému.
 - Autorovi nevyhovuje zadávání článků přes třetí osobu a ztráta kontroly.
 - Autor nekomentuje kvalitu současného redakčního systému Mobil.cz.
-title: "Recenze na Nokia 9300"
+title: Recenze na Nokia 9300
 ---
 
 <p>Přes víkend jsem pracoval na recenzi komunikátoru Nokia 9300, ku přečtení <a href="http://mobil.idnes.cz/telefony.asp?r=telefony&amp;c=A050107_152832_telefony_dno">na Mobil.cz</a>. Vtipné je, že pod recenzí nejsem podepsaný, protože nemám přístup do redakčního systému a nemohl jsem si tam recenzi zadat sám. Takže ji tam musela zadat Dita, ovšem bez mého jména - autorem je pouze anonymní Mobil.cz :)</p>

@@ -14,8 +14,7 @@ summary_points:
 - Bluetooth access pointy jsou překvapivě dražší než WiFi, i v USA.
 - WNI Universal Wireless Gateway kombinuje WiFi, bluetooth a USB hub.
 - Autor se nakonec rozhodl opravit stávající připojení přes Windows XP.
-title: "Access point s podporou WiFi a bluetooth – aneb APčka s bluetooth"
-  nejsou levná&#8230;
+title: Access point s podporou WiFi a bluetooth – aneb APčka s bluetooth nejsou levná…
 ---
 
 <p>

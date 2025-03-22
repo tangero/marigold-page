@@ -13,9 +13,7 @@ summary_points:
 - Dostupnost satelitních map zdarma ukazuje na rostoucí možnosti sledování.
 - Existují první produkty osobního antispywaru, například filtry na displeje.
 - Vyvíjejí se technologie, které mají znesnadnit rozpoznání tváře kamerami.
-title: "'Osobní antispyware má být další velkou věcí"
-
-  '
+title: Osobní antispyware má být další velkou věcí
 ---
 
 <p>Next Big Thing – Příští velká věc, to je v žargonu investorů a průmyslníků něco, co má napříště změnit lidskou společnost nebo alespoň velkou část trhu, jako to třeba udělaly mobilní telefony. Příští velkou věcí má být osobní antispaware, tedy prostředky k osobní ochraně soukromí. </p>

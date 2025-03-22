@@ -13,7 +13,7 @@ summary_points:
 - Seznam technologií vychází z autorova osobního pohledu a preferencí.
 - Autor nepředpokládá, že se všechny zmíněné technologie prosadí v ČR.
 - Článek má sloužit spíše jako tip než jako definitivní předpověď.
-title: "Mobilní technologie, které námi otřesou v roce 2004"
+title: Mobilní technologie, které námi otřesou v roce 2004
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Wallace a Gromit je animovaná dvojka z modelíny, která je velmi oblíbená.
 - Článek doporučuje zhlédnout Wallace a Gromita a Slepičí úlet pro pobavení s dětmi.
 - 'Trailer k Wallace a Gromit: Prokletí králíkodlaka je vložen v článku.'
-title: "Ovečka jako průmyslový standard"
+title: Ovečka jako průmyslový standard
 ---
 
 Tak jsem nad tím přemýšlel, kde se vzaly <a href="http://www.vanocninadilka.cz/nabidka">ovečky Vodafone</a>, protože se mi tak nějak nechtělo věřit, že by tak hezkou ovečku vymyslela nějaká reklamka. A navíc mi ovečka byla povědomá. 

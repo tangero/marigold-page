@@ -13,7 +13,7 @@ summary_points:
 - WLAN antény CSAT splňují evropskou normu EN 300 631 V1.2.1.
 - Na trhu se objevily nekvalitní napodobeniny antén CSAT s označením csatantenna.com.
 - Prodejce varuje před nákupem těchto napodobenin, které jsou v rozporu se zákonem.
-title: "Napodobeniny antén a parazitování na jméně"
+title: Napodobeniny antén a parazitování na jméně
 ---
 
 <p>

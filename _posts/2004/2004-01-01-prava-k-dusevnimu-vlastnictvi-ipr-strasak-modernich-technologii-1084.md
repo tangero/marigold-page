@@ -19,8 +19,7 @@ summary_points:
   \ je probl\xE9m."
 - "ETSI prosadila nediskrimina\u010Dn\xED podm\xEDnky pro patenty GSM/UMTS, ale zdr\u017E\
   elo to standardizaci."
-title: ""Pr\xE1va k du\u0161evn\xEDmu vlastnictv\xED (IPR) – stra\u0161\xE1\"
-  k modern\xEDch technologi\xED"
+title: Pr\xE1va k du\u0161evn\xEDmu vlastnictv\xED (IPR) – stra\u0161\xE1\ k modern\xEDch technologi\xED
 ---
 
 Problematika patentů, ochrany duševního vlastnictví, je velkou finanční i časovou zátěží při tvorbě a prosazování dnes již prakticky všech standardů. O co jde?<!--more--><p>

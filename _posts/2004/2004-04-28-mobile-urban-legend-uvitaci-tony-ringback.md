@@ -13,7 +13,7 @@ summary_points:
 - SK Telecom aktivoval službu Coloring zdarma pro velké množství klientů.
 - NTT DoCoMo v Japonsku s uvítacími tóny neuspělo i přes tiskové zprávy.
 - T-Mobile Uvítací tóny má české stránky umístěné u britského T-Mobile.
-title: 'Mobile urban legend: uvítací tóny (ringback)'
+title: Mobile urban legend -  uvítací tóny (ringback)
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Práce je návodem pro výběr redakčního systému, nikoliv jeho porovnáním.
 - Studie má 60 stran textu a grafů, které pomohou s výběrem.
 - Studie je dostupná na stránkách Arigy.
-title: "Studie: Internetové redakční a publikační systémy"
+title: Studie -  Internetové redakční a publikační systémy
 ---
 
 <p>

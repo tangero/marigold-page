@@ -19,7 +19,7 @@ summary_points:
 - "Neoliber\xE1ln\xED politika podkopala d\u016Fv\u011Bru v demokracii."
 - "Klimatick\xE1 krize vy\u017Eaduje obnovu osv\xEDcensk\xFDch hodnot."
 thumbnail: https://uplandseconyear12ib.weebly.com/uploads/1/3/4/3/13432222/7702367_orig.jpg
-title: "Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin"
+title: Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin
 ---
 
 Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalosti či pominutí smyslů. Že by tito voliči měli prokázat, že rozumí trhům a demokracii. Jenže taková situace není. Voliči masivně trestají dnešní politické elity za porušení nepsané společenské dohody, která voličům měla zajistit účast na ekonomickém růstu výměnou za politickou podporu. Jenže dnešní otázka běžného minoritního voliče je "když jste tak chytří, tak jak se stalo, že se nemáme rok od roku lépe?" Situaci skvěle popisuje Joseph Stiglitz ve své eseji [Konec neoliberalismu a znovuzrození dějin](https://economics.utoronto.ca/gindart/2019-11-04%20-%20The%20end%20of%20neoliberalism%20and%20the%20rebirth%20of%20history.pdf), kterou jsem z angličtiny přeložil. 

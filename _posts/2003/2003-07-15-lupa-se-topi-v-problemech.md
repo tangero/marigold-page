@@ -13,7 +13,7 @@ summary_points:
 - Linux je použit pro databáze a server Lupy, přestože mu nerozumí.
 - Restart je navrhován jako řešení, i když je to již pátý restart dne.
 - Marek Antoš a bratr Krausovi řešili nespolehlivost serveru Lupa.
-title: "LUPA se topí v problémech"
+title: LUPA se topí v problémech
 ---
 
 <p>

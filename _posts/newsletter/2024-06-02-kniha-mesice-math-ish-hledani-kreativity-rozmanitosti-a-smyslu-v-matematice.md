@@ -14,8 +14,7 @@ summary_points:
 - Math-ish hodnotí tradiční výuku matematiky a navrhuje nové přístupy k učení.
 - Kniha je určena pro zájemce o vzdělávání, zejména v matematice.
 - Autor textu se inspiroval knihou pro tvorbu inovativního IT kurzu pro ZŠ.
-title: ""\U0001F4D7Kniha měsíce? Math-ish: Hledání kreativity, rozmanitosti a smyslu"
-  v matematice"
+title: \U0001F4D7Kniha měsíce? Math-ish -  Hledání kreativity, rozmanitosti a smyslu v matematice
 ---
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/d76b09ac-aef8-4819-b2cc-650bb8038d54.heic)](https://www.youcubed.org/math-ish/)

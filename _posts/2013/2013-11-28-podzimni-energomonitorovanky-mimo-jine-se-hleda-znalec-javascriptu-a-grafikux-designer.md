@@ -15,8 +15,7 @@ summary_points:
 - Firma hledá JavaScript programátora, UX/grafika a Python programátora do týmu.
 - Sociální sítě nejsou pro Energomonitor klíčové, preferují přímý kontakt a reálnou
   práci.
-title: "Podzimní energomonitorovánky (mimo jiné se hledá znalec Javascriptu a Grafik/UX"
-  designer)
+title: Podzimní energomonitorovánky (mimo jiné se hledá znalec Javascriptu a Grafik/UX designer)
 ---
 
 <p>Když jsme se ponořili do podnikání v energomonitoru, říkal jsem si, že tento blog použiju jako záznamníček všech událostí a činů našeho díla pro ponaučení generací příštích (jak říká můj velký vzor R.J. Rimmer). Jenže postupem času se ukázalo, že z tohoto pohledu je energomonitor nevděčný zdroj. Hlavně proto, že nápadně připomíná práci a ne cool startup. Ne snad, že by se nic nedělo. Jenže jen málo toho, co se děje, jsou načinčané pařby, výjezdy na topclass konference a rozhovory s předními hvězdami sociálních sítí. Většinou je to fakt něco, co nápadně připomíná práci a trošku se bojím, jestli to tak nemá být. Většina našich setkání je s lidmi, kteří nejsou hvězdami sociálních sítí, pouze sedí na penězích, řídí či rozhodují v odvětí, které je naším životním prostorem. Zpravidla je dobré, že si nemyslí, že by internetu rozuměli více, než já, zpravidla je podstatné, že mají na účtě či ve fabrice víc milionů, než já followerů. To dost mění průběh setkání a taky moji schopnost o něm referovat a udělat z toho kewl storku. A způsobuje to, že místo kewl storky je to spíš to prostinké, business, kdy my musíme něco nabídnout a přesvědčit, že to máme, umíme, rozumíme. Tady se zatraceně hodí to, co jsme se naučili za poslední dvě desetiletky. </p>

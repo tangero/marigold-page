@@ -13,7 +13,7 @@ summary_points:
 - Zápas Česko × USA na Staromáku byl pro Noname neuvěřitelný zážitek.
 - Noname sdílí video ze zápasu na YouTube a odkaz na americkou verzi.
 - Noname objednal fotbalové dresy a těší se na další zápas.
-title: "Krásný fotbal – děkuji"
+title: Krásný fotbal – děkuji
 ---
 
 <p><strong>Noname píše:</strong> přiznám se, nejsem fotbalový fanda, tedy alespoň nebyl jsem. Při běžně vysílaných zápasech české ligy usínám, nebo spíše přepínám jinam. V pondělí jsem v podvečer shodou okolností zavítal na Staromák, kde se promítal zápas Česko × USA a byl to neuvěřitelný zážitek, který s tím co se děje u nás nedá vůbec srovnávat. Ostatně vyzkouším mou novou hračku YouTube a to nejzajímavější tak můžete vidět sami:</p>

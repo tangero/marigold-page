@@ -12,7 +12,7 @@ summary_points:
 - Rozšíření frekvenčního spektra je klíčové pro 5G a 6G.
 - Sub-THz pásma nabídnou extrémně vysoké přenosové rychlosti.
 thumbnail: https://www.marigold.cz/assets/3GPP-5G.jpg
-title: 'Vývoj frekvenčního spektra pro 5G a 6G: Standardizace a hledání nových frekvencí'
+title: Vývoj frekvenčního spektra pro 5G a 6G -  Standardizace a hledání nových frekvencí
 ---
 
 Technologie 5G přinesla zásadní změny v mobilních sítích, včetně vyšších rychlostí, nižší latence a vyšší spolehlivosti. S nástupem 6G však očekáváme další zvyšování nároků na všechny tyto parametry, které určují spokojenost uživatelů s datovými přenosy. Bude potřeba rozsáhlé frekvenční spektrum, které bude schopno poskytovat nejen kapacitu, ale i dostatečné pokrytí. A k tomu se tradičně dostáváme především rozšiřování frekvenčního spektra použitelného v sítích 5G a 6G. 

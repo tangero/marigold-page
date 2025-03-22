@@ -13,7 +13,7 @@ summary_points:
 - Vodička v MF Dnes přezdívá Schwarzeneggera Guvernátor.
 - Volba svalovce bez programu není jen americký úlet.
 - Trend volby svalovců hrozí Evropě i Česku problémy.
-title: "Arnie Guvernátorem – to už je solidní politická deziluze!"
+title: Arnie Guvernátorem – to už je solidní politická deziluze!
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Během záskoku autor napsal 10 menších a 4 rozsáhlejší články.
 - Autor byl osočován z PR článků, i přes vysokou návštěvnost serveru.
 - Autor vyzývá k pozitivnímu psaní a vyzdvihování kvality.
-title: "Jsem hnusný úplatný hrdobec"
+title: Jsem hnusný úplatný hrdobec
 ---
 
 <p>

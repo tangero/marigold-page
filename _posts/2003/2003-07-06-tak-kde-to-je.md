@@ -13,7 +13,7 @@ summary_points:
 - Manipulace masmédii v oblasti technologií je snadná, ale mohla vést k záplatování
   děr.
 - OSN by mohla vyhlásit den defacerů pro zvýšení bezpečnosti internetu.
-title: "Tak kde to je?"
+title: Tak kde to je?
 ---
 
 <p>

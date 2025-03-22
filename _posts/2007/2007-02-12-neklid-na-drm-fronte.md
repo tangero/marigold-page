@@ -13,7 +13,7 @@ summary_points:
 - Steve Jobs kritizoval nutnost DRM u digitální hudby oproti CD.
 - OMA DRM je nejrozšířenější DRM, ale má zanedbatelný vliv na trh.
 - Autor preferuje nákup hudby na AllOfMP3.com a MP3Search.ru.
-title: "Neklid na DRM frontě"
+title: Neklid na DRM frontě
 ---
 
 <texy>Dlouho jsem toho názoru, že DRM jakožto filosofie ochrany digitální hudby, je na houby. Že hudbě spíše škodí, než prospívá. Například tím, že trestá toho nepravého: vždycky komplikuje život legálnímu majiteli spíše, než pirátovi, pokud přistoupíme na terminologii nahrávacích koncernů.

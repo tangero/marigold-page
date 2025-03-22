@@ -13,7 +13,7 @@ summary_points:
 - Cena APPro je 2500 Kč s DPH, což je mírně více než původní AP.
 - APPro nabízí WDS, omezování rychlosti, watchdog a izolaci klientů.
 - APPro podporuje režimy AP, AP WDS, Router, Bridge a NAT.
-title: "APPro a Ovislink AirLive WL-1120AP"
+title: APPro a Ovislink AirLive WL-1120AP
 ---
 
 <p>Nová zajímavá modifikace pro oblíbený přístupový bod Ovislink AirLive WL-1120AP se začala prodávat v ČR pod názvem APPro. Jde o polskou modifikaci (lokalizovanou do češtiny) Linuxových modifikacích tohoto AP, čímž se významně rozšiřují jeho schopnosti, takže APPro poslouží dobře pro stavbu menších bezdrátových sítí. Výhodou je cena 2500 Kč s DPH, což je jen o málo více, než původní AP. Z funkcí bych vyzdvihl především WDS, omezování rychlosti, watchdog, izolaci klientů na WLAN rozhraní a regulaci vysílacího výkonu. </p>

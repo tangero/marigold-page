@@ -11,8 +11,7 @@ summary_points:
 - Skype změnil telekomunikace, ale nedokázal plně využít svůj potenciál a monetizovat.
 - Chatboti jsou stále ve fázi vývoje a jejich skutečná inteligence ještě není na úrovni
   očekávání.
-title: "Když vytvoříte příležitost a nezvládnete z ní udělat trh (příklad"
-  Skype a&nbsp;eknih)
+title: Když vytvoříte příležitost a nezvládnete z ní udělat trh (příklad Skype a eknih)
 ---
 
 <p>Jednou z nejdůležitějších součástí digitální revoluce je proměna, kterou přináší na trh novými službami či produkty, jež dříve nebyly možné. Takovým novým službám se snadno podaří zaujmout, radikálně zkomplikují život službám a produktům stávajícím, změní mapu tržního prostředí, ale selžou v tom, vytvořit ze sebe skutečný trh, tedy dostatečné finanční toky.</p>

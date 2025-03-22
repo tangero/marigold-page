@@ -13,7 +13,7 @@ summary_points:
 - Hodinky využívají 22 kanálů v pásmu FRS/GMRS s dosahem 2-3 km.
 - WristLinx Communicator nabízí VOX aktivaci a stojí 50 USD.
 - Hodinky mají podsvícení a jsou určeny pro studenty a komunity.
-title: "Když jsme u hodinek, zkuste WristLinx Communicator – hodinky s vysílačkou"
+title: Když jsme u hodinek, zkuste WristLinx Communicator – hodinky s vysílačkou
 ---
 
 <p>

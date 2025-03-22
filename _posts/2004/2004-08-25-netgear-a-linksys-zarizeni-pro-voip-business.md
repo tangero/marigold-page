@@ -13,7 +13,7 @@ summary_points:
 - Linksys prodává PAP2 Phone Adapter (59 USD) a RT31P2 Router (89 USD).
 - Linksys WRT54GP2 router s RJ-11 porty bude brzy dostupný, cena neznámá.
 - VoIP se stává standardem pro domácí zařízení, nahrazuje pevnou linku.
-title: "NetGear a Linksys zařízení pro VoIP business"
+title: NetGear a Linksys zařízení pro VoIP business
 ---
 
 <p>

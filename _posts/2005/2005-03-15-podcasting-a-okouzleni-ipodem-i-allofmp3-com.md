@@ -13,7 +13,7 @@ summary_points:
 - iPod s velkou kapacitou umožňuje mít oblíbenou hudbu neustále s sebou.
 - AllOfMP3 nabízí levné MP3 a online poslech hudby, což autora okouzlilo.
 - Nízká cena hudby na AllOfMP3 vedla autora k masivnímu nákupu hudby.
-title: "Podcasting a okouzlení iPodem i AllofMP3.com"
+title: Podcasting a okouzlení iPodem i AllofMP3.com
 ---
 
 <p>Na Lupu jsem před týdnem napsal článek o podcastingu, dneska se na něj konečně <a href="http://www.lupa.cz/clanek.php3?show=4002">dostala řada a vyšel</a>. Podcasting je zajímavý způsob, jak dostat MP3 soubory na MP3 přehrávače a plně se tu ukazuje to, proč mimochodem mám tak rád iPoda. iPod je hezky promyšlený a provázaný systém, takže zatímco na jiný MP3 přehrávač si musíte MP3 z podcastingu nahrávat ručně, na iPod se vám synchronizují automaticky po připojení iPodu k počítači. Je podcasting nová vlna, která ostře zavaří všem aktivitám snažícím se protlačit MP3 do mobilů? Může tlačení MP3 skrze pomalé mobilní sítě konkurovat podcastu? Já nepodceňuji hybnou sílu mobilních operátorů a firem, na druhou stranu Apple má podobnou hybnou sílu a jestli někdo v Apple nepracuje na zaintegrování podcastu do jádra iTunes, ukousnu sluchátka svého iPodu :)</p>

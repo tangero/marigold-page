@@ -13,9 +13,7 @@ summary_points:
 - Internet pro všechny má databázi Wi-Fi sítí, nyní obsahuje 194 záznamů.
 - Provozovatelé sítí dělají chyby při přidávání, což komplikuje práci administrátorům.
 - Internet pro všechny databáze vznikla jako reakce na neochotu Českého Telecomu.
-title: "'Největší česká databáze bezdrátových sítí již obsahuje 194 záznamů"
-
-  '
+title: Největší česká databáze bezdrátových sítí již obsahuje 194 záznamů
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041206-wifimapa.gif" alt="Mapa Wi-Fi sítí" width="200" height="122" /></div><p>

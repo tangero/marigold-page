@@ -13,7 +13,7 @@ summary_points:
 - Blogy lze aktualizovat pomocí SMS a MMS zpráv, což je chytré.
 - Marigold již má rozhraní pro SMS/MMS v Genesis, ale pro komplexní redakční systém.
 - Outdoor blogeři by ocenili možnost přispívat přes MMS přímo z terénu.
-title: "Blogy i mobilně přes SMS a MMS zprávy!"
+title: Blogy i mobilně přes SMS a MMS zprávy!
 ---
 
 Jestli mne v Cannes na 3GSM kongresu něco příjemně zaujalo, tak to byla nabídka blokovacího software fungujícího přes MMS a SMS zprávy. Krátce k blogům: blogy jsou malé soukromé weby, kde jejich majitelé neustále píší něco o něčem nebo i vcelku o ničem. Kupříkladu Marigold je blog. Blog plní majitel zpravidla přes web. Jenže někoho napadlo naprogramovat software pro tvorbu blogu, který má rozhraní pro zadávání dat přes SMS a MMS zprávy. 

@@ -13,7 +13,7 @@ summary_points:
 - Vyhledávání fotografií dle polohy usnadňuje identifikaci míst a objektů.
 - GPS tagging lze využít pro poznámky k místům, dostupné pro kolemjdoucí.
 - Fotoaparáty s GPS a geoblogging umožňují automatické i manuální GPS tagging.
-title: "Fotografie označené polohou GPS – s tím bude ještě sranda"
+title: Fotografie označené polohou GPS – s tím bude ještě sranda
 ---
 
 <p>Internet má před sebou zřejmě další vlnu. Říkejme jí prozatím GPS tagging nebo Geo tagging, GPS značkování, protože nic lepšího jsem nenašel a nenapadlo mne. GPS značkování je zajímavá myšlenka, která se rozmáhá v japonsku a v USA, v zemích kde fotoaparáty vybavené GPS začínají hrubě převažovat. Ano, máte pravdu, jde o fotoaparáty v mobilních telefonech CDMA sítí, které obsahují lokalizaci polohy, většinou na bázi GPS. GPS tagging je vlastně označení fotografie souřadnicemi, na nichž byla fotografie pořízena. JPEG je schopen tuto informaci ukládat do EXIF formátu, kde jsou i další informace z fotoaparátu (datum, expozice atd), takže tuto informaci není třeba přenášet zvláště a lze ji pohodlně z obrázku extrahovat. </p>

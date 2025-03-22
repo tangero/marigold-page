@@ -14,7 +14,7 @@ summary_points:
 - SkyNet jedná o velkoobchodní nabídce ADSL, ale detaily nejsou známy.
 - GTS neprovozuje ADSL v centru Prahy, i když má licenci a možnost.
 - Autor nechápe nečinnost GTS a podezírá je z upřednostňování kritiky Telecomu.
-title: "ADSL stále na levačku"
+title: ADSL stále na levačku
 ---
 
 <p>

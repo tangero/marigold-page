@@ -16,7 +16,7 @@ summary_points:
   9500.
 - Radek Hulán dokončil automatické náhledy snímků, což motivuje autora k realizaci
   nápadu.
-title: "Na Novém Smíchově je free hotspot"
+title: Na Novém Smíchově je free hotspot
 ---
 
 <p>Dorazil jsem na Nový Smíchov, populárního to obchodního centra. Mají tu WiFi, bohužel to telekoumácké, s nezapamatovatelným přístupovým jménem a heslem, jež nelze změnit. Mám ho uložené v notebooku, ale na Nokia 9500 tedy rozhodně ne.</p>

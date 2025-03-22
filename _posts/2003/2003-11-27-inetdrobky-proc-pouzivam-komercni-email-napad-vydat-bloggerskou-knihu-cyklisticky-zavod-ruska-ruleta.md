@@ -13,8 +13,7 @@ summary_points:
 - Kostěj plánuje vydat knihu svých blognutí formou předobjednávek s cílem 1000 zájemců.
 - Daniel Dočekal navrhuje vydání sbírky příběhů od více blogerů.
 - BakovDevils zveřejnili přihlášku na cyklozávod Ruská ruleta 2004.
-title: "'Inetdrobky: proč používám komerční email, nápad vydat bloggerskou knihu, cyklistický"
-  závod Ruská ruleta'
+title: Inetdrobky -  proč používám komerční email, nápad vydat bloggerskou knihu, cyklistický závod Ruská ruleta
 ---
 
 <p>

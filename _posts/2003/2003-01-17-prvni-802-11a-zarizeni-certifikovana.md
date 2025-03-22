@@ -13,9 +13,7 @@ summary_points:
 - Certifikace 802.11g produktů měla začít v létě po schválení standardu.
 - Proxim, Cisco a Intel jsou pravděpodobní dodavatelé WiFi zařízení v Česku.
 - Certifikace zajišťuje funkční kompatibilitu WiFi zařízení různých výrobců.
-title: "'První 802.11a zařízení certifikována"
-
-  '
+title: První 802.11a zařízení certifikována
 ---
 
 <p>

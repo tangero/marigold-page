@@ -13,8 +13,7 @@ summary_points:
 - Talkonaut je Java aplikace pro mobilní volání přes GTalk, MSN a VoIP sítě.
 - Talkonaut a Gtalk2VoIP nabízejí různé operátory s odlišnými cenami volání.
 - DIDWW nabízí pronájem telefonních čísel s přesměrováním hovorů na GTalk a MSN.
-title: "Jak volat z Google Talku či MSN do telefonní sítě. A taky opačně"
-  a&nbsp;i&nbsp;z&nbsp;mobilu
+title: Jak volat z Google Talku či MSN do telefonní sítě. A taky opačně a i z mobilu
 ---
 
 <texy>Z Google Talku lze telefonovat zatím pouze mezi klienty, nikoliv do telefonní sítě. Minimálně oficiálně. Našel jsem ale zajímavou neoficiální možnost nazvanou <a href="http://www.gtalk2voip.com">GTalk2VoIP</a>. Jednoduše si mezi kontakty v GTalku přidáte kontakt této služby (zadáte email) nebo službu necháte napsat vám a autorizujete ji. Pak stačí této službě napsat textově CALL a číslo, kam chcete volat, ona vám napíše informace o ceně hovoru a že máte akceptovat příchozí hovor. A přijde vám hovor - a propojí vás s protistranou. Hezké využití GTalk otevřenosti :)

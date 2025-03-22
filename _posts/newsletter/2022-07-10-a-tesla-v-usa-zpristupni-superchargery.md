@@ -14,7 +14,7 @@ summary_points:
 - Bílý dům oznámil dohodu Tesly s americkou vládou ohledně Superchargerů.
 - Superchargery v USA budou osazeny koncovkami CCS a Chademo kvůli kompatibilitě.
 - Evropské a americké CCS koncovky se liší, proto jsou nutné úpravy pro USA.
-title: '... a Tesla v USA zpřístupní superchargery'
+title: ... a Tesla v USA zpřístupní superchargery
 ---
 
 Aspoň jedna pozitivní zpráva, za kterou ale Musk zřejmě nemůže. Tesla [se dohodla s americkou vládou](https://www.msn.com/en-us/news/technology/tesla-will-open-up-superchargers-to-non-tesla-electric-vehicles-in-the-us-later-this-year/ar-AAZkxkI), že zpřístupní svoji síť nabíjecích stanic Superchargery i pro ostatní automobily. Zprávu překvapivě publikoval Bílý dům. Tesla teď začne superchargery osazovat potřebnými koncovkami CCS a Chademo. V Evropě už Tesla koncovky CCS používá, takže v Evropě to již někde běží. Drobný problém je v tom, že evropské a americké CCS se liší, proto jsou nutné změny. 

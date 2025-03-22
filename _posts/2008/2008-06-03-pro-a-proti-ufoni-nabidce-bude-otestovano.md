@@ -17,7 +17,7 @@ summary_points:
 - Ceny U:fona jsou nízké, blížící se nákladům, s voláním zdarma v síti.
 - Technologie U:fona (CDMA) a frekvence omezují budoucí rozvoj a nabídku zařízení.
 - Autor testuje U:fona a brzy zhodnotí jeho smysl pro různé uživatele.
-title: "Pro a proti U:foní nabídce – bude otestováno"
+title: Pro a proti U - foní nabídce – bude otestováno
 ---
 
 Na start mobilní nabídky U:fona jsem čekal se zvědavostí. Osobně jsem moc nevěřil tradičnímu zaklínání regulátora a konkurenčních operátorů, že nejde o mobilního operátora a teď tomu nevěřím už vůbec. Ufon je z mého pohledu klasický mobilní operátor, protože se projevuje jevy, které ho podle mne mezi mobilní operátory řadí: prodává mobilní telefon, na který se lze dovolat a z něhož lze volat na jiná telefonní čísla přímým vytočením čísla (tedy ne přes nějakou spojovatelku). Lze ho použít k odeslání a příjmu SMS zpráv a mobil zvládá pohyb v rámci vymezeného regionu (ano, v tomto případě jde o handover). Proti "mobilnímu operátorovi" svědčí snad jen fakt, že nemá nějakou bumážku od úřadu, který ovšem téže firmě přidělil čísla z mobilního rozsahu 790 a to už počátkem roku 2007. Jak české: nejde o mobilního operátora, jen o firmu, která nabízí služby jako mobilní operátor :)

@@ -13,9 +13,7 @@ summary_points:
 - DualPhone je DECT telefon s USB pro volání přes Skype z počítače.
 - PC Phone Line nabízí Skype a SIP hardwarové brány za 50 dolarů.
 - SkypeIn umožní v roce 2005 volání z pevných linek uživatelům Skype.
-title: "'Skype sluchátka jako samostatný business"
-
-  '
+title: Skype sluchátka jako samostatný business
 ---
 
 <p>

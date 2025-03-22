@@ -13,9 +13,7 @@ summary_points:
 - Eurotelu licence schvaluje provoz mobilních terminálů CDMA2000 v NMT pásmu.
 - Kamojedov si všiml ořezání pásma na dva CDMA2000 přenašeče v licenci.
 - Širokopásmové technologie u dalších držitelů kmitočtů jsou lákavé, ale nereálné.
-title: "'ČTÚ vydalo licenci povolující (mimo jiné) koncová zařízení CDMA2000"
-
-  '
+title: ČTÚ vydalo licenci povolující (mimo jiné) koncová zařízení CDMA2000
 ---
 
 <p>

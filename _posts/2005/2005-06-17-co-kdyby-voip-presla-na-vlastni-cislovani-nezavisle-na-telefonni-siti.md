@@ -13,9 +13,7 @@ summary_points:
 - Oddělení VoIP od telefonní sítě pomocí nového adresování by obešlo regulace.
 - Nový VoIP systém adresace by mohl využívat zapamatovatelná jména namísto čísel.
 - SIP Broker umožňuje bezplatné volání mezi VoIP sítěmi, ale bez české účasti.
-title: "'Co kdyby VoIP přešla na vlastní číslování nezávislé na telefonní sítí"
-
-  '
+title: Co kdyby VoIP přešla na vlastní číslování nezávislé na telefonní sítí
 ---
 
 <p>Poslední dění ve světě VoIP není nakloněno těm, kteří v této technologii vidí vyvázání se z oligopolních praktik telekomunikačních operátorů, z nichž, co si budeme povídat, se většina chová jako svině. Nároky FCC na doplnění VoIP o povinnou lokalizaci telefonujících a přístupnost nouzové linky znamenají další náklady a nepříjemná omezení stejně jako možnost implementace bedlivého oka velkého bratra. </p>

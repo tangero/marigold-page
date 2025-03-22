@@ -14,7 +14,7 @@ summary_points:
 - UMA řeší slabé indoor pokrytí 3G sítí, umožňuje volání přes operátora.
 - FMC (Fixed Mobile Convergence) konverguje pevné linky s mobilními sítěmi.
 - FMC využívá pikocelly pro zlepšení indoor pokrytí bez nutnosti měnit telefony.
-title: "UMA a FMC. Učte se nová buzzwords"
+title: UMA a FMC. Učte se nová buzzwords
 ---
 
 <p>Tyhle dvě zkratky jsou na 3gsm skloňována ve všech pádech a který výrobce si až tady povšiml trendu, utíkal rychle do copy centra natisknout pár slide jako že je taky In. Já jsem si přečetl článek o Uma na mobilmanii a upřímně mne překvapil, protože jsem tu asi viděl něco jiného. O co tedy jde?</p>

@@ -16,9 +16,7 @@ summary_points:
 - VMWare a Parallels vyžadují Windows XP SP2, které autor nemá.
 - Warez verze Windows XP SP2 neakceptovala autorovo sériové číslo.
 - Autor se ptá na legální řešení problému s aktivací Windows XP.
-title: "'Jak jsem ukradl Windows koupené od Microsoftu"
-
-  '
+title: Jak jsem ukradl Windows koupené od Microsoftu
 ---
 
 Je to jen osobní povzdech, malá frustrace po dvou zbytečných hodinách práce. Nic vážného nečekejte. 

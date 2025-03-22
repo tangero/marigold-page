@@ -13,7 +13,7 @@ summary_points:
 - Zavedení přenositelnosti mobilních čísel v ČR se stále odkládá.
 - Operátoři a ČTÚ se v problému přenositelnosti mobilních čísel obviňují.
 - Za nedodržení termínu zavedení portability zaplatí stát, tedy daňoví poplatníci.
-title: "Přenositelnost mobilních čísel – co jsme si po česku podělali"
+title: Přenositelnost mobilních čísel – co jsme si po česku podělali
 ---
 
 <p>

@@ -14,8 +14,7 @@ summary_points:
   mnohem delší.
 - AI revolučně mění medicínu, urychluje vývoj léků a prodlužuje lidský život.
 thumbnail: https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/2921c0ad-e41a-4ae7-815f-6dc99ce23f8c/RayKurzweil_2024-embed.jpg
-title: "Ray Kurzweil - Posledních šest desetiletí umělé inteligence - a co bude dál"
-  (přepis přednášky)
+title: Ray Kurzweil - Posledních šest desetiletí umělé inteligence - a co bude dál (přepis přednášky)
 ---
 
 Přepis přednášky futurologa Raye Kurzweila s názvem „The Last 6 Decades of AI - And What Comes Next“ na konferenci TED 2024.  

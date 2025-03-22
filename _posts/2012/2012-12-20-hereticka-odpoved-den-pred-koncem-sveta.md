@@ -16,9 +16,7 @@ summary_points:
 - Zatracení si ponesou vlastní "peklo" v ráji, tvrdil Joachim.
 - Joachim viděl svět jako místo, kde lidé nosí peklo v sobě.
 - Joachimovo učení bylo odsouzeno jako hereze, ale zůstává relevantní.
-title: "'Heretická odpověď den před koncem světa"
-
-  '
+title: Heretická odpověď den před koncem světa
 ---
 
 <p>Jednoho dne se jeden chytrý člověk sám sebe zeptal, co že se stane s dušemi těch, které milujeme, ale kteří jsou zatracení před tváří Boží, neboť nedošli jeho milosrdenství. Má-li být ráj místem, kde dosáhneme odměny a všech radostí, k čemu bude matce veškerá radost ráje, když se zde nesetká se svým hříšným synem? Chápal, že novozákonní ráj je místem odměny, místem blažení, jenže co to bude za blaženost, když se zde nesetkáme s lidmi, kteří nám jsou milí, ale kteří z nějakého důvodu ráje nedosáhli?</p>

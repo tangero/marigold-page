@@ -13,7 +13,7 @@ summary_points:
 - Článek zmiňuje Řetězčin blog, Žertvův deníček a Gentlemanův weblog.
 - Gentleman je z trojice mediálně nejznámější a nejstarší weblog.
 - Autor vyzývá k zasílání tipů na méně obvyklé blogy do komentářů.
-title: "Lidové noviny dnes o weblogu"
+title: Lidové noviny dnes o weblogu
 ---
 
 <p>

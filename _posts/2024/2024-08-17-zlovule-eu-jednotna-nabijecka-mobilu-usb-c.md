@@ -16,7 +16,7 @@ summary_points:
 - Apple přešel na USB-C kvůli logice, periferiím a očekávané spokojenosti uživatelů.
 - Regulace EU nezabíjí inovace, ale omezuje proprietární konektory ve velkých sériích.
 thumbnail: https://www.marigold.cz/assets/nabijecky-eu.png
-title: "Případ eurounijní zvůle v podobě jednotné nabíječky mobilů"
+title: Případ eurounijní zvůle v podobě jednotné nabíječky mobilů
 ---
 
 Tu a tam prosviští českou kotlinou nějaký eurounijní skandál, který západní Evropa neumí tak dobře podchytit, jako bdělý český čtenář. Tak například se neustále v cyklech vrací ta bohabustá buzerace, jíž EU zakázala nejrůznější typy a modely nabíječek a připustila jednu jedinou a to USB-C. Je to podobný malér, jako  [byl s tím pomazánkovým máslem](/item/jak-to-bylo-s-pomazankovym-maslem/), které nám EU zakázalo (akorát že vůbec) Jak se taková záležitost mohla stát, proč nemáme právo používat desítky modelů nabíječek a konektorů, jako na přelomu tisíciletí - a jak k tomu chudáci firmy přijdou? Ujednoťme si fakta.

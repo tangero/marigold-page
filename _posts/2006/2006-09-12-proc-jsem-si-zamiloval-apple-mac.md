@@ -13,7 +13,7 @@ summary_points:
 - Windows XP se postupem času staly nepředvídatelnými a zahlcenými viry.
 - Mac OS X je rebelský, produktivní a snadno se na něj přivyknout.
 - Mac stírá rozdíl mezi prací a zábavou, podporuje kreativitu uživatelů.
-title: "Proč jsem si zamiloval Apple Mac"
+title: Proč jsem si zamiloval Apple Mac
 ---
 
 <p>Na platformu Mac OS X jsem <a href="/item/tak-nejak-mi-vytekly-nervy-a-koupil-jsem-si-mac-mini">konvertoval vloni na podzim</a> a od té doby jsem přechod na tuhle platformu dokončil zcela.  Kromě osobního Mac Mini pro doma máme doma jeden notebook, Mac Book a v práci mám iMac 20“. Na to, jak jsem spokojený, se mne ptá v průběhu času celá řada lidí a vím minimálně o deseti, které jsem svým nadšením pro Mac strhnul k tomu, že také konvertovali. I čtenáři Marigolda se mne na to občas ptají a protože je chvíle času (pořád ležím s horečkou), tak se pokusím zcela subjektivně shrnout to, co mne na Mac platformě uchvátilo. Třeba to inspiruje i vás. </p>

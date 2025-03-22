@@ -11,9 +11,7 @@ summary_points:
 - MobilKom získal od ČTÚ kód operátora 230 04 a předčíslí 790.
 - MobilKom se zaměří spíše na datové služby než na hlasové.
 - Čtvrtý operátor by mohl nabídnout mobilní data za rozumné ceny.
-title: "'Čo si také predstavítě pod pojmom „mobilný operátor“, Kefalín?"
-
-  '
+title: Čo si také predstavítě pod pojmom „mobilný operátor“, Kefalín?
 ---
 
 <texy>Tohle je zatraceně dobrá otázka. Mobilních operátorů už máme tolik druhů a poddruhů, že už jsme si na ně museli zavést hromadu zkratek a štěstí mají ti, kdo ve zkratkách neztratili přehled. Pokud jste well informed, asi víte, že MVNO je „virtuální mobilní operátor“, pokud v businessu nějakou dobu hákujete, tak už jste možná došli až k termínu MVNE, tedy k <strong>Inicializátorovi virtuálního operátora</strong> <em>(zatím nejlepší český překlad, co mi přišel na mysl). </em>Není vám to povědomé? Buďte v klidu, i Wikipedia zná tenhle výraz necelý rok a má ho jen v <a href="http://en.wikipedia.org/wiki/MVNE">anglickém</a>, německém a francouzském překladu, což znamená, že je to dost <em>hot termín</em>. 

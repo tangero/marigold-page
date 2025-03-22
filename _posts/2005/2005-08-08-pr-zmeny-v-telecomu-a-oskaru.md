@@ -12,7 +12,7 @@ summary_points:
 - Vladan Crha, bývalý mluvčí Českého Telecomu, nastoupil do PR týmu Oskara.
 - Karel Taschner v Českém Telecomu nově řídí komunikační projekty.
 - Pavla Činátlová nahradila Taschnera ve funkci ředitele vnitřních a
-title: "PR změny v Telecomu a Oskaru"
+title: PR změny v Telecomu a Oskaru
 ---
 
 <p>K několika personálním zajímavým změnám došlo v poslední době u Oskara a Českého Telecomu a dokonce vzájemně. Bývalý tiskový mluvčí Českého Telecomu Vladan Crha přešel do Oskara, kde působí od minulého pondělí v PRD týmu, tedy v tiskovém oddělení. V pátek nám dovolilo pár lidí z Oskara otestovat jeho pohotovost a prospěl na výbornou :) (aby mu to nebylo líto, vzápětí jsme otestovali pohotovost PŠ a také prospěl :) )</p>

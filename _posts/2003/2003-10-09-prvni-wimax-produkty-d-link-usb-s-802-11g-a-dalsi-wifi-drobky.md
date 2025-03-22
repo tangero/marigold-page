@@ -15,7 +15,7 @@ summary_points:
 - Redline Communications ohlásila první produkty plně odpovídající specifikaci WiMAX
   802.16a.
 - WSC nabízí autorizaci proti 802.1x serveru za 8 USD měsíčně na uživatele.
-title: "První WiMAX produkty, D-Link USB s 802.11g a další WiFi drobky"
+title: První WiMAX produkty, D-Link USB s 802.11g a další WiFi drobky
 ---
 
 <p>

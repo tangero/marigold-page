@@ -16,7 +16,7 @@ summary_points:
   světa.
 - Každá kapitola bude obsahovat sumář kroků k minimalizaci škodlivých vlivů technologií.
 - Autor knihu zkrátil o příběhy, které neseděly do centrálního sdělení, ale je delší.
-title: "Kniha Digitální kapitál u betačtenářů"
+title: Kniha Digitální kapitál u betačtenářů
 ---
 
 [![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/33618dcc-472a-4a64-8b67-92645eb5bb70_761x351.jpeg)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F33618dcc-472a-4a64-8b67-92645eb5bb70_761x351.jpeg)

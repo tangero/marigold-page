@@ -13,7 +13,7 @@ summary_points:
 - Marigold má dočasně zvětšené písmo, úpravy designu provádí Radek Hulán.
 - Marigold RSS URL je dočasně http://new.marigold.cz/xml-rss2.php.
 - Oskar má reklamní kampaň na mapy.atlas.cz s bannerboardem.
-title: "Drobky: kterak skončila Cometa a marigoldí úpravy"
+title: Drobky -  kterak skončila Cometa a marigoldí úpravy
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
 - Autor vzpomíná na dědovo umění ručního kosení trávy a soběstačnost.
 - Moderní technika nenahradila dědovu efektivitu a znalost přírody.
 - Znalost tradičních dovedností zvyšuje komfort a rozšiřuje obzor možností.
-title: "Pátrání po moudrosti předků"
+title: Pátrání po moudrosti předků
 ---
 
 <p>Dlouho to nebylo “in”. Časopisy (pardon, magazíny) pro správného muže či ženu o tom nepsaly, protože to na dálku smrdělo Přemkem Podlahou říznutým absencí globálních brandů a FMCG. A "in", alespoň magazínově, to není stále, jenže stále častěji potkávám lidi, kteří o tom přemýšlejí, pátrají po tomtéž. Po zapomenuté moudrosti předků.</p>

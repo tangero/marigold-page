@@ -13,7 +13,7 @@ summary_points:
 - Blog:CMS je nový blogovací systém Radka Hulána s webem blogcms.com.
 - Nový den je agregátor zpráv s analýzou důležitosti a příbuznosti.
 - Přehled.net je agregátor technických zpráv, hledá designéra.
-title: 'Drobky: zajímavé nové servery na českém internetu'
+title: Drobky -  zajímavé nové servery na českém internetu
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Řešení spočívá v používání "obětní" domény pro registrace na webech.
 - Pro každou webovou službu se používá unikátní emailová adresa (napr. lupa@marigold.cz).
 - Pracovní emailová adresa cinetik.cz se nikde nepublikuje a slouží pro komunikaci.
-title: "Moje soukromé spam řešení, které možná pomůže i ostatním"
+title: Moje soukromé spam řešení, které možná pomůže i ostatním
 ---
 
 <p>

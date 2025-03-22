@@ -13,7 +13,7 @@ summary_points:
 - Autor plánuje v osadách vybudovat WiFi síť s páteřními směrovými spoji.
 - Pro směrové spoje autor zvažuje PC s Linuxem a hardwarová AP pro uživatele.
 - Hlavní problém je nízký počet potenciálních uživatelů a financování provozu sítě.
-title: "Story o sousedských sítích (2.)"
+title: Story o sousedských sítích (2.)
 ---
 
 <p>

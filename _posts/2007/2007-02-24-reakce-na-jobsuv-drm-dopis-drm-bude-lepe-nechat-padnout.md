@@ -15,7 +15,7 @@ summary_points:
 - Macrovision hájí DRM jako podporu prodeje hudby a kritizuje uzavřenost Apple FairPlay.
 - Odstranění DRM může labelům pomoci vyhnout se úplné dominanci Apple na hudebním
   trhu.
-title: 'Reakce na Jobsův DRM dopis: DRM bude lépe nechat padnout'
+title: Reakce na Jobsův DRM dopis -  DRM bude lépe nechat padnout
 ---
 
 Digitální správa práv chránící hudbu a další soubory emoce vzbuzuje neustále a vypadá to, že to jen tak nepomine. Do vosího hníza píchl před pár týdny Steve Jobs, šéf Apple, když publikoval dopis, v němž vysvětloval, že bez DRM by všem včetně labels, vydavatelů hudby, bylo lépe. 

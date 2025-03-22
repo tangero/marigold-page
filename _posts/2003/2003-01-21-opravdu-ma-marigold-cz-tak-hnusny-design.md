@@ -13,9 +13,7 @@ summary_points:
 - Autor získal design od Míry Kučery, původně pro Mobil.cz.
 - Grafika Marigoldu minimální, logo vytvořeno rychle v Photoshopu.
 - Autor zvažuje redesign Marigoldu a žádá čtenáře o názor.
-title: "'Opravdu má Marigold.cz tak hnusný design?"
-
-  '
+title: Opravdu má Marigold.cz tak hnusný design?
 ---
 
 <p>

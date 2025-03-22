@@ -14,7 +14,7 @@ summary_points:
 - Cena PocketSurferu je přibližně 200 USD a dostupnost byla plánována na třetí kvartál
   2004.
 - Autor textu je skeptický k úspěchu PocketSurferu kvůli jeho omezenému využití.
-title: "PocketSurfer – do kapsy jen na surfování"
+title: PocketSurfer – do kapsy jen na surfování
 ---
 
 <p>

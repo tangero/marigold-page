@@ -14,7 +14,7 @@ summary_points:
 - UBI příjemci utráceli peníze za bydlení a podporu, méně za zdraví.
 - UBI zvýšil zájem o podnikání, mladí lidé se více vzdělávali.
 - Studie UBI neprokázala zlepšení kvality zaměstnání ani lidského kapitálu.
-title: "\U0001F4B0Jak dopadla studie Univerzálního základního příjmu"
+title: \U0001F4B0Jak dopadla studie Univerzálního základního příjmu
 ---
 
 Před několika lety Sam Altman, šéf OpenAI, pomohl zafinancovat (ze svého a od dalších dárců) studii UBI - Univerzálního základního příjmu. Studie zkoumala dopad nepodmíněného příjmu 1000 USD měsíčně po dobu 3 let na 1000 nízkopříjmových osob ve dvou amerických státech. A právě [vyšly její závěry](https://www.nber.org/system/files/working_papers/w32719/w32719.pdf).

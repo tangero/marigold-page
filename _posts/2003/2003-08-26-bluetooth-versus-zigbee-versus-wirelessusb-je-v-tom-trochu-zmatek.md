@@ -14,7 +14,7 @@ summary_points:
   datovým přenosem.
 - Ericsson vyvíjí lehčí verzi Bluetooth, aby konkuroval ZigBee na novém trhu.
 - WirelessUSB je rychlý protokol, ale Bluetooth je lépe prosazený a kvalitnější.
-title: "Bluetooth versus ZigBee versus WirelessUSB, je v tom trochu zmatek"
+title: Bluetooth versus ZigBee versus WirelessUSB, je v tom trochu zmatek
 ---
 
 <p>

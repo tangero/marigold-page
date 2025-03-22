@@ -13,7 +13,7 @@ summary_points:
 - Leopard firewall není automaticky aktivní, což je diskutabilní.
 - Apple změnil firewall, integruje ho s operačním systémem.
 - Leopard zavedl digitální podepisování aplikací pro bezpečnost.
-title: "Zběsilá  jízda na Leopardu 2. – případ firewall a bezpečnost"
+title: Zběsilá jízda na Leopardu 2. – případ firewall a bezpečnost
 ---
 
 Dalo by se říci, že případ bezpečnosti Leoparda se stal hvězdnou hodinou pro vcelku neznámý Heise Security, britský magazín věnovaný bezpečnosti. <a href="http://www.heise-security.co.uk/articles/98120/1">Jeho verdikt</a> <em>The Mac OS X Leopard firewall failed every test</em> obletěl svět a byl citovný všemi možnými médii. Ačkoliv vyšel už 29.10., Apple k němu, jak je zvykem, nezaujal stanovisko a nechal ho bez komentáře. Možná škoda, protože vinou nedostatku publikované dokumentace bylo dopátrání se pravdy náročnější a dodnes někteří opravdu věří tomu, že firewall Leopardu je druhé jméno řešeta. 

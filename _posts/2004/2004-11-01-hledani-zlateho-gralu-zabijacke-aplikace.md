@@ -15,9 +15,7 @@ summary_points:
 - Emaily jako push zprávy jsou populární v Asii, ale v Evropě je to utopie kvůli SMS
   ziskům.
 - G sítě v Evropě jsou evolucí GSM, ne revolucí, a přinášejí hlavně větší kapacitu.
-title: "'Hledání zlatého grálu zabijácké aplikace"
-
-  '
+title: Hledání zlatého grálu zabijácké aplikace
 ---
 
 <p>

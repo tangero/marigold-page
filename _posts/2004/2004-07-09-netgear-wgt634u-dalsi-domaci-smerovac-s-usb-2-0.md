@@ -13,7 +13,7 @@ summary_points:
 - USB 2.0 rozhraní a Samba server umožňují mapování USB disku jako síťového.
 - Atheros Super G technologie zajišťuje rychlost až 108 Mb/s.
 - Americká cena Netgear WGT634U se pohybuje okolo 150 dolarů.
-title: "Netgear WGT634U – další domácí směrovač s USB 2.0"
+title: Netgear WGT634U – další domácí směrovač s USB 2.0
 ---
 
 <div class="rightbox"> <img src="/wp-content/uploads/20040709-netgear-wgt634u.jpg" alt="Netgear WGT634U" width="314" height="129" /> </div>

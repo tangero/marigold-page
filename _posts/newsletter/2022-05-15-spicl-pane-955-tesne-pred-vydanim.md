@@ -16,7 +16,7 @@ summary_points:
 - Děj se odehrává roku 955, kdy se očekává druhý příchod Krista.
 - Evropu ohrožují útoky a král Oto ztrácí moc, zatímco Boleslav upevňuje Čechy.
 - České vojsko rozhodne o osudu Evropy, proroctví o trojí vládě Čech hraje roli.
-title: "Špicl páně 955 těsně před vydáním"
+title: Špicl páně 955 těsně před vydáním
 ---
 
 Vydání první mojí letošní knihy je na spadnutí. Když to dobře půjde, potkáte se s ní na Světě knihy počátkem června. Jak se jmenuje? Nakonec "Špicl páně 955". Protože důležitý je jak _špicl_ , tak _pán_ , tak rok _955_. Hotová je už i obálka a známá je i cena - 349 Kč. Kdyby kniha vyšla před rokem, bylo by to o stokorunu méně, papír podražil a ještě ke všemu není. Tak už to chodí. 

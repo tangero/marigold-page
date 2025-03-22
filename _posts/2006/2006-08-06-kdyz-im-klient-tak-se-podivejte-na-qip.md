@@ -13,9 +13,7 @@ summary_points:
 - Autor přešel na Qip, protože nabízí funkce Mirandy s pluginy již v základu.
 - Qip má hot-klávesy, vyhledávání v historii a snadné přepínání viditelnosti kontaktů.
 - Qip filtruje nevyžádané zprávy efektivněji než Miranda s pluginem.
-title: "'Když IM klient, tak se podívejte na QIP"
-
-  '
+title: Když IM klient, tak se podívejte na QIP
 ---
 
 <p>V posledních pár dnech jsem dostal nebývale dotazů na Mirandu, kecálka instant messagingu - alternativu k ICQ, samozřejmě s podporou ICQ. Nejdříve jsem nevěděl, odkud vítr fouká a došlo mi to až později - má to být ten zaručeně nejlepší IM program v tomto universu. Jistě, že není - či spíše, jak pro koho.</p>

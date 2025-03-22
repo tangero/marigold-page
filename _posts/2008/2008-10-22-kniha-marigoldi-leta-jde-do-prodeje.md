@@ -15,7 +15,7 @@ summary_points:
 - Objednávky knihy budou expedovány od 4.11.2008, ideálně bez dobírky kvůli administrativě.
 - Osobní odběr knihy není možný a objednávky nelze kombinovat s jiným zbožím z Kronium.cz.
 - Knihy je vytištěno 45 kusů, při vyprodání a 20+ objednávkách bude dotisk.
-title: "Kniha Marigoldí léta jde do prodeje"
+title: Kniha Marigoldí léta jde do prodeje
 ---
 
 Tak se mi podařilo z cest zapravit vytištěnou knihu Marigoldí léta do shopu. Nakonec jsem pro jistotu použil engine pro Kronium.cz, což má pro mne výhodu (je to hned hotové) i nevýhody: jsou tu nabídky, které pro expedici této knihy nebudu schopen dodržet (jako platba dobírkou, nesnáším to papírování s tím). Doufám, že to omluvíte. 

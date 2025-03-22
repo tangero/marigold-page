@@ -13,7 +13,7 @@ summary_points:
 - Instalace e-bankingu Živnobanky je komplikovaná a vede k frustraci.
 - PavelS nedostal od Živnobanky hypotéku s úrokem dle webové nabídky.
 - Živnobanka držela PavlaS pět let na vysoké úrokové sazbě hypotéky.
-title: 'Živnostenská banka: je čas udělat pápá'
+title: Živnostenská banka -  je čas udělat pápá
 ---
 
 <p>Jsou bankovní ústavy, kterým nerozumím. Italskému majiteli se podařilo proměnit Živnostenskou banku ze sympatického ústavu na něco, co nechápu. Tento týden má Žiba dva zářezy.</p>

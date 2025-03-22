@@ -15,7 +15,7 @@ summary_points:
 - Autor se rozhodl sepsat knihu o novodobé historii Apple.
 - Psaní knihy komplikovala rekonstrukce domu a péče o dítě.
 - 'Kniha "Apple: cesta k mobilům" vyjde za dva měsíce, bude i elektronicky.'
-title: "Kniha Apple: cesta k mobilům"
+title: Kniha Apple -  cesta k mobilům
 ---
 
 <img src="http://www.marigold.cz/wp-content/uploads/a69d2b59-a288-4e4f-a1da-6b1703a26e4b.jpg" alt="A69D2B59-A288-4E4F-A1DA-6B1703A26E4B.jpg" border="0" width="230" height="354" align="right"/>Přišlo mi líto, že existuje jen velmi málo knih, které se věnují novodobé historii Apple a musím se přiznat, že  mě pravěk a modely jako Apple I/II nebo Lisa vlastně vůbec nevzrušují. Kdyby bylo jenom jich, byl by Apple sice zajímavou, ale jen mrtvou položkou počítačové historie. 

@@ -13,7 +13,7 @@ summary_points:
 - Holandské tarify Chello mají datové limity, české tarify je nemají.
 - Autor preferuje pomalejší internet bez datových limitů před rychlým s limitem.
 - Autor plánuje porovnat ceníky UPC v různých regionech.
-title: "UPC Chello u nás a v Holandsku – jsme dražší :("
+title: UPC Chello u nás a v Holandsku – jsme dražší  - (
 ---
 
 <p>

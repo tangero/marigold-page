@@ -17,7 +17,7 @@ summary_points:
   signálu.
 - Musk urychlil oznámení, aby předběhl podobnou službu od Applu a GlobalStar.
 - GlobalStar vyhradil pro Apple 85 % kapacity své satelitní sítě.
-title: "StarLink nabídne satelitní signál pro T-Mobile mobily (v USA)"
+title: StarLink nabídne satelitní signál pro T-Mobile mobily (v USA)
 ---
 
 Muskova satelitní síť StarLink nabídne v příštím roce také přenos zpráv a internet s limitovanou rychlostí v mobilních telefonech americké sítě T-Mobile. Půjde u využití frekvencí 5G StarLinkem pro výměnu signálu se sítí satelitů. [Detaily zde](https://www.rcrwireless.com/20220826/network-infrastructure/t-mobile-us-starlink-announce-spectrum-sharing-deal). Připojení přes Starlink bude rovněž záložním připojením ve všech vozech Tesla - vůz si bude moci přivolat pomoc i v oblasti, kde není běžný mobilní signál. 

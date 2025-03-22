@@ -13,7 +13,7 @@ summary_points:
 - Firma preferuje HSDPA kvůli smlouvě s Eurotelem, CDMA je méně výhodné.
 - T-Mobile 4G je alternativa, ale vyžaduje nový tarif a zařízení.
 - Uživatel nemůže najít seznam telefonů s podporou HSDPA.
-title: "Co v Praze vybrat za mobilní data a jaké HSDPA?"
+title: Co v Praze vybrat za mobilní data a jaké HSDPA?
 ---
 
 <texy>Potřeboval bych mírně načerpat praktických zkušeností od ostatních. V poslední době mám potřebu stále více se připojovat mobilně z běžného počítače typu notebook/UMPC na OS Windows i MacOS. Zatím se připojuju přes Nokia 6680 a 3G síť Eurotelu/O2. Jenže telefon mi už umírá a kouše se mi, takže žádný luxus. Proto přemýšlím o upgrade. Co byste doporučili vybrat?

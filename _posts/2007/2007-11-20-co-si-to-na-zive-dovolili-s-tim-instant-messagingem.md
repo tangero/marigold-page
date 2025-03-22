@@ -13,7 +13,7 @@ summary_points:
 - Instant messengery trpí uzavřeností, což je paradoxně i jejich výhoda.
 - Otevřené protokoly jako Jabber narážejí na nejednotnou podporu funkcí.
 - Autor preferuje ICQ a Skype, protože MSN/AIM ho nezaujaly.
-title: "Co si to na Živě dovolili s tím instant messagingem"
+title: Co si to na Živě dovolili s tím instant messagingem
 ---
 
 Včera jsem zachytil náhodou článeček, <a href="http://www.zive.cz/Bleskovky/Z-redakce-Koncime-s-ICQ-prechazime-na-Windows-Live-Messenger/sr-1-sc-4-a-139028/default.aspx">v němž se redakce Živě svěřovala</a>, že přechází z ICQ na MSN Messenger (vím, že se to zrovna v tuhle chvíli jmenuje jinak, ale MSNM byl nejtrvanlivější název). Pročíst si diskusi byla poněkud deprimující přehlídka lidské omezenosti. 

@@ -13,7 +13,7 @@ summary_points:
 - OnlineTVrecorder.com nabízí online nahrávání TV pořadů s úložným prostorem.
 - OnlineTVrecorder.com je v beta verzi a omezeno pro obyvatele vybraných států.
 - Cybersky-TV a OnlineTVrecorder.com by mohly fungovat propojeně.
-title: 'Cybersky-TV: P2P pro televizi plus internetový rekordér TV programů'
+title: Cybersky-TV -  P2P pro televizi plus internetový rekordér TV programů
 ---
 
 <p>Při svém každotýdenním procházení novinek v P2P aplikacích jsem narazil na zajímavost - Cybersky-TV. Zatím bohužel nejde o hotový software, ten by měl být dostupný až 12.4., to už je ale za chvíli. Tak uvidíme, zda to stihnou, nebo zase posunou. </p>

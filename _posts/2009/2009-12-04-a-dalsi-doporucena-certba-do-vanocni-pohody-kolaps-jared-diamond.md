@@ -18,7 +18,7 @@ summary_points:
 - Kniha Kolaps Jareda Diamonda zkoumá zánik a přežití společností s ohledem na prostředí.
 - Diamondova kniha analyzuje historické a ekonomické souvislosti vlivu prostředí na
   přežití.
-title: 'A další doporučená čertba do vánoční pohody: Kolaps (Jared Diamond)'
+title: A další doporučená čertba do vánoční pohody -  Kolaps (Jared Diamond)
 ---
 
 Slíbil jsem sice původně, že se příště podíváme do hájemství anglofonní literatury a dostanete pár doporučení na hutnou četbu, ale slib poruším, protože jsem nešťastnou náhodou (=pádem kreditky do čtečky) opět vyraboval česká knihkupectví. Osudným se mi stala řada Galileo v nakladatelství Academia, kde už delší dobu vydávají knihy, které spíš než bulvární počteníčko slibují široké představení problematiky. Letos je Darwinovský rok, každý se naváží do jeho teorie, či ji plamenné hájí, na wishlistu mám <a href="http://www.academia.cz/zamrzla-evoluce-aneb-je-to-jinak-pane-darwin.html">Flegrovu Zamrzlou evoluci</a>, ale my sáhneme po samotné podstatě destrukce, tématu to před vánoci aktuálnímu. 

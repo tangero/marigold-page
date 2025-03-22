@@ -20,8 +20,7 @@ summary_points:
 - Goldinová zkoumala vliv technologií, vzdělání a společenských norem na nerovnosti
   mezd.
 - Budoucí nerovnosti ovlivní trendy jako AI, práce z domova a délka rodičovské dovolené.
-title: "Claudia Goldinová dostala Nobelovu cenu za ekonomii za zjištění, že ženy jsou"
-  špatně placené?
+title: Claudia Goldinová dostala Nobelovu cenu za ekonomii za zjištění, že ženy jsou špatně placené?
 ---
 
 Letošní cenu za ekonomii udělovanou na paměť Alfréda Nobela dostala Claudia Goldinová, americká historička ekonomie vyučující na Harvardu. Dostala ji za “pokrok v chápání výsledků žen na trhu práce”, jak zní stručné zdůvodnění na webu švédské akademie udělující Nobelovu cenu. České sociální sítě se okamžitě rozbouřily hodnocením “pošahaná feministka, která vyzkoumala, co je evidentní” a akademie podlehla woke názoru, že cenu musí dostat ženská. Články na webech, které bojují za konzervativní svět, jako je třeba Echo24, byly v lepším případě jen stručně informující. Jak by ne, cenu si Goldinová nepochybně zasloužila přes postel, měla na to od narození v roce 1946 mnoho času. Nebo ne? Pojďme se spolu podívat na to, za co Claudia Goldinová dostala Nobelovu cenu. Pravděpodobně mi (a především akademii) později dáte za pravdu, že si ji zasloužila. Abych česká média jen nehaněl, pravděpodobně [nejlepší článek měl Deník N z pera Terezy Mynářové](https://denikn.cz/1252922/za-daty-jezdila-i-stopem-drzitelka-nobelovy-ceny-za-ekonomii-vysvetlila-proc-zeny-vydelavaji-mene/#p_lock). 

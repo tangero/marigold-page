@@ -14,10 +14,7 @@ summary_points:
 - Deaktivováno bylo minimálně 60 klientů, kteří nepodepsali novou verzi smlouvy.
 - UPC nabízí opětovné zapojení do hodiny po podpisu nové smlouvy.
 - UPC sjednocuje smluvní podmínky, i když zákazníci se starou smlouvou platili.
-title: "'UPC začlo odstřihovat zákazníky, kteří nepodepsali novou smlouvu (dost bylo"
-  apríla)
-
-  '
+title: UPC začlo odstřihovat zákazníky, kteří nepodepsali novou smlouvu (dost bylo apríla)
 ---
 
 <p>

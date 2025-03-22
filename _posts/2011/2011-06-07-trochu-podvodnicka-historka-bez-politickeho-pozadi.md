@@ -15,9 +15,7 @@ summary_points:
 - Autor promočený čekal na benzince, než se uklidní prudký déšť.
 - Po bouřce autor v promočeném stavu popíjel kávu v nákupním centru.
 - Autorův zážitek zakončilo "brekeke" na skupinku dětí.
-title: "'Trochu podvodnická historka bez politického pozadí"
-
-  '
+title: Trochu podvodnická historka bez politického pozadí
 ---
 
 Včera jsem si měl vyzdvihnout pár oficiálních dokumentů k jedné chystané akci a protože předávající nechtěl jezdit do města a já za ním do vesničky, tak jsme se shodli na kompromisu. Setkáme se ve čtyři na benzince Globusu za Ikeou na Černém mostě. Ideální prostředí na schůzku jak vystřihnutou z levnějšího akčního filmu. To jsem ještě nevěděl, že budu v hlavní roli.

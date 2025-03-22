@@ -13,7 +13,7 @@ summary_points:
 - ZTE plánuje továrnu na mobily v ČR a Ericsson vidí super 3G v roce 2007.
 - Dell integruje HSDPA do notebooků a Finsko vypisuje tendr na licenci 450 MHz.
 - QR kódy v mobilech zprostředkují informace o potravinách a Peugeot má 3G reklamu.
-title: "3G Týden: bude továrna na 3G mobily v ČR?"
+title: 3G Týden -  bude továrna na 3G mobily v ČR?
 ---
 
 <p>Napsal jsem další 3G Týden na Mobil.cz, ale nějak se mi tradičně podařilo ho špatně zadat do systému a tak se objevuje kdo ví kde. <a href="http://mobil.idnes.cz/mob_tech.asp?r=mob_tech&amp;c=A050517_234439_mob_operatori_zan">Přes tenhle link</a> se na něj nakonec dostanete.</p>

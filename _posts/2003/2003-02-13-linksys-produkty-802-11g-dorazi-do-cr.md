@@ -13,7 +13,7 @@ summary_points:
 - První Linksys 802.11g produkty dorazí v polovině března s dostatečnou zásobou.
 - WAP54G access point stojí 9500 Kč bez DPH, PCI karta WMP54G 3800 Kč.
 - PCI karta WMP54G by mohla být zajímavá pro CzFree páteřní spoje.
-title: "Linksys produkty 802.11g dorazí do ČR"
+title: Linksys produkty 802.11g dorazí do ČR
 ---
 
 <p>

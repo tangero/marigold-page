@@ -14,7 +14,7 @@ summary_points:
 - Hardware je stále více závislý na softwaru, který omezuje uživatelskou kontrolu.
 - Internet věcí a autonomní vozidla dále rozmazávají hranice vlastnických práv.
 thumbnail: https://www.marigold.cz/assets/digitalni-nevolnictvi.png
-title: 'Digitální nevolnictví: Bylo soukromé vlastnictví jen chvilkový přelud?'
+title: Digitální nevolnictví -  Bylo soukromé vlastnictví jen chvilkový přelud?
 ---
 
 <strong>TL;DR:</strong> softwarové EULA a DRM se stávají omezením soukromého vlastnictví, neboť software je dnes součástí skoro všeho. A vlastně to nikoho nepřekvapuje a nikdo to nerozporuje. Bude soukromé vlastnictví zase výjimečné, jako tomu bylo většinu historie lidstva?

@@ -12,7 +12,7 @@ summary_points:
 - Linksys dodává dualbandové WiFi produkty (G i A), ale do ČR se nedováží.
 - Planet pojednává o rušení WiFi bezdrátovými telefony.
 - DECT telefony v ČR WiFi neruší, ale jiné typy mohou.
-title: "Linksys dodává 802.11a+g zařízení. Rušení WiFi z bezdrátových telefonů?"
+title: Linksys dodává 802.11a+g zařízení. Rušení WiFi z bezdrátových telefonů?
 ---
 
 <p>

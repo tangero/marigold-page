@@ -13,9 +13,7 @@ summary_points:
 - Mládež v zemích s dabingem filmů méně čte, než v zemích bez dabingu.
 - Video na internetu, například YouTube, nahrazuje text v mnoha oblastech.
 - Čtení a psaní bude postupně méně podstatné, nahradí je audiovizuální sdělení.
-title: "'Předposlední generace, která umí číst"
-
-  '
+title: Předposlední generace, která umí číst
 ---
 
 Dostal jsem před nějakou dobou zajímavý nápad, jak se dokopat k tomu, abych dotáhl do konce věci, které mám rozepsané. Nemrzí mne, že jsem ještě nevydal stručného průvodce světem Fiber to the X, ještě mi ho kus chybí dopsat, ale takových věcí je řada, které mám rozepsané do půlky a zaseknu se na tom, že teoreticky je mám napsané a už mi chybí jen převod z hlavy do papírové podoby. 

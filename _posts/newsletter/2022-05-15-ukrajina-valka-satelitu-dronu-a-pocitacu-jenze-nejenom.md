@@ -23,7 +23,7 @@ summary_points:
   ART a crowdsourcingu.
 - Moderní válka se internetizuje, klade důraz na online propojení, automatizaci a
   decentralizaci řízení.
-title: 'Ukrajina: Válka satelitů, dronů a počítačů. Jenže nejenom.'
+title: Ukrajina -  Válka satelitů, dronů a počítačů. Jenže nejenom.
 ---
 
 Není to tak dávno, co jsem chtěl psát o válce mezi dvěma zeměma, jejichž jméno jsem zapomněl, _něco jako Azerbajdžán a Arménie_ 😈. Na té válce bylo zajímavé především masivní použití dronů. Vojenští stratégové se rozplývali, jak důležité bylo zapojení dronů. [Dobrý český článek najdete zde](https://www.czdefence.cz/clanek/delostrelectvo-versus-drony). Napsat jsem o tom tehdy nestihl. Jednak proto, že věrohodných informací ze skutečného pozadí bylo pramálo a pak také proto, že pořád ještě nebylo signifikantní, jak se mění to, čemu říkáme paradigma. 

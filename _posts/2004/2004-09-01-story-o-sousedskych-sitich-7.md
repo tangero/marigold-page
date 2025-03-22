@@ -13,7 +13,7 @@ summary_points:
 - Síťová karta se povysunula, což způsobilo desetiminutové hledání problému.
 - HW AP Orinoco AP-1000 stávkují a mají problémy s ethernetem.
 - Autor hledá firmware nebo software pro AP-1000, který je EOL.
-title: "Story o sousedských sítích (7.)"
+title: Story o sousedských sítích (7.)
 ---
 
 <p>

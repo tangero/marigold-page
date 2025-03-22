@@ -16,9 +16,7 @@ summary_points:
 - Digitální televize (DVB-H, DAB) má nejasný úspěch a problematické měření návratnosti.
 - WiMax se stal součástí 3G standardu, ale obchodní úspěch je nejistý.
 - Technologická neutralita umožňuje volbu technologie pro širokopásmové služby.
-title: "'Mobile World Congress 2008 právě začal"
-
-  '
+title: Mobile World Congress 2008 právě začal
 ---
 
 Každoroční Mobilní kongres pořádaný GSM Asociací právě začal na výstavišti Fira di Barcelona pod bývalou letní rezidencí barcelonského prince Montjuic. A jako každým rokem i zde se budou psát a aklamovat trendy, které mají telekomunikace provázet v příštích letech. Ale nenechme se blamovat. Stejně jako každý rok i letos je to spíše výstava tužeb výrobců, než přehlídka požadavků zákazníků. A to mějme na paměti: jsou zde představovány věci, u kterých se spíše doufá, že se na trhu chytí, jejichž konkurenceschopnost potvrzují spíše prognózy analytiků, než údaje o počtu prodaných kusů. 

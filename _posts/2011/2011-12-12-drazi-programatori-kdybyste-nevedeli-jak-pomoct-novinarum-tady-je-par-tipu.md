@@ -16,9 +16,7 @@ summary_points:
 - Programátoři mohou vytvořit službu pro sledování změn firem v Obchodním rejstříku.
 - Služba by měla novináře upozornit na změny firem zadaných podle IČ.
 - Dále by se mohlo sledovat změny osob ve statutárních orgánech firem.
-title: "'Drazí programátoři, kdybyste nevěděli, jak pomoct novinářům, tady je pár tipů"
-
-  '
+title: Drazí programátoři, kdybyste nevěděli, jak pomoct novinářům, tady je pár tipů
 ---
 
 Na Twitteru se umí programátoři hezky odvázat, když jde o to, nakydat na novináře hnůj. A tak mě napadlo, že bych mohl programátorům, kteří touží být společensky užiteční, nabídnout pár tipů, jak ulehčit život novinářům, kteří se o to snaží taktéž. Ne, psaním článků to nebude. Ale pomůže udělat rozhraní mezi státními službami a novinářem. 

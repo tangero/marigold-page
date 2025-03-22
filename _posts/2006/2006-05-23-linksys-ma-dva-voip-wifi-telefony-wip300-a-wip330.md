@@ -13,7 +13,7 @@ summary_points:
 - WIP330 nabízí 2,2" LCD, webový prohlížeč pro hotspoty a 802.1x autentizaci.
 - Cena WIP300 je 220 USD, WIP330 stojí 370 USD a podporuje internetové video.
 - WIP330 je určen pro cestování díky podpoře přihlašování do různých sítí.
-title: "Linksys má dva VoIP WiFi telefony: WIP300 a WIP330"
+title: Linksys má dva VoIP WiFi telefony -  WIP300 a WIP330
 ---
 
 <p>Linksys přichází na trh (samozřejmě ten americký zatím) se dvěma VoIP telefony, jež se připojují skrze WiFi. Není to žádná novinka, s VoIP WiFi telefony se roztrhl tak pytel, že už se jim muselo začít nějak šikovné říkat, což má být VoWLAN - jako Voice over Wireless LAN. Jenže Linksys, to je něco trošičku jiného, než asijská rychlofabrička - Linksys má jméno a Cisco v zádech. Navíc potřebovalo ukázat něco, s čím by vytřelo zrak NetGearu, an nedávno představil VoWLAN telefon podporující Skype (ještě se neprodává). Linksys samozřejmě podporuje SIP. </p>

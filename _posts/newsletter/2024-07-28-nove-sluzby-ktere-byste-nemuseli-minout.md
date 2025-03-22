@@ -13,7 +13,7 @@ summary_points:
 - Room GPT redesignuje pokoje z fotografií pomocí AI, první zdarma.
 - Excel Formula Bot řeší problémy v Excelu a Google Sheets pomocí AI.
 - Larry the Elf pomáhá s výběrem dárků pro různé osoby zdarma.
-title: "\U0001F4CANové služby, které byste nemuseli minout"
+title: \U0001F4CANové služby, které byste nemuseli minout
 ---
 
 Je to trochu bez ladu a skladu, dělám to s ohledem na věci, na které se mě lidé ptají na školení AI, ale je to dobrý průřez toho, co zrovna v AI nástrojích frčí (vynechávám už spíš nezajímavé nástroje pro avatary, fotomanipulace a jiné obrazové obyčejnosti)

@@ -13,7 +13,7 @@ summary_points:
 - WiFi v Cisco telefonu je pouze přidělávka k ethernetovému zařízení.
 - Některá média chybně interpretovala zprávu o WiFi v telefonu Cisco.
 - Autorovi přestala fungovat WiFi kvůli plánovanému vypnutí proudu.
-title: "Cisco telefon vede"
+title: Cisco telefon vede
 ---
 
 <p>

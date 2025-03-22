@@ -13,7 +13,7 @@ summary_points:
 - Měsíční poplatek za internet přes Wiracom činí 500 Kč.
 - Wiracom sdílí internetovou linku o rychlosti 128 kbps.
 - Vysoké ceny Telecomu vedou k rozvoji komunitních sítí.
-title: "CzFree Rakovník aneb Wiracom"
+title: CzFree Rakovník aneb Wiracom
 ---
 
 <p>

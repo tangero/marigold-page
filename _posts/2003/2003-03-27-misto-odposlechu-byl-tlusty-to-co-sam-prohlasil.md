@@ -14,7 +14,7 @@ summary_points:
   osobu".
 - Tlustý žaluje Eurotel, tvrdí, že z něj dělají idiota kvůli ovládání mobilu.
 - Tlustý zřejmě stáhne žalobu, protože by ji nemohl vyhrát a je pod jeho úroveň.
-title: "Místo odposlechu byl Tlustý to co sám prohlásil…"
+title: Místo odposlechu byl Tlustý to co sám prohlásil…
 ---
 
 <p>

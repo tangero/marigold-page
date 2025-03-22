@@ -13,7 +13,7 @@ summary_points:
 - Zařízení podporuje režimy AP, klient, router, NAT router a WDS.
 - Regulace vyzářeného výkonu je možná v rozsahu 3-20 dBm.
 - Cena WRT-311 je 1582,70 Kč s DPH pro neregistrované.
-title: "WRT-311 AP/Router/Client"
+title: WRT-311 AP/Router/Client
 ---
 
 <p><strong>Noname píše:</strong>

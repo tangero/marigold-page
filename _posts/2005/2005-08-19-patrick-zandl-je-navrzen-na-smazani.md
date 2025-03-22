@@ -13,7 +13,7 @@ summary_points:
 - Autor nesouhlasí s argumentem o nedostatečné reprezentativnosti v kategoriích.
 - Autor se ptá, proč by neměli mít profily i méně známé osobnosti.
 - Autor kritizuje malý zájem encyklopedií o moderní témata.
-title: "Patrick Zandl je navržen na smazání"
+title: Patrick Zandl je navržen na smazání
 ---
 
 <p>Dneska mi statistický program posílající mi nové zajímavé stránky odkazující na Marigolda (=dobrý zdroj nových webů o wifi a technice) vyplivl odkaz do wikipedie končící mým jménem. Překvapilo mne to a tak jsem se na něj šel podívat. Skutečně, česká Wikipedie má <a href="http://cs.wikipedia.org/wiki/Patrick_Zandl">jako heslo moje jméno</a>. Žádný obsáhlý životopis, nicméně autor hesla věděl, kde a kdy jsem se narodil, to není zase tak málo. Pak jsem se podíval na heslo pořádně a vidím popisek, že je navrženo na smazání. Protože jsem nikdy moc českou Wikipedii nepoužíval, prohlédl jsem si to – je to moc pěkná kolaborativní funkce, u hesla lze hlasovat, zda a proč by podle vás mělo být smazáno. Heslo o mně je označeno jako „ješitný článek“ – ve vysvětlivkách, co je to takový ješitný článek se uvádí, že si ho zřejmě autor napsal sám nebo z jiného důvodu je moc pochvalné :) Tak jen pro pořádek – nenapsal jsem si ho sám a pisatele neznám :) Ale to není podstatné. </p>

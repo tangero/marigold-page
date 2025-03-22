@@ -15,7 +15,7 @@ summary_points:
 - HD Ready televize vyžadují deformaci obrazu, což snižuje věrnost, ale jsou cenově
   dostupné.
 - HDMI port je klíčový pro připojení HD přehrávačů a počítačů, DVB-T tuner není nutný.
-title: 'Průvodce předvánočním nákupem ploché televize: LCD versus Plazma atd'
+title: Průvodce předvánočním nákupem ploché televize -  LCD versus Plazma atd
 ---
 
 <texy>Rok s rokem se sejde, Santa Klaus zvonečky v hypermarketech zacinká a k nákupnímu šílenství zvanému poesie vánoc patří stejně neodmyslitelně, jako bezobsažné plky politiků, také marigoldí článek věnovaný nákupu nového placatého televizoru. 

@@ -13,7 +13,7 @@ summary_points:
 - Národní vysokorychlostní laboratoř z Národní broadband strategie byla zrušena.
 - Původní myšlenka laboratoře se ukázala příliš složitá a obsáhlá.
 - Text broadband politiky je kratší než Peterkův článek na Lupa.cz.
-title: 'Ad: zřízení Národní vysokorychlostní laboratoře'
+title: Ad -  zřízení Národní vysokorychlostní laboratoře
 ---
 
 <p>

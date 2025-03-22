@@ -15,7 +15,7 @@ summary_points:
   služeb.
 - Celodenní přístup k WiFi od T-Mobile stojí 500 Kč, což je srovnatelné s měsíčním
   připojením.
-title: "T-Mobile Hotspoty od ledna naostro – a za peníze"
+title: T-Mobile Hotspoty od ledna naostro – a za peníze
 ---
 
 <p>

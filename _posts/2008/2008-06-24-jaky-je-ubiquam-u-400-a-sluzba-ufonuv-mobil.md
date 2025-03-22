@@ -17,7 +17,7 @@ summary_points:
 - Cena U-400 je 3000-5000 Kč s tarifem Za Nula a pětikilem jistiny.
 - U-400 nabízí hovory, hlasovou schránku, SMS a časem datové přenosy.
 - SMS zprávy na U-400 jsou problematické kvůli T9 a délce zpráv.
-title: "Jaký je Ubiquam U-400 a služba Ufonův Mobil"
+title: Jaký je Ubiquam U-400 a služba Ufonův Mobil
 ---
 
 Ufonův mobil jsem si pořídil dobrovolně, protože jsem mu chtěl dát šanci. Není to recenze novináře, který znechuceně nafasoval mobil, ale názor někoho, kdo vážně přemýšlel nad tím, že by Ufonův mobil používal. Protože mám rád změnu. Protože mám rád zajímavé tarify. A nakonec i proto, že jsem si říkal: proč taky jednou nemít úplně obyčejný mobil, který nic neumí. Minimálně v tom posledním Ufonův mobil vyhoví dokonale. 

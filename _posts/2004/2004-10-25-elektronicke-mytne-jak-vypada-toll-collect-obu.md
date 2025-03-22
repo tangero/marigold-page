@@ -13,7 +13,7 @@ summary_points:
 - OBU se montuje do kamionu a sleduje jeho polohu na dálnici.
 - GPS rušičky a souběžné komunikace způsobovaly problémy systému.
 - Toll Collect zavedl kontrolní místa pro ověření funkčnosti OBU.
-title: "Elektronické mýtné – jak vypadá Toll Collect OBU"
+title: Elektronické mýtné – jak vypadá Toll Collect OBU
 ---
 
 <p>

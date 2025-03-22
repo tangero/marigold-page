@@ -13,7 +13,7 @@ summary_points:
 - Masové používání navigací způsobuje problémy v městech s nedostatečnou infrastrukturou.
 - Města se snaží řešit problémy způsobené navigacemi omezením rychlosti a průjezdu.
 - Řešením problémů s dopravou ve městech může být posílení hromadné dopravy a chodců.
-title: "Jak se GPS spam dotýká měst"
+title: Jak se GPS spam dotýká měst
 ---
 
 I GPSka dělá problémy se spamováním. Zdálo by se, že je to technologie dost neutrální, ba i zajištěná na to, aby se nic takového nestávalo, jenže to tak docela není pravda. Dnes není problémem jen samotné zajištění a neprolomitelnost technologie, ale i její masové používání. To vede k dosud nedomýšleným důsledkům. Jako v případě GPS a inteligentních navigací.

@@ -17,7 +17,7 @@ summary_points:
 - Video bylo stříháno v náročných podmínkách a s nespolehlivým iMovie 08.
 - Dostupné jsou DivX a Flash verze videa, obě o velikosti 28 MB.
 - První díl videa se zaměřuje na Mobile Inovative Forum.
-title: "Lomítko /2 – video z Barcelony"
+title: Lomítko /2 – video z Barcelony
 ---
 
 Tak tu máme první naše video z MWC 2008. Spousta problémů s jeho rozchozením, zapoměl jsem znělku doma, takže je tam nasmažená provizorní, přemázl jsem si rozloučení, takže končíme dost náhle atd. Chtěli jsme si to vyzkoušet, pohrát si trochu s videem. Stříhat to v sedě na posteli je něco jiného, než ve střižně, navíc od půlnoci a po malé párty, hm, má to své vady. Navíc iMovie 08 mne pěkně zklamalo. Musel jsem downgradovat na iMovie 6 a asi se budu muset naučit FinalCut :(

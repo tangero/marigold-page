@@ -17,9 +17,7 @@ summary_points:
 - Při slábnoucím 3G signálu T-Mobile shazuje do EDGE, data zamrznou.
 - Restart mobilu nebo letecký mód často obnoví nefunkční mobilní data.
 - Problém se opakuje na různých mobilech, u Vodafone a O2 nenastává.
-title: "'Proč má T-Mobile tak mizerná mobilní data?"
-
-  '
+title: Proč má T-Mobile tak mizerná mobilní data?
 ---
 
 Když jsem přecházel od Vodafone k T-Mobile, myslel jsem, že je to jen suché cenové rozhodnutí. Říkal jsem si, že mohou být rozdíly drobné, lokální - vím, že v jednom místě, kde pobývám často, nemá T-Mobile signál, zatímco Vodafone tam chytnu, když si stoupnu na špičky. Ale jedna věc mě za ten téměř měsíc fascinuje. T-Mobile má neuvěřitelně mizerná 3G mobilní data, alespoň v Praze (jinde jsem je ještě nepoužíval).

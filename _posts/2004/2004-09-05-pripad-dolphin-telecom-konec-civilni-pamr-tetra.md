@@ -13,9 +13,7 @@ summary_points:
 - TIW, Chase Manhattan a Motorola stáli za Dolphinem, který v roce 2001 zastavil vývoj.
 - Qualcomm navrhl využití spektra Dolphinu pro CDMA450, což vedlo k označení CDMA-PAMR.
 - Portugalský regulátor souhlasil s CDMA450, ale ve Francii a Británii Dolphin neuspěl.
-title: "'Případ Dolphin Telecom – konec civilní PAMR TETRA"
-
-  '
+title: Případ Dolphin Telecom – konec civilní PAMR TETRA
 ---
 
 <p>

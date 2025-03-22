@@ -15,7 +15,7 @@ summary_points:
   s nulovou klidovou spotřebou.
 - Release 21 má být prvním 6G standardem, s rychlostmi v D-Band nad 100 GHz a podporou
   zařízení s ultranízkou latencí.
-title: "Co přijde po 5G?"
+title: Co přijde po 5G?
 ---
 
 Odpověď je vlastně teoreticky jednoduchá: 6G. Jenže, jak může síť šesté generace vypadat, k čemu by mohla být a jaká k ní bude cesta?

@@ -13,7 +13,7 @@ summary_points:
 - USA zpřísňují vývoz čipů pro AI do Číny, cílí na Nvidia A800.
 - Čínská Baidu tvrdí, že její chatbot Ernie překonává ChatGPT.
 - AI startupy v USA získávají miliardové investice, například Inflection AI.
-title: 'AI: Čína versus USA'
+title: AI -  Čína versus USA
 ---
 
 Závody o AI nejsou jen obchodní, ale i velmocenskou záležitostí. A zápolením o to, jak bude vypadat náš budoucí svět. Že v tomto zápolení není Rusko, asi nikoho nepřekvapí, souboj se zatím odehrává mezi Čínou a USA. 

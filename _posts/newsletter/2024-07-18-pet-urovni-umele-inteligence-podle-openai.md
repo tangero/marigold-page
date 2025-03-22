@@ -12,7 +12,7 @@ summary_points:
 - Reasoners, úroveň 2, samostatně řeší základní problémy na úrovni doktorského vzdělání.
 - Organizátoři, úroveň 5, budou schopni vykonávat práci celé organizace.
 - Sam Altman předpovídá dosažení páté úrovně do deseti let, jiní odborníci do padesáti.
-title: "Pět úrovní umělé inteligence podle OpenAI"
+title: Pět úrovní umělé inteligence podle OpenAI
 ---
 
 Agentura [Bloomberg odcitovala](https://www.bloomberg.com/news/articles/2024-07-11/openai-sets-levels-to-track-progress-toward-superintelligent-ai?embedded-checkout=true) pět úrovní umělé inteligence, které povedou ke schopnostem převyšujícím tu lidskou. 

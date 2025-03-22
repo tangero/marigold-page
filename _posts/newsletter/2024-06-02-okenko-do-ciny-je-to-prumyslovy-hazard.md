@@ -15,7 +15,7 @@ summary_points:
   USA/EU.
 - Čína přesouvá výrobu a posiluje vliv v rozvojových zemích, což je riskantní strategie.
 - Marxistická perspektiva vidí pád říší v nadměrném vykořisťování lidu vládnoucí třídou.
-title: "\U0001F1E8\U0001F1F3Okénko do Číny: je to průmyslový hazard?"
+title: \U0001F1E8\U0001F1F3Okénko do Číny -  je to průmyslový hazard?
 ---
 
 Zajímavý článek věnovaný Číně od Johna Rapleyho, autora knihy Why Empires Fall: [Riskantní průmyslový hazard Číny může skončit jako Sovětský svaz](https://www.theglobeandmail.com/business/commentary/article-chinas-risky-industrial-gamble-might-end-the-way-of-the-soviet-union/). Čína podle článku vsází na novou průmyslovou revoluci, přičemž ekonomické zpomalení ji přimělo hledat způsoby, jak znovu nastartovat růst. Místo zvýšení domácí spotřeby se země rozhodla investovat do rozvoje nových průmyslových odvětví, jako jsou obnovitelné zdroje energie a umělá inteligence. Produkce roste, ale záplavu levného čínského exportu vede USA/EU k ochranářským opatřením. 

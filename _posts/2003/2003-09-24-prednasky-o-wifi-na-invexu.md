@@ -13,7 +13,7 @@ summary_points:
 - Přednášky seznámí uživatele s WiFi technologiemi, možnostmi a cenami.
 - Šest přednáškových bloků zahrnuje témata od zabezpečení po provoz hotspotů.
 - WiFi pavilon nabízel připojení, notebooky IBM a prezentaci firem z oboru.
-title: "Přednášky o WiFi na Invexu"
+title: Přednášky o WiFi na Invexu
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - SOM hodnota nad 20 dB indikuje provozuschopnou WiFi trasu dle kalkulátoru.
 - Utilita dále převádí jednotky a kalkuluje vyzářený výkon bezdrátových spojů.
 - Program je volně ke stažení pro Windows z webu Ferimexu.
-title: "WLAN calculator od Ferimexu zdarma"
+title: WLAN calculator od Ferimexu zdarma
 ---
 
 <p>

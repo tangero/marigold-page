@@ -14,8 +14,7 @@ summary_points:
 - Výrobci odkládají 5GHz WiFi zařízení kvůli nejednotnosti Evropy ohledně 802.11h.
 - Slovenský překlad knihy Bezdrátové komunitní sítě je zdarma na SkFree.Net.
 - RDC.cz nabízí seriál o Bluetooth a tutoriály pro Symbian a J2ME aplikace.
-title: "'WiFidrobky: WPA2, IEEE802.11e, download knihy o WiFi ve slovenštině,"
-  tip na RDC.cz'
+title: WiFidrobky -  WPA2, IEEE802.11e, download knihy o WiFi ve slovenštině, tip na RDC.cz
 ---
 
 <p>

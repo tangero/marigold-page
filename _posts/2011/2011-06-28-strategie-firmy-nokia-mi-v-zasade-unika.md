@@ -15,7 +15,7 @@ summary_points:
 - N9 tak bude mít jen sběratelskou hodnotu kvůli ukončení podpory MeeGo.
 - Možným důvodem uvedení N9 je testování unibody designu pro WP7 telefony.
 - Strategie Nokie s MeeGo a WP7 je nejasná, ohrožuje i investice do Qt.
-title: "Strategie firmy Nokia mi v zásadě uniká"
+title: Strategie firmy Nokia mi v zásadě uniká
 ---
 
 Když minulý týden představovala Nokia svůj model N9 s operačním systémem MeeGo, říkal jsem si, že je dobře, že mu dávají šanci. Operační systém napsaný na linuxovém jádru by mohl mít šanci, pokud je napojený na dostupný framework (Qt v tomto případě), pro který už je alespoň základní ekosystém. Nezačínáte z voleje, máte k dispozici sadu základních aplikací včetně super map a prohlížeče, který když mu konečně uděláte nové ovládání (a oni udělali), tak bude fajn. 

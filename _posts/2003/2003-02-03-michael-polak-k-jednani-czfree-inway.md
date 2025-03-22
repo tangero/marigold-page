@@ -14,7 +14,7 @@ summary_points:
 - Michal Polák (xChaos) platí Inway za služby a je považován za zákazníka.
 - CzFree nemůže členům nařídit instalaci techniky Inway, garantují jen jednotliví
   členové.
-title: "Michael Polák k jednání CzFree InWay"
+title: Michael Polák k jednání CzFree InWay
 ---
 
 <p>

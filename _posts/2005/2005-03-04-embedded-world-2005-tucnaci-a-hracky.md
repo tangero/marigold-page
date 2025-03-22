@@ -14,7 +14,7 @@ summary_points:
 - Linux posiluje v embedded oblasti, tradiční výrobci na něm usilovně pracují.
 - Automobilová elektronika se točila okolo CAN sběrnice a vývojových prostředí.
 - Autor Zdeněk Švarc veletrh Embedded World 2006 nenadchl ani nezklamal.
-title: "Embedded World 2005, tučnáci a hračky"
+title: Embedded World 2005, tučnáci a hračky
 ---
 
 <p>Zdeněk Švarc byl na letošním Embedded Worldu a napsal článeček pro všechy, kteří se na něj nedostali. Fotky jsou pořízeny mobilem, protože fotoaparát zapomněl :)</p>

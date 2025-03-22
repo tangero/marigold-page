@@ -14,9 +14,7 @@ summary_points:
 - Dotace v EU jsou projevem solidarity bohatších regionů s chudšími.
 - Dotace jsou především infrastrukturní a investice do budoucnosti.
 - Dotace jsou možností k lepšímu životu, ale vyžadují zodpovědné zacházení a správu.
-title: "'Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan"
-
-  '
+title: Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan
 ---
 
 Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je ve skutečnosti platí? Zdálo by se, že dotace jsou smrt Evropy stejně, jako pomazánkové máslo nebo křivá okurka, protože deformují společnost, ničí podnikatelského ducha a jsou čisté zlo. Ve skutečnosti jsou dotace dalším “vrtěti psem” - pro někoho výtahem k moci (Mach), pro jiné odvádění pozornosti a kultivace jednoduché pozornosti (Zeman) či prostě jen přežívání v patrech vyšší politiky (Huml a další řádka pofiderních politiků z ČSSD i ODS). Na to, abyste došli k takovému závěru, stačí trocha selské úvahy. Jen mít čas ji provést. Pojďme na to spolu. 

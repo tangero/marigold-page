@@ -13,8 +13,7 @@ summary_points:
 - Článek se zabývá nedůvěrou autorů v novinařinu a etické kodexy.
 - Autoři budou dokladovat důsledky této nedůvěry v dalších dílech.
 - Dnes se zaměří na obranu Seznamu proti Telecomu.
-title: "'Páteční čtení: Proč jsme nevěřili na novinařinu a jak jsme bránili Telecomu"
-  zlikvidovat seznam'
+title: Páteční čtení -  Proč jsme nevěřili na novinařinu a jak jsme bránili Telecomu zlikvidovat seznam
 ---
 
 <p>Je pátek, musíte sedět v práci a čučet do monitoru, aby boss neřval - a právě pro takové chvíle je tu Páteční čtení. Čtení o časech dávno minulých, ale ne zase tak dávno minulých, aby krajinou projížděli rytíři na koních bez bázně a hany. Prostě jen tak akorát minulých, abychom už se mohli jen zasmát tomu, co se stalo, i když se nás to tehdy třeba dotklo. </p>

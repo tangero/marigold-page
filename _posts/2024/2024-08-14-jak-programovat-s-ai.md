@@ -15,7 +15,7 @@ summary_points:
 - Python a Flask jsou vhodné pro začátečníky.
 - Heroku doporučeno pro snadné nasazení aplikací.
 thumbnail: https://www.marigold.cz/assets/prgramovani-s-ai.png
-title: "Návod na programování s AI, když programovat neumíte"
+title: Návod na programování s AI, když programovat neumíte
 ---
 
 Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři. A na to se dnes podíváme. Článek tedy není určen pro programátory ke zvyšování jejich produktivity, ale neprogramátorům, kteří občas potřebují vytvořit nějaký program.

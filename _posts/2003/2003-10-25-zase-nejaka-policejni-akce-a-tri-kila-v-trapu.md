@@ -13,7 +13,7 @@ summary_points:
 - Chlumec nad Cidlinou je kritický bod trasy kvůli semaforům a absenci obchvatu.
 - Přezouvání pneumatik v Rudné trvalo dvě hodiny kvůli vytíženosti pneuservisu.
 - Řidič dostal pokutu 300 Kč za prasklinu na čelním skle u svého bydliště.
-title: "Zase nějaká policejní akce – a tři kila v trapu :("
+title: Zase nějaká policejní akce – a tři kila v trapu  - (
 ---
 
 <p>

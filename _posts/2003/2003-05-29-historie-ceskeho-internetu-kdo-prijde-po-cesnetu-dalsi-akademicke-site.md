@@ -13,7 +13,7 @@ summary_points:
 - Akademická léta českého internetu se blíží ke konci, nastoupí léta učednická.
 - Vývoj internetu Cesnetem neskončil, rychlý internet je celosvětová priorita.
 - Odkaz vede na pokračování článku o historii českého internetu.
-title: "Historie českého internetu: Kdo přijde po CESNETu? Další akademické sítě…"
+title: Historie českého internetu -  Kdo přijde po CESNETu? Další akademické sítě…
 ---
 
 <p>

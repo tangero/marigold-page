@@ -10,8 +10,7 @@ summary_points:
 - Autor ji smazal, protože cíloví čtenáři už nejsou technologií nadšeni.
 - Česko nehraje významnou roli ve vývoji mobilních technologií.
 - Autor zvažuje přepracování knihy do dětské formy pro budoucí generace.
-title: "'Kniha o mobilních sítích: vyhozeno, smazáno. K čemu taky takových"
-  knih.'
+title: Kniha o mobilních sítích -  vyhozeno, smazáno. K čemu taky takových knih.
 ---
 
 <p>Vloni jsem si dal závazek dodělat knihu věnovanou moderním mobilním telekomunikačním sítím. Zhruba jsem ji dodělal. Chyběly mi kapitoly věnované kusům GSM sítí, které se nikdy moc nechytily (jako HSCSD), pár textů kolem nových konceptů v sítích 4G a 5G, které ještě ani nemají standard. Před pár dny jsem ji celou vyhodil. Smazal.</p>

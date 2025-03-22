@@ -15,7 +15,7 @@ summary_points:
 - Čtenáři preferují bezplatný obsah, protože placený obsah nenabízí dostatečnou přidanou
   hodnotu.
 - Weblogy poskytují dostatečné informace zdarma, čímž snižují potřebu placeného obsahu.
-title: 'Platby za obsah: Věhlas versus bohatství'
+title: Platby za obsah -  Věhlas versus bohatství
 ---
 
 Mikroplatby za obsah se nechytily. Jenže proč? A proč je tolik obsahu na internetu zdarma?<!--more--><p>

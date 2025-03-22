@@ -14,9 +14,7 @@ summary_points:
   000 Kč.
 - Autor Ronji Clock zpochybňuje dodržování GLP licence AlphaWave.
 - Diskutuje se fakturace AlphaWave a obchodování s kapacitou CzFree.
-title: "'Eshop pod jménem hlavy CzFree Net je tady"
-
-  '
+title: Eshop pod jménem hlavy CzFree Net je tady
 ---
 
 <p>

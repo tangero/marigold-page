@@ -13,7 +13,7 @@ summary_points:
 - Čtenář v diskusi humorně poukazuje na možné problémy s PoC v praxi.
 - Scénka ilustruje zmatek a neefektivitu způsobenou zpožděním a souběžnými hovory.
 - Autor článku viděl PoC naživo a upozorňuje na zpoždění a řešení souběžných hovorů.
-title: "Push to talk over Cellular – praktický příklad :)"
+title: Push to talk over Cellular – praktický příklad  - )
 ---
 
 <p>

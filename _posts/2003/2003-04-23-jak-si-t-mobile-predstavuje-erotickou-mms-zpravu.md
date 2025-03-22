@@ -13,9 +13,7 @@ summary_points:
 - Erotická MMS zpráva T-Mobile stála 22 Kč.
 - Autor kritizuje zpoždění a pochybnou kvalitu služby T-Mobile.
 - Ceny a další informace o MMS T-Mobile jsou dostupné na mobil.cz.
-title: "'Jak si T-Mobile představuje erotickou MMS zprávu"
-
-  '
+title: Jak si T-Mobile představuje erotickou MMS zprávu
 ---
 
 <p>

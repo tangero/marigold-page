@@ -14,7 +14,7 @@ summary_points:
 - Hopfield a Hinton získali Nobelovu cenu za fyziku za přínos umělým neuronovým sítím.
 - Objevitelé položili základy moderní umělé inteligence (AI) svým převratným výzkumem.
 - Makroskop newsletter detailně popisuje Nobelovu cenu za ekonomii.
-title: "Nobelova cena za neuronové sítě"
+title: Nobelova cena za neuronové sítě
 ---
 
 [![](https://substack-post-media.s3.amazonaws.com/public/images/da2b78fa-2737-405c-8a58-7bd4e8fd41c1_1140x641.heic)](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda2b78fa-2737-405c-8a58-7bd4e8fd41c1_1140x641.heic)

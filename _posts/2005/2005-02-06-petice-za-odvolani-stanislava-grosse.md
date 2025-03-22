@@ -14,7 +14,7 @@ summary_points:
 - Gross nedoložil původ peněz na byt a jeho manželka příjmy z podnikání.
 - Gross tajně vytvořil dva policejní týmy mimo kontrolu institucí.
 - Gross jmenoval Pavla Přibyla z Pohotovostního pluku SNB na Úřad vlády.
-title: "Petice za odvolání Stanislava Grosse"
+title: Petice za odvolání Stanislava Grosse
 ---
 
 <p>Filip Rožánek s Martinem Malým (Artur Dent) sestavili <a href="http://www.bloguje.cz/petice/" >petici za odvolání premiéra Stanislava Grosse</a>.

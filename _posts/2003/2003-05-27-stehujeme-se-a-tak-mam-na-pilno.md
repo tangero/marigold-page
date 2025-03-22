@@ -13,7 +13,7 @@ summary_points:
 - Bořík hledal levné prostory, například šatny za 3000 Kč měsíčně.
 - Garáže jako kancelář byly zamítnuty kvůli špatnému přístupu a vzhledu.
 - Stěhování bude do budovy Armabetonu (Lumira) na Pankráci.
-title: "Stěhujeme se a tak mám na pilno"
+title: Stěhujeme se a tak mám na pilno
 ---
 
 <p>

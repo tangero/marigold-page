@@ -14,10 +14,7 @@ summary_points:
   internetu.
 - EK se zaměřuje na autorská práva a zodpovědnost autorů online obsahu.
 - Komise zvažuje podporu online médií, například formou digitálního papíru a e-knih.
-title: "'Chce Evropská komise skřípnout internetové vydavatele nebo novináři vypustili"
-  kachnu?
-
-  '
+title: Chce Evropská komise skřípnout internetové vydavatele nebo novináři vypustili kachnu?
 ---
 
 <p>Když jsem si dneska přečetl článek na iDNESu s nadpisem <a href="http://zpravy.idnes.cz/zahranicni.asp?r=zahranicni&amp;c=A050920_162459_zahranicni_miz">Novinám klesá náklad, EU zvažuje regulaci internetu</a>, byl jsem v šoku. A stejně jako ostatní diskutující jsem začal nadávat na ty kretény v Evropské komisi. Pak se mi to rozleželo v hlavě a pravil jsem sobě, že k tomu nelze mlčet. Našel jsem si kontakt na zmíněnou komisařku Viviane Redingovou (<a href="http://en.wikipedia.org/wiki/Viviane_Reding">info o ní zde</a>) a rozhodl jsem se zatelefonovat ji svůj názor a vyřknout jej slovy, jenž nenaleznete ve slovníku spisovné evropštiny. </p>

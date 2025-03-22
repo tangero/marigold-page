@@ -13,9 +13,7 @@ summary_points:
 - Eurotel spustil CDMA v srpnu, což zvýšilo příchozí provoz přes NIX.
 - Vyšší rychlost připojení vede k většímu objemu přenesených dat.
 - Eurotel roste v provozu přes NIX, UPC je větší, T-Mobile menší.
-title: "'CDMA prakticky zdvojnásobilo datový provoz Eurotelu"
-
-  '
+title: CDMA prakticky zdvojnásobilo datový provoz Eurotelu
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Internet Info s.r.o. je provozovatel Lupy a dalších služeb.
 - Data uživatelů nebudou převáděna třetím stranám mimo provoz služby.
 - Uživatelé mohou před převodem účet smazat, pokud mají obavy.
-title: "Jagg prodán za 33100 Kč"
+title: Jagg prodán za 33100 Kč
 ---
 
 Omluvte grafickou úpravu, jsem tu z mobilu. Ale stojí za konstatování, že Jagg.cz byl prodán za 33 100 Kč. To je zatím poslední známá cena, protože jak praví dobré obchodnické přísloví, <em>"deal is done, when money are at home"</em>... Ovšem vzhledem k osobě kupujícího nepředpokládám velkých potíží. 

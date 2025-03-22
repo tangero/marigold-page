@@ -13,9 +13,7 @@ summary_points:
 - Nefunkční internet znemožnil práci a VoIP telefonii.
 - Mobilní data selhala kvůli chybějícímu softwaru na notebooku.
 - CDMA od Eurotelu nakonec zajistilo dočasné připojení k internetu.
-title: "'Včera mne pro změnu zachraňoval Eurotel"
-
-  '
+title: Včera mne pro změnu zachraňoval Eurotel
 ---
 
 <p>Předevčírem večer se nám ve firmě složila internetová přípojka od ha-vla. Abych řekl pravdu, technici vyslyšeli moje stížnosti na mizerné volání po Skype a dokopali dodavatele, aby to přišel poštelovat. Technik dodavatele vyřešil situaci tak, že linka zbuchla. Inu, večer se to stává. Jenže linka nešla ani druhý den a to už bylo dost nepříjemné, protože co má internetová firma dělat bez internetu. Aby to ještě bylo fikanější, samozřejmě nefungovaly ani telefony, protože ty jsou přes VoIP. PavelS prohlásil, že je to výhodný moment pro to, nepracovat, jenže já zrovna měl hromadu schůzek, hromadu dokumentů k nim na serveru a to nebylo zrovna milé. </p>

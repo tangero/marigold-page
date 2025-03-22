@@ -13,7 +13,7 @@ summary_points:
 - Cestování letadlem s dětmi bylo překvapivě v pohodě, kočárek až k letadlu.
 - Během dovolené autor nepracoval online, svět se nezhroutil, ale nic se neposunulo.
 - Autor prošvihl uvedení iPhone, ale zjistil, že se to dá přežít.
-title: "A je po dovolené"
+title: A je po dovolené
 ---
 
 Dvanáct dní u moře je za mnou. Všem se líbilo, holky si užívaly sluníčka, moře a písku. Základní poznatky pro budoucnost: když let začíná kodem QS, znamená to Travel Service a je důležité významně se přeptat, kdy člověk letí (hodinu!) a když nenabídnou slušný termín, vykašlat se na to. Proč? Tam jsme letěli ve dvě ráno, zpět o půlnoci. Bohužel cestovka nebyla schopná ani za příplatek nabídnout let s jinou společností a hlavně v jiný čas. A zkuste si cestovat s malýma dětma v noci zejména, když časový rozptyl při přepravě s Travel Service činil až dvě hodiny - letadlo se prostě opozdilo. Jen při letu zpět jsme se trefili přesně do času přistání, ale pak to zase podělalo pražské letiště a zavazadla vykládalo přes hodinu. Což je na Ruzyni v nočním časech zřejmě standard, stalo se mi to znovu a znovu. Jenže zatím vždycky bez Sofie, která moc chtěla spát. 

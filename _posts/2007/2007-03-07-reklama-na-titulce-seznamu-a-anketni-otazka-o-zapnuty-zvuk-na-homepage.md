@@ -13,7 +13,7 @@ summary_points:
 - Seznam a Lidé.cz využívají titulní stránky pro online reklamu projektu.
 - Stream.cz má videoreportáž o vítězství Seznamu ve fotbálku.
 - Stream.cz řeší dilema zapnutého/vypnutého zvuku na titulní stránce.
-title: "Reklama na titulce Seznamu a anketní otázka o zapnutý zvuk na homepage"
+title: Reklama na titulce Seznamu a anketní otázka o zapnutý zvuk na homepage
 ---
 
 Když reklama na internetový projekt, tak musí běžet jak offline, tak online. Aby se připomenula. Toliko naše přesvědčení. Takže polepené dveře metra, k tomu přibyla dneska online reklama těžkého kalibru: titulní stránka Seznamu a serveru Lidé:

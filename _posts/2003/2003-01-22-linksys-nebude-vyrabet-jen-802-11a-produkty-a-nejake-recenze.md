@@ -13,7 +13,7 @@ summary_points:
 - BuffaloTech router 802.11g snižuje rychlost s 802.11b klientem.
 - Small Net Builder recenzuje Linksys WAP54G a WiFi booster.
 - BusinessWeek uvádí nízký počet platících uživatelů WiFi v Evropě.
-title: "Linksys nebude vyrábět jen 802.11a produkty a nějaké recenze"
+title: Linksys nebude vyrábět jen 802.11a produkty a nějaké recenze
 ---
 
 <p>

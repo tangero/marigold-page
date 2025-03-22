@@ -17,7 +17,7 @@ summary_points:
 - Uživatelé FriendFeed mohou sledovat aktivity přátel a komentovat je přímo v aplikaci.
 - FriendFeed nabízí jednoduchou integraci s e-mailovými účty pro vyhledávání a pozvání
   kontaktů.
-title: "FriendFeed, mít přehled o přátelích"
+title: FriendFeed, mít přehled o přátelích
 ---
 
 Není to tak dávno, co jsem tu v rámci novinek psal o webu <a href="http://www.spokeo.com">Spokeo.com</a>, který umožňuje sledovat, co vaši přátelé zrovna dělají na webu, tedy kam nahráli fotky, kde napsali co na blog atd. FriendFeed je něco podobného, ale jiného v principu. V poslední době je o něm také více slyšet a myslím, že stojí za to ho zmínit samostatně. 

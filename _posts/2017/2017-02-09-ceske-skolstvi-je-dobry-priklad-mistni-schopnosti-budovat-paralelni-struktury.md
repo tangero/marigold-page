@@ -12,9 +12,7 @@ summary_points:
 - Rodiče často volí alternativy jako domácí výuku, soukromé školy nebo školy v zahraničí.
 - Nerovnosti ve vzdělání se projeví v další generaci, pokud systém nezlepší podmínky
   pro všechny děti.
-title: "'České školství je dobrý příklad místní schopnosti budovat paralelní struktury"
-
-  '
+title: České školství je dobrý příklad místní schopnosti budovat paralelní struktury
 ---
 
 Můj <a href="https://www.marigold.cz/item/vase-deti-a-nase-skolstvi-oboji-bez-budoucnosti">minulý příspěvek</a> o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fascinuje česká schopnost okamžitě začít budovat paralelní struktury a vypořádat se s problémem mimo hlavní dějovou linku. Dědictví komunismu? Spíš nejenom toho.<!--more-->

@@ -13,7 +13,7 @@ summary_points:
 - Tradiční mediální domy vyčerpala krize a akvizice internetových médií.
 - Konsolidace, diferenciace a vize jsou klíčové pro přežití médií.
 - Většina tradičních médií změní majitele, některá zaniknou nebo se transformují.
-title: "Mobilní obsah je už druhá revoluce v řadě, která huntuje česká média"
+title: Mobilní obsah je už druhá revoluce v řadě, která huntuje česká média
 ---
 
 <p>V říjnu jsem byl na Czech Internet Fóru v panelu věnovanému mobilnímu obsahu. Je to široké téma, je těžké k tomu něco objevného říct, tady jej opanovaly aktuální výsledky Tablet Media a jejich tabletového magazínu Dotyk a Lucie Tvarůžková opouštějící Hospodářské noviny. Takže k něčemu zajímavému to bylo, ale jedno nám uteklo. Závěr.</p>

@@ -14,9 +14,7 @@ summary_points:
   sofistikované.
 - Roboti jako Pepper zatím zaujmou na veletrzích, ale k opravdové inteligenci mají
   daleko.
-title: "'Robotická umělá inteligence na CeBITu 2017"
-
-  '
+title: Robotická umělá inteligence na CeBITu 2017
 ---
 
 <p>Na CeBITu vystavujeme hned vedle japonského robotického pavilonu. Je to poněkud deprimující, protože sice je nedaleko Jablotron a s Turrisem tu tedy děláme alespoň určitou českou dvojku, jenže proti robotům všeho typu je to přeci jen trochu chabé. Vypadá to, jako bychom za světem měli obrovské zpoždění. Máme?</p>

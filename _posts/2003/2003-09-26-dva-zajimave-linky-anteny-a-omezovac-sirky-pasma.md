@@ -12,7 +12,7 @@ summary_points:
 - Antény pro 2,4 GHz (WiFi) a 900 MHz (GSM) nabízí web FreeAntenas.
 - BandWidth Controller je software pro omezení šířky pásma ve Windows.
 - Software stojí 50 USD, existuje i demoverze zdarma.
-title: "Dva zajímavé linky: antény a omezovač šířky pásma"
+title: Dva zajímavé linky -  antény a omezovač šířky pásma
 ---
 
 <p>

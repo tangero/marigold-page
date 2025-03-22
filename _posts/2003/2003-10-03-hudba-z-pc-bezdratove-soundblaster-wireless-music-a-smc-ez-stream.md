@@ -16,7 +16,7 @@ summary_points:
 - Obě zařízení umožňují bezdrátový přenos hudby z PC do audiosystému pomocí WiFi.
 - Roste poptávka po zařízeních pro bezdrátový přenos hudby z počítače do obývacího
   pokoje.
-title: "Hudba z PC bezdrátově: SoundBlaster Wireless Music a SMC EZ-Stream"
+title: Hudba z PC bezdrátově -  SoundBlaster Wireless Music a SMC EZ-Stream
 ---
 
 <p>

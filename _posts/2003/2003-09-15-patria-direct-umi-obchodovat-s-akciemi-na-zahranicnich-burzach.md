@@ -13,7 +13,7 @@ summary_points:
 - Poplatky Patria Direct za obchodování v USA jsou dražší než u Ameritrade.
 - Patria Direct nabízí méně služeb a horší zpravodajství než Ameritrade.
 - Autor preferoval Patrii dříve kvůli snadné dostupnosti pobočky.
-title: "Patria Direct umí obchodovat s akciemi na zahraničních burzách"
+title: Patria Direct umí obchodovat s akciemi na zahraničních burzách
 ---
 
 Dneska jsem potřeboval poštelovat něco s akciemi na české burze a po dvou měsících jsem se zase přilogoval na svůj účet na Patria Direct. A dostalo se mi dvou překvapení. Tím prvním byl fakt, že můj bezpečnostní certifikát vypršel před třemi dny a nový se povaloval na poště dva týdny jako doporučená zásilka pod mým oblíbeným heslem "když to nějaká buzerant neumí poslat obyčejně, tak si pro to nepůjdu", než ho pošta poslala zpět. To jsem si naběhl na vlastní vidle neochoty chodit doma na poštu :) 

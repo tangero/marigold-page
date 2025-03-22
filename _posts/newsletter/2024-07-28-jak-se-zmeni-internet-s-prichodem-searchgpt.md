@@ -18,7 +18,7 @@ summary_points:
 - OpenAI ohlásilo SearchGPT, což představuje závazek a potenciální změnu trhu.
 - AI vyhledávače syntetizují informace, což může vést k názorovému zploštění.
 - SearchGPT může halucinovat a poskytovat chybné informace, což je vážný problém.
-title: "\U0001F50EJak se změní internet s příchodem SearchGPT?"
+title: \U0001F50EJak se změní internet s příchodem SearchGPT?
 ---
 
 Jednou to přijít muselo a po pravdě, už to před nějakou dobou přišlo: weby založené na umělé inteligenci se pokoušejí nahradit vyhledávání. Před dvěmi lety začalo zkoušet štěstí Perplexity AI, pětapadesát zaměstnanců, přes miliardu dolarů hodnota firmy, takže tudy cesta vede alespoň k lukrativní tržní nice.

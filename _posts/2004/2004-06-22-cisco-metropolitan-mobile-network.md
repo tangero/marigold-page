@@ -13,7 +13,7 @@ summary_points:
 - Síť využívá Cisco Aironet hotspoty a routery Cisco 3200 s WiFi B/G.
 - Prototyp sítě bude testován ve Westminsteru ještě letos.
 - Síť je určena pro magistráty, hasiče, kamery a parkovací automaty.
-title: "Cisco Metropolitan Mobile Network"
+title: Cisco Metropolitan Mobile Network
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Autor opakovaně zaznamenal podobné chyby v emailu Centra.
 - Tvrzení o generačním náskoku Centra Email považuje autor za nepravdivé.
 - Možná Centrum Email prošel redukční kůrou a mění design.
-title: "Email Centra se nám v horku odlehčil"
+title: Email Centra se nám v horku odlehčil
 ---
 
 <p>Pro všechny zastánce nehynoucí kvality centráckého emailu zde mám raní screenshot – takhle vypadalo v sobotu cca v 8 ráno email Centra. Nenatahovaly se styly a co hůře, do mailu jste se nakonec museli dostávat oklikou, takhle snadno to nešlo. Není to mé první setkání s nějakou podobnou systémovou chybkou na emailu Centra a i to je důvod, proč košatá vyjádření o tom, jak je Centrum Email generačně napřed před ostatními emaily, považuji za báchorky. Zajímavé je, že jiný účet u Centra mi fungoval...</p>
