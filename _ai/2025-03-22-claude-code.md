@@ -44,6 +44,8 @@ Teď se ještě pojďme věnovat teorii...
 
 Claude Code je navržen jako univerzální nástroj pro vývojáře a podporuje široké spektrum programovacích jazyků a typů projektů:
 
+Přesto si dáme jedno upozornění na začátek, trochu jsem se s tím sám trápil. Code je určený na to, abyste jím zadávali příkazy pro programovacího agenta. Pokud chcete sami spouštět programy, které vytvoří, musíte si otevřít další okno Terminálu. Code sám sice může programy spouštět, to je ale jen pro ladící účely, kdy agent Code ověřuje, zda všechno udělal správně. Pro vaše samotné testování je potřeba si vše pustit z jiného okna.  
+
 ### Programovací jazyky
 
 Claude Code má silnou podporu pro většinu populárních jazyků včetně:
