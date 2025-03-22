@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vývoj síťové architektury 3GPP: Od GSM přes 3G a LTE k 5G Advanced"
+title: Vývoj síťové architektury 3GPP -  Od GSM přes 3G a LTE k 5G Advanced
 date: 2024-12-16
 categories: [5G, 5G-Advanced, Mobilní sítě]
 ---

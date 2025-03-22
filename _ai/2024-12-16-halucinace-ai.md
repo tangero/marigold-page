@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halucinace v umělé inteligenci: Co to je, proč vznikají, jak je rozpoznat a minimalizovat"
+title: Halucinace v umělé inteligenci -  Co to je, proč vznikají, jak je rozpoznat a minimalizovat
 date: 2024-12-16
 order: 4
 thumbnail: https://datascientest.com/en/files/2024/03/AI_hallucinations-1024x585-1.jpg

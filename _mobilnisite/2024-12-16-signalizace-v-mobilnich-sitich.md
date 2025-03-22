@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Signalizace v Mobilních Sítích: Od 2G po 5G"
+title: Signalizace v Mobilních Sítích -  Od 2G po 5G
 date: 2024-12-16
 categories: [2G, 3G, 4G, 5G, Mobilní sítě]
 hide: true

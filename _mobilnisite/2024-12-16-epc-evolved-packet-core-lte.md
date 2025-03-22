@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Evolved Packet Core (EPC): Nové jádro sítě v LTE"
+title: Evolved Packet Core (EPC) -  Nové jádro sítě v LTE
 date: 2024-12-16
 categories: [4G, LTE, Mobilní sítě]
 hide: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tokeny vs. Slova: Základní stavební jednotky kontextu v AI"
+title: "Tokeny vs. Slova - Základní stavební jednotky kontextu v AI"
 date: 2024-12-18
 order: 5
 thumbnail: https://glaforge.dev/img/gemini/token-viz.jpg

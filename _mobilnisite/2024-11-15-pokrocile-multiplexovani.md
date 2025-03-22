@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Budoucnost frekvenčního multiplexu: Alternativy k OFDMA a jejich role v 6G"
+title: Budoucnost frekvenčního multiplexu -  Alternativy k OFDMA a jejich role v 6G
 date: 2024-11-25
 categories: [LTE, 4G, Mobilní sítě]
 thumbnail: https://www.sumitomocorp.com/africa/-/media/Images/hq/business/case/cc-191129/hero.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Relay Nodes: přenosové uzly v mobilních sítích"
+title: Relay Nodes -  přenosové uzly v mobilních sítích
 date: 2024-12-25
 categories: [5G, Mobilní sítě, LTE]
 hide: true
