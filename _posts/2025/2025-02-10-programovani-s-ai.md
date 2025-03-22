@@ -36,6 +36,8 @@ Podíváme se dnes na několik nástrojů, které slouží k programování s AI
 - [Bolt New](https://bolt.new/)   
 - [Windsurf AI](https://codeium.com/windsurf)
 
+> 🤖 O nástroji **Claude Code** společnosti Anthropic je [specializovaná sekce zde](/ai/claude-code/#instalace-a-začátek-práce).
+
 Za každý z těchto nástrojů musíte zaplatit, i když je tu nějaký malý demoprovoz možný zdarma. Ale s ním si nástroj opravdu jen osaháte, nenaprogramujete nic. A jednou upozornění: nástroje jsou v prudkém vývoji, takže jejich nabídka funkcí se mění, údaje jsou platné k 10.2.2025. 
 
 **Mimochodem, jak je to s češtinou?** Většinou jsme pracovali komicky: já jsem zadání definoval česky, všechny nástroje mu bezproblémů rozuměly, ale odpovídaly mi zpravidla anglicky, nebo tu česky, převážně však anglicky. 

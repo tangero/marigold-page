@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Claude Code - programování s AI
+title: Claude Code je AI asistent pro vývoj přímo v terminálu
 date: 2025-03-22
 order: 1
 hide: true
 ---
-
-# Claude Code: AI asistent pro vývojáře přímo v terminálu
 
 Claude Code je nástroj od společnosti Anthropic, který přináší obrovský náskok a zkušenost jejího jazykového modelu Claude Sonnet přímo do vývojářského prostředí. Jde o  CLI nástroj (tedy běžící v příkazové řádce)  integrovaný do terminálu, který umožňuje vývojářům spolupracovat s AI při každodenní práci s kódem. Ale nebojte se slov CLI ani příkazová řáda, prostě si povídáte s "chatbotem" a necháte jej, aby realizoval vaše zadání ke zdrojovému kódu. Jen ho zavoláte z Terminálu, což mu dává řadu možností a také to důstojně vynechává představu, že se sami budete hrabat ve zdrojáku, jako to naznačuje [Cursor nebo Copilot ve VS Code](/item/programovani-s-ai/). 
 
