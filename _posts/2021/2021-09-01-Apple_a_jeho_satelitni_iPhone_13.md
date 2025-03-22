@@ -12,7 +12,7 @@ summary_points:
 - GlobalStar rozšířil 5G spektrum o pásmo n53.
 - Qualcomm X60 modem možná podporuje upravené pásmo n53.
 - Privátní sítě mohou využívat GlobalStar pro pozemní propojení.
-title: Apple a jeho satelitní iPhone 13
+title: "Apple a jeho satelitní iPhone 13"
 ---
 
 Už za dva týdny by měl Apple představit své nové produkty. Odhadovaný termín je čtrnáctého září, i když k představení iPhone 13 by mi lépe sedělo 13.9. 

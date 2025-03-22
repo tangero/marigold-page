@@ -15,7 +15,7 @@ summary_points:
 - Otellini propagoval WiMax jako broadband technologii budoucnosti, ale byl kritizován.
 - Intel představil ZOAR, referenční platformu pro mobily podporující WiFi, GSM/GPRS
   a Bluetooth.
-title: Dnesni keynotes session &#8211; Ollila, Svanberg a&nbsp;dalsi
+title: "Dnesni keynotes session – Ollila, Svanberg a dalsi"
 ---
 
 <p>

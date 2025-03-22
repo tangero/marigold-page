@@ -13,7 +13,7 @@ summary_points:
 - Třetí odklad zpoplatnění WiFi sítě Českého Telecomu.
 - Více než 40 hotspotů a 1000 registrovaných uživatelů WiFi.
 - WiFi síť Telecomu dostupná v KFC a Shell pumpách.
-title: 'Český Telecom prodloužil používání WiFi sítě zdarma do konce roku
+title: "'Český Telecom prodloužil používání WiFi sítě zdarma do konce roku"
 
   '
 ---

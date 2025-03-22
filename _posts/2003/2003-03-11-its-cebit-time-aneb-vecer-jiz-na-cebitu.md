@@ -13,7 +13,7 @@ summary_points:
 - Marigoldi jezdí na CeBIT tradičně sedm let.
 - Články z CeBITu se na Marigoldovi objeví večer nebo zítra.
 - Během týdne budou zveřejňovány postřehy z CeBITu.
-title: Its CeBIT time&#8230; aneb večer již na CeBITu&#8230;
+title: "Its CeBIT time… aneb večer již na CeBITu…"
 ---
 
 <p>

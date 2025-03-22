@@ -15,7 +15,7 @@ summary_points:
 - Café Bajer je doporučovaná kavárna vídeňského stylu s příjemnou atmosférou.
 - Halíkova srozumitelnost kontrastuje s nesrozumitelnými klišé arcibiskupa Graubnera.
 - Církev hovoří jazykem vzdáleným realitě a ztrácí srozumitelnost pro současníky.
-title: Cafe Bajer a&nbsp;Velikonoce
+title: "Cafe Bajer a Velikonoce"
 ---
 
 Byl jsem na velikonoční svátky v Pardubicích za rodinou. A jestli si v Pardubicích nenechám něco ujít, tak je to <a href="http://www.cafebajer.cz/">Café Bajer</a>. Původně jsem se rozhodl jen o něm napsat letmou zmínku, protože jsem si dal závazek, čtouc poslední články, že bych tu mohl také napsat někdy něco pozitivního a pochvalného. A Café Bajer si to zaslouží. Jenže když už jsem tam seděl, tak mi to přišlo příliš jednoduché. 

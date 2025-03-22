@@ -12,7 +12,7 @@ summary_points:
 - Marigold má DHTML editor pro komentáře, funkční v MSIE 5.5 a vyšším.
 - CzFree zavedlo moderování příspěvků s možností zobrazení smazaných.
 - Deu píše o jarních novinkách CzFree, včetně ukázky smazaného příspěvku.
-title: 'Přidal jsem možnost dělat HTML komentáře se smajlíkama, CzFree zlepšuje moderaci
+title: "'Přidal jsem možnost dělat HTML komentáře se smajlíkama, CzFree zlepšuje moderaci"
   diskusí
 
   '

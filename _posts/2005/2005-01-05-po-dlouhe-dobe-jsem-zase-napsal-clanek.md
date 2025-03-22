@@ -14,7 +14,7 @@ summary_points:
 - Autor článek pojal jako pokus o prosazení tématu socioware na Lupě.
 - Socioware je trend, jehož budoucnost je nejistá, na rozdíl od existujícího Orkut.
 - Autorovi chybí v českých médiích články o nových, rozvíjejících se trendech.
-title: 'Po dlouhé době jsem zase napsal článek
+title: "'Po dlouhé době jsem zase napsal článek"
 
   '
 ---

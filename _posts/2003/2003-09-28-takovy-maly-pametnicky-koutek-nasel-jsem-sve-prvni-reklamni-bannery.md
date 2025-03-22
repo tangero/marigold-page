@@ -16,7 +16,7 @@ summary_points:
 - Druhý banner, o dva měsíce mladší, propagoval službu M-line pro přeposílání emailů
   do SMS.
 - Autor objevil i fotku v brnění na koni z doby kolem roku 1995.
-title: Takový malý pamětnický koutek &#8211; našel jsem své první reklamní bannery
+title: "Takový malý pamětnický koutek – našel jsem své první reklamní bannery"
 ---
 
 <p>

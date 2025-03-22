@@ -13,7 +13,7 @@ summary_points:
 - Na baru probíhala akce "Nálet na Saigon" s drinky B-52.
 - Maturovič zhodnotil kabát z C&A jako odpovídající luxusu.
 - Autor našel v kapse sumář obchodních slibů z večera.
-title: iDNES narozeninová párty
+title: "iDNES narozeninová párty"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - IBM vyvinulo "plug-and-print" WiFi modul pro výkonné tiskárny a větší sítě.
 - WiFi adaptér pro IBM tiskárny bude stát 212 USD.
 - Linksys nabízí konvertory pro bezdrátové propojení tiskáren vhodné pro malé kanceláře.
-title: Recenze Linksys Wireless-G Broadband Router, IBM má adaptér s&nbsp;WiFi pro
+title: "Recenze Linksys Wireless-G Broadband Router, IBM má adaptér s WiFi pro"
   tiskárny
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - Autor se rozhodl zrušit smlouvu s T-Mobile a převést SIM kartu na Twist.
 - UPC autorovi účtovalo 400 Kč měsíčně za málo sledované televizní programy.
 - Autor snížil rychlost internetu od UPC na nejnižší tarif 256 Kb/s.
-title: Každý rád pomůže vyhazovat peníze z&nbsp;okna&#8230;
+title: "Každý rád pomůže vyhazovat peníze z okna…"
 ---
 
 <p>

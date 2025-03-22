@@ -13,7 +13,7 @@ summary_points:
 - Eurotel zavede mobilní platby systémem MobiPay, zjištěno na Mobilringu.
 - MobilMania spustila anglický katalog mobilů na české doméně.
 - Telnet má novou verzi webu, graficky pestřejší, ale roztříštěnější.
-title: 'Mobilring česky, MobilMania anglicky, Telnet reloaded
+title: "'Mobilring česky, MobilMania anglicky, Telnet reloaded"
 
   '
 ---

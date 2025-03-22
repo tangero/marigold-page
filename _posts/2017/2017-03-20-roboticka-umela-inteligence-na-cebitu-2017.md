@@ -14,7 +14,7 @@ summary_points:
   sofistikované.
 - Roboti jako Pepper zatím zaujmou na veletrzích, ale k opravdové inteligenci mají
   daleko.
-title: 'Robotická umělá inteligence na CeBITu 2017
+title: "'Robotická umělá inteligence na CeBITu 2017"
 
   '
 ---

@@ -16,7 +16,7 @@ summary_points:
 - Firmy kritizují média za rychlé publikování bez žádosti o vyjádření.
 - Informace se publikují postupně, bez kontextu, což je pro čtenáře nevýhodné.
 - Blogerský přístup je vhodný pro témata, kde má čtenář orientaci.
-title: 'Jeden z&nbsp;mnoha příkladů, kdy blogy mění novinařinu (a&nbsp;zrovna ten
+title: "'Jeden z mnoha příkladů, kdy blogy mění novinařinu (a zrovna ten"
   negativní): průběžné, versus komplexní informování'
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - Sdílení v P2P síti je zatím omezeno na obrázky a videa.
 - Lorant Farkas z Nokie vyvíjí P2P klienta, testováno na Nokia 6600.
 - Nokia zatím neuvolnila P2P software ke stažení.
-title: P2P pro mobilní telefony
+title: "P2P pro mobilní telefony"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - SMS platba umožňuje pouze krátkodobé připojení k WiFi síti.
 - Sluneční světlo ztěžuje viditelnost na displeji notebooku v zahradě.
 - Autor našel ideální místo v zahradě pro práci s notebookem.
-title: Františkánská zahrada &#8211; vážně WiFi pohoda
+title: "Františkánská zahrada – vážně WiFi pohoda"
 ---
 
 <p>

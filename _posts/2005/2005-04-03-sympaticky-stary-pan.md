@@ -13,7 +13,7 @@ summary_points:
 - Církev nabízí vznešené ideály na rozdíl od přízemních skutků státních zástupců.
 - Církevní postoje k potratům a eutanazii jsou oporou proti momentální náladě.
 - Tradice a zkušenosti církve by neměly být odmítány bez zamýšlení.
-title: Sympatický starý pán
+title: "Sympatický starý pán"
 ---
 
 <p>Smrt papeže Jana Pavla II bude hojně komentována jinde a já vím, že napsat o ní cokoliv teď znamená nutně se propadat k frázím. Nejsem katolík, nakonec ani ne křesťan, abych ji prožíval stejně, jako oni, ale jestli něco s naléhavou nutností smrt papeže připomněla, pak je to pozice církve v současném světě. </p>

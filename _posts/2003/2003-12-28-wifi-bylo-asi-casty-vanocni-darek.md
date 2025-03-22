@@ -13,7 +13,7 @@ summary_points:
 - Dita pracovala s notebookem, autor ripoval hudbu do WMA kvůli placenému MP3.
 - Počítač odhalil náhlý nárůst objednávek na WiFi knihu po Vánocích.
 - Autor doporučuje Web2RSS pro RSS kanály a TetriNet pro online Tetris.
-title: 'WiFi bylo asi častý vánoční dárek :)
+title: "'WiFi bylo asi častý vánoční dárek :)"
 
   '
 ---

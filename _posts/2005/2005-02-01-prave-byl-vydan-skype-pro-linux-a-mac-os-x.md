@@ -14,7 +14,7 @@ summary_points:
 - Linux komunita očekává nové aplikace založené na Skype API.
 - Portace Skype do WiFi routerů je zatím nepravděpodobná kvůli chybějícím zdrojovým
   kódům.
-title: Právě byl vydán Skype pro Linux a&nbsp;Mac OS X
+title: "Právě byl vydán Skype pro Linux a Mac OS X"
 ---
 
 <p>Vývojáři Skype dnes uvolnili finální verzi <b>Skype pro Linux</b>. Další info <a href="http://www.skype.com/products/skype/linux" >a stahování zde</a>. Rovněž byla uvolněna <a href="http://www.skype.com/products/skype/macosx/">verze pro Max OS X</a>.<br />

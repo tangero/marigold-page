@@ -13,7 +13,7 @@ summary_points:
 - ZyXEL ZyAIR B-3000 recenzován na WiFiNetNews.
 - Ericsson Z1010, první 3G telefon, uveden na trh v lednu 2004.
 - Martin a marmeláda u Donalda je rozšířený problém mezi manažery.
-title: Dvoustý hotspot v&nbsp;databázi, recenze ZyXEL ZyAIR B-3000
+title: "Dvoustý hotspot v databázi, recenze ZyXEL ZyAIR B-3000"
 ---
 
 <p>

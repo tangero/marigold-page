@@ -13,7 +13,7 @@ summary_points:
 - Standard 802.11g a trendy v 2,4 GHz bezdrátových sítích budou popsány.
 - Akce se koná 6.10.2003 v Brně na Invexu, Conference Hall G2, od 10:00.
 - Vstup na přednášku je zdarma a bez registrace, kapacita je 80 míst.
-title: Další WiFi přednáška na Invexu bude o&nbsp;produktech Buffalo a&nbsp;řešení
+title: "Další WiFi přednáška na Invexu bude o produktech Buffalo a řešení"
   pomocí nich
 ---
 

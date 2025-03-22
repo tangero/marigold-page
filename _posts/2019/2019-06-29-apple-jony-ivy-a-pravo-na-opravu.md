@@ -11,7 +11,7 @@ summary_points:
 - Neustálý tlak na inovace zatěžuje životní prostředí a zvyšuje technologickou závislost.
 - V Česku není problém vnímán, ale pojmy jako "Právo na opravu zařízení" jsou důležité
   pro ochranu spotřebitelů.
-title: Apple, Jony Ive a právo na opravu
+title: "Apple, Jony Ive a právo na opravu"
 ---
 
 Z Apple odchází šéfdesigner Jony Ive, člověk, který vytvořil ikonické designy a jeden ze spoluautorů úspěchu firmy. A také člověk, který z  moderní elektroniky udělal neopravitelná, nerozebiratelná a  neupgradovatelná zařízení. Byl to on, kdo prosadil lepení baterií či displejů v mobilech, pevně připájené procesory v počítačích a vůbec udělal z Apple produktů zařízení, která nelze snadno rozebírat a něco v nich měnit, natož aby k tomu firma poskytovala nějakou dokumentaci. No a zprostředkovaně z  tohoto přístupu udělal celosvětový standard.

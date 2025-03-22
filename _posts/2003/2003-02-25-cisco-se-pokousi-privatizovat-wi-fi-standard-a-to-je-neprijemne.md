@@ -13,7 +13,7 @@ summary_points:
 - Cisco sleduje vlastním programem posílení vlivu a tržního podílu v oblasti WiFi.
 - Proximus kritizuje proprietární technologie Cisco, upřednostňuje otevřené standardy.
 - Proprietární vazba na Cisco může zablokovat rozvoj WiFi směrem ke standardům.
-title: Cisco se pokouší privatizovat Wi-Fi standard a&nbsp;to je nepříjemné&#8230;
+title: "Cisco se pokouší privatizovat Wi-Fi standard a to je nepříjemné…"
 ---
 
 <p>

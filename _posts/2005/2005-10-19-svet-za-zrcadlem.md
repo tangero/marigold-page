@@ -13,7 +13,7 @@ summary_points:
 - Uživatel Macu čte jiné servery, stahuje jiné programy a řeší jiné problémy.
 - Mac nabízí jiné programy, které fungují lépe než ty na PC.
 - Výkon Macu je dobrý, umožňuje práci i během náročných operací.
-title: Svět za zrcadlem
+title: "Svět za zrcadlem"
 ---
 
 <p>Asi znáte Lewisovu Alenku za zrcadlem. Krajina za zrcadlem je pro nás symbolem jiného světa. Světa, který na první pohled vypadá skoro stejně, ale řada věcí tam funguje jinak. Objevujete je, zkoumáte, pokud jste se odhodlali zrcadlem projít. Pokud ne, stojíte před zrcadlem, dumáte nad svým světem a nemáte odvahu projít rámem, abyste poznali onu jinakost, o níž si čtete v dílech mystiků. </p>

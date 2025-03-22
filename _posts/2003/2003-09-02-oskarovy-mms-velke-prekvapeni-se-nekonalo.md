@@ -13,7 +13,7 @@ summary_points:
 - FotoPošta MMS umožňuje posílat MMS zprávy mezi telefony nebo na email.
 - MMS Studio od Oskara stojí 40 Kč měsíčně a nabízí 5MB prostoru.
 - T-Mobile má do konce září MMS za 2 Kč, což je levnější než SMS.
-title: Oskarovy MMS &#8211; velké překvapení se nekonalo
+title: "Oskarovy MMS – velké překvapení se nekonalo"
 ---
 
 <p>

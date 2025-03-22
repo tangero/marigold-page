@@ -14,7 +14,7 @@ post_excerpt: It is another thing that the European Union has dictated to us. A 
   like pushing for a single charger for mobiles, what was the background and how did
   it proceed?
 thumbnail: https://www.marigold.cz/assets/nabijecky-eu.png
-title: The case of the EU's unified mobile phone charger
+title: "The case of the EU's unified mobile phone charger"
 translated: true
 ---
 

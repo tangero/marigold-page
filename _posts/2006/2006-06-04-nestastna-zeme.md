@@ -13,7 +13,7 @@ summary_points:
 - Autor slíbil položit rudé růže svatému Václavovi po vítězství svobodných stran.
 - Volby skončily plichtou, což vyvolává nejistotu ohledně budoucí vlády.
 - Paroubek zpochybnil volby kvůli údajnému porušení vyhlášky o teplé vodě.
-title: Nešťastná země&#8230;
+title: "Nešťastná země…"
 ---
 
 <p>Včera jsme jeli se Sofií na výlet. Na Zbraslav, místo posledního odpočinku přemyslovských králů. Poklonit se těm, kteří tenhle stát založili a udrželi, ať byla doba jakkoliv turbulentní. </p>

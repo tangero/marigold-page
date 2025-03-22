@@ -13,7 +13,7 @@ summary_points:
 - W-CDMA podpora v Symbian OS V 7.0s umožňuje využití 3G sítí.
 - Vícenásobný PDP context v OS V 7.0s umožňuje přístup k více síťovým službám.
 - Multithreadingový framework zlepšuje podporu audio-video aplikací v Symbianu.
-title: Symbian OS V7.0s je na světě
+title: "Symbian OS V7.0s je na světě"
 ---
 
 <p>

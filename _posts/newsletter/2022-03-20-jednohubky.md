@@ -14,7 +14,7 @@ summary_points:
 - Viasat modemy byly hacknuty, což způsobilo výpadek tisíců větrných turbín.
 - Rusko se odpojuje od globálního internetu, vzniká tak splinternet.
 - Facebook kryptoměna Libra neuspěla kvůli odporu regulátorů a politiků.
-title: Jednohubky
+title: "Jednohubky"
 ---
 
 **EU nařídila internetovým platformám, aby stáhly nebo deindexovaly veškerý obsah z ruských státních médií** _([zdroj](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.065.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A065%3ATOC))_. Obsah RT se tedy nebude zobrazovat v Googlu a pokud zveřejníte odkaz, Twitter váš příspěvek odstraní. Jedná se o obrovský precedens, jehož důsledky dalece přesahují současný konflikt. Rusko na to může poukazovat jako na paralelu ke svému vlastnímu blokování, zatímco spousta dalších autokracií to bude používat jako záminku také. Sám to ale považuji za dobrý krok - na debatu o tom, jak se vyrovnat s podobně problematickými, vysloveně lživými obsahy, jsme měli hromadu času a k ničemu jsme se nedobrali. Teď, v době vrcholícího konfliktu, ale nemůžeme nepřítele nechat šířit propagandu, když tomu můžeme zabránit.

@@ -13,7 +13,7 @@ summary_points:
 - Standard 802.11g bude přijat zhruba v červenci tohoto roku.
 - Výrobci již produkují WiFi techniku s 802.11g, ale kompatibilita není zaručena.
 - Doporučuje se s nákupem 802.11g počkat kvůli možné nekompatibilitě.
-title: 'Specifikace 802.11g WLAN sítí se blíží standardizaci
+title: "'Specifikace 802.11g WLAN sítí se blíží standardizaci"
 
   '
 ---

@@ -14,7 +14,7 @@ summary_points:
   v Cannes.
 - G nenabídne killer app, ale vyšší rychlost, 2,5G bude většině klientů dlouho stačit.
 - WiFi je pro mnohé náhražkou mobilních dat kvůli ceně a dostupnosti.
-title: Otevřené versus uzavřené operační prostředí a&nbsp;mýtus killer app
+title: "Otevřené versus uzavřené operační prostředí a mýtus killer app"
 ---
 
 <p>

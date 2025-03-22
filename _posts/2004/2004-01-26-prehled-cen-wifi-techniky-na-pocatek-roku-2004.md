@@ -13,7 +13,7 @@ summary_points:
 - Trh WiFi techniky se zahušťuje, obchody se soustředí na pár značek.
 - D-Link posiluje pozici, nejlevnější přístupový bod je ASUS WL-330b za 1420 Kč.
 - Vyplatí se zajímat o ceny D-Link a Asus WiFi produktů.
-title: 'Přehled cen WiFi techniky na počátek roku 2004
+title: "'Přehled cen WiFi techniky na počátek roku 2004"
 
   '
 ---

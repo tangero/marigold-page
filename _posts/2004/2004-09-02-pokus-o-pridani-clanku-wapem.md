@@ -12,7 +12,7 @@ summary_points:
 - WAP přidávání článků bylo autorovou dlouhodobou touhou.
 - Autor nepotřebuje WAP přidávání článků, ale chce ho mít.
 - Článek je testovací zpráva pro WAP přidávání.
-title: Pokus o&nbsp;pridani clanku wapem
+title: "Pokus o pridani clanku wapem"
 ---
 
 <p>

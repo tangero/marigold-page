@@ -13,7 +13,7 @@ summary_points:
 - Kupcem brazilského podílu TIW je Highlake International Business Company.
 - Prodej brazilských aktivit TIW burza vnímá jako signál zlepšení finanční situace.
 - Akcie TIW posílily po prodeji brazilského podílu na 0.27 USD.
-title: TIW (viapodílník Oskara) prodal brazilské aktivity a&nbsp;přesvědčuje&#8230;
+title: "TIW (viapodílník Oskara) prodal brazilské aktivity a přesvědčuje…"
 ---
 
 <p>

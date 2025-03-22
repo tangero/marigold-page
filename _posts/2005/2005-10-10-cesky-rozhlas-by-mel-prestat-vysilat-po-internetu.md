@@ -13,7 +13,7 @@ summary_points:
 - Navrhované řešení je zakázat ČRo vysílat po internetu.
 - Lidé si nekupují počítače primárně kvůli poslechu rozhlasu.
 - Zpoplatnění poslechu ČRo na internetu je technicky snadno realizovatelné.
-title: Český rozhlas by měl přestat vysílat po&nbsp;internetu
+title: "Český rozhlas by měl přestat vysílat po internetu"
 ---
 
 <p>Vypadá to, že budeme mít další legraci - placení za počítače vybavené internetem a zvukovou kartou, neb tyto umožňují příjem rozhlasu. Toliko <a href="http://www.ceskamedia.cz/article.html?id=155059">tvrdí ČRo</a>. </p>

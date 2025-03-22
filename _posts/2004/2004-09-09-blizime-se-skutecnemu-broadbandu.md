@@ -13,7 +13,7 @@ summary_points:
 - Autor nečekal tak rychlý nástup broadbandu v domácnostech.
 - Pro kvalitní MPEG-4 stream v PAL rozlišení je potřeba 1,2 Mb/s.
 - Autor zvažuje upgrade starého počítače Pentium MMX 233 MHz.
-title: Blížíme se skutečnému broadbandu?
+title: "Blížíme se skutečnému broadbandu?"
 ---
 
 <p>

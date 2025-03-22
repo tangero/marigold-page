@@ -12,7 +12,7 @@ summary_points:
 - Dopis se vrátil odesílateli s poznámkou "Adresa nedostatečná".
 - Adresa na dopise se odesílateli zdála v pořádku.
 - Renata upozornila odesílatele, že na dopis napsal emailovou adresu.
-title: Adresa nedostatečná
+title: "Adresa nedostatečná"
 ---
 
 <p>

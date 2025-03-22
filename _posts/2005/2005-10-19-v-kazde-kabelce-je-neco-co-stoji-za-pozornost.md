@@ -13,7 +13,7 @@ summary_points:
 - Obrázek Sofie má rozměry 350x466 pixelů a název P1010826.jpg.
 - Kliknutím na odkaz lze obrázek Sofie zvětšit na 480x640 pixelů.
 - Odkaz pro zvětšení obrázku vede na soubor mms-76716736.jpg.
-title: 'V každé kabelce je něco, co stojí za pozornost
+title: "'V každé kabelce je něco, co stojí za pozornost"
 
   '
 ---

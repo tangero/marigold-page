@@ -13,7 +13,7 @@ summary_points:
 - VoIP brána CzFree.Net je dostupná na telefonním čísle 222 56 02 10.
 - CzFree.Net uživatelé mohou používat hardwarový telefon pro VoIP.
 - Podrobnosti o VoIP telefonu jsou dostupné na webu výrobce STT.
-title: Internetová telefonie pro CzFree.Net
+title: "Internetová telefonie pro CzFree.Net"
 ---
 
 <p>

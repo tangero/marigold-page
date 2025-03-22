@@ -13,7 +13,7 @@ summary_points:
 - Starý svět preferuje úplatky a známosti, Nový svět americký obchodní přístup.
 - Invex je vnímán jako výkladní skříň Starého světa, proto upadá s ním.
 - Nový svět je otevřený novým myšlenkám, Starý svět je uzavřený.
-title: Starý a&nbsp;Nový svět
+title: "Starý a Nový svět"
 ---
 
 <p>Nedávno jsem na to narazil s jedním naším zákazníkem. Na Starý a Nový svět v telekomunikacích. Možná i někde, ale o tom psát nebudu. </p>

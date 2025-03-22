@@ -14,7 +14,7 @@ summary_points:
   záběru.
 - Širokoúhlé kamery, maskované jako lucerny, umožňují neproškolené obsluze šmírování.
 - Policie by měla mít fotografie pachatele z kamer, jinak je jejich přínos sporný.
-title: Házení granátu v&nbsp;centru Prahy sledovaly minimálně dvě kamery
+title: "Házení granátu v centru Prahy sledovaly minimálně dvě kamery"
 ---
 
 <div class="rightbox"> 

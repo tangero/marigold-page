@@ -13,7 +13,7 @@ summary_points:
 - Bombardéry, dinosauři a UFO jsou možnosti pro zničení webu Marigold.
 - Káva a cigareta jsou další humorné varianty destrukce Marigoldu.
 - Uživatel se může bavit ničením Marigoldu bez následků.
-title: Zapalte Marigolda, vypusťte na něj stádo dinosaurů, polijte ho kávou&#8230;
+title: "Zapalte Marigolda, vypusťte na něj stádo dinosaurů, polijte ho kávou…"
   jak je libo!
 ---
 

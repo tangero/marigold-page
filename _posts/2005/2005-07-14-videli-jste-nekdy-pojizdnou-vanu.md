@@ -13,7 +13,7 @@ summary_points:
 - Vozidlo zřejmě slouží k plavání nebo jízdě na sněhu.
 - Autor vzpomíná na hlášku "Regatě zdar" z dětství.
 - Text doprovází dva obrázky, které lze zvětšit.
-title: Viděli jste někdy pojízdnou vanu?
+title: "Viděli jste někdy pojízdnou vanu?"
 ---
 
 <p>Já ano. Dneska, když jsem zaparkoval auto, tak ji měl někdo vedle mne naloženou na tom svém. Má volant a zřejmě něco jako plachtu k pohonu, takže asi má plavat nebo je na sníh. Nu, regatě zdar, říkával za časů mého dětství Bobík s Myšpulínem.

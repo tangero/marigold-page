@@ -24,7 +24,7 @@ summary_points:
 - MPEG-4 zavádění může způsobit zastarání stávajících DVB-T tunerů a DVD rekordérů.
 - Mladší generace vnímá televizi jako asynchronní kanál a preferuje nahrávání pořadů.
 - Nízká kvalita TV programů a rostoucí popularita internetu podporují online video.
-title: 'Digitální televize poškodí samotnou podstatu televize
+title: "'Digitální televize poškodí samotnou podstatu televize"
 
   '
 ---

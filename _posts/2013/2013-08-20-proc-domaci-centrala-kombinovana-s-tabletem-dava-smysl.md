@@ -13,7 +13,7 @@ summary_points:
 - Domácí centrála řeší ovládání spotřebičů i bez internetového připojení.
 - Quel umožňuje ovládání spotřebičů i pro uživatele bez chytrých telefonů.
 - Quel integruje data z různých zdrojů pro chytřejší řízení domácnosti.
-title: Proč domácí centrála kombinovaná s&nbsp;tabletem dává smysl
+title: "Proč domácí centrála kombinovaná s tabletem dává smysl"
 ---
 
 <p>Nedávno jsem tu psal, že chystáme v <a href="http://www.energomonitor.cz">energomonitoru</a> zařízení nazvané Quel. Půjde o tablet kombinovaný s domácí centrálou (opět z výroby Current Costu) a pár lidí se podivovalo, proč, když jeho funkci zastanou chytré telefony a skutečné tablety. Tak si říkám, že bych tok našich úvah mohl upřesnit a ozřejmit, proč považujeme takové řešení za vhodné.</p>

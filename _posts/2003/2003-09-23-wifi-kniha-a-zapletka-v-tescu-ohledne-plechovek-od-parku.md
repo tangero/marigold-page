@@ -13,7 +13,7 @@ summary_points:
 - Autor chtěl ověřit vhodnost plechovky od párků pro WiFi anténu.
 - V Tescu měřil plechovky s metrem a vzorci, což vzbudilo podezření.
 - Kniha neobsahuje konkrétní doporučení na plechovku kvůli této příhodě.
-title: WiFi kniha a&nbsp;zápletka v&nbsp;Tescu ohledně plechovek od párků&#8230;
+title: "WiFi kniha a zápletka v Tescu ohledně plechovek od párků…"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Výroba antény vyžaduje odstranění magnetického kotouče a použití kancelářských svorek.
 - Návod k výrobě disketové antény je dostupný na webové stránce wifi-montauban.net.
 - Anténa vyrobená z diskety je směrová.
-title: Anténa z&nbsp;diskety o&nbsp;zisku 9 dBi
+title: "Anténa z diskety o zisku 9 dBi"
 ---
 
 <p>

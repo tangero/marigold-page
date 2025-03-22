@@ -13,7 +13,7 @@ summary_points:
 - T-Mobile web neobsahuje potřebné DNS adresy pro manuální nastavení GPRS.
 - Autor nalezl DNS adresy pro Paegas na starším článku Mobil.cz.
 - Autor zvažuje, zda neměl raději využít Eurotel v Cannes.
-title: Někdo u&nbsp;Ty-Mobile myslel, když vymýšlel stránky o&nbsp;GPRS
+title: "Někdo u Ty-Mobile myslel, když vymýšlel stránky o GPRS"
 ---
 
 <p>

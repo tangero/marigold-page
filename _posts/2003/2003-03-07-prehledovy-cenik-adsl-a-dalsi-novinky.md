@@ -13,7 +13,7 @@ summary_points:
 - Komentáře si pamatují email a jméno i bez registrace.
 - Naprogramována je možnost vypsat komentáře od poslední návštěvy.
 - Odkaz na nové komentáře je provizorně vedle nadpisu.
-title: Přehledový ceník ADSL a&nbsp;další novinky
+title: "Přehledový ceník ADSL a další novinky"
 ---
 
 <p>

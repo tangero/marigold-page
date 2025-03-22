@@ -14,7 +14,7 @@ summary_points:
 - Twitter zřídí radu pro moderování obsahu s rozmanitými názory.
 - Musk slíbil propuštění uživatelů suspendovaných z nevýznamných důvodů.
 - Exodus uživatelů z Twitteru se po Muskově převzetí zatím nekoná.
-title: Svoboda lhát a pomlouvat?
+title: "Svoboda lhát a pomlouvat?"
 ---
 
 Ještě ve čtvrtek si hojně sledovaný twitterový konzervativní účet @catturd2 postěžoval, že mu Twitter uměle snižuje dosah. Tento účet s milionem sledujících opakovaně prosazoval nepravdivá tvrzení o volebních podvodech a retweetoval jej i bývalý prezident Donald Trump. "Dnes si do toho ještě rýpnu," reagoval Musk v pátek ráno na Twitteru. Nedlouho poté navázal: "ať se daří". Nakonec se ale v pátek nic takového nestalo. Musk v pátek odpoledne na Twitteru uvedl, že společnost "vytvoří radu pro moderování obsahu s široce rozmanitými názory".

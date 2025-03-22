@@ -13,7 +13,7 @@ summary_points:
 - Intel odložil čipovou sadu Calexio s WiFi/WiFi5 pro notebooky.
 - Intel bude mít WiFi5 až v polovině roku 2003, konkurence se raduje.
 - Pražský Marriott potvrzuje trend WiFi pro business klientelu.
-title: Hotely Marriott nabídnou WiFi a&nbsp;Intel zdrží své čipy
+title: "Hotely Marriott nabídnou WiFi a Intel zdrží své čipy"
 ---
 
 <p>

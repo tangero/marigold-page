@@ -13,7 +13,7 @@ summary_points:
 - Čtenost blogu vytváří tlak na autora, aby se vyjadřoval ke všemu.
 - Autor je poznáván na veřejnosti, což narušuje jeho soukromí a anonymitu.
 - Autor omezuje odborné články na blogu, přesune je na Mobilring.
-title: Weblogerská úmrtí
+title: "Weblogerská úmrtí"
 ---
 
 <p>Letos nás postihlo několik virtuálních weblogerských úmrtí. Po zavření aKB@large Petra Koubského následoval nedávno Pixy. A já musím říct, že jakkoliv je to smutné, chápu to. </p>

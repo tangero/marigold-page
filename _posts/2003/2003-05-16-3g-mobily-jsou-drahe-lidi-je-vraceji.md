@@ -13,7 +13,7 @@ summary_points:
 - Operátor 3 nabízí dvoutýdenní záruku vrácení peněz bez udání důvodu.
 - Čtvrtina zákazníků operátora 3 využívá záruku vrácení peněz.
 - Vysoká cena 3G mobilů vede zákazníky k vracení zboží.
-title: 3G mobily jsou drahé, lidi je vracejí
+title: "3G mobily jsou drahé, lidi je vracejí"
 ---
 
 <p>

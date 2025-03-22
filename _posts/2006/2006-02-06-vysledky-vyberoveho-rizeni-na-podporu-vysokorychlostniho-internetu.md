@@ -12,7 +12,7 @@ summary_points:
 - Výběrové řízení na podporu vysokorychlostního internetu má výsledky.
 - Ministerstvo průmyslu a obchodu zveřejnilo výsledky na webu micr.cz.
 - Komentáře k výsledkům výběrového řízení na webu nefungují.
-title: 'Výsledky výběrového řízení na podporu vysokorychlostního internetu
+title: "'Výsledky výběrového řízení na podporu vysokorychlostního internetu"
 
   '
 ---

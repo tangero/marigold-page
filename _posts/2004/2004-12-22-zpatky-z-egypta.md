@@ -13,7 +13,7 @@ summary_points:
 - Na pražském letišti trvalo vyložení zavazadel hodinu.
 - Autorovi v Praze vykradli auto v podzemní garáži.
 - Tomáš Kapler (Nonamem) se staral o Marigold během autorovy nepřítomnosti.
-title: Zpátky z&nbsp;Egypta
+title: "Zpátky z Egypta"
 ---
 
 <p>

@@ -17,7 +17,7 @@ summary_points:
 - Eutelsat má nižší latenci oproti GEO satelitům, ale menší přenosovou rychlost než Starlink.
 - Starlink má kompaktnější terminály, Eutelsat je vhodnější pro vládní použití.
 thumbnail: http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2025-03/2025-03-04T101756Z_1534088195_RC2DGT9QBZCY_RTRMADP_3_EUTELSAT-COM-STOCKS.JPG.jpg
-title: Může Eutelsat nahradit na Ukrajině Starlink?
+title: "Může Eutelsat nahradit na Ukrajině Starlink?"
 ---
 
 Musk se rozhodl přitlačit na vydírání Ukrajiny a hrozí vypnutím Starlinku. Již podruhé. Naštěstí se již přes rok pracuje na záložním řešením, jímž může být Eutelsat. Nebude dokonalé, ale bude pro řadu případů dostatečné. Pojďme se na to podívat. 

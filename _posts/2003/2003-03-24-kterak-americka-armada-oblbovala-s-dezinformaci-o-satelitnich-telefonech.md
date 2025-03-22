@@ -15,7 +15,7 @@ summary_points:
 - Americká armáda šířila dezinformaci o satelitních telefonech, aby omezila pohyb
   reportérů v Iráku.
 - Autor doporučuje film Vrtěti psem pro kritické zhodnocení mediálního obrazu války.
-title: Kterak americká armáda oblbovala s&nbsp;dezinformací o&nbsp;satelitních telefonech
+title: "Kterak americká armáda oblbovala s dezinformací o satelitních telefonech"
 ---
 
 <p>

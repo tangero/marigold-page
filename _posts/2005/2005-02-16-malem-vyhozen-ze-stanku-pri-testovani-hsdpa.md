@@ -13,7 +13,7 @@ summary_points:
 - Qualcomm potvrdil latenci HSDPA 150-200 ms, EV-DO Rev A má mít nižší.
 - NEC vidí HSDPA jako službu pro transport velkého obsahu, například videa.
 - HSDPA je dobré pro stahování dat, ale nenahradí pevné připojení.
-title: Málem vyhozen ze stánku při&nbsp;testování HSDPA
+title: "Málem vyhozen ze stánku při testování HSDPA"
 ---
 
 <p>Po včerejších špatných dojmech z HSDPA jsem se rozhodl ověřit, zda jsem nenarazil náhodou na špatný kousek techniky i obsluhy. A tak jsem prošel výstaviště. Siemens vystavuje PowerPoint presentaci, zřejmě tu nemají vlastní základnovku (alespoň jsem si jí nevšiml), takže u něj bylo trudno a kromě hezkých obrázků, které už umím kreslit z paměti, jsem se tu ničehož nedozvěděl. </p>

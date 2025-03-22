@@ -13,7 +13,7 @@ summary_points:
 - Design nového webu Telecomu je kritizován pro velké písmo a barvy.
 - Vyhledávání na novém webu Telecomu nefunguje a hlásí chybu.
 - Nefunkčnost vyhledávání odkazuje na chybu v konfiguraci.
-title: Telecom má nový web
+title: "Telecom má nový web"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - WiFi 2,4 GHz pokryje otevřené plochy brněnského výstaviště.
 - Pavilony budou propojeny optickými vlákny pro rychlejší internet.
 - GTS je výhradní dodavatel internetu pro akce na výstavišti.
-title: 'GTS pokryje brněnské výstaviště WiFi
+title: "'GTS pokryje brněnské výstaviště WiFi"
 
   '
 ---

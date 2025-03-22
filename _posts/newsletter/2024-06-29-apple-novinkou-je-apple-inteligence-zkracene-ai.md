@@ -18,7 +18,7 @@ summary_points:
 - Apple klade důraz na užitečnost, snadné použití, integraci a personalizaci AI.
 - Soukromí dat je klíčové, Apple se poučil z chyb Microsoftu a Adobe.
 - AI funkce od Apple nebudou v EU dostupné kvůli legislativě a sporům.
-title: Apple novinkou je Apple Inteligence, zkráceně AI
+title: "Apple novinkou je Apple Inteligence, zkráceně AI"
 ---
 
 Apple držel počátkem června vývojářskou konferenci. A doba, kdy mobilní telefony budou chytřejší, než jejich uživatelé, se zase o něco přiblížila. Apple představil svou podporu umělé inteligence do všech svých zařízení, počínaje mobilními telefony, přes tablety až po počítače. A mazaně ji nazval Apple Inteligence - tedy AI. Už tedy víme, co ta zkratka znamená. 

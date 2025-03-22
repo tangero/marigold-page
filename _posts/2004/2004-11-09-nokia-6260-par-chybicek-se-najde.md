@@ -13,7 +13,7 @@ summary_points:
 - Fotka je označena jako chráněný obsah, nelze ji kopírovat ani odeslat.
 - Bankovní sim toolkit Oskara způsobuje pád podpory v Nokii při neuzavření zprávy.
 - Další zprávy sim toolkitu se nezobrazí do restartu telefonu.
-title: Nokia 6260 &#8211; pár chybiček se najde&#8230;
+title: "Nokia 6260 – pár chybiček se najde…"
 ---
 
 <p>

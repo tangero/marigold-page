@@ -13,7 +13,7 @@ summary_points:
 - Budoucí telefony Nokia nabídnou gigabity paměti a dvoumegapixelové kamery.
 - Nokia preferuje datový přenos přes WiFi, nikoliv hlasové hovory.
 - Symbian OS a Series 60 zůstávají preferovaným systémem Nokie, ne Linux.
-title: 'Nokia vidí WiFi jako důležitou součást mobilů
+title: "'Nokia vidí WiFi jako důležitou součást mobilů"
 
   '
 ---

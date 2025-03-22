@@ -15,7 +15,7 @@ summary_points:
 - Prodeje chytrých telefonů Nokia dosáhly 12 milionů, z toho 2 miliony Lumia.
 - Lumia se prodávala mizerně kvůli situaci v Asii a nedospělosti WP7.
 - Elopova strategie selhala, Nokia ztratila trhy v Asii a WP7 zaostává.
-title: Několik slov k&nbsp;výsledkům Nokia telefonů v&nbsp;roce 2012
+title: "Několik slov k výsledkům Nokia telefonů v roce 2012"
 ---
 
 Nokia publikovala dokument nazvaný "snížení výhledu prodaných telefonů a služeb za první čtvrtletí roku 2012", v němž připouští to, co se šušká a oficiálně popírá již delší dobu. Strategie obnovy prodeje chytrých telefonů Nokia zatím stále nefunguje. Takže pár komentářů k tomu. 

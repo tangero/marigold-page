@@ -13,7 +13,7 @@ summary_points:
 - WiFi broadband se stal králem levných internetových přípojek v roce 2004.
 - VoIP firmy využívají, občané preferují mobilní volání a Skype.
 - Java hry a aplikace zaznamenaly masivní rozvoj včetně herních portálů.
-title: 'Jak dopadly moje předpovědi na rok 2004
+title: "'Jak dopadly moje předpovědi na rok 2004"
 
   '
 ---

@@ -16,7 +16,7 @@ summary_points:
 - iTunes Movie Rental umožňuje přehrávání půjčených filmů na Mac, Windows, iPod a
   Apple TV.
 - MacBook Air má multitouch trackpad, podobný jako iPhone, pro zoomování a posouvání.
-title: Steve Jobs představil nový MacBook Air a&nbsp;také půjčování filmů
+title: "Steve Jobs představil nový MacBook Air a také půjčování filmů"
 ---
 
 Letošní hlavní projev Steva Jobse na americkém MacWorldu přinesl řádově čtyři novinky. Jedna z nich je zajímavá hlavně pro filmový průmysl a jako něco, co bude formovat strategii téhož, si ji rozebereme trochu víc. Nový notebook MacBook Air bude na český trh přeci jen velké sousto, soudím, ale pro mne osobně jde o něco, na co jsem čekal. Takže o tom už jen tak z osobního zájmu. 

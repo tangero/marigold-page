@@ -15,7 +15,7 @@ summary_points:
 - Gladwellovy knihy Outliers, Mžik a Bod zlomu doporučeny pro pochopení procesů.
 - Ekonomie dobra a zla od Sedláčka a Báječný chaos jsou další doporučené tituly.
 - Nová, podstatná literatura je v Česku nedostupná, nutno číst anglicky.
-title: Bez nových podnětů to nejde (A&nbsp;bez knih taky!)
+title: "Bez nových podnětů to nejde (A bez knih taky!)"
 ---
 
 Pokud nemáte nové podněty, jste odsouzeni ke kopírování. Když jsem byl nedávno po cestách a zapadl do anglickojazyčného knihkupectví, znovu jsem si to uvědomil. Bez nových podnětů to zkrátka nejde, jinak jsme omezeni na tu svoji krabici. Tahle myšlenka by se dala rozvádět donekonečna, ale je to zbytečné, kdo si to neuvědomuje, tratí sám. Neustále je, co se učit nového a jaké nové podněty přijímat. 

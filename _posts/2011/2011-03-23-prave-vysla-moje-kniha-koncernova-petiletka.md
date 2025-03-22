@@ -15,7 +15,7 @@ summary_points:
 - E-kniha je dostupná ve formátech epub, mobi, pdf a bez DRM ochrany.
 - Autor se snaží zjistit, jak funguje prodej e-knih v Česku.
 - Kniha byla dopsána a vydána s pomocí vydavatelství Bookanýr.
-title: 'Právě vyšla moje kniha Koncernová pětiletka
+title: "'Právě vyšla moje kniha Koncernová pětiletka"
 
   '
 ---

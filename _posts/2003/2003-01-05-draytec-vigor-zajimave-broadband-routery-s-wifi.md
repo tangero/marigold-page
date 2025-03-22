@@ -13,7 +13,7 @@ summary_points:
 - Rodina DrayTec Vigor má třináct modelů s různými funkcemi.
 - Nejlevnější Vigor2200We stojí 6700 Kč bez daně.
 - Routery DrayTec jsou levnější než Linksys a D-Link.
-title: DrayTec Vigor &#8211; zajímavé broadband routery s&nbsp;WiFi
+title: "DrayTec Vigor – zajímavé broadband routery s WiFi"
 ---
 
 <p>

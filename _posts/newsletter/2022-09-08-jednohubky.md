@@ -18,7 +18,7 @@ summary_points:
 - iPhony pořídily tři biliony fotografií loni, stonásobek analogových fotoaparátů
   1999.
 - Policie chce data mobilů kvůli vyšetřování požáru u Hřenska, sběr dat.
-title: Jednohubky
+title: "Jednohubky"
 ---
 
 * **USA zakázaly vývoz pokročilých AI čipů do Číny** , omezení se dotkne především Nvidia a AMD. [Článek zde](https://money.usnews.com/investing/news/articles/2022-09-06/analysis-banned-u-s-ai-chips-in-high-demand-at-chinese-state-institutes). 

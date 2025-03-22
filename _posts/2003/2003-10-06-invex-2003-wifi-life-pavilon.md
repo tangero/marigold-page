@@ -13,7 +13,7 @@ summary_points:
 - WiFi Life pavilon představuje firmy IDG, VanCoNet, WideNet a Globe Internet.
 - WideNet nabízí techniku pro hotspot za 10 000 Kč s 65% zisku z provozu.
 - TSG Com a WideNet nabízejí provizní programy pro rozšiřování hotspotů.
-title: Invex 2003 &#8211; WiFi Life pavilon
+title: "Invex 2003 – WiFi Life pavilon"
 ---
 
 <p>

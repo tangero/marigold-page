@@ -13,7 +13,7 @@ summary_points:
 - Telecom pravděpodobně nechce CDMA450, aby nekonkurovalo jeho ADSL.
 - T-Mobile CDMA450 zvažuje pouze jako reakci na případný krok Eurotelu.
 - Oskar se zaměřuje na hlasové a SMS služby, EDGE nasadí nejdříve v polovině 2005.
-title: CDMA450 &#8211; nakonec, co jsme čekali?
+title: "CDMA450 – nakonec, co jsme čekali?"
 ---
 
 <p>

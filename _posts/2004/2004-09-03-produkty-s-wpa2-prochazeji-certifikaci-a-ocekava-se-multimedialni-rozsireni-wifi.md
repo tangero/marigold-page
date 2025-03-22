@@ -14,7 +14,7 @@ summary_points:
 - WPA2 standard je založen na 802.11i a využívá AES šifrování namísto TKIP.
 - Broadcom čipy již podporují AES, takže WPA2 aktivuje softwarový upgrade.
 - WiFi chystá WMM, dočasný standard pro kvalitnější multimédia a VoIP skrze QoS.
-title: Produkty s&nbsp;WPA2 procházejí certifikací a&nbsp;očekává se multimediální
+title: "Produkty s WPA2 procházejí certifikací a očekává se multimediální"
   rozšíření WiFi
 ---
 

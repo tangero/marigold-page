@@ -13,7 +13,7 @@ summary_points:
 - WiFi signál mezi patry nefungoval po přesunu Ditiny pracovny.
 - CDMA modem nefungoval, i přes aktivaci a AT příkaz selhával.
 - Koupě PAN-10 antény v Lublaňské vyřešila problém s internetem v pracovně.
-title: Kterak jsem stěhoval Ditě pracovnu a&nbsp;síťoval ji…
+title: "Kterak jsem stěhoval Ditě pracovnu a síťoval ji…"
 ---
 
 <p>

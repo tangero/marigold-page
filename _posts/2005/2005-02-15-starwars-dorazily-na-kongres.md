@@ -13,7 +13,7 @@ summary_points:
 - Orange má exkluzivní práva na streamování traileru Star Wars III pro mobilní telefony.
 - Trailer Star Wars III unikl dříve na P2P sítě, obcházeje exkluzivitu Orange.
 - Článek obsahuje fotografii vojáků Star Wars v Cannes.
-title: StarWars dorazily na kongres
+title: "StarWars dorazily na kongres"
 ---
 
 <p>Na schodech mi někdo zaklepal na rameno. Otočil jsem se a ejhle, oni to vojáci imperátora. Tak jsem je vyfotil.</p>

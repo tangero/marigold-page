@@ -12,7 +12,7 @@ summary_points:
 - Balík knih Bezdrátové sítě WiFi dorazil a expeduje se objednavatelům.
 - Kniha se nevešla do původních obálek, musely se pořídit nové.
 - Knihu Bezdrátové sítě WiFi lze objednat online nebo koupit v knihkupectvích.
-title: Tak WiFi kniha se již expeduje&#8230;
+title: "Tak WiFi kniha se již expeduje…"
 ---
 
 <p>

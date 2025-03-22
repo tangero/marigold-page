@@ -13,7 +13,7 @@ summary_points:
 - WLAN vyniká rychlostí a cenou, ale postrádá pokrytí a rychlý handover.
 - Nedostatečné WiFi pokrytí v domácnostech je častým důvodem vracení routerů.
 - WiFi v Cannes stojí 5 euro za hodinu, 130 euro za sedm dní.
-title: Integrace WLAN a&nbsp;3GSM sítí a&nbsp;IEEE 802.21
+title: "Integrace WLAN a 3GSM sítí a IEEE 802.21"
 ---
 
 <p>IEEE 802.21 je právě vytvářený standard pro handover mezi WLAN, WiMax a 3GSM. Stojí za ním Airwave, Intel, Microsoft a InterDigital. I proto jsou třeba SMS podporované na IP, aby prošly přes WLAN.</p>

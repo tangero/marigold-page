@@ -13,7 +13,7 @@ summary_points:
 - Access Cube samoorganizovaně routuje internetové připojení mezi propojenými kostkami.
 - Kostky mají externí antény, ethernet, USB, FireWire a podporují vzdálenou správu.
 - Technologie Access Cube je proprietární, vyžaduje zařízení od 4G Systeme GmbH.
-title: 'Z CeBITu: 4G Access Cube &#8211; samoorganizující se WiFi kostka'
+title: "Z CeBITu: 4G Access Cube – samoorganizující se WiFi kostka"
 ---
 
 <p>

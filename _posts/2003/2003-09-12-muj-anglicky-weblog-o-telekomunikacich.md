@@ -13,7 +13,7 @@ summary_points:
 - Telekonom vznikl kvůli AdSense, zaměřuje se na telekomunikace a WiFi.
 - WiFiNetNews zmínil Telekonom, což zvýšilo jeho návštěvnost a ohlas.
 - Autor pokračuje v psaní Telekonomu navzdory jazykovým nedostatkům.
-title: Můj anglický weblog o&nbsp;telekomunikacích
+title: "Můj anglický weblog o telekomunikacích"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Konstantinův edikt zavedl demagogickou víru v jedinou pravdu a nesnášenlivost.
 - Technická prohlášení o "lepším" vyžadují opatrnost a zohlednění komplexnosti.
 - Esoterika a moderní fyzika (superstruny) se protínají v chápání světa.
-title: Elegie evropské technoesoteriky
+title: "Elegie evropské technoesoteriky"
 ---
 
 <p>Zavítal k nám minulý víkend Ditin dědeček. Pro mne jsou to vzácné chvíle (žije v cizině), protože ačkoliv dědeček tvrdí, že tomuhle světu už vůbec nerozumí, není to tak docela pravda - jsou věci, kterým rozumí zatraceně dobře a proklatě jasně mu to myslí, ne nadarmo byl ministrem kultury. Možná si ode mne nechá vysvětlit, co je to Google, ale kdybych tomu kolem sebe nerozuměl tak, jako on, výskal bych si. 

@@ -13,7 +13,7 @@ summary_points:
 - Přenos dat mezi iOS a Android je komplikovaný a časově náročný.
 - Huawei P9 Lite má dobrý poměr cena/výkon, ale fotoaparát selhává ve tmavých scénách.
 - Aktualizace systému na Androidu závisí na distributorech a je nepředvídatelná.
-title: Jaký je přechod z&nbsp;Apple iPhone na vcelku levný telefon s&nbsp;Android
+title: "Jaký je přechod z Apple iPhone na vcelku levný telefon s Android"
   6
 ---
 

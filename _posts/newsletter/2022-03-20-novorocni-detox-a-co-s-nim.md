@@ -15,7 +15,7 @@ summary_points:
 - Detox odhalil negativní vliv digitálních zařízení na soustředění.
 - Autor zrušil Twitter a přestal nosit Apple Watch kvůli notifikacím.
 - Pro sledování zdraví zvolil hodinky Withings Scanwatch s vypnutými notifikacemi.
-title: Novoroční detox a co s ním
+title: "Novoroční detox a co s ním"
 ---
 
 Jednou ročně si dávám měsíční "mobilní digitální detox" (vloni to neklaplo, já vím). Vyndám z iPhone SIM kartu a přehodím ji do Nokia 8110 - žluťoučkého banánku. A měsíc žiju s ním. Už jsem o tom psal v únoru, je to vždy zajímavé, jak se člověk musí přeučit a zvyknout si, například na to, že COVID certifikát si musí vytisknout, neboť na Nokia 8110 jej opravdu nezobrazíte. Týden si člověk zvyká, ale jde to a své přínosy to má. 

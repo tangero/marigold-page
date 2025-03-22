@@ -13,7 +13,7 @@ summary_points:
 - ČTÚ zasedal ohledně tendru 872 MHz po výběru.
 - Řediteli Siemensu vyretušovali Rolex hodinky kvůli propouštění.
 - Skype testuje hlasovou schránku ve Windows verzi s poplatky.
-title: 'Drobky: Oskar chce UMTS, retušovaná fotka ředitele Siemensu, Skype a&nbsp;hlasová
+title: "'Drobky: Oskar chce UMTS, retušovaná fotka ředitele Siemensu, Skype a hlasová"
   schránka a&nbsp;další'
 ---
 

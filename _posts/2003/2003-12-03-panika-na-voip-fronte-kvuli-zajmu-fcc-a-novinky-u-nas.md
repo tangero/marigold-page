@@ -14,7 +14,7 @@ summary_points:
 - Vonage CEO Jeff Citron se vyjádřil proti regulaci VoIP operátorů.
 - FCC zvažuje regulaci přidělování amerických telefonních čísel VoIP operátory.
 - Dyad zavedl VPN Unlimited pro neomezené volání mezi pobočkami za paušál.
-title: Panika na VoIP frontě kvůli zájmu FCC a&nbsp;novinky u&nbsp;nás
+title: "Panika na VoIP frontě kvůli zájmu FCC a novinky u nás"
 ---
 
 <p>

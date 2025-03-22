@@ -16,7 +16,7 @@ summary_points:
 - Autor se obává omezení aplikací třetích stran, zejména e-knih.
 - Podpora titulků, regionálních klávesnic a česká lokalizace jsou nejisté.
 - Autor vidí potenciál iPadu pro čtení, úpravy dokumentů a internet.
-title: 'K Apple iPad zní výhrady, které nejsou důležité
+title: "'K Apple iPad zní výhrady, které nejsou důležité"
 
   '
 ---

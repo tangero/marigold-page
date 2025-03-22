@@ -13,7 +13,7 @@ summary_points:
 - Autor se dostal do administrace nezabezpečeného Linksys routeru souseda.
 - Sdílený disk a nezabezpečený router souseda představují bezpečnostní riziko.
 - Autor hledá způsob, jak anonymně kontaktovat majitele WiFi sítě a upozornit ho.
-title: 'Jak kontaktovat někoho, jehož síť používáte?
+title: "'Jak kontaktovat někoho, jehož síť používáte?"
 
   '
 ---

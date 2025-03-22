@@ -10,7 +10,7 @@ summary_points:
 - Otec připravil kiš koláč a medovník s pomocí umělé inteligence.
 - Recepty byly analyzovány a upraveny pro české podmínky.
 - Sofie pochválila medovník, ale všimla si nepřipečené cenovky.
-title: Na detailu při&nbsp;vaření záleží
+title: "Na detailu při vaření záleží"
 ---
 
 V sobotu jsme slavili narozeniny mladší dcery Sofie. Dvanáct let, to je věk, kdy oslavu narozenin budou dívky s psychoanalytikem dlouho rozebírat, takže bylo třeba se vytáhnout. Lapsus první, čtvrteční security incident na internetu oslavu posunul na sobotu, ale to se dalo ještě omluvit. Bod druhý, žena vyrazila se studenty na terénní praxi. Bod třetí: tím jsem s dětmi osiřel, naštěstí umím perfektně vařit a obstarat děti díky svojí <em>Ajťákově příručce pro kontakt s humanoidními entitami</em>.

@@ -13,7 +13,7 @@ summary_points:
 - Lean startup opomíjí fázi výzkumu a vývoje produktu, což je zásadní nedostatek.
 - Úspěch vyžaduje silnou vizi, znalost trhu, a sociální dovednosti, ne jen testování.
 - Lean startup může vést k neustálému pivotování bez jasného směru a vize.
-title: 'Lean Startup aneb jak se propivotovat do pekla
+title: "'Lean Startup aneb jak se propivotovat do pekla"
 
   '
 ---

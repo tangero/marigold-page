@@ -13,7 +13,7 @@ summary_points:
 - První článek analyzuje telekomunikační regulátory, druhý popisuje e-volby v Estonsku.
 - Estonsko má díky čipovým kartám a dalším opatřením pokročilé e-volby a telekomunikace.
 - Autor vyzývá firmy k zavedení podobného systému e-voleb v České republice.
-title: E-volby v&nbsp;praxi
+title: "E-volby v praxi"
 ---
 
 Noname píše: Vašek Rada z Internet pro všechny se ukazuje jako velmi schopný člověk, po kterém by měly toužit všechny technické redakce. Napsal 2 články, ale oba jsou IMHO úžasné, čtivé, plné informací i vhodných obrázků a hlavně unikátní. První byl <a href="http://www.internetprovsechny.cz/clanek.php?cid=147">průzkum telekomunikačních regulátorů</a>, který by se měli za trest nazpaměť naučit vysoce postavení zaměstanci ČTÚ. Ten druhý, kvůli kterému zde píšu vyšel dnes a <a href="http://www.internetprovsechny.cz/clanek.php?cid=154">popisuje e-volby v Estonsku</a>.

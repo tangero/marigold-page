@@ -13,7 +13,7 @@ summary_points:
 - Linux se prý bude podobat Madonně nebo bude mít deset prstů.
 - Ovládání Linuxu se spíše přiblíží Microsoftu než potřebám uživatelů.
 - KDE by mohl ovládat pan sponka místo uživatele, což je ironická představa.
-title: Nelidský Linux?
+title: "Nelidský Linux?"
 ---
 
 <p>

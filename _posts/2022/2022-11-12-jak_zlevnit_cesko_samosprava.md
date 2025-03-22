@@ -11,7 +11,7 @@ summary_points:
 - Malé obce řeší stejné problémy bez potřebných zdrojů.
 - Státní metodická podpora pro obce je nedostatečná.
 - Německo má méně obcí s větší průměrnou velikostí.
-title: Jak zlevnit Česko? Místní samospráva je nesmírně nákladná, začít lze tady…
+title: "Jak zlevnit Česko? Místní samospráva je nesmírně nákladná, začít lze tady…"
 ---
 
 Samospráva obcí je neuvěřitelně drahá a neefektivní. A není to její chyba a rozhodně to není v platech lidí, co to dělají. Je to v nedomyšleném systému, kde se šesttisíckrát znovuvynalézá kolo. Cožeto?

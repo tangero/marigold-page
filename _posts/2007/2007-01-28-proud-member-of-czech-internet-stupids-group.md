@@ -13,7 +13,7 @@ summary_points:
 - Dědova moudrost říká, že důležití jsou lidé ve skupině, ne její název.
 - Autor byl označen za hlupáka za to, že Hedvíčka nazval spamerem.
 - Autor nechápe označení za neúspěšného mystika, ale s ostatním souhlasí.
-title: 'Proud member of Czech Internet Stupids Group
+title: "'Proud member of Czech Internet Stupids Group"
 
   '
 ---

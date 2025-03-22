@@ -15,7 +15,7 @@ summary_points:
   generovaném Telecomem.
 - Aktivní uživatelé Telecom WiFi přenesli průměrně 322 MB dat měsíčně.
 - Nejoblíbenější pražské WiFi hotspoty se nacházejí v KFC, Nescafé a Káva Káva Káva.
-title: WiFi realita Českého Telecomu
+title: "WiFi realita Českého Telecomu"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Nabídka StarZone málo známých filmů, chybí snímky od velkých distributorů.
 - Stažená data ze StarZone se nezapočítávají do objemových limitů ani FUP.
 - Kvalita přehrávání filmů ze StarZone je výborná, digitalizováno do dvou bitrate.
-title: StarZone.cz &#8211; uskalí distribuce filmů po&nbsp;netu
+title: "StarZone.cz – uskalí distribuce filmů po netu"
 ---
 
 <p>

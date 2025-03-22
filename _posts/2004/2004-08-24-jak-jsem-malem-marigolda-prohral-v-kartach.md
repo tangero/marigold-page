@@ -13,7 +13,7 @@ summary_points:
 - Autor překročil datový limit u Xhostu, jehož adminem je Špunt.
 - Hrálo se o webhosting Marigolda, bod znamenal mega prostoru.
 - Po pěti hodinách hry autor vyhrál 300 MB prostoru navíc.
-title: Jak jsem málem Marigolda prohrál v&nbsp;kartách
+title: "Jak jsem málem Marigolda prohrál v kartách"
 ---
 
 <p>

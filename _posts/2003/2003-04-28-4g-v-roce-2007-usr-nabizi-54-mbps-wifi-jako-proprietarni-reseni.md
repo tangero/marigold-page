@@ -13,7 +13,7 @@ summary_points:
 - USR WiFi zařízení nabízí upgrade firmware na 54 Mbps s názvem XLerator Technology.
 - USR používala čipset TI ACX100 s proprietární modulací PBCC pro rychlost 22 Mbps.
 - D-Link používá stejnou technologii jako USR a nazývá ji 4X.
-title: 4G v&nbsp;roce 2007, USR nabízí 54 Mbps WiFi jako proprietární řešení
+title: "4G v roce 2007, USR nabízí 54 Mbps WiFi jako proprietární řešení"
 ---
 
 <p>

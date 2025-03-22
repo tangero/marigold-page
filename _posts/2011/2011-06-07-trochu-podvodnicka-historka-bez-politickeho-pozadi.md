@@ -15,7 +15,7 @@ summary_points:
 - Autor promočený čekal na benzince, než se uklidní prudký déšť.
 - Po bouřce autor v promočeném stavu popíjel kávu v nákupním centru.
 - Autorův zážitek zakončilo "brekeke" na skupinku dětí.
-title: 'Trochu podvodnická historka bez politického pozadí
+title: "'Trochu podvodnická historka bez politického pozadí"
 
   '
 ---

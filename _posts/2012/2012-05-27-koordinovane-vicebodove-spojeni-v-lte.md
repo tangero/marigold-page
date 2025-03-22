@@ -17,7 +17,7 @@ summary_points:
 - CoMP řeší problém nízké rychlosti na okrajích buněk v mobilních sítích.
 - 'Existují dvě hlavní varianty CoMP: koordinované plánování/formování paprsku a společné
   zpracování.'
-title: Koordinované vícebodové spojení v&nbsp;LTE
+title: "Koordinované vícebodové spojení v LTE"
 ---
 
 <p>Jednou z uvažovaných novinek pro vysokorychlostní datové mobilní přenosy v bezdrátových sítích je takzvané<em> “koordinované vícebodové spojení”</em>, anglicky <strong>Coordinated MultiPoint (CoMP)</strong>. Jde o další cestu, jakou by se mohly bezdrátové sítě dobrat vyšší rychlosti i efektivity (rychlostní i kapacitní).</p>

@@ -13,7 +13,7 @@ summary_points:
 - Roaming mezi WiFi a GSM bude účtován operátorem, nikoliv technicky.
 - TOGEWAnet propaguje systém WeRoam pro sjednocení účtování WiFi a GSM.
 - Nokia D211 podporuje WiFi, HSCSD a GPRS, ale přes PCMCIA kartu.
-title: Roaming mezi WiFi a&nbsp;GSM
+title: "Roaming mezi WiFi a GSM"
 ---
 
 <p>

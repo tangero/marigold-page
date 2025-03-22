@@ -13,7 +13,7 @@ summary_points:
 - Autor navrhuje skenování dopisů a přeposílání emailem.
 - Dále navrhuje box pro cenná psaní s načtením adres z karty.
 - Autor vyzývá k nápadům na modernizaci služeb pošty.
-title: 'Jaké služby byste čekali od České pošty?
+title: "'Jaké služby byste čekali od České pošty?"
 
   '
 ---

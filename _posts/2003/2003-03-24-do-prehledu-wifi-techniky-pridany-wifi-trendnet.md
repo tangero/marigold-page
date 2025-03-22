@@ -13,7 +13,7 @@ summary_points:
 - Produkty TrendNet podporují "turbo" režim WiFi 802.11b.
 - Cena nových zařízení TrendNet je pod 4000 Kč bez DPH.
 - Technické parametry TrendNet jsou zajímavé navzdory nízké ceně.
-title: 'Do Přehledu WiFi techniky přidány WiFi TrendNet
+title: "'Do Přehledu WiFi techniky přidány WiFi TrendNet"
 
   '
 ---

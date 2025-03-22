@@ -13,7 +13,7 @@ summary_points:
 - Autor nechápe výhodu složitého systému oproti jednoduchému zápisu kilometrů.
 - Nové mýto bude sledovat GPS a Galileo, což autor považuje za zbytečné.
 - Autor předpovídá neúspěšnou implementaci systému digitálního mýta.
-title: Digitální mýtné jsem ještě nepochopil&#8230;
+title: "Digitální mýtné jsem ještě nepochopil…"
 ---
 
 <p>

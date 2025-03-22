@@ -13,7 +13,7 @@ summary_points:
 - Logistická centra bez vleček a drahá železnice komplikují ekologickou dopravu.
 - Ucelená dopravní politika chybí, mýtné a alternativy jsou těžko pochopitelné.
 - Simulace dopravy ukazuje negativní vliv kamionů na plynulost provozu.
-title: 'Kamion není tvůj nepřítel. Je to smrtonosná past
+title: "'Kamion není tvůj nepřítel. Je to smrtonosná past"
 
   '
 ---

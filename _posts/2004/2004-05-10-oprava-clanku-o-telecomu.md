@@ -13,7 +13,7 @@ summary_points:
 - Oprava článku na Mobil.cz se týká působení Michala Heřmana v Eurotelu.
 - Tomáš Valeski rezignoval na post generálního ředitele Eurotelu.
 - Volná pozice generálního ředitele Eurotelu je nyní k dispozici.
-title: Oprava článku o&nbsp;Telecomu
+title: "Oprava článku o Telecomu"
 ---
 
 <p>

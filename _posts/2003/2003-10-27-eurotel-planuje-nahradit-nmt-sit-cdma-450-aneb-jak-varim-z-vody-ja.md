@@ -13,7 +13,7 @@ summary_points:
 - Článek o CDMA-450 doplněn o technické detaily, dodavatele a dostupné terminály.
 - Autor článku si nepamatuje jména informátorů kvůli ochraně zdrojů.
 - Původní titulek článku byl změněn, ale článek je podložen fakty.
-title: Eurotel plánuje nahradit NMT síť CDMA-450 (aneb jak vařím z&nbsp;vody já)
+title: "Eurotel plánuje nahradit NMT síť CDMA-450 (aneb jak vařím z vody já)"
 ---
 
 <p>

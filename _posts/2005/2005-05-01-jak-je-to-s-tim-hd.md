@@ -13,7 +13,7 @@ summary_points:
 - Marigold si uvědomuje datové toky moderních kodeků (5-8 Mb/s pro HD).
 - Nekomprimovaný PAL vyžaduje 270 Mb/s, HD video 1,4 Gb/s.
 - Článek naznačuje posun k ukládání médií na síti místo na disku.
-title: Jak je to s&nbsp;tím HD
+title: "Jak je to s tím HD"
 ---
 
 <p>Patrik se dopustil malé nesrovnalosti. Bohužel mu na ní stojí celý článek <a href="../item/na-siti-nebo-na-disku-otazka-skoro-hamletovska" >Na síti nebo na disku - otázka skoro hamletovská ...</a><br />

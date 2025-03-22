@@ -13,7 +13,7 @@ summary_points:
 - XPhone nabízí tarify od 0 Kč do 589 Kč měsíčně s volnými minutami.
 - Tarifikace XPhone se liší dle špičky, mimo špičku a meziměstských hovorů.
 - Hovory v síti XPhone jsou od 0,05 Kč, do VoIP sítí zdarma.
-title: Další VoIP nabídka XPhone od IPCom
+title: "Další VoIP nabídka XPhone od IPCom"
 ---
 
 <p>Novou službu VoIP jsem našel v nabídce chrudimské firmy <a href="http://www.ipcom.cz">IPCom</a> - služba se jmenuje XPhone, což mi nějak koliduje s doménou <a href="http://www.Xphone.cz">Xphone.cz</a>, kde také vzniká VoIP služba, ovšem bez udání provozovatele. Kdo ví, třeba je to nějak propojené. </p>

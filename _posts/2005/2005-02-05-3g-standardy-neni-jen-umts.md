@@ -13,7 +13,7 @@ summary_points:
 - ITU standard IMT-2000 zahrnuje technicky odlišné 3G standardy.
 - Mezi plnohodnotné 3G standardy patří W-CDMA, CDMA2000 a TD-SCDMA.
 - Existují čtyři mírně odlišné 3G technologie, podobně jako u 2G sítí.
-title: 3G standardy &#8211; není jen UMTS
+title: "3G standardy – není jen UMTS"
 ---
 
 <p>Přehled jednotlivých standardů sítí třetí generace. To proto, abyste věděli, že 3G sítě nejsou jen UMTS.

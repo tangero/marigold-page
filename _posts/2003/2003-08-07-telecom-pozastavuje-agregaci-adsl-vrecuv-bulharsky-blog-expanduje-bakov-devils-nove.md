@@ -13,7 +13,7 @@ summary_points:
 - Nokia 6600 má výrazně lepší displej a kameru než předchozí modely Series 60.
 - Vreco si založil blog z Bulharska o jídle, pití a okrádání.
 - Bakov Devils, cyklistický server, má nový design inspirovaný Marigoldem.
-title: 'Telecom pozastavuje agregaci ADSL, Vrecův bulharský blog expanduje, Bakov
+title: "'Telecom pozastavuje agregaci ADSL, Vrecův bulharský blog expanduje, Bakov"
   Devils nově
 
   '

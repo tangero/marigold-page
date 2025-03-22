@@ -13,7 +13,7 @@ summary_points:
 - Datová PCMCIA karta Vodafone Mobile Connect 3G/GPRS podporuje rychlost 384 Kb/s.
 - Karta bude dostupná do čtyř týdnů v sedmi evropských zemích.
 - Cena karty bez dotace je odhadována na 8000 Kč.
-title: Vodafone Mobile Connect 3G/GPRS
+title: "Vodafone Mobile Connect 3G/GPRS"
 ---
 
 <p>

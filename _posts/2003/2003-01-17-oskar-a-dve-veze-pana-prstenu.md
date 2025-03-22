@@ -14,7 +14,7 @@ summary_points:
 - Marigold v soutěži porazil nazgúla a následně se slavnostně rozkrajovaly melouny.
 - Oskar využívá reklamní slogany T-Mobile, například "Zdražili ti esemesky? Nevaž
   se, odvaž se...".
-title: Oskar a&nbsp;Dvě věže Pána prstenů
+title: "Oskar a Dvě věže Pána prstenů"
 ---
 
 <p>

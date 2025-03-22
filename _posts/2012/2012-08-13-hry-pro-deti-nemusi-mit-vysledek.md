@@ -17,7 +17,7 @@ summary_points:
 - Ideální hra/aplikace pro malé děti by měla být jednoduchá, bez menu a konců.
 - Autor nenalezl aplikace, které by splňovaly jeho požadavky na jednoduchost pro malé
   děti.
-title: Hry pro děti nemusí mít výsledek
+title: "Hry pro děti nemusí mít výsledek"
 ---
 
 <p> Tu a tam používám iPad jako nástroj dětského zájmu. Asi jako každý rodič jím vybavený jsem přešel z fáze "na tak drahou věc mi nesahej" přes fázi "no dobře" a fáze "kde je sakra můj iPad" není daleko.</p>

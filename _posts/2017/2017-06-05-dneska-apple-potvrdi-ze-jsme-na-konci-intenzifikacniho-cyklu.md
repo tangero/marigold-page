@@ -10,7 +10,7 @@ summary_points:
 - Očekávání jsou nižší, novinky se zdají být neinspirativní.
 - Inovace Applu se zdají stagnovat, hledá se další technologický skok.
 - Technologický vývoj se zdá být na vrcholu, hledají se nové směry a inovace.
-title: 'Dneska Apple potvrdí, že jsme na konci intenzifikačního cyklu
+title: "'Dneska Apple potvrdí, že jsme na konci intenzifikačního cyklu"
 
   '
 ---

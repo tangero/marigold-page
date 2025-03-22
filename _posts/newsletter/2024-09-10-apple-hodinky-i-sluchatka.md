@@ -16,7 +16,7 @@ summary_points:
   cyklus.
 - Sluchátka AirPod nabízejí vylepšené potlačení hluku.
 - 'Doporučení zní: kupte si nové modely, pokud je potřebujete.'
-title: Apple hodinky i sluchátka
+title: "Apple hodinky i sluchátka"
 ---
 
 A. na závěr: Apple představil desítkové hodinky Apple Watch, další generaci modelu Ultra a nová sluchátka AirPod i Airpod Pro. Tam asi není co řešit, pokud potřebujete nový model, jděte do nich. Zajímavostí je u hodinek příprava pro šnorchlování (potápění nepřežijou) a teploměr, který zjistí, zda nemáte menstruaci. A sluchátka Airpod mohou mít fajnové potlačení hluku. 

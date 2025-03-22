@@ -13,7 +13,7 @@ summary_points:
 - Autor zprávu o GPRS paušálu získal z neveřejné konference a e-mailu.
 - Autor neví, zda Eurotel zruší GPRS paušál, má pouze mnoho předpokladů.
 - Autor se chystá zveřejnit informace o GPRS paušálech u jiných operátorů.
-title: Takový pojeb z&nbsp;Eurotelu jsem už dlouho neschytal&#8230;
+title: "Takový pojeb z Eurotelu jsem už dlouho neschytal…"
 ---
 
 <p>

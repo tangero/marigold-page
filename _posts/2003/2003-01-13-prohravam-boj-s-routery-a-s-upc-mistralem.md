@@ -13,7 +13,7 @@ summary_points:
 - Starý router SMC Barricade funguje s Mistralem bez problémů.
 - Klonování MAC adresy nepomohlo novým routerům s připojením.
 - Autor zvažuje update firmware a hledá rady, jak problém vyřešit.
-title: Prohrávám boj s&nbsp;routery a&nbsp;s&nbsp;UPC Mistralem&#8230;
+title: "Prohrávám boj s routery a s UPC Mistralem…"
 ---
 
 <p>

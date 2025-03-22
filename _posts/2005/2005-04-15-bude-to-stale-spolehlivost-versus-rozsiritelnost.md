@@ -13,7 +13,7 @@ summary_points:
 - Dřívější nestabilitu Windows způsobovaly špatné ovladače třetích stran.
 - BlackBerry vyniká rychlostí a spolehlivostí, ale omezenou rozšiřitelností.
 - Mobilní operační systémy nenabízejí dostatečnou ochranu před nekorektním softwarem.
-title: 'Bude to stále spolehlivost versus rozšiřitelnost?
+title: "'Bude to stále spolehlivost versus rozšiřitelnost?"
 
   '
 ---

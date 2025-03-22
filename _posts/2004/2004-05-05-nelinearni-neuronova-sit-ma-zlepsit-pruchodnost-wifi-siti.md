@@ -13,7 +13,7 @@ summary_points:
 - SmartPackets používá nelineární neuronovou síť pro predikci budoucího stavu sítě.
 - Propustnost sítě 802.11b se údajně zvýšila až o 100% díky algoritmu SmartPackets.
 - Autor je skeptický k tvrzenému zvýšení propustnosti o 200-800 procent.
-title: 'Nelineární neuronová síť má zlepšit průchodnost WiFi sítí
+title: "'Nelineární neuronová síť má zlepšit průchodnost WiFi sítí"
 
   '
 ---

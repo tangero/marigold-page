@@ -14,7 +14,7 @@ summary_points:
 - Úspěšní byli kandidáti s regionální známostí a "nezávislé" kandidátky bez politické
   značky.
 - Pro úspěch fungovalo strašení voličů a sliby návratu "do starých kolejí".
-title: Zvolen zastupitelem
+title: "Zvolen zastupitelem"
 ---
 
 V letošních komunálních volbách jsem kandidoval na třetím místě Brandýsko-Boleslavské pirátské kandidátky a nakonec jsem byl díky preferenčním hlasům zvolen. Dostali jsme dva mandáty a preferenčních hlasů jsem dostal přesně 666, což mi přijde symbolické. [Kompletní výsledky našeho města jsou zde](https://ct24.ceskatelevize.cz/?kv=kandidati-v-obcich&municipalityId=538094). A děkuji za to, byť je to mírné překvapení. Dovolte mi několik postřehů ke komunálním volbám. Je to pár obecných postřehů z komunálních voleb od člověka, který prožil už asi čtvrtou volební kampaň dosti intenzivně, v plném nasazení. 

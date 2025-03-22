@@ -15,7 +15,7 @@ summary_points:
 - Šebrleho jméno se stalo nejhledanějším klíčovým slovem na Google.
 - Česká média si této zprávy nevšimla, což autor kritizuje.
 - Autor zvažuje založení zpravodajského webu s automatizovaným obsahem.
-title: 'Roman Šebrle je nejlepším sportovcem světa
+title: "'Roman Šebrle je nejlepším sportovcem světa"
 
   '
 ---

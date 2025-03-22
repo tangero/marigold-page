@@ -16,7 +16,7 @@ summary_points:
 - Nastavení DVB-T přijímače je komplikované, problémy působí i nekvalitní překlady
   menu a názvů programů.
 - Autor zvažuje nákup nového DVB-T přijímače a žádá o doporučení konkrétních modelů.
-title: DVB-T (digitální televize) rulez &#8211; jaké doporučujete DVB-T přijímače?
+title: "DVB-T (digitální televize) rulez – jaké doporučujete DVB-T přijímače?"
 ---
 
 <p><strong>Noname píše:</strong> tak jsem se konečně dostal k vyzkoušení digitálního vysílání a musím potvrdit, že je to bomba. 15 km za Prahou (Světice u Říčan), předtím signál ČT+Nova obstojný, Prima hodně zašuměný, po připojení DVB-T přijímače signál 10 televizí (navíc ČT24, ČT Sport, 24CZ, TopTV, Óčko a nějaká slovenská) křišťálově čistý - digitálně dokonalý.</p>

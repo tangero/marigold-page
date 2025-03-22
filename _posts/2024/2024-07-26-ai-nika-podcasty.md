@@ -16,7 +16,7 @@ summary_points:
 - Podsmart a Sumly nabízejí placené sumarizace podcastů emailem.
 - AutoThread analyzuje podcasty a vytváří vlákna na Twitter, ale jen v angličtině.
 thumbnail: https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/mic-brain-artificial-intelligence-ai-podcast.png
-title: Další nika, do které se AI nacpe? Podcasty!
+title: "Další nika, do které se AI nacpe? Podcasty!"
 ---
 
 S podcasty je to těžké. Já je moc rád nemám, jsou pro mě informačně řídké, hodinu něco posloucháte a hodnotných informací z toho není zase tak moc. Ze článku byste je vstřebali rychleji. V oborech mého zájmu přitom vzniká velké množství podcastů a usledovat se to nedá. A tak vznikají služby, které podcasty zanalyzují a dají vám jejich sumář. 

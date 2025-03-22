@@ -13,7 +13,7 @@ summary_points:
 - A1402s má GPS modul, čtečku QR kódů a infra ovladač televize.
 - Telefon disponuje dvěma displeji, hlavním 2,3 palce a menším přídavným.
 - Kamera A1402s má QVGA rozlišení, 8 MB paměti a váží 104 gramů.
-title: Nový Sony Ericsson A1402 má i&nbsp;ovládání TV
+title: "Nový Sony Ericsson A1402 má i ovládání TV"
 ---
 
 <p>

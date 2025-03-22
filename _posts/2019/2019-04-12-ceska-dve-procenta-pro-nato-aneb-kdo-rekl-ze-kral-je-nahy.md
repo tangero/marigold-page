@@ -12,7 +12,7 @@ summary_points:
 - Investice do armády by měly reflektovat moderní války, nikoliv minulé konflikty.
 - Zvýšení vzdělanosti obyvatelstva je klíčové pro efektivní obranu státu.
 thumbnail: https://zivotvcesku.cz/wp-content/uploads/2020/11/image_new-project-2020-11-05t091657-645_20-11-05-09-17-09-680x382.png
-title: Česká dvě procenta pro NATO aneb Kdo řekl, že král je nahý?
+title: "Česká dvě procenta pro NATO aneb Kdo řekl, že král je nahý?"
 ---
 
 Tohle eskaluje rychle.  [Mikuláš Torrent Ferjenčík](https://www.facebook.com/mikfer?__tn__=%2CdK-R-R&eid=ARDrNYIiyl7_rSHIJyWYPkRkWEnIBSHwX5-uq-eXY4TVxWiEZaF005zTMc8nMa7Z1SMkMjm5D2EgIjWc&fref=mentions)  napíše ve facebookovém statusu, že 2% z HDP na obranu jsou v nejbližší době nedosažitelné při udržení ostatních závazků vlády. A najednou se vyrojí hromada všech těch liberálních i konzervativních politků, kteří ho začínají natírat za to, že zpochybnil naše závazky k NATO. Naše závazky k NATO zpochybňuje fakt, že je neplníme. A neplníme je dlouhodobě. Mně osobně žlučí hnul bývalý ministr obrany Alexandr Vondra, který na Twitteru Mikuláš Ferjenčíka napálil, přiložil nálepky „neomarxismus“ atd. Přitom to byl on, za jehož ministrování obrany dosáhly procentta výdajů na obranu lokálního minima, nikdy před ním nebyly nižší.

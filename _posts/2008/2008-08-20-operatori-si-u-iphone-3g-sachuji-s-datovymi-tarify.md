@@ -18,7 +18,7 @@ summary_points:
 - Vodafone zpočátku nabídl dražší datový balíček pro iPhone, než konkurence.
 - Vodafone snížil cenu datového balíčku pro iPhone po kritice zákazníků.
 - České iPhone tarify jsou méně výhodné než v Polsku, zejména v datech.
-title: Operátoři si u&nbsp;iPhone&nbsp;3G šachují s&nbsp;datovými tarify
+title: "Operátoři si u iPhone 3G šachují s datovými tarify"
 ---
 
 Kolem Apple iPhone 3G je v poslední době hezky rušno. Své ceny <a href="http://www.cz.o2.com/osobni/cz/telefony_a_zarizeni/iphone/prices.html">zveřejnilo O2</a>, po něm včera Vodafone, dneska <a href="http://t-mobile.cz/iphone">T-Mobile</a> a <a href="http://blog.vodafone.cz/?p=561">Vodafone</a> je dneska upravil.

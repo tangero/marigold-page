@@ -13,7 +13,7 @@ summary_points:
 - Video má velikost přibližně 86MB a nahrává se postupně.
 - Video není distribuováno přes distribuční systém Streamu.
 - Flash video lze přehrát přímo v textu.
-title: Broadband Monday přednáška o&nbsp;Stream.cz
+title: "Broadband Monday přednáška o Stream.cz"
 ---
 
 <p>Dostal jsem video z přednášky Broadband Monday se záznamem mého povídání o videu na internetu a Stream.cz. Takže koho to zajímá, flash video si může přehrát rovnou zde. 

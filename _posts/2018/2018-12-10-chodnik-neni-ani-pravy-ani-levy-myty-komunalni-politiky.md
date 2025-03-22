@@ -9,7 +9,7 @@ summary_points:
 - Hybridní model kombinuje oba přístupy, osciluje mezi pravo-levým financováním.
 - Politická rétorika o „nepolitickém chodníku“ je často skrytou podporou stávajícího
   systému.
-title: Chodník není ani pravý, ani levý čili mýty komunální politiky
+title: "Chodník není ani pravý, ani levý čili mýty komunální politiky"
 ---
 
 Chodník není ani pravý, ani levý (neboli dělba pravice/levice není mrtvá) – pozor, je to delší článek 🙂

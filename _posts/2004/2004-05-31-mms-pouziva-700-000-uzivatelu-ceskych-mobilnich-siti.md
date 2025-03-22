@@ -14,7 +14,7 @@ summary_points:
 - Počet uživatelů MMS se meziročně zvýšil desetinásobně.
 - České sítě řeší problém s posíláním fotek z megapixelových fotoaparátů kvůli limitu
   30 Kb.
-title: MMS používá 700&nbsp;000 uživatelů českých mobilních sítí
+title: "MMS používá 700 000 uživatelů českých mobilních sítí"
 ---
 
 <p>

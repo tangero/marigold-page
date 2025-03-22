@@ -13,7 +13,7 @@ summary_points:
 - SMS zprávy jsou v tarifu Telia Xpress neomezeně a zdarma.
 - Měsíční poplatek Telia Xpress je 510 Kč, volání 5,10 Kč/min.
 - Data v Telia Xpress stojí 1,7 Kč/10 Kb, lze přikoupit levnější tarif.
-title: 'Tarif, kde jsou SMS zdarma. V&nbsp;Dánsku: Telia Xpress'
+title: "Tarif, kde jsou SMS zdarma. V Dánsku: Telia Xpress"
 ---
 
 <p>

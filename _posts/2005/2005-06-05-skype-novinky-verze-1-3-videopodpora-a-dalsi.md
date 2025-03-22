@@ -13,7 +13,7 @@ summary_points:
 - Nová verze Skype umožňuje zanechat vzkaz i uživatelům bez záznamníku.
 - USA vede v počtu Skype uživatelů, následují Polsko, Taiwan a Čína.
 - CERN zakázal Skype kvůli P2P architektuře obcházející firewally.
-title: 'Skype novinky: verze 1.3, videopodpora a&nbsp;další'
+title: "Skype novinky: verze 1.3, videopodpora a další"
 ---
 
 <p>Skype vydal betaverzi 1.3 s datem 2. června 2005. Zatím není úplně jasné, proč ji vydal - seznam <a href="http://www.skype.com/help/guides/knownproblems.html#1.3">známých problémů</a> obsahuje čtrnáct položek, z nichž některé jako vytížení procesoru na 100% v neidentifikovaných případech, nejsou zrovna povzbudivé. </p>

@@ -17,7 +17,7 @@ summary_points:
   populaci.
 - Fotoaparát v mobilu je zajímavá hračka, ale po počátečním nadšení se jeho používání
   snižuje.
-title: 'Mobile Urban Legends: fotoaparáty v&nbsp;mobilech jsou trhák'
+title: "Mobile Urban Legends: fotoaparáty v mobilech jsou trhák"
 ---
 
 <p>

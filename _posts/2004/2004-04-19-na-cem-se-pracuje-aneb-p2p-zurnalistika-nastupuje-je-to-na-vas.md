@@ -13,7 +13,7 @@ summary_points:
 - GIOM zařízení testováno s úspěchem, recenze s omezením rychlosti bude brzy.
 - Autor slíbil článek o GPRS na Mobil a o WiFi anténách pro Marigold.
 - Autor vyzývá k řešení problému WiFi připojení tří lokalit A, B, C s nízkými náklady.
-title: Na čem se pracuje&#8230; (aneb P2P žurnalistika nastupuje, je to na vás)
+title: "Na čem se pracuje… (aneb P2P žurnalistika nastupuje, je to na vás)"
 ---
 
 <p>

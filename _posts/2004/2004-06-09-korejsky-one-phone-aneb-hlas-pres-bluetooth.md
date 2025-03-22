@@ -14,7 +14,7 @@ summary_points:
   linkou.
 - KT plánuje službu DU, která má snížit náklady na volání o 20-30%.
 - I s 200 000 uživateli bude One-phone přínos pro KT menší než 1% příjmů.
-title: 'Korejský One-phone aneb hlas přes bluetooth
+title: "'Korejský One-phone aneb hlas přes bluetooth"
 
   '
 ---

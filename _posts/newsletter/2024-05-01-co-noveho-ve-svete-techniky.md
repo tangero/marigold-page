@@ -18,7 +18,7 @@ summary_points:
 - OpenELM, nový LLM od Apple, má levnější trénink a rychlejší výstup.
 - Meta vydala Llama 3 8B a 70B, nejvýkonnější open source modely.
 - Copilot Workspace, Memory od OpenAI a roboty Boston Dynamics jsou novinky.
-title: ✅ Co nového ve světě techniky?
+title: "✅ Co nového ve světě techniky?"
 ---
 
 Nejvíce excitující je čekání na květnové uvedení nových Apple produktů, tady zřejmě půjde o nové iPady, které budou rychlejší, lepší, hezčí - a to je to, co bychom čekali, to je zbytečné zmiňovat. 

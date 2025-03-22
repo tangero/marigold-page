@@ -14,7 +14,7 @@ summary_points:
 - Autor s kamarádem vytvořili bluespam software pro hromadné odesílání spamu přes
   Bluetooth.
 - Článek nabízí test digitálního IQ a odkaz na vtipný manželský rozhovor.
-title: Bluejacking bude nástroj mobilního spamu. A&nbsp;otestujte si své digitální
+title: "Bluejacking bude nástroj mobilního spamu. A otestujte si své digitální"
   IQ
 ---
 

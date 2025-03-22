@@ -16,7 +16,7 @@ summary_points:
   DRM.
 - Autor chce mezi sebou a čtenářem mezičlánek pro propagaci a prezentaci knihy.
 - Úspěch e-knih vidí autor v prodeji několika stovek kusů za tři měsíce.
-title: I eknihy budou potřebovat mezičlánky
+title: "I eknihy budou potřebovat mezičlánky"
 ---
 
 <p>

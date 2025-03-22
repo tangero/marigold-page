@@ -15,7 +15,7 @@ summary_points:
 - Každý čtenář Marigoldu by musel přispět 15 Kč měsíčně, aby se náklady pokryly.
 - Lidé ochotněji platí za obsah, který je pro ně relevantní a přináší jim hodnotu.
 - Model dobrovolných příspěvků pro malá média je v Česku obtížně udržitelný.
-title: Dobrovolné příspěvky na obsah (Marigolda) &#8211; zamyšlení
+title: "Dobrovolné příspěvky na obsah (Marigolda) – zamyšlení"
 ---
 
 <p>Vrátím se k tématu, které v diskusi znovu nadhodil David Antoš. Dobrovolné příspěvky za provoz média. Abychom se mohli přesunout z roviny dojmů do roviny pojmů, pojďme si udělat menší model.</p>

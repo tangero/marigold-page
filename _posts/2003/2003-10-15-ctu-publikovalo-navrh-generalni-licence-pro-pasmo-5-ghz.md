@@ -13,7 +13,7 @@ summary_points:
 - Výhrady k návrhu licence lze zasílat do 30 dnů od 14. října.
 - Připomínky jsou důležité pro ovlivnění provozu WiFi sítí v 5 GHz.
 - Podrobnosti k zasílání výhrad jsou dostupné na webu ČTÚ.
-title: 'ČTÚ publikovalo návrh generální licence pro pásmo 5 GHz
+title: "'ČTÚ publikovalo návrh generální licence pro pásmo 5 GHz"
 
   '
 ---

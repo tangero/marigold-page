@@ -17,7 +17,7 @@ summary_points:
 - Rekonfigurovatelné inteligentní povrchy (RIS) optimalizují šíření signálu odrazem
   nebo přesměrováním v 5G/6G.
 thumbnail: https://www.marigold.cz/assets/chytre-anteny-praha.png
-title: Chytré antény pro sítě 5G a 6G
+title: "Chytré antény pro sítě 5G a 6G"
 ---
 
 Dnešní mobilní telefony potřebují být zároveň stále menší, výkonější a déle vydržet na baterie. Jenže výkon - v ohledu přenosových rychlostí - znamená především stále širší obsluhované rádiové spektrum, aby bylo možné zdvihat přenosové rychlosti. A to také znamená nutnost prudkého vývoje anténních technologií. Moderní antény musí být kompaktní, dobře pracovat s frekvencemi, které by se mohly vzájemně rušit a také přispívat k energetické úspornosti. Pro jednoduchost všeho říkáme, že musí být „chytré“. Přeci byste nechtěli mít pitomou anténu na chytrém mobilu. A už to také nejsou antény, ale spíše pole. Podívejme se na to, co se s ohledem na sítě 5G a 6G děje v anténních technologiích.

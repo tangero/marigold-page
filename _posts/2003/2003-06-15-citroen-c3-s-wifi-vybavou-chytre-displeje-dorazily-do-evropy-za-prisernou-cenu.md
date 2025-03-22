@@ -13,7 +13,7 @@ summary_points:
 - Chytré displeje Smart Displays se začaly prodávat v Evropě.
 - ViewSonic V110 stojí v Evropě 1200 EUR, v USA 800 USD.
 - Vysoká cena chytrých displejů v Evropě je nekonkurenceschopná.
-title: Citroen C3 s&nbsp;WiFi výbavou. Chytré displeje dorazily do Evropy &#8211;
+title: "Citroen C3 s WiFi výbavou. Chytré displeje dorazily do Evropy –"
   za příšernou cenu.
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - Zpravodajské servery řeší dilema mezi články, reklamou a uživatelskou přehledností.
 - Titulní stránky často zbytečně zobrazují málo klikané prvky, jako aktivní diskuse.
 - Design zpravodajských serverů je globálně uniformní, hledání inovací je výzva.
-title: Jak nakreslit zpravodajský server
+title: "Jak nakreslit zpravodajský server"
 ---
 
 <p>Když změnil svůj vzhled Root.cz, prohnala se blogy vlna opovržení nad tím, kterak byl design změněn. Spousta lidí si kopla, popíchla, přišlápla – ale nikde jsem nenarazil na radu či názor, jak dnes nadesignovat moderní zpravodajský server. A přitom je to podle mne téma, které je velmi palčivé.</p>

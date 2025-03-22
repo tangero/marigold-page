@@ -13,7 +13,7 @@ summary_points:
 - Vstupné z koncertu poputuje indonéskému velvyslanectví.
 - Aneta Langerová a další umělci vystoupí bez nároku na honorář.
 - Koncert bude živě vysílán na internetové adrese mms://195.250.155.75/ocko.tv.
-title: Koncert pro Asii živě na Internetu
+title: "Koncert pro Asii živě na Internetu"
 ---
 
 <p><font size="2">Hudební stanice <strong>Óčko</strong> odvysílá v přímém

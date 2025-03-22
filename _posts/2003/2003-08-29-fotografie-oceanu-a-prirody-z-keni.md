@@ -13,7 +13,7 @@ summary_points:
 - Autor je hrdý na noční fotografie pořízené Sony 717 za svitu měsíce.
 - Expozice do 15 vteřin a úpravy ve Photoshopu zlepšily kvalitu nočních snímků.
 - Nyní se autor chystá zpracovat fotografie zvířat z Keni.
-title: Fotografie oceánu a&nbsp;přírody z&nbsp;Keni
+title: "Fotografie oceánu a přírody z Keni"
 ---
 
 <p>

@@ -17,7 +17,7 @@ summary_points:
 - WiFinder vyhledává otevřené WiFi sítě a testuje připojení.
 - Autor doporučuje aplikace pro správu úkolů jako OmniFocus, Things a SmartTime.
 - CannonGame je hra, kde se střílí kanónem na cíle, podobná Scorched Earth.
-title: 'Deset aplikací, co by neměly chybět na iPhone plus šest her
+title: "'Deset aplikací, co by neměly chybět na iPhone plus šest her"
 
   '
 ---

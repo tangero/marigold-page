@@ -13,7 +13,7 @@ summary_points:
 - Intersil vydal nový Prism firmware s bezpečnostním standardem WPA pro WiFi.
 - WPA přináší dočasné klíče, lepší šifrování a dynamickou distribuci klíčů.
 - První produkty s WPA se očekávají na jaře 2003, podpora se čeká i od Lucentu.
-title: 'Zpět do práce, Intersil vydává bezpečnostní upgrade na bázi WPA
+title: "'Zpět do práce, Intersil vydává bezpečnostní upgrade na bázi WPA"
 
   '
 ---

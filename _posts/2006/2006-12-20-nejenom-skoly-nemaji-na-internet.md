@@ -13,7 +13,7 @@ summary_points:
 - Školy budou muset volit mezi provozem a internetem, což autor považuje za správné.
 - Alternativní internetové připojení může být pro školy levnější než SIPVZ.
 - Autor nabízí školám pomoc s hledáním výhodného internetového připojení.
-title: (Nejenom) školy nemají na Internet
+title: "(Nejenom) školy nemají na Internet"
 ---
 
 <texy><strong>Noname píše:</strong> Jak si můžete přečíst třeba na <a href="http://jankuv.blog.lupa.cz/0612/sipvz-otevreny-dopis-skolske-komise-svazu-mest-a-obci-cr-a-unie-skolskych-asociaci-cr-czesha">Jankově blogu</a> nebo na <a href="http://zpravy.idnes.cz/skoly-se-odpoji-od-internetu-dosly-penize-fi1-/domaci.asp?c=A061219_084109_domaci_pei">iDnesu</a>, školy teď mají velký problém - kromě mnoha jiných věcí, nový rozpočet nepočítá nově s dotacemi na státní a informační politiku ve vzdělávání (SIPVZ), tedy s penězi na připojení škol a tak dále. Možná trochu píchnu do vosího hnízda, ale mám k tomu trochu "alternativní pohled".

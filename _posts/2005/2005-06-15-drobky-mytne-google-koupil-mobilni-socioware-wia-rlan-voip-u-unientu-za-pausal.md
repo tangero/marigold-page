@@ -13,7 +13,7 @@ summary_points:
 - Google koupil Dodgeball, americkou aplikaci pro vyhledávání přátel a komunikaci.
 - WIA koupila RLAN síť Nextry, což má smysl i přes nenažranost Telecomu.
 - Unient spustil Viphone Express, VoIP telefonování za paušální poplatek.
-title: 'Drobky: mýtné, Google koupil mobilní socioware, WIA RLAN, VoIP u&nbsp;Unientu
+title: "'Drobky: mýtné, Google koupil mobilní socioware, WIA RLAN, VoIP u Unientu"
   za paušál'
 ---
 

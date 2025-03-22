@@ -13,7 +13,7 @@ summary_points:
 - Český Telecom vylepšoval technickou strategii DSL ve dvou generacích.
 - První generace DSL strategie ČTc zavedla tři vzdálenostní zóny dle rychlosti.
 - ČTc plánuje po ADSL technologii přejít na VDSL2 pro vyšší rychlosti.
-title: Všechny cesty k&nbsp;internetu
+title: "Všechny cesty k internetu"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041110-cvtss-logo.gif" alt="logo ČVTSS" width="164" height="80" /></div><p>

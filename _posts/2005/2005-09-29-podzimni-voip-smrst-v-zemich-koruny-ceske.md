@@ -14,7 +14,7 @@ summary_points:
 - Ha-loo od ha-vel umožňuje zdarma otestovat kvalitu služby na 15 minut.
 - EriVoIP od Českého bezdrátu bude dostupná od 1. října s vlastní nabídkou.
 - UPC připravuje internetovou telefonii, možná i bez internetové přípojky.
-title: Podzimní VoIP smršť v&nbsp;Zemích koruny České
+title: "Podzimní VoIP smršť v Zemích koruny České"
 ---
 
 <p>Ještě jsme se nestihli řádně pomodlit za svatého Václava (současníky přezdívaného <i>Ptáčníkův poskok</i>) a už tu máme další záplavu novinek v české internetové telefonii. Předpokládám, že smršť souvisí s chystáním na Invex a s tím, že dneska VoIP představuje každý, povzbuzen úspěchem Skype, coby investici do budoucna. </p>

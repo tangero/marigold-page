@@ -13,7 +13,7 @@ summary_points:
 - Mobily mohou být regulovány jako drogy kvůli rušení a zneužívání.
 - Bohatí lidé se od mobilů oprošťují, vnímají je jako zotročení.
 - Budoucnost mobilů je nejistá, možná povede k jejich omezení nebo zániku.
-title: 'Jaroslav Dušek: Do dvou let bude možno mobilem telefonovat pouze z&nbsp;budky'
+title: "Jaroslav Dušek: Do dvou let bude možno mobilem telefonovat pouze z budky"
 ---
 
 <p>Včera jsme vyrazili na hru Jaroslava Duška Čtyři dohody. Osobně se tomu zdráhám říkat hra, jde spíše o kázání v takovém tom starosvětském stylu, v blízkém kontaktu s obecenstvem, ale kázání se tomu neříká. Asi proto, že kdysi by na kázání lidi nechodili a dneska, když už u J. Duška tuší, o co jde, je to jedno. Lístky samozřejmě zajistila Dita z moci své úřední od Cleverlance a já byl ten klasický Plus Jedna, ba dokonce jsem se domníval, že už v Cleverlance nikoho neznám. Později na rautu se ukázalo, že chyba lávky a několik cleverlancáků asi ještě teď dumá nad tím, jestli jsem opravdu VIP zákazník na javové bankovní systémy. Podle mne podařená akce, zdálo se mi, že i bankéři se bavili. </p>

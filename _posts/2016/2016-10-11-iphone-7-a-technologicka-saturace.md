@@ -13,7 +13,7 @@ summary_points:
 - Nové iPhony zvyšují produktivitu, ale také neustálou dostupnost a stres.
 - Sdílení zážitků se stalo nutností, což omezuje osobní prožitek.
 - Oprava starého iPhonu je volbou proti společenskému tlaku na neustálou modernizaci.
-title: iPhone&nbsp;7 a&nbsp;technologická saturace
+title: "iPhone 7 a technologická saturace"
 ---
 
 Mám iPhone 5s a na jazyku otázku, proč bych měl přejít na sedmičku, telefon o tři generace novější. Dobrá odpověď mi chybí, ale tohle není příběh obyčejného Apple hejtu. To je příběh generace. 

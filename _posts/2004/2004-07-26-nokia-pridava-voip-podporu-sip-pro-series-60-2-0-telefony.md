@@ -13,7 +13,7 @@ summary_points:
 - SIP Stack a nastavení profilu jsou zdarma ke stažení pro vývojáře.
 - Očekává se vývoj SIP VoIP programů pro Series 60 telefony.
 - VoIP přes GPRS není ideální, ale usnadní vývoj Push to talk aplikací.
-title: Nokia přidává VoIP podporu SIP pro Series 60&nbsp;2.0 telefony
+title: "Nokia přidává VoIP podporu SIP pro Series 60 2.0 telefony"
 ---
 
 <p>

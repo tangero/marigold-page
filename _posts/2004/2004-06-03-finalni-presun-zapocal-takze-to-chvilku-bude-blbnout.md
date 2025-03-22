@@ -13,7 +13,7 @@ summary_points:
 - Staré RSS zdroje přestanou fungovat, nové odkazy jsou v pravém menu.
 - Genesis 2 končí, jeho funkce budou dočasně odkazovány, než budou přepsány v PHP.
 - Poděkování patří Vášovi, Lamimu, Lopovi a Mobil Media za podporu Marigoldu.
-title: Finální přesun započal &#8211; takže to chvilku bude blbnout
+title: "Finální přesun započal – takže to chvilku bude blbnout"
 ---
 
 <p>

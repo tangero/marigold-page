@@ -13,7 +13,7 @@ summary_points:
 - Prezentace ZTE UMTS technologií probíhá od dneška do středy.
 - Přístupnost ZTE akce pro veřejnost je nejistá, web je nedostatečný.
 - Autor plánuje návštěvu ZTE prezentace, pokud mu to čas dovolí.
-title: Roadshow ZTE 3G dnes dorazí do Prahy
+title: "Roadshow ZTE 3G dnes dorazí do Prahy"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20050517-zte-roadshow.jpg" alt="ZTE Roadshow" width="275" height="169" /></div>Už z Cannes jsem hlásil, že činský výrobce telekomunikační techniky ZTE vypraví po Evropě pojízdný cirkus, který má dorazit i do Prahy. Kamiony s demonstrační technikou budou ukazovat pokroky v čínském kopírování 3G výrobků, v tomto případě zejména UMTS. </p>

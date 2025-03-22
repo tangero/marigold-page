@@ -14,7 +14,7 @@ summary_points:
 - Recall zobrazuje graf četnosti a kontextu vyhledávaného slova v čase.
 - Alexandrijská knihovna provozuje WayBack Machine a Recall pro uchování digitálního
   vědění.
-title: Recall &#8211; fulltext minulosti
+title: "Recall – fulltext minulosti"
 ---
 
 <p>

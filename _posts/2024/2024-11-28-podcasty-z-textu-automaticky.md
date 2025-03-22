@@ -15,7 +15,7 @@ summary_points:
 - Superpodcast nabízí nastavení podcastů, ale je přetížený.
 - Audio Přehledy v NotebookML jsou kvalitní, ale pouze v angličtině.
 thumbnail: https://www.marigold.cz/assets/google-notebookml.png
-title: Jak vytvořit audio podcast z vašich textů automaticky pomocí AI
+title: "Jak vytvořit audio podcast z vašich textů automaticky pomocí AI"
 ---
 
 Umělá inteligence přinesla řadu úžasných nástrojů pro analýzu dat. Jednou z forem výstupu takové analýzy může být i hlasová podcast. Představíme si tři nástroje, do nichž můžete nasypat své podklady, nechat si vygenerovat hlasový výstup - a ten si pak nahrát do mobilu a poslouchat jej za běhání či v autě.

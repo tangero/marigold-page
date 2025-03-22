@@ -13,7 +13,7 @@ summary_points:
 - Dotykový displej s grafity znaky může nahradit klávesnicové ovládání.
 - Displej by mohl být otočný pro psaní perem i v zavřeném stavu.
 - Nokia je opatrná v mechanických experimentech kvůli dřívějším problémům.
-title: Nokia komunikátor se Series 90 &#8211; spekulace pokračují
+title: "Nokia komunikátor se Series 90 – spekulace pokračují"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Mobil.cz testoval WiFi router a USB adaptér značky OvisLink, levné a dobré.
 - KFC Palác Flóra WiFi propaguje minimálně, téměř žádná informace pro zákazníky.
 - Autor řeší název knihy o WiFi, pracovní názvy jsou WiFi bible a Bezdrátové sítě.
-title: Ceny WiFi hardware mají padnout, testy OvisLinku. KFC propagace WiFi nic moc.
+title: "Ceny WiFi hardware mají padnout, testy OvisLinku. KFC propagace WiFi nic moc."
   Jak nazvat knihu o&nbsp;WiFi?
 ---
 

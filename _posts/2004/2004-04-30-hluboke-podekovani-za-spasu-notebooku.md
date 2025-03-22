@@ -13,7 +13,7 @@ summary_points:
 - Softwarová čistka notebooku proběhla, nepotřebné programy byly odstraněny a nahrazeny.
 - Prezidentské volby byly prošvihnuty, autor se cítí vinen kvůli občanské laxnosti.
 - Rakušan s trvalým pobytem v cizině může volit prezidenta a zástupce EU.
-title: 'Hluboké poděkování za spásu notebooku
+title: "'Hluboké poděkování za spásu notebooku"
 
   '
 ---

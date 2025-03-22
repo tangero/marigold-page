@@ -14,7 +14,7 @@ summary_points:
 - Článek "Renting property in the Czech Republic" popisuje obtíže cizinců při hledání
   bydlení v Praze.
 - Česká republika v oblasti standardů bydlení zaostává za Kalifornií a Evropou.
-title: Jak se Amík dívá na shánění bydlení v&nbsp;Čechách
+title: "Jak se Amík dívá na shánění bydlení v Čechách"
 ---
 
 <p>

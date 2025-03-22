@@ -17,7 +17,7 @@ summary_points:
   týdnu.
 - Šéf pravidelně kontroluje krabice, rozděluje úkoly a sleduje pokrok obchodních případů.
 - Arabský kamarád autora používá RFID čipy na papírech pro kontrolu vyhazování dokumentů.
-title: 'Bezpapírová kancelář? Kdepak, udělejte si systém obchodního oddělení pomocí
+title: "'Bezpapírová kancelář? Kdepak, udělejte si systém obchodního oddělení pomocí"
   velbloudů
 
   '

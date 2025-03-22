@@ -15,7 +15,7 @@ summary_points:
 - Autor touží po centrálním úložišti hudby/filmů s jednoduchým přehráváním.
 - Televize neumí titulky ze sítě, DLNA je tedy pro autora nepoužitelné.
 - Po deseti letech je autor s digitalizací domácnosti nespokojený.
-title: 'Digitalizace domácnosti stále uspokojivě nedořešena
+title: "'Digitalizace domácnosti stále uspokojivě nedořešena"
 
   '
 ---

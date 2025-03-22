@@ -13,7 +13,7 @@ summary_points:
 - MobilMania opravila chybu v článku o počtu SMS zpráv u Irů.
 - Sony představila Linuxový router HN-R1 s Wi-Fi a USB tiskárnou.
 - Sony zveřejnila zdrojový kód Linuxu použitého v routeru HN-R1.
-title: 'MobilMania: měsíc nebo den? Sony Linux router s&nbsp;WiFi'
+title: "MobilMania: měsíc nebo den? Sony Linux router s WiFi"
 ---
 
 <p>

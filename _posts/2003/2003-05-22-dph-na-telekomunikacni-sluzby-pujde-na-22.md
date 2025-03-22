@@ -13,7 +13,7 @@ summary_points:
 - Zvýšení DPH se týká internetu, právníků, účetních, nájmu nemovitostí a automobilů.
 - Autor textu kritizuje vládu a navrhuje demonstrace proti zvyšování cen.
 - Zákon o DPH musí ještě schválit Senát a podepsat prezident.
-title: DPH na telekomunikační služby půjde na 22%
+title: "DPH na telekomunikační služby půjde na 22%"
 ---
 
 <p>

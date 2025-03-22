@@ -13,7 +13,7 @@ summary_points:
 - Tungsten C hlásí chyby při pokusu o přihlášení k Telecom WiFi.
 - Swisscom nabízí WiFi na Telecom Worldu za luxusní ceny (198 franků/týden).
 - Autor zvažuje alternativy k Swisscom WiFi, včetně T-Mobile GPRS a AirSnortu.
-title: Český Telecom WiFi &#8211; zase drobnosti
+title: "Český Telecom WiFi – zase drobnosti"
 ---
 
 <p>

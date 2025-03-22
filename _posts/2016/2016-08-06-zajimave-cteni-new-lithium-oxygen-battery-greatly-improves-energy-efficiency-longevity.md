@@ -15,7 +15,7 @@ summary_points:
 - Considered highly promising technologies for electric cars and portable electronic
   devices.
 - More information can be found in the full article linked above.
-title: 'Zajímavé čtení: New lithium-oxygen battery greatly improves energy efficiency,
+title: "'Zajímavé čtení: New lithium-oxygen battery greatly improves energy efficiency,"
   longevity'
 ---
 

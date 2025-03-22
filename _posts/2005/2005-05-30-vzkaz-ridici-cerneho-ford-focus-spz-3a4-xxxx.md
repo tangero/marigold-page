@@ -13,7 +13,7 @@ summary_points:
 - Autor textu kritizuje slovník nadávek druhého řidiče jako jednotvárný a frustrovaný.
 - Sklápěcí zrcátko auta autora textu nebylo možné urazit pouhou silou.
 - Autor textu pouze požádal druhého řidiče o uvolnění cesty.
-title: 'Vzkaz řidiči černého Ford Focus SPZ 3A4 XXXX
+title: "'Vzkaz řidiči černého Ford Focus SPZ 3A4 XXXX"
 
   '
 ---

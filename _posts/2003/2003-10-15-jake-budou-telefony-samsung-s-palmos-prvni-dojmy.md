@@ -13,7 +13,7 @@ summary_points:
 - Telefony s PalmOS byly dříve prezentovány na veletrhu CeBit.
 - Autor měl možnost si s telefony krátce pohrát.
 - Další informace o telefonech Samsung PalmOS naleznete na Palmare.cz.
-title: Jaké budou telefony Samsung s&nbsp;PalmOS? (první dojmy)
+title: "Jaké budou telefony Samsung s PalmOS? (první dojmy)"
 ---
 
 <p>

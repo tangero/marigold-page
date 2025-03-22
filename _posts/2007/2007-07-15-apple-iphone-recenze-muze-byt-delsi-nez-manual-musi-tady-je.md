@@ -13,7 +13,7 @@ summary_points:
 - iPhone zlidšťuje mobilní telefony, které jsou s rostoucím počtem funkcí obtížnější.
 - iPhone dělá všechno, co slibuje, a to perfektně, klade důraz na jednoduchost.
 - Do iPhone lze soubory dostat pouze synchronizací s iTunes z jednoho počítače.
-title: Apple iPhone recenze &#8211; může být delší, než manuál? Musí! Tady je&#8230;
+title: "Apple iPhone recenze – může být delší, než manuál? Musí! Tady je…"
 ---
 
 Nebude to klasická recenze. Zejména z toho důvodu, že telefon, který recenzuji, se na českém trhu pravděpodobně nikdy prodávat nebude. Pro Evropu bude existovat jiná verze, která přijde na trh na přelomu roku a bude se lišit. Jak moc, to jistě nevíme, ale pár zvěstí si probereme na závěr tohoto článku. Je důležité zmínit, že přitom vůbec není jisté, jestli evropský prodej telefonu bude zahrnovat i Česko. A nakonec ani to, zda nějaký evropský prodej bude existovat.

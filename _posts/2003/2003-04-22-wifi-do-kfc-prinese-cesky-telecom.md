@@ -13,7 +13,7 @@ summary_points:
 - WiFi hotspoty budou připojeny na ADSL linku, což je jednoduché řešení.
 - Patnáct provozoven KFC, z toho jedenáct v Praze, získá WiFi.
 - WiFi v KFC by mohlo být dostupné již v červnu.
-title: WiFi do KFC přinese Český Telecom
+title: "WiFi do KFC přinese Český Telecom"
 ---
 
 <p>

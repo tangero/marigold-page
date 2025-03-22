@@ -13,7 +13,7 @@ summary_points:
 - Trvalá pohotovost znamená, že práce proniká do soukromí bez přestávky.
 - Multitasking narušuje soustředění a snižuje produktivitu hluboké práce.
 - Oddělení práce a soukromí je klíčové pro lepší výsledky a duševní pohodu.
-title: Trvalá pohotovost, soustředění a&nbsp;multitasking života i&nbsp;práce
+title: "Trvalá pohotovost, soustředění a multitasking života i práce"
 ---
 
 Multitasking života a práce. Jestli nějaké slovní spojení může charakterizovat změny, jež přineslo poslední desetiletí, tak právě tohle. Nikdy před tím nedocházelo k tak rozsáhlému prolínání práce a osobního života, jako v posledním desetiletí. To, co se ještě před pár lety týkalo jen vrcholových manažerů či politiků, tedy nutnost být v případě potřeby na příjmu a řešit problém ohrožující život korporace či státu, je najednou běžná samozřejmost pro každého. Zatím to považujeme za výhodu  nebo to neřešíme. Dostali jsme přeci v práci chytrý mobilní telefon zapůjčený zdarma. Notebook. No a že šéf píše o víkendu? Tak si to přečteme a když tak do pondělí promyslíme. Nic závadného to přeci není. 

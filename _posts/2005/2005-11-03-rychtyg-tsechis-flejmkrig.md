@@ -15,7 +15,7 @@ summary_points:
   Nucleusu.
 - Hulán obvinil Davida Grudla z krádeže myšlenky Texy, editoru textu.
 - Hulán pohrozil žalobou uživateli Cheese za kritický názor na jeho jednání.
-title: Rychtyg tšéchiš flejmkríg
+title: "Rychtyg tšéchiš flejmkríg"
 ---
 
 <p>Milý občane Říše, pokud jsi si někdy myslel, že Protektorát Čechy a Morava je opožděný v ochraně autorských práv, přinášíme vám zaručeně exklusivní, živou a autentickou zprávu o tom, že tomu tak skutečně není a že uvědomění Tschechen je na úrovni, kterou by leckterý volksgenosse mohl závidět. </p>

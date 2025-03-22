@@ -19,7 +19,7 @@ summary_points:
   vlivu.
 - Vlastnictví médií se stalo standardem v české politice, vyžadující kritické posuzování
   informací.
-title: Centrum by Babišovi dávalo smysl
+title: "Centrum by Babišovi dávalo smysl"
 ---
 
 <p> Lidovky přinesly informaci o tom, že Andrej Babiš je jedním ze zájemců o koupi Centrum Holdins. Zejména kvůli zpravodajskému Aktuálně. Babiš si kromě toho údajně koupil slovenské Hospodárské noviny, jejich vydavatel Ecopress to ovšem odmítá. Tuzemské Hospodářky s těmi slovenskými nejsou spojené, ty české ovládá Bakala (trochu se to plete). <a href="http://medialne.etrend.sk/tlac-spravy/ln-babis-chce-centrum-holdings-udajne-kupil-hospodarske-noviny.html" target="_self" title="">Podrobněji je to zde</a>.</p>

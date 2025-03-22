@@ -13,7 +13,7 @@ summary_points:
 - MMS přenos funguje, ale se subjectem zobrazuje nesmyslné znaky.
 - Tisková konference Siemensu včera skončila až kolem jedné.
 - Po konferenci následovala noční okružní jízda v Cannes.
-title: V Cannes je rušno
+title: "V Cannes je rušno"
 ---
 
 <p>

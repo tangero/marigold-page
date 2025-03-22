@@ -12,7 +12,7 @@ summary_points:
 - Houby komunikují mezi sebou, což dokazuje vědecká studie o jejich jazyku.
 - Google přestal rozmazávat ruské vojenské základny na satelitních snímcích v Mapách.
 - AirTagy jsou zneužívány ke stalkingu, což se týká třetiny policejních případů.
-title: Jednohubky
+title: "Jednohubky"
 ---
 
 [Houby mají svůj jazyk](https://royalsocietypublishing.org/doi/10.1098/rsos.211926) \- vědecká práce o komunikaci, kterou mezi sebou vedou houby. 

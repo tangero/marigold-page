@@ -13,7 +13,7 @@ summary_points:
 - Wired News varuje před snahou Cisco ovládnout trh WLAN.
 - Cisco u ethernetu prosadilo proprietární technologie jako standard.
 - Cisco zřejmě plánuje dominanci na trhu WiFi pomocí licencí.
-title: Kde je zakopaný pes v&nbsp;Cisco nabídce pro WiFi rozšíření?
+title: "Kde je zakopaný pes v Cisco nabídce pro WiFi rozšíření?"
 ---
 
 <p>

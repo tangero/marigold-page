@@ -15,7 +15,7 @@ summary_points:
   v Symbianu.
 - Dell zrušil plány na smartphone s Microsoftem, kritizujíc jeho neschopnost konkurovat
   Symbianu.
-title: Operační systémy pro mobily &#8211; to se nám to rozjíždí
+title: "Operační systémy pro mobily – to se nám to rozjíždí"
 ---
 
 <p>

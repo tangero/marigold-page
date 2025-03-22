@@ -13,7 +13,7 @@ summary_points:
 - Britské puby budou vybaveny WiFi, což autor očekává i v pražských hospodách.
 - Pooh.cz vyhlásil anketu Český Lahváč 2002 jako alternativu k Zavináči.
 - Autor doporučuje hlasovat v anketě Český Lahváč 2002 a je zvědav na výsledky.
-title: Beng USB WiFi adaptér, Britové s&nbsp;WiFi v&nbsp;hospodách, Pooh vyhlašuje
+title: "Beng USB WiFi adaptér, Britové s WiFi v hospodách, Pooh vyhlašuje"
   anketu Český Lahváč
 ---
 

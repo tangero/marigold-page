@@ -13,7 +13,7 @@ summary_points:
 - Doporučená cena WiFi SD karty od SanDisku je 130 USD.
 - Ovladače pro PalmOS u WiFi SD karty nejsou zmíněny.
 - K WiFi SD kartě je trial verze prohlížeče ThunderHawk.
-title: SanDisk dal do prodeje SD s&nbsp;WiFi
+title: "SanDisk dal do prodeje SD s WiFi"
 ---
 
 <p>

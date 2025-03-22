@@ -13,7 +13,7 @@ summary_points:
 - Dita a Petr Koubský přeložili knihu Kódů a šifer.
 - Autor doporučuje knihu ke koupi, například na Kosmas.cz.
 - Autor edituje svou WiFistickou bibli, jejíž vydání je nejisté.
-title: 'To musíte mít: Kniha kódů a&nbsp;šifer&#8230;'
+title: "To musíte mít: Kniha kódů a šifer…"
 ---
 
 <p>

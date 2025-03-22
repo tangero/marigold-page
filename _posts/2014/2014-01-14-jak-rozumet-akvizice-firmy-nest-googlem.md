@@ -13,7 +13,7 @@ summary_points:
 - Nest vyvíjí chytré termostaty automaticky regulující teplotu a šetřící energii.
 - Data z termostatů umožňují získat detailní informace o domácnosti a jejím chování.
 - Nest cílí na regulaci energetiky, úspory, a poplatky za vyvažování sítě.
-title: Jak rozumět akvizice firmy Nest Googlem
+title: "Jak rozumět akvizice firmy Nest Googlem"
 ---
 
 <p>Jestli nemáte rádi hračičky nebo se nepohybujete v energetice a Internetu věcí či startupech, asi jste o společnosti Nest nikdy neslyšeli. Proto pro vás možná je současná zpráva, že ji internetový gigant Google kupuje za více jak tři miliardy dolarů, poněkud šokantní a mohly by se ozývat výkřiky "bublina", "debilové" a další rychlé tuzemské soudy. A protože je to business, kde se <a title="" href="http://www.energomonitor.cz" target="_self">pohybuju dvakrát (tedy internet a energetika)</a>, dovolím si sesumarizovat pár fakt bez nároku na úplnost. Řada věcí je tajných, pár věcí jsou spíše domněnky, neb zveřejněno je málo a Nest sám o svých podkladových technologiích a záměrech nemluví.</p>

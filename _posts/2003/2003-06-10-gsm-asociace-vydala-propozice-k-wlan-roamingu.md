@@ -15,7 +15,7 @@ summary_points:
   a WISP.
 - Provozovatelé bezdrátových a mobilních sítí mohou dokument IR.61 využít k aktualizaci.
 - Dokument IR.61 je dostupný ke stažení ve formátu PDF.
-title: GSM asociace vydala propozice k&nbsp;WLAN roamingu
+title: "GSM asociace vydala propozice k WLAN roamingu"
 ---
 
 <p>

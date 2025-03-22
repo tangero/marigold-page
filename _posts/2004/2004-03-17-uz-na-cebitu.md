@@ -13,7 +13,7 @@ summary_points:
 - Autor si nevzal fotoaparát, pouze 3G telefon Siemens U15.
 - WiFi od WeRoamu je pro novináře zdarma pouze na hodinu.
 - Zítra se očekávají boje o ethernetové připojení k internetu.
-title: Už na CeBITu&#8230;
+title: "Už na CeBITu…"
 ---
 
 <p>

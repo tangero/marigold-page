@@ -13,7 +13,7 @@ summary_points:
 - Přesměrování signálu vyžaduje směrové antény a koaxiální kabel pro spojení.
 - Odraz signálu vyžaduje malý úhel mezi body a odraznou desku.
 - Pasivní retranslace je vhodná na krátké vzdálenosti bez elektřiny, ale dražší.
-title: Chci bezdrátovou síť (6.2)
+title: "Chci bezdrátovou síť (6.2)"
 ---
 
 <p>

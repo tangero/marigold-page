@@ -13,7 +13,7 @@ summary_points:
 - TDC se do dvou týdnů rozhodne o odkoupení Contactelu.
 - TDC má opci na Contactel do 2. května 2005.
 - Zprávy o Eurotelu přinesly Živě a MobilMania bez zdroje.
-title: 'Český Telecom má údajně odkoupit Eurotel do konce dubna, TDC zase Contactel
+title: "'Český Telecom má údajně odkoupit Eurotel do konce dubna, TDC zase Contactel"
 
   '
 ---

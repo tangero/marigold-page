@@ -13,7 +13,7 @@ summary_points:
 - Nokia jako první velká firma inzerovala, prolomila tak bariéru pro další výrobce.
 - Mobil server, Seznam a MIA/Medea sjednotili prodej reklamy na imprese.
 - Karel Holub a Marek Zekič byli pionýři české internetové reklamy na Mobil serveru.
-title: 'Jak jsme na Mobil serveru prodávali první reklamu
+title: "'Jak jsme na Mobil serveru prodávali první reklamu"
 
   '
 ---

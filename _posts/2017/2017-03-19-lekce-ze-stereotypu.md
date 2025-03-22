@@ -10,7 +10,7 @@ summary_points:
 - Vágus hrající na piáno překvapí svým talentem a rozbije stereotypy.
 - Turistky jsou přesvědčeny, že vágus je slavný český pianista.
 - Vágus odhaluje, že hraje zřídka, ale piáno ho přimělo k improvizaci.
-title: Lekce ze stereotypů
+title: "Lekce ze stereotypů"
 ---
 
 Balada o klišé. Balím se na CeBIT a dochází mi, jak málo slušného oblečení mám. Zhubnutí šatníku nesvědčí. A pak boty: mám na běhání, do terénu, slušného neutrálního nic. Říkám si, že mě jistě nebudou posuzovat podle oblečení, ale podle mé pronikavé inteligence, s níž jim budu presentovat naši práci.

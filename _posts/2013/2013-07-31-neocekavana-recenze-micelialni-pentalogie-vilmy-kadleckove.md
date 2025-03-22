@@ -13,7 +13,7 @@ summary_points:
 - Česká sci-fi/fantasy zaostává myšlenkově i kvalitou za zahraniční konkurencí.
 - Mycelium přináší nový pohled na motivace mimozemských civilizací po 2001.
 - Mycelium je kvalitní dílo, vyžadující přemýšlení, odlišné od běžné české SF.
-title: 'Neočekávaná recenze myceliální pentalogie Vilmy Kadlečkové
+title: "'Neočekávaná recenze myceliální pentalogie Vilmy Kadlečkové"
 
   '
 ---

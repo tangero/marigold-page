@@ -14,7 +14,7 @@ summary_points:
 - Provozovatelé bezdrátových sítí zanedbávají webovou prezentaci a chybí základní
   informace.
 - Internet pro všechny spouští slovenskou verzi databáze bezdrátových sítí.
-title: 'Internet pro všechny hlásí: &#8220;Kampaň na bezdráty pokračuje&#8221;'
+title: "Internet pro všechny hlásí: “Kampaň na bezdráty pokračuje”"
 ---
 
 <p>

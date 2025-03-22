@@ -13,7 +13,7 @@ summary_points:
 - Jorn Barger je autorem termínu "weblog", který použil koncem roku 1997.
 - První jednoduchý nástroj pro tvorbu blogů Pitas se objevil v červenci 1999.
 - Weblog je pravidelně aktualizovaná stránka s odkazy a subjektivními komentáři.
-title: 'Weblogová doba čili novinář versus webloger
+title: "'Weblogová doba čili novinář versus webloger"
 
   '
 ---

@@ -15,7 +15,7 @@ summary_points:
 - O2 neumí převést tarif na Go kartu bez výměny SIM.
 - Go karta s O2 Mix tarifem má levnější SMS až od následujícího měsíce.
 - Dobíjení Go karty převodem z Raiffeisenbank není možné.
-title: To je pařba, ta Go karta
+title: "To je pařba, ta Go karta"
 ---
 
 Odešel jsem ze Streamu a protože jsem před časem své soukromé číslo převedl na Stream, zase jsem ho převáděl zpět. Původně jsem přemýšlel o tom, že si pořídím tarif u O2 spolu s novým iPhone, ale tenhle příběh bude o tom, jak a proč jsem to neudělal a o tom, jaké smutné chvíle člověk s Go kartou musí zažít. Připomínám, že jiné prepaid karty na českém trhu jsem takhle intenzivně nepoužíval, takže možná by mne zprudila i konkurence, na druhou stranu jak Twist tak Vodakartu mám a tyhle strasti jsem s nimi nezažíval. 

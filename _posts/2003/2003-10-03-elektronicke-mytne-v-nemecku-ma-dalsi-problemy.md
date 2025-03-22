@@ -13,7 +13,7 @@ summary_points:
 - Německá vláda očekávala od mýta 160 milionů eur měsíčně.
 - Elektronické mýtné v ČR nevyužívá satelitní navigaci, ale odečet v mýtnicích.
 - Kamiony už dnes používají tachografy pro záznam rychlosti a času jízdy.
-title: Elektronické mýtné v&nbsp;Německu má další problémy
+title: "Elektronické mýtné v Německu má další problémy"
 ---
 
 <p>

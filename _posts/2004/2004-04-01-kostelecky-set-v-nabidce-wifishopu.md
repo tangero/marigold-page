@@ -13,7 +13,7 @@ summary_points:
 - 'Set se prodává ve dvou variantách: Plné (s párky) a Prázdné (bez párků).'
 - Cena plné verze je 99 Kč, prázdné 49 Kč, obě bez DPH.
 - CzFree fórum diskutuje o levnější výrobě a nabízí burzu plechovek.
-title: Kostelecký set v&nbsp;nabídce WiFishopu
+title: "Kostelecký set v nabídce WiFishopu"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Mobile Triple Play cílí na využití mobilů doma, v kanceláři i na cestách.
 - HSDPA dosáhlo v říjnu 2004 rychlosti 9,6 Mbps v živé síti.
 - Mobile TV se dnes dopravuje přes unicast, chystá se MBMS.
-title: Ericsson a&nbsp;HSDPA
+title: "Ericsson a HSDPA"
 ---
 
 <p>O HSDPA a tom, jak změní mobilní komunikaci, povídá na úvodní konferenci technický ředitel Ericssonu Hakan Eriksson. Zatím to vypadá na slušně nudnou přednášku, rozplývá se nad tím, že WCDMA má celosvětove 18 milionů uživatelů a jak to naroste na 300 milionů do roku 2007.</p>

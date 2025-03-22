@@ -13,7 +13,7 @@ summary_points:
 - Linksys WGA54G bude dostupný ve třetím čtvrtletí 2003, cena není známa.
 - Linksys WET54G je ethernetový bridge s podporou 802.11g a Power-over-Ethernet.
 - Linksys WET54G bude dostupný v létě, cena není známa.
-title: Linksys připravuje WiFi i&nbsp;pro konzolové gamesníky
+title: "Linksys připravuje WiFi i pro konzolové gamesníky"
 ---
 
 <p>

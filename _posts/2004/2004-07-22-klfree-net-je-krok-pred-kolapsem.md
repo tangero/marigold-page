@@ -13,7 +13,7 @@ summary_points:
 - Staré vedení KlFree.Net odneslo přístupové body a nabízí komerční WiFi.
 - Nové vedení KlFree.Net podalo trestní oznámení a upravuje síť.
 - Audit KlFree.Net by měl rozřešit spory o majetek a účetnictví.
-title: KlFree.Net je krok před kolapsem
+title: "KlFree.Net je krok před kolapsem"
 ---
 
 <p>

@@ -12,7 +12,7 @@ summary_points:
 - Rodiče často volí alternativy jako domácí výuku, soukromé školy nebo školy v zahraničí.
 - Nerovnosti ve vzdělání se projeví v další generaci, pokud systém nezlepší podmínky
   pro všechny děti.
-title: 'České školství je dobrý příklad místní schopnosti budovat paralelní struktury
+title: "'České školství je dobrý příklad místní schopnosti budovat paralelní struktury"
 
   '
 ---

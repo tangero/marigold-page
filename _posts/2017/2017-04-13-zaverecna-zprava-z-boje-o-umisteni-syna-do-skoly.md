@@ -10,7 +10,7 @@ summary_points:
 - Brutální rozdíly mezi přístupem soukromých škol
 - Ministerstvo zpomaluje vydávání akreditací soukromým základkám
 - Vznik "černých škol" kvůli nedostatku akreditovaných možností
-title: Závěrečná zpráva z&nbsp;boje o&nbsp;umístění syna do školy
+title: "Závěrečná zpráva z boje o umístění syna do školy"
 ---
 
 Aby byl report z boje o synovo umístění na základní školu úplný, dám sem (snad) závěr.<!--more-->

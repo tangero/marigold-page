@@ -15,7 +15,7 @@ summary_points:
 - Obsah aplikací se ukládá do historie chatu.
 - Integrace zvyšuje produktivitu při vývoji kódu.
 thumbnail: https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg
-title: ChatGPT může používat některé aplikace na macOS pro efektivnější práci s kódem
+title: "ChatGPT může používat některé aplikace na macOS pro efektivnější práci s kódem"
 ---
 
 ChatGPT pro macOS nyní nabízí možnost spolupracovat s vašimi aplikacemi. Kopíruje tím nedávno představenou funkci [Computer Use pro Claude](https://docs.anthropic.com/en/docs/build-with-claude/computer-use) společnosti Anthropic. V beta verzi mohou uživatelé umožnit ChatGPT přístup k obsahu kódovacích aplikací, jako jsou Xcode, VS Code nebo TextEdit, pro lepší asistenci při vývoji. 

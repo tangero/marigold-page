@@ -17,7 +17,7 @@ summary_points:
 - Data z aplikací pro sledování periody mohou být zneužita.
 - Meta zpřístupňuje jazykový model OPT s detailními informacemi o trénování.
 - Čínské automobilky porážejí světové značky v prodeji elektrovozů.
-title: Jednohubky
+title: "Jednohubky"
 ---
 
 **Twitter dostal pokutu 150 milionů** dolarů za to, že nutil lidi, aby mu poskytli telefonní číslo pro 2FA, a pak toto číslo používal k cílení reklamy, aniž by na to upozornil nebo s tím souhlasil. To se táhlo až do roku 2019.

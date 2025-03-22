@@ -14,7 +14,7 @@ summary_points:
   povinná od 2013.
 - SRR radary využívají frekvence 24 GHz (dočasně) a 79 GHz (trvale).
 - Konsorcium SARA vyvíjí SRR radary a zkoumá komunikaci radarů mezi vozidly.
-title: Vozidlové radary &#8211; Short-range radar
+title: "Vozidlové radary – Short-range radar"
 ---
 
 <p>Evropská unie přišla v rámci programu eSafety s požadavkem snížit počet smrtelných úrazů při srážce chodce s vozidlem na polovinu do roku 2010. Vzhledem k tomu, že počet smrťáků roste, je to odvážný plán, podobný plán ostatně přijaly i USA. Jednou z cest, jak počet smrtelných úrazů snížit, mají být vozidlové radary s krátkým dosahem, takzvané Short-range radar (SRR). Podle některých zdrojů má být jejich montáž do vozů povinná od roku 2013, sám jsem tohle nařízení EU nedohledal, spíše jsem se díval po technologickém vymezení takových radarů.</p>

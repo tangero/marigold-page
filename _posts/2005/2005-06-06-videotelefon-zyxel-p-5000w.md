@@ -13,7 +13,7 @@ summary_points:
 - Telefon disponuje pětipalcovým dotykovým LCD displejem a vestavěnou CMOS kamerou.
 - Ovládat videotelefon lze dálkově infračerveným ovládáním a podporuje SIP.
 - Motorola Ojo je podobný, ale slabší videotelefon na trhu.
-title: Videotelefon ZyXEL P-5000W
+title: "Videotelefon ZyXEL P-5000W"
 ---
 
 <p>S videotelefonem ZyXEL P-5000W se firma vytasila již na letošním CeBITu (<a href="http://www.zyxel.com/news/press.php?indexflag=20050310014235">zde TZ</a>) a jak to tak vypadá, telefon se bude opravdu vyrábět. Zyxel by totiž telefon mohl začít dodávat od příštího týdne. </p>

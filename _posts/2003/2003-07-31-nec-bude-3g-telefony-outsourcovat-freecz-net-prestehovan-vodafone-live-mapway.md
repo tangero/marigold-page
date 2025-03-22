@@ -14,7 +14,7 @@ summary_points:
 - Vodafone Live MapWay nabízí graficky přehlednou navigaci k 20 milionům objektů v
   Británii.
 - Vodafone Live MapWay je kvalitnější než mapy T-Mobile a Eurotelu.
-title: 'NEC bude 3G telefony outsourcovat. FreeCz.Net přestěhován. Vodafone LIVE MapWay
+title: "'NEC bude 3G telefony outsourcovat. FreeCz.Net přestěhován. Vodafone LIVE MapWay"
 
   '
 ---

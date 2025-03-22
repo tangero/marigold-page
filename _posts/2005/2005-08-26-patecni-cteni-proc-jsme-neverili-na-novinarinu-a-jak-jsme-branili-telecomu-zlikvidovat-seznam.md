@@ -13,7 +13,7 @@ summary_points:
 - Článek se zabývá nedůvěrou autorů v novinařinu a etické kodexy.
 - Autoři budou dokladovat důsledky této nedůvěry v dalších dílech.
 - Dnes se zaměří na obranu Seznamu proti Telecomu.
-title: 'Páteční čtení: Proč jsme nevěřili na novinařinu a&nbsp;jak jsme bránili Telecomu
+title: "'Páteční čtení: Proč jsme nevěřili na novinařinu a jak jsme bránili Telecomu"
   zlikvidovat seznam'
 ---
 

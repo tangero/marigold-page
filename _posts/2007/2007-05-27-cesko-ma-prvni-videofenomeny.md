@@ -15,7 +15,7 @@ summary_points:
   o video.
 - Práce s komunitami je obtížná kvůli nejasné legislativě, která znevýhodňuje české
   firmy.
-title: Česko má první videofenomény
+title: "Česko má první videofenomény"
 ---
 
 Videofenomén je něco, co vzniká v oblasti video produkce řízeně a dostavá se tomu značné pozornosti. Ze světa známe řadu videofenoménů, od videoblogujícího důchodce, přes osmnáctku k nakousnutí, až po maníky natáčející videoklip na rozdivočeném náčiní z posilovny. U nás bylo zatím vymeteno. Tomu je konec. Lakmusovým papírkem pro mne je zájem mainstreamových médií, protože i když mi bylo už nějakou dobu jasno, kdo to bude, teprve mainstreamová média aprobují fakt, že se tak stalo. Tím, že si povšimnou. Ten český fenomén se jmenuje Noisebrothers. 

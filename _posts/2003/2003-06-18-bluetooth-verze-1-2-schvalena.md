@@ -13,7 +13,7 @@ summary_points:
 - Zvýšená kvalita zvuku v Bluetooth 1.2 je založena na error detection methodologies.
 - Bluetooth 1.2 zdokonaluje QoS pro obsluhu více klientů a zavádí anonymní mód.
 - Bluetooth 1.2 je zpětně kompatibilní, ale s funkční sadou nejnižšího zařízení.
-title: Bluetooth verze 1.2 schválena
+title: "Bluetooth verze 1.2 schválena"
 ---
 
 <p>

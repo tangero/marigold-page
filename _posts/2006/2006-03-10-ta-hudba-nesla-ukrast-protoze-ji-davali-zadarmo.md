@@ -13,7 +13,7 @@ summary_points:
 - Autor zjistil název Ukolébavka a našel text na webu Znouzectnosti.
 - Originální nahrávka Ukolébavky byla nedostupná v obchodech i online.
 - Znouzecnost nabízí MP3 zdarma na svém webu, takže autor získal píseň legálně.
-title: 'Ta hudba nešla ukrást, protože ji dávali zadarmo
+title: "'Ta hudba nešla ukrást, protože ji dávali zadarmo"
 
   '
 ---

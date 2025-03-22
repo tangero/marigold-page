@@ -13,7 +13,7 @@ summary_points:
 - Angličtina konference byla problematická pro řečníky i posluchače, snižovala živost.
 - Autorovi konference nepřinesla nové informace, obor sleduje bedlivě.
 - Startupům chybí propojování s vědeckými firmami a soft-skills u ajťáků.
-title: Webexponován
+title: "Webexponován"
 ---
 
 <p>Byl to můj první ročník. Je to s podivem, ale je to tak, na letošním webexpu jsem byl poprvé. A tak se nepřidám do tlačenky hlasů, že letos to bylo tradičně nej/horší/lepší, protože nevím. Důvod mé prvoúčasti byl tradičně prostý: jednak nevhodně zvolené datum, kolidující tradičně (a letos prvně ne) s akcí pro mě důležitější, jednak nedostatek času a sebemotivace. Za doby Lupy jsem na Webexpo vysílal namísto sebe raději lidi jako Martina Malého, <a href="http://www.misantrop.info/jak-mi-webexpo-zmenilo-zivot/">který si k akci vybudoval vřelý vztah</a>.</p>

@@ -20,7 +20,7 @@ summary_points:
   pro výuku.
 - Syntéza společenských věd s technologiemi je nezbytná pro rozvoj AGI, ale zatím
   nezačala.
-title: Ne všechna data jsou dostupná
+title: "Ne všechna data jsou dostupná"
 ---
 
 V Česku tolik vysmívané společenské vědy jsou jedním z hnacích motorů rozvoje AI do AGI. Velká část informací totiž není nikde zapsaná, dostupná, jsou to kulturní a společenské zvyklosti sdílené v komunitě, nebo pracovní postupy, které se předávají v rámci komunity, řemesla. V pracovním prostředí jsme zvyklí uplatňování těchto informací nazývat intuice nebo zkušenost, často jsou to tak velké detaily nebo neobjektivizovatelné názory a postřehy, že nejsou zaznamenávány a jsou předávány jen v rámci lidské výuky. Například tehdy, když se při atestaci lékař učí rozpoznávat choroby od zkušenějšího lékaře, nebo když starší právník poučuje nováčka, jak si má všímat nálady soudců. Je věcí sociologů a kulturologů přijít s tím, jak tyto informace zprostředkovat AGI. 

@@ -13,7 +13,7 @@ summary_points:
 - Cena knihy ovlivňuje prodejnost, příliš nízká nebo vysoká cena škodí.
 - Marketing digitálních knih je složitý a vyžaduje detailní znalost trhu.
 - Tištěná verze knihy je omezená a dostupná pouze pro předchozí objednávky.
-title: Příběh strýčka Martina jako ebook v&nbsp;prodeji a&nbsp;objevování nástrah
+title: "Příběh strýčka Martina jako ebook v prodeji a objevování nástrah"
   digitálního marketingu
 ---
 

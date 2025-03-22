@@ -13,7 +13,7 @@ summary_points:
 - Autoři odjíždějí do Perského zálivu a slibují fotky nesouvisející s WiFi.
 - Marigold se zaměřuje spíše na WiFi než na lidi, což autory překvapuje.
 - Server Marigold nemá žádnou vánoční výzdobu.
-title: Tak si to tu užijte a&nbsp;3.&nbsp;ledna nashledanou
+title: "Tak si to tu užijte a 3. ledna nashledanou"
 ---
 
 <p>

@@ -16,7 +16,7 @@ summary_points:
 - Autor vzpomínal na dědu, člena KSČ, což vyvolalo kritiku.
 - Autor srovnával vnímání procesů Horákové a Ratha médii.
 - Lidé napadají cizí práci, místo aby se soustředili na vlastní.
-title: Nástrahy mediálních presentací a&nbsp;očekávání toho špatného
+title: "Nástrahy mediálních presentací a očekávání toho špatného"
 ---
 
 <p> </p>

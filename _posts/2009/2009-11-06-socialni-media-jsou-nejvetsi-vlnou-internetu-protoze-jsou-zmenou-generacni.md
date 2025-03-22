@@ -22,7 +22,7 @@ summary_points:
 - Blogeři se profesionalizovali, zakládali firmy a sítě pro prodej inzerce.
 - V Česku málo blogerů prorazilo, trh je malý a psaní málo lukrativní.
 - Sociální média převzala autory blogů, vyjádření je kratší a rychlejší.
-title: 'Sociální média jsou největší vlnou internetu, protože jsou změnou generační
+title: "'Sociální média jsou největší vlnou internetu, protože jsou změnou generační"
 
   '
 ---

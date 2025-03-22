@@ -14,7 +14,7 @@ summary_points:
   volajícího.
 - Zavedení 911 na VoIP může trvat roky, podobně jako u mobilních telefonů.
 - Skype a AT&T vyjádřili nespokojenost s rozhodnutím FCC ohledně 911.
-title: 'FCC nařizuje: z&nbsp;VoIP se musí dovolat na 911'
+title: "FCC nařizuje: z VoIP se musí dovolat na 911"
 ---
 
 <p>V USA je číslo 911 ekvivalentem našeho 112 - jde o nouzovou službu, kde vám policie, hasiči či doktoři pomohou. FCC již delší dobu byla pod tlakem pevnolinkových i mobilních operátorů, kteří argumentovali, že souboj s VoIP není pro ně fér, když VoIP operátoři nemusí zajistit dostupnost linky 911 ze svých zařízení. FCC tedy nyní nařídilo, aby VoIP služby do listopadu rovněž zpřístupnili volání na lokální centrum 911. Kromě zpřístupnění volání, což samo o sobě není takový technický problém, budou tedy muset VoIP operátoři zřejmě platit z každého čísla příspěvek na provoz 911 linky, jak je zvykem u ostatních telekomunikačních operátorů. Což mnoha z nich neudělá radost. Kromě toho také operátoři musí dát k dispozici číslo zákazníka pro zpětné volání (to rovněž nebude velký problém), ale také jeho geografickou polohu. Tu u mobilní sítě udává GPS nebo lokalizace polohy v síti, u pevnolinkového připojení je to adresa přípojného místa. Co to bude u VoIP?</p>

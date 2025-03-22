@@ -12,7 +12,7 @@ summary_points:
 - Internet2 meeting začíná dnes ve Filadelfii, zaměřený na akademické aplikace.
 - Optické sítě, super kvalitní video, middleware, bezpečnost a Gridy jsou hlavní témata.
 - Online přednášky jsou doporučeny pro sledování budoucího směru Internetu.
-title: Internet2 žive na Internetu :-)
+title: "Internet2 žive na Internetu :-)"
 ---
 
 <p><b>oook píše</b>: Dnes začíná ve Filadelfii <a href="http://events.internet2.edu/2005/fall-mm/agenda.cfm?event=239" >podzimní Internet2</a>

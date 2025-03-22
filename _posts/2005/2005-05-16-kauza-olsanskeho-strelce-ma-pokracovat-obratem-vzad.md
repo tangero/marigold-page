@@ -13,7 +13,7 @@ summary_points:
 - Výpovědi mladíků Račka a Stěhule se rozcházejí, alibi je neprůkazné.
 - Únik spisu mohl pocházet od policie nebo z okolí Berdára.
 - Doporučuje se vyčkat, situace kolem střelby je stále nejasná.
-title: 'Kauza olšanského střelce má pokračovat obratem vzad
+title: "'Kauza olšanského střelce má pokračovat obratem vzad"
 
   '
 ---

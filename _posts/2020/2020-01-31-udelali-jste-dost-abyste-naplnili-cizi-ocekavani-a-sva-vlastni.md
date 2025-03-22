@@ -13,7 +13,7 @@ summary_points:
 - Sklářská firma byla vnímána jako strategický krok, přestože šlo o umoření dluhu.
 - Očekávání společnosti ztěžují lidem realizaci jejich vášní a kreativních projektů.
 - Úspěch není zárukou, ale radost a odvaha zkoušet jsou klíčové pro osobní růst.
-title: Udělali jste dost, abyste naplnili cizí očekávání? A svá vlastní?
+title: "Udělali jste dost, abyste naplnili cizí očekávání? A svá vlastní?"
 ---
 
 Když jsem před skoro dvaceti lety prodal svou nejznámější firmu, varovali mě lidé před tím, že narazím na mnohé. A na mnohé jsem také narazil. Nejpodivuhodnější se mi však postupem doby zdála cizí očekávání. Tak nějak se předpokládalo, že všechno, na co sáhnu, dělám s nesmírně komerčním záměrem. Očekávalo se, že můj dotek promění vše ve zlato.

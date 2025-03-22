@@ -14,7 +14,7 @@ original_newsletter: '#51: O sebemotivaci a také o tom, jak Huawei může naru�
   komunikaci strategického velení USA'
 summary_points:
 - WS
-title: Měl Elon Musk sex s manželkou zakladatele Google?
+title: "Měl Elon Musk sex s manželkou zakladatele Google?"
 ---
 
 S touhle zprávou přišel minulý týden respektovaný americký denník The Wall Street Journal. Elon Musk (51 let) měl podle jeho zjištění koncem loňského roku spát s Nicole Shanahanovou (33 let), manželkou Sergeje Brina (48 let), jednoho ze spoluzakladatelů Google. Shanahanová je právničkou a to měl být také podle WSJ důvod, proč se Brin rozhodl již tak dost nahnuté manželství ukončit žádostí o rozvod. Zároveň měl stáhnout své peníze z Muskových projektů. 

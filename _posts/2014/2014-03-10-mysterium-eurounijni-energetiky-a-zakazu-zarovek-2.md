@@ -13,7 +13,7 @@ summary_points:
 - Česká média často negativně prezentují EU bez hlubšího porozumění jejím funkcím.
 - Zákaz žárovek je součástí strategie EU na snížení energetické závislosti a úspory.
 - Přechod na úsporné svítidla má ekonomický smysl, ale provázely ho kvalitativní problémy.
-title: Mystérium eurounijní energetiky a&nbsp;zákazu žárovek
+title: "Mystérium eurounijní energetiky a zákazu žárovek"
 ---
 
 <p>Nikdy by mne nenapadalo, že tak banální téma, jakým je eurounijní *zákaz žárovek*ßė, vzbudí tolik vášní mezi českými internetovými uživateli. Ale vzbuzuje. A protože v českých médiích k tomu nenajdete mnoho relevantních materiálů, rozhodl jsem se po vzrušené twitterové diskusi posloužit obsáhlejším výkladem. Termín *zákaz žárovek* budu nadále používat, i když je nesmyslný, ale v českých médiích zavedený, což si vysvětlíme později.</p>

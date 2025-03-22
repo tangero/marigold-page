@@ -13,7 +13,7 @@ summary_points:
 - WiFi-G standardizace probíhá, produkty se očekávají koncem roku 2003.
 - Dualbandové WiFi/WiFi5 produkty se stávají běžnými, samostatné WiFi5 mizí.
 - Kombinace WiFi (2.4 GHz) a WiFi5 (5 GHz) se vzájemně neruší a je zajímavá.
-title: 802.11a má podlehnout 802.11g &#8211; opravdu?
+title: "802.11a má podlehnout 802.11g – opravdu?"
 ---
 
 <p>

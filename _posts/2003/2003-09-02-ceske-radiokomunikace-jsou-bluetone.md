@@ -13,7 +13,7 @@ summary_points:
 - Bluetone nabízí různé varianty připojení, včetně ADSL, bezdrátu a pevných linek.
 - Web Bluetone nabízí identifikátor služby pro výběr vhodného připojení.
 - ČRa se musí naučit pracovat s masovým trhem zákazníků Bluetone.
-title: České Radiokomunikace jsou Bluetone
+title: "České Radiokomunikace jsou Bluetone"
 ---
 
 <p>

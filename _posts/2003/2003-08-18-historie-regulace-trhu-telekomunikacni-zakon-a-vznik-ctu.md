@@ -14,7 +14,7 @@ summary_points:
 - Vláda nedostatečně legislativně ošetřila liberalizaci trhu v letech 1994-2001.
 - Telekomunikační zákon z roku 2000 měl nedostatky a zkomplikoval liberalizaci trhu.
 - Stát měl dvojí roli vlastníka a regulátora, což deformovalo telekomunikační prostředí.
-title: 'Historie regulace trhu: telekomunikační zákon a&nbsp;vznik ČTÚ'
+title: "Historie regulace trhu: telekomunikační zákon a vznik ČTÚ"
 ---
 
 Pro telekomunikační trh je důležitý především kvalitní telekomunikační zákon a dále nezávislý regulátor trhu napravující deformace z minulého období. Tato kapitola Historie českého internetu popisuje vznik ČTÚ a telekomunikačního zákona<!--more-->Z <A href="/historieinternetu/ucednickaleta030811.html">předchozí kapitoly</A> vyplývá hlavní slabina vývoje českého telekomunikačního trhu v devadesátých letech: obecně potřebnému a požadovanému boomu až do roku 1994 (kdy do Telecomu vstupuje TelSource) nestačí technologické zázemí a po roce 1996, kdy kvalitativní kritéria pevné telekomunikační sítě jdou rapidně nahoru, se v plné nahotě projevuje deformovanost trhu způsobená monopolním postavením SPT Telecom. 

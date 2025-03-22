@@ -13,7 +13,7 @@ summary_points:
 - Wifinetnews sleduje autor od počátku a oceňuje jeho vývoj od blogu k webu.
 - Editor Wifinetnews Nancy Gohring přidává příliš mnoho obecných WiFi zpráv.
 - Autor preferuje osobní weblog s občasnými příspěvky hostů, ne placeného editora.
-title: T-Mobile kupuje rakouský Metronet (a&nbsp;tak vůbec o&nbsp;profesionalizaci
+title: "T-Mobile kupuje rakouský Metronet (a tak vůbec o profesionalizaci"
   weblogů)
 ---
 

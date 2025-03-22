@@ -13,7 +13,7 @@ summary_points:
 - Joost i bez přehrávání videa trvale stahuje data rychlostí přes 150 KB/s.
 - Spuštěný Joost bez přehrávání využívá 14% výkonu procesoru Intel Core Duo 2 GHz.
 - Mac verze Joostu je 0.8, shodná s Windows verzí, a pozvánky k testování jsou vyčerpány.
-title: Joost i&nbsp;pro Mac (jen intelovského)
+title: "Joost i pro Mac (jen intelovského)"
 ---
 
 Včera <a href="https://www.joost.com/">Joost</a> vydal betaverzi svého P2P distribučního programu pro televizní vysílání a video on demand na Mac OS X platformu. Vtipné je, že to není Universal Binary, alespoň to joosťáci výslovně uvádějí. Takže to funguje jen na Intel Macovi. 

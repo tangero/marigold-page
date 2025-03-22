@@ -13,7 +13,7 @@ summary_points:
 - Lidé chtějí levné datové tarify, ale Oskar se bojí zátěže sítě.
 - Oskar by měl srovnat ceny Basic a Standard GPRS tarifů.
 - Doporučuje se zahrnout data do paušálu Standard tarifu.
-title: Oskarovy datové tarify &#8211; změna je potřeba
+title: "Oskarovy datové tarify – změna je potřeba"
 ---
 
 <p>

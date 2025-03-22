@@ -14,7 +14,7 @@ summary_points:
   firmami.
 - Marek Sláčík (marketing), Radek Vodra (CIO) a Pavel Sunda (BSS/OSS) posílili MobilKom.
 - Luboš Bórik, bývalý z Eurotelu, je předseda představenstva MobilKomu.
-title: 'MobilKom nabírá lidi, holt to myslí vážně
+title: "'MobilKom nabírá lidi, holt to myslí vážně"
 
   '
 ---

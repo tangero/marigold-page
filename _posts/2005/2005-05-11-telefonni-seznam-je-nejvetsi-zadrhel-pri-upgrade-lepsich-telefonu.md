@@ -13,7 +13,7 @@ summary_points:
 - Autor upgradoval na Motorola V3 a narazil na potíže s konverzí 800 kontaktů.
 - Synchronizace přes Mobical/SyncML a software Motorola selhala kvůli komplikacím.
 - Přenos kontaktů komplikoval i rozhašený notebook a bluetooth připojení.
-title: Telefonní seznam je největší zádrhel při&nbsp;upgrade lepších telefonů
+title: "Telefonní seznam je největší zádrhel při upgrade lepších telefonů"
 ---
 
 <p>Díval jsem se nedávno do nějaké studie věnované upgrade cyklu mobilních telefonů a zaujalo mne, že za největší překážku při upgrade lepších telefonů je považovaný telefonní seznam. </p>

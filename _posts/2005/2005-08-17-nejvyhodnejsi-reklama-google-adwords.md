@@ -13,7 +13,7 @@ summary_points:
 - AdWords dokáže zvýšit návštěvnost webů, i netechnologických, desetinásobně.
 - Google snížil minimální cenu za proklik v AdWords na 1 cent u úspěšných reklam.
 - Cena za proklik v AdWords je výrazně nižší než u bannerové reklamy.
-title: 'Nejvýhodnější reklama? Google Adwords
+title: "'Nejvýhodnější reklama? Google Adwords"
 
   '
 ---

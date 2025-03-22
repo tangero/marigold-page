@@ -13,7 +13,7 @@ summary_points:
 - Většina emailů jsou automatické zprávy, nabídky a newslettery, ne osobní komunikace.
 - Email nahrazují messagingové služby jako WhatsApp, SMS a iMessages.
 - Notifikační centrum mobilu se stává hlavním místem pro příjem zpráv.
-title: Pomalá smrt emailu
+title: "Pomalá smrt emailu"
 ---
 
 Před několika dny jsem si přesunul svůj soukromý email z Gmailu, kde ho mám od vzniku služby, na <a href="https://protonmail.com">ProtonMail</a>. Důvod? Šifrování, bezpečnost, ale i nechuť mít všechno u Google, ve který přestávám mít důvěru. 

@@ -11,7 +11,7 @@ summary_points:
 - Ma ovládá 50,52 % akcií Ant Group přes Hangzhou Yunbo.
 - Kontrolu by Ma mohl převést na vedoucí pracovníky Ant Group.
 - Důvodem jsou zřejmě tlaky čínské vlády.
-title: Jack Ma se možná vzdá kontroly nad společností Ant Group
+title: "Jack Ma se možná vzdá kontroly nad společností Ant Group"
 ---
 
 Čínský miliardář Jack Ma se možná distancuje od společnosti Ant Group a vzdá se kontroly nad ní, uvedl s odvoláním na své zdroje deník [The Wall Street Journal](https://www.wsj.com/articles/jack-ma-plans-to-cede-control-of-ant-group-11659002402?mod=e2tw).

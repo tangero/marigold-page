@@ -16,7 +16,7 @@ summary_points:
 - Prodej 70 e-knih pokryje autorovy náklady na korekturu.
 - Stejný zisk jako 2000 papírových knih přinese 580 e-knih.
 - Autor zvažuje, zda se prodá 600 e-knih beletrie ročně.
-title: Abychom se vrátili k&nbsp;matematice digitální versus papírové knihy
+title: "Abychom se vrátili k matematice digitální versus papírové knihy"
 ---
 
 Nakouslo se to v komentářích <a href="/pane-pistorie-bojujete-za-vydavatele-ne-za-autory">pod článkem o patro níže</a>. A protože jsem si to stejně chtěl hrubě propočítat a o komentáře jsem při přenosu článku přišel, sesumírujme si to a udělejme to s tím, že jde o hrubý propočet a bude zajímavé sledovat, čím se v praxi zjemní (a/nebo pojebe).

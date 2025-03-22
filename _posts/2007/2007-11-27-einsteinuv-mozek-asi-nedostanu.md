@@ -13,7 +13,7 @@ summary_points:
 - Autor obdržel překvapivé reakce na čtivost své prvotiny.
 - Rozhovor o Flotile Země vyšel ve sci-fi koutku Sardenu.
 - Autorovi zbývá poslední výtisk Flotily Země a existuje jen PDF.
-title: Einsteinův mozek asi nedostanu
+title: "Einsteinův mozek asi nedostanu"
 ---
 
 Moje knížečka Flotila Země se dostala do vyhlášení sci-fistické čtenářské ceny <a href="http://mozek.legie.info/kolo-1.php">Einsteinův mozek</a>, takže skončila na osmém místě v kategorii Nejlepší český scifi román za rok 2006. Hezké, děkuji všem, komu se knížečka líbila. 

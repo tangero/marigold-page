@@ -16,7 +16,7 @@ summary_points:
 - IAB nabízí rychlejší nasazení 5G, flexibilitu, lepší pokrytí a efektivní využití
   spektra.
 - Budoucí IAB zlepší směrování pomocí AI/ML a podpoří Non-Terrestrial Networks (NTN).
-title: Integrated Access and Backhaul (IAB) v sítích 5G
+title: "Integrated Access and Backhaul (IAB) v sítích 5G"
 ---
 
 Jednou z nejzajímavějších inovací v 3GPP Release 16, finalizované v roce 2020 je Integrated Access and Backhaul (IAB) - Integrované přístupové a páteřní propojení.  Jde o technologii, která má potenciál dramaticky změnit způsob, jakým jsou navrženy a nasazeny mobilní sítě. IAB představuje elegantní řešení pro jeden z největších problémů při nasazování 5G sítí: potřebu husté infrastruktury a nákladného backhaulu, tedy páteřního propojení. To se v 3G sítích realizovalo zpravidla mikrovlnými pojítky nebo metalickými propojeními, u 4G sítí stoupaly nároky na jeho kvalitu až k gigabitovým optickým linkám.  

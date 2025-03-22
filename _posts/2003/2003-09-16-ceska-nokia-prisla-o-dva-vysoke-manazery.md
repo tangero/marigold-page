@@ -13,7 +13,7 @@ summary_points:
 - Karel Holub odchází z Nokia Mobile Phone, zakládá vlastní firmu.
 - Sameš byl uznávaný odborník, jeho náhrada bude obtížná.
 - Holub prosazoval aktivity Nokie v ČR, zklamal novináře.
-title: Česká Nokia přišla o&nbsp;dva vysoké manažery
+title: "Česká Nokia přišla o dva vysoké manažery"
 ---
 
 <p>

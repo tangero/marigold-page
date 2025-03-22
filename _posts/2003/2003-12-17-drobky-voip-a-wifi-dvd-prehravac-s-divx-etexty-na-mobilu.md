@@ -13,7 +13,7 @@ summary_points:
 - Yamada DVX 6000 je DVD přehrávač, který údajně dobře přehrává DivX.
 - GSMReader je český software pro čtení e-knih na mobilech Eurotelu.
 - Vypnutý AdMuncher odhalil agresivní reklamy na českém internetu.
-title: 'Drobky: VoIP a&nbsp;WiFi, DVD přehrávač s&nbsp;DivX, etexty na mobilu'
+title: "Drobky: VoIP a WiFi, DVD přehrávač s DivX, etexty na mobilu"
 ---
 
 <p>

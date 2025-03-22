@@ -13,7 +13,7 @@ summary_points:
 - Předražený roaming blokuje vstup alternativních operátorů na trh.
 - Zisky operátorů z roamingu brzdí inovace a expanzi služeb.
 - Regulace trhu odstraňuje bariéry pro spravedlivé podnikání.
-title: Odpověď k&nbsp;odpovědi panu Rybářovi aneb pro zájemce o&nbsp;jízdu na mrtvém
+title: "Odpověď k odpovědi panu Rybářovi aneb pro zájemce o jízdu na mrtvém"
   koni
 ---
 

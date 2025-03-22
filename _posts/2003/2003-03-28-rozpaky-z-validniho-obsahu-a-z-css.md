@@ -13,7 +13,7 @@ summary_points:
 - CSS principům autor rozumí, ale chybí mu praktické zkušenosti s validním kódem.
 - Autor rezignoval na validní kód Marigolda kvůli nedostatku času na jiné aktivity.
 - Důležité je správné zobrazení v prohlížečích, validita kódu je méně podstatná.
-title: Rozpaky z&nbsp;validního obsahu a&nbsp;z&nbsp;CSS
+title: "Rozpaky z validního obsahu a z CSS"
 ---
 
 <p>

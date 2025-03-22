@@ -13,7 +13,7 @@ summary_points:
 - Akce zahrnuje přednášky o bezdrátovém broadbandu a novinkách, včetně U:fon.
 - Tomáš Kapler shrne vývoj bezdrátů a jejich konkurenceschopnost.
 - Pro vážné zájemce z telco firem je k dispozici 14 volných vstupenek.
-title: '14 volných vstupenek na bezdrátové Broadband Monday
+title: "'14 volných vstupenek na bezdrátové Broadband Monday"
 
   '
 ---

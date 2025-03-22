@@ -13,7 +13,7 @@ summary_points:
 - Autorka tiskové zprávy zřejmě nebyla poučena o formátech dokumentů.
 - Doporučuje se posílat texty jako TXT, RTF nebo PDF pro firemní image.
 - Autor článku se obává problémů pro autorku zprávy a smazal citace.
-title: 'V T-Mobile prověřovali pozornost novinářů
+title: "'V T-Mobile prověřovali pozornost novinářů"
 
   '
 ---

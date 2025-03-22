@@ -14,7 +14,7 @@ summary_points:
   síť.
 - WiFi značka zaručuje propojitelnost zařízení pracujících podle standardu 802.11b.
 - Standard 802.11 má různé revize označené písmeny (a, b, g) s různými vlastnostmi.
-title: 'Teoretické základy standardu IEEE802.11 pro vaši orientaci
+title: "'Teoretické základy standardu IEEE802.11 pro vaši orientaci"
 
   '
 ---

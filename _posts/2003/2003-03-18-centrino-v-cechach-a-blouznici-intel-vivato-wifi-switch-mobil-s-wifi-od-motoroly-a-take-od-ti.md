@@ -14,7 +14,7 @@ summary_points:
 - Vivato představilo WiFi switch s dosahem 4 km a rychlostí 33 Mbps za 13499 USD.
 - Nextel a Motorola chystají mobil kombinující WiFi a iDEN síť, později i GSM/GPRS.
 - TI představilo WANDA, koncept trimodového telefonu s GSM/GPRS, Bluetooth a WiFi.
-title: Centrino v&nbsp;Čechách a&nbsp;blouznící Intel, Vivato WiFi switch, Mobil s&nbsp;WiFi
+title: "Centrino v Čechách a blouznící Intel, Vivato WiFi switch, Mobil s WiFi"
   od Motoroly a&nbsp;také od TI.
 ---
 

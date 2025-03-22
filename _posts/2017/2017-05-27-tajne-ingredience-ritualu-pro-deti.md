@@ -10,7 +10,7 @@ summary_points:
 - Vojta pomáhá od tří let, přidává se i Mařenka s rolí Míchače.
 - Tajná přísada rumu je rodinné tajemství předávané generacemi.
 - Rituál je optimalizovaný, každá součást musí být dodržena.
-title: Tajné ingredience rituálů pro děti
+title: "Tajné ingredience rituálů pro děti"
 ---
 
 Mám rád naše společné rituály s dětmi. A vidím, že děti to (tedy do jistého věku) baví. Tak například smažení palačinek. Původně to vzniklo jako ryze praktická záležitost: abych uvařil dětem místo ženy. A Vojta chtěl samozřejmě pomáhat, to mu byly tak tři roky. A samozřejmě hromada mouky a mléka byla po lince i podlaze. Chvíli jsem přemýšlel, jestli ho mám seřvat, seřezat nebo obojí, ale protože jsem zrovna lezl do skříně se skleničkama, vyndal jsem panáka, nalil si ho plný rumu a oklopil ho do sebe. Vojta hned chtěl vědět, co dělám. Pravil jsem, že zkouším, zda se nezkazila naše tajná přísada. A nalil jsem na dno panáka a vyklopil jsem ho do těsta. “Pst, to nikdo nesmí vědět, to je rodinné tajemství,” přiložil jsem si prst na ústa a Vojta kýval hlavou, že jasně, že tajemství. No a po decce rumu už mi tak nevadilo, že mouka je všude, marmeláda taky a tak vůbec, Vojta vesele pomáhal, pak jsem ho osprchoval a všem bylo blaze bez křiku.

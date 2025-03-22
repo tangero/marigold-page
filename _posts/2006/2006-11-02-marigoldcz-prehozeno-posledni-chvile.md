@@ -13,7 +13,7 @@ summary_points:
 - RSS/ATOM zdroje pro články a komentáře vyžadují opravu.
 - Kvalita redakčního systému se měří popularitou kvůli snadné konkurenci.
 - WordPress se stal nejoblíbenějším CMS, například pro Yahoo a New York Times.
-title: Marigold.cz &#8211; přehozeno. Poslední chvíle&#8230;
+title: "Marigold.cz – přehozeno. Poslední chvíle…"
 ---
 
 <texy>Wordpress finálně nasazen. Zatím bez designu, na tom už jsem měl čas deset minut pracovat :)

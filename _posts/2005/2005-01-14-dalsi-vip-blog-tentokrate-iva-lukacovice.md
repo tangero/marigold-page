@@ -13,7 +13,7 @@ summary_points:
 - Autor článku sleduje méně zpravodajské servery a více weblogy.
 - Uvedení Apple produktů bylo rychleji pokryto blogy než tradičními médii.
 - Blogy nezničí zpravodajské servery, protože existuje poptávka po předžvýkaných informacích.
-title: 'Další VIP Blog (tentokráte Iva Lukačoviče)
+title: "'Další VIP Blog (tentokráte Iva Lukačoviče)"
 
   '
 ---

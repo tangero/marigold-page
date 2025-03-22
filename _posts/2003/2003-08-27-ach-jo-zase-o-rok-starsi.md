@@ -14,7 +14,7 @@ summary_points:
 - Narozeninové dárky se změnily, knihy nahradilo víno, což Dita vysvětlila praktičností.
 - Hosté obdivovali autorovo "kachličkové veledílo" na balkoně a navrhovali řešení
   odtoku vody.
-title: Ach jo, zase o&nbsp;rok starší&#8230;
+title: "Ach jo, zase o rok starší…"
 ---
 
 <p>

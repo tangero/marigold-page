@@ -13,7 +13,7 @@ summary_points:
 - Uživatelé Foma budou v Athénách telefonovat za japonské sazby.
 - Foma bude v Athénách fungovat od 30. července do 30. září.
 - Pokrytí Foma v Athénách nezahrnuje olympijský areál.
-title: 'NTT DoCoMo pokryje svou sítí Foma olympijské Athény
+title: "'NTT DoCoMo pokryje svou sítí Foma olympijské Athény"
 
   '
 ---

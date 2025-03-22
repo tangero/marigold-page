@@ -16,7 +16,7 @@ summary_points:
   omezený.
 - Autor hledá praktické zkušenosti s jízdou na skútru v Praze, patolog skútristy na
   sále neměl.
-title: 'Skutr do Prahy, jak moc zlý nápad to je?
+title: "'Skutr do Prahy, jak moc zlý nápad to je?"
 
   '
 ---

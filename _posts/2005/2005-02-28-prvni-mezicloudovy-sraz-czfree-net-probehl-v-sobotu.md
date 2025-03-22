@@ -14,7 +14,7 @@ summary_points:
   hodnocena.
 - Odpoledne proběhlo hlasování a diskuse o CzFree, autor se nezúčastnil.
 - Fotografie a video ze srazu jsou dostupné online, zápis je na CzFree.net fóru.
-title: První mezicloudový sraz CzFree.net proběhl v&nbsp;sobotu
+title: "První mezicloudový sraz CzFree.net proběhl v sobotu"
 ---
 
 <p>V sobotu proběhl první mezicloudový straz CzFree.Net, pořádal ho Edoras a musím říci, že se mu (a ostatním kolem) to povedlo. I když jsem mohl být jen na dopolední části. </p>

@@ -13,7 +13,7 @@ summary_points:
 - Reálná propustnost WiFi 802.11g je horší než u staršího standardu 802.11b.
 - ISP upozorňují, že reálná rychlost 802.11g nemusí stačit pro širokopásmové aplikace.
 - WiFi 802.11a dosahuje reálně vyšší propustnosti (24 Mbps) než 802.11g.
-title: 54 Mbps v&nbsp;802.11g = 10-20 Mbps ve skutečnosti
+title: "54 Mbps v 802.11g = 10-20 Mbps ve skutečnosti"
 ---
 
 <p>

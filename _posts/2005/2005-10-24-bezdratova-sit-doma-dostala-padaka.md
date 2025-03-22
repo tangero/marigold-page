@@ -13,7 +13,7 @@ summary_points:
 - PowerEthernet adaptéry se opakovaně porouchaly, což vedlo k jejich opuštění.
 - Adam poskytl potřebné krimpovací kleště a kabel pro novou kabeláž.
 - Kabel byl nakonec protažen větracím otvorem a okapem do pracovny.
-title: Bezdrátová síť doma dostala padáka
+title: "Bezdrátová síť doma dostala padáka"
 ---
 
 <p>Víkend byl ve znamení systémových změn domácí sítě. Ačkoliv mám doma instalované WiFi, pro připojení Ditiny pracovny se nepoužívá, protože prostě tak daleko nedosáhne, pracovna je vlastně nejdále od přístupového bodu. Zvažoval jsem zapojení WDS, ale přišlo mi trochu luxus mít v bytě dva routery, nehledě na to, že bych je musel někam dát a nějak šikovně zamaskovat, aby náš byt nevypadal jako laboratoř StarTreku. Ditina pracovna byla zatím připojena přes PowerEthernetové adaptéry, tedy přes elektrickou rozvodnou síť. Asi pamatujete, když jsme se tu s Texem v diskusi dohadovali, zda jsou ty Powernety šmejdy, které jsou k ničemu. Tři dny poté, co jsem vyhádal, že je to seriosní technologie, mi podruhé odešla dvojice adaptérů, takže mám v Corinexu celkem čtyři zářezy na pažbě a to mi ještě nezačal ani druhý rok záruční lhůty. Dobrý signál, že je třeba s touhle technologií se rozloučit (Tex bude mít radost, že na jeho slova došlo).</p>

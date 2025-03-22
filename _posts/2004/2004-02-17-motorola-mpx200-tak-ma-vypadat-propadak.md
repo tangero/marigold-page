@@ -13,7 +13,7 @@ summary_points:
 - Chytré telefony se odlišují od běžných podporou složitějších aplikací a rozhraní.
 - HTC Voyager je jediný prodávaný telefon s Microsoft softwarem a kamerou.
 - Motorola MPx220 by měla mít fotoaparát i bluetooth, což MPx200 chybělo.
-title: Motorola MPx200 &#8211; tak má vypadat propadák
+title: "Motorola MPx200 – tak má vypadat propadák"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Software SAM, zkratka Skype Answering Machine, je zdarma.
 - Webová stránka SAM je dostupná na freewebs.com/skypeansweringmachine/index.htm.
 - SAM je dalším příkladem rostoucí popularity Skypu.
-title: SAM &#8211; Skype Answering Machine
+title: "SAM – Skype Answering Machine"
 ---
 
 <p>

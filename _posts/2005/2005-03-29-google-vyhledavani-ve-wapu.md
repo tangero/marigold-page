@@ -13,7 +13,7 @@ summary_points:
 - I starší telefony s WAP prohlížečem jsou přesměrovány na WAP verzi Google.
 - Google parsuje HTML stránky do WML pro mobilní zobrazení, ale s češtinou jsou problémy.
 - Autor textu je spokojen s funkčním vyhledáváním Google na mobilních zařízeních.
-title: Google vyhledávání ve wapu
+title: "Google vyhledávání ve wapu"
 ---
 
 <p>Dneska jsem z Nokia 9500 hledal něco na Google a k mému překvapení mne automaticky přepnul na wap verzi, jejíž adresa je www.google.com/wml - vyzkoušel jsem to i z klasické Serie 40 vybavené jen WAP prohlížečem a udělalo to totéž. 

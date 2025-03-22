@@ -16,7 +16,7 @@ summary_points:
 - Německo a Francie kvůli nedostatku odborníků neuspěly v konkurenci se Skandinávií.
 - Skandinávské firmy jako Ericsson a Nokia dominovaly mobilnímu trhu díky vzdělávacím
   reformám.
-title: O vlivu liberality akademického vzdělávání na ekonomický výnos z&nbsp;nových
+title: "O vlivu liberality akademického vzdělávání na ekonomický výnos z nových"
   odvětví na příkladu vzniku standardu GSM
 ---
 

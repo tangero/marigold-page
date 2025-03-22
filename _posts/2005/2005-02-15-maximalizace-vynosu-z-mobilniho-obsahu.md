@@ -13,7 +13,7 @@ summary_points:
 - Universal vytváří pro hudebníky kompletní balíčky mobilního obsahu.
 - Úspěch mobilního obsahu vyžaduje cílení na specifické segmenty zákazníků.
 - Důležitá je flexibilita a přizpůsobení se požadavkům zákazníků.
-title: Maximalizace výnosů z&nbsp;mobilního obsahu
+title: "Maximalizace výnosů z mobilního obsahu"
 ---
 
 <p>Jsem na přednášce Cedrica Ponsota, šéfa Universal Mobile International. Jeho přednáška mne vloni překvapila tím, jak šla na hlavičku problému. Co říkal Ponsot vloni, tu letos zní z mnoha úst.</p>

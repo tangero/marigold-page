@@ -14,7 +14,7 @@ summary_points:
 - Mobilní fotoaparáty dnes používají fixní zaostření, což tekuté čočky Philipsu mění.
 - Kvalitní optika a ne jen megapixely jsou limitem digitálních fotoaparátů v mobilech.
 - Zeiss vyvinul kvalitní složené čočky pro mobily, které se montují do boku.
-title: Tekuté čočky pro mobily
+title: "Tekuté čočky pro mobily"
 ---
 
 <p>

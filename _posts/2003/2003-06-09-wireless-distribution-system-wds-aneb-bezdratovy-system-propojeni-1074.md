@@ -13,7 +13,7 @@ summary_points:
 - Intersil vyvinul WDS pro čipové sady Prism, maximálně osm přístupových bodů.
 - Rychlost WDS je nižší, Intersil uvádí reálných 1,5 Mb/s.
 - Podpora WDS je omezená, nabízí ji například Proxim Orinoco a ZyXel.
-title: 'Wireless Distribution System (WDS) aneb Bezdrátový systém propojení
+title: "'Wireless Distribution System (WDS) aneb Bezdrátový systém propojení"
 
   '
 ---

@@ -14,7 +14,7 @@ summary_points:
 - Zpoždění ADSL způsobila obava Telecomu z ohrožení ISDN služeb.
 - O2TV málo zákazníků, protože Telecom nestíhá instalace a zákazníci ruší objednávky.
 - Telecom ztrácí trh, protože se vyhýbá vnitřní konkurenci a nemá plán.
-title: 'Proč Telecom (=O2) nemůže nikdy nabídnout konkurenceschopnou službu
+title: "'Proč Telecom (=O2) nemůže nikdy nabídnout konkurenceschopnou službu"
 
   '
 ---

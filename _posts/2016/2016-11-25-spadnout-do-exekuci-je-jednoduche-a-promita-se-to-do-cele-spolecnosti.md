@@ -13,7 +13,7 @@ summary_points:
 - Exekuce v Česku jsou snadno dosažitelné i pro zodpovědné lidi.
 - Banka Raiffeisenbank nekomunikovala, což vedlo k exekuci přes vymáhací agenturu.
 - Exekuce se staly lukrativním byznysem s neetickými praktikami.
-title: Spadnout do exekucí je jednoduché a&nbsp;promítá se to do celé společnosti
+title: "Spadnout do exekucí je jednoduché a promítá se to do celé společnosti"
 ---
 
 Dnešní téma sociálních sítí je chudoba a exekuce. A silácké řeči, jak do problémů přijdou jen nemakačenkové a lidé hloupí, kteréžto nikoho ostatně nepotřebujeme. 

@@ -13,7 +13,7 @@ summary_points:
 - Pražská energetika (PRE) zpřístupnila síť ElectraStar pro internetové přenosy.
 - Služba je dostupná pro 5000 zákazníků PRE na Vinohradech a Starém Městě.
 - ElectraStar nabízí různé rychlosti a ceny, včetně variant s telefonní linkou.
-title: Internet z&nbsp;elektrické zásuvky v&nbsp;Praze
+title: "Internet z elektrické zásuvky v Praze"
 ---
 
 <texy>Šušká se o tom hodně dlouho. Vysokorychlostní internet po elektrických rozvodech. Zatím jsme čítali hezká silácká vyjádření našich energorozvodců a krmivé tiskové zprávy zahraničních pilotů. 

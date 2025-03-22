@@ -19,7 +19,7 @@ summary_points:
 - Nové technologie, jako iPad, nabízejí autorům interaktivitu, barvy, video a hudbu.
 - Nová generace autorů a vydavatelů preferuje elektronické knihy, což vede k rozštěpení
   literatury.
-title: Ebookmakerovo nekrobloudění
+title: "Ebookmakerovo nekrobloudění"
 ---
 
 <p> O tom, jaká bude skutečná podoba elektronické knihy, si můžeme mnoho myslet, ti bystřejší z nás už ale pochopili, že nevíme prakticky nic dozajista. Veškeré inside či outside znalosti, o nichž si můžeme nakrásně myslet, jak hlubový (či z odstupu) vhled nám umožňují, nakonec poslouží snad jen k tomu, abychom byli schopni se rychle adaptovat na novou situaci, přijde-li a budeme-li schopni se vůbec adaptovat. </p>

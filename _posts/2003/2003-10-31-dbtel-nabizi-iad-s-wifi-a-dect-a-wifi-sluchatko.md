@@ -14,7 +14,7 @@ summary_points:
 - WiFi telefon Dbtel DB-168 podporuje QoS, VoIP protokoly, textové zprávy a instant
   messaging.
 - Zařízení Dbtel nejsou dovážena do ČR, což je škoda.
-title: DBTEL nabízí IAD s&nbsp;WiFi a&nbsp;DECT a&nbsp;WiFi sluchátko
+title: "DBTEL nabízí IAD s WiFi a DECT a WiFi sluchátko"
 ---
 
 <p>

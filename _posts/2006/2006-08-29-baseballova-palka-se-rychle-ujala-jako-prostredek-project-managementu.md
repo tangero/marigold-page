@@ -14,7 +14,7 @@ summary_points:
 - Projektová kancelář byla polepena výtisky projektů sladěnými barvami fixů a OmniGraffle.
 - Baseballová pálka slouží ke kontrole termínů a lepení papírů na zeď.
 - Gliffy je doporučena jako online nástroj pro sdílení návrhů GUI.
-title: 'Baseballová pálka se rychle ujala jako prostředek project managementu
+title: "'Baseballová pálka se rychle ujala jako prostředek project managementu"
 
   '
 ---

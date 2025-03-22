@@ -18,7 +18,7 @@ summary_points:
 - Autorskoprávní průmysl vznikl s rozvojem rozhlasu a fonoprůmyslu, generuje zisk
   hlavně sobě.
 - Zrušení autorských práv by trh zvětšilo, příjmy by se rozptýlily mezi více subjektů.
-title: 'Intelektuální práva jsou odvozena od intelektu, tedy schopnosti inovovat
+title: "'Intelektuální práva jsou odvozena od intelektu, tedy schopnosti inovovat"
 
   '
 ---

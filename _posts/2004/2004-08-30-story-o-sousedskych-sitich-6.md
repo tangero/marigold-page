@@ -14,7 +14,7 @@ summary_points:
 - Anténa z Vinohrad je menší (11 dBi) kvůli památkářům, bude prohozena s jinou.
 - Anténa byla předána i se stožárkem, autor ji vezl MHD z Flory na Dejvickou.
 - Český distributor Mikrotiku půjčí licenci na testování, softwarové AP nevyužito.
-title: Story o&nbsp;sousedských sítích (6.)
+title: "Story o sousedských sítích (6.)"
 ---
 
 <p>

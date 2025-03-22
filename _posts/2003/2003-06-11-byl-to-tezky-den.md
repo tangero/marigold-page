@@ -13,7 +13,7 @@ summary_points:
 - Distributor odmítl vystavit fakturu za film kvůli vedru.
 - Očkování od doktora stálo 1700 Kč a završilo nepříjemnosti.
 - Muž s vybitou autobaterií měl větší problém, což autora potěšilo.
-title: Byl to těžký den
+title: "Byl to těžký den"
 ---
 
 <p>

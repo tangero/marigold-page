@@ -17,7 +17,7 @@ summary_points:
 - Při slábnoucím 3G signálu T-Mobile shazuje do EDGE, data zamrznou.
 - Restart mobilu nebo letecký mód často obnoví nefunkční mobilní data.
 - Problém se opakuje na různých mobilech, u Vodafone a O2 nenastává.
-title: 'Proč má T-Mobile tak mizerná mobilní data?
+title: "'Proč má T-Mobile tak mizerná mobilní data?"
 
   '
 ---

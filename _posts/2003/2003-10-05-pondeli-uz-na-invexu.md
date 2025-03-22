@@ -13,7 +13,7 @@ summary_points:
 - Náměty na zajímavosti z Invexu lze zasílat SMS nebo volat na 603428971.
 - Pondělní program na Invexu zahrnuje diskusi o digitálním TV vysílání.
 - Aktualizace na Marigold nemusí být kvůli nabitému programu Invexu jisté.
-title: Pondělí už na Invexu
+title: "Pondělí už na Invexu"
 ---
 
 <p>

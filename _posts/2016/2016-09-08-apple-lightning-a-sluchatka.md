@@ -13,7 +13,7 @@ summary_points:
 - Vodotěsnost a úspora místa jsou hlavní důvody odstranění jacku.
 - Lightning sluchátka jsou proprietární a nekompatibilní s jinými zařízeními.
 - Bezdrátová sluchátka mají omezenou výdrž a vyžadují časté dobíjení.
-title: Apple, lightning a&nbsp;sluchátka
+title: "Apple, lightning a sluchátka"
 ---
 
 <p>Včerejský keynote Apple potvrdila dlouho předpokládané. Firma u iPhone 7 odstraní analogový konektor pro připojení sluchátek a napříště bude možné používat sluchátka jen přes Lightning konektor a nebo bezdrátově připojená přes bluetooth.</p>

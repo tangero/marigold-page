@@ -14,7 +14,7 @@ summary_points:
 - Autor s Codym dokončili publikaci Necronomiconu, autor překládal, Cody zalomil do
   HTML.
 - Překlad Necronomiconu je nekompletní, staršího data a obsahuje možnou chybu v překladu.
-title: To byl den, v&nbsp;práci nešel internet&#8230;
+title: "To byl den, v práci nešel internet…"
 ---
 
 <p>

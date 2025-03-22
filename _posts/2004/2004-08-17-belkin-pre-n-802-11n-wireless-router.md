@@ -13,7 +13,7 @@ summary_points:
 - Router Belkin Pre-N využívá MIMO technologii pro rozdělení a složení signálu.
 - Belkin Pre-N router a PCMCIA karta budou dostupné od října za 180 dolarů.
 - Podrobnosti o 802.11n a MIMO technologii jsou dostupné na Deviceforge.com.
-title: Belkin Pre-N (802.11n) Wireless Router
+title: "Belkin Pre-N (802.11n) Wireless Router"
 ---
 
 <p>

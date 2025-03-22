@@ -13,7 +13,7 @@ summary_points:
 - San Francisco má WiFi síť od T-Mobile, podobné sítě se rozšiřují.
 - WiFi lépe a levněji obslouží 90% datových aplikací původně pro 3G.
 - Deutsche Telekom využívá studii o WiFi jako argument pro odklad 3G.
-title: WiFi půjde s&nbsp;cenou dolů, Deutsche Telekom se děsí, že WiFi pobije 3G
+title: "WiFi půjde s cenou dolů, Deutsche Telekom se děsí, že WiFi pobije 3G"
 ---
 
 <p>

@@ -10,7 +10,7 @@ summary_points:
 - Otevřený hardware a frekvence jsou klíčem pro blockchainovou mobilní síť.
 - CBRS systém umožňuje dynamické přidělování rádiového spektra bez monopolizace.
 - Blockchainová síť by mohla nabídnout levné a konkurenční telekomunikační služby.
-title: 'Blockchain v&nbsp;telekomunikacích: konec vlády mobilních operátorů'
+title: "Blockchain v telekomunikacích: konec vlády mobilních operátorů"
 ---
 
 <p>Je to zajímavé mentální cvičení, které by měl každý udělat ve svém oboru, když přijde nová "revoluční" technologie. Tímhle cvičením odlišíte revoluci v tom, jak vás odrbat jako investora od revoluce v oboru. Vezměte si blockchain. Ve finančním sektoru jasný zásah (a potopená?). Co další obory? Co třeba telekomunikace?</p>

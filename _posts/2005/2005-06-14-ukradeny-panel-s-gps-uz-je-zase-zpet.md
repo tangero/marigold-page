@@ -13,7 +13,7 @@ summary_points:
 - Policie nebyla kontaktována ohledně krádeže.
 - Zloděj panel vrátil po konfrontaci s otázkou o poškození vojenského zařízení NATO.
 - Detaily řešení krádeže jsou utajeny z důvodu účinnosti.
-title: Ukradený panel s&nbsp;GPS už je zase zpět
+title: "Ukradený panel s GPS už je zase zpět"
 ---
 
 <p>Příběh o ukradeném solárním panelu vybaveném GSM modemem a GPS má šťastný konec. Tedy pro nás šťastný. Je zajímavé, jaké doporučení jste nabízeli - v podstatě nikdo nedoporučoval obrátit se na policii. Což jsme také nakonec také neudělali. </p>

@@ -14,7 +14,7 @@ summary_points:
 - Software pro adaptér je zatím pouze pro Windows a nepodporuje video.
 - Cena WiFi adaptéru je 200 USD a Linksys plánuje přidat podporu videa.
 - Linksys nabízí gigabitové přepínače pro domácnosti, pětiportový za 200 dolarů.
-title: 'Linksys představil WiFi Media Adaptor pro spotřební elektroniku
+title: "'Linksys představil WiFi Media Adaptor pro spotřební elektroniku"
 
   '
 ---

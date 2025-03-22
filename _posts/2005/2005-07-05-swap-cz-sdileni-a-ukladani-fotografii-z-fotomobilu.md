@@ -13,7 +13,7 @@ summary_points:
 - Služba Swap.cz nabízí barevný WAP pro nové telefony a WML pro starší.
 - Swap.cz zahrnuje foto-inzerci, seznamku, soutěže, vtipy a "lovení krásy".
 - Autor žádá uživatele o vyzkoušení Swap.cz a sdílení názorů v diskusi.
-title: Swap.cz &#8211; sdílení a&nbsp;ukládání fotografií z&nbsp;fotomobilů
+title: "Swap.cz – sdílení a ukládání fotografií z fotomobilů"
 ---
 
 <p><strong>dizzyn píše:</strong> Přátelé, rád bych touto cestou ohlásil nový mobilní projekt

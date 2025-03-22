@@ -13,7 +13,7 @@ summary_points:
 - Autor testoval GPRS v Praze, ale zajímá ho funkčnost u rodičů u Pardubic.
 - Bořík odjel na Moravu psát business plán Cinetiku a má testovat GPRS.
 - Autor doporučil Boříkovi aktivaci GPRS T-Mobile pro práci na dovolené.
-title: Heureka &#8211; GPRS T-Mobile mi šlape jak hodinky
+title: "Heureka – GPRS T-Mobile mi šlape jak hodinky"
 ---
 
 <p>

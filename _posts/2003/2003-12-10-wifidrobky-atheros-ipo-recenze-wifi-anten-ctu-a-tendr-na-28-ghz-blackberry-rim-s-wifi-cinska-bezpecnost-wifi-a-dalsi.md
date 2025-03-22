@@ -13,7 +13,7 @@ summary_points:
 - ČTÚ vypisuje licenční tendr na pásmo 28 GHz, ale levné připojení nebude.
 - Blackberry RIM komunikátor bude vybaven WiFi, detaily na eWeeku.
 - Čína vytvořila vlastní bezpečnostní standard pro bezdrátové sítě WAPI.
-title: 'WiFidrobky: Atheros IPO, recenze WiFi antén, ČTÚ a&nbsp;tendr na 28 GHz, Blackberry
+title: "'WiFidrobky: Atheros IPO, recenze WiFi antén, ČTÚ a tendr na 28 GHz, Blackberry"
   RIM s&nbsp;WiFi, čínská bezpečnost WiFi a&nbsp;další&#8230;'
 ---
 

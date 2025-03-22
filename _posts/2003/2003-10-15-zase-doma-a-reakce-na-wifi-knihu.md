@@ -13,7 +13,7 @@ summary_points:
 - WiFi kniha získala ohlas na Pavlově zápisníku, autor reaguje na recenzi.
 - Výpočet přenosové trasy je důležitý, ale WiFi má omezené možnosti.
 - Konfigurace Linksys routeru v knize je praktický příklad nastavení.
-title: Zase doma a&nbsp;Reakce na WiFi knihu&#8230;
+title: "Zase doma a Reakce na WiFi knihu…"
 ---
 
 <p>

@@ -17,7 +17,7 @@ summary_points:
   přístup v roce 2005.
 - Fond bude podporovat projekty agregující požadavky různých uživatelů a zajišťující
   vyšší ekonomický efekt investic.
-title: Národní politika pro vysokorychlostní přístup předložena k&nbsp;veřejné diskusi
+title: "Národní politika pro vysokorychlostní přístup předložena k veřejné diskusi"
 ---
 
 <p>

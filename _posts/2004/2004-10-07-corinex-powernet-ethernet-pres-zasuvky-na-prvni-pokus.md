@@ -13,7 +13,7 @@ summary_points:
 - PAN-10 anténa nezlepšila signál přes železobetonové zdi.
 - Corinex PowerNet adaptér zprovoznil síť přes zásuvky bez instalace.
 - Fungování PowerNet adaptéru umožňuje indukce díky souběhu kabeláže.
-title: Corinex PowerNet &#8211; ethernet přes zásuvky na první pokus&#8230;
+title: "Corinex PowerNet – ethernet přes zásuvky na první pokus…"
 ---
 
 <p>

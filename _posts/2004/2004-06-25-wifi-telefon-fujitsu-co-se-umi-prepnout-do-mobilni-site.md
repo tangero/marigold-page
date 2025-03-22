@@ -13,7 +13,7 @@ summary_points:
 - Prototyp telefonu je vystaven na China Telecom 2004 v Šanghaji.
 - T-Mobile v Evropě usiluje o podobné přepojování VoIP do mobilní sítě.
 - Telefon má QVGA displej, CompactFlash slot, USB, WinCE a chystaný Linux.
-title: 'WiFi telefon Fujitsu, co se umí přepnout do mobilní sítě
+title: "'WiFi telefon Fujitsu, co se umí přepnout do mobilní sítě"
 
   '
 ---

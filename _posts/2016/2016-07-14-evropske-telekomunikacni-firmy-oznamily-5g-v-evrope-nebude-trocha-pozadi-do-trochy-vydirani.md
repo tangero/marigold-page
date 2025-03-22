@@ -17,7 +17,7 @@ summary_points:
   5G sítí realizovány.
 - Facebook představil OpenCellular, opensource platformu pro levnou výstavbu mobilních
   sítí.
-title: 'Evropské telekomunikační firmy oznámily: 5G v&nbsp;Evropě nebude (trocha pozadí
+title: "'Evropské telekomunikační firmy oznámily: 5G v Evropě nebude (trocha pozadí"
   do trochy vydírání)'
 ---
 

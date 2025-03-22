@@ -13,7 +13,7 @@ summary_points:
 - WMM je podmnožina QoS funkcí 802.11e pro domácí uživatele.
 - WMM prioritizuje multimediální aplikace jako video, hudbu a hlas.
 - WMM produkty jsou již dostupné na trhu, například Asus WL-520g.
-title: Vztah IEEE 802.11e a&nbsp;WMM
+title: "Vztah IEEE 802.11e a WMM"
 ---
 
 <p>Standard pro podporu QoS v sítích WiFi se připravuje od roku 2001 pod názvem 802.11e – je tedy oním „Éčkem“ v rodině písmen WiFi standardu. Jenže teprve v červenci 2005 došlo k finální dohodě pracovní skupiny TGe na rozšíření MAC vrstvy standardu 802.11 o podporu QoS. To ale bohužel ještě neznamená, že by standard byl schválen, pouze že byly uzavřeny práce na technických specifikacích a návrhy specifikací, na nichž se sjednotili všichni členové pracovní skupiny, tedy všechny firmy zainteresované do návrhu standardu, byly postoupeny Standardizačnímu výboru. Nejdříve v říjnu 2005 tak bude standard pro QoS publikován a s patřičným zpožděním potřebným pro jeho implementaci budou koncové výrobky s podporou QoS dostupné natrhu, neočekává se to ale před polovinou roku 2006. </p>

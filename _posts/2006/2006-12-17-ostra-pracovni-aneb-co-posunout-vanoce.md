@@ -13,7 +13,7 @@ summary_points:
 - Autor raději píše na Marigold než aby pracoval.
 - Autor poslouchá Assonanci a zdůrazňuje modlitbu, práci a poslušnost.
 - Vánoce se kvůli pracovnímu vytížení zvažují odložit o měsíc.
-title: Ostrá pracovní &#8211; aneb co posunout vánoce
+title: "Ostrá pracovní – aneb co posunout vánoce"
 ---
 
 <texy>Ve firmě panuje hustá pracovní nálada. Na to, že je neděle, si dovoluju velký luxus psát v devět příspěvek na Marigolda, namísto abych se odharcoval do práce. 

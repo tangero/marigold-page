@@ -13,7 +13,7 @@ summary_points:
 - Displej PD342 podporuje internetové video, DivX, vestavěné DVD a HDTV kvalitu.
 - KiSS DP-1500s DVD přehrávače mají ethernet, PCMCIA slot a volitelný WiFi adaptér.
 - DP-1500s přehrává CD/MP3, Ogg Vorbis, DivX, XviD, CD-RW, DVD+-RW a internetové rádio.
-title: 'KiSS Tech. nabídnou plazmový displej vybavený WiFi
+title: "'KiSS Tech. nabídnou plazmový displej vybavený WiFi"
 
   '
 ---

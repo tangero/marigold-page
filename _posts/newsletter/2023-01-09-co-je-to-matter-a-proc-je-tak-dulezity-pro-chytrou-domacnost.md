@@ -15,7 +15,7 @@ summary_points:
 - Matter funguje jako prostředník pro akce zařízení přes Wi-Fi nebo protokol Thread.
 - Thread je radiová mesh technologie vyžadující Thread border router pro internet.
 - Matter je zdarma pro výrobce, kteří zaplatí certifikaci svých výrobků.
-title: Co je to Matter a proč je tak důležitý pro chytrou domácnost?
+title: "Co je to Matter a proč je tak důležitý pro chytrou domácnost?"
 ---
 
 Nastavení a spárování technologií chytré domácnosti bylo vždy poněkud frustrující. Pokud zjistíte, že používáte zařízení z různých ekosystémů, je velká pravděpodobnost, že vzájemné propojení papírově kompatibilních technologií neproběhne, nebo alespoň ne bez problémů. To má změnit dlouho vyvíjená technologie nazvaná Matter, za kterou stojí i Google a především organizace Connectivity Standard Alliance. 

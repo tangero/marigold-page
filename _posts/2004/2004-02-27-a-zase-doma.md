@@ -11,7 +11,7 @@ summary_points:
 - Švýcarsko vyžaduje celoroční dálniční známku, Rakousko desetidenní.
 - Vánice ve Švýcarsku cestou domů upozornila na nutnost nových stěračů.
 - V Cannes se autor věnoval pracovním záležitostem a mobilní hudbě.
-title: A zase doma&#8230;
+title: "A zase doma…"
 ---
 
 <p>

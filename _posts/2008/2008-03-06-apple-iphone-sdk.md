@@ -16,7 +16,7 @@ summary_points:
 - Firemní fičury přinesou podporu Microsoft Exchange, ActiveSync a Cisco IPsec VPN.
 - Vývojáři mohou pro iPhone používat Xcode a iPhone Simulátor pro testování.
 - iPhone má potenciál stát se rozšiřitelným mobilním zařízením i herní konzolí.
-title: Apple iPhone SDK
+title: "Apple iPhone SDK"
 ---
 
 <strong>Noname píše</strong> Dnes se bude uvolňovat dlouho očekávaný SDK pro iPhone, těšit se také můžeme na představení firemních fičur. Firemní fičury je to co mě osobně na iPhone chybělo nejvíce, těšit se ale už nyní můžete na podporu Microsoft Exchange a ActiveSync, "Push" pro e-maily a kontakty, globální adresář, podporu pro Cisco IPsec VPN, autentikaci s certifikáty atd., dostupné to bude pro všechny hned, jak vyjde nová verze firmware.

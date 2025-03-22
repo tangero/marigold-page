@@ -13,7 +13,7 @@ summary_points:
 - Infračervené WiFi dle 802.11 dosahuje rychlostí pouze 1 a 2 Mbps.
 - Firma Spectrix vyvinula vlastní IR rozhraní s rychlostí 3-4 Mb/s a plošným pokrytím.
 - Infračervené spoje se téměř nemohou rušit, na rozdíl od zaplněného ISM spektra.
-title: Infračervené WiFi
+title: "Infračervené WiFi"
 ---
 
 <p>

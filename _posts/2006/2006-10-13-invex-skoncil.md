@@ -14,7 +14,7 @@ summary_points:
 - Vystavovatelé dělali chyby, například neznali publikum a prezentovali nezáživné
   informace.
 - Účast na Invexu se nemusí vyplatit, ale změny na straně BVV jsou nutné.
-title: Invex skončil
+title: "Invex skončil"
 ---
 
 <p><strong>Noname píše:</strong> před pár lety by to jistě byla informace týkající se mnoha lidí v IT/Telco, nyní už to asi zas tak moc lidí nezajímá. Jak už jsem psal, sám jsem byl na stánku <a href="http://sipy.cz">IP telefonie SIPY</a> a jsem spíše spokojen. Objem dojednaných obchodů několikrát překročil plány a akce tak nebude prodělečná. Ovšem mnoho firem jiště tak spokojeno nebude a já se jim nedivím.</p>

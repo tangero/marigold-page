@@ -13,7 +13,7 @@ summary_points:
 - Milan Sameš, dříve Nokia, se stává obchodním šéfem Logica v Česku.
 - Sony Ericsson odložil uvedení 3G terminálů na začátek roku 2004.
 - Indie a Izrael se hodlají připojit k evropskému navigačnímu systému Galileo.
-title: 'Teledrobky: MMS na pevnou linku, SEr odložil prodej 3G telefonů, Motorola
+title: "'Teledrobky: MMS na pevnou linku, SEr odložil prodej 3G telefonů, Motorola"
   bude mít málo fotomobilů, Gallileo a&nbsp;další&#8230;'
 ---
 

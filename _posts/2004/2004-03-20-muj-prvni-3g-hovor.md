@@ -13,7 +13,7 @@ summary_points:
 - T-Mobile překvapilo funkční 3G volání, 3G služby budou povoleny později.
 - Německý T-Mobile začne prodávat Nokia 7600, UMTS mobil bez videohovorů.
 - G datové přenosy byly rychlé, ale s citelnou latencí radiového připojení.
-title: Můj první 3G hovor
+title: "Můj první 3G hovor"
 ---
 
 <p>

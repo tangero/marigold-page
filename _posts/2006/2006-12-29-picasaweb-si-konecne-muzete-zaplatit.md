@@ -13,7 +13,7 @@ summary_points:
 - Google Picasaweb umožnil upload z iPhoto, což autor ocenil.
 - Autor si dokoupil 6GB prostoru pro Picasaweb za 25 dolarů.
 - Autorovi chybí možnost platit Google služby výnosy z AdSense.
-title: Picasaweb si konečně můžete zaplatit
+title: "Picasaweb si konečně můžete zaplatit"
 ---
 
 <texy>Nikdy jsem nepřišel na chuť Flickeru pro skladování fotek. Když Google spustil <a href="http://picasaweb.google.com">Picasaweb</a>, zalíbil se mi promptně ten. A ještě více v momentě, kdy Google přidal možnost uploadu z iPhoto (Picasa je jediná Windows aplikace, která mi přijde lepší, než Mac aplikace), nebylo co řešit. 

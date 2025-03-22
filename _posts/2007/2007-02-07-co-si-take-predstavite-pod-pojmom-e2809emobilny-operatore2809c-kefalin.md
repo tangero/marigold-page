@@ -11,7 +11,7 @@ summary_points:
 - MobilKom získal od ČTÚ kód operátora 230 04 a předčíslí 790.
 - MobilKom se zaměří spíše na datové služby než na hlasové.
 - Čtvrtý operátor by mohl nabídnout mobilní data za rozumné ceny.
-title: 'Čo si také predstavítě pod pojmom „mobilný operátor“, Kefalín?
+title: "'Čo si také predstavítě pod pojmom „mobilný operátor“, Kefalín?"
 
   '
 ---

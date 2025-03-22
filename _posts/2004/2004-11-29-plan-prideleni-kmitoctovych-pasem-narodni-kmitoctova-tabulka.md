@@ -12,7 +12,7 @@ summary_points:
 - ČTÚ vydalo CD s národní kmitočtovou tabulkou v Telekomunikačním věstníku.
 - Tabulka je dostupná ke stažení ve formátu PDF na webu ČTÚ.
 - Budoucí věstníky ČTÚ detailněji rozeberou části kmitočtového spektra.
-title: 'Plán přidělení kmitočtových pásem (národní kmitočtová tabulka)
+title: "'Plán přidělení kmitočtových pásem (národní kmitočtová tabulka)"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Autor se pokusil vložit kód pro online počítání na svou stránku.
 - Autor se ptá, jak GSM asociace získává aktuální data o počtu klientů.
 - Script byl odstraněn kvůli problémům s načítáním přes RSS.
-title: Miliarda GSM uživatelů online&#8230;
+title: "Miliarda GSM uživatelů online…"
 ---
 
 <p>

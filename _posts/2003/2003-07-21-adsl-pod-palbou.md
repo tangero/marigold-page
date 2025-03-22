@@ -14,7 +14,7 @@ summary_points:
 - Český Telecom má dle Czech On-Line vyřadit problematický dashboard z provozu.
 - Dashboard způsobuje mizernou kvalitu služeb pro ISP a koncové zákazníky.
 - Cílem je plnohodnotné připojení konkurující digitálním pevným okruhům.
-title: ADSL pod palbou
+title: "ADSL pod palbou"
 ---
 
 <p>

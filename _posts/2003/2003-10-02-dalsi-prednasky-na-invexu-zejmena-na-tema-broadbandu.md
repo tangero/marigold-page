@@ -13,7 +13,7 @@ summary_points:
 - Dundy Yeh a Jozef Derner přednáší o Broadband Access od TAINET v 11:00.
 - Irene Chen a Jozef Derner prezentují širokopásmové routery DrayTek ve 14:00.
 - Vstup na přednášky je zdarma, ATTel vystavuje v hale F32.
-title: 'Další přednášky na Invexu zejména na téma broadbandu
+title: "'Další přednášky na Invexu zejména na téma broadbandu"
 
   '
 ---

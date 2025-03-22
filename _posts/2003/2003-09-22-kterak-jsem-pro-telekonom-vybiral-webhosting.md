@@ -13,7 +13,7 @@ summary_points:
 - Pipni.cz nabízelo webhosting zdarma při registraci domény, ale mělo výpadky.
 - Movable Type byl zvolen jako blogovací software pro svou rychlost.
 - Autor doporučuje MailCryptor pro ochranu emailových adres před spamem.
-title: 'Kterak jsem pro Telekonom vybíral webhosting
+title: "'Kterak jsem pro Telekonom vybíral webhosting"
 
   '
 ---

@@ -17,7 +17,7 @@ summary_points:
 - Sam Bankman-Fried, propagátor efektivního altruismu, ztratil miliardy dolarů a znevěrohodnil
   hnutí.
 - Pád FTX může efektivní altruismus vážně poškodit ztrátou financí a etickými dopady.
-title: Efektivní altruismus ve víru pádu kryptoburzy FTX a SBF
+title: "Efektivní altruismus ve víru pádu kryptoburzy FTX a SBF"
 ---
 
 Kryptoměnovým světem otřásá pád kryptoburzy či spíše kryptokasina FTX. Ukázalo se mnohé a situaci jsem detailněji rozebíral v minulém newsletteru. Nejenom, že byl vytvořený syntetický token, jehož likviditu určovala firma ovládaná Sam Bankman-Friedem, zakladatelem FTX. Ukázalo se, že neexistovaly žádné kontrolní mechanismy ani na samotné obchody a v podstatě ani na samotné zaměstnance burzy FTX. Zatímco na povrchu vystupovala FTX jako důvěryhodná finanční instituce, která "dělá krypto", pod povrchem zde bujely všechny neduhy neregulovaného finančního světa, za které by se na běžné burze dávno zavíralo. To už je ale známá vesta. Já se chci zastavit u vedlejšího efektu, jímž je dopad krachu FTX a znevěrohodnění SBF na hnutí efektivního altruismu. 

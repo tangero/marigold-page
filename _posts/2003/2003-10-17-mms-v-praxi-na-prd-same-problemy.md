@@ -14,7 +14,7 @@ summary_points:
 - MMS zprávy měly problémy s odesíláním, doručováním a funkčností v různých sítích.
 - Doručování MMS zpráv je nespolehlivé a opakuje se v dlouhých intervalech.
 - Interoperabilita MMS je špatná, s rozdílnými limity velikosti zpráv u operátorů.
-title: 'MMS: v&nbsp;praxi na prd, samé problémy'
+title: "MMS: v praxi na prd, samé problémy"
 ---
 
 <p>

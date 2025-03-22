@@ -13,7 +13,7 @@ summary_points:
 - Dosah WiFi Finderu je 70-100 metrů, určený primárně pro správce sítí.
 - Zařízení nepotřebuje počítač a filtruje Bluetooth a jiné rušivé signály.
 - WiFi Finder není určen pro hackery, potřebují sofistikovanější nástroje.
-title: 'Dalši vyhledávačka WiFi signálu od Kensingtonu
+title: "'Dalši vyhledávačka WiFi signálu od Kensingtonu"
 
   '
 ---

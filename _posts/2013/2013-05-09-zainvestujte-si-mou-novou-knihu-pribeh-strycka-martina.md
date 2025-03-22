@@ -16,7 +16,7 @@ summary_points:
 - Autor odmítl vydavatele, kniha je žánrově nezařaditelná, proto crowdfunding.
 - Papírová kniha bude kvalitní vazba, ilustrace, korektury, i pro e-knihu.
 - Příběh strýčka Martina je autorovo opus magnum, náročné psaní i editace.
-title: 'Zainvestujte si mou novou knihu Příběh strýčka Martina
+title: "'Zainvestujte si mou novou knihu Příběh strýčka Martina"
 
   '
 ---

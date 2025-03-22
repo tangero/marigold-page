@@ -13,7 +13,7 @@ summary_points:
 - Flarion je konkurentem Qualcommu v pásmu 450 MHz a v technologii OFDMA.
 - OFDMA technologie Flarionu je klíčová pro budoucí sítě 4G a digitální TV.
 - Šéf Flarionu, Andrew Viterbi, je spoluzakladatelem Qualcommu z roku 1985.
-title: Qualcomm kupuje Flarion
+title: "Qualcomm kupuje Flarion"
 ---
 
 <p>Pokud byste přemýšleli, co bude s Flarionem, jehož sítě zatím nikde nepokročily daleko přes testovací provoz, bude vás to možná zajímat. Americký Qualcomm kupuje firmu Flarion za 600 milionů dolarů, kombinovaně v hotovosti a v akciích. Pokud Flarion dosáhne určitých cílů, vyplatí za něj Qualcomm ještě dalších 205 milionů dolarů bonus.</p>

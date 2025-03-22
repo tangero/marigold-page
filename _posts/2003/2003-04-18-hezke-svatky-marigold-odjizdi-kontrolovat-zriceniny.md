@@ -13,7 +13,7 @@ summary_points:
 - Přidávání příspěvků přes MMS zprávy stále nefunguje správně.
 - Další zprávy budou zveřejněny v pondělí večer nebo úterý ráno.
 - Autor přeje všem hezké Velikonoce a příjemné svátky.
-title: Hezké svátky, Marigold odjíždí kontrolovat zříceniny&#8230;
+title: "Hezké svátky, Marigold odjíždí kontrolovat zříceniny…"
 ---
 
 <p>

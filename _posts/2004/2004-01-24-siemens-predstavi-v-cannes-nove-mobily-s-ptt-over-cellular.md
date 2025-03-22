@@ -13,7 +13,7 @@ summary_points:
 - Dva nové mobily Siemens s PTT budou manažerský a terénní model.
 - Ubiquity dodává software pro PTT funkci do mobilů Siemens.
 - Siemens bude zřejmě první s uceleným PTT řešením pro mobilní sítě.
-title: Siemens představí v&nbsp;Cannes nové mobily s&nbsp;PTT over Cellular
+title: "Siemens představí v Cannes nové mobily s PTT over Cellular"
 ---
 
 <p>

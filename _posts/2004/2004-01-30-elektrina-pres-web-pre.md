@@ -14,7 +14,7 @@ summary_points:
 - PRE plánuje aplikaci pro optimalizaci odběrového tarifu na základě spotřebovaných
   dat.
 - Web PRE neuvádí pevně stanovené hodiny pro programové řízení nočního proudu.
-title: Elektřina přes web &#8211; PRE
+title: "Elektřina přes web – PRE"
 ---
 
 <p>

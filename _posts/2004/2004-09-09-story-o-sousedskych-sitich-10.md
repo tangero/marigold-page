@@ -14,7 +14,7 @@ summary_points:
   dočasné.
 - Ovislink router nelze nastavit, běží v režimu bridge, DHCP server dělá směrovač.
 - Cendrův Supernet je dočasné internetové řešení, Duron topí, směrovač bude přemontován.
-title: Story o&nbsp;sousedských sítích (10.)
+title: "Story o sousedských sítích (10.)"
 ---
 
 <p>

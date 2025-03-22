@@ -13,7 +13,7 @@ summary_points:
 - Autor zvažuje přesun na weblogový systém, ale Genesis mu vyhovuje.
 - Genesis nabízí funkce jako wap a databáze, které autor potřebuje.
 - Titulní stránka Genesis má 300 KB, což je pomalé přes GPRS.
-title: 'Dneska bude Marigold asi dost padací, tak se omlouvám
+title: "'Dneska bude Marigold asi dost padací, tak se omlouvám"
 
   '
 ---

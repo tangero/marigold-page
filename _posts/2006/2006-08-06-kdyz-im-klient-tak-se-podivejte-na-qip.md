@@ -13,7 +13,7 @@ summary_points:
 - Autor přešel na Qip, protože nabízí funkce Mirandy s pluginy již v základu.
 - Qip má hot-klávesy, vyhledávání v historii a snadné přepínání viditelnosti kontaktů.
 - Qip filtruje nevyžádané zprávy efektivněji než Miranda s pluginem.
-title: 'Když IM klient, tak se podívejte na QIP
+title: "'Když IM klient, tak se podívejte na QIP"
 
   '
 ---

@@ -18,7 +18,7 @@ summary_points:
 - "Projekt ebooku Technoelity byl \xFAsp\u011B\u0161n\u011B financov\xE1n a autor\
   \ jej dokon\u010D\xED."
 thumbnail: https://www.marigold.cz/assets/technoelity.png
-title: "Ebook Technoelity - Kdy\u017E p\u0159\xEDli\u0161 m\xE1lo ur\u010Duje p\u0159\
+title: ""Ebook Technoelity - Kdy\u017E p\u0159\xEDli\u0161 m\xE1lo ur\u010Duje p\u0159\"
   \xEDli\u0161 mnoho"
 ---
 

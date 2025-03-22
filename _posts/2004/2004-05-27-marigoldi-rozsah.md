@@ -13,7 +13,7 @@ summary_points:
 - Texty zpráv na Marigoldu dosahují téměř dvou milionů znaků.
 - Přidáním článků na Marigoldu se objem textu zvýšil na 2,3 miliony znaků.
 - Autor přirovnal objem textu na Marigoldu k deseti jeho WiFi knihám.
-title: Marigoldí rozsah&#8230;
+title: "Marigoldí rozsah…"
 ---
 
 <p>

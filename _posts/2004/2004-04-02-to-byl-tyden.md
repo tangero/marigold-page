@@ -13,7 +13,7 @@ summary_points:
 - MHD průkazka přinesla úlevu, ale i paranoidní obavy z jízdy načerno.
 - Instalace USB modemu pro projekt "Internet pro dědu" se zkomplikovala.
 - Miranda nahradila ICQ a AI bot pobavil přátele simulací konverzace.
-title: To byl týden&#8230;
+title: "To byl týden…"
 ---
 
 <p>

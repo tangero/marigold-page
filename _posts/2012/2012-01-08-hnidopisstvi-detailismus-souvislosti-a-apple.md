@@ -16,7 +16,7 @@ summary_points:
 - Kniha se zaměřuje na vliv iPodu, iPhonu a iPadu na digitální svět.
 - Úspěch iPodu nebyl primárně způsoben marketingem, ale praktickými detaily.
 - Autor zdůrazňuje důležitost detailů a souvislostí pro legendární produkty.
-title: Hnidopišství, detailismus, souvislosti a&nbsp;Apple
+title: "Hnidopišství, detailismus, souvislosti a Apple"
 ---
 
 <p>Už jsem tuším zmínil, že jsem se dal do psaní knihy o Apple. Dvě krátké ukázky jsou <a href="http://tangero.posterous.com/apple-x-marketing-pro-ipod">ostatně tady</a> a <a href="http://tangero.posterous.com/mala-ukazka-z-knihy-o-apple-pro-kterou-jeste">tady</a>. Tedy abych to upřesnil, většinu materiálů jsem někam psal, měl někde v šuplíku a tak různě, rozhodl jsem se to zcivilizovat a dát ven jako knihu, kupodivu jsem se s tím obtěžoval natolik, že jsem se domluvil i s vydavatelem, což u mě v případě knih nebývá vůbec obvyklé. Až se bude vydání blížit (něco jako březen), upřesním více.</p>

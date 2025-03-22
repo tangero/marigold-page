@@ -13,7 +13,7 @@ summary_points:
 - G síť T-Mobile UK nabízí rychlost pouze 128 Kb/s.
 - T-Mobile má v Británii přes 500 a v Evropě 3500 hotspotů.
 - G karta za 200 liber od T-Mobile nepodporuje WiFi připojení.
-title: T-Mobile v&nbsp;Británii nabízí paušál za 3G a&nbsp;WiFi přístup
+title: "T-Mobile v Británii nabízí paušál za 3G a WiFi přístup"
 ---
 
 <p>

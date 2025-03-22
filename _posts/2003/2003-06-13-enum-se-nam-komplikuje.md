@@ -13,7 +13,7 @@ summary_points:
 - Delegace domény je blokována ČTÚ, což brání implementaci eNUM.
 - Důvodem blokace může být nevraživost vůči CZ.NIC nebo finanční motivace.
 - ČTÚ možná tuší budoucí příjmy, o které nechce přijít.
-title: eNUM se nám komplikuje
+title: "eNUM se nám komplikuje"
 ---
 
 <p>

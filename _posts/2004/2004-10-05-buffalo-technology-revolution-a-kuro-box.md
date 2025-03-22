@@ -13,7 +13,7 @@ summary_points:
 - Kuro Box je PowerPC počítač s Linuxem pro různé serverové funkce.
 - Kuro Box má nízkou spotřebu (17W) a tichý provoz (22 dB).
 - Cena Kuro Boxu je 160 dolarů, což je více než Linksys NSLU2.
-title: Buffalo Technology, Revolution a&nbsp;Kuro Box
+title: "Buffalo Technology, Revolution a Kuro Box"
 ---
 
 <p>

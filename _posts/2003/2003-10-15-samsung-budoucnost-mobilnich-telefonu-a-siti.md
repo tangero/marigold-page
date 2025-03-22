@@ -13,7 +13,7 @@ summary_points:
 - Prototypy předváděné před konferencí byly staženy z oběhu.
 - Konference "The Future of the Mobile Phone" proběhla v korejštině.
 - Účastníci dostali tlumočnická sluchátka pro překlad do jiných jazyků.
-title: 'Samsung: Budoucnost mobilních telefonů a&nbsp;sítí'
+title: "Samsung: Budoucnost mobilních telefonů a sítí"
 ---
 
 <p>

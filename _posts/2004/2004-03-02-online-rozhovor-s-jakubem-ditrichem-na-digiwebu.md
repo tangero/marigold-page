@@ -13,7 +13,7 @@ summary_points:
 - Jakub Ditrich dříve působil v Globe Internetu, nyní provozuje WiFi síť WideNet.
 - Čtenáři mohou Ditrichovi klást otázky ohledně WiFi.
 - Redakce DigiWebu vybere zajímavé WiFi otázky a upozorní na ně.
-title: Online rozhovor s&nbsp;Jakubem Ditrichem na DigiWebu
+title: "Online rozhovor s Jakubem Ditrichem na DigiWebu"
 ---
 
 Na DigiWebu dnes od 10:30 bude probíhat <A href="http://www.digiweb.cz/ditrich" target=_blank>online rozhovor</A> <STRONG>s Jakubem Ditrichem</STRONG>, bývalým Globe internetem a současným provozovatelem WiFi sítě WideNet. A už nyní mu můžete klást vlezlé otázky a dolovat z něj nějaká moudra. Nebojte, já pak ty otázky pročtu <EM>(samozřejmě až budou zodpovězené!)</EM> a pokud tam bude něco wifologicky zajímavého, tak na to upozorním.

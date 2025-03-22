@@ -13,7 +13,7 @@ summary_points:
 - Do RSS Moreover nově přidává reklamu na prodejce telefonů z USA.
 - Reklama se objevuje při každé aktualizaci, což je velmi časté.
 - AdMuncher nedokáže tuto reklamu v RSS odběru filtrovat.
-title: Reklama do RSS je k&nbsp;uzoufání
+title: "Reklama do RSS je k uzoufání"
 ---
 
 <p>

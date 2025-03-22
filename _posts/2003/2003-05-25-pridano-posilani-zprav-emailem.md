@@ -13,7 +13,7 @@ summary_points:
 - Odesílatel musí vyplnit funkční emailovou adresu pro ověření SMTP serverem.
 - Ke zprávě lze přidat komentář, který se zobrazí modře před samotným textem.
 - Autor nedořešil znovunačítání titulní stránky při kliknutí na "poslat emailem".
-title: Přidáno posílání zpráv emailem&#8230;
+title: "Přidáno posílání zpráv emailem…"
 ---
 
 <p>

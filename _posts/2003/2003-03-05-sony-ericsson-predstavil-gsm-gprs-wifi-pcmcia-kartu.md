@@ -13,7 +13,7 @@ summary_points:
 - GPRS Class 10, HSCSD a 11 Mbps WiFi jsou podporovány kartou GC79.
 - Nokia D211 je podobná karta, kterou Nokia nabízí již od léta 2002.
 - GC79 měla být dostupná v druhé polovině roku 2003 za 350 EUR.
-title: 'Sony Ericsson představil GSM/GPRS/WiFi PCMCIA kartu
+title: "'Sony Ericsson představil GSM/GPRS/WiFi PCMCIA kartu"
 
   '
 ---

@@ -14,7 +14,7 @@ summary_points:
   sítí.
 - Decentralizace mobilní sítě přinese zrychlený vývoj služeb a lepší ceny.
 - Budoucnost může být v kompresi hlasu pomocí rozpoznávání a syntézy textu.
-title: Stomegabitové mobily a&nbsp;moje mobilní věštby&#8230;
+title: "Stomegabitové mobily a moje mobilní věštby…"
 ---
 
 <p>

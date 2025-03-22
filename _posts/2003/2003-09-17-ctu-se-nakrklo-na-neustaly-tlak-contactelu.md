@@ -14,7 +14,7 @@ summary_points:
 - ČTÚ zdůrazňuje, že postupuje podle zákona a prodloužil lhůtu pro dokazování.
 - Autor vyzývá ČTÚ k nezávislému rozhodnutí s podrobným zdůvodněním, aby se předešlo
   emotivním výpadům.
-title: 'ČTÚ se nakrklo na neustálý tlak Contactelu
+title: "'ČTÚ se nakrklo na neustálý tlak Contactelu"
 
   '
 ---

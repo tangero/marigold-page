@@ -11,7 +11,7 @@ published: true
 summary_points:
 - Oskar bude točit reklamy s Danem Růžičkou, autorem prvních reklam Oskara.
 - Reklamy od McCann-Erickson
-title: Oskar bude reklamy točit s&nbsp;Danem Růžičkou. Berdár nemá pevnou linku&#8230;
+title: "Oskar bude reklamy točit s Danem Růžičkou. Berdár nemá pevnou linku…"
 ---
 
 <p>

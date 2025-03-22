@@ -13,7 +13,7 @@ summary_points:
 - Digital divide po česku a Vývoj optických sítí jsou dostupné online.
 - CESNET videoarchiv a web PASNETu nabízejí záznamy z konference.
 - Program konference je k nalezení na stránce vrs.pasnet.cz.
-title: První záznamy z&nbsp;konference VRS 2004
+title: "První záznamy z konference VRS 2004"
 ---
 
 <p>

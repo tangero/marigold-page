@@ -16,7 +16,7 @@ summary_points:
 - 5. Network slicing umožňuje virtuální sítě na stejné infrastruktuře.
 - 6. NR podporuje až 1 milion zařízení na km2.
 - 7. Dále se vyvíjí v Release
-title: New Radio (NR) v Release 15&#8282; Revoluční základ pro 5G sítě
+title: "New Radio (NR) v Release 15⁚ Revoluční základ pro 5G sítě"
 ---
 
 3GPP Release 15, finalizovaný v roce 2018, představuje milník v evoluci mobilních sítí. Jádrem tohoto vydání je New Radio (NR), zcela nové rádiové rozhraní navržené speciálně pro 5G sítě. NR přináší zásadní změny v architektuře a funkčnosti mobilních sítí, což umožňuje dosáhnout tolik žádaný výkon, flexibilitu a škálovatelnost.

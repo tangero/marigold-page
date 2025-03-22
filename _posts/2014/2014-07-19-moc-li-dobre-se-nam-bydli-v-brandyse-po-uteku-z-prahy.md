@@ -13,7 +13,7 @@ summary_points:
 - Silnice a chodníky v Brandýse jsou ve špatném stavu, což komplikuje život.
 - Služby a obchody mají omezenou otevírací dobu, ale jsou zde kvalitní restaurace.
 - Místní řemeslníci nabízejí příjemný přístup a nižší ceny než v Praze.
-title: Moc-li dobře se nám bydlí v&nbsp;Brandýse po&nbsp;útěku z&nbsp;Prahy
+title: "Moc-li dobře se nám bydlí v Brandýse po útěku z Prahy"
 ---
 
 <p>Do Brandýsa jsme se <a href="http://www.marigold.cz/item/konec-prahy-aneb-stehovani">stěhovali před téměř třemi lety</a>. A každý rok jsme chtěl napsat, jaké jsou zkušenosti skoropražáka, který se vystěhoval do středočeské obce. Nikdy to nevyšlo. Až teď, napastoval jsem parkety, posekal v tomhle vedru zahradu, zalil záhony a jsem schopen pohybovat maximálně prsty.</p>

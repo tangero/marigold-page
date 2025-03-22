@@ -13,7 +13,7 @@ summary_points:
 - Čeští páni roku 1356 protestovali proti plánům Parléře na dostavbu chrámu.
 - Parléřovy plány se prý protiví cnostem Prahy a tradicím české architektury.
 - Žádali Karla IV. o nahrazení Parléře českými staviteli, např. Pavlem ze Zásmuku.
-title: K Národní knihovně z&nbsp;odkazu Karla IV.
+title: "K Národní knihovně z odkazu Karla IV."
 ---
 
 Téma výstavby <a href="http://www.stream.cz/clanek/471-libi-se-superknihovna-za-2-miliardy">nové Národní knihovny</a> je v poslední době tak propírané, že jsem málem porušil svou zásadu nemluvit do něčeho, v čem nejsem kovaný a jen na to mám vlastní názor. Názor má vlastní každý a každý moudrý, kdo do prdele díru má. A tak jsem si nechal zajít chuť, než jsem si vzpoměl na to, že mi kdysi profesor prozradil, že i proti záměrům na přestavbu Svatovítského chrámu za doby Karla IV. se zdvihl odpor, že prý katedrála se nehodí svým plánovaným vzhledem do Prahy. A tak jsem si zkusil představit, jak to tehdy mohlo vypadat :)

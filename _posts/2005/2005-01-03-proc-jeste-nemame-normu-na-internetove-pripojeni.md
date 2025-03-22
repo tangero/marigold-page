@@ -17,7 +17,7 @@ summary_points:
   což klame uživatele.
 - Normalizace internetového připojení by měla jasně definovat kvalitativní parametry,
   aby uživatelé chápali, co kupují.
-title: 'Proč ještě nemáme normu na internetové připojení
+title: "'Proč ještě nemáme normu na internetové připojení"
 
   '
 ---

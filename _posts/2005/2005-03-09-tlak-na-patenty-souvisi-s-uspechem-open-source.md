@@ -13,7 +13,7 @@ summary_points:
 - Velké firmy chtějí patenty jako pojistku proti konkurenci z Open Source.
 - Zveřejnění zdrojových kódů změní vývoj software, vítěz není jasný.
 - Patenty mohou být alternativou k utajování zdrojových kódů.
-title: Tlak na patenty souvisí s&nbsp;úspěchem Open Source?
+title: "Tlak na patenty souvisí s úspěchem Open Source?"
 ---
 
 <p><b>Oook píše:</b> Jak jsem se na chvíli vymanil z každodenního

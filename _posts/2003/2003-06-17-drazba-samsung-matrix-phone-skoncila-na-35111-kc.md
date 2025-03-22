@@ -13,7 +13,7 @@ summary_points:
 - Dražba byla dramatická, cena rychle rostla přes 10000 Kč a 16000 Kč.
 - Kamil Vacek ze Samsungu se krátce zapojil do dražby.
 - Výtěžek dražby poputuje do Dětského domu ve Zbraslavi.
-title: Dražba Samsung Matrix Phone skončila na 35111&nbsp;Kč
+title: "Dražba Samsung Matrix Phone skončila na 35111 Kč"
 ---
 
 <p>

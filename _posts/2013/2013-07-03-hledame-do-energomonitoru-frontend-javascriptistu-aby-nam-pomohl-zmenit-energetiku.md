@@ -13,7 +13,7 @@ summary_points:
 - Požadována je zkušenost s Javascript SPA, HTML5, HTML/CSS a GIT.
 - Výhodou jsou znalosti Javascript MVC frameworků, D3.js, Django a testování.
 - Práce zahrnuje spolupráci s týmem a občasné dojíždění do Valašského Meziříčí.
-title: 'Hledáme do energomonitoru frontend JavaScriptistu, aby nám pomohl změnit energetiku
+title: "'Hledáme do energomonitoru frontend JavaScriptistu, aby nám pomohl změnit energetiku"
 
   '
 ---

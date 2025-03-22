@@ -13,7 +13,7 @@ summary_points:
 - Autor článku hodnotí literární kvalitu jako nevalnou.
 - Tele2 získává soukromou cenu "O největší telekomunikační svině roku".
 - Autor doufá v zlepšení obchodní etiky Radiokomunikací po akvizici.
-title: Radiokomunikace odkoupily Tele2
+title: "Radiokomunikace odkoupily Tele2"
 ---
 
 <p>Po dlouhé době jsem zase napsal nějaký článek. Na Lupu, jmenuje se <a href="http://www.lupa.cz/clanky/ceske-radiokomunikace-odkoupily-tele2/">Radiokomunikace odkoupily Tele2</a>. Vznikl trochu narychlo, literární kvality nevalné, ale nebylo, komu jinému to hodit na hlavu. </p>

@@ -14,7 +14,7 @@ summary_points:
 - AI pomohla promyslet svět, ale nepsala příběh samostatně.
 - Povídka zkoumá transparentnost a její společenské důsledky.
 thumbnail: https://www.marigold.cz/assets/aipovidky.png
-title: S psaní beletrie už AI pomůže
+title: "S psaní beletrie už AI pomůže"
 ---
 
 Umělou inteligenci k psaní článků používám poměrně dlouho, ale zatím vždy to bylo pro psaní faktograficky orientovaných textů. Pro beletrii jsem ji nepoužíval, protože samotné generování beletristického textu mi nedávalo výsledek, který by stál za to. Text nemá spád, bývá naivní, plný klišé. Možná to jde poladit lepším promptováním, ale to já rychleji napíšu lepší text, než to napromptuji do Claude. 

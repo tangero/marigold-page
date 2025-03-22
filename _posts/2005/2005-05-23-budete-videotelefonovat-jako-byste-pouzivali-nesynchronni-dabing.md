@@ -14,7 +14,7 @@ summary_points:
 - Videotelefonie na 3G trpí zpožděním obrazu, což je znervózňující.
 - G hovory mají podobný problém, ale na malých displejích je méně patrný.
 - Videotelefonie má problémy s cenou, synchronizací, stabilizací a praktičností.
-title: 'Budete videotelefonovat, jako byste používali nesynchronní dabing?
+title: "'Budete videotelefonovat, jako byste používali nesynchronní dabing?"
 
   '
 ---

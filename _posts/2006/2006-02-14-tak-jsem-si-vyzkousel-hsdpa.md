@@ -13,7 +13,7 @@ summary_points:
 - Download HSDPA dosáhl 1107 kb/s, upload 113 kb/s přes speedtest.cz.
 - Ping na Google.com se pohyboval mezi 120-200 ms kvůli vytížení sítě.
 - Průměrný ping HSDPA byl 187 ms dle měření přes dsl.cz.
-title: Tak jsem si vyzkousel HSDPA
+title: "Tak jsem si vyzkousel HSDPA"
 ---
 
 <p>Na vystavisti jsem ukoristil neci notebook IBM vybavenz kartou Globe Trotter s podporou HSDPA. A protoze tu ma Qualcomm spolu s Vodafone rozchozenou implementaci HSDPA, tu jsou prvni vysledky ze speedtest.cz: download rychlost: 1 107 kb/s (138,3 kB/s) a upload rychlost: 113 kb/s (14,1 kB/s). Ping na Google.com se pohybuje dost vysoko, kolem 120 az 200 ms, ale je nas tu na tom HSDPA fakt hodne, protoze po pondelnim vypadku site jej pouzivaji i vsici novinari na mistnich masinach. </p>

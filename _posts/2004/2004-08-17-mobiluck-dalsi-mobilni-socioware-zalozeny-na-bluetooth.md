@@ -15,7 +15,7 @@ summary_points:
   a zvonění.
 - WiFi verze MobiLucku je plánována, výrobce se zaměřuje na zisk ze služeb.
 - Autor neví, jak MobiLuck funguje v praxi, protože ho v jeho okolí nikdo nepoužívá.
-title: MobiLuck &#8211; další mobilní socioware založený na bluetooth
+title: "MobiLuck – další mobilní socioware založený na bluetooth"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Skype nabízí betatest volání do telefonní sítě (SkypeOut) všem registrovaným uživatelům.
 - SkypeOut umožňuje volání do 25 zemí za 46 haléřů za minutu (včetně DPH).
 - Kredit SkypeOut lze zakoupit online, ale po 180 dnech nespotřebovaný propadá.
-title: SkypeOut &#8211; VoIP přes Skype do telefonní sítě je vážně za hubičku
+title: "SkypeOut – VoIP přes Skype do telefonní sítě je vážně za hubičku"
 ---
 
 <p>

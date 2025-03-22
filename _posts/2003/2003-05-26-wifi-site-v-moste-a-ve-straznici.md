@@ -13,7 +13,7 @@ summary_points:
 - Strážnice provozuje další metropolitní komunitní síť, dostupnou online.
 - Marigold získává odkazy na weby komunitních sítí z referrer logů.
 - E-mail je alternativní možnost zaslání informací o komunitních sítích.
-title: WiFi sítě v&nbsp;Mostě a&nbsp;ve Strážnici
+title: "WiFi sítě v Mostě a ve Strážnici"
 ---
 
 <p>

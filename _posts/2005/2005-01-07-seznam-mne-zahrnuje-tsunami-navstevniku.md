@@ -13,7 +13,7 @@ summary_points:
 - Atlas přivedl ve stejný den zhruba 70 lidí, Centrum jednotky odkazů.
 - Článek s fotografiemi tsunami dosáhl přes pět tisíc shlédnutí.
 - Seznam má stále výrazně větší vliv než Atlas a Centrum.
-title: 'Seznam mne zahrnuje tsunami návštěvníků
+title: "'Seznam mne zahrnuje tsunami návštěvníků"
 
   '
 ---

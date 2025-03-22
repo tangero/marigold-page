@@ -14,7 +14,7 @@ summary_points:
 - Operátoři, včetně Eurotelu, testovali datové paušály pro zjištění chování zákazníků.
 - Český Telecom brzdí využití GPRS jako náhrady pevné linky kvůli cenám a dostupnosti.
 - Autor předpovídá zrušení GPRS paušálu Eurotelem do konce ledna 2004.
-title: 'Paušál za GPRS ve Finsku končí. Co my?
+title: "'Paušál za GPRS ve Finsku končí. Co my?"
 
   '
 ---

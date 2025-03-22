@@ -13,7 +13,7 @@ summary_points:
 - Podíl ve společnosti je hlavní odměna pro programátora s možností platu.
 - Řízení podřízených a podnikatelské riziko jsou součástí nabídky.
 - Životopis a ukázka čitelného kódu se posílají na patrick.zandl@marigold.cz.
-title: Hledá se programátor pro Linux, muž činu a&nbsp;rizika :)
+title: "Hledá se programátor pro Linux, muž činu a rizika :)"
 ---
 
 <p>

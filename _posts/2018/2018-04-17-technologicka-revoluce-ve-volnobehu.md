@@ -11,7 +11,7 @@ summary_points:
 - Moorův zákon narazil na limity, inkrementální vývoj přestává stačit.
 - Technologie dosáhly rovnovážného stavu, chybí radikální inovace.
 - Financování vědy je neefektivní, administrativa převyšuje skutečný výzkum.
-title: Technologická revoluce ve volnoběhu
+title: "Technologická revoluce ve volnoběhu"
 ---
 
 Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají každý den. Ale není to pravda. Doba primárních vynálezů skončila v šedesátých letech minulého století. V roce 1954 mikrovlná trouba a s ní užití mikrovln. V medicíně roce 1957 antikoncepční pilulka. A v roce 1958 laser. Ostatní vynálezy mají základ v době ještě starší - třeba takový tranzistor v roce 1948 a počítače jako takové jsou ještě starší. Princip LED pochází z dvacátých let, první praktické výrobky se objevily v letech šedesátých.

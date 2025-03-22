@@ -13,7 +13,7 @@ summary_points:
 - Nokia 9310 by se mohla objevit na 3GSM kongresu, zaměřeném na business zařízení.
 - Telefon pravděpodobně nabídne Symbian Series 90, EDGE, dotykový displej a MMC slot.
 - Autor pochybuje o integraci WiFi a UMTS do nového modelu Nokia 9310.
-title: Nokia 9310 zase tutově a&nbsp;jistě
+title: "Nokia 9310 zase tutově a jistě"
 ---
 
 <p>

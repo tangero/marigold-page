@@ -10,7 +10,7 @@ summary_points:
 - Nejproblematičtějšími profese jsou cukráři, uklízeči, a stavební profese.
 - Nedostatečná mobilita zaměstnatelných v ČR je větším problémem než vzdělávací směrování
   studentů.
-title: Je něco ve vzdělávacím systému špatně, když mládež chodí i na gympl a humanitní
+title: "Je něco ve vzdělávacím systému špatně, když mládež chodí i na gympl a humanitní"
   obory
 ---
 

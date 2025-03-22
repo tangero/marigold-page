@@ -16,7 +16,7 @@ summary_points:
 - Programování se stane běžnou dovedností, nahradí některé profese díky 3D tisku.
 - Budou existovat různé specializace programátorů, od rutinních po výzkumné.
 - České školství nepřipravuje děti na budoucnost, kde bude programování klíčové.
-title: 'Otázka, kolik programátorů je třeba pro obsluhu bojového vesmírného křižníku,
+title: "'Otázka, kolik programátorů je třeba pro obsluhu bojového vesmírného křižníku,"
   je pro českou ekonomiku nadmíru aktuální
 
   '

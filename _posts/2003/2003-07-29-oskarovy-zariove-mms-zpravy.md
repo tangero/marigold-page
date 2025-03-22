@@ -13,7 +13,7 @@ summary_points:
 - Oskar FotoPošta MMS nabídne posílání MMS zpráv formou pohlednic.
 - MMS Album umožní uživatelům vytvářet alba z vlastních MMS zpráv.
 - Autor se těší na funkčnost MMS a zvažuje MMS zpravodajství.
-title: Oskarovy zářiové MMS zprávy
+title: "Oskarovy zářiové MMS zprávy"
 ---
 
 <p>

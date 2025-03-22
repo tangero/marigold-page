@@ -13,7 +13,7 @@ summary_points:
 - GHz pásmo trpí absorpcí vln vodou a kyslíkem, dosah je omezený.
 - FSona SonaBeam dosahuje 2,5 Gb/s pomocí laseru, ale má problémy s mlhou.
 - Oba systémy, 60 GHz a FSO, mají podobný dosah a jsou drahé pro komunitní sítě.
-title: Ceragon FibeAir 10060 &#8211; Gigabit v&nbsp;bezlicenčním pásmu
+title: "Ceragon FibeAir 10060 – Gigabit v bezlicenčním pásmu"
 ---
 
 <p>

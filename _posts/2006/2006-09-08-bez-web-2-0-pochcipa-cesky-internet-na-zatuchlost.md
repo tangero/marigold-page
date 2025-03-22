@@ -13,7 +13,7 @@ summary_points:
 - Web 2.0 klade důraz na uživatele a jejich zapojení.
 - České blogy neprorazily kvůli chybějící druhé vlně webu.
 - Lokální Web 2.0 služby jsou důležité pro český internet.
-title: 'Bez Web 2.0 pochcípá český internet na zatuchlost
+title: "'Bez Web 2.0 pochcípá český internet na zatuchlost"
 
   '
 ---

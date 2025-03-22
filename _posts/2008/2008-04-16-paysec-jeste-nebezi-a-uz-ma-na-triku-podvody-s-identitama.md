@@ -16,7 +16,7 @@ summary_points:
 - Autor kritizuje PaySec pro primitivnost a oddělení účtů.
 - Vnitroústavní převod na PaySec trvá déle než jeden den.
 - Registrace obchodního účtu PaySec vyžaduje tisk a podpis smluv.
-title: PaySec ještě neběží a&nbsp;už má na triku podvody s&nbsp;identitama
+title: "PaySec ještě neběží a už má na triku podvody s identitama"
 ---
 
 Sám jsem se do nové platební služby PaySec registroval teprve včera, abych ji trochu prozkoumal. Dlužno říct, že především pod dojmem investigativního článku <a href="http://online.zurnalistika.cz/62/pr-agentura-zneuziva-blogy-ceskych-deniku/">Adama Javůrka na Online Žurnalistice</a>. Byl to kapitální úlovek, všechna čest Adamovi. 

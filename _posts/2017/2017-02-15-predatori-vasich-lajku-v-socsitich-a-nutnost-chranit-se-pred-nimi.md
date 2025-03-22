@@ -11,7 +11,7 @@ summary_points:
 - Potřeba vytvořit osobní firewall k ochraně proti sledování chování a vytváření profilů.
 - Lajkování musí vypadat věrohodně a být skryto před filtrem Facebooku.
 - Možnost instalovat ochranný software na router k maskování lajků a filtrování notifikací.
-title: Predátoři vašich lajků v&nbsp;socsítích a&nbsp;nutnost chránit se před nimi
+title: "Predátoři vašich lajků v socsítích a nutnost chránit se před nimi"
 ---
 
 Přečetl jsem si <a href="https://zpravy.aktualne.cz/zahranici/zadny-zabijak-voleb-neexistuje-je-to-jen-sikovna-reklama-jed/r~0dc71f94f20111e69d89002590604f2e/">rozhovor s Josefem Šlerkou</a> o <a href="https://cambridgeanalytica.org">Cambridge Analytica</a> - firmě, která měla skvělými destilačními algoritmy ze sociálních sítí rozhodnout volby ve prospěch Trumpa. Mám stejné latentní podezření: firma spíše skvěle prodává sebe, než prodala Trumpa. Jedna věc je rozškatulkovat voliče, jiná věc je vytvořit zprávu a tu věrohodně doručit, to všechno za efektivních nákladů.

@@ -12,7 +12,7 @@ summary_points:
 - Operátoři investovali do LTE sítě, ale velkoobchodní nabídky zůstávají předražené.
 - Situaci nelze rychle napravit, je třeba systematických kroků a spolupráce všech
   stran trhu.
-title: 'Jak udělat české mobilní ceny levnými (verze 2017)
+title: "'Jak udělat české mobilní ceny levnými (verze 2017)"
 
   '
 ---

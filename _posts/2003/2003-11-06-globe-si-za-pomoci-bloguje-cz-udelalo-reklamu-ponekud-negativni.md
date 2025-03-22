@@ -13,7 +13,7 @@ summary_points:
 - Doména Bloguje.cz nyní dočasně funguje na adrese bloguje.cz.gds5.globe.cz.
 - Autor Bloguje.cz, Artur Dent, kritizuje Globe za problémy s hostingem.
 - Problémy Bloguje.cz jsou menší než dřívější výpadky placených T-Zones.
-title: Globe si za pomoci Bloguje.cz udělalo reklamu. Poněkud negativní&#8230;
+title: "Globe si za pomoci Bloguje.cz udělalo reklamu. Poněkud negativní…"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Marigold čtenáři mají vstup zdarma s kódem "marigold" při registraci.
 - Program zahrnuje přednášky o trendech, business aplikacích a případové studie.
 - Panelová diskuse se zaměří na zisky v mobilních aplikacích pro firmy.
-title: 'Wireless Wednesday: Kde jsou zisky z&nbsp;mobilních business aplikací?'
+title: "Wireless Wednesday: Kde jsou zisky z mobilních business aplikací?"
 ---
 
 <p>

@@ -17,7 +17,7 @@ summary_points:
 - EUDCH v Release 6 zlepší pokrytí, průchodnost a zpoždění při odesílání dat.
 - Release 6 obsahuje drobná vylepšení jako GUP, rozšířenou integraci s WLAN a SIP.
 - Release 7 bude obsahovat provázání IMS s pevnou sítí pro konvergenci sítí.
-title: UMTS Release 6
+title: "UMTS Release 6"
 ---
 
 <p>

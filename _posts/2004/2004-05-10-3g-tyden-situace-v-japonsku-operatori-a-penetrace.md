@@ -13,7 +13,7 @@ summary_points:
 - Mobilní internet dosahoval v Japonsku 84% penetrace mezi uživateli.
 - KDDI vedl v Japonsku v 3G sítích s CDMA2000 1x standardem.
 - Vodafone po koupi J-Phone v Japonsku zaostával v konkurenci.
-title: '3G Týden: situace v&nbsp;Japonsku &#8211; operátoři a&nbsp;penetrace'
+title: "3G Týden: situace v Japonsku – operátoři a penetrace"
 ---
 
 <p>

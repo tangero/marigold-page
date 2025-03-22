@@ -15,7 +15,7 @@ summary_points:
 - Přemysl Klíma, bývalý ředitel, nepokračuje v manažerské pozici, ale v telekomunikačním
   poradenství.
 - Nový ředitel bude pohlcen telekomunikačním "molochem" a nakonec propuštěn státem.
-title: 'Berdár novým šéfem Českého Telecomu
+title: "'Berdár novým šéfem Českého Telecomu"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Autor se obává, že jeho zkušenosti s WiFi se liší od běžných uživatelů.
 - Čtenáři jsou žádáni o sdílení problémů a tipů spojených s budováním WiFi sítí.
 - Cílem je shromáždit praktické rady pro různé typy WiFi sítí.
-title: Seznam WiFi triků
+title: "Seznam WiFi triků"
 ---
 
 <p>Pohlédl jsem na to, co jsem v poslední době napsal o WiFi a zjistil jsem, že nemnoho toho jest. A tak jsem se rozhodl pro záslužný počin a uspořádat sbírku praktických wifistických triků a tipů, tedy toho, co může lidem pro práci s WiFi pomoci. </p>

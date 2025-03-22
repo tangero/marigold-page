@@ -13,7 +13,7 @@ summary_points:
 - Zimní gumy jsou potřeba pro bezpečnou cestu do Brna a Rakouska.
 - Autor hledal pneuservis v okolí kvůli cestě do Rakouska za prací.
 - Mobilní technologie a aktuální databáze Navigatoru byly klíčové.
-title: 'Jak mi t-mobile pomohl vyměnit pneumatiky
+title: "'Jak mi t-mobile pomohl vyměnit pneumatiky"
 
   '
 ---

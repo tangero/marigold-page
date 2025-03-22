@@ -14,7 +14,7 @@ summary_points:
 - Nákup optických sítí může Googlu ušetřit za peeringové poplatky.
 - Google by mohl s optickou sítí podporovat lokální WiFi sítě a ověřovat lokality
   uživatelů.
-title: Big Brother teorie pro Google a&nbsp;jeho ISP choutky
+title: "Big Brother teorie pro Google a jeho ISP choutky"
 ---
 
 <p>Článek <a href="http://www.business2.com/b2/web/articles/print/0,17925,1093558,00.html">v Business 2.0</a> jsem četl už v půlce srpna, když vyšel a čekal jsem, jak s ním naložit a co z toho povstane. Google má skupovat optické sítě v USA, které leží nevyužité v zemi po zkrachovalých opto-síťařích. K čemupak Google hodlá tuhle infrastrukturu potřebovat?</p>

@@ -13,7 +13,7 @@ summary_points:
 - Zdeněk Janda děkuje uživatelům za jejich přínos k rozvoji sítě.
 - Podrobnosti o změnách jsou dostupné v diskusním fóru CZFree.COM.
 - Článek o transformaci CzFree je aprílový žert.
-title: Z CzFree.Net je akciová společnost
+title: "Z CzFree.Net je akciová společnost"
 ---
 
 <p>

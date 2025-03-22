@@ -13,7 +13,7 @@ summary_points:
 - Rekordér umožňuje nahrávání, snadné vyhledávání a funkci Time Slip.
 - DVD vypalovačka umožňuje střih pořadů a vypálení bez reklam.
 - Autor oceňuje funkčnost rekordéru, ale postrádá EPG a USB.
-title: 'Digitalizace domácnosti není jednoduchá – pevnodiskové rekordery
+title: "'Digitalizace domácnosti není jednoduchá – pevnodiskové rekordery"
 
   '
 ---

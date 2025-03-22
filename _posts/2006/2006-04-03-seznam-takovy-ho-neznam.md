@@ -13,7 +13,7 @@ summary_points:
 - Seznam email je dobře provedená aplikace, autor preferuje kvůli paranoii jiný.
 - Zboží Seznamu autorovi vyhovuje více než dřívější služba Centra.
 - Personalizovaná homepage Seznamu přivádí autorovi návštěvnost na blog.
-title: Seznam &#8211; takový ho neznám
+title: "Seznam – takový ho neznám"
 ---
 
 <p>Ačkoliv služby Seznamu uznávám pro jejich jednoduchost a přehlednost jako skvělé pro začínající internetovce, sám jsem je přesně z toho důvodu nikdy moc nepoužíval. Za posledního třičtvrti roku se začla situace proklatě měnit. Nevím, jestli v Seznamu dostal někdo tvůrčí erekci, nebo padáka - je mi to jedno. Ale ta změna je hodně vidět. </p>

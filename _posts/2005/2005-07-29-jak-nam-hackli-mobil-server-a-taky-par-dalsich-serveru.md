@@ -13,7 +13,7 @@ summary_points:
 - Hackování je průnik do systému bez souhlasu uživatele.
 - Skupina CzERT hacknula MaMedia a zveřejnila data uživatelů Warez fóra.
 - Hacknutí Mobil.cz vedlo ke smazání dat a odsouzení hackování.
-title: Jak nám hackli Mobil server (a&nbsp;taky pár dalších serverů)
+title: "Jak nám hackli Mobil server (a taky pár dalších serverů)"
 ---
 
 <p>Rok 1997 nám přinesl ještě jedno nemilé překvapení. Na náš server se dostal hacker a pořádně nám zatopil. A nejenom k nám, ale i na MaMedia, Seznam a další servery. Jak k tomu došlo?

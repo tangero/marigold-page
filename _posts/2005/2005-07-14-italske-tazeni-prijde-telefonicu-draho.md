@@ -13,7 +13,7 @@ summary_points:
 - Telefonica zaplatí 39 milionů Euro za porušení smlouvy o 3G síti v Itálii.
 - Italské ministerstvo nařídilo IPSE prodat 3G frekvence nebo firmu do měsíce.
 - Enel nabízí 800 milionů Euro za licence, Telefonica a Sonera doplatí zbytek.
-title: 'Italské tažení přijde Telefonicu draho
+title: "'Italské tažení přijde Telefonicu draho"
 
   '
 ---

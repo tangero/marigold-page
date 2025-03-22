@@ -13,7 +13,7 @@ summary_points:
 - Autor varuje, že politická deziluze vede k volbě populistů.
 - Česká politika je zdiskreditovaná korupcí a neschopností řešit problémy.
 - Radikalizace názorů a touha po "silné ruce" ohrožují demokracii.
-title: Arnie Guvernátorem &#8211; to už je solidní politická deziluze!
+title: "Arnie Guvernátorem – to už je solidní politická deziluze!"
 ---
 
 Arnold Schwarzenegger zvolen guvernátorem Kalifornie. Jak se mohlo stát, že vyhrál herec nad politiky? Čekají podobné dramatické změny i nás?<!--more--><p>

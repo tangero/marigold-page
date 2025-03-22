@@ -13,7 +13,7 @@ summary_points:
 - Kabelovky mají 6% penetraci, Telecom jen 1,5%.
 - Kabelový internet je o 50% dražší než ADSL.
 - Telecom by měl přehodnotit nabídku DSL a zrušit datový limit.
-title: ADSL ztrácí na internet přes kabel
+title: "ADSL ztrácí na internet přes kabel"
 ---
 
 <p><a href="http://mobil.idnes.cz/aktuality/adsl040811.html">ADSL prý dohání kabelovky</a>, zprávu jsem zaznamenal už včera, ale chtělo to delší komentář a na ten nezbyl čas. <strong>ADSL má nyní cca. 38 tisíc zákazníků</strong> (napříč všemi operátory), <strong>kabelový internet 42 tisíc zákazníků</strong>. Za poslední čtvrtletí nahrabalo ADSL cca. 15 tisíc zákazníků, kabelový internet asi polovinu. Zástupce Telecomu se tím samozřejmě chlubí, ale je opravdu čemu se chlubit?</p>

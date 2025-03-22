@@ -13,7 +13,7 @@ summary_points:
 - Notebook se po pádu poškodil, což komplikuje plánovanou práci v Cannes.
 - Autor dostal pokutu za parkování a zažil nepříjemnost při snaze pomoci.
 - Autor nasadil automatického bota pro ICQ a hledá nový redakční systém.
-title: Tryzna na vyteklý displej notebooku a&nbsp;další delikatesy
+title: "Tryzna na vyteklý displej notebooku a další delikatesy"
 ---
 
 <p>Tento týden se vůbec nevydařil. Neuvěřitelně nahuštěná práce toho

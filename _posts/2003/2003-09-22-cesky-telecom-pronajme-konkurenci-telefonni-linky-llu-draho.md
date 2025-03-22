@@ -17,7 +17,7 @@ summary_points:
   v ČR.
 - Alternativní operátoři se zaměří na firmy, protože se jim pronájem linek vyplatí
   více.
-title: 'Český Telecom pronajme konkurenci telefonní linky (LLU). Draho.
+title: "'Český Telecom pronajme konkurenci telefonní linky (LLU). Draho."
 
   '
 ---

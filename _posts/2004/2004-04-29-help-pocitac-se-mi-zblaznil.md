@@ -13,7 +13,7 @@ summary_points:
 - Virus modifikoval registry, takže se programy nespouštěly správně.
 - Notebook se po instalaci firewallu chová nestabilně a nespouští programy.
 - Data na notebooku nejsou zálohována a přeinstalace systému je komplikovaná.
-title: Help, počítač se mi zbláznil&#8230;.:(
+title: "Help, počítač se mi zbláznil….:("
 ---
 
 <p>

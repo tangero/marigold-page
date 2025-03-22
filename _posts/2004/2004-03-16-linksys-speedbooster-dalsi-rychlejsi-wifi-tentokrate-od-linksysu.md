@@ -13,7 +13,7 @@ summary_points:
 - WRT54GS router, WPC54GS PC Card a WMP54GS PCI Adapter jsou nové produkty.
 - SpeedBooster zvyšuje propustnost o 35%, Broadcom uvádí až 125 Mb/s.
 - Kompatibilita SpeedBooster produktů Linksys a Buffalo není jistá.
-title: Linksys SpeedBooster &#8211; další rychlejší WiFi tentokráte od Linksysu
+title: "Linksys SpeedBooster – další rychlejší WiFi tentokráte od Linksysu"
 ---
 
 <p>

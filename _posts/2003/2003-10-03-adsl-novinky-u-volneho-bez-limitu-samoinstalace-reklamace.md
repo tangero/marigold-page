@@ -13,7 +13,7 @@ summary_points:
 - Samoinstalační balíček Volný ADSL stojí 999 Kč při dvouleté smlouvě.
 - Balíček Volný ADSL obsahuje modem, firewall, kredit na volání a webový prostor.
 - Volný kompenzuje zákazníkům problémy s ADSL připojením ihned po nahlášení.
-title: 'ADSL novinky u&nbsp;Volného: bez limitu, samoinstalace, reklamace'
+title: "ADSL novinky u Volného: bez limitu, samoinstalace, reklamace"
 ---
 
 <p>

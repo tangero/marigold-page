@@ -13,7 +13,7 @@ summary_points:
   mohou převzít kontrolu nad telekomunikační infrastrukturou. Zranitelnost umožňuje
   odposlech nebo narušení celých sítí. Bezpečnostní experti varovali před touto hrozbou
   v úterý.
-title: 'Zajímavé čtení: Software flaw puts mobile phones and networks at risk of complete
+title: "'Zajímavé čtení: Software flaw puts mobile phones and networks at risk of complete"
   takeover'
 ---
 

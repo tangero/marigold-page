@@ -13,7 +13,7 @@ summary_points:
 - Kniha obsahuje CD se softwarem pro tvorbu a zabezpečení Wi-Fi sítí.
 - Publikace učí čtenáře budovat Wi-Fi sítě od nákupu hardwaru po provoz.
 - Kniha je překlad německého originálu, platná pro normy Evropské unie.
-title: Kniha Stavíme si bezdrátovou síť Wi-fi  &#8211; Thomas Köhre
+title: "Kniha Stavíme si bezdrátovou síť Wi-fi  – Thomas Köhre"
 ---
 
 <p>

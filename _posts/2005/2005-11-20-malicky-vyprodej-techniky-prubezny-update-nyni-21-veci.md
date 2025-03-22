@@ -13,7 +13,7 @@ summary_points:
 - Nabízí ostatním, aby se připojili k výprodeji a poslali mu odkazy na aukce.
 - Prodává například Palm, telefonní číslo, anténu, router, mobil a další techniku.
 - Aukce trvají sedm dní a autor nabízí měsíční záruku vrácení peněz.
-title: 'Maličký výprodej techniky (průběžný update, nyní 21 věcí)
+title: "'Maličký výprodej techniky (průběžný update, nyní 21 věcí)"
 
   '
 ---

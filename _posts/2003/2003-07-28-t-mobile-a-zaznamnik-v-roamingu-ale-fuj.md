@@ -14,7 +14,7 @@ summary_points:
   číslu.
 - T-Mobile údajně neumožňuje pevné přesměrování hovorů do schránky v roamingu.
 - Oskar měl problém s doručováním SMS do T-Mobile v roamingu, zprávy chodily opakovaně.
-title: T-Mobile a&nbsp;záznamník v&nbsp;roamingu, ale fuj&#8230;
+title: "T-Mobile a záznamník v roamingu, ale fuj…"
 ---
 
 <p>

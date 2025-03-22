@@ -13,7 +13,7 @@ summary_points:
 - Data se řadí chronologicky a lze je prohlížet i upravovat.
 - Lifeblog zachycuje digitální život uživatele a uchovává vzpomínky.
 - Software funguje pouze s Nokia 7610 a je zpoplatněn po 200 záznamech.
-title: Nokia Lifeblog &#8211; první Nokia software za peníze
+title: "Nokia Lifeblog – první Nokia software za peníze"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Ověření této informace mimo leták je obtížné.
 - Autor nemůže dostupnost WiFi osobně ověřit.
 - Seznam prodejen AutoContu je dostupný online.
-title: WiFi připojení v&nbsp;prodejnách AutoContu zdarma
+title: "WiFi připojení v prodejnách AutoContu zdarma"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Antimonopolní úřad povolil Českému Telecomu vlastnit Eurotel.
 - Český Telecom vymáhal poplatky za odpojenou linku a poslal vymahače.
 - Podzimní kampaň ADSL podpoří trojnásobné zrychlení internetu od Telecomu.
-title: 'Český Telecom třikrát: WiFi, Eurotel a&nbsp;je to svině'
+title: "Český Telecom třikrát: WiFi, Eurotel a je to svině"
 ---
 
 <p>

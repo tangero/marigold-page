@@ -13,7 +13,7 @@ summary_points:
 - Prodej hodinek online v Česku je obtížný, lidé kupují spíše mainstreamové značky.
 - Česká pošta zavedla sledování cenných psaní online, což autora mile překvapilo.
 - Autor navrhuje poště skenování doporučených dopisů a zasílání emailem.
-title: Poštovní vyzíránky
+title: "Poštovní vyzíránky"
 ---
 
 <p>My zíráme. Byl jsem na poště po dvou letech řešit něco složitějšího a jen jsem se podivoval. Ale po pořádku. </p>

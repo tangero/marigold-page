@@ -13,7 +13,7 @@ summary_points:
 - Kapacita Gmailu se po promazání spamu snížila z 98% na 30%.
 - Google nabízí 250GB za 500 dolarů ročně nebo 6GB za 20 dolarů.
 - Navýšení kapacity lze využít i pro Picasa Web a Google Docs.
-title: 'GMail můžete nyní rozšířit až na 250 GB kapacity
+title: "'GMail můžete nyní rozšířit až na 250 GB kapacity"
 
   '
 ---

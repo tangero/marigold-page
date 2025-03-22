@@ -17,7 +17,7 @@ summary_points:
 - Záloha musí být bezpečná, dostupná a automatická, což je obtížné kombinovat.
 - Doporučuje se kombinace lokální (USB disk) a online zálohy pro komplexní ochranu.
 - Online zálohovací služby Mozy a CrashPlan jsou doporučeny, FTP záloha nedoporučena.
-title: 'Zálohování počítače v&nbsp;době internetu: co uděláte, až vám ukradnou USB
+title: "'Zálohování počítače v době internetu: co uděláte, až vám ukradnou USB"
   disk?'
 ---
 

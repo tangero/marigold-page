@@ -15,7 +15,7 @@ summary_points:
   uživateli.
 - WiFi standard původně nepředpokládal použití mimo domácnosti/firmy, proto chybí
   obrana.
-title: Ještě jednou k&nbsp;té WiFi chybě
+title: "Ještě jednou k té WiFi chybě"
 ---
 
 <p>

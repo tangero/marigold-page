@@ -15,7 +15,7 @@ summary_points:
 - Průkopníci kvalitní kávy byli následováni netolerantními "poturčenci", kteří pohrdají
   jinými způsoby.
 - Vnucování jediného správného způsobu přípravy kávy bez znalostí je povýšené a nesmyslné.
-title: Foodnáckové čili cesta ode zdi ke zdi
+title: "Foodnáckové čili cesta ode zdi ke zdi"
 ---
 
 <p>Rasismus, čili terapie formou dojmu nadřazenosti funguje i v intelektuálním prostředí. Tedy tam, kde se zpravidla nehodí vyjadřovat se k tomu, že "nic proti cigánům nemáte, ale všichni víme, jak to je". Jen má zakořeněná netolerance zákeřejnější formy. Například foodnáckovství.</p>

@@ -13,7 +13,7 @@ summary_points:
 - WideNet nabízí nepraktické možnosti platby, jako SMS nebo hodinové intervaly.
 - Měsíční účet, záloha nebo platba kartou by byly pro zákazníky výhodnější.
 - Mikroplatební systémy mají vysoké provize a složité schvalování ČNB.
-title: Problém není kolik, ale jak&#8230;
+title: "Problém není kolik, ale jak…"
 ---
 
 <p>

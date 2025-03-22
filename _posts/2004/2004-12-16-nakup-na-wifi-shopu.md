@@ -13,7 +13,7 @@ summary_points:
 - SuperG noname routery budou testovány a případně publikovány příští týden.
 - WiFiShop.cz má nový on-line chat s prodejci a on-line stav skladových zásob.
 - WiFiShop.cz je největší prodejce bezdrátových prvků v ČR pro mnohé výrobce.
-title: Nákup na WiFi shopu
+title: "Nákup na WiFi shopu"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041216-4000.jpg" alt="Wline 4000" width="223" height="202" /></div><p>

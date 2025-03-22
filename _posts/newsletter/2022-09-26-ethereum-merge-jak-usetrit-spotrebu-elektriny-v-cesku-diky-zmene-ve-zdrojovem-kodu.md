@@ -16,7 +16,7 @@ summary_points:
 - Ethereum Merge převedlo ověřování plateb na Proof of Stake.
 - Proof of Stake snižuje energetickou náročnost ověřování transakcí.
 - Centralizace ověřování a pokles hodnoty krypta jsou problémy.
-title: 'Ethereum Merge: jak ušetřit spotřebu elektřiny v Česku díky změně ve zdrojovém
+title: "'Ethereum Merge: jak ušetřit spotřebu elektřiny v Česku díky změně ve zdrojovém"
   kódu'
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - Kamera Smartvue S2 má Pixim DPS technologii, 720x480 rozlišení a 30fps.
 - Smartvue S2 přístupový bod ukládá video až z 30 kamer na 90/180GB disk.
 - Bezdrátové kamerové systémy jsou zajímavá spotřební elektronika s rostoucí popularitou.
-title: Smartvue S2 &#8211; první bezdrátová webkamera s&nbsp;MIMO anténami a&nbsp;802.11N
+title: "Smartvue S2 – první bezdrátová webkamera s MIMO anténami a 802.11N"
 ---
 
 <p>

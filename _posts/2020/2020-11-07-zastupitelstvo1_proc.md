@@ -11,7 +11,7 @@ summary_points:
 - Účast na zastupitelstvu umožňuje občanům spolurozhodovat a iniciovat změny.
 - Zastupitelstvo je místem pro řešení místních problémů a odhalování nepravostí.
 - Osobní účast na zasedáních poskytuje lepší pochopení a atmosféru než online přenosy.
-title: Proč vlastně chodit na zastupitelstvo vaší obce?
+title: "Proč vlastně chodit na zastupitelstvo vaší obce?"
 ---
 
 Když iniciativa Milionu chvilek pro demokracii vyzvala k účasti na politickém životě, přemýšlel jsem, co poradit lidem, kteří mají zájem. Pravda, ministrem už dnes může být skoro každý a pravděpodobnost, že zrovna vy byste se jím mohli stát, už není malá, ale ne každý prahne po něčem takovém. Jak byste se mohli účastnit na kultivaci politického života skutečně, realisticky a opravdově?

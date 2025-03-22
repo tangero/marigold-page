@@ -12,7 +12,7 @@ summary_points:
 - WIA síť přidá hotspoty, vhodné pro pevné připojení, kolem Vánoc.
 - Pankrác, Lhotka, Kobylisy, Bohnice a Košík získají nové WIA hotspoty.
 - Barrandov a Stodůlky budou do konce roku pokryty signálem WIA sítě.
-title: WIA pouští další hotspoty v&nbsp;Praze!
+title: "WIA pouští další hotspoty v Praze!"
 ---
 
 <FONT size=2>

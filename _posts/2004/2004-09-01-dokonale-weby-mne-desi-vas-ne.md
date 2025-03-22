@@ -13,7 +13,7 @@ summary_points:
 - Autor nedůvěřuje JavaScriptu a složitým webovým prvkům, snižují prý klikanost.
 - Dokonalé weby budí v autorovi nedůvěru, působí draze a odlidštěně.
 - Autor preferuje weby, kde je vidět lidský přístup a účelnost nad dokonalostí.
-title: Dokonalé weby mne děsí. Vás ne?
+title: "Dokonalé weby mne děsí. Vás ne?"
 ---
 
 <p>

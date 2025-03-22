@@ -13,7 +13,7 @@ summary_points:
 - Uvolnění 5 GHz pásma brzdí ČTÚ, což autora unavuje neustále opakovat.
 - Mobilní sítě s technologiemi HSDPA a EV-DO Revize A jsou nyní zajímavější.
 - Autor se přesunul k novým a zajímavějším tématům, protože WiFi zevšedněla.
-title: Je WiFi hype over?
+title: "Je WiFi hype over?"
 ---
 
 <p>Asi nejsem sám, kdo si všimnul, že v poslední době nepíšu příliš o WiFi. Po pravdě řečeno, není o čem. Všechno, co být řečeno mělo, už řečeno či napsáno bylo a nic moc nového se neobjevuje. Nová WiFi technika je variací na tu starou, Microsoft vydává WPA2 pro XP, zatímco se běžně nepoužívání ani WPA, prostě samé takové běžné procesy, které už je člověku líto i zapisovat. Nejbližší vyhlížený impuls pro WiFi je uvolnění 5 GHz pásma, jenže i tady je trapné stále dokola psát, že ČTÚ si našlo další výmluvu, proč ho neuvolnit a proč nás ochránit před rizikem špatného nákupu. Poté, co jsme si zvykli na revoluční posuny typu 802.11b -> 802.11g nebo WEP -> WPA nám ty drobné změny přijdou zanedbatelné a vypadá to, že se WiFi vyčerpalo. </p>

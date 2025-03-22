@@ -13,7 +13,7 @@ summary_points:
 - 'CDMA sítě: Text vysvětluje důvody upřednostnění CDMA oproti TDMA a FDMA.'
 - 'Shannon a Hartley: Autoři článku využívají jejich teorie k vysvětlení kapacity.'
 - 'Článek: Další informace o kapacitě UMTS a CDMA sítí jsou dostupné online.'
-title: Turboúvod do UMTS pokračuje kapacitním kouzlením s&nbsp;CDMA
+title: "Turboúvod do UMTS pokračuje kapacitním kouzlením s CDMA"
 ---
 
 <p>

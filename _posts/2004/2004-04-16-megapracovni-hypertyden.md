@@ -13,7 +13,7 @@ summary_points:
 - Tisk smlouvy se zkomplikoval nedostatkem barvy v tiskárně, kterou musel autor shánět.
 - Pipeline a.s. propojuje aplikace klientů na PR SMS pro zpoplatnění obsahu.
 - PR SMS se používají pro zpoplatnění obsahu doručovaného na mobilní telefony.
-title: Megapracovní hypertýden
+title: "Megapracovní hypertýden"
 ---
 
 <p>

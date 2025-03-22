@@ -12,7 +12,7 @@ summary_points:
 - WiFi ve vlacích propojuje Kodaň a Göteborg díky satelitu a GSM síti.
 - Otevřené WiFi sítě jsou často nezabezpečené, 72% nepoužívá WEP.
 - T-Mobile je kritizován za nedostatečné zabezpečení a kapacitu portálu.
-title: WiFi ve vlaku, zabezpečení WiFi sítí tedy nic moc&#8230;
+title: "WiFi ve vlaku, zabezpečení WiFi sítí tedy nic moc…"
 ---
 
 <p>

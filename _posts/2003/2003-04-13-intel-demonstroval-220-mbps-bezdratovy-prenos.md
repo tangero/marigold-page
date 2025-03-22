@@ -13,7 +13,7 @@ summary_points:
 - UWB technologie se využívá i v armádě pro sledování pohybu jednotek.
 - Intel prosazuje UWB jako nástupce Bluetooth s vysokou rychlostí přenosu.
 - IEEE pracuje na standardu 802.15 pro UWB v pásmu 3.1-10.6 GHz.
-title: 'Intel demonstroval 220 Mbps bezdrátový přenos
+title: "'Intel demonstroval 220 Mbps bezdrátový přenos"
 
   '
 ---

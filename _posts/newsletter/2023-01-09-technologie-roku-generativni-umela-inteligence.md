@@ -20,7 +20,7 @@ summary_points:
   detekce.
 - Apple využívá AI pro načítání e-knih, Accapella učí AI hlas a načítá texty.
 - Autor doporučuje vyzkoušet generativní AI služby, jako Dall-e 2, Amper Music a Deepl.
-title: Technologie roku? Generativní umělá inteligence!
+title: "Technologie roku? Generativní umělá inteligence!"
 ---
 
 Jestli si něco zaslouží pojmenování jako technologie roku, pak je to bezesporu generativní AI, umělá inteligence schopná tvorby něčeho "nového". Uvozovky jsem použil záměrně, ona novost je samozřejmě s otázkou, neboť všichni škodolibě připomínají, že umělá inteligence "tvoří nové" rekombinací starého, drobnými inkrementálními změnami. Jenže tu číhá otázka, zda to lidé dělají nějak zásadně jinak?

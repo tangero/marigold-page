@@ -15,7 +15,7 @@ summary_points:
 - Airgo používá technologii MIMO se šesti anténami a třemi kanály pro robustnější
   vysílání.
 - Airgo potřebuje zajistit použitelnost, kompatibilitu s WiFi a široké rozšíření produktu.
-title: Legalizace WiFi :), Airgo nabízí 108 Mb/s bezdrátově &#8211; co s&nbsp;tím?
+title: "Legalizace WiFi :), Airgo nabízí 108 Mb/s bezdrátově – co s tím?"
 ---
 
 <p>

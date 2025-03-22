@@ -13,7 +13,7 @@ summary_points:
 - Signull G2 Access Gateway nabízí zpoplatnění a řízení WiFi hotspotů.
 - Broadcom nepředpokládá uvedení 802.11n čipu v tomto roce.
 - Standard 802.11n se očekává nejdříve v říjnu 2005.
-title: 'Drobky: Zátah na UPC Chello piráty, WiFi gateway Signull. Upgrade na vysoké
+title: "'Drobky: Zátah na UPC Chello piráty, WiFi gateway Signull. Upgrade na vysoké"
   rychlosti dle 802.11n letos nebude'
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - Michal Kára programuje software pro P2P knihovnu a projekt se blíží dokončení.
 - Název projektu je Nalanda, inspirovaný starověkou buddhistickou univerzitou.
 - Doména nalanda.cz je zaregistrovaná a pracuje se na logu a designu.
-title: P2P knihovna dostala jméno Nalanda a&nbsp;vypadá to, že se dodělá&#8230;
+title: "P2P knihovna dostala jméno Nalanda a vypadá to, že se dodělá…"
 ---
 
 <p>

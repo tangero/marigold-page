@@ -13,7 +13,7 @@ summary_points:
 - Autor se blíží k desetiletému výročí působení na internetu od roku 1996.
 - Český internet zaostává za světem, postrádá dynamiku a inovace.
 - Autor plánuje projekt k desátému výročí, testující limity českého internetu.
-title: Dva tisíce marigoldích článků a&nbsp;dárek k&nbsp;desetiletému výročí
+title: "Dva tisíce marigoldích článků a dárek k desetiletému výročí"
 ---
 
 <p>Když jsem tak kontroloval marigoldí databázi, všiml jsem si, že poslední článek má pořadové číslo 1999 - a tedy že další článek bude dvoutisící. Ne snad, že by to bylo nějak přehnaně významné výročí, ale je to dobrá příležitost, čím vyplnit ten dvoutisící marigoldí článek - totiž tento. </p>

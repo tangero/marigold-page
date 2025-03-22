@@ -13,7 +13,7 @@ summary_points:
 - Výběr Java her je malý a objednání her je nejasné a komplikované.
 - Navigace webem Eurotel Live je zmatečná a nepřehledná, připomíná firemní web.
 - Eurotel Live působí roztříštěně, jako sbírka starších služeb bez koncepce.
-title: Eurotel Live! &#8211; tedy, to je prasečinka&#8230;
+title: "Eurotel Live! – tedy, to je prasečinka…"
 ---
 
 <p>

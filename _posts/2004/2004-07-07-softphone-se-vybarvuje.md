@@ -13,7 +13,7 @@ summary_points:
 - SoftPhone dotuje vyřazení IP telefonu NP210, používaného firmou Fayn.
 - SoftPhone podporuje vícenásobné přihlášení z různých míst na jeden účet.
 - SoftPhone nabízí provoz služby bez měsíčního paušálu, ale s poplatkem.
-title: SoftPhone se vybarvuje
+title: "SoftPhone se vybarvuje"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20040707-softphone.jpg" alt="SoftPhone klient X-lite během mého hovoru na infolinku Telecomu (oblíbený obětní beránek, je tam plechová huba, dá se zkoušet po libosti)" width="275" height="379" /> </div> <p>

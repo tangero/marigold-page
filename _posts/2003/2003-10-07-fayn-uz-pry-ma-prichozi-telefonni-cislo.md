@@ -13,7 +13,7 @@ summary_points:
 - Fayn údajně nabízí příchozí telefonní čísla.
 - Fayn zatím neuvádí cenu NetPhone ani příchozí čísla.
 - Příchozí čísla dávají internetové telefonii smysl.
-title: 'Fayn už prý má příchozí telefonní číslo
+title: "'Fayn už prý má příchozí telefonní číslo"
 
   '
 ---

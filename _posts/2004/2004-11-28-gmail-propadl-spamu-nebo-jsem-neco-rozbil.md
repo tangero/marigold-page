@@ -12,7 +12,7 @@ summary_points:
 - Gmail uživateli nezachytává spam, který se hromadí v Inboxu.
 - Uživatel nenašel v administraci Gmailu možnost opětovného zapnutí filtrování spamu.
 - Problém se spamem se u uživatele projevil náhlým nárůstem na stovky zpráv denně.
-title: 'Gmail propadl spamu, nebo jsem něco rozbil?
+title: "'Gmail propadl spamu, nebo jsem něco rozbil?"
 
   '
 ---

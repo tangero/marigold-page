@@ -15,7 +15,7 @@ summary_points:
 - Státní rozpočet je nepřehledný a těžko se v něm hledají konkrétní informace.
 - Novináři nepředkládají čtenářům srozumitelné rozbory rozpočtu, na rozdíl od USA.
 - Povrchnost novinářů je částečně způsobena i povrchností a osobními útoky politiků.
-title: Předvolební marnotracení žurnalistovo spojené s&nbsp;lamentací o&nbsp;státním
+title: "Předvolební marnotracení žurnalistovo spojené s lamentací o státním"
   rozpočtu
 ---
 

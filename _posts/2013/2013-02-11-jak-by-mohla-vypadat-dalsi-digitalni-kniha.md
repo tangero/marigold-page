@@ -15,7 +15,7 @@ summary_points:
 - Elektronická kniha by mohla být aplikace s týdenními kapitolami za 5 Kč.
 - Čtenáři mohou komentovat pasáže a vidět komentáře ostatních v aplikaci.
 - Autor zvažuje, zda čtení na kapitoly bude vyhovovat a chybí potřebná aplikace.
-title: 'Jak by mohla vypadat další digitální kniha
+title: "'Jak by mohla vypadat další digitální kniha"
 
   '
 ---

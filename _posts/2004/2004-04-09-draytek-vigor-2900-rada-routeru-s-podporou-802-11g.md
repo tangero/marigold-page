@@ -13,7 +13,7 @@ summary_points:
 - Vigor 2900 nabízí čtyři LAN porty, USB pro tiskárnu, NAT, firewall a VPN tunely.
 - Model 2900i má ISDN modem, 2900G má WiFi, 2900Gi má obojí.
 - Vigor 2900 je vhodný pro firmy díky VPN/IPSec tunelům a vyšší bezpečnosti.
-title: Draytek Vigor 2900 &#8211; řada routerů s&nbsp;podporou 802.11g
+title: "Draytek Vigor 2900 – řada routerů s podporou 802.11g"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - České noviny získaly ocenění pro nejlepší zpravodajský server.
 - Peterka Jiří obdržel cenu pro internetového novináře za články o telekomunikacích.
 - Ondřej Neff byl oceněn jako osobnost českého internetu.
-title: 'Český zavináč 2002: CzFree Net je událost roku. A&nbsp;další výsledky?'
+title: "Český zavináč 2002: CzFree Net je událost roku. A další výsledky?"
 ---
 
 <p>

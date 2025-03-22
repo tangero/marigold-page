@@ -13,7 +13,7 @@ summary_points:
 - Altitude Telecom plánuje pokrýt celou Francii WiMax sítí pro malé firmy.
 - PalmOS 6.1 Cobalt pro chytré telefony bude podporovat Bluetooth, WiFi a GPRS.
 - Český Mobil a.s. se od 27.9.2004 přejmenoval na Oskar Mobil a.s.
-title: 'Drobky: AutoCell do NetGearu, Francie dostane WiMax síť, PalmOS pro chytré
+title: "'Drobky: AutoCell do NetGearu, Francie dostane WiMax síť, PalmOS pro chytré"
   telefony'
 ---
 

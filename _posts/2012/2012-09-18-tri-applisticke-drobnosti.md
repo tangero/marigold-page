@@ -15,7 +15,7 @@ summary_points:
 - Peter Druska vytvořil slovenskou knihu "Návrh iOS aplikácie" pro iPad za 20 euro.
 - 'Kniha "Apple: cesta k mobilům" byla v srpnu nejprodávanější e-kniha.'
 - Žebříček prodejnosti e-knih za srpen ovládl Zandl, který porazil Nesboa.
-title: Tři applistické drobnosti
+title: "Tři applistické drobnosti"
 ---
 
 <h2> MacForum.cz</h2>

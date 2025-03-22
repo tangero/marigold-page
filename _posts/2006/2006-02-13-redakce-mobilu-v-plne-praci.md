@@ -13,7 +13,7 @@ summary_points:
 - Snímek zachycuje redaktory při tvorbě dvou článků.
 - Autor se omlouvá za případnou nesouvislost textu.
 - Příčinou je včerejší konzumace sangrie a grappy.
-title: Redakce Mobilu v&nbsp;plné práci
+title: "Redakce Mobilu v plné práci"
 ---
 
 <p>V press centru jsem zachytil redaktory mobil.cz v plné práci. Doba pokročila. Už také posílají zprávy na server přes mms a snímek je zachytil v momentě tvorby dvou článků. A kdybych dneska psal trochu nesouvisle tak se na tom podepsalo včerejší sangria a grappa party...</p>

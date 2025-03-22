@@ -13,7 +13,7 @@ summary_points:
 - TDtv využívá časový duplex Internet4g a standard MBMS z UMTS Release 6.
 - Technologie TDtv zvládne až 50 SD nebo 15 QVGA televizních kanálů.
 - Testování TDtv probíhá v Japonsku, plánují se další zkoušky v UMTS sítích.
-title: IPWireless  představuje další mobilní televizi &#8211; TDtv
+title: "IPWireless  představuje další mobilní televizi – TDtv"
 ---
 
 <p>Jestli se vám zdálo, že standardů pro mobilní televizi je tu nějak málo, tak mám pro vás dobrou zprávu. IpWireless představilo na 3GSM svoji variantu mobilní televize nazvanou TDtv. Jak asi chápeme, jde o snahu přihrát si trochu vlastní polívčičku.

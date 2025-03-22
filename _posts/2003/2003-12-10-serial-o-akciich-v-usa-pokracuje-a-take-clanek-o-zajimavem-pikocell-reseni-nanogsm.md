@@ -14,7 +14,7 @@ summary_points:
 - Svět sítí a AKA-Monitor zveřejnily recenze autorovy WiFi knihy.
 - Články srovnávají výnosy akciových fondů s indexovými akciemi a vysvětlují maržinové
   obchody.
-title: Seriál o&nbsp;akciích v&nbsp;USA pokračuje a&nbsp;také článek o&nbsp;zajímavém
+title: "Seriál o akciích v USA pokračuje a také článek o zajímavém"
   pikocell řešení nanoGSM
 ---
 

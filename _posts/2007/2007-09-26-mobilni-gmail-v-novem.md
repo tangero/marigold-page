@@ -13,7 +13,7 @@ summary_points:
 - Nové rozhraní Gmailu je příjemnější a operace lépe dostupné.
 - Desktopová verze Gmailu se testuje, česká verze bude zpožděná.
 - Autor by uvítal přesun fotek do fotoalba jako u dokumentů.
-title: Mobilní Gmail v&nbsp;novém
+title: "Mobilní Gmail v novém"
 ---
 
 Google přichystal příjemný update mobilní verze Gmailu. Ta dlouho byla v dosti light podobě, nově vypadá takto:

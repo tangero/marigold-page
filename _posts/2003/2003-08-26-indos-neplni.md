@@ -16,7 +16,7 @@ summary_points:
 - Plná kapacita místní sítě Telecomu bránila dříve připojení školy k internetu.
 - Autor textu kritizuje systém generálního dodavatele a neschopnost Telecomu zajistit
   konektivitu.
-title: INDOŠ neplní?
+title: "INDOŠ neplní?"
 ---
 
 <p>

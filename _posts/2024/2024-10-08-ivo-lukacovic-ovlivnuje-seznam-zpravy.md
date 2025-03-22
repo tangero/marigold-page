@@ -17,7 +17,7 @@ summary_points:
 - Nevydaný článek unikl z redakce, vyvolal podezření na předávání textů politickým
   stranám.
 thumbnail: https://d39-a.sdn.cz/d_39/c_img_QM_K/p59J.jpeg
-title: Jak rozvášněný majitel pohřbil serióznost Seznam Zpráv
+title: "Jak rozvášněný majitel pohřbil serióznost Seznam Zpráv"
 ---
 
 Málokdy se podaří redakci významného média tolik ztratit tolik na renomé, jak se za poslední dva týdny podařilo Seznam Zprávám v efektu připomínajícím kazu Branšnářství Tlustý. Zatímco dosud byly Seznam Zprávy vnímány jako renomované a nezávislé médium, ukázalo se, že jsou pro svého majitele jen atomovým kufříkem, který neváhá použít pro podporu svých politických preferencí. Jenže zatímco neobratnému [brašnářství Tlustý](https://www.seznamzpravy.cz/clanek/audio-podcast-5-59-ukazuje-to-silu-i-nebezpeci-socialnich-siti-rika-novinar-k-brasnarstvi-tlusty-257717) se vysmála většina médií, na Seznam si zatím netroufl nikdo. Je to až příliš vlivný hráč na to, aby si jej za přešlap dovolili ostatní kárat.

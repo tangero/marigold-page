@@ -13,7 +13,7 @@ summary_points:
 - G novinky ze zahraničí jsou v ČR zastaralé v době jejich potenciálního uvedení.
 - Autor obnovuje 3G Týden kvůli posunu v 3G v ČR a zájmu čtenářů.
 - G Týden články se zaměřují na budoucí trhy, které čtenáře zajímají.
-title: Opět je tu 3G Týden
+title: "Opět je tu 3G Týden"
 ---
 
 <p>Články nazvané 3G Týden jsem někdy na konci loňského roku přerušil. Ani nevím proč. Samozřejmě je trochu problém sledovat 3G trhy, když většina toho, o čem píšete, se u nás nikdy neobjeví, protože až se 3G objeví u nás, budou tyhle 3G novinky dávno staré. </p>

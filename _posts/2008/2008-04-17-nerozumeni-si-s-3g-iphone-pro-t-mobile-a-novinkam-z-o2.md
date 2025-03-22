@@ -16,7 +16,7 @@ summary_points:
 - O2 zpřístupnilo WiFi hotspoty zdarma, ale jen pro státní weby během konference.
 - Telefonica O2 napadá exekuční zákon kvůli blokování majetku při vymáhání dluhů.
 - Autor kritizuje aroganci O2, která se vyhýbá placení a zneužívá svou pozici.
-title: Nerozumění si s&nbsp;3G iPhone pro T-Mobile a&nbsp;novinkám z&nbsp;O2
+title: "Nerozumění si s 3G iPhone pro T-Mobile a novinkám z O2"
 ---
 
 Nějak mám dojem, že tomu v poslední době zase nerozumím, že se mi rozjela realita s tím, co se dočítám. Tak například český T-Mobile včera <a href="http://ihned.cz/3-24060170-iphone-000000_d-18">skrze Hospodářské noviny</a> dal najevo, že hodlá do vánoc na trh uvést iPhone. Ovšem že se čeká na 3G verzi, která by měla být brzy. Jak brzy, to se neví. Chvíli jsem to bral jako positivní signál, že už by se konečně mohla spustit normální 3G síť od T-Mobile, přičemž slovem normální rozumím takovou variantu, kterou podporují telefony výrobců jako Nokia, Sony Ericsson nebo Samsung. Pak se ukázalo, že příčinou čekání je fakt, že Apple do uvedení nového modelu nebude otevírat nové trhy. Takže českému T-Mobile je 3G nadstavba nového iPhone málo platná. Leda až to jednou spustí... až ...

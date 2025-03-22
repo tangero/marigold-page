@@ -13,7 +13,7 @@ summary_points:
 - Pošta nabízí faxové služby, které autor využil pro odeslání tří stránek.
 - Cena faxu do USA byla 260 Kč za minutu a jednu vteřinu přenosu.
 - Cena faxu je výrazně vyšší než cena odeslání dopisu.
-title: Faxování na poště není za babku
+title: "Faxování na poště není za babku"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Novinář volal autorovi textu ohledně kandidatury, autor mu poskytl "komplexní výklad".
 - Mobil.cz aprílem o prodeji Eurotelu ovlivnil i analytické firmy a další servery.
 - Haló noviny převzaly zprávu o prodeji Eurotelu jako "informaci z otevřených zdrojů".
-title: S ředitelováním Telecomu to byl jen vtip a&nbsp;navíc málem divně skončil&#8230;
+title: "S ředitelováním Telecomu to byl jen vtip a navíc málem divně skončil…"
 ---
 
 <p>

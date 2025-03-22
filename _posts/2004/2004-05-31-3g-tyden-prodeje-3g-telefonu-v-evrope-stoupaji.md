@@ -13,7 +13,7 @@ summary_points:
 - Nokia a LG zvýšily prodeje 3G telefonů uvedením zajímavých modelů.
 - Vodafone, T-Mobile a další sítě začaly prodávat 3G telefony.
 - NTT DoCoMo prodal 20% podíl v Hutchison 3G UK za 220 milionů dolarů.
-title: '3G Týden: prodeje 3G telefonů v&nbsp;Evropě stoupají'
+title: "3G Týden: prodeje 3G telefonů v Evropě stoupají"
 ---
 
 <p>

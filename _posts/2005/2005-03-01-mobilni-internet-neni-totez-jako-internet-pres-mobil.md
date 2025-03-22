@@ -15,7 +15,7 @@ summary_points:
 - Oskar nastavil datový limit 70 MB pro uživatele chytrých telefonů, což odpovídá
   běžné spotřebě.
 - Uživatelé s notebookem by měli za mobilní data platit více, Oskar to dobře propočítal.
-title: 'Mobilní internet není totéž jako internet přes mobil
+title: "'Mobilní internet není totéž jako internet přes mobil"
 
   '
 ---

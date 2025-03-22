@@ -13,7 +13,7 @@ summary_points:
 - Technici Telecomu pracují na výměně vadného hardware, oprava potrvá hodiny.
 - Předpokládá se, že ADSL bude plně funkční do večera.
 - Uživatelé ADSL se potýkají s nedostupností internetu.
-title: Telecomu dnes hapruje ADSL
+title: "Telecomu dnes hapruje ADSL"
 ---
 
 <p>

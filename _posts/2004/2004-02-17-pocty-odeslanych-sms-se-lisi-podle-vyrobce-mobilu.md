@@ -14,7 +14,7 @@ summary_points:
 - Motorola a Philips vykazují nejnižší denní aktivitu SMS, 35% a 25% uživatelů.
 - Studie Yankee Group naznačuje souvislost mezi značkou mobilu a frekvencí odesílání
   SMS.
-title: 'Počty odeslaných SMS se liší podle výrobce mobilu
+title: "'Počty odeslaných SMS se liší podle výrobce mobilu"
 
   '
 ---

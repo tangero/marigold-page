@@ -22,7 +22,7 @@ summary_points:
 - Klimatická změna, vliv korporací, nerovnost a nedůvěra k elitám jsou globální rizika.
 - Korporace si přisvojují kvazistátní působnost a konkurují státům v digitálním světě.
 - Technologické superkorporace FAMAG mají větší hodnotu než většina zemí světa.
-title: Zajímavé časy
+title: "Zajímavé časy"
 ---
 
 „Zajímavé časy na vás“ je prý čínská kletba nespokojených (byť si většina čtenářů při tomto zvolání vybaví spíš [název knihy Terryho Pratchetta](https://www.databazeknih.cz/knihy/uzasna-zemeplocha-uzasna-plochozem-zajimave-casy-468)). Zajímavé časy plodívají nejistotu, zmatky, potíže a utrpení. Žijeme v nich i my, a ačkoli ještě nevygradovaly do onoho žitého utrpení, jakým byly třeba _zajímavé časy_ obou světových válek, jde o klid před výbuchem. Anebo přinejmenším o klid před upuštěním páry a změnou, která nás snad posune k lepšímu světu. 

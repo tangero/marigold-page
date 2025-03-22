@@ -13,7 +13,7 @@ summary_points:
 - Tento zvyk mi pomáhá proniknout do tématu na expertní úroveň.
 - Pro příští rok zvažuji IT témata jako analýza dat nebo umělá inteligence.
 - Hledám téma s potenciálem zajímavého vývoje a budoucnosti.
-title: Jaký obor si vybrat k&nbsp;dalšímu perspektivnímu sebevzdělávání
+title: "Jaký obor si vybrat k dalšímu perspektivnímu sebevzdělávání"
 ---
 
 Mezi jeden z mých podivných zvyků patří vybrat si každý rok jednu věc, jedno téma, se kterým se detailně obeznámím. A letos bych potřeboval s výběrem pomoct. 

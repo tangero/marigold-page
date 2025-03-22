@@ -13,7 +13,7 @@ summary_points:
 - Motorola WPS870 Wireless Print Server a WU830G USB adapter jsou 802.11g produkty.
 - Motorola HM1000 Home Monitoring je bezdrátová kamera pro domácí monitoring.
 - Motorola nabízí My Network Planner pro plánování domácí sítě s komponenty Motorola.
-title: 'Novinky z&nbsp;CES: Motorola'
+title: "Novinky z CES: Motorola"
 ---
 
 <p>

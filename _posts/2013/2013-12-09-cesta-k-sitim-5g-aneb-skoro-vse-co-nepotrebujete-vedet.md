@@ -13,7 +13,7 @@ summary_points:
 - Tisícinásobné kapacity sítí 5G dosáhneme zvýšením počtu stanic, spektra a efektivity.
 - Projekt METIS v EU mapuje trh a připravuje standardizaci 5G sítí do roku 2020.
 - DIDO architektura má zajistit plnou rychlost pro uživatele minimalizací interferencí.
-title: Cesta k&nbsp;sítím 5G (aneb skoro vše, co nepotřebujete vědět)
+title: "Cesta k sítím 5G (aneb skoro vše, co nepotřebujete vědět)"
 ---
 
 <p>Už i v Praze máme tu a tam LTE síť a těch několik set metrů čtverečních pokrytí přináší lákavou myšlenku, co bude pak. Nemyslím pak, až vyjdete za pár minut z pokrytí nebo za dalších pár minut, kdy vám přijde SMS, že jste vyčerpali FUP. Ale PAK - co přijde po 4G a sítích LTE. No ano, správně. Další vývoj. Prozatím bez velké invence označovaný jako 5G.</p>

@@ -12,7 +12,7 @@ summary_points:
 - G sítě údajně zvládnou 24 MBps díky australskému turbo dekoderu.
 - Američtí ISP bojují s nárůstem dat v broadband připojeních domácností.
 - Omezování dat v USA kvůli P2P sítím je podle autora zbytečný poplach.
-title: 3G čip s&nbsp;rychlostí 24 Mbps. Konec neomezených dat u&nbsp;broadband ISP?
+title: "3G čip s rychlostí 24 Mbps. Konec neomezených dat u broadband ISP?"
 ---
 
 <p>

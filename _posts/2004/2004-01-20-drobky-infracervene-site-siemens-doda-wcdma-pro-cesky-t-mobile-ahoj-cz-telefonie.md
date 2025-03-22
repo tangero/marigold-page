@@ -13,7 +13,7 @@ summary_points:
 - Článek Mobil.cz pesimisticky hodnotí Wi-Fi v pásmu 5 GHz.
 - Siemens dodá WCDMA technologii pro českou síť T-Mobile.
 - Ahoj.cz nabízí volání v ČR za cenu místního hovoru.
-title: 'Drobky: Infračervené sítě, Siemens dodá WCDMA pro český T-Mobile, Ahoj.cz
+title: "'Drobky: Infračervené sítě, Siemens dodá WCDMA pro český T-Mobile, Ahoj.cz"
   telefonie'
 ---
 

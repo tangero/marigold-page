@@ -13,7 +13,7 @@ summary_points:
 - ALPI hájí zájmy členů, sdílí zkušenosti a zvyšuje prestiž kodexem.
 - Cílem ALPI je stanovení indexu ceny konektivity pro lokální ISP.
 - Důležitá je komunikace s úřady a nízké provozní poplatky ALPI.
-title: 'Vzniká Asociace lokálních poskytovatelů lnternetu
+title: "'Vzniká Asociace lokálních poskytovatelů lnternetu"
 
   '
 ---

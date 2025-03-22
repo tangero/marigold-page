@@ -15,7 +15,7 @@ summary_points:
 - Autor si uvědomuje, že s dětmi se cestování změnilo a zkomplikovalo.
 - Zastaralé vybavení evokuje vzpomínky na dobrodružství bez moderního komfortu.
 - Autor se obává, zda zvládne návrat k nepohodlnému cestování po staru.
-title: Hvězdy a&nbsp;kameny v&nbsp;nás
+title: "Hvězdy a kameny v nás"
 ---
 
 Balil jsme si včera věci. Odjíždíme na tři dny na Malou Fatru, takový malý výlet, řeklo by se. Přemýšlel jsem, kdy jsem byl naposledy na takovém výletě. Takovém po staru. Pár kluků s bágly na zádech, pohorky, celta, kus chleba a zavírák. Vlastně jsem si už ani nemohl vzpomenout. Od té doby, co se narodily děti, se všechno změnilo. Příležitostí takhle vyrazit s kamarády, bylo zatraceně málo. V lepším případě výlety s dětma, ale to je jiná klasa, když je dětem šest, osm. A když je jim přes deset, nechtějí se vzdalovat od datové přípojky, ukazuje zkušenost, je těžké je přemlouvat, je těžké v sobě tu chuť najít. 

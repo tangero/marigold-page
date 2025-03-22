@@ -21,7 +21,7 @@ summary_points:
 - Kvantové počítače jsou vhodné pro paralelizované výpočty, například simulace kvantových
   jevů.
 - Česko zaostává v popularizaci a výzkumu kvantových počítačů, chybí odborná literatura.
-title: Kvantové počítače
+title: "Kvantové počítače"
 ---
 
 Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít i povídání o jejich důsledcích pro lidstvo. 

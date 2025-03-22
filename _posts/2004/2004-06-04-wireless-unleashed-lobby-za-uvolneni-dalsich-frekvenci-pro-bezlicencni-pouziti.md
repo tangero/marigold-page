@@ -13,7 +13,7 @@ summary_points:
 - Kevin Werbach, Andrew Odlyzko, David Isenberg a Clay Shirky stojí za Wireless Unleashed.
 - Microsoft podporuje Wireless Unleashed, ale nezasahuje do obsahu webu.
 - Autor textu by rád viděl podobnou iniciativu pro bezlicenční frekvence v Evropě.
-title: Wireless Unleashed &#8211; lobby za uvolnění dalších frekvencí pro bezlicenční
+title: "Wireless Unleashed – lobby za uvolnění dalších frekvencí pro bezlicenční"
   použití
 ---
 

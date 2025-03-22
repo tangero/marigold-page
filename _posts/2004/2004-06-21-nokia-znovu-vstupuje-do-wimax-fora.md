@@ -12,7 +12,7 @@ summary_points:
 - Nokia nejdříve opustila WiMAX fórum, ale po měsíci se do něj vrátila.
 - IP divize Nokia Networks zřejmě nenabízí konkurenceschopné produkty.
 - Nokia investovala do Mozilla projektu s cílem vytvořit mobilní prohlížeč Minimo.
-title: Nokia znovu vstupuje do WiMAX fóra
+title: "Nokia znovu vstupuje do WiMAX fóra"
 ---
 
 <p>

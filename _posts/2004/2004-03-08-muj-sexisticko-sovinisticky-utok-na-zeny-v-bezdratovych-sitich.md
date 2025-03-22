@@ -14,7 +14,7 @@ summary_points:
 - Autor musel přepracovat prezentaci pro nadnárodní společnost kvůli korporátním zásadám.
 - Výraz "man in the middle" byl nahrazen neutrálním "human in the middle".
 - Autor ironicky poznamenává, že útočníkem nemůže být zvíře nebo kytka.
-title: Můj sexisticko-šovinistický útok na ženy v&nbsp;bezdrátových sítích
+title: "Můj sexisticko-šovinistický útok na ženy v bezdrátových sítích"
 ---
 
 <p>

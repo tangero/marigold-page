@@ -16,7 +16,7 @@ summary_points:
   za modem.
 - Satelitní internet BGAN nabízí rychlá data s latencí 50-100ms, cena 1MB je 10-12
   USD.
-title: GPRS roaming T-Mobilu ve Francii nefunguje, Regional BGAN pres satelit jede&#8230;
+title: "GPRS roaming T-Mobilu ve Francii nefunguje, Regional BGAN pres satelit jede…"
 ---
 
 <p>

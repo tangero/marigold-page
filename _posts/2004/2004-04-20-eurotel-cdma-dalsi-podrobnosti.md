@@ -13,7 +13,7 @@ summary_points:
 - Cena služby Eurotel CDMA EVDO odhadována na 1200 Kč bez DPH.
 - Hlasové služby v CDMA síti Eurotel nebudou dostupné.
 - Rychlost služby Eurotel CDMA EVDO srovnatelná s 0,25 Mb linkou.
-title: Eurotel CDMA &#8211; další podrobnosti
+title: "Eurotel CDMA – další podrobnosti"
 ---
 
 <p>

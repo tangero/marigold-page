@@ -13,7 +13,7 @@ summary_points:
 - Holandská komunitní síť FolDerEn používá hardware Soekris.
 - Diskuse o hardware pro AP zmiňuje desku P50x Spider od GMS.
 - UltraMesh nabízí zkompletované Outdoor MeshAP za 450 USD.
-title: 'Meshování (samoorganizování) bezdrátových sítí
+title: "'Meshování (samoorganizování) bezdrátových sítí"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - NEC N900iL, WiFi telefon pro FOMA, se v Japonsku objeví v červenci/srpnu.
 - NEC N900iL váží 123 gramů a podporuje 802.11b i VoIP telefonování.
 - Telefon bude mít dvě čísla a VoIP tarify v dosahu WiFi sítě.
-title: Kandidátem na mobil s&nbsp;WiFi je také NEC N900iL
+title: "Kandidátem na mobil s WiFi je také NEC N900iL"
 ---
 
 <p>

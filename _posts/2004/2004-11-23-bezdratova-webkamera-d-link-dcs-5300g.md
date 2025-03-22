@@ -13,7 +13,7 @@ summary_points:
 - DCS-5300G má Ethernet port, digitální zoom a dálkové ovládání otáčení/náklonu.
 - Software DCS-5300G umožňuje sledovat až 16 kamer současně a připojit alarmy.
 - Kamera DCS-5300G detekuje pohyb, komprimuje data a podporuje DDNS/UpnP.
-title: Bezdrátová webkamera D-Link DCS-5300G
+title: "Bezdrátová webkamera D-Link DCS-5300G"
 ---
 
 <p>

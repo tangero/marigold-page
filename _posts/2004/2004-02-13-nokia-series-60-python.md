@@ -13,7 +13,7 @@ summary_points:
 - Aplikace pro Nokie bude možné vyvíjet přímo v mobilu.
 - Python je jednoduchý jazyk, očekává se vznik zajímavých aplikací.
 - Autor uvažuje o propojení Pythonu s webserverem pro dynamické stránky.
-title: Nokia Series 60 Python
+title: "Nokia Series 60 Python"
 ---
 
 <p>

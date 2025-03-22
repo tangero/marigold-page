@@ -16,7 +16,7 @@ summary_points:
 - Čínská verze SmartCoveru za 200 Kč se páře a má nekvalitní materiály.
 - Čínský SmartCover způsobuje samovolné zapínání iPadu a nečistí displej.
 - Autor experimentoval s levnou variantou a nyní hledá kvalitnější obal s klávesnicí.
-title: 'Neoriginální SmartCover pro iPad má své nevýhody
+title: "'Neoriginální SmartCover pro iPad má své nevýhody"
 
   '
 ---

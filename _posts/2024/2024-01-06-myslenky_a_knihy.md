@@ -18,7 +18,7 @@ summary_points:
 - "Podpora vyd\xE1v\xE1n\xED kritick\xFDch ekonomick\xFDch knih by mohla zm\u011B\
   nit diskusi."
 thumbnail: https://demotix.com/wp-content/uploads/2021/07/Books-on-Economics.jpg
-title: "My\u0161lenky nelze ignorovat a knihy nevyd\xE1vat. Jen\u017Ee z\xE1sadn\xED\
+title: ""My\u0161lenky nelze ignorovat a knihy nevyd\xE1vat. Jen\u017Ee z\xE1sadn\xED\"
   \ knihy u n\xE1s \u010Dasto nevych\xE1zej\xED."
 ---
 

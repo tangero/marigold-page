@@ -13,7 +13,7 @@ summary_points:
 - Vodafone loni prodal 36 procent z 18 milionů mobilů s kamerou.
 - Nokia ovládla 91 procent prodeje GSM telefonů s vestavěnou kamerou.
 - Ericsson prodal přes 2 miliony přídavných fotoaparátů k mobilním telefonům.
-title: V celém světě se má letos prodat 37 milionů telefonů s&nbsp;videokamerou
+title: "V celém světě se má letos prodat 37 milionů telefonů s videokamerou"
 ---
 
 <p>

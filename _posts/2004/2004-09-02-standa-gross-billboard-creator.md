@@ -12,7 +12,7 @@ summary_points:
 - SG Creator umožňuje tvorbu billboardových sloganů pro nejmladšího premiéra.
 - Web nabízí i pokusný slogan pro premiérovy billboardy.
 - KyberŠmok odkazuje na blog Vozovna, který se zabývá marketingem premiéra.
-title: Standa Gross Billboard Creator
+title: "Standa Gross Billboard Creator"
 ---
 
 <p>

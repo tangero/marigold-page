@@ -13,7 +13,7 @@ summary_points:
 - Jan Marigold žádá o zaslání témat k prozkoumání na kongresu.
 - Kontaktujte Jana přes email jan.marigold@mujoskar.cz, který funguje jako SMS.
 - Adresa marigold@mujoskar je již obsazena, proto použijte delší variantu.
-title: Piste, co vas zajima z&nbsp;telekomunikaci v&nbsp;Cannes a&nbsp;na co se zamerit
+title: "Piste, co vas zajima z telekomunikaci v Cannes a na co se zamerit"
 ---
 
 Kdyz uz tu v Cannes jsme, napiste mi na mobil, co vas zajima a po cem specialne se tu mame podivat. Samozrejme toho projdeme dost, ale treba bychom vynechali nejake dulezite tema. Nezapominejte - 3GSM kongres v Cannes je odrazem toho, kam budou vyrobci a operatori tlacit mobilni site po dalsi leta. A byla by skoda si neceho nevsimnout. Pouzijte email adresu <A href="mailto:jan.marigold@mujoskar.cz">jan.marigold@mujoskar.cz</A> - to prijde jako SMS na mobil. Takze ji radsi piste kratsi, at to dojde - ps. adresa <A href="mailto:marigold@mujoskar">marigold@mujoskar</A> byla zabrana...

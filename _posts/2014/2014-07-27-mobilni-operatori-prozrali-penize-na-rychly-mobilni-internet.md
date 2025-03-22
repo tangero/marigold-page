@@ -13,7 +13,7 @@ summary_points:
 - LTE je přirozený upgrade, operátoři na něj migrovat zkrátka musí.
 - O2 a T-Mobile se dohodli na sdílení LTE sítě.
 - ČTÚ nedefinuje kvalitativní kritéria LTE pro data.
-title: Mobilní operátoři prožrali peníze na rychlý mobilní internet
+title: "Mobilní operátoři prožrali peníze na rychlý mobilní internet"
 ---
 
 <p>V Hospodářkách vyšel článek <a href="http://byznys.ihned.cz/zpravodajstvi-cesko/c1-62556680-mobilni-operatori-potrebuji-vybrat-penize-na-rychly-internet-priplatek-ma-byt-50-korun">Mobilní operátoři potřebují vybrat peníze na rychlý internet, příplatek má být 50 korun</a>, debatu stran vyznění článku jsme rozproudili na Twitteru, ala tam se zle vysvětlují obsáhlejší souvislosti. Takže to blognu. </p>

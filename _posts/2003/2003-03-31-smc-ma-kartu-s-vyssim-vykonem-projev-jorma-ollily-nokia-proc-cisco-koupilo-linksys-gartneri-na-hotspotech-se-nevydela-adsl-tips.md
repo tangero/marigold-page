@@ -13,7 +13,7 @@ summary_points:
 - Jorma Ollila (Nokia) je skeptický k 3G a vidí telekomunikace jako motor ekonomiky.
 - Cisco koupilo Linksys, protože Linksys uměl vydělávat na produkci zařízení.
 - Gartner Group předpovídá nárůst WLAN uživatelů do roku 2007, ale ne zisk pro hotspoty.
-title: 'SMC má kartu s&nbsp;vyšším výkonem, projev Jorma Ollily (Nokia). Proč Cisco
+title: "'SMC má kartu s vyšším výkonem, projev Jorma Ollily (Nokia). Proč Cisco"
   koupilo Linksys? Gartneři: na hotspotech se nevydělá. ADSL tips'
 ---
 

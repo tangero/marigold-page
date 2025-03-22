@@ -15,7 +15,7 @@ summary_points:
 - Projekt Nimbus posiluje izraelskou schopnost sledovat a kontrolovat Palestince.
 - Izrael již dříve využil AI pro sledování Palestinců, například program Blue Wolf.
 - Zaměstnanci Googlu vyjadřují nesouhlas s podílením se na vývoji sledovacího softwaru.
-title: Google dodává Izraeli šmírovací cloud
+title: "Google dodává Izraeli šmírovací cloud"
 ---
 
 Společnost Google nabízí izraelské vládě pokročilé schopnosti umělé inteligence a strojového učení prostřednictvím kontroverzní zakázky "Projekt Nimbus". Izraelské ministerstvo financí oznámilo v dubnu 2021 uzavření smlouvy na cloudový výpočetní systém za 1,2 miliardy dolarů, který společně vybudovaly společnosti Google a Amazon. Google podle dokumentů dodává izraelské vládě kompletní sadu nástrojů strojového učení a umělé inteligence dostupných prostřednictvím platformy Google Cloud Platform. Nový cloud by Izraeli poskytl možnosti pro detekci obličejů, automatickou kategorizaci obrázků, sledování objektů, a dokonce i analýzu sentimentu, která prý dokáže vyhodnotit emocionální obsah obrázků, řeči a písma. Tyto schopnosti mají rozšířit izraelskou schopnost sledovat lidi a zpracovávat rozsáhlé zásoby dat - což jsou již nyní výrazné rysy izraelské okupace Palestiny. 

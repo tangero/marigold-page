@@ -9,7 +9,7 @@ summary_points:
 - Autor se zavazuje k politické korektnosti a úctě v komunikaci. Kritizuje úbytek
   úcty a nárůst agresivity ve společnosti. Rozhodl se změnit po incidentu s agresivním
   řidičem. Věří, že změna přístupu zlepší osobní život, i když neovlivní politiku.
-title: 'Politická korektnost nebo slušnost je rozumný návrat
+title: "'Politická korektnost nebo slušnost je rozumný návrat"
 
   '
 ---

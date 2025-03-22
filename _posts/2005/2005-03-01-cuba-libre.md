@@ -11,7 +11,7 @@ summary_points:
 - Trikolóra (red, white, blue) je zmíněna v souvislosti s párty.
 - Přípitek "Na Fidela" a zvolání "Cuba Libré" zaznívají.
 - Text doprovází obrázek, který lze zvětšit.
-title: Cuba libre
+title: "Cuba libre"
 ---
 
 <p>Je pozdě. Párty v plném proudu. Tenhle se fakt povedl. Red, white and blue. Já bych mu říkal trikolóra. Tak na Fidela. Cuba Librééééééééé

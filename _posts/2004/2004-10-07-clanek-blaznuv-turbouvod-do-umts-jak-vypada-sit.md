@@ -13,7 +13,7 @@ summary_points:
 - Bláznův turboúvod do UMTS je volnější úvod do problematiky UMTS.
 - První část článku popisuje vzhled sítě UMTS a rychlost dat.
 - Článek o UMTS pokračuje na odkazu uvedeném v textu.
-title: 'Článek: Bláznův turboúvod do UMTS &#8211; jak vypadá síť'
+title: "Článek: Bláznův turboúvod do UMTS – jak vypadá síť"
 ---
 
 <p>

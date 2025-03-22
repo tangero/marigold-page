@@ -22,7 +22,7 @@ summary_points:
 - Potvrzovací SMS "Váš požadavek byl přijat" neznamená zahájení převodu čísla.
 - Pravidelné reporty o přenosu čísla od O2 je nutné sledovat.
 - Samoobsluha O2 je nedostatečná, nastavení služeb vyžaduje infolinku.
-title: 'Převod čísla od O2 má drobné nástrahy (neb je dost zflikovaný)
+title: "'Převod čísla od O2 má drobné nástrahy (neb je dost zflikovaný)"
 
   '
 ---

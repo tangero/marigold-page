@@ -13,7 +13,7 @@ summary_points:
 - Stream TV se blíží ostrému startu, což znamená hodně práce.
 - Jilm analyzuje Stream, zdůrazňuje začátek a odlišnou cílovou skupinu.
 - Stream TV má obchodní model, soustředí se na podstatné, ne na reklamu.
-title: A zase práce jak&#8230;
+title: "A zase práce jak…"
 ---
 
 Není vhodné měnit design, zvláště, když člověk ví, že je v velmi preliminary stádiu a má do toho práce jak... Ale nemohl jsem si pomoci. 

@@ -13,7 +13,7 @@ summary_points:
 - Výsledkem hádanky bude rovnice pro výpočet ideálního umístění antény.
 - Problémem streetnodů je nedostatečné pokrytí signálem v ulicích.
 - Řešení hádanky lidé posílali do komentářů a emailem s nákresy.
-title: 'Poděkování úspěšným řešitelům matematické hádanky
+title: "'Poděkování úspěšným řešitelům matematické hádanky"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Obsluha Shell pumpy o WiFi hotspotu nic nevěděla.
 - Test WiFi hotspotu před centrálou Telecomu na Žižkově také selhal.
 - Infolinka Telecomu o víkendu nefunguje a známý potvrdil vypnutí WiFi.
-title: Hruškin testoval WiFi Telecomu a&nbsp;moc se mu to nezdálo&#8230;
+title: "Hruškin testoval WiFi Telecomu a moc se mu to nezdálo…"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Test psychologického profilu hodnotí schopnost odhadu, ne přesné znalosti.
 - Znalost je nezbytná pro tvoření, nelze ji nahradit vyhledáváním.
 - Školy by měly učit znalosti, hledání se snáze staví na již známém.
-title: 'Znalost je na nic, škola má naučit obsluhu Wikipedie? Ne!
+title: "'Znalost je na nic, škola má naučit obsluhu Wikipedie? Ne!"
 
   '
 ---

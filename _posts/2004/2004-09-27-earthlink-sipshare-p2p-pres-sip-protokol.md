@@ -13,7 +13,7 @@ summary_points:
 - SIPshare je P2P program napsaný v Javě s fulltextovým vyhledáváním.
 - SIPshare je prototyp s komunitou pro další vývoj.
 - EarthLink SIPshare webová stránka je http://www.research.earthlink.net/p2p/.
-title: EarthLink SIPshare &#8211; P2P přes SIP protokol
+title: "EarthLink SIPshare – P2P přes SIP protokol"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/1/20040927-sipshare.png" alt="EarthLink SIPshare" width="267" height="204" /></div>

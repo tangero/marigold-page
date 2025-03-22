@@ -13,7 +13,7 @@ summary_points:
 - ZigBee se používá pro propojení zabezpečovacích prvků a dálkové ovladače elektroniky.
 - ZigBee využívá tři frekvenční pásma s různými rychlostmi a počtem kanálů.
 - ZigBee podporuje až 255 zařízení v síti, je úspornější než Bluetooth.
-title: 'ZigBee: další technologie v&nbsp;pásmu 2,4 GHz'
+title: "ZigBee: další technologie v pásmu 2,4 GHz"
 ---
 
 <p>

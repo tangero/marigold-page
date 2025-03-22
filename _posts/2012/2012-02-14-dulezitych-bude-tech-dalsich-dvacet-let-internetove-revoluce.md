@@ -20,7 +20,7 @@ summary_points:
   konflikt.
 - Budoucnost internetu závisí na domluvě mezi generacemi, jinak hrozí "výbuch kotle"
   revoluce.
-title: 'Důležitých bude těch dalších dvacet let internetové revoluce
+title: "'Důležitých bude těch dalších dvacet let internetové revoluce"
 
   '
 ---

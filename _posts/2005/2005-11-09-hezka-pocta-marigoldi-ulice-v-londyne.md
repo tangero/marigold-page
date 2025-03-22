@@ -13,7 +13,7 @@ summary_points:
 - Pražští radní vyžadují pro pojmenování ulic mrtvé velikány.
 - V Praze tedy ulice Marigolda zatím neexistuje.
 - Fotografie zobrazuje londýnskou Marigold street.
-title: Hezká pocta &#8211; Marigoldí ulice v&nbsp;Londýně
+title: "Hezká pocta – Marigoldí ulice v Londýně"
 ---
 
 <p>Zásluhy Marigolda (nevím jaké, ale jistě velké) byly po zásluze oceněny. V Londýně pojmenovali na počest Marigolda ulici a fotograficky ji zvěčnil M. Matys. </p>

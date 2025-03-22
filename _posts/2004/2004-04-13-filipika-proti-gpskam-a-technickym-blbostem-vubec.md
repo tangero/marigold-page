@@ -13,7 +13,7 @@ summary_points:
 - GPS moduly s GPRS stahují mapy, ale jsou drahé.
 - Autor GPS prakticky nepoužívá, preferuje mapu a kompas.
 - GPS je pro běžné uživatele zbytečná, drahá technologie.
-title: Filipika proti GPSkám a&nbsp;technickým blbostem vůbec
+title: "Filipika proti GPSkám a technickým blbostem vůbec"
 ---
 
 <p>

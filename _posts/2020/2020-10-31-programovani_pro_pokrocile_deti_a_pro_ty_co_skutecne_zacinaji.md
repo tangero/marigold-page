@@ -28,7 +28,7 @@ summary_points:
 - "Chyb\xED mezistupe\u0148 mezi hrav\xFDm a profesion\xE1ln\xEDm programov\xE1n\xED\
   m."
 - "Low-code a no-code platformy jsou drah\xE9 a cloudov\u011B z\xE1visl\xE9."
-title: "Programov\xE1n\xED pro pokro\u010Dil\xE9 d\u011Bti a pro ty, co skute\u010D\
+title: ""Programov\xE1n\xED pro pokro\u010Dil\xE9 d\u011Bti a pro ty, co skute\u010D\"
   n\u011B za\u010D\xEDnaj\xED"
 ---
 

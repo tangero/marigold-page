@@ -14,7 +14,7 @@ summary_points:
 - Netgear brzy prodá PCMCIA karty za 129 USD.
 - Linksys WRT54G (router/AP/switch) byl schválen pro EU.
 - Linksys představil bezdrátový přehrávač prezentací WPG12.
-title: Linksys vydal své dualbandové WiFi karty a&nbsp;bezdrátový přehrávač presentací
+title: "Linksys vydal své dualbandové WiFi karty a bezdrátový přehrávač presentací"
 ---
 
 <p>

@@ -17,7 +17,7 @@ summary_points:
   účtů.
 - Sendo představilo chytrý model X na setkání vývojářů mobilů v Británii (AAS Pub
   Meeting).
-title: 'Mobildrobky: Sendo X a&nbsp;další zajímavosti'
+title: "Mobildrobky: Sendo X a další zajímavosti"
 ---
 
 <p>

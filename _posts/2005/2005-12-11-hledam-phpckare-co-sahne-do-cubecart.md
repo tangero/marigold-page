@@ -12,7 +12,7 @@ summary_points:
 - CubeCart potřebuje úpravu pro správné počítání DPH na fakturách.
 - Práce je placená, fakturace možná, ideální pro jednotlivce s časem.
 - Znalost CubeCart je výhodou, integrátoři SAPu nejsou cílová skupina.
-title: 'Hledám PHPčkaře, co sáhne do CubeCart
+title: "'Hledám PHPčkaře, co sáhne do CubeCart"
 
   '
 ---

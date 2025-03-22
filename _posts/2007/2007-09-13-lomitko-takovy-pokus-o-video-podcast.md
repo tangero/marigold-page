@@ -13,7 +13,7 @@ summary_points:
 - První díl Lomítka má 37 minut a pojednává o IT Crowd, iPodech, Flashi a Twitteru.
 - Tvůrci chtějí filmovat novinky a bavit se, případný divácký zájem je bonus.
 - První díl Lomítka je ke zhlédnutí na Stream.cz, existuje i verze pro iPod.
-title: Lomítko &#8211; takový pokus o&nbsp;video podcast
+title: "Lomítko – takový pokus o video podcast"
 ---
 
 Tak jsme si onehdá s b00leanem říkali, že bychom zkusili video podcast. Něco podobného, jako je <a href="http://www.diggnation.com">Diggnation</a>, nebo jako je český <a href="http://www.digit.cz">Digit</a>. Já osobně už jsem nad tím špekuloval delší dobu, protože jsem si pořád říkal, že to musí být zajímavé si to vyzkoušet. A tak jsme špekulovali, až jsme na to včera vlítli. Ve firmě jsem zkonfiskoval tři kamery, kolegu jsem nejdříve vyštval z jeho kanceláře, pak jsem ho pokorně šel poprosit, aby se vrátil a obsluhoval ty kamery. Připravili jsme si témata, porty, lampu, notebooky, matonku a šlo se na to. 

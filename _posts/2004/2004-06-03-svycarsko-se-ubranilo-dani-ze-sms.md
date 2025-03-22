@@ -14,7 +14,7 @@ summary_points:
 - Filipíny zvažují zdanění SMS zpráv, protože je nepovažují za nutnost.
 - Filipínský návrh na zdanění SMS je vládní, švýcarský byl individuální poslanecký
   návrh.
-title: Švýcarsko se ubránilo dani ze SMS
+title: "Švýcarsko se ubránilo dani ze SMS"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Linksys BEFW11S4 a WRT54G nebyly dostupné u oslovených dodavatelů.
 - OvisLink 802.11b WL-1184AR byl nakonec zvolen, i přes podporu pouze RIPv1.
 - Instalace N konektoru trvala dlouho a zprovoznění systému se odložilo.
-title: Story o&nbsp;sousedských sítích (8.)
+title: "Story o sousedských sítích (8.)"
 ---
 
 <p>

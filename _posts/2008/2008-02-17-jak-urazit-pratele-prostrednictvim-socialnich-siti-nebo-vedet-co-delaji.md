@@ -15,7 +15,7 @@ summary_points:
 - Autor omylem označil kontakty za obchodní, což způsobilo rozhořčení.
 - Spokeo agreguje aktivity kontaktů z různých sociálních sítí, ale nepodporuje české.
 - Spokeo vyhledává velké množství informací, ale vyžaduje propojení kontaktů.
-title: 'Jak urazit přátele prostřednictvím sociálních sítí (nebo vědět, co dělají)
+title: "'Jak urazit přátele prostřednictvím sociálních sítí (nebo vědět, co dělají)"
 
   '
 ---

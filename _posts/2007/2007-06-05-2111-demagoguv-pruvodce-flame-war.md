@@ -13,7 +13,7 @@ summary_points:
 - Autor chtěl demonstrovat demagogii a lži v článcích o operačních systémech.
 - Hulánovy články o Apple obsahují lži a demagogii bez racionálního základu.
 - Autor identifikoval různé reakce čtenářů, od flame war po pochopení parodie.
-title: 'Demagogův průvodce: Jak rozpoutat flame war snadno a&nbsp;rychle'
+title: "Demagogův průvodce: Jak rozpoutat flame war snadno a rychle"
 ---
 
 <strong>Pro jistotu to napíšu hned na začátek a následně rozvedu: článek <a href="http://www.marigold.cz/item/windows-vista-je-spatny-system">Windows Vista je špatný systém</a> jsem nemyslel vážně a byla to jen parodie na sociosystém lůzy ...</strong>

@@ -13,7 +13,7 @@ summary_points:
 - České dráhy do 25. května vyberou dodavatele GSM-R řešení pro komunikaci vlak-dispečink.
 - Iráckou telekomunikační infrastrukturu obnoví WorldCom za 45 milionů USD.
 - V Iráku bude zřejmě nasazen standard GSM pro mobilní síť.
-title: Mobil.cz o&nbsp;WiFi rychlostech, doporučené čtení. GSM-R pro České dráhy.
+title: "Mobil.cz o WiFi rychlostech, doporučené čtení. GSM-R pro České dráhy."
   Obnova telekomunikací v&nbsp;Iráku
 ---
 

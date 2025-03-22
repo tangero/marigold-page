@@ -13,7 +13,7 @@ summary_points:
 - VoIP Expo a IDF byly jediné světlé momenty veletrhu Invex.
 - Křišťálový disk generálního ředitele BVV byl absurdní novou kategorií.
 - Invex se točí v kruhu, ignoruje nové trendy a mladou generaci.
-title: 'Invex musí zemřít, aby české IT mohlo žít
+title: "'Invex musí zemřít, aby české IT mohlo žít"
 
   '
 ---

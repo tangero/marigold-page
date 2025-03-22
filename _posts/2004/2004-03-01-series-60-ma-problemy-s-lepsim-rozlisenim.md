@@ -13,7 +13,7 @@ summary_points:
 - Windows Mobile podporuje vyšší rozlišení QVGA 320 x 240.
 - Upgrade Series 60 pro vyšší rozlišení může narušit zpětnou kompatibilitu.
 - Nokia se k problému s rozlišením Series 60 nevyjádřila.
-title: Series 60 má problémy s&nbsp;lepším rozlišením
+title: "Series 60 má problémy s lepším rozlišením"
 ---
 
 <p>

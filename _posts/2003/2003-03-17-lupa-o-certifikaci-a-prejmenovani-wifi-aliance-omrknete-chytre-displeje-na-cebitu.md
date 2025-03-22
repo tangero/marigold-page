@@ -13,7 +13,7 @@ summary_points:
 - WECA se přejmenovala na WiFi Alianci, označení Wi-FI5 se ruší.
 - CeBIT prezentuje "chytré displeje" od Microsoftu a partnerů.
 - Chytrý displej funguje bezdrátově, ale je zatím příliš drahý.
-title: Lupa o&nbsp;certifikaci a&nbsp;přejmenování WiFi aliance. Omrkněte chytré displeje
+title: "Lupa o certifikaci a přejmenování WiFi aliance. Omrkněte chytré displeje"
   na CeBITu.
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - Bill Gates ohlašoval alianci s anonymním šéfem Vodafone Services.
 - Petr Olmer (Chinin) pozval české bloggery v Ženevě na setkání.
 - Oběd bude v Carrefouru, kam autor pojede MHD zdarma.
-title: Bill Gates v&nbsp;Ženevě &#8211; fotky. Ženevské setkání českých blogerů.
+title: "Bill Gates v Ženevě – fotky. Ženevské setkání českých blogerů."
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Kontaktní email nelze změnit formulářem, nutné je notářské ověření.
 - T-Mobile zaslal dvě nabídky smlouvy se zvýhodněnými telefony.
 - Autor zvažuje novou smlouvu s T-Mobile, pokud nabídnou data za paušál.
-title: Doména marigold.cz (snad) zachráněna
+title: "Doména marigold.cz (snad) zachráněna"
 ---
 
 <p>

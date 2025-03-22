@@ -16,7 +16,7 @@ summary_points:
 - Nestabilita modemu způsobuje problémy, například pády notebooku při vybití baterie,
   řešením jsou nové ovladače.
 - Data Express se prodává velmi rychle, zájem zákazníků předčil očekávání Eurotelu.
-title: Eurotel Data Express i&nbsp;ve verzi CDMA2000 EV-DV (vlastní úprava)
+title: "Eurotel Data Express i ve verzi CDMA2000 EV-DV (vlastní úprava)"
 ---
 
 <p>

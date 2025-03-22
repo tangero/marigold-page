@@ -13,7 +13,7 @@ summary_points:
 - Dostupnost satelitních map zdarma ukazuje na rostoucí možnosti sledování.
 - Existují první produkty osobního antispywaru, například filtry na displeje.
 - Vyvíjejí se technologie, které mají znesnadnit rozpoznání tváře kamerami.
-title: 'Osobní antispyware má být další velkou věcí
+title: "'Osobní antispyware má být další velkou věcí"
 
   '
 ---

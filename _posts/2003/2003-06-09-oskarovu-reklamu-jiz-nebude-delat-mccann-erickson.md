@@ -13,7 +13,7 @@ summary_points:
 - Oskar v roce 2002 utratil za reklamu 614 milionů korun.
 - Nové reklamy Oskara jsou vnímány jako agresivní a méně kvalitní.
 - Kampaně MojeJednička a MojeRodina jsou považovány za stupidní.
-title: 'Oskarovu reklamu již nebude dělat McCann-Erickson
+title: "'Oskarovu reklamu již nebude dělat McCann-Erickson"
 
   '
 ---

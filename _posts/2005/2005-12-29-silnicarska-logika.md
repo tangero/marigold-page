@@ -14,7 +14,7 @@ summary_points:
 - Mezi Čakovicemi a Vinoří byl spatřen sypač s pluhem na strategické silnici.
 - Autor se ptá, zda je tato silnice tak důležitá, nebo jel řidič domů.
 - Autor navrhuje zveřejnit plán nasazení techniky při sněhové kalamitě.
-title: Silničářská logika
+title: "Silničářská logika"
 ---
 
 <p><b>ook píše</b>: Tak jsem se včera probíjel z Dejvic ke

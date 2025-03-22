@@ -13,7 +13,7 @@ summary_points:
 - Americká burza reagovala poklesem kurzu akcií na průběh invaze do Iráku.
 - Válka se podepisuje na telekomunikačním odvětví skrze burzovní poklesy.
 - Společnosti odsunuly prezentace novinek kvůli válce a jejímu vlivu.
-title: Válka v&nbsp;Iráku zastavila i&nbsp;WiFi novinky&#8230;
+title: "Válka v Iráku zastavila i WiFi novinky…"
 ---
 
 <p>

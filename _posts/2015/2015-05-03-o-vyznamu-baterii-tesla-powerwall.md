@@ -14,7 +14,7 @@ summary_points:
 - V Česku se baterie nevyplatí pro přetahování elektřiny mezi tarify kvůli vysoké
   ceně.
 - Baterie jsou výhodné pro domácnosti s fotovoltaikou nebo pro energetickou soběstačnost.
-title: O významu baterií Tesla Powerwall
+title: "O významu baterií Tesla Powerwall"
 ---
 
 <p>Elon Musk představil další pilíř svého Tesla businessu - po Tesla Motors vyrábějící elektromobily také Tesla Energy vyrábějící baterie. Z hloubi české kotliny je těžké dohlédnout význam tohoto kroku, takže se to podívejme hlouběji. </p>

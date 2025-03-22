@@ -16,7 +16,7 @@ summary_points:
 - Véčkové telefony kvalitního provedení jsou v současnosti na trhu nedostatkové zboží.
 - Zvažuje nákup starší Motoroly V9 z eBay, ale obává se cla z Hongkongu.
 - Autor se ptá, zda je o kvalitní "nechytré" véčkové telefony malý zájem.
-title: 'Chybí mi sympatická véčka jako telefony
+title: "'Chybí mi sympatická véčka jako telefony"
 
   '
 ---

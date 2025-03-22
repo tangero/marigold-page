@@ -13,7 +13,7 @@ summary_points:
 - Giom 1-3 nabízí webovou administraci, SNMP správu, firewall, Giom 3 i NAT.
 - Giom 4 (VPN bridge) vyžaduje PCMCIA kartu, což komplikuje připojení externí antény.
 - Mikrovlny vyvíjí vylepšený přístupový bod a klientskou jednotku s externím displejem.
-title: 'WiFi technika Giom českého výrobce Mikrovlny s.r.o.
+title: "'WiFi technika Giom českého výrobce Mikrovlny s.r.o."
 
   '
 ---

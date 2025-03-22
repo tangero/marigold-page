@@ -19,7 +19,7 @@ summary_points:
 - Samsung představil chytrý prsten Galaxy Ring a ohebné telefony.
 - Anthropic zdvojnásobil limit tokenů pro Claude 3.5 Sonnet.
 - Ivo Lukačovič založil placený kanál na Patreonu kvůli toxicitě X.
-title: Drobky, co možná nechcete přehlédnout
+title: "Drobky, co možná nechcete přehlédnout"
 ---
 
 * AI pro **tvoru hudebních skladeb[Suno](https://suno.com/) **zprovoznilo možnost nahrát až minutovou ukázku stylu, do něhož se její AI vygenerovaná skladba má přizpůsobit. Tak jsem si [vytvořil hymnu Flotily Země](https://suno.com/song/cd33d177-3027-4740-933a-e5b1b90e015a) pro moji rozepsanou knihu a pokusil jsem se donutit Suno, aby ji ztvárnila do podoby českého zpěváka. Schválně, jestli poznáte, kterého... 

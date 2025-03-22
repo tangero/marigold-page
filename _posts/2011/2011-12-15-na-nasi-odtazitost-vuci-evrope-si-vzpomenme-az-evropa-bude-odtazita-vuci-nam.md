@@ -17,7 +17,7 @@ summary_points:
 - Sudety, obývané Němci, byly trvalým problémem kvůli neochotě se integrovat.
 - Československo se v krizi 30. let izolovalo a odmítlo evropskou spolupráci.
 - Česko by mělo solidárně přispět k řešení evropských problémů a budovat kredit.
-title: 'Na naši odtažitost vůči Evropě si vzpomeňme, až Evropa bude odtažitá vůči
+title: "'Na naši odtažitost vůči Evropě si vzpomeňme, až Evropa bude odtažitá vůči"
   nám
 
   '

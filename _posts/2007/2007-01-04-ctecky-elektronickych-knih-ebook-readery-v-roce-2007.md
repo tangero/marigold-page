@@ -13,7 +13,7 @@ summary_points:
 - Autor má tisíce knih doma a paralelně buduje elektronickou knihovnu v PDF.
 - PDA jsou nouzové řešení pro čtení PDF, specializované čtečky s eInk jsou lepší.
 - Sony PRS-500 je slibná čtečka, ale dostupná jen v USA a s otazníky ohledně češtiny.
-title: Čtečky elektronických knih, ebook readery v&nbsp;roce 2007
+title: "Čtečky elektronických knih, ebook readery v roce 2007"
 ---
 
 <texy>Pomalu každý rok to v oblasti elektronických knih vypadá na to, že už-už přijde průlom. Jenže pak to nějak vyšumí do ztracena a původně nadějný projekt se odpíská či posune. Jednou za čas si jdu osvěžit svůj přehled o oblasti elektronických knih, protože mne zajímá a považuju ji za perspektivní do budoucna, ale v současnosti za mrtvý trh. 

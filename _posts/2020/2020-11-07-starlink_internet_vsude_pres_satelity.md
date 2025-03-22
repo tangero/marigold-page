@@ -21,7 +21,7 @@ summary_points:
 - Hughes investoval do krachujícího OneWebu za 50 milionů dolarů.
 - OneWeb byl prodán britské vládě a Bharti Global za 1 mld dolarů.
 - Digitální propast v USA řeší fond RDOF s rozpočtem 20 miliard dolarů.
-title: Starlink, internet všude, přes satelity - dějství druhé
+title: "Starlink, internet všude, přes satelity - dějství druhé"
 ---
 
 **Starlink Elona Muska**  rozeslal „tisíce“ dalších pozvánek do betaprovozu internetu distribuovaného ze satelitů na nízké oběžné dráze (LEO). V betaprovozu stojí  _„better than nothing“_  linka 99$, další pětistovku ovšem musí uživatelé vytlačit za terminál pro příjem satelitního signálu ([článek](https://futurism.com/the-byte/starlink-beta-outperformed-most-internet-us)). A linka prý momentálně frčí na nějakých 160 Mbps a 20 ms latenci, statisticky je lepší, než 95% linek v USA. Potud dobrý.

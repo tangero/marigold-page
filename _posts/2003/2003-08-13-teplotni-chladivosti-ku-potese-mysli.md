@@ -14,7 +14,7 @@ summary_points:
 - Žertva, populární weblog, pokračuje díky čtenářům a pátrání po jeho identitě je
   zajímavé.
 - Vosa na jazyku se vrací s krátkým obrázkovým stripem po delší pauze.
-title: Teplotní chladivosti ku potěše mysli
+title: "Teplotní chladivosti ku potěše mysli"
 ---
 
 <p>

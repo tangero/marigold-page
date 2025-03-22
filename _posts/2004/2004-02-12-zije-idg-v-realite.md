@@ -13,7 +13,7 @@ summary_points:
 - ČR je podle autora shrnutí v digitální propasti hluboko.
 - Stát se snaží problém digitální propasti zmírňovat, ale neúspěšně.
 - Finanční prostředky stát raději investuje do nezaměstnaných a důchodců.
-title: Žije IDG v&nbsp;realitě?
+title: "Žije IDG v realitě?"
 ---
 
 <p>

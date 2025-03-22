@@ -13,7 +13,7 @@ summary_points:
 - Eurostat uvádí, že číslo ISP v ČR zahrnuje držitele licence pro připojování.
 - Komunitní sítě v ČR mají licenci pro připojování "pro jistotu".
 - Dostupnost a cena internetu v ČR vedou k vytváření komunitních sítí.
-title: 'Česká republika má nejvíce ISP ze zemí EU
+title: "'Česká republika má nejvíce ISP ze zemí EU"
 
   '
 ---

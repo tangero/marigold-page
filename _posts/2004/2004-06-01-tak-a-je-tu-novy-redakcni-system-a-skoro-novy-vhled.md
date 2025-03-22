@@ -13,7 +13,7 @@ summary_points:
 - Italica způsobovala dvoumilimetrový proužek v MSIE, vyřešeno pomocí hacku.
 - Autor se chce věnovat hackování Linksys WRT54G a instalaci řízení šířky pásma.
 - Autor se podělí o návod na hackování routeru, pokud se mu to povede.
-title: Tak a&nbsp;je tu nový redakční systém a&nbsp;skoro-nový vhled
+title: "Tak a je tu nový redakční systém a skoro-nový vhled"
 ---
 
 <p>

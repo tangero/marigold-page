@@ -13,7 +13,7 @@ summary_points:
 - Informace z prezentace Streamu nebudou opakovaně zveřejňovány.
 - Důvodem exkluzivity je poskytnutí informací lidem z branže.
 - Prezentace se zaměřila na technické detaily, ne na program.
-title: Zatím žádné detaily
+title: "Zatím žádné detaily"
 ---
 
 <p>Je mi líto, ale presentace na Broadband Monday byla pro nějakou dobu jedinou závažnější informaci, kterou dáme k projektu Streamu. Informace ani nebudeme opakovat, takže kdo nebyl na Broadband Monday, ten se to dozví až s oficiálním představením nebo od těch, co tam byli. </p>

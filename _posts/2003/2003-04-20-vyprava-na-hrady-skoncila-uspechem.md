@@ -13,7 +13,7 @@ summary_points:
 - Doporučuje dvoudenní výlet vlakem z Prahy do Blíževedel s návštěvou Ronova a Hřídelíku.
 - Trasa zahrnuje i Úštěk, Helfenburg a cukrárnu U bílé paní s levnou kávou.
 - Doprava stojí okolo 300 Kč, ubytování je zdarma a trasa je vhodná i pro začátečníky.
-title: 'Výprava na hrady skončila úspěchem :)
+title: "'Výprava na hrady skončila úspěchem :)"
 
   '
 ---

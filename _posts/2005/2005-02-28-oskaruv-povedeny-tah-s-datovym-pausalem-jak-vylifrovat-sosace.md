@@ -13,7 +13,7 @@ summary_points:
 - Paušál Oskara je dražší než neomezená data konkurence, eliminuje "sosače".
 - Oskar nabízí dynamické ceny dat v rozmezí 238-952 Kč dle spotřeby.
 - Běžní uživatelé dat s paušálem Oskara ušetří, "sosači" prodělají.
-title: 'Oskarův povedený tah s&nbsp;datovým paušálem: jak vylifrovat sosače'
+title: "Oskarův povedený tah s datovým paušálem: jak vylifrovat sosače"
 ---
 
 <p>Dneska na <a href="http://mobil.idnes.cz/mob_operatori.asp?r=mob_operatori&amp;c=A050227_233113_mob_operatori_dno">Mobilu</a> i <a href="http://www.mobilmania.cz/Bleskovky/AR.asp?ARI=109448">MobilManii</a> (ta si zřejmě dost vypomohla článkem na Mobilu) vyšly podrobnosti k datovému paušálu Oskara, tiskovka bude zítra. Uvedené údaje ale sedí a teď je ta pravá chvíle zatleskat Oskarovi za jeho mistrovský tah. Jednoduchým a elegantním trikem totiž odstranil velkou část rizika sosačů. Ten, kdo to vymyslel (či spíše prosadil) by zasloužil pochvalu před nastoupenou jednotkou a čestné právo vyvěsit zítra nad (vino)hradní citadelou oskaří vysmátou zástavu. </p>

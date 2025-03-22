@@ -13,7 +13,7 @@ summary_points:
 - DSSS technologie je zranitelná, útok spočívá ve vysílání falešných CCA signálů.
 - Oprava vyžaduje změnu standardu 802.11b, což často znamená výměnu hardware.
 - Útok zastaví síť, ale neprolamuje hesla ani neumožňuje průnik do sítě.
-title: DoS útok na WiFi sítě &#8211; nemilá díra
+title: "DoS útok na WiFi sítě – nemilá díra"
 ---
 
 <p>

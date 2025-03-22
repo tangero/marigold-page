@@ -13,7 +13,7 @@ summary_points:
 - Přidán monitoring stovek zahraničních serverů pro detekci bezdrátových technologií.
 - Aktualizace monitoringu budou omezené od 23. prosince z důvodu dovolené.
 - Diskusní fórum o Marigoldovi slouží pro náměty a vzkazy k monitoringu.
-title: Přehled českých i&nbsp;zahraničních WiFi článků, pozor na vánoce
+title: "Přehled českých i zahraničních WiFi článků, pozor na vánoce"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Telefonáty a schůzky zvyšují náklady na akvizici klienta.
 - Maximum informací směřovat na internet snižuje náklady na obsluhu prodeje.
 - Samoobslužné znalostní koutky a podpora jsou výhodou pro zákazníka i prodejce.
-title: Rozprava o&nbsp;vlivu nákladů na před a&nbsp;po-prodejní podporu na konkurenceschopnost
+title: "Rozprava o vlivu nákladů na před a po-prodejní podporu na konkurenceschopnost"
 ---
 
 <p>Mám kamaráda, který se drží zásady, že když si v jeho firmě objednáváte služby do pětikila měsíčne, nemáte nárok na papírovou fakturu, přijde vám jen elektronická. Vždy mi to připomene, že mezi cenou a servisem kolem prodeje, je velmi přímá úměra, kterou nebývá vždy jednoduché rozklíčovat a nastavit ku prospěchu všech. Dnešní ranní povídání z vlaku do Valmezu tedy bude o cenách a cenotvorbě ve vztahu k nákladům na před- a po-prodejní podporu. </p>

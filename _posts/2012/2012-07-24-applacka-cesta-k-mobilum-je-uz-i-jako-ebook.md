@@ -15,7 +15,7 @@ summary_points:
 - Ebook Apple je dostupný na Palmknihách, Kosmasu a eReading.
 - Papírová verze knihy Apple je stále k dispozici jako záloha.
 - iBookstore knihu Apple nabídne později, proces trvá Applu dlouho.
-title: Applacká cesta k&nbsp;mobilům je už i&nbsp;jako ebook
+title: "Applacká cesta k mobilům je už i jako ebook"
 ---
 
 <p> Moje poslední vydaná kniha Apple: cesta k mobilům je už dostupná i jako ebook ve formátech ePub, Mobi a PDF, tedy jak pro iPad/iPhone a jiné tablety, tak pro Kindle a čtečky. DRM není přítomno, takže není snad problém použít to na všem. A v záloze je samozřejmě papírové vydání.</p>

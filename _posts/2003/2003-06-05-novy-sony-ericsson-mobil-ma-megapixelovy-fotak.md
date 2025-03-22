@@ -13,7 +13,7 @@ summary_points:
 - Displej SO505i zobrazuje 262144 barev a má úhlopříčku 2,2 palce.
 - SO505i podporuje i-mode a infračervený port pro datové přenosy.
 - Autor soudí, že pro focení mobilem je potřeba minimálně megapixelový fotoaparát.
-title: 'Nový Sony Ericsson mobil má megapixelový foťák
+title: "'Nový Sony Ericsson mobil má megapixelový foťák"
 
   '
 ---

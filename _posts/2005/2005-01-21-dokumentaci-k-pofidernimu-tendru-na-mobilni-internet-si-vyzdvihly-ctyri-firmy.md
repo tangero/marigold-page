@@ -16,7 +16,7 @@ summary_points:
 - Největší šance na získání pásma 872 MHz mají COL a T-Mobile.
 - Tendr na pásmo 872 MHz je podle autora zmanipulovaný ve prospěch předem vybrané
   společnosti.
-title: Dokumentaci k&nbsp;pofidérnímu tendru na mobilní internet si vyzdvihly čtyři
+title: "Dokumentaci k pofidérnímu tendru na mobilní internet si vyzdvihly čtyři"
   firmy
 ---
 

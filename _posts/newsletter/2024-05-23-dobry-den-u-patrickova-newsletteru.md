@@ -15,7 +15,7 @@ summary_points:
 - Autor se nyní věnuje AI, konkrétně workshopům pro firmy a vzdělávání.
 - Workshopy AI ve firmách zahrnují interaktivní SWOT analýzu dopadu AI.
 - Web pro workshopy AI ve firmách byl vytvořen pomocí umělé inteligence.
-title: Dobrý den u Patrickova newsletteru.
+title: "Dobrý den u Patrickova newsletteru."
 ---
 
 V květnu se toho stalo hodně zajímavého, ale než se podíváme na novinky technické, zastavím se na chvíli u novinek osobních změn. **Dne 15.5.2024 jsem přestal být místostarostou Brandýsa-Boleslavi.** Z minuty na minutu, bez varování. Místní ODSka změnila názor a bez vypovězení koaliční smlouvy potopila naši koalici rovnou na zastupitelstvu města. Je to kromobyčejně zajímavý zážitek, tady s ním nebudu zdržovat. Pokud vás zajímá, jak takový staroboleslavský puč probíhá, sepsal jsem to zde: [Poslední Místostarosti aneb Staroboleslavská zabijačka](https://mistostarosti.substack.com/p/posledni-mistostarosti-aneb-staroboleslavska). 

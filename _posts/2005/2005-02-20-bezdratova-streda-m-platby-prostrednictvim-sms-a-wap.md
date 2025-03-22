@@ -13,7 +13,7 @@ summary_points:
 - Pipeline poskytuje M-platby, zejména přes T-Mobile T-Zones.
 - T-Mobile a Oskar nabízejí M-platby, Eurotel je nenabízí.
 - Akce zahrnuje přednášky o právních aspektech a řešeních M-plateb.
-title: 'Bezdrátová středa: M-platby prostřednictvím SMS a&nbsp;WAP'
+title: "Bezdrátová středa: M-platby prostřednictvím SMS a WAP"
 ---
 
 <p>Tuto (bezdrátovou) středu je téma M-platby prostřednictvím SMS a WAP. Samozřejmě mne to zajímá, protože Pipeline poskytuje M-platby (zatím spíše mimo SMS, přes <a href="http://www.pipeline.cz/mplatby.shtml">T-Mobile T-Zones</a>, ale i SMS se pomalu rozjíždějí) - takže tam budu (jen na chvíli, pak něco mám).</p>

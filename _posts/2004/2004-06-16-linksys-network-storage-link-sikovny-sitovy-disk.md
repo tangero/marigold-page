@@ -13,7 +13,7 @@ summary_points:
 - Linksys NSL propojuje USB disky (až dva) s ethernetem pro síťový přístup.
 - Linksys NSL umožňuje veřejný i heslem chráněný přístup k diskům.
 - Ximeta NetDisk s kapacitou 120 GB je dražší alternativou, sdílenou jen pod Windows.
-title: Linksys Network Storage Link &#8211; šikovný síťový disk
+title: "Linksys Network Storage Link – šikovný síťový disk"
 ---
 
 <p>

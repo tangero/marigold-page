@@ -13,7 +13,7 @@ summary_points:
 - JuicePay služba s Citybank měla malý počet uživatelů a byla zrušena.
 - Eurotel Mobile Media a Pán prstenů generovaly omezený zisk z WAP služeb.
 - Eurotel Live! přišel pozdě s internetovou správou účtu a centralizací obsahu.
-title: Eurotel Live! &#8211; napotřetí to snad klapne (ale já jsem skeptik)
+title: "Eurotel Live! – napotřetí to snad klapne (ale já jsem skeptik)"
 ---
 
 <p>

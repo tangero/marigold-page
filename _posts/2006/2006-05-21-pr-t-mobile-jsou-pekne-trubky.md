@@ -13,7 +13,7 @@ summary_points:
 - T-Mobile zdůvodnil zákaz nedostatečnou kvalitou VoIP a IM služeb.
 - Operátoři sabotují IM kvůli dopadu na příjmy z SMS zpráv.
 - Síť 3 Hutchison naopak Skype podporuje a předinstalovává.
-title: PR T-Mobile jsou pěkné trubky
+title: "PR T-Mobile jsou pěkné trubky"
 ---
 
 <p>Hned musím předeslat, že řeč je o britském T-Mobile, ne o tom českém. Britský T-Mobile totiž se spuštěním služby  web ‘n’ walk do jeho 3G HSDPA sítě prohlásil, že používání služeb instantních zpráv (IM jako ICQ, AIM atd) nebo VoIP je důvodem k rozvázání smlouvy:</p>

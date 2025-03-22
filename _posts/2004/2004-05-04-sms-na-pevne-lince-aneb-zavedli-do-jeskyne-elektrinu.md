@@ -13,7 +13,7 @@ summary_points:
 - Telecom začal službu SMS z pevné linky oficiálně podporovat s Telepointem.
 - Odeslání SMS z pevné linky zlevnilo na 1 Kč, PhoneBuddy stojí 1000 Kč.
 - Odpověď na SMS z pevné linky je drahá (4,80-8 Kč) a omezená operátory.
-title: 'SMS na pevné lince aneb zavedli do jeskyně elektřinu
+title: "'SMS na pevné lince aneb zavedli do jeskyně elektřinu"
 
   '
 ---

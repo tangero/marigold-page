@@ -13,7 +13,7 @@ summary_points:
 - Lída nechává maminku psát nečitelné zadání matematických příkladů.
 - Autor se cítil spokojený s odchodem z práce v příjemném odpoledni.
 - Autor zjistil, že je sobota, a proto šel z práce dříve.
-title: Dva takové&#8230; ze života &#8230;
+title: "Dva takové… ze života …"
 ---
 
 <texy>Mám tu dva příběhy ze života, které stojí za zaznamenání. 

@@ -13,7 +13,7 @@ summary_points:
 - Evropa chce omezit pásmo 5,25-5,35 GHz pro 802.11a pouze pro vnitřní použití.
 - Pásmo 14-14,5 GHz bude pravděpodobně vyhrazeno pro satelitní širokopásmové služby.
 - Frekvence pro navigační systém EU Galileo budou přiděleny bez problémů.
-title: Zákys v&nbsp;harmonizaci 5GHz pásma mezi Evropou a&nbsp;USA
+title: "Zákys v harmonizaci 5GHz pásma mezi Evropou a USA"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - SPOLU potřebuje Piráty pro většinu ve sněmovně.
 - Hřib spojuje předsednictví s odhlasováním Nové vlny.
 thumbnail: https://www.marigold.cz/assets/IMG_5173.jpeg
-title: Tyhle Pirátské volby budou důležité, i když o nich nevíte
+title: "Tyhle Pirátské volby budou důležité, i když o nich nevíte"
 ---
 
 🏴‍☠️🇨🇿 Jedny volby důležité pro Česko skončily 🇺🇸, jedna vláda důležitá pro Česko se právě rozpadá 🇩🇪 a další důležité volby - bez většího zájmu obyvatel - proběhnou o víkendu. Tyto volby budou spoluurčovat českou politickou cestu a proběhnou bez valného zájmu médií a veřejnosti. Piráti totiž budou o víkendu na celostátním fóru volit nové vedení. A tím i naději pro Spolu na sestavení příští vlády. Jak to? To si zaslouží kontext.

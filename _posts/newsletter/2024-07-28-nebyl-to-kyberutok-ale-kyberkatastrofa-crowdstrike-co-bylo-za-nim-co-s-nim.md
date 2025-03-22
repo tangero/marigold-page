@@ -18,7 +18,7 @@ summary_points:
 - Problém postihl platící zákazníky Crowdstrike, paradoxně ty zodpovědnější.
 - Microsoft se dříve pokusil omezit přístup k jádru, ale narazil na odpor.
 - Šéf Crowdstrike, George Kurtz, zažil podobnou havárii i ve firmě McAfee.
-title: ☠️ Nebyl to kyberútok, ale kyberkatastrofa. Crowdstrike. Co bylo za ním, co
+title: "☠️ Nebyl to kyberútok, ale kyberkatastrofa. Crowdstrike. Co bylo za ním, co"
   s ním?
 ---
 

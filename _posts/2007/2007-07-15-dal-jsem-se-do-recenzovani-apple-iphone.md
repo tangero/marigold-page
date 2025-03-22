@@ -13,7 +13,7 @@ summary_points:
 - Autor se rozhodl napsat vlastní recenzi iPhonu kvůli nedostatku kvalitních recenzí.
 - Kvalita fotografií iPhonu byla nízká, autor použil pro focení Nokii N95.
 - Autor plánuje doplnit recenzi o video, pokud sežene potřebné vybavení.
-title: 'Dal jsem se do recenzování Apple iPhone
+title: "'Dal jsem se do recenzování Apple iPhone"
 
   '
 ---

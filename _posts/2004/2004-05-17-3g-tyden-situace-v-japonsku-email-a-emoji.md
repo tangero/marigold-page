@@ -13,7 +13,7 @@ summary_points:
 - Emoji jsou pro japonské operátory pilířem loajality uživatelů.
 - Japonské mobilní emaily jsou Push aplikace doručované ihned po odeslání.
 - Emoji se přenášejí jako Unicode znaky, ale grafika se liší dle operátora.
-title: '3G Týden: situace v&nbsp;Japonsku &#8211; email a&nbsp;emoji'
+title: "3G Týden: situace v Japonsku – email a emoji"
 ---
 
 <p>

@@ -12,7 +12,7 @@ summary_points:
 - Přednáška "Mobily dneška a zítřka" je nahrána na server.
 - Prezentace ve formátu PowerPoint má velikost přes 3 MB.
 - Odkaz ke stažení přednášky je http://www.marigold.cz/download/mobily_zitrka.ppt.
-title: Přednáška Mobily dneška a&nbsp;zítřka aneb Dnes neprodejné, zítra žádané&#8230;
+title: "Přednáška Mobily dneška a zítřka aneb Dnes neprodejné, zítra žádané…"
 ---
 
 <p>

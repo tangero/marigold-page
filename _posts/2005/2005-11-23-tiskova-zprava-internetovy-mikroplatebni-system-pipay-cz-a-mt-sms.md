@@ -14,7 +14,7 @@ summary_points:
 - Pipay umožňuje komukoliv zdarma přijímat SMS platby do výše 79 Kč.
 - Palmknihy.cz jako první využijí Pipay pro zpoplatnění knih s omezeným šířením.
 - Pipeline nabízí MT SMS, zprávy placené příjemcem, plánované i pro Pipay.
-title: 'Tisková zpráva: Internetový mikroplatební systém Pipay.cz a&nbsp;MT SMS'
+title: "Tisková zpráva: Internetový mikroplatební systém Pipay.cz a MT SMS"
 ---
 
 <p>Hotovooooooo....</p>

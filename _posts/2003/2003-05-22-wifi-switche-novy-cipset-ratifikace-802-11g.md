@@ -12,7 +12,7 @@ summary_points:
 - WiFi switche nabízejí zabezpečení, řízení zatížení a roaming pro firemní WiFi.
 - Ratifikace 802.11g specifikace je plánována na 12. června firmou Broadcom.
 - Marvell vyrábí levný a výkonný WiFi čipset 802.11g pro ostatní výrobce.
-title: 'WiFi switche, nový čipset, ratifikace 802.11g
+title: "'WiFi switche, nový čipset, ratifikace 802.11g"
 
   '
 ---

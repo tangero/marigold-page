@@ -13,7 +13,7 @@ summary_points:
 - Průzkum se zaměřuje na potenciál rozvoje služeb založených na bezdrátových sítích.
 - Dostupnost informací o přístupových bodech je dalším tématem průzkumu.
 - Odkaz na průzkum je umístěn na adrese praguefellowship.cz/survey/.
-title: 'Průzkum využívání bezdrátových sítí
+title: "'Průzkum využívání bezdrátových sítí"
 
   '
 ---

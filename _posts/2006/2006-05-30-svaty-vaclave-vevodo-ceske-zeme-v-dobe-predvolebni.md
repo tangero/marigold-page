@@ -13,7 +13,7 @@ summary_points:
 - Hříchy zbabělosti, lenosti a nerozhodnosti jsou přiznány jako příčina trestu.
 - Žádost o Václavovu pomoc směřuje k probuzení moudrosti pro blaho země.
 - Prosba k Václavovi směřuje k záchraně současných i budoucích generací.
-title: Svatý Václave, vévodo české země, v&nbsp;době předvolební&#8230;
+title: "Svatý Václave, vévodo české země, v době předvolební…"
 ---
 
 Svatý Václave, 

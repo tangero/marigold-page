@@ -13,7 +13,7 @@ summary_points:
 - NCR WaveLAN v roce 1993 byla první komerční Wi-Fi technologie.
 - Standard 802.11b z roku 1999 přinesl rychlost 11 Mb/s a Wi-Fi certifikaci.
 - Standardy 802.11a/g/h přinesly vyšší rychlosti a řešily regionální omezení.
-title: Chci bezdrátovou síť! (1)
+title: "Chci bezdrátovou síť! (1)"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040809-Wi-Fi Zone.jpg" alt="Wi-Fi Zone" width="203" height="152" /></div><p>

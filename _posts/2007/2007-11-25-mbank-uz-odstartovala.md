@@ -13,7 +13,7 @@ summary_points:
 - Účet u mBank je veden zdarma a ovládaný přes internet.
 - Většina služeb mBank je zdarma, platí se jen specifické požadavky.
 - Autor hledá náhradu za eBanku a bude testovat mBank.
-title: mBank už odstartovala
+title: "mBank už odstartovala"
 ---
 
 Berte to jako kusé upozornění pro všechny, kdož to nesledovali. <a href="http://www.mbank.cz">mBank</a>, nejzajímavější projekt v českém bankovnictví za posledních X let (doplňte dle své míry zoufalství s českým bankovním trhem) spustil nabídku svých služeb pro fyzické osoby. 

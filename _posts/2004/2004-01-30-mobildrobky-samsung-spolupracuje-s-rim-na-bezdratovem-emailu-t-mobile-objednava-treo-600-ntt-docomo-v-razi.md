@@ -13,7 +13,7 @@ summary_points:
 - NTT DoCoMo má přes 2 miliony uživatelů 3G sítě a sponzoruje tým F1 Renault.
 - NTT DoCoMo ruší spolupráci s Microsoftem ve firmě Mobimagic.
 - Treo 600 v barvách T-Mobile bude dostupné až v březnu.
-title: 'Mobildrobky: Samsung spolupracuje s&nbsp;RIM na bezdrátovém emailu, T-Mobile
+title: "'Mobildrobky: Samsung spolupracuje s RIM na bezdrátovém emailu, T-Mobile"
   objednává Treo 600, NTT DoCoMo v&nbsp;ráži'
 ---
 

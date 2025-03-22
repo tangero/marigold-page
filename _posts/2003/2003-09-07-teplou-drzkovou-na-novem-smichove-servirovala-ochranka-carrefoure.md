@@ -13,7 +13,7 @@ summary_points:
 - Ochranka Nového Smíchova zadržovala aktéry a držela je v cele.
 - Tesco Havířov řešilo podobný problém s násilnou a šmírující ochrankou.
 - Fotografování v Carrefouru může vést k problémům s ochrankou.
-title: 'Teplou držkovou na Novém Smíchově servírovala ochranka CarreFoure
+title: "'Teplou držkovou na Novém Smíchově servírovala ochranka CarreFoure"
 
   '
 ---

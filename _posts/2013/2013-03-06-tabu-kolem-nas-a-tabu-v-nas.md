@@ -17,7 +17,7 @@ summary_points:
 - Češi mají tabu ohledně národní minulosti, komunistické éry a rolí jednotlivců.
 - Český národ si nepřiznává historické reálie a mýty o starobylosti.
 - Češi jsou málo tolerantní a rozdělení po mnoha liniích odlišnosti.
-title: Tabu kolem nás a&nbsp;tabu v&nbsp;nás
+title: "Tabu kolem nás a tabu v nás"
 ---
 
 <p>Byl jsem na věru zajímavé debatě. Kubánská blogerka <a href="http://cs.wikipedia.org/wiki/Yoani_Sánchez">Yoani Sanches</a> ve Francouzském institutu v rámci festivalu <a href="http://www.jedensvet.cz/2013/">Jeden svět</a> vlastně křtila film sama o sobě a o dalších persekuovaných blogerech nazvaný <em>Zakázané hlasy</em>. Film byl hodně silný a emotivní zážitek, to už tyhle dokumenty bývají. A už, když jsem se zdvihal ze sedadla a přemisťoval se do diskusního panelu, přemýšlel jsem, co na to říct. Žádná moje zkušenost nebyla ani vzdáleně poměřitelná s tím, co Yoani zažila. <br /><br /></p>

@@ -13,7 +13,7 @@ summary_points:
 - Palexpo zasíťované umožní autorovi klidnou práci mimo press centrum.
 - Autor bude od neděle do úterka na Telecom Worldu v Ženevě.
 - Postřehy z Telecom Worldu budou publikovány na Marigold a Mobil.cz.
-title: 'Wow, Swisscom se nechal zlomit na veletržní WiFi
+title: "'Wow, Swisscom se nechal zlomit na veletržní WiFi"
 
   '
 ---

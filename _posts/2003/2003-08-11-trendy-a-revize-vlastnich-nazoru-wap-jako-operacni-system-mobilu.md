@@ -14,7 +14,7 @@ summary_points:
 - Mobilní telefony mají tlačítka pro přístup k portálové stránce operátora, například
   Vodafone Live!.
 - Mobilní telefon bude zpřístupňovatelem služeb, nikoliv jejich poskytovatelem.
-title: 'Trendy: (a&nbsp;revize vlastních názorů) WAP jako &#8222;operační systém&#8220;
+title: "'Trendy: (a revize vlastních názorů) WAP jako „operační systém“"
   mobilů'
 ---
 

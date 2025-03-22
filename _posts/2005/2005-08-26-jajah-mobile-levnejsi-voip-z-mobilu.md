@@ -13,7 +13,7 @@ summary_points:
 - Volání funguje na principu callback, což zvyšuje celkovou cenu hovoru.
 - Cena volání na českou pevnou linku je cca 6 Kč za minutu.
 - Volání na německou pevnou linku stojí přibližně 5,7 Kč za minutu.
-title: Jajah mobile &#8211; levnější VoIP z&nbsp;mobilu
+title: "Jajah mobile – levnější VoIP z mobilu"
 ---
 
 <p>Jajah přišel se svojí aplikací Jajah mobile - zatím jde o testovací záležitost. Funguje to zajímavě - není to aplikace, kterou byste si museli instalovat. Prostě prohlížečem telefonu vlezete na <a href="http://mobile.jajah.com/">mobile.jajah.com</a>, vyplníte svá logovací data a číslo, ze kterého chcete volat, potom už uvidíte seznam svých kontaktů nebo můžete přímo zadat číslo, na které chcete volat. Jajah vám řekne, kolik vás bude volání stát a pokud souhlasíte, zavolá vám. </p>

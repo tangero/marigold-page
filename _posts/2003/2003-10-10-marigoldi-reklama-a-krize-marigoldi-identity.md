@@ -13,7 +13,7 @@ summary_points:
 - Marigold zavedl reklamní systém s platbou za proklik, bez bannerů.
 - Inzerenti si sami stanovují cenu za proklik, minimálně 5 Kč.
 - Příjmy nad 2000 Kč z reklamy budou investovány do aktualizace databází.
-title: Marigoldí reklama a&nbsp;krize Marigoldí identity?
+title: "Marigoldí reklama a krize Marigoldí identity?"
 ---
 
 <p>

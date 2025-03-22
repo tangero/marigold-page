@@ -13,7 +13,7 @@ summary_points:
 - Asijské firmy Samsung, NEC, LG prezentují 3G telefony a zajímavá řešení.
 - Identifikace obličeje a televize v mobilu jsou nové trendy prezentované na výstavě.
 - Bill Gates má hlavní projev, další přednášky se týkají WLAN a 3G licencí.
-title: ITU Telecom World &#8211; další maličkosti z&nbsp;Ženevy
+title: "ITU Telecom World – další maličkosti z Ženevy"
 ---
 
 <p>

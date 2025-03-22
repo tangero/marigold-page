@@ -13,7 +13,7 @@ summary_points:
 - Hotspotzz nabízí hotové hotspoty s autorizačním systémem za 500 USD.
 - Motorola A760 je chytrý telefon s Linuxem a plnou verzí Javy.
 - Motorola A760 má kameru, MP3 přehrávač a firemní nadstavbu.
-title: CTIA Wireless 2003, Hotspotzz nabízí hotspoty a&nbsp;Motorola mobil s&nbsp;Linuxem
+title: "CTIA Wireless 2003, Hotspotzz nabízí hotspoty a Motorola mobil s Linuxem"
 ---
 
 <p>

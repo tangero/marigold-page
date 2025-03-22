@@ -13,7 +13,7 @@ summary_points:
 - Registrace domény v roce 1996 byla složitá, doména musela odpovídat jménu firmy.
 - Mobil.cz doména byla získána přes firmu Mobil s.r.o., obcházením pravidel.
 - Mobil server s.r.o. vznikl kvůli problémům s RadioMobilem a ochraně domény.
-title: Jak jsme registrovali doménu Mobil.cz a&nbsp;začali podnikat
+title: "Jak jsme registrovali doménu Mobil.cz a začali podnikat"
 ---
 
 <p>Když už se naše trojice usnesla, že budeme připojeni přes NetForce, zbývalo dořešit několik praktických problémů. Především jsme se museli nějak jmenovat. Dále jsme potřebovali mít svoji adresu a nakonec i svůj design. Pojmenování jsme chtěli spojit s adresou a tak jsme chtěli, aby naše stránky se jmenovali GSM server. Vznikla tedy adresa gsm.netforce.cz. Jenže to už se nám doména třetího stupně rozležela v hlavě, bylo nám jasné, že pokud nemáme být snadno vydíratelní, pokud si chceme udržet nezávislost na providerovi a vypadat seriosně, musíme se pokusit zaregistrovat doménu druhé úrovně. </p>

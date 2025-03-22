@@ -13,7 +13,7 @@ summary_points:
 - Televize se v domácnostech obměňují zřídka, typicky méně než jednou za deset let.
 - Přechod z MPEG2 na MPEG4 nepovede k ochotě kupovat nové set-top boxy.
 - Autor neplánuje přechod na DVB-T kvůli kvalitě, interaktivitě a dalším důvodům.
-title: 'Set-top box pro DVB-T budou zákazníci často obměňovat. Dobrá pohádka
+title: "'Set-top box pro DVB-T budou zákazníci často obměňovat. Dobrá pohádka"
 
   '
 ---

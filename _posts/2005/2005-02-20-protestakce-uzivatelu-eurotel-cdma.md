@@ -13,7 +13,7 @@ summary_points:
 - Akce pravděpodobně neovlivní celkový objem dat Eurotelu, ale sdílené médium.
 - Autor kritizuje anonymní spamování diskusí související s touto protestní akcí.
 - Protestní akce a diskuse probíhají na serveru CDMA.cz.
-title: Protestakce uživatelů Eurotel CDMA
+title: "Protestakce uživatelů Eurotel CDMA"
 ---
 
 <p>Někteří nespokojení uživatelé datové sítě Eurotel Data Expres (prostě CDMA) se rozhodli dát svoji nespokojenost Eurotelu prakticky najevo a to tím, že budou 1.3. od devíti od rána sosat co nejvyšší množství dat. A jak se uvádí v prvotním vyhlášení akce: <i>"stahovat a stahovat bez prestani stahovat a stahovat ..... dokavad si ten eurotel neuvedomi ze neco ZKAZIL"</i>. </p>

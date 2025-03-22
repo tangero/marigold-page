@@ -14,7 +14,7 @@ summary_points:
 - Dotace v EU jsou projevem solidarity bohatších regionů s chudšími.
 - Dotace jsou především infrastrukturní a investice do budoucnosti.
 - Dotace jsou možností k lepšímu životu, ale vyžadují zodpovědné zacházení a správu.
-title: 'Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan
+title: "'Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan"
 
   '
 ---

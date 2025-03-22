@@ -13,7 +13,7 @@ summary_points:
 - Dlouhodobé chování Telecomu jako monopolu negativně ovlivňuje současnou situaci.
 - Telecom se snaží zlepšit image, ale změna vnímání je obtížná.
 - Telecom sklízí důsledky své dřívější politiky.
-title: 'Zákazníci chtějí zkusit konkurenci ČT
+title: "'Zákazníci chtějí zkusit konkurenci ČT"
 
   '
 ---

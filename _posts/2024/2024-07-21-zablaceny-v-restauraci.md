@@ -17,7 +17,7 @@ summary_points:
 - Zážitek s luxusní večeří měl vysokou cenu, ale stál za to.
 - Odhalení neznámého hosta při odchodu vyvolalo překvapení.
 thumbnail: https://www.marigold.cz/assets/hory-restaurace.png
-title: Návštěva restaurace po týdenním přechodu hor v klasickém stylu
+title: "Návštěva restaurace po týdenním přechodu hor v klasickém stylu"
 ---
 
 Poprvé jsme se synem (14 let) šli sami přes hory, natěžko, na pár dní. A při tom jsem si vzpomněl na příhodu dva roky starou ze Slavkovského lesa. 

@@ -20,7 +20,7 @@ summary_points:
 - Transakce v blockchainu jsou pseudonymní, ale mohou být propojeny s reálnou identitou.
 - Blockchain má potenciál revolučně změnit finance, energetiku a správu digitální
   identity.
-title: 'Blockchain: jak uvažovat o&nbsp;konceptu s&nbsp;nadějí revoluce'
+title: "Blockchain: jak uvažovat o konceptu s nadějí revoluce"
 ---
 
 Tohle je pouze úvaha, nikoliv článek nebo analýza. Kolem Bitcoinu a blockchainu je tak husto, že projít skrze nánosy hype i nedůvěry není snadné a některé úvahy snadno zapadnou ve výkřicích "kacíř" případně "debil". O blockchainu slýchám v poslední době hodně a nikdy mi nebylo zase tak moc jasné, proč se s ním pojí tolik nadějí. Odpusťte mi tedy toto veřejné třídění myšlenek, o kterých nejsem schopen prohlásit tradiční české ajťácké "teď vám povím, jak to je, vy debilové sedněte na prdel a poslouchejte".

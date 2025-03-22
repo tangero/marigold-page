@@ -13,7 +13,7 @@ summary_points:
 - G síť T-Mobile využijí majitelé GSM/UMTS telefonů, například Nokia 7600 a 6650.
 - T-Com chystá routování hovorů z pevných linek na WiFi hotspoty.
 - Datový přenos u T-Mobile stojí 9 eur za 1 MB, tedy 300 Kč.
-title: 'T-Mobile oficiálně potvrdil spuštění své UMTS sítě
+title: "'T-Mobile oficiálně potvrdil spuštění své UMTS sítě"
 
   '
 ---

@@ -14,7 +14,7 @@ summary_points:
   a KT Resale.
 - Největší trest, 40 dní, dostal SK Telecom za agresivní kampaně.
 - Stabilizace akcií firem je očekávaným výsledkem tohoto rozhodnutí.
-title: 'Trest: korejští operátoři nesmí po&nbsp;přechodnou dobu přijímat nové zákazníky'
+title: "Trest: korejští operátoři nesmí po přechodnou dobu přijímat nové zákazníky"
 ---
 
 <p>

@@ -16,7 +16,7 @@ summary_points:
 - Autorovi vadí řevnivost, osobní spory a zbrklý přístup k novým heslům.
 - Návrhy na smazání jsou nadužívané a kritéria "encyklopedické významnosti" nejasná.
 - České Wikipedii chybí přehledová hesla a prosazuje jeden pohled na témata.
-title: Česká Wikipedie je někdy zvláštní (a&nbsp;proč by se mi líbil Knol)
+title: "Česká Wikipedie je někdy zvláštní (a proč by se mi líbil Knol)"
 ---
 
 Nedávno doputovala na internet zpráva, že česká Wikipedie se přehoupla přes 100 000 záznamů v encyklopedii. Zaujalo mne to z několika důvodů. Tak zaprvé je to chvályhodný a bohulibý počin, taková otevřená encyklopedie. Za druhé jsem přemýšlel, kam se poděl Google Knol, po němž rok není ani vidu, ani slechu. A za třetí mne to zaujalo proto, že po delší době jsem nedávno začal maličko více s českou Wikipedií pracovat - v tom smyslu, že jsem tam občas něco napsal, nejenom našel. Po delší době je v tomto případě výraz pro tři roky. Před třemi lety jsem s českou wikipedia scénou udělal ne zcela dobrou zkušenost. Byl jsem zvědav, jak se situace změnila. 

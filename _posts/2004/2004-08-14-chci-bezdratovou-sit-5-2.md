@@ -13,7 +13,7 @@ summary_points:
 - Cena internetu musí odpovídat počtu zákazníků a jejich platbám.
 - Pro umístění přístupového bodu je klíčová přímá viditelnost a vyvýšené místo.
 - Pro prodej internetu je nutná živnost a registrace u ČTÚ.
-title: Chci bezdrátovou síť! (5.2)
+title: "Chci bezdrátovou síť! (5.2)"
 ---
 
 <p>

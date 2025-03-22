@@ -13,7 +13,7 @@ summary_points:
 - Dokončena kapitola Proč akademické sítě o podpoře akademických sítí.
 - Léta učednická kapitola se zabývá stavem telekomunikací po revoluci.
 - Pochopení telekomunikací v 90. letech je klíčové pro vývoj internetu.
-title: 'Kniha Historie českého internetu se přesunula do učednických let
+title: "'Kniha Historie českého internetu se přesunula do učednických let"
 
   '
 ---

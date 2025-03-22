@@ -13,7 +13,7 @@ summary_points:
 - NetBanka má horší uživatelský komfort a funkčnost než eBanka.
 - NetBanka nepodporuje částečnou realizaci ani platnost příkazu delší než jeden den.
 - Autorovi u eBanky chybí možnost převodu mezi osobním a firemním účtem online.
-title: NetBanka a&nbsp;eBanka &#8211; internetové bankovnictví se dost liší
+title: "NetBanka a eBanka – internetové bankovnictví se dost liší"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Televize do bytu sháněna v Datartu a Carrefouru, s obtížemi.
 - Levná televize nakoupena až pátý model, kvůli slevovým nájezdům.
 - Autor uvažuje o výprodeji SMS zpráv ve firmě Pipeline.
-title: Sedím si v&nbsp;kavárně a&nbsp;je mi dobře&#8230;
+title: "Sedím si v kavárně a je mi dobře…"
 ---
 
 <p>Právě jsem vypadl od doktora s další zásobou léků a se ztrátou hromady krve pro nejrůznější vyšetření. A protože jsem nesnídal, zašel jsem do kavárny Piccadily na budějovické na malou snídani. Sedím si tu, na komunikátoru vyřizuji firemní záležitosti, jen mobilní tiskárna mi chybí, abych mohl vystavenou fakturu rovnou také vytisknout a vedle na poště odeslat.</p>

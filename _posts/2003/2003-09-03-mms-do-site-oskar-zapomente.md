@@ -13,7 +13,7 @@ summary_points:
 - T-Mobile a Eurotel infolinky potvrdily, že MMS do Oskara nelze odesílat.
 - T-Zones aplikace hlásila chyby při odesílání MMS do Eurotelu i Oskara.
 - MMS funguje mezi Eurotelem a T-Mobile, a z Oskara ke konkurenci, opačně ne.
-title: MMS do sítě Oskar? Zapomeňte&#8230;
+title: "MMS do sítě Oskar? Zapomeňte…"
 ---
 
 <p>

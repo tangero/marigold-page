@@ -13,7 +13,7 @@ summary_points:
 - Cílem je dvojnásobný nárůst rychlosti, uživatelů a dat broadbandu do roku 2006.
 - Autor očekává synergické efekty a zlepšení ADSL služeb od Telecomu.
 - Tisková zpráva MI o tempu rozšíření internetu v ČR je zavádějící.
-title: Broadband Fórum &#8211; rozhodujeme
+title: "Broadband Fórum – rozhodujeme"
 ---
 
 <p><strong>Noname píše:</strong> Na serveru <a href="http://www.internetprovsechny.cz/">Internet Pro Všechny</a> jsem napsal své první pocity a názory na projekty, které jsme dnes dostali k hodnocení. Je to jen po letmém prolétnutí, tak po mě nechtějte nějaké pevné závěry, přesto si troufnu již teď prohlásit, že je to lepší než jsem čekal a že je tam vše v co jsem doufal a i něco více. Samozřejmě je tam i spousta nesmyslů, ale ty jsou myslím většinou zcela zjevné a nemají šanci.</p>

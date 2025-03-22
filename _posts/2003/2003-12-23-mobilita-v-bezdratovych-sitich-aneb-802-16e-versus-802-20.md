@@ -13,7 +13,7 @@ summary_points:
 - Autor pochybuje o využití mobilní WLAN kvůli nedostatečnému pokrytí a integraci.
 - MobileIP považuje autor za lepší řešení než tlačení bezdrátových sítí na mobilní.
 - Mobilita v bezdrátových sítích nemá technické ani obchodní opodstatnění, radí autor.
-title: Mobilita v&nbsp;bezdrátových sítích, aneb 802.16e versus 802.20
+title: "Mobilita v bezdrátových sítích, aneb 802.16e versus 802.20"
 ---
 
 <p>

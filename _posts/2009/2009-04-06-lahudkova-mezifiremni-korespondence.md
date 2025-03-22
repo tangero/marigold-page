@@ -20,7 +20,7 @@ summary_points:
 - IT rozpočet je podle obchodního ředitele klíčový problém firmy.
 - Vývoj projektu Slaviatv je označen za neúspěšný a předražený.
 - Obchodní ředitel odmítá "tunelování" projektu přes neefektivní IT.
-title: Lahůdková mezifiremní korespondence
+title: "Lahůdková mezifiremní korespondence"
 ---
 
 Vím, neblogoval jsem delší dobu. Nebylo nějak chuti a dalších ingrediencí. A teď, když jsem přemýšlel, čím znovu vstoupit na web, jehož prkna znamenají blog, jsem dostal lahůdkový email z vnitrofiremní korespondence jisté české internetové firmy, kde obchodní ředitel píše technickému ředitelovi, svému kolegovi. Samozřejmě hypotetické firmy, hypotetičtí lidé, protože jde nepochybně o email smyšlený ... 

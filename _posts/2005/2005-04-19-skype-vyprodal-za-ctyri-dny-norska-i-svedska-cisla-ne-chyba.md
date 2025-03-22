@@ -13,7 +13,7 @@ summary_points:
 - Důvod zastavení prodeje norských a švédských čísel není znám.
 - Polský SkypeIn nabízí pouze čísla pro Varšavu.
 - Aktivace varšavského čísla vyžaduje potvrzení bydliště ve Varšavě.
-title: Skype vyprodal za čtyři dny norská i&nbsp;švédská čísla? Ne, chyba
+title: "Skype vyprodal za čtyři dny norská i švédská čísla? Ne, chyba"
 ---
 
 <p>Zájemci, kteří si chtěli koupit SkypeIn čísla v Norsku a Švédsku mají smůlu. Čísla nefungují. Skype jejich prodej zastavil a na webu je vede jako vyprodané. Zatím se jen spekuluje, zda důvodem jsou technické či právní problémy.  </p>

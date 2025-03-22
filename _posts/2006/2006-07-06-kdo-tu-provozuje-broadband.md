@@ -14,7 +14,7 @@ summary_points:
   T-Mobile.
 - Zájem o firmy s více než 1000 klienty nabízející broadband pro domácnosti.
 - Seznam zahrnuje Český Telecom, UPC, Karneval, Mattes, Netbox, BD-Tel a Petřiny.net.
-title: Kdo tu provozuje broadband
+title: "Kdo tu provozuje broadband"
 ---
 
 <p>Pro projekt, jenž připravujeme na podzim tohoto roku, řeším drobný problém. Kdo v Česku provozuje broadband pro rezidenční trh? Nejdříve definice: broadbandem rozumím přípoku nad 512 Kb/s (včetně) se stabilními kvalitativními ukazateli, tedy bez zásadního kolísání této rychlosti, s velkým rozptylem/jitterem atd. To tedy nutně nevyřazuje dobře navržené WiFi sítě, kde WiFi je jen koncovou technologií. </p>

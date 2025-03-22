@@ -14,7 +14,7 @@ summary_points:
 - Android vyžaduje časté nastavování a upravování, což zabírá čas.
 - Baterie Huawei P9 Lite je spolehlivější než u iPhonu, zejména v zimě.
 - Velikost Android telefonů může být nepraktická pro nošení v kapsách.
-title: Moc-li je spokojen zarytý Applista s&nbsp;Androidím mobilem?
+title: "Moc-li je spokojen zarytý Applista s Androidím mobilem?"
 ---
 
 <p>Mám <a href="/item/jaky-je-prechod-z-apple-iphone-na-vcelku-levny-telefon-s-android-6">ho už zhruba půl roku</a>. Huawei P9 Lite ve verzi 3GB RAM. Chtěl jsem si vyzkoušet, jestli telefon za polovinu ceny iPhone SE a se stejnou deklarovanou hardwarovou výbavou pod Androidem bude užitný.</p>

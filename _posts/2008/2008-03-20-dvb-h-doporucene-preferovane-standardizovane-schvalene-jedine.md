@@ -16,7 +16,7 @@ summary_points:
 - Standardizace DVB-H má vytvořit jednotný trh mobilní televize v Evropě.
 - Evropa chce preferovat vlastní technologie a patenty, ne cizí.
 - EU se nezachovala férově v proklamované technologické neutralitě.
-title: 'DVB-H doporučené, preferované, standardizované, schválené, jediné?
+title: "'DVB-H doporučené, preferované, standardizované, schválené, jediné?"
 
   '
 ---

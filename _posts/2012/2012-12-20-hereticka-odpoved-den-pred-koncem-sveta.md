@@ -16,7 +16,7 @@ summary_points:
 - Zatracení si ponesou vlastní "peklo" v ráji, tvrdil Joachim.
 - Joachim viděl svět jako místo, kde lidé nosí peklo v sobě.
 - Joachimovo učení bylo odsouzeno jako hereze, ale zůstává relevantní.
-title: 'Heretická odpověď den před koncem světa
+title: "'Heretická odpověď den před koncem světa"
 
   '
 ---

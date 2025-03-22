@@ -13,7 +13,7 @@ summary_points:
 - Invexu účast firem zjišťována, včetně historie a důvodů účasti/neúčasti.
 - Segmentace firem (consumer/business) a obor podnikání jsou klíčové statistické údaje.
 - Cíle prezentace a očekávané služby od výstaviště jsou kvalitativní otázky průzkumu.
-title: Budoucnost veletrhů
+title: "Budoucnost veletrhů"
 ---
 
 <texy><p><strong>Noname píše:</strong> Měl bych dotaz na všechny zde přítomné zástupce IT/Telco firem. Situace: Představte si nový veletrh ala Invex, ovšem v Praze a prezentace by nestála 4 tisíce metr, ale řekněme 500 Kč/metr.</p>

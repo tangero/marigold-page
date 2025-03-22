@@ -16,7 +16,7 @@ summary_points:
 - Short squeeze donutil fondy k obrovským ztrátám.
 - WallStreetBets manipuloval trh pomocí koordinovaných nákupů.
 thumbnail: https://www.robomarkets.com/blog/wp-content/uploads/2024/02/21.02.2024-1-1472x828.jpg
-title: Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…
+title: "Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…"
 ---
 
 Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách. Jenže příběh aplikace Robinhood pro hru s akciemi (správa portfolia bych tomu neříkal) je mnohovrstevnatý a navíc poplatný době, která volá po vyrovnávání účtů Davidů s Goliáši. Takže popořadě.

@@ -13,7 +13,7 @@ summary_points:
 - Operátoři GSM sítí v 90. letech řešili kapacitu sítě kvůli nárůstu zákazníků.
 - Výrobci zpozdili implementaci HR kodeku, operátoři investovali do upgradu sítí.
 - Ericsson, Motorola a Nokia vydělaly miliardy na upgradu sítí místo HR kodeku.
-title: Kterak výrobci vycucali z&nbsp;operátorů miliardy díky FR/HR
+title: "Kterak výrobci vycucali z operátorů miliardy díky FR/HR"
 ---
 
 <p>

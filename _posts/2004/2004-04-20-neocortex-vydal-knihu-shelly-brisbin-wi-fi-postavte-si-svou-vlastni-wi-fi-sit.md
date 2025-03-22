@@ -13,7 +13,7 @@ summary_points:
 - Kniha má 248 stran a stojí 249 Kč, podobně jako autorova kniha.
 - Autor doporučuje nákup přímo u Neocortexu kvůli levnějšímu poštovnému.
 - Kniha obsahuje informace o 802.11a a nastavení Ad-Hoc sítí.
-title: 'Neocortex vydal knihu Shelly Brisbin: Wi-fi &#8211; postavte si svou vlastní
+title: "'Neocortex vydal knihu Shelly Brisbin: Wi-fi – postavte si svou vlastní"
   wi-fi síť'
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - Nordisk plánuje stavět CDMA450 síť a pokrýt 80-90% Norska.
 - Nordisk se uchází o licenci pro frekvence 450 MHz i ve Švédsku.
 - Brazílie úspěšně testovala CDMA450 EV-DO síť s 3000 účastníky.
-title: CDMA450 &#8211; Brazílie a&nbsp;Norsko
+title: "CDMA450 – Brazílie a Norsko"
 ---
 
 <p>

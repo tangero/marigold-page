@@ -14,7 +14,7 @@ summary_points:
 - Unis Computers pořádá 6.10. přednášku o bezpečnosti bezdrátových sítí na Invexu.
 - Přednáška Unis Computers se kryje s tiskovkou Intelu na téma WiFi.
 - Autor hledá další Invex akce spojené s bezdrátovými technologiemi a telekomunikacemi.
-title: Buffalo bude dodávat první USB adaptéry s&nbsp;802.11g. Další WiFi přednáška
+title: "Buffalo bude dodávat první USB adaptéry s 802.11g. Další WiFi přednáška"
   na Invexu
 ---
 

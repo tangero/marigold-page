@@ -13,7 +13,7 @@ summary_points:
 - Nabídka telefonů v Bonus katalogu T-Mobile je mizerná, chybí atraktivní modely.
 - Příslušenství v Bonus programu T-Mobile tvoří hlavně pouzdra a baterie.
 - Autor nakonec koupil hands-free pro Nokii, kterou nikdo v rodině nepoužívá.
-title: T-Mobile Bonus &#8211; chtělo by to oživit
+title: "T-Mobile Bonus – chtělo by to oživit"
 ---
 
 <p>

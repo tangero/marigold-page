@@ -13,7 +13,7 @@ summary_points:
 - Levné routery nabízejí limitování dat a šířky pásma přes webové rozhraní.
 - Router má čtyři porty, NAT, dynamické i statické směrování.
 - i4 prodává router s těmito funkcemi za 6000 Kč bez DPH.
-title: Router s&nbsp;řízením šířky pásma
+title: "Router s řízením šířky pásma"
 ---
 
 <p>

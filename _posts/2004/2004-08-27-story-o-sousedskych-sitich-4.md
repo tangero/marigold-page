@@ -14,7 +14,7 @@ summary_points:
 - Linuxový směrovač bude řešen plnokrevnou distribucí kvůli nedostupnosti redukce
   CF-IDE.
 - CZFree.Net uživatelé mají lepší dostupnost do Internetu než v rámci sítě.
-title: Story o&nbsp;sousedských sítích (4.)
+title: "Story o sousedských sítích (4.)"
 ---
 
 <p>

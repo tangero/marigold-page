@@ -13,7 +13,7 @@ summary_points:
 - Autor shrnuje poznatky z pohledu kupujícího routery a přístupové body.
 - Článek se zaměřuje na zkušenosti s nákupem WiFi techniky online.
 - Další informace jsou dostupné v pokračování článku na uvedeném odkazu.
-title: Internetové obchody s&nbsp;WiFi technikou
+title: "Internetové obchody s WiFi technikou"
 ---
 
 <p>

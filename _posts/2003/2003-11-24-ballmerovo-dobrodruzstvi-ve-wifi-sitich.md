@@ -14,7 +14,7 @@ summary_points:
 - Bill Gates a další se připojovali k internetu přes Ballmerovu hotelovou WiFi.
 - Článek ironicky spekuluje o Gatesovi a Ballmerovi používajících Linux k prolomení
   WEP.
-title: 'Ballmerovo dobrodružství ve WiFi sítích
+title: "'Ballmerovo dobrodružství ve WiFi sítích"
 
   '
 ---

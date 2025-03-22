@@ -17,7 +17,7 @@ summary_points:
 - ISDN router, nutný pro sdílení, je obtížné sehnat, obchody ho nenabízí.
 - Autor hledá ISDN router s ethernetovým rozhraním, například Zyxel nebo ASUS.
 - David Veselka poskytl autorovi ASUS router, problém je snad vyřešen.
-title: ISDN router &#8211; nepřebývá vám někde archiválie
+title: "ISDN router – nepřebývá vám někde archiválie"
 ---
 
 Update: děkuju všem, co se ozvali s tipem, nakonec jsem ráno od Davida Veselky nafasoval Asuse a snad to poběží :)

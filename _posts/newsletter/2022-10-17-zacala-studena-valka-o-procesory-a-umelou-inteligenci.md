@@ -12,7 +12,7 @@ summary_points:
 - Licence potřebují firmy prodávající pokročilé čipy nebo výrobní zařízení do Číny.
 - Američané potřebují povolení pro práci v čínských továrnách na čipy.
 - Omezení mohou zpomalit čínský čipový průmysl, ale poškodí i americké firmy.
-title: Začala studená válka o procesory a umělou inteligenci?
+title: "Začala studená válka o procesory a umělou inteligenci?"
 ---
 
 V pátek 7. října učinila Bidenova administrativa USA bezprecedentní krok ve snaze omezit schopnost Číny konkurovat v oblasti polovodičových čipů souvisejících s umělou inteligencí a jejími vojenskými aplikacemi. K již dřívějším omezením se přidaly další restrikce. Společnosti musí požádat o licenci, pokud chtějí prodávat určité pokročilé počítačové polovodiče nebo související výrobní zařízení do Číny, oznámily USA v pátek. Také zahraniční společnosti budou potřebovat licenci, pokud budou používat americké nástroje k výrobě špičkových čipů určených k prodeji do Číny. Omezení mají zpomalit pronikání Číny zejména do AI - před několika týdny podobně USA limitovaly vývoz umělointeligenčních čipů Nvidia do Číny. A do třetice, všichni američní občané nyní potřebují speciální povolení, pokud by měli pracovat pro čínské továrny na čipy - nebo musí svou práci ukončit. A to je velká řacha, protože omezení se týká třeba i instalace linek pro výrobu čipů a vůbec veškeré externí práce v čipovém průmyslu, kde Čína očekávala velké transfery know-how. 

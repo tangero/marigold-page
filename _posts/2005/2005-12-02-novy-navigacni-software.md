@@ -13,7 +13,7 @@ summary_points:
 - Radotínská mapa TomTom obsahuje chybu v ulici Ke Zdeří.
 - GPS TomTom navedl na polní cestu, což ukazuje detailnost map.
 - iPAQ se při současných teplotách nepřehřívá.
-title: Nový navigační software
+title: "Nový navigační software"
 ---
 
 <p><strong>oook píše</strong>: Před nějakou dobou jsem tu popisoval svoje (termo) trable s navigací pomocí iPAQu a&nbsp;modrozubí GPS.<br /><br />Nedávno

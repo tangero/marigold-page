@@ -14,7 +14,7 @@ summary_points:
 - Motorola MPx220 má 640x480 kameru, Bluetooth, infra, USB a Windows Smartphone 2003.
 - Sony Ericsson dosáhl ve 4Q 2003 zisku 43 mil. EUR.
 - Sony Ericsson prodal o 8 milionů mobilů více ve 4Q 2003 než ve 4Q 2002.
-title: 'Mobildrobky: Bluetooth Browser, první obrázek Motorola MPx220, Sony Ericsson
+title: "'Mobildrobky: Bluetooth Browser, první obrázek Motorola MPx220, Sony Ericsson"
   profitabilní'
 ---
 

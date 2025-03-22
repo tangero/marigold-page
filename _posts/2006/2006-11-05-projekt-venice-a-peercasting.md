@@ -14,7 +14,7 @@ summary_points:
 - Projekt Venice není technická novinka, ale marketingová a obchodní záležitost.
 - P2P video distribuce se masivně používá v Koreji, Japonsku a Číně.
 - BitTorrent má dnes největší podíl na přenosu legálního obsahu.
-title: Projekt Venice a&nbsp;peercasting
+title: "Projekt Venice a peercasting"
 ---
 
 <texy><a href="http://www.theveniceproject.com/">Projekt Venice</a>  je něco, co posledních několik měsíců podněcuje fantazii internetových entiziastů i analytiků. Projekt, který vzbuzuje emoce. Důvod je přitom jednoduchý: jeho zakladateli jsou Niklas Zennstrom a Janus Friis, hlavní protagonisté Skype. 

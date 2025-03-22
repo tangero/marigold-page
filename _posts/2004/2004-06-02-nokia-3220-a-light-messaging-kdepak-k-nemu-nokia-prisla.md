@@ -13,7 +13,7 @@ summary_points:
 - WildSeed vyvinul AirText, technologii světelných zpráv před Nokií.
 - Kyocera nabízí telefon Kurv s technologií AirText od WildSeed.
 - Nokia pravděpodobně technologii AirText od WildSeed nelicencovala.
-title: Nokia 3220 a&nbsp;Light Messaging &#8211; kdepak k&nbsp;němu Nokia přišla?
+title: "Nokia 3220 a Light Messaging – kdepak k němu Nokia přišla?"
 ---
 
 <p>

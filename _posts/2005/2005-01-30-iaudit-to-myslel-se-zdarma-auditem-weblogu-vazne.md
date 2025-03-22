@@ -13,7 +13,7 @@ summary_points:
 - iAudit umožňuje srovnání webů podle stejných kritérií.
 - Více zapojených weblogů umožní porovnat vliv s mainstreamovými médii.
 - Rony a CubSEO již o nabídce iAuditu informovali.
-title: 'iAudit to myslel se zdarma auditem weblogů vážně
+title: "'iAudit to myslel se zdarma auditem weblogů vážně"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Paroubek odmítl po volbách vystoupit v televizi a zpochybnil svobodné volby.
 - ČSSD otevřeně přiznala vůli vládnout s komunisty, což dříve popírala.
 - Autor vidí několik povolebních scénářů, včetně předčasných voleb a "kapříků".
-title: 'Děkuji všem voličům, kdo je ale vítěz?
+title: "'Děkuji všem voličům, kdo je ale vítěz?"
 
   '
 ---

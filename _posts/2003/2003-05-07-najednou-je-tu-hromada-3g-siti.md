@@ -13,7 +13,7 @@ summary_points:
 - Vodafone Irsko testuje 3G síť s telefonem Nokia 6650.
 - Hutchinson 3G má 20 000 klientů v Británii a 50 000 v Itálii.
 - T-Mobile a O2 sdílí 3G síť v Británii se souhlasem EU.
-title: Najednou je tu hromada 3G sítí&#8230;
+title: "Najednou je tu hromada 3G sítí…"
 ---
 
 <p>

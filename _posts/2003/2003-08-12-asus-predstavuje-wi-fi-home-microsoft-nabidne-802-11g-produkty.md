@@ -15,7 +15,7 @@ summary_points:
   kit.'
 - Microsoft MN-740 bude bezdrátový adaptér pro X-Box s čipem Broadcom od Acctonu.
 - Informace o Microsoft produktech unikly z online databáze FCC.
-title: 'Asus představuje Wi-Fi@Home. Microsoft nabídne 802.11g produkty
+title: "'Asus představuje Wi-Fi@Home. Microsoft nabídne 802.11g produkty"
 
   '
 ---

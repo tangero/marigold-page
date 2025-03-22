@@ -15,7 +15,7 @@ summary_points:
 - Editor upravuje text pro cílové publikum a ověřuje fakta.
 - Autoři často editorům oponují, ale oponentní čtení text zlepšuje.
 - Editor vylepšuje strukturu textu, srozumitelnost a argumentaci.
-title: Editor v&nbsp;redakci je nedoceněná věc
+title: "Editor v redakci je nedoceněná věc"
 ---
 
 Jedna z typických redakčních úspor v českých online (a bohužel nejenom online) médiích je post editora. Ke škodě redakcí, čtenářů i autorů textů. Vedení začasté má dojem, že stačí najít dobrého autora a věc s dobrým článkem je vyřízena. Editorů netřeba. Dokonce, jak se mi malým průzkumem ukázalo, ví už dnes jen málokdo z mladších novinářů, co takový editor má dělat. Přitom právě jeho práce rozhoduje minimálně o třetině výsledku - tedy o tom, jak je článek vnímán čtenáři a nakonec i inzerenty. A nakonec proti němu bojují i mnozí autoři. 

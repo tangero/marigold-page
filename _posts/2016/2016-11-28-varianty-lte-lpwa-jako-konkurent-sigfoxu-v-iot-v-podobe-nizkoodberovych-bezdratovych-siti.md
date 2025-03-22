@@ -18,7 +18,7 @@ summary_points:
 - České Radiokomunikace provozují síť LoRa, O2 se zaměřuje na LTE Category 0.
 - LTE pro IoT nabízí různé frekvence a modulace, přizpůsobené specifickým potřebám.
 - Sigfox a LoRa jsou jednodušší, LTE je komplexní, ale s potenciálem pro masivní IoT.
-title: Varianty LTE LPWA jako konkurent Sigfoxu v&nbsp;IoT v&nbsp;podobě nízkoodběrových
+title: "Varianty LTE LPWA jako konkurent Sigfoxu v IoT v podobě nízkoodběrových"
   bezdrátových sítí
 ---
 

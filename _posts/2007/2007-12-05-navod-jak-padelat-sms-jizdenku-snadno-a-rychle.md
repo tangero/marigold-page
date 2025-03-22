@@ -13,7 +13,7 @@ summary_points:
 - Revizoři často neověřují SMS jízdenky detailně, spoléhají na doručení zprávy.
 - Podvržení SMS lze provést změnou jména kontaktu na telefonním čísle.
 - SMS jízdenka je bezpečnější než papírová, problémem je školení personálu.
-title: Návod, jak padělat SMS jízdenku snadno a&nbsp;rychle
+title: "Návod, jak padělat SMS jízdenku snadno a rychle"
 ---
 
 ... po mne požaduje v poslední době celá řada lidí. Tak mne napadlo, že bychom si mohli trochu zabádat a zalaborovat, jak je to se zabezpečením SMS aplikace na pražské SMS jízdenky.

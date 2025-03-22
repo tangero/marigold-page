@@ -14,7 +14,7 @@ summary_points:
 - Nabídka StarZone obsahuje desítky filmů, převážně české tvorby z let 1989-2000.
 - Filmy na StarZone mohou stahovat pouze zákazníci Českého Telecomu s rychlostí nad
   512 Kb/s.
-title: StarZone.cz &#8211; filmy na internetu podle Telecomu
+title: "StarZone.cz – filmy na internetu podle Telecomu"
 ---
 
 <p>

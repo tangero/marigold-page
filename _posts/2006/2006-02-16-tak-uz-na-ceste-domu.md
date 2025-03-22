@@ -13,7 +13,7 @@ summary_points:
 - GSM kongres v Barceloně byl větší než loni, ale s drahým ubytováním.
 - Barcelona je drahé město s vysokou kriminalitou, zejména krádežemi.
 - Kongres zklamal nedostatkem kritiky a sebereflexe v oboru.
-title: Tak už na cestě domů
+title: "Tak už na cestě domů"
 ---
 
 <p>Už jsme na cestě domů. Petr moudře vybral let s odletem v 7 hodin ráno z Barcelony, který musel být tak alespoň o dvě stovky levnější než další let už v únosnou denní dobu. Jenže Petr neletí, takže mu nemůžeme nadávat a navíc za mne clí zásilku hodinek, takže vlastně je to od něj hezké, já bych s celníkem mohl jednat jen velmi obtížně. Stejně by mne zajímalo, jak to nakonec dopadne, protože se ukázalo, že hodinky se proclí podle materiálu, z něhož je řemínek. Jenže já jsem samozřejmě objednal modely z materiálu, který v tabulkách není...</p>

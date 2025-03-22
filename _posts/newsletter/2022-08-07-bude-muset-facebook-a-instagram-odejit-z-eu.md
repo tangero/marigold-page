@@ -14,7 +14,7 @@ summary_points:
 - Meta toto oznámení podala regulačním orgánům, ne veřejně, což značí vážnost situace.
 - Irský regulátor zvažuje zákaz předávání dat uživatelů Facebooku do USA.
 - Nová dohoda mezi EU a USA je nepravděpodobná kvůli sběru dat americkými službami.
-title: Bude muset Facebook a Instagram odejít z EU?
+title: "Bude muset Facebook a Instagram odejít z EU?"
 ---
 
 Tohle je velmi zajímavá situace. Společnost Meta ústy (či spíše klávesnicí) svého nejvyššího představitele Marka Zuckerberka minulý týden zopakovala tvrzení z letošního února. Pokud nedojde k dohodě mezi USA a EU ohledně výměny dat, bude muset Meta stáhnout své služby Facebook a Instagram ze zemí EU. Zdroj: [BNN](https://www.bnnbloomberg.ca/meta-repeats-threat-it-may-pull-facebook-instagram-from-europe-1.1798780) [Bloomberg](https://www.bnnbloomberg.ca/meta-repeats-threat-it-may-pull-facebook-instagram-from-europe-1.1798780). 

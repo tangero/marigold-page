@@ -13,7 +13,7 @@ summary_points:
 - Článek je páteční čtení z historie Mobil serveru.
 - Článek má název "Máme svého bezpečnostního specialistu a nepřijali jsme Linuse Torvaldse".
 - Autor se obává reakce Fufa na článek.
-title: 'Páteční čtení: Máme svého bezpečnostního specialistu a&nbsp;nepřijali jsme
+title: "'Páteční čtení: Máme svého bezpečnostního specialistu a nepřijali jsme"
   Torvaldse'
 ---
 

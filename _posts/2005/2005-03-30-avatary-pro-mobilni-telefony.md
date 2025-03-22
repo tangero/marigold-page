@@ -15,7 +15,7 @@ summary_points:
   chybí.
 - Autor vidí avatary spíše jako virtuální náhradníky volané strany, ne imbecilní panáky.
 - Úspěch avatara závisí na jeho kvalitní připravenosti, aby uživatele nezklamal.
-title: Avátary pro mobilní telefony
+title: "Avátary pro mobilní telefony"
 ---
 
 <p>Když jsem kdysi dávno přemýšlel o tom, co ještě není v mobilu a jak s námi jednou bude komunikovat, vzpomněl jsem si na avátary, <i>vizualizované representace virtuálizované osobnosti</i>, kdybyste chtěli nějakou definici. </p>

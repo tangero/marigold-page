@@ -13,7 +13,7 @@ summary_points:
 - Nortel demonstroval HSDPA techniku s downlinkem 3,6 Mbps.
 - Praktická rychlost HSDPA závisí na dostupném pásmu operátora.
 - Zavedení HSDPA v 900 MHz pásmu vyžaduje souhlas zákazníků i regulátora.
-title: Qualcomm nacpal hsdpa do gsm pásma
+title: "Qualcomm nacpal hsdpa do gsm pásma"
 ---
 
 <p>Qualcomm se rozhodl s GSM vypořádat po svém. Na kongresu představuje HSDPA řešení pro pásmo 900 mhz a to s podtitulem Nahradit 2g příští generací. Techniku tu pro to ukazuje Nortel a na downlinku to běhá impozantních 3,6 mbps. Samozřejmě v demu. V praxi bude záležet na tom, kolik pásma bude mít operátor k dispozici. Ale hezké to je, což o to! Ale na smrtelnou ránu pro gsm to zatím nevypadá, protože změnu by museli strávit jak zákazníci, tak regulátor.

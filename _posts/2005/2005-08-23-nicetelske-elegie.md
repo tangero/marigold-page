@@ -13,7 +13,7 @@ summary_points:
 - Nokia 9500 se rozpadla, přestože s ní bylo zacházeno opatrně.
 - V bytě autora neustále praskají žárovky a vyhazují jističe.
 - Automechanik navrhl drahou opravu auta, i když šlo o plast.
-title: Ničetelské elegie
+title: "Ničetelské elegie"
 ---
 
 <p>Prakticky nic mi nevydrží dlouho a nejhorší na tom je, že naprosto netuším proč. Včera odpadl poslední kloub od Nokia 9500, ke které jsem se schoval celou dobu s láskou a něžností. Nikdy mi nespadla na zem, přesto na ní jsou škrábance, jako bych ji přejel ruchadlem. Mobily mi odcházejí jak na běžícím pásu a už to ani neregistruju. Kdysi jsem se ptal jednoho výrobce, pro kterého jsem testoval prototyp, proč mi ho půjčují. Nekladu otázky, na které neznám odpovědi, ale tentokrát mne výrobce vypekl. Místo toho, aby pravil, že moje poznámky pečlivě studují a zapracovávají do sériového modelu mne ujistil, že telefon, jenž v mých rukou vydržel bez újmy ony čtyři týdny, má šanci normálnímu uživateli vydržet celou záruční dobu. Takže pro Nokia 9500 je to vlastně vítězství, první kloub jí upadl až po půl roce, druhý o další dva měsíce později. </p>

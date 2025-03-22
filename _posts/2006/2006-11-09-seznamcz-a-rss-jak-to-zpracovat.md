@@ -13,7 +13,7 @@ summary_points:
 - Marigold.cz RSS zdroje (různé formáty) jsou funkční, ale Seznam je nepřijímá.
 - Uživatel hledá řešení, jak vytvořit RSS zdroj, který Seznam akceptuje.
 - Seznam support nefunguje, proto se uživatel obrací na komunitu.
-title: Seznam.cz a&nbsp;RSS &#8211; jak to zpracovat?
+title: "Seznam.cz a RSS – jak to zpracovat?"
 ---
 
 <texy>**Noname píše:** omlouvám se za dotaz, ale je tu mnoho znalých lidí, kteří možná znají odpověď na jeden problém - Seznam.cz umožňuje přidat si na homepage RSS zdroje, mezi pár vyvolenými servery, které jsou nabízeny standardně je dokonce i Marigold.cz. Problém je, že po migraci Seznam odmítá nové RSS akceptovat, ukazuje stále staré články. Přitom původní adresy na RSS zdroje jsou funkční (mod rewrite).

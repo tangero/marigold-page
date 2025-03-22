@@ -16,7 +16,7 @@ summary_points:
 - Pro tvorbu obsahu autor preferuje netbook, který lépe vyhovuje jeho potřebám.
 - Autor zvažuje Linux pro netbook kvůli psaní, Skypu a webu, ale řeší ovladače.
 - Operační systémy pro netbooky se zlepšují, Windows jsou overkill, Linux je použitelný.
-title: Kolik tabletů Apple iPad mám doma a&nbsp;moc-li jsem s&nbsp;nimi spokojen
+title: "Kolik tabletů Apple iPad mám doma a moc-li jsem s nimi spokojen"
 ---
 
 <p>Je zajímavé sledovat, jak prakticky všichni IT lidé, kteří mne znají, automaticky předpokládají, že mám Apple iPad doma. A ptají se mne, jak jsem s ním spokojen a jak se mi s ním dělá. Odpovídám, že spokojen jsem moc a nedělá se mi s ním nijak, protože ho nemám. Cože to?</p>

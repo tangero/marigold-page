@@ -16,7 +16,7 @@ summary_points:
 - Mute for Skype od Michala Bláhy ztiší hudbu při příchozím hovoru na Skype.
 - Skype 1.2 importuje kontakty ze sítě, Outlooku, Opery a MSN Messengeru a ukládá
   je na server.
-title: 'Skype novinky: Hotrecorder, Mute a&nbsp;import kontaktů ze sítě'
+title: "Skype novinky: Hotrecorder, Mute a import kontaktů ze sítě"
 ---
 
 <p>Mám několik novinek / stařinek ke Skype, která vám mohou přijít k chuti. </p>

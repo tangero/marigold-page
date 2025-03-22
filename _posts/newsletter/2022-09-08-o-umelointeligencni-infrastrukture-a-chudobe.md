@@ -22,7 +22,7 @@ summary_points:
 - Jazykové modely jako GPT-3 se staly standardem pro implementace umělé inteligence.
 - Nedostatek dat v jazykových modelech ohrožuje používání jazyka v UI.
 - Investice do jazykových modelů a jejich zpřístupnění je klíčové pro budoucnost češtiny.
-title: O umělointeligenční infrastruktuře a chudobě
+title: "O umělointeligenční infrastruktuře a chudobě"
 ---
 
 Průmyslová revoluce devatenáctého století nám po sobě zanechala rozsáhlou veřejnou infrastrukturu. Postavily se silnice - vlastně první pořádné silnice od pádu Římské říše. Postavila se železnice, přístavy, majáky, školy a univerzity, knihovny, později i letiště. Vznikl rozsáhlý soubor infrastruktury, kterou bylo možné použít za férových a transparentních podmínek, často zdarma. 

@@ -13,7 +13,7 @@ summary_points:
 - Autor po čase napsal 3G Týden na Mobil.cz.
 - NTT DoCoMo zaslalo autorovi materiály o P2P sítích v mobilech.
 - Nokia 9500 nezobrazuje českou diakritiku v PDF souborech.
-title: Trocha volna přijde vhod
+title: "Trocha volna přijde vhod"
 ---
 
 <p>

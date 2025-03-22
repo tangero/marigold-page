@@ -14,7 +14,7 @@ summary_points:
 - Jachtaři v přístavech jsou významní uživatelé WiFi kvůli bohatství a internetovému
   hladu.
 - Američan provozující WiFi síť sdílel zkušenosti o reálném využití.
-title: Uživatelé WiFi
+title: "Uživatelé WiFi"
 ---
 
 <p>

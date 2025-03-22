@@ -13,7 +13,7 @@ summary_points:
 - WiFi připojení Omnifi umožňuje bezdrátový přenos MP3 z domácí základny.
 - Autor pochybuje o smyslu WiFi kvůli synchronizaci a vzdálenosti.
 - Produkt Omnifi je vhodnější pro majitele domů s garáží.
-title: Omnifi &#8211; hudba do auta via WiFi
+title: "Omnifi – hudba do auta via WiFi"
 ---
 
 <p>

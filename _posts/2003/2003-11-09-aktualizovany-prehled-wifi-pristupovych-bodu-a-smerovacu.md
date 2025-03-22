@@ -14,7 +14,7 @@ summary_points:
   20.
 - AutoCont nabízí zajímavé ceny značek US Robotics, Buffalo, 3Com, levnější než Linksys.
 - Značkové produkty 802.11g cenově válcují neznačkové, zejména díky velkým distributorům.
-title: Aktualizovaný přehled WiFi přístupových bodů a&nbsp;směrovačů
+title: "Aktualizovaný přehled WiFi přístupových bodů a směrovačů"
 ---
 
 <p>

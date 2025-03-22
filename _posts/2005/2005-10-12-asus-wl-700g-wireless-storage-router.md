@@ -13,7 +13,7 @@ summary_points:
 - Afterburner technologie Broadcomu umožňuje teoretickou rychlost až 125 Mb/s.
 - Download Machine umožňuje stahování přes FTP, HTTP a P2P sítě bez PC.
 - Router podporuje WPA2, WMM, AES, má 4 LAN porty a Linuxový základ.
-title: Asus WL-700g Wireless Storage Router
+title: "Asus WL-700g Wireless Storage Router"
 ---
 
 <p>Tenhleten nový router od Asusu mne zaujal. Model Asus WL-700g se honosí podtitulem Wireless Storage Router, což v tomto případě konkrétně obnáší jednu volnou pozici pro 3,5 palcový IDE disk, takže si router můžete rozšířit o souborový server. Pokud nechcete investovat do IDE disků, můžete přes trojici USB portů připojit USB 2.0 disky nebo tiskárny či kamery. </p>

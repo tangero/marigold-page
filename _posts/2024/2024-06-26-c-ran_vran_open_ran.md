@@ -14,7 +14,7 @@ summary_points:
 - C-RAN snižuje náklady na hardware, elektřinu a zjednodušuje správu sítě.
 - Open RAN otevírá rozhraní mezi komponentami RAN pro interoperabilitu různých výrobců.
 thumbnail: https://www.marigold.cz/assets/dran-cran.png
-title: Způsoby zlepšení radiové sítě v 5G čili C-RAN, vRAN a Open RAN
+title: "Způsoby zlepšení radiové sítě v 5G čili C-RAN, vRAN a Open RAN"
 ---
 
 Problematika C-RAN patří mezi na první pohled obtížně pochopitelné změny v architektuře sítí 5G a tak se u ní speciálně zastavíme. Je totiž symbolem pokroku v rádiové přístupové síti, tedy ve způsobu, jakým se mobilní telefon připojuje do mobilní sítě.

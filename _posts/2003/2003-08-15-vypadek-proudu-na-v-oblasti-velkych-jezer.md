@@ -13,7 +13,7 @@ summary_points:
 - Upstreamy ujišťují o dostatku nafty v dýzlech a cisternách pro případné problémy.
 - Výpadek v USA může argumentovat proti jihočeským odpůrcům jaderné energie.
 - Větrníky nepovažuje autor za dostatečnou náhradu elektřiny, navíc hyzdí krajinu.
-title: Výpadek proudu na v&nbsp;oblasti Velkých jezer
+title: "Výpadek proudu na v oblasti Velkých jezer"
 ---
 
 <p>

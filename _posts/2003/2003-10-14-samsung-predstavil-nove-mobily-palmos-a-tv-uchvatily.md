@@ -13,7 +13,7 @@ summary_points:
 - SGH-D700 podporuje Series 60, má MMC slot, email, MMS a kameru.
 - SGH-P700 nabízí analogovou TV podporu, ukládání obrazů, ale nemá kameru.
 - SGH-E710 vylepšuje E700 bleskem a ukládáním MPEG, ale je nedostupný.
-title: Samsung predstavil nove mobily &#8211; PalmOS a&nbsp;TV uchvatily
+title: "Samsung predstavil nove mobily – PalmOS a TV uchvatily"
 ---
 
 Tisková konference Samsungu na ITU skončila před hodinou, do teď jsem se toulal expozici Samsungu, kde mají nové telefony rozebrané na jednotlivé díly a můžete se kochat displejem, elektronikou a lidí kolem vás vám ochotně vysvětlují, co na co je. Přiznám se, že ve značení Samsung telefonu už mám docela bordel, navíc presentace novinek Samsungu je spíše věci serverů jako Mobil.cz (kde nic nepíšou) a MobilMania (kde o nich už píšou, však tiskovka už vyšla i český). Ode mne tedy spíše první dojmy, než technický popis: 

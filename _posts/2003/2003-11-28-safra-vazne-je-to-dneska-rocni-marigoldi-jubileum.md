@@ -13,7 +13,7 @@ summary_points:
 - Původně měl Marigold dělat kamarád, ale nakonec ho převzal autor.
 - Návštěvnost Marigolda je překvapivě vysoká, 20% z RSS čteček.
 - Autor si Marigolda ponechá jako osobní blog s glosami o telekomunikacích.
-title: 'Safra, vážně je to dneska roční marigoldí jubileum
+title: "'Safra, vážně je to dneska roční marigoldí jubileum"
 
   '
 ---

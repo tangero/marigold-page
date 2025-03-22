@@ -13,7 +13,7 @@ summary_points:
 - Autor článku není spokojen s dílem o chartování a grafech.
 - Grafy dle autora zachycují pouze okamžitý trend, ne dlouhodobý.
 - Článek obsahuje základní práci s grafem, nikoliv samostatně použitelnou.
-title: Obchodujeme s&nbsp;akciemi na americké burze 4 &#8211; grafy
+title: "Obchodujeme s akciemi na americké burze 4 – grafy"
 ---
 
 <p>

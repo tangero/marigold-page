@@ -13,7 +13,7 @@ summary_points:
 - NetGear WG121 má čipset Intersil Prism, ovladače pro Windows, stojí 65 USD.
 - Linksys WUSB54G stojí také 65 USD a ještě se nedodává.
 - Oba adaptéry nepodporují WPA šifrování ani externí anténu.
-title: USB 2.0 adaptéry pro 802.11g od Linksysu a&nbsp;NetGearu
+title: "USB 2.0 adaptéry pro 802.11g od Linksysu a NetGearu"
 ---
 
 <p>

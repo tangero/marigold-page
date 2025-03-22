@@ -12,7 +12,7 @@ summary_points:
 - Notebook na kliku pro rozvojový svět má stát 100 USD při velkém odběru.
 - Root.cz rozvinul téma levného notebooku, ale chybí cenová kalkulace.
 - Na levném zařízení má běžet klon BSD operačního systému.
-title: Notebook na kliku &#8211; pokračování
+title: "Notebook na kliku – pokračování"
 ---
 
 <p><b>ook píše</b>: Před nedávnem proběhla Internetem (<a href="http://www.lupa.cz/clanky/notebook-na-kliku-8211-zmeni-svet/" >například na Lupě</a>)

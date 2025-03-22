@@ -13,7 +13,7 @@ summary_points:
 - Online diskuze k rozhovoru s Koubským vyvolala u autora nevoli anonymními komentáři.
 - Neznalost Petra Koubského v diskuzi autor považuje za projev domnělé nadřazenosti.
 - Koubského názory autor cení pro jejich srozumitelnost a schopnost shrnout postoje.
-title: Na co je pan Koubský expert?
+title: "Na co je pan Koubský expert?"
 ---
 
 Rozhovor s Petrem Koubským jsem četl v tištěné verzi iDnesu v sobotu. Mějte mne za nostalgika, já vím, že mám tablet s internetem po bytě na dosah a když vyrazím s dcerou do lesa, mám s sebou N95 pro každý případ. Jenže já si stejně v sobotu ráno rád sednu na židli, usrkávám presso silné tak, že by se dalo krájet jako rákosníček a čtu si papírové noviny. Přijde mi to takové... retro... 

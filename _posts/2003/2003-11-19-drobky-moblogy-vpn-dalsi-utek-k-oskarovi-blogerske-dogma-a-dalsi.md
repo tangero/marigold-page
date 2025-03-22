@@ -13,7 +13,7 @@ summary_points:
 - Autor obdržel faktury od Oskara a T-Mobile, přičemž přechodem k Oskaru ušetřil.
 - Článek na MobilManii se věnuje moblogům, tedy blogování z mobilu pomocí MMS.
 - Na ISDN serveru vyšla příloha o VPN, virtuální privátní síti, s hezkým zpracováním.
-title: 'Drobky: moblogy, VPN, další útěk k&nbsp;Oskarovi, blogerské dogma a&nbsp;další&#8230;'
+title: "Drobky: moblogy, VPN, další útěk k Oskarovi, blogerské dogma a další…"
 ---
 
 <p>

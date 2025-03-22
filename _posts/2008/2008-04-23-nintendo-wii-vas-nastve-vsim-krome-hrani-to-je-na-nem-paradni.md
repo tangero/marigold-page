@@ -17,7 +17,7 @@ summary_points:
 - Grafika Wii je pohádková, záměrně se vyhýbá fotorealismu Xboxu.
 - Ovládání Wiimote je intuitivní, využívá pohybové senzory pro zaměřování a gesta.
 - Wii má omezené multimediální funkce a problematické internetové připojení v ČR.
-title: 'Nintendo Wii vás naštve vším. Kromě hraní. To je na něm parádní
+title: "'Nintendo Wii vás naštve vším. Kromě hraní. To je na něm parádní"
 
   '
 ---

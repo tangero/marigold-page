@@ -14,7 +14,7 @@ summary_points:
 - Autor se vrací k posílání papírových přání poštou a oprášil tiskací písmo.
 - 'Autor posílá alespoň touto formou hromadné PF: Vše nejlepší do nového roku přeje
   Patrick.'
-title: Zanevřel jsem na emailová PéeFka
+title: "Zanevřel jsem na emailová PéeFka"
 ---
 
 <p>

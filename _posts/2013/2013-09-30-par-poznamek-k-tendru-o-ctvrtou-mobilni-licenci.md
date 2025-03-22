@@ -13,7 +13,7 @@ summary_points:
 - Tomáš Budník koupil PPF Mobile, přejmenoval na Revolution Mobile a pokračuje v tendru.
 - Tasciane, anonymní firma, se účastní tendru, spekuluje se o jejím pozadí.
 - KKCG Karla Komárka se oficiálně přihlásilo k vlastnictví Tasciane.
-title: Pár poznámek k&nbsp;tendru o&nbsp;čtvrtou mobilní licenci
+title: "Pár poznámek k tendru o čtvrtou mobilní licenci"
 ---
 
 <p>Jistě to na zpravodajských serverech rozeberou lépe. Tedy alespoň to zjevné. Ale možná pár ne zcela zjevných informací unikne, tak u těch se potastavím já. Jaké je mezidobí vývoje tendru o čtvrtou českou mobilní licenci a LTE frekvence?</p>

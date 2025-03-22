@@ -14,7 +14,7 @@ summary_points:
 - Toshiba IK-WB11a je WiFi kamera streamující video v kvalitě 1280x960 s SD slotem.
 - Toshiba chystá pro kameru dynamické DNS a unikátní URL, plus placený 400 GB prostor.
 - Cena kamery Toshiba IK-WB11a je 800 USD.
-title: 'Geekoviny: Obraz s&nbsp;WiFi a&nbsp;kamera s&nbsp;WiFi podporující streamování'
+title: "Geekoviny: Obraz s WiFi a kamera s WiFi podporující streamování"
 ---
 
 <p>

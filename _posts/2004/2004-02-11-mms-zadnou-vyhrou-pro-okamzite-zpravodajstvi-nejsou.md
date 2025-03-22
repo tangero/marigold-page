@@ -13,7 +13,7 @@ summary_points:
 - MMS zprávy z mobilů mají mizernou kvalitu, zvláště za variabilních světelných podmínek.
 - Okamžité momentky se snadno vytratí, pokud nejsou rychle zaznamenány.
 - Autor čeká na lepší mobily s kvalitnějšími fotoaparáty pro MMS zpravodajství.
-title: 'MMS žádnou výhrou pro okamžité zpravodajství nejsou
+title: "'MMS žádnou výhrou pro okamžité zpravodajství nejsou"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Jiří Michovský z Prahy kvůli výpadku sítě T-Mobile ztratil klienty a 18 tisíc korun.
 - Právníci tvrdí, že finanční odškodnění klientů je v takových případech téměř nulové.
 - Operátoři mobilních sítí nenabízejí SLA, na rozdíl od operátorů pevných linek.
-title: Výpadek sítě T-Mobile ho připravil o&nbsp;tisíce
+title: "Výpadek sítě T-Mobile ho připravil o tisíce"
 ---
 
 <p>

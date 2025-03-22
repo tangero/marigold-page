@@ -13,7 +13,7 @@ summary_points:
 - Setkání se zúčastnili převážně netechnologičtí novináři.
 - Autor si odborné otázky nechal pro jinou příležitost.
 - Zápis a fotky ze setkání jsou dostupné na Mobilring.
-title: Posnídal jsem s&nbsp;Arunem Sarinem
+title: "Posnídal jsem s Arunem Sarinem"
 ---
 
 <p>Oskar dneska ráno pořádal snídani s Arunem Sarinem, tož jsem se přidal. Vyleštil jsem botky, oblékl si slušnou košili i kalhoty, autíčko zaparkoval za nádražím a dorazil ke staré celnici na snídani. Bylo to zajímavé, neformální a nenucené, na to, že jsme zde mluvili s jedním z nejmocnějších mužů průmyslu vůbec (Vodafone je tuším čtrnáctá největší firma světa).  Byla zde převaha netechnologických novinářů mimo obor, takže otázky více odborné, které jsem si připravil a na něž by mne odpovědi zajímaly, jsem si radši strčil za klobouk, asi bych s nimi byl dost nevhod a nechám si je na jindy. </p>

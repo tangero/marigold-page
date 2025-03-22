@@ -13,7 +13,7 @@ summary_points:
 - SMC Barricade router přestal spolehlivě fungovat kvůli zvýšeným útokům a DHCP problémům.
 - Linksys WRT54G router s WiFi vyřešil problémy s pokrytím hotspotu a domácí sítě.
 - Nový router Linksys funguje bez problémů, DHCP server je stabilní a síť je funkční.
-title: 'Domácí upgrade routeru zdárně proběhl
+title: "'Domácí upgrade routeru zdárně proběhl"
 
   '
 ---

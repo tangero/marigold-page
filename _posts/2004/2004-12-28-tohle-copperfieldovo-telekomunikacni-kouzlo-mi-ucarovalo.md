@@ -13,7 +13,7 @@ summary_points:
 - Kouzlo s přesunem chlapce na Jamajku bylo nejvíce učarující.
 - Videopřenos z Jamajky byl kvalitní, rychlý a bez zpoždění.
 - Autorovi chybělo prozrazení triků, zejména toho s Jamajkou.
-title: 'Tohle Copperfieldovo telekomunikační kouzlo mi učarovalo
+title: "'Tohle Copperfieldovo telekomunikační kouzlo mi učarovalo"
 
   '
 ---

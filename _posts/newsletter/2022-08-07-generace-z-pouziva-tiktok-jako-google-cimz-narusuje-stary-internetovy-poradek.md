@@ -15,7 +15,7 @@ summary_points:
 - Tržby TikToku se ztrojnásobí na 12 miliard dolarů, třetinu tvoří generace Z.
 - 40 % Američanů 18-24 let používá TikTok/Instagram pro doporučení, ne Google.
 - Google si uvědomuje, že TikTok a Instagram ohrožují jeho vyhledávání.
-title: Generace Z používá TikTok jako Google, čímž narušuje starý internetový pořádek
+title: "Generace Z používá TikTok jako Google, čímž narušuje starý internetový pořádek"
 ---
 
 Alespoň to tvrdí poslední výzkumy. Dříve býval Google pro vyhledávání, TikTok pro zábavu. Pro nastupující generaci teenagerů a mladých dospělých se však TikTok stává místem pro vyhledávání informací a přebírá funkce zavedených internetových gigantů.

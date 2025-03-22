@@ -13,7 +13,7 @@ summary_points:
 - ZD News publikoval článek o budoucnosti WiFi, zejména standardu 802.11g.
 - Článek o WiFi zmiňuje dual-mode karty a propustnost b/g sítí.
 - Budoucnost WiFi 802.11a je v kancelářích, 802.11g v domácím multimédiu.
-title: ThinkPady budou standardně s&nbsp;802.11a i&nbsp;b, budoucnost WiFi
+title: "ThinkPady budou standardně s 802.11a i b, budoucnost WiFi"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Fotoaparát Sony DSC-V1 nahradil větší 717, ideální pro focení v Cannes.
 - GPRS připojení z notebooku odinstalováno kvůli drahému roamingu, WiFi priorita.
 - Palm Tungsten C doplnil výbavu, fotky z foťáku do něj ale nedostane.
-title: Jen tak před odjezdem&#8230;
+title: "Jen tak před odjezdem…"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Německý přízvuk způsobil nedorozumění a vtipnou situaci.
 - Starší muž mě obvinil z pomoci muslimům a vyvolal konflikt.
 - Uklidnil jsem ho tím, že jsem muslim pracující na ruské ambasádě.
-title: Indové přestupující v&nbsp;Ládví
+title: "Indové přestupující v Ládví"
 ---
 
 Občas mě lidi pěkně serou. Dneska jsem vysvětloval skupině indů, že musí z metra na Ládví vystoupit a jet až dalším, když chtějí do Letnan. Anglicky moc nerozuměli, nebo mám moc  německý přízvuk, tak jsme si to chvíli vysvětlovali. Sice jsem si vzpomněl ze školy na jeden epos, který začínal "i tady bylať cesta jeho jest u konce" a mému  přízvuku se dost nasmáli, bohužel už si nevybavuju, jestli má Mahabharata nějaký epos, co by začínal slovy "A tak přestoupil na další vůz metra"... 

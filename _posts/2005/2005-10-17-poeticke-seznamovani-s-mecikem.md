@@ -13,7 +13,7 @@ summary_points:
 - Ergonomie Mac OS X je přirozenější než Windows, i pro konvertity.
 - Dock v Mac OS urychluje spouštění aplikací a interakci s nimi.
 - Mac OS má standardizované prostředí, usnadňující ovládání programů.
-title: Poetické seznamování s&nbsp;Mečíkem
+title: "Poetické seznamování s Mečíkem"
 ---
 
 <p>￼￼￼Mám ho vybalený víkend a jsem nadšen. Je to něco  jiného, než Windows XP a zatím těžko soudit, nakolik jsem nadšen  z objevování nového a nakolik z toho, co jsem objevil, ale stejně  je to vhodná příležitost napsat několik prvních dojmů.</p>

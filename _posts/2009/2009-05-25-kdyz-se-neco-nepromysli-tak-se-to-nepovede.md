@@ -18,7 +18,7 @@ summary_points:
 - Autor kritizuje nezvládnutý redesign Žena-in a nedostatečnou komunikaci s uživateli.
 - Autor nabízí ponaučení z neúspěšného redesignu Žena-in, zdůrazňuje důležitost zpětné
   vazby.
-title: 'Když se něco nepromyslí, tak se to nepovede
+title: "'Když se něco nepromyslí, tak se to nepovede"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Zákazníci chtějí platit za WiFi připojením ke svému telefonnímu účtu.
 - SoneraTelia zjistila, že lidé raději platí za čas než za data.
 - Mobilní operátoři získávají největší pozici na WLAN poli díky důvěře.
-title: 'Cannes 2003: Zahraniční zkušenosti s&nbsp;výstavbou veřejných WLAN sítí'
+title: "Cannes 2003: Zahraniční zkušenosti s výstavbou veřejných WLAN sítí"
 ---
 
 Slíbili jsme článek shrnující poznatky z cyklu přednášek o WLAN a WiFi sítích z 3GSM kongresu v Cannes. A tady je - takže jaké jsou poznatky a zkušenosti firem, které již veřejné WLAN sítě staví?<!--more--><p>

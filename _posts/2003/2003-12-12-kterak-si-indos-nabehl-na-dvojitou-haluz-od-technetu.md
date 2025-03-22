@@ -13,7 +13,7 @@ summary_points:
 - Indoš reagoval popřením a zpochybněním faktů v prvním článku.
 - Technet zveřejnil druhý článek s důkazy o zneužívání Indoše pro spam.
 - AoC (Autocont on Line) se choval neprofesionálně a lhal o situaci.
-title: 'Kterak si Indoš naběhl na dvojitou haluz od Technetu
+title: "'Kterak si Indoš naběhl na dvojitou haluz od Technetu"
 
   '
 ---

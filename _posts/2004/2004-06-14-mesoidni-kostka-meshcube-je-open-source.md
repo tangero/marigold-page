@@ -13,7 +13,7 @@ summary_points:
 - Zdrojové kódy Meshcube jsou dostupné v CVS repository pro vlastní výrobu.
 - Meshcube stojí od 200 euro a obsahuje WiFi, MIPS procesor a další komponenty.
 - Výrobcem Meshcube je 4G Systeme GmbH, která vyrábí i Access Cube.
-title: 'Mešoidní kostka Meshcube je open source
+title: "'Mešoidní kostka Meshcube je open source"
 
   '
 ---

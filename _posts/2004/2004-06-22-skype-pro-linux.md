@@ -13,7 +13,7 @@ summary_points:
 - Skype pro Linux vyžaduje minimálně 400 MHz procesor a 128 MB RAM.
 - Testování Skype pro Linux proběhlo na SuSE 9, Gentoo 1.4, Debian unstable a dalších.
 - Uživatel uvažuje o použití Skype na zařízení NetPhone od Faynu.
-title: Skype pro Linux
+title: "Skype pro Linux"
 ---
 
 <p>

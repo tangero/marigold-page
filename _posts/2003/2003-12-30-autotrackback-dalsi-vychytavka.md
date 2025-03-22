@@ -13,7 +13,7 @@ summary_points:
 - Autor vytvořil AutoTrackBack, jednodušší automatický systém logování odkazů.
 - AutoTrackBack zobrazuje odkazy pouze z přímých odkazů na zprávy Marigolda.
 - AutoTrackBack má omezení, zobrazuje se jen po kliknutí na "Zalinkovat".
-title: AutoTrackBack &#8211; další vychytávka
+title: "AutoTrackBack – další vychytávka"
 ---
 
 <p>

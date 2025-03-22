@@ -13,7 +13,7 @@ summary_points:
 - Neúčast ve volbách dává 50% hlasu KSČM nebo ČSSD.
 - Volba strany mimo předvolební odhady je ztracený hlas.
 - ČSSD s KSČM mají 111 mandátů a mohou prosazovat zákony.
-title: ČSSD jsou zločinci
+title: "ČSSD jsou zločinci"
 ---
 
 <p><strong>Noname píše:</strong> Doporučuji všem ke čtení stránku <strong><a href="http://cssd.unas.cz/" title="čssd">ČSSD - aneb co jste se nikdy neměli dozvědět...</a></strong>. Výstižná, doložitelná, a přesto takto po hromadě až neuvěřitelná fakta.</p>

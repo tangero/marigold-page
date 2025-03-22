@@ -14,7 +14,7 @@ summary_points:
 - Znalec určil hodnotu Contactelu mezi minus 1,091 mil. Kč a minus 403 mil. Kč.
 - ČRa prodělaly více než 1,68 mld Kč investicí do Contactelu, což kritizuje minoritní
   akcionář.
-title: ČRa, Contactel a&nbsp;trestní oznámení
+title: "ČRa, Contactel a trestní oznámení"
 ---
 
 <p>

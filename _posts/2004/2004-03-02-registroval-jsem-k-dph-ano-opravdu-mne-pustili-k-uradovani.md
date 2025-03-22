@@ -13,7 +13,7 @@ summary_points:
 - Nový zaměstnavatel autora pověřil stykem s úřady a registrací k DPH.
 - Úředník ve Štěpánské byl ochotný, poradil a slíbil odeslání dokumentů.
 - Autor byl překvapen rychlostí a hladkým průběhem registrace DPH.
-title: Registroval jsem k&nbsp;DPH &#8211; ano, opravdu mne pustili k&nbsp;úřadování!
+title: "Registroval jsem k DPH – ano, opravdu mne pustili k úřadování!"
 ---
 
 <p>

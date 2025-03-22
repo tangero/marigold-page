@@ -13,7 +13,7 @@ summary_points:
 - Nokia získala 63,3% podíl v Symbianu odkupem od Psionu za 256 milionů dolarů.
 - Odkup Symbianu Nokií krátkodobě nemění situaci a neohrožuje Microsoft.
 - Nokia může díky kontrole Symbianu prosazovat 3G a mobilní hraní.
-title: 'Mobildrobky: Mobs video &#8211; video pro mobily, Nokia dokupuje podíly v&nbsp;Symbianu'
+title: "Mobildrobky: Mobs video – video pro mobily, Nokia dokupuje podíly v Symbianu"
 ---
 
 <p>

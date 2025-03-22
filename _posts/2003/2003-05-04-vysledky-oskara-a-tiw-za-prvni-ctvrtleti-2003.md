@@ -13,7 +13,7 @@ summary_points:
 - procent nových Oskar zákazníků v 1Q/2003 si vybralo tarif.
 - Český Mobil dluží TIW 493,3 mil USD z celkového dluhu 1 mld USD.
 - TIW se zlepšují výsledky, analytici věří v překonání dluhů.
-title: Výsledky Oskara a&nbsp;TIW za první čtvrtletí 2003
+title: "Výsledky Oskara a TIW za první čtvrtletí 2003"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Požadoval malý telefon véčkové konstrukce s dobrým psaním SMS.
 - Operátoři Vodafone a T-Mobile nenabídli vyhovující telefony v akcích.
 - Autor nakonec vybral Sony Ericsson Z530i pro jeho SMS funkce.
-title: Pořídil jsem si low-end
+title: "Pořídil jsem si low-end"
 ---
 
 <p>Tento týden přetekl pohár trpělivosti se stavem mého soukromého mobilního telefonu. Po řadě nehod a úmrtí v mém telefonním parku jsem byl několik týdnů odkázán na Motorola V3 RAZR, který mi dlužno říci pěkně pije krev. Zkracování SMS při psaní pomocí iTapu mne pěkně štvalo, takže jsem nakonec SMS psal postaru, jenže Razor mi občas „sežral“ nějakou tu SMS (nedošla) nebo ji neodeslal a tvářil se nenápadně. Možná starý firmware, možná jen odfláknutá práce Motoroly, v každém případě dobrý impuls posunout se dále.</p>

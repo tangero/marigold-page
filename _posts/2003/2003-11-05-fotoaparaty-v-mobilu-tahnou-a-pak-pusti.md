@@ -14,7 +14,7 @@ summary_points:
 - Přenos fotek z mobilu do PC je komplikovaný, operátoři preferují drahé MMS zprávy.
 - Zájem o MMS fotky lze podpořit akcemi, jako jsou mobilní weblogy nebo tištěné pohlednice.
 - MMS zprávy jsou drahé, nekompatibilní a operátoři se snaží udržet zájem o fotoaparáty.
-title: Fotoaparáty v&nbsp;mobilu &#8211; táhnou a&nbsp;pak pustí&#8230;
+title: "Fotoaparáty v mobilu – táhnou a pak pustí…"
 ---
 
 <p>

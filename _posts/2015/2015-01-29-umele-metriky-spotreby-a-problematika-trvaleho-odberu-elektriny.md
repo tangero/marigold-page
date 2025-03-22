@@ -13,7 +13,7 @@ summary_points:
 - Trvalá spotřeba definována jako nejnižší průběžná spotřeba elektřiny, často zbytečná.
 - Optimalizací trvalé spotřeby lze ušetřit až 6000 Kč ročně.
 - Energomonitor pomáhá metriky pochopit, srovnat, zlepšit a dlouhodobě kontrolovat.
-title: Umělé metriky spotřeby a&nbsp;problematika trvalého odběru elektřiny
+title: "Umělé metriky spotřeby a problematika trvalého odběru elektřiny"
 ---
 
 <p>Jaký problém řešíme v <a href="http://www.energomonitor.com">energomonitoru</a> nejvíce? Teda krom toho, že češi jsou hauři a šetření je pod jejich úroveň, neb oni na to mají, což kontrastuje s přístupem třeba holandských nebo španělských zákazníků?</p>

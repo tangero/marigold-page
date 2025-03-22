@@ -13,7 +13,7 @@ summary_points:
 - Prohození konektorů RJ-11 a RJ-45 způsobilo nefunkčnost ADSL modemu.
 - Autor nasdílel internet přes router a tři ADSL přípojky zrušil.
 - Autorovi chybí firmy nabízející správu IT pro malé, netechnické firmy.
-title: Jak se prodává ADSL vorvaňům
+title: "Jak se prodává ADSL vorvaňům"
 ---
 
 <p>Navštívil jsem nedávno jednoho kamaráda v jeho firmičce. Malá firmička, čtyři lidé, čtyři počítače. Výdělečná firmička živící se poradenstvím, jakým to není podstatné. Podstatné je, že firmička šlape a majitel nemusí řešit každou korunu, čili se pro většinu obchodníků stává vorvaněm v okamžiku, kdy zjistí, že zrovna tomu jejich problému nerozumí. Díky tomu tu sekretářka má na psaní dopisů ve Wordu devatenáctipalcové Eizo a počítače, který by stačil na server celní správy.  Atd. </p>

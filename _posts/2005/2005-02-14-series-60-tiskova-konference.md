@@ -13,7 +13,7 @@ summary_points:
 - Series 60 třetí edice nabízí vylepšené hudební funkce, DRM a USB Mass storage.
 - Lenovo P930 má dotykový displej, zadávání perem a GPS navigaci pro čínský trh.
 - Sendo X2 je novinka s hudebním přehrávačem a 1,3 megapixelovým fotoaparátem.
-title: Series 60 tisková konference
+title: "Series 60 tisková konference"
 ---
 
 <p>V roce 2005 bude prodáno cca 50 milionů smartphone, z toho 20 milionů bude mít Series 60. Celkem více jak dvacet modelů v prodeji. Z toho zajímavého, co třetí edice Series 60 podporuje: vylepšené přehrávání hudby, DRM a USB Mass storage. 

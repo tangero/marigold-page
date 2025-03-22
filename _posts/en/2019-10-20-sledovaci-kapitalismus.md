@@ -12,7 +12,7 @@ layout: post
 original_lang: cs
 permalink: /en/item/sledovaci-kapitalismus/
 thumbnail: https://www.duurzaamnieuws.nl/wp-content/uploads/2019/10/tegenlicht-dataroof.jpg
-title: Surveillance capitalism
+title: "Surveillance capitalism"
 translated: true
 ---
 

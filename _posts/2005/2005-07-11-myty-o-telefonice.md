@@ -13,7 +13,7 @@ summary_points:
 - Telefonica neúspěšně investovala do 3G licencí v mnoha zemích včetně Itálie.
 - Eurotel pravděpodobně 3G síť postaví, protože má smlouvu s Nokií.
 - Telefonica zavírá testovací laboratoře Eurotelu v Čechách, což je negativní.
-title: Mýty o&nbsp;Telefonice
+title: "Mýty o Telefonice"
 ---
 
 <p>Přečetl jsem si o víkendu článek Jiřího Hlavenky Slavíci z Madridu v Mobilitách. Trochu s křížkem po funuse, je to číslo pět, jenže já ho někde dostal, sám si časopisy moc nekupuju, protože už mi to přijde neekologické. Ale rád si počtu na papíře, to zase ano :)</p>

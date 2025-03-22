@@ -14,7 +14,7 @@ summary_points:
 - Telefon bude určen pro enterprise market a bude pracovat pouze s 802.11a.
 - a má větší kapacitu (21 kanálů) než 802.11b (3 kanály) pro hlasové hovory.
 - Navini opustilo podporu 802.20 (Mobile-Fi) a přešlo k mobilnímu WiMaxu (802.16e).
-title: 'Drobky: WiFi do mobilů, Navini konvertovalo k&nbsp;WiMaxu'
+title: "Drobky: WiFi do mobilů, Navini konvertovalo k WiMaxu"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - EDGE v USA stojí T-Mobile půl miliardy dolarů, start 2005.
 - Maďarský T-Mobile s Ericssonem ustanovil rychlostní rekord v EDGE síti.
 - T-Mobile s EDGE kontruje Eurotelu, reálné rychlosti budou třetinové.
-title: Eurotel přináší EDGE (v&nbsp;síti T-Mobile)
+title: "Eurotel přináší EDGE (v síti T-Mobile)"
 ---
 
 <p>

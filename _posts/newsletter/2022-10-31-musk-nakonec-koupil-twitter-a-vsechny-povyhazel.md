@@ -13,7 +13,7 @@ summary_points:
 - Musk vstoupil do centrály Twitteru s umyvadlem a tweetoval "Let that sink in".
 - Agrawal získá po propuštění z Twitteru přibližně 42 milionů dolarů.
 - Gadde dohlížel na pravidla Twitteru a čelil kritice za zákaz Trumpa.
-title: Musk nakonec koupil Twitter a všechny povyházel
+title: "Musk nakonec koupil Twitter a všechny povyházel"
 ---
 
 V pátek byl svátek jen u nás, jinde se pilně pracovalo. Elonu Muskovi se nepodařilo vykroutit se ze smlouvy na odkup Twitteru a nekoupit jej by ho vyšlo stejně draho, jako koupit. Takže ve čtvrtek právně převzal Twitter a v pátek tam nakráčel s dřezem a povyházel vedení. První jeho tweet po převzetí Twitteru? "Pták je volný" a spíše odkazoval na "svobodu", kterou do Twitteru Musk chtěl přinést, než na nějakou jeho další sexuální eskapádu. 

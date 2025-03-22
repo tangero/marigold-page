@@ -11,7 +11,7 @@ summary_points:
 - Ústavní péče v Česku stojí 15 000 Kč měsíčně na dítě.
 - Kvalita výchovy v úplné rodině je vyšší než v náhradní péči.
 - Historicky společnosti ostrakizovaly svobodné matky jako varování.
-title: Co to zase ta nána plácla o&nbsp;dětech a&nbsp;matkách? Čili lekce z&nbsp;kontextu&#8230;
+title: "Co to zase ta nána plácla o dětech a matkách? Čili lekce z kontextu…"
 ---
 
 Moje facebublina se může zbláznit ze tří vět, které tento týden někdo prohlásil. Izolované věty vytržené z kontextu a už lítají debilové a odsudky, nevolitelnost, rezignace a tak. Že v Česku nesmíte používat v politice nadsázku natož ironii, Bělobrádek už nepochybně ví a já si to taky zapsal do deníčku. Že vám k aktuálnímu tématu hodí půl roku starou větu, aniž by se vysvětlilo, co a jak, náměstek ministryně školství věděl asi už před tím a teď se jen ujistil. A co chudák Chalánová, podle níž ženy bez partnera nemají nárok na výjimečnou úpravu v zákoně o dětech, což je to, co bylo pro ně ve skutečnosti požadováno? Samozřejmě kráva, dí hlas liberálního lidu, protože matka si přeci může s dítětem dělat, co chce a přivést ho klidně na svět bez jakéhokoliv zajištění.

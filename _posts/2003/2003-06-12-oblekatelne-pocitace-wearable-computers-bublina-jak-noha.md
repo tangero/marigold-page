@@ -14,7 +14,7 @@ summary_points:
 - Displej počítače zobrazuje informace z DVD, TV nebo internetu po připojení jednotky.
 - Technologie Pioneeru je bublinovitá, displej zůstává v oblečení i při praní.
 - Autor preferuje vize Nokie, Sony a Microsoftu pro personal infotainment před oblečením.
-title: Oblékatelné počítače (Wearable Computers) &#8211; bublina jak noha?
+title: "Oblékatelné počítače (Wearable Computers) – bublina jak noha?"
 ---
 
 <p>

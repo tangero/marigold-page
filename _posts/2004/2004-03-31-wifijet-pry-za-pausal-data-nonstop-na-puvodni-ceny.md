@@ -13,7 +13,7 @@ summary_points:
 - Eurotel Data Nonstop se vrací na původní ceny od dubna.
 - Vyšší tarify Eurotel Data Nonstop budou stát 799 Kč bez DPH.
 - Ostatní tarify Eurotel Data Nonstop budou stát 999 Kč bez DPH.
-title: 'WiFiJet prý za paušál, Data Nonstop na původní ceny
+title: "'WiFiJet prý za paušál, Data Nonstop na původní ceny"
 
   '
 ---

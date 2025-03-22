@@ -15,7 +15,7 @@ summary_points:
 - Wi-Fi aliance podporuje standard 802.11, testuje interoperabilitu a certifikuje
   Wi-Fi produkty.
 - Článek se zabývá i praktickými aspekty používání a zabezpečení Wi-Fi sítí.
-title: Wi-Fi slovníček/FAQ
+title: "Wi-Fi slovníček/FAQ"
 ---
 
 Z webu certifikátora WiFi zařízení jsme pro vás přeložili malý slovníček a až bych řekl něco jako nejčastěji kladené otázky. Článek je zase zaměřen pro začínající uživatele, aby se zorientovali.<!--more--><p>

@@ -13,7 +13,7 @@ summary_points:
 - Autor nikoho nežádal o příspěvky na Marigolda, ale pochybuje, že někdo přispěje.
 - Před odjezdem se pokusí přidat Historii českého internetu na Marigolda.
 - Autor si vybral Keňu bez internetu a GSM na třítýdenní dovolenou po deseti letech.
-title: A to je pro červenec vše přátelé, já dy já dy dá&#8230;
+title: "A to je pro červenec vše přátelé, já dy já dy dá…"
 ---
 
 <p>

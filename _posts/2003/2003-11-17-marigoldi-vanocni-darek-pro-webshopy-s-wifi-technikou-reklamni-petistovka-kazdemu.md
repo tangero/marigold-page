@@ -13,7 +13,7 @@ summary_points:
 - Sleva pro zákazníky z Marigoldu musí být minimálně jedno procento.
 - Kredit získáte registrací, zasláním emailu s údaji o shopu a slevě.
 - Nabídka platí do odvolání a pouze pro WiFi techniku/služby.
-title: 'Marigoldí vánoční dárek pro webshopy s&nbsp;WiFi technikou: reklamní pětistovka
+title: "'Marigoldí vánoční dárek pro webshopy s WiFi technikou: reklamní pětistovka"
   každému'
 ---
 

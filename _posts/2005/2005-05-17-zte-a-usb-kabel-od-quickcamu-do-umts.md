@@ -13,7 +13,7 @@ summary_points:
 - Kamera Logitech QuickCam sloužila pro streaming videa v 3G síti.
 - ZTE otevírá zastoupení v ČR a plánuje výzkumné centrum s TTC.
 - Mobil.cz publikoval reportáž o této 3G demonstraci.
-title: ZTE a&nbsp;USB kabel od QuickCamu do UMTS
+title: "ZTE a USB kabel od QuickCamu do UMTS"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/1/mms-818645135.jpg" alt="1705051514.jpg" width="320" height="240" /></div><p>Dorazil jsem se podívat na demo 3G sítě od ZTE. Nedá se říci, že by tu bylo narváno - abych byl přesný kromě zaměstnanců ZTE tu nebyla ani noha. Mělo to svoji výhodu, věnovali se nám a byla možnost se u všeho libovolně dlouho zastavit. Pokud jste ještě 3G naživo neviděli, doporučím dojet metrem na Pankrác a pak k hotelu Panorama, jsou tu ještě ve středu.</p>

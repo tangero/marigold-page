@@ -14,7 +14,7 @@ summary_points:
 - Omezení P2P sítí se týká hlavně stahování nelegálního obsahu, nikoliv legálních
   souborů.
 - Autor textu s řešením Eurotelu souhlasí, považuje ho za nejméně špatné.
-title: Eurotel spláchnul z&nbsp;CDMA sosače P2P sítí
+title: "Eurotel spláchnul z CDMA sosače P2P sítí"
 ---
 
 <p>

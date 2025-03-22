@@ -13,7 +13,7 @@ summary_points:
 - Firma ha-vel a.s. expandovala z lokálního provajdera na významného operátora.
 - Halfar snil o bezplatném vysokorychlostním internetu pro každého skrze projekt rEvoluce.
 - Autor lituje, že Halfarovi neřekl, jak si ho váží.
-title: Petr Halfar zemřel
+title: "Petr Halfar zemřel"
 ---
 
 <p>Jsou lidé, jejichž smrt je pro mnohé jen jménem na úmrtním oznámení, číslem

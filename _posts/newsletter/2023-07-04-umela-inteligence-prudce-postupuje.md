@@ -16,7 +16,7 @@ summary_points:
 - Odpůrci AI nestíhají argumentovat, její rychlý pokrok jim bere argumenty.
 - Generativní AI automatizuje právní úkoly, 44 % dle Goldman Sachs.
 - Harvey, Casetext a Luminance jsou startupy legaltech, využívající AI.
-title: Umělá inteligence prudce postupuje
+title: "Umělá inteligence prudce postupuje"
 ---
 
 Budu opakovat to, čím jsem newsletter v letošním roce začínal: umělá inteligence je událost roku a dekády. Ve svém životě si nepamatuju nic, co by mělo tak prudký rozvoj a postup. Ani internet. Když internet v devadesátých letech začínal, našlo se spousta proroků, kteří mu stihli většit zapomenutí. Od Billa Gatese a jeho MSN (tehdejší konkurence internetu) přes Václava Klause. První uznal, že šlo spíš o snahu vytvořit si prostor vlastní business, než popírat evidentní, druhý … ten se splést nemohl, jen jsme to špatně pochopili… 

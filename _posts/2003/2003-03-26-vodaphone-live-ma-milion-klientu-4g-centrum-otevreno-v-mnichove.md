@@ -12,7 +12,7 @@ summary_points:
 - Vodafone prodal přes milion kamerových mobilů s podporou Live! za pět měsíců.
 - NewLogic otevřel v Mnichově 4G vývojové centrum zaměřené na sítě čtvrté generace.
 - NewLogic odhaduje 50 milionů 4G klientů v roce 2007 a 14% obratu.
-title: Vodaphone Live! má milion klientů, 4G centrum otevřeno v&nbsp;Mnichově
+title: "Vodaphone Live! má milion klientů, 4G centrum otevřeno v Mnichově"
 ---
 
 <p>

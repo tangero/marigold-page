@@ -13,7 +13,7 @@ summary_points:
 - MN-700 směrovač běží na Windows CE .NET 4.2 s automatickými aktualizacemi.
 - Produkty mají SPI firewall, WEP (defaultně) a WPA šifrování.
 - Produkty jsou určeny pro malé sítě, bez externí antény (kromě PCI karty).
-title: 'Microsoft uvedl svoje 802.11g bezdrátové produkty jako Wireless-G
+title: "'Microsoft uvedl svoje 802.11g bezdrátové produkty jako Wireless-G"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Restaurace mohou Airspot využít pro veřejný internet a firemní intranet.
 - Airspot omezuje přenosovou kapacitu a podporuje 50 uživatelů a 10 hostů.
 - Cena Airspotu je kolem 600 USD, což je levné oproti konkurenci.
-title: D-Link Airspot &#8211; hotspot pro veřejný i&nbsp;privátní přístup
+title: "D-Link Airspot – hotspot pro veřejný i privátní přístup"
 ---
 
 <p>

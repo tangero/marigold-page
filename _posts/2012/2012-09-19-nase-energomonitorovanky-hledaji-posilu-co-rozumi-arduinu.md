@@ -16,7 +16,7 @@ summary_points:
 - Pro majitele domů, bazénů a firem je Energomonitor užitečný nástroj.
 - Připravují se nové verze Energomonitoru s malým a velkým displejem a průmyslové
   aplikace.
-title: 'Naše Energomonitorovánky hledají posilu, co rozumí Arduinu
+title: "'Naše Energomonitorovánky hledají posilu, co rozumí Arduinu"
 
   '
 ---

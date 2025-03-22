@@ -13,7 +13,7 @@ summary_points:
 - ISDN internet by stál necelou tisícovku měsíčně, s rychlostí 64 kbps.
 - Cena ISDN internetu by mohla být reálně 600 Kč po odečtení paušálu za telefon.
 - Nabídka ISDN internetu by mohla rozproudit prodej ISDN přípojek.
-title: 'Paušál za internet od Telecomu prý na ISDN
+title: "'Paušál za internet od Telecomu prý na ISDN"
 
   '
 ---

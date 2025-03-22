@@ -13,7 +13,7 @@ summary_points:
 - VOX je VoIP telefonní služba bez paušálu, volání od 50 haléřů.
 - TV streamuje TV Óčko a další stanice, zatím zdarma k internetu.
 - Dostupnost 802.10.MEGA je omezena na Frýdek-Místek a okolí.
-title: Internet do bytu 10 Mb/s za 999&nbsp;Kč a&nbsp;TV po&nbsp;netu. A&nbsp;není
+title: "Internet do bytu 10 Mb/s za 999 Kč a TV po netu. A není"
   to zpráva ze zahraničí.
 ---
 

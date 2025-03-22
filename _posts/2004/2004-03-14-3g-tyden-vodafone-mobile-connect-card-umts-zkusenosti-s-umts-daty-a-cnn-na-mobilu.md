@@ -13,7 +13,7 @@ summary_points:
 - Datové tarify Vodafone Volume začínají na 10 eurech za 10 MB.
 - Mobitel Slovinsko zaznamenal 18 MB průměrný datový objem na UMTS uživatele.
 - TeliaSonera Švédsko nabízí videohovory za 17,5 Kč za minutu.
-title: '3G Týden: Vodafone Mobile Connect Card UMTS, zkušenosti s&nbsp;UMTS daty a&nbsp;CNN
+title: "'3G Týden: Vodafone Mobile Connect Card UMTS, zkušenosti s UMTS daty a CNN"
   na mobilu&#8230;'
 ---
 

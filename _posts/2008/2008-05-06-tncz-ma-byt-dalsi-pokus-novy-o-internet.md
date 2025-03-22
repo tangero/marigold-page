@@ -16,7 +16,7 @@ summary_points:
 - Tn.cz má neoriginální strukturu webu, přehlížečkováno a přerámečkováno.
 - Tn.cz používá Flash video s slušivou grafikou, ale nezkušeností s internetem.
 - Tn.cz dosáhl 11. místa v návštěvnosti díky masivní reklamní kampani.
-title: Tn.cz má být další pokus Novy o&nbsp;internet
+title: "Tn.cz má být další pokus Novy o internet"
 ---
 
 <i>Update o statistiky na konci.</i> TV Nova v případě internetu prokazuje excelentní bezradnost. Web Tn.cz má být dalším pokusem, jak toto změnit, protože tímto webem se má TV Nova stát trojkou českého internetu, alespoň ve vizích managementu. Portál odstartoval včera krátce po sedmé (oficiálně v 19:45) a trochu jsem si ho prolezl ze zájmu profesního a z důvodu validace svých tezí. 

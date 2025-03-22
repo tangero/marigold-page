@@ -13,7 +13,7 @@ summary_points:
 - První hotspoty Polkomtel spustí ve Waršavě v polovině roku.
 - Po Waršavě budou následovat další velká polská města.
 - Zdroj informací o WiFi síti Polkomtel je Europemedia.
-title: Polkomtel postaví první komerční WiFi síť v&nbsp;Polsku
+title: "Polkomtel postaví první komerční WiFi síť v Polsku"
 ---
 
 <p>

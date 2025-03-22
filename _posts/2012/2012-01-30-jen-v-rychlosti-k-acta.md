@@ -17,7 +17,7 @@ summary_points:
   dat.
 - Data z kontrolovaných zařízení mohou být zneužita bez zvýšené trestní zodpovědnosti.
 - ACTA stanovuje osobní zodpovědnost za autorská práva, i při chybějící účtence.
-title: Jen v&nbsp;rychlosti k&nbsp;ACTA
+title: "Jen v rychlosti k ACTA"
 ---
 
 Proč se bát ACTA? Peroč je tak důležité vědět o ní co nejvíce? 

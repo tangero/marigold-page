@@ -16,7 +16,7 @@ summary_points:
   o stavu řešení chybí.
 - Doporučení zahrnují vícekolovou moderovanou veřejnou diskusi, průběžné reportování
   stavu řešení a použití různých informačních kanálů.
-title: Jak má komunikovat obecní zastupitelstvo a&nbsp;místní samospráva (na příkladu
+title: "Jak má komunikovat obecní zastupitelstvo a místní samospráva (na příkladu"
   Brandýsa nad Labem)
 ---
 

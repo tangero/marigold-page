@@ -13,7 +13,7 @@ summary_points:
 - V Hurgadě hlásí teploty přes 25 stupňů Celsia, takže balí plavky a krém.
 - Autor nebude během dovolené odpovídat na emaily a používat internet.
 - Server bude bez nových článků do Vánoc, pokud nepřispějí další autoři.
-title: A zítra hurá na líbánky do Egypta
+title: "A zítra hurá na líbánky do Egypta"
 ---
 
 <div class="rightbox"> <img src="/wp-content/uploads/1/20041205-sunrisepalacio.jpg" alt="náš hotel" width="200" height="198" /></div>

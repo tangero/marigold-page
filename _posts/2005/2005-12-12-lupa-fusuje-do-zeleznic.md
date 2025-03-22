@@ -13,7 +13,7 @@ summary_points:
 - Řešením problému s mobilním signálem v Pendolinu má být "odstátnění".
 - Autor textu se ironicky ptá, co se bude "odstátňovat", vlak nebo klec.
 - Původní zpráva na Lupě navrhuje "odstátnění" jako řešení problému signálu.
-title: Lupa fušuje do železnic :-)
+title: "Lupa fušuje do železnic :-)"
 ---
 
 <p><b>ook píše</b>: Ve <a href="http://www.lupa.cz/zpravicky/pendolino-nema-mobily-rad/" >zprávičkách na Lupě</a>

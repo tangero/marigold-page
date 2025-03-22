@@ -14,7 +14,7 @@ summary_points:
 - Doprava do Cannes je komplikovaná, přímé lety neexistují a je třeba optimalizovat
   cenu.
 - Příprava zahrnuje GPRS v zahraničí, SIM kartu, foťák a smartphone s češtinou.
-title: 3GSM World Congress 2005 (aneb Cannes)
+title: "3GSM World Congress 2005 (aneb Cannes)"
 ---
 
 <p>

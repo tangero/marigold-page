@@ -14,7 +14,7 @@ summary_points:
 - Ultrawideband technologie slibuje rychlosti 110-300 Mb/s na krátké vzdálenosti.
 - Motorola, XtremeSpectrum, Intel a TI mají rozpory ohledně konceptu UWB.
 - The Bongo Project nabízí TCP/IP nadstavbu pro bubny Bongo jako alternativu.
-title: 'UltraWideBand skrze IEEE zatím neprošlo
+title: "'UltraWideBand skrze IEEE zatím neprošlo"
 
   '
 ---

@@ -14,7 +14,7 @@ summary_points:
 - Levnější internet WLL vyžaduje více zájemců a složitý výpočet ceny dat.
 - Novináři jsou obviňováni z korupce bez ohledu na objektivitu článku.
 - MP3 přehrávač s bluetooth a WiFi kniha potěšily autora na víkend.
-title: Popracovní balada o&nbsp;korupci, příležitostech a&nbsp;tak různě
+title: "Popracovní balada o korupci, příležitostech a tak různě"
 ---
 
 <p>

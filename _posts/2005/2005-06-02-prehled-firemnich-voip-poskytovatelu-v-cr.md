@@ -13,7 +13,7 @@ summary_points:
 - Autor hledá tipy na VoIP poskytovatele pro firmy v ČR.
 - Zkušenosti s výběrem, spokojeností a službami jsou žádány.
 - Anonymní komentáře s informacemi o VoIP jsou vítány.
-title: Přehled firemních VoIP poskytovatelů v&nbsp;ČR
+title: "Přehled firemních VoIP poskytovatelů v ČR"
 ---
 
 <p>Chystám větší přehled VoIP poskytovatelů v ČR a pořád si nejsem jistý, jestli jsem někoho nezapomněl. Jde mi především o poskytovatele firemních řešení, která se často zle hledají i na webu poskytovatelů, ne o nějaké domácí VoIP. </p>

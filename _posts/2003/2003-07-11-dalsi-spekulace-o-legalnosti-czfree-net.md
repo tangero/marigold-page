@@ -12,7 +12,7 @@ summary_points:
 - CZFree.NET řeší legálnost provozu a nutnost licence dle článku na Lupě.
 - ČTÚ se vyhnul přímé odpovědi ohledně posouzení sítě CZFree.NET.
 - ČTÚ by měl vydat stanovisko, místo vyhýbání se odpovědnosti.
-title: Další spekulace o&nbsp;legálnosti CZFree.Net
+title: "Další spekulace o legálnosti CZFree.Net"
 ---
 
 <p>

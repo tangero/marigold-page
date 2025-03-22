@@ -13,7 +13,7 @@ summary_points:
 - Špatně nakrimpovaný ethernet kabel zkomplikoval prvotní konfiguraci hotspotu.
 - Sektorová anténa 180 stupňů vykloněna pro pokrytí ulice signálem.
 - SSID Marigold na kanálu 1 je volně dostupné pro testování v okolí Luka.
-title: 'První marigoldí spot je konečně on air :)
+title: "'První marigoldí spot je konečně on air :)"
 
   '
 ---

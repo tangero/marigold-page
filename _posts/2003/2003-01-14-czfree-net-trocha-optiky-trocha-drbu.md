@@ -14,7 +14,7 @@ summary_points:
 - xChaos v diskusi CzFree prohlásil, že dluží peníze Deuovi a přebírá jeho provinění.
 - Root.cz publikoval článek o první optické trase CzFree.Net s Ronja pojítky.
 - Marigold se těší na OmniLux, levná optická pojítka s vysokou kapacitou.
-title: CzFree.Net &#8211; trocha optiky, trocha drbů
+title: "CzFree.Net – trocha optiky, trocha drbů"
 ---
 
 <p>

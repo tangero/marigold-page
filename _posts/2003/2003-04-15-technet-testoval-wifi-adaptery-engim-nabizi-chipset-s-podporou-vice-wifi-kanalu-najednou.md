@@ -12,7 +12,7 @@ summary_points:
 - Technet recenzuje USB a PCMCIA WiFi adaptéry HP, Bluetake a OvisLink.
 - Engim představil čipovou sadu pro WiFi s podporou tří až devíti kanálů.
 - Linksys produkty 802.11g jsou dostupné skladem u Levi i BlueCom.
-title: Technet testoval WiFi adaptéry, Engim nabízí chipset s&nbsp;podporou více WiFi
+title: "Technet testoval WiFi adaptéry, Engim nabízí chipset s podporou více WiFi"
   kanálů najednou
 ---
 

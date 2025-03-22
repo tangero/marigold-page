@@ -13,7 +13,7 @@ summary_points:
 - Intel sponzoruje WiFi pavilon pod vlajkou Centrino, k dispozici budou IBM notebooky.
 - V pavilonu Y bude možné WiFi produkty přímo koupit, což bylo dříve zakázané.
 - WideNet pořádá WiFi pavilon s Veletrhy Brno.
-title: WiFiLiFe na Invexu
+title: "WiFiLiFe na Invexu"
 ---
 
 <p>

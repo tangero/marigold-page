@@ -13,7 +13,7 @@ summary_points:
 - Propuštění Hanscoma nebylo za blogování, ale porušení zákazu focení.
 - Microsoft zřejmě potřeboval exemplární trest pro porušení zákazu focení.
 - Média zkreslila zprávu, psala o propuštění za prozrazení nákupu Apple.
-title: Microsoft vyhodil zaměstnance za blogování. Ech, bylo to maličko jinak&#8230;
+title: "Microsoft vyhodil zaměstnance za blogování. Ech, bylo to maličko jinak…"
 ---
 
 <p>

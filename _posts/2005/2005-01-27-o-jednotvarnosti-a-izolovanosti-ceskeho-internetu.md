@@ -13,7 +13,7 @@ summary_points:
 - Technické servery píší o stejném, chybí jim originalita a různorodost.
 - Chybí české médium, které by vyhledávalo neobvyklé novinky ze zahraničí.
 - Na českém internetu témata nevznikají, pouze se přebírají ze zahraničí.
-title: O jednotvárnosti a&nbsp;izolovanosti českého internetu
+title: "O jednotvárnosti a izolovanosti českého internetu"
 ---
 
 <p>Přečetl jsem si dnes na Lupě rozhovor <a href="http://www.lupa.cz/clanek.php3?show=3920">Markéty Kaclové s Denisou Kerou</a> a už samotný rozhovor nese titulek &#8220;Český Internet je izolovaný&#8221;. V rozhovoru je Denisa Kerá citována přímo: &#8220;Je mi totiž líto, že je české internetové prostředí dost jednotvárné. Když se podíváte na to, co se děje mimo českou sféru, je Internet mnohem různorodější.&#8221;</p>

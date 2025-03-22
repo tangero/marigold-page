@@ -13,7 +13,7 @@ summary_points:
 - Řidič sleduje GPS navigaci a méně se orientuje podle cedulí.
 - Zamrznutí iPAQu zdržuje a vyžaduje návrat po paměti nebo s mapou.
 - Doporučuje se chlazení zařízení a vozit s sebou papírovou mapu.
-title: Pro uživatele GPS
+title: "Pro uživatele GPS"
 ---
 
 <p><b>Oook píše:</b>Už nějakou dobu používám pro svoje cesty po ČR modrozubí GPS ve spolupráci s iPAQem 4700 a PocketKimem. <br />

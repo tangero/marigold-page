@@ -13,7 +13,7 @@ summary_points:
 - WiFi VoIP telefony mají problémy se spolehlivostí při zatížení sítě.
 - DECT technologie nabízí spolehlivé a levné řešení pro VoIP telefony.
 - Na trhu existují kombinovaná DECT/VoIP zařízení od firem AVM, Hagenuk a Inventel.
-title: VoIP bezdrátově je dneska také DECT
+title: "VoIP bezdrátově je dneska také DECT"
 ---
 
 <p>Delší dobu přemýšlím o tom, že bych chtěl mít doma bezdrátový telefon napojený na VoIP. Asi nejsem sám, pro koho telefon znamená především utržené sluchátko a vylézat do pracovny, kde v současné době náš drátový VoIP telefon dlí, se mi nechce kvůli takové maličkosti, že chci zavolat do číny na rohu a objednat jídlo. Zavolám za pětkrát vyšší cenu z mobilu. Jenže pohodlně. </p>

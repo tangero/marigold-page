@@ -13,7 +13,7 @@ summary_points:
 - Policie vyšetřuje Berdárovu střelbu na škodovku jako možný přestupek/trestný čin.
 - Autor doufá, že Berdár nebude střílet na další auta.
 - Zpráva o kauze Berdár pochází z ČT24.
-title: Kauza Berdár &#8211; pokračování
+title: "Kauza Berdár – pokračování"
 ---
 
 <p><b>Ook píše:</b> Kauza Berdár, ve které někdo

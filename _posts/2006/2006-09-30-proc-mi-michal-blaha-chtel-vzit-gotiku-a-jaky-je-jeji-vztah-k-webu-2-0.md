@@ -13,7 +13,7 @@ summary_points:
 - Gotika je pro románský sloh zlepšením, podobně jako Web 2.0 pro Web 1.0.
 - Parléř nadchnul Karla IV. pro gotickou katedrálu, posunul tak české stavebnictví.
 - Web 2.0 bude historiky vnímán jako etapa, stejně jako gotika v umění.
-title: Proč mi Michal Bláha chtěl vzít gotiku a&nbsp;jaký je její vztah k&nbsp;Webu
+title: "Proč mi Michal Bláha chtěl vzít gotiku a jaký je její vztah k Webu"
   2.0
 ---
 

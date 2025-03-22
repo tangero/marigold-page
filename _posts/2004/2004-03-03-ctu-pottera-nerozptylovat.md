@@ -13,7 +13,7 @@ summary_points:
 - Čtenář preferuje český překlad, ignoruje pirátské verze, angličtinu a slovenštinu.
 - Albatros uvádí nedělní vydání Harryho Pottera jako úsporu výmluv pro děti.
 - Kritika Harryho Pottera pochází od nečtenářů, autor knihu obhajuje.
-title: Čtu Pottera, nerozptylovat!
+title: "Čtu Pottera, nerozptylovat!"
 ---
 
 <p>

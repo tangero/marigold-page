@@ -13,7 +13,7 @@ summary_points:
   vědách.
 - Konference s Denisou Kerou bude mít živý přenos na portále přenosy.cesnet.cz.
 - Rozhovor s Denisou Kerou na Lupě vyvolal značné emoce.
-title: Celebrity naživo
+title: "Celebrity naživo"
 ---
 
 <p><!--startfragment -->Denisa Kera, jejíž <a href="http://www.lupa.cz/clanek.php3?show=3920"  target="_blank">rozhovoroprofil na Lupě</a>

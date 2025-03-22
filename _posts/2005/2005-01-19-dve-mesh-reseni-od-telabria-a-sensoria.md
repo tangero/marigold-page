@@ -13,7 +13,7 @@ summary_points:
 - Telabria CampusMesh dosahuje 54 Mb/s a kombinuje vnitřní i venkovní prvky.
 - Sensoria EnRoute400 je béčkové řešení (11 Mb/s) pro průmyslové a bezpečnostní sítě.
 - Sensoria se zaměřuje na bezpečnost a jednoduchost instalace, ne na rychlost.
-title: Dvě mesh řešení od Telabria a&nbsp;Sensoria
+title: "Dvě mesh řešení od Telabria a Sensoria"
 ---
 
 <p>Na veletrhu CES hned několik firem představilo svá mesh řešení pro samoorganizující se sítě. Já jsem vybral dvě, které mi přijdou dotažené do konce a také se mi zdá, že již opustily prototypové stádium. </p>

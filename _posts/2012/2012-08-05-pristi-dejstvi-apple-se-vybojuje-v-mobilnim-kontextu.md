@@ -16,7 +16,7 @@ summary_points:
 - iCloud integrace je základem budoucího vývoje Apple, synchronizace dat mezi zařízeními.
 - Apple pracuje na vizuálním rozpoznávání uživatele pro přihlašování, detekce tváře.
 - Apple se zaměřuje na rozpoznávání kontextu uživatele, odlišuje se tím od konkurence.
-title: Příští dějství Apple se vybojuje v&nbsp;mobilním kontextu
+title: "Příští dějství Apple se vybojuje v mobilním kontextu"
 ---
 
 <p>Pochybnost, zda Apple ví, kam kráčí, je v komentářích po vydání Mountain Lionu všudypřítomná. U nás ji nejsrdnatěji presentoval <a href="http://www.lupa.cz/clanky/petr-pixy-stanicek-pristi-dejstvi-apple-vs-microsoft-zajimave-casy/">Petr Staníček v blogpostu</a>, který následně převzala i Lupa, takže ptaní po tom, zda je Apple bezradný, můžeme považovat za mainstreamovou otázku. </p>

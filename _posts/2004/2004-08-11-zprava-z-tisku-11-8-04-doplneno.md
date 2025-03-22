@@ -13,7 +13,7 @@ summary_points:
 - Ženy dokáží vyrobit Wi-Fi detektor s citem pro módu.
 - iPAQ 4150 je oblíbené Wi-Fi PDA, aktualizace ROM v1.10.03.
 - TISCALI Česká republika prozatím není na prodej.
-title: Zpráva z&nbsp;tisku (11.8.04) &#8211; doplněno
+title: "Zpráva z tisku (11.8.04) – doplněno"
 ---
 
 <p>

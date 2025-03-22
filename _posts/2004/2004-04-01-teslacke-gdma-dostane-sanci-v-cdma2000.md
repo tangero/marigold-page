@@ -14,7 +14,7 @@ summary_points:
 - GDMA efektivněji alokuje kapacitu sítě oproti TDMA díky flexibilnímu ukončování
   relací.
 - Qualcomm měřením potvrdil zvýšení rychlosti a propustnosti sítě s GDMA.
-title: Teslácké GDMA dostane šanci v&nbsp;CDMA2000
+title: "Teslácké GDMA dostane šanci v CDMA2000"
 ---
 
 <p>

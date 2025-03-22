@@ -16,7 +16,7 @@ summary_points:
   jednodušší.
 - Josefův půlrok ve firmě výrazně posunul autorovy prodejní dovednosti a chápání procesů.
 thumbnail: https://www.marigold.cz/assets/lide-na-kopci.png
-title: Někteří lidé se vás dotknou, i když je potkáte na krátko
+title: "Někteří lidé se vás dotknou, i když je potkáte na krátko"
 ---
 
 Někteří lidé se vás dotknou, i když je potkáte na krátko. Josef byl Boříkův strejda, říkal o sobě, že je SAPér, ale s výbušninama neuměl, takže asi kecal. Seznámili jsme se, když jsme se ve firmě rozhodli prodávat software velkým a váženým vydavatelstvím a ukázalo se, že by to chtělo nějakou zkušenou sílu. Bořík pravil, že Pepa rozumí tomu, jak se software prodává velkým firmám. 

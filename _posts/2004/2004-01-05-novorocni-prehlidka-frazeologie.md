@@ -15,7 +15,7 @@ summary_points:
   neřeší to.
 - CzFree.Net zveřejnil alternativní novoroční projev plný faktů a konkrétností.
 - Autor preferuje konkrétní projev CzFree.Net oproti vágnímu projevu Klause.
-title: Novoroční přehlídka frazeologie
+title: "Novoroční přehlídka frazeologie"
 ---
 
 <p>

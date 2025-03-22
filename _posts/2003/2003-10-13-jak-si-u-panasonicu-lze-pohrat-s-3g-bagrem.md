@@ -13,7 +13,7 @@ summary_points:
 - Bagr je ovládán sériovým 3G telefonem Panasonic pomocí videotelefonátu.
 - Ovládání bagru vyžaduje zručnost a funguje pouze z 3G telefonu.
 - Japonská policie používá podobný systém pro průzkum terénu.
-title: Jak si u&nbsp;Panasonicu lze pohrát s&nbsp;3G bagrem
+title: "Jak si u Panasonicu lze pohrát s 3G bagrem"
 ---
 
 <p>

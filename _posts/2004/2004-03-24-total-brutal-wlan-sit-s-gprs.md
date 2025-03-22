@@ -13,7 +13,7 @@ summary_points:
 - GPRS připojení pomocí dvou mobilů naráží na omezení BTS stanice.
 - Směrová anténa na mobilu vyřešila problém s rychlostí připojením k jiné BTS.
 - Linuxový router kombinuje rychlost dvou mobilů a řídí P2P stahování.
-title: Totál brutál WLAN síť s&nbsp;GPRS
+title: "Totál brutál WLAN síť s GPRS"
 ---
 
 <p>

@@ -14,7 +14,7 @@ summary_points:
   sítí.
 - Provozovatelé sítí 3 se obávají nedostatku 3G mobilů pro zákazníky.
 - Japonské 3G mobily často nepodporují GSM roaming v Evropě.
-title: První 3G Sony Ericsson zase odložen
+title: "První 3G Sony Ericsson zase odložen"
 ---
 
 <p>

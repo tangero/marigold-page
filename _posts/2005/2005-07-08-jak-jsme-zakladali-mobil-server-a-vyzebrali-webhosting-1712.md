@@ -13,7 +13,7 @@ summary_points:
 - Historie českého internetu vycházela na Marigoldovi a Lupě.
 - Psaní o zakládání Mobil serveru autor utnul.
 - Nezveřejněné díly o zakládání Mobil serveru budou publikovány bez konce.
-title: Jak jsme zakládali Mobil server a&nbsp;vyžebrali webhosting
+title: "Jak jsme zakládali Mobil server a vyžebrali webhosting"
 ---
 
 <p>Dneska je pátek, venku je hnusně a dost možná musíte sedět v práci. Nechce se mi psát žádná moudra, už proto, že dneska asi nic moudrého nevymyslím i kdyby se to někdy dříve stalo, že bych vymyslel.</p>

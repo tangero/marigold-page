@@ -12,7 +12,7 @@ summary_points:
 - Manhattan Neighborhood Network streamovala video přes WiFi, ne broadcast.
 - Orange instaluje WiFi v 300 hotelech sítě Accor.
 - Orange bude mít celkem WiFi na 900 místech.
-title: WiFi televize, Orange s&nbsp;Accorem
+title: "WiFi televize, Orange s Accorem"
 ---
 
 <p>

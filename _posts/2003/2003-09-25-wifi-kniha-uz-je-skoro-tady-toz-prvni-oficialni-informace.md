@@ -13,7 +13,7 @@ summary_points:
 - Autor knihu prodává i přes Marigold, protože psaní je náročnější než prodej.
 - Objednávkový formulář pro knihu přes Marigold je nyní funkční.
 - Knihu budou expedovat lidé z Cinetiku.
-title: WiFi kniha už je skoro tady, tož první oficiální informace&#8230;
+title: "WiFi kniha už je skoro tady, tož první oficiální informace…"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Nová anketa zjišťuje odhad ceny nonstop CDMA připojení od Eurotelu.
 - Anketa se ptá na reálnou cenu CDMA připojení, ne na preferovanou.
 - Výsledky ankety o ceně CDMA budou zveřejněny až po oznámení Eurotelu.
-title: 'Anketa: jak vás zajímají Drobky a&nbsp;nově za kolik bude CDMA od Eurotelu'
+title: "Anketa: jak vás zajímají Drobky a nově za kolik bude CDMA od Eurotelu"
 ---
 
 <p>

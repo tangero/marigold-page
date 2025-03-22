@@ -13,7 +13,7 @@ summary_points:
 - Rychlosti WiMAXu dosahují 256 Kb/s až 24 Mb/s v dané lokalitě.
 - Hardware LIBRA 5800 není plně WiMAX kompatibilní, ale funguje dobře.
 - WiMAX nabízí vysoké pokrytí a nevyžaduje přímou viditelnost.
-title: 'První komerční WiMAX poskytovatel odstartoval
+title: "'První komerční WiMAX poskytovatel odstartoval"
 
   '
 ---

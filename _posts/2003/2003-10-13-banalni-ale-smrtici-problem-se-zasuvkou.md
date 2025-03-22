@@ -13,7 +13,7 @@ summary_points:
 - Baterie notebooku brzy dojdou, což ohrožuje dokončení práce.
 - Kamarád si zajistil nabíjení u čínského obchodníka skrze jeho "psa".
 - Autor se pokusí o stejnou možnost nabíjení u čínského obchodníka.
-title: 'Banální ale smrtící problém se zásuvkou
+title: "'Banální ale smrtící problém se zásuvkou"
 
   '
 ---

@@ -14,7 +14,7 @@ summary_points:
 - Financování bytu komplikuje odmítnutí neobvyklých nabídek na noční úvěr v bance.
 - Autor vyzývá k účasti v referendu o vstupu do EU a k hlasování.
 - Autor se zúčastní cyklistického závodu Ruská ruleta a zajišťuje poslední místa.
-title: Referendům a&nbsp;byyyyyyyyyyyyyyyyyyyttttttttt!
+title: "Referendům a byyyyyyyyyyyyyyyyyyyttttttttt!"
 ---
 
 <p>

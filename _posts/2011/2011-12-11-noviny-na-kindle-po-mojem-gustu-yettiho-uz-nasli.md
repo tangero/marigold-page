@@ -16,7 +16,7 @@ summary_points:
 - Deník Insider posílá články nelegálně přes Personal dokumenty, což je riskantní.
 - iDnes na Kindle je dobrá bezplatná služba s SEO-ready titulky.
 - Literární noviny mají pochybný systém a limit velikosti vydání.
-title: Noviny na Kindle po&nbsp;mojem gustu (yettiho už našli?)
+title: "Noviny na Kindle po mojem gustu (yettiho už našli?)"
 ---
 
 <p>Na noviny jsem cimprdlich. Aby něco bylo po mojem gustu, to už musí být. Když začal fungovat Kindle a noviny na něm, horoval jsem za to, aby se noviny do Kindle přesouvaly, zejména proto, že v rámci informačního odšumění zpravodajství už prakticky nečtu (o tom by bylo zase někdy jindy na dlouho). Přijměte (či nepřijměte) pár postřehů...</p>

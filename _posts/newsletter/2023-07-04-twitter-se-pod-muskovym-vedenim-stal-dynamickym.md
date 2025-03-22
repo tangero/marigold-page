@@ -19,7 +19,7 @@ summary_points:
 - Twitter omezil čtení tweetů kvůli nákladům na cloudové úložiště Googlu.
 - Nový Twitter funguje agilně, testuje hypotézy v praxi a rychle opravuje chyby.
 - Algoritmy Twitteru podporují toxicitu a polarizaci, což vede k odchodu uživatelů.
-title: Twitter se pod Muskovým vedením stal dynamickým
+title: "Twitter se pod Muskovým vedením stal dynamickým"
 ---
 
 Twitter byl řadu let známý svou rezistencí vůči změnám. Příslovečné to bylo na editačním tlačítku. Že by bylo hezké editovat odeslané tweety, se říkalo léta a uznávalo to i vedení Twitteru, jenže to “nebylo tak jednoduché”. Jak by se věrohodně zaručilo, že lidé nelajknou nějaký tweet a jeho autor ho po nějaké době nezmění na naprostý opak? To namítalo vedení Twitteru. A tak se Twitter s problémem crcal tak dlouho, až jej koupil Musk. A ten řešení vymlasknul ihned: editační tlačítko je pokud možno za příplatek, do půl hodiny po odeslání lze editovat vždy, pak se ukládá a zvýrazňuje historie editace. A komu se to nelíbí, ať táhne jinam, žádná etická komise o ničem rozhodovat nebude. Bylo vymalováno, v zásadě se trefil do toho, co komunita akceptovala. 

@@ -13,7 +13,7 @@ summary_points:
 - Motorola oznámila zisk sedm centů na akcii po loňské ztrátě.
 - TIW stabilizovala finanční situaci prodejem brazilských aktivit.
 - TIW akcie se stabilizovaly kolem 0.28 USD na Nasdaqu.
-title: Nokia zvýšila zisk i&nbsp;kurs akcií, Motorola v&nbsp;zisku a&nbsp;TIW se dostává
+title: "Nokia zvýšila zisk i kurs akcií, Motorola v zisku a TIW se dostává"
   z&nbsp;problémů
 ---
 

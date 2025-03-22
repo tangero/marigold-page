@@ -13,7 +13,7 @@ summary_points:
 - Budík jsem zamáčkl a spal jsem o hodinu a půl déle.
 - Sněží, i když je to břečka, která hned taje.
 - Nedávno jsem si myslel, že je léto.
-title: Halooo, to si dělají legraci, ono sněží&#8230;
+title: "Halooo, to si dělají legraci, ono sněží…"
 ---
 
 <p>

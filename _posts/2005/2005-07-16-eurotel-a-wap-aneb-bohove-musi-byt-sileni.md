@@ -13,7 +13,7 @@ summary_points:
 - Eurotel mohl mít problém s vyplácením provizí partnerům za WAP provoz.
 - Eurotel se možná snaží omezit konkurenční WAP portály a uživatele.
 - Návštěva Live! portálu Eurotelu je levnější, což může být protisoutěžní.
-title: Eurotel a&nbsp;WAP aneb bohové musí být šílení
+title: "Eurotel a WAP aneb bohové musí být šílení"
 ---
 
 <p>Eurotelu se zase podařila Eurotelu se zase podařila mistrná rošáda, u které si nejsem jistý, jestli ji udělali proto, že chtějí zavřít krám nebo jen vyhodit někoho, na koho se to hodí. Kdo v tyto týdny sleduje na ČT2 Jistě, pane ministře, spatřuje v postupu, jakým Eurotel oznámil zvýšení cen WAPu, mnoho společného s Humphryho politickou korektností. BBC tento pořad zamýšlela jako satiru, v případě Eurotel jde o dokonaný skutek. </p>

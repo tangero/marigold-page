@@ -13,7 +13,7 @@ summary_points:
 - Telecom nabízí agregaci 1:50 pro nejlevnější ADSL, což je nevýhodné.
 - Telecom pravděpodobně do roka zlevní nejlevnější ADSL linku na tisíc korun.
 - ADSL je zatím spíše vhodné pro sdílení v sousedských sítích než pro jednotlivce.
-title: ADSL sice drahé, ale ono se to pohne&#8230;
+title: "ADSL sice drahé, ale ono se to pohne…"
 ---
 
 <p>

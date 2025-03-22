@@ -13,7 +13,7 @@ summary_points:
 - Operátoři preferují vysoké provize z menšího objemu plateb mobilních služeb.
 - Pipay pracuje na mikroplatebním systému s nižšími poplatky než Mplatby.
 - Nový platební nástroj Pipay bude fungovat jednoduše a bezpečně přes mobil.
-title: Mikroplatby budou, nebojte se&#8230;
+title: "Mikroplatby budou, nebojte se…"
 ---
 
 <p>Na <a href="http://www.pipay.cz/">Pipay</a> jsou zatím zajímavě polarizované reakce. Lidi, kteří se v platebních systémech moc nepohybují (používají je maximálně jako plátci, ale ne jako příjemci plateb) jsou vyvalení z provizí, které požadujeme. Ti, kdo jsou trochu v obraze, situaci chápou - část z naší provize musí ještě putovat k operátorovi. Jaká část to je, nemohu říci (NDA), ale můžete zkusit hádat, kdo dostane více, zda já nebo operátor. </p>

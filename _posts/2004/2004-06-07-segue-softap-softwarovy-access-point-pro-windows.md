@@ -13,7 +13,7 @@ summary_points:
 - Program podporuje WEP, WPA, dynamický routing a VPN pass-through.
 - PCTel prodává SoftAP za 20 USD a nabízí jej výrobcům WiFi karet.
 - SoftAP umožňuje snadné nastavení ad-hoc sítě a automaticky detekuje připojení.
-title: Segue SoftAP &#8211; softwarový access point pro Windows
+title: "Segue SoftAP – softwarový access point pro Windows"
 ---
 
 <p>

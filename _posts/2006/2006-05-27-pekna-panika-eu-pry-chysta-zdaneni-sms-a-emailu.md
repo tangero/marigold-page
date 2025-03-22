@@ -13,7 +13,7 @@ summary_points:
 - Návrh daně argumentuje pomocí EU členským státům v komunikaci.
 - Zdanění emailů je technicky obtížné kvůli decentralizaci a chybějícím mikroplatbám.
 - Návrh je považován za nereálný a posiluje euroskepticismus.
-title: 'Pěkná panika: EU prý chystá zdanění SMS a&nbsp;emailů'
+title: "Pěkná panika: EU prý chystá zdanění SMS a emailů"
 ---
 
 <p>Už se to protřásá na českém i mezinárodním internetu. EU se chystá zdanit emaily a SMS zprávy, platit se má zhruba 40 halířů za SMS zprávu a zlomek fufníku za email. Skandál, co si to EU dovoluje. Fuj, hamba. </p>

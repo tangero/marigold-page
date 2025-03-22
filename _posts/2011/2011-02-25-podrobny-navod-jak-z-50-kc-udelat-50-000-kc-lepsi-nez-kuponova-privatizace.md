@@ -15,7 +15,7 @@ summary_points:
 - Starý MacBook z roku 2006 má poškozený kryt a nízkou výdrž baterie.
 - Problém s kýváním vyřešily filcové podložky z IKEA za 50 Kč.
 - Ušetřením 25 tisíc autor "vydělal" 50 tisíc korun.
-title: Podrobný návod, jak z&nbsp;50&nbsp;Kč udělat 50&nbsp;000&nbsp;Kč. Lepší, než
+title: "Podrobný návod, jak z 50 Kč udělat 50 000 Kč. Lepší, než"
   kuponová privatizace!
 ---
 

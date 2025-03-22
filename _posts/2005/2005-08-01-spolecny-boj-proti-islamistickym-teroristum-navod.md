@@ -10,7 +10,7 @@ post_excerpt: ''
 published: true
 summary_points:
 - Sp
-title: Společný boj proti islamistickým teroristům &#8211; návod
+title: "Společný boj proti islamistickým teroristům – návod"
 ---
 
 <p><b>oook píše:</b><br />

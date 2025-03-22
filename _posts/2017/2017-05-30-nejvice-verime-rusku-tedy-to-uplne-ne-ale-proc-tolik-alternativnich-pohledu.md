@@ -14,7 +14,7 @@ summary_points:
   spotřeby.
 - Pochybnosti o NATO pramení z nedostatečné reflexe jeho intervencí a jejich dlouhodobých
   dopadů.
-title: Nejvíce věříme Rusku &#8230; tedy to úplně ne, ale proč tolik alternativních
+title: "Nejvíce věříme Rusku … tedy to úplně ne, ale proč tolik alternativních"
   pohledů?
 ---
 

@@ -12,7 +12,7 @@ summary_points:
 - Laks hodinky s 32 MB USB pamětí jsou na Aukru od korunky.
 - USB Token SafeNet iKey 1000 je na Aukru, na Macu nefunguje.
 - Aukce hodinek končí v pátek, tokenu v neděli.
-title: Předvánoční výprodej &#8230;
+title: "Předvánoční výprodej …"
 ---
 
 Je čas zase dodat pár věcí na Aukro, draží se od korunky, takže:

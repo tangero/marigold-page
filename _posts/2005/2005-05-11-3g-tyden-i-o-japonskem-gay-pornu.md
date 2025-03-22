@@ -14,7 +14,7 @@ summary_points:
 - Qualcomm adoptuje Linux a expanduje do WCDMA, Ericsson ruší CDMA.
 - Nokia prodává divizi profesionálního rádia, Pantech koupí SK Teletech, LG Telecom
   ruší EV-DV.
-title: 3G týden i&nbsp;o&nbsp;japonském gay pornu
+title: "3G týden i o japonském gay pornu"
 ---
 
 <p>Na Mobilu včera vyšel <a href="http://mobil.idnes.cz/mob_tech.asp?r=mob_tech&amp;c=A050508_214523_mob_operatori_zan">můj 3G Týden</a>. </p>

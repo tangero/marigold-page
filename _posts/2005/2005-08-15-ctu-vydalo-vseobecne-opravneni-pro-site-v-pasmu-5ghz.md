@@ -13,7 +13,7 @@ summary_points:
 - Povolení nových pásem v 5 GHz je nejzajímavější změnou.
 - Platnost oprávnění VO-R/12/08.2005-34 začíná 1. září 2005.
 - Zrušena povinnost používat pouze výrobcem schválené antény.
-title: ČTÚ vydalo Všeobecné oprávnění pro sítě v&nbsp;pásmu 5GHz
+title: "ČTÚ vydalo Všeobecné oprávnění pro sítě v pásmu 5GHz"
 ---
 
 <p>ČTÚ publikoval Všeobecnému oprávnění VO-R/12/08.2005-34, jímž se povolují DS a OFDM sítě v pásmu 5 GHz a 2,4GHz, nejzajímavější je tedy povolení těch tří nových pásem v 5 GHz, v pásmu 2,4 GHz to už tu bylo. <a href="http://cz-free.net/VO-R_12_08_2005-34.pdf">Celý text najdete zde</a>, web ČTÚ to ještě nemá. Oprávnění by mělo začít platit od prvního září 2005 a nejdůležitější pro nás teď je, že z něj vypadlo kontroverzní ustanovení o nutnosti používat výhradně výrobcem schválené antény. </p>

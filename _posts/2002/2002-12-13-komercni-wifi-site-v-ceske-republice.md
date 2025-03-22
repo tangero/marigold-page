@@ -14,7 +14,7 @@ summary_points:
 - GTS Wireless Internet funguje pouze na hotelu Holiday Inn na Pankráci.
 - Komerční WiFi sítě se soustředí na lukrativní lokality, jako hotely a kongresové
   prostory.
-title: Komerční WiFi sítě v&nbsp;České republice
+title: "Komerční WiFi sítě v České republice"
 ---
 
 V republice máme zatím tři klasické komerční WiFi sítě, ke kterým se můžete připojit, pokud náhodou jste v oblasti jejich pokrytí. Jak to s nimi vypadá do budoucna, kde se staví a co se děje?<!--more--><p>

@@ -13,7 +13,7 @@ summary_points:
 - Brno bude první lokalitou s WiFi od 20. září.
 - Praha (Nový Smíchov, Zličín), Teplice a Ostrava budou následovat.
 - Zličínský Datart nemá ideální prostor pro surfování s notebookem.
-title: 'Český Telecom rozšíří své WiFi do Datartu
+title: "'Český Telecom rozšíří své WiFi do Datartu"
 
   '
 ---

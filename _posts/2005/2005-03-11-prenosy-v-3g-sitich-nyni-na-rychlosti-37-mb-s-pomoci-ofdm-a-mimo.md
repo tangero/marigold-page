@@ -13,7 +13,7 @@ summary_points:
 - Nortel předváděl podobnou technologii s 20 Mb/s už v roce 2003.
 - Reálné 3G rychlosti jsou stále o řád nižší než testovací rekordy.
 - Komerční HSDPA řešení od Nortelu pro UMTS je slabé.
-title: Přenosy v&nbsp;3G sítích nyní na rychlosti 37 Mb/s pomocí OFDM a&nbsp;MIMO
+title: "Přenosy v 3G sítích nyní na rychlosti 37 Mb/s pomocí OFDM a MIMO"
 ---
 
 <p>Nortel tento týden slavnostně oznámil, že se mu podařilo na šířce pásma 5MHz dosáhnout v 3G spektru přenosové rychlosti 37 Mb/s s pomocí modulace OFDM a vicenásobných antén MIMO.</p>

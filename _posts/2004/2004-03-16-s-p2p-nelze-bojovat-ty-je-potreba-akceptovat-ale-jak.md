@@ -13,7 +13,7 @@ summary_points:
 - Kabeloví operátoři nabízejí vyšší rychlost v rámci sítě než do internetu.
 - Vyšší rychlost v síti motivuje uživatele k vytváření P2P serverů a sdílení.
 - Provozovatelé sítí mohou P2P využít ve svůj prospěch lokálními warez servery.
-title: S P2P nelze bojovat, ty je potřeba akceptovat &#8211; ale jak?
+title: "S P2P nelze bojovat, ty je potřeba akceptovat – ale jak?"
 ---
 
 <p>

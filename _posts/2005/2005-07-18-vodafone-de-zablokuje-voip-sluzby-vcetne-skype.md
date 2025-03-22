@@ -13,7 +13,7 @@ summary_points:
 - SFR, s 44% podílem Vodafonu, potvrdil blokování P2P a VoIP již v roce 2005.
 - Operátoři se obávají velkého provozu a preferují VoIP organizované operátorem.
 - Blokování aplikací operátorem vyvolává otázky o souladu s evropským právem.
-title: 'Vodafone DE zablokuje VoIP služby včetně Skype
+title: "'Vodafone DE zablokuje VoIP služby včetně Skype"
 
   '
 ---

@@ -14,7 +14,7 @@ summary_points:
   kolabuje.
 - GPRS funguje až v Antibes, dvacet kilometrů od výstaviště v Cannes.
 - Novinářka si stěžovala na pomalý internet šéfovi T-Mobile International, René Obermannovi.
-title: Konec MMS zpravodajstvi z&nbsp;Cannes
+title: "Konec MMS zpravodajstvi z Cannes"
 ---
 
 <p>

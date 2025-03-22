@@ -14,7 +14,7 @@ summary_points:
 - Nespokojenost s jídlem byla zmíněna při placení, personál se vymluvil na nového
   kuchaře.
 - Autor doporučuje v Modré Lavičce pouze thajskou kuchyni.
-title: Modrá napůl dobrá
+title: "Modrá napůl dobrá"
 ---
 
 <p>

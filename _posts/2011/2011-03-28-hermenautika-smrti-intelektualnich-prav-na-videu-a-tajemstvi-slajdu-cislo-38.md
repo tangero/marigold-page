@@ -17,7 +17,7 @@ summary_points:
   distribuce.
 - Autor sklidil úspěch s příběhem o reuploadu vlastní knihy na fóru.
 - Moderní autorské dílo spočívá v rozpoznání a šíření smysluplného obsahu z nadprodukce.
-title: Hermeneutika smrti intelektuálních práv na videu a&nbsp;tajemství slajdu číslo
+title: "Hermeneutika smrti intelektuálních práv na videu a tajemství slajdu číslo"
   38
 ---
 

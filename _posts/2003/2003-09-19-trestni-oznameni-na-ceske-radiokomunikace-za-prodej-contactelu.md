@@ -13,7 +13,7 @@ summary_points:
 - ČRa prodaly Contactel za korunu po investici 1,69 miliardy korun.
 - TDC, součást Bivideon, koupila Contactel od ČRa.
 - Miroslav Čuřín odmítá obvinění a zvažuje právní kroky.
-title: 'Trestní oznámení na České Radiokomunikace za prodej Contactelu
+title: "'Trestní oznámení na České Radiokomunikace za prodej Contactelu"
 
   '
 ---

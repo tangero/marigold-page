@@ -13,7 +13,7 @@ summary_points:
 - Domácnosti mohou získat 256/64 Kb/s bez agregace za 1499 Kč.
 - GTSL Business nabízí rychlosti až 2048/512 kbps pro firmy.
 - Nabídka GTS je transparentní ohledně parametrů služby ADSL.
-title: GTSL aneb ADSL po&nbsp;Gétéesovsku&#8230;
+title: "GTSL aneb ADSL po Gétéesovsku…"
 ---
 
 <p>

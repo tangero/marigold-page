@@ -13,7 +13,7 @@ summary_points:
 - Registrace zdarma přes Marigold s kódem MARIGOLD.
 - Akce se koná 14. září 2005 v Anděls Hotel.
 - Přednášky se zaměří na vliv 3G a Digital Rights Management.
-title: Zkušenosti z&nbsp;mobilních aplikací 3.&nbsp;generace
+title: "Zkušenosti z mobilních aplikací 3. generace"
 ---
 
 <p>Tuesday opět pořádá Bezdrátovou středu (jen se tomu už zřejmě neříká Bezdrátová středa, nikde jsem to tam nenašel napsáno) a tentokráte na téma <strong>Zkušenosti z mobilních aplikací 3. generace</strong>. Pro zájemce o akci je opět možnost se via Marigolda registrovat zdarma - stačí vyplnit do kolonky slevového kódu MARIGOLD - a ušetříte tři stovky. </p>

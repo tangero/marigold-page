@@ -14,7 +14,7 @@ summary_points:
 - Zyxel produkty zlevnily díky přesměrování na eD system, kde jsou nižší ceny.
 - SMC nabízí nejlepší ceny WiFi routerů, G verze za 2700 Kč.
 - V ČR se u 802.11a produktů 5GHz frekvence vypíná kvůli legislativě.
-title: Ceny WiFi techniky &#8211; stabilizace&#8230;?
+title: "Ceny WiFi techniky – stabilizace…?"
 ---
 
 <p>

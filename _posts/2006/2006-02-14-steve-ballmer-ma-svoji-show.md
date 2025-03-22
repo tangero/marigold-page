@@ -12,7 +12,7 @@ summary_points:
 - Steve Ballmer zahájil projev na kongresu zmínkou o svém videu a lásce k Microsoftu.
 - Sál byl přeplněný diváky, kteří seděli i na schodech.
 - Ballmer se v úvodu projevu přihlásil k oblibě telekomunikačního průmyslu.
-title: Steve Ballmer má svoji show
+title: "Steve Ballmer má svoji show"
 ---
 
 <p>"Jsem tu nováček, ale vy mne asi znáte. Minimálně jste mne viděli tancovat na tom videu na internetu a křičet, že miluju Microsoft. Ale já taky miluju telekomunikační průmysl." tak začal Steve Ballmer svoji show na kongresu. A přihlíží mu naprosto narvaný sál, lidi sedí i na schodech v uličce.

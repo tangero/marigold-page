@@ -13,7 +13,7 @@ summary_points:
 - Webraska nabízí externí GPS pro smartphony s měsíčním paušálem 300-500 Kč.
 - Vysoký paušál LBS služeb je pro občasné uživatele neekonomický.
 - Autor preferuje jednorázové platby za zjištění trasy přes operátora/WAP.
-title: Location Based Services &#8211; jsem k&nbsp;tomu skeptický
+title: "Location Based Services – jsem k tomu skeptický"
 ---
 
 <p>

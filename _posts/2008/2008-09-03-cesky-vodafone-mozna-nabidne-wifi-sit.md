@@ -17,7 +17,7 @@ summary_points:
 - Vodafone buduje WiFi síť s pomocí firmy Cuculus a uživatelů (Hotspot Host).
 - Hotspot Host získá DRIN-box pro oddělenou privátní a veřejnou WiFi síť.
 - Pokrytí Vodafone WiFi je zatím omezené, hlavně v Praze.
-title: 'Český Vodafone možná nabídne WiFi síť
+title: "'Český Vodafone možná nabídne WiFi síť"
 
   '
 ---

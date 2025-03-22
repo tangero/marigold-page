@@ -14,7 +14,7 @@ summary_points:
 - Generální licence umožňuje hromadné schvalování zařízení bez dalšího povolení ČTÚ.
 - Maximální ERP je 10 W (200 kHz kanál) nebo 1 W (širší kanál), externí antény zakázány.
 - Platnost generální licence je do 30. června 2014.
-title: ČTÚ přichází s&nbsp;návrhem generální licence pro broadband zařízení
+title: "ČTÚ přichází s návrhem generální licence pro broadband zařízení"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Sova kritizuje studii ČTÚ za míchání limitovaných a nelimitovaných variant ADSL.
 - ČTÚ nemůže kritizovat ADSL, protože by přiznalo vlastní nečinnost v minulosti.
 - Firmy se snaží obejít ADSL Telecomu instalací vlastních DSLAMů.
-title: Na jiné ADSL raději zapomeňte&#8230;?
+title: "Na jiné ADSL raději zapomeňte…?"
 ---
 
 <p>

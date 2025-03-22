@@ -13,7 +13,7 @@ summary_points:
 - Jižní Korea se umístila čtvrtá v DAI indexu, za Švédskem, Dánskem a Islandem.
 - Slovinsko je jediná postkomunistická země v nejvyšší kategorii DAI indexu.
 - Česká republika je na 39. místě v DAI indexu s hodnotou 0.66.
-title: Tak jak jsme dopadli s&nbsp;Digital Access Index (DAI)?
+title: "Tak jak jsme dopadli s Digital Access Index (DAI)?"
 ---
 
 <p>

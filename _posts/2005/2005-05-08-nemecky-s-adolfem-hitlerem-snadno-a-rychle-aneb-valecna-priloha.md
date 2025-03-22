@@ -19,7 +19,7 @@ summary_points:
   \ bramborov\xE9 nati z roku 1945."
 - "Autor doporu\u010Duje svou starou recenzi Mein Kampf, za kterou dostal obs\xED\
   lku."
-title: "N\u011Bmecky s&nbsp;Adolfem Hitlerem snadno a&nbsp;rychle (aneb v\xE1le\u010D\
+title: ""N\u011Bmecky s Adolfem Hitlerem snadno a rychle (aneb v\xE1le\u010D\"
   n\xE1 p\u0159\xEDloha)"
 ---
 

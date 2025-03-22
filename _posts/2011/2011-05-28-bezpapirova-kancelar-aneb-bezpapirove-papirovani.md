@@ -16,7 +16,7 @@ summary_points:
 - Digitalizace dokumentů (skenování, OCR) se jeví jako lákavé řešení.
 - Kvalitní skener s OCR pro češtinu je pro Mac problematický.
 - Papírové dokumenty mají paradoxně větší váhu než digitální kopie.
-title: 'Bezpapírová kancelář aneb Bezpapírové papírování
+title: "'Bezpapírová kancelář aneb Bezpapírové papírování"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Timeout traceroute ukazuje na deusystems.com, což zhoršuje prohlížení webu.
 - Dočasně zúžená propustnost sítě vysvětluje nespolehlivost CzFree.Net infrastruktury.
 - Server CzFree.Net bude upgradován na Athlon2000XP/1GB RAM pro zlepšení komfortu.
-title: 'CzFree.Net je tuhý. Naštěstí jenom web
+title: "'CzFree.Net je tuhý. Naštěstí jenom web"
 
   '
 ---

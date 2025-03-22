@@ -16,7 +16,7 @@ summary_points:
 - Setkání TechCrunch nabízí možnost potkat lidi z mezinárodního internetového prostředí.
 - Vstup na setkání TechCrunch je zdarma a koná se v hospodě.
 - Místo konání setkání TechCrunch bude upřesněno, pravděpodobně Restaurace Zvonařka.
-title: Setkání TechCrunch proběhne v&nbsp;květnu v&nbsp;Praze
+title: "Setkání TechCrunch proběhne v květnu v Praze"
 ---
 
 Tohle je milý husarský kousek. Setkání lidí kolem internetu TechCrunch <a href="http://www.techcrunch.com/2008/04/24/crunchgeartechcrunch-meet-up-in-prague-may-23/">proběhně 23. května v Praze</a>. A to je věc, která stojí za pozornost, protože narozdíl od nejrůznějších konferencí, je tohle zcela neformální setkání, kde máte šanci přijít a potkat se s lidmi z "velkého internetu" na všech možných stranách oceánů (taky všech možných).

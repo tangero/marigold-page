@@ -13,7 +13,7 @@ summary_points:
 - USA budou moci používat 20 WiFi kanálů místo dvanácti.
 - Telecom Italia buduje síť WiFi hotspotů na exponovaných místech.
 - Unstrung nabízí teze o datové propustnosti WiFi sítí.
-title: 'FCC přidělí více prostoru na 5GHz, Telecom Italia do WiFi. Propustnost WiFi
+title: "'FCC přidělí více prostoru na 5GHz, Telecom Italia do WiFi. Propustnost WiFi"
   sítí
 
   '

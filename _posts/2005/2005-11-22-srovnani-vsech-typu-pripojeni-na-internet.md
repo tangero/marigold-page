@@ -13,7 +13,7 @@ summary_points:
 - Srovnání ADSL nabídek v ČR bylo nejnáročnější částí práce.
 - Seriál vychází i online na Internet pro všechny, dva díly týdně.
 - RSS kanál Internet pro všechny nabízí pohodlné sledování článků.
-title: 'Srovnání všech typů připojení na Internet
+title: "'Srovnání všech typů připojení na Internet"
 
   '
 ---

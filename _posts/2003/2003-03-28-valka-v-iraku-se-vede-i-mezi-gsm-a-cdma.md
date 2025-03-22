@@ -13,7 +13,7 @@ summary_points:
 - CDMA celosvětově prohrává s GSM, ale USA jej prosazují z obchodních důvodů.
 - USA rozdávají "prebendy" a Irák bude mít nestandardní CDMA síť.
 - Článek na The Register sarkasticky komentuje spojení vojenské invaze a obchodu.
-title: Válka v&nbsp;Iráku se vede i&nbsp;mezi GSM a&nbsp;CDMA
+title: "Válka v Iráku se vede i mezi GSM a CDMA"
 ---
 
 <p>

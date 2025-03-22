@@ -13,7 +13,7 @@ summary_points:
 - GSM je druhá generace mobilních sítí, ale někteří v anketě chybovali.
 - Marigold zvažuje změny v uspořádání titulní stránky kvůli její délce.
 - Čtyři možnosti uspořádání Marigolda jsou v anketě k hlasování.
-title: 'Anketka: pokusil jsem se vás nachytat a&nbsp;nedali jste se'
+title: "Anketka: pokusil jsem se vás nachytat a nedali jste se"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - V ložnici bytu nepochopitelně namontovali vodovodní trubky a odpad pro kuchyň.
 - Byt má rozlohu 120 metrů čtverečních, což je v Praze velký byt.
 - Po doplacení zbytku ceny a odstranění závady se budou stěhovat.
-title: Zkontrolovali jsme nové bydlení
+title: "Zkontrolovali jsme nové bydlení"
 ---
 
 <p>

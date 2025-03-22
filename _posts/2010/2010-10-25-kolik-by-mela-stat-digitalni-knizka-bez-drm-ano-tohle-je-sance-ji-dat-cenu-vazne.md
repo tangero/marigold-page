@@ -17,7 +17,7 @@ summary_points:
 - Autor se rozhodl otestovat prodej e-knihy bez DRM za rozumnou cenu.
 - Kniha "Koncernová pětiletka" bude vydána digitálně za odhadovanou cenu 50 Kč.
 - Z prodejní ceny 50 Kč zbývá po odečtení DPH a provize portálu 25 Kč.
-title: 'Kolik by měla stát digitální knížka bez DRM (ano, tohle je šance jí dát cenu,
+title: "'Kolik by měla stát digitální knížka bez DRM (ano, tohle je šance jí dát cenu,"
   vážně)
 
   '

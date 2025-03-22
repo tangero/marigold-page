@@ -14,7 +14,7 @@ summary_points:
 - Acacia je právní společnost, která vymáhá poplatky za patenty, nikoliv vývojář.
 - Acacia požaduje 1000 dolarů za 3500 přesměrování od provozovatelů hotspotů v USA.
 - Acacia hrozí soudy a má 30 milionů dolarů na právní výdaje.
-title: Patentové šílenství s&nbsp;přesměrovací stránkou na hotspotu pokračuje
+title: "Patentové šílenství s přesměrovací stránkou na hotspotu pokračuje"
 ---
 
 <p>

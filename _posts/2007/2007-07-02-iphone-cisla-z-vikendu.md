@@ -13,7 +13,7 @@ summary_points:
 - Dražší 8GB model iPhonu koupilo 95 % zákazníků, generoval tržby 297 milionů dolarů.
 - AT&T získala 720 milionů dolarů z dvouletých smluv a 250 tisíc nových zákazníků.
 - '% Apple obchodů hlásilo vyprodáno iPhonů, hlavně dražších modelů.'
-title: iPhone &#8211; čísla z&nbsp;víkendu
+title: "iPhone – čísla z víkendu"
 ---
 
 <strong>noname píše:</strong> nechci nijak komentovat kvality či jiné velmi subjektivní dojmy které se k iPhone váží, důležitá a měřitelná jsou čísla

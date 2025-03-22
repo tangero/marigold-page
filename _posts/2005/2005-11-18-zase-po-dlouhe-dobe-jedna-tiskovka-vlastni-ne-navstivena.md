@@ -13,7 +13,7 @@ summary_points:
 - Autor bude na tiskové konferenci na straně organizátorů, nikoliv novinářů.
 - Novináři s blogem mohou žádat o pozvánku na patrick.zandl zavináč pipeline.cz.
 - UPC je mediálním partnerem akce, autor použil jejich seznam novinářů.
-title: Zase po&nbsp;dlouhé době jedna tiskovka (vlastní, ne navštívená)
+title: "Zase po dlouhé době jedna tiskovka (vlastní, ne navštívená)"
 ---
 
 <p>Spolu s Wirenode pořádáme firemní tiskovou konferenci. Ve středu, tématem jsou internetové mikroplatby a SMS. Po dlouhé době tak jdu na tiskovou konferenci na tu druhou stranu místnosti. Několik novinářů to už ocenilo poznámkou <i>"tak se konečně dozvíme, čím se živíš"</i> - nepřeháněl bych ale s optimismem, to já umím zamlžit i sobě :)</p>

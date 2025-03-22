@@ -13,7 +13,7 @@ summary_points:
 - Netgear WGT624 směrovač a WG511T PCMCIA karta budou v USA dostupné příští měsíc.
 - Směrovač Netgear WGT624 má SPI firewall, NAT, podporu VPN a čtyři ethernet porty.
 - D-Link brzy nabídne 108 Mb/s produkty díky čipové sadě Atheros, jako Netgear.
-title: Netgear jde do rychlosti 108 Mb/s
+title: "Netgear jde do rychlosti 108 Mb/s"
 ---
 
 <p>

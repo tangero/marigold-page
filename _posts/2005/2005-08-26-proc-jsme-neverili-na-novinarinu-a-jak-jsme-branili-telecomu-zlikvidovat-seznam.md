@@ -15,7 +15,7 @@ summary_points:
 - Ověřování informací je problematické, protože zdroje často záměrně pouští informace
   ven.
 - Mobil server se stavěl do role zastánce zákazníků telekomunikačních služeb.
-title: Proč jsme nevěřili na novinařinu a&nbsp;jak jsme bránili Telecomu zlikvidovat
+title: "Proč jsme nevěřili na novinařinu a jak jsme bránili Telecomu zlikvidovat"
   seznam
 ---
 

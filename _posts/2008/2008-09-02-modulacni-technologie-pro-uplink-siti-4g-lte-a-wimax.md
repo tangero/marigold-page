@@ -17,7 +17,7 @@ summary_points:
 - OFDMA přenáší data pomocí více úzkopásmových pod-nosných současně.
 - SC-FDMA rozprostírá informace přes všechny pod-nosné pomocí FFT před IFFT.
 - SC-FDMA snižuje PAPR (Peak to Average Power Ratio), což šetří baterii.
-title: Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA
+title: "Modulační technologie pro uplink sítí 4G - OFDMA versus SC-FDMA"
 ---
 
 V další části povídání o vývoji situace v mobilních datech jsem se chtěl podívat na rozvoj WiMaxu a LTE, jenže jsem si s hrůzou povšiml, že o LTE jako technologii je na Marigoldovi jen málo. Takže musíme splatit dluh. Ještě před tím, než si nové 4G technologie (LTE, WiMax a UWB) porovnáme - to asi někdy příště - tak se mrkneme na rozdíly mezi způsobem modulace signálu. 

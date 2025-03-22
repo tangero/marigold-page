@@ -14,7 +14,7 @@ summary_points:
   smlouvou.
 - Ukrajinská doména druhého řádu vyžaduje ochrannou známku, jinak .com.ua.
 - EuroDNS byl použit pro registraci většiny domén díky přehlednosti a cenám.
-title: Jen tak netově a&nbsp;pátečně o&nbsp;registraci zahraničních domén&#8230;
+title: "Jen tak netově a pátečně o registraci zahraničních domén…"
 ---
 
 <p>Včera jsem se dal do registrování jedné domény nového projektu v řadě evropských TLD. Docela mne překvapilo, jaké jsou rozdíly nejenom v cenách mezi jednotlivými registrátory <i>(tutéž doménu pořídíte běžně o třetinu dráže, ale až za desetinásobek)</i>, ale jaké jsou rozdíly v podmínkách. Například slovenskou doménu nepořídíte, pokud nejste slovenská firma nebo osoba. Dá se to obcházet tím, že si ji registrujete na nějakou místní firmu a uzavřete s ní mandátní smlouvu, tak to dělá třeba Active24, ale moc mu to nefunguje (a bohužel to není jediná věc, která mne u nich trápí).</p>

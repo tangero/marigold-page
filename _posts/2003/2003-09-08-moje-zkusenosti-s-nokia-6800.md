@@ -13,7 +13,7 @@ summary_points:
 - Emailový klient v Nokia 6800 je velmi nespolehlivý a často padá.
 - Baterie Nokia 6800 vydrží tři až čtyři dny při intenzivním používání.
 - Nokia 6800 umožňuje doinstalovat další aplikace pomocí Javy.
-title: Moje zkušenosti s&nbsp;Nokia 6800
+title: "Moje zkušenosti s Nokia 6800"
 ---
 
 <p>

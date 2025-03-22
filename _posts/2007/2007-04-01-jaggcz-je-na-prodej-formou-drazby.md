@@ -13,7 +13,7 @@ summary_points:
 - Služba Jagg.cz má zhruba 1000 uživatelů, ale potřebuje aktivní rozvoj.
 - Autor se rozhodl Jagg.cz prodat, protože má jiné priority.
 - Jagg.cz je nabízen k prodeji na Aukru s vyvolávací cenou 1 Kč.
-title: Jagg.cz je na prodej formou dražby
+title: "Jagg.cz je na prodej formou dražby"
 ---
 
 <a href="http://www.Jagg.cz">Jagg.cz</a> je zhruba rok stará služba pro ukládání a sdílení záložek, obdoba americké služby <a href="http://Del.icio.us">Del.icio.us</a>. 

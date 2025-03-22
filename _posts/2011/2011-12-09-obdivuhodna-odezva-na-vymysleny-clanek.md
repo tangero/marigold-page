@@ -16,7 +16,7 @@ summary_points:
 - Autor obdržel pozitivní i negativní reakce, včetně děkovného emailu a nabídky jízdy
   tankem.
 - Autor dochází k závěru, že snaha přizpůsobit se čtenářským očekáváním nemá smysl.
-title: 'Obdivuhodná odezva na vymyšlený článek
+title: "'Obdivuhodná odezva na vymyšlený článek"
 
   '
 ---

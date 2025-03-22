@@ -15,7 +15,7 @@ summary_points:
 - Open Handset Alliance sdružuje firmy kolem mobilů, chybí Nokia, Apple a někteří
   operátoři.
 - Google těží z pozornosti médií díky účasti na Androidu, jinak by zájem byl minimální.
-title: Androidí sny o&nbsp;mobilních telefonech
+title: "Androidí sny o mobilních telefonech"
 ---
 
 <em>Google Phone je na světě.</em> Tahle informace je známa už delší dobu, v kuloárech se šušká do omrzení. Teď vyšla oficiální informace a tak v té první větě uděláme dvě drobné korekce. Za prvé to není Google ale <a href="http://www.android.com">Android</a> a za druhé to není telefon, ale software platforma pro mobilní telefony.  Za třetí není na světě, ale to už jen tak bokem. 

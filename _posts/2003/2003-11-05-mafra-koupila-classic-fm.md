@@ -13,7 +13,7 @@ summary_points:
 - Oznámení o koupi rádia Mafra rozeslala SMS zprávou.
 - Bořík rádio pro Mafru kupoval, ale je na mateřské dovolené.
 - Zpráva o koupi rádia je pravděpodobně staršího data.
-title: Mafra koupila Classic FM
+title: "Mafra koupila Classic FM"
 ---
 
 <p>

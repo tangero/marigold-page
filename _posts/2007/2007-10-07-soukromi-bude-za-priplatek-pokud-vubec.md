@@ -13,7 +13,7 @@ summary_points:
 - Mobilní operátoři a firmy využívají SMS spam a telefonáty k propagaci služeb.
 - Uživatelé platí za ochranu soukromí a omezení reklamního spamu v mobilech.
 - 'Nerovný boj: reklama může lhát, ale kritika firem je obtížná a riskantní.'
-title: 'Soukromí bude za příplatek. Pokud vůbec.
+title: "'Soukromí bude za příplatek. Pokud vůbec."
 
   '
 ---

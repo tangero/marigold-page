@@ -14,7 +14,7 @@ summary_points:
   seznam.
 - Fayn na Invexu nezveřejnil cenu NetPhone 210.
 - Fayn nenabízí příchozí telefonní číslo, což službu činí nepoužitelnou.
-title: NetPhone 210 od Faynu
+title: "NetPhone 210 od Faynu"
 ---
 
 <p>

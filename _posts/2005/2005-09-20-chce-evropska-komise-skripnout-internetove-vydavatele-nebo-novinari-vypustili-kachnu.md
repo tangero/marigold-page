@@ -14,7 +14,7 @@ summary_points:
   internetu.
 - EK se zaměřuje na autorská práva a zodpovědnost autorů online obsahu.
 - Komise zvažuje podporu online médií, například formou digitálního papíru a e-knih.
-title: 'Chce Evropská komise skřípnout internetové vydavatele nebo novináři vypustili
+title: "'Chce Evropská komise skřípnout internetové vydavatele nebo novináři vypustili"
   kachnu?
 
   '

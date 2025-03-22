@@ -13,7 +13,7 @@ summary_points:
 - Světu sítí informuje o rozšíření Cisco Aironet o standard 802.11g.
 - Maďarsko zakázalo focení mobilními telefony na veřejných prostranstvích.
 - GlobespanVirata představila WiFi čipset PRISM Nitro MX s rychlostí 140 Mb/s.
-title: 'Drobky: VoIP, WiFi čipset na 140 Mb/s a&nbsp;další'
+title: "Drobky: VoIP, WiFi čipset na 140 Mb/s a další"
 ---
 
 <p>

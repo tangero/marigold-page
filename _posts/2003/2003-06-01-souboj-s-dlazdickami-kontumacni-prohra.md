@@ -13,7 +13,7 @@ summary_points:
 - Teoretická příprava na pokládku dlaždic kontrastovala s nedostatkem zručnosti.
 - Balkon má nerovný okraj, dlaždice se nevešly a práce byla přerušena.
 - Autor hledá firmu na dokončení pokládky dlaždic na balkoně.
-title: 'Souboj s&nbsp;dlaždičkami: kontumační prohra'
+title: "Souboj s dlaždičkami: kontumační prohra"
 ---
 
 <p>

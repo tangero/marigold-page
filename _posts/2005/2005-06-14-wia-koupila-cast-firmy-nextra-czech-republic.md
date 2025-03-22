@@ -13,7 +13,7 @@ summary_points:
 - WIA WiFi nabízí flexibilní připojení s možností změny bodu a platby.
 - WIA používá hot-spotové řešení s garancí rychlosti CIR a MIR.
 - WIA plánuje spuštění WiMAX služeb v několika městech o prázdninách.
-title: 'WIA koupila část firmy NEXTRA Czech Republic
+title: "'WIA koupila část firmy NEXTRA Czech Republic"
 
   '
 ---

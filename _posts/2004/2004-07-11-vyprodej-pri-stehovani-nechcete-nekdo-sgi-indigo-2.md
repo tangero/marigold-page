@@ -13,7 +13,7 @@ summary_points:
 - Stroj má IRIX 6.2, R4400, 128 MB RAM a 2GB disk.
 - Chybí CD-ROM, klávesnice, myš a monitor, ale má RGB kabel.
 - Zájemci mohou posílat cenové nabídky na cokoliv zavináč marigold.cz.
-title: Výprodej při&nbsp;stěhování &#8211; nechcete někdo SGI Indigo 2?
+title: "Výprodej při stěhování – nechcete někdo SGI Indigo 2?"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Autor původně plánoval předposlední část s epilogem.
 - Délka textu autora donutila rozdělit předposlední část.
 - Autor se potýkal s obtížemi při psaní této části.
-title: 'Předpředposlední část Flotily na webu
+title: "'Předpředposlední část Flotily na webu"
 
   '
 ---

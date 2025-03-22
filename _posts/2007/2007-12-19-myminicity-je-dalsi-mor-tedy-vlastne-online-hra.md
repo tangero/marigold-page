@@ -13,7 +13,7 @@ summary_points:
 - Další linky zvyšují průmysl, dopravu, bezpečnost a další aspekty města.
 - Hra spočívá v získávání kliknutí, což vede k šíření odkazů.
 - Motion-Twin, tvůrce, těží z obrovské návštěvnosti a zobrazení stránek.
-title: MyMiniCity je další mor &#8230; tedy vlastně online hra
+title: "MyMiniCity je další mor … tedy vlastně online hra"
 ---
 
 S projektem <a href="http://www.myminicity.com">MyMiniCity</a> se už setkal nebo rychle setká kdokoliv, kdo provozuje nějaké diskusní fórum či komentáře. Tenhle projekt se už i českojazyčným internetem šíří jako mor. O co jde? 

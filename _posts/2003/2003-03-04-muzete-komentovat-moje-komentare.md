@@ -13,7 +13,7 @@ summary_points:
 - '"Zalinkovat" nabízí trvalé URL pro sdílení konkrétní zprávy.'
 - Přidán odkaz "Přidat komentář" pro možnost komentování zpráv.
 - Počet komentářů zobrazuje čtvrtý odkaz pod článkem s možností zobrazení.
-title: Můžete komentovat moje komentáře &#8230;
+title: "Můžete komentovat moje komentáře …"
 ---
 
 <p>

@@ -16,7 +16,7 @@ summary_points:
 - Flash dominuje internetovému videu, kodeky Sorenson Spark a VP6 jsou nejrozšířenější.
 - Flash MovieStar podporuje H.264, což umožňuje kvalitnější HD video v prostředí Flashe.
 - HD video naráží na nedostatek HD zdrojů a nároky na hardware uživatelů.
-title: Video HDanky pro letošní rok
+title: "Video HDanky pro letošní rok"
 ---
 
 Letošní rok bude ještě více rokem videa, než ten loňský. Soudí tak nejenom zahraniční odborníci, ale vposledku i tuzemský tisk, který asi nepřehlédl vzestup návštěvnosti Streamu. Nu a pokud se podíváte na odhady provozu soudící, že Youtube.com dělá až 40% provozu na celosvětovém internetu, začínají být úvahy o HD videu zajímavé i pro síťaře samotné. HD video znamená čtyřikrát větší kvalitu obrazu oproti klasickému SD (či po televizácku PALu), což znamená také podstatně větší soubory a tím i podstatně větší provoz. Představa, že by Youtube přešel na HD kvalitu, je tedy ze síťařského hlediska jistě zajímavá. 

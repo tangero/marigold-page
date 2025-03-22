@@ -13,7 +13,7 @@ summary_points:
 - FCC zvažuje uvolnění 56 GHz pásma jako bezlicenčního.
 - Technologie GTTD je také známá pod označením Gi-Fi.
 - Článek o GTTD technologii publikoval web GigaOm.
-title: Gigabit to the Desktop (GTTD) aneb Gi-Fi
+title: "Gigabit to the Desktop (GTTD) aneb Gi-Fi"
 ---
 
 <p>

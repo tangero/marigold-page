@@ -13,7 +13,7 @@ summary_points:
 - GnuRadio je softwarová část projektu UniversalSoftwareRadioPeripheral.
 - Projekt cílí na levný hardware SDR v ceně stovek dolarů.
 - SDR projekty se zaměřují spíše na analogový provoz než na digitální technologie.
-title: Universal Software Radio a&nbsp;GNURadio &#8211; softwarově definovatelné radio
+title: "Universal Software Radio a GNURadio – softwarově definovatelné radio"
 ---
 
 <p>

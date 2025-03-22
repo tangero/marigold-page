@@ -13,7 +13,7 @@ summary_points:
 - Zásah proti CzechTeku byl nepřiměřený hluku a dalším drobným přestupkům.
 - Náklady na policejní zásah byly vysoké a neadekvátní údajné nebezpečnosti akce.
 - Ministr Bublan nese zodpovědnost za brutalitu zásahu a měl by odstoupit.
-title: 'CzechTek 2005: policie zmlátila naše děti, nás nechá tvrdnout na ucpané dálnici
+title: "'CzechTek 2005: policie zmlátila naše děti, nás nechá tvrdnout na ucpané dálnici"
   a&nbsp;nám je to jedno&#8230;'
 ---
 

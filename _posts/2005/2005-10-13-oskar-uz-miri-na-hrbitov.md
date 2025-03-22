@@ -12,7 +12,7 @@ summary_points:
 - 'Vinohradská ulice: autor míří do servisu s notebookem.'
 - 'Pohřební služba: autor si všiml neobvyklé nabídky.'
 - 'Fotografie: článek obsahuje obrázek s neznámým obsahem.'
-title: Oskar už míří na hřbitov
+title: "Oskar už míří na hřbitov"
 ---
 
 <p>Mířímsi tak v klidu a pohodě po vinohradské, tradičně do servisu snotebookem. A co nevidím... Stylová nabídka v pohřební službě...

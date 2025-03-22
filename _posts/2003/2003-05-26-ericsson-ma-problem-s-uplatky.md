@@ -15,7 +15,7 @@ summary_points:
 - Švýcarská policie prohledává domy kvůli toku peněz přes švýcarské banky v souvislosti
   s aférou.
 - Sony Ericsson tvrdí, že nepotřebuje finanční injekci, i přes ztráty.
-title: Ericsson má problém s&nbsp;úplatky
+title: "Ericsson má problém s úplatky"
 ---
 
 <p>

@@ -18,7 +18,7 @@ summary_points:
 - Centrum a Nova chystají české videoportály podobné Youtube.
 - Internet Info s Bombou dosahuje s minimálními náklady srovnatelné výsledky jako
   N-Joy.
-title: 'Videodrobky: Joost balí klienta, On2 představuje nový kodek a&nbsp;české videomámení'
+title: "Videodrobky: Joost balí klienta, On2 představuje nový kodek a české videomámení"
 ---
 
 Přehlídka událostí z videosvěta nemůže začít ničím jiným, než oznámením, že Joost vzdal specializovaného klienta pro svou P2P televizi a napříště bude k dispozici jen plugin pro prohlížeč, samozřejmě ale také založený na P2P technologii (<a href="http://gigaom.com/2008/09/05/joost-to-kill-desktop-client/">zdroj zde</a>). Zda to lze interpretovat jako ústup Joostu ze slávy? Po pravdě, tu mu přinesl jen fakt, že mezi jeho zakladateli jsou lidé, kteří skvěle vykešovali ze Skype. Podobných projektů existuje více a všechny zatím zklamaly v zobchodování své technologie, nebo působí na specifických trzích jako Čína a Jižní Korea. Za hlavní slabinu Joostu byl považován právě desktop klient, který neměl žádnou výhodu desktop klienta a nedostatek obsahu. Ten ostatně trápí většinu legálních videoprojektů. Nu a nakonec právě zvolená technologie, protože P2P sítě pro video se zkrátka potýkají s velkou asymetrií širokopásmových přípojek. A to nejenom v Evropě. 

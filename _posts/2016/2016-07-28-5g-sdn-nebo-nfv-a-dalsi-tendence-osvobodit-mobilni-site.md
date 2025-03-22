@@ -14,7 +14,7 @@ summary_points:
 - SDN odděluje řízení sítě od hardwaru, umožňuje softwarové upgrady a nové funkce.
 - NFV virtualizuje síťové funkce na běžné servery, snižuje náklady a zjednodušuje
   provoz.
-title: '5G: SDN nebo NFV a&nbsp;další tendence osvobodit mobilní sítě'
+title: "5G: SDN nebo NFV a další tendence osvobodit mobilní sítě"
 ---
 
 <p>Kolem sítí páté generace se objevuje celá řada nových architektonických a konstrukčních přístupů. Dnešní malý náhled bude na dva významné přístupy, které se mají podílet na poklesu cen infrastruktury a do jisté míry i na “laicizaci” - tedy zjednodušení síťové infrastruktury tak, aby byla snáze obsluhovatelná. Tlak je tedy jak na capex, tak na provozní výdaje opex - to z pohledu velkého operátora. Z pohledu menších operátorů by mohlo dojít k tomu, že infrastruktura 5G jimi bude použitelná.</p>

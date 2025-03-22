@@ -13,7 +13,7 @@ summary_points:
 - Autor zaslal ČTÚ podnět ke změně číslovacího plánu pro internet.
 - ČTÚ a autor mají rozdílné pohledy na regulaci telekomunikací.
 - Autor zpochybňuje smysl číslovacího plánu pro typy služeb.
-title: 'Asi jsem fakt anarchofašistickoklerikální podivín
+title: "'Asi jsem fakt anarchofašistickoklerikální podivín"
 
   '
 ---

@@ -12,7 +12,7 @@ summary_points:
 - Cannes kongres shrnul přednášky o WiFi sítích budovaných mobilními operátory.
 - Operátoři zdražující SMS zprávy budou analyzováni na základě praktických příkladů.
 - GSM kongres v Cannes nabídl zajímavé zkušenosti s výstavbou veřejných WLAN sítí.
-title: 'Cannes 2003: Zahraniční zkušenosti s&nbsp;výstavbou veřejných WLAN sítí'
+title: "Cannes 2003: Zahraniční zkušenosti s výstavbou veřejných WLAN sítí"
 ---
 
 <p>

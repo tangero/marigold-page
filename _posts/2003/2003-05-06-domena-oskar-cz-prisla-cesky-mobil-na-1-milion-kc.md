@@ -13,7 +13,7 @@ summary_points:
 - Oskar získal doménu oskar.cz po dvou letech tahanic a soudním zablokování.
 - Oskar čekal, protože jeho doménu oskarmobil.cz navštěvovalo 485 tisíc lidí měsíčně.
 - Registrace domény Oskar.cz byla legální, firma se jmenovala Oskar s.r.o.
-title: 'Doména Oskar.cz přišla Český mobil na 1 milion Kč
+title: "'Doména Oskar.cz přišla Český mobil na 1 milion Kč"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - BBF projekt finišoval, výstupy postoupily ministerstvu k finálnímu schválení.
 - Ministerstvo ohledně BBF projektu neposkytuje informace, rozhodnutí bude brzy.
 - Noname se vrací k aktivní činnosti a omlouvá se za zanedbávání.
-title: Důvod mé absence
+title: "Důvod mé absence"
 ---
 
 <p><strong>Noname píše:</strong> Omlouvám se za svou dvoutýdenní téměř nepřítomnost na českém Internetu, měl jsem pro ni velký důvod. Tedy ne až tak velký - 51 cm, 3.1 kg těžký a jmenuje se Sofie. <small>(ne, s Patrickovým potomkem to nemá nic společného, jméno jsem převzal z DaVinci Code)</small>.</p>

@@ -13,7 +13,7 @@ summary_points:
 - Nejlevnější varianta 512/128 s 3 GB dat stojí 1097 Kč s DPH.
 - Datový limit ADSL má zajistit rovnoměrný přístup zákazníků ke službě.
 - Některé varianty DSL nabízí neomezený objem dat za vyšší cenu.
-title: Nové ceny PDSL (Parodie na DSL) od Telecomu &#8211; sleva zleva
+title: "Nové ceny PDSL (Parodie na DSL) od Telecomu – sleva zleva"
 ---
 
 <p>

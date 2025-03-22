@@ -10,7 +10,7 @@ post_excerpt: ''
 published: true
 summary_points:
 - Berdárův nástup změnil chování Telecomu k médiím na "
-title: Mediální terorismus Českého Telecomu
+title: "Mediální terorismus Českého Telecomu"
 ---
 
 <p>Že se chování Českého Telecomu vůči médiím od nástupu Gabriela Berdára změnilo, nešlo přehlédnout. Ta tam byla dřívější přátelskost, se kterou se snažilo tiskové oddělení Telecomu řešit problémy vlastní firmy v médiích. Nastoupilo něco, co bych s klidem označil za mediální terorismus. Telecom na příkaz nejvyššího bosse přes noc dospěl k mýtu o své naprosté neomylnosti a začal ji tvrdě uplatňovat. Skoro se mi to jeví, jako by výhružky médiím a novinářům se staly denním chlebem Telecomu. Napsal jste článek, který stavěl Telecom do nepříznivého světla? Očekávejte telefonát vašemu nadřízenému, jemuž se dostane kompletních (ač smyšlených) informací o tom, jak jste propojen s konkurencí a jak je neseriosní, abyste dále o Telecomu psal. V tomtéž okamžiku vypovídá u obchodního ředitele jiný zaměstnanec Telecomu smlouvu o inzerci nebo sponzoringu. </p>

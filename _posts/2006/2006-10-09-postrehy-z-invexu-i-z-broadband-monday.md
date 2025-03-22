@@ -13,7 +13,7 @@ summary_points:
 - SIPY získaly zajímavé firemní zákazníky díky unikátnímu řešení.
 - VoIP & Broadband EXPO nabízí online přenosy a panelovou diskusi.
 - Patrickova prezentace na Broadband Monday vzbudila velký zájem.
-title: Postřehy z&nbsp;Invexu i&nbsp;z&nbsp;Broadband Monday
+title: "Postřehy z Invexu i z Broadband Monday"
 ---
 
 <p><strong>Noname píše:</strong> právě končí první den Invexu i Broadband Monday, o kterých jsem tu prve informoval, takže zkusím sdělit své dojmy.</p>

@@ -18,7 +18,7 @@ summary_points:
 - Midjourney generuje obrázky z textu, autor jej používá pro grafiku a ilustrace.
 - Mem.ai jsou samoorganizující se pracovní prostory pro poznámky, doporučuje se video.
 - Descript slouží k tvorbě podcastů, umožňuje úpravy a automatický přepis do textu.
-title: Jaké AI služby používám každý den?
+title: "Jaké AI služby používám každý den?"
 ---
 
 Když už jsme u té umělé inteligence, dám vám pár tipů na AI služby, které používám prakticky na denní bázi:

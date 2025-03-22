@@ -15,7 +15,7 @@ summary_points:
 - Příběh kombinuje hledání ztraceného strýčka s historickými událostmi.
 - Autor pro knihu načetl 83 knih a konzultoval s historiky.
 - Psaní historické části autor dokončil ve Varšavě v den polské letecké tragédie.
-title: 'Tento měsíc ještě potřebuju zabít několik tisíc lidí
+title: "'Tento měsíc ještě potřebuju zabít několik tisíc lidí"
 
   '
 ---

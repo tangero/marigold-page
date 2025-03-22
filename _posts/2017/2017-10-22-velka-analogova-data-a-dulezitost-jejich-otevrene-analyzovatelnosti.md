@@ -10,7 +10,7 @@ summary_points:
 - Senzory poskytují přesná data, ale bez kontextu a emocí.
 - Porozumění datům vyžaduje vztažnou soustavu a lidské vnímání.
 - Otevřenost v analýze dat je klíčová pro jejich efektivní využití.
-title: Velká analogová data a&nbsp;důležitost jejich otevřené analyzovatelnosti
+title: "Velká analogová data a důležitost jejich otevřené analyzovatelnosti"
 ---
 
 Byl to původně marketingový buzzword americké firmy National Instruments, která se tím snažila prodat více svého počítání: <strong>Big Analog Data</strong>, Velká analogová data. NI dokládala, že firmy mají hromady dat z analogových senzorů a těm datům je třeba porozumět. Dojímavý příběh automobilu Landrover, z něhož v reálném čase padají data z pětiset senzorů a NI dodalo udělátor, díky němuž automobil jezdí. Laurin s Klementem by si mohli hlavu ukroutit údivem, že jim auto jezdilo i bez toho.

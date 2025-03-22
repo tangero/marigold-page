@@ -19,7 +19,7 @@ summary_points:
 - Facebook kritizuje Privacy Labels, obává se omezení cílení reklam.
 - Sociální sítě zablokovaly Trumpovy účty kvůli šíření nenávisti.
 - Technologické korporace čelí rostoucí regulaci a antitrustovým opatřením.
-title: Trumpa vykopli ze sociálních sítí a o polízanici, co kolem toho bude
+title: "Trumpa vykopli ze sociálních sítí a o polízanici, co kolem toho bude"
 ---
 
 Tento článek byl původně můj čtrnáctý newsletter a podcast, ale je to tak závažné téma, že jej dávám ven veřejně. Newsletter si můžete  [objednat zde](https://zandl.substack.com)  – zdá se, že letos jej budu mít věnovaný spíše regulaci a Číně, než vysloveně technologiím. A v podcastu si můžete článek  [pustit na Anchoru](https://anchor.fm/patrick-zandl/episodes/14---Trumpa-vykopli-ze-socilnch-st-a-co-to-vechno-pinese-eotetr), najít na Spotify a dalších podcast službách. O čem to bude? Především o problémech, které začínají mít technogiganti s regulací a jak se do toho s grácií sobě vlastní, nechtěně a mimochodně vlomil Trump, far-right scéna a další.

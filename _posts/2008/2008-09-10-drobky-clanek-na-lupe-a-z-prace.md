@@ -16,7 +16,7 @@ summary_points:
 - Stream nasadil novou CDN pro odbavování videí a seeking funkcionalitu.
 - Autor se od července nepodílí na vývoji webu Stream.cz.
 - Apple představil nové produkty, autor je zklamán absencí nových počítačů.
-title: 'Drobky: článek na Lupě a&nbsp;z&nbsp;práce'
+title: "Drobky: článek na Lupě a z práce"
 ---
 
 Na Lupě vyšel <a href="http://www.lupa.cz/clanky/datovy-triumvirat-4g-lte-umb-a-wimax/">můj článeček věnovaný vývoji kolem 4G technologií</a>, jako je LTE, UMB a WiMax. Je obsáhlejší, zájemcům o problematiku zejména ve světle <a href="http://mobil.idnes.cz/t-mobile-v-cesku-standardni-3g-sit-nepostavi-zameri-se-na-lte-pqz-/mob_operatori.asp?c=A080909_110519_mob_operatori_jm">posledního prohlášení T-Mobile</a> o vynechání 3G a přechodu rovnou na LTE (o tom někdy příště) jej doporučuji. Pod článkem do mne někdo hustí, že jsem nezalinkoval zdroj obrázků a tabulky (což nešlo, já to měl v mailovém PDF), ale že jsem pitomě přeložil Fractional Frequency Reuse jako "částečné znovuvyužití frekvencí", to dotyčnému nevadilo. 

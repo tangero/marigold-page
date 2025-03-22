@@ -16,7 +16,7 @@ summary_points:
   pro zpětný.
 - Video on Demand má do masového nasazení daleko kvůli technickým, právním a cenovým
   problémům.
-title: Broadband není broadcast
+title: "Broadband není broadcast"
 ---
 
 <p>

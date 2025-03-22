@@ -15,7 +15,7 @@ summary_points:
 - Týden po odchodu Balšínka ztratil kvalitu a nabízí povrchní témata.
 - Respekt si autor oblíbil pro chytré články s odlišnými pohledy.
 - Víkend zaujal originálním obsahem pro specifické čtenáře.
-title: 'Časopisecké nálady na předzpoplatněném trhu
+title: "'Časopisecké nálady na předzpoplatněném trhu"
 
   '
 ---

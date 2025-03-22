@@ -13,7 +13,7 @@ summary_points:
 - Pořady Českého Rozhlasu lze stahovat jako podcast pomocí specifického RSS.
 - Podcast RSS čtečky automaticky stahují MP3 soubory a umožňují synchronizaci s přehrávači.
 - Doppler a iPodder jsou populární podcast čtečky s mnoha podcast zdroji.
-title: První český podcast &#8211; Český Rozhlas
+title: "První český podcast – Český Rozhlas"
 ---
 
 <p>Český Rozhlas má první český podcast, pokud nepočítám ten pokus, co jsem měl na Lupě. Abych byl přesnější tak fakt, že jde o podcast, je zásluhou Daniela Pedéra, nikoliv samotného ČRo, tomu ale patří obsah vytvářený v MP3.</p>

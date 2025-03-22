@@ -13,7 +13,7 @@ summary_points:
 - WiFi může mírně podražit nebo být omezeně dostupná kvůli produkčním omezením.
 - Linksys slíbil upgrade firmware pro 802.11g produkty na schválenou normu.
 - Cinetik pilotní testy byly spuštěny, autor se věnuje ladění chyb.
-title: 'SARS ohrožuje výrobu WiFi, Linksys přísahal na 802.11g upgrade, Cinetik na
+title: "'SARS ohrožuje výrobu WiFi, Linksys přísahal na 802.11g upgrade, Cinetik na"
   startu
 
   '

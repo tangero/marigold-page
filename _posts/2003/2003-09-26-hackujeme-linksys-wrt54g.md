@@ -13,7 +13,7 @@ summary_points:
 - Úpravy WRT54G vyžadují zálohu flash paměti pro případ selhání.
 - WRT54G lze vylepšit o logování přístupů a úvodní stránku.
 - Linksys zveřejnil zdrojové kódy Linuxu pro WRT54G po kritice.
-title: Hackujeme Linksys WRT54G
+title: "Hackujeme Linksys WRT54G"
 ---
 
 <p>

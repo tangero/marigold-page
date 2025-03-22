@@ -13,7 +13,7 @@ summary_points:
 - Struktura blogu dle PC Magazine obsahuje prvky jako kalendář, RSS, profil autora.
 - PC Magazine nebere strukturu dogmaticky, popisuje typické prvky úspěšných blogů.
 - Principem většiny blogů je "vykrádat" a porovnávat cizí myšlenky.
-title: Struktura weblogu
+title: "Struktura weblogu"
 ---
 
 <p>

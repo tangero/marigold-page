@@ -17,7 +17,7 @@ summary_points:
 - CeBIT 2005 se stal místem sporu Ballmera (Microsoft) a Garanga o UI.
 - Garangova smrt, infarkt, vyvolala konspirace a protimicrosoftí vlnu.
 - Borland s neurogramingem částečně posunul vývoj, ale limitu nepřekonal.
-title: Garangova limita
+title: "Garangova limita"
 ---
 
 Povídka na téma umělé inteligence a problémů s ní spojených. Pomezí sci-fi a sociologické eseje :)

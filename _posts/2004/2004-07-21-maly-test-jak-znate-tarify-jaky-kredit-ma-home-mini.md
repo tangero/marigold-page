@@ -13,7 +13,7 @@ summary_points:
 - Telecom v letácích srovnával svůj tarif s voláním přes Tele2.
 - Uživatelé Home Standard dle Tele2 neprovolají celý kredit.
 - Článek se ptá na výši kreditu tarifu Home Mini Českého Telecomu.
-title: Malý test, jak znáte tarify &#8211; jaký kredit má Home Mini?
+title: "Malý test, jak znáte tarify – jaký kredit má Home Mini?"
 ---
 
 <p>

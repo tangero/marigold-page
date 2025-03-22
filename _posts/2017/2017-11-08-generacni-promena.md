@@ -10,7 +10,7 @@ summary_points:
 - Obchodníci a vývojáři často podceňují jeho znalosti a vnucují mu svá řešení.
 - Autorovi vadí vnucování moderních trendů bez respektování jeho specifických požadavků.
 - Nepříjemná je i nepřipravenost obchodníků, kteří si nezjistí informace o klientovi.
-title: Generační proměna
+title: "Generační proměna"
 ---
 
 <p>Ta generační proměna je zajímavá věc. Narážím teď na ni. Je mi přes čtyřicet. S počítači dělám od deseti let, v malíku mám věci jako Commodore 64, Amigu, STčko nebo XT a DR-DOS. Poslední programovací jazyk, který jsem fakt intenzivně používal se jmenoval Fortran (Assembler nepočítám). S internetem jsem začal v roce 1992 a zažil jsem všechno možné i nemožné. Začali jsme dělat první weby, první reklamu, první mobilní aplikace, vyvíjel jsem chytré mobily ještě než byly chytré. Snad to nezní neskromně, když řeknu, že o internetu a telekomunikacích mám slušný povrchní přehled.</p>

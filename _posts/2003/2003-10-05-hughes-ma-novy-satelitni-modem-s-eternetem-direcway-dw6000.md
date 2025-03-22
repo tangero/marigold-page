@@ -13,7 +13,7 @@ summary_points:
 - DW6000 nepotřebuje pro první nastavení jiné internetové připojení.
 - DirecWay je solidní služba pro lokality s omezenými možnostmi připojení.
 - Cena DW6000 pro USA je 600 USD.
-title: Hughes má nový satelitní modem s&nbsp;eternetem DirecWay DW6000
+title: "Hughes má nový satelitní modem s eternetem DirecWay DW6000"
 ---
 
 <p>

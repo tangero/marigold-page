@@ -13,7 +13,7 @@ summary_points:
 - Mobilní hry budou tématem panelu moderovaného na Bezdrátové středě za dva týdny.
 - Weblog Vúčako od Kamojedova se věnuje technologii CDMA na českém internetu.
 - Internet v práci konečně funguje po výměně ISP a problémech s routerem.
-title: CDMA weblog a&nbsp;jiné nóvosti
+title: "CDMA weblog a jiné nóvosti"
 ---
 
 <p>

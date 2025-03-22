@@ -13,7 +13,7 @@ summary_points:
 - Film Čtyři psi hrají poker byl po dlouhé době kvalitní.
 - Nový web Cinetiku je tvořený CSS, ale není validní.
 - Autor řeší expediční sestavy a tisk adres na obálky.
-title: Cinetik migroval, jabadabadů&#8230;
+title: "Cinetik migroval, jabadabadů…"
 ---
 
 <p>

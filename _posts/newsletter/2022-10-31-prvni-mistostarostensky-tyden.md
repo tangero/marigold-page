@@ -22,7 +22,7 @@ summary_points:
   dáno.
 - Víkend strávil přechodem Lužických hor, což mu poskytlo odpočinek od pracovního
   frmolu.
-title: První místostarostenský týden
+title: "První místostarostenský týden"
 ---
 
 Rozhodl jsem se, že na Facebooku budu pravidelně každý týden zveřejňovat týdenní místostarostenské zúčtování, ale přeci jen se budete muset tu a tam smířit s tím, že informace o mém místostarostování proniknou do newsletteru. Přeci jen tím teď dost žiju. 

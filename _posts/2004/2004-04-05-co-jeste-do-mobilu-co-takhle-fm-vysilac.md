@@ -13,7 +13,7 @@ summary_points:
 - Sandeep navrhuje FM vysílač v mobilu pro vysílání hudby nebo hovorů.
 - iTrip je FM vysílač pro iPod, umožňující bezdrátové přehrávání hudby.
 - FM vysílání z mobilu je v České republice nelegální.
-title: Co ještě do mobilu? Co takhle FM vysílač&#8230;
+title: "Co ještě do mobilu? Co takhle FM vysílač…"
 ---
 
 <p>

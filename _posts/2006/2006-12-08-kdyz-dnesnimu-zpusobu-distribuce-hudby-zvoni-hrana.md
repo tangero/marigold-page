@@ -13,7 +13,7 @@ summary_points:
 - Stát podlehl lobbingu a zavedl presumpci viny v autorském právu.
 - Vydavatelé neinovují distribuci hudby digitálně, deformují trh.
 - Výrobci mobilů se účinně bránili poplatkům, na rozdíl od občanů.
-title: 'Když dnešnímu způsobu distribuce hudby zvoní hrana
+title: "'Když dnešnímu způsobu distribuce hudby zvoní hrana"
 
   '
 ---

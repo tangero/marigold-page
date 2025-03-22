@@ -12,7 +12,7 @@ summary_points:
 - 'MobilKom si 12.2.2007 přihlásil tři značky: U-fon, U : fon a Ufon.'
 - Značka zeleného mužíka s anténkama nebyla firmou MobilKom přihlášena.
 - Název U-fon odkazuje na telefon, nikoliv na zeleného mužíka.
-title: MobilKom síť bude možná U-fon
+title: "MobilKom síť bude možná U-fon"
 ---
 
 <texy>Na Lupě se podívali do databáze Úřadu průmyslového vlastnictví, copak si zajímavého registrovala firma MobilKom - v souvislosti s přípravou své mobilní sítě. A vida, mají hned tři značky přihlášené od 12.2.2007: U-fon, U : fon a Ufon. 

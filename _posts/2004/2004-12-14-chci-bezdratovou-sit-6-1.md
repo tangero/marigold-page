@@ -13,7 +13,7 @@ summary_points:
 - Retranslace spojuje místa bez přímé viditelnosti pomocí retranslačního bodu.
 - Retranslace mohou být jednoduché (A→R→B) nebo vícenásobné (A→R→S→T→B).
 - Retranslace se dělí na pasivní (odraz signálu) a aktivní (přístupový bod).
-title: Chci bezdrátovou síť (6.1)
+title: "Chci bezdrátovou síť (6.1)"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041214-retranslace.gif" alt="Retranslace" width="250" height="156" /></div><p>

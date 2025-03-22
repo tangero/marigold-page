@@ -13,7 +13,7 @@ summary_points:
 - Český Telecom buduje hotspoty bez zabezpečení a s mizerným pokrytím.
 - CzFree.Net, celorepublikové hnutí, v článku o WiFi sítích chybí.
 - T-Mobile zvažuje budování WiFi sítí, ale výsledek je nejistý.
-title: 'Telecom má prý WiFi síť, na WIA se ale zapomnělo
+title: "'Telecom má prý WiFi síť, na WIA se ale zapomnělo"
 
   '
 ---

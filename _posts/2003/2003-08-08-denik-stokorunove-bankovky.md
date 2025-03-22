@@ -12,7 +12,7 @@ summary_points:
 - Deník stokorunové bankovky je nový weblog s postřehy bankovky.
 - Globální náhled na Hlavě řadí příspěvky českých weblogů chronologicky.
 - Bloguje.cz hostí Deník stokorunové bankovky s dosud dvěma příspěvky.
-title: Deník stokorunové bankovky
+title: "Deník stokorunové bankovky"
 ---
 
 <p>

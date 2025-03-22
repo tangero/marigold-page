@@ -13,7 +13,7 @@ summary_points:
 - Klaus obhajuje privatizaci jako úspěšnou, ignoruje její negativní dopady.
 - Klausismus odstranil dialog z politiky, vedl k politickému marasmu.
 - Klausova ekonomická vize ignorovala morálku a společenské dopady.
-title: 'Václav Klaus nám přinesl více, než jen supermarkety (původně recenze knihy)
+title: "'Václav Klaus nám přinesl více, než jen supermarkety (původně recenze knihy)"
 
   '
 ---

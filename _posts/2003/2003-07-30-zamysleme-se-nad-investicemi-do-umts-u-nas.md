@@ -13,7 +13,7 @@ summary_points:
 - Eurotel zvažuje levnější technologie jako EDGE a CDMA místo UMTS.
 - Oskar nemá finanční prostředky a nevidí v UMTS výnosný byznys.
 - Radiomobil šetří a sleduje konkurenci kvůli finanční situaci T-Mobile.
-title: Zamysleme se nad investicemi do UMTS u&nbsp;nás&#8230;
+title: "Zamysleme se nad investicemi do UMTS u nás…"
 ---
 
 <p>

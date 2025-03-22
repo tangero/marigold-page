@@ -14,7 +14,7 @@ summary_points:
 - Stratellite má solární panely, GPS stabilizaci a údajně pokryje až 500 000 km2.
 - Technologie SansWire je nejasná, ale má používat 802.11 standard pro příjem signálu.
 - Autor je skeptický, ale SansWire prý má funkční prototyp a přesvědčivé argumenty.
-title: 'Broadband ze stratosférických balónů: SansWire a&nbsp;jeho Stratellite'
+title: "Broadband ze stratosférických balónů: SansWire a jeho Stratellite"
 ---
 
 <p>

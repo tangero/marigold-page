@@ -15,7 +15,7 @@ summary_points:
 - Životaschopné startupy je obtížné najít, naivní představy jsou houževnatě hájeny.
 - Marketing, obchod a substituce produktu jsou důležitější než samotný produkt.
 - Čeští startupisté často nemají rozmyšlený model financování a jeho úskalí.
-title: Startupy na vrcholu hype křivky
+title: "Startupy na vrcholu hype křivky"
 ---
 
 Podívat se do tváře českým startupům chce v poslední době stále více odvahy. Spolu s tím, jak o “startupy” začal být zájem nejenom mediální, ale i investiční, se staly samy o sobě produktem, tedy došly do stavu, kdy není třeba vygenerovat produkt startupu a ten úspěšně zhodnotit, ale sám startup je produktem, který je zhodnocen. Vypadá to, jako formální, drobná změna, nicméně toto posunutí zhodnocení o jeden krok také znamená, že z onoho zhodnocení vypadají všichni po tomto kroku následující, například investoři. A to je (minimálně pro ně) špatná zpráva. 

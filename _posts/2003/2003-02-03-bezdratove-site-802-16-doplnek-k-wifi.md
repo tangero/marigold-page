@@ -13,7 +13,7 @@ summary_points:
 - Standard 802.16 má doplňovat WiFi, ne s ní konkurovat.
 - Autor plánuje navštívit přednášku o MAN sítích v Cannes.
 - Autor bude informovat o přednášce na 3G kongresu.
-title: Bezdrátové sítě 802.16 &#8211; doplněk k&nbsp;WiFi
+title: "Bezdrátové sítě 802.16 – doplněk k WiFi"
 ---
 
 <p>

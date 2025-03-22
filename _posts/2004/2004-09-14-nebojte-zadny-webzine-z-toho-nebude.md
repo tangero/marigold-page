@@ -13,7 +13,7 @@ summary_points:
 - Marigold zůstane osobním blogem, ne webzinem s více autory a tématy.
 - Kolaborativní blogy ztrácejí koherenci a čtenářskou orientaci, uvádí příklady.
 - Autor nevěří v přerod blogů na webziny, ale postrádá český Slashdot.
-title: Nebojte, žádný webzine z&nbsp;toho nebude&#8230;
+title: "Nebojte, žádný webzine z toho nebude…"
 ---
 
 <p>

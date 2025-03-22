@@ -13,7 +13,7 @@ summary_points:
 - Pásmo 116-130 GHz o šířce 14 GHz bylo nalezeno jako potenciálně vhodné.
 - Optický spoj na 120 GHz dosáhl rychlosti 10 Gb/s na vzdálenost 1 km.
 - Technologie má limitace kvůli nedostatku součástek pro dané frekvence.
-title: Bezdrátové sítě v&nbsp;pásmu 120 GHz
+title: "Bezdrátové sítě v pásmu 120 GHz"
 ---
 
 <p>Už dlouho jsem nepsal na Marigoldu nic o nějakém čarodějném

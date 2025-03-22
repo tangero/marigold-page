@@ -15,7 +15,7 @@ summary_points:
   určitých zónách.
 - Push to talk over Cellular (PoC) specifikace pro 3G sítě umožní celosvětové PTT
   hovory.
-title: RSS na mobil via IMAP. Skype &#8211; P2P telefonování. Zony bez videotelefonů.
+title: "RSS na mobil via IMAP. Skype – P2P telefonování. Zony bez videotelefonů."
   PTT je zase blíž.
 ---
 

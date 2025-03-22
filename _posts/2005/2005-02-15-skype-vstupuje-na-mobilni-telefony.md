@@ -13,7 +13,7 @@ summary_points:
 - Motorola podepsala dohodu se Skype pro integraci do mobilů.
 - VoIP fenomén bude diskutován na přednáškách v Cannes.
 - Telekomunikační společnosti se obávají nástupu Skype volání.
-title: Skype vstupuje na mobilní telefony
+title: "Skype vstupuje na mobilní telefony"
 ---
 
 <p>Zatím byl Skype jen na osobních počítačích a PDA. Včera dopoledne

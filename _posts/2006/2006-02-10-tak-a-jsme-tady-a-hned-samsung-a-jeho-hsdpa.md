@@ -13,7 +13,7 @@ summary_points:
 - Elektronický ticket nebyl problém, vytištěná verze byla ale preventivně užitečná.
 - Agentura zajistila odvoz z letiště, takže se cestující vyhnuli místní dopravě.
 - V úterý bude prezentován nový systém pro mobilní blogování.
-title: Tak a&nbsp;jsme tady a&nbsp;hned Samsung a&nbsp;jeho HSDPA
+title: "Tak a jsme tady a hned Samsung a jeho HSDPA"
 ---
 
 <p>Dorazili jsme na místo určení. Elektronický ticket se neukázal být problémem, stačilo mít jej preventivně vytištěny. Barcelona si hodlá letošní kongres hezky užít a už při východu z letiště je tu hromada reklam na novinky, které máme teprve spatřit. Příkladem může být vyfocený Samsung který nabízí podporu hsdpa. Co dalšího nabízí se dozvíme za pár dní. Agentura, která nám zajistila ubytování, nám také zařídila odvoz, takže už jedeme se ubytovat bez noření se do místní veřejné dopravy. A během toho píšu. Což mi připomíná, že v úterý mi někdo chce presentovat systém na mobilní blogování. Tak jsem zvědavý, o co bude lepší než tohle udělátko...

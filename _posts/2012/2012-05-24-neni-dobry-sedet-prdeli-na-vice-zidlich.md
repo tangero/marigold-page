@@ -15,7 +15,7 @@ summary_points:
 - Obchodník s projekt manažerem halasně zdraví autora na recepci.
 - Autoři si myslí, že autor přišel doladit jejich projekt pro firmu.
 - Šéf společnosti slyšel omylem konverzaci o projektu.
-title: 'Není dobrý sedět prdelí na více židlích
+title: "'Není dobrý sedět prdelí na více židlích"
 
   '
 ---

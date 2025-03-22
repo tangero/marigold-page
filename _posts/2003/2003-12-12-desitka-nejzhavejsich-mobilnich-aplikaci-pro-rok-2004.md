@@ -14,7 +14,7 @@ summary_points:
 - VoIP telefony s WiFi umožňují přenos zvuku po bezdrátových sítích.
 - Moblogy umožňují psaní blogů na cestách pomocí MMS zpráv.
 - Článek vyzývá k navrhování cool aplikací a trendů pro rok 2004.
-title: 'Desítka nejžhavějších mobilních aplikací pro rok 2004
+title: "'Desítka nejžhavějších mobilních aplikací pro rok 2004"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - MobilMania zveřejnila článek Martina Zikmunda o souboji UMTS a WiFi.
 - Článek tvrdí, že UMTS a WiFi budou existovat vedle sebe.
 - Electronic News publikoval článek "The Real Wi-Fi and Centrino Experience".
-title: 'Centrino půl roku od podpory 802.11a, UMTS versus WiFi
+title: "'Centrino půl roku od podpory 802.11a, UMTS versus WiFi"
 
   '
 ---

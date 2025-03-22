@@ -13,7 +13,7 @@ summary_points:
 - Ethernet kabeláž přes byt komplikuje instalaci venkovní antény a zprovoznění WiFi.
 - Montáž antény z venku vyžaduje vystěhování pokoje a zpřístupnění okna.
 - Autor WiFi síť s externí anténou zatím nezprovoznil kvůli komplikacím s instalací.
-title: 'I doma se schyluje ke kloudné WiFi síti
+title: "'I doma se schyluje ke kloudné WiFi síti"
 
   '
 ---

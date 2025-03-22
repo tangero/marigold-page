@@ -13,7 +13,7 @@ summary_points:
 - Eurotel zjistil, že Nokia nenabízí řešení pro pásmo 450 MHz.
 - Eurotel nakoupil CDMA2000 EV-DO od Nortelu pro pásmo 450 MHz.
 - Autor spekuluje o CDMA2000 pro 3G pásmo Eurotelu, ale vidí integraci problematicky.
-title: CDMA sága v&nbsp;technoreflexi
+title: "CDMA sága v technoreflexi"
 ---
 
 <p>

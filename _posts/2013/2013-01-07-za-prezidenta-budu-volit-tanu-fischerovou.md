@@ -17,7 +17,7 @@ summary_points:
 - Autor škrtal Zemana, Fischera a Schwarzenberga kvůli morálním pochybnostem.
 - Táňu Fischerovou autor volí pro její spravedlnost a morální zásady.
 - Autor preferuje "zahodit" hlas, než volit menší zlo ve druhém kole.
-title: 'Za prezidenta budu volit Táňu Fischerovou
+title: "'Za prezidenta budu volit Táňu Fischerovou"
 
   '
 ---

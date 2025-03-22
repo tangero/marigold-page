@@ -17,7 +17,7 @@ summary_points:
 - 5. Státní správa vyžaduje jiný přístup než soukromé firmy.
 - 6. Ztráta hodnoty Twitteru souvisí s inzerenty
 thumbnail: https://www.marigold.cz/assets/elon-musk-doge-trump.png
-title: Elon Musk ministrem efektivity
+title: "Elon Musk ministrem efektivity"
 ---
 
 V souvislosti s novým Trumpovým americkým [Ministerstvem vládní efektivity](https://www.bbc.com/news/articles/cpqd4vw0ejeo) se teď často zmiňuje, jak Musk koupil Twitter, všechny vyházel a pak je zase přijímal. 

@@ -13,7 +13,7 @@ summary_points:
 - GTS kopíruje Telecom výstavbou "středoevropské sítě" bez zbytečného humbuku.
 - Kapacita sítě 40 x 2,5 Gb/s je možná přehnaná, reálnější je 2 x 2,5 Gb/s.
 - Autor spekuluje o možném třetím krachu GTS kvůli vysokým investicím.
-title: Tlustosítě opět v&nbsp;kursu
+title: "Tlustosítě opět v kursu"
 ---
 
 <p>

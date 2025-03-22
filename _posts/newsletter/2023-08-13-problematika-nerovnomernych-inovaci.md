@@ -16,7 +16,7 @@ summary_points:
 - Produktivitu omezuje nejslabší článek v inovačním řetězci, nikoliv dílčí pokroky.
 - Úspěch nové technologie závisí na tempu inovací v celém potřebném segmentu.
 - Elektromobily a AGI ukazují, že širší záběr inovací vyžaduje delší čas etablování.
-title: Problematika nerovnoměrných inovací
+title: "Problematika nerovnoměrných inovací"
 ---
 
 Tohle je jen vztáhnutí problému úzkého hrdla do makroekonomiky. Zjednodušeně řečeno je potřeba, aby inovace probíhaly rovnoměrně. Nemělo by význam vynalézt spalovací motor, když dejme tomu nemáte vynalezené palivo nebo třeba technologii zpracování kovů, ze kterých je motor sestaven. Tohle se v běžné životě stává: použitelný mobilní internet přišel na trh v roce 2007 s prvním iPhonem, ačkoliv internet i mobily byly v té době dávno známé, jen bylo potřeba dodělat některé technologie tak, aby byly masově vyrobitelné a použitelné. 

@@ -17,7 +17,7 @@ summary_points:
 - Pixy článek o autorských právech bez výhrad publikoval a podepsal.
 - Autor vyzývá k šíření a přebírání článku o autorských právech.
 - Kritik Piky navrhuje kopírováním článku dokázat autorův omyl.
-title: Bo tak to má byt
+title: "Bo tak to má byt"
 ---
 
 Život jsou někdy i příjemná překvapení. Očekával jsem citelně menší podporu článku věnovanému intelektuálním právům. Přeci jen v dnešní společnosti je těžké hovořit o zásadních změnách, natož v oblasti, kde každý cítí, že jest povolán mít názoru, což vyvozuje z toho, že na disk si uložil pár písniček v MP3. Ale co už, nebýval jsem jiný. 

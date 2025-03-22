@@ -12,7 +12,7 @@ summary_points:
 - Mesh sítě získávají popularitu, což potvrzuje i zájem a prototyp Intelu.
 - Proxim rozšířil řadu Tsunami o model MP-11 pro venkovní WiFi propojení.
 - Tsunami MP-11 je určeno pro propojení vzdálených bodů ve venkovním prostředí.
-title: 'Také Intel se chlubí mesh sítí, Proxim dal na trh nová outdoor APčka
+title: "'Také Intel se chlubí mesh sítí, Proxim dal na trh nová outdoor APčka"
 
   '
 ---

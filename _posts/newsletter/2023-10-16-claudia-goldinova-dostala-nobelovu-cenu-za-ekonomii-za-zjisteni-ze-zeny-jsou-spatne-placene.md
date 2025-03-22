@@ -20,7 +20,7 @@ summary_points:
 - Goldinová zkoumala vliv technologií, vzdělání a společenských norem na nerovnosti
   mezd.
 - Budoucí nerovnosti ovlivní trendy jako AI, práce z domova a délka rodičovské dovolené.
-title: Claudia Goldinová dostala Nobelovu cenu za ekonomii za zjištění, že ženy jsou
+title: "Claudia Goldinová dostala Nobelovu cenu za ekonomii za zjištění, že ženy jsou"
   špatně placené?
 ---
 

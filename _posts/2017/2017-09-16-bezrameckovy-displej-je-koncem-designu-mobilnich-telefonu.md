@@ -10,7 +10,7 @@ summary_points:
 - Všechny moderní mobily vypadají podobně, inspirovány iPhonem.
 - Face ID od Apple je výrazně pokročilejší než konkurenční řešení.
 - Budoucnost mobilů bude v interních funkcích, nikoli ve vzhledu.
-title: 'Bezrámečkový displej je koncem designu mobilních telefonů
+title: "'Bezrámečkový displej je koncem designu mobilních telefonů"
 
   '
 ---

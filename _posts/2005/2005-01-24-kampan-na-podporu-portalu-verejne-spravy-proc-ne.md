@@ -14,7 +14,7 @@ summary_points:
 - Portál veřejné správy se zlepšil a poskytuje informace o řešení životních situací.
 - Kampaň by měla oslovit lidi, kteří portál neznají a mohli by ho využít.
 - Autor navrhuje integraci databáze portálu do Seznamu nebo SMS kampaň.
-title: Kampaň na podporu portálu veřejné správy &#8211; proč ne?
+title: "Kampaň na podporu portálu veřejné správy – proč ne?"
 ---
 
 <p>Na Lupě vyšla kratičká noticka o tom, že Ministerstvo informatiky vypisuje výběrobé řízení na kampaň na podporu veřejné správy. Předpokládá se, že to bude kampaň za deset milionů a T. Hodboď ihned předpokládá,, že to budou vyhozené peníze. Toho se chytil blogující poslanec za ODS Z. Novotný (<a href="http://www.zbyneknovotny.cz/a.asp?a=2004138&amp;db=100">zde</a>)a přizvukuje, protože ODS je proti čemukoliv, co Mlynář udělá. Oba pánové stahují kalhoty a brod je daleko.</p>

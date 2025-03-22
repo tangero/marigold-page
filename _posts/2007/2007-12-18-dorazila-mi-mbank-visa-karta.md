@@ -13,7 +13,7 @@ summary_points:
 - Karta není aktivní ihned, aktivace vyžaduje internetové bankovnictví a SMS autorizaci.
 - PayPal platby s kartou mKontu zatím neotestovány, internetové limity jsou nulové.
 - Karta je neembosovaná, bez čipu, s delfínem, vzhledově nenadchne, ale má fungovat.
-title: Dorazila mi mBank Visa karta
+title: "Dorazila mi mBank Visa karta"
 ---
 
 Ačkoliv mne varovali, že mi platební karta mBank dorazí někdy  v půlce ledna, dorazila teď. Dneska. Obyčejným dopisem, který jsem málem automaticky hodil do koše, protože ho posílala polská firma a byl barevný (ergo podezření na letáky). Naštěstí jsem si dřív všiml, že mBank, takže jsem to pro jistotu otevřel. 

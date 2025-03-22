@@ -13,7 +13,7 @@ summary_points:
 - Děda autora po slabším infarktu preferuje papírové dopisy před e-maily.
 - Dita žádá o americké vízum a musí vyplnit obsáhlý formulář a doložit výpis z účtu.
 - Telecom navrhuje slušnou dividendu, což autora jako akcionáře těší.
-title: Tak porůznu&#8230;
+title: "Tak porůznu…"
 ---
 
 <p>

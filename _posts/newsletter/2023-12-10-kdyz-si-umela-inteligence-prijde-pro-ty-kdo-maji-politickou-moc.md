@@ -17,7 +17,7 @@ summary_points:
   inteligencí.
 - Neupřímnost vedení OpenAI ohledně odvolání Altmana znepokojuje v souvislosti s dopady
   AI.
-title: Když si umělá inteligence přijde pro ty, kdo mají politickou moc…
+title: "Když si umělá inteligence přijde pro ty, kdo mají politickou moc…"
 ---
 
 V západní společnosti jev popisuje Thomas Piketty a Amory Gethin, pařížská ekonomická škola, když dokladují postupné vymizení politické reprezentace zájmů dělnické a nižší středostavovské třídy, které je v příkrém protikladu vůči počtu členů této třídy ve společnosti. Piketty s Gethinem dokazují, že tato třída je příliš snadno nahraditelná, neorganizovaná, málo majetná a tudíž pro politiky zbytečná. Navíc touhou této společenské třídy je, aby “to bylo, jako dříve”, kdy jejich pozice byly společensky respektované a dobře placené, což se za prvé vpravděpodobně nevrátí a za druhé politicky i ekonomicky program návratu a zatuchlosti není něco, z čeho by se dalo aktivně společensky či politicky těžit. Proto se těchto výzev chytají jen protisystémové síly, které konzervaci stavu neváhají nabídnout a nezatěžují se tím, že to již dnes není možné. 

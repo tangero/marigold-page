@@ -13,7 +13,7 @@ summary_points:
 - Doprava do Kunratic je možná autem sjezdem z dálnice na Brno směrem na Jesenici.
 - Autobus ze stanice Kačerov je další možností dopravy do Kunratic.
 - Otevírací doba jahodáren o svátcích je nejistá, ale pravděpodobně budou otevřeny.
-title: Jahodový tip pro pražáky
+title: "Jahodový tip pro pražáky"
 ---
 
 <p>Ne každý v Praze má dostatečný přísun něčeho tak skvělého a letního, jako jsou jahody. Takže malý tip pro ty, kdož to ještě nevědí. V Kunraticích jsou velké jahodové plantáže s možností samosběru (za penízky) jahod, cena variabilní, naposledy jsem tam viděl 19 Kč. 

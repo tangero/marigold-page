@@ -13,7 +13,7 @@ summary_points:
 - Služba chce individuálně komunikovat se zákazníky a finančně podporovat rozvoj sítí.
 - Web nabízí katalog, návody, informace o Wi-Fi a únorové slevy/výhry.
 - Celorepublikový web může být nebezpečný pro malé, nedůvěryhodné ISP.
-title: Bezdratovepripojeni.cz &#8211; WiFi sítě k&nbsp;výběru po&nbsp;celé ČR
+title: "Bezdratovepripojeni.cz – WiFi sítě k výběru po celé ČR"
 ---
 
 <p>Došla mi tisková zpráva na službu, která se mi docela líbí a ze které nebude mít asi pár telco firem radost. Co se mi na tom líbí a zdá zajímavé? Že to vypadá, jako by šlo prakticky o jednu celorepublikovou síť. Jestli to opravdu bude fungovat tak, že si to přes tento web objednáte a oni to s lokálním poskytovatelem vyřídí, bude to vážně docela zajímavé a nebezpečné pro běžné ISP, protože hodně lidí ti malí provozovatelé matou a nedůvěřují jím. Jenže takový web s celorepublikovým pokrytím, to je něco trochu jiného :)</p>

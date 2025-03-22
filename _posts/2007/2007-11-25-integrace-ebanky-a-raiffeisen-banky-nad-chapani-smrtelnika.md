@@ -13,7 +13,7 @@ summary_points:
 - Výběr hotovosti z eBanky stál kamaráda 1000 Kč.
 - Vklad hotovosti do RB byl zpoplatněn částkou 1350 Kč.
 - Celkem stála kamaráda "integrovaná" operace 2350 Kč.
-title: Integrace eBanky a&nbsp;Raiffeisen Banky nad chápání smrtelníka
+title: "Integrace eBanky a Raiffeisen Banky nad chápání smrtelníka"
 ---
 
 Integrace eBanky s Raifkou mělo být něčím, co přinese "benefity" všem zákazníkům, tvrdil vzletný newsspeak pressmluvkinů. Praktická zkušenost kamaráda mluví o něčem jiném. 

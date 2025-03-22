@@ -13,7 +13,7 @@ summary_points:
 - Inspirací pro SKFREE je český projekt CzFree.
 - SKFREE využívá WiFi technologii pro vzájemné propojení.
 - Cílem SKFREE je jednoduché a levné propojení.
-title: 'SKFREE aneb také Slovensko chce svoji neziskovou broadband síť
+title: "'SKFREE aneb také Slovensko chce svoji neziskovou broadband síť"
 
   '
 ---

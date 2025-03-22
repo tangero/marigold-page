@@ -13,7 +13,7 @@ summary_points:
 - Marigold blog je navštěvovaný, ačkoliv jeho téma není všem jasné.
 - Odborné blogy mimo webdesign mají potenciál oslovit čtenáře.
 - Osobní blogy vyžadují slohové schopnosti a nadšení autora.
-title: Kdysi jsem myslel, že blogování bude lehčí&#8230;
+title: "Kdysi jsem myslel, že blogování bude lehčí…"
 ---
 
 Udělat odborný weblog (tím odborný jsem myslel především tematicky zaměřený, ne snad, že bych si myslel, že telekomunikacím rozumím) mne napadlo mimo jiné tehdy, když jsem viděl WiFiNetNews Glenna Fleishmana. Používá poměrně jednoduchou a účinnou metodu: najde si zprávičku, připíše k ní svůj trefný komentář a dá odkaz na původní zprávičku. Vcelku pohodka, pokud máte přístup k informačním zdrojům a umíte s nimi pracovat. 

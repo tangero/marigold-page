@@ -14,7 +14,7 @@ summary_points:
 - Autor se vsadil, že dopíše Flotilu Země po prodeji 3000 Špiclů.
 - Špicla Páně lze koupit na Mystery Press s 30% slevou nebo na Světu Knihy.
 - Autor knihu ještě neviděl a doufá, že v ní nenajde mnoho chyb.
-title: Moje kniha Špicl Páně 955 v prodeji
+title: "Moje kniha Špicl Páně 955 v prodeji"
 ---
 
 Už jsem o Špiclovi psal. První díl chystané trilogie, druhý díl mám rozmyšlený a jen se dát do psaní. Teď jsem se ale vsadil s vydavatelem i mým literárním agentem, že když se prodá 3000 kousků, tak dopíšu druhý díl Flotily Země - jejda, bylo by to po dvaceti letech. Mám tak třetinu napsanou, ale vždycky bylo něco důležitějšího. Jsem zvědav, jestli to dáme🙂

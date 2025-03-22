@@ -13,7 +13,7 @@ summary_points:
 - Fayn snížil cenu meziměstského volání na 1,50 Kč za minutu.
 - Kabelová televize zdražuje kvůli přesunu do 19% DPH pásma.
 - Internet od UPC zlevní o 3%, satelitní příjem se stává alternativou.
-title: Fayn má nižší ceny a&nbsp;vůbec telekomunikace přeceňují
+title: "Fayn má nižší ceny a vůbec telekomunikace přeceňují"
 ---
 
 <p>

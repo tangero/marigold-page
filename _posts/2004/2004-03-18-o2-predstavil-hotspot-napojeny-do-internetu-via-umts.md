@@ -13,7 +13,7 @@ summary_points:
 - Hotspot surf@home se připojuje k internetu přes UMTS síť O2 rychlostí 384 Kbps.
 - Cena surf@home není známa, ale bude nižší při používání doma.
 - O2 uvede surf@home na trh na podzim a sváže ho s Genion platformou.
-title: 'O2 představil hotspot napojeny do internetu via UMTS
+title: "'O2 představil hotspot napojeny do internetu via UMTS"
 
   '
 ---

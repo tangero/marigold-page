@@ -13,7 +13,7 @@ summary_points:
 - Přímá viditelnost je pro WiMax žádoucí, navzdory deklarované absenci nutnosti.
 - WiMax technika bude zpočátku drahá, neklesne brzy na úroveň WiFi.
 - Autor varuje před přehnaným optimismem ohledně rychlého nástupu WiMaxu.
-title: WiMax &#8211; pozor na ten přehnaný optimismus
+title: "WiMax – pozor na ten přehnaný optimismus"
 ---
 
 <p>

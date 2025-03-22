@@ -13,7 +13,7 @@ summary_points:
 - Developeři jako IPB Real preferují spolupráci s Českým Telecomem a UPC.
 - Alternativní operátoři neprojevili zájem o zasíťování developerských projektů.
 - Autor nechápe nezájem alternativních operátorů o lukrativní domácnosti v novostavbách.
-title: 'Proč alternativním operátorů nevoní developerské projekty?
+title: "'Proč alternativním operátorů nevoní developerské projekty?"
 
   '
 ---

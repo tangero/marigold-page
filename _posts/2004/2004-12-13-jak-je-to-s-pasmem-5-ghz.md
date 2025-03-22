@@ -13,7 +13,7 @@ summary_points:
 - MHz je jediné pásmo v ČR pro 5 GHz sítě s 25 mW maximem.
 - MHz pásmo s 1 W EIRP v Evropě ČTÚ opakovaně odkládá.
 - ČTÚ odklady 5470-5725 MHz pásma způsobily operátorům mnohamilionové škody.
-title: Jak je to s&nbsp;pásmem 5 GHz
+title: "Jak je to s pásmem 5 GHz"
 ---
 
 <p>

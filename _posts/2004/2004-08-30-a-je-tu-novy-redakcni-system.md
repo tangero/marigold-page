@@ -13,7 +13,7 @@ summary_points:
 - Statistiky, WAP verze (http://www.marigold.cz/wap.php) a nové komentáře jsou dostupné.
 - Redakční systém generuje statické stránky s GZip kompresí a má nový back-end.
 - Volitelné servírování webu jako application/xhtml+xml je možné, ale zatím zamítnuto.
-title: A je tu nový redakční systém
+title: "A je tu nový redakční systém"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/4/20040830-newsystem.jpg" alt="BLOG:CMS" width="122" height="122" /></div><p>

@@ -13,7 +13,7 @@ summary_points:
 - Zákazníci si SMS brány představují jednodušeji než XML a IPSec.
 - CDMA2000 upload může být rychlejší než 153 Kb/s díky soft handoff.
 - Data Express je obchodní název pro CDMA Eurotelu.
-title: Valeski, opravník mých omylů a&nbsp;další drobnosti
+title: "Valeski, opravník mých omylů a další drobnosti"
 ---
 
 <p>

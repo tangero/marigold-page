@@ -13,7 +13,7 @@ summary_points:
 - Haptik je nový systém kombinující klávesnici s dotykovou vrstvou pro ovládání telefonu.
 - Haptik umožňuje ovládání gesty, psaní tahem a nahrazuje kurzorové klávesy.
 - Haptik zlepšuje ovládání MP3 přehrávače a internetu, ale lze ho i vypnout.
-title: Za tu fotku se omlovám aneb Haptik
+title: "Za tu fotku se omlovám aneb Haptik"
 ---
 
 <p>Omlovám se za zmatek s omylem publikovanou fotkou a děkuji i Seanovi z Komunikatory.cz, že ji stáhnul. Nešlo o nic zásadního, je to tovární prototyp k testování uživatelského interface, nevypadá to tak, jak to bude vypadat a jestli vás to uklidní, ani já nevím, jak bude to zařízení vypadat, protože tahle věc jde odděleně od UI vývoje. Prostě se to zařízení nemusí nikdy dostat na trh tak, jak bylo na fotce, slouží jen na testy a já ho původně přeposílal z mobilu do soukromé galerie.</p>

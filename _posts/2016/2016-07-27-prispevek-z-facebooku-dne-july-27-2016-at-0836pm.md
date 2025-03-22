@@ -13,7 +13,7 @@ summary_points:
 - Pasivní přístup zastavil šikanu efektivněji než konfrontace.
 - Teroristické útoky vyžadují dlouhodobá opatření, ne rychlá řešení.
 - Integrace a prevence radikalizace jsou klíčové, ale složité na realizaci.
-title: 'Možná si tu hru se cvičkama pamatujete ze základní školy
+title: "'Možná si tu hru se cvičkama pamatujete ze základní školy"
 
   '
 ---

@@ -15,7 +15,7 @@ summary_points:
 - Cloud umožňuje levný hardware, dálkové aktualizace a centrální správu zařízení.
 - Analýza dat v cloudu umožňuje porovnávání efektivity a automatické rady uživatelům.
 - Export dat bude, ale je nutné ho upravit pro praktické využití uživateli.
-title: Proč je energomonitor v&nbsp;cloudu
+title: "Proč je energomonitor v cloudu"
 ---
 
 <p>Není to častá výtka obecně, ale ve skupině geeků ano: nechtějí, aby <a href="http://www.energomonitor.cz">energomonitor</a> ukládal data do cloudu, chtějí vysloveně lokální uložení dat, třeba na SD kartu, kterou si pak budou moci zpracovat. Proč je tedy energomonitor v cloudu a proč na tom nechceme nic měnit?</p>

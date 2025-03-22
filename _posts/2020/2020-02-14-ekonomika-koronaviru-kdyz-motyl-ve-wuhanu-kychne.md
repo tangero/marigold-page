@@ -10,7 +10,7 @@ summary_points:
 - Hongkongské protesty zkomplikovaly export potenciálních zbraní.
 - Koronavirus způsobil karanténu a zpoždění zásilek z Wuhanu.
 - Závislost na čínských subdodávkách paralyzuje globální výrobu.
-title: Ekonomika koronaviru - když motýl ve Wuhanu kýchne
+title: "Ekonomika koronaviru - když motýl ve Wuhanu kýchne"
 ---
 
 Nemůžu vám říkat nic o medicíně koronaviru, bo tomu nerozumím. Povím vám ale něco málo o ekonomice v momentě, kdy nachcípaný motýl máchl křídly ve Wuhanu.

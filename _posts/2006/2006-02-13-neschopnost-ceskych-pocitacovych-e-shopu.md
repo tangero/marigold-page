@@ -13,7 +13,7 @@ summary_points:
 - České e-shopy postrádají filtry pro váhu, cenu a tablet PC notebooky.
 - Telefonáty na specialisty jsou zdlouhavé a neefektivní kvůli specializaci.
 - Komentáře u článků jsou opět povoleny, antispam Captcha dočasně chybí.
-title: 'Neschopnost českých počítačových e-shopů
+title: "'Neschopnost českých počítačových e-shopů"
 
   '
 ---

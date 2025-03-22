@@ -14,7 +14,7 @@ summary_points:
 - Alternativní diskuse zákazníků UPC je na portal.dkm.cz/diskuse.php s tickerem závad.
 - UPC diskuse má wapovou verzi na home.ces.chello.cz/wapdiskuze pro mobilní prohlížení.
 - UPC má ve smlouvě možnost zavést datový limit, zatím jej ale nezavedlo.
-title: Malý UPC Chello update k&nbsp;diskusím a&nbsp;limitům
+title: "Malý UPC Chello update k diskusím a limitům"
 ---
 
 <p>

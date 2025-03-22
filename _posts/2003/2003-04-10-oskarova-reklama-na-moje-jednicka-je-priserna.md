@@ -13,7 +13,7 @@ summary_points:
 - Oskarova reklama Moje jednička je oproti dřívějším reklamám krok zpět.
 - Dřívější reklamy Oskara byly vkusné, s detaily a bez obličejů.
 - Nová reklama Oskara se podobá stupidním reklamám T-Mobilu a Eurotelu.
-title: 'Oskarova reklama na Moje Jednička je příšerná
+title: "'Oskarova reklama na Moje Jednička je příšerná"
 
   '
 ---

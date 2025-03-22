@@ -16,7 +16,7 @@ summary_points:
 - NFC platby nejsou průlom, protože nenabízí zásadní výhody oproti stávajícím metodám.
 - Latentní potřeby mobilů jsou lepší vstupní/výstupní zařízení a delší výdrž baterie.
 - Současné technologie pro displeje a baterie nepřináší revoluční zlepšení, jen dílčí.
-title: Co by měl obsahovat příští iPhone čili rozprava o&nbsp;budoucnosti mobilních
+title: "Co by měl obsahovat příští iPhone čili rozprava o budoucnosti mobilních"
   telefonů
 ---
 

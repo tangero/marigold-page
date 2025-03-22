@@ -10,7 +10,7 @@ summary_points:
 - Česko je mimo hlavní ekonomický proud.
 - Rozpočet ČVUT je výrazně nižší než u Mnichovské TUM.
 thumbnail: https://www.copyshop.cz/wp-content/uploads/2017/01/diplom.jpg
-title: Co říkají o našich vysokých školách diplomové práce jejich studentů? Pole pro
+title: "Co říkají o našich vysokých školách diplomové práce jejich studentů? Pole pro"
   výzkum je tu neorané!
 ---
 

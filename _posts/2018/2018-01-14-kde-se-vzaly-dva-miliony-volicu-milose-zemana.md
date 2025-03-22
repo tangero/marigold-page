@@ -17,7 +17,7 @@ summary_points:
 - Politici dlouhodobě ignorují problémy exekuovaných a sociálně slabých.
 - Nelítostná pravicová politika přispěla k systémové nespokojenosti a mimosystémovým
   volbám.
-title: 'Kde se vzaly dva miliony voličů Miloše Zemana
+title: "'Kde se vzaly dva miliony voličů Miloše Zemana"
 
   '
 ---

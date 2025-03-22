@@ -15,7 +15,7 @@ summary_points:
 - Přizpůsobení umožňuje detailní nastavení způsobu komunikace s AI.
 - Úlohy jsou omezeny na 10 současně spuštěných a jsou dostupné jen v placených programech.
 thumbnail: https://www.marigold.cz/assets/Custom-Instructions-UI.png
-title: ChatGPT Úlohy a Customizace
+title: "ChatGPT Úlohy a Customizace"
 ---
 
 OpenAI nedávno představila režim Úlohy a nově i Přizpůsobení. Úlohy umožňují provedení promptu v určitý čas, Přizpůsobení pak umožní detailněji nastavit, jak s vámi má AI mluvit. Jak funkce použít?

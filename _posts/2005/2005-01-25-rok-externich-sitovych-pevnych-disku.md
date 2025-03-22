@@ -13,7 +13,7 @@ summary_points:
 - Maxtor Shared Storage nabízí 200-300 GB kapacity a automatické třídění souborů.
 - Zařízení funguje jako souborový server v domácí síti přes router.
 - Budoucnost vidí integraci P2P klientů pro automatické stahování filmů.
-title: 'Rok externích síťových pevných disků
+title: "'Rok externích síťových pevných disků"
 
   '
 ---

@@ -9,7 +9,7 @@ summary_points:
 - Cenu sítí ovlivňují pokrytí, kapacita a rychlost přenosu dat.
 - WiFi v Česku nahradilo zpožděné 3G sítě a ovlivnilo nároky zákazníků.
 - Desetileté zanedbávání investic do sítí vedlo k vysokým cenám mobilních dat.
-title: Kurs ekonomie pro ministry obchodu a průmyslu či jiné začátečníky - jak vzniká
+title: "Kurs ekonomie pro ministry obchodu a průmyslu či jiné začátečníky - jak vzniká"
   nákladová cena mobilních dat
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - Málo rozšířené MP3 přehrávače a nezvyk na talk-show mohou být příčinou.
 - Autor uvažuje o tvorbě podcastu z konferencí, ale řeší jazyk a lenost.
 - Marek Lutonský by mohl být prvním zpravodajským podcasterem díky nahrávání mobilů.
-title: Česko hledá podcast star
+title: "Česko hledá podcast star"
 ---
 
 <p>Vypůjčil jsem si titulek <a href="http://www.maler.cz/index.php?id=505">MaLérova článku</a>, protože je to tak. Podcast má v Česko/Slovensku zatím jen velmi mizivé rozšíření, co se dostupných zdrojů týká. Kromě projektu <a href="http://www.infoset.com/rss/">D. Pedéra</a>, kde Violka automaticky načítá texty a kromě Rádia Acropolis s jeho talk-show nevím o jediném podcastu v ČR. A myslím, že jsem hledal dobře. </p>

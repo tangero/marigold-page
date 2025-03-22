@@ -13,7 +13,7 @@ summary_points:
 - Zpráva se ve skutečnosti týká obratu zboží prodaného online.
 - Autor kritizuje významový posun slova "internet" v Hodboďově zprávě.
 - Autor se obává vulgarizace pojmu internet na "krabičku na televizi".
-title: Lupa s&nbsp;&#8222;nadhledem&#8220;
+title: "Lupa s „nadhledem“"
 ---
 
 <p>Oook píše: V jistých kruzích proslavený "redaktor" LUPY.cz <a href="http://www.lupa.cz/autor.php3?autor=hodbod" >Tomáš Hodboď&nbsp;</a>opět zaperlil. Nadpis jeho zprávičky zní: <b>Český internetový trh roste, ve srovnání se světem však pomaleji <br />

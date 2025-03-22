@@ -13,7 +13,7 @@ summary_points:
 - Zařízení by mělo podporovat časování nahrávání a ideálně ethernetové připojení.
 - Autor nechce zařízení s DVD vypalovačkou ani satelitním dekodérem kvůli ceně.
 - Na CeBITu našel jediné vyhovující zařízení, DMUZE CANNY Personal Video Recorder.
-title: HD rekordery na CeBITu &#8211; zase prakticky nic
+title: "HD rekordery na CeBITu – zase prakticky nic"
 ---
 
 <p>

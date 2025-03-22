@@ -13,7 +13,7 @@ summary_points:
 - Praha plánuje financovat projekt Bezdrátová Praha z vlastních daní.
 - Projekt Bezdrátová Praha se zvažuje rozšířit na celou Prahu.
 - Autor chce vytvořit mapu WiFi pokrytí v Praze se všemi poskytovateli.
-title: Praha dotaci z&nbsp;EU na bezdrátový internet nedostane, ale &#8230;
+title: "Praha dotaci z EU na bezdrátový internet nedostane, ale …"
 ---
 
 <texy>**Noname píše:** pro ty z vás, kteří nepoužívají RSS čtečku, nebo v ní nemají "RSS kanál Internetu Pro Všechny":http://internetprovsechny.cz/rss.xml mám "novinku na webu Internet Pro Všechny - Praha nedostane dotaci z fondů EU na jejich projekt Bezdrátová Praha":http://internetprovsechny.cz/blesk.php?cbl=258. Ale nejásejte předčasně, Praha chce totiž celý projekt zafinancovat sama((čti z našich daní)) i přes všechna existující zamítavá stanoviska, a co více, **zvažuje jeho rožšíření na celou Prahu**. Více informací viz zmíněná bleskovka.

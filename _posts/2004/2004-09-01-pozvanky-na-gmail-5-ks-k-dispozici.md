@@ -13,7 +13,7 @@ summary_points:
 - Pět Gmail pozvánek Google bylo rozděleno zájemcům prostřednictvím emailu.
 - Akce rozdělování Gmail pozvánek trvala pouhých šest minut.
 - Další Gmail pozvánky nejsou momentálně k dispozici, proto není třeba psát.
-title: Pozvánky na Gmail &#8211; 5 ks k&nbsp;dispozici
+title: "Pozvánky na Gmail – 5 ks k dispozici"
 ---
 
 <p>

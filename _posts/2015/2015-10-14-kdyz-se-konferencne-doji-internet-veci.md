@@ -13,7 +13,7 @@ summary_points:
 - Program konference dominuje Vodafone s opakovanými tématy a reklamou na EET.
 - Bezpečnostní panel zahrnuje instituce bez praktických zkušeností s IoT.
 - Konference postrádá skutečné odborníky a reálné zkušenosti z oblasti IoT.
-title: 'Když se konferenčně dojí Internet věcí
+title: "'Když se konferenčně dojí Internet věcí"
 
   '
 ---

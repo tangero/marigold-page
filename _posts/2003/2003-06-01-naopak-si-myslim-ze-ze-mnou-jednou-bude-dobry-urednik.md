@@ -13,7 +13,7 @@ summary_points:
 - Autor popírá fámy o jeho práci ve státní správě, i když ji nevylučuje.
 - Autor kritizuje byrokracii a zbytečné obíhání úřadů pro získávání dokumentů.
 - Autor navrhuje, aby úředníci získávali potřebné informace přímo ze státních databází.
-title: Naopak si myslím, že ze mnou jednou bude dobrý úředník&#8230;
+title: "Naopak si myslím, že ze mnou jednou bude dobrý úředník…"
 ---
 
 <p>

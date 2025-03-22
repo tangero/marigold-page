@@ -15,7 +15,7 @@ summary_points:
 - Autor opustil pozici ředitele produktu a stal se řadovým zaměstnancem ve Streamu.
 - Dovolená slouží k zhodnocení změn v práci a rozhodnutí o dalším postupu.
 - Administrace a databáze Wordpressu jsou zablokovány kvůli čínským hackerům.
-title: 'Dovolená čili vyčistit hlavu od práce
+title: "'Dovolená čili vyčistit hlavu od práce"
 
   '
 ---

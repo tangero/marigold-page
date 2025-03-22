@@ -13,7 +13,7 @@ summary_points:
 - Fring využívá existující služby Skype a Google Talk pro VoIP hovory.
 - Google Talk funguje ve Fringu lépe než Skype, kde jsou problémy s hovory.
 - Fring je zdarma a vhodný pro textovou komunikaci přes Symbian mobily.
-title: Fring &#8211; VoIP pro 3G mobily via Skype a&nbsp;Google Talk
+title: "Fring – VoIP pro 3G mobily via Skype a Google Talk"
 ---
 
 Fring je zajímavá aplikace, se kterou si nějakou dobu hraju. A mám z ní trochu rozpačité dojmy. 

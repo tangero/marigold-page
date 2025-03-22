@@ -12,7 +12,7 @@ summary_points:
 - Heathrow nabízí WiFi na Terminálu 1 za 6 liber/hodinu nebo 85 liber/měsíc.
 - KPN a mmO2 zvažují fúzi, čímž vznikne velká nadnárodní mobilní skupina.
 - Hagiwara Sys-Com bude vyrábět WiFi SD a Memorystick karty pro Palmy.
-title: Letiště Heathrow má WiFi, KPN a&nbsp;mm02 míří ke sloučení,
+title: "Letiště Heathrow má WiFi, KPN a mm02 míří ke sloučení,"
 ---
 
 <p>

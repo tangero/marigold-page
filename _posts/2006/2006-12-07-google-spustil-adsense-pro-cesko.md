@@ -13,7 +13,7 @@ summary_points:
 - AdSense funguje na principu platby za kliknutí a platby za zobrazení.
 - Registrace do AdSense probíhá online formulářem na webu Google.
 - Inzeráty se na webu zobrazí do 72 hodin po vložení kódu.
-title: Google spustil AdSense pro Česko
+title: "Google spustil AdSense pro Česko"
 ---
 
 <texy>Tak jsme se dočkali. Webové stránky psané v češtině mohou prodávat inzerci přes Google AdSense, což je velmi jednoduchý způsob, jak si vydělat nějakou tu korunku. Takže vyzkouším a uvidím :)

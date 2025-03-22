@@ -18,7 +18,7 @@ summary_points:
 - Prodejní podíly iPhone rostou v USA, celosvětově je situace regionálně odlišná.
 - SDK pro iPhone má omezení, například běh aplikací na pozadí a přístup k systémovým
   rozhraním.
-title: Apple iPhone dále provokuje &#8211;  a&nbsp;co změní SDK?
+title: "Apple iPhone dále provokuje –  a co změní SDK?"
 ---
 
 Apple představil svůj vývojářský kit pro iPhone a ucelených informací o tom na českém netu pomálu, pokud odmyslím z kontextu vytrhané informace blábolila Hulána. Přitom šlo o očekávanou událost a v oboru telekomunikací relativně slušně sledovanou. 

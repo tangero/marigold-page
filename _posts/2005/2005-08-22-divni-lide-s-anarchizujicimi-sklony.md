@@ -13,7 +13,7 @@ summary_points:
 - Řidiči trucků projevovali anarchizující sklony kritikou politiky a daní.
 - Závod truck trialu spolupořádal německý svaz, je tedy mezinárodní akcí.
 - Autor doporučuje návštěvu dalšího závodu truck trialu 17.-18. září.
-title: Divní lidé s&nbsp;anarchizujícími sklony
+title: "Divní lidé s anarchizujícími sklony"
 ---
 
 <p><b>oook píše:</b> Tak jsem o vikendu navštívil závod českého <a href="http://www.trucktrial.cz/" >truck trialu</a>.

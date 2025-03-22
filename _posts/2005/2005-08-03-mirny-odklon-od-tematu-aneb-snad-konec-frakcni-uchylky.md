@@ -13,7 +13,7 @@ summary_points:
 - Web Marigold spadl v pondělí kvůli náhlému nárůstu návštěvnosti.
 - Komentáře pod články o CzechTeku neměly žádnou přidanou hodnotu.
 - Autor žádá zasílání zajímavých odkazů e-mailem na marigold.cz.
-title: 'Mírný odklon od tématu (aneb snad konec frakční úchylky)
+title: "'Mírný odklon od tématu (aneb snad konec frakční úchylky)"
 
   '
 ---

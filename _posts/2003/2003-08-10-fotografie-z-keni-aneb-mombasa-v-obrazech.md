@@ -13,7 +13,7 @@ summary_points:
 - Mombasa je zastoupena čtyřiceti fotografiemi z výletu na východoafrické pobřeží.
 - Popisky k fotografiím v detailu usnadňují orientaci v obsahu.
 - Fotografie z Keni jsou dostupné na webové stránce tangero.me.cz/kena/mombasa/.
-title: Fotografie z&nbsp;Keni aneb Mombasa v&nbsp;obrazech
+title: "Fotografie z Keni aneb Mombasa v obrazech"
 ---
 
 <p>

@@ -14,7 +14,7 @@ summary_points:
   brutalitu.
 - Policie mohla situaci řešit jinak, například regulací dopravy a usměrňováním davů.
 - Autor zve na Folkovou Ohři na hradě Hauenštejn, akci s povolením a komfortem.
-title: 'Tak ještě jednou a&nbsp;pomalu: CzechTek nebyl právně zcela v&nbsp;pořádku,
+title: "'Tak ještě jednou a pomalu: CzechTek nebyl právně zcela v pořádku,"
   ale zásah proti němu byl nepřiměřeně brutální'
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - Autor přiznává pracovní přetížení, ale vyřizuje staré e-maily a SMS.
 - Únorové konference v Barceloně a Mnichově mohou přinést autorskou aktivitu.
 - Marigold bude fungovat na pozvánky pro filtrování nežádoucích návštěvníků.
-title: Malé interní sdělení
+title: "Malé interní sdělení"
 ---
 
 <p>Neradujte se předčasně. Titulní stránku Marigolda jsem zprovoznil proto, že jsem se na 3GSM kongres akreditoval jako "novinář Marigolda" a nechtělo se mi na poslední chvíli to řešit a press oddělení kongresu by mohlo reptat. Za ty tři eurolitry to stojí. Navíc stejně většině zdatnějších došlo, že jsem na server jednoduše a prostě nahrál soubor nazvaný index.html, který má při servírování přednost před index.php, takže se k původní titulní stránce dalo dostat a nebylo proč ne. </p>

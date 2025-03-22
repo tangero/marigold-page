@@ -13,7 +13,7 @@ summary_points:
 - Caisse de depot et placement du Québec prodává 14% podíl v TIW kvůli ztrátové investici.
 - TIW ovládá Český Mobil v ČR a mobilního operátora v Rumunsku.
 - Akcie TIW po sloučení dosahují hodnoty nad 4 dolary.
-title: 'Vlastníka Oskara TIW opustí velký akcionář
+title: "'Vlastníka Oskara TIW opustí velký akcionář"
 
   '
 ---

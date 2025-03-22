@@ -13,7 +13,7 @@ summary_points:
 - Šéf ČTÚ Stádník uvedl, že další vyjádření k povolení CDMA není nutné.
 - Carlo Longino tvrdí, že lidé nebudou platit mobil, ADSL a mobilní internet.
 - Steve Jones kritizuje Eurotel za plánování CDMA bez povolení a podpory.
-title: CDMA se u&nbsp;Eurotelu zřejmě opozdí
+title: "CDMA se u Eurotelu zřejmě opozdí"
 ---
 
 <p>

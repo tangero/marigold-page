@@ -13,7 +13,7 @@ summary_points:
 - Překvapením byl proces generování formuláře pro ověření převodu domény.
 - Formulář se negeneroval přímo, ale posílal se e-mailem.
 - Autor nechápe zastaralé e-mailové rozhraní NICu pro správu domén.
-title: Převod domény aneb NIC za opicemi?
+title: "Převod domény aneb NIC za opicemi?"
 ---
 
 <p>

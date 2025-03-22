@@ -13,9 +13,7 @@ summary_points:
 - Windows XP Tablet je pro UMPC Asus R2H nevhodný operační systém.
 - Asus R2H má procesor Intel Celeron M 900MHz a 7" displej 800x480.
 - UMPC Asus R2H váží 0.8 kg a vydrží na baterii 2 hodiny.
-title: 'UMPC jasně ukazuje, proč jsou Windows špatnou volbou tabletového světa
-
-  '
+title: 'UMPC jasně ukazuje, proč jsou Windows špatnou volbou tabletového světa'
 ---
 
 <texy>V pátek jsem si pořídil novou hračku. Jmenuje se Asus R2H a v rodném listu má poznámku UMPC aneb UltraMobile PC aneb Origami.

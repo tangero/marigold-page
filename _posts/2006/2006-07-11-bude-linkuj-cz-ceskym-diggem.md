@@ -13,7 +13,7 @@ summary_points:
 - Linkuj.cz je česká obdoba Digg.com, umožňující záložkování a objevování novinek.
 - Marigold přidal možnost přidávat odkazy na články do Linkuj.cz.
 - Autor se ptá, proč je v Česku málo socioware aplikací.
-title: Bude Linkuj.cz českým Diggem?
+title: "Bude Linkuj.cz českým Diggem?"
 ---
 
 <p><a href="http://www.digg.com">Digg.com</a> je takový zvláštní server. Já ho zahrnuju pod socioware, což asi nikomu nic moc neřekne. Socioware je můj miláček z pragmatického důvodu, protože si s ním rozsáhle hraju. Pokud jste Digg.com neviděli, je dobré se podívat, zbytečno vysvětlovat. Zjednodušeně řečeno je to doporučování zajímavých článků jinými lidmi právě vám. Hodně zjednodušeně. </p>

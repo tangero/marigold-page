@@ -13,7 +13,7 @@ summary_points:
 - Maler korigoval barvy webu na svém Apple LCD monitoru.
 - Marek Prokop autora proškolil v CSS a HTML, poukázal na chyby.
 - WIA byla přidána do nabídky ADSL, je levná při inkasu a roční smlouvě.
-title: Marigoldovi jsem vylepšil kabátek a&nbsp;přidal nabídku WIA do přehledu ADSL
+title: "Marigoldovi jsem vylepšil kabátek a přidal nabídku WIA do přehledu ADSL"
 ---
 
 <p>

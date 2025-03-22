@@ -13,7 +13,7 @@ summary_points:
 - BroadVoice je poskytovatel internetové telefonie s voláním do ČR od 1,35 Kč/min.
 - V Česku vzniká server iPhone.cz zaměřený na VoIP od tvůrců WiFionline.net.
 - Mobil.cz recenzuje chytrý telefon Xplore G88 s PalmOS 4.1, který nedoporučuje.
-title: 'Drobky: síť s&nbsp;variabilním SSID, VoIP novinky a&nbsp;odkazy na zajímavé
+title: "'Drobky: síť s variabilním SSID, VoIP novinky a odkazy na zajímavé"
   články'
 ---
 

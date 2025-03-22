@@ -13,7 +13,7 @@ summary_points:
 - VIPnet v Chorvatsku spustil 3G síť pouze v testovacím provozu.
 - Tele2 dokoupil zbývající podíl ve finském Suomen 3G.
 - Český Telecom zveřejnil mapu pokrytí ADSL, Pooh.cz ji převedl do GIFu.
-title: 3G novinky, Telecom publikoval mapu ADSL a&nbsp;jiné ADSL legrácky&#8230;
+title: "3G novinky, Telecom publikoval mapu ADSL a jiné ADSL legrácky…"
 ---
 
 <p>

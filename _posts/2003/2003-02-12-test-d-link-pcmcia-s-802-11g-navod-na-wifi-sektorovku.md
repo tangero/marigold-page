@@ -13,7 +13,7 @@ summary_points:
 - WiFiOnline nabízí český návod na stavbu 10 dBi sektorové antény.
 - Mobil.cz publikoval přehled hodinek s pagingem od Microsoftu.
 - Hodinky s pagingem stahují informace jako počasí a dopravní zprávy.
-title: Test D-Link PCMCIA s&nbsp;802.11g, návod na WiFi sektorovku
+title: "Test D-Link PCMCIA s 802.11g, návod na WiFi sektorovku"
 ---
 
 <p>

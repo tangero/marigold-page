@@ -13,7 +13,7 @@ summary_points:
 - Autor si v Komerční bance vtipně požádal o "provizi z distribuce drog".
 - Banka vyplatila dividendu bez reakce na autorův specifický dotaz.
 - Dividenda byla zdaněna 15% daní a bude zatížena 22% DPH při nákupu.
-title: Provizi z&nbsp;distribuce drog není problém v&nbsp;Komerční bance inkasovat
+title: "Provizi z distribuce drog není problém v Komerční bance inkasovat"
 ---
 
 <p>

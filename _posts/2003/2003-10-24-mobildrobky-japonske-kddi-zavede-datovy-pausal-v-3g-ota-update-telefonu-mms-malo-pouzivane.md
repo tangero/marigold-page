@@ -15,7 +15,7 @@ summary_points:
 - T-Mobile zavede OTA personalizaci menu pro Nokia 3650/7650 za 200 Kč.
 - Japonští uživatelé pošlou průměrně 2 MMS zprávy měsíčně, používání klesá po dvou
   měsících.
-title: 'Mobildrobky: japonské KDDI zavede datový paušál v&nbsp;3G. OTA update telefonů,
+title: "'Mobildrobky: japonské KDDI zavede datový paušál v 3G. OTA update telefonů,"
   MMS málo používané'
 ---
 

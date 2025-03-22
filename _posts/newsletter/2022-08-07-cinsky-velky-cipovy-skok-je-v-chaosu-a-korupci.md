@@ -15,7 +15,7 @@ summary_points:
 - Čínský čipový průmysl provází korupce a zatýkání v souvislosti s obrovskými investicemi.
 - Udržení čipové nadvlády je pro Evropu a USA klíčové kvůli zranitelnosti spojené
   s TSMC.
-title: Čínský Velký čipový skok je v chaosu a korupci
+title: "Čínský Velký čipový skok je v chaosu a korupci"
 ---
 
 Minulý týden na Čínu "prasklo" že zvládla sedminanometrový proces výroby čipů a tudíž předehnala Spojené státy, v nichž se procesory tímto procesem ještě nevyrábí. Hned od počátku tuto zprávu ale doprovázejí pochybnosti o tom, jak to všechno vlastně je. 

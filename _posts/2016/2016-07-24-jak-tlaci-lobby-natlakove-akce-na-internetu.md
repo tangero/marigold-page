@@ -13,7 +13,7 @@ summary_points:
 - 'Nátlakové akce mají jasné kroky: nastolení tématu, agenda, zpracování oponentů.'
 - Negativní nosné vlny se šíří snadněji než pozitivní.
 - Oponenti jsou izolováni, znevěrohodňováni a marginalizováni.
-title: 'Jak tlačí lobby nátlakové akce na internetu?
+title: "'Jak tlačí lobby nátlakové akce na internetu?"
 
   '
 ---

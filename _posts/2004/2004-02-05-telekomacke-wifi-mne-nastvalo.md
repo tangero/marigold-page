@@ -13,7 +13,7 @@ summary_points:
 - WiFi Telecomu na Karlově náměstí fungovala extrémně pomalu, téměř nepoužitelně.
 - Autor se po neúspěšném pokusu o připojení raději prošel po probouzející se Praze.
 - 'Na schůzce autor slyšel vtip: slovenský úplatek je "ber dar".'
-title: Telekomácké WiFi mne naštvalo
+title: "Telekomácké WiFi mne naštvalo"
 ---
 
 <p>

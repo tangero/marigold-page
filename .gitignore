@@ -18,3 +18,4 @@ generate_local_summaries.py
 /newsletter
 analyze.rb
 keyword_manager.rb
+generate_summaries.py

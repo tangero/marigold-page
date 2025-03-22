@@ -13,7 +13,7 @@ summary_points:
 - Sobotecká bloguje o reportáži TV Nova, zpochybňuje její objektivitu.
 - Novinářská důvěryhodnost je problematická, ovlivňuje ji spěch a zjednodušování.
 - OFDM modulace je složitá, pochopení vyžaduje hluboké studium a odborné znalosti.
-title: 'Nové weblogy: o&nbsp;Lucent CellPipe ADSL modemu a&nbsp;Sobotecká o&nbsp;médiích
+title: "'Nové weblogy: o Lucent CellPipe ADSL modemu a Sobotecká o médiích"
   (a&nbsp;rozprava o&nbsp;důvěryhodnosti článků)'
 ---
 

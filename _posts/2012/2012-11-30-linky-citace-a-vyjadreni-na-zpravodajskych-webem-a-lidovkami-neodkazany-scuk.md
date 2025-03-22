@@ -16,7 +16,7 @@ summary_points:
   nikoliv.
 - Článek v Lidových novinách sloužil čtenáři, ne propagaci Martina Kuciela.
 - Kritici Lidových novin sami často nelinkují, rychlý lynč ničemu neprospívá.
-title: Linky, citace a&nbsp;vyjádření na zpravodajských webem a&nbsp;Lidovkami neodkázaný
+title: "Linky, citace a vyjádření na zpravodajských webem a Lidovkami neodkázaný"
   Scuk
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - WiFiCentrum nabízí levnější WiFi techniku a ceny zobrazuje až po přihlášení.
 - Anténa Keybola, parabolická anténa s USB pro WiFi klíčenku, zaujala na stánku.
 - WiFiCentrum se slučuje s WLANshop.cz pod jednotnou značku kvůli doménám.
-title: 'Zaujalo na Invexu: WiFiCentrum a&nbsp;Keybola'
+title: "Zaujalo na Invexu: WiFiCentrum a Keybola"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Místní nadšenci budují komunitní sítě, čímž konkurují velkým poskytovatelům.
 - Uživatelé upřednostňují cenu a pohodlí před spolehlivostí a technologií.
 - ADSL bude obtížně konkurovat komunitním sítím kvůli ceně a osobnímu přístupu.
-title: 'Věru nevím, jak bude Český Telecom čelit lavině komunitních sítí
+title: "'Věru nevím, jak bude Český Telecom čelit lavině komunitních sítí"
 
   '
 ---

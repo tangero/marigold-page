@@ -13,7 +13,7 @@ summary_points:
 - GPRS je pomalejší než ADSL, reálné rychlosti jsou nízké.
 - Eurotel zavedl paušál, protože GPRS data málo lidí používá.
 - T-Mobile nenabízí konkurenceschopné GPRS ceny ani podmínky.
-title: Copak to Eurotel postihlo s&nbsp;těmi GPRS daty za paušál?
+title: "Copak to Eurotel postihlo s těmi GPRS daty za paušál?"
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
 - Funely, zobrazující cesty uživatelů, v nových Google Analytics chybí, Goals je nenahradí.
 - Autor hledá sofistikovanější alternativy Google Analytics, například eMerite nebo
   ClickTracks.
-title: 'U nových Google Analytics se nemůžu dohledat pár funkcí
+title: "'U nových Google Analytics se nemůžu dohledat pár funkcí"
 
   '
 ---

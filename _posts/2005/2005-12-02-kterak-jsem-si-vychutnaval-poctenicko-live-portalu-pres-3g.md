@@ -13,7 +13,7 @@ summary_points:
 - Videotelefonie s Honzou Řežábem zaujala, ale minuta stála korunu.
 - Eurotel Live! 3G portál účtoval neúměrné poplatky za stažená data.
 - Infolinka Eurotelu přiznala chybu v účtování a reklamaci vyřešila částečně.
-title: 'Kterak jsem si vychutnával počteníčko Live! portálu přes 3G
+title: "'Kterak jsem si vychutnával počteníčko Live! portálu přes 3G"
 
   '
 ---

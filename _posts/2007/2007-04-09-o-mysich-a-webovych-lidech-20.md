@@ -14,7 +14,7 @@ summary_points:
 - Google neindexoval Jagg.cz kvůli chybě v souboru robots.txt, mylně interpretováno
   jako ban.
 - Český internet zaostává za zahraničím, chybí sledování trendů a kvalitní Web 2.0.
-title: O myších a&nbsp;webových lidech 2.0
+title: "O myších a webových lidech 2.0"
 ---
 
 Někdy mne napadá, proč vůbec nad něčím přemýšlím. Už samo o sobě je přemýšlení nad přemýšlením kacířskou myšlenkou, což o to. Ale vždycky mně potěší, když čtu na webu řadu dobrých tipů, rad a závažných zamyšlení nad věcmi, na kterých tak či onak pracuju. Potěší ironicky i skutečně, jak kdy. Proč vymýšlet, když na internetu ví spousta lidí všechno líp, než vy... 

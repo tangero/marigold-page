@@ -13,7 +13,7 @@ summary_points:
 - Japonská mašinka na sny a displej na hlavu jsou dostupné v Japonsku.
 - Philips eXp5371 je CD discman s podporou Java her (J2ME).
 - Intel přidává 802.11g do Centrina pomocí miniPCI karty, ne vylepšením čipu.
-title: 'Drobky: mobil NEC N900, Intel s&nbsp;podporou 802.11g do Centrina. Nokia 6620,
+title: "'Drobky: mobil NEC N900, Intel s podporou 802.11g do Centrina. Nokia 6620,"
   japonská mašina na sny. CD přehrávač s&nbsp;podporou Javy'
 ---
 

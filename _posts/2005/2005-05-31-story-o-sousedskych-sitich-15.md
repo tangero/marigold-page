@@ -13,7 +13,7 @@ summary_points:
 - Lokalita dvě úspěšně vytvořila vlastní CLOUD s "zabranými" IP adresami.
 - Kruhová topologie s mizernou viditelností potřebuje 100m k uzavření.
 - Pětigigahertzový spoj je prozatím odložen, čeká se na verdikt ČTÚ.
-title: Story o&nbsp;sousedských sítích (15.)
+title: "Story o sousedských sítích (15.)"
 ---
 
 <p>Tak se nám to pěkně vyvíjí. <br />

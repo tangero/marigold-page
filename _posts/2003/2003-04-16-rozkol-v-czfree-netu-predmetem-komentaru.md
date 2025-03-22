@@ -13,7 +13,7 @@ summary_points:
 - Administrace vBulletin na CzFree není tak jednoduchá, aby se dalo omylem mazat.
 - Zmizení diskusí o odchodu Clocka naznačuje cenzuru, nikoliv omyl moderátora.
 - CzFree doplácí na netransparentnost a nejasná pravidla, což umožňuje svévoli.
-title: Rozkol v&nbsp;CzFree Netu předmětem komentářů
+title: "Rozkol v CzFree Netu předmětem komentářů"
 ---
 
 Rozkol v CzFree a rozdělení diskusního fóra na FreeNet.cz zaznamenalo i <A href="http://www.technet.cz/zprava.html?zprava=22333" target=_blank>Technet</A>, <A href="http://www.zive.cz/h/Bleskovky/AR.asp?ARI=110352&amp;CAI=2097&amp;HID=19" target=_blank>Živě</A> a Lupa, povětšinou to ponechali bez komentáře, ovšem na Živě se spustila diskuse pod článečkem. 

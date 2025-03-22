@@ -12,7 +12,7 @@ summary_points:
 - Skype nabídne koncem roku placené volání do telefonní sítě bez příchozího čísla.
 - Fayn umožňuje volání do USA za 2,50 Kč za minutu.
 - Volání přes Fayn do USA je levnější než volání z Oskara na T-Mobile.
-title: Skype nabídne volání do pevné sítě
+title: "Skype nabídne volání do pevné sítě"
 ---
 
 <p>

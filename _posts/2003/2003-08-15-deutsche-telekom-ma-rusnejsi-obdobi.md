@@ -13,7 +13,7 @@ summary_points:
 - DT žádá o povolení zvýšit měsíční paušály za analogové linky v Německu.
 - Zisk Deutsche Telekom za druhé čtvrtletí letošního roku činí 256 milionů EUR.
 - Tisíce drobných akcionářů žalují Deutsche Telekom pro podezření ze špatného účetnictví.
-title: 'Deutsche Telekom má rušnější období
+title: "'Deutsche Telekom má rušnější období"
 
   '
 ---

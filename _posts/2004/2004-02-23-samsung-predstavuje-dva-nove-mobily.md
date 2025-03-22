@@ -13,7 +13,7 @@ summary_points:
 - D410 je vysunovací telefon pro GSM sítě.
 - Z105 je véčko určené pro UMTS a GSM sítě.
 - Samsung masivně propaguje D410 v Cannes.
-title: Samsung představuje dva nové mobily
+title: "Samsung představuje dva nové mobily"
 ---
 
 <p>

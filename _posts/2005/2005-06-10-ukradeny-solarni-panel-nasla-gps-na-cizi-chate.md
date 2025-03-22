@@ -15,7 +15,7 @@ summary_points:
   modulem Motorola.
 - Retranslační bod byl odcizen, ale poloha modulu GPS pomohla k jeho nalezení.
 - Ukradený panel nyní slouží k napájení televize v chatové osadě.
-title: 'Ukradený solární panel našla GPS na cizí chatě
+title: "'Ukradený solární panel našla GPS na cizí chatě"
 
   '
 ---

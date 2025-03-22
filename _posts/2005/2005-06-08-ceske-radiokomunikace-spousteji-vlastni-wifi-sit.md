@@ -13,7 +13,7 @@ summary_points:
 - Předplatné WiFi stojí 450-499 Kč měsíčně dle délky, bez datového omezení.
 - ČRa označují síť za nejlevnější profesionální WiFi, rychlost není garantována.
 - Do budoucna plánují ČRa rozšíření sítě až na 400 přípojných bodů.
-title: 'České Radiokomunikace spouštějí vlastní WiFi síť
+title: "'České Radiokomunikace spouštějí vlastní WiFi síť"
 
   '
 ---

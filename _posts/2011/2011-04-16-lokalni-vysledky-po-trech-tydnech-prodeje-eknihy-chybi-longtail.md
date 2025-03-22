@@ -19,7 +19,7 @@ summary_points:
 - Ebookům chybí longtail, tedy dlouhodobá poptávka a podpora prodeje po uvedení.
 - Infrastruktura pro ebooky je nedostatečná, chybí recenze, žebříčky a propagace jako
   u tištěných knih.
-title: 'Lokální výsledky po&nbsp;třech týdnech prodeje eknihy: chybí longtail'
+title: "Lokální výsledky po třech týdnech prodeje eknihy: chybí longtail"
 ---
 
 Ve čtvrtek se Koncernová pětiletka prodávala třetí týden a protože mě sklátila horečka, zbyl i čas podívat se na chvíli, jak se můj ebook prodává. 

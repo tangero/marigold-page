@@ -13,7 +13,7 @@ summary_points:
 - Autor objevil webovou hru Goggles Flight Sim využívající Google Maps.
 - Autor začal studovat Ruby on Rails framework a našel české weby.
 - Shopify.com, systém pro eshopy, je napsaný v Ruby a má český překlad.
-title: 'Sobotěnka: Goggles Flight Sim a&nbsp;české Ruby on Rails'
+title: "Sobotěnka: Goggles Flight Sim a české Ruby on Rails"
 ---
 
 <p>Pozor: Článek nemá valné informační hodnoty. Podle včerejšího delšího článku bylo možno spolehlivě usoudit, že se nudím. Nenudím, jsem třetí týden nachcípaný, ale v práci se ve čtvrtek něco spouštělo (to něco se jmenuje Imago) a byla při tom celofiremní presentace za účasti vešekerenstva, takže jsem musel presentovat a tvářit se povzneseně. Tím bylo dáno, že jsme nějakou dobu finišovali a na doléčení v posteli nebylo pomyšlení. Čtvrteční presentace dopadla nad míru uspokojivě a to i přes to, že technici přes moji výslovnou žádost neodpojili takovou tu javovskou chybovou stránku, kde se vám vypíše kilometr chybových hlášek a nenahradili ji hezky nastylovaným tvrzením "Vaše data byla bezpečně uložena". Naštěstí se při presentaci chyba neobjevila žádná: Vreco držel myš jen z lehka a Franci se modlil spolu s programátory tak tiše, aby to vedení nezaslechlo. </p>

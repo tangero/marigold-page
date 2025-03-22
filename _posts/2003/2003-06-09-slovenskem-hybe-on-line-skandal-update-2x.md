@@ -13,7 +13,7 @@ summary_points:
 - SME informovalo o kauze hackerského útoku na Slovensku.
 - TV Markíza a Nova přinesly zprávy o útoku, avšak s různou odborností.
 - Článek odkazuje na diskuzi a další zpravodajství o hackerském útoku.
-title: Slovenskem hýbe on-line skandál [update 2x]
+title: "Slovenskem hýbe on-line skandál [update 2x]"
 ---
 
 <p>

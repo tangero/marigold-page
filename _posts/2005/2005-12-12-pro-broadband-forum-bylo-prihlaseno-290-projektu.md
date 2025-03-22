@@ -13,7 +13,7 @@ summary_points:
 - Hodnotitelé obdrží projekty ve čtvrtek a vyhodnotí je do půlky ledna.
 - Ministryně rozhodne o podpořených projektech do konce ledna.
 - Autor se ptá na nápady pro rozvoj broadbandu v ČR.
-title: 'Pro Broadband fórum bylo přihlášeno 290 projektů
+title: "'Pro Broadband fórum bylo přihlášeno 290 projektů"
 
   '
 ---

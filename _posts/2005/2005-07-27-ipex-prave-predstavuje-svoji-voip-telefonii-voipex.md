@@ -13,7 +13,7 @@ summary_points:
 - Volání v ČR stojí 1 Kč/min, na mobil 4,5 Kč/min s tarifikací po 30s.
 - Kredit Voipexu propadá po půl roce, nejlevnější je 500 Kč s X-Lite.
 - Hardware telefon Grandstream 102 je v ceně kreditu 3500 Kč.
-title: 'IPEX právě představuje svoji VoIP telefonii Voipex
+title: "'IPEX právě představuje svoji VoIP telefonii Voipex"
 
   '
 ---

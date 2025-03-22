@@ -14,7 +14,7 @@ summary_points:
 - Zemědělec z Holotína se ozval díky Marigoldovi.
 - Autor přeje příjemné Vánoce a odjezd na Vysočinu.
 - Knihovnu chce programovat už několik lidí.
-title: Pátek a&nbsp;pak svátek&#8230;
+title: "Pátek a pak svátek…"
 ---
 
 <p>

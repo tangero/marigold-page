@@ -13,7 +13,7 @@ summary_points:
 - Krátkodobě se očekává zlepšení displejů, baterií a dalších komponent.
 - Za čtyři roky na Telecom World mohou být k vidění pokročilejší koncepty.
 - Článek o budoucnosti mobilů pokračuje na Mobil.cz.
-title: 'Budoucnost mobilů: proměny displejů a&nbsp;vestavěných kamer'
+title: "Budoucnost mobilů: proměny displejů a vestavěných kamer"
 ---
 
 <p>

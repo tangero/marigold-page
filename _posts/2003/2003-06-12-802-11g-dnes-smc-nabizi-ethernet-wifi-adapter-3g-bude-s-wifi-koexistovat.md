@@ -13,7 +13,7 @@ summary_points:
 - SMC představilo bezdrátový ethernet adaptér SMC2671W pro připojení zařízení do WiFi.
 - ABI analyzuje možné soužití 3G a WiFi sítí, které považuje za reálné.
 - WiFi ukázalo na nereálnost masového používání 3G dat, dle autora textu.
-title: 802.11g dnes! SMC nabízí ethernet WiFi adaptér. 3G bude s&nbsp;WiFi koexistovat
+title: "802.11g dnes! SMC nabízí ethernet WiFi adaptér. 3G bude s WiFi koexistovat"
 ---
 
 <p>

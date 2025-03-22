@@ -14,7 +14,7 @@ summary_points:
   čipsety.
 - Dva USB 2.0 porty umožňují připojení webkamery, tiskárny nebo pevného disku.
 - Přístup k disku připojenému přes USB bude zřejmě možný jen přes FTP.
-title: Asus WL-500GX &#8211; nový domácí směrovač s&nbsp;USB 2.0
+title: "Asus WL-500GX – nový domácí směrovač s USB 2.0"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20040709-asus-wl_500gx.jpg" alt="Asus WL-500GX" width="220" height="180" /></div>

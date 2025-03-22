@@ -13,7 +13,7 @@ summary_points:
 - Zvýšení upload rychlosti se týká pouze odchozího směru dat.
 - Tarif Premium TURBO bude mít 300 kbps, tarif TURBO 200 kbps upload.
 - Karneval plánuje další navýšení rychlostí v prvním čtvrtletí příštího roku.
-title: A Karneval také zrychluje na dvojnásobek (ale upload a&nbsp;ne Light)
+title: "A Karneval také zrychluje na dvojnásobek (ale upload a ne Light)"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Mobilní síť je příklad, kde mesh adaptéry předávají signál mezi sebou.
 - Vojenské využití bylo prvopočátkem mesh sítí, kde tanky distribuovaly data.
 - Zastupitelnost, úspora pásma, nízké náklady a zvýšení dosahu jsou výhody mesh sítí.
-title: Mesh sítě &#8211; P2P architektura v&nbsp;bezdrátových sítích
+title: "Mesh sítě – P2P architektura v bezdrátových sítích"
 ---
 
 O mesh sítích jsme se tu již několikrát zmiňovali a slíbil jsem článek o tom, co je to zač. Takže tu je - mesh sítě jsou vlastně sítě typu peer to peer. A to v bezdrátových sítích není vůbec samozřejmostí.<!--more--><p>

@@ -13,7 +13,7 @@ summary_points:
 - BeaconTone monitoruje interference a vybírá nejlepší přenašeč pro kvalitní připojení.
 - Flexband nabízí rychlosti až 15,9 Mb/s downlink a hlasové hovory pro sektor.
 - Siemens bude vyrábět koncová zařízení Flexband s podporou hlasu, například Gigaset.
-title: Flarion představil Flexband
+title: "Flarion představil Flexband"
 ---
 
 <p>Americký výrobce vysokorychlostních mobilních IP sítí Flarion

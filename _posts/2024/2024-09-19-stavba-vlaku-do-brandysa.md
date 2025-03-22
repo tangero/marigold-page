@@ -14,7 +14,7 @@ summary_points:
 - Klíčové bylo najít odborníky a získat podporu obcí.
 - Memorandum znamená společný závazek k výstavbě trati.
 thumbnail: https://www.marigold.cz/assets/taky-mame-mobil-na-hriba.jpg
-title: 'Stavba vlaku do Brandýsa: když mají všichni ve skříni vidle, co vám do toho
+title: "'Stavba vlaku do Brandýsa: když mají všichni ve skříni vidle, co vám do toho"
   můžou hodit'
 ---
 

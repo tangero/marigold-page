@@ -13,7 +13,7 @@ summary_points:
 - Mobilní služby se staly přežitkem, operátory odlišuje pokrytí a podpora.
 - Zvyk a spotřeba baterie jsou silné zbraně operátorů proti VoIP.
 - Budoucnost příjmů operátorů leží v M2M službách a Internetu věcí.
-title: Komodizace mobilních služeb a&nbsp;ozvěny operátorské smrti
+title: "Komodizace mobilních služeb a ozvěny operátorské smrti"
 ---
 
 Jedním ze strašáků mobilních operátorů je komodizace jejich služeb, lidově řečeno to, že se stanou pouhými trubkami přepravujícími informace. Mohli bychom namítnout, že tohle přeci jsou odjakživa, jenže tak docela pravda to není. Operátoři dnes provozují mobilní službu, se službou se pojí emoce, s emocemi lze marketingově pracovat, protože emoce je něco, za co jsou lidé ochotni prémiově zaplatit. Fakt. Fakt jsou lidé, kteří jsou (či ještě nedávno byli) ochotni tvrdit, že ten a ten operátor je nejlepší, protože to tak je. <!--more-->

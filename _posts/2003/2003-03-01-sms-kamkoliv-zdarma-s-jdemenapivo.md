@@ -13,7 +13,7 @@ summary_points:
 - SMS zprávy mají limit 144 znaků a obsahují reklamu Budvaru.
 - Služba je poskytována ve spolupráci s Eurotelem.
 - Odkaz na SMS bránu Budvaru je jdemenapivo.cz/_MOBIL_LOGOS/_sms.phtml.
-title: SMS kamkoliv zdarma s&nbsp;JDEMENAPIVO
+title: "SMS kamkoliv zdarma s JDEMENAPIVO"
 ---
 
 <p>

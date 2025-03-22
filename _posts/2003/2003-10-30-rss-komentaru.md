@@ -13,7 +13,7 @@ summary_points:
 - RSS zdroj komentářů Marigold je dostupný na http://www.marigold.cz/win/komentare_rss.html.
 - Váša umožní volbu koncovek souborů šablon v příštím update Genesis.
 - U nových příspěvků se zobrazuje jméno zprávy, ke které patří.
-title: RSS komentářů
+title: "RSS komentářů"
 ---
 
 <p>

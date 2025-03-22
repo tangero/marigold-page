@@ -15,7 +15,7 @@ summary_points:
 - Firma hledá JavaScript programátora, UX/grafika a Python programátora do týmu.
 - Sociální sítě nejsou pro Energomonitor klíčové, preferují přímý kontakt a reálnou
   práci.
-title: Podzimní energomonitorovánky (mimo jiné se hledá znalec Javascriptu a&nbsp;Grafik/UX
+title: "Podzimní energomonitorovánky (mimo jiné se hledá znalec Javascriptu a Grafik/UX"
   designer)
 ---
 

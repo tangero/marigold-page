@@ -13,7 +13,7 @@ summary_points:
 - M. Zeman z Lupy kritizuje zpoplatnění WiFi od Telecomu.
 - Telecom instaluje WiFi hotspoty i do provozoven Paneria.
 - Autor navrhuje streamovat tiskové konference jen se zvukem.
-title: Tiskovka Telecomu online&#8230;
+title: "Tiskovka Telecomu online…"
 ---
 
 <p>

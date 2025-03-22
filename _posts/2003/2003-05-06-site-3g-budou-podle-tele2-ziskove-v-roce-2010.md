@@ -13,7 +13,7 @@ summary_points:
 - Tele2 odhad je pesimističtější než odhad operátora "3".
 - Operátor "3" očekává vyrovnanou bilanci do čtyř až pěti let.
 - Opatrnost ohledně ziskovosti 3G sítí je na místě.
-title: Sítě 3G budou podle Tele2 ziskové v&nbsp;roce 2010
+title: "Sítě 3G budou podle Tele2 ziskové v roce 2010"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Skoro polovina hlasujících v anketě vystřídala minimálně tři mobilní čísla.
 - Ankety se zúčastnilo 141 respondentů.
 - 'Nová anketa se ptá na preferovaný server o mobilech: Mobil nebo MobilManii.'
-title: 'Vyhodnocení ankety kolik mobilních čísel jste dosud vlastnili
+title: "'Vyhodnocení ankety kolik mobilních čísel jste dosud vlastnili"
 
   '
 ---

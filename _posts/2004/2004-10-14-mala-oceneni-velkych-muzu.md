@@ -13,7 +13,7 @@ summary_points:
 - Nominace na "Osobnost roku" jsou ovlivněny papírovou formou a opakujícími se jmény.
 - Odmítnutí ceny Berdárem poukazuje na sporné kvality nominovaných a politické pozadí.
 - Autor navrhuje ocenit i méně známé, ale přínosné osobnosti z oboru.
-title: Malá ocenění velkých mužů
+title: "Malá ocenění velkých mužů"
 ---
 
 <p>

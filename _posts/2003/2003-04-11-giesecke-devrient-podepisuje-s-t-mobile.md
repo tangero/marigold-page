@@ -13,7 +13,7 @@ summary_points:
 - GD přebírá servisní centrum SIM karet T-Mobile v Münsteru.
 - GD vyvíjí SIM karty s automatickým zálohováním kontaktů.
 - T-Mobile možná globálně objedná SIM karty s automatickým zálohováním.
-title: Giesecke &#038; Devrient podepisuje s&nbsp;T-Mobile
+title: "Giesecke & Devrient podepisuje s T-Mobile"
 ---
 
 <p>

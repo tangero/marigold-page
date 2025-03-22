@@ -15,7 +15,7 @@ summary_points:
   létě.
 - Telewest testuje kabelové připojení 2 Mbps pro 1500 zákazníků zdarma jako upgrade.
 - BT má 750 000 ADSL uživatelů a chce dosáhnout milionu do léta.
-title: BT nabídne ADSL o&nbsp;rychlost 1Mbps, Telewest zkouší 2 Mbps
+title: "BT nabídne ADSL o rychlost 1Mbps, Telewest zkouší 2 Mbps"
 ---
 
 <p>

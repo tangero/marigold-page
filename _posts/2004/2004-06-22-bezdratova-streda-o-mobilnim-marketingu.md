@@ -13,7 +13,7 @@ summary_points:
 - Moderátorem akce bude pravděpodobně stejná osoba jako minule.
 - Vstup na Bezdrátovou středu stojí 300 Kč.
 - Podrobnosti o akci jsou dostupné na odkazu tuesday.cz/detailAkce.aspx?id=190.
-title: Bezdrátová středa o&nbsp;mobilním marketingu
+title: "Bezdrátová středa o mobilním marketingu"
 ---
 
 <p>

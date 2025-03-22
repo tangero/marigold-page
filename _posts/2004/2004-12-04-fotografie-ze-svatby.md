@@ -13,7 +13,7 @@ summary_points:
 - Fotografie ze svatby pořídil otec Helmut digitálním fotoaparátem poprvé.
 - Fotogalerie svatebních fotografií je dostupná na odkazu http://www.marigold.cz/foto/thumbnails.php?album=9.
 - Hostina nebyla fotografována kvůli vybité baterii fotoaparátu.
-title: Fotografie ze svatby
+title: "Fotografie ze svatby"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/1/20041204-svatebnifoto.jpg" alt="Naše společné svatební foto... " width="341" height="308" /></div>	

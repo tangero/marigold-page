@@ -13,7 +13,7 @@ summary_points:
 - Snímky ukazují BTS v Brně-Líšni a Brně-Horních Heršpicích s novou technologií.
 - Deset snímků dokumentuje osazení CDMA technologií na brněnských základnových stanicích.
 - Odkaz vede ke snímkům Eurotel CDMA instalací v Brně.
-title: Eurotel BTS osazené pro CDMA v&nbsp;pásmu 450 MHz
+title: "Eurotel BTS osazené pro CDMA v pásmu 450 MHz"
 ---
 
 <p>

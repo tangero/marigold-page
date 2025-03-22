@@ -16,7 +16,7 @@ summary_points:
 - Měli bychom se chovat tak, abychom se nemuseli stydět za své chování.
 - Potomci uvidí naši dobu jako masu manipulovatelných lidí nebo jakými jsme chtěli
   být.
-title: Jak to bude jednou, až to bude tenkrát
+title: "Jak to bude jednou, až to bude tenkrát"
 ---
 
 Tu a tam mě zajímá, jak jednou budou naše časy vnímat lidé, kteří přijdou po nás. A zajímá mne to spíše více, než méně. Je to zajímavý základ pro uvažování o věcech takových, jaké jsou. Což se dobře řekne, ale špatně udělá a než se pokusím vysvětlit, proč to, pokusím se ukázat, kde a jak to. Nejdříve na našem vnímání minulosti.  

@@ -10,7 +10,7 @@ summary_points:
 - Naučit se programovat od nuly vyžaduje čas a zvládnutí moderních frameworků.
 - Zkušený programátor hodnotí, že základy Pythonu lze zvládnout za pár dní.
 - Orientace v algoritmizaci a moderních jazycích je klíčová pro praktické využití.
-title: Za jak dlouho se člověk naučí z&nbsp;voleje programovat, když to před tím nikdy
+title: "Za jak dlouho se člověk naučí z voleje programovat, když to před tím nikdy"
   nedělal?
 ---
 

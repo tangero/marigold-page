@@ -13,7 +13,7 @@ summary_points:
 - Složení peněz pro vstup do tendru mělo šibeniční termín.
 - Tendr vyvolává podezření z politické objednávky a předem daného vítěze.
 - Autor kritizuje nezávislost a chyby ČTÚ v posledním roce.
-title: 'ČTÚ se daří organizovat podivný tendr pro mobilní internet
+title: "'ČTÚ se daří organizovat podivný tendr pro mobilní internet"
 
   '
 ---

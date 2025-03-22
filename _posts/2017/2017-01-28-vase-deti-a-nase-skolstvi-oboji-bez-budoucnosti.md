@@ -13,7 +13,7 @@ summary_points:
 - Nadstandardní vzdělání vyžaduje měsíční náklady 5-10 tisíc korun.
 - Podfinancované školy vedou k přetíženým učitelům a nezájmu žáků.
 - Politici ignorují dlouhodobé problémy, jako je školství a zdravotnictví.
-title: 'Vaše děti a&nbsp;naše školství: obojí bez budoucnosti'
+title: "Vaše děti a naše školství: obojí bez budoucnosti"
 ---
 
 Smiřte se s tím, že vaše děti jsou tvorové bez budoucnosti. Leda byste byli připraveni vyklopit pět až deset tisíc měsíčně. Takhle naplacato a natvrdo řečeno je současná situace v českém školství a zkrácená verze následujícího. Pokud nebudete schopni zaplatit svým dětem "nadstandardní" vzdělání, dostane se jim vzdělání, které se neposunulo za třicet let od toho, jak jste ho znali vy (a jak ho ustavila josefinská reforma), přičemž za tu dobu přibralo problémy nové, aniž bych se zbavilo starých. Zahodíte všechny talenty dětí, ustane jejich zvídavost, stanou se Šedivými.

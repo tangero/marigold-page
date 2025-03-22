@@ -15,7 +15,7 @@ summary_points:
 - Japonsko je populární pro VoBB díky vysokorychlostnímu internetu a drahým meziměstským
   hovorům.
 - Japonské Yahoo testuje širokopásmový přístup pro VoBB službu směrem k mobilním telefonům.
-title: Nové buzzword &#8211; VoBB
+title: "Nové buzzword – VoBB"
 ---
 
 <p>

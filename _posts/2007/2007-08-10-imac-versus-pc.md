@@ -12,7 +12,7 @@ summary_points:
 - Obrázek porovnává iMac od Apple s počítačem Dell.
 - Grafika zobrazuje srovnání vzhledu iMacu a PC Dell.
 - Zdroj obrázku je webová stránka marigold.cz.
-title: iMac versus PC
+title: "iMac versus PC"
 ---
 
 Netřeba komentovat... 

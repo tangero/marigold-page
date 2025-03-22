@@ -19,7 +19,7 @@ summary_points:
   C"
 - "\u0158e\u0161en\xED probl\xE9mu s teplotami u modern\xEDch bateri\xED je obt\xED\
   \u017En\xE9, n\u011Bkter\xE9 powerbanky nab\xEDzej\xED NiMH akumul\xE1tory"
-title: "N\u011Bco m\xE1lo k&nbsp;vyb\xEDjen\xED bateri\xED zejm\xE9na u&nbsp;iPhone\
+title: ""N\u011Bco m\xE1lo k vyb\xEDjen\xED bateri\xED zejm\xE9na u iPhone\"
   \ v&nbsp;chladn\xE9m po\u010Das\xED"
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - Kvalita signálu v lokalitách je indikována barvou čtverečku na mapě.
 - Vytížení gigabitových linek Praha-Brno je minimální, NIX2 linka teče 300 Mb/s.
 - Diskusní fórum k schématu sítě UPC je dostupné na CHello.
-title: Schéma sítě UPC
+title: "Schéma sítě UPC"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - GB prostoru na Mozy stojí 2 dolary měsíčně, což je levné.
 - Software Mozy umožňuje nastavit zálohování, ale chybí klient pro Mac.
 - Referenční kód NHB7NF při registraci na Mozy poskytuje extra prostor.
-title: Mozy.com &#8211; 2GB zdarma pro online zálohy
+title: "Mozy.com – 2GB zdarma pro online zálohy"
 ---
 
 <p>Hezkou zálohovací službu jsem právě našel. Jmenuje se <a href="https://mozy.com/?ref=NHB7NF">Mozy</a> a nabízí zálohování Windows XP na síťový disk přes internet - samozřejmě na disk provozovatele. 2GB prostoru jsou zdarma, za další platíte - 5GB vyjde na dva doláče měsíčně, což je dnes nejlevnější záležitost široko daleko. </p>

@@ -13,7 +13,7 @@ summary_points:
 - České firmy nehýčkají zaměstnance, což vede k nízké ochotě ke změně práce.
 - Češi odmítají cestovat za prací, ačkoliv by mohli výrazně zvýšit svůj plat.
 - Personální agentura ICT Recruit nabízí v ČR IT pozice i zdravotnické profese.
-title: Volné IT/Telco pozice
+title: "Volné IT/Telco pozice"
 ---
 
 <p>

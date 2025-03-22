@@ -13,7 +13,7 @@ summary_points:
 - iDNES zvolil Contactel jako poskytovatele, Seznam a Centrum Aliatel.
 - Anonymita uživatelů iDNES Internetu zdarma je sporná kvůli telefonnímu číslu.
 - Uživatelé jiných systémů se o anonymitu nestarají, používají pseudonymy.
-title: iDNES poskytuje &#8222;Internet zdarma&#8220;
+title: "iDNES poskytuje „Internet zdarma“"
 ---
 
 <p>

@@ -11,7 +11,7 @@ published: true
 summary_points:
 - Jetřichovice hostily víkendový sraz lidí z Mobil Media na chatě Jakuba Matějů.
 - Sobotní výlet do Českosaského Š
-title: Fotografie z&nbsp;Jetřichovic
+title: "Fotografie z Jetřichovic"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Hlasování bude zveřejněno, preferovány jsou nové projekty a lidé.
 - Hlasování o Osobnost českého internetu 2003 je otevřené.
 - Autor zvažuje Jandu (CzFree) nebo Sovu (internetové poplatky, ADSL).
-title: Hlasujte o&nbsp;Osobnost českého internetu!
+title: "Hlasujte o Osobnost českého internetu!"
 ---
 
 <p>

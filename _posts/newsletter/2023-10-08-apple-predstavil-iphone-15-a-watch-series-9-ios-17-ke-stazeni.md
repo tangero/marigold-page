@@ -14,7 +14,7 @@ summary_points:
 - Apple Watch Series 9 nově ovládá gesto "double tap" pro příjem hovorů.
 - EU donutila Apple k zavedení USB-C v iPhone 15 namísto Lightning.
 - Liché modely iPhonů se zaměřují na technické upgrady, ne zásadní inovace.
-title: Apple představil iPhone 15 a Watch Series 9, iOS 17 ke stažení
+title: "Apple představil iPhone 15 a Watch Series 9, iOS 17 ke stažení"
 ---
 
 Píšu to sem už trochu pozdě. Já vím. Září patří tradičně představení nových telefonů společnosti Apple. A Apple nezklamal: vše bylo, jak má v lichý rok, být. Nový iPhone 15 je rychlejší, hezčí, lepší a dražší, nové hodinky Watch Series 9 vám dokonce umožní klepnout dvěma prsty o sebe. Devátý model hodinek přidal rychlejší čip, který podle dat z akcelerometru, polohového senzoru i změn v průtukou krve odhadnou, zda jste se náhodou nepokusili udělat gesto, které Apple nazval “double tap”, tedy klepnutí ukazováčku do bříška palce. Právě tímto gestem lze ovládat hodinky a tím vlastně celý Apple ekosystém, když máte například plné ruce. Můžete tak přijmout hovor nebo jej ukončit a to bez toho, aniž byste se dotkli displeje. Ale to bylo tak všechno, žádná podstatná technická inovace se nekonala, pokud za ni nepovažujete nahrazení konektoru Lightning za USB-C v nových iPhonech.

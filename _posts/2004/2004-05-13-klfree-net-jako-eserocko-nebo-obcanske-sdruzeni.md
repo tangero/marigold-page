@@ -13,7 +13,7 @@ summary_points:
 - Milan Krčmář a Jaromír Šulc navrhují převod, Roman Štec je proti.
 - Členové KlFree.Net rozhodnou hlasováním na valné hromadě 20. května.
 - KlFree.Net má 300 členů a hospodaří s majetkem kolem 600 000 Kč.
-title: KlFree.Net &#8211; jako eseróčko nebo občanské sdružení?
+title: "KlFree.Net – jako eseróčko nebo občanské sdružení?"
 ---
 
 <p>

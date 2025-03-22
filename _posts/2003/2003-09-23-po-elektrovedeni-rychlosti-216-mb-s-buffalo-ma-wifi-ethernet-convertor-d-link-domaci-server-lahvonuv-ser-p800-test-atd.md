@@ -13,7 +13,7 @@ summary_points:
 - Buffalo uvádí ethernetový bezdrátový konvertor WLI-TX1-G54 AirStation za 129 USD.
 - D-Link představil domácí datovou centrálu DSM-602H s 20GB diskem za 250 USD.
 - Lahvoň recenzoval chytrý mobil Sony Ericsson P800 na jiri.hlavac.cz.
-title: 'Po elektrovedení rychlostí 216 Mb/s, Buffalo má WiFi ethernet convertor, D-Link
+title: "'Po elektrovedení rychlostí 216 Mb/s, Buffalo má WiFi ethernet convertor, D-Link"
   domácí server, Lahvoňův Ser P800 test atd.
 
   '

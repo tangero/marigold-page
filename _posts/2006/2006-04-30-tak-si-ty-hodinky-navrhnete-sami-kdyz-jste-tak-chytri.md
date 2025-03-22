@@ -13,7 +13,7 @@ summary_points:
 - Prim Chronomag vznikly návrhy nadšenců na Fóru Chronomagu v roce 2005.
 - Limitovaná edice Prim Chronomag měla 40 kusů s renovovanými strojky kalibr 66.
 - Hodinky Prim Chronomag nebyly běžně prodejné, pouze pro tvůrce a aukci.
-title: 'Tak si ty hodinky navrhněte sami, když jste tak chytří!
+title: "'Tak si ty hodinky navrhněte sami, když jste tak chytří!"
 
   '
 ---

@@ -14,7 +14,7 @@ summary_points:
 - Článek na Mobil.cz o čínském bezpečnostním standardu pro WiFi.
 - Eten P300 recenzován na PPCW.Net, nejlevnější chytrý mobil s PocketPC.
 - Saddám Husajn dopaden, detaily a fotky na iDNES.
-title: 'WiFidrobky: recenze D-Link DWL-700AP, ASUS WL-500, čínské WiFi a&nbsp;PocketPC
+title: "'WiFidrobky: recenze D-Link DWL-700AP, ASUS WL-500, čínské WiFi a PocketPC"
   mobil Eten P300'
 ---
 

@@ -13,7 +13,7 @@ summary_points:
 - Místo lina si autor nechal položit kancelářský koberec specialistou.
 - Speciální police autor sehnal přes inzerát z Mostu a sám je smontoval.
 - V pondělí bude v kanceláři zprovozněn internet přes WiFi.
-title: I jako truhlář bych se uživil a&nbsp;jiné povzdechy
+title: "I jako truhlář bych se uživil a jiné povzdechy"
 ---
 
 <p>

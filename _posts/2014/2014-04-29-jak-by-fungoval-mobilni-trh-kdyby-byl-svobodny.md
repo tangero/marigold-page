@@ -13,7 +13,7 @@ summary_points:
 - Mobilní trh bez regulace vede k chaosu a technologické nekompatibilitě.
 - Finanční nejistota brzdí rozvoj sítí a vyvolává spekulace.
 - Konsolidace trhu vede k monopolům a vysokým cenám služeb.
-title: Jak by fungoval mobilní trh, kdyby byl &#8222;svobodný&#8220;
+title: "Jak by fungoval mobilní trh, kdyby byl „svobodný“"
 ---
 
 <p>Svoboda je relativní věc. Pokud si ji dopředu vymezíme, jako něco, co umožňuje dělat cokoliv, co nenarušuje cizí práva, dostáváme se do drobného problému, co jsou ta cizí práva.</p>

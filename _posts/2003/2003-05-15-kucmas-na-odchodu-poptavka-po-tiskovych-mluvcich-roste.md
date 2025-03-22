@@ -13,7 +13,7 @@ summary_points:
 - Diana Dobalová má nastoupit do Eurotelu na pozici tiskové mluvčí.
 - Oskar hledá nového tiskového mluvčího, Igor Přerovský má moc práce.
 - T-Mobile uvažuje o nové PR agentuře, rozhodnutí je lokální.
-title: Kučmáš na odchodu, poptávka po&nbsp;tiskových mluvčích roste&#8230;
+title: "Kučmáš na odchodu, poptávka po tiskových mluvčích roste…"
 ---
 
 <p>

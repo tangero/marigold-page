@@ -12,7 +12,7 @@ summary_points:
 - Ministerstvo informuje o druhém kole rámcového programu EU.
 - Rozpočet pro vědu a výzkum bude pravděpodobně krácen.
 - MI zřejmě ignoruje finanční problémy vědců při spolufinancování.
-title: Má vláda schízu?
+title: "Má vláda schízu?"
 ---
 
 <p>

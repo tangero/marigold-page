@@ -13,7 +13,7 @@ summary_points:
 - WiFinder diodami indikuje sílu okolních WiFi sítí bez nutnosti návodu.
 - WiFinder má překvapivě srovnatelnou citlivost s PCMCIA kartou.
 - Autor objevil množství WiFi sítí v obchodních centrech a ulicích Prahy.
-title: WiFi sítě kolem nás
+title: "WiFi sítě kolem nás"
 ---
 
 <p>

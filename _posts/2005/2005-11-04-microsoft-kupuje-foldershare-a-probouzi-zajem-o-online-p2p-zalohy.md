@@ -16,7 +16,7 @@ summary_points:
 - P2P zálohy umožňují ukládat data fragmentovaně a šifrovaně na počítače cizích uživatelů.
 - Microsoft Live koncept dává smysl s P2P zálohováním, ale technologie vyžaduje další
   vývoj.
-title: Microsoft kupuje FolderShare a&nbsp;probouzí zájem o&nbsp;online P2P zálohy
+title: "Microsoft kupuje FolderShare a probouzí zájem o online P2P zálohy"
 ---
 
 <p>Nebyla tomu věnována velká pozornost a kdyby mne tahle oblast nezajímala speciálně, asi bych tomu nevěnoval pozornost ani já, protože Microsoft nakupuje společnosti jak housky na krámě. Za blíže neurčenou sumu přechází do portfolia Microsoftu společnost FolderShare. Je to tři roky starý americký start-up, který přišel s P2P software pro zálohování. </p>

@@ -15,7 +15,7 @@ summary_points:
 - Internet prohloubil krizi médií, nabídl nulovou cenu, rychlost a variabilitu.
 - Internetová média parazitovala na klasických, ale přinesla osobitější zpravodajství.
 - Nová média se naučila nízkým nákladům, inovaci obchodních modelů a experimentům.
-title: Budoucnost médií starých, nových i&nbsp;těch ještě nenarozených
+title: "Budoucnost médií starých, nových i těch ještě nenarozených"
 ---
 
 <p>Ptáme-li se (<a href="http://www.marigold.cz/item/k-cemu-je-nam-novin-a-zprav-zapotrebi">třeba pod vlivem minulého článku</a>), jaká je budoucnost médií, dostává se nám zhusta odpovědi, že je těžké ji předjímat. To ale není tak docela pravda. Trendy, které již dnes jsou zřejmé a ověřené, je již možné odvodit a vztáhnout k budoucnosti.</p>

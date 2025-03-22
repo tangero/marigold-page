@@ -16,7 +16,7 @@ summary_points:
 - Finální "černý web" vznikl po důkladném testování a zpětné vazbě.
 - Chybou bylo naslouchání nesprávné cílové skupině.
 - Poučení z chyb je klíčové pro úspěšný vývoj produktu.
-title: 'Když vyslyšíte cílovou skupinu, která jí není, je to průšvih
+title: "'Když vyslyšíte cílovou skupinu, která jí není, je to průšvih"
 
   '
 ---

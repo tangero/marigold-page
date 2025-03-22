@@ -13,7 +13,7 @@ summary_points:
 - Jajah podporuje videokonference, telekonference a překlad textových zpráv.
 - Hovory v Jajah jsou šifrované, ale volání do Skype jen po bránu.
 - Jajah podporuje protokoly SIP, IAX2, H.323 a P2P pro telefonování.
-title: Další promakaný VoIP klient &#8211; Jajah &#8211; pět minut hovoru zdarma
+title: "Další promakaný VoIP klient – Jajah – pět minut hovoru zdarma"
 ---
 
 <p>V poslední době se s telefoními službami na bázi VoIP roztrhl pytel. Kdekdo by rád zopakoval úspěch programu Skype a k tomu mají dopomoci nejrůznější metody. Dříve zmíněný <a href="/item/voipbuster-nabizi-volani-na-pevne-linky-zdarma-a-teleo-a-xphone">VoIPBuster</a> nabízí minutové hovory zdarma, <a href="http://www.kapanga.net/">Kapanga</a> nabízí faxování i videohovory, bohužel v dosti nehezkém provedení. Poslední novinkou je pokus rakouské firmy Jajah technologies prosadit stejnojmenný VoIP klient na úroveň Skype mánie. </p>

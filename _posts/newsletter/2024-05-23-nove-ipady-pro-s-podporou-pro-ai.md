@@ -18,7 +18,7 @@ summary_points:
 - Rychlé uvedení M4 procesoru pravděpodobně souvisí s lepší výtěžností výrobního procesu
   N3E.
 - Apple se údajně snaží zajistit si exkluzivní přístup k 2nm výrobní technologii TSMC.
-title: Nové iPady Pro s podporou pro AI
+title: "Nové iPady Pro s podporou pro AI"
 ---
 
 Je to pár dní, kdy Apple představil ve své streamované show "Let Loose" své nové iPady a příslušenství. A já musím říci, že jsem doufal ve více. Jistě, nové iPady jsou rychlejší a obecně lepší, než jejich předchůdci, ale to se tak nějak u nových zařízení očekává. Skvělý je nový procesor M4, je ale velkou otázkou, proč nahrazuje M3, který tu s námi je od loňského podzimu. Ano, nové příslušenství je úžasné, jenže také nekompatibilní se staršími zařízeními. Nová tužka Pencil Pro i nová klávesnice Magic Pro je jen pro řadu Pro iPadů pro profi práci. Prostě tam vidím moc pro. A nic jiného. Proč?

@@ -15,7 +15,7 @@ summary_points:
 - Dosažení obecné umělé inteligence je dle autora vzdáleno minimálně čtvrtstoletí.
 - Největší rizika AI v blízké budoucnosti představuje zneužití a předpojatost systémů.
 - Sledování rozvoje AGI vyžaduje vyhodnocování pokroku v širokém spektru odvětví.
-title: Komplexní řešení, komplexní výzvy
+title: "Komplexní řešení, komplexní výzvy"
 ---
 
 Když se na seznam problémů stojících před transformativním pojetím AI podíváme, nutně vidíme jeho obsáhlost. A nelze nevidět nutnost celkového posunu, ve všech parametrech. Vyřešení jedné skupiny problémů nemusí a pravděpodobně ani nebude stačit. Jenže vyřešit všechny tyto problémy je náročné a bude to nepochybně i zdlouhavé. V řadě případů se může vývoj na dlouho zaseknout, nezapomínejme na to, že technologický rozvoj má tendenci pohybovat se ve skocích a ty skoky nemusí být rovnoměrné mezi jednotlivými odvětvími a zdánlivě neproduktivní periody mohou být deprimující. 

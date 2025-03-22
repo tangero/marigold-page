@@ -17,7 +17,7 @@ summary_points:
 - Servisní menu Ubiquam U-400 se aktivuje kódem 8247826 (UBIQUAM).
 - Ec/Io udává kvalitu signálu, pod -10 indikuje nezdravou síť.
 - Další servisní menu se aktivují kódy 343587 a 343586.
-title: Servisní menu telefonu Ubiquam U-400
+title: "Servisní menu telefonu Ubiquam U-400"
 ---
 
 Dal jsem se v posledních dnech do zkoumání toho, proč má U:fon někdy tak mizerný zvuk. Původně jsem si toho nevšiml, nejsem natolik citlivý, abych takové věci bezpečně rozeznával a ani prostředí, kde telefonuju, nebývá akusticky ideální. Ale pak se ta plechovost místy nedala přehlédnout.

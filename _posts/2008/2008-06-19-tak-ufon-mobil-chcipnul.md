@@ -17,7 +17,7 @@ summary_points:
 - Telefon se v metru nepodařilo odblokovat kvůli nefunkční klávese.
 - Ubiquam telefon bude reklamován kvůli poruše klávesy Menu.
 - Telefon nakonec obživnul a klávesy fungují, autor je zmatený.
-title: Tak Ufon mobil chcípnul
+title: "Tak Ufon mobil chcípnul"
 ---
 
 <em><strong>Update:</strong> telefon poté, co jsem mu dal poslední šanci před zabalením, opět obživnul a všechny klávesy fungují, jak mají. Nevím, jestli mne to má uklidnit :)</em>

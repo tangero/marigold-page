@@ -13,7 +13,7 @@ summary_points:
 - WiFi hotspoty málo vydělávají a stěží splácí provoz a investice.
 - Analytici předpovídají minimální komerční úspěšnost WiFi do roku 2007.
 - Mobilní data možná nejsou potřebná pro většinu lidí, což je problém.
-title: Wi-fi will be &#8218;next dot.com crash&#8216;
+title: "Wi-fi will be ‚next dot.com crash‘"
 ---
 
 <p>

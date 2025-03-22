@@ -14,7 +14,7 @@ summary_points:
 - Zákazníci budou moci používat hotspoty konkurence a platit skrze svého operátora.
 - Francouzští operátoři chtějí vytvořit standard pro roaming WiFi a GSM sítí.
 - SFR podepsala roamingovou dohodu s evropským hotspot operátorem Swisscom Eurospot.
-title: 'Francouzští GSM operátoři spolupracují na WiFi roamingu
+title: "'Francouzští GSM operátoři spolupracují na WiFi roamingu"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Financování sítí vyžaduje komerční činnost nebo sponzory.
 - Zneužití informací partnerů bez souhlasu je neetické.
 - Autor článku se kauzy osobně nedotýká, má vlastního ISP.
-title: Peripetie zakladatelů CZFree.Net
+title: "Peripetie zakladatelů CZFree.Net"
 ---
 
 <p><b>ook píše</b>: Na portlu <a href="http://czfree.net/forum/showthread.php?threadid=13982" >CZFree.Net</a> se objevilo další pokračování komerčních aktivit člověka, který je považován za otce komunitní sítě CZFree.Net. <br />

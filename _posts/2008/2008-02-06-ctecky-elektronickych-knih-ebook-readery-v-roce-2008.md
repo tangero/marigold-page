@@ -16,7 +16,7 @@ summary_points:
 - Vizplex e-ink displeje druhé generace zrychlují zobrazení, zvyšují kontrast.
 - Amazon Kindle používá CDMA pro stahování knih, nabízí platformu pro autory.
 - Formát Mobipocket je dobře přenositelný, ale chybí čtečky pro Mac/Linux.
-title: Čtečky elektronických knih, ebook readery v&nbsp;roce 2008
+title: "Čtečky elektronických knih, ebook readery v roce 2008"
 ---
 
 Vloni jsem <a href="http://www.marigold.cz/item/ctecky-elektronickych-knih-ebook-readery-v-roce-2007">publikoval článek</a> se stejným nadpisem, jen letopočet v něm byl jiný. Rok s rokem sešli se a myslím, že je čas udělat si malý update, co nového jest v oblasti e-ink zařízení a čteček elektronických knih. I když mám pár schůzek na tohle téma sjednaných v BArceloně na 3GSM, není na škodu rekapitulovat si základní dění. 

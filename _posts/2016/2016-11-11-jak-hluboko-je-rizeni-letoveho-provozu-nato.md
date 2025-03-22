@@ -13,7 +13,7 @@ summary_points:
 - Podzemní řízení letového provozu NATO je hluboko pod úrovní ruských střel.
 - Rusové mají nové technologie, ale NATO má nového vrchního velitele.
 - Překvapení z každodenních detailů mě stále inspiruje.
-title: 'Jak hluboko je řízení letového provozu NATO
+title: "'Jak hluboko je řízení letového provozu NATO"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Rakouští programátoři úspěchu hry založili server Yetisports s pěti flash hrami.
 - Yeti Sports má fanklub, e-shop s CD, kalendáři a propagačními předměty.
 - Java verze Yeti Sports pro mobily bude brzy dostupná i v České republice.
-title: 'Pamatujete na yetiho odpalujícího tučňáka?
+title: "'Pamatujete na yetiho odpalujícího tučňáka?"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - V červenci 2004 využívalo Pe3ny.Net přes 800 uživatelů v Praze 5 a okolí.
 - Roční obrat Pe3ny.Net se odhaduje minimálně na 5 milionů korun.
 - Komunitní WiFi sítě v Praze představují trh kolem 250 milionů korun ročně.
-title: Síť Pe3ny.Net  hlásí přes 800 klientů
+title: "Síť Pe3ny.Net  hlásí přes 800 klientů"
 ---
 
 <p>

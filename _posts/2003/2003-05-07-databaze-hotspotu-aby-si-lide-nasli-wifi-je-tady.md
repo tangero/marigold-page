@@ -13,7 +13,7 @@ summary_points:
 - Provozovatelé hotspotů mohou zadávat data o svých sítích do databáze.
 - Vyhledávání hotspotů podle lokality a sítě bude doplněno příští týden.
 - Webová adresa pro zadávání dat o hotspotech je www.marigold.cz/hotspoty.
-title: Databáze hotspotů, aby si lidé našli WiFi, je tady&#8230;
+title: "Databáze hotspotů, aby si lidé našli WiFi, je tady…"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
   50 USD.
 - Frozen Bubble je bezplatná hra pro Series 60 s GPL licencí od NewLC.
 - Yeti hrátky jsou J2ME hra dostupná pro různé mobily za 50 Kč u Redboss.
-title: 'Series 60 drobky: Quickoffice Premier, Frozen Bubble a&nbsp;Yetisport pro
+title: "'Series 60 drobky: Quickoffice Premier, Frozen Bubble a Yetisport pro"
   mobily'
 ---
 

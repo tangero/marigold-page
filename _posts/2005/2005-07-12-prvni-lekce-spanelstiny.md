@@ -13,7 +13,7 @@ summary_points:
 - Siesta znamená pracovní porada, fiesta je oběd hrazený firmou.
 - Manana je definována jako "ihned k vyřízení", caramba značí souhlas s odstupným.
 - Diablo je generální ředitel a hombre představuje cílovou skupinu.
-title: První lekce španělštiny
+title: "První lekce španělštiny"
 ---
 
 <p>Z jedné nejmenované telekomunikační společnosti mi zaslali místní zaměstnanci slovníček španělštiny, abych se mohl v několika snadných lekcích přizpůsobit novým podmínkám trhu. Takže se také můžete vzdělávat:</p>

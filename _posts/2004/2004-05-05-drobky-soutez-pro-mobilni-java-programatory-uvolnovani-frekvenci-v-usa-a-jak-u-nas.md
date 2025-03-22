@@ -13,7 +13,7 @@ summary_points:
 - FCC uvolňuje 50 MHz pásma pro WiMax na objednávku G. Bushe.
 - Zvažuje se souběh TV vysílání a bezdrátových sítí na stejné frekvenci.
 - V ČR se uvolnění frekvencí pro WiMax v dohledné době neočekává.
-title: 'Drobky: soutěž pro mobilní Java programátory, uvolňování frekvencí v&nbsp;USA
+title: "'Drobky: soutěž pro mobilní Java programátory, uvolňování frekvencí v USA"
   a&nbsp;jak u&nbsp;nás:)'
 ---
 

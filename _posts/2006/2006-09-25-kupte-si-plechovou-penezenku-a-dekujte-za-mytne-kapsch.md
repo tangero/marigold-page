@@ -13,7 +13,7 @@ summary_points:
 - Policie by mohla mít zájem o data z RFID čipů, pokud systém ČD spustí.
 - Plechové peněženky stíní RFID čipy, což brání jejich skenování.
 - Mýtný systém s rámy je bezpečnější, než GPS, kvůli rušení a sledování.
-title: Kupte si plechovou peněženku a&nbsp;děkujte za mýtné Kapsch
+title: "Kupte si plechovou peněženku a děkujte za mýtné Kapsch"
 ---
 
 <p>S RFID čipy si ještě užijeme hodně legrace. Na slevové karty je budou cpát České Dráhy a hodlají s jejich využitím nejenom zjednodušit odbavení u pokladen, ale - a to je kontroverznější - také monitorovat pohyb cestujících. </p>

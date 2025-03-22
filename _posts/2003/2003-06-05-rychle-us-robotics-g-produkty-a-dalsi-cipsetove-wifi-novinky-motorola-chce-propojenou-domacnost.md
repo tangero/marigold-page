@@ -16,7 +16,7 @@ summary_points:
 - Intel opravuje problémy Centrina s VPN a přidává nové rychlosti procesoru a bezpečnost.
 - Motorola založila divizi "Connected Home" pro vývoj produktů pro propojené domácnosti
   a set-top boxy.
-title: Rychlé US Robotics G produkty a&nbsp;další čipsetové WiFi novinky. Motorola
+title: "Rychlé US Robotics G produkty a další čipsetové WiFi novinky. Motorola"
   chce &#8222;propojenou domácnost&#8220;
 ---
 

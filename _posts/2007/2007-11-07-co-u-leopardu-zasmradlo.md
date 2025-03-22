@@ -13,7 +13,7 @@ summary_points:
 - System.log v Leopardu může narůst přes 250MB a způsobit zahlcení procesorem.
 - Apple testuje aktualizaci 10.5.1 pro Leopard, která by měla opravit chyby.
 - iPhone firmware 1.1.1 upgrade je snadný, ale další verze může telefony zablokovat.
-title: Co u&nbsp;Leopardu zasmrádlo
+title: "Co u Leopardu zasmrádlo"
 ---
 
 Pár věcí, které se v Leopardovi nevydařily, se najde. 

@@ -13,7 +13,7 @@ summary_points:
 - Donutil v roli Truffaldina autora nadchl, zejména improvizované monology.
 - Místa na galerii byla vzdálená, ale kukátka a Pyškův hlas Willise zážitek vylepšily.
 - Představení bylo vyprodané, což zpochybňuje stížnosti divadel na nedostatek financí.
-title: Sluha dvou pánů
+title: "Sluha dvou pánů"
 ---
 
 <p>

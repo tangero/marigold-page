@@ -14,7 +14,7 @@ summary_points:
 - Dobrý projekťák potřebuje znalosti, asertivitu a psychickou odolnost.
 - Projekťák řeší problémy a udržuje projekt na trase bez zbytečných zásahů.
 thumbnail: https://oeru.org/assets/coursepage/Project-management-flow-chart.jpg
-title: Projektový manažer je v&nbsp;Česku sprosté slovo &#8211; ke škodě projektů
+title: "Projektový manažer je v Česku sprosté slovo – ke škodě projektů"
   &#8230;
 ---
 

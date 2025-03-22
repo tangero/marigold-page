@@ -12,7 +12,7 @@ summary_points:
 - Popularis se v posledním díle věnoval tématu digitální televize.
 - Záznam pořadu o digitální televizi je dostupný online ve formátu Real Video.
 - Po zhlédnutí záznamu Popularis diváci získají lepší přehled o digitální televizi.
-title: Digitální televize pro BFU
+title: "Digitální televize pro BFU"
 ---
 
 <p>

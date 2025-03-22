@@ -13,7 +13,7 @@ summary_points:
 - UIQ 3.0 přidává podporu 3G a Operator Configuration Package (OCP).
 - Devět telefonů aktuálně používá starší verze UIQ, například Sony Ericsson P910.
 - Článek obsahuje screenshoty nového grafického prostředí UIQ 3.0.
-title: V Cannes bude představen UIQ 3.0
+title: "V Cannes bude představen UIQ 3.0"
 ---
 
 <p>Novou verzi grafického rozhraní UIQ 3.0 bude

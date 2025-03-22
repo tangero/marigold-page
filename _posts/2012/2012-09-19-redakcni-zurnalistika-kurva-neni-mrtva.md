@@ -18,7 +18,7 @@ summary_points:
 - Úspory v redakcích vedou k rozvratu a ztrátě paměti, což brání poučení se z chyb.
 - Financování zpravodajství je klíčové, dobrovolné platby nefungují, redakční systém
   je dobrý.
-title: 'Redakční žurnalistika kurva není mrtvá!
+title: "'Redakční žurnalistika kurva není mrtvá!"
 
   '
 ---

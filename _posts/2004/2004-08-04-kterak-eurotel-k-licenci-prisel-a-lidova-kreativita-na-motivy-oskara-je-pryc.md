@@ -12,7 +12,7 @@ summary_points:
 - Článek o licenci Eurotelu vyšel na Mobil.cz, téma bylo zpracováno dříve.
 - Databáze spadla, tazatelova otázka o Eurotelu byla ztracena.
 - Oskar reklama, o které autor psal dříve, v posilovně zmizela.
-title: Kterak Eurotel k&nbsp;licenci přišel. A&nbsp;lidová kreativita na motivy Oskara
+title: "Kterak Eurotel k licenci přišel. A lidová kreativita na motivy Oskara"
   je pryč
 ---
 

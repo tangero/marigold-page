@@ -13,7 +13,7 @@ summary_points:
 - Neviditelný pes publikoval dvě recenze Flotily Země od Henryho a Pagiho.
 - Henryho recenze kritizovala knihu pro lineární děj a nudnost.
 - Pagiho recenze chválila ironii a zábavnost knihy jako oddechového čtení.
-title: 'Recenze Flotily: pochvala a&nbsp;sepsutí'
+title: "Recenze Flotily: pochvala a sepsutí"
 ---
 
 <p>Flotila Země se po třech měsících, kdy vyšla s časopisem Pevnost, dostala do volného prodeje (za 89 Kč) - <a href="http://www.daemon.cz/kniha/6440/zandl-patrick-flotila-zeme.htm">online například zde</a>. Reakcí jsem dostal řadu, většinou takových těch po ICQ od kamarádů a známých, kteří na to někde narazili. Na Neviditelném psovi vyšly dvě recenze, jedna počátkem června od Henryho, druhá od Pagiho. Ani jednoho z pánů neznám osobně ani neosobně (aspoň myslím), takhle familierně je zovu jen proto, že se tak podepsali pod recenze. </p>

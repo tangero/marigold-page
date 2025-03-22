@@ -14,7 +14,7 @@ summary_points:
 - Cena Orinoco AP-600 se pohybuje od 280 USD (802.11b) do 390 USD (802.11a).
 - Orinoco 11g Gold Cardbus Card pro notebooky bude stát 89 USD.
 - Starší ORiNOCO 11b Gold a Silver Cardbus Card zlevní díky nové kartě.
-title: Proxim a&nbsp;jeho 802.11g plán
+title: "Proxim a jeho 802.11g plán"
 ---
 
 <p>

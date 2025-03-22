@@ -13,7 +13,7 @@ summary_points:
 - Privátní záložky a sdílení pouze s přáteli jsou novinky oproti del.icio.us.
 - Jagg.cz umožňuje ukládání, sdílení a prohlížení záložek ostatních uživatelů.
 - Bookmarklety pro Firefox a Explorer jsou dostupné, chystá se rozšíření pro Firefox.
-title: 'Jagg.cz – záložky ulož, sdílej, najdi
+title: "'Jagg.cz – záložky ulož, sdílej, najdi"
 
   '
 ---

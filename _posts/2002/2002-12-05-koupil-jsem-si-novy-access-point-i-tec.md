@@ -13,7 +13,7 @@ summary_points:
 - Orinoco AP-2500, s funkcemi pro hot-spoty, je zvažován jako budoucí upgrade.
 - i-Tec Access Point Gold zakoupen za 7200 Kč, má dvě antény a kovové kryty.
 - i-Tec Access Point Gold nemá WEB management, další zkušenosti budou následovat.
-title: Koupil jsem si nový access point i-Tec
+title: "Koupil jsem si nový access point i-Tec"
 ---
 
 <p>

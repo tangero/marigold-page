@@ -13,7 +13,7 @@ summary_points:
 - Pavilony Invexu 2008 jsou poloprázdné, výjimkou je Zetko s hrami.
 - Autor našel na Invexu 2008 jen pár zajímavostí, většinou opakujících se.
 - Autor nedokáže doporučit návštěvu Invexu 2008 kvůli jeho slabé úrovni.
-title: Invex &#8211; tak jsem tam&#8230;
+title: "Invex – tak jsem tam…"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Počet odeslaných MMS zpráv klesl, i přes nárůst fotomobilů.
 - Uživatelé fotomobilů je používají i k jiným účelům než MMS.
 - Problémy s nastavením, velikostí a podporou komplikují používání MMS.
-title: Popularita MMS zatím nestoupá (průzkum v&nbsp;UK)
+title: "Popularita MMS zatím nestoupá (průzkum v UK)"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Automatická změna a distribuce WEP klíče je hlavní funkcí AirBlocku.
 - Windows XP/2000 a určená zařízení jsou nutné pro fungování AirBlocku.
 - Code Red, izraelská firma, je autorem softwaru AirBlock.
-title: AirBlock 802.11 &#8211; zabezpečení WiFi sítě
+title: "AirBlock 802.11 – zabezpečení WiFi sítě"
 ---
 
 <p>

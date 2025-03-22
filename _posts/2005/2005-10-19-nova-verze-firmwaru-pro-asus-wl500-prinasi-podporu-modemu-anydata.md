@@ -13,7 +13,7 @@ summary_points:
 - Firmware umožňuje sdílení připojení přes GTRAN nebo AnyData bez složitého nastavování.
 - Firmware podporuje sériovou komunikaci přes USB, včetně převodníků PL2303 pro GPRS/EDGE/3G.
 - AP Scan funkce usnadňuje správu a nasazení AP díky vyhledávání volných wifi kanálů.
-title: 'Nová verze firmwaru pro Asus WL500 přináší podporu modemu AnyData
+title: "'Nová verze firmwaru pro Asus WL500 přináší podporu modemu AnyData"
 
   '
 ---

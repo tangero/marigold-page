@@ -14,7 +14,7 @@ summary_points:
 - CzFree body nejsou primárně určeny pro databázi vyhledávání WiFi z ulice.
 - Vyhledávání hotspotů funguje kliknutím na jméno města.
 - Plánuje se přidání výpisu hotspotů podle sítě.
-title: Databáze WiFi hotspotů je už živá
+title: "Databáze WiFi hotspotů je už živá"
 ---
 
 <p>

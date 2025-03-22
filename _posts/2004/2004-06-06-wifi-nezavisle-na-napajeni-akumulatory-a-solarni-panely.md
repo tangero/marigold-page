@@ -13,7 +13,7 @@ summary_points:
 - Solární panely vyžadují akumulátor a regulátor pro stálé napájení WiFi repeateru.
 - Linksys WRT54G je vhodný pro repeater díky nízké spotřebě (cca 6W).
 - Solární napájení WiFi repeateru je drahé (cca 10 000 Kč) a láká zloděje.
-title: WiFi nezávislé na napájení &#8211; akumulátory a&nbsp;solární panely
+title: "WiFi nezávislé na napájení – akumulátory a solární panely"
 ---
 
 <p>

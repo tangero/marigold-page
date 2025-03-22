@@ -13,7 +13,7 @@ summary_points:
 - DAI rank hodnotí dostupnost informačních a komunikačních technologií v zemích.
 - Plné zveřejnění DAI ranku proběhne v prosinci na WSIS v Ženevě.
 - Autor se zajímá o DAI rank České republiky.
-title: Jaký bude DAI rank pro ČR?
+title: "Jaký bude DAI rank pro ČR?"
 ---
 
 <p>

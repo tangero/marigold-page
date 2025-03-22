@@ -13,7 +13,7 @@ summary_points:
 - Tazatel potřebuje CRM pro evidenci firem, akcí s nimi spojených a jejich přiřazení.
 - Požadováno je webové rozhraní a ideálně open-source řešení pro úpravy.
 - Tazatel hledá doporučení na jednoduchý CRM software, protože nabídka je příliš široká.
-title: Hledám CRM software &#8211; poradíte někdo?
+title: "Hledám CRM software – poradíte někdo?"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Maratonský deník aerobního tragéda je blog pro zájemce o fyzkulturu.
 - ISDN server publikuje seriál o IP Multimedia Systému.
 - Dluhy.bloguje.cz a Pavel Kohout jsou inspirativní finanční blogy.
-title: 'Drobky: souhrn poznatků o&nbsp;5 GHz pásmu, Gmail J2ME čtečka a&nbsp;další
+title: "'Drobky: souhrn poznatků o 5 GHz pásmu, Gmail J2ME čtečka a další"
   odkazy'
 ---
 

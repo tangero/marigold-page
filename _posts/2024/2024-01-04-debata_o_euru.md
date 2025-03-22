@@ -13,7 +13,7 @@ summary_points:
 - 3. Česko nemá "tah na branku" k efektivnímu využití eura.
 - 4. Společná měna s Německem může být strategickou výhodou.
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/6/65/Euro_coins_and_banknotes.jpg
-title: Debata o Euru
+title: "Debata o Euru"
 ---
 
 Občas se nám to stane. Otevře se debata. Tu s větším, tu s menším vkusem, ta o euru se ovšem otevřela vcelku vkusně, střízlivým projevem prezidenta (vyložte si to, jak chcete, obě verze podle mě platí).

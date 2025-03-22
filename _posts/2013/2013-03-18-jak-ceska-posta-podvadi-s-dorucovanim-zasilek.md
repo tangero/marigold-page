@@ -15,7 +15,7 @@ summary_points:
 - Depo Čertousy nedoručuje balíky, rovnou je předává brandýské pobočce.
 - Řidiči depa falšují doručení, aniž by se pokusili balík doručit.
 - Autor navrhuje kontrolu, stížnosti adresátů a odezvu od eshopů.
-title: Jak Česká pošta podvádí s&nbsp;doručováním zásilek
+title: "Jak Česká pošta podvádí s doručováním zásilek"
 ---
 
 <p>Česká pošta je kapitola sama pro sebe. Uznávám, že kolos s desetitisíci zaměstnanci je těžké uřídit a nebrblal bych, kdyby šlo o jednotlivá pochybení. Dneska vám ale ukážu, jak nefunguje celý systém doručování balíkových zásilek.</p>

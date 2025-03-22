@@ -10,7 +10,7 @@ summary_points:
 - Autor vyzývá k veřejnému odsouzení násilí a podpoře školy.
 - Spustil veřejnou sbírku, aby škole finančně pomohl.
 - Cílem je ukázat dětem, že nejsou samy.
-title: 'Sbírka mezi přáteli na Teplickou školu čili malá soukromá vzpoura proti tomu,
+title: "'Sbírka mezi přáteli na Teplickou školu čili malá soukromá vzpoura proti tomu,"
   že rasismus je zase normální
 
   '

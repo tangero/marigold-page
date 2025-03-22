@@ -13,7 +13,7 @@ summary_points:
 - KlFree.Net v Kladně překračuje povolený vyzářený výkon antény, ignoruje nálezy ČTÚ.
 - Problémem je bezohlednost nových ISP, kteří ruší stávající připojení a nedbají předpisů.
 - Řešením je odmontování antény bez povolení a následná konfrontace s provozovatelem.
-title: 'Jak se někteří chovají v&nbsp;etéru: KlFree.Net'
+title: "Jak se někteří chovají v etéru: KlFree.Net"
 ---
 
 <p>

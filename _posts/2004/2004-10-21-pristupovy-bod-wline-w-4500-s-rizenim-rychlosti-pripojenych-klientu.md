@@ -13,7 +13,7 @@ summary_points:
 - Cena Wline W4500 je 2000 Kč bez DPH.
 - AP Wline W4500 podporuje WEP 128 bitů, klientský režim a NAT.
 - Wline W4500 postrádá 802.11g a WPA.
-title: Přístupový bod Wline W 4500 s&nbsp;řízením rychlosti připojených klientů
+title: "Přístupový bod Wline W 4500 s řízením rychlosti připojených klientů"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/1/20041021-wlinew4500.gif" alt="Wline W4500" width="230" height="201" /></div>

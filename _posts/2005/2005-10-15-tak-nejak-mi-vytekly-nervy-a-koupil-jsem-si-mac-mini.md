@@ -13,7 +13,7 @@ summary_points:
 - Ztráta dat vedla k rozhodnutí reorganizovat uživatelův "strojový park".
 - Notebook bude používán hlavně v kanceláři, aby se snížilo riziko poškození.
 - Uživatel si koupil Apple Mac Mini na domácí použití, aby si spravil náladu.
-title: Tak nějak mi vytekly nervy a&nbsp;koupil jsem si Mac Mini
+title: "Tak nějak mi vytekly nervy a koupil jsem si Mac Mini"
 ---
 
 <p>Chudák MaLér asi celou noc čekal, jestli si ráno na Marigoldovi  přečte odsuzující hanopis svého miláčka. Ale vezměme to  popořádku.</p>

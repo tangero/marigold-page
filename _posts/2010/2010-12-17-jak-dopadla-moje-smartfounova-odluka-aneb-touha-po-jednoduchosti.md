@@ -16,7 +16,7 @@ summary_points:
 - Důvodem návratu k chytrému telefonu byly hlavně mapy a fotoaparát.
 - Nokia N8 vyhrála díky mapám, výdrži baterie a emailovému klientovi.
 - Autor preferuje funkční nástroj před moderními technologiemi a aplikacemi.
-title: Jak dopadla moje smartfounová odluka (aneb touha po&nbsp;jednoduchosti)
+title: "Jak dopadla moje smartfounová odluka (aneb touha po jednoduchosti)"
 ---
 
 Občas se mě na to někdo zeptá: jak dopadla moje smartphone odluka. Asi je na čase ji zhodnotit, protože tento týden došlo k životnímu kroku. Prodal jsem iPhone. Můj starý dobrý iPhone 2G, jeden z prvních, co šel z fabriky, šel z domu za pouhých 2500 Kč via Aukro. Pro mě to byl mezník, měl jsem jej od roku 2007 nebo kdy to přišel na trh a když jsem z něj mazal 7500 SMS, které jsem si z nějakého důvodu uchoval... viděl jsem, že si tím mažu kus historie (tak jsem je zálohoval).

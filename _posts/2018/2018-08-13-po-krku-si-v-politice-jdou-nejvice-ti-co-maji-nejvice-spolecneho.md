@@ -9,7 +9,7 @@ summary_points:
 - Liberální strany se ostře vymezují kvůli omezené skupině voličů.
 - Předvolební konflikty komplikují následné koaliční jednání.
 - Systém liberální demokracie je vyčerpávající a poškozuje politickou soutěž.
-title: Po krku si v politice jdou nejvíce ti, co mají nejvíce společného
+title: "Po krku si v politice jdou nejvíce ti, co mají nejvíce společného"
 ---
 
 Jeden z mnoha problémů dnešní politické scény je, že po krku si jdou nejvíce ti, kteří mají nejvíce společného. A naopak protiklady se tolik nedusí. Třeba komunisté: existuje v Česku několik komunistických stran, ale jsou marginální, pro neobornou veřejnou existuje jen KSČM a prakticky to i tak je. A ta se tedy nepotřebuje vymezovat proti marginálním komunistickým stranám – pokud se chcete realizovat jako komunista, je pro vás mnohem zajímavější dělat nějakou frakci v rámci KSČM, než si zakládat jinou komunistickou stranu.  

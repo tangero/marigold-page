@@ -13,7 +13,7 @@ summary_points:
 - Město může budovat telekomunikační infrastrukturu, podobně jako lavičky či osvětlení.
 - Praha 5 se poučila z PragoNetu a síť outsourcuje, považuje ji za dobročinnou aktivitu.
 - Zpřístupnění WiFi zdarma zlepší dojem občanů, ale stávající poskytovatele to nenadchne.
-title: 'Má město stavět vlastní telekomunikační infrastrukturu?
+title: "'Má město stavět vlastní telekomunikační infrastrukturu?"
 
   '
 ---

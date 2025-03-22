@@ -14,7 +14,7 @@ summary_points:
   e-shopu.
 - Server a grafiku zajistí autor, funkčnost služby je detailně promyšlená.
 - Zájemci o programování P2P knihovny se mohou ozvat autorovi na email patrick@marigold.cz.
-title: 'Hledá se programátor (zdarma pracující) na zajímavý projekt
+title: "'Hledá se programátor (zdarma pracující) na zajímavý projekt"
 
   '
 ---

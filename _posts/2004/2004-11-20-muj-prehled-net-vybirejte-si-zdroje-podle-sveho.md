@@ -13,7 +13,7 @@ summary_points:
 - Klíčová slova umožňují sledovat články podle témat v nadpisech a perexu.
 - Kolaborativní funkce budou sledovat objevy lidí s podobnými zájmy anonymně.
 - Chronologický výpis nových technických článků je oblíbená funkce na www.prehled.net/chrono.
-title: Můj.Přehled.net &#8211; vybírejte si zdroje podle svého
+title: "Můj.Přehled.net – vybírejte si zdroje podle svého"
 ---
 
 <p>

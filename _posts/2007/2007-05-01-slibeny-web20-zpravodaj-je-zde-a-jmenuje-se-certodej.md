@@ -13,7 +13,7 @@ summary_points:
 - Akciový web Čertoděj odměňuje vlastníky podíly za péči o web.
 - Martin Malý spolupracuje na Čertoději, který má formu akciového webu.
 - Systém akciového webu se po ověření plánuje aplikovat i na Chronomag.
-title: Slíbený web2.0 zpravodaj je zde a&nbsp;jmenuje se Čertoděj
+title: "Slíbený web2.0 zpravodaj je zde a jmenuje se Čertoděj"
 ---
 
 Před pár dny jsem tu slíbil v souvislosti s prodejem Jaggu, že zkusíme zprovoznit zpravodaj o moderních internetových aplikačních trendech (tedy o tom, čemu říkáme web2.0). Ještě to není zcela hotové, pár chybek zůstává, ale což už s tím, než to publikovat první květnový den. Web se jmenuje <a href="http://www.certodej.cz/">Čertoděj</a> a je o čertovských dějích v internetu, jak jinak. 

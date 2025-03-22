@@ -18,7 +18,7 @@ summary_points:
 - Netflix testuje zpoplatnění sdílení účtů v Latinské Americe.
 - Švýcarsko buduje podzemní síť autonomní nákladní dopravy za 3,5 miliardy dolarů.
 - Atari slaví 50 let, Commodore 64 byl konkurent.
-title: Jednohubky
+title: "Jednohubky"
 ---
 
 Tesla prodala 75% svých bitcoinů, cena klesla. [Zdroj](https://blockworks.co/tesla-sells-bitcoin-for-profit-still-posts-impairment-loss/). 

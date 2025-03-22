@@ -13,7 +13,7 @@ summary_points:
 - Marigold vybírá nejlepší weby jako akademik v soutěži Český zavináč.
 - Autor žádá o tipy na nové, maximálně dva roky staré weby.
 - E-mail marigold@marigold.cz slouží pro zasílání tipů na zajímavé weby.
-title: 'Marigold mezi akademiky českého internetu
+title: "'Marigold mezi akademiky českého internetu"
 
   '
 ---

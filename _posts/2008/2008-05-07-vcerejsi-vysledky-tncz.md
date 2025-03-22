@@ -17,7 +17,7 @@ summary_points:
 - Oproti předchozímu dni Tn.cz zaznamenalo mírný pokles v počtu uživatelů i zobrazení.
 - Autor neviděl TV kampaň Tn.cz a zajímá ho její vliv na online návštěvnost.
 - Offline propagace online verze v konkurenci se v Česku zatím nikomu nepovedla.
-title: Včerejší výsledky Tn.cz
+title: "Včerejší výsledky Tn.cz"
 ---
 
 Když odmyslím, že komentáře na Tn.cz byly veskrze negativní, stojí za to se podívat na výsledky Tn.cz v ohledu návštěvnosti. Ty totiž byly vesrkze positivní a jako prohnaný webista bych radši bral návštěvnost, než kladné ohlasy... 

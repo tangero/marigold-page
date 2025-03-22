@@ -13,7 +13,7 @@ summary_points:
 - Podporovaná čísla zahrnují Francii, Polsko, Velkou Británii a USA.
 - Skype plánuje rozšířit podporu pro volání na osmistovky celosvětově.
 - Petr Sršeň upozornil na tuto novinku ze zdroje Skype.
-title: Skype volá na Zelené linky
+title: "Skype volá na Zelené linky"
 ---
 
 <p>Zelené linky, osmistovky, bude možno volat i ze Skype a to zdarma. Zatím jsou podporována tato čísla:</p>

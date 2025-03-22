@@ -13,7 +13,7 @@ summary_points:
 - GSM bylo velmi úspěšné, UMTS má zpoždění a není přesvědčivé.
 - ERMES a Tetra jsou prakticky mrtvé, rozvíjejí se proprietární standardy.
 - HiperLAN/MAN zachránilo sjednocení s WiFi/WiMax, jinak by zkrachovalo.
-title: Sen o&nbsp;evropské technologické dominaci je vlastně fuč
+title: "Sen o evropské technologické dominaci je vlastně fuč"
 ---
 
 <p>

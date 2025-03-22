@@ -13,7 +13,7 @@ summary_points:
 - Balsillie z BlackBerry tvrdil, že vyřešili středoevropské znaky.
 - Nejzajímavější projev v Cannes měl Cedric Ponsot o digitální hudbě.
 - Autor si z Ponsotovy konference udělal nejvíce poznámek.
-title: Panel s&nbsp;Valeskim zklamal
+title: "Panel s Valeskim zklamal"
 ---
 
 <p>

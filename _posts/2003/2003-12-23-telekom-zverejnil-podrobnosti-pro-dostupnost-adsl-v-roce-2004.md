@@ -13,7 +13,7 @@ summary_points:
 - PDSL bude dostupné ve větších městech a okolí Velké Prahy.
 - Dostupnost PDSL se zvýší na 60% telefonních linek Telecomu.
 - Celkem 14400 zákazníků má DSL, nejvíce v Praze (7390).
-title: Telekom zveřejnil podrobnosti pro dostupnost ADSL v&nbsp;roce 2004
+title: "Telekom zveřejnil podrobnosti pro dostupnost ADSL v roce 2004"
 ---
 
 <p>

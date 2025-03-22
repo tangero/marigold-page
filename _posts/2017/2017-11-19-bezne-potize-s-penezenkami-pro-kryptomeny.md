@@ -10,7 +10,7 @@ summary_points:
 - Mobilní peněženky na iOS mají nedostatky v transakčních poplatcích a funkcích.
 - Bezpečnost mobilních peněženek je problematická, doporučuje se hardwarová peněženka.
 - Doporučené mobilní peněženky pro iOS jsou Bread wallet a Airbitz, Mycelium se nedoporučuje.
-title: Běžné potíže s&nbsp;peněženkami pro kryptoměny
+title: "Běžné potíže s peněženkami pro kryptoměny"
 ---
 
 <p>Nikdy před tím mě to nebralo. Skladování větších kryptočástek jsem nechal na cold wallet, případně zkušeným kolegům, na menší jsem prostě měl aplikaci v mobilu. Jenže pak jsem přešel z Androida zpět na iOS a znervózněl jsem. </p>

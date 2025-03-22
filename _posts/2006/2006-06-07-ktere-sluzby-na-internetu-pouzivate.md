@@ -16,7 +16,7 @@ summary_points:
   ThinkFree a Google.
 - Hledání, mapy, RSS čtečky, zpravodajství a online poradny tvoří kategorii ostatní
   a informace.
-title: 'Které služby na Internetu používáte?
+title: "'Které služby na Internetu používáte?"
 
   '
 ---

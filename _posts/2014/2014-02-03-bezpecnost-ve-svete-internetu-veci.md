@@ -13,7 +13,7 @@ summary_points:
 - Bezpečnostní hrozby zahrnují kompromitaci dat, útoky na infrastrukturu a prvky sítě.
 - Lokální oprávnění a anonymizace dat snižují riziko úniku informací.
 - Rostoucí výpočetní výkon zvyšuje potenciál pro sofistikované bezpečnostní hrozby.
-title: Bezpečnost ve světě Internetu věcí
+title: "Bezpečnost ve světě Internetu věcí"
 ---
 
 <p>Už jsem kdysi předesílal, že "Internet věcí" bude podle mého soudu významným intenzifikačním faktorem pro udržení životní úrovně při snížení spotřeby limitovaných zdrojů (tedy snížení spotřeby zdrojů na hlavu). Bude podobnou revolucí ve spotřebě, jako vynález výroby z plastů nebo v Číně. Což má jeden háček. Bezpečnostní.</p>

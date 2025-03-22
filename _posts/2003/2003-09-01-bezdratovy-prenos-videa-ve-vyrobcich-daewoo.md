@@ -15,7 +15,7 @@ summary_points:
   čase.
 - Bezdrátové video snižuje nechuť uživatelů k propojování zařízení kabely.
 - Obava z propojování drátů je druhý největší důvod, proč lidé nekupují novou elektroniku.
-title: 'Bezdrátový přenos videa ve výrobcích Daewoo
+title: "'Bezdrátový přenos videa ve výrobcích Daewoo"
 
   '
 ---

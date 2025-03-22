@@ -12,7 +12,7 @@ summary_points:
 - McDonald's na Václavském náměstí nabízí internetové stanice s počítači a kamerami.
 - Cafe Louvre instaluje internetový kiosek, jehož poskytovatel a služby jsou neznámé.
 - Autor nezkoumal cenu internetu v McDonald's ani detaily kiosku v Cafe Louvre.
-title: Internetové terminály v&nbsp;mekáči
+title: "Internetové terminály v mekáči"
 ---
 
 <p>

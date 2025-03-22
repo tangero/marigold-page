@@ -13,7 +13,7 @@ summary_points:
 - Sdíleče ČRa sloučily do agregační skupiny, aby neomezovali ostatní zákazníky.
 - Stížnosti na rychlost Bluetone Angel vedly ČRa k vydání tiskové zprávy.
 - Všeobecné podmínky ČRa sdílení kapacity nepovolují.
-title: 'ČRa zakročily proti sdílení Bluetone Angel
+title: "'ČRa zakročily proti sdílení Bluetone Angel"
 
   '
 ---

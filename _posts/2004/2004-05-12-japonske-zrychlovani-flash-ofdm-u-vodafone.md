@@ -13,7 +13,7 @@ summary_points:
 - Vodafone Japan ohlásil přechod na flash OFDM s rychlostí až 3 Mb/s.
 - Flash OFDM je technologie firmy Flarion, dříve vyvinutá Bellovými laboratořemi.
 - Flarion dodává karty a čipové sady pro Flash OFDM, potenciálně i pro mobily.
-title: Japonské zrychlování &#8211; Flash OFDM u&nbsp;Vodafone
+title: "Japonské zrychlování – Flash OFDM u Vodafone"
 ---
 
 <p>

@@ -17,7 +17,7 @@ summary_points:
   společnosti.
 - Muž chtěl koupit pozemky pro "bio farmu", ve skutečnosti je developer.
 - Pozemky budou rekreační zónou, pán by na nich nemohl hospodařit a podnikat.
-title: Tak se zase někdo pokusil se mnou vydrbat&#8230;
+title: "Tak se zase někdo pokusil se mnou vydrbat…"
 ---
 
 Tohle je příběh hodný zaznamenání, pro ponaučení soukmenovců i potomků. 

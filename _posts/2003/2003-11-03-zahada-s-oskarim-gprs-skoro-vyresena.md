@@ -13,7 +13,7 @@ summary_points:
 - Změna aktivace by vymazala Oskar Dárky, jejichž obsah autor nezná.
 - Autor přežil víkend bez GPRS a zvažuje jeho reálnou potřebnost.
 - Úspora s Oskarem je pro autora prioritou, i bez okamžitého GPRS.
-title: Záhada s&nbsp;Oskařím GPRS (skoro) vyřešena
+title: "Záhada s Oskařím GPRS (skoro) vyřešena"
 ---
 
 <p>

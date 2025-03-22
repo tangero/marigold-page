@@ -12,7 +12,7 @@ summary_points:
 - Ferimex Flat 9 je panelová anténa se ziskem 9 dB a úhlem 60 stupňů.
 - PAN-10 je levná, ale méně spolehlivá anténa oproti Ferimexu.
 - PAN-14 je silnější variantou antény PAN-10.
-title: Ferimex Flat 9 anténa
+title: "Ferimex Flat 9 anténa"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/1/20041008-ferimex-flat9.jpg" alt="Ferimex Flat 9" width="200" height="168" /></div>

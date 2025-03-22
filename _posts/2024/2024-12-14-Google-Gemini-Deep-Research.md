@@ -14,7 +14,7 @@ summary_points:
 - 4. Výstup zahrnuje podrobné analýzy s odkazy na zdroje.
 - 5. Pro češtinu použijte překladače jako Deepl nebo Google Translator.
 thumbnail: https://cdn.iphoneincanada.ca/wp-content/uploads/2024/12/Gemini_Research.jpg
-title: Google Gemini Deep Research - skvělý průzkum tématu s pomocí AI
+title: "Google Gemini Deep Research - skvělý průzkum tématu s pomocí AI"
 ---
 
 Tahle funkce [Google Gemini](https://gemini.google.com) je naprosto úžasná v případě, že potřebujete důkladně prozkoumat nějaké téma. Jmenuje se Deep Research a dělá přesně to, co píše: hluboký průzkum, ze kterého pak udělá zprávu. 

@@ -15,7 +15,7 @@ summary_points:
 - Instruktážní video o správném jezení kachny natočili v Pekingu.
 - Video bylo natočeno fotoaparátem Nikon D90.
 - Autoři mají certifikát ke kachně a chtějí si ho zarámovat.
-title: Jak se jí pekingská kachna
+title: "Jak se jí pekingská kachna"
 ---
 
 Pekingská kachna je pojem sám o sobě. A víte, jak se správně jí? To není o tom, pokydat ji bramborovým knedlíkem a na vidličku nabodnout zelí, jako s tou naší. A protože jsme se při cpaní kachnou v Pekingu trochu nudili, tak jsme natočili s Péťou instruktážní video. Mimochodem, na foťák Nikon D90, který se naučil videa natáčet ... 

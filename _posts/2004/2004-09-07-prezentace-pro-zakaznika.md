@@ -13,7 +13,7 @@ summary_points:
 - Firma prezentuje zákazníkům proces účtování XML dokumentů v mobilní síti.
 - Autor vtipně navrhuje prezentaci odhalující pravdu o zakázce a službách.
 - Autor nakonec zvolil konvenční prezentaci, i když si uvědomuje její prázdnotu.
-title: Prezentace pro zákazníka
+title: "Prezentace pro zákazníka"
 ---
 
 <p>

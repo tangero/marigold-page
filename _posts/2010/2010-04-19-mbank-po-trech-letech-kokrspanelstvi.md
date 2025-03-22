@@ -15,7 +15,7 @@ summary_points:
 - Zahraniční platby nejsou v mBank funkční, pouze přes PayPal.
 - Platby z mBank nezobrazují jméno majitele účtu, komplikují párování.
 - mBank je zdarma, ale má slabiny, výběry v zahraničí jsou výhodné do 2500 Kč.
-title: mBank po&nbsp;třech letech kokršpanělství
+title: "mBank po třech letech kokršpanělství"
 ---
 
 mBank rád používám, když dávám příklad na školeních, jak prostřednictvím sociálně síťového marketingu udělat z vachrlaté služby službu dobře přijímanou. Z mnoha dobrých důvodů. Když se na mBanku podíváte, je to s ní po všech stránkách divné. Partička z Polska, která tu podniká na nějakou eurounijní licenci, když už tu máme jejich mateřskou banku. Hromada slibů, které se neplní - a stejně to lidem žíly netrhá. Proč se podobný WOW efekt nepodařil českému FIO? Jen proto, že je to kampelička, se kterými nebyly před deseti lety dobré zkušenosti? To asi ne, polské produkty také neslují kvalitou. Ano, byl to dobře zvládnutý sociální marketing. PS: níže uvedené se týká <strong>mBank českého</strong>, neznám slovenský ani jiný...

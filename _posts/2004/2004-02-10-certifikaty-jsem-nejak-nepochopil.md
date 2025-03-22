@@ -13,7 +13,7 @@ summary_points:
 - České certifikační autority účtují za osobní certifikát průměrně 500 Kč.
 - Platnost certifikátu je pouze jeden rok, prodloužení stojí opět 500 Kč.
 - Certifikát má pro osobní použití malé uplatnění a je finančně nevýhodný.
-title: Certifikáty jsem nějak nepochopil&#8230;
+title: "Certifikáty jsem nějak nepochopil…"
 ---
 
 <p>

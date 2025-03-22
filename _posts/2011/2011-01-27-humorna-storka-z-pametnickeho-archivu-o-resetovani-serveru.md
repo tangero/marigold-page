@@ -16,7 +16,7 @@ summary_points:
 - Vrátný omylem resetoval řídící server RadioMobilu místo serveru Mobil server.
 - Výpadek serveru RadioMobil způsobil dočasnou nedostupnost telefonní sítě.
 - Server PVT byl sbírka vyřazených dílů, což způsobovalo časté problémy.
-title: Humorná storka z&nbsp;pamětnického archivu o&nbsp;resetování serverů
+title: "Humorná storka z pamětnického archivu o resetování serverů"
 ---
 
 Jak jsem tak dával dohromady podklady k Siteláckému data centru a zmínil tam Podivný mlýn PVTčka, vzpoměl jsem si na le-gen-dární historku, která se k tomu pojí (a inspiroval Petr Koubský vzpomínkovým článkem). A tak ji dám k lepšímu. 

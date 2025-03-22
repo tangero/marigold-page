@@ -13,7 +13,7 @@ summary_points:
 - Matsuzakaya, banky a Sony také umožňují akcionářům hlasovat pomocí mobilního telefonu.
 - Technologie mobilního hlasování v Japonsku není v textu specifikována.
 - TIW (Český Mobil) umožňoval hlasování internetem a zvažuje i mobilní hlasování.
-title: 'U čtrnácti japonských firem mohou hlasovat akcionáři mobilem
+title: "'U čtrnácti japonských firem mohou hlasovat akcionáři mobilem"
 
   '
 ---

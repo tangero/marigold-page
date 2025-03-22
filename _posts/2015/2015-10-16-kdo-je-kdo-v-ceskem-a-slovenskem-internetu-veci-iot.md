@@ -14,7 +14,7 @@ summary_points:
 - Kvantifikace významu firem v IoT je obtížná kvůli specializacím a nedostatku dat.
 - Seznam českých a slovenských IoT firem zahrnuje různé oblasti od monitoringu po
   domácí automatizaci.
-title: Kdo je kdo v&nbsp;českém (a&nbsp;slovenském) Internetu věcí &#8211; IoT
+title: "Kdo je kdo v českém (a slovenském) Internetu věcí – IoT"
 ---
 
 <p>Kdo je kdo v českém (a slovenském) Internetu věcí? To je dobrá otázka, na kterou se pokusím záhy odpovědět. Nejdříve malé vymezení. Internet věcí může obnášet celou plejádu firem, počínaje těmi, které lisují plasty pro krabičky, přes tiskaře manuálů až po dodavatele kompletních řešení. Já za firmu pro tento seznam beru takovou, která vytváří propojení mezi “věcmi”. Tiskaře nebo výrobce plastů za firmu v IoT činnou nepovažuji, byť chápu, že něco dodávají. Z toho důvodu mírně bokem dávám firmy poskytující infrastrukturu, protože ti nevytvářejí chytrost samu. </p>

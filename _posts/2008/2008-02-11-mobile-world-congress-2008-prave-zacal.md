@@ -16,7 +16,7 @@ summary_points:
 - Digitální televize (DVB-H, DAB) má nejasný úspěch a problematické měření návratnosti.
 - WiMax se stal součástí 3G standardu, ale obchodní úspěch je nejistý.
 - Technologická neutralita umožňuje volbu technologie pro širokopásmové služby.
-title: 'Mobile World Congress 2008 právě začal
+title: "'Mobile World Congress 2008 právě začal"
 
   '
 ---

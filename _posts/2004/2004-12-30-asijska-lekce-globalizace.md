@@ -13,7 +13,7 @@ summary_points:
 - Katastrofy v Arménii, Gruzii nebo Azerbajdžánu byly pro autora příliš abstraktní.
 - Tsunami v Asii zasáhlo i zahraniční turisty, což zvýšilo globální pozornost.
 - Lidstvo potřebovalo tvrdou lekci v globalizaci, protože jemné lekce ignorovalo.
-title: Asijská lekce globalizace
+title: "Asijská lekce globalizace"
 ---
 
 <p>

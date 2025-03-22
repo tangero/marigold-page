@@ -13,7 +13,7 @@ summary_points:
 - Tesco Mobile je společný podnik s mmO2, využívající jejich síť a technologie.
 - Investice do Tesco Mobile dosáhne 13 milionů USD od každého partnera.
 - Trend brandování vychází z marketingových poznatků, ale vhodnost pro Tesco je diskutabilní.
-title: Mobilní telefon značky Tesco&#8230; to je úpadek&#8230;
+title: "Mobilní telefon značky Tesco… to je úpadek…"
 ---
 
 <p>

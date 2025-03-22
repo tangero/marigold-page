@@ -15,7 +15,7 @@ summary_points:
 - Michal Hollan pracuje jako datektiv, analyzuje data z viru i offlajnu.
 - Jack McLou představuje plán na využití lidské kreativity jako nové měny.
 - Hollan přijímá roli viceprezidenta, symbolizuje přechod lidstva do virtuálního světa.
-title: Státní postnárodnostní celky v&nbsp;době digitální etnicity
+title: "Státní postnárodnostní celky v době digitální etnicity"
 ---
 
 <em>Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. </em>

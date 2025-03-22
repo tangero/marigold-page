@@ -15,7 +15,7 @@ summary_points:
 - Dotaz na službu odhalil, že muž byl navigátor, ne pilot.
 - Vyjádření vděčnosti za jeho službu vedlo k vyprávění a oboustranné radosti.
 - Společný zájem a rozhovor zlepšily den oběma cestujícím.
-title: 'Rozpoznávat hodinky je někdy užitečné
+title: "'Rozpoznávat hodinky je někdy užitečné"
 
   '
 ---

@@ -10,7 +10,7 @@ summary_points:
 - Potřeba porozumění chování lidí při návrhu produktu pro různé kultury.
 - 'Největší zaměstnavatelé antropologů: vláda, Apple, Microsoft.'
 - Česká společnost často opovrhuje softskills a technici jsou považováni za méněcenné.
-title: 'K čemu technologické firmy potřebují antropology
+title: "'K čemu technologické firmy potřebují antropology"
 
   '
 ---

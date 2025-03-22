@@ -12,7 +12,7 @@ summary_points:
 - i standard schválen, přináší silnější zabezpečení než WEP a WPA.
 - AES šifrování s 802.1X/EAP-TLS nebo PEAP je klíčovou novinkou standardu 802.11i.
 - Software upgrade na 802.11i by měl být možný pro zařízení po září 2002.
-title: 'Bezpečnostní standard 802.11i byl schválen
+title: "'Bezpečnostní standard 802.11i byl schválen"
 
   '
 ---

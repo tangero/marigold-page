@@ -17,7 +17,7 @@ summary_points:
 - Střední jméno Vodafone znamená volání a SMS zdarma ve Vodafone síti.
 - Příjmení Vodafone přináší volání a SMS zdarma do všech sítí a data.
 - Vodafone Život nabídne slevy na fitness, kadeřnictví, oblečení a akce.
-title: 'Patrick Vodafone nastupuje proti O2 Kvídovi
+title: "'Patrick Vodafone nastupuje proti O2 Kvídovi"
 
   '
 ---

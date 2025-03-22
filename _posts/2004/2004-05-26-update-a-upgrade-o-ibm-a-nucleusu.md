@@ -13,7 +13,7 @@ summary_points:
 - Starý redakční systém Genesis nahrazuje novým Nucleus kvůli robustnosti a administraci.
 - Nucleus vyžaduje složitější konfiguraci designu oproti Genesis šablonám.
 - Autor plánuje migraci dat do Nucleusu a učí se PHP pro úpravu databází.
-title: Update a&nbsp;upgrade (o&nbsp;IBM a&nbsp;Nucleusu)
+title: "Update a upgrade (o IBM a Nucleusu)"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Bluetooth SIG letos publikuje novou verzi specifikace s vylepšenou bezpečností.
 - V roce 2006 Bluetooth získá multicast pro odesílání zpráv více zařízením.
 - Dosah Bluetooth se v roce 2006 zvýší na sto metrů.
-title: Budoucí vývoj Bluetooth
+title: "Budoucí vývoj Bluetooth"
 ---
 
 <p>Kampak kráčí low-cost bezdrátové propojení bluetooth? Jeho nová verze 2.0 s rozšířením EDR (Enhanced Data Rate) nabídne trojnásobnou rychlost, tedy až 3 Mb/s se současným snížením spotřeby.</p>

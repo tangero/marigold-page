@@ -13,7 +13,7 @@ summary_points:
 - Přes WiFi lze stahovat obrázky, MP3 a videa z PC do TV.
 - Prodej v USA za 250 dolarů na jaře 2003, v ČR nejspíš bez dovozce.
 - WiFi a DivX kodek v DVD by umožnily online stahování videa.
-title: DVD přehrávač s&nbsp;WiFi
+title: "DVD přehrávač s WiFi"
 ---
 
 <p>

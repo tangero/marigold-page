@@ -13,7 +13,7 @@ summary_points:
 - Wifionline.net publikoval českou recenzi na DLink DWL 900+.
 - Technohodinky s různými funkcemi popisuje server WristDreams.
 - Mobil.cz vyhodnotil soutěž v Java programování a pokračuje seriál o WiFi.
-title: 'Drobky: Wireless Broadband Access Task Force, server o&nbsp;techno hodinkách,
+title: "'Drobky: Wireless Broadband Access Task Force, server o techno hodinkách,"
   recenze DLink DWL 900+ a&nbsp;WiMax'
 ---
 

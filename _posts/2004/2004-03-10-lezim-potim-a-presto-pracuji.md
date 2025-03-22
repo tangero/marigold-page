@@ -13,7 +13,7 @@ summary_points:
 - Autor dokončil dvě zakyslé smlouvy, i přes "vykašlaný" hlas při jednání.
 - Autor obdržel pozvánku na SDR fórum, zvažuje účast kvůli dalším akcím.
 - Článek Petra Koubského v Respektu pojednává o zániku autorského práva.
-title: Ležím, potím (a&nbsp;přesto pracuji)
+title: "Ležím, potím (a přesto pracuji)"
 ---
 
 <p>

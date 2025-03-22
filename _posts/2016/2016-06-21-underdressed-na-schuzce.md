@@ -14,7 +14,7 @@ summary_points:
 - Slečna v kostýmku slíbila přinést kávu, což splnila během jednání.
 - Diskutoval na konferenci, slečna ho podpořila proti uhelnému pánu.
 - Zjistil, že slečna je viceprezidentka pro strategii mateřského koncernu.
-title: Underdressed na schůzce
+title: "Underdressed na schůzce"
 ---
 
 Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se konečně probouchal, do obrovské nadnárodní firmy. Dorazím na recepci, napíšu se, projdu ochrankou, nastupuju do výtahu, kartička prověří, že jedu, kam smím. Dobíhá slečna v šik kostýmku, elegance sama, v ruce kelímek kafe. Galantně blokuji dveře výtahu, ona přistupuje a potěšeně se usmívá, že jsem jí nefrnknul před nosem. Táži se, jaké patro, ona mi říká číslo a já konstatuju, že to je ředitelské patro a jestli tam řediteluje nebo vaří kafe. Směje se, ukazuje mi svoje kafe v kelímku, na což říkám, že to chápu, že tady v baráku vaří extrémně blbý kafe, že sem jedu na schůzku, ale bylo mi trapný si koupit vlastní kafe, tak to zkusím nějak zvládnout. Namítá, že u nich na ředitelském kafe mají dobrý, copak ředitelové, namítám já, ale my plebs … Směje, zdá se, že jsem jí zdvihnul náladu, takže mi slibuje, že mi kafe přinese. A já, že ji beru za slovo. 

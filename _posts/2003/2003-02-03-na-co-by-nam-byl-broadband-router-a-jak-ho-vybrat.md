@@ -16,7 +16,7 @@ summary_points:
   sítě.
 - Konfigurace routeru probíhá webovým rozhraním, důležité je nastavení firewallu a
   hesel.
-title: Na co by nám byl broadband router a&nbsp;jak ho vybrat
+title: "Na co by nám byl broadband router a jak ho vybrat"
 ---
 
 Máte doma nebo ve firmě dva počítače, nebo o něco málo více? Chtěli byste je rozumně propojit mezi sebou a nechat sdílet připojení do internetu? Na to by se vám hodil broadband router. Co umí, jak ho vybrat, na co bude? Poradíme<!--more-->Slíbil jsem testy broadband routerů a slovo se má držet. Než se do nich pustíme, chtěl bych vás s problematikou broadband routerů seznámit. 

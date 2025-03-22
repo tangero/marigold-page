@@ -15,7 +15,7 @@ summary_points:
 - ČTÚ pracuje na zásadách regulace elektronické komunikace a žádá o připomínky.
 - Regulace IP telefonie nemá ekonomický ani technický důvod, kromě vstupu do telefonní
   sítě.
-title: 'Ajaj. Budeme regulovat IP telefonii. Jen co regulátoři vymyslí, jak.
+title: "'Ajaj. Budeme regulovat IP telefonii. Jen co regulátoři vymyslí, jak."
 
   '
 ---

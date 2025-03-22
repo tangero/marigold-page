@@ -14,7 +14,7 @@ summary_points:
   přátel na sociálních sítích.
 - Důležitost ohleduplnosti k sobě a skutečným přátelům při volbě, koho pustit do své
   "bubliny".
-title: 'Blokování divných lidí na Facebooku je psychohygiena
+title: "'Blokování divných lidí na Facebooku je psychohygiena"
 
   '
 ---

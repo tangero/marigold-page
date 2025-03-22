@@ -21,7 +21,7 @@ summary_points:
   na výzkum.
 - Tržní síly samy o sobě nestačí k dynamickému rozvoji polovodičového průmyslu v USA.
 - USA se snaží o vědecko-technický průlom v polovodičích pro zajištění dominance.
-title: "\U0001F1E8\U0001F1F3\U0001F1FA\U0001F1F8O čínsko-americkém soupeření: jak
+title: ""\U0001F1E8\U0001F1F3\U0001F1FA\U0001F1F8O čínsko-americkém soupeření: jak"
   zopakovat \"moonshot\" s polovodiči?"
 ---
 

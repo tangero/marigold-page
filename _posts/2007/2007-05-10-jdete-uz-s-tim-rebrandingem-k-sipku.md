@@ -13,7 +13,7 @@ summary_points:
 - Zaměstnanci firem se ztrácejí v rebrandingu společností.
 - Zhoršení služeb není ospravedlnitelné změnou brandu.
 - Likvidace kvalitních služeb po akvizici je smutný jev.
-title: Jděte už s&nbsp;tím rebrandingem k&nbsp;šípku
+title: "Jděte už s tím rebrandingem k šípku"
 ---
 
 Původně jsem chtěl napsat, aby s ním šli někam jinam, ale to se do nadpisu nehodí, je to příliš explicitní vyjádření názoru, přesvědčení. Dneska se rebranduje kde co. Stačí, aby si někdo koupil nějakou firmu a hned si myslí, že zákazníci "benefitovat ze sjednoceného brandu". Zákazníkům je to ale fuck. 

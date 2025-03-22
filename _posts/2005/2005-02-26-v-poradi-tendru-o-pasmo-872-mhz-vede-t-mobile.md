@@ -13,7 +13,7 @@ summary_points:
 - Eurotel a České Radiokomunikace jsou v soutěži na dalších místech.
 - Udělení licence T-Mobile se očekává v březnu.
 - Autor textu kritizuje organizaci soutěže ČTÚ.
-title: V pořadí tendru o&nbsp;pásmo 872 MHz vede T-Mobile
+title: "V pořadí tendru o pásmo 872 MHz vede T-Mobile"
 ---
 
 <p>Podivná soutěž krásy o licenci pro 872 MHz má už skoro svého vítěze. Podle pořadí, které na svém webu zveřejnilo ČTÚ, organizátor téhle pokoutnosti, je na prvním místě (chvíle pro překvapení) T-Mobile (překvapený výdech), následován Eurotelem a Českými Radiokomunikacemi. 

@@ -16,7 +16,7 @@ summary_points:
 - Bard čerpá data z internetu v reálném čase, včetně veřejných fór a korpusu C4.
 - Korpus C4 Googlu obsahuje patenty, Wikipedii a Scribd, i weby s pirátskými knihami.
 - Bard je zdarma, ChatGPT 4 je placený, ale OpenAI nabízí zdarma i čtvrtou verzi.
-title: Google Bard v češtině
+title: "Google Bard v češtině"
 ---
 
 Největší frmol je znovu v oblasti umělé inteligence. Tak především Google spustil svůj [jazykový model Bard](https://bard.google.com/) v dalších čtyřiceti jazycích, tentokráte včetně češtiny. Bard má být samozřejmě lepší, než ChatGPT, především má být vycvičený na desetinásobném objemu dat. Umí pracovat s obrázky, vytvořit kód v programovacím jazyce, postupně se propojuje do dalších Google služeb, jako je výstup strukturovaných dat do Tabulek nebo Google Lens (zatím jen v angličtině). 

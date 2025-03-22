@@ -13,7 +13,7 @@ summary_points:
 - Mesh hopper podporuje 802.11 deriváty a umožňuje Windows počítačům tvořit P2P sítě.
 - O Mesh hopperu je známo málo podrobností, dostupné jsou jen marketingové materiály.
 - Autor se těší na jednoduché a dostupné mesh sítě pro masové rozšíření.
-title: Mesh hopper &#8211; mesh architektura pro Windows
+title: "Mesh hopper – mesh architektura pro Windows"
 ---
 
 <p>

@@ -16,7 +16,7 @@ summary_points:
   i bez zásahu.
 - Dostupnost internetu dle vlády neznamená reálné využití, pouze technickou možnost
   připojení.
-title: 'Vláda NEchce přitlačit na rychlejší internet
+title: "'Vláda NEchce přitlačit na rychlejší internet"
 
   '
 ---

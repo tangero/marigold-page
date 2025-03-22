@@ -13,7 +13,7 @@ summary_points:
 - Skot žádal autora o kontrolu počítače a serveru po podezřelé zaměstnankyni.
 - Bratranec otevírá bar a autor mu pomáhal s nastavením routeru pro kamery.
 - Autor čistil bratrancův počítač od spyware a pomáhal s přípravou baru.
-title: Technicko osobní zážitky
+title: "Technicko osobní zážitky"
 ---
 
 <p>

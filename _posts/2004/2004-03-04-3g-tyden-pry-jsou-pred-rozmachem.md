@@ -13,7 +13,7 @@ summary_points:
 - Vodafone spustil UMTS sítě v sedmi zemích, ale pouze jako datovou službu.
 - Nedostatek vhodných mobilních telefonů je největším problémem startu UMTS sítí.
 - Symbian 8.0, operační systém pro chytré mobily, získal podporu 3G sítí.
-title: '3G Týden: prý jsou před rozmachem&#8230;'
+title: "3G Týden: prý jsou před rozmachem…"
 ---
 
 <P align=left>O 3G témata je stále více zájmu, zase jich ale není tolik, aby se tomu dalo věnovat každý den a mělo to nějaký rozsah, který kromě kusé informace také přinese srovnání s okolím. Takže jsem se rozhodl pro formát týdeního shrnutí s tím, že když nebude nic zajímavého, tak prostě nebude ani 3G týden. </p>

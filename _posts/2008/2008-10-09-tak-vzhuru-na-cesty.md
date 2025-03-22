@@ -16,7 +16,7 @@ summary_points:
 - Cesta do Číny zahrnuje veletrh elektroniky v Hong Kongu a Šenzen.
 - Autor plánuje nákup fotoaparátu Nikon D90 v Hong Kongu kvůli ceně.
 - Levnější volání z Číny zajistí VoIP číslo a místní SIM karta.
-title: Tak vzhůru na cesty
+title: "Tak vzhůru na cesty"
 ---
 
 Včera to konečně dopadlo. Dostali jsme vízum. Den před tím, na který máme koupené letenky, jež nelze přesunout na jiné datum a rezervované ubytování v oblasti, kde něco sehnat, je horor. 

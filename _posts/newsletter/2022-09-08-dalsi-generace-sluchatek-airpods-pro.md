@@ -13,7 +13,7 @@ summary_points:
 - Potlačení hluku u AirPods Pro je dvojnásobné a výdrž baterie delší o 1,5 hodiny.
 - Pouzdro AirPods Pro poskytuje 30 hodin poslechu a dobíjení Watch nabíječkou.
 - iOS 16 přináší sekci AirPods a Personalized Spatial Audio i pro starší modely.
-title: Další generace sluchátek Airpods Pro
+title: "Další generace sluchátek Airpods Pro"
 ---
 
 Nové AirPods Pro jsou vybaveny novým čipem H2 navrženým společností Apple, vylepšeným zvukem a výdrží baterie. Potlačení hluku tak mělo být zlepšeno na dvojnásobek, výdrž baterie o 1,5 hodiny, pouzdro přidává další čtyři plná nabití pro celkem 30 hodin poslechu. Dobíjet lze nyní i bezdrátovou dobíječkou k Watch. Nové je také ovládání hlasitosti přejížděním po stopce sluchátek. 

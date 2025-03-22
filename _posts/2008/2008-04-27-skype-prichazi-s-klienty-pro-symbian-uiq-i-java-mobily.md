@@ -17,7 +17,7 @@ summary_points:
 - Odchozí hovory na Skype Out v Česku nejsou z mobilní aplikace podporovány.
 - Mobilní Skype hovory fungují jako klasické mobilní hovory, nikoliv VoIP.
 - Operátoři se brání Skypu kvůli obavám z kanibalizace příjmů z hovorů a SMS.
-title: Skype přichází s&nbsp;klienty pro Symbian, UIQ i&nbsp;Java mobily
+title: "Skype přichází s klienty pro Symbian, UIQ i Java mobily"
 ---
 
 Skype dramaticky rozšířil dostupnost svého klienta na mobilní telefony a to oficiální cestou. Firma před několika dny představila nativní klienty pro zhruba padesátku mobilních telefonů vybavených podporou Javy (tedy J2ME MIDP 2.0), Symbianu a UIQ. Oficiálně podporovaná je řada mobilních telefonů firmy Nokia (N95, 5200, 5200, šestková řada atd), Sony Ericsson (K, W i Z modely), Samsung a Motorola. Kompletní seznam všech cca 50ti mobilů včetně těch, pro které se podpora chystá, <a href="http://www.skype.com/intl/en/download/skype/mobile/choose">najdte zde na webu Skype.com</a>. Pokud byste chtěli stahovat software přímo do mobilu, použijte stránku <a href="http://mobiledownload.skype.com/">mobiledownload.skype.com</a>. Pozor: i verze pro Symbian i UIQ telefony je Java, ne nativní aplikace!

@@ -13,7 +13,7 @@ summary_points:
 - Cena ADSL je považována za ubohou a atraktivní jen pro fanoušky.
 - Telecom by mohl získat více zákazníků s rozumnější cenou a rychlostí.
 - Očekává se postupný pokles ceny ADSL po vzoru ISDN.
-title: Telecom se s&nbsp;ADSL musel zbláznit, nebo bude kopírovat model ISDN&#8230;
+title: "Telecom se s ADSL musel zbláznit, nebo bude kopírovat model ISDN…"
 ---
 
 <p>

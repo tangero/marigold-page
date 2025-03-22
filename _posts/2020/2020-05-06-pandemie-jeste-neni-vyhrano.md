@@ -13,7 +13,7 @@ summary_points:
 - Druhá vlna může udeřit, zejména v nepřipravených zemích.
 - Česko nevyužilo příležitost k přípravě na nový normál.
 - Pandemie není poražena, i když se situace zdá lepší.
-title: Pandemie - ještě není vyhráno!
+title: "Pandemie - ještě není vyhráno!"
 ---
 
 Je to všude kolem nás. Taková ta latentní pochybnost, proč se snažit, proč ještě něco řešit. Proč nosit roušky, proč připravovat novou verzi Chytré karantény, když hygienici nepobrali ještě tu první generaci. Proč vyvíjet eRoušku, když za pár týdnů dodá Google/Apple svoji verzi a na těch našich místních lze pořád hledat chyby. Vždyť nákaza ustupuje, počty mrtvých i nakažených klesají, proč se ještě snažit?

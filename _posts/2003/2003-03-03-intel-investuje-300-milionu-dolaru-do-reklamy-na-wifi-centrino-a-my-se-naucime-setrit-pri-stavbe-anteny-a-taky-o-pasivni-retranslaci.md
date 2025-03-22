@@ -14,7 +14,7 @@ summary_points:
 - Články Petra Šimandla se věnují levným a jednoduchým WiFi anténám.
 - Štěrbinová sektorová anténa je popsána na stránkách Vládi ze Střižkova.
 - Pasivní retranslace WiFi signálu je popsána na stránkách Daniela Hrotka.
-title: Intel investuje 300 milionů dolarů do reklamy na WiFi Centrino. A&nbsp;my se
+title: "Intel investuje 300 milionů dolarů do reklamy na WiFi Centrino. A my se"
   naučíme šetřit při&nbsp;stavbě antény. A&nbsp;taky o&nbsp;pasivní retranslaci
 ---
 

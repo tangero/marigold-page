@@ -13,7 +13,7 @@ summary_points:
 - T-Mobile nabízí balíček s GPS navigací pro PocketPC zařízení.
 - Vivato switch 802.11g prošel FCC, ale kvůli výkonu se v Evropě neprodá.
 - Siemens spolupracuje s SVOX na hlasových avatarech pro mobily.
-title: 'Drobky: Luxus od Sony je Qualia, Vivato switch schválen, Siemens dělá na hlasovém
+title: "'Drobky: Luxus od Sony je Qualia, Vivato switch schválen, Siemens dělá na hlasovém"
   avataru pro mobily, seznam nástrojů pro WiFi hacking'
 ---
 

@@ -12,7 +12,7 @@ summary_points:
 - Vivato uvádí WiFi switch s anténou na bázi fázového pole pro zvýšení dosahu.
 - Intel Communications Fund investuje 29 milionů dolarů do společnosti Vivato.
 - WiFi switch Vivato je určen pro firmy, stojí 10 000 USD a obslouží 150 uživatelů.
-title: Intel investuje do Vivato &#8211; WiFi switch je na světě
+title: "Intel investuje do Vivato – WiFi switch je na světě"
 ---
 
 <p>

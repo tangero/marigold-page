@@ -16,7 +16,7 @@ summary_points:
 - Mobilní verze TV6.cz umožňuje sledování zpráv na různých typech mobilů.
 - Projekt TV6.cz získal ocenění Nejlepší elektronická služba ČR Zlatý Erb 2008.
 - Dejvická slavnost je živě přenášena na TV6.cz a mobil.TV6.cz v několika kvalitách.
-title: 1. Live stream koncert na mobilech v&nbsp;ČR
+title: "1. Live stream koncert na mobilech v ČR"
 ---
 
 <strong>Noname píše:</strong> Je to přes dva roky, co má Praha 6 vlastní "televizi" -<a href="http://www.tv6.cz/"> online zpravodajský kanál</a>, který informuje 3× týdně o zprávách z Prahy 6. Před několika měsíci jsme tam doprogramovali i <a href="http://mobil.tv6.cz/">mobilní verzi televize</a>, s níž můžete tytéž zprávy sledovat na prakticky všech typech mobilů (je k dispozici WMV, RealTime, 3GPP v.6 a 3GPP v.6 s automatickou detekcí typu mobilu (v databázi je aktuálně přes tisíc různých typů) a až se 3 různými kvalitami podle rychlosti (kvality) připojení (od 24 kb/s do 500 kb/s).

@@ -13,7 +13,7 @@ summary_points:
 - Offline přístup k poště autor nepostrádá, počítač používá jako psací stroj.
 - Gmailu chybí možnost odesílat emaily z vlastní domény, ale Reply-To to řeší.
 - Gmail nemá POP3 ani WAP verzi pro mobil, což autorovi paradoxně vyhovuje.
-title: Zůstal jsem u&nbsp;Gmailu
+title: "Zůstal jsem u Gmailu"
 ---
 
 <p>

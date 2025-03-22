@@ -13,7 +13,7 @@ summary_points:
 - Intellisync Mobile Suite zpřístupňuje email přes POP/IMAP a synchronizuje data.
 - Služba podporuje synchronizaci firemního groupwaru přes mobilní síť.
 - Spuštění Intellisync Mobile Suite Eurotelem se očekává do podzimu.
-title: 'Eurotel nabídne Intellisync Mobile Suite
+title: "'Eurotel nabídne Intellisync Mobile Suite"
 
   '
 ---

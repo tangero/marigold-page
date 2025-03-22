@@ -16,7 +16,7 @@ summary_points:
 - Flash 10 umožňuje ukládat soubory na disk a dynamický streaming videa.
 - RTMFP protokol ve Flash 10 umožňuje P2P komunikaci mezi klienty.
 - Adobe integruje P2P do Flashe, umožní aplikace typu Skype nebo Joost.
-title: 'Adobe Flash ve verzi 10 přináší podporu P2P
+title: "'Adobe Flash ve verzi 10 přináší podporu P2P"
 
   '
 ---

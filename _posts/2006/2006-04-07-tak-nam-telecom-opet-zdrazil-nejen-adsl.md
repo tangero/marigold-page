@@ -13,7 +13,7 @@ summary_points:
 - K tarifu Telefon Mini se připočítává 5,95 Kč za každý hovor s tarifikací 120+60.
 - ČTÚ zdražení chválí s odůvodněním dorovnání nákladů a podpory konkurence.
 - Zdražení povede k odhlašování linek a rozvoji internetové telefonie s levnější tarifikací.
-title: 'Tak nám Telecom opět zdražil (nejen) ADSL
+title: "'Tak nám Telecom opět zdražil (nejen) ADSL"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Studentská Unie ČVUT pořádá diskusi o širokopásmovém internetu v ČR.
 - Mlynář, Stádník a Berdár se zúčastní diskuse o budoucnosti internetu.
 - Přímý přenos diskuse lze sledovat na http://www.sh.cvut.cz/kracime/.
-title: KRÁČÍME K&nbsp;ŠIROKOPÁSMOVÝM ZÍTŘKŮM?
+title: "KRÁČÍME K ŠIROKOPÁSMOVÝM ZÍTŘKŮM?"
 ---
 
 <p>

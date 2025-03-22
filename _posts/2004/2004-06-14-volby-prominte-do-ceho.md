@@ -13,7 +13,7 @@ summary_points:
 - Předvolební spoty stran byly nekvalitní a bez konkrétního programu.
 - Spam od Zelených autora odradil od volby této strany.
 - Autorovi chyběly myšlenky a důvěra v kandidáty i EU.
-title: Volby&#8230; promiňte, do čeho?
+title: "Volby… promiňte, do čeho?"
 ---
 
 <p>

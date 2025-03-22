@@ -16,7 +16,7 @@ summary_points:
   schůzku.
 - Ministr Mlynář vysvětlil angažmá Dušana Chmelíčka a kritizoval anonymní udání na
   ministerstvu.
-title: Dneska to bude slabší&#8230;
+title: "Dneska to bude slabší…"
 ---
 
 <p>

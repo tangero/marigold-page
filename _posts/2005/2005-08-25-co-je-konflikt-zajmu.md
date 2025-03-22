@@ -16,7 +16,7 @@ summary_points:
   působení.
 - Autor navrhuje hlásit firmy, ve kterých členové komise působí, a nehlasovat o jejich
   dotacích.
-title: Co je konflikt zájmů?
+title: "Co je konflikt zájmů?"
 ---
 
 <p>Diskuse pod <a href='http://www.lupa.cz/clanek.php3?show=4347'> mým článkem na Lupě</a> se rozjela, bohužel nikoliv kýženým směrem, a návrhů na to, kde jsou největší slabiny a kde mohou peníze fóra pomoci je tam málo. Nicméně se tam rozjela diskuse na téma konfliktu zájmů, kdy to zjevně vidím jinak, než velká část diskutujících. Oni tvrdí, že kdo je v konfliktu zájmu, nesmí být v komisi, či že kdo je v komisi, nesmí nabízet své služby těm co se hlásí o projekty. Já si myslím, že konfliktu zájmu zabránit nelze (vysvětlím dále) a že je tedy potřeba případný konflikt zájmu hlásit a podle závažnosti tohoto konfliktu se rozhodnout, zda-li ovlivňuje hlasování podle nejlepšího vědomí a svědomí a podle toho pak hlasovat, či se zdržet.</p>

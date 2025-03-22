@@ -13,7 +13,7 @@ summary_points:
 - EADS Telecom dokončil výstavbu sítě Pegas, která pokrývá celé Česko.
 - Technologie Tetrapol, na které je Pegas založen, není standardem jako Tetra.
 - Výstavba sítě Pegas byla poznamenána zpožděními a problémy.
-title: Radiosíť Pegas konečně dostavěna
+title: "Radiosíť Pegas konečně dostavěna"
 ---
 
 Společnost EADS Telecom dokončila výstavbu infrastruktury digitální radiokomunikační sítě Pegas pro integrovaný záchranný systém. Síť nyní pokrývá signálem celé Česko, což by mělo umožnit vzájemnou komunikaci příslušníků policie, hasičů, záchranářů a dalších záchranných složek. 

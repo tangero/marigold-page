@@ -20,7 +20,7 @@ summary_points:
 - iPhone 14 detekuje autonehodu a volá záchrannou službu pomocí akcelerometru.
 - Emergency SOS umožňuje posílání zpráv přes satelit v nouzových situacích.
 - iPhone 14 Pro má Always-on displej a Dynamický ostrov pro notifikace.
-title: Apple iPhone 14
+title: "Apple iPhone 14"
 ---
 
 Co umí právě představená nová verze iPhone?

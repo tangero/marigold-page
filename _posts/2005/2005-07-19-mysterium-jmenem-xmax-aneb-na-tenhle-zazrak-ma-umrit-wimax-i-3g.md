@@ -14,7 +14,7 @@ summary_points:
   pro data.
 - xMax používá velmi nízký vysílací výkon, což vyvolává pochybnosti o funkčnosti.
 - xG slibuje předvedení xMaxu v září 2005, ale komerční nasazení je nejisté.
-title: Mystérium jménem xMax (aneb na tenhle zázrak má umřít WiMax i&nbsp;3G)
+title: "Mystérium jménem xMax (aneb na tenhle zázrak má umřít WiMax i 3G)"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/20050719-xgtech.gif" alt="xG Technology" width="66" height="67" /></div><p>V poslední době se i českým internetem prohnala vlna zájmu o technologii xMax společnosti xG Technologies. Článek vyšel <a href="http://www.palmserver.cz/clanek.php3?show=2849">na Palmserveru</a>, zmínka v Inside, na <a href="http://www.zive.sk/h/Bleskovky/AR.asp?ARI=113666">slovenském Živě</a>. xMax má být konkurent pro WiMax,  který v dostupném radiovém spektru protlačí megabitové rychlosti do plochy desítek kilometrů čtverečních. Sleduji tuhle technologii po očku už nějakou dobu a zatím jsem ji vždy měl za něco, co má z pár investorů vylákat penízky a skupině vykuků zajistit spokojené živobytí. I když bych se rád nechal příjemně překvapit. Ale vysvětlím, proč. Ostatně, firma vody rozvířila hlavně díky tomu, že FCC vydalo povolení k experimentálním živým testům, což si laici rádi překládají jako podporu xMaxu. </p>

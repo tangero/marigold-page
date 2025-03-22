@@ -13,7 +13,7 @@ summary_points:
 - Kniha vyšla elektronicky díky příspěvkům na Startovači a v limitované papírové edici.
 - Autogramiáda se koná 17.5.2014 na Světě knihy v Praze bez velkých ceremonií.
 - Kniha není mainstreamová a vyžaduje přemýšlení, což může odradit některé čtenáře.
-title: 'Evropská unie přidala mou knihu na index zakázaných, autogramiáda přesto bude
+title: "'Evropská unie přidala mou knihu na index zakázaných, autogramiáda přesto bude"
 
   '
 ---

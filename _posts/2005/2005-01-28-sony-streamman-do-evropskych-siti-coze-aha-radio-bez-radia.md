@@ -13,7 +13,7 @@ summary_points:
 - StreamMan ukládá hudbu do vyrovnávací paměti pro přehrávání offline.
 - Služba StreamMan umožňuje poslech rádií i vlastních playlistů ve WMA/AAC.
 - Pilotní provoz StreamMan je ve Finsku (TeliaSonnera), plánuje se Vodafone.
-title: 'Sony StreamMan do evropských sítí (cože? Aha, rádio bez rádia)
+title: "'Sony StreamMan do evropských sítí (cože? Aha, rádio bez rádia)"
 
   '
 ---

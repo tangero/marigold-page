@@ -14,7 +14,7 @@ summary_points:
 - Autor preferuje levné bastly a tuzemskou produkci pro kutily.
 - Kniha obsahuje aktuální přehled zařízení, snímačů a zapojení.
 - Recenzentovi chybí tabulka porovnávající funkce a ceny GSM alarmů.
-title: Kniha SMS &#8211; Střežení a&nbsp;ovládání objektů pomocí mobilu a&nbsp;SMS
+title: "Kniha SMS – Střežení a ovládání objektů pomocí mobilu a SMS"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/1/20041013-kniha-sms.gif" alt="Kniha o GSM alarmech" width="100" height="138" /></div>

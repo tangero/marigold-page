@@ -15,7 +15,7 @@ summary_points:
 - Výuka počítačů je často povrchní, zaměřená na základní úkony, nikoliv principy.
 - Autor navrhuje web s hravými úkoly, soutěžemi a projekty pro děti.
 - Soukromá iniciativa rodičů a IT odborníků by mohla tento problém řešit lépe.
-title: Dětské počítačovánky v&nbsp;josefinském školství
+title: "Dětské počítačovánky v josefinském školství"
 ---
 
 Dlouhou dobu nosím v hlavě jednu věc, nad kterou mě mrzí čím dál více, že na ni nezbyl čas. Programování pro děti. Abyste mi rozuměli, považuji za velký handicap našeho školství, jak přistupuje ke vzdělávání ve výpočetní technice. A pro své vlastní (a zřejmě i vaše) děti považuji za velkou nevýhodu, že se nedostanou brzy a dobře k pochopení počítačů, zatímco se jím servírují eukariotické buňky či přemyslovští králové, o nichž se stejně na vysoké (pokud si specializaci vyberou) dozví, že už je to dávno jinak.  Přitom je zřejmé, že  na počítače ještě nějakou chvíli narážet budou, k základnímu vzdělání to ale kupodivu nepatří. 

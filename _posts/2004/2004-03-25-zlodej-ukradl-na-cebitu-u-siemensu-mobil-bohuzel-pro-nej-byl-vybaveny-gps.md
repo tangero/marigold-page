@@ -13,7 +13,7 @@ summary_points:
 - A-GPS umožnilo Siemensu lokalizovat zloděje pomocí skrytých SMS.
 - Hannoverská policie zloděje na udané poloze zatkla.
 - Česká policie v podobném případu krádeže mobilu nepomohla.
-title: Zloděj ukradl na CeBITu u&nbsp;Siemensu mobil. Bohužel pro něj byl vybavený
+title: "Zloděj ukradl na CeBITu u Siemensu mobil. Bohužel pro něj byl vybavený"
   GPS&#8230;
 ---
 

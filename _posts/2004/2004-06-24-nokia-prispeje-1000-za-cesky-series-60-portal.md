@@ -13,7 +13,7 @@ summary_points:
 - Portál by měl obsahovat recenze, adresář a diskusní fórum pro tvůrce aplikací.
 - Nokia poskytne tvůrci portálu přístup k novým telefonům a informacím.
 - Plugin umožňuje přehrávat Ogg Vorbis soubory na telefonech Series 60 2.0.
-title: Nokia přispěje 1000 &#8364; za český Series 60 portál
+title: "Nokia přispěje 1000 € za český Series 60 portál"
 ---
 
 <p align="left">Na včerejším Wireless Wednesday učinil Vojtěch Foukal z české Nokia zajímavou nabídku. Společnost nabídne příspěvek až <strong>1000 euro čtvrtletně na provoz českého portálu věnovaného Symbianu a Series 60</strong>. Portál by měl obsahovat recenze programů a her pro Series 60, ale také adresář a diskusní fórum tvůrců a programátorů aplikací u nás. </p>

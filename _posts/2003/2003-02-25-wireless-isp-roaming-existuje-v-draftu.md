@@ -13,7 +13,7 @@ summary_points:
 - Wireless ISP roaming má standardizovat přechod mezi různými WiFi sítěmi.
 - Návrh standardu je dostupný online, ale jeho implementace v ČR je malá.
 - Zkratka standardu by se mohla číst jako "whisper".
-title: Wireless ISP roaming existuje v&nbsp;draftu!
+title: "Wireless ISP roaming existuje v draftu!"
 ---
 
 <p>

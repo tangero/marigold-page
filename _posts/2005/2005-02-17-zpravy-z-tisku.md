@@ -13,7 +13,7 @@ summary_points:
 - Iva Lukačovič bloguje o situaci na Ruzynském letišti.
 - Český Telecom hlásí zisky, ale ztrácí zákazníky pevných linek.
 - ČRa nabízí velkoobchodní DSL, Telecom má Wi-Fi za 1 Kč do června.
-title: Zprávy z&nbsp;tisku
+title: "Zprávy z tisku"
 ---
 
 <p>Protože teď bude asi Patrick nějakou dobu mimo Internet a možnost

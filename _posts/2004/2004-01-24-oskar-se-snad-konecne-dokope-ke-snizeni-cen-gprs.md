@@ -13,7 +13,7 @@ summary_points:
 - GPRS Standard u Oskara nově nabídne 5 MB dat místo dosavadního 1 MB.
 - Autor preferuje pomalé GPRS od Oskara, protože šetří peníze.
 - Rychlé GPRS od T-Mobile by autora vedlo k nadměrnému utrácení.
-title: 'Oskar se snad konečně dokope ke snížení cen GPRS
+title: "'Oskar se snad konečně dokope ke snížení cen GPRS"
 
   '
 ---

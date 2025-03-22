@@ -14,7 +14,7 @@ summary_points:
 - Vysoká pořizovací cena a nejistá budoucnost CZFree.Net brání masovému rozšíření.
 - Nástup ADSL a sdílení internetu přes WiFi routery představují konkurenci pro CZFree.Net.
 - CZFree.Net je edukační kurz pro technicky zdatné, nikoliv řešení pro běžné uživatele.
-title: WiFi v&nbsp;ČR, CzFree.Net, ADSL a&nbsp;Český Telecom
+title: "WiFi v ČR, CzFree.Net, ADSL a Český Telecom"
 ---
 
 <p>

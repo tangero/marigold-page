@@ -13,7 +13,7 @@ summary_points:
 - Na dálnici z Teplic do Prahy autor překročil rychlost na 157 km/h.
 - Červený Ford Focus nebyl Roman, ale Poupíno, který si stěžoval na dálková světla.
 - Autor inkasoval pokutu za překročení rychlosti na dálnici, Poupíno také.
-title: O dvojí pokutě řeč&#8230;
+title: "O dvojí pokutě řeč…"
 ---
 
 <p>

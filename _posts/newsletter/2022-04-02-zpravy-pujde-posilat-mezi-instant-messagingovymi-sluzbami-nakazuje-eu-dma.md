@@ -22,7 +22,7 @@ summary_points:
 - Pokuty za porušení DMA dosahují až 20 % celosvětového obratu společnosti.
 - Apple a Google kritizují DMA kvůli obavám o bezpečnost, inovace a ochranu duševního
   vlastnictví.
-title: Zprávy půjde posílat mezi Instant Messagingovými službami, nakazuje EU DMA
+title: "Zprávy půjde posílat mezi Instant Messagingovými službami, nakazuje EU DMA"
 ---
 
 Tohle je potenciálně velká věc. Evropská unie "nakazuje" propojitelnost mezi jednotlivými službami okamžitých zpráv, jako jsou WhatsApp nebo iMessages. Zajistit by to měl nově chystaný Zákon o digitálních trzích, [Digital Markets Act (DMA)](https://ec.europa.eu/competition-policy/sectors/ict/dma_cs) \- který koncem března předložen. Jenže kdybych do titulku napsal, že se bude zase mluvit o eurounijní regulaci, tak byste článek vyignorovali...

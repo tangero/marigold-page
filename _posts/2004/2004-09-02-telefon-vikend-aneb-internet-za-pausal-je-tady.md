@@ -15,7 +15,7 @@ summary_points:
   kvůli nízké ziskovosti.
 - Pro připojení přes Telefon Víkend lze využít telefonní čísla ISP jako Idnes, Volny,
   Razdva.
-title: Telefon Víkend aneb Internet za paušál je tady&#8230;
+title: "Telefon Víkend aneb Internet za paušál je tady…"
 ---
 
 <p>

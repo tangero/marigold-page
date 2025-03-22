@@ -13,7 +13,7 @@ summary_points:
 - BREW je programovací jazyk od Qualcommu, zdarma pro výrobce, programátory i uživatele.
 - Qualcomm cílí s BREW v Evropě na 3G a EDGE sítě.
 - BREW nabízí operátorům podporu účtování a bezpečnou distribuci aplikací.
-title: BREW bude bojovat o&nbsp;přízeň i&nbsp;v&nbsp;Evropě proti J2ME
+title: "BREW bude bojovat o přízeň i v Evropě proti J2ME"
 ---
 
 <p>

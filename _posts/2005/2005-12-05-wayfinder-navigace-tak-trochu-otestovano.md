@@ -13,7 +13,7 @@ summary_points:
 - Wayfinder stahuje vektorové mapy za jízdy přes GPRS, což šetří paměť.
 - Navigace neumí vybírat alternativní trasy, což je zásadní nedostatek.
 - Online mapy Wayfinderu jsou aktuální a zahrnují i novější kruhové objezdy.
-title: 'Wayfinder navigace – tak trochu otestováno
+title: "'Wayfinder navigace – tak trochu otestováno"
 
   '
 ---

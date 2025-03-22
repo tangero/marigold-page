@@ -12,7 +12,7 @@ summary_points:
 - Ziskovost Redditu ohrožuje ztráta 90 milionů dolarů i přes 800 milionů z reklamy.
 - Reddit chce růst prodejem dat pro trénink LLM modelů.
 - Uživatelé Redditu nesouhlasí s využitím jejich obsahu pro trénink AI.
-title: Reddit je na burze a prodá data do cizí AI
+title: "Reddit je na burze a prodá data do cizí AI"
 ---
 
 Ve čtvrtek [Reddit](https://www.reddit.com) úspěšně vstoupil na newyorskou burzu s tickerem "RDDT". Reddit u nás není tak známý, spíše mezi nerdy, v USA je označovaný za _"titulní stránku internetu"_. Umožňuje sdílet a sledovat obsah témat, která vás zajímají. A dobře. Reddit je první významnou platformou sociálních médií, která vstoupila na burzu od roku 2019, kdy se to podařilo Pinterestu. Akcie této sociální platformy při svém obchodním debutu posílily o 48 % z ceny 34 dolarů při primární veřejné nabídce a chvílemi se obchodovaly i přes 50 dolarů za akcii, což byla krásná prémie. Otázka samozřejmě je, jak to bude dál. 

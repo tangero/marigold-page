@@ -15,7 +15,7 @@ summary_points:
 - Vodafone a T-Mobile mají odlišné UMTS strategie, Vodafone se zaměřuje na datové
   karty.
 - O2 hodlá stavět UMTS síť jen tam, kde je velká zátěž GPRS sítě.
-title: UMTS starty &#8211; odlišně je chápe T-Mobile i&nbsp;Vodafone
+title: "UMTS starty – odlišně je chápe T-Mobile i Vodafone"
 ---
 
 <p>

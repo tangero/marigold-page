@@ -14,7 +14,7 @@ summary_points:
 - Lidé podvědomě spojují plynulost textu s kompetencí, což AI využívá.
 - Jazykoví profesionálové pomáhají s finální úpravou textu a porozumění čtenářům.
 thumbnail: https://www.marigold.cz/assets/alice-delorme-benites.png
-title: Alice Delorme Benites - Jak ovládnout umění psaní s umělou inteligencí (přepis
+title: "Alice Delorme Benites - Jak ovládnout umění psaní s umělou inteligencí (přepis"
   přednášky)
 ---
 

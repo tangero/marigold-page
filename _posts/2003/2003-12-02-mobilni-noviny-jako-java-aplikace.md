@@ -13,7 +13,7 @@ summary_points:
 - Telefon uchovává minimálně 6 titulků zpráv v šesti informačních kanálech.
 - TV program lze stáhnout až na týden dopředu, detaily článků dočasně.
 - Aktualizace zpráv probíhá přes WAP, ideální by bylo GPRS.
-title: Mobilní noviny jako Java aplikace
+title: "Mobilní noviny jako Java aplikace"
 ---
 
 <p>

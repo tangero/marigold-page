@@ -13,7 +13,7 @@ summary_points:
 - Americká armáda v Iráku používá iPaq, jak uvádí Government Computer News.
 - SMC uvádí router, PCI a PCMCIA karty standardu 802.11g v dubnu 2003.
 - SMC v květnu 2003 uvede PCMCIA kartu SMC2336W-AG podporující a/g standard.
-title: 'Sony prodává CF WiFi pro PDA Clié, PDA ve válce, SMC má také a/g produkty
+title: "'Sony prodává CF WiFi pro PDA Clié, PDA ve válce, SMC má také a/g produkty"
 
   '
 ---

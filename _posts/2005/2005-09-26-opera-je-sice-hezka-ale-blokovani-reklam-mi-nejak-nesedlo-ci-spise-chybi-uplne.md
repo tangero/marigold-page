@@ -13,7 +13,7 @@ summary_points:
 - AdBlock Plus ve Firefoxu blokuje reklamy efektivněji než Opera Ad Filter.
 - Autor hledá plugin pro Operu s pohodlným a variabilním filtrováním reklam.
 - Autor se vrátil k Firefoxu kvůli kvalitnímu filtrování reklam, i přes jeho chyby.
-title: Opera je sice hezká, ale blokování reklam mi nějak nesedlo či&nbsp;spíše chybí
+title: "Opera je sice hezká, ale blokování reklam mi nějak nesedlo či spíše chybí"
   úplně
 ---
 

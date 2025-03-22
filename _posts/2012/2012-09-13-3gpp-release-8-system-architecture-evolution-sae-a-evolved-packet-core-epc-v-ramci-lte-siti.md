@@ -17,7 +17,7 @@ summary_points:
 - LTE sítě využívají výhradně IP provoz, což je odlišuje od 3G sítí.
 - SAE je systém požadavků, EPC je odpověď na tyto požadavky v Release 8.
 - EPC zahrnuje SGW, PGW, MME a PCRF, klíčové komponenty pro fungování LTE.
-title: '3GPP Release 8: System Architecture Evolution (SAE) a&nbsp;Evolved Packet
+title: "'3GPP Release 8: System Architecture Evolution (SAE) a Evolved Packet"
   Core (EPC) v&nbsp;rámci LTE sítí'
 ---
 

@@ -17,7 +17,7 @@ summary_points:
 - Aktualizace map pro RT4 stojí 279 euro a je na 11 CD.
 - Levnější externí GPS navigace nabízí online aktualizace a lepší mapy.
 - Autor používá starší Navigon a Ovi Maps, RT4 považuje za šunt.
-title: 'Přesný postup, jak si nepředstavuju business s&nbsp;automapama: Navteq (nic
+title: "'Přesný postup, jak si nepředstavuju business s automapama: Navteq (nic"
   podstatného ke čtení)'
 ---
 

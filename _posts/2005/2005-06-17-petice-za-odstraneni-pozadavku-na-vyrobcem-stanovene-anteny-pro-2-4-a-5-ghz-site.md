@@ -13,7 +13,7 @@ summary_points:
 - ČTÚ chce v pásmech 2,4/5 GHz povolit jen antény doporučené výrobcem.
 - Výrobci antény nedoporučují, což by většinu spojů zneplatnilo.
 - Podpis petice je důležitý, aby ČTÚ neschválil sporný bod bez odporu.
-title: Petice za odstranění požadavku na výrobcem stanovené antény pro 2,4 a&nbsp;5
+title: "Petice za odstranění požadavku na výrobcem stanovené antény pro 2,4 a 5"
   GHz sítě
 ---
 

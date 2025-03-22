@@ -14,7 +14,7 @@ summary_points:
 - Cukroví zabalili do krabice od WiFi routeru Linksys, kterou maskovali balicím papírem.
 - Autor zdůraznil Ditě zásadní roli WiFi v domácnosti, včetně vyřešení problému s
   cukrovím.
-title: WiFi cukroví
+title: "WiFi cukroví"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - g dle grafu na I4 výrazně ztrácí rychlost s rostoucí vzdáleností.
 - Autor textu zatím neměl možnost 802.11g osobně otestovat.
 - Čtenáři se mohou podívat na test 802.11g na webu I4.
-title: 'Test rychlosti 802.11g od i4 na Linksys technice
+title: "'Test rychlosti 802.11g od i4 na Linksys technice"
 
   '
 ---

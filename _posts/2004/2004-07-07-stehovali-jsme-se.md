@@ -13,7 +13,7 @@ summary_points:
 - Nový nábytek nakupují postupně, začali ledničkou z Datartu.
 - Sedačku výhodně koupili v ASCO Stodůlky, i když chyběl jeden díl.
 - Autor hledá vhodnou PHP galerii pro online vystavování fotografií.
-title: Stěhovali jsme se&#8230;
+title: "Stěhovali jsme se…"
 ---
 
 <p>

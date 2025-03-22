@@ -13,7 +13,7 @@ summary_points:
 - Licence ČTÚ je spojena s vysokým poplatkem, což vyvolalo online diskusi.
 - Ekonom jako první tištěné médium zmínil problém CZFree.Net a licence.
 - Autor očekává vyjádření ČTÚ k situaci a ukončení spekulací.
-title: 'Problém licence pro CzFree.net už dorazil do tisku
+title: "'Problém licence pro CzFree.net už dorazil do tisku"
 
   '
 ---

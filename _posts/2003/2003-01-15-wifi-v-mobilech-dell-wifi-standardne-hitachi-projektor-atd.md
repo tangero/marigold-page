@@ -13,7 +13,7 @@ summary_points:
 - Lufthansa testuje WiFi internet na palubě letadel za 35 dolarů.
 - Dell bude standardně vestavovat WiFi do notebooků Latitude.
 - Avaya, Proxim a Motorola vyvíjejí WiFi roaming s mobilními telefony.
-title: WiFi v&nbsp;mobilech, Dell WiFi standardně, Hitachi projektor atd&#8230;
+title: "WiFi v mobilech, Dell WiFi standardně, Hitachi projektor atd…"
 ---
 
 <p>

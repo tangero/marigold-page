@@ -13,7 +13,7 @@ summary_points:
 - Noname z IPV byl jmenován zástupcem do BBF Ministerstvem Informatiky.
 - IPV propaguje alternativní broadband připojení a získalo ocenění.
 - Noname bude informovat o dění v BBF a doufá v úspěch.
-title: 'Ministerstvo informatiky jmenovalo zástupce Broadband Fóra
+title: "'Ministerstvo informatiky jmenovalo zástupce Broadband Fóra"
 
   '
 ---

@@ -14,7 +14,7 @@ summary_points:
 - Vstup zdarma na Bezdrátovou středu získáte s kódem Marigold při registraci.
 - Mobilní hry, hudba a další obsah budou hlavní témata Bezdrátové středy.
 - Obrat mobilního obsahu v roce 2004 byl odhadnut na jednu miliardu korun.
-title: Bezdrátová středa o&nbsp;mobilní zábavě aneb druhá miliarda z&nbsp;mobilního
+title: "Bezdrátová středa o mobilní zábavě aneb druhá miliarda z mobilního"
   obsahu
 ---
 

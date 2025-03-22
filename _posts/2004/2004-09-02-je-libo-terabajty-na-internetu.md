@@ -13,7 +13,7 @@ summary_points:
 - Stránka loci.cs.utk.edu nabízí systém pro ukládání stovek gigabajtů dat zdarma.
 - Verze na loci.cs.utk.edu má limit 2GB dat.
 - Linuxová verze distribuovaného transkódovacího systému tento limit prolamuje.
-title: Je libo terabajty na Internetu?
+title: "Je libo terabajty na Internetu?"
 ---
 
 <p>

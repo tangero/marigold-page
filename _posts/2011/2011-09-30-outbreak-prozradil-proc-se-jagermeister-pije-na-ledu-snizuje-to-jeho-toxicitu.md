@@ -16,7 +16,7 @@ summary_points:
 - Jägermeisteru klesají prodeje kvůli toxicitě fermentovaných kostních hydrolyzátů.
 - Ledově namražený Jägermeister potlačuje chuť i toxicitu, propagován hlavně ve východní
   Evropě.
-title: 'Outbreak prozradil, proč se Jägermeister pije na ledu. Snižuje to jeho toxicitu.
+title: "'Outbreak prozradil, proč se Jägermeister pije na ledu. Snižuje to jeho toxicitu."
 
   '
 ---

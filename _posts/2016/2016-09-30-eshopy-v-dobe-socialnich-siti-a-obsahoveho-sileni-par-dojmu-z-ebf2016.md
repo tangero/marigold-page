@@ -14,7 +14,7 @@ summary_points:
 - Facebook algoritmy omezují dosah příspěvků bez placené reklamy.
 - Specializované eshopy musí budovat loajální zákaznickou základnu pro přežití.
 - Propojení online a offline prodeje se stává klíčovým trendem.
-title: Eshopy v&nbsp;době sociálních sítí a&nbsp;obsahového šílení (pár dojmů z&nbsp;EBF2016)
+title: "Eshopy v době sociálních sítí a obsahového šílení (pár dojmů z EBF2016)"
 ---
 
 Vyrazil jsem <a href="http://www.tuesday.cz/akce/e-business-forum-2016/">v úterý na EBF</a>, abych si osvěžil informace stran elektronického obchodování na internetu. A rád bych si pořídil pár zápisků k dalším úvahám. 

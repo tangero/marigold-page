@@ -15,7 +15,7 @@ summary_points:
 - Technicky orientovaní lidé často podceňují vliv vnitrofiremních sil na výsledné
   produkty.
 - Mobilní operátoři ztratili iniciativu a reagují na trh, O2 ustupuje s nabídkou zdarma.
-title: 'Aplikace firemního vektoru na mobilní internet
+title: "'Aplikace firemního vektoru na mobilní internet"
 
   '
 ---

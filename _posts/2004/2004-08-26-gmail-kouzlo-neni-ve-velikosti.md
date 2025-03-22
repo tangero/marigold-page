@@ -15,7 +15,7 @@ summary_points:
   zařazení.
 - Hledání v GMailu je rychlé a efektivní, okamžitě nachází cokoliv v emailové schránce.
 - GMailu chybí možnost nastavit vlastní odchozí emailovou adresu, pouze Reply-To adresu.
-title: GMail &#8211; kouzlo není ve velikosti
+title: "GMail – kouzlo není ve velikosti"
 ---
 
 <p>

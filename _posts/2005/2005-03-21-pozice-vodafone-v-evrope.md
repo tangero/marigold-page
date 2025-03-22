@@ -13,7 +13,7 @@ summary_points:
 - V Německu Vodafone po převzetí D2-Manesmann ztratil vedoucí pozici.
 - V Itálii Vodafone v roce 2003 předhonil TIM v obratu, ale ne v počtu zákazníků.
 - Ve Velké Británii Vodafone v roce 2003 předhonil Orange v obratu.
-title: Pozice Vodafone v&nbsp;Evropě
+title: "Pozice Vodafone v Evropě"
 ---
 
 <p class="MsoNormal"><o:p>V

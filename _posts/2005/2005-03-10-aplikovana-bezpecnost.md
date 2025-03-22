@@ -13,7 +13,7 @@ summary_points:
 - Router ukončuje VPN zákazníků, což zvyšuje bezpečnostní riziko.
 - Autor se obává o bezpečnost a ptá se na outsourcing do Indie.
 - Access listy mohou částečně zmírnit riziko neoprávněného přístupu.
-title: Aplikovana bezpecnost
+title: "Aplikovana bezpecnost"
 ---
 
 <p><strong>Oook píše:</strong> Sedim si tak v predsali na IETF meetingu, kde je

@@ -16,7 +16,7 @@ summary_points:
 - Verizon Wireless, významný klient Qualcommu, se přiklání k technologii LTE.
 - Ukončení UMB vývoje by mohlo zjednodušit situaci sítí čtvrté generace.
 - Qualcomm nedávno představil platformu Kayak, hybrid notebooku a žaluzií.
-title: Qualcomm zastavil UMB (píše Reuters)
+title: "Qualcomm zastavil UMB (píše Reuters)"
 ---
 
 Se zajímavou zprávou z mobilního ranku <a href="http://www.reuters.com/article/hotStocksNews/idUSTRE4AC7M720081113">přišel Reuters</a>. Qualcomm podle ní zastaví vývoj technologie Ultra Mobile Broadband (UMB), která měla být konkurencí pro LTE a dalším vývojovým stupněm CDMA sítí. Soustředit se bude v dalším vývoji právě na LTE. 

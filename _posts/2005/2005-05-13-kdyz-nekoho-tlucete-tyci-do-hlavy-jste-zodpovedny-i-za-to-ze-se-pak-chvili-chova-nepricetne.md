@@ -13,7 +13,7 @@ summary_points:
 - Násilí železnou tyčí je nepřípustné; řešení sporů má být právní cestou.
 - Zkreslené vnímání událostí ztěžuje objektivní posouzení bez důkazů.
 - Otázkou je, proč se věří spíše pochybným svědkům než řediteli Telecomu.
-title: Když někoho tlučete tyčí do hlavy, jste zodpovědný i&nbsp;za to, že se pak
+title: "Když někoho tlučete tyčí do hlavy, jste zodpovědný i za to, že se pak"
   chvíli chová nepříčetně.
 ---
 

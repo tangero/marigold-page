@@ -13,7 +13,7 @@ summary_points:
 - Spider-Net je WSN vyvíjená Drážďanskou technickou univerzitou.
 - Spider-Net používá ISM pásmo 433 MHz s rychlostí do 76,8 Kb/s.
 - Web univerzity nabízí informace o projektech WSN.
-title: Wireless Sensor Network Spider-Net (další z&nbsp;CeBITu)
+title: "Wireless Sensor Network Spider-Net (další z CeBITu)"
 ---
 
 <p>

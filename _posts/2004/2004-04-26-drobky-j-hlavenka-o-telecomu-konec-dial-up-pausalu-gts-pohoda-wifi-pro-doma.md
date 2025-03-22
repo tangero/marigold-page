@@ -13,7 +13,7 @@ summary_points:
 - Telecom by se měl privatizovat a osud Eurotelu rozhodne nový majitel.
 - GTS Pohoda ruší neomezený paušální dial-up internet, zavádí limit 120 hodin.
 - Mobil.cz publikuje seriál o budování metropolitní WiFi sítě.
-title: 'Drobky: J. Hlavenka o&nbsp;Telecomu, konec dial-up paušálu GTS Pohoda, WiFi
+title: "'Drobky: J. Hlavenka o Telecomu, konec dial-up paušálu GTS Pohoda, WiFi"
   pro doma'
 ---
 

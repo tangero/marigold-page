@@ -13,7 +13,7 @@ summary_points:
 - Gubernátor CLOUDu nedokázal donutit firmu posílat agregované prefixy pro směrování.
 - V CZFree.Net probíhají spory o definici CZF kvůli různorodosti členů a technologií.
 - Otevřen byl první NCX bod Zápech, propojující dva CLOUDy pomocí switche.
-title: Story o&nbsp;sousedských sítích (13.)
+title: "Story o sousedských sítích (13.)"
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
 - Startup nechce nahánět investory ani uchvacovat lidi, kteří nejsou zákazníci.
 - České startupové akce se nezajímají o energetiku a kombinaci starého a nového světa.
 - Autor postrádá akce propojující "staré" a "nové" firmy, například výrobce a programátory.
-title: Jsme nebo nejsme startup?
+title: "Jsme nebo nejsme startup?"
 ---
 
 <p>Prý jestli je <a href="http://www.energomonitor.cz">energomonitor</a> startup. Nevím. Řadu znaků máme: přicházíme s něčím novým, začínáme z nuly a tak i rychle rosteme. Ambice. V jiném nejsme úplně typický tuzemský startup: přehoupnuti přes první desítku lidí, kteří na tom pracují. Záměrně nezřejmý záměr, kde budou peníze, ale jeho silné vědomí. Vlastní peníze, hodně a zase málo.</p>

@@ -13,7 +13,7 @@ summary_points:
 - Článek o Marigoldu je 3000. za 4 roky existence webu.
 - Komentáře na Marigoldu fungují 3 roky, celkem jich je 13700.
 - Antispam na Marigoldu 2.0 zachytil 11 tisíc spamů za 3 týdny.
-title: Právě jsme na Křišťálové Lupě
+title: "Právě jsme na Křišťálové Lupě"
 ---
 
 <texy>**Noname píše:** nevím jestli někoho zajímá co zrovna s Patrickem děláme. Jestli ano, pak vězte, že jsme na konferenci "Křišťálová Lupa":http://kristalova.lupa.cz/. Později sem určitě dáme nějaké info a fotky.

@@ -13,7 +13,7 @@ summary_points:
 - Turris je bezpečný router s otevřeným konceptem a automatickými aktualizacemi.
 - Snažím se adaptovat na nové prostředí a přístupy v CZ.NIC.
 - Turris zatím není vhodný pro běžné uživatele bez technických znalostí.
-title: Po čistce zase v&nbsp;práci
+title: "Po čistce zase v práci"
 ---
 
 <p>

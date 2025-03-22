@@ -13,7 +13,7 @@ summary_points:
 - YouTube založen v únoru 2005, měsíčně prodělává 1 milion dolarů.
 - Autor textu vidí rozdíl mezi americkým a českým podnikáním.
 - Autor drží palce Streamu Patricka Zandla, který se nebojí investic.
-title: 'Google koupil YouTube (už je to oficiální)
+title: "'Google koupil YouTube (už je to oficiální)"
 
   '
 ---

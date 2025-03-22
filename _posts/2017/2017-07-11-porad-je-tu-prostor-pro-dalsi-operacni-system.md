@@ -10,7 +10,7 @@ summary_points:
 - Starý iMac z roku 2008 je stále funkční, ale bez podpory nových aktualizací.
 - Hledání levného a výkonného MiniPC pro domácí použití je komplikované a neuspokojivé.
 - Chrome OS a Remix OS jsou zajímavé alternativy, ale nevyhovují plně potřebám uživatele.
-title: 'Pořád je tu prostor pro další operační systém
+title: "'Pořád je tu prostor pro další operační systém"
 
   '
 ---

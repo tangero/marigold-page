@@ -13,7 +13,7 @@ summary_points:
 - CDMA Eurotelu se hodí pro trvalé připojení s vyššími rychlostmi a objemy dat.
 - Při spotřebě nad 30 MB dat měsíčně zvažte GPRS za 700 Kč nebo CDMA za 1000 Kč.
 - T-Mobile by mohl zvýšit datový limit v tarifu Standard, aby konkuroval CDMA.
-title: EDGE/GPRS nebo CDMA?
+title: "EDGE/GPRS nebo CDMA?"
 ---
 
 <p>

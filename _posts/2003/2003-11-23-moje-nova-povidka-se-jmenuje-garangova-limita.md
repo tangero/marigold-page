@@ -13,7 +13,7 @@ summary_points:
 - Autor zasadil povídku do roku 2092, reflektuje v ní vliv umělé inteligence.
 - Druhá polovina povídky bude zveřejněna brzy, autor čeká na reakce.
 - Čtenáři mohou pokračovat na povídku Garangova limita na uvedeném odkazu.
-title: 'Moje nová povídka se jmenuje Garangova limita
+title: "'Moje nová povídka se jmenuje Garangova limita"
 
   '
 ---

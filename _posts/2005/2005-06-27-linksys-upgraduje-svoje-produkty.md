@@ -14,7 +14,7 @@ summary_points:
 - WAP54G verze 3.0 nově podporuje 802.3af neboli Power over Ethernet.
 - Linksys WTR54GS je cestovní router s 802.11g a Speedboster technologií.
 - Linksys RT042 je router s QoS, dvěma WAN porty a správou webového provozu.
-title: Linksys upgraduje svoje produkty
+title: "Linksys upgraduje svoje produkty"
 ---
 
 <p>Linksys updatuje svoje WiFi produkty na novou čipovou sadu Broadcom BCM5350/BCM5352. Tu dostanou Linksys produkty označované  WRT54G v4.0, WRT54GS v3.0, WAP54G v3.0 a WTR54GS. U většiny produktů jde o mírné změny v nastavování některých funkcí a samozřejmě o převedení na novou čipovou sadu, zajímavé změny se ale v nové verzi dostává přístupovému bodu WAP54G. V třetí verzi firmware totiž bude podporovat také 802.3af, tedy Power over Ethernet. </p>

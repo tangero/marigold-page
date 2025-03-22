@@ -13,7 +13,7 @@ summary_points:
 - Hotspoty T-Mobile jsou zdarma po registraci, umístěné v hotelech.
 - Dalších deset T-Mobile hotspotů je ve výstavbě, ceny budou vysoké.
 - Autor se omlouvá za menší aktualizaci kvůli pracovnímu vytížení.
-title: T-Mobile zprovozňuje WiFi
+title: "T-Mobile zprovozňuje WiFi"
 ---
 
 Jak už jsem před delší dobou avizoval, také T-Mobile pracuje na nabídce WiFi připojení. Dnešní <A href="http://www.mobilmania.cz/Operatori/AR.asp?ARI=105176&amp;CAI=2116" target=_blank>článek na MobilManii </A>přináší seznam již fungujících i chystaných hotspotů, které lze zatím po registraci využívat zdarma. Pětice hotspotů je zde:

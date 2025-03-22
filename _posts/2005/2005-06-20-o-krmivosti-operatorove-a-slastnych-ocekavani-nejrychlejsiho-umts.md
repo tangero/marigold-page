@@ -13,7 +13,7 @@ summary_points:
 - Fast UMTS je TD-CDMA, tedy ne standardní UMTS, s omezeným výběrem terminálů.
 - Instalace IP Wireless jsou často jen zkušební provozy, nikoliv rozsáhlé sítě.
 - T-Mobile vzbuzuje přehnaná očekávání ohledně rychlosti a dostupnosti Fast UMTS.
-title: O krmivosti operátorově a&nbsp;slastných očekávání nejrychlejšího UMTS
+title: "O krmivosti operátorově a slastných očekávání nejrychlejšího UMTS"
 ---
 
 <p>T-Mobile <a href="http://www.t-press.cz/tiskove-zpravy/archiv_detail.php?uid=508">dnes oznámil</a>, že štěstěna se usmála na občany této růží obsypané země a sestoupí na nás v podobě <em>"nejrychlejší komerční UMTS sítě na světě". </em>Abychom byli přesnější - síť podmanivě nazvaná Fast UMTS a dodávaná firmou IP Wireless pojede v nepárovém spektru 3G licence zakoupené za 3,8 mld Kč a ústy tiskové zprávy slibuje průměrnou rychlost 512 Kb/s a maximální sektorovou rychlost 4,75 Mbps.</p>

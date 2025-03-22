@@ -13,7 +13,7 @@ summary_points:
 - G sítě a fotoaparáty jsou hlavními tahouny prodeje mobilních telefonů.
 - V roce 2004 bude v oběhu 1,4 miliardy mobilních telefonů celosvětově.
 - Evropa, Amerika a Asie mají odlišné trendy v poptávce po mobilech.
-title: 'IDC: Tahounem prodeje mobilů jsou 3G a&nbsp;vestavěné fotoaparáty'
+title: "IDC: Tahounem prodeje mobilů jsou 3G a vestavěné fotoaparáty"
 ---
 
 <p>

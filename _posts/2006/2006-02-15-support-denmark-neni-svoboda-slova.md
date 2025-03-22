@@ -14,7 +14,7 @@ summary_points:
 - Paušální odsuzování Dánska a Evropy kvůli karikaturám je nepřijatelné a vede k extrémům.
 - Autor nesouhlasí s karikaturami, ale stojí za Dánskem proti extremistickým reakcím.
 - Zveřejnění karikatur bylo chybou, za kterou měl šéfredaktor nést následky.
-title: Support Denmark není svoboda slova
+title: "Support Denmark není svoboda slova"
 ---
 
 <p>Dostal jsem četné reakce a dotazy k rohu některých mých serverů, kde se píše Support Denmark. Ne každý to pochopil, takže se u toho radši maličko zastavím. Prostě proto, abych nebyl špatně pochopen.</p>

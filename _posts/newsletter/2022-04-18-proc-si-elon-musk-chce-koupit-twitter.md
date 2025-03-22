@@ -18,7 +18,7 @@ summary_points:
 - Musk plánuje zpoplatnit ověřené účty a bojovat proti botům, ale nemá jasný obchodní
   plán.
 - Musk by mohl využít Twitter k propagaci svých dalších firem a zvýšení jejich hodnoty.
-title: Proč si Elon Musk chce koupit Twitter?
+title: "Proč si Elon Musk chce koupit Twitter?"
 ---
 
 Je to další spletitý příběh a bude naším úkolem si jej mírně rozplést. 

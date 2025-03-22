@@ -13,7 +13,7 @@ summary_points:
 - Výnosy ze služeb Oskara vzrostly meziročně o 76 procent na 94 milionů USD.
 - ARPU Oskara dosáhl 641,5 Kč, což je více než u Eurotelu a T-Mobile.
 - Oskar vykazuje provozní zisk 138,3 mil. Kč za druhé čtvrtletí.
-title: Český Mobil vykázal zisk &#8211; výsledky za druhé čtvrtletí 2003
+title: "Český Mobil vykázal zisk – výsledky za druhé čtvrtletí 2003"
 ---
 
 Český Mobil dnes <A href="http://www.oskarmobil.cz/about_oskar/viewnews_cz.php3?id=195">publikoval své výsledky za druhé čtvrtletí</A>, nicméně na českých médiích vyšla jen jejich zkrácená verze, takže přidávám zajímavá čísla. Pro úplnost - TIW jakožto viamajitel Oskara, provedl v průběhu června sloučení akcií v poměru 4:1, takže už se neobchodují pod hranicí dolaru, ale na úrovni čtyř dolarů. 

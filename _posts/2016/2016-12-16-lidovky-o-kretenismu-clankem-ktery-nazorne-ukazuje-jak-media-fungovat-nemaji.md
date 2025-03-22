@@ -14,7 +14,7 @@ summary_points:
 - Šéfredaktor National Geographic reagoval na Kyšovu kritiku neobjektivně a osobně.
 - Tureček neposkytl žádné věcné argumenty, pouze se vyjádřil emocionálně.
 - Článek v Lidových novinách je kritizován za nedostatek obsahu a neobjektivitu.
-title: Lidovky o&nbsp;kreténismu článkem, který názorně ukazuje, jak média fungovat
+title: "Lidovky o kreténismu článkem, který názorně ukazuje, jak média fungovat"
   nemají
 ---
 

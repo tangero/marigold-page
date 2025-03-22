@@ -13,7 +13,7 @@ summary_points:
 - 'Projekty lze přihlásit do tří dotačních programů: infrastruktura, aplikace, osvěta.'
 - Žadatelé musí prokázat životaschopnost projektu a 30% finanční spoluúčast.
 - Přihlášky odevzdat do 9. prosince 2005 do 14:00 mohou fyzické i právnické osoby.
-title: Ministerstvo informatiky právě začlo rozdávat dotace na broadband internet.
+title: "Ministerstvo informatiky právě začlo rozdávat dotace na broadband internet."
   Pošlete mu číslo účtu&#8230;
 ---
 

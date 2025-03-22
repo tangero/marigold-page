@@ -13,7 +13,7 @@ summary_points:
 - Vyhledávání probíhá i v metadatech multimediálních souborů.
 - Yahoo! vydalo specifikaci Media RSS Syndication pro roboty.
 - Cílem Media RSS Syndication je usnadnit nalezení URL obsahu.
-title: 'Yahoo! ve videosouborech skutečně vyhledává
+title: "'Yahoo! ve videosouborech skutečně vyhledává"
 
   '
 ---

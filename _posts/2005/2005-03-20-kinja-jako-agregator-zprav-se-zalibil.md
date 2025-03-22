@@ -13,7 +13,7 @@ summary_points:
 - Kinja umožňuje sledovat souhrny zpráv ostatních uživatelů a import/export OPML.
 - Agregátor Kinja nahradil SharpReadera díky menší náročnosti na paměť.
 - Přidávání stránek do Kinja je jednoduché pomocí bookmarkletu.
-title: Kinja jako agregátor zpráv se zalíbil
+title: "Kinja jako agregátor zpráv se zalíbil"
 ---
 
 <p>Našel jsem si další oblíbený agregátorek zpravodajství. Jmenuje se <a href="http://www.kinja.com">Kinja</a> a umožňuje přidat servery, které chcete sledovat. Kinja si z nich sama vyextrahuje zprávy (zpravidla přes RSS) a vytváří vám souhrn zpráv. Můžete se také podívat, jaké souhrny zpráv sledují ostatní lidé (tady třeba, <a href="http://kinja.com/user/tangero">co sleduju já</a>), můžete si přidávat jejich zdroje, používat export i import přes OPML formát. </p>

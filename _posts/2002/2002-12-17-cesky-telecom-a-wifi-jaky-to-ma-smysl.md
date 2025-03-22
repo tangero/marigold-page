@@ -13,7 +13,7 @@ summary_points:
 - Telecom by mohl využít telefonní budky pro efektivní hotspoty WiFi sítě.
 - Telecom strategie ohledně WiFi a ADSL je nejasná a těžko pochopitelná.
 - Rychlost akce Telecom WiFi naznačuje spěch a potenciální nedodělky.
-title: Český Telecom a&nbsp;WiFi, jaký to má smysl?
+title: "Český Telecom a WiFi, jaký to má smysl?"
 ---
 
 <p>

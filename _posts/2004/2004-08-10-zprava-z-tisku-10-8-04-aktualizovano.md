@@ -14,7 +14,7 @@ summary_points:
 - Čtvrtina českých domácností má počítač, nejvíce v Praze (38%), nejméně na Olomoucku
   (15%).
 - V Evropě má více lidí internet než v Česku kdy použilo počítač.
-title: Zpráva z&nbsp;tisku (10.8.04) &#8211; aktualizováno
+title: "Zpráva z tisku (10.8.04) – aktualizováno"
 ---
 
 <p>

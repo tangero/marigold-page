@@ -14,7 +14,7 @@ summary_points:
   nepraktické.
 - MAC adresa by mohla být použita pro ochranu sítě namísto osobní registrace.
 - Zavedení WiFi je záslužné, ale vyžaduje vylepšení v dosahu a přístupnosti.
-title: TV reportáž o&nbsp;WiFi pokrytí v&nbsp;Prostějově
+title: "TV reportáž o WiFi pokrytí v Prostějově"
 ---
 
 <p>

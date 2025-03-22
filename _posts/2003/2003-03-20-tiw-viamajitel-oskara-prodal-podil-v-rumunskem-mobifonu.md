@@ -13,7 +13,7 @@ summary_points:
 - Český Mobil/Oskar nebyl prodán, TIW zvolilo odprodej minoritního podílu.
 - TIW bude schopno splácet závazky a možná se vyhne razantnímu prodeji aktiv.
 - Kurz akcií TIW po zveřejnění finančních výsledků výrazně klesl.
-title: TIW (viamajitel Oskara) prodal podíl v&nbsp;rumunském MobiFonu
+title: "TIW (viamajitel Oskara) prodal podíl v rumunském MobiFonu"
 ---
 
 <p>

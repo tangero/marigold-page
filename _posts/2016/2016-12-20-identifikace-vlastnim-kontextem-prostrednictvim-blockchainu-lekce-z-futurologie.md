@@ -18,7 +18,7 @@ summary_points:
 - Eklog zaznamenává veškeré chování uživatele do blockchainových transakcí.
 - Eklog slouží k identifikaci a autorizaci na základě chování uživatele.
 - Eklog vyhodnocuje přínos jedince společnosti a podle toho povoluje zdroje.
-title: Identifikace vlastním kontextem prostřednictvím blockchainu (lekce z&nbsp;futurologie)
+title: "Identifikace vlastním kontextem prostřednictvím blockchainu (lekce z futurologie)"
 ---
 
 Důvod, proč jsem se poněkud ponořil do blockchainu, je vlastně docela prostý. Potřeboval jsem vymyslet autorizační mechanismus, který by byl bezobslužný. Kde by jste nevyplňovali nic. Ani uživatelské jméno, natož heslo. Něco, co bych mohl drze použít do své knihy Flotila jako samozřejmý prvek budoucnosti. Tak samozřejmý, že si jednou řeknou, proč to nikoho nenapadlo, když je to tak zřejmý. A vymyslel jsem takovou ptákovinu, že to musí fungovat. 

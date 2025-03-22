@@ -13,7 +13,7 @@ summary_points:
 - Nagel žaloval stát kvůli Českým radiokomunikacím a požadoval 30 milionů dolarů.
 - Arbitrážní soud přisoudil ČR 12 milionů korun jako náhradu nákladů.
 - Nagel musí uhradit 90 procent administrativních nákladů arbitrážního soudu.
-title: Česko vyhrálo arbitráž o&nbsp;třicet miliónů dolarů za mobilní licence
+title: "Česko vyhrálo arbitráž o třicet miliónů dolarů za mobilní licence"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Radek Hulán obvinil Davida Grudla ze zkopírování Textile do Texy.
 - Článek obviňující Grudla napsal pseudonym 12phreak, ne Radek Hulán.
 - Notářské ověření webové stránky probíhá tiskem a orazítkováním, ne digitálně.
-title: Flejmkríg pokračoval omluvami a&nbsp;objevem alternativních redaktorů
+title: "Flejmkríg pokračoval omluvami a objevem alternativních redaktorů"
 ---
 
 <p>Pokud jste neměli čas prokousávat se vývojem nejnovější flamewar mezi autorem Blog:CMS a autorem Texy ve věci dodržování licencí, tak máte jedinečnou příležitost vpravit se do závěrečných dějství a nebýt tak neznalostí odsunuti na periferii společnosti – už dost na tom, že nevíte, kdo je Vladko a odkud vypadla Wendy!</p>

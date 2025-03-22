@@ -13,7 +13,7 @@ summary_points:
 - WAP11 zlevnil o 1200 Kč na 7.100 Kč bez DPH.
 - BEFW11S4 zlevnil o 1200 Kč na 7.900 Kč bez DPH.
 - WiFi routery obecně zlevňují, očekává se další pokles cen.
-title: Linksys produkty tlačí s&nbsp;cenou dolů nová produktová řada
+title: "Linksys produkty tlačí s cenou dolů nová produktová řada"
 ---
 
 <p>

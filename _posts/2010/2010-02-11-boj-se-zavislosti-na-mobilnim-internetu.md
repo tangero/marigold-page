@@ -16,7 +16,7 @@ summary_points:
 - Omezení internetu vedlo k promyšlenějším zadáním od kolegů a kvalitnější komunikaci.
 - Autor získal čas na komplexní přemýšlení a hlubší názory, na rozdíl od povrchních
   soudů.
-title: 'Boj se závislostí na mobilním internetu
+title: "'Boj se závislostí na mobilním internetu"
 
   '
 ---

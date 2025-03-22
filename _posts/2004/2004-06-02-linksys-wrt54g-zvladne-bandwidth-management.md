@@ -13,7 +13,7 @@ summary_points:
 - Firmware se instaluje přes web administraci a přidává nové funkce.
 - Nastavení rychlosti je shodné pro WiFi/LAN porty, lze penalizovat priority.
 - Alternativy pro úpravu routerů zahrnují projekty EWRT a WiFi Box.
-title: 'Linksys WRT54G zvládne bandwidth management
+title: "'Linksys WRT54G zvládne bandwidth management"
 
   '
 ---

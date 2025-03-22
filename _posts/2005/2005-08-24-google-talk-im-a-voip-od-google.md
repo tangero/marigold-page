@@ -14,7 +14,7 @@ summary_points:
 - Google Talk umožňuje volání mezi počítači a zobrazuje sumář Gmail pošty.
 - Google Talk nepodporuje prostupy do ICQ, AOL, Yahoo, MSN ani Skype.
 - Gmail nově podporuje vlastní email adresu v políčku From (pro některé jazyky).
-title: Google Talk &#8211; IM a&nbsp;VoIP od Google
+title: "Google Talk – IM a VoIP od Google"
 ---
 
 <p>Google dneska spustil službu, o které se tak různě (včetně mne) spekuloval již nějakou dobu. Hodně lidí Google rozrušil například tím, že hledal programátory se zkušeností s VoIP. Google to tehdy vysvětloval tím, že je potřebuje na správu firemní ústředny, jenže na to jich potřeboval nějak podezřele moc. Tak už to víme - služba se jmenuje <a href="http://www.google.com/talk/">Google Talk</a> a je to vlastně Jabber IM protokol s VoIP nadstavbou. </p>

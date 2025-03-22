@@ -13,7 +13,7 @@ summary_points:
 - Lidé nechtějí platit vysoké ceny za data v 3G sítích.
 - G sítě se podobají Iridiu, které je drahé a málo využívané.
 - Eseji od Shirkyho se zabývá budoucností a problémy 3G sítí.
-title: 'Další zajímavý názor na 3G sítě od Claye Shirkyho
+title: "'Další zajímavý názor na 3G sítě od Claye Shirkyho"
 
   '
 ---

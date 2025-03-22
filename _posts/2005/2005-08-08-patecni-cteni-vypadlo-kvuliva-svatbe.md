@@ -13,7 +13,7 @@ summary_points:
 - Autor obdržel dvacet emailů s výčitkami za zrušené čtení.
 - Romanova svatba se vydařila, jen krátce vypadla elektřina.
 - Autor a Martin Zikmund se ztrapnili při natáčení svatebního přání.
-title: 'Páteční čtení vypadlo kvůlivá svatbě
+title: "'Páteční čtení vypadlo kvůlivá svatbě"
 
   '
 ---

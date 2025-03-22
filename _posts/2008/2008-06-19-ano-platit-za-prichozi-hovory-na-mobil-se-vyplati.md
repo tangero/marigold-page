@@ -15,7 +15,7 @@ summary_points:
 - Propojovací poplatky jsou administrativně stanovené a neúměrně vysoké.
 - Placení příchozích hovorů by zprůhlednilo náklady a zvýšilo konkurenci.
 - Změna by přinesla rovné podmínky a zákazníci by si vybrali levnějšího operátora.
-title: 'Ano, platit za příchozí hovory na mobil se vyplatí
+title: "'Ano, platit za příchozí hovory na mobil se vyplatí"
 
   '
 ---

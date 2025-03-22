@@ -13,7 +13,7 @@ summary_points:
 - Autor odmítl hlavního hrdinu a zaměřil se na kolektivní úsilí.
 - Příběh se odehrává v českém prostředí s reáliemi jako Kofola.
 - Autor se inspiroval starověkou bitvou pro věrohodné zobrazení vesmírného boje.
-title: Flotila Země dopsána – přesně po&nbsp;devíti měsících
+title: "Flotila Země dopsána – přesně po devíti měsících"
 ---
 
 <p>Přesně devět měsíců mi trvalo dopsat povídku <a href="http://flotila.bloguje.cz">Flotila Země</a>. Navzdory tomu, že jsem původně očekával, že ji za čtyři-pět týdnů budu mít z krku. Abych byl na sebe spravedlivý, původně jsem také očekával, že půjde o povídku v rozsahu deseti stránek. A nějak se mi to vymklo z rukou, povídka má přes čtvrt milionu znaků, což kdybyste převedli do knižní podoby, vyjde na nějakých 150 stran. Prostě tenčí knihu. Spolu s rostoucím rozsahem je tu jeden drobný problém: co s Flotilou teď, když je dopsaná? Původně jsme ji chtěl přihlásit do nějaké soutěže, ale jak se tak probírám <a href="http://www.ikarie.cz/">Ikarií</a>, všechny právě běžící soutěže mají limit délky povídky. Ach jo, to jsem to zase zvoral :)</p>

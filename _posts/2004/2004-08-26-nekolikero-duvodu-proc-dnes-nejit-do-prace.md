@@ -13,7 +13,7 @@ summary_points:
 - Problémy byly vyřešeny nebo přesunuty, kontakt by je mohl vrátit.
 - Nedostatek spánku a riziko jízlivosti při dotazech na software.
 - Setkání s uklizečkou a zbytečné hádky s programátory vedou k volnu.
-title: Několikero důvodů, proč dnes nejít do práce&#8230;
+title: "Několikero důvodů, proč dnes nejít do práce…"
 ---
 
 <p>

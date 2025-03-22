@@ -15,7 +15,7 @@ summary_points:
 - PPC model prodeje je omezený, proto firma sází na vzdělávání a partnery.
 - Partneři jsou efektivnější než média, protože si provize více váží.
 - Firma hledá partnery mezi elektrikáři, například na veletrhu Amper.
-title: Prodávat nepojmenované
+title: "Prodávat nepojmenované"
 ---
 
 <p>Jeden ze zajímavých momentů (tedy pro mne zajímavých) našeho rozjezdu <a href="http://www.energomonitor.cz">energomonitoru</a> je způsob prodeje. Když se řekne prodej, většina nezasvěcených pohrdavě namítne, že to je easy, že prostě někomu dáte zboží a on zaplatí. Už, když si ten děj rozepíšete na procesy (a já mám rád jasně definované procesy, protože minimalizují riziko chyb), tak tušíte, že tak easy to nebude. Už jen to "dodat zboží" nebo "zaplatí" má v sobě řadu "ale", které se liší tovar od tovaru, klient od klienta. Teď se zaměřme na problém samotné alokace zákazníka.</p>

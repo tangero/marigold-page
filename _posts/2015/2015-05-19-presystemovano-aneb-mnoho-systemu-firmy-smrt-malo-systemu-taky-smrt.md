@@ -14,7 +14,7 @@ summary_points:
 - Dropbox Business je drahý, proto firma přechází na Google Drive, i přes jeho nedostatky.
 - Objednávky přicházejí přes eshop, email, telefon; data se exportují do OnePageCRM.
 - Plánuje se zrušení Freshdesku a převod na Daktelu, řeší se komunikace přes Slack.
-title: 'Přesystémováno aneb mnoho systémů, firmy smrt, málo systémů, taky smrt
+title: "'Přesystémováno aneb mnoho systémů, firmy smrt, málo systémů, taky smrt"
 
   '
 ---

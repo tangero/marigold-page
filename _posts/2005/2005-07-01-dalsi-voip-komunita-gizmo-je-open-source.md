@@ -13,7 +13,7 @@ summary_points:
 - Autor článku udělal chybu v interpretaci statistik Skype volání.
 - Gizmo Project je open-source SIP klient pro Windows, Mac a Linux.
 - Mercora IM rádio je P2P internetové rádio s mnoha funkcemi.
-title: 'Další VoIP komunita Gizmo je open source
+title: "'Další VoIP komunita Gizmo je open source"
 
   '
 ---

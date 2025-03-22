@@ -16,7 +16,7 @@ summary_points:
 - Město Shenzhen trpí smogem a hektičností, ceny nemovitostí jsou astronomické.
 - Továrny v Shenzhenu se liší kvalitou, některé jsou moderní, jiné brutální.
 - Pracovníci v továrnách jsou čistí a pracovití, ale často bez ochranných pomůcek.
-title: Ve Fabrice Světa
+title: "Ve Fabrice Světa"
 ---
 
 Nerad bych vypadal, že po pár dnech v Číně jsem sežral všechnu čínomoudrost světa. Berte následující řádky prosím jako moje postřehy a výpovědi lidí, kteří tu bydlí a provázeli nás na naší cestě. Možná kecali, možná režim něco ukryl, ale nemyslím si...

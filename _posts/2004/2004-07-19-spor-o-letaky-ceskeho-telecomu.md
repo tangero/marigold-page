@@ -13,7 +13,7 @@ summary_points:
 - Telefon 120 nabízí hodinu volání zdarma ve špičce i mimo špičku za 400 Kč.
 - Uživatel Home Standard má 102 Kč volného kreditu, který by měl provolat nejdříve.
 - Reklama Telecomu modeluje chování zákazníka a zapomenutí na volný kredit.
-title: Spor o&nbsp;letáky Českého Telecomu
+title: "Spor o letáky Českého Telecomu"
 ---
 
 <p>

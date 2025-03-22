@@ -13,7 +13,7 @@ summary_points:
 - Repeatery bez napájení lze zřídit pomocí solárního napájení.
 - Mobilní hotspot nebo WiFi na kopci lze napájet solárně.
 - Článek dále rozebírá využití solárního napájení pro WiFi.
-title: WiFi nezávislé na napájení &#8211; akumulátory a&nbsp;solární panely
+title: "WiFi nezávislé na napájení – akumulátory a solární panely"
 ---
 
 <p>

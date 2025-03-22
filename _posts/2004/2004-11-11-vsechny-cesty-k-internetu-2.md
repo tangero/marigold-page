@@ -13,7 +13,7 @@ summary_points:
 - Eurotel CDMA omezuje rychlost po stažení většího objemu dat.
 - Eduroam umožňuje roaming v akademických sítích po Evropě.
 - Autentizace v Eduroam probíhá pomocí hierarchie Radius serverů.
-title: Všechny cesty k&nbsp;internetu (2)
+title: "Všechny cesty k internetu (2)"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20041111-eduroam-logo.gif" alt="Logo eduRoam" width="230" height="100" /></div><p>

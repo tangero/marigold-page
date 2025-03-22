@@ -10,7 +10,7 @@ summary_points:
 - Autor ji smazal, protože cíloví čtenáři už nejsou technologií nadšeni.
 - Česko nehraje významnou roli ve vývoji mobilních technologií.
 - Autor zvažuje přepracování knihy do dětské formy pro budoucí generace.
-title: 'Kniha o&nbsp;mobilních sítích: vyhozeno, smazáno. K&nbsp;čemu taky takových
+title: "'Kniha o mobilních sítích: vyhozeno, smazáno. K čemu taky takových"
   knih.'
 ---
 

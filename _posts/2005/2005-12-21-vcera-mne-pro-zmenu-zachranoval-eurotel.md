@@ -13,7 +13,7 @@ summary_points:
 - Nefunkční internet znemožnil práci a VoIP telefonii.
 - Mobilní data selhala kvůli chybějícímu softwaru na notebooku.
 - CDMA od Eurotelu nakonec zajistilo dočasné připojení k internetu.
-title: 'Včera mne pro změnu zachraňoval Eurotel
+title: "'Včera mne pro změnu zachraňoval Eurotel"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Dvouhodinový výpadek postihl "nezanedbatelnou" část IP páteřní sítě Level3.
 - Příčinou výpadku směrování Level3 mohl být upgrade softwaru na směrovačích.
 - Výpadek směrování znehodnocuje SEO optimalizaci webů, jak uvádí autor.
-title: Level3 se přidal k&nbsp;diskusi na LUPĚ
+title: "Level3 se přidal k diskusi na LUPĚ"
 ---
 
 <p><b>oook píše</b>: Před pár dny se na Lupě objevil <a href="http://www.lupa.cz/clanek.php3?show=4452" >článek Pavla Housera o stabilitě Internetu</a>, kolem kterého se rozproudila částečně zajímavá diskuse. <br />

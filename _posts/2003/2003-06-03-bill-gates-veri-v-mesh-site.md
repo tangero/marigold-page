@@ -13,7 +13,7 @@ summary_points:
 - Microsoft vyvíjí software pro mesh sítě, chce být lídrem trhu.
 - Bezpečnost mesh sítí od Microsoftu vyvolává obavy odborníků.
 - WiFi bude brzy dostupné v každé domácnosti, hotelu a letišti.
-title: Bill Gates věří v&nbsp;mesh sítě
+title: "Bill Gates věří v mesh sítě"
 ---
 
 <p>

@@ -13,7 +13,7 @@ summary_points:
 - Distributorem Edimax produktů v Česku je společnost Actebis.
 - BR-6104WP je 4portový bezdrátový router s tiskovým serverem za 5 590,- Kč.
 - Zkušenosti s 22 Mbps WiFi od D-Linku jsou špatné, rychlost je nízká.
-title: Edimax WiFi u&nbsp;nás s&nbsp;22 Mbps
+title: "Edimax WiFi u nás s 22 Mbps"
 ---
 
 <p>

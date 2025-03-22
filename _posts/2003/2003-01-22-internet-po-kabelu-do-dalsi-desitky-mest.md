@@ -13,7 +13,7 @@ summary_points:
 - Kabelový internet je levný a podporuje rozvoj sousedských sítí.
 - Mobil.cz řeší soužití mobilních telefonů a WiFi sítí.
 - Operátoři možná nebudou chtít telefony s podporou WiFi.
-title: Internet po&nbsp;kabelu do další desítky měst
+title: "Internet po kabelu do další desítky měst"
 ---
 
 <p>

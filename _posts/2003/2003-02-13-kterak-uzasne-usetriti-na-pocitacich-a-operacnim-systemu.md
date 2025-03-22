@@ -13,7 +13,7 @@ summary_points:
 - BeOS 4.5 se podařilo nainstalovat, ale nepodporoval vestavěnou síťovou kartu.
 - Windows 2000 fungoval i se síťovou kartou, nyní se testuje BeOS 5.
 - Autor hledá někoho, kdo by zkusil nainstalovat Linux na Compaq počítače.
-title: Kterak úžasně ušetřiti na počítačích a&nbsp;operačním systému
+title: "Kterak úžasně ušetřiti na počítačích a operačním systému"
 ---
 
 <p>

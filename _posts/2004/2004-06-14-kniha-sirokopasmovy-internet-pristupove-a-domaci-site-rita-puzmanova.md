@@ -14,7 +14,7 @@ summary_points:
   a dalších.
 - Kniha je spíše přehledem technologií, vhodná pro rychlé zjištění vlastností a parametrů.
 - Polovina knihy se věnuje bezdrátovým sítím, druhá kabelovým technologiím.
-title: Kniha Širokopásmový Internet &#8211; Přístupové a&nbsp;domácí sítě (Rita Pužmanová)
+title: "Kniha Širokopásmový Internet – Přístupové a domácí sítě (Rita Pužmanová)"
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
 - Vznikla myšlenka celostátní páteřní sítě pro akademická pracoviště, budoucí CESNET.
 - Pro CESNET se zvažovaly protokoly X.25 (levnější) a TCP/IP (modernější), zvolen
   TCP/IP.
-title: 3. Další šíření sítě EARN u&nbsp;nás a&nbsp;vznik CESNETu
+title: "3. Další šíření sítě EARN u nás a vznik CESNETu"
 ---
 
 Československo se sice připojilo do EARNu, ale jen pražská akademická pracoviště. A tak se začalo pracovat na celostátní páteřní akademické síti - ta později dostala jméno CESNET.<!--more--><p>

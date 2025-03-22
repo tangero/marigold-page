@@ -13,7 +13,7 @@ summary_points:
 - Fotbalový poločas trvá 45 minut plus nastavený čas, což vypravěče překvapilo.
 - Vypravěč nechápe, proč fotbalisté nepoužívají vysílačky pro lepší komunikaci.
 - Použití vysílaček ve fotbale by mohlo být zakázané nějakým předpisem.
-title: Cha, díval jsem se na fotbal a&nbsp;nerozumím tomu&#8230;
+title: "Cha, díval jsem se na fotbal a nerozumím tomu…"
 ---
 
 <p>

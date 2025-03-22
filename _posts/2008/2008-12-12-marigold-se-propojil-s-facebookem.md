@@ -16,7 +16,7 @@ summary_points:
 - Příspěvky z Morigolda volitelně sdíleny na Facebook profilu uživatele.
 - Počet členů Marigolda zahrnuje registrované uživatele i Facebook přihlášení.
 - Autor přiznává menší aktivitu na Morigold kvůli psaní pro Lupu.
-title: Marigold se propojil s&nbsp;Facebookem
+title: "Marigold se propojil s Facebookem"
 ---
 
 Píšíc včera na Lupu o Facebook Connect a dalších podobných systémech, rozhodl jsem se to vyzkoušet a protože do Lupy moc nehrábnu, tak na Morigoldovi. Rozchodil jsem základní přihlašování na Marigolda přes Facebook, stačí kliknout na ikonku vpravo a můžete se bezpečně přihlásit přes Facebook Connect. 

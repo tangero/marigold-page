@@ -13,7 +13,7 @@ summary_points:
 - WideNet připojí zdarma atraktivní lokality vhodné pro hotspot.
 - Letná nabízí marigoldí přípojku, napojenou na CzFree.
 - CzFree závisí na štěstí a lokalitě, kvalita se liší.
-title: WideNet aneb WiFi na Praze 6
+title: "WideNet aneb WiFi na Praze 6"
 ---
 
 <p>

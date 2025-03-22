@@ -13,7 +13,7 @@ summary_points:
 - Web obsahuje devět kapitol o základech UMTS.
 - Text je založen na diplomové práci a je psán vážnějším stylem.
 - Web se zaměřuje na základy UMTS, ne na budoucí vývoj.
-title: Nový web o&nbsp;UMTS (Slovensky)
+title: "Nový web o UMTS (Slovensky)"
 ---
 
 <p>

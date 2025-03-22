@@ -13,7 +13,7 @@ summary_points:
 - Telecom službu SMS z pevných linek provozuje přes Fincom, který ji nabízel dříve.
 - Náklady na odeslání SMS jsou pro Telecom nízké, kolem 50-80 haléřů přes Connect.
 - Služba SMS z pevných linek má problémy s funkčností a omezeními pro operátory.
-title: SMS u&nbsp;Českého Telecomu není špatný nápad
+title: "SMS u Českého Telecomu není špatný nápad"
 ---
 
 <p>

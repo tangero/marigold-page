@@ -13,7 +13,7 @@ summary_points:
 - Nova neumožnila divákům ztotožnit se se soutěžícími.
 - Technologie pro reálné záběry stojí pod 500 tisíc Kč.
 - Zisk z diváků a inzerentů by mohl být o řád větší.
-title: Jak hodně je N@va zoufalá (aneb ješte jednou vyvolení a&nbsp;BigBrother)?
+title: "Jak hodně je N@va zoufalá (aneb ješte jednou vyvolení a BigBrother)?"
 ---
 
 <p><b>oook píše</b>: Nedá mi, abych ještě jednou neotočil téma soupeření reality show. <br />

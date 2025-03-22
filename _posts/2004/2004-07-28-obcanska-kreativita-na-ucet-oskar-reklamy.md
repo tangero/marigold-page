@@ -14,7 +14,7 @@ summary_points:
 - Nápis vtipně využívá oskaří reklamní styl a umístění v mužské šatně.
 - Fotografie nekvalitní, pořízena telefonem Nokia 6820.
 - Autor nápisu neznámý, jde o lokální kreativní úpravu.
-title: 'Občanská kreativita na účet Oskar reklamy
+title: "'Občanská kreativita na účet Oskar reklamy"
 
   '
 ---

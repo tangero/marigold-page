@@ -12,7 +12,7 @@ summary_points:
 - Média upřednostňují konzervativní postoje a kritizují progresivní změny.
 - Extrémní názory dostávají v médiích neadekvátní prostor kvůli falešné objektivitě.
 - Složitá témata jsou v médiích často ignorována nebo jednostranně prezentována.
-title: Proč klesá (nejen moje) důvěra v mainstreamová média
+title: "Proč klesá (nejen moje) důvěra v mainstreamová média"
 ---
 
 V Česku je velká část hlavních médií vlastněna osobami, které mají své ekonomické zájmy jinde, mimo média, začasté ve stěžejních částech průmyslu a/nebo v politice. To je třeba mít na paměti. Jednotlivé tituly mají různě širokou míru předpojatosti, s nimiž přistupují k některým tématům, až tak, že v některých případech pojetí tématu hraničí s propagandou.

@@ -13,7 +13,7 @@ summary_points:
 - Nokia chtěla WiMAX pro rozvoj základnových stanic a mobilních terminálů.
 - Nokia se zaměřuje na rozvíjející se trhy v Rusku, Indii a Číně.
 - Nokia upřednostňuje hotové produkty a buňkové technologie před WiMAX.
-title: Nokia opouští WiMAX
+title: "Nokia opouští WiMAX"
 ---
 
 <p>

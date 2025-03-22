@@ -13,7 +13,7 @@ summary_points:
 - MIMO využívá dvě 802.11g rádia pro trojnásobnou propustnost a dosah.
 - Router má čtyři ethernetové porty, WAN port a podporuje VPA, DHCP, SPI.
 - Dostupnost Linksys WRT54GX se očekává v únoru, cena zatím není známa.
-title: Linksys WRT54GX s&nbsp;MIMO technologií
+title: "Linksys WRT54GX s MIMO technologií"
 ---
 
 <p>Společnost Linksys představila svůj první produkt vybavený technologií vícenásobných antén MIMO. Jde o variantu populárního WiFi routeru nazvanou Linksys WRT54GX. Technologii MIMO firma překřtila na SRX - Speed and Range eXpansion. </p>

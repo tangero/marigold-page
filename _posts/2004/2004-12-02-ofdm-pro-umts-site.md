@@ -13,7 +13,7 @@ summary_points:
 - OFDM bylo hlavním tématem workshopu 3GPP TSG RAN v Torontu.
 - Standard OFDM-HSDPA se očekává v roce 2006, technika v roce 2007.
 - Samsung představil mikročip pro WiFi v mobilech, dostupné v roce 2005.
-title: OFDM pro UMTS sítě
+title: "OFDM pro UMTS sítě"
 ---
 
 <p>

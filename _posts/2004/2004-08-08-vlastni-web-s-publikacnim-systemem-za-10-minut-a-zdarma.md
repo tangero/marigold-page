@@ -14,7 +14,7 @@ summary_points:
 - Webzdarma.cz nabízí bezplatný prostor s podporou MySQL a PHP pro publikační systémy.
 - BLOG:CMS vyžaduje registraci na Webzdarma.cz, stažení systému a jazykového balíčku.
 - Instalace BLOG:CMS zahrnuje nahrání souborů, vyplnění údajů a úpravu práv souborů.
-title: Vlastní web s&nbsp;publikačním systémem za 10 minut a&nbsp;zdarma
+title: "Vlastní web s publikačním systémem za 10 minut a zdarma"
 ---
 
 <div class="rightbox"><img src="/wp-content/uploads/cache/20040808-vlastni-web1.jpg" alt="Publikační systém za 10 minut" width="138" height="101" /></div><p>

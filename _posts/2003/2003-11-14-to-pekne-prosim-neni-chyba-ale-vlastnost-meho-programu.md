@@ -14,7 +14,7 @@ summary_points:
 - Problém nastává, protože personalizovaná část zobrazuje odkazy dříve, než se článek
   vygeneruje.
 - Řešením je zvyknout si na to, nebo manuálně upravit URL adresu článku.
-title: To pěkně prosím není chyba, ale vlastnost mého programu&#8230;
+title: "To pěkně prosím není chyba, ale vlastnost mého programu…"
 ---
 
 <p>

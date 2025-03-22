@@ -16,7 +16,7 @@ summary_points:
 - Centrální telefon automaticky kupuje SMS jízdenky a cestující sdílí jeho číslo.
 - Revizor nemůže ověřit, zda cestující číslo telefonu skutečně vlastní.
 - Dopravní podnik doufá, že se sdílení jízdenek nevyplatí organizovat ve velkém.
-title: Ale ano, SMS jízdenku lze obelstít
+title: "Ale ano, SMS jízdenku lze obelstít"
 ---
 
 <p>Na jedné vánoční párty se mi chlubil vývojář aplikace pražských SMS jízdenek, že to mají tak chytře vymyšlené, že to nelze obejít. Zdvořile jsem se usmál té sebevíře a namítl, že obejít lze všechno a je to jen o vůli toto obejít. Prý ne, prý to nejde obejít.</p>

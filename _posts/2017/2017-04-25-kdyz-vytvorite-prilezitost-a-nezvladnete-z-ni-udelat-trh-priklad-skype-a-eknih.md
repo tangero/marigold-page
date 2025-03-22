@@ -11,7 +11,7 @@ summary_points:
 - Skype změnil telekomunikace, ale nedokázal plně využít svůj potenciál a monetizovat.
 - Chatboti jsou stále ve fázi vývoje a jejich skutečná inteligence ještě není na úrovni
   očekávání.
-title: Když vytvoříte příležitost a&nbsp;nezvládnete z&nbsp;ní udělat trh (příklad
+title: "Když vytvoříte příležitost a nezvládnete z ní udělat trh (příklad"
   Skype a&nbsp;eknih)
 ---
 

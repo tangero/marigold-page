@@ -15,7 +15,7 @@ summary_points:
 - AlphaFold 3 od Google DeepMind přesně předpovídá struktury proteinů a DNA.
 - OpenAI rozpustila bezpečnostní tým a propustila klíčové osoby včetně Sutskevera.
 - Humane hledá kupce pro AI Pin i přes rozpačité recenze produktu.
-title: A drobky, to není dobré přehlédnout
+title: "A drobky, to není dobré přehlédnout"
 ---
 
 Průkopník umělé inteligence Geoffrey Hinton (také známý jako „kmotr umělé inteligence“) řekl, že **univerzální základní příjem je nezbytný pro řešení ztráty pracovních míst** a nerovnosti způsobené umělou inteligencí. I když se ale vyřeší peníze, jak lidé bez práce získají pocit sebeúcty? Tohle budeme muset řešit. 

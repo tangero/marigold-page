@@ -13,7 +13,7 @@ summary_points:
 - Policie by mohla automaticky rozesílat vyúčtování za rychlou jízdu.
 - Automatické pokuty za každé překročení rychlosti by drsně potrestaly řidiče.
 - Povinné GPS v autech by mohly pročistit prasáckou dopravu.
-title: 'Automatická pokuta za překročení rychlosti, co vy na to?
+title: "'Automatická pokuta za překročení rychlosti, co vy na to?"
 
   '
 ---

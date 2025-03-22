@@ -10,7 +10,7 @@ summary_points:
 - Info.cz a Echo nabízejí zajímavé informace, ale Reflex je příšerný.
 - Seznam Zprávy jsou plné krimizpráv, česká média jsou negativní.
 - Autor preferuje Flipboard, Sueddeutsche a doslechy od známých před českými médii.
-title: 'České zprávy na internetu? Info.cz zajímavý, Seznam Zprávy zatím problémy
+title: "'České zprávy na internetu? Info.cz zajímavý, Seznam Zprávy zatím problémy"
   se závažností témat
 
   '

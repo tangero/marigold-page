@@ -13,7 +13,7 @@ summary_points:
 - T-Mobile se snaží žehlit špatnou komunikaci touto antibojkotní akcí.
 - Mobil.cz odhalil organizování antibojkotu, což firmě způsobilo ostudu.
 - Autor článku sníží svůj tarif u T-Mobile kvůli zdražování služeb.
-title: 'Antibojkot T-Mobile organizuje, jak jinak, T-Mobile
+title: "'Antibojkot T-Mobile organizuje, jak jinak, T-Mobile"
 
   '
 ---

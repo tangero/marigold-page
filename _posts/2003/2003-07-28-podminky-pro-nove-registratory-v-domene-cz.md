@@ -12,7 +12,7 @@ summary_points:
 - CZ.NIC zveřejnil podmínky pro registrátory v decentralizovaném systému.
 - Koncoví uživatelé by neměli pocítit cenový šok z nového systému.
 - Uživatelé by si měli dát pozor na podvodné nabídky plateb za domény.
-title: Podmínky pro nové registrátory v&nbsp;doméně .cz
+title: "Podmínky pro nové registrátory v doméně .cz"
 ---
 
 <p>

@@ -20,7 +20,7 @@ summary_points:
   pracovníky.
 - Práce se dělí na nejistý prekariát a privilegované intelektuální pracovníky s benefity.
 - Budoucnost vyžaduje kreativní překonání rozporů, kombinaci recyklace a omezení spotřeby.
-title: Společnost na rozcestí
+title: "Společnost na rozcestí"
 ---
 
 Dnes máme tendenci považovat naše západní společenské zřízení za maximum možného. My Češi jako dědicové východní Evropy tím spíše, že jsme se před třiceti lety přihlásili k návratu na Západ a čtyřicetiletou historii socialismu se pokoušíme vymazat jakožto slepou cestu. Zatímco v Česku je pojem socialismus zdiskreditovaný, ve světě se k němu hlásí [Hnutí žlutých vest](https://denikreferendum.cz/clanek/33264-studie-hnuti-zlutych-vest-se-bourilo-vuci-asocialni-nikoli-klimaticke-politice), [Occupy Wall Street](https://cs.wikipedia.org/wiki/Occupy_Wall_Street), ale i Zelení a řada dalších hráčů na politickém poli. Touha po řešení sociální nerovnosti a neschopnost neoliberálních i sociálnědemokratických politiků řešení nabídnout, či alespoň připustit jeho nutnost, přispívají k narůstající vlně populistických politiků. Za těchto okolností se může zdát paradoxní, že kapitalismus dneška je mnohem revolučnější silou než tradiční levice. Ta ustrnula na ochraně výdobytků sociálního státu, a to i tam, kde to již dávno ztratilo smysl. Ochrana slévačů a horníků v době, kdy se tato práce vystěhovala za hranice, nesvědčí o reálném pohledu na trh práce.

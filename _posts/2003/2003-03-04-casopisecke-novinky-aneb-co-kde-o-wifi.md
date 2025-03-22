@@ -13,7 +13,7 @@ summary_points:
 - Chip minulý měsíc publikoval podobný přehled o WiFi technologiích.
 - Telecommunications obsahuje A2 plakát schématu UMTS a GPRS sítí.
 - Telecommunications se v trafikách neprodává, je nedostupný.
-title: Časopisecké novinky aneb co kde o&nbsp;WiFi
+title: "Časopisecké novinky aneb co kde o WiFi"
 ---
 
 <p>

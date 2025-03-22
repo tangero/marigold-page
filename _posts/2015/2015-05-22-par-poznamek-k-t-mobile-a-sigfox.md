@@ -13,7 +13,7 @@ summary_points:
 - Obě technologie využívají bezlicenční ISM pásmo 868 MHz s nízkou spotřebou energie.
 - SigFox a LoRa přenášejí malé objemy dat, ideální pro stavovou komunikaci mezi stroji.
 - Operátoři vstupují do M2M trhu kvůli nízké bariéře vstupu a vysokému počtu uživatelů.
-title: Pár poznámek k&nbsp;T-Mobile a&nbsp;SigFox
+title: "Pár poznámek k T-Mobile a SigFox"
 ---
 
 <p>Včera ohlásil T-Mobile, že spouští síť pro Internet věcí na technologii SigFox, záhy se ozvaly ČRa, že spouští to samé od LoRa. Tak pár poznámek od mě, neználka se zkoušečkou.</p>

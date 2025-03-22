@@ -14,7 +14,7 @@ summary_points:
   Intersil a Symbol.
 - Proxim představil PCMCIA kartu Orinoco 11a/b/g ComboCard s podporou WiFi a/b/g.
 - Nejlevnější ADSL linka by měla stát 1000 Kč v říjnu dle odhadu.
-title: 'Telecom zrychlí ADSL, certifikace WPA, Orinoco ComboCard
+title: "'Telecom zrychlí ADSL, certifikace WPA, Orinoco ComboCard"
 
   '
 ---

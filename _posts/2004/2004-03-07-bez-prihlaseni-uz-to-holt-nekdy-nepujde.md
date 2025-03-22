@@ -13,7 +13,7 @@ summary_points:
 - Autor o víkendu programoval inteligentnější řízení přístupu k informacím na Marigoldovi.
 - Přihlášení Genloginem bude povinné pro čtení některých článků na Marigoldovi.
 - Přihlášení je trvalé, registrace vyžaduje jméno, login a email, ale data se nezneužívají.
-title: Bez přihlášení už to holt někdy nepůjde&#8230;
+title: "Bez přihlášení už to holt někdy nepůjde…"
 ---
 
 <p>

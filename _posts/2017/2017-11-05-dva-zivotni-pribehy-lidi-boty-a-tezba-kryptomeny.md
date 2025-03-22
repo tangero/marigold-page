@@ -11,7 +11,7 @@ summary_points:
 - Tonda Capoušek z Mladé fronty se stal nadšeným propagátorem těžení kryptoměn.
 - Oba příběhy ukazují hledání smysluplné práce přesahující rutinu.
 - Inspirací je odvaha změnit životní dráhu a najít naplnění.
-title: 'Dva životní příběhy lidí: boty a&nbsp;těžba kryptoměny'
+title: "Dva životní příběhy lidí: boty a těžba kryptoměny"
 ---
 
 <p>Tento týden jsem potkal dva zajímavé životní příběhy, nebo se mi dokreslily. Oba na téma "jak nezůstat šedivým", jestli mi rozumíte.</p>

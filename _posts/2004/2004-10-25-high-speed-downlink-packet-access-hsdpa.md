@@ -20,7 +20,7 @@ summary_points:
   Mb/s.
 - Release 6 plánuje vylepšení HSDPA, včetně rozšířeného reportování CQI a EUDCH pro
   uplink.
-title: 'High Speed Downlink Packet Access (HSDPA)
+title: "'High Speed Downlink Packet Access (HSDPA)"
 
   '
 ---

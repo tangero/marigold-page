@@ -13,7 +13,7 @@ summary_points:
 - Mobilní telefon autorovi spíše škodí a narušuje soustředění.
 - WAP přístup k emailu je zbytečný a nutí autora k neustálé kontrole.
 - Autor se omlouvá za nesouvislost textu způsobenou nechutí k psaní.
-title: Zase jedna malá podzimní únava
+title: "Zase jedna malá podzimní únava"
 ---
 
 <p>

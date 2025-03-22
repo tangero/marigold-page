@@ -13,7 +13,7 @@ summary_points:
 - Podrobnosti o akci Mobile gaming jsou dostupné na webu tuesday.cz.
 - Vstup na Mobile gaming je pro členy Tuesday zdarma, pro ostatní 300 Kč.
 - Akce Mobile gaming nabídne průřez mobilně herním trhem, včetně operátorů a firem.
-title: 'Moderuji Wireless Wednesday na téma Mobile gaming
+title: "'Moderuji Wireless Wednesday na téma Mobile gaming"
 
   '
 ---

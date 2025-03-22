@@ -15,7 +15,7 @@ summary_points:
 - Dotazník značek oblečení autora zaskočil, preferuje maskáče, značky neřeší.
 - Džíny autor kupuje až po zničení starých, v obchodě s "Wilém Debil".
 - Džíny značky "Wilém Debil" autorovi doporučila zkušená prodavačka.
-title: 'Jak nakupují fajnšmekři (jako já třeba)
+title: "'Jak nakupují fajnšmekři (jako já třeba)"
 
   '
 ---

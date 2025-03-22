@@ -13,7 +13,7 @@ summary_points:
 - Fayn Free hovorné není nejvýhodnější, spíše pro příchozí hovory na pevnou linku.
 - Fayn Free se vyplatí méně volajícím, původní tarif je výhodnější pro časté hovory.
 - Do konce měsíce je snížen aktivační poplatek pro klasický tarif Fayn na 99 Kč.
-title: 'Fayn Free – konečně VoIP bez paušálu
+title: "'Fayn Free – konečně VoIP bez paušálu"
 
   '
 ---

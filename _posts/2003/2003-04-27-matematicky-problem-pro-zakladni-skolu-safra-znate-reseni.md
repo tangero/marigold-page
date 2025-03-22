@@ -13,7 +13,7 @@ summary_points:
 - Autor potřebuje vzorec pro výpočet náklonu antény ve vertikální rovině.
 - Příručky výpočet náklonu antény neuvádějí, pouze odkazují na jednoduchost.
 - Autor žádá čtenáře o pomoc s nalezením vzorce pro výpočet.
-title: Matematický problém pro základní školu &#8211; safra, znáte řešení?
+title: "Matematický problém pro základní školu – safra, znáte řešení?"
 ---
 
 <p>

@@ -17,7 +17,7 @@ summary_points:
 - Regulace byla nutná, volný trh nevedl k cenové konkurenceschopnosti.
 - Životnost úsporek závisí na kvalitě, důležité jsou záruky.
 - Zákaz žárovek byl přijat demokraticky, účastnily se občanské organizace.
-title: Dodatek k&nbsp;žárovkovým protiargumentům
+title: "Dodatek k žárovkovým protiargumentům"
 ---
 
 <p>V <a href="http://www.marigold.cz/item/mysterium-eurounijni-energetiky-a-zakazu-zarovek-2">diskusi se hromadí další a další dotazy a výtky ke článku o zákazu žárovek</a>. Pokusím se to tady sumarizovat, diskuse je už hodně nepřehledná, protože probíhá na asi deseti místech, takže se pokusím to tady shrnout. Ty komičtější nebo méně důležité výtky neuvádím.</p>

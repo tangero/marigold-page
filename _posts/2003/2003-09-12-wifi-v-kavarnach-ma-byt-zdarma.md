@@ -13,7 +13,7 @@ summary_points:
 - Kavárník v USA vypíná WiFi jen v době oběda a večeře pro zvýšení obratu.
 - Hotspot bez autorizace stojí v USA 100 dolarů, autorizační software je drahý.
 - Článek v časopise Wired podporuje názor, že WiFi má být zdarma.
-title: WiFi v&nbsp;kavárnách má být zdarma
+title: "WiFi v kavárnách má být zdarma"
 ---
 
 <p>

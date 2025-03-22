@@ -14,7 +14,7 @@ summary_points:
 - CESNET2 zahájil testovací provoz 2000 s linkou 2,5 Gbps Praha-Brno, technologie
   Packet over SONET.
 - Projekt GÉANT navázal na Quantum, cílem síť s jádrem 10 Gb/s, CESNET se podílí.
-title: 5. Kdo přijde po&nbsp;CESNETu? Další akademické sítě&#8230;
+title: "5. Kdo přijde po CESNETu? Další akademické sítě…"
 ---
 
 Projektem Cesnet vývoj akademického internetu v ČR natož ve světě neskončil. Jsou tu další projekty a rychlý internet pro akademiky výzkumníky je celosvětovou prioritou.<!--more--><P style="MARGIN: 0cm 0cm 0pt"><SPAN>Evropa počátkem devadesátých let započla přikládat internetu stále větší váhu nejenom ve sféře komerční, ale i v prostředí universitním, akademickém. Poté, co USA začaly v roce 1992 s budováním vyhrazené vysokorychlostní páteřní sítě určené pro university a výzkumné ústavy, přišla s dvouletým zpožděním s podobnou myšlenkou i Evropa. Už v roce 1994 se Česká republika zapojuje do projektu TEN-34 (Trans-European Network Interconnect at 34 Mbps), tedy do projektu, jehož cílem je vybudování panevropské páteřní sítě propojující univerzity a výzkumná střediska. Rychlost páteřní sítě měla dosahovat 34 Mbps a rpojekt vznikal pod koordinací neziskové společnosti DANTE (Delivering of Advenced Network To Europe). </SPAN></p>

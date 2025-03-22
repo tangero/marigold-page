@@ -13,7 +13,7 @@ summary_points:
 - Autor používá dvě základní metody technické analýzy pro zajištění obchodů.
 - Akcie TIW (TIWI) byla autorem doporučena jako investiční tip roku.
 - Akcie TIWI překonala hodnotu 10 USD v lednu 2004, doporučeno vybrat zisk.
-title: Akcie 5. &#8211; technická analýza nákupních příležitostí
+title: "Akcie 5. – technická analýza nákupních příležitostí"
 ---
 
 <p>

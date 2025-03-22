@@ -14,7 +14,7 @@ summary_points:
 - AI pomáhá se strukturou článku a analýzou zdrojů.
 - Použití AI vyžaduje ověřování informací kvůli chybám.
 thumbnail: https://www.marigold.cz/assets/ai-noviny.jpg
-title: Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin
+title: "Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin"
 ---
 
 Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 

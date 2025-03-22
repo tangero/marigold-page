@@ -13,7 +13,7 @@ summary_points:
 - Cena Tungsten C je 500 USD a má hires podporu.
 - Autor textu postrádá WiFi ve svém starším Tungstenu.
 - SD karty s WiFi pro starší Tungsten stále nejsou dostupné.
-title: Palm Tungsten C s&nbsp;WiFi podporou
+title: "Palm Tungsten C s WiFi podporou"
 ---
 
 <p>

@@ -17,7 +17,7 @@ summary_points:
 - Důležitá je kvalitní, ověřená žurnalistika, nikoliv zábavné drby nebo stranické
   spisy.
 - Technické vzdělání vytlačilo humanitní, což vede k černobílému vidění světa a neporozumění.
-title: K čemu je nám novin a&nbsp;zpráv zapotřebí
+title: "K čemu je nám novin a zpráv zapotřebí"
 ---
 
 <p>V komentáři pod jedním z článku se Yuhů ptá, zda je potřeba vůbec noviny nějak financovat. <em>“Nechme prostě noviny psát ty, které to baví a budou to dělat, i když je za to nikdo platit nebude. Jasně, je možné, že novin bude málo nebo žádné nebudou. Ale není to lepší než současný stav?”</em> ptá se Dušan Janovský a je to otázka, která si žádá odpověď. Potřebujeme noviny a novinařinu?<br>

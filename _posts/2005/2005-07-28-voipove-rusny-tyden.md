@@ -13,7 +13,7 @@ summary_points:
 - Fayn nabízí slevy pro zákazníky Softphone, Viphone a Wirphone.
 - Voipex, nová VoIP služba od Ipexu, byla spuštěna do ostrého provozu.
 - Jajah vydal novou verzi klienta s vylepšenou kompatibilitou se Skype.
-title: Voipově rušný týden
+title: "Voipově rušný týden"
 ---
 
 <p>Jak to tak vypadá, poslední doba je docela rušná na události na VoIP scéně a to nikoliv jen české. </p>

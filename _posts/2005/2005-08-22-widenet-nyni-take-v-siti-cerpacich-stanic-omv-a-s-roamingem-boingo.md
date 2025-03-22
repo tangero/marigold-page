@@ -13,7 +13,7 @@ summary_points:
 - WideNet spolupracuje s CommOnline a rozšiřuje WiFi pokrytí na 52 ÖMV pump.
 - WiFi signál WideNetu pokrývá vnitřek i parkoviště čerpacích stanic ÖMV.
 - Boingo roaming je dostupný v síti WideNet, podporuje Skype Zones VoIP.
-title: WideNet nyní také v&nbsp;síti čerpacích stanic OMV a&nbsp;s&nbsp;roamingem
+title: "WideNet nyní také v síti čerpacích stanic OMV a s roamingem"
   Boingo
 ---
 

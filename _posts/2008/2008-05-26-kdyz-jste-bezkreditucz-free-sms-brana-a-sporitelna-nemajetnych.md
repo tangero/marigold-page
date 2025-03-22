@@ -16,7 +16,7 @@ summary_points:
 - O2 web Bezkreditu.cz využívá k propagaci výhod tarifů oproti předplaceným kartám.
 - O2 dříve obtížně komunikovalo výhody mladým, což měly změnit tarify Cool a Neon.
 - Kampaň O2 s Bezkreditu.cz je experiment, jak oslovit mladé internetem.
-title: Když jste Bezkreditu.cz &#8211; free SMS brána a&nbsp;spořitelna nemajetných
+title: "Když jste Bezkreditu.cz – free SMS brána a spořitelna nemajetných"
 ---
 
 Chvilku to vypadalo na takový hezký pirátský projektík, pak zase na reklamní kampaň O2 upozorňující na výhody přechodu od předplacených karet k tarifům. Respektive konkrétně na ten nový O2 Cool tarif, kde je za 250 Kč paušálu esemeskování v síti O2 zdarma. Mluvím o serveru <a href="http://www.bezkreditu.cz/">Bezkreditu.cz</a>. A ani jedna varianta není špatně.  

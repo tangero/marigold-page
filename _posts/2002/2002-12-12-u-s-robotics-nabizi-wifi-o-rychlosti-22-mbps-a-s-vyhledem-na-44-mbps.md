@@ -14,7 +14,7 @@ summary_points:
   roku.
 - USR WiFi podporuje 256 bitové WEP šifrování, dvojnásobek oproti konkurenci.
 - USR WiFi produkty jsou cenově mírně nad průměrem, což odráží jejich značku.
-title: U.S. Robotics nabízí WiFi o&nbsp;rychlosti 22 Mbps a&nbsp;s&nbsp;výhledem na
+title: "U.S. Robotics nabízí WiFi o rychlosti 22 Mbps a s výhledem na"
   44 Mbps
 ---
 

@@ -14,7 +14,7 @@ summary_points:
   J2ME).
 - iPhone ignoruje WAP a sází na XHTML, což uživatelům nechybí.
 - Prodeje iPhone jsou velmi úspěšné, předstihly Palm Treo za pouhé tři dny.
-title: Kudy Apple vnesl s&nbsp;iPhone nervozitu do telekomunikací
+title: "Kudy Apple vnesl s iPhone nervozitu do telekomunikací"
 ---
 
 Ve své <a href="/item/apple-iphone-recenze-muze-byt-delsi-nez-manual-musi-tady-je">recenzi Apple iPhone</a> jsem slíbil zamyslet se trochu nad tím, proč a jak iPhone změní telekomunikační prostředí, pokud vůbec. Argumentace a poznatky k tomu jsou obsáhlé a dlouhé. Zkusil jsem je trochu zestručnit, aby se to ještě dalo přečíst, ale i tak z toho zase vyšel poněkud dlouhý článek. Takže je vhodný pro zájemce o něco trochu méně povrchnějšího, než výkřiky iPhone Sucx/rullleezzz... :)

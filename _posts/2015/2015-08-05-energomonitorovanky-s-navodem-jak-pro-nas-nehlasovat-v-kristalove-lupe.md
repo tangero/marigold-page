@@ -13,7 +13,7 @@ summary_points:
 - Energomonitor má stabilní pozice v evropských trzích a vlastní hardware.
 - Firma čelí výzvám v řízení, produktu a obchodních strategiích.
 - Plánují rozšíření do Evropy a hledají další investice.
-title: Energomonitorovánky s&nbsp;návodem, jak pro nás nehlasovat v&nbsp;Křišťálové
+title: "Energomonitorovánky s návodem, jak pro nás nehlasovat v Křišťálové"
   Lupě
 ---
 

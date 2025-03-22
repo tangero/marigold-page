@@ -13,7 +13,7 @@ summary_points:
 - Roster Teeth simulují scénky ve hře, stříhají, dabují a přidávají hudbu.
 - Dialogy a vtip jsou hlavní, vizuální provedení The Strangerhood je překvapivě dobré.
 - Autoři Strangerhood dříve vytvořili seriál Red vs Blue založený na střílečce.
-title: 'Seriál natáčený pomocí počítačové hry
+title: "'Seriál natáčený pomocí počítačové hry"
 
   '
 ---

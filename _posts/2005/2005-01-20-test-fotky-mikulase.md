@@ -13,7 +13,7 @@ summary_points:
 - Test ověřuje funkčnost posílání MMS zpráv včetně obrázků.
 - Radek Hulan pravděpodobně pomohl s funkčností systému.
 - Obrázek v MMS je uložen jako mms-184602030.jpeg.
-title: Test fotky mikuláše
+title: "Test fotky mikuláše"
 ---
 
 <p>Takovouhle fotku mikuláše či koho přidávám přes MMS. Udělá to náhled???? Test nemá žádný jiný smysl, než vyzkoušet prakticky posílání MMS přímo do redakčního systému včetně fotek. Děkuji <a href="http://hulan.info/blog/item/logitech-je-nejlepsi">Radku</a>, asi to běhá :)

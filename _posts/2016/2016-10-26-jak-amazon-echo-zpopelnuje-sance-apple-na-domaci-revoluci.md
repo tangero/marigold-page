@@ -14,7 +14,7 @@ summary_points:
 - Amazon Echo se stává populárním díky jednoduchému ovládání a integraci s domácí
   automatizací
 - Boj o centrum chytré domácnosti mezi Amazonem a Applen se stává bodem zlomu
-title: 'Jak Amazon Echo zpopelňuje šance Apple na domácí revoluci
+title: "'Jak Amazon Echo zpopelňuje šance Apple na domácí revoluci"
 
   '
 ---

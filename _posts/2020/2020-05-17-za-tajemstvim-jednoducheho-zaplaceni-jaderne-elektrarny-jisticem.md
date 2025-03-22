@@ -19,7 +19,7 @@ summary_points:
 - Decentralizace energetiky bude ekonomicky znevýhodněna, posílí se závislost na centrálních
   zdrojích.
 - Chudší domácnosti ponesou vyšší náklady, bohatší přejdou na obnovitelné zdroje.
-title: Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem
+title: "Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem"
 ---
 
 Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a nepochybně to uteče běžnému laickému čtenáři. A protože útok na výši platby za jističe se pravidelně opakují, rozhodl jsem se oprášit svou čtyři roky starý článek z doby posledního takového ataku, který překvapivě (pro někoho) zprostředkovalo ERU. Už jedna věc by měla zarazit: mluví se o stamiliardách. A zároveň se tato částka má financovat něčím tak nepodstatným, jako je tarif za jistič, o němž si většina lidí nemyslí nic. To není jako vzít si úvěr od Ruska nebo USA nebo „zadlužit naše děti“. Ve skutečnosti je to ještě horší.

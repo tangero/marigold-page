@@ -13,7 +13,7 @@ summary_points:
 - ITU přidělí 455 MHz v 5 GHz pásmu pro bezdrátové sítě.
 - MHz pásmo bude v Evropě pro indoor, v USA i outdoor.
 - MHz pásmo je volné pro vnitřní i venkovní použití.
-title: 'ITU přidá 455 MHz pro 5 GHz pásmo bezdrátových sítí
+title: "'ITU přidá 455 MHz pro 5 GHz pásmo bezdrátových sítí"
 
   '
 ---

@@ -13,7 +13,7 @@ summary_points:
 - Buffalo produkty konkurují Linksys, upgrade řeší nový firmware.
 - Ceník prvních G produktů Buffalo je dostupný na webu AT Computers.
 - Buffalo PCMCIA karta stojí 2994 Kč, 54 Mbps router 7034 Kč bez DPH.
-title: 'AT Computers distributorem Buffalo, 802.11g produkty na trhu!
+title: "'AT Computers distributorem Buffalo, 802.11g produkty na trhu!"
 
   '
 ---

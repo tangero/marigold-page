@@ -15,7 +15,7 @@ summary_points:
 - Telekomunikační trh prošel revolučními změnami s nástupem internetové telefonie.
 - Internet pravděpodobně nečelí zamrzlé evoluci, ale bude se dál dynamicky vyvíjet.
 thumbnail: https://www.marigold.cz/assets/zamrzla-evoluce.png
-title: Zamrzlá evoluce ve světě techniky
+title: "Zamrzlá evoluce ve světě techniky"
 ---
 
 <p>Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okrajově jsem se totiž na přednášce dotkl tématu, které by si zasloužilo samostatný prostor. A proto bych mu jej rád věnoval.</p>

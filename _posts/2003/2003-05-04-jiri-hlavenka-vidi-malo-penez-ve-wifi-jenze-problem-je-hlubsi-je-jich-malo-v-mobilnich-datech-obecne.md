@@ -15,7 +15,7 @@ summary_points:
 - Zákazníci nejsou ochotni platit za vysokorychlostní mobilní data kvůli omezeným
   aplikacím.
 - Bublina není jen ve WiFi, ale v celém segmentu mobilních dat.
-title: Jiří Hlavenka vidí málo peněz ve WiFi. Jenže problém je hlubší &#8211; je jich
+title: "Jiří Hlavenka vidí málo peněz ve WiFi. Jenže problém je hlubší – je jich"
   málo v&nbsp;mobilních datech obecně!
 ---
 

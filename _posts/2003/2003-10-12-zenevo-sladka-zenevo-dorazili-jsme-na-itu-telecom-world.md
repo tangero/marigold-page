@@ -13,7 +13,7 @@ summary_points:
 - Policie ve Švýcarsku kontrolovala auta na dálnici, auto reportérů jen odmávli.
 - Reportéři zapomněli, kde zaparkovali auto v Ženevě, hledali ho hodinu.
 - Ubytování vyřešili v hostelu pro baťůžkáře za třicet franků na osobu.
-title: Ženevo, sladká Ženevo &#8211; dorazili jsme na ITU Telecom World&#8230;
+title: "Ženevo, sladká Ženevo – dorazili jsme na ITU Telecom World…"
 ---
 
 <p>

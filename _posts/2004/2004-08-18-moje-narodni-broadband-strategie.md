@@ -15,7 +15,7 @@ summary_points:
   Lupě.
 - Telecom ocenil Eurotel na stejnou cenu, jako je cena celého Telecomu na burze.
 - Autor se ptá, kde je přidaná hodnota Telecomu, když kilometry kabelů nikoho nezajímají.
-title: Moje Národní Broadband Strategie
+title: "Moje Národní Broadband Strategie"
 ---
 
 <p>

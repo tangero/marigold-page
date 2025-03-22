@@ -13,7 +13,7 @@ summary_points:
 - Zrušení přihlašování do firemní sítě způsobilo nedostupnost vlastního notebooku.
 - Data z notebooku jsou obtížně dostupná kvůli zabezpečení Windows XP.
 - Autor vyrobil velkou polici, která vyžadovala připevnění ke zdi pro stabilitu.
-title: Smutná notebooková smrt&#8230;
+title: "Smutná notebooková smrt…"
 ---
 
 <p>

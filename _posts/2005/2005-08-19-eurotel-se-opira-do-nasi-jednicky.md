@@ -13,7 +13,7 @@ summary_points:
 - Eurotel uvádí rostoucí zájem zákazníků a deset důvodů volby.
 - Titul mobilní jedničky je dle autora spíše PR záležitost.
 - Tržní podíly operátorů se do pěti let pravděpodobně vyrovnají.
-title: Eurotel se opírá do naší jedničky
+title: "Eurotel se opírá do naší jedničky"
 ---
 
 <p>Eurotel zřejmě někde vyhrabal příručku <em>"Nasíráme T-Mobile ve třech snadných krocích"</em> a dneska pouští naší čerstvé mobilní jedničce žilou. V dnešní MF DNES vyšla v sešitě A (=tom prvním =tom nejdražším) hned trojice celostránkových inzerátů, u kterých jen Robinson Crusoe může být na pochybách, k čemu se vztahují. </p>

@@ -13,7 +13,7 @@ summary_points:
 - Výlet na Javorník zkomplikoval nečekaný sníh a chůze v jarních botách.
 - Na Javorníku je rozhledna s BTSkou, ideální pro sledování telekomunikační techniky.
 - Zlatá stezka a hledání zlata nebylo úspěšné, ale alespoň se dalo fotit.
-title: Velikonoce v&nbsp;Kašperkách
+title: "Velikonoce v Kašperkách"
 ---
 
 <p>

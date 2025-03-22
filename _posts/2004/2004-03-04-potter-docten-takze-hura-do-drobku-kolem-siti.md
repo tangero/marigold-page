@@ -15,7 +15,7 @@ summary_points:
 - Zandan měří doručení SMS ve Francii, MobilMania informuje o Eurotel Live.
 - Specifikace UWB by se mohla schválit, Rita Pužmanová píše o spotřebě energie 802.11b/g.
 - Živě publikuje článek o počátcích telekomunikací na Slovensku od Juraje Procházky.
-title: Potter dočten, takže hurá do drobků kolem sítí&#8230;
+title: "Potter dočten, takže hurá do drobků kolem sítí…"
 ---
 
 <p>

@@ -12,7 +12,7 @@ summary_points:
 - Notebook zpřístupněn přeinstalací Windows XP, data zachráněna, programy ztraceny.
 - Data zazálohována ihned po zpřístupnění notebooku, hlavní cíl dosažen.
 - AT&T nově podporuje WiFi, což není překvapivé vzhledem k současnému trendu.
-title: Vítězství nad notebookem
+title: "Vítězství nad notebookem"
 ---
 
 <p>

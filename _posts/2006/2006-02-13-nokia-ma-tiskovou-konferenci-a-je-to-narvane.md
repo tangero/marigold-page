@@ -13,7 +13,7 @@ summary_points:
 - LiveBOX od Nokie umožňuje připojení do mobilní sítě přes wifi a DSL.
 - UMA odřízne nezávislé SIP poskytovatele od wifi propojení s mobily.
 - Operátoři preferují UMA kvůli údajné end-to-end kvalitě služby.
-title: Nokia má tiskovou konferenci a&nbsp;je to narvané
+title: "Nokia má tiskovou konferenci a je to narvané"
 ---
 
 <p>Hlava na hlavě je to doslova na tiskové konferenci Nokia. Na fotce vidíte obsypané dveře, lidí se snaží do sálu nahlédnout alespoň okénkem ve dveřích. A to je konference jen pro novináře. Není se čemu divit. Zatím jsme tu od firmy Nokia nic moc neviděli. Na tiskovce představila nějaké mobily, z nichž nejdůležitější je Nokia 6136 s podporou UMA. Jde o telco překlad wifi, což je tu jinak sprosté slovo. Jenže uma je in.  A Nokia představila nejenom telefon s Uma podporou, ale i LiveBOX, což je zařízení pro připojení do mobilní sítě přes wifi a DSL. Nokia a Orange tuhle službu už ohlásili.

@@ -13,7 +13,7 @@ summary_points:
 - Videokonference jsou hlavní zbraní tohoto 3G telefonu.
 - Dvě videokamery umožňují videohovory a tvorbu MMS.
 - Ericsson potvrdil sériové dodávky 3G telefonů.
-title: 'Sony Ericsson potvrdil první termín dodávek 3G modelu Z1010
+title: "'Sony Ericsson potvrdil první termín dodávek 3G modelu Z1010"
 
   '
 ---

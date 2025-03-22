@@ -12,7 +12,7 @@ summary_points:
 - Atheros čipová sada 802.11a/g zvyšuje dosah WiFi na kilometr a snižuje spotřebu.
 - Intel posunul uvedení dualbandového Centrina 802.11a/b na konec roku 2003.
 - Broadcom uvádí, že notebooky s jejich čipem 802.11g vydrží o 20 minut déle.
-title: 'Čipsetové novinky: Atheros a&nbsp;Broadcom upgradují, Intel Centrino zpožďuje'
+title: "Čipsetové novinky: Atheros a Broadcom upgradují, Intel Centrino zpožďuje"
 ---
 
 Několik novinek v oblasti čipových sad pro WiFi z poslední doby probereme nyní letem světem. 

@@ -14,7 +14,7 @@ summary_points:
   2004.
 - Do vydání licence platí stávající předpisy pro provoz v pásmu 5 GHz.
 - ČTÚ obdrželo pouze nepodstatné připomínky k návrhu generální licence.
-title: ČTÚ k&nbsp;pásmu 5GHz
+title: "ČTÚ k pásmu 5GHz"
 ---
 
 <p>

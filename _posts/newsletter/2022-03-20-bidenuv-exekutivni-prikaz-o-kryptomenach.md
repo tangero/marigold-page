@@ -16,7 +16,7 @@ summary_points:
 - Příkaz se zaměřuje na konkurenceschopnost USA, finanční začlenění a odpovědné inovace.
 - Ransomware poháněný kryptoměnami a ohrožující americký průmysl je důvodem zájmu
   prezidenta.
-title: Bidenův exekutivní příkaz o kryptoměnách
+title: "Bidenův exekutivní příkaz o kryptoměnách"
 ---
 
 Americký prezident Joe Biden vydal exekutivní příkaz o kryptoměnách, který požaduje, aby různé americké regulační agentury vypracovaly řadu zpráv o různých regulačních otázkách, od digitálních měn centrální banky až po ochranu spotřebitele, což je krok k regulaci. Opatření úřadů se mají zaměřit na těchto šest klíčových oblastí:

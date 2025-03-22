@@ -13,7 +13,7 @@ summary_points:
 - Článek se zaměřuje na WideNet a jeho provizní politiku.
 - CzFreeNet je v článku označen jako zájmová síť.
 - Článek obsahuje fotografii Jakuba Ditricha.
-title: PBJ o&nbsp;WideNetu a&nbsp;CzFree
+title: "PBJ o WideNetu a CzFree"
 ---
 
 Prague Business Journal, prima anglicky psané ekonomy noviny, vydaly článek <STRONG>Wi-Fi newcomer offers cheaper, but riskier, fast Internet connection</STRONG> věnovaný WiFi sítím v Praze. Výslovně tu uvádějí WideNet a jeho politiku provizí a CzFreeNet jako zájmovou síť. <A href="http://www.pbj.cz/user/article.asp?ArticleID=186336" target=_blank>Článek najdete zde</A>, Jakub Ditrich tam má moc pěknou fotku :)

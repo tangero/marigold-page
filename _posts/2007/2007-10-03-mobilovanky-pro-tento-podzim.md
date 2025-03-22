@@ -13,7 +13,7 @@ summary_points:
 - Nokia srovnávala N95 s iPhone, inspirovala se rozhraním a útočila na uzavřenost.
 - HTC TouchFLO je rozhraní pro Windows Mobile snažící se konkurovat iPhone.
 - Apple zrušil odblokování iPhone a podporu aplikací třetích stran.
-title: Mobilovánky pro tento podzim
+title: "Mobilovánky pro tento podzim"
 ---
 
 Sbírka střípků z mobilního světa pro letošní podzim je zajímavou směsicí. Když jsem označoval Apple a jeho iPhone za největší událost mobilního světa, zjevně jsem se nemýlil, ať odpůrci iPhone nadávají, jak chtějí. 

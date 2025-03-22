@@ -13,7 +13,7 @@ summary_points:
 - Příručka radí, jak nastavit firewall pro optimální soužití Skype a sítě.
 - Většina zahraničních kontaktů preferuje Skype před emailem a telefonem.
 - Důvodem je úspora nákladů, ale kvalita spojení v ČR je občas problematická.
-title: 'Bojí se váš administrátor Skype? Příručka síťového admina pro Skype je zde
+title: "'Bojí se váš administrátor Skype? Příručka síťového admina pro Skype je zde"
 
   '
 ---

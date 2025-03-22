@@ -14,7 +14,7 @@ summary_points:
 - Content Guardian filtruje porno, oplzlé texty, spam a viry v mobilních datech.
 - Produkt Content Guardian se instaluje přímo do mobilní sítě, ne do mobilu.
 - Podrobnosti o Content Guardianu jsou dostupné na webu Telcotecu.
-title: 'Blokovač porna na mobily, to musíte mít!
+title: "'Blokovač porna na mobily, to musíte mít!"
 
   '
 ---

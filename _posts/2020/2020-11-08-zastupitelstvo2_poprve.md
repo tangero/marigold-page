@@ -13,7 +13,7 @@ summary_points:
   může ovlivnit transparentnost.
 - Frekvence zasedání zastupitelstva odráží efektivitu řízení města, přičemž měsíční
   rytmus je vhodný pro větší obce.
-title: Vaše první zastupitelstvo - jak probíhá
+title: "Vaše první zastupitelstvo - jak probíhá"
 ---
 
 Jaké by měly být první vaše kroky na zastupitelstvu? Především si musíte zjistit, kdy se zastupitelstvo sejde a posléze se pořádně seznámit s programem schůze zastupitelstva a ten si pořádně analyzovat. O tom bude dnešní článek.

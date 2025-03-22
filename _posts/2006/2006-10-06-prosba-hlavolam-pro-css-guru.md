@@ -13,7 +13,7 @@ summary_points:
 - Internet Explorer 7 skrývá přihlašovací pole, IE 6 web zobrazuje chybně.
 - Problém se týká zobrazení webu v Internet Exploreru, Opera a Firefox fungují správně.
 - Autor hledá validní řešení bez hacků pro problémy s CSS v IE.
-title: Prosba &#8211; hlavolam pro CSS guru
+title: "Prosba – hlavolam pro CSS guru"
 ---
 
 <p><strong>Noname píše:</strong> omlouvám se, že takhle zas po dlouhé době zneužiji Marigolda, snad mi odpustíte. Má prosba se týká problému s CSS a IE, jistě tu je nějaký guru, kdo na rozdíl ode mě v posledních 48 hodinách spal a tak mu to ještě myslí. Předem díky, dotaz následuje.</p>

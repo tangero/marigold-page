@@ -15,7 +15,7 @@ summary_points:
 - Média šetří kvůli krizi, což vede k povrchnosti a bulvarizaci obsahu.
 - Seriózní žurnalistika je drahá a chybí jí finanční podpora i tradice.
 - Změna začíná u každého jednotlivce, poctivou prací bez "ochcávek".
-title: O chcípáctví novinařiny, proč jsou noviny hnůj a&nbsp;co s&nbsp;tím konkrétně
+title: "O chcípáctví novinařiny, proč jsou noviny hnůj a co s tím konkrétně"
   vy můžete udělat?
 ---
 

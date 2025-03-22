@@ -13,7 +13,7 @@ summary_points:
 - Casio představilo PDA DT-X10 a IT-500 s WiFi a Windows CE.
 - DT-X10 má OCR, IT-500 VoIP, oba čtečky čárových kódů.
 - WiFi nachází uplatnění v průmyslových aplikacích, například ve skladech.
-title: Okurková sezóna ve WiFi, Casio má PDA s&nbsp;WiFi.
+title: "Okurková sezóna ve WiFi, Casio má PDA s WiFi."
 ---
 
 <p>

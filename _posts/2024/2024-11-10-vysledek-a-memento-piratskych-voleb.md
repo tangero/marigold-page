@@ -13,7 +13,7 @@ summary_points:
 - Reformy mají snížit byrokracii a umožnit efektivnější fungování strany.
 - Piráti se chtějí zaměřit na centristické voliče s důrazem na sociální témata.
 thumbnail: https://www.marigold.cz/assets/rp-2024.jpg
-title: Výsledek a memento pirátských voleb
+title: "Výsledek a memento pirátských voleb"
 ---
 
 O víkendu proběhl pirátské celostátní fórum, v němž se strana rozhodovala o novém předsedovi. Už v minulém článku jsem se snažil vysvětlit pár nuancí, především pak skutečnost, že tyto volby jsou důležité pro rekonstrukci strany, ne pro její veřejně realizovanou politiku. 

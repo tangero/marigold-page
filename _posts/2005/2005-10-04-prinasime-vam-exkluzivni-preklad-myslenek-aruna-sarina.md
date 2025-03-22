@@ -16,7 +16,7 @@ summary_points:
 - Bezdrátový broadband nahradí ADSL a kabelové technologie, podobně jako mobily nahradily
   pevné linky.
 - Mobilní data budou dražší a méně kvalitní než pevné, ale s nálepkou "on the move".
-title: 'Přinášíme vám exkluzivní překlad myšlenek Aruna Sarina
+title: "'Přinášíme vám exkluzivní překlad myšlenek Aruna Sarina"
 
   '
 ---

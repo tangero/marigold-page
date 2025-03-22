@@ -13,7 +13,7 @@ summary_points:
 - Veřejnost je žádána o testování MMS publikování na pokus.bloguje.cz.
 - Testovací MMS zpráva má obsahovat text, typ mobilu a operátora.
 - Autor testoval MMS zprávu z Nokie 6800 s externím fotoaparátem.
-title: MMS weblog na Bloguje.cz &#8211; pomožte testovat
+title: "MMS weblog na Bloguje.cz – pomožte testovat"
 ---
 
 <p>

@@ -15,7 +15,7 @@ summary_points:
 - Proxim prohrál spor o zrušení patentů Symbolu a platí poplatky za jejich užívání.
 - Cisco/Linksys, velký výrobce WiFi, je dalším potenciálním cílem vymáhání patentových
   poplatků.
-title: 'WiFi ohrožují patentové spory se Symbol Technologies
+title: "'WiFi ohrožují patentové spory se Symbol Technologies"
 
   '
 ---

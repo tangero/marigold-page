@@ -13,7 +13,7 @@ summary_points:
 - Zákazník je vulgárně napaden za přehlédnutí seniora při nákupu.
 - Zákazník reaguje s úsměvem a ironií na seniorovy nadávky.
 - 'Závěr: Morální ponaučení o respektu v době voleb a konfliktech mezi zákazníky.'
-title: 'Hypermarket je místo předvolebních příběhů
+title: "'Hypermarket je místo předvolebních příběhů"
 
   '
 ---
