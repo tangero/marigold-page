@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Teoretické základy standardu IEEE802.11 pro vaši orientaci | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Teoretické základy standardu IEEE802.11 pro vaši orientaci" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="cs" />
+<meta name="description" content="Začínáte s bezdrátovými sítěmi? V tom případě by se hodilo načerpat trochu teorie o tom, co to vlastně WiFi a IEEE802.11 je, co znamenají jednotlivá písmenka za tímto číslem a vůbec dozvědět se pár detailů o standardu.&lt;p&gt; Většina z vás si asi již odpověděla na otázku, proč se o bezdrátové sítě zajímat. Instalace bezdrátových sítí je na jednu stranu jednodušší na výstavbu a technickou realizaci, protože není třeba pokládat žádnou kabeláž, na stranu druhou nabízejí bezdrátové sítě podstatně nižší rychlosti, než nejmodernější ethernetové kabelové sítě. Jenže pokud nezamýšlíte přenášet ve vaší síti obrovská kvanta dat najednou, mohou výhody bezdrátové sítě převážit. &lt;/p&gt;" />
+<meta property="og:description" content="Začínáte s bezdrátovými sítěmi? V tom případě by se hodilo načerpat trochu teorie o tom, co to vlastně WiFi a IEEE802.11 je, co znamenají jednotlivá písmenka za tímto číslem a vůbec dozvědět se pár detailů o standardu.&lt;p&gt; Většina z vás si asi již odpověděla na otázku, proč se o bezdrátové sítě zajímat. Instalace bezdrátových sítí je na jednu stranu jednodušší na výstavbu a technickou realizaci, protože není třeba pokládat žádnou kabeláž, na stranu druhou nabízejí bezdrátové sítě podstatně nižší rychlosti, než nejmodernější ethernetové kabelové sítě. Jenže pokud nezamýšlíte přenášet ve vaší síti obrovská kvanta dat najednou, mohou výhody bezdrátové sítě převážit. &lt;/p&gt;" />
+<link rel="canonical" href="https://www.marigold.cz/item/teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci/" />
+<meta property="og:url" content="https://www.marigold.cz/item/teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2002-12-07T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Teoretické základy standardu IEEE802.11 pro vaši orientaci" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2002-12-07T00:00:00+00:00","datePublished":"2002-12-07T00:00:00+00:00","description":"Začínáte s bezdrátovými sítěmi? V tom případě by se hodilo načerpat trochu teorie o tom, co to vlastně WiFi a IEEE802.11 je, co znamenají jednotlivá písmenka za tímto číslem a vůbec dozvědět se pár detailů o standardu.&lt;p&gt; Většina z vás si asi již odpověděla na otázku, proč se o bezdrátové sítě zajímat. Instalace bezdrátových sítí je na jednu stranu jednodušší na výstavbu a technickou realizaci, protože není třeba pokládat žádnou kabeláž, na stranu druhou nabízejí bezdrátové sítě podstatně nižší rychlosti, než nejmodernější ethernetové kabelové sítě. Jenže pokud nezamýšlíte přenášet ve vaší síti obrovská kvanta dat najednou, mohou výhody bezdrátové sítě převážit. &lt;/p&gt;","headline":"Teoretické základy standardu IEEE802.11 pro vaši orientaci","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/item/teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci/"},"url":"https://www.marigold.cz/item/teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Začínáte s bezdrátovými sítěmi? V tom případě by se hodilo načerpat trochu teorie o tom, co to vlastně WiFi a IEEE802.11 je, co znamenají jednotlivá písmenka za tímto číslem a vůbec dozvědět se pár detailů o standardu.&lt;p&gt;
+Většina z vás si asi již odpověděla na otázku, proč se o bezdrátové sítě zajímat. Instalace bezdrátových sítí je na jednu stranu jednodušší na výstavbu a technickou realizaci, protože není třeba pokládat žádnou kabeláž, na stranu druhou nabízejí bezdrátové sítě podstatně nižší rychlosti, než nejmodernější ethernetové kabelové sítě. Jenže pokud nezamýšlíte přenášet ve vaší síti obrovská kvanta dat najednou, mohou výhody bezdrátové sítě převážit. &lt;/p&gt;
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Teoretické základy standardu IEEE802.11 pro vaši orientaci" />
+    <meta property="twitter:title" content="Teoretické základy standardu IEEE802.11 pro vaši orientaci" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-mensi.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/item/teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Teoretické základy standardu IEEE802.11 pro vaši orientaci</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+7.
+prosinec
+
+2002 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+  <div class="quick-summary">
+    <div class="quick-summary-header">
+      <svg class="summary-icon" viewBox="0 0 24 24" width="24" height="24">
+        <path fill="currentColor" d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" />
+      </svg>
+      <span>Rychlé shrnutí článku</span>
+    </div>
+    <ul class="summary-points">
+      
+        <li>WiFi standard IEEE802.11 definuje bezdrátové sítě v nelicencovaném pásmu 2,4 GHz.</li>
+      
+        <li>WLAN (Wireless Local Area Network) je obecné označení pro jakoukoliv bezdrátovou síť.</li>
+      
+        <li>WiFi značka zaručuje propojitelnost zařízení pracujících podle standardu 802.11b.</li>
+      
+        <li>Standard 802.11 má různé revize označené písmeny (a, b, g) s různými vlastnostmi.</li>
+      
+    </ul>
+  </div>
+
+  
+
+<style>
+.quick-summary {
+    background: linear-gradient(145deg, #ffffff, #f5f5f5);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+                0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.quick-summary-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    color: #2d3748;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.summary-icon {
+    margin-right: 0.5rem;
+    color: #4a5568;
+}
+
+.summary-points {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.summary-points li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #4a5568;
+    line-height: 1.5;
+}
+
+.summary-points li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #667eea;
+    font-weight: bold;
+}
+
+@media (prefers-color-scheme: dark) {
+    .quick-summary {
+        background: linear-gradient(145deg, #2d3748, #1a202c);
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+    }
+    
+    .quick-summary-header {
+        color: #e2e8f0;
+    }
+    
+    .summary-icon,
+    .summary-points li {
+        color: #cbd5e0;
+    }
+    
+    .summary-points li::before {
+        color: #7f9cf5;
+    }
+}
+</style>
+
+
+
+
+  <div class="entry">
+    <p>Začínáte s bezdrátovými sítěmi? V tom případě by se hodilo načerpat trochu teorie o tom, co to vlastně WiFi a IEEE802.11 je, co znamenají jednotlivá písmenka za tímto číslem a vůbec dozvědět se pár detailů o standardu.<!--more-->&lt;p&gt;
+Většina z vás si asi již odpověděla na otázku, proč se o bezdrátové sítě zajímat. Instalace bezdrátových sítí je na jednu stranu jednodušší na výstavbu a technickou realizaci, protože není třeba pokládat žádnou kabeláž, na stranu druhou nabízejí bezdrátové sítě podstatně nižší rychlosti, než nejmodernější ethernetové kabelové sítě. Jenže pokud nezamýšlíte přenášet ve vaší síti obrovská kvanta dat najednou, mohou výhody bezdrátové sítě převážit. &lt;/p&gt;</p>
+
+<p>
+Smyslem tohoto článku je dát vám kompendium základních znalostí o bezdrátových sítích. Konkrétněji se budeme bezdrátovými sítěmi zabývat v následujících článcích, tento článek je spíše takovým průřezem toho, co byste měli vědět. </p>
+
+<p>
+Bezdrátové sítě (<strong>WLAN - wireless local area network</strong>) nabízejí v principu podobné služby a flexibilitu, jako sítě drátové. Je možné zapojovat do nich servery a jejich klienty, ale také je možné v nich vytvářet spojení peer-to-peer. Z hlediska funkčnosti a výsledku jsou, odhlédneme-li od dosahovaných přenosových rychlostí, ekvivalentní k sítím drátovým, kupříkladu ethernetu. Zásadně se samozřejmě liší ve své skutečné podstatě, v tom, jak fungují. </p>
+
+<p>
+Bezdrátové sítě existují od roku 1992, tehdejší zařízená ale pracovala na provozních rychlostech hluboko pod 1 Mbps. V té době také chyběl jakýkoliv standard, takže jste museli používat síťové prvky stejného výrobce. Tato situace se významně zlepšila po přijetí standardu IEEE 802.11, jímž jsou moderní WLAN sítě také definovány a standardizovány. </p>
+
+<h4>Standard IEEE802.11b a WiFi</h4>
+<p>
+Když se dnes hovoří o bezdrátových sítích, s oblibou se míchá několik zkratek dohromady. Zkusme si ten zmatek trochu ujasnit. </p>
+
+<p>
+Prvním důležitým pojmem je zkratka <strong>WLAN</strong>. Tato zkratka Wireless Local Area Network označuje obecně jakoukoliv bezdrátovou síť a je vlastně ekvivalentní zkratce LAN. Jakákoliv bezdrátová síť kde figurují počítače se tedy odborně řekne WLAN.</p>
+
+<p>
+Dalším termínem je <strong>IEEE802.11b</strong>. Tento pojem představuje označení standardu standardizačního institutu <a href="http://www.ieee.org/" target="_blank">IEEE</a> - jde o standard definující bezdrátové sítě v nelicencovaném pásmu 2,4 GHz. Dlužno podotknout, že místo písmenka B na konci můžete najít i další písmenka - tím je zpravidla odlišena jiná verze standardu a zpravidla také i skutečnost, že tento derivát standardu IEEE802.11 pracuje na jiné frekvenci. Přehled těchto derivátů a písmenek si za chvíli představíme v tabulce. </p>
+
+<p>
+Poslední nyní důležitý pojem je zkratka <strong>WiFi - Wireless Fidelity</strong>. Tato zkratka se často zaměňuje s výrazem IEEE802.11b. Jde totiž o označení a logo udělované výrobkům pracujícím podle standardu 802.11b, které jsou mezi sebou vzájemně propojitelné. Výrobky označené WiFi tedy můžete vcelku bez obav propojovat s jinými výrobky označenými logem WiFi od jiných výrobců. Ovšem není to výlučné označení - o toto označení si musí výrobce požádat a ačkoliv jej dnes již většina výrobků nese, při dodržení standardu byste neměli mít problémy i s neoznačenými výrobky. Pravdou ale je, že právě WiFi označení dává značnou záruku propojitelnosti. Výrobci tak reagovali na problémy s prvními sériemi výrobků pracujícími dle standardu 802.11b, kdy mezi sebou často nebylo možné jednotlivé výrobce a výrobky kombinovat. To samozřejmě vedlo k nedůvěře uživatelů a k jejich nezájmu o bezdrátové sítě. Pokud budeme tedy napříště hovořit o IEEE802.11b, budeme označení WiFi používat jako ekvivalent tomuto standardu, protože jde přeci jen o zapamatovatelnější a lidštější název a výše uvedená výhrada interoperability již dnes ztratila právě rozšířením a akceptací interoperability mezi zařízeními výrobců na důležitosti. Zpravidla se tedy označení IEEE802.11b používá tam, kde se mluví o standardu, zatímco pojem WiFi se používá v případě, když se mluví o zařízení pracujících podle standardu. Toho se také budeme držet. </p>
+
+<h4>Frekvenční rozsahy IEEE802.11b</h4>
+<p>
+Bezdrátové sítě standardu IEEE802.11b pracují ve frekvenčním pásmu 2,4 - 2,4835 GHz, tedy zjednodušeně řečeno v pásmu 2,4 GHz. Toto pásmo se také často označuje jako ISM, tedy Industrial, Scientific, Medical. V tomto nelicencovaném pásmu pracuje mnoho různých bezdrátových zařízení, například bluetooth produkty, ale i mikrovlnné trouby a v zahraničí i bezdrátové telefony (u nás jejich provoz není povolen). Hodně se spekuluje o tom, jak provoz mikrovlnek ovlivňuje WiFi zařízení - budeme se tomu věnovat někdy speciálně, protože je to docela zajímavé, kolik nesmyslných mýtů o tom existuje. 
+<p>
+
+<p>
+Frekvenční rozsah se ovšem liší země od země - v některých státech není povolené plné frekvenční spektrum, protože již jsou jeho části využívány pro jiné účely. Pro nás je příjemné, že ČTÚ povoluje plné frekvenční spektrum, jako je tomu v USA nebo ve většině Evropy, takže výrobky koupené v USA můžete vcelku s klidným svědomím v ČR používat. </p>
+
+<p>
+Povolené radiové frekvence</p>
+
+<table width="450" border="1">
+<tbody>
+<tr>
+<td><strong>Region</strong></td>
+<td><strong>Frekvenční rozsah v GHz</strong></td>
+<td><strong>Počet kanálů</strong></td></tr>
+<tr>
+<td>USA</td>
+<td>2,4000 - 2,4835</td>
+<td>79</td></tr>
+<tr>
+<td>Evropa</td>
+<td>2,4000 - 2,4835</td>
+<td>79</td></tr>
+<tr>
+<td>Francie</td>
+<td>2,4465 - 2,4835</td>
+<td>27</td></tr>
+<tr>
+<td>Španělsko</td>
+<td>2,445 - 2,475</td>
+<td>35</td></tr>
+<tr>
+<td>Japonsko</td>
+<td>2,471 - 2,497</td>
+<td>23</td></tr></tbody></table>
+<p>
+Zároveň s boomem WiFi zařízení se na trh pomalu dostávají zařízení postavená na standardu IEEE 802.11a a pracující v pásmu 5GHz. Pro ně se prosazuje označení WiFi5. Jejich hlavní výhodou je vyšší rychlost, kterou jsou schopná přenášet data - až 54 Mbps. Na druhou stranu mají ale nižší dosah a větší náchylnost na rušení. Navíc v ČR není možné je používat mimo budovy.</p>
+
+<h4>Standard 802.11 - a co ty písmenka za číslem?</h4>
+<p>
+Standard 802.11 vznikl v roce 1997 a definoval bezdrátovou síť v pásmu 2,4 GHz a o rychlostech 1 nebo 2 MHz. Protože však postupem doby vznikaly další a další nároky na posun tohoto standardu, vznikaly v rámci této pracovní skupiny další pracovní podskupiny věnované rozšířením a změnám v tomto standardu. Tyto skupiny jsou označované písmeny, které se přidávají za číslo standardu 802.11. Poslední standard IEEE 802.11 byl publikován v roce 1999 a je zdarma dostupný na stránkách <a href="http://www.ieee.org/">www.ieee.org</a>. Novější revize standardu zatím nebyla vydána a jsou pouze ve fázi rozpracování, diskuse nebo schvalování. </p>
+
+<p>
+Tak a nyní si můžeme nyní rekapitulovat všechna ta písmenka za jedenáctkou:</p>
+
+<ul>
+<li><strong>802.11a</strong> - WLAN v pásmu 5 GHz a s rychlostí až 54 Mbps. 
+<li><strong>802.11b</strong> - WLAN v pásmu 2,4 GHz a s rychlostí až 11 Mbps. 
+<li><strong>802.11b-cor</strong> - úpravy MIB v 802.11b (MIB= Management information base), v diskusi 
+<li><strong>802.11c</strong> - definice procedur pro síťové mosty, bridge. Ve skutečnosti s to WLAN má jen málo společného, jde ale o užitečný standard pro Access Pointy. 
+<li><strong>802.11d</strong> - Mezinárodní harmonizace. Se vznikem standardu 802.11 se ukázalo, že je potřeba mezinárodní kooperace a harmonizace. Zejména pásmo 5 GHz se používá v mnoha státech různě a bylo třeba tomu standardizaci přizpůsobit tak, aby nevycházela vstříc pouze potřebám USA a Japonska. To měla za úkol tato pracovní skupina. 
+<li><strong>802.11e </strong>- rozšíření MAC pro QoS - Zkratka QoS označuje službu Quality of Service zajišťující vyrovnanou kvalitu služby důležitou například pro multimédia. Zjednodušeně řečeno je potřeba, aby když někdo v bezdrátové síti telefonuje nebo pořádá videokonferenci, aby trvalý tok jeho dat měl přednost před lidmi, kteří například jen stahují poštu a chvilkový výpadek naprosto nepoznají, zatímco v hlasu nebo videu by byl hodně poznat. Toto upřednostnění určitých dat v bezdrátové síti má přinést MAC, Medium Access Layer. To upřednostní hlasové a videopřenosy. Finalizace tohoto standardu má být do konce roku 2002 a v polovině roku 2003 by mohly být dostupné produkty podporující MAC (rozhodně neplést s MAC adresami!). Mělo by být možné všechny Access Pointy upravit updatem firmware tak, aby splňovaly tento standard. 
+<li><strong>802.11f</strong> - Inter Access Point Protocol (IAPP) - Stávající specifikace 802.11 nezahrnují standardizaci komunikace mezi jednotlivými access pointy pro zajištění bezproblémového roamingu, tedy přechodu uživatele od jednoho access pointu k druhému. V současné době tak produkty různých výrobců nejsou schopny spolu o roamingu bezproblémově komunikovat a při výstavbě větších sítí, kde se roaming předpokládá, je nutno používat access pointy jednoho výrobce s jejich proprietárním řešením, nebo celou záležitost řešit úplně mimo access pointy. Tohoto problému by nás měl zbavit tento doplněk standardu, jenž by měl být hotový do konce roku 2002 a výrobky by měly být dostupné v roce 2003. 
+<li><strong>802.11g</strong> - zvýšení rychlosti v pásmu 2,4 GHz na 20 Mbps se zpětnou kompatibilitou s 802.11b. Také snad bude standardizován ještě letos. 
+<li><strong>802.11h</strong> - změny v řízení přístupu k spektru 5GHz, které by měly relektovat připomínky regulátorů evropských zemí tak, aby bylo možno sítě v pásmu 5 GHz využívat i mimo budovy. Schváleno 
+<li><strong>802.11i</strong> - zlepšení bezpečnosti v 802.11 bezdrátových sítích vylepšením autentifikačního a šifrovacího algoritmu. Velmi důležité a snad bude schváleno krajem roku 2003. 
+<li><strong>802.11j</strong> - práce na alokaci nových frekvenčních rozsahů pro multimediální služby bezdrátových sítí. Jde o vysoké frekvence a ještě chvíli potrvá, než uvidíme první výrobky, takže se zase tak nerajcujte&#8230; 
+<li><strong>802.11k</strong> - tento projekt má definovat měření a správu radiových zdrojů tak, aby vyhovovaly novým vysokofrekvenčním radiovým sítím. Vlastně pokračování práce 802.11j. </li>&lt;/UL&gt;
+<p>
+Zde můj přehled o písmenkách končí a ostatně jak vidíte, v praxi si vystačíme s písmenky B pro WiFi, s písmenkem A pro WiFi5 a s písmenkem G pro zvýšení rychlosti WiFi. Na druhou stranu bych se rád pochlubil, že je to nejúplnější přehled písmenek, který jsem našel - musel jsem ho vytahat přímo z webu IEEE, protože všude jinde vždy nějaké písmenko chybělo a já byl zvědavý, copak je zač.</p>
+
+<p>
+Pokud by vás zajímalo, proč se novější standard označuje jako 802.11a zatímco starší je označen jako b, pak vysvětlení je prosté - standard 802.11a je ve skutečnosti starší, ale technicky byl náročnější na implementaci do výrobků, takže výrobky s WiFi5 přicházejí na trh později, než jejich WiFi bratříčkové. </p>
+
+<p>
+Příště bychom se podívali už na teorii síťování - tedy na to, jak si velmi jednoduchou bezdrátovou síť postavit, řekli bychom si něco o jejích prvcích, infrastruktuře atd. Nebojte, ani příště se nestanete profíky WiFi, ale aspoň budete pokračovat v základech :)</p>
+</li></li></li></li></li></li></li></li></li></li></li></ul></p></p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
+                <p class="excerpt">
+                  
+                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
+                <p class="excerpt">
+                  
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Teoretické základy standardu IEEE802.11 pro vaši orientaci&url=https://www.marigold.cz/item/teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/item/teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_posts/2002/2002-12-07-teoreticke-zaklady-standardu-ieee802-11-pro-vasi-orientaci.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/item/d-link-di-614-ma-problemy-s-upc-internetem/">&laquo; D-Link DI-614+ má problémy s UPC internetem</a> |
+      
+      
+      
+        <a class="next" href="/item/rozhovor-s-otcem-wifi-download-pocketpc-spiona/">Rozhovor s otcem WiFi, download PocketPC špiona &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+ 
+  </body>
+</html>
