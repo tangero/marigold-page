@@ -117,3 +117,5 @@ npm install -g @anthropic-ai/claude-code
 ```
 
 Claude Code se stále vyvíjí a tým za ním slibuje v nadcházejících týdnech další nové funkce. S těmito vylepšeními se Claude Code stává ještě silnějším nástrojem pro vývojáře, kteří chtějí využít sílu AI při svém každodenním vývoji.
+
+> 💡 Co je Claude Code a jak vám pomůže při vývoji software? Detailnější popis [jsme si přinesli zde](/ai/claude-code/). 
