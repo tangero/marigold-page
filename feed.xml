@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-26T20:57:06+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">🧠 AI nástroje pro programování - přehled</title><link href="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/" rel="alternate" type="text/html" title="🧠 AI nástroje pro programování - přehled" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-nastroje-programovani-prehled</id><content type="html" xml:base="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/"><![CDATA[<p>Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-26T21:08:10+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">🧠 AI nástroje pro programování - přehled</title><link href="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/" rel="alternate" type="text/html" title="🧠 AI nástroje pro programování - přehled" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-nastroje-programovani-prehled</id><content type="html" xml:base="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/"><![CDATA[<p>Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.</p>
 
 <p>Tady se pokouším udělat větší seznam všech nástrojů. Musím říct, že použitelné AI nástroje se objevují teprve posledních několik měsíců, takže startovací pole je dost široké a každý den se vynořují nové a nové nástroje. Tento seznam pořizuju ne proto, abyste všechny nástroje prošli, ale abych si i sám udržel přehled.</p>
 
@@ -233,9 +233,9 @@
 <ul>
   <li><strong>Funkce</strong>:
     <ul>
-      <li>Cloudové IDE s AI asistencí pro full-stack a multiplatformní vývoj <a href="https://idx.dev/?utm_source=chatgpt.com">oai_citation_attribution:0‡Project IDX</a></li>
-      <li>Podpora široké škály frameworků, jazyků a služeb <a href="https://idx.dev/?utm_source=chatgpt.com">oai_citation_attribution:1‡Project IDX</a></li>
-      <li>Integrace s oblíbenými produkty Google <a href="https://idx.dev/?utm_source=chatgpt.com">oai_citation_attribution:2‡Project IDX</a></li>
+      <li>Cloudové IDE s AI asistencí pro full-stack a multiplatformní vývoj</li>
+      <li>Podpora široké škály frameworků, jazyků a služeb</li>
+      <li>Integrace s oblíbenými produkty Google</li>
     </ul>
   </li>
   <li><strong>Vhodné pro</strong>: Vývoj webových a mobilních aplikací</li>
@@ -254,7 +254,7 @@
           <tbody>
             <tr>
               <td>Převádí skici a popisy do kódu (HTML/CSS) [oai_citation_attribution:3‡Introduction</td>
-              <td>Continue](https://docs.continue.dev/getting-started/overview?utm_source=chatgpt.com)</td>
+              <td>Continue](https://docs.continue.dev/getting-started/overview?utm_source=marigold)</td>
             </tr>
           </tbody>
         </table>
@@ -302,18 +302,9 @@
 <ul>
   <li><strong>Funkce</strong>:
     <ul>
-      <li>Open-source plugin pro VS Code a JetBrains <a href="https://github.com/continuedev/continue?utm_source=chatgpt.com">oai_citation_attribution:4‡GitHub</a></li>
+      <li>Open-source plugin pro VS Code a JetBrains <a href="https://github.com/continuedev/continue?utm_source=marigold">oai_citation_attribution:4‡GitHub</a></li>
       <li>Umožňuje vytvářet, sdílet a používat vlastní AI asistenty pro kódování</li>
-      <li>
-        <table>
-          <tbody>
-            <tr>
-              <td>Poskytuje chat, automatické doplňování a editaci kódu [oai_citation_attribution:5‡Introduction</td>
-              <td>Continue](https://docs.continue.dev/getting-started/overview?utm_source=chatgpt.com)</td>
-            </tr>
-          </tbody>
-        </table>
-      </li>
+      <li>Poskytuje chat, automatické doplňování a editaci kódu <a href="https://docs.continue.dev/getting-started/overview?utm_source=marigold">Continue</a></li>
     </ul>
   </li>
   <li><strong>Vhodné pro</strong>: Vývojáře hledající přizpůsobitelné AI asistenty</li>
@@ -331,7 +322,7 @@
       <li>Poskytuje dlouhodobou paměť o aplikaci a rozhodnutích</li>
     </ul>
   </li>
-  <li><strong>Vhodné pro</strong>: Analytiky a projekty v oblasti datové vědy <a href="https://www.welt.de/253651030?utm_source=chatgpt.com">oai_citation_attribution:6‡welt.de</a></li>
+  <li><strong>Vhodné pro</strong>: Vývoj i pokročilých webových aplikací, doporučuji vyzkoušet!</li>
   <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
 </ul>
 
@@ -341,9 +332,9 @@
 <ul>
   <li><strong>Funkce</strong>:
     <ul>
-      <li>AI agent pro budování interních nástrojů <a href="https://webdraw.com/?utm_source=chatgpt.com">oai_citation_attribution:7‡Webdraw - Free AI App Generator</a></li>
+      <li>AI agent pro budování interních nástrojů <a href="https://webdraw.com/?utm_source=marigold">Free AI App Generator</a></li>
       <li>Umožňuje vytvářet vlastní software bez kódování</li>
-      <li>Poskytuje nástroje pro monitorování interakcí a konfiguraci nastavení <a href="https://base44.com/apps/ai-agent-framework-60fda1db?utm_source=chatgpt.com">oai_citation_attribution:8‡BASE44 - AI-Powered Software Development</a></li>
+      <li>Poskytuje nástroje pro monitorování interakcí a konfiguraci nastavení <a href="https://base44.com/apps/ai-agent-framework-60fda1db?utm_source=marigold">BASE44 - AI-Powered Software Development</a></li>
     </ul>
   </li>
   <li><strong>Vhodné pro</strong>: Firmy hledající rychlé řešení pro interní aplikace</li>
@@ -358,7 +349,7 @@
     <ul>
       <li>Generativní AI platforma zaměřená na kvalitu kódu</li>
       <li>Pomáhá psát, testovat a revidovat kód</li>
-      <li>Nabízí automatizované code reviews a kontextové návrhy <a href="https://www.qodo.ai/?utm_source=chatgpt.com">oai_citation_attribution:9‡Qodo</a></li>
+      <li>Nabízí automatizované code reviews a kontextové návrhy <a href="https://www.qodo.ai/?utm_source=marigold">Qodo</a></li>
     </ul>
   </li>
   <li><strong>Vhodné pro</strong>: Vývojáře usilující o vysokou kvalitu kódu</li>
@@ -375,7 +366,7 @@
       <li>Umožňuje spolupráci s velkými jazykovými modely (LLM) na úpravách kódu ve vašem lokálním git repozitáři</li>
       <li>Podporuje práci s existujícími projekty i vytváření nových</li>
       <li>Automaticky provádí commity s rozumnými zprávami</li>
-      <li>Kompatibilní s modely jako GPT-4 a Claude 3.5 Sonnet <a href="https://www.reddit.com/r/emacs/comments/1fwwjgw/introduce_aider_ai_programming_in_terminal_and/?utm_source=chatgpt.com">oai_citation_attribution:0‡Reddit</a></li>
+      <li>Kompatibilní s modely jako GPT-4 a Claude 3.5 Sonnet <a href="https://www.reddit.com/r/emacs/comments/1fwwjgw/introduce_aider_ai_programming_in_terminal_and/?utm_source=marigold">oai_citation_attribution:0‡Reddit</a></li>
     </ul>
   </li>
   <li><strong>Vhodné pro</strong>: Vývojáře hledající AI asistenci přímo v terminálu</li>
