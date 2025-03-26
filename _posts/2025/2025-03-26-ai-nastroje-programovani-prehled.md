@@ -1,13 +1,16 @@
 ---
-title: 🧠 AI nástroje pro programování - přehled
+audio_url: http://www.marigold.cz/audio/2025-03-26-ai-nastroje-programovani-prehled.mp3
+audiooff: false
 author: Patrick Zandl
 categories:
 - AI
-- programování
+- "programov\xE1n\xED"
 - vibe coding
 layout: post
-post_excerpt: Přehled AI nástrojů pro programování a vibe coding podle jejich použití, zaměření a výhod.
+post_excerpt: "P\u0159ehled AI n\xE1stroj\u016F pro programov\xE1n\xED a vibe coding\
+  \ podle jejich pou\u017Eit\xED, zam\u011B\u0159en\xED a v\xFDhod."
 thumbnail: https://www.marigold.cz/assets/ai-development.png
+title: "\U0001F9E0 AI n\xE1stroje pro programov\xE1n\xED - p\u0159ehled"
 ---
 
 Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.
