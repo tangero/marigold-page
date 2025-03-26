@@ -7,7 +7,7 @@ categories:
 - vibe coding
 layout: post
 post_excerpt: Přehled AI nástrojů pro programování a vibe coding podle jejich použití, zaměření a výhod.
-thumbnail: https://www.marigold.cz/asset/ai-development.png
+thumbnail: https://www.marigold.cz/assets/ai-development.png
 ---
 
 Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.
