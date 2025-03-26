@@ -169,9 +169,9 @@ A teď už pojďme na přehled, pořadí je náhodné!
 
 ### 16. [Google Project IDX](https://idx.dev/)
 - **Funkce**:
-  - Cloudové IDE s AI asistencí pro full-stack a multiplatformní vývoj [oai_citation_attribution:0‡Project IDX](https://idx.dev/?utm_source=chatgpt.com)
-  - Podpora široké škály frameworků, jazyků a služeb [oai_citation_attribution:1‡Project IDX](https://idx.dev/?utm_source=chatgpt.com)
-  - Integrace s oblíbenými produkty Google [oai_citation_attribution:2‡Project IDX](https://idx.dev/?utm_source=chatgpt.com)
+  - Cloudové IDE s AI asistencí pro full-stack a multiplatformní vývoj 
+  - Podpora široké škály frameworků, jazyků a služeb 
+  - Integrace s oblíbenými produkty Google 
 - **Vhodné pro**: Vývoj webových a mobilních aplikací
 - **Cenový model**: Bezplatná verze s prémiovými funkcemi
 
@@ -180,7 +180,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
 ### 17. [Webdraw](https://webdraw.com/)
 - **Funkce**:
   - AI generátor UI komponent pro webové aplikace
-  - Převádí skici a popisy do kódu (HTML/CSS) [oai_citation_attribution:3‡Introduction | Continue](https://docs.continue.dev/getting-started/overview?utm_source=chatgpt.com)
+  - Převádí skici a popisy do kódu (HTML/CSS) [oai_citation_attribution:3‡Introduction | Continue](https://docs.continue.dev/getting-started/overview?utm_source=marigold)
   - Umožňuje rychlé prototypování uživatelských rozhraní
 - **Vhodné pro**: Designéry a vývojáře bez hlubokých znalostí kódu
 - **Cenový model**: Bezplatná verze s prémiovými funkcemi
@@ -209,9 +209,9 @@ A teď už pojďme na přehled, pořadí je náhodné!
 
 ### 20. [Continue](https://www.continue.dev/)
 - **Funkce**:
-  - Open-source plugin pro VS Code a JetBrains [oai_citation_attribution:4‡GitHub](https://github.com/continuedev/continue?utm_source=chatgpt.com)
+  - Open-source plugin pro VS Code a JetBrains [oai_citation_attribution:4‡GitHub](https://github.com/continuedev/continue?utm_source=marigold)
   - Umožňuje vytvářet, sdílet a používat vlastní AI asistenty pro kódování
-  - Poskytuje chat, automatické doplňování a editaci kódu [oai_citation_attribution:5‡Introduction | Continue](https://docs.continue.dev/getting-started/overview?utm_source=chatgpt.com)
+  - Poskytuje chat, automatické doplňování a editaci kódu [Continue](https://docs.continue.dev/getting-started/overview?utm_source=marigold)
 - **Vhodné pro**: Vývojáře hledající přizpůsobitelné AI asistenty
 - **Cenový model**: Bezplatný
 
@@ -222,16 +222,16 @@ A teď už pojďme na přehled, pořadí je náhodné!
   - AI vývojář pro netechnické uživatele
   - Umožňuje vytvářet datově orientované aplikace s minimálním kódováním
   - Poskytuje dlouhodobou paměť o aplikaci a rozhodnutích
-- **Vhodné pro**: Analytiky a projekty v oblasti datové vědy [oai_citation_attribution:6‡welt.de](https://www.welt.de/253651030?utm_source=chatgpt.com)
+- **Vhodné pro**: Vývoj i pokročilých webových aplikací, doporučuji vyzkoušet!
 - **Cenový model**: Bezplatná verze s prémiovými funkcemi
 
 ---
 
 ### 22. [Base44](https://base44.com/)
 - **Funkce**:
-  - AI agent pro budování interních nástrojů [oai_citation_attribution:7‡Webdraw - Free AI App Generator](https://webdraw.com/?utm_source=chatgpt.com)
+  - AI agent pro budování interních nástrojů [Free AI App Generator](https://webdraw.com/?utm_source=marigold)
   - Umožňuje vytvářet vlastní software bez kódování
-  - Poskytuje nástroje pro monitorování interakcí a konfiguraci nastavení [oai_citation_attribution:8‡BASE44 - AI-Powered Software Development](https://base44.com/apps/ai-agent-framework-60fda1db?utm_source=chatgpt.com)
+  - Poskytuje nástroje pro monitorování interakcí a konfiguraci nastavení [BASE44 - AI-Powered Software Development](https://base44.com/apps/ai-agent-framework-60fda1db?utm_source=marigold)
 - **Vhodné pro**: Firmy hledající rychlé řešení pro interní aplikace
 - **Cenový model**: Bezplatná verze s prémiovými funkcemi
 
@@ -241,7 +241,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
 - **Funkce**:
   - Generativní AI platforma zaměřená na kvalitu kódu
   - Pomáhá psát, testovat a revidovat kód
-  - Nabízí automatizované code reviews a kontextové návrhy [oai_citation_attribution:9‡Qodo](https://www.qodo.ai/?utm_source=chatgpt.com)
+  - Nabízí automatizované code reviews a kontextové návrhy [Qodo](https://www.qodo.ai/?utm_source=marigold)
 - **Vhodné pro**: Vývojáře usilující o vysokou kvalitu kódu
 - **Cenový model**: Prémiový
 
@@ -254,7 +254,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
   - Umožňuje spolupráci s velkými jazykovými modely (LLM) na úpravách kódu ve vašem lokálním git repozitáři
   - Podporuje práci s existujícími projekty i vytváření nových
   - Automaticky provádí commity s rozumnými zprávami
-  - Kompatibilní s modely jako GPT-4 a Claude 3.5 Sonnet [oai_citation_attribution:0‡Reddit](https://www.reddit.com/r/emacs/comments/1fwwjgw/introduce_aider_ai_programming_in_terminal_and/?utm_source=chatgpt.com)
+  - Kompatibilní s modely jako GPT-4 a Claude 3.5 Sonnet [oai_citation_attribution:0‡Reddit](https://www.reddit.com/r/emacs/comments/1fwwjgw/introduce_aider_ai_programming_in_terminal_and/?utm_source=marigold)
 - **Vhodné pro**: Vývojáře hledající AI asistenci přímo v terminálu
 - **Cenový model**: Open-source
 
