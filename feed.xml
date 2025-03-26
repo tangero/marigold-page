@@ -1,4 +1,497 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-24T13:39:08+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Nové funkce v Claude Code pro programování s AI</title><link href="https://www.marigold.cz/item/claude-code-novinky/" rel="alternate" type="text/html" title="Nové funkce v Claude Code pro programování s AI" /><published>2025-03-22T22:00:00+00:00</published><updated>2025-03-22T22:00:00+00:00</updated><id>https://www.marigold.cz/item/claude-code-novinky</id><content type="html" xml:base="https://www.marigold.cz/item/claude-code-novinky/"><![CDATA[<p>Svůj nástroj <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a> pro “vibe coding” představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-26T20:44:34+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">🧠 AI nástroje pro programování - přehled</title><link href="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/" rel="alternate" type="text/html" title="🧠 AI nástroje pro programování - přehled" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-nastroje-programovani-prehled</id><content type="html" xml:base="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/"><![CDATA[<p>Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.</p>
+
+<p>Tady se pokouším udělat větší seznam všech nástrojů. Musím říct, že použitelné AI nástroje se objevují teprve posledních několik měsíců, takže startovací pole je dost široké a každý den se vynořují nové a nové nástroje. Tento seznam pořizuju ne proto, abyste všechny nástroje prošli, ale abych si i sám udržel přehled.</p>
+
+<p>Moje osobní doporučení:</p>
+
+<ul>
+  <li>pokud chcete jít “na jistotu” a zvládnete spouštění z příkazové řádky, rozhodně vyzkoušejte <a href="https://www.marigold.cz/ai/claude-code/">Claude Code</a>. A ten můj zalinkovaný článek vám pomůže jej pochopit. Ideální na scripty!</li>
+  <li>pokud byste si chtěli udělat plnohodnotnou webovou aplikaci, vyzkoušejte <a href="https://databutton.com">Databutton</a> - dělá ho norská firma, je to velmi sympatické, rozloží to projekt na milestony, které s vámi plní a je to opravdu agentní, takže to všechno udělá za vás. Jen to nemá napojení na Github, zdrojáky si buďto stáhnete jako zip, nebo nasazujete na jejich server. Ale to se časem poddá. A je to webová aplikace, nic neinstalujete.</li>
+  <li>pokud chcete výrazně promlouvat do grafického vzhledu vašeho projektu, tak vyzkoušejte <a href="https://www.tempo.new">Tempolabs</a>. Opět webová aplikace, má i napojení na Figmu.</li>
+  <li>pokud nepotřebujete detailně určovat vzhled a stačí vám “hezký” nebo “zhruba jako tohle”, tak vyzkoušejte Replit Agent (dražší) nebo Memex (levnější) - oba vás v podstatě odstíní od zdrojového kódu. Obojí je instalovatelná aplikace,</li>
+  <li>pokud jste se někdy vývojařinou zabývali, jděte do <a href="https://www.cursor.sh/">Cursor</a> nebo  <a href="https://www.windsurf.ai/">Windsurf</a> - obojí vychází z Visual Studio Code a budete tam jak doma i s iluzí, že o něčem rozhodujete 😎 Začátečníkům bych tyhle programy spíš nedoporučil, tady už se fakt čeká, že developmentu rozumíte.</li>
+  <li>pokud jste zkušený vývojář a tohle je pro vás hereze a úchylárna, zkuste <a href="https://github.com/features/copilot">GitHub Copilot</a></li>
+  <li>moje osobní zkušenosti s řadou těchto nástrojů <a href="https://www.marigold.cz/item/programovani-s-ai/">najdete zde</a></li>
+</ul>
+
+<p>A teď už pojďme na přehled, pořadí je náhodné!</p>
+
+<h2 id="-ai-nástroje-pro-programování">🧠 AI nástroje pro programování</h2>
+
+<h3 id="1-softgenai">1. <a href="https://x.com/SoftgenAI">SoftgenAI</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Funguje pro programátory i neprogramátory</li>
+      <li>Umí opravovat vlastní chyby</li>
+      <li>Umožňuje hostování webových aplikací</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Malé a střední projekty</li>
+</ul>
+
+<hr />
+
+<h3 id="2-cursor">2. <a href="https://www.cursor.sh/">Cursor</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Vznikl jako fork populárního editoru</li>
+      <li>Podporuje vysokou produktivitu vývojářů</li>
+      <li>Vhodný především pro zkušené kodéry</li>
+      <li>Méně vhodný pro začátečníky nebo neprogramátory</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Seriózní vývoj aplikací</li>
+</ul>
+
+<hr />
+
+<h3 id="3-wrapifai">3. <a href="https://www.wrapifai.com/">Wrapifai</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Ideální pro jednoduché nástroje a lead magnety</li>
+      <li>Umí vytvořit aplikaci na základě jednoho promptu</li>
+      <li>Pro složitější systémy nedostačuje</li>
+      <li>Neomezený počet aplikací bez limitu na tokeny</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Rychlé generování funkčních miniaplikací</li>
+</ul>
+
+<hr />
+
+<h3 id="4-windsurf">4. <a href="https://www.windsurf.ai/">Windsurf</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Určen pro pokročilý vývoj</li>
+      <li>Funguje jako agent s pamětí</li>
+      <li>Disponuje webovým vyhledáváním a hlubokou analýzou (DeepSeek)</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Vysoká úroveň autonomie a flexibility při tvorbě aplikací</li>
+</ul>
+
+<hr />
+
+<h3 id="5-github-copilot">5. <a href="https://github.com/features/copilot">GitHub Copilot</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Jeden z prvních a nejpoužívanějších AI nástrojů</li>
+      <li>Umí generovat kód, procházet a upravovat rozsáhlé codebase</li>
+      <li>Podporuje práci s pull requesty a opravami chyb</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Stabilní nástroj integrovaný přímo v GitHub workflow</li>
+</ul>
+
+<hr />
+
+<h3 id="6-lovable">6. <a href="https://www.lovable.so/">Lovable</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Rychle rostoucí evropský startup</li>
+      <li>Nabízí integraci se Supabase</li>
+      <li>Silná kombinace AI a no-code přístupu</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Tvorbu aplikací bez nutnosti hluboké znalosti kódu</li>
+</ul>
+
+<hr />
+
+<h3 id="7-bolt">7. <a href="https://bolt.fun/">Bolt</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Původně vedlejší projekt, nyní financovaný přes $100M</li>
+      <li>Kombinuje vlastnosti nástrojů jako Softgen, Lovable a Windsurf</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Rychlou tvorbu prototypů a jednoduchých webů</li>
+</ul>
+
+<hr />
+
+<h3 id="8-v0">8. <a href="https://v0.dev/">v0</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Skvělý pro návrh UI a design webových stránek</li>
+      <li>Nepodporuje fullstack vývoj</li>
+      <li>Umožňuje import z Figma a úpravy jednotlivých prvků</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Vizuální vývoj moderních webů</li>
+</ul>
+
+<hr />
+
+<h3 id="9-replit">9. <a href="https://replit.com/">Replit</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Cloudové vývojové prostředí s AI integrací</li>
+      <li>Nabízí živé sdílení kódu, deployment i AI asistenci</li>
+      <li>Umožňuje rychlý start a prototypování bez složité konfigurace</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Začátečníky, týmy i výuku programování</li>
+</ul>
+
+<hr />
+
+<h3 id="10-marsx">10. <a href="https://marsx.dev/">MarsX</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Kombinuje přístup no-code, low-code a tradičního kódování</li>
+      <li>Obsahuje marketplace s připravenými mikroaplikacemi</li>
+      <li>Možnost integrace AI při stavbě aplikací</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Univerzální nástroj pro rychlou tvorbu projektů a MVP</li>
+</ul>
+
+<hr />
+
+<h3 id="11-claude-code">11. <a href="https://www.ai-claude.net/code/">Claude Code</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Umí analyzovat, vysvětlovat a navrhovat úpravy kódu</li>
+      <li>Velmi silný v přirozeném jazyce a bezpečném vývoji</li>
+      <li>Vývojový “nástroj” Anthropicu, velmi samostatně fungující Agent. Spouští se z příkazové řádky, ale neočekává se, že byste sami sahali do zdrojového kódu. Pro opravy, ladění a menší i střední projekty velmi dobrý, ale platí se za dotazy, takže může vyjít draho. Moje <a href="https://www.marigold.cz/ai/claude-code/">zkušenosti s ním zde</a>.</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Práci s dokumentací, návrhy i analýzou</li>
+  <li><strong>Cenový model</strong>: Platí se za tokeny.</li>
+</ul>
+
+<hr />
+
+<h3 id="12-amazon-q">12. <a href="https://aws.amazon.com/q/">Amazon Q</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>AI asistent s hlubokou integrací do AWS prostředí</li>
+      <li>Pomáhá psát, ladit a nasazovat aplikace</li>
+      <li>Nabízí návrhy architektury i kódu</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Vývojáře pracující s AWS</li>
+</ul>
+
+<hr />
+
+<h3 id="13-pear">13. <a href="https://www.usepear.ai/">Pear</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>AI nástroj pro párové programování</li>
+      <li>Simuluje kolegu, který pomáhá s úkoly nebo strukturou kódu</li>
+      <li>Podporuje vysvětlení i návrhy změn</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Učení i práci</li>
+</ul>
+
+<hr />
+
+<h3 id="14-devin">14. <a href="https://www.cognition-labs.com/">Devin</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Agent schopný řídit vývojový proces</li>
+      <li>Může plánovat úkoly, kódovat, testovat a iterovat</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Směřuje ke skutečnému „AI developerovi“</li>
+</ul>
+
+<hr />
+
+<h3 id="15-github-copilot-workspace">15. <a href="https://github.blog/news-insights/product-news/github-copilot-workspace/">GitHub Copilot Workspace</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Nová generace Copilotu zaměřená na plánování a strukturování projektů</li>
+      <li>Umožňuje konverzaci s kódem v reálném čase</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Start nového projektu nebo refaktoring</li>
+  <li><strong>Cenový model</strong>: Prémiový</li>
+</ul>
+
+<hr />
+
+<h3 id="16-google-project-idx">16. <a href="https://idx.dev/">Google Project IDX</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Cloudové IDE s AI asistencí pro full-stack a multiplatformní vývoj <a href="https://idx.dev/?utm_source=chatgpt.com">oai_citation_attribution:0‡Project IDX</a></li>
+      <li>Podpora široké škály frameworků, jazyků a služeb <a href="https://idx.dev/?utm_source=chatgpt.com">oai_citation_attribution:1‡Project IDX</a></li>
+      <li>Integrace s oblíbenými produkty Google <a href="https://idx.dev/?utm_source=chatgpt.com">oai_citation_attribution:2‡Project IDX</a></li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Vývoj webových a mobilních aplikací</li>
+  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
+</ul>
+
+<hr />
+
+<h3 id="17-webdraw">17. <a href="https://webdraw.com/">Webdraw</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>AI generátor UI komponent pro webové aplikace</li>
+      <li>
+        <table>
+          <tbody>
+            <tr>
+              <td>Převádí skici a popisy do kódu (HTML/CSS) [oai_citation_attribution:3‡Introduction</td>
+              <td>Continue](https://docs.continue.dev/getting-started/overview?utm_source=chatgpt.com)</td>
+            </tr>
+          </tbody>
+        </table>
+      </li>
+      <li>Umožňuje rychlé prototypování uživatelských rozhraní</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Designéry a vývojáře bez hlubokých znalostí kódu</li>
+  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
+</ul>
+
+<hr />
+
+<h3 id="18-tempo">18. <a href="https://www.tempo.io/products/portfolio-manager">Tempo</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>AI pro řízení projektů a vývojových týmů</li>
+      <li>Automatizuje plánování kapacit a optimalizaci zdrojů</li>
+      <li>Integrace s Jira pro sledování času a výkonu</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Projektové manažery a vedení týmů</li>
+  <li><strong>Cenový model</strong>: Bezplatná zkušební verze s prémiovými funkcemi</li>
+</ul>
+
+<hr />
+
+<h3 id="19-cline">19. <a href="https://cline.bot/">Cline</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Terminálový AI asistent integrovaný do VS Code</li>
+      <li>Schopnost vytvářet a upravovat soubory, spouštět příkazy a používat prohlížeč</li>
+      <li>Zajišťuje bezpečnost a soukromí kódu</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Vývojáře hledajícího autonomního asistenta v IDE</li>
+  <li><strong>Cenový model</strong>: Open-source</li>
+</ul>
+
+<hr />
+
+<h3 id="20-continue">20. <a href="https://www.continue.dev/">Continue</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Open-source plugin pro VS Code a JetBrains <a href="https://github.com/continuedev/continue?utm_source=chatgpt.com">oai_citation_attribution:4‡GitHub</a></li>
+      <li>Umožňuje vytvářet, sdílet a používat vlastní AI asistenty pro kódování</li>
+      <li>
+        <table>
+          <tbody>
+            <tr>
+              <td>Poskytuje chat, automatické doplňování a editaci kódu [oai_citation_attribution:5‡Introduction</td>
+              <td>Continue](https://docs.continue.dev/getting-started/overview?utm_source=chatgpt.com)</td>
+            </tr>
+          </tbody>
+        </table>
+      </li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Vývojáře hledající přizpůsobitelné AI asistenty</li>
+  <li><strong>Cenový model</strong>: Bezplatný</li>
+</ul>
+
+<hr />
+
+<h3 id="21-databutton">21. <a href="https://databutton.com/">Databutton</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>AI vývojář pro netechnické uživatele</li>
+      <li>Umožňuje vytvářet datově orientované aplikace s minimálním kódováním</li>
+      <li>Poskytuje dlouhodobou paměť o aplikaci a rozhodnutích</li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Analytiky a projekty v oblasti datové vědy <a href="https://www.welt.de/253651030?utm_source=chatgpt.com">oai_citation_attribution:6‡welt.de</a></li>
+  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
+</ul>
+
+<hr />
+
+<h3 id="22-base44">22. <a href="https://base44.com/">Base44</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>AI agent pro budování interních nástrojů <a href="https://webdraw.com/?utm_source=chatgpt.com">oai_citation_attribution:7‡Webdraw - Free AI App Generator</a></li>
+      <li>Umožňuje vytvářet vlastní software bez kódování</li>
+      <li>Poskytuje nástroje pro monitorování interakcí a konfiguraci nastavení <a href="https://base44.com/apps/ai-agent-framework-60fda1db?utm_source=chatgpt.com">oai_citation_attribution:8‡BASE44 - AI-Powered Software Development</a></li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Firmy hledající rychlé řešení pro interní aplikace</li>
+  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
+</ul>
+
+<hr />
+
+<h3 id="23-qodo">23. <a href="https://www.qodo.ai/">Qodo</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Generativní AI platforma zaměřená na kvalitu kódu</li>
+      <li>Pomáhá psát, testovat a revidovat kód</li>
+      <li>Nabízí automatizované code reviews a kontextové návrhy <a href="https://www.qodo.ai/?utm_source=chatgpt.com">oai_citation_attribution:9‡Qodo</a></li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Vývojáře usilující o vysokou kvalitu kódu</li>
+  <li><strong>Cenový model</strong>: Prémiový</li>
+</ul>
+
+<hr />
+
+<h3 id="24-aider">24. <a href="https://aider.chat/">Aider</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>AI párový programátor v terminálu</li>
+      <li>Umožňuje spolupráci s velkými jazykovými modely (LLM) na úpravách kódu ve vašem lokálním git repozitáři</li>
+      <li>Podporuje práci s existujícími projekty i vytváření nových</li>
+      <li>Automaticky provádí commity s rozumnými zprávami</li>
+      <li>Kompatibilní s modely jako GPT-4 a Claude 3.5 Sonnet <a href="https://www.reddit.com/r/emacs/comments/1fwwjgw/introduce_aider_ai_programming_in_terminal_and/?utm_source=chatgpt.com">oai_citation_attribution:0‡Reddit</a></li>
+    </ul>
+  </li>
+  <li><strong>Vhodné pro</strong>: Vývojáře hledající AI asistenci přímo v terminálu</li>
+  <li><strong>Cenový model</strong>: Open-source</li>
+</ul>
+
+<hr />
+
+<h3 id="25-codev">25. <a href="https://co.dev/">Co.dev</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>AI generuje Next.js a Supabase aplikace z textových promptů</li>
+    </ul>
+  </li>
+  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
+</ul>
+
+<hr />
+
+<h3 id="26-createxyz">26. <a href="https://create.xyz/">Create.xyz</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>No-code tvůrce webových aplikací využívající AI pro generování z textu nebo obrázků</li>
+    </ul>
+  </li>
+  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
+</ul>
+
+<hr />
+
+<h3 id="27-heybossxyz">27. <a href="https://heyboss.xyz/">HeyBoss.xyz</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>AI konverzační generátor webových aplikací, stránek a her</li>
+    </ul>
+  </li>
+  <li><strong>Cenový model</strong>: Prémiový</li>
+</ul>
+
+<hr />
+
+<h3 id="28-magicallylife">28. <a href="https://magically.life/">Magically.life</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>AI generátor mobilních aplikací pro iOS a Android</li>
+    </ul>
+  </li>
+  <li><strong>Cenový model</strong>: Prémiový</li>
+</ul>
+
+<hr />
+
+<h3 id="29-marblism">29. <a href="https://marblism.com/">Marblism</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Platforma s více AI agenty, kteří společně vytvářejí webové aplikace</li>
+    </ul>
+  </li>
+  <li><strong>Cenový model</strong>: Prémiový</li>
+</ul>
+
+<hr />
+
+<h3 id="30-memex">30. <a href="https://memex.tech/">Memex</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Umožňuje vytvářet cokoli v jakémkoli stacku pomocí přirozeného jazyka na vašem desktopu</li>
+      <li>velmi autonomně a chytře fungující</li>
+    </ul>
+  </li>
+  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi, možnost dokoupit si kredity.</li>
+</ul>
+
+<hr />
+
+<h3 id="31-probz-ai">31. <a href="https://probz.ai/">Probz AI</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>No-code AI builder pro CRUD aplikace a interní nástroje</li>
+    </ul>
+  </li>
+  <li><strong>Cenový model</strong>: Prémiový</li>
+</ul>
+
+<hr />
+
+<h3 id="32-smol-developer">32. <a href="https://github.com/smol-ai/developer">Smol Developer</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>Minimalistický AI agent pro rychlé generování kódu</li>
+    </ul>
+  </li>
+  <li><strong>Cenový model</strong>: Bezplatný</li>
+</ul>
+
+<hr />
+
+<h3 id="33-tooljet">33. <a href="https://tooljet.com/">ToolJet</a></h3>
+<ul>
+  <li><strong>Funkce</strong>:
+    <ul>
+      <li>AI-enhanced low-code platforma pro interní nástroje</li>
+    </ul>
+  </li>
+  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
+</ul>
+
+<hr />]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="programování" /><category term="vibe coding" /><summary type="html"><![CDATA[Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.]]></summary></entry><entry xml:lang="cs"><title type="html">Nové funkce v Claude Code pro programování s AI</title><link href="https://www.marigold.cz/item/claude-code-novinky/" rel="alternate" type="text/html" title="Nové funkce v Claude Code pro programování s AI" /><published>2025-03-22T22:00:00+00:00</published><updated>2025-03-22T22:00:00+00:00</updated><id>https://www.marigold.cz/item/claude-code-novinky</id><content type="html" xml:base="https://www.marigold.cz/item/claude-code-novinky/"><![CDATA[<p>Svůj nástroj <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a> pro “vibe coding” představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat.</p>
 
 <blockquote>
   <p>💡 Nevíte, co je Claude Code? Detailnější popis <a href="/ai/claude-code/">jsme si přinesli zde</a>.</p>
@@ -1767,112 +2260,4 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
 
 <p>Rok 2025 bude rokem zajímavým. Zda pro vás štastným, bude záležet na mnohém.</p>
 
-<p>Tak ať to dopadne!</p>]]></content><author><name>Patrick Zandl</name></author><category term="Politika" /><category term="Piráti" /><summary type="html"><![CDATA[Rok 2024 pro mne měl několik momentů, pro který ho považuji za jeden z nejtěžších v mém životě, ačkoliv to celkově a osobně pro mě byl zároveň jeden z nejlepších roků mého života. Vynechávám teď fakt, že jsem měl padesáté narozeniny, ale to je přeci přípustný moment k ohlédnutí. Zejména tomu politickému.]]></summary></entry><entry xml:lang="cs"><title type="html">Rok 2025 - Umělá inteligence jako nedílná součást naší reality I.</title><link href="https://www.marigold.cz/item/rok-2025-v-ai/" rel="alternate" type="text/html" title="Rok 2025 - Umělá inteligence jako nedílná součást naší reality I." /><published>2025-01-06T00:00:00+00:00</published><updated>2025-01-06T00:00:00+00:00</updated><id>https://www.marigold.cz/item/rok-2025-v-ai</id><content type="html" xml:base="https://www.marigold.cz/item/rok-2025-v-ai/"><![CDATA[<p>Začátek nového roku je vždy dobrou příležitostí zastavit se a zamyslet se nad tím, jaké trendy se do dalšího roku nejviditelněji propíšou. Dnes bych chtěl takové mírné zastavení udělat u umělé inteligence. Pojďme se podívat, jaký bude rok 2025 v oblasti AI jak celosvětově, tak z českého pohledu.</p>
-
-<p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
-<ul id="markdown-toc">
-  <li><a href="#pokračující-evoluce-ale-nikoli-plnohodnotná-agi" id="markdown-toc-pokračující-evoluce-ale-nikoli-plnohodnotná-agi">Pokračující evoluce, ale nikoli plnohodnotná AGI</a></li>
-  <li><a href="#o-práci-zatím-nepřijdeme" id="markdown-toc-o-práci-zatím-nepřijdeme">O práci (zatím) nepřijdeme</a></li>
-  <li><a href="#co-s-generativní-ai" id="markdown-toc-co-s-generativní-ai">Co s generativní AI</a></li>
-  <li><a href="#éra-agentů-agenti-a-mikroagenti" id="markdown-toc-éra-agentů-agenti-a-mikroagenti">Éra agentů: Agenti a mikroagenti</a></li>
-  <li><a href="#weboví-agenti-a-osobní-asistenti" id="markdown-toc-weboví-agenti-a-osobní-asistenti">Weboví agenti a osobní asistenti</a></li>
-  <li><a href="#posun-v-byznys-modelu-ai-od-individuálních-uživatelů-k-b2b" id="markdown-toc-posun-v-byznys-modelu-ai-od-individuálních-uživatelů-k-b2b">Posun v byznys modelu AI: od individuálních uživatelů k B2B</a></li>
-  <li><a href="#technologický-pokrok-a-škálování" id="markdown-toc-technologický-pokrok-a-škálování">Technologický pokrok a škálování</a></li>
-  <li><a href="#využití-jaderné-energie-a-datová-centra-ve-vesmíru" id="markdown-toc-využití-jaderné-energie-a-datová-centra-ve-vesmíru">Využití jaderné energie a „datová centra ve vesmíru“</a></li>
-  <li><a href="#robotaxi-a-samořiditelné-vozy" id="markdown-toc-robotaxi-a-samořiditelné-vozy"><strong>Robotaxi a samořiditelné vozy</strong></a></li>
-</ul>
-
-<blockquote>
-  <p>Článek vyšel původně jako součást mého newsletteru, <a href="https://zandl.substack.com/">který si můžete objednat zde</a>.</p>
-</blockquote>
-
-<p>Rok 2025 se rýsuje jako zlomový v oblasti umělé inteligence. AI se stane <strong>všudypřítomnou technologií</strong>, která bude ovlivňovat nejen naše pracovní životy, ale i každodenní aktivity. Stejně jako kdysi elektřina nebo internet, AI se stane neviditelnou, avšak <strong>nezbytnou součástí infrastruktury</strong> naší společnosti. Místo toho, abychom s AI aktivně pracovali, budeme jednoduše žít ve světě, kde AI vše zefektivňuje a zjednodušuje. Tento trend dostal i své označení Ubiquitní AI, kdy AI je neviditelná síla v pozadí.</p>
-
-<h2 id="pokračující-evoluce-ale-nikoli-plnohodnotná-agi">Pokračující evoluce, ale nikoli plnohodnotná AGI</h2>
-
-<p>Tohle je asi nejdůležitější a nejzbytečnější sdělení. Odhady, kdy se univerzální umělá inteligence označovaná jako AGI stane skutečností, plní obecná média nějakou dobu a věrozvěstového všeho druhu se tu za nejrůznějším účelem předhánějí v průlomových odhadech. Jenže pokud zrovna nepotřebujete získat pár miliard na zafinancování vašeho opožděně naskakujícího startupu, je potřeba si připustit jedno. Na AGI to v roce 2025 nevypadá. A je to i tak nějak fuk.</p>
-
-<p>To totiž neznamená stagnaci: jen se nenaplní silácká prohlášení. Vývoj AI bude prudce pokračovat, zesílí celá řada dnes slabých míst v AI a bude pokračovat trend posilování výkonu AI v jednotlivých segmentech a to nejrůznějšími přístupy. Již dnes víme, že “Reasoning”, tedy uvažování, kdy se AI nejdříve zamyslí, jak bude krok za krokem postupovat a pak posune úlohu na nejvhodněji natrénovaný model, je nesmírně silný a slibný. Znamená to ale také jedno: nepočítejte s tím, že si v polovině roku 2025 zaplatíte jeden účet a tím obsloužíte všechny úkoly. Naopak: fragmentace AI se bude rozšiřovat z té strany, ze které se budou vývojáři snažit AI posouvat do dalších a dalších segmentů. A na té druhé straně, kde už AI najde své přesvědčivé způsoby použití, se bude fragmentace snižovat konsolidací trhu, kdy velcí hráči budou skupovat a/nebo integrovat jednotlivá řešení. Dnes to již vidíme na prostředí ChatGPT Canvas, které má do kvalitního a univerzálního řešení pro zpracování textu v AI ještě stále daleko. Ale pro dva segmenty, tedy pro autory textů článkové velikosti i hloubky a pro vývojáře velmi malých projektů je již docela atraktivní. Je pravděpodobné, že zvyšující odborné schopnosti AI umožní Canvasu například kvalitně zpracovat smlouvu podle španělského právního řádu či vytvářet cestovní itineráře. Závisí to na tom, jak se OpenAI podaří ChatGPT napojit na zdroje dat a přizpůsobit k tomu části modelů. Očekávám, že umožnění napojení online zdrojů třetích stran bude důležitým trendem, i když obtížně řešitelným.</p>
-
-<blockquote>
-  <p>Posunul jsem <strong>vydání single knihy Technoelity</strong> - když příliš málo určuje příliš mnoho. To ale znamená, že si ebook můžete za 200 Kč stále <a href="https://ifdeal.com/ifdeals/25893d24-2316-460f-937d-d845d0602afe">objednat zde na IFDEAL</a>.</p>
-</blockquote>
-
-<h2 id="o-práci-zatím-nepřijdeme">O práci (zatím) nepřijdeme</h2>
-
-<p>Tohle už důležité je. V roce 2025 začne AI mít signifikantní dopady na pracovní procesy a tím i na dostupnost pracovních míst. U prací, kde je primárně používána angličtina, začne být dopad Ai v některých segmentech (tj. tam, kde jsou AI nástroje segmentu již přizpůsobené) citelný. V češtině tento dopad ještě nepocítíme, bude o cca dva roky zpožděný.</p>
-
-<p>Tlak AI je zřetelný v odvětvích, kde jsou zpracovávány textové údaje, kde je zatím AI nejužitečnější a nejlépe adaptovaná. Jde především o odvětví zpráv, pořizování marketingových textů a programování. AI zde automatizuje rutinní úkoly, dříve typické juniorní úkoly, pracovní role se tedy budou posouvat ke kreativě, například v případě programování k definování architektury, revizi kódu či orchestraci celého systému. Je tedy kličové, pokud v tomto odvětví pracujete, začít se osobnostně posouvat do tohoto směru a opouštět oblasti, kde AI bude výrazně efektivnější.</p>
-
-<p>Zaměstnanci budou muset získat nové dovednosti spojené s prací s AI, včetně prompt inženýrství, analýzy dat a řízení AI systémů. Důležitými dovednostmi se stanou kreativita, kritické myšlení a schopnost řešit problémy, které AI nemůže automatizovat.</p>
-
-<p>Bude klíčové, co nejdříve se naučit AI používat pro sebevzdělávání, případně jako tutora v oblastech, ve kterých budete pracovat, ale nebudete v nich mít dalekosáhlé zkušenosti, což bude stále častější pracovní model.</p>
-
-<p>Lidé, kteří si zvyknou AI používat spíše dříve, než později, budou mít na pracovním trhu značnou výhodu seniornosti.</p>
-
-<h2 id="co-s-generativní-ai">Co s generativní AI</h2>
-
-<p>A dnešní fenomén generativní AI? Řekněme si to upřímně, některé tyto oblasti jsou masturbací nad možnostmi, nikoliv skutečnou potřebou trhu. Vezměmě si video modely jako <a href="https://www.sora.com/">Sora</a>. Technologicky je to úchvatné: zadáte pár slov a vygeneruje se video, ze kterého jste chvilku unešení, jenže co s ním dál? Zatím jím můžete uchvacovat na sociálních sítích, odvážnější jím udělají promo, které sice bude mnohem horší, než jaké by jim dodala agentura, ale zase o tom všichni napíšou, protože AI. Hloupé v tomto oboru je být třetí (druhému se to ještě odpustí). Udělat dnes Sorou kvalitní film? Spíš ne - a omezení už začínají být spíš právní, než technická. Ve filmu totiž potřebujete pořád zachovávat jednu tvář pro konkrétní roli, jenže to Sora záměrně běžně neumožňuje, aby se předešlo tvorbě deepfakes. Navíc opravit nějakou drobnost ve scéně tak, jak si přejete a přitom nechat všechno ostatní netknuté, je dnes pro Soru i jiné videomodely, technicky obtížné. Být režisér puntičkář - to není nic pro spolupráci s dnešními videomodely. Technické potíže se budou postupně měnit, ty právně-politické taky. Už dnes vám videomodely neumožní použít celou řadu mezinárodních osobností, tato omezení se budou postupně tříbřit. Ale opravdu si myslíme, že přes videomodely typu Sora půjde udělat videotrhák? Spíše budou sloužit k tvorbě obchodních produktových videí, marketingových vizuálů a storytellingových materiálů, jejichž spotřeba ve světě roste. Jako doplněk pro nejrůznější podcasty, pro meme - to všechno může být zajímavý trh. Pro filmový trh? Možná, ale speciální verze.</p>
-
-<p><img src="/assets/sora.webp" alt="Sora od OpenAI" />
-<em>Sora v Česku oficiálně nefunguje, musíte použít VPN. Trhák s ní ani tak nenatočíte</em></p>
-
-<p>Ve skutečnosti je trh jinde, než v naději, že Sora natočí pokračování Kmotra. Práce s našimi videi. Běžný uživatel natočí mraky videí ročně, jenže kdo by se chtěl dívat na dvouhodinové video z dovolené. Ani rodinní příslušníci už ne. Dnešní videomodely se postupně učí popasovat s tím, jak vybrat z těch dvou hodin oněch pět minut, které vaši jedinečnou týdenní dovolenou v Turecku skvěle charakterizují. A dají se ukoukat. Takových případů použití se objevuje čím dále více. V businessu je to autonomně generovaný videoobsah, například generování ukázek přípravy jídel v reálném čase s personalizovanými ingrediencemi, statistikami a třeba i přizpůsobením zdravotnímu profilu uživatele.</p>
-
-<p><em>Nástrojů na drobné klipy, jako je <a href="https://pika.art/">Pika</a>, objevuje stále více.</em></p>
-
-<p><strong>Storytelling</strong> bude velká část videotrhu: média budou hledat nové metody, jak atraktivně zpřístupnit lidem zprávy a zároveň snížit náklady na jejich produkci. Metoda visia jako videa, do kterého lze interaktivně vstoupit dotazy a ono vám odpovídá na věci, které jsou vám nejasné, jak jsem ji popsal před dvaceti lety v knize Flotila Země, je už na dosah. Představte si, že se ve filmu můžete postavy zeptat, proč udělala tohle a ne něco jiného…</p>
-
-<h2 id="éra-agentů-agenti-a-mikroagenti">Éra agentů: Agenti a mikroagenti</h2>
-
-<p>Velký svět pro AI budou agenti a mikroagenti. <strong>Mikroagenti</strong> je můj název pro úkolově orientované AI systémy, které mají svůj jednoznačný účel. Tak například můj Oura prsten mě na základě analýzy dat informoval, že mi bude blbě a mám zvolnit. Na což jsem si o dva dny později v horečce vzpomněl. Tyto systémy budou analyzovat data v reálném čase a umožní tak optimalizace i bez centrálních prvků. Cílové trhy mikroagentů: doprava osobní i zbožová logistika. Zdravotnictví pro monitoring pacientů a těch, co na to mají. Hyperpersonalizované vzdělávání.</p>
-
-<p><strong><a href="https://www.marigold.cz/ai/agenti/">Agenti</a></strong> (detailně o nich ve článku) jsou podstatně robustnější systémy a mají autonomně obsluhovat podstatně větší oblasti. Například zákaznickou podporu - tedy schopnost přijmout, vyhodnotit, zpracovat a vyřídit požadavek. Tohle přeci už musí být na dosah: vyzdvihnout mailbox, najít, že si uživatel stěžuje na závadu na zařízení, vyhodnocení jeho důvěryhodnosti a automatická odpověď, že je mu posílán náhradní díl, zatímco do systému objednávek je požadavek na sparse-part zapsán a následně odbaven. A taky to už existuje, jen to má drobná ALE. Těmi jsou především ta napojení na externí systémy, z nichž mailbox je ten nejmenší problém. Pokud běžíte na amerických systémech jako Shopify, budete tam brzy, pokud na proprietárních platformách, co vám spíchnul student za pade, trochu se s tím ten studentík zapotí, ale taky to dá, jen asi ne letos. Však se vám to pro ty tři reklamačky za den asi ani nevyplatí. A o tom celém to bude: bedlivě počítat náklady a přínosy. Masivnější nástup AI agentů jen prohloubí význam standardizace a používání otevřených výměnných formátů. Nebo alespoň těch zdokumentovaných. To je dobrá příležitost jít se podívat, jak je na tom vaše firma, vaše data…</p>
-
-<p><strong>Superoblast:</strong> Bezpečnost v IT a infrastruktury. Z obou stran: jak využití pro útoky, tak pro obranu. Jestli můžete, dělejte v tom něco, bude to extra důležité a průšvihy se mohou začít množit velmi rychle.</p>
-
-<p><strong>Agenti budou buzzwords pro rok 2025 v AI</strong>, ale plného rozvoje ještě nedosáhnou. Budeme se potýkat s propojováním systémů a datových sad, něco pojede přes služby jako Zappier nebo <a href="https://make.com/">Make.com</a>, bude se experimentovat, ale teprve se bude definovat trh. Už dnes je zřejmé, že řada takových služeb čeká na nějaký flexibilní platební systém u poskytovatelů AI, abyste si mohli datovou sadu objednat za použití z jednoho místa a neprolézali milion webů jen kvůli tomu, že chcete propojit několik API a datových sad do jedné služby. Jenže to je také důvod, proč o nich musíte přemýšlet už dnes: i vaši firmu potrápí digitalizace dat a procesů tak, abyste mohli později procesy automatizovat. Udělat ingegrovanou zákaznickou podporu přes AI dnes většina českých eshopů nezvládne ne kvuli omezením na straně AI, ale prostě proto, že nemají centralizované dokumenty s tím, jak s jakou závadou postupovat.</p>
-
-<h2 id="weboví-agenti-a-osobní-asistenti">Weboví agenti a osobní asistenti</h2>
-
-<p>Speciální množinou agentů budou <strong>osobní asistenti</strong>. Jejich úlohy jsou stále komplexnější, než u mikroagentů, ale jsou zaměřeni na jednotlivce a tedy na omezenější sadu dat. Zejména v USA se budou šířit osobní asistenti, kteří pro vás vyhledají nejlepší sushi restauraci ve zvolené oblasti nebo nejlepší divadelní představení na příští týden a zarezervují vám na ně lístky jen v případě, že budete dostatečně blízko jeviště. Je něco jiného říct AI “najdi mi lístky na dobrou současnou komedii”, než proklikávat třeba GoOut a zjišťovat, na co dobrého ještě lístky jsou a na co už ne. Takový asistent se vás také zeptá, jak se vám kousek líbil - aby si aktualizoval kontext a příště už vás na Vosto5 neposílal.</p>
-
-<p>V Česku s tím budou problémy, řada firem nebude chtít nebo moci do propojení dat investovat, nebo se jim to prostě nevyplatí. Takoví Cimrmani se vyprodají i bez AI a ne každý tuzemec dá pětikilo měsíčně za osobního AI asistenta, které tyhle věci vyřeší. Pokud svá stavidla ovšem otevře Claude/ChatGPT, třeba to půjde v rámci základního předplatného.</p>
-
-<p>Ve skutečnosti mnoho nevěřím na přínosy osobních asistentů ve věci vedení kalendáře, což bývá často zmíněný příklad. Tam už to dnes funguje slušně, uživatelé kalendářů jako Fantastical mi dají za pravdu. Ale očekávám, že bude možné se přes AI do svého kalendáře napojit, je to cenný zdroj kontextu.</p>
-
-<h2 id="posun-v-byznys-modelu-ai-od-individuálních-uživatelů-k-b2b">Posun v byznys modelu AI: od individuálních uživatelů k B2B</h2>
-
-<p>V roce 2024 firmy hlasitě spouštěly pilotní AI projekty, velmi často hlavně jako PR či průzkum možností. Letos už se půjde natvrdo. Dodavatelé velkých AI jako OpenAI nebo Anthropic přidávají firemní tarify a umožňují sdílet i chránit firemní data. A své modely začnou více pasovat směrem k firemním uživatelům, ze kterých lze dostat více peněz. Očekávám rozmach Enterprise tarifů, kdy firma zaplatí typicky 1000-2000 dolarů měsíčně za to, že její zaměstnanci mohou klást sofistikované a analytické dotazy nad firemními daty typu “proč v Montrealu neprodáme tolik zmrzliny, jako na Floridě”. A opět: záleží na tom, jak jednoduché bude napojovat firemní data. Nahrát někam jednorázově hromádku PDF nic neřeší.</p>
-
-<p>Pokud ale velcí poskytovatelé AI rozšíří svůj záběr mimo jednoduchou web aplikaci a API, dostanou se do konkurence s řadou svých zákazníků, se svými B2B klienty, jako Perplexity či Cursor. Ti se budou bránit podporou modelů, které jim konkurovat nebudou, přičemž váha souhrnu těchto B2B partnerů není malá. Může to znamenat šanci pro open source modely jako Llama, ale i pro čínský DeepSeek. Významné posuny ale v roce 2025 na trhu nebudou, dnešní služby jsou pevně napojené a přesunout se není zase tak jednoduché, znamená to rozsáhlé “přeladění”. Trend by ovšem mohl být viditelný.</p>
-
-<h2 id="technologický-pokrok-a-škálování">Technologický pokrok a škálování</h2>
-
-<p>V poslední době se zdá, že technologie AI narazila na svou “zeď” a další rozvoj není rozhodně jednoduchý. Nu, není. Nová GPT už nejsou taková “wow”, jako byly před dvěmi lety ty první veřejné modely, ale už jsme si také trochu zvykli. Jenže nepodceňujme úsilí a prostředky, které se do AI investují. Do AI firem nateklo v roce 2024 kolem 150 miliard dolarů, což je zhruba 40% HDP České republiky. To je pořádná síla, která umí ledasco zlomit a ačkoliv řada z těch investic je učiněna do “lepšího stínování dialogového okna”, na základní pohonnou infrastrukturu jako jsou LLM je prostředků dost.</p>
-
-<p>Nové modely, jako například OpenAI “o-serie” (o1, o3, o4) nebo jejich alternativy, budou výrazně těžit z dodatečného výpočetního výkonu v době inferencí, tedy v době mezi zadáním promptu a vygenerováním odpovědi, kdy má úloha v těchto modelech úspory v procesorovém času. A ten bude možné využít. Tím dojde k lepšímu „online“ uvažování a komplexnějšímu řešení problémů.</p>
-
-<p>Nastoupí gigantická kontextová okna, byť ze začátku jen pro velmi drahé modely. Některé modely dosáhnou 10+ milionů tokenů jako kontextového rozsahu, čímž si „zapamatují“ ohromné objemy dat. Tato „téměř neomezená paměť“ umožní sofistikované analýzy a odpovídání. Význam to má hlavně pro nestrukturovaná nebo nejasně strukturovaná data, jimž je potřeba porozumět “holisticky”, tedy s trochou doteku magie …</p>
-
-<p>A bude se škálovat “per partes”, tedy po oborových doménách. Zatímco jazykové modely pomalu narážejí na limity jednoduše pasivního „velkého tréninku“, otevírá se prostor pro masivní škálování v robotice, biologii, chemii, vyhledávání informací či multiagentních systémech, prostě v oborových doménách, kdy je model přizpůsoben velmi výrazně tomu, co dělá a nepracuje s miliardami obecných parametrů. Zvláštní oblast bude právo a medicína. Této sekci se říká SLM - Small language models.</p>
-
-<p>Shrnuto: V roce 2025 se očekává <strong>výrazný posun od velkých jazykových modelů k menším, specializovaným modelům</strong>, které jsou <strong>efektivnější pro konkrétní úkoly</strong>. Důraz bude kladen na <strong>multimodální AI</strong>, <strong>agentickou AI</strong>, a <strong>zlepšení interpretovatelnosti a kontroly LLM</strong>. <strong>Zpracování velkých dat</strong> a <strong>vývoj nových architektur</strong>, jako jsou tekuté neuronové sítě, také hrají klíčovou roli v technologickém pokroku. <strong>AI se stává součástí hardwaru</strong> a <strong>umožňuje lokální spouštění modelů</strong> pro rychlejší a efektivnější zpracování dat.</p>
-
-<h2 id="využití-jaderné-energie-a-datová-centra-ve-vesmíru">Využití jaderné energie a „datová centra ve vesmíru“</h2>
-
-<p><strong>Pro AI je typická extrémní spotřeba energie</strong>. A již dříve jsem říkal, že pro AI bude klíčové nalezení přiměřeně zeleného zdroje elektrické energie. Rok 2025 bude ve znamení urychleného hledání takového zdroje. Jaderná energetika (vč. fůze a malých modulárních reaktorů – SMR) se začne jevit jako jeden z klíčových zdrojů. Přijde doba renesance jaderné energetiky se snahou eliminovat až bagatelizovat její nevýhody. V každém případě ale půjde spíše o menší zdroje, než jsou české projekty, tedy o zdroje, které budou relativně rychle postavitelné a také zlikvidovatelné, než je elektrárna typu Temelín.</p>
-
-<p>Nepředpokládám, že se tomuto trendu Česko přizpůsobí, ale je velmi pravděpodobné, že místní energofirmy včetně ČEZu narozdíl od vlády tuto oblast podchytí a pokusí se něco podobného rozjet u nás.</p>
-
-<p><strong>A něco ulítlého, ale nikoliv nereálného? Co takhle r</strong>ozjezd prvních reálných pilotů datových center na oběžné dráze, kde je konstantní zdroj sluneční energie a méně restrikcí pro chlazení. Jde sice o zdánlivě odvážnou vizi, nicméně některé startupy na těchto konceptech pracují. Zmíním alespoň <a href="https://www.lumenorbit.com">Lumen Orbit</a> nebo <a href="https://spacebelt.com">projekt SpaceBelt</a> společnosti <strong>Cloud Constellation.</strong></p>
-
-<h2 id="robotaxi-a-samořiditelné-vozy"><strong>Robotaxi a samořiditelné vozy</strong></h2>
-
-<p><strong>Robotaxi v USA již funguje.</strong> Po významném (byť někde kontroverzním) rozjetí služeb v San Franciscu či Phoenixu mohou služby typu Waymo či Zoox do konce 2025 dosáhnout dvouciferného podílu na lokálním trhu pro jízdy taxi (podobně jako dnes Uber či Lyft). Firmy budou mít obavy z EU sankcí a nebudou pospíchat na EU trh, což vytvoří příležitost pro eurounijní firmy. Ta ale nebude využita. <strong>Futuristický Cybercab* od Tesly, který **nemá volant ani pedály</strong>, se však očekává až v letech 2026 nebo 2027.</p>
-
-<p>A systémy samořiditelných vozů? Zatímco v některých městech či zemích ji budou omezovat regulace a počasí, v ideálních lokalitách bude AI řídit bezpečněji než průměrný člověk – byť se to nebude týkat 100 % podmínek. <strong>Tesla</strong> plánuje v roce 2025 nasadit <strong>plně autonomní verzi svého softwaru “Full Self-Driving”</strong> pro modely Model 3 a Model Y v Texasu a Kalifornii. To by znamenalo, že by <strong>vozidlo mělo plnou kontrolu bez nutnosti lidského řidiče v pohotovosti</strong>. Bude zajímavé sledovat, jak se to na trhu projeví, ale v roce 2025 zatím stále ještě neuvidíme systémovou změnu.</p>
-
-<p>Je důležité si uvědomit, že <strong>přechod na autonomní vozidla bude postupný</strong> a bude vyžadovat <strong>významné investice do infrastruktury</strong> a <strong>změny v právních a etických normách</strong> - ne všechno utáhne samotná technologie a naše důvěra v ni. Bude potřeba i značná legislativní práce a je škoda, že v Česku nemáme vůli vyjít testování autonomních vozidel vstříc.</p>
-
-<p>Další várku AI trendů přidám později v týdnu.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><summary type="html"><![CDATA[Začátek nového roku je vždy dobrou příležitostí zastavit se a zamyslet se nad tím, jaké trendy se do dalšího roku nejviditelněji propíšou. Dnes bych chtěl takové mírné zastavení udělat u umělé inteligence. Pojďme se podívat, jaký bude rok 2025 v oblasti AI jak celosvětově, tak z českého pohledu.]]></summary></entry></feed>
+<p>Tak ať to dopadne!</p>]]></content><author><name>Patrick Zandl</name></author><category term="Politika" /><category term="Piráti" /><summary type="html"><![CDATA[Rok 2024 pro mne měl několik momentů, pro který ho považuji za jeden z nejtěžších v mém životě, ačkoliv to celkově a osobně pro mě byl zároveň jeden z nejlepších roků mého života. Vynechávám teď fakt, že jsem měl padesáté narozeniny, ale to je přeci přípustný moment k ohlédnutí. Zejména tomu politickému.]]></summary></entry></feed>
