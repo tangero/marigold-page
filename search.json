@@ -10,6 +10,15 @@
     },
   
     {
+      "title"    : "Propojení Google Search Console s MCP - Komplexní průvodce",
+      "url"      : "//item/google-search-console-mcp-ai/",
+      "category" : "MCP, Google",
+      "tags"     : "",
+      "date"     : "27.3.2025",
+      "content"  : "Model Communication Protocol (MCP) představuje inovativní způsob, jak propojit AI asistenty s externími službami a nástroji. Google Search Console (GSC) je neocenitelný nástroj pro SEO analýzu a monitoring webových stránek. Propojení těchto dvou technologií otevírá vývojářům a SEO specialistům nové možnosti automatizace a efektivní práce s daty o výkonu webových stránek.Tento průvodce vám ukáže, jak implementovat integraci mezi Google Search Console a MCP pomocí otevřeného řešení dostupného na GitHubu od AminForou. Díky této integraci budete moci: Získávat data z Google Search Console přímo ve vašem AI asistentovi Analyzovat výkon webových stránek bez nutnosti přepínat mezi aplikacemi Automatizovat reporting a monitoring..."
+    },
+  
+    {
       "title"    : "🧠 AI nástroje pro programování - přehled",
       "url"      : "//item/ai-nastroje-programovani-prehled/",
       "category" : "AI, programování, vibe coding",
@@ -25865,7 +25874,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 184 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 65 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 184 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 66 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   

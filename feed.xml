@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-27T12:25:19+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Zapier MCP - Propojte AI asistenty s externími aplikacemi</title><link href="https://www.marigold.cz/item/zapier-mcp/" rel="alternate" type="text/html" title="Zapier MCP - Propojte AI asistenty s externími aplikacemi" /><published>2025-03-27T08:00:00+00:00</published><updated>2025-03-27T08:00:00+00:00</updated><id>https://www.marigold.cz/item/zapier-mcp</id><content type="html" xml:base="https://www.marigold.cz/item/zapier-mcp/"><![CDATA[<p>Oblíbená služba <a href="https://zapier.com/">Zapier</a> nedávno vydala podporu <a href="/ai/mcp/">MCP</a> (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier <a href="/ai/mcp/">MCP</a> je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-27T12:48:16+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Zapier MCP - Propojte AI asistenty s externími aplikacemi</title><link href="https://www.marigold.cz/item/zapier-mcp/" rel="alternate" type="text/html" title="Zapier MCP - Propojte AI asistenty s externími aplikacemi" /><published>2025-03-27T08:00:00+00:00</published><updated>2025-03-27T08:00:00+00:00</updated><id>https://www.marigold.cz/item/zapier-mcp</id><content type="html" xml:base="https://www.marigold.cz/item/zapier-mcp/"><![CDATA[<p>Oblíbená služba <a href="https://zapier.com/">Zapier</a> nedávno vydala podporu <a href="/ai/mcp/">MCP</a> (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier <a href="/ai/mcp/">MCP</a> je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.</p>
 
 <p><a href="/ai/mcp/">MCP</a> server funguje jako prostředník mezi AI asistentem a aplikacemi třetích stran. Díky tomuto řešení mohou AI asistenti interagovat s externími službami bez nutnosti složité integrace API. Podle Zapier jde o “nejrychlejší způsob, jak propojit vašeho AI asistenta s tisíci aplikací”. A pokud nevíte, co je to <a href="/ai/mcp/">MCP</a> a k čemu a jak jej použít, <a href="https://www.marigold.cz/ai/mcp/">přečtěte si článek zde</a>.</p>
 
@@ -52,7 +52,227 @@
 
 <p>Tato technologie by mohla výrazně zvýšit efektivitu vývojářů, kteří AI nástroje aktivně využívají, a posunout možnosti automatizace na novou úroveň. Zatím je však potřeba počítat s možnými omezeními a postupným vývojem této funkcionality.</p>
 
-<p>Přiznám se, že službu jsem  zatím zkoušel jen v Cursor, ne například v <a href="https://www.marigold.cz/ai/claude-code/">Claude Code</a>, které také MCP podporuje. Výslovně není jiný software zmíněn, ale také by neměly být vážné potíže. Sám sej se službou měl řadu potíží, komunikace s MCP haprovala a tak bych doporučil zatím počkat, než se vše usadí, pokud nejste vysloveně experimentátoři. Dobrý směr to ale je, protože nyní se začnou jistě rychle přidávat ostatní propojovatelé, jako Make.com…</p>]]></content><author><name>Patrick Zandl</name></author><category term="Zapier" /><category term="MCP" /><category term="vibe code" /><category term="AI" /><summary type="html"><![CDATA[Oblíbená služba Zapier nedávno vydala podporu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.]]></summary></entry><entry xml:lang="cs"><title type="html">🧠 AI nástroje pro programování - přehled</title><link href="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/" rel="alternate" type="text/html" title="🧠 AI nástroje pro programování - přehled" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-nastroje-programovani-prehled</id><content type="html" xml:base="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/"><![CDATA[<p><a href="/item/programovani-s-ai/">Programování s AI</a> začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.</p>
+<p>Přiznám se, že službu jsem  zatím zkoušel jen v Cursor, ne například v <a href="https://www.marigold.cz/ai/claude-code/">Claude Code</a>, které také MCP podporuje. Výslovně není jiný software zmíněn, ale také by neměly být vážné potíže. Sám sej se službou měl řadu potíží, komunikace s MCP haprovala a tak bych doporučil zatím počkat, než se vše usadí, pokud nejste vysloveně experimentátoři. Dobrý směr to ale je, protože nyní se začnou jistě rychle přidávat ostatní propojovatelé, jako Make.com…</p>]]></content><author><name>Patrick Zandl</name></author><category term="Zapier" /><category term="MCP" /><category term="vibe code" /><category term="AI" /><summary type="html"><![CDATA[Oblíbená služba Zapier nedávno vydala podporu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.]]></summary></entry><entry xml:lang="cs"><title type="html">Propojení Google Search Console s MCP - Komplexní průvodce</title><link href="https://www.marigold.cz/item/google-search-console-mcp-ai/" rel="alternate" type="text/html" title="Propojení Google Search Console s MCP - Komplexní průvodce" /><published>2025-03-27T00:00:00+00:00</published><updated>2025-03-27T00:00:00+00:00</updated><id>https://www.marigold.cz/item/google-search-console-mcp-ai</id><content type="html" xml:base="https://www.marigold.cz/item/google-search-console-mcp-ai/"><![CDATA[<p>Model Communication Protocol (<a href="/ai/mcp/">MCP</a>) představuje inovativní způsob, jak propojit AI asistenty s externími službami a nástroji. Google Search Console (GSC) je neocenitelný nástroj pro SEO analýzu a monitoring webových stránek. Propojení těchto dvou technologií otevírá vývojářům a SEO specialistům nové možnosti automatizace a efektivní práce s daty o výkonu webových stránek.</p>
+
+<p>Tento průvodce vám ukáže, jak implementovat integraci mezi Google Search Console a <a href="/ai/mcp/">MCP</a> pomocí otevřeného řešení dostupného na <a href="https://github.com/AminForou/mcp-gsc">GitHubu od AminForou</a>. Díky této integraci budete moci:</p>
+
+<ul>
+  <li>Získávat data z Google Search Console přímo ve vašem AI asistentovi</li>
+  <li>Analyzovat výkon webových stránek bez nutnosti přepínat mezi aplikacemi</li>
+  <li>Automatizovat reporting a monitoring klíčových SEO metrik</li>
+  <li>Implementovat datově řízené úpravy obsahu a SEO strategie</li>
+</ul>
+
+<h2 id="požadavky-pro-úspěšnou-integraci">Požadavky pro úspěšnou integraci</h2>
+
+<p>Před začátkem integrace se ujistěte, že máte připraveno:</p>
+
+<ol>
+  <li><strong>Google Search Console účet</strong> s přístupem k webovým stránkám, které chcete monitorovat</li>
+  <li><strong>Google Cloud projekt</strong> s povoleným Google Search Console API</li>
+  <li><strong>MCP server</strong> (například Zapier MCP)</li>
+  <li><strong>Cursor</strong> nebo jiného AI asistenta podporujícího MCP</li>
+  <li><strong>Node.js</strong> (verze 14 nebo novější) pro spuštění GSC konektoru</li>
+  <li><strong>Git</strong> pro klonování repozitáře</li>
+</ol>
+
+<h2 id="1-příprava-google-cloud-projektu-a-api-přístupu">1. Příprava Google Cloud projektu a API přístupu</h2>
+
+<h3 id="vytvoření-a-konfigurace-projektu-v-google-cloud">Vytvoření a konfigurace projektu v Google Cloud</h3>
+
+<ol>
+  <li>Přejděte na <a href="https://console.cloud.google.com/">Google Cloud Console</a></li>
+  <li>Vytvořte nový projekt nebo vyberte existující</li>
+  <li>V navigačním menu vyberte “APIs &amp; Services” &gt; “Library”</li>
+  <li>Vyhledejte “Google Search Console API” a aktivujte jej</li>
+  <li>Přejděte do sekce “Credentials” a vytvořte nové OAuth 2.0 přihlašovací údaje:
+    <ul>
+      <li>Typ aplikace: Web application</li>
+      <li>Název: MCP GSC Integration</li>
+      <li>Autorizované přesměrovací URI: <code class="language-plaintext highlighter-rouge">http://localhost:3000/oauth2callback</code></li>
+    </ul>
+  </li>
+  <li>Stáhněte vygenerovaný JSON soubor s přihlašovacími údaji</li>
+</ol>
+
+<h2 id="2-instalace-mcp-gsc-konektoru">2. Instalace MCP GSC konektoru</h2>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Klonování repozitáře</span>
+git clone https://github.com/AminForou/mcp-gsc.git
+<span class="nb">cd </span>mcp-gsc
+
+<span class="c"># Instalace závislostí</span>
+npm <span class="nb">install</span>
+
+<span class="c"># Kopírování konfiguračního souboru</span>
+<span class="nb">cp </span>config.example.json config.json
+</code></pre></div></div>
+
+<h2 id="3-konfigurace-mcp-gsc-konektoru">3. Konfigurace MCP GSC konektoru</h2>
+
+<p>Otevřete soubor <code class="language-plaintext highlighter-rouge">config.json</code> a upravte následující hodnoty:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"port"</span><span class="p">:</span><span class="w"> </span><span class="mi">3000</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"auth"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"clientId"</span><span class="p">:</span><span class="w"> </span><span class="s2">"YOUR_CLIENT_ID"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"clientSecret"</span><span class="p">:</span><span class="w"> </span><span class="s2">"YOUR_CLIENT_SECRET"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"redirectUri"</span><span class="p">:</span><span class="w"> </span><span class="s2">"http://localhost:3000/oauth2callback"</span><span class="w">
+  </span><span class="p">},</span><span class="w">
+  </span><span class="nl">"sites"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="s2">"https://www.vasestranka.cz"</span><span class="w">
+  </span><span class="p">],</span><span class="w">
+  </span><span class="nl">"mcpEndpoint"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://actions.zapier.com/mcp/YOUR_MCP_ID/sse"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<p>Nahraďte:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">YOUR_CLIENT_ID</code> a <code class="language-plaintext highlighter-rouge">YOUR_CLIENT_SECRET</code> hodnotami z vašeho Google Cloud projektu</li>
+  <li><code class="language-plaintext highlighter-rouge">https://www.vasestranka.cz</code> URL adresou vaší webové stránky registrované v Google Search Console</li>
+  <li><code class="language-plaintext highlighter-rouge">YOUR_MCP_ID</code> vaším unikátním identifikátorem ze Zapier MCP</li>
+</ul>
+
+<h2 id="4-autorizace-google-search-console-api">4. Autorizace Google Search Console API</h2>
+
+<p>Spusťte aplikaci a dokončete autorizační proces:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm start
+</code></pre></div></div>
+
+<ol>
+  <li>Při prvním spuštění se v konzoli zobrazí autorizační URL</li>
+  <li>Otevřete URL ve webovém prohlížeči</li>
+  <li>Přihlaste se ke Google účtu a udělte přístup k Search Console API</li>
+  <li>Po úspěšné autorizaci budete přesměrováni zpět na lokální server</li>
+  <li>V konzoli by se mělo zobrazit potvrzení úspěšné autorizace</li>
+  <li>Autorizační <a href="/ai/tokeny-versus-slova/">token</a> bude automaticky uložen pro budoucí použití</li>
+</ol>
+
+<h2 id="5-propojení-s-mcp-serverem-zapier">5. Propojení s MCP serverem (Zapier)</h2>
+
+<h3 id="nastavení-v-zapier-mcp">Nastavení v Zapier MCP</h3>
+
+<ol>
+  <li>Přejděte na <a href="https://zapier.com/mcp">Zapier MCP stránku</a></li>
+  <li>Klikněte na “Get Started” a zkopírujte svou unikátní MCP URL</li>
+  <li>Klikněte na “Edit MCP Actions” a vytvořte novou akci</li>
+  <li>Pojmenujte akci “Google Search Console Data”</li>
+  <li>Nastavte parametry akce:
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">site</code>: URL webu (STRING)</li>
+      <li><code class="language-plaintext highlighter-rouge">dateRange</code>: Rozsah dat (STRING: “last7days”, “last30days”, “last3months”)</li>
+      <li><code class="language-plaintext highlighter-rouge">dimensions</code>: Dimenze dat (STRING: “query”, “page”, “country”, “device”)</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="integrace-do-cursor-nebo-jiného-ai-asistenta">Integrace do Cursor (nebo jiného AI asistenta)</h3>
+
+<ol>
+  <li>Otevřete Cursor a přejděte do Settings &gt; MCP &gt; Add New MCP</li>
+  <li>Vložte MCP URL ze Zapier pod název “Google Search Console MCP”</li>
+  <li>Uložte nastavení</li>
+</ol>
+
+<h2 id="6-používání-gsc-dat-v-ai-asistentovi">6. Používání GSC dat v AI asistentovi</h2>
+
+<p>Po úspěšné integraci můžete začít využívat data z Google Search Console přímo ve vašem AI asistentovi. Zde jsou příklady typických dotazů:</p>
+
+<h3 id="základní-dotazy-na-výkon-webu">Základní dotazy na výkon webu</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Ukaž mi výkon mého webu z Google Search Console za posledních 30 dní.
+</code></pre></div></div>
+
+<h3 id="analýza-konkrétních-klíčových-slov">Analýza konkrétních klíčových slov</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Jaké jsou moje nejúspěšnější klíčová slova podle počtu kliknutí za poslední týden?
+</code></pre></div></div>
+
+<h3 id="identifikace-problémových-stránek">Identifikace problémových stránek</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Které stránky mají vysoký počet zobrazení, ale nízkou míru prokliku?
+</code></pre></div></div>
+
+<h3 id="analýza-trendů">Analýza trendů</h3>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Porovnej výkon mého webu v mobilních zařízeních oproti desktopům za poslední 3 měsíce.
+</code></pre></div></div>
+
+<h2 id="7-rozšířené-funkce">7. Rozšířené funkce</h2>
+
+<p>MCP GSC konektor nabízí několik pokročilých funkcí, které můžete využít:</p>
+
+<h3 id="vlastní-časové-rozsahy">Vlastní časové rozsahy</h3>
+
+<p>Kromě předdefinovaných rozsahů můžete použít vlastní časové období:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"startDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2025-01-01"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"endDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2025-03-26"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="filtry-dat">Filtry dat</h3>
+
+<p>Filtrování dat podle specifických kritérií:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"filters"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+    </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"dimension"</span><span class="p">:</span><span class="w"> </span><span class="s2">"page"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"operator"</span><span class="p">:</span><span class="w"> </span><span class="s2">"contains"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"expression"</span><span class="p">:</span><span class="w"> </span><span class="s2">"/blog/"</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">]</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="agregace-a-transformace-dat">Agregace a transformace dat</h3>
+
+<p>Konektor umožňuje základní agregaci a transformaci dat:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"aggregation"</span><span class="p">:</span><span class="w"> </span><span class="s2">"sum"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"groupBy"</span><span class="p">:</span><span class="w"> </span><span class="s2">"query"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h2 id="8-řešení-problémů">8. Řešení problémů</h2>
+
+<h3 id="problém-autorizační-chyba">Problém: Autorizační chyba</h3>
+
+<p><strong>Řešení:</strong> Ujistěte se, že máte správně nakonfigurované přesměrovací URI v Google Cloud Console. Pokud problém přetrvává, smažte soubor <code class="language-plaintext highlighter-rouge">[token](/ai/tokeny-versus-slova/).json</code> a proveďte autorizaci znovu.</p>
+
+<h3 id="problém-žádná-data-nejsou-dostupná">Problém: Žádná data nejsou dostupná</h3>
+
+<p><strong>Řešení:</strong> Ověřte, že webová stránka je správně registrována v Google Search Console a že máte dostatečná oprávnění. Některé nově přidané stránky nemusí mít okamžitě dostupná data.</p>
+
+<h3 id="problém-mcp-nepřijímá-požadavky">Problém: MCP nepřijímá požadavky</h3>
+
+<p><strong>Řešení:</strong> Zkontrolujte, zda je MCP server spuštěn a dostupný. Ujistěte se, že adresa v <code class="language-plaintext highlighter-rouge">config.json</code> odpovídá vaší unikátní MCP URL.</p>
+
+<h2 id="9-zabezpečení-a-best-practices">9. Zabezpečení a best practices</h2>
+
+<p>Při práci s GSC API a MCP dbejte na následující bezpečnostní opatření:</p>
+
+<ol>
+  <li><strong>Nikdy nesdílejte</strong> své OAuth přihlašovací údaje nebo tokeny</li>
+  <li>Pravidelně <strong>obnovujte přístupové tokeny</strong></li>
+  <li>Používejte pouze <strong>nezbytná oprávnění</strong> pro vaši aplikaci</li>
+  <li><strong>Omezujte rozsah požadavků</strong> na API, abyste předešli dosažení limitů</li>
+  <li>Implementujte <strong>rate limiting</strong> pro ochranu před zahlcením API</li>
+</ol>
+
+<h2 id="závěr">Závěr</h2>
+
+<p>Propojení Google Search Console s MCP otevírá nové možnosti pro automatizaci SEO analýz a datově řízených rozhodnutí. Díky této integraci získáváte přímý přístup k cenným datům o výkonu vašich webových stránek přímo ve vašem AI asistentovi, což vám umožňuje efektivněji pracovat a činit informovaná rozhodnutí.</p>
+
+<p>Pro nejnovější aktualizace a vylepšení sledujte <a href="https://github.com/AminForou/mcp-gsc">oficiální GitHub repozitář</a> a zapojte se do komunity přispěvatelů, kteří pomáhají toto řešení dále rozvíjet.</p>
+
+<hr />
+
+<p><em>Poznámka: Tento průvodce vychází z dokumentace dostupné k březnu 2025. Některé funkce se mohou měnit s novými aktualizacemi Google Search Console API nebo MCP protokolu.</em></p>]]></content><author><name>Patrick Zandl</name></author><category term="MCP" /><category term="Google" /><summary type="html"><![CDATA[Model Communication Protocol (MCP) představuje inovativní způsob, jak propojit AI asistenty s externími službami a nástroji. Google Search Console (GSC) je neocenitelný nástroj pro SEO analýzu a monitoring webových stránek. Propojení těchto dvou technologií otevírá vývojářům a SEO specialistům nové možnosti automatizace a efektivní práce s daty o výkonu webových stránek.]]></summary></entry><entry xml:lang="cs"><title type="html">🧠 AI nástroje pro programování - přehled</title><link href="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/" rel="alternate" type="text/html" title="🧠 AI nástroje pro programování - přehled" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-nastroje-programovani-prehled</id><content type="html" xml:base="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/"><![CDATA[<p><a href="/item/programovani-s-ai/">Programování s AI</a> začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.</p>
 
 <p>Tady se pokouším udělat větší seznam všech nástrojů. Musím říct, že použitelné AI nástroje se objevují teprve posledních několik měsíců, takže startovací pole je dost široké a každý den se vynořují nové a nové nástroje. Tento seznam pořizuju ne proto, abyste všechny nástroje prošli, ale abych si i sám udržel přehled.</p>
 
@@ -1996,234 +2216,4 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
   <li><a href="https://www.marigold.cz/item/rok-2025-v-ai/">První díl tohoto přehledu najdete zde</a>.</li>
   <li>přehled <a href="https://www.marigold.cz/ai/ai-sluzby-2025/">zajímavých AI služeb pro rok 2025</a></li>
   <li>moje <a href="/ai">online učebnice a rubrika Umělá inteligence</a></li>
-</ul>]]></content><author><name>Patrick Zandl</name></author><category term="Čína" /><category term="AI" /><category term="USA" /><category term="EU" /><category term="geopolitika" /><category term="regulace" /><category term="blogy" /><summary type="html"><![CDATA[V prvním díle jsme se dívali především na technologické změny v umělé inteligenci. Dnes se podíváme spíše na ty politické a ekonomické.]]></summary></entry><entry xml:lang="cs"><title type="html">Život a dílo Juliana Alfreda Pankratze, známého jako Marigold</title><link href="https://www.marigold.cz/item/marigold/" rel="alternate" type="text/html" title="Život a dílo Juliana Alfreda Pankratze, známého jako Marigold" /><published>2025-01-10T00:00:00+00:00</published><updated>2025-01-10T00:00:00+00:00</updated><id>https://www.marigold.cz/item/marigold</id><content type="html" xml:base="https://www.marigold.cz/item/marigold/"><![CDATA[<p>Julian Alfred Pankratz řečený Marigold, <strong>poutník, milovník, a především bard</strong>, jež se narodil v neznámém kraji a čase, zanechal v análech Kontinentu nesmazatelnou stopu a ve většíně příběhů o Zaklínačovi zůstává jeho jméno věčně spojeno s Geraltovým. Pojďme si shrnout, co o jeho životě víme.</p>
-
-<blockquote>
-  <p>Tady je na místě zminit, proč se tento web jmenuje Marigold. Web vytvořila Pavla původně pod jménem U loutny Marigoldovy a prodávala zde básně na zakázku. Jenže po značném obchodním úspěchu někdy koncem devadesátých let naznala, že odmítá komercionalizovat poezii a web přestala provozovat. Zbyla nám doména. A když jsem si pak někdy v roce 2003 chtěl udělat blog, tak jsem prostě doménové jméno použil. I proto, že zaklínačskou ságu miluji, mi to nebylo proti mysli. A tento životopis je splátka Marigoldovi.</p>
-</blockquote>
-
-<p><strong>Co všechno se o Marigoldovi dozvíte?</strong></p>
-<ul id="markdown-toc">
-  <li><a href="#raná-léta-a-setkání-s-geraltem" id="markdown-toc-raná-léta-a-setkání-s-geraltem">Raná léta a setkání s Geraltem</a></li>
-  <li><a href="#cesty-a-dobrodružství" id="markdown-toc-cesty-a-dobrodružství">Cesty a dobrodružství</a></li>
-  <li><a href="#lásky-a-ztráty" id="markdown-toc-lásky-a-ztráty">Lásky a ztráty</a></li>
-  <li><a href="#politické-intriky-a-válka" id="markdown-toc-politické-intriky-a-válka">Politické intriky a válka</a></li>
-  <li><a href="#zralá-léta" id="markdown-toc-zralá-léta">Zralá léta</a></li>
-  <li><a href="#seznam-známých-děl-marigolda" id="markdown-toc-seznam-známých-děl-marigolda">Seznam známých děl Marigolda:</a></li>
-  <li><a href="#marigoldův-vztah-k-ženám" id="markdown-toc-marigoldův-vztah-k-ženám">Marigoldův vztah k ženám</a></li>
-  <li><a href="#co-si-kdo-myslí-o-marigoldovi" id="markdown-toc-co-si-kdo-myslí-o-marigoldovi">Co si kdo myslí o Marigoldovi</a></li>
-  <li><a href="#citáty-a-výroky" id="markdown-toc-citáty-a-výroky">Citáty a výroky</a></li>
-  <li><a href="#marigoldův-odkaz" id="markdown-toc-marigoldův-odkaz">Marigoldův odkaz</a></li>
-</ul>
-
-<h3 id="raná-léta-a-setkání-s-geraltem">Raná léta a setkání s Geraltem</h3>
-
-<p>Marigoldova raná léta jsou zahalena tajemstvím. Ví se, že se <strong>vyhýbal nudnému životu</strong> a raději se oddával <strong>potulkám a umění</strong>. Je však známo, že Marigold navštěvoval Univerzitu v Oxenfurtu, prestižní vzdělávací instituci, kde údajně studoval sedm svobodných umění. Jeho neobyčejný talent a vášeň pro poezii a hudbu se však brzy projevily, a proto se rozhodl opustit formální vzdělávání a vydat se na cestu potulného trubadúra. Jeho poznatky získané na Univerzitě však zanechaly nesmazatelnou stopu v jeho pozdější tvorbě, která se vyznačuje propracovaností, sofistikovaností a propletením mnoha rozličných vlivů a tradic.</p>
-
-<p><strong>Jeho život nabral nový směr při setkání s Geraltem z Rivie</strong> roku 1262. Jejich první setkání v Guletě bylo plné <strong>útěku před rozzuřenými bratry dívky</strong>, kterou Marigold svedl. Tato událost zpečetila jejich osudové přátelství a první společnou cestu do Údolí květů.</p>
-
-<h3 id="cesty-a-dobrodružství">Cesty a dobrodružství</h3>
-
-<p>Marigold a Geralt se stali <strong>nerozlučnými společníky</strong>. Jejich cesty je zavedly do nejodlehlejších koutů světa, kde se setkali s monstry, čaroději a obyčejnými lidmi. Marigold <strong>získával inspiraci pro své balady</strong>, a Geralt, stoik s nečekaným citem pro poezii, <strong>trpělivě snášel jeho hlučnost</strong>.</p>
-
-<p>Jejich dobrodružství nebyla vždy bez rizika. Marigold se ocitl v nebezpečí, když nechtěně <strong>vysvobodil džina z pečetěné nádoby</strong>, a také čelil <strong>hrozbě od čarodějky Yennefer</strong>. Přesto si uchovával <strong>optimismus a smysl pro humor</strong>. I když se jejich cesty občas rozdělily, osud je vždy svedl znovu dohromady.</p>
-
-<h3 id="lásky-a-ztráty">Lásky a ztráty</h3>
-
-<p>Marigoldova srdce byla vždy otevřená novým zážitkům. Byl známý svými <strong>četnými románky</strong>. Jedna z jeho <strong>největších lásek byla s básnířkou Očko</strong>, jejíž <strong>tragická smrt ho hluboce zasáhla</strong>. Marigold, věrný svému bardskému poslání, <strong>nikdy nezapomněl na ty, které miloval</strong>. Jeho vztah s Očko ho přiměl k tomu, aby přehodnotil svůj životní postoj.</p>
-
-<h3 id="politické-intriky-a-válka">Politické intriky a válka</h3>
-
-<p>Marigold nebyl jen pasivním pozorovatelem dění. <strong>Vzhledem k jeho cestování se stal svědkem politických intrik a válečných hrůz</strong>. Jeho balady zachytily <strong>krutost nilfgaardské invaze</strong> a stal se <strong>cílem nelítostného mága Rience</strong>, který ho mučil kvůli informacím o Ciri. Marigoldovo <strong>jméno se stalo známým</strong> dokonce i mezi šlechtou, díky jeho vztahu s Geraltem, což ho <strong>často dostávalo do nepříjemností</strong>.</p>
-
-<h3 id="zralá-léta">Zralá léta</h3>
-
-<p>V pozdějších letech Marigold <strong>působil jako informátor pro Dijkstru</strong>, ačkoli <strong>jeho loajalita k Geraltovi nikdy neochabla</strong>. Nadále cestoval a skládal balady, reflektující jeho životní zkušenosti a osudy lidí, které potkal.</p>
-
-<h3 id="seznam-známých-děl-marigolda">Seznam známých děl Marigolda:</h3>
-
-<ul>
-  <li>“Zrození a smrt krále Rhyda z Malleore” - epická balada o povstání proti králi Rhydu.</li>
-  <li>“Zlatý drak” - balada o drakovi u Holopolí a zaklínačovi Geraltovi z Rivie.</li>
-  <li>“Očko” - zamilovaná balada o mořské víle a rytíři.</li>
-  <li>“Kvítek” - ukolébavka a oblíbené rozpočitadlo elfských dětí.</li>
-  <li>“Píseň o stříbrných šatech” - kuplet o šlechtici, který svou lásku projevil dárkem stříbrných šatů.</li>
-  <li>“Oheň na hrdle” - satirický kuplet o knězi Kreppovi.</li>
-  <li>“Poslední přání” - balada o zaklínačovi Geraltovi, čarodějce Yennefer a dětské Sudbě Cirille.</li>
-</ul>
-
-<h3 id="marigoldův-vztah-k-ženám">Marigoldův vztah k ženám</h3>
-
-<p>Zdroje poskytují informace o mnohých ženách, se kterými měl Marigold nějaký vztah, ať už romantický, nebo přátelský, a také popisují jeho celkový postoj k ženám obecně. Zde je seznam a charakteristika těchto žen a vztahů:</p>
-
-<ul>
-  <li><strong>Vrátná s dlouhými řasami a panenským copem:</strong> Marigold se s ní krátce bavil po příjezdu. Nenneke se na něj za to zlobila, protože si z ní udělal legraci. Vztah byl krátkodobý a založený na fyzické přitažlivosti, jak je patrné z Marigoldova popisu jejího vzhledu.</li>
-  <li><strong>Holka, kterou přefikl pod pódiem v Guletě:</strong> Tento vztah je zmíněn jako důvod, proč musel Marigold z Gulety rychle utéct. Měla čtyři urostlé bratry, kteří ho chtěli potrestat, což ukazuje na Marigoldovu lehkovážnost a sklon k riskování.</li>
-  <li><strong>Yennefer:</strong> Marigold má k Yennefer složitý vztah. Zdá se, že ji považuje za atraktivní, ale také se jí trochu bojí a nerespektuje ji. Dokonce se pokusil žertovat o jejím prvním sexuálním zážitku. <strong>Geralt a Marigold se shodují na tom, že Yennefer Marigolda nemá ráda</strong>. Marigold si myslí, že je Yennefer lhářka. Zdroje naznačují, že Marigold se snaží být s Yennefer zadobře, protože ji považuje za mocnou čarodějku, ale jejich vztah není přátelský.</li>
-  <li><strong>Essi Daven:</strong> Marigold má s Essi blízký, ale komplikovaný vztah. Nazývá ji Pacinko a zdá se, že ji má rád. Essi si přeje, aby ji Marigold neoslovoval Pacinko, a je jasné, že má o Geralta zájem. <strong>Marigold se o Essi vyjadřuje jako o “obyčejném děvčeti”</strong>. Zdroje také naznačují, že Essi je nadaná básnířka a zpěvačka, a Marigold ji obdivuje.  Marigold zřejmě žárlí, když vidí Geralta s Essi. Essi odejde bez ohlédnutí, když uvidí Marigolda a Geralta spolu. Marigold dal Essi perlu k narozeninám.</li>
-  <li><strong>Očko:</strong> Očko je zmíněna jako další zpěvačka a básnířka. Zdroje naznačují, že Očko je talentovaná, ale má drzý charakter. Zdá se, že Marigold ji zná, ale nemá k ní takový osobní vztah jako k Essi. <strong>Zdroje naznačují, že Očko zemřela na neštovice ve Wyzimě, a Marigold ji sám pohřbil</strong>.</li>
-  <li><strong>Kněžna Anarietta:</strong> Marigold popisuje kněžnu Anariettu velmi podrobně, ale není jasné, zda mezi nimi byl romantický vztah. Zdá se, že Marigold je s kněžnou v přátelském vztahu a ona si ho váží. Zdroje zmiňují, že s ní Marigold zůstal po jejich odjezdu. Marigold u ní pobývá a získává od ní koně pro Geralta a jeho společníky.</li>
-  <li><strong>Shani:</strong> Marigold ji potkává na univerzitě, kde studuje medicínu. Zdá se, že se znají a mají přátelský vztah. Shani je popisována jako mladá medička s rusými vlasy. Marigold se od ní nechává varovat před špehy. <strong>Marigold si při pohledu na Shani přeje složit o ní madrigal</strong>.</li>
-  <li>
-    <p><strong>Vespula:</strong> Marigold má s Vespulou komplikovaný vztah, kde ho ona pronásleduje kvůli jeho nevěře. Vespula ho nazývá “lumpe” a “čertovo kvítko”. Zdroje uvádějí, že Marigold má více snoubenek.</p>
-  </li>
-  <li><strong>Další ženy:</strong> Zdroje zmiňují i další, nepojmenované ženy, se kterými měl Marigold pletky. Například zmínka o služtičce v hospodě, kterou se Marigold snažil okouzlit, nebo o ženách v hampejzu. Tyto vztahy jsou spíše krátkodobé a povrchní.</li>
-</ul>
-
-<p><strong>Charakteristika Marigoldova vztahu k ženám obecně:</strong></p>
-<ul>
-  <li>Marigold je zobrazován jako <strong>lehkovážný a svůdný muž</strong>, který si užívá pozornosti žen. Často se zdá, že jeho vztahy s ženami jsou spíše povrchní a založené na fyzické přitažlivosti.. Je také patrné, že má sklon k <strong>nevěře</strong>.</li>
-  <li>Zdá se, že <strong>si Marigold zakládá na svém vzhledu a šarmu</strong>, a snaží se ženy okouzlit. Rád se předvádí a vypráví o svých dobrodružstvích. Je také patrné, že je poněkud <strong>sebestředný</strong>.</li>
-  <li>Zdroje naznačují, že Marigold <strong>není schopen hlubokého a trvalého vztahu</strong>. Jeho vztahy s ženami jsou často komplikované a plné zmatků.</li>
-  <li>Přesto se zdá, že má k některým ženám, jako je Essi, hlubší city. Ukazuje se, že je <strong>schopen i upřímného přátelství</strong> se ženami, jako je Shani.</li>
-  <li>Marigold má také <strong>specifický pohled na ženy</strong> a jejich roli ve společnosti. Zdroje naznačují, že má k ženám a jejich problémům pochopení.</li>
-  <li>Marigold je také zobrazen jako <strong>někdo, kdo má tendenci ženy romantizovat</strong> a dělat z nich hrdinky svých balad. Zdá se, že se mu líbí představa nešťastné lásky a obětování pro lásku..</li>
-</ul>
-
-<p>Celkově je Marigold zobrazen jako <strong>složitá postava</strong>, která má komplikovaný vztah k ženám. Je to svůdník a lehkoduch, ale také dokáže být laskavý a přátelský. Jeho vztahy s ženami jsou často zdrojem humoru a dramatu, a odrážejí jeho komplexní osobnost.</p>
-
-<h3 id="co-si-kdo-myslí-o-marigoldovi">Co si kdo myslí o Marigoldovi</h3>
-
-<p>Postavy v románu mají na Marigolda různé názory, které se odvíjejí od jejich osobních zkušeností a vztahů s ním. Zdroje nabízejí pohled na to, jak ho vnímají různé postavy:</p>
-
-<ul>
-  <li><strong>Geralt:</strong> Geralt a Marigold mají <strong>komplikovaný vztah</strong>. Přestože jsou přátelé a často spolu cestují, Geralt se o Marigoldovi často vyjadřuje s <strong>ironií a sarkasmem</strong>. Geralt si uvědomuje Marigoldovu <strong>lehkovážnost, sklon k problémům a nezodpovědný přístup k financím</strong>, ale také <strong>oceňuje jeho loajalitu a smysl pro humor</strong>. Geralt také <strong>ví, že Marigold je dobrý básník a má talent na vyprávění příběhů</strong>, což se mu občas hodí. Zdá se, že Geralt <strong>Marigolda považuje za přítele</strong>, ačkoli to otevřeně neříká.</li>
-  <li><strong>Yennefer:</strong> Yennefer Marigolda <strong>nemá ráda</strong>. Považuje ho za <strong>lehkovážného a otravného</strong>. Podle zdrojů si Yennefer myslí, že Marigold <strong>lže</strong>.</li>
-  <li><strong>Essi Daven:</strong> Essi Marigolda <strong>má ráda</strong>, i když ji občas <strong>rozčiluje jeho lehkovážnost</strong>. Touží po hlubším vztahu s Geraltem, ale je <strong>laskavá i k Marigoldovi</strong>. Zdá se, že <strong>obdivuje jeho básnické schopnosti</strong>, i když ho nazývá “obyčejným děvčetem”.</li>
-  <li><strong>Milwa:</strong> Milwa vnímá Marigolda jako <strong>slabého a neschopného bojovníka</strong>. I když jsou spolu na cestách, <strong>nebere Marigolda příliš vážně</strong>. Marigold se jí líbí fyzicky, ale jeho chování ji rozčiluje, a <strong>je k němu velmi kritická</strong>. Milwa má o Marigoldovi <strong>svůj vlastní názor</strong>, a to, že má <strong>štěstí na známosti</strong>, jako je ona. Milwa také <strong>nechápe Marigoldův vztah s Ciri</strong>, a domnívá se, že chce s císařem soupeřit o princezninu ruku.</li>
-  <li><strong>Dijkstra:</strong> Dijkstra považuje Marigolda za <strong>špeha</strong>. Zdá se, že Dijkstra nevěří Marigoldově upřímnosti a <strong>domnívá se, že má nějaké skryté úmysly</strong>. Zároveň si ale Dijkstra myslí, že Geralt považuje Marigolda za přítele a že se s ním proto dřív nebo později spojí, což se dá využít.</li>
-  <li><strong>Rience:</strong> Rience považuje Marigolda za <strong>užitečného kvůli jeho vztahu s Geraltem</strong>, a je <strong>ochoten ho mučit</strong>, aby z něj dostal informace.</li>
-  <li><strong>Obyčejní lidé:</strong> Obyčejní lidé vnímají Marigolda jako <strong>slavného básníka a trubadúra</strong>. Znají ho díky jeho baladám a vystoupením na slavnostech. Někteří z nich jsou jeho <strong>obdivovateli</strong>, zatímco jiní ho považují za <strong>šaška nebo povaleče</strong>. Zdroje naznačují, že Marigold je <strong>oblíbený</strong>.</li>
-  <li><strong>Půlčík Dainty:</strong> Dainty se <strong>Marigolda bojí</strong>. Když vidí Marigolda, <strong>je vyděšený</strong> a koktá.</li>
-  <li><strong>Elfové:</strong> Elfové, se kterými se Marigold setkává, ho <strong>vnímají spíše jako člověka, se kterým mohou manipulovat</strong>. Jsou k němu <strong>nedůvěřiví</strong>. V jednom případě byl Marigold s Geraltem <strong>elfy zajat</strong>.</li>
-  <li><strong>Kněžna Anarietta:</strong> Zdá se, že si kněžna Anarietta Marigolda <strong>váží</strong>.</li>
-  <li><strong>Trpaslíci:</strong> Trpaslíci, se kterými se Marigold setkává, ho <strong>považují za svého druha a parťáka</strong>. Oceňují jeho smysl pro humor a jeho schopnost skládat nestydatou poezii.</li>
-  <li><strong>Shani:</strong> Zdá se, že Marigold a Shani mají přátelský vztah.</li>
-  <li><strong>Nenneke</strong>: Nenneke se na Marigolda zlobí.</li>
-  <li><strong>Vespula</strong>: Vespula považuje Marigolda za <strong>“lumpa” a “čertovo kvítko”</strong>, a pronásleduje ho.</li>
-</ul>
-
-<p>Celkově lze říci, že vnímání Marigolda je <strong>různorodé a často rozporuplné</strong>. Některé postavy ho <strong>obdivují</strong>, jiné ho <strong>nemají rády</strong> a další ho berou jako <strong>zdroj zábavy či jako nástroj k dosažení vlastních cílů</strong>. Marigoldova <strong>komplexní osobnost a jeho lehkovážné chování</strong> způsobují, že na něj lidé reagují různými způsoby.</p>
-
-<h3 id="citáty-a-výroky">Citáty a výroky</h3>
-
-<p>Marigold je v románové sérii Zaklínač známý svými <strong>výraznými a často komickými výroky</strong>. Zde je výběr těch, které jsou zajímavé a důležité pro jeho charakter a příběh, s ohledem na zdroje:</p>
-
-<ul>
-  <li>
-    <p><strong>“Proso a komáři! To mi připomíná naši první společnou výpravu na konec světa,”</strong> Tento výrok, pronesený při vzpomínce na první společnou cestu s Geraltem, <strong>odhaluje Marigoldovu tendenci k dramatizaci a jeho smysl pro humor</strong> i v obtížných situacích.</p>
-  </li>
-  <li>
-    <p><strong>“A ty jsi skoro vyskočil z kalhot radostí, že máš konečně společníka. Do té doby sis cestou mohl povídat nanejvýš s kobylou.”</strong> Tato replika <strong>ukazuje na Marigoldovu schopnost vidět věci s odstupem a s humorem,</strong> a zároveň <strong>poukazuje na Geraltovu samotářskou povahu</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Znám také baladu o čeledínovi Yolopovi, který…”</strong> Tento výrok ukazuje Marigoldův <strong>sklon k vyprávění</strong> a odkazování na své <strong>básnické znalosti</strong>, i když to v dané situaci není příliš vhodné.</p>
-  </li>
-  <li>
-    <p><strong>“Inteligentně. S důvtipem. Například s nadháněči. Vyhnal bych čerta z houštiny a na rovném poli bych ho dohonil na koni a chytil do lasa. Co si o tom myslíš?”</strong> Marigold zde <strong>demonstruje svou představivost a sklon k teatrálnosti</strong> i v praktických záležitostech. Jeho <strong>sebevědomí a víra ve vlastní schopnosti</strong> jsou zde patrné, přestože jeho plány bývají často naivní.</p>
-  </li>
-  <li>
-    <p><strong>“Prvotní runy… Nejstarší písmo užívané před zavedením současné abecedy. Jeho základem jsou elfské runy a trpaslické ideogramy… Něco takového se dnes už často nevidí.”</strong> Tímto výrokem Marigold <strong>ukazuje své znalosti historie a jazyků</strong>, což <strong>kontrastuje s jeho obvyklým lehkovážným vystupováním</strong>. Zde se projevuje jeho <strong>intelektuální stránka</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Jednou se člověk rodí a jednou umírá,”</strong> pronese s hrdostí. Toto <strong>filozofické prohlášení</strong>, i když je proneseno s cvakajícími zuby ze strachu, <strong>ukazuje Marigoldovu snahu o hloubku a smysl</strong>, ačkoli je často v kontrastu s jeho praktickým chováním.</p>
-  </li>
-  <li>
-    <p><strong>“Mistr Marigold, nejslavnější básník v tomto kraji, navštívil tvůj špinavý lokál, krčmáři! Dostal totiž chuť napít se piva! Dokážeš ocenit poctu, jakou jsem ti projevil, vydřiduchu?”</strong> Tato věta <strong>odhaluje Marigoldovu teatrálnost a sebevědomí</strong>, které <strong>často hraničí s komičností</strong>. Jeho <strong>sklon k přehánění a teatrálním vstupům</strong> je zde zřetelný.</p>
-  </li>
-  <li>
-    <p><strong>“Slyšte tedy, vzácní pánové, co se týden tomu přihodilo opodál svobodného města, Holopole zvaného.”</strong> Tato fráze ukazuje, jak Marigold <strong>začíná své příběhy,</strong> a to <strong>vždy s určitou dávkou dramatu a poutavosti</strong>, aby <strong>zaujal posluchače</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Jak si přejete. Řečí vázanou či prostou?”</strong> Tato otázka <strong>ukazuje Marigoldovu všestrannost v komunikaci</strong> a jeho schopnost <strong>přizpůsobit se různým situacím</strong>, a to jak formálně, tak neformálně.</p>
-  </li>
-  <li>
-    <p><strong>“Víš toho o dopplerech hodně, Geralte… Opravdu hodně.”</strong> Tímto výrokem Marigold <strong>uznává Geraltovy znalosti a zkušenosti</strong> s nestvůrami, ale také <strong>ukazuje jeho vlastní schopnost vnímat detaily</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Nemáte někdo červenou mašli? Musíme ho nějak označit, jinak ho od toho pravého nerozeznáme.”</strong> Tato <strong>humorná poznámka</strong> ilustruje <strong>Marigoldův praktický, ale zároveň komický přístup</strong> k řešení problému s dopplerem.</p>
-  </li>
-  <li>
-    <p><strong>“Celého tě zabalíme do ovčího rouna. Projdeš branou s voláním: ‚Jsem ovečka, bééé, bééé.‘ Nikdo tě nepozná.”</strong> Tento nápad <strong>zachycuje Marigoldovu naivitu a absurdní humor</strong>, který se často projevuje v jeho návrzích řešení problémů.</p>
-  </li>
-  <li>
-    <p><strong>“Vida, nemáš tedy na vybranou, Dainty. Musíš se nenápadně vytratit z města.”</strong> Tímto výrokem Marigold <strong>demonstruje svou schopnost improvizovat</strong> a <strong>vymýšlet originální, byť často nepraktická řešení</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Heleď, Geralte, rybička. Celá červená, ať mě vezme čert! a tady malý úhoř. a tohle? Co je to? Vypadá to jako velikánská průzračná blecha. a tohle… Ó, bohové! Geraaaltééé!”</strong> Tímto výkřikem Marigold <strong>projevuje svůj úžas a hrůzu</strong> nad objevem lidské lebky, <strong>ukazuje jeho citlivou povahu</strong> a <strong>zároveň sklon k přehánění</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Pojď sem ke mně, Marigolde… Posaď se. a řekni mi všechno, co víš o Cintře. Všechno.”</strong> Geraltův požadavek na informace o Cintře ukazuje, že i <strong>Geralt oceňuje Marigoldovy znalosti a informace</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Jsi jako prázdné nádoby, pravím vám!… Nic a nic z páně Marigoldových balad jste nepochopili, nic jste se nenaučili.”</strong> Tento výrok, který <strong>paroduje kázání kněze,</strong> zdůrazňuje <strong>Marigoldovu pozici jako tvůrce a vypravěče</strong> s hlubším poselstvím. Ačkoli se to může zdát jako pouhé vychloubání, <strong>naznačuje i Marigoldovo uvědomění si důležitosti svého umění</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Méně metafor, víc faktů!”</strong> Tato replika <strong>ukazuje na Marigoldovu neschopnost držet se faktů</strong> a na jeho sklon k <strong>přehánění a metaforám</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Myslel jsem si to… Jsem tedy nucen vážené pány neprodleně následovat. Co naplat, pojďme. Vy napřed, já za vámi. Nechť v tomto případě krása přenechá čestné místo v čele šiku funkci.”</strong> Tento výrok <strong>odráží Marigoldův smysl pro humor</strong> a jeho <strong>schopnost zlehčovat i nebezpečné situace</strong>. Zároveň je v tom cítit i <strong>ironie a sarkasmus</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Musíš pokaždé zmrvit všechno, do čeho se pustíš? Nemůžeš alespoň jedenkrát v životě provést něco tak, jak je třeba?”</strong> Tímto povzdechem <strong>Dijkstra shrnuje Marigoldovu neschopnost a jeho sklon k dělání chyb</strong>, což <strong>odráží i pohled dalších postav na Marigolda</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Ačkoliv, jak se zdá, chápe, že je to práce jako každá jiná, opovrhuje těmi, kdo ji vykonávají. Nevěří příliš na vlastenecké pohnutky, zato tvrdí, že se na špionáž dávají podlé krysy a slizcí…”</strong> Marigold <strong>zde popisuje Geraltův pohled na špehy,</strong> což nepřímo <strong>charakterizuje i jeho vlastní pohled na svět</strong> a <strong>jeho morální zásady</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Jeď, až se nad říčkou zvedne mlha. Abys, víš co…”“V mlze není cíl tak jistý. Jestli budeš mít štěstí, mohla by tě divoženka minout. Ale jejich luky, milý pane…”</strong> Tento rozhovor s vojákem, který ho doprovází, poukazuje na to, jak i vojáci <strong>respektují Marigolda a jeho schopnost přežít v nebezpečných situacích</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Tato nedotčená krajina mi vpravdě poskytuje bezpočet estetických dojmů, ale pro změnu bych zase s radostí popatřil na nějakou méně estetickou hospodu.”</strong> Tímto výrokem Marigold <strong>vyjadřuje svůj sklon k pohodlí a civilizaci</strong>, a zároveň <strong>ukazuje svůj smysl pro humor a ironii</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Chceš nechat v lese spoutaného bezbranného člověka? Předpokládám, že jsi poznal někoho, s kým máš nevyřízené účty, ale je to přece zajatec, u ďasa! Byl vězněm lidí, kteří málem zabili i nás. Nepřítel našich nepřátel…”</strong> Tímto <strong>morálním apelem</strong> Marigold <strong>ukazuje svou empatii a smysl pro spravedlnost</strong>, i když <strong>stojí proti Geraltovi</strong>, a <strong>vyjadřuje svůj nesouhlas</strong> s jeho bezcitným jednáním.</p>
-  </li>
-  <li>
-    <p><strong>“Strach je lidský pocit. V nich už nic lidského nezůstalo.”</strong> Marigoldův komentář o marodérech, kteří se dopouštějí násilí, <strong>odhaluje jeho hluboký humanismus</strong> a <strong>odmítání brutality</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Svou budoucnost,”</strong> Odpověď na Milwinu otázku, co trpaslíci skrývají. Tato stručná odpověď, kterou doplní <strong>kradmý pohled přes rameno,</strong>  dokazuje, že Marigold má nejen <strong>pozorovací talent</strong>, ale i <strong>vědomí důležitosti svého postřehu</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Smyčka… Smyčka osudu.”</strong> Marigoldova reakce na Milwinu otázku o smyčce osudu ukazuje jeho <strong>zájem o metafyzické otázky</strong> a jeho <strong>vnímavost k hlubším významům života</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Fuj! Co kdybyste se přestali vybavovat o smyčkách a oprátkách. Kdysi mi jedna elfka předpověděla, že opustím tohle slzavé údolí na popravčím lešení s přispěním mistra málodobrého. Sice takovému dryáčnickému věštění nevěřím, ale předminulou noc jsem měl sen, že mě věšejí. Probudil jsem se úplně zpocený, nemohl jsem polknout slinu a málem ani popadnout dech. Tak se nedivte, že teď nerad poslouchám řeči o oprátkách.”</strong> Tento výrok odhaluje Marigoldův <strong>strach a pověrčivost</strong>, ale také jeho <strong>smysl pro humor a schopnost zlehčovat i vážné situace</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Jenom tohle vám pořád straší v palicích,”</strong> reaguje Marigold na trpaslíky, když komentují kořeny mandragory, a <strong>ukazuje tím, že je unavený</strong> jejich neustálými sexuálními narážkami.</p>
-  </li>
-  <li>
-    <p><strong>“Možná se tu dá koupit něco na zub. Percivale, rozhlédni se po táboře a využij svého nosu. Najíme se tam, kde nejlépe vaří.”</strong> Tato poznámka je typická pro Marigolda, protože <strong>ukazuje jeho zájem o dobré jídlo a pohodlí</strong>, které vyhledává i v náročných situacích.</p>
-  </li>
-  <li>
-    <p><strong>“Nestřílééét! Jsme vaši!”</strong> Tento zoufalý výkřik v nebezpečné situaci odhaluje, jak <strong>Marigold jedná v krizových okamžicích</strong>, a <strong>demonstruje jeho snahu o přežití</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Miluji tě, Růžičko.”</strong> Marigoldovo oslovení Ciri poukazuje na <strong>jeho hlubokou náklonnost a citlivost</strong>. Marigold je <strong>empatický</strong> a <strong>váží si přátelství</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Ten, kdo má za sebou padesát let zkušeností, je zákonitě zvetšelý sedmdesátiletý staroch se sklerotickou hlavou, který by měl pohodlně sedět na verandě a pouštět větry. Takový když se dá do diktování memoárů, lidé se mu leda vysmějí. Já podobnou hloupost neudělám, napíšu své paměti předem, na vrcholu tvůrčích sil. Později, před publikací, učiním jen finální úpravy.”</strong> Tento monolog odhaluje Marigoldovu <strong>sebevědomou a komickou povahu</strong>, jeho <strong>smysl pro ironii</strong> a jeho <strong>plány ohledně vlastních pamětí</strong>, které si chce napsat na vrcholu sil.</p>
-  </li>
-  <li>
-    <p><strong>“Oprav mě, pokud se mýlím… Tahle holčina, kterou jsi tak ochotně a bezstarostně přijal.”</strong> Marigold vyjadřuje <strong>skeptický postoj</strong> k Angouleme. Marigold <strong>je opatrný</strong>, když jde o cizí lidi v jejich skupině.</p>
-  </li>
-  <li>
-    <p><strong>“Nic se nestalo… Jen malé přátelské škádlení. Drobná rozepře. Už je zažehnána.”</strong> Marigold se <strong>snaží zmírnit napětí</strong> a <strong>zlehčit situaci</strong> po konfliktu s Milwou, což <strong>ukazuje na jeho snahu o udržení harmonie</strong> ve skupině.</p>
-  </li>
-  <li>
-    <p><strong>“Hrome! To se musí spravit! Vždyť se na těch schodech někdo může zabít! To by bylo neštěstí!”</strong> Marigoldův <strong>bezprostřední a komický komentář</strong> na popravišti <strong>ukazuje jeho strach z vlastní smrti</strong>, ale i <strong>jeho sklon k rozptylování pozornosti od nebezpečí</strong>.</p>
-  </li>
-  <li>
-    <p><strong>“Bozi uchovejte,”</strong> pronese Marigold s úctou. Marigold <strong>se bojí o svůj život</strong> v kontextu s pohledem na vyhnance.</p>
-  </li>
-</ul>
-
-<p>Tyto výroky odrážejí Marigoldovu povahu – je to básník, komik, vypravěč, přítel i opatrný člověk, který se v nebezpečných situacích snaží zachovat si nadhled a humor. Jeho výroky jsou <strong>klíčové pro pochopení jeho role v příběhu</strong> a <strong>jeho vztahů k ostatním postavám</strong>.</p>
-
-<h3 id="marigoldův-odkaz">Marigoldův odkaz</h3>
-
-<p>Marigold byl víc než jen bard. Byl <strong>kronikářem svého času</strong>, který <strong>svými písněmi uchovával vzpomínky na hrdiny i padouchy</strong>. Jeho balady se staly součástí kulturního dědictví a nadále <strong>inspirují další generace</strong>, čímž si zajistil nesmrtelnost, kterou si každý umělec přeje.</p>
-
-<p>Tento životopis je pokusem zachytit komplexní osobnost Marigolda, čerpající z útržků informací, které se o něm dochovaly v historických pramenech. Jeho život je důkazem, že <strong>i v temných dobách, světlo umění a přátelství může být majákem naděje</strong>.</p>]]></content><author><name>Patrick Zandl</name></author><category term="Osobní" /><summary type="html"><![CDATA[Julian Alfred Pankratz řečený Marigold, poutník, milovník, a především bard, jež se narodil v neznámém kraji a čase, zanechal v análech Kontinentu nesmazatelnou stopu a ve většíně příběhů o Zaklínačovi zůstává jeho jméno věčně spojeno s Geraltovým. Pojďme si shrnout, co o jeho životě víme.]]></summary></entry></feed>
+</ul>]]></content><author><name>Patrick Zandl</name></author><category term="Čína" /><category term="AI" /><category term="USA" /><category term="EU" /><category term="geopolitika" /><category term="regulace" /><category term="blogy" /><summary type="html"><![CDATA[V prvním díle jsme se dívali především na technologické změny v umělé inteligenci. Dnes se podíváme spíše na ty politické a ekonomické.]]></summary></entry></feed>
