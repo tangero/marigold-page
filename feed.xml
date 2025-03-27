@@ -1,58 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-27T07:11:00+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html"></title><link href="https://www.marigold.cz/item/2025-03-27-zapier-mcp/" rel="alternate" type="text/html" title="" /><published>2025-03-27T07:11:00+00:00</published><updated>2025-03-27T07:11:00+00:00</updated><id>https://www.marigold.cz/item/2025-03-27-zapier-mcp</id><content type="html" xml:base="https://www.marigold.cz/item/2025-03-27-zapier-mcp/"><![CDATA[<p><a href="https://zapier.com/">Zapier</a> nedávno vydal novou službu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.</p>
-
-<p>MCP server funguje jako prostředník mezi AI asistentem a aplikacemi třetích stran. Díky tomuto řešení mohou AI asistenti interagovat s externími službami bez nutnosti složité integrace API. Podle Zapier jde o “nejrychlejší způsob, jak propojit vašeho AI asistenta s tisíci aplikací”. A pokud nevíte, co je to MCP a k čemu a jak jej použít, <a href="https://www.marigold.cz/ai/mcp/">přečtěte si článek zde</a>.</p>
-
-<h2 id="jak-nastavit-zapier-mcp-s-cursor">Jak nastavit Zapier MCP s Cursor</h2>
-
-<p>Nastavení propojení mezi Zapier MCP a vývojářským nástrojem Cursor zahrnuje několik jednoduchých kroků:</p>
-
-<ol>
-  <li><strong>Získání unikátního URL</strong>
-    <ul>
-      <li>Navštivte stránku <a href="https://zapier.com/mcp">zapier.com/mcp</a></li>
-      <li>Klikněte na tlačítko “Get Started”</li>
-      <li>Zkopírujte vygenerovanou unikátní URL adresu vašeho MCP serveru</li>
-    </ul>
-  </li>
-  <li><strong>Konfigurace v Cursor</strong>
-    <ul>
-      <li>Otevřete Cursor a přejděte do Settings → MCP → Add New MCP</li>
-      <li>Vložte zkopírovanou URL adresu do pole “url”</li>
-      <li>V konfiguračním souboru se vytvoří nová položka s názvem “Zapier Actions MCP”</li>
-    </ul>
-  </li>
-  <li><strong>Nastavení akcí</strong>
-    <ul>
-      <li>Vraťte se na web Zapier a klikněte na “Edit MCP Actions”</li>
-      <li>Zde můžete přidat a nakonfigurovat libovolné nástroje a služby pro váš Cursor</li>
-    </ul>
-  </li>
-</ol>
-
-<h2 id="možnosti-využití">Možnosti využití</h2>
-
-<p>Zapier MCP teoreticky nabízí širokou škálu možností propojení, včetně:</p>
-
-<ul>
-  <li><strong>Generování a správa obrázků</strong> - integrace s grafickými nástroji a úložišti</li>
-  <li><strong>Správa projektů</strong> - propojení s nástroji jako Jira, Asana nebo Trello</li>
-  <li><strong>E-mailová komunikace</strong> - integrace s Gmailem a dalšími poskytovateli</li>
-  <li><strong>Notifikace</strong> - vytváření upozornění na základě AI interakcí</li>
-</ul>
-
-<p>Podle příkladu v dokumentu je jednou z funkcí možnost odesílání e-mailů prostřednictvím Gmailu přímo z prostředí Cursor.</p>
-
-<h2 id="aktuální-omezení">Aktuální omezení</h2>
-
-<p>Služba je zatím velmi čerstvá a pár dní po spuštění zdaleka ne všechny integrace fungovaly. Musíte si s tím trochu pohrát, v době psaní tohoto článku (březen 2025) bylo vše dosti syrové a určené spíše k ladění. Ačkoliv koncept propojení AI nástrojů s externími aplikacemi přes MCP je zajímavý, implementace může být stále v počáteční fázi s řadou technických problémů.</p>
-
-<h2 id="význam-pro-vývojáře">Význam pro vývojáře</h2>
-
-<p>Pro vývojáře pracující s AI asistenty představuje MCP potenciálně významný krok k rozšíření schopností těchto nástrojů. Místo omezení se na pouhé generování kódu by AI asistenti mohli v budoucnu přímo interagovat s vývojářskými nástroji, databázemi a cloudovými službami. Což je přesně to, co MCP umožňuje. A prostup do jiných ekosystému přes Zapier by bylo velmi vítané, nemuseli byste čekat, až tyto služby uvolní (a pokud vůbec) svoje MCP!</p>
-
-<p>Tato technologie by mohla výrazně zvýšit efektivitu vývojářů, kteří AI nástroje aktivně využívají, a posunout možnosti automatizace na novou úroveň. Zatím je však potřeba počítat s možnými omezeními a postupným vývojem této funkcionality.</p>
-
-<p>Přiznám se, že službu jsem  zatím zkoušel jen v Cursor, ne například v <a href="https://www.marigold.cz/ai/claude-code/">Claude Code</a>, které také MCP podporuje. Výslovně není jiný software zmíněn, ale také by neměly být vážné potíže. Sám sej se službou měl řadu potíží, komunikace s MCP haprovala a tak bych doporučil zatím počkat, než se vše usadí, pokud nejste vysloveně experimentátoři. Dobrý směr to ale je, protože nyní se začnou jistě rychle přidávat ostatní propojovatelé, jako Make.com…</p>]]></content><author><name>Patrick Zandl</name></author></entry><entry xml:lang="cs"><title type="html">🧠 AI nástroje pro programování - přehled</title><link href="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/" rel="alternate" type="text/html" title="🧠 AI nástroje pro programování - přehled" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-nastroje-programovani-prehled</id><content type="html" xml:base="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/"><![CDATA[<p>Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-27T07:28:56+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">🧠 AI nástroje pro programování - přehled</title><link href="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/" rel="alternate" type="text/html" title="🧠 AI nástroje pro programování - přehled" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-nastroje-programovani-prehled</id><content type="html" xml:base="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/"><![CDATA[<p>Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.</p>
 
 <p>Tady se pokouším udělat větší seznam všech nástrojů. Musím říct, že použitelné AI nástroje se objevují teprve posledních několik měsíců, takže startovací pole je dost široké a každý den se vynořují nové a nové nástroje. Tento seznam pořizuju ne proto, abyste všechny nástroje prošli, ale abych si i sám udržel přehled.</p>
 
@@ -2226,4 +2172,74 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
 
 <p>Marigold byl víc než jen bard. Byl <strong>kronikářem svého času</strong>, který <strong>svými písněmi uchovával vzpomínky na hrdiny i padouchy</strong>. Jeho balady se staly součástí kulturního dědictví a nadále <strong>inspirují další generace</strong>, čímž si zajistil nesmrtelnost, kterou si každý umělec přeje.</p>
 
-<p>Tento životopis je pokusem zachytit komplexní osobnost Marigolda, čerpající z útržků informací, které se o něm dochovaly v historických pramenech. Jeho život je důkazem, že <strong>i v temných dobách, světlo umění a přátelství může být majákem naděje</strong>.</p>]]></content><author><name>Patrick Zandl</name></author><category term="Osobní" /><summary type="html"><![CDATA[Julian Alfred Pankratz řečený Marigold, poutník, milovník, a především bard, jež se narodil v neznámém kraji a čase, zanechal v análech Kontinentu nesmazatelnou stopu a ve většíně příběhů o Zaklínačovi zůstává jeho jméno věčně spojeno s Geraltovým. Pojďme si shrnout, co o jeho životě víme.]]></summary></entry></feed>
+<p>Tento životopis je pokusem zachytit komplexní osobnost Marigolda, čerpající z útržků informací, které se o něm dochovaly v historických pramenech. Jeho život je důkazem, že <strong>i v temných dobách, světlo umění a přátelství může být majákem naděje</strong>.</p>]]></content><author><name>Patrick Zandl</name></author><category term="Osobní" /><summary type="html"><![CDATA[Julian Alfred Pankratz řečený Marigold, poutník, milovník, a především bard, jež se narodil v neznámém kraji a čase, zanechal v análech Kontinentu nesmazatelnou stopu a ve většíně příběhů o Zaklínačovi zůstává jeho jméno věčně spojeno s Geraltovým. Pojďme si shrnout, co o jeho životě víme.]]></summary></entry><entry xml:lang="cs"><title type="html">Zúčtování s rokem 2024 a nahlížení do politiky verze 50</title><link href="https://www.marigold.cz/item/osobni-politicke-ohlednuti-2025/" rel="alternate" type="text/html" title="Zúčtování s rokem 2024 a nahlížení do politiky verze 50" /><published>2025-01-10T00:00:00+00:00</published><updated>2025-01-10T00:00:00+00:00</updated><id>https://www.marigold.cz/item/osobni-politicke-ohlednuti-2025</id><content type="html" xml:base="https://www.marigold.cz/item/osobni-politicke-ohlednuti-2025/"><![CDATA[<p>Rok 2024 pro mne měl několik momentů, pro který ho považuji za jeden z nejtěžších v mém životě, ačkoliv to celkově a osobně pro mě byl zároveň jeden z nejlepších roků mého života. Vynechávám teď fakt, že jsem měl padesáté narozeniny, ale to je přeci přípustný moment k ohlédnutí. Zejména tomu politickému.</p>
+
+<p>A protože byl rok 2024 ponaučením, po kterém jsem vždycky toužil, zapisuji si jej pro sebe i pro všechny, koho by zajímalo téma „může být v Česku dobře“.</p>
+
+<p>Přeskočím mnoho let až do roku 2024. Ano, příště se možná podíváme k tomu, jak a proč jsem se k politice vlastně dostal a rozhodl se jí věnovat. Zjednodušeně řečeno ale proto, že v jeden moment mi došlo, že „kdo jiný, když ne my, kdy jindy, když ne teď“ - došlo mi, že spoléhat se na to, že jsou kolem jiní chytří, kteří to zařídí, nejde donekonečna. Že už je to na nás, být těmi chytrými, kdo věci posouvají. A že je moje povinnost začít něco společnosti vracet.</p>
+
+<p>Letos v květnu jsem byl po necelých dvou letech odvolán z postu místostarosty města. Příběh byl banální, podtrhla nás koaliční  ODS, <a href="https://mistostarosti.substack.com/p/posledni-mistostarosti-aneb-staroboleslavska">detailněji jsem o tom již dříve psal</a>. Tím momentem jsem přestal mít vliv na chod města. Bylo to zásadní ponaučení:</p>
+
+<blockquote>
+  <p>Ponaučení 1: V politice se počítá jen to, co jste dodělali. Vize, rozpracované a připravené projekty, promyšlené strategie jsou v momentě vašeho odchodu jen cár papíru. To je také důvod, proč je nikdo nedělá, i kdyby je uměl dělat. Pravděpodobnost, že se dožije jejich uvedení v chod, je pramalá.</p>
+</blockquote>
+
+<p>Druhý silný moment byl, když jsem si uvědomil, že tím momentem jsem také okamžitě ztratil příjem. V politice není žádná výpovědní lhůta, jen při dlouhém odslouženém mandátu je tam nějaké malé „odchodné“, ale zpravidla nedostanete nic nebo měsíční plat. Kdybych neměl vlastní rezervy z dřívějška a vedlejší aktivitu, kterou jsem mohl rychle rozšířit, byl bych finančně namydlený, ve stresu - a tím také vydíratelný. Je to téma na dlouho, u mne komplikovanější tím, že jsem se věci snažil dělat poctivě a léta rozprodával svoje potenciálně kolizní aktivity. Ale zjednodušeně řečeno český systém financování politiků spíše tlačí ke korupci i hromadění funkcí, protože nikdy nevíte, kdy vám která funkce skončí.</p>
+
+<blockquote>
+  <p>Ponaučení 2.: V politice musíte mít vedlejší příjem nebo velkou rezervu, abyste se udrželi v optimální pozici pro získání a výkon takové funkce a nebyli vydíratelní. Náš špatný systém odchodů politiků vede k zadřenému nereformovatelnému systému.</p>
+</blockquote>
+
+<p>Jen pro ilustraci: záznamů jsem si spočítal, že měsíční náklady místostarosty města vůči nákladům šéfa vývoje v tisícihlavé firmě jsou o cca deset tisíc měsíčně vyšší. Paradox? Někdy se nad ním podrobněji zastavíme. Dělat v politické funkci ale není vůbec levné.</p>
+
+<p>Třetí silný moment byl, když jsem se kvůli projektu, jenž dělám pro jednu skandinávskou vládu dostal do detailního kontaktu s úřady i samosprávou ve Skandinávii a Německu. Překvapení byla trojí. Tím prvním vysoká metodičnost zahraniční samosprávy. Například jsem si nechal od Finů vysvětlit, jak řeší údržbu silnic a vyložil jsem jim náš model. Koukali na mě úplně vyplesknutě a pravili, že jsme úžasní. Že si to vůbec neumí představit, že by to dělali, jako my, že to by ty silnice nezvládli vůbec udržovat v provozuschopném stavu. Finská metodika zjednodušeně řečeno znamená 2x ročně projet všechny obecní silnice, zaznamenat jejich stav a spočítat koeficient degradace. Přiřadit k nim koeficient obslužnosti (tedy to, kolik aut a nákladu jaké důležitosti se po té silnici dopravuje) a spočítat náklady na provedení údržby. Porovnáním těchto několika čísel vypadne tabulka, ve které jsou seřazené silnice, jejich prevenční a údržbové práce a podle toho se jede. Ptám se „co když na nějakou silnici nezbudou peníze?“. Odpovědí mi byl údiv: jak mohou nezbýt peníze? Když se silnice stavěla, tak se počítalo s tím, že každý rok se do její údržby musí proinvestovat cca 3 % její pořizovací hodnoty, aby nechátrala. Silnice se musí impregnovat, musí se zadělávat díry dříve, než zateče voda hlouběji a udělá větší díry. Prostě jste nemohli stavět silnici, aniž byste si nedali do všech dalších rozpočtů peníze na její údržbu.</p>
+
+<p>Takhle se ale vůbec, řečeno s Goethem, v Česku nezvykne uvažovat!</p>
+
+<p>Další skandinávský wow moment byl, jak prestižní práce pro stát zde jsou. Být skandinávský městský úředník (nemluvím o politikovi) je prestižní práce. Být skandinávský učitel je prestižní práce. Jak by ne - když za skandinávským úředníkem přijdete, kdy se bude opravovat silnice u vás v ulici, vyndá tabulku a řekne, že za tři měsíce proběhne půldenní impregnační zátěr prasklin. Když se zeptáte českého, tak řekne, že neví, protože politici se ještě nerozhodli a že je přeci ještě docela sjízdná a stejně se pak bude opravovat rok, až na ni přijde řada. Zcela rozdílný dojem. Plus také platový - a to je velmi podstatná stránka. Český úřednický stav je mimo jiné radikálně podinvestovaný.  Jenže obojí není chyba těch úředníků, věru není.</p>
+
+<blockquote>
+  <p>Ponaučení 3.: Kde není systém a dlouhodobá metodičnost, nelze očekávat výsledky. Stále vynalézat kolo je únavné a neinovativní. A bez systému nelze očekávat důvěru ve fungování, protože chaotické systémy důvěru nepřinášejí.</p>
+</blockquote>
+
+<p>A třetí skandinávský wow moment? Plynul z těch dvou předchozích. Naprostá odbornost a schopnost věci posouvat i ve státní správě a samosprávě. Dělali jsme projekt pro školství, ve spolupráci s ministerstvem, vládní vzdělávací agenturou, místními neziskovkami, školami a zřizovateli (obce), prostě hromada těch, co by v Česku mohli „hodit vidle“. Projekt měl startovat v několika regionech se začátkem školního roku, nakonec se o měsíc posouval kvůli neshodám se školami. Myslel jsem si, že školy projekt odmítly a nechtěly se ho účastnit. Ve skutečnosti byla agentura zahlcena stížnostmi regionů a škol, které nebyly do pilotu vybrány. To si vůbec v Česku neumím představit - tady samozřejmě pohledáte jednotlivé osvícené školy, ale plošně si to představit opravdu neumím. Řešení? Šéf projektu se na jednání zachmuřil a pravil, že to projedná a rozhodne. Já jsem automaticky v duchu projekt odložil o rok. Řešení se dojednalo a rozhodlo během tří týdnů, kdy se ministerstvo zavázalo projekt buďto po vyhodnocení pilotu zrušit nebo harmonogramově zavést do tří let plošně. A pak se šlo do sauny…</p>
+
+<blockquote>
+  <p>Ponaučení 4.: Bez samostatně jednajících lidí v politice, kteří mají důvěru, se věci kupředu neposunou.</p>
+</blockquote>
+
+<p>Další silné momenty přišly na podzim 2024. Ty mi jen doplnily dojmy z květnového komunálního dění. ODS znovu podtrhla koaličního partnera, tentokráte celoplošně. Obchodní zájmy některých částí strany byly přednější, než politický posun republiky kupředu.  Pro mě to byla veliká deziluze, do té doby jsem ještě stále věřil, že v politice jsme schopni dělat pragmatické posuny kupředu bez politického pozadí. Že jsme schopni provést reformy, na kterých panuje shoda a které jsou obecně užitečné vpravo/vlevo. Nejsme. Česko stojí za prvé na politické polarizaci, kdy vyhranění se proti straně, proti níž budete ještě letos stát ve volbách (každý rok jsou!), je důležitější, než posun toho, co jste slíbili voličům všichni. Za druhé na tom, že řada témat není pravo/levých, ale progresivně/konzervativních, přičemž takto křídla existují ve všech stranách, takže je často jednodušší domluvit se s podobně progresivním politikem z jiné strany, než s konzervativce ze strany vlastní.</p>
+
+<blockquote>
+  <p>Ponaučení 5: Politicky jsme zamrzli. Vzájemná politická konkurence a obchodní zájmy jsou důležitější, než posun republiky kupředu. Upřednostnit republiku znamená zmařit své politické šance na znovuzvolení.</p>
+</blockquote>
+
+<p>Horizontem těchto událostí bylo <a href="/item/vysledek-a-memento-piratskych-voleb/">rozštěpení v Pirátské straně s volbou nového předsedy</a>. Považoval jsem za normální, že se vyslovím na jednu či druhou stranu a svou volbu zdůvodním, patří to podle mě k demokratickému průběhu. Jenže nepodpořená část strany začala bojovat kydáním špíny úplně stejně, jako dříve konkurenční politici. Adopce těchto postupů se stranám nevyhýbá. A jak je možné něco posouvat, když se nemůžete spolehnout ani na vlastní? Ponaučení jsem z toho zatím neudělal.</p>
+
+<p>Situace vygradovala se <a href="/item/ivo-lukacovic-ovlivnuje-seznam-zpravy/">skandálem kolem “nakolejování” Seznam Zpráv</a>. Připomenu: majitel Seznamu Ivo Lukačovič tehdy vytvořil situaci <em>(jejiž interpretace se liší)</em>, v níž byli vyhozeni dva novináři za to, že chtěli na datech ukázat to, jak ve skutečnosti probíhá digitalizace stavebního řízení. Jak se později ukázalo, jimi získaná a ověřená data se nehodily do stávající rámcové interpretace, v níž bylo možné dostat Piráty z vlády. Majitel Seznamu tak <em>(více či méně přímo, interpretace se liší)</em> zasáhl do chodu zpravodajství a zabránil publikování informací, které se nehodily do jeho vidění světa. Což bylo přesně to, co dříve sliboval neudělat. Dříve existovala teze „hodného oligarchy“, který přispívá k chodu společnosti tím, že provozuje nezaujatá média. Nakonec byl z těch, kdo po „mediálním jaderném kufříku“ sáhli mezi prvními. Pro mne osobně tohle bylo obrovské zklamání, zrovna v tomto případě jsem nevěřil, že se to stane. SeznamZprávy se tak zařadily mezi klasická vlivová média oligarchů, která kopou za jejich vizi světa stejně, jako ta jiná.</p>
+
+<blockquote>
+  <p>Ponaučení 6: Pokud někdo může něco využít pro svoje zájmy, dříve či později to udělá. Představa, že nějaká média dnes „pískají rovinu“ je mylná.</p>
+</blockquote>
+
+<p>Únavní jsou všichni lidé kolem vás, kteří nejlépe vědí, že tohle nepůjde, nepůjde to změnit, k ničemu to není, děláte to zbytečně. Ale ty jsou jen únavní a je ještě docela snadné je neposlouchat. Naprosto demotivující jsou lidé, kteří jsou agresivní, nadávají vám, náváhají vám napsat, že vám rozbijou hubu, až vás potkají i s vaší rodinou. Lidé, u kterých nevíte, jestli to máte opravdu čekat, nebo jen žvaní. Lidé, před kterými musíte být ostražitý, pro co sahají do kapsy. Lidé, kteří vás aktivně pomlouvají a zcela neznámí lidé, kteří na vás útočí. Všude, na sociálních sítích, v novinách, na ulici. Agresivně, vulgárně a hned vám vyhrožují, ačkoliv jste udělali jediné, řekli svůj názor a případně začali něco zcela legálního dělat. Říkáte si, jestli tohle máte zapotřebí. Jestli byste neudělal lépe i pro sebe i pro rodinu, kdybyste v klidu za násobky peněz chodili do práce, vždyť ten svět stejně shoří, tak proč se při tom aspoň nemít dobře. Opravdu ale nemáme na vyšší cíle?</p>
+
+<p>Vrcholem toho pak byl předloni Anton Fischer alias Anton Cvešperk, jehož <a href="https://www.irozhlas.cz/zpravy-domov/vydirani-loupez-omezovani-osobni-svobody-policie-obvinila-provozovatele_2411150825_nel">syn si na mne s dvěma kumpány počkal</a>, aby se mnou vyúčtoval to, že jsem jim ve městě zařídil odstranění jejich černého podnikání s billboardy. Kdyby tehdy rychle nepřijela policie, kdo ví, co by se stalo, už jsem byl po rvačce v bezvědomí. I taková je komunální politika v Česku.</p>
+
+<p>Všechno to mne vede k omluvě panu Radkovi Pokornému. Před lety vyjadřoval značnou skepsi k tomu, že by společnost byla ve stavu, kdy jsme schopni z Česka vytvořit něco lepšího. Tehdy jsem sebevědomě tvrdil, že jsme. Že vytvoříme.</p>
+
+<p>Pane Pokorný, omlouvám se, měl jste pravdu.</p>
+
+<p>Nejsme.</p>
+
+<p>Nevytvoříme.</p>
+
+<p>Potrvá desetiletí, než vybředneme z marastu, do kterého jsme se dostali my sami, nikdo jiný, nikdo z venku.</p>
+
+<p>Závěr je ode mne tedy depresivní. Sám jsem nakonec na několik dní odcestoval do Olomlouce do kláštera, abych tam v klášterní cele strávil pár dní odpojený od světa i sítí. Už jsem měl pochybnosti i o tom, jestli dokážu něco soustavného psát, zda už na to nejsem příliš vyhořelý. A tehdy jsem vzal blok a rukou na papír jsem napsal knihu, kterou nikdy nevydám.</p>
+
+<p>A po ní už doma dodělal svou <a href="/mobilnisite">učebnici mobilních sítí</a> a <a href="/ai/">umělé inteligence</a>.</p>
+
+<p>Rok 2025 bude rokem zajímavým. Zda pro vás štastným, bude záležet na mnohém.</p>
+
+<p>Tak ať to dopadne!</p>]]></content><author><name>Patrick Zandl</name></author><category term="Politika" /><category term="Piráti" /><summary type="html"><![CDATA[Rok 2024 pro mne měl několik momentů, pro který ho považuji za jeden z nejtěžších v mém životě, ačkoliv to celkově a osobně pro mě byl zároveň jeden z nejlepších roků mého života. Vynechávám teď fakt, že jsem měl padesáté narozeniny, ale to je přeci přípustný moment k ohlédnutí. Zejména tomu politickému.]]></summary></entry></feed>

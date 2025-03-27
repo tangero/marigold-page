@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "",
-      "url"      : "//item/2025-03-27-zapier-mcp/",
-      "category" : "",
-      "tags"     : "",
-      "date"     : "27.3.2025",
-      "content"  : "Zapier nedávno vydal novou službu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.MCP server funguje jako prostředník mezi AI asistentem a aplikacemi třetích stran. Díky tomuto řešení mohou AI asistenti interagovat s externími službami bez nutnosti složité integrace API. Podle Zapier..."
-    },
-  
-    {
       "title"    : "🧠 AI nástroje pro programování - přehled",
       "url"      : "//item/ai-nastroje-programovani-prehled/",
       "category" : "AI, programování, vibe coding",
