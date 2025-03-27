@@ -8,6 +8,11 @@ layout: post
 post_excerpt: Jak lépe zpracovávat podklady, které generuje Google Search Console
   a jak jim lépe rozumět pomocí AI? Integrovat Search Consoli pomocí Model Communication
   Protocol.
+summary_points:
+- MCP propojuje AI asistenty s externími nástroji, například Google Search Console.
+- Integrace GSC a MCP automatizuje SEO analýzu a reporting webových stránek.
+- Implementace vyžaduje Google Cloud projekt, aktivované GSC API a MCP server.
+- Konektor umožňuje vlastní časové rozsahy, filtry a agregaci dat z GSC.
 thumbnail: https://www.m3estrategia.com/wp-content/uploads/2020/03/google-search-console-m3.jpg
 title: Propojení Google Search Console s MCP - Komplexní průvodce
 ---
