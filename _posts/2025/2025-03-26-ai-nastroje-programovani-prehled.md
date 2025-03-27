@@ -4,13 +4,18 @@ audiooff: false
 author: Patrick Zandl
 categories:
 - AI
-- "programov\xE1n\xED"
+- programování
 - vibe coding
 layout: post
-post_excerpt: "P\u0159ehled AI n\xE1stroj\u016F pro programov\xE1n\xED a vibe coding\
-  \ podle jejich pou\u017Eit\xED, zam\u011B\u0159en\xED a v\xFDhod."
+post_excerpt: Přehled AI nástrojů pro programování a vibe coding podle jejich použití,
+  zaměření a výhod.
+summary_points:
+- AI programování získává popularitu, nové nástroje se objevují denně.
+- Claude Code doporučen pro skripty, Databutton pro webové aplikace s milestony.
+- Cursor a Windsurf vhodné pro zkušené vývojáře s prostředím Visual Studio Code.
+- Seznam obsahuje 33 AI nástrojů pro programování s různými funkcemi a cenami.
 thumbnail: https://www.marigold.cz/assets/ai-development.png
-title: "\U0001F9E0 AI n\xE1stroje pro programov\xE1n\xED - p\u0159ehled"
+title: "\U0001F9E0 AI nástroje pro programování - přehled"
 ---
 
 Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.
@@ -183,7 +188,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
 ### 17. [Webdraw](https://webdraw.com/)
 - **Funkce**:
   - AI generátor UI komponent pro webové aplikace
-  - Převádí skici a popisy do kódu (HTML/CSS) [oai_citation_attribution:3‡Introduction | Continue](https://docs.continue.dev/getting-started/overview?utm_source=marigold)
+  - Převádí skici a popisy do kódu (HTML/CSS) 
   - Umožňuje rychlé prototypování uživatelských rozhraní
 - **Vhodné pro**: Designéry a vývojáře bez hlubokých znalostí kódu
 - **Cenový model**: Bezplatná verze s prémiovými funkcemi
@@ -212,9 +217,9 @@ A teď už pojďme na přehled, pořadí je náhodné!
 
 ### 20. [Continue](https://www.continue.dev/)
 - **Funkce**:
-  - Open-source plugin pro VS Code a JetBrains [oai_citation_attribution:4‡GitHub](https://github.com/continuedev/continue?utm_source=marigold)
+  - Open-source plugin pro VS Code a JetBrains 
   - Umožňuje vytvářet, sdílet a používat vlastní AI asistenty pro kódování
-  - Poskytuje chat, automatické doplňování a editaci kódu [Continue](https://docs.continue.dev/getting-started/overview?utm_source=marigold)
+  - Poskytuje chat, automatické doplňování a editaci kódu 
 - **Vhodné pro**: Vývojáře hledající přizpůsobitelné AI asistenty
 - **Cenový model**: Bezplatný
 
@@ -232,7 +237,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
 
 ### 22. [Base44](https://base44.com/)
 - **Funkce**:
-  - AI agent pro budování interních nástrojů [Free AI App Generator](https://webdraw.com/?utm_source=marigold)
+  - AI agent pro budování interních nástrojů 
   - Umožňuje vytvářet vlastní software bez kódování
   - Poskytuje nástroje pro monitorování interakcí a konfiguraci nastavení [BASE44 - AI-Powered Software Development](https://base44.com/apps/ai-agent-framework-60fda1db?utm_source=marigold)
 - **Vhodné pro**: Firmy hledající rychlé řešení pro interní aplikace
@@ -257,7 +262,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
   - Umožňuje spolupráci s velkými jazykovými modely (LLM) na úpravách kódu ve vašem lokálním git repozitáři
   - Podporuje práci s existujícími projekty i vytváření nových
   - Automaticky provádí commity s rozumnými zprávami
-  - Kompatibilní s modely jako GPT-4 a Claude 3.5 Sonnet [oai_citation_attribution:0‡Reddit](https://www.reddit.com/r/emacs/comments/1fwwjgw/introduce_aider_ai_programming_in_terminal_and/?utm_source=marigold)
+  - Kompatibilní s modely jako GPT-4 a Claude 3.5 Sonnet 
 - **Vhodné pro**: Vývojáře hledající AI asistenci přímo v terminálu
 - **Cenový model**: Open-source
 

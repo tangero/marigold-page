@@ -1,13 +1,19 @@
 ---
 audio_url: null
 author: Patrick Zandl
-date: 2025-03-22 22:00:00
 categories:
 - Claude
 - Anthropic
 - vibe code
 - AI
+date: 2025-03-22 22:00:00
 layout: post
+summary_points:
+- Claude Code podporuje rozšířené myšlení aktivované příkazy "think" pro plánování
+  úkolů.
+- Vim mód umožňuje zkušeným vývojářům úpravu promptů pomocí slash příkazu `/vim`.
+- Vlastní slash příkazy se vytvářejí Markdown soubory v adresářích `.claude/commands/`.
+- Claude Code nabízí web fetch, auto-accept, automatické doplňování cest a auto-compact.
 thumbnail: https://www.marigold.cz/assets/claude-code-user.png
 title: Nové funkce v Claude Code pro programování s AI
 ---
@@ -118,4 +124,4 @@ npm install -g @anthropic-ai/claude-code
 
 Claude Code se stále vyvíjí a tým za ním slibuje v nadcházejících týdnech další nové funkce. S těmito vylepšeními se Claude Code stává ještě silnějším nástrojem pro vývojáře, kteří chtějí využít sílu AI při svém každodenním vývoji.
 
-> 💡 Co je Claude Code a jak vám pomůže při vývoji software? Detailnější popis [jsme si přinesli zde](/ai/claude-code/). 
+> 💡 Co je Claude Code a jak vám pomůže při vývoji software? Detailnější popis [jsme si přinesli zde](/ai/claude-code/).
