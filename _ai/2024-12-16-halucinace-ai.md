@@ -15,9 +15,9 @@ __Co konkrétně se v tomto článku dozvíte?__
 
 Tyto [halucinace](/ai/halucinace-ai/) představují zásadní problém zejména v oblastech, kde je vyžadována absolutní přesnost a důvěryhodnost, jako jsou právní dokumenty, medicínské diagnózy či technické specifikace. Přestože se jedná o poměrně známý fenomén, pochopení jeho vzniku, možností detekce a opatření proti němu je klíčové pro efektivní a odpovědné nasazování pokročilých AI systémů.
 
-### Co jsou halucinace v kontextu umělé inteligence?
+### Co jsou [halucinace](/ai/halucinace-ai/) v kontextu umělé inteligence?
 
-Halucinací nazýváme situaci, kdy model, trénovaný zejména na predikci dalšího symbolu v sekvenci, vyprodukuje nesprávný či zcela vymyšlený obsah. Jde tedy o „faktografické omyly“ nebo smyšlené informace bez opory v tréninkových datech či kontextu. Halucinace se mohou pohybovat od drobných chyb v datech, například nesprávné citace, až po zcela vykonstruované a neexistující teorie či skutečnosti. Uživatel, který takový výstup obdrží, může mylně nabýt dojmu, že je model spolehlivým zdrojem pravdivých informací.
+[Halucinací](/ai/halucinace-ai/) nazýváme situaci, kdy model, trénovaný zejména na predikci dalšího symbolu v sekvenci, vyprodukuje nesprávný či zcela vymyšlený obsah. Jde tedy o „faktografické omyly“ nebo smyšlené informace bez opory v tréninkových datech či kontextu. Halucinace se mohou pohybovat od drobných chyb v datech, například nesprávné citace, až po zcela vykonstruované a neexistující teorie či skutečnosti. Uživatel, který takový výstup obdrží, může mylně nabýt dojmu, že je model spolehlivým zdrojem pravdivých informací.
 
 ### Proč halucinace vznikají?
 
@@ -39,7 +39,7 @@ Kumulativní nejistota v dlouhých sekvencích představuje další kritický fa
 
 ### Nedostatek kontextu
 
-Omezená kontextová délka představuje fundamentální limitaci současných architektur. Modely pracují s fixním kontextovým oknem, jsou schopny si tedy „zapamatovat“ kolem řešeného problému typicky několik tisícovek slov, typicky několika tisíc tokenů, což omezuje jejich schopnost udržet konzistenci napříč delšími texty. Informace mimo toto okno jsou efektivně zapomenuty, což může vést k vnitřním kontradikcím v generovaném obsahu.
+Omezená kontextová délka představuje fundamentální limitaci současných architektur. Modely pracují s fixním kontextovým oknem, jsou schopny si tedy „zapamatovat“ kolem řešeného problému typicky několik tisícovek slov, typicky několika tisíc [tokenů](/ai/tokeny-versus-slova/), což omezuje jejich schopnost udržet konzistenci napříč delšími texty. Informace mimo toto okno jsou efektivně zapomenuty, což může vést k vnitřním kontradikcím v generovaném obsahu.
 
 ### Nekvalitní výuková data
 

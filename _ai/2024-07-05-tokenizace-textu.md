@@ -14,11 +14,11 @@ Jak tokenizace probíhá krok za krokem ...
 
 1. Předzpracování textu - probíhá odstranění nepotřebných znaků a formátování. Následně dojde k normalizaci textu (např. převod na malá písmena).
 2. Segmentace - tedy rozdělení textu na menší jednotky (slova, podslova, znaky).
-3. Normalizace [tokenů](/ai/tokeny-versus-slova/) - úprava tokenů do standardní formy
-4. Vytvoření slovníku - sestavení seznamu unikátních tokenů
+3. Normalizace [tokenů](/ai/tokeny-versus-slova/) - úprava [tokenů](/ai/tokeny-versus-slova/) do standardní formy
+4. Vytvoření slovníku - sestavení seznamu unikátních [tokenů](/ai/tokeny-versus-slova/)
 5. Indexace - Přiřazení číselných identifikátorů každému tokenu
 
-Tokenizace textu a jeho následná vektorizace jsou klíčové procesy v oblasti zpracování přirozeného jazyka (NLP), které umožňují převést lidsky čitelný text do formy srozumitelné pro strojové učení a neuronové sítě. Tento článek se zaměří na tyto procesy s důrazem na specifika českého jazyka.
+Tokenizace textu a jeho následná vektorizace jsou klíčové procesy v oblasti zpracování přirozeného jazyka (NLP), které umožňují převést lidsky čitelný text do formy srozumitelné pro [strojové učení](/ai/strojove-uceni-machine-learning/) a [neuronové sítě](/ai/neuronove-site/). Tento článek se zaměří na tyto procesy s důrazem na specifika českého jazyka.
 
 Začněme s naším příkladovým textem: *"Lil jsem vodu ze skleničky do lahve, dokud nebyla plná."* Prvním krokem je tokenizace, tedy rozdělení textu na menší jednotky zvané tokeny. V případě češtiny je tento proces komplexnější než u analytických jazyků jako je angličtina, a to především kvůli bohaté morfologii a flexibilitě slovosledu.
 
@@ -39,7 +39,7 @@ Pro tokeny, které nejsou běžnými slovy, jako je interpunkce, se často použ
 
 Je důležité poznamenat, že moderní jazykové modely jako BERT nebo GPT často používají metodu tokenizace na podslova (subword tokenization). Ta by náš text mohla rozdělit ještě jemněji, například "skleničky" na "sklen" a "ičky". Tato metoda umožňuje efektivněji pracovat s méně častými slovy a složeninami.
 
-Poslední krok zahrnuje sestavení těchto vektorových reprezentací do formy vhodné pro vstup do neuronové sítě. To může znamenat zarovnání všech vět na stejnou délku pomocí padding tokenů, nebo použití maskovacích technik pro efektivní zpracování sekvencí různých délek.
+Poslední krok zahrnuje sestavení těchto vektorových reprezentací do formy vhodné pro vstup do [neuronové sítě](/ai/neuronove-site/). To může znamenat zarovnání všech vět na stejnou délku pomocí padding tokenů, nebo použití maskovacích technik pro efektivní zpracování sekvencí různých délek.
 
 Tento proces tokenizace a vektorizace je základním kamenem pro další zpracování textu v úlohách jako je strojový překlad, analýza sentimentu nebo generování textu. Umožňuje převést bohatou a komplexní strukturu lidského jazyka do matematicky zpracovatelné formy, která zachovává klíčové lingvistické a sémantické informace.​​​​​​​​​​​​​​​​
 

@@ -1,70 +1,83 @@
-/*
- * NÁVOD K SOUBORU POJMY.JSON
- * =========================
- * 
- * Tento soubor obsahuje definice klíčových pojmů pro automatické linkování v článcích.
- * 
- * FORMÁT:
- * [
- *   {
- *     "keyword": "Hlavní klíčové slovo", (povinné)
- *     "variations": ["Varianta1", "Varianta2"], (nepovinné - vynechte nebo ponechte prázdné pole)
- *     "link": "/cílová/url/" (povinné)
- *   },
- *   ...
- * ]
- *
- * PRAVIDLA:
- * - Čárky mezi objekty jsou povinné, kromě posledního objektu v poli
- * - Povinná jsou pouze pole "keyword" a "link"
- * - Pole "variations" je nepovinné a může být vynecháno
- * - Pro vnitřní odkazy používejte relativní cesty začínající lomítkem, např. "/kategorie/clanek/"
- * - Pro externí odkazy používejte absolutní URL (včetně https://)
- * 
- * Při zpracování bude automaticky propojen pouze první výskyt daného slova v článku.
- * Existující odkazy nebudou přepsány.
- */
-
-[
-  {
-    "keyword": "MCP",
-    "variations": ["Model Context Protocol"],
-    "link": "/ai/mcp/"
-  },
-  {
-    "keyword": "Claude Code",
-    "link": "/ai/claude-code/"
-  },
-  {
-    "keyword": "Word2vec",
-    "link": "/ai/word2vec/"
-  },
-  {
-    "keyword": "DeepSeek",
-    "link": "/item/deepseek/"
-  },
-  {
-    "keyword": "CUDA",
-    "link": "https://cs.wikipedia.org/wiki/CUDA"
-  },
-  {
-    "keyword": "token",
-    "variations": ["tokeny", "tokenů"],
-    "link": "/ai/tokeny-versus-slova/"
-  },
-  {
-    "keyword": "transformátory",
-    "variations": ["transformátorů", "transformers"],
-    "link": "/ai/transformatory/"
-  },
-  {
-    "keyword": "halucinace",
-    "variations": ["halucinací", "halucinuuje"],
-    "link": "/ai/halucinace-ai/"
-  },
-  {
-    "keyword": "AI agenti",
-    "variations": ["autonomní agenti", "AI agent", "Agenti v AI", "Agent v AI", "autonomní agent"],
-    "link": "/ai/agenti/"
-  }
-]
+{
+  "_comment": [
+    "NÁVOD K SOUBORU POJMY.JSON",
+    "=========================",
+    "",
+    "Tento soubor obsahuje definice klíčových pojmů pro automatické linkování v článcích.",
+    "",
+    "FORMÁT:",
+    "  {",
+    "    \"keyword\": \"Hlavní klíčové slovo\", (povinné)",
+    "    \"variations\": [\"Varianta1\", \"Varianta2\"], (nepovinné - vynechte nebo ponechte prázdné pole)",
+    "    \"link\": \"/cílová/url/\" (povinné)",
+    "  }",
+    "",
+    "PRAVIDLA:",
+    "- Čárky mezi objekty jsou povinné, kromě posledního objektu v poli",
+    "- Povinná jsou pouze pole \"keyword\" a \"link\"",
+    "- Pole \"variations\" je nepovinné a může být vynecháno",
+    "- Pro vnitřní odkazy používejte relativní cesty začínající lomítkem, např. \"/kategorie/clanek/\"",
+    "- Pro externí odkazy používejte absolutní URL (včetně https://)",
+    "",
+    "Při zpracování bude automaticky propojen pouze první výskyt daného slova v článku.",
+    "Existující odkazy nebudou přepsány."
+  ],
+  "keywords": [
+    {
+      "keyword": "MCP",
+      "variations": ["Model Context Protocol"],
+      "link": "/ai/mcp/"
+    },
+    {
+      "keyword": "Claude Code",
+      "link": "/ai/claude-code/"
+    },
+    {
+      "keyword": "Word2vec",
+      "link": "/ai/word2vec/"
+    },
+    {
+      "keyword": "DeepSeek",
+      "link": "/item/deepseek/"
+    },
+    {
+      "keyword": "CUDA",
+      "link": "https://cs.wikipedia.org/wiki/CUDA"
+    },
+    {
+      "keyword": "token",
+      "variations": ["tokeny", "tokenů"],
+      "link": "/ai/tokeny-versus-slova/"
+    },
+    {
+      "keyword": "transformátory",
+      "variations": ["transformátorů", "transformers"],
+      "link": "/ai/transformatory/"
+    },
+    {
+      "keyword": "halucinace",
+      "variations": ["halucinací", "halucinuuje"],
+      "link": "/ai/halucinace-ai/"
+    },
+    {
+      "keyword": "AI agenti",
+      "variations": ["autonomní agenti", "AI agent", "Agenti v AI", "Agent v AI", "autonomní agent"],
+      "link": "/ai/agenti/"
+    },
+    {
+      "keyword": "neuronové sítě",
+      "variations": ["neuronová síť", "neuronka"],
+      "link": "/ai/neuronove-site/"
+    },
+    {
+      "keyword": "strojové učení",
+      "variations": ["strojového učení", "machine learning"],
+      "link": "/ai/strojove-uceni-machine-learning/"
+    },
+    {
+      "keyword": "vibe coding",
+      "variations": ["programování s AI"],
+      "link": "/item/programovani-s-ai/"
+    }
+  ]
+}

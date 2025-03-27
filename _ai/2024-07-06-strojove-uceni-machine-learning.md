@@ -1,14 +1,14 @@
 ---
-layout: post
-title: "Úvod do strojového učení - Machine Learning"
 date: 2024-07-06
-order: 4 
 hide: true
+layout: post
+order: 4
+title: Úvod do strojového učení - Machine Learning
 ---
 
-Strojové učení je poddisciplína umělé inteligence (AI), která se zabývá vývojem algoritmů umožňujících počítačům se samostatně učit z dat. Namísto explicitního programování počítače na vyřešení konkrétního problému mu poskytujeme data a necháme jej, aby si z těchto dat vytvořil vlastní modely a pravidla, které použije při rozhodování. Tento proces umožňuje strojům přizpůsobit se novým situacím a zlepšovat svou výkonnost na základě zkušeností. Jeho podstatnou výhodou také je, že počítač může v datech tímto způsobem vidět souvislosti, které nás nenapadly a tím dojít k inovativním závěrům. To by v momentě, kdybychom mu výslovně řekli, jak má při zpracování dat postupovat, nebylo možné. 
+[Strojové učení](/ai/strojove-uceni-machine-learning/) je poddisciplína umělé inteligence (AI), která se zabývá vývojem algoritmů umožňujících počítačům se samostatně učit z dat. Namísto explicitního programování počítače na vyřešení konkrétního problému mu poskytujeme data a necháme jej, aby si z těchto dat vytvořil vlastní modely a pravidla, které použije při rozhodování. Tento proces umožňuje strojům přizpůsobit se novým situacím a zlepšovat svou výkonnost na základě zkušeností. Jeho podstatnou výhodou také je, že počítač může v datech tímto způsobem vidět souvislosti, které nás nenapadly a tím dojít k inovativním závěrům. To by v momentě, kdybychom mu výslovně řekli, jak má při zpracování dat postupovat, nebylo možné. 
 
-## Typy strojového učení
+## Typy [strojového učení](/ai/strojove-uceni-machine-learning/)
 
 Existují tři hlavní typy strojového učení: učení s učitelem, učení bez učitele a učení posilováním.
 
@@ -61,7 +61,7 @@ Klasické strojové učení zahrnuje použití algoritmů, jako jsou lineární 
 
 ### Hluboké učení. - Deep Learning
 
-Hluboké učení je podmnožinou strojového učení, která využívá neuronové sítě s mnoha vrstvami (tzv. hluboké neuronové sítě). Tyto modely jsou schopny se naučit velmi složité vztahy a vzory v datech, což je činí ideálními pro úlohy, jako je rozpoznávání obrazu, přirozeného jazyka nebo generování textu.
+Hluboké učení je podmnožinou strojového učení, která využívá [neuronové sítě](/ai/neuronove-site/) s mnoha vrstvami (tzv. hluboké [neuronové sítě](/ai/neuronove-site/)). Tyto modely jsou schopny se naučit velmi složité vztahy a vzory v datech, což je činí ideálními pro úlohy, jako je rozpoznávání obrazu, přirozeného jazyka nebo generování textu.
 
 Podívejme se na pár příkladů, kde se používá klasické strojové učení a kde je vhodné naopak hluboké učení. 
 

@@ -24,9 +24,9 @@ Oblíbená služba [Zapier](https://zapier.com/) nedávno vydala podporu [MCP](/
 
 [MCP](/ai/mcp/) server funguje jako prostředník mezi AI asistentem a aplikacemi třetích stran. Díky tomuto řešení mohou AI asistenti interagovat s externími službami bez nutnosti složité integrace API. Podle Zapier jde o "nejrychlejší způsob, jak propojit vašeho AI asistenta s tisíci aplikací". A pokud nevíte, co je to [MCP](/ai/mcp/) a k čemu a jak jej použít, [přečtěte si článek zde](https://www.marigold.cz/ai/mcp/). 
 
-## Jak nastavit Zapier MCP s Cursor
+## Jak nastavit Zapier [MCP](/ai/mcp/) s Cursor
 
-Nastavení propojení mezi Zapier MCP a vývojářským nástrojem Cursor zahrnuje několik jednoduchých kroků:
+Nastavení propojení mezi Zapier [MCP](/ai/mcp/) a vývojářským nástrojem Cursor zahrnuje několik jednoduchých kroků:
 
 1. **Získání unikátního URL**
    - Navštivte stránku [zapier.com/mcp](https://zapier.com/mcp)

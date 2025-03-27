@@ -1,8 +1,11 @@
 ---
+categories:
+- 5G
+- 5G-Advanced
+- Mobilní sítě
+date: 2024-12-16
 layout: post
 title: Vývoj síťové architektury 3GPP -  Od GSM přes 3G a LTE k 5G Advanced
-date: 2024-12-16
-categories: [5G, 5G-Advanced, Mobilní sítě]
 ---
 
 Pokud mají moderní mobilní sítě nabízet zrychlení, znamená to mimo jiné, že je potřeba zjednodušovat jejich architekturu, neboť vzájemná komunikace jednotlivých komponent generuje prodlevy, jež uživatelům nevyhovují. Zjednodušení architektury mobilní sítě je tedy hnacím motivem nových generací mobilních sítí. 
@@ -220,7 +223,7 @@ Cílem 5G Advanced je:
 Mezi klíčové funkce verze 18 patří např:
 
 * **Vylepšený RedCap**: Tato verze vylepšuje zařízení se sníženou kapacitou (RedCap), která jsou navržena s ohledem na nižší složitost a náklady, takže jsou vhodná pro nasazení v oblasti internetu věcí.  
-* **Umělá inteligence (AI) a strojové učení (ML):** Vydání 18 zavádí techniky AI/ML na různých úrovních sítě s cílem zlepšit výkon a efektivitu sítě.  
+* **Umělá inteligence (AI) a [strojové učení](/ai/strojove-uceni-machine-learning/) (ML):** Vydání 18 zavádí techniky AI/ML na různých úrovních sítě s cílem zlepšit výkon a efektivitu sítě.  
 * **Klíčové poznatky: V roce 2018 se v rámci projektu „Klíčové poznatky“ objevilo několik nových technologií, které se zaměřují na podporu a rozvoj sítí:** AI/ML hraje klíčovou roli při optimalizaci výkonu a efektivity sítě v 5G Advanced. Využitím AI/ML se sítě mohou přizpůsobovat měnícím se vzorcům provozu, optimalizovat přidělování zdrojů a zlepšovat uživatelskou zkušenost.  
 * **Vylepšení rozdělení sítě:** Tato verze rozšiřuje možnosti slicingu sítě o podporu slicingu s více doménami a více poskytovateli, což poskytuje větší flexibilitu a škálovatelnost.  
 * **Klíčové poznatky:** Síťový slicing je v 5G a 5G Advanced stále důležitější. Umožňuje operátorům vytvářet přizpůsobené síťové řezy se specifickými výkonnostními charakteristikami, které splňují různorodé požadavky různých služeb a aplikací.  
@@ -278,5 +281,4 @@ Mezi hnací faktory tohoto vývoje patří:
 * **Poptávka po větší kapacitě:** To je nezbytné pro podporu rostoucího počtu připojených zařízení.  
 * **Zaměření na energetickou účinnost:** Je to dáno rostoucími náklady na energii a cíli udržitelnosti.
 
-S dalším vývojem pokročilé sítě 5G a nástupem sítě 6G můžeme očekávat další pokroky v síťové architektuře. Tak si o nich dáme včas vědět. Pro celou historii vývoje mobilních sítí si projděte [rubriku Mobilní sítě](/mobilnisite). 
-
+S dalším vývojem pokročilé sítě 5G a nástupem sítě 6G můžeme očekávat další pokroky v síťové architektuře. Tak si o nich dáme včas vědět. Pro celou historii vývoje mobilních sítí si projděte [rubriku Mobilní sítě](/mobilnisite).

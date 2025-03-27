@@ -18,7 +18,7 @@ thumbnail: https://www.marigold.cz/assets/ai-development.png
 title: "\U0001F9E0 AI nástroje pro programování - přehled"
 ---
 
-Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.
+[Programování s AI](/item/programovani-s-ai/) začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.
 
 Tady se pokouším udělat větší seznam všech nástrojů. Musím říct, že použitelné AI nástroje se objevují teprve posledních několik měsíců, takže startovací pole je dost široké a každý den se vynořují nové a nové nástroje. Tento seznam pořizuju ne proto, abyste všechny nástroje prošli, ale abych si i sám udržel přehled. 
 

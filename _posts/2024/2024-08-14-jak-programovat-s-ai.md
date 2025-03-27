@@ -22,7 +22,7 @@ Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, 
 
 Programování má oproti mnoha jiným tvůrčím postupům zásadní nevýhodu: něco o tom musíte vědět. Pokud si otevřete vývojové prostředí, musíte tušit, jak za sebe skládat příkazy a dokud to neuděláte správně, nic nefunguje. Když budete chtít psát nebo kreslit, tak možná nenapíšete nebo nenakreslíte nic extra hezkého, ale nějak to bude fungovat. U programování ne - buďto víte, jak na to, nebo neuděláte ani prd.
 
-> Článek **o nástrojích pro programování s AI pro neprogramátory** [s detailními informacemi najdete zde](/item/programovani-s-ai/). 
+> Článek **o nástrojích pro [programování s AI](/item/programovani-s-ai/) pro neprogramátory** [s detailními informacemi najdete zde](/item/programovani-s-ai/). 
 
 To ale AI mění. Pokud si předplácíte ChatGPT nebo Claude, můžete nechat umělou inteligenci vytvořit za vás i velmi rozsáhlé programy. Začít je samozřejmě lepší drobnějšími scripty a trochu se s celou věcí seznámit.
 
@@ -41,7 +41,7 @@ Proces tvorby programu s AI je proces iterativní. Máte vstup - tedy základní
 
   
 
-Vezmeme si nějaký příklad. Například já používám pro logování projektů systém, kdy si napíšu, co jsem udělal a za to s hashem název projektu či práce. Například “Objednám nový server #marigold". To si píšu do Excelu. Nově chci mít webovou službu, kam si za prvé toto poznamenám, za druhé si mohu všechny tyto poznámky vypsat. Je to relativně jednoduchá aplikace pro náš příklad programování s AI.
+Vezmeme si nějaký příklad. Například já používám pro logování projektů systém, kdy si napíšu, co jsem udělal a za to s hashem název projektu či práce. Například “Objednám nový server #marigold". To si píšu do Excelu. Nově chci mít webovou službu, kam si za prvé toto poznamenám, za druhé si mohu všechny tyto poznámky vypsat. Je to relativně jednoduchá aplikace pro náš příklad [programování s AI](/item/programovani-s-ai/).
 
   
 

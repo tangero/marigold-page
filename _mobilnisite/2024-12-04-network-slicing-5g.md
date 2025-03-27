@@ -1,10 +1,14 @@
 ---
-layout: post
-title: "Network Slicing v 5G sítích"
+categories:
+- 5G
+- 5G-Advanced
+- Mobilní sítě
 date: 2024-12-03
-categories: [5G, 5G-Advanced, Mobilní sítě]
 hide: true
+layout: post
+title: Network Slicing v 5G sítích
 ---
+
 __Co konkrétně se v tomto článku dozvíte?__ 
 * Obsah
 {:toc}
@@ -154,7 +158,7 @@ Systém monitoruje tři základní kategorie výkonnostních parametrů. **Resou
 
 Architektura monitorovacího systému využívá distribuované **Data Collection Points** implementované v klíčových síťových uzlech. Tyto body poskytují standardizované rozhraní pro export metrik a podporují vysokofrekvenční vzorkování s integrovaným buffer managementem. Performance Data Analytics Function zajišťuje real-time analýzu výkonnostních trendů, včetně prediktivního modelování zatížení a detekce anomálií. Management Data Analytics Function se pak zaměřuje na dlouhodobou analýzu trendů a podporu capacity planningu.
 
-Významnou inovací je implementace víceúrovňové granularity měření, která umožňuje sledování výkonu na úrovni jednotlivých slice, service flow, koncových zařízení a síťových funkcí. Data processing pipeline zahrnuje real-time stream processing, historické warehousing dat a pokročilé analytické nástroje využívající strojové učení pro prediktivní analýzu.
+Významnou inovací je implementace víceúrovňové granularity měření, která umožňuje sledování výkonu na úrovni jednotlivých slice, service flow, koncových zařízení a síťových funkcí. Data processing pipeline zahrnuje real-time stream processing, historické warehousing dat a pokročilé analytické nástroje využívající [strojové učení](/ai/strojove-uceni-machine-learning/) pro prediktivní analýzu.
 
 Tento komplexní monitorovací systém poskytuje operátorům bezprecedentní úroveň visibility do fungování jejich virtualizovaných síťových instancí, což umožňuje efektivní optimalizaci výkonu a proaktivní řešení potenciálních problémů. Release 17 tak představuje významný milník v evoluci Network Slicingu, který posouvá možnosti monitorování a řízení výkonu na kvalitativně vyšší úroveň.
 

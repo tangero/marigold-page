@@ -6,10 +6,10 @@ thumbnail: https://glaforge.dev/img/gemini/token-viz.jpg
 title: Tokeny vs. Slova - Základní stavební jednotky kontextu v AI
 ---
 
-V kontextu jazykových modelů pracujeme s pojmem "[token](/ai/tokeny-versus-slova/)", který se liší od běžného slova. Pochopení tohoto rozdílu je klíčové - termín se běžně používá v AI nejenom z technologického, ale také cenového pohledu. Přes API je totiž placená cena uváděná za počet [tokenů](/ai/tokeny-versus-slova/). Pojďme si tedy detailněji vysvětlit, co je to token a jaký je jeho vztah vůči slovu. 
+V kontextu jazykových modelů pracujeme s pojmem "[token](/ai/tokeny-versus-slova/)", který se liší od běžného slova. Pochopení tohoto rozdílu je klíčové - termín se běžně používá v AI nejenom z technologického, ale také cenového pohledu. Přes API je totiž placená cena uváděná za počet [tokenů](/ai/tokeny-versus-slova/). Pojďme si tedy detailněji vysvětlit, co je to [token](/ai/tokeny-versus-slova/) a jaký je jeho vztah vůči slovu. 
 
 Definice tokenu:
-- Token je nejmenší jednotka, kterou model zpracovává
+- [Token](/ai/tokeny-versus-slova/) je nejmenší jednotka, kterou model zpracovává
 - Může představovat část slova, celé slovo, interpunkci nebo speciální znaky
 - Tokenizace je proces rozdělení textu na tyto jednotky
 
@@ -53,10 +53,10 @@ Subwords a morfologie
 - Tokenizace dokáže zachytit společné části slov (předpony, přípony, kořeny). Například: "před-škol-ní", "škol-ák", "škol-ství" sdílejí token "škol"
 - To umožňuje modelu lépe generalizovat a pracovat s neviděnými slovy
 
-Z pohledu strojového učení přináší tokenizace významné optimalizační výhody. Menší vstupní slovník nejen redukuje paměťovou náročnost embeddings vrstvy, ale také zefektivňuje vektorové operace v rámci modelu. Fixní velikost tokenových reprezentací navíc přispívá k numerické stabilitě během trénovacího procesu.
+Z pohledu [strojového učení](/ai/strojove-uceni-machine-learning/) přináší tokenizace významné optimalizační výhody. Menší vstupní slovník nejen redukuje paměťovou náročnost embeddings vrstvy, ale také zefektivňuje vektorové operace v rámci modelu. Fixní velikost tokenových reprezentací navíc přispívá k numerické stabilitě během trénovacího procesu.
 
-Optimalizace pro strojové učení
-- Neuronové sítě pracují efektivněji s menším vstupním slovníkem
+Optimalizace pro [strojové učení](/ai/strojove-uceni-machine-learning/)
+- [Neuronové sítě](/ai/neuronove-site/) pracují efektivněji s menším vstupním slovníkem
 - Fixní velikost tokenu zjednodušuje vektorové operace
 - Snižuje se paměťová náročnost embeddings vrstvy
 

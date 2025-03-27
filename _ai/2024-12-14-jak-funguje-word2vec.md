@@ -26,9 +26,9 @@ Model pracuje ve dvou hlavních krocích:
 1. Predikce: Pro dané centrální slovo se snaží předpovědět okolní slova
 2. Učení: Podle úspěšnosti předpovědi upravuje číselné hodnoty ve vektorech
 
-### Jak probíhá predikce ve Word2vec
+### Jak probíhá predikce ve [Word2vec](/ai/word2vec/)
 
-Predikce ve Word2vec je matematický proces, který převádí vstupní slovo na pravděpodobnosti výskytu okolních slov. Pojďme si tento proces rozebrat krok po kroku.
+Predikce ve [Word2vec](/ai/word2vec/) je matematický proces, který převádí vstupní slovo na pravděpodobnosti výskytu okolních slov. Pojďme si tento proces rozebrat krok po kroku.
 
 ```mermaid
 flowchart LR

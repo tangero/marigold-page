@@ -18,7 +18,7 @@ thumbnail: https://www.marigold.cz/assets/claude-code-user.png
 title: Nové funkce v Claude Code pro programování s AI
 ---
 
-Svůj nástroj [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) pro "vibe coding" představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat. 
+Svůj nástroj [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) pro "[vibe coding](/item/programovani-s-ai/)" představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat. 
 
 > 💡 Nevíte, co je [Claude Code](/ai/claude-code/)? Detailnější popis [jsme si přinesli zde](/ai/claude-code/). 
 
@@ -63,10 +63,10 @@ Funguje to takto:
 
 2. **Struktura souboru**:
    - Název souboru určuje název příkazu. Například soubor pojmenovaný `triage-issues.md` vytvoří příkaz, který můžete vyvolat pomocí `/triage-issues`.
-   - Obsah souboru obsahuje instrukce nebo kroky, které chcete, aby Claude Code provedl.
+   - Obsah souboru obsahuje instrukce nebo kroky, které chcete, aby [Claude Code](/ai/claude-code/) provedl.
 
 3. **Použití příkazu**:
-   - Když pracujete v Claude Code, jednoduše napíšete `/` následované názvem vašeho příkazu (bez přípony `.md`).
+   - Když pracujete v [Claude Code](/ai/claude-code/), jednoduše napíšete `/` následované názvem vašeho příkazu (bez přípony `.md`).
    - Claude Code automaticky načte obsah příslušného souboru a provede instrukce v něm obsažené.
 
 4. **Příklady možných použití**:

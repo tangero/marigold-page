@@ -34,7 +34,7 @@ Technologie **Smart Array** umožňuje dynamicky měnit směr signálu na zákla
 
 Technologie Smart Array sestává z několika anténních prvků uspořádaných do pole. Tyto prvky spolupracují tak, aby umožnily dynamicky měnit směr signálu. Každý prvek pole může měnit fázi a amplitudu signálu, což dohromady vytváří výsledný paprsek, který je možné směrovat do konkrétních oblastí.
 
-Ve skutečnosti to vypadá jako deska s více anténami, která je schopná pomocí pokročilých algoritmů (jako je strojové učení a analýza signálu) směřovat paprsky podle aktuálních potřeb sítě a uživatelů. Takový přístup zlepšuje výkon, snižuje rušení a zvyšuje energetickou efektivitu, což je důležité zejména v městských oblastech, kde je vysoká hustota uživatelů.
+Ve skutečnosti to vypadá jako deska s více anténami, která je schopná pomocí pokročilých algoritmů (jako je [strojové učení](/ai/strojove-uceni-machine-learning/) a analýza signálu) směřovat paprsky podle aktuálních potřeb sítě a uživatelů. Takový přístup zlepšuje výkon, snižuje rušení a zvyšuje energetickou efektivitu, což je důležité zejména v městských oblastech, kde je vysoká hustota uživatelů.
 
 ![Smart Array - jak to vypadá](/assets/smart-array.jpg)
 
@@ -117,7 +117,7 @@ Jedním z hlavních cílů při návrhu chytrých antén pro sítě 5G a 6G je z
 
 ### Integrace AI do návrhu chytrých antén
 
-Umělá inteligence (AI) a strojové učení (ML) se stávají neoddělitelnou součástí návrhu a správy chytrých antén. AI umožňuje analyzovat obrovské množství dat ze sítě, jako jsou informace o poloze uživatelů, síle signálu nebo stavu připojení, a na základě těchto dat optimalizovat směrování signálu v reálném čase. AI se také používá k predikci pohybu uživatelů, což umožňuje předem přizpůsobit parametry antén a zajistit tak stabilní a kvalitní připojení.
+Umělá inteligence (AI) a [strojové učení](/ai/strojove-uceni-machine-learning/) (ML) se stávají neoddělitelnou součástí návrhu a správy chytrých antén. AI umožňuje analyzovat obrovské množství dat ze sítě, jako jsou informace o poloze uživatelů, síle signálu nebo stavu připojení, a na základě těchto dat optimalizovat směrování signálu v reálném čase. AI se také používá k predikci pohybu uživatelů, což umožňuje předem přizpůsobit parametry antén a zajistit tak stabilní a kvalitní připojení.
 
 **DeepMind**, dceřiná společnost Google, pracuje na vývoji algoritmů strojového učení, které mohou být použity pro optimalizaci výkonu chytrých antén. Tyto algoritmy umožňují anténám samostatně se učit a přizpůsobovat na základě měnících se podmínek v síti, což zlepšuje jejich schopnost zvládat složité scénáře a zvyšuje efektivitu přenosu.
 

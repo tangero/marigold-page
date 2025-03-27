@@ -18,7 +18,7 @@ Jaké výrazy v umělé inteligenci se běžně používají?
 
 ***Bezpečnost AI (AI Safety)***: Interdisciplinární obor, který se zabývá dlouhodobými dopady UI a tím, jak by se mohla náhle vyvinout superinteligence, která by mohla být vůči lidem nepřátelská.
 
-***Difuze (Diffusion)***: Metoda strojového učení, při které se vezme existující část dat, například fotografie, a přidá se náhodný šum. Difuzní modely trénují své sítě, aby tuto fotografii znovu vytvořily nebo obnovily.
+***Difuze (Diffusion)***: Metoda [strojového učení](/ai/strojove-uceni-machine-learning/), při které se vezme existující část dat, například fotografie, a přidá se náhodný šum. Difuzní modely trénují své sítě, aby tuto fotografii znovu vytvořily nebo obnovily.
 
 ***Emergentní chování (Emergent Behavior)***: Když model umělé inteligence vykazuje nezamýšlené schopnosti.
 
@@ -30,7 +30,7 @@ Jaké výrazy v umělé inteligenci se běžně používají?
 
 ***Explainability (Vysvětlitelnost)***: Schopnost AI systému vysvětlit důvody, proč dospěl k určitému závěru, což je klíčové pro transparentnost a důvěryhodnost AI.
 
-***Federované učení (Federated Learning)***: Metoda strojového učení, při které jsou modely trénovány na distribuovaných datech na různých zařízeních, aniž by byla data centralizována, což pomáhá zlepšit soukromí.
+***Federované učení (Federated Learning)***: Metoda [strojového učení](/ai/strojove-uceni-machine-learning/), při které jsou modely trénovány na distribuovaných datech na různých zařízeních, aniž by byla data centralizována, což pomáhá zlepšit soukromí.
 
 ***Foom***: Známý také jako rychlý vzlet nebo tvrdý vzlet. Koncept, že pokud někdo sestrojí AGI, může být na záchranu lidstva již pozdě.
 
@@ -54,13 +54,13 @@ Jaké výrazy v umělé inteligenci se běžně používají?
 
 ***Kontextové vědomí (Context Awareness)***: Schopnost AI pochopit a reagovat na kontext nebo situaci v rámci dané interakce nebo úkolu.
 
-***Model transformátoru (Transformer Model)***: Architektura neuronové sítě a model hlubokého učení, který se učí kontext sledováním vztahů v datech.
+***Model transformátoru (Transformer Model)***: Architektura [neuronové sítě](/ai/neuronove-site/) a model hlubokého učení, který se učí kontext sledováním vztahů v datech.
 
 ***Microsoft Bing***: Vyhledávač společnosti Microsoft, který nyní může využívat technologii pohánějící ChatGPT k poskytování výsledků vyhledávání na bázi umělé inteligence.
 
 ***Multimodální umělá inteligence (Multimodal AI)***: Typ umělé inteligence, která dokáže zpracovávat více typů vstupů, včetně textu, obrázků, videí a řeči.
 
-***Neuronová síť (Neural Network)***: Výpočetní model, který se podobá struktuře lidského mozku a je určen k rozpoznávání vzorů v datech.
+***[Neuronová síť](/ai/neuronove-site/) (Neural Network)***: Výpočetní model, který se podobá struktuře lidského mozku a je určen k rozpoznávání vzorů v datech.
 
 ***Ochranné zábrany (Guardrails)***: Zásady a omezení, která jsou na modely AI uvalena, aby bylo zajištěno, že s daty bude nakládáno zodpovědně a že model nebude vytvářet rušivý obsah.
 

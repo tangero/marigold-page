@@ -22,7 +22,7 @@ title: \U0001F916 Nové představené LLM modely - hustý týden
 
 **OpenAI představilo lehčí verzi 4o ([oznam zde](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/))**. GPT-4o mini je o 60 % levnější než GPT-3,5 Turbo. Slušný!
 
-Cena modelu je 0,15 USD za milion vstupních [tokenů](/ai/tokeny-versus-slova/) a 0,60 USD za milion výstupních [tokenů](/ai/tokeny-versus-slova/) (~2500 stran knihy). Pro srovnání, GPT-3.5-turbo-0301 stál před zhruba více než rokem 2,00 USD za 1 milion tokenů.
+Cena modelu je 0,15 USD za milion vstupních [tokenů](/ai/tokeny-versus-slova/) a 0,60 USD za milion výstupních [tokenů](/ai/tokeny-versus-slova/) (~2500 stran knihy). Pro srovnání, GPT-3.5-turbo-0301 stál před zhruba více než rokem 2,00 USD za 1 milion [tokenů](/ai/tokeny-versus-slova/).
 
 Zatím to vypadá, že model je dobrý ve strukturování informací i porozumění dlouhému kontextu.
 

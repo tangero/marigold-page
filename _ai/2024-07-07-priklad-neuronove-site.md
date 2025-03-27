@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Příklad fungování neuronové sítě"
 date: 2024-07-06
-order: 2
 hide: true
+layout: post
+order: 2
+title: Příklad fungování neuronové sítě
 ---
 
-Možná vám to s těmi neuronovými sítěmi není pořád moc jasné. Tak si to ukážeme na příkladu, dosti jednoduchém. Mějme matici 2x2 body a snažme se pomocí neuronové sítě identifikovat, zda je v matici nakreslený znak / nebo \ - tedy normální a zpětné lomítko. Ponechme samozřejmě stranou, že na tuto úlohu je neuronová síť kanon na vrabce, k tomu si řekneme něco na závěr... 
+Možná vám to s těmi neuronovými sítěmi není pořád moc jasné. Tak si to ukážeme na příkladu, dosti jednoduchém. Mějme matici 2x2 body a snažme se pomocí [neuronové sítě](/ai/neuronove-site/) identifikovat, zda je v matici nakreslený znak / nebo \ - tedy normální a zpětné lomítko. Ponechme samozřejmě stranou, že na tuto úlohu je [neuronová síť](/ai/neuronove-site/) kanon na vrabce, k tomu si řekneme něco na závěr... 
 
 ![Grafická reprezentace lomítka](/assets/lomitko-matice2x2.jpg)
 
@@ -145,4 +145,3 @@ Pro znak “\” si je můžete výsledky dopočítat sami. Kontrola by neměla 
  Snad to bylo pochopitelné!
 
  A co s tím víc? Inu, přidat to učení :)
- 

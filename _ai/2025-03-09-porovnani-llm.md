@@ -78,7 +78,7 @@ Zde je tabulka porovnávající modely Claude 3.7 Sonnet, 3.5 Sonnet, 3.5 Haiku 
 
 Všechny modely mají pokročilé multimodální schopnosti, včetně zpracování textu a obrazu, a nabízejí zlepšené multilingvální porozumění.
 
-Kontextové okno pro modely Anthropic je 200 000 tokenů, čili cca 680 000 unicode znaků. 
+Kontextové okno pro modely Anthropic je 200 000 [tokenů](/ai/tokeny-versus-slova/), čili cca 680 000 unicode znaků. 
 
 Zdroje
 - [Introducing the next generation of Claude - Anthropic](https://www.anthropic.com/news/claude-3-family)
@@ -91,7 +91,7 @@ Zdroje
 
 Zde je tabulka porovnávající modely Google Gemini 2.0 z hlediska parametrů a vhodnosti použití. Starší modely 1.5 už jsem vypustil, nevyplatí se jimi zabývat snad už ani kvůli ceně. 
 
-| **Model**                                | **Max. počet tokenů**       | **Vhodné pro úlohy**                                                                                       | **Klíčové vlastnosti**                                                                                     |
+| **Model**                                | **Max. počet [tokenů](/ai/tokeny-versus-slova/)**       | **Vhodné pro úlohy**                                                                                       | **Klíčové vlastnosti**                                                                                     |
 |------------------------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | **Gemini 2.0 Flash**                     | 1 048 576 (vstup), 8 192 (výstup) | Multimodální úlohy (text, obraz, audio, video), generování kódu, analýza dat                              | Multimodální vstupy/výstupy, podpora reálného času (Multimodal Live API), generování obrázků a řeči        |
 | **Gemini 2.0 Flash-Lite**                | 1 048 576 (vstup), 8 192 (výstup) | Rychlé a nákladově efektivní úlohy vyžadující multimodální vstupy                                         | Optimalizace na rychlost a nízké náklady, nepodporuje multimodální výstupy ani pokročilé nástroje          |

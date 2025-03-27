@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Neuronové sítě"
 date: 2024-07-06
-order: 4
 hide: true
+layout: post
+order: 4
+title: Neuronové sítě
 ---
 
-Neuronové sítě jsou klíčovou technologií v oblasti strojového učení a umělé inteligence. Využívají se v různých aplikacích, od rozpoznávání obrazu až po zpracování přirozeného jazyka. Zkusíme si poněkud podrobněji  vysvětlit, jak neuronové sítě fungují, jak jsou strukturovány a jak se optimalizují.
+[Neuronové sítě](/ai/neuronove-site/) jsou klíčovou technologií v oblasti [strojového učení](/ai/strojove-uceni-machine-learning/) a umělé inteligence. Využívají se v různých aplikacích, od rozpoznávání obrazu až po zpracování přirozeného jazyka. Zkusíme si poněkud podrobněji  vysvětlit, jak [neuronové sítě](/ai/neuronove-site/) fungují, jak jsou strukturovány a jak se optimalizují.
 
 ## Základní struktura a fungování neuronové sítě
 
@@ -105,5 +105,4 @@ chcete to víc po lopatě? Tak [tady je to v detailu](/ai/priklad-neuronove-site
 
 Závěr
 
-Neuronové sítě jsou mocným nástrojem pro řešení různých úloh v oblasti strojového učení. Jejich základní struktura se skládá z vrstev neuronů, které jsou propojeny váhami a využívají aktivační funkce k zpracování dat. Proces tréninku zahrnuje zpětnou propagaci a optimalizaci, které umožňují síti naučit se přesně predikovat výstupy na základě vstupních dat. Tento článek poskytuje základní přehled o
-	
+Neuronové sítě jsou mocným nástrojem pro řešení různých úloh v oblasti [strojového učení](/ai/strojove-uceni-machine-learning/). Jejich základní struktura se skládá z vrstev neuronů, které jsou propojeny váhami a využívají aktivační funkce k zpracování dat. Proces tréninku zahrnuje zpětnou propagaci a optimalizaci, které umožňují síti naučit se přesně predikovat výstupy na základě vstupních dat. Tento článek poskytuje základní přehled o

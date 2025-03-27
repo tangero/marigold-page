@@ -25,7 +25,7 @@ Google se v poslední době hodně snaží a s umělou inteligencí posouvá. P�
 
 A teď k novému modelu Gemini Pro 1.5. Ten nemá mít tolik parametrů, tedy takový rozsah, jako model Gemini Ultra oznámený před týdnem, hlavní výhodou Gemini Pro 1.5 má být velikost kontextového okna. Ta má být až deset milionů [tokenů](/ai/tokeny-versus-slova/). A to jsou dvě věty, u kterých se zastavíme, abychom si to vysvětlili. 
 
-Tak za prvé: co je to [token](/ai/tokeny-versus-slova/)? Token je významové slovo v rámci LLM modelu. Odpovídá zhruba lidskému slovu, jde ale o číselnou reprezentaci slova s rozlišením jeho významu. Pokud může mít jedno stejně písmenně zapsatelné slovo více významů, má také více tokenů. Slovo hra má jeden token, pokud je divadelní, jeden, pokud je počítačová a další, pokud je to dětská hra. Velké jazykové modely se tak vyrovnávají s nejednoznačností lidského jazyka, kterou převádějí na matematickou jednoznačnost. 
+Tak za prvé: co je to [token](/ai/tokeny-versus-slova/)? [Token](/ai/tokeny-versus-slova/) je významové slovo v rámci LLM modelu. Odpovídá zhruba lidskému slovu, jde ale o číselnou reprezentaci slova s rozlišením jeho významu. Pokud může mít jedno stejně písmenně zapsatelné slovo více významů, má také více [tokenů](/ai/tokeny-versus-slova/). Slovo hra má jeden token, pokud je divadelní, jeden, pokud je počítačová a další, pokud je to dětská hra. Velké jazykové modely se tak vyrovnávají s nejednoznačností lidského jazyka, kterou převádějí na matematickou jednoznačnost. 
 
 Za druhé, co je to kontextové okno? To je v zásadě délka "promptu", tedy dotazu či úkolu a všech příslušných dat, které zadáváte jako dotaz jazykovému modelu. Starší modely v dávnověku (předloni a vloni) uměly pracovat s rozsahem desítek, maximálně stovek tokenů kontextu. Situaci významně změnil model Claude od společnosti Anthropic loni v létě, kdy nabídl nejprve 100 000 tokenů a později ještě dvojnásobek, pak GPT Turbo zvedl standard na 128k tokenů. 
 
@@ -41,7 +41,7 @@ Podstatnou informací ovšem je, že rozsáhlejší kontextové okno zpřístup�
 
 Tohle je podstatná novinka z modelu Gemini Pro, která stojí za jeho radikálním zlepšením: funkce nazvaná Mixture of Experts (MoE). 
 
-Architektura Mixture of Experts (MoE) představuje pokročilý přístup k navrhování a trénování hlubokých neuronových sítí. Mixture of Experts modely jsou založeny na ideji, že místo jedné velké neuronové sítě, která se snaží naučit se všechny aspekty úkolu, je efektivnější použít soubor menších "expertních" modelů, kde každý expert se specializuje na určitou část úkolu. Výsledný model poté dynamicky vybírá a kombinuje výstupy těchto expertů na základě vstupních dat.
+Architektura Mixture of Experts (MoE) představuje pokročilý přístup k navrhování a trénování hlubokých neuronových sítí. Mixture of Experts modely jsou založeny na ideji, že místo jedné velké [neuronové sítě](/ai/neuronove-site/), která se snaží naučit se všechny aspekty úkolu, je efektivnější použít soubor menších "expertních" modelů, kde každý expert se specializuje na určitou část úkolu. Výsledný model poté dynamicky vybírá a kombinuje výstupy těchto expertů na základě vstupních dat.
 
 Jak architektura MoE funguje?
 

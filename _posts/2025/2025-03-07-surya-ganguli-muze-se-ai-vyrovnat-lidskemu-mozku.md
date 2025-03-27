@@ -57,13 +57,13 @@ Jakou teorii jsme tedy použili, abychom dosáhli tohoto výsledku? Použili jsm
 
 Dobře, máte pravdu. Dělám si legraci. Nejsem tak zlý, ale měli jste vidět obličeje organizátorů TEDu, když jsem řekl, že to udělám.
 
-### Reimagining Machine Learning
+### Reimagining [Machine Learning](/ai/strojove-uceni-machine-learning/)
 
 Pojďme si to trochu přiblížit a zamyslet se obecněji nad tím, co je potřeba udělat, aby umělá inteligence nebyla tak náročná na data. Představte si, že bychom naše děti trénovali stejným způsobem, jakým předtrénujeme naše velké jazykové modely, tedy pomocí predikce dalšího slova. Takže bych svému dítěti dal náhodný kus internetu a řekl: Mimochodem, tohle je další slovo. Dal bych mu další náhodný kus internetu a řekl, ano, tohle je další slovo. Kdybychom dělali jen tohle, trvalo by našim dětem 24 000 let, než by se naučily něco užitečného.
 
 Ale my děláme mnohem víc. Když například učím svého syna matematiku, učím ho algoritmus potřebný k vyřešení úlohy. Pak dokáže okamžitě řešit nové problémy a zobecňovat s použitím mnohem méně tréninkových dat, než by zvládl jakýkoli systém umělé inteligence. Nepředkládám mu miliony matematických úloh.
 
-Abychom umělou inteligenci skutečně zefektivnili z hlediska dat, musíme jít daleko za hranice našich současných tréninkových algoritmů a přeměnit strojové učení na novou vědu o strojovém učení. A tady nám opravdu může pomoci neurověda, psychologie a matematika.
+Abychom umělou inteligenci skutečně zefektivnili z hlediska dat, musíme jít daleko za hranice našich současných tréninkových algoritmů a přeměnit [strojové učení](/ai/strojove-uceni-machine-learning/) na novou vědu o strojovém učení. A tady nám opravdu může pomoci neurověda, psychologie a matematika.
 
 ### Energetická účinnost: 20wattový mozek vs. umělá inteligence
 
