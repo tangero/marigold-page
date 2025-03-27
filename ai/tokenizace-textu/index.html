@@ -177,12 +177,12 @@
 
 <p>Tokenizace textu a jeho následná vektorizace jsou klíčové procesy v oblasti zpracování přirozeného jazyka (NLP), které umožňují převést lidsky čitelný text do formy srozumitelné pro <a href="/ai/strojove-uceni-machine-learning/">strojové učení</a> a <a href="/ai/neuronove-site/">neuronové sítě</a>. Tento článek se zaměří na tyto procesy s důrazem na specifika českého jazyka.</p>
 
-<p>Začněme s naším příkladovým textem: <em>“Lil jsem vodu ze skleničky do lahve, dokud nebyla plná.”</em> Prvním krokem je tokenizace, tedy rozdělení textu na menší jednotky zvané tokeny. V případě češtiny je tento proces komplexnější než u analytických jazyků jako je angličtina, a to především kvůli bohaté morfologii a flexibilitě slovosledu.</p>
+<p>Začněme s naším příkladovým textem: <em>“Lil jsem vodu ze skleničky do lahve, dokud nebyla plná.”</em> Prvním krokem je tokenizace, tedy rozdělení textu na menší jednotky zvané <a href="/ai/tokeny-versus-slova/">tokeny</a>. V případě češtiny je tento proces komplexnější než u analytických jazyků jako je angličtina, a to především kvůli bohaté morfologii a flexibilitě slovosledu.</p>
 
 <p>Pro češtinu bychom mohli použít pokročilý tokenizér, který by text rozdělil následovně:
 <em>[“Lil”, “jsem”, “vodu”, “ze”, “skleničky”, “do”, “lahve”, “,”, “dokud”, “nebyla”, “plná”, “.”]</em></p>
 
-<p>Všimněte si, že tokenizér zachoval interpunkci jako samostatné tokeny. V sofistikovanějších systémech by mohl být použit lemmatizátor, který by převedl slova do jejich základních tvarů, například “Lil” na “lít” a “skleničky” na “sklenička”. Tento krok by mohl vypadat takto:
+<p>Všimněte si, že tokenizér zachoval interpunkci jako samostatné <a href="/ai/tokeny-versus-slova/">tokeny</a>. V sofistikovanějších systémech by mohl být použit lemmatizátor, který by převedl slova do jejich základních tvarů, například “Lil” na “lít” a “skleničky” na “sklenička”. Tento krok by mohl vypadat takto:
 <em>[“lít”, “být”, “voda”, “z”, “sklenička”, “do”, “lahev”, “,”, “dokud”, “nebýt”, “plný”, “.”]</em></p>
 
 <p>Dalším krokem je převod těchto tokenů na číselné vektory. Existuje několik metod, jak toho dosáhnout. Jednou z nejjednodušších je one-hot encoding, kde každý token je reprezentován vektorem o délce rovné velikosti slovníku, s jedničkou na pozici odpovídající danému tokenu a nulami jinde. Tento přístup je však neefektivní pro velké slovníky a nezachycuje sémantické vztahy mezi slovy.</p>
@@ -323,10 +323,10 @@
           
             <tr>
               <td>
-                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
+                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
                 <p class="excerpt">
                   
-                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
+                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
                   
                 </p>
               </td>
@@ -334,10 +334,10 @@
           
             <tr>
               <td>
-                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
+                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
                 <p class="excerpt">
                   
-                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  audioverzi tohoto článku  ve ...
+                    Minule jsme si řekli, jak pomocí umělé inteligence psát lepší články, zprávy a texty. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři...
                   
                 </p>
               </td>
