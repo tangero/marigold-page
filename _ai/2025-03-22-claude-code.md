@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Claude Code je AI asistent pro vývoj přímo v terminálu
 date: 2025-03-22
-order: 1
 hide: true
+layout: post
+order: 1
+title: Claude Code je AI asistent pro vývoj přímo v terminálu
 ---
 
-Claude Code je nástroj od společnosti Anthropic, který přináší obrovský náskok a zkušenost jejího jazykového modelu Claude Sonnet přímo do vývojářského prostředí. Jde o  CLI nástroj (tedy běžící v příkazové řádce)  integrovaný do terminálu, který umožňuje vývojářům spolupracovat s AI při každodenní práci s kódem. Ale nebojte se slov CLI ani příkazová řáda, prostě si povídáte s "chatbotem" a necháte jej, aby realizoval vaše zadání ke zdrojovému kódu. Jen ho zavoláte z Terminálu, což mu dává řadu možností a také to důstojně vynechává představu, že se sami budete hrabat ve zdrojáku, jako to naznačuje [Cursor nebo Copilot ve VS Code](/item/programovani-s-ai/). 
+[Claude Code](/ai/claude-code/) je nástroj od společnosti Anthropic, který přináší obrovský náskok a zkušenost jejího jazykového modelu Claude Sonnet přímo do vývojářského prostředí. Jde o  CLI nástroj (tedy běžící v příkazové řádce)  integrovaný do terminálu, který umožňuje vývojářům spolupracovat s AI při každodenní práci s kódem. Ale nebojte se slov CLI ani příkazová řáda, prostě si povídáte s "chatbotem" a necháte jej, aby realizoval vaše zadání ke zdrojovému kódu. Jen ho zavoláte z Terminálu, což mu dává řadu možností a také to důstojně vynechává představu, že se sami budete hrabat ve zdrojáku, jako to naznačuje [Cursor nebo Copilot ve VS Code](/item/programovani-s-ai/). 
 
 Stáhnout si [Claude Code můžete zde](https://ai-claude.net/code/) (macOS 10.15+, Ubuntu 20.04+/Debian 10+, Windows via WSL)
 
@@ -14,7 +14,7 @@ __Co konkrétně se v tomto článku dozvíte?__
 * Obsah
 {:toc}
 
-## Jak Claude Code funguje
+## Jak [Claude Code](/ai/claude-code/) funguje
 
 Claude Code je postaven jako terminálová aplikace, která umožňuje konverzaci s AI asistentem Claude, ale na rozdíl od webové verze má přístup k vašemu lokálnímu vývojovému prostředí. To znamená, že může:
 
@@ -202,4 +202,4 @@ Uvidíte zobáček, který indikuje, že můžete zadávat své požadavky. Poku
 
 > 💡 POZOR: rozhodně nezačínejte pracovat s Claude v nějakém svém ostrém a cenném projektu. Bez určitých zkušeností se vám relativně snadno stane, že vám "přemastí" zdrojáky, která byste chtěli nechat tak, jak jsou.  Začněte experimentovat s prázdným projektem
 
-Jak Claude Code používat lépe a intenzivněji si řekneme někdy příště. 
+Jak Claude Code používat lépe a intenzivněji si řekneme někdy příště.

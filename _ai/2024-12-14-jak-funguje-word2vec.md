@@ -1,18 +1,16 @@
 ---
-layout: post
-title: "Jak funguje Word2vec"
 date: 2024-12-14
-order: 6
 hide: true
+layout: post
+order: 6
+title: Jak funguje Word2vec
 ---
 
-
-
-Představte si, že se snažíte naučit počítač rozumět významům slov. Jak byste to udělali? Word2vec, průlomová technologie v oblasti zpracování přirozeného jazyka, přišla s elegantním řešením: učí počítač chápat slova skrze jejich kontext - tedy podle toho, jaká jiná slova se obvykle vyskytují v jejich okolí.
+Představte si, že se snažíte naučit počítač rozumět významům slov. Jak byste to udělali? [Word2vec](/ai/word2vec/), průlomová technologie v oblasti zpracování přirozeného jazyka, přišla s elegantním řešením: učí počítač chápat slova skrze jejich kontext - tedy podle toho, jaká jiná slova se obvykle vyskytují v jejich okolí.
 
 ## Základní princip: Učení z kontextu
 
-Word2vec vychází z jednoduché, ale mocné myšlenky: význam slova lze pochopit podle slov, která se vyskytují v jeho okolí. Například ve větě "Kočka sedí na měkkém koberci" se slovo "kočka" objevuje v kontextu slov souvisejících s domácím prostředím a odpočinkem.
+[Word2vec](/ai/word2vec/) vychází z jednoduché, ale mocné myšlenky: význam slova lze pochopit podle slov, která se vyskytují v jeho okolí. Například ve větě "Kočka sedí na měkkém koberci" se slovo "kočka" objevuje v kontextu slov souvisejících s domácím prostředím a odpočinkem.
 
 Podívejme se na konkrétní příklad. Mějme větu:
 "The cat sat on the mat"

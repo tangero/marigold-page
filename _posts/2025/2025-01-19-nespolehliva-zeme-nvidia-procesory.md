@@ -15,8 +15,7 @@ post_excerpt: Americká administrativa nás nově zařadila mezi nespolehlivé s
 summary_points:
 - USA zařadily Česko mezi nespolehlivé státy kvůli pašování AI procesorů do nepřátelských
   zemí.
-- České firmy dostanou omezené množství výkonných AI čipů kvůli laxnímu přístupu
-  vlády.
+- České firmy dostanou omezené množství výkonných AI čipů kvůli laxnímu přístupu vlády.
 - Česko nemá špičkový AI výzkum ani vládní strategii pro rozvoj umělé inteligence.
 - Nedostatek odborníků a financí brání rozvoji AI v Česku.
 thumbnail: https://www.marigold.cz/assets/fiala-ai-nvidia.png
@@ -50,7 +49,7 @@ Držet si přehled je snadné. V Česku mimo jiné ani neseženete lidi, kteří
 
 Neexistuje žádná vládní strategie ani žádná „vládní poptávka“. Zatímco v USA či v Číně se velmi jasně v jednotlivých kruzích říká, co se od AI očekává a jednotlivé instituce se podle toho chovají, v Česku máme na ČVUT Český institut informatiky, robotiky a kybernetiky (CIIRC), ale pokud si chcete udělat představu o tom, kde je český akademický a polo-komerční AI výzkum, projděte si [nositele loňské AI Awards](https://www.ciirc.cvut.cz/cs/ai-award-za-vyzkum-a-vyvoj-pro-josefa-sivice/). Tohle má být to top, co u nás existuje? Že ale žádná vládní strategie pro AI není, není zase tak podstatný problém: máme například strategii pro digitalizaci, ale vlastně všichni se smířili s tím, že ji neplníme a to, co plníme, jsou jen takové ty formální body, které by se staly tak jako tak... 
 
-Děsivý je příběh Tomáše Mikolova, autora Word2vec a nejcitovanějšího českého odborníka na AI ve vědeckých pracích. Člověk jeho renomé pět let pobíhá po Česku a shání financování týmu při CIIRC: „Když jsem se v roce 2019 vracel do Česka, tak se tu hodně mluvilo o tom, jak je AI priorita, jak musíme dohnat svět. Teď je rok 2025, a stále to jsou jen ty stejné kecy, nic moc se nezměnilo. Peníze do výzkumu se investují naprosto nesmyslně nebo končí kdovíkde,“ říká v rozhovoru pro Wired. Jestli jste dneska ještě neměli depku, [rozhovor si přečtěte](https://www.wired.cz/clanky/k-lepsi-vede-v-cesku-by-mohly-pomoci-i-pohadky-svejkovani-tu-nevydrzi-vecne), garantuju vám ji. 
+Děsivý je příběh Tomáše Mikolova, autora [Word2vec](/ai/word2vec/) a nejcitovanějšího českého odborníka na AI ve vědeckých pracích. Člověk jeho renomé pět let pobíhá po Česku a shání financování týmu při CIIRC: „Když jsem se v roce 2019 vracel do Česka, tak se tu hodně mluvilo o tom, jak je AI priorita, jak musíme dohnat svět. Teď je rok 2025, a stále to jsou jen ty stejné kecy, nic moc se nezměnilo. Peníze do výzkumu se investují naprosto nesmyslně nebo končí kdovíkde,“ říká v rozhovoru pro Wired. Jestli jste dneska ještě neměli depku, [rozhovor si přečtěte](https://www.wired.cz/clanky/k-lepsi-vede-v-cesku-by-mohly-pomoci-i-pohadky-svejkovani-tu-nevydrzi-vecne), garantuju vám ji. 
  
 Je třeba říct si to na rovinu: AI v Česku nemá zatím žádnou perspektivu. Jakýkoliv základní výzkum tu táhnou nadšenci, jenže doba, kdy stačilo nadšení, je dávno pryč. Teď už jsou potřeba i tvrdé peníze. Jenže ty se v Česku ztrácí na nesmyslných projektech, které na sebe nenavazují, nemají žádné napojení na sebe a už vůbec ne výhled na aplikaci do praxe. Akademický výzkum AI z největší části slouží k tomu, aby se na pracovištích udržel status quo, aby podfinancování vysokoškolští pracovníci dostali aspoň nějaké peníze a vykázala se činnost. S výsledky se příliš nepočítá. Pokud bychom ho celý škrtli, nestalo by se prakticky nic zásadního pro výzkum jako takový. 
 

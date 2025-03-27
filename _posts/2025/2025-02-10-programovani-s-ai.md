@@ -9,12 +9,12 @@ post_excerpt: Ještě před rokem se o tom mluvilo, před půl rokem tomu progra
   nevěřili a zkoušeli to. A dnes už je to realita. Jak si mohou neprogramátoři vytvořit
   svoji aplikaci?
 summary_points:
-- 'AI nástroje umožňují programování i neprogramátorům – generují kód na základě
-  popisu, skrývají složitosti.'
-- 'Podrobné zadání je klíčové – AI potřebuje přesné instrukce pro kvalitní výsledky.'
-- 'Nástroje jako Replit, Tempolabs, Cursor AI – nabízejí různé možnosti od prototypování
-  po komplexní vývoj.'
-- 'Ceny jsou založeny na spotřebě tokenů – rychle rostou s intenzivním používáním.'
+- AI nástroje umožňují programování i neprogramátorům – generují kód na základě popisu,
+  skrývají složitosti.
+- Podrobné zadání je klíčové – AI potřebuje přesné instrukce pro kvalitní výsledky.
+- Nástroje jako Replit, Tempolabs, Cursor AI – nabízejí různé možnosti od prototypování
+  po komplexní vývoj.
+- Ceny jsou založeny na spotřebě tokenů – rychle rostou s intenzivním používáním.
 thumbnail: https://www.marigold.cz/assets/ai-programovani.jpg
 title: Programování s AI pro neprogramátory -  už je to tady!
 ---
@@ -36,7 +36,7 @@ Podíváme se dnes na několik nástrojů, které slouží k programování s AI
 - [Bolt New](https://bolt.new/)   
 - [Windsurf AI](https://codeium.com/windsurf)
 
-> 🤖 O nástroji **Claude Code** společnosti Anthropic je [specializovaná sekce zde](/ai/claude-code/#instalace-a-začátek-práce).
+> 🤖 O nástroji **[Claude Code](/ai/claude-code/)** společnosti Anthropic je [specializovaná sekce zde](/ai/claude-code/#instalace-a-začátek-práce).
 
 Za každý z těchto nástrojů musíte zaplatit, i když je tu nějaký malý demoprovoz možný zdarma. Ale s ním si nástroj opravdu jen osaháte, nenaprogramujete nic. A jednou upozornění: nástroje jsou v prudkém vývoji, takže jejich nabídka funkcí se mění, údaje jsou platné k 10.2.2025. 
 

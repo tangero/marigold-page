@@ -1,0 +1,15 @@
+[
+  {
+    "keyword": "MCP",
+    "variations": ["Model Context Protocol"],
+    "link": "/ai/mcp/"
+  },
+  {
+    "keyword": "Claude Code",
+    "link": "/ai/claude-code/"
+  },
+  {
+    "keyword": "Word2vec",
+    "link": "/ai/word2vec/"
+  }
+]

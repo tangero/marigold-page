@@ -20,7 +20,7 @@ title: Nové funkce v Claude Code pro programování s AI
 
 Svůj nástroj [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) pro "vibe coding" představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat. 
 
-> 💡 Nevíte, co je Claude Code? Detailnější popis [jsme si přinesli zde](/ai/claude-code/). 
+> 💡 Nevíte, co je [Claude Code](/ai/claude-code/)? Detailnější popis [jsme si přinesli zde](/ai/claude-code/). 
 
 A co je nového?
 * Obsah
@@ -29,7 +29,7 @@ A co je nového?
 
 ## 1. Rozšířené myšlení (Extended thinking)
 
-Claude Code nyní podporuje mód "rozšířeného myšlení", který je poháněn modelem Claude 3.7 Sonnet. Stačí požádat Claude, aby "přemýšlel" (například příkazy "think", "think more" nebo "think harder"), a aktivujete tuto schopnost.
+[Claude Code](/ai/claude-code/) nyní podporuje mód "rozšířeného myšlení", který je poháněn modelem Claude 3.7 Sonnet. Stačí požádat Claude, aby "přemýšlel" (například příkazy "think", "think more" nebo "think harder"), a aktivujete tuto schopnost.
 
 **Tip pro praxi:** Nejprve informujte Claude o vašem úkolu a nechte ho získat kontext z vašeho projektu. Poté ho požádejte, aby "přemýšlel" a vytvořil plán. Intenzita přemýšlení se liší podle použitých slov - například "think hard" spustí intenzivnější proces přemýšlení než samotné "think".
 
