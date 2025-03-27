@@ -1,4 +1,6 @@
 ---
+audio_url: http://www.marigold.cz/audio/2025-03-27-zapier-mcp.mp3
+audiooff: false
 author: Patrick Zandl
 categories:
 - Zapier
@@ -7,17 +9,23 @@ categories:
 - AI
 date: 2025-03-27 08:00:00
 layout: post
-post_excerpt: Zapier nedávno vydal novou službu MCP (Model Communication Protocol),
-  která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Jak
-  ji včlenit do vývojářského workflow ve vývoji s pomocí AI?
+post_excerpt: "Zapier ned\xE1vno vydal novou slu\u017Ebu MCP (Model Communication\
+  \ Protocol), kter\xE1 umo\u017E\u0148uje propojen\xED AI asistent\u016F s tis\xED\
+  ci aplikac\xED v ekosyst\xE9mu Zapier. Jak ji v\u010Dlenit do v\xFDvoj\xE1\u0159\
+  sk\xE9ho workflow ve v\xFDvoji s pomoc\xED AI?"
 summary_points:
-- Zapier MCP nová služba propojující AI asistenty s tisíci aplikacemi přes Zapier.
-- Cursor vývojářský nástroj s AI jako první integruje Zapier MCP pro akce.
-- Nastavení Zapier MCP v Cursoru vyžaduje získání URL a konfiguraci v nastavení.
-- Zapier MCP nabízí propojení s nástroji pro grafiku, projekty, e-maily a notifikace.
-- Služba Zapier MCP je v březnu 2025 syrová a doporučuje se vyčkat s testováním.
+- "Zapier MCP nov\xE1 slu\u017Eba propojuj\xEDc\xED AI asistenty s tis\xEDci aplikacemi\
+  \ p\u0159es Zapier."
+- "Cursor v\xFDvoj\xE1\u0159sk\xFD n\xE1stroj s AI jako prvn\xED integruje Zapier\
+  \ MCP pro akce."
+- "Nastaven\xED Zapier MCP v Cursoru vy\u017Eaduje z\xEDsk\xE1n\xED URL a konfiguraci\
+  \ v nastaven\xED."
+- "Zapier MCP nab\xEDz\xED propojen\xED s n\xE1stroji pro grafiku, projekty, e-maily\
+  \ a notifikace."
+- "Slu\u017Eba Zapier MCP je v b\u0159eznu 2025 syrov\xE1 a doporu\u010Duje se vy\u010D\
+  kat s testov\xE1n\xEDm."
 thumbnail: https://www.marigold.cz/assets/zapier-mcp.jpg
-title: Zapier MCP - Propojte AI asistenty s externími aplikacemi
+title: "Zapier MCP - Propojte AI asistenty s extern\xEDmi aplikacemi"
 ---
 
 [Zapier](https://zapier.com/) nedávno vydal novou službu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na "bezprogramátorské" propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.
