@@ -78,6 +78,11 @@
       "keyword": "vibe coding",
       "variations": ["programování s AI"],
       "link": "/item/programovani-s-ai/"
+    },
+    {
+      "keyword": "WiFi 7",
+      "variations": ["Wi-Fi 7", "WiFi 7", "WiFi7", "IEEE 802.11be", "IEEE802.11be"],
+      "link": "/item/wi-fi-7-802-11be/"
     }
   ]
 }

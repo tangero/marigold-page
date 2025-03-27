@@ -16,8 +16,8 @@ Definice tokenu:
 Praktické příklady tokenizace:
 
 Běžná slova:
-- "kočka" = 1 token
-- "pes" = 1 token
+- "kočka" = 1 [token](/ai/tokeny-versus-slova/)
+- "pes" = 1 [token](/ai/tokeny-versus-slova/)
 
 
 Složená nebo delší slova:

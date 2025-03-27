@@ -17,7 +17,7 @@ LLM typicky používají tzv. *multi-head attention*, kde se několik mechanism�
 
 Další klíčovou součástí architektury jsou feed-forward [neuronové sítě](/ai/neuronove-site/). Ty se aplikují na výstup z attention vrstev a umožňují modelu provádět nelineární transformace reprezentací. Typicky se skládají ze dvou lineárních transformací s aktivační funkcí ReLU mezi nimi.
 
-Moderní LLM jako GPT (Generative Pre-trained Transformer) používají pouze dekodérovou část původní architektury transformátorů. To znamená, že model generuje text autoregresivně, tedy token po tokenu, přičemž každý nový token je generován na základě všech předchozích tokenů.
+Moderní LLM jako GPT (Generative Pre-trained Transformer) používají pouze dekodérovou část původní architektury [transformátorů](/ai/transformatory/). To znamená, že model generuje text autoregresivně, tedy [token](/ai/tokeny-versus-slova/) po tokenu, přičemž každý nový [token](/ai/tokeny-versus-slova/) je generován na základě všech předchozích tokenů.
 
 Důležitou součástí architektury jsou také reziduální spojení a normalizační vrstvy. Reziduální spojení umožňují efektivní trénink velmi hlubokých sítí tím, že poskytují přímou cestu pro zpětnou propagaci gradientů. Normalizační vrstvy pak stabilizují aktivace v síti, což opět usnadňuje trénink.
 
@@ -41,6 +41,6 @@ Nedávné výzkumy také ukázaly, že LLM vykazují emergentní schopnosti. To 
 
 Navzdory svým impozantním schopnostem mají LLM několik významných omezení. Jedním z nich je tendence k "halucinacím", tedy generování informací, které jsou věrohodné, ale fakticky nesprávné. Dalším problémem je omezená velikost kontextového okna, což limituje schopnost modelu pracovat s velmi dlouhými texty.
 
-Pro adresování těchto omezení se vyvíjejí různé techniky. Například Retrieval-Augmented Generation (RAG) kombinuje LLM s vyhledáváním v externí databázi znalostí, což může zlepšit faktickou přesnost generovaného textu. Techniky jako kNN-LM nebo Memorizing Transformers se snaží rozšířit efektivní kontext modelu.
+Pro adresování těchto omezení se vyvíjejí různé techniky. Například Retrieval-Augmented Generation (RAG) kombinuje LLM s vyhledáváním v externí databázi znalostí, což může zlepšit faktickou přesnost generovaného textu. Techniky jako kNN-LM nebo Memorizing [Transformers](/ai/transformatory/) se snaží rozšířit efektivní kontext modelu.
 
 Závěrem lze říci, že [neuronové sítě](/ai/neuronove-site/) v LLM představují fascinující spojení sofistikovaných algoritmů, masivních datových sad a výkonného hardwaru. Jejich schopnost zpracovávat a generovat lidský jazyk na úrovni, která se blíží lidským schopnostem, otevírá nové možnosti v oblasti umělé inteligence a zpracování přirozeného jazyka. Zároveň však přinášejí nové výzvy v oblasti etiky, bezpečnosti a interpretovatelnosti AI systémů. Pokračující výzkum v této oblasti slibuje další pokroky a možná i nové paradigmata v tom, jak chápeme a interagujeme s umělou inteligencí.

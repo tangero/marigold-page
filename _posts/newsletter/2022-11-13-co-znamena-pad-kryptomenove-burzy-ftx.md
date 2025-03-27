@@ -56,7 +56,7 @@ Dne 2. listopadu 2022 zveřejnil Ian Allison z Coindesku[ výbušnou zprávu](ht
 
 Generální ředitelka společnosti Alameda Caroline Ellisonová (a partnerka Sama Bankmana-Frieda) tvrdila, že uniklá rozvaha nebyla kompletní a že Allison nezapočítal dalších 10 miliard dolarů aktiv. Pak bylo chvíli ticho, než se 6. listopadu objevily velké přesuny v tokenech FTT. Šéf burzy Binance Changpeng Zhao přezdívaný CZ potvrdil, že Binance bude likvidovat svou pozici [tokenů](/ai/tokeny-versus-slova/) FTT. [Tokeny](/ai/tokeny-versus-slova/) Binance získala před rokem, když FTX vykupovalo dvacetiprocentní podíl, který Binance v FTX od založení držela. 
 
-Vržení velkého množství tokenů FTT na trh mělo jediný možný následek: cena tokenu se propadla a všichni se jej hleděli zbavit. Třídenní run na token stál FTX podle odhadů 6 miliard dolarů a vyústil v naprostou krizi firmy. Firma se začala potápět. 
+Vržení velkého množství [tokenů](/ai/tokeny-versus-slova/) FTT na trh mělo jediný možný následek: cena tokenu se propadla a všichni se jej hleděli zbavit. Třídenní run na [token](/ai/tokeny-versus-slova/) stál FTX podle odhadů 6 miliard dolarů a vyústil v naprostou krizi firmy. Firma se začala potápět. 
 
 _Dobře to[později shrnul](https://twitter.com/evan_lorenz/status/1590005124696780800?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1590005124696780800%7Ctwgr%5E6cad595125ecb1ec6132feec4073c96e54dba626%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Famycastor.com%2F2022%2F11%2F08%2Fcrypto-collapse-j-pierpont-moneygone-ftx-rekt-bought-by-binance%2F) Evan Lorenz: Největší burza, která pere peníze pro Íránce, ztratila důvěru v druhou největší burzu, jejíž zakladatel v podcastu Odd Lots řekl, že krypto je v podstatě ponziho schéma…_
 

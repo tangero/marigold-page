@@ -307,4 +307,4 @@ Snadno se vám v Claude také může stát, že narazíte na limit dlouhých zad
 
 Tímto přístupem můžete vytvořit i poměrně rozsáhlé aplikace, nebojte se to vyzkoušet!
 
-> Článek **o nástrojích pro programování s AI pro neprogramátory** [s detailními informacemi najdete zde](/item/programovani-s-ai/).
+> Článek **o nástrojích pro [programování s AI](/item/programovani-s-ai/) pro neprogramátory** [s detailními informacemi najdete zde](/item/programovani-s-ai/).

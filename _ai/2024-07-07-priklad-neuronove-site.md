@@ -22,7 +22,7 @@ Ve výsledné matici zápis vypadá takto.
 
 Nyní ho převedeme na jednorozměrné pole, čili dáme řádky za sebe: ```[1, 0, 0, 1]```. 
 
-Nyní máme tedy vstupní data reprezentovaná čtveřicí čísel a tato data pošleme do neuronové sítě. Tu jsme si navrhli následovně:
+Nyní máme tedy vstupní data reprezentovaná čtveřicí čísel a tato data pošleme do [neuronové sítě](/ai/neuronove-site/). Tu jsme si navrhli následovně:
 
 ![Příklad naší neuronové sítě](/assets/neuronovasit-priklad.png)
 
@@ -55,7 +55,7 @@ Neuron 2 ve skryté vrstvě:
 
 **Váhy (weights)** jsou klíčovými parametry v neuronové síti, které určují sílu spojení mezi jednotlivými neurony. Váhy násobí vstupní signály před tím, než se tyto signály sečtou a přidá se k nim bias. Poté se výsledek přenese k aktivační funkci neuronu. Váhy určují, jak silně každý vstupní signál ovlivňuje výstup neuronu.
 
-***Kontrolní otázka***: kde se vzala tato čísla pro Váhy a Bias? Zvolili jsme je náhodně. V reálných aplikacích se váhy inicializují náhodně a pak se optimalizují během procesu tréninku neuronové sítě, kdy bychom vzali v úvahu kýžený výsledek, tedy někdo by v rámci dat zaznačil, která matice je který znak. Neuronová síť by následně procesem učení byla schopna stanovit optimální Váhy a Bias tak, aby mohla být matice a tím i znak správně rozpoznán. 
+***Kontrolní otázka***: kde se vzala tato čísla pro Váhy a Bias? Zvolili jsme je náhodně. V reálných aplikacích se váhy inicializují náhodně a pak se optimalizují během procesu tréninku [neuronové sítě](/ai/neuronove-site/), kdy bychom vzali v úvahu kýžený výsledek, tedy někdo by v rámci dat zaznačil, která matice je který znak. Neuronová síť by následně procesem učení byla schopna stanovit optimální Váhy a Bias tak, aby mohla být matice a tím i znak správně rozpoznán. 
 
 Nyní si spočítejme aktivaci pro první neuron pro znak / - tedy výsledek, který dostaneme na *H1*. Jako aktivační funkci použijeme ReLU z toho důvodu, že se pro tento typ dat hodí, správný výběr aktivační funkce je nicméně důležitý a je součástí vašeho budoucího know-how, jak optimalizovat neuronovou síť... 
 

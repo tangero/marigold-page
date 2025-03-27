@@ -67,7 +67,7 @@ Funguje to takto:
 
 3. **Použití příkazu**:
    - Když pracujete v [Claude Code](/ai/claude-code/), jednoduše napíšete `/` následované názvem vašeho příkazu (bez přípony `.md`).
-   - Claude Code automaticky načte obsah příslušného souboru a provede instrukce v něm obsažené.
+   - [Claude Code](/ai/claude-code/) automaticky načte obsah příslušného souboru a provede instrukce v něm obsažené.
 
 4. **Příklady možných použití**:
    - `/triage-issues` - Mohlo by zkontrolovat všechny otevřené GitHub issues, kategorizovat je podle priority a navrhnout akční plány.
@@ -82,7 +82,7 @@ Funguje to takto:
    - Umožňuje sdílet užitečné workflow s týmem (pokud jsou v repozitáři projektu)
    - Redukuje potřebu pamatovat si složité příkazy nebo postupy
 
-Tyto vlastní příkazy jsou obzvláště užitečné pro opakující se úkoly specifické pro váš projekt nebo osobní workflow. Můžete je chápat jako "makra" nebo "automatizované skripty", které Claude Code provede místo vás, ale s inteligencí a schopností adaptace AI asistenta.
+Tyto vlastní příkazy jsou obzvláště užitečné pro opakující se úkoly specifické pro váš projekt nebo osobní workflow. Můžete je chápat jako "makra" nebo "automatizované skripty", které [Claude Code](/ai/claude-code/) provede místo vás, ale s inteligencí a schopností adaptace AI asistenta.
 
 
 ## 4. Zlepšená latence nástrojů

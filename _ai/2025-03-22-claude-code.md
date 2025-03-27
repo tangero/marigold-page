@@ -34,13 +34,13 @@ Na obrazovce vidíte, jak všechno funguje:
 
 Spustím Terminál, přejdu do adresáře, kde mám projekt a nyní si mohu poroučet, co se s ním má dělat. Tento web je staticky generovaný, funguje přes Github Pages a Jekyll, jenže už dávno si nové věci neřeším sám, ale nechávám si to vyvíjet právě přes AI. Jenže to má své problémy. Například teď jsem si nechal udělat script, který opravil nadpisy článků, ve kterých byly někdy paznaky. Jenže při tom udělal jiný problém. Ten nyní chci po [Claude Code](/ai/claude-code/) upravit, když mu říkám: __Potřebuji projít všechny soubory v adresáři _posts a podadresářích s koncovkou .md ... __
 
-Claude rekapituluje, co bude dělat a pak se hned pouští do řešení. Rozhodne se, že k tomu použije již existující soubor, aniž by se podíval, k čemu ten soubor slouží a přemastí mi jeho funkci. Což by bylo nepříjemné, kdyby to nebyl starý už nepoužívaný script. Ale je to typický příklad toho, že se Claude Code musí dost jasně říkat, co a jak má udělat. Mimo jiné jej na začátku musíte instruovat, jestli takové věci může nebo nemůže provést sám, bez zeptání se (já pro tento případ nastavil, ať to sází bez mého schválení). Ale to už je ta vyšší dívčí, na kterou se podíváme někdy příště. 
+Claude rekapituluje, co bude dělat a pak se hned pouští do řešení. Rozhodne se, že k tomu použije již existující soubor, aniž by se podíval, k čemu ten soubor slouží a přemastí mi jeho funkci. Což by bylo nepříjemné, kdyby to nebyl starý už nepoužívaný script. Ale je to typický příklad toho, že se [Claude Code](/ai/claude-code/) musí dost jasně říkat, co a jak má udělat. Mimo jiné jej na začátku musíte instruovat, jestli takové věci může nebo nemůže provést sám, bez zeptání se (já pro tento případ nastavil, ať to sází bez mého schválení). Ale to už je ta vyšší dívčí, na kterou se podíváme někdy příště. 
 
 Teď se ještě pojďme věnovat teorii... 
 
 ## Podporované jazyky a typy projektů
 
-Claude Code je navržen jako univerzální nástroj pro vývojáře a podporuje široké spektrum programovacích jazyků a typů projektů:
+[Claude Code](/ai/claude-code/) je navržen jako univerzální nástroj pro vývojáře a podporuje široké spektrum programovacích jazyků a typů projektů:
 
 Přesto si dáme jedno upozornění na začátek, trochu jsem se s tím sám trápil. Code je určený na to, abyste jím zadávali příkazy pro programovacího agenta. Pokud chcete sami spouštět programy, které vytvoří, musíte si otevřít další okno Terminálu. Code sám sice může programy spouštět, to je ale jen pro ladící účely, kdy agent Code ověřuje, zda všechno udělal správně. Pro vaše samotné testování je potřeba si vše pustit z jiného okna.  
 

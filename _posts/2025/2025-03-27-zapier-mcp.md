@@ -31,10 +31,10 @@ Nastavení propojení mezi Zapier [MCP](/ai/mcp/) a vývojářským nástrojem C
 1. **Získání unikátního URL**
    - Navštivte stránku [zapier.com/mcp](https://zapier.com/mcp)
    - Klikněte na tlačítko "Get Started"
-   - Zkopírujte vygenerovanou unikátní URL adresu vašeho MCP serveru
+   - Zkopírujte vygenerovanou unikátní URL adresu vašeho [MCP](/ai/mcp/) serveru
 
 2. **Konfigurace v Cursor**
-   - Otevřete Cursor a přejděte do Settings → MCP → Add New MCP
+   - Otevřete Cursor a přejděte do Settings → [MCP](/ai/mcp/) → Add New MCP
    - Vložte zkopírovanou URL adresu do pole "url"
    - V konfiguračním souboru se vytvoří nová položka s názvem "Zapier Actions MCP"
 

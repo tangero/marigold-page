@@ -10,7 +10,7 @@ title: Úvod do strojového učení - Machine Learning
 
 ## Typy [strojového učení](/ai/strojove-uceni-machine-learning/)
 
-Existují tři hlavní typy strojového učení: učení s učitelem, učení bez učitele a učení posilováním.
+Existují tři hlavní typy [strojového učení](/ai/strojove-uceni-machine-learning/): učení s učitelem, učení bez učitele a učení posilováním.
 
 ### Učení s učitelem
 Učení s učitelem (supervised learning) zahrnuje trénování modelu na datové sadě, která obsahuje vstupy a odpovídající výstupy. Příkladem může být predikce ceny nemovitostí na základě historických dat o prodeji. Model se učí z těchto dat a snaží se nalézt vztah mezi vstupními vlastnostmi (velikost domu, lokalita, počet pokojů) a výstupem (cena domu). Díky tomu, že zná výsledek na obsáhlé sadě dat, je pro něj jednodušší najít souvislosti. 
@@ -23,7 +23,7 @@ Učení bez učitele (unsupervised learning) pracuje s daty, která nejsou ozna�
 
 Učení posilováním (reinforcement learning) je přístup, kde se model učí na základě interakce s prostředím a zpětné vazby ve formě odměn nebo trestů. Představte si robota, který se učí procházet bludištěm. Za každý krok správným směrem dostane odměnu, zatímco za krok špatným směrem dostane trest. Cílem je maximalizovat *celkovou odměnu*. Povšimněte si, že odezvu umožňuje třeba ChatGPT - palcem nahoru nebo dolů lze dát modelu zpětnou vazbu, zda jste byli s výstupem spokojeni. 
 
-### Příklad použití strojového učení: Velké jazykové modely (LLM)
+### Příklad použití [strojového učení](/ai/strojove-uceni-machine-learning/): Velké jazykové modely (LLM)
 
 Velké jazykové modely, jako je GPT (Generative Pre-trained Transformer) vyvinutý společností OpenAI, jsou konkrétním příkladem hlubokého učení. GPT je trénován na obrovském množství textových dat z internetu, což mu umožňuje generovat text, který je velmi podobný lidskému.
 
@@ -77,9 +77,9 @@ Hluboké učení se uplatňuje v situacích, kde je potřeba zpracovat obrovské
 - Přirozené zpracování jazyka (NLP), jako je překlad textu nebo generování odpovědí.
 - Autonomní řízení vozidel, kde je potřeba analyzovat obrazy z kamer v reálném čase.
 
-### Neuronové sítě a strojové učení?
+### [Neuronové sítě](/ai/neuronove-site/) a strojové učení?
 
-Asi jste si v případě hlubokého učení povšimli zmínky o neuronových sítích. Jaký je tedy vztah mezi strojovým učením a neuronovými sítěmi? Neuronové sítě jsou klíčovou součástí strojového učení, zejména v oblasti hlubokého učení. Strojové učení je širší oblast umělé inteligence, která zahrnuje různé přístupy a techniky pro vytváření modelů, které se učí z dat. Neuronové sítě jsou jedním z mnoha typů modelů používaných ve strojovém učení. Pro jaké použití se neuronové sítě v ML hodí?
+Asi jste si v případě hlubokého učení povšimli zmínky o neuronových sítích. Jaký je tedy vztah mezi strojovým učením a neuronovými sítěmi? [Neuronové sítě](/ai/neuronove-site/) jsou klíčovou součástí strojového učení, zejména v oblasti hlubokého učení. Strojové učení je širší oblast umělé inteligence, která zahrnuje různé přístupy a techniky pro vytváření modelů, které se učí z dat. Neuronové sítě jsou jedním z mnoha typů modelů používaných ve strojovém učení. Pro jaké použití se neuronové sítě v ML hodí?
 
 - Zpracování přirozeného jazyka (NLP): Rekurentní neuronové sítě (RNN) a transformery
 - Počítačové vidění: Konvoluční neuronové sítě (CNN)

@@ -46,7 +46,7 @@ Jaké výrazy v umělé inteligenci se běžně používají?
 
 ***Human-in-the-Loop***: Metoda trénování a provozu AI, kde jsou lidé aktivně zapojeni do rozhodovacího procesu, aby se minimalizovala rizika a zlepšila přesnost.
 
-***Hluboké učení (Deep Learning)***: Metoda umělé inteligence a podoblast strojového učení, která využívá více parametrů k rozpoznávání složitých vzorů v obrazech, zvucích a textech.
+***Hluboké učení (Deep Learning)***: Metoda umělé inteligence a podoblast [strojového učení](/ai/strojove-uceni-machine-learning/), která využívá více parametrů k rozpoznávání složitých vzorů v obrazech, zvucích a textech.
 
 ***Kapsulové sítě (Capsule Networks)***: Alternativní architektura neuronových sítí, která zpracovává prostorové vztahy mezi prvky ve vstupních datech.
 
@@ -98,6 +98,6 @@ Jaké výrazy v umělé inteligenci se běžně používají?
 
 ***Umělá inteligence (Artificial Intelligence - AI)***: Vytváření strojů nebo softwaru, které mohou provádět úkoly vyžadující lidskou inteligenci.
 
-***Velké jazykové modely (Large Language Models)***: Modely strojového učení vyškolené na rozsáhlých textových datech, aby generovaly, doplňovaly nebo překládaly text.
+***Velké jazykové modely (Large Language Models)***: Modely [strojového učení](/ai/strojove-uceni-machine-learning/) vyškolené na rozsáhlých textových datech, aby generovaly, doplňovaly nebo překládaly text.
 
 ***Zaujatost (Bias)***: V kontextu umělé inteligence jde o zkreslení výsledků, které mohou vzniknout v důsledku strukturních nebo programovacích vad nebo nesprávných či nevyvážených tréninkových dat.

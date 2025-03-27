@@ -20,12 +20,12 @@ Jak tokenizace probíhá krok za krokem ...
 
 Tokenizace textu a jeho následná vektorizace jsou klíčové procesy v oblasti zpracování přirozeného jazyka (NLP), které umožňují převést lidsky čitelný text do formy srozumitelné pro [strojové učení](/ai/strojove-uceni-machine-learning/) a [neuronové sítě](/ai/neuronove-site/). Tento článek se zaměří na tyto procesy s důrazem na specifika českého jazyka.
 
-Začněme s naším příkladovým textem: *"Lil jsem vodu ze skleničky do lahve, dokud nebyla plná."* Prvním krokem je tokenizace, tedy rozdělení textu na menší jednotky zvané tokeny. V případě češtiny je tento proces komplexnější než u analytických jazyků jako je angličtina, a to především kvůli bohaté morfologii a flexibilitě slovosledu.
+Začněme s naším příkladovým textem: *"Lil jsem vodu ze skleničky do lahve, dokud nebyla plná."* Prvním krokem je tokenizace, tedy rozdělení textu na menší jednotky zvané [tokeny](/ai/tokeny-versus-slova/). V případě češtiny je tento proces komplexnější než u analytických jazyků jako je angličtina, a to především kvůli bohaté morfologii a flexibilitě slovosledu.
 
 Pro češtinu bychom mohli použít pokročilý tokenizér, který by text rozdělil následovně:
 *["Lil", "jsem", "vodu", "ze", "skleničky", "do", "lahve", ",", "dokud", "nebyla", "plná", "."]*
 
-Všimněte si, že tokenizér zachoval interpunkci jako samostatné tokeny. V sofistikovanějších systémech by mohl být použit lemmatizátor, který by převedl slova do jejich základních tvarů, například "Lil" na "lít" a "skleničky" na "sklenička". Tento krok by mohl vypadat takto:
+Všimněte si, že tokenizér zachoval interpunkci jako samostatné [tokeny](/ai/tokeny-versus-slova/). V sofistikovanějších systémech by mohl být použit lemmatizátor, který by převedl slova do jejich základních tvarů, například "Lil" na "lít" a "skleničky" na "sklenička". Tento krok by mohl vypadat takto:
 *["lít", "být", "voda", "z", "sklenička", "do", "lahev", ",", "dokud", "nebýt", "plný", "."]*
 
 Dalším krokem je převod těchto tokenů na číselné vektory. Existuje několik metod, jak toho dosáhnout. Jednou z nejjednodušších je one-hot encoding, kde každý token je reprezentován vektorem o délce rovné velikosti slovníku, s jedničkou na pozici odpovídající danému tokenu a nulami jinde. Tento přístup je však neefektivní pro velké slovníky a nezachycuje sémantické vztahy mezi slovy.

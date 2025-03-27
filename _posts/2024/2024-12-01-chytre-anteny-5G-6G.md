@@ -119,7 +119,7 @@ Jedním z hlavních cílů při návrhu chytrých antén pro sítě 5G a 6G je z
 
 Umělá inteligence (AI) a [strojové učení](/ai/strojove-uceni-machine-learning/) (ML) se stávají neoddělitelnou součástí návrhu a správy chytrých antén. AI umožňuje analyzovat obrovské množství dat ze sítě, jako jsou informace o poloze uživatelů, síle signálu nebo stavu připojení, a na základě těchto dat optimalizovat směrování signálu v reálném čase. AI se také používá k predikci pohybu uživatelů, což umožňuje předem přizpůsobit parametry antén a zajistit tak stabilní a kvalitní připojení.
 
-**DeepMind**, dceřiná společnost Google, pracuje na vývoji algoritmů strojového učení, které mohou být použity pro optimalizaci výkonu chytrých antén. Tyto algoritmy umožňují anténám samostatně se učit a přizpůsobovat na základě měnících se podmínek v síti, což zlepšuje jejich schopnost zvládat složité scénáře a zvyšuje efektivitu přenosu.
+**DeepMind**, dceřiná společnost Google, pracuje na vývoji algoritmů [strojového učení](/ai/strojove-uceni-machine-learning/), které mohou být použity pro optimalizaci výkonu chytrých antén. Tyto algoritmy umožňují anténám samostatně se učit a přizpůsobovat na základě měnících se podmínek v síti, což zlepšuje jejich schopnost zvládat složité scénáře a zvyšuje efektivitu přenosu.
 
 ### Holografické antény
 
@@ -165,7 +165,7 @@ Je zřejmé, že firmy prosazují to, kde jsou nejsilnější. Evropské firmy t
 
 Chytré antény jsou nezbytnou součástí sítí 5G a 6G, které umožňují efektivní využití spektra, zajištění kvalitního signálu a zvýšení kapacity a energetické efektivity. Díky technologiím jako Smart Array, Massive MIMO, fázovaná anténní pole a integraci AI se chytré antény stávají klíčovým prvkem pro budoucí rozvoj mobilních komunikací. Firmy jako Ericsson, Huawei, Nokia, Qualcomm, Metawave a další investují do vývoje těchto technologií, aby umožnily splnění rostoucích požadavků na rychlost, kapacitu a spolehlivost sítí.
 
-Budoucnost chytrých antén slibuje další pokroky v oblasti materiálových věd, strojového učení a optimalizace energetické spotřeby, což nám umožní dosáhnout lepší konektivity, vyšší kvality služeb a efektivnějšího využití zdrojů. Můžeme očekávat, že jednotlivé výzkumné směry budou postupně fúzovat a budeme se stále častěji potkávat s nejrůznějšími kombinovanými technologiemi.
+Budoucnost chytrých antén slibuje další pokroky v oblasti materiálových věd, [strojového učení](/ai/strojove-uceni-machine-learning/) a optimalizace energetické spotřeby, což nám umožní dosáhnout lepší konektivity, vyšší kvality služeb a efektivnějšího využití zdrojů. Můžeme očekávat, že jednotlivé výzkumné směry budou postupně fúzovat a budeme se stále častěji potkávat s nejrůznějšími kombinovanými technologiemi.
 
 I když... potkávat? Copak někdy někdo z běžných uživatelů zkoumal, jak antény v jejich mobilu fungují?
 

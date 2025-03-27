@@ -17,9 +17,9 @@ Tyto [halucinace](/ai/halucinace-ai/) představují zásadní problém zejména 
 
 ### Co jsou [halucinace](/ai/halucinace-ai/) v kontextu umělé inteligence?
 
-[Halucinací](/ai/halucinace-ai/) nazýváme situaci, kdy model, trénovaný zejména na predikci dalšího symbolu v sekvenci, vyprodukuje nesprávný či zcela vymyšlený obsah. Jde tedy o „faktografické omyly“ nebo smyšlené informace bez opory v tréninkových datech či kontextu. Halucinace se mohou pohybovat od drobných chyb v datech, například nesprávné citace, až po zcela vykonstruované a neexistující teorie či skutečnosti. Uživatel, který takový výstup obdrží, může mylně nabýt dojmu, že je model spolehlivým zdrojem pravdivých informací.
+[Halucinací](/ai/halucinace-ai/) nazýváme situaci, kdy model, trénovaný zejména na predikci dalšího symbolu v sekvenci, vyprodukuje nesprávný či zcela vymyšlený obsah. Jde tedy o „faktografické omyly“ nebo smyšlené informace bez opory v tréninkových datech či kontextu. [Halucinace](/ai/halucinace-ai/) se mohou pohybovat od drobných chyb v datech, například nesprávné citace, až po zcela vykonstruované a neexistující teorie či skutečnosti. Uživatel, který takový výstup obdrží, může mylně nabýt dojmu, že je model spolehlivým zdrojem pravdivých informací.
 
-### Proč halucinace vznikají?
+### Proč [halucinace](/ai/halucinace-ai/) vznikají?
 
 Příčiny halucinací jsou vnitřně spjaty s principem fungování velkých jazykových modelů (LLMs – Large Language Models):
 
