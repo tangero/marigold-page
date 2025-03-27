@@ -14,8 +14,8 @@
     
     
     <item>
-      <title>Zapier MCP - Propojte AI asistenty s externími aplikacemi</title>
-      <description>Oblíbená služba Zapier nedávno vydala podporu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.
+      <title>Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi</title>
+      <description>Oblíbená automatizační služba Zapier a její (kdysi český!) konkurent Make.com nedávno vydala podporu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.
 </description>
       <pubDate>Thu, 27 Mar 2025 08:00:00 +0000</pubDate>
       <enclosure url="http://www.marigold.cz/audio/2025-03-27-zapier-mcp.mp3" 
@@ -23,7 +23,7 @@
                  type="audio/mpeg"/>
       <guid>https://www.marigold.cz/item/zapier-mcp/</guid>
       <itunes:duration>00:00:00</itunes:duration>
-      <itunes:summary>Oblíbená služba Zapier nedávno vydala podporu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.
+      <itunes:summary>Oblíbená automatizační služba Zapier a její (kdysi český!) konkurent Make.com nedávno vydala podporu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.
 </itunes:summary>
       <itunes:image href="https://www.marigold.cz/assets/podcast-cover.jpg"/>
     </item>
