@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová síť"
 date: 2024-07-05
-order: 2
 hide: true
+layout: post
+order: 2
+title: Technologie Transformátorů - ani hračka, ani elektrosoučástka, ale neuronová
+  síť
 ---
 
-Základem LLM je architektura Transformátorů, představená v roce 2017 v průlomové práci ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762). Tato architektura přinesla několik klíčových inovací, které umožnily zpracování dlouhých sekvencí textu s velkou efektivitou a přesností. Technologie transformátorů dnes stojí v základech LLM jako jsou GPT - kde to písmeno T jsou právě Transformátory. 
+Základem LLM je architektura [Transformátorů](/ai/transformatory/), představená v roce 2017 v průlomové práci ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762). Tato architektura přinesla několik klíčových inovací, které umožnily zpracování dlouhých sekvencí textu s velkou efektivitou a přesností. Technologie [transformátorů](/ai/transformatory/) dnes stojí v základech LLM jako jsou GPT - kde to písmeno T jsou právě Transformátory. 
 
 Jádrem transformátorové architektury je mechanismus pozornosti *(attention mechanism)*. Tento mechanismus umožňuje modelu dynamicky "zaměřit se" na různé části vstupního textu při generování každého výstupního tokenu. To je zásadní vylepšení oproti předchozím rekurentním neuronovým sítím (RNN), které zpracovávaly text sekvenčně. Mechanismus pozornosti umožňuje paralelní zpracování, což významně zrychluje trénink i inferenci.
 
-Konkrétně, Transformátory používá tzv. "self-attention", kde každý token v sekvenci interaguje se všemi ostatními tokeny. To se děje pomocí tří vektorů pro každý token: dotaz (query), klíč (key) a hodnota (value). Tyto vektory jsou lineárními transformacemi vstupního embeddigu tokenu. Pozornost se počítá jako vážený součet hodnot, kde váhy jsou určeny skalárním součinem dotazu s klíči.
+Konkrétně, Transformátory používá tzv. "self-attention", kde každý [token](/ai/tokeny-versus-slova/) v sekvenci interaguje se všemi ostatními [tokeny](/ai/tokeny-versus-slova/). To se děje pomocí tří vektorů pro každý token: dotaz (query), klíč (key) a hodnota (value). Tyto vektory jsou lineárními transformacemi vstupního embeddigu tokenu. Pozornost se počítá jako vážený součet hodnot, kde váhy jsou určeny skalárním součinem dotazu s klíči.
 
 LLM typicky používají tzv. *multi-head attention*, kde se několik mechanismů pozornosti aplikuje paralelně. To umožňuje modelu zachytit různé typy vztahů mezi tokeny současně.
 

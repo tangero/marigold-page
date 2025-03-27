@@ -63,7 +63,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
   - Ideální pro jednoduché nástroje a lead magnety
   - Umí vytvořit aplikaci na základě jednoho promptu
   - Pro složitější systémy nedostačuje
-  - Neomezený počet aplikací bez limitu na tokeny
+  - Neomezený počet aplikací bez limitu na [tokeny](/ai/tokeny-versus-slova/)
 - **Vhodné pro**: Rychlé generování funkčních miniaplikací
 
 ---
@@ -72,7 +72,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
 - **Funkce**:
   - Určen pro pokročilý vývoj
   - Funguje jako agent s pamětí
-  - Disponuje webovým vyhledáváním a hlubokou analýzou (DeepSeek)
+  - Disponuje webovým vyhledáváním a hlubokou analýzou ([DeepSeek](/item/deepseek/))
 - **Vhodné pro**: Vysoká úroveň autonomie a flexibility při tvorbě aplikací
 
 ---
@@ -136,7 +136,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
   - Velmi silný v přirozeném jazyce a bezpečném vývoji
   - Vývojový "nástroj" Anthropicu, velmi samostatně fungující Agent. Spouští se z příkazové řádky, ale neočekává se, že byste sami sahali do zdrojového kódu. Pro opravy, ladění a menší i střední projekty velmi dobrý, ale platí se za dotazy, takže může vyjít draho. Moje [zkušenosti s ním zde](https://www.marigold.cz/ai/claude-code/). 
 - **Vhodné pro**: Práci s dokumentací, návrhy i analýzou
-- **Cenový model**: Platí se za tokeny. 
+- **Cenový model**: Platí se za [tokeny](/ai/tokeny-versus-slova/). 
 
 ---
 
@@ -237,7 +237,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
 
 ### 22. [Base44](https://base44.com/)
 - **Funkce**:
-  - AI agent pro budování interních nástrojů 
+  - [AI agent](/ai/agenti/) pro budování interních nástrojů 
   - Umožňuje vytvářet vlastní software bez kódování
   - Poskytuje nástroje pro monitorování interakcí a konfiguraci nastavení [BASE44 - AI-Powered Software Development](https://base44.com/apps/ai-agent-framework-60fda1db?utm_source=marigold)
 - **Vhodné pro**: Firmy hledající rychlé řešení pro interní aplikace
@@ -320,7 +320,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
 
 ### 32. [Smol Developer](https://github.com/smol-ai/developer)
 - **Funkce**:
-  - Minimalistický AI agent pro rychlé generování kódu
+  - Minimalistický [AI agent](/ai/agenti/) pro rychlé generování kódu
 - **Cenový model**: Bezplatný
 
 ---

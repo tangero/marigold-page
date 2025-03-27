@@ -24,7 +24,7 @@ Základní parametry nového modelu jsou přímo úžasné. Je podstatně rychle
 
 Ano, nový Omni model můžete používat ke konverzaci, kdy si přímo v reálném čase povídáte s hlasovým výstupem ChatGPT. A někoho už samozřejmě napadlo pustit proti sobě dva takové modely a sledovat, jak si spolu popovídají. Inu, popovídaly si pěkně. Jenže, po pravdě řečeno se čekalo tak nějak více. Očekávání přiživoval publikovanými náznaky Sam Altman, takže se čekalo GPT-5 nebo alespoň vyhledávací nástroj založení na umělé inteligenci. 
 
-Nejsem sám, komu je to málo. Už delší dobu se šušká, že AI je nyní v období "technologické pauzy", tedy v době, kdy se musí nastřádat několik technologických inovací najednou, aby se celé odvětví mohlo "zázračně" posunout dále. To se běžně stává, LLM modely posunula obrovsky před pěti lety technologie transformátorů společně s [Word2vec](/ai/word2vec/) - přičemž jedno bez druhého nemělo pro AI valný smysl. 
+Nejsem sám, komu je to málo. Už delší dobu se šušká, že AI je nyní v období "technologické pauzy", tedy v době, kdy se musí nastřádat několik technologických inovací najednou, aby se celé odvětví mohlo "zázračně" posunout dále. To se běžně stává, LLM modely posunula obrovsky před pěti lety technologie [transformátorů](/ai/transformatory/) společně s [Word2vec](/ai/word2vec/) - přičemž jedno bez druhého nemělo pro AI valný smysl. 
 
 A tak čekáme, co bude. Možná nás OpenAI nakonec překvapí generačně lepším GPT-5, možná si jen dáme pauzu, během níž bude vývoj AI spíše inkrementální...
 

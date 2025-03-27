@@ -28,7 +28,7 @@ title: Drobky, co možná nechcete přehlédnout
 
   * iOS má veřejnou betu verze 18, zatím bez AI funkcí. Funguje na iPhonech vyrobených po roce 2018 - a zatím se zkoušením nespěchejte, za vidění stojí jen tmavé ikonky služeb a bez toho můžete chvíli žít. 
 
-  * Anthropic [zdvojnásobil limit](https://x.com/alexalbert__/status/1812921642143900036?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-double-booster-for-claude) výstupu tokenů pro Claude 3.5 Sonnet z 4096 na 8192. Zatím jen v API a na konzoli, ale na webu to jistě bude záhy následovat. Co to znamená? Odpovědi na prompt budou moc mít více jak cca 3500 slov... A Claude už má mobilní aplikaci i pro Android!
+  * Anthropic [zdvojnásobil limit](https://x.com/alexalbert__/status/1812921642143900036?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-double-booster-for-claude) výstupu [tokenů](/ai/tokeny-versus-slova/) pro Claude 3.5 Sonnet z 4096 na 8192. Zatím jen v API a na konzoli, ale na webu to jistě bude záhy následovat. Co to znamená? Odpovědi na prompt budou moc mít více jak cca 3500 slov... A Claude už má mobilní aplikaci i pro Android!
 
   * Superzajímavý a podrobný článek o tom, [jakým problémům se čelí při vývoji umělé náhrady krve](https://www.asimov.press/p/synthetic-blood). Výroba je zatím velmi nákladná (8 000-15 000 $ za jednotku vs. 250 $ za darovanou krev), investuje především americká armáda. Prvním praktickým využitím syntetické krve bude pravděpodobně akutní péče při traumatech a krvácení, než jako dlouhodobá náhrada krve.
 
@@ -51,7 +51,7 @@ Samsung představoval nové ohebné mobily a také a především svůj [první 
 
 iOS má veřejnou betu verze 18, zatím bez AI funkcí. Funguje na iPhonech vyrobených po roce 2018 - a zatím se zkoušením nespěchejte, za vidění stojí jen tmavé ikonky služeb a bez toho můžete chvíli žít. 
 
-Anthropic [zdvojnásobil limit](https://x.com/alexalbert__/status/1812921642143900036?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-double-booster-for-claude) výstupu tokenů pro Claude 3.5 Sonnet z 4096 na 8192. Zatím jen v API a na konzoli, ale na webu to jistě bude záhy následovat. Co to znamená? Odpovědi na prompt budou moc mít více jak cca 3500 slov... A Claude už má mobilní aplikaci i pro Android!
+Anthropic [zdvojnásobil limit](https://x.com/alexalbert__/status/1812921642143900036?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-double-booster-for-claude) výstupu [tokenů](/ai/tokeny-versus-slova/) pro Claude 3.5 Sonnet z 4096 na 8192. Zatím jen v API a na konzoli, ale na webu to jistě bude záhy následovat. Co to znamená? Odpovědi na prompt budou moc mít více jak cca 3500 slov... A Claude už má mobilní aplikaci i pro Android!
 
 Superzajímavý a podrobný článek o tom, [jakým problémům se čelí při vývoji umělé náhrady krve](https://www.asimov.press/p/synthetic-blood). Výroba je zatím velmi nákladná (8 000-15 000 $ za jednotku vs. 250 $ za darovanou krev), investuje především americká armáda. Prvním praktickým využitím syntetické krve bude pravděpodobně akutní péče při traumatech a krvácení, než jako dlouhodobá náhrada krve.
 

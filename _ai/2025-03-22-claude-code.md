@@ -16,7 +16,7 @@ __Co konkrétně se v tomto článku dozvíte?__
 
 ## Jak [Claude Code](/ai/claude-code/) funguje
 
-Claude Code je postaven jako terminálová aplikace, která umožňuje konverzaci s AI asistentem Claude, ale na rozdíl od webové verze má přístup k vašemu lokálnímu vývojovému prostředí. To znamená, že může:
+[Claude Code](/ai/claude-code/) je postaven jako terminálová aplikace, která umožňuje konverzaci s AI asistentem Claude, ale na rozdíl od webové verze má přístup k vašemu lokálnímu vývojovému prostředí. To znamená, že může:
 
 - Číst a analyzovat soubory ve vašem projektu
 - Provádět Git operace
@@ -24,7 +24,7 @@ Claude Code je postaven jako terminálová aplikace, která umožňuje konverzac
 - Vytvářet nové soubory a skripty
 - Pomáhat s debugováním a řešením problémů
 
-Celý nástroj funguje v kontextu vašeho projektu, což umožňuje Claude porozumět vaší kódové základně a poskytovat relevantnější pomoc. Také to má ale nástrahy, protože posílání "kontextu", tj. všech souvisejících kódů hodně zatěžuje LLM a zaplatíte si to. A tím se **dostáváme k bodu placení**, který trochu odbudeme. Claude Code se platí, pro jeho použití se musíte přihlásit do služby Claude a dostatečně si ji naplnit alespoň 5 dolary plus DPH. Bez platební karty se neobejdete. A cena se platí podle tarifu Claude Sonnet, tedy za odeslané a vygenerované tokeny. Počítejte s tím, že Claude Code je vlastně docela drahý v kontextu jiných nástrojů. Hodně plýtvá kontextem, díky čemuž má ale také výrazně lepší výsledky. Počítejte s tím, že jednoduchý script vás vyjde na dolary, denní velmi intenzivní práce může stát i třeba dvacet dolarů...
+Celý nástroj funguje v kontextu vašeho projektu, což umožňuje Claude porozumět vaší kódové základně a poskytovat relevantnější pomoc. Také to má ale nástrahy, protože posílání "kontextu", tj. všech souvisejících kódů hodně zatěžuje LLM a zaplatíte si to. A tím se **dostáváme k bodu placení**, který trochu odbudeme. [Claude Code](/ai/claude-code/) se platí, pro jeho použití se musíte přihlásit do služby Claude a dostatečně si ji naplnit alespoň 5 dolary plus DPH. Bez platební karty se neobejdete. A cena se platí podle tarifu Claude Sonnet, tedy za odeslané a vygenerované [tokeny](/ai/tokeny-versus-slova/). Počítejte s tím, že Claude Code je vlastně docela drahý v kontextu jiných nástrojů. Hodně plýtvá kontextem, díky čemuž má ale také výrazně lepší výsledky. Počítejte s tím, že jednoduchý script vás vyjde na dolary, denní velmi intenzivní práce může stát i třeba dvacet dolarů...
 
 Co je výhoda? Můžet s Claudem mluvit česky, rozumí vám. Bude odpovídat také převážně česky, některé drobnosti dá anglicky. 
 

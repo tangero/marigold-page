@@ -1,18 +1,17 @@
 ---
-layout: post
-title: Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?
 date: 2025-03-09
+layout: post
 order: 2
 thumbnail: https://cxscoop.com/wp-content/uploads/2023/07/Google-Microsoft-OpenAI-and-Anthropic-to-Form-Industry-Group-1440x914.png
+title: Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?
 ---
-
 
 Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou. 
 
 A protože se na to často ptáte, tady je můj osobní setup, když se musím trochu víc koukat na cenu (tj. převážně v případě, když jedu přes API za peníze):
 
 - Nejlepší model pro všeobecné použití: Sonet 3.7 pokud chci používat češtinu, Gemini Pro 2.0 Experimental pokud je to na jazyk nenáročné (jinak OpenAI GPT-4.5, ale za to se nedoplatíte)
-- Nejlepší okamžité odpovědi na cokoliv:  Perplexity Pro bez Deepseek volby
+- Nejlepší okamžité odpovědi na cokoliv:  Perplexity Pro bez [Deepseek](/item/deepseek/) volby
 - Zpracování velkého množství obsahu najednou (např. vytahání podstatných info z přepisů zastupitelstev): Gemini 2.0 Pro Experimental.
 - Nejlepší psaní textu (a odůvodnění): 3.7 Sonet
 - Nejlepší pro analýzu PDF, porozumění datům: 3.7 Sonet
@@ -41,8 +40,8 @@ Zde je tabulka porovnávající modely OpenAI o1, o3-mini (včetně variant low/
 | **o3-mini-low**   | ~8 miliard (odhad)        | Nákladově efektivní úlohy s nižšími požadavky na přesnost                                                 | Optimalizováno pro nízké náklady, základní úroveň uvažování                                               |
 | **o3-mini-medium**| ~8 miliard (odhad)        | Vyvážené úlohy mezi výkonem a náklady                                                                     | Střední úroveň uvažování                                                                                  |
 | **o3-mini-high**  | ~8 miliard (odhad)        | Úlohy vyžadující vyšší přesnost a lepší analytické schopnosti                                             | Nejvyšší úroveň uvažování, delší doba zpracování                                                          |
-| **GPT-4o**        | ~200 miliard (odhad)      | Multimodální úlohy (text, obraz, audio), reálné interakce, analýza dat, překlady                          | Multimodalita (text, obraz, audio), velké kontextové okno (128 000 tokenů), generování řeči               |
-| **GPT-4.5**       | Neznámý (větší než GPT-4) | Široké spektrum úloh: kreativní psaní, programování, komplexní analýzy                                    | Největší model OpenAI s vylepšeným kontextovým oknem (128 000 tokenů), excelentní v programování a analýze |
+| **GPT-4o**        | ~200 miliard (odhad)      | Multimodální úlohy (text, obraz, audio), reálné interakce, analýza dat, překlady                          | Multimodalita (text, obraz, audio), velké kontextové okno (128 000 [tokenů](/ai/tokeny-versus-slova/)), generování řeči               |
+| **GPT-4.5**       | Neznámý (větší než GPT-4) | Široké spektrum úloh: kreativní psaní, programování, komplexní analýzy                                    | Největší model OpenAI s vylepšeným kontextovým oknem (128 000 [tokenů](/ai/tokeny-versus-slova/)), excelentní v programování a analýze |
 
 ### Shrnutí vhodnosti použití:
 1. **o1:** Ideální pro vědecký výzkum, matematiku a složité technické problémy. Nabízí pokročilé uvažování a schopnost analyzovat obrazy.
@@ -119,4 +118,4 @@ Zdroje
 
 ## Ponaučení
 
-Ve skutečnosti, pokud budete něco vyvíjet, doporučuji nejdříve ve webovém rozhraní odladit prompt na konkrétní model. Nejprve si napište prompt, pak jej vyzkoušejte na jednotlivé modely ve webovém rozhraní a zjistěte, který vám vyhovuje nejlépe. Pak přizpůsobujte prompt tak, abyste dosáhli přesně toho výstupu, jaký potřebujete. 
+Ve skutečnosti, pokud budete něco vyvíjet, doporučuji nejdříve ve webovém rozhraní odladit prompt na konkrétní model. Nejprve si napište prompt, pak jej vyzkoušejte na jednotlivé modely ve webovém rozhraní a zjistěte, který vám vyhovuje nejlépe. Pak přizpůsobujte prompt tak, abyste dosáhli přesně toho výstupu, jaký potřebujete.

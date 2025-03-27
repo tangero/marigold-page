@@ -1,12 +1,12 @@
 ---
-layout: post
-title: "Tokenizace textu"
 date: 2024-07-05
-order: 2
 hide: true
+layout: post
+order: 2
+title: Tokenizace textu
 ---
 
-Tokenizace textu je proces rozdělení textu na menší jednotky zvané tokeny. Jak tokenizace funguje a jaký je rozdíl v tokenizaci mezi angličtinou a češtinou? Pojďme si o tom něco povědět. 
+Tokenizace textu je proces rozdělení textu na menší jednotky zvané [tokeny](/ai/tokeny-versus-slova/). Jak tokenizace funguje a jaký je rozdíl v tokenizaci mezi angličtinou a češtinou? Pojďme si o tom něco povědět. 
 
 ## Obecný proces tokenizace:
 
@@ -14,7 +14,7 @@ Jak tokenizace probíhá krok za krokem ...
 
 1. Předzpracování textu - probíhá odstranění nepotřebných znaků a formátování. Následně dojde k normalizaci textu (např. převod na malá písmena).
 2. Segmentace - tedy rozdělení textu na menší jednotky (slova, podslova, znaky).
-3. Normalizace tokenů - úprava tokenů do standardní formy
+3. Normalizace [tokenů](/ai/tokeny-versus-slova/) - úprava tokenů do standardní formy
 4. Vytvoření slovníku - sestavení seznamu unikátních tokenů
 5. Indexace - Přiřazení číselných identifikátorů každému tokenu
 
@@ -88,4 +88,4 @@ A my se ještě podívejme na to, jak se liší proces při tokenizaci angličti
 6. Kontextová závislost
    - V češtině je často potřeba brát v úvahu širší kontext pro správnou tokenizaci a lemmatizaci
 
-Tokenizace češtiny je obecně složitější proces vyžadující sofistikovanější přístupy a nástroje ve srovnání s angličtinou, zejména kvůli bohatší morfologii a složitější struktuře jazyka.​​​​​​​​​​​​​​​​ I proto mohou být výstupy v jednotlivých jazycích velmi rozdílné. 
+Tokenizace češtiny je obecně složitější proces vyžadující sofistikovanější přístupy a nástroje ve srovnání s angličtinou, zejména kvůli bohatší morfologii a složitější struktuře jazyka.​​​​​​​​​​​​​​​​ I proto mohou být výstupy v jednotlivých jazycích velmi rozdílné.

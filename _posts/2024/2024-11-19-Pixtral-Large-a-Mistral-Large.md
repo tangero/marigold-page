@@ -16,7 +16,8 @@ summary_points:
 - Le Chat Agents automatizují opakující se úkoly a workflow.
 - Pixtral Large a Mistral Large 24.11 posouvají multimodální AI možnosti.
 thumbnail: https://www.marigold.cz/assets/le-chat-mistral-ai.jpg
-title: Mistral AI má Pixtral Large a Mistral Large 24.11 a rozšiřuje možnosti -  vyhledávání, canvas, zpracování dokumentů, obrázky 
+title: Mistral AI má Pixtral Large a Mistral Large 24.11 a rozšiřuje možnosti -  vyhledávání,
+  canvas, zpracování dokumentů, obrázky
 ---
 
 Francouzská společnost Mistral AI oznámila významnou aktualizaci svých LLM nástrojů a také své chatovací platformy *le Chat* [/lə ʃa/]. Dotahuje tak svůj open-source model významně blízko k možnostem uzavřených řešení, jako je Claude nebo ChatGPT. 
@@ -77,7 +78,7 @@ Pixtral Large je 124B open-source multimodální model, který staví na textov�
 Hlavní vlastnosti Pixtral Large:
 •	Výkon na hranici možností: Špičkové výsledky na benchmarkech, jako jsou MathVista, DocVQA a VQAv2.
 •	Pokročilá architektura: 123B parametrů pro dekodér textu a 1B parametrů pro vizuální enkodér.
-•	Velká kapacita kontextu: Podpora až 128 tisíc tokenů, což umožňuje zpracování více než 30 snímků ve vysokém rozlišení najednou.
+•	Velká kapacita kontextu: Podpora až 128 tisíc [tokenů](/ai/tokeny-versus-slova/), což umožňuje zpracování více než 30 snímků ve vysokém rozlišení najednou.
 •	Multimodální aplikace: Model exceluje v úlohách jako analýza dokumentů, grafů, rovnic a vizuálních dat.
 
 Pixtral Large dosahuje 69,4 % na MathVista, čímž překonává konkurenty jako GPT-4o a Gemini-1.5 Pro, a vyniká i na dalších testovacích sadách, jako jsou ChartQA a DocVQA.

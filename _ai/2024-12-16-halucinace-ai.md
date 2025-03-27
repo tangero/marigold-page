@@ -1,17 +1,19 @@
 ---
-layout: post
-title: Halucinace v umělé inteligenci -  Co to je, proč vznikají, jak je rozpoznat a minimalizovat
 date: 2024-12-16
+layout: post
 order: 4
 thumbnail: https://datascientest.com/en/files/2024/03/AI_hallucinations-1024x585-1.jpg
+title: Halucinace v umělé inteligenci -  Co to je, proč vznikají, jak je rozpoznat
+  a minimalizovat
 ---
+
 __Co konkrétně se v tomto článku dozvíte?__ 
 * Obsah
 {:toc}
 
-Halucinace ve světě umělé inteligence nejsou metaforickým popisem mystických vizí, nýbrž zcela konkrétním a nežádoucím jevem, kdy model (například velký jazykový model typu GPT, LLaMA či PaLM) generuje informace, které buď neodpovídají realitě, nebo jsou zcela smyšlené. 
+[Halucinace](/ai/halucinace-ai/) ve světě umělé inteligence nejsou metaforickým popisem mystických vizí, nýbrž zcela konkrétním a nežádoucím jevem, kdy model (například velký jazykový model typu GPT, LLaMA či PaLM) generuje informace, které buď neodpovídají realitě, nebo jsou zcela smyšlené. 
 
-Tyto halucinace představují zásadní problém zejména v oblastech, kde je vyžadována absolutní přesnost a důvěryhodnost, jako jsou právní dokumenty, medicínské diagnózy či technické specifikace. Přestože se jedná o poměrně známý fenomén, pochopení jeho vzniku, možností detekce a opatření proti němu je klíčové pro efektivní a odpovědné nasazování pokročilých AI systémů.
+Tyto [halucinace](/ai/halucinace-ai/) představují zásadní problém zejména v oblastech, kde je vyžadována absolutní přesnost a důvěryhodnost, jako jsou právní dokumenty, medicínské diagnózy či technické specifikace. Přestože se jedná o poměrně známý fenomén, pochopení jeho vzniku, možností detekce a opatření proti němu je klíčové pro efektivní a odpovědné nasazování pokročilých AI systémů.
 
 ### Co jsou halucinace v kontextu umělé inteligence?
 
@@ -21,7 +23,7 @@ Halucinací nazýváme situaci, kdy model, trénovaný zejména na predikci dal�
 
 Příčiny halucinací jsou vnitřně spjaty s principem fungování velkých jazykových modelů (LLMs – Large Language Models):
 
-1. **Statistická podstata modelu**: Modely jako GPT jsou trénovány na obrovských objemech textu tak, aby se naučily predikovat pravděpodobnost výsktu následujícího tokenu (slova či symbolu). Nemají implicitní porozumění „pravdě“ či světu kolem nás, ale pouze statistickou reprezentaci souvislostí mezi tokeny. Pokud se ocitnou v situaci, kdy je pravděpodobnost mnoha slibně vypadajících, ale nekorektních odpovědí podobná, mohou zvolit „nejpravděpodobnější znející“ variantu, která je ovšem zcela smyšlená.
+1. **Statistická podstata modelu**: Modely jako GPT jsou trénovány na obrovských objemech textu tak, aby se naučily predikovat pravděpodobnost výsktu následujícího tokenu (slova či symbolu). Nemají implicitní porozumění „pravdě“ či světu kolem nás, ale pouze statistickou reprezentaci souvislostí mezi [tokeny](/ai/tokeny-versus-slova/). Pokud se ocitnou v situaci, kdy je pravděpodobnost mnoha slibně vypadajících, ale nekorektních odpovědí podobná, mohou zvolit „nejpravděpodobnější znející“ variantu, která je ovšem zcela smyšlená.
 
 2. **Nedostatek kontextu**: Pokud model nemá k dispozici dostatek kontextových informací, často se uchýlí k „logickým domýšlením“. Výsledkem může být vytvoření zdánlivě koherentní, avšak nepravdivé odpovědi. Model se jednoduše snaží „vyplnit mezery“ tak, aby výsledek působil věrohodně.
 
@@ -31,7 +33,7 @@ Příčiny halucinací jsou vnitřně spjaty s principem fungování velkých ja
 
 ### Statistická podstata modelu
 
-Zásadním aspektem vzniku halucinací je vrozená pravděpodobnostní povaha generativních jazykových modelů. Při generování každého tokenu model pracuje s pravděpodobnostní distribucí možných následujících tokenů, přičemž výběr je ovlivněn parametrem teploty (temperature). Tento parametr určuje míru "kreativnosti" modelu - při vyšších hodnotách je distribuce pravděpodobností plošší, což vede k diverzifikovanějším, ale potenciálně méně přesným výstupům.
+Zásadním aspektem vzniku halucinací je vrozená pravděpodobnostní povaha generativních jazykových modelů. Při generování každého tokenu model pracuje s pravděpodobnostní distribucí možných následujících [tokenů](/ai/tokeny-versus-slova/), přičemž výběr je ovlivněn parametrem teploty (temperature). Tento parametr určuje míru "kreativnosti" modelu - při vyšších hodnotách je distribuce pravděpodobností plošší, což vede k diverzifikovanějším, ale potenciálně méně přesným výstupům.
 
 Kumulativní nejistota v dlouhých sekvencích představuje další kritický faktor. S každým generovaným tokenem se nejistota modelu akumuluje, což může vést k postupnému odklonu od fakticky správných informací. Tento jev je zvláště patrný při generování delších textů, kde model musí udržovat konzistenci napříč mnoha vzájemně provázanými tvrzeními.
 
@@ -80,4 +82,3 @@ Minimalizace halucinací je klíčová pro nasazení AI v praxi. Existuje někol
 ### Závěr
 
 Halucinace v umělé inteligenci jsou přímým důsledkem statistické povahy současných generativních modelů a nedostatku jejich „porozumění“ reálnému světu. Přestože jsou tyto modely neocenitelné pro mnoho úloh (summarizace textu, jazykové překlady, generování kódu, asistenční systémy), uvědomění si jejich inherentních limitací je zásadní. Technicky zdatní čtenáři by měli být obeznámeni s tím, jak halucinace vznikají, jak je spolehlivěji rozpoznávat a jak se jim bránit. Různé strategie, ať už využití externích zdrojů, jemné dolaďování, řetězcové uvažování či lidský dohled, v kombinaci povedou k robustnějším, důvěryhodnějším a obecně spolehlivějším AI systémů.
-

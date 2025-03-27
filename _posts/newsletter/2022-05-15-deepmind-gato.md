@@ -15,4 +15,4 @@ summary_points:
 title: Deepmind Gato
 ---
 
-Právě byl zveřejněn model Gato od společnosti DeepMind, ale už jsem měl málo času to pořádně nastudovat, jenže nedat to sem, by mi bylo líto. Je to univerzální AI transformátor, který umí hrát hry Atari, popisovat obrázky, chatovat s lidmi, ovládat skutečnou robotickou ruku a mnoho dalšího. A podle Deepmindu to není jen transformátor, ale také agent. Tak to dopadá, když smícháte transformátory s pokrokem v oblasti víceúlohového posilovacího učení agentů.
+Právě byl zveřejněn model Gato od společnosti DeepMind, ale už jsem měl málo času to pořádně nastudovat, jenže nedat to sem, by mi bylo líto. Je to univerzální AI transformátor, který umí hrát hry Atari, popisovat obrázky, chatovat s lidmi, ovládat skutečnou robotickou ruku a mnoho dalšího. A podle Deepmindu to není jen transformátor, ale také agent. Tak to dopadá, když smícháte [transformátory](/ai/transformatory/) s pokrokem v oblasti víceúlohového posilovacího učení agentů.

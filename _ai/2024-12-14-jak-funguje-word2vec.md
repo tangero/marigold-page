@@ -15,11 +15,11 @@ Představte si, že se snažíte naučit počítač rozumět významům slov. Ja
 Podívejme se na konkrétní příklad. Mějme větu:
 "The cat sat on the mat"
 
-V tomto případě Word2vec vezme slovo "sat" jako centrální a snaží se předpovědět slova v jeho okolí ("cat" a "on"). Tento proces se nazývá Skip-gram model.
+V tomto případě [Word2vec](/ai/word2vec/) vezme slovo "sat" jako centrální a snaží se předpovědět slova v jeho okolí ("cat" a "on"). Tento proces se nazývá Skip-gram model.
 
 ## Jak to funguje technicky
 
-Word2vec převádí každé slovo na vektor čísel - dlouhou řadu čísel (typicky 100-300 hodnot), která reprezentují různé aspekty významu slova. Tyto vektory jsou zpočátku náhodné, ale během tréninku se postupně upravují tak, aby slova s podobným významem měla podobné vektory.
+[Word2vec](/ai/word2vec/) převádí každé slovo na vektor čísel - dlouhou řadu čísel (typicky 100-300 hodnot), která reprezentují různé aspekty významu slova. Tyto vektory jsou zpočátku náhodné, ale během tréninku se postupně upravují tak, aby slova s podobným významem měla podobné vektory.
 
 Model pracuje ve dvou hlavních krocích:
 

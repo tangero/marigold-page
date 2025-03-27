@@ -1,15 +1,12 @@
 ---
-layout: post
-title: "Tokeny vs. Slova - Základní stavební jednotky kontextu v AI"
 date: 2024-12-18
+layout: post
 order: 5
 thumbnail: https://glaforge.dev/img/gemini/token-viz.jpg
+title: Tokeny vs. Slova - Základní stavební jednotky kontextu v AI
 ---
 
-
-
-
-V kontextu jazykových modelů pracujeme s pojmem "token", který se liší od běžného slova. Pochopení tohoto rozdílu je klíčové - termín se běžně používá v AI nejenom z technologického, ale také cenového pohledu. Přes API je totiž placená cena uváděná za počet tokenů. Pojďme si tedy detailněji vysvětlit, co je to token a jaký je jeho vztah vůči slovu. 
+V kontextu jazykových modelů pracujeme s pojmem "[token](/ai/tokeny-versus-slova/)", který se liší od běžného slova. Pochopení tohoto rozdílu je klíčové - termín se běžně používá v AI nejenom z technologického, ale také cenového pohledu. Přes API je totiž placená cena uváděná za počet [tokenů](/ai/tokeny-versus-slova/). Pojďme si tedy detailněji vysvětlit, co je to token a jaký je jeho vztah vůči slovu. 
 
 Definice tokenu:
 - Token je nejmenší jednotka, kterou model zpracovává

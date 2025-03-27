@@ -37,7 +37,7 @@ Tato funkce je zvláště užitečná pro větší úkoly vyžadující plánov�
 
 ## 2. Vim mód
 
-Pro zkušené vývojáře, kteří rádi používají Vim, nabízí Claude Code novou funkci Vim módu. Použijte slash příkaz `/vim` k aktivaci insert/command módů pro úpravu promptů.
+Pro zkušené vývojáře, kteří rádi používají Vim, nabízí [Claude Code](/ai/claude-code/) novou funkci Vim módu. Použijte slash příkaz `/vim` k aktivaci insert/command módů pro úpravu promptů.
 
 ![Claude code vim](/assets/claude-code-vim.png)
 
@@ -49,7 +49,7 @@ Vytvořte personalizované workflow, které lze kdykoliv vyvolat jako slash př�
 
 Můžete vytvářet příkazy pro běžné workflow jako "kontrola pravopisu kódu" nebo "dotaz na Sentry logy a následně bisect ke git commitu". Představte si je jako uložené postupy pro úkoly, které chcete provádět častěji.
 
-Vlastní slash příkazy jsou v podstatě způsob, jak si vytvořit vaše vlastní přizpůsobené workflow nebo často používané instrukce, které můžete v Claude Code rychle vyvolat pomocí příkazu začínajícího lomítkem (/).
+Vlastní slash příkazy jsou v podstatě způsob, jak si vytvořit vaše vlastní přizpůsobené workflow nebo často používané instrukce, které můžete v [Claude Code](/ai/claude-code/) rychle vyvolat pomocí příkazu začínajícího lomítkem (/).
 
 ![Claude Code user](/assets/claude-code-user.png)
 

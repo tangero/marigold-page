@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Slovník výrazů kolem umělé inteligence"
 date: 2024-09-29
-order: 
 hide: true
+layout: post
+order: null
+title: Slovník výrazů kolem umělé inteligence
 ---
 
 Jaké výrazy v umělé inteligenci se běžně používají? 
@@ -14,7 +14,7 @@ Jaké výrazy v umělé inteligenci se běžně používají?
 
 ***Antropomorfismus (Anthropomorphism)***: Když lidé mají tendenci dávat nelidským objektům vlastnosti podobné lidským. V AI to může zahrnovat přesvědčení, že chatbot je lidem podobnější a uvědomělejší, než ve skutečnosti je, například přesvědčení, že je šťastný, smutný nebo dokonce zcela vnímavý.
 
-***Autonomní agenti (Autonomous Agents)***: Model umělé inteligence, který má schopnosti, programovací a další nástroje k provedení konkrétního úkolu. Například samořídící automobil je autonomní agent, protože má k dispozici senzorické vstupy, GPS a jízdní algoritmy, které mu umožňují samostatně se pohybovat po silnici.
+***[Autonomní agenti](/ai/agenti/) (Autonomous Agents)***: Model umělé inteligence, který má schopnosti, programovací a další nástroje k provedení konkrétního úkolu. Například samořídící automobil je [autonomní agent](/ai/agenti/), protože má k dispozici senzorické vstupy, GPS a jízdní algoritmy, které mu umožňují samostatně se pohybovat po silnici.
 
 ***Bezpečnost AI (AI Safety)***: Interdisciplinární obor, který se zabývá dlouhodobými dopady UI a tím, jak by se mohla náhle vyvinout superinteligence, která by mohla být vůči lidem nepřátelská.
 
@@ -42,7 +42,7 @@ Jaké výrazy v umělé inteligenci se běžně používají?
 
 ***Google Gemini***: Chatbot s umělou inteligencí společnosti Google, který funguje podobně jako ChatGPT, ale čerpá informace z aktuálního webu, zatímco ChatGPT je omezen na data do roku 2021 a není připojen k internetu.
 
-***Halucinace (Hallucination)***: Nesprávná reakce umělé inteligence. Může zahrnovat generativní UI produkující odpovědi, které jsou nesprávné, ale uváděné s jistotou, jako by byly správné.
+***[Halucinace](/ai/halucinace-ai/) (Hallucination)***: Nesprávná reakce umělé inteligence. Může zahrnovat generativní UI produkující odpovědi, které jsou nesprávné, ale uváděné s jistotou, jako by byly správné.
 
 ***Human-in-the-Loop***: Metoda trénování a provozu AI, kde jsou lidé aktivně zapojeni do rozhodovacího procesu, aby se minimalizovala rizika a zlepšila přesnost.
 
@@ -101,4 +101,3 @@ Jaké výrazy v umělé inteligenci se běžně používají?
 ***Velké jazykové modely (Large Language Models)***: Modely strojového učení vyškolené na rozsáhlých textových datech, aby generovaly, doplňovaly nebo překládaly text.
 
 ***Zaujatost (Bias)***: V kontextu umělé inteligence jde o zkreslení výsledků, které mohou vzniknout v důsledku strukturních nebo programovacích vad nebo nesprávných či nevyvážených tréninkových dat.
-

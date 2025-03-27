@@ -69,7 +69,7 @@ Tempu řeknete, jakou aplikaci chcete stavět a společně k ní uděláte PRD -
 
 S Tempolabs jsem strávil hodně času a je to nástroj, který mě nadchnul. Je pravda, že vám příliš předkládá zdrojový kód, zatímco se snaží, abyste měli málo důvodů do něj sahat. Oproti Replitu vám ukáže kód, který doporučuje nahradit a navrhne vám, jak jej nahradit a vy jen stisknete Apply a je hotovo. Zatímco Replit Agent už o kódu příliš nemluví, Tempo se snaží ještě vypadat jako nástroj pro vývojáře. I když bych řekl, že i ono tuhle vizi záhy opustí, protože za měsíc práce s Tempem jsme do zdrojového kódu hrabal jen výjimečně. 
 
-Ceny: platíte za miliony zkonzumovaných tokenů. Půl milionu máte zdarma, za 30 dolarů získáte 25 milionů tokenů. Při celodenní práci jsem toto množství vyčerpal za týden vývoje, při kterém jsem udělal tři aplikace. Můžete si připlatit za další tokeny, za 350 dolarů měsíčně jste bez limitu.
+Ceny: platíte za miliony zkonzumovaných [tokenů](/ai/tokeny-versus-slova/). Půl milionu máte zdarma, za 30 dolarů získáte 25 milionů [tokenů](/ai/tokeny-versus-slova/). Při celodenní práci jsem toto množství vyčerpal za týden vývoje, při kterém jsem udělal tři aplikace. Můžete si připlatit za další tokeny, za 350 dolarů měsíčně jste bez limitu.
 
 V Tempu jsem naprogramoval [Progressor](https://progressor.work) - trvalo mi to jeden večer to rozchodit, další tři večery jsem to trochu šperkoval. Jen jsem zatím nenapsal, k čemu to je, což je trochu chybička, musím to napravit :) Je to nástroj k zapisování toho, co jste za den udělali. Vždycky, když něco udělám, napíšu si tu jednu větu do Progressoru a pak se kdykoliv mohu podívat, kdy jsem co dělal... 
 
