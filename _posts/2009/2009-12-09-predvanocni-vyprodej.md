@@ -1,18 +1,21 @@
 ---
 ID: 2337
+audio_url: http://www.marigold.cz/audio/2009-12-09-predvanocni-vyprodej.mp3
+audiooff: false
 author: Patrick Zandl
 layout: post
 oldlink: 'https://www.marigold.cz/item/predvanocni-vyprodej
 
   '
 post_date: 2009-12-09 17:10:51
-post_excerpt: 'Je čas zase dodat pár věcí na Aukro, draží se od korunky, takže:'
+post_excerpt: "Je \u010Das zase dodat p\xE1r v\u011Bc\xED na Aukro, dra\u017E\xED\
+  \ se od korunky, tak\u017Ee:"
 published: true
 summary_points:
-- Laks hodinky s 32 MB USB pamětí jsou na Aukru od korunky.
+- "Laks hodinky s 32 MB USB pam\u011Bt\xED jsou na Aukru od korunky."
 - USB Token SafeNet iKey 1000 je na Aukru, na Macu nefunguje.
-- Aukce hodinek končí v pátek, tokenu v neděli.
-title: Předvánoční výprodej …
+- "Aukce hodinek kon\u010D\xED v p\xE1tek, tokenu v ned\u011Bli."
+title: "P\u0159edv\xE1no\u010Dn\xED v\xFDprodej \u2026"
 ---
 
 Je čas zase dodat pár věcí na Aukro, draží se od korunky, takže:
