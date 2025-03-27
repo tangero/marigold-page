@@ -182,13 +182,13 @@ prosinec
   </li>
 </ul>
 
-<p>Halucinace ve světě umělé inteligence nejsou metaforickým popisem mystických vizí, nýbrž zcela konkrétním a nežádoucím jevem, kdy model (například velký jazykový model typu GPT, LLaMA či PaLM) generuje informace, které buď neodpovídají realitě, nebo jsou zcela smyšlené.</p>
+<p><a href="/ai/halucinace-ai/">Halucinace</a> ve světě umělé inteligence nejsou metaforickým popisem mystických vizí, nýbrž zcela konkrétním a nežádoucím jevem, kdy model (například velký jazykový model typu GPT, LLaMA či PaLM) generuje informace, které buď neodpovídají realitě, nebo jsou zcela smyšlené.</p>
 
-<p>Tyto halucinace představují zásadní problém zejména v oblastech, kde je vyžadována absolutní přesnost a důvěryhodnost, jako jsou právní dokumenty, medicínské diagnózy či technické specifikace. Přestože se jedná o poměrně známý fenomén, pochopení jeho vzniku, možností detekce a opatření proti němu je klíčové pro efektivní a odpovědné nasazování pokročilých AI systémů.</p>
+<p>Tyto <a href="/ai/halucinace-ai/">halucinace</a> představují zásadní problém zejména v oblastech, kde je vyžadována absolutní přesnost a důvěryhodnost, jako jsou právní dokumenty, medicínské diagnózy či technické specifikace. Přestože se jedná o poměrně známý fenomén, pochopení jeho vzniku, možností detekce a opatření proti němu je klíčové pro efektivní a odpovědné nasazování pokročilých AI systémů.</p>
 
-<h3 id="co-jsou-halucinace-v-kontextu-umělé-inteligence">Co jsou halucinace v kontextu umělé inteligence?</h3>
+<h3 id="co-jsou-halucinace-v-kontextu-umělé-inteligence">Co jsou <a href="/ai/halucinace-ai/">halucinace</a> v kontextu umělé inteligence?</h3>
 
-<p>Halucinací nazýváme situaci, kdy model, trénovaný zejména na predikci dalšího symbolu v sekvenci, vyprodukuje nesprávný či zcela vymyšlený obsah. Jde tedy o „faktografické omyly“ nebo smyšlené informace bez opory v tréninkových datech či kontextu. Halucinace se mohou pohybovat od drobných chyb v datech, například nesprávné citace, až po zcela vykonstruované a neexistující teorie či skutečnosti. Uživatel, který takový výstup obdrží, může mylně nabýt dojmu, že je model spolehlivým zdrojem pravdivých informací.</p>
+<p><a href="/ai/halucinace-ai/">Halucinací</a> nazýváme situaci, kdy model, trénovaný zejména na predikci dalšího symbolu v sekvenci, vyprodukuje nesprávný či zcela vymyšlený obsah. Jde tedy o „faktografické omyly“ nebo smyšlené informace bez opory v tréninkových datech či kontextu. Halucinace se mohou pohybovat od drobných chyb v datech, například nesprávné citace, až po zcela vykonstruované a neexistující teorie či skutečnosti. Uživatel, který takový výstup obdrží, může mylně nabýt dojmu, že je model spolehlivým zdrojem pravdivých informací.</p>
 
 <h3 id="proč-halucinace-vznikají">Proč halucinace vznikají?</h3>
 
@@ -196,7 +196,7 @@ prosinec
 
 <ol>
   <li>
-    <p><strong>Statistická podstata modelu</strong>: Modely jako GPT jsou trénovány na obrovských objemech textu tak, aby se naučily predikovat pravděpodobnost výsktu následujícího tokenu (slova či symbolu). Nemají implicitní porozumění „pravdě“ či světu kolem nás, ale pouze statistickou reprezentaci souvislostí mezi tokeny. Pokud se ocitnou v situaci, kdy je pravděpodobnost mnoha slibně vypadajících, ale nekorektních odpovědí podobná, mohou zvolit „nejpravděpodobnější znející“ variantu, která je ovšem zcela smyšlená.</p>
+    <p><strong>Statistická podstata modelu</strong>: Modely jako GPT jsou trénovány na obrovských objemech textu tak, aby se naučily predikovat pravděpodobnost výsktu následujícího tokenu (slova či symbolu). Nemají implicitní porozumění „pravdě“ či světu kolem nás, ale pouze statistickou reprezentaci souvislostí mezi <a href="/ai/tokeny-versus-slova/">tokeny</a>. Pokud se ocitnou v situaci, kdy je pravděpodobnost mnoha slibně vypadajících, ale nekorektních odpovědí podobná, mohou zvolit „nejpravděpodobnější znející“ variantu, která je ovšem zcela smyšlená.</p>
   </li>
   <li>
     <p><strong>Nedostatek kontextu</strong>: Pokud model nemá k dispozici dostatek kontextových informací, často se uchýlí k „logickým domýšlením“. Výsledkem může být vytvoření zdánlivě koherentní, avšak nepravdivé odpovědi. Model se jednoduše snaží „vyplnit mezery“ tak, aby výsledek působil věrohodně.</p>
@@ -211,13 +211,13 @@ prosinec
 
 <h3 id="statistická-podstata-modelu">Statistická podstata modelu</h3>
 
-<p>Zásadním aspektem vzniku halucinací je vrozená pravděpodobnostní povaha generativních jazykových modelů. Při generování každého tokenu model pracuje s pravděpodobnostní distribucí možných následujících tokenů, přičemž výběr je ovlivněn parametrem teploty (temperature). Tento parametr určuje míru “kreativnosti” modelu - při vyšších hodnotách je distribuce pravděpodobností plošší, což vede k diverzifikovanějším, ale potenciálně méně přesným výstupům.</p>
+<p>Zásadním aspektem vzniku halucinací je vrozená pravděpodobnostní povaha generativních jazykových modelů. Při generování každého tokenu model pracuje s pravděpodobnostní distribucí možných následujících <a href="/ai/tokeny-versus-slova/">tokenů</a>, přičemž výběr je ovlivněn parametrem teploty (temperature). Tento parametr určuje míru “kreativnosti” modelu - při vyšších hodnotách je distribuce pravděpodobností plošší, což vede k diverzifikovanějším, ale potenciálně méně přesným výstupům.</p>
 
 <p>Kumulativní nejistota v dlouhých sekvencích představuje další kritický faktor. S každým generovaným tokenem se nejistota modelu akumuluje, což může vést k postupnému odklonu od fakticky správných informací. Tento jev je zvláště patrný při generování delších textů, kde model musí udržovat konzistenci napříč mnoha vzájemně provázanými tvrzeními.</p>
 
 <h3 id="nedostatek-kontextu">Nedostatek kontextu</h3>
 
-<p>Omezená kontextová délka představuje fundamentální limitaci současných architektur. Modely pracují s fixním kontextovým oknem, jsou schopny si tedy „zapamatovat“ kolem řešeného problému typicky několik tisícovek slov, typicky několika tisíc tokenů, což omezuje jejich schopnost udržet konzistenci napříč delšími texty. Informace mimo toto okno jsou efektivně zapomenuty, což může vést k vnitřním kontradikcím v generovaném obsahu.</p>
+<p>Omezená kontextová délka představuje fundamentální limitaci současných architektur. Modely pracují s fixním kontextovým oknem, jsou schopny si tedy „zapamatovat“ kolem řešeného problému typicky několik tisícovek slov, typicky několika tisíc <a href="/ai/tokeny-versus-slova/">tokenů</a>, což omezuje jejich schopnost udržet konzistenci napříč delšími texty. Informace mimo toto okno jsou efektivně zapomenuty, což může vést k vnitřním kontradikcím v generovaném obsahu.</p>
 
 <h3 id="nekvalitní-výuková-data">Nekvalitní výuková data</h3>
 
@@ -276,7 +276,6 @@ prosinec
 
 <p>Halucinace v umělé inteligenci jsou přímým důsledkem statistické povahy současných generativních modelů a nedostatku jejich „porozumění“ reálnému světu. Přestože jsou tyto modely neocenitelné pro mnoho úloh (summarizace textu, jazykové překlady, generování kódu, asistenční systémy), uvědomění si jejich inherentních limitací je zásadní. Technicky zdatní čtenáři by měli být obeznámeni s tím, jak halucinace vznikají, jak je spolehlivěji rozpoznávat a jak se jim bránit. Různé strategie, ať už využití externích zdrojů, jemné dolaďování, řetězcové uvažování či lidský dohled, v kombinaci povedou k robustnějším, důvěryhodnějším a obecně spolehlivějším AI systémů.</p>
 
-
   </div>
 
   <div class="ai-rubric-link">
@@ -302,11 +301,10 @@ prosinec
           
             <tr>
               <td>
-                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
+                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
                 <p class="excerpt">
                   
-                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
-Tohle je dalš...
+                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
                   
                 </p>
               </td>
@@ -314,10 +312,10 @@ Tohle je dalš...
           
             <tr>
               <td>
-                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
+                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
                 <p class="excerpt">
                   
-                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  audioverzi tohoto článku  ve ...
+                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
                   
                 </p>
               </td>

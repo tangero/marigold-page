@@ -165,13 +165,13 @@
 
 <h2 id="historické-souvislosti">Historické souvislosti</h2>
 
-<p>Před vznikem Word2vec se používaly různé metody pro reprezentaci slov v počítačově zpracovatelném formátu, jako byly například metody založené na frekvenci slov (bag-of-words, term frequency-inverse document frequency - TF-IDF). Tyto metody však měly omezenou schopnost zachytit sémantické vztahy mezi slovy. Například, ve vektorovém prostoru by slova “král” a “královna” byla od sebe stejně vzdálena jako “král” a “auto”, což neodráží skutečný sémantický význam těchto slov.</p>
+<p>Před vznikem <a href="/ai/word2vec/">Word2vec</a> se používaly různé metody pro reprezentaci slov v počítačově zpracovatelném formátu, jako byly například metody založené na frekvenci slov (bag-of-words, term frequency-inverse document frequency - TF-IDF). Tyto metody však měly omezenou schopnost zachytit sémantické vztahy mezi slovy. Například, ve vektorovém prostoru by slova “král” a “královna” byla od sebe stejně vzdálena jako “král” a “auto”, což neodráží skutečný sémantický význam těchto slov.</p>
 
-<p>Tomáš Mikolov a jeho tým představili Word2vec, který využívá neuronové sítě k vytváření hustých vektorových reprezentací slov (word embeddings). Tyto vektory zachycují sémantické a syntaktické vztahy mezi slovy, což umožňuje jejich použití v různých NLP úlohách s vysokou přesností a efektivitou.</p>
+<p>Tomáš Mikolov a jeho tým představili <a href="/ai/word2vec/">Word2vec</a>, který využívá <a href="/ai/neuronove-site/">neuronové sítě</a> k vytváření hustých vektorových reprezentací slov (word embeddings). Tyto vektory zachycují sémantické a syntaktické vztahy mezi slovy, což umožňuje jejich použití v různých NLP úlohách s vysokou přesností a efektivitou.</p>
 
-<h2 id="principy-fungování-word2vec">Principy fungování Word2vec</h2>
+<h2 id="principy-fungování-word2vec">Principy fungování <a href="/ai/word2vec/">Word2vec</a></h2>
 
-<p>Word2vec používá dvě hlavní architektury k tréninku modelů: <strong>Continuous Bag of Words (CBOW)</strong> a <strong>Skip-gram</strong>. Oba přístupy se liší ve způsobu, jakým se učí reprezentace slov.</p>
+<p><a href="/ai/word2vec/">Word2vec</a> používá dvě hlavní architektury k tréninku modelů: <strong>Continuous Bag of Words (CBOW)</strong> a <strong>Skip-gram</strong>. Oba přístupy se liší ve způsobu, jakým se učí reprezentace slov.</p>
 
 <h3 id="continuous-bag-of-words-cbow">Continuous Bag of Words (CBOW)</h3>
 
@@ -211,7 +211,7 @@
 
 <h2 id="následovníci-word2vec">Následovníci Word2vec</h2>
 
-<p>Po úspěchu Word2vec následovalo několik dalších přístupů, které stavěly na jeho základech a dále vylepšovaly reprezentaci slov. Mezi nejvýznamnější patří GloVe (Global Vectors for Word Representation), FastText a moderní kontextuální modely jako BERT (Bidirectional Encoder Representations from Transformers).</p>
+<p>Po úspěchu Word2vec následovalo několik dalších přístupů, které stavěly na jeho základech a dále vylepšovaly reprezentaci slov. Mezi nejvýznamnější patří GloVe (Global Vectors for Word Representation), FastText a moderní kontextuální modely jako BERT (Bidirectional Encoder Representations from <a href="/ai/transformatory/">Transformers</a>).</p>
 
 <h3 id="glove">GloVe</h3>
 
@@ -227,9 +227,9 @@
 
 <h3 id="kontextuální-modely-bert-a-jeho-následovníci">Kontextuální modely: BERT a jeho následovníci</h3>
 
-<p>Zatímco Word2vec, GloVe a FastText generují statické vektorové reprezentace slov, moderní kontextuální modely jako BERT generují dynamické reprezentace, které závisí na kontextu použití slova ve větě. Word2vec přitom jejich vznik inspiroval, dalo by se říct, že stál na počátku transformátorů. Transformátory stavějí na myšlenkách reprezentace slov, ale rozšiřují je o schopnost zachytit kontext a sémantické vztahy v textu mnohem efektivněji.</p>
+<p>Zatímco Word2vec, GloVe a FastText generují statické vektorové reprezentace slov, moderní kontextuální modely jako BERT generují dynamické reprezentace, které závisí na kontextu použití slova ve větě. Word2vec přitom jejich vznik inspiroval, dalo by se říct, že stál na počátku <a href="/ai/transformatory/">transformátorů</a>. <a href="/ai/transformatory/">Transformátory</a> stavějí na myšlenkách reprezentace slov, ale rozšiřují je o schopnost zachytit kontext a sémantické vztahy v textu mnohem efektivněji.</p>
 
-<p>I když jsou transformátory pokročilejší a výkonnější než Word2vec, oba přístupy mohou být v určitých situacích komplementární. Například statické vektorové reprezentace slov z Word2vec mohou být použity jako vstupní funkce pro trénink jednodušších modelů nebo jako základ pro další zpracování v rámci komplexnějších systémů založených na transformátorech.</p>
+<p>I když jsou <a href="/ai/transformatory/">transformátory</a> pokročilejší a výkonnější než Word2vec, oba přístupy mohou být v určitých situacích komplementární. Například statické vektorové reprezentace slov z Word2vec mohou být použity jako vstupní funkce pro trénink jednodušších modelů nebo jako základ pro další zpracování v rámci komplexnějších systémů založených na transformátorech.</p>
 
 <p>A konkrétně? Tak za prvé je tu BERT. Ten vyvinul tým ve společnosti Google a používá architekturu transformátorů k tréninku modelu, který je schopný zachytit složité sémantické vztahy v textu. BERT je trénován na úloze maskovaného jazykového modelování (masked language modeling), kde se náhodně maskují některá slova v textu a model se učí tato slova predikovat na základě jejich kontextu.</p>
 
@@ -276,10 +276,11 @@
           
             <tr>
               <td>
-                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
+                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
                 <p class="excerpt">
                   
-                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
+                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
+Tohle je dalš...
                   
                 </p>
               </td>
@@ -287,10 +288,10 @@
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
                   
                 </p>
               </td>

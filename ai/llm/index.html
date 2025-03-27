@@ -161,13 +161,13 @@
 
 
   <div class="entry">
-    <p>Fungování velkých jazykových modelů (LLM) po zadání promptu je proces, který kombinuje algoritmy, masivní neuronové sítě a komplexní zpracování dat. Abyste měli lepší představu, jak moderní AI na bázi LLM funguje, je dobré podívat se krok za krokem, jak tento proces probíhá od okamžiku, kdy uživatel zadá prompt, až po generování finální odpovědi.</p>
+    <p>Fungování velkých jazykových modelů (LLM) po zadání promptu je proces, který kombinuje algoritmy, masivní <a href="/ai/neuronove-site/">neuronové sítě</a> a komplexní zpracování dat. Abyste měli lepší představu, jak moderní AI na bázi LLM funguje, je dobré podívat se krok za krokem, jak tento proces probíhá od okamžiku, kdy uživatel zadá prompt, až po generování finální odpovědi.</p>
 
 <h3 id="1-zadání-promptu">1. Zadání promptu</h3>
 <p>Vše začíná, když uživatel <a href="/ai/prompt/">zadá textový prompt</a> do rozhraní LLM. Tento prompt může být otázka, instrukce, nebo jakýkoli jiný textový vstup. Například: “Vysvětli mi, jak funguje fotosyntéza u rostlin.”</p>
 
 <h3 id="2-tokenizace">2. Tokenizace</h3>
-<p>Jakmile je prompt zadán, prvním krokem je tokenizace. Tokenizace rozděluje text na menší jednotky zvané tokeny. Tyto tokeny mohou být slova, části slov, nebo dokonce jednotlivé znaky, v závislosti na použitém tokenizačním algoritmu. Ve <a href="/ai/tokenizace-textu/">zvláštním článku vysvětluji</a>, jaký je rozdíl mezi slovy a tokeny a proč se mechanismus tokenů používá. 
+<p>Jakmile je prompt zadán, prvním krokem je tokenizace. Tokenizace rozděluje text na menší jednotky zvané <a href="/ai/tokeny-versus-slova/">tokeny</a>. Tyto <a href="/ai/tokeny-versus-slova/">tokeny</a> mohou být slova, části slov, nebo dokonce jednotlivé znaky, v závislosti na použitém tokenizačním algoritmu. Ve <a href="/ai/tokenizace-textu/">zvláštním článku vysvětluji</a>, jaký je rozdíl mezi slovy a <a href="/ai/tokeny-versus-slova/">tokeny</a> a proč se mechanismus <a href="/ai/tokeny-versus-slova/">tokenů</a> používá. 
 Pro náš příklad by tokenizace mohla vypadat takto:
 [“Vysvětli”, “mi”, “,”, “jak”, “funguje”, “foto”, “syntéza”, “u”, “rostlin”, “.”]</p>
 
@@ -180,7 +180,7 @@ Pro náš příklad by tokenizace mohla vypadat takto:
 <p>LLM mají omezený počet tokenů, které mohou zpracovat najednou, tzv. <em>kontextové okno</em>. Toto okno může být například 2048 nebo 4096 tokenů, u nejmodernějších LLM i statisíce tokenů. Vše v tomto okně slouží jako kontext pro generování odpovědi, tedy informace, která může být relevantní a použita k upřesnění generované odpovědi.</p>
 
 <h3 id="5-zpracování-neuronovou-sítí">5. Zpracování neuronovou sítí</h3>
-<p>Nyní přichází na řadu jádro LLM - <em>masivní neuronová síť</em>, obvykle založená na architektuře <em>Transformátorů</em>. Tato síť se skládá z mnoha vrstev a může mít miliardy parametrů.</p>
+<p>Nyní přichází na řadu jádro LLM - <em>masivní <a href="/ai/neuronove-site/">neuronová síť</a></em>, obvykle založená na architektuře <em><a href="/ai/transformatory/">Transformátorů</a></em>. Tato síť se skládá z mnoha vrstev a může mít miliardy parametrů.</p>
 
 <p><strong>a) Token embeddings vrstva</strong>
 První vrstva po samotné tokenizaci převádí numerické reprezentace tokenů na vektory s plovoucí desetinnou čárkou, které zachycují sémantické vlastnosti tokenů.</p>
@@ -343,7 +343,7 @@ Vybraný token je přidán k dosud vygenerovanému výstupu a také je použit j
 
 <p>I přes své schopnosti mají LLM několik významných omezení:</p>
 
-<p>a) Halucinace: LLM mohou někdy generovat nepravdivé nebo zavádějící informace, zejména když jsou dotázány na něco, co je mimo jejich tréninkový dataset. To je částečně způsobeno tím, že model je trénován pouze na generování pravděpodobného textu, ne nutně fakticky správného textu. <a href="/ai/halucinace-ai/">Podrobněji probíráme zde</a>.</p>
+<p>a) <a href="/ai/halucinace-ai/">Halucinace</a>: LLM mohou někdy generovat nepravdivé nebo zavádějící informace, zejména když jsou dotázány na něco, co je mimo jejich tréninkový dataset. To je částečně způsobeno tím, že model je trénován pouze na generování pravděpodobného textu, ne nutně fakticky správného textu. <a href="/ai/halucinace-ai/">Podrobněji probíráme zde</a>.</p>
 
 <p>b) Kontextové okno: Omezená velikost kontextového okna limituje schopnost modelu pracovat s velmi dlouhými dokumenty nebo udržet kontext v dlouhých konverzacích.</p>
 
@@ -353,11 +353,11 @@ Vybraný token je přidán k dosud vygenerovanému výstupu a také je použit j
 
 <h2 id="závěr">Závěr</h2>
 
-<p>Fungování LLM po zadání promptu je proces, který kombinuje hluboké strojové porozumění jazyku s pokročilými algoritmy strojového učení. Je podle mne velmi zajímavé, jak je to na jednu stranu odlišné od lidského postupu uvažování (to je ta část tokenizace, tedy převodu jazyka na čísla) a na stranu druhou je další postup už velmi podobný lidskému přemýšlení a učení.</p>
+<p>Fungování LLM po zadání promptu je proces, který kombinuje hluboké strojové porozumění jazyku s pokročilými algoritmy <a href="/ai/strojove-uceni-machine-learning/">strojového učení</a>. Je podle mne velmi zajímavé, jak je to na jednu stranu odlišné od lidského postupu uvažování (to je ta část tokenizace, tedy převodu jazyka na čísla) a na stranu druhou je další postup už velmi podobný lidskému přemýšlení a učení.</p>
 
-<p>Zároveň je důležité si uvědomit, že LLM stále mají svá omezení, zejména v oblasti halucinací. Proto je kritické myšlení a ověřování informací stále nezbytné.</p>
+<p>Zároveň je důležité si uvědomit, že LLM stále mají svá omezení, zejména v oblasti <a href="/ai/halucinace-ai/">halucinací</a>. Proto je kritické myšlení a ověřování informací stále nezbytné.</p>
 
-<p>S pokračujícím výzkumem a vývojem v oblasti AI můžeme očekávat další vylepšení těchto systémů. Budoucí vývoj se pravděpodobně zaměří na překonávání současných omezení, jako je velikost kontextového okna, aktuálnost informací a problém halucinací. Zároveň můžeme očekávat pokrok v oblasti multimodálních modelů, které budou schopny zpracovávat nejen text, ale i obrázky, zvuky a videa v jednotném rámci.</p>
+<p>S pokračujícím výzkumem a vývojem v oblasti AI můžeme očekávat další vylepšení těchto systémů. Budoucí vývoj se pravděpodobně zaměří na překonávání současných omezení, jako je velikost kontextového okna, aktuálnost informací a problém <a href="/ai/halucinace-ai/">halucinací</a>. Zároveň můžeme očekávat pokrok v oblasti multimodálních modelů, které budou schopny zpracovávat nejen text, ale i obrázky, zvuky a videa v jednotném rámci.</p>
 
   </div>
 
@@ -384,10 +384,10 @@ Vybraný token je přidán k dosud vygenerovanému výstupu a také je použit j
           
             <tr>
               <td>
-                <a href="/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule/">👉Umělointeligenční asistenti a pochybnosti nad existencí svobodné vůle</a>
+                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
                 <p class="excerpt">
                   
-                    Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v n...
+                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
                   
                 </p>
               </td>
@@ -395,10 +395,10 @@ Vybraný token je přidán k dosud vygenerovanému výstupu a také je použit j
           
             <tr>
               <td>
-                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
+                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
                 <p class="excerpt">
                   
-                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
+                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
                   
                 </p>
               </td>

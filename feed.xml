@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-27T10:39:20+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Zapier MCP - Propojte AI asistenty s externími aplikacemi</title><link href="https://www.marigold.cz/item/zapier-mcp/" rel="alternate" type="text/html" title="Zapier MCP - Propojte AI asistenty s externími aplikacemi" /><published>2025-03-27T08:00:00+00:00</published><updated>2025-03-27T08:00:00+00:00</updated><id>https://www.marigold.cz/item/zapier-mcp</id><content type="html" xml:base="https://www.marigold.cz/item/zapier-mcp/"><![CDATA[<p>Oblíbená služba <a href="https://zapier.com/">Zapier</a> nedávno vydala podporu <a href="/ai/mcp/">MCP</a> (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier <a href="/ai/mcp/">MCP</a> je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-03-27T11:03:43+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Zapier MCP - Propojte AI asistenty s externími aplikacemi</title><link href="https://www.marigold.cz/item/zapier-mcp/" rel="alternate" type="text/html" title="Zapier MCP - Propojte AI asistenty s externími aplikacemi" /><published>2025-03-27T08:00:00+00:00</published><updated>2025-03-27T08:00:00+00:00</updated><id>https://www.marigold.cz/item/zapier-mcp</id><content type="html" xml:base="https://www.marigold.cz/item/zapier-mcp/"><![CDATA[<p>Oblíbená služba <a href="https://zapier.com/">Zapier</a> nedávno vydala podporu <a href="/ai/mcp/">MCP</a> (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier <a href="/ai/mcp/">MCP</a> je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.</p>
 
-<p>MCP server funguje jako prostředník mezi AI asistentem a aplikacemi třetích stran. Díky tomuto řešení mohou AI asistenti interagovat s externími službami bez nutnosti složité integrace API. Podle Zapier jde o “nejrychlejší způsob, jak propojit vašeho AI asistenta s tisíci aplikací”. A pokud nevíte, co je to MCP a k čemu a jak jej použít, <a href="https://www.marigold.cz/ai/mcp/">přečtěte si článek zde</a>.</p>
+<p><a href="/ai/mcp/">MCP</a> server funguje jako prostředník mezi AI asistentem a aplikacemi třetích stran. Díky tomuto řešení mohou AI asistenti interagovat s externími službami bez nutnosti složité integrace API. Podle Zapier jde o “nejrychlejší způsob, jak propojit vašeho AI asistenta s tisíci aplikací”. A pokud nevíte, co je to <a href="/ai/mcp/">MCP</a> a k čemu a jak jej použít, <a href="https://www.marigold.cz/ai/mcp/">přečtěte si článek zde</a>.</p>
 
-<h2 id="jak-nastavit-zapier-mcp-s-cursor">Jak nastavit Zapier MCP s Cursor</h2>
+<h2 id="jak-nastavit-zapier-mcp-s-cursor">Jak nastavit Zapier <a href="/ai/mcp/">MCP</a> s Cursor</h2>
 
-<p>Nastavení propojení mezi Zapier MCP a vývojářským nástrojem Cursor zahrnuje několik jednoduchých kroků:</p>
+<p>Nastavení propojení mezi Zapier <a href="/ai/mcp/">MCP</a> a vývojářským nástrojem Cursor zahrnuje několik jednoduchých kroků:</p>
 
 <ol>
   <li><strong>Získání unikátního URL</strong>
@@ -52,7 +52,7 @@
 
 <p>Tato technologie by mohla výrazně zvýšit efektivitu vývojářů, kteří AI nástroje aktivně využívají, a posunout možnosti automatizace na novou úroveň. Zatím je však potřeba počítat s možnými omezeními a postupným vývojem této funkcionality.</p>
 
-<p>Přiznám se, že službu jsem  zatím zkoušel jen v Cursor, ne například v <a href="https://www.marigold.cz/ai/claude-code/">Claude Code</a>, které také MCP podporuje. Výslovně není jiný software zmíněn, ale také by neměly být vážné potíže. Sám sej se službou měl řadu potíží, komunikace s MCP haprovala a tak bych doporučil zatím počkat, než se vše usadí, pokud nejste vysloveně experimentátoři. Dobrý směr to ale je, protože nyní se začnou jistě rychle přidávat ostatní propojovatelé, jako Make.com…</p>]]></content><author><name>Patrick Zandl</name></author><category term="Zapier" /><category term="MCP" /><category term="vibe code" /><category term="AI" /><summary type="html"><![CDATA[Oblíbená služba Zapier nedávno vydala podporu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.]]></summary></entry><entry xml:lang="cs"><title type="html">🧠 AI nástroje pro programování - přehled</title><link href="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/" rel="alternate" type="text/html" title="🧠 AI nástroje pro programování - přehled" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-nastroje-programovani-prehled</id><content type="html" xml:base="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/"><![CDATA[<p>Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.</p>
+<p>Přiznám se, že službu jsem  zatím zkoušel jen v Cursor, ne například v <a href="https://www.marigold.cz/ai/claude-code/">Claude Code</a>, které také MCP podporuje. Výslovně není jiný software zmíněn, ale také by neměly být vážné potíže. Sám sej se službou měl řadu potíží, komunikace s MCP haprovala a tak bych doporučil zatím počkat, než se vše usadí, pokud nejste vysloveně experimentátoři. Dobrý směr to ale je, protože nyní se začnou jistě rychle přidávat ostatní propojovatelé, jako Make.com…</p>]]></content><author><name>Patrick Zandl</name></author><category term="Zapier" /><category term="MCP" /><category term="vibe code" /><category term="AI" /><summary type="html"><![CDATA[Oblíbená služba Zapier nedávno vydala podporu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier. Zapier je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami.]]></summary></entry><entry xml:lang="cs"><title type="html">🧠 AI nástroje pro programování - přehled</title><link href="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/" rel="alternate" type="text/html" title="🧠 AI nástroje pro programování - přehled" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-nastroje-programovani-prehled</id><content type="html" xml:base="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/"><![CDATA[<p><a href="/item/programovani-s-ai/">Programování s AI</a> začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.</p>
 
 <p>Tady se pokouším udělat větší seznam všech nástrojů. Musím říct, že použitelné AI nástroje se objevují teprve posledních několik měsíců, takže startovací pole je dost široké a každý den se vynořují nové a nové nástroje. Tento seznam pořizuju ne proto, abyste všechny nástroje prošli, ale abych si i sám udržel přehled.</p>
 
@@ -108,7 +108,7 @@
       <li>Ideální pro jednoduché nástroje a lead magnety</li>
       <li>Umí vytvořit aplikaci na základě jednoho promptu</li>
       <li>Pro složitější systémy nedostačuje</li>
-      <li>Neomezený počet aplikací bez limitu na tokeny</li>
+      <li>Neomezený počet aplikací bez limitu na <a href="/ai/tokeny-versus-slova/">tokeny</a></li>
     </ul>
   </li>
   <li><strong>Vhodné pro</strong>: Rychlé generování funkčních miniaplikací</li>
@@ -122,7 +122,7 @@
     <ul>
       <li>Určen pro pokročilý vývoj</li>
       <li>Funguje jako agent s pamětí</li>
-      <li>Disponuje webovým vyhledáváním a hlubokou analýzou (DeepSeek)</li>
+      <li>Disponuje webovým vyhledáváním a hlubokou analýzou (<a href="/item/deepseek/">DeepSeek</a>)</li>
     </ul>
   </li>
   <li><strong>Vhodné pro</strong>: Vysoká úroveň autonomie a flexibility při tvorbě aplikací</li>
@@ -223,7 +223,7 @@
     </ul>
   </li>
   <li><strong>Vhodné pro</strong>: Práci s dokumentací, návrhy i analýzou</li>
-  <li><strong>Cenový model</strong>: Platí se za tokeny.</li>
+  <li><strong>Cenový model</strong>: Platí se za <a href="/ai/tokeny-versus-slova/">tokeny</a>.</li>
 </ul>
 
 <hr />
@@ -377,7 +377,7 @@
 <ul>
   <li><strong>Funkce</strong>:
     <ul>
-      <li>AI agent pro budování interních nástrojů</li>
+      <li><a href="/ai/agenti/">AI agent</a> pro budování interních nástrojů</li>
       <li>Umožňuje vytvářet vlastní software bez kódování</li>
       <li>Poskytuje nástroje pro monitorování interakcí a konfiguraci nastavení <a href="https://base44.com/apps/ai-agent-framework-60fda1db?utm_source=marigold">BASE44 - AI-Powered Software Development</a></li>
     </ul>
@@ -509,7 +509,7 @@
 <ul>
   <li><strong>Funkce</strong>:
     <ul>
-      <li>Minimalistický AI agent pro rychlé generování kódu</li>
+      <li>Minimalistický <a href="/ai/agenti/">AI agent</a> pro rychlé generování kódu</li>
     </ul>
   </li>
   <li><strong>Cenový model</strong>: Bezplatný</li>
@@ -527,7 +527,7 @@
   <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
 </ul>
 
-<hr />]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="programování" /><category term="vibe coding" /><summary type="html"><![CDATA[Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.]]></summary></entry><entry xml:lang="cs"><title type="html">Nové funkce v Claude Code pro programování s AI</title><link href="https://www.marigold.cz/item/claude-code-novinky/" rel="alternate" type="text/html" title="Nové funkce v Claude Code pro programování s AI" /><published>2025-03-22T22:00:00+00:00</published><updated>2025-03-22T22:00:00+00:00</updated><id>https://www.marigold.cz/item/claude-code-novinky</id><content type="html" xml:base="https://www.marigold.cz/item/claude-code-novinky/"><![CDATA[<p>Svůj nástroj <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a> pro “vibe coding” představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat.</p>
+<hr />]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="programování" /><category term="vibe coding" /><summary type="html"><![CDATA[Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.]]></summary></entry><entry xml:lang="cs"><title type="html">Nové funkce v Claude Code pro programování s AI</title><link href="https://www.marigold.cz/item/claude-code-novinky/" rel="alternate" type="text/html" title="Nové funkce v Claude Code pro programování s AI" /><published>2025-03-22T22:00:00+00:00</published><updated>2025-03-22T22:00:00+00:00</updated><id>https://www.marigold.cz/item/claude-code-novinky</id><content type="html" xml:base="https://www.marigold.cz/item/claude-code-novinky/"><![CDATA[<p>Svůj nástroj <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a> pro “<a href="/item/programovani-s-ai/">vibe coding</a>” představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat.</p>
 
 <blockquote>
   <p>💡 Nevíte, co je <a href="/ai/claude-code/">Claude Code</a>? Detailnější popis <a href="/ai/claude-code/">jsme si přinesli zde</a>.</p>
@@ -555,7 +555,7 @@
 
 <h2 id="2-vim-mód">2. Vim mód</h2>
 
-<p>Pro zkušené vývojáře, kteří rádi používají Vim, nabízí Claude Code novou funkci Vim módu. Použijte slash příkaz <code class="language-plaintext highlighter-rouge">/vim</code> k aktivaci insert/command módů pro úpravu promptů.</p>
+<p>Pro zkušené vývojáře, kteří rádi používají Vim, nabízí <a href="/ai/claude-code/">Claude Code</a> novou funkci Vim módu. Použijte slash příkaz <code class="language-plaintext highlighter-rouge">/vim</code> k aktivaci insert/command módů pro úpravu promptů.</p>
 
 <p><img src="/assets/claude-code-vim.png" alt="Claude code vim" /></p>
 
@@ -567,7 +567,7 @@
 
 <p>Můžete vytvářet příkazy pro běžné workflow jako “kontrola pravopisu kódu” nebo “dotaz na Sentry logy a následně bisect ke git commitu”. Představte si je jako uložené postupy pro úkoly, které chcete provádět častěji.</p>
 
-<p>Vlastní slash příkazy jsou v podstatě způsob, jak si vytvořit vaše vlastní přizpůsobené workflow nebo často používané instrukce, které můžete v Claude Code rychle vyvolat pomocí příkazu začínajícího lomítkem (/).</p>
+<p>Vlastní slash příkazy jsou v podstatě způsob, jak si vytvořit vaše vlastní přizpůsobené workflow nebo často používané instrukce, které můžete v <a href="/ai/claude-code/">Claude Code</a> rychle vyvolat pomocí příkazu začínajícího lomítkem (/).</p>
 
 <p><img src="/assets/claude-code-user.png" alt="Claude Code user" /></p>
 
@@ -588,12 +588,12 @@
   <li><strong>Struktura souboru</strong>:
     <ul>
       <li>Název souboru určuje název příkazu. Například soubor pojmenovaný <code class="language-plaintext highlighter-rouge">triage-issues.md</code> vytvoří příkaz, který můžete vyvolat pomocí <code class="language-plaintext highlighter-rouge">/triage-issues</code>.</li>
-      <li>Obsah souboru obsahuje instrukce nebo kroky, které chcete, aby Claude Code provedl.</li>
+      <li>Obsah souboru obsahuje instrukce nebo kroky, které chcete, aby <a href="/ai/claude-code/">Claude Code</a> provedl.</li>
     </ul>
   </li>
   <li><strong>Použití příkazu</strong>:
     <ul>
-      <li>Když pracujete v Claude Code, jednoduše napíšete <code class="language-plaintext highlighter-rouge">/</code> následované názvem vašeho příkazu (bez přípony <code class="language-plaintext highlighter-rouge">.md</code>).</li>
+      <li>Když pracujete v <a href="/ai/claude-code/">Claude Code</a>, jednoduše napíšete <code class="language-plaintext highlighter-rouge">/</code> následované názvem vašeho příkazu (bez přípony <code class="language-plaintext highlighter-rouge">.md</code>).</li>
       <li>Claude Code automaticky načte obsah příslušného souboru a provede instrukce v něm obsažené.</li>
     </ul>
   </li>
@@ -910,7 +910,7 @@
 
 <h3 id="qualcomm">Qualcomm</h3>
 
-<p>Qualcomm patří mezi  <strong>hlavní inovátory bezdrátových technologií</strong>  a v případě Wi-Fi 7 to opět potvrdil. Již v rané fázi standardizace demonstroval funkční prototypy 802.11be na konferencích. Jejich řešení  <strong>FastConnect 7800</strong>  bylo prvním komerčně oznámeným Wi-Fi 7 čipem (únor 2022) určeným pro mobilní platformy. Podporuje 2×2 MIMO, 320 MHz a speciální režim High Band Simultaneous (HBS) pro MLO ve 5+6 GHz současně  . Tento čip se stal součástí Snapdragon 8 Gen 2/Gen 3, takže mnohé high-end telefony díky Qualcommu získaly Wi-Fi 7 velmi brzy. Pro infrastrukturu Qualcomm nabízí rodinu  <strong>Networking Pro Series</strong>  čipsetů pro routery a AP. Například čipy řady 1620/1220 umožňují 16 streamů napříč pásmy s celkovou kapacitou přes 33 Gbit/s. Qualcomm také integruje  <strong>AI prvky pro ladění Wi-Fi</strong>. V materiálech uvádí, že jeho nové čipy využívají strojové učení k adaptivnímu řízení rádiových parametrů (např. selekce kanálu, řízení výkonu) pro zlepšení spolehlivosti. Jako historicky největší dodavatel Wi-Fi čipů pro smartphony a velký hráč v síťových prvcích má Qualcomm zásadní vliv na tempo adopce. Dá se říci, že  <strong>většina prvních zařízení s Wi-Fi 7 nese uvnitř Qualcomm</strong>. Ať už je to telefon s jejich FastConnect modulem nebo router s jejich Networking Pro platformou. Qualcomm rovněž přispěl do standardu v oblastech MLO a multi-AP (má zkušenosti s mesh algoritmy z doby Wi-Fi SON). Do budoucna plánuje Qualcomm další generaci (FastConnect 7900), která dál vylepší výkon a integruje nové Bluetooth LE Audio atd. Qualcomm tak lze označit za  <strong>hybnou sílu Wi-Fi 7</strong>, která zajistila dostupnost čipů včas a umožnila prvním zařízením přijít na trh už před finalizací standardu.</p>
+<p>Qualcomm patří mezi  <strong>hlavní inovátory bezdrátových technologií</strong>  a v případě Wi-Fi 7 to opět potvrdil. Již v rané fázi standardizace demonstroval funkční prototypy 802.11be na konferencích. Jejich řešení  <strong>FastConnect 7800</strong>  bylo prvním komerčně oznámeným Wi-Fi 7 čipem (únor 2022) určeným pro mobilní platformy. Podporuje 2×2 MIMO, 320 MHz a speciální režim High Band Simultaneous (HBS) pro MLO ve 5+6 GHz současně  . Tento čip se stal součástí Snapdragon 8 Gen 2/Gen 3, takže mnohé high-end telefony díky Qualcommu získaly Wi-Fi 7 velmi brzy. Pro infrastrukturu Qualcomm nabízí rodinu  <strong>Networking Pro Series</strong>  čipsetů pro routery a AP. Například čipy řady 1620/1220 umožňují 16 streamů napříč pásmy s celkovou kapacitou přes 33 Gbit/s. Qualcomm také integruje  <strong>AI prvky pro ladění Wi-Fi</strong>. V materiálech uvádí, že jeho nové čipy využívají <a href="/ai/strojove-uceni-machine-learning/">strojové učení</a> k adaptivnímu řízení rádiových parametrů (např. selekce kanálu, řízení výkonu) pro zlepšení spolehlivosti. Jako historicky největší dodavatel Wi-Fi čipů pro smartphony a velký hráč v síťových prvcích má Qualcomm zásadní vliv na tempo adopce. Dá se říci, že  <strong>většina prvních zařízení s Wi-Fi 7 nese uvnitř Qualcomm</strong>. Ať už je to telefon s jejich FastConnect modulem nebo router s jejich Networking Pro platformou. Qualcomm rovněž přispěl do standardu v oblastech MLO a multi-AP (má zkušenosti s mesh algoritmy z doby Wi-Fi SON). Do budoucna plánuje Qualcomm další generaci (FastConnect 7900), která dál vylepší výkon a integruje nové Bluetooth LE Audio atd. Qualcomm tak lze označit za  <strong>hybnou sílu Wi-Fi 7</strong>, která zajistila dostupnost čipů včas a umožnila prvním zařízením přijít na trh už před finalizací standardu.</p>
 
 <h3 id="broadcom">Broadcom</h3>
 
@@ -926,7 +926,7 @@
 
 <p>Každá nová generace Wi-Fi zprvu přichází do nejvyšší třídy produktů a během ~2–3 let se dostane i do mainstreamu. U Wi-Fi 7 se předpokládá, že kolem roku 2025–2026 se stane běžnou součástí většiny high-end routerů a notebooků, a do roku 2027 pronikne i do střední třídy smartphonů a IoT zařízení. Výrobci síťových prvků již plánují další vylepšení – např. firmware upgrady routerů mohou v budoucnu odemknout některé pokročilé funkce (jako multi-AP koordinaci či HARQ, pokud je hardware podporuje).</p>
 
-<p>Z hlediska standardizace se komunita Wi-Fi nyní soustředí na  <strong>dotahování Release 2 Wi-Fi 7</strong>. Již během schvalování 802.11be bylo jasné, že některé komplexní funkce (zejména pokročilá multi-AP koordinace, jako skutečný joint transmission s fázovou synchronizací více AP) možná nestihnou být plně implementovány v první vlně. IEEE může vydat doplňující specifikace nebo zahájit  <strong>nový standard (802.11bn)</strong>, neformálně zvaný Wi-Fi 8, který naváže tam, kde Wi-Fi 7 skončila. Je pravděpodobné, že Wi-Fi 8 se zaměří spíš než na další skok v rychlosti (další zdvojnásobení šířky kanálu už by bylo těžko realizovatelné bez dalšího spektra) na  <strong>lepší efektivitu, adaptivitu a integraci s AI</strong>. Již nyní se hovoří o využití strojového učení v rámci řízení provozu Wi-Fi (tzv. AI/ML driven Wi-Fi), což by mohlo být jedním z témat budoucí generace. Dále se možná standard otevře integraci s jinými technikami – například  <strong>konvergence Wi-Fi a 5G</strong>(harmonizace 6 GHz využití, společné koordinace).</p>
+<p>Z hlediska standardizace se komunita Wi-Fi nyní soustředí na  <strong>dotahování Release 2 Wi-Fi 7</strong>. Již během schvalování 802.11be bylo jasné, že některé komplexní funkce (zejména pokročilá multi-AP koordinace, jako skutečný joint transmission s fázovou synchronizací více AP) možná nestihnou být plně implementovány v první vlně. IEEE může vydat doplňující specifikace nebo zahájit  <strong>nový standard (802.11bn)</strong>, neformálně zvaný Wi-Fi 8, který naváže tam, kde Wi-Fi 7 skončila. Je pravděpodobné, že Wi-Fi 8 se zaměří spíš než na další skok v rychlosti (další zdvojnásobení šířky kanálu už by bylo těžko realizovatelné bez dalšího spektra) na  <strong>lepší efektivitu, adaptivitu a integraci s AI</strong>. Již nyní se hovoří o využití <a href="/ai/strojove-uceni-machine-learning/">strojového učení</a> v rámci řízení provozu Wi-Fi (tzv. AI/ML driven Wi-Fi), což by mohlo být jedním z témat budoucí generace. Dále se možná standard otevře integraci s jinými technikami – například  <strong>konvergence Wi-Fi a 5G</strong>(harmonizace 6 GHz využití, společné koordinace).</p>
 
 <p>Z praktického pohledu však příští cca 3 roky budou ve znamení  <strong>nástupu Wi-Fi 7 v reálných instalacích</strong>. Firmy, které upgradovaly na Wi-Fi 6E, možná vyčkají, ale ty, které přeskočily 6E, mohou rovnou nasadit Wi-Fi 7, aby získaly výhody 6 GHz pásma a vyšší kapacity. V domácnostech se s nástupem 8K televizí a AR/VR produktů zvýší nároky, což opět potáhne poptávku po výkonnější Wi-Fi 7 routeru.</p>
 
@@ -977,13 +977,13 @@ Vyvinuli jsme teorii a algoritmy, které to umožňují. Teoreticky jsme předpo
 
 <p>Dobře, máte pravdu. Dělám si legraci. Nejsem tak zlý, ale měli jste vidět obličeje organizátorů TEDu, když jsem řekl, že to udělám.</p>
 
-<h3 id="reimagining-machine-learning">Reimagining Machine Learning</h3>
+<h3 id="reimagining-machine-learning">Reimagining <a href="/ai/strojove-uceni-machine-learning/">Machine Learning</a></h3>
 
 <p>Pojďme si to trochu přiblížit a zamyslet se obecněji nad tím, co je potřeba udělat, aby umělá inteligence nebyla tak náročná na data. Představte si, že bychom naše děti trénovali stejným způsobem, jakým předtrénujeme naše velké jazykové modely, tedy pomocí predikce dalšího slova. Takže bych svému dítěti dal náhodný kus internetu a řekl: Mimochodem, tohle je další slovo. Dal bych mu další náhodný kus internetu a řekl, ano, tohle je další slovo. Kdybychom dělali jen tohle, trvalo by našim dětem 24 000 let, než by se naučily něco užitečného.</p>
 
 <p>Ale my děláme mnohem víc. Když například učím svého syna matematiku, učím ho algoritmus potřebný k vyřešení úlohy. Pak dokáže okamžitě řešit nové problémy a zobecňovat s použitím mnohem méně tréninkových dat, než by zvládl jakýkoli systém umělé inteligence. Nepředkládám mu miliony matematických úloh.</p>
 
-<p>Abychom umělou inteligenci skutečně zefektivnili z hlediska dat, musíme jít daleko za hranice našich současných tréninkových algoritmů a přeměnit strojové učení na novou vědu o strojovém učení. A tady nám opravdu může pomoci neurověda, psychologie a matematika.</p>
+<p>Abychom umělou inteligenci skutečně zefektivnili z hlediska dat, musíme jít daleko za hranice našich současných tréninkových algoritmů a přeměnit <a href="/ai/strojove-uceni-machine-learning/">strojové učení</a> na novou vědu o strojovém učení. A tady nám opravdu může pomoci neurověda, psychologie a matematika.</p>
 
 <h3 id="energetická-účinnost-20wattový-mozek-vs-umělá-inteligence">Energetická účinnost: 20wattový mozek vs. umělá inteligence</h3>
 
@@ -1522,7 +1522,7 @@ Výpočetní centra</li>
 
 <p>Do toho je zde partnerství s komerčními firmami. Výslovně zmíněné jsou tři, přičemž o významu německého Aleph Alpha jsme si již něco řekli. A co finské AMD Silo AI? Dnes je to přední soukromá AI laboratoř, která vytvořila open-source multilingvální modely Poro a Viking zaměřené na skandinávské jazyky. Silo AI dále vyvinulo platformu SiloGen pro vytváření a nasazování zákaznických LLM a integraci s firemními aplikacemi. A má svůj vlastní Silo Operating System umožňující rychlé uvádění AI nástrojů do praxe. A francouzský LightsOn? Firma se sice zaměřuje na adaptivní osvětlovací systémy a energeticky efektivní řešení, používá v nich ale AI. Sama si vytvořila velmi efektivní model Alfred a se svým nástrojem Paradigm se zaměřuje na generativní AI pro podniky. Před měsíce představilo také agenta Lunious Lynx zaměřeného na zpracování dokumentů.</p>
 
-<p>Jenže postavit funkční LLM není možné tak, že dáte na hromadu zdrojáky, které vznikly někde na univerzitách a „spojíte je gumičkou“. Je to tvrdý vývoj a testování, něco zcela jiného, než na co jsou akademická pracoviště zvyklá. Asi i proto je tu jako „spoluvedoucí“ projektu Peter Sarlin z AMD Silo AI. Sarlin Silo AI spoluzakládal, dlouhá léta firmě šéfoval a vloni ji dovedl k prodeji procesorovému gigantu AMD za 665 milionů dolarů. Je uznávaným odborníkem na AI, dnes je profesorem na finské Aalto University, kde se specializuje na strojové učení a umělou inteligenci.</p>
+<p>Jenže postavit funkční LLM není možné tak, že dáte na hromadu zdrojáky, které vznikly někde na univerzitách a „spojíte je gumičkou“. Je to tvrdý vývoj a testování, něco zcela jiného, než na co jsou akademická pracoviště zvyklá. Asi i proto je tu jako „spoluvedoucí“ projektu Peter Sarlin z AMD Silo AI. Sarlin Silo AI spoluzakládal, dlouhá léta firmě šéfoval a vloni ji dovedl k prodeji procesorovému gigantu AMD za 665 milionů dolarů. Je uznávaným odborníkem na AI, dnes je profesorem na finské Aalto University, kde se specializuje na <a href="/ai/strojove-uceni-machine-learning/">strojové učení</a> a umělou inteligenci.</p>
 
 <h3 id="varování-v-podobě-projektu-openwebsearch">Varování v podobě projektu OpenWebSearch</h3>
 
@@ -1636,11 +1636,11 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
 
 <p>Tento článek není pro pravověrné programátory, ti si nad tímto směrem jen odplivnou. Jak by se jejich skillům debugingu assembleru mohlo rovnat nějaké AI. A skutečně: špičkový kód nástroje z února 2025 ještě nenapíšou. Ale šéf OpenAI Sam Altman prohlašuje, že již dnes ve firmě testují AI, která kóduje jako jeden z nejlepších programátorů na světě a do konce roku budou mít k dispozici verzi, která bude úplně nejlepší (<a href="https://officechai.com/ai/an-ai-will-be-the-worlds-best-programmer-by-the-end-of-2025-openai-ceo-sam-altman/">zdroj</a>. Věřím tomu, že bude - ještě před rokem takové nástroje teprve vznikaly, pokrok je tu obrovský.</p>
 
-<p>Pro koho je tedy Programování s AI? Především pro lidi, kteří by potřebovali udělat nějaký „prográmek“ - od jednoduchého scriptu, až po nejrůznější webové aplikace včetně webových stránek. Příklady? Tak například jsem se chtěl podívat na to, kolik obce platí za některé služby. Vlastně to má jednoduché řešení, všechno si mohu najít v databázích a v Excelu spočítat. Pro pár obcí, pro větší množství by mě to nebavilo dělat. Řešení s AI? Za prvé si s AI celou věc probereme. AI mi okamžitě napovídá, že by bylo nejlepší data vyčítat z Monitoru státní pokladny přes API. A rychle se od návrhu posouváme k tomu, že AI naprogramuje volání API, zjistí potřebná data, uloží je do databáze, k nim získá počty obyvatel a přepočítá získaná data na počty obyvatel. Jako neprogramátor bych sám nic takového neudělal a cena vývoje takového software jsou spíše vyšší desítky tisíc, pokud nejste zkušený programátor, který si to spíchne za dva víkendy (jenže fakturační cena jednoho takového dne programátora je právě ta desítka tisíc)…</p>
+<p>Pro koho je tedy <a href="/item/programovani-s-ai/">Programování s AI</a>? Především pro lidi, kteří by potřebovali udělat nějaký „prográmek“ - od jednoduchého scriptu, až po nejrůznější webové aplikace včetně webových stránek. Příklady? Tak například jsem se chtěl podívat na to, kolik obce platí za některé služby. Vlastně to má jednoduché řešení, všechno si mohu najít v databázích a v Excelu spočítat. Pro pár obcí, pro větší množství by mě to nebavilo dělat. Řešení s AI? Za prvé si s AI celou věc probereme. AI mi okamžitě napovídá, že by bylo nejlepší data vyčítat z Monitoru státní pokladny přes API. A rychle se od návrhu posouváme k tomu, že AI naprogramuje volání API, zjistí potřebná data, uloží je do databáze, k nim získá počty obyvatel a přepočítá získaná data na počty obyvatel. Jako neprogramátor bych sám nic takového neudělal a cena vývoje takového software jsou spíše vyšší desítky tisíc, pokud nejste zkušený programátor, který si to spíchne za dva víkendy (jenže fakturační cena jednoho takového dne programátora je právě ta desítka tisíc)…</p>
 
 <p>Jak na něco takového?</p>
 
-<p>Podíváme se dnes na několik nástrojů, které slouží k programování s AI:</p>
+<p>Podíváme se dnes na několik nástrojů, které slouží k <a href="/item/programovani-s-ai/">programování s AI</a>:</p>
 <ul>
   <li><a href="https://www.cursor.com/">Cursor AI</a></li>
   <li><a href="https://www.tempolabs.ai/">Tempolabs AI</a></li>
@@ -1686,7 +1686,7 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
 
 <p>S Tempolabs jsem strávil hodně času a je to nástroj, který mě nadchnul. Je pravda, že vám příliš předkládá zdrojový kód, zatímco se snaží, abyste měli málo důvodů do něj sahat. Oproti Replitu vám ukáže kód, který doporučuje nahradit a navrhne vám, jak jej nahradit a vy jen stisknete Apply a je hotovo. Zatímco Replit Agent už o kódu příliš nemluví, Tempo se snaží ještě vypadat jako nástroj pro vývojáře. I když bych řekl, že i ono tuhle vizi záhy opustí, protože za měsíc práce s Tempem jsme do zdrojového kódu hrabal jen výjimečně.</p>
 
-<p>Ceny: platíte za miliony zkonzumovaných tokenů. Půl milionu máte zdarma, za 30 dolarů získáte 25 milionů tokenů. Při celodenní práci jsem toto množství vyčerpal za týden vývoje, při kterém jsem udělal tři aplikace. Můžete si připlatit za další tokeny, za 350 dolarů měsíčně jste bez limitu.</p>
+<p>Ceny: platíte za miliony zkonzumovaných <a href="/ai/tokeny-versus-slova/">tokenů</a>. Půl milionu máte zdarma, za 30 dolarů získáte 25 milionů <a href="/ai/tokeny-versus-slova/">tokenů</a>. Při celodenní práci jsem toto množství vyčerpal za týden vývoje, při kterém jsem udělal tři aplikace. Můžete si připlatit za další <a href="/ai/tokeny-versus-slova/">tokeny</a>, za 350 dolarů měsíčně jste bez limitu.</p>
 
 <p>V Tempu jsem naprogramoval <a href="https://progressor.work">Progressor</a> - trvalo mi to jeden večer to rozchodit, další tři večery jsem to trochu šperkoval. Jen jsem zatím nenapsal, k čemu to je, což je trochu chybička, musím to napravit :) Je to nástroj k zapisování toho, co jste za den udělali. Vždycky, když něco udělám, napíšu si tu jednu větu do Progressoru a pak se kdykoliv mohu podívat, kdy jsem co dělal…</p>
 
@@ -1726,7 +1726,7 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
 
 <p>Také Cursor se umí navázat na Github a obecně se s ním pracuje velmi dobře. Samostatný klient má své výhody a nevýhody, oproti Tempo především musíte instalovat podporu pro běh programů, které vyvíjíte, ale zase můžete rychleji testovat na lokálním disku.</p>
 
-<p>Cenová politika je také komplikovaná: za 20 dolarů měsíčně získáte 500 rychlých dotazů a bez omezení ty pomalejší. Rychlé dotazy jsou Claude Sonnet 3.5, tedy ten, který velmi dobře funguje, zdarma je třeba model o3, který funguje pro programování významně hůře. Můžete si vybrat i jiné modely, dokonce pracovat přes vlastní API klíč. Za 20 dolarů měsíčně dostanete 10 milionů tokenů a můžete programovat. A jak se Bolt liší od Tempo? Bolt New se více soustředí na komplexní vývojové prostředí, zatímco Tempolabs AI klade důraz na vizuální aspekty a rychlé prototypování. Tempo například umí integrovat Figma prototypy, oba již umí pracovat se SQL databází Supabase, oba jsou v prudkém procesu vývoje, takže každý týden přidávají nějakou novou funkci. Osobně jsem si více sednul s Tempo, protože se přímo napojuje na Github, který je součástí mého pracovního worflow, ale to může mít Bolt záhy taky.</p>
+<p>Cenová politika je také komplikovaná: za 20 dolarů měsíčně získáte 500 rychlých dotazů a bez omezení ty pomalejší. Rychlé dotazy jsou Claude Sonnet 3.5, tedy ten, který velmi dobře funguje, zdarma je třeba model o3, který funguje pro programování významně hůře. Můžete si vybrat i jiné modely, dokonce pracovat přes vlastní API klíč. Za 20 dolarů měsíčně dostanete 10 milionů <a href="/ai/tokeny-versus-slova/">tokenů</a> a můžete programovat. A jak se Bolt liší od Tempo? Bolt New se více soustředí na komplexní vývojové prostředí, zatímco Tempolabs AI klade důraz na vizuální aspekty a rychlé prototypování. Tempo například umí integrovat Figma prototypy, oba již umí pracovat se SQL databází Supabase, oba jsou v prudkém procesu vývoje, takže každý týden přidávají nějakou novou funkci. Osobně jsem si více sednul s Tempo, protože se přímo napojuje na Github, který je součástí mého pracovního worflow, ale to může mít Bolt záhy taky.</p>
 
 <h4 id="cursor-ai-přehledně">Cursor AI přehledně</h4>
 
@@ -1760,14 +1760,14 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
   </li>
 </ol>
 
-<p>Co se vlastně stalo? Čínská firma Deepseek vydala před vánoci druhou generaci svého AI LLM. Už to bylo velký. Teď vydala další a uvolnila  <a href="https://www.deepseek.com/">webovou verzi svého modelu</a>  jako open source ke stažení. A byla z toho právě ta bomba na trhu, kdy se z toho všichni vzpamatovávají a přemýšlejí, co to znamená a jak to všechno mění…</p>
+<p>Co se vlastně stalo? Čínská firma <a href="/item/deepseek/">Deepseek</a> vydala před vánoci druhou generaci svého AI LLM. Už to bylo velký. Teď vydala další a uvolnila  <a href="https://www.deepseek.com/">webovou verzi svého modelu</a>  jako open source ke stažení. A byla z toho právě ta bomba na trhu, kdy se z toho všichni vzpamatovávají a přemýšlejí, co to znamená a jak to všechno mění…</p>
 
 <p>Takže si pojďme dát rychlou časovou osu s komentáři:</p>
 
 <h4 id="prosinec-2024">Prosinec 2024</h4>
 
 <ul>
-  <li>DeepSeek vydává model DeepSeek-V3</li>
+  <li><a href="/item/deepseek/">DeepSeek</a> vydává model <a href="/item/deepseek/">DeepSeek</a>-V3</li>
   <li>Model využívá architekturu “mixture of experts” pro efektivnější využití parametrů</li>
   <li>Reakce: Model je označen za významný pokrok v open-source AI (<a href="https://it-online.co.za/2025/01/27/chinas-deepseek-shakes-up-the-genai-market/">ITOnline</a>). Ale jinak je zatím klid.</li>
 </ul>
@@ -1775,7 +1775,7 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
 <h4 id="20-ledna-2025">20. ledna 2025</h4>
 
 <ul>
-  <li>DeepSeek vydává model DeepSeek-R1</li>
+  <li><a href="/item/deepseek/">DeepSeek</a> vydává model DeepSeek-R1</li>
   <li>R1 je zaměřen na pokročilé uvažování a řešení komplexních úloh</li>
   <li>Reakce:</li>
   <li>Model je označen za průlomový, srovnatelný s OpenAI o1</li>
@@ -1832,7 +1832,7 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
 
 <p>Jasně, v tom dokument Deepseeku to není napsané zcela přesně a je velmi pravděpodobné, že ve skutečnosti to stálo o pár nikláků více za nejrůznější testy a práce kolem toho, ale ten propad ceny na desetinu je ohromující. Za to nemůže jen faktor “čínské ceny”, tedy nižších nákladů v Číně, je za tím několik technologických průlomů. Je tu celá řada pokročilých algoritmů, jako třeba  <strong>Multi-head Latent Attention (MLA)</strong>. Ta umožňuje efektivnější inferenci díky kompresi klíčových hodnot do latentního vektoru. Česky řečeno MLA snižuje nároky na paměť během generování textu, což se projevuje ve výrazně snížených nárocích na hardware. Ale majstrštyk byl způsob, jakým tým obešel embargo na vývoz špičkových procesorů Nvidia H100. Trénink místo nich probíhal na pomalejší verzi H800 s pomalejší pamětí. A tak si deepseek napsal vlastní ovladače paměti a tím z handicapu udělal výhodu.</p>
 
-<p>DeepSeek také využívá  <strong>optimalizované CUDA kernely</strong>  pro zvýšení rychlosti tréninku i inference. Tyto kernely jsou specificky navrženy a upraveny pro potřeby modelů DeepSeek, aby maximalizovaly využití výpočetního výkonu GPU.</p>
+<p>DeepSeek také využívá  <strong>optimalizované <a href="https://cs.wikipedia.org/wiki/CUDA">CUDA</a> kernely</strong>  pro zvýšení rychlosti tréninku i inference. Tyto kernely jsou specificky navrženy a upraveny pro potřeby modelů DeepSeek, aby maximalizovaly využití výpočetního výkonu GPU.</p>
 
 <p>Takových přistupů a zlepšení měl za sebou Deepseek celou řadu a tím také vznikla ta technologická panika. Zjednodušeně řečeno, když vám na trénink nejpokročilejší AI stačí dvě tisícovky procesorů Nvidia, na co si pak kdo bude kupovat ty hromady procesorů, které Nvidia musí prodat, aby naplnila očekávání akcionářů? A to byl důvod, proč se akcie Nvidia a také třeba Broadcomu sesunuly v pondělí dolů a z tržní hodnoty amerických firem zmizelo 1000 miliard dolarů.</p>
 
@@ -1932,7 +1932,7 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
 
 <p>Seznam Zprávy k situaci <a href="https://www.seznamzpravy.cz/clanek/ekonomika-omezeni-vyvozu-cipu-z-usa-nedava-smysl-rika-cesky-cipovy-vedec-268169">vydaly rozhovor s Jiřím Házem z  Českého národního polovodičového klastru</a>. Rozhovor je pro mne těžko dešifrovatelný. Že situaci nevysvětlí <a href="https://www.marigold.cz/item/ivo-lukacovic-ovlivnuje-seznam-zpravy/">provládně nakolejené Seznam Zprávy</a>, je pochopitelné. Ale Jiří Háze je  člověk s výborným přehledem, takže si musí být vědom toho, že většina informací, které ve článku říká, zkrátka neodpovídají realitě. Česko dnes špičkové AI čipy prakticky nepoužívá. Výjimkou je Seznam a pár akademických pracovišť, kde ale zpravidla mají ty levnější a neembargované verze. Špičkovými čipy se nemyslí Nvidia Jetson, ale embargem dotčené H100 nebo A100, těch je v Česku pár a klidně bych se vsadil, že patřím se svou serverovou sestavou mezi největší provozovatele.</p>
 
-<p>Držet si přehled je snadné. V Česku mimo jiné ani neseženete lidi, kteří mají zkušenosti s těmito systémy, který umí řešit jejich správu a umí rutinně používat ekosystém CUDA používaný pro práci s AI a těch pár lidí, co tomu rozumí se zná a dělá prakticky pro každého v oboru. To opět odpovídá tomu, jak málo je AI v Česku běžná technologie z pohledu vývojáře. Pokud jste firma, která má dnes potřebu zajistit si kapacitu na trénink či fine-tuning svých služeb, jste v podstatě odkázáni na  nákup strojového výkonu v zahraničí.</p>
+<p>Držet si přehled je snadné. V Česku mimo jiné ani neseženete lidi, kteří mají zkušenosti s těmito systémy, který umí řešit jejich správu a umí rutinně používat ekosystém <a href="https://cs.wikipedia.org/wiki/CUDA">CUDA</a> používaný pro práci s AI a těch pár lidí, co tomu rozumí se zná a dělá prakticky pro každého v oboru. To opět odpovídá tomu, jak málo je AI v Česku běžná technologie z pohledu vývojáře. Pokud jste firma, která má dnes potřebu zajistit si kapacitu na trénink či fine-tuning svých služeb, jste v podstatě odkázáni na  nákup strojového výkonu v zahraničí.</p>
 
 <p>Česko v současné době nemá žádný špičkový AI výzkum, o kterém mluví Háze. Meteorologický model ČHMU, o kterém je řeč, utáhne „pár GPU“, které navíc ČHMU již má. Další rozvoj? Jaký? Používání meteorologického nástroje Google? Ten poběží v Google cloudu…</p>
 
@@ -1964,11 +1964,11 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
 
 <p>Ve skutečnosti bych byl za to, aby se regulace EU pro AI poněkud proškrtala či některé části přeřadily do přechodného zjišťovacího období. Zásadní problém EU regulace totiž není v samotné regulaci, ta vyžaduje vcelku logické věci. Ale firmy se obávají nekonzistentního a nepředvídatelného regulačního rozhodování v rámci EU. Vznikají tak nejasnosti ohledně praktického uplatňování nových pravidel a firmy se obávají velkých pokut, proto mohou nasazení svých AI služeb v EU odkládat. Je nyní na EU, aby vyjasnila, jak se k regulaci a především postihům bude stavět.</p>
 
-<h3 id="-halucinace-spolehlivost-ai-a-první-velké-průšvihy">💥 Halucinace, spolehlivost AI a první velké průšvihy</h3>
+<h3 id="-halucinace-spolehlivost-ai-a-první-velké-průšvihy">💥 <a href="/ai/halucinace-ai/">Halucinace</a>, spolehlivost AI a první velké průšvihy</h3>
 
 <p>Bude to velké téma, které příští rok narazí na pořádný malér: spolehlivost AI. Zatím jsou to spíš anekdotické historky o tom, jak AI podpora zákazníkovi prodala něco, co bylo dražší či si vymyslela do obhajoby neexistující paragraf. Ale to není ten pořádný malér. Tím se teprve stane, až AI odpojí část energetické soustavy, udělá fakt velkou objednávku akcií či je naopak za babku prodá a velký hedgeový fond půjde plaite. To se ještě asi letošní rok nestane.</p>
 
-<p>Jenže stejně tak se nevyřeší halucinace AI, ty jsou již napevno součástí této technologie a zbavit se jich je stejně jednoduché, jako lidského lhaní. Proč? To budeme šetřit, vrháme na to miliardy a dost možná se díky tomu dozvíme i něco o nás samotných. Kdy jindy by se vrhaly miliardy na šetření lidských selhány, než když jde o AI…</p>
+<p>Jenže stejně tak se nevyřeší <a href="/ai/halucinace-ai/">halucinace</a> AI, ty jsou již napevno součástí této technologie a zbavit se jich je stejně jednoduché, jako lidského lhaní. Proč? To budeme šetřit, vrháme na to miliardy a dost možná se díky tomu dozvíme i něco o nás samotných. Kdy jindy by se vrhaly miliardy na šetření lidských selhány, než když jde o AI…</p>
 
 <p>Očekávám ale také první „reálný“ případ AI incidentu, kdy se model projeví záměrně zavádějícím či „podvodným“ chováním. Nepůjde o okamžitou katastrofu, ale o varovný signál, že AI může jednat ve vlastním „zájmu“ i bez přímého příkazu člověka. Jaké to bude mít dopady bude záležet také na tom, jak daleko postoupíme příští rok s technologií agentů…</p>
 
