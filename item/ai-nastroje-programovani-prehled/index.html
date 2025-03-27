@@ -179,6 +179,95 @@ březen
 
 
  
+  <div class="quick-summary">
+    <div class="quick-summary-header">
+      <svg class="summary-icon" viewBox="0 0 24 24" width="24" height="24">
+        <path fill="currentColor" d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" />
+      </svg>
+      <span>Rychlé shrnutí článku</span>
+    </div>
+    <ul class="summary-points">
+      
+        <li>AI programování získává popularitu, nové nástroje se objevují denně.</li>
+      
+        <li>Claude Code doporučen pro skripty, Databutton pro webové aplikace s milestony.</li>
+      
+        <li>Cursor a Windsurf vhodné pro zkušené vývojáře s prostředím Visual Studio Code.</li>
+      
+        <li>Seznam obsahuje 33 AI nástrojů pro programování s různými funkcemi a cenami.</li>
+      
+    </ul>
+  </div>
+
+  
+
+<style>
+.quick-summary {
+    background: linear-gradient(145deg, #ffffff, #f5f5f5);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+                0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.quick-summary-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    color: #2d3748;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.summary-icon {
+    margin-right: 0.5rem;
+    color: #4a5568;
+}
+
+.summary-points {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.summary-points li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #4a5568;
+    line-height: 1.5;
+}
+
+.summary-points li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #667eea;
+    font-weight: bold;
+}
+
+@media (prefers-color-scheme: dark) {
+    .quick-summary {
+        background: linear-gradient(145deg, #2d3748, #1a202c);
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+    }
+    
+    .quick-summary-header {
+        color: #e2e8f0;
+    }
+    
+    .summary-icon,
+    .summary-points li {
+        color: #cbd5e0;
+    }
+    
+    .summary-points li::before {
+        color: #7f9cf5;
+    }
+}
+</style>
+
 
 
 <div class="audio-container">
@@ -442,16 +531,7 @@ březen
   <li><strong>Funkce</strong>:
     <ul>
       <li>AI generátor UI komponent pro webové aplikace</li>
-      <li>
-        <table>
-          <tbody>
-            <tr>
-              <td>Převádí skici a popisy do kódu (HTML/CSS) [oai_citation_attribution:3‡Introduction</td>
-              <td>Continue](https://docs.continue.dev/getting-started/overview?utm_source=marigold)</td>
-            </tr>
-          </tbody>
-        </table>
-      </li>
+      <li>Převádí skici a popisy do kódu (HTML/CSS)</li>
       <li>Umožňuje rychlé prototypování uživatelských rozhraní</li>
     </ul>
   </li>
@@ -495,9 +575,9 @@ březen
 <ul>
   <li><strong>Funkce</strong>:
     <ul>
-      <li>Open-source plugin pro VS Code a JetBrains <a href="https://github.com/continuedev/continue?utm_source=marigold">oai_citation_attribution:4‡GitHub</a></li>
+      <li>Open-source plugin pro VS Code a JetBrains</li>
       <li>Umožňuje vytvářet, sdílet a používat vlastní AI asistenty pro kódování</li>
-      <li>Poskytuje chat, automatické doplňování a editaci kódu <a href="https://docs.continue.dev/getting-started/overview?utm_source=marigold">Continue</a></li>
+      <li>Poskytuje chat, automatické doplňování a editaci kódu</li>
     </ul>
   </li>
   <li><strong>Vhodné pro</strong>: Vývojáře hledající přizpůsobitelné AI asistenty</li>
@@ -525,7 +605,7 @@ březen
 <ul>
   <li><strong>Funkce</strong>:
     <ul>
-      <li>AI agent pro budování interních nástrojů <a href="https://webdraw.com/?utm_source=marigold">Free AI App Generator</a></li>
+      <li>AI agent pro budování interních nástrojů</li>
       <li>Umožňuje vytvářet vlastní software bez kódování</li>
       <li>Poskytuje nástroje pro monitorování interakcí a konfiguraci nastavení <a href="https://base44.com/apps/ai-agent-framework-60fda1db?utm_source=marigold">BASE44 - AI-Powered Software Development</a></li>
     </ul>
@@ -559,7 +639,7 @@ březen
       <li>Umožňuje spolupráci s velkými jazykovými modely (LLM) na úpravách kódu ve vašem lokálním git repozitáři</li>
       <li>Podporuje práci s existujícími projekty i vytváření nových</li>
       <li>Automaticky provádí commity s rozumnými zprávami</li>
-      <li>Kompatibilní s modely jako GPT-4 a Claude 3.5 Sonnet <a href="https://www.reddit.com/r/emacs/comments/1fwwjgw/introduce_aider_ai_programming_in_terminal_and/?utm_source=marigold">oai_citation_attribution:0‡Reddit</a></li>
+      <li>Kompatibilní s modely jako GPT-4 a Claude 3.5 Sonnet</li>
     </ul>
   </li>
   <li><strong>Vhodné pro</strong>: Vývojáře hledající AI asistenci přímo v terminálu</li>
@@ -702,10 +782,10 @@ březen
           
             <tr>
               <td>
-                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
+                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
                 <p class="excerpt">
                   
-                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
+                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  Zlatá éra weblogů a můžete si ji stáhnout zdar...
                   
                 </p>
               </td>
@@ -713,10 +793,10 @@ březen
           
             <tr>
               <td>
-                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
+                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
                 <p class="excerpt">
                   
-                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don’t restrict anyone else, and it is on this rule that the modern wo...
+                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
                   
                 </p>
               </td>
@@ -747,6 +827,8 @@ březen
         <a class="prev" href="/item/claude-code-novinky/">&laquo; Nové funkce v Claude Code pro programování s AI</a> |
       
       
+      
+        <a class="next" href="/item/2025-03-27-zapier-mcp/"> &raquo;</a>
       
     </div>
     </p>
