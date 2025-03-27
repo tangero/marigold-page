@@ -1,4 +1,5 @@
 ---
+audio_url: http://www.marigold.cz/audio/2025-03-27-zapier-mcp.mp3
 author: Patrick Zandl
 categories:
 - Zapier
