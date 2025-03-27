@@ -14,7 +14,7 @@ Pro ty, kdo se ve schématech sítí moc nepohybují: Funguje tu celá řada akr
 
 Je také zřejmé, že pro komunikaci s BTS či NodeB se používají rozdílně značené protokoly zajišťující v případě NodeB zpětnou kompatibilitu, schopnost obsloužit uživatele starší technologie. Aby toto bylo v nákresech zřejmé, používají se i k popisu vlastně “stejné funkce” vykonávajících protokolů jiná označení. Do takového detailu ale nepůjdeme tam, kde to není pro pochopení fungování sítě nutné.  
 
-Projekt 3GPP (3rd Generation Partnership Project) se zásadním způsobem podílel na utváření prostředí mobilních telekomunikací. Od svého založení v roce 1998 3GPP neustále vyvíjí své standardy, aby vyhověl stále rostoucím požadavkům na vyšší přenosové rychlosti, nižší latenci a vyšší kapacitu. Tento článek se zabývá technologickou proměnou síťové architektury 3GPP od verze 98 přes zavedení 3G, 4G (LTE) a 5G až po nejnovější 5G Advanced ve verzi 18\. Zaměříme se na architektonické změny, nové síťové prvky, protokoly a zdůvodnění těchto konstrukčních rozhodnutí.
+Projekt 3GPP (3rd Generation Partnership Project) se zásadním způsobem podílel na utváření prostředí mobilních telekomunikací. Od svého založení v roce 1998 3GPP neustále vyvíjí své standardy, aby vyhověl stále rostoucím požadavkům na vyšší přenosové rychlosti, nižší latenci a vyšší kapacitu. Tento článek se zabývá technologickou proměnou síťové architektury 3GPP od verze 98 přes zavedení 3G, 4G (LTE) a 5G až po nejnovější [5G Advanced](/item/5G_advanced_3GPP_Release-18/) ve verzi 18\. Zaměříme se na architektonické změny, nové síťové prvky, protokoly a zdůvodnění těchto konstrukčních rozhodnutí.
 
 __Přeskočit přehled obsahu rovnou na [první Release 99 👇](#3gpp-release-99-úsvit-3g)__
 
@@ -37,7 +37,7 @@ Než se ponoříme do konkrétních verzí, je nezbytné porozumět procesu stan
 | Vydání 99 | 2000 Q1 | Specifikoval první sítě UMTS 3G, které obsahují rozhraní CDMA |
 | Vydání 4 | 2\. čtvrtletí 2001... | HSDPA |
 | ... | ... | ... |
-| Vydání 19 | 4\. čtvrtletí 2025 | 5G-Advanced |
+| Vydání 19 | 4\. čtvrtletí 2025 | [5G-Advanced](/item/5G_advanced_3GPP_Release-18/) |
 
 Sítě 2G a 3G měly velmi podobné schéma, v němž existovaly základnové stanice (nazývané BTS ve 2G nebo Node B u 3G) obsluhující jednotlivé oblasti zvané buňky a komunikující s mobilními uživateli. Odděleně od základnových stanic existovaly jim nadřízené řídící systémy zvané Radiové kontrolery (ve 2G se jmenovaly BSC, u 3G o RNC). Kontrolery (česky béescéčka nebo erencéčka) dohlížely na několik desítek nebo stovek základnových stanic, jejich provoz koordinovaly. Jejich hlavním úkolem byla rádiová koordinace, tedy přidělování a uvolňování rádiových kanálů, na které základnové stanice komunikují s uživatelem a řízení kmitočtové matice pro Frequency Hopping (technologii dynamické změny frekvence pro lepší využití frekvenčního spektra a zvýšení bezpečnosti). Dále BSC koordinovalo handovery a sdružovalo provoz z podřízené části sítě do ústředny mobilní sítě zvané MSC. Mimo jiné také až BSC provádělo šifrování a dešifrování přenosů. 
 
@@ -45,7 +45,7 @@ S příchodem paketového přenosu dat GPRS (sítě 2.5G) se do BSC přidala č�
 
 ## **Vývoj nepozemských sítí v rámci 3GPP**
 
-Dalším důležitým aspektem standardizace 3GPP je integrace nepozemních sítí (NTN). NTN, jako jsou satelitní sítě, hrají klíčovou roli při rozšiřování mobilního pokrytí do vzdálených a nedostatečně obsluhovaných oblastí. 3GPP aktivně pracuje na začlenění NTN do svých norem a věnuje tomuto úsilí různé studie a pracovní body. \
+Dalším důležitým aspektem standardizace 3GPP je integrace nepozemních sítí ([NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/)). [NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/), jako jsou satelitní sítě, hrají klíčovou roli při rozšiřování mobilního pokrytí do vzdálených a nedostatečně obsluhovaných oblastí. 3GPP aktivně pracuje na začlenění NTN do svých norem a věnuje tomuto úsilí různé studie a pracovní body. \
 [Nepozemské sítě NTN podrobněji rozebíráme zde](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/). 
 
 | REL | Akronym | Titul |
@@ -89,7 +89,7 @@ Přechod na 3G přinesl také změny v architektuře protokolů rádiového rozh
 
 Po vydání verze 99 pokračoval vývoj UMTS v dalších verzích. Verze 5 a 6 zavedly vysokorychlostní paketový přístup (HSPA), který výrazně zvýšil rychlost přenosu dat. Verze 7 dále vylepšila HSPA zavedením technologie HSPA+ (Evolved HSPA)6. Tyto pokroky v technologii 3G připravily půdu pro vývoj 4G LTE.
 
-## **Verze 3GPP Release 8: Vzestup LTE**
+## **Verze [3GPP Release 8](/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti/): Vzestup LTE**
 
 Verze [3GPP Release 8](/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti) zahájila éru 4G zavedením technologie Long Term Evolution (LTE). Cílem LTE bylo výrazně zvýšit kapacitu a rychlost sítě využitím nových technik digitálního zpracování signálu a modulací. Toto vydání přineslo zásadní změnu v architektuře sítě, která se posunula směrem ke zjednodušenému, plně IP systému se sníženou latencí.
 
@@ -99,7 +99,7 @@ Asi nejmarkantnější jsou tedy následující odlišnosti mezi 3G a 4G
 - všechny eNodeB mezi sebou mohou komunikovat pomocí standardního rozhraní X2, což je mimo jiné důsledek odstranění RNC, ale také možnost používat v síti základnové stanice různých výrobců. Dříve bylo potřeba je důsledně geograficky oddělovat, protože uměly komunikovat jen přes RNC stejného výrobce. 
 - byly odstraněny všechny okruhově spínané služby, veškerý provoz je pouze packetový
 - všechny kanály se mohou využívat pro přenos dat, nejsou vyhrazeny řídící kanály. 
-- díky tomu bylo zpřehledněno dosavadní Jádro sítě do podoby Evolved Packet Core (EPC), které může používat komerčně dostupné servery, ne specializovaný hardware. 
+- díky tomu bylo zpřehledněno dosavadní Jádro sítě do podoby [Evolved Packet Core](/mobilnisite/epc-evolved-packet-core-lte/) ([EPC](/mobilnisite/epc-evolved-packet-core-lte/)), které může používat komerčně dostupné servery, ne specializovaný hardware. 
 
 ### **Zploštění síťové architektury**
 
@@ -115,9 +115,9 @@ Verze 8 také zavedla ortogonální vícenásobný přístup s kmitočtovým dě
 
 Ačkoli pro LTE byly zvoleny [OFDMA a SC-FDMA](/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax), zvažovala se i jiná schémata vícenásobného přístupu. Hodnotila se například vícenásobný přístup s časovým dělením (TDMA) a vícenásobný přístup s kódovým dělením (CDMA). Nakonec však byly vybrány OFDMA a SC-FDMA kvůli jejich lepšímu výkonu z hlediska spektrální účinnosti a odolnosti vůči rušení.
 
-## **3GPP verze 10: LTE-Advanced**
+## **3GPP verze 10: [LTE-Advanced](/mobilnisite/3gpp-release-10/)**
 
-[Release 10](/mobilnisite/3gpp-release-10) dále vylepšilo standard LTE zavedením LTE-Advanced. Cílem tohoto vydání bylo splnit požadavky na mezinárodní mobilní telekomunikace-Advanced (IMT-Advanced), které stanovily vyšší rychlost přenosu dat a vyšší spektrální účinnost10. Koncem roku 2009 byla oficiálně předložena ITU-T jako kandidátská technologie 4G.
+[Release 10](/mobilnisite/3gpp-release-10) dále vylepšilo standard LTE zavedením [LTE-Advanced](/mobilnisite/3gpp-release-10/). Cílem tohoto vydání bylo splnit požadavky na mezinárodní mobilní telekomunikace-Advanced (IMT-Advanced), které stanovily vyšší rychlost přenosu dat a vyšší spektrální účinnost10. Koncem roku 2009 byla oficiálně předložena ITU-T jako kandidátská technologie 4G.
 
 ### **Agregace nosných sítí**
 
@@ -170,7 +170,7 @@ Verze 15 znamenala významný skok vpřed zavedením 5G New Radio (NR), nové te
 
 ### **Jádro sítě 5G**
 
-Jednou z klíčových architektonických změn ve verzi 15 bylo zavedení sítě [5G Core (5GC)](/item/5G_Core/). 5GC je cloudová architektura založená na službách, která ve srovnání s předchozí jádrovou sítí EPC poskytuje větší flexibilitu a škálovatelnost. 5GC podporuje network slicing, který umožňuje operátorům vytvářet na sdílené fyzické infrastruktuře více virtuálních sítí pro uspokojení různých požadavků na služby.
+Jednou z klíčových architektonických změn ve verzi 15 bylo zavedení sítě [5G Core (5GC)](/item/5G_Core/). 5GC je cloudová architektura založená na službách, která ve srovnání s předchozí jádrovou sítí EPC poskytuje větší flexibilitu a škálovatelnost. 5GC podporuje [network slicing](/mobilnisite/network-slicing-5g/), který umožňuje operátorům vytvářet na sdílené fyzické infrastruktuře více virtuálních sítí pro uspokojení různých požadavků na služby.
 
 Tento přechod na 5GC představuje přechod od hardwarově orientované k softwarově orientované síťové architektuře. Tento softwarově orientovaný přístup umožňuje větší flexibilitu, škálovatelnost a automatizaci, které jsou klíčové pro podporu různorodých požadavků služeb 5G.
 
@@ -205,7 +205,7 @@ Síť C-RAN však přináší také výzvy, jako je potřeba vysokorychlostních
 
 ### **Alternativní přístupy**
 
-Přestože byla pro 5G zvolena architektura 5GC, byly zvažovány i jiné architektury páteřní sítě. Hodnotila se například evoluce stávajícího jádra sítě EPC. Nicméně 5GC byla upřednostněna díky svému cloudově nativnímu designu, architektuře založené na službách a podpoře network slicing, které poskytují větší flexibilitu a škálovatelnost pro služby 5G.
+Přestože byla pro 5G zvolena architektura 5GC, byly zvažovány i jiné architektury páteřní sítě. Hodnotila se například evoluce stávajícího jádra sítě EPC. Nicméně 5GC byla upřednostněna díky svému cloudově nativnímu designu, architektuře založené na službách a podpoře [network slicing](/mobilnisite/network-slicing-5g/), které poskytují větší flexibilitu a škálovatelnost pro služby 5G.
 
 ## **3GPP Release 18: 5G Advanced**
 
@@ -215,14 +215,14 @@ Verze [Release 18](/item/5G_advanced_3GPP_Release-18/), první verze 5G Advanced
 
 Cílem 5G Advanced je:
 
-* **umožnit efektivnější zařízení a služby internetu věcí:** To zahrnuje podporu zařízení s rozšířenou sníženou kapacitou (RedCap) a přenos malých dat.  
+* **umožnit efektivnější zařízení a služby internetu věcí:** To zahrnuje podporu zařízení s rozšířenou sníženou kapacitou ([RedCap](/mobilnisite/redcap/)) a přenos malých dat.  
 * **Rozšířit 5G prakticky na všechna zařízení a případy použití:** To zahrnuje vylepšení stávajících technologií a zavedení nových technologií pro podporu širšího spektra aplikací a zařízení.
 
 ### **Klíčové funkce a vylepšení**
 
 Mezi klíčové funkce verze 18 patří např:
 
-* **Vylepšený RedCap**: Tato verze vylepšuje zařízení se sníženou kapacitou (RedCap), která jsou navržena s ohledem na nižší složitost a náklady, takže jsou vhodná pro nasazení v oblasti internetu věcí.  
+* **Vylepšený [RedCap](/mobilnisite/redcap/)**: Tato verze vylepšuje zařízení se sníženou kapacitou (RedCap), která jsou navržena s ohledem na nižší složitost a náklady, takže jsou vhodná pro nasazení v oblasti internetu věcí.  
 * **Umělá inteligence (AI) a [strojové učení](/ai/strojove-uceni-machine-learning/) (ML):** Vydání 18 zavádí techniky AI/ML na různých úrovních sítě s cílem zlepšit výkon a efektivitu sítě.  
 * **Klíčové poznatky: V roce 2018 se v rámci projektu „Klíčové poznatky“ objevilo několik nových technologií, které se zaměřují na podporu a rozvoj sítí:** AI/ML hraje klíčovou roli při optimalizaci výkonu a efektivity sítě v 5G Advanced. Využitím AI/ML se sítě mohou přizpůsobovat měnícím se vzorcům provozu, optimalizovat přidělování zdrojů a zlepšovat uživatelskou zkušenost.  
 * **Vylepšení rozdělení sítě:** Tato verze rozšiřuje možnosti slicingu sítě o podporu slicingu s více doménami a více poskytovateli, což poskytuje větší flexibilitu a škálovatelnost.  

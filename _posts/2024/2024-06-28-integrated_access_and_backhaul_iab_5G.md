@@ -19,7 +19,7 @@ summary_points:
 title: Integrated Access and Backhaul (IAB) v sítích 5G
 ---
 
-Jednou z nejzajímavějších inovací v 3GPP Release 16, finalizované v roce 2020 je Integrated Access and Backhaul (IAB) - Integrované přístupové a páteřní propojení.  Jde o technologii, která má potenciál dramaticky změnit způsob, jakým jsou navrženy a nasazeny mobilní sítě. IAB představuje elegantní řešení pro jeden z největších problémů při nasazování 5G sítí: potřebu husté infrastruktury a nákladného backhaulu, tedy páteřního propojení. To se v 3G sítích realizovalo zpravidla mikrovlnými pojítky nebo metalickými propojeními, u 4G sítí stoupaly nároky na jeho kvalitu až k gigabitovým optickým linkám.  
+Jednou z nejzajímavějších inovací v 3GPP Release 16, finalizované v roce 2020 je [Integrated Access and Backhaul](/item/integrated_access_and_backhaul_iab_5G/) ([IAB](/item/integrated_access_and_backhaul_iab_5G/)) - Integrované přístupové a páteřní propojení.  Jde o technologii, která má potenciál dramaticky změnit způsob, jakým jsou navrženy a nasazeny mobilní sítě. IAB představuje elegantní řešení pro jeden z největších problémů při nasazování 5G sítí: potřebu husté infrastruktury a nákladného backhaulu, tedy páteřního propojení. To se v 3G sítích realizovalo zpravidla mikrovlnými pojítky nebo metalickými propojeními, u 4G sítí stoupaly nároky na jeho kvalitu až k gigabitovým optickým linkám.  
 
 ## Co je IAB
 
@@ -39,7 +39,7 @@ IAB architektura se skládá z několika klíčových komponent:
 
 V čem představuje IAB významný pokrok oproti předchozím přístupům k řešení backhaulu v mobilních sítích?  Klasické backhaul řešení v 3G a 4G sítích jako mikrovlnné spoje nebo optická vlákna vyžadují dodatečnou infrastrukturu a značné investice. LTE již dříve v Release 10 zavedlo koncept **Relay Nodes**, ale ty byly omezené ve své funkčnosti a flexibilitě. IAB rozšiřuje tento koncept, umožňuje multi-hop topologie a poskytuje mnohem větší flexibilitu v síťovém plánování. Navíc využívá existující 5G rádiové rozhraní, což významně snižuje náklady a zjednodušuje nasazení. 
 
-Podobně je to s konceptem **Small Cells**. Ty zlepšily pokrytí a kapacitu v hustých oblastech, stále ale vyžadovaly samostatné backhaul řešení. Zatímco základy pro Small Cells byly položeny již v Release 8 s konceptem HeNB (tedy Home eNodeB), plnohodnotný koncept Small Cells, jak jej známe dnes, se vyvíjel především od Release 10 (LTE-Advanced) a dále. Každý následující release přidával nové funkce a vylepšení, která zvyšovala efektivitu a flexibilitu nasazení Small Cells.
+Podobně je to s konceptem **Small Cells**. Ty zlepšily pokrytí a kapacitu v hustých oblastech, stále ale vyžadovaly samostatné backhaul řešení. Zatímco základy pro Small Cells byly položeny již v Release 8 s konceptem HeNB (tedy Home eNodeB), plnohodnotný koncept Small Cells, jak jej známe dnes, se vyvíjel především od Release 10 ([LTE-Advanced](/mobilnisite/3gpp-release-10/)) a dále. Každý následující release přidával nové funkce a vylepšení, která zvyšovala efektivitu a flexibilitu nasazení Small Cells.
 
 Je dobré poznamenat, že termín "Small Cells" se stal běžně používaným v průmyslu kolem roku 2011-2012, což koresponduje s obdobím Release 10 a 11. Small Cell Forum, klíčová průmyslová organizace propagující tuto technologii, byl založen v roce 2007 (původně jako Femto Forum) a přejmenován na Small Cell Forum v roce 2012, což odráží širší adopci tohoto konceptu v mobilních sítích. Odtud tedy můžeme tušit i zájem o další rozvoj do směru IAB, kdy IAB integruje backhaul přímo do small cell konceptu. 
 
@@ -67,7 +67,7 @@ Ale také je dobré říct si na rovinu, že IAB má své stinné stránky a nev
 Zatímco IAB představuje významný pokrok v Release 16, budoucí vydání 3GPP přinesou další vylepšení:
 
 1. Inteligentní IAB (Release 17 a dále) - Očekává se integrace AI/ML algoritmů pro optimalizaci směrování, alokace zdrojů a QoS managementu v IAB sítích.
-2. Rozšířená podpora pro [Non-Terrestrial Networks (NTN)](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) Budoucí Release zřejmě rozšíří IAB koncept na satelitní a vzdušné platformy (tedy Non-Terrestrial Networks (NTN)), umožňující ještě větší flexibilitu v poskytování konektivity. Zatím s tím počítejme tak do Release 19, spíše 20. 
+2. Rozšířená podpora pro [Non-Terrestrial Networks (NTN)](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) Budoucí Release zřejmě rozšíří IAB koncept na satelitní a vzdušné platformy (tedy [Non-Terrestrial Networks](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) ([NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/))), umožňující ještě větší flexibilitu v poskytování konektivity. Zatím s tím počítejme tak do Release 19, spíše 20. 
 3. Vylepšené multi-RAT integrace - Budoucí verze IAB mohou lépe integrovat různé rádiové přístupové technologie, včetně Wi-Fi a budoucích 6G systémů.
 
 ## Praktické nasazení IAB

@@ -21,7 +21,7 @@ Tyto [halucinace](/ai/halucinace-ai/) představují zásadní problém zejména 
 
 ### Proč [halucinace](/ai/halucinace-ai/) vznikají?
 
-Příčiny halucinací jsou vnitřně spjaty s principem fungování velkých jazykových modelů (LLMs – Large Language Models):
+Příčiny [halucinací](/ai/halucinace-ai/) jsou vnitřně spjaty s principem fungování velkých jazykových modelů (LLMs – Large Language Models):
 
 1. **Statistická podstata modelu**: Modely jako GPT jsou trénovány na obrovských objemech textu tak, aby se naučily predikovat pravděpodobnost výsktu následujícího tokenu (slova či symbolu). Nemají implicitní porozumění „pravdě“ či světu kolem nás, ale pouze statistickou reprezentaci souvislostí mezi [tokeny](/ai/tokeny-versus-slova/). Pokud se ocitnou v situaci, kdy je pravděpodobnost mnoha slibně vypadajících, ale nekorektních odpovědí podobná, mohou zvolit „nejpravděpodobnější znející“ variantu, která je ovšem zcela smyšlená.
 
@@ -33,7 +33,7 @@ Příčiny halucinací jsou vnitřně spjaty s principem fungování velkých ja
 
 ### Statistická podstata modelu
 
-Zásadním aspektem vzniku halucinací je vrozená pravděpodobnostní povaha generativních jazykových modelů. Při generování každého tokenu model pracuje s pravděpodobnostní distribucí možných následujících [tokenů](/ai/tokeny-versus-slova/), přičemž výběr je ovlivněn parametrem teploty (temperature). Tento parametr určuje míru "kreativnosti" modelu - při vyšších hodnotách je distribuce pravděpodobností plošší, což vede k diverzifikovanějším, ale potenciálně méně přesným výstupům.
+Zásadním aspektem vzniku [halucinací](/ai/halucinace-ai/) je vrozená pravděpodobnostní povaha generativních jazykových modelů. Při generování každého tokenu model pracuje s pravděpodobnostní distribucí možných následujících [tokenů](/ai/tokeny-versus-slova/), přičemž výběr je ovlivněn parametrem teploty (temperature). Tento parametr určuje míru "kreativnosti" modelu - při vyšších hodnotách je distribuce pravděpodobností plošší, což vede k diverzifikovanějším, ale potenciálně méně přesným výstupům.
 
 Kumulativní nejistota v dlouhých sekvencích představuje další kritický faktor. S každým generovaným tokenem se nejistota modelu akumuluje, což může vést k postupnému odklonu od fakticky správných informací. Tento jev je zvláště patrný při generování delších textů, kde model musí udržovat konzistenci napříč mnoha vzájemně provázanými tvrzeními.
 

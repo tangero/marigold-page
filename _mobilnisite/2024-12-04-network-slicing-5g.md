@@ -14,9 +14,9 @@ __Co konkrétně se v tomto článku dozvíte?__
 {:toc}
 
 
-Network slicing představuje jednu z nejvýznamnějších technologií zavedených v 5G sítích, která umožňuje operátorům vytvářet více virtuálních sítí (tzv. slices) na sdílené fyzické infrastruktuře. Proč? Inu proto, že tento přístup umožňuje za prvé kvalitnější a rychlejší obsluhu uživatele v síti a pak šetřit zdroje sítě. 
+[Network slicing](/mobilnisite/network-slicing-5g/) představuje jednu z nejvýznamnějších technologií zavedených v 5G sítích, která umožňuje operátorům vytvářet více virtuálních sítí (tzv. slices) na sdílené fyzické infrastruktuře. Proč? Inu proto, že tento přístup umožňuje za prvé kvalitnější a rychlejší obsluhu uživatele v síti a pak šetřit zdroje sítě. 
 
-Zjednodušeně řečeno si operátor sítě zjistí, jakou úroveň služeb které uživatelské zařízení v síti vyžaduje, například podle tarifu či podle profilu zařízení. A pak provoz tohoto zařízení posílá pouze přes ty prvky sítě, které jsou pro takový provoz vhodné či nutné. Tak je možné používat jiné procedury a jiné prvky sítě pro low-power zařízení v síti a jiné pro multimediální terminály. A protože se tento přístup dá připodobnit k používání "plátků" sítě, kdy každý plátek je určený pro jiný typ mobilních terminálů, vžil se marketingově přiléhavý pojem "network slicing". 
+Zjednodušeně řečeno si operátor sítě zjistí, jakou úroveň služeb které uživatelské zařízení v síti vyžaduje, například podle tarifu či podle profilu zařízení. A pak provoz tohoto zařízení posílá pouze přes ty prvky sítě, které jsou pro takový provoz vhodné či nutné. Tak je možné používat jiné procedury a jiné prvky sítě pro low-power zařízení v síti a jiné pro multimediální terminály. A protože se tento přístup dá připodobnit k používání "plátků" sítě, kdy každý plátek je určený pro jiný typ mobilních terminálů, vžil se marketingově přiléhavý pojem "[network slicing](/mobilnisite/network-slicing-5g/)". 
 
 Koncept je ostatně zřejmý z následujícího obrázku.
 

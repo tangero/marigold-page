@@ -17,7 +17,8 @@ summary_points:
 - LTE sítě využívají výhradně IP provoz, což je odlišuje od 3G sítí.
 - SAE je systém požadavků, EPC je odpověď na tyto požadavky v Release 8.
 - EPC zahrnuje SGW, PGW, MME a PCRF, klíčové komponenty pro fungování LTE.
-title: 3GPP Release 8 -  System Architecture Evolution (SAE) a Evolved Packet Core (EPC) v rámci LTE sítí
+title: 3GPP Release 8 -  System Architecture Evolution (SAE) a Evolved Packet Core
+  (EPC) v rámci LTE sítí
 ---
 
 <p>Počátky LTE můžeme oprávněně spatřovat v Release 8, která byla vydána z kraje roku 2008 a v mnoha ohledech navazovala na Release 7, zejména rozšířením modulačního schématu 64QAM do použití s MIMO anténami a pak dual-carrier HSPA, DC HSPA, kdy lze pro přenos dat přes HSPA využít dva přenašeče a tedy fakticky zdvojnásobit poskytovanou rychlost (nikoliv kapacitu). Až potud je Release 8 jen logickým vývojem <a href="/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7">Release 7</a>.</p>
@@ -25,7 +26,7 @@ title: 3GPP Release 8 -  System Architecture Evolution (SAE) a Evolved Packet Co
 
 <p>Již v rámci Release 7 vznila Studie proveditelnosti, která měla ověřit vývoj směrem k tomu, co se později nazvalo LTE. Vznikl něco jako rámec, zásady - snůška toho, co bychom my, lidé od počítačů, asi považovali za samozřejmé, ale telekomunikačním harcovníkům to přišlo jako hereze. V rámci LTE totiž měl vzniknout výhradně IP provoz. Pamatujeme si jistě, že klasická 3G/UMTS sít operovala ve dvou režimech: okruhově a paketově spínaném, mezi což se snažila <a href="/item/turbouvod-do-umts-ims-aneb-ip-multimedia-subsystem">vsunout IP Multimedia Subsystem</a>, který měl schizma pocházející ze současného provozu dvou protichůdných technologií nějak zaintegrovat. V rámci Feasibility study se mimo jiné ukázalo, že nejlepším východiskem z dualistického schismatu je oprostit se od jednoho a neb data jsou cloumák, přidržet se dat - a tedy celé LTE postavit nad IP technologií, jako paketově spínanou sít.</p>
 
-<h2>System Architecture Evolution (SAE) a Evolved Packet Core (EPC) v rámci LTE sítí</h2>
+<h2>System Architecture Evolution (SAE) a [Evolved Packet Core](/mobilnisite/epc-evolved-packet-core-lte/) ([EPC](/mobilnisite/epc-evolved-packet-core-lte/)) v rámci LTE sítí</h2>
 <p>Jedním z pojmů, ke kterému bychom se v rámci LTE sítí měli prokousat v první řadě, je tandem <em>SAE - EPC</em>. Občas se doslechnu, že jde o synonyma. Nejde, i když si to nadále můžete myslet, není to velká chyba. Když se přemýšlelo o dalším vývoji mobilních sítí v rámci 3GPP konsorcia, přemyšlování šlo i do jádra sítě, tedy do toho, co jsme si v UMTS sítích uvykli označovat za Core Network.</p>
 
 <p>I tady by se mohlo ledasco změnit, soudili moudří pánové a začalo se zkoumat, co. Tak vznikl pracovní úkol (Work Item) v rámci 3GPP nazvaný <strong>System Architecture Evolution</strong>, jehož úkolem bylo zamyslet se nad tím, jak by jádro sítě mělo být do budoucna koncipováno zejména s ohledem na zvyšování přenosových rychlostí, nárůst kapacity, optimalizaci odezvy a pokles významu telefonních služeb i obecnou propojitelnost systémů. Výsledkem těchto úvah byl návrh <strong>Evolved Packet Core</strong> (EPC). A to je také vztah mezi SAE a EPC - zatímco SAE je systém požadavků, EPC je jednou z odpovědí na tyto požadavky (a jediným standardem v rámci 3GPP). I proto jsme si uvykli považovat SAE a EPC za synonyma, dnes ovšem převažuje správné pojmenování EPC, zatímco SAE se používá ve starší literatuře, která vznikala v době, kdy se teprve úkol SAE rozpracovával. Ještě si připomeňme, že EPC se stalo součástí 3GPP standardu v Release 8.</p>
@@ -50,7 +51,7 @@ title: 3GPP Release 8 -  System Architecture Evolution (SAE) a Evolved Packet Co
 <li>Mobility Management Entity (MME) - Entita správy mobility</li>
 <li>Policy and Charging Rules Function (PCRF) - Funkce pravidel přístupu a účtování</li>
 </ul>
-<p>Zatímco SGW, PGW a MME byly poprvé představeny v rámci 3GPP Release 8, PCFR pochází již z <a href="/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7">předchozí Release 7</a>, ale příliš se neuplatňovala a převažoval původní koncept autentizace mobilky. Od Release 8 je začlenění PCRF a jeho interoperabilita s bránami EPC a MME povinná a bez ní není možné v LTE fungovat.</p>
+<p>Zatímco SGW, PGW a MME byly poprvé představeny v rámci [3GPP Release 8](/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti/), PCFR pochází již z <a href="/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7">předchozí Release 7</a>, ale příliš se neuplatňovala a převažoval původní koncept autentizace mobilky. Od Release 8 je začlenění PCRF a jeho interoperabilita s bránami EPC a MME povinná a bez ní není možné v LTE fungovat.</p>
 
 <p>Na obrázku je vidět schéma LTE sítě s EPC, klasickou GSM/UMTS sítí a sítí CDMA. </p>
 

@@ -1,15 +1,18 @@
 ---
-layout: post
-title: Non-Terrestrial Networks -  integrace nezemských sítí do sítí 5G/6G
+categories:
+- 5G
+- Mobilní sítě
 date: 2024-11-17
-categories: [5G, Mobilní sítě]
+layout: post
 thumbnail: https://cdn.everythingrf.com/live/1681111338034_638167081392088941.png
+title: Non-Terrestrial Networks -  integrace nezemských sítí do sítí 5G/6G
 ---
+
 __Co konkrétně se v tomto článku dozvíte?__ 
 * Obsah
 {:toc}
 
-Non-Terrestrial Networks (NTN) představují další významný krok v evoluci mobilních sítí, který spojuje konvenční pozemní infrastrukturu s vesmírnou komponentou. S příchodem 5G standardů, konkrétně od Release 17, se NTN stávají integrální součástí mobilních sítí, což otevírá zcela nové možnosti v oblasti globální konektivity.
+[Non-Terrestrial Networks](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) ([NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/)) představují další významný krok v evoluci mobilních sítí, který spojuje konvenční pozemní infrastrukturu s vesmírnou komponentou. S příchodem 5G standardů, konkrétně od Release 17, se NTN stávají integrální součástí mobilních sítí, což otevírá zcela nové možnosti v oblasti globální konektivity.
 
 Základní komponenty NTN zahrnují:
 - Satelitní systémy (LEO, MEO, GEO)
@@ -313,7 +316,7 @@ V 6G se NTN stávají plnohodnotnou součástí holistické síťové architektu
    - On-board processing pro kritické aplikace
    - Dynamic workload distribution
 
-4. Network Slicing pro NTN:
+4. [Network Slicing](/mobilnisite/network-slicing-5g/) pro NTN:
    - End-to-end slicing zahrnující vesmírný segment
    - Dedikované satelitní slice pro specifické služby
    - Cross-layer optimalizace pro NTN slice

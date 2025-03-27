@@ -1,12 +1,16 @@
 ---
-layout: post
-title: "LTE a LTE-Advanced technologie"
+categories:
+- LTE
+- LTE-Advanced
+- 4G
+- Mobilní sítě
 date: 2024-12-25
-categories: [LTE, LTE-Advanced, 4G, Mobilní sítě]
 hide: true
+layout: post
+title: LTE a LTE-Advanced technologie
 ---
 
-Zde je soupis klíčových technologií v LTE a LTE-Advanced s uvedením, ve kterém 3GPP Release byly představeny a případně rozšířeny. Soupis můžete použít pro vzdělání se ve fungování sítí LTE a LTE-Advanced. 
+Zde je soupis klíčových technologií v LTE a [LTE-Advanced](/mobilnisite/3gpp-release-10/) s uvedením, ve kterém 3GPP Release byly představeny a případně rozšířeny. Soupis můžete použít pro vzdělání se ve fungování sítí LTE a [LTE-Advanced](/mobilnisite/3gpp-release-10/). 
 
 
 1. [Orthogonal Frequency Division Multiple Access (OFDMA)](https://www.marigold.cz/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax)

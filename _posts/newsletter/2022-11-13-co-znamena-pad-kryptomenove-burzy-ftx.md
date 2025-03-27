@@ -74,7 +74,7 @@ Prvním bodem úvahy je fakt, že se Bankman-Fried s prosbou o pomoc obrátil na
 
 Druhým bodem je skutečnost, že finance mají skutečně financovat věci, jenže krypto nic skutečného nefinancuje. Kryptoměny jsou alternativní finanční vesmír, kde je mnohem méně pravidel a regulací, ale ve kterém se nic skutečného nefinancuje. Kdysi se tvrdilo, že ICO to změní a nabídne možnost využít krypto k investicím do skutečných startupů. Jenže nakonec byla většina z nich podvody nebo v lepším případě další finanční obchody s kryptoměnami. A tak krypto dosud nedostalo onen ekonomický fundament, základ potřebnosti. 
 
-Pokud se kryptoměny nezačnou používat pro financování reálné ekonomiky, zůstane kryptosvět jen variací na Ponziho schéma, na letadlo, v němž se všichni tváří, že hodnota krypta roste, dokud ten poslední nezjistí, že nemá v ruce nic. Je přeci jen podstatný ekonomický rozdíl mít v ruce akcie rostoucí firmy, která něco produkuje a mít token, jehož účelem je být použit jako zástava k obchodování s jinými tokeny. 
+Pokud se kryptoměny nezačnou používat pro financování reálné ekonomiky, zůstane kryptosvět jen variací na Ponziho schéma, na letadlo, v němž se všichni tváří, že hodnota krypta roste, dokud ten poslední nezjistí, že nemá v ruce nic. Je přeci jen podstatný ekonomický rozdíl mít v ruce akcie rostoucí firmy, která něco produkuje a mít [token](/ai/tokeny-versus-slova/), jehož účelem je být použit jako zástava k obchodování s jinými [tokeny](/ai/tokeny-versus-slova/). 
 
 Fakt, že SBF se svými mimořádně dobrými kontakty nedokázal najít nikoho mimo kryptosystém, kdo by byl ochoten o záchraně FTX byť jen uvažovat, naznačuje, že tomu tak je.
 

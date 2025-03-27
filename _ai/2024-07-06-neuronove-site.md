@@ -10,9 +10,9 @@ title: Neuronové sítě
 
 ## Základní struktura a fungování [neuronové sítě](/ai/neuronove-site/)
 
-[Neuronová síť](/ai/neuronove-site/) je inspirována biologickými nervovými systémy a skládá se z umělých neuronů, které jsou organizovány do vrstev. Základní jednotkou neuronové sítě je neuron, který přijímá vstupy, zpracovává je a produkuje výstup.
+[Neuronová síť](/ai/neuronove-site/) je inspirována biologickými nervovými systémy a skládá se z umělých neuronů, které jsou organizovány do vrstev. Základní jednotkou [neuronové sítě](/ai/neuronove-site/) je neuron, který přijímá vstupy, zpracovává je a produkuje výstup.
 
-Neuronová síť typicky obsahuje tři hlavní vrstvy:
+[Neuronová síť](/ai/neuronove-site/) typicky obsahuje tři hlavní vrstvy:
 
 - Vstupní vrstva: Přijímá vstupní data.
 - Skryté vrstvy: Jedna nebo více vrstev, které provádějí zpracování a výpočty.

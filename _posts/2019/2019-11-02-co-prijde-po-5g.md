@@ -36,7 +36,7 @@ Release 17 je plánována na začátek roku 2022. Má přinést hlavně změny v
 
 V rádiu ještě zmíním plány na použití spektra nad 52 GHz, zejména vizi použití bezlicenčního pásma 60 GHz. To přinese zajímavé nové možnosti a kapacity.
 
-Zvláště bych se zastavil u konceptu  **NR NTN**  neboli nového rádia neterestrické sítě. Myšlenka je, nahradit připojení základnových stanic nebo dokonce samotných mobilních terminálů už ve standardu satelitním či balonovým/dronovým připojením. Tedy signálem šířeným ze satelitů, balonů, dronů či jiných létajících zařízení. Zajímavá myšlenka, uvidíme, jak se chytne. Požadavky na ni byly zejména s ohledem na projekty Facebooku a Elona Muska.
+Zvláště bych se zastavil u konceptu  **NR [NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/)**  neboli nového rádia neterestrické sítě. Myšlenka je, nahradit připojení základnových stanic nebo dokonce samotných mobilních terminálů už ve standardu satelitním či balonovým/dronovým připojením. Tedy signálem šířeným ze satelitů, balonů, dronů či jiných létajících zařízení. Zajímavá myšlenka, uvidíme, jak se chytne. Požadavky na ni byly zejména s ohledem na projekty Facebooku a Elona Muska.
 
 ![Vlastnosti jednotlivých druhů Ne-pozemních sítí](/assets/nepozemni-site.png)
 
@@ -44,7 +44,7 @@ Vlastnosti jednotlivých druhů Ne-pozemních sítí
 
 Standardně by mělo být podporováno více SIM a měla by se zvýšit přesnost lokalizace polohy v síti. Už kvůli V2X je vhodné dostat se na decimetrové přesnosti a to včetně přesnosti odečtu výšky.
 
-Tyto funkce bude následně rozvíjet Release 18 – asi si všímáte, že lichá release je iniciální uvedení funkce, sudá pak její rozvoj do výrazně použitelnější podoby. A jelikož u funkcí jako NR NTN a V2X polohy půjde o delší technický boj, předpokládá se, že další rozvoj těchto funkcí bude probíhat až do Release 20. Do roku 2025 by sítě 5G měly tedy získat velmi komplexní pokrytí výše zmíněných funkcí.
+Tyto funkce bude následně rozvíjet Release 18 – asi si všímáte, že lichá release je iniciální uvedení funkce, sudá pak její rozvoj do výrazně použitelnější podoby. A jelikož u funkcí jako NR [NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) a V2X polohy půjde o delší technický boj, předpokládá se, že další rozvoj těchto funkcí bude probíhat až do Release 20. Do roku 2025 by sítě 5G měly tedy získat velmi komplexní pokrytí výše zmíněných funkcí.
 
 ### Release 21 aka 6G  
 

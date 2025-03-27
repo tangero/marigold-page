@@ -111,7 +111,7 @@ Jak se tato technologie liší od **Smart Array? SA** umožňuje dynamicky měni
 
 ### Energetická efektivita a úspora zdrojů
 
-Jedním z hlavních cílů při návrhu chytrých antén pro sítě 5G a 6G je zajištění energetické efektivity. To zahrnuje nejen snížení spotřeby energie samotných antén, ale také optimalizaci vysílacího výkonu tak, aby byl signál co nejlépe směrován na uživatele a minimalizovaly se ztráty. Technologie jako **Low-Power Wake-up Signál (LP-WUS)** a **Přijímač (LP-WUR)**, které byly zahrnuty v 3GPP Release 19, umožňují zařízení přejít do energeticky úsporného režimu a aktivovat se pouze v případě potřeby, což výrazně snižuje spotřebu energie.
+Jedním z hlavních cílů při návrhu chytrých antén pro sítě 5G a 6G je zajištění energetické efektivity. To zahrnuje nejen snížení spotřeby energie samotných antén, ale také optimalizaci vysílacího výkonu tak, aby byl signál co nejlépe směrován na uživatele a minimalizovaly se ztráty. Technologie jako **Low-Power Wake-up Signál (LP-WUS)** a **Přijímač (LP-WUR)**, které byly zahrnuty v [3GPP Release 19](/mobilnisite/3gpp-release-19/), umožňují zařízení přejít do energeticky úsporného režimu a aktivovat se pouze v případě potřeby, což výrazně snižuje spotřebu energie.
 
 **Green Communications** je další koncept, který se stále více uplatňuje při návrhu antén a infrastruktury pro sítě nové generace. Tento koncept se zaměřuje na minimalizaci energetické stopy sítí, což zahrnuje použití obnovitelných zdrojů energie, optimalizaci výkonu antén a využití inteligentních algoritmů pro správu energie. Společnost **Nokia** například vyvinula systém, který umožňuje dynamicky měnit výkon antén v závislosti na zatížení sítě a požadavcích uživatelů, čímž se dosahuje značných úspor energie.
 

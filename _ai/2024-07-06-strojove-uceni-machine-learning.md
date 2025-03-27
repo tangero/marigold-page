@@ -44,14 +44,14 @@ Představme si, že chceme vytvořit systém pro automatickou klasifikaci e-mail
 
 2. **Předzpracování**: Převedeme text e-mailů na číselné vektory. Například můžeme použít metodu "bag of words", kde každý e-mail je reprezentován vektorem četností slov.
 
-3. **Trénink modelu**: Použijeme algoritmus strojového učení, například logistickou regresi nebo rozhodovací strom, který se naučí rozlišovat mezi spamem a legitimními zprávami na základě těchto vektorů.
+3. **Trénink modelu**: Použijeme algoritmus [strojového učení](/ai/strojove-uceni-machine-learning/), například logistickou regresi nebo rozhodovací strom, který se naučí rozlišovat mezi spamem a legitimními zprávami na základě těchto vektorů.
 
 4. **Testování**: Ověříme přesnost modelu na nových, dříve neviděných e-mailech.
 
 5. **Nasazení**: Pokud je model dostatečně přesný, můžeme ho nasadit do produkčního prostředí pro automatickou klasifikaci nových e-mailů. A samozřejmě kontinuálně monitorujeme, které emaily lidé označují za spamy a kde jsou naopak naštvaní, že došlo k "false positive" - tedy legitimní email byl označený za spam. Inu, spam filtry jsou docela věda, nepočítejte s tím, že po přečtení tohoto článku si nějaký spam filtr hned naprogramujete. 
 
 
-## Klasické strojové učení vs. hluboké učení
+## Klasické [strojové učení](/ai/strojove-uceni-machine-learning/) vs. hluboké učení
 
 Jaký je rozdíl mezi klasickým a hlubokým učením? Hlavní rozdíl spočívá v komplexitě modelů a množství dat, které jsou schopny zpracovat. Zatímco klasické modely mohou být efektivní pro jednodušší úlohy s menším množstvím dat, hluboké učení je vhodné pro komplexní problémy vyžadující analýzu velkého množství dat.
 
@@ -79,7 +79,7 @@ Hluboké učení se uplatňuje v situacích, kde je potřeba zpracovat obrovské
 
 ### [Neuronové sítě](/ai/neuronove-site/) a strojové učení?
 
-Asi jste si v případě hlubokého učení povšimli zmínky o neuronových sítích. Jaký je tedy vztah mezi strojovým učením a neuronovými sítěmi? [Neuronové sítě](/ai/neuronove-site/) jsou klíčovou součástí strojového učení, zejména v oblasti hlubokého učení. Strojové učení je širší oblast umělé inteligence, která zahrnuje různé přístupy a techniky pro vytváření modelů, které se učí z dat. Neuronové sítě jsou jedním z mnoha typů modelů používaných ve strojovém učení. Pro jaké použití se neuronové sítě v ML hodí?
+Asi jste si v případě hlubokého učení povšimli zmínky o neuronových sítích. Jaký je tedy vztah mezi strojovým učením a neuronovými sítěmi? [Neuronové sítě](/ai/neuronove-site/) jsou klíčovou součástí strojového učení, zejména v oblasti hlubokého učení. Strojové učení je širší oblast umělé inteligence, která zahrnuje různé přístupy a techniky pro vytváření modelů, které se učí z dat. [Neuronové sítě](/ai/neuronove-site/) jsou jedním z mnoha typů modelů používaných ve strojovém učení. Pro jaké použití se [neuronové sítě](/ai/neuronove-site/) v ML hodí?
 
 - Zpracování přirozeného jazyka (NLP): Rekurentní neuronové sítě (RNN) a transformery
 - Počítačové vidění: Konvoluční neuronové sítě (CNN)

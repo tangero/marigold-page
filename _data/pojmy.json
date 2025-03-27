@@ -80,6 +80,65 @@
       "link": "/item/programovani-s-ai/"
     },
     {
+      "keyword": "Evolved Packet Core",
+      "variations": ["EPC"],
+      "link": "/mobilnisite/epc-evolved-packet-core-lte/"
+    },
+    {
+      "keyword": "NG-RAN",
+      "variations": ["cran", "vran", "Open RAN", "Open RAN"],
+      "link": "/mobilnisite/epc-evolved-packet-core-lte/"
+    },
+    {
+      "keyword": "Non Terrestrial Networks",
+      "variations": ["NTN", "Non-Terrestrial Networks", "nezemské sítě"],
+      "link": "/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/"
+    },
+    {
+      "keyword": "Integrated Access and Backhaul",
+      "variations": ["IAB"],
+      "link": "/item/integrated_access_and_backhaul_iab_5G/"
+    },
+    {
+      "keyword": "Network Slicing",
+      "link": "/mobilnisite/network-slicing-5g/"
+    },
+    {
+      "keyword": "UMTS Release 6",
+      "variations": ["3GPP Release 6"],
+      "link": "/item/umts-release-6/"
+    },
+    {
+      "keyword": "UMTS Release 7",
+      "variations": ["3GPP Release 7"],
+      "link": "/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7/"
+    },
+    {
+      "keyword": "UMTS Release 8",
+      "variations": ["3GPP Release 8"],
+      "link": "/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti/"
+    },
+    {
+      "keyword": "UMTS Release 10",
+      "variations": ["3GPP Release 10", "LTE Advanced", "LTE-Advanced"],
+      "link": "/mobilnisite/3gpp-release-10/"
+    },
+    {
+      "keyword": "UMTS Release 18",
+      "variations": ["3GPP Release 18", "5G Advanced", "5G-Advanced"],
+      "link": "/item/5G_advanced_3GPP_Release-18/"
+    },
+    {
+      "keyword": "UMTS Release 19",
+      "variations": ["3GPP Release 19"],
+      "link": "/mobilnisite/3gpp-release-19/"
+    },
+    {
+      "keyword": "RedCap",
+      "variations": ["eRedCap"],
+      "link": "/mobilnisite/redcap/"
+    },
+    {
       "keyword": "WiFi 7",
       "variations": ["Wi-Fi 7", "WiFi 7", "WiFi7", "IEEE 802.11be", "IEEE802.11be"],
       "link": "/item/wi-fi-7-802-11be/"

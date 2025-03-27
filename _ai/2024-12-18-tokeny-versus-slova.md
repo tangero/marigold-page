@@ -21,8 +21,8 @@ Běžná slova:
 
 
 Složená nebo delší slova:
-- "velrybolov" = pravděpodobně 2-3 tokeny ("vel" + "ryb" + "olov")
-- "internacionalizace" = může být rozděleno na několik tokenů
+- "velrybolov" = pravděpodobně 2-3 [tokeny](/ai/tokeny-versus-slova/) ("vel" + "ryb" + "olov")
+- "internacionalizace" = může být rozděleno na několik [tokenů](/ai/tokeny-versus-slova/)
 
 
 Speciální znaky:

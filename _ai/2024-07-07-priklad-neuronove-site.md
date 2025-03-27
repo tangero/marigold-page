@@ -55,7 +55,7 @@ Neuron 2 ve skryté vrstvě:
 
 **Váhy (weights)** jsou klíčovými parametry v neuronové síti, které určují sílu spojení mezi jednotlivými neurony. Váhy násobí vstupní signály před tím, než se tyto signály sečtou a přidá se k nim bias. Poté se výsledek přenese k aktivační funkci neuronu. Váhy určují, jak silně každý vstupní signál ovlivňuje výstup neuronu.
 
-***Kontrolní otázka***: kde se vzala tato čísla pro Váhy a Bias? Zvolili jsme je náhodně. V reálných aplikacích se váhy inicializují náhodně a pak se optimalizují během procesu tréninku [neuronové sítě](/ai/neuronove-site/), kdy bychom vzali v úvahu kýžený výsledek, tedy někdo by v rámci dat zaznačil, která matice je který znak. Neuronová síť by následně procesem učení byla schopna stanovit optimální Váhy a Bias tak, aby mohla být matice a tím i znak správně rozpoznán. 
+***Kontrolní otázka***: kde se vzala tato čísla pro Váhy a Bias? Zvolili jsme je náhodně. V reálných aplikacích se váhy inicializují náhodně a pak se optimalizují během procesu tréninku [neuronové sítě](/ai/neuronove-site/), kdy bychom vzali v úvahu kýžený výsledek, tedy někdo by v rámci dat zaznačil, která matice je který znak. [Neuronová síť](/ai/neuronove-site/) by následně procesem učení byla schopna stanovit optimální Váhy a Bias tak, aby mohla být matice a tím i znak správně rozpoznán. 
 
 Nyní si spočítejme aktivaci pro první neuron pro znak / - tedy výsledek, který dostaneme na *H1*. Jako aktivační funkci použijeme ReLU z toho důvodu, že se pro tento typ dat hodí, správný výběr aktivační funkce je nicméně důležitý a je součástí vašeho budoucího know-how, jak optimalizovat neuronovou síť... 
 
@@ -138,7 +138,7 @@ Pro znak “/” nám vyšly pravděpodobnosti: ```[0.574, 0.426]``` - tedy s pr
 Pro znak “\” si je můžete výsledky dopočítat sami. Kontrola by neměla být těžká :)
 
 
- Tak a už jsme doma. Neuronová síť usoudila s pravděpodobností 57,4 %, že znak "/" je znakem lomítka. Jak to, že to vyšlo, když jsem říkal, že záleží na hodnotách? Inu proto,že jsem váhy a bias vybral rozumně tak, aby to vyšlo a ne tak, aby hned první, co uvidíte, byla neuronka, která usoudila blbost, i když za to nemůže. Jak jsme si ale řekli, záleží zejména na váhách (A pak taky dobře zvolené aktivační funkci), že neuronka všechno správně rozpozná. A právě tohle je ten fine-tuning. Jen pro pořádek, znak zpětného lomítka jsme rozpoznali s pravděpodobností 59,9 % - taky to není špatné. 
+ Tak a už jsme doma. [Neuronová síť](/ai/neuronove-site/) usoudila s pravděpodobností 57,4 %, že znak "/" je znakem lomítka. Jak to, že to vyšlo, když jsem říkal, že záleží na hodnotách? Inu proto,že jsem váhy a bias vybral rozumně tak, aby to vyšlo a ne tak, aby hned první, co uvidíte, byla neuronka, která usoudila blbost, i když za to nemůže. Jak jsme si ale řekli, záleží zejména na váhách (A pak taky dobře zvolené aktivační funkci), že neuronka všechno správně rozpozná. A právě tohle je ten fine-tuning. Jen pro pořádek, znak zpětného lomítka jsme rozpoznali s pravděpodobností 59,9 % - taky to není špatné. 
  
  Výpočty ukazují, jak softmax funkce převádí surové skóre na pravděpodobnosti, které umožňují interpretovat výstupy neuronové sítě jako pravděpodobnosti pro různé třídy. Bez tréninku mohou být tyto hodnoty náhodné, protože váhy a biasy nejsou optimalizovány.
 

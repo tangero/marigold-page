@@ -46,7 +46,7 @@ Přesto si dáme jedno upozornění na začátek, trochu jsem se s tím sám tr�
 
 ### Programovací jazyky
 
-Claude Code má silnou podporu pro většinu populárních jazyků včetně:
+[Claude Code](/ai/claude-code/) má silnou podporu pro většinu populárních jazyků včetně:
 - **JavaScript/TypeScript** - kompletní podpora včetně moderních frameworků
 - **Python** - plná podpora pro Python 3.x a běžné knihovny
 - **Java/Kotlin** - dobré porozumění objektovému kódu a Android vývoji
@@ -60,7 +60,7 @@ Claude Code má silnou podporu pro většinu populárních jazyků včetně:
 
 ### Typy projektů
 
-Claude Code je efektivní napříč různými typy projektů:
+[Claude Code](/ai/claude-code/) je efektivní napříč různými typy projektů:
 
 - **Backend aplikace** - API, mikroslužby, serverové aplikace
 - **Frontend vývoj** - React, Vue, Angular a další JS frameworky

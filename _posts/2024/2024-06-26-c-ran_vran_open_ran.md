@@ -54,14 +54,14 @@ Na této změně je podstatné si uvědomit několik změn:
 3.  Zjednodušuje to správu a zvyšuje možnost loadbalancingu a reakce na nestandardní zatížení sítě, které se stává stále standardnějším (=nejistota je nová jistota)
 4.  Zrychluje to datové služby snížením zpoždění a zvýšením kapacity, propustnosti.
 5.  Zvyšuje to potřebu propojovat základnové stanice optickým vláknem s jádrem sítě (což byl dodneška hlavní problém)
-6.  Klade to nároky na standardizaci interface mezi RRH a BBU a EPC, což se snaží řešít interface OBSAI a ORI a dále dnes používané CPRI.
+6.  Klade to nároky na standardizaci interface mezi RRH a BBU a [EPC](/mobilnisite/epc-evolved-packet-core-lte/), což se snaží řešít interface OBSAI a ORI a dále dnes používané CPRI.
     
 
 Předpokladem je, že C-RAN bude v prvé fázi nasazován v lokacích, kde jsou vysoké nároky na přenosové rychlosti a pokrytí, tedy zejména pro metropolitní oblasti. Teoreticky by bylo možné pro C-RAN transparentně použít i jiné přístupové technologie, než LTE frekvence, třeba WiFi, návrhy toto zatím nijak neupravují a obnášelo by to podporu na mobilním zařízení. C-RAN je vhodný jak pro makro-buňky, tak pro malé buňky včetně těch uvnitř budov.
 
 Očekává se, že v první fázi nebude plošně nasazován C-RAN, ale že jedna BBU bude schopna obsluhovat více okolních RRH připojených optickým kabelem. Již dnes BBU podporují šest RRH, ovšem na jedné základně, do budoucna by měly být schopny obsluhovat i více RRH v rozdílných základnových stanicích.
 
-## V-RAN a Open RAN
+## V-RAN a [Open RAN](/mobilnisite/epc-evolved-packet-core-lte/)
 
 Vývoj architektury rádiové přístupové sítě ale šel rychle dále. Dalším posunem měla být širší propojitelnost. Tu výrazně posunul přechod Baseband Unit (BBU) z propriteráního hardware na běžné servery, které se nazývají COTS (zkratka pro Komerční produkty). Tím se zlevňuje výstavba sítě, protože lze použít jakýkoliv COTS, který provozovatel sítě uváží. Lze lépe škálovat, provoz sítě může být flexibilnější.  Software, který běží na BBU, je virtualizován tak, aby mohl běžet na jakémkoli serveru COTS. Proprietární rozhraní mezi rádii a jednotkou BBU založenou na COTS však zůstávají zachována. Ačkoli jsou tedy funkce RAN virtualizovány na serveru COTS (odtud též označení vRAN), rozhraní mezi BBU a RRU/RRH není otevřené, takže software jakéhokoli dodavatele nemůže s RRU/RRH pracovat, pokud se rozhraní nestanou otevřenými. V případě vRAN je tedy nutné použít stejného dodavatele pro rádio i pro software běžícího na COTS BBU. Provozovatel nemůže na stejnou COTS BBU umístit software jiného dodavatele, pokud rozhraní k rádiu není otevřené. VRAN tedy stále umožňuje vendor lock-in. Což je přesně to, co má postihnout další vývojový krok nazvaný Open RAN, tedy otevřená rádiová přístupová síť.
 

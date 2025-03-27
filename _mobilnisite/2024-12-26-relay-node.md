@@ -1,9 +1,12 @@
 ---
+categories:
+- 5G
+- Mobilní sítě
+- LTE
+date: 2024-12-25
+hide: true
 layout: post
 title: Relay Nodes -  přenosové uzly v mobilních sítích
-date: 2024-12-25
-categories: [5G, Mobilní sítě, LTE]
-hide: true
 ---
 
 Relay Node (RN) je zajímavá technologie, která vychází z původního poněkud nelegálního konceptu zesilovačů z GSM sítí. V devadesátých letech kvůli špatnému pokrytí GSM signálem při startu GSM sítí existovaly tzv. zesilovače, které zachytávaly, zesilovaly a znovu vysílali signál GSM sítí, aniž by do signálu jako takového jinak vstupovaly. S pokročilejšími technologiemi tento koncept získal trhliny, protože šlo potenciálně o klasický Man-in-the-middle útok. Do cesty mezi legitimního uživatele a legitimní základnovou stanici se dostal třetí prvek nekontrolovaný žádnou ze stran, který by mohl libovolně s daty manipulovat. 
@@ -34,9 +37,9 @@ graph TB
 
 ## Historický vývoj v jednotlivých vydáních
 
-### Release 10 (LTE-Advanced)
+### Release 10 ([LTE-Advanced](/mobilnisite/3gpp-release-10/))
 
-V Release 10 byl koncept Relay Nodes poprvé standardizován jako součást LTE-Advanced. Základní implementace představila dva typy Relay Nodes:
+V Release 10 byl koncept Relay Nodes poprvé standardizován jako součást [LTE-Advanced](/mobilnisite/3gpp-release-10/). Základní implementace představila dva typy Relay Nodes:
 
 1. Type 1 RN: Plně funkční základnová stanice s vlastním cell ID, která vysílá vlastní synchronizační signály a referenční symboly. Podporuje samostatné plánování a řízení rádiových zdrojů.
 
@@ -130,7 +133,7 @@ Z technického hlediska standard definuje dva typy rádiových rozhraní - Un ro
 
 Klíčovou součástí implementace je efektivní plánování rádiových zdrojů a řízení interferencí. To zahrnuje dynamickou alokaci zdrojů, koordinaci interferencí mezi RN a eNB, TDM multiplexování Un a Uu rozhraní a adaptivní řízení výkonu. Pro přesné modelování šíření signálu se využívají různé modely podle typu prostředí, zahrnující jak large scale fading (path loss modely pro LOS/NLOS, shadow fading), tak small scale fading (delay spread, angle spread, cross-polarization discrimination).
 
-S příchodem 5G sítí se očekává další evoluce této technologie, především v oblasti integrace s Network Slicing, pokročilejšího řízení interferencí, vyšší flexibility backhaulu a optimalizace pro specifické případy použití. Relay Node technologie tak zůstává významným nástrojem pro zlepšování pokrytí a kapacity mobilních sítí v různorodých scénářích nasazení.
+S příchodem 5G sítí se očekává další evoluce této technologie, především v oblasti integrace s [Network Slicing](/mobilnisite/network-slicing-5g/), pokročilejšího řízení interferencí, vyšší flexibility backhaulu a optimalizace pro specifické případy použití. Relay Node technologie tak zůstává významným nástrojem pro zlepšování pokrytí a kapacity mobilních sítí v různorodých scénářích nasazení.
 
 Tento technologický přístup představuje elegantní řešení pro rozšíření pokrytí a zvýšení kapacity mobilních sítí, přičemž nabízí flexibilitu pro různé scénáře nasazení. Díky své standardizaci v rámci LTE-Advanced a dalšímu vývoji v kontextu 5G sítí zůstává Relay Node technologie důležitým prvkem v evolučním řetězci mobilních komunikací.
 
@@ -160,7 +163,7 @@ Správa spojení mezi RN a Donor eNB vyžaduje:
 
 S příchodem 5G sítí se role Relay Nodes dále rozšiřuje. Nové standardy přinášejí:
 - Podporu pro mmWave frekvence
-- Vylepšenou integraci s Network Slicing
+- Vylepšenou integraci s [Network Slicing](/mobilnisite/network-slicing-5g/)
 - Pokročilé možnosti pro Mobile Edge Computing
 
 Relay Node technologie se stala zajímavou součástí moderních mobilních sítí. Její evoluce od základního konceptu v LTE-Advanced až po současné pokročilé implementace v 5G sítích demonstruje důležitost této technologie pro budoucnost mobilních komunikací. Díky své schopnosti zlepšit pokrytí, zvýšit kapacitu a optimalizovat využití síťových zdrojů může  RN představovat důležitou technologii pro další rozvoj mobilních sítí.

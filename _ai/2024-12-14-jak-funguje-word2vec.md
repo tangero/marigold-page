@@ -103,7 +103,7 @@ Vysvětlím proces učení ve [Word2vec](/ai/word2vec/) modelu.
 
 ## Proces učení ve [Word2vec](/ai/word2vec/)
 
-Učení je klíčovým procesem, při kterém se Word2vec model zdokonaluje ve svých predikcích. Pojďme si podrobně vysvětlit, jak tento proces funguje. Učení ve Word2vec je založeno na principu minimalizace chyby mezi tím, co model předpověděl, a tím, co skutečně pozorujeme v textu. Proces probíhá v několika krocích:
+Učení je klíčovým procesem, při kterém se [Word2vec](/ai/word2vec/) model zdokonaluje ve svých predikcích. Pojďme si podrobně vysvětlit, jak tento proces funguje. Učení ve [Word2vec](/ai/word2vec/) je založeno na principu minimalizace chyby mezi tím, co model předpověděl, a tím, co skutečně pozorujeme v textu. Proces probíhá v několika krocích:
 
 #### 1. Výpočet chyby
 

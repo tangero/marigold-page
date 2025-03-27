@@ -1,11 +1,15 @@
 ---
+categories:
+- 2G
+- 3G
+- 4G
+- 5G
+- Mobilní sítě
+date: 2024-12-16
+hide: true
 layout: post
 title: Signalizace v Mobilních Sítích -  Od 2G po 5G
-date: 2024-12-16
-categories: [2G, 3G, 4G, 5G, Mobilní sítě]
-hide: true
 ---
-
 
 Evoluce signalizačních protokolů v mobilních sítích představuje součást důležité proměny telekomunikační infrastruktury, která postupovala od základních hlasových a textových služeb až po komplexní vysokorychlostní datovou komunikaci. Přesto je to opomíjená oblast na okraji zájmu lidí, kteří se o mobilní sítě zajímají. Jak by ne - přenosy stavových a signalizačních zpráv jsou vlastně málo zajimavé. Bez nich by ale mobilní sítě nefungovaly. Tento článek je tedy určitá splátka dluhu, kdy se alespoň symbolicky a namátkově dotkneme architektonických přechodů a vývoj protokolů napříč několika generacemi mobilních sítí.
 
@@ -24,7 +28,7 @@ S příchodem čtvrté generace mobilních sítí došlo k zásadnímu paradigma
 
 Revolučním krokem v evoluci signalizačních protokolů byl příchod 5G sítí, které implementují zcela novou Service-Based Architecture (SBA). Tato architektura adoptuje HTTP/2 jako primární aplikační protokol pro komunikaci v řídicí rovině, což představuje radikální odklon od předchozích přístupů. V rámci SBA jsou síťové funkce implementovány jako mikroslužby komunikující prostřednictvím RESTful API, což přináší bezprecedentní flexibilitu a škálovatelnost systému.
 
-Významným milníkem v vývoji 5G signalizace bylo vydání Release 16, které představilo Service Communication Proxy (SCP). Tento prvek umožňuje efektivní správu a prioritizaci masivního množství signalizačních požadavků v reálném čase. SCP se stal centrálním bodem pro mediaci veškeré signalizační komunikace v jádru sítě, což je klíčové pro podporu pokročilých funkcí jako network slicing, instantiace mikroslužeb a přístup k edge computing resources.
+Významným milníkem v vývoji 5G signalizace bylo vydání Release 16, které představilo Service Communication Proxy (SCP). Tento prvek umožňuje efektivní správu a prioritizaci masivního množství signalizačních požadavků v reálném čase. SCP se stal centrálním bodem pro mediaci veškeré signalizační komunikace v jádru sítě, což je klíčové pro podporu pokročilých funkcí jako [network slicing](/mobilnisite/network-slicing-5g/), instantiace mikroslužeb a přístup k edge computing resources.
 
 V oblasti bezpečnosti přinesly 5G sítě významné vylepšení v podobě Security Edge Protection Proxy (SEPP), který zajišťuje bezpečnou signalizační komunikaci mezi různými PLMN sítěmi během roamingu. SEPP implementuje pokročilé šifrovací mechanismy na aplikační vrstvě prostřednictvím HTTP/2, což efektivně eliminuje známé zranitelnosti starších protokolů SS7 a Diameter.
 

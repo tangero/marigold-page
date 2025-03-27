@@ -56,7 +56,7 @@ Update 12/2024: vývoj pokročil, aktualizované informace [k provozu LTE/5G v n
 
 <p>Americký regulátor FCC povolil koncem ledna Qualcommu ve spolupráci s Verizonem provést reálné testy LTE-U ve dvou městech, podle toho bude vyhodnocen dopad na rušení WiFi.</p>
 
-<p><img title="extending-the-benefits-of-lte-advanced-to-unlicensed-spectrum-8-638.jpg" src="/assets/extending-the-benefits-of-lte-advanced-to-unlicensed-spectrum-8-638.jpg" alt="Extending the benefits of lte advanced to unlicensed spectrum 8 638" width="500" height="281" border="0" /></p>
+<p><img title="extending-the-benefits-of-[lte-advanced](/mobilnisite/3gpp-release-10/)-to-unlicensed-spectrum-8-638.jpg" src="/assets/extending-the-benefits-of-[lte-advanced](/mobilnisite/3gpp-release-10/)-to-unlicensed-spectrum-8-638.jpg" alt="Extending the benefits of lte advanced to unlicensed spectrum 8 638" width="500" height="281" border="0" /></p>
 
 <h3>Problém 2: cena</h3>
 <p>LTE je rozhodně dražší technologie, než WiFi a celá řada nákladů jde za patenty, část za náročnějším křemíkem a nutností napájení na pohon křemíku. Vyšších nákladů se oprávněně bojí všichni, kdo jsou na straně WiFi a připomínají, že patenty se vyrovnávají zvláště. Qualcomm s Ericssonem uklidňují, že náklady na patenty jsou zahrnuté v cenách jimi dodávaných čipových sad, což ale překvapivě neuklidnilo každého. Cena mobilů, kde bude i LTE-U se prakticky nezvýší, problém bude ale u zařízení, které se dříve spoléhaly jen na WiFi a nově by do nich přibylo i LTE-U - tam bude cena vyšší. O kolik? Nu, odhadem tak dvacet dolarů na zařízení ze začátku.</p>

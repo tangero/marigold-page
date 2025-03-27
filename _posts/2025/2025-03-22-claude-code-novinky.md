@@ -97,13 +97,13 @@ To je zvláště užitečné pro opakující se úlohy, kde Claude postupuje spr
 
 ## 6. Automatické doplňování cest k souborům
 
-Stiskněte Tab při psaní a Claude Code navrhne soubory/cesty k souborům odpovídající vašemu vstupu.
+Stiskněte Tab při psaní a [Claude Code](/ai/claude-code/) navrhne soubory/cesty k souborům odpovídající vašemu vstupu.
 
 Jde o významné vylepšení kvality života při hledání souborů, které chcete explicitně odkazovat.
 
 ## 7. Auto-compact pro správu kontextu
 
-Claude Code automaticky kompaktuje historii konverzace při zachování důležitých informací, takže můžete pracovat na složitějších problémech bez obav o limity kontextu.
+[Claude Code](/ai/claude-code/) automaticky kompaktuje historii konverzace při zachování důležitých informací, takže můžete pracovat na složitějších problémech bez obav o limity kontextu.
 
 ## 8. Web fetch
 

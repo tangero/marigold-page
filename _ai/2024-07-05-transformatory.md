@@ -17,13 +17,13 @@ LLM typicky používají tzv. *multi-head attention*, kde se několik mechanism�
 
 Další klíčovou součástí architektury jsou feed-forward [neuronové sítě](/ai/neuronove-site/). Ty se aplikují na výstup z attention vrstev a umožňují modelu provádět nelineární transformace reprezentací. Typicky se skládají ze dvou lineárních transformací s aktivační funkcí ReLU mezi nimi.
 
-Moderní LLM jako GPT (Generative Pre-trained Transformer) používají pouze dekodérovou část původní architektury [transformátorů](/ai/transformatory/). To znamená, že model generuje text autoregresivně, tedy [token](/ai/tokeny-versus-slova/) po tokenu, přičemž každý nový [token](/ai/tokeny-versus-slova/) je generován na základě všech předchozích tokenů.
+Moderní LLM jako GPT (Generative Pre-trained Transformer) používají pouze dekodérovou část původní architektury [transformátorů](/ai/transformatory/). To znamená, že model generuje text autoregresivně, tedy [token](/ai/tokeny-versus-slova/) po tokenu, přičemž každý nový [token](/ai/tokeny-versus-slova/) je generován na základě všech předchozích [tokenů](/ai/tokeny-versus-slova/).
 
 Důležitou součástí architektury jsou také reziduální spojení a normalizační vrstvy. Reziduální spojení umožňují efektivní trénink velmi hlubokých sítí tím, že poskytují přímou cestu pro zpětnou propagaci gradientů. Normalizační vrstvy pak stabilizují aktivace v síti, což opět usnadňuje trénink.
 
 ## Trénink LLM
 
-Trénink LLM probíhá na masivních datových sadách, často obsahujících stovky miliard tokenů. Cílem tréninku je minimalizovat tzv. cross-entropy loss, což v praxi znamená maximalizovat pravděpodobnost, že model správně předpoví další token v sekvenci.
+Trénink LLM probíhá na masivních datových sadách, často obsahujících stovky miliard [tokenů](/ai/tokeny-versus-slova/). Cílem tréninku je minimalizovat tzv. cross-entropy loss, což v praxi znamená maximalizovat pravděpodobnost, že model správně předpoví další token v sekvenci.
 
 Klíčovou inovací v tréninku LLM je použití tzv. kauzální masek v mechanismu pozornosti. Tyto masky zajišťují, že model při predikci dalšího tokenu může přistupovat pouze k předchozím tokenům, nikoli k budoucím. To umožňuje efektivní paralelní trénink, zatímco se zachovává autoregresivní povaha modelu.
 
