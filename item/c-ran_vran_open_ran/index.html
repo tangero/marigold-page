@@ -306,14 +306,14 @@
   <li>Zjednodušuje to správu a zvyšuje možnost loadbalancingu a reakce na nestandardní zatížení sítě, které se stává stále standardnějším (=nejistota je nová jistota)</li>
   <li>Zrychluje to datové služby snížením zpoždění a zvýšením kapacity, propustnosti.</li>
   <li>Zvyšuje to potřebu propojovat základnové stanice optickým vláknem s jádrem sítě (což byl dodneška hlavní problém)</li>
-  <li>Klade to nároky na standardizaci interface mezi RRH a BBU a EPC, což se snaží řešít interface OBSAI a ORI a dále dnes používané CPRI.</li>
+  <li>Klade to nároky na standardizaci interface mezi RRH a BBU a <a href="/mobilnisite/epc-evolved-packet-core-lte/">EPC</a>, což se snaží řešít interface OBSAI a ORI a dále dnes používané CPRI.</li>
 </ol>
 
 <p>Předpokladem je, že C-RAN bude v prvé fázi nasazován v lokacích, kde jsou vysoké nároky na přenosové rychlosti a pokrytí, tedy zejména pro metropolitní oblasti. Teoreticky by bylo možné pro C-RAN transparentně použít i jiné přístupové technologie, než LTE frekvence, třeba WiFi, návrhy toto zatím nijak neupravují a obnášelo by to podporu na mobilním zařízení. C-RAN je vhodný jak pro makro-buňky, tak pro malé buňky včetně těch uvnitř budov.</p>
 
 <p>Očekává se, že v první fázi nebude plošně nasazován C-RAN, ale že jedna BBU bude schopna obsluhovat více okolních RRH připojených optickým kabelem. Již dnes BBU podporují šest RRH, ovšem na jedné základně, do budoucna by měly být schopny obsluhovat i více RRH v rozdílných základnových stanicích.</p>
 
-<h2 id="v-ran-a-open-ran">V-RAN a Open RAN</h2>
+<h2 id="v-ran-a-open-ran">V-RAN a <a href="/mobilnisite/epc-evolved-packet-core-lte/">Open RAN</a></h2>
 
 <p>Vývoj architektury rádiové přístupové sítě ale šel rychle dále. Dalším posunem měla být širší propojitelnost. Tu výrazně posunul přechod Baseband Unit (BBU) z propriteráního hardware na běžné servery, které se nazývají COTS (zkratka pro Komerční produkty). Tím se zlevňuje výstavba sítě, protože lze použít jakýkoliv COTS, který provozovatel sítě uváží. Lze lépe škálovat, provoz sítě může být flexibilnější.  Software, který běží na BBU, je virtualizován tak, aby mohl běžet na jakémkoli serveru COTS. Proprietární rozhraní mezi rádii a jednotkou BBU založenou na COTS však zůstávají zachována. Ačkoli jsou tedy funkce RAN virtualizovány na serveru COTS (odtud též označení vRAN), rozhraní mezi BBU a RRU/RRH není otevřené, takže software jakéhokoli dodavatele nemůže s RRU/RRH pracovat, pokud se rozhraní nestanou otevřenými. V případě vRAN je tedy nutné použít stejného dodavatele pro rádio i pro software běžícího na COTS BBU. Provozovatel nemůže na stejnou COTS BBU umístit software jiného dodavatele, pokud rozhraní k rádiu není otevřené. VRAN tedy stále umožňuje vendor lock-in. Což je přesně to, co má postihnout další vývojový krok nazvaný Open RAN, tedy otevřená rádiová přístupová síť.</p>
 
@@ -411,10 +411,10 @@
           
             <tr>
               <td>
-                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
+                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
                 <p class="excerpt">
                   
-                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
+                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  audioverzi tohoto článku  ve ...
                   
                 </p>
               </td>
@@ -422,10 +422,10 @@
           
             <tr>
               <td>
-                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
                 <p class="excerpt">
                   
-                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
                   
                 </p>
               </td>

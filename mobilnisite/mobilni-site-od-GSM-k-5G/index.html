@@ -176,7 +176,7 @@ prosinec
 
 <p>Je také zřejmé, že pro komunikaci s BTS či NodeB se používají rozdílně značené protokoly zajišťující v případě NodeB zpětnou kompatibilitu, schopnost obsloužit uživatele starší technologie. Aby toto bylo v nákresech zřejmé, používají se i k popisu vlastně “stejné funkce” vykonávajících protokolů jiná označení. Do takového detailu ale nepůjdeme tam, kde to není pro pochopení fungování sítě nutné.</p>
 
-<p>Projekt 3GPP (3rd Generation Partnership Project) se zásadním způsobem podílel na utváření prostředí mobilních telekomunikací. Od svého založení v roce 1998 3GPP neustále vyvíjí své standardy, aby vyhověl stále rostoucím požadavkům na vyšší přenosové rychlosti, nižší latenci a vyšší kapacitu. Tento článek se zabývá technologickou proměnou síťové architektury 3GPP od verze 98 přes zavedení 3G, 4G (LTE) a 5G až po nejnovější 5G Advanced ve verzi 18. Zaměříme se na architektonické změny, nové síťové prvky, protokoly a zdůvodnění těchto konstrukčních rozhodnutí.</p>
+<p>Projekt 3GPP (3rd Generation Partnership Project) se zásadním způsobem podílel na utváření prostředí mobilních telekomunikací. Od svého založení v roce 1998 3GPP neustále vyvíjí své standardy, aby vyhověl stále rostoucím požadavkům na vyšší přenosové rychlosti, nižší latenci a vyšší kapacitu. Tento článek se zabývá technologickou proměnou síťové architektury 3GPP od verze 98 přes zavedení 3G, 4G (LTE) a 5G až po nejnovější <a href="/item/5G_advanced_3GPP_Release-18/">5G Advanced</a> ve verzi 18. Zaměříme se na architektonické změny, nové síťové prvky, protokoly a zdůvodnění těchto konstrukčních rozhodnutí.</p>
 
 <p><strong>Přeskočit přehled obsahu rovnou na <a href="#3gpp-release-99-úsvit-3g">první Release 99 👇</a></strong></p>
 
@@ -289,7 +289,7 @@ prosinec
     <tr>
       <td style="text-align: left">Vydání 19</td>
       <td style="text-align: left">4. čtvrtletí 2025</td>
-      <td style="text-align: left">5G-Advanced</td>
+      <td style="text-align: left"><a href="/item/5G_advanced_3GPP_Release-18/">5G-Advanced</a></td>
     </tr>
   </tbody>
 </table>
@@ -300,7 +300,7 @@ prosinec
 
 <h2 id="vývoj-nepozemských-sítí-v-rámci-3gpp"><strong>Vývoj nepozemských sítí v rámci 3GPP</strong></h2>
 
-<p>Dalším důležitým aspektem standardizace 3GPP je integrace nepozemních sítí (NTN). NTN, jako jsou satelitní sítě, hrají klíčovou roli při rozšiřování mobilního pokrytí do vzdálených a nedostatečně obsluhovaných oblastí. 3GPP aktivně pracuje na začlenění NTN do svých norem a věnuje tomuto úsilí různé studie a pracovní body. <br />
+<p>Dalším důležitým aspektem standardizace 3GPP je integrace nepozemních sítí (<a href="/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/">NTN</a>). <a href="/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/">NTN</a>, jako jsou satelitní sítě, hrají klíčovou roli při rozšiřování mobilního pokrytí do vzdálených a nedostatečně obsluhovaných oblastí. 3GPP aktivně pracuje na začlenění NTN do svých norem a věnuje tomuto úsilí různé studie a pracovní body. <br />
 <a href="/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/">Nepozemské sítě NTN podrobněji rozebíráme zde</a>.</p>
 
 <table>
@@ -369,7 +369,7 @@ prosinec
 
 <p>Po vydání verze 99 pokračoval vývoj UMTS v dalších verzích. Verze 5 a 6 zavedly vysokorychlostní paketový přístup (HSPA), který výrazně zvýšil rychlost přenosu dat. Verze 7 dále vylepšila HSPA zavedením technologie HSPA+ (Evolved HSPA)6. Tyto pokroky v technologii 3G připravily půdu pro vývoj 4G LTE.</p>
 
-<h2 id="verze-3gpp-release-8-vzestup-lte"><strong>Verze 3GPP Release 8: Vzestup LTE</strong></h2>
+<h2 id="verze-3gpp-release-8-vzestup-lte"><strong>Verze <a href="/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti/">3GPP Release 8</a>: Vzestup LTE</strong></h2>
 
 <p>Verze <a href="/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti">3GPP Release 8</a> zahájila éru 4G zavedením technologie Long Term Evolution (LTE). Cílem LTE bylo výrazně zvýšit kapacitu a rychlost sítě využitím nových technik digitálního zpracování signálu a modulací. Toto vydání přineslo zásadní změnu v architektuře sítě, která se posunula směrem ke zjednodušenému, plně IP systému se sníženou latencí.</p>
 
@@ -380,7 +380,7 @@ prosinec
   <li>všechny eNodeB mezi sebou mohou komunikovat pomocí standardního rozhraní X2, což je mimo jiné důsledek odstranění RNC, ale také možnost používat v síti základnové stanice různých výrobců. Dříve bylo potřeba je důsledně geograficky oddělovat, protože uměly komunikovat jen přes RNC stejného výrobce.</li>
   <li>byly odstraněny všechny okruhově spínané služby, veškerý provoz je pouze packetový</li>
   <li>všechny kanály se mohou využívat pro přenos dat, nejsou vyhrazeny řídící kanály.</li>
-  <li>díky tomu bylo zpřehledněno dosavadní Jádro sítě do podoby Evolved Packet Core (EPC), které může používat komerčně dostupné servery, ne specializovaný hardware.</li>
+  <li>díky tomu bylo zpřehledněno dosavadní Jádro sítě do podoby <a href="/mobilnisite/epc-evolved-packet-core-lte/">Evolved Packet Core</a> (<a href="/mobilnisite/epc-evolved-packet-core-lte/">EPC</a>), které může používat komerčně dostupné servery, ne specializovaný hardware.</li>
 </ul>
 
 <h3 id="zploštění-síťové-architektury"><strong>Zploštění síťové architektury</strong></h3>
@@ -397,9 +397,9 @@ prosinec
 
 <p>Ačkoli pro LTE byly zvoleny <a href="/item/modulacni-technologie-pro-uplink-siti-4g-lte-a-wimax">OFDMA a SC-FDMA</a>, zvažovala se i jiná schémata vícenásobného přístupu. Hodnotila se například vícenásobný přístup s časovým dělením (TDMA) a vícenásobný přístup s kódovým dělením (CDMA). Nakonec však byly vybrány OFDMA a SC-FDMA kvůli jejich lepšímu výkonu z hlediska spektrální účinnosti a odolnosti vůči rušení.</p>
 
-<h2 id="3gpp-verze-10-lte-advanced"><strong>3GPP verze 10: LTE-Advanced</strong></h2>
+<h2 id="3gpp-verze-10-lte-advanced"><strong>3GPP verze 10: <a href="/mobilnisite/3gpp-release-10/">LTE-Advanced</a></strong></h2>
 
-<p><a href="/mobilnisite/3gpp-release-10">Release 10</a> dále vylepšilo standard LTE zavedením LTE-Advanced. Cílem tohoto vydání bylo splnit požadavky na mezinárodní mobilní telekomunikace-Advanced (IMT-Advanced), které stanovily vyšší rychlost přenosu dat a vyšší spektrální účinnost10. Koncem roku 2009 byla oficiálně předložena ITU-T jako kandidátská technologie 4G.</p>
+<p><a href="/mobilnisite/3gpp-release-10">Release 10</a> dále vylepšilo standard LTE zavedením <a href="/mobilnisite/3gpp-release-10/">LTE-Advanced</a>. Cílem tohoto vydání bylo splnit požadavky na mezinárodní mobilní telekomunikace-Advanced (IMT-Advanced), které stanovily vyšší rychlost přenosu dat a vyšší spektrální účinnost10. Koncem roku 2009 byla oficiálně předložena ITU-T jako kandidátská technologie 4G.</p>
 
 <h3 id="agregace-nosných-sítí"><strong>Agregace nosných sítí</strong></h3>
 
@@ -458,7 +458,7 @@ prosinec
 
 <h3 id="jádro-sítě-5g"><strong>Jádro sítě 5G</strong></h3>
 
-<p>Jednou z klíčových architektonických změn ve verzi 15 bylo zavedení sítě <a href="/item/5G_Core/">5G Core (5GC)</a>. 5GC je cloudová architektura založená na službách, která ve srovnání s předchozí jádrovou sítí EPC poskytuje větší flexibilitu a škálovatelnost. 5GC podporuje network slicing, který umožňuje operátorům vytvářet na sdílené fyzické infrastruktuře více virtuálních sítí pro uspokojení různých požadavků na služby.</p>
+<p>Jednou z klíčových architektonických změn ve verzi 15 bylo zavedení sítě <a href="/item/5G_Core/">5G Core (5GC)</a>. 5GC je cloudová architektura založená na službách, která ve srovnání s předchozí jádrovou sítí EPC poskytuje větší flexibilitu a škálovatelnost. 5GC podporuje <a href="/mobilnisite/network-slicing-5g/">network slicing</a>, který umožňuje operátorům vytvářet na sdílené fyzické infrastruktuře více virtuálních sítí pro uspokojení různých požadavků na služby.</p>
 
 <p>Tento přechod na 5GC představuje přechod od hardwarově orientované k softwarově orientované síťové architektuře. Tento softwarově orientovaný přístup umožňuje větší flexibilitu, škálovatelnost a automatizaci, které jsou klíčové pro podporu různorodých požadavků služeb 5G.</p>
 
@@ -499,7 +499,7 @@ prosinec
 
 <h3 id="alternativní-přístupy-3"><strong>Alternativní přístupy</strong></h3>
 
-<p>Přestože byla pro 5G zvolena architektura 5GC, byly zvažovány i jiné architektury páteřní sítě. Hodnotila se například evoluce stávajícího jádra sítě EPC. Nicméně 5GC byla upřednostněna díky svému cloudově nativnímu designu, architektuře založené na službách a podpoře network slicing, které poskytují větší flexibilitu a škálovatelnost pro služby 5G.</p>
+<p>Přestože byla pro 5G zvolena architektura 5GC, byly zvažovány i jiné architektury páteřní sítě. Hodnotila se například evoluce stávajícího jádra sítě EPC. Nicméně 5GC byla upřednostněna díky svému cloudově nativnímu designu, architektuře založené na službách a podpoře <a href="/mobilnisite/network-slicing-5g/">network slicing</a>, které poskytují větší flexibilitu a škálovatelnost pro služby 5G.</p>
 
 <h2 id="3gpp-release-18-5g-advanced"><strong>3GPP Release 18: 5G Advanced</strong></h2>
 
@@ -510,7 +510,7 @@ prosinec
 <p>Cílem 5G Advanced je:</p>
 
 <ul>
-  <li><strong>umožnit efektivnější zařízení a služby internetu věcí:</strong> To zahrnuje podporu zařízení s rozšířenou sníženou kapacitou (RedCap) a přenos malých dat.</li>
+  <li><strong>umožnit efektivnější zařízení a služby internetu věcí:</strong> To zahrnuje podporu zařízení s rozšířenou sníženou kapacitou (<a href="/mobilnisite/redcap/">RedCap</a>) a přenos malých dat.</li>
   <li><strong>Rozšířit 5G prakticky na všechna zařízení a případy použití:</strong> To zahrnuje vylepšení stávajících technologií a zavedení nových technologií pro podporu širšího spektra aplikací a zařízení.</li>
 </ul>
 
@@ -519,7 +519,7 @@ prosinec
 <p>Mezi klíčové funkce verze 18 patří např:</p>
 
 <ul>
-  <li><strong>Vylepšený RedCap</strong>: Tato verze vylepšuje zařízení se sníženou kapacitou (RedCap), která jsou navržena s ohledem na nižší složitost a náklady, takže jsou vhodná pro nasazení v oblasti internetu věcí.</li>
+  <li><strong>Vylepšený <a href="/mobilnisite/redcap/">RedCap</a></strong>: Tato verze vylepšuje zařízení se sníženou kapacitou (RedCap), která jsou navržena s ohledem na nižší složitost a náklady, takže jsou vhodná pro nasazení v oblasti internetu věcí.</li>
   <li><strong>Umělá inteligence (AI) a <a href="/ai/strojove-uceni-machine-learning/">strojové učení</a> (ML):</strong> Vydání 18 zavádí techniky AI/ML na různých úrovních sítě s cílem zlepšit výkon a efektivitu sítě.</li>
   <li><strong>Klíčové poznatky: V roce 2018 se v rámci projektu „Klíčové poznatky“ objevilo několik nových technologií, které se zaměřují na podporu a rozvoj sítí:</strong> AI/ML hraje klíčovou roli při optimalizaci výkonu a efektivity sítě v 5G Advanced. Využitím AI/ML se sítě mohou přizpůsobovat měnícím se vzorcům provozu, optimalizovat přidělování zdrojů a zlepšovat uživatelskou zkušenost.</li>
   <li><strong>Vylepšení rozdělení sítě:</strong> Tato verze rozšiřuje možnosti slicingu sítě o podporu slicingu s více doménami a více poskytovateli, což poskytuje větší flexibilitu a škálovatelnost.</li>
@@ -614,10 +614,10 @@ prosinec
           
             <tr>
               <td>
-                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
                 <p class="excerpt">
                   
-                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don’t restrict anyone else, and it is on this rule that the modern wo...
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
                   
                 </p>
               </td>
@@ -625,10 +625,10 @@ prosinec
           
             <tr>
               <td>
-                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
+                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
                 <p class="excerpt">
                   
-                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
                   
                 </p>
               </td>
