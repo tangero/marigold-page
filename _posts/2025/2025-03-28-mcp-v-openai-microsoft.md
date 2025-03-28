@@ -1,17 +1,23 @@
 ---
-audio_url: 
+audio_url: null
 categories:
 - MCP
 - vibe code
 - AI
 date: 2025-03-28 08:00:00
 layout: post
-post_excerpt: V posledních pár dnech se doslova strhla lavina novinek okolo MCP, neboli Model Context Protocolu. Nově ji bude podporovat také OpenAI, Microsoft a objevila se v celé řadě dalších služeb. Což je pro šíření tohoto standardu důležité. Takže si dejme sumář novinek!
+post_excerpt: V posledních pár dnech se doslova strhla lavina novinek okolo MCP, neboli
+  Model Context Protocolu. Nově ji bude podporovat také OpenAI, Microsoft a objevila
+  se v celé řadě dalších služeb. Což je pro šíření tohoto standardu důležité. Takže
+  si dejme sumář novinek!
 summary_points:
+- OpenAI nově podporuje MCP protokol napříč svými produkty včetně SDK pro agenty.
+- Microsoft integruje MCP do Copilot Studio a Azure AI Foundry.
+- Zapier zpřístupňuje AI modelům přes 8000 aplikací díky integraci MCP.
+- MCP toolkit pro Camel-AI umožňuje propojení agentů s externími nástroji.
 thumbnail: https://ia.salesianssarria.com/wp-content/uploads/2025/03/model-context-protocol-salesians-sarria-768x427.jpg
 title: MCP získává širokou podporu včetně OpenAI a Microsoftu
 ---
-
 
 V posledních pár dnech se doslova strhla lavina novinek okolo MCP, neboli Model Context Protocolu. Nově ji bude podporovat také OpenAI, Microsoft a objevila se v celé řadě dalších služeb. Což je pro šíření tohoto standardu důležité. Takže si dejme sumář novinek! Jen pro jistotu upozorňuji, že článek je spíše pro lidi, kteří se chtějí hrabat maličko pod kapotou, MCP servery jsou rozšíření promptování, které má smysl dělat, když chcete napojovat nějaká svoje (či i cizí) data... 
 
@@ -67,4 +73,4 @@ Nikhil Bang sdílel ukázku svého MCP serveru pro Rhino/Grasshopper, populárn�
 
 A vznikla také celá řada serverů, které nabízejí odkazy na nejrůznější MCP služby, vygooglujete je snadno, například [Awesome MCP Servers](https://mcpservers.org) ... 
 
-Tak šťastné experimentování. 
+Tak šťastné experimentování.

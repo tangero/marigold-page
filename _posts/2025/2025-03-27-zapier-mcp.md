@@ -8,9 +8,13 @@ categories:
 date: 2025-03-27 08:00:00
 layout: post
 post_excerpt: Zapier a Make.com nedávno uvolnili MCP server (Model Communication Protocol),
-  který umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier či Make. Jak
-  ji včlenit do vývojářského workflow ve vývoji s pomocí AI?
+  který umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier či Make.
+  Jak ji včlenit do vývojářského workflow ve vývoji s pomocí AI?
 summary_points:
+- Zapier a Make.com integrují MCP pro propojení AI asistentů s tisíci aplikacemi.
+- MCP standardizuje komunikaci AI asistentů s externími službami bez složité API integrace.
+- Zapier MCP nabízí cloudové řešení, Make.com MCP open-source s větším přizpůsobením.
+- MCP umožňuje AI nástrojům provádět reálné akce, ale má omezení (latence, zabezpečení).
 thumbnail: https://www.marigold.cz/assets/zapier-mcp.jpg
 title: Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi
 ---
