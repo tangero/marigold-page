@@ -23,7 +23,7 @@ urlobrazu: /assets/obrazy/otto-placht-peru-rail-2020.jpg
 
 **Obraz Z Chaosu**
 
-- Akryl na plátně provedený v černobílé škále – typický pro Martincovu tvorbu z posledních let.
+- Akryl na plátně doplněný uhlovou kresbou provedený v černobílé škále – typický pro Martincovu tvorbu z posledních let.
 - Zátiší na předním plánu (včetně oloupaného citrónu!) přechází do koláže klasických a moderních motivů v pozadí.
 - Vanitas a pomíjivost: humr, lebka, zvadlé květiny, odkazy na smrtelnost a čas, klasické atributy barokních zátiší typu memento mori.
 - dominantní ženský obličej připomínající renesanční či barokní madonu – evokuje Michallangela, jímž se Martinec rád inspiruje .
