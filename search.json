@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "MCP získává širokou podporu včetně OpenAI a Microsoftu",
+      "url"      : "//item/mcp-v-openai-microsoft/",
+      "category" : "MCP, vibe code, AI",
+      "tags"     : "",
+      "date"     : "28.3.2025",
+      "content"  : "V posledních pár dnech se doslova strhla lavina novinek okolo MCP, neboli Model Context Protocolu. Nově ji bude podporovat také OpenAI, Microsoft a objevila se v celé řadě dalších služeb. Což je pro šíření tohoto standardu důležité. Takže si dejme sumář novinek! Jen pro jistotu upozorňuji, že článek je spíše pro lidi, kteří se chtějí hrabat maličko pod kapotou, MCP servery jsou rozšíření promptování, které má smysl dělat, když chcete napojovat nějaká svoje (či i cizí) data…MCP jako standardizovaná vrstva pro komunikaci mezi jazykovými modely a nástroji třetích stran dostala v uplynulém týdnu masivní podporu napříč desítkami platforem. Díky ní..."
+    },
+  
+    {
       "title"    : "Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi",
       "url"      : "//item/zapier-mcp/",
       "category" : "Zapier, MCP, vibe code, AI",
@@ -25854,7 +25863,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi (27.03.2025) 🧠 AI nástroje pro programování - přehled (26.03.2025) Nové funkce v Claude Code pro programování s AI (22.03.2025) Surya Ganguli - Může se umělá inteligence vyrovnat lidskému mozku? (..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI MCP získává širokou podporu včetně OpenAI a Microsoftu (28.03.2025) Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi (27.03.2025) 🧠 AI nástroje pro programování - přehled (26.03.2025) Nové funkce v Claude Code pro programování s AI (22.03.2025) Surya Ganguli..."
     }
     
   
@@ -25874,7 +25883,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 184 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 66 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 185 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 66 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
