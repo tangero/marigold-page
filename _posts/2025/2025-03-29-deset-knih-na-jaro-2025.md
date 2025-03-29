@@ -6,7 +6,7 @@ categories:
 date: 2025-03-29
 layout: post
 post_excerpt: Výběr zajímavých knih o ekonomice, politice a technologiích. Příběh Muskovy proměny Twitteru, Peterea Thiela a jeho Palantiru a samozřejmě Donalda Trumpa. A k tomu další knihy refelktující to, co se kolem nás děje. Jde o výběr anglických knih. 
-thumbnail: /assets/knihy-2025.jpg
+thumbnail: https://www.marigold.cz/assets/knihy-2025.jpg
 title: Deset knih o současné politice, ekonomice a technologiích na jaro 2025
 ---
 
