@@ -1,13 +1,19 @@
 ---
+audio_url: http://www.marigold.cz/audio/2025-03-29-deset-knih-na-jaro-2025.mp3
+audiooff: false
 categories:
 - knihy
 - politika
-- společnost
+- "spole\u010Dnost"
 date: 2025-03-29
 layout: post
-post_excerpt: Výběr zajímavých knih o ekonomice, politice a technologiích. Příběh Muskovy proměny Twitteru, Peterea Thiela a jeho Palantiru a samozřejmě Donalda Trumpa. A k tomu další knihy refelktující to, co se kolem nás děje. Jde o výběr anglických knih. 
+post_excerpt: "V\xFDb\u011Br zaj\xEDmav\xFDch knih o ekonomice, politice a technologi\xED\
+  ch. P\u0159\xEDb\u011Bh Muskovy prom\u011Bny Twitteru, Peterea Thiela a jeho Palantiru\
+  \ a samoz\u0159ejm\u011B Donalda Trumpa. A k tomu dal\u0161\xED knihy refelktuj\xED\
+  c\xED to, co se kolem n\xE1s d\u011Bje. Jde o v\xFDb\u011Br anglick\xFDch knih."
 thumbnail: /assets/knihy-2025.jpg
-title: Deset knih o současné politice, ekonomice a technologiích na jaro 2025
+title: "Deset knih o sou\u010Dasn\xE9 politice, ekonomice a technologi\xEDch na jaro\
+  \ 2025"
 ---
 
 Připravil jsem výběr knih o současné politice, ekonomice a technologiích pro letošní jaro, toto je dávka anglických knih. České budou příležitostně následovat. 
