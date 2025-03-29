@@ -7,7 +7,19 @@ categories:
 - společnost
 date: 2025-03-29
 layout: post
-post_excerpt: Výběr zajímavých knih o ekonomice, politice a technologiích. Příběh Muskovy proměny Twitteru, Peterea Thiela a jeho Palantiru a samozřejmě Donalda Trumpa. A k tomu další knihy refelktující to, co se kolem nás děje. Jde o výběr anglických knih. 
+post_excerpt: Výběr zajímavých knih o ekonomice, politice a technologiích. Příběh
+  Muskovy proměny Twitteru, Peterea Thiela a jeho Palantiru a samozřejmě Donalda Trumpa.
+  A k tomu další knihy refelktující to, co se kolem nás děje. Jde o výběr anglických
+  knih.
+summary_points:
+- Thielova biografie "The Contrarian" zkoumá propojení techno-utopismu, pravice a
+  vzniku Palantiru.
+- '"Character Limit" odhaluje Muskovo řízení Twitteru, propouštění, úspory a ochotu
+  prohrávat soudy.'
+- Thompsonova "Disorder" zkoumá energetiku, finance a demokracii jako příčiny politické
+  nestability.
+- Hemmerova "Partisans" analyzuje posun americké politiky v 90. letech skrze Limbaugha,
+  Buchanana a Gingriche.
 thumbnail: https://www.marigold.cz/assets/knihy-2025.jpg
 title: Deset knih o současné politice, ekonomice a technologiích na jaro 2025
 ---
