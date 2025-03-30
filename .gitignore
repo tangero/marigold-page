@@ -13,11 +13,9 @@ assets/.DS_Store
 /_site
 .DS_Store
 .DS_Store
-generate_local_summaries.py
 /.venv
 /newsletter
 analyze.rb
-keyword_manager.rb
 generate_summaries.py
 test_fix.py
 test_title.md
