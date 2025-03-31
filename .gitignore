@@ -27,3 +27,5 @@ test_validator.py
 test_yaml.md
 test_title.md
 test_title.md
+_data/generate_local_summaries.py
+keyword_manager.rb

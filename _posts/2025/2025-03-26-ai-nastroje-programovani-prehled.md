@@ -331,5 +331,4 @@ A teď už pojďme na přehled, pořadí je náhodné!
 - **Cenový model**: Bezplatná verze s prémiovými funkcemi
 
 
-
----
+A to je v našem přehledu vše...
