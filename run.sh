@@ -16,7 +16,7 @@ echo -e "${YELLOW}Kontrola a instalace Python závislostí...${NC}"
 # Pokusíme se nainstalovat balíčky do uživatelského adresáře bez potřeby oprávnění správce
 echo -e "${YELLOW}Instaluji balíčky pro uživatele...${NC}"
 python3 -m pip install --user --upgrade pip
-python3 -m pip install --user PyYAML python-frontmatter requests openai
+python3 -m pip install --user PyYAML python-frontmatter requests openai python-dotenv
 
 # Zkusíme ověřit přítomnost yaml modulu
 if ! python3 -c "import yaml" 2>/dev/null; then
@@ -40,7 +40,7 @@ if ! python3 -c "import yaml" 2>/dev/null; then
     
     # Instalace balíčků ve virtuálním prostředí
     echo -e "${YELLOW}Instaluji balíčky ve virtuálním prostředí...${NC}"
-    pip install PyYAML python-frontmatter requests openai
+    pip install PyYAML python-frontmatter requests openai python-dotenv
     
     # Spustíme skript ve virtuálním prostředí
     echo -e "${GREEN}Spouštím skript ve virtuálním prostředí...${NC}"
