@@ -9,6 +9,10 @@ from datetime import datetime
 import re
 import sys
 import html
+from dotenv import load_dotenv
+
+# Načtení proměnných z .env souboru
+load_dotenv()
 
 class MarkdownValidator:
     """Třída pro validaci Markdown souborů s YAML front matter."""
@@ -224,7 +228,14 @@ class LocalSummaryGenerator:
         self.api_key = api_key
         self.model_choice = model_choice
         self.posts_dir = Path(posts_dir)
-        self.api_url = "https://openrouter.ai/api/v1/chat/completions"
+        
+        # DeepSeek má vlastní API endpoint a klíč
+        if model_choice == "deepseek":
+            self.api_key = os.getenv("DEEPSEEK_API_KEY") or api_key
+            self.api_url = "https://api.deepseek.com/v1/chat/completions"
+        else:  # Pro OpenRouter (Gemini model)
+            self.api_url = "https://openrouter.ai/api/v1/chat/completions"
+            
         self.newsletter_processed = False  # newsletter zpracujeme pouze jednou
 
     def truncate_content(self, content, max_chars=10000):
@@ -251,13 +262,24 @@ class LocalSummaryGenerator:
         return None
 
     def generate_summary(self, content, max_retries=5):
-        """Generuje shrnutí pomocí OpenRouter API s automatickým retry."""
-        headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "HTTP-Referer": "https://www.marigold.cz/",
-            "X-Title": "Marigold.cz",
-            "Content-Type": "application/json"
-        }
+        """Generuje shrnutí pomocí API s automatickým retry."""
+        # Nastavení API hlaviček podle typu modelu
+        if self.model_choice == "deepseek":
+            headers = {
+                "Authorization": f"Bearer {self.api_key}",
+                "Content-Type": "application/json"
+            }
+        else:  # OpenRouter
+            headers = {
+                "Authorization": f"Bearer {self.api_key}",
+                "HTTP-Referer": "https://www.marigold.cz/",
+                "X-Title": "Marigold.cz",
+                "Content-Type": "application/json"
+            }
+        
+        print(f"Model: {self.model_choice}")
+        print(f"API URL: {self.api_url}")
+        print(f"Použitý API klíč (prvních 10 znaků): {self.api_key[:10]}...")
         
         prompt = """Vytvoř 3-4 krátké body shrnující hlavní myšlenky následujícího českého textu.
 Každý bod by měl:
@@ -277,11 +299,11 @@ Text k shrnutí:
                         "content": prompt.format(content=content)
                     }
                 ],
-                "model": "deepseek/deepseek-chat:free",
+                "model": "deepseek-chat",  # DeepSeek API používá jiný formát modelů
                 "max_tokens": 500,
                 "temperature": 0.3
             }
-        else:  # gemini
+        else:  # gemini přes OpenRouter
             payload = {
                 "messages": [
                     {
@@ -439,7 +461,8 @@ def main():
         # Načtení API klíče
         api_key = os.getenv("OPENROUTER_API_KEY")
         if not api_key:
-            api_key = "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"
+            print("⚠️ API klíč OPENROUTER_API_KEY nebyl nalezen v proměnných prostředí!")
+            api_key = input("Zadejte váš OpenRouter API klíč: ").strip()
         
         # Výběr modelu
         while True:
