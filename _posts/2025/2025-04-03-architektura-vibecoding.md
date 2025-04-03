@@ -1,12 +1,18 @@
 ---
+audio_url: http://www.marigold.cz/audio/2025-04-03-architektura-vibecoding.mp3
+audiooff: false
 categories:
 - vibe coding
 - AI
 date: 2025-04-03
 layout: post
-post_excerpt: "Vibe coding, programování s AI, funguje lépe, když mu návrh prototypu služby přizpůsobíte. Má své architektonické zvláštnosti. Co udělat při návrhu jinak a jak postupovat, abyste se s programováním s AI dostali k lepšímu výsledku?"
+post_excerpt: "Vibe coding, programov\xE1n\xED s AI, funguje l\xE9pe, kdy\u017E mu\
+  \ n\xE1vrh prototypu slu\u017Eby p\u0159izp\u016Fsob\xEDte. M\xE1 sv\xE9 architektonick\xE9\
+  \ zvl\xE1\u0161tnosti. Co ud\u011Blat p\u0159i n\xE1vrhu jinak a jak postupovat,\
+  \ abyste se s programov\xE1n\xEDm s AI dostali k lep\u0161\xEDmu v\xFDsledku?"
 thumbnail: https://www.marigold.cz/assets/vibecoding.jpg
-title: Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu
+title: "Modern\xED p\u0159\xEDstup k v\xFDvoji prototypu software MVP pomoc\xED vibe\
+  \ codingu"
 ---
 Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlav \- a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”. 
 
