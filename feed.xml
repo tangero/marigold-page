@@ -1,4 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-03T06:31:59+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Deset knih o současné politice, ekonomice a technologiích na jaro 2025</title><link href="https://www.marigold.cz/item/deset-knih-na-jaro-2025/" rel="alternate" type="text/html" title="Deset knih o současné politice, ekonomice a technologiích na jaro 2025" /><published>2025-03-29T00:00:00+00:00</published><updated>2025-03-29T00:00:00+00:00</updated><id>https://www.marigold.cz/item/deset-knih-na-jaro-2025</id><content type="html" xml:base="https://www.marigold.cz/item/deset-knih-na-jaro-2025/"><![CDATA[<p>Připravil jsem výběr knih o současné politice, ekonomice a technologiích pro letošní jaro, toto je dávka anglických knih. České budou příležitostně následovat.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-03T06:56:31+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu</title><link href="https://www.marigold.cz/item/architektura-vibecoding/" rel="alternate" type="text/html" title="Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu" /><published>2025-04-03T00:00:00+00:00</published><updated>2025-04-03T00:00:00+00:00</updated><id>https://www.marigold.cz/item/architektura-vibecoding</id><content type="html" xml:base="https://www.marigold.cz/item/architektura-vibecoding/"><![CDATA[<p>Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlav - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.</p>
+
+<p>Pojdme si spolu projít zásady, které se mi za posledních pár pokusů vydestilovaly jako základ úspěchu a rychlého posunu s vibe codingem:</p>
+
+<h2 id="hlavní-princip-modularizace-a-zjednodušení"><strong>Hlavní princip: Modularizace a zjednodušení</strong></h2>
+
+<p>Klíčem k úspěšnému vývoji pomocí vibe codingu je důsledná modularizace a zjednodušení celého procesu. Nejlepší je rozdělit vývoj do tří jasně oddělených částí:</p>
+
+<ol>
+  <li><strong>Frontend vyvinutý pomocí no-code nástrojů</strong> - čistě pro UI/UX</li>
+  <li><strong>Minimální sada API bez business logiky</strong> - pouze pro komunikaci a přístup k datům</li>
+  <li><strong>Business logika implementovaná v automatizačním frameworku</strong> - pro skutečnou funkcionalitu systému</li>
+</ol>
+
+<p>Tato struktura přináší několik významných výhod:</p>
+
+<ul>
+  <li>Frontend kód zůstává čistý a jednoduchý, zaměřený pouze na zobrazování UI</li>
+  <li>API kód je krátký, přímočarý a snadno spravovatelný</li>
+  <li>Business logika je přehledně vizualizovaná v automatizačním frameworku, což usnadňuje debugging</li>
+</ul>
+
+<h2 id="praktický-postup-implementace"><strong>Praktický postup implementace</strong></h2>
+
+<h3 id="1-vývoj-frontendu"><strong>1. Vývoj frontendu</strong></h3>
+
+<p>Začněte výběrem vhodného no-code nástroje jako Bubble, Bolt nebo Replit. Zaměřte se výhradně na vzhled a pocit z aplikace. V této fázi ignorujte technické detaily implementace a soustřeďte se pouze na UI/UX.</p>
+
+<p><strong>Důležité tipy:</strong></p>
+
+<ul>
+  <li>Vytvořte plně funkční frontend, který vypadá přesně tak, jak chcete</li>
+  <li>Nechte si ho generovat jako statický soubor (HTML/CSS/JS)</li>
+  <li>Autentizaci a volání API implementujte až později</li>
+  <li>Pro hosting využijte služby jako Cloudflare, které jsou pro statické soubory zdarma</li>
+</ul>
+
+<h3 id="2-implementace-api"><strong>2. Implementace API</strong></h3>
+
+<p>Pro backend je nejlépe využít Python, který má vynikající podporu v AI nástrojích jako Cursor nebo Cline. Klíčová pravidla pro backend jsou:</p>
+
+<ul>
+  <li><strong>Omezte počet souborů</strong> (ideálně max. 25)</li>
+  <li><strong>Limitujte délku jednotlivých souborů</strong> (max. 250 řádků)</li>
+  <li><strong>Vytvářejte jen tři typy API:</strong></li>
+  <li><strong>Data storage API</strong>: jednoduchá CRUD rozhraní, s jasně definovanou strukturou a Swagger dokumentací.</li>
+  <li><strong>Processing API</strong>: slouží pro náročnější úkoly jako je komprese obrázků, generování videí či reportů. Držte je oddělené od datového API.</li>
+  <li><strong>Real-time API</strong> (například pro chat, video, apod.): jde o složitější úkoly, u kterých stojí za to zvážit spolupráci se specializovaným vývojářem.</li>
+</ul>
+
+<p>A dejte si pozor na jednu věc: řada AI nástrojů má tendenci databázi propojovat přímo s kódem, veškerá napojení na databází musí jít přes endpointy API na vašem serveru, jinak vystavíte databázi světu!</p>
+
+<p>Proč tyto limity? Příliš mnoho souborů a řádků kódu znamená více kontextu pro AI, vyšší náklady a více potenciálních chyb.</p>
+
+<h3 id="3-implementace-business-logiky-v-automatizačním-frameworku"><strong>3. Implementace business logiky v automatizačním frameworku</strong></h3>
+
+<p>Klíčovým rozdílem oproti tradičním přístupům je přesun business logiky z backend kódu do vizuálního automatizačního frameworku jako je n8n, Make,  Zapier nebo PowerApps, pokud je to jen trochu možné. Především tak dostanete ověřenou funkcionalitu, jejíž fungování si můžete vizualizovat. I jako neprogramátor pak vidíte, co se s daty děje, jak a kudy putují a jak se zpracovávají. Ostatně, na propojování různých systémů je vibe coding a rychlá stavba prototypů založena - můžete se tomu vysmívat, ale je to podobné, jako v Linuxu, kde využíváte vstupně/výstupní rozhraní nejrůznějších démonů, utilit či knihoven. Jen to má líbivější kabátek a “matlačku” mezi tím dělá AI nebo klikání  myší v rozhraní.</p>
+
+<p>Dodržením pravidla přesunu logiky do automatizačního frameworku dosáhnete několika zásadních výhod:</p>
+
+<ul>
+  <li><strong>Menší AI kontext</strong>: kratší a jednodušší kód znamená menší potřebu kontextu pro AI a tím i méně chyb.</li>
+  <li><strong>Úspora nákladů</strong>: frontend můžete zdarma hostovat například na Cloudflare, backendové API jsou díky jednoduchosti levnější na provoz.</li>
+  <li><strong>Snadná údržba</strong>: obchodní logika v nástrojích jako Zapier je snadno čitelná, což umožňuje rychlé změny a jasnou prezentaci týmu i klientům.</li>
+</ul>
+
+<h2 id="důsledky-pro-celkovou-architekturu"><strong>Důsledky pro celkovou architekturu</strong></h2>
+
+<p>Tento vibe coding přístup vede k systému složenému ze tří jasně oddělených vrstev:</p>
+
+<ol>
+  <li><strong>Frontend</strong> (vibe coded) - zodpovědný pouze za prezentaci</li>
+  <li><strong>Backend API</strong> (vibe coded) - zodpovědný za ukládání, zpracování a komunikaci</li>
+  <li><strong>Automatizační framework</strong> - zodpovědný za business logiku a propojení všech komponent</li>
+</ol>
+
+<p>Takto strukturovaný systém je nejen snazší vyvíjet, ale také udržovat a rozšiřovat, protože každá část má jasně definovanou zodpovědnost a rozhraní.</p>
+
+<h2 id="testování-a-monitoring"><strong>Testování a monitoring</strong></h2>
+
+<p>Po úspěšné implementaci všech tří částí je důležité nezapomenout na testování a monitoring. Santoso doporučuje:</p>
+
+<ul>
+  <li>Vytvořit automatizovaný workflow, který denně testuje funkčnost API</li>
+  <li>Implementovat pravidelné reportování a monitoring pomocí emailů nebo notifikací</li>
+  <li>Využít automatizační framework i pro účely testování</li>
+</ul>
+
+<pre><code class="language-mermaid">graph TD
+    %% Hlavní bloky
+    A[Jak správně vyvíjet MVP prototypy pomocí Vibe Codingu] --&gt; B(Oddělení vrstev aplikace)
+
+    %% Oddělení vrstev
+    B --&gt; C[Frontend UI - No-code nástroje]
+    B --&gt; D[Backend - Minimalistická API]
+    B --&gt; E[Obchodní logika - Automatizace]
+
+    %% Frontend detaily
+    C --&gt; C1[Bubble / Bolt / Replit]
+
+    %% Backend detaily
+    D --&gt; D1[Data Storage API - CRUD, Swagger]
+    D --&gt; D2[Processing API - Zpracování dat]
+    D --&gt; D3[Real-time API - Chat, Video]
+
+    %% Logika detaily
+    E --&gt; E1[Zapier / n8n / PowerApps]
+
+    %% Integrace a monitoring
+    C &amp; D &amp; E --&gt; F[Integrace a monitoring]
+
+    %% Detaily monitoringu
+    F --&gt; G[Denní automatizovaný testing API]
+    F --&gt; H[Automatické reporty a alerty]
+</code></pre>
+
+<h2 id="závěr"><strong>Závěr</strong></h2>
+
+<p>“Vibe coding” s využitím nejnovějších AI nástrojů představuje atraktivní způsob rychlého vývoje MVP a prototypů. Klíčem k úspěchu je však důsledné rozdělení zodpovědností mezi tři oddělené vrstvy - frontend, API a automatizační framework. Tento přístup minimalizuje čas strávený debugováním, umožňuje rychlý vývoj a usnadňuje budoucí rozšíření a údržbu.</p>
+
+<p>Pro vývojáře, kteří chtějí experimentovat s tímto přístupem, je důležité mít na paměti, že nejde o kompletní náhradu tradičních vývojových metod, ale spíše o komplementární přístup vhodný zejména pro rychlý vývoj prototypů a MVP před jejich případným přepracováním do produkční kvality.</p>
+
+<p>Pro zajímavost si někdy popíšeme, jak jsem vibe codingem realizoval některé služby, jako jsou například <a href="http://maveprednasky.cz">zajímaveprednasky.cz</a>…</p>]]></content><author><name>Patrick Zandl</name></author><category term="vibe coding" /><category term="AI" /><summary type="html"><![CDATA[Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlav - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.]]></summary></entry><entry xml:lang="cs"><title type="html">Deset knih o současné politice, ekonomice a technologiích na jaro 2025</title><link href="https://www.marigold.cz/item/deset-knih-na-jaro-2025/" rel="alternate" type="text/html" title="Deset knih o současné politice, ekonomice a technologiích na jaro 2025" /><published>2025-03-29T00:00:00+00:00</published><updated>2025-03-29T00:00:00+00:00</updated><id>https://www.marigold.cz/item/deset-knih-na-jaro-2025</id><content type="html" xml:base="https://www.marigold.cz/item/deset-knih-na-jaro-2025/"><![CDATA[<p>Připravil jsem výběr knih o současné politice, ekonomice a technologiích pro letošní jaro, toto je dávka anglických knih. České budou příležitostně následovat.</p>
 
 <h3 id="max-chafkin--the-contrarian">Max Chafkin – The Contrarian</h3>
 
@@ -2375,38 +2497,4 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
 
 <blockquote>
   <p>Deepseek r1 je působivý model, zejména s ohledem na to, co jsou schopni nabídnout za cenu. My samozřejmě dodáme mnohem lepší modely a také je to legitimně povzbuzující mít nového konkurenta! vytáhneme nějaké verze. Ale hlavně jsme nadšeni, že můžeme pokračovat v realizaci našeho výzkumného plánu a věříme, že více výpočetní techniky je nyní důležitější než kdykoli předtím, abychom uspěli v našem poslání. Svět bude chtít používat hodně AI a opravdu bude docela ohromen přicházejícími modely nové generace. Těšíme se, až vám všem přineseme AGI a další.  <em>- 28.1.2025,</em>  <em>tweet Sama Altmana, šéfa OpenAI</em></p>
-</blockquote>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="ChatGPT" /><category term="OpenAI" /><category term="Deepseek" /><summary type="html"><![CDATA[Asi jste to zaznamenali. Čínská firma Deepseek vydala své nové AI modely a z akciového trhu amerických technologických firem se v tu ránu vyfouklo bilion dolarů. Akcie Nvidia a Broadcomu, dvou veřejně obchodovatelných firem závislých na úspěchu prodeje AI čipů. poklesly za den o 17 procent (v pondělí) a za úterý se kurz nevzpamatoval, spíše to vypadá, že se stabilizuje.]]></summary></entry><entry xml:lang="cs"><title type="html">ChatGPT Úlohy a Customizace</title><link href="https://www.marigold.cz/item/chatgpt-ulohy-customize/" rel="alternate" type="text/html" title="ChatGPT Úlohy a Customizace" /><published>2025-01-20T00:00:00+00:00</published><updated>2025-01-20T00:00:00+00:00</updated><id>https://www.marigold.cz/item/chatgpt-ulohy-customize</id><content type="html" xml:base="https://www.marigold.cz/item/chatgpt-ulohy-customize/"><![CDATA[<p>OpenAI nedávno představila režim Úlohy a nově i Přizpůsobení. Úlohy umožňují provedení promptu v určitý čas, Přizpůsobení pak umožní detailněji nastavit, jak s vámi má AI mluvit. Jak funkce použít?</p>
-
-<h3 id="chatgpt-úlohy">ChatGPT Úlohy</h3>
-
-<p>Musím říct, že nejdříve ta funkce vypadala jako blbost. Pak se objevily zvěsti, že původně OpenAI chtěla představit široce rozkročenou platformu agentů, jenže na poslední chvíli v ní našli fatální chybu. A tak osekali funkce a vydali jen Úlohy. Zda je to či není pravda, najisto nevíme, ale rozhodně to vypadá pravděpodobně. Úlohy vypadají jako něco, čemu někdo na poslední chvíli vzal většinu vstupně výstupních rozhraní.</p>
-
-<p>Jak Úlohy fungují? Vyberete si z roletky GPT-4o s naplánovanými úlohami a nyní můžete zadat prompt, který bude pravidelně vykonáván. Takto vykonaný prompt vám bude doručen emailem a/nebo notifikací, to podle toho, jak máte nastavené upozorňování v ChatGPT. Jak notifikace, tak email ovšem odkazují jen na stránku ChatGPT, teprve na ní najdete výsledek.</p>
-
-<p><img src="/assets/chatgpt-uloha.png" alt="Úlohy v menu modelů" /></p>
-
-<p>A k čemu to je? Můžete si tak nechat například sledovat aktualizaci stránek a v momentě, kdy se tam objeví téma, jaké vás zajímá a zvolíte si jej, tak vám přijde ona notifikace. Já jsem si například nastavil, aby mi každé ráno chodila informace o tom, kdyby mělo pršet s nějakou větší pravděpodobností. Na jednu stranu hezké, na druhou stranu kvůli tomu vytopit tolik procesorového výkonu mi přijde divné.</p>
-
-<p>Nastavil jsem si také například sledování českých zpravodajských serverů a požádal o ranní shrnutí a vyznačení rozdílných úhlů pohledu. Bohužel dotaz zatím vždy skončí chybovou hláškou “momentálně nemohu poskytnout souhrn…” - proč, nevím.</p>
-
-<p>Další příklady použití? Spíše úsměvné: můžete si kupříkladu nechat poslat každý večer jeden vtip, pohádku nebo můžete požádat, aby vám byl každý večer objasněn jeden historický fakt nebo vysvětlen jeden výraz z telekomunikačního žargonu. Můžete si také nechat udělat týdenní souhrn novinek v AI či jiném oboru, který vás zajímá.</p>
-
-<blockquote>
-  <p><strong>Omezení:</strong> můžete mít jen 10 současně spuštěných Úloh, všechny nad to musíte smazat nebo pauznout.  Nelze je používat v GPTs a jsou dostupné jen v placených programech přes webové rozhraní, v aplikacích ještě nejsou. Výstup v nich ale vidíte. Nelze v nich používat hlasové rozhraní ani připojovat soubory jako kontext.</p>
-</blockquote>
-
-<p>Zajímavé je, že prompt je v nastaveních uložený už v angličtině, ačkoliv jsem jej zadával česky a požaduji českou odpověď…</p>
-
-<p><img src="/assets/chatgpt-uloha-detail.png" alt="Detail úlohy" /></p>
-
-<p>Takže experimentujte. Až se podaří Úlohy napojit i nějak jinak ven, začne to být zajímavější. Na monitoring zpráv to je přeci jen trochu overkill, ačkoliv souhlasím s tím, že udělat sumář jen tak nějaká služba neumí.</p>
-
-<h3 id="customize-chatgpt---přizpůsobení">Customize ChatGPT - Přizpůsobení</h3>
-
-<p>Další poměrně žhavou novinkou je režim Přizpůsobení. Tedy, možnost přizpůsobit chat mělo ChatGPT již nějakou dobu, ale bylo možné vložit jen 1500 znaků bez hlubší struktury a tím jste se snažili nakonfigurovat způsob, jakým vám chat odpovídá.</p>
-
-<p><img src="/assets/Custom-Instructions-UI.png" alt="ChatGPT Customize - přizpůsobení chatu s AI" /></p>
-
-<p>Nově Přizpůsobení umožňuje lepší strukturu zadání přizpůsobovacích dat. Zvláště si můžete nastavit, jak vás ChatGPT má oslovovat, kdo jste - jaké máte povolání či co děláte a také, jaké vlastnosti ChatGPT má mít, třeba trpělivost, má být skeptické nebo poetické atd. Můžete si nastavit, jaké hodnoty zastáváte vy, jaké máte zájmy a další informace, které mohou být obohacujícím kontextem pro ChatGPT.</p>
-
-<p>Funkce se nicméně zatím teprve nasazuje, takže počítejte s tím, že ji v menu můžete ještě najít ve staré podobě.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="ChatGPT" /><category term="OpenAI" /><summary type="html"><![CDATA[OpenAI nedávno představila režim Úlohy a nově i Přizpůsobení. Úlohy umožňují provedení promptu v určitý čas, Přizpůsobení pak umožní detailněji nastavit, jak s vámi má AI mluvit. Jak funkce použít?]]></summary></entry></feed>
+</blockquote>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="ChatGPT" /><category term="OpenAI" /><category term="Deepseek" /><summary type="html"><![CDATA[Asi jste to zaznamenali. Čínská firma Deepseek vydala své nové AI modely a z akciového trhu amerických technologických firem se v tu ránu vyfouklo bilion dolarů. Akcie Nvidia a Broadcomu, dvou veřejně obchodovatelných firem závislých na úspěchu prodeje AI čipů. poklesly za den o 17 procent (v pondělí) a za úterý se kurz nevzpamatoval, spíše to vypadá, že se stabilizuje.]]></summary></entry></feed>

@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="cs" />
+<meta name="description" content="Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlav - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”." />
+<meta property="og:description" content="Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlav - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”." />
+<link rel="canonical" href="https://www.marigold.cz/item/architektura-vibecoding/" />
+<meta property="og:url" content="https://www.marigold.cz/item/architektura-vibecoding/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-04-03T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-04-03T00:00:00+00:00","datePublished":"2025-04-03T00:00:00+00:00","description":"Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlav - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.","headline":"Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/item/architektura-vibecoding/"},"url":"https://www.marigold.cz/item/architektura-vibecoding/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlav - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu" />
+    <meta property="twitter:title" content="Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu" />
+    
+
+    
+    <!-- page.thumbnail -->
+    
+        <!-- page.thumbnail https://www.marigold.cz/assets/vibecoding.jpg |  -->
+    <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/vibecoding.jpg"/>
+    <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/vibecoding.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/item/architektura-vibecoding/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍 Search</a> |              
+              <a href="https://www.aivefirmach.cz">Workshop AI</a> |
+              <a href="/mobilnisite">🗼 4G/5G sítě</a> | 
+              <a href="/ai">🤖 AI</a> | 
+              <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu</h1>
+
+  
+  <div class="posts">
+    <blockquote>
+      <p>💡 Firemní <a href="https://www.aivefirmach.cz/">workshopy o umělé inteligenci</a> - pojďme se zamyslet nad tím, jak se vaší firmy dotkne AI a jak se na to připravit!</p>
+    </blockquote>
+  </div>
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+3.
+duben
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#vibe coding">vibe coding</a>
+        &nbsp;
+      
+        <a href="//rubrika/#AI">AI</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+  
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/vibecoding.jpg" alt="Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu">
+  </div>
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlav - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.</p>
+
+<p>Pojdme si spolu projít zásady, které se mi za posledních pár pokusů vydestilovaly jako základ úspěchu a rychlého posunu s vibe codingem:</p>
+
+<h2 id="hlavní-princip-modularizace-a-zjednodušení"><strong>Hlavní princip: Modularizace a zjednodušení</strong></h2>
+
+<p>Klíčem k úspěšnému vývoji pomocí vibe codingu je důsledná modularizace a zjednodušení celého procesu. Nejlepší je rozdělit vývoj do tří jasně oddělených částí:</p>
+
+<ol>
+  <li><strong>Frontend vyvinutý pomocí no-code nástrojů</strong> - čistě pro UI/UX</li>
+  <li><strong>Minimální sada API bez business logiky</strong> - pouze pro komunikaci a přístup k datům</li>
+  <li><strong>Business logika implementovaná v automatizačním frameworku</strong> - pro skutečnou funkcionalitu systému</li>
+</ol>
+
+<p>Tato struktura přináší několik významných výhod:</p>
+
+<ul>
+  <li>Frontend kód zůstává čistý a jednoduchý, zaměřený pouze na zobrazování UI</li>
+  <li>API kód je krátký, přímočarý a snadno spravovatelný</li>
+  <li>Business logika je přehledně vizualizovaná v automatizačním frameworku, což usnadňuje debugging</li>
+</ul>
+
+<h2 id="praktický-postup-implementace"><strong>Praktický postup implementace</strong></h2>
+
+<h3 id="1-vývoj-frontendu"><strong>1. Vývoj frontendu</strong></h3>
+
+<p>Začněte výběrem vhodného no-code nástroje jako Bubble, Bolt nebo Replit. Zaměřte se výhradně na vzhled a pocit z aplikace. V této fázi ignorujte technické detaily implementace a soustřeďte se pouze na UI/UX.</p>
+
+<p><strong>Důležité tipy:</strong></p>
+
+<ul>
+  <li>Vytvořte plně funkční frontend, který vypadá přesně tak, jak chcete</li>
+  <li>Nechte si ho generovat jako statický soubor (HTML/CSS/JS)</li>
+  <li>Autentizaci a volání API implementujte až později</li>
+  <li>Pro hosting využijte služby jako Cloudflare, které jsou pro statické soubory zdarma</li>
+</ul>
+
+<h3 id="2-implementace-api"><strong>2. Implementace API</strong></h3>
+
+<p>Pro backend je nejlépe využít Python, který má vynikající podporu v AI nástrojích jako Cursor nebo Cline. Klíčová pravidla pro backend jsou:</p>
+
+<ul>
+  <li><strong>Omezte počet souborů</strong> (ideálně max. 25)</li>
+  <li><strong>Limitujte délku jednotlivých souborů</strong> (max. 250 řádků)</li>
+  <li><strong>Vytvářejte jen tři typy API:</strong></li>
+  <li><strong>Data storage API</strong>: jednoduchá CRUD rozhraní, s jasně definovanou strukturou a Swagger dokumentací.</li>
+  <li><strong>Processing API</strong>: slouží pro náročnější úkoly jako je komprese obrázků, generování videí či reportů. Držte je oddělené od datového API.</li>
+  <li><strong>Real-time API</strong> (například pro chat, video, apod.): jde o složitější úkoly, u kterých stojí za to zvážit spolupráci se specializovaným vývojářem.</li>
+</ul>
+
+<p>A dejte si pozor na jednu věc: řada AI nástrojů má tendenci databázi propojovat přímo s kódem, veškerá napojení na databází musí jít přes endpointy API na vašem serveru, jinak vystavíte databázi světu!</p>
+
+<p>Proč tyto limity? Příliš mnoho souborů a řádků kódu znamená více kontextu pro AI, vyšší náklady a více potenciálních chyb.</p>
+
+<h3 id="3-implementace-business-logiky-v-automatizačním-frameworku"><strong>3. Implementace business logiky v automatizačním frameworku</strong></h3>
+
+<p>Klíčovým rozdílem oproti tradičním přístupům je přesun business logiky z backend kódu do vizuálního automatizačního frameworku jako je n8n, Make,  Zapier nebo PowerApps, pokud je to jen trochu možné. Především tak dostanete ověřenou funkcionalitu, jejíž fungování si můžete vizualizovat. I jako neprogramátor pak vidíte, co se s daty děje, jak a kudy putují a jak se zpracovávají. Ostatně, na propojování různých systémů je vibe coding a rychlá stavba prototypů založena - můžete se tomu vysmívat, ale je to podobné, jako v Linuxu, kde využíváte vstupně/výstupní rozhraní nejrůznějších démonů, utilit či knihoven. Jen to má líbivější kabátek a “matlačku” mezi tím dělá AI nebo klikání  myší v rozhraní.</p>
+
+<p>Dodržením pravidla přesunu logiky do automatizačního frameworku dosáhnete několika zásadních výhod:</p>
+
+<ul>
+  <li><strong>Menší AI kontext</strong>: kratší a jednodušší kód znamená menší potřebu kontextu pro AI a tím i méně chyb.</li>
+  <li><strong>Úspora nákladů</strong>: frontend můžete zdarma hostovat například na Cloudflare, backendové API jsou díky jednoduchosti levnější na provoz.</li>
+  <li><strong>Snadná údržba</strong>: obchodní logika v nástrojích jako Zapier je snadno čitelná, což umožňuje rychlé změny a jasnou prezentaci týmu i klientům.</li>
+</ul>
+
+<h2 id="důsledky-pro-celkovou-architekturu"><strong>Důsledky pro celkovou architekturu</strong></h2>
+
+<p>Tento vibe coding přístup vede k systému složenému ze tří jasně oddělených vrstev:</p>
+
+<ol>
+  <li><strong>Frontend</strong> (vibe coded) - zodpovědný pouze za prezentaci</li>
+  <li><strong>Backend API</strong> (vibe coded) - zodpovědný za ukládání, zpracování a komunikaci</li>
+  <li><strong>Automatizační framework</strong> - zodpovědný za business logiku a propojení všech komponent</li>
+</ol>
+
+<p>Takto strukturovaný systém je nejen snazší vyvíjet, ale také udržovat a rozšiřovat, protože každá část má jasně definovanou zodpovědnost a rozhraní.</p>
+
+<h2 id="testování-a-monitoring"><strong>Testování a monitoring</strong></h2>
+
+<p>Po úspěšné implementaci všech tří částí je důležité nezapomenout na testování a monitoring. Santoso doporučuje:</p>
+
+<ul>
+  <li>Vytvořit automatizovaný workflow, který denně testuje funkčnost API</li>
+  <li>Implementovat pravidelné reportování a monitoring pomocí emailů nebo notifikací</li>
+  <li>Využít automatizační framework i pro účely testování</li>
+</ul>
+
+<pre><code class="language-mermaid">graph TD
+    %% Hlavní bloky
+    A[Jak správně vyvíjet MVP prototypy pomocí Vibe Codingu] --&gt; B(Oddělení vrstev aplikace)
+
+    %% Oddělení vrstev
+    B --&gt; C[Frontend UI - No-code nástroje]
+    B --&gt; D[Backend - Minimalistická API]
+    B --&gt; E[Obchodní logika - Automatizace]
+
+    %% Frontend detaily
+    C --&gt; C1[Bubble / Bolt / Replit]
+
+    %% Backend detaily
+    D --&gt; D1[Data Storage API - CRUD, Swagger]
+    D --&gt; D2[Processing API - Zpracování dat]
+    D --&gt; D3[Real-time API - Chat, Video]
+
+    %% Logika detaily
+    E --&gt; E1[Zapier / n8n / PowerApps]
+
+    %% Integrace a monitoring
+    C &amp; D &amp; E --&gt; F[Integrace a monitoring]
+
+    %% Detaily monitoringu
+    F --&gt; G[Denní automatizovaný testing API]
+    F --&gt; H[Automatické reporty a alerty]
+</code></pre>
+
+<h2 id="závěr"><strong>Závěr</strong></h2>
+
+<p>“Vibe coding” s využitím nejnovějších AI nástrojů představuje atraktivní způsob rychlého vývoje MVP a prototypů. Klíčem k úspěchu je však důsledné rozdělení zodpovědností mezi tři oddělené vrstvy - frontend, API a automatizační framework. Tento přístup minimalizuje čas strávený debugováním, umožňuje rychlý vývoj a usnadňuje budoucí rozšíření a údržbu.</p>
+
+<p>Pro vývojáře, kteří chtějí experimentovat s tímto přístupem, je důležité mít na paměti, že nejde o kompletní náhradu tradičních vývojových metod, ale spíše o komplementární přístup vhodný zejména pro rychlý vývoj prototypů a MVP před jejich případným přepracováním do produkční kvality.</p>
+
+<p>Pro zajímavost si někdy popíšeme, jak jsem vibe codingem realizoval některé služby, jako jsou například <a href="http://maveprednasky.cz">zajímaveprednasky.cz</a>…</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
+                <p class="excerpt">
+                  
+                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
+                <p class="excerpt">
+                  
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu&url=https://www.marigold.cz/item/architektura-vibecoding/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/item/architektura-vibecoding/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_posts/2025/2025-04-03-architektura-vibecoding.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/item/deset-knih-na-jaro-2025/">&laquo; Deset knih o současné politice, ekonomice a technologiích na jaro 2025</a> |
+      
+      
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+ 
+  </body>
+</html>
