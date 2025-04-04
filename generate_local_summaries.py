@@ -441,6 +441,329 @@ Text k shrnutí:
         return stats
 
 
+class KeywordManager:
+    def __init__(self, posts_dir="_posts", data_dir="_data"):
+        self.posts_dir = Path(posts_dir)
+        self.data_file = Path(data_dir) / "pojmy.json"
+        print(f"Inicializace s data_file: {self.data_file}")
+        self.known_keywords = self.load_or_create_keywords_file()
+        self.setup_patterns()
+
+    def setup_patterns(self):
+        """Nastaví regulární výrazy pro detekci klíčových slov."""
+        # Vytvoříme pattern pro každé klíčové slovo
+        self.patterns = {}
+        for keyword in self.known_keywords:
+            if isinstance(keyword, str):
+                self.patterns[keyword] = re.compile(rf"\b{re.escape(keyword)}\b")
+
+    def load_or_create_keywords_file(self):
+        print(f"Načítám soubor s klíčovými slovy: {self.data_file}")
+        if self.data_file.exists():
+            print("Soubor existuje, načítám...")
+            with open(self.data_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                # Načteme klíčová slova z pole keywords
+                keywords = []
+                if "keywords" in data:
+                    for item in data["keywords"]:
+                        if "keyword" in item:
+                            keywords.append(item["keyword"])
+                            # Přidáme i variace, pokud existují
+                            if "variations" in item:
+                                keywords.extend(item["variations"])
+                print(f"Načteno {len(keywords)} klíčových slov")
+                return keywords
+        else:
+            print("Soubor neexistuje, vytvářím nový...")
+            self.data_file.parent.mkdir(parents=True, exist_ok=True)
+            return []
+
+    def save_keywords(self):
+        print(f"Ukládám klíčová slova do {self.data_file}")
+        print(f"Počet klíčových slov k uložení: {len(self.known_keywords)}")
+        
+        self.data_file.parent.mkdir(parents=True, exist_ok=True)
+        
+        with open(self.data_file, 'w', encoding='utf-8') as f:
+            json.dump(self.known_keywords, f, ensure_ascii=False, indent=2)
+        
+        print("Soubor byl úspěšně uložen")
+        
+        if self.data_file.exists():
+            print(f"Soubor existuje a má velikost {self.data_file.stat().st_size} bajtů")
+        else:
+            print("CHYBA: Soubor nebyl vytvořen!")
+
+    def get_posts_files(self):
+        """Vrátí seznam všech markdown souborů v adresáři _posts a jeho podadresářích."""
+        print(f"\nKontroluji adresář: {self.posts_dir.absolute()}")
+        
+        if not self.posts_dir.exists():
+            print(f"Chyba: Adresář '{self.posts_dir.absolute()}' neexistuje!")
+            return []
+            
+        # Vypíšeme obsah adresáře pro debug
+        print("\nObsah adresáře _posts:")
+        for item in self.posts_dir.iterdir():
+            print(f"  - {item.name} ({'složka' if item.is_dir() else 'soubor'})")
+            
+        # Hledáme všechny .md soubory rekurzivně
+        print("\nHledám .md soubory v podadresářích...")
+        files = []
+        for path in self.posts_dir.rglob("*.md"):
+            if path.is_file():
+                files.append(path)
+                print(f"  Nalezen: {path.relative_to(self.posts_dir)}")
+        
+        if not files:
+            print(f"\nVarování: V adresáři '{self.posts_dir.absolute()}' a jeho podadresářích nebyly nalezeny žádné .md soubory!")
+            return []
+            
+        print(f"\nCelkem nalezeno {len(files)} .md souborů")
+        return files
+
+    def validate_files(self, files):
+        if not self.posts_dir.exists():
+            print(f"Chyba: Adresář '{self.posts_dir}' neexistuje!")
+            return False
+
+        if not files:
+            print(f"Chyba: V adresáři '{self.posts_dir}' a jeho podadresářích nebyly nalezeny žádné markdown soubory!")
+            return False
+
+        return True
+
+    def analyze_posts(self):
+        """Projde články a najde výskyty klíčových slov z pojmy.json."""
+        files = self.get_posts_files()
+        if not self.validate_files(files):
+            return
+
+        print(f"Nalezeno {len(files)} souborů ke zpracování...")
+        total_found = 0
+        
+        for file in files:
+            relative_path = str(file.relative_to(self.posts_dir))
+            print(f"\nAnalyzuji: {relative_path}")
+            
+            try:
+                with open(file, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                for keyword in self.known_keywords:
+                    if not isinstance(keyword, str):
+                        continue
+                        
+                    # Kontrola, zda slovo není již prolinkované
+                    # 1. Kontrola HTML odkazů
+                    if f"<a href=" in content and keyword in content:
+                        # Pokud je v HTML odkazu, přeskočíme
+                        continue
+                        
+                    # 2. Kontrola Markdown odkazů
+                    if f"[{keyword}](" in content or f"[{keyword}][" in content:
+                        # Pokud je v Markdown odkazu, přeskočíme
+                        continue
+                    
+                    # 3. Kontrola, zda slovo není součástí jiného odkazu
+                    # Hledáme pattern [text](url) nebo [text][ref]
+                    if re.search(rf"\[[^\]]*{re.escape(keyword)}[^\]]*\]\([^)]*\)", content) or \
+                       re.search(rf"\[[^\]]*{re.escape(keyword)}[^\]]*\]\[[^\]]*\]", content):
+                        continue
+                    
+                    # Hledáme celé slovo
+                    pattern = rf"\b{re.escape(keyword)}\b"
+                    
+                    if re.search(pattern, content):
+                        print(f"\nNalezeno '{keyword}' v {relative_path}")
+                        print("Přidat odkaz? (a/n): ", end='')
+                        if input().lower() == 'a':
+                            # Vytvoříme URL z klíčového slova
+                            url = f"/{keyword.lower().replace(' ', '-')}/"
+                            # Nahradíme slovo Markdown odkazem
+                            content = re.sub(
+                                pattern,
+                                f"[{keyword}]({url})",
+                                content
+                            )
+                            with open(file, 'w', encoding='utf-8') as f:
+                                f.write(content)
+                            print(f"✓ Odkaz přidán")
+                            total_found += 1
+                            
+            except Exception as e:
+                print(f"Chyba při zpracování souboru {relative_path}: {str(e)}")
+        
+        print(f"\nHotovo! Nalezeno a zpracováno {total_found} výskytů klíčových slov.")
+
+    def add_links_to_posts(self):
+        """Přidá odkazy na klíčová slova do markdown souborů."""
+        if not self.known_keywords:
+            print("Žádná klíčová slova nejsou definována v pojmy.json")
+            return
+
+        print("\nPřidávám odkazy do článků...")
+        files = self.get_posts_files()
+        if not files:
+            return
+
+        total_modified = 0
+        for file_path in files:
+            print(f"\nZpracovávám soubor: {file_path}")
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                
+                original_content = content
+                modified = False
+                
+                for keyword in self.known_keywords:
+                    if not isinstance(keyword, str):
+                        continue
+                        
+                    # Kontrola, zda slovo není již prolinkované
+                    # 1. HTML odkaz
+                    html_pattern = f"(?<!<[^>]*)({re.escape(keyword)})(?![^<]*>)"
+                    # 2. Markdown inline odkaz
+                    md_inline_pattern = f"(?<!\\[)({re.escape(keyword)})(?!\\]\\([^)]*\\))"
+                    # 3. Markdown reference odkaz
+                    md_ref_pattern = f"(?<!\\[)({re.escape(keyword)})(?!\\]\\[[^\\]]*\\]|\\])"
+                    
+                    # Kombinovaný pattern pro kontrolu všech typů odkazů
+                    combined_pattern = f"(?<!<[^>]*|\\[)({re.escape(keyword)})(?![^<]*>|\\]\\([^)]*\\)|\\]\\[[^\\]]*\\]|\\])"
+                    
+                    if re.search(combined_pattern, content):
+                        print(f"\nNalezeno '{keyword}' v {file_path}")
+                        print("Přidat odkaz? (a/n): ", end='')
+                        if input().lower() == 'a':
+                            # Nahradíme slovo HTML odkazem
+                            content = re.sub(
+                                combined_pattern,
+                                f"<a href='/{keyword.lower().replace(' ', '-')}/' class='keyword-link'>{keyword}</a>",
+                                content
+                            )
+                            modified = True
+                
+                if modified:
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        f.write(content)
+                    print(f"✓ Soubor {file_path} byl upraven")
+                    total_modified += 1
+                else:
+                    print("Žádné změny nebyly provedeny")
+                    
+            except Exception as e:
+                print(f"Chyba při zpracování souboru {file_path}: {str(e)}")
+        
+        print(f"\nHotovo! Upraveno {total_modified} souborů.")
+
+    def show_keywords(self):
+        if not self.known_keywords:
+            print("Žádná klíčová spojení nejsou definována")
+            return
+
+        sorted_keywords = sorted(
+            self.known_keywords.items(),
+            key=lambda x: (x[1].get('category', 'Nezařazeno'), -x[1].get('count', 0))
+        )
+        
+        current_category = None
+        print("\nExistující klíčová spojení:")
+        for id, data in sorted_keywords:
+            category = data.get('category', 'Nezařazeno')
+            if current_category != category:
+                current_category = category
+                print(f"\n=== {current_category} ===")
+            
+            print(f"\nID: {id}")
+            print(f"Název: {data.get('name', 'Není definován')}")
+            print(f"Popis: {data.get('description', 'Není definován')}")
+            print(f"URL: {data.get('url', 'Není definována')}")
+            print(f"Počet výskytů: {data.get('count', 0)}")
+            print(f"Vytvořeno: {data.get('created', 'Není definováno')}")
+            print(f"Naposledy nalezeno: {data.get('last_found', 'Není definováno')}")
+
+    def edit_keyword(self):
+        self.show_keywords()
+        
+        print("\nZadejte ID klíčového spojení pro úpravu: ")
+        id = input().strip()
+        
+        if id not in self.known_keywords:
+            print("Klíčové spojení nebylo nalezeno")
+            return
+        
+        keyword = self.known_keywords[id]
+        print(f"\nÚprava: {keyword['name']}")
+        print("1. Upravit název")
+        print("2. Upravit popis")
+        print("3. Upravit URL")
+        print("4. Smazat")
+        
+        print("Vyberte akci (1-4): ")
+        choice = input().strip()
+        
+        if choice == '1':
+            print("Nový název: ")
+            keyword['name'] = input().strip()
+        elif choice == '2':
+            print("Nový popis: ")
+            keyword['description'] = input().strip()
+        elif choice == '3':
+            print("Nové URL: ")
+            keyword['url'] = input().strip()
+        elif choice == '4':
+            del self.known_keywords[id]
+        
+        self.save_keywords()
+        print("Změny byly uloženy")
+
+    def show_main_menu(self):
+        print("\n=== Správce klíčových spojení ===")
+        print("1. Analyzovat články a najít nová klíčová spojení")
+        print("2. Spravovat existující klíčová spojení")
+        print("3. Konec")
+        print("\nVyberte akci (1-3): ")
+
+    def show_editor_menu(self):
+        while True:
+            print("\n=== Editor klíčových spojení ===")
+            print("1. Zobrazit existující klíčová spojení")
+            print("2. Přidat odkazy do článků")
+            print("3. Upravit existující klíčové spojení")
+            print("4. Zpět do hlavního menu")
+            
+            print("\nVyberte akci (1-4): ")
+            choice = input().strip()
+            
+            if choice == '1':
+                self.show_keywords()
+            elif choice == '2':
+                self.add_links_to_posts()
+            elif choice == '3':
+                self.edit_keyword()
+            elif choice == '4':
+                break
+            else:
+                print("Neplatná volba")
+
+    def run(self):
+        while True:
+            self.show_main_menu()
+            choice = input().strip()
+
+            if choice == '1':
+                print("Spouštím automatickou analýzu článků...")
+                self.analyze_posts()
+            elif choice == '2':
+                self.show_editor_menu()
+            elif choice == '3':
+                print("Ukončuji program...")
+                break
+            else:
+                print(f"Neplatná volba: '{choice}'")
+
 def main():
     print("\nVítejte v nástroji pro práci s Markdown články!")
     
@@ -449,12 +772,13 @@ def main():
     print("1. Generování shrnutí článků")
     print("2. Validace Markdown souborů")
     print("3. Oprava problémů s YAML hlavičkami")
+    print("4. Správa klíčových spojení")
     
     while True:
-        mode = input("Zadejte režim (1-3): ").strip()
-        if mode in ["1", "2", "3"]:
+        mode = input("Zadejte režim (1-4): ").strip()
+        if mode in ["1", "2", "3", "4"]:
             break
-        print("Neplatná volba. Zadejte číslo 1-3.")
+        print("Neplatná volba. Zadejte číslo 1-4.")
     
     # Režim generování shrnutí
     if mode == "1":
@@ -524,7 +848,17 @@ def main():
             print(f"\n❌ {action_text} dokončena s chybami.")
             if not fix_issues:
                 print("\nPro automatickou opravu chyb spusťte program znovu v režimu opravy (3).")
-
+    
+    # Režim správy klíčových spojení
+    elif mode == "4":
+        try:
+            print("Spouštím správce klíčových spojení...")
+            manager = KeywordManager()
+            manager.run()
+        except Exception as e:
+            print(f"CHYBA v hlavním programu: {str(e)}")
+            import traceback
+            print(traceback.format_exc())
 
 if __name__ == "__main__":
     main()
