@@ -1,11 +1,11 @@
 [
   
     {
-      "title"    : "Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu",
-      "url"      : "//item/architektura-vibecoding/",
-      "category" : "vibe coding, AI",
+      "title"    : "",
+      "url"      : "//item/2025-04-03-architektura-vibecoding/",
+      "category" : "",
       "tags"     : "",
-      "date"     : "3.4.2025",
+      "date"     : "4.4.2025",
       "content"  : "Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.Pojdme si spolu projít zásady, které se mi za posledních pár pokusů vydestilovaly jako základ úspěchu a rychlého posunu s vibe codingem:Hlavní princip: Modularizace a zjednodušeníKlíčem k úspěšnému vývoji pomocí vibe codingu je..."
     },
   
@@ -352,7 +352,7 @@
     },
   
     {
-      "title"    : "Nobelova cena za neuronové sítě",
+      "title"    : "Nobelova cena za [neuronové sítě](/neuronové-sítě/)",
       "url"      : "//item/nobelova-cena-za-neuronove-site/",
       "category" : "Patrickův newsletter, AI, Internet, Česko, EU, Automotive",
       "tags"     : "",
@@ -843,7 +843,7 @@
       "category" : "Patrickův newsletter, Apple, Google, AI, Sociální sítě, Mobilní technologie, Internet, Česko, EU, Automotive",
       "tags"     : "",
       "date"     : "18.7.2024",
-      "content"  : "AI pro **tvoru hudebních skladebSuno **zprovoznilo možnost nahrát až minutovou ukázku stylu, do něhož se její AI vygenerovaná skladba má přizpůsobit. Tak jsem si vytvořil hymnu Flotily Země pro moji rozepsanou knihu a pokusil jsem se donutit Suno, aby ji ztvárnila do podoby českého zpěváka. Schválně, jestli poznáte, kterého… Samsung představoval nové ohebné mobily a také a především svůj první chytrý prsten. Detaily česky zde. Mimochodem, o chytrém prstenu Apple se prosakují informace - jsem zvědav. A skládací ohebné telefony mi začínají být sympatické, hodně do nich naskočila Motorola svou revival řadou RAZR. Konečně provedení telefonu, které se vejde do..."
+      "content"  : "AI pro **tvoru hudebních skladebSuno **zprovoznilo možnost nahrát až minutovou ukázku stylu, do něhož se její AI vygenerovaná skladba má přizpůsobit. Tak jsem si vytvořil hymnu Flotily Země pro moji rozepsanou knihu a pokusil jsem se donutit Suno, aby ji ztvárnila do podoby českého zpěváka. Schválně, jestli poznáte, kterého…Samsung představoval nové ohebné mobily a také a především svůj první chytrý prsten. Detaily česky zde. Mimochodem, o chytrém prstenu Apple se prosakují informace - jsem zvědav. A skládací ohebné telefony mi začínají být sympatické, hodně do nich naskočila Motorola svou revival řadou RAZR. Konečně provedení telefonu, které se vejde do kapsy..."
     },
   
     {
@@ -25881,7 +25881,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu ( 3.04.2025) MCP získává širokou podporu včetně OpenAI a Microsoftu (28.03.2025) Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi (27.03.2025) 🧠 AI nástroje pro programování - přehled (26.03.2025)..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI MCP získává širokou podporu včetně OpenAI a Microsoftu (28.03.2025) Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi (27.03.2025) 🧠 AI nástroje pro programování - přehled (26.03.2025) Nové funkce v Claude Code pro programování s AI (22.03.2025) Surya Ganguli..."
     }
     
   
@@ -25901,7 +25901,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 186 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 66 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 185 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 66 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
