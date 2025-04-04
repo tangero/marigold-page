@@ -25,7 +25,9 @@
   "keywords": [
     {
       "keyword": "MCP",
-      "variations": ["Model Context Protocol"],
+      "variations": [
+        "Model Context Protocol"
+      ],
       "link": "/ai/mcp/"
     },
     {
@@ -46,57 +48,93 @@
     },
     {
       "keyword": "token",
-      "variations": ["tokeny", "tokenů"],
+      "variations": [
+        "tokeny",
+        "tokenů"
+      ],
       "link": "/ai/tokeny-versus-slova/"
     },
     {
       "keyword": "transformátory",
-      "variations": ["transformátorů", "transformers"],
+      "variations": [
+        "transformátorů",
+        "transformers"
+      ],
       "link": "/ai/transformatory/"
     },
     {
       "keyword": "halucinace",
-      "variations": ["halucinací", "halucinuuje"],
+      "variations": [
+        "halucinací",
+        "halucinuuje"
+      ],
       "link": "/ai/halucinace-ai/"
     },
     {
       "keyword": "AI agenti",
-      "variations": ["autonomní agenti", "AI agent", "Agenti v AI", "Agent v AI", "autonomní agent"],
+      "variations": [
+        "autonomní agenti",
+        "AI agent",
+        "Agenti v AI",
+        "Agent v AI",
+        "autonomní agent"
+      ],
       "link": "/ai/agenti/"
     },
     {
       "keyword": "neuronové sítě",
-      "variations": ["neuronová síť", "neuronka"],
+      "variations": [
+        "neuronová síť",
+        "neuronka"
+      ],
       "link": "/ai/neuronove-site/"
     },
     {
       "keyword": "strojové učení",
-      "variations": ["strojového učení", "machine learning"],
+      "variations": [
+        "strojového učení",
+        "machine learning"
+      ],
       "link": "/ai/strojove-uceni-machine-learning/"
     },
     {
       "keyword": "vibe coding",
-      "variations": ["programování s AI"],
+      "variations": [
+        "programování s AI"
+      ],
       "link": "/item/programovani-s-ai/"
     },
     {
       "keyword": "Evolved Packet Core",
-      "variations": ["EPC"],
+      "variations": [
+        "EPC"
+      ],
       "link": "/mobilnisite/epc-evolved-packet-core-lte/"
     },
     {
       "keyword": "NG-RAN",
-      "variations": ["cran", "vran", "Open RAN", "Open RAN"],
+      "variations": [
+        "cran",
+        "vran",
+        "Open RAN",
+        "Open RAN"
+      ],
       "link": "/mobilnisite/epc-evolved-packet-core-lte/"
     },
     {
       "keyword": "Non Terrestrial Networks",
-      "variations": ["NTN", "Non-Terrestrial Networks", "nezemské sítě"],
+      "variations": [
+        "NTN",
+        "Non-Terrestrial Networks",
+        "nezemské sítě"
+      ],
       "link": "/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/"
     },
     {
       "keyword": "Integrated Access and Backhaul",
-      "variations": ["IAB"],
+      "variations": [
+        "IAB"
+      ],
       "link": "/item/integrated_access_and_backhaul_iab_5G/"
     },
     {
@@ -105,43 +143,598 @@
     },
     {
       "keyword": "UMTS Release 6",
-      "variations": ["3GPP Release 6"],
+      "variations": [
+        "3GPP Release 6"
+      ],
       "link": "/item/umts-release-6/"
     },
     {
       "keyword": "UMTS Release 7",
-      "variations": ["3GPP Release 7"],
+      "variations": [
+        "3GPP Release 7"
+      ],
       "link": "/item/vysokorychlostni-data-hspa-aneb-3gpp-release-7/"
     },
     {
       "keyword": "UMTS Release 8",
-      "variations": ["3GPP Release 8"],
+      "variations": [
+        "3GPP Release 8"
+      ],
       "link": "/item/3gpp-release-8-system-architecture-evolution-sae-a-evolved-packet-core-epc-v-ramci-lte-siti/"
     },
     {
       "keyword": "UMTS Release 10",
-      "variations": ["3GPP Release 10", "LTE Advanced", "LTE-Advanced"],
+      "variations": [
+        "3GPP Release 10",
+        "LTE Advanced",
+        "LTE-Advanced"
+      ],
       "link": "/mobilnisite/3gpp-release-10/"
     },
     {
       "keyword": "UMTS Release 18",
-      "variations": ["3GPP Release 18", "5G Advanced", "5G-Advanced"],
+      "variations": [
+        "3GPP Release 18",
+        "5G Advanced",
+        "5G-Advanced"
+      ],
       "link": "/item/5G_advanced_3GPP_Release-18/"
     },
     {
       "keyword": "UMTS Release 19",
-      "variations": ["3GPP Release 19"],
+      "variations": [
+        "3GPP Release 19"
+      ],
       "link": "/mobilnisite/3gpp-release-19/"
     },
     {
       "keyword": "RedCap",
-      "variations": ["eRedCap"],
+      "variations": [
+        "eRedCap"
+      ],
       "link": "/mobilnisite/redcap/"
     },
     {
       "keyword": "WiFi 7",
-      "variations": ["Wi-Fi 7", "WiFi 7", "WiFi7", "IEEE 802.11be", "IEEE802.11be"],
+      "variations": [
+        "Wi-Fi 7",
+        "WiFi 7",
+        "WiFi7",
+        "IEEE 802.11be",
+        "IEEE802.11be"
+      ],
       "link": "/item/wi-fi-7-802-11be/"
     }
-  ]
+  ],
+  "lte": {
+    "name": "LTE",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 44,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "android": {
+    "name": "Android",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 35,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "iphone": {
+    "name": "iPhone",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 120,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "google": {
+    "name": "Google",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 237,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "samsung": {
+    "name": "Samsung",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 64,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "windows": {
+    "name": "Windows",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 153,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "html5": {
+    "name": "HTML5",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 1,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "qualcomm": {
+    "name": "Qualcomm",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 40,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "5g": {
+    "name": "5G",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 51,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "bluetooth": {
+    "name": "Bluetooth",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 37,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "4g": {
+    "name": "4G",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 49,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "3g": {
+    "name": "3G",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 226,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "microsoft": {
+    "name": "Microsoft",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 117,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "amazon": {
+    "name": "Amazon",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 52,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "apple": {
+    "name": "Apple",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 233,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "larry-page": {
+    "name": "Larry Page",
+    "description": "",
+    "url": "",
+    "category": "Osoba",
+    "count": 1,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "tesla": {
+    "name": "Tesla",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 23,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "aws": {
+    "name": "AWS",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 13,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "ibm": {
+    "name": "IBM",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 40,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "huawei": {
+    "name": "Huawei",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 29,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "nokia": {
+    "name": "Nokia",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 240,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "intel": {
+    "name": "Intel",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 78,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "macbook": {
+    "name": "MacBook",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 12,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "ipad": {
+    "name": "iPad",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 22,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "wi-fi": {
+    "name": "Wi-Fi",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 81,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "google-cloud": {
+    "name": "Google Cloud",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 4,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "oauth": {
+    "name": "OAuth",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 1,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "ios": {
+    "name": "iOS",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 38,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "amd": {
+    "name": "AMD",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 14,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "chatgpt": {
+    "name": "ChatGPT",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 37,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "meta": {
+    "name": "Meta",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 21,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "azure": {
+    "name": "Azure",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 5,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "rest": {
+    "name": "REST",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 1,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "elon-musk": {
+    "name": "Elon Musk",
+    "description": "",
+    "url": "",
+    "category": "Osoba",
+    "count": 35,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "5g-nr": {
+    "name": "5G NR",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 1,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "usb-c": {
+    "name": "USB-C",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 10,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "lightning": {
+    "name": "Lightning",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 4,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "macos": {
+    "name": "macOS",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 8,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "surface": {
+    "name": "Surface",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 4,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "ericsson": {
+    "name": "Ericsson",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 74,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "steve-jobs": {
+    "name": "Steve Jobs",
+    "description": "",
+    "url": "",
+    "category": "Osoba",
+    "count": 14,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "nfc": {
+    "name": "NFC",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 9,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "imac": {
+    "name": "iMac",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 10,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "hdmi": {
+    "name": "HDMI",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 5,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "bill-gates": {
+    "name": "Bill Gates",
+    "description": "",
+    "url": "",
+    "category": "Osoba",
+    "count": 11,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "blockchain": {
+    "name": "Blockchain",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 6,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "mark-zuckerberg": {
+    "name": "Mark Zuckerberg",
+    "description": "",
+    "url": "",
+    "category": "Osoba",
+    "count": 8,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "satya-nadella": {
+    "name": "Satya Nadella",
+    "description": "",
+    "url": "",
+    "category": "Osoba",
+    "count": 2,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "thunderbolt": {
+    "name": "Thunderbolt",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 2,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "displayport": {
+    "name": "DisplayPort",
+    "description": "",
+    "url": "",
+    "category": "Technologie",
+    "count": 1,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "nvidia": {
+    "name": "NVIDIA",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 1,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "jensen-huang": {
+    "name": "Jensen Huang",
+    "description": "",
+    "url": "",
+    "category": "Osoba",
+    "count": 2,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "sundar-pichai": {
+    "name": "Sundar Pichai",
+    "description": "",
+    "url": "",
+    "category": "Osoba",
+    "count": 1,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "tim-cook": {
+    "name": "Tim Cook",
+    "description": "",
+    "url": "",
+    "category": "Osoba",
+    "count": 2,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "airpods": {
+    "name": "AirPods",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 2,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "larry-ellison": {
+    "name": "Larry Ellison",
+    "description": "",
+    "url": "",
+    "category": "Osoba",
+    "count": 1,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "pixel": {
+    "name": "Pixel",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 4,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "oracle": {
+    "name": "Oracle",
+    "description": "",
+    "url": "",
+    "category": "Firma",
+    "count": 2,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  },
+  "thinkpad": {
+    "name": "ThinkPad",
+    "description": "",
+    "url": "",
+    "category": "Produkt",
+    "count": 2,
+    "created": "2025-04-04",
+    "last_found": "2025-04-04"
+  }
 }
