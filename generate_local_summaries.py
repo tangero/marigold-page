@@ -551,44 +551,72 @@ class KeywordManager:
                 with open(file, 'r', encoding='utf-8') as f:
                     content = f.read()
                 
-                for keyword in self.known_keywords:
-                    if not isinstance(keyword, str):
+                # Rozdělíme obsah na YAML Front Matter a tělo článku
+                parts = content.split('---', 2)
+                if len(parts) < 3:
+                    print(f"Chyba: Neplatný formát souboru {relative_path} - chybí YAML Front Matter")
+                    continue
+                
+                front_matter = parts[1]
+                body = parts[2]
+                
+                # Načteme data z pojmy.json pro kontrolu cest
+                with open(self.data_file, 'r', encoding='utf-8') as f:
+                    keywords_data = json.load(f)
+                
+                for keyword_item in keywords_data.get("keywords", []):
+                    keyword = keyword_item.get("keyword")
+                    if not keyword:
                         continue
                         
-                    # Kontrola, zda slovo není již prolinkované
+                    # Získáme cestu odkazu
+                    link = keyword_item.get("link", "")
+                    if not link:
+                        continue
+                        
+                    # Kontrola, zda článek není ve stejné cestě jako cíl odkazu
+                    if link.startswith("/"):
+                        # Odstraníme počáteční a koncové lomítko
+                        link_path = link.strip("/")
+                        # Získáme cestu článku bez přípony .md
+                        article_path = str(file.relative_to(self.posts_dir)).replace(".md", "")
+                        # Kontrola, zda cesta článku obsahuje cestu odkazu
+                        if link_path in article_path:
+                            print(f"Přeskočeno '{keyword}' - článek je ve stejné cestě jako cíl odkazu")
+                            continue
+                    
+                    # Kontrola, zda slovo není již prolinkované v těle článku
                     # 1. Kontrola HTML odkazů
-                    if f"<a href=" in content and keyword in content:
+                    if f"<a href=" in body and keyword in body:
                         # Pokud je v HTML odkazu, přeskočíme
                         continue
                         
                     # 2. Kontrola Markdown odkazů
-                    if f"[{keyword}](" in content or f"[{keyword}][" in content:
+                    if f"[{keyword}](" in body or f"[{keyword}][" in body:
                         # Pokud je v Markdown odkazu, přeskočíme
                         continue
                     
                     # 3. Kontrola, zda slovo není součástí jiného odkazu
                     # Hledáme pattern [text](url) nebo [text][ref]
-                    if re.search(rf"\[[^\]]*{re.escape(keyword)}[^\]]*\]\([^)]*\)", content) or \
-                       re.search(rf"\[[^\]]*{re.escape(keyword)}[^\]]*\]\[[^\]]*\]", content):
+                    if re.search(rf"\[[^\]]*{re.escape(keyword)}[^\]]*\]\([^)]*\)", body) or \
+                       re.search(rf"\[[^\]]*{re.escape(keyword)}[^\]]*\]\[[^\]]*\]", body):
                         continue
                     
-                    # Hledáme celé slovo
+                    # Hledáme celé slovo v těle článku
                     pattern = rf"\b{re.escape(keyword)}\b"
                     
-                    if re.search(pattern, content):
+                    # Najdeme první výskyt slova
+                    match = re.search(pattern, body)
+                    if match:
                         print(f"\nNalezeno '{keyword}' v {relative_path}")
                         print("Přidat odkaz? (a/n): ", end='')
                         if input().lower() == 'a':
-                            # Vytvoříme URL z klíčového slova
-                            url = f"/{keyword.lower().replace(' ', '-')}/"
-                            # Nahradíme slovo Markdown odkazem
-                            content = re.sub(
-                                pattern,
-                                f"[{keyword}]({url})",
-                                content
-                            )
+                            # Nahradíme pouze první výskyt slova Markdown odkazem v těle článku
+                            new_body = body[:match.start()] + f"[{keyword}]({link})" + body[match.end():]
+                            # Složíme obsah zpět dohromady
+                            new_content = f"---{front_matter}---{new_body}"
                             with open(file, 'w', encoding='utf-8') as f:
-                                f.write(content)
+                                f.write(new_content)
                             print(f"✓ Odkaz přidán")
                             total_found += 1
                             

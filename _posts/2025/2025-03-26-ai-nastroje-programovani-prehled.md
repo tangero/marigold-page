@@ -7,7 +7,7 @@ categories:
 - programování
 - vibe coding
 layout: post
-post_excerpt: Přehled AI nástrojů pro programování a vibe coding podle jejich použití,
+post_excerpt: Přehled AI nástrojů pro programování a [vibe coding](/vibe-coding/) podle jejich použití,
   zaměření a výhod.
 summary_points:
 - AI programování získává popularitu, nové nástroje se objevují denně.

@@ -2,7 +2,7 @@
 audio_url: http://www.marigold.cz/audio/2025-04-03-architektura-vibecoding.mp3
 audiooff: false
 categories:
-- vibe coding
+- [vibe coding](/vibe-coding/)
 - AI
 date: 2025-04-03
 layout: post
@@ -10,7 +10,7 @@ post_excerpt: "Vibe coding, programování s AI, funguje lépe, když mu návrh 
 thumbnail: https://www.marigold.cz/assets/vibecoding.jpg
 title: "Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu"
 ---
-Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě \- a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”. 
+Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže [vibe coding](/vibe-coding/), jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě \- a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”. 
 
 Pojdme si spolu projít zásady, které se mi za posledních pár pokusů vydestilovaly jako základ úspěchu a rychlého posunu s vibe codingem: 
 
@@ -58,7 +58,7 @@ Proč tyto limity? Příliš mnoho souborů a řádků kódu znamená více kont
 
 ### **3\. Implementace business logiky v automatizačním frameworku**
 
-Klíčovým rozdílem oproti tradičním přístupům je přesun business logiky z backend kódu do vizuálního automatizačního frameworku jako je n8n, Make,  Zapier nebo PowerApps, pokud je to jen trochu možné. Především tak dostanete ověřenou funkcionalitu, jejíž fungování si můžete vizualizovat. I jako neprogramátor pak vidíte, co se s daty děje, jak a kudy putují a jak se zpracovávají. Ostatně, na propojování různých systémů je vibe coding a rychlá stavba prototypů založena \- můžete se tomu vysmívat, ale je to podobné, jako v Linuxu, kde využíváte vstupně/výstupní rozhraní nejrůznějších démonů, utilit či knihoven. Jen to má líbivější kabátek a “matlačku” mezi tím dělá AI nebo klikání  myší v rozhraní.  
+Klíčovým rozdílem oproti tradičním přístupům je přesun business logiky z backend kódu do vizuálního automatizačního frameworku jako je n8n, Make,  Zapier nebo PowerApps, pokud je to jen trochu možné. Především tak dostanete ověřenou funkcionalitu, jejíž fungování si můžete vizualizovat. I jako neprogramátor pak vidíte, co se s daty děje, jak a kudy putují a jak se zpracovávají. Ostatně, na propojování různých systémů je [vibe coding](/vibe-coding/) a rychlá stavba prototypů založena \- můžete se tomu vysmívat, ale je to podobné, jako v Linuxu, kde využíváte vstupně/výstupní rozhraní nejrůznějších démonů, utilit či knihoven. Jen to má líbivější kabátek a “matlačku” mezi tím dělá AI nebo klikání  myší v rozhraní.  
 
 Dodržením pravidla přesunu logiky do automatizačního frameworku dosáhnete několika zásadních výhod:
 
@@ -68,7 +68,7 @@ Dodržením pravidla přesunu logiky do automatizačního frameworku dosáhnete 
 
 ## **Důsledky pro celkovou architekturu**
 
-Tento vibe coding přístup vede k systému složenému ze tří jasně oddělených vrstev:
+Tento [vibe coding](/vibe-coding/) přístup vede k systému složenému ze tří jasně oddělených vrstev:
 
 1. **Frontend** (vibe coded) \- zodpovědný pouze za prezentaci  
 2. **Backend API** (vibe coded) \- zodpovědný za ukládání, zpracování a komunikaci  

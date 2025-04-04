@@ -41,7 +41,7 @@ Před začátkem integrace se ujistěte, že máte připraveno:
 
 ### Vytvoření a konfigurace projektu v Google Cloud
 
-1. Přejděte na [Google Cloud Console](https://console.cloud.<a href='/google/' class='keyword-link'>google</a>.com/)
+1. Přejděte na [Google Cloud Console](https://console.cloud.google.com/)
 2. Vytvořte nový projekt nebo vyberte existující
 3. V navigačním menu vyberte "APIs & Services" > "Library"
 4. Vyhledejte "Google Search Console API" a aktivujte jej

@@ -13,7 +13,7 @@ summary_points:
 - Energetická náročnost AI je obrovská, lidský mozek spotřebuje jen 20 wattů.
 - Vysvětlitelná AI pomáhá pochopit fungování mozku, například sítnice a Newtonovy
   zákony.
-- Spojení mysli a stroje umožňuje číst myšlenky a vyvolávat halucinace ovládáním neuronů.
+- Spojení mysli a stroje umožňuje číst myšlenky a vyvolávat [halucinace](/halucinace/) ovládáním neuronů.
 thumbnail: https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145110/9b1dbc4f-436c-4833-af8e-64d1e5e96145/SuryaGanguli_2024S-embed.jpg
 title: Surya Ganguli - Může se umělá inteligence vyrovnat lidskému mozku?
 ---

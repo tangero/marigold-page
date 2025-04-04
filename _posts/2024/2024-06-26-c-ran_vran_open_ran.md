@@ -5,7 +5,7 @@ categories:
 - 5G Advanced
 - 4G
 excerpt: Technologie pro radiové přístupové sítě se vyvíjejí. Pojďme se podívat na
-  nejmodernější koncepty, které se dostávají do sítí 5G, 5G Advanced a také do 6G.
+  nejmodernější koncepty, které se dostávají do sítí 5G, [5G Advanced](/5g-advanced/) a také do 6G.
 layout: post
 post_date: 2024-09-26 13:48:16
 summary_points:
@@ -91,7 +91,7 @@ Tato tabulka shrnuje klíčové rozdíly mezi těmito třemi přístupy k archit
 
 ## Jak je to se specifikacemi a standardizací?
 
-V 3GPP Release 14 jsou zahájeny práce na rozdělení funkcí RAN, příprava na nové architektury včetně C-RAN. V Release 15 pak přistupuje  formální specifikace CU/DU, dokončuje se rozdělení pro NG-RAN a je tu první implementace virtualizovaných funkcí. V Release 16 je pak plná podpora vRAN. S ohledem na to, že Open RAN je vlastně otevřená a interoperabilní vRAN, je to s její specifikací trochu jinak.
+V 3GPP Release 14 jsou zahájeny práce na rozdělení funkcí RAN, příprava na nové architektury včetně C-RAN. V Release 15 pak přistupuje  formální specifikace CU/DU, dokončuje se rozdělení pro [NG-RAN](/ng-ran/) a je tu první implementace virtualizovaných funkcí. V Release 16 je pak plná podpora vRAN. S ohledem na to, že Open RAN je vlastně otevřená a interoperabilní vRAN, je to s její specifikací trochu jinak.
 
 Open RAN (O-RAN) není přímo specifikován v žádné konkrétní verzi 3GPP Release. Místo toho je O-RAN standardizován a vyvíjen prostřednictvím O-RAN Alliance, která definuje specifikace pro otevřená rozhraní mezi různými komponentami Radio Access Network (RAN). O-RAN Alliance spolupracuje s 3GPP na zajištění interoperability mezi otevřenými rozhraními a existujícími 3GPP specifikacemi.
 
