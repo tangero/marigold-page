@@ -111,7 +111,35 @@ Jaké že to skupiny osobně-počítačových přístrojů máme na trhu?
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -321,10 +349,10 @@ A takový chytrý displej by dával smysl. Což neznamená, že se někdy objev�
           
             <tr>
               <td>
-                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
+                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
                 <p class="excerpt">
                   
-                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahu...
+                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
                   
                 </p>
               </td>
@@ -332,12 +360,10 @@ A takový chytrý displej by dával smysl. Což neznamená, že se někdy objev�
           
             <tr>
               <td>
-                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
+                <a href="/item/stiglitz_konec_neoliberalismu/">👉Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin</a>
                 <p class="excerpt">
                   
-                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
-
-Proč skutečně Goldee skončilo, netuší...
+                    Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalo...
                   
                 </p>
               </td>

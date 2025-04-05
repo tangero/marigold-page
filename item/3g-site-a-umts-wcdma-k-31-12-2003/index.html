@@ -107,7 +107,35 @@ Je zajímavé podívat se na statistiku 3G sítí ke konci roku 2003. Podotýká
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -300,10 +328,10 @@ UMTS sítě jsou složitý slepenec nejroztodivnějších technologií a snaha t
           
             <tr>
               <td>
-                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
+                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
                 <p class="excerpt">
                   
-                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
+                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
                   
                 </p>
               </td>
@@ -311,10 +339,10 @@ UMTS sítě jsou složitý slepenec nejroztodivnějších technologií a snaha t
           
             <tr>
               <td>
-                <a href="/item/vase-deti-a-nase-skolstvi-oboji-bez-budoucnosti/">👉Vaše děti a naše školství -  obojí bez budoucnosti</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    Smiřte se s tím, že vaše děti jsou tvorové bez budoucnosti. Leda byste byli připraveni vyklopit pět až deset tisíc měsíčně. Takhle naplacato a natvrdo řečeno...
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>

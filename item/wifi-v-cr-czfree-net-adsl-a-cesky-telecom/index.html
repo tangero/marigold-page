@@ -107,7 +107,35 @@ Lupa v dnešním článku CZFree.Net roste a sílí hezky rekapituluje fungován
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -287,10 +315,10 @@ Tím Marigold netvrdí, že CZFree je špatná myšlenka - to rozhodně ne. Jen�
           
             <tr>
               <td>
-                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
+                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
                 <p class="excerpt">
                   
-                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
+                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don't restrict anyone else, and it is on this rule that the modern wo...
                   
                 </p>
               </td>
@@ -298,10 +326,10 @@ Tím Marigold netvrdí, že CZFree je špatná myšlenka - to rozhodně ne. Jen�
           
             <tr>
               <td>
-                <a href="/item/jak-to-bylo-s-pomazankovym-maslem/">👉Jak to bylo s pomazánkovým máslem?</a>
+                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
                 <p class="excerpt">
                   
-                    Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich otců a Ev...
+                    Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ješt...
                   
                 </p>
               </td>

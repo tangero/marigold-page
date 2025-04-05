@@ -107,7 +107,35 @@ FireFoxu se podařila opravdu slušná reklamní kampaň a média nás zleva zpr
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -325,10 +353,10 @@ A třetí škoda – už chvíli toužím po nějakém P2P software, pomocí ně
           
             <tr>
               <td>
-                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
+                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
                 <p class="excerpt">
                   
-                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don't restrict anyone else, and it is on this rule that the modern wo...
+                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
                   
                 </p>
               </td>
@@ -336,10 +364,10 @@ A třetí škoda – už chvíli toužím po nějakém P2P software, pomocí ně
           
             <tr>
               <td>
-                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
+                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
                 <p class="excerpt">
                   
-                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
+                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
                   
                 </p>
               </td>

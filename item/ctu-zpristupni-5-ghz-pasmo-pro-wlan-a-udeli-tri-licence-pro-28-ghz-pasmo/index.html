@@ -107,7 +107,35 @@ Hned dvě zprávy z ČTÚ tu máme. Především ČTÚ se rozhodlo v návaznosti
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -287,10 +315,10 @@ Je dobré, že ČTÚ reagovalo velmi rychle a samo dokonce upozorňuje, že rozh
           
             <tr>
               <td>
-                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
+                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
                 <p class="excerpt">
                   
-                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
+                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
                   
                 </p>
               </td>
@@ -298,10 +326,10 @@ Je dobré, že ČTÚ reagovalo velmi rychle a samo dokonce upozorňuje, že rozh
           
             <tr>
               <td>
-                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
+                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
                 <p class="excerpt">
                   
-                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
+                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
                   
                 </p>
               </td>

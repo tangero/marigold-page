@@ -109,7 +109,35 @@ Tak a teď už zase zalejzám, aby moh&#8217; Patrick dál převědčovat komuni
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -285,10 +313,10 @@ Tak a teď už zase zalejzám, aby moh&#8217; Patrick dál převědčovat komuni
           
             <tr>
               <td>
-                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
                 <p class="excerpt">
                   
-                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
                   
                 </p>
               </td>
@@ -296,10 +324,11 @@ Tak a teď už zase zalejzám, aby moh&#8217; Patrick dál převědčovat komuni
           
             <tr>
               <td>
-                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
+                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
                 <p class="excerpt">
                   
-                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
+                    ---
+Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůl...
                   
                 </p>
               </td>

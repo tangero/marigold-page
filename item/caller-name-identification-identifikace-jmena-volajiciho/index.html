@@ -107,7 +107,35 @@ Zapoměl jsem dodat, co je to CNI. Caller Name Identification. Myšlenka, že vo
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -291,10 +319,10 @@ Problém návrhu CNI je v několika aspektech. Zaprvé 3GPP si nějak zvláště
           
             <tr>
               <td>
-                <a href="/item/stiglitz_konec_neoliberalismu/">👉Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin</a>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
                 <p class="excerpt">
                   
-                    Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalo...
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
                   
                 </p>
               </td>
@@ -302,10 +330,10 @@ Problém návrhu CNI je v několika aspektech. Zaprvé 3GPP si nějak zvláště
           
             <tr>
               <td>
-                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
+                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
                 <p class="excerpt">
                   
-                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
+                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahu...
                   
                 </p>
               </td>

@@ -108,7 +108,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -435,10 +463,10 @@ Zábava se změní. Bude se utvářet podle diváků a okolního světa.</p>
           
             <tr>
               <td>
-                <a href="/item/projektovy-manazer-je-v-cesku-sproste-slovo-ke-skode-projektu/">👉Projektový manažer je v Česku sprosté slovo – ke škodě projektů …</a>
+                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
                 <p class="excerpt">
                   
-                    Na Makers Faire jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější ...
+                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
                   
                 </p>
               </td>
@@ -446,10 +474,10 @@ Zábava se změní. Bude se utvářet podle diváků a okolního světa.</p>
           
             <tr>
               <td>
-                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
+                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
                 <p class="excerpt">
                   
-                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
+                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
                   
                 </p>
               </td>

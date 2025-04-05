@@ -107,7 +107,35 @@ Tisková zpráva Karnevalu na sebe nedala dlouho čekat a také jeho zákaznici 
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -288,10 +316,12 @@ Další navýšení rychlostí je plánováno na první čtvrtletí příštího
           
             <tr>
               <td>
-                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
+                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
                 <p class="excerpt">
                   
-                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
+                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
+
+Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
                   
                 </p>
               </td>
@@ -299,10 +329,10 @@ Další navýšení rychlostí je plánováno na první čtvrtletí příštího
           
             <tr>
               <td>
-                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
+                <a href="/item/vase-deti-a-nase-skolstvi-oboji-bez-budoucnosti/">👉Vaše děti a naše školství -  obojí bez budoucnosti</a>
                 <p class="excerpt">
                   
-                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                    Smiřte se s tím, že vaše děti jsou tvorové bez budoucnosti. Leda byste byli připraveni vyklopit pět až deset tisíc měsíčně. Takhle naplacato a natvrdo řečeno...
                   
                 </p>
               </td>

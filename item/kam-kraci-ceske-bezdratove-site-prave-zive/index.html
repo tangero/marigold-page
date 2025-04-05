@@ -106,7 +106,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -277,10 +305,10 @@ září
           
             <tr>
               <td>
-                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
+                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
                 <p class="excerpt">
                   
-                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don't restrict anyone else, and it is on this rule that the modern wo...
+                    Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ješt...
                   
                 </p>
               </td>
@@ -288,10 +316,10 @@ září
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>

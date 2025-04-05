@@ -119,7 +119,35 @@ Takže když o tom tak přemýšlím, někdo tu má závažný problém...
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -305,10 +333,10 @@ Takže když o tom tak přemýšlím, někdo tu má závažný problém...</p>
           
             <tr>
               <td>
-                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
+                <a href="/item/jak-jsem-napsal-vlastni-zakon/">👉Jak jsem napsal vlastní zákon</a>
                 <p class="excerpt">
                   
-                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                    Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, kdy...
                   
                 </p>
               </td>
@@ -316,10 +344,10 @@ Takže když o tom tak přemýšlím, někdo tu má závažný problém...</p>
           
             <tr>
               <td>
-                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
+                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
                 <p class="excerpt">
                   
-                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
+                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
                   
                 </p>
               </td>

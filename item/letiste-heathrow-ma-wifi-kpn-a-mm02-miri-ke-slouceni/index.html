@@ -107,7 +107,35 @@ Na londýnském letišti Heathrow můžete používat přístup do WiFi sítě. 
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -285,10 +313,10 @@ Hagiwara Sys-Com hodlá vyrábět <strong>WiFi SD a Memorystick karty pro Palmy<
           
             <tr>
               <td>
-                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
+                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
                 <p class="excerpt">
                   
-                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
+                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
                   
                 </p>
               </td>
@@ -296,10 +324,11 @@ Hagiwara Sys-Com hodlá vyrábět <strong>WiFi SD a Memorystick karty pro Palmy<
           
             <tr>
               <td>
-                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
+                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
                 <p class="excerpt">
                   
-                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
+                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
+Tohle je dalš...
                   
                 </p>
               </td>

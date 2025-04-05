@@ -106,7 +106,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -181,31 +209,31 @@
           
             
               <tr>
-                <td>LeRoy Neiman</td>
-                <td><a href="/obrazy/leroy-neiman-rocky-balboa/">Rocky Balboa</a></td>
+                <td>Matthew Wong</td>
+                <td><a href="/obrazy/matthew-wong-the-kingdom/">The Kingdom</a></td>
                 <td>
                   
-                    <a href="/obrazy/leroy-neiman-rocky-balboa/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/leroy-neiman-Rocky Balboa.jpg" alt="LeRoy Neiman - Rocky Balboa (1981)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/matthew-wong-the-kingdom/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/matthew-wong-the-kingdom-2017.jpg" alt="Matthew Wong - The Kingdom (2017)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Chiharu Shiota</td>
-                <td><a href="/obrazy/chiharu-shiota-neklidna-duse/">Neklidná duše</a></td>
+                <td>Kehinde Wiley</td>
+                <td><a href="/obrazy/Kehinde-Wiley-John-Burgoyne/">Generál John Burgoyne</a></td>
                 <td>
                   
-                    <a href="/obrazy/chiharu-shiota-neklidna-duse/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/IMG_5582.jpeg" alt="Chiharu Shiota - Neklidná duše (2024)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/Kehinde-Wiley-John-Burgoyne/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/kehinde_wiley_burgoyne.jpg" alt="Kehinde Wiley - Generál John Burgoyne" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Jakub Schikaneder</td>
-                <td><a href="/obrazy/jakub-schikaneder-mlekarka/">Mlékařka</a></td>
+                <td>Ai Weiwei</td>
+                <td><a href="/obrazy/ai-weiwei-slunecnicova-seminka/">Slunečnicová Semínka</a></td>
                 <td>
                   
-                    <a href="/obrazy/jakub-schikaneder-mlekarka/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/schikaneder-mlekarka.jpg" alt="Jakub Schikaneder - Mlékařka" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/ai-weiwei-slunecnicova-seminka/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Ai-Weiwei-Sunflower-Seeds-Tate-Modern-London-May-2-2011.jpg" alt="Ai Weiwei - Slunečnicová Semínka (2010) " style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -231,10 +259,10 @@
           
             <tr>
               <td>
-                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
+                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
                 <p class="excerpt">
                   
-                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don’t restrict anyone else, and it is on this rule that the modern wo...
+                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
                   
                 </p>
               </td>
@@ -242,10 +270,10 @@
           
             <tr>
               <td>
-                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
+                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
                 <p class="excerpt">
                   
-                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  audioverzi tohoto článku  ve ...
+                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
                   
                 </p>
               </td>

@@ -107,7 +107,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -290,10 +318,10 @@ Na 3GSM kongresu bych se měl objevit, takže budu reportovat, jak to celé dopa
           
             <tr>
               <td>
-                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
+                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
                 <p class="excerpt">
                   
-                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
                   
                 </p>
               </td>

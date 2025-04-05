@@ -107,7 +107,35 @@ Jak už jsem varoval, dojíždí oba Marigoldi na 3GSM kongres do Cannes. A prot
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -287,10 +315,10 @@ A třetí ponaučení: protože práce s webovým publikačním systémem není 
           
             <tr>
               <td>
-                <a href="/item/jak-to-bylo-s-pomazankovym-maslem/">👉Jak to bylo s pomazánkovým máslem?</a>
+                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
                 <p class="excerpt">
                   
-                    Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich otců a Ev...
+                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
                   
                 </p>
               </td>
@@ -298,10 +326,10 @@ A třetí ponaučení: protože práce s webovým publikačním systémem není 
           
             <tr>
               <td>
-                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>

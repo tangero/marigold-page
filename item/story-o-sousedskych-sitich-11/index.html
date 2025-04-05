@@ -117,7 +117,35 @@ Update (neděle večer): Asi hodinu po napsání článku jsem zjistil, že loka
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -301,10 +329,10 @@ O lokalitě tři jsem vedl zajímavý hovor s člověkem z ČD-Telekomunikace. 
           
             <tr>
               <td>
-                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
+                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
                 <p class="excerpt">
                   
-                    Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ješt...
+                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
                   
                 </p>
               </td>
@@ -312,10 +340,11 @@ O lokalitě tři jsem vedl zajímavý hovor s člověkem z ČD-Telekomunikace. 
           
             <tr>
               <td>
-                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
+                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
                 <p class="excerpt">
                   
-                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
+                    ---
+Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůl...
                   
                 </p>
               </td>

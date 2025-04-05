@@ -107,7 +107,35 @@ Možná si pamatujete, jak jsem na Marigoldovi hledal zdarma pracujícího progr
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -284,10 +312,10 @@ Minulý víkend jsem zapřemýšlel nad tím, jak by se ten projekt měl jmenova
           
             <tr>
               <td>
-                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
+                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
                 <p class="excerpt">
                   
-                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
+                    Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ješt...
                   
                 </p>
               </td>
@@ -295,10 +323,10 @@ Minulý víkend jsem zapřemýšlel nad tím, jak by se ten projekt měl jmenova
           
             <tr>
               <td>
-                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
+                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
                 <p class="excerpt">
                   
-                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  [Zlatá éra weblogů a můžete si ji stáhnout zda...
+                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
                   
                 </p>
               </td>

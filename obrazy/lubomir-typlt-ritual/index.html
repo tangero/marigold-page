@@ -106,7 +106,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -182,31 +210,31 @@
           
             
               <tr>
-                <td>Otakar Kubín</td>
-                <td><a href="/obrazy/otakar-kubin-music-hall-bobino/">Music Hall Bobino</a></td>
+                <td>Olaolu Slawn</td>
+                <td><a href="/obrazy/olaolu-slawn/">Young black n thriving</a></td>
                 <td>
                   
-                    <a href="/obrazy/otakar-kubin-music-hall-bobino/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/otakar-kubin-music-hall-bobino.jpg" alt="Otakar Kubín - Music Hall Bobino (1910)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/olaolu-slawn/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/slawn-obrazy.png" alt="Olaolu Slawn - Young black n thriving (2021)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Charlotte Keates</td>
-                <td><a href="/obrazy/charlotte-keates-dum-ukryva-sneni/">Dům ukrývá snění</a></td>
+                <td>Josef Bolf</td>
+                <td><a href="/obrazy/josef-bolt-remembering-backwards/">Remembering Backwards</a></td>
                 <td>
                   
-                    <a href="/obrazy/charlotte-keates-dum-ukryva-sneni/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Charlotte_Keates_The_house_shelters_daydreaming.jpg" alt="Charlotte Keates - Dům ukrývá snění (2023)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/josef-bolt-remembering-backwards/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/josef-bolf-remembring-beckwards.webp" alt="Josef Bolf - Remembering Backwards" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Chiharu Shiota</td>
-                <td><a href="/obrazy/chiharu-shiota-neklidna-duse/">Neklidná duše</a></td>
+                <td>Jiří Anderle</td>
+                <td><a href="/obrazy/jiri-anderle-space-and-time/">Space and Time</a></td>
                 <td>
                   
-                    <a href="/obrazy/chiharu-shiota-neklidna-duse/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/IMG_5582.jpeg" alt="Chiharu Shiota - Neklidná duše (2024)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/jiri-anderle-space-and-time/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Anderle-jiri-space-and-time.jpg" alt="Jiří Anderle - Space and Time" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -232,10 +260,12 @@
           
             <tr>
               <td>
-                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
+                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
                 <p class="excerpt">
                   
-                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
+                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
+
+Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
                   
                 </p>
               </td>
@@ -243,10 +273,10 @@
           
             <tr>
               <td>
-                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
+                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
                 <p class="excerpt">
                   
-                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
+                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
                   
                 </p>
               </td>

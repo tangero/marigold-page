@@ -107,7 +107,35 @@ Tak jsem při stěhování narazil na hromadu věcí, kterých bude třeba se zb
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -285,10 +313,10 @@ Příkladem je moje památeční SGI Indigo 2 - báječný to strojek. Před des
           
             <tr>
               <td>
-                <a href="/item/vase-deti-a-nase-skolstvi-oboji-bez-budoucnosti/">👉Vaše děti a naše školství -  obojí bez budoucnosti</a>
+                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
                 <p class="excerpt">
                   
-                    Smiřte se s tím, že vaše děti jsou tvorové bez budoucnosti. Leda byste byli připraveni vyklopit pět až deset tisíc měsíčně. Takhle naplacato a natvrdo řečeno...
+                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
                   
                 </p>
               </td>
@@ -296,12 +324,10 @@ Příkladem je moje památeční SGI Indigo 2 - báječný to strojek. Před des
           
             <tr>
               <td>
-                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
+                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
                 <p class="excerpt">
                   
-                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
-
-Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
+                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  [Zlatá éra weblogů a můžete si ji stáhnout zda...
                   
                 </p>
               </td>

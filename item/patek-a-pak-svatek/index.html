@@ -107,7 +107,35 @@ Mám padesát minut života. Naštěstí na internetu, pak mi dojde baterka v no
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -306,10 +334,10 @@ Je pátek, většina firem se již vylidnila, já hodlám svátky trávit pokud 
           
             <tr>
               <td>
-                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
                 <p class="excerpt">
                   
-                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
                   
                 </p>
               </td>

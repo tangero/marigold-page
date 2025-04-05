@@ -107,7 +107,35 @@ O Telecomáckém WiFi jsme psali včera a já jsem slíbil, že ho stihnu otesto
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -284,10 +312,10 @@ Jenže správná je otázka, <strong>proč to Telecom dělá?</strong> Naskakuje
           
             <tr>
               <td>
-                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
+                <a href="/item/pribeh_olova_v_benzinu/">👉Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci</a>
                 <p class="excerpt">
                   
-                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
+                    Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. ...
                   
                 </p>
               </td>
@@ -295,10 +323,10 @@ Jenže správná je otázka, <strong>proč to Telecom dělá?</strong> Naskakuje
           
             <tr>
               <td>
-                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
+                <a href="/item/stiglitz_konec_neoliberalismu/">👉Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin</a>
                 <p class="excerpt">
                   
-                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahu...
+                    Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalo...
                   
                 </p>
               </td>

@@ -107,7 +107,35 @@ Americká online půjčovna Netflix dostala včera patent na online půjčován�
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -287,10 +315,10 @@ Na <a href="http://slashdot.org/article.pl?sid=03/06/24/1458223&amp;mode=nested&
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
                   
                 </p>
               </td>
@@ -298,12 +326,10 @@ Na <a href="http://slashdot.org/article.pl?sid=03/06/24/1458223&amp;mode=nested&
           
             <tr>
               <td>
-                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
+                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
                 <p class="excerpt">
                   
-                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
-
-Proč skutečně Goldee skončilo, netuší...
+                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
                   
                 </p>
               </td>

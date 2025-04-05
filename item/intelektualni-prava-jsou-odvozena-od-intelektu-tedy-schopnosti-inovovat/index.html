@@ -106,7 +106,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -392,10 +420,10 @@ březen
           
             <tr>
               <td>
-                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
+                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
                 <p class="excerpt">
                   
-                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
+                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
                   
                 </p>
               </td>
@@ -403,12 +431,10 @@ březen
           
             <tr>
               <td>
-                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
+                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
                 <p class="excerpt">
                   
-                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
-
-Proč skutečně Goldee skončilo, netuší...
+                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don't restrict anyone else, and it is on this rule that the modern wo...
                   
                 </p>
               </td>

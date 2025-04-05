@@ -108,7 +108,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -316,10 +344,11 @@
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
+Tohle je dalš...
                   
                 </p>
               </td>
@@ -327,10 +356,10 @@
           
             <tr>
               <td>
-                <a href="/item/projektovy-manazer-je-v-cesku-sproste-slovo-ke-skode-projektu/">👉Projektový manažer je v Česku sprosté slovo – ke škodě projektů …</a>
+                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
                 <p class="excerpt">
                   
-                    Na Makers Faire jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější ...
+                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
                   
                 </p>
               </td>

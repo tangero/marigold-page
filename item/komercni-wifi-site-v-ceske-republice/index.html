@@ -107,7 +107,35 @@ Rozhodl jsem se napsát pár slov k dění v komerčních WiFi sítích u nás, 
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -307,10 +335,10 @@ To ale není konec nadějím &#8211; existují i nekomerční sítě (no, zatím
           
             <tr>
               <td>
-                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
+                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
                 <p class="excerpt">
                   
-                    Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ješt...
+                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
                   
                 </p>
               </td>
@@ -318,10 +346,10 @@ To ale není konec nadějím &#8211; existují i nekomerční sítě (no, zatím
           
             <tr>
               <td>
-                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
+                <a href="/item/jak-to-bylo-s-pomazankovym-maslem/">👉Jak to bylo s pomazánkovým máslem?</a>
                 <p class="excerpt">
                   
-                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
+                    Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich otců a Ev...
                   
                 </p>
               </td>

@@ -113,7 +113,35 @@ Když chcete psa bít, hůl se vždy najde, chce to jen chvíli hledat. Kdyby by
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -293,10 +321,10 @@ Když chcete psa bít, hůl se vždy najde, chce to jen chvíli hledat. Kdyby by
           
             <tr>
               <td>
-                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
+                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
                 <p class="excerpt">
                   
-                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
+                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
                   
                 </p>
               </td>
@@ -304,10 +332,12 @@ Když chcete psa bít, hůl se vždy najde, chce to jen chvíli hledat. Kdyby by
           
             <tr>
               <td>
-                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
+                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
                 <p class="excerpt">
                   
-                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
+                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
+
+Poznatek první: umělá intel...
                   
                 </p>
               </td>

@@ -107,7 +107,35 @@ Tak jsem vám chtěl udělat radost a napsat nějaký větší článek o bezpe�
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -290,10 +318,10 @@ Na druhou stranu tento týden čekejte recenzi broadband routerů, už si&#160;s
           
             <tr>
               <td>
-                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
                 <p class="excerpt">
                   
-                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
                   
                 </p>
               </td>
@@ -301,10 +329,10 @@ Na druhou stranu tento týden čekejte recenzi broadband routerů, už si&#160;s
           
             <tr>
               <td>
-                <a href="/item/projektovy-manazer-je-v-cesku-sproste-slovo-ke-skode-projektu/">👉Projektový manažer je v Česku sprosté slovo – ke škodě projektů …</a>
+                <a href="/item/vase-deti-a-nase-skolstvi-oboji-bez-budoucnosti/">👉Vaše děti a naše školství -  obojí bez budoucnosti</a>
                 <p class="excerpt">
                   
-                    Na Makers Faire jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější ...
+                    Smiřte se s tím, že vaše děti jsou tvorové bez budoucnosti. Leda byste byli připraveni vyklopit pět až deset tisíc měsíčně. Takhle naplacato a natvrdo řečeno...
                   
                 </p>
               </td>

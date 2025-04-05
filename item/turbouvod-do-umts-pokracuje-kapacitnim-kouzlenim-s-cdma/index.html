@@ -107,7 +107,35 @@ Jak je to s kapacitou v radiových sítích? Kolik se vlastně teoreticky dá pr
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -285,10 +313,10 @@ Třetí díl Bláznova turboúvodu do UMTS se na to pokusí zopovědět za pomoc
           
             <tr>
               <td>
-                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
+                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan</a>
                 <p class="excerpt">
                   
-                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  **audioverzi tohoto článku** ...
+                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
                   
                 </p>
               </td>
@@ -296,12 +324,10 @@ Třetí díl Bláznova turboúvodu do UMTS se na to pokusí zopovědět za pomoc
           
             <tr>
               <td>
-                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
                 <p class="excerpt">
                   
-                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
-
-Poznatek první: umělá intel...
+                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
                   
                 </p>
               </td>

@@ -107,7 +107,35 @@ Na Euru vyšel článek (později ho ze zdrojů ČTK potvrdily i další servery
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -290,10 +318,10 @@ No, co dodat. Prostě je to škoda...</p>
           
             <tr>
               <td>
-                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
+                <a href="/item/jak-jsem-napsal-vlastni-zakon/">👉Jak jsem napsal vlastní zákon</a>
                 <p class="excerpt">
                   
-                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
+                    Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, kdy...
                   
                 </p>
               </td>
@@ -301,10 +329,10 @@ No, co dodat. Prostě je to škoda...</p>
           
             <tr>
               <td>
-                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
+                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
                 <p class="excerpt">
                   
-                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
+                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahu...
                   
                 </p>
               </td>

@@ -107,7 +107,35 @@ Na Mobil.cz jsem napsal článek o BREW a Javě - původně měl být zaměřen 
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -294,10 +322,10 @@ A na závěr k mému novému tématu, iPodům od Apple. V USA se šíří konspi
           
             <tr>
               <td>
-                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
+                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan</a>
                 <p class="excerpt">
                   
-                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  **audioverzi tohoto článku** ...
+                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
                   
                 </p>
               </td>
@@ -305,10 +333,10 @@ A na závěr k mému novému tématu, iPodům od Apple. V USA se šíří konspi
           
             <tr>
               <td>
-                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
+                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
                 <p class="excerpt">
                   
-                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
+                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
                   
                 </p>
               </td>

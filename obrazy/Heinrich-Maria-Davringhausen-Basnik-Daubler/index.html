@@ -106,7 +106,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -186,31 +214,31 @@ To byl případ i Davringhausena.  Po nástupu nacistického režimu v roce 1933
           
             
               <tr>
-                <td>Jan Zrzavý</td>
-                <td><a href="/obrazy/jan-zrzavy-kokta/">Kokta</a></td>
+                <td>Josef Bolf</td>
+                <td><a href="/obrazy/josef-bolt-remembering-backwards/">Remembering Backwards</a></td>
                 <td>
                   
-                    <a href="/obrazy/jan-zrzavy-kokta/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/jan_zrzavy_kokta.jpeg" alt="Jan Zrzavý - Kokta" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/josef-bolt-remembering-backwards/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/josef-bolf-remembring-beckwards.webp" alt="Josef Bolf - Remembering Backwards" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Michael Rittstein</td>
-                <td><a href="/obrazy/Michael-Rittstein-Cesani-hub/">Česání hub</a></td>
+                <td>Friedensreich Hundertwasser</td>
+                <td><a href="/obrazy/hundertwasser-hommage-au-tachisme/">Hommage au Tachisme</a></td>
                 <td>
                   
-                    <a href="/obrazy/Michael-Rittstein-Cesani-hub/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/michael-rittstein-cesani-hub.jpeg" alt="Michael Rittstein - Česání hub" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/hundertwasser-hommage-au-tachisme/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hundertwasser-hommage.jpeg" alt="Friedensreich Hundertwasser - Hommage au Tachisme (1961)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Martin Krajc</td>
-                <td><a href="/obrazy/martin-krajc-blue-drink/">Blue Drink</a></td>
+                <td>Miloš Englberth</td>
+                <td><a href="/obrazy/milos-englberth-happy-birthday/">Happy Birthday</a></td>
                 <td>
                   
-                    <a href="/obrazy/martin-krajc-blue-drink/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/martin-krajc-blue-drink.jpg" alt="Martin Krajc - Blue Drink (2021)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/milos-englberth-happy-birthday/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/milos-englberth-happy-birthday.jpg" alt="Miloš Englberth - Happy Birthday (2024)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -236,10 +264,10 @@ To byl případ i Davringhausena.  Po nástupu nacistického režimu v roce 1933
           
             <tr>
               <td>
-                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  Zásady pro výstavbu ve městě, které stanoví rámec spolupráce s developery. Zásady se nevztahují n...
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>
@@ -247,10 +275,10 @@ To byl případ i Davringhausena.  Po nástupu nacistického režimu v roce 1933
           
             <tr>
               <td>
-                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
+                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
                 <p class="excerpt">
                   
-                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
+                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
                   
                 </p>
               </td>

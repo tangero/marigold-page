@@ -107,7 +107,35 @@ Včerejší Pixyho příspěvek týkající se rušení ISM pásma na Kladně ne
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -290,10 +318,10 @@ Toliko Pixyho komentář. Já k tomu jen dodávám, že je dobře, když chyba n
           
             <tr>
               <td>
-                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
+                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
                 <p class="excerpt">
                   
-                    Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ješt...
+                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
                   
                 </p>
               </td>
@@ -301,10 +329,10 @@ Toliko Pixyho komentář. Já k tomu jen dodávám, že je dobře, když chyba n
           
             <tr>
               <td>
-                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
                 <p class="excerpt">
                   
-                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
                   
                 </p>
               </td>

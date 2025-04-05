@@ -111,7 +111,35 @@ Jako story pro pobavení nabízím jedno z témat, které se řeší na veřejn�
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -289,10 +317,10 @@ Jako story pro pobavení nabízím jedno z témat, které se řeší na veřejn�
           
             <tr>
               <td>
-                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
+                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
                 <p class="excerpt">
                   
-                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
+                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  **audioverzi tohoto článku** ...
                   
                 </p>
               </td>
@@ -300,10 +328,11 @@ Jako story pro pobavení nabízím jedno z témat, které se řeší na veřejn�
           
             <tr>
               <td>
-                <a href="/item/pribeh_olova_v_benzinu/">👉Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci</a>
+                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
                 <p class="excerpt">
                   
-                    Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. ...
+                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
+Tohle je dalš...
                   
                 </p>
               </td>

@@ -106,7 +106,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -181,21 +209,21 @@ Mimochodem je to hustej týpek, dost cestoval. Do komentářů ještě hodím li
           
             
               <tr>
-                <td>André Fougeron</td>
-                <td><a href="/obrazy/Andre-Fougeron-Atlanticka-civilizace/">Atlantická civilizace</a></td>
+                <td>Milan Kunc</td>
+                <td><a href="/obrazy/milan-kunc-amor-a-psyche/">Amor a Psyche</a></td>
                 <td>
                   
-                    <a href="/obrazy/Andre-Fougeron-Atlanticka-civilizace/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/IMG_8555.jpeg" alt="André Fougeron - Atlantická civilizace" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/milan-kunc-amor-a-psyche/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/IMG_3701.jpeg" alt="Milan Kunc -  Amor a Psyche" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>LeRoy Neiman</td>
-                <td><a href="/obrazy/leroy-neiman-rocky-balboa/">Rocky Balboa</a></td>
+                <td>Otakar Kubín</td>
+                <td><a href="/obrazy/otakar-kubin-music-hall-bobino/">Music Hall Bobino</a></td>
                 <td>
                   
-                    <a href="/obrazy/leroy-neiman-rocky-balboa/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/leroy-neiman-Rocky Balboa.jpg" alt="LeRoy Neiman - Rocky Balboa (1981)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/otakar-kubin-music-hall-bobino/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/otakar-kubin-music-hall-bobino.jpg" alt="Otakar Kubín - Music Hall Bobino (1910)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -231,10 +259,10 @@ Mimochodem je to hustej týpek, dost cestoval. Do komentářů ještě hodím li
           
             <tr>
               <td>
-                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
+                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
                 <p class="excerpt">
                   
-                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
+                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
                   
                 </p>
               </td>
@@ -242,12 +270,10 @@ Mimochodem je to hustej týpek, dost cestoval. Do komentářů ještě hodím li
           
             <tr>
               <td>
-                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
                 <p class="excerpt">
                   
-                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí.
-
-Poznatek první: umělá inteli...
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
                   
                 </p>
               </td>

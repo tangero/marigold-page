@@ -107,7 +107,35 @@ První hezká hračka je vlastně starší nápad použít LCD displej jako obra
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -287,10 +315,10 @@ Toshibáci také vytvářejí speciální stránku pro tuto kameru, která bude 
           
             <tr>
               <td>
-                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>
@@ -298,10 +326,10 @@ Toshibáci také vytvářejí speciální stránku pro tuto kameru, která bude 
           
             <tr>
               <td>
-                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
+                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
                 <p class="excerpt">
                   
-                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
+                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
                   
                 </p>
               </td>

@@ -105,7 +105,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -318,11 +346,10 @@ I to je důvod, proč Německo je v alternativní energetice na špici, mohou zd
           
             <tr>
               <td>
-                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
+                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
                 <p class="excerpt">
                   
-                    ---
-Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůl...
+                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
                   
                 </p>
               </td>
@@ -330,10 +357,10 @@ Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou 
           
             <tr>
               <td>
-                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
+                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
                 <p class="excerpt">
                   
-                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
+                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
                   
                 </p>
               </td>

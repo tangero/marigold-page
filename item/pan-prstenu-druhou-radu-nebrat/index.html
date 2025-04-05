@@ -107,7 +107,35 @@ Byli jsme s Ditou na Pánovi prstenů: Návrat krále. Až v sobotu jsme si udě
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -290,10 +318,10 @@ Pokud <strong>vás zajímají názory blogerů na třetího&#160;Pána prstenů<
           
             <tr>
               <td>
-                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
+                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
                 <p class="excerpt">
                   
-                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahu...
+                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
                   
                 </p>
               </td>
@@ -301,10 +329,10 @@ Pokud <strong>vás zajímají názory blogerů na třetího&#160;Pána prstenů<
           
             <tr>
               <td>
-                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
+                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
                 <p class="excerpt">
                   
-                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
+                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  [Zlatá éra weblogů a můžete si ji stáhnout zda...
                   
                 </p>
               </td>

@@ -107,7 +107,35 @@ Ze zvědavosti jsem se díval, kolik stojí funkce PoC (Push-to-Talk over Cellul
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -284,10 +312,10 @@ Nokia tvrdí, že všechny její nové telefony budou v roce 2005 mít funkci Po
           
             <tr>
               <td>
-                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
+                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
                 <p class="excerpt">
                   
-                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
+                    Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ješt...
                   
                 </p>
               </td>
@@ -295,10 +323,10 @@ Nokia tvrdí, že všechny její nové telefony budou v roce 2005 mít funkci Po
           
             <tr>
               <td>
-                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
+                <a href="/item/pribeh_olova_v_benzinu/">👉Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci</a>
                 <p class="excerpt">
                   
-                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
+                    Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. ...
                   
                 </p>
               </td>

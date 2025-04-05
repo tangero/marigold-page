@@ -107,7 +107,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -317,10 +345,10 @@ Jen tak cvičně jsem se podíval, jak je na tom třeba mnichovská technická u
           
             <tr>
               <td>
-                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
+                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
                 <p class="excerpt">
                   
-                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
+                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  Zlatá éra weblogů a můžete si ji stáhnout zdar...
                   
                 </p>
               </td>
@@ -328,10 +356,10 @@ Jen tak cvičně jsem se podíval, jak je na tom třeba mnichovská technická u
           
             <tr>
               <td>
-                <a href="/item/vase-deti-a-nase-skolstvi-oboji-bez-budoucnosti/">👉Vaše děti a naše školství -  obojí bez budoucnosti</a>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
                 <p class="excerpt">
                   
-                    Smiřte se s tím, že vaše děti jsou tvorové bez budoucnosti. Leda byste byli připraveni vyklopit pět až deset tisíc měsíčně. Takhle naplacato a natvrdo řečeno...
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
                   
                 </p>
               </td>

@@ -108,7 +108,35 @@ Není to tak dávno, co jsem sliboval článek na téma sítí typu mesh. Člán
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -283,10 +311,10 @@ Není to tak dávno, co jsem sliboval <strong>článek na téma sítí typu mesh
           
             <tr>
               <td>
-                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
                 <p class="excerpt">
                   
-                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
                   
                 </p>
               </td>
@@ -294,10 +322,10 @@ Není to tak dávno, co jsem sliboval <strong>článek na téma sítí typu mesh
           
             <tr>
               <td>
-                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
+                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
                 <p class="excerpt">
                   
-                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
+                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahu...
                   
                 </p>
               </td>

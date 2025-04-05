@@ -107,7 +107,35 @@ Myšlenka položit na balkoně dlaždice a udělat tak z hnusné betonové podla
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -293,10 +321,10 @@ Dita se na můj výtvor podívala, dlouho mlčela a pak řekla, že je to moc he
           
             <tr>
               <td>
-                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>
@@ -304,10 +332,12 @@ Dita se na můj výtvor podívala, dlouho mlčela a pak řekla, že je to moc he
           
             <tr>
               <td>
-                <a href="/item/jak-jsem-napsal-vlastni-zakon/">👉Jak jsem napsal vlastní zákon</a>
+                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
                 <p class="excerpt">
                   
-                    Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, kdy...
+                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
+
+Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
                   
                 </p>
               </td>

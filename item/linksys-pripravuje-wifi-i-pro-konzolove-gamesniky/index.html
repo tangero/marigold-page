@@ -107,7 +107,35 @@ Ještě jsem Vreca nestihl informovat, ale jistě to udělám, když už je ve S
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -296,12 +324,10 @@ Poznámka na závěr: <strong>Vrecův blog najdete logicky na adrese </strong><a
           
             <tr>
               <td>
-                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
+                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
                 <p class="excerpt">
                   
-                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
-
-Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
+                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
                   
                 </p>
               </td>
@@ -309,10 +335,10 @@ Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
           
             <tr>
               <td>
-                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
+                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
                 <p class="excerpt">
                   
-                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  **audioverzi tohoto článku** ...
+                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
                   
                 </p>
               </td>

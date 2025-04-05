@@ -108,7 +108,35 @@ Tím prvním systémem je DRBZ, tím druhým je Teidu. Je to pořadí abecední 
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -307,12 +335,10 @@ Tím prvním systémem je DRBZ, tím druhým je Teidu. Je to pořadí abecední 
           
             <tr>
               <td>
-                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
                 <p class="excerpt">
                   
-                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
-
-Poznatek první: umělá intel...
+                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don't restrict anyone else, and it is on this rule that the modern wo...
                   
                 </p>
               </td>

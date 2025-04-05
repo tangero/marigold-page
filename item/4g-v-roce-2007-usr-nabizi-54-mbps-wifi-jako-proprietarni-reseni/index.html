@@ -107,7 +107,35 @@ Korea chce být na špici 4G sítí stejně, jako je na špici sítí 3G - a tak
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -284,11 +312,12 @@ Další zajímavost je z dílen <strong>USR, tedy US Robotics</strong>. Firma ji
           
             <tr>
               <td>
-                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
                 <p class="excerpt">
                   
-                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
-Tohle je dalš...
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
                   
                 </p>
               </td>
@@ -296,10 +325,10 @@ Tohle je dalš...
           
             <tr>
               <td>
-                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
                 <p class="excerpt">
                   
-                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahu...
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
                   
                 </p>
               </td>

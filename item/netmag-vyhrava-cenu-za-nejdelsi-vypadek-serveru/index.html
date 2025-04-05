@@ -107,7 +107,35 @@ Server NetMag znají spíše už jen pamětníci, ale je to jeden z velmi starý
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -290,10 +318,12 @@ Snad jen ten design NetMagu je otřesný, skoro tak otřesný, jako marigoldí .
           
             <tr>
               <td>
-                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
+                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
                 <p class="excerpt">
                   
-                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
+                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
+
+Poznatek první: umělá intel...
                   
                 </p>
               </td>
@@ -301,10 +331,10 @@ Snad jen ten design NetMagu je otřesný, skoro tak otřesný, jako marigoldí .
           
             <tr>
               <td>
-                <a href="/item/jak-jsem-napsal-vlastni-zakon/">👉Jak jsem napsal vlastní zákon</a>
+                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
                 <p class="excerpt">
                   
-                    Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, kdy...
+                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
                   
                 </p>
               </td>

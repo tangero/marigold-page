@@ -107,7 +107,35 @@ Na serveru ROOT vyšly tento týden dva články o WiFi, repsketive o CZFREE.Net
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -290,10 +318,10 @@ Zkusme se připojit ke čtenáři MK, který uvádí velikost svých pingů na 2
           
             <tr>
               <td>
-                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  [Zlatá éra weblogů a můžete si ji stáhnout zda...
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>
@@ -301,12 +329,11 @@ Zkusme se připojit ke čtenáři MK, který uvádí velikost svých pingů na 2
           
             <tr>
               <td>
-                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
+                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
                 <p class="excerpt">
                   
-                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
-
-Proč skutečně Goldee skončilo, netuší...
+                    ---
+Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůl...
                   
                 </p>
               </td>

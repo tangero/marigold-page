@@ -107,7 +107,35 @@ Dobrý článek o Mesh sítích najdete na Cnetu - o mesh sítích, kdy sítovou
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -296,10 +324,10 @@ Jak by dopadla podobná anketa u nás? A kdo z vás ví, co ty firmy dělají? :
           
             <tr>
               <td>
-                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
+                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
                 <p class="excerpt">
                   
-                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
+                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
                   
                 </p>
               </td>
@@ -307,10 +335,12 @@ Jak by dopadla podobná anketa u nás? A kdo z vás ví, co ty firmy dělají? :
           
             <tr>
               <td>
-                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
                 <p class="excerpt">
                   
-                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
                   
                 </p>
               </td>

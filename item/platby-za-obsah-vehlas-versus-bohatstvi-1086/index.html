@@ -107,7 +107,35 @@ V poslední době se prodírám množstvím článků věnovaných mikroplatbám
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -313,12 +341,10 @@ Nick Szabo: <a href="http://szabo.best.vwh.net/berlinmentalmicro.pdf">Mental Tra
           
             <tr>
               <td>
-                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
+                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
                 <p class="excerpt">
                   
-                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
-
-Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
+                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
                   
                 </p>
               </td>
@@ -326,10 +352,10 @@ Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
           
             <tr>
               <td>
-                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
+                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
                 <p class="excerpt">
                   
-                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
+                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
                   
                 </p>
               </td>

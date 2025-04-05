@@ -107,7 +107,35 @@ Nerad vypadám, že musím do všeho rýpat, jenže v případě Eurotel Live! s
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -311,10 +339,10 @@ PS: a to Eurotel Live ještě nehodnotily weblogy věnované webdesignu a přís
           
             <tr>
               <td>
-                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
                 <p class="excerpt">
                   
-                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
                   
                 </p>
               </td>
@@ -322,11 +350,10 @@ PS: a to Eurotel Live ještě nehodnotily weblogy věnované webdesignu a přís
           
             <tr>
               <td>
-                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
+                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
                 <p class="excerpt">
                   
-                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
-Tohle je dalš...
+                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
                   
                 </p>
               </td>

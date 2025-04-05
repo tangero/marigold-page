@@ -107,7 +107,35 @@ U dalšího poskytovatele WiFi hotspotů nám skončila doba hájení - T-Mobile
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -304,10 +332,10 @@ T-Mobile slibuje, že do konce roku bude možno využívat i další hotspoty pa
           
             <tr>
               <td>
-                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
+                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
                 <p class="excerpt">
                   
-                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
+                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
                   
                 </p>
               </td>

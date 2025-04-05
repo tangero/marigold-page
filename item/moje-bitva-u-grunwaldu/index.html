@@ -106,7 +106,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -321,10 +349,10 @@ prosinec
           
             <tr>
               <td>
-                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
+                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
                 <p class="excerpt">
                   
-                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
+                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahu...
                   
                 </p>
               </td>
@@ -332,10 +360,10 @@ prosinec
           
             <tr>
               <td>
-                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
+                <a href="/item/jak-jsem-napsal-vlastni-zakon/">👉Jak jsem napsal vlastní zákon</a>
                 <p class="excerpt">
                   
-                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
+                    Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, kdy...
                   
                 </p>
               </td>

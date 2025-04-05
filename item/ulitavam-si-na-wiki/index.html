@@ -106,7 +106,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -322,12 +350,10 @@ březen
           
             <tr>
               <td>
-                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <a href="/item/pribeh_olova_v_benzinu/">👉Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci</a>
                 <p class="excerpt">
                   
-                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
-
-Poznatek první: umělá intel...
+                    Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. ...
                   
                 </p>
               </td>
@@ -335,10 +361,10 @@ Poznatek první: umělá intel...
           
             <tr>
               <td>
-                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
                 <p class="excerpt">
                   
-                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
                   
                 </p>
               </td>

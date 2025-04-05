@@ -106,7 +106,35 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -294,10 +322,12 @@ srpen
           
             <tr>
               <td>
-                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
+                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
                 <p class="excerpt">
                   
-                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
+                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
+
+Poznatek první: umělá intel...
                   
                 </p>
               </td>
@@ -305,10 +335,10 @@ srpen
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/jak-to-bylo-s-pomazankovym-maslem/">👉Jak to bylo s pomazánkovým máslem?</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich otců a Ev...
                   
                 </p>
               </td>

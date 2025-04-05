@@ -107,7 +107,35 @@ O přednášce presidenta Universal Music Cédrica Ponsota na letošním 3GSM ko
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -324,10 +352,10 @@ Osobně mi přednáška Cedrica Ponsota přišla v Cannes nejzajímavější - n
           
             <tr>
               <td>
-                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
                 <p class="excerpt">
                   
-                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
                   
                 </p>
               </td>
@@ -335,10 +363,10 @@ Osobně mi přednáška Cedrica Ponsota přišla v Cannes nejzajímavější - n
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
                   
                 </p>
               </td>

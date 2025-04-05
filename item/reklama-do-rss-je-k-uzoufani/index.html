@@ -107,7 +107,35 @@ Odebírám RSS z mnoha serverů, mimo jinými i z Moreover, to je takový agreg�
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script>
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
 <style>
   code.language-mermaid {
     display: flex;
@@ -284,10 +312,10 @@ Nově někdo začal do Moreover cpát reklamu, která je určena RSS odběratel�
           
             <tr>
               <td>
-                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
                 <p class="excerpt">
                   
-                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
                   
                 </p>
               </td>
@@ -295,10 +323,10 @@ Nově někdo začal do Moreover cpát reklamu, která je určena RSS odběratel�
           
             <tr>
               <td>
-                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
+                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
                 <p class="excerpt">
                   
-                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
+                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
                   
                 </p>
               </td>
