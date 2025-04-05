@@ -12,7 +12,8 @@ import html
 from dotenv import load_dotenv
 
 # Načtení proměnných z .env souboru
-load_dotenv()
+env_path = "/Users/imac/Documents/GitHub/zastupitelstvo/.env"
+load_dotenv(env_path)
 
 class MarkdownValidator:
     """Třída pro validaci Markdown souborů s YAML front matter."""
@@ -280,6 +281,7 @@ class LocalSummaryGenerator:
         print(f"Model: {self.model_choice}")
         print(f"API URL: {self.api_url}")
         print(f"Použitý API klíč (prvních 10 znaků): {self.api_key[:10]}...")
+        print(f"Kompletní hlavičky: {headers}")
         
         prompt = """Vytvoř 3-4 krátké body shrnující hlavní myšlenky následujícího českého textu.
 Každý bod by měl:
@@ -316,6 +318,7 @@ Text k shrnutí:
                 "temperature": 0.3
             }
         
+        print(f"Payload (zkrácený): {json.dumps(payload, ensure_ascii=False)[:200]}...")
         base_wait_time = 10
         
         for attempt in range(max_retries):
@@ -340,6 +343,9 @@ Text k shrnutí:
                     timeout=60
                 )
                 
+                # Zobrazení status kódu odpovědi
+                print(f"Status kód odpovědi: {response.status_code}")
+                
                 try:
                     response_json = response.json()
                 except Exception as e:
@@ -360,6 +366,9 @@ Text k shrnutí:
                 print("Nebyly získány žádné body shrnutí.")
             except Exception as e:
                 print(f"Chyba při komunikaci s API: {str(e)}")
+                # Vypíšeme traceback pro lepší debug
+                import traceback
+                print(traceback.format_exc())
         return None
 
     def process_post(self, post_path, stats):
