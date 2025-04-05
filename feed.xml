@@ -1,28 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-05T20:25:24+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem</title><link href="https://www.marigold.cz/item/meta-llama4/" rel="alternate" type="text/html" title="Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem" /><published>2025-04-05T00:00:00+00:00</published><updated>2025-04-05T00:00:00+00:00</updated><id>https://www.marigold.cz/item/meta-llama4</id><content type="html" xml:base="https://www.marigold.cz/item/meta-llama4/"><![CDATA[<p>Meta právě vydala novou verzi svého open source LLM, který se jmenuje Llama 4. Ve skutečnosti jde o tři nové modely: Llama 4 Scout, Llama 4 Maverick a Llama 4 Behemoth, které se liší počtem aktivních parametrů a schopnostmi - a samozřejmě také požadovanou hardware výbavou. A to je to důležité: nová Llama 4 umí běžet na poměrně příznivé sestavě hardware, přitom nabízí skvělý výkon a open source prostředí. A co je naprosto famózní, je kontextové okno na 10 milionů tokenů, což je 10x více než dnes nabízí nejpokročilejší LLM Google Gemini. Jistě, rozsah kontextu se projevuje na výkonu, proto bude zajímavé sledovat, jak se to projeví v praxi, právě při použití velkého kontextu, který je dnes důležitý například při programování. K dlouhému kontextu si povíme detailní vysvětlení na závěr.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-05T20:38:34+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem</title><link href="https://www.marigold.cz/item/meta-llama4/" rel="alternate" type="text/html" title="Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem" /><published>2025-04-05T00:00:00+00:00</published><updated>2025-04-05T00:00:00+00:00</updated><id>https://www.marigold.cz/item/meta-llama4</id><content type="html" xml:base="https://www.marigold.cz/item/meta-llama4/"><![CDATA[<p>Meta právě vydala novou verzi svého open source LLM, který se jmenuje Llama 4. Ve skutečnosti jde o tři nové modely: Llama 4 Scout, Llama 4 Maverick a Llama 4 Behemoth, které se liší počtem aktivních parametrů a schopnostmi - a samozřejmě také požadovanou hardware výbavou. A to je to důležité: nová Llama 4 umí běžet na poměrně příznivé sestavě hardware, přitom nabízí skvělý výkon a open source prostředí. A co je naprosto famózní, je kontextové okno na 10 milionů tokenů, což je 10x více než dnes nabízí nejpokročilejší LLM Google Gemini. Jistě, rozsah kontextu se projevuje na výkonu, proto bude zajímavé sledovat, jak se to projeví v praxi, právě při použití velkého kontextu, který je dnes důležitý například při programování. K dlouhému kontextu si povíme detailní vysvětlení na závěr.</p>
 
-<p>📊 <strong>Tři nové modely:</strong>
-• <strong>Llama 4 Scout:</strong> 17B aktivních parametrů s 16 experty, dokáže běžet na jediné H100 GPU
-• <strong>Llama 4 Maverick:</strong> 17B aktivních parametrů se 128 experty, výjimečná multimodální schopnost
-• <strong>Llama 4 Behemoth:</strong> 288B aktivních parametrů, stále ve vývoji, již nyní předčí GPT-4.5, Claude Sonnet 3.7 a Gemini 2.0 Pro v STEM benchmarcích</p>
+<p>📊 <strong>Tři nové modely:</strong></p>
+<ul>
+  <li><strong>Llama 4 Scout:</strong> 17B aktivních parametrů s 16 experty, dokáže běžet na jediné H100 GPU</li>
+  <li><strong>Llama 4 Maverick:</strong> 17B aktivních parametrů se 128 experty, výjimečná multimodální schopnost</li>
+  <li><strong>Llama 4 Behemoth:</strong> 288B aktivních parametrů, stále ve vývoji, již nyní předčí GPT-4.5, Claude Sonnet 3.7 a Gemini 2.0 Pro v STEM benchmarcích</li>
+</ul>
 
-<p>💡 <strong>Klíčové technologické průlomy:</strong>
-• První nativně multimodální modely Mety využívající architekturu mixture-of-experts (MoE)
-• Průlomové kontextové okno 10M tokenů u Llama 4 Scout (10x více než nabízí Google)
-• Trénink na více než 30 bilionech tokenů (dvojnásobek oproti Llama 3)
-• Podpora pro 200 jazyků s 10x více multilingválními tokeny než předchozí verze
-• Zpracování různorodých dat včetně textu, obrazu a videa</p>
+<p>💡 <strong>Klíčové technologické průlomy:</strong></p>
+<ul>
+  <li>První nativně multimodální modely Mety využívající architekturu mixture-of-experts (MoE)</li>
+  <li>Průlomové kontextové okno 10M tokenů u Llama 4 Scout (10x více než nabízí Google)</li>
+  <li>Trénink na více než 30 bilionech tokenů (dvojnásobek oproti Llama 3)</li>
+  <li>Podpora pro 200 jazyků s 10x více multilingválními tokeny než předchozí verze</li>
+  <li>Zpracování různorodých dat včetně textu, obrazu a videa</li>
+</ul>
 
-<p>⚖️ <strong>Výrazné zlepšení v oblasti vyvážení a bezpečnosti:</strong>
-• Snížení míry odmítnutí odpovědí na kontroverzní témata ze 7% na méně než 2%
-• Dosažení politické vyváženosti srovnatelné s modelem Grok, s výrazně menším počtem nevyvážených odpovědí
-• Open-source bezpečnostní nástroje včetně Llama Guard, Prompt Guard a CyberSecEval
-• Vývojáři mohou integrovat ochranné prvky proti potenciálně škodlivým vstupům a výstupům</p>
+<p>⚖️ <strong>Výrazné zlepšení v oblasti vyvážení a bezpečnosti:</strong></p>
+<ul>
+  <li>Snížení míry odmítnutí odpovědí na kontroverzní témata ze 7% na méně než 2%</li>
+  <li>Dosažení politické vyváženosti srovnatelné s modelem Grok, s výrazně menším počtem nevyvážených odpovědí</li>
+  <li>Open-source bezpečnostní nástroje včetně Llama Guard, Prompt Guard a CyberSecEval</li>
+  <li>Vývojáři mohou integrovat ochranné prvky proti potenciálně škodlivým vstupům a výstupům</li>
+</ul>
 
-<p>🔥 <strong>Výkonnostní přednosti:</strong>
-• Llama 4 Scout překonává Gemma 3, Gemini 2.0 Flash-Lite a Mistral 3.1
-• Llama 4 Maverick předčí GPT-4o a Gemini 2.0 Flash v řadě benchmarků
-• Srovnatelné výsledky s <a href="/item/deepseek/">DeepSeek</a> v3 v oblasti uvažování a kódování - s polovinou aktivních parametrů
-• Bezkonkurenční poměr výkonu a nákladů, chatovací verze skóruje 1417 ELO na LMArena</p>
+<p>🔥 <strong>Výkonnostní přednosti:</strong></p>
+<ul>
+  <li>Llama 4 Scout překonává Gemma 3, Gemini 2.0 Flash-Lite a Mistral 3.1</li>
+  <li>Llama 4 Maverick předčí GPT-4o a Gemini 2.0 Flash v řadě benchmarků</li>
+  <li>Srovnatelné výsledky s <a href="/item/deepseek/">DeepSeek</a> v3 v oblasti uvažování a kódování - s polovinou aktivních parametrů</li>
+  <li>Bezkonkurenční poměr výkonu a nákladů, chatovací verze skóruje 1417 ELO na LMArena</li>
+</ul>
 
 <p><img src="https://www.marigold.cz/assets/llama4-vykon.png" alt="Llama 4 a výkonnostní benchmarky" /></p>
 
@@ -32,7 +40,7 @@
 
 <p>Musím říct, že je to velmi příjemné překvapení. I když jsou to zatím jen papírová data a osobní zkušenost chybí, vypadá to velmi slibně a Meta jistě nebude slibovat něco, co alespoň přibližně není pravda. Na větší testování si musím počkat na začátek týdne, až si trochu uvolním místo na serverech :)</p>
 
-<p>Více informací o modelech Llama 4 včetně detailů o tréninku a benchmarcích: <a href="https://go.fb.me/gmjohs">https://go.fb.me/gmjohs</a>.</p>
+<p><a href="https://go.fb.me/gmjohs">Více informací o modelech Llama 4 včetně detailů o tréninku a benchmarcích.</a>.</p>
 
 <p>⬇️ <a href="https://go.fb.me/bwwhe9">Stáhnout Llama 4 můžete zde</a>.</p>
 
@@ -55,6 +63,8 @@
 <p>Dalším důležitým aspektem je řešení problému “zploštění” pozornosti. S rostoucí délkou kontextu totiž mechanismus pozornosti přirozeně ztrácí schopnost zaměřit se na důležité informace - pozornost se “rozptyluje” napříč mnoha tokeny. Tým Meta vyvinul speciální techniku teplotního škálování, kterou aplikují pouze během inference a pouze na globální vrstvy. Tato technika pomáhá modelu udržet “ostrou” pozornost i při práci s extrémně dlouhými kontexty, aniž by to negativně ovlivnilo jeho výkon na krátkých textech.</p>
 
 <p>Klíčovým vhledem celého přístupu je změna perspektivy - místo snahy trénovat model přímo na velmi dlouhých sekvencích (což by bylo extrémně náročné na výpočetní zdroje), tým Meta přeformuloval problém jako dosažení “nekonečného kontextu”. To vedlo k návrhu architektury, která dokáže elegantně extrapolovat z krátkých trénovacích sekvencí na mnohem delší vstupy při reálném použití. Tento přístup je nejen praktičtější z hlediska tréninku, ale také lépe škáluje směrem k budoucím modelům s ještě delším kontextem.</p>
+
+<p>A tady si to ještě pro jistotu ukážeme v grafu:</p>
 
 <pre><code class="language-mermaid">flowchart TD
     subgraph Architecture["Architektura iRoPE"]
@@ -89,7 +99,20 @@
     style Output fill:#c8e6c9,stroke:#43a047,stroke-width:1px
     style Split fill:#fff9c4,stroke:#fbc02d,stroke-width:1px
     style Interleaving fill:#f8bbd0,stroke:#e91e63,stroke-width:1px
-</code></pre>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Meta" /><category term="Llama" /><summary type="html"><![CDATA[Meta právě vydala novou verzi svého open source LLM, který se jmenuje Llama 4. Ve skutečnosti jde o tři nové modely: Llama 4 Scout, Llama 4 Maverick a Llama 4 Behemoth, které se liší počtem aktivních parametrů a schopnostmi - a samozřejmě také požadovanou hardware výbavou. A to je to důležité: nová Llama 4 umí běžet na poměrně příznivé sestavě hardware, přitom nabízí skvělý výkon a open source prostředí. A co je naprosto famózní, je kontextové okno na 10 milionů tokenů, což je 10x více než dnes nabízí nejpokročilejší LLM Google Gemini. Jistě, rozsah kontextu se projevuje na výkonu, proto bude zajímavé sledovat, jak se to projeví v praxi, právě při použití velkého kontextu, který je dnes důležitý například při programování. K dlouhému kontextu si povíme detailní vysvětlení na závěr.]]></summary></entry><entry xml:lang="cs"><title type="html">Midjourney V7 - Nová verze modelu pro AI generování obrazů</title><link href="https://www.marigold.cz/item/midjourney-v7/" rel="alternate" type="text/html" title="Midjourney V7 - Nová verze modelu pro AI generování obrazů" /><published>2025-04-05T00:00:00+00:00</published><updated>2025-04-05T00:00:00+00:00</updated><id>https://www.marigold.cz/item/midjourney-v7</id><content type="html" xml:base="https://www.marigold.cz/item/midjourney-v7/"><![CDATA[<p>Midjourney vydal po zhruba roce od předchozího modelu alfa verzi svého obrazového modelu V7, který přináší změny v kvalitě a funkcionalitě AI generování obrazů. Model zavádí nové funkce měnící způsob interakce s nástrojem a zlepšující kvalitu výstupů.</p>
+</code></pre>
+
+<h1 id="omezení-nové-licence-llama-4">Omezení nové licence Llama 4</h1>
+
+<p>Nová licence Llama 4 přichází s několika omezeními:</p>
+
+<ul>
+  <li>Společnosti s více než 700 miliony měsíčně aktivních uživatelů musí požádat o speciální licenci od společnosti Meta, kterou Meta může udělit nebo odmítnout dle svého výhradního uvážení.</li>
+  <li>Musíte viditelně zobrazit “Built with Llama” (Vytvořeno s Llama) na webových stránkách, rozhraních, dokumentaci atd.</li>
+  <li>Jakýkoliv AI model, který vytvoříte s použitím modelu Llama, musí obsahovat “Llama” na začátku svého názvu.</li>
+  <li>Musíte zahrnout specifické oznámení o autorských právech v textovém souboru “Notice” při jakékoliv distribuci.</li>
+  <li>Vaše používání musí být v souladu se samostatnými <a href="http://llama.com/llama4/use-policy">Zásadami přijatelného použití společnosti Meta</a>.</li>
+  <li>Omezená licence k používání názvu “Llama” pouze pro účely splnění požadavků na označení.</li>
+</ul>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Meta" /><category term="Llama" /><summary type="html"><![CDATA[Meta právě vydala novou verzi svého open source LLM, který se jmenuje Llama 4. Ve skutečnosti jde o tři nové modely: Llama 4 Scout, Llama 4 Maverick a Llama 4 Behemoth, které se liší počtem aktivních parametrů a schopnostmi - a samozřejmě také požadovanou hardware výbavou. A to je to důležité: nová Llama 4 umí běžet na poměrně příznivé sestavě hardware, přitom nabízí skvělý výkon a open source prostředí. A co je naprosto famózní, je kontextové okno na 10 milionů tokenů, což je 10x více než dnes nabízí nejpokročilejší LLM Google Gemini. Jistě, rozsah kontextu se projevuje na výkonu, proto bude zajímavé sledovat, jak se to projeví v praxi, právě při použití velkého kontextu, který je dnes důležitý například při programování. K dlouhému kontextu si povíme detailní vysvětlení na závěr.]]></summary></entry><entry xml:lang="cs"><title type="html">Midjourney V7 - Nová verze modelu pro AI generování obrazů</title><link href="https://www.marigold.cz/item/midjourney-v7/" rel="alternate" type="text/html" title="Midjourney V7 - Nová verze modelu pro AI generování obrazů" /><published>2025-04-05T00:00:00+00:00</published><updated>2025-04-05T00:00:00+00:00</updated><id>https://www.marigold.cz/item/midjourney-v7</id><content type="html" xml:base="https://www.marigold.cz/item/midjourney-v7/"><![CDATA[<p>Midjourney vydal po zhruba roce od předchozího modelu alfa verzi svého obrazového modelu V7, který přináší změny v kvalitě a funkcionalitě AI generování obrazů. Model zavádí nové funkce měnící způsob interakce s nástrojem a zlepšující kvalitu výstupů.</p>
 
 <h2 id="klíčové-změny-modelu-v7">Klíčové změny modelu V7</h2>
 
