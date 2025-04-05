@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="cs" />
+<meta name="description" content="Meta právě vydala novou verzi svého open source LLM, který se jmenuje Llama 4. Ve skutečnosti jde o tři nové modely: Llama 4 Scout, Llama 4 Maverick a Llama 4 Behemoth, které se liší počtem aktivních parametrů a schopnostmi - a samozřejmě také požadovanou hardware výbavou. A to je to důležité: nová Llama 4 umí běžet na poměrně příznivé sestavě hardware, přitom nabízí skvělý výkon a open source prostředí. A co je naprosto famózní, je kontextové okno na 10 milionů tokenů, což je 10x více než dnes nabízí nejpokročilejší LLM Google Gemini. Jistě, rozsah kontextu se projevuje na výkonu, proto bude zajímavé sledovat, jak se to projeví v praxi, právě při použití velkého kontextu, který je dnes důležitý například při programování. K dlouhému kontextu si povíme detailní vysvětlení na závěr." />
+<meta property="og:description" content="Meta právě vydala novou verzi svého open source LLM, který se jmenuje Llama 4. Ve skutečnosti jde o tři nové modely: Llama 4 Scout, Llama 4 Maverick a Llama 4 Behemoth, které se liší počtem aktivních parametrů a schopnostmi - a samozřejmě také požadovanou hardware výbavou. A to je to důležité: nová Llama 4 umí běžet na poměrně příznivé sestavě hardware, přitom nabízí skvělý výkon a open source prostředí. A co je naprosto famózní, je kontextové okno na 10 milionů tokenů, což je 10x více než dnes nabízí nejpokročilejší LLM Google Gemini. Jistě, rozsah kontextu se projevuje na výkonu, proto bude zajímavé sledovat, jak se to projeví v praxi, právě při použití velkého kontextu, který je dnes důležitý například při programování. K dlouhému kontextu si povíme detailní vysvětlení na závěr." />
+<link rel="canonical" href="https://www.marigold.cz/item/meta-llama4/" />
+<meta property="og:url" content="https://www.marigold.cz/item/meta-llama4/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-04-05T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-04-05T00:00:00+00:00","datePublished":"2025-04-05T00:00:00+00:00","description":"Meta právě vydala novou verzi svého open source LLM, který se jmenuje Llama 4. Ve skutečnosti jde o tři nové modely: Llama 4 Scout, Llama 4 Maverick a Llama 4 Behemoth, které se liší počtem aktivních parametrů a schopnostmi - a samozřejmě také požadovanou hardware výbavou. A to je to důležité: nová Llama 4 umí běžet na poměrně příznivé sestavě hardware, přitom nabízí skvělý výkon a open source prostředí. A co je naprosto famózní, je kontextové okno na 10 milionů tokenů, což je 10x více než dnes nabízí nejpokročilejší LLM Google Gemini. Jistě, rozsah kontextu se projevuje na výkonu, proto bude zajímavé sledovat, jak se to projeví v praxi, právě při použití velkého kontextu, který je dnes důležitý například při programování. K dlouhému kontextu si povíme detailní vysvětlení na závěr.","headline":"Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/item/meta-llama4/"},"url":"https://www.marigold.cz/item/meta-llama4/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Meta právě vydala novou verzi svého open source LLM, který se jmenuje Llama 4. Ve skutečnosti jde o tři nové modely: Llama 4 Scout, Llama 4 Maverick a Llama 4 Behemoth, které se liší počtem aktivních parametrů a schopnostmi - a samozřejmě také požadovanou hardware výbavou. A to je to důležité: nová Llama 4 umí běžet na poměrně příznivé sestavě hardware, přitom nabízí skvělý výkon a open source prostředí. A co je naprosto famózní, je kontextové okno na 10 milionů tokenů, což je 10x více než dnes nabízí nejpokročilejší LLM Google Gemini. Jistě, rozsah kontextu se projevuje na výkonu, proto bude zajímavé sledovat, jak se to projeví v praxi, právě při použití velkého kontextu, který je dnes důležitý například při programování. K dlouhému kontextu si povíme detailní vysvětlení na závěr.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem" />
+    <meta property="twitter:title" content="Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem" />
+    
+
+    
+    <!-- page.thumbnail -->
+    
+        <!-- page.thumbnail https://www.marigold.cz/assets/llama4.jpeg |  -->
+    <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/llama4.jpeg"/>
+    <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/llama4.jpeg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/item/meta-llama4/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-mensi.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="https://www.aivefirmach.cz">🧑‍💻 Kurz AI</a> | <a href="https://www.aivefirmach.cz/najmetesime/">💰 Konzultace</a> | <a href="https://zandl.substack.com">✉️ News...</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Art</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+  </style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem</h1>
+
+  
+  <div class="posts">
+    <blockquote>
+      <p>💡 Firemní <a href="https://www.aivefirmach.cz/">workshopy o umělé inteligenci</a> - pojďme se zamyslet nad tím, jak se vaší firmy dotkne AI a jak se na to připravit!</p>
+    </blockquote>
+  </div>
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+5.
+duben
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#AI">AI</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Meta">Meta</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Llama">Llama</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+  
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/llama4.jpeg" alt="Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem">
+  </div>
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Meta právě vydala novou verzi svého open source LLM, který se jmenuje Llama 4. Ve skutečnosti jde o tři nové modely: Llama 4 Scout, Llama 4 Maverick a Llama 4 Behemoth, které se liší počtem aktivních parametrů a schopnostmi - a samozřejmě také požadovanou hardware výbavou. A to je to důležité: nová Llama 4 umí běžet na poměrně příznivé sestavě hardware, přitom nabízí skvělý výkon a open source prostředí. A co je naprosto famózní, je kontextové okno na 10 milionů tokenů, což je 10x více než dnes nabízí nejpokročilejší LLM Google Gemini. Jistě, rozsah kontextu se projevuje na výkonu, proto bude zajímavé sledovat, jak se to projeví v praxi, právě při použití velkého kontextu, který je dnes důležitý například při programování. K dlouhému kontextu si povíme detailní vysvětlení na závěr.</p>
+
+<p>📊 <strong>Tři nové modely:</strong>
+• <strong>Llama 4 Scout:</strong> 17B aktivních parametrů s 16 experty, dokáže běžet na jediné H100 GPU
+• <strong>Llama 4 Maverick:</strong> 17B aktivních parametrů se 128 experty, výjimečná multimodální schopnost
+• <strong>Llama 4 Behemoth:</strong> 288B aktivních parametrů, stále ve vývoji, již nyní předčí GPT-4.5, Claude Sonnet 3.7 a Gemini 2.0 Pro v STEM benchmarcích</p>
+
+<p>💡 <strong>Klíčové technologické průlomy:</strong>
+• První nativně multimodální modely Mety využívající architekturu mixture-of-experts (MoE)
+• Průlomové kontextové okno 10M tokenů u Llama 4 Scout (10x více než nabízí Google)
+• Trénink na více než 30 bilionech tokenů (dvojnásobek oproti Llama 3)
+• Podpora pro 200 jazyků s 10x více multilingválními tokeny než předchozí verze
+• Zpracování různorodých dat včetně textu, obrazu a videa</p>
+
+<p>⚖️ <strong>Výrazné zlepšení v oblasti vyvážení a bezpečnosti:</strong>
+• Snížení míry odmítnutí odpovědí na kontroverzní témata ze 7% na méně než 2%
+• Dosažení politické vyváženosti srovnatelné s modelem Grok, s výrazně menším počtem nevyvážených odpovědí
+• Open-source bezpečnostní nástroje včetně Llama Guard, Prompt Guard a CyberSecEval
+• Vývojáři mohou integrovat ochranné prvky proti potenciálně škodlivým vstupům a výstupům</p>
+
+<p>🔥 <strong>Výkonnostní přednosti:</strong>
+• Llama 4 Scout překonává Gemma 3, Gemini 2.0 Flash-Lite a Mistral 3.1
+• Llama 4 Maverick předčí GPT-4o a Gemini 2.0 Flash v řadě benchmarků
+• Srovnatelné výsledky s <a href="/item/deepseek/">DeepSeek</a> v3 v oblasti uvažování a kódování - s polovinou aktivních parametrů
+• Bezkonkurenční poměr výkonu a nákladů, chatovací verze skóruje 1417 ELO na LMArena</p>
+
+<p><img src="https://www.marigold.cz/assets/llama4-vykon.png" alt="Llama 4 a výkonnostní benchmarky" /></p>
+
+<p>Výborné jsou také cenové parametry pro případ, že chcete použít Llama 4 přes API a nechcete ji instalovat na vlastní servery:</p>
+
+<p><img src="https://www.marigold.cz/assets/llama4-ceny-parametry.jpg" alt="Cenové parametry Llama 4" /></p>
+
+<p>Musím říct, že je to velmi příjemné překvapení. I když jsou to zatím jen papírová data a osobní zkušenost chybí, vypadá to velmi slibně a Meta jistě nebude slibovat něco, co alespoň přibližně není pravda. Na větší testování si musím počkat na začátek týdne, až si trochu uvolním místo na serverech :)</p>
+
+<p>Více informací o modelech Llama 4 včetně detailů o tréninku a benchmarcích: <a href="https://go.fb.me/gmjohs">https://go.fb.me/gmjohs</a>.</p>
+
+<p>⬇️ <a href="https://go.fb.me/bwwhe9">Stáhnout Llama 4 můžete zde</a>.</p>
+
+<h2 id="architektura-irope-čili-jak-se-meta-dostala-k-desetimilionovému-kontextu">Architektura iRoPE čili jak se Meta dostala k desetimilionovému kontextu.</h2>
+
+<p>Deset milionů tokenů není vůbec maličkost, to je mimo jiné třeba 20 hodin videa, které si může Llama 4 Scout nacpat do paměti. Za tímto průlomem stojí architektura iRoPE.</p>
+
+<p>Architektura iRoPE, kterou vyvinul tým Meta pro modely Llama 4, představuje inovativní přístup k řešení jednoho z největších problémů současných jazykových modelů - efektivní práce s extrémně dlouhým kontextem. Název iRoPE znamená <em>“interleaved Rotary Position Embedding”</em>, tedy prokládané rotační poziční kódování.</p>
+
+<p>Tradiční transformerové architektury mají problém se zpracováním velmi dlouhých textů ze dvou důvodů. Za prvé, standardní attention mechanismus má kvadratickou složitost, což znamená, že paměťové a výpočetní nároky dramaticky rostou s délkou vstupu. Za druhé, poziční kódování, které umožňuje modelu rozlišovat pořadí slov, se obtížně extrapoluje na délky výrazně přesahující trénovací data.</p>
+
+<p>Architektura iRoPE elegantně řeší tyto problémy kombinací dvou typů pozornostních vrstev, které se v modelu vzájemně prokládají (odtud “interleaved” v názvu).</p>
+
+<p><em>První typ tvoří lokální vrstvy</em>, které používají tradiční rotační poziční kódování (RoPE). Tyto vrstvy zpracovávají pouze krátké úseky textu, typicky do 8K tokenů, a jsou zodpovědné za zachycení jemných místních souvislostí a jazykových vzorů. Klíčovou optimalizací je, že text rozdělují na menší části, které zpracovávají paralelně, což výrazně zvyšuje efektivitu.</p>
+
+<p><em>Druhý typ představují globální vrstvy</em>, které na rozdíl od lokálních vrstev zpracovávají celý dlouhý kontext bez použití pozičních embedingů. To je revoluční myšlenka - tyto vrstvy se nesnaží rozlišovat konkrétní pozice, ale soustředí se na sémantické vztahy mezi různými částmi textu. Tím, že se model nemusí spoléhat na poziční informace, dokáže lépe generalizovat na délky daleko přesahující trénovací data.</p>
+
+<p>Síla architektury spočívá právě v prokládání těchto dvou typů vrstev. Lokální vrstvy poskytují přesné modelování blízkých vztahů, zatímco globální vrstvy umožňují modelu “vidět” a propojovat vzdálené části kontextu. Takto dokáže model efektivně pracovat s kontextem o délce 10 milionů tokenů, i když byl trénován na mnohem kratších sekvencích (maximálně 256K tokenů).</p>
+
+<p>Dalším důležitým aspektem je řešení problému “zploštění” pozornosti. S rostoucí délkou kontextu totiž mechanismus pozornosti přirozeně ztrácí schopnost zaměřit se na důležité informace - pozornost se “rozptyluje” napříč mnoha tokeny. Tým Meta vyvinul speciální techniku teplotního škálování, kterou aplikují pouze během inference a pouze na globální vrstvy. Tato technika pomáhá modelu udržet “ostrou” pozornost i při práci s extrémně dlouhými kontexty, aniž by to negativně ovlivnilo jeho výkon na krátkých textech.</p>
+
+<p>Klíčovým vhledem celého přístupu je změna perspektivy - místo snahy trénovat model přímo na velmi dlouhých sekvencích (což by bylo extrémně náročné na výpočetní zdroje), tým Meta přeformuloval problém jako dosažení “nekonečného kontextu”. To vedlo k návrhu architektury, která dokáže elegantně extrapolovat z krátkých trénovacích sekvencí na mnohem delší vstupy při reálném použití. Tento přístup je nejen praktičtější z hlediska tréninku, ale také lépe škáluje směrem k budoucím modelům s ještě delším kontextem.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/stiglitz_konec_neoliberalismu/">👉Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin</a>
+                <p class="excerpt">
+                  
+                    Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalo...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
+                <p class="excerpt">
+                  
+                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
+
+Proč skutečně Goldee skončilo, netuší...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem&url=https://www.marigold.cz/item/meta-llama4/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/item/meta-llama4/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_posts/2025/2025-04-05-meta-llama4.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/item/architektura-vibecoding/">&laquo; Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu</a> |
+      
+      
+      
+        <a class="next" href="/item/midjourney-v7/">Midjourney V7 - Nová verze modelu pro AI generování obrazů &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+ 
+  </body>
+</html>
