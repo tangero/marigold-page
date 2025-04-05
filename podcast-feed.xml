@@ -212,6 +212,21 @@
     
     
     
+    <item>
+      <title>Audio podcast z vašich textů automaticky. NotebookLM a Elevenlabs GenFM</title>
+      <description>Umělá inteligence přinesla řadu úžasných nástrojů pro analýzu dat. Jednou z forem výstupu takové analýzy může být i hlasová podcast. Představíme si tři nástroje, do nichž můžete nasypat své podklady, nechat si vygenerovat hlasový výstup - a ten si pak nahrát do mobilu a poslouchat jej za běhání či v autě.
+</description>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <enclosure url="http://www.marigold.cz/audio/2024-11-28-podcasty-z-textu-automaticky.mp3" 
+                 length="0" 
+                 type="audio/mpeg"/>
+      <guid>https://www.marigold.cz/item/podcasty-z-textu-automaticky/</guid>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:summary>Umělá inteligence přinesla řadu úžasných nástrojů pro analýzu dat. Jednou z forem výstupu takové analýzy může být i hlasová podcast. Představíme si tři nástroje, do nichž můžete nasypat své podklady, nechat si vygenerovat hlasový výstup - a ten si pak nahrát do mobilu a poslouchat jej za běhání či v autě.
+</itunes:summary>
+      <itunes:image href="https://www.marigold.cz/assets/podcast-cover.jpg"/>
+    </item>
+    
     
     
     
