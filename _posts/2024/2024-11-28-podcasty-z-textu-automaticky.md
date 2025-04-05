@@ -1,21 +1,28 @@
 ---
+audio_url: http://www.marigold.cz/audio/2024-11-28-podcasty-z-textu-automaticky.mp3
+audiooff: false
 author: Patrick Zandl
 categories:
 - AI
 - NotebookLM
 - podcasty
 layout: post
-post_excerpt: 'Nové služby nabízejí zajímavou funkci: vezmou vaše materiály a vytvoří
-  z nich atraktivní podcast, v němž se dvojice moderátorů baví o vašich materiálech.
-  Můžete to používat pro sebevzdělávání i pro své posluchače. Jak na to a jakou službu
-  zvolit? Podíváme se zde.'
+post_excerpt: "Nov\xE9 slu\u017Eby nab\xEDzej\xED zaj\xEDmavou funkci: vezmou va\u0161\
+  e materi\xE1ly a vytvo\u0159\xED z nich atraktivn\xED podcast, v n\u011Bm\u017E\
+  \ se dvojice moder\xE1tor\u016F bav\xED o va\u0161ich materi\xE1lech. M\u016F\u017E\
+  ete to pou\u017E\xEDvat pro sebevzd\u011Bl\xE1v\xE1n\xED i pro sv\xE9 poslucha\u010D\
+  e. Jak na to a jakou slu\u017Ebu zvolit? Pod\xEDv\xE1me se zde."
 summary_points:
-- NotebookLM umožňuje analýzu dokumentů a generování podcastů.
-- GenFM vytváří podcasty z dokumentů s podporou češtiny.
-- Superpodcast nabízí nastavení podcastů, ale je přetížený.
-- Audio Přehledy v NotebookML jsou kvalitní, ale pouze v angličtině.
+- "NotebookLM umo\u017E\u0148uje anal\xFDzu dokument\u016F a generov\xE1n\xED podcast\u016F\
+  ."
+- "GenFM vytv\xE1\u0159\xED podcasty z dokument\u016F s podporou \u010De\u0161tiny."
+- "Superpodcast nab\xEDz\xED nastaven\xED podcast\u016F, ale je p\u0159et\xED\u017E\
+  en\xFD."
+- "Audio P\u0159ehledy v NotebookML jsou kvalitn\xED, ale pouze v angli\u010Dtin\u011B\
+  ."
 thumbnail: https://www.marigold.cz/assets/google-notebookml.png
-title: Audio podcast z vašich textů automaticky. NotebookLM a Elevenlabs GenFM
+title: "Audio podcast z va\u0161ich text\u016F automaticky. NotebookLM a Elevenlabs\
+  \ GenFM"
 ---
 
 Umělá inteligence přinesla řadu úžasných nástrojů pro analýzu dat. Jednou z forem výstupu takové analýzy může být i hlasová podcast. Představíme si tři nástroje, do nichž můžete nasypat své podklady, nechat si vygenerovat hlasový výstup - a ten si pak nahrát do mobilu a poslouchat jej za běhání či v autě.
