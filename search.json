@@ -289,12 +289,12 @@
     },
   
     {
-      "title"    : "Jak vytvořit audio podcast z vašich textů automaticky pomocí AI",
+      "title"    : "Audio podcast z vašich textů automaticky. NotebookLM a Elevenlabs GenFM",
       "url"      : "//item/podcasty-z-textu-automaticky/",
-      "category" : "AI, NotebookML, podcasty",
+      "category" : "AI, NotebookLM, podcasty",
       "tags"     : "",
       "date"     : "28.11.2024",
-      "content"  : "Umělá inteligence přinesla řadu úžasných nástrojů pro analýzu dat. Jednou z forem výstupu takové analýzy může být i hlasová podcast. Představíme si tři nástroje, do nichž můžete nasypat své podklady, nechat si vygenerovat hlasový výstup - a ten si pak nahrát do mobilu a poslouchat jej za běhání či v autě.Google NotebookMLPrvním projektem je NotebookML - služba společnosti Google, kterou bychom mohli nazvat “zakladatel žánru”. Projekt byl původně představen v roce 2023 pod názvem “Project Tailwind”. Na jeho vývoji se podílel populární vědecký autor Steven Johnson a produktová manažerka Raiza Martin.Základem služby NotebookML je možnost nahrát do ní dokumenty ke..."
+      "content"  : "Umělá inteligence přinesla řadu úžasných nástrojů pro analýzu dat. Jednou z forem výstupu takové analýzy může být i hlasová podcast. Představíme si tři nástroje, do nichž můžete nasypat své podklady, nechat si vygenerovat hlasový výstup - a ten si pak nahrát do mobilu a poslouchat jej za běhání či v autě.Google NotebookLMPrvním projektem je NotebookLM - služba společnosti Google, kterou bychom mohli nazvat “zakladatel žánru”. Projekt byl původně představen v roce 2023 pod názvem “Project Tailwind”. Na jeho vývoji se podílel populární vědecký autor Steven Johnson a produktová manažerka Raiza Martin.Základem služby NotebookML je možnost nahrát do ní dokumenty ke..."
     },
   
     {
