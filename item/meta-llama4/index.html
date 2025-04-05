@@ -265,6 +265,41 @@ duben
 
 <p>Klíčovým vhledem celého přístupu je změna perspektivy - místo snahy trénovat model přímo na velmi dlouhých sekvencích (což by bylo extrémně náročné na výpočetní zdroje), tým Meta přeformuloval problém jako dosažení “nekonečného kontextu”. To vedlo k návrhu architektury, která dokáže elegantně extrapolovat z krátkých trénovacích sekvencí na mnohem delší vstupy při reálném použití. Tento přístup je nejen praktičtější z hlediska tréninku, ale také lépe škáluje směrem k budoucím modelům s ještě delším kontextem.</p>
 
+<pre><code class="language-mermaid">flowchart TD
+    subgraph Architecture["Architektura iRoPE"]
+        Input[/"Vstupní sekvence\n(až 10M tokenů)"/] --&gt; Split["Rozdělení zpracování"]
+        
+        Split --&gt; LocalLayers["Lokální vrstvy s RoPE"]
+        Split --&gt; GlobalLayers["Globální vrstvy bez pozičních embedingů"]
+        
+        subgraph LocalProcessing["Zpracování lokálních vrstev"]
+            LocalLayers --&gt; Chunking["Rozdělení na chunky\n(typicky 8K tokenů)"]
+            Chunking --&gt; ParallelProc["Paralelní zpracování chunků"]
+            ParallelProc --&gt; LocalPatterns["Zachycení lokálních vzorů\na závislostí"]
+        end
+        
+        subgraph GlobalProcessing["Zpracování globálních vrstev"]
+            GlobalLayers --&gt; FullContext["Zpracování celého kontextu"]
+            FullContext --&gt; SemanticRel["Zachycení sémantických vztahů\nbez ohledu na pozici"]
+            SemanticRel --&gt; TempScaling["Teplotní škálování při inferenci\n(kompenzace zploštění pozornosti)"]
+        end
+        
+        LocalPatterns --&gt; Interleaving["Prokládání (Interleaving)\nlokálních a globálních reprezentací"]
+        TempScaling --&gt; Interleaving
+        
+        Interleaving --&gt; Output[/"Výstupní reprezentace\ns efektivním dlouhým kontextem"/]
+    end
+    
+    style Architecture fill:#f5f5f5,stroke:#333,stroke-width:1px
+    style LocalProcessing fill:#e1f5fe,stroke:#0288d1,stroke-width:1px
+    style GlobalProcessing fill:#e8f5e9,stroke:#388e3c,stroke-width:1px
+    
+    style Input fill:#bbdefb,stroke:#1976d2,stroke-width:1px
+    style Output fill:#c8e6c9,stroke:#43a047,stroke-width:1px
+    style Split fill:#fff9c4,stroke:#fbc02d,stroke-width:1px
+    style Interleaving fill:#f8bbd0,stroke:#e91e63,stroke-width:1px
+</code></pre>
+
   </div>
 
   <div class="ai-rubric-link">
@@ -290,10 +325,12 @@ duben
           
             <tr>
               <td>
-                <a href="/item/stiglitz_konec_neoliberalismu/">👉Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin</a>
+                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
                 <p class="excerpt">
                   
-                    Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalo...
+                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí.
+
+Poznatek první: umělá inteli...
                   
                 </p>
               </td>
@@ -301,12 +338,10 @@ duben
           
             <tr>
               <td>
-                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
+                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
                 <p class="excerpt">
                   
-                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
-
-Proč skutečně Goldee skončilo, netuší...
+                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  Zlatá éra weblogů a můžete si ji stáhnout zdar...
                   
                 </p>
               </td>
