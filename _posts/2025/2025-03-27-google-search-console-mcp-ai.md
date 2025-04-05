@@ -13,7 +13,7 @@ summary_points:
 - Integrace GSC a MCP automatizuje SEO analýzu a reporting webových stránek.
 - Implementace vyžaduje Google Cloud projekt, aktivované GSC API a MCP server.
 - Konektor umožňuje vlastní časové rozsahy, filtry a agregaci dat z GSC.
-thumbnail: https://www.m3estrategia.com/wp-content/uploads/2020/03/<a href='/google/' class='keyword-link'>google</a>-search-console-m3.jpg
+thumbnail: https://www.m3estrategia.com/wp-content/uploads/2020/03/google-search-console-m3.jpg
 title: Propojení Google Search Console s MCP - Komplexní průvodce
 ---
 
