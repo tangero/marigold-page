@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-04T20:06:08+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html"></title><link href="https://www.marigold.cz/item/2025-04-03-architektura-vibecoding/" rel="alternate" type="text/html" title="" /><published>2025-04-04T20:06:08+00:00</published><updated>2025-04-04T20:06:08+00:00</updated><id>https://www.marigold.cz/item/2025-04-03-architektura-vibecoding</id><content type="html" xml:base="https://www.marigold.cz/item/2025-04-03-architektura-vibecoding/"><![CDATA[<p>Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže <a href="/vibe-coding/">vibe coding</a>, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-05T09:25:57+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html"></title><link href="https://www.marigold.cz/item/2025-04-03-architektura-vibecoding/" rel="alternate" type="text/html" title="" /><published>2025-04-05T09:25:57+00:00</published><updated>2025-04-05T09:25:57+00:00</updated><id>https://www.marigold.cz/item/2025-04-03-architektura-vibecoding</id><content type="html" xml:base="https://www.marigold.cz/item/2025-04-03-architektura-vibecoding/"><![CDATA[<p>Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže <a href="/vibe-coding/">vibe coding</a>, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.</p>
 
 <p>Pojdme si spolu projít zásady, které se mi za posledních pár pokusů vydestilovaly jako základ úspěchu a rychlého posunu s vibe codingem:</p>
 
@@ -120,7 +120,76 @@
 
 <p>Pro vývojáře, kteří chtějí experimentovat s tímto přístupem, je důležité mít na paměti, že nejde o kompletní náhradu tradičních vývojových metod, ale spíše o komplementární přístup vhodný zejména pro rychlý vývoj prototypů a MVP před jejich případným přepracováním do produkční kvality.</p>
 
-<p>Pro zajímavost si někdy popíšeme, jak jsem vibe codingem realizoval některé služby, jako jsou například <a href="http://www.zajimaveprednasky.cz">zajímaveprednasky.cz</a>…</p>]]></content><author><name>Patrick Zandl</name></author></entry><entry xml:lang="cs"><title type="html">Deset knih o současné politice, ekonomice a technologiích na jaro 2025</title><link href="https://www.marigold.cz/item/deset-knih-na-jaro-2025/" rel="alternate" type="text/html" title="Deset knih o současné politice, ekonomice a technologiích na jaro 2025" /><published>2025-03-29T00:00:00+00:00</published><updated>2025-03-29T00:00:00+00:00</updated><id>https://www.marigold.cz/item/deset-knih-na-jaro-2025</id><content type="html" xml:base="https://www.marigold.cz/item/deset-knih-na-jaro-2025/"><![CDATA[<p>Připravil jsem výběr knih o současné politice, ekonomice a technologiích pro letošní jaro, toto je dávka anglických knih. České budou příležitostně následovat.</p>
+<p>Pro zajímavost si někdy popíšeme, jak jsem vibe codingem realizoval některé služby, jako jsou například <a href="http://www.zajimaveprednasky.cz">zajímaveprednasky.cz</a>…</p>]]></content><author><name>Patrick Zandl</name></author></entry><entry xml:lang="cs"><title type="html">Midjourney V7 - Nová verze modelu pro AI generování obrazů</title><link href="https://www.marigold.cz/item/midjourney-v7/" rel="alternate" type="text/html" title="Midjourney V7 - Nová verze modelu pro AI generování obrazů" /><published>2025-04-05T00:00:00+00:00</published><updated>2025-04-05T00:00:00+00:00</updated><id>https://www.marigold.cz/item/midjourney-v7</id><content type="html" xml:base="https://www.marigold.cz/item/midjourney-v7/"><![CDATA[<p>Midjourney vydal alfa verzi svého obrazového modelu V7, který přináší změny v kvalitě a funkcionalitě AI generování obrazů. Model zavádí nové funkce měnící způsob interakce s nástrojem a zlepšující kvalitu výstupů.</p>
+
+<h2 id="klíčové-změny-modelu-v7">Klíčové změny modelu V7</h2>
+
+<h3 id="zpracování-textových-promptů">Zpracování textových promptů</h3>
+<p>Model V7 nabízí lepší porozumění textovým promptům. Uživatelé zmiňují schopnost modelu přesněji interpretovat složitější instrukce, což je vítané hlavně pro náročnější práci, kdy jste potřebovali modelu dát lepší zadání. Starší modely prostě delší prompty než cca 100 slov nezpracovávaly dobře.</p>
+
+<h3 id="zpracování-obrazových-vstupů">Zpracování obrazových vstupů</h3>
+<p>Obrazové prompty dosahují vyšší kvality. V7 lépe zachycuje a reprodukuje textury a detaily z referenčních obrázků.</p>
+
+<h3 id="kvalita-detailů">Kvalita detailů</h3>
+<p>V7 přináší zlepšení v zobrazování lidských těl, rukou a objektů. Tento aspekt, často kritizovaný u předchozích verzí, byl vylepšen díky lepší koherenci detailů.</p>
+
+<h2 id="personalizace-jako-výchozí-funkce">Personalizace jako výchozí funkce</h2>
+
+<p>Midjourney V7 je první model s aktivovanou personalizací ve výchozím nastavení. Tento přístup vyžaduje počáteční personalizaci (cca 5 minut), následně umožňuje systému interpretovat preference uživatele a vytvářet výstupy odpovídající jeho estetickým preferencím.</p>
+
+<p>Uživatelé se v odezvách shodují v tom, že personalizace přináší lepší výsledky, ačkoliv proces projití personalizace je trochu zdlouhavý.</p>
+
+<h2 id="draft-mode">“Draft Mode”</h2>
+
+<p>Významnou inovací je “Draft Mode” (režim nákresů). Dělá to, jak ho pojmenovali - udělá jednodušší verzi obrázku významně rychleji a až jste s ní v pohodě, vygeneruje lepší verzi.  Co Draft Mode nabízí:</p>
+
+<ul>
+  <li>10x rychlejší renderování obrazů</li>
+  <li>Poloviční náklady oproti standardnímu režimu</li>
+  <li>Konverzační rozhraní pro iteraci nápadů</li>
+  <li>Možnost hlasového ovládání</li>
+</ul>
+
+<p>Podle uživatelů představuje Draft Mode změnu pracovního postupu, umožňující rychlejší experimentování. Draft lze povýšit na plnou kvalitu pomocí funkce “enhance” nebo “vary”.</p>
+
+<h2 id="dostupné-režimy-a-ceny">Dostupné režimy a ceny</h2>
+
+<p>V7 začíná ve dvou režimech:</p>
+<ul>
+  <li>Turbo: rychlejší zpracování za dvojnásobnou cenu oproti V6</li>
+  <li>Relax: standardní zpracování za nižší cenu</li>
+</ul>
+
+<p>Standardní režim bude dostupný později. Draft Mode snižuje náklady na polovinu oproti běžnému režimu.</p>
+
+<h2 id="kompatibilita-a-plánovaný-vývoj">Kompatibilita a plánovaný vývoj</h2>
+
+<p>Funkce jako upscaling, editace a retexturing momentálně využívají modely V6. Vývojový tým plánuje aktualizaci těchto funkcí v budoucích verzích. Moodboards a SREF (Self-Reference) jsou funkční a jejich výkon bude postupně vylepšován.</p>
+
+<p>Midjourney plánuje vydávat nové funkce každé 1-2 týdny během následujících 60 dnů. Hlavní připravovanou funkcí je nová V7 reference postav a objektů.</p>
+
+<h2 id="reakce-komunity">Reakce komunity</h2>
+
+<p>Ohlasy z komunity na Redditu zahrnují:</p>
+
+<ol>
+  <li>Zlepšení v detailech a texturách</li>
+  <li>Využití Draft Mode pro kreativní proces</li>
+  <li>Lepší interpretace textových promptů</li>
+  <li>Konzistentnější výsledky při generování postav</li>
+</ol>
+
+<p>Někteří uživatelé upozorňují, že V7 vyžaduje jiný přístup k promptování než předchozí verze.</p>
+
+<p>Midjourney V7 představuje další krok v oblasti AI generování obrazů. Kombinace vylepšené kvality, personalizace, Draft Mode a plánovaného vývoje rozšiřuje možnosti nástroje. Pro profesionální uživatele přináší V7 kvalitnější výstupy a efektivnější pracovní postupy.</p>
+
+<p>Model V7 je dostupný v alfa verzi a vývojový tým sbírá zpětnou vazbu od komunity. Je ale dosti zřejmé, že uvolnění proběhlo hodně narychlo, zjevně v reakci na OpenAI 4o obrazový model, který vyšel před několika dny a je skvělý. V každém případě se ukazuje, že Midjourney stále vede v oblasti AI generování obrazů, jenže pro mnoho uživatelů může být kvalita modelu 4o dostatečná. Dám třeba nemám pro kvalitnější obrázky velké uplatnění, takže Midjourney používám jen málo, spíše pro práce zákazníků.</p>
+
+<p>Dejme si dva příklady, jeden ukazuje kvalitu práce v hi-res oblasti a zejména na fotkách lidí, druhý v případě animovaného stylu. Na internetu již lítají stovky příkladů, pomocí dalších AI nástrojů z toho dělají lidé i spojitá videa :)</p>
+
+<p><img src="/assets/midjourneyVý-example1.jpeg" alt="Fotorealistický obrázek obličeje" /></p>
+
+<p><img src="/assets/midjourneyVý-example2.jpeg" alt="Vygenerované Anime, všímejte si těch detailů" /></p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Midjourney" /><summary type="html"><![CDATA[Midjourney vydal alfa verzi svého obrazového modelu V7, který přináší změny v kvalitě a funkcionalitě AI generování obrazů. Model zavádí nové funkce měnící způsob interakce s nástrojem a zlepšující kvalitu výstupů.]]></summary></entry><entry xml:lang="cs"><title type="html">Deset knih o současné politice, ekonomice a technologiích na jaro 2025</title><link href="https://www.marigold.cz/item/deset-knih-na-jaro-2025/" rel="alternate" type="text/html" title="Deset knih o současné politice, ekonomice a technologiích na jaro 2025" /><published>2025-03-29T00:00:00+00:00</published><updated>2025-03-29T00:00:00+00:00</updated><id>https://www.marigold.cz/item/deset-knih-na-jaro-2025</id><content type="html" xml:base="https://www.marigold.cz/item/deset-knih-na-jaro-2025/"><![CDATA[<p>Připravil jsem výběr knih o současné politice, ekonomice a technologiích pro letošní jaro, toto je dávka anglických knih. České budou příležitostně následovat.</p>
 
 <h3 id="max-chafkin--the-contrarian">Max Chafkin – The Contrarian</h3>
 
@@ -2365,136 +2434,4 @@ Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl j
 
 <p>Pro <a href="/item/programovani-s-ai/">programování s AI</a> se začíná razit pojem <a href="/item/programovani-s-ai/">Vibe Coding</a> - to jen tak na okraj. Teď je úžasná chvíle, kdy začít. Zkuste si vyvinout malou aplikaci, tím dostanete do rukou nákladovou stránku věci, protože účtování podle <a href="/ai/tokeny-versus-slova/">tokenů</a> není zrovna snadno pochopitelné. Obecně vzato se vám totiž účtují slova, která se odešlou do umělé inteligence a zase se z ní přijmou. Jenže to by bylo snadné, vaše zadání má pár slov, i ten zdrojový kód není moc dlouhá. Ve skutečnosti se ale posílají neustále tam a zpět nejrůznější související kódy jako zdrojáky, které by měla AI vidět, když hledá chybu, pak taky nejrůznější ladící výstupy atd. Milion <a href="/ai/tokeny-versus-slova/">tokenů</a> je rychle v čudu.</p>
 
-<p>Přesto byste do toho měli pár desítek dolarů investovat a <a href="/item/programovani-s-ai/">vibe coding</a> si vyzkoušet. Začněte s Tempo Labs - jejich nástroj je nejvíce přímočarný. Někdy příště si řekneme, jak s Tempo nejlépe začít.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="programování" /><summary type="html"><![CDATA[Programování pro neprogramátory je svatý grál počítačů. A zdá se, že už je opravdu tady. Díky AI vzniklo několik nástrojů, které už se nesoustředí na to, že programátorům našeptávají pokračování příkazu nebo opravují chyby v kódu. Moderní nástroje zdrojový kód vytvářejí celý ze zadání a některé už jej dokonce i před uživatelem skrývají. Programovat může nyní „skoro každý“. Jak na to?]]></summary></entry><entry xml:lang="cs"><title type="html">🐟 Deepseek jako čínský Sputnik</title><link href="https://www.marigold.cz/item/deepseek/" rel="alternate" type="text/html" title="🐟 Deepseek jako čínský Sputnik" /><published>2025-01-29T00:00:00+00:00</published><updated>2025-01-29T00:00:00+00:00</updated><id>https://www.marigold.cz/item/deepseek</id><content type="html" xml:base="https://www.marigold.cz/item/deepseek/"><![CDATA[<p>Asi jste to zaznamenali. Čínská firma  <a href="https://www.deepseek.com/">Deepseek</a>  vydala své nové AI modely a z akciového trhu amerických technologických firem se v tu ránu vyfouklo bilion dolarů. Akcie Nvidia a Broadcomu, dvou veřejně obchodovatelných firem závislých na úspěchu prodeje AI čipů. poklesly za den o 17 procent (v pondělí) a za úterý se kurz nevzpamatoval, spíše to vypadá, že se stabilizuje.</p>
-
-<p>Něco málo si k tomu řekněme:</p>
-
-<ol>
-  <li>
-    <p>Platí pravidlo žádných prudkých pohybů. Jestli máte akcie, zatím se jich nezbavujte.</p>
-  </li>
-  <li>
-    <p>Tento článek jsem od soboty přepsal třikrát a rozhodl se, že z něj udělám jen velmi malý teaser. Situace se totiž stále neusadila a není úplně jasné, co je pravda, náhoda a co třend.</p>
-  </li>
-</ol>
-
-<p>Co se vlastně stalo? Čínská firma <a href="/item/deepseek/">Deepseek</a> vydala před vánoci druhou generaci svého AI LLM. Už to bylo velký. Teď vydala další a uvolnila  <a href="https://www.deepseek.com/">webovou verzi svého modelu</a>  jako open source ke stažení. A byla z toho právě ta bomba na trhu, kdy se z toho všichni vzpamatovávají a přemýšlejí, co to znamená a jak to všechno mění…</p>
-
-<p>Takže si pojďme dát rychlou časovou osu s komentáři:</p>
-
-<h4 id="prosinec-2024">Prosinec 2024</h4>
-
-<ul>
-  <li><a href="/item/deepseek/">DeepSeek</a> vydává model <a href="/item/deepseek/">DeepSeek</a>-V3</li>
-  <li>Model využívá architekturu “mixture of experts” pro efektivnější využití parametrů</li>
-  <li>Reakce: Model je označen za významný pokrok v open-source AI (<a href="https://it-online.co.za/2025/01/27/chinas-deepseek-shakes-up-the-genai-market/">ITOnline</a>). Ale jinak je zatím klid.</li>
-</ul>
-
-<h4 id="20-ledna-2025">20. ledna 2025</h4>
-
-<ul>
-  <li><a href="/item/deepseek/">DeepSeek</a> vydává model <a href="/item/deepseek/">DeepSeek</a>-R1</li>
-  <li>R1 je zaměřen na pokročilé uvažování a řešení komplexních úloh</li>
-  <li>Reakce:</li>
-  <li>Model je označen za průlomový, srovnatelný s OpenAI o1</li>
-  <li>Aplikace <a href="/item/deepseek/">DeepSeek</a> se stává nejstahovanější v App Store (<a href="https://techcrunch.com/2025/01/20/deepseek-claims-its-reasoning-model-beats-openais-o1-on-certain-benchmarks/">TechCrunch</a>)</li>
-</ul>
-
-<h4 id="24-ledna-2025">24. ledna 2025</h4>
-
-<ul>
-  <li>Vychází najevo, že <a href="/item/deepseek/">DeepSeek</a> údajně vyvinul R1 za pouhých 6 milionů dolarů (je to trochu dezinfo, tolik stál čistě procesorový čas na trénování, není v tom práce, pokusy, ladění atd)</li>
-  <li>Reakce:
-    <ul>
-      <li>Pochybnosti o pravdivosti tvrzení mezi některými odborníky</li>
-      <li>Obavy investorů z možného narušení dominance amerických technologických firem (<a href="https://www.livescience.com/technology/artificial-intelligence/china-releases-a-cheap-open-rival-to-chatgpt-thrilling-some-scientists-and-panicking-silicon-valley">Livescience.com</a>)</li>
-    </ul>
-  </li>
-</ul>
-
-<h4 id="26-27-ledna-2025">26.-27. ledna 2025</h4>
-
-<ul>
-  <li>Dramatický propad akcií technologických firem</li>
-  <li>Nvidia ztrácí 17% hodnoty, což představuje rekordní jednodenní ztrátu 593 miliard dolarů</li>
-  <li>Celkově je z trhu smazáno přibližně 1 bilion dolarů hodnoty (<a href="https://evrimagaci.org/tpg/deepseek-r1-ai-model-disrupts-global-tech-market-164702">Evrimagaci</a>)</li>
-</ul>
-
-<h4 id="27-ledna-2025">27. ledna 2025</h4>
-
-<ul>
-  <li><a href="/item/deepseek/">DeepSeek</a> vydává model Janus-Pro-7B pro generování obrázků</li>
-  <li>Model údajně překonává DALL-E 3 a Stable Diffusion v některých benchmarcích</li>
-  <li>Reakce:</li>
-  <li>Další šok pro trh a konkurenci</li>
-  <li>Rostoucí uznání DeepSeeku jako vážného konkurenta v globálním AI závodě (<a href="https://observervoice.com/deepseek-unveils-janus-pro-7b-ai-model-91981/">ObserverVoice</a>)</li>
-</ul>
-
-<h4 id="28-ledna-2025">28. ledna 2025</h4>
-
-<ul>
-  <li>Pokračující diskuse o dopadu DeepSeeku na globální AI trh</li>
-  <li>Někteří experti vyzývají k opatrnosti při hodnocení tvrzení DeepSeeku</li>
-  <li>Rostoucí debata o budoucnosti AI vývoje a globální konkurenci v této oblasti (<a href="https://mickryan.substack.com/p/deepseek-r1-the-impressive-model">Mickryan</a>, FinancialExpress</li>
-</ul>
-
-<p>Co je hlavní překvapení, zádrhel a ten Sputnik efekt, ze kterého si Amerika (a především US technologické trhy) sedly na zadek?</p>
-
-<p>Na jednu stranu náklady. Na druhou stranu obrovská kvalita výstupu.</p>
-
-<p><strong>Náklady: jak to za ty peníze udělali?</strong></p>
-
-<p>Nejpozoruhodnější na DeepSeek-V3 však byla asi jeho cena. Společnost DeepSeek uvedla, že V3 trénovala přibližně dva měsíce na clusteru s 2 048 grafickými procesory, což představuje celkem 2,8 milionu GPU-hodin. Za předpokladu, že pronájem GPU stojí 2 dolary za hodinu, vychází to na přibližně 5,6 milionu dolarů nákladů na trénink.</p>
-
-<p>Pro srovnání, společnost Meta trénovala modely Llama 3 na clusteru s 16 000 GPU. Odborníci z oboru odhadují, že trénink největšího modelu Llama 3.1, který má 405 miliard parametrů, zabral přibližně 30 milionů hodin na GPU. Jinými slovy, trénink modelu Llama vyžadoval přibližně desetkrát větší výpočetní výkon než trénink modelu V3. A není zřejmé, že by Llama byl lepší model než V3.</p>
-
-<p>Jasně, v tom dokument Deepseeku to není napsané zcela přesně a je velmi pravděpodobné, že ve skutečnosti to stálo o pár nikláků více za nejrůznější testy a práce kolem toho, ale ten propad ceny na desetinu je ohromující. Za to nemůže jen faktor “čínské ceny”, tedy nižších nákladů v Číně, je za tím několik technologických průlomů. Je tu celá řada pokročilých algoritmů, jako třeba  <strong>Multi-head Latent Attention (MLA)</strong>. Ta umožňuje efektivnější inferenci díky kompresi klíčových hodnot do latentního vektoru. Česky řečeno MLA snižuje nároky na paměť během generování textu, což se projevuje ve výrazně snížených nárocích na hardware. Ale majstrštyk byl způsob, jakým tým obešel embargo na vývoz špičkových procesorů Nvidia H100. Trénink místo nich probíhal na pomalejší verzi H800 s pomalejší pamětí. A tak si deepseek napsal vlastní ovladače paměti a tím z handicapu udělal výhodu.</p>
-
-<p>DeepSeek také využívá  <strong>optimalizované <a href="https://cs.wikipedia.org/wiki/CUDA">CUDA</a> kernely</strong>  pro zvýšení rychlosti tréninku i inference. Tyto kernely jsou specificky navrženy a upraveny pro potřeby modelů DeepSeek, aby maximalizovaly využití výpočetního výkonu GPU.</p>
-
-<p>Takových přistupů a zlepšení měl za sebou Deepseek celou řadu a tím také vznikla ta technologická panika. Zjednodušeně řečeno, když vám na trénink nejpokročilejší AI stačí dvě tisícovky procesorů Nvidia, na co si pak kdo bude kupovat ty hromady procesorů, které Nvidia musí prodat, aby naplnila očekávání akcionářů? A to byl důvod, proč se akcie Nvidia a také třeba Broadcomu sesunuly v pondělí dolů a z tržní hodnoty amerických firem zmizelo 1000 miliard dolarů.</p>
-
-<p>A ceny API pro zákazníky? Tady je malé porovnání k lednu 2025.</p>
-
-<p><img src="/assets/deepseek_r1_price_compare_en.png" alt="Porovnání ceny za dotazy na API jednotlivých služeb" /></p>
-
-<h3 id="co-kvalita">Co kvalita?</h3>
-
-<p>Zjednodušeně řečeno jsou výstupy Deepseek-R1 plus mínus na stejné úrovni, jako o1 model. Graf klidně přeskočte, jestli mi věříte, ale fakultativně si jej okomentujme. Podívejme se zejména na testy, které se považují za extrémně těžké: MATH 500 (což je  <a href="https://github.com/openai/prm800k/tree/main?tab=readme-ov-file#math-splits">náhodně vybraných 500 úloh z celé testovací sady</a>), AIME 2024 (super těžké soutěžní matematické úlohy), Codeforces (soutěžní kód  <a href="https://www.interconnects.ai/i/153428255/o-overview">představený v o3</a>) a SWE-bench Verified (<a href="https://openai.com/index/introducing-swe-bench-verified/">Vylepšené rozdělení datové sady OpenAI</a>). Překonat dvojici GPT-4o a Claude 3.5 dohromady, a to s takovým náskokem, je vzácné. A ano, funguje Deepseek dobře i v češtině, i když plynulost textu je podle mě lepší jak u o1 tak u Claude, ale nic, na čem byste museli bazírovat.</p>
-
-<p><img src="/assets/deepseek-porovnani.png" alt="Porovnání výkonu jednotlivých AI modelů a Deepseek" /></p>
-
-<p>Mírně jinak to vypadá z hodnocení <a href="https://trackingai.org/">Tracking AI</a>, které používá vlastní testy, mimo jiné IQ testy norské menzy. Deepseek R1 sice zaostává za o1 modely, ale hned po nich má nejvyšší IQ, rovných 100 bodů. To o sobě může říct polovina lidí. Oproti tomu IQ 118, kolik si natestoval nejlepší AI model o1 už má pouhých 15 % lidí v populaci, takže je vidět, že ty posuny jsou vlastně velké a náročné, i když “těch pár bodů” na to nevypadá. IQ nad 130 bodů už má cca 2 % populace.</p>
-
-<p><img src="https://www.marigold.cz/assets/trackingai.png" alt="TrackingAI výsledky leden 2025" /></p>
-
-<p><strong>Co s tím dále?</strong></p>
-
-<p>Já budu situaci pozorovat, k Deepseek se chystám sepsat obsáhlejší povídání, kde si to rozebereme. Pro nás jsou ale podstatné následující poznatky - vezmu to stručně a v bodech:</p>
-
-<ul>
-  <li>
-    <p>v AI stále ještě není všechno rozdáno. Tým Deepseeku je kolem 150 lidí, naprostá většina jsou mlaďoši, kteří před dvěmi lety dodělali doktorát na nějaké prestižní čínské univerzitě. A zatřásli světem.</p>
-  </li>
-  <li>
-    <p>V AI je stále ještě prostor pro chytrost a motivovaný tým</p>
-  </li>
-  <li>
-    <p>Cena je zásadní měřítko, Deepseek shodil ceny za používání AI modelů v Číně na třicetinu a podobně zatřese cenami všude jinde. Jejich API jede podle OpenAI, takže přepojení na ně a využívání velmi kvalitního AI za nižší cenu brání jen málo co</p>
-  </li>
-  <li>
-    <p>ale pořád je to Čína: data putují do Číny, věřte si tomu, kdo a co chcete, ale čínské zákony jsou jasné a neúprosné, stejně jako licenční podmínky, které říkají, že mohou všechno.</p>
-  </li>
-  <li>
-    <p>zatím to nevypadá, že by mobilní apka do Číny posílala nezbytně více věcí, než maximum, ale stejně: pokud chcete experimentovat na mobilu, dělejte to přes web. Navíc Deepseek teď má kapacitní problémy a přetížené servery, nebudete z něj mít tak dobrý dojem, jak dobrý skutečně je.</p>
-  </li>
-  <li>
-    <p>je vidět, že velká část práce je dnes ve směru agentů, tedy vyměny dat mezi LLM a vnějším světem. Deepseek nemá žádná rozhraní a napojení do vnějšího světa krom přístupu na web. A nemá ani podpůrné režimy jako Canvas či Artifact.</p>
-  </li>
-</ul>
-
-<p>Jedno podstatné sdělení zůstává pro EU: pokusit se regulovat AI bylo … zajímavý, odvážný, ba revoluční nápad. Jenže se bude muset změnit. Deepseek je totiž opensource a dá se předpokládat, že kvůli jeho kvalitám na něj přejdou všichni, co opensource potřebují. Jenže nebudou moci dodržet regulaci EU týkající se jasné definice trénovacích dat. Deepseek do své AI něco nasypal, moc není jasné, co (část trénoval vůči AI od OpenAI, což jeho chat bezelstně přiznává) - a jak by se z toho udělala věrohodná definice původu obsahu, mi jasné není. Takže jakkoliv je důvod té regulace odůvodněný, všichni se zřejmě smíří s tím, že to funguje a funguje to dobře, čert vem, kde vazli data. Akorát se toho nemáte ptát v Číně na Náměstí nebeského něčeho, ale na staženém modelu už můžete dodat i to, že jde o klid.</p>
-
-<blockquote>
-  <p>Deepseek r1 je působivý model, zejména s ohledem na to, co jsou schopni nabídnout za cenu. My samozřejmě dodáme mnohem lepší modely a také je to legitimně povzbuzující mít nového konkurenta! vytáhneme nějaké verze. Ale hlavně jsme nadšeni, že můžeme pokračovat v realizaci našeho výzkumného plánu a věříme, že více výpočetní techniky je nyní důležitější než kdykoli předtím, abychom uspěli v našem poslání. Svět bude chtít používat hodně AI a opravdu bude docela ohromen přicházejícími modely nové generace. Těšíme se, až vám všem přineseme AGI a další.  <em>- 28.1.2025,</em>  <em>tweet Sama Altmana, šéfa OpenAI</em></p>
-</blockquote>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="ChatGPT" /><category term="OpenAI" /><category term="Deepseek" /><summary type="html"><![CDATA[Asi jste to zaznamenali. Čínská firma Deepseek vydala své nové AI modely a z akciového trhu amerických technologických firem se v tu ránu vyfouklo bilion dolarů. Akcie Nvidia a Broadcomu, dvou veřejně obchodovatelných firem závislých na úspěchu prodeje AI čipů. poklesly za den o 17 procent (v pondělí) a za úterý se kurz nevzpamatoval, spíše to vypadá, že se stabilizuje.]]></summary></entry></feed>
+<p>Přesto byste do toho měli pár desítek dolarů investovat a <a href="/item/programovani-s-ai/">vibe coding</a> si vyzkoušet. Začněte s Tempo Labs - jejich nástroj je nejvíce přímočarný. Někdy příště si řekneme, jak s Tempo nejlépe začít.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="programování" /><summary type="html"><![CDATA[Programování pro neprogramátory je svatý grál počítačů. A zdá se, že už je opravdu tady. Díky AI vzniklo několik nástrojů, které už se nesoustředí na to, že programátorům našeptávají pokračování příkazu nebo opravují chyby v kódu. Moderní nástroje zdrojový kód vytvářejí celý ze zadání a některé už jej dokonce i před uživatelem skrývají. Programovat může nyní „skoro každý“. Jak na to?]]></summary></entry></feed>
