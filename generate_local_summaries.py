@@ -226,6 +226,13 @@ class MarkdownValidator:
 
 class LocalSummaryGenerator:
     def __init__(self, api_key, model_choice, posts_dir="_posts"):
+        # Ověříme, že API klíč byl správně načten
+        if not api_key or len(api_key) < 10:
+            print(f"⚠️ VAROVÁNÍ: API klíč se nezdá být validní: '{api_key}'")
+            print("Zkouším načíst API klíč přímo z env proměnných...")
+            api_key = os.getenv("OPENROUTER_API_KEY")
+            print(f"API klíč načtený z env: {api_key[:10]}... (délka: {len(api_key) if api_key else 0})")
+        
         self.api_key = api_key
         self.model_choice = model_choice
         self.posts_dir = Path(posts_dir)
@@ -234,8 +241,10 @@ class LocalSummaryGenerator:
         if model_choice == "deepseek":
             self.api_key = os.getenv("DEEPSEEK_API_KEY") or api_key
             self.api_url = "https://api.deepseek.com/v1/chat/completions"
+            print(f"Používám DeepSeek API klíč: {self.api_key[:10]}... (délka: {len(self.api_key) if self.api_key else 0})")
         else:  # Pro OpenRouter (Gemini model)
             self.api_url = "https://openrouter.ai/api/v1/chat/completions"
+            print(f"Používám OpenRouter API klíč: {self.api_key[:10]}... (délka: {len(self.api_key) if self.api_key else 0})")
             
         self.newsletter_processed = False  # newsletter zpracujeme pouze jednou
 
@@ -821,9 +830,15 @@ def main():
     if mode == "1":
         # Načtení API klíče
         api_key = os.getenv("OPENROUTER_API_KEY")
+        print(f"Načítání .env souboru z: {env_path}")
+        print(f"Existuje soubor .env: {os.path.exists(env_path)}")
+        print(f"Dostupné proměnné prostředí: {list(os.environ.keys())}")
+        
         if not api_key:
             print("⚠️ API klíč OPENROUTER_API_KEY nebyl nalezen v proměnných prostředí!")
             api_key = input("Zadejte váš OpenRouter API klíč: ").strip()
+        else:
+            print(f"Nalezen API klíč OPENROUTER_API_KEY: {api_key[:10]}... (délka: {len(api_key)})")
         
         # Výběr modelu
         while True:
