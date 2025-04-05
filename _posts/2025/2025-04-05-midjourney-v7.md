@@ -11,7 +11,7 @@ title: Midjourney V7 - Nová verze modelu pro AI generování obrazů
 thumbnail: https://www.marigold.cz/assets/midjourney-V7.png
 ---
 
-Midjourney vydal alfa verzi svého obrazového modelu V7, který přináší změny v kvalitě a funkcionalitě AI generování obrazů. Model zavádí nové funkce měnící způsob interakce s nástrojem a zlepšující kvalitu výstupů.
+Midjourney vydal po zhruba roce od předchozího modelu alfa verzi svého obrazového modelu V7, který přináší změny v kvalitě a funkcionalitě AI generování obrazů. Model zavádí nové funkce měnící způsob interakce s nástrojem a zlepšující kvalitu výstupů.
 
 ## Klíčové změny modelu V7
 
@@ -26,7 +26,7 @@ V7 přináší zlepšení v zobrazování lidských těl, rukou a objektů. Tent
 
 ## Personalizace jako výchozí funkce
 
-Midjourney V7 je první model s aktivovanou personalizací ve výchozím nastavení. Tento přístup vyžaduje počáteční personalizaci (cca 5 minut), následně umožňuje systému interpretovat preference uživatele a vytvářet výstupy odpovídající jeho estetickým preferencím.
+Midjourney V7 je první model s aktivovanou personalizací ve výchozím nastavení. Tento přístup vyžaduje počáteční personalizaci (cca 5 minut se tvrdí, ve skutečnosti vyhodnocujete cca 200 obrázků, za mne maličko pruda), následně umožňuje systému interpretovat preference uživatele a vytvářet výstupy odpovídající jeho estetickým preferencím.
 
 Uživatelé se v odezvách shodují v tom, že personalizace přináší lepší výsledky, ačkoliv proces projití personalizace je trochu zdlouhavý. 
 
@@ -69,6 +69,8 @@ Někteří uživatelé upozorňují, že V7 vyžaduje jiný přístup k promptov
 Midjourney V7 představuje další krok v oblasti AI generování obrazů. Kombinace vylepšené kvality, personalizace, Draft Mode a plánovaného vývoje rozšiřuje možnosti nástroje. Pro profesionální uživatele přináší V7 kvalitnější výstupy a efektivnější pracovní postupy.
 
 Model V7 je dostupný v alfa verzi a vývojový tým sbírá zpětnou vazbu od komunity. Je ale dosti zřejmé, že uvolnění proběhlo hodně narychlo, zjevně v reakci na OpenAI 4o obrazový model, který vyšel před několika dny a je skvělý. V každém případě se ukazuje, že Midjourney stále vede v oblasti AI generování obrazů, jenže pro mnoho uživatelů může být kvalita modelu 4o dostatečná. Dám třeba nemám pro kvalitnější obrázky velké uplatnění, takže Midjourney používám jen málo, spíše pro práce zákazníků. 
+
+A co ještě při příležitosti uvedení V7 prohlásil CEO David Holze? Společnost pracuje na dříve oznámených modelech pro generování videa a 3D objektů. Těším se! 
 
 Dejme si dva příklady, jeden ukazuje kvalitu práce v hi-res oblasti a zejména na fotkách lidí, druhý v případě animovaného stylu. Na internetu již lítají stovky příkladů, pomocí dalších AI nástrojů z toho dělají lidé i spojitá videa :)
 
