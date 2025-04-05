@@ -1,21 +1,21 @@
 [
   
     {
-      "title"    : "",
-      "url"      : "//item/2025-04-03-architektura-vibecoding/",
-      "category" : "",
-      "tags"     : "",
-      "date"     : "5.4.2025",
-      "content"  : "Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.Pojdme si spolu projít zásady, které se mi za posledních pár pokusů vydestilovaly jako základ úspěchu a rychlého posunu s vibe codingem:Hlavní princip: Modularizace a zjednodušeníKlíčem k úspěšnému vývoji pomocí vibe codingu je..."
-    },
-  
-    {
       "title"    : "Midjourney V7 - Nová verze modelu pro AI generování obrazů",
       "url"      : "//item/midjourney-v7/",
       "category" : "AI, Midjourney",
       "tags"     : "",
       "date"     : "5.4.2025",
       "content"  : "Midjourney vydal po zhruba roce od předchozího modelu alfa verzi svého obrazového modelu V7, který přináší změny v kvalitě a funkcionalitě AI generování obrazů. Model zavádí nové funkce měnící způsob interakce s nástrojem a zlepšující kvalitu výstupů.Klíčové změny modelu V7Zpracování textových promptůModel V7 nabízí lepší porozumění textovým promptům. Uživatelé zmiňují schopnost modelu přesněji interpretovat složitější instrukce, což je vítané hlavně pro náročnější práci, kdy jste potřebovali modelu dát lepší zadání. Starší modely prostě delší prompty než cca 100 slov nezpracovávaly dobře.Zpracování obrazových vstupůObrazové prompty dosahují vyšší kvality. V7 lépe zachycuje a reprodukuje textury a detaily z referenčních obrázků.Kvalita detailůV7 přináší..."
+    },
+  
+    {
+      "title"    : "Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu",
+      "url"      : "//item/architektura-vibecoding/",
+      "category" : "vibe coding, AI",
+      "tags"     : "",
+      "date"     : "3.4.2025",
+      "content"  : "Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.Pojdme si spolu projít zásady, které se mi za posledních pár pokusů vydestilovaly jako základ úspěchu a rychlého posunu s vibe codingem:Hlavní princip: Modularizace a zjednodušeníKlíčem k úspěšnému vývoji pomocí vibe codingu je..."
     },
   
     {
@@ -25890,7 +25890,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Midjourney V7 - Nová verze modelu pro AI generování obrazů ( 5.04.2025) MCP získává širokou podporu včetně OpenAI a Microsoftu (28.03.2025) Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi (27.03.2025) 🧠 AI nástroje pro programování - přehled (26.03.2025)..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Midjourney V7 - Nová verze modelu pro AI generování obrazů ( 5.04.2025) Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu ( 3.04.2025) MCP získává širokou podporu včetně OpenAI a Microsoftu (28.03.2025) Zapier a Make MCP - Propojte AI asistenty..."
     }
     
   
@@ -25910,7 +25910,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 186 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 66 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 187 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 66 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
