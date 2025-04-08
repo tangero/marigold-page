@@ -1,12 +1,18 @@
 ---
+audio_url: http://www.marigold.cz/audio/2023-12-16-facebook-meta-metaversum.mp3
+audiooff: false
 categories:
 - Facebook
 - Meta
 - Metaversum
-excerpt: Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. Nový Facebok budoucnosti není podle Marka Zuckerberga pouhá sociální síť, ale portál, v němž uživatel prostřednictvím softwaru a hardwaru vstupuje do takzvaného metaversa. Cožeto? 
+excerpt: "Nejd\u016Fle\u017Eit\u011Bj\u0161\xED zpr\xE1vou posledn\xED doby je p\u0159\
+  ejmenov\xE1n\xED spole\u010Dnosti Facebook na Meta Platforms Inc. Nov\xFD Facebok\
+  \ budoucnosti nen\xED podle Marka Zuckerberga pouh\xE1 soci\xE1ln\xED s\xED\u0165\
+  , ale port\xE1l, v n\u011Bm\u017E u\u017Eivatel prost\u0159ednictv\xEDm softwaru\
+  \ a hardwaru vstupuje do takzvan\xE9ho metaversa. Co\u017Eeto?"
 featured: true
 layout: post
-title: Facebook je nově Meta a staví Metaversum
+title: "Facebook je nov\u011B Meta a stav\xED Metaversum"
 ---
 
 Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. A hned si řekneme, proč je to důležité. Jen pro jistotu připomínám, že jde o přejmenování společnosti, nikoliv o přejmenování samotné konkrétní služby. Naopak se tímto přejmenováním někdejší společnost Facebook snaží zdůraznit, že neprovozuje jen sociální síť, ale také komunikátor WhatsApp, Messenger či obrázkovou sociální síť Instagram. 
