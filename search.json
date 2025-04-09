@@ -1,12 +1,12 @@
 [
   
     {
-      "title"    : "",
-      "url"      : "//item/2025-04-09-google-a2a/",
-      "category" : "",
+      "title"    : "A2A protokol - Nový standard pro interoperabilitu AI agentů",
+      "url"      : "//item/google-a2a/",
+      "category" : "AI, Google, Agenti, A2A",
       "tags"     : "",
       "date"     : "9.4.2025",
-      "content"  : "Přichází čas AI agentů, jenže jak se mezi sebou domluví? Právě propojení mezi agenty se zdálo být omezením, což si uvědomil Google a přišel s návrhem protokolu A2A čili Agent2Agent.Agent2Agent (A2A) je otevřený protokol navržený pro zabezpečenou komunikaci mezi AI agenty. Protokol byl vyvinut společností Google ve spolupráci s více než 50 technologickými partnery včetně Atlassian, Box, Cohere, Intuit, PayPal, Salesforce a dalších. Cílem A2A je umožnit AI agentům vyměňovat si informace a koordinovat akce napříč různými podnikovými platformami a aplikacemi.Co konkrétně se v tomto článku dozvíte? Vztah k MCP A2A jako ekosystém specializovaných expertů Návrh A2A protokolu Funkce A2A..."
+      "content"  : "Přichází čas AI agentů, jenže jak se mezi sebou domluví? Právě neexistující vzájemné automatické propojení mezi agenty bylo značným omezením, což si uvědomil Google a přišel s návrhem protokolu A2A čili Agent2Agent.Agent2Agent (A2A) je otevřený protokol navržený pro zabezpečenou komunikaci mezi AI agenty. Protokol byl vyvinut společností Google ve spolupráci s více než 50 technologickými partnery včetně Atlassian, Box, Cohere, Intuit, PayPal, Salesforce a dalších. Cílem A2A je umožnit AI agentům vyměňovat si informace a koordinovat akce napříč různými podnikovými platformami a aplikacemi.Co konkrétně se v tomto článku dozvíte? Vztah k MCP A2A jako ekosystém specializovaných expertů Návrh A2A protokolu..."
     },
   
     {
@@ -25917,7 +25917,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Midjourney V7 - Nová verze modelu pro AI generování obrazů ( 5.04.2025) Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem ( 5.04.2025) Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu ( 3.04.2025) MCP získává..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI A2A protokol - Nový standard pro interoperabilitu AI agentů ( 9.04.2025) Midjourney V7 - Nová verze modelu pro AI generování obrazů ( 5.04.2025) Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem ( 5.04.2025) Moderní přístup k..."
     }
     
   
@@ -25937,7 +25937,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 188 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 66 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 189 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 67 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
