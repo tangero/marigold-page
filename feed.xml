@@ -1,4 +1,185 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-08T14:44:11+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem</title><link href="https://www.marigold.cz/item/meta-llama4/" rel="alternate" type="text/html" title="Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem" /><published>2025-04-05T00:00:00+00:00</published><updated>2025-04-05T00:00:00+00:00</updated><id>https://www.marigold.cz/item/meta-llama4</id><content type="html" xml:base="https://www.marigold.cz/item/meta-llama4/"><![CDATA[<p>Meta právě vydala novou verzi svého open source LLM, který se jmenuje Llama 4. Ve skutečnosti jde o tři nové modely: Llama 4 Scout, Llama 4 Maverick a Llama 4 Behemoth, které se liší počtem aktivních parametrů a schopnostmi - a samozřejmě také požadovanou hardware výbavou. A to je to důležité: nová Llama 4 umí běžet na poměrně příznivé sestavě hardware, přitom nabízí skvělý výkon a open source prostředí. A co je naprosto famózní, je kontextové okno na 10 milionů tokenů, což je 10x více než dnes nabízí nejpokročilejší LLM Google Gemini. Jistě, rozsah kontextu se projevuje na výkonu, proto bude zajímavé sledovat, jak se to projeví v praxi, právě při použití velkého kontextu, který je dnes důležitý například při programování. K dlouhému kontextu si povíme detailní vysvětlení na závěr.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-09T19:52:17+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Google A2a</title><link href="https://www.marigold.cz/item/google-a2a/" rel="alternate" type="text/html" title="Google A2a" /><published>2025-04-09T00:00:00+00:00</published><updated>2025-04-09T00:00:00+00:00</updated><id>https://www.marigold.cz/item/google-a2a</id><content type="html" xml:base="https://www.marigold.cz/item/google-a2a/"><![CDATA[<hr />
+<p>author: Patrick Zandl
+post_excerpt: Přichází čas AI agentů, jenže jak se mezi sebou domluví? A2A protokol umožňuje agentům komunikovat a spolupracovat, a to bez ohledu na to, jakou technologií byli vytvořeni nebo jaký framework používají. Za A2A stojí Google a pár dalších velkých firem… 
+audiooff: true
+categories:</p>
+<ul>
+  <li>AI</li>
+  <li>Google</li>
+  <li>Agenti</li>
+  <li>A2A
+date: 2025-04-09
+layout: post
+title: A2A protokol: Nový standard pro interoperabilitu AI agentů
+thumbnail: https://www.marigold.cz/assets/A2Aprotocol.jpg
+—</li>
+</ul>
+
+<p>Přichází čas AI agentů, jenže jak se mezi sebou domluví? Právě propojení mezi agenty se zdálo být omezením, což si uvědomil Google a přišel s návrhem protokolu A2A čili Agent2Agent.</p>
+
+<p>Agent2Agent (A2A) je otevřený protokol navržený pro zabezpečenou komunikaci mezi AI agenty. Protokol byl vyvinut společností Google ve spolupráci s více než 50 technologickými partnery včetně Atlassian, Box, Cohere, Intuit, PayPal, Salesforce a dalších. Cílem A2A je umožnit AI agentům vyměňovat si informace a koordinovat akce napříč různými podnikovými platformami a aplikacemi.</p>
+
+<p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
+<ul id="markdown-toc">
+  <li><a href="#vztah-k-mcp" id="markdown-toc-vztah-k-mcp">Vztah k MCP</a>    <ul>
+      <li><a href="#a2a-jako-ekosystém-specializovaných-expertů" id="markdown-toc-a2a-jako-ekosystém-specializovaných-expertů">A2A jako ekosystém specializovaných expertů</a></li>
+      <li><a href="#návrh-a2a-protokolu" id="markdown-toc-návrh-a2a-protokolu">Návrh A2A protokolu</a></li>
+      <li><a href="#funkce-a2a" id="markdown-toc-funkce-a2a">Funkce A2A</a></li>
+      <li><a href="#praktické-využití-a2a" id="markdown-toc-praktické-využití-a2a">Praktické využití A2A</a></li>
+      <li><a href="#technické-detaily" id="markdown-toc-technické-detaily">Technické detaily</a></li>
+      <li><a href="#výzvy-a-omezení" id="markdown-toc-výzvy-a-omezení">Výzvy a omezení</a></li>
+      <li><a href="#budoucí-vývoj" id="markdown-toc-budoucí-vývoj">Budoucí vývoj</a></li>
+      <li><a href="#závěr" id="markdown-toc-závěr">Závěr</a></li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p>Další zdroje:</p>
+  <ul>
+    <li>Github A2A: <a href="https://github.com/google/A2A">https://github.com/google/A2A</a></li>
+    <li><a href="https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/">Oficiální oznámení na Google Developers Blogu</a></li>
+  </ul>
+</blockquote>
+
+<h2 id="vztah-k-mcp">Vztah k MCP</h2>
+
+<p>A2A doplňuje Model Context Protocol (MCP) od Anthropicu. Zatímco MCP se zaměřuje na poskytování nástrojů a kontextu pro samostatné agenty, A2A řeší problém, jak tito agenti mohou spolupracovat mezi sebou. Tyto protokoly společně tvoří základ pro vytváření komplexnějších agenčních systémů.</p>
+
+<p>MCP je navržen pro obohacení jednotlivých agentů o nástroje a kontext, což jim umožňuje lépe plnit své úlohy. A2A naopak vytváří standardizovaný způsob, jak tito (potenciálně rozdílně vybavení) agenti mohou komunikovat a spolupracovat, a to bez ohledu na to, jakou technologií byli vytvořeni nebo jaký framework používají.</p>
+
+<h3 id="a2a-jako-ekosystém-specializovaných-expertů">A2A jako ekosystém specializovaných expertů</h3>
+
+<p>A2A protokol můžeme vnímat jako pokročilou formu orchestrace agentů, ale jde za hranice klasické orchestrace, jak ji známe například z mikroslužeb. Představte si ho jako ekosystém specializovaných expertů, kteří spolu mohou mluvit společným jazykem (protokolem) a předávat si práci, kdykoli narazí na něco, co lépe zvládne jiný specialista.</p>
+
+<p>Na rozdíl od tradiční orchestrace, kde centrální orchestrátor řídí relativně pasivní komponenty podle předem definovaných workflow, v A2A si agenti zachovávají svou autonomii a rozhodovací schopnosti. Neexistuje zde nutně pevná hierarchie nebo předem stanovený procesní tok – interakce mohou vznikat dynamicky podle aktuální potřeby. Což přináší výhody, ale také potíže. Jak velké, ještě uvidíme 😎</p>
+
+<h3 id="návrh-a2a-protokolu">Návrh A2A protokolu</h3>
+
+<p>A2A byl navržen s ohledem na pět klíčových principů:</p>
+
+<ol>
+  <li>
+    <p><strong>Agenční schopnosti</strong> - A2A umožňuje agentům spolupracovat v jejich přirozených, nestrukturovaných modalitách, i když nesdílejí paměť, nástroje a kontext. Nejde o pouhé využívání agentů jako “nástrojů”, ale o skutečné multi-agenční scénáře.</p>
+  </li>
+  <li>
+    <p><strong>Stavba na existujících standardech</strong> - Protokol staví na populárních standardech jako HTTP, SSE a JSON-RPC, což usnadňuje integraci do existujících IT infrastruktur.</p>
+  </li>
+  <li>
+    <p><strong>Bezpečnost jako výchozí stav</strong> - A2A podporuje podnikovou úroveň autentizace a autorizace, s návaznostní na autentizační mechanismy OpenAPI.</p>
+  </li>
+  <li>
+    <p><strong>Podpora dlouhodobých úloh</strong> - Protokol je navržen tak, aby podporoval jak rychlé úkoly, tak hluboký výzkum, který může trvat hodiny nebo dny při zapojení lidí. Během celého procesu může A2A poskytovat zpětnou vazbu, oznámení a aktualizace stavu v reálném čase.</p>
+  </li>
+  <li>
+    <p><strong>Modalitní agnosticita</strong> - A2A podporuje různé modality, včetně streamování audia a videa, neomezuje se pouze na text.</p>
+  </li>
+</ol>
+
+<h3 id="funkce-a2a">Funkce A2A</h3>
+
+<p>A2A zprostředkovává komunikaci mezi “klientským” agentem a “vzdáleným” agentem. Klientský agent formuluje a komunikuje úkoly, zatímco vzdálený agent na tyto úkoly reaguje a pokouší se poskytnout správné informace nebo provést správnou akci.</p>
+
+<p>Interakce mezi agenty zahrnuje několik klíčových schopností:</p>
+
+<ol>
+  <li>
+    <p><strong>Objevování schopností</strong> - Agenti mohou inzerovat své schopnosti pomocí “Agent Card” ve formátu JSON. To umožňuje klientskému agentovi identifikovat nejlepšího agenta, který může plnit daný úkol.</p>
+  </li>
+  <li>
+    <p><strong>Správa úkolů</strong> - Komunikace mezi klientem a vzdáleným agentem je orientována na dokončení úkolů, kde agenti spolupracují na splnění požadavků koncových uživatelů. “Úkol” má definovaný životní cyklus - může být dokončen okamžitě, nebo v případě dlouhodobých úkolů mohou agenti komunikovat a synchronizovat se ohledně nejnovějšího stavu plnění úkolu. Výstupem úkolu je “artefakt”.</p>
+  </li>
+  <li>
+    <p><strong>Spolupráce</strong> - Agenti si mohou navzájem posílat zprávy ke komunikaci kontextu, odpovědí, artefaktů nebo uživatelských instrukcí.</p>
+  </li>
+  <li>
+    <p><strong>Vyjednávání uživatelské zkušenosti</strong> - Každá zpráva obsahuje “části”, což jsou plně formované kusy obsahu, jako je generovaný obrázek. Každá část má specifikovaný typ obsahu, což umožňuje klientským a vzdáleným agentům vyjednat správný potřebný formát a explicitně zahrnout vyjednávání o uživatelských schopnostech UI - např. iframy, videa, webové formuláře a další.</p>
+  </li>
+</ol>
+
+<p><img src="https://www.marigold.cz/assets/a2a-schema.jpeg" alt="Google A2A" /></p>
+
+<h3 id="praktické-využití-a2a">Praktické využití A2A</h3>
+
+<p>A2A protokol může být využit v mnoha praktických scénářích. Jeden z příkladů uvedených v dokumentaci je “nábor vývojáře” - tedy situace, kdy je potřeba zajistit a projít životopisy vhodných kandidátů a sestavit doporučení:</p>
+
+<ol>
+  <li>Uživatel (např. manažer náboru) zadá svému agentovi úkol najít kandidáty odpovídající popisu práce, lokalitě a požadovaným dovednostem.</li>
+  <li>Agent poté interaguje s jinými specializovanými agenty k vyhledání potenciálních kandidátů.</li>
+  <li>Uživatel obdrží tyto návrhy a může svému agentovi zadat, aby naplánoval další pohovory.</li>
+  <li>Po dokončení procesu pohovorů může být jiný agent pověřen kontrolou referencí.</li>
+</ol>
+
+<p>Tento příklad ilustruje, jak AI agenti potřebují spolupracovat napříč systémy k nalezení kvalifikovaného kandidáta na pracovní pozici.</p>
+
+<p>Další možnosti využití zahrnují:</p>
+
+<ul>
+  <li><strong>Automatizace podnikových procesů</strong> - Propojení agentů pro objednávání, účetnictví, logistiku a zákaznický servis.</li>
+  <li><strong>Datová analýza</strong> - Spolupráce specializovaných agentů na zpracování a analýze dat z různých zdrojů.</li>
+  <li><strong>Výzkum a vývoj</strong> - Koordinace agentů pro vyhledávání, experimenty a syntézu výsledků.</li>
+  <li><strong>Řízení dodavatelského řetězce</strong> - Propojení agentů pro plánování, nákup, skladování a distribuci.</li>
+</ul>
+
+<h3 id="technické-detaily">Technické detaily</h3>
+
+<p>A2A je implementován jako REST API, které používá JSON pro výměnu dat. Klíčové komponenty zahrnují:</p>
+
+<ol>
+  <li>
+    <p><strong>Agentní karty</strong> - JSON objekty popisující schopnosti agenta, včetně podporovaných operací, autentizačních požadavků a dalších metadat.</p>
+  </li>
+  <li>
+    <p><strong>Úkoly</strong> - Strukturované objekty reprezentující práci, kterou má agent vykonat. Každý úkol má unikátní identifikátor, stav, priority a další atributy.</p>
+  </li>
+  <li>
+    <p><strong>Zprávy</strong> - Komunikační jednotky mezi agenty, které mohou obsahovat textové zprávy, strukturovaná data nebo odkazy na externí zdroje.</p>
+  </li>
+  <li>
+    <p><strong>Artefakty</strong> - Výstupy úkolů, které mohou mít různé formáty, jako jsou dokumenty, obrázky, audio nebo video.</p>
+  </li>
+  <li>
+    <p><strong>Notifikace</strong> - Mechanismy pro aktualizace v reálném čase o změnách stavu úkolů nebo dostupnosti nových zpráv.</p>
+  </li>
+</ol>
+
+<h3 id="výzvy-a-omezení">Výzvy a omezení</h3>
+
+<p>I přes svůj potenciál čelí A2A několika výzvám:</p>
+
+<ol>
+  <li>
+    <p><strong>Bezpečnost a soukromí</strong> - Při sdílení dat mezi agenty je kritické zajistit, že citlivé informace zůstanou chráněny.</p>
+  </li>
+  <li>
+    <p><strong>Škálovatelnost</strong> - S rostoucím počtem agentů a komplexitou úkolů bude důležité udržet efektivitu a výkon systému.</p>
+  </li>
+  <li>
+    <p><strong>Interoperabilita</strong> - Zatímco A2A poskytuje standard pro komunikaci, implementace tohoto standardu napříč různými systémy může být náročná.</p>
+  </li>
+  <li>
+    <p><strong>Odpovědnost</strong> - Určení odpovědnosti v případě chyb nebo negativních výsledků může být složité v multi-agenčním prostředí.</p>
+  </li>
+</ol>
+
+<h3 id="budoucí-vývoj">Budoucí vývoj</h3>
+
+<p>A2A protokol je stále ve vývoji a jeho finální verze má být vydána později v roce 2025. Google a jeho partneři plánují protokol dále rozvíjet s důrazem na:</p>
+
+<ol>
+  <li><strong>Rozšíření podporovaných modalit</strong> - Přidání podpory pro nové typy dat a interakcí.</li>
+  <li><strong>Vylepšení bezpečnostních mechanismů</strong> - Posílení ochrany dat a autentizace.</li>
+  <li><strong>Optimalizace výkonu</strong> - Zlepšení efektivity komunikace mezi agenty.</li>
+  <li><strong>Standardizace</strong> - Spolupráce s průmyslovými orgány na formalizaci A2A jako oficiálního standardu.</li>
+</ol>
+
+<h3 id="závěr">Závěr</h3>
+
+<p>Agent2Agent (A2A) protokol představuje podle mě hodně důležitý krok k vytvoření interoperabilního ekosystému AI agentů. Právě kooperace a efektivní výměna dat AI agentů zatím představovala významný lidim, protože předávání dat většinou řešil uživatel, tedy ta nejméně spolehlivá část systámu. A2A doplňuje existující protokoly jako MCP a umožňuje agentům efektivně spolupracovat napříč platformami a aplikacemi. S podporou významných technologických společností má A2A potenciál stát se standardem pro komunikaci mezi AI agenty a umožnit nové formy automatizace a optimalizace procesů.</p>
+
+<p>Protokol je navržen s důrazem na bezpečnost, flexibilitu a škálovatelnost, což jsou klíčové vlastnosti pro nasazení v podnikových prostředích. Jak se AI agenti stávají stále více součástí podnikových operací, standardy jako A2A budou hrát klíčovou roli v maximalizaci jejich přínosu a minimalizaci složitosti jejich implementace.</p>
+
+<p>Koncept A2A jako ekosystému specializovaných expertů komunikujících společným jazykem přináší nový rozměr do světa umělé inteligence - místo izolovaných systémů vzniká prostor pro vysoce adaptabilní sítě autonomních agentů, kteří společně řeší komplexní problémy rychleji a efektivněji, než by dokázal jediný agent, bez ohledu na to, jak je sofistikovaný.</p>]]></content><author><name>Patrick Zandl</name></author><summary type="html"><![CDATA[author: Patrick Zandl post_excerpt: Přichází čas AI agentů, jenže jak se mezi sebou domluví? A2A protokol umožňuje agentům komunikovat a spolupracovat, a to bez ohledu na to, jakou technologií byli vytvořeni nebo jaký framework používají. Za A2A stojí Google a pár dalších velkých firem… audiooff: true categories: AI Google Agenti A2A date: 2025-04-09 layout: post title: A2A protokol: Nový standard pro interoperabilitu AI agentů thumbnail: https://www.marigold.cz/assets/A2Aprotocol.jpg —]]></summary></entry><entry xml:lang="cs"><title type="html">Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem</title><link href="https://www.marigold.cz/item/meta-llama4/" rel="alternate" type="text/html" title="Meta představuje Llama 4 - open source LLM s obrovským kontextem i výkonem" /><published>2025-04-05T00:00:00+00:00</published><updated>2025-04-05T00:00:00+00:00</updated><id>https://www.marigold.cz/item/meta-llama4</id><content type="html" xml:base="https://www.marigold.cz/item/meta-llama4/"><![CDATA[<p>Meta právě vydala novou verzi svého open source LLM, který se jmenuje Llama 4. Ve skutečnosti jde o tři nové modely: Llama 4 Scout, Llama 4 Maverick a Llama 4 Behemoth, které se liší počtem aktivních parametrů a schopnostmi - a samozřejmě také požadovanou hardware výbavou. A to je to důležité: nová Llama 4 umí běžet na poměrně příznivé sestavě hardware, přitom nabízí skvělý výkon a open source prostředí. A co je naprosto famózní, je kontextové okno na 10 milionů tokenů, což je 10x více než dnes nabízí nejpokročilejší LLM Google Gemini. Jistě, rozsah kontextu se projevuje na výkonu, proto bude zajímavé sledovat, jak se to projeví v praxi, právě při použití velkého kontextu, který je dnes důležitý například při programování. K dlouhému kontextu si povíme detailní vysvětlení na závěr.</p>
 
 <p>📊 <strong>Tři nové modely:</strong></p>
 <ul>
@@ -2360,77 +2541,4 @@ Výpočetní centra</li>
 
 <blockquote>
   <p>A tak se může snadno stát, že svět se rozdělí na tři umělé inteligence: americkou, eurounijní a čínskou. Budou to tři zahrádky, nově ne ohražené patenty, jako tomu bývalo dříve, ale regulačními předpisy, které nebude jednoduché ani pohodlné naplnit pro firmy podnikající mimo tyto útvary. Je to to, co chceme?</p>
-</blockquote>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="OpenEuroLLM" /><category term="AI Act" /><category term="Mistral" /><category term="AMD Silo AI" /><category term="Lights On" /><summary type="html"><![CDATA[Projekt OpenEuroLLM vznikl jako evropská iniciativa pro vývoj otevřených velkých jazykových modelů (LLM) s cílem posílit technologickou suverenitu a konkurenceschopnost Evropy v oblasti umělé inteligence. To jsou takové ty úřední vyjádření. Oficiálně byl zahájen 1. února 2025 a cílem je vytvořit modely pokrývající všechny oficiální jazyky EU a další evropské jazyky. Má také zajistit soulad s evropským AI Actem.]]></summary></entry><entry xml:lang="cs"><title type="html">Projev viceprezidenta JD Vance na pařížském AI summitu 2025</title><link href="https://www.marigold.cz/item/jd-vance-paris-speech-ai-summit-2025/" rel="alternate" type="text/html" title="Projev viceprezidenta JD Vance na pařížském AI summitu 2025" /><published>2025-02-13T00:00:00+00:00</published><updated>2025-02-13T00:00:00+00:00</updated><id>https://www.marigold.cz/item/jd-vance-paris-speech-ai-summit-2025</id><content type="html" xml:base="https://www.marigold.cz/item/jd-vance-paris-speech-ai-summit-2025/"><![CDATA[<p>Na pařížském AI Summitu přednesl JD Vance důležitý projev, který zcela jasně ukázal, jak Trumpova administrativa hodlá přistupovat k umělé inteligenci. Vance zdůraznil, že umělá inteligence je nejen technologií budoucnosti, ale také nástrojem, který může zlepšit životy lidí po celém světě. Zároveň však varoval před nebezpečím, které může AI přinést, pokud se dostane do špatných rukou.</p>
-
-<p>Projev považuji za velmi důležitý a proto jsem, kromě odkazu na celý projev, připravil jeho přepis. Mezititulky jsem doplnil já.</p>
-
-<p>Projev adresuje celou řadu obav, které s AI dnes souvisí. A musím říct, že také se domnívám, že regulace AI byla v EU pojata příliš rozsáhle, příliš restriktivně. Že považuji za lepší variantu dynamické hledání té nejlepší cesty zejména ve světě, kde se jiní nedají takto svazovat. A to i s ohledem na to, že respektuji jak autorská, tak osobnostní práva a považuji za důležité, aby se AI nepoužívala k ovlivňování veřejného mínění. Jenže právě to se snáze řekne, než udělá. To samé říká JD Vance, jenže je toho názoru, že nechat věcem volnou ruku bude více ku prospěchu, než ku škodě. S ohledem na rostoucí hybridní válku s Ruskem (a Čínou) nejsem tak optimistický, ale uznávám, že v prvé řadě ruce svazujeme sami sobě. Že momentálně není náš problém s Ruskem a Čínou to, jak vyvíjet AI, ale jak vymáhat naše vlastní pravidla na našem území.</p>
-
-<h2 id="projev-viceprezidenta-jd-vance-na-pařížském-ai-summitu-2025">Projev viceprezidenta JD Vance na pařížském AI summitu 2025:</h2>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MnKsxnP2IVk?si=nVeuzL7ipL26mxwl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-
-<p>Děkuji za milé uvedení a na úvod bych rád poděkoval panu prezidentovi Macronovi za uspořádání této akce a samozřejmě za včerejší krásnou večeři. Během večeře se na mě pan prezident Macron podíval a zeptal se, zda bych nechtěl promluvit, a já jsem řekl: „Pane prezidente, jsem tu kvůli dobré společnosti a vínu zdarma, ale dnes si musím zasloužit své místo.“ A tak jsem mu odpověděl: „Pane prezidente, jsem tu kvůli dobré společnosti a vínu zdarma, ale dnes si musím zasloužit své místo.“ A já samozřejmě chci poděkovat premiérovi Módímu za to, že tu je, a za spolupořádání summitu, vám všem za účast. A nejsem tu dnes ráno proto, abych mluvil o bezpečnosti umělé inteligence, což byl název konference před několika lety. Jsem tu, abych hovořil o příležitostech pro umělou inteligenci.</p>
-
-<h3 id="postoj-trumpovy-administrativy-k-ai">Postoj Trumpovy administrativy k AI</h3>
-
-<p>Když se pořádají takovéto konference, aby se diskutovalo o nejmodernější technologii, často si myslím, že naší reakcí je přílišná sebestřednost a neochota riskovat. Nikdy jsem se však nesetkal s průlomovou technologií, která by tak jasně způsobila, že bychom dělali přesný opak. Naše administrativa, Trumpova administrativa, věří, že umělá inteligence bude mít nespočet revolučních aplikací v oblasti ekonomických inovací, vytváření pracovních míst, národní bezpečnosti, zdravotní péče, svobody projevu a dalších. A omezit nyní její rozvoj by nejen nespravedlivě zvýhodnilo zavedené firmy v této oblasti, ale znamenalo by to ochromit jednu z nejslibnějších technologií, jakou jsme za poslední generace viděli.
-A s ohledem na to bych dnes rád uvedl čtyři hlavní body.</p>
-
-<p>Za prvé, tato administrativa zajistí, aby americká technologie umělé inteligence byla i nadále zlatým standardem na celém světě a abychom byli partnerem, kterého si ostatní, zahraniční země a jistě i podniky vybírají při rozšiřování vlastního využití umělé inteligence. Za druhé, jsme přesvědčeni, že přílišná regulace odvětví AI by mohla zabít transformující se odvětví právě v okamžiku, kdy se rozjíždí, a budeme se ze všech sil snažit podporovat prorůstové politiky v oblasti AI. A rád bych viděl tento deregulační nádech, který se dostává do mnoha rozhovorů na této konferenci. Za třetí, jsme velmi přesvědčeni, že AI musí zůstat bez ideologických předsudků a že americká AI nebude kooptována v nástroj autoritářské cenzury. A konečně, číslo čtyři, Trumpova administrativa bude udržovat cestu růstu AI podporující zaměstnanost tak, aby mohla být silným nástrojem pro vytváření pracovních míst ve Spojených státech.</p>
-
-<p>A oceňuji, že to premiér Modi zdůraznil. Skutečně věřím, že umělá inteligence lidem usnadní práci a zvýší její produktivitu. Nebude nahrazovat lidské bytosti. Nikdy nenahradí lidské bytosti. A myslím, že příliš mnoho vedoucích představitelů v odvětví umělé inteligence, když mluví o strachu z nahrazení pracovníků, myslím, že jim opravdu uniká podstata.</p>
-
-<h3 id="vedoucí-postavení-ameriky-v-oblasti-umělé-inteligence">Vedoucí postavení Ameriky v oblasti umělé inteligence</h3>
-
-<p>Věříme, že umělá inteligence nás učiní produktivnějšími, prosperujícími a svobodnějšími. Spojené státy americké jsou lídrem v oblasti AI a naše administrativa má v plánu to tak udržet. Spojené státy disponují všemi složkami napříč celým zásobníkem UI, včetně pokročilého návrhu polovodičů, hraničních algoritmů a samozřejmě transformačních aplikací. Výpočetní výkon, který tento systém vyžaduje, je nyní nedílnou součástí pokroku v technologii AI. A aby byla zajištěna americká výhoda, Trumpova administrativa zajistí, že nejvýkonnější systémy AI budou postaveny v USA s čipy navrženými a vyrobenými v Americe.</p>
-
-<p>To, že jsme nyní lídrem, samozřejmě neznamená, že chceme nebo musíme postupovat sami. A dovolte mi, abych se k tomuto bodu vyjádřil důrazně. Amerika chce být partnerem vás všech a do revoluce AI, kterou máme před sebou, se chceme pustit v duchu otevřenosti a spolupráce. Abychom však takovou důvěru vytvořili, potřebujeme mezinárodní regulační režimy, které tvorbu technologií AI podporují, a nikoli dusí. A potřebujeme, aby se zejména naši evropští přátelé dívali na tuto novou perspektivu spíše s optimismem než s obavami.</p>
-
-<h3 id="regulační-přístup-k-ai">Regulační přístup k AI</h3>
-
-<p>Vývoj špičkové umělé inteligence v USA nyní není náhodný. Zachováním otevřeného regulačního prostředí jsme povzbudili americké inovátory k experimentování a k bezkonkurenčním investicím do výzkumu a vývoje. Z těchto plus minus 700 miliard dolarů, které budou podle odhadů v roce 2028 vynaloženy na AI, bude více než polovina pravděpodobně investována ve Spojených státech amerických. Nebude to tato administrativa, kdo zlikviduje startupy a postgraduální studenty produkující některé z nejpřevratnějších aplikací umělé inteligence. Místo toho naše zákony udrží velké technologické firmy, malé technologické firmy a všechny ostatní vývojáře v rovných podmínkách.</p>
-
-<p>Nyní, po nedávném prezidentově nařízení o umělé inteligenci, připravujeme akční plán pro umělou inteligenci, který se vyhne příliš opatrnému regulačnímu režimu a zároveň zajistí, aby z této technologie a jejího transformačního potenciálu měli prospěch všichni Američané. Nyní vyzýváme vaše země, aby s námi spolupracovaly a následovaly tento model, pokud to pro vaše země dává smysl. Trumpovu administrativu však znepokojují zprávy, že některé zahraniční vlády zvažují utažení šroubů americkým technologickým společnostem s mezinárodní působností. S tím se nyní Amerika nemůže a nechce smířit a myslíme si, že je to strašná chyba, a to nejen pro Spojené státy americké, ale i pro vaše vlastní země.</p>
-
-<h3 id="obavy-z-mezinárodních-regulací">Obavy z mezinárodních regulací</h3>
-
-<p>Američtí inovátoři všech velikostí již vědí, jaké to je potýkat se s náročnými mezinárodními regulacemi. Mnoho našich nejproduktivnějších technologických společností je nuceno se vypořádat se zákonem EU o digitálních službách a jím vytvořenými masivními předpisy o stahování obsahu a kontrole tzv. dezinformací. A samozřejmě chceme zajistit, aby byl internet bezpečným místem, ale něco jiného je zabránit predátorovi, aby se na internetu přiživoval na dítěti, a něco úplně jiného je zabránit dospělému muži nebo ženě v přístupu k názoru, který vláda považuje za dezinformaci. Pro malé firmy přitom navigace v rámci GDPR znamená platit nekonečné náklady na dodržování právních předpisů nebo jinak riskovat obrovské pokuty. Pro některé bylo nyní nejjednodušším způsobem, jak se tomuto dilematu vyhnout, jednoduše uživatele z EU v první řadě zablokovat. Je to skutečně budoucnost, kterou chceme?
-Dámy a pánové, myslím, že odpověď pro nás všechny by měla znít ne.</p>
-
-<p>Neexistuje problém, kde bychom si dělali větší starosti ohledně regulace, než pokud jde o energetiku. A opět jsem ocenil připomínky mnoha účastníků konference, protože si uvědomují, že nemůžeme - nyní stojíme na hranici průmyslu umělé inteligence, který touží po spolehlivé energii a vysoce kvalitních polovodičích. Přesto se příliš mnoho našich přátel na jedné straně deindustrializuje a na druhé straně vyhání spolehlivou energii ze svých zemí a ze svých sítí. Budoucnost umělé inteligence nezískáme lomením rukama nad bezpečností.</p>
-
-<h3 id="fyzická-ekonomika-a-ai">Fyzická ekonomika a AI</h3>
-
-<p>Vítězství bude dosaženo vybudováním spolehlivých elektráren až po výrobní zařízení, která mohou vyrábět čipy budoucnosti. Na osobní úrovni mě na AI nejvíce vzrušuje to, že je zakotvena v reálné a fyzické ekonomice. Úspěch tohoto odvětví není jen záležitostí chytrých lidí, kteří sedí před obrazovkou počítače a kódují. Záleží na těch, kteří pracují rukama, i když robotika změní naše továrny. Díky ní budou naši poskytovatelé zdravotní péče jistě lépe léčit nemoci, ale bude to záviset také na datech, která tito poskytovatelé zdravotní péče, tito lékaři a sestry vytvoří.</p>
-
-<p>Věřím, že nám to v budoucnu pomůže vytvářet a uchovávat nové způsoby napájení. V tuto chvíli se však umělá inteligence nemůže prosadit, pokud svět nevybuduje energetickou infrastrukturu, která ji bude podporovat. Nyní se domnívám, že technologické inovace v posledních dvaceti letech často vyvolávají představu chytrých lidí, kteří zírají na obrazovky počítačů a inženýrsky pracují ve světě bitů. Ekonomika umělé inteligence však bude záviset především na světě atomů a bude jej transformovat. V tuto chvíli stojíme před mimořádnou vyhlídkou na novou průmyslovou revoluci, která se vyrovná vynálezu parního stroje nebo Bessemerovy oceli, ale nikdy k ní nedojde, pokud bude nadměrná regulace odrazovat inovátory od riskování nezbytného k pokroku, ani k ní nedojde, pokud dovolíme, aby AI ovládli masivní hráči, kteří chtějí technologie využít k cenzuře nebo kontrole myšlení uživatelů.
-A chtěl bych vás požádat, kdybyste na chvíli odstoupili a zeptali se sami sebe, kdo nejagresivněji požaduje, abychom my, tedy političtí představitelé, kteří se zde dnes sešli, provedli nejagresivnější regulaci? Velmi často jsou to lidé, kteří již mají na trhu převahu. A když za námi přijde masivní dominantní subjekt a žádá nás o bezpečnostní regulaci, měli bychom se ptát, zda je tato bezpečnostní regulace ve prospěch našich lidí, nebo zda je ve prospěch dominantního subjektu.</p>
-
-<h3 id="řešení-ideologických-předsudků-v-oblasti-umělé-inteligence">Řešení ideologických předsudků v oblasti umělé inteligence</h3>
-
-<p>V posledních několika letech sledujeme, jak vlády, podniky a neziskové organizace prosazují prostřednictvím AI nepopulární a podle mého názoru vyloženě ahistorické společenské programy. V USA jsme měli generátory obrázků s umělou inteligencí, které se nám snažily namluvit, že George Washington byl černoch nebo že američtí doughboys v první světové válce byly ve skutečnosti ženy.</p>
-
-<p>Dnes se tomu smějeme a samozřejmě to bylo směšné, ale musíme si pamatovat poučení z tohoto směšného okamžiku. A bereme si z něj to, že Trumpova administrativa zajistí, aby systémy umělé inteligence vyvíjené v Americe nebyly ideologicky zaujaté a nikdy neomezovaly právo našich občanů na svobodu projevu. Můžeme našim lidem věřit, že dokážou přemýšlet, konzumovat informace, rozvíjet své vlastní myšlenky a diskutovat mezi sebou na otevřeném trhu myšlenek.</p>
-
-<h3 id="řešení-zahraničních-hrozeb">Řešení zahraničních hrozeb</h3>
-
-<p>Nyní také sledujeme, jak nepřátelští zahraniční protivníci vyzbrojují software umělé inteligence, aby přepisovali historii, sledovali uživatele a cenzurovali projevy. To samozřejmě není vůbec nic nového. Stejně jako to dělají s jinými technologiemi, některé autoritářské režimy ukradly a použily AI k posílení svých vojenských zpravodajských a sledovacích schopností, k získávání cizích dat a k vytváření propagandy, která má podkopat národní bezpečnost jiných zemí. Chci, aby bylo jasno. Tato administrativa bude takové snahy blokovat na plné čáře. Budeme chránit americké technologie umělé inteligence a čipy před krádežemi a zneužitím, spolupracovat s našimi spojenci a partnery na posílení a rozšíření této ochrany a uzavírat cesty protivníkům k získání schopností umělé inteligence, které ohrožují všechny naše lidi.</p>
-
-<p>A také bych chtěl připomenout našim mezinárodním přátelům, kteří jsou zde dnes přítomni, že partnerství s takovými režimy se z dlouhodobého hlediska nikdy nevyplácí. Všichni známe levné technologie na trhu, od kamerových systémů až po zařízení 5G, které byly značně dotovány a vyváženy autoritářskými režimy. Ale jak vím, a myslím, že někteří z nás - někteří z nás v této místnosti to poznali z vlastní zkušenosti, partnerství s nimi znamená připoutání vašeho národa k autoritářskému pánovi, který se snaží infiltrovat, prokopat a zmocnit vaší informační infrastruktury. Pokud by se vám zdálo, že dohoda je příliš dobrá na to, aby byla pravdivá, vzpomeňte si na staré přísloví, které jsme se naučili v Silicon Valley. Pokud neplatíte za produkt, jste produktem vy.</p>
-
-<h3 id="umělá-inteligence-a-američtí-pracovníci">Umělá inteligence a američtí pracovníci</h3>
-
-<p>A konečně, tato administrativa chce mít jasno v posledním bodě. V naší politice v oblasti umělé inteligence se budeme vždy soustředit na americké pracovníky. Odmítáme považovat AI za čistě destruktivní technologii, která nevyhnutelně zautomatizuje naši pracovní sílu. Věříme a budeme bojovat za politiku, která zajistí, že AI učiní naše pracovníky produktivnějšími, a očekáváme, že budou sklízet ovoce v podobě vyšších mezd, lepších benefitů a bezpečnějších a prosperujících komunit. Od práva přes medicínu až po výrobu - nejbližší aplikace umělé inteligence téměř všechny zahrnují doplnění, nikoliv nahrazení práce, kterou vykonávají Američané.</p>
-
-<p>Nyní v kombinaci s přístupem této administrativy k imigraci, který je zaměřen na pracovníky, věříme, že americká pracovní síla připravená k plnému využití AI naopak přitáhne pozornost podniků, které některé z těchto rolí offshorovaly. Aby toho administrativa dosáhla, postará se o to, aby Amerika měla nejlépe vyškolenou pracovní sílu na světě. Naše školy budou studenty učit, jak řídit, jak dohlížet a jak komunikovat s nástroji využívajícími umělou inteligenci, které se stávají stále více součástí našeho každodenního života. A protože umělá inteligence vytváří nová pracovní místa a odvětví, naše vláda, podniky a odborové organizace mají povinnost spolupracovat na posílení postavení pracovníků nejen ve Spojených státech, ale v celé zemi - na celém světě. Za tímto účelem bude Trumpova administrativa u všech významných politických rozhodnutí týkajících se AI, která přijdou od federální vlády, garantovat americkým pracovníkům místo u stolu, a my jsme na to velmi hrdí.</p>
-
-<p>### 
-Závěr
-Nyní jsem vás již dostatečně zaměstnal, a tak bych na závěr rád uvedl jen krátký příběh. Tato země je krásná, pane prezidente Macrone, a vím, že jste na ni hrdý a měl byste být. A včera, když jsem si se svými třemi dětmi prohlížel Les Invalides s generálem Gravettem, byl tak laskav a ukázal mi meč, který patřil nejdražšímu mezinárodnímu příteli Ameriky z dob naší vlastní revoluce, markýzi de Lafayette. Nechal mě ten meč podržet, ale samozřejmě mě předtím donutil nasadit si bílé rukavice. A to mě přimělo přemýšlet o této zemi, o Francii, a samozřejmě o mé vlastní zemi a o krásné civilizaci, kterou jsme společně vybudovali pomocí zbraní, jako je tato šavle. Zbraně, které jsou ve špatných rukou nebezpečné, ale ve správných rukou jsou neuvěřitelným nástrojem svobody a prosperity.</p>
-
-<p>Nemohl jsem si pomoci a musel jsem myslet na dnešní konferenci. Pokud zvolíme špatný přístup k dalším věcem, které by mohly být pojímány jako nebezpečné, k věcem, jako je umělá inteligence, a rozhodneme se držet se zpátky, změní to nejen naše HDP nebo akciový trh, ale i samotnou budoucnost projektu, který Lafayette a američtí zakladatelé začali vytvářet. To neznamená, že všechny obavy o bezpečnost jdou stranou, ale záleží na našem soustředění, a my se nyní musíme soustředit na příležitost chytit blesk do láhve, uvolnit naše nejgeniálnější inovátory a využít AI ke zlepšení blahobytu našich národů a jejich obyvatel. S velkou jistotou mohu říci, že je to příležitost, kterou Trumpova administrativa nepromarní, a doufáme, že všichni, kdo se zde dnes sešli, to cítí úplně stejně.</p>
-
-<p>Děkuji vám a Bůh vám všem žehnej.</p>
-
-<p>Děkuji vám.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Donald Trump" /><category term="JD Vance" /><category term="projev" /><summary type="html"><![CDATA[Na pařížském AI Summitu přednesl JD Vance důležitý projev, který zcela jasně ukázal, jak Trumpova administrativa hodlá přistupovat k umělé inteligenci. Vance zdůraznil, že umělá inteligence je nejen technologií budoucnosti, ale také nástrojem, který může zlepšit životy lidí po celém světě. Zároveň však varoval před nebezpečím, které může AI přinést, pokud se dostane do špatných rukou.]]></summary></entry></feed>
+</blockquote>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="OpenEuroLLM" /><category term="AI Act" /><category term="Mistral" /><category term="AMD Silo AI" /><category term="Lights On" /><summary type="html"><![CDATA[Projekt OpenEuroLLM vznikl jako evropská iniciativa pro vývoj otevřených velkých jazykových modelů (LLM) s cílem posílit technologickou suverenitu a konkurenceschopnost Evropy v oblasti umělé inteligence. To jsou takové ty úřední vyjádření. Oficiálně byl zahájen 1. února 2025 a cílem je vytvořit modely pokrývající všechny oficiální jazyky EU a další evropské jazyky. Má také zajistit soulad s evropským AI Actem.]]></summary></entry></feed>
