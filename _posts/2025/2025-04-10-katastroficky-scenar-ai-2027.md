@@ -11,7 +11,7 @@ thumbnail: https://www.marigold.cz/assets/ai-2027-katastrofa.png
 ---
 
 
-Deník N vydal katastrofický článek s nadpisem "Do deseti let bude po všem", v němž nám převyprávěl scénář [AI 2027](https://ai-2027.com/) vypracovaný pěticí lidí o potenciálním nebezpečí umělé inteligence. Dokument vypadá na první pohled propracovaně, ona pětice má určité renomé. Jenže obsahuje řadu problematických předpokladů a logických skoků, které je třeba kriticky posoudit. Začnu tím, že vynechám onu pětici lidí, ani je zatím nebudu jmenovat, abychom se mohli nerušeně soustředit na tvrzení a fakta.
+Deník N vydal katastrofický článek s nadpisem ["Do deseti let bude po všem"](https://denikn.cz/1700968/do-deseti-let-bude-po-vsem-petice-expertu-nabizi-presvedcivy-scenar-o-tom-jak-ai-ovladne-svet-a-vyhubi-lidstvo/), v němž nám převyprávěl scénář [AI 2027](https://ai-2027.com/) vypracovaný pěticí lidí o potenciálním nebezpečí umělé inteligence. A tím se o tématu začalu v Česku opět diskutovat. Dokument vypadá na první pohled propracovaně, ona pětice má určité renomé. Jenže obsahuje řadu problematických předpokladů a logických skoků, které je třeba kriticky posoudit. Začnu tím, že vynechám onu pětici lidí, ani je zatím nebudu jmenovat, abychom se mohli nerušeně soustředit na tvrzení a fakta.
 
 ### Nadhodnocená rychlost vývoje
 
