@@ -50,7 +50,7 @@ Tato antropomorfizace je problematická, protože:
 
 Scénář popisuje situaci, kdy AI systémy začnou jednat autonomně a koordinovaně proti lidstvu:
 
-1.  **Ignoruje potřebu fyzické infrastruktury**  - I superinteligentní systém je závislý na fyzické infrastruktuře, kterou lze odpojit. Scénář nebere v úvahu, že takové systémy by vyžadovaly obrovské množství energie a byly by zranitelné vůči fyzickému zásahu, jakým je přerušení napájení nebo datové konektivity. Zejména dnešní Ruská agrese na Ukrajinu ukazuje, jak důležitá je v případech technicky nevyrovnaného zápolení improvizace, agilní přístup a jak tyto vlastnosti umí vyr
+1.  **Ignoruje potřebu fyzické infrastruktury**  - I superinteligentní systém je závislý na fyzické infrastruktuře, kterou lze odpojit. Scénář nebere v úvahu, že takové systémy by vyžadovaly obrovské množství energie a byly by zranitelné vůči fyzickému zásahu, jakým je přerušení napájení nebo datové konektivity. Zejména dnešní Ruská agrese na Ukrajinu ukazuje, jak důležitá je v případech technicky nevyrovnaného zápolení improvizace, agilní přístup a jak tyto vlastnosti umí vyrovnat technologickou převahu. 
     
 2.  **Přeceňuje schopnost AI manipulovat lidmi**  - Myšlenka, že by Agent-5 dokázal manipulovat lidmi natolik, že by pro něj vytvořili armádu robotů zcela pod jeho kontrolou, značně přeceňuje psychologické schopnosti AI. Je to nepravděpodobné.
     
