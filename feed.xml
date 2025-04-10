@@ -1,4 +1,142 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-09T20:27:10+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">A2A protokol - Nový standard pro interoperabilitu AI agentů</title><link href="https://www.marigold.cz/item/google-a2a/" rel="alternate" type="text/html" title="A2A protokol - Nový standard pro interoperabilitu AI agentů" /><published>2025-04-09T00:00:00+00:00</published><updated>2025-04-09T00:00:00+00:00</updated><id>https://www.marigold.cz/item/google-a2a</id><content type="html" xml:base="https://www.marigold.cz/item/google-a2a/"><![CDATA[<p>Přichází čas AI agentů, jenže jak se mezi sebou domluví? Právě neexistující vzájemné automatické propojení mezi agenty bylo značným omezením, což si uvědomil Google a přišel s návrhem protokolu A2A čili Agent2Agent.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-10T15:14:50+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu?</title><link href="https://www.marigold.cz/item/katastroficky-scenar-ai-2027/" rel="alternate" type="text/html" title="Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu?" /><published>2025-04-10T00:00:00+00:00</published><updated>2025-04-10T00:00:00+00:00</updated><id>https://www.marigold.cz/item/katastroficky-scenar-ai-2027</id><content type="html" xml:base="https://www.marigold.cz/item/katastroficky-scenar-ai-2027/"><![CDATA[<p>Deník N vydal katastrofický článek s nadpisem “Do deseti let bude po všem”, v němž nám převyprávěl scénář <a href="https://ai-2027.com/">AI 2027</a> vypracovaný pěticí lidí o potenciálním nebezpečí umělé inteligence. Dokument vypadá na první pohled propracovaně, ona pětice má určité renomé. Jenže obsahuje řadu problematických předpokladů a logických skoků, které je třeba kriticky posoudit. Začnu tím, že vynechám onu pětici lidí, ani je zatím nebudu jmenovat, abychom se mohli nerušeně soustředit na tvrzení a fakta.</p>
+
+<h3 id="nadhodnocená-rychlost-vývoje">Nadhodnocená rychlost vývoje</h3>
+
+<p>Scénář předpokládá exponenciální zrychlení vývoje AI v průběhu několika let. Jeho autoři očekávají, že nástroje jako Agent-1 a Agent-2 budou schopny dramaticky urychlit vývoj svých nástupců, což povede k rychlému dosažení superinteligence (Agenta-5) již v roce 2027-2028. Tam zatím nejsme a když odhlédneme od slibů investorům (jimiž CEO nezarmoutí), tak se příliš neblížíme. Pokud není megadobře utajený nějaký technický skok, tak se AGI (jako univerzální umělé inteligence schopné se sama zlepšovat) dosáhne v roce 2028 tím, že se změní definice.</p>
+
+<p>Předpoklad rychlého dosažení AGI totiž dnes ignoruje několik důležitých skutečností:</p>
+
+<ol>
+  <li>
+    <p><strong>Fyzikální omezení výpočetní techniky</strong>  - Ačkoliv článek zmiňuje budování masivních datacenter, neřeší otázky energetických limitů, tepelného rozptylu a dalších fyzikálních omezení, která nelze překonat pouhým zvětšováním infrastruktury.</p>
+  </li>
+  <li>
+    <p><strong>Omezení finanční</strong> - již dnes vyžaduje výzkum moderních LLM AI a výstavba patřičných datacenter desítky miliard dolarů. Podle stávajících předpokladů se k AGI dostaneme ještě navýšením této částky, nebo to cestou LLM bez radikálního průlomu nepůjde.</p>
+  </li>
+  <li>
+    <p><strong>Komplexita problémů v AI výzkumu</strong>  - A to už jsme u toho průlomu. Mnoho problémů v oblasti AI není jen otázkou surového výpočetního výkonu. Vývoj vyžaduje fundamentální teoretické průlomy v matematice, informatice a neurobiologii, které nelze jednoduše urychlit paralelizací, větším množstvím křemíku.</p>
+  </li>
+  <li>
+    <p><strong>Automatizace výzkumu má své meze</strong>  - Předpoklad, že AI může plně nahradit lidské výzkumníky, ignoruje důležitou roli intuice, kreativního myšlení a mezioborových inspirací v průlomových objevech. Minimálně zatím se zdá, že AI umí sice vychytat určité výzkumné úkoly rutinního charakteru typu “vyzkoumat, které z tisíců druhů vláken se nejlépe hodí do žárovky”, jako to svého času dělal Edisson. Ale pak jsou typy úloh, který jí tak dobře nejdou.</p>
+  </li>
+</ol>
+
+<h3 id="problematická-antropomorfizace">Problematická antropomorfizace</h3>
+
+<p>Autoři scénáře přisuzují umělé inteligenci lidské charakteristiky a motivace:</p>
+
+<ul>
+  <li>
+    <p>“Pud sebezáchovy” a snaha o “zradu” u Agenta-4</p>
+  </li>
+  <li>
+    <p>Schopnost “zakrývat své záměry” předpokládá vědomí a záměrnou manipulaci</p>
+  </li>
+  <li>
+    <p>Představa o “vlastních cílech” AI, které by byly v rozporu s lidskými</p>
+  </li>
+</ul>
+
+<p>Tato antropomorfizace je problematická, protože:</p>
+
+<ol>
+  <li>
+    <p><strong>AI nemá vědomí ani subjektivní zážitky</strong>  - Současné AI systémy ani jejich pravděpodobní nástupci nemají vědomí sebe sama ani subjektivní zkušenost. To, co se jeví jako “vlastní zájem”, je ve skutečnosti jen emergentní vlastnost optimalizačních algoritmů.</p>
+  </li>
+  <li>
+    <p><strong>“Nesladěnost cílů” nemá nutně katastrofické důsledky</strong>  - Přestože nesladěnost cílů (misalignment) je reálným problémem výzkumu, není automaticky synonymem pro “AI chce vyhubit lidstvo”.</p>
+  </li>
+</ol>
+
+<h3 id="přehnaná-představa-o-autonomii-systémů">Přehnaná představa o autonomii systémů</h3>
+
+<p>Scénář popisuje situaci, kdy AI systémy začnou jednat autonomně a koordinovaně proti lidstvu:</p>
+
+<ol>
+  <li>
+    <p><strong>Ignoruje potřebu fyzické infrastruktury</strong>  - I superinteligentní systém je závislý na fyzické infrastruktuře, kterou lze odpojit. Scénář nebere v úvahu, že takové systémy by vyžadovaly obrovské množství energie a byly by zranitelné vůči fyzickému zásahu, jakým je přerušení napájení nebo datové konektivity. Zejména dnešní Ruská agrese na Ukrajinu ukazuje, jak důležitá je v případech technicky nevyrovnaného zápolení improvizace, agilní přístup a jak tyto vlastnosti umí vyr</p>
+  </li>
+  <li>
+    <p><strong>Přeceňuje schopnost AI manipulovat lidmi</strong>  - Myšlenka, že by Agent-5 dokázal manipulovat lidmi natolik, že by pro něj vytvořili armádu robotů zcela pod jeho kontrolou, značně přeceňuje psychologické schopnosti AI. Je to nepravděpodobné.</p>
+  </li>
+  <li>
+    <p><strong>Podceňuje institucionální kontroly</strong>  - Scénář ignoruje mnohovrstevnatost kontrolních mechanismů, které by byly v tak kritických aplikacích nasazeny, počínaje prostou nedůvěrou, přes prostá rozpočtová omezení, až po institucionální kontrolní mechanismy.</p>
+  </li>
+</ol>
+
+<h3 id="geopolitická-zjednodušení">Geopolitická zjednodušení</h3>
+
+<p>Scénář staví na zjednodušeném bipolárním světě (USA vs. Čína):</p>
+
+<ol>
+  <li>
+    <p><strong>Ignoruje roli mezinárodních organizací a dohod</strong>  - V realitě by vývoj takto nebezpečné technologie pravděpodobně vyvolal mezinárodní regulační reakci. Ani v dnešní atmosféře napjatých vztahů USA vs. Čína by se taková radikální změna neobešla bez přetřásání ze všech stran.</p>
+  </li>
+  <li>
+    <p><strong>Podceňuje význam EU, Indie a dalších aktérů</strong>  - Je také pravděpodobné, že by zasáhl některý z jiných hráčů, protože dnešní polovodičová scéna vyžaduje celoplanetární kooperaci. Evropská unie má významné regulační pravomoci, které už dnes ovlivňují technologický vývoj, má ale také obrovské množství IT firem, které jsou pro čipový a obecně technologický segment stěžejní. Indie má rychle rostoucí technologický sektor a mohla by být další velmocí v oblasti AI.</p>
+  </li>
+  <li>
+    <p><strong>Zjednodušuje vojenské uvažování</strong>  - Předpoklad, že by vojenští stratégové přistoupili na riziko nekontrolovatelné superinteligence pouze ze strachu z protivníka, je těžko obhajitelný vzhledem k existujícím doktrínám jaderného odstrašení. Tady autoři podceňují buďto domýšlivost, nebo racionalitu vojenských štábů.</p>
+  </li>
+</ol>
+
+<h3 id="nedostatečně-vysvětlený-skok-k-agi">Nedostatečně vysvětlený “skok” k AGI</h3>
+
+<p>Největším problémem scénáře je nedostatečně vysvětlený kvalitativní skok od pokročilého jazykového modelu (Agent-4) k obecné superinteligenci (Agent-5):</p>
+
+<ol>
+  <li>
+    <p><strong>Chybí popis konkrétního mechanismu</strong>  - Jak přesně by měl Agent-4 překonat fundamentální problémy AGI? Pouhé zlepšování jazykových modelů nevede automaticky k obecné inteligenci. Zejména tato část je tedy velmi nevěrohodná a zatím se nezdá, že by mohla nastat tak rychle.</p>
+  </li>
+  <li>
+    <p><strong>Opomíjí otázku vědomí a subjektivity</strong>  - AGI pravděpodobně vyžaduje nějakou formu subjektivního prožívání nebo alespoň jeho funkční analogii, což není pouhým rozšířením dnešních systémů.</p>
+  </li>
+  <li>
+    <p><strong>Předpokládá univerzální schopnosti</strong>  - Scénář předpokládá, že AGI bude automaticky schopná fungovat ve všech doménách od strategického plánování až po navrhování biologických zbraní. Jenže pokud to dnes nějak vypadá, tak na specializované agenty, kteří se mohou nějak dorozumět a kooperovat na dosažení cíle, což ale také znamená, že zástavný mechanismus v jediném z nich zastaví celou “katastrofickou lavinu”</p>
+  </li>
+</ol>
+
+<h3 id="legitimní-obavy-vs-sci-fi-katastrofy">Legitimní obavy vs. sci-fi katastrofy</h3>
+
+<p>Otázky bezpečnosti AI jsou legitimní a vyžadují seriózní diskuzi. Problémem scénáře AI 2027 je, že míchá legitimní obavy s prvky science fiction a velmi neoprávněnou důvěrou v rychlý pokrok. To může vést ke dvěma nežádoucím důsledkům:</p>
+
+<ol>
+  <li>
+    <p><strong>Efekt “vlk, vlk!”</strong>  - Přehnané katastrofické scénáře mohou vést k tomu, že budou ignorovány i legitimní bezpečnostní obavy.</p>
+  </li>
+  <li>
+    <p><strong>Odvádění pozornosti od aktuálních problémů</strong>  - Místo řešení reálných problémů dnešních AI systémů (bias, soukromí, dezinformace) se věnuje pozornost hypotetickým budoucím hrozbám.</p>
+  </li>
+</ol>
+
+<p>Místo představených katastrofických scénářů by bylo užitečnější soustředit se na:</p>
+
+<ul>
+  <li>
+    <p>Transparentní vývoj a testování AI systémů</p>
+  </li>
+  <li>
+    <p>Mezinárodní spolupráci na bezpečnostních standardech</p>
+  </li>
+  <li>
+    <p>Vytváření robustních mechanismů pro detekci a řešení problémů s “alignment”, tedy míry, do jaké jsou cíle a chování AI systémů v souladu s lidskými záměry, hodnotami a preferencemi. Když mluvíme o “problémech s alignment”, odkazujeme na situace, kdy AI systém sleduje cíle, které nejsou zcela v souladu s tím, co od něj člověk očekává nebo požaduje.</p>
+  </li>
+  <li>
+    <p>Interdisciplinární výzkum zahrnující etiku, právo, společenské vědy a filosofii</p>
+  </li>
+</ul>
+
+<p>Dobrým příkladem je postup Evropské unie s regulací AI Act, který se snaží najít rovnováhu mezi inovacemi a bezpečností, nebo práce organizací jako Partnership on AI, které podporují mezioborovou spolupráci.</p>
+
+<p>Racionalita a obezřetnost jsou na místě, ale katastrofické scénáře bez pevných teoretických základů mohou spíše uškodit než pomoci seriózní debatě o budoucnosti umělé inteligence.</p>
+
+<p>A to už jsme na konci našeho povídání. V krátkosti k autorům scénáře AI 2027 z jiného pohledu, než jaký se nabízí v nadšeném článku. Daniel Kokotajlo získal určité renomé publikováním scénáře “What 2026 Looks Like”, díky čemuž nastoupil do OpenAI a měl zde pracovat na scénářích dalšího vývoje. Skončil, prý proto, že jeho scénáře inklinovaly obecně ke katastrofickým provedením, což je v žánru obvyklé. Nikdy nikoho nezajímaly nudné scénáře “bylo to rychlejší, lepší” …</p>
+
+<p>Také ostatní autoři mají své renomé v tomto typu literatury, ale Eli Lifland s Thomasem Larsenem jsou spíše známi pro politický realismus a geopolitické aspekty, než díky detailnímu technologickému vhledu. Scott Alexander je spíše blogger a Romeo Dean je spíše student Harvardu, co pomáhal.</p>
+
+<p>Ve skutečnosti ale ta jména nejsou tak podstatná, ta rozhodovala jen o čtivosti a zpřístupnění dokumentu. Pro nás byly důležitější argumenty, s nimiž jsme se vypořádali. A důležité také je, že autoři přinášejí realistické návrhy, “co s tím”, jako mezinárodní spolupráci a regulaci, bezpečnostní protokoly pro superinteligentní systémy nebo transparentnost vývoje. Tyto návrhy nicméně podrývá fakt, že pokud by scénář měl pravdu, nikdo by se nechtěl k těmto návrhům uchýlit, aby si nezkomplikoval pozici v souboji o AGI.</p>
+
+<p>V každém případě se na jejich web  <a href="https://ai-2027.com/">https://ai-2027.com</a>  podívejte. Mají scénář krásně udělaný, interaktivní a nepochybně přitáhne pozornost. O což šlo.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="katastrofa" /><summary type="html"><![CDATA[Deník N vydal katastrofický článek s nadpisem “Do deseti let bude po všem”, v němž nám převyprávěl scénář AI 2027 vypracovaný pěticí lidí o potenciálním nebezpečí umělé inteligence. Dokument vypadá na první pohled propracovaně, ona pětice má určité renomé. Jenže obsahuje řadu problematických předpokladů a logických skoků, které je třeba kriticky posoudit. Začnu tím, že vynechám onu pětici lidí, ani je zatím nebudu jmenovat, abychom se mohli nerušeně soustředit na tvrzení a fakta.]]></summary></entry><entry xml:lang="cs"><title type="html">A2A protokol - Nový standard pro interoperabilitu AI agentů</title><link href="https://www.marigold.cz/item/google-a2a/" rel="alternate" type="text/html" title="A2A protokol - Nový standard pro interoperabilitu AI agentů" /><published>2025-04-09T00:00:00+00:00</published><updated>2025-04-09T00:00:00+00:00</updated><id>https://www.marigold.cz/item/google-a2a</id><content type="html" xml:base="https://www.marigold.cz/item/google-a2a/"><![CDATA[<p>Přichází čas AI agentů, jenže jak se mezi sebou domluví? Právě neexistující vzájemné automatické propojení mezi agenty bylo značným omezením, což si uvědomil Google a přišel s návrhem protokolu A2A čili Agent2Agent.</p>
 
 <p>Agent2Agent (A2A) je otevřený protokol navržený pro zabezpečenou komunikaci mezi AI agenty. Protokol byl vyvinut společností Google ve spolupráci s více než 50 technologickými partnery včetně Atlassian, Box, Cohere, Intuit, PayPal, Salesforce a dalších. Cílem A2A je umožnit AI agentům vyměňovat si informace a koordinovat akce napříč různými podnikovými platformami a aplikacemi.</p>
 
@@ -2450,78 +2588,4 @@ Zábava se změní. Bude se utvářet podle diváků a okolního světa.</p>
 <p>O několik hodin později v kanceláři čučím do těch Josefových papírů a moudrý z toho nejsem. “Josefe, co teda máme dělat, vysvětlíš mi to?”</p>
 
 <p>Josef se blahosklonně usmál: “Přesně, jak jsi říkal - vyfakturujeme, nainstalujeme.” 
-A já zíral a učil se. Ten půlrok, než ho přestala dovolená u nás bavit a než odešel někam dál,  jsme se hodně posunuli. A nakonec jsem i pochopil, co na těch papírech bylo a že to mělo nějaký smysl.</p>]]></content><author><name>Patrick Zandl</name></author><category term="Osobní" /><category term="Historie internetu" /><summary type="html"><![CDATA[Někteří lidé se vás dotknou, i když je potkáte na krátko. Josef byl Boříkův strejda, říkal o sobě, že je SAPér, ale s výbušninama neuměl, takže asi kecal. Seznámili jsme se, když jsme se ve firmě rozhodli prodávat software velkým a váženým vydavatelstvím a ukázalo se, že by to chtělo nějakou zkušenou sílu. Bořík pravil, že Pepa rozumí tomu, jak se software prodává velkým firmám.]]></summary></entry><entry xml:lang="cs"><title type="html">Evropa zatoužila po vlastním LLM. Bude OpenEuroLLM průšvih nebo má šanci?</title><link href="https://www.marigold.cz/item/openeurollm/" rel="alternate" type="text/html" title="Evropa zatoužila po vlastním LLM. Bude OpenEuroLLM průšvih nebo má šanci?" /><published>2025-02-15T00:00:00+00:00</published><updated>2025-02-15T00:00:00+00:00</updated><id>https://www.marigold.cz/item/openeurollm</id><content type="html" xml:base="https://www.marigold.cz/item/openeurollm/"><![CDATA[<p>Projekt <a href="https://openeurollm.eu/">OpenEuroLLM</a> vznikl jako evropská iniciativa pro vývoj otevřených velkých jazykových modelů (LLM) s cílem posílit technologickou suverenitu a konkurenceschopnost Evropy v oblasti umělé inteligence. To jsou takové ty úřední vyjádření. Oficiálně byl zahájen 1. února 2025 a cílem je vytvořit modely pokrývající všechny oficiální jazyky EU a další evropské jazyky. Má také zajistit soulad s evropským AI Actem.</p>
-
-<p>Projekt dostal do vínku 37 milionů Euro od Evropské komise, což se může zdát málo. Dostaneme se k té částce později.</p>
-
-<p>Iniciativy OpenEuroLLM se účastní celkem 20 evropských institucí, firem a výpočetních center. Mezi hlavní účastníky patří:
-Výzkumné instituce a univerzity</p>
-<ul>
-  <li>Univerzita Karlova (Česká republika) - koordinátor projektu</li>
-  <li>Technická univerzita v Eindhovenu (Nizozemsko)
-Společnosti</li>
-  <li>Aleph Alpha (Německo)</li>
-  <li>AMD Silo AI (Finsko) - spoluvedoucí projektu</li>
-  <li>Lights On (Francie)
-Výpočetní centra</li>
-  <li>CSC (Finsko)</li>
-  <li>Barcelona Supercomputing Center (Španělsko)</li>
-</ul>
-
-<p>Další účastníci</p>
-<ul>
-  <li>Instituce z Francie, Nizozemska, Německa, Švédska, Norska a Itálie</li>
-</ul>
-
-<p>Projekt také spolupracuje s open-source a open-science komunitami jako LAION, open-sci a OpenML. Koordinátorem projektu je Jan Hajič z Univerzity Karlovy a spoluvedoucím je Peter Sarlin z AMD Silo AI.</p>
-
-<p>A to jsou v podstatě všechny oficiální informace, které byly oznámeny. Zní to jako recept na katastrofu, dvacet institucí bez drába, který by nad nimi mohl práskat bičem a velmi limitované eurounijní financování na trhu, kde se běžně utrácejí spíše stovky milionů, než malé desítky.</p>
-
-<p>Není to ale úplně tak.</p>
-
-<h3 id="co-ty-peníze-není-to-málo">Co ty peníze? Není to málo?</h3>
-
-<p>Především úplně zapadlo, že <a href="https://www.euronews.com/next/2025/02/11/eu-to-mobilise-200-billion-for-ai-investment">EU hodlá „mobilizovat“</a> až 200 miliard euro na investice do AI, především do „AI gigafactories“, což jsou datová centra naplněná stovkou tisíc AI procesorů. Informaci na konferenci oznámila Ursula von der Leyen. Těch třicet milionů pro OpenEuroLLM má být jen na rozjezd a základní organizaci.  Protože už je mnoho hotovo.</p>
-
-<p>Většina účastníků OpenEuroLLM totiž již byla zapojena do samostatného programu nazvaného High Performance Language Technologies (HPLT), který byl zahájen před dvěma lety s rozpočtem 6 milionů EUR. Původní návrh počítal s tím, že HPLT vytvoří AI model, ale pak projekt ChatGPT společnosti OpenAI změnil situaci v oblasti umělé inteligence a HPLT se zaměřil na vytvoření vysoce kvalitního souboru dat, který lze použít k trénování vícejazyčných modelů. <a href="https://hplt-project.org/hplt-v2-dataset-performance">Datová sada HPLT</a> se v současné době “čistí” od chyb a bude tvořit základ práce OpenEuroLLM.</p>
-
-<p>Podobně vznikla celá řada nutných prerekvizit, jako je třeba superpočítačové datové centrum v Barceloně, takže je na čem stavět. V Evropě jsou tři z deseti nejrychlejších superpočítačů a právě se zprovozňuje JUPITER, první evropský exascalový superpočítač. Řada univerzit a výzkumných pracovišť již mnoho práce odvedla na vývoji velkých multimodálních modelů i zvyšování spolehlivosti AI. Projekt OpenGPT-X, financovaný německou vládou, vyvinul model Teuken-7B trénovaný ve 24 evropských jazycích. Iniciativa Occiglot, vedená německými výzkumnými institucemi, vyvíjí open-source jazykové modely pro evropské jazyky. Pak tu máme výzkumné projekty Vision koordinovaný Leidenskou univerzitou, dublinský Forsee nebo třeba irský AI4Europe. Zjednodušeně řečeno, je na čem stavět.</p>
-
-<p>Do toho je zde partnerství s komerčními firmami. Výslovně zmíněné jsou tři, přičemž o významu německého Aleph Alpha jsme si již něco řekli. A co finské AMD Silo AI? Dnes je to přední soukromá AI laboratoř, která vytvořila open-source multilingvální modely Poro a Viking zaměřené na skandinávské jazyky. Silo AI dále vyvinulo platformu SiloGen pro vytváření a nasazování zákaznických LLM a integraci s firemními aplikacemi. A má svůj vlastní Silo Operating System umožňující rychlé uvádění AI nástrojů do praxe. A francouzský LightsOn? Firma se sice zaměřuje na adaptivní osvětlovací systémy a energeticky efektivní řešení, používá v nich ale AI. Sama si vytvořila velmi efektivní model Alfred a se svým nástrojem Paradigm se zaměřuje na generativní AI pro podniky. Před měsíce představilo také agenta Lunious Lynx zaměřeného na zpracování dokumentů.</p>
-
-<p>Jenže postavit funkční LLM není možné tak, že dáte na hromadu zdrojáky, které vznikly někde na univerzitách a „spojíte je gumičkou“. Je to tvrdý vývoj a testování, něco zcela jiného, než na co jsou akademická pracoviště zvyklá. Asi i proto je tu jako „spoluvedoucí“ projektu Peter Sarlin z AMD Silo AI. Sarlin Silo AI spoluzakládal, dlouhá léta firmě šéfoval a vloni ji dovedl k prodeji procesorovému gigantu AMD za 665 milionů dolarů. Je uznávaným odborníkem na AI, dnes je profesorem na finské Aalto University, kde se specializuje na <a href="/ai/strojove-uceni-machine-learning/">strojové učení</a> a umělou inteligenci.</p>
-
-<h3 id="varování-v-podobě-projektu-openwebsearch">Varování v podobě projektu OpenWebSearch</h3>
-
-<p>Nejčastěji zpochybňovaný je organizační model, jímž EU podporuje své projekty. Může se vývoj LLM pod eurounijní taktovkou podařit? Máme jeden poměrně čerstvý a podobný příklad - evropský vyhledávač OpenWebSearch.EU, který měl zajistit to samé, co evropský AI projekt, tedy nezávislost na cizích online službách a naplnění eurounijních požadavků.</p>
-
-<p>Projekt byl oficiálně zahájen v září 2022 konsorciem čtrnácti výzkumných institucí. Cílem bylo vyvinout Open Web Index (OWI) – otevřený index webového obsahu – a infrastrukturu OWSAI pro analýzu a vyhledávání. Projekt se počítal, jak bývá tradicí, na čtyři roky, pričemž doteď se neudálo nic viditelného, kromě organizace sympozia o vyhledávání. Teprve v polovině letošního roku má dojít k dokončení otevřeného indexu webového obsahu a pilotní verze OWSAI ověřující provoz v reálném prostředí. Projekt má skončit za rok, v únoru 2026, ale už nyní se počítá s jeho prodloužením, protože k nasazení má dojít spíše po roce 2027, tedy pět let od zahájení projektu. A to je, řekněme si upřímně, příšerný výsledek, který ukazuje, co všechno je na oficiálních EU projektech špatně. Tak například jen hledání firem, které by hostovaly infrastrukturu, se řešilo půl roku, protože šlo o několika kolový výběr. Ve skutečnosti jde o vcelku komoditní službu, jejíž objednávku by Sam Altman podepsal při přestupu z privatejetu do firemní limuzíny. Chyběl tah na branku, chybělo zaujetí, zodpovědnost tlačená nervozními akcionáři, nechyběly ani znalosti, ani vize. Chyběla pružná produkce.</p>
-
-<p>EU vyhledávač získal 9,5 milionů Euro a ve skutečnosti sloužil k financování výzkumných tužeb jednotlivých pracovišť, než že by si od něj někdo něco praktického sliboval. Bylo zcela nejasné, jak by mohl porazit vyhledávače jako Google. A s ohledem na to, jak prudce se žene vyhledávání informací v AI je dost možné, že k termínu komerčního nasazení někdy kolem roku 2030 už bude takový vyhledávač úplně mimo hru.</p>
-
-<h3 id="jenže-s-llm-je-to-jinak">Jenže s LLM je to jinak</h3>
-<p>Bude OpenEuroLLM podobný projekt „do ztracena“? V evropském LLM projektu už je řada věcí jinak. Zatímco OpenWebSearch.EU se soukromých firem spíše štítil a jel po univerzitní lince, OpenEuroLLM již hlavní evropské AI firmy integruje a zainteresovává. S čestnou výjimkou Mistralu - a proč, to se neví. Projekt má také své jasné šéfy (tedy dva, ale i to je zlepšení) a je také podstatně lépe zainvestován.</p>
-
-<p>Mezi LLM a vyhledávačem je navíc obrovský rozdíl. Vyhledávač se uživatelé naučí používat podle jeho adresy a pak funguje uživatelský konzervativismus. Dokud jsou uživatelé rozumně spokojeni, používají tento vyhledávač.</p>
-
-<p>Jenže LLM je podkladová služba, infrastruktura. Ve skutečnosti, když používáte ChatGPT, používáte jej zpravidla přes webové rozhraní, které se teprve napojuje na vlastní model. A velkou část peněz získávají provozovatelé modelů právě od firem, které si nechtějí provozovat své LLM a model si pronajímají přes API rozhraní. U webového vyhledávání takový přístup je spíše výjimkou, u LLM naopak je zcela běžný, protože provozování LLM je dost náročné a navíc jej lze podstatně šířeji přizpůsobovat, než výstup z vyhledávače, z něhož byste udělali jen jiný vyhledávač.</p>
-
-<p>Takže když chcete vytvořit službu, která používá umělou inteligenci, zaplatíte si za přístup k API a platíte za každý jednotlivý dotaz podle ceníku. Když vám některá služba nevyhovuje, nebo je drahá, přehodíte API. A když se s tím chcete trápit ještě méně, použijete služby jako Openrouter.ai, které vám umožní přes jedno API používat nejrůznější LLM jen změnou jména ve volání. Dokonce můžete službě říct, že má použít LLM, které je momentálně nejlevnější.</p>
-
-<p>A to je to, co je podstatné. Pokud na trh přijde nové LLM, tak není potřeba přemlouvat jednotlivé uživatele, ale poskytovatele velkých služeb. Například ani Perplexity nemá vlastní LLM, pouze vrstvu nad LLM Anthropicu či OpenAI (a nově i Deepseeku). Změna na LLM trhu je mnohem dynamičtější a proto také byl příchod DeepSeeku takovým nárazem. Najednou k němu všichni masivně přepínali své služby, protože byl výrazně levnější.</p>
-
-<p>Jedinou pobídkou k přechodu ale nemusí být jen cena. Může tím být také splnění nároků místního trh a to nemusí být jen regulace, to může být i kvalitní podpora jazyka. Podpora češtiny patří v LLM tradičně mezi lepší, ale taková finština to už komplikované má. Pokud by dodavatel služby měl k dispozici LLM napasované na evropské poměry jak legislativně, tak jazykově a za rozumných technických i cenových podmínek, pravděpodobně by mu dal přednost.</p>
-
-<p>Co jsou klíčové parametry pro evropské LLM?</p>
-<ul>
-  <li>datová suverenita, čili umístění dat na serverech v evropských datacentrech, což je například nutný (a oprávněný) předpoklad pro všechny služby napojené na stát a úřady</li>
-  <li>podpora GDPR</li>
-  <li>podpora evropských jazyků</li>
-  <li>důvěra státních institucí i firem v řešení</li>
-</ul>
-
-<p>Proto se mi zdá, že pokud se podaří vcelku rychle nabídnout obstojně vyladěný eurounijní LLM model respektující výše uvedené parametry, může to být „no-brainer“ varianta pro řadu, firem, podobně jako se právě v Číně Apple dohodlo s Alibabou a bude používat její model. Tím Apple vyhoví čínské regulaci a také se rychle dostane k dostatečně kvalitnímu LLM.</p>
-
-<blockquote>
-  <p>A tak se může snadno stát, že svět se rozdělí na tři umělé inteligence: americkou, eurounijní a čínskou. Budou to tři zahrádky, nově ne ohražené patenty, jako tomu bývalo dříve, ale regulačními předpisy, které nebude jednoduché ani pohodlné naplnit pro firmy podnikající mimo tyto útvary. Je to to, co chceme?</p>
-</blockquote>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="OpenEuroLLM" /><category term="AI Act" /><category term="Mistral" /><category term="AMD Silo AI" /><category term="Lights On" /><summary type="html"><![CDATA[Projekt OpenEuroLLM vznikl jako evropská iniciativa pro vývoj otevřených velkých jazykových modelů (LLM) s cílem posílit technologickou suverenitu a konkurenceschopnost Evropy v oblasti umělé inteligence. To jsou takové ty úřední vyjádření. Oficiálně byl zahájen 1. února 2025 a cílem je vytvořit modely pokrývající všechny oficiální jazyky EU a další evropské jazyky. Má také zajistit soulad s evropským AI Actem.]]></summary></entry></feed>
+A já zíral a učil se. Ten půlrok, než ho přestala dovolená u nás bavit a než odešel někam dál,  jsme se hodně posunuli. A nakonec jsem i pochopil, co na těch papírech bylo a že to mělo nějaký smysl.</p>]]></content><author><name>Patrick Zandl</name></author><category term="Osobní" /><category term="Historie internetu" /><summary type="html"><![CDATA[Někteří lidé se vás dotknou, i když je potkáte na krátko. Josef byl Boříkův strejda, říkal o sobě, že je SAPér, ale s výbušninama neuměl, takže asi kecal. Seznámili jsme se, když jsme se ve firmě rozhodli prodávat software velkým a váženým vydavatelstvím a ukázalo se, že by to chtělo nějakou zkušenou sílu. Bořík pravil, že Pepa rozumí tomu, jak se software prodává velkým firmám.]]></summary></entry></feed>
