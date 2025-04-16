@@ -1,4 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-10T19:02:45+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu?</title><link href="https://www.marigold.cz/item/katastroficky-scenar-ai-2027/" rel="alternate" type="text/html" title="Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu?" /><published>2025-04-10T00:00:00+00:00</published><updated>2025-04-10T00:00:00+00:00</updated><id>https://www.marigold.cz/item/katastroficky-scenar-ai-2027</id><content type="html" xml:base="https://www.marigold.cz/item/katastroficky-scenar-ai-2027/"><![CDATA[<p>Deník N vydal katastrofický článek s nadpisem <a href="https://denikn.cz/1700968/do-deseti-let-bude-po-vsem-petice-expertu-nabizi-presvedcivy-scenar-o-tom-jak-ai-ovladne-svet-a-vyhubi-lidstvo/">“Do deseti let bude po všem”</a>, v němž nám převyprávěl scénář <a href="https://ai-2027.com/">AI 2027</a> vypracovaný pěticí lidí o potenciálním nebezpečí umělé inteligence. A tím se o tématu začalu v Česku opět diskutovat. Dokument vypadá na první pohled propracovaně, ona pětice má určité renomé. Jenže obsahuje řadu problematických předpokladů a logických skoků, které je třeba kriticky posoudit. Začnu tím, že vynechám onu pětici lidí, ani je zatím nebudu jmenovat, abychom se mohli nerušeně soustředit na tvrzení a fakta.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-16T08:44:19+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Claude umí prohrabat váš Google kalendář i poštu, ChatGPT má nový model 4.1 a další novinky z AI</title><link href="https://www.marigold.cz/item/chatgpt-4-1/" rel="alternate" type="text/html" title="Claude umí prohrabat váš Google kalendář i poštu, ChatGPT má nový model 4.1 a další novinky z AI" /><published>2025-04-16T00:00:00+00:00</published><updated>2025-04-16T00:00:00+00:00</updated><id>https://www.marigold.cz/item/chatgpt-4-1</id><content type="html" xml:base="https://www.marigold.cz/item/chatgpt-4-1/"><![CDATA[<p>OpenAI vydalo nový model GPT-4.1, čímž zvyšuje zmatek, hlavně proto, že model byl ohlášen, ale dostupný je jen přes API, ne přes webové rozhraní nebo aplikaci. Má být náhradou modelu 4o, je levnější, rychlejší, přesnější, lepší. A má tři velikosti, které se liší cenou a samozřejmě velikostí natrénovaných dat. Krom standardního modelu také mini a nano. Kromě toho vydali novou prompting guide, návod na to, jak správně promptovat model 4.1 - vyplatí se to přečíst, než se pustíte do vážného ladění modelu 4.1 přes API. A tady je rychlé porování modelů. Do webového rozhraní se mají dostat brzy.</p>
+
+<p><img src="/assets/gpt-41-vysledky.jpeg" alt="Výsledky GPT-4.1 v testech, znamená to, že jako dobrý" /></p>
+
+<p>Tady je překlad obrázku do češtiny ve formě tabulky:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>GPT-4.1</strong></th>
+      <th><strong>4.1 mini</strong></th>
+      <th><strong>4.1 nano</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Vlajkový model GPT pro komplexní úlohy</td>
+      <td>Vyvážený pro inteligenci, rychlost a cenu</td>
+      <td>Nejrychlejší, nejefektivnější GPT 4.1 model z hlediska nákladů</td>
+    </tr>
+    <tr>
+      <td>Dozvědět se více / Hřiště</td>
+      <td>Dozvědět se více / Hřiště</td>
+      <td>Dozvědět se více / Hřiště</td>
+    </tr>
+    <tr>
+      <td><strong>Inteligence</strong>: ●●●●</td>
+      <td><strong>Inteligence</strong>: ●●●</td>
+      <td><strong>Inteligence</strong>: ●●</td>
+    </tr>
+    <tr>
+      <td><strong>Rychlost</strong>: ⚡⚡⚡</td>
+      <td><strong>Rychlost</strong>: ⚡⚡⚡⚡</td>
+      <td><strong>Rychlost</strong>: ⚡⚡⚡⚡⚡</td>
+    </tr>
+    <tr>
+      <td><strong>Vstup</strong>: text - obraz</td>
+      <td><strong>Vstup</strong>: text - obraz</td>
+      <td><strong>Vstup</strong>: text - obraz</td>
+    </tr>
+    <tr>
+      <td><strong>Výstup</strong>: text</td>
+      <td><strong>Výstup</strong>: text</td>
+      <td><strong>Výstup</strong>: text</td>
+    </tr>
+    <tr>
+      <td><strong>Tokeny uvažování</strong>: ne</td>
+      <td><strong>Tokeny uvažování</strong>: ne</td>
+      <td><strong>Tokeny uvažování</strong>: ne</td>
+    </tr>
+    <tr>
+      <td><strong>CENY</strong></td>
+      <td><strong>CENY</strong></td>
+      <td><strong>CENY</strong></td>
+    </tr>
+    <tr>
+      <td><strong>NA 1M TOKENŮ</strong></td>
+      <td><strong>NA 1M TOKENŮ</strong></td>
+      <td><strong>NA 1M TOKENŮ</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Vstup</strong>: $2.00</td>
+      <td><strong>Vstup</strong>: $0.40</td>
+      <td><strong>Vstup</strong>: $0.10</td>
+    </tr>
+    <tr>
+      <td><strong>Cachovaný vstup</strong>: $0.50</td>
+      <td><strong>Cachovaný vstup</strong>: $0.10</td>
+      <td><strong>Cachovaný vstup</strong>: $0.03</td>
+    </tr>
+    <tr>
+      <td><strong>Výstup</strong>: $8.00</td>
+      <td><strong>Výstup</strong>: $1.60</td>
+      <td><strong>Výstup</strong>: $0.40</td>
+    </tr>
+    <tr>
+      <td><strong>KONTEXT</strong></td>
+      <td><strong>KONTEXT</strong></td>
+      <td><strong>KONTEXT</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Okno</strong>: 1,047,576</td>
+      <td><strong>Okno</strong>: 1,047,576</td>
+      <td><strong>Okno</strong>: 1,047,576</td>
+    </tr>
+    <tr>
+      <td><strong>Max výstupních tokenů</strong>: 32,768</td>
+      <td><strong>Max výstupních tokenů</strong>: 32,768</td>
+      <td><strong>Max výstupních tokenů</strong>: 32,768</td>
+    </tr>
+    <tr>
+      <td><strong>Znalostní limit</strong>: 31. května 2024</td>
+      <td><strong>Znalostní limit</strong>: 31. května 2024</td>
+      <td><strong>Znalostní limit</strong>: 31. května 2024</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>ChatGPT přidalo <strong>novou záložku Library</strong>, v níž se soustředí vaše obrázky, které jsi nechali od ChatGPT udělat. Hezké, praktická drobnost.</p>
+
+<p><img src="/assets/chatgpt-library.png" alt="Chatgpt Library" /></p>
+
+<p><strong>Claude přidal propojení s Google službami Kalendář a Gmail</strong> k již existujícímu napojení na Google Drive, takže lze hezky propojovat data v tom všem. Já jsem si například nechal udělat statistiku, co mi chodí nejčastěji za spamy, ale můžete si nechat prohledat kalendář ve Workspace (tj. firemní) a naplánovat teambuilding nebo si nechat posílat avíza, když v pátek šéf brzy vypadne atd. Vypadá to na hezkou a silnou funkci.</p>
+
+<p><img src="/assets/claude-emaily.png" alt="Claude analýza spamů v mém emailu" /></p>
+
+<p>Cvičně jsem si nechal analyzovat nejčastější spamy a také svůj komunikační styl na Gmailu, tady připomínám, že Gmail už deset let nepoužívám, takže mi to analyzovalo jen starou poštu - a napojení na Proton Mail Claude nemá.</p>
+
+<p><img src="/assets/claude-gmail-styl.png" alt="Claude analýza mého stylu v emailu" /></p>
+
+<p>Druhou fajnovou novinkou je <strong>Claude Research</strong>.  Anthropic se tím přidává mezi ostatní Deep Research platformy, podobnou funkcionalitu již nabízí Perplexity, OpenAI a Google Geminy, nyní tedy i Claude. Já ji zatím v rozhraní nemám, zatím byla spuštěna jen pro dražší tarify v USA, Brazílii a Japonsku.</p>
+
+<p>Novinkou u <strong>Claude je také nový tarif Max</strong>, kde za 100 resp 200 dolarů měsíčně dostáváte vyšší limit zpráv - za 100 dolarů dostáváte pětinásobek plánu Pro (stojí 20 USD) a za 200 dolarů dvacetinásobek.</p>
+
+<p>Navíc Anthropic plánuje odhalit novou verzi modelu Claude 3.7 Sonnet s kontextovým oknem o velikosti 500 tisíc tokenů, což je významné zvýšení oproti současné kapacitě 200 tisíc.</p>
+
+<p>Canva má taky AI - zadáte prompt a kreslí, co jiného.</p>
+
+<p>EU projednává změny v Zákoně o AI (AI Act) - k redukci by mohlo dojít u GDPR, ale ještě uvidíme. Za mě dobrý, ale ještě bych revidoval tu debilitu s cookies, bohužel by na revizi musely přistoupit i USA.</p>
+
+<p>Podle nové zprávy <a href="https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works">Mezinárodní energetické agentury (IEA)</a> se celosvětová spotřeba elektřiny v datových centrech do roku 2030 více než zdvojnásobí na přibližně 945 terawatthodin (TWh), což je více než současná celková spotřeba elektřiny v Japonsku, přičemž umělá inteligence bude hlavním faktorem tohoto nárůstu. Pořád platí rovnice, že AI = elektřina + křemík.  Spotřeba elektřiny v datových centrech optimalizovaných pro AI se má do roku 2030 více než zčtyřnásobit. Ve Spojených státech budou datová centra tvořit téměř polovinu nárůstu poptávky po elektřině do roku 2030, přičemž americká ekonomika bude v roce 2030 spotřebovávat více elektřiny na zpracování dat než na výrobu všech energeticky náročných produktů dohromady; podobný trend je patrný i v dalších vyspělých ekonomikách, kde datová centra budou představovat více než 20 % růstu poptávky po elektřině, s obzvláště silnými dopady v Japonsku (více než polovina nárůstu) a Malajsii (až pětina nárůstu).</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Claude" /><category term="Chatgpt" /><summary type="html"><![CDATA[OpenAI vydalo nový model GPT-4.1, čímž zvyšuje zmatek, hlavně proto, že model byl ohlášen, ale dostupný je jen přes API, ne přes webové rozhraní nebo aplikaci. Má být náhradou modelu 4o, je levnější, rychlejší, přesnější, lepší. A má tři velikosti, které se liší cenou a samozřejmě velikostí natrénovaných dat. Krom standardního modelu také mini a nano. Kromě toho vydali novou prompting guide, návod na to, jak správně promptovat model 4.1 - vyplatí se to přečíst, než se pustíte do vážného ladění modelu 4.1 přes API. A tady je rychlé porování modelů. Do webového rozhraní se mají dostat brzy.]]></summary></entry><entry xml:lang="cs"><title type="html">Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu?</title><link href="https://www.marigold.cz/item/katastroficky-scenar-ai-2027/" rel="alternate" type="text/html" title="Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu?" /><published>2025-04-10T00:00:00+00:00</published><updated>2025-04-10T00:00:00+00:00</updated><id>https://www.marigold.cz/item/katastroficky-scenar-ai-2027</id><content type="html" xml:base="https://www.marigold.cz/item/katastroficky-scenar-ai-2027/"><![CDATA[<p>Deník N vydal katastrofický článek s nadpisem <a href="https://denikn.cz/1700968/do-deseti-let-bude-po-vsem-petice-expertu-nabizi-presvedcivy-scenar-o-tom-jak-ai-ovladne-svet-a-vyhubi-lidstvo/">“Do deseti let bude po všem”</a>, v němž nám převyprávěl scénář <a href="https://ai-2027.com/">AI 2027</a> vypracovaný pěticí lidí o potenciálním nebezpečí umělé inteligence. A tím se o tématu začalu v Česku opět diskutovat. Dokument vypadá na první pohled propracovaně, ona pětice má určité renomé. Jenže obsahuje řadu problematických předpokladů a logických skoků, které je třeba kriticky posoudit. Začnu tím, že vynechám onu pětici lidí, ani je zatím nebudu jmenovat, abychom se mohli nerušeně soustředit na tvrzení a fakta.</p>
 
 <h3 id="nadhodnocená-rychlost-vývoje">Nadhodnocená rychlost vývoje</h3>
 
@@ -2579,13 +2699,4 @@ Zábava se změní. Bude se utvářet podle diváků a okolního světa.</p>
   <li><a href="/assets/ebook/aizprava-2025.epub">formát ePub (elektronická kniha, zobrazení na tabletu nebo mobilu)</a></li>
 </ul>
 
-<p>Případnou odezvu na zprávu můžete poslat emailem na zandl@marigold.cz.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><summary type="html"><![CDATA[Ještě nedávno vypadalo AI jako velmi přehledné závodiště. Se značným náskokem vede OpenAI, snaží se dotahovat prostřednictvím obrovských investic Muskův xAI a Google, který má vlastní AI model Gemini. K tomu je obchodně velmi úspěšný Antrhopic se svým modelem Claude. Pokud nás mohlo něco zarazit, pak snad jen to, že Google přes veškerý náskok v odvětví a obrovské investice do AI není vedoucí hybnou silou.]]></summary></entry><entry xml:lang="cs"><title type="html">Někteří lidé se vás dotknou, i když je potkáte na krátko</title><link href="https://www.marigold.cz/item/nekteri-lide-se-vas-dotknou/" rel="alternate" type="text/html" title="Někteří lidé se vás dotknou, i když je potkáte na krátko" /><published>2025-02-16T00:00:00+00:00</published><updated>2025-02-16T00:00:00+00:00</updated><id>https://www.marigold.cz/item/nekteri-lide-se-vas-dotknou</id><content type="html" xml:base="https://www.marigold.cz/item/nekteri-lide-se-vas-dotknou/"><![CDATA[<p>Někteří lidé se vás dotknou, i když je potkáte na krátko. Josef byl Boříkův strejda, říkal o sobě, že je SAPér, ale s výbušninama neuměl, takže asi kecal. Seznámili jsme se, když jsme se ve firmě rozhodli prodávat software velkým a váženým vydavatelstvím a ukázalo se, že by to chtělo nějakou zkušenou sílu. Bořík pravil, že Pepa rozumí tomu, jak se software prodává velkým firmám.</p>
-
-<p>Byl to velký sympaťák na to, že před těmi dvaceti lety to byl vlastně starej chlap, bylo mu něco mezi čtyřicítkou až padesátkou a divil jsem se, že se pouští do něčeho tak progresivního, jako je software. Ale válel. Od zákazníka si vyžádal requirements, udělal mu draft nabídky, pak závaznou nabídku, návrh smlouvy, NDA, implementační, servisní a pozáruční podmínky, prostě ho držel napnutého a naposílal mu tolik papírů, že došlo k vytoužené schůzce, kde se schylovalo k tomu, že prodáme software za statisíce korun. Inu, přelom tisíciletí. “Prodej drahý věci musí mít štábní kulturu,” zdůrazňoval Josef. “Nemůžeš jim odepsat “Pošlete půl míče, kluci vám to nainstalujou na server, nic nepotřebujeme, stejně ho nemáte zabezpečený,” jako jsi to udělal minule. A já jsem seděl, zíral a učil, protože Josef tu štábní kulturu fakt měl.</p>
-
-<p>Dorazili jsme k zákazníkovi, dělám mu presentaci možností, zákazník je na lopatě, už je náš, jen nepokazit finále. “A jak bude probíhat implementace?” ptá se navnaděný zákazník? “No vyfakturujeme a nainstalujeme,” vyhrknul jsem nedočkavě, však jsem byl teprve elév softwarového obchodu. Zákazník vytřeštil oči a Josef mi položil ruku na ramena, abych věděl, že mám kušnit. “No a mezi tím…” pravil rozvážně, aby zachránil situaci, “si projdeme implementační plán, který jsem vypracoval podle ISO normy, zrevidujeme si akceptační protokoly, projdeme si instrukce pro deployment a zfinalizujeme smlouvy,” navázal plynule na moje slova a vytáhl na stůl mnoho listů papíru s nápisem Implementační plán, na kterém bylo rozepsáno, co kdy, kde a jak…  zákazník se usmál blaženě a kdyby kolem jela tramvaj, všichni by tleskali, protože podpis byl tutovka.</p>
-
-<p>O několik hodin později v kanceláři čučím do těch Josefových papírů a moudrý z toho nejsem. “Josefe, co teda máme dělat, vysvětlíš mi to?”</p>
-
-<p>Josef se blahosklonně usmál: “Přesně, jak jsi říkal - vyfakturujeme, nainstalujeme.” 
-A já zíral a učil se. Ten půlrok, než ho přestala dovolená u nás bavit a než odešel někam dál,  jsme se hodně posunuli. A nakonec jsem i pochopil, co na těch papírech bylo a že to mělo nějaký smysl.</p>]]></content><author><name>Patrick Zandl</name></author><category term="Osobní" /><category term="Historie internetu" /><summary type="html"><![CDATA[Někteří lidé se vás dotknou, i když je potkáte na krátko. Josef byl Boříkův strejda, říkal o sobě, že je SAPér, ale s výbušninama neuměl, takže asi kecal. Seznámili jsme se, když jsme se ve firmě rozhodli prodávat software velkým a váženým vydavatelstvím a ukázalo se, že by to chtělo nějakou zkušenou sílu. Bořík pravil, že Pepa rozumí tomu, jak se software prodává velkým firmám.]]></summary></entry></feed>
+<p>Případnou odezvu na zprávu můžete poslat emailem na zandl@marigold.cz.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><summary type="html"><![CDATA[Ještě nedávno vypadalo AI jako velmi přehledné závodiště. Se značným náskokem vede OpenAI, snaží se dotahovat prostřednictvím obrovských investic Muskův xAI a Google, který má vlastní AI model Gemini. K tomu je obchodně velmi úspěšný Antrhopic se svým modelem Claude. Pokud nás mohlo něco zarazit, pak snad jen to, že Google přes veškerý náskok v odvětví a obrovské investice do AI není vedoucí hybnou silou.]]></summary></entry></feed>

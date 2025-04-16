@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Claude umí prohrabat váš Google kalendář i poštu, ChatGPT má nový model 4.1 a další novinky z AI",
+      "url"      : "//item/chatgpt-4-1/",
+      "category" : "AI, Claude, Chatgpt",
+      "tags"     : "",
+      "date"     : "16.4.2025",
+      "content"  : "OpenAI vydalo nový model GPT-4.1, čímž zvyšuje zmatek, hlavně proto, že model byl ohlášen, ale dostupný je jen přes API, ne přes webové rozhraní nebo aplikaci. Má být náhradou modelu 4o, je levnější, rychlejší, přesnější, lepší. A má tři velikosti, které se liší cenou a samozřejmě velikostí natrénovaných dat. Krom standardního modelu také mini a nano. Kromě toho vydali novou prompting guide, návod na to, jak správně promptovat model 4.1 - vyplatí se to přečíst, než se pustíte do vážného ladění modelu 4.1 přes API. A tady je rychlé porování modelů. Do webového rozhraní se mají dostat brzy.Tady je překlad..."
+    },
+  
+    {
       "title"    : "Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu?",
       "url"      : "//item/katastroficky-scenar-ai-2027/",
       "category" : "AI, katastrofa",
@@ -25926,7 +25935,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu? (10.04.2025) A2A protokol - Nový standard pro interoperabilitu AI agentů ( 9.04.2025) Midjourney V7 - Nová verze modelu pro AI generování obrazů ( 5.04.2025) Meta představuje Llama 4..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Claude umí prohrabat váš Google kalendář i poštu, ChatGPT má nový model 4.1 a další novinky z AI (16.04.2025) Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu? (10.04.2025) A2A protokol - Nový standard pro interoperabilitu AI..."
     }
     
   
@@ -25946,7 +25955,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 190 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 67 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 191 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 67 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
