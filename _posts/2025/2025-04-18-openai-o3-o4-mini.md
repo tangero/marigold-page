@@ -32,7 +32,7 @@ Pozor musíte dávat jen **na délku kontextu**, model GPT-4.1 představený př
 
 Testů se vyrojila celá řada, já vám dám můj oblíbený norský IQ test, ze kterého plyne, že v takovém tom obecném uvažování je o3 fakt špička. Za mě více důležité bude, jak se podaří OpenAI propojovat svůj systém na další systémy, protože kritická začíná být ani ne tak inteligence (IQ 130 nemá jen tak někdo), ale schopnost dostat se snadno k datům, aby je člověk pořád nepřehazoval jako copy-paste, což je při práci s AI to nejvíce frustrující. To si uvědomujete, že vy tam jste za toho podržtašku. 
 
-
+![Výsledky IQ testu pro OpenAI o3](/assets/vysledky-o3.jpg)
 
 
 ### Dostupnost
