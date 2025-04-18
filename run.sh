@@ -89,9 +89,55 @@ if [ ! -f "_data/keywords.yml" ]; then
     echo -e "${GREEN}Soubor _data/keywords.yml byl vytvořen s ukázkovou strukturou${NC}"
 fi
 
-# Spuštění hlavního skriptu
-echo -e "${GREEN}Spouštím hlavní skript...${NC}"
-python3 generate_local_summaries.py
+# Kontrola existence .env souboru
+if [ ! -f ".env" ]; then
+    echo -e "${RED}Soubor .env nebyl nalezen!${NC}"
+    echo -e "${YELLOW}Vytvářím základní .env soubor...${NC}"
+    # Vytvoříme základní .env soubor
+    cat > ".env" << EOF
+# Konfigurační soubor pro API klíče
+
+# API klíč pro OpenRouter
+OPENROUTER_API_KEY=
+
+# API klíč pro DeepSeek
+DEEPSEEK_API_KEY=
+
+# Model LLM
+LLM_MODEL=google/gemini-2.0-flash-001
+EOF
+    echo -e "${YELLOW}Zadejte váš OpenRouter API klíč:${NC}"
+    read OPENROUTER_KEY
+    # Nahradíme prázdný klíč zadaným
+    sed -i '' "s/OPENROUTER_API_KEY=/OPENROUTER_API_KEY=$OPENROUTER_KEY/" .env
+    echo -e "${GREEN}API klíč byl uložen do .env souboru${NC}"
+fi
+
+# Spuštění hlavního skriptu s explicitním načtením .env
+echo -e "${GREEN}Spouštím hlavní skript s explicitním načtením .env...${NC}"
+python3 -c "
+import os
+from dotenv import load_dotenv
+import importlib.util
+
+# Explicitně načteme .env soubor
+env_path = os.path.join(os.getcwd(), '.env')
+print(f'Načítám .env z: {env_path}')
+load_dotenv(env_path)
+
+# Importujeme a spustíme hlavní modul
+try:
+    spec = importlib.util.spec_from_file_location('generator', 'generate_local_summaries.py')
+    generator = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(generator)
+    
+    # Spustíme hlavní funkci
+    generator.main()
+except Exception as e:
+    print(f'Chyba: {e}')
+    import traceback
+    print(traceback.format_exc())
+"
 
 echo -e "${GREEN}=========================================${NC}"
 echo -e "${GREEN}       ZPRACOVÁNÍ DOKONČENO              ${NC}"
