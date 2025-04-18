@@ -1,4 +1,128 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-16T08:58:12+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Claude umí prohrabat váš Google kalendář i poštu, ChatGPT má nový model 4.1 a další novinky z AI</title><link href="https://www.marigold.cz/item/chatgpt-4-1/" rel="alternate" type="text/html" title="Claude umí prohrabat váš Google kalendář i poštu, ChatGPT má nový model 4.1 a další novinky z AI" /><published>2025-04-16T00:00:00+00:00</published><updated>2025-04-16T00:00:00+00:00</updated><id>https://www.marigold.cz/item/chatgpt-4-1</id><content type="html" xml:base="https://www.marigold.cz/item/chatgpt-4-1/"><![CDATA[<p>OpenAI vydalo nový model GPT-4.1, čímž zvyšuje zmatek, hlavně proto, že model byl ohlášen, ale dostupný je jen přes API, ne přes webové rozhraní nebo aplikaci. Má být náhradou modelu 4o, je levnější, rychlejší, přesnější, lepší. A má tři velikosti, které se liší cenou a samozřejmě velikostí natrénovaných dat. Krom standardního modelu také mini a nano. Kromě toho vydali novou prompting guide, návod na to, jak správně promptovat model 4.1 - vyplatí se to přečíst, než se pustíte do vážného ladění modelu 4.1 přes API. A tady je rychlé porování modelů. Do webového rozhraní se mají dostat brzy.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-18T07:20:37+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini</title><link href="https://www.marigold.cz/item/openai-o3-o4-mini/" rel="alternate" type="text/html" title="OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini" /><published>2025-04-18T00:00:00+00:00</published><updated>2025-04-18T00:00:00+00:00</updated><id>https://www.marigold.cz/item/openai-o3-o4-mini</id><content type="html" xml:base="https://www.marigold.cz/item/openai-o3-o4-mini/"><![CDATA[<p>Novým a nejsilnějším modelem LLM společnosti OpenAI se stává o3. Firma jej právě uvolnila a přidala do webového rozhraní i API, tak si k němu řekneme pár věcí.</p>
+
+<p>Tou první věcí je moje dlouhodobé konstatování, že struktura pojmenování v OpenAI je fakt bordel. Sám si musím dělat tabulku, které modely co znamenají a studium ceníků pro použití přes API je opravdu únavné. Potřebovali bychom AI na to, jakou AI použít😞 A teď už k věci.</p>
+
+<p>OpenAI 16. dubna 2025 oznámilo vydání dvou nových modelů - o3 a o4-mini.</p>
+
+<p>Oba modely jsou označovány jako “reasoning models” (modely s rozumovým uvažováním) a podle dostupných informací poprvé nabízejí plnou agentní integraci všech nástrojů v rámci ChatGPT. To znamená schopnost kombinovat a využívat webové vyhledávání, Python, analýzu obrázků, interpretaci souborů a generování obrázků v rámci jednoho pracovního toku. 
+Zjednodušeně řečeno, když zadáte o3 nějaký úkol, ona se nad tím zamyslí, zjistí, že by se hodilo prohledat web a pak si udělat script, kterým se vyhodnotí vyhledaná data, než vám odprezentuje výsledek - a nakonec vám z něj může udělat i požadovanou infografiku. Tohle je fakt silný moment práce s AI. Dlužno říct, že podobně se začíná chovat Claude Sonnet díky napojení na Google Workspace, kdy se může velmi autonomně prohrabovat ve vašich datech, k tomu používat vyhledávání a tvořit scripty, které si sám spustí a výstupy z nich použije. 
+Model o3 je prezentován jako výkonnější varianta zaměřená na kódování, matematiku, vědu a vizuální uvažování. Model o4-mini je optimalizován pro efektivitu z pohledu rychlosti a nákladů, což umožňuje vyšší limity využití než u modelu o3.</p>
+
+<h3 id="technologické-inovace">Technologické inovace</h3>
+
+<p>Zajímavou funkcí obou modelů je integrace nahraných obrázků přímo do procesu uvažování. To představuje posun od pouhého “vidění” obrázku k jeho zakomponování do myšlenkového procesu modelu, což potenciálně zlepšuje schopnost modelů pracovat s vizuálními informacemi.</p>
+
+<h3 id="jaké-mají-modely-výsledky">Jaké mají modely výsledky</h3>
+
+<p>S AI to začíná být jako s lidmi. Na internetu pořád kolují vtípky, jak se modely vypořádávají se spočítáním počtu r ve slově strawberries - s tím se modely vypořádávají různě. Jenže to není pointa. Pointa začíná být v tom, jaké výsledky dávají se složitějšími problémy a jak autonomně se k těm výsledků zvládají dostat, tedy zda zvládají nějaký režim uvažování, v němž si úlohu rozloží na menší, snáze realizovatelné úkoly, místo toho, aby halucinovaly se statistikou. 
+o3 má být state of art model, to nejlepší z nejlepšího, nejrůznější výsledky to naznačují, já jsem si s ním proběhl svoji standardní sadu testů na českojazyčné úkoly, které používám já, většinou manipulace s rozsáhlými korpusy textů (náročné na kontext) či na uvažování, ale také jednoduché třídění a vyhledávání typu “vypiš z dokumentu všechna jména lidí a produktů”. o3 vychází suverénně jako nejlepší ze všech modelů, na druhou stranu ne vždy je cenově nejvýhodnější, na některé typy úloh (právě třeba vyhledání jmen osob) je to kanón na vrabce a za to si připlatíte. Pokud tedy používáte modely přes API, trochu uvažujte nad cenou, pokud používáte modely přes webové rozhraní (kde neplatíte za dotaz), tak není o čem přemýšlet, prostě to sázejte do o3, leda by vás limitovala rychlost.</p>
+
+<p>Pozor musíte dávat jen <strong>na délku kontextu</strong>, model GPT-4.1 představený před pár dny má kontext 1 milion tokenů, o3 je na 200 tisících tokenech. Je však třeba připustit, že jakmile se nástroje dostávají přes hranici 200 000 tokenů, začíná jít jejich kvalita výrazně dolů, takže užití většího kontextu je spíše hraniční případ, kterému navrhuji se zatím zkoušet vyhýbat. Příklad LLAMA 4 s desetimilionovým kontextem to ukazuje jasně.</p>
+
+<p>Testů se vyrojila celá řada, já vám dám můj oblíbený norský IQ test, ze kterého plyne, že v takovém tom obecném uvažování je o3 fakt špička. Za mě více důležité bude, jak se podaří OpenAI propojovat svůj systém na další systémy, protože kritická začíná být ani ne tak inteligence (IQ 130 nemá jen tak někdo), ale schopnost dostat se snadno k datům, aby je člověk pořád nepřehazoval jako copy-paste, což je při práci s AI to nejvíce frustrující. To si uvědomujete, že vy tam jste za toho podržtašku.</p>
+
+<h3 id="dostupnost">Dostupnost</h3>
+
+<p>Modely jsou od 16. dubna 2025 dostupné pro uživatele ChatGPT Plus, Pro a Team, přičemž nahrazují předchozí modely o1, o3-mini a o3-mini-high. Uživatelé ChatGPT Enterprise a Edu získají přístup s týdenním zpožděním. OpenAI uvádí, že rychlostní limity zůstávají stejné jako u předchozích modelů.
+Pro vývojáře jsou modely k dispozici prostřednictvím Chat Completions API a Responses API. OpenAI také oznámilo, že model o3-pro s plnou podporou nástrojů bude vydán v následujících týdnech.</p>
+
+<h3 id="api-funkce">API funkce</h3>
+
+<p>Responses API přináší několik technických vylepšení včetně “reasoning summaries” (shrnutí procesu uvažování), zachování tokenů uvažování kolem volání funkcí pro lepší výkon a v blízké budoucnosti přibude podpora vestavěných nástrojů jako webové vyhledávání, vyhledávání v souborech a interpretace kódu přímo v rámci uvažování modelu.</p>
+
+<h3 id="porovnání-cen-a-výkonu-llm-modelů-duben-2025-podle-openrouter">Porovnání cen a výkonu LLM modelů (duben 2025) podle OpenRouter</h3>
+
+<p>Z ceníku je lépe patrné, proč říkám, že o3 může být kanón na vrabce. Prostě si nějaký ten dolar zaúčtuje, u většiny věcí je lepší zůstat u o3-mini nebo GPT-4.1 a proto také rád používám OpenRouter, který mi umožní přehodit provoz na modely podle aktuální ceny. Mám na to speciální patentní script, který mi umožňuje průběžně měnit LLM podle aktuálních parametrů potřebných pro daný úkol.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>Kontext</th>
+      <th>Max. výstup</th>
+      <th>Cena vstupu ($/1M tokenů)</th>
+      <th>Cena výstupu ($/1M tokenů)</th>
+      <th>Latence (s)</th>
+      <th>Throughput (t/s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>o3</td>
+      <td>200K</td>
+      <td>100K</td>
+      <td>$10.00</td>
+      <td>$40.00</td>
+      <td>9.52</td>
+      <td>68.78</td>
+    </tr>
+    <tr>
+      <td>o4-Mini</td>
+      <td>200K</td>
+      <td>100K</td>
+      <td>$1.10</td>
+      <td>$4.40</td>
+      <td>4.55</td>
+      <td>81.79</td>
+    </tr>
+    <tr>
+      <td>o4-Mini High</td>
+      <td>200K</td>
+      <td>100K</td>
+      <td>$1.10</td>
+      <td>$4.40</td>
+      <td>8.59</td>
+      <td>90.62</td>
+    </tr>
+    <tr>
+      <td>GPT-4.1</td>
+      <td>1,05M</td>
+      <td>33K</td>
+      <td>$2.00</td>
+      <td>$8.00</td>
+      <td>0.55</td>
+      <td>58.07</td>
+    </tr>
+    <tr>
+      <td>Claude 3.7 Sonnet</td>
+      <td>200K</td>
+      <td>64K</td>
+      <td>$3.00</td>
+      <td>$15.00</td>
+      <td>1.69</td>
+      <td>56.27</td>
+    </tr>
+    <tr>
+      <td>Claude 3.7 Sonnet Thinking</td>
+      <td>200K</td>
+      <td>64K</td>
+      <td>$3.00</td>
+      <td>$15.00</td>
+      <td>1.69</td>
+      <td>56.28</td>
+    </tr>
+    <tr>
+      <td>Gemini 2.5 Pro</td>
+      <td>1,05M</td>
+      <td>66K</td>
+      <td>$1.25-$2.50</td>
+      <td>$10.00-$15.00</td>
+      <td>8.59</td>
+      <td>414.80</td>
+    </tr>
+    <tr>
+      <td>Grok 3 beta</td>
+      <td>131K</td>
+      <td>131K</td>
+      <td>$3.00</td>
+      <td>$15.00</td>
+      <td>0.74</td>
+      <td>34.21</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Tady je ceník, přiznám se, že jsem ho nebral z oficiálních API, ale z OpenRouteru, který má výborné API a je to výborné místo pro testování a srovnání, včetně toho, že udává rychlost výstupu a latenci.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="OpenAI" /><summary type="html"><![CDATA[Novým a nejsilnějším modelem LLM společnosti OpenAI se stává o3. Firma jej právě uvolnila a přidala do webového rozhraní i API, tak si k němu řekneme pár věcí.]]></summary></entry><entry xml:lang="cs"><title type="html">Claude umí prohrabat váš Google kalendář i poštu, ChatGPT má nový model 4.1 a další novinky z AI</title><link href="https://www.marigold.cz/item/chatgpt-4-1/" rel="alternate" type="text/html" title="Claude umí prohrabat váš Google kalendář i poštu, ChatGPT má nový model 4.1 a další novinky z AI" /><published>2025-04-16T00:00:00+00:00</published><updated>2025-04-16T00:00:00+00:00</updated><id>https://www.marigold.cz/item/chatgpt-4-1</id><content type="html" xml:base="https://www.marigold.cz/item/chatgpt-4-1/"><![CDATA[<p>OpenAI vydalo nový model GPT-4.1, čímž zvyšuje zmatek, hlavně proto, že model byl ohlášen, ale dostupný je jen přes API, ne přes webové rozhraní nebo aplikaci. Má být náhradou modelu 4o, je levnější, rychlejší, přesnější, lepší. A má tři velikosti, které se liší cenou a samozřejmě velikostí natrénovaných dat. Krom standardního modelu také mini a nano. Kromě toho vydali novou prompting guide, návod na to, jak správně promptovat model 4.1 - vyplatí se to přečíst, než se pustíte do vážného ladění modelu 4.1 přes API. A tady je rychlé porování modelů. Do webového rozhraní se mají dostat brzy.</p>
 
 <p><img src="/assets/gpt-41-vysledky.jpeg" alt="Výsledky GPT-4.1 v testech, znamená to, že jako dobrý" /></p>
 
@@ -2671,27 +2795,4 @@ Zábava se změní. Bude se utvářet podle diváků a okolního světa.</p>
 
 <h2 id="závěr"><strong>Závěr</strong></h2>
 
-<p><strong>A myslím, že existuje vážná hrozba, že umělá inteligence tento stav znemožnění ještě zhorší tím, že vytvoří odlidštěný svět, v němž bude uplatňování našich osobitých lidských schopností odsunuto na okraj.</strong>  <strong>A to vše se bude dít pod šťastným heslem, že jde o uspokojení našich spotřebitelských preferencí.</strong>  A za tím vším budou stát mocné ekonomické zájmy. Nebude snadné se tomu bránit, ale boj proti tomu musí začít přemýšlením o tom, jaké naše nejhlubší hodnoty jsou zde v sázce. Boj musí začít návratem k Sokratově otázce. Děkuji.</p>]]></content><author><name>Patrick Zandl</name></author><category term="kapitalismus" /><category term="politika" /><category term="projev" /><summary type="html"><![CDATA[Přepis přednášky Johna Tasioulase s názvem „Why AI Is A Threat - And How To Use It For Good“ na konferenci TEDxAthens 2025, která se konala 16. února 2025.]]></summary></entry><entry xml:lang="cs"><title type="html">Zpráva o stavu AI pro jaro 2025</title><link href="https://www.marigold.cz/item/jarni-zprava-o-stavu-ai-2025/" rel="alternate" type="text/html" title="Zpráva o stavu AI pro jaro 2025" /><published>2025-02-17T00:00:00+00:00</published><updated>2025-02-17T00:00:00+00:00</updated><id>https://www.marigold.cz/item/jarni-zprava-o-stavu-ai-2025</id><content type="html" xml:base="https://www.marigold.cz/item/jarni-zprava-o-stavu-ai-2025/"><![CDATA[<p>Ještě nedávno vypadalo AI jako velmi přehledné závodiště. Se značným náskokem vede OpenAI, snaží se dotahovat prostřednictvím obrovských investic Muskův xAI a Google, který má vlastní AI model Gemini. K tomu je obchodně velmi úspěšný Antrhopic se svým modelem Claude. Pokud nás mohlo něco zarazit, pak snad jen to, že Google přes veškerý náskok v odvětví a obrovské investice do AI není vedoucí hybnou silou.</p>
-
-<p>My ale vynecháme akademické debaty o tom, co a jak s Google Gemini, proč se závodů nezúčastní Microsoft, Meta nebo Amazon. My se podíváme na výsledky pařížského summitu, pozici Francie a Německa, nové eurounijní AI strategie a také na to, jak situaci mění snažení v Číně.</p>
-
-<p>Materiál je rozsáhlejší, 15 stran v PDF, cca 30 000 znaků. Proto je ke stažení v PDF a ePub.</p>
-
-<h3 id="platba-za-zprávu">Platba za zprávu</h3>
-
-<p>Cena zprávy je 100 Kč. Zaplatit můžete buďto přes QR platbu nebo <a href="https://buymeacoffee.com/vybaveni">službou Buy me a Coffee</a> nebo elektronicky přes <a href="https://payhip.com/b/pOzsy">Payhip</a>  Přednastavenou částku 100 Kč můžete libovolně změnit nahoru (i dolů, pokud vám zpráva nebyla užitečná).</p>
-
-<p><img src="/assets/ebook/qr-fio.jpeg" alt="QR platba" /></p>
-
-<p>Proč placení za zprávu? Sepsání takové zprávy je náročné nejenom časově, ale také finančně jak na předplatné služeb, tak na provoz a testování LLM modelů.</p>
-
-<h3 id="stažení-zprávy">Stažení zprávy</h3>
-
-<p>Pokud jste již zaplatili (nebo se rozhodli zaplatit později), tak si můžete zprávu stáhnout na svůj počítač ve formátu PDF nebo ePub zde:</p>
-
-<ul>
-  <li><a href="/assets/ebook/aizprava-2025.pdf">formát PDF (zobrazení spíše na počítači)</a></li>
-  <li><a href="/assets/ebook/aizprava-2025.epub">formát ePub (elektronická kniha, zobrazení na tabletu nebo mobilu)</a></li>
-</ul>
-
-<p>Případnou odezvu na zprávu můžete poslat emailem na zandl@marigold.cz.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><summary type="html"><![CDATA[Ještě nedávno vypadalo AI jako velmi přehledné závodiště. Se značným náskokem vede OpenAI, snaží se dotahovat prostřednictvím obrovských investic Muskův xAI a Google, který má vlastní AI model Gemini. K tomu je obchodně velmi úspěšný Antrhopic se svým modelem Claude. Pokud nás mohlo něco zarazit, pak snad jen to, že Google přes veškerý náskok v odvětví a obrovské investice do AI není vedoucí hybnou silou.]]></summary></entry></feed>
+<p><strong>A myslím, že existuje vážná hrozba, že umělá inteligence tento stav znemožnění ještě zhorší tím, že vytvoří odlidštěný svět, v němž bude uplatňování našich osobitých lidských schopností odsunuto na okraj.</strong>  <strong>A to vše se bude dít pod šťastným heslem, že jde o uspokojení našich spotřebitelských preferencí.</strong>  A za tím vším budou stát mocné ekonomické zájmy. Nebude snadné se tomu bránit, ale boj proti tomu musí začít přemýšlením o tom, jaké naše nejhlubší hodnoty jsou zde v sázce. Boj musí začít návratem k Sokratově otázce. Děkuji.</p>]]></content><author><name>Patrick Zandl</name></author><category term="kapitalismus" /><category term="politika" /><category term="projev" /><summary type="html"><![CDATA[Přepis přednášky Johna Tasioulase s názvem „Why AI Is A Threat - And How To Use It For Good“ na konferenci TEDxAthens 2025, která se konala 16. února 2025.]]></summary></entry></feed>
