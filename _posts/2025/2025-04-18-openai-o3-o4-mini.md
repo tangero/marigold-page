@@ -61,3 +61,7 @@ Z ceníku je lépe patrné, proč říkám, že o3 může být kanón na vrabce.
 | Grok 3 beta | 131K | 131K | $3.00 | $15.00 | 0.74 | 34.21 |
 
 Tady je ceník, přiznám se, že jsem ho nebral z oficiálních API, ale z OpenRouteru, který má výborné API a je to výborné místo pro testování a srovnání, včetně toho, že udává rychlost výstupu a latenci. 
+
+Na závěr vám dám ještě [Aider Leaderboard](https://aider.chat/docs/leaderboards/), což je statistika, jakou vede kódovací nástroj Aider pro výkonnost a cenu jednotlivých LLM. Z toho je vidět, že o3 je suverénně nejlepší, ale taky velmi drahý. Lepší by bylo používat Gemini Pro 2.5 - ten má ale nyní podle mne výrazně dotovanou cenu (sám ho používám zdarma v promo balíku) a je otázka, kdy půjde nahoru. Nutno říct, že jak jsem Gemini modelům dlouho nepřišel na chuť, tak Pro 2.5 je velmi dobrý, i když na kódování mi zatím nesedl. 
+
+![Aider Leaderboard](/assets/aider-leaderboard.png)
