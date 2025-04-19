@@ -124,7 +124,7 @@ Společnost Meta vyhrožuje Williamsové pokutou 50 000 dolarů za každé "urá
 
 Williamsová také odhalila, že Meta zahájila rozhodčí řízení bez jejího vědomí: "Poslali to na e-mailovou adresu z roku 2007" a získali příkaz k mlčení, aniž by to její právní tým věděl nebo měl příležitost vznést námitky.
 
-## Závěr a výzva k odpovědnosti
+## Bude Meta někdy pohnána k zodpovědnosti?
 
 V závěru svého svědectví Williamsová prohlásila: "Jsem zde s významným osobním rizikem, protože vy máte moc a autoritu je volat k odpovědnosti. Americký lid si zaslouží znát pravdu, Meta byla ochotna kompromitovat své hodnoty, obětovat bezpečnost svých uživatelů a podkopat americké zájmy, aby vybudovala svůj byznys v Číně. Děje se to již roky, zakryté lžemi, a pokračuje to dodnes."
 
