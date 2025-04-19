@@ -1,4 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-18T07:26:20+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini</title><link href="https://www.marigold.cz/item/openai-o3-o4-mini/" rel="alternate" type="text/html" title="OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini" /><published>2025-04-18T00:00:00+00:00</published><updated>2025-04-18T00:00:00+00:00</updated><id>https://www.marigold.cz/item/openai-o3-o4-mini</id><content type="html" xml:base="https://www.marigold.cz/item/openai-o3-o4-mini/"><![CDATA[<p>Novým a nejsilnějším modelem LLM společnosti OpenAI se stává o3. Firma jej právě uvolnila a přidala do webového rozhraní i API, tak si k němu řekneme pár věcí.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-19T07:36:41+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou</title><link href="https://www.marigold.cz/item/meta-facebook-v-maleru/" rel="alternate" type="text/html" title="Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou" /><published>2025-04-19T00:00:00+00:00</published><updated>2025-04-19T00:00:00+00:00</updated><id>https://www.marigold.cz/item/meta-facebook-v-maleru</id><content type="html" xml:base="https://www.marigold.cz/item/meta-facebook-v-maleru/"><![CDATA[<p>Meta (Facebook) lítá ve slušném maléru. Sarah Wynn Williamsová, bývalá ředitelka globální veřejné politiky Facebooku (nyní Meta), vystoupila před Soudním výborem Senátu USA s odhaleními o tom, jak společnost Meta tajně obchodovala s Čínou, lhala Kongresu a porušovala zákony i etické standardy ve snaze o zisk a moc. Meta se snaží Williamsovou umlčet soudy a pokutami a tvrdí, že jde o zhrzenou mstící se manažerku. Jenže náznaků o tom, že v Číně se Meta chová “čínsky”, už je celá řada. Slyšení vedl senátor Josh Hawley, který zdůraznil, že “toto je slyšení, kterému se Facebook zoufale snažil zabránit.”</p>
+
+<p>Williamsová během slyšení explicitně zmínila, že Meta získala právní příkaz k mlčení, který je “tak rozsáhlý, že jí zakazuje mluvit s členy Kongresu”. Také uvedla, že společnost Meta vyhrožuje pokutou 50 000 dolarů za každé “urážlivé” vyjádření o společnosti, i když by toto vyjádření bylo pravdivé. Meta by skutečně mohla usilovat o finanční sankce vůči Williamsové za její vystoupení před Kongresem, i když je takové jednání ze strany Mety v přímém rozporu s právem občanů svědčit před zákonodárnými orgány.</p>
+
+<p>Slyšení bylo dlouhé, <a href="https://www.youtube.com/watch?v=f3DAnORfgB8">existuje z něj několik videí</a>, na které se můžete podívat na Youtube, já jsem vám vypsal snad ty nejdůležitější informace. Připomínám, že u kongresového slyšení málokdy dojde na přesné technické detaily, věci tu bývají někdy zjednodušené, ale vypovídat nepravdivě před Kongresem bývá tvrdě sankcionováno, což bývá slušnou zárukou toho, že se tu lidé snaží mluvit pravdu či alespoň to, co se nedá později za nepravdu označit. Také je dobré vědět, že Williamsová nedávno vydala knihu  <a href="https://en.wikipedia.org/wiki/Careless_People">Bezohlední lidé</a>  o svých zkušenostech s prací v Metě, přičemž společnost všechny její vystoupení označuje za propagaci prodeje knihy, kterou označuje za lživou. Zatím jsem četl kousek a nezdá se mi, že si to vymyslela 😎</p>
+
+<p>Tam, kde je to možné, dávám citace prohlášení Williamsové.</p>
+
+<h2 id="tajné-obchody-s-čínou-pod-krycím-názvem-projekt-aldrin">Tajné obchody s Čínou pod krycím názvem “Projekt Aldrin”</h2>
+
+<p>Williamsová, která pracovala pro Facebook v letech 2011 až 2017, poskytla detailní svědectví o tajných operacích společnosti v Číně:</p>
+
+<p>“Během mých sedmi let jsem viděla, jak vedoucí představitelé Mety opakovaně podkopávali národní bezpečnost USA a zrazovali americké hodnoty. Dělali tyto věci tajně, aby získali přízeň Pekingu a vybudovali v Číně byznys za 18 miliard dolarů,” uvedla Williamsová ve své úvodní výpovědi.</p>
+
+<p>Navzdory opakovaným veřejným prohlášením Mety, že v Číně nepodniká, Williamsová doložila, že tato tvrzení jsou lživá. “Facebook má v Číně byznys za 18,3 miliardy dolarů a abych uvedla jen jeden příklad, v roce 2014 spustil Oculus v Číně se strategií ‘hrát hloupého’,” vysvětlila.</p>
+
+<p>Williamsová také odhalila, že Facebook měl tajnou misi pro vstup na čínský trh nazvanou “Projekt Aldrin”, která byla omezena pouze na zaměstnance s  <em>potřebou znát informace</em>: “Facebookova tajná mise pro vstup do Číny se nazývala Projekt Aldrin a byla omezena na zaměstnance s potřebou znát. Neexistoval žádný limit, který by se nedal překročit.”</p>
+
+<h2 id="cenzura-a-spolupráce-s-člr">Cenzura a spolupráce s ČLR</h2>
+
+<p>Jedna z nejzávažnějších obvinění se týkala cenzury a spolupráce s čínským režimem:</p>
+
+<p>“Mark Zuckerberg se prohlašoval za šampiona svobody projevu. Přesto jsem byla svědkem toho, jak Meta pracovala ruku v ruce s Čínskou komunistickou stranou na vytváření a testování na zakázku vyrobených cenzurních nástrojů, které umlčovaly a cenzurovaly jejich kritiky,” uvedla Williamsová.</p>
+
+<p>Konkrétně popsala případ čínského disidenta žijícího na americké půdě:</p>
+
+<p>“V roce 2017 byl profil na Facebooku čínského disidenta Guo Wengui náhle zablokován. Facebook nejprve tvrdil, že šlo o dočasnou chybu.” Nicméně Williamsová odhalila, že “Facebook vypnul stránku tohoto disidenta na základě nátlaku Čínské komunistické strany.”</p>
+
+<p>Senátor Hawley během slyšení prezentoval dokumenty dokazující tyto praktiky - záznamy ze schůzek s čínským vládním úředníkem příjmením Čao, který požadoval, aby Facebook odstranil Guovu stránku. V dokumentech se uvádí: “Čao chce Facebook v Číně, ale jsou i jiní, kteří ho nechtějí. Takže my (Facebook) musíme přijmout opatření a udělat více v takových situacích, abychom prokázali, že můžeme řešit vzájemné zájmy.”</p>
+
+<p>Williamsová také popsala, jak Facebook vyvinul speciální cenzurní nástroje s tzv. “počítadly virality”: “Součástí cenzurního nástroje, který byl vyvinut, byly počítadla virality. Takže kdykoli nějaký obsah získal více než 10 000 zhlédnutí, to by automaticky spustilo jeho přezkoumání tím, koho nazývali ‘hlavním editorem’. A co bylo obzvláště překvapivé je, že počítadla virality nebyla jen nainstalována, ale aktivována v Hongkongu a také na Tchaj-wanu.”</p>
+
+<p>Na dotaz senátora Blumenthala, zda byly pravomoci “hlavního editora” omezeny pouze na kontrolu virálních příspěvků, Williamsová odpověděla: “Ne, má rozsáhlou moc. Hlavní editor by byl schopen vypnout celou službu v konkrétních regionech, například v Sin-ťiangu, nebo by také mohl vypnout nebo spravovat službu v době významných výročí, jako je výročí náměstí Tchien-an-men.”</p>
+
+<h2 id="poskytování-dat-uživatelů-číně-a-budování-fyzické-infrastruktury">Poskytování dat uživatelů Číně a budování fyzické infrastruktury</h2>
+
+<p>Williamsová odhalila, že Meta byla ochotna poskytnout data uživatelů čínské vládě a dokonce vybudovala fyzickou infrastrukturu, která by to umožnila:</p>
+
+<p>“Byla jsem svědkem toho, jak se vedoucí pracovníci rozhodli poskytnout Čínské komunistické straně přístup k datům uživatelů Mety, včetně dat Američanů,” svědčila Williamsová. “Meta vybudovala fyzické propojení spojující Spojené státy a Čínu. Vedoucí představitelé Mety ignorovali varování, že to poskytne zadní vrátka Čínské komunistické straně, což by jim umožnilo zachytit osobní údaje a soukromé zprávy amerických občanů.”</p>
+
+<p>Senátor Hawley představil interní dokument Facebooku, který obsahoval následující vyjádření: “Výměnou za možnost provozovat činnost v Číně, Facebook souhlasí s tím, že poskytne čínské vládě přístup k datům čínských uživatelů, včetně dat uživatelů z Hongkongu.”</p>
+
+<p>Williamsová dodala, že Facebook zvažoval použití POP serverů v Číně, což by představovalo významné riziko i pro americké uživatele: “Výzvou s POP servery je, že nemůžete segregovat data. Byly by tam americká data, data čínských uživatelů, a bylo by to na čínské půdě.”</p>
+
+<p>POP servery (Points of Presence) jsou součástí síťové infrastruktury, kterou společnosti jako Meta používají k efektivnějšímu doručování svých služeb uživatelům po celém světě.</p>
+
+<p>Na otázku, zda bezpečnostní tým nebo inženýři Facebooku vyjádřili obavy vedení ohledně vystavení soukromých informací Američanů čínskému špionáži, Williamsová odpověděla: “Ano, vyjádřili.” Dále vysvětlila, že své obavy dokumentovali různými způsoby a jeden inženýr dokonce poznamenal: “Moje červená linie jako bezpečnostního inženýra je, že pro mne toto není v pořádku, ale moje červená linie není červenou linií Marka Zuckerberga.”</p>
+
+<h2 id="sdílení-technologií-a-ai-s-čínou">Sdílení technologií a AI s Čínou</h2>
+
+<p>Williamsová také odhalila, jak Facebook sdílel své technologické know-how s Čínou:</p>
+
+<p>“Meta začala informovat Čínskou komunistickou stranu již v roce 2015. Tyto brífinky se zaměřovaly na kritické nově vznikající technologie, včetně umělé inteligence. Explicitním cílem bylo pomoci Číně překonat americké společnosti.”</p>
+
+<p>Williamsová dodala: “Existuje přímá linie, kterou můžete nakreslit od těchto briefingů k nedávným odhalením, že Čína vyvíjí modely AI pro vojenské použití, spoléhající se na model Mety Llama.” Williamsová zdůraznila, že model DeepSeek je částečně založen na AI modelu Mety Llama. Tedy je ovšem třeba říct, že ten jen open-source a může jej využít kdokoliv, podle Williamsové ale technici Mety sdíleli s Čínou svoje interní know-how.</p>
+
+<p>Na otázku senátora Grassleyho, proč by Meta chtěla pomáhat Číně s umělou inteligencí, Williamsová uvedla: “Viděli, řekla bych, že část hodnotové propozice, kterou by mohli poskytnout Čínské komunistické straně, byla jejich schopnost pomoci čínským úředníkům. Takže výslovně, a byla bych ráda, kdybych vám mohla poskytnout dokumentaci, vyjmenovávali americké firmy. Říkali: ‘Můžeme pomoci, můžeme vám pomoci. Čína nemusí spoléhat na firmy jako Cisco nebo IBM, protože my vám můžeme pomoci s technickou odborností.’”</p>
+
+<p>Williamsová také zdůraznila, že “Interní dokumenty Mety popisují jejich prodejní nabídku, proč by Čína měla povolit jejich vstup na trh, a to citací: ‘pomáhat Číně zvýšit globální vliv a podporovat čínský sen’.”</p>
+
+<p>Na dotaz, zda Facebook profitoval z toho, že pomáhal Číně vyvinout konkurenční AI model, odpověděla: “Myslím, že jde o situaci, kdy vítěz bere vše. A to by postavilo Metu do velmi silné pozice.”</p>
+
+<h2 id="zuckerbergova-osobní-angažovanost-v-čínské-expanzi">Zuckerbergova osobní angažovanost v čínské expanzi</h2>
+
+<p>Williamsová zdůraznila, že Mark Zuckerberg byl osobně hluboce zapojen do čínské expanze:</p>
+
+<p>“Nic se zde nedělo bez jeho schválení a vědomí. Tento projekt byl na rozdíl od jakéhokoli jiného projektu, na kterém jsem během svého působení v Metě pracovala, centrálně veden Markem Zuckerbergem. On byl osobně zainteresován do tohoto projektu. Naučil se mandarínštinu. Cestoval do Číny více než do jakékoli jiné země. Měl týdenní lekce mandarínštiny se zaměstnanci. Je těžké zdůraznit, jak odlišný byl tento projekt od jakéhokoli jiného projektu, který jsem za své mnohaleté působení ve společnosti zažila.”</p>
+
+<p>Na otázku senátora Blumenthala, zda Zuckerberg věděl o rizicích spojených s čínskou expanzí, Williamsová odpověděla: “Podle mne je riziko nejdůležitější částí plánu. Takže je nemyslitelné, že by si nebyl vědom rizika.”</p>
+
+<h2 id="zaměřování-na-zranitelné-teenagery-a-etické-problémy">Zaměřování na zranitelné teenagery a etické problémy</h2>
+
+<p>Williamsová také popsala, jak Facebook cíleně využíval emocionální stavy mladých uživatelů pro zvýšení zisku:</p>
+
+<p>“Jeden příklad je, že Facebook cílil na 13 až 17leté. Mohl identifikovat, kdy se cítili bezcenní nebo bezmocní nebo neúspěšní, a tyto informace vzali a sdíleli je s inzerenty,” vysvětlila. “Jedna z věcí ohledně reklamy je, že inzerenti chápou, že když se lidé necítí dobře sami se sebou, je to často dobrý čas nabídnout jim nějaký produkt. Lidé pak s větší pravděpodobností něco koupí.”</p>
+
+<p>Dále uvedla konkrétní příklady: “Pokud by 13letá dívka smazala selfie, to je opravdu dobrý čas zkusit jí prodat kosmetický produkt.” Facebook cílil na “věci, které často znepokojují dospívající dívky, jako je sebevědomí ohledně těla.”</p>
+
+<p>Na otázku senátorky Blackburn, zda Facebook skutečně sledoval aktivitu dětí i mimo jejich aplikaci, Williamsová odpověděla: “Absolutně. To je bráno jako signál a pak sdíleno s inzerenty.”</p>
+
+<p>Williamsová také odhalila, že Meta má o svých uživatelích obrovské množství dat: “Je to nepochopitelné. Je velmi, velmi těžké pochopit množství dat, které tato společnost má o každé osobě, která se přihlásí do její služby. Jsou to soukromé zprávy, ale tolik dat.” Na otázku, zda tato data nejsou omezena pouze na aplikace Mety, odpověděla: “Vůbec ne, senátorko.”</p>
+
+<p>Na otázku senátorky Blackburn, zda vedení Facebooku ochraňovalo své vlastní děti před těmito praktikami, Williamsová odpověděla: “To je jedna z věcí, která mě šokovala, když jsem se přestěhovala do Silicon Valley… Vedoucí pracovníci by vždy mluvili o tom, jak mají doma zákazy obrazovek. Nebo bych se zeptala: ‘Používá váš teenager nový produkt, který se chystáme spustit?’ A oni na to: ‘Můj teenager nemá povoleno být na Facebooku. Nemám svého teenagera na Instagramu.’ Tito vedoucí pracovníci to vědí, vědí, jakou škodu tento produkt způsobuje.”</p>
+
+<h2 id="manipulace-s-médii-a-zneužívání-algoritmů">Manipulace s médii a zneužívání algoritmů</h2>
+
+<p>Senátorka Klobuchar se ptala na praktiky Mety vůči zpravodajským médiím. Williamsová ve své knize napsala, že “Facebook předělal americká zpravodajská média tím, že umístil Facebook do jejich centra, snížil ceny reklam pro noviny a distribuoval jejich příběhy, používal jejich obsah k zvýšení času stráveného na Facebooku.”</p>
+
+<p>Williamsová během slyšení potvrdila tuto praxi: “Klíčovou věcí, kterou je Meta posedlá, je engagement. Je to udržení pozornosti lidí ve službách, které Meta vlastní, po co nejdelší dobu s použitím jakýchkoli nástrojů, které může.”</p>
+
+<p>Když senátorka Klobuchar zmínila citát Marka Zuckerberga ohledně zpravodajských médií -  „Spíše se snažíte uzavřít kompromis s umírajícím průmyslem, než ho ovládnout a zničit.“  - a zeptala se na důsledky takového přístupu, Williamsová odpověděla: “Myslím, že každý občan viděl důsledky těchto akcí, a myslím, že jsme všichni chudší kvůli tomu.”</p>
+
+<p>Williamsová také potvrdila, že Meta využívá politické rozhořčení pro zvýšení zisku: “Co tato společnost chce, je dominovat tolika času a pozornosti každého jednotlivce, kolik může… A co se naučili, je, že rozhořčení je opravdu dobrý způsob, jak toho dosáhnou. Udělají cokoli, co je potřeba, aby měli lidi přilepené ke svým službám, ve své moci, ve svém zajetí.”</p>
+
+<h2 id="lži-a-klamání-kongresu-a-ftc">Lži a klamání Kongresu a FTC</h2>
+
+<p>Williamsová uvedla několik příkladů, kdy Meta lhala Kongresu a regulačním orgánům. Když byl generální právník Facebooku Colin Stretch dotázán senátorem Markem Rubiem, zda byla ze strany čínské vlády vyvíjena jakákoli tlak na zablokování účtu disidenta Gua, odpověděl: “Ne, senátore. Přezkoumali jsme zprávu o tomto účtu a analyzovali ji prostřednictvím běžných kanálů za použití běžných postupů.”</p>
+
+<p>Na otázku, zda toto svědectví bylo pravdivé, Williamsová odpověděla: “Ne, senátore. Je to ve skutečnosti vyložená lež.”</p>
+
+<p>Senátor Hawley také poukázal na to, že Facebook byl pod nařízením FTC (Federal Trade Commission) z roku 2012 o ochraně soukromí, které stanovilo, že Facebook “nesmí zkreslovat jakýmkoli způsobem, výslovně nebo implicitně, míru, do jaké udržuje soukromí nebo bezpečnost chráněných informací.” Přesto Facebook jednal v rozporu s tímto nařízením, když vyjednával s čínskou vládou o předání uživatelských dat.</p>
+
+<h2 id="zastrašování-a-snaha-o-umlčení">Zastrašování a snaha o umlčení</h2>
+
+<p>Williamsová popsala, jak se ji Meta snaží umlčet a finančně zruinovat za to, že vystoupila s pravdou:</p>
+
+<p>“Spoléhala jsem na jejich závazek z roku 2018, že se vzdají svých práv na vynucené rozhodčí řízení. Navzdory tomuto veřejnému závazku proti mně podali žalobu na stovky milionů dolarů. Nyní mají právní příkaz k mlčení, který mě umlčuje, i když Meta a jejich zástupci o mně šíří lži. Tento příkaz je tak rozsáhlý, že mi zakazuje mluvit s členy Kongresu.”</p>
+
+<p>Na otázku senátora Blumenthala, jakým způsobem ji Meta kontaktovala, Williamsová odpověděla: “Upřímně, snažila jsem se přimět své dítě, aby snědlo ovesnou kaši, a zazvonil zvonek… Po vydání knihy jsem si myslela, že by to mohl být někdo, kdo doručuje květiny. Ne, byl to příkaz k mlčení.”</p>
+
+<p>Společnost Meta vyhrožuje Williamsové pokutou 50 000 dolarů za každé “urážlivé” vyjádření o společnosti, i když by tato vyjádření byla pravdivá. Williamsová uvedla, že Meta jí říká: “Pokud by respondentovi (mně) bylo povoleno komunikovat se zákonodárci, takové akce by vytvořily výjimku z nedifamace. To by snědlo pravidlo. Za takových okolností by nic neomezovalo nebo nebránilo těmto zákonodárcům nebo jejich asistentům opakovat veřejnosti jakákoli hanlivá prohlášení.”</p>
+
+<p>Williamsová také odhalila, že Meta zahájila rozhodčí řízení bez jejího vědomí: “Poslali to na e-mailovou adresu z roku 2007” a získali příkaz k mlčení, aniž by to její právní tým věděl nebo měl příležitost vznést námitky.</p>
+
+<h2 id="závěr-a-výzva-k-odpovědnosti">Závěr a výzva k odpovědnosti</h2>
+
+<p>V závěru svého svědectví Williamsová prohlásila: “Jsem zde s významným osobním rizikem, protože vy máte moc a autoritu je volat k odpovědnosti. Americký lid si zaslouží znát pravdu, Meta byla ochotna kompromitovat své hodnoty, obětovat bezpečnost svých uživatelů a podkopat americké zájmy, aby vybudovala svůj byznys v Číně. Děje se to již roky, zakryté lžemi, a pokračuje to dodnes.”</p>
+
+<p>Na otázku, co by řekla Marku Zuckerbergovi, kdyby byl přítomen, Williamsová odpověděla: “Mám hodně otázek pro Marka Zuckerberga, ale prokázal znovu a znovu, že nemůžete věřit jeho odpovědím. Lhal členům Kongresu, lhal svým zaměstnancům a lhal Američanům. A proto žádám tento výbor, aby jej volal k odpovědnosti.”</p>
+
+<p>Senátor Hawley uzavřel slyšení výzvou pro Marka Zuckerberga, aby přišel před výbor a odpověděl na tato obvinění: “Je čas, abyste řekl pravdu. Měl byste přijít do tohoto výboru, složit přísahu, sednout si, kde teď sedí paní Wynn Williamsová, a odpovědět na tyto důkazy. Přestaňte se ji snažit umlčet. Přestaňte se schovávat za svými právníky a miliony dolarů na právních poplatcích.”</p>]]></content><author><name>Patrick Zandl</name></author><category term="Facebook" /><category term="Meta" /><summary type="html"><![CDATA[Meta (Facebook) lítá ve slušném maléru. Sarah Wynn Williamsová, bývalá ředitelka globální veřejné politiky Facebooku (nyní Meta), vystoupila před Soudním výborem Senátu USA s odhaleními o tom, jak společnost Meta tajně obchodovala s Čínou, lhala Kongresu a porušovala zákony i etické standardy ve snaze o zisk a moc. Meta se snaží Williamsovou umlčet soudy a pokutami a tvrdí, že jde o zhrzenou mstící se manažerku. Jenže náznaků o tom, že v Číně se Meta chová “čínsky”, už je celá řada. Slyšení vedl senátor Josh Hawley, který zdůraznil, že “toto je slyšení, kterému se Facebook zoufale snažil zabránit.”]]></summary></entry><entry xml:lang="cs"><title type="html">OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini</title><link href="https://www.marigold.cz/item/openai-o3-o4-mini/" rel="alternate" type="text/html" title="OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini" /><published>2025-04-18T00:00:00+00:00</published><updated>2025-04-18T00:00:00+00:00</updated><id>https://www.marigold.cz/item/openai-o3-o4-mini</id><content type="html" xml:base="https://www.marigold.cz/item/openai-o3-o4-mini/"><![CDATA[<p>Novým a nejsilnějším modelem LLM společnosti OpenAI se stává o3. Firma jej právě uvolnila a přidala do webového rozhraní i API, tak si k němu řekneme pár věcí.</p>
 
 <p>Tou první věcí je moje dlouhodobé konstatování, že struktura pojmenování v OpenAI je fakt bordel. Sám si musím dělat tabulku, které modely co znamenají a studium ceníků pro použití přes API je opravdu únavné. Potřebovali bychom AI na to, jakou AI použít😞 A teď už k věci.</p>
 
@@ -2691,114 +2811,4 @@ Zábava se změní. Bude se utvářet podle diváků a okolního světa.</p>
 
 <p>Děkuji vám.</p>
 
-<p><strong>Poznámka na závěr:</strong> nesouhlasím s Riparbellim, že by uživatelé plošně dávali přednost videoobsahu. Videoobsah je velmi řídké médium, poměr informací k nutné délce konzumace je nevýhodný oproti psanému textu. Pro náročnější informace je psaný text stále výhodnější, než video, video se hodí pro povrchnější informovanost. Což ale neznamená, že nesouhlasím v hlavní myšlence, že video se začne stávat stále významnějším způsobem informovanosti…</p>]]></content><author><name>Patrick Zandl</name></author><category term="Videoobsah" /><category term="AI" /><category term="projev" /><summary type="html"><![CDATA[Přepis přednášky podnikatele Victora Riparbelliho s názvem „Will AI Make Us the Last Generation to Read and Write?“ na konferenci TED Talk 19. října 2024.]]></summary></entry><entry xml:lang="cs"><title type="html">John Tasioulas - Proč je umělá inteligence hrozbou a jak ji využít pro dobro věci (přepis přednášky)</title><link href="https://www.marigold.cz/item/john-tasioulas-proc-je-ai-hrozbou/" rel="alternate" type="text/html" title="John Tasioulas - Proč je umělá inteligence hrozbou a jak ji využít pro dobro věci (přepis přednášky)" /><published>2025-02-23T00:00:00+00:00</published><updated>2025-02-23T00:00:00+00:00</updated><id>https://www.marigold.cz/item/john-tasioulas-proc-je-ai-hrozbou</id><content type="html" xml:base="https://www.marigold.cz/item/john-tasioulas-proc-je-ai-hrozbou/"><![CDATA[<p>Přepis přednášky <a href="https://en.wikipedia.org/wiki/John_Tasioulas">Johna Tasioulase</a> s názvem „Why AI Is A Threat - And How To Use It For Good“ na konferenci TEDxAthens 2025, která se konala 16. února 2025.</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8vQGGcPojM4?si=emkWPhWprrnDw9iW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-
-<p>JOHN TASIOULAS: Jsem filozof v Aténách v roce 2024 a mluvím s vámi o umělé inteligenci. To je velké vzrušení a velká čest. Možná se ale ptáte, co má starověká filozofická disciplína co říci k revoluci v umělé inteligenci?</p>
-
-<p>Mám 15 minut na to, abych vám to vysvětlil. Vraťme se k Sokratovi v Republice. Ten říká, že otázka, kterou se zabýváme, není triviální. Je to otázka, jak má člověk žít? A tato otázka, jak bychom měli žít, je ústřední filosofickou otázkou.</p>
-
-<p>Je to však také otázka, na kterou si každý z nás musí odpovědět sám. Proto Sokrates vedl své dialogy na aténské agoře s obyčejnými občany. A díky umělé inteligenci je o to naléhavější si tuto otázku znovu položit, protože tato technologie je natolik převratná, že by mohla změnit naše životy k lepšímu i k dobrému. Proto si tuto otázku musíme znovu položit ve světle těchto nových technologických vymožeností, které Sokrates nemohl předvídat.</p>
-
-<p><strong>Umělá inteligence však nejenže činí tuto otázku, jak bychom měli žít, naléhavější, ale vytváří pro nás při řešení této otázky problémy, nové problémy, nové hrozby pro naši schopnost odpovědět na Sokratovu otázku.</strong>  Dnes tedy budu hovořit o třech z těchto hrozeb.</p>
-
-<h2 id="hrozba-1-zkreslení-sebepochopení"><strong>Hrozba 1: Zkreslení sebepochopení</strong></h2>
-
-<p>První hrozba spočívá v tom, že umělá inteligence hrozí narušením našeho sebeporozumění, našeho chápání toho, co je to být člověkem. Všechny velké technologické korporace tvrdí, že mají stejný cíl. Jejich cílem je vytvořit umělou obecnou inteligenci. Umělá obecná inteligence je inteligence, která kopíruje celé spektrum lidské inteligence. Tedy schopná napsat báseň, stanovit diagnózu rakoviny, rozhodnout o přijetí do zaměstnání, udělat vše, co dokáže člověk.</p>
-
-<p>Pokud však budeme usilovat o AGI jako o cíl, bude zde pokušení, pobídka, představovat si, že AGI bylo dosaženo, protože jsme změnili cíl, změnili jsme vlastní chápání toho, co jsou lidé, a smazali jsme rozdíl mezi lidmi a stroji. Toto rozlišení však musíme zachovat.</p>
-
-<p>Jaké jsou tedy rozdíly? No, jeden zásadní rozdíl se týká porozumění. Systém umělé inteligence, jako je GPT-3, velký jazykový model, pracuje na základě statistických korelací mezi daty. Tyto statistické korelace mu nedávají skutečné porozumění, jaké by měl člověk o tom, co je to kočka nebo co je to elektron. Lidé takové pochopení mají, částečně proto, že jsme ztělesnění agenti, kteří se zabývají fyzickou realitou. A jeden ze způsobů, jak se tento rozdíl projevuje, je, že existuje vlastnost, kterou má většina lidí, a tou je zdravý rozum, který se pro systémy umělé inteligence ukázal jako velmi nepolapitelný. Jinými slovy, systémy umělé inteligence dělají spektakulární chyby, kterých by se žádný člověk nikdy nedopustil.</p>
-
-<p>Zamění si kočku se skateboardem nebo člověka s gorilou. Žádný člověk by tyto chyby nikdy neudělal, protože lidé mají zakořeněné chápání světa způsobem, který stroj pracující na základě korelací mezi datovými body nemá. Porozumění je tedy velký rozdíl.</p>
-
-<p>Ale je tu ještě jeden velký rozdíl, a to ten, že lidé mají schopnost racionální autonomie. Máme schopnost zvolit si své cíle, rozhodnout se, zda chceme být lékařem, nebo herečkou.</p>
-
-<p>Chceme být právníkem nebo hudebníkem? A zvolit si tyto cíle s ohledem na všechny důvody pro a proti pro každou možnost. To systém umělé inteligence nedokáže. Má v sobě naprogramovaný cíl a optimalizuje se pro jeho splnění. Možná si teď řeknete, že když začneme stírat rozdíl mezi člověkem a strojem, jaký je v tom rozdíl?</p>
-
-<p>Proč je to důležité? Proč to představuje hrozbu? Myslím, že důvodem, proč je to hrozba, je důvod, který uvedl Aristoteles, totiž že chceme-li vědět, co je dobrý život pro člověka, musíme vědět, jaké jsou charakteristické schopnosti člověka. Tyto schopnosti uvažovat, komunikovat, společensky se angažovat, které se projevují v nejrůznějších hodnotných činnostech, jako je vědecký výzkum nebo udržování přátelství či boj za spravedlnost. Pokud ztratíme živý smysl pro schopnosti, které jako lidé máme, hrozí, že budeme mít ochuzenou etiku. Budeme ochuzeni o smysl pro hodnoty, na kterých záleží.</p>
-
-<p>Jak bude tato ochuzená etika vypadat? No, jednou z jejích podob bude druh konzumerismu, který říká, že to, na čem záleží, je vaše uspokojení jako spotřebitele, které může být jen pasivní záležitostí přijímání potěšení, nikoliv uplatnění vašich schopností. Nebo existuje jiný druh etiky, který se stal velmi populárním v Silicon Valley a který říká, že cestou k lepšímu životu je transhumanismus, že je třeba překročit naši lidskou přirozenost, žít ve virtuální realitě, stát se kyborgem. Z aristotelského hlediska, podle něhož je naplněný život uplatněním svých lidských schopností, není transhumanismus, který je v těchto mocných kruzích brán vážně, cestou k utopii, ale k druhové sebevraždě.</p>
-
-<h2 id="hrozba-2-zkreslení-chápání-problému"><strong>Hrozba 2: Zkreslení chápání problému</strong></h2>
-
-<p>Další hrozba, do vývoje umělé inteligence investuje soukromý sektor astronomické částky. Předpokládá se, že v roce 2025 bude do vývoje technologií umělé inteligence investováno 200 miliard dolarů. A pro tyto společnosti bude existovat hluboká ekonomická motivace, aby nám tvrdily, že tyto systémy umělé inteligence dokáží řešit problémy lépe než lidé. A to povede k dalšímu zkreslení. Vytvoří to deformaci, v jejímž důsledku začneme stále více, možná nevědomky, měnit povahu našich problémů, způsob, jakým je chápeme, aby byly vhodnější pro řešení systémy umělé inteligence. Dovolte mi tedy uvést příklad.</p>
-
-<p>Nástroje pro hodnocení rizik založené na technologii AI se již používají v trestním soudnictví. Takže jednou z otázek v trestním soudnictví je otázka kauce.</p>
-
-<p>Měl by být někdo, kdo byl obviněn z trestného činu, propuštěn na svobodu a čekat na soud, nebo by měl být držen ve vazbě? Nyní existuje mnoho velmi významných myslitelů, kteří tvrdí, že systémy umělé inteligence jsou v tomto druhu rozhodování lepší než lidští soudci.</p>
-
-<p>Říkají, že tento argument se skládá ze dvou částí. Jedna část spočívá v tom, že rozhodnutí o kauci je v podstatě předpovědí. Spáchá tato osoba trestný čin, pokud bude propuštěna?</p>
-
-<p>A druhé tvrzení je, že systémy umělé inteligence jsou zbaveny určitých předsudků, které mají lidé, a jsou v těchto předpovědích lepší. Tento druhý krok v argumentaci je velmi kontroverzní.</p>
-
-<p>Není zcela jasné, že systémy umělé inteligence, a to zdaleka ne, jsou v předvídání lepší. Chci však zpochybnit první krok tohoto argumentu, tedy způsob, jakým je tento problém chápán.</p>
-
-<p>Je rozhodnutí o kauci výhradně rozhodnutím o tom, zda tato osoba spáchá trestný čin? Zjevně ne. Existují i další úvahy, které jsou relevantní, například jak závažný byl trestný čin, který spáchal?</p>
-
-<p>Jaký dopad bude mít na jejich děti a rodinu, pokud budou drženi ve vazbě? Jaká je kapacita vězeňského systému pro umístění této osoby?</p>
-
-<p>Když tedy přemýšlíme o tomto rozhodnutí o kauci, není to jednorozměrné rozhodnutí založené na předpovědi. Vyžaduje vyvážení celé řady faktorů. A nemusí existovat jediný správný způsob, jak všechny tyto faktory vyvážit. Neexistuje způsob, kdy byste mohli říci: dám všem těmto faktorům číselné hodnocení a pak vyberu možnost, která získá nejvyšší číslo. Takto situace nefunguje, ale takto by fungoval systém umělé inteligence. Obavy zde tedy spočívají v tom, že místo abychom umělou inteligenci použili k řešení našich problémů, změníme povahu našich problémů.</p>
-
-<p><strong>Ta AI nám začne takříkajíc diktovat, jaké jsou problémy, kterým čelíme.</strong>  <strong>Dostáváme věci zpět do popředí.</strong></p>
-
-<h2 id="hrozba-3-ohrožení-našich-hodnot"><strong>Hrozba 3: Ohrožení našich hodnot</strong></h2>
-
-<p>Třetí hrozba, o které jsem chtěl mluvit, se týká našich hodnot jako takových. Lidé, kteří nyní prosazují systémy umělé inteligence, zejména jako náhradu lidského úsilí, mají tendenci zaměřovat se na dvě věci. Za prvé, že tyto systémy AI budou přinášet hodnotné výsledky. Budou produkovat správnou diagnózu rakoviny, dobré rozhodnutí o přijetí do zaměstnání nebo dobrý novinářský text. A za druhé, říkají, že tyto dobré výsledky budou produkovat efektivně, rychleji a s menšími náklady než člověk. Ale toto neúnavné zaměření na hodnotné výsledky vyrobené efektivně ignoruje celou řadu hodnot, na kterých nám záleží.</p>
-
-<p>Hodnoty, které budu nazývat procesními hodnotami. Hodnoty týkající se způsobu, jakým vytváříme hodnotné výsledky. A myslím, že to je v podstatě Kavafyho moudrost v básni Ithaka. Že to, na čem nám záleží, není jen dosažení konečného cíle nejrychlejší cestou. Záleží nám také na tom, abychom tohoto cíle dosáhli správným způsobem. Jak toho cíle dosáhneme. Přijet na Ithaku soukromou helikoptérou je něco úplně jiného než tam dorazit cestou hrdiny, který potká lidožravé obry, Kyklopy a rozzlobeného Poseidona. A někdy je cesta důležitější než cíl. Vzpomeňte si na větu: „A jestli ji najdete chudou, Ithaka vás neošidí.“ To je pravda.</p>
-
-<p>A jak to funguje ve skutečném životě? Jak je možné, že nám záleží na procesu, a ne jen na výsledku?</p>
-
-<p>No, vzpomeňte si na milostné vztahy. Ano, usilujeme o láskyplné vztahy. Ale je velký rozdíl, pokud jsme ve vztahu na základě svobodné volby, která vyjadřuje naši osobnost a náš vkus.</p>
-
-<p>A také na sebe bereme riziko, že uděláme strašnou chybu. To je součástí hodnoty. Na rozdíl od toho, když nám vztah přidělí algoritmus, který byl nastaven tak, aby optimalizoval lidskou kompatibilitu. Nebo se zamyslete nad prací. V práci chceme vytvářet hodnotné výsledky, hodnotné zboží a služby. Chceme mít výsledek v podobě slušného platu. Ale záleží nám také na tom, jak tyto věci vznikají.</p>
-
-<p>Chceme mít možnost pracovat způsobem, který zahrnuje uplatnění dovedností, úsudku, možnost skutečné spolupráce. To jsou procesní hodnoty a ty nikdy nebudou plně kompenzovány představou, že bude existovat univerzální základní příjem, který bude lidem kompenzovat pracovní místa ztracená v důsledku automatizace. Nebo si vezměme poslední příklad, případ soudce. Chceme dobrá právní rozhodnutí, která jsou správná. Ale chceme také rozhodnutí, která jsou činěna ze správných důvodů.</p>
-
-<p>Existuje systém umělé inteligence, který se nazývá Lex Machina, nikoli Ex Machina. A Lex Machina dokáže předvídat výsledek právních případů v americkém patentovém právu stejně dobře jako špičkový americký patentový zástupce. Zní to působivě. Ale pak vám řeknu, že to nedělá tak, že by se podíval na zákon a udělal předpověď.</p>
-
-<p>Podívá se na jméno soudce. Podívá se na výši peněz, které jsou v případu v sázce. Podívá se na advokátní kanceláře, které se na případu podílejí. Tyto skutečnosti jsou pro správný výsledek irelevantní. Takže dostanete správné rozhodnutí, ale špatné odůvodnění.</p>
-
-<p>Je to jako se systémem umělé inteligence, který dokázal rozlišit obrázky huskyho, určitého druhu psa, od vlků. A byl velmi úspěšný. Ale k rozlišení používal přítomnost sněhu na obrázku.</p>
-
-<p>Správný výsledek, špatné uvažování. Chceme také soudce, který, pokud má učinit rozhodnutí, které ovlivní náš život a svobodu, dokáže za toto rozhodnutí převzít osobní odpovědnost. Systémy umělé inteligence, které postrádají racionální autonomii, nemohou nést odpovědnost stejným způsobem.</p>
-
-<p>A to je velmi důležité, protože jednou z věcí, ke kterým soudce potřebujeme, je právě ta strašná práce, kdy musí převzít odpovědnost za rozhodnutí, která mají obrovský dopad na lidský život.</p>
-
-<p>Ale je to také lidská tendence snažit se vyhnout odpovědnosti, kde je to možné.</p>
-
-<p>Systémy umělé inteligence budou novým způsobem, jak se můžeme vyhnout odpovědnosti za strašné následky, které navštěvujeme u svých spoluobčanů.</p>
-
-<p>A nakonec je tu bod o empatii.</p>
-
-<p>I když ke mně bude soudce s umělou inteligencí milosrdný a sníží mi trest kvůli těžkostem, které mě vedly ke spáchání trestného činu, nebude mít tentýž rozsudek stejný význam, jako kdyby ho vynesl lidský soudce.</p>
-
-<p>Protože lidský soudce může tento rozsudek vynést a vyjádřit tak soucitnou reakci na situaci, které jsem čelil.</p>
-
-<p>Mohl by říci: „Tam, ale pro milost Boží jdu já.“ Systém umělé inteligence to říci nemůže.</p>
-
-<p>Nesdílí s námi lidský život.</p>
-
-<p>Mluvil jsem o rizicích, která AI představuje. Nyní se ale možná ptáte, jaká jsou řešení?</p>
-
-<h2 id="řešení-a-role-demokracie"><strong>Řešení a role demokracie</strong></h2>
-
-<p>A já si myslím, že při jakémkoli realistickém pohledu neexistuje žádné jednoduché jediné řešení. Například v mém institutu se zabýváme takovými věcmi, jako je potřeba nového práva, práva na lidské rozhodnutí, zvláštního nového práva pro věk AI. Ale pokud existuje ještě jedno zásadní řešení, myslím, že odpověď spočívá v demokracii.</p>
-
-<p>Protože historická zkušenost ukazuje, že technické a technologické inovace nepřinášejí automaticky výhody pro všechny. Přináší prosperitu a další výhody pouze tehdy, pokud podléhají důkladné demokratické kontrole. Demokracie dokáží vytvářet dobrá rozhodnutí lépe než nedemokratické systémy. A také demokracie mají takovou hodnotu procesu, o které jsem mluvil. Pokud společně jako svobodní a rovnoprávní občané uvažujeme o společném dobru a společně dospějeme k rozhodnutí, respektujeme vzájemnou důstojnost způsobem, který jiné systémy nemají. Dobře, ale samozřejmě víme, že žijeme v době demokratické krize, kdy demokracie ztrácí víru.</p>
-
-<p>Žijeme v době, kdy dochází k vzestupu technokracie, kdy je stále více rozhodnutí odebíráno demokratické veřejnosti a svěřováno odborníkům, soudcům, bankéřům. Žijeme v době populismu, kdy lidé hledají silného vládce, který může jednat mimo demokratické struktury. A pokud je do toho všeho zapojena umělá inteligence, mnoho lidí si myslí, že umělá inteligence je pro demokracii toxická, protože umožňuje šíření dezinformací, dezinformací. Podněcuje politickou polarizaci. Chtěl bych skončit pozitivnějším příběhem. A to, že ačkoli je to pravda, existuje také jiná vize, která je pro AI možná, a to umožnit participativnější formu demokracie, která je také lépe informovaná.</p>
-
-<p>Nyní je zřejmá námitka, kterou lidé vznášejí proti participativní demokracii, že prý byla v pořádku pro starověké Atény, ale není v pořádku pro moderní státy vzhledem k jejich velikosti a pluralitnímu charakteru. Myslím si však, že skutečným vrcholem bodu programu by pro nás nyní mělo být využití umělé inteligence a digitálních technologií k umožnění této radikálnější participativní demokracie, kterou potřebujeme.</p>
-
-<p>Takže si můžete představit nástroje umělé inteligence, které občanům poskytují informace přizpůsobené jejich specifickému stylu učení. Mohli byste si představit, že by sdružovaly náhodné vzorky dotčených skupin obyvatelstva a podporovaly a moderovaly jednání a debatu. A mohly by šířit konkurenční návrhy a identifikovat body shody, a to nejen prosté většiny, ale body shody, které jsou napříč různými demokratickými skupinami. Možná si teď řeknete, že to zní jako sen filozofů, ale ve skutečnosti to už existuje.</p>
-
-<p>Například na Tchaj-wanu vzniklo hnutí zdola, které se stalo vládou. A toto hnutí zdola využívalo online platformu zvanou Polis. Zajímalo by mě, kde k tomu názvu přišli. Polis umožňuje občanům, aby se zapojili online do úvah a debat o otázkách typu: Jaká by měla být naše politika vůči Uberu?</p>
-
-<p>A jejich úvahy se pak skutečně promítají do konečné podoby legislativy. Myslím si, že žijeme v době, kdy se lidé cítí stále více bezmocní a podléhají silám, které nemohou ovlivnit, nebo jim dokonce nerozumějí.</p>
-
-<h2 id="závěr"><strong>Závěr</strong></h2>
-
-<p><strong>A myslím, že existuje vážná hrozba, že umělá inteligence tento stav znemožnění ještě zhorší tím, že vytvoří odlidštěný svět, v němž bude uplatňování našich osobitých lidských schopností odsunuto na okraj.</strong>  <strong>A to vše se bude dít pod šťastným heslem, že jde o uspokojení našich spotřebitelských preferencí.</strong>  A za tím vším budou stát mocné ekonomické zájmy. Nebude snadné se tomu bránit, ale boj proti tomu musí začít přemýšlením o tom, jaké naše nejhlubší hodnoty jsou zde v sázce. Boj musí začít návratem k Sokratově otázce. Děkuji.</p>]]></content><author><name>Patrick Zandl</name></author><category term="kapitalismus" /><category term="politika" /><category term="projev" /><summary type="html"><![CDATA[Přepis přednášky Johna Tasioulase s názvem „Why AI Is A Threat - And How To Use It For Good“ na konferenci TEDxAthens 2025, která se konala 16. února 2025.]]></summary></entry></feed>
+<p><strong>Poznámka na závěr:</strong> nesouhlasím s Riparbellim, že by uživatelé plošně dávali přednost videoobsahu. Videoobsah je velmi řídké médium, poměr informací k nutné délce konzumace je nevýhodný oproti psanému textu. Pro náročnější informace je psaný text stále výhodnější, než video, video se hodí pro povrchnější informovanost. Což ale neznamená, že nesouhlasím v hlavní myšlence, že video se začne stávat stále významnějším způsobem informovanosti…</p>]]></content><author><name>Patrick Zandl</name></author><category term="Videoobsah" /><category term="AI" /><category term="projev" /><summary type="html"><![CDATA[Přepis přednášky podnikatele Victora Riparbelliho s názvem „Will AI Make Us the Last Generation to Read and Write?“ na konferenci TED Talk 19. října 2024.]]></summary></entry></feed>
