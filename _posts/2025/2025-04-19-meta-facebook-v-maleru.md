@@ -16,7 +16,7 @@ Williamsová během slyšení explicitně zmínila, že Meta získala právní p
 
 Slyšení bylo dlouhé, [existuje z něj několik videí](https://www.youtube.com/watch?v=f3DAnORfgB8), na které se můžete podívat na Youtube, já jsem vám vypsal snad ty nejdůležitější informace. Připomínám, že u kongresového slyšení málokdy dojde na přesné technické detaily, věci tu bývají někdy zjednodušené, ale vypovídat nepravdivě před Kongresem bývá tvrdě sankcionováno, což bývá slušnou zárukou toho, že se tu lidé snaží mluvit pravdu či alespoň to, co se nedá později za nepravdu označit. Také je dobré vědět, že Williamsová nedávno vydala knihu  [Bezohlední lidé](https://en.wikipedia.org/wiki/Careless_People)  o svých zkušenostech s prací v Metě, přičemž společnost všechny její vystoupení označuje za propagaci prodeje knihy, kterou označuje za lživou. Zatím jsem četl kousek a nezdá se mi, že si to vymyslela 😎
 
-Tam, kde je to možné, dávám citace prohlášení Williamsové.
+Tam, kde je to možné, dávám citace prohlášení Williamsové. Omlouvám se za trochu robotický překlad, převyprávění anglických online výslechů není moje silná stránka. 
 
 ## Tajné obchody s Čínou pod krycím názvem "Projekt Aldrin"
 
