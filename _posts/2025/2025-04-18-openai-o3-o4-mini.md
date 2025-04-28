@@ -1,14 +1,22 @@
 ---
 author: Patrick Zandl
-post_excerpt: "OpenAI představuje dva nové modely, přičemž o3 má být to nejsilnější a nejlepší, co momentálně je. Pojďme se jim podívat na zoubek, jestli zastanou vaši práci?" 
 categories:
 - AI
 - OpenAI
 date: 2025-04-18
 layout: post
+post_excerpt: OpenAI představuje dva nové modely, přičemž o3 má být to nejsilnější
+  a nejlepší, co momentálně je. Pojďme se jim podívat na zoubek, jestli zastanou vaši
+  práci?
+summary_points:
+- OpenAI vydalo nové modely o3 a o4-mini 16. dubna 2025.
+- Model o3 nabízí plnou agentní integraci nástrojů v jednom pracovním toku.
+- O4-mini je optimalizován pro rychlost a nižší náklady než o3.
+- Modely jsou dostupné pro ChatGPT Plus, Pro a Team uživatele.
+thumbnail: https://www.marigold.cz/assets/souboj-llm.jpg
 title: OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini
-thumbnail: https://www.marigold.cz/assets/souboj-llm.jpg 
 ---
+
 Novým a nejsilnějším modelem LLM společnosti OpenAI se stává o3. Firma jej právě uvolnila a přidala do webového rozhraní i API, tak si k němu řekneme pár věcí. 
 
 Tou první věcí je moje dlouhodobé konstatování, že struktura pojmenování v OpenAI je fakt bordel. Sám si musím dělat tabulku, které modely co znamenají a studium ceníků pro použití přes API je opravdu únavné. Potřebovali bychom AI na to, jakou AI použít😞 A teď už k věci. 

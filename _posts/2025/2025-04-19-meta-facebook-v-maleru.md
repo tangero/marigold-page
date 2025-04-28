@@ -1,13 +1,21 @@
 ---
 author: Patrick Zandl
-post_excerpt: "Meta (Facebook) lítá ve slušném maléru. Sarah Wynn Williamsová, bývalá ředitelka globální veřejné politiky Facebooku (nyní Meta), vystoupila před Soudním výborem Senátu USA s odhaleními o tom, jak společnost Meta tajně obchodovala s Čínou, lhala Kongresu a porušovala zákony i etické standardy ve snaze o zisk a moc." 
 categories:
 - Facebook
 - Meta
 date: 2025-04-19
 layout: post
-title: Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou
+post_excerpt: Meta (Facebook) lítá ve slušném maléru. Sarah Wynn Williamsová, bývalá
+  ředitelka globální veřejné politiky Facebooku (nyní Meta), vystoupila před Soudním
+  výborem Senátu USA s odhaleními o tom, jak společnost Meta tajně obchodovala s Čínou,
+  lhala Kongresu a porušovala zákony i etické standardy ve snaze o zisk a moc.
+summary_points:
+- Meta tajně obchodovala s Čínou a lhala Kongresu o svých aktivitách.
+- Meta cenzurovala kritiky Číny a vyvíjela pro ni cenzurní nástroje.
+- Meta sdílela data uživatelů a AI technologie s čínskou vládou.
+- Meta se snaží umlčet Sarah Williamsovou soudy a vysokými pokutami.
 thumbnail: https://www.marigold.cz/assets/Sarah-Wynn-Williams.jpg
+title: Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou
 ---
 
 Meta (Facebook) lítá ve slušném maléru. Sarah Wynn Williamsová, bývalá ředitelka globální veřejné politiky Facebooku (nyní Meta), vystoupila před Soudním výborem Senátu USA s odhaleními o tom, jak společnost Meta tajně obchodovala s Čínou, lhala Kongresu a porušovala zákony i etické standardy ve snaze o zisk a moc. Meta se snaží Williamsovou umlčet soudy a pokutami a tvrdí, že jde o zhrzenou mstící se manažerku. Jenže náznaků o tom, že v Číně se Meta chová "čínsky", už je celá řada. Slyšení vedl senátor Josh Hawley, který zdůraznil, že "toto je slyšení, kterému se Facebook zoufale snažil zabránit."

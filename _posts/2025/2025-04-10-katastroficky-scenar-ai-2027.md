@@ -1,15 +1,21 @@
 ---
 author: Patrick Zandl
-post_excerpt: "Pětice lidí nabídla nepřesvědčivý scénář o tom, jak AI ovládne svět a vyhubí lidstvo do konce desetiletí. Proč jsou takové plačkočlánky škodlivé a proč jsou mimo? Pojďme si projít, v čem je scénář AI 2027 mimo a v čem je naopak přínosný..." 
 categories:
 - AI
 - katastrofa
 date: 2025-04-10
 layout: post
-title: Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu?
+post_excerpt: Pětice lidí nabídla nepřesvědčivý scénář o tom, jak AI ovládne svět
+  a vyhubí lidstvo do konce desetiletí. Proč jsou takové plačkočlánky škodlivé a proč
+  jsou mimo? Pojďme si projít, v čem je scénář AI 2027 mimo a v čem je naopak přínosný...
+summary_points:
+- Scénář AI 2027 předpokládá rychlý vývoj superinteligence do roku 2028, což je nerealistické.
+- Autoři přisuzují AI lidské motivace, což je nepodložená antropomorfizace.
+- Scénář přeceňuje autonomii AI a podceňuje fyzická a institucionální omezení.
+- Zjednodušuje geopolitiku a ignoruje mezinárodní regulační možnosti.
 thumbnail: https://www.marigold.cz/assets/ai-2027-katastrofa.png
+title: Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý a mimo realitu?
 ---
-
 
 Deník N vydal katastrofický článek s nadpisem ["Do deseti let bude po všem"](https://denikn.cz/1700968/do-deseti-let-bude-po-vsem-petice-expertu-nabizi-presvedcivy-scenar-o-tom-jak-ai-ovladne-svet-a-vyhubi-lidstvo/), v němž nám převyprávěl scénář [AI 2027](https://ai-2027.com/) vypracovaný pěticí lidí o potenciálním nebezpečí umělé inteligence. A tím se o tématu začalu v Česku opět diskutovat. Dokument vypadá na první pohled propracovaně, ona pětice má určité renomé. Jenže obsahuje řadu problematických předpokladů a logických skoků, které je třeba kriticky posoudit. Začnu tím, že vynechám onu pětici lidí, ani je zatím nebudu jmenovat, abychom se mohli nerušeně soustředit na tvrzení a fakta.
 

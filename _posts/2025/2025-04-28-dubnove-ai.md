@@ -1,13 +1,23 @@
 ---
 author: Patrick Zandl
-post_excerpt: "Čínské společnosti představily nové konkurenty pro západní modely, OpenAI pokračuje v rozšiřování svého ekosystému, a i menší hráči přicházejí s inovativními technologiemi. Pojďme se podívat na nejdůležitější oznámení, která formují budoucnost umělé inteligence." 
 categories:
 - AI
 - OpenAI
 date: 2025-04-28
 layout: post
-title: Čínské AI posiluje, vlastní GPU nadohled. A další dubnové novinky v AI aplikacích
+post_excerpt: Čínské společnosti představily nové konkurenty pro západní modely, OpenAI
+  pokračuje v rozšiřování svého ekosystému, a i menší hráči přicházejí s inovativními
+  technologiemi. Pojďme se podívat na nejdůležitější oznámení, která formují budoucnost
+  umělé inteligence.
+summary_points:
+- Baidu představil cenově výhodné modely ERNIE 4.5 Turbo a ERNIE X1 Turbo s konkurenceschopnými
+  cenami a výkonem.
+- OpenAI rozšířil přístup k Deep Research Mini a představil GPT-Image-1 pro generování
+  obrázků.
+- xAI vylepšil Grok o dlouhodobou paměť, multimodální funkce a reálné vyhledávání.
+- Čína posiluje soběstačnost v AI s novými čipy Huawei a vládní podporou vývoje.
 thumbnail: https://contarctica.com/wp-content/uploads/2024/01/Grok_AI-uai-1920x960.jpg
+title: Čínské AI posiluje, vlastní GPU nadohled. A další dubnové novinky v AI aplikacích
 ---
 
 Pojďme se podívat na průlet novinkami v AI na druhou půlku dubna. A ano, máte pravdu, novinky se hromadí! Čínské společnosti představily nové konkurenty pro západní modely, OpenAI pokračuje v rozšiřování svého ekosystému, a i menší hráči přicházejí s inovativními technologiemi. Pojďme se podívat na nejdůležitější oznámení, která formují budoucnost umělé inteligence.
