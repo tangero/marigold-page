@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Čínské AI posiluje, vlastní GPU nadohled. A další dubnové novinky v AI aplikacích",
+      "url"      : "//item/dubnove-ai/",
+      "category" : "AI, OpenAI",
+      "tags"     : "",
+      "date"     : "28.4.2025",
+      "content"  : "Pojďme se podívat na průlet novinkami v AI na druhou půlku dubna. A ano, máte pravdu, novinky se hromadí! Čínské společnosti představily nové konkurenty pro západní modely, OpenAI pokračuje v rozšiřování svého ekosystému, a i menší hráči přicházejí s inovativními technologiemi. Pojďme se podívat na nejdůležitější oznámení, která formují budoucnost umělé inteligence.Baidu: Cenově dostupné “Turbo” modelyČínský technologický gigant Baidu vstupuje do přímé konkurence s OpenAI a DeepSeek prostřednictvím svých nových cenově výhodných modelů ERNIE 4.5 Turbo a ERNIE X1 Turbo.ERNIE 4.5 Turbo nabízí pokročilé multimodální schopnosti za pouhých 11 centů a 44 centů za milion vstupních/výstupních tokenů, což představuje pouhých..."
+    },
+  
+    {
       "title"    : "Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou",
       "url"      : "//item/meta-facebook-v-maleru/",
       "category" : "Facebook, Meta",
@@ -25953,7 +25962,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini (18.04.2025) Claude umí prohrabat váš Google kalendář i poštu, ChatGPT má nový model 4.1 a další novinky z AI (16.04.2025) Proč je scénář AI 2027 o vyhubení umělou inteligencí nepřesvědčivý..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Čínské AI posiluje, vlastní GPU nadohled. A další dubnové novinky v AI aplikacích (28.04.2025) OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini (18.04.2025) Claude umí prohrabat váš Google kalendář i poštu, ChatGPT má nový model 4.1 a další..."
     }
     
   
@@ -25973,7 +25982,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 192 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 67 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 193 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 67 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -26033,6 +26042,8 @@
       "category" : "stránka",
       "content"  : "This is a test file to check if the validation and fixing functionality works correctly.It contains HTML entities in the title and excerpt fields, as well as colons and quotes."
     }
+    
+  
     
   
     

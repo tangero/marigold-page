@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-19T09:17:56+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou</title><link href="https://www.marigold.cz/item/meta-facebook-v-maleru/" rel="alternate" type="text/html" title="Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou" /><published>2025-04-19T00:00:00+00:00</published><updated>2025-04-19T00:00:00+00:00</updated><id>https://www.marigold.cz/item/meta-facebook-v-maleru</id><content type="html" xml:base="https://www.marigold.cz/item/meta-facebook-v-maleru/"><![CDATA[<p>Meta (Facebook) lítá ve slušném maléru. Sarah Wynn Williamsová, bývalá ředitelka globální veřejné politiky Facebooku (nyní Meta), vystoupila před Soudním výborem Senátu USA s odhaleními o tom, jak společnost Meta tajně obchodovala s Čínou, lhala Kongresu a porušovala zákony i etické standardy ve snaze o zisk a moc. Meta se snaží Williamsovou umlčet soudy a pokutami a tvrdí, že jde o zhrzenou mstící se manažerku. Jenže náznaků o tom, že v Číně se Meta chová “čínsky”, už je celá řada. Slyšení vedl senátor Josh Hawley, který zdůraznil, že “toto je slyšení, kterému se Facebook zoufale snažil zabránit.”</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-04-28T16:50:24+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Čínské AI posiluje, vlastní GPU nadohled. A další dubnové novinky v AI aplikacích</title><link href="https://www.marigold.cz/item/dubnove-ai/" rel="alternate" type="text/html" title="Čínské AI posiluje, vlastní GPU nadohled. A další dubnové novinky v AI aplikacích" /><published>2025-04-28T00:00:00+00:00</published><updated>2025-04-28T00:00:00+00:00</updated><id>https://www.marigold.cz/item/dubnove-ai</id><content type="html" xml:base="https://www.marigold.cz/item/dubnove-ai/"><![CDATA[<p>Pojďme se podívat na průlet novinkami v AI na druhou půlku dubna. A ano, máte pravdu, novinky se hromadí! Čínské společnosti představily nové konkurenty pro západní modely, OpenAI pokračuje v rozšiřování svého ekosystému, a i menší hráči přicházejí s inovativními technologiemi. Pojďme se podívat na nejdůležitější oznámení, která formují budoucnost umělé inteligence.</p>
+
+<h3 id="baidu-cenově-dostupné-turbo-modely">Baidu: Cenově dostupné “Turbo” modely</h3>
+
+<p>Čínský technologický gigant Baidu vstupuje do přímé konkurence s OpenAI a DeepSeek prostřednictvím svých nových cenově výhodných modelů ERNIE 4.5 Turbo a ERNIE X1 Turbo.</p>
+
+<p>ERNIE 4.5 Turbo nabízí pokročilé multimodální schopnosti za pouhých 11 centů a 44 centů za milion vstupních/výstupních tokenů, což představuje pouhých 0,2 % ceny GPT-4.5. Model vyniká rychlostí, logickým uvažováním, redukcí halucinací a programovacími schopnostmi. Podle benchmarků obstojí ve srovnání s GPT-4.1 a v některých měřeních dokonce překonává GPT-4o.</p>
+
+<p>ERNIE X1 Turbo, navržený pro hloubkové přemýšlení s vylepšenými schopnostmi řetězení myšlenek (chain-of-thought), se prodává za 14 centů a 55 centů za milion vstupních/výstupních tokenů, čímž překonává modely DeepSeek R1 a V3 nejen výkonem, ale i cenou, která je jen zlomkem ceny jeho předchůdce.</p>
+
+<p>Baidu současně oznámilo několik nových AI aplikací. Nejpozoruhodnější je Xinxiang, aplikace pro multi-agentní spolupráci, která transformuje jednotlivé pokyny do kompletních pracovních postupů napříč 200 typy úloh, s plány na rozšíření až na 100 000. Společnost také představila nový operační systém Cangzhou OS, který usnadňuje multimodální vytváření poznámek.</p>
+
+<p>Svou AI Open Initiative a standard MCP společnost Baidu cílí na usnadnění vývoje aplikací na těchto modelech. Jak uvedl Robin Li na konferenci Baidu Create 2025: “Modely jsou důležité, ale skutečnými vítězi budou aplikace, které je oživí.”</p>
+
+<h3 id="openai-rozšíření-funkcí-a-přístupnosti">OpenAI: Rozšíření funkcí a přístupnosti</h3>
+
+<p>OpenAI nezůstává pozadu a nadále rozšiřuje svůj ekosystém produktů a služeb:</p>
+
+<h4 id="deep-research-mini">Deep Research Mini</h4>
+
+<p>OpenAI představil odlehčenou verzi své funkce Deep Research, která zpřístupňuje pokročilé výzkumné nástroje širšímu okruhu uživatelů. Tato “odlehčená” verze, poháněná modelem o4-mini, je “téměř stejně inteligentní” jako plnohodnotná verze, ale poskytuje kratší odpovědi a spotřebovává méně zdrojů. Společnost rozšířila limity používání pro uživatele úrovní Plus, Team a Pro a zpřístupnila tuto funkci i bezplatným uživatelům. Jakmile jsou vyčerpány limity pro plnou verzi, dotazy uživatelů se automaticky přepnou na odlehčenou verzi.</p>
+
+<p>Nové limity:</p>
+
+<ul>
+  <li>Free – 5 odlehčených úloh/měsíc</li>
+  <li>Plus &amp; Team – 10 plných + 15 odlehčených úloh/měsíc</li>
+  <li>Pro – 125 plných + 125 odlehčených úloh/měsíc</li>
+  <li>Enterprise – 10 plných úloh/měsíc</li>
+</ul>
+
+<h4 id="gpt-image-1">GPT-Image-1</h4>
+
+<p>OpenAI zveřejnilo svůj nový model pro generování obrázků v API. Model, který dokáže pracovat jak s textem, tak s obrázky, pohání funkci vytváření obrázků, která byla spuštěna v ChatGPT na konci března a uživatelé s ní během prvního týdne vytvořili přes 700 milionů obrázků. Pro vývojáře je model dostupný za cenu 5 USD za milion textových tokenů, 10 USD za vstupní obrazové tokeny a 40 USD za výstupní obrazové tokeny.</p>
+
+<h4 id="aktualizace-gpt-4o">Aktualizace GPT-4o</h4>
+
+<p>OpenAI také aktualizovalo svůj model GPT-4o, čímž vylepšilo jeho schopnosti řešení problémů, inteligenci a osobnost. Nicméně CEO Sam Altman později sdílel, že aktualizace učinila asistenta “servílním a otravným” (i když s některými pozitivními aspekty) a společnost nyní pracuje na nápravě.</p>
+
+<h4 id="finanční-cíle-a-partnerství">Finanční cíle a partnerství</h4>
+
+<p>OpenAI sdělila investorům, že očekává dosažení příjmů ve výši 125 miliard dolarů v roce 2029 a 174 miliard dolarů v roce 2030, díky AI agentům, předplatným, monetizaci bezplatných uživatelů a affiliate poplatkům. Společnost také oznámila partnerství s deníkem The Washington Post na vyhledávací obsah a s aerolinkami Singapore Airlines pro vylepšení jejich virtuálního asistenta.</p>
+
+<h3 id="liquid-ai-hybridní-architektura">Liquid AI: Hybridní architektura</h3>
+
+<p>Liquid Sciences představila <a href="https://www.liquid.ai/research/convolutional-multi-hybrids-for-edge-devices">Hyena Edge</a>, hybridní AI model s “konvoluční” architekturou. Tato technologie poskytuje rychlejší zpracování a vylepšené benchmarkové výsledky, překonávající základní modely založené na transformerech jak v oblasti výpočetní efektivity, tak v kvalitě modelu na edge hardwaru.</p>
+
+<h3 id="xai-grok-s-novými-funkcemi">xAI: Grok s novými funkcemi</h3>
+
+<p>xAI představilo <a href="https://www.grok.com">Grok Studio s dlouhodobou pamětí</a>, čili si můžete přát, aby si Grok o vás něco zapamatoval, třeba že vám má tykat. Platforma nabízí rozdělené rozhraní, kde mohou uživatelé vytvářet dokumenty, aplikace nebo hry. Důležitou funkcí je schopnost pamatovat si minulé konverzace, což činí systém chytřejším v průběhu času.</p>
+
+<p>Grok Vision byl spuštěn s výkonnými multimodálními funkcemi, které uživatelům umožňují namířit fotoaparát telefonu na objekty nebo prostředí a získat okamžitou analýzu v reálném čase. Spolu s tím byla přidána podpora zvuku v několika jazycích a funkce vyhledávání v reálném čase, což činí celý zážitek interaktivnějším a užitečnějším.</p>
+
+<p>Elon Musk oznámil, že vylepšený algoritmus X (Twitter) poháněný AI modelem Grok bude brzy k dispozici. Toto oznámení přišlo jako reakce na stížnost Paula Grahama ohledně zahlcení feedu X příspěvky od levicových nebo pravicových trollů.</p>
+
+<h3 id="google-gemini-25-flash">Google: Gemini 2.5 Flash</h3>
+
+<p>Google představil Gemini 2.5 Flash – rychlý, odlehčený AI model. Navzdory tomu, že je navržen pro rychlost a efektivitu, Gemini 2.5 Flash se v benchmarkových testech řadí na sdílené druhé místo. Jeho výkon je srovnatelný s top modely jako GPT-4.5 Preview a Grok-3, což dokazuje, že i lehčí modely mohou nyní soupeřit s těmi nejlepšími z hlediska kvality a uvažování. Jestli to tak skutečně bude i v praxi, tak se Google povedl hezký zásek.</p>
+
+<h3 id="anthropic-výzkumné-schopnosti-pro-claude">Anthropic: Výzkumné schopnosti pro Claude</h3>
+
+<p>Anthropic přidává “Autonomní výzkum” do svého modelu Claude. Ten nyní dokáže vyhledávat v Google Workspace, zpracovávat vícekrokové otázky a poskytovat odpovědi s řádnými zdroji. Systém zkoumá dotaz z různých úhlů, provádí výzkum a dodává odpovědi během několika minut, čímž poskytuje dobrý mix hloubky a rychlosti pro každodenní úkoly. Kromě toho přidal do iOS aplikace hlasového asistenta, který dělá ze Siri hloupoučkou nánu. Jmenuje se Perplexity Assistant a je nyní dostupný na iOS, dříve již byl na Androidu. Přichází nejen s hlasovým ovládáním, ale i s možností propojení s více aplikacemi. AI asistent nyní dokáže pomáhat s úkoly jako je rezervace večeře, objednávání jízd a nastavování připomenutí.</p>
+
+<h3 id="amazon-nova-sonic">Amazon: Nova Sonic</h3>
+
+<p>AWS představil Amazon Nova Sonic, špičkový základní model převodu řeči na řeč, navržený pro vylepšení interakcí se zákazníky a virtuálních asistentů. Umožňuje přirozenější, lidštější konverzace s AI, která chápe kontext a poskytuje bohatší odpovědi.</p>
+
+<h3 id="menší-ale-inovativní-hráči">Menší, ale inovativní hráči</h3>
+
+<p>Kling AI představil Kling 2.0 s vylepšenými funkcemi, včetně lepšího pochopení pokynů, vylepšeného pohybu postav pro plynulejší a přirozenější pohyb a Multi-Elements Editoru, který usnadňuje úpravu videí.</p>
+
+<p>Tavus představil nový, pokročilý lipsync model, který přináší bezkonkurenční realismus do vytváření videí ze zvuku. Model zajišťuje dokonalé pohyby rtů, které odpovídají zvuku, spolu s přirozenými výrazy obličeje, což činí videa mnohem realističtějšími.</p>
+
+<p>Nari Labs uvedla model Dia 1.6B s pozoruhodným emocionálním rozsahem a přirozeností, schopný smát se a dokonce kašlat. Model je dostupný na HuggingFace.</p>
+
+<p>Moonshot AI spustila Kimi-Audio, nový open-source univerzální audio model. Podporuje rozpoznávání řeči, převod zvuku na text a převod řeči na řeč. Model byl předtrénován na více než 13 milionech hodin zvukových dat a vyniká v více než 10 audio benchmarcích, včetně MMAU, VoiceBench a LibriSpeech.</p>
+
+<p>Dreamina AI představila Seedream 3.0, který se řadí na první místo v tvorbě fotorealistických obrázků s rozlišením až 2k. Dokáže také zvyšovat rozlišení, vyplňovat, rozšiřovat a dokonce generovat videa.</p>
+
+<p>Genspark představil AI Slides, nový nástroj, který mění způsob vytváření prezentací pomocí výkonného systému řízeného agenty. AI provádí výzkum témat, vytváří podpůrný vizuál včetně obrázků a grafů a dokáže transformovat různé typy dokumentů do profesionálně vypadajících prezentací.</p>
+
+<p>Canva uvedla Visual Suite 2.0 – své dosud největší spuštění. Nová sada přináší výkonné AI funkce, které umožňují vytvářet dokumenty, prezentace, webové stránky a další obsah, vše v rámci jednoho designu. Jedná se o nejvýznamnější vydání produktu společnosti od jejího založení.</p>
+
+<p>Microsoft vylepšil Copilot pomocí Studio, které nyní umožňuje vytvářet agenty, kteří mohou klikat a psát napříč desktopovými nebo webovými rozhraními. Kromě toho Vision v Edge nyní komentuje vše na obrazovce v reálném čase, což činí systém interaktivnějším a přístupnějším.</p>
+
+<h3 id="hrozba-ze-strany-číny-pro-americkou-dominanci">Hrozba ze strany Číny pro americkou dominanci</h3>
+
+<p>Čínský prezident Si Ťin-pching prohlásil soběstačnost v oblasti AI za národní prioritu a slíbil vládní podporu pro posílení vývoje AI čipů, softwaru a talentů uprostřed eskalujícího technologického soupeření s USA. Si načrtl přístup “nového celonárodního systému”, zaměřeného na vývoj špičkových čipů a softwaru a zároveň na zvýšení vzdělávání v oblasti AI a rozvoj talentů.</p>
+
+<p>Čínský výrobce čipů Huawei podle zpráv testuje nový pokročilý čip, který by měl nabídnout domácí alternativu k procesorům NVIDIA, které jsou v současnosti omezeny ze strany USA. Huawei chce, aby její nový čip Ascend 910D nahradil některé špičkové produkty od Nvidie. Nový čip je stále v raných fázích vývoje a bude vyžadovat testování, než bude moci být dodán zákazníkům. Huawei očekává, že první z těchto nových čipů dostane asi za měsíc a doufá, že čip bude výkonnější než Nvidia H100.</p>
+
+<p>Současně se šíří zvěsti o nadcházejícím vydání DeepSeek R2, s nižšími cenami a náklady na trénink a s využitím čipů Huawei místo NVIDIA.</p>
+
+<p>Kombinace potenciálního druhého “DeepSeek momentu” za rohem, domácích alternativ AI čipů, které činí americké exportní kontroly neúčinnými, a rychle se uzavírající mezery v modelech ukazuje, že Čína zintenzivňuje své úsilí o získání vedení v oblasti AI, přičemž dokazuje, že k úspěchu nepotřebuje americké čipy.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="OpenAI" /><summary type="html"><![CDATA[Pojďme se podívat na průlet novinkami v AI na druhou půlku dubna. A ano, máte pravdu, novinky se hromadí! Čínské společnosti představily nové konkurenty pro západní modely, OpenAI pokračuje v rozšiřování svého ekosystému, a i menší hráči přicházejí s inovativními technologiemi. Pojďme se podívat na nejdůležitější oznámení, která formují budoucnost umělé inteligence.]]></summary></entry><entry xml:lang="cs"><title type="html">Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou</title><link href="https://www.marigold.cz/item/meta-facebook-v-maleru/" rel="alternate" type="text/html" title="Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou" /><published>2025-04-19T00:00:00+00:00</published><updated>2025-04-19T00:00:00+00:00</updated><id>https://www.marigold.cz/item/meta-facebook-v-maleru</id><content type="html" xml:base="https://www.marigold.cz/item/meta-facebook-v-maleru/"><![CDATA[<p>Meta (Facebook) lítá ve slušném maléru. Sarah Wynn Williamsová, bývalá ředitelka globální veřejné politiky Facebooku (nyní Meta), vystoupila před Soudním výborem Senátu USA s odhaleními o tom, jak společnost Meta tajně obchodovala s Čínou, lhala Kongresu a porušovala zákony i etické standardy ve snaze o zisk a moc. Meta se snaží Williamsovou umlčet soudy a pokutami a tvrdí, že jde o zhrzenou mstící se manažerku. Jenže náznaků o tom, že v Číně se Meta chová “čínsky”, už je celá řada. Slyšení vedl senátor Josh Hawley, který zdůraznil, že “toto je slyšení, kterému se Facebook zoufale snažil zabránit.”</p>
 
 <p>Williamsová během slyšení explicitně zmínila, že Meta získala právní příkaz k mlčení, který je “tak rozsáhlý, že jí zakazuje mluvit s členy Kongresu”. Také uvedla, že společnost Meta vyhrožuje pokutou 50 000 dolarů za každé “urážlivé” vyjádření o společnosti, i když by toto vyjádření bylo pravdivé. Meta by skutečně mohla usilovat o finanční sankce vůči Williamsové za její vystoupení před Kongresem, i když je takové jednání ze strany Mety v přímém rozporu s právem občanů svědčit před zákonodárnými orgány.</p>
 
@@ -2677,138 +2770,4 @@ Možnosti obousměrné komunikace mezi mozkem a stroji jsou neomezené, aby bylo
 
 <p>Existuje budoucnost, ve které mohou generativní umělá inteligence a lidská kreativita koexistovat - nejen v míru, ale i v symbióze. Začátek byl těžký, ale ještě není pozdě změnit směr.</p>
 
-<p>Děkuji za pozornost.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="kreativita" /><category term="projev" /><summary type="html"><![CDATA[Toto je přepis a překlad přednášky Eda Newton-Rexe s názvem Jak modely umělé inteligence kradou tvůrčí práci - a co s tím? z konference TEDx v říjnu 2024.]]></summary></entry><entry xml:lang="cs"><title type="html">Victor Riparbelli - Stane se z nás poslední generace, která bude umět číst a psát? (přepis přednášky)</title><link href="https://www.marigold.cz/item/victor-riparbelli-will-AI-make-us-the-last-generation-to-read-write/" rel="alternate" type="text/html" title="Victor Riparbelli - Stane se z nás poslední generace, která bude umět číst a psát? (přepis přednášky)" /><published>2025-03-01T00:00:00+00:00</published><updated>2025-03-01T00:00:00+00:00</updated><id>https://www.marigold.cz/item/victor-riparbelli-will-AI-make-us-the-last-generation-to-read-write</id><content type="html" xml:base="https://www.marigold.cz/item/victor-riparbelli-will-AI-make-us-the-last-generation-to-read-write/"><![CDATA[<p>Přepis přednášky podnikatele Victora Riparbelliho s názvem <a href="https://www.ted.com/talks/victor_riparbelli_will_ai_make_us_the_last_generation_to_read_and_write">„Will AI Make Us the Last Generation to Read and Write?“</a> na konferenci TED Talk 19. října 2024.</p>
-
-<p>Přednáška se zabývá tím, jak by umělá inteligence mohla změnit lidskou komunikaci a potenciálně učinit tradiční gramotnost pro budoucí generace zastaralou.</p>
-
-<p>Kdo je <a href="https://www.linkedin.com/in/victorriparbelli/">Victor Riparbelli</a>? Zakladatel a CEO významné firmy podnikající v AI Synthesia.ai a jeden z nejvlivnějších lidí v oblasti AI.</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6wCml0g2mRE?si=gqTw88NXx4A6vAod" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-
-<h3 id="konec-čtení-a-psaní-jak-je-známe">Konec čtení a psaní, jak je známe</h3>
-<p>VICTOR RIPARBELLI: Vaši vnuci budou poslední generací, která bude číst a psát. Vím, že to zní divně, téměř nemyslitelně. Text je všude kolem nás. Používáme ho stokrát denně a prorůstá do struktury našeho každodenního života. Ale dnes budu tvrdit, že neúnavná snaha lidstva o lepší způsoby předávání myšlenek a uchovávání znalostí nekončí u textu.</p>
-
-<p>Myslím, že stojíme na úsvitu nové éry komunikace s využitím umělé inteligence. A myslím si, že budoucí generace budou text pomalu nahrazovat intuitivnějšími formami komunikace, jako je zvuk, video a nakonec i imerzivní technologie. A myslím, že jednoho dne se budeme na čtení a psaní dívat jako na historické artefakty, podobně jako na papyrové svitky, hieroglyfy nebo jeskynní malby.</p>
-
-<p>Nechápejte mě špatně, já čtu rád. To není osobní msta vůči textu. K mým nejmilejším vzpomínkám patří procházky po místní knihovně v Kodani, kterou tady vidíte za mnou, vybírání nejrůznějších knih, většinou sci-fi, vracení se domů, abych si je přečetl a mohl se tam zase vrátit a vybrat si další sadu vzrušujících knih ke čtení. Rád jsem se ztrácel v těchto světech, které byly jiné než fyzický svět kolem mě.</p>
-
-<h3 id="internet-všechno-změnil">Internet všechno změnil</h3>
-
-<p>A to se samozřejmě jen umocnilo, když jsem asi v deseti letech objevil internet, který mi otevřel zcela nový svět myšlenek, hudby a lidí. Informace na internetu však byly zdarma a já na vlastní oči viděl, jak technologie nezměnila jen distribuci obsahu, ale i obsah samotný. Rozdíl mezi živým fórem a knihou je obrovský, že? Blog a noviny a tak dále.</p>
-
-<p>V hudbě, která je mou velkou mimopracovní vášní, jsem viděl, jak softwarové nástroje, samplování a bicí automaty daly vzniknout zcela novým žánrům, které předtím nebyly možné. A nejen to, všichni lidé na celém světě, kteří vytvářeli novou, vzrušující hudbu, se o ni mohli podělit se světem bez prostředníků v podobě vydavatelství.</p>
-
-<p>Videohry, které jsem hrál, se připojily k internetu. Vytvářeli jste komunity s lidmi z celého světa, které jste neznali. Alespoň tak si to mysleli moji rodiče. Svůj první podnik jsem založil ve třinácti letech ve hře World of Warcraft. Bylo nás 50 lidí, kteří jsme společně zabíjeli draky online, a později jsem v životě zjistil, že to vlastně není tak odlišné od vedení startupu.</p>
-
-<h3 id="od-her-k-umělé-inteligenci">Od her k umělé inteligenci</h3>
-
-<p>A právě tyto první roky mého života podnítily můj celoživotní zájem o média a technologie, o to, jak mění způsob, jakým tvoříme, konzumujeme, hrajeme a komunikujeme. A v roce 2016 jsem objevil výzkumnou práci s názvem Face-to-Face od profesora Matthiase Miesnera a jeho týmu. Sestrojili systém, který pomocí neuronových sítí dokázal vytvořit opravdu, ale opravdu fotorealistické video.</p>
-
-<p>A když jsem to viděl poprvé, měl jsem pocit, že jsem viděl kouzlo. A byl jsem přesvědčen, že za deset let budete moci vytvořit hollywoodský film ze své ložnice, aniž byste potřebovali cokoli jiného než jen svou představivost. To bude za tři roky a myslím, že to skutečně vydrží.</p>
-
-<p>Nemohl jsem tuhle myšlenku dostat z hlavy a nakonec jsem spolu s Matthiasem a Ludusem a Steffenem, mými spoluzakladateli, založil společnost Synthesia, která se zabývá umělou inteligencí ve videu. A to byl opravdu způsob, jak skloubit můj zájem o média, technologie a sci-fi. Společnost jsme založili s vizí, že z každého člověka na světě uděláme hollywoodského režiséra.</p>
-
-<p>A i když je to rozhodně stále velmi vzrušující vize, postupem času jsme si uvědomili, že jakkoli jsou hollywoodské filmy generované umělou inteligencí vzrušující, je to jen špička ledovce. Skutečně vzrušující potenciál těchto technologií spočívá v tom, že umožní oživit ve videu a zvuku každý jednotlivý obsah, od textových zpráv přes romány až po nudné firemní školicí materiály.</p>
-
-<h3 id="vývoj-lidské-komunikace">Vývoj lidské komunikace</h3>
-
-<p>Než si však povíme více o videu, pojďme si povědět něco o textu. Text je původním způsobem komprese lidské komunikace. Své myšlenky a znalosti kódujeme do symbolů, které mohou přenášet význam napříč časem a prostorem. Nebylo tomu tak vždy. Před tisíci lety text neexistoval a jediným způsobem, jak sdílet informace, byla ústní komunikace.</p>
-
-<p>V roce 1500 př. n. l. byla vynalezena první abeceda, která v podstatě převzala tyto velmi složité systémy psaní a zjednodušila je na pouhých několik znaků, čímž položila základy moderní společnosti, kterou známe dnes. V roce 1440 vynalezl Gutenberg knihtisk a poprvé v historii jsme mohli masově produkovat psaný obsah. Trvalo až do poloviny 20. století, než se čtení stalo masovou záležitostí a lidé se pomalu stávali gramotnými.</p>
-
-<h3 id="omezení-textu">Omezení textu</h3>
-
-<p>Pokud se přesuneme do dnešní doby, text je všudypřítomný a žít život bez schopnosti číst a psát je nemožné. Ale jakkoli je text skvělý, je to nedokonalá technologie. Je velmi efektivní a škálovatelná. Ale je to velmi, velmi ztrátová metoda komprese informací. Postrádá všechny nuance a dodatečné informace, které získáme, když s někým mluvíme v reálném životě. Váš tón hlasu, řeč těla, místo, kde se nacházíte, všechny tyto věci jsou pro toto sdělení důležité, že?</p>
-
-<p>Text lze interpretovat milionem různých způsobů v závislosti na příjemci. Je to dobrá, nebo špatná zpráva? To je velmi těžké říct, že? Ale vynalezli jsme emotikony, abychom to trochu vylepšili. Ale ani emodži nejsou dokonalé. Lidé stále diskutují o tom, zda je tento smajlík šťastný. Je snad naštvaný? Chystá se vás zabít? Debata pokračuje.</p>
-
-<h3 id="síla-vizuální-komunikace">Síla vizuální komunikace</h3>
-
-<p>A když se zamyslíte nad vizuální komunikací, tohle je obrázek. Všem vám trvalo pár vteřin, než jste se na tento obrázek podívali a pochopili ho, že? Je to velmi intuitivní způsob konzumace informací. Co kdybych se s vámi místo toho podělil o tento textový popis obrázku? Trvalo by vám 30 sekund, než byste si ho přečetli? Vysoké kognitivní zatížení, abyste tyto kousky symbolů vzali a v mysli z nich vytvořili obraz, že? A i kdybych vám dal 30 stránek popisu, vždycky byste si představili jiný obraz, než jaký právě teď vidíte za mnou.</p>
-
-<p>Jakmile přidáme časový rozměr, jako je tomu u videa, tento problém se masivně prohloubí. Není tedy až tak zvláštní, že od vynálezu textu inovujeme směrem k bohatším a intuitivnějším způsobům výměny informací. Vynalezli jsme rádio, televizi, internet, VR, sociální média a nyní umělou inteligenci.</p>
-
-<h3 id="vzestup-videa-a-zvuku">Vzestup videa a zvuku</h3>
-
-<p>V roce 2024 je zcela zřejmé, že se lidé chtějí dívat a poslouchat. Pokud se podíváte na digitální ekonomiku, nejrychleji rostoucí sociální sítí je TikTok. Je také nejrychleji rostoucím vyhledávačem, což je velmi zajímavé. Video a zvuk jsou všude v aplikacích, které používáme. V aplikaci WhatsApp posíláme hlasové poznámky. Nyní jsme v seznamovacích aplikacích. Když nakupujeme, sledujeme produktová videa.</p>
-
-<p>A moje teze je, že čím více konzumujeme video, tím více nás nudí text. A musím říct, že to platí i pro mě, přestože rád čtu. Když se učím něco nového, obvykle začnu na YouTube, na TikToku nebo poslouchám podcast. A jen když mě něco opravdu, ale opravdu zajímá, tak si udělám hodiny času na to, abych si přečetla dvousetstránkovou knihu. Už mi to prostě tolik nestojí za to.</p>
-
-<p>A mnozí z vás to nejspíš cítí stejně. Chcete se učit hudební teorii z dlouhé knihy, nebo z videa na YouTube, které má zvuk? Chcete cestou do práce poslouchat zprávy v podcastu nebo si někde složit ten fyzický list papíru? Většina lidí to tak cítí.</p>
-
-<h3 id="vina-moderní-konzumace-médií">Vina moderní konzumace médií</h3>
-
-<p>Všichni však máme tento pocit viny. Alespoň já ji mám. Cítím se provinile, když se dívám na videa a když poslouchám podcasty, místo abych vzal do ruky starou dobrou knihu. Když k tomu slyšíte komentáře, mladí lidé se už nedokážou soustředit. Potřebují neustálé dávky dopaminu z laciného obsahu, který projíždějí v aplikacích na sociálních sítích. Už nevycházejí ze svého pokoje. Přesně to samé říkají rodiče už 200 let.</p>
-
-<p>Mám jeden výsadní nápad. Co když jsme všichni jen unavení z příliš hutných a pomalých informací? Knihy s příliš mnoha stránkami. Novinové články s výplní. Co když začneme být mnohem citlivější na kvalitu a stručnost obsahu, který konzumujeme, protože nyní máme nekonečný výběr? Co když se současná generace dětí dokáže učit a vstřebávat informace mnohem rychleji díky technologiím, ne jim navzdory? Je problém v nás, nebo v textu?</p>
-
-<p>Stále ještě hodně čteme, že? Jen čteme každý den z mnoha různých zdrojů, nejen z knihy a novin. Čteme v aplikacích pro zasílání zpráv a na sociálních sítích.</p>
-
-<p>A náš blog. Posloucháme dlouhé podcasty. Velmi se to rozrůstá, že? Ale stále máme představu, že knihy jsou v jistém smyslu morálně nadřazené. A i když vám přednáším, stále to velmi silně pociťuji. Nevím, proč tomu tak je. Nechám to na někom jiném, aby to prozkoumal. Ale rozhodně je velmi zajímavé, jak psychologicky přisuzujeme větší hodnotu psanému slovu.</p>
-
-<h3 id="ekonomika-tvorby-obsahu">Ekonomika tvorby obsahu</h3>
-
-<p>Proč je tedy tolik informací stále textových, když ve skutečnosti dáváme přednost videu? Je to docela jednoduché. Odpovědí jsou náklady. Náklady v čase a náklady v penězích. Dnes si musíme vybrat mezi rychlostí a rozsahem textu nebo přesností a angažovaností videoobsahu.</p>
-
-<p>A tak je zde základní ekonomická motivace, kdy se do video a audio formátů převádí pouze obsah a myšlenky a znalosti, které považujeme za dostatečně důležité. A tak to v zábavním průmyslu znamená, že dostáváme spíše Rychle a zběsile 278 než avantgardní filmy od studentů filmových škol. Ve firemním světě to znamená, že reklama na Super Bowl je video, ale video o požární bezpečnosti je dlouhý, nudný dokument.</p>
-
-<h3 id="jak-umělá-inteligence-změní-tvorbu-obsahu">Jak umělá inteligence změní tvorbu obsahu</h3>
-<p>A to se brzy změní ve velkém, velkém stylu. Umělá inteligence tuto rovnici zcela změní. Díky AI můžeme získat jak rychlost, tak rozsah, přesnost a angažovanost. AI dokáže digitálně vytvářet vysoce fotorealistický obsah. Počítače se mohou naučit, jak vypadá svět, a mohou ho replikovat a remixovat do úžasných detailů.</p>
-
-<p>Tím se spustí nová vlna kreativity. A nebude řízena Hollywoodem. Budou ji pohánět youtubeři a mladí lidé se skvělými nápady, kteří tyto nástroje využijí a budou vyprávět úžasné příběhy.</p>
-
-<h3 id="avataři-s-umělou-inteligencí-a-digitální-lidé">Avataři s umělou inteligencí a digitální lidé</h3>
-
-<p>Ve společnosti Cynthesia se zaměřujeme na avatary AI, digitální lidi, kteří zní a vypadají jako my. Mohou být dokonce námi, pokud si vytvoříte svůj klon. Dnes už naši avataři komunikují s miliony lidí každý den. Učí školní předměty, nastupují do restaurací, poskytují zdravotní poradenství a prodávají produkty ve více než 130 různých jazycích. A začínají být opravdu dobří. Velmi brzy je bude velmi obtížné odlišit od reality.</p>
-
-<p>„Dobrý den. Jsem Alex, osobní avatar. Jsem tak nadšený a šťastný, že jsem tady. Vidíte, jak výrazný jsem a slyšíte, jak přirozeně zním? Není to skvělé? Zatím se měj. Doufám, že se brzy uvidíme.“</p>
-
-<p>Toto video je kompletně vytvořeno umělou inteligencí. Já jsem Alex. Stále neví, kdy přestat mluvit.</p>
-
-<p>S těmito technologiemi tedy můžeme vytvořit cokoli, aniž bychom potřebovali kamery. Můžeme přivést k životu své představy bez tradičních bariér v podobě dovedností a nákladů.</p>
-
-<h3 id="demokratizace-tvorby-videa">Demokratizace tvorby videa</h3>
-
-<p>Co je však na všech těchto nových technologiích ještě zajímavější, je to, že díky nim bude vytváření obsahu nesmírně snadné pro kohokoli. Už jsme viděli, jak klávesnice a počítače z nás všech udělaly spisovatele. Viděli jsme, jak PowerPoint z nás všech udělal designéry. A s umělou inteligencí se každý bude moci stát režisérem a vytvářet videa hollywoodské kvality, aniž by k tomu potřeboval jakékoli školení, jako to vidíte tady za mnou.</p>
-
-<p>V Zendidě jsme už z více než milionu lidí udělali tvůrce videí a je opravdu zábavné sledovat, o čem všem lidé natáčejí videa, ale nemusí se ptát svého šéfa, protože se prostě mohou přihlásit a natáčet videa sami.</p>
-
-<h3 id="výzkum-preferencí-při-učení">Výzkum preferencí při učení</h3>
-
-<p>Proč lidé natáčejí videa? Zatím to není příliš prozkoumaná oblast, ale spolupracujeme s UCL v Londýně, abychom zjistili, jak se učíme jinak s videem a videem s umělou inteligencí než s textem. Provedli jsme studii se 400 účastníky. Stále probíhá. Výsledky plánujeme zveřejnit někdy v příštím roce, ale máme opravdu zajímavé první poznatky.</p>
-
-<p>Když se lidí prostě zeptáte, zda se raději učíte pomocí videa s umělou inteligencí, nebo pomocí textu, výsledky jsou docela překvapivé. Až 77 % lidí se raději učí prostřednictvím videa.</p>
-
-<h3 id="mimo-tradiční-mediální-formáty">Mimo tradiční mediální formáty</h3>
-
-<p>Rychlejší a jednodušší tvorba obsahu tak bude mít transformační význam. Ale s novými technologiemi vždy vymýšlíme nové mediální formáty. A právě teď je většina obsahu vytvářeného umělou inteligencí tím, čemu říkám překlenovací žánr. Používáme ho k vytváření starých formátů pomocí nových technologií.
-Stejně jako první webové stránky vypadaly jako noviny na obrazovce, jsou dnes videa s umělou inteligencí lineární. Mají začátek a konec. V podstatě napodobují to, co můžeme zaznamenat fyzickou kamerou.</p>
-
-<p>Jakmile zkombinujeme AI videa s uvažovacími systémy, jako jsou jazykové modely, odemkneme zcela nový typ médií, která budou interaktivní a personalizovaná. Budou schopna přemýšlet, vyprávět a personalizovat obsah za nás.</p>
-
-<h3 id="budoucnost-personalizovaného-učení-a-zábavy">Budoucnost personalizovaného učení a zábavy</h3>
-
-<p>Pokud se učíte hudební teorii, budete mít k dispozici asistenta, který zná úroveň vašich dovedností, zná váš hudební vkus a podle toho sestaví učební plán. Všechny vaše děti možná budeme mít ve škole jejich oblíbené celebrity, které je budou učit matematiku. A budou to dělat v kontextu, který je pro vaše dítě zajímavý. Třeba to bude fotbal nebo sci-fi nebo cokoli jiného. Vzdělávání bude díky těmto novým systémům umělé inteligence nabitější.
-Zábava se změní. Bude se utvářet podle diváků a okolního světa.</p>
-
-<p>Pravděpodobně budeme mít interaktivní filmy. Budeme mít televizní seriály, které nikdy neskončí. Zní to divně, ale v mnoha ohledech je právě tohle kanál sociálních médií, že? Je to prostě konec příběhu. Váš kanál TikTok je také nekonečný proud personalizovaného obsahu určeného právě pro vás.</p>
-
-<p>A když to zkombinujeme s novými formami, jako je rozšířená realita, virtuální realita, rozhraní mozek-počítač, budou se média stále více podobat skutečnému životu. Možná budeme v budoucnu předávat zprávy svým přátelům jen prostřednictvím myšlenek. A naše schránka nebude textová. Budou to videa všech vašich přátel a avatarů vašich příbuzných s umělou inteligencí, kteří s vámi budou mluvit. Zní to divně, ale myslím, že to není tak daleko. A slibuji vám, že vaše video o požární bezpečnosti v práci bude v nedaleké budoucnosti spielbergovským mistrovským dílem.</p>
-
-<h3 id="etické-a-filozofické-otázky">Etické a filozofické otázky</h3>
-
-<p>Tyto technologie otevírají Pandořinu skříňku otázek. Jsou tu otázky etické, politické, designové i komerční. A v těchto otázkách se dnes mnoho řečníků podělilo o skvělé názory.</p>
-
-<p>Nechám vás tu s několika provokativními otázkami. Záleží vám na tom, zda je náš obsah generován umělou inteligencí, nebo ne? Záleží vám na tom, když se ve filmu používají speciální efekty nebo zelené plátno? Není nám jedno, že herci v reklamách jsou placeni za to, aby hráli někoho jiného a propagovali produkty, o kterých pravděpodobně nikdy neslyšeli?</p>
-
-<p>Záleží nám na tom, zda jsou herci skuteční, nebo generovaní? Jste fanoušky Harryho Pottera nebo Daniela Radcliffa? Záleží na tom, že Daniel Radcliffe existuje ve skutečném světě? Pravděpodobně se s ním nikdy nesetkáte, že? A co Mickey Mouse nebo postavičky z Pixaru? Můžeme k nim něco cítit, přestože jsou vytvořeny umělou inteligencí?</p>
-
-<p>Budeme důvěřovat agentům s umělou inteligencí, nebo budete stále chtít zavolat do call centra a mluvit s člověkem? Mohou nás bavit počítače, které spolu komunikují? Chtěli byste hrát s počítači, hrát fotbal nebo šachy proti sobě? Možná ne.</p>
-
-<h3 id="závěr">Závěr</h3>
-
-<p>Budoucnost je před námi, a i když mnohé z toho zní jako sci-fi, ve skutečnosti není tak daleko. A je na nás všech v této místnosti a ve společnosti, abychom se postarali o to, že vybudujeme opravdu úžasnou budoucnost. Myslím, že na to máme technologie a myslím, že na to máme lidi.</p>
-
-<p>Děkuji vám.</p>
-
-<p><strong>Poznámka na závěr:</strong> nesouhlasím s Riparbellim, že by uživatelé plošně dávali přednost videoobsahu. Videoobsah je velmi řídké médium, poměr informací k nutné délce konzumace je nevýhodný oproti psanému textu. Pro náročnější informace je psaný text stále výhodnější, než video, video se hodí pro povrchnější informovanost. Což ale neznamená, že nesouhlasím v hlavní myšlence, že video se začne stávat stále významnějším způsobem informovanosti…</p>]]></content><author><name>Patrick Zandl</name></author><category term="Videoobsah" /><category term="AI" /><category term="projev" /><summary type="html"><![CDATA[Přepis přednášky podnikatele Victora Riparbelliho s názvem „Will AI Make Us the Last Generation to Read and Write?“ na konferenci TED Talk 19. října 2024.]]></summary></entry></feed>
+<p>Děkuji za pozornost.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="kreativita" /><category term="projev" /><summary type="html"><![CDATA[Toto je přepis a překlad přednášky Eda Newton-Rexe s názvem Jak modely umělé inteligence kradou tvůrčí práci - a co s tím? z konference TEDx v říjnu 2024.]]></summary></entry></feed>
