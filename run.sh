@@ -13,15 +13,15 @@ echo -e "${GREEN}=========================================${NC}"
 # Kontrola a instalace závislostí Python
 echo -e "${YELLOW}Kontrola a instalace Python závislostí...${NC}"
 
-# Seznam potřebných balíčků a jejich importních názvů
-declare -A PACKAGES=(
-    ["PyYAML"]="yaml"
-    ["python-frontmatter"]="frontmatter"
-    ["requests"]="requests"
-    ["openai"]="openai"
-    ["python-dotenv"]="dotenv"
-    ["pathlib"]="pathlib"
-    ["regex"]="regex"
+# Seznam potřebných balíčků a jejich importních názvů (jako pole)
+PACKAGES=(
+    "PyYAML:yaml"
+    "python-frontmatter:frontmatter"
+    "requests:requests"
+    "openai:openai"
+    "python-dotenv:dotenv"
+    "pathlib:pathlib"
+    "regex:regex"
 )
 
 # Kontrola, zda jsme ve virtuálním prostředí
@@ -29,7 +29,9 @@ if [ -n "$VIRTUAL_ENV" ]; then
     echo -e "${YELLOW}Detekováno aktivní virtuální prostředí: $VIRTUAL_ENV${NC}"
     echo -e "${YELLOW}Instaluji balíčky do virtuálního prostředí...${NC}"
     pip install --upgrade pip
-    pip install "${!PACKAGES[@]}"
+    for pkg in "${PACKAGES[@]}"; do
+        pip install "${pkg%%:*}"
+    done
 else
     # Vytvoříme a aktivujeme virtuální prostředí
     echo -e "${YELLOW}Vytvářím virtuální prostředí Python...${NC}"
@@ -50,15 +52,18 @@ else
     # Instalace balíčků ve virtuálním prostředí
     echo -e "${YELLOW}Instaluji balíčky ve virtuálním prostředí...${NC}"
     pip install --upgrade pip
-    pip install "${!PACKAGES[@]}"
+    for pkg in "${PACKAGES[@]}"; do
+        pip install "${pkg%%:*}"
+    done
 fi
 
 # Kontrola instalace balíčků
 echo -e "${YELLOW}Kontroluji instalaci balíčků...${NC}"
-for pkg in "${!PACKAGES[@]}"; do
-    import_name="${PACKAGES[$pkg]}"
+for pkg in "${PACKAGES[@]}"; do
+    pkg_name="${pkg%%:*}"
+    import_name="${pkg##*:}"
     if ! python3 -c "import ${import_name}" 2>/dev/null; then
-        echo -e "${RED}Chyba: Balíček ${pkg} (import: ${import_name}) se nepodařilo nainstalovat!${NC}"
+        echo -e "${RED}Chyba: Balíček ${pkg_name} (import: ${import_name}) se nepodařilo nainstalovat!${NC}"
         exit 1
     fi
 done
