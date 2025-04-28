@@ -72,7 +72,7 @@ Williamsová také odhalila, jak Facebook sdílel své technologické know-how s
 
 "Meta začala informovat Čínskou komunistickou stranu již v roce 2015. Tyto brífinky se zaměřovaly na kritické nově vznikající technologie, včetně umělé inteligence. Explicitním cílem bylo pomoci Číně překonat americké společnosti."
 
-Williamsová dodala: "Existuje přímá linie, kterou můžete nakreslit od těchto briefingů k nedávným odhalením, že Čína vyvíjí modely AI pro vojenské použití, spoléhající se na model Mety Llama." Williamsová zdůraznila, že model DeepSeek je částečně založen na AI modelu Mety Llama. Tedy je ovšem třeba říct, že ten jen open-source a může jej využít kdokoliv, podle Williamsové ale technici Mety sdíleli s Čínou svoje interní know-how.
+Williamsová dodala: "Existuje přímá linie, kterou můžete nakreslit od těchto briefingů k nedávným odhalením, že Čína vyvíjí modely AI pro vojenské použití, spoléhající se na model Mety Llama." Williamsová zdůraznila, že model [DeepSeek](/item/deepseek/) je částečně založen na AI modelu Mety Llama. Tedy je ovšem třeba říct, že ten jen open-source a může jej využít kdokoliv, podle Williamsové ale technici Mety sdíleli s Čínou svoje interní know-how.
 
 Na otázku senátora Grassleyho, proč by Meta chtěla pomáhat Číně s umělou inteligencí, Williamsová uvedla: "Viděli, řekla bych, že část hodnotové propozice, kterou by mohli poskytnout Čínské komunistické straně, byla jejich schopnost pomoci čínským úředníkům. Takže výslovně, a byla bych ráda, kdybych vám mohla poskytnout dokumentaci, vyjmenovávali americké firmy. Říkali: 'Můžeme pomoci, můžeme vám pomoci. Čína nemusí spoléhat na firmy jako Cisco nebo IBM, protože my vám můžeme pomoci s technickou odborností.'"
 

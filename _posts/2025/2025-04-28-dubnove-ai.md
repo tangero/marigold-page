@@ -24,7 +24,7 @@ Pojďme se podívat na průlet novinkami v AI na druhou půlku dubna. A ano, má
 
 ### Baidu: Cenově dostupné "Turbo" modely
 
-Čínský technologický gigant Baidu vstupuje do přímé konkurence s OpenAI a DeepSeek prostřednictvím svých nových cenově výhodných modelů ERNIE 4.5 Turbo a ERNIE X1 Turbo.
+Čínský technologický gigant Baidu vstupuje do přímé konkurence s OpenAI a [DeepSeek](/item/deepseek/) prostřednictvím svých nových cenově výhodných modelů ERNIE 4.5 Turbo a ERNIE X1 Turbo.
 
 ERNIE 4.5 Turbo nabízí pokročilé multimodální schopnosti za pouhých 11 centů a 44 centů za milion vstupních/výstupních tokenů, což představuje pouhých 0,2 % ceny GPT-4.5. Model vyniká rychlostí, logickým uvažováním, redukcí halucinací a programovacími schopnostmi. Podle benchmarků obstojí ve srovnání s GPT-4.1 a v některých měřeních dokonce překonává GPT-4o.
 
