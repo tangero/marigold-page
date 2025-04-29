@@ -6,13 +6,28 @@ categories:
 - Energetika
 - Green Deal
 layout: post
-post_excerpt: Ve Španělsku a Portugalsku proběhl blackout energetické sítě. Všechno stálo. Co se stalo?
+post_excerpt: Ve Španělsku a Portugalsku proběhl blackout energetické sítě. Všechno
+  stálo. Co se stalo?
+summary_points:
+- Extrémní teploty způsobily kmitání 400 kV vedení v centrálním Španělsku.
+- Iberský poloostrov se oddělil od kontinentální sítě kvůli kaskádovému odpojení linek.
+- Frekvence v izolované síti klesla pod 49 Hz, což vedlo k blackoutu Španělska a Portugalska.
+- Zbytek Evropy zaznamenal pokles frekvence jen o 0,15 Hz díky rychlé regulaci.
+- Provozovatelé sítí vyšetřují příčiny, zatím bez důkazů o kybernetickém útoku.
+- Vysoký podíl solární a větrné energie urychlil pád frekvence po izolaci sítě.
+- Obnova dodávek probíhá postupně, hlavní uzly jsou již pod napětím.
+- Francie a Německo nabídly pomoc s mobilními bateriemi a plynovými turbínami.
+- Konspirační teorie o ruském útoku nebo Green Dealu nejsou potvrzeny.
+- Nízká setrvačnost sítě zhoršila dopad náhlé ztráty 10–15 GW výkonu.
+- Doprava a telekomunikace byly výrazně narušeny, evakuováno 35 000 cestujících.
+- Ceny elektřiny se stabilizovaly, problém byl v přenosu, ne v nedostatku výroby.
 thumbnail: https://www.marigold.cz/assets/hz-net.png
-title: Byl španělský blackout dílo teroristů či Green Dealu? 
+title: Byl španělský blackout dílo teroristů či Green Dealu?
 ---
 
+Podle provozovatelů REE a REN došlo v 11:33 WES-T k „el cero“ – úplnému výpadku energetické soustavy na Pyrenejském poloostrově. Extrémní teploty v centrálním Španělsku způsobily neobvyklé kmitání 400 kV vedení. Ochrany postupně odpojily více linek a generátorů, až se Pyrenejský poloostrov oddělil ("islandoval", přešel do ostrovního provozu) od zbytku kontinentální sítě.
 
-Podle provozovatelů REE a REN došlo v 11:33 WES-T k „el cero“ – úplnému výpadku energetické soustavy na Pyrenejském poloostrově. Extrémní teploty v centrálním Španělsku způsobily neobvyklé kmitání 400 kV vedení. Ochrany postupně odpojily více linek a generátorů, až se Iberský ostrov oddělil ("islandoval", přešel do ostrovního provozu) od zbytku kontinentální sítě. V izolované oblasti pak frekvence klesla ještě hlouběji, část elektráren se odpojila a následovalo masivní zatmění (blackout) Španělska, Portugalska a části jihozápadní Francie.  ￼
+V izolované oblasti pak frekvence klesla ještě hlouběji, část elektráren se odpojila a následovalo masivní zatmění (blackout) Španělska, Portugalska a části jihozápadní Francie.  ￼
 
 ### ⚡️ Blackout: co se 28. 4. 2025 stalo ve Španělsku a Portugalsku?
 
@@ -83,6 +98,3 @@ Na závěry je brzy. Terorismu nenasvědčuje zatím nic. Ani tomu neruskému (t
 A ten Green Deal? Jistě, kdyby měla pyrenejská síť více točivých zdrojů, mohla dopadnout nějak lépe - jak moc, to se teprve nasimuluje. Ale kdyby měla balanční zdroje, jako jsou baterie, také by to ustála jinak. Na slunném jihu dávají FTV a větrníky velký smysl z hlediska produkčních cen a místní operátoři byli dlouhodobě upozorňováni na to, že tomu musí svoji síť přizpůsobit. Green Deal s nedodržením zásad diverzifikace nemá mnoho společného. 
 
 Elektřina už prakticky všude svítí, ale skutečná „detektivka“ právě teď začíná.  Podrobné záznamy z ochran a phasor PMU teprve ukážou, zda vedla řetěz selhání opravdu kombinace „rozkmitaných“ pyrenejských linek a nízké setrvačnosti, nebo se v poslední chvíli přidalo ještě něco dalšího.
-    
-
- 
