@@ -21,7 +21,7 @@ summary_points:
 - Nízká setrvačnost sítě zhoršila dopad náhlé ztráty 10–15 GW výkonu.
 - Doprava a telekomunikace byly výrazně narušeny, evakuováno 35 000 cestujících.
 - Ceny elektřiny se stabilizovaly, problém byl v přenosu, ne v nedostatku výroby.
-thumbnail: https://www.marigold.cz/assets/hz-net.png
+thumbnail: https://www.marigold.cz/assets/putin-jistic.jpg
 title: Byl španělský blackout dílo teroristů či Green Dealu?
 ---
 
@@ -94,6 +94,10 @@ Co se děje teď?
 Takže závěr? 
 
 Na závěry je brzy. Terorismu nenasvědčuje zatím nic. Ani tomu neruskému (to už by se někdo hlásil s požadavky), ani tomu ruskému (to už by Rusko nabízelo pomoc). Jenže to je také první rychlý pohled a mohlo to jistě být jinak. Logy nelžou, ale mohl je někdo uklidit. Ostatně, konspirátoři předpokládají, že teroristé po sobě poprvé pořádně uklidili stopy (což Rusové nedělají, proč někoho terorizovat, když není jasné, kdo vám dal přes pusu). 
+
+Přesto vám sem jeden ilustrační obrázek dám 😎
+
+![Putin si hraje s jističem](/assets/putin-jistic.jpg)
 
 A ten Green Deal? Jistě, kdyby měla pyrenejská síť více točivých zdrojů, mohla dopadnout nějak lépe - jak moc, to se teprve nasimuluje. Ale kdyby měla balanční zdroje, jako jsou baterie, také by to ustála jinak. Na slunném jihu dávají FTV a větrníky velký smysl z hlediska produkčních cen a místní operátoři byli dlouhodobě upozorňováni na to, že tomu musí svoji síť přizpůsobit. Green Deal s nedodržením zásad diverzifikace nemá mnoho společného. 
 
