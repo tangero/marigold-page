@@ -21,7 +21,7 @@ summary_points:
 - Doprava a telekomunikace byly výrazně narušeny, evakuováno 35 000 cestujících.
 - Ceny elektřiny se stabilizovaly, problém byl v přenosu, ne v nedostatku výroby.
 thumbnail: https://www.marigold.cz/assets/putin-jistic.jpg
-title: Byl španělský blackout dílo teroristů či Green Dealu? (update 1.5.)
+title: ⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 1.5.)
 ---
 
 Za včerejšek mnoho novinek nebylo. Všichni zúčastnění po pondělním šoku pomalu najíždějí na informační disciplínu, která je v tomto případě užitečná, protože se ven nedostávají izolované zprávy, které lze snadno dezinterpretovat. Už dnes je jasné, že situace je velmi komplexní a nelze to vyřídit stylem "někdo hodil bombu do rozvodny". 
