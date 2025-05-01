@@ -280,11 +280,12 @@ class LocalSummaryGenerator:
                 "Content-Type": "application/json"
             }
         else:  # OpenRouter
+            # Upravené hlavičky s různými formáty autorizace
             headers = {
                 "Authorization": f"Bearer {self.api_key}",
+                "Content-Type": "application/json",
                 "HTTP-Referer": "https://www.marigold.cz/",
-                "X-Title": "Marigold.cz",
-                "Content-Type": "application/json"
+                "X-Title": "Marigold.cz"
             }
         
         print(f"Model: {self.model_choice}")
@@ -327,7 +328,13 @@ Text k shrnutí:
                 "temperature": 0.3
             }
         
-        print(f"Payload (zkrácený): {json.dumps(payload, ensure_ascii=False)[:200]}...")
+        # Výpis ekvivalentního CURL příkazu pro debugging
+        curl_command = f"curl -X POST {self.api_url} \\\n"
+        for header, value in headers.items():
+            curl_command += f"  -H '{header}: {value}' \\\n"
+        curl_command += f"  -d '{json.dumps(payload)}'"
+        print(f"Ekvivalentní CURL příkaz (pro debug):\n{curl_command}")
+        
         base_wait_time = 10
         
         for attempt in range(max_retries):
@@ -345,6 +352,9 @@ Text k shrnutí:
                 model_info = "Deepseek (zdarma)" if self.model_choice == "deepseek" else "Gemini"
                 print(f"Používám model: {model_info}")
                 
+                # Přímé nastavení API klíče přes Bearer token
+                headers["Authorization"] = f"Bearer {self.api_key.strip()}"
+                
                 response = requests.post(
                     self.api_url,
                     headers=headers,
@@ -352,7 +362,6 @@ Text k shrnutí:
                     timeout=60
                 )
                 
-                # Zobrazení status kódu odpovědi
                 print(f"Status kód odpovědi: {response.status_code}")
                 
                 try:
@@ -375,7 +384,6 @@ Text k shrnutí:
                 print("Nebyly získány žádné body shrnutí.")
             except Exception as e:
                 print(f"Chyba při komunikaci s API: {str(e)}")
-                # Vypíšeme traceback pro lepší debug
                 import traceback
                 print(traceback.format_exc())
         return None
