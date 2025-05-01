@@ -7,9 +7,8 @@ categories:
 - Green Deal
 layout: post
 post_excerpt: Ve Španělsku a Portugalsku proběhl blackout energetické sítě. Všechno
-  stálo. Co se stalo?
+  stálo. Co se stalo? Den za dnem aktualizuji informace. 
 summary_points:
-- Extrémní teploty způsobily kmitání 400 kV vedení v centrálním Španělsku.
 - Iberský poloostrov se oddělil od kontinentální sítě kvůli kaskádovému odpojení linek.
 - Frekvence v izolované síti klesla pod 49 Hz, což vedlo k blackoutu Španělska a Portugalska.
 - Zbytek Evropy zaznamenal pokles frekvence jen o 0,15 Hz díky rychlé regulaci.
@@ -25,9 +24,11 @@ thumbnail: https://www.marigold.cz/assets/putin-jistic.jpg
 title: Byl španělský blackout dílo teroristů či Green Dealu? (update 1.5.)
 ---
 
+Za včerejšek mnoho novinek nebylo. Všichni zúčastnění po pondělním šoku pomalu najíždějí na informační disciplínu, která je v tomto případě užitečná, protože se ven nedostávají izolované zprávy, které lze snadno dezinterpretovat. Už dnes je jasné, že situace je velmi komplexní a nelze to vyřídit stylem "někdo hodil bombu do rozvodny". 
+
 🇪🇸💡 1.5.2025: Jak pokračuje vyšetřování pyrenejského blackoutu?
 
-Za včerejšek mnoho novinek nebylo. Všichni zúčastnění po pondělním šoku pomalu najíždějí na informační disciplínu, která je v tomto případě užitečná, protože se ven nedostávají izolované zprávy, které lze snadno dezinterpretovat. Už dnes je jasné, že situace je velmi komplexní a nelze to vyřídit stylem "někdo hodil bombu do rozvodny". Pro mě je také nepříjemné to, že sice se pořádají setkání s médii, z nich ale nevycházejí žádné oficiální zprávy, weby REN/REE mají jen prohlášení, že se to stalo a že to řeší, novinky nepředávají. Takže tyhle zprávy nabírám z médií a tam je často sdělení překroucené, zamlžené, protože pisatel nebyl energetik a v tomto případě na detailu záleží. 
+Pro mě je také nepříjemné to, že sice se pořádají setkání s médii, z nich ale nevycházejí žádné oficiální zprávy, weby REN/REE mají jen prohlášení, že se to stalo a že to řeší, novinky nepředávají. Takže tyhle zprávy nabírám z médií a tam je často sdělení překroucené, zamlžené, protože pisatel nebyl energetik a v tomto případě na detailu záleží. 
 
 > Níže pod touto sekcí najdete zprávy k události ze dne incidentu a z dalších dní, kdy jsem situaci sledoval. 
 
