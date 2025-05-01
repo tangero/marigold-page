@@ -22,14 +22,38 @@ summary_points:
 - Doprava a telekomunikace byly výrazně narušeny, evakuováno 35 000 cestujících.
 - Ceny elektřiny se stabilizovaly, problém byl v přenosu, ne v nedostatku výroby.
 thumbnail: https://www.marigold.cz/assets/putin-jistic.jpg
-title: Byl španělský blackout dílo teroristů či Green Dealu? (update 30.4.)
+title: Byl španělský blackout dílo teroristů či Green Dealu? (update 1.5.)
+---
+
+🇪🇸💡 1.5.2025: Jak pokračuje vyšetřování pyrenejského blackoutu?
+
+Za včerejšek mnoho novinek nebylo. Všichni zúčastnění po pondělním šoku pomalu najíždějí na informační disciplínu, která je v tomto případě užitečná, protože se ven nedostávají izolované zprávy, které lze snadno dezinterpretovat. Už dnes je jasné, že situace je velmi komplexní a nelze to vyřídit stylem "někdo hodil bombu do rozvodny". Pro mě je také nepříjemné to, že sice se pořádají setkání s médii, z nich ale nevycházejí žádné oficiální zprávy, weby REN/REE mají jen prohlášení, že se to stalo a že to řeší, novinky nepředávají. Takže tyhle zprávy nabírám z médií a tam je často sdělení překroucené, zamlžené, protože pisatel nebyl energetik a v tomto případě na detailu záleží. 
+
+> Níže pod touto sekcí najdete zprávy k události ze dne incidentu a z dalších dní, kdy jsem situaci sledoval. 
+
+První velkou novinkou je, že jsem se dostal k datům z vnitřní sítě nízkého napětí ve vteřinovém rozlišení. Neumožňuje to vypátrat lépe příčinu, ale je vidět, že první problémy byly v rozvodné síti již dopoledne (což už bylo známo dříve), někdy po 9 hodině začalo na hladině nízkého napětí oscilovat napětí až o 11V, což rozhodně není obvyklé, obvyklá bývá jednotková oscilace. Navíc se zvyšovala amplituda kmitů, byly četnější, pak se před polednem situace stabilizovala. To sedí k informacím o tom, že oscilovala frekvence na přeshraničním pyrenejském připojení, k tomuhle jevu dochází na hladině nízkého napětí, když se "přetlačují" toky ze dvou velkých sítí. Jenže taky v řadě dalších případů, takže z toho nededukujme mnoho.  Dlouhé, pomalu sílící kmity nicméně naznačují nedostatečně tlumenou soustavu (málo setrvačnosti / tlumicích výkonů). Znamená to, že síť byla nestabilní několik hodin před blackoutem a dispečeři si toho museli být vědomi, zjevně se zásahy snažili síť stabilizovat. 
+Pomalý rozjezd oscilací také spíše vylučuje terorismus, to by muselo jít o dobře cílené a synchronizované útoky. 
+
+Z oficiálních vyjádření také víme, že došlo ke dvěma vážným problémům předcházejícím blackoutu. REE uvedlo, že šlo přerušením dodávek elektřiny a zatímco se španělská síť dokázala zotavit z první události, ředitel Eduardo Prieto uvedl, že druhá byla mnohem ničivější a vyústila v přerušení dodávek elektřiny z francouzské sítě a „masivní dočasné odpojení“. Zatím nebylo oznámeno, o co šlo, některé zvěsti říkají, že v prvním případě vypadla fotovoltaika o cca 3 GW někde v Extremaduře, v druhém o 1 GW větrníků v Andalusii. Oficiálně to ale potvrzeno není. 
+
+Extremadura je fotovoltaické srdce Španělska, ale největší FTV parky zde mají max 600 MW, většinou jsou kolem 200 MW, na 3 GW výkonu by jich musela vypadnout zhruba desítka, což znamená, že jde o systémový incident, ne o náhodný nezvládnutý výpadek.  Například jsou všechny FTV napojeny na stejnou páteřní trasu 400 kV Almaraz - Guillena přes čtveřici rozvoden. Proto je důležité bedlivě stanovit časovou mapu  a tím se dobrat k tomu, zda se synchronně vyply FTV parky, nebo je odpojily ochrany rozvoden či 400 kV linky, protože všechny tři jevy mají jiné řešení. Podobně je to s větrníky v Andalusii.
+
+Čili jsme zase u toho. Čekáme na závěry probíhajícího šetření ENTSO-E a přesnou časovou osu, přičemž další tisková konference snad už s detaily, má být 2.5. 
+
+Jedna věc je vtipná, všichni už si kryjí záda. REE upozornilo, že na systémovou nestabilitu sítě upozornilo ve své letošní únorové zprávě (tedy několik let poté, co jim to samé říká ENTSO-E coby šéf eurosítě). 
+
+Jinak pro zlepšení hospodské debaty: samozřejmě existují setrvačná a elastizující řešení i pro FTV a větrníky. Nemusí to být nutně baterie, ale třeba synchronní kompenzátory, flywheely nebo intertia boosty pro větrné turbíny. Řešení je celá řada, nemusíte kvůli tomu nutně vydlabat vrcholek kopce a napustit ho vodou, jenže když si to do sítě neobjednáte, tak to nemáte. 
+
+🚗 Pyrenejská rozvodná síť byl prostě nadupaný sportovní kabriolet, do kterého se daly kvůli úspoře brzdy z Felačky a v zatáčce v Pyrenejských serpentinách se to prostě vyklopilo. Buďto zakážeme výrobu sportovních vozů, nebo do nich značneme dávat odpovídající brzdy, moc víc nad tím nevymyslíme...
+
+...okračování zítra asi odpo, až budou venku zprávy...  
+
 ---
 
 3️⃣🇪🇸⚡️ 30.4.2025 Co nového se španělským blackoutem?
 
 Jak vypadá situace kolem španělského blackoutu energetické sítě? Včera se téměř vše vrátilo do normálu, zapomeňte na novinové titulky "budou se vzpamatovávat týden" - kromě specifických věcí už je (v energetice) vše v normálu. Nicméně probíhá šetření. Co víme nového? No, pokud už sami máte jasno, tak dál nečtěte, protože jasno moc není. 
 
-> Níže pod touto sekcí najdete zprávy k události ze dne incidentu a z dalších dní, kdy jsem situaci sledoval. 
 
 V zásadě byla opuštěna myšlenka gallopingu jako JEDINÉHO SPOUŠTĚČE, tedy že šest 400 kV linek přes Pyreneje do Francie odpojily ochrany kvůli nadměrnému pohybu vedení vinou proudění vzduchu. Zdá se, že k pohybu došlo, ale ten nebyl jedinou či přímou příčinou odpojení linek. Atmosférická situace nebyla nijak extrémní. Nicméně ještě probíhá vyhodnocování měření. 
 
