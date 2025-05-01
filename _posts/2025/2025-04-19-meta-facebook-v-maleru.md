@@ -1,13 +1,21 @@
 ---
 author: Patrick Zandl
-post_excerpt: "Meta (Facebook) lítá ve slušném maléru. Sarah Wynn Williamsová, bývalá ředitelka globální veřejné politiky Facebooku (nyní Meta), vystoupila před Soudním výborem Senátu USA s odhaleními o tom, jak společnost Meta tajně obchodovala s Čínou, lhala Kongresu a porušovala zákony i etické standardy ve snaze o zisk a moc." 
 categories:
 - Facebook
 - Meta
 date: 2025-04-19
 layout: post
-title: Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou
+post_excerpt: Meta (Facebook) lítá ve slušném maléru. Sarah Wynn Williamsová, bývalá
+  ředitelka globální veřejné politiky Facebooku (nyní Meta), vystoupila před Soudním
+  výborem Senátu USA s odhaleními o tom, jak společnost Meta tajně obchodovala s Čínou,
+  lhala Kongresu a porušovala zákony i etické standardy ve snaze o zisk a moc.
+summary_points:
+- Meta tajně obchodovala s Čínou a lhala Kongresu o svých aktivitách.
+- Meta cenzurovala kritiky Číny a vyvíjela pro ni cenzurní nástroje.
+- Meta sdílela data uživatelů a AI technologie s čínskou vládou.
+- Meta se snaží umlčet Sarah Williamsovou soudy a vysokými pokutami.
 thumbnail: https://www.marigold.cz/assets/Sarah-Wynn-Williams.jpg
+title: Meta v maléru - svědectví bývalé šéfky Facebooku o tajných dohodách s Čínou
 ---
 
 Meta (Facebook) lítá ve slušném maléru. Sarah Wynn Williamsová, bývalá ředitelka globální veřejné politiky Facebooku (nyní Meta), vystoupila před Soudním výborem Senátu USA s odhaleními o tom, jak společnost Meta tajně obchodovala s Čínou, lhala Kongresu a porušovala zákony i etické standardy ve snaze o zisk a moc. Meta se snaží Williamsovou umlčet soudy a pokutami a tvrdí, že jde o zhrzenou mstící se manažerku. Jenže náznaků o tom, že v Číně se Meta chová "čínsky", už je celá řada. Slyšení vedl senátor Josh Hawley, který zdůraznil, že "toto je slyšení, kterému se Facebook zoufale snažil zabránit."
@@ -64,7 +72,7 @@ Williamsová také odhalila, jak Facebook sdílel své technologické know-how s
 
 "Meta začala informovat Čínskou komunistickou stranu již v roce 2015. Tyto brífinky se zaměřovaly na kritické nově vznikající technologie, včetně umělé inteligence. Explicitním cílem bylo pomoci Číně překonat americké společnosti."
 
-Williamsová dodala: "Existuje přímá linie, kterou můžete nakreslit od těchto briefingů k nedávným odhalením, že Čína vyvíjí modely AI pro vojenské použití, spoléhající se na model Mety Llama." Williamsová zdůraznila, že model DeepSeek je částečně založen na AI modelu Mety Llama. Tedy je ovšem třeba říct, že ten jen open-source a může jej využít kdokoliv, podle Williamsové ale technici Mety sdíleli s Čínou svoje interní know-how.
+Williamsová dodala: "Existuje přímá linie, kterou můžete nakreslit od těchto briefingů k nedávným odhalením, že Čína vyvíjí modely AI pro vojenské použití, spoléhající se na model Mety Llama." Williamsová zdůraznila, že model [DeepSeek](/item/deepseek/) je částečně založen na AI modelu Mety Llama. Tedy je ovšem třeba říct, že ten jen open-source a může jej využít kdokoliv, podle Williamsové ale technici Mety sdíleli s Čínou svoje interní know-how.
 
 Na otázku senátora Grassleyho, proč by Meta chtěla pomáhat Číně s umělou inteligencí, Williamsová uvedla: "Viděli, řekla bych, že část hodnotové propozice, kterou by mohli poskytnout Čínské komunistické straně, byla jejich schopnost pomoci čínským úředníkům. Takže výslovně, a byla bych ráda, kdybych vám mohla poskytnout dokumentaci, vyjmenovávali americké firmy. Říkali: 'Můžeme pomoci, můžeme vám pomoci. Čína nemusí spoléhat na firmy jako Cisco nebo IBM, protože my vám můžeme pomoci s technickou odborností.'"
 

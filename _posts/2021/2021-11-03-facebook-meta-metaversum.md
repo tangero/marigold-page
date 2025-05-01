@@ -5,14 +5,18 @@ categories:
 - Facebook
 - Meta
 - Metaversum
-excerpt: "Nejd\u016Fle\u017Eit\u011Bj\u0161\xED zpr\xE1vou posledn\xED doby je p\u0159\
-  ejmenov\xE1n\xED spole\u010Dnosti Facebook na Meta Platforms Inc. Nov\xFD Facebok\
-  \ budoucnosti nen\xED podle Marka Zuckerberga pouh\xE1 soci\xE1ln\xED s\xED\u0165\
-  , ale port\xE1l, v n\u011Bm\u017E u\u017Eivatel prost\u0159ednictv\xEDm softwaru\
-  \ a hardwaru vstupuje do takzvan\xE9ho metaversa. Co\u017Eeto?"
+excerpt: Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook
+  na Meta Platforms Inc. Nový Facebok budoucnosti není podle Marka Zuckerberga pouhá
+  sociální síť, ale portál, v němž uživatel prostřednictvím softwaru a hardwaru vstupuje
+  do takzvaného metaversa. Cožeto?
 featured: true
 layout: post
-title: "Facebook je nov\u011B Meta a stav\xED Metaversum"
+summary_points:
+- Facebook se přejmenoval na Meta, zdůrazňuje svůj posun od sociálních sítí k metaversu.
+- Metaverse je Zuckerbergova vize virtuálního světa s avatary a brýlemi Oculus.
+- Facebook Papers odhalily, že firma vědomě šíří dezinformace a nenávist.
+- Technické výzvy a reputace Facebooku mohou ohrozit úspěch Metaverse.
+title: Facebook je nově Meta a staví Metaversum
 ---
 
 Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. A hned si řekneme, proč je to důležité. Jen pro jistotu připomínám, že jde o přejmenování společnosti, nikoliv o přejmenování samotné konkrétní služby. Naopak se tímto přejmenováním někdejší společnost Facebook snaží zdůraznit, že neprovozuje jen sociální síť, ale také komunikátor WhatsApp, Messenger či obrázkovou sociální síť Instagram. 
