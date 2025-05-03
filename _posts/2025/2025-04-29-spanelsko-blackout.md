@@ -21,7 +21,21 @@ summary_points:
 - Doprava a telekomunikace byly výrazně narušeny, evakuováno 35 000 cestujících.
 - Ceny elektřiny se stabilizovaly, problém byl v přenosu, ne v nedostatku výroby.
 thumbnail: https://www.marigold.cz/assets/putin-jistic.jpg
-title: ⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 1.5.)
+title: ⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 3.5.)
+---
+
+Vyšetřování španělského blackoutu pokračuje, už se neobjevují žádné další podstatné informace. Stále není zřejmá přesná souslednost začátku, tedy zda za výpadek mohl nějaký zdroj, nebo nějaká událost v přenosové síti - čili kde kaskáda kolapsu začala. A zrovna tohle je hodně důležité. 
+
+Zatím pouze docela přesně víme, k čemu to vedlo, ale ne, jak to začalo - a nápravná opatření se podle toho budou výrazně lišit. V pátek proběhlo velké setkání, kde REN a REE předložily předběžné zprávy, ale nic podstatného z nich neuteklo, prohlášení po schůzce opakují jen již známé věci.
+
+Ne každý je z detailního vyšetřování nadšený. Španělská vláda si vyžádala od Iberdroly, Endesy, Repsolu aj. „černé skříňky“ měničů a blokových ochran.   Kdyby se nemohly najít, což se v takových situací stává, tak premiér Sánchez "nevylučuje sankce při neodevzdání". Slušně vynadáno dostává španělský provozovatel přenosové soustavy REE (Red Eléctrica). Je již mnoho důkazů proto, že síť byla nestabilní již v pondělí dopoledne, REE nepřikročil k větší regulaci, ačkoliv mohl a zřejmě i měl. Kromě toho se ukazuje, že jej řada institucí upozorňovala již dříve, že nemají síť v dobré kondici. Tím hlavním varujícím byl právě  ENTSO‑E, asociace operátorů přenosových sítí a operátor evropského gridu CESA. Akcie REE se propadly o 7 % - a nelibost premiéra Sáncheze jde zřejmě hodně tímto směrem, protože ať už byla příčina kdekoliv, bylo na zodpovědnosti REE si takovou věc do sítě pustit s patřičnými parametry nebo přijmout patřičná opatření. 
+
+To také znamená, že se houpe křeslo s šéfkou REE Beatriz Corredor, někdejší ministryní pro bydlení za sociálně-demokratickou stranu PSOE. Beatriz Corredor prohlásila, že nic takového se nebude opakovat a aby dodala svým slovům i technickou váhu, od úterka REE výrazně změnilo skladbu produkce elektřiny. Snížilo podíl fotovoltaiky a zvyšuje podíly produkce z točivých zdrojů (paroplynovky a uhlí). Část elektřiny také dobírá z jiných sítí, zejména Francie. Jako preventivní opatření portugalská ministryně životního prostředí Maria da Graça Carvalho oznámila, že Portugalsko “preventivně přestalo importovat elektřinu ze Španělska”. Dále zdůraznila potřebu více přečerpávacích vodních elektráren a bateriových úložišť v budoucnu, jakož i posílení propojení s Francií.
+
+Čili zatím vyčkáváme na oficiální výsledky, nicméně je už zřejmé, že trámy k ukřižování jsou připraveny. 
+
+> Níže pod touto sekcí najdete zprávy k události ze dne incidentu a z dalších dní, kdy jsem situaci sledoval. 
+
 ---
 
 Za včerejšek mnoho novinek nebylo. Všichni zúčastnění po pondělním šoku pomalu najíždějí na informační disciplínu, která je v tomto případě užitečná, protože se ven nedostávají izolované zprávy, které lze snadno dezinterpretovat. Už dnes je jasné, že situace je velmi komplexní a nelze to vyřídit stylem "někdo hodil bombu do rozvodny". 
@@ -30,7 +44,7 @@ Za včerejšek mnoho novinek nebylo. Všichni zúčastnění po pondělním šok
 
 Pro mě je také nepříjemné to, že sice se pořádají setkání s médii, z nich ale nevycházejí žádné oficiální zprávy, weby REN/REE mají jen prohlášení, že se to stalo a že to řeší, novinky nepředávají. Takže tyhle zprávy nabírám z médií a tam je často sdělení překroucené, zamlžené, protože pisatel nebyl energetik a v tomto případě na detailu záleží. 
 
-> Níže pod touto sekcí najdete zprávy k události ze dne incidentu a z dalších dní, kdy jsem situaci sledoval. 
+
 
 První velkou novinkou je, že jsem se dostal k datům z vnitřní sítě nízkého napětí ve vteřinovém rozlišení. Neumožňuje to vypátrat lépe příčinu, ale je vidět, že první problémy byly v rozvodné síti již dopoledne (což už bylo známo dříve), někdy po 9 hodině začalo na hladině nízkého napětí oscilovat napětí až o 11V, což rozhodně není obvyklé, obvyklá bývá jednotková oscilace. Navíc se zvyšovala amplituda kmitů, byly četnější, pak se před polednem situace stabilizovala. To sedí k informacím o tom, že oscilovala frekvence na přeshraničním pyrenejském připojení, k tomuhle jevu dochází na hladině nízkého napětí, když se "přetlačují" toky ze dvou velkých sítí. Jenže taky v řadě dalších případů, takže z toho nededukujme mnoho.  Dlouhé, pomalu sílící kmity nicméně naznačují nedostatečně tlumenou soustavu (málo setrvačnosti / tlumicích výkonů). Znamená to, že síť byla nestabilní několik hodin před blackoutem a dispečeři si toho museli být vědomi, zjevně se zásahy snažili síť stabilizovat. 
 Pomalý rozjezd oscilací také spíše vylučuje terorismus, to by muselo jít o dobře cílené a synchronizované útoky. 
