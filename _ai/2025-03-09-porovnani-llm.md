@@ -3,24 +3,26 @@ date: 2025-03-09
 layout: post
 order: 2
 thumbnail: https://cxscoop.com/wp-content/uploads/2023/07/Google-Microsoft-OpenAI-and-Anthropic-to-Form-Industry-Group-1440x914.png
-title: Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné?
+title: Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné (květen 2025)
 ---
 
 Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou. 
 
 A protože se na to často ptáte, tady je můj osobní setup, když se musím trochu víc koukat na cenu (tj. převážně v případě, když jedu přes API za peníze):
 
-- Nejlepší model pro všeobecné použití: Sonet 3.7 pokud chci používat češtinu, Gemini Pro 2.0 Experimental pokud je to na jazyk nenáročné (jinak OpenAI GPT-4.5, ale za to se nedoplatíte)
+- Nejlepší model pro všeobecné použití: o3 (fakt!), dále Sonet 3.7 pokud chci používat češtinu, Gemini Pro 2.5 Experimental pokud je to na jazyk nenáročné (jinak OpenAI GPT-4.5, ale za to se nedoplatíte)
 - Nejlepší okamžité odpovědi na cokoliv:  Perplexity Pro bez [Deepseek](/item/deepseek/) volby
-- Zpracování velkého množství obsahu najednou (např. vytahání podstatných info z přepisů zastupitelstev): Gemini 2.0 Pro Experimental.
-- Nejlepší psaní textu (a odůvodnění): 3.7 Sonet
-- Nejlepší pro analýzu PDF, porozumění datům: 3.7 Sonet
+- Zpracování velkého množství obsahu najednou (např. vytahání podstatných info z přepisů zastupitelstev): Gemini 2.5 Pro Experimental.
+- Nejlepší psaní textu (a odůvodnění): o3 nebo 3.7 Sonet
+- Nejlepší pro analýzu PDF, porozumění datům: o3 nebo 3.7 Sonet
 - Nejlepší pro OCR: [Mistral OCR](https://mistral.ai/news/mistral-ocr)
 - Nejlepší pro kód: 3.7 Sonnet (v Cursoru to počátkem března haprovalo, ladí se, tam nechte 3.5)
 - Nejlepší agent pro výzkum: OpenAI Deep Research nebo Gemini Deep Research s myšlením Flash 2 je dobrý pro rychlejší a rozsáhlejší výzkum - Sonet 3.7 je málo důkladný. 
-- Nejlepší uvažování pro pokročilou analýzu: o1 Pro - pokud nemáte, tak spíš GPT-4.5 s výhodou možnost zapnout si dohledávání na webu. 
+- Nejlepší uvažování pro pokročilou analýzu: o1 Pro - pokud nemáte, tak spíš GPT-4.5 s výhodou možnost zapnout si dohledávání na webu nebo o3. 
 - Nejlepší pro okamžité odpovědi s úžasným vyhledáváním: Grok 3 (v češtině občas hapruje)
 - Nejlepší multimodální: Gemini 2.0 Flash experimental / Gemini 2.0 Pro experimental
+
+Můj univerzální model na všechno přes chatgpt: o3 - vyzkoušejte [prompt, jak vyhledat polohu pořízené fotografie](https://www.marigold.cz/item/urceni-polohy-fotky-chatgpt-o3/). 
 
 Velmi často také nechávám používat na zpracování textu starý GPT-3.5, když mi jde o cenu na úlohy jazykového typu (najdi mi v přepisu všechna jména atd) - ale přes OpenRouter často narazíte na modely, které jsou mnohem silnější a zdarma, takže není důvod po starých modelech sahat. A po pravdě, ve web rozhraní OpenAI často používám také 4o, prostě proto, že už mám vychytané, co mu dělá a nedělá problémy... 
 
@@ -32,89 +34,79 @@ __Co konkrétně se v tomto článku dozvíte?__
 
 ## OpenAI 
 
-Zde je tabulka porovnávající modely OpenAI o1, o3-mini (včetně variant low/medium/high), GPT-4o a GPT-4.5 z hlediska parametrů a vhodnosti použití:
-
-| **Model**        | **Počet parametrů**       | **Vhodné pro úlohy**                                                                                       | **Klíčové vlastnosti**                                                                                     |
+| **Model** | **Počet parametrů** | **Vhodné pro úlohy** | **Klíčové vlastnosti** |
 |-------------------|---------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **o1**           | ~200 miliard (odhad)      | STEM (věda, technologie, inženýrství, matematika), generování kódu, vědecký výzkum, pokročilé uvažování   | Vylepšené uvažování (Chain of Thought), excelentní v matematice a kódování, analýza obrázků               |
-| **o3-mini-low**   | ~8 miliard (odhad)        | Nákladově efektivní úlohy s nižšími požadavky na přesnost                                                 | Optimalizováno pro nízké náklady, základní úroveň uvažování                                               |
-| **o3-mini-medium**| ~8 miliard (odhad)        | Vyvážené úlohy mezi výkonem a náklady                                                                     | Střední úroveň uvažování                                                                                  |
-| **o3-mini-high**  | ~8 miliard (odhad)        | Úlohy vyžadující vyšší přesnost a lepší analytické schopnosti                                             | Nejvyšší úroveň uvažování, delší doba zpracování                                                          |
-| **GPT-4o**        | ~200 miliard (odhad)      | Multimodální úlohy (text, obraz, audio), reálné interakce, analýza dat, překlady                          | Multimodalita (text, obraz, audio), velké kontextové okno (128 000 [tokenů](/ai/tokeny-versus-slova/)), generování řeči               |
-| **GPT-4.5**       | Neznámý (větší než GPT-4) | Široké spektrum úloh: kreativní psaní, programování, komplexní analýzy                                    | Největší model OpenAI s vylepšeným kontextovým oknem (128 000 [tokenů](/ai/tokeny-versus-slova/)), excelentní v programování a analýze |
+| **o1** | Neznámý | Úlohy vyžadující uvažování a řešení problémů ve vědě, kódování a matematice | V ChatGPT kontextové okno 32k tokenů, excelentní v matematice a kódování |
+| **o3** | Neznámý | Programování a kódování, matematika, věda a úlohy vyžadující pokročilé uvažování | Rozšířené kontextové okno až 200K tokenů, výstup až 100K tokenů |
+| **o4-mini** | Neznámý | Matematika, vizuální uvažování, a nákladově efektivní vývojové práce | Rychlý, cenově dostupný a pozoruhodně silný v matematických a vizuálních úlohách |
+| **o4-mini-high** | Neznámý | Stejné úlohy jako o4-mini, ale s důrazem na hlubší uvažování | Stejný model jako o4-mini s nastavením reasoning_effort na high |
+| **o3-mini** | Neznámý | Uvažování s nástroji, práce s daty, rozpoznávání obrazu | Dokáže používat nástroje, propojovat různé nástroje dohromady a přizpůsobovat se |
+| **GPT-4.1** | Neznámý | Kódování, instrukce following, multimodální úlohy s dlouhým kontextem | Kontextové okno až 1 milion tokenů, zlepšené porozumění dlouhému kontextu |
+| **GPT-4o** | ~200 miliard (odhad) | Multimodální úlohy (text, obraz), interakce v různých jazycích, vision úlohy | Integrace textu a obrazů v jednom modelu, zvýšená přesnost v interakcích |
 
 ### Shrnutí vhodnosti použití:
-1. **o1:** Ideální pro vědecký výzkum, matematiku a složité technické problémy. Nabízí pokročilé uvažování a schopnost analyzovat obrazy.
-2. **o3-mini:** Nákladově efektivní volba pro STEM úlohy. Varianta "high" je vhodná pro přesnější analýzy.
-3. **GPT-4o:** Skvělý pro multimodální aplikace zahrnující text, obraz a zvuk. Vhodný pro překlady, reálné interakce a datovou analýzu.
-4. **GPT-4.5:** Nejuniverzálnější model s vysokou přesností a velkým kontextovým oknem. Vhodný pro kreativní psaní, programování a komplexní analýzy.
+1. **o1:** Vhodný pro řešení složitých problémů v oblastech jako výzkum, strategie, kódování, matematika a věda. V ChatGPT má kontextové okno 32k tokenů.
 
-Každý model má své specifické silné stránky a je vhodný pro různé typy aplikací v závislosti na požadavcích na výkon, přesnost nebo náklady.
+2. **o3:** Nejsilnější reasoning model OpenAI s vysokým výkonem napříč doménami. Stanovuje nový standard pro matematiku, vědu, kódování a vizuální reasoning úlohy. Dosáhl 69,1% přesnosti na SWE-bench Verified a 88,9% na AIME 2025 v matematice.
 
-Zdroje:
-- [OpenAI o1 explained: Everything you need to know](https://www.techtarget.com/whatis/feature/OpenAI-o1-explained-Everything-you-need-to-know)
-- [OpenAI o3 explained: Everything you need to know](https://www.techtarget.com/WhatIs/feature/OpenAI-o3-explained-Everything-you-need-to-know)
-- [GPT-4o explained: Everything you need to know - TechTarget](https://www.techtarget.com/whatis/feature/GPT-4o-explained-Everything-you-need-to-know)
-- [What Is GPT-4o? - IBM](https://www.ibm.com/think/topics/gpt-4o)
+3. **o4-mini:** Ideální pro analýzu velkého množství dat, vynikající v matematických a vizuálních úlohách při nižších nákladech. Dosáhl 68,1% přesnosti na SWE-bench Verified a 92,7% na AIME 2025.
 
+4. **o4-mini-high:** Stejný model jako o4-mini s nastaveným vysokým stupněm uvažování (reasoning_effort), což umožňuje hlubší analýzu problémů na úkor rychlosti.
+
+5. **o3-mini:** Škálovaná verze o3 optimalizovaná pro výkon a nákladovou efektivitu. K dispozici ve třech variantách (low/medium/high) podle úrovně uvažování.
+
+6. **GPT-4.1:** Vyniká v kódování (SWE-bench Verified), instrukcích a multimodálním porozumění s dlouhým kontextem. Podporuje kontextové okno až 1 milion tokenů.
+
+7. **GPT-4o:** Multimodální model přijímající text nebo obrazové vstupy a generující text. Překonává předchozí modely v neangličtině a vision úlohách.
 
 ## Anthropic Claude
 
-Zde je tabulka porovnávající modely Claude 3.7 Sonnet, 3.5 Sonnet, 3.5 Haiku a 3 Opus z hlediska parametrů a vhodnosti použití:
-
 | Model | Počet parametrů | Vhodné pro úlohy | Klíčové vlastnosti |
 |-------|-----------------|-------------------|---------------------|
-| Claude 3.7 Sonnet | Neznámý | Vyvážené úlohy mezi výkonem a rychlostí, kreativní úkoly, programování | Vylepšené schopnosti oproti 3.5, "rozšířené myšlení" |
+| Claude 3.7 Sonnet | Neznámý | Komplexní analýzy, kreativní úkoly, programování, zpracování kódu | Výrazná zlepšení v kódování a front-end vývoji, "rozšířené myšlení" umožňující detailní uvažování, hybridní reasoning model |
 | Claude 3.5 Sonnet | Neznámý | Všeobecné použití, analýza dat, generování obsahu | Vylepšená verze 3 Sonnet, rychlejší než Opus |
 | Claude 3.5 Haiku | Neznámý | Rychlé zpracování, nákladově efektivní úlohy | Nejrychlejší a nejlevnější model z rodiny Claude 3.5 |
 | Claude 3 Opus | Neznámý | Komplexní analýzy, vědecký výzkum, pokročilé uvažování | Nejvýkonnější model, nejlepší v řešení složitých úloh |
 
 ### Shrnutí vhodnosti použití:
 
-1. **Claude 3.7 Sonnet:** Ideální pro úlohy vyžadující rovnováhu mezi výkonem a rychlostí. Vhodný pro kreativní práci a programování.
+1. **Claude 3.7 Sonnet:** První hybridní reasoning model na trhu, schopný produkovat okamžité odpovědi nebo rozšířené, krok za krokem uvažování, které je viditelné pro uživatele. Vyniká v kódování, front-end vývoji a agenčním kódování. Zachovává 200K token kontextové okno, ale rozšířené myšlení umožňuje efektivnější uvažování nad dlouhými dokumenty.
+
 2. **Claude 3.5 Sonnet:** Univerzální model pro širokou škálu úloh. Dobře se hodí pro analýzu dat a generování obsahu.
+
 3. **Claude 3.5 Haiku:** Nejlepší volba pro aplikace vyžadující rychlé odpovědi a nízké náklady.
+
 4. **Claude 3 Opus:** Nejvhodnější pro nejnáročnější úlohy vyžadující hluboké porozumění a analýzu, jako je vědecký výzkum nebo komplexní rozhodování.
 
 Všechny modely mají pokročilé multimodální schopnosti, včetně zpracování textu a obrazu, a nabízejí zlepšené multilingvální porozumění.
 
-Kontextové okno pro modely Anthropic je 200 000 [tokenů](/ai/tokeny-versus-slova/), čili cca 680 000 unicode znaků. 
-
-Zdroje
-- [Introducing the next generation of Claude - Anthropic](https://www.anthropic.com/news/claude-3-family)
-- [The Claude 3 Model Family: Opus, Sonnet, Haiku - Anthropic](https://anthropic.com/claude-3-model-card)
-- [Claude 3 SOTA Model Suite: Opus, Sonnet, and Haiku - Encord](https://encord.com/blog/claude-3-explained/)
-- [AI Anthropic Claude 3 Detailed Overview - Latenode](https://latenode.com/blog/ai-anthropic-claude-3-overview)
-- [claude-3-opus model - Clarifai - The World's AI](https://clarifai.com/anthropic/completion/models/claude-3-opus)
+Kontextové okno pro modely Anthropic je 200 000 tokenů, čili cca 680 000 unicode znaků.
 
 ## Google Gemini
 
-Zde je tabulka porovnávající modely Google Gemini 2.0 z hlediska parametrů a vhodnosti použití. Starší modely 1.5 už jsem vypustil, nevyplatí se jimi zabývat snad už ani kvůli ceně. 
-
-| **Model**                                | **Max. počet [tokenů](/ai/tokeny-versus-slova/)**       | **Vhodné pro úlohy**                                                                                       | **Klíčové vlastnosti**                                                                                     |
+| **Model** | **Max. počet tokenů** | **Vhodné pro úlohy** | **Klíčové vlastnosti** |
 |------------------------------------------|-----------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Gemini 2.0 Flash**                     | 1 048 576 (vstup), 8 192 (výstup) | Multimodální úlohy (text, obraz, audio, video), generování kódu, analýza dat                              | Multimodální vstupy/výstupy, podpora reálného času (Multimodal Live API), generování obrázků a řeči        |
-| **Gemini 2.0 Flash-Lite**                | 1 048 576 (vstup), 8 192 (výstup) | Rychlé a nákladově efektivní úlohy vyžadující multimodální vstupy                                         | Optimalizace na rychlost a nízké náklady, nepodporuje multimodální výstupy ani pokročilé nástroje          |
-| **Gemini 2.0 Pro Experimental**          | 2 097 152 (vstup), 8 192 (výstup) | Komplexní úlohy: programování, matematika, dlouhé kontexty                                               | Nejdelší kontextové okno, vylepšené schopnosti faktické přesnosti a řešení složitých problémů              |
-| **Gemini 2.0 Flash Thinking Experimental** | 1 048 576 (vstup), 65 536 (výstup) | Úlohy vyžadující transparentní myšlenkový proces a hluboké uvažování                                      | Zobrazuje myšlenkový proces modelu, lepší schopnosti uvažování než základní Flash                          |
-| **Gemini 2.0 Flash Experimental**        | 1 048 576 (vstup), 8 192 (výstup) | Testování nových funkcí: text-to-speech, multimodální generace                                            | Experimentální funkce jako generování řeči a obrázků                                                      |
-| **LearnLM 1.5 Pro Experimental**         | Neznámý                      | Vzdělávací aplikace a personalizované učení                                                               | Optimalizováno pro vzdělávací účely, zaměřeno na adaptivní učení a personalizaci obsahu                    |
+| **Gemini 2.5 Pro** | 1 048 576 (vstup), plánováno 2 miliony | Kódování, matematika, logika, věda a úlohy vyžadující uvažování | Nativní multimodalita, silné uvažovací schopnosti, rozšířené myšlení |
+| **Gemini 2.5 Flash** | 1 048 576 (vstup) | Multimodální úlohy s vyváženým poměrem rychlosti a výkonu | Kontrola množství uvažování pro optimalizaci latence a nákladů |
+| **Gemini 2.0 Flash** | 1 048 576 (vstup), 8 192 (výstup) | Multimodální úlohy (text, obraz, audio, video), generování kódu, analýza dat | Multimodální vstupy, podpora nástrojů, optimalizace na všeobecné použití |
+| **Gemini 2.0 Flash-Lite** | 1 048 576 (vstup), 8 192 (výstup) | Rychlé a nákladově efektivní úlohy vyžadující multimodální vstupy | Optimalizace na rychlost a nízké náklady |
+| **Gemini 2.0 Pro Experimental** | 2 097 152 (vstup), 8 192 (výstup) | Komplexní úlohy: programování, matematika, dlouhé kontexty | Nejdelší kontextové okno, vylepšené schopnosti faktické přesnosti |
+| **Gemini 2.0 Flash Thinking Experimental** | 1 048 576 (vstup), 65 536 (výstup) | Úlohy vyžadující transparentní myšlenkový proces a hluboké uvažování | Zobrazuje myšlenkový proces modelu, lepší schopnosti uvažování |
 
 ### Shrnutí vhodnosti použití:
-1. **Gemini 2.0 Flash:** Univerzální model pro multimodální úlohy s vysokou rychlostí a širokou podporou funkcí.
-2. **Gemini 2.0 Flash-Lite:** Ideální pro aplikace s omezeným rozpočtem nebo tam, kde je prioritou rychlost.
-3. **Gemini 2.0 Pro Experimental:** Nejlepší volba pro složité úlohy vyžadující dlouhé kontexty a přesnost.
-4. **Gemini 2.0 Flash Thinking Experimental:** Vhodný pro analytické úkoly, kde je důležitá transparentnost myšlenkového procesu.
-5. **Gemini 2.0 Flash Experimental:** Experimentální model pro testování nových funkcí.
-6. **LearnLM 1.5 Pro Experimental:** Specializovaný model pro vzdělávací aplikace.
+1. **Gemini 2.5 Pro:** Nejpokročilejší model pro komplexní úlohy. Vyniká v uvažování a kódovacích schopnostech, vedoucí v běžných kódovacích, matematických a vědeckých benchmarcích.
+
+2. **Gemini 2.5 Flash:** Model s funkcí rozšířeného myšlení, nabízející vyvážené schopnosti při rozumné ceně. Aplikuje vhodné myšlenkové strategie napříč různými scénáři.
+
+3. **Gemini 2.0 Flash:** Univerzální model pro multimodální úlohy s vysokou rychlostí a širokou podporou funkcí.
+
+4. **Gemini 2.0 Flash-Lite:** Ideální pro aplikace s omezeným rozpočtem nebo tam, kde je prioritou rychlost.
+
+5. **Gemini 2.0 Pro Experimental:** Nejlepší volba pro složité úlohy vyžadující dlouhé kontexty a přesnost.
+
+6. **Gemini 2.0 Flash Thinking Experimental:** Vhodný pro analytické úkoly, kde je důležitá transparentnost myšlenkového procesu.
 
 Každý model má unikátní zaměření, což umožňuje jejich využití v různých scénářích od rychlých aplikací po komplexní analýzy nebo vzdělávací projekty.
-
-Zdroje
-- [Gemini models - Gemini API - Google AI for Developers](https://ai.google.dev/gemini-api/docs/models/gemini)
-- [Gemini 2.0 Flash Thinking Mode - Gemini API - Google AI for Developers](https://ai.google.dev/gemini-api/docs/thinking-mode)
-- [Google Gemini 2.0 explained: Everything you need to know](https://www.techtarget.com/whatis/feature/Google-Gemini-20-explained-Everything-you-need-to-know)
-- [Google Gemini: Everything you need to know about the generative AI models - TechCrunch](https://techcrunch.com/2024/09/10/what-is-google-gemini-ai/)
 
 ## Ponaučení
 
