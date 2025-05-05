@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Proč je velikost kontextu u LLM tak důležitá?",
+      "url"      : "//item/ai-kontext/",
+      "category" : "AI, kontext",
+      "tags"     : "",
+      "date"     : "5.5.2025",
+      "content"  : "A především, proč je tak drahé a zdlouhavé zvyšovat velikost kontextu? Tento článek se podrobně zabývá tím, co kontext znamená, proč je jeho délka kritická, jaké technické překážky brání jeho neomezenému rozšiřování a jaká řešení se v současnosti vyvíjejí.Co konkrétně se v tomto článku dozvíte? Význam délky kontextu pro kvalitu výstupu: Aktuální velikosti kontextových oken a ceny (květen 2025) Jádro problému: Kvadratická složitost mechanismu pozornosti Praktické důsledky kvadratické složitosti Současné přístupy a řešení 1. Optimalizace standardní pozornosti 2. Aproximace pozornosti (Řídká pozornost - Sparse Attention) 3. Alternativní architektury (mimo transformátory) 4. Retrieval-Augmented Generation (RAG) 5. Další techniky Výzvy a budoucí..."
+    },
+  
+    {
       "title"    : "Jak určit polohu pořízení fotografie pomocí ChatGPT o3?",
       "url"      : "//item/urceni-polohy-fotky-chatgpt-o3/",
       "category" : "AI, ChatGPT",
@@ -25980,7 +25989,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Jak určit polohu pořízení fotografie pomocí ChatGPT o3? ( 3.05.2025) Čínské AI posiluje, vlastní GPU nadohled. A další dubnové novinky v AI aplikacích (28.04.2025) OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini (18.04.2025) Claude umí prohrabat váš Google..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Proč je velikost kontextu u LLM tak důležitá? ( 5.05.2025) Jak určit polohu pořízení fotografie pomocí ChatGPT o3? ( 3.05.2025) Čínské AI posiluje, vlastní GPU nadohled. A další dubnové novinky v AI aplikacích (28.04.2025) OpenAI vydala svůj nejsilnější model pro ChatGPT..."
     }
     
   
@@ -26000,7 +26009,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 194 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 67 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 195 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 67 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -26587,7 +26596,7 @@
         "title"    : "Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné (květen 2025) + přehled benchmarků",
         "url"      : "//ai/porovnani-llm/",
         "category" : "ai",
-        "content"  : "Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou.A protože se na to často ptáte, tady je můj osobní setup, když se musím trochu víc koukat na..."
+        "content"  : "Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou.Co konkrétně se v tomto článku dozvíte? OpenAI Shrnutí vhodnosti použití: Anthropic Claude Shrnutí vhodnosti použití: Google Gemini Shrnutí..."
       }
       
       ,{
