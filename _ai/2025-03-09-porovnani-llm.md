@@ -3,7 +3,7 @@ date: 2025-03-09
 layout: post
 order: 2
 thumbnail: https://cxscoop.com/wp-content/uploads/2023/07/Google-Microsoft-OpenAI-and-Anthropic-to-Form-Industry-Group-1440x914.png
-title: Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné (květen 2025)
+title: Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodné (květen 2025) + přehled benchmarků
 ---
 
 Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou. 
@@ -107,6 +107,68 @@ Kontextové okno pro modely Anthropic je 200 000 tokenů, čili cca 680 000 unic
 6. **Gemini 2.0 Flash Thinking Experimental:** Vhodný pro analytické úkoly, kde je důležitá transparentnost myšlenkového procesu.
 
 Každý model má unikátní zaměření, což umožňuje jejich využití v různých scénářích od rychlých aplikací po komplexní analýzy nebo vzdělávací projekty.
+
+## Benchmarky
+
+Potřebujete nějak modely porovnat mimo toto krátké shrnutí? Tak se podívejte na nejrůznější bechmarky, testy LLM - ale dejte si pozor, abyste si vybrali žebříček, který odpovídá typu vašeho problému, tedy typu úloh, pro něž chcete LLM porovnat. Tady jsou mnou vybrané žebříčky:
+
+- [SimpleBench](https://simple-bench.com/index.html): open‑source sada jednoduchých testů pro rychlé porovnání základních schopností různých LLM v několika klíčových úlohách.  
+- [SOLO‑Bench](https://github.com/jd-3d/SOLOBench): benchmark zaměřený na vyhodnocení schopnosti modelů řešit jednotlivé úlohy nezávisle (single‑objective) v rámci plánování a optimalizace.  
+- [AidanBench](https://aidanbench.com): online platforma hodnotící výkonnost LLM na generování textu a porozumění přirozenému jazyku s důrazem na praktické scénáře.  
+- [SEAL by Scale (MultiChallenge leaderboard)](https://scale.com/leaderboard): komplexní leaderboard s víceúlohami, který porovnává modely napříč různorodými výzvami, například překlad, shrnutí a Q&A.  
+- [LMArena (Style Control)](https://beta.lmarena.ai/leaderboard): interaktivní žebříček, který kromě výkonu sleduje i míru kontroly stylu generovaného textu u různých LLM.  
+- [LiveBench](https://livebench.ai): živě aktualizovaný benchmark měřící kvalitu odpovědí modelů na reálné uživatelské dotazy v reálném čase.  
+- [ARC‑AGI](https://arcprize.org/leaderboard): soutěžní žebříček pro hodnocení obecné umělé inteligence na základě výkonu v standardizovaných úlohách ze školních testů (ARC dataset).  
+- [Thematic Generalization by LechMazur](https://github.com/lechmazur/generalization): projekt testující schopnost modelů zobecňovat znalosti na nová témata na základě krátkých instrukcí.  
+- [Elimination Game by LechMazur](https://github.com/lechmazur/elimination_game): hra‑benchmark, kde modely postupně eliminují nesprávné možnosti a hodnotí se jejich logické deduktivní schopnosti.  
+- [Confabulations by LechMazur](https://github.com/lechmazur/confabulations): test odhalující, jak často a v jakém rozsahu LLM generují smyšlené („hallucinated“) informace mimo pravdivý kontext.  
+- [EQBench (Longform writing leaderboard)](https://eqbench.com): žebříček hodnotící kvalitu delších narativních a esejistických výstupů LLM podle human‑aligned kritérií.  
+- [Fiction‑Live Bench](https://fiction.live/stories/Fiction-liveBench-Mar-25-2025/oQdzQvKHw8JyXbN87): benchmark založený na skutečných interaktivních příbězích z platformy Fiction.Live, měřící schopnost modelů pokračovat v narrativu.  
+- [MC‑Bench (ordered by winrate)](https://mcbench.ai/leaderboard): leaderboard, kde jsou modely seřazeny podle podílu vítězství v head‑to‑head srovnáních (winrate), nikoli podle Elo.  
+- [TrackingAI – IQ Bench](https://trackingai.org/home): online testovací sada simulující IQ‑testové úlohy (logika, vizuální hádanky) pro měření „inteligence“ LLM.  
+- [Dubesor LLM](https://dubesor.de/benchtable.html): lehký benchmark zobrazující aktuální výkon různých LLM na jednoduchém přehledovém Dashboardu.  
+- [Balrog‑AI](https://balrogai.com): platforma pro hodnocení obecných schopností LLM, zejména generování koherentního textu a odpovědí na komplexní dotazy.  
+- [Misguided Attention](https://github.com/cpldcpu/MisguidedAttention): benchmark odhalující slabiny v pozornosti modelů, kde nesprávně zaměřují váhu na irelevantní části vstupu.  
+- [Snake‑Bench](https://snakebench.com): jednoduchý online benchmark testující schopnosti LLM generovat a vysvětlovat herní strategie pro hru Snake.  
+- [SmolAgents LLM](https://huggingface.co/spaces/smolagents/smolagents-leaderboard): leaderboard na HuggingFace Spaces porovnávající malé agentní modely (SmolAgents) v úlohách GAIA a SimpleQA.  
+- [Context‑Arena (MRCR and Graphwalks)](https://contextarena.ai): benchmark testující udržení dlouhodobého kontextu (MRCR) a procházení znalostních grafů (Graphwalks).  
+- [OpenCompass](https://rank.opencompass.org.cn/home): čínský otevřený ranking LLM zaměřený na širokou škálu úloh včetně strojového čtení, překladů a logiky.  
+- [HHEM (Hallucination Benchmark)](https://huggingface.co/spaces/vectara/leaderboard): benchmark měřící míru a charakter halucinací (nepravdivých tvrzení) v odpovědích modelů.  
+
+**Benchmarky pro kódování, matematiku a agentní úlohy**
+
+- [Aider-Polyglot-Coding](https://aider.chat/docs/leaderboards/): benchmark hodnotící schopnosti modelů v kódování napříč mnoha jazyky a úlohami.  
+- [BigCodeBench](https://bigcode-bench.github.io): sada testů pro měření výkonu LLM v úlohách generování a analýzy kódu.  
+- [WebDev-Arena](https://web.lmarena.ai/leaderboard): leaderboard zaměřený na webové vývojové úlohy, jako je psaní HTML/CSS a JavaScript.  
+- [WeirdML](https://htihle.github.io/weirdml.html): benchmark zkoumající neobvyklé a extrémní scénáře pro modely strojového učení.  
+- [Symflower Coding](https://symflower.com/en/company/blog/2025/dev-quality-eval-v1.0-anthropic-s-claude-3.7-sonnet-is-the-king-with-help-and-deepseek-r1-disappoints/): vyhodnocení kvality kódu modelů podle standardu Symflower.  
+- [PHYBench](https://phybench-official.github.io/phybench-demo/): demonstrační stránka testující fyzikální a matematické schopnosti LLM.  
+- [MathArena](https://matharena.ai): platforma pro benchmark matematických úloh všech úrovní obtížnosti.  
+- [Galileo Agent](https://huggingface.co/spaces/galileo-ai/agent-leaderboard): leaderboard agentních modelů hodnocených na základě interaktivních úloh v prostředí Galileo.  
+- [XLANG Agent](https://arena.xlang.ai/leaderboard): žebříček agentních modelů zaměřených na vícejazyčné úlohy.  
+
+**Důležité pro sledování nástupu nových LLM**
+
+- [METR long task benchmarks (incl. RE Bench)](https://metr.org): benchmark pro dlouhodobé úlohy klíčové pro sledování posunu AI k vyšší autonomii.  
+- [PaperBench](https://openai.com/index/paperbench/): test výkonu LLM při generování a analýze vědeckých abstraktů.  
+- [SWE-Lancer](https://openai.com/index/swe-lancer/): benchmark simulující úlohy softwarového inženýrství (SWE) pro hodnocení schopností modelů.  
+- [MLE-Bench](https://github.com/openai/mle-bench): sada úloh pro měření maximální pravděpodobnosti učení a generalizace.  
+- [SWE-Bench](https://swebench.com): online platforma pro hodnocení modelů v běžných úlohách softwarového inženýrství.  
+
+**Ostatní klasiky, které je vždy dobré vidět při vydání nového modelu**
+
+- [GPQA-Diamond](https://github.com/idavidrein/gpqa): rozšířený benchmark pro testování obecného porozumění otázkám s výběrem odpovědí.  
+- [SimpleQA](https://openai.com/index/introducing-simpleqa/): benchmark zaměřený na jednoduché otázky a odpovědi, často používaný pro srovnání základní schopnosti LLM.  
+- [Tau-bench](https://github.com/sierra-research/tau-bench): sada testů pro hodnocení přesnosti a rychlosti modelů v široké škále úloh.  
+- [SciCode](https://github.com/scicode-bench/SciCode): benchmark pro generování a analýzu vědeckého kódu.  
+- [MMMU](https://mmmu-benchmark.github.io/#leaderboard): žebříček víceúrovňových modelů měřících schopnost zvládat rozsáhlé multisektorové úlohy.  
+- [Humanities Last Exam (HLE)](https://github.com/centerforaisafety/hle): test simulující závěrečné zkoušky v humanitních oborech.  
+
+**Přehled klasických benchmarků (GPQA, SimpleQA, AIME, MMLU, ...)**
+
+- [Simple-Evals](https://github.com/openai/simple-evals): knihovna a sada nástrojů pro rychlé evaluace LLM na základních úlohách.  
+- [Vellum AI](https://vellum.ai/llm-leaderboard): online žebříček výkonu LLM v širokém spektru úloh.  
+- [Artificial Analysis](https://artificialanalysis.ai): platforma nabízející analytické nástroje pro hodnocení generativních modelů.  
 
 ## Ponaučení
 
