@@ -32,7 +32,7 @@ V kontextu LLM představuje kontext (context window) veškerá data, která má 
 5.  Vygenerovaný text: Část textu, kterou model sám postupně generuje jako odpověď.
     
 
-Délka kontextu, obvykle měřená v tokenech, definuje maximální množství informací, které model může současně zpracovat. Token je základní jednotka textu pro LLM, která může odpovídat slovu, části slova nebo interpunkčnímu znaménku (pro hlubší vysvětlení viz článek [Tokeny versus Slova](/ai/tokeny-versus-slova).
+Délka kontextu, obvykle měřená v tokenech, definuje maximální množství informací, které model může současně zpracovat. Token je základní jednotka textu pro LLM, která může odpovídat slovu, části slova nebo interpunkčnímu znaménku (pro hlubší vysvětlení viz článek [Tokeny versus Slova](/ai/tokeny-versus-slova)).
 
 ### Význam délky kontextu pro kvalitu výstupu:
 
