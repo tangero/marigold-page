@@ -21,8 +21,26 @@ summary_points:
 - Doprava a telekomunikace byly výrazně narušeny, evakuováno 35 000 cestujících.
 - Ceny elektřiny se stabilizovaly, problém byl v přenosu, ne v nedostatku výroby.
 thumbnail: https://www.marigold.cz/assets/putin-jistic.jpg
-title: ⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 3.5.)
+title: ⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 5.5.)
 ---
+
+
+Po zajímavé stopě se pustil Reuters. Ten zdokumentoval několik výpadků z dní předcházejících blackoutu. V týdnech před pondělním kolapsem zaznamenala soustava několik menších poruch a experti opakovaně upozorňovali na narůstající nestabilitu a na to, že soustavu může rozhodit jak nedostatek výkonu, tak ale i její přebytek, což hrozilo zejména s růstem slunečních dní a tím s růstem produkce elektřiny, zatímco teploty byly ještě nízké na to, aby lidé masivně zapínali klimatizace. 
+
+### 🇪🇸⚡️ 5.5. - Španělsku hrozil blackout několik dní
+
+Interní experti i REE v ročních zprávách upozorňovali na rostoucí nestabilitu kvůli souběhu malých zdrojů OZE a nedostatku dat z nich. REE z nich totiž nemá online data (či near-real-time data) o jejich produkci a pouze ji v reálném čase predikuje podle počasí, nemá ani vliv na připojení těchto zdrojů do sítě a jejich odpojení. 
+Experti ENTSO-E také upozorňovali na nedostatečné plánování chystaného vyřazování jaderných reaktorů ze sítě s tím, že už plánovaná výměna paliva v reaktoru Almaraz II může být problém. Reaktor byl odpojen od sítě 20 . 4. 2025 a přešel do horkého odstávkového stavu. Práce podle harmonogramu pokračovaly i během blackoutu.
+Dne  22. dubna se objevily nápadné přepětí v síti a výpadky řízení, které odstavily vysokorychlostní vlaky a rafinérii Cartagena, což mělo být a zřejmě i bylo první vážné varování, problémy s v různé míře intenzity projevovaly až do 28.4.2025, kdy v 12:31 došlo k blackoutu na Pyrenejském poloostrově. Přesná souslednost výpadku je nicméně stále předmětem šetření. 
+
+Síť je nyní stabilní, nouzový stav byl zrušen. Vyšetřovací panel ENTSO‑E má plná data a nejpozději do 10 .5. slíbí první technický verdikt. Do té doby se čeká především na výsledek francouzského testu ochranných relé, který má objasnit, proč se Pyreneje odpojily prakticky v jednom okamžiku - a v kterém okamžiku to bylo. Nové informace nicméně posilují verzi systémového selhání, tedy neschopnosti REE řídit dynamicky se vyvíjející situaci v síti kvůli nedostatku dat a regulačních mechanismů. 
+
+> Níže pod touto sekcí najdete zprávy k události ze dne incidentu a z dalších dní, kdy jsem situaci sledoval. 
+
+
+---
+
+### 3.5. 2025
 
 Vyšetřování španělského blackoutu pokračuje, už se neobjevují žádné další podstatné informace. Stále není zřejmá přesná souslednost začátku, tedy zda za výpadek mohl nějaký zdroj, nebo nějaká událost v přenosové síti - čili kde kaskáda kolapsu začala. A zrovna tohle je hodně důležité. 
 
@@ -34,7 +52,6 @@ To také znamená, že se houpe křeslo s šéfkou REE Beatriz Corredor, někdej
 
 Čili zatím vyčkáváme na oficiální výsledky, nicméně je už zřejmé, že trámy k ukřižování jsou připraveny. 
 
-> Níže pod touto sekcí najdete zprávy k události ze dne incidentu a z dalších dní, kdy jsem situaci sledoval. 
 
 ---
 
