@@ -12,7 +12,8 @@ author: Patrick Zandl
 description: Technologie a Svět
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/patrick-mensi.jpg
+# avatar: /images/patrick-mensi.jpg - stará verze do 5.5.2025
+avatar: avatar: /images/patrick-avatar.jpg
 
 languages: ["en", "cs"]
 default_lang: "cs"
@@ -152,6 +153,7 @@ exclude:
   - requirements.txt
   - generate_summaries.py
   - README.md
+  - .env
 
 
 # Tipue search settings
