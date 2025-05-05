@@ -8,6 +8,10 @@ title: Přehled LLM OpenAI, Anthropic a Google - na co jsou které modely vhodn�
 
 Situace s modely umělé inteligence začala být pro člověka, který to systematicky nesleduje, poněkud nepřehledná. Všechny hlavní firmy nabízejí několik modelů, které se na webovém rozhraní viditelně neliší a je od dodavatelů jen malá nápověda, k čemu jsou vhodnější a k čemu méně. Připravil jsem vám tedy přehledovou tabulku jednotlivých rodin modelů. Tím se můžete zorientovat. Nezapomínejte na to, že modely se na webovém rozhraní liší tím, kolik dotazů máte povoleno (zejména u Claude) a při použití přes API pak především cenou. 
 
+__Co konkrétně se v tomto článku dozvíte?__ 
+* Obsah
+{:toc} 
+
 A protože se na to často ptáte, tady je můj osobní setup, když se musím trochu víc koukat na cenu (tj. převážně v případě, když jedu přes API za peníze):
 
 - Nejlepší model pro všeobecné použití: o3 (fakt!), dále Sonet 3.7 pokud chci používat češtinu, Gemini Pro 2.5 Experimental pokud je to na jazyk nenáročné (jinak OpenAI GPT-4.5, ale za to se nedoplatíte)
