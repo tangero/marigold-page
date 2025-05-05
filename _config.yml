@@ -153,7 +153,6 @@ exclude:
   - requirements.txt
   - generate_summaries.py
   - README.md
-  - .env
 
 
 # Tipue search settings
