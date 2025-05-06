@@ -32,7 +32,7 @@ ERNIE X1 Turbo, navržený pro hloubkové přemýšlení s vylepšenými schopno
 
 Baidu současně oznámilo několik nových AI aplikací. Nejpozoruhodnější je Xinxiang, aplikace pro multi-agentní spolupráci, která transformuje jednotlivé pokyny do kompletních pracovních postupů napříč 200 typy úloh, s plány na rozšíření až na 100 000. Společnost také představila nový operační systém Cangzhou OS, který usnadňuje multimodální vytváření poznámek.
 
-Svou AI Open Initiative a standard MCP společnost Baidu cílí na usnadnění vývoje aplikací na těchto modelech. Jak uvedl Robin Li na konferenci Baidu Create 2025: "Modely jsou důležité, ale skutečnými vítězi budou aplikace, které je oživí."
+Svou AI Open Initiative a standard [MCP](/ai/mcp/) společnost Baidu cílí na usnadnění vývoje aplikací na těchto modelech. Jak uvedl Robin Li na konferenci Baidu Create 2025: "Modely jsou důležité, ale skutečnými vítězi budou aplikace, které je oživí."
 
 ### OpenAI: Rozšíření funkcí a přístupnosti
 
