@@ -6,7 +6,7 @@
       "category" : "AI, kontext",
       "tags"     : "",
       "date"     : "5.5.2025",
-      "content"  : "A především, proč je tak drahé a zdlouhavé zvyšovat velikost kontextu? Tento článek se podrobně zabývá tím, co kontext znamená, proč je jeho délka kritická, jaké technické překážky brání jeho neomezenému rozšiřování a jaká řešení se v současnosti vyvíjejí.Co konkrétně se v tomto článku dozvíte? Význam délky kontextu pro kvalitu výstupu: Aktuální velikosti kontextových oken a ceny (květen 2025) Jádro problému: Kvadratická složitost mechanismu pozornosti Praktické důsledky kvadratické složitosti Současné přístupy a řešení 1. Optimalizace standardní pozornosti 2. Aproximace pozornosti (Řídká pozornost - Sparse Attention) 3. Alternativní architektury (mimo transformátory) 4. Retrieval-Augmented Generation (RAG) 5. Další techniky Výzvy a budoucí..."
+      "content"  : "A především, proč je tak drahé a zdlouhavé zvyšovat velikost kontextu? Tento článek se podrobně zabývá tím, co kontext znamená, proč je jeho délka kritická, jaké technické překážky brání jeho neomezenému rozšiřování a jaká řešení se v současnosti vyvíjejí.Co konkrétně se v tomto článku dozvíte? Co je kontext a proč je jeho délka klíčová? Význam délky kontextu pro kvalitu výstupu: Aktuální velikosti kontextových oken a ceny (květen 2025) Jádro problému: Kvadratická složitost mechanismu pozornosti Praktické důsledky kvadratické složitosti Současné přístupy a řešení 1. Optimalizace standardní pozornosti 2. Aproximace pozornosti (Řídká pozornost - Sparse Attention) 3. Alternativní architektury (mimo transformátory) 4...."
     },
   
     {

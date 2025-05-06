@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-05T19:58:12+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Proč je velikost kontextu u LLM tak důležitá?</title><link href="https://www.marigold.cz/item/ai-kontext/" rel="alternate" type="text/html" title="Proč je velikost kontextu u LLM tak důležitá?" /><published>2025-05-05T00:00:00+00:00</published><updated>2025-05-05T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-kontext</id><content type="html" xml:base="https://www.marigold.cz/item/ai-kontext/"><![CDATA[<p>A především, proč je tak drahé a zdlouhavé zvyšovat velikost kontextu? Tento článek se podrobně zabývá tím, co kontext znamená, proč je jeho délka kritická, jaké technické překážky brání jeho neomezenému rozšiřování a jaká řešení se v současnosti vyvíjejí.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-06T05:51:56+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Proč je velikost kontextu u LLM tak důležitá?</title><link href="https://www.marigold.cz/item/ai-kontext/" rel="alternate" type="text/html" title="Proč je velikost kontextu u LLM tak důležitá?" /><published>2025-05-05T00:00:00+00:00</published><updated>2025-05-05T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-kontext</id><content type="html" xml:base="https://www.marigold.cz/item/ai-kontext/"><![CDATA[<p>A především, proč je tak drahé a zdlouhavé zvyšovat velikost kontextu? Tento článek se podrobně zabývá tím, co kontext znamená, proč je jeho délka kritická, jaké technické překážky brání jeho neomezenému rozšiřování a jaká řešení se v současnosti vyvíjejí.</p>
 
 <p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
 <ul id="markdown-toc">
-  <li><a href="#význam-délky-kontextu-pro-kvalitu-výstupu" id="markdown-toc-význam-délky-kontextu-pro-kvalitu-výstupu">Význam délky kontextu pro kvalitu výstupu:</a></li>
-  <li><a href="#aktuální-velikosti-kontextových-oken-a-ceny-květen-2025" id="markdown-toc-aktuální-velikosti-kontextových-oken-a-ceny-květen-2025">Aktuální velikosti kontextových oken a ceny (květen 2025)</a></li>
+  <li><a href="#co-je-kontext-a-proč-je-jeho-délka-klíčová" id="markdown-toc-co-je-kontext-a-proč-je-jeho-délka-klíčová">Co je kontext a proč je jeho délka klíčová?</a>    <ul>
+      <li><a href="#význam-délky-kontextu-pro-kvalitu-výstupu" id="markdown-toc-význam-délky-kontextu-pro-kvalitu-výstupu">Význam délky kontextu pro kvalitu výstupu:</a></li>
+      <li><a href="#aktuální-velikosti-kontextových-oken-a-ceny-květen-2025" id="markdown-toc-aktuální-velikosti-kontextových-oken-a-ceny-květen-2025">Aktuální velikosti kontextových oken a ceny (květen 2025)</a></li>
+    </ul>
+  </li>
   <li><a href="#jádro-problému-kvadratická-složitost-mechanismu-pozornosti" id="markdown-toc-jádro-problému-kvadratická-složitost-mechanismu-pozornosti">Jádro problému: Kvadratická složitost mechanismu pozornosti</a></li>
   <li><a href="#praktické-důsledky-kvadratické-složitosti" id="markdown-toc-praktické-důsledky-kvadratické-složitosti">Praktické důsledky kvadratické složitosti</a></li>
   <li><a href="#současné-přístupy-a-řešení" id="markdown-toc-současné-přístupy-a-řešení">Současné přístupy a řešení</a>    <ul>
@@ -20,9 +23,9 @@
 
 <p>Velké jazykové modely (LLM) jako GPT-4, Claude 3 nebo Gemini 2.5 se staly výkonnými nástroji pro zpracování přirozeného jazyka. Jejich schopnost generovat text, překládat, odpovídat na otázky a psát kód je využívána v mnoha oblastech. Navzdory jejich pokročilým schopnostem však narážejí na významné omezení: efektivní zpracování velmi dlouhých sekvencí dat, známé jako “problém dlouhého kontextu”.</p>
 
-<p>##ß Co je kontext a proč je jeho délka klíčová?</p>
+<h2 id="co-je-kontext-a-proč-je-jeho-délka-klíčová">Co je kontext a proč je jeho délka klíčová?</h2>
 
-<p>V kontextu LLM představuje kontext (context window) veškerá data, která má model k dispozici v daném okamžiku pro zpracování a generování odpovědi. Funguje jako operační paměť modelu. Obsah kontextu typicky zahrnuje:</p>
+<p>V případě LLM představuje kontext (context window) veškerá data, která má model k dispozici v daném okamžiku pro zpracování a generování odpovědi. Funguje jako operační paměť modelu. Pokud si LLM chce něco pamatovat v rámci rozhovoru, předává si to jako kontext, ačkoliv to třeba nevidíte. Pokud má LLM pracovat s vašimi předchozími zprávami v rámci chatu, prostě je přibalí do posílaných dat. Obsah kontextu typicky zahrnuje:</p>
 
 <ol>
   <li>
