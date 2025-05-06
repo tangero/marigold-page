@@ -68,7 +68,7 @@ Poznámka: Ceny se mohou lišit v závislosti na poskytovateli API (zde OpenRout
 
   
 
-Je důležité poznamenat, že nominální délka kontextového okna nemusí vždy odpovídat efektivní schopnosti modelu využívat informace z celého kontextu. Testy jako "Needle In A Haystack" (NIAH) ukazují, že některé modely mají problémy s vyhledáváním informací umístěných uprostřed velmi dlouhého kontextu (tzv. "lost in the middle" problém), i když se tento problém postupně daří zmírňovat.
+Je důležité poznamenat, že nominální délka kontextového okna nemusí vždy odpovídat efektivní schopnosti modelu využívat informace z celého kontextu. Testy jako [Needle In A Haystack](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) (NIAH) ukazují, že některé modely mají problémy s vyhledáváním informací umístěných uprostřed velmi dlouhého kontextu (tzv. "lost in the middle" problém), i když se tento problém postupně daří zmírňovat.
 
 Už teď je tedy zřejmé, že na rozsahu kontextu záleží, přičemž “kontext” není jen to, co zadáte do Prompt okna v ChatGPT, ale také spousta dodatečných dat, kterými ChatGPT váš dotaz “obalí”, aby využil toho, co ví o vás, o tom, co vyžadujete atd. Nabízí se tedy otázka, proč se jednoduše velikost kontextového okna nerozšíří na maximum! Odpověď? Protože to není vůbec jednoduché a především to stojí hromadu peněz při používání! Jak to?
 
