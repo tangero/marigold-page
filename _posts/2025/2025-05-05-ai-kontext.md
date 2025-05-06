@@ -17,9 +17,9 @@ __Co konkrétně se v tomto článku dozvíte?__
 
 Velké jazykové modely (LLM) jako GPT-4, Claude 3 nebo Gemini 2.5 se staly výkonnými nástroji pro zpracování přirozeného jazyka. Jejich schopnost generovat text, překládat, odpovídat na otázky a psát kód je využívána v mnoha oblastech. Navzdory jejich pokročilým schopnostem však narážejí na významné omezení: efektivní zpracování velmi dlouhých sekvencí dat, známé jako "problém dlouhého kontextu". 
 
-##ß Co je kontext a proč je jeho délka klíčová?
+## Co je kontext a proč je jeho délka klíčová?
 
-V kontextu LLM představuje kontext (context window) veškerá data, která má model k dispozici v daném okamžiku pro zpracování a generování odpovědi. Funguje jako operační paměť modelu. Obsah kontextu typicky zahrnuje:
+V případě LLM představuje kontext (context window) veškerá data, která má model k dispozici v daném okamžiku pro zpracování a generování odpovědi. Funguje jako operační paměť modelu. Pokud si LLM chce něco pamatovat v rámci rozhovoru, předává si to jako kontext, ačkoliv to třeba nevidíte. Pokud má LLM pracovat s vašimi předchozími zprávami v rámci chatu, prostě je přibalí do posílaných dat. Obsah kontextu typicky zahrnuje:
 
 1.  Vstupní text (prompt): Zadání nebo otázka od uživatele.
     
