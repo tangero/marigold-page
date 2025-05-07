@@ -350,7 +350,13 @@ layout: default
   <div class="posts">
     <h3>Ohodnoťte tento článek:</h3>
   <!-- Widget for article feedback -->
-  <script src="https://article-engagement-tracker.web.app/mg-feedback-clean.js" data-slug="article-name"></script>
+  <!-- Widget pro hodnocení článků -->
+  <script 
+    src="https://top.marigold.cz/mg-feedback-clean.js" 
+    data-slug="{{ page.url | slugify }}" 
+    data-title="{{ page.title }}" 
+    data-url="{{ site.url }}{{ page.url }}"
+  ></script>  
 </div>
 
   <div class="posts">
