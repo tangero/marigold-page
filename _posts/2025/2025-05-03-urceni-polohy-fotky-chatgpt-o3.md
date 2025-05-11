@@ -6,7 +6,12 @@ categories:
 - ChatGPT
 layout: post
 post_excerpt: Ve Španělsku a Portugalsku proběhl blackout energetické sítě. Všechno
-  stálo. Co se stalo? Den za dnem aktualizuji informace. 
+  stálo. Co se stalo? Den za dnem aktualizuji informace.
+summary_points:
+- ChatGPT o3 umí odhadnout polohu fotografie, ale záleží na kvalitě promptu.
+- Přesný textový popis zvyšuje úspěšnost odhadu, zejména u méně známých míst.
+- Model dokáže rozpoznat známé lokace, ale u přírodních snímků je přesnost nižší.
+- Doporučený prompt z GeoGuessr komunity zlepšuje analýzu a výsledky.
 thumbnail: https://www.marigold.cz/assets/Riegersburg.jpeg
 title: Jak určit polohu pořízení fotografie pomocí ChatGPT o3?
 ---
@@ -117,6 +122,3 @@ Tak a to je všechno! Tady jeden příklad za všechny:
 ![Fotka z lanovky na Riegersburg](https://www.marigold.cz/assets/Riegersburg.jpeg)
 
 ![A tady je hodnocení](https://www.marigold.cz/assets/Riegersburg-hodnoceni.png)
-
-
-

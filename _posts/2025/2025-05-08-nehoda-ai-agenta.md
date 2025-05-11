@@ -5,7 +5,13 @@ categories:
 - AI
 - agenti
 layout: post
-post_excerpt: Nebudete věřit, co se stalo, když zadal nedobře odladěnému autonomnímu agentovi nákupní pokyn a svou platební kartu. Už nikdy nebudete klidně spát!
+post_excerpt: Nebudete věřit, co se stalo, když zadal nedobře odladěnému autonomnímu
+  agentovi nákupní pokyn a svou platební kartu. Už nikdy nebudete klidně spát!
+summary_points:
+- Autonomní agent koupil špatné vstupenky kvůli chybě v zadání.
+- Rychlé nasazení AI agentů může vést k vážným chybám a katastrofám.
+- Seniorní management musí umět přetavit neúspěch v příležitost.
+- AI agenti mohou dělat chyby od špatných nákupů po vážné bezpečnostní problémy.
 thumbnail: https://www.marigold.cz/assets/nehoda-ai-agenta.png
 title: První česká tragédie prostřednictvím autonomního AI agenta
 ---
@@ -20,4 +26,4 @@ Když jsem zkoušel první agenty vytvořené v AI, dělal jsem v tom nenáročn
 
 No a teď k té úloze seniorního managementu. Dětem jsem vysvětlil výhodu možnosti jít na moderní divadelní pojetí hry Terryho Pratcheta ze zeměplošského cyklu, všem se hra líbila a všichni si dokonce vyžádali, abychom šli i na další díl. 
 
-No a takhle to s AI agenty v nejbližší době bude. Buďto je nezvládnete správně nasadit, nebo udělají chybu, v lepším případě koupí špatné lístky, v horším někoho odpojí od elektřiny. V zásadě proto budete potřebovat seniorního manažera, který z nevýhody udělá výhodu a všechno zlé obrátí v dobré. Tak, jako vždycky. Od toho seniorní management je, aby poznal slepou jednosměrku a vyhodnotil, zda je lepší vycouvat, nebo zvýšenou rychlostí jednosměrku zobousměrnit. 
+No a takhle to s AI agenty v nejbližší době bude. Buďto je nezvládnete správně nasadit, nebo udělají chybu, v lepším případě koupí špatné lístky, v horším někoho odpojí od elektřiny. V zásadě proto budete potřebovat seniorního manažera, který z nevýhody udělá výhodu a všechno zlé obrátí v dobré. Tak, jako vždycky. Od toho seniorní management je, aby poznal slepou jednosměrku a vyhodnotil, zda je lepší vycouvat, nebo zvýšenou rychlostí jednosměrku zobousměrnit.

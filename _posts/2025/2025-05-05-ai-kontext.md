@@ -5,6 +5,14 @@ categories:
 - kontext
 layout: post
 post_excerpt: A především, proč je tak drahé a zdlouhavé zvyšovat velikost kontextu?
+summary_points:
+- Kontext v LLM zahrnuje vstupní text, historii konverzace a další data pro generování
+  odpovědí.
+- Kvadratická složitost mechanismu pozornosti zvyšuje náklady a zpomaluje zpracování
+  dlouhých kontextů.
+- Řešení zahrnují optimalizace jako FlashAttention, řídkou pozornost a hybridní architektury.
+- RAG kombinuje externí vyhledávání s omezeným kontextem pro efektivní práci s rozsáhlými
+  daty.
 thumbnail: https://www.marigold.cz/assets/llm-kontext.jpg
 title: Proč je velikost kontextu u LLM tak důležitá?
 ---

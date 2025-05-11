@@ -8,7 +8,13 @@ categories:
 - programování
 - OpenAI
 layout: post
-post_excerpt: OpenAI kupuje za 3 miliardy dolarů společnost Windsurf, který se zabývá vývojem prostředí pro AI kódování. Proč?
+post_excerpt: OpenAI kupuje za 3 miliardy dolarů společnost Windsurf, který se zabývá
+  vývojem prostředí pro AI kódování. Proč?
+summary_points:
+- OpenAI kupuje Windsurf za 3 miliardy dolarů pro posílení AI kodovacích nástrojů.
+- Windsurf nabízí unikátní technologii jako Cascade Flow pro integraci do IDE.
+- Akvizice poskytne OpenAI přístup k reálným vývojářským datům a uzavřenému ekosystému.
+- Trh reaguje obavami z dopadu na konkurenci a efektivitu investice.
 thumbnail: https://www.marigold.cz/assets/windsurf-thumb.png
 title: OpenAI kupuje Windsurf a  posiluje v programátorských nástrojích
 ---
