@@ -111,10 +111,9 @@ Pokud mirite do francouzskeho Cannes na 3GSM kongres a domnivate se, ze budete m
     
     const lastDate = new Date(lastShown);
     const now = new Date();
-    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
-                      (now.getMonth() - lastDate.getMonth());
+    const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
     
-    if (monthsDiff >= 1) {
+    if (daysDiff >= 7) {
       localStorage.setItem('feedwindLastShown', now.toISOString());
       return true;
     }
@@ -353,10 +352,10 @@ PS: Pisu z anglickeho notebooku, tedy zadna diakritika a obcas prehozene y a z. 
           
             <tr>
               <td>
-                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
+                <a href="/item/projektovy-manazer-je-v-cesku-sproste-slovo-ke-skode-projektu/">👉Projektový manažer je v Česku sprosté slovo – ke škodě projektů …</a>
                 <p class="excerpt">
                   
-                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
+                    Na Makers Faire jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější ...
                   
                 </p>
               </td>
@@ -364,10 +363,12 @@ PS: Pisu z anglickeho notebooku, tedy zadna diakritika a obcas prehozene y a z. 
           
             <tr>
               <td>
-                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
+                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
                 <p class="excerpt">
                   
-                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
+                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
+
+Poznatek první: umělá intel...
                   
                 </p>
               </td>

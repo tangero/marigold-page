@@ -111,10 +111,9 @@ Dnešní vydání Marketingu a Medií přináší ještě jeden povzdech na Čes
     
     const lastDate = new Date(lastShown);
     const now = new Date();
-    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
-                      (now.getMonth() - lastDate.getMonth());
+    const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
     
-    if (monthsDiff >= 1) {
+    if (daysDiff >= 7) {
       localStorage.setItem('feedwindLastShown', now.toISOString());
       return true;
     }
@@ -350,10 +349,10 @@ Na tuhle praxi jsem již narazil i u jedné nejmenované mobilní firmy. Ta v ok
           
             <tr>
               <td>
-                <a href="/item/vase-deti-a-nase-skolstvi-oboji-bez-budoucnosti/">👉Vaše děti a naše školství -  obojí bez budoucnosti</a>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
                 <p class="excerpt">
                   
-                    Smiřte se s tím, že vaše děti jsou tvorové bez budoucnosti. Leda byste byli připraveni vyklopit pět až deset tisíc měsíčně. Takhle naplacato a natvrdo řečeno...
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
                   
                 </p>
               </td>
@@ -361,10 +360,10 @@ Na tuhle praxi jsem již narazil i u jedné nejmenované mobilní firmy. Ta v ok
           
             <tr>
               <td>
-                <a href="/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule/">👉Umělointeligenční asistenti a pochybnosti nad existencí svobodné vůle</a>
+                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
                 <p class="excerpt">
                   
-                    Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v n...
+                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  **audioverzi tohoto článku** ...
                   
                 </p>
               </td>

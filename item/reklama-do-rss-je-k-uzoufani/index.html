@@ -111,10 +111,9 @@ Odebírám RSS z mnoha serverů, mimo jinými i z Moreover, to je takový agreg�
     
     const lastDate = new Date(lastShown);
     const now = new Date();
-    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
-                      (now.getMonth() - lastDate.getMonth());
+    const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
     
-    if (monthsDiff >= 1) {
+    if (daysDiff >= 7) {
       localStorage.setItem('feedwindLastShown', now.toISOString());
       return true;
     }
@@ -350,12 +349,10 @@ Nově někdo začal do Moreover cpát reklamu, která je určena RSS odběratel�
           
             <tr>
               <td>
-                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
                 <p class="excerpt">
                   
-                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
-
-Poznatek první: umělá intel...
+                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
                   
                 </p>
               </td>
@@ -363,10 +360,10 @@ Poznatek první: umělá intel...
           
             <tr>
               <td>
-                <a href="/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule/">👉Umělointeligenční asistenti a pochybnosti nad existencí svobodné vůle</a>
+                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
                 <p class="excerpt">
                   
-                    Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v n...
+                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
                   
                 </p>
               </td>

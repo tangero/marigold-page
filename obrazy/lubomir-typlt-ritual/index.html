@@ -110,10 +110,9 @@
     
     const lastDate = new Date(lastShown);
     const now = new Date();
-    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
-                      (now.getMonth() - lastDate.getMonth());
+    const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
     
-    if (monthsDiff >= 1) {
+    if (daysDiff >= 7) {
       localStorage.setItem('feedwindLastShown', now.toISOString());
       return true;
     }
@@ -248,31 +247,31 @@
           
             
               <tr>
-                <td>Adolf Lachman</td>
-                <td><a href="/obrazy/adolf-lachman-ryba-pila/">Ryba a Pila</a></td>
-                <td>
-                  
-                    <a href="/obrazy/adolf-lachman-ryba-pila/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/adolf-lachman-ryba.jpeg" alt="Adolf Lachman - Ryba a Pila" style="width:100px; vertical-align: middle;"></a>
-                  
-                </td>
-              </tr>
-            
-              <tr>
-                <td>Otto Placht</td>
-                <td><a href="/obrazy/otto-placht-peru-rail/">Peru Rail</a></td>
-                <td>
-                  
-                    <a href="/obrazy/otto-placht-peru-rail/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/otto-placht-peru-rail-2020.jpg" alt="Otto Placht - Peru Rail (2020)" style="width:100px; vertical-align: middle;"></a>
-                  
-                </td>
-              </tr>
-            
-              <tr>
                 <td>Jiří Anderle</td>
                 <td><a href="/obrazy/jiri-anderle-space-and-time/">Space and Time</a></td>
                 <td>
                   
                     <a href="/obrazy/jiri-anderle-space-and-time/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Anderle-jiri-space-and-time.jpg" alt="Jiří Anderle - Space and Time" style="width:100px; vertical-align: middle;"></a>
+                  
+                </td>
+              </tr>
+            
+              <tr>
+                <td>Hynek Martinec</td>
+                <td><a href="/obrazy/hynek-martinec-cyberlemon/">Out of Chaos (Z Chaosu)</a></td>
+                <td>
+                  
+                    <a href="/obrazy/hynek-martinec-cyberlemon/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/otto-placht-peru-rail-2020.jpg" alt="Hynek Martinec - Cyberlemon - Z Chaosu (2025)" style="width:100px; vertical-align: middle;"></a>
+                  
+                </td>
+              </tr>
+            
+              <tr>
+                <td>Naděžda Udalcová</td>
+                <td><a href="/obrazy/nadezda-udalcova-kuchyne/">Kuchyně</a></td>
+                <td>
+                  
+                    <a href="/obrazy/nadezda-udalcova-kuchyne/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/IMG_7722.jpeg" alt="Naděžda Udalcová - Kuchyně" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -298,10 +297,10 @@
           
             <tr>
               <td>
-                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
+                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
                 <p class="excerpt">
                   
-                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
+                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
                   
                 </p>
               </td>
@@ -309,10 +308,10 @@
           
             <tr>
               <td>
-                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
+                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
                 <p class="excerpt">
                   
-                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
+                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
                   
                 </p>
               </td>
