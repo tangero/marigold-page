@@ -5,15 +5,12 @@ author: Patrick Zandl
 categories:
 - AI
 - vibecoding
-- "programov\xE1n\xED"
+- programování
 - OpenAI
 layout: post
-post_excerpt: "OpenAI kupuje za 3 miliardy dolar\u016F spole\u010Dnost Windsurf, kter\xFD\
-  \ se zab\xFDv\xE1 v\xFDvojem prost\u0159ed\xED pro AI k\xF3dov\xE1n\xED. Pro\u010D\
-  ?"
+post_excerpt: OpenAI kupuje za 3 miliardy dolarů společnost Windsurf, který se zabývá vývojem prostředí pro AI kódování. Proč?
 thumbnail: https://www.marigold.cz/assets/windsurf-thumb.png
-title: "OpenAI kupuje Windsurf a  posiluje v program\xE1torsk\xFDch n\xE1stroj\xED\
-  ch"
+title: OpenAI kupuje Windsurf a  posiluje v programátorských nástrojích
 ---
 
 OpenAI kupuje za 3 miliardy dolarů společnost [Windsurf](https://windsurf.com), který se zabývá vývojem prostředí pro AI kódování. Co je zajímavého na tom, že společnost, která tvrdí, že její interní LLM nástroj je mezi padesáti nejlepšími programátory světa, koupí za tři miliardy dolarů firmu, která takový nástroj vyvíjí? 
