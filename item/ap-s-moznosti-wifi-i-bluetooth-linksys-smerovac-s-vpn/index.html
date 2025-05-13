@@ -102,45 +102,9 @@ Linksys představil další lahůdku. Zařízení s označením WRV54G je širok
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script>
-  function shouldShowFeedwind() {
-    try {
-      const lastShown = localStorage.getItem('feedwindLastShown');
-      const now = new Date();
-      
-      if (!lastShown) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      const lastDate = new Date(lastShown);
-      const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-      
-      // Zobrazit každé 3 dny
-      if (daysDiff >= 3) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      return false;
-    } catch (error) {
-      console.error('Chyba při kontrole Feedwind:', error);
-      return false;
-    }
-  }
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
 
-  // Přidáme malé zpoždění pro jistotu, že DOM je načtený
-  setTimeout(() => {
-    if (shouldShowFeedwind()) {
-      const script = document.createElement('script');
-      script.type = 'text/javascript';
-      script.src = 'https://feed.mikle.com/js/fw-loader.js';
-      script.setAttribute('preloader-text', 'Nahrávám');
-      script.setAttribute('data-fw-param', '168257/');
-      document.head.appendChild(script);
-    }
-  }, 1000);
-</script>
+
 <style>
   code.language-mermaid {
     display: flex;
@@ -362,10 +326,10 @@ A lahůdka na konec: ve výbavě je taky <strong>podpora hotspot funkcí</strong
           
             <tr>
               <td>
-                <a href="/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule/">👉Umělointeligenční asistenti a pochybnosti nad existencí svobodné vůle</a>
+                <a href="/item/jak-to-bylo-s-pomazankovym-maslem/">👉Jak to bylo s pomazánkovým máslem?</a>
                 <p class="excerpt">
                   
-                    Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v n...
+                    Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich otců a Ev...
                   
                 </p>
               </td>
@@ -373,10 +337,10 @@ A lahůdka na konec: ve výbavě je taky <strong>podpora hotspot funkcí</strong
           
             <tr>
               <td>
-                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
+                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
                 <p class="excerpt">
                   
-                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
+                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
                   
                 </p>
               </td>

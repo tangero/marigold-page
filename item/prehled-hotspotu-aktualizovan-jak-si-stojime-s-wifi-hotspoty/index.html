@@ -101,45 +101,9 @@ Aktualizoval jsem a z části doprogramoval databázi WiFi hostpotů. Nejdříve
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script>
-  function shouldShowFeedwind() {
-    try {
-      const lastShown = localStorage.getItem('feedwindLastShown');
-      const now = new Date();
-      
-      if (!lastShown) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      const lastDate = new Date(lastShown);
-      const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-      
-      // Zobrazit každé 3 dny
-      if (daysDiff >= 3) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      return false;
-    } catch (error) {
-      console.error('Chyba při kontrole Feedwind:', error);
-      return false;
-    }
-  }
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
 
-  // Přidáme malé zpoždění pro jistotu, že DOM je načtený
-  setTimeout(() => {
-    if (shouldShowFeedwind()) {
-      const script = document.createElement('script');
-      script.type = 'text/javascript';
-      script.src = 'https://feed.mikle.com/js/fw-loader.js';
-      script.setAttribute('preloader-text', 'Nahrávám');
-      script.setAttribute('data-fw-param', '168257/');
-      document.head.appendChild(script);
-    }
-  }, 1000);
-</script>
+
 <style>
   code.language-mermaid {
     display: flex;
@@ -369,10 +333,10 @@ Databázi hotspotů najde na <a href="http://www.marigold.cz/hotspoty">www.marig
           
             <tr>
               <td>
-                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
+                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan</a>
                 <p class="excerpt">
                   
-                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  [Zlatá éra weblogů a můžete si ji stáhnout zda...
+                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
                   
                 </p>
               </td>
@@ -380,10 +344,10 @@ Databázi hotspotů najde na <a href="http://www.marigold.cz/hotspoty">www.marig
           
             <tr>
               <td>
-                <a href="/item/jak-to-bylo-s-pomazankovym-maslem/">👉Jak to bylo s pomazánkovým máslem?</a>
+                <a href="/item/stiglitz_konec_neoliberalismu/">👉Joseph Stiglitz - Konec neoliberalismu a znovuzrozen\xED d\u011Bjin</a>
                 <p class="excerpt">
                   
-                    Pomazánkové máslo je manifestací toho, co Čechy dráždí na Evropské Unii. Tradiční česká potravina, vynález socialistických mlékařů, dědictví našich otců a Ev...
+                    Stále častěji se setkávám s vysvětlením, že dnešní nechuť voličů hlasovat pro tradiční politické strany a příklon ke stranám antisystémovým, je dílem neznalo...
                   
                 </p>
               </td>

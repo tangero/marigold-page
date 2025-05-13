@@ -115,45 +115,9 @@ A jsme u toho, že celý náš život je víra... (nakonec mi vždy religionisti
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script>
-  function shouldShowFeedwind() {
-    try {
-      const lastShown = localStorage.getItem('feedwindLastShown');
-      const now = new Date();
-      
-      if (!lastShown) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      const lastDate = new Date(lastShown);
-      const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-      
-      // Zobrazit každé 3 dny
-      if (daysDiff >= 3) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      return false;
-    } catch (error) {
-      console.error('Chyba při kontrole Feedwind:', error);
-      return false;
-    }
-  }
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
 
-  // Přidáme malé zpoždění pro jistotu, že DOM je načtený
-  setTimeout(() => {
-    if (shouldShowFeedwind()) {
-      const script = document.createElement('script');
-      script.type = 'text/javascript';
-      script.src = 'https://feed.mikle.com/js/fw-loader.js';
-      script.setAttribute('preloader-text', 'Nahrávám');
-      script.setAttribute('data-fw-param', '168257/');
-      document.head.appendChild(script);
-    }
-  }, 1000);
-</script>
+
 <style>
   code.language-mermaid {
     display: flex;
@@ -385,10 +349,10 @@ A jsme u toho, že celý náš život je víra... (nakonec mi vždy religionisti
           
             <tr>
               <td>
-                <a href="/item/projektovy-manazer-je-v-cesku-sproste-slovo-ke-skode-projektu/">👉Projektový manažer je v Česku sprosté slovo – ke škodě projektů …</a>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
                 <p class="excerpt">
                   
-                    Na Makers Faire jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější ...
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
                   
                 </p>
               </td>
@@ -396,10 +360,10 @@ A jsme u toho, že celý náš život je víra... (nakonec mi vždy religionisti
           
             <tr>
               <td>
-                <a href="/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule/">👉Umělointeligenční asistenti a pochybnosti nad existencí svobodné vůle</a>
+                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
                 <p class="excerpt">
                   
-                    Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v n...
+                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
                   
                 </p>
               </td>

@@ -101,45 +101,9 @@ Nedávno mi psal o radu jeden čtenář s problémem tak pikantním, že mi to n
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script>
-  function shouldShowFeedwind() {
-    try {
-      const lastShown = localStorage.getItem('feedwindLastShown');
-      const now = new Date();
-      
-      if (!lastShown) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      const lastDate = new Date(lastShown);
-      const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-      
-      // Zobrazit každé 3 dny
-      if (daysDiff >= 3) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      return false;
-    } catch (error) {
-      console.error('Chyba při kontrole Feedwind:', error);
-      return false;
-    }
-  }
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
 
-  // Přidáme malé zpoždění pro jistotu, že DOM je načtený
-  setTimeout(() => {
-    if (shouldShowFeedwind()) {
-      const script = document.createElement('script');
-      script.type = 'text/javascript';
-      script.src = 'https://feed.mikle.com/js/fw-loader.js';
-      script.setAttribute('preloader-text', 'Nahrávám');
-      script.setAttribute('data-fw-param', '168257/');
-      document.head.appendChild(script);
-    }
-  }, 1000);
-</script>
+
 <style>
   code.language-mermaid {
     display: flex;
@@ -360,10 +324,10 @@ A abych nastínil magičnost toho řešení, oni to na linuxu rozchodili nějak 
           
             <tr>
               <td>
-                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
+                <a href="/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule/">👉Umělointeligenční asistenti a pochybnosti nad existencí svobodné vůle</a>
                 <p class="excerpt">
                   
-                    Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ješt...
+                    Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v n...
                   
                 </p>
               </td>
@@ -371,10 +335,10 @@ A abych nastínil magičnost toho řešení, oni to na linuxu rozchodili nějak 
           
             <tr>
               <td>
-                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
+                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
                 <p class="excerpt">
                   
-                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
+                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
                   
                 </p>
               </td>

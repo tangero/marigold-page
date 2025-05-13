@@ -101,45 +101,9 @@ Další příspěvek k dohadům, zda a jak mobily působí na lidské zdraví, p
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script>
-  function shouldShowFeedwind() {
-    try {
-      const lastShown = localStorage.getItem('feedwindLastShown');
-      const now = new Date();
-      
-      if (!lastShown) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      const lastDate = new Date(lastShown);
-      const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-      
-      // Zobrazit každé 3 dny
-      if (daysDiff >= 3) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      return false;
-    } catch (error) {
-      console.error('Chyba při kontrole Feedwind:', error);
-      return false;
-    }
-  }
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
 
-  // Přidáme malé zpoždění pro jistotu, že DOM je načtený
-  setTimeout(() => {
-    if (shouldShowFeedwind()) {
-      const script = document.createElement('script');
-      script.type = 'text/javascript';
-      script.src = 'https://feed.mikle.com/js/fw-loader.js';
-      script.setAttribute('preloader-text', 'Nahrávám');
-      script.setAttribute('data-fw-param', '168257/');
-      document.head.appendChild(script);
-    }
-  }, 1000);
-</script>
+
 <style>
   code.language-mermaid {
     display: flex;
@@ -363,10 +327,10 @@ Další příspěvek k dohadům, zda a jak mobily působí na lidské zdraví, p
           
             <tr>
               <td>
-                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
                 <p class="excerpt">
                   
-                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
                   
                 </p>
               </td>
@@ -374,10 +338,10 @@ Další příspěvek k dohadům, zda a jak mobily působí na lidské zdraví, p
           
             <tr>
               <td>
-                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
+                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
                 <p class="excerpt">
                   
-                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  **audioverzi tohoto článku** ...
+                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
                   
                 </p>
               </td>

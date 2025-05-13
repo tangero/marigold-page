@@ -100,45 +100,9 @@
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script>
-  function shouldShowFeedwind() {
-    try {
-      const lastShown = localStorage.getItem('feedwindLastShown');
-      const now = new Date();
-      
-      if (!lastShown) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      const lastDate = new Date(lastShown);
-      const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-      
-      // Zobrazit každé 3 dny
-      if (daysDiff >= 3) {
-        localStorage.setItem('feedwindLastShown', now.toISOString());
-        return true;
-      }
-      
-      return false;
-    } catch (error) {
-      console.error('Chyba při kontrole Feedwind:', error);
-      return false;
-    }
-  }
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
 
-  // Přidáme malé zpoždění pro jistotu, že DOM je načtený
-  setTimeout(() => {
-    if (shouldShowFeedwind()) {
-      const script = document.createElement('script');
-      script.type = 'text/javascript';
-      script.src = 'https://feed.mikle.com/js/fw-loader.js';
-      script.setAttribute('preloader-text', 'Nahrávám');
-      script.setAttribute('data-fw-param', '168257/');
-      document.head.appendChild(script);
-    }
-  }, 1000);
-</script>
+
 <style>
   code.language-mermaid {
     display: flex;
@@ -259,31 +223,31 @@
           
             
               <tr>
-                <td>Ferrari Sheppard</td>
-                <td><a href="/obrazy/ferrari-sheppard-my-name-is-sarah/">Jméno mé je Sarah</a></td>
+                <td>Hugh Steers</td>
+                <td><a href="/obrazy/hugh-steers-fulton-couch/">Fulton Couch</a></td>
                 <td>
                   
-                    <a href="/obrazy/ferrari-sheppard-my-name-is-sarah/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/ferrari-sheppard-My-Name-is-Sarah.jpg" alt="Ferrari Sheppard - Jméno mé je Sarah" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/hugh-steers-fulton-couch/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hugh-steers-fulton-couch.jpg" alt="Hugh Steers - Fulton Couch (1991)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Otto Placht</td>
-                <td><a href="/obrazy/otto-placht-peru-rail/">Peru Rail</a></td>
+                <td>Josef Bolf</td>
+                <td><a href="/obrazy/josef-bolt-remembering-backwards/">Remembering Backwards</a></td>
                 <td>
                   
-                    <a href="/obrazy/otto-placht-peru-rail/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/otto-placht-peru-rail-2020.jpg" alt="Otto Placht - Peru Rail (2020)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/josef-bolt-remembering-backwards/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/josef-bolf-remembring-beckwards.webp" alt="Josef Bolf - Remembering Backwards" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Olaolu Slawn</td>
-                <td><a href="/obrazy/olaolu-slawn/">Young black n thriving</a></td>
+                <td>Ai Weiwei</td>
+                <td><a href="/obrazy/ai-weiwei-slunecnicova-seminka/">Slunečnicová Semínka</a></td>
                 <td>
                   
-                    <a href="/obrazy/olaolu-slawn/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/slawn-obrazy.png" alt="Olaolu Slawn - Young black n thriving (2021)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/ai-weiwei-slunecnicova-seminka/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Ai-Weiwei-Sunflower-Seeds-Tate-Modern-London-May-2-2011.jpg" alt="Ai Weiwei - Slunečnicová Semínka (2010) " style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -309,10 +273,10 @@
           
             <tr>
               <td>
-                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
                 <p class="excerpt">
                   
-                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don’t restrict anyone else, and it is on this rule that the modern wo...
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
                   
                 </p>
               </td>
@@ -320,10 +284,10 @@
           
             <tr>
               <td>
-                <a href="/item/krize_a_zanik_vlastnictvi/">👉Krize a zánik vlastnictví</a>
+                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
                 <p class="excerpt">
                   
-                    Následující delší článek rozebírá současnou krizi soukromého vlastnictví, která hrozí přerůst v jeho zánik. Pokud byste chtěli  audioverzi tohoto článku  ve ...
+                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
                   
                 </p>
               </td>
