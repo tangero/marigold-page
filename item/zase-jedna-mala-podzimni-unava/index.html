@@ -103,31 +103,42 @@ Na každého pisálka semo-tamo přijde moment, kdy by nejraději nenapsal ani �
 <!-- start feedwind code --> 
 <script>
   function shouldShowFeedwind() {
-    const lastShown = localStorage.getItem('feedwindLastShown');
-    if (!lastShown) {
-      localStorage.setItem('feedwindLastShown', new Date().toISOString());
-      return true;
+    try {
+      const lastShown = localStorage.getItem('feedwindLastShown');
+      const now = new Date();
+      
+      if (!lastShown) {
+        localStorage.setItem('feedwindLastShown', now.toISOString());
+        return true;
+      }
+      
+      const lastDate = new Date(lastShown);
+      const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
+      
+      // Zobrazit každé 3 dny
+      if (daysDiff >= 3) {
+        localStorage.setItem('feedwindLastShown', now.toISOString());
+        return true;
+      }
+      
+      return false;
+    } catch (error) {
+      console.error('Chyba při kontrole Feedwind:', error);
+      return false;
     }
-    
-    const lastDate = new Date(lastShown);
-    const now = new Date();
-    const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-    
-    if (daysDiff >= 7) {
-      localStorage.setItem('feedwindLastShown', now.toISOString());
-      return true;
-    }
-    return false;
   }
 
-  if (shouldShowFeedwind()) {
-    const script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://feed.mikle.com/js/fw-loader.js';
-    script.setAttribute('preloader-text', 'Nahrávám');
-    script.setAttribute('data-fw-param', '168257/');
-    document.head.appendChild(script);
-  }
+  // Přidáme malé zpoždění pro jistotu, že DOM je načtený
+  setTimeout(() => {
+    if (shouldShowFeedwind()) {
+      const script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.src = 'https://feed.mikle.com/js/fw-loader.js';
+      script.setAttribute('preloader-text', 'Nahrávám');
+      script.setAttribute('data-fw-param', '168257/');
+      document.head.appendChild(script);
+    }
+  }, 1000);
 </script>
 <style>
   code.language-mermaid {
@@ -356,10 +367,10 @@ Omlouvam se za nesouvislost toku příspěvku, ale tak to chodí, když se člov
           
             <tr>
               <td>
-                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
+                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
                 <p class="excerpt">
                   
-                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
+                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
                   
                 </p>
               </td>
@@ -367,11 +378,10 @@ Omlouvam se za nesouvislost toku příspěvku, ale tak to chodí, když se člov
           
             <tr>
               <td>
-                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
+                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
                 <p class="excerpt">
                   
-                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
-Tohle je dalš...
+                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
                   
                 </p>
               </td>

@@ -104,31 +104,42 @@
 <!-- start feedwind code --> 
 <script>
   function shouldShowFeedwind() {
-    const lastShown = localStorage.getItem('feedwindLastShown');
-    if (!lastShown) {
-      localStorage.setItem('feedwindLastShown', new Date().toISOString());
-      return true;
+    try {
+      const lastShown = localStorage.getItem('feedwindLastShown');
+      const now = new Date();
+      
+      if (!lastShown) {
+        localStorage.setItem('feedwindLastShown', now.toISOString());
+        return true;
+      }
+      
+      const lastDate = new Date(lastShown);
+      const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
+      
+      // Zobrazit každé 3 dny
+      if (daysDiff >= 3) {
+        localStorage.setItem('feedwindLastShown', now.toISOString());
+        return true;
+      }
+      
+      return false;
+    } catch (error) {
+      console.error('Chyba při kontrole Feedwind:', error);
+      return false;
     }
-    
-    const lastDate = new Date(lastShown);
-    const now = new Date();
-    const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-    
-    if (daysDiff >= 7) {
-      localStorage.setItem('feedwindLastShown', now.toISOString());
-      return true;
-    }
-    return false;
   }
 
-  if (shouldShowFeedwind()) {
-    const script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://feed.mikle.com/js/fw-loader.js';
-    script.setAttribute('preloader-text', 'Nahrávám');
-    script.setAttribute('data-fw-param', '168257/');
-    document.head.appendChild(script);
-  }
+  // Přidáme malé zpoždění pro jistotu, že DOM je načtený
+  setTimeout(() => {
+    if (shouldShowFeedwind()) {
+      const script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.src = 'https://feed.mikle.com/js/fw-loader.js';
+      script.setAttribute('preloader-text', 'Nahrávám');
+      script.setAttribute('data-fw-param', '168257/');
+      document.head.appendChild(script);
+    }
+  }, 1000);
 </script>
 <style>
   code.language-mermaid {
@@ -405,10 +416,10 @@ Strana se z toho oklepe, předvídat jí smrt je zbožné přání. Takto je smr
           
             <tr>
               <td>
-                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
+                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
                 <p class="excerpt">
                   
-                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
+                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
                   
                 </p>
               </td>
@@ -416,10 +427,10 @@ Strana se z toho oklepe, předvídat jí smrt je zbožné přání. Takto je smr
           
             <tr>
               <td>
-                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
                 <p class="excerpt">
                   
-                    Minule jsme si řekli, jak pomocí umělé inteligence psát lepší články, zprávy a texty. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři...
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
                   
                 </p>
               </td>

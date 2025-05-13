@@ -103,31 +103,42 @@ Chtěl bych lidem, co začínají s počítačem ukázat, jaké aplikace na inte
 <!-- start feedwind code --> 
 <script>
   function shouldShowFeedwind() {
-    const lastShown = localStorage.getItem('feedwindLastShown');
-    if (!lastShown) {
-      localStorage.setItem('feedwindLastShown', new Date().toISOString());
-      return true;
+    try {
+      const lastShown = localStorage.getItem('feedwindLastShown');
+      const now = new Date();
+      
+      if (!lastShown) {
+        localStorage.setItem('feedwindLastShown', now.toISOString());
+        return true;
+      }
+      
+      const lastDate = new Date(lastShown);
+      const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
+      
+      // Zobrazit každé 3 dny
+      if (daysDiff >= 3) {
+        localStorage.setItem('feedwindLastShown', now.toISOString());
+        return true;
+      }
+      
+      return false;
+    } catch (error) {
+      console.error('Chyba při kontrole Feedwind:', error);
+      return false;
     }
-    
-    const lastDate = new Date(lastShown);
-    const now = new Date();
-    const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-    
-    if (daysDiff >= 7) {
-      localStorage.setItem('feedwindLastShown', now.toISOString());
-      return true;
-    }
-    return false;
   }
 
-  if (shouldShowFeedwind()) {
-    const script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://feed.mikle.com/js/fw-loader.js';
-    script.setAttribute('preloader-text', 'Nahrávám');
-    script.setAttribute('data-fw-param', '168257/');
-    document.head.appendChild(script);
-  }
+  // Přidáme malé zpoždění pro jistotu, že DOM je načtený
+  setTimeout(() => {
+    if (shouldShowFeedwind()) {
+      const script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.src = 'https://feed.mikle.com/js/fw-loader.js';
+      script.setAttribute('preloader-text', 'Nahrávám');
+      script.setAttribute('data-fw-param', '168257/');
+      document.head.appendChild(script);
+    }
+  }, 1000);
 </script>
 <style>
   code.language-mermaid {
@@ -395,10 +406,10 @@ Chtěl bych lidem, co začínají s počítačem ukázat, jaké aplikace na inte
           
             <tr>
               <td>
-                <a href="/item/pribeh_olova_v_benzinu/">👉Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci</a>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
                 <p class="excerpt">
                   
-                    Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. ...
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
                   
                 </p>
               </td>
@@ -406,10 +417,10 @@ Chtěl bych lidem, co začínají s počítačem ukázat, jaké aplikace na inte
           
             <tr>
               <td>
-                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
                 <p class="excerpt">
                   
-                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
                   
                 </p>
               </td>

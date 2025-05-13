@@ -103,31 +103,42 @@ Ještě jsem Vreca nestihl informovat, ale jistě to udělám, když už je ve S
 <!-- start feedwind code --> 
 <script>
   function shouldShowFeedwind() {
-    const lastShown = localStorage.getItem('feedwindLastShown');
-    if (!lastShown) {
-      localStorage.setItem('feedwindLastShown', new Date().toISOString());
-      return true;
+    try {
+      const lastShown = localStorage.getItem('feedwindLastShown');
+      const now = new Date();
+      
+      if (!lastShown) {
+        localStorage.setItem('feedwindLastShown', now.toISOString());
+        return true;
+      }
+      
+      const lastDate = new Date(lastShown);
+      const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
+      
+      // Zobrazit každé 3 dny
+      if (daysDiff >= 3) {
+        localStorage.setItem('feedwindLastShown', now.toISOString());
+        return true;
+      }
+      
+      return false;
+    } catch (error) {
+      console.error('Chyba při kontrole Feedwind:', error);
+      return false;
     }
-    
-    const lastDate = new Date(lastShown);
-    const now = new Date();
-    const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-    
-    if (daysDiff >= 7) {
-      localStorage.setItem('feedwindLastShown', now.toISOString());
-      return true;
-    }
-    return false;
   }
 
-  if (shouldShowFeedwind()) {
-    const script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://feed.mikle.com/js/fw-loader.js';
-    script.setAttribute('preloader-text', 'Nahrávám');
-    script.setAttribute('data-fw-param', '168257/');
-    document.head.appendChild(script);
-  }
+  // Přidáme malé zpoždění pro jistotu, že DOM je načtený
+  setTimeout(() => {
+    if (shouldShowFeedwind()) {
+      const script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.src = 'https://feed.mikle.com/js/fw-loader.js';
+      script.setAttribute('preloader-text', 'Nahrávám');
+      script.setAttribute('data-fw-param', '168257/');
+      document.head.appendChild(script);
+    }
+  }, 1000);
 </script>
 <style>
   code.language-mermaid {
@@ -361,10 +372,10 @@ Poznámka na závěr: <strong>Vrecův blog najdete logicky na adrese </strong><a
           
             <tr>
               <td>
-                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
+                <a href="/item/jak-jsem-napsal-vlastni-zakon/">👉Jak jsem napsal vlastní zákon</a>
                 <p class="excerpt">
                   
-                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
+                    Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, kdy...
                   
                 </p>
               </td>
@@ -372,12 +383,10 @@ Poznámka na závěr: <strong>Vrecův blog najdete logicky na adrese </strong><a
           
             <tr>
               <td>
-                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
                 <p class="excerpt">
                   
-                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
-
-Poznatek první: umělá intel...
+                    Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ješt...
                   
                 </p>
               </td>

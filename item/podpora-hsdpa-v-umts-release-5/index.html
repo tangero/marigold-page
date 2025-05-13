@@ -103,31 +103,42 @@ HSDPA jako další štace ve zrychlování UMTS dat je podle některých produce
 <!-- start feedwind code --> 
 <script>
   function shouldShowFeedwind() {
-    const lastShown = localStorage.getItem('feedwindLastShown');
-    if (!lastShown) {
-      localStorage.setItem('feedwindLastShown', new Date().toISOString());
-      return true;
+    try {
+      const lastShown = localStorage.getItem('feedwindLastShown');
+      const now = new Date();
+      
+      if (!lastShown) {
+        localStorage.setItem('feedwindLastShown', now.toISOString());
+        return true;
+      }
+      
+      const lastDate = new Date(lastShown);
+      const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
+      
+      // Zobrazit každé 3 dny
+      if (daysDiff >= 3) {
+        localStorage.setItem('feedwindLastShown', now.toISOString());
+        return true;
+      }
+      
+      return false;
+    } catch (error) {
+      console.error('Chyba při kontrole Feedwind:', error);
+      return false;
     }
-    
-    const lastDate = new Date(lastShown);
-    const now = new Date();
-    const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-    
-    if (daysDiff >= 7) {
-      localStorage.setItem('feedwindLastShown', now.toISOString());
-      return true;
-    }
-    return false;
   }
 
-  if (shouldShowFeedwind()) {
-    const script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://feed.mikle.com/js/fw-loader.js';
-    script.setAttribute('preloader-text', 'Nahrávám');
-    script.setAttribute('data-fw-param', '168257/');
-    document.head.appendChild(script);
-  }
+  // Přidáme malé zpoždění pro jistotu, že DOM je načtený
+  setTimeout(() => {
+    if (shouldShowFeedwind()) {
+      const script = document.createElement('script');
+      script.type = 'text/javascript';
+      script.src = 'https://feed.mikle.com/js/fw-loader.js';
+      script.setAttribute('preloader-text', 'Nahrávám');
+      script.setAttribute('data-fw-param', '168257/');
+      document.head.appendChild(script);
+    }
+  }, 1000);
 </script>
 <style>
   code.language-mermaid {
@@ -385,11 +396,10 @@ Termín HSDPA se naučte, protože pro UMTS a jeho další naděje do budoucna j
           
             <tr>
               <td>
-                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
+                <a href="/item/facebook-meta-metaversum/">👉Facebook je nově Meta a staví Metaversum</a>
                 <p class="excerpt">
                   
-                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
-Tohle je dalš...
+                    Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. A hned si řekneme, proč je to důležité. Jen pro jistotu přip...
                   
                 </p>
               </td>
@@ -397,10 +407,10 @@ Tohle je dalš...
           
             <tr>
               <td>
-                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
                 <p class="excerpt">
                   
-                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
                   
                 </p>
               </td>
