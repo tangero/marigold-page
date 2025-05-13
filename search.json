@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 13.5.)",
+      "url"      : "//item/spanelsko-blackout/",
+      "category" : "Energie, Energetika, Green Deal",
+      "tags"     : "",
+      "date"     : "13.5.2025",
+      "content"  : "Co nového ve vyšetřování španělského blackoutu? ENSOE-E uvolnilo první předběžnou zprávu, ale úplně nejvíc jasno z ní není, proto jsem také informace pár dní neaktualizoval, jen bychom naprázdno propírali hypotézy nebo padali do logických pastí.Časovou osu jsem teď nicméně nedoplnil o data z podcastu Frauenhofer Institutu, který má vlastní měření v několika bodech a jeho data i úvahy lze brát za věrohodné. V přehledu jsou data označena jako (FRA).Co z časové osy plyne? Pořád více méně slyšíme stejný příběh, jehož počátek úplně nevíme. Krátce po poledni pokračuje kmitání ve španělské přenosové síti, které jsme viděli už dopoledne. Probíhají první pokusy..."
+    },
+  
+    {
       "title"    : "OpenAI kupuje Windsurf a  posiluje v programátorských nástrojích",
       "url"      : "//item/openai-kupuje-windsurf/",
       "category" : "AI, vibecoding, programování, OpenAI",
@@ -34,15 +43,6 @@
       "tags"     : "",
       "date"     : "3.5.2025",
       "content"  : "Nový model ChatGPT o3 umí jednu zajímavou věc. Umí odhadnout polohu fotografie. Prostě nahrajete obrázek a zeptáte se, kde byl pořízen. Model o3 se zamyslí a po nějaké chvíli vám řekne, kde asi byl snímek pořízen, případně co na něm vidíte. Jenže tak jednoduché to není. Samozřejmě, pokud mu šoupnete fotku Pražského hradu, tak po pár minutách dumání řekne, že je to Pražský hrad. Jenže jakmile to není tak známá pamětihodnost, je to mnohem těžší a už výrazně více záleží na tom, jak se zeptáte, tedy jaký dáte prompt.A protože o3 není na přemýšlení o místě pořízení fotky úplně uzpůsobený,..."
-    },
-  
-    {
-      "title"    : "⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 5.5.)",
-      "url"      : "//item/spanelsko-blackout/",
-      "category" : "Energie, Energetika, Green Deal",
-      "tags"     : "",
-      "date"     : "29.4.2025",
-      "content"  : "Po zajímavé stopě se pustil Reuters. Ten zdokumentoval několik výpadků z dní předcházejících blackoutu. V týdnech před pondělním kolapsem zaznamenala soustava několik menších poruch a experti opakovaně upozorňovali na narůstající nestabilitu a na to, že soustavu může rozhodit jak nedostatek výkonu, tak ale i její přebytek, což hrozilo zejména s růstem slunečních dní a tím s růstem produkce elektřiny, zatímco teploty byly ještě nízké na to, aby lidé masivně zapínali klimatizace.🇪🇸⚡️ 5.5. - Španělsku hrozil blackout několik dníInterní experti i REE v ročních zprávách upozorňovali na rostoucí nestabilitu kvůli souběhu malých zdrojů OZE a nedostatku dat z nich. REE z nich totiž..."
     },
   
     {
