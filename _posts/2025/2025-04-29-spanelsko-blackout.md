@@ -33,6 +33,8 @@ Co z časové osy plyne? Pořád více méně slyšíme stejný příběh, jeho�
 
 Ve skutečnosti je velmi důležité, proč k odpojení tohoto výkonu došlo. Hypotéza "mlátíme OZE po hlavě" říká, že došlo k náhlé nadvýrobě na FTV a tím došlo k odpojení. Jenže to by se muselo opravdu fofrem vyjasnit počasí. V oblasti Extramadura bylo jasno už dlouho a k takovým změnám nedochází ani rychle, ani snadno. Navíc meteorologové to popřeli. Krom toho takové předpovědi má operátor gridu v předstihu a buďto operátor nebo meteorologové by museli udělat velkou chybu. Jistě, mohly nastat i další události, které způsobují spuštění nadnapěťové ochrany měničů: mohlo dojít k přebytku jalového výkonu, rychlému odpojení velké zátěže, špatně seřízenému OLTC atd. To vše jsou chyby v nastavení.
 
+### Autonomní oblast Extramadura
+
 Řekněme si něco k autonomní oblasti Extramadura. Sám jsem ji musel najít na mapě, je to jihozápad Španělska na hranici s Portugalskem a je to jako oblast největší čistý exportér elektřiny. Instalovaný výkon je kolem 12 GW (cca desetina Španělska), naprostou většinu exportuje. Polovinu dělá fotovoltaika, 17% jaderka v Almarazu, 20% vodní a přečerpávací elektrárny, 3% jsou solárně-termální elektrárny, zbytek je vítr, kogenerace atd. Ze seznamu vidíte, že točivých zdrojů má Extramadura obecně dostatek, jenže v tento den tomu bylo jinak.
 
 Pro náš příběh je podstatné propojení Extramadury dále do Španělska, kde hlavním propojovacím bodem je rozvodna Aranuelo nedaleko jaderky Almaraz. Nezkoušejte ji najít na mapě, je součástí fotovoltaického parku Iberdroly, který mimochodem má bateriové úložiště. A sice není prostorově velká, ale je zásadní a je nejdůležitější energetickou křižovatkou západního Španělska. Vyvádí elektřinu z jaderky Almaraz (2 GW), obsluhuje fotovoltaiky a další zdroje v oblasti a dělá primární jalovou regulaci pro severní Extramaduru. Tzn. má na starosti cca 6 GW transformované nebo přímo přepojované kapacity. A především směřuje elektřinu do oblasti Madridu, včetně průmyslu.
@@ -65,6 +67,9 @@ V zásadě je podle těchto údajů nejpravděpodobnější, že šlo o kombinac
 -   21 : 35 Synchronizace jižní 400 kV ES–PT.
 -   29 / 4 00 : 22 Portugalská přenosová soustava v normálním stavu; 04 : 00 Španělsko.
 
+> Níže pod touto sekcí najdete zprávy k události ze dne incidentu a z dalších dní, kdy jsem situaci sledoval. 
+
+
 --
 
 ### 🇪🇸⚡️ 5.5. - Španělsku hrozil blackout několik dní
@@ -79,7 +84,6 @@ Dne  22. dubna se objevily nápadné přepětí v síti a výpadky řízení, 
 
 Síť je nyní stabilní, nouzový stav byl zrušen. Vyšetřovací panel ENTSO‑E má plná data a nejpozději do 10 .5. slíbí první technický verdikt. Do té doby se čeká především na výsledek francouzského testu ochranných relé, který má objasnit, proč se Pyreneje odpojily prakticky v jednom okamžiku - a v kterém okamžiku to bylo. Nové informace nicméně posilují verzi systémového selhání, tedy neschopnosti REE řídit dynamicky se vyvíjející situaci v síti kvůli nedostatku dat a regulačních mechanismů. 
 
-> Níže pod touto sekcí najdete zprávy k události ze dne incidentu a z dalších dní, kdy jsem situaci sledoval. 
 
 
 ---
