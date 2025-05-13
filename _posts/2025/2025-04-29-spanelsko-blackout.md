@@ -1,6 +1,7 @@
 ---
 audio_url: null
 author: Patrick Zandl
+date: 13.5.2025
 categories:
 - Energie
 - Energetika
@@ -9,7 +10,7 @@ layout: post
 post_excerpt: Ve Španělsku a Portugalsku proběhl blackout energetické sítě. Všechno
   stálo. Co se stalo? Den za dnem aktualizuji informace. 
 summary_points:
-- Iberský poloostrov se oddělil od kontinentální sítě kvůli kaskádovému odpojení linek.
+- Pyrenejský poloostrov se oddělil od kontinentální sítě kvůli kaskádovému odpojení linek.
 - Frekvence v izolované síti klesla pod 49 Hz, což vedlo k blackoutu Španělska a Portugalska.
 - Zbytek Evropy zaznamenal pokles frekvence jen o 0,15 Hz díky rychlé regulaci.
 - Provozovatelé sítí vyšetřují příčiny, zatím bez důkazů o kybernetickém útoku.
@@ -21,13 +22,56 @@ summary_points:
 - Doprava a telekomunikace byly výrazně narušeny, evakuováno 35 000 cestujících.
 - Ceny elektřiny se stabilizovaly, problém byl v přenosu, ne v nedostatku výroby.
 thumbnail: https://www.marigold.cz/assets/putin-jistic.jpg
-title: ⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 5.5.)
+title: ⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 13.5.)
 ---
 
+Co nového ve vyšetřování španělského blackoutu? [ENSOE-E uvolnilo první předběžnou zprávu](https://www.entsoe.eu/news/2025/05/09/entso-e-expert-panel-initiates-the-investigation-into-the-causes-of-iberian-blackout/), ale úplně nejvíc jasno z ní není, proto jsem také informace pár dní neaktualizoval, jen bychom naprázdno propírali hypotézy nebo padali do logických pastí. 
+
+Časovou osu jsem teď nicméně nedoplnil o data  [z podcastu Frauenhofer Institutu](https://www.youtube.com/watch?v=ElDQr8Vueyw), který má vlastní měření v několika bodech a jeho data i úvahy lze brát za věrohodné. V přehledu jsou data označena jako (FRA).
+
+Co z časové osy plyne? Pořád více méně slyšíme stejný příběh, jehož počátek úplně nevíme. Krátce po poledni pokračuje kmitání ve španělské přenosové síti, které jsme viděli už dopoledne. Probíhají první pokusy o tlumení této oscilace, ale kmitání přetrvává. Pak máme desetiminutové okno, z něhož nejsou publikována žádná data. Jen víme, že v 12:32:57 dochází k okamžitému výpadku cca 2,2 GW výkonu fotovoltaických elektráren v oblasti Extramadura (a údajně 1 GW v oblasti Andalusie). O pět vteřin dříve podle jedné zmínky (neuvedené v oficiálním soupisu ENTSO-E) došlo přepětí na rozvodně Araňuelo a Majadas - údajně až 6 %, což je dost - ale toto číslo není oficiálně potvrzeno.. Pokud chcete bít po hlavě obnovitelné zdroje, nemusíte číst dál.
+
+Ve skutečnosti je velmi důležité, proč k odpojení tohoto výkonu došlo. Hypotéza "mlátíme OZE po hlavě" říká, že došlo k náhlé nadvýrobě na FTV a tím došlo k odpojení. Jenže to by se muselo opravdu fofrem vyjasnit počasí. V oblasti Extramadura bylo jasno už dlouho a k takovým změnám nedochází ani rychle, ani snadno. Navíc meteorologové to popřeli. Krom toho takové předpovědi má operátor gridu v předstihu a buďto operátor nebo meteorologové by museli udělat velkou chybu. Jistě, mohly nastat i další události, které způsobují spuštění nadnapěťové ochrany měničů: mohlo dojít k přebytku jalového výkonu, rychlému odpojení velké zátěže, špatně seřízenému OLTC atd. To vše jsou chyby v nastavení.
+
+Řekněme si něco k autonomní oblasti Extramadura. Sám jsem ji musel najít na mapě, je to jihozápad Španělska na hranici s Portugalskem a je to jako oblast největší čistý exportér elektřiny. Instalovaný výkon je kolem 12 GW (cca desetina Španělska), naprostou většinu exportuje. Polovinu dělá fotovoltaika, 17% jaderka v Almarazu, 20% vodní a přečerpávací elektrárny, 3% jsou solárně-termální elektrárny, zbytek je vítr, kogenerace atd. Ze seznamu vidíte, že točivých zdrojů má Extramadura obecně dostatek, jenže v tento den tomu bylo jinak.
+
+Pro náš příběh je podstatné propojení Extramadury dále do Španělska, kde hlavním propojovacím bodem je rozvodna Aranuelo nedaleko jaderky Almaraz. Nezkoušejte ji najít na mapě, je součástí fotovoltaického parku Iberdroly, který mimochodem má bateriové úložiště. A sice není prostorově velká, ale je zásadní a je nejdůležitější energetickou křižovatkou západního Španělska. Vyvádí elektřinu z jaderky Almaraz (2 GW), obsluhuje fotovoltaiky a další zdroje v oblasti a dělá primární jalovou regulaci pro severní Extramaduru. Tzn. má na starosti cca 6 GW transformované nebo přímo přepojované kapacity. A především směřuje elektřinu do oblasti Madridu, včetně průmyslu.
+
+Jak mohlo vzniknout lokální přepětí v Aranuelu? Nejpravděpodobnější variantou je, že došlo ke spuštění ochranného odpojení votovoltaických měničů, což zvýšilo oscilaci v síti a větrné parky Andalusie vyhodnotily oscilaci jako napěťový kolaps a také se odpojily. Následně se odpojila linka Španělsko-Francie (ať již na pokyn operátora nebo automaticky, to se šetří) a kaskádovitě následovaly další zdroje prakticky už "v jednom okamžiku".
+
+Jenže jak se síť mohla takto rozkývat? V oblasti jsou dva hlavní vyrovnávací prvky, statický kompenzátor v Cedillo a jalová regulace v jaderce Almaraz měla teoreticky výkyv kompenzovat nebo rozložit tak, aby nedošlo k okamžitému, současnému odpojení. Proč se tak nestalo, je zatím nevysvětleno: podle nepotvrzené informace kompenzátor v Cedillu nezafungoval správně a v jaderce Almaraz měl být odstavený jeden blok kvůli výměně paliva (tedy celkem 3 ze 7 bloků jaderek byly mimo síť). Abychom si to uměli představit: kompenzátor se mohl sepnout s mírným zpožděním a naopak problém v síti krátkodobě zhoršit, na což mohly reagovat binárně nastavené ochrany fotovoltaik jako na lokální přepětí. Ale dost spekulacím. Na situaci se navíc negativně podepsal přetrvávající export elektřiny do Portugalska i Francie.
+
+Druhou variantou je rychlá změna točivého výkonu mezi extramadurskou a madridskou oblastí přenosové soustavy, což místní regulátory nemohly absorbovat. Tady by se nabídlo "náhlé odpojení" fotovoltaik, ale to by spíše síť stabilizovalo a na prvotní příčinu úplně nevypadá. Opět: spekuluje se o nevhodném pokynu REE nebo jeho chybném provedení k snížení výkonu paroplynové elektrárny v oblasti Sevilly, čímž by se myslela dva roky stará paroplynovka Kryštofa Kolumba v Huelvě o 391 MW.
+
+Jak vidíte, možností je celá řada a ve skutečnosti velmi záleží na tom, proč se co stalo. Může jít o technickou chybu, nevhodný zásah dispečera sítě či - jak se také spekuluje - na nepřeprogramované ochrany, které nejsou aktualizované na změny poměrů v síti.
+
+V zásadě je podle těchto údajů nejpravděpodobnější, že šlo o kombinaci pomalu rostoucího kmítání mezi dvěma přenosově oddělenými oblastmi, lokálních napěťových špiček a následných ochranných zásahů relé, které vyřadily klíčové vedení. Zatímco dříve padaly podezření na „výpadek OZE“ nebo „kyber-útok“, video i oficiální zprávy společně potvrzují, že **primární spouštěč** bylo **překročení napěťových a impedance-limitů** v kombinaci s nízkou tlumicí kapacitou sítě.
+
+
+Časová osa:
+
+-   12 : 03 CET Vysokofrekvenční oscilace ≈ 0,63 Hz detekována ve frekvenčním záznamu Malaga i Freiburg, amplituda roste po dobu čtyř minut _(FRA)
+-   12 : 12 – 12 : 23 Roste frekvenční rozdíl mezi Pyrenejskou a Evropskou sítí o 0,217 Hz. Spektrální analýza PMU Freiburg potvrzuje koherentní kmitání mezi Pyrenejským poloostrovem a střední Evropou _(FRA)_   
+-   12 : 19 – 12 : 21 První pokus o tlumení oscilace dokumentován v předběžné chronologii ENTSO-E. Ochrany AVR a FACTS zařízení zkrátily amplitudu, kmitání přetrvalo. AVR je regulátor v elektrárnách, který hlídá konstantní napětí generátoru. FACTS je „elektronický tlumič“ napěťových výkyvů na dálkovém vedení, který na pokyn operátora nebo automaticky bleskově vyrovná přepětí či podpětí, aby se síť nerozkývala.  
+-   12 : 32 : 52 lokální přepětí 6 % na rozvodně Aranuelo (nepotvrzeno!)   
+-   12 : 32 : 57 Ze sítě vypadává zhruba 2,2 GW fotovoltaiky v regionu Extremadura, současně cca 1,0 GW větrná Andalusie; potvrzeno v předběžné chronologii ENTSO-E.  
+-   12 : 33 : 18 – 12 : 33 : 21 Frekvence iberské podzóny klesá na 48,0 Hz; aktivováno podfrekvenční odlehčení zátěže UFLS (cca 2 GW), aktivovány frekvenční ochrany měničových zdrojů (zdroj ENTSO-E).
+-   12 : 33 : 21 Impedance-relé vypínají všech šest 400 kV vedeních ES–FR pro nadkritický fázový úhel (potvrzeno ENTSO-E) - tím okamžitě v síti roste nadvýroba a přestává existovat možnost stabilizace importem z Francie.  
+-   12 : 33 : 24 Totální kolaps synchronismu na Pyrenejském poloostrově, výkon v provozu je cca 0,4 GW.  
+-   12 : 33 – 12 : 34 Fázový rozdíl Malaga–Freiburg integrovaný z frekvence dosahuje ≈ 90°, což je limit stabilního přenosu _(FRA)_   
+-   12 : 44 start "ze tmy" přečerpávací vodní elektrárny Alcántara; první 400 kV koridor ES–FR pod proudem (oficiální ENTSO-E)    
+-   13 : 04 Sestavena druhá linie ES–MA; začlenění hydroelektráren, následně CCGT.
+-   18 : 36 Synchronizace první 220 kV vazby ES–PT.   
+-   21 : 35 Synchronizace jižní 400 kV ES–PT.
+-   29 / 4 00 : 22 Portugalská přenosová soustava v normálním stavu; 04 : 00 Španělsko.
+
+--
+
+### 🇪🇸⚡️ 5.5. - Španělsku hrozil blackout několik dní
 
 Po zajímavé stopě se pustil Reuters. Ten zdokumentoval několik výpadků z dní předcházejících blackoutu. V týdnech před pondělním kolapsem zaznamenala soustava několik menších poruch a experti opakovaně upozorňovali na narůstající nestabilitu a na to, že soustavu může rozhodit jak nedostatek výkonu, tak ale i její přebytek, což hrozilo zejména s růstem slunečních dní a tím s růstem produkce elektřiny, zatímco teploty byly ještě nízké na to, aby lidé masivně zapínali klimatizace. 
 
-### 🇪🇸⚡️ 5.5. - Španělsku hrozil blackout několik dní
+
 
 Interní experti i REE v ročních zprávách upozorňovali na rostoucí nestabilitu kvůli souběhu malých zdrojů OZE a nedostatku dat z nich. REE z nich totiž nemá online data (či near-real-time data) o jejich produkci a pouze ji v reálném čase predikuje podle počasí, nemá ani vliv na připojení těchto zdrojů do sítě a jejich odpojení. 
 Experti ENTSO-E také upozorňovali na nedostatečné plánování chystaného vyřazování jaderných reaktorů ze sítě s tím, že už plánovaná výměna paliva v reaktoru Almaraz II může být problém. Reaktor byl odpojen od sítě 20 . 4. 2025 a přešel do horkého odstávkového stavu. Práce podle harmonogramu pokračovaly i během blackoutu.
