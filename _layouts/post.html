@@ -10,34 +10,9 @@ layout: default
 <!-- end fMermaid run code --> 
 
 <!-- start feedwind code --> 
-<script>
-  function shouldShowFeedwind() {
-    const lastShown = localStorage.getItem('feedwindLastShown');
-    if (!lastShown) {
-      localStorage.setItem('feedwindLastShown', new Date().toISOString());
-      return true;
-    }
-    
-    const lastDate = new Date(lastShown);
-    const now = new Date();
-    const daysDiff = Math.floor((now - lastDate) / (1000 * 60 * 60 * 24));
-    
-    if (daysDiff >= 7) {
-      localStorage.setItem('feedwindLastShown', now.toISOString());
-      return true;
-    }
-    return false;
-  }
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
 
-  if (shouldShowFeedwind()) {
-    const script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://feed.mikle.com/js/fw-loader.js';
-    script.setAttribute('preloader-text', 'Nahrávám');
-    script.setAttribute('data-fw-param', '168257/');
-    document.head.appendChild(script);
-  }
-</script>
+
 <style>
   code.language-mermaid {
     display: flex;
