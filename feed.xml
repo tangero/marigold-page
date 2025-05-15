@@ -1,4 +1,190 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-14T07:12:39+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 13.5.)</title><link href="https://www.marigold.cz/item/spanelsko-blackout/" rel="alternate" type="text/html" title="⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 13.5.)" /><published>2025-05-13T00:00:00+00:00</published><updated>2025-05-13T00:00:00+00:00</updated><id>https://www.marigold.cz/item/spanelsko-blackout</id><content type="html" xml:base="https://www.marigold.cz/item/spanelsko-blackout/"><![CDATA[<p>Co nového ve vyšetřování španělského blackoutu? <a href="https://www.entsoe.eu/news/2025/05/09/entso-e-expert-panel-initiates-the-investigation-into-the-causes-of-iberian-blackout/">ENSOE-E uvolnilo první předběžnou zprávu</a>, ale úplně nejvíc jasno z ní není, proto jsem také informace pár dní neaktualizoval, jen bychom naprázdno propírali hypotézy nebo padali do logických pastí.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-15T19:44:28+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">AI novinky k 15.5.2025</title><link href="https://www.marigold.cz/item/ai-news-15-5-2025/" rel="alternate" type="text/html" title="AI novinky k 15.5.2025" /><published>2025-05-15T00:00:00+00:00</published><updated>2025-05-15T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-news-15-5-2025</id><content type="html" xml:base="https://www.marigold.cz/item/ai-news-15-5-2025/"><![CDATA[<p>Na minulý souhrn AI novinek jsem měl dobré ohlasy, takže si jej po týdnu zopakujme. Mezi nejdůležitější novinky patří zejména GPT-4.1 ve web rozhraní, Google Gemini novinky, ale také robotika a Meta aktuality.</p>
+
+<h2 id="google-posunuje-hranice-s-alphaevolve-a-rozšiřuje-gemini">Google posunuje hranice s AlphaEvolve a rozšiřuje Gemini</h2>
+
+<p>Google DeepMind představil údajně převratný nástroj AlphaEvolve, který kombinuje schopnosti jazykového modelu Gemini s evolučními strategiemi pro vytváření algoritmů řešících vědecké a výpočetní výzvy. Tento kódovací agent již dosáhl několika významných matematických objevů včetně prvního vylepšení <a href="https://cs.wikipedia.org/wiki/Strassenův_algoritmus">Strassenova algoritmu</a> z roku 1969.</p>
+
+<p>Systém využívá modely Gemini (Flash pro generování nápadů, Pro pro analýzu) k vytváření kódu, který je testován hodnotiteli a iterativně zdokonalován. AlphaEvolve již nyní optimalizuje datacentrová harmonogramy, zlepšuje trénink AI (včetně svého vlastního) a pomáhá s návrhem čipů. Při testování na více než 50 otevřených matematických problémech dosáhl nejmodernějších řešení v 75 % případů a objevil zcela nová, vylepšená řešení v dalších 20 %.</p>
+
+<p>Google zároveň oznámil významné rozšíření své AI asistentky Gemini na další platformy a zařízení. V následujících měsících se Gemini objeví na chytrých hodinkách s Wear OS, kde uživatelům umožní přirozenější hlasovou interakci. Google plánuje také integraci do Google TV, kde AI pomůže s personalizovanými doporučeními obsahu a vysvětlením složitých konceptů jednoduchým způsobem. Jsem na to zvědav, protože řada televizí má dneska problém utáhnout Google TV software, natož, když se do toho přidá AI…</p>
+
+<p>Zajímavá je i integrace do systému <strong>Android Auto</strong>, kde Gemini vylepší “řidičský zážitek” díky porozumění přirozenějším, konverzačním příkazům. Asistentka dokáže najít nabíjecí stanice, shrnout zprávy nebo navrhnout místa k procházce během nabíjení automobilu. Tato funkce by měla být spuštěna v příštích měsících. V neposlední řadě má Gemini přijít i na první headset s Android XR, který vyvíjí Samsung.</p>
+
+<p>Google dále aktualizoval dva klíčové modely:</p>
+
+<ul>
+  <li>Gemini 2.5 Pro Preview (I/O Edition) s vylepšeným porozuměním videím a zdokonalením pro UI, kód a agentní workflow</li>
+  <li>Gemini 2.0 Flash pro generování obrázků s vylepšenou kvalitou, vykreslováním textu a menším počtem obsahových omezení</li>
+</ul>
+
+<h2 id="openai-přináší-gpt-41-rozšiřuje-vedení-a-vydává-bezpečnostní-nástroje">OpenAI přináší GPT-4.1, rozšiřuje vedení a vydává bezpečnostní nástroje</h2>
+
+<p>OpenAI integrovala své nejnovější <strong>jazykové modely GPT-4.1 a GPT-4.1 mini do ChatGPT</strong>, čímž zlepšila schopnosti kódování a následování pokynů pro předplatitele služby. Tyto modely jsou dostupné pro uživatele ChatGPT Plus, Pro a Team a nabízejí vylepšený výkon ve srovnání s předchozími verzemi.</p>
+
+<p>Uvedení GPT-4.1 však neproběhlo bez kontroverze. Počáteční vydání bez bezpečnostní zprávy vyvolalo kritiku týkající se transparentnosti a možných rizik nasazení takto pokročilých modelů bez důkladného prověření. OpenAI reagovala na kritiku závazkem k častějšímu zveřejňování bezpečnostních hodnocení a vytvořením Safety Evaluations Hub, který bude pravidelně zobrazovat výsledky testů svých AI modelů.</p>
+
+<p>Společnost také oznámila <strong>jmenování Fidji Simo, dosavadní CEO Instacart, do pozice CEO of Applications</strong>. V této nově vytvořené vedoucí pozici bude Simo dohlížet na produktové nabídky a obchodní operace společnosti. Tato divize Applications spojuje existující obchodní a operační týmy odpovědné za uvádění výzkumu na trh. Simo bude přímo podřízena CEO Samu Altmanovi, kterému tento krok umožní více se soustředit na výzkum, výpočetní infrastrukturu a bezpečnostní systémy.</p>
+
+<p>OpenAI také <strong>upustila od svého záměru stát se plně ziskovou společností</strong> a oznámila, že převede svoji ziskovou divizi na Public Benefit Corporation (PBC) při zachování řízení neziskovou organizací. Toto rozhodnutí přichází po tlaku bývalých zaměstnanců a v rámci probíhajícího právního sporu.</p>
+
+<p>Společnost zároveň rozšířila svůj <strong>GitHub konektor pro funkci Deep Research</strong>, což umožňuje nástroji využívat a odpovídat na otázky týkající se kódových základen. Tato funkce dovoluje uživatelům připojit repozitáře a využít ChatGPT pro čtení a vyhledávání ve zdrojovém kódu a PR, přičemž vytváří podrobnou zprávu s citacemi.</p>
+
+<p>Na poli zdravotnických aplikací OpenAI vydala <strong>HealthBench</strong>, referenční měřítko vytvořené ve spolupráci s 262 lékaři k hodnocení výkonu AI systémů ve zdravotnických konverzacích. Tato iniciativa má za cíl stanovit nový standard pro měření bezpečnosti a efektivity AI v medicínském kontextu.</p>
+
+<p>Hlavní vědec OpenAI, <a href="https://en.wikipedia.org/wiki/Jakub_Pachocki">Jakub Pachocki</a> (je to polák, ne čech 😎), <a href="https://www.nature.com/articles/d41586-025-01485-2">v rozhovoru pro Nature</a> odhalil svou vizi pro blízkou budoucnost AI. Zmínil, že existují “významné důkazy o tom, že modely jsou schopné objevovat nové poznatky,” ačkoli AI uvažuje jinak než lidé. Pachocki také uvedl, že AI vytvářející “měřitelný ekonomický dopad” a originální výzkum by naplnily jeho definici AGI (umělé obecné inteligence), kterou očekává do konce dekády.</p>
+
+<h2 id="anthropic-chystá-nové-modely-sonnet-a-opus-a-vylepšuje-claude-code">Anthropic chystá nové modely Sonnet a Opus a vylepšuje Claude Code</h2>
+
+<p>Anthropic se připravuje na uvedení <strong>pokročilých verzí svých modelů Claude Sonnet a Opus</strong> v “nadcházejících týdnech”, které budou disponovat hybridním myšlením a rozšířenými možnostmi využití nástrojů. <em>Těším se, snad je napadne dát jim inteligentnější označení než třeba Sonnet 3.7-05-25… - a 3.8 není velký zlepšení</em></p>
+
+<p>Tyto modely mají být schopné střídat mezi uvažováním a používáním nástrojů a dokáží se opravovat tím, že se zastaví a prozkoumají, co se pokazilo. V oblasti kódování mohou testovat svůj vygenerovaný kód, identifikovat chyby, řešit problémy pomocí uvažování a provádět opravy bez potřeby lidského zásahu.</p>
+
+<p>Model Anthropicu s kódovým označením Neptune podstupuje bezpečnostní testování, přičemž někteří věří, že název naznačuje verzi 3.8 (8. planeta od Slunce). Tato informace se objevila současně se spuštěním nového programu odměn za nalezení chyb (bug bounty), který se zaměřuje na testování principů bezpečnosti Claude.</p>
+
+<p>**Mobilní aplikace Claude **dokáže nově vyhledávat na webu a v Google Workspace a poskytovat komplexní zprávy s citacemi ze stovek zdrojů - tak, jako webová a desktop aplikace. Aktualizujte</p>
+
+<p>Anthropic rovněž představil <strong>nové funkce pro svůj nástroj Claude Code</strong>, včetně multipaste pro vkládání více velkých bloků kódu do jedné výzvy, podpory OpenTelemetry pro sledování využití a realtime řízení, které umožňuje uživatelům poskytovat zpětnou vazbu AI během práce bez čekání na dokončení úkolu.</p>
+
+<h3 id="novinky-v-claude-code">Novinky v Claude Code</h3>
+
+<ul>
+  <li><strong>Funkce multipaste</strong>: Uživatelé nyní mohou vkládat více velkých bloků obsahu (text i obrázky) do jedné výzvy</li>
+  <li><strong>Podpora OpenTelemetry</strong>: Umožňuje sledování detailních metrik z Claude Code, včetně:
+    <ul>
+      <li>Aktivních uživatelů</li>
+      <li>Relací na uživatele</li>
+      <li>Počtu řádků kódu</li>
+      <li>Commitů</li>
+      <li>Pull requestů</li>
+    </ul>
+  </li>
+  <li><strong>Všechny metriky zůstávají plně v rámci vaší infrastruktury</strong></li>
+  <li><strong>Real-time steering (řízení v reálném čase)</strong>: Možnost posílat zpětnou vazbu Claude Code během jeho práce bez čekání na dokončení
+    <ul>
+      <li>Claude okamžitě zapracovává vaše vstupy</li>
+      <li>Upravuje svůj přístup na základě nových požadavků nebo upřesnění</li>
+    </ul>
+  </li>
+  <li><strong>Všechny tři funkce jsou dostupné v nejnovější aktualizaci</strong></li>
+  <li><strong>Claude Code je nyní k dispozici s předplatnými Claude Max na claude.ai/code</strong></li>
+</ul>
+
+<p>Společnost dále <strong>zpřístupnila ve svém API možnosti vyhledávání na webu</strong>, což vývojářům umožňuje vytvářet aplikace schopné vyhledávat aktuální informace na internetu a poskytovat podložené odpovědi s relevantními citacemi.</p>
+
+<h2 id="meta-posouvá-schopnosti-ai-pěti-revolučními-projekty">Meta posouvá schopnosti AI pěti revolučními projekty</h2>
+
+<p>Meta prostřednictvím svého týmu FAIR (Facebook AI Research) představila pět průlomových projektů v oblasti umělé inteligence, které mají za cíl posunout schopnosti AI k více lidskému chápání a interakci:</p>
+
+<p>Doplněný text s charakteristikami jednotlivých projektů:</p>
+
+<ol>
+  <li>
+    <p><strong>Perception Encoder</strong>  - působí jako “oči” AI systémů, umožňující jim dekódovat a pochopit složité vizuální informace s bezprecedentní přesností.  <em>Tento model funguje jako vizuální front-end pro AI, který zpracovává a interpretuje obrazová data podobně jako lidský zrakový systém, což umožňuje pokročilou klasifikaci obrazů, rozpoznávání objektů a porozumění vizuálnímu kontextu.</em></p>
+  </li>
+  <li>
+    <p><strong>Perception Language Model (PLM)</strong>  - průlomový krok v dostupnosti AI modelů díky open-source architektuře, který zlepšuje synergii mezi viděním a jazykem. Tento open-source model pro vizuální úkoly dokáže extrahovat detaily o jednání subjektu v daném čase.  <em>PLM propojuje vizuální a textové porozumění, což umožňuje AI odpovídat na otázky o obrázcích, popisovat viděné scény a analyzovat vztahy mezi objekty na obrazových vstupech bez potřeby proprietárních dat.</em></p>
+  </li>
+  <li>
+    <p><strong>Meta Locate 3D</strong>  - vylepšuje schopnosti robotů interpretovat příkazy v přirozeném jazyce a prostorové náznaky k přesnému identifikování objektů v trojrozměrném prostředí. Cílem je pomoci robotům lépe rozumět a interagovat s okolím.  <em>Tento systém překlenuje propast mezi lidskými slovními popisy (“najdi červené jablko na kuchyňské lince”) a přesným prostorovým umístěním objektů, což je klíčové pro praktické nasazení robotů v domácnostech a průmyslu.</em></p>
+  </li>
+  <li>
+    <p><strong>Dynamic Byte Latent Transformer</strong>  - představuje posun v jazykovém modelování díky zpracování na úrovni bajtů, což zvyšuje efektivitu a odolnost při řešení různých jazykových výzev.  <em>Na rozdíl od běžných tokenizačních přístupů tento model pracuje přímo s bajty, což mu umožňuje lépe zvládat překlepy, nová slova, různé jazyky a škodlivé vstupy, přičemž poskytuje konzistentnější výkon napříč různými jazykovými strukturami a formáty.</em></p>
+  </li>
+  <li>
+    <p><strong>Collaborative Reasoner</strong>  - zaměřuje se na spolupráci mezi AI a lidmi i jinými AI systémy, což otevírá cestu pro složitější sociální chování AI s empatií a nuancovaným pochopením lidských mentálních stavů.  <em>Systém je navržen pro práci v týmech, kde dokáže předvídat potřeby lidských spolupracovníků, chápat jejich záměry a efektivně komunikovat v rámci řešení společných úkolů, čímž transformuje AI z pouhého nástroje na aktivního partnera při rozhodování a řešení problémů.</em></p>
+  </li>
+</ol>
+
+<p>Všechny tyto projekty jsou krokem k dosažení Advanced Machine Intelligence (AMI) a zapadají do strategických cílů Meta pro integraci AI napříč jejími platformami.</p>
+
+<h2 id="microsoft-vylepšuje-copilot-a-adoptuje-google-a2a-framework">Microsoft vylepšuje Copilot a adoptuje Google A2A framework</h2>
+
+<p>Microsoft aktualizoval svůj nástroj Copilot pomocí funkce “Pages”, která se podobá Canvas z ChatGPT. Tato funkce umožňuje uživatelům spolupracovat s Copilotem, žádat asistenta o úpravy, rozšíření nebo vylepšení jeho odpovědí. Na rozdíl od Canvas však zřejmě nemá schopnosti pro kódování.</p>
+
+<p>Společnost také oznámila, že přijímá Google Agent2Agent (A2A) framework, který brzy spustí na platformách Azure AI Foundry a Copilot Studio. Tento krok umožní podnikům vyvíjet AI agenty, kteří budou již v návrhu schopni vzájemně interagovat napříč platformami.</p>
+
+<h2 id="sakana-ai-učí-modely-přemýšlet-v-čase">Sakana AI učí modely přemýšlet v čase</h2>
+
+<p>Japonská společnost Sakana AI představila Continuous Thought Machines (CTMs), nový typ modelu, který činí AI více podobnou lidskému mozku tím, že jí umožňuje “přemýšlet” krok za krokem v průběhu času namísto okamžitého rozhodování, jak to dělají současné AI systémy.</p>
+
+<p>Na rozdíl od většiny AI, které zpracovávají informace statickým, jednorázovým způsobem, CTM bere v úvahu, jak se její vnitřní aktivita rozvíjí v čase, podobně jako to dělá náš mozek. Technologie čerpá inspiraci ze skutečných mozků, kde je načasování aktivace neuronů klíčové pro inteligenci.</p>
+
+<p>Sakana předvedla CTM řešící složité bludiště, kde model viditelně sledoval možné cesty bludištěm při svém přemýšlení. Další příklad se zabýval rozpoznáváním obrazů, kde CTM prohlížela různé části obrazu a trávila více času v závislosti na obtížnosti úkolu.</p>
+
+<p>(Tady si vzpomínám, jak jsem do GPT-4o nahrál mapu bludiště, chtěl jsem vyznačit nejkratší trasu od vchodu k východu a ono to vzalo kolem bludiště, vůbec ne skrze bludiště… co na to říct, zadání splnil…)</p>
+
+<h2 id="ai-dokáže-předpovídat-zdravotní-výsledky-jen-z-fotografií-obličeje">AI dokáže předpovídat zdravotní výsledky jen z fotografií obličeje</h2>
+
+<p>Vědci z Mass General Brigham představili FaceAge, AI nástroj, který dokáže odhadnout biologický věk člověka a zlepšit předpovědi výsledků léčby rakoviny pouhou analýzou fotografie obličeje.</p>
+
+<p>FaceAge využívá systém trénovaný na desítkách tisíc fotografií obličejů k překladu jemných obličejových charakteristik do odhadu biologického věku. Studie zjistila, že pacienti s rakovinou vypadali v průměru o 5 let starší, přičemž vyšší FaceAge koreloval s horší mírou přežití.</p>
+
+<p>Při testování s lékaři se výrazně zlepšila přesnost při předpovídání šestiměsíčního přežití, když byly k klinickým datům přidány rizikové skóre FaceAge. Předpovědi AI korelovaly s genem spojeným se stárnutím buněk, což naznačuje, že FaceAge zachytil procesy, které nejsou detekovatelné chronologickým věkem.</p>
+
+<p>(Takže možná vypadáte staře proto, že máte raka… smysl to dává, využití zajímavý, preventivní medicína tohoto typu by hodně pomohla, když to bude mít výsledky…)</p>
+
+<h2 id="alibaba-inovuje-technologie-vyhledávání-a-videa">Alibaba inovuje technologie vyhledávání a videa</h2>
+
+<p><strong>Alibaba představila ZeroSearch</strong>, techniku, která učí AI systémy vyhledávat informace bez použití skutečných vyhledávačů, čímž snižuje náklady na trénink o 88 % při zachování nebo překonání výkonu modelů trénovaných se skutečnými API vyhledávačů. ZeroSearch odstraňuje potřebu drahých volání API vyhledávačů během tréninku tím, že používá LLM k simulaci výsledků vyhledávání.</p>
+
+<p>Společnost dále uvedla HunyuanCustom, nový open-source AI systém, který generuje přizpůsobená videa z textu, obrázků, audia a video vstupů s konzistentními subjekty. Tento multi-modální video framework zajišťuje konzistenci identity subjektu napříč různými vstupními formáty pomocí LLaVA-based textově-obrazové fúze, tempovému vylepšení ID, AudioNet a video injekci založené na patchify.</p>
+
+<h2 id="mistral-ai-uvádí-nové-konkurenční-modely">Mistral AI uvádí nové konkurenční modely</h2>
+
+<p>Mistral AI vydal dva významné produkty:</p>
+
+<ul>
+  <li><strong>Medium 3</strong>, multimodální AI, která se vyrovná nebo předčí modely Claude 3.7 Sonnet, GPT-4o a Llama 4 Maverick při 8x nižších nákladech</li>
+  <li><strong>Le Chat Enterprise</strong>, agentní AI asistent pro firmy s nástroji jako Google Drive a nástrojemi pro vytváření vlastních agentů</li>
+</ul>
+
+<p>(Ještě jsem nevyzkoušel, chystám se na Mistral nahodit pár pokusů, ale zatím jsem neměl odvahu rozhasit si věci, kde mi něco běží, takže zatím jsem ho úspěšně použil jen pro systém určování polohy z fotek, který jde hodně mimo tyhle výhody…)</p>
+
+<h2 id="futurehouse-a-robotické-inovace">FutureHouse a robotické inovace</h2>
+
+<p>Společnost <a href="https://www.futurehouse.org">FutureHouse</a>, podporovaná bývalým CEO Googlu Ericem Schmidtem, představila pět “AI Scientist” agentů:</p>
+
+<ul>
+  <li>Crow pro obecný výzkum</li>
+  <li>Falcon pro hloubkové literární rešerše</li>
+  <li>Owl pro identifikaci předchozího výzkumu</li>
+  <li>Phoenix pro chemické workflow</li>
+  <li>Finch pro objevy v biologii</li>
+</ul>
+
+<p>V oblasti robotiky představila společnost <a href="https://www.unitree.com">Unitree</a> ve spolupráci se sanfranciskou firmou Reborn vývoj pokročilé AI, která má učinit její roboty chytřejšími, adaptabilnějšími a schopnými komplexních úkolů. Spolupráce využije více nástrojů Reborn, včetně jejich simulátoru Roboverse, datasetů pohybu a vývojářských nástrojů.</p>
+
+<p>Výzkumníci ze Stanfordské univerzity mezitím představili <a href="https://github.com/YanjieZe/TWIST">Teleoperated Whole-Body Imitation System (TWIST)</a>, který umožňuje koordinované, všestranné pohyby celého těla humanoidních robotů pomocí jediné neuronové sítě. Tento systém umožní funkční univerzální roboty v různých doménách.</p>
+
+<p>UC Berkeley představila <a href="https://www.videomimic.net">VideoMimic</a>, real-to-sim-to-real pipeline, který trénuje roboty pomocí mobilních videí. Systém těží videa, rekonstruuje lidi a prostředí a vytváří strategie pro humanoidy, umožňující dovednosti jako chůze po schodech. Tato univerzita také uvedla PyRoki, modulární, rozšiřitelný, a multiplatformní toolkit pro kinematickou optimalizaci, který řeší inverzní kinematiku, optimalizaci trajektorie a převádění pohybu pro širokou škálu robotů včetně humanoidů.</p>
+
+<p>Holandští vědci z výzkumného institutu <a href="https://amolf.nl">AMOLF</a> vytvořili “měkkého” robota, který se pohybuje, adaptuje a dokonce plave, a to vše poháněno pouze vzduchem, bez jakéhokoli mozku, elektroniky nebo jediného řádku kódu. Robot je vyroben z měkkých, pružných elastomerových trubic, které slouží jako struktura i ovladač, umožňující jemný, adaptivní pohyb. Nepřetržitý proud vzduchu způsobuje nafukování a oscilování trubic, což eliminuje potřebu motorů nebo elektroniky pro pohyb.</p>
+
+<h3 id="hugging-face-uvolňuje-alternativu-k-openai-operatoru">Hugging Face uvolňuje alternativu k OpenAI Operatoru</h3>
+
+<p>Hugging Face vydal <a href="https://huggingface.co/spaces/smolagents/computer-agent">Open Computer Agent</a>, open-source AI agenta pro automatizaci webových úkolů, který je podobný nástroji Operator od OpenAI. Je zdarma použitelný přes webové prohlížeče, ale je údajně pomalý a schopný zvládnout pouze základní vícekrokové úkoly.</p>
+
+<h2 id="cursor---revoluční-ai-editor-kódu-představuje-verzi-050-s-novými-funkcemi">Cursor - revoluční AI editor kódu představuje verzi 0.50 s novými funkcemi</h2>
+
+<p><a href="https://www.cursor.com">Cursor</a>, pokročilý AI editor kódu, <strong>představil verzi 0.50</strong> s významnými vylepšeními. Mezi klíčové novinky patří podpora background agentů, která umožňuje spouštět více verzí Cursor agenta současně, možnost vkládat celé složky do kontextu, podpora více kořenových workspace s vlastními .cursor/rules složkami a vylepšené vyhledávání a nahrazování pro rychlejší úpravy souborů.</p>
+
+<p>Uživatelé nyní mohou také exportovat jakýkoli chat do markdown formátu nebo jej duplikovat do nového chatovacího okna. Inline editace získala vylepšené uživatelské rozhraní s rychlou editací celého souboru (⌘⇧⏎) a funkcí “send to agent” (⌘L). Cenová struktura byla zjednodušena na 500 požadavků na všechny modely a režim max využívá cenovou strukturu založenou na tokenech, přičemž je dostupný pro všechny top modely.</p>
+
+<h2 id="trumpova-administrativa-ruší-bidenova-pravidla-pro-vývoz-ai-čipů">Trumpova administrativa ruší Bidenova pravidla pro vývoz AI čipů</h2>
+
+<p>Trumpova administrativa zrušila pravidlo z Bidenovy éry, které by zavedlo celosvětové kontroly vývozu polovodičů. Namísto toho se rozhodla vyvinout přístup zaměřený na dohody specifické pro jednotlivé země, přičemž zachovala omezení pro Čínu.</p>
+
+<p>Ministerstvo obchodu oznámilo zrušení pravidla jen několik dní před tím, než mělo vstoupit v platnost, s odůvodněním, že by poškodilo inovace a diplomatické vztahy. Nové pokyny také výslovně uvádějí, že používání AI čipů Huawei Ascend kdekoli na světě je nyní považováno za porušení amerických exportních kontrol.</p>
+
+<p>Tento krok přichází krátce poté, co se CEO Nvidie Jensen Huang objevil po boku bývalého prezidenta Donalda Trumpa v Saúdské Arábii, kde prosazovali mezinárodní investice do amerických AI společností. Nvidia, která drží přibližně 90 % trhu s AI čipy, by byla významně poškozena, kdyby pravidlo vstoupilo v platnost, zejména proto, že mohlo ovlivnit i prodej čipů spřáteleným národům.</p>
+
+<h2 id="napětí-mezi-openai-a-microsoftem">Napětí mezi OpenAI a Microsoftem</h2>
+
+<p>OpenAI a Microsoft údajně vedou “vysoce důležitá” jednání o přepracování podmínek svého partnerství. OpenAI se snaží snížit podíl Microsoftu na příjmech z 20 % na 10 % do roku 2030, kdy společnost předpovídá příjmy ve výši 174 miliard dolarů, zatímco Microsoft usiluje o zaručený přístup k technologiím OpenAI i po roce 2030, kdy vyprší současná smlouva.</p>
+
+<p>Vztah mezi oběma společnostmi údajně ochladl, neboť OpenAI navazuje dohody s konkurenty Microsoftu pro svůj projekt Stargate, zatímco také cílí na stejné podnikové zákazníky. Existuje také napětí ohledně duševního vlastnictví, přičemž Microsoft hledá garantovaný přístup k technologiím OpenAI i po vypršení současné smlouvy.</p>
+
+<p>Microsoft také zůstává klíčovým držitelem akcií, který brání plánům na konverzi obchodní části OpenAI na veřejně prospěšnou společnost (PBC).</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="AI novinky" /><summary type="html"><![CDATA[Na minulý souhrn AI novinek jsem měl dobré ohlasy, takže si jej po týdnu zopakujme. Mezi nejdůležitější novinky patří zejména GPT-4.1 ve web rozhraní, Google Gemini novinky, ale také robotika a Meta aktuality.]]></summary></entry><entry xml:lang="cs"><title type="html">⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 13.5.)</title><link href="https://www.marigold.cz/item/spanelsko-blackout/" rel="alternate" type="text/html" title="⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 13.5.)" /><published>2025-05-13T00:00:00+00:00</published><updated>2025-05-13T00:00:00+00:00</updated><id>https://www.marigold.cz/item/spanelsko-blackout</id><content type="html" xml:base="https://www.marigold.cz/item/spanelsko-blackout/"><![CDATA[<p>Co nového ve vyšetřování španělského blackoutu? <a href="https://www.entsoe.eu/news/2025/05/09/entso-e-expert-panel-initiates-the-investigation-into-the-causes-of-iberian-blackout/">ENSOE-E uvolnilo první předběžnou zprávu</a>, ale úplně nejvíc jasno z ní není, proto jsem také informace pár dní neaktualizoval, jen bychom naprázdno propírali hypotézy nebo padali do logických pastí.</p>
 
 <p>Časovou osu jsem teď nicméně nedoplnil o data  <a href="https://www.youtube.com/watch?v=ElDQr8Vueyw">z podcastu Frauenhofer Institutu</a>, který má vlastní měření v několika bodech a jeho data i úvahy lze brát za věrohodné. V přehledu jsou data označena jako (FRA).</p>
 
@@ -2785,135 +2971,4 @@ npm <span class="nb">install</span>
   <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
 </ul>
 
-<p>A to je v našem přehledu vše…</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="programování" /><category term="vibe coding" /><summary type="html"><![CDATA[Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.]]></summary></entry><entry xml:lang="cs"><title type="html">Nové funkce v Claude Code pro programování s AI</title><link href="https://www.marigold.cz/item/claude-code-novinky/" rel="alternate" type="text/html" title="Nové funkce v Claude Code pro programování s AI" /><published>2025-03-22T22:00:00+00:00</published><updated>2025-03-22T22:00:00+00:00</updated><id>https://www.marigold.cz/item/claude-code-novinky</id><content type="html" xml:base="https://www.marigold.cz/item/claude-code-novinky/"><![CDATA[<p>Svůj nástroj <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a> pro “<a href="/item/programovani-s-ai/">vibe coding</a>” představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat.</p>
-
-<blockquote>
-  <p>💡 Nevíte, co je <a href="/ai/claude-code/">Claude Code</a>? Detailnější popis <a href="/ai/claude-code/">jsme si přinesli zde</a>.</p>
-</blockquote>
-
-<p>A co je nového?</p>
-<ul id="markdown-toc">
-  <li><a href="#1-rozšířené-myšlení-extended-thinking" id="markdown-toc-1-rozšířené-myšlení-extended-thinking">1. Rozšířené myšlení (Extended thinking)</a></li>
-  <li><a href="#2-vim-mód" id="markdown-toc-2-vim-mód">2. Vim mód</a></li>
-  <li><a href="#3-vlastní-slash-příkazy" id="markdown-toc-3-vlastní-slash-příkazy">3. Vlastní slash příkazy</a></li>
-  <li><a href="#4-zlepšená-latence-nástrojů" id="markdown-toc-4-zlepšená-latence-nástrojů">4. Zlepšená latence nástrojů</a></li>
-  <li><a href="#5-režim-auto-accept" id="markdown-toc-5-režim-auto-accept">5. Režim auto-accept</a></li>
-  <li><a href="#6-automatické-doplňování-cest-k-souborům" id="markdown-toc-6-automatické-doplňování-cest-k-souborům">6. Automatické doplňování cest k souborům</a></li>
-  <li><a href="#7-auto-compact-pro-správu-kontextu" id="markdown-toc-7-auto-compact-pro-správu-kontextu">7. Auto-compact pro správu kontextu</a></li>
-  <li><a href="#8-web-fetch" id="markdown-toc-8-web-fetch">8. Web fetch</a></li>
-</ul>
-
-<h2 id="1-rozšířené-myšlení-extended-thinking">1. Rozšířené myšlení (Extended thinking)</h2>
-
-<p><a href="/ai/claude-code/">Claude Code</a> nyní podporuje mód “rozšířeného myšlení”, který je poháněn modelem Claude 3.7 Sonnet. Stačí požádat Claude, aby “přemýšlel” (například příkazy “think”, “think more” nebo “think harder”), a aktivujete tuto schopnost.</p>
-
-<p><strong>Tip pro praxi:</strong> Nejprve informujte Claude o vašem úkolu a nechte ho získat kontext z vašeho projektu. Poté ho požádejte, aby “přemýšlel” a vytvořil plán. Intenzita přemýšlení se liší podle použitých slov - například “think hard” spustí intenzivnější proces přemýšlení než samotné “think”.</p>
-
-<p>Tato funkce je zvláště užitečná pro větší úkoly vyžadující plánování, jako jsou refaktorizace kódu.</p>
-
-<h2 id="2-vim-mód">2. Vim mód</h2>
-
-<p>Pro zkušené vývojáře, kteří rádi používají Vim, nabízí <a href="/ai/claude-code/">Claude Code</a> novou funkci Vim módu. Použijte slash příkaz <code class="language-plaintext highlighter-rouge">/vim</code> k aktivaci insert/command módů pro úpravu promptů.</p>
-
-<p><img src="/assets/claude-code-vim.png" alt="Claude code vim" /></p>
-
-<h2 id="3-vlastní-slash-příkazy">3. Vlastní slash příkazy</h2>
-
-<p>Nyní si můžete vytvořit vlastní pracovní postupy (jako například “třídění GitHub issues”) přidáním souborů do adresářů <code class="language-plaintext highlighter-rouge">.claude/commands/</code> nebo <code class="language-plaintext highlighter-rouge">~/.claude/commands/</code>.</p>
-
-<p>Vytvořte personalizované workflow, které lze kdykoliv vyvolat jako slash příkazy. Jednoduše přidejte Markdown soubory do těchto adresářů a obsah těchto souborů se stane novými příkazy.</p>
-
-<p>Můžete vytvářet příkazy pro běžné workflow jako “kontrola pravopisu kódu” nebo “dotaz na Sentry logy a následně bisect ke git commitu”. Představte si je jako uložené postupy pro úkoly, které chcete provádět častěji.</p>
-
-<p>Vlastní slash příkazy jsou v podstatě způsob, jak si vytvořit vaše vlastní přizpůsobené workflow nebo často používané instrukce, které můžete v <a href="/ai/claude-code/">Claude Code</a> rychle vyvolat pomocí příkazu začínajícího lomítkem (/).</p>
-
-<p><img src="/assets/claude-code-user.png" alt="Claude Code user" /></p>
-
-<p>Funguje to takto:</p>
-
-<ol>
-  <li><strong>Vytvoření vlastního příkazu</strong>:
-    <ul>
-      <li>Vytvořte Markdown soubor (soubor s příponou <code class="language-plaintext highlighter-rouge">.md</code>)</li>
-      <li>Tento soubor umístěte do jednoho ze dvou adresářů:
-        <ul>
-          <li><code class="language-plaintext highlighter-rouge">.claude/commands/</code> (lokální adresář v projektu)</li>
-          <li><code class="language-plaintext highlighter-rouge">~/.claude/commands/</code> (globální adresář ve vašem domovském adresáři)</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li><strong>Struktura souboru</strong>:
-    <ul>
-      <li>Název souboru určuje název příkazu. Například soubor pojmenovaný <code class="language-plaintext highlighter-rouge">triage-issues.md</code> vytvoří příkaz, který můžete vyvolat pomocí <code class="language-plaintext highlighter-rouge">/triage-issues</code>.</li>
-      <li>Obsah souboru obsahuje instrukce nebo kroky, které chcete, aby <a href="/ai/claude-code/">Claude Code</a> provedl.</li>
-    </ul>
-  </li>
-  <li><strong>Použití příkazu</strong>:
-    <ul>
-      <li>Když pracujete v <a href="/ai/claude-code/">Claude Code</a>, jednoduše napíšete <code class="language-plaintext highlighter-rouge">/</code> následované názvem vašeho příkazu (bez přípony <code class="language-plaintext highlighter-rouge">.md</code>).</li>
-      <li><a href="/ai/claude-code/">Claude Code</a> automaticky načte obsah příslušného souboru a provede instrukce v něm obsažené.</li>
-    </ul>
-  </li>
-  <li><strong>Příklady možných použití</strong>:
-    <ul>
-      <li><code class="language-plaintext highlighter-rouge">/triage-issues</code> - Mohlo by zkontrolovat všechny otevřené GitHub issues, kategorizovat je podle priority a navrhnout akční plány.</li>
-      <li><code class="language-plaintext highlighter-rouge">/code-review</code> - Mohlo by provést automatickou kontrolu kódu podle vašich standardů.</li>
-      <li><code class="language-plaintext highlighter-rouge">/deploy-checklist</code> - Mohlo by projít seznam kontrolních bodů před nasazením.</li>
-      <li><code class="language-plaintext highlighter-rouge">/analyze-logs</code> - Mohlo by načíst a analyzovat logy z vašeho systému.</li>
-      <li><code class="language-plaintext highlighter-rouge">/document-function</code> - Mohlo by automaticky generovat dokumentaci pro vybranou funkci.</li>
-    </ul>
-  </li>
-  <li><strong>Výhody</strong>:
-    <ul>
-      <li>Ušetří čas při opakujících se úkolech</li>
-      <li>Zajistí konzistenci při provádění běžných postupů</li>
-      <li>Umožňuje sdílet užitečné workflow s týmem (pokud jsou v repozitáři projektu)</li>
-      <li>Redukuje potřebu pamatovat si složité příkazy nebo postupy</li>
-    </ul>
-  </li>
-</ol>
-
-<p>Tyto vlastní příkazy jsou obzvláště užitečné pro opakující se úkoly specifické pro váš projekt nebo osobní workflow. Můžete je chápat jako “makra” nebo “automatizované skripty”, které <a href="/ai/claude-code/">Claude Code</a> provede místo vás, ale s inteligencí a schopností adaptace AI asistenta.</p>
-
-<h2 id="4-zlepšená-latence-nástrojů">4. Zlepšená latence nástrojů</h2>
-
-<p>Běžné operace (včetně Git operací) jsou nyní mnohem svižnější, což zlepšuje celkový zážitek z používání.</p>
-
-<h2 id="5-režim-auto-accept">5. Režim auto-accept</h2>
-
-<p>Použijte Shift+Tab k zapnutí tohoto režimu, ve kterém Claude vytváří změny bez zastavování a žádání o povolení v každém kroku.</p>
-
-<p>To je zvláště užitečné pro opakující se úlohy, kde Claude postupuje správným směrem. Vždy můžete režim auto-accept ukončit, pokud potřebujete konkrétní změnu důkladněji zkontrolovat.</p>
-
-<h2 id="6-automatické-doplňování-cest-k-souborům">6. Automatické doplňování cest k souborům</h2>
-
-<p>Stiskněte Tab při psaní a <a href="/ai/claude-code/">Claude Code</a> navrhne soubory/cesty k souborům odpovídající vašemu vstupu.</p>
-
-<p>Jde o významné vylepšení kvality života při hledání souborů, které chcete explicitně odkazovat.</p>
-
-<h2 id="7-auto-compact-pro-správu-kontextu">7. Auto-compact pro správu kontextu</h2>
-
-<p><a href="/ai/claude-code/">Claude Code</a> automaticky kompaktuje historii konverzace při zachování důležitých informací, takže můžete pracovat na složitějších problémech bez obav o limity kontextu.</p>
-
-<h2 id="8-web-fetch">8. Web fetch</h2>
-
-<p>Vložte URL do Claude Code a on načte obsah z této webové stránky jako kontext.</p>
-
-<p><img src="/assets/claude-code-web-fetch.png" alt="Claude Code web fetch" /></p>
-
-<p>To je velmi užitečné pro omezení přepínání mezi Claude Code a prohlížečem. Tato funkce je ideální pro načítání dokumentace, specifikací nebo referenčních implementací bez nutnosti opustit terminál.</p>
-
-<hr />
-
-<p>Všechny tyto funkce jsou dostupné nyní, stačí restartovat aplikaci, abyste měli jistotu, že používáte nejnovější verzi.</p>
-
-<p>A pokud jste Claude Code ještě nenainstalovali, můžete ho stáhnout pomocí:</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm install -g @anthropic-ai/claude-code
-</code></pre></div></div>
-
-<p>Claude Code se stále vyvíjí a tým za ním slibuje v nadcházejících týdnech další nové funkce. S těmito vylepšeními se Claude Code stává ještě silnějším nástrojem pro vývojáře, kteří chtějí využít sílu AI při svém každodenním vývoji.</p>
-
-<blockquote>
-  <p>💡 Co je Claude Code a jak vám pomůže při vývoji software? Detailnější popis <a href="/ai/claude-code/">jsme si přinesli zde</a>.</p>
-</blockquote>]]></content><author><name>Patrick Zandl</name></author><category term="Claude" /><category term="Anthropic" /><category term="vibe code" /><category term="AI" /><summary type="html"><![CDATA[Svůj nástroj Claude Code pro “vibe coding” představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat.]]></summary></entry></feed>
+<p>A to je v našem přehledu vše…</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="programování" /><category term="vibe coding" /><summary type="html"><![CDATA[Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.]]></summary></entry></feed>
