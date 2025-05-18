@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-18T06:53:49+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">OpenAI představuje Codex - agenta pro vývoj software</title><link href="https://www.marigold.cz/item/openai-codex/" rel="alternate" type="text/html" title="OpenAI představuje Codex - agenta pro vývoj software" /><published>2025-05-18T00:00:00+00:00</published><updated>2025-05-18T00:00:00+00:00</updated><id>https://www.marigold.cz/item/openai-codex</id><content type="html" xml:base="https://www.marigold.cz/item/openai-codex/"><![CDATA[<h1 id="openai-představuje-codex---agenta-pro-vývoj-software">OpenAI představuje Codex - agenta pro vývoj software</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-18T13:36:33+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">OpenAI představuje Codex - agenta pro vývoj software</title><link href="https://www.marigold.cz/item/openai-codex/" rel="alternate" type="text/html" title="OpenAI představuje Codex - agenta pro vývoj software" /><published>2025-05-18T00:00:00+00:00</published><updated>2025-05-18T00:00:00+00:00</updated><id>https://www.marigold.cz/item/openai-codex</id><content type="html" xml:base="https://www.marigold.cz/item/openai-codex/"><![CDATA[<h1 id="openai-představuje-codex---agenta-pro-vývoj-software">OpenAI představuje Codex - agenta pro vývoj software</h1>
 
 <p>OpenAI představila “výzkumnou preview verzi” nového nástroje nazvaného <a href="https://chatgpt.com/codex">Codex</a>. Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní. Ačkoliv nedosahuje komplexnosti služeb jako Lovable, jde o zajímavého agenta pro vývoj software.</p>
 
@@ -88,6 +88,22 @@
   <li>100K max výstupních tokenů</li>
   <li>Podpora “reasoning tokens”</li>
 </ul>
+
+<h2 id="něco-málo-osobní-zkušenosti">Něco málo osobní zkušenosti</h2>
+
+<p>Zkušenosti jsou zatím krátké. Zatím se ukazuje, že Codex dokáže dosti spolehlivě opravovat chyby, což by mohlo vést k plně automatizovanému procesu oprav a ušetřit značné množství času. Uživatelské rozhraní je pohodlnější, než Codex CLI v příkazové řádce, je to o dost intuitivnější a vůbec mi nechybí přehršel oken Cursoru. Jenže Cursor zatím také neodinstaluju…</p>
+
+<p>Codex není jen pasivní nástroj. Aktivně se zapojuje do pracovního procesu. Umí číst a upravovat soubory a spouštět různé příkazy, včetně testovacích nástrojů, linterů a kontroly typů. Tyto funkce pomáhají zajistit kvalitu kódu a odhalit potenciální problémy v rané fázi vývoje. Testovací nástroj funguje jako kontrola funkčnosti, linter jako nástroj pro hygienu a styl kódu a kontrola typů zajišťuje správné používání proměnných.</p>
+
+<p>Dokončení úkolu s pomocí Codex obvykle trvá od 1 do 30 minut (ano, občas je to dlouhý!). Pro zajištění transparentnosti a důvěryhodnosti poskytuje Codex ověřitelné důkazy o svých akcích prostřednictvím citací z terminálových protokolů a výstupů testů.</p>
+
+<p>Flexibilita je další důležitou vlastností Codex. Jeho prostředí lze do jisté míry konfigurovat tak, aby co nejvíce odpovídalo konkrétnímu vývojovému prostředí uživatele. Chování Codex lze dokonce řídit pomocí speciálního souboru agents.md umístěného v úložišti kódu.</p>
+
+<p>Testování ukázalo, že Codex 1 dokáže pracovat s maximální délkou kontextu 192 000 tokenů a důsledně vytváří čistší patche připravené k okamžité integraci do standardních pracovních postupů. Přístup Codex k psaní kódu spočívá v práci v malých, cílených dávkách, které se zaměřují na konkrétní problémy.</p>
+
+<p>V praxi Codex umožňuje vývojářům efektivně nastavit základy projektu a zaměřit se na implementaci aktuálních funkcí. Celkově nástroj mění způsob práce vývojářů, umožňuje jim pracovat téměř jako by byli svým vlastním týmem nebo manažerem týmu, s možností zadávat problémy a vracet se k nim po určité době.</p>
+
+<p>Dalším zajímavým použitím by mohlo být automatizované opravování issues v gitu, kdy si Codex stáhne issues, navrhne opravy a odešle je zase do GITu, kde čekají na kontrolu a merge.</p>
 
 <h2 id="závěr">Závěr</h2>
 
