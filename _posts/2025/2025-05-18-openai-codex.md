@@ -6,7 +6,22 @@ categories:
 - programování
 - OpenAI
 layout: post
-post_excerpt: OpenAI představila výzkumnou preview verzi nového nástroje nazvaného Codex.
+post_excerpt: OpenAI představila _výzkumnou preview verzi_ nového nástroje nazvaného
+  Codex. Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex
+  CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní.
+summary_points:
+- OpenAI představila Codex jako výzkumnou preview verzi nástroje pro vývoj software.
+- Codex je cloudový software založený na modelu codex-1 optimalizovaném pro generování
+  kódu.
+- Nástroj je dostupný pro uživatele ChatGPT Pro, Enterprise a Team s plánem rozšíření.
+- Codex pracuje v izolovaném prostředí, umožňuje sledovat průběh a integrovat změny.
+- AGENTS.md soubory pomáhají řídit chování Codexu v kódové základně.
+- Codex dosahuje 70-75% úspěšnosti na benchmarku SWE-Bench Verified.
+- OpenAI implementovala bezpečnostní opatření proti zneužití pro škodlivý software.
+- Běžné použití zahrnuje refaktorizaci, psaní testů a opravy chyb.
+- Codex CLI nabízí rychlejší pracovní postupy s modelem codex-mini-latest.
+- Nástroj má omezení jako chybějící podpora obrázků nebo interaktivní korekce.
+- OpenAI plánuje budoucí vylepšení jako hlubší integrace s GitHubem.
 thumbnail: https://www.marigold.cz/assets/openai-thumbnail.png
 title: OpenAI představuje Codex - agenta pro vývoj software
 ---
@@ -16,8 +31,6 @@ title: OpenAI představuje Codex - agenta pro vývoj software
 OpenAI představila "výzkumnou preview verzi" nového nástroje nazvaného [Codex](https://chatgpt.com/codex). Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní. Ačkoliv nedosahuje komplexnosti služeb jako Lovable, jde o zajímavého agenta pro vývoj software. 
 
 Hlavní výhodou Codexu má být schopnost paralelně pracovat na mnoha úkolech. Podívejme se detailně na to, co tento nástroj přináší, jaké jsou jeho možnosti a omezení.
-
-Jak má Codex zapadat k probíhající [akvizici Windsurfu](/item/openai-kupuje-windsurf/), budou to soběžné projekty, nebo se spojí? Je Codex budoucí lídr agentického programování nebo jen další "my taky" software bez přidané hodnoty? Uvidíme... 
 
 ## Co je Codex?
 
@@ -98,6 +111,4 @@ Codex-mini-latest je doladěná verze o4-mini specificky určená pro použití 
 
 ## Závěr
 
-Představení Codexu naznačuje významný krok směrem k asynchronní spolupráci s umělou inteligencí v oblasti softwarového inženýrství. OpenAI předpokládá, že tento způsob práce - kde vývojáři řídí práci, kterou chtějí vlastnit, a delegují zbytek na agenty - se postupně stane běžným pracovním postupem.
-
-Přestože nástroj přináší zajímavé možnosti, je důležité poznamenat, že stále vyžaduje pečlivou kontrolu ze strany lidských vývojářů a má svá praktická omezení. Skutečný dopad na efektivitu týmů, kvalitu kódu a dlouhodobou údržbu softwaru se teprve ukáže v praxi.
+Jak má Codex zapadat k probíhající [akvizici Windsurfu](/item/openai-kupuje-windsurf/), budou to soběžné projekty, nebo se spojí? Je Codex budoucí lídr agentického programování nebo jen další "my taky" software bez přidané hodnoty? Uvidíme... na to zatím žádné odpovědi nejsou, 
