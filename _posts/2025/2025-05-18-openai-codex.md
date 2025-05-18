@@ -44,7 +44,7 @@ V současné době je Codex **dostupný pro uživatele ChatGPT Pro,** ChatGPT En
 
 Přístup k Codexu je možný přes postranní panel v ChatGPT. Uživatelé mohou zadat nové úkoly kódování zadáním promptu a kliknutím na tlačítko "Code". Pro dotazy na kódovou základnu lze použít tlačítko "Ask".
 
-Každý úkol je zpracováván nezávisle v samostatném izolovaném prostředí, které je předem naplněno kódovou základnou uživatele. Codex může číst a upravovat soubory, spouštět příkazy včetně testů, linterů a kontroly typů. Uživatel může sledovat postup v reálném čase. Dokončení úkolu typicky trvá mezi 1 a 30 minutami v závislosti na složitosti. Po dokončení úkolu Codex provede commit svých změn ve svém prostředí a poskytne ověřitelné důkazy o svých akcích prostřednictvím citací terminálových logů a výstupů testů.
+Každý úkol je zpracováván nezávisle v samostatném izolovaném prostředí, které je předem naplněno kódovou základnou uživatele. Codex může číst a upravovat soubory, spouštět příkazy včetně testů, lintu a kontroly typů. Uživatel může sledovat postup v reálném čase. Dokončení úkolu typicky trvá mezi 1 a 30 minutami v závislosti na složitosti. Po dokončení úkolu Codex provede commit svých změn ve svém prostředí a poskytne ověřitelné důkazy o svých akcích prostřednictvím citací terminálových logů a výstupů testů.
 
 Uživatel pak může zkontrolovat výsledky, požádat o další revize, otevřít GitHub pull request nebo přímo integrovat změny do svého lokálního prostředí.
 
@@ -111,7 +111,7 @@ Codex-mini-latest je doladěná verze o4-mini specificky určená pro použití 
 
 Zkušenosti jsou zatím krátké. Zatím se ukazuje, že Codex dokáže dosti spolehlivě opravovat chyby, což by mohlo vést k plně automatizovanému procesu oprav a ušetřit značné množství času. Uživatelské rozhraní je pohodlnější, než Codex CLI v příkazové řádce, je to o dost intuitivnější a vůbec mi nechybí přehršel oken Cursoru. Jenže Cursor zatím také neodinstaluju... 
 
-Codex není jen pasivní nástroj. Aktivně se zapojuje do pracovního procesu. Umí číst a upravovat soubory a spouštět různé příkazy, včetně testovacích nástrojů, linterů a kontroly typů. Tyto funkce pomáhají zajistit kvalitu kódu a odhalit potenciální problémy v rané fázi vývoje. Testovací nástroj funguje jako kontrola funkčnosti, linter jako nástroj pro hygienu a styl kódu a kontrola typů zajišťuje správné používání proměnných.
+Codex není jen pasivní nástroj. Aktivně se zapojuje do pracovního procesu. Umí číst a upravovat soubory a spouštět různé příkazy, včetně testovacích nástrojů, linterů a kontroly typů. Tyto funkce pomáhají zajistit kvalitu kódu a odhalit potenciální problémy v rané fázi vývoje. Testovací nástroj funguje jako kontrola funkčnosti, lint jako nástroj pro hygienu a styl kódu a kontrola typů zajišťuje správné používání proměnných.
 
 Dokončení úkolu s pomocí Codex obvykle trvá od 1 do 30 minut (ano, občas je to dlouhý!). Pro zajištění transparentnosti a důvěryhodnosti poskytuje Codex ověřitelné důkazy o svých akcích prostřednictvím citací z terminálových protokolů a výstupů testů.
 
