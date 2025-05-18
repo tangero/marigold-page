@@ -107,6 +107,22 @@ Codex-mini-latest je doladěná verze o4-mini specificky určená pro použití 
 - 100K max výstupních tokenů
 - Podpora "reasoning tokens"
 
+## Něco málo osobní zkušenosti
+
+Zkušenosti jsou zatím krátké. Zatím se ukazuje, že Codex dokáže dosti spolehlivě opravovat chyby, což by mohlo vést k plně automatizovanému procesu oprav a ušetřit značné množství času. Uživatelské rozhraní je pohodlnější, než Codex CLI v příkazové řádce, je to o dost intuitivnější a vůbec mi nechybí přehršel oken Cursoru. Jenže Cursor zatím také neodinstaluju... 
+
+Codex není jen pasivní nástroj. Aktivně se zapojuje do pracovního procesu. Umí číst a upravovat soubory a spouštět různé příkazy, včetně testovacích nástrojů, linterů a kontroly typů. Tyto funkce pomáhají zajistit kvalitu kódu a odhalit potenciální problémy v rané fázi vývoje. Testovací nástroj funguje jako kontrola funkčnosti, linter jako nástroj pro hygienu a styl kódu a kontrola typů zajišťuje správné používání proměnných.
+
+Dokončení úkolu s pomocí Codex obvykle trvá od 1 do 30 minut (ano, občas je to dlouhý!). Pro zajištění transparentnosti a důvěryhodnosti poskytuje Codex ověřitelné důkazy o svých akcích prostřednictvím citací z terminálových protokolů a výstupů testů.
+
+Flexibilita je další důležitou vlastností Codex. Jeho prostředí lze do jisté míry konfigurovat tak, aby co nejvíce odpovídalo konkrétnímu vývojovému prostředí uživatele. Chování Codex lze dokonce řídit pomocí speciálního souboru agents.md umístěného v úložišti kódu.
+
+Testování ukázalo, že Codex 1 dokáže pracovat s maximální délkou kontextu 192 000 tokenů a důsledně vytváří čistší patche připravené k okamžité integraci do standardních pracovních postupů. Přístup Codex k psaní kódu spočívá v práci v malých, cílených dávkách, které se zaměřují na konkrétní problémy.
+
+V praxi Codex umožňuje vývojářům efektivně nastavit základy projektu a zaměřit se na implementaci aktuálních funkcí. Celkově nástroj mění způsob práce vývojářů, umožňuje jim pracovat téměř jako by byli svým vlastním týmem nebo manažerem týmu, s možností zadávat problémy a vracet se k nim po určité době.
+
+Dalším zajímavým použitím by mohlo být automatizované opravování issues v gitu, kdy si Codex stáhne issues, navrhne opravy a odešle je zase do GITu, kde čekají na kontrolu a merge. 
+
 ## Závěr
 
 Jak má Codex zapadat k probíhající [akvizici Windsurfu](/item/openai-kupuje-windsurf/), budou to soběžné projekty, nebo se spojí? Je Codex budoucí lídr agentického programování nebo jen další "my taky" software bez přidané hodnoty? Uvidíme... na to zatím žádné odpovědi nejsou, 
