@@ -24,7 +24,6 @@ thumbnail: https://www.marigold.cz/assets/openai-thumbnail.png
 title: OpenAI představuje Codex - agenta pro vývoj software
 ---
 
-# OpenAI představuje Codex - agenta pro vývoj software
 
 OpenAI představila "výzkumnou preview verzi" nového nástroje nazvaného [Codex](https://chatgpt.com/codex). Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní. Ačkoliv nedosahuje komplexnosti služeb jako Lovable, jde o zajímavého agenta pro vývoj software. 
 
