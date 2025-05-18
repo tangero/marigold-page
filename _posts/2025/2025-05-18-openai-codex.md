@@ -112,7 +112,7 @@ Zkušenosti jsou zatím krátké. Zatím se ukazuje, že Codex dokáže dosti sp
 
 Codex není jen pasivní nástroj. Aktivně se zapojuje do pracovního procesu. Umí číst a upravovat soubory a spouštět různé příkazy, včetně testovacích nástrojů, linterů a kontroly typů. Tyto funkce pomáhají zajistit kvalitu kódu a odhalit potenciální problémy v rané fázi vývoje. Testovací nástroj funguje jako kontrola funkčnosti, lint jako nástroj pro hygienu a styl kódu a kontrola typů zajišťuje správné používání proměnných.
 
-Dokončení úkolu s pomocí Codex obvykle trvá od 1 do 30 minut (ano, občas je to dlouhý!). Pro zajištění transparentnosti a důvěryhodnosti poskytuje Codex ověřitelné důkazy o svých akcích prostřednictvím citací z terminálových protokolů a výstupů testů.
+Dokončení úkolu s pomocí Codex obvykle trvá od 1 do 30 minut (ano, občas je to dlouhý, čekáte zřejmě v nějaké frontě a viditelně se nic neděje!). Pro zajištění transparentnosti a důvěryhodnosti poskytuje Codex ověřitelné důkazy o svých akcích prostřednictvím citací z terminálových protokolů a výstupů testů.
 
 Flexibilita je další důležitou vlastností Codex. Jeho prostředí lze do jisté míry konfigurovat tak, aby co nejvíce odpovídalo konkrétnímu vývojovému prostředí uživatele. Chování Codex lze dokonce řídit pomocí speciálního souboru agents.md umístěného v úložišti kódu.
 
