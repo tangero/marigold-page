@@ -6,9 +6,7 @@ categories:
 - programování
 - OpenAI
 layout: post
-post_excerpt: OpenAI představila _výzkumnou preview verzi_ nového nástroje nazvaného
-  Codex. Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex
-  CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní.
+post_excerpt: OpenAI představila _výzkumnou preview verzi_ nového nástroje nazvaného Codex. Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní.
 summary_points:
 - OpenAI představila Codex jako výzkumnou preview verzi nástroje pro vývoj software.
 - Codex je cloudový software založený na modelu codex-1 optimalizovaném pro generování
