@@ -6,7 +6,7 @@
       "category" : "AI, vibecoding, programování, OpenAI",
       "tags"     : "",
       "date"     : "18.5.2025",
-      "content"  : "OpenAI představuje Codex - agenta pro vývoj softwareOpenAI představila “výzkumnou preview verzi” nového nástroje nazvaného Codex. Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní. Ačkoliv nedosahuje komplexnosti služeb jako Lovable, jde o zajímavého agenta pro vývoj software.Hlavní výhodou Codexu má být schopnost paralelně pracovat na mnoha úkolech. Podívejme se detailně na to, co tento nástroj přináší, jaké jsou jeho možnosti a omezení.Jak má Codex zapadat k probíhající akvizici Windsurfu, budou to soběžné projekty, nebo se spojí? Je Codex budoucí lídr agentického programování nebo jen další..."
+      "content"  : "OpenAI představuje Codex - agenta pro vývoj softwareOpenAI představila “výzkumnou preview verzi” nového nástroje nazvaného Codex. Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní. Ačkoliv nedosahuje komplexnosti služeb jako Lovable, jde o zajímavého agenta pro vývoj software.Hlavní výhodou Codexu má být schopnost paralelně pracovat na mnoha úkolech. Podívejme se detailně na to, co tento nástroj přináší, jaké jsou jeho možnosti a omezení.Co je Codex?Codex je cloudový software založený na modelu codex-1, což je verze modelu OpenAI o3 optimalizovaná pro softwarové inženýrství. Podle dokumentace byl tento..."
     },
   
     {
