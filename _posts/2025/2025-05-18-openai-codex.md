@@ -17,7 +17,7 @@ OpenAI představila "výzkumnou preview verzi" nového nástroje nazvaného [Cod
 
 Hlavní výhodou Codexu má být schopnost paralelně pracovat na mnoha úkolech. Podívejme se detailně na to, co tento nástroj přináší, jaké jsou jeho možnosti a omezení.
 
-
+Jak má Codex zapadat k probíhající [akvizici Windsurfu](/item/openai-kupuje-windsurf/), budou to soběžné projekty, nebo se spojí? Je Codex budoucí lídr agentického programování nebo jen další "my taky" software bez přidané hodnoty? Uvidíme... 
 
 ## Co je Codex?
 
