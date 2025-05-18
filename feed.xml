@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-16T04:58:28+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">AI novinky k 15.5.2025</title><link href="https://www.marigold.cz/item/ai-news-15-5-2025/" rel="alternate" type="text/html" title="AI novinky k 15.5.2025" /><published>2025-05-15T00:00:00+00:00</published><updated>2025-05-15T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-news-15-5-2025</id><content type="html" xml:base="https://www.marigold.cz/item/ai-news-15-5-2025/"><![CDATA[<p>Na minulý souhrn AI novinek jsem měl dobré ohlasy, takže si jej po týdnu zopakujme. Mezi nejdůležitější novinky patří zejména GPT-4.1 ve web rozhraní, Google Gemini novinky, ale také robotika a Meta aktuality.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-18T05:44:56+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">OpenAI představuje Codex - agenta pro vývoj software</title><link href="https://www.marigold.cz/item/openai-codex/" rel="alternate" type="text/html" title="OpenAI představuje Codex - agenta pro vývoj software" /><published>2025-05-18T00:00:00+00:00</published><updated>2025-05-18T00:00:00+00:00</updated><id>https://www.marigold.cz/item/openai-codex</id><content type="html" xml:base="https://www.marigold.cz/item/openai-codex/"><![CDATA[<h1 id="openai-představuje-codex---agenta-pro-vývoj-software">OpenAI představuje Codex - agenta pro vývoj software</h1>
+
+<p>OpenAI představila “výzkumnou preview verzi” nového nástroje nazvaného Codex. Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní. Ačkoliv nedosahuje komplexnosti služeb jako Lovable, jde o zajímavého agenta pro vývoj software.</p>
+
+<p>Hlavní výhodou Codexu má být schopnost paralelně pracovat na mnoha úkolech. Podívejme se detailně na to, co tento nástroj přináší, jaké jsou jeho možnosti a omezení.</p>
+
+<h2 id="co-je-codex">Co je Codex?</h2>
+
+<p>Codex je cloudový software založený na modelu codex-1, což je verze modelu OpenAI o3 optimalizovaná pro softwarové inženýrství. Podle dokumentace byl tento model trénován pomocí reinforcement learning na reálných úkolech kódování v různých prostředích. Hlavním cílem bylo generovat kód, který napodobuje lidský styl psaní, přesně dodržuje instrukce a dokáže iterativně spouštět testy, dokud nedosáhne úspěšného výsledku.</p>
+
+<p><img src="/assets/codex-landing.jpg" alt="codex" /></p>
+
+<h2 id="dostupnost-a-rozšíření">Dostupnost a rozšíření</h2>
+
+<p>V současné době je Codex <strong>dostupný pro uživatele ChatGPT Pro,</strong> ChatGPT Enterprise a ChatGPT Team. OpenAI plánuje v budoucnu rozšířit dostupnost i pro uživatele ChatGPT Plus a ChatGPT Edu. Během výzkumné preview fáze mají uživatelé k dispozici “velkorysý přístup bez dodatečných nákladů” po dobu několika týdnů. Následně OpenAI plánuje zavést cenovou politiku s možností dokoupit dodatečné využití podle potřeby.</p>
+
+<h2 id="jak-codex-funguje">Jak Codex funguje</h2>
+
+<p>Přístup k Codexu je možný přes postranní panel v ChatGPT. Uživatelé mohou zadat nové úkoly kódování zadáním promptu a kliknutím na tlačítko “Code”. Pro dotazy na kódovou základnu lze použít tlačítko “Ask”.</p>
+
+<p>Každý úkol je zpracováván nezávisle v samostatném izolovaném prostředí, které je předem naplněno kódovou základnou uživatele. Codex může číst a upravovat soubory, spouštět příkazy včetně testů, linterů a kontroly typů. Uživatel může sledovat postup v reálném čase. Dokončení úkolu typicky trvá mezi 1 a 30 minutami v závislosti na složitosti. Po dokončení úkolu Codex provede commit svých změn ve svém prostředí a poskytne ověřitelné důkazy o svých akcích prostřednictvím citací terminálových logů a výstupů testů.</p>
+
+<p>Uživatel pak může zkontrolovat výsledky, požádat o další revize, otevřít GitHub pull request nebo přímo integrovat změny do svého lokálního prostředí.</p>
+
+<h2 id="agentsmd-soubory">AGENTS.md soubory</h2>
+
+<p>Zajímavým prvkem je možnost řídit Codex pomocí AGENTS.md souborů umístěných v repozitáři. Tyto textové soubory, podobně jako README.md, umožňují informovat Codex o tom, jak se orientovat v kódové základně, jaké příkazy spouštět pro testování a jak nejlépe dodržovat standardní postupy projektu. Podle OpenAI codex-1 vykazuje dobré výsledky i bez těchto souborů, ale jejich přítomnost může zlepšit efektivitu práce.</p>
+
+<h2 id="výkonnost-a-hodnocení">Výkonnost a hodnocení</h2>
+
+<p>OpenAI poskytla několik měřítek výkonnosti codex-1:</p>
+
+<ul>
+  <li>Na benchmarku SWE-Bench Verified dosahuje codex-1 přesnosti kolem 70-75%, což je významně více než o3-high (kolem 65-70%)</li>
+  <li>Na interních SWE úkolech OpenAI dosahuje codex-1 přibližně 75% úspěšnosti, ve srovnání s o4-mini-high (70%), o3-high (67%) a o1-high (11%)</li>
+</ul>
+
+<p><img src="/assets/codex-swe-bench.png" alt="swe" /></p>
+
+<h2 id="bezpečnost-a-zajištění-důvěryhodnosti">Bezpečnost a zajištění důvěryhodnosti</h2>
+
+<p>OpenAI zmiňuje několik bezpečnostních opatření implementovaných v Codexu. Jde především o transparentnost, kdy uživatelé mohou verifikovat výstupy prostřednictvím citací, terminálových logů a výsledků testů. Při nejistotě nebo selhání testů agent explicitně komunikuje tyto problémy. Codex operuje v zabezpečeném izolovaném kontejneru v cloudu a během provádění úkolu má zakázán přístup k internetu - interaguje pouze s kódem poskytnutým přes GitHub repozitáře a předinstalované závislosti.</p>
+
+<p>Přesto OpenAI zdůrazňuje, že je stále nezbytné, aby uživatelé manuálně kontrolovali a validovali veškerý agentem generovaný kód před integrací a spuštěním.</p>
+
+<h2 id="prevence-zneužití">Prevence zneužití</h2>
+
+<p>OpenAI uvádí, že implementovali opatření proti zneužití tohoto nástroje pro vývoj škodlivého softwaru:</p>
+
+<ul>
+  <li>Codex byl trénován k identifikaci a odmítnutí požadavků zaměřených na vývoj škodlivého softwaru</li>
+  <li>Současně by měl rozlišovat a podporovat legitimní úkoly</li>
+  <li>OpenAI zdokonalila své politiky a začlenila přísná bezpečnostní hodnocení</li>
+</ul>
+
+<p>Jako dodatek k dokumentaci o3 System Card byla publikována aktualizace odrážející tato hodnocení.</p>
+
+<h2 id="běžné-případy-použití">Běžné případy použití</h2>
+
+<p>Technické týmy OpenAI již používají Codex jako součást svého každodenního pracovního postupu. Nejčastěji se používá pro refaktorizaci kódu, přejmenování proměnných a funkcí, psaní testů, vytváření základů nových funkcí, propojování komponent, opravy chyb a tvorbu dokumentace.</p>
+
+<p>Vývojáři OpenAI si díky tomuto nástroji vytvářejí nové pracovní návyky jako třídění problémů v pohotovostní službě, plánování úkolů na začátku dne a delegace práce na pozadí. Mezi externí testovací organizace patří Cisco, Temporal, Superhuman a Kodiak.</p>
+
+<p><img src="/assets/Codex_Citations_02.webp" alt="codex" /></p>
+
+<h2 id="aktualizace-codex-cli">Aktualizace Codex CLI</h2>
+
+<p>Současně s uvedením Codexu OpenAI vydává menší verzi codex-1, která je verzí o4-mini optimalizovanou specificky pro Codex CLI. Tento model podporuje rychlejší pracovní postupy v CLI a je optimalizován pro dotazy a úpravy kódu s nízkou latencí.</p>
+
+<p>Model je dostupný jako výchozí v Codex CLI a v API jako codex-mini-latest. Cenově je nastaven na:</p>
+<ul>
+  <li>$1.50 za 1M vstupních tokenů</li>
+  <li>$6 za 1M výstupních tokenů</li>
+  <li>75% sleva při cachování promptů</li>
+</ul>
+
+<h2 id="omezení-a-budoucí-vývoj">Omezení a budoucí vývoj</h2>
+
+<p>Codex je stále v rané fázi vývoje a má několik omezení. Chybí mu možnost vstupů formou obrázků pro frontend práci, není možné korigovat agenta během jeho práce a delegování úkolu vzdálenému agentovi trvá déle než interaktivní úpravy.</p>
+
+<p>OpenAI plánuje v budoucnu zavést interaktivnější a flexibilnější pracovní postupy, umožnit poskytování pokynů v průběhu úkolu, spolupracovat na strategiích implementace a posílat proaktivní aktualizace o pokroku. Dále chce vytvořit hlubší integrace s nástroji jako GitHub, Codex CLI, ChatGPT Desktop nebo systémy pro sledování problémů a CI.</p>
+
+<h2 id="technické-parametry-modelu-codex-mini-latest">Technické parametry modelu codex-mini-latest</h2>
+
+<p>Codex-mini-latest je doladěná verze o4-mini specificky určená pro použití v Codex CLI:</p>
+<ul>
+  <li>200K kontextové okno</li>
+  <li>100K max výstupních tokenů</li>
+  <li>Podpora “reasoning tokens”</li>
+</ul>
+
+<h2 id="závěr">Závěr</h2>
+
+<p>Představení Codexu naznačuje významný krok směrem k asynchronní spolupráci s umělou inteligencí v oblasti softwarového inženýrství. OpenAI předpokládá, že tento způsob práce - kde vývojáři řídí práci, kterou chtějí vlastnit, a delegují zbytek na agenty - se postupně stane běžným pracovním postupem.</p>
+
+<p>Přestože nástroj přináší zajímavé možnosti, je důležité poznamenat, že stále vyžaduje pečlivou kontrolu ze strany lidských vývojářů a má svá praktická omezení. Skutečný dopad na efektivitu týmů, kvalitu kódu a dlouhodobou údržbu softwaru se teprve ukáže v praxi.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="vibecoding" /><category term="programování" /><category term="OpenAI" /><summary type="html"><![CDATA[OpenAI představuje Codex - agenta pro vývoj software]]></summary></entry><entry xml:lang="cs"><title type="html">AI novinky k 15.5.2025</title><link href="https://www.marigold.cz/item/ai-news-15-5-2025/" rel="alternate" type="text/html" title="AI novinky k 15.5.2025" /><published>2025-05-15T00:00:00+00:00</published><updated>2025-05-15T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-news-15-5-2025</id><content type="html" xml:base="https://www.marigold.cz/item/ai-news-15-5-2025/"><![CDATA[<p>Na minulý souhrn AI novinek jsem měl dobré ohlasy, takže si jej po týdnu zopakujme. Mezi nejdůležitější novinky patří zejména GPT-4.1 ve web rozhraní, Google Gemini novinky, ale také robotika a Meta aktuality.</p>
 
 <p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
 <ul id="markdown-toc">
@@ -2519,479 +2614,4 @@ npm <span class="nb">install</span>
 
 <hr />
 
-<p><em>Poznámka: Tento průvodce vychází z dokumentace dostupné k březnu 2025. Některé funkce se mohou měnit s novými aktualizacemi Google Search Console API nebo MCP protokolu.</em></p>]]></content><author><name>Patrick Zandl</name></author><category term="MCP" /><category term="Google" /><summary type="html"><![CDATA[Model Communication Protocol (MCP) představuje inovativní způsob, jak propojit AI asistenty s externími službami a nástroji. Google Search Console (GSC) je neocenitelný nástroj pro SEO analýzu a monitoring webových stránek. Propojení těchto dvou technologií otevírá vývojářům a SEO specialistům nové možnosti automatizace a efektivní práce s daty o výkonu webových stránek.]]></summary></entry><entry xml:lang="cs"><title type="html">🧠 AI nástroje pro programování - přehled</title><link href="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/" rel="alternate" type="text/html" title="🧠 AI nástroje pro programování - přehled" /><published>2025-03-26T00:00:00+00:00</published><updated>2025-03-26T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-nastroje-programovani-prehled</id><content type="html" xml:base="https://www.marigold.cz/item/ai-nastroje-programovani-prehled/"><![CDATA[<p><a href="/item/programovani-s-ai/">Programování s AI</a> začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.</p>
-
-<p>Tady se pokouším udělat větší seznam všech nástrojů. Musím říct, že použitelné AI nástroje se objevují teprve posledních několik měsíců, takže startovací pole je dost široké a každý den se vynořují nové a nové nástroje. Tento seznam pořizuju ne proto, abyste všechny nástroje prošli, ale abych si i sám udržel přehled.</p>
-
-<p>Moje osobní doporučení:</p>
-
-<ul>
-  <li>pokud chcete jít “na jistotu” a zvládnete spouštění z příkazové řádky, rozhodně vyzkoušejte <a href="https://www.marigold.cz/ai/claude-code/">Claude Code</a>. A ten můj zalinkovaný článek vám pomůže jej pochopit. Ideální na scripty!</li>
-  <li>pokud byste si chtěli udělat plnohodnotnou webovou aplikaci, vyzkoušejte <a href="https://databutton.com">Databutton</a> - dělá ho norská firma, je to velmi sympatické, rozloží to projekt na milestony, které s vámi plní a je to opravdu agentní, takže to všechno udělá za vás. Jen to nemá napojení na Github, zdrojáky si buďto stáhnete jako zip, nebo nasazujete na jejich server. Ale to se časem poddá. A je to webová aplikace, nic neinstalujete.</li>
-  <li>pokud chcete výrazně promlouvat do grafického vzhledu vašeho projektu, tak vyzkoušejte <a href="https://www.tempo.new">Tempolabs</a>. Opět webová aplikace, má i napojení na Figmu.</li>
-  <li>pokud nepotřebujete detailně určovat vzhled a stačí vám “hezký” nebo “zhruba jako tohle”, tak vyzkoušejte Replit Agent (dražší) nebo Memex (levnější) - oba vás v podstatě odstíní od zdrojového kódu. Obojí je instalovatelná aplikace,</li>
-  <li>pokud jste se někdy vývojařinou zabývali, jděte do <a href="https://www.cursor.sh/">Cursor</a> nebo  <a href="https://www.windsurf.ai/">Windsurf</a> - obojí vychází z Visual Studio Code a budete tam jak doma i s iluzí, že o něčem rozhodujete 😎 Začátečníkům bych tyhle programy spíš nedoporučil, tady už se fakt čeká, že developmentu rozumíte.</li>
-  <li>pokud jste zkušený vývojář a tohle je pro vás hereze a úchylárna, zkuste <a href="https://github.com/features/copilot">GitHub Copilot</a></li>
-  <li>moje osobní zkušenosti s řadou těchto nástrojů <a href="https://www.marigold.cz/item/programovani-s-ai/">najdete zde</a></li>
-</ul>
-
-<p>A teď už pojďme na přehled, pořadí je náhodné!</p>
-
-<h2 id="-ai-nástroje-pro-programování">🧠 AI nástroje pro programování</h2>
-
-<h3 id="1-softgenai">1. <a href="https://x.com/SoftgenAI">SoftgenAI</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Funguje pro programátory i neprogramátory</li>
-      <li>Umí opravovat vlastní chyby</li>
-      <li>Umožňuje hostování webových aplikací</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Malé a střední projekty</li>
-</ul>
-
-<hr />
-
-<h3 id="2-cursor">2. <a href="https://www.cursor.sh/">Cursor</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Vznikl jako fork populárního editoru</li>
-      <li>Podporuje vysokou produktivitu vývojářů</li>
-      <li>Vhodný především pro zkušené kodéry</li>
-      <li>Méně vhodný pro začátečníky nebo neprogramátory</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Seriózní vývoj aplikací</li>
-</ul>
-
-<hr />
-
-<h3 id="3-wrapifai">3. <a href="https://www.wrapifai.com/">Wrapifai</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Ideální pro jednoduché nástroje a lead magnety</li>
-      <li>Umí vytvořit aplikaci na základě jednoho promptu</li>
-      <li>Pro složitější systémy nedostačuje</li>
-      <li>Neomezený počet aplikací bez limitu na <a href="/ai/tokeny-versus-slova/">tokeny</a></li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Rychlé generování funkčních miniaplikací</li>
-</ul>
-
-<hr />
-
-<h3 id="4-windsurf">4. <a href="https://www.windsurf.ai/">Windsurf</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Určen pro pokročilý vývoj</li>
-      <li>Funguje jako agent s pamětí</li>
-      <li>Disponuje webovým vyhledáváním a hlubokou analýzou (<a href="/item/deepseek/">DeepSeek</a>)</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Vysoká úroveň autonomie a flexibility při tvorbě aplikací</li>
-</ul>
-
-<hr />
-
-<h3 id="5-github-copilot">5. <a href="https://github.com/features/copilot">GitHub Copilot</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Jeden z prvních a nejpoužívanějších AI nástrojů</li>
-      <li>Umí generovat kód, procházet a upravovat rozsáhlé codebase</li>
-      <li>Podporuje práci s pull requesty a opravami chyb</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Stabilní nástroj integrovaný přímo v GitHub workflow</li>
-</ul>
-
-<hr />
-
-<h3 id="6-lovable">6. <a href="https://www.lovable.so/">Lovable</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Rychle rostoucí evropský startup</li>
-      <li>Nabízí integraci se Supabase</li>
-      <li>Silná kombinace AI a no-code přístupu</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Tvorbu aplikací bez nutnosti hluboké znalosti kódu</li>
-</ul>
-
-<hr />
-
-<h3 id="7-bolt">7. <a href="https://bolt.fun/">Bolt</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Původně vedlejší projekt, nyní financovaný přes $100M</li>
-      <li>Kombinuje vlastnosti nástrojů jako Softgen, Lovable a Windsurf</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Rychlou tvorbu prototypů a jednoduchých webů</li>
-</ul>
-
-<hr />
-
-<h3 id="8-v0">8. <a href="https://v0.dev/">v0</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Skvělý pro návrh UI a design webových stránek</li>
-      <li>Nepodporuje fullstack vývoj</li>
-      <li>Umožňuje import z Figma a úpravy jednotlivých prvků</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Vizuální vývoj moderních webů</li>
-</ul>
-
-<hr />
-
-<h3 id="9-replit">9. <a href="https://replit.com/">Replit</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Cloudové vývojové prostředí s AI integrací</li>
-      <li>Nabízí živé sdílení kódu, deployment i AI asistenci</li>
-      <li>Umožňuje rychlý start a prototypování bez složité konfigurace</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Začátečníky, týmy i výuku programování</li>
-</ul>
-
-<hr />
-
-<h3 id="10-marsx">10. <a href="https://marsx.dev/">MarsX</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Kombinuje přístup no-code, low-code a tradičního kódování</li>
-      <li>Obsahuje marketplace s připravenými mikroaplikacemi</li>
-      <li>Možnost integrace AI při stavbě aplikací</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Univerzální nástroj pro rychlou tvorbu projektů a MVP</li>
-</ul>
-
-<hr />
-
-<h3 id="11-claude-code">11. <a href="https://www.ai-claude.net/code/">Claude Code</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Umí analyzovat, vysvětlovat a navrhovat úpravy kódu</li>
-      <li>Velmi silný v přirozeném jazyce a bezpečném vývoji</li>
-      <li>Vývojový “nástroj” Anthropicu, velmi samostatně fungující Agent. Spouští se z příkazové řádky, ale neočekává se, že byste sami sahali do zdrojového kódu. Pro opravy, ladění a menší i střední projekty velmi dobrý, ale platí se za dotazy, takže může vyjít draho. Moje <a href="https://www.marigold.cz/ai/claude-code/">zkušenosti s ním zde</a>.</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Práci s dokumentací, návrhy i analýzou</li>
-  <li><strong>Cenový model</strong>: Platí se za <a href="/ai/tokeny-versus-slova/">tokeny</a>.</li>
-</ul>
-
-<hr />
-
-<h3 id="12-amazon-q">12. <a href="https://aws.amazon.com/q/">Amazon Q</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>AI asistent s hlubokou integrací do AWS prostředí</li>
-      <li>Pomáhá psát, ladit a nasazovat aplikace</li>
-      <li>Nabízí návrhy architektury i kódu</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Vývojáře pracující s AWS</li>
-</ul>
-
-<hr />
-
-<h3 id="13-pear">13. <a href="https://www.usepear.ai/">Pear</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>AI nástroj pro párové programování</li>
-      <li>Simuluje kolegu, který pomáhá s úkoly nebo strukturou kódu</li>
-      <li>Podporuje vysvětlení i návrhy změn</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Učení i práci</li>
-</ul>
-
-<hr />
-
-<h3 id="14-devin">14. <a href="https://www.cognition-labs.com/">Devin</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Agent schopný řídit vývojový proces</li>
-      <li>Může plánovat úkoly, kódovat, testovat a iterovat</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Směřuje ke skutečnému „AI developerovi“</li>
-</ul>
-
-<hr />
-
-<h3 id="15-github-copilot-workspace">15. <a href="https://github.blog/news-insights/product-news/github-copilot-workspace/">GitHub Copilot Workspace</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Nová generace Copilotu zaměřená na plánování a strukturování projektů</li>
-      <li>Umožňuje konverzaci s kódem v reálném čase</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Start nového projektu nebo refaktoring</li>
-  <li><strong>Cenový model</strong>: Prémiový</li>
-</ul>
-
-<hr />
-
-<h3 id="16-google-project-idx">16. <a href="https://idx.dev/">Google Project IDX</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Cloudové IDE s AI asistencí pro full-stack a multiplatformní vývoj</li>
-      <li>Podpora široké škály frameworků, jazyků a služeb</li>
-      <li>Integrace s oblíbenými produkty Google</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Vývoj webových a mobilních aplikací</li>
-  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
-</ul>
-
-<hr />
-
-<h3 id="17-webdraw">17. <a href="https://webdraw.com/">Webdraw</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>AI generátor UI komponent pro webové aplikace</li>
-      <li>Převádí skici a popisy do kódu (HTML/CSS)</li>
-      <li>Umožňuje rychlé prototypování uživatelských rozhraní</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Designéry a vývojáře bez hlubokých znalostí kódu</li>
-  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
-</ul>
-
-<hr />
-
-<h3 id="18-tempo">18. <a href="https://www.tempo.io/products/portfolio-manager">Tempo</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>AI pro řízení projektů a vývojových týmů</li>
-      <li>Automatizuje plánování kapacit a optimalizaci zdrojů</li>
-      <li>Integrace s Jira pro sledování času a výkonu</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Projektové manažery a vedení týmů</li>
-  <li><strong>Cenový model</strong>: Bezplatná zkušební verze s prémiovými funkcemi</li>
-</ul>
-
-<hr />
-
-<h3 id="19-cline">19. <a href="https://cline.bot/">Cline</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Terminálový AI asistent integrovaný do VS Code</li>
-      <li>Schopnost vytvářet a upravovat soubory, spouštět příkazy a používat prohlížeč</li>
-      <li>Zajišťuje bezpečnost a soukromí kódu</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Vývojáře hledajícího autonomního asistenta v IDE</li>
-  <li><strong>Cenový model</strong>: Open-source</li>
-</ul>
-
-<hr />
-
-<h3 id="20-continue">20. <a href="https://www.continue.dev/">Continue</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Open-source plugin pro VS Code a JetBrains</li>
-      <li>Umožňuje vytvářet, sdílet a používat vlastní AI asistenty pro kódování</li>
-      <li>Poskytuje chat, automatické doplňování a editaci kódu</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Vývojáře hledající přizpůsobitelné AI asistenty</li>
-  <li><strong>Cenový model</strong>: Bezplatný</li>
-</ul>
-
-<hr />
-
-<h3 id="21-databutton">21. <a href="https://databutton.com/">Databutton</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>AI vývojář pro netechnické uživatele</li>
-      <li>Umožňuje vytvářet datově orientované aplikace s minimálním kódováním</li>
-      <li>Poskytuje dlouhodobou paměť o aplikaci a rozhodnutích</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Vývoj i pokročilých webových aplikací, doporučuji vyzkoušet!</li>
-  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
-</ul>
-
-<hr />
-
-<h3 id="22-base44">22. <a href="https://base44.com/">Base44</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li><a href="/ai/agenti/">AI agent</a> pro budování interních nástrojů</li>
-      <li>Umožňuje vytvářet vlastní software bez kódování</li>
-      <li>Poskytuje nástroje pro monitorování interakcí a konfiguraci nastavení <a href="https://base44.com/apps/ai-agent-framework-60fda1db?utm_source=marigold">BASE44 - AI-Powered Software Development</a></li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Firmy hledající rychlé řešení pro interní aplikace</li>
-  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
-</ul>
-
-<hr />
-
-<h3 id="23-qodo">23. <a href="https://www.qodo.ai/">Qodo</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Generativní AI platforma zaměřená na kvalitu kódu</li>
-      <li>Pomáhá psát, testovat a revidovat kód</li>
-      <li>Nabízí automatizované code reviews a kontextové návrhy <a href="https://www.qodo.ai/?utm_source=marigold">Qodo</a></li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Vývojáře usilující o vysokou kvalitu kódu</li>
-  <li><strong>Cenový model</strong>: Prémiový</li>
-</ul>
-
-<hr />
-
-<h3 id="24-aider">24. <a href="https://aider.chat/">Aider</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>AI párový programátor v terminálu</li>
-      <li>Umožňuje spolupráci s velkými jazykovými modely (LLM) na úpravách kódu ve vašem lokálním git repozitáři</li>
-      <li>Podporuje práci s existujícími projekty i vytváření nových</li>
-      <li>Automaticky provádí commity s rozumnými zprávami</li>
-      <li>Kompatibilní s modely jako GPT-4 a Claude 3.5 Sonnet</li>
-    </ul>
-  </li>
-  <li><strong>Vhodné pro</strong>: Vývojáře hledající AI asistenci přímo v terminálu</li>
-  <li><strong>Cenový model</strong>: Open-source</li>
-</ul>
-
-<hr />
-
-<h3 id="25-codev">25. <a href="https://co.dev/">Co.dev</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>AI generuje Next.js a Supabase aplikace z textových promptů</li>
-    </ul>
-  </li>
-  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
-</ul>
-
-<hr />
-
-<h3 id="26-createxyz">26. <a href="https://create.xyz/">Create.xyz</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>No-code tvůrce webových aplikací využívající AI pro generování z textu nebo obrázků</li>
-    </ul>
-  </li>
-  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
-</ul>
-
-<hr />
-
-<h3 id="27-heybossxyz">27. <a href="https://heyboss.xyz/">HeyBoss.xyz</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>AI konverzační generátor webových aplikací, stránek a her</li>
-    </ul>
-  </li>
-  <li><strong>Cenový model</strong>: Prémiový</li>
-</ul>
-
-<hr />
-
-<h3 id="28-magicallylife">28. <a href="https://magically.life/">Magically.life</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>AI generátor mobilních aplikací pro iOS a Android</li>
-    </ul>
-  </li>
-  <li><strong>Cenový model</strong>: Prémiový</li>
-</ul>
-
-<hr />
-
-<h3 id="29-marblism">29. <a href="https://marblism.com/">Marblism</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Platforma s více AI agenty, kteří společně vytvářejí webové aplikace</li>
-    </ul>
-  </li>
-  <li><strong>Cenový model</strong>: Prémiový</li>
-</ul>
-
-<hr />
-
-<h3 id="30-memex">30. <a href="https://memex.tech/">Memex</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Umožňuje vytvářet cokoli v jakémkoli stacku pomocí přirozeného jazyka na vašem desktopu</li>
-      <li>velmi autonomně a chytře fungující</li>
-    </ul>
-  </li>
-  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi, možnost dokoupit si kredity.</li>
-</ul>
-
-<hr />
-
-<h3 id="31-probz-ai">31. <a href="https://probz.ai/">Probz AI</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>No-code AI builder pro CRUD aplikace a interní nástroje</li>
-    </ul>
-  </li>
-  <li><strong>Cenový model</strong>: Prémiový</li>
-</ul>
-
-<hr />
-
-<h3 id="32-smol-developer">32. <a href="https://github.com/smol-ai/developer">Smol Developer</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>Minimalistický <a href="/ai/agenti/">AI agent</a> pro rychlé generování kódu</li>
-    </ul>
-  </li>
-  <li><strong>Cenový model</strong>: Bezplatný</li>
-</ul>
-
-<hr />
-
-<h3 id="33-tooljet">33. <a href="https://tooljet.com/">ToolJet</a></h3>
-<ul>
-  <li><strong>Funkce</strong>:
-    <ul>
-      <li>AI-enhanced low-code platforma pro interní nástroje</li>
-    </ul>
-  </li>
-  <li><strong>Cenový model</strong>: Bezplatná verze s prémiovými funkcemi</li>
-</ul>
-
-<p>A to je v našem přehledu vše…</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="programování" /><category term="vibe coding" /><summary type="html"><![CDATA[Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.]]></summary></entry></feed>
+<p><em>Poznámka: Tento průvodce vychází z dokumentace dostupné k březnu 2025. Některé funkce se mohou měnit s novými aktualizacemi Google Search Console API nebo MCP protokolu.</em></p>]]></content><author><name>Patrick Zandl</name></author><category term="MCP" /><category term="Google" /><summary type="html"><![CDATA[Model Communication Protocol (MCP) představuje inovativní způsob, jak propojit AI asistenty s externími službami a nástroji. Google Search Console (GSC) je neocenitelný nástroj pro SEO analýzu a monitoring webových stránek. Propojení těchto dvou technologií otevírá vývojářům a SEO specialistům nové možnosti automatizace a efektivní práce s daty o výkonu webových stránek.]]></summary></entry></feed>
