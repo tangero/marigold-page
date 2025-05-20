@@ -230,13 +230,13 @@ březen
     </div>
     <ul class="summary-points">
       
-        <li>OpenAI nově podporuje MCP protokol napříč svými produkty včetně SDK pro agenty.</li>
+        <li>MCP získal masivní podporu napříč desítkami platforem.</li>
+      
+        <li>OpenAI oznámila podporu MCP napříč svými produkty.</li>
       
         <li>Microsoft integruje MCP do Copilot Studio a Azure AI Foundry.</li>
       
-        <li>Zapier zpřístupňuje AI modelům přes 8000 aplikací díky integraci MCP.</li>
-      
-        <li>MCP toolkit pro Camel-AI umožňuje propojení agentů s externími nástroji.</li>
+        <li>Zapier integruje MCP pro přístup k tisícům aplikací.</li>
       
     </ul>
   </div>
@@ -314,14 +314,14 @@ březen
 
 
   <div class="entry">
-    <p>V posledních pár dnech se doslova strhla lavina novinek okolo MCP, neboli Model Context Protocolu. Nově ji bude podporovat také OpenAI, Microsoft a objevila se v celé řadě dalších služeb. Což je pro šíření tohoto standardu důležité. Takže si dejme sumář novinek! Jen pro jistotu upozorňuji, že článek je spíše pro lidi, kteří se chtějí hrabat maličko pod kapotou, MCP servery jsou rozšíření promptování, které má smysl dělat, když chcete napojovat nějaká svoje (či i cizí) data…</p>
+    <p>V posledních pár dnech se doslova strhla lavina novinek okolo <a href="/ai/mcp/">MCP</a>, neboli Model Context Protocolu. Nově ji bude podporovat také OpenAI, Microsoft a objevila se v celé řadě dalších služeb. Což je pro šíření tohoto standardu důležité. Takže si dejme sumář novinek! Jen pro jistotu upozorňuji, že článek je spíše pro lidi, kteří se chtějí hrabat maličko pod kapotou, MCP servery jsou rozšíření promptování, které má smysl dělat, když chcete napojovat nějaká svoje (či i cizí) data…</p>
 
 <p>MCP jako standardizovaná vrstva pro komunikaci mezi jazykovými modely a nástroji třetích stran dostala v uplynulém týdnu masivní podporu napříč desítkami platforem. Díky ní je možné celou řadu služeb online propojit s AI modelem a nevyužívat jen “stará” data, která se do modelu dostala při učení a ani se do něj dostat nemusely. Můžete tak připojit i svoje či jiná uživatelská data. MCP sjednocuje komunikaci napříč různými aplikacemi a službami – ať už jde o cloudová úložiště, databáze, návrhové nástroje nebo interní firemní systémy.</p>
 
 <p>Pojďme se pro instpiraci podívat na nejdůležitější napojení MCP z poslední doby.</p>
 
 <h3 id="-openai-přijímá-standard-konkurence">✨ OpenAI přijímá standard konkurence</h3>
-<p>Hned v úvodu je třeba zmínit, že největší zpráva přišla od OpenAI, která oznámila podporu MCP napříč svými produkty. Sam Altman osobně potvrdil, že lidé MCP milují a OpenAI chce rozšířit podporu tohoto protokolu. MCP je už nyní dostupný <a href="https://openai.github.io/openai-agents-python/mcp/">v SDK pro agent</a> a brzy přibude také podpora pro desktopovou aplikaci ChatGPT a responses API. To je významný krok, protože OpenAI přijímá standard původně vyvinutý konkurenční společností Anthropic. MCP se může stát univerzálním standardem pro interakce mezi AI a externími nástroji. Teď to chce ještě podporu v <a href="/deepseek/">DeepSeek</a> a Google Gemini, u číňanů bych viděl problém spíše v času, než že by nechtěli a Google snad nenapadne pro Gemini dělat něco vlastního…</p>
+<p>Hned v úvodu je třeba zmínit, že největší zpráva přišla od OpenAI, která oznámila podporu MCP napříč svými produkty. Sam Altman osobně potvrdil, že lidé MCP milují a OpenAI chce rozšířit podporu tohoto protokolu. MCP je už nyní dostupný <a href="https://openai.github.io/openai-agents-python/mcp/">v SDK pro agent</a> a brzy přibude také podpora pro desktopovou aplikaci ChatGPT a responses API. To je významný krok, protože OpenAI přijímá standard původně vyvinutý konkurenční společností Anthropic. MCP se může stát univerzálním standardem pro interakce mezi AI a externími nástroji. Teď to chce ještě podporu v <a href="/deepseek/">[DeepSeek](/item/deepseek/)</a> a Google Gemini, u číňanů bych viděl problém spíše v času, než že by nechtěli a Google snad nenapadne pro Gemini dělat něco vlastního…</p>
 
 <h3 id="microsoft-také-přináší-mcp-do-svého-portfolia">Microsoft také přináší MCP do svého portfolia</h3>
 <p>Shinya Yanagihara oznámil integraci MCP do Microsoft Copilot Studio, vývojářské platformy pro tvorbu vlastních Copilot chatbotů a asistentů. Tato implementace zjednodušuje integraci AI aplikací a agentů v prostředí Microsoft. Zároveň došlo k <a href="https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/">integraci MCP s Microsoft Azure AI Foundry</a>, cloudovou platformou pro vývoj AI řešení, což umožňuje AI modelům dynamicky přistupovat k nástrojům a informacím. Vysvětlení je tady prosté, Microsoft používá OpenAI a jeho podpora MCP se tedy promítla, ale samozřejmě to kluci mohli zablokovat, naštěstí to neudělali a to je pro Azure uživatele důležité.</p>
@@ -362,7 +362,7 @@ březen
 </ul>
 
 <h3 id="-spiral-mcp-server-pro-spiral-computer">🌀 Spiral MCP Server pro Spiral Computer</h3>
-<p>Jason Liu publikoval <a href="https://github.com/jxnl/spiral-mcp">Spiral MCP Server</a>, implementaci <a href="/model-context-protocol/">Model Context Protocol</a> v Pythonu pro Spiral Computer od společnosti Every (nástroj pro interaktivní práci s dokumenty a informacemi). Tento server poskytuje čtyři MCP nástroje (list_models, generate, atd.), zpracovává text, soubory a URL adresy s chytrou extrakcí článků a podporuje asynchronní operace.</p>
+<p>Jason Liu publikoval <a href="https://github.com/jxnl/spiral-mcp">Spiral MCP Server</a>, implementaci <a href="/model-context-protocol/">[Model Context Protocol](/ai/mcp/)</a> v Pythonu pro Spiral Computer od společnosti Every (nástroj pro interaktivní práci s dokumenty a informacemi). Tento server poskytuje čtyři MCP nástroje (list_models, generate, atd.), zpracovává text, soubory a URL adresy s chytrou extrakcí článků a podporuje asynchronní operace.</p>
 
 <h3 id="-rhinograsshopper-mcp-server">🦗 Rhino/Grasshopper MCP server</h3>
 <p>Nikhil Bang sdílel ukázku svého MCP serveru pro Rhino/Grasshopper, populární platformu pro 3D modelování a parametrický design využívanou architekty a designéry. Server umožňuje propojit a ovládat Rhino a Grasshopper pomocí Claude LLM. Toto propojení otevírá nové možnosti pro automatizaci návrhových procesů v oblasti 3D modelování a generativního designu.</p>
@@ -399,12 +399,10 @@ březen
           
             <tr>
               <td>
-                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
+                <a href="/item/o-vlivu-liberality-akademickeho-vzdelavani-na-ekonomicky-vynos-z-novych-odvetvi-na-prikladu-vzniku-standardu-gsm/">👉O vlivu liberality akademického vzdělávání na ekonomický výnos z nových odvětví na příkladu vzniku standardu GSM</a>
                 <p class="excerpt">
                   
-                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
-
-Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
+                    Já vím, že nemáte rádi dlouhé články. Ale jak tak teď píšu knihu o mobilních sítích a zároveň Martin Jaroš pro Hnutí NE píše o reformě vzdělávacího systému v...
                   
                 </p>
               </td>
@@ -412,10 +410,10 @@ Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
                   
                 </p>
               </td>

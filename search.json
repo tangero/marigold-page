@@ -69,7 +69,7 @@
       "category" : "AI, OpenAI",
       "tags"     : "",
       "date"     : "28.4.2025",
-      "content"  : "Pojďme se podívat na průlet novinkami v AI na druhou půlku dubna. A ano, máte pravdu, novinky se hromadí! Čínské společnosti představily nové konkurenty pro západní modely, OpenAI pokračuje v rozšiřování svého ekosystému, a i menší hráči přicházejí s inovativními technologiemi. Pojďme se podívat na nejdůležitější oznámení, která formují budoucnost umělé inteligence.Baidu: Cenově dostupné “Turbo” modelyČínský technologický gigant Baidu vstupuje do přímé konkurence s OpenAI a DeepSeek prostřednictvím svých nových cenově výhodných modelů ERNIE 4.5 Turbo a ERNIE X1 Turbo.ERNIE 4.5 Turbo nabízí pokročilé multimodální schopnosti za pouhých 11 centů a 44 centů za milion vstupních/výstupních tokenů, což představuje pouhých..."
+      "content"  : "Pojďme se podívat na průlet novinkami v AI na druhou půlku dubna. A ano, máte pravdu, novinky se hromadí! Čínské společnosti představily nové konkurenty pro západní modely, OpenAI pokračuje v rozšiřování svého ekosystému, a i menší hráči přicházejí s inovativními technologiemi. Pojďme se podívat na nejdůležitější oznámení, která formují budoucnost umělé inteligence.Baidu: Cenově dostupné “Turbo” modelyČínský technologický gigant Baidu vstupuje do přímé konkurence s OpenAI a [DeepSeek](/item/deepseek/) prostřednictvím svých nových cenově výhodných modelů ERNIE 4.5 Turbo a ERNIE X1 Turbo.ERNIE 4.5 Turbo nabízí pokročilé multimodální schopnosti za pouhých 11 centů a 44 centů za milion vstupních/výstupních tokenů, což představuje pouhých..."
     },
   
     {
@@ -114,7 +114,7 @@
       "category" : "AI, Google, Agenti, A2A",
       "tags"     : "",
       "date"     : "9.4.2025",
-      "content"  : "Přichází čas AI agentů, jenže jak se mezi sebou domluví? Právě neexistující vzájemné automatické propojení mezi agenty bylo značným omezením, což si uvědomil Google a přišel s návrhem protokolu A2A čili Agent2Agent.Agent2Agent (A2A) je otevřený protokol navržený pro zabezpečenou komunikaci mezi AI agenty. Protokol byl vyvinut společností Google ve spolupráci s více než 50 technologickými partnery včetně Atlassian, Box, Cohere, Intuit, PayPal, Salesforce a dalších. Cílem A2A je umožnit AI agentům vyměňovat si informace a koordinovat akce napříč různými podnikovými platformami a aplikacemi.Co konkrétně se v tomto článku dozvíte? Vztah k MCP A2A jako ekosystém specializovaných expertů Návrh A2A protokolu..."
+      "content"  : "Přichází čas AI agentů, jenže jak se mezi sebou domluví? Právě neexistující vzájemné automatické propojení mezi agenty bylo značným omezením, což si uvědomil Google a přišel s návrhem protokolu A2A čili Agent2Agent.Agent2Agent (A2A) je otevřený protokol navržený pro zabezpečenou komunikaci mezi AI agenty. Protokol byl vyvinut společností Google ve spolupráci s více než 50 technologickými partnery včetně Atlassian, Box, Cohere, Intuit, PayPal, Salesforce a dalších. Cílem A2A je umožnit AI agentům vyměňovat si informace a koordinovat akce napříč různými podnikovými platformami a aplikacemi.Co konkrétně se v tomto článku dozvíte? Vztah k [MCP](/ai/mcp/) A2A jako ekosystém specializovaných expertů Návrh A2A protokolu..."
     },
   
     {
@@ -141,7 +141,7 @@
       "category" : "vibe coding, AI",
       "tags"     : "",
       "date"     : "3.4.2025",
-      "content"  : "Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.Pojdme si spolu projít zásady, které se mi za posledních pár pokusů vydestilovaly jako základ úspěchu a rychlého posunu s vibe codingem:Hlavní princip: Modularizace a zjednodušeníKlíčem k úspěšnému vývoji pomocí vibe codingu je..."
+      "content"  : "Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže [vibe coding](/item/programovani-s-ai/), jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.Pojdme si spolu projít zásady, které se mi za posledních pár pokusů vydestilovaly jako základ úspěchu a rychlého posunu s vibe codingem:Hlavní princip: Modularizace a zjednodušeníKlíčem k úspěšnému vývoji pomocí vibe codingu je..."
     },
   
     {
@@ -168,7 +168,7 @@
       "category" : "Zapier, MCP, vibe code, AI",
       "tags"     : "",
       "date"     : "27.3.2025",
-      "content"  : "Oblíbená automatizační služba Zapier a její (kdysi český!) konkurent Make.com nedávno vydala podporu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.MCP server funguje jako prostředník mezi AI asistentem a aplikacemi třetích stran. Díky tomuto řešení..."
+      "content"  : "Oblíbená automatizační služba Zapier a její (kdysi český!) konkurent Make.com nedávno vydala podporu [MCP](/ai/mcp/) (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.MCP server funguje jako prostředník mezi AI asistentem a aplikacemi třetích stran. Díky tomuto řešení..."
     },
   
     {
@@ -177,7 +177,7 @@
       "category" : "MCP, Google",
       "tags"     : "",
       "date"     : "27.3.2025",
-      "content"  : "Model Communication Protocol (MCP) představuje inovativní způsob, jak propojit AI asistenty s externími službami a nástroji. Google Search Console (GSC) je neocenitelný nástroj pro SEO analýzu a monitoring webových stránek. Propojení těchto dvou technologií otevírá vývojářům a SEO specialistům nové možnosti automatizace a efektivní práce s daty o výkonu webových stránek.Tento průvodce vám ukáže, jak implementovat integraci mezi Google Search Console a MCP pomocí otevřeného řešení dostupného na GitHubu od AminForou. Díky této integraci budete moci: Získávat data z Google Search Console přímo ve vašem AI asistentovi Analyzovat výkon webových stránek bez nutnosti přepínat mezi aplikacemi Automatizovat reporting a monitoring..."
+      "content"  : "Model Communication Protocol ([MCP](/ai/mcp/)) představuje inovativní způsob, jak propojit AI asistenty s externími službami a nástroji. Google Search Console (GSC) je neocenitelný nástroj pro SEO analýzu a monitoring webových stránek. Propojení těchto dvou technologií otevírá vývojářům a SEO specialistům nové možnosti automatizace a efektivní práce s daty o výkonu webových stránek.Tento průvodce vám ukáže, jak implementovat integraci mezi Google Search Console a MCP pomocí otevřeného řešení dostupného na GitHubu od AminForou. Díky této integraci budete moci: Získávat data z Google Search Console přímo ve vašem AI asistentovi Analyzovat výkon webových stránek bez nutnosti přepínat mezi aplikacemi Automatizovat reporting a monitoring..."
     },
   
     {
@@ -186,7 +186,7 @@
       "category" : "AI, programování, vibe coding",
       "tags"     : "",
       "date"     : "26.3.2025",
-      "content"  : "Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.Tady se pokouším udělat větší seznam všech nástrojů. Musím říct, že použitelné AI nástroje se objevují teprve posledních několik měsíců, takže startovací pole je dost široké a každý den se vynořují nové a nové nástroje. Tento seznam pořizuju ne proto, abyste všechny nástroje prošli, ale abych si i sám udržel přehled.Moje osobní doporučení: pokud chcete jít “na jistotu” a zvládnete spouštění z příkazové řádky, rozhodně vyzkoušejte Claude Code. A ten můj zalinkovaný článek vám pomůže..."
+      "content"  : "Programování s AI začíná být stále populárnější. Jistě si budete chtít vyzkoušet nějaký nástroj, který vás provede světem vibe codingu či jen AI asistence při programování.Tady se pokouším udělat větší seznam všech nástrojů. Musím říct, že použitelné AI nástroje se objevují teprve posledních několik měsíců, takže startovací pole je dost široké a každý den se vynořují nové a nové nástroje. Tento seznam pořizuju ne proto, abyste všechny nástroje prošli, ale abych si i sám udržel přehled.Moje osobní doporučení: pokud chcete jít “na jistotu” a zvládnete spouštění z příkazové řádky, rozhodně vyzkoušejte [Claude Code](/ai/claude-code/). A ten můj zalinkovaný článek vám pomůže..."
     },
   
     {
@@ -195,7 +195,7 @@
       "category" : "Claude, Anthropic, vibe code, AI",
       "tags"     : "",
       "date"     : "22.3.2025",
-      "content"  : "Svůj nástroj Claude Code pro “vibe coding” představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat. 💡 Nevíte, co je Claude Code? Detailnější popis jsme si přinesli zde.A co je nového? 1. Rozšířené myšlení (Extended thinking) 2. Vim mód 3. Vlastní slash příkazy 4. Zlepšená latence nástrojů 5. Režim auto-accept 6. Automatické doplňování cest k souborům 7. Auto-compact pro správu kontextu 8. Web fetch1. Rozšířené myšlení (Extended thinking)Claude Code nyní podporuje mód “rozšířeného myšlení”, který je poháněn..."
+      "content"  : "Svůj nástroj [Claude Code](/ai/claude-code/) pro “[vibe coding](/item/programovani-s-ai/)” představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat. 💡 Nevíte, co je Claude Code? Detailnější popis jsme si přinesli zde.A co je nového? 1. Rozšířené myšlení (Extended thinking) 2. Vim mód 3. Vlastní slash příkazy 4. Zlepšená latence nástrojů 5. Režim auto-accept 6. Automatické doplňování cest k souborům 7. Auto-compact pro správu kontextu 8. Web fetch1. Rozšířené myšlení (Extended thinking)Claude Code nyní podporuje mód “rozšířeného myšlení”, který je poháněn..."
     },
   
     {
@@ -204,7 +204,7 @@
       "category" : "WiFi, Wi-Fi 7, IEEE 802.11be, Mobilní sítě",
       "tags"     : "",
       "date"     : "22.3.2025",
-      "content"  : "Nedávno jsem si s hrůzou povšimnul, že jsem zcela pominul technolofii 802.11be, dnes obchodně známou jako WiFi 7. Pamatujete si někdo, že tento server Marigold vznikl původně jako zpravodajství o bezdrátových sítích (tady mám jejich první přehled)? To přeci není možné, abych další rozvoj WiFi opomněl. Takže nebojte, dnes se pořádně podíváme na zoubek jeho rozvoji. A jen faktická poznámka: běžně používám označení WiFi, jak jsem zvyklý. Nicméně podle standardizátora je správným názvem Wi-Fi s pomlčkou. Pokusil jsem se autokorektora na to naučit, takže mi to často opraví. Ale někdy také ne. Berme toto označení jako záměnné.Na dalším rozvoji standardu..."
+      "content"  : "Nedávno jsem si s hrůzou povšimnul, že jsem zcela pominul technolofii 802.11be, dnes obchodně známou jako [[WiFi 7](/item/wi-fi-7-802-11be/)](/item/wi-fi-7-802-11be/). Pamatujete si někdo, že tento server Marigold vznikl původně jako zpravodajství o bezdrátových sítích (tady mám jejich první přehled)? To přeci není možné, abych další rozvoj WiFi opomněl. Takže nebojte, dnes se pořádně podíváme na zoubek jeho rozvoji. A jen faktická poznámka: běžně používám označení WiFi, jak jsem zvyklý. Nicméně podle standardizátora je správným názvem Wi-Fi s pomlčkou. Pokusil jsem se autokorektora na to naučit, takže mi to často opraví. Ale někdy také ne. Berme toto označení jako záměnné.Na dalším rozvoji standardu..."
     },
   
     {
@@ -492,7 +492,7 @@
       "category" : "Patrickův newsletter, AI, Internet, Česko, EU, Automotive",
       "tags"     : "",
       "date"     : "31.10.2024",
-      "content"  : "Letošní Nobelovu cenu za fyziku získali 91letý Američan John Hopfield (vlevo) a 76letý Brit Geoffrey Hinton (vpravo), který dlouhá léta vyučoval na Torontské univerzitě. Cenu obdrželi “za převratné objevy a vynálezy, které umožňují strojové učení pomocí umělých neuronových sítí” , tedy za základy moderní umělé inteligence (AI). Je fascinující, že Nobelovu cenu za fyziku získají lidé, kteří fakticky převrátili svět umělé inteligence…O Nobelově ceně za ekonomii detailně píše nový český newsletter Makroskop."
+      "content"  : "Letošní Nobelovu cenu za fyziku získali 91letý Američan John Hopfield (vlevo) a 76letý Brit Geoffrey Hinton (vpravo), který dlouhá léta vyučoval na Torontské univerzitě. Cenu obdrželi “za převratné objevy a vynálezy, které umožňují [strojové učení](/ai/strojove-uceni-machine-learning/) pomocí umělých neuronových sítí” , tedy za základy moderní umělé inteligence (AI). Je fascinující, že Nobelovu cenu za fyziku získají lidé, kteří fakticky převrátili svět umělé inteligence…O Nobelově ceně za ekonomii detailně píše nový český newsletter Makroskop."
     },
   
     {
@@ -870,7 +870,7 @@
       "category" : "Patrickův newsletter, Apple, AI, Sociální sítě, Internet, Automotive",
       "tags"     : "",
       "date"     : "28.7.2024",
-      "content"  : "OpenAI představilo lehčí verzi 4o (oznam zde). GPT-4o mini je o 60 % levnější než GPT-3,5 Turbo. Slušný!Cena modelu je 0,15 USD za milion vstupních tokenů a 0,60 USD za milion výstupních tokenů (~2500 stran knihy). Pro srovnání, GPT-3.5-turbo-0301 stál před zhruba více než rokem 2,00 USD za 1 milion tokenů.Zatím to vypadá, že model je dobrý ve strukturování informací i porozumění dlouhému kontextu.Meta záhy poté právě vydala Llama 3.1 , svůj dosud největší open-source model umělé inteligence, a tvrdí, že v testech překonává GPT-4o i Claude 3.5 Sonnet.Délka kontextu 128k, umí chatovat v osmi jazycích, psát lepší počítačový kód..."
+      "content"  : "OpenAI představilo lehčí verzi 4o (oznam zde). GPT-4o mini je o 60 % levnější než GPT-3,5 Turbo. Slušný!Cena modelu je 0,15 USD za milion vstupních [tokenů](/ai/tokeny-versus-slova/) a 0,60 USD za milion výstupních tokenů (~2500 stran knihy). Pro srovnání, GPT-3.5-turbo-0301 stál před zhruba více než rokem 2,00 USD za 1 milion tokenů.Zatím to vypadá, že model je dobrý ve strukturování informací i porozumění dlouhému kontextu.Meta záhy poté právě vydala Llama 3.1 , svůj dosud největší open-source model umělé inteligence, a tvrdí, že v testech překonává GPT-4o i Claude 3.5 Sonnet.Délka kontextu 128k, umí chatovat v osmi jazycích, psát lepší počítačový kód..."
     },
   
     {
@@ -960,7 +960,7 @@
       "category" : "Patrickův newsletter, AI, Internet, Automotive",
       "tags"     : "",
       "date"     : "18.7.2024",
-      "content"  : "Musím říct, programování s AI za zády, to je jako mít za sebou zkušeného slušně seniorního a trpělivého programátora a devopsáka v jednom. Tak například pro Marigold.cz potřebuji občas sáhnout do šablon a upravit v nich něco, co mě štve. Například na konci titulní stránky se mi vypisovaly všechny archivní stránky, bylo jich přes 170. Jelikož Jekyll (nástroj, kterým se Marigold generuje) moc neznám, poležel bych si v dokumentaci, než bych to vyřešil, takže jsem poprosil Claude, ať to zařídí. Obratem mi dodala kus kódu, který to uspokojivě vyřešil tak, že to vypisuje jen odkaz na archivní stránku, na níž..."
+      "content"  : "Musím říct, [programování s AI](/item/programovani-s-ai/) za zády, to je jako mít za sebou zkušeného slušně seniorního a trpělivého programátora a devopsáka v jednom. Tak například pro Marigold.cz potřebuji občas sáhnout do šablon a upravit v nich něco, co mě štve. Například na konci titulní stránky se mi vypisovaly všechny archivní stránky, bylo jich přes 170. Jelikož Jekyll (nástroj, kterým se Marigold generuje) moc neznám, poležel bych si v dokumentaci, než bych to vyřešil, takže jsem poprosil Claude, ať to zařídí. Obratem mi dodala kus kódu, který to uspokojivě vyřešil tak, že to vypisuje jen odkaz na archivní stránku, na níž..."
     },
   
     {
@@ -1059,7 +1059,7 @@
       "category" : "Mobilní sítě, LTE, 5G",
       "tags"     : "",
       "date"     : "28.6.2024",
-      "content"  : "Jednou z nejzajímavějších inovací v 3GPP Release 16, finalizované v roce 2020 je Integrated Access and Backhaul (IAB) - Integrované přístupové a páteřní propojení. Jde o technologii, která má potenciál dramaticky změnit způsob, jakým jsou navrženy a nasazeny mobilní sítě. IAB představuje elegantní řešení pro jeden z největších problémů při nasazování 5G sítí: potřebu husté infrastruktury a nákladného backhaulu, tedy páteřního propojení. To se v 3G sítích realizovalo zpravidla mikrovlnými pojítky nebo metalickými propojeními, u 4G sítí stoupaly nároky na jeho kvalitu až k gigabitovým optickým linkám.Co je IABIAB je technologie, která umožňuje základnovým stanicím (gNB) využívat stejné rádiové rozhraní..."
+      "content"  : "Jednou z nejzajímavějších inovací v 3GPP Release 16, finalizované v roce 2020 je [Integrated Access and Backhaul](/item/integrated_access_and_backhaul_iab_5G/) ([IAB](/item/integrated_access_and_backhaul_iab_5G/)) - Integrované přístupové a páteřní propojení. Jde o technologii, která má potenciál dramaticky změnit způsob, jakým jsou navrženy a nasazeny mobilní sítě. IAB představuje elegantní řešení pro jeden z největších problémů při nasazování 5G sítí: potřebu husté infrastruktury a nákladného backhaulu, tedy páteřního propojení. To se v 3G sítích realizovalo zpravidla mikrovlnými pojítky nebo metalickými propojeními, u 4G sítí stoupaly nároky na jeho kvalitu až k gigabitovým optickým linkám.Co je IABIAB je technologie, která umožňuje základnovým stanicím (gNB) využívat stejné rádiové rozhraní..."
     },
   
     {
@@ -1104,7 +1104,7 @@
       "category" : "Mobilní sítě, 5G, 5G Advanced, 4G",
       "tags"     : "",
       "date"     : "9.6.2024",
-      "content"  : "V květnu letošního roku dostaly sítě 6G své oficiální logo a zároveň s tím se dokončila specifikace 5G Advanced v podobě 3GPP Rel-18. Kam bude mířit svět mobilních sítí po páté generaci? Zatím se nestresujte, první sítě se v realitě (ne té marketingové) objeví tak kolem roku 2028.Vývoj standardu u 3GPP jsme opustili v Release-17 (popisuji ve článku zde), které uzavřelo samotnou definici sítí 5G započatou Release-15. Specifikace Release-18 má přinést další rozvoj do 5G Advanced a pracovalo se na něm od konce roku 2021, schválen byl v květnu 2024. Takže je ta pravá chvíle podívat se, jak to nakonec..."
+      "content"  : "V květnu letošního roku dostaly sítě 6G své oficiální logo a zároveň s tím se dokončila specifikace [5G Advanced](/item/5G_advanced_3GPP_Release-18/) v podobě 3GPP Rel-18. Kam bude mířit svět mobilních sítí po páté generaci? Zatím se nestresujte, první sítě se v realitě (ne té marketingové) objeví tak kolem roku 2028.Vývoj standardu u 3GPP jsme opustili v Release-17 (popisuji ve článku zde), které uzavřelo samotnou definici sítí 5G započatou Release-15. Specifikace Release-18 má přinést další rozvoj do 5G Advanced a pracovalo se na něm od konce roku 2021, schválen byl v květnu 2024. Takže je ta pravá chvíle podívat se, jak to nakonec..."
     },
   
     {
@@ -1599,7 +1599,7 @@
       "category" : "Patrickův newsletter, AI, Sociální sítě, Energie, Automotive",
       "tags"     : "",
       "date"     : "13.8.2023",
-      "content"  : "A tím se dostáváme k dalšímu podstatnému problému. Obecně se předpokládá, že umělá inteligence povede téměř automaticky ke zvýšení produktivity, přičemž označení “téměř automaticky” zahrnuje především implementační rizika a náklady. Tedy náklady na to, dosavadní proces automatizovat. Mohlo by se ale stát, že umělá inteligence produktivitu naopak sníží? Když odmyslíme vysloveně chybnou implementaci, tak známe i skutečné případy snížení produktivity. Například umělointeligenční (či nomenklaturně přísně vzato algoritmy strojového učení) pro doporučování témat na sociálních sítích lidskou produktivitu vysloveně snižují. Tady je to věc metriky. V tomto případě jde provozovateli sociální sítě o to, aby návštěvníka udržel co nejdéle v sociální..."
+      "content"  : "A tím se dostáváme k dalšímu podstatnému problému. Obecně se předpokládá, že umělá inteligence povede téměř automaticky ke zvýšení produktivity, přičemž označení “téměř automaticky” zahrnuje především implementační rizika a náklady. Tedy náklady na to, dosavadní proces automatizovat. Mohlo by se ale stát, že umělá inteligence produktivitu naopak sníží? Když odmyslíme vysloveně chybnou implementaci, tak známe i skutečné případy snížení produktivity. Například umělointeligenční (či nomenklaturně přísně vzato algoritmy [strojového učení](/ai/strojove-uceni-machine-learning/)) pro doporučování témat na sociálních sítích lidskou produktivitu vysloveně snižují. Tady je to věc metriky. V tomto případě jde provozovateli sociální sítě o to, aby návštěvníka udržel co nejdéle v sociální..."
     },
   
     {
@@ -1716,7 +1716,7 @@
       "category" : "Patrickův newsletter, Mobilní technologie",
       "tags"     : "",
       "date"     : "12.2.2023",
-      "content"  : "Na trh se dostávají čipy pro Wi-Fi 7, které umožňují konstruovat routery nabízející rychlosti až 20 Gb/s, teoreticky pak ještě více, až 46 Gb/s. Toho se dociluje vysokou šířkou pásma, 320 MHz (oproti 160 MHz u Wi-Fi 6E). Wi-Fi 7 také podporuje funkci Multi-Link Operation (MLO), která umožňuje připojit schopná zařízení ke dvěma spektrům současně (například 5GHz a 6GHz). Wi-Fi 7 je obchodní označení standardu IEEE 802.11BE.Tak a to je pro tuto chvíli všechno.Vše nejlepší do nového týdne přejePatrick ZandlPS: Tento newsletter byl rozeslán na 2788 odběratelů."
+      "content"  : "Na trh se dostávají čipy pro [Wi-Fi 7](/item/wi-fi-7-802-11be/), které umožňují konstruovat routery nabízející rychlosti až 20 Gb/s, teoreticky pak ještě více, až 46 Gb/s. Toho se dociluje vysokou šířkou pásma, 320 MHz (oproti 160 MHz u Wi-Fi 6E). Wi-Fi 7 také podporuje funkci Multi-Link Operation (MLO), která umožňuje připojit schopná zařízení ke dvěma spektrům současně (například 5GHz a 6GHz). Wi-Fi 7 je obchodní označení standardu IEEE 802.11BE.Tak a to je pro tuto chvíli všechno.Vše nejlepší do nového týdne přejePatrick ZandlPS: Tento newsletter byl rozeslán na 2788 odběratelů."
     },
   
     {
@@ -1761,7 +1761,7 @@
       "category" : "Patrickův newsletter, AI, Mobilní technologie, Internet, Automotive",
       "tags"     : "",
       "date"     : "9.1.2023",
-      "content"  : "Na trh se dostávají čipy pro Wi-Fi 7, které umožňují konstruovat routery nabízející rychlosti až 20 Gb/s, teoreticky pak ještě více, až 46 Gb/s. Toho se dociluje vysokou šířkou pásma, 320 MHz (oproti 160 MHz u Wi-Fi 6E). Wi-Fi 7 také podporuje funkci Multi-Link Operation (MLO), která umožňuje připojit schopná zařízení ke dvěma spektrům současně (například 5GHz a 6GHz). Wi-Fi 7 je obchodní označení standardu IEEE 802.11BE."
+      "content"  : "Na trh se dostávají čipy pro [Wi-Fi 7](/item/wi-fi-7-802-11be/), které umožňují konstruovat routery nabízející rychlosti až 20 Gb/s, teoreticky pak ještě více, až 46 Gb/s. Toho se dociluje vysokou šířkou pásma, 320 MHz (oproti 160 MHz u Wi-Fi 6E). Wi-Fi 7 také podporuje funkci Multi-Link Operation (MLO), která umožňuje připojit schopná zařízení ke dvěma spektrům současně (například 5GHz a 6GHz). Wi-Fi 7 je obchodní označení standardu IEEE 802.11BE."
     },
   
     {
@@ -1878,7 +1878,7 @@
       "category" : "Patrickův newsletter, AI, Internet, Česko",
       "tags"     : "",
       "date"     : "27.11.2022",
-      "content"  : "Kryptoměnovým světem otřásá pád kryptoburzy či spíše kryptokasina FTX. Ukázalo se mnohé a situaci jsem detailněji rozebíral v minulém newsletteru. Nejenom, že byl vytvořený syntetický token, jehož likviditu určovala firma ovládaná Sam Bankman-Friedem, zakladatelem FTX. Ukázalo se, že neexistovaly žádné kontrolní mechanismy ani na samotné obchody a v podstatě ani na samotné zaměstnance burzy FTX. Zatímco na povrchu vystupovala FTX jako důvěryhodná finanční instituce, která “dělá krypto”, pod povrchem zde bujely všechny neduhy neregulovaného finančního světa, za které by se na běžné burze dávno zavíralo. To už je ale známá vesta. Já se chci zastavit u vedlejšího efektu, jímž je..."
+      "content"  : "Kryptoměnovým světem otřásá pád kryptoburzy či spíše kryptokasina FTX. Ukázalo se mnohé a situaci jsem detailněji rozebíral v minulém newsletteru. Nejenom, že byl vytvořený syntetický [token](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/), jehož likviditu určovala firma ovládaná Sam Bankman-Friedem, zakladatelem FTX. Ukázalo se, že neexistovaly žádné kontrolní mechanismy ani na samotné obchody a v podstatě ani na samotné zaměstnance burzy FTX. Zatímco na povrchu vystupovala FTX jako důvěryhodná finanční instituce, která “dělá krypto”, pod povrchem zde bujely všechny neduhy neregulovaného finančního světa, za které by se na běžné burze dávno zavíralo. To už je ale známá vesta. Já se chci zastavit u vedlejšího efektu, jímž je..."
     },
   
     {
@@ -2022,7 +2022,7 @@
       "category" : "Patrickův newsletter, Apple, Google, AI, Internet, Česko, Automotive",
       "tags"     : "",
       "date"     : "26.9.2022",
-      "content"  : "tohle mě pobavilo. The New York Times vydal článek o tom, jak se jejich paywall pomocí strojového učení adaptuje na to, kolik článků vám má ukázat zdarma, aby vás donutilo zaplatit. Copak, to je jen zajímavé, ale taky je vtipné, že NYT konstantně bojuje proti vlivu podobných algoritmů na lidi a kritizuje je. O čemž je například ten druhý článek… Vliv temných algoritmů na náš svět není malý a stále se zvyšuje. Google uvolnil svůj umělointeligenční jazykový model LaMDA pro veřejnost. Vedle GPT-3 je pravděpodobně nejznámějším velkým jazykovým modelem (LLM) LaMDA (Language Model for Dialog Applications). Společnost Google jej oznámila..."
+      "content"  : "tohle mě pobavilo. The New York Times vydal článek o tom, jak se jejich paywall pomocí [strojového učení](/ai/strojove-uceni-machine-learning/) adaptuje na to, kolik článků vám má ukázat zdarma, aby vás donutilo zaplatit. Copak, to je jen zajímavé, ale taky je vtipné, že NYT konstantně bojuje proti vlivu podobných algoritmů na lidi a kritizuje je. O čemž je například ten druhý článek… Vliv temných algoritmů na náš svět není malý a stále se zvyšuje. Google uvolnil svůj umělointeligenční jazykový model LaMDA pro veřejnost. Vedle GPT-3 je pravděpodobně nejznámějším velkým jazykovým modelem (LLM) LaMDA (Language Model for Dialog Applications). Společnost Google jej oznámila..."
     },
   
     {
@@ -2292,7 +2292,7 @@
       "category" : "Patrickův newsletter, Google, Mobilní technologie, EU, Automotive",
       "tags"     : "",
       "date"     : "27.7.2022",
-      "content"  : "Společnost Google nabízí izraelské vládě pokročilé schopnosti umělé inteligence a strojového učení prostřednictvím kontroverzní zakázky “Projekt Nimbus”. Izraelské ministerstvo financí oznámilo v dubnu 2021 uzavření smlouvy na cloudový výpočetní systém za 1,2 miliardy dolarů, který společně vybudovaly společnosti Google a Amazon. Google podle dokumentů dodává izraelské vládě kompletní sadu nástrojů strojového učení a umělé inteligence dostupných prostřednictvím platformy Google Cloud Platform. Nový cloud by Izraeli poskytl možnosti pro detekci obličejů, automatickou kategorizaci obrázků, sledování objektů, a dokonce i analýzu sentimentu, která prý dokáže vyhodnotit emocionální obsah obrázků, řeči a písma. Tyto schopnosti mají rozšířit izraelskou schopnost sledovat lidi a zpracovávat..."
+      "content"  : "Společnost Google nabízí izraelské vládě pokročilé schopnosti umělé inteligence a [strojového učení](/ai/strojove-uceni-machine-learning/) prostřednictvím kontroverzní zakázky “Projekt Nimbus”. Izraelské ministerstvo financí oznámilo v dubnu 2021 uzavření smlouvy na cloudový výpočetní systém za 1,2 miliardy dolarů, který společně vybudovaly společnosti Google a Amazon. Google podle dokumentů dodává izraelské vládě kompletní sadu nástrojů strojového učení a umělé inteligence dostupných prostřednictvím platformy Google Cloud Platform. Nový cloud by Izraeli poskytl možnosti pro detekci obličejů, automatickou kategorizaci obrázků, sledování objektů, a dokonce i analýzu sentimentu, která prý dokáže vyhodnotit emocionální obsah obrázků, řeči a písma. Tyto schopnosti mají rozšířit izraelskou schopnost sledovat lidi a zpracovávat..."
     },
   
     {
@@ -2490,7 +2490,7 @@
       "category" : "Patrickův newsletter, AI",
       "tags"     : "",
       "date"     : "15.5.2022",
-      "content"  : "Právě byl zveřejněn model Gato od společnosti DeepMind, ale už jsem měl málo času to pořádně nastudovat, jenže nedat to sem, by mi bylo líto. Je to univerzální AI transformátor, který umí hrát hry Atari, popisovat obrázky, chatovat s lidmi, ovládat skutečnou robotickou ruku a mnoho dalšího. A podle Deepmindu to není jen transformátor, ale také agent. Tak to dopadá, když smícháte transformátory s pokrokem v oblasti víceúlohového posilovacího učení agentů."
+      "content"  : "Právě byl zveřejněn model Gato od společnosti DeepMind, ale už jsem měl málo času to pořádně nastudovat, jenže nedat to sem, by mi bylo líto. Je to univerzální AI transformátor, který umí hrát hry Atari, popisovat obrázky, chatovat s lidmi, ovládat skutečnou robotickou ruku a mnoho dalšího. A podle Deepmindu to není jen transformátor, ale také agent. Tak to dopadá, když smícháte [transformátory](/ai/transformatory/) s pokrokem v oblasti víceúlohového posilovacího učení agentů."
     },
   
     {
@@ -5928,7 +5928,7 @@
       "category" : "",
       "tags"     : "",
       "date"     : "9.12.2009",
-      "content"  : "Je čas zase dodat pár věcí na Aukro, draží se od korunky, takže:Laks hodinky s vestavěnou flash 32 MB USB pamětí  - hezký gadget, ale hodinek mám nějak dostatek, aukce končí v pátek 13:22USB [Token](/ai/tokeny-versus-slova/) - SafeNet iKey 1000  - pro uschovávání digitálních certifikátů, je mi na nic, na Macku nefunguje. Aukce končí v neděli 13:42"
+      "content"  : "Je čas zase dodat pár věcí na Aukro, draží se od korunky, takže:Laks hodinky s vestavěnou flash 32 MB USB pamětí  - hezký gadget, ale hodinek mám nějak dostatek, aukce končí v pátek 13:22USB [Token](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/) - SafeNet iKey 1000  - pro uschovávání digitálních certifikátů, je mi na nic, na Macku nefunguje. Aukce končí v neděli 13:42"
     },
   
     {
@@ -9069,7 +9069,7 @@
       "category" : "",
       "tags"     : "",
       "date"     : "13.2.2006",
-      "content"  : "Jestli se vám zdálo, že standardů pro mobilní televizi je tu nějak málo, tak mám pro vás dobrou zprávu. IpWireless představilo na 3GSM svoji variantu mobilní televize nazvanou TDtv. Jak asi chápeme, jde o snahu přihrát si trochu vlastní polívčičku.V tomto případě je polévka založena na časovém duplexu známého v našich krajích pod tajnosnubným názvem Internet4g. Polévka je zahustěna pomocí Multimedia Broadcast and Multicast Standard (MBMS), jenž je součástí [UMTS Release 6](/item/umts-release-6/). Takto zvládne technologie na 5 mhz šířce pásma přenášet až 50 televizních kanálů ve standardním rozlišení pro mobily, v režimu vyšší kvality QVGA pak 15 kanálů. Samozřejmě bez..."
+      "content"  : "Jestli se vám zdálo, že standardů pro mobilní televizi je tu nějak málo, tak mám pro vás dobrou zprávu. IpWireless představilo na 3GSM svoji variantu mobilní televize nazvanou TDtv. Jak asi chápeme, jde o snahu přihrát si trochu vlastní polívčičku.V tomto případě je polévka založena na časovém duplexu známého v našich krajích pod tajnosnubným názvem Internet4g. Polévka je zahustěna pomocí Multimedia Broadcast and Multicast Standard (MBMS), jenž je součástí [[UMTS Release 6](/item/umts-release-6/)](/item/umts-release-6/). Takto zvládne technologie na 5 mhz šířce pásma přenášet až 50 televizních kanálů ve standardním rozlišení pro mobily, v režimu vyšší kvality QVGA pak 15 kanálů. Samozřejmě bez..."
     },
   
     {
@@ -16566,7 +16566,7 @@
       "category" : "",
       "tags"     : "",
       "date"     : "5.5.2004",
-      "content"  : "Velkým problémem bezdrátových sítí při poskytování real-time aplikací (jako videokonference), je určení správné délky paketu posílaného sítí. Pokud je paket moc dlouhý a při přenosu se poškodí, musí se znovu vysílat a to komplikuje aplikaci život. Pokud je paket moc krátký, je zase vysoká režie na přenos. Určit optimální délku paketu jde v drátových sítích, kde jsou podmínky prakticky konstantní, ale v bezdrátových sítích je to problém. Řešením by byla proměnná délka paketu dle situace, která nastane v nejbližší době na přenosové trase. Na to je potřeba křišťálová koule. Nebo nově nelineární [neuronová síť](/ai/neuronove-site/). S tou jako řešením přišla firma..."
+      "content"  : "Velkým problémem bezdrátových sítí při poskytování real-time aplikací (jako videokonference), je určení správné délky paketu posílaného sítí. Pokud je paket moc dlouhý a při přenosu se poškodí, musí se znovu vysílat a to komplikuje aplikaci život. Pokud je paket moc krátký, je zase vysoká režie na přenos. Určit optimální délku paketu jde v drátových sítích, kde jsou podmínky prakticky konstantní, ale v bezdrátových sítích je to problém. Řešením by byla proměnná délka paketu dle situace, která nastane v nejbližší době na přenosové trase. Na to je potřeba křišťálová koule. Nebo nově nelineární [[neuronová síť](/ai/neuronove-site/)](/ai/neuronove-site/). S tou jako řešením přišla firma..."
     },
   
     {
@@ -26074,7 +26074,7 @@
       "title"    : "Projevy",
       "url"      : "//projevy/",
       "category" : "stránka",
-      "content"  : "Některé projevy či přednášky zahraničních autorů, které jsem považoval za důležité a přeložil jsem je do češtiny. To, že jsou tady, neznamená, že s nimi musím souhlasit, ale pokud s nimi vedu polemiku, tak ve vyhrazeném článku, nikoliv v textu přepisu přednášky či projevu. Surya Ganguli - Může se umělá inteligence vyrovnat lidskému mozku? Přepis přednášky profesora stanfordské univerzits Surya Ganguliho věnované umělé inteligenci a lidskému mozku. Rychlé shrnutí článku AI potřebuje biliony slov pro trénink, lidé efektivněji využívají data díky evoluci. Energetická náročnost AI je obrovská, lidský mozek spotřebuje jen 20 wattů. Vysvětlitelná AI pomáhá pochopit fungování mozku, například..."
+      "content"  : "Některé projevy či přednášky zahraničních autorů, které jsem považoval za důležité a přeložil jsem je do češtiny. To, že jsou tady, neznamená, že s nimi musím souhlasit, ale pokud s nimi vedu polemiku, tak ve vyhrazeném článku, nikoliv v textu přepisu přednášky či projevu. Surya Ganguli - Může se umělá inteligence vyrovnat lidskému mozku? Přepis přednášky profesora stanfordské univerzits Surya Ganguliho věnované umělé inteligenci a lidskému mozku. Rychlé shrnutí článku Umělá inteligence se za deset let výrazně změnila. AI má pozoruhodné schopnosti, ale dělá i hrozivé chyby. Pro pochopení AI je nutné ji zasadit do kontextu biologické inteligence. Věda o..."
     }
     
   

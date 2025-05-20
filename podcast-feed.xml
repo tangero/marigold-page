@@ -90,7 +90,7 @@
     
     <item>
       <title>Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu</title>
-      <description>Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.
+      <description>Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže [vibe coding](/item/programovani-s-ai/), jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.
 </description>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
       <enclosure url="http://www.marigold.cz/audio/2025-04-03-architektura-vibecoding.mp3" 
@@ -98,7 +98,7 @@
                  type="audio/mpeg"/>
       <guid>https://www.marigold.cz/item/architektura-vibecoding/</guid>
       <itunes:duration>00:00:00</itunes:duration>
-      <itunes:summary>Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže vibe coding, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.
+      <itunes:summary>Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže [vibe coding](/item/programovani-s-ai/), jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.
 </itunes:summary>
       <itunes:image href="https://www.marigold.cz/assets/podcast-cover.jpg"/>
     </item>
@@ -126,7 +126,7 @@
     
     <item>
       <title>Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi</title>
-      <description>Oblíbená automatizační služba Zapier a její (kdysi český!) konkurent Make.com nedávno vydala podporu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.
+      <description>Oblíbená automatizační služba Zapier a její (kdysi český!) konkurent Make.com nedávno vydala podporu [MCP](/ai/mcp/) (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.
 </description>
       <pubDate>Thu, 27 Mar 2025 08:00:00 +0000</pubDate>
       <enclosure url="http://www.marigold.cz/audio/2025-03-27-zapier-mcp.mp3" 
@@ -134,7 +134,7 @@
                  type="audio/mpeg"/>
       <guid>https://www.marigold.cz/item/zapier-mcp/</guid>
       <itunes:duration>00:00:00</itunes:duration>
-      <itunes:summary>Oblíbená automatizační služba Zapier a její (kdysi český!) konkurent Make.com nedávno vydala podporu MCP (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.
+      <itunes:summary>Oblíbená automatizační služba Zapier a její (kdysi český!) konkurent Make.com nedávno vydala podporu [MCP](/ai/mcp/) (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.
 </itunes:summary>
       <itunes:image href="https://www.marigold.cz/assets/podcast-cover.jpg"/>
     </item>
@@ -2457,7 +2457,7 @@
     <item>
       <title>IPWireless představuje další mobilní televizi – TDtv</title>
       <description>Jestli se vám zdálo, že standardů pro mobilní televizi je tu nějak málo, tak mám pro vás dobrou zprávu. IpWireless představilo na 3GSM svoji variantu mobilní televize nazvanou TDtv. Jak asi chápeme, jde o snahu přihrát si trochu vlastní polívčičku.
-V tomto případě je polévka založena na časovém duplexu známého v našich krajích pod tajnosnubným názvem Internet4g. Polévka je zahustěna pomocí Multimedia Broadcast and Multicast Standard (MBMS), jenž je součástí [UMTS Release 6](/item/umts-release-6/). Takto zvládne technologie na 5 mhz šířce pásma přenášet až 50 televizních kanálů ve standardním rozlišení pro mobily, v režimu vyšší kvality QVGA pak 15 kanálů. Samozřejmě bez ohledu na počet příjemců, protože jde o multicast.  Jeden trial jede v Japonsku na frekvenci 2,01 ghz, další mají přijít na řadu v půlce roku. Prý bude možná i konverze na jiná pásma a bude to fungovat nakonec i v existujících umts sítích po drobném upgrade. Tak vám nevím. Běhá to tu hezky, ale těch standardů už je na mne moc a to je zajícova smrt. Přednášky, které mne mají vyvést z nebezpečného bludu, že mobilní televize jest kravina, začnou až zítra. Takže sledujte, jak plynule a zda vůbec převléknu kabát...
+V tomto případě je polévka založena na časovém duplexu známého v našich krajích pod tajnosnubným názvem Internet4g. Polévka je zahustěna pomocí Multimedia Broadcast and Multicast Standard (MBMS), jenž je součástí [[UMTS Release 6](/item/umts-release-6/)](/item/umts-release-6/). Takto zvládne technologie na 5 mhz šířce pásma přenášet až 50 televizních kanálů ve standardním rozlišení pro mobily, v režimu vyšší kvality QVGA pak 15 kanálů. Samozřejmě bez ohledu na počet příjemců, protože jde o multicast.  Jeden trial jede v Japonsku na frekvenci 2,01 ghz, další mají přijít na řadu v půlce roku. Prý bude možná i konverze na jiná pásma a bude to fungovat nakonec i v existujících umts sítích po drobném upgrade. Tak vám nevím. Běhá to tu hezky, ale těch standardů už je na mne moc a to je zajícova smrt. Přednášky, které mne mají vyvést z nebezpečného bludu, že mobilní televize jest kravina, začnou až zítra. Takže sledujte, jak plynule a zda vůbec převléknu kabát...
 
 </description>
       <pubDate>Mon, 13 Feb 2006 00:00:00 +0000</pubDate>
@@ -2467,7 +2467,7 @@ V tomto případě je polévka založena na časovém duplexu známého v našic
       <guid>https://www.marigold.cz/item/ipwireless-predstavuje-dalsi-mobilni-televizi-tdtv/</guid>
       <itunes:duration>00:00:00</itunes:duration>
       <itunes:summary>Jestli se vám zdálo, že standardů pro mobilní televizi je tu nějak málo, tak mám pro vás dobrou zprávu. IpWireless představilo na 3GSM svoji variantu mobilní televize nazvanou TDtv. Jak asi chápeme, jde o snahu přihrát si trochu vlastní polívčičku.
-V tomto případě je polévka založena na časovém duplexu známého v našich krajích pod tajnosnubným názvem Internet4g. Polévka je zahustěna pomocí Multimedia Broadcast and Multicast Standard (MBMS), jenž je součástí [UMTS Release 6](/item/umts-release-6/). Takto zvládne technologie na 5 mhz šířce pásma přenášet až 50 televizních kanálů ve standardním rozlišení pro mobily, v režimu vyšší kvality QVGA pak 15 kanálů. Samozřejmě bez ohledu na počet příjemců, protože jde o multicast.  Jeden trial jede v Japonsku na frekvenci 2,01 ghz, další mají přijít na řadu v půlce roku. Prý bude možná i konverze na jiná pásma a bude to fungovat nakonec i v existujících umts sítích po drobném upgrade. Tak vám nevím. Běhá to tu hezky, ale těch standardů už je na mne moc a to je zajícova smrt. Přednášky, které mne mají vyvést z nebezpečného bludu, že mobilní televize jest kravina, začnou až zítra. Takže sledujte, jak plynule a zda vůbec převléknu kabát...
+V tomto případě je polévka založena na časovém duplexu známého v našich krajích pod tajnosnubným názvem Internet4g. Polévka je zahustěna pomocí Multimedia Broadcast and Multicast Standard (MBMS), jenž je součástí [[UMTS Release 6](/item/umts-release-6/)](/item/umts-release-6/). Takto zvládne technologie na 5 mhz šířce pásma přenášet až 50 televizních kanálů ve standardním rozlišení pro mobily, v režimu vyšší kvality QVGA pak 15 kanálů. Samozřejmě bez ohledu na počet příjemců, protože jde o multicast.  Jeden trial jede v Japonsku na frekvenci 2,01 ghz, další mají přijít na řadu v půlce roku. Prý bude možná i konverze na jiná pásma a bude to fungovat nakonec i v existujících umts sítích po drobném upgrade. Tak vám nevím. Běhá to tu hezky, ale těch standardů už je na mne moc a to je zajícova smrt. Přednášky, které mne mají vyvést z nebezpečného bludu, že mobilní televize jest kravina, začnou až zítra. Takže sledujte, jak plynule a zda vůbec převléknu kabát...
 
 </itunes:summary>
       <itunes:image href="https://www.marigold.cz/assets/podcast-cover.jpg"/>

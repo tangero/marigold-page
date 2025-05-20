@@ -227,13 +227,13 @@ květen
     </div>
     <ul class="summary-points">
       
-        <li>Kontext v LLM zahrnuje vstupní text, historii konverzace a další data pro generování odpovědí.</li>
+        <li>Kontext v LLM je paměť modelu pro zpracování dat.</li>
       
-        <li>Kvadratická složitost mechanismu pozornosti zvyšuje náklady a zpomaluje zpracování dlouhých kontextů.</li>
+        <li>Délka kontextu ovlivňuje porozumění a kvalitu výstupu.</li>
       
-        <li>Řešení zahrnují optimalizace jako FlashAttention, řídkou pozornost a hybridní architektury.</li>
+        <li>Kvadratická složitost pozornosti omezuje délku kontextu.</li>
       
-        <li>RAG kombinuje externí vyhledávání s omezeným kontextem pro efektivní práci s rozsáhlými daty.</li>
+        <li>Výzkum hledá optimalizace a alternativní architektury pro delší kontext.</li>
       
     </ul>
   </div>
@@ -358,7 +358,7 @@ květen
   </li>
 </ol>
 
-<p>Délka kontextu, obvykle měřená v tokenech, definuje maximální množství informací, které model může současně zpracovat. Token je základní jednotka textu pro LLM, která může odpovídat slovu, části slova nebo interpunkčnímu znaménku (pro hlubší vysvětlení viz článek <a href="/ai/tokeny-versus-slova">Tokeny versus Slova</a>).</p>
+<p>Délka kontextu, obvykle měřená v tokenech, definuje maximální množství informací, které model může současně zpracovat. Token je základní jednotka textu pro LLM, která může odpovídat slovu, části slova nebo interpunkčnímu znaménku (pro hlubší vysvětlení viz článek <a href="/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova">Tokeny versus Slova</a>).</p>
 
 <h3 id="význam-délky-kontextu-pro-kvalitu-výstupu">Význam délky kontextu pro kvalitu výstupu:</h3>
 
@@ -376,7 +376,7 @@ květen
     <p>Zpracování komplexních úloh: Úlohy jako detailní analýza rozsáhlých reportů, knih nebo kódových bází vyžadují schopnost pojmout velké množství dat najednou.</p>
   </li>
   <li>
-    <p>Omezení “halucinací”: Poskytnutí dostatečného kontextu může snížit tendenci modelu vymýšlet si informace, které nejsou ve vstupních datech.</p>
+    <p>Omezení “<a href="/ai/halucinace-ai/">halucinací</a>”: Poskytnutí dostatečného kontextu může snížit tendenci modelu vymýšlet si informace, které nejsou ve vstupních datech.</p>
   </li>
 </ul>
 
@@ -390,7 +390,7 @@ květen
       <th><strong>Model</strong></th>
       <th><strong>Kontextové okno (Max vstup)</strong></th>
       <th><strong>Max. výstup</strong></th>
-      <th><strong>Cena vstupu ($/1M tokenů)</strong></th>
+      <th><strong>Cena vstupu ($/1M <a href="/ai/tokeny-versus-slova/">tokenů</a>)</strong></th>
       <th><strong>Cena výstupu ($/1M tokenů)</strong></th>
     </tr>
   </thead>
@@ -468,7 +468,7 @@ květen
   </tbody>
 </table>
 
-<p>Poznámka: Ceny se mohou lišit v závislosti na poskytovateli API (zde OpenRouter) a aktuálním vytížení. U Gemini 2.5 Pro jsou ceny uvedeny v rozsahu. Open-source modely nemají přímé ceny za token, ale náklady na jejich provoz. Hodnota u LLAMA 4 je velmi optimistická, model na to nebyl řádně testován a výsledky nejsou příliš kvalitní.</p>
+<p>Poznámka: Ceny se mohou lišit v závislosti na poskytovateli API (zde OpenRouter) a aktuálním vytížení. U Gemini 2.5 Pro jsou ceny uvedeny v rozsahu. Open-source modely nemají přímé ceny za <a href="/ai/tokeny-versus-slova/">token</a>, ale náklady na jejich provoz. Hodnota u LLAMA 4 je velmi optimistická, model na to nebyl řádně testován a výsledky nejsou příliš kvalitní.</p>
 
 <p>Je důležité poznamenat, že nominální délka kontextového okna nemusí vždy odpovídat efektivní schopnosti modelu využívat informace z celého kontextu. Testy jako <a href="https://github.com/gkamradt/LLMTest_NeedleInAHaystack">Needle In A Haystack</a> (NIAH) ukazují, že některé modely mají problémy s vyhledáváním informací umístěných uprostřed velmi dlouhého kontextu (tzv. “lost in the middle” problém), i když se tento problém postupně daří zmírňovat.</p>
 
@@ -512,7 +512,7 @@ květen
   </li>
 </ul>
 
-<p>Tento kvadratický nárůst představuje obrovskou bariéru pro neomezené prodlužování kontextového okna u standardních transformátorů, jak z hlediska výpočetní náročnosti (čas), tak paměťových požadavků.</p>
+<p>Tento kvadratický nárůst představuje obrovskou bariéru pro neomezené prodlužování kontextového okna u standardních <a href="/ai/transformatory/">transformátorů</a>, jak z hlediska výpočetní náročnosti (čas), tak paměťových požadavků.</p>
 
 <h2 id="praktické-důsledky-kvadratické-složitosti">Praktické důsledky kvadratické složitosti</h2>
 
@@ -545,13 +545,13 @@ květen
 
 <p>Ačkoliv tyto metody mohou dosáhnout lineární (O(N)) nebo téměř lineární (O(NlogN)) výpočetní složitosti, kompromisem může být mírné snížení kvality modelu oproti plné pozornosti. Důvodem je, že předdefinované nebo aproximované vzory řídké pozornosti nemusí vždy dokonale zachytit všechny relevantní dlouhodobé závislosti v textu, které by plná pozornost identifikovala.</p>
 
-<h3 id="3-alternativní-architektury-mimo-transformátory">3. Alternativní architektury (mimo transformátory)</h3>
+<h3 id="3-alternativní-architektury-mimo-transformátory">3. Alternativní architektury (mimo <a href="/ai/transformatory/">transformátory</a>)</h3>
 
 <p>Hledání architektur, které nejsou založeny na standardní O(N2) pozornosti:</p>
 
 <ul>
   <li>
-    <p>Rekurentní <a href="/ai/neuronove-site/">neuronové sítě</a> (RNN) / LSTM / GRU: Tyto sítě představují starší přístup ke zpracování sekvencí, jehož kořeny sahají až do 80. a 90. let 20. století. Základní myšlenka RNN spočívá ve zpracování sekvence krok za krokem (token po tokenu), přičemž si síť udržuje vnitřní “stav” nebo “paměť”, která shrnuje informace z předchozích kroků. Tento stav se aktualizuje při zpracování každého nového tokenu. Díky tomu má zpracování inherentně lineární výpočetní složitost (O(N)), protože výpočet pro každý token závisí pouze na aktuálním vstupu a předchozím stavu, nikoli na všech předchozích tokenech současně. Varianty jako LSTM (Long Short-Term Memory, Hochreiter &amp; Schmidhuber, 1997) a GRU (Gated Recurrent Unit) byly vyvinuty později, aby řešily klíčový problém základních RNN: tzv. mizení nebo explozi gradientů (vanishing/exploding gradients), které bránily učení závislostí na dlouhé vzdálenosti v sekvenci. Přestože LSTM a GRU tento problém zmírnily pomocí speciálních “bran” (gates), které řídí tok informací a gradientů, stále měly své limity. Hlavní nevýhodou oproti transformátorům se ukázala být jejich sekvenční povaha, která znesnadňuje paralelizaci výpočtů během tréninku na moderním hardwaru (GPU/TPU). Transformátory, které mohou zpracovávat všechny tokeny v sekvenci víceméně paralelně díky mechanismu pozornosti, se tak staly efektivnější pro trénink na velkých datech a dosáhly lepších výsledků v mnoha úlohách. Moderní výzkum se však k RNN a jejich vylepšením částečně vrací, snaží se kombinovat jejich výhody (lineární složitost) s novými technikami pro zlepšení výkonu a paralelizace.</p>
+    <p>Rekurentní <a href="/ai/neuronove-site/">[neuronové sítě](/ai/neuronove-site/)</a> (RNN) / LSTM / GRU: Tyto sítě představují starší přístup ke zpracování sekvencí, jehož kořeny sahají až do 80. a 90. let 20. století. Základní myšlenka RNN spočívá ve zpracování sekvence krok za krokem (token po tokenu), přičemž si síť udržuje vnitřní “stav” nebo “paměť”, která shrnuje informace z předchozích kroků. Tento stav se aktualizuje při zpracování každého nového tokenu. Díky tomu má zpracování inherentně lineární výpočetní složitost (O(N)), protože výpočet pro každý token závisí pouze na aktuálním vstupu a předchozím stavu, nikoli na všech předchozích tokenech současně. Varianty jako LSTM (Long Short-Term Memory, Hochreiter &amp; Schmidhuber, 1997) a GRU (Gated Recurrent Unit) byly vyvinuty později, aby řešily klíčový problém základních RNN: tzv. mizení nebo explozi gradientů (vanishing/exploding gradients), které bránily učení závislostí na dlouhé vzdálenosti v sekvenci. Přestože LSTM a GRU tento problém zmírnily pomocí speciálních “bran” (gates), které řídí tok informací a gradientů, stále měly své limity. Hlavní nevýhodou oproti transformátorům se ukázala být jejich sekvenční povaha, která znesnadňuje paralelizaci výpočtů během tréninku na moderním hardwaru (GPU/TPU). Transformátory, které mohou zpracovávat všechny tokeny v sekvenci víceméně paralelně díky mechanismu pozornosti, se tak staly efektivnější pro trénink na velkých datech a dosáhly lepších výsledků v mnoha úlohách. Moderní výzkum se však k RNN a jejich vylepšením částečně vrací, snaží se kombinovat jejich výhody (lineární složitost) s novými technikami pro zlepšení výkonu a paralelizace.</p>
   </li>
   <li>
     <p>State Space Models (SSM): Třída modelů inspirovaná teorií řízení.</p>
@@ -636,10 +636,10 @@ květen
           
             <tr>
               <td>
-                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
+                <a href="/item/projektovy-manazer-je-v-cesku-sproste-slovo-ke-skode-projektu/">👉Projektový manažer je v Česku sprosté slovo – ke škodě projektů …</a>
                 <p class="excerpt">
                   
-                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
+                    Na Makers Faire jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější ...
                   
                 </p>
               </td>
@@ -647,10 +647,10 @@ květen
           
             <tr>
               <td>
-                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
+                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
                 <p class="excerpt">
                   
-                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don’t restrict anyone else, and it is on this rule that the modern wo...
+                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
                   
                 </p>
               </td>

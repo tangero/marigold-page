@@ -336,7 +336,7 @@
 
 <p>Dnešní základnové stanice obsahují dvě hlavní elektronické části, BBU a RFU. Nově se v Release 10 a pozdějších setkáváme s návrhem na rozdělení na BBU zpracovávající základní signál a RRH (Remote Radio Head), což je jednotka propojená koaxiálním a později optickým kabelem s anténním systémem a BBU a stará se o konverzi základního digitálního signálu do analogového na antény a opačně. V tomto případě jde ale o menší základnové stanice určené pro pokrytí poloměru několika málo kilometrů, což na druhou stranu v zatížených oblastech bude typický poloměr obsluhy základnové stanice. Zatímco modul RRH je umístěn u anténního systému, moduly BBU jsou v dosahu rychlého připojení, typicky v místě, ale i ve vzdálenosti 20-40 kilometrů tam, kde mohou být pro provozovatele sítě pohodlně dostupné.</p>
 
-<p><img src="/assets/dran-cran.png" alt="Posun od D-RAN k C-RAN" /></p>
+<p><img src="/assets/dran-[cran](/mobilnisite/epc-evolved-packet-core-lte/).png" alt="Posun od D-RAN k C-RAN" /></p>
 
 <p>Podstatnou změnou je vysunutí BBU z kontajneru základnové stanice do cloudu v jádru sítě.</p>
 
@@ -348,14 +348,14 @@
   <li>Zjednodušuje to správu a zvyšuje možnost loadbalancingu a reakce na nestandardní zatížení sítě, které se stává stále standardnějším (=nejistota je nová jistota)</li>
   <li>Zrychluje to datové služby snížením zpoždění a zvýšením kapacity, propustnosti.</li>
   <li>Zvyšuje to potřebu propojovat základnové stanice optickým vláknem s jádrem sítě (což byl dodneška hlavní problém)</li>
-  <li>Klade to nároky na standardizaci interface mezi RRH a BBU a <a href="/mobilnisite/epc-evolved-packet-core-lte/">EPC</a>, což se snaží řešít interface OBSAI a ORI a dále dnes používané CPRI.</li>
+  <li>Klade to nároky na standardizaci interface mezi RRH a BBU a <a href="/mobilnisite/epc-evolved-packet-core-lte/">[EPC](/mobilnisite/epc-evolved-packet-core-lte/)</a>, což se snaží řešít interface OBSAI a ORI a dále dnes používané CPRI.</li>
 </ol>
 
 <p>Předpokladem je, že C-RAN bude v prvé fázi nasazován v lokacích, kde jsou vysoké nároky na přenosové rychlosti a pokrytí, tedy zejména pro metropolitní oblasti. Teoreticky by bylo možné pro C-RAN transparentně použít i jiné přístupové technologie, než LTE frekvence, třeba WiFi, návrhy toto zatím nijak neupravují a obnášelo by to podporu na mobilním zařízení. C-RAN je vhodný jak pro makro-buňky, tak pro malé buňky včetně těch uvnitř budov.</p>
 
 <p>Očekává se, že v první fázi nebude plošně nasazován C-RAN, ale že jedna BBU bude schopna obsluhovat více okolních RRH připojených optickým kabelem. Již dnes BBU podporují šest RRH, ovšem na jedné základně, do budoucna by měly být schopny obsluhovat i více RRH v rozdílných základnových stanicích.</p>
 
-<h2 id="v-ran-a-open-ran">V-RAN a <a href="/mobilnisite/epc-evolved-packet-core-lte/">Open RAN</a></h2>
+<h2 id="v-ran-a-open-ranmobilnisiteepc-evolved-packet-core-ltemobilnisiteepc-evolved-packet-core-lte">V-RAN a <a href="/mobilnisite/epc-evolved-packet-core-lte/">[[Open RAN](/mobilnisite/epc-evolved-packet-core-lte/)](/mobilnisite/epc-evolved-packet-core-lte/)</a></h2>
 
 <p>Vývoj architektury rádiové přístupové sítě ale šel rychle dále. Dalším posunem měla být širší propojitelnost. Tu výrazně posunul přechod Baseband Unit (BBU) z propriteráního hardware na běžné servery, které se nazývají COTS (zkratka pro Komerční produkty). Tím se zlevňuje výstavba sítě, protože lze použít jakýkoliv COTS, který provozovatel sítě uváží. Lze lépe škálovat, provoz sítě může být flexibilnější.  Software, který běží na BBU, je virtualizován tak, aby mohl běžet na jakémkoli serveru COTS. Proprietární rozhraní mezi rádii a jednotkou BBU založenou na COTS však zůstávají zachována. Ačkoli jsou tedy funkce RAN virtualizovány na serveru COTS (odtud též označení vRAN), rozhraní mezi BBU a RRU/RRH není otevřené, takže software jakéhokoli dodavatele nemůže s RRU/RRH pracovat, pokud se rozhraní nestanou otevřenými. V případě vRAN je tedy nutné použít stejného dodavatele pro rádio i pro software běžícího na COTS BBU. Provozovatel nemůže na stejnou COTS BBU umístit software jiného dodavatele, pokud rozhraní k rádiu není otevřené. VRAN tedy stále umožňuje vendor lock-in. Což je přesně to, co má postihnout další vývojový krok nazvaný Open RAN, tedy otevřená rádiová přístupová síť.</p>
 
@@ -422,7 +422,7 @@
 
 <h2 id="jak-je-to-se-specifikacemi-a-standardizací">Jak je to se specifikacemi a standardizací?</h2>
 
-<p>V 3GPP Release 14 jsou zahájeny práce na rozdělení funkcí RAN, příprava na nové architektury včetně C-RAN. V Release 15 pak přistupuje  formální specifikace CU/DU, dokončuje se rozdělení pro <a href="/ng-ran/">NG-RAN</a> a je tu první implementace virtualizovaných funkcí. V Release 16 je pak plná podpora vRAN. S ohledem na to, že Open RAN je vlastně otevřená a interoperabilní vRAN, je to s její specifikací trochu jinak.</p>
+<p>V 3GPP Release 14 jsou zahájeny práce na rozdělení funkcí RAN, příprava na nové architektury včetně C-RAN. V Release 15 pak přistupuje  formální specifikace CU/DU, dokončuje se rozdělení pro <a href="/ng-ran/">[NG-RAN](/mobilnisite/epc-evolved-packet-core-lte/)</a> a je tu první implementace virtualizovaných funkcí. V Release 16 je pak plná podpora vRAN. S ohledem na to, že Open RAN je vlastně otevřená a interoperabilní vRAN, je to s její specifikací trochu jinak.</p>
 
 <p>Open RAN (O-RAN) není přímo specifikován v žádné konkrétní verzi 3GPP Release. Místo toho je O-RAN standardizován a vyvíjen prostřednictvím O-RAN Alliance, která definuje specifikace pro otevřená rozhraní mezi různými komponentami Radio Access Network (RAN). O-RAN Alliance spolupracuje s 3GPP na zajištění interoperability mezi otevřenými rozhraními a existujícími 3GPP specifikacemi.</p>
 
@@ -464,10 +464,11 @@
           
             <tr>
               <td>
-                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
+                <a href="/item/jak-jsme-proskolili-bananarskou-hvezdu/">👉Jak jsme proškolili bananářskou hvězdu</a>
                 <p class="excerpt">
                   
-                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
+                    Víte, jak se prodávají banány?  Tím nemyslím to jedno kilčo, co si koupíte v obchodě. Jak se pořádně prodávají banány! Po stovkách tun. Takhle.
+Tohle je dalš...
                   
                 </p>
               </td>
