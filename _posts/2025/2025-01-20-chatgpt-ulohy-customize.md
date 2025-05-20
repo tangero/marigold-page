@@ -10,10 +10,10 @@ post_excerpt: OpenAI nedávno představila režim Úlohy a nově i Přizpůsoben
   umožňují provedení promptu v určitý čas, Přizpůsobení pak umožní detailněji nastavit,
   jak s vámi má AI mluvit. Jak na to?
 summary_points:
-- OpenAI představila funkce Úlohy a Přizpůsobení.
-- Úlohy umožňují plánované vykonávání promptů s notifikacemi.
-- Přizpůsobení umožňuje detailní nastavení způsobu komunikace s AI.
-- Úlohy jsou omezeny na 10 současně spuštěných a jsou dostupné jen v placených programech.
+- OpenAI představilo nové funkce Úlohy a Přizpůsobení.
+- Úlohy umožňují naplánovat spuštění promptu v určitý čas.
+- Přizpůsobení umožňuje nastavit, jak má AI s uživatelem komunikovat.
+- Úlohy mají omezení, lze mít jen 10 spuštěných úloh.
 thumbnail: https://www.marigold.cz/assets/Custom-Instructions-UI.png
 title: ChatGPT Úlohy a Customizace
 ---

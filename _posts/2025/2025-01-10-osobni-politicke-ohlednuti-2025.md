@@ -11,14 +11,22 @@ post_excerpt: 'Rok 2024 pro mne měl několik momentů, pro který ho považuji 
   ale to je přeci přípustný moment k ohlédnutí. Zejména tomu politickému.V tomto ohledu
   to byl rok osobní deziluze. '
 summary_points:
-- Rok 2024 byl nejtěžší i nejlepší v mém životě.
-- Odvolání z postu místostarosty ukázalo politickou nestabilitu.
-- Politika vyžaduje vedlejší příjem kvůli nejistotě financí.
-- Skandinávské systémy jsou metodické a důvěryhodné.
-- Česká politika upřednostňuje zájmy stran před pokrokem.
-- Mediální nezávislost je iluze ovlivněná zájmy majitelů.
-- Agresivita a hrozby demotivují politickou angažovanost.
-- Česko potřebuje
+- Rok 2024 byl pro autora nejtěžším i nejlepším rokem.
+- Autor se rozhodl vstoupit do politiky, protože nechtěl spoléhat na ostatní.
+- Po odvolání z funkce místostarosty ztratil vliv i příjem.
+- V politice se počítá jen dokončená práce, ne vize.
+- Politici potřebují vedlejší příjem nebo rezervy, aby nebyli vydíratelní.
+- Český systém financování politiků může vést ke korupci.
+- Skandinávská samospráva je metodická a efektivní.
+- Práce pro stát je ve Skandinávii prestižní a dobře placená.
+- Česká státní správa postrádá systém a důvěru.
+- Bez samostatných politiků s důvěrou se věci neposunou.
+- Česká politika je zamrzlá kvůli konkurenci a obchodním zájmům.
+- Média dnes nejsou nezaujatá a slouží zájmům majitelů.
+- Politika v Česku je plná agrese a výhrůžek.
+- Autor se omlouvá za dřívější optimismus ohledně zlepšení Česka.
+- Zlepšení situace v Česku potrvá desetiletí.
+- Autor napsal knihu a dokončil učebnice po těžkém roce.
 thumbnail: https://www.marigold.cz/assets/patrick-forbes-next.jpg
 title: Zúčtování s rokem 2024 a nahlížení do politiky verze 50
 ---

@@ -12,10 +12,10 @@ post_excerpt: Musk se rozhodl přitlačit na vydírání Ukrajiny a hrozí vypnu
   Eutelsat. Nebude dokonalé, ale bude pro řadu případů dostatečné. Pojďme se na to
   podívat.
 summary_points:
-- Musk hrozí vypnutím Starlinku na Ukrajině, proto se hledá záložní řešení.
-- Eutelsat Group vznikla fúzí Eutelsatu a OneWeb v roce 2023, má 630 satelitů.
-- Eutelsat má nižší latenci oproti GEO satelitům, ale menší přenosovou rychlost než Starlink.
-- Starlink má kompaktnější terminály, Eutelsat je vhodnější pro vládní použití.
+- Musk hrozí vypnutím Starlinku na Ukrajině.
+- Eutelsat/OneWeb je záložní řešení pro Ukrajinu.
+- Eutelsat/OneWeb má méně satelitů a nižší rychlost než Starlink.
+- Terminály Eutelsat/OneWeb jsou větší než Starlink.
 thumbnail: http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2025-03/2025-03-04T101756Z_1534088195_RC2DGT9QBZCY_RTRMADP_3_EUTELSAT-COM-STOCKS.JPG.jpg
 title: Může Eutelsat nahradit na Ukrajině Starlink?
 ---

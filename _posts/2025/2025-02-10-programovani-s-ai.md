@@ -29,14 +29,14 @@ Pro koho je tedy [Programování s AI](/item/programovani-s-ai/)? Především p
 
 Jak na něco takového? 
 
-Podíváme se dnes na několik nástrojů, které slouží k [programování s AI](/item/programovani-s-ai/):
+Podíváme se dnes na několik nástrojů, které slouží k [[programování s AI](/item/programovani-s-ai/)](/item/programovani-s-ai/):
 - [Cursor AI](https://www.cursor.com/)
 - [Tempolabs AI](https://www.tempolabs.ai/) 
 - [Replit](https://replit.com/)
 - [Bolt New](https://bolt.new/)   
 - [Windsurf AI](https://codeium.com/windsurf)
 
-> 🤖 O nástroji **[Claude Code](/ai/claude-code/)** společnosti Anthropic je [specializovaná sekce zde](/ai/claude-code/#instalace-a-začátek-práce).
+> 🤖 O nástroji **[[Claude Code](/ai/claude-code/)](/ai/claude-code/)** společnosti Anthropic je [specializovaná sekce zde](/ai/claude-code/#instalace-a-začátek-práce).
 
 Za každý z těchto nástrojů musíte zaplatit, i když je tu nějaký malý demoprovoz možný zdarma. Ale s ním si nástroj opravdu jen osaháte, nenaprogramujete nic. A jednou upozornění: nástroje jsou v prudkém vývoji, takže jejich nabídka funkcí se mění, údaje jsou platné k 10.2.2025. 
 
@@ -69,7 +69,7 @@ Tempu řeknete, jakou aplikaci chcete stavět a společně k ní uděláte PRD -
 
 S Tempolabs jsem strávil hodně času a je to nástroj, který mě nadchnul. Je pravda, že vám příliš předkládá zdrojový kód, zatímco se snaží, abyste měli málo důvodů do něj sahat. Oproti Replitu vám ukáže kód, který doporučuje nahradit a navrhne vám, jak jej nahradit a vy jen stisknete Apply a je hotovo. Zatímco Replit Agent už o kódu příliš nemluví, Tempo se snaží ještě vypadat jako nástroj pro vývojáře. I když bych řekl, že i ono tuhle vizi záhy opustí, protože za měsíc práce s Tempem jsme do zdrojového kódu hrabal jen výjimečně. 
 
-Ceny: platíte za miliony zkonzumovaných [tokenů](/ai/tokeny-versus-slova/). Půl milionu máte zdarma, za 30 dolarů získáte 25 milionů [tokenů](/ai/tokeny-versus-slova/). Při celodenní práci jsem toto množství vyčerpal za týden vývoje, při kterém jsem udělal tři aplikace. Můžete si připlatit za další [tokeny](/ai/tokeny-versus-slova/), za 350 dolarů měsíčně jste bez limitu.
+Ceny: platíte za miliony zkonzumovaných [[tokenů](/ai/tokeny-versus-slova/)](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/). Půl milionu máte zdarma, za 30 dolarů získáte 25 milionů [tokenů](/ai/tokeny-versus-slova/). Při celodenní práci jsem toto množství vyčerpal za týden vývoje, při kterém jsem udělal tři aplikace. Můžete si připlatit za další [tokeny](/ai/tokeny-versus-slova/), za 350 dolarů měsíčně jste bez limitu.
 
 V Tempu jsem naprogramoval [Progressor](https://progressor.work) - trvalo mi to jeden večer to rozchodit, další tři večery jsem to trochu šperkoval. Jen jsem zatím nenapsal, k čemu to je, což je trochu chybička, musím to napravit :) Je to nástroj k zapisování toho, co jste za den udělali. Vždycky, když něco udělám, napíšu si tu jednu větu do Progressoru a pak se kdykoliv mohu podívat, kdy jsem co dělal... 
 
@@ -121,7 +121,7 @@ Cenová politika je také komplikovaná: za 20 dolarů měsíčně získáte 500
 
 [Windsurf AI](https://codeium.com/windsurf) jsem osobně nezkoušel. Má to být variantou na  Cursor AI, jde tedy o samostatný software. Umožňuje spolupráci více lidí a je také zaměřený na kód. Sada funkcí mezi Cursor AI a Windsurf AI se úplně nepřekrývá, můžete si je oba porovnat, jak vám který sedne.  Pozornosti se v poslední době dostává právě především Cursoru a ten se prudce vyvíjí, takže pokud sáhnete po Cursoru, neměli byste sáhnout vedle. 
 
-### Jak dál s [vibe coding](/item/programovani-s-ai/)?
+### Jak dál s [[vibe coding](/item/programovani-s-ai/)](/item/programovani-s-ai/)?
 
 Pro [programování s AI](/item/programovani-s-ai/) se začíná razit pojem [Vibe Coding](/item/programovani-s-ai/) - to jen tak na okraj. Teď je úžasná chvíle, kdy začít. Zkuste si vyvinout malou aplikaci, tím dostanete do rukou nákladovou stránku věci, protože účtování podle [tokenů](/ai/tokeny-versus-slova/) není zrovna snadno pochopitelné. Obecně vzato se vám totiž účtují slova, která se odešlou do umělé inteligence a zase se z ní přijmou. Jenže to by bylo snadné, vaše zadání má pár slov, i ten zdrojový kód není moc dlouhá. Ve skutečnosti se ale posílají neustále tam a zpět nejrůznější související kódy jako zdrojáky, které by měla AI vidět, když hledá chybu, pak taky nejrůznější ladící výstupy atd. Milion [tokenů](/ai/tokeny-versus-slova/) je rychle v čudu. 
 

@@ -9,11 +9,10 @@ layout: post
 post_excerpt: Přepis přednášky profesora stanfordské univerzits Surya Ganguliho věnované
   umělé inteligenci a lidskému mozku.
 summary_points:
-- AI potřebuje biliony slov pro trénink, lidé efektivněji využívají data díky evoluci.
-- Energetická náročnost AI je obrovská, lidský mozek spotřebuje jen 20 wattů.
-- Vysvětlitelná AI pomáhá pochopit fungování mozku, například sítnice a Newtonovy
-  zákony.
-- Spojení mysli a stroje umožňuje číst myšlenky a vyvolávat [halucinace](/halucinace/) ovládáním neuronů.
+- Umělá inteligence se za deset let výrazně změnila.
+- AI má pozoruhodné schopnosti, ale dělá i hrozivé chyby.
+- Pro pochopení AI je nutné ji zasadit do kontextu biologické inteligence.
+- Věda o inteligenci spojuje různé obory k pochopení mozků i AI.
 thumbnail: https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/talks/talk_145110/9b1dbc4f-436c-4833-af8e-64d1e5e96145/SuryaGanguli_2024S-embed.jpg
 title: Surya Ganguli - Může se umělá inteligence vyrovnat lidskému mozku?
 ---
@@ -63,7 +62,7 @@ Pojďme si to trochu přiblížit a zamyslet se obecněji nad tím, co je potře
 
 Ale my děláme mnohem víc. Když například učím svého syna matematiku, učím ho algoritmus potřebný k vyřešení úlohy. Pak dokáže okamžitě řešit nové problémy a zobecňovat s použitím mnohem méně tréninkových dat, než by zvládl jakýkoli systém umělé inteligence. Nepředkládám mu miliony matematických úloh.
 
-Abychom umělou inteligenci skutečně zefektivnili z hlediska dat, musíme jít daleko za hranice našich současných tréninkových algoritmů a přeměnit [strojové učení](/ai/strojove-uceni-machine-learning/) na novou vědu o strojovém učení. A tady nám opravdu může pomoci neurověda, psychologie a matematika.
+Abychom umělou inteligenci skutečně zefektivnili z hlediska dat, musíme jít daleko za hranice našich současných tréninkových algoritmů a přeměnit [[strojové učení](/ai/strojove-uceni-machine-learning/)](/ai/strojove-uceni-machine-learning/) na novou vědu o strojovém učení. A tady nám opravdu může pomoci neurověda, psychologie a matematika.
 
 ### Energetická účinnost: 20wattový mozek vs. umělá inteligence
 

@@ -8,13 +8,10 @@ post_excerpt: Pařížský summit, eurounijní AI a čínské bušení na hradby
   děje hodně a nebývá čas zastavit se nad širším kontextem. V této zprávě si v určité
   stručnosti podíváme na to, co se stalo v AI od konce loňského roku.
 summary_points:
-- OpenAI vede závod v AI, následován xAI, Google (Gemini) a komerčně úspěšným Anthropic
-  (Claude).
-- Zpráva analyzuje pařížský summit, AI strategie EU, pozici Francie, Německa a Číny.
-- Zpráva o AI má 15 stran (30 000 znaků) a je dostupná v PDF a ePub formátu za 100
-  Kč.
-- Zpráva je ke stažení po platbě, která pokrývá náklady na služby a testování LLM
-  modelů.
+- OpenAI vede v oblasti AI.
+- Google s modelem Gemini dohání náskok.
+- Zpráva se zaměří na evropskou a čínskou AI strategii.
+- Zpráva o AI je placená a ke stažení v PDF a ePub.
 thumbnail: https://www.marigold.cz/assets/macron-altman.jpg
 title: Zpráva o stavu AI pro jaro 2025
 ---

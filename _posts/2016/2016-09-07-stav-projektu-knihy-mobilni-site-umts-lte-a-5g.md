@@ -24,7 +24,7 @@ title: Stav projektu knihy Mobilní sítě UMTS, LTE a 5G
 
 <p>Stejně tak jsem hodně reflektoval současný vývoj a značně zredukoval informace o technologiích, které se neuchytily (většinou je jen namátkově zmiňuju) - to zase kvůli rozsahu. O takovém MBMS vyšly knihy a našel jsem asi tak dva operátory, kteří to mají komerčně v síti. Asi ani nevíte, o co jde, něco jako mobilní televize (broadcast) - jenže dneska vládne stahování videí on demand, že ano. </p>
 
-<p>V oblasti [LTE-Advanced](/mobilnisite/3gpp-release-10/) a 5G už je kniha spíše o konceptech, protože tyhle věci nejsou ještě vždy schválené. </p>
+<p>V oblasti [[LTE-Advanced](/mobilnisite/3gpp-release-10/)](/mobilnisite/3gpp-release-10/) a 5G už je kniha spíše o konceptech, protože tyhle věci nejsou ještě vždy schválené. </p>
 
 <p>Značnou část knihy také zabírá telekomunikační politika a historie. Toho si jsme dnes málo vědomi, jak standardy vznikají a jaké zákulisní přetahovánky se tam realizují. Myslím, že je dobré se na to podívat a mít o tom povšechnou představu. </p>
 

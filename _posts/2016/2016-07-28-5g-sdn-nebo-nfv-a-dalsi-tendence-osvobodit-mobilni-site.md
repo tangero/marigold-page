@@ -38,7 +38,7 @@ title: 5G -  SDN nebo NFV a další tendence osvobodit mobilní sítě
 </ul>
 <p>Pojmy vypadají zaměnitelně, ale nejsou - jsou spíše komplementární.</p>
 
-<p><strong>SDN</strong> obnáší oddělení "řídící části" od samotné “výkonové” části sítě. Pod pojmem výkonová část sítě si představte optické koncentrátory, antény, vysílače a další propojovací technologii, zatímco samotné zpracování těchto signálů se vyčleňuje jako prvek SDN. Povýšení takové sítě či změna “technologie” v ní nabízené se tedy může udát “pouhým” upgrade software v té síti, díky čemuž síť nabídne nové funkce. Nedá se tedy říci, že by se SDN týkala jen někdejšího Core Network (či spíše [EPC](/mobilnisite/epc-evolved-packet-core-lte/) v 4G) nebo naopak RAN/E-UTRAN, týká se čehokoliv, co takto může být vyjmuto a převedeno do software.</p>
+<p><strong>SDN</strong> obnáší oddělení "řídící části" od samotné “výkonové” části sítě. Pod pojmem výkonová část sítě si představte optické koncentrátory, antény, vysílače a další propojovací technologii, zatímco samotné zpracování těchto signálů se vyčleňuje jako prvek SDN. Povýšení takové sítě či změna “technologie” v ní nabízené se tedy může udát “pouhým” upgrade software v té síti, díky čemuž síť nabídne nové funkce. Nedá se tedy říci, že by se SDN týkala jen někdejšího Core Network (či spíše [[EPC](/mobilnisite/epc-evolved-packet-core-lte/)](/mobilnisite/epc-evolved-packet-core-lte/) v 4G) nebo naopak RAN/E-UTRAN, týká se čehokoliv, co takto může být vyjmuto a převedeno do software.</p>
 
 <p><img title="/obrazek/fnc-sdn1.PNG" src="/obrazek/fnc-sdn1.png" alt="schéma" width="600" height="267" border="0" /></p>
 

@@ -66,7 +66,7 @@ graph TD
 ```
 
 
-Podle Hoeflera jsou nejslibnějšími kandidáty na dosažení zrychlení pomocí kvantových počítačů "problémy s malými daty", například v chemii a materiálových vědách. Článek však také dochází k závěru, že velká řada uvažovaných potenciálních aplikací, jako je [strojové učení](/ai/strojove-uceni-machine-learning/), "nedosáhne v dohledné době kvantové výhody se současnými kvantovými algoritmy", a identifikoval vstupně-výstupní omezení, která činí zrychlení nepravděpodobným například pro tak zajímavé a atraktivní problémy s velkými daty.
+Podle Hoeflera jsou nejslibnějšími kandidáty na dosažení zrychlení pomocí kvantových počítačů "problémy s malými daty", například v chemii a materiálových vědách. Článek však také dochází k závěru, že velká řada uvažovaných potenciálních aplikací, jako je [[strojové učení](/ai/strojove-uceni-machine-learning/)](/ai/strojove-uceni-machine-learning/), "nedosáhne v dohledné době kvantové výhody se současnými kvantovými algoritmy", a identifikoval vstupně-výstupní omezení, která činí zrychlení nepravděpodobným například pro tak zajímavé a atraktivní problémy s velkými daty.
 
 Jsou tu i strukturálně-existenční výhrady. Paul Davies tvrdí, že 400-qubitový počítač by se dostal do rozporu s kosmologickou informační mezí, kterou předpokládá holografický princip. Podle něj pozorovatelný vesmír představuje konečnou kauzální oblast s omezenými materiálními a informačními zdroji a takový kvantový počítač by je přesáhl s neznámými následky, nebo naopak přesáhnout nemohl - a tím by nepřekonal hranici nutnou ke kvantové nadřazenosti.
 

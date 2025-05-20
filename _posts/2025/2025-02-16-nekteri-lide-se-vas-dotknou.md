@@ -9,12 +9,10 @@ post_excerpt: Někteří lidé se vás dotknou, i když je potkáte na krátko. 
   Boříkův strejda, říkal o sobě, že je SAPér, ale s výbušninama neuměl, takže asi
   kecal. Ale byl to přesně ten případ.
 summary_points:
-- Josef, Boříkův strejda, byl najat pro zkušenosti s prodejem softwaru velkým firmám.
-- Josefova "štábní kultura" prodeje zahrnovala obsáhlou dokumentaci, jako nabídky
-  a smlouvy.
-- Josef zachránil prezentaci obsáhlým "implementačním plánem", i když realita byla
-  jednodušší.
-- Josefův půlrok ve firmě výrazně posunul autorovy prodejní dovednosti a chápání procesů.
+- Josef pomohl firmě prodávat software velkým vydavatelstvím.
+- Josef učil autora textu prodejní "štábní kulturu".
+- Josef použil mnoho dokumentů pro úspěšný prodej.
+- Josefova metoda prodeje byla nakonec jednoduchá.
 thumbnail: https://www.marigold.cz/assets/lide-na-kopci.png
 title: Někteří lidé se vás dotknou, i když je potkáte na krátko
 ---

@@ -159,7 +159,7 @@ Teď byste si měli studie důkladně pročíst, tak za týden s tím budete hot
 
 > Udělej mi shrnutí a vypiš závěry z dokumentu Den_danske_kommunal-_og_strukturreform_2007_Rigsar.pdf
 
-Nyní si můžete projít shrnutí i závěry jednotlivých dokumentů a zeptat se na to, co vám není jasné. Dejte si ale velký pozor na [halucinace](/ai/halucinace-ai/) AI, je dobré se přeptat, zda vám AI odpovídá podle zadaných dokumentů, nebo si odpověď domýšlí z jiných kontextů. Někdy vám totiž dá třeba i správnou odpověď, která ale v dokumentu není obsažena. 
+Nyní si můžete projít shrnutí i závěry jednotlivých dokumentů a zeptat se na to, co vám není jasné. Dejte si ale velký pozor na [[halucinace](/ai/halucinace-ai/)](/ai/halucinace-ai/) AI, je dobré se přeptat, zda vám AI odpovídá podle zadaných dokumentů, nebo si odpověď domýšlí z jiných kontextů. Někdy vám totiž dá třeba i správnou odpověď, která ale v dokumentu není obsažena. 
 
 Takovýmto způsobem můžete za desítky minut projít celou řadu studií a zjistíte, že klíčová zásada, pro kterou se navrhuje česká reforma počtu obcí, tedy úspora, není ve studiích vůbec prokázána. To je zajímavý závěr, je dobré si jej nechat trochu rozvést, takže promptujme:
 

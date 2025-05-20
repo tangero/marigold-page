@@ -14,10 +14,12 @@ post_excerpt: Pokračujeme v zamyšlení nad tím, jak AI promění náš svět 
   Tentokráte se podíváme na regulaci, spolehlivost AI, geopolitiku a možný návrat
   autentických blogů. Takže dnes méně technologií, více politiky a ekonomiky.
 summary_points:
-- EU regulace AI inspiruje svět, ale firmy se obávají nejasností a postihů.
-- Spolehlivost AI bude problém, očekávají se první incidenty s podvodným chováním.
-- USA a Čína soupeří o prvenství v AI, možný vznik státního AGI projektu.
-- Autentické blogy se mohou vrátit jako reakce na AI generovaný obsah na sítích.
+- EU bude inspirovat regulaci AI pro ochranu spotřebitele.
+- USA zůstanou v regulaci AI roztříštěné a váhavé.
+- Čína se inspiruje regulací EU, ale bez etiky zneužití.
+- Spolehlivost AI a halucinace zůstanou problémem.
+- Geopolitická rivalita USA a Číny ovlivní vývoj AI.
+- AI může vést k návratu autentických blogů.
 thumbnail: https://www.marigold.cz/assets/ai-vsude-2025.png
 title: AI v roce 2025 -  Regulace, spolehlivost, geopolitika a autentické blogy
 ---
@@ -34,7 +36,7 @@ Osobně bych řekl, že regulatorní prostředí v USA potáhne demokratický gu
 
 Ve skutečnosti bych byl za to, aby se regulace EU pro AI poněkud proškrtala či některé části přeřadily do přechodného zjišťovacího období. Zásadní problém EU regulace totiž není v samotné regulaci, ta vyžaduje vcelku logické věci. Ale firmy se obávají nekonzistentního a nepředvídatelného regulačního rozhodování v rámci EU. Vznikají tak nejasnosti ohledně praktického uplatňování nových pravidel a firmy se obávají velkých pokut, proto mohou nasazení svých AI služeb v EU odkládat. Je nyní na EU, aby vyjasnila, jak se k regulaci a především postihům bude stavět.
 
-### 💥 [Halucinace](/ai/halucinace-ai/), spolehlivost AI a první velké průšvihy
+### 💥 [Halucinace](/ai/[halucinace](/ai/halucinace-ai/)-ai/), spolehlivost AI a první velké průšvihy
 
 Bude to velké téma, které příští rok narazí na pořádný malér: spolehlivost AI. Zatím jsou to spíš anekdotické historky o tom, jak AI podpora zákazníkovi prodala něco, co bylo dražší či si vymyslela do obhajoby neexistující paragraf. Ale to není ten pořádný malér. Tím se teprve stane, až AI odpojí část energetické soustavy, udělá fakt velkou objednávku akcií či je naopak za babku prodá a velký hedgeový fond půjde plaite. To se ještě asi letošní rok nestane.
 

@@ -36,7 +36,7 @@ Release 17 je plánována na začátek roku 2022. Má přinést hlavně změny v
 
 V rádiu ještě zmíním plány na použití spektra nad 52 GHz, zejména vizi použití bezlicenčního pásma 60 GHz. To přinese zajímavé nové možnosti a kapacity.
 
-Zvláště bych se zastavil u konceptu  **NR [NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/)**  neboli nového rádia neterestrické sítě. Myšlenka je, nahradit připojení základnových stanic nebo dokonce samotných mobilních terminálů už ve standardu satelitním či balonovým/dronovým připojením. Tedy signálem šířeným ze satelitů, balonů, dronů či jiných létajících zařízení. Zajímavá myšlenka, uvidíme, jak se chytne. Požadavky na ni byly zejména s ohledem na projekty Facebooku a Elona Muska.
+Zvláště bych se zastavil u konceptu  **NR [[NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/)](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/)**  neboli nového rádia neterestrické sítě. Myšlenka je, nahradit připojení základnových stanic nebo dokonce samotných mobilních terminálů už ve standardu satelitním či balonovým/dronovým připojením. Tedy signálem šířeným ze satelitů, balonů, dronů či jiných létajících zařízení. Zajímavá myšlenka, uvidíme, jak se chytne. Požadavky na ni byly zejména s ohledem na projekty Facebooku a Elona Muska.
 
 ![Vlastnosti jednotlivých druhů Ne-pozemních sítí](/assets/nepozemni-site.png)
 

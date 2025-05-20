@@ -10,16 +10,15 @@ post_excerpt: Vibe coding, programování s AI, funguje lépe, když mu návrh p
   služby přizpůsobíte. Má své architektonické zvláštnosti. Co udělat při návrhu jinak
   a jak postupovat, abyste se s programováním s AI dostali k lepšímu výsledku?
 summary_points:
-- Vibe coding využívá AI pro rychlý vývoj MVP, ale vyžaduje systémovou jednoduchost.
-- Klíčem je rozdělení na frontend v no-code nástrojích, minimalistická API a automatizační
-  framework pro logiku.
-- Omezení počtu souborů a řádků kódu snižuje chyby a náklady na AI kontext.
-- Automatizační framework zlepšuje přehlednost a údržbu business logiky.
+- Vibe coding s AI vyžaduje rozdělení na frontend API a logiku.
+- Frontend se tvoří no-code nástroji pro UI/UX.
+- Backend API je minimalistické pro data a zpracování.
+- Business logika se implementuje v automatizačním frameworku.
 thumbnail: https://www.marigold.cz/assets/vibecoding.jpg
 title: Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu
 ---
 
-Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže [vibe coding](/vibe-coding/), jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě \- a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”. 
+Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže [[vibe coding](/item/programovani-s-ai/)](/vibe-coding/), jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě \- a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”. 
 
 Pojdme si spolu projít zásady, které se mi za posledních pár pokusů vydestilovaly jako základ úspěchu a rychlého posunu s vibe codingem: 
 

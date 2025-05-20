@@ -9,10 +9,10 @@ post_excerpt: OpenAI představuje dva nové modely, přičemž o3 má být to ne
   a nejlepší, co momentálně je. Pojďme se jim podívat na zoubek, jestli zastanou vaši
   práci?
 summary_points:
-- OpenAI vydalo nové modely o3 a o4-mini 16. dubna 2025.
-- Model o3 nabízí plnou agentní integraci nástrojů v jednom pracovním toku.
-- O4-mini je optimalizován pro rychlost a nižší náklady než o3.
-- Modely jsou dostupné pro ChatGPT Plus, Pro a Team uživatele.
+- OpenAI vydalo nové modely o3 a o4-mini.
+- Modely o3 a o4-mini jsou "reasoning models".
+- Nové modely integrují nástroje jako vyhledávání a kódování.
+- o3 je výkonnější, o4-mini optimalizovaný pro efektivitu.
 thumbnail: https://www.marigold.cz/assets/souboj-llm.jpg
 title: OpenAI vydala svůj nejsilnější model pro ChatGPT o3 a rychlý o4-mini
 ---
@@ -36,7 +36,7 @@ Zajímavou funkcí obou modelů je integrace nahraných obrázků přímo do pro
 S AI to začíná být jako s lidmi. Na internetu pořád kolují vtípky, jak se modely vypořádávají se spočítáním počtu r ve slově strawberries - s tím se modely vypořádávají různě. Jenže to není pointa. Pointa začíná být v tom, jaké výsledky dávají se složitějšími problémy a jak autonomně se k těm výsledků zvládají dostat, tedy zda zvládají nějaký režim uvažování, v němž si úlohu rozloží na menší, snáze realizovatelné úkoly, místo toho, aby halucinovaly se statistikou. 
 o3 má být state of art model, to nejlepší z nejlepšího, nejrůznější výsledky to naznačují, já jsem si s ním proběhl svoji standardní sadu testů na českojazyčné úkoly, které používám já, většinou manipulace s rozsáhlými korpusy textů (náročné na kontext) či na uvažování, ale také jednoduché třídění a vyhledávání typu "vypiš z dokumentu všechna jména lidí a produktů". o3 vychází suverénně jako nejlepší ze všech modelů, na druhou stranu ne vždy je cenově nejvýhodnější, na některé typy úloh (právě třeba vyhledání jmen osob) je to kanón na vrabce a za to si připlatíte. Pokud tedy používáte modely přes API, trochu uvažujte nad cenou, pokud používáte modely přes webové rozhraní (kde neplatíte za dotaz), tak není o čem přemýšlet, prostě to sázejte do o3, leda by vás limitovala rychlost. 
 
-Pozor musíte dávat jen **na délku kontextu**, model GPT-4.1 představený před pár dny má kontext 1 milion tokenů, o3 je na 200 tisících tokenech. Je však třeba připustit, že jakmile se nástroje dostávají přes hranici 200 000 tokenů, začíná jít jejich kvalita výrazně dolů, takže užití většího kontextu je spíše hraniční případ, kterému navrhuji se zatím zkoušet vyhýbat. Příklad LLAMA 4 s desetimilionovým kontextem to ukazuje jasně.  
+Pozor musíte dávat jen **na délku kontextu**, model GPT-4.1 představený před pár dny má kontext 1 milion [tokenů](/ai/tokeny-versus-slova/), o3 je na 200 tisících tokenech. Je však třeba připustit, že jakmile se nástroje dostávají přes hranici 200 000 tokenů, začíná jít jejich kvalita výrazně dolů, takže užití většího kontextu je spíše hraniční případ, kterému navrhuji se zatím zkoušet vyhýbat. Příklad LLAMA 4 s desetimilionovým kontextem to ukazuje jasně.  
 
 Testů se vyrojila celá řada, já vám dám můj oblíbený norský IQ test, ze kterého plyne, že v takovém tom obecném uvažování je o3 fakt špička. Za mě více důležité bude, jak se podaří OpenAI propojovat svůj systém na další systémy, protože kritická začíná být ani ne tak inteligence (IQ 130 nemá jen tak někdo), ale schopnost dostat se snadno k datům, aby je člověk pořád nepřehazoval jako copy-paste, což je při práci s AI to nejvíce frustrující. To si uvědomujete, že vy tam jste za toho podržtašku. 
 

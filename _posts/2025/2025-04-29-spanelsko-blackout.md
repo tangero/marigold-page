@@ -1,26 +1,19 @@
 ---
 audio_url: null
 author: Patrick Zandl
-date: 13.5.2025
 categories:
 - Energie
 - Energetika
 - Green Deal
+date: 13.5.2025
 layout: post
 post_excerpt: Ve Španělsku a Portugalsku proběhl blackout energetické sítě. Všechno
-  stálo. Co se stalo? Den za dnem aktualizuji informace. 
+  stálo. Co se stalo? Den za dnem aktualizuji informace.
 summary_points:
-- Pyrenejský poloostrov se oddělil od kontinentální sítě kvůli kaskádovému odpojení linek.
-- Frekvence v izolované síti klesla pod 49 Hz, což vedlo k blackoutu Španělska a Portugalska.
-- Zbytek Evropy zaznamenal pokles frekvence jen o 0,15 Hz díky rychlé regulaci.
-- Provozovatelé sítí vyšetřují příčiny, zatím bez důkazů o kybernetickém útoku.
-- Vysoký podíl solární a větrné energie urychlil pád frekvence po izolaci sítě.
-- Obnova dodávek probíhá postupně, hlavní uzly jsou již pod napětím.
-- Francie a Německo nabídly pomoc s mobilními bateriemi a plynovými turbínami.
-- Konspirační teorie o ruském útoku nebo Green Dealu nejsou potvrzeny.
-- Nízká setrvačnost sítě zhoršila dopad náhlé ztráty 10–15 GW výkonu.
-- Doprava a telekomunikace byly výrazně narušeny, evakuováno 35 000 cestujících.
-- Ceny elektřiny se stabilizovaly, problém byl v přenosu, ne v nedostatku výroby.
+- ENTSO-E vydalo předběžnou zprávu o blackoutu.
+- Kmitání v síti začalo před polednem a přetrvávalo.
+- V 12:32:57 vypadlo 2,2 GW fotovoltaiky v Extramaduře.
+- Primární příčinou bylo překročení napěťových a impedance limitů.
 thumbnail: https://www.marigold.cz/assets/putin-jistic.jpg
 title: ⚡️ Vyšetřování blackoutu ve Španělsku a Portugalsku den za dnem (update 13.5.)
 ---
@@ -251,4 +244,3 @@ Takže ve stručnosti:
 Taková událost názorně ukazuje, jak citlivá je moderní síť: i malá odchylka frekvence na kontinentu může signalizovat dramatické dění v jedné jeho části, a proč je klíčové mít dostatek rychlých regulačních zdrojů a chytré ochrany.
 
 PS: je to samozřejmě můj neodborný názor založený na tom co k tomu vyšlo
-

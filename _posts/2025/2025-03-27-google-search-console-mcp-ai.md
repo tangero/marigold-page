@@ -9,15 +9,15 @@ post_excerpt: Jak lépe zpracovávat podklady, které generuje Google Search Con
   a jak jim lépe rozumět pomocí AI? Integrovat Search Consoli pomocí Model Communication
   Protocol.
 summary_points:
-- MCP propojuje AI asistenty s externími nástroji, například Google Search Console.
-- Integrace GSC a MCP automatizuje SEO analýzu a reporting webových stránek.
-- Implementace vyžaduje Google Cloud projekt, aktivované GSC API a MCP server.
-- Konektor umožňuje vlastní časové rozsahy, filtry a agregaci dat z GSC.
+- MCP propojuje AI asistenty s externími službami.
+- Google Search Console je nástroj pro SEO analýzu webů.
+- Integrace GSC a MCP umožňuje automatizaci SEO dat.
+- Průvodce ukazuje implementaci pomocí GitHub řešení.
 thumbnail: https://www.m3estrategia.com/wp-content/uploads/2020/03/google-search-console-m3.jpg
 title: Propojení Google Search Console s MCP - Komplexní průvodce
 ---
 
-Model Communication Protocol ([MCP](/ai/mcp/)) představuje inovativní způsob, jak propojit AI asistenty s externími službami a nástroji. Google Search Console (GSC) je neocenitelný nástroj pro SEO analýzu a monitoring webových stránek. Propojení těchto dvou technologií otevírá vývojářům a SEO specialistům nové možnosti automatizace a efektivní práce s daty o výkonu webových stránek.
+Model Communication Protocol ([[MCP](/ai/mcp/)](/ai/mcp/)) představuje inovativní způsob, jak propojit AI asistenty s externími službami a nástroji. Google Search Console (GSC) je neocenitelný nástroj pro SEO analýzu a monitoring webových stránek. Propojení těchto dvou technologií otevírá vývojářům a SEO specialistům nové možnosti automatizace a efektivní práce s daty o výkonu webových stránek.
 
 Tento průvodce vám ukáže, jak implementovat integraci mezi Google Search Console a [MCP](/ai/mcp/) pomocí otevřeného řešení dostupného na [GitHubu od AminForou](https://github.com/AminForou/mcp-gsc). Díky této integraci budete moci:
 
@@ -102,7 +102,7 @@ npm start
 3. Přihlaste se ke Google účtu a udělte přístup k Search Console API
 4. Po úspěšné autorizaci budete přesměrováni zpět na lokální server
 5. V konzoli by se mělo zobrazit potvrzení úspěšné autorizace
-6. Autorizační [token](/ai/tokeny-versus-slova/) bude automaticky uložen pro budoucí použití
+6. Autorizační [[token](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/)](/ai/tokeny-versus-slova/) bude automaticky uložen pro budoucí použití
 
 ## 5. Propojení s MCP serverem (Zapier)
 

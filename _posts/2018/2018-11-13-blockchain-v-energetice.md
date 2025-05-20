@@ -34,7 +34,7 @@ Workflow může být zhruba toto:
 
 1.  v aplikaci se podíváte, jakou elektřinu a na jak dlouho si můžete objednat. Aplikace čte nabídky z blockchainu, přičemž právě finanční náklady na zařazení do blockchainu docela brání tomu, aby se ospamovával nesmyslnými nabídkami.
 2.  Sami uvážíte, na jak dlouho dopředu si chcete elektřinu koupit a za kolik. Zda na zítra, na týden nebo na měsíc atd. A vyberete si správné nabídky.
-3.  Transakce se propíše do blockchainu a ověří, čímž máte vy nakoupeno a dodavatel dostává [token](/ai/tokeny-versus-slova/) pevně svázaný s eurem (čili neřeší kurzovou ztrátu).
+3.  Transakce se propíše do blockchainu a ověří, čímž máte vy nakoupeno a dodavatel dostává [[token](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/)](/ai/tokeny-versus-slova/) pevně svázaný s eurem (čili neřeší kurzovou ztrátu).
 
 **Problémů je pár,**  především moment, kdy si zapomenete elektřinu objednat. Většina systémů to řeší tak, že spadnete do základní dodávky za nějakou přednastavenou cenu.
 

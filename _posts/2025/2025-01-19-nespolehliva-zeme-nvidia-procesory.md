@@ -13,11 +13,10 @@ post_excerpt: Americká administrativa nás nově zařadila mezi nespolehlivé s
   pašováním přes české firmy do nepřátelských států a přes četné varování nechala
   firmám volnou ruku...
 summary_points:
-- USA zařadily Česko mezi nespolehlivé státy kvůli pašování AI procesorů do nepřátelských
-  zemí.
-- České firmy dostanou omezené množství výkonných AI čipů kvůli laxnímu přístupu vlády.
-- Česko nemá špičkový AI výzkum ani vládní strategii pro rozvoj umělé inteligence.
-- Nedostatek odborníků a financí brání rozvoji AI v Česku.
+- Česko je USA klasifikováno jako nespolehlivé pro dodávky AI procesorů.
+- Česko dostane jen omezené množství výkonných AI procesorů.
+- Důvodem je neschopnost vlády zabránit pašování procesorů do nepřátelských států.
+- Česko nemá vládní strategii pro AI a výzkum je podfinancovaný.
 thumbnail: https://www.marigold.cz/assets/fiala-ai-nvidia.png
 title: Moderní AI procesory v Česku nebudou. Proč nás USA označily za nespolehlivé?
 ---
@@ -41,7 +40,7 @@ USA reagovaly tak, jak musely. Země, které nespolupracují na tom, aby se špi
 
 Seznam Zprávy k situaci [vydaly rozhovor s Jiřím Házem z  Českého národního polovodičového klastru](https://www.seznamzpravy.cz/clanek/ekonomika-omezeni-vyvozu-cipu-z-usa-nedava-smysl-rika-cesky-cipovy-vedec-268169). Rozhovor je pro mne těžko dešifrovatelný. Že situaci nevysvětlí [provládně nakolejené Seznam Zprávy](https://www.marigold.cz/item/ivo-lukacovic-ovlivnuje-seznam-zpravy/), je pochopitelné. Ale Jiří Háze je  člověk s výborným přehledem, takže si musí být vědom toho, že většina informací, které ve článku říká, zkrátka neodpovídají realitě. Česko dnes špičkové AI čipy prakticky nepoužívá. Výjimkou je Seznam a pár akademických pracovišť, kde ale zpravidla mají ty levnější a neembargované verze. Špičkovými čipy se nemyslí Nvidia Jetson, ale embargem dotčené H100 nebo A100, těch je v Česku pár a klidně bych se vsadil, že patřím se svou serverovou sestavou mezi největší provozovatele. 
 
-Držet si přehled je snadné. V Česku mimo jiné ani neseženete lidi, kteří mají zkušenosti s těmito systémy, který umí řešit jejich správu a umí rutinně používat ekosystém [CUDA](https://cs.wikipedia.org/wiki/CUDA) používaný pro práci s AI a těch pár lidí, co tomu rozumí se zná a dělá prakticky pro každého v oboru. To opět odpovídá tomu, jak málo je AI v Česku běžná technologie z pohledu vývojáře. Pokud jste firma, která má dnes potřebu zajistit si kapacitu na trénink či fine-tuning svých služeb, jste v podstatě odkázáni na  nákup strojového výkonu v zahraničí. 
+Držet si přehled je snadné. V Česku mimo jiné ani neseženete lidi, kteří mají zkušenosti s těmito systémy, který umí řešit jejich správu a umí rutinně používat ekosystém [[CUDA](https://cs.wikipedia.org/wiki/CUDA)](https://cs.wikipedia.org/wiki/CUDA) používaný pro práci s AI a těch pár lidí, co tomu rozumí se zná a dělá prakticky pro každého v oboru. To opět odpovídá tomu, jak málo je AI v Česku běžná technologie z pohledu vývojáře. Pokud jste firma, která má dnes potřebu zajistit si kapacitu na trénink či fine-tuning svých služeb, jste v podstatě odkázáni na  nákup strojového výkonu v zahraničí. 
 
 Česko v současné době nemá žádný špičkový AI výzkum, o kterém mluví Háze. Meteorologický model ČHMU, o kterém je řeč, utáhne „pár GPU“, které navíc ČHMU již má. Další rozvoj? Jaký? Používání meteorologického nástroje Google? Ten poběží v Google cloudu...
 
@@ -49,7 +48,7 @@ Držet si přehled je snadné. V Česku mimo jiné ani neseženete lidi, kteří
 
 Neexistuje žádná vládní strategie ani žádná „vládní poptávka“. Zatímco v USA či v Číně se velmi jasně v jednotlivých kruzích říká, co se od AI očekává a jednotlivé instituce se podle toho chovají, v Česku máme na ČVUT Český institut informatiky, robotiky a kybernetiky (CIIRC), ale pokud si chcete udělat představu o tom, kde je český akademický a polo-komerční AI výzkum, projděte si [nositele loňské AI Awards](https://www.ciirc.cvut.cz/cs/ai-award-za-vyzkum-a-vyvoj-pro-josefa-sivice/). Tohle má být to top, co u nás existuje? Že ale žádná vládní strategie pro AI není, není zase tak podstatný problém: máme například strategii pro digitalizaci, ale vlastně všichni se smířili s tím, že ji neplníme a to, co plníme, jsou jen takové ty formální body, které by se staly tak jako tak... 
 
-Děsivý je příběh Tomáše Mikolova, autora [Word2vec](/ai/word2vec/) a nejcitovanějšího českého odborníka na AI ve vědeckých pracích. Člověk jeho renomé pět let pobíhá po Česku a shání financování týmu při CIIRC: „Když jsem se v roce 2019 vracel do Česka, tak se tu hodně mluvilo o tom, jak je AI priorita, jak musíme dohnat svět. Teď je rok 2025, a stále to jsou jen ty stejné kecy, nic moc se nezměnilo. Peníze do výzkumu se investují naprosto nesmyslně nebo končí kdovíkde,“ říká v rozhovoru pro Wired. Jestli jste dneska ještě neměli depku, [rozhovor si přečtěte](https://www.wired.cz/clanky/k-lepsi-vede-v-cesku-by-mohly-pomoci-i-pohadky-svejkovani-tu-nevydrzi-vecne), garantuju vám ji. 
+Děsivý je příběh Tomáše Mikolova, autora [[Word2vec](/ai/word2vec/)](/ai/word2vec/) a nejcitovanějšího českého odborníka na AI ve vědeckých pracích. Člověk jeho renomé pět let pobíhá po Česku a shání financování týmu při CIIRC: „Když jsem se v roce 2019 vracel do Česka, tak se tu hodně mluvilo o tom, jak je AI priorita, jak musíme dohnat svět. Teď je rok 2025, a stále to jsou jen ty stejné kecy, nic moc se nezměnilo. Peníze do výzkumu se investují naprosto nesmyslně nebo končí kdovíkde,“ říká v rozhovoru pro Wired. Jestli jste dneska ještě neměli depku, [rozhovor si přečtěte](https://www.wired.cz/clanky/k-lepsi-vede-v-cesku-by-mohly-pomoci-i-pohadky-svejkovani-tu-nevydrzi-vecne), garantuju vám ji. 
  
 Je třeba říct si to na rovinu: AI v Česku nemá zatím žádnou perspektivu. Jakýkoliv základní výzkum tu táhnou nadšenci, jenže doba, kdy stačilo nadšení, je dávno pryč. Teď už jsou potřeba i tvrdé peníze. Jenže ty se v Česku ztrácí na nesmyslných projektech, které na sebe nenavazují, nemají žádné napojení na sebe a už vůbec ne výhled na aplikaci do praxe. Akademický výzkum AI z největší části slouží k tomu, aby se na pracovištích udržel status quo, aby podfinancování vysokoškolští pracovníci dostali aspoň nějaké peníze a vykázala se činnost. S výsledky se příliš nepočítá. Pokud bychom ho celý škrtli, nestalo by se prakticky nic zásadního pro výzkum jako takový. 
 

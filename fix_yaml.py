@@ -1,19 +1,45 @@
 #!/usr/bin/env python3
 import os
 import sys
+from datetime import datetime
+import re
 from pathlib import Path
 from generate_local_summaries import MarkdownValidator
 import argparse
+# Utility to extract date from filename
+def get_post_date_from_filename(filename):
+    match = re.match(r'^(\d{4}-\d{2}-\d{2})', filename)
+    if match:
+        try:
+            return datetime.strptime(match.group(1), '%Y-%m-%d')
+        except ValueError:
+            return None
+    return None
 
 def fix_files_in_directory(directory_path, dry_run=True):
     """Validate and optionally fix YAML front matter issues in Markdown files in the specified directory."""
     # Create validator instance
     validator = MarkdownValidator(fix_issues=not dry_run)
     
-    # Find all Markdown files
+    # Determine cutoff_date from environment (if any)
+    cutoff_str = os.getenv("CUTOFF_DATE")
+    cutoff_date = None
+    if cutoff_str:
+        try:
+            cutoff_date = datetime.strptime(cutoff_str, "%Y-%m-%d")
+        except ValueError:
+            print(f"Warning: ignored invalid CUTOFF_DATE: {cutoff_str}")
+
+    # Find Markdown files newer than cutoff_date
     directory = Path(directory_path)
-    md_files = list(directory.glob('**/*.md'))
-    print(f"Found {len(md_files)} Markdown files in {directory}")
+    md_files = []
+    for file_path in directory.glob("**/*.md"):
+        if cutoff_date:
+            date = get_post_date_from_filename(file_path.name)
+            if not date or date <= cutoff_date:
+                continue
+        md_files.append(file_path)
+    print(f"Found {len(md_files)} Markdown files in {directory} matching cutoff_date > {cutoff_str}")
     
     # Statistics
     stats = {

@@ -11,10 +11,10 @@ layout: post
 post_excerpt: OpenAI kupuje za 3 miliardy dolarů společnost Windsurf, který se zabývá
   vývojem prostředí pro AI kódování. Proč?
 summary_points:
-- OpenAI kupuje Windsurf za 3 miliardy dolarů pro posílení AI kodovacích nástrojů.
-- Windsurf nabízí unikátní technologii jako Cascade Flow pro integraci do IDE.
-- Akvizice poskytne OpenAI přístup k reálným vývojářským datům a uzavřenému ekosystému.
-- Trh reaguje obavami z dopadu na konkurenci a efektivitu investice.
+- OpenAI kupuje Windsurf za 3 miliardy dolarů.
+- Akvizice posiluje pozici OpenAI na trhu AI kódovacích nástrojů.
+- Windsurf má unikátní technologii pro integraci do vývojářských nástrojů.
+- Akvizice umožní OpenAI získat cenná data z vývoje.
 thumbnail: https://www.marigold.cz/assets/windsurf-thumb.png
 title: OpenAI kupuje Windsurf a  posiluje v programátorských nástrojích
 ---
@@ -32,7 +32,7 @@ OpenAI kupuje za 3 miliardy dolarů společnost [Windsurf](https://windsurf.com)
 
 ![Windsurf IDE](/assets/windsurf-ide.webp)
 
-Sám musím říct, že Windsurf je jedním z mála AI kodovacích nástrojů, které jsem prakticky víc nevyzkoušel. IDE vychází z VS Code rozložení, na což jsou programátoři zvyklí, není to vysloveně vibe coding technologie.  
+Sám musím říct, že Windsurf je jedním z mála AI kodovacích nástrojů, které jsem prakticky víc nevyzkoušel. IDE vychází z VS Code rozložení, na což jsou programátoři zvyklí, není to vysloveně [vibe coding](/item/programovani-s-ai/) technologie.  
 
 Můj osobní odhad je, že OpenAI šlo právě po těch reálných datech z vývoje a propojení k feedbacku od skutečných programátorů. Což je ve Windsurfu uděláno moc hezky. 
 
@@ -46,7 +46,7 @@ Reakce uživatelské a vývojářské komunity
 
 ### Windsurf Wave 8: Významná aktualizace pro vývojáře
 
-Windsurf akvizici oslavil tím, že vydal "Osmou vlnu" - osmou hlavní verzi. Windsurf Wave 8 přináší řadu vylepšení zaměřených především na JetBrains plugin a uživatelské rozhraní. Do JetBrains pluginu byly konečně přidány dlouho očekávané funkce z editoru Windsurf, včetně Cascade Memories pro ukládání důležitých informací mezi konverzacemi, původní implementace Rules přes soubor .windsurfrules pro řízení AI, a podpora MCP (Model Context Protocol) pro připojení k lokálním serverům s arbitrárními datovými zdroji. Tyto funkce výrazně rozšiřují možnosti Cascade v prostředí JetBrains.
+Windsurf akvizici oslavil tím, že vydal "Osmou vlnu" - osmou hlavní verzi. Windsurf Wave 8 přináší řadu vylepšení zaměřených především na JetBrains plugin a uživatelské rozhraní. Do JetBrains pluginu byly konečně přidány dlouho očekávané funkce z editoru Windsurf, včetně Cascade Memories pro ukládání důležitých informací mezi konverzacemi, původní implementace Rules přes soubor .windsurfrules pro řízení AI, a podpora [MCP](/ai/mcp/) ([Model Context Protocol](/ai/mcp/)) pro připojení k lokálním serverům s arbitrárními datovými zdroji. Tyto funkce výrazně rozšiřují možnosti Cascade v prostředí JetBrains.
 
 Na straně UX došlo také k několika důležitým vylepšením. Přibylo nové tlačítko "Continue", které umožňuje jednoduše pokračovat v práci Cascade bez nutnosti psát další prompt, když se AI zastaví pro zpětnou vazbu. Model selector byl kompletně přepracován pro lepší organizaci rostoucího počtu dostupných modelů podle poskytovatele nebo ceny. Nově je také možné filtrovat historii konverzací podle workspace, což výrazně zlepšuje orientaci při práci na více projektech současně.
 
