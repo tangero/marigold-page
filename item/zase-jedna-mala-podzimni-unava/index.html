@@ -358,14 +358,17 @@ Omlouvam se za nesouvislost toku příspěvku, ale tak to chodí, když se člov
 
   <div class="posts">
     <h3>Ohodnoťte tento článek:</h3>
-  <!-- Widget for article feedback -->
-  <!-- Widget pro hodnocení článků -->
-  <script 
-    src="https://top.marigold.cz/mg-feedback-clean.js" 
-    data-slug="item-zase-jedna-mala-podzimni-unava" 
-    data-title="Zase jedna malá podzimní únava" 
-    data-url="https://www.marigold.cz/item/zase-jedna-mala-podzimni-unava/"
-  ></script>  
+    <!-- Místo pro widget -->
+    <div id="feedback-widget"></div>
+
+    <!-- Widget se vloží do #feedback-widget -->
+    <script 
+        src="https://top.marigold.cz/mg-feedback-clean.js" 
+        data-slug="item-zase-jedna-mala-podzimni-unava" 
+        data-title="Zase jedna malá podzimní únava" 
+        data-url="https://www.marigold.cz/item/zase-jedna-mala-podzimni-unava/"
+        data-target="#feedback-widget"
+    ></script>
 </div>
 
   <div class="posts">

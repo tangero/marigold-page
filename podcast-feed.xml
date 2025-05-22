@@ -4169,6 +4169,23 @@ V tomto případě je polévka založena na časovém duplexu známého v našic
     
     
     
+    <item>
+      <title>Nelineární neuronová síť má zlepšit průchodnost WiFi sítí</title>
+      <description>
+Velkým problémem bezdrátových sítí při poskytování real-time aplikací (jako videokonference), je určení správné délky paketu posílaného sítí. Pokud je paket moc dlouhý a při přenosu se poškodí, musí se znovu vysílat a to komplikuje aplikaci život. Pokud je paket moc krátký, je zase vysoká režie na přenos. Určit optimální délku paketu jde v drátových sítích, kde jsou podmínky prakticky konstantní, ale v bezdrátových sítích je to problém. Řešením by byla proměnná délka paketu dle situace, která nastane v nejbližší době na přenosové trase. Na to je potřeba křišťálová koule. Nebo nově nelineární [[neuronová síť](/ai/neuronove-site/)](/ai/neuronove-site/). S tou jako řešením přišla firma SmartPackets. 
+</description>
+      <pubDate>Wed, 05 May 2004 00:00:00 +0000</pubDate>
+      <enclosure url="http://www.marigold.cz/audio/2004-05-05-nelinearni-neuronova-sit-ma-zlepsit-pruchodnost-wifi-siti.mp3" 
+                 length="0" 
+                 type="audio/mpeg"/>
+      <guid>https://www.marigold.cz/item/nelinearni-neuronova-sit-ma-zlepsit-pruchodnost-wifi-siti/</guid>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:summary>
+Velkým problémem bezdrátových sítí při poskytování real-time aplikací (jako videokonference), je určení správné délky paketu posílaného sítí. Pokud je paket moc dlouhý a při přenosu se poškodí, musí se znovu vysílat a to komplikuje aplikaci život. Pokud je paket moc krátký, je zase vysoká režie na přenos. Určit optimální délku paketu jde v drátových sítích, kde jsou podmínky prakticky konstantní, ale v bezdrátových sítích je to problém. Řešením by byla proměnná délka paketu dle situace, která nastane v nejbližší době na přenosové trase. Na to je potřeba křišťálová koule. Nebo nově nelineární [[neuronová síť](/ai/neuronove-site/)](/ai/neuronove-site/). S tou jako řešením přišla firma SmartPackets. 
+</itunes:summary>
+      <itunes:image href="https://www.marigold.cz/assets/podcast-cover.jpg"/>
+    </item>
+    
     
     
     
