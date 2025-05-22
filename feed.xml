@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-22T19:14:55+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">OpenAI představuje Codex - agenta pro vývoj software</title><link href="https://www.marigold.cz/item/openai-codex/" rel="alternate" type="text/html" title="OpenAI představuje Codex - agenta pro vývoj software" /><published>2025-05-18T00:00:00+00:00</published><updated>2025-05-18T00:00:00+00:00</updated><id>https://www.marigold.cz/item/openai-codex</id><content type="html" xml:base="https://www.marigold.cz/item/openai-codex/"><![CDATA[<p>OpenAI představila “výzkumnou preview verzi” nového nástroje nazvaného <a href="https://chatgpt.com/codex">Codex</a>. Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní. Ačkoliv nedosahuje komplexnosti služeb jako Lovable, jde o zajímavého agenta pro vývoj software.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-22T20:17:08+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Claude Opus 4 a Claude Sonnet 4 pod drobnohledem</title><link href="https://www.marigold.cz/item/claude-opus-sonnet-4/" rel="alternate" type="text/html" title="Claude Opus 4 a Claude Sonnet 4 pod drobnohledem" /><published>2025-05-22T00:00:00+00:00</published><updated>2025-05-22T00:00:00+00:00</updated><id>https://www.marigold.cz/item/claude-opus-sonnet-4</id><content type="html" xml:base="https://www.marigold.cz/item/claude-opus-sonnet-4/"><![CDATA[<p>Anthropic představil dva nové a dlouho očekávané modely své řady Claude a to Opus 4 a Sonnet 4. Lze konstatovat významné pokroky v oblasti kódování, zatímco jiné aspekty vykazují nerovnoměrný vývoj. Shrnuto: jde o povinný upgrade LLM v momentu, kdy se všichni chlubí novými modely, ale žádný průlomový model mimo programování to není. Přesto jej budete používat rádi.</p>
+
+<p>Tiskovou zprávu a firemní rozcestník na další detaily <a href="https://www.anthropic.com/news/claude-4">najdete zde</a></p>
+
+<h2 id="technické-specifikace-a-hybridní-architektura">Technické specifikace a hybridní architektura</h2>
+
+<p>Oba modely představují evoluci směrem k <strong>hybridní reasoning architektuře</strong>, která nabízí dva odlišné provozní režimy. Standardní režim zajišťuje rychlé odpovědi pro běžné dotazy, zatímco <em>extended thinking mode</em> umožňuje modelům věnovat více času komplexnějším problémům vyžadujícím hlubší analýzu. Tato dualita představuje praktický kompromis mezi rychlostí a kvalitou odpovědí.</p>
+
+<p>Zajímavým aspektem je schopnost modelů <strong>přecházet mezi uvažováním a používáním nástrojů</strong> během jedné interakce. Modely mohou například během analýzy problému provést webové vyhledávání, zpracovat získané informace a pokračovat v uvažování s novými daty. Tato funkcionalita výrazně rozšiřuje praktické možnosti použití oproti statickým modelům předchozích generací. Něco podobného už máme v ChatGPT u o3, ale v modelech Anthropicu je to vítanou novinkou. Velkou přidanou hodnotou je, že Opus těchto angentů spouští klidně velké množství, takže pokud potřebujete prozkoumat řadu zdrojů a kriticky je vyhodnotit, Opus 4 je v tom podstatně výkonnější, než o3.</p>
+
+<h2 id="výkonnostní-analýza-podle-benchmarků">Výkonnostní analýza podle benchmarků</h2>
+
+<h3 id="kódování---průlomové-výsledky">Kódování - průlomové výsledky</h3>
+
+<p>Oblast vývoje software představuje nejpozoruhodnější pokrok nové generace Claude modelů. V benchmark <strong>SWE-bench Verified</strong>, který testuje schopnost řešit reálné <strong>GitHub issues</strong>, dosahuje Claude Opus 4 úspěšnosti 79,4% a Sonnet 4 dokonce 80,2%. Tyto výsledky výrazně překonávají OpenAI o3 (69,1%) i GPT-4.1 (54,6%). Paradoxně se tak méně výkonný Sonnet 4 v této konkrétní oblasti jeví jako lepší volba než vlajková loď Opus 4, byl zjevně trénován především na programování, protože u něj se uplatní i jeho nízká cena oproti Opusu 4.</p>
+
+<p><img src="/assets/claude4-swe.webp" alt="Porovnání SWE" /></p>
+
+<p>V oblasti <strong>agentického kódování</strong> - komplexnějších programátorských úloh vyžadujících autonomní práci - oba modely dosahují srovnatelných výsledků okolo 72-73%, což představuje podstatné zlepšení oproti Sonnet 3.7 (62,3%). Významný je také pokrok v úlohách <strong>terminálového kódování</strong>, kde Opus 4 dosahuje 43,2% úspěšnosti oproti 35,2% u předchozí generace.</p>
+
+<p>Podle nezávislých recenzí od vývojářských nástrojů jako Replit a Cursor dokážou nové modely provádět “precizní změny napříč masivními codebase” a představují “to nejlepší pro vývojáře”. Claude Code, terminálové rozhraní pro programátory, je nyní obecně dostupné a umožňuje kontinuální práci na komplexních projektech po dobu hodin. Sám musím potvrdit, že schopnost Claude Code se Sonnet 4 se mi jeví jako výrazně lepší než u jeho předchůdce. Úlohy, které vysloveně nemám rád, jako napojování na databáze, u Sonnet 4 fungují o řád lépe. Například jsem jím odladil hodnocení článků na konci každého článku zde na serveru, můžete vyzkoušet…</p>
+
+<h3 id="reasoning-a-analytické-schopnosti">Reasoning a analytické schopnosti</h3>
+
+<p>Výsledky v oblasti logického uvažování a analýzy jsou <strong>podstatně méně konzistentní</strong>. Zatímco ve středoškolské matematice (AIME 2024) dosahují modely výrazného zlepšení - Opus 4 na 75,5% oproti 54,8% u Sonnet 3.7 - jiné oblasti vykazují stagnaci nebo dokonce pokles.</p>
+
+<p>V graduate-level reasoning (GPQA) Opus 4 dosahuje 79,6%, což je prakticky shodné se Sonnet 3.7 (78,2%), zatímco Sonnet 4 dokonce klesá na 75,4%. Podobně neuspokojivé jsou výsledky ve visual reasoning, kde všechny modely oscilují okolo 74-76% bez jasného trendu zlepšení.</p>
+
+<p>Vícejazyčné schopnosti vykazují postupný pokrok - Opus 4 dosahuje 88,8% v MMMLU benchmark oproti 85,9% u předchozí generace, což naznačuje zlepšení v neanglofonním prostředí. Zde ale musím říct, že pro češtinu pozoruji významné zhoršení, do textů pronikají anglicismy nebo rovnou celé anglické sentences, což is bad. Teď to trochu paroduju, ale celý večer používám Opus a Sonnet 4 jako mentora pro mé psaní druhého dílu Flotily a je to hodně poznat. Schopnosti jsou lepší, vyjadřování v češtině je horší.</p>
+
+<p><img src="/assets/claude4-vykon.webp" alt="Porovnání modelů" /></p>
+
+<h2 id="praktické-nasazení-a-ekonomické-aspekty">Praktické nasazení a ekonomické aspekty</h2>
+
+<p>Cenová struktura zůstává <strong>beze změny oproti předchozím generacím</strong>: Claude Opus 4 stojí 15 dolarů za milion vstupních tokenů a 75 dolarů za výstupní tokeny, zatímco Sonnet 4 je dostupný za 3 respektive 15 dolarů. Významnou novinkou je <strong>hodinové prompt caching</strong>, které snižuje náklady o 90% a latenci o 85% pro dlouhé, multi-step agent workflows s persistentním kontextem.</p>
+
+<p>Nové <strong>Files API</strong> umožňuje nahrát dokumenty jednou a znovu je používat napříč sezeními, což je ideální pro datasety, analýzy a persistentní file-based workflows. <strong>Code execution tool</strong> poskytuje možnost spouštět Python kód přímo přes Anthropic API, což umožňuje kompletní data analysis, charting a document automation v jednom workflow.</p>
+
+<p>Integrace s vývojářskými nástroji dosahuje nové úrovně - nativní podpora pro VS Code, JetBrains a GitHub umožňuje pracovat s Claude přímo v kontextu kódu. Místo “promptování” modelu s ním uživatelé skutečně spolupracují, přičemž editace se zobrazují <em>inline</em> a feedback probíhá v rámci kontextu.</p>
+
+<h2 id="halucinace-a-věrohodnost-výstupů">Halucinace a věrohodnost výstupů</h2>
+
+<p>Problematika halucincí představuje stále výzvu pro všechny současné LLM modely. Z dostupných informací vyplývá, že nové Claude modely <strong>nezaznamenaly průlomové zlepšení v této oblasti</strong>. Modely stále vykazují tendenci k vytváření fakticky nesprávných informací, zejména v situacích, kdy se snaží zodpovědět dotazy mimo svou znalostní bázi.</p>
+
+<p>Zajímavým aspektem je zavedení <strong>summarizace myšlenkových procesů</strong> u nejdelších thinking sekvencí pomocí menšího modelu. Tato funkce má potenciálně ambivalentní dopad na halucincae - zatímco může pomoci strukturovat komplexní uvažování, současně zavádí další vrstvu potenciální nepřesnosti prostřednictvím summarizačního modelu.</p>
+
+<p><strong>Extended thinking mode</strong> teoreticky poskytuje lepší možnosti pro self-correction a ověřování faktů během delšího uvažování, což by mohlo snížit frekvenci halucincí u komplexnějších dotazů. Praktické dopady této funkce však nejsou v dostupných materiálech detailně kvantifikovány.</p>
+
+<h2 id="nové-funkcionality-a-workflow-integrace">Nové funkcionality a workflow integrace</h2>
+
+<p>Claude 4 generace přináší několik <strong>zásadních rozšíření funkcionalit</strong>. Model Control Protocol (MCP) connector umožňuje připojení k externím nástrojům jako Zapier nebo Asana bez nutnosti klientského kódu - stačí přidat URL a systém je funkční. Tato schopnost výrazně rozšiřuje možnosti automatizace a integrace do existujících workflow a je to příjemná změna proti dřívější editaci JSON souboru.</p>
+
+<p>Schopnost <strong>používat nástroje během uvažování</strong>, jako je webové vyhledávání, otevírá možnosti pro více-agentní a více-nástrojové pracovní postupy, které skutečně škálují. Model může během analýzy problému autonomně vyhledávat informace, ověřovat fakta a aktualizovat své chápání situace.</p>
+
+<p><strong>Integrace s GitHubem</strong> se také citelně zlepšuje. Uživatelé mohou Claude označit v pull requestech, požádat o opravu CI issues nebo automaticky odpovídat na review. Tato funkcionalita transformuje Claude z pasivního nástroje na aktivního účastníka vývojového procesu.</p>
+
+<h2 id="kritické-zhodnocení-a-perspektivy">Kritické zhodnocení a perspektivy</h2>
+
+<p>Claude 4 generace představuje <strong>výrazně nerovnoměrný pokrok</strong> napříč různými oblastmi schopností. Zatímco v kódování dosahují modely skvělých výsledků, v jiných klíčových oblastech jako reasoning a analytické schopnosti zůstává pokrok marginální nebo dokonce nenastal.</p>
+
+<p><strong>Nejvíce znepokojivá je stagnace v graduate-level reasoning</strong>, která naznačuje, že současný přístup k tréninku modelů možná dosahuje svých limitů v oblasti obecné inteligence. Zlepšení v kódování lze částečně připsat specializaci trénovacích dat a procesů na programátorské úkoly, což však nemusí být udržitelný přístup pro budoucí generace.</p>
+
+<blockquote>
+  <p><strong>Graduate-level reasoning</strong> označuje schopnost logického uvažování a řešení problémů na úrovni vysokoškolského studia vyšších stupňů (magisterské a doktorské studium). V kontextu hodnocení AI modelů se jedná o komplexní analytické schopnosti.</p>
+</blockquote>
+
+<p><strong>Cenová dostupnost při zachování výkonu</strong> představuje pozitivní aspekt pro širší adopci, zejména v kontextu startupů a menších firem budujících AI-powered aplikace. Hodinové prompt caching a Files API výrazně snižují operační náklady pro komplexní agent workflows.</p>
+
+<p><strong>Integrace s development tools</strong> dosahuje nové úrovně sofistikace a praktičnosti, což může akcelerovat adopci AI asistentů ve vývojářských týmech. Přechod od “promptování” k “spolupráci” s modelem představuje významný posun v user experience.</p>
+
+<h2 id="závěr">Závěr</h2>
+
+<p>Claude 4 generace reprezentuje <strong>specialized breakthrough spíše než general intelligence advancement</strong>. Výrazné zlepšení v kódování a software engineeringu ustanovuje tyto modely jako nové standardy pro programátorské AI nástroje, zatímco stagnace v jiných oblastech odhaluje limity současných přístupů k tréninku LLM.</p>
+
+<p>Pro praktické nasazení představují nové modely <strong>výrazné zlepšení pro vývojářské workflow</strong>, ale jejich dopad na obecné schopnosti AI  zůstává omezený. Absence zlepšení v oblasti halucincí a nekonzistentní pokrok v reasoning naznačují, že cesta k obecné umělé inteligenci bude vyžadovat fundamentálně odlišné přístupy než pouhé škálování současných architektur.</p>
+
+<p>Bude zajímavé sledovat, jak se s “třídesetinkovým” upgradem podaří Anthropicu vklínit mezi slušně rozjetý Google, který své novinky představil nedávno (zastavíme se u nich v newsletteru) a mezi OpenAI a jeho modely o3 a o4, zejména o4 se mělo zlepšit v kódování.</p>
+
+<p>Osobně bych stále doporučoval používat Opus 4 pro zpracování, editaci textu (a pak ručně vychytat anglicismy) a Sonnet pro programování. Na každodenní úlohy s ponorem do tématu mě zatím nic nevymluvilo používání o3. Pro psaní jsem dlouho měl v češtině radši Claude, nový přístup k češtině mi nesedí a budu silně zvažovat, že přejdu k o3. Snad se ta čeština vyladí.</p>
+
+<p>Musím také poznamenat, že výsledky pro “staré úlohy” nejsou o tolik lepší, aby to odůvodňovalo zásahy do zdrojového kódu, pokud už máte nějakou technologii rozeběhanou a odladěnou na starších modelech. Pokud by vám nestačil nový model, který je levnější, není dnes příliš mnoho dalších důvodů, proč na novější model přecházet…</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Anthropic" /><category term="Claude" /><summary type="html"><![CDATA[Anthropic představil dva nové a dlouho očekávané modely své řady Claude a to Opus 4 a Sonnet 4. Lze konstatovat významné pokroky v oblasti kódování, zatímco jiné aspekty vykazují nerovnoměrný vývoj. Shrnuto: jde o povinný upgrade LLM v momentu, kdy se všichni chlubí novými modely, ale žádný průlomový model mimo programování to není. Přesto jej budete používat rádi.]]></summary></entry><entry xml:lang="cs"><title type="html">OpenAI představuje Codex - agenta pro vývoj software</title><link href="https://www.marigold.cz/item/openai-codex/" rel="alternate" type="text/html" title="OpenAI představuje Codex - agenta pro vývoj software" /><published>2025-05-18T00:00:00+00:00</published><updated>2025-05-18T00:00:00+00:00</updated><id>https://www.marigold.cz/item/openai-codex</id><content type="html" xml:base="https://www.marigold.cz/item/openai-codex/"><![CDATA[<p>OpenAI představila “výzkumnou preview verzi” nového nástroje nazvaného <a href="https://chatgpt.com/codex">Codex</a>. Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní. Ačkoliv nedosahuje komplexnosti služeb jako Lovable, jde o zajímavého agenta pro vývoj software.</p>
 
 <p>Hlavní výhodou Codexu má být schopnost paralelně pracovat na mnoha úkolech. Podívejme se detailně na to, co tento nástroj přináší, jaké jsou jeho možnosti a omezení.</p>
 
@@ -2406,224 +2486,4 @@ npm <span class="nb">install</span>
 
 <p>Tato technologie by mohla výrazně zvýšit efektivitu vývojářů, kteří AI nástroje aktivně využívají, a posunout možnosti automatizace na novou úroveň. Zatím je však potřeba počítat s možnými omezeními a postupným vývojem této funkcionality.</p>
 
-<p>Přiznám se, že službu jsem  zatím zkoušel jen v Cursor, ne například v <a href="https://www.marigold.cz/ai/claude-code/">[Claude Code](/ai/claude-code/)</a>, které také MCP podporuje. Výslovně není jiný software zmíněn, ale také by neměly být vážné potíže. Sám jsem se službou Zapier.com měl řadu potíží, komunikace s MCP haprovala a tak bych doporučil zatím počkat, než se vše usadí, pokud nejste vysloveně experimentátoři. Dobrý směr to ale je, protože nyní se začnou jistě rychle přidávat ostatní propojovatelé, jako Make.com…</p>]]></content><author><name>Patrick Zandl</name></author><category term="Zapier" /><category term="MCP" /><category term="vibe code" /><category term="AI" /><summary type="html"><![CDATA[Oblíbená automatizační služba Zapier a její (kdysi český!) konkurent Make.com nedávno vydala podporu [MCP](/ai/mcp/) (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.]]></summary></entry><entry xml:lang="cs"><title type="html">Propojení Google Search Console s MCP - Komplexní průvodce</title><link href="https://www.marigold.cz/item/google-search-console-mcp-ai/" rel="alternate" type="text/html" title="Propojení Google Search Console s MCP - Komplexní průvodce" /><published>2025-03-27T00:00:00+00:00</published><updated>2025-03-27T00:00:00+00:00</updated><id>https://www.marigold.cz/item/google-search-console-mcp-ai</id><content type="html" xml:base="https://www.marigold.cz/item/google-search-console-mcp-ai/"><![CDATA[<p>Model Communication Protocol (<a href="/ai/mcp/">[MCP](/ai/mcp/)</a>) představuje inovativní způsob, jak propojit AI asistenty s externími službami a nástroji. Google Search Console (GSC) je neocenitelný nástroj pro SEO analýzu a monitoring webových stránek. Propojení těchto dvou technologií otevírá vývojářům a SEO specialistům nové možnosti automatizace a efektivní práce s daty o výkonu webových stránek.</p>
-
-<p>Tento průvodce vám ukáže, jak implementovat integraci mezi Google Search Console a <a href="/ai/mcp/">MCP</a> pomocí otevřeného řešení dostupného na <a href="https://github.com/AminForou/mcp-gsc">GitHubu od AminForou</a>. Díky této integraci budete moci:</p>
-
-<ul>
-  <li>Získávat data z Google Search Console přímo ve vašem AI asistentovi</li>
-  <li>Analyzovat výkon webových stránek bez nutnosti přepínat mezi aplikacemi</li>
-  <li>Automatizovat reporting a monitoring klíčových SEO metrik</li>
-  <li>Implementovat datově řízené úpravy obsahu a SEO strategie</li>
-</ul>
-
-<h2 id="požadavky-pro-úspěšnou-integraci">Požadavky pro úspěšnou integraci</h2>
-
-<p>Před začátkem integrace se ujistěte, že máte připraveno:</p>
-
-<ol>
-  <li><strong>Google Search Console účet</strong> s přístupem k webovým stránkám, které chcete monitorovat</li>
-  <li><strong>Google Cloud projekt</strong> s povoleným Google Search Console API</li>
-  <li><strong>MCP server</strong> (například Zapier MCP)</li>
-  <li><strong>Cursor</strong> nebo jiného AI asistenta podporujícího MCP</li>
-  <li><strong>Node.js</strong> (verze 14 nebo novější) pro spuštění GSC konektoru</li>
-  <li><strong>Git</strong> pro klonování repozitáře</li>
-</ol>
-
-<h2 id="1-příprava-google-cloud-projektu-a-api-přístupu">1. Příprava Google Cloud projektu a API přístupu</h2>
-
-<h3 id="vytvoření-a-konfigurace-projektu-v-google-cloud">Vytvoření a konfigurace projektu v Google Cloud</h3>
-
-<ol>
-  <li>Přejděte na <a href="https://console.cloud.google.com/">Google Cloud Console</a></li>
-  <li>Vytvořte nový projekt nebo vyberte existující</li>
-  <li>V navigačním menu vyberte “APIs &amp; Services” &gt; “Library”</li>
-  <li>Vyhledejte “Google Search Console API” a aktivujte jej</li>
-  <li>Přejděte do sekce “Credentials” a vytvořte nové OAuth 2.0 přihlašovací údaje:
-    <ul>
-      <li>Typ aplikace: Web application</li>
-      <li>Název: MCP GSC Integration</li>
-      <li>Autorizované přesměrovací URI: <code class="language-plaintext highlighter-rouge">http://localhost:3000/oauth2callback</code></li>
-    </ul>
-  </li>
-  <li>Stáhněte vygenerovaný JSON soubor s přihlašovacími údaji</li>
-</ol>
-
-<h2 id="2-instalace-mcp-gsc-konektoru">2. Instalace MCP GSC konektoru</h2>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Klonování repozitáře</span>
-git clone https://github.com/AminForou/mcp-gsc.git
-<span class="nb">cd </span>mcp-gsc
-
-<span class="c"># Instalace závislostí</span>
-npm <span class="nb">install</span>
-
-<span class="c"># Kopírování konfiguračního souboru</span>
-<span class="nb">cp </span>config.example.json config.json
-</code></pre></div></div>
-
-<h2 id="3-konfigurace-mcp-gsc-konektoru">3. Konfigurace MCP GSC konektoru</h2>
-
-<p>Otevřete soubor <code class="language-plaintext highlighter-rouge">config.json</code> a upravte následující hodnoty:</p>
-
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
-  </span><span class="nl">"port"</span><span class="p">:</span><span class="w"> </span><span class="mi">3000</span><span class="p">,</span><span class="w">
-  </span><span class="nl">"auth"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-    </span><span class="nl">"clientId"</span><span class="p">:</span><span class="w"> </span><span class="s2">"YOUR_CLIENT_ID"</span><span class="p">,</span><span class="w">
-    </span><span class="nl">"clientSecret"</span><span class="p">:</span><span class="w"> </span><span class="s2">"YOUR_CLIENT_SECRET"</span><span class="p">,</span><span class="w">
-    </span><span class="nl">"redirectUri"</span><span class="p">:</span><span class="w"> </span><span class="s2">"http://localhost:3000/oauth2callback"</span><span class="w">
-  </span><span class="p">},</span><span class="w">
-  </span><span class="nl">"sites"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-    </span><span class="s2">"https://www.vasestranka.cz"</span><span class="w">
-  </span><span class="p">],</span><span class="w">
-  </span><span class="nl">"mcpEndpoint"</span><span class="p">:</span><span class="w"> </span><span class="s2">"https://actions.zapier.com/mcp/YOUR_MCP_ID/sse"</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre></div></div>
-
-<p>Nahraďte:</p>
-<ul>
-  <li><code class="language-plaintext highlighter-rouge">YOUR_CLIENT_ID</code> a <code class="language-plaintext highlighter-rouge">YOUR_CLIENT_SECRET</code> hodnotami z vašeho Google Cloud projektu</li>
-  <li><code class="language-plaintext highlighter-rouge">https://www.vasestranka.cz</code> URL adresou vaší webové stránky registrované v Google Search Console</li>
-  <li><code class="language-plaintext highlighter-rouge">YOUR_MCP_ID</code> vaším unikátním identifikátorem ze Zapier MCP</li>
-</ul>
-
-<h2 id="4-autorizace-google-search-console-api">4. Autorizace Google Search Console API</h2>
-
-<p>Spusťte aplikaci a dokončete autorizační proces:</p>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm start
-</code></pre></div></div>
-
-<ol>
-  <li>Při prvním spuštění se v konzoli zobrazí autorizační URL</li>
-  <li>Otevřete URL ve webovém prohlížeči</li>
-  <li>Přihlaste se ke Google účtu a udělte přístup k Search Console API</li>
-  <li>Po úspěšné autorizaci budete přesměrováni zpět na lokální server</li>
-  <li>V konzoli by se mělo zobrazit potvrzení úspěšné autorizace</li>
-  <li>Autorizační <a href="/ai/tokeny-versus-slova/">[token](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/)</a> bude automaticky uložen pro budoucí použití</li>
-</ol>
-
-<h2 id="5-propojení-s-mcp-serverem-zapier">5. Propojení s MCP serverem (Zapier)</h2>
-
-<h3 id="nastavení-v-zapier-mcp">Nastavení v Zapier MCP</h3>
-
-<ol>
-  <li>Přejděte na <a href="https://zapier.com/mcp">Zapier MCP stránku</a></li>
-  <li>Klikněte na “Get Started” a zkopírujte svou unikátní MCP URL</li>
-  <li>Klikněte na “Edit MCP Actions” a vytvořte novou akci</li>
-  <li>Pojmenujte akci “Google Search Console Data”</li>
-  <li>Nastavte parametry akce:
-    <ul>
-      <li><code class="language-plaintext highlighter-rouge">site</code>: URL webu (STRING)</li>
-      <li><code class="language-plaintext highlighter-rouge">dateRange</code>: Rozsah dat (STRING: “last7days”, “last30days”, “last3months”)</li>
-      <li><code class="language-plaintext highlighter-rouge">dimensions</code>: Dimenze dat (STRING: “query”, “page”, “country”, “device”)</li>
-    </ul>
-  </li>
-</ol>
-
-<h3 id="integrace-do-cursor-nebo-jiného-ai-asistenta">Integrace do Cursor (nebo jiného AI asistenta)</h3>
-
-<ol>
-  <li>Otevřete Cursor a přejděte do Settings &gt; MCP &gt; Add New MCP</li>
-  <li>Vložte MCP URL ze Zapier pod název “Google Search Console MCP”</li>
-  <li>Uložte nastavení</li>
-</ol>
-
-<h2 id="6-používání-gsc-dat-v-ai-asistentovi">6. Používání GSC dat v AI asistentovi</h2>
-
-<p>Po úspěšné integraci můžete začít využívat data z Google Search Console přímo ve vašem AI asistentovi. Zde jsou příklady typických dotazů:</p>
-
-<h3 id="základní-dotazy-na-výkon-webu">Základní dotazy na výkon webu</h3>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Ukaž mi výkon mého webu z Google Search Console za posledních 30 dní.
-</code></pre></div></div>
-
-<h3 id="analýza-konkrétních-klíčových-slov">Analýza konkrétních klíčových slov</h3>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Jaké jsou moje nejúspěšnější klíčová slova podle počtu kliknutí za poslední týden?
-</code></pre></div></div>
-
-<h3 id="identifikace-problémových-stránek">Identifikace problémových stránek</h3>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Které stránky mají vysoký počet zobrazení, ale nízkou míru prokliku?
-</code></pre></div></div>
-
-<h3 id="analýza-trendů">Analýza trendů</h3>
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Porovnej výkon mého webu v mobilních zařízeních oproti desktopům za poslední 3 měsíce.
-</code></pre></div></div>
-
-<h2 id="7-rozšířené-funkce">7. Rozšířené funkce</h2>
-
-<p>MCP GSC konektor nabízí několik pokročilých funkcí, které můžete využít:</p>
-
-<h3 id="vlastní-časové-rozsahy">Vlastní časové rozsahy</h3>
-
-<p>Kromě předdefinovaných rozsahů můžete použít vlastní časové období:</p>
-
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
-  </span><span class="nl">"startDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2025-01-01"</span><span class="p">,</span><span class="w">
-  </span><span class="nl">"endDate"</span><span class="p">:</span><span class="w"> </span><span class="s2">"2025-03-26"</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre></div></div>
-
-<h3 id="filtry-dat">Filtry dat</h3>
-
-<p>Filtrování dat podle specifických kritérií:</p>
-
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
-  </span><span class="nl">"filters"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-    </span><span class="p">{</span><span class="w">
-      </span><span class="nl">"dimension"</span><span class="p">:</span><span class="w"> </span><span class="s2">"page"</span><span class="p">,</span><span class="w">
-      </span><span class="nl">"operator"</span><span class="p">:</span><span class="w"> </span><span class="s2">"contains"</span><span class="p">,</span><span class="w">
-      </span><span class="nl">"expression"</span><span class="p">:</span><span class="w"> </span><span class="s2">"/blog/"</span><span class="w">
-    </span><span class="p">}</span><span class="w">
-  </span><span class="p">]</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre></div></div>
-
-<h3 id="agregace-a-transformace-dat">Agregace a transformace dat</h3>
-
-<p>Konektor umožňuje základní agregaci a transformaci dat:</p>
-
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
-  </span><span class="nl">"aggregation"</span><span class="p">:</span><span class="w"> </span><span class="s2">"sum"</span><span class="p">,</span><span class="w">
-  </span><span class="nl">"groupBy"</span><span class="p">:</span><span class="w"> </span><span class="s2">"query"</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre></div></div>
-
-<h2 id="8-řešení-problémů">8. Řešení problémů</h2>
-
-<h3 id="problém-autorizační-chyba">Problém: Autorizační chyba</h3>
-
-<p><strong>Řešení:</strong> Ujistěte se, že máte správně nakonfigurované přesměrovací URI v Google Cloud Console. Pokud problém přetrvává, smažte soubor <code class="language-plaintext highlighter-rouge">[token](/ai/tokeny-versus-slova/).json</code> a proveďte autorizaci znovu.</p>
-
-<h3 id="problém-žádná-data-nejsou-dostupná">Problém: Žádná data nejsou dostupná</h3>
-
-<p><strong>Řešení:</strong> Ověřte, že webová stránka je správně registrována v Google Search Console a že máte dostatečná oprávnění. Některé nově přidané stránky nemusí mít okamžitě dostupná data.</p>
-
-<h3 id="problém-mcp-nepřijímá-požadavky">Problém: MCP nepřijímá požadavky</h3>
-
-<p><strong>Řešení:</strong> Zkontrolujte, zda je MCP server spuštěn a dostupný. Ujistěte se, že adresa v <code class="language-plaintext highlighter-rouge">config.json</code> odpovídá vaší unikátní MCP URL.</p>
-
-<h2 id="9-zabezpečení-a-best-practices">9. Zabezpečení a best practices</h2>
-
-<p>Při práci s GSC API a MCP dbejte na následující bezpečnostní opatření:</p>
-
-<ol>
-  <li><strong>Nikdy nesdílejte</strong> své OAuth přihlašovací údaje nebo tokeny</li>
-  <li>Pravidelně <strong>obnovujte přístupové tokeny</strong></li>
-  <li>Používejte pouze <strong>nezbytná oprávnění</strong> pro vaši aplikaci</li>
-  <li><strong>Omezujte rozsah požadavků</strong> na API, abyste předešli dosažení limitů</li>
-  <li>Implementujte <strong>rate limiting</strong> pro ochranu před zahlcením API</li>
-</ol>
-
-<h2 id="závěr">Závěr</h2>
-
-<p>Propojení Google Search Console s MCP otevírá nové možnosti pro automatizaci SEO analýz a datově řízených rozhodnutí. Díky této integraci získáváte přímý přístup k cenným datům o výkonu vašich webových stránek přímo ve vašem AI asistentovi, což vám umožňuje efektivněji pracovat a činit informovaná rozhodnutí.</p>
-
-<p>Pro nejnovější aktualizace a vylepšení sledujte <a href="https://github.com/AminForou/mcp-gsc">oficiální GitHub repozitář</a> a zapojte se do komunity přispěvatelů, kteří pomáhají toto řešení dále rozvíjet.</p>
-
-<hr />
-
-<p><em>Poznámka: Tento průvodce vychází z dokumentace dostupné k březnu 2025. Některé funkce se mohou měnit s novými aktualizacemi Google Search Console API nebo MCP protokolu.</em></p>]]></content><author><name>Patrick Zandl</name></author><category term="MCP" /><category term="Google" /><summary type="html"><![CDATA[Model Communication Protocol ([MCP](/ai/mcp/)) představuje inovativní způsob, jak propojit AI asistenty s externími službami a nástroji. Google Search Console (GSC) je neocenitelný nástroj pro SEO analýzu a monitoring webových stránek. Propojení těchto dvou technologií otevírá vývojářům a SEO specialistům nové možnosti automatizace a efektivní práce s daty o výkonu webových stránek.]]></summary></entry></feed>
+<p>Přiznám se, že službu jsem  zatím zkoušel jen v Cursor, ne například v <a href="https://www.marigold.cz/ai/claude-code/">[Claude Code](/ai/claude-code/)</a>, které také MCP podporuje. Výslovně není jiný software zmíněn, ale také by neměly být vážné potíže. Sám jsem se službou Zapier.com měl řadu potíží, komunikace s MCP haprovala a tak bych doporučil zatím počkat, než se vše usadí, pokud nejste vysloveně experimentátoři. Dobrý směr to ale je, protože nyní se začnou jistě rychle přidávat ostatní propojovatelé, jako Make.com…</p>]]></content><author><name>Patrick Zandl</name></author><category term="Zapier" /><category term="MCP" /><category term="vibe code" /><category term="AI" /><summary type="html"><![CDATA[Oblíbená automatizační služba Zapier a její (kdysi český!) konkurent Make.com nedávno vydala podporu [MCP](/ai/mcp/) (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.]]></summary></entry></feed>
