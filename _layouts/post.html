@@ -323,14 +323,17 @@ layout: default
 
   <div class="posts">
     <h3>Ohodnoťte tento článek:</h3>
-  <!-- Widget for article feedback -->
-  <!-- Widget pro hodnocení článků -->
-  <script 
-    src="https://top.marigold.cz/mg-feedback-clean.js" 
-    data-slug="{{ page.url | slugify }}" 
-    data-title="{{ page.title }}" 
-    data-url="{{ site.url }}{{ page.url }}"
-  ></script>  
+    <!-- Místo pro widget -->
+    <div id="feedback-widget"></div>
+
+    <!-- Widget se vloží do #feedback-widget -->
+    <script 
+        src="https://top.marigold.cz/mg-feedback-clean.js" 
+        data-slug="{{ page.url | slugify }}" 
+        data-title="{{ page.title }}" 
+        data-url="{{ site.url }}{{ page.url }}"
+        data-target="#feedback-widget"
+    ></script>
 </div>
 
   <div class="posts">
