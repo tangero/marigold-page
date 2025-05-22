@@ -11,15 +11,15 @@ post_excerpt: Zapier a Make.com nedávno uvolnili MCP server (Model Communicatio
   který umožňuje propojení AI asistentů s tisíci aplikací v ekosystému Zapier či Make.
   Jak ji včlenit do vývojářského workflow ve vývoji s pomocí AI?
 summary_points:
-- Zapier a Make.com integrují MCP pro propojení AI asistentů s tisíci aplikacemi.
-- MCP standardizuje komunikaci AI asistentů s externími službami bez složité API integrace.
-- Zapier MCP nabízí cloudové řešení, Make.com MCP open-source s větším přizpůsobením.
-- MCP umožňuje AI nástrojům provádět reálné akce, ale má omezení (latence, zabezpečení).
+- Zapier a Make.com podporují MCP pro propojení AI s aplikacemi.
+- MCP umožňuje AI interagovat s externími službami bez složité integrace.
+- Zapier MCP je cloudová služba, Make.com nabízí open-source server.
+- MCP rozšiřuje možnosti AI nástrojů pro automatizaci a integraci.
 thumbnail: https://www.marigold.cz/assets/zapier-mcp.jpg
 title: Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi
 ---
 
-Oblíbená automatizační služba [Zapier](https://zapier.com/) a její (kdysi český!) konkurent [Make.com](https://www.make.com) nedávno vydala podporu [MCP](/ai/mcp/) (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na "bezprogramátorské" propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier [MCP](/ai/mcp/) je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává. 
+Oblíbená automatizační služba [Zapier](https://zapier.com/) a její (kdysi český!) konkurent [Make.com](https://www.make.com) nedávno vydala podporu [[MCP](/ai/mcp/)](/ai/mcp/) (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na "bezprogramátorské" propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier [MCP](/ai/mcp/) je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává. 
 
 [MCP](/ai/mcp/) server funguje jako prostředník mezi AI asistentem a aplikacemi třetích stran. Díky tomuto řešení mohou AI asistenti interagovat s externími službami bez nutnosti složité integrace API. Podle Zapier jde o "nejrychlejší způsob, jak propojit vašeho AI asistenta s tisíci aplikací". A pokud nevíte, co je to [MCP](/ai/mcp/) a k čemu a jak jej použít, [přečtěte si článek zde](https://www.marigold.cz/ai/mcp/). 
 
@@ -172,4 +172,4 @@ Pro vývojáře pracující s AI asistenty představuje MCP potenciálně význa
 
 Tato technologie by mohla výrazně zvýšit efektivitu vývojářů, kteří AI nástroje aktivně využívají, a posunout možnosti automatizace na novou úroveň. Zatím je však potřeba počítat s možnými omezeními a postupným vývojem této funkcionality.
 
-Přiznám se, že službu jsem  zatím zkoušel jen v Cursor, ne například v [Claude Code](https://www.marigold.cz/ai/claude-code/), které také MCP podporuje. Výslovně není jiný software zmíněn, ale také by neměly být vážné potíže. Sám jsem se službou Zapier.com měl řadu potíží, komunikace s MCP haprovala a tak bych doporučil zatím počkat, než se vše usadí, pokud nejste vysloveně experimentátoři. Dobrý směr to ale je, protože nyní se začnou jistě rychle přidávat ostatní propojovatelé, jako Make.com...
+Přiznám se, že službu jsem  zatím zkoušel jen v Cursor, ne například v [[Claude Code](/ai/claude-code/)](https://www.marigold.cz/ai/claude-code/), které také MCP podporuje. Výslovně není jiný software zmíněn, ale také by neměly být vážné potíže. Sám jsem se službou Zapier.com měl řadu potíží, komunikace s MCP haprovala a tak bych doporučil zatím počkat, než se vše usadí, pokud nejste vysloveně experimentátoři. Dobrý směr to ale je, protože nyní se začnou jistě rychle přidávat ostatní propojovatelé, jako Make.com...

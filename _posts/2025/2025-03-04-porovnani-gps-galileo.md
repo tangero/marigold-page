@@ -9,10 +9,10 @@ layout: post
 post_excerpt: Je schopen evropský navigační a poziční systém Galileo nahradit americké
   GPS? A to i pro armádní účely? Pojďme se podívat, v jakém stavu je Galileo dnes.
 summary_points:
-- Galileo dosahuje vyšší přesnosti než GPS, modernizace GPS rozdíl stírá.
-- Galileo PRS signál je šifrovaný a odolný vůči rušení a spoofingu.
-- Galileo a GPS jsou interoperabilní, kombinace zvyšuje robustnost navigace.
-- Galileo nabízí Evropě nezávislost na americkém GPS systému.
+- Galileo je evropská alternativa k americkému GPS.
+- Galileo nabízí vyšší přesnost a odolnost proti rušení.
+- Galileo poskytuje nezávislost na americké infrastruktuře.
+- Kombinace Galileo a GPS zvyšuje spolehlivost navigace.
 thumbnail: https://www.adslzone.net/app/uploads-adslzone.net/2016/11/galileo-gps-europeo.jpg
 title: Srovnání systémů GPS a Galileo pro vojenské účely
 ---

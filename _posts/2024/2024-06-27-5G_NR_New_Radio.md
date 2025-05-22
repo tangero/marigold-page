@@ -33,7 +33,7 @@ Podívejme se v bodech na to, co je v NR nové a důležité:
 4.  **Nové modulační schéma** - NR zavádí **256QAM** pro downlink i uplink, oproti LTE, které používalo 64QAM pro uplink. Je to opravdu znatelný rozdíl v efektivitě umožňující přenos většího množství dat ve stejném spektrálním prostoru.
 5.  Podpora **mmWave frekvencí** Jednou z nejvýznamnějších inovací NR je podpora mmWave frekvencí (24 GHz a výše). To otevírá zcela nové možnosti pro ultra-vysokorychlostní přenosy dat, ale zároveň přináší nové výzvy v oblasti pokrytí.
 6.  **Nativní podpora nízké latence** - NR je navržen s ohledem na ultra-nízkou latenci ([URLLC - Ultra-Reliable Low-Latency Communication](/mobilnisite/urllc/)). To zahrnuje kratší intervaly přenosu (TTI) a možnost přednostního zpracování kritických dat.
-7.  **[Network Slicing](/mobilnisite/network-slicing-5g/)** - Ačkoli není výhradně součástí rádiového rozhraní, NR je navržen s ohledem na [network slicing](/mobilnisite/network-slicing-5g/). To umožňuje vytvoření virtuálních sítí s různými charakteristikami na stejné fyzické infrastruktuře. Pro každý typ služby používané v mobilní síti a tedy pro uživatele používajícího momentálně tuto službu lze zvolit jen ty části sítě, které jsou pro obsluhu takové služby bezpodmínečně nutné - a tím urychlit provoz i snížit nároky na síť.
+7.  **[[Network Slicing](/mobilnisite/network-slicing-5g/)](/mobilnisite/network-slicing-5g/)** - Ačkoli není výhradně součástí rádiového rozhraní, NR je navržen s ohledem na [network slicing](/mobilnisite/network-slicing-5g/). To umožňuje vytvoření virtuálních sítí s různými charakteristikami na stejné fyzické infrastruktuře. Pro každý typ služby používané v mobilní síti a tedy pro uživatele používajícího momentálně tuto službu lze zvolit jen ty části sítě, které jsou pro obsluhu takové služby bezpodmínečně nutné - a tím urychlit provoz i snížit nároky na síť.
 8.  **Nová architektura sítě** NR přináší možnost samostatného (SA Standalone) nebo nesamostatného (NSA Non Standalone) nasazení. NSA využívá existující LTE infrastrukturu pro řídící rovinu, zatímco SA představuje čistě 5G řešení. Toto lze přirovnat k hybridnímu automobilu (NSA) versus plně elektrickému vozidlu (SA).
 
 Když jsme u těch nových frekvencí mmWave, jaká je představa, kde a jaké frekvence se budou používat?
@@ -46,7 +46,7 @@ Hlavní uživatelské rozdíly mezi  5G NR a LTE:
 1.  Spektrální efektivita: NR dosahuje až 30% zlepšení spektrální efektivity oproti LTE.
 2.  Latence: NR cílí na latenci pod 1 ms, oproti ~10 ms u LTE. 
 3.  Připojená zařízení: NR podporuje až 1 milion zařízení na km², oproti ~100,000 u LTE.
-4.  Rychlost přenosu dat: NR umožňuje teoretické rychlosti až 20 Gbps, zatímco [LTE-Advanced](/mobilnisite/3gpp-release-10/) dosahuje maximálně 1 Gbps.
+4.  Rychlost přenosu dat: NR umožňuje teoretické rychlosti až 20 Gbps, zatímco [[LTE-Advanced](/mobilnisite/3gpp-release-10/)](/mobilnisite/3gpp-release-10/) dosahuje maximálně 1 Gbps.
     
 Pro jaké aplikace se 5G NR hodí?
 
@@ -83,23 +83,23 @@ NR (New Radio) se v následujících vydáních 3GPP po Release 15 dále vyvíj�
 1. NR-Unlicensed (NR-U): Rozšíření NR do nelicencovaného spektra.
 2. Vylepšení URLLC: Další snížení latence a zvýšení spolehlivosti.
 3. Vehicle-to-Everything (V2X): Pokročilá podpora pro automobilové aplikace.
-4. [Integrated Access and Backhaul](/item/integrated_access_and_backhaul_iab_5G/) ([IAB](/item/integrated_access_and_backhaul_iab_5G/)): Umožňuje 5G základnovým stanicím fungovat jako relay pro backhaul.
+4. [[Integrated Access and Backhaul](/item/integrated_access_and_backhaul_iab_5G/)](/item/integrated_access_and_backhaul_iab_5G/) ([[IAB](/item/integrated_access_and_backhaul_iab_5G/)](/item/integrated_access_and_backhaul_iab_5G/)): Umožňuje 5G základnovým stanicím fungovat jako relay pro backhaul.
 5. Positioning: Vylepšené možnosti určování polohy v NR sítích.
 6. MIMO vylepšení: Další zdokonalení multi-user MIMO.
 7. 2-step RACH: Zjednodušený přístupový proces pro snížení latence.
 
 ### Release 17 (2022):
 
-1. NR-Light ([RedCap](/mobilnisite/redcap/)): Podpora zařízení se sníženými schopnostmi pro IoT aplikace.
+1. NR-Light ([[RedCap](/mobilnisite/redcap/)](/mobilnisite/redcap/)): Podpora zařízení se sníženými schopnostmi pro IoT aplikace.
 2. NR nad 52.6 GHz: Rozšíření podpory do vyšších frekvenčních pásem.
-3. [Non-Terrestrial Networks (NTN)](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/): Podpora pro satelitní a vzdušné platformy.
+3. [[Non-Terrestrial Networks](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/) ([NTN](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/))](/mobilnisite/non-terrestrial-networks-ntn-5G-nezemske-site/): Podpora pro satelitní a vzdušné platformy.
 4. Multi-SIM: Vylepšená podpora pro zařízení s více SIM kartami.
 5. Sidelink vylepšení: Rozšířené možnosti pro přímou komunikaci mezi zařízeními.
 6. Vylepšení pro průmyslový IoT a [URLLC](/mobilnisite/urllc/).
 7. Multicast a broadcast služby: Efektivnější distribuční mechanismy.
 8. AI/ML integrace do rádiového rozhraní.
 
-### Release 18 (2024) - První vydání [5G-Advanced](/item/5G_advanced_3GPP_Release-18/):
+### Release 18 (2024) - První vydání [[5G-Advanced](/item/5G_advanced_3GPP_Release-18/)](/item/5G_advanced_3GPP_Release-18/):
 
 1. Další rozšíření AI/ML v RAN: Včetně AI/ML pro beamforming, MIMO a další RF technologie.
 2. Rozšířené imersivní komunikace: Podpora pro XR (Extended Reality) aplikace.
@@ -116,6 +116,6 @@ Tyto technologie a vylepšení nejen dále zdokonalují základní schopnosti NR
 
 Jsou také technologie, které se v rámci návrhu NR zvažovaly a nakonec zavrhly. Například OFDMA mohla nahradit či doplnit jako přístupová metoda  NOMA (Non-Orthogonal Multiple Access). Ta nabízela v řadě scénářů lepší efektivitu využití rádiového spektra, než OFDMA, ale také vyžadovala dražší hardware a především, není zpětně kompatibilní s LTE, což byl jeden z hlavních požadavků. Kromě toho NOMA není příliš přesvědčivá v podmínkách vysokého poměru signálu k šumu. A nakonec tu byly patentové problémy. A tak se prosadil pohled, že zejména další rozvoj MIMO a beamformingu výhody NOMA převáží v rozvoji OFDMA. Což ale není definitivní konec, aspekty NOMA jsou dále zkoumány a mohou se ve standardu objevit později, podobně jako například Filtrovaná OFDM (f-OFDM) nebo Full Duplex Radio.
 
-A ještě se podívejme na jednu věc. Jaký je vztah mezi NR a RAN, například C-RAN nebo [Open RAN](/mobilnisite/epc-evolved-packet-core-lte/)?  NR a C-RAN jsou dvě různé, ale vzájemně se doplňující technologie v ekosystému 5G. NR definuje "jak" komunikovat na rádiové úrovni, zatímco C-RAN poskytuje flexibilní a škálovatelnou architekturu pro "kde" a "jak efektivně" implementovat zpracování signálu. Jejich kombinace umožňuje plné využití potenciálu 5G sítí, poskytuje flexibilitu, výkon a efektivitu potřebnou pro podporu širokého spektra 5G use cases a služeb.
+A ještě se podívejme na jednu věc. Jaký je vztah mezi NR a RAN, například C-RAN nebo [[[Open RAN](/mobilnisite/epc-evolved-packet-core-lte/)](/mobilnisite/epc-evolved-packet-core-lte/)](/mobilnisite/epc-evolved-packet-core-lte/)?  NR a C-RAN jsou dvě různé, ale vzájemně se doplňující technologie v ekosystému 5G. NR definuje "jak" komunikovat na rádiové úrovni, zatímco C-RAN poskytuje flexibilní a škálovatelnou architekturu pro "kde" a "jak efektivně" implementovat zpracování signálu. Jejich kombinace umožňuje plné využití potenciálu 5G sítí, poskytuje flexibilitu, výkon a efektivitu potřebnou pro podporu širokého spektra 5G use cases a služeb.
 
 A to je ze základů New Radio pro 5G zatím všechno 😇

@@ -26,6 +26,6 @@ Napsteru nakonec nejvíce zavařila skupina Metallica. Její bubeník Lars Ulric
 
 Revoluce v digitálním šíření hudby se tím nezastavila, naopak začala. Apple případ využil jako odrazový můstek pro svou službu iTunes i iPody, na které hudební průmysl do té doby neslyšel. Později vznikly služby jako Spotify nebo Netflix, které přímo na digitální šíření médií navázaly.
 
-Parker se později stal prvním prezidentem Facebooku, investoval do Spotify a založil Parkerův institut pro imunoterapii rakoviny. Fanning spustil chatovací službu Airtime, která měla otřesný ohlas kvůli nedodělanosti. V roce 2013 založil Helium Systems, decentralizovaný IoT systém s LoRa sítí placený [tokeny](/ai/tokeny-versus-slova/). Firmě se zatím nijak zvláště nedaří.
+Parker se později stal prvním prezidentem Facebooku, investoval do Spotify a založil Parkerův institut pro imunoterapii rakoviny. Fanning spustil chatovací službu Airtime, která měla otřesný ohlas kvůli nedodělanosti. V roce 2013 založil Helium Systems, decentralizovaný IoT systém s LoRa sítí placený [[tokeny](/ai/tokeny-versus-slova/)](/ai/tokeny-versus-slova/). Firmě se zatím nijak zvláště nedaří.
 
 Pro více kontextu doporučím přečíst můj článek [Smutná čísla o smrti hudebního průmyslu](https://www.lupa.cz/clanky/smutna-cisla-o-smrti-hudebniho-prumyslu/) z roku 2011 na Lupě.

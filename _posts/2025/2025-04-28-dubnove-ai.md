@@ -10,12 +10,10 @@ post_excerpt: Čínské společnosti představily nové konkurenty pro západní
   technologiemi. Pojďme se podívat na nejdůležitější oznámení, která formují budoucnost
   umělé inteligence.
 summary_points:
-- Baidu představil cenově výhodné modely ERNIE 4.5 Turbo a ERNIE X1 Turbo s konkurenceschopnými
-  cenami a výkonem.
-- OpenAI rozšířil přístup k Deep Research Mini a představil GPT-Image-1 pro generování
-  obrázků.
-- xAI vylepšil Grok o dlouhodobou paměť, multimodální funkce a reálné vyhledávání.
-- Čína posiluje soběstačnost v AI s novými čipy Huawei a vládní podporou vývoje.
+- Čínské společnosti představují levné AI modely konkurující západním.
+- OpenAI rozšiřuje funkce a zpřístupňuje pokročilé nástroje.
+- Menší hráči přinášejí inovace v generování obrazu a zvuku.
+- Čína usiluje o soběstačnost v AI a vyvíjí vlastní čipy.
 thumbnail: https://contarctica.com/wp-content/uploads/2024/01/Grok_AI-uai-1920x960.jpg
 title: Čínské AI posiluje, vlastní GPU nadohled. A další dubnové novinky v AI aplikacích
 ---
@@ -24,15 +22,15 @@ Pojďme se podívat na průlet novinkami v AI na druhou půlku dubna. A ano, má
 
 ### Baidu: Cenově dostupné "Turbo" modely
 
-Čínský technologický gigant Baidu vstupuje do přímé konkurence s OpenAI a [DeepSeek](/item/deepseek/) prostřednictvím svých nových cenově výhodných modelů ERNIE 4.5 Turbo a ERNIE X1 Turbo.
+Čínský technologický gigant Baidu vstupuje do přímé konkurence s OpenAI a [[DeepSeek](/item/deepseek/)](/item/deepseek/) prostřednictvím svých nových cenově výhodných modelů ERNIE 4.5 Turbo a ERNIE X1 Turbo.
 
-ERNIE 4.5 Turbo nabízí pokročilé multimodální schopnosti za pouhých 11 centů a 44 centů za milion vstupních/výstupních tokenů, což představuje pouhých 0,2 % ceny GPT-4.5. Model vyniká rychlostí, logickým uvažováním, redukcí halucinací a programovacími schopnostmi. Podle benchmarků obstojí ve srovnání s GPT-4.1 a v některých měřeních dokonce překonává GPT-4o.
+ERNIE 4.5 Turbo nabízí pokročilé multimodální schopnosti za pouhých 11 centů a 44 centů za milion vstupních/výstupních [tokenů](/ai/tokeny-versus-slova/), což představuje pouhých 0,2 % ceny GPT-4.5. Model vyniká rychlostí, logickým uvažováním, redukcí [halucinací](/ai/halucinace-ai/) a programovacími schopnostmi. Podle benchmarků obstojí ve srovnání s GPT-4.1 a v některých měřeních dokonce překonává GPT-4o.
 
 ERNIE X1 Turbo, navržený pro hloubkové přemýšlení s vylepšenými schopnostmi řetězení myšlenek (chain-of-thought), se prodává za 14 centů a 55 centů za milion vstupních/výstupních tokenů, čímž překonává modely DeepSeek R1 a V3 nejen výkonem, ale i cenou, která je jen zlomkem ceny jeho předchůdce.
 
 Baidu současně oznámilo několik nových AI aplikací. Nejpozoruhodnější je Xinxiang, aplikace pro multi-agentní spolupráci, která transformuje jednotlivé pokyny do kompletních pracovních postupů napříč 200 typy úloh, s plány na rozšíření až na 100 000. Společnost také představila nový operační systém Cangzhou OS, který usnadňuje multimodální vytváření poznámek.
 
-Svou AI Open Initiative a standard [MCP](/ai/mcp/) společnost Baidu cílí na usnadnění vývoje aplikací na těchto modelech. Jak uvedl Robin Li na konferenci Baidu Create 2025: "Modely jsou důležité, ale skutečnými vítězi budou aplikace, které je oživí."
+Svou AI Open Initiative a standard [[MCP](/ai/mcp/)](/ai/mcp/) společnost Baidu cílí na usnadnění vývoje aplikací na těchto modelech. Jak uvedl Robin Li na konferenci Baidu Create 2025: "Modely jsou důležité, ale skutečnými vítězi budou aplikace, které je oživí."
 
 ### OpenAI: Rozšíření funkcí a přístupnosti
 
@@ -51,7 +49,7 @@ Nové limity:
 
 #### GPT-Image-1
 
-OpenAI zveřejnilo svůj nový model pro generování obrázků v API. Model, který dokáže pracovat jak s textem, tak s obrázky, pohání funkci vytváření obrázků, která byla spuštěna v ChatGPT na konci března a uživatelé s ní během prvního týdne vytvořili přes 700 milionů obrázků. Pro vývojáře je model dostupný za cenu 5 USD za milion textových tokenů, 10 USD za vstupní obrazové tokeny a 40 USD za výstupní obrazové tokeny.
+OpenAI zveřejnilo svůj nový model pro generování obrázků v API. Model, který dokáže pracovat jak s textem, tak s obrázky, pohání funkci vytváření obrázků, která byla spuštěna v ChatGPT na konci března a uživatelé s ní během prvního týdne vytvořili přes 700 milionů obrázků. Pro vývojáře je model dostupný za cenu 5 USD za milion textových tokenů, 10 USD za vstupní obrazové [tokeny](/ai/tokeny-versus-slova/) a 40 USD za výstupní obrazové tokeny.
 
 #### Aktualizace GPT-4o
 

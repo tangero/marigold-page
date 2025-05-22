@@ -14,14 +14,10 @@ post_excerpt: Projekt OpenEuroLLM vznikl jako evropská iniciativa pro vývoj ot
   Evropy v oblasti umělé inteligence. Bude to průšvih nebo má šanci - a jaké je jeho
   nastavení?
 summary_points:
-- OpenEuroLLM je evropský projekt pro vývoj otevřených LLM s rozpočtem 37 milionů
-  eur.
-- Projektu OpenEuroLLM se účastní 20 evropských institucí, firem a výpočetních center,
-  koordinuje ho Univerzita Karlova.
-- EU hodlá mobilizovat až 200 miliard eur na investice do AI, OpenEuroLLM má být jen
-  rozjezd.
-- Evropský LLM model by mohl být "no-brainer" varianta pro firmy díky datové suverenitě
-  a podpoře evropských jazyků.
+- OpenEuroLLM je evropský projekt pro vývoj otevřených jazykových modelů.
+- Projekt zahájen 1. února 2025 s cílem pokrýt všechny jazyky EU.
+- Projekt získal 37 milionů Euro od Evropské komise na rozjezd.
+- Účastní se 20 evropských institucí, firem a výpočetních center.
 thumbnail: https://www.marigold.cz/assets/openeurollm.png
 title: Evropa zatoužila po vlastním LLM. Bude OpenEuroLLM průšvih nebo má šanci?
 ---
@@ -61,7 +57,7 @@ Podobně vznikla celá řada nutných prerekvizit, jako je třeba superpočíta�
 
 Do toho je zde partnerství s komerčními firmami. Výslovně zmíněné jsou tři, přičemž o významu německého Aleph Alpha jsme si již něco řekli. A co finské AMD Silo AI? Dnes je to přední soukromá AI laboratoř, která vytvořila open-source multilingvální modely Poro a Viking zaměřené na skandinávské jazyky. Silo AI dále vyvinulo platformu SiloGen pro vytváření a nasazování zákaznických LLM a integraci s firemními aplikacemi. A má svůj vlastní Silo Operating System umožňující rychlé uvádění AI nástrojů do praxe. A francouzský LightsOn? Firma se sice zaměřuje na adaptivní osvětlovací systémy a energeticky efektivní řešení, používá v nich ale AI. Sama si vytvořila velmi efektivní model Alfred a se svým nástrojem Paradigm se zaměřuje na generativní AI pro podniky. Před měsíce představilo také agenta Lunious Lynx zaměřeného na zpracování dokumentů. 
 
-Jenže postavit funkční LLM není možné tak, že dáte na hromadu zdrojáky, které vznikly někde na univerzitách a „spojíte je gumičkou“. Je to tvrdý vývoj a testování, něco zcela jiného, než na co jsou akademická pracoviště zvyklá. Asi i proto je tu jako „spoluvedoucí“ projektu Peter Sarlin z AMD Silo AI. Sarlin Silo AI spoluzakládal, dlouhá léta firmě šéfoval a vloni ji dovedl k prodeji procesorovému gigantu AMD za 665 milionů dolarů. Je uznávaným odborníkem na AI, dnes je profesorem na finské Aalto University, kde se specializuje na [strojové učení](/ai/strojove-uceni-machine-learning/) a umělou inteligenci. 
+Jenže postavit funkční LLM není možné tak, že dáte na hromadu zdrojáky, které vznikly někde na univerzitách a „spojíte je gumičkou“. Je to tvrdý vývoj a testování, něco zcela jiného, než na co jsou akademická pracoviště zvyklá. Asi i proto je tu jako „spoluvedoucí“ projektu Peter Sarlin z AMD Silo AI. Sarlin Silo AI spoluzakládal, dlouhá léta firmě šéfoval a vloni ji dovedl k prodeji procesorovému gigantu AMD za 665 milionů dolarů. Je uznávaným odborníkem na AI, dnes je profesorem na finské Aalto University, kde se specializuje na [[strojové učení](/ai/strojove-uceni-machine-learning/)](/ai/strojove-uceni-machine-learning/) a umělou inteligenci. 
 
 ### Varování v podobě projektu OpenWebSearch
 

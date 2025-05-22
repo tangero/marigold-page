@@ -89,7 +89,7 @@ Vývojáři OpenAI si díky tomuto nástroji vytvářejí nové pracovní návyk
 Současně s uvedením Codexu OpenAI vydává menší verzi codex-1, která je verzí o4-mini optimalizovanou specificky pro Codex CLI. Tento model podporuje rychlejší pracovní postupy v CLI a je optimalizován pro dotazy a úpravy kódu s nízkou latencí.
 
 Model je dostupný jako výchozí v Codex CLI a v API jako codex-mini-latest. Cenově je nastaven na:
-- $1.50 za 1M vstupních tokenů
+- $1.50 za 1M vstupních [[[tokenů](/ai/tokeny-versus-slova/)](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/)](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/)
 - $6 za 1M výstupních tokenů
 - 75% sleva při cachování promptů
 

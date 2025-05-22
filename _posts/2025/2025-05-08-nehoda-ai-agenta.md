@@ -8,10 +8,10 @@ layout: post
 post_excerpt: Nebudete věřit, co se stalo, když zadal nedobře odladěnému autonomnímu
   agentovi nákupní pokyn a svou platební kartu. Už nikdy nebudete klidně spát!
 summary_points:
-- Autonomní agent koupil špatné vstupenky kvůli chybě v zadání.
-- Rychlé nasazení AI agentů může vést k vážným chybám a katastrofám.
-- Seniorní management musí umět přetavit neúspěch v příležitost.
-- AI agenti mohou dělat chyby od špatných nákupů po vážné bezpečnostní problémy.
+- AI agent koupil špatné divadelní lístky.
+- Agent měl koupit lístky na hru Járy Cimrmana.
+- Koupená hra nebyla od Járy Cimrmana.
+- Seniorní management musí řešit chyby AI agentů.
 thumbnail: https://www.marigold.cz/assets/nehoda-ai-agenta.png
 title: První česká tragédie prostřednictvím autonomního AI agenta
 ---
@@ -22,7 +22,7 @@ V jednom ze svých nedávných newsletterů jsem psal, že nedeterministické ch
 
 Když jsem zkoušel první agenty vytvořené v AI, dělal jsem v tom nenáročné operace typu "najdi na stránkách obcí cenu za svoz odpadu a další podmínky". A byl jsem vlastně spokojen. Pak jsem se rozhodl, že technologie je otestovaná, takže ji mohu nasadit i na nějaký klíčový úkol, kdy AI agenta vybavím napojením na živé systémy a mojí platební kartou. Vím, školácká chyba, ale bylo to nutné prověřit na vlastní kůži. A tak jsem agentovi zadal úkol hlídat stránky Žižkovského divadla Járy Cimrmana a v momentě, kdy budou dostupné vstupenky na nějakou cimrmanovskou hru, jich šest zakoupit, abych mohl vyrazit s dětmi. Proto ta platební karta. 
 
-Úspěch se dostavil o dva dny později, kdy mi cinkla notifikace, že biletky jsou úspěšně zakoupeny a můžeme za dva měsíce jít na hru. Dlužno říct, že hra [Nohy z jílu](https://zdjc.cz/cs/program/nohy-z-jilu/) mi nebyla příliš známá, ačkoliv jistě povědomá. Nicméně nejsem velký znalec cimrmanova kánou a venkoncem, proč by nemohl napsat hru z prostředí státní správy. No, nebudu vás napínat, hru uvádělo hostující [Divadlo Aqualung](http://divadloaqualung.cz) a s Cimrmanem neměla nic společného, jen se hrála také v Žižkovském divadle. AI agent prostě zklamal. 
+Úspěch se dostavil o dva dny později, kdy mi cinkla notifikace, že biletky jsou úspěšně zakoupeny a můžeme za dva měsíce jít na hru. Dlužno říct, že hra [Nohy z jílu](https://zdjc.cz/cs/program/nohy-z-jilu/) mi nebyla příliš známá, ačkoliv jistě povědomá. Nicméně nejsem velký znalec cimrmanova kánou a venkoncem, proč by nemohl napsat hru z prostředí státní správy. No, nebudu vás napínat, hru uvádělo hostující [Divadlo Aqualung](http://divadloaqualung.cz) a s Cimrmanem neměla nic společného, jen se hrála také v Žižkovském divadle. [AI agent](/ai/agenti/) prostě zklamal. 
 
 No a teď k té úloze seniorního managementu. Dětem jsem vysvětlil výhodu možnosti jít na moderní divadelní pojetí hry Terryho Pratcheta ze zeměplošského cyklu, všem se hra líbila a všichni si dokonce vyžádali, abychom šli i na další díl. 
 

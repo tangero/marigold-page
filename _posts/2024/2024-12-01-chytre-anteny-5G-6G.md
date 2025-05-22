@@ -34,7 +34,7 @@ Technologie **Smart Array** umožňuje dynamicky měnit směr signálu na zákla
 
 Technologie Smart Array sestává z několika anténních prvků uspořádaných do pole. Tyto prvky spolupracují tak, aby umožnily dynamicky měnit směr signálu. Každý prvek pole může měnit fázi a amplitudu signálu, což dohromady vytváří výsledný paprsek, který je možné směrovat do konkrétních oblastí.
 
-Ve skutečnosti to vypadá jako deska s více anténami, která je schopná pomocí pokročilých algoritmů (jako je [strojové učení](/ai/strojove-uceni-machine-learning/) a analýza signálu) směřovat paprsky podle aktuálních potřeb sítě a uživatelů. Takový přístup zlepšuje výkon, snižuje rušení a zvyšuje energetickou efektivitu, což je důležité zejména v městských oblastech, kde je vysoká hustota uživatelů.
+Ve skutečnosti to vypadá jako deska s více anténami, která je schopná pomocí pokročilých algoritmů (jako je [[strojové učení](/ai/strojove-uceni-machine-learning/)](/ai/strojove-uceni-machine-learning/) a analýza signálu) směřovat paprsky podle aktuálních potřeb sítě a uživatelů. Takový přístup zlepšuje výkon, snižuje rušení a zvyšuje energetickou efektivitu, což je důležité zejména v městských oblastech, kde je vysoká hustota uživatelů.
 
 ![Smart Array - jak to vypadá](/assets/smart-array.jpg)
 
@@ -111,7 +111,7 @@ Jak se tato technologie liší od **Smart Array? SA** umožňuje dynamicky měni
 
 ### Energetická efektivita a úspora zdrojů
 
-Jedním z hlavních cílů při návrhu chytrých antén pro sítě 5G a 6G je zajištění energetické efektivity. To zahrnuje nejen snížení spotřeby energie samotných antén, ale také optimalizaci vysílacího výkonu tak, aby byl signál co nejlépe směrován na uživatele a minimalizovaly se ztráty. Technologie jako **Low-Power Wake-up Signál (LP-WUS)** a **Přijímač (LP-WUR)**, které byly zahrnuty v [3GPP Release 19](/mobilnisite/3gpp-release-19/), umožňují zařízení přejít do energeticky úsporného režimu a aktivovat se pouze v případě potřeby, což výrazně snižuje spotřebu energie.
+Jedním z hlavních cílů při návrhu chytrých antén pro sítě 5G a 6G je zajištění energetické efektivity. To zahrnuje nejen snížení spotřeby energie samotných antén, ale také optimalizaci vysílacího výkonu tak, aby byl signál co nejlépe směrován na uživatele a minimalizovaly se ztráty. Technologie jako **Low-Power Wake-up Signál (LP-WUS)** a **Přijímač (LP-WUR)**, které byly zahrnuty v [[3GPP Release 19](/mobilnisite/3gpp-release-19/)](/mobilnisite/3gpp-release-19/), umožňují zařízení přejít do energeticky úsporného režimu a aktivovat se pouze v případě potřeby, což výrazně snižuje spotřebu energie.
 
 **Green Communications** je další koncept, který se stále více uplatňuje při návrhu antén a infrastruktury pro sítě nové generace. Tento koncept se zaměřuje na minimalizaci energetické stopy sítí, což zahrnuje použití obnovitelných zdrojů energie, optimalizaci výkonu antén a využití inteligentních algoritmů pro správu energie. Společnost **Nokia** například vyvinula systém, který umožňuje dynamicky měnit výkon antén v závislosti na zatížení sítě a požadavcích uživatelů, čímž se dosahuje značných úspor energie.
 
@@ -119,7 +119,7 @@ Jedním z hlavních cílů při návrhu chytrých antén pro sítě 5G a 6G je z
 
 Umělá inteligence (AI) a [strojové učení](/ai/strojove-uceni-machine-learning/) (ML) se stávají neoddělitelnou součástí návrhu a správy chytrých antén. AI umožňuje analyzovat obrovské množství dat ze sítě, jako jsou informace o poloze uživatelů, síle signálu nebo stavu připojení, a na základě těchto dat optimalizovat směrování signálu v reálném čase. AI se také používá k predikci pohybu uživatelů, což umožňuje předem přizpůsobit parametry antén a zajistit tak stabilní a kvalitní připojení.
 
-**DeepMind**, dceřiná společnost Google, pracuje na vývoji algoritmů [strojového učení](/ai/strojove-uceni-machine-learning/), které mohou být použity pro optimalizaci výkonu chytrých antén. Tyto algoritmy umožňují anténám samostatně se učit a přizpůsobovat na základě měnících se podmínek v síti, což zlepšuje jejich schopnost zvládat složité scénáře a zvyšuje efektivitu přenosu.
+**DeepMind**, dceřiná společnost Google, pracuje na vývoji algoritmů [[strojového učení](/ai/strojove-uceni-machine-learning/)](/ai/strojove-uceni-machine-learning/), které mohou být použity pro optimalizaci výkonu chytrých antén. Tyto algoritmy umožňují anténám samostatně se učit a přizpůsobovat na základě měnících se podmínek v síti, což zlepšuje jejich schopnost zvládat složité scénáře a zvyšuje efektivitu přenosu.
 
 ### Holografické antény
 

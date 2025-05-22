@@ -22,7 +22,7 @@ Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, 
 
 Programování má oproti mnoha jiným tvůrčím postupům zásadní nevýhodu: něco o tom musíte vědět. Pokud si otevřete vývojové prostředí, musíte tušit, jak za sebe skládat příkazy a dokud to neuděláte správně, nic nefunguje. Když budete chtít psát nebo kreslit, tak možná nenapíšete nebo nenakreslíte nic extra hezkého, ale nějak to bude fungovat. U programování ne - buďto víte, jak na to, nebo neuděláte ani prd.
 
-> Článek **o nástrojích pro [programování s AI](/item/programovani-s-ai/) pro neprogramátory** [s detailními informacemi najdete zde](/item/programovani-s-ai/). 
+> Článek **o nástrojích pro [[programování s AI](/item/programovani-s-ai/)](/item/programovani-s-ai/) pro neprogramátory** [s detailními informacemi najdete zde](/item/programovani-s-ai/). 
 
 To ale AI mění. Pokud si předplácíte ChatGPT nebo Claude, můžete nechat umělou inteligenci vytvořit za vás i velmi rozsáhlé programy. Začít je samozřejmě lepší drobnějšími scripty a trochu se s celou věcí seznámit.
 
@@ -301,7 +301,7 @@ Jak vidíte, postup není na první pohled zcela vhodný pro vývoj rozsáhlých
 
 Jak byste měli postupovat dále s rozvojem vaší aplikace? Zpřesňovat a rozšiřovat zadání. Tak například si můžete přát, aby aplikace doplnila stránku, na níž budou vypsané hashtagy podle četnosti použití. Můžete si přát doplnit vzhled aplikace o Material UI společnosti Google nebo cokoliv jiného. Ale je to krok za krokem. Nechtějte v jednom úkolu změnit jak UI, tak přidat novou stránku. Nejdříve jedno, pak druhé. 
 
-V jednu chvíli se vám také může stát, že přesáhnete kontextové okno a AI vám z úlohy vyloučí něco, co jste již dříve měli vyřešené, nebo to vyřeší znova a jinak. Například mi sice vytvoří CSS s definicí stylu, ale úpravy v HTML kódu mi nechá pro staré CSS. Tady se hodí zkušenost s programováním, kdy sami odhalíte podstatu chyby, znovu do AI nahrajete všechny dotčené soubory a necháte jej vše opravit. Takové Claude 3.5 má kontextové okno na cca 200 tisíc [tokenů](/ai/[tokeny](/tokeny/)-versus-slova/), 
+V jednu chvíli se vám také může stát, že přesáhnete kontextové okno a AI vám z úlohy vyloučí něco, co jste již dříve měli vyřešené, nebo to vyřeší znova a jinak. Například mi sice vytvoří CSS s definicí stylu, ale úpravy v HTML kódu mi nechá pro staré CSS. Tady se hodí zkušenost s programováním, kdy sami odhalíte podstatu chyby, znovu do AI nahrajete všechny dotčené soubory a necháte jej vše opravit. Takové Claude 3.5 má kontextové okno na cca 200 tisíc [[tokenů](/ai/tokeny-versus-slova/)](/ai/[[tokeny](/ai/tokeny-versus-slova/)](/tokeny/)-versus-slova/), 
 
 Snadno se vám v Claude také může stát, že narazíte na limit dlouhých zadání a budete si muset odpočinout. Limit je v Claude závislý na zátěži a vašem tarifu, obecně mi třech-čtyřech hodinách aktivního "párového programování" dávám pauzičku 😇
 

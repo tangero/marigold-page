@@ -12,13 +12,10 @@ post_excerpt: Před měsícem vyšla výzkumná zpráva, tento týden vymazal bi
   a způsobil na trhu paniku, protože podstatně levněji udělal něco, čím předstihl
   své dražší a slavnější americké konkurenty. Co se stalo a co to znamená pro AI vývoj?
 summary_points:
-- Vance vidí AI jako revoluční nástroj pro ekonomiku, bezpečnost, zdravotnictví a
-  svobodu projevu.
-- Trumpova administrativa chce deregulovat AI, aby podpořila inovace a konkurenceschopnost
-  USA.
-- Administrativa zajistí, že americká AI nebude ideologicky zaujatá a bude chráněna
-  před zneužitím.
-- AI má doplňovat práci, zvyšovat produktivitu a vyžaduje budování energetické infrastruktury.
+- Trumpova administrativa vidí AI jako nástroj pro inovace a růst.
+- Přílišná regulace AI by mohla brzdit její rozvoj.
+- USA chtějí být lídrem v AI a spolupracovat s partnery.
+- AI by měla podporovat pracovníky, ne je nahrazovat.
 thumbnail: https://www.marigold.cz/assets/JD-Vance-Paris-summit-2025.jpg
 title: Projev viceprezidenta JD Vance na pařížském AI summitu 2025
 ---

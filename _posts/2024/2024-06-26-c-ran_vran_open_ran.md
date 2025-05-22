@@ -43,7 +43,7 @@ Tady je dlužno dodat, že až doposud základnové stanice při každém upgrad
 
 Dnešní základnové stanice obsahují dvě hlavní elektronické části, BBU a RFU. Nově se v Release 10 a pozdějších setkáváme s návrhem na rozdělení na BBU zpracovávající základní signál a RRH (Remote Radio Head), což je jednotka propojená koaxiálním a později optickým kabelem s anténním systémem a BBU a stará se o konverzi základního digitálního signálu do analogového na antény a opačně. V tomto případě jde ale o menší základnové stanice určené pro pokrytí poloměru několika málo kilometrů, což na druhou stranu v zatížených oblastech bude typický poloměr obsluhy základnové stanice. Zatímco modul RRH je umístěn u anténního systému, moduly BBU jsou v dosahu rychlého připojení, typicky v místě, ale i ve vzdálenosti 20-40 kilometrů tam, kde mohou být pro provozovatele sítě pohodlně dostupné.
 
-![Posun od D-RAN k C-RAN](/assets/dran-cran.png)
+![Posun od D-RAN k C-RAN](/assets/dran-[cran](/mobilnisite/epc-evolved-packet-core-lte/).png)
 
 Podstatnou změnou je vysunutí BBU z kontajneru základnové stanice do cloudu v jádru sítě.
 
@@ -54,14 +54,14 @@ Na této změně je podstatné si uvědomit několik změn:
 3.  Zjednodušuje to správu a zvyšuje možnost loadbalancingu a reakce na nestandardní zatížení sítě, které se stává stále standardnějším (=nejistota je nová jistota)
 4.  Zrychluje to datové služby snížením zpoždění a zvýšením kapacity, propustnosti.
 5.  Zvyšuje to potřebu propojovat základnové stanice optickým vláknem s jádrem sítě (což byl dodneška hlavní problém)
-6.  Klade to nároky na standardizaci interface mezi RRH a BBU a [EPC](/mobilnisite/epc-evolved-packet-core-lte/), což se snaží řešít interface OBSAI a ORI a dále dnes používané CPRI.
+6.  Klade to nároky na standardizaci interface mezi RRH a BBU a [[EPC](/mobilnisite/epc-evolved-packet-core-lte/)](/mobilnisite/epc-evolved-packet-core-lte/), což se snaží řešít interface OBSAI a ORI a dále dnes používané CPRI.
     
 
 Předpokladem je, že C-RAN bude v prvé fázi nasazován v lokacích, kde jsou vysoké nároky na přenosové rychlosti a pokrytí, tedy zejména pro metropolitní oblasti. Teoreticky by bylo možné pro C-RAN transparentně použít i jiné přístupové technologie, než LTE frekvence, třeba WiFi, návrhy toto zatím nijak neupravují a obnášelo by to podporu na mobilním zařízení. C-RAN je vhodný jak pro makro-buňky, tak pro malé buňky včetně těch uvnitř budov.
 
 Očekává se, že v první fázi nebude plošně nasazován C-RAN, ale že jedna BBU bude schopna obsluhovat více okolních RRH připojených optickým kabelem. Již dnes BBU podporují šest RRH, ovšem na jedné základně, do budoucna by měly být schopny obsluhovat i více RRH v rozdílných základnových stanicích.
 
-## V-RAN a [Open RAN](/mobilnisite/epc-evolved-packet-core-lte/)
+## V-RAN a [[[Open RAN](/mobilnisite/epc-evolved-packet-core-lte/)](/mobilnisite/epc-evolved-packet-core-lte/)](/mobilnisite/epc-evolved-packet-core-lte/)
 
 Vývoj architektury rádiové přístupové sítě ale šel rychle dále. Dalším posunem měla být širší propojitelnost. Tu výrazně posunul přechod Baseband Unit (BBU) z propriteráního hardware na běžné servery, které se nazývají COTS (zkratka pro Komerční produkty). Tím se zlevňuje výstavba sítě, protože lze použít jakýkoliv COTS, který provozovatel sítě uváží. Lze lépe škálovat, provoz sítě může být flexibilnější.  Software, který běží na BBU, je virtualizován tak, aby mohl běžet na jakémkoli serveru COTS. Proprietární rozhraní mezi rádii a jednotkou BBU založenou na COTS však zůstávají zachována. Ačkoli jsou tedy funkce RAN virtualizovány na serveru COTS (odtud též označení vRAN), rozhraní mezi BBU a RRU/RRH není otevřené, takže software jakéhokoli dodavatele nemůže s RRU/RRH pracovat, pokud se rozhraní nestanou otevřenými. V případě vRAN je tedy nutné použít stejného dodavatele pro rádio i pro software běžícího na COTS BBU. Provozovatel nemůže na stejnou COTS BBU umístit software jiného dodavatele, pokud rozhraní k rádiu není otevřené. VRAN tedy stále umožňuje vendor lock-in. Což je přesně to, co má postihnout další vývojový krok nazvaný Open RAN, tedy otevřená rádiová přístupová síť.
 
@@ -91,7 +91,7 @@ Tato tabulka shrnuje klíčové rozdíly mezi těmito třemi přístupy k archit
 
 ## Jak je to se specifikacemi a standardizací?
 
-V 3GPP Release 14 jsou zahájeny práce na rozdělení funkcí RAN, příprava na nové architektury včetně C-RAN. V Release 15 pak přistupuje  formální specifikace CU/DU, dokončuje se rozdělení pro [NG-RAN](/ng-ran/) a je tu první implementace virtualizovaných funkcí. V Release 16 je pak plná podpora vRAN. S ohledem na to, že Open RAN je vlastně otevřená a interoperabilní vRAN, je to s její specifikací trochu jinak.
+V 3GPP Release 14 jsou zahájeny práce na rozdělení funkcí RAN, příprava na nové architektury včetně C-RAN. V Release 15 pak přistupuje  formální specifikace CU/DU, dokončuje se rozdělení pro [[NG-RAN](/mobilnisite/epc-evolved-packet-core-lte/)](/ng-ran/) a je tu první implementace virtualizovaných funkcí. V Release 16 je pak plná podpora vRAN. S ohledem na to, že Open RAN je vlastně otevřená a interoperabilní vRAN, je to s její specifikací trochu jinak.
 
 Open RAN (O-RAN) není přímo specifikován v žádné konkrétní verzi 3GPP Release. Místo toho je O-RAN standardizován a vyvíjen prostřednictvím O-RAN Alliance, která definuje specifikace pro otevřená rozhraní mezi různými komponentami Radio Access Network (RAN). O-RAN Alliance spolupracuje s 3GPP na zajištění interoperability mezi otevřenými rozhraními a existujícími 3GPP specifikacemi.
 

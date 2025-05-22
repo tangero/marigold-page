@@ -6,13 +6,10 @@ categories:
 layout: post
 post_excerpt: A především, proč je tak drahé a zdlouhavé zvyšovat velikost kontextu?
 summary_points:
-- Kontext v LLM zahrnuje vstupní text, historii konverzace a další data pro generování
-  odpovědí.
-- Kvadratická složitost mechanismu pozornosti zvyšuje náklady a zpomaluje zpracování
-  dlouhých kontextů.
-- Řešení zahrnují optimalizace jako FlashAttention, řídkou pozornost a hybridní architektury.
-- RAG kombinuje externí vyhledávání s omezeným kontextem pro efektivní práci s rozsáhlými
-  daty.
+- Kontext v LLM je paměť modelu pro zpracování dat.
+- Délka kontextu ovlivňuje porozumění a kvalitu výstupu.
+- Kvadratická složitost pozornosti omezuje délku kontextu.
+- Výzkum hledá optimalizace a alternativní architektury pro delší kontext.
 thumbnail: https://www.marigold.cz/assets/llm-kontext.jpg
 title: Proč je velikost kontextu u LLM tak důležitá?
 ---
@@ -40,7 +37,7 @@ V případě LLM představuje kontext (context window) veškerá data, která m�
 5.  Vygenerovaný text: Část textu, kterou model sám postupně generuje jako odpověď.
     
 
-Délka kontextu, obvykle měřená v tokenech, definuje maximální množství informací, které model může současně zpracovat. Token je základní jednotka textu pro LLM, která může odpovídat slovu, části slova nebo interpunkčnímu znaménku (pro hlubší vysvětlení viz článek [Tokeny versus Slova](/ai/tokeny-versus-slova)).
+Délka kontextu, obvykle měřená v tokenech, definuje maximální množství informací, které model může současně zpracovat. Token je základní jednotka textu pro LLM, která může odpovídat slovu, části slova nebo interpunkčnímu znaménku (pro hlubší vysvětlení viz článek [Tokeny versus Slova](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova)).
 
 ### Význam délky kontextu pro kvalitu výstupu:
 
@@ -52,14 +49,14 @@ Délka kontextu, obvykle měřená v tokenech, definuje maximální množství i
     
 -   Zpracování komplexních úloh: Úlohy jako detailní analýza rozsáhlých reportů, knih nebo kódových bází vyžadují schopnost pojmout velké množství dat najednou.
     
--   Omezení "halucinací": Poskytnutí dostatečného kontextu může snížit tendenci modelu vymýšlet si informace, které nejsou ve vstupních datech.
+-   Omezení "[halucinací](/ai/halucinace-ai/)": Poskytnutí dostatečného kontextu může snížit tendenci modelu vymýšlet si informace, které nejsou ve vstupních datech.
     
 
 ### Aktuální velikosti kontextových oken a ceny (květen 2025)
 
 Velikost kontextového okna a cena jsou klíčové parametry při výběru modelu. Níže je uveden přehled některých populárních modelů s daty převážně z OpenRouter (duben 2025):
 
-| **Model** | **Kontextové okno (Max vstup)** | **Max. výstup** | **Cena vstupu ($/1M tokenů)** | **Cena výstupu ($/1M tokenů)** |
+| **Model** | **Kontextové okno (Max vstup)** | **Max. výstup** | **Cena vstupu ($/1M [tokenů](/ai/tokeny-versus-slova/))** | **Cena výstupu ($/1M tokenů)** |
 |-----------|----------------------------------|-----------------|-------------------------------|--------------------------------|
 | o3 (OpenAI) | 200 000 | 100 000 | $10.00 | $40.00 |
 | o4-Mini (OpenAI) | 200 000 | 100 000 | $1.10 | $4.40 |
@@ -72,7 +69,7 @@ Velikost kontextového okna a cena jsou klíčové parametry při výběru model
 | Llama 4 | 10 milionů | - | (Open Source) | (Open Source) |
 | Jamba-1.5 (AI21, OS) | 256 000 | - | (Open Source) | (Open Source) |
 
-Poznámka: Ceny se mohou lišit v závislosti na poskytovateli API (zde OpenRouter) a aktuálním vytížení. U Gemini 2.5 Pro jsou ceny uvedeny v rozsahu. Open-source modely nemají přímé ceny za token, ale náklady na jejich provoz. Hodnota u LLAMA 4 je velmi optimistická, model na to nebyl řádně testován a výsledky nejsou příliš kvalitní.
+Poznámka: Ceny se mohou lišit v závislosti na poskytovateli API (zde OpenRouter) a aktuálním vytížení. U Gemini 2.5 Pro jsou ceny uvedeny v rozsahu. Open-source modely nemají přímé ceny za [token](/ai/tokeny-versus-slova/), ale náklady na jejich provoz. Hodnota u LLAMA 4 je velmi optimistická, model na to nebyl řádně testován a výsledky nejsou příliš kvalitní.
 
   
 
@@ -108,7 +105,7 @@ Přesné časy zpracování závisí na mnoha faktorech (konkrétní model, hard
 -   Kontext 1 000 000 tokenů (jako u Gemini Pro, GPT-4.1): Vyžaduje řádově 10000002=1000000000000 (bilion) operací/paměťových jednotek. Doba zpracování se může pohybovat v řádu několika minut až desítek minut, silně závisí na optimalizacích a počtu použitých akcelerátorů.
     
 
-Tento kvadratický nárůst představuje obrovskou bariéru pro neomezené prodlužování kontextového okna u standardních transformátorů, jak z hlediska výpočetní náročnosti (čas), tak paměťových požadavků.
+Tento kvadratický nárůst představuje obrovskou bariéru pro neomezené prodlužování kontextového okna u standardních [transformátorů](/ai/transformatory/), jak z hlediska výpočetní náročnosti (čas), tak paměťových požadavků.
 
 ## Praktické důsledky kvadratické složitosti
 
@@ -137,11 +134,11 @@ Cílem tohoto přístupu je snížit počet párů tokenů, mezi kterými se po�
 
 Ačkoliv tyto metody mohou dosáhnout lineární (O(N)) nebo téměř lineární (O(NlogN)) výpočetní složitosti, kompromisem může být mírné snížení kvality modelu oproti plné pozornosti. Důvodem je, že předdefinované nebo aproximované vzory řídké pozornosti nemusí vždy dokonale zachytit všechny relevantní dlouhodobé závislosti v textu, které by plná pozornost identifikovala.
 
-### 3. Alternativní architektury (mimo transformátory)
+### 3. Alternativní architektury (mimo [transformátory](/ai/transformatory/))
 
 Hledání architektur, které nejsou založeny na standardní O(N2) pozornosti:
 
--   Rekurentní [neuronové sítě](/ai/neuronove-site/) (RNN) / LSTM / GRU: Tyto sítě představují starší přístup ke zpracování sekvencí, jehož kořeny sahají až do 80. a 90. let 20. století. Základní myšlenka RNN spočívá ve zpracování sekvence krok za krokem (token po tokenu), přičemž si síť udržuje vnitřní "stav" nebo "paměť", která shrnuje informace z předchozích kroků. Tento stav se aktualizuje při zpracování každého nového tokenu. Díky tomu má zpracování inherentně lineární výpočetní složitost (O(N)), protože výpočet pro každý token závisí pouze na aktuálním vstupu a předchozím stavu, nikoli na všech předchozích tokenech současně. Varianty jako LSTM (Long Short-Term Memory, Hochreiter & Schmidhuber, 1997) a GRU (Gated Recurrent Unit) byly vyvinuty později, aby řešily klíčový problém základních RNN: tzv. mizení nebo explozi gradientů (vanishing/exploding gradients), které bránily učení závislostí na dlouhé vzdálenosti v sekvenci. Přestože LSTM a GRU tento problém zmírnily pomocí speciálních "bran" (gates), které řídí tok informací a gradientů, stále měly své limity. Hlavní nevýhodou oproti transformátorům se ukázala být jejich sekvenční povaha, která znesnadňuje paralelizaci výpočtů během tréninku na moderním hardwaru (GPU/TPU). Transformátory, které mohou zpracovávat všechny tokeny v sekvenci víceméně paralelně díky mechanismu pozornosti, se tak staly efektivnější pro trénink na velkých datech a dosáhly lepších výsledků v mnoha úlohách. Moderní výzkum se však k RNN a jejich vylepšením částečně vrací, snaží se kombinovat jejich výhody (lineární složitost) s novými technikami pro zlepšení výkonu a paralelizace.
+-   Rekurentní [[neuronové sítě](/ai/neuronove-site/)](/ai/neuronove-site/) (RNN) / LSTM / GRU: Tyto sítě představují starší přístup ke zpracování sekvencí, jehož kořeny sahají až do 80. a 90. let 20. století. Základní myšlenka RNN spočívá ve zpracování sekvence krok za krokem (token po tokenu), přičemž si síť udržuje vnitřní "stav" nebo "paměť", která shrnuje informace z předchozích kroků. Tento stav se aktualizuje při zpracování každého nového tokenu. Díky tomu má zpracování inherentně lineární výpočetní složitost (O(N)), protože výpočet pro každý token závisí pouze na aktuálním vstupu a předchozím stavu, nikoli na všech předchozích tokenech současně. Varianty jako LSTM (Long Short-Term Memory, Hochreiter & Schmidhuber, 1997) a GRU (Gated Recurrent Unit) byly vyvinuty později, aby řešily klíčový problém základních RNN: tzv. mizení nebo explozi gradientů (vanishing/exploding gradients), které bránily učení závislostí na dlouhé vzdálenosti v sekvenci. Přestože LSTM a GRU tento problém zmírnily pomocí speciálních "bran" (gates), které řídí tok informací a gradientů, stále měly své limity. Hlavní nevýhodou oproti transformátorům se ukázala být jejich sekvenční povaha, která znesnadňuje paralelizaci výpočtů během tréninku na moderním hardwaru (GPU/TPU). Transformátory, které mohou zpracovávat všechny tokeny v sekvenci víceméně paralelně díky mechanismu pozornosti, se tak staly efektivnější pro trénink na velkých datech a dosáhly lepších výsledků v mnoha úlohách. Moderní výzkum se však k RNN a jejich vylepšením částečně vrací, snaží se kombinovat jejich výhody (lineární složitost) s novými technikami pro zlepšení výkonu a paralelizace.
     
 -   State Space Models (SSM): Třída modelů inspirovaná teorií řízení.
     

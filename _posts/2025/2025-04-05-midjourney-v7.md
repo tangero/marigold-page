@@ -11,16 +11,10 @@ post_excerpt: Midjourney vydal alfa verzi svého obrazového modelu V7, který p
   způsob interakce s nástrojem a zlepšující kvalitu výstupů. A už ho dost potřebovali
   vydat!
 summary_points:
-- Midjourney V7 je nový obrazový model s vylepšenou kvalitou a funkcionalitou.
-- Model V7 lépe zpracovává textové prompty a složitější instrukce.
-- Obrazové vstupy mají vyšší kvalitu s lepšími detaily a texturami.
-- V7 zlepšuje generování lidských těl a objektů oproti starším verzím.
-- Personalizace je nyní výchozí funkce, vyžaduje však časově náročnou inicializaci.
-- Draft Mode umožňuje rychlejší generování náčrtů za nižší náklady.
-- 'Model nabízí dva režimy: Turbo (rychlejší) a Relax (levnější).'
-- Midjourney plánuje pravidelné aktualizace a nové funkce včetně generování videa.
-- Uživatelé oceňují lepší detaily, Draft Mode a konzistentnější výsledky.
-- V7 je reakcí na konkurenci, ale Midjourney zůstává lídrem v AI generování obrazů.
+- Midjourney V7 zlepšuje porozumění textovým promptům.
+- V7 lépe zpracovává obrazové vstupy a detaily.
+- Nový Draft Mode umožňuje 10x rychlejší renderování.
+- Model V7 zavádí personalizaci jako výchozí funkci.
 thumbnail: https://www.marigold.cz/assets/midjourney-V7.png
 title: Midjourney V7 - Nová verze modelu pro AI generování obrazů
 ---

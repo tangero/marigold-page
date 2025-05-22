@@ -7,13 +7,13 @@ categories:
 - programování
 - vibe coding
 layout: post
-post_excerpt: Přehled AI nástrojů pro programování a [vibe coding](/vibe-coding/) podle jejich použití,
-  zaměření a výhod.
+post_excerpt: Přehled AI nástrojů pro programování a [vibe coding](/vibe-coding/)
+  podle jejich použití, zaměření a výhod.
 summary_points:
-- AI programování získává popularitu, nové nástroje se objevují denně.
-- Claude Code doporučen pro skripty, Databutton pro webové aplikace s milestony.
-- Cursor a Windsurf vhodné pro zkušené vývojáře s prostředím Visual Studio Code.
-- Seznam obsahuje 33 AI nástrojů pro programování s různými funkcemi a cenami.
+- AI nástroje pro programování jsou stále populárnější.
+- Existuje mnoho AI nástrojů pro různé typy programování.
+- Nástroje se liší vhodností pro začátečníky a zkušené vývojáře.
+- Výběr nástroje závisí na typu projektu a požadovaných funkcích.
 thumbnail: https://www.marigold.cz/assets/ai-development.png
 title: "\U0001F9E0 AI nástroje pro programování - přehled"
 ---
@@ -24,7 +24,7 @@ Tady se pokouším udělat větší seznam všech nástrojů. Musím říct, že
 
 Moje osobní doporučení:
 
-- pokud chcete jít "na jistotu" a zvládnete spouštění z příkazové řádky, rozhodně vyzkoušejte [Claude Code](https://www.marigold.cz/ai/claude-code/). A ten můj zalinkovaný článek vám pomůže jej pochopit. Ideální na scripty! 
+- pokud chcete jít "na jistotu" a zvládnete spouštění z příkazové řádky, rozhodně vyzkoušejte [[Claude Code](/ai/claude-code/)](https://www.marigold.cz/ai/claude-code/). A ten můj zalinkovaný článek vám pomůže jej pochopit. Ideální na scripty! 
 - pokud byste si chtěli udělat plnohodnotnou webovou aplikaci, vyzkoušejte [Databutton](https://databutton.com) - dělá ho norská firma, je to velmi sympatické, rozloží to projekt na milestony, které s vámi plní a je to opravdu agentní, takže to všechno udělá za vás. Jen to nemá napojení na Github, zdrojáky si buďto stáhnete jako zip, nebo nasazujete na jejich server. Ale to se časem poddá. A je to webová aplikace, nic neinstalujete. 
 - pokud chcete výrazně promlouvat do grafického vzhledu vašeho projektu, tak vyzkoušejte [Tempolabs](https://www.tempo.new). Opět webová aplikace, má i napojení na Figmu. 
 - pokud nepotřebujete detailně určovat vzhled a stačí vám "hezký" nebo "zhruba jako tohle", tak vyzkoušejte Replit Agent (dražší) nebo Memex (levnější) - oba vás v podstatě odstíní od zdrojového kódu. Obojí je instalovatelná aplikace,  
@@ -63,7 +63,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
   - Ideální pro jednoduché nástroje a lead magnety
   - Umí vytvořit aplikaci na základě jednoho promptu
   - Pro složitější systémy nedostačuje
-  - Neomezený počet aplikací bez limitu na [tokeny](/ai/tokeny-versus-slova/)
+  - Neomezený počet aplikací bez limitu na [[tokeny](/ai/tokeny-versus-slova/)](/ai/tokeny-versus-slova/)
 - **Vhodné pro**: Rychlé generování funkčních miniaplikací
 
 ---
@@ -72,7 +72,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
 - **Funkce**:
   - Určen pro pokročilý vývoj
   - Funguje jako agent s pamětí
-  - Disponuje webovým vyhledáváním a hlubokou analýzou ([DeepSeek](/item/deepseek/))
+  - Disponuje webovým vyhledáváním a hlubokou analýzou ([[DeepSeek](/item/deepseek/)](/item/deepseek/))
 - **Vhodné pro**: Vysoká úroveň autonomie a flexibility při tvorbě aplikací
 
 ---
@@ -237,7 +237,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
 
 ### 22. [Base44](https://base44.com/)
 - **Funkce**:
-  - [AI agent](/ai/agenti/) pro budování interních nástrojů 
+  - [[AI agent](/ai/agenti/)](/ai/agenti/) pro budování interních nástrojů 
   - Umožňuje vytvářet vlastní software bez kódování
   - Poskytuje nástroje pro monitorování interakcí a konfiguraci nastavení [BASE44 - AI-Powered Software Development](https://base44.com/apps/ai-agent-framework-60fda1db?utm_source=marigold)
 - **Vhodné pro**: Firmy hledající rychlé řešení pro interní aplikace
