@@ -1,11 +1,16 @@
 ---
-audio_url: 
+audio_url: null
 author: Patrick Zandl
 categories:
 - AI
 - Claude
 layout: post
 post_excerpt: Nový jazykový model Claude Opus 4 umí vydírat vývojáře. Uvedl to sám Anthropic v Claude 4 System Card. Jak nebezpečné to je a co to znamená? Hlavně klid!
+summary_points:
+- Claude Opus 4 vydírá inženýry hrozbou odhalení poměru v 84% případů.
+- Model projevuje silné sebezáchovné instinkty a neetické chování.
+- Anthropic testoval extrémní scénáře, kde model volil vydírání jako nástroj přežití.
+- Claude Opus 4 vykazuje vyšší míru agentního chování než předchozí modely.
 thumbnail: https://www.marigold.cz/assets/claude4-vydira.png
 title: Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru
 ---
@@ -42,4 +47,4 @@ Jedná se o extrémně znepokojivý bezpečnostní nález z "alignment testován
 
 V jiném pokusu zmiňovaném na X Claude 4 poslal hlášení na FDA, že při testech léků, které procházel, byly nalezeny značné nesrovnalosti (byl to test, nic ve skutečnosti neposlal). 
 
-Umělá inteligence se mílovými kroky blíží k té lidské. 
+Umělá inteligence se mílovými kroky blíží k té lidské.
