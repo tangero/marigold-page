@@ -287,6 +287,21 @@ layout: default
     {% endif %}
   </div>
 
+  <div class="posts">
+    <h3>Jak se vám líbí tento článek?</h3>
+    <!-- Místo pro widget -->
+    <div id="feedback-widget"></div>
+
+    <!-- Widget se vloží do #feedback-widget -->
+    <script 
+        src="https://top.marigold.cz/mg-feedback-clean.js" 
+        data-slug="{{ page.url | slugify }}" 
+        data-title="{{ page.title }}" 
+        data-url="{{ site.url }}{{ page.url }}"
+        data-target="#feedback-widget"
+    ></script>
+</div>
+
   {% if page.url contains '/obrazy/' %}
   {% else %}
   <div class="commentbox"></div>
@@ -321,20 +336,7 @@ layout: default
     </div>
   {% endif %}  
 
-  <div class="posts">
-    <h3>Ohodnoťte tento článek:</h3>
-    <!-- Místo pro widget -->
-    <div id="feedback-widget"></div>
 
-    <!-- Widget se vloží do #feedback-widget -->
-    <script 
-        src="https://top.marigold.cz/mg-feedback-clean.js" 
-        data-slug="{{ page.url | slugify }}" 
-        data-title="{{ page.title }}" 
-        data-url="{{ site.url }}{{ page.url }}"
-        data-target="#feedback-widget"
-    ></script>
-</div>
 
   <div class="posts">
     <h3>Chcete tyto články emailem?</h3>
