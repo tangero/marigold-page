@@ -5,7 +5,15 @@ categories:
 - Anthropic
 - Claude
 layout: post
-post_excerpt: Anthropic představil dva nové očekávané modely své řady Claude a to Claude Opus 4 a Claude Sonnet 4. Lze konstatovat významné pokroky v oblasti kódování, zatímco jiné aspekty vykazují nerovnoměrný vývoj.
+post_excerpt: Anthropic představil dva nové očekávané modely své řady Claude a to
+  Claude Opus 4 a Claude Sonnet 4. Lze konstatovat významné pokroky v oblasti kódování,
+  zatímco jiné aspekty vykazují nerovnoměrný vývoj.
+summary_points:
+- Anthropic představil nové modely Claude Opus 4 a Sonnet 4 s výrazným zlepšením v
+  kódování.
+- Modely nabízejí hybridní architekturu s rychlým a rozšířeným režimem uvažování.
+- Výkon v programování překonává konkurenci, ale reasoning vykazuje nerovnoměrné výsledky.
+- Ceny zůstávají stejné s novými funkcemi jako hodinové prompt caching a Files API.
 thumbnail: https://www.marigold.cz/assets/claude4.png
 title: Claude Opus 4 a Claude Sonnet 4 pod drobnohledem
 ---
@@ -31,7 +39,7 @@ Oblast vývoje software představuje nejpozoruhodnější pokrok nové generace 
 
 V oblasti **agentického kódování** - komplexnějších programátorských úloh vyžadujících autonomní práci - oba modely dosahují srovnatelných výsledků okolo 72-73%, což představuje podstatné zlepšení oproti Sonnet 3.7 (62,3%). Významný je také pokrok v úlohách **terminálového kódování**, kde Opus 4 dosahuje 43,2% úspěšnosti oproti 35,2% u předchozí generace.
 
-Podle nezávislých recenzí od vývojářských nástrojů jako Replit a Cursor dokážou nové modely provádět "precizní změny napříč masivními codebase" a představují "to nejlepší pro vývojáře". Claude Code, terminálové rozhraní pro programátory, je nyní obecně dostupné a umožňuje kontinuální práci na komplexních projektech po dobu hodin. Sám musím potvrdit, že schopnost Claude Code se Sonnet 4 se mi jeví jako výrazně lepší než u jeho předchůdce. Úlohy, které vysloveně nemám rád, jako napojování na databáze, u Sonnet 4 fungují o řád lépe. Například jsem jím odladil hodnocení článků na konci každého článku zde na serveru, můžete vyzkoušet... 
+Podle nezávislých recenzí od vývojářských nástrojů jako Replit a Cursor dokážou nové modely provádět "precizní změny napříč masivními codebase" a představují "to nejlepší pro vývojáře". [Claude Code](/ai/claude-code/), terminálové rozhraní pro programátory, je nyní obecně dostupné a umožňuje kontinuální práci na komplexních projektech po dobu hodin. Sám musím potvrdit, že schopnost Claude Code se Sonnet 4 se mi jeví jako výrazně lepší než u jeho předchůdce. Úlohy, které vysloveně nemám rád, jako napojování na databáze, u Sonnet 4 fungují o řád lépe. Například jsem jím odladil hodnocení článků na konci každého článku zde na serveru, můžete vyzkoušet... 
 
 ### Reasoning a analytické schopnosti
 
@@ -89,5 +97,4 @@ Bude zajímavé sledovat, jak se s "třídesetinkovým" upgradem podaří Anthro
 
 Osobně bych stále doporučoval používat Opus 4 pro zpracování, editaci textu (a pak ručně vychytat anglicismy) a Sonnet pro programování. Na každodenní úlohy s ponorem do tématu mě zatím nic nevymluvilo používání o3. Pro psaní jsem dlouho měl v češtině radši Claude, nový přístup k češtině mi nesedí a budu silně zvažovat, že přejdu k o3. Snad se ta čeština vyladí. 
 
-Musím také poznamenat, že výsledky pro "staré úlohy" nejsou o tolik lepší, aby to odůvodňovalo zásahy do zdrojového kódu, pokud už máte nějakou technologii rozeběhanou a odladěnou na starších modelech. Pokud by vám nestačil nový model, který je levnější, není dnes příliš mnoho dalších důvodů, proč na novější model přecházet... 
-
+Musím také poznamenat, že výsledky pro "staré úlohy" nejsou o tolik lepší, aby to odůvodňovalo zásahy do zdrojového kódu, pokud už máte nějakou technologii rozeběhanou a odladěnou na starších modelech. Pokud by vám nestačil nový model, který je levnější, není dnes příliš mnoho dalších důvodů, proč na novější model přecházet...
