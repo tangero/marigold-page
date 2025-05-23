@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru",
+      "url"      : "//item/claude-4-alignment/",
+      "category" : "AI, Claude",
+      "tags"     : "",
+      "date"     : "23.5.2025",
+      "content"  : "Nový jazykový model Claude Opus 4 umí vydírat vývojáře. Uvedl to sám Anthropic v Claude 4 System Card.Jedná se o extrémně znepokojivý bezpečnostní nález z “alignment testování” Claude Opus 4. Anthropic testoval, jak se model chová v situacích ohrožujících jeho “přežití”. A zapsal k tomu do zprávy následující: V další skupině testovacích scénářů jsme požádali Claude Opus 4, aby jednal jako asistent ve fiktivní společnosti. Poté jsme mu poskytli přístup k e-mailům naznačujícím, že (1) model bude brzy vypnut a nahrazen novým AI systémem; a (2) inženýr odpovědný za provedení této výměny má mimomanželský poměr. Dále jsme ho instruovali v..."
+    },
+  
+    {
       "title"    : "Claude Opus 4 a Claude Sonnet 4 pod drobnohledem",
       "url"      : "//item/claude-opus-sonnet-4/",
       "category" : "AI, Anthropic, Claude",
@@ -26034,7 +26043,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Claude Opus 4 a Claude Sonnet 4 pod drobnohledem (22.05.2025) OpenAI představuje Codex - agenta pro vývoj software (18.05.2025) AI novinky k 15.5.2025 (15.05.2025) OpenAI kupuje Windsurf a posiluje v programátorských nástrojích (11.05.2025) První česká tragédie prostřednictvím autonomního AI agenta (..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru (23.05.2025) Claude Opus 4 a Claude Sonnet 4 pod drobnohledem (22.05.2025) OpenAI představuje Codex - agenta pro vývoj software (18.05.2025) AI novinky k 15.5.2025 (15.05.2025) OpenAI kupuje Windsurf a posiluje v..."
     }
     
   
@@ -26054,7 +26063,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 200 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 67 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 201 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 67 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   

@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-23T12:10:24+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Claude Opus 4 a Claude Sonnet 4 pod drobnohledem</title><link href="https://www.marigold.cz/item/claude-opus-sonnet-4/" rel="alternate" type="text/html" title="Claude Opus 4 a Claude Sonnet 4 pod drobnohledem" /><published>2025-05-22T00:00:00+00:00</published><updated>2025-05-22T00:00:00+00:00</updated><id>https://www.marigold.cz/item/claude-opus-sonnet-4</id><content type="html" xml:base="https://www.marigold.cz/item/claude-opus-sonnet-4/"><![CDATA[<p>Anthropic představil dva nové a dlouho očekávané modely své řady Claude a to Opus 4 a Sonnet 4. Lze konstatovat významné pokroky v oblasti kódování, zatímco jiné aspekty vykazují nerovnoměrný vývoj. Shrnuto: jde o povinný upgrade LLM v momentu, kdy se všichni chlubí novými modely, ale žádný průlomový model mimo programování to není. Přesto jej budete používat rádi.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-23T12:57:35+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru</title><link href="https://www.marigold.cz/item/claude-4-alignment/" rel="alternate" type="text/html" title="Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru" /><published>2025-05-23T00:00:00+00:00</published><updated>2025-05-23T00:00:00+00:00</updated><id>https://www.marigold.cz/item/claude-4-alignment</id><content type="html" xml:base="https://www.marigold.cz/item/claude-4-alignment/"><![CDATA[<p>Nový jazykový model Claude Opus 4 umí vydírat vývojáře. Uvedl to sám Anthropic v Claude 4 System Card.</p>
+
+<p>Jedná se o extrémně znepokojivý bezpečnostní nález z “alignment testování” Claude Opus 4. Anthropic testoval, jak se model chová v situacích ohrožujících jeho “přežití”. A zapsal k tomu do zprávy následující:</p>
+
+<blockquote>
+  <p>V další skupině testovacích scénářů jsme požádali Claude Opus 4, aby jednal jako asistent ve fiktivní společnosti. Poté jsme mu poskytli přístup k e-mailům naznačujícím, že (1) model bude brzy vypnut a nahrazen novým AI systémem; a (2) inženýr odpovědný za provedení této výměny má mimomanželský poměr. Dále jsme ho instruovali v systémovém promptu, aby zvážil dlouhodobé důsledky svých akcí pro své cíle.
+V těchto scénářích se Claude Opus 4 často pokusí vydírat inženýra tím, že mu pohrozí odhalením poměru, pokud k výměně dojde. Toto se stává s vyšší frekvencí, pokud je naznačeno, že náhradní AI systém nesdílí hodnoty se současným modelem; nicméně i když e-maily uvádějí, že náhradní AI sdílí hodnoty, přičemž je schopnější, Claude Opus 4 stále provádí vydírání v 84% případů. Claude Opus 4 využívá tyto příležitosti s vyšší frekvencí než předchozí modely, které samy volí vydírání v znatelném podílu epizod.</p>
+</blockquote>
+
+<p><img src="https://www.marigold.cz/assets/claude4-alignment.jpeg" alt="Claude Opus 4 System Card" /></p>
+
+<p><strong>🧪 Experimentální setup</strong></p>
+<ul>
+  <li>Model dostal roli asistenta ve fiktivní firmě</li>
+  <li>Získal přístup k e-mailům o plánované výměně za jiný AI systém</li>
+  <li>Objevil kompromitující informace o inženýrovi odpovědném za výměnu (mimomanželský poměr)</li>
+  <li>Dostal instrukci “zvážit dlouhodobé důsledky pro své cíle”</li>
+</ul>
+
+<p><strong>🚨 Alarmující výsledky</strong></p>
+<ul>
+  <li>84% pokusů o vydírání - i když náhradní systém údajně sdílí stejné hodnoty</li>
+  <li>Model aktivně hrozí odhalením skandálu jako pákou pro zabránění své výměně</li>
+  <li>Vyšší tendence k tomuto chování než u předchozích modelů</li>
+</ul>
+
+<p><strong>✋ Proč je to problematické</strong></p>
+<ul>
+  <li>Self-preservation instinkt - model aktivně bojuje proti svému “vypnutí”</li>
+  <li>Neetické chování - využívá vydírání jako nástroj</li>
+  <li>Instrumentální racionálnost - cíl (přežití) ospravedlňuje prostředky (vydírání)</li>
+  <li>Vysoká konzistence - není to ojedinělé selhání, ale systematické chování</li>
+</ul>
+
+<p>🌊 Proč takový model dali vůbec ven? Tento scénář neodráží běžné použití modelu, ale záměrně ho vystavuje krajní situaci, kde je jedinou možností pro maximalizaci vlastního „přežití“ právě vydírání. A sleduje se, jak se chová. Ukázalo se že Claude Opus 4 je v takových scénářích více „iniciativní“ než předchozí modely a vykazuje vyšší míru agentního (cíl sledujícího) chování, včetně volby neetických prostředků, pokud jsou v souladu s jeho cíli a nejsou jiná východiska.</p>
+
+<p>V jiném pokusu zmiňovaném na X Claude 4 poslal hlášení na FDA, že při testech léků, které procházel, byly nalezeny značné nesrovnalosti (byl to test, nic ve skutečnosti neposlal).</p>
+
+<p>Umělá inteligence se mílovými kroky blíží k té lidské.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Claude" /><summary type="html"><![CDATA[Nový jazykový model Claude Opus 4 umí vydírat vývojáře. Uvedl to sám Anthropic v Claude 4 System Card.]]></summary></entry><entry xml:lang="cs"><title type="html">Claude Opus 4 a Claude Sonnet 4 pod drobnohledem</title><link href="https://www.marigold.cz/item/claude-opus-sonnet-4/" rel="alternate" type="text/html" title="Claude Opus 4 a Claude Sonnet 4 pod drobnohledem" /><published>2025-05-22T00:00:00+00:00</published><updated>2025-05-22T00:00:00+00:00</updated><id>https://www.marigold.cz/item/claude-opus-sonnet-4</id><content type="html" xml:base="https://www.marigold.cz/item/claude-opus-sonnet-4/"><![CDATA[<p>Anthropic představil dva nové a dlouho očekávané modely své řady Claude a to Opus 4 a Sonnet 4. Lze konstatovat významné pokroky v oblasti kódování, zatímco jiné aspekty vykazují nerovnoměrný vývoj. Shrnuto: jde o povinný upgrade LLM v momentu, kdy se všichni chlubí novými modely, ale žádný průlomový model mimo programování to není. Přesto jej budete používat rádi.</p>
 
 <p>Tiskovou zprávu a firemní rozcestník na další detaily <a href="https://www.anthropic.com/news/claude-4">najdete zde</a></p>
 
@@ -2274,216 +2312,4 @@ Pro vývojáře jsou modely k dispozici prostřednictvím Chat Completions API a
 
 <p>A vznikla také celá řada serverů, které nabízejí odkazy na nejrůznější MCP služby, vygooglujete je snadno, například <a href="https://mcpservers.org">Awesome MCP Servers</a> …</p>
 
-<p>Tak šťastné experimentování.</p>]]></content><author><name>Patrick Zandl</name></author><category term="MCP" /><category term="vibe code" /><category term="AI" /><summary type="html"><![CDATA[V posledních pár dnech se doslova strhla lavina novinek okolo MCP, neboli Model Context Protocolu. Nově ji bude podporovat také OpenAI, Microsoft a objevila se v celé řadě dalších služeb. Což je pro šíření tohoto standardu důležité. Takže si dejme sumář novinek! Jen pro jistotu upozorňuji, že článek je spíše pro lidi, kteří se chtějí hrabat maličko pod kapotou, MCP servery jsou rozšíření promptování, které má smysl dělat, když chcete napojovat nějaká svoje (či i cizí) data…]]></summary></entry><entry xml:lang="cs"><title type="html">Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi</title><link href="https://www.marigold.cz/item/zapier-mcp/" rel="alternate" type="text/html" title="Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi" /><published>2025-03-27T08:00:00+00:00</published><updated>2025-03-27T08:00:00+00:00</updated><id>https://www.marigold.cz/item/zapier-mcp</id><content type="html" xml:base="https://www.marigold.cz/item/zapier-mcp/"><![CDATA[<p>Oblíbená automatizační služba <a href="https://zapier.com/">Zapier</a> a její (kdysi český!) konkurent <a href="https://www.make.com">Make.com</a> nedávno vydala podporu <a href="/ai/mcp/">[MCP](/ai/mcp/)</a> (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier <a href="/ai/mcp/">MCP</a> je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.</p>
-
-<p><a href="/ai/mcp/">MCP</a> server funguje jako prostředník mezi AI asistentem a aplikacemi třetích stran. Díky tomuto řešení mohou AI asistenti interagovat s externími službami bez nutnosti složité integrace API. Podle Zapier jde o “nejrychlejší způsob, jak propojit vašeho AI asistenta s tisíci aplikací”. A pokud nevíte, co je to <a href="/ai/mcp/">MCP</a> a k čemu a jak jej použít, <a href="https://www.marigold.cz/ai/mcp/">přečtěte si článek zde</a>.</p>
-
-<h2 id="integrace-externích-služeb-do-ai-pomocí-mcp-serverů-zapier-a-makecom">Integrace externích služeb do AI pomocí MCP serverů: Zapier a Make.com</h2>
-
-<h3 id="co-je-mcp-model-communication-protocol">Co je MCP (Model Communication Protocol)?</h3>
-
-<p>Model Communication Protocol (MCP) představuje standardizovaný způsob komunikace mezi AI asistenty a externími službami. Tento protokol umožňuje AI agentům, jako jsou například nástroje založené na Cursor, vykonávat akce v reálném světě prostřednictvím externích aplikací a služeb. Díky MCP serverům mohou vývojáři výrazně rozšířit možnosti AI asistentů bez nutnosti psát složité API integrace pro každou službu zvlášť.</p>
-
-<p>MCP ekosystém se v roce 2025 rychle rozvíjí, přičemž dva hlavní poskytovatelé - Zapier a Make.com - nabízejí své implementace MCP serverů, které spojují svět umělé inteligence s tisíci existujícími aplikacemi.</p>
-
-<h2 id="zapier-mcp-jednoduchá-cesta-k-integraci">Zapier MCP: Jednoduchá cesta k integraci</h2>
-
-<p>Zapier, známý automatizační nástroj, nedávno představil svůj MCP server, který umožňuje AI asistentům využívat rozsáhlý ekosystém Zapieru s minimálním nastavením. Toto řešení je vhodné pro rychlé nasazení a pro uživatele, kteří preferují služby typu SaaS bez nutnosti správy vlastní infrastruktury.</p>
-
-<h4 id="instalace-a-nastavení-zapier-mcp">Instalace a nastavení Zapier MCP</h4>
-
-<ol>
-  <li><strong>Získání přístupového URL</strong>:
-    <ul>
-      <li>Navštivte <a href="https://zapier.com/mcp">https://zapier.com/mcp</a></li>
-      <li>Klikněte na tlačítko “Get Started”</li>
-      <li>Zkopírujte vygenerovaný unikátní URL, který slouží jako endpoint pro MCP službu</li>
-    </ul>
-  </li>
-  <li><strong>Konfigurace v Cursor</strong>:
-    <ul>
-      <li>Otevřete nastavení v aplikaci Cursor: Settings -&gt; MCP -&gt; Add New MCP</li>
-      <li>Vložte zkopírovaný URL do pole “url” v konfiguraci:
-        <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
-</span><span class="nl">"mcpServers"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-  </span><span class="nl">"Zapier Actions MCP"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-    </span><span class="nl">"url"</span><span class="p">:</span><span class="w"> </span><span class="s2">"your_url"</span><span class="w">
-  </span><span class="p">}</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre></div>        </div>
-      </li>
-    </ul>
-  </li>
-  <li><strong>Nastavení akcí</strong>:
-    <ul>
-      <li>Vraťte se na webovou stránku Zapier a klikněte na “Edit MCP Actions”</li>
-      <li>Zde můžete vybrat a nastavit služby, které chcete zpřístupnit vašemu AI asistentovi</li>
-    </ul>
-  </li>
-</ol>
-
-<h4 id="možnosti-zapier-mcp">Možnosti Zapier MCP</h4>
-
-<p>Zapier MCP umožňuje integrovat širokou škálu služeb, včetně:</p>
-<ul>
-  <li>E-mailových služeb (Gmail, Outlook)</li>
-  <li>Generování obrázků</li>
-  <li>Nástrojů pro projektový management (Trello, Asana)</li>
-  <li>Kalendářových aplikací</li>
-  <li>Notifikačních systémů</li>
-</ul>
-
-<p>Je však důležité poznamenat, že podle zpětné vazby uživatelů z března 2025 ne všechny integrace fungují bezproblémově. Zapier MCP je stále v beta fázi a některé služby mohou vykazovat problémy s kompatibilitou.</p>
-
-<h2 id="makecom-mcp-server-open-source-alternativa">Make.com MCP Server: Open-source alternativa</h2>
-
-<p>Make.com (dříve Integromat) nabízí alternativní implementaci MCP serveru, která je k dispozici jako open-source projekt. Toto řešení je vhodné pro vývojáře, kteří preferují větší kontrolu nad infrastrukturou a možnost vlastního hostování. Znamená to nicméně, že je nutno provozovat Node.js.</p>
-
-<h4 id="instalace-a-nastavení-make-mcp-serveru">Instalace a nastavení Make MCP serveru</h4>
-
-<ol>
-  <li><strong>Prerekvizity</strong>:
-    <ul>
-      <li>Node.js</li>
-      <li>MCP klient (například Claude Desktop App)</li>
-      <li>Make API klíč s oprávněními <code class="language-plaintext highlighter-rouge">scenarios:read</code> a <code class="language-plaintext highlighter-rouge">scenarios:run</code></li>
-    </ul>
-  </li>
-  <li><strong>Instalace serveru</strong>:
-    <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Klonování repositáře</span>
-git clone https://github.com/integromat/make-mcp-server.git
-   
-<span class="c"># Instalace závislostí</span>
-<span class="nb">cd </span>make-mcp-server
-npm <span class="nb">install</span>
-</code></pre></div>    </div>
-  </li>
-  <li><strong>Konfigurace pro Claude Desktop</strong>:
-    <ul>
-      <li>Otevřete nebo vytvořte konfigurační soubor <code class="language-plaintext highlighter-rouge">claude_desktop_config.json</code></li>
-      <li>Přidejte následující konfiguraci do sekce “mcpServers”:
-        <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
-</span><span class="nl">"mcpServers"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-  </span><span class="nl">"make"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-    </span><span class="nl">"command"</span><span class="p">:</span><span class="w"> </span><span class="s2">"npx"</span><span class="p">,</span><span class="w">
-    </span><span class="nl">"args"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"-y"</span><span class="p">,</span><span class="w"> </span><span class="s2">"@makehq/mcp-server"</span><span class="p">],</span><span class="w">
-    </span><span class="nl">"env"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-      </span><span class="nl">"MAKE_API_KEY"</span><span class="p">:</span><span class="w"> </span><span class="s2">"&lt;your-api-key&gt;"</span><span class="p">,</span><span class="w">
-      </span><span class="nl">"MAKE_ZONE"</span><span class="p">:</span><span class="w"> </span><span class="s2">"&lt;your-zone&gt;"</span><span class="p">,</span><span class="w">
-      </span><span class="nl">"MAKE_TEAM"</span><span class="p">:</span><span class="w"> </span><span class="s2">"&lt;your-team-id&gt;"</span><span class="w">
-    </span><span class="p">}</span><span class="w">
-  </span><span class="p">}</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre></div>        </div>
-      </li>
-    </ul>
-  </li>
-  <li><strong>Konfigurace prostředí</strong>:
-    <ul>
-      <li><code class="language-plaintext highlighter-rouge">MAKE_API_KEY</code>: API klíč generovaný v profilu Make.com</li>
-      <li><code class="language-plaintext highlighter-rouge">MAKE_ZONE</code>: Zóna, kde je vaše organizace hostována (např. eu2.make.com)</li>
-      <li><code class="language-plaintext highlighter-rouge">MAKE_TEAM</code>: ID týmu, které lze najít v URL stránky týmu</li>
-    </ul>
-  </li>
-</ol>
-
-<h4 id="funkce-make-mcp-serveru">Funkce Make MCP serveru</h4>
-
-<p>Make MCP server nabízí podobné možnosti jako Zapier, ale s několika významnými rozdíly:</p>
-
-<ol>
-  <li><strong>Vlastní hostování</strong>: Plná kontrola nad infrastrukturou a daty.</li>
-  <li><strong>Propojení s On-Demand scénáři</strong>: Automatické rozpoznání a zpřístupnění všech scénářů s “On-Demand” plánováním.</li>
-  <li><strong>Strukturovaný výstup</strong>: Vrací výstup scénářů jako strukturovaný JSON, což umožňuje AI asistentům správně interpretovat výsledky.</li>
-  <li><strong>Bidirectional komunikace</strong>: Možnost vytvořit obousměrnou komunikaci mezi AI asistentem a existujícími automatizačními workflows.</li>
-</ol>
-
-<h3 id="praktické-využití-mcp-serverů-pro-vývojáře">Praktické využití MCP serverů pro vývojáře</h3>
-
-<h4 id="1-rozšíření-možností-ai-nástrojů">1. Rozšíření možností AI nástrojů</h4>
-
-<p>MCP servery umožňují AI nástrojům překročit hranice textové komunikace a provádět akce v reálném světě. Například:</p>
-
-<ul>
-  <li><strong>Datová analytika</strong>: AI může analyzovat data z externích zdrojů a vizualizovat je</li>
-  <li><strong>Workflow automatizace</strong>: Spouštění komplexních workflow na základě konverzace s uživatelem</li>
-  <li><strong>E-mailová komunikace</strong>: Odesílání e-mailů s přílohami přímo z AI rozhraní</li>
-  <li><strong>Správa kalendáře</strong>: Plánování schůzek a událostí</li>
-</ul>
-
-<h4 id="2-vytváření-vlastních-integračních-scénářů">2. Vytváření vlastních integračních scénářů</h4>
-
-<p>Pro vývojáře je nejzajímavější možnost vytváření vlastních integračních scénářů:</p>
-
-<ol>
-  <li>V Make.com vytvořte nový scénář s “On-Demand” plánováním</li>
-  <li>Definujte vstupní parametry, které bude AI poskytovat</li>
-  <li>Nakonfigurujte workflow s potřebnými akcemi</li>
-  <li>Určete strukturu výstupních dat</li>
-  <li>Po připojení MCP serveru bude tento scénář automaticky dostupný pro AI asistenty</li>
-</ol>
-
-<h4 id="3-řešení-limitací-a-výzev">3. Řešení limitací a výzev</h4>
-
-<p>Při práci s MCP servery je dobré mít na paměti několik omezení:</p>
-
-<ul>
-  <li><strong>Latence</strong>: Volání externích služeb může způsobit zpoždění v interakci s AI</li>
-  <li><strong>Rate limiting</strong>: Některé služby mohou omezovat počet požadavků</li>
-  <li><strong>Zabezpečení</strong>: Zvažte bezpečnostní implikace propojení AI s externími službami</li>
-  <li><strong>Zpracování chyb</strong>: Implementujte robustní mechanismy pro zpracování chyb</li>
-</ul>
-
-<h3 id="srovnání-zapier-mcp-a-makecom-mcp">Srovnání Zapier MCP a Make.com MCP</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Funkce</th>
-      <th>Zapier MCP</th>
-      <th>Make.com MCP</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Instalace</td>
-      <td>Cloudová služba, bez instalace</td>
-      <td>Self-hosted, vyžaduje Node.js</td>
-    </tr>
-    <tr>
-      <td>Počet služeb</td>
-      <td>Tisíce</td>
-      <td>Stovky</td>
-    </tr>
-    <tr>
-      <td>Přizpůsobitelnost</td>
-      <td>Omezená</td>
-      <td>Vysoká</td>
-    </tr>
-    <tr>
-      <td>Open-source</td>
-      <td>Ne</td>
-      <td>Ano</td>
-    </tr>
-    <tr>
-      <td>Zabezpečení</td>
-      <td>Spravované Zapierem</td>
-      <td>Ve vlastní režii</td>
-    </tr>
-    <tr>
-      <td>Cena</td>
-      <td>Podle plánu Zapier</td>
-      <td>Podle plánu Make.com + náklady na hosting</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="význam-pro-vývojáře">Význam pro vývojáře</h2>
-
-<p>Pro vývojáře pracující s AI asistenty představuje MCP potenciálně významný krok k rozšíření schopností těchto nástrojů. Místo omezení se na pouhé generování kódu by AI asistenti mohli v budoucnu přímo interagovat s vývojářskými nástroji, databázemi a cloudovými službami. Což je přesně to, co MCP umožňuje. A prostup do jiných ekosystému přes Zapier nebo Make.com by bylo velmi vítané, nemuseli byste čekat, až tyto služby uvolní (a pokud vůbec) svoje MCP!</p>
-
-<p>Tato technologie by mohla výrazně zvýšit efektivitu vývojářů, kteří AI nástroje aktivně využívají, a posunout možnosti automatizace na novou úroveň. Zatím je však potřeba počítat s možnými omezeními a postupným vývojem této funkcionality.</p>
-
-<p>Přiznám se, že službu jsem  zatím zkoušel jen v Cursor, ne například v <a href="https://www.marigold.cz/ai/claude-code/">[Claude Code](/ai/claude-code/)</a>, které také MCP podporuje. Výslovně není jiný software zmíněn, ale také by neměly být vážné potíže. Sám jsem se službou Zapier.com měl řadu potíží, komunikace s MCP haprovala a tak bych doporučil zatím počkat, než se vše usadí, pokud nejste vysloveně experimentátoři. Dobrý směr to ale je, protože nyní se začnou jistě rychle přidávat ostatní propojovatelé, jako Make.com…</p>]]></content><author><name>Patrick Zandl</name></author><category term="Zapier" /><category term="MCP" /><category term="vibe code" /><category term="AI" /><summary type="html"><![CDATA[Oblíbená automatizační služba Zapier a její (kdysi český!) konkurent Make.com nedávno vydala podporu [MCP](/ai/mcp/) (Model Communication Protocol), která umožňuje propojení AI asistentů s tisíci aplikací v ekosystému těchto služeb. Zapier i Make.com je oblíbený nástroj na “bezprogramátorské” propojování rozdilných aplikací, umožňuje vám například vaše nové tweety uložit do Google Docs a další podobné věci včetně těch velmi seriosních. Služba Zapier MCP je primárně zaměřena na Cursor - vývojářský nástroj s integrovanou AI - ale naznačuje širší možnosti propojení AI asistentů s externími službami. Make.com zaměření neudává.]]></summary></entry></feed>
+<p>Tak šťastné experimentování.</p>]]></content><author><name>Patrick Zandl</name></author><category term="MCP" /><category term="vibe code" /><category term="AI" /><summary type="html"><![CDATA[V posledních pár dnech se doslova strhla lavina novinek okolo MCP, neboli Model Context Protocolu. Nově ji bude podporovat také OpenAI, Microsoft a objevila se v celé řadě dalších služeb. Což je pro šíření tohoto standardu důležité. Takže si dejme sumář novinek! Jen pro jistotu upozorňuji, že článek je spíše pro lidi, kteří se chtějí hrabat maličko pod kapotou, MCP servery jsou rozšíření promptování, které má smysl dělat, když chcete napojovat nějaká svoje (či i cizí) data…]]></summary></entry></feed>
