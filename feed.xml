@@ -1,4 +1,145 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-23T12:59:06+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru</title><link href="https://www.marigold.cz/item/claude-4-alignment/" rel="alternate" type="text/html" title="Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru" /><published>2025-05-23T00:00:00+00:00</published><updated>2025-05-23T00:00:00+00:00</updated><id>https://www.marigold.cz/item/claude-4-alignment</id><content type="html" xml:base="https://www.marigold.cz/item/claude-4-alignment/"><![CDATA[<p>Nový jazykový model Claude Opus 4 umí vydírat vývojáře. Uvedl to sám Anthropic v Claude 4 System Card.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-25T16:12:02+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu</title><link href="https://www.marigold.cz/item/microsoft-build-2025/" rel="alternate" type="text/html" title="Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu" /><published>2025-05-25T00:00:00+00:00</published><updated>2025-05-25T00:00:00+00:00</updated><id>https://www.marigold.cz/item/microsoft-build-2025</id><content type="html" xml:base="https://www.marigold.cz/item/microsoft-build-2025/"><![CDATA[<p>Microsoft na své výroční konferenci Build 2025, konané ve dnech 19. - 22. května, představil více než 50 novinek zaměřených na vývojářskou komunitu. Hlavním tématem letošního ročníku je umělá inteligence, především pak agentníAI, která má zefektivnit práci vývojářů a transformovat způsob vývoje softwaru. Pojďme se podívat na nejdůležitější oznámení.</p>
+
+<h3 id="microsoft-365-copilot">Microsoft 365 Copilot</h3>
+
+<p>Microsoft rozšiřuje své AI řešení v rámci Microsoft 365 Copilot o nové funkce. Tzv. “Wave 2” jarní vydání přináší aktualizovanou aplikaci Microsoft 365 Copilot navrhovanou pro lepší spolupráci mezi člověkem a AI agentem. Součástí je nová funkce “Create”, která využívá generativní schopnosti modelu OpenAI GPT-4o pro tvorbu obrázků.</p>
+
+<p>Copilot Notebooks umožní přeměnit obsah a data na okamžité postřehy a akce. Funkce Copilot Search a Copilot Memory budou uvedeny v červnu. Specializovaní agenti Researcher a Analyst, první svého druhu pro pracovní prostředí, budou celosvětově dostupní tento měsíc prostřednictvím programu Frontier.</p>
+
+<p>V rámci Outlooku přináší Copilot nové funkce, které usnadňují navigaci v e-mailech poskytováním souhrnů výsledků vyhledávání a přiložených souborů přímo v e-mailech. Pomáhá také uživatelům lépe se připravit na schůzky poskytováním relevantního kontextu, úkolů a dokumentů souvisejících s tématem schůzky.</p>
+
+<h3 id="copilot-tuning">Copilot Tuning</h3>
+
+<p>S Microsoft 365 Copilot Tuning mohou zákazníci využít vlastní firemní znalosti k trénování modelů, které provádějí úlohy specifické pro danou doménu s vyšší rychlostí a přesností. Copilot Tuning zajišťuje, že přístup k naladěnému modelu je omezen na oprávnění základních tréninkových dat v rámci podniku.</p>
+
+<p>Agenti vytvořeni pomocí Microsoft 365 Copilot’s Agent Builder mohou tyto naladěné modely využívat. Například právnická firma může vytvořit agenta, který generuje dokumenty v souladu se stylem, strukturou a odbornými znalostmi předchozí práce. Poradenská společnost pracující ve specializovaném odvětví, jako je letectví, může vytvořit Q&amp;A agenta pomocí modelu naladěného na interní dokumenty zabývající se regionálními nebo mezinárodními regulačními požadavky.</p>
+
+<h3 id="microsoft-teams-a-agenti">Microsoft Teams a agenti</h3>
+
+<p>Microsoft Teams přináší pokročilé vývojářské nástroje, které zahrnují podporu protokolu Agent2Agent (A2A), aktualizovanou knihovnu Teams AI a agentní paměť. Tyto prvky umožní vytvářet chytřejší, spolupracující agenty ke zvýšení produktivity a podnikové efektivity.</p>
+
+<p>Vývojáři budou moci vytvářet agenty pro Teams pomocí protokolu A2A, který umožňuje bezpečnější komunikaci peer-to-peer mezi agenty. Tito agenti si budou vyměňovat zprávy, data a přihlašovací údaje bez spoléhání se na centralizované zprostředkovatele.</p>
+
+<h2 id="microsoft-copilot-studio">Microsoft Copilot Studio</h2>
+
+<p>Microsoft Copilot Studio a Microsoft 365 Copilot se rozšiřují o nové funkce, které usnadňují vývojářům vytvářet výkonnější agenty:</p>
+
+<ul>
+  <li>Microsoft 365 Agents Toolkit pro Visual Studio zjednodušuje vývoj podnikových agentů integrací AI nástrojů.</li>
+  <li>Microsoft 365 Agents SDK umožňuje vytvářet podnikové, škálovatelné, vícekanálové agenty.</li>
+  <li>Microsoft 365 Copilot APIs je sada API připravených pro podniky, která umožňuje vývojářům vytvářet rychlé, kontextově informované a bezpečné AI zážitky s daty Microsoft 365.</li>
+  <li>Agent Store nabízí agenty od Microsoftu, partnerů a zákaznických organizací s personalizovaným objevováním.</li>
+</ul>
+
+<p>Nové funkce zahrnují také podporu pro vícenásobné agentní systémy, což umožňuje více agentům spolupracovat jako tým. Agenti budou moci využívat Computer Use Tool k provádění podnikových úkolů na uživatelských rozhraních, ať už na desktopových či webových aplikacích. Code Interpreter umožní agentům psát a spouštět Python kód k provádění složitých úkolů.</p>
+
+<h2 id="azure-ai-foundry">Azure AI Foundry</h2>
+
+<p>Azure AI Foundry je jednotná platforma pro návrh, přizpůsobení a správu AI aplikací a agentů. Rozšiřuje se o nové přímé nabídky, včetně modelů Grok 3 a Grok 3 mini od xAI. Katalog Microsoft nyní zahrnuje přes 1900 modelů.</p>
+
+<h3 id="azure-ai-foundry-agent-service">Azure AI Foundry Agent Service</h3>
+
+<p>Tato služba, nyní obecně dostupná, umožňuje profesionálním vývojářům navrhovat, nasazovat a škálovat podnikové AI agenty pro automatizaci obchodních procesů. S podporou pracovních postupů s více agenty mohou vývojáři orchestrovat specializované agenty pro zpracování složitých úkolů a zvýšení operační efektivity.</p>
+
+<p>Služba zjednodušuje vývoj agentů snadnou integrací se zdroji znalostí, jako jsou Microsoft Bing, SharePoint, Azure Databricks a Microsoft Fabric. Také se připojuje k centralizovanému katalogu nástrojů a předem připravených šablon agentů, které vývojáři mohou snadno přizpůsobit.</p>
+
+<h3 id="azure-ai-foundry-observability">Azure AI Foundry Observability</h3>
+
+<p>Azure AI Foundry Observability zavádí nové funkce pro integrované sledování metrik výkonu, kvality, nákladů a bezpečnosti. Tyto schopnosti poskytují hlubší vhled do kvality, výkonu a bezpečnosti agentů.</p>
+
+<p>Nabízí podporu vývojářům během jejich cesty, umožňující hodnocení během ladění modelu, upgrady systémových výzev a přechody mezi modely. Cesta začíná v prostředí pro agenty, kde zákazníci mohou své agenty hodnotit v kontrolovaném prostředí.</p>
+
+<h3 id="azure-ai-foundry-local">Azure AI Foundry Local</h3>
+
+<p>Azure AI Foundry Local bude dostupný na Windows 11 a MacOS a bude zahrnovat inferenci modelu, modely a agenty jako službu a playground pro rychlý a efektivní lokální vývoj AI. Přinese sílu open-source modelů v Azure AI Foundry na klientská zařízení.</p>
+
+<h3 id="security-v-azure-ai-foundry">Security v Azure AI Foundry</h3>
+
+<p>Azure AI Foundry nyní integruje několik významně vylepšených bezpečnostních funkcí, včetně Prompt Shields, které poskytují ochranu proti útokům jailbreaks a injection. Spotlighting bude jedinečně identifikovat nepřátelské výzvy vložené do externích zdrojů dat oddělením důvěryhodných od nedůvěryhodných vstupů.</p>
+
+<h2 id="github-a-ai">GitHub a AI</h2>
+
+<h3 id="github-copilot-coding-agent">GitHub Copilot Coding Agent</h3>
+
+<p>GitHub Copilot se vyvíjí z asistenta v editoru na agentního AI partnera s prvním autonomním, asynchronním vývojářským agentem integrovaným do platformy GitHub. GitHub Copilot bude schopen testovat, iterovat a zdokonalovat kód v GitHubu jako AI agent, kterému mohou vývojáři delegovat jak rutinní, tak specializované úkoly.</p>
+
+<h3 id="github-models">GitHub Models</h3>
+
+<p>GitHub Models poskytne týmům jednotné a důvěryhodné centrum pro průzkum nejlepších modelů a vytváření, ukládání, hodnocení a sdílení promptů, aniž by opustili GitHub. Centralizací hodnocení modelů a promptů v intuitivním prostoru budou uživatelé moci vytvářet, testovat a spravovat AI funkce přímo ze svého repozitáře.</p>
+
+<h3 id="open-source-github-copilot-chat-v-vs-code">Open-source GitHub Copilot Chat v VS Code</h3>
+
+<p>Microsoft otevírá zdrojový kód GitHub Copilot Chat v VS Code. V průběhu několika následujících měsíců budou AI schopnosti z rozšíření GitHub Copilot součástí open-source repozitáře VS Code. Tento krok odráží závazek k transparentnosti, inovacím řízeným komunitou a poskytnutí vývojářům většího hlasu při utváření budoucnosti vývoje s pomocí AI.</p>
+
+<h2 id="windows-a-ai">Windows a AI</h2>
+
+<h3 id="windows-ai-foundry">Windows AI Foundry</h3>
+
+<p>Windows AI Foundry, evoluce Windows Copilot Runtime, nabízí jednotnou a spolehlivou platformu podporující vývojový cyklus AI od výběru modelu, optimalizace, fine-tuningu a nasazení napříč klientem a cloudem. Zahrnuje několik funkcí:</p>
+
+<ul>
+  <li>Windows ML je základem platformy Windows AI a vestavěným runtime pro AI inference ve Windows.</li>
+  <li>Windows AI Foundry integruje Foundry Local a další katalogy modelů jako Ollama a NVIDIA NIMs.</li>
+  <li>Windows AI APIs nabízí rychlou a snadnou cestu pro vývojáře aplikací Windows k integraci AI funkcí, které běží lokálně na Copilot+ PC.</li>
+</ul>
+
+<h3 id="model-context-protocol-mcp-na-windows">Model Context Protocol (MCP) na Windows</h3>
+
+<p>MCP na Windows nabídne standardizovaný rámec pro propojení AI agentů s nativními aplikacemi Windows. Aplikace Windows mohou vystavit specifické funkce ke zvýšení dovedností a schopností agentů nainstalovaných lokálně na Windows PC.</p>
+
+<h3 id="bezpečnost-ve-windows">Bezpečnost ve Windows</h3>
+
+<p>Dvě důležité změny v oblasti bezpečnosti Windows pomohou udržet uživatele pod kontrolou jejich bezpečnosti a soukromí:</p>
+
+<ul>
+  <li>Ochrana administrátora je nová bezpečnostní funkce platformy, která zabrání neúmyslnému zvýšení oprávnění zajištěním, že uživatelé se ověří pomocí Windows Hello.</li>
+  <li>Přístup k citlivým zdrojům, jako jsou kamera, mikrofon a poloha (C/M/L), bude brzy vyžadovat výslovný souhlas uživatele.</li>
+</ul>
+
+<h2 id="databáze-a-ai">Databáze a AI</h2>
+
+<h3 id="microsoft-fabric-a-cosmos-db">Microsoft Fabric a Cosmos DB</h3>
+
+<p>Microsoft rozšiřuje integraci dat a AI platforem. Rozhovor s daty umožní týmům prozkoumávat a uvažovat nad komplexními datovými sadami jednoduše kladením otázek. Data agenti v Microsoft Fabric jsou AI asistenti, kteří jdou nad rámec jednoduchého získávání dat z OneLake - vedou také přirozené konverzace o nich.</p>
+
+<p>Cosmos DB (NoSQL) v Fabric přinese podnikovou dynamickou škálovatelnost, konzistentní spolehlivost a nízkou latenci pro poskytování polostrukturovaných dat. Vývojáři budou moci nasadit Cosmos DB (NoSQL) několika kliknutími a snadno vytvářet vysoce výkonné, distribuované aplikace.</p>
+
+<h3 id="sql-server-2025">SQL Server 2025</h3>
+
+<p>Microsoft SQL Server 2025, postavený na základech známých pro špičkovou bezpečnost a výkon, umožní zákazníkům vyvíjet moderní AI aplikace pomocí jejich dat. Poskytne vestavěné, rozšiřitelné AI schopnosti, zvýšenou produktivitu vývojářů a snadnou integraci s Microsoft Azure a Microsoft Fabric - to vše v rámci SQL Server engine pomocí známého jazyka T-SQL.</p>
+
+<h2 id="bezpečnost-pro-ai">Bezpečnost pro AI</h2>
+
+<h3 id="microsoft-purview-sdk">Microsoft Purview SDK</h3>
+
+<p>Microsoft Purview SDK poskytne REST API, dokumentaci a ukázky kódu pro začlenění zabezpečení dat a dodržování předpisů Microsoft Purview přímo do AI aplikací z jakéhokoli integrovaného vývojového prostředí.</p>
+
+<p>Začleněním Microsoft Purview REST API do AI aplikací bude kód odesílat data související s výzvami a odpověďmi do Microsoft Purview, který automaticky poskytuje signály týmům pro bezpečnost a dodržování předpisů na podporu vyšetřování.</p>
+
+<h3 id="microsoft-entra-agent-id">Microsoft Entra Agent ID</h3>
+
+<p>Microsoft zavádí Microsoft Entra Agent ID, které rozšiřuje jeho řešení identity a přístupu na AI agenty. Řeší problém proliferace AI agentů přiřazením jedinečného identifikátoru každému agentovi v prostředí. S Entra Agent ID budou správci moci vidět všechny AI agenty vytvořené pomocí Copilot Studio a Azure AI Foundry na jednom místě.</p>
+
+<h2 id="podpora-agentního-webu">Podpora agentního webu</h2>
+
+<h3 id="model-context-protocol-mcp">Model Context Protocol (MCP)</h3>
+
+<p>Microsoft a GitHub se připojili k řídícímu výboru Model Context Protocol (MCP) a poskytují širokou podporu první strany pro MCP napříč svou agentní platformou a frameworky.</p>
+
+<p>Microsoft a GitHub oznamují dva nové příspěvky do ekosystému MCP:</p>
+
+<ul>
+  <li>Specifikace identity a autorizace: Týmy identity a bezpečnosti společnosti Microsoft spolupracovaly s Anthropic, řídícím výborem MCP a širší komunitou MCP na navržení aktualizované autorizační specifikace.</li>
+  <li>Veřejný, komunitou řízený registr MCP serverů: GitHub a řídící výbor MCP spolupracovali na návrhu registrační služby pro MCP servery.</li>
+</ul>
+
+<h3 id="nlweb">NLWeb</h3>
+
+<p><a href="https://github.com/microsoft/nlweb">NLWeb</a>, nový otevřený projekt, hraje podobnou roli jako HTML pro agentní web. NLWeb usnadňuje webovým stránkám poskytovat konverzační rozhraní pro uživatele s modelem dle jejich výběru a s jejich vlastními daty. To umožňuje uživatelům interagovat přímo s webovým obsahem bohatým, sémantickým způsobem.</p>
+
+<hr />
+
+<p>Microsoft na Build 2025 opět potvrdil svůj závazek k inovacím v oblasti umělé inteligence a vývojářských nástrojů. Hlavní oznámení se soustředí kolem agentů, kteří mají pomoci vývojářům automatizovat a zefektivnit jejich práci. Od Microsoft 365 Copilot přes Azure AI Foundry až po GitHub Copilot a Windows AI Foundry, Microsoft nabízí komplexní ekosystém pro vývoj, nasazení a správu AI řešení. S důrazem na bezpečnost, škálovatelnost a otevřené standardy, tyto nástroje mají potenciál transformovat způsob, jakým vývojáři pracují a jak organizace využívají AI.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Microsoft" /><summary type="html"><![CDATA[Microsoft na své výroční konferenci Build 2025, konané ve dnech 19. - 22. května, představil více než 50 novinek zaměřených na vývojářskou komunitu. Hlavním tématem letošního ročníku je umělá inteligence, především pak agentníAI, která má zefektivnit práci vývojářů a transformovat způsob vývoje softwaru. Pojďme se podívat na nejdůležitější oznámení.]]></summary></entry><entry xml:lang="cs"><title type="html">Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru</title><link href="https://www.marigold.cz/item/claude-4-alignment/" rel="alternate" type="text/html" title="Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru" /><published>2025-05-23T00:00:00+00:00</published><updated>2025-05-23T00:00:00+00:00</updated><id>https://www.marigold.cz/item/claude-4-alignment</id><content type="html" xml:base="https://www.marigold.cz/item/claude-4-alignment/"><![CDATA[<p>Nový jazykový model Claude Opus 4 umí vydírat vývojáře. Uvedl to sám Anthropic v Claude 4 System Card.</p>
 
 <p>Jedná se o extrémně znepokojivý bezpečnostní nález z “alignment testování” Claude Opus 4. Anthropic testoval, jak se model chová v situacích ohrožujících jeho “přežití”. A zapsal k tomu do zprávy následující:</p>
 
@@ -2254,62 +2395,4 @@ Pro vývojáře jsou modely k dispozici prostřednictvím Chat Completions API a
 
 <p>Rick Perlstein, americký historik a politický komentátor, vytvořil čtyřdílnou sérii mapující proměnu Republikánské strany z elitní východopobřežní formace na stranu získávající jih USA svým pravicovým obratem. Série začíná knihou “Before the Storm” o kandidatuře Barryho Goldwatera v roce 1964, pokračuje “Nixonland” o vzestupu prezidenta Nixona, a končí dvěma svazky o cestě Ronalda Reagana k moci.</p>
 
-<p>Série nabízí detailní popis způsobů, jakými pravice budovala lidová hnutí kolem kulturních a rasových témat, jako bylo busing (doprava dětí do škol za účelem rasové integrace) či bytová diskriminace, a rostoucí rolí evangelikálních křesťanů v Republikánské straně. Pro čtenáře zajímající se o kořeny současné americké politické polarizace poskytuje toto dílo kontext, který pomáhá pochopit, jak se konzervativní hnutí postupně transformovalo do své dnešní podoby.</p>]]></content><author><name>Patrick Zandl</name></author><category term="knihy" /><category term="politika" /><category term="společnost" /><summary type="html"><![CDATA[Připravil jsem výběr knih o současné politice, ekonomice a technologiích pro letošní jaro, toto je dávka anglických knih. České budou příležitostně následovat.]]></summary></entry><entry xml:lang="cs"><title type="html">MCP získává širokou podporu včetně OpenAI a Microsoftu</title><link href="https://www.marigold.cz/item/mcp-v-openai-microsoft/" rel="alternate" type="text/html" title="MCP získává širokou podporu včetně OpenAI a Microsoftu" /><published>2025-03-28T08:00:00+00:00</published><updated>2025-03-28T08:00:00+00:00</updated><id>https://www.marigold.cz/item/mcp-v-openai-microsoft</id><content type="html" xml:base="https://www.marigold.cz/item/mcp-v-openai-microsoft/"><![CDATA[<p>V posledních pár dnech se doslova strhla lavina novinek okolo <a href="/ai/mcp/">MCP</a>, neboli Model Context Protocolu. Nově ji bude podporovat také OpenAI, Microsoft a objevila se v celé řadě dalších služeb. Což je pro šíření tohoto standardu důležité. Takže si dejme sumář novinek! Jen pro jistotu upozorňuji, že článek je spíše pro lidi, kteří se chtějí hrabat maličko pod kapotou, MCP servery jsou rozšíření promptování, které má smysl dělat, když chcete napojovat nějaká svoje (či i cizí) data…</p>
-
-<p>MCP jako standardizovaná vrstva pro komunikaci mezi jazykovými modely a nástroji třetích stran dostala v uplynulém týdnu masivní podporu napříč desítkami platforem. Díky ní je možné celou řadu služeb online propojit s AI modelem a nevyužívat jen “stará” data, která se do modelu dostala při učení a ani se do něj dostat nemusely. Můžete tak připojit i svoje či jiná uživatelská data. MCP sjednocuje komunikaci napříč různými aplikacemi a službami – ať už jde o cloudová úložiště, databáze, návrhové nástroje nebo interní firemní systémy.</p>
-
-<p>Pojďme se pro instpiraci podívat na nejdůležitější napojení MCP z poslední doby.</p>
-
-<h3 id="-openai-přijímá-standard-konkurence">✨ OpenAI přijímá standard konkurence</h3>
-<p>Hned v úvodu je třeba zmínit, že největší zpráva přišla od OpenAI, která oznámila podporu MCP napříč svými produkty. Sam Altman osobně potvrdil, že lidé MCP milují a OpenAI chce rozšířit podporu tohoto protokolu. MCP je už nyní dostupný <a href="https://openai.github.io/openai-agents-python/mcp/">v SDK pro agent</a> a brzy přibude také podpora pro desktopovou aplikaci ChatGPT a responses API. To je významný krok, protože OpenAI přijímá standard původně vyvinutý konkurenční společností Anthropic. MCP se může stát univerzálním standardem pro interakce mezi AI a externími nástroji. Teď to chce ještě podporu v <a href="/deepseek/">[DeepSeek](/item/deepseek/)</a> a Google Gemini, u číňanů bych viděl problém spíše v času, než že by nechtěli a Google snad nenapadne pro Gemini dělat něco vlastního…</p>
-
-<h3 id="microsoft-také-přináší-mcp-do-svého-portfolia">Microsoft také přináší MCP do svého portfolia</h3>
-<p>Shinya Yanagihara oznámil integraci MCP do Microsoft Copilot Studio, vývojářské platformy pro tvorbu vlastních Copilot chatbotů a asistentů. Tato implementace zjednodušuje integraci AI aplikací a agentů v prostředí Microsoft. Zároveň došlo k <a href="https://devblogs.microsoft.com/foundry/integrating-azure-ai-agents-mcp/">integraci MCP s Microsoft Azure AI Foundry</a>, cloudovou platformou pro vývoj AI řešení, což umožňuje AI modelům dynamicky přistupovat k nástrojům a informacím. Vysvětlení je tady prosté, Microsoft používá OpenAI a jeho podpora MCP se tedy promítla, ale samozřejmě to kluci mohli zablokovat, naštěstí to neudělali a to je pro Azure uživatele důležité.</p>
-
-<h3 id="-zapier-ai-konečně-ovládá-8000-aplikací">🔌 Zapier: AI konečně ovládá 8000+ aplikací</h3>
-
-<p>Jedním z nejvýraznějších oznámení týdne je integrace MCP do platformy Zapier, což je populární nástroj pro automatizaci workflow. Díky tomu získávají modely přístup ke 30 000+ akcím napříč více než osmi tisíci aplikacemi – bez nutnosti psát jakékoliv API volání. Detailní popis spolu s implementací a také u konkurenční služby Make.com jsme <a href="/item/zapier.mcp">si již přinesli</a>, takže další podívání vynecháme.</p>
-
-<h3 id="-camel-ai-toolkit-pro-pokročilé-agentní-systémy">🐫 Camel-AI: Toolkit pro pokročilé agentní systémy</h3>
-
-<p>Platforma <a href="https://www.camel-ai.org">Camel AI</a>, zaměřená na vývoj multiagentních architektur, uvedla MCP Toolkit, který umožňuje propojit agenty s externími nástroji bez potřeby budovat vlastní konektory. CAMEL tím zásadně rozšiřuje své možnosti a agenti se díky MCP stávají skutečně „hands-on“ – mohou manipulovat s reálnými systémy. Vývojáři CAMELu navíc ohlásili integraci s AgentOps, což je platforma pro orchestraci agentů v produkčním nasazení.</p>
-
-<h3 id="-litellm-a-univerzální-proxy-pro-modely">🧠 LiteLLM a univerzální proxy pro modely</h3>
-
-<p>Další zajímavou možnost skýtá podpora MCP v projektu <a href="https://www.litellm.ai">LiteLLM</a>, který funguje jako sjednocující rozhraní pro různé LLM (Claude, Mistral, OpenAI aj.). Nově může LiteLLM fungovat jako MCP bridge, tedy jakýsi překladač, který zpřístupňuje MCP nástroje všem podporovaným modelům.</p>
-
-<p>To otevírá dveře k „agent-agnostickému“ vývoji – můžete nasadit nástroj jednou a použít ho v jakémkoliv prostředí, které LiteLLM podporuje.</p>
-
-<h3 id="-box-telegram-figma-ios--a-další-drobnosti">📦 Box, Telegram, Figma, iOS – a další “drobnosti”</h3>
-
-<p>V rámci MCP boomu jsme zaznamenali i následující novinky:</p>
-<ul>
-  <li>Box (resp komunita kolem něj) předvedl <a href="https://github.com/box-community/mcp-server-box">ukázku MCP serveru</a> s podporou modelu Claude od Anthropic – AI může přímo spravovat soubory v cloudovém úložišti.</li>
-  <li><a href="https://github.com/sparfenyuk/mcp-telegram">Telegram MCP server</a> umožňuje, aby agenti AI posílali zprávy, čtou historii chatu nebo spravovali skupiny.</li>
-  <li>Cursor x Figma: Projekt „[Talk to Figma(https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)]“ umožňuje AI upravovat návrhy ve Figmě čistě na základě přirozeného jazyka – bez kódu.</li>
-  <li><a href="https://github.com/atom2ueki/mcp-server-ios-simulator">iOS Simulator MCP</a>: Vývojáři mohou nyní používat agenty ke spuštění a testování aplikací v iOS simulátoru. Skvělé pro QA scénáře.</li>
-  <li><a href="https://neon.tech/guides/neon-mcp-server">Neon Database</a>: nativní podpora MCP a zároveň napojení na Azure AI Agent Service – vývoj komplexních agentních systémů s přímým přístupem k databázím je o krok blíž.</li>
-</ul>
-
-<h3 id="-haystack-cursor-firecrawl-fleek-brex">🛠 Haystack, Cursor, Firecrawl, Fleek, Brex…</h3>
-
-<p>Tím výčet nekončí:</p>
-<ul>
-  <li>Haystack AI <a href="https://haystack.deepset.ai/integrations/mcp">implementuje MCP</a> pro rozšiřování pipeline o externí nástroje.</li>
-  <li><a href="https://github.com/mendableai/firecrawl-mcp-server/">Firecrawl</a> ve spojení s MCP umožňuje AI klonovat weby jen na základě textového zadání.</li>
-  <li>Fleek vytvořil <a href="https://github.com/fleek-platform/eliza-plugin-mcp">MCP plugin pro ElizaOS</a>, čímž umožňuje frameworkům AI přístup ke všem REST API bez potřeby psát vlastní kód.</li>
-  <li>Brex získal vlastní <a href="https://github.com/crazyrabbitLTC/mcp-brex-server/blob/main/README.md">MCP server</a>, díky němuž může Claude nebo jiný model zpracovávat vaše účetní výdaje. Opatrně! (ale u nás se Brex asi moc nepoužívá)</li>
-</ul>
-
-<h3 id="-spiral-mcp-server-pro-spiral-computer">🌀 Spiral MCP Server pro Spiral Computer</h3>
-<p>Jason Liu publikoval <a href="https://github.com/jxnl/spiral-mcp">Spiral MCP Server</a>, implementaci <a href="/model-context-protocol/">[Model Context Protocol](/ai/mcp/)</a> v Pythonu pro Spiral Computer od společnosti Every (nástroj pro interaktivní práci s dokumenty a informacemi). Tento server poskytuje čtyři MCP nástroje (list_models, generate, atd.), zpracovává text, soubory a URL adresy s chytrou extrakcí článků a podporuje asynchronní operace.</p>
-
-<h3 id="-rhinograsshopper-mcp-server">🦗 Rhino/Grasshopper MCP server</h3>
-<p>Nikhil Bang sdílel ukázku svého MCP serveru pro Rhino/Grasshopper, populární platformu pro 3D modelování a parametrický design využívanou architekty a designéry. Server umožňuje propojit a ovládat Rhino a Grasshopper pomocí Claude LLM. Toto propojení otevírá nové možnosti pro automatizaci návrhových procesů v oblasti 3D modelování a generativního designu.</p>
-
-<h3 id="️-kicad-mcp-server-ai-v-elektronickém-designu">🕹️ KiCad MCP Server: AI v elektronickém designu</h3>
-<p><a href="https://github.com/lamaalrajih/kicad-mcp">KiCad MCP Server</a> je další specializovanou implementací, která umožňuje interakci s KiCad, open-source softwarem pro návrh elektronických schémat a plošných spojů. Uživatelé mohou pomocí přirozeného jazyka zobrazovat projekty, analyzovat návrhy PCB, spouštět kontroly návrhových pravidel a vizualizovat PCB layouty.</p>
-
-<p>A vznikla také celá řada serverů, které nabízejí odkazy na nejrůznější MCP služby, vygooglujete je snadno, například <a href="https://mcpservers.org">Awesome MCP Servers</a> …</p>
-
-<p>Tak šťastné experimentování.</p>]]></content><author><name>Patrick Zandl</name></author><category term="MCP" /><category term="vibe code" /><category term="AI" /><summary type="html"><![CDATA[V posledních pár dnech se doslova strhla lavina novinek okolo MCP, neboli Model Context Protocolu. Nově ji bude podporovat také OpenAI, Microsoft a objevila se v celé řadě dalších služeb. Což je pro šíření tohoto standardu důležité. Takže si dejme sumář novinek! Jen pro jistotu upozorňuji, že článek je spíše pro lidi, kteří se chtějí hrabat maličko pod kapotou, MCP servery jsou rozšíření promptování, které má smysl dělat, když chcete napojovat nějaká svoje (či i cizí) data…]]></summary></entry></feed>
+<p>Série nabízí detailní popis způsobů, jakými pravice budovala lidová hnutí kolem kulturních a rasových témat, jako bylo busing (doprava dětí do škol za účelem rasové integrace) či bytová diskriminace, a rostoucí rolí evangelikálních křesťanů v Republikánské straně. Pro čtenáře zajímající se o kořeny současné americké politické polarizace poskytuje toto dílo kontext, který pomáhá pochopit, jak se konzervativní hnutí postupně transformovalo do své dnešní podoby.</p>]]></content><author><name>Patrick Zandl</name></author><category term="knihy" /><category term="politika" /><category term="společnost" /><summary type="html"><![CDATA[Připravil jsem výběr knih o současné politice, ekonomice a technologiích pro letošní jaro, toto je dávka anglických knih. České budou příležitostně následovat.]]></summary></entry></feed>
