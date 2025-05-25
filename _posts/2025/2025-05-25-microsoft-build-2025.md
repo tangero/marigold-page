@@ -5,8 +5,17 @@ categories:
 - AI
 - Microsoft
 layout: post
-post_excerpt: Microsoft na své výroční konferenci Build 2025 představil více než 50 novinek zaměřených na vývojářskou komunitu. A velká část z nich se týká AI. Pojďme si je probrat. 
-thumbnail: 
+post_excerpt: Microsoft na své výroční konferenci Build 2025 představil více než 50
+  novinek zaměřených na vývojářskou komunitu. A velká část z nich se týká AI. Pojďme
+  si je probrat.
+summary_points:
+- Microsoft představil na Build 2025 přes 50 novinek pro vývojáře s důrazem na AI.
+- Microsoft 365 Copilot získává nové funkce včetně generování obrázků a specializovaných
+  agentů.
+- Azure AI Foundry nabízí jednotnou platformu pro návrh, přizpůsobení a správu AI
+  aplikací.
+- GitHub Copilot se mění na autonomního agenta schopného testovat a iterovat kód.
+thumbnail: null
 title: Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu
 ---
 
@@ -91,7 +100,7 @@ Windows AI Foundry, evoluce Windows Copilot Runtime, nabízí jednotnou a spoleh
 - Windows AI Foundry integruje Foundry Local a další katalogy modelů jako Ollama a NVIDIA NIMs.
 - Windows AI APIs nabízí rychlou a snadnou cestu pro vývojáře aplikací Windows k integraci AI funkcí, které běží lokálně na Copilot+ PC.
 
-### Model Context Protocol (MCP) na Windows
+### Model Context Protocol ([MCP](/ai/mcp/)) na Windows
 
 MCP na Windows nabídne standardizovaný rámec pro propojení AI agentů s nativními aplikacemi Windows. Aplikace Windows mohou vystavit specifické funkce ke zvýšení dovedností a schopností agentů nainstalovaných lokálně na Windows PC.
 
