@@ -1,4 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-25T16:12:02+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu</title><link href="https://www.marigold.cz/item/microsoft-build-2025/" rel="alternate" type="text/html" title="Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu" /><published>2025-05-25T00:00:00+00:00</published><updated>2025-05-25T00:00:00+00:00</updated><id>https://www.marigold.cz/item/microsoft-build-2025</id><content type="html" xml:base="https://www.marigold.cz/item/microsoft-build-2025/"><![CDATA[<p>Microsoft na své výroční konferenci Build 2025, konané ve dnech 19. - 22. května, představil více než 50 novinek zaměřených na vývojářskou komunitu. Hlavním tématem letošního ročníku je umělá inteligence, především pak agentníAI, která má zefektivnit práci vývojářů a transformovat způsob vývoje softwaru. Pojďme se podívat na nejdůležitější oznámení.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-25T16:37:40+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Stručný průvodce novinkami z Google I/O 2025</title><link href="https://www.marigold.cz/item/google-io-2025/" rel="alternate" type="text/html" title="Stručný průvodce novinkami z Google I/O 2025" /><published>2025-05-25T00:00:00+00:00</published><updated>2025-05-25T00:00:00+00:00</updated><id>https://www.marigold.cz/item/google-io-2025</id><content type="html" xml:base="https://www.marigold.cz/item/google-io-2025/"><![CDATA[<p>Google se na své květnové konferenci I/O 2025 zaměřil výhradně na umělou inteligenci. V hlavní prezentaci zazněl termín “AI” celkem 95krát, což jasně naznačuje prioritu společnosti. Pojďme si rozebrat všechny klíčové novinky, které Google představil.</p>
+
+<h2 id="nové-ai-modely-a-jejich-schopnosti">Nové AI modely a jejich schopnosti</h2>
+
+<h3 id="veo-3---pokrok-v-generování-videa">Veo 3 - pokrok v generování videa</h3>
+
+<p>Google představil <a href="https://veo3.co">Veo 3</a>, nový model pro generování videí, který přináší významné vylepšení. Model nyní dokáže automaticky vytvářet synchronizovaný zvuk včetně dialogů, aniž by to bylo v zadání obsaženo. Testování odhalilo schopnost vytvořit dusiny klipů zobrazujících zpravodajství, katastrofy nebo animované kočky s přesvědčivým zvukem. Tato funkce činí z Veo 3 sofistikovaný nástroj, který zároveň vyvolává obavy o možné zneužití pro tvorbu dezinformací. Po netu se již potulují mraky videí, ktéré jsou tímto modelem vytvořeny a vypadají skutečně přesvědčivě. Před sněmovními volbami si s tímto modelem v Česku ještě užijeme… 😎</p>
+
+<p>Veo 3 aktuálně přístupný pouze uživatelům v USA, a to v rámci aplikace Gemini pro předplatitele nejvyššího tarifu Google AI Ultra (cca 249–250 USD měsíčně) nebo pro firemní klientelu přes platformu Vertex AI. Podobně je tomu s řadou dalších služeb, ale nebojte se, dostane se i na nás…</p>
+
+<h3 id="imagen-4---vylepšení-v-oblasti-obrázků">Imagen 4 - vylepšení v oblasti obrázků</h3>
+
+<p>Nová verze Imagen 4 (už je v ČR dostupná) slibuje “úžasnou kvalitu” a “vynikající typografii”. Model byl vylepšen pro vytváření jemných detailů jako složité textilie, kapky vody nebo zvířecí srst. Podporuje jak fotorealistické, tak abstraktní styly a dokáže vytvářet obrázky ve 2K rozlišení s přesným textem, což byl dlouhodobý problém AI generátorů obrázků.</p>
+
+<h3 id="gemini-25-pro-a-deep-think">Gemini 2.5 Pro a Deep Think</h3>
+
+<p>Google aktualizoval své vlajkové modely Gemini 2.5 Pro a Flash. Významnou novinkou je režim “Deep Think”, navržený pro řešení velmi složitých matematických a programátorských úloh. Tento režim je dostupný v rámci nového předplatného AI Ultra za 249,99 dolarů měsíčně.</p>
+
+<h2 id="search-a-ai-mode">Search a AI Mode</h2>
+
+<h3 id="transformace-vyhledávání">Transformace vyhledávání</h3>
+
+<p>Google představil AI Mode v Search, který přináší chatbot-like rozhraní přímo do vyhledávání. Místo tradičních modrých odkazů AI Mode poskytuje syntetizované odpovědi a umožňuje pokračující konverzaci. Tato funkce se nyní zavádí pro všechny uživatele v USA a postupně i u nás v Česku a představuje zásadní změnu ve způsobu, jakým lidé vyhledávají informace. Bude to velká generační proměna, které změní obor SEO a vůbec vyhledávání informací na internetu…</p>
+
+<p>Navzdory kontroverzím (jako byly rady jíst kameny nebo lepit sýr na pizzu lepidlem) Google rozšiřuje AI Overviews do více než 200 zemí a 40 jazyků. Společnost tvrdí, že funkce je úspěšná a objevuje se u stále většího počtu dotazů.</p>
+
+<h2 id="nové-nástroje-a-aplikace">Nové nástroje a aplikace</h2>
+
+<h3 id="stitch---ai-pro-ui-design">Stitch - AI pro UI design</h3>
+
+<p>Google spustil Stitch, generativní AI nástroj založený na Gemini 2.5 Pro, který pomáhá vývojářům rychle přeměnit hrubé návrhy UI na funkční aplikace. Nástroj umí ze slovního popisu a referenčních obrázků vytvořit komplexní UI design a frontend kód během minut.</p>
+
+<h3 id="flow---platforma-pro-filmmaking">Flow - platforma pro filmmaking</h3>
+
+<p>Flow kombinuje různé AI modely Google (Veo, Imagen a Gemini) do jediné platformy pro tvorbu filmů. Umožňuje vytvářet scény pomocí přirozeného jazyka a spravovat postavy, scény a styly.</p>
+
+<h3 id="google-beam-dříve-project-starline">Google Beam (dříve Project Starline)</h3>
+
+<p>Project Starline byl přejmenován na Google Beam a připravuje se na komerční nasazení později v roce. Google zmenšil technologii do podoby, která bude cenově srovnatelná s existujícími videokonferenčními systémy.</p>
+
+<p>Google Beam je pokročilá 3D videokonferenční technologie, kterou Google vyvíjí od roku 2021. Jde o systém, který využívá speciální kamery, senzory a displeje k vytvoření iluze, že se účastníci videohovoru nacházejí fyzicky ve stejné místnosti - sledují se navzájem v reálné velikosti a trojrozměrně, jako by seděli naproti sobě u stolu. Původně šlo o objemné zařízení vyžadující speciální kabiny, ale Google nyní technologii zmenšil do kompaktnější podoby, která by měla být cenově dostupná jako běžné videokonferenční systémy. Cílem je revolucionizovat vzdálené schůzky tím, že odstraní bariéru mezi virtuální a fyzickou přítomností, což by mělo výrazně zlepšit kvalitu a přirozenost online komunikace v businessu i osobním životě.</p>
+
+<h2 id="android-a-mobilní-funkce">Android a mobilní funkce</h2>
+
+<h3 id="android-16-a-nové-funkce">Android 16 a nové funkce</h3>
+
+<p>Beta verze Android 16 přináší AI-poháněné efekty počasí na tapety a funkci “Shape”, která automaticky zarámuje objekty na fotografiích do různých tvarů. Toto připomíná funkci “Depth Effect” ze systému iOS.</p>
+
+<h3 id="android-desktop-mode">Android desktop mode</h3>
+
+<p>Google a Samsung spolupracují na vývoji nativního desktop módu pro Android 16, který bude postavený na základech technologie Samsung DeX. DeX (Desktop Experience) je funkce, kterou Samsung poprvé představil v roce 2017 a která automaticky přizpůsobí rozhraní telefonu a aplikací při připojení k většímu displeji, čímž umožní používat smartphone jako desktopové zařízení s tradičním okenním systémem, myší a klávesnicí. Zatímco DeX byl dosud proprietární řešení dostupné pouze na vybraných Samsung zařízeních, Google nyní plánuje integrovat podobné možnosti přímo do základu Android 16, což by znamenalo, že rozšířené okenní schopnosti budou dostupné na širším spektru Android zařízení. Tato spolupráce naznačuje snahu o vytvoření jednotného ekosystému, kde by Android telefony mohly plnohodnotně nahradit počítače pro základní produktivní úkoly, což by výrazně rozšířilo využitelnost mobilních zařízení v pracovním prostředí i pro náročnější uživatele.</p>
+
+<h2 id="personalizace-a-využití-dat">Personalizace a využití dat</h2>
+
+<p>Google má podle analytiků klíčovou výhodu v podobě uživatelských dat. Společnost postupně rozšiřuje funkci “Gemini with personalization”, která využívá historii vyhledávání pro personalizované odpovědi. Google nyní plánuje odemknout přístup k ještě většímu množství uživatelských informací.</p>
+
+<h2 id="chrome-a-bezpečnost">Chrome a bezpečnost</h2>
+
+<h3 id="automatická-změna-hesel">Automatická změna hesel</h3>
+
+<p>Chrome získá funkci automatické změny slabých nebo kompromitovaných hesel. Když prohlížeč detekuje slabé heslo, Password Manager automaticky vygeneruje silné náhradní heslo a aktualizuje ho na podporovaných stránkách.</p>
+
+<h3 id="virtual-try-on">Virtual try-on</h3>
+
+<p>Google testuje novou funkci, která umožní uživatelům nahrát vlastní fotografii a vyzkoušet si oblečení virtuálně, místo sledování, jak vypadá na různých modelech.</p>
+
+<h2 id="notebooklm-a-další-nástroje">NotebookLM a další nástroje</h2>
+
+<h3 id="rozšíření-audio-overview">Rozšíření Audio Overview</h3>
+
+<p>NotebookLM nyní umožňuje vytvářet Audio Overview v různých délkách - krátké (kolem 5 minut), dlouhé (kolem 20 minut) a standardní (kolem 10 minut). V češtině nicméně funguje jen šestiminutový záznam, na delších se pracuje. NotebookLM vyzkoušejte, je super.</p>
+
+<h2 id="project-astra-a-budoucnost-ai-asistentů">Project Astra a budoucnost AI asistentů</h2>
+
+<h3 id="univerzální-ai-asistent">Univerzální AI asistent</h3>
+
+<p>Project Astra je experimentální výzkumná platforma Google, která slouží jako testovací prostředí pro nejpokročilejší a nejambicióznější funkce budoucích AI asistentů. Jedná se o multimodálního AI bota, který dokáže “vidět” okolní svět prostřednictvím kamery, pamatovat si předchozí interakce, rozumět kontextu a dokonce provádět základní úkony na počítači. Greg Wayne z Google DeepMind ho přirovnává ke “koncepčnímu vozu” - podobně jako automobilky testují futuristické technologie v konceptech, které se později dostávají do sériové výroby, tak Google v Project Astra testuje schopnosti AI asistentů, které jsou příliš experimentální na okamžité nasazení v běžných produktech. Když se některé funkce osvědčí a dokážou, že jsou spolehlivé a užitečné, postupně se integrují do komerčních produktů jako Gemini, Google Assistant nebo další aplikace. Díky tomuto přístupu může Google bezpečně zkoušet nejodvážnější nápady pro budoucnost AI, aniž by riskoval narušení svých hlavních služeb, a zároveň postupně posouvat hranice toho, co AI asistenti umějí.</p>
+
+<h2 id="předplatné-a-cenová-politika">Předplatné a cenová politika</h2>
+
+<h3 id="ai-ultra-plán">AI Ultra plán</h3>
+
+<p>Google představil nový předplatitelský plán AI Ultra za 249,99 dolarů měsíčně. Zahrnuje přístup k nejpokročilejším modelům společnosti a nejvyšší limity využití napříč všemi AI aplikacemi včetně Gemini, NotebookLM, Whisk a Flow.</p>
+
+<h2 id="osobní-zhodnocení">Osobní zhodnocení</h2>
+
+<p>Google I/O 2025 ukázal, že léta, kdy neměl v AI co říct, jsou ta tam. Najednou dělá skvělé modely, skvělé integrace AI do aplikací a když se něco chytne (jako NotebookLM), tak to urychleně nasazuje a dopiluje. Někdejší pozice “následovníka” za OpenAI se rychle mění - Google nyní předvádí pokročilé schopnosti v oblasti multimodálního AI a začíná využívat svou největší výhodu: obrovské množství uživatelských dat. Například schopnost Gemini modelu podívat se přímo do videa na Youtube, aniž byste mu ho celé předávaly, je úžasný pomocník. A taky hrozba pro autory videí 😎</p>
+
+<p>Nejvýznamnější je transformace Search pomocí AI Mode, což představuje největší změnu ve vyhledávání za posledních dvacet let. Uživatelé už nebudou procházet seznam odkazů, ale budou konverzovat s AI, která jim poskytne syntetizované odpovědi. Jak se tohle dotkne reklamního trhu a výnosů vydavatelů i samotného Google? Nad tím se někdy jindy ještě zastavíme.</p>
+
+<p>Znepokojující je rostoucí závislost na uživatelských datech pro personalizaci. Google postupně rozšiřuje přístup k soukromým informacím uživаtelů s argumentem lepších služeb, což přináší rizika do uživatelovy bezpečnosti i soukromí.</p>
+
+<p>Kreativní nástroje jako Veo 3 a Imagen 4 dosahují opravdu skvělé kvality, ale zároveň otevírají nové etické otázky ohledně dezinformací a autorských práv. Schopnost Veo 3 automaticky přidávat dialog do videí bez explicitního zadání je technicky fascinující, ale uvidíme, jaké bude mít důsledky.</p>
+
+<p>Celkově Google na I/O 2025 ukázal, že má ambiciózní vizi budoucnosti, kde AI zprostředkovává většinu interakcí s digitálními službami. Otázkou podle mne zůstává, zda jsou uživatelé připraveni na tak zásadní změnu ve způsobu, jakým pracují s informacemi online. A co to udělá s celým trhem, který se teprve přetransformoval na online prostředí a čeká jej další výrazná proměna…</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Google" /><summary type="html"><![CDATA[Google se na své květnové konferenci I/O 2025 zaměřil výhradně na umělou inteligenci. V hlavní prezentaci zazněl termín “AI” celkem 95krát, což jasně naznačuje prioritu společnosti. Pojďme si rozebrat všechny klíčové novinky, které Google představil.]]></summary></entry><entry xml:lang="cs"><title type="html">Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu</title><link href="https://www.marigold.cz/item/microsoft-build-2025/" rel="alternate" type="text/html" title="Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu" /><published>2025-05-25T00:00:00+00:00</published><updated>2025-05-25T00:00:00+00:00</updated><id>https://www.marigold.cz/item/microsoft-build-2025</id><content type="html" xml:base="https://www.marigold.cz/item/microsoft-build-2025/"><![CDATA[<p>Microsoft na své výroční konferenci Build 2025, konané ve dnech 19. - 22. května, představil více než 50 novinek zaměřených na vývojářskou komunitu. Hlavním tématem letošního ročníku je umělá inteligence, především pak agentníAI, která má zefektivnit práci vývojářů a transformovat způsob vývoje softwaru. Pojďme se podívat na nejdůležitější oznámení.</p>
 
 <h3 id="microsoft-365-copilot">Microsoft 365 Copilot</h3>
 
@@ -83,7 +177,7 @@
   <li>Windows AI APIs nabízí rychlou a snadnou cestu pro vývojáře aplikací Windows k integraci AI funkcí, které běží lokálně na Copilot+ PC.</li>
 </ul>
 
-<h3 id="model-context-protocol-mcp-na-windows">Model Context Protocol (MCP) na Windows</h3>
+<h3 id="model-context-protocol-mcp-na-windows">Model Context Protocol (<a href="/ai/mcp/">MCP</a>) na Windows</h3>
 
 <p>MCP na Windows nabídne standardizovaný rámec pro propojení AI agentů s nativními aplikacemi Windows. Aplikace Windows mohou vystavit specifické funkce ke zvýšení dovedností a schopností agentů nainstalovaných lokálně na Windows PC.</p>
 
@@ -2335,64 +2429,4 @@ Pro vývojáře jsou modely k dispozici prostřednictvím Chat Completions API a
 
 <p>Pro vývojáře, kteří chtějí experimentovat s tímto přístupem, je důležité mít na paměti, že nejde o kompletní náhradu tradičních vývojových metod, ale spíše o komplementární přístup vhodný zejména pro rychlý vývoj prototypů a MVP před jejich případným přepracováním do produkční kvality.</p>
 
-<p>Pro zajímavost si někdy popíšeme, jak jsem vibe codingem realizoval některé služby, jako jsou například <a href="http://www.zajimaveprednasky.cz">zajímaveprednasky.cz</a>…</p>]]></content><author><name>Patrick Zandl</name></author><category term="vibe coding" /><category term="AI" /><summary type="html"><![CDATA[Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže [vibe coding](/item/programovani-s-ai/), jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.]]></summary></entry><entry xml:lang="cs"><title type="html">Deset knih o současné politice, ekonomice a technologiích na jaro 2025</title><link href="https://www.marigold.cz/item/deset-knih-na-jaro-2025/" rel="alternate" type="text/html" title="Deset knih o současné politice, ekonomice a technologiích na jaro 2025" /><published>2025-03-29T00:00:00+00:00</published><updated>2025-03-29T00:00:00+00:00</updated><id>https://www.marigold.cz/item/deset-knih-na-jaro-2025</id><content type="html" xml:base="https://www.marigold.cz/item/deset-knih-na-jaro-2025/"><![CDATA[<p>Připravil jsem výběr knih o současné politice, ekonomice a technologiích pro letošní jaro, toto je dávka anglických knih. České budou příležitostně následovat.</p>
-
-<h3 id="max-chafkin--the-contrarian">Max Chafkin – The Contrarian</h3>
-
-<p>Max Chafkin, americký novinář časopisu Bloomberg Businessweek, zpracoval biografii Petera Thiela, miliardáře a podporovatele J. D. Vance, který hraje významnou roli v propojování techno-utopismu a kulturní alternativní pravice v Republikánské straně. Kniha “The Contrarian” popisuje vývoj Thielovy pravicové filozofie, příběh vzniku PayPalu a jeho počáteční rozepře s Elonem Muskem, i jeho postupně se vyvíjející názory po 11. září a finanční krizi.</p>
-
-<p>Text se také zabývá založením datové společnosti Palantir a způsobem, jakým Thiel naznačoval, že technologie jeho společnosti byla zodpovědná za dopadení Usámy bin Ládina, což jí poskytlo podporu mezi obrannými resorty. Pro čtenáře se zájmem o propojení technologického sektoru a politiky poskytuje kniha kontext pro pochopení ideologických základů současného techno-kapitalismu a jeho politických aspirací.</p>
-
-<h3 id="kate-conger-a-ryan-mac--character-limit">Kate Conger a Ryan Mac – Character Limit</h3>
-
-<p>Kate Conger a Ryan Mac, zkušení technologičtí novináři, napsali podrobnou knihu o Elonu Muskovi a jeho působení v Twitteru, který transformoval na platformu X. “Character Limit” dokumentuje Muskovu přestavbu této sociální sítě, založeno na mnoha zdrojích z prostředí společnosti.</p>
-
-<p>Kniha popisuje Muskův manažerský přístup: propouštění zaměstnanců a následné pokusy znovu najmout lidi, kteří se ukázali jako potřební; důraz na úspory, které nakonec vedly k nákladnějším selháním; odmítání platit účty; a ochota prohrávat soudní spory, protože náklady jsou v jeho pohledu nižší než změna kurzu. Pro ty, kdo sledují globální technologický sektor a jeho vliv na společnost, poskytuje kniha vhled do řízení jedné z největších sociálních platforem a stylu vedení významného technologického podnikatele.</p>
-
-<h3 id="helen-thompson--disorder">Helen Thompson – Disorder</h3>
-
-<p>Helen Thompson, profesorka z Cambridge a autorka podcastů, napsala knihu “Disorder”, která zkoumá příčiny obratu k neliberalismu a nacionalismu po nástupu Trumpa a po brexitu. Kniha je rozdělena do tří částí - první se zabývá rolí energetiky v utváření geopolitiky od druhé světové války; druhá finančními trhy a změnami v širší globální ekonomice; a třetí zkoumá povahu demokracie a reakce vlád na problémy způsobené prvními dvěma aspekty.</p>
-
-<p>Thompsonová využívá přímý styl s širokými soudy, které ne vždy obstojí. Někteří kritici jí vytýkali to, co považují za chyby v druhé části, zejména ohledně eurozóny a její reakce na finanční krizi. I s těmito výhradami však kniha obsahuje informace a myšlenky z úhlu, který jiné publikace na tato témata nepokrývají. První část o energetice je obzvláště propracovaná a poskytuje hodnotný vhled do vztahu mezi energetikou a globální politikou. Pro čtenáře se zájmem o strukturální faktory ovlivňující současnou politickou nestabilitu poskytuje kniha alternativní pohled oproti analýzám zaměřeným primárně na jednotlivé politické osobnosti.</p>
-
-<h3 id="nicole-hemmer--partisans">Nicole Hemmer – Partisans</h3>
-
-<p>Nicole Hemmer, americká historička a mediální odbornice, nabízí v knize “Partisans” pohled na americkou politiku 90. let, kdy se pravicový posun republikánů stal zřetelnějším. Zaměřuje se především na tři osobnosti: Rushe Limbaugha, rozhlasového moderátora, který ovlivnil tón moderního konzervatismu; Pata Buchanana, jehož neúspěšné prezidentské kandidatury předznamenaly v některých ohledech Trumpa; a Newta Gingricha, který jako předseda Sněmovny reprezentantů změnil normy formální washingtonské politiky.</p>
-
-<p>Kniha popisuje transformaci politického diskurzu v USA, který se postupně posouval od umírněného středu k více partyzánské rétorice a taktikám. Pro evropské čtenáře poskytuje kontext toho, jak se změnila povaha amerického politického dialogu, což následně ovlivnilo i mezinárodní politické prostředí. Text pomáhá vysvětlit kořeny současné polarizace americké politické scény.</p>
-
-<h3 id="maggie-haberman--confidence-man">Maggie Haberman – Confidence Man</h3>
-
-<p>Maggie Haberman, novinářka The New York Times a držitelka Pulitzerovy ceny, napsala komplexní biografii Donalda Trumpa “Confidence Man”, která sleduje celou jeho kariéru až po konec prvního prezidentského období. Habermanová strávila roky reportováním o Trumpovi a získala Pulitzerovu cenu v roce 2018 za své zpravodajství. Trump se na ni zaměřoval, což se stalo součástí příběhu knihy.</p>
-
-<p>Informativní části knihy popisují jeho ranou kariéru, kdy získával peníze od státních vlád na financování svých velkolepých budov, a jeho pokusy proniknout do kasinového byznysu. Kniha předkládá pohled na Trumpa jako na stárnoucího bosse v mafiánském stylu, což odráží prostředí, v němž se pohyboval. Pro čtenáře zajímající se o politickou ekonomii vztahů mezi byznysem a státní mocí nabízí tato kniha cenný vhled do fungování amerického podnikatelského a politického prostředí.</p>
-
-<h3 id="quinn-slobodian--crack-up-capitalism">Quinn Slobodian – Crack-Up Capitalism</h3>
-
-<p>Quinn Slobodian, kanadský historik, který se věnuje studiu neoliberalismu (definovaného přesněji než mnozí, kteří tento výraz používají), napsal knihu “Crack-Up Capitalism” o vztahu libertarianismu a demokracie. Sleduje, jak se místa jako Hong-Kong, Singapur a Dubaj vyvinula jako centra kapitalismu s omezenou demokracií.</p>
-
-<p>Autor analyzuje, jak tyto modely ovlivnily další státy, jako je Čína, pro kterou je Hongkong vzorem pro jejich rozvoj nových měst. Zároveň ukazuje, jak se tyto modely stávají zajímavými pro západní myslitele - jak z hlediska investic do těchto center, tak i zřizování nových ekonomických zón, ve kterých platí odlišná pravidla, například v oblasti daní. Pro čtenáře se zájmem o globální ekonomické trendy a vztah mezi kapitalismem a demokracií poskytuje kniha pohled na alternativní modely ekonomického uspořádání.</p>
-
-<h3 id="ivan-krastev-a-stephen-holmes--the-light-that-failed">Ivan Krastev a Stephen Holmes – The Light That Failed</h3>
-
-<p>Ivan Krastev, bulharský politolog, a Stephen Holmes, americký právní teoretik, napsali knihu “The Light That Failed” během prvního Trumpova funkčního období. Tato kniha pracuje s konceptem imitace a způsoby, jakými tento proces ovlivnil politický vývoj ve východní Evropě, Rusku a později i na Západě.</p>
-
-<p>První část se zaměřuje na zavádění modelů západní liberální demokracie ve východoevropských státech po rozpadu Varšavské smlouvy a na reakce, které to vyvolalo. Druhá část se soustředí na Rusko a Putinův přechod k odlišnému modelu vládnutí, který zdůvodňoval poukazováním na nedostatky Západu. Závěrečná část analyzuje Trumpovo přebírání některých prvků východních politických stylů a jejich dopad na Západ. Pro čtenáře zajímající se o globální politické trendy a vztahy mezi Východem a Západem nabízí kniha strukturovaný pohled na vývoj politických systémů v posledních desetiletích.</p>
-
-<h3 id="svetlana-alexijevič--doba-z-druhé-ruky-second-hand-time">Svetlana Alexijevič – Doba z druhé ruky (Second-Hand Time)</h3>
-
-<p>Svetlana Alexijevič, běloruská nositelka Nobelovy ceny, vytvořila v knize “Doba z druhé ruky” dílo dokumentující postsovětské období v Rusku. Její metoda spočívá v rozhovorech se stovkami lidí, které pak sestavuje do vyprávění s minimálními autorskými zásahy.</p>
-
-<p>Kniha představuje pocity lidí, kteří zažili rozpad sovětského systému, krátkou naději na změnu a následné zklamání. Pro západního čtenáře je zajímavý pocit osudovosti, který mnozí dotazovaní vyjadřují - pocit, že Rusko není připraveno na určité formy společenského uspořádání: “V Rusku se za pět let může změnit všechno, ale za dvě stě let se nezmění nic.” Pro ty, kdo se zajímají o ruskou společnost a její vývoj po rozpadu SSSR, poskytuje kniha vhled do myšlení běžných Rusů během tohoto období.</p>
-
-<h3 id="paul-lendvai--orbán">Paul Lendvai – Orbán</h3>
-
-<p>Paul Lendvai, maďarsky narozený bývalý novinář Financial Times, který pokrýval region střední Evropy, napsal první úplnou biografii Viktora Orbána přeloženou do angličtiny. Kniha vypráví příběh o tom, jak se Orbán poprvé dostal do povědomí jako mladý protikomunistický protestující během povstání v roce 1989, založil Fidesz jako liberální stranu a stal se poprvé premiérem v roce 1998.</p>
-
-<p>Autor popisuje, jak se během jeho prvního funkčního období projevily jeho sklony k centralizaci moci, ale protože neměl většinu, byl omezen v prosazování změn. Když se v roce 2010 vrátil k moci, měl díky maďarskému volebnímu systému super-většinu, která mu umožnila změnit ústavu a postupně přetvořit politický systém, včetně soudnictví a mediálního prostředí. Pro čtenáře, kteří sledují vývoj politických systémů ve střední Evropě, nabízí kniha pohled na transformaci jednoho z důležitých politiků regionu.</p>
-
-<h3 id="rick-perlstein--kronika-amerického-konzervatismu-chronicle-of-american-conservatism">Rick Perlstein – Kronika amerického konzervatismu (Chronicle of American Conservatism)</h3>
-
-<p>Rick Perlstein, americký historik a politický komentátor, vytvořil čtyřdílnou sérii mapující proměnu Republikánské strany z elitní východopobřežní formace na stranu získávající jih USA svým pravicovým obratem. Série začíná knihou “Before the Storm” o kandidatuře Barryho Goldwatera v roce 1964, pokračuje “Nixonland” o vzestupu prezidenta Nixona, a končí dvěma svazky o cestě Ronalda Reagana k moci.</p>
-
-<p>Série nabízí detailní popis způsobů, jakými pravice budovala lidová hnutí kolem kulturních a rasových témat, jako bylo busing (doprava dětí do škol za účelem rasové integrace) či bytová diskriminace, a rostoucí rolí evangelikálních křesťanů v Republikánské straně. Pro čtenáře zajímající se o kořeny současné americké politické polarizace poskytuje toto dílo kontext, který pomáhá pochopit, jak se konzervativní hnutí postupně transformovalo do své dnešní podoby.</p>]]></content><author><name>Patrick Zandl</name></author><category term="knihy" /><category term="politika" /><category term="společnost" /><summary type="html"><![CDATA[Připravil jsem výběr knih o současné politice, ekonomice a technologiích pro letošní jaro, toto je dávka anglických knih. České budou příležitostně následovat.]]></summary></entry></feed>
+<p>Pro zajímavost si někdy popíšeme, jak jsem vibe codingem realizoval některé služby, jako jsou například <a href="http://www.zajimaveprednasky.cz">zajímaveprednasky.cz</a>…</p>]]></content><author><name>Patrick Zandl</name></author><category term="vibe coding" /><category term="AI" /><summary type="html"><![CDATA[Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže [vibe coding](/item/programovani-s-ai/), jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.]]></summary></entry></feed>

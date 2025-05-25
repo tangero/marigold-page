@@ -10,6 +10,15 @@
     },
   
     {
+      "title"    : "Stručný průvodce novinkami z Google I/O 2025",
+      "url"      : "//item/google-io-2025/",
+      "category" : "AI, Google",
+      "tags"     : "",
+      "date"     : "25.5.2025",
+      "content"  : "Google se na své květnové konferenci I/O 2025 zaměřil výhradně na umělou inteligenci. V hlavní prezentaci zazněl termín “AI” celkem 95krát, což jasně naznačuje prioritu společnosti. Pojďme si rozebrat všechny klíčové novinky, které Google představil.Nové AI modely a jejich schopnostiVeo 3 - pokrok v generování videaGoogle představil Veo 3, nový model pro generování videí, který přináší významné vylepšení. Model nyní dokáže automaticky vytvářet synchronizovaný zvuk včetně dialogů, aniž by to bylo v zadání obsaženo. Testování odhalilo schopnost vytvořit dusiny klipů zobrazujících zpravodajství, katastrofy nebo animované kočky s přesvědčivým zvukem. Tato funkce činí z Veo 3 sofistikovaný nástroj, který zároveň vyvolává..."
+    },
+  
+    {
       "title"    : "Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru",
       "url"      : "//item/claude-4-alignment/",
       "category" : "AI, Claude",
@@ -26052,7 +26061,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu (25.05.2025) Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru (23.05.2025) Claude Opus 4 a Claude Sonnet 4 pod drobnohledem (22.05.2025) OpenAI představuje Codex - agenta pro vývoj software (18.05.2025)..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu (25.05.2025) Stručný průvodce novinkami z Google I/O 2025 (25.05.2025) Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru (23.05.2025) Claude Opus 4 a Claude Sonnet 4 pod drobnohledem (22.05.2025) OpenAI..."
     }
     
   
@@ -26072,7 +26081,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 202 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 67 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 203 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 68 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
