@@ -1,4 +1,118 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-27T14:01:54+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Stručný průvodce novinkami z Google I/O 2025</title><link href="https://www.marigold.cz/item/google-io-2025/" rel="alternate" type="text/html" title="Stručný průvodce novinkami z Google I/O 2025" /><published>2025-05-25T00:00:00+00:00</published><updated>2025-05-25T00:00:00+00:00</updated><id>https://www.marigold.cz/item/google-io-2025</id><content type="html" xml:base="https://www.marigold.cz/item/google-io-2025/"><![CDATA[<p>Google se na své květnové konferenci I/O 2025 zaměřil výhradně na umělou inteligenci. V hlavní prezentaci zazněl termín “AI” celkem 95krát, což jasně naznačuje prioritu společnosti. Pojďme si rozebrat všechny klíčové novinky, které Google představil.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-27T14:09:18+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">🍯 Oktagon rizik AI - Křehká pozornost v křehkém světě</title><link href="https://www.marigold.cz/item/oktagon-rizik-ai/" rel="alternate" type="text/html" title="🍯 Oktagon rizik AI - Křehká pozornost v křehkém světě" /><published>2025-05-27T00:00:00+00:00</published><updated>2025-05-27T00:00:00+00:00</updated><id>https://www.marigold.cz/item/oktagon-rizik-ai</id><content type="html" xml:base="https://www.marigold.cz/item/oktagon-rizik-ai/"><![CDATA[<p>Pozornost je vše, co potřebujete. Tak se jmenuje <a href="https://en.wikipedia.org/wiki/Attention_Is_All_You_Need">jedna z nejcitovanějších vědeckých prací</a> posledního století. A ano, ve skutečnosti se věnuje mechanismu pozornosti pro zpracování sekvenčních dat a její sláva tkví v tom, že se stala základem technologie Transformátorů a tím fakticky odstartovala moderní éru AI. Z názvu bychom přitom soudili, že jde o významnou práci adolescentní behaviorální psychologie nebo návod k pochopení dnešního světa.</p>
+
+<p>Pokud odmyslíme miliardy dolarů, které tato práce „donutila“ spálit firmy jako OpenAI, Microsoft nebo Google, ve skutečnosti tomu tak je. Práci <em><a href="https://arxiv.org/abs/1706.03762">“Attention is All You Need”</a></em> lze zevšeobecnit jako matematický popis toho, <strong>jak je v komplexních systémech klíčová schopnost soustředně a selektivně zaměřit pozornost na relevantní informace</strong>. A také jako příklad toho, jak se matematika a pokročilá kybernetika dotýká samotné podstaty lidství. Což má zajímavý důsledek: ještě nikdy se neinvestovaly takové obrovské sumy do snahy o pochopení fungování lidského chápání světa, emociálních procesů a fungování uvažování, jako v momentě, kdy tyto procesy obrovské firmy chápou jako příležitost přeložit je do čísel a promítnout do počítačů. Umělá inteligence není založená jen na zkopírování všeho lidského vědění, ale na snaze o napodobení lidského vědomí. A tak si začínáme uvědomovat, že stejné tvrzení obsahuje epistemologie, která tvrdí, že <strong>znalosti vznikají prostřednictvím vztahů mezi jednotlivými informacemi</strong>, nikoli jen jejich mechanickým zpracováním. Paralelu můžeme najít ve fenomenologickém pojetí vědomí, které zdůrazňuje, že <strong>vědomí je vždy “vědomím něčeho”</strong> – naše mysl se přirozeně zaměřuje na určité aspekty reality a jiné nechává v pozadí.</p>
+
+<p>Správně zaměřená pozornost je něco, co náš svět potřebuje. Protože <strong>náš svět se stal křehkým</strong>. Jak se stal křehkým? Ještě nedávno jsme soudili, že zásadní problémy našeho světa lze rozdělit do tří hlavních kategorií:</p>
+
+<ul>
+  <li>
+    <p><strong>klimatická změna</strong> vytvářející sociodemografické tlaky, hrozící masovou migrací a obrovskými agrokulturními proměnami</p>
+  </li>
+  <li>
+    <p>prohlubující se <strong>majetková nerovnost</strong> rozšiřující vliv obrovských korporací a superbohatých jedinců schopných finančně konkurovat státním celkům</p>
+  </li>
+  <li>
+    <p><strong>nedůvěra mas</strong> ve schopnost elit řešit problémy</p>
+  </li>
+</ul>
+
+<p>Jenže před dvěmi lety, když jsem psal svoji knihu <a href="https://www.melvil.cz/kniha-myty-a-nadeje-digitalniho-sveta/">Mýty a naděje digitálního světa</a>, jsem byl optimistický ohledně toho, zda lze tyto „vývrtky“ zvládnout, ačkoliv již tehdy se trojice těchto problémů promítala do politické nestability vzbuzované populistickými politiky toužícími po moci a superboháčů toužících po návratu ke starým dobrým časům. Pak přišla válka na Ukrajině, v Izraeli, na spadnutí je vpád Číny na Tchajwan či válka Indie a Pakistánu - a to nepočítám lokální, méně sofistikované konflikty, které se dotýkají statisíců. A je to Francis Fukuyama, kdo prohlašuje, že demokracie nebyla nikdy v takovém ohrožení, jako nyní.</p>
+
+<p>Do tohoto křehkého stavu světa, v němž se kymácejí všechny dosavadní jistoty, vstupuje umělá inteligence s prohlášením „Pozornost je vše, co potřebujete“. Zaměřme tedy pozornost na <strong>oktagon rizik, která AI přináší</strong>.</p>
+
+<p><img src="/assets/oktagon-rizik-ai.png" alt="Oktagon rizi, která AI přináší" /></p>
+
+<p>Na obrázku je vidět můj návrh takového oktagonu: <strong>osmičky zásadních rizik, jež AI do světa přináší nebo je posiluje</strong>. Žlutě jsou rizika nová, růžově prouhloubení stávajících výzev. Pojďme se u nich v bodech zastavit:</p>
+
+<h3 id="1digitální-suverenita-a-čipové-železné-opony">1 | Digitální suverenita a čipové „železné opony“</h3>
+
+<p>Pokud opravdu bude moci AI doplňovat či nahrazovat lidskou práci (a zdá se, že ano), budou národy, kultury a jazyky, které nebudou mít je respektující AI, znevýhodněny, protože AI pro ně nebude plnohodnotně fungovat. Vznikne AI propast, kterou může strážit několik firem, jež ji umožní překonávat jen někomu. Bez vlastní datové a výpočetní infrastruktury se Evropa stane jen pasivním příjemcem pravidel rozhodnutých jinde, ztratí schopnost ovlivňovat svoji budoucnost. Stejným problémem závislosti je ta hardwarová. Pokročilé čipy se dnes vyrábějí na úzkém pásu tchajwanského pobřeží a americké kontroly vývozu vytvářejí „křemíkovou oponu“ rozdělující státy na ty, které se k pokročilým čipům dostanou a nedostanou. Hardwarová závislost se promítá do geopolitické závislosti, dokud výrobní řetězec čipů zůstane extrémně koncentrovaný. Čína se za extrémních nákladů snaží tuto závislost zlomit.</p>
+
+<p><em>Pokud se podaří zvětšovat otevřenost tohoto řetězce například platformami ARM/RISC-V a výrobními čipovými alternativami, může se opona postupně rozptýlit.</em></p>
+
+<h3 id="2--korporativní-privatizace-versus-veřejná-správa">2 | Korporativní privatizace versus veřejná správa</h3>
+
+<p>O povaze AI dnes rozhoduje několik málo firem hnaných nikoliv neziskovým posláním prospět, ačkoliv tak tvrdí, ale ziskem. Dokud jsou klíčová aktiva i standardy v rukou několika korporací, zůstane vliv mezinárodních úmluv omezený. Veřejnost této privatizaci kreativní sféry tleská, protože považuje politické elity za zkompromitované, neakceschopné a domnívá se, firemní lídři si poradí tak, že kromě svého zisku i zlepší svět. Je to trvalé dilema určené k neustálému hledání rovnováhy: příliš slabé globální normy selžou; příliš silné (povinné otevřené modely, sdílení know‑how) odradí inovátory. Navíc USA a Čína si vybraly „národní šampiony“ a vnímají zápolení v AI jako strategické měření sil, v němž není prostor pro omezení.</p>
+
+<p><em>Neměla by to být právě Evropa, kdo bude prosazovat AI jako open-source technologii a tím navazovat na třítisíciletou tradici univerzitního sdílení vědění a myšlenkové otevřenosti?</em></p>
+
+<h3 id="3--agentická-ai-a-agi">3 | Agentická AI a AGI</h3>
+
+<p>Dnes je AI v roli poradce: používáme ji pro dílčí úkony, těžíme z její schopnosti propojovat encyklopedické znalosti. Autonomní agenti, kteří budou samostatně vykonávat rozsáhlé činnosti, teprve přicházejí. Agenti budou erodovat uživatelskou kontrolu i sociální zisky, již dnes se firmy ve snaze je etablovat napojují bez větších bezpečnostních brzd na všemožné systémy, aniž by uživatelé chápali podstatu nebezpečí tohoto propojení. Zatímco se soustředíme na hypotetickou apokalypsu, kterou způsobí univerzální umělá inteligence v budoucnu, nevnímáme značná rizika agentické AI, která právě přichází. Do teoretické superinteligence se investují miliardy, do robustnosti současných systémů jen drobky. A příkladem může být evropský EU AI Act: máme detailní pravidla pro hypotetické scénáře budoucnosti, ale téměř žádná pro rizika, jež jsou tady, například pro práci se zdroji dat.</p>
+
+<p><em>Měli bychom zohlednit rizika kolapsu současných systémů a investovat do jejich robustnosti.</em></p>
+
+<h3 id="4--produktivita">4 | Produktivita</h3>
+
+<p>Umělá inteligence má znamenat prudký růst produktivity, kdy se spálená elektřina a ošoupaný křemík promění v náhradu rutinních i kreativních činností drahých a nespolehlivých lidí. Historie nicméně ukazuje, že prvních několik desetiletí trvá, než se nová technologie „propíše“ do růstu reálných mezd, nejprve se dobývá renta pro majitele výrobního prostředku. Pokud komerční model zůstane rent-extraction‑first, může dojít k  tzv. so‑so automation – málo produktivity, hodně substituce práce. První studie na úrovni firem z  call‑center a softwarového vývoje už ukazují 14‑30 % nárůsty výstupu díky LLM, ale makroefekt se zdá zatím mizivý.</p>
+
+<p><em>Klíč je v  difúzi a organizačním redesignu – nikoliv v  samotné technologii.</em></p>
+
+<h3 id="5--nerovnost-a-trh-práce">5 | Nerovnost a trh práce</h3>
+
+<p>Výzkumy z  odvětví zdravotnictví, zákaznických služeb, logistiky a výroby už ukazují dvojí efekt: AI značně zvyšuje produktivitu v  rolích s  nižším formálním vzděláním, pokud slouží jako “druhé mozky” pracovníků; naopak nejvíce škodí, když je nasazena k čisté substituci bez paralelních investic do školení a  sdílené správy dat. <strong>Bez těchto doplňkových opatření se rýsuje „dvoupatrová společnost“</strong>: úzká elita AI‑kapitalistů a fragmentovaná gig‑ekonomika s omezenou vyjednávací silou. Technologie, která jen těsně zvládá lidský úkol, snižuje mzdový podíl, ale nepřidá produktivitu – typicky u  polo‑automatických pokladen. Nízko kvalifikovaní pracovníci často nemají kapacitu převzít nové “meta‑úkoly” (diagnostika, interpretace dat, podpora AI systémů tam, kde zatím nezvládají), takže firmy tyto pracovníky nahrazují, místo aby doplňovali jejich schopnosti. Přitom komplementární školení a následný přesun lidí na úkoly vyžadující úsudek a empatii by zvýšil produktivitu i  mzdy.</p>
+
+<p><em>AI může být eskalátor, po  kterém se na trhu práce vyvezou i méně kvalifikovaní. Ovšem jen pokud kolektivně investujeme do dovedností, sdílených dat a pracovních práv. Jinak se z eskalátoru stane výtah, kterým jezdí jen vyvolení do svého loftu.</em></p>
+
+<h3 id="6--ai-vobranné-politice">6  |  AI v obranné politice</h3>
+
+<p>Očekávání rozsáhlých ozbrojených geopolitických konfliktů zatím mírnilo vědomí technologické převahy Západu. Jenže poslední konflikty ukazují, že drony za tisíce dolarů mohou ničit tanky za miliony. Západ naopak „ztrácí dech“ v bezpilotních a autonomních systémech, protože spoléhá na komerční platformy a podceňuje hromadné nasazování levných dronů. USA a NATO setrvávají u  malých sérií špičkových a drahých dronů, zatímco konkurenti sází na kvantitu a  rychlý upgrade levných platforem. Nízká cena a opensource autopilotní systémy jako Ardupilot, PX4 umožňují ne‑státním aktérům nasadit kvazivojenské kapacity.</p>
+
+<p>Zda AI přinese strategickou paritu, nebo novou nerovnováhu, bude záviset méně na špičkové inovaci na nobelistické úrovni a více na tom, kdo dokáže vyrábět (a nakupovat) levné a dostatečně chytré platformy ve velkém.  </p>
+
+<p><em>Bez reforem akvizičních procesů a investic do domácího čipového řetězce hrozí Západu, že zůstane technologicky elitní, ale číselně podkritický hráč v  boji o vzdušnou a informační převahu.</em></p>
+
+<h3 id="7--klimatická-stopa-a-energie">7 | Klimatická stopa a energie</h3>
+
+<p>Umělá ingeligence nespotřebovává jen křemík, ale také - a především - elektrickou energii. Tu nelze nijak nahradit, je potřeba ji jen vyrobit a pokud začne AI masovně vstupovat do trhu lidské práce, bude poptávka po elektřině růst. Cílem musí být bezemisní elektřina a tady potřebujeme mnoho průlomů. Blackout na Pyrenejském poloostrově jasně ukazuje, že rychle se proměňující elektrické sítě jsou křehké a náchylné ke stabilitě a společnost nemůže bez elektřiny zůstat dlouho. Zde budou potřeba masivní změny a investice a ten, kdo je zvládne, má šanci na trhu AI uspět. Lačnost AI po elektřině a touha gigantů ji ukojit snad povede k aktivnímu hledání řešení tohoto dilematu. Tvrzení, že efektivita moderních GPU a algoritmů vychýlí energetickou bilanci příznivě, není realistické. Exponentiální poptávku po inferenci (doučování AI) nelze donekonečna „odehrát“ efektivnějšími čipy. Bez průlomu v  nízkouhlíkovém baseloadu (fúze, SMR) se problém jen odsouvá.</p>
+
+<p><em>Klimatická stopa AI není osudem, ale výsledkem inovační a  politické rovnováhy.  Objem emisí z  elektřiny pro datacentra se neurčuje nějakou nevyhnutelnou fyzikální křivkou . Závisí na tom, jak rychle zlepšujeme technologickou účinnost  a současně  jaké cenové, regulační a infrastrukturní signály nastaví vlády a trh. Například emisní povolenky.</em></p>
+
+<h3 id="8--vzdělávání-a-kolektivní-inteligence">8  |  Vzdělávání a kolektivní inteligence</h3>
+
+<p>AI je nesmírně silná ve vzdělávání a zjednodušeně řečeno, pokud AI dostane úkol dítě naučit, tak jej naučí. Adaptive tutoring dokáže v reálném čase sbírat data o výkonu a stylu učení jednotlivce, upravit úlohy a vysvětlení tak, aby podchytilo slabé momenty každého žáka a urychlilo pokrok těch rychlejších. V případech, kde chybějí asistenti, speciální pedagogové či dostatečná rozvržení hodin, může AI výrazně snížit výpadky a zlepšit výsledky. Jenže v čích rukou budou tyto systémy? Bez sdílených, veřejně vlastněných datových platforem se stane vzdělávání předmětem „extraktivních rent“. Bez robustních veřejných ekosystémů AI vzdělávací nástroje prohloubí digitální propast mezi bohatým a chudým vzděláním. Stát by měl definovat open-source rozhraní, certifikovat etiku AI ve školství a financovat „edukativní cloud“, kde se kumulují a sdílejí anonymizovaná studentská data. Ne se propadat do de-facto „vendor lock-in“, jako jsme dopustili v Česku přes Google Classroom a Bakaláře.</p>
+
+<p><em>Bez právního rámce pro vlastnictví a sdílení dat, školy nevlastní výsledky AI-analýz svých žáků. To podkopává veřejnou zodpovědnost a auditovatelnost. Vzdělávací AI (a systém vzdělávání obecně) nemá být předmětem konkurenčních uzavírek, ale veřejným zbožím. Jinak riskujeme fragmentovaný systém, kde se „personalizovaná výuka“ stane prémiovou službou jen pro vyvolené.</em></p>
+
+<h3 id="ai-zvyšuje-křehkost-světa">AI zvyšuje křehkost světa</h3>
+
+<p>Zní to hrozivě. A graf vypadá děsivě, alespoň pokud teorii grafů znáte. Jak je to vážné?</p>
+
+<p><strong>Riziko „balkanizace AI“ je reálné</strong> – exportní kontroly a datová lokalizace mohou vytvořit technobloky, jejichž standardy se budou vzájemně vylučovat.</p>
+
+<p><strong>Makro‑produktivity se nedočkáme bez organizační inovace</strong>; státy by měly podporovat komplementární investice (reskilling, datové trusty) spíše než přímé dotace na modely. A měly by zabránit tomu, aby výnos z AI připadl jen jednotlivcům, neboť AI je podstaveno na práci všech generací.</p>
+
+<p><strong>Bezpečnostní debata</strong> se musí přesunout od hypotetického AGI k  aktuálním externím zneužitím a systémové robustnosti.</p>
+
+<p><strong>Energetická stopa AI</strong> se stane limitujícím faktorem; bez dekarbonizace výroby čipů a elektřiny skončí debata u uhlíkových kvót na výpočet.</p>
+
+<p>Ačkoliv “oktagon rizik” a celková křehkost světa mohou působit znepokojivě, je důležité si uvědomit, že <strong>budoucnost není předem daná</strong>. Máme schopnost ji aktivně utvářet.</p>
+
+<p><strong>Evropa má ojedinělé okno stát se „třetím pólem“</strong> – pokud spáruje regulaci jakožto formu směřování s  vlastní infrastrukturou a kapitálem pro škálování startupů.</p>
+
+<p><strong>Česko má úžasnou pozici</strong>, kdy disponuje stále vysoce rozvinutou a edukovanou společnost a třídu pracujících a zároveň není uzamčeno v úspěšné ekonomické minulosti. Díky tomu může bez obav inovovat a předstihnout státy jako Německo a Francie přitahované zpět do jejich úspěšné analogové ekonomické éry.</p>
+
+<p>Věnujme pozornost tomu, na čem záleží. Ne Tiktokovým videím, populistickému blábolení a masové zábavě. Máme tu pár témat, která jsou důležitá a která jsou důstojnou výzvou pro nejlepší mozky našeho světa!</p>
+
+<p><strong>Budujme AI soustředěnou na člověka.</strong> Masivně investujme do celoživotního vzdělávání, rekvalifikací a rozvoje dovedností, které AI doplňuje – kritické myšlení, kreativita, emoční inteligence, komplexní řešení problémů a digitální gramotnost. AI nemusí být jen o substituci, ale především o augmentaci lidských schopností.</p>
+
+<p>Aktivně prosazujme <strong>vývoj AI v souladu s etickými principy</strong> transparentnosti, spravedlnosti a odpovědnosti.</p>
+
+<p>Pokračujme <strong>v investicích do vlastní výpočetní infrastruktury</strong>, výzkumu a podpory talentů, aby se snížila závislost na externích aktérech a podpořila vlastní inovace respektující evropské hodnoty a jazykovou rozmanitost.</p>
+
+<p><strong>Podporujme otevřené standardy a platformy</strong>. Nedopusťme další „uzamykání“ a „vylučování“ z infrastruktury, která má být veřejná.</p>
+
+<p>Hledejme mechanismy, které zajistí, že produktivita získaná díky AI se <strong>promítne do zlepšení kvality života</strong> široké populace, nikoli jen do zisků úzké skupiny.</p>
+
+<p>Podporujme firmy a organizace v redesignu pracovních procesů tak, aby <strong>AI efektivně integrovaly a vytvářely nové, smysluplné role</strong> pro lidi.</p>
+
+<p>Aktivně podporujme <strong>vývoj energeticky méně náročných algoritmů a hardwaru</strong>. Investujme <strong>do obnovitelných a bezemisních zdrojů energie</strong> pro napájení datových center. Využijme potenciál AI pro modelování klimatických změn, optimalizaci energetických sítí, vývoj nových udržitelných materiálů a ochranu biodiverzity.</p>
+
+<p><strong>Vzdělávejme společnost</strong>, jak rozpoznávat dezinformace včetně těch generovaných AI a jak kriticky přistupovat k informacím. Vytvářejme platformy pro veřejnou diskusi a participaci na rozhodování o směřování a regulaci AI. Demokratická kontrola nad takto mocnou technologií je klíčová.</p>
+
+<p>Křehkost světa a výzvy spojené s umělou inteligencí nejsou důvodem k paralýze, ale výzvou k akci.</p>
+
+<p>Zvládneme to!</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><summary type="html"><![CDATA[Pozornost je vše, co potřebujete. Tak se jmenuje jedna z nejcitovanějších vědeckých prací posledního století. A ano, ve skutečnosti se věnuje mechanismu pozornosti pro zpracování sekvenčních dat a její sláva tkví v tom, že se stala základem technologie Transformátorů a tím fakticky odstartovala moderní éru AI. Z názvu bychom přitom soudili, že jde o významnou práci adolescentní behaviorální psychologie nebo návod k pochopení dnešního světa.]]></summary></entry><entry xml:lang="cs"><title type="html">Stručný průvodce novinkami z Google I/O 2025</title><link href="https://www.marigold.cz/item/google-io-2025/" rel="alternate" type="text/html" title="Stručný průvodce novinkami z Google I/O 2025" /><published>2025-05-25T00:00:00+00:00</published><updated>2025-05-25T00:00:00+00:00</updated><id>https://www.marigold.cz/item/google-io-2025</id><content type="html" xml:base="https://www.marigold.cz/item/google-io-2025/"><![CDATA[<p>Google se na své květnové konferenci I/O 2025 zaměřil výhradně na umělou inteligenci. V hlavní prezentaci zazněl termín “AI” celkem 95krát, což jasně naznačuje prioritu společnosti. Pojďme si rozebrat všechny klíčové novinky, které Google představil.</p>
 
 <h2 id="nové-ai-modely-a-jejich-schopnosti">Nové AI modely a jejich schopnosti</h2>
 
@@ -155,7 +269,7 @@
 
 <h3 id="github-copilot-coding-agent">GitHub Copilot Coding Agent</h3>
 
-<p>GitHub Copilot se vyvíjí z asistenta v editoru na agentního AI partnera s prvním autonomním, asynchronním vývojářským agentem integrovaným do platformy GitHub. GitHub Copilot bude schopen testovat, iterovat a zdokonalovat kód v GitHubu jako AI agent, kterému mohou vývojáři delegovat jak rutinní, tak specializované úkoly.</p>
+<p>GitHub Copilot se vyvíjí z asistenta v editoru na agentního AI partnera s prvním autonomním, asynchronním vývojářským agentem integrovaným do platformy GitHub. GitHub Copilot bude schopen testovat, iterovat a zdokonalovat kód v GitHubu jako <a href="/ai/agenti/">AI agent</a>, kterému mohou vývojáři delegovat jak rutinní, tak specializované úkoly.</p>
 
 <h3 id="github-models">GitHub Models</h3>
 
@@ -177,9 +291,9 @@
   <li>Windows AI APIs nabízí rychlou a snadnou cestu pro vývojáře aplikací Windows k integraci AI funkcí, které běží lokálně na Copilot+ PC.</li>
 </ul>
 
-<h3 id="model-context-protocol-mcp-na-windows">Model Context Protocol (<a href="/ai/mcp/">MCP</a>) na Windows</h3>
+<h3 id="model-context-protocol-mcp-na-windows"><a href="/ai/mcp/">Model Context Protocol</a> (<a href="/ai/mcp/">MCP</a>) na Windows</h3>
 
-<p>MCP na Windows nabídne standardizovaný rámec pro propojení AI agentů s nativními aplikacemi Windows. Aplikace Windows mohou vystavit specifické funkce ke zvýšení dovedností a schopností agentů nainstalovaných lokálně na Windows PC.</p>
+<p><a href="/ai/mcp/">MCP</a> na Windows nabídne standardizovaný rámec pro propojení AI agentů s nativními aplikacemi Windows. Aplikace Windows mohou vystavit specifické funkce ke zvýšení dovedností a schopností agentů nainstalovaných lokálně na Windows PC.</p>
 
 <h3 id="bezpečnost-ve-windows">Bezpečnost ve Windows</h3>
 
@@ -291,7 +405,7 @@ V těchto scénářích se Claude Opus 4 často pokusí vydírat inženýra tím
 
 <p>V oblasti <strong>agentického kódování</strong> - komplexnějších programátorských úloh vyžadujících autonomní práci - oba modely dosahují srovnatelných výsledků okolo 72-73%, což představuje podstatné zlepšení oproti Sonnet 3.7 (62,3%). Významný je také pokrok v úlohách <strong>terminálového kódování</strong>, kde Opus 4 dosahuje 43,2% úspěšnosti oproti 35,2% u předchozí generace.</p>
 
-<p>Podle nezávislých recenzí od vývojářských nástrojů jako Replit a Cursor dokážou nové modely provádět “precizní změny napříč masivními codebase” a představují “to nejlepší pro vývojáře”. <a href="/ai/claude-code/">Claude Code</a>, terminálové rozhraní pro programátory, je nyní obecně dostupné a umožňuje kontinuální práci na komplexních projektech po dobu hodin. Sám musím potvrdit, že schopnost Claude Code se Sonnet 4 se mi jeví jako výrazně lepší než u jeho předchůdce. Úlohy, které vysloveně nemám rád, jako napojování na databáze, u Sonnet 4 fungují o řád lépe. Například jsem jím odladil hodnocení článků na konci každého článku zde na serveru, můžete vyzkoušet…</p>
+<p>Podle nezávislých recenzí od vývojářských nástrojů jako Replit a Cursor dokážou nové modely provádět “precizní změny napříč masivními codebase” a představují “to nejlepší pro vývojáře”. <a href="/ai/claude-code/">Claude Code</a>, terminálové rozhraní pro programátory, je nyní obecně dostupné a umožňuje kontinuální práci na komplexních projektech po dobu hodin. Sám musím potvrdit, že schopnost <a href="/ai/claude-code/">Claude Code</a> se Sonnet 4 se mi jeví jako výrazně lepší než u jeho předchůdce. Úlohy, které vysloveně nemám rád, jako napojování na databáze, u Sonnet 4 fungují o řád lépe. Například jsem jím odladil hodnocení článků na konci každého článku zde na serveru, můžete vyzkoušet…</p>
 
 <h3 id="reasoning-a-analytické-schopnosti">Reasoning a analytické schopnosti</h3>
 
@@ -305,7 +419,7 @@ V těchto scénářích se Claude Opus 4 často pokusí vydírat inženýra tím
 
 <h2 id="praktické-nasazení-a-ekonomické-aspekty">Praktické nasazení a ekonomické aspekty</h2>
 
-<p>Cenová struktura zůstává <strong>beze změny oproti předchozím generacím</strong>: Claude Opus 4 stojí 15 dolarů za milion vstupních tokenů a 75 dolarů za výstupní tokeny, zatímco Sonnet 4 je dostupný za 3 respektive 15 dolarů. Významnou novinkou je <strong>hodinové prompt caching</strong>, které snižuje náklady o 90% a latenci o 85% pro dlouhé, multi-step agent workflows s persistentním kontextem.</p>
+<p>Cenová struktura zůstává <strong>beze změny oproti předchozím generacím</strong>: Claude Opus 4 stojí 15 dolarů za milion vstupních <a href="/ai/tokeny-versus-slova/">tokenů</a> a 75 dolarů za výstupní <a href="/ai/tokeny-versus-slova/">tokeny</a>, zatímco Sonnet 4 je dostupný za 3 respektive 15 dolarů. Významnou novinkou je <strong>hodinové prompt caching</strong>, které snižuje náklady o 90% a latenci o 85% pro dlouhé, multi-step agent workflows s persistentním kontextem.</p>
 
 <p>Nové <strong>Files API</strong> umožňuje nahrát dokumenty jednou a znovu je používat napříč sezeními, což je ideální pro datasety, analýzy a persistentní file-based workflows. <strong>Code execution tool</strong> poskytuje možnost spouštět Python kód přímo přes Anthropic API, což umožňuje kompletní data analysis, charting a document automation v jednom workflow.</p>
 
@@ -321,7 +435,7 @@ V těchto scénářích se Claude Opus 4 často pokusí vydírat inženýra tím
 
 <h2 id="nové-funkcionality-a-workflow-integrace">Nové funkcionality a workflow integrace</h2>
 
-<p>Claude 4 generace přináší několik <strong>zásadních rozšíření funkcionalit</strong>. Model Control Protocol (MCP) connector umožňuje připojení k externím nástrojům jako Zapier nebo Asana bez nutnosti klientského kódu - stačí přidat URL a systém je funkční. Tato schopnost výrazně rozšiřuje možnosti automatizace a integrace do existujících workflow a je to příjemná změna proti dřívější editaci JSON souboru.</p>
+<p>Claude 4 generace přináší několik <strong>zásadních rozšíření funkcionalit</strong>. Model Control Protocol (<a href="/ai/mcp/">MCP</a>) connector umožňuje připojení k externím nástrojům jako Zapier nebo Asana bez nutnosti klientského kódu - stačí přidat URL a systém je funkční. Tato schopnost výrazně rozšiřuje možnosti automatizace a integrace do existujících workflow a je to příjemná změna proti dřívější editaci JSON souboru.</p>
 
 <p>Schopnost <strong>používat nástroje během uvažování</strong>, jako je webové vyhledávání, otevírá možnosti pro více-agentní a více-nástrojové pracovní postupy, které skutečně škálují. Model může během analýzy problému autonomně vyhledávat informace, ověřovat fakta a aktualizovat své chápání situace.</p>
 
@@ -421,7 +535,7 @@ V těchto scénářích se Claude Opus 4 často pokusí vydírat inženýra tím
 <p>Model je dostupný jako výchozí v Codex CLI a v API jako codex-mini-latest. Cenově je nastaven na:</p>
 <ul>
   <li>$1.50 za 1M vstupních <a href="/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/">[[tokenů](/ai/tokeny-versus-slova/)](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/)</a></li>
-  <li>$6 za 1M výstupních tokenů</li>
+  <li>$6 za 1M výstupních <a href="/ai/tokeny-versus-slova/">tokenů</a></li>
   <li>75% sleva při cachování promptů</li>
 </ul>
 
@@ -2307,126 +2421,4 @@ Pro vývojáře jsou modely k dispozici prostřednictvím Chat Completions API a
 
 <p><img src="/assets/midjourneyVý-example1.jpeg" alt="Fotorealistický obrázek obličeje" /></p>
 
-<p><img src="/assets/midjourneyVý-example2.jpeg" alt="Vygenerované Anime, všímejte si těch detailů" /></p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Midjourney" /><summary type="html"><![CDATA[Midjourney vydal po zhruba roce od předchozího modelu alfa verzi svého obrazového modelu V7, který přináší změny v kvalitě a funkcionalitě AI generování obrazů. Model zavádí nové funkce měnící způsob interakce s nástrojem a zlepšující kvalitu výstupů.]]></summary></entry><entry xml:lang="cs"><title type="html">Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu</title><link href="https://www.marigold.cz/item/architektura-vibecoding/" rel="alternate" type="text/html" title="Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu" /><published>2025-04-03T00:00:00+00:00</published><updated>2025-04-03T00:00:00+00:00</updated><id>https://www.marigold.cz/item/architektura-vibecoding</id><content type="html" xml:base="https://www.marigold.cz/item/architektura-vibecoding/"><![CDATA[<p>Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže <a href="/vibe-coding/">[vibe coding](/item/programovani-s-ai/)</a>, jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.</p>
-
-<p>Pojdme si spolu projít zásady, které se mi za posledních pár pokusů vydestilovaly jako základ úspěchu a rychlého posunu s vibe codingem:</p>
-
-<h2 id="hlavní-princip-modularizace-a-zjednodušení"><strong>Hlavní princip: Modularizace a zjednodušení</strong></h2>
-
-<p>Klíčem k úspěšnému vývoji pomocí vibe codingu je důsledná modularizace a zjednodušení celého procesu. Nejlepší je rozdělit vývoj do tří jasně oddělených částí:</p>
-
-<ol>
-  <li><strong>Frontend vyvinutý pomocí no-code nástrojů</strong> - čistě pro UI/UX</li>
-  <li><strong>Minimální sada API bez business logiky</strong> - pouze pro komunikaci a přístup k datům</li>
-  <li><strong>Business logika implementovaná v automatizačním frameworku</strong> - pro skutečnou funkcionalitu systému</li>
-</ol>
-
-<p>Tato struktura přináší několik významných výhod:</p>
-
-<ul>
-  <li>Frontend kód zůstává čistý a jednoduchý, zaměřený pouze na zobrazování UI</li>
-  <li>API kód je krátký, přímočarý a snadno spravovatelný</li>
-  <li>Business logika je přehledně vizualizovaná v automatizačním frameworku, což usnadňuje debugging</li>
-</ul>
-
-<h2 id="praktický-postup-implementace"><strong>Praktický postup implementace</strong></h2>
-
-<h3 id="1-vývoj-frontendu"><strong>1. Vývoj frontendu</strong></h3>
-
-<p>Začněte výběrem vhodného no-code nástroje jako Bubble, Bolt nebo Replit. Zaměřte se výhradně na vzhled a pocit z aplikace. V této fázi ignorujte technické detaily implementace a soustřeďte se pouze na UI/UX.</p>
-
-<p><strong>Důležité tipy:</strong></p>
-
-<ul>
-  <li>Vytvořte plně funkční frontend, který vypadá přesně tak, jak chcete</li>
-  <li>Nechte si ho generovat jako statický soubor (HTML/CSS/JS)</li>
-  <li>Autentizaci a volání API implementujte až později</li>
-  <li>Pro hosting využijte služby jako Cloudflare, které jsou pro statické soubory zdarma</li>
-</ul>
-
-<h3 id="2-implementace-api"><strong>2. Implementace API</strong></h3>
-
-<p>Pro backend je nejlépe využít Python, který má vynikající podporu v AI nástrojích jako Cursor nebo Cline. Klíčová pravidla pro backend jsou:</p>
-
-<ul>
-  <li><strong>Omezte počet souborů</strong> (ideálně max. 25)</li>
-  <li><strong>Limitujte délku jednotlivých souborů</strong> (max. 250 řádků)</li>
-  <li><strong>Vytvářejte jen tři typy API:</strong></li>
-  <li><strong>Data storage API</strong>: jednoduchá CRUD rozhraní, s jasně definovanou strukturou a Swagger dokumentací.</li>
-  <li><strong>Processing API</strong>: slouží pro náročnější úkoly jako je komprese obrázků, generování videí či reportů. Držte je oddělené od datového API.</li>
-  <li><strong>Real-time API</strong> (například pro chat, video, apod.): jde o složitější úkoly, u kterých stojí za to zvážit spolupráci se specializovaným vývojářem.</li>
-</ul>
-
-<p>A dejte si pozor na jednu věc: řada AI nástrojů má tendenci databázi propojovat přímo s kódem, veškerá napojení na databází musí jít přes endpointy API na vašem serveru, jinak vystavíte databázi světu!</p>
-
-<p>Proč tyto limity? Příliš mnoho souborů a řádků kódu znamená více kontextu pro AI, vyšší náklady a více potenciálních chyb.</p>
-
-<h3 id="3-implementace-business-logiky-v-automatizačním-frameworku"><strong>3. Implementace business logiky v automatizačním frameworku</strong></h3>
-
-<p>Klíčovým rozdílem oproti tradičním přístupům je přesun business logiky z backend kódu do vizuálního automatizačního frameworku jako je n8n, Make,  Zapier nebo PowerApps, pokud je to jen trochu možné. Především tak dostanete ověřenou funkcionalitu, jejíž fungování si můžete vizualizovat. I jako neprogramátor pak vidíte, co se s daty děje, jak a kudy putují a jak se zpracovávají. Ostatně, na propojování různých systémů je <a href="/vibe-coding/">vibe coding</a> a rychlá stavba prototypů založena - můžete se tomu vysmívat, ale je to podobné, jako v Linuxu, kde využíváte vstupně/výstupní rozhraní nejrůznějších démonů, utilit či knihoven. Jen to má líbivější kabátek a “matlačku” mezi tím dělá AI nebo klikání  myší v rozhraní.</p>
-
-<p>Dodržením pravidla přesunu logiky do automatizačního frameworku dosáhnete několika zásadních výhod:</p>
-
-<ul>
-  <li><strong>Menší AI kontext</strong>: kratší a jednodušší kód znamená menší potřebu kontextu pro AI a tím i méně chyb.</li>
-  <li><strong>Úspora nákladů</strong>: frontend můžete zdarma hostovat například na Cloudflare, backendové API jsou díky jednoduchosti levnější na provoz.</li>
-  <li><strong>Snadná údržba</strong>: obchodní logika v nástrojích jako Zapier je snadno čitelná, což umožňuje rychlé změny a jasnou prezentaci týmu i klientům.</li>
-</ul>
-
-<h2 id="důsledky-pro-celkovou-architekturu"><strong>Důsledky pro celkovou architekturu</strong></h2>
-
-<p>Tento <a href="/vibe-coding/">vibe coding</a> přístup vede k systému složenému ze tří jasně oddělených vrstev:</p>
-
-<ol>
-  <li><strong>Frontend</strong> (vibe coded) - zodpovědný pouze za prezentaci</li>
-  <li><strong>Backend API</strong> (vibe coded) - zodpovědný za ukládání, zpracování a komunikaci</li>
-  <li><strong>Automatizační framework</strong> - zodpovědný za business logiku a propojení všech komponent</li>
-</ol>
-
-<p>Takto strukturovaný systém je nejen snazší vyvíjet, ale také udržovat a rozšiřovat, protože každá část má jasně definovanou zodpovědnost a rozhraní.</p>
-
-<h2 id="testování-a-monitoring"><strong>Testování a monitoring</strong></h2>
-
-<p>Po úspěšné implementaci všech tří částí je důležité nezapomenout na testování a monitoring. Santoso doporučuje:</p>
-
-<ul>
-  <li>Vytvořit automatizovaný workflow, který denně testuje funkčnost API</li>
-  <li>Implementovat pravidelné reportování a monitoring pomocí emailů nebo notifikací</li>
-  <li>Využít automatizační framework i pro účely testování</li>
-</ul>
-
-<pre><code class="language-mermaid">graph TD
-    %% Hlavní bloky
-    A[Jak správně vyvíjet MVP prototypy pomocí Vibe Codingu] --&gt; B(Oddělení vrstev aplikace)
-
-    %% Oddělení vrstev
-    B --&gt; C[Frontend UI - No-code nástroje]
-    B --&gt; D[Backend - Minimalistická API]
-    B --&gt; E[Obchodní logika - Automatizace]
-
-    %% Frontend detaily
-    C --&gt; C1[Bubble / Bolt / Replit]
-
-    %% Backend detaily
-    D --&gt; D1[Data Storage API - CRUD, Swagger]
-    D --&gt; D2[Processing API - Zpracování dat]
-    D --&gt; D3[Real-time API - Chat, Video]
-
-    %% Logika detaily
-    E --&gt; E1[Zapier / n8n / PowerApps]
-
-    %% Integrace a monitoring
-    C &amp; D &amp; E --&gt; F[Integrace a monitoring]
-
-    %% Detaily monitoringu
-    F --&gt; G[Denní automatizovaný testing API]
-    F --&gt; H[Automatické reporty a alerty]
-</code></pre>
-
-<h2 id="závěr"><strong>Závěr</strong></h2>
-
-<p>“Vibe coding” s využitím nejnovějších AI nástrojů představuje atraktivní způsob rychlého vývoje MVP a prototypů. Klíčem k úspěchu je však důsledné rozdělení zodpovědností mezi tři oddělené vrstvy - frontend, API a automatizační framework. Tento přístup minimalizuje čas strávený debugováním, umožňuje rychlý vývoj a usnadňuje budoucí rozšíření a údržbu.</p>
-
-<p>Pro vývojáře, kteří chtějí experimentovat s tímto přístupem, je důležité mít na paměti, že nejde o kompletní náhradu tradičních vývojových metod, ale spíše o komplementární přístup vhodný zejména pro rychlý vývoj prototypů a MVP před jejich případným přepracováním do produkční kvality.</p>
-
-<p>Pro zajímavost si někdy popíšeme, jak jsem vibe codingem realizoval některé služby, jako jsou například <a href="http://www.zajimaveprednasky.cz">zajímaveprednasky.cz</a>…</p>]]></content><author><name>Patrick Zandl</name></author><category term="vibe coding" /><category term="AI" /><summary type="html"><![CDATA[Vytvářet prototypy software (MVP) pomocí AI začíná být stále rozšířenější metoda. Jenže [vibe coding](/item/programovani-s-ai/), jak se nový přístup k vývoji MVP jmenuje, má své nástrahy. A nelze jej používat bezhlavě - a na vechny projekty. Rychle narazíte na problém, kdy většinu času strávíte opravami kódu, který AI napsala nejasně nebo špatně. Klíčem k úspěchu je proto systémová jednoduchost a modulárnost, která umožní AI udržet si přehled v “kontextu”.]]></summary></entry></feed>
+<p><img src="/assets/midjourneyVý-example2.jpeg" alt="Vygenerované Anime, všímejte si těch detailů" /></p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Midjourney" /><summary type="html"><![CDATA[Midjourney vydal po zhruba roce od předchozího modelu alfa verzi svého obrazového modelu V7, který přináší změny v kvalitě a funkcionalitě AI generování obrazů. Model zavádí nové funkce měnící způsob interakce s nástrojem a zlepšující kvalitu výstupů.]]></summary></entry></feed>
