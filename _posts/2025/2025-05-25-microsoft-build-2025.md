@@ -80,7 +80,7 @@ Azure AI Foundry nyní integruje několik významně vylepšených bezpečnostn�
 
 ### GitHub Copilot Coding Agent
 
-GitHub Copilot se vyvíjí z asistenta v editoru na agentního AI partnera s prvním autonomním, asynchronním vývojářským agentem integrovaným do platformy GitHub. GitHub Copilot bude schopen testovat, iterovat a zdokonalovat kód v GitHubu jako AI agent, kterému mohou vývojáři delegovat jak rutinní, tak specializované úkoly.
+GitHub Copilot se vyvíjí z asistenta v editoru na agentního AI partnera s prvním autonomním, asynchronním vývojářským agentem integrovaným do platformy GitHub. GitHub Copilot bude schopen testovat, iterovat a zdokonalovat kód v GitHubu jako [AI agent](/ai/agenti/), kterému mohou vývojáři delegovat jak rutinní, tak specializované úkoly.
 
 ### GitHub Models
 
@@ -100,9 +100,9 @@ Windows AI Foundry, evoluce Windows Copilot Runtime, nabízí jednotnou a spoleh
 - Windows AI Foundry integruje Foundry Local a další katalogy modelů jako Ollama a NVIDIA NIMs.
 - Windows AI APIs nabízí rychlou a snadnou cestu pro vývojáře aplikací Windows k integraci AI funkcí, které běží lokálně na Copilot+ PC.
 
-### Model Context Protocol ([MCP](/ai/mcp/)) na Windows
+### [Model Context Protocol](/ai/mcp/) ([MCP](/ai/mcp/)) na Windows
 
-MCP na Windows nabídne standardizovaný rámec pro propojení AI agentů s nativními aplikacemi Windows. Aplikace Windows mohou vystavit specifické funkce ke zvýšení dovedností a schopností agentů nainstalovaných lokálně na Windows PC.
+[MCP](/ai/mcp/) na Windows nabídne standardizovaný rámec pro propojení AI agentů s nativními aplikacemi Windows. Aplikace Windows mohou vystavit specifické funkce ke zvýšení dovedností a schopností agentů nainstalovaných lokálně na Windows PC.
 
 ### Bezpečnost ve Windows
 

@@ -90,7 +90,7 @@ Současně s uvedením Codexu OpenAI vydává menší verzi codex-1, která je v
 
 Model je dostupný jako výchozí v Codex CLI a v API jako codex-mini-latest. Cenově je nastaven na:
 - $1.50 za 1M vstupních [[[tokenů](/ai/tokeny-versus-slova/)](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/)](/ai/[tokeny](/ai/tokeny-versus-slova/)-versus-slova/)
-- $6 za 1M výstupních tokenů
+- $6 za 1M výstupních [tokenů](/ai/tokeny-versus-slova/)
 - 75% sleva při cachování promptů
 
 ## Omezení a budoucí vývoj

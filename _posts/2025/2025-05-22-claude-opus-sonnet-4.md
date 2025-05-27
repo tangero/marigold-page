@@ -39,7 +39,7 @@ Oblast vývoje software představuje nejpozoruhodnější pokrok nové generace 
 
 V oblasti **agentického kódování** - komplexnějších programátorských úloh vyžadujících autonomní práci - oba modely dosahují srovnatelných výsledků okolo 72-73%, což představuje podstatné zlepšení oproti Sonnet 3.7 (62,3%). Významný je také pokrok v úlohách **terminálového kódování**, kde Opus 4 dosahuje 43,2% úspěšnosti oproti 35,2% u předchozí generace.
 
-Podle nezávislých recenzí od vývojářských nástrojů jako Replit a Cursor dokážou nové modely provádět "precizní změny napříč masivními codebase" a představují "to nejlepší pro vývojáře". [Claude Code](/ai/claude-code/), terminálové rozhraní pro programátory, je nyní obecně dostupné a umožňuje kontinuální práci na komplexních projektech po dobu hodin. Sám musím potvrdit, že schopnost Claude Code se Sonnet 4 se mi jeví jako výrazně lepší než u jeho předchůdce. Úlohy, které vysloveně nemám rád, jako napojování na databáze, u Sonnet 4 fungují o řád lépe. Například jsem jím odladil hodnocení článků na konci každého článku zde na serveru, můžete vyzkoušet... 
+Podle nezávislých recenzí od vývojářských nástrojů jako Replit a Cursor dokážou nové modely provádět "precizní změny napříč masivními codebase" a představují "to nejlepší pro vývojáře". [Claude Code](/ai/claude-code/), terminálové rozhraní pro programátory, je nyní obecně dostupné a umožňuje kontinuální práci na komplexních projektech po dobu hodin. Sám musím potvrdit, že schopnost [Claude Code](/ai/claude-code/) se Sonnet 4 se mi jeví jako výrazně lepší než u jeho předchůdce. Úlohy, které vysloveně nemám rád, jako napojování na databáze, u Sonnet 4 fungují o řád lépe. Například jsem jím odladil hodnocení článků na konci každého článku zde na serveru, můžete vyzkoušet... 
 
 ### Reasoning a analytické schopnosti
 
@@ -53,7 +53,7 @@ Vícejazyčné schopnosti vykazují postupný pokrok - Opus 4 dosahuje 88,8% v M
 
 ## Praktické nasazení a ekonomické aspekty
 
-Cenová struktura zůstává **beze změny oproti předchozím generacím**: Claude Opus 4 stojí 15 dolarů za milion vstupních tokenů a 75 dolarů za výstupní tokeny, zatímco Sonnet 4 je dostupný za 3 respektive 15 dolarů. Významnou novinkou je **hodinové prompt caching**, které snižuje náklady o 90% a latenci o 85% pro dlouhé, multi-step agent workflows s persistentním kontextem.
+Cenová struktura zůstává **beze změny oproti předchozím generacím**: Claude Opus 4 stojí 15 dolarů za milion vstupních [tokenů](/ai/tokeny-versus-slova/) a 75 dolarů za výstupní [tokeny](/ai/tokeny-versus-slova/), zatímco Sonnet 4 je dostupný za 3 respektive 15 dolarů. Významnou novinkou je **hodinové prompt caching**, které snižuje náklady o 90% a latenci o 85% pro dlouhé, multi-step agent workflows s persistentním kontextem.
 
 Nové **Files API** umožňuje nahrát dokumenty jednou a znovu je používat napříč sezeními, což je ideální pro datasety, analýzy a persistentní file-based workflows. **Code execution tool** poskytuje možnost spouštět Python kód přímo přes Anthropic API, což umožňuje kompletní data analysis, charting a document automation v jednom workflow.
 
@@ -69,7 +69,7 @@ Zajímavým aspektem je zavedení **summarizace myšlenkových procesů** u nejd
 
 ## Nové funkcionality a workflow integrace
 
-Claude 4 generace přináší několik **zásadních rozšíření funkcionalit**. Model Control Protocol (MCP) connector umožňuje připojení k externím nástrojům jako Zapier nebo Asana bez nutnosti klientského kódu - stačí přidat URL a systém je funkční. Tato schopnost výrazně rozšiřuje možnosti automatizace a integrace do existujících workflow a je to příjemná změna proti dřívější editaci JSON souboru. 
+Claude 4 generace přináší několik **zásadních rozšíření funkcionalit**. Model Control Protocol ([MCP](/ai/mcp/)) connector umožňuje připojení k externím nástrojům jako Zapier nebo Asana bez nutnosti klientského kódu - stačí přidat URL a systém je funkční. Tato schopnost výrazně rozšiřuje možnosti automatizace a integrace do existujících workflow a je to příjemná změna proti dřívější editaci JSON souboru. 
 
 Schopnost **používat nástroje během uvažování**, jako je webové vyhledávání, otevírá možnosti pro více-agentní a více-nástrojové pracovní postupy, které skutečně škálují. Model může během analýzy problému autonomně vyhledávat informace, ověřovat fakta a aktualizovat své chápání situace. 
 
