@@ -3,7 +3,8 @@ import requests
 import frontmatter
 import hashlib
 import sys
-import subprocess
+import re
+from datetime import datetime
 
 DEEPL_API_KEY = os.environ.get('DEEPL_API_KEY')
 DEEPL_API_URL = 'https://api-free.deepl.com/v2/translate'
@@ -31,94 +32,76 @@ def translate_text(text, target_lang='EN-US'):
 def get_content_hash(content):
     return hashlib.md5(content.encode()).hexdigest()
 
-def get_latest_file(directory='_posts'):
+# Load environment variables
+from pathlib import Path
+from dotenv import load_dotenv, find_dotenv
+load_dotenv(find_dotenv())
+# Optional cutoff_date for processing only newer posts
+cutoff_str = os.getenv("CUTOFF_DATE")
+cutoff_date = None
+if cutoff_str:
     try:
-        # Použijeme git ls-tree pro získání seznamu souborů v _posts adresáři
-        result = subprocess.run(
-            ['git', 'ls-tree', '-r', '--name-only', 'HEAD', directory],
-            capture_output=True, text=True, check=True
-        )
-        files = result.stdout.strip().split('\n')
-        md_files = [f for f in files if f.endswith('.md') and f.startswith(directory)]
-        
-        if not md_files:
-            log("No .md files found in the _posts directory")
-            return None
-        
-        # Získáme poslední commit pro každý soubor
-        latest_file = None
-        latest_commit_date = None
-        for file in md_files:
-            date_result = subprocess.run(
-                ['git', 'log', '-1', '--format=%ct', file],
-                capture_output=True, text=True, check=True
-            )
-            commit_date = int(date_result.stdout.strip())
-            if latest_commit_date is None or commit_date > latest_commit_date:
-                latest_file = file
-                latest_commit_date = commit_date
-        
-        log(f"Latest file: {latest_file}")
-        return latest_file
-    except subprocess.CalledProcessError as e:
-        log(f"Error running git command: {e}")
-        return None
+        cutoff_date = datetime.strptime(cutoff_str, "%Y-%m-%d")
+    except ValueError:
+        log(f"Warning: ignored invalid CUTOFF_DATE: {cutoff_str}")
 
-def process_file(file_path):
-    log(f"Processing file: {file_path}")
-    post = frontmatter.load(file_path)
-    
-    base_name = os.path.basename(file_path)
-    new_file_name = os.path.splitext(base_name)[0] + '.md'
-    new_file_path = os.path.join('_posts', 'en', new_file_name)
-    
-    os.makedirs(os.path.dirname(new_file_path), exist_ok=True)
-    
-    if os.path.exists(new_file_path):
-        existing_post = frontmatter.load(new_file_path)
-        if 'content_hash' in existing_post and existing_post['content_hash'] == get_content_hash(post.content):
-            log(f"Skipping unchanged file: {file_path}")
-            return
-    
-    log("Translating title")
-    post['title'] = translate_text(post['title'])
-    
-    if 'post_excerpt' in post:
-        log("Translating post_excerpt")
-        post['post_excerpt'] = translate_text(post['post_excerpt'])
-    
-    log("Translating content")
-    content = post.content
-    translated_content = translate_text(content)
-    post.content = translated_content
-    
-    post['translated'] = True
-    post['original_lang'] = 'cs'
-    post['lang'] = 'en'
-    post['content_hash'] = get_content_hash(content)
-    
-    # Vytvoření správné struktury URL bez data
-    post['lang'] = 'en'
-    slug = '-'.join(new_file_name.split('-')[3:]).replace('.md', '')
-    post['permalink'] = f"/en/item/{slug}/"
-    
-    log(f"Saving translated file: {new_file_path}")
-    with open(new_file_path, 'w', encoding='utf-8') as f:
-        f.write(frontmatter.dumps(post))
-    log("File saved successfully")
+def get_post_date_from_filename(filename):
+    match = re.match(r'^(\d{4}-\d{2}-\d{2})', filename)
+    if match:
+        try:
+            return datetime.strptime(match.group(1), "%Y-%m-%d")
+        except ValueError:
+            return None
+    return None
 
 def main():
     log("Starting translation process")
-    latest_file = get_latest_file('_posts')
-    if latest_file:
-        try:
-            process_file(latest_file)
-            log("Translation completed successfully")
-        except Exception as e:
-            log(f"Error processing file: {str(e)}")
-            sys.exit(1)
-    else:
-        log("No files to process")
+    posts_dir = Path('_posts')
+    output_dir = posts_dir / 'en'
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    for file_path in posts_dir.rglob('*.md'):
+        if cutoff_date:
+            date = get_post_date_from_filename(file_path.name)
+            if not date or date <= cutoff_date:
+                continue
+        if 'en' in file_path.parts:
+            continue
+        post = frontmatter.load(file_path)
+        if not post.metadata.get('translate', False):
+            continue
+
+        base_name = file_path.name
+        new_file_path = output_dir / base_name
+        if new_file_path.exists():
+            existing_post = frontmatter.load(new_file_path)
+            if existing_post.get('content_hash') == get_content_hash(post.content):
+                log(f"Skipping unchanged file: {file_path}")
+                continue
+
+        log(f"Translating file: {file_path}")
+        # Title
+        post['title'] = translate_text(post.get('title', ''))
+        # Excerpt
+        if 'post_excerpt' in post.metadata:
+            post['post_excerpt'] = translate_text(post.metadata['post_excerpt'])
+        # Content
+        original_content = post.content
+        post.content = translate_text(original_content)
+
+        post['translated'] = True
+        post['original_lang'] = post.metadata.get('lang', 'cs')
+        post['lang'] = 'en'
+        post['content_hash'] = get_content_hash(original_content)
+
+        slug = '-'.join(base_name.split('-')[3:]).replace('.md', '')
+        post['permalink'] = f"/en/item/{slug}/"
+
+        log(f"Saving translated file: {new_file_path}")
+        with open(new_file_path, 'w', encoding='utf-8') as f:
+            f.write(frontmatter.dumps(post))
+
+    log("Translation completed")
 
 if __name__ == '__main__':
     main()

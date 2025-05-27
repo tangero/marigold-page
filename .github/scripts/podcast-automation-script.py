@@ -5,6 +5,28 @@ from github import Github
 import re
 import yaml
 
+# Load environment variables
+from dotenv import load_dotenv, find_dotenv
+load_dotenv(find_dotenv())
+# Optional cutoff_date for processing only newer posts
+from datetime import datetime
+cutoff_str = os.getenv("CUTOFF_DATE")
+cutoff_date = None
+if cutoff_str:
+    try:
+        cutoff_date = datetime.strptime(cutoff_str, "%Y-%m-%d")
+    except ValueError:
+        print(f"Warning: ignored invalid CUTOFF_DATE: {cutoff_str}")
+
+def get_post_date_from_filename(filename):
+    m = re.match(r'^(\d{4}-\d{2}-\d{2})', filename)
+    if m:
+        try:
+            return datetime.strptime(m.group(1), "%Y-%m-%d")
+        except ValueError:
+            return None
+    return None
+
 # Nastavení proměnných prostředí
 API_KEY = os.getenv('ELEVENLABS_API_KEY')
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
@@ -163,6 +185,12 @@ def main():
 
     article_filename, article_content = get_latest_article(repo)
     if article_content:
+        # Skip articles older or equal to cutoff_date
+        if cutoff_date:
+            post_date = get_post_date_from_filename(article_filename)
+            if not post_date or post_date <= cutoff_date:
+                debug_print(f"Skipping audio generation for {article_filename}, date {post_date} <= cutoff {cutoff_date}")
+                return
         # Nejdřív extrahujeme front matter a zkontrolujeme audiooff
         front_matter, content = extract_front_matter(article_content)
         

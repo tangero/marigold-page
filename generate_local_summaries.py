@@ -9,10 +9,10 @@ from datetime import datetime
 import re
 import sys
 import html
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv
 
 # Načtení proměnných z .env souboru
-env_path = "/Users/imac/Documents/GitHub/zastupitelstvo/.env"
+env_path = find_dotenv()
 load_dotenv(env_path)
 
 class MarkdownValidator:
@@ -225,7 +225,7 @@ class MarkdownValidator:
 
 
 class LocalSummaryGenerator:
-    def __init__(self, api_key, model_choice, posts_dir="_posts"):
+    def __init__(self, api_key, model_choice, posts_dir="_posts", cutoff_date=None):
         # Ověříme, že API klíč byl správně načten
         if not api_key or len(api_key) < 10:
             print(f"⚠️ VAROVÁNÍ: API klíč se nezdá být validní: '{api_key}'")
@@ -236,6 +236,7 @@ class LocalSummaryGenerator:
         self.api_key = api_key
         self.model_choice = model_choice
         self.posts_dir = Path(posts_dir)
+        self.cutoff_date = cutoff_date
         
         # DeepSeek má vlastní API endpoint a klíč
         if model_choice == "deepseek":
@@ -323,7 +324,7 @@ Text k shrnutí:
                         "content": prompt.format(content=content)
                     }
                 ],
-                "model": "google/gemini-2.0-flash-001",
+                "model": os.getenv("LLM_MODEL", "google/gemini-2.0-flash-001"),
                 "max_tokens": 500,
                 "temperature": 0.3
             }
@@ -390,6 +391,11 @@ Text k shrnutí:
 
     def process_post(self, post_path, stats):
         """Zpracuje jeden článek a aktualizuje statistiku."""
+        if self.cutoff_date:
+            post_date = self.get_post_date(post_path.name)
+            # Zpracováváme pouze články s datem PO cutoff_date
+            if not post_date or post_date <= self.cutoff_date:
+                return stats
         try:
             with open(post_path, 'r', encoding='utf-8') as f:
                 post = frontmatter.load(f)
@@ -819,8 +825,33 @@ class KeywordManager:
                 print(f"Neplatná volba: '{choice}'")
 
 def main():
+    cutoff_str = os.getenv("CUTOFF_DATE")
+    if cutoff_str:
+        try:
+            cutoff_date = datetime.strptime(cutoff_str, "%Y-%m-%d")
+        except ValueError:
+            print(f"Neplatný formát CUTOFF_DATE ({cutoff_str}), očekává se YYYY-MM-DD")
+            sys.exit(1)
+        api_key = os.getenv("OPENROUTER_API_KEY")
+        if not api_key:
+            print("❌ API klíč OPENROUTER_API_KEY není nastaven v .env")
+            sys.exit(1)
+        model_choice = "gemini"
+        print(f"Spouštím automatické generování shrnutí do data: {cutoff_str}")
+        generator = LocalSummaryGenerator(api_key, model_choice, cutoff_date=cutoff_date)
+        stats_total = {'total': 0, 'already_summarized': 0, 'newly_summarized': 0, 'failed': 0}
+        for year in range(cutoff_date.year, 2001, -1):
+            stats = generator.process_year(year)
+            for key in stats_total:
+                stats_total[key] += stats.get(key, 0)
+        print(f"\n=== Celková statistika (do {cutoff_str}) ===")
+        print(f"Celkem článků: {stats_total['total']}")
+        print(f"Nově přidáno shrnutí: {stats_total['newly_summarized']}")
+        print(f"Již mělo shrnutí: {stats_total['already_summarized']}")
+        print(f"Selhalo: {stats_total['failed']}")
+        return
+
     print("\nVítejte v nástroji pro práci s Markdown články!")
-    
     # Výběr režimu
     print("Vyberte režim:")
     print("1. Generování shrnutí článků")
