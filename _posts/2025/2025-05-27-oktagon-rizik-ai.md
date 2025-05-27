@@ -5,7 +5,7 @@ categories:
 - AI
 layout: post
 post_excerpt: Co znamená AI pro Česko, jaké jsou její rizika, výzvy a příležitosti? Dnes vám představím oktagon rizik, která AI přináší.
-thumbnail: /assets/oktagon-rizik-ai.png
+thumbnail: https://www.marigold.cz/assets/oktagon-rizik-ai.png
 title: 🍯 Oktagon rizik AI -  Křehká pozornost v křehkém světě
 ---
 
