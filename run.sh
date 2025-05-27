@@ -108,8 +108,11 @@ OPENROUTER_API_KEY=
 # API klíč pro DeepSeek
 DEEPSEEK_API_KEY=
 
-# Model LLM
+# Model LLM (např. google/gemini-2.0-flash-001)
 LLM_MODEL=google/gemini-2.0-flash-001
+
+# Datum první dávky generování shrnutí (YYYY-MM-DD), optional
+CUTOFF_DATE=2025-05-15
 EOF
     echo -e "${YELLOW}Zadejte váš OpenRouter API klíč:${NC}"
     read OPENROUTER_KEY
@@ -117,33 +120,43 @@ EOF
     sed -i '' "s/OPENROUTER_API_KEY=/OPENROUTER_API_KEY=$OPENROUTER_KEY/" .env
     echo -e "${GREEN}API klíč byl uložen do .env souboru${NC}"
 fi
+# Načtení proměnných prostředí z .env do shellu
+if [ -f ".env" ]; then
+    echo -e "${YELLOW}Načítám proměnné prostředí z .env...${NC}"
+    set -a
+    source .env
+    set +a
+fi
 
-# Spuštění hlavního skriptu s explicitním načtením .env
-echo -e "${GREEN}Spouštím hlavní skript s explicitním načtením .env...${NC}"
-python3 -c "
-import os
-from dotenv import load_dotenv
-import importlib.util
+# Zajistíme, že je proměnná CUTOFF_DATE nastavena pro automatické generování shrnutí
+if [ -z "$CUTOFF_DATE" ]; then
+    echo -e "${YELLOW}Proměnná CUTOFF_DATE není nastavena. Nastavuji výchozí hodnotu 2025-05-15${NC}"
+    echo "CUTOFF_DATE=2025-05-15" >> .env
+    export CUTOFF_DATE=2025-05-15
+fi
 
-# Explicitně načteme .env soubor
-env_path = os.path.join(os.getcwd(), '.env')
-print(f'Načítám .env z: {env_path}')
-load_dotenv(env_path)
-
-# Importujeme a spustíme hlavní modul
-try:
-    spec = importlib.util.spec_from_file_location('generator', 'generate_local_summaries.py')
-    generator = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(generator)
-    
-    # Spustíme hlavní funkci
-    generator.main()
-except Exception as e:
-    print(f'Chyba: {e}')
-    import traceback
-    print(traceback.format_exc())
-"
+# Spuštění generování shrnutí článků
+echo -e "${GREEN}Spouštím generování shrnutí článků...${NC}"
+bash run_with_env.sh
 
 echo -e "${GREEN}=========================================${NC}"
-echo -e "${GREEN}       ZPRACOVÁNÍ DOKONČENO              ${NC}"
+echo -e "${GREEN}       Shrnutí dokončeno                  ${NC}"
 echo -e "${GREEN}=========================================${NC}"
+
+# Validace a oprava YAML front matter
+echo -e "${GREEN}Validuji a opravuji YAML front matter...${NC}"
+python3 fix_yaml.py _posts --fix
+
+# Generování audio verze
+echo -e "${GREEN}Generuji audio verzi...${NC}"
+python3 .github/scripts/podcast-automation-script.py
+
+# Prolinkování klíčových pojmů
+echo -e "${GREEN}Prolinkovávám klíčová spojení...${NC}"
+python3 concept_links.py
+
+# Překlad označených článků
+echo -e "${GREEN}Překládám články označené pro překlad...${NC}"
+python3 .github/scripts/translate_posts.py
+
+echo -e "${GREEN}Všechny kroky dokončeny.${NC}"
