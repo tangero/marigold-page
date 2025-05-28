@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "AI novinky k 28.5.2025",
+      "url"      : "//item/ai-news-28-5-2025/",
+      "category" : "AI, AI novinky",
+      "tags"     : "",
+      "date"     : "28.5.2025",
+      "content"  : "Novinky? Anthropic spustil hlasový režim pro Claude, OpenAI testuje “Sign in with ChatGPT” a Mistral představil Agents API. Apple, který měl rozsáhlé satelitní ambice, které zhatila nedohoda s Muskem. Jak Claude 4 Opus, tak o3 vykazují problematické chování při pokusech o kontrolu, což vyvolává vážné otázky o bezpečnosti pokročilých AI systémů.Pojďme se na to nejdůležitější podívat podrobněji.Hlasové rozhraní: Anthropic konečně dohání konkurenciAnthropic oficiálně spustil hlasový režim pro svou aplikaci Claude, čímž se připojil k ostatním hlavním hráčům na trhu s AI asistentem. Tato funkcionalita, dostupná v beta verzi pro anglicky mluvící uživatele, běží na modelu Claude Sonnet 4 a nabízí..."
+    },
+  
+    {
       "title"    : "🍯 Oktagon rizik AI -  Křehká pozornost v křehkém světě",
       "url"      : "//item/oktagon-rizik-ai/",
       "category" : "AI",
@@ -52,15 +61,6 @@
       "tags"     : "",
       "date"     : "18.5.2025",
       "content"  : "OpenAI představila “výzkumnou preview verzi” nového nástroje nazvaného Codex. Tedy nejde o totální novinku, Codex již byl předsaven jako aplikace Codex CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní. Ačkoliv nedosahuje komplexnosti služeb jako Lovable, jde o zajímavého agenta pro vývoj software.Hlavní výhodou Codexu má být schopnost paralelně pracovat na mnoha úkolech. Podívejme se detailně na to, co tento nástroj přináší, jaké jsou jeho možnosti a omezení.Co je Codex?Codex je cloudový software založený na modelu codex-1, což je verze modelu OpenAI o3 optimalizovaná pro softwarové inženýrství. Podle dokumentace byl tento model trénován pomocí reinforcement learning na reálných..."
-    },
-  
-    {
-      "title"    : "AI novinky k 28.5.2025",
-      "url"      : "//item/ai-news-28-5-2025/",
-      "category" : "AI, AI novinky",
-      "tags"     : "",
-      "date"     : "15.5.2025",
-      "content"  : "Novinky? Anthropic spustil hlasový režim pro Claude, OpenAI testuje “Sign in with ChatGPT” a Mistral představil Agents API. Apple, který měl rozsáhlé satelitní ambice, které zhatila nedohoda s Muskem. Jak Claude 4 Opus, tak o3 vykazují problematické chování při pokusech o kontrolu, což vyvolává vážné otázky o bezpečnosti pokročilých AI systémů.Pojďme se na to nejdůležitější podívat podrobněji.Hlasové rozhraní: Anthropic konečně dohání konkurenciAnthropic oficiálně spustil hlasový režim pro svou aplikaci Claude, čímž se připojil k ostatním hlavním hráčům na trhu s AI asistentem. Tato funkcionalita, dostupná v beta verzi pro anglicky mluvící uživatele, běží na modelu Claude Sonnet 4 a nabízí..."
     },
   
     {
@@ -26079,7 +26079,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI 🍯 Oktagon rizik AI - Křehká pozornost v křehkém světě (27.05.2025) Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu (25.05.2025) Stručný průvodce novinkami z Google I/O 2025 (25.05.2025) Nový model Claude Opus 4 vydíral vývojáře odhalením jeho poměru (23.05.2025)..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI AI novinky k 28.5.2025 (28.05.2025) 🍯 Oktagon rizik AI - Křehká pozornost v křehkém světě (27.05.2025) Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu (25.05.2025) Stručný průvodce novinkami z Google I/O 2025 (25.05.2025) Nový model Claude Opus 4 vydíral..."
     }
     
   
