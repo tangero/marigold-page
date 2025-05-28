@@ -141,7 +141,7 @@ Microsoft zavádí Microsoft Entra Agent ID, které rozšiřuje jeho řešení i
 
 Microsoft a GitHub se připojili k řídícímu výboru [Model Context Protocol](/ai/mcp/) ([MCP](/ai/mcp/)) a poskytují širokou podporu první strany pro [MCP](/ai/mcp/) napříč svou agentní platformou a frameworky.
 
-Microsoft a GitHub oznamují dva nové příspěvky do ekosystému MCP:
+Microsoft a GitHub oznamují dva nové příspěvky do ekosystému [MCP](/ai/mcp/):
 
 - Specifikace identity a autorizace: Týmy identity a bezpečnosti společnosti Microsoft spolupracovaly s Anthropic, řídícím výborem MCP a širší komunitou MCP na navržení aktualizované autorizační specifikace.
 - Veřejný, komunitou řízený registr MCP serverů: GitHub a řídící výbor MCP spolupracovali na návrhu registrační služby pro MCP servery.
