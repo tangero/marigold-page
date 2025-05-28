@@ -137,9 +137,9 @@ Microsoft zavádí Microsoft Entra Agent ID, které rozšiřuje jeho řešení i
 
 ## Podpora agentního webu
 
-### Model Context Protocol (MCP)
+### [Model Context Protocol](/ai/mcp/) ([MCP](/ai/mcp/))
 
-Microsoft a GitHub se připojili k řídícímu výboru Model Context Protocol (MCP) a poskytují širokou podporu první strany pro MCP napříč svou agentní platformou a frameworky.
+Microsoft a GitHub se připojili k řídícímu výboru [Model Context Protocol](/ai/mcp/) ([MCP](/ai/mcp/)) a poskytují širokou podporu první strany pro MCP napříč svou agentní platformou a frameworky.
 
 Microsoft a GitHub oznamují dva nové příspěvky do ekosystému MCP:
 

@@ -103,7 +103,7 @@ OpenAI plánuje v budoucnu zavést interaktivnější a flexibilnější pracovn
 
 Codex-mini-latest je doladěná verze o4-mini specificky určená pro použití v Codex CLI:
 - 200K kontextové okno
-- 100K max výstupních tokenů
+- 100K max výstupních [tokenů](/ai/tokeny-versus-slova/)
 - Podpora "reasoning tokens"
 
 ## Něco málo osobní zkušenosti
@@ -116,7 +116,7 @@ Dokončení úkolu s pomocí Codex obvykle trvá od 1 do 30 minut (ano, občas j
 
 Flexibilita je další důležitou vlastností Codex. Jeho prostředí lze do jisté míry konfigurovat tak, aby co nejvíce odpovídalo konkrétnímu vývojovému prostředí uživatele. Chování Codex lze dokonce řídit pomocí speciálního souboru agents.md umístěného v úložišti kódu.
 
-Testování ukázalo, že Codex 1 dokáže pracovat s maximální délkou kontextu 192 000 tokenů a důsledně vytváří čistší patche připravené k okamžité integraci do standardních pracovních postupů. Přístup Codex k psaní kódu spočívá v práci v malých, cílených dávkách, které se zaměřují na konkrétní problémy.
+Testování ukázalo, že Codex 1 dokáže pracovat s maximální délkou kontextu 192 000 [tokenů](/ai/tokeny-versus-slova/) a důsledně vytváří čistší patche připravené k okamžité integraci do standardních pracovních postupů. Přístup Codex k psaní kódu spočívá v práci v malých, cílených dávkách, které se zaměřují na konkrétní problémy.
 
 V praxi Codex umožňuje vývojářům efektivně nastavit základy projektu a zaměřit se na implementaci aktuálních funkcí. Celkově nástroj mění způsob práce vývojářů, umožňuje jim pracovat téměř jako by byli svým vlastním týmem nebo manažerem týmu, s možností zadávat problémy a vracet se k nim po určité době.
 
