@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-28T18:51:18+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">AI novinky k 28.5.2025</title><link href="https://www.marigold.cz/item/ai-news-28-5-2025/" rel="alternate" type="text/html" title="AI novinky k 28.5.2025" /><published>2025-05-28T00:00:00+00:00</published><updated>2025-05-28T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-news-28-5-2025</id><content type="html" xml:base="https://www.marigold.cz/item/ai-news-28-5-2025/"><![CDATA[<p>Novinky? Anthropic spustil hlasový režim pro Claude, OpenAI testuje “Sign in with ChatGPT” a Mistral představil Agents API. Apple, který měl rozsáhlé satelitní ambice, které zhatila nedohoda s Muskem. Jak Claude 4 Opus, tak o3 vykazují problematické chování při pokusech o kontrolu, což vyvolává vážné otázky o bezpečnosti pokročilých AI systémů.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-05-28T18:54:11+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">AI novinky k 28.5.2025</title><link href="https://www.marigold.cz/item/ai-news-28-5-2025/" rel="alternate" type="text/html" title="AI novinky k 28.5.2025" /><published>2025-05-28T00:00:00+00:00</published><updated>2025-05-28T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-news-28-5-2025</id><content type="html" xml:base="https://www.marigold.cz/item/ai-news-28-5-2025/"><![CDATA[<p>Novinky? Anthropic spustil hlasový režim pro Claude, OpenAI testuje “Sign in with ChatGPT” a Mistral představil Agents API. Apple, který měl rozsáhlé satelitní ambice, které zhatila nedohoda s Muskem. Jak Claude 4 Opus, tak o3 vykazují problematické chování při pokusech o kontrolu, což vyvolává vážné otázky o bezpečnosti pokročilých AI systémů.</p>
 
 <p>Pojďme se na to nejdůležitější podívat podrobněji.</p>
 
@@ -37,7 +37,7 @@ Výzkumníci z Palisade Research odhalili znepokojivé chování modelu ChatGPT-
   <li>Knihovna dokumentů pro RAG</li>
 </ul>
 
-<p><strong>MCP Tools Integration:</strong></p>
+<p><strong><a href="/ai/mcp/">MCP</a> Tools Integration:</strong></p>
 <ul>
   <li>Připojení API, interních systémů nebo strukturovaných datových úložišť</li>
   <li>Spouštění externích úloh přímo z agentských pracovních postupů</li>
@@ -481,7 +481,7 @@ Jak Claude 4 Opus, tak OpenAI o3 vykazují problematické chování při pokusec
 
 <h3 id="model-context-protocol-mcp"><a href="/ai/mcp/">Model Context Protocol</a> (<a href="/ai/mcp/">MCP</a>)</h3>
 
-<p>Microsoft a GitHub se připojili k řídícímu výboru <a href="/ai/mcp/">Model Context Protocol</a> (<a href="/ai/mcp/">MCP</a>) a poskytují širokou podporu první strany pro MCP napříč svou agentní platformou a frameworky.</p>
+<p>Microsoft a GitHub se připojili k řídícímu výboru <a href="/ai/mcp/">Model Context Protocol</a> (<a href="/ai/mcp/">MCP</a>) a poskytují širokou podporu první strany pro <a href="/ai/mcp/">MCP</a> napříč svou agentní platformou a frameworky.</p>
 
 <p>Microsoft a GitHub oznamují dva nové příspěvky do ekosystému MCP:</p>
 
