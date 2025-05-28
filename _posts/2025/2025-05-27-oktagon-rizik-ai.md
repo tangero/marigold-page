@@ -1,12 +1,18 @@
 ---
-audio_url:
+audio_url: null
 author: Patrick Zandl
 categories:
 - AI
 layout: post
-post_excerpt: Co znamená AI pro Česko, jaké jsou její rizika, výzvy a příležitosti? Dnes vám představím oktagon rizik, která AI přináší.
+post_excerpt: Co znamená AI pro Česko, jaké jsou její rizika, výzvy a příležitosti?
+  Dnes vám představím oktagon rizik, která AI přináší.
+summary_points:
+- Pozornost je klíčová pro pochopení komplexních systémů a AI.
+- AI odstartovala moderní éru a přináší významná rizika.
+- Svět je křehký kvůli klimatickým změnám, nerovnosti a nedůvěře.
+- Budoucnost AI není daná, můžeme ji aktivně utvářet.
 thumbnail: https://www.marigold.cz/assets/oktagon-rizik-ai.png
-title: 🍯 Oktagon rizik AI -  Křehká pozornost v křehkém světě
+title: "\U0001F36F Oktagon rizik AI -  Křehká pozornost v křehkém světě"
 ---
 
 Pozornost je vše, co potřebujete. Tak se jmenuje [jedna z nejcitovanějších vědeckých prací](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) posledního století. A ano, ve skutečnosti se věnuje mechanismu pozornosti pro zpracování sekvenčních dat a její sláva tkví v tom, že se stala základem technologie Transformátorů a tím fakticky odstartovala moderní éru AI. Z názvu bychom přitom soudili, že jde o významnou práci adolescentní behaviorální psychologie nebo návod k pochopení dnešního světa.
