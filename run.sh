@@ -135,12 +135,13 @@ if [ -z "$CUTOFF_DATE" ]; then
     export CUTOFF_DATE=2025-05-15
 fi
 
-# Spuštění generování shrnutí článků
-echo -e "${GREEN}Spouštím generování shrnutí článků...${NC}"
-bash run_with_env.sh
-
+# Spuštění generate_local_summaries.py
 echo -e "${GREEN}=========================================${NC}"
-echo -e "${GREEN}       Shrnutí dokončeno                  ${NC}"
+echo -e "${GREEN}       SPOUŠTÍM GENERÁTOR SHRNUTÍ        ${NC}"
+echo -e "${GREEN}=========================================${NC}"
+
+python3 generate_local_summaries.py
+
 echo -e "${GREEN}=========================================${NC}"
 
 # Validace a oprava YAML front matter

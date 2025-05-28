@@ -283,7 +283,7 @@ class LocalSummaryGenerator:
         else:  # OpenRouter
             # Upravené hlavičky s různými formáty autorizace
             headers = {
-                "Authorization": f"Bearer {self.api_key}",
+                "Authorization": f"Bearer {self.api_key.strip()}",
                 "Content-Type": "application/json",
                 "HTTP-Referer": "https://www.marigold.cz/",
                 "X-Title": "Marigold.cz"
