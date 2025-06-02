@@ -74,6 +74,8 @@ Tím prvním je důkaz (pohyby bitcoinu lze v blockchainu sledovat!), že **s pe
 
 **Rozkódovaná peněženka totiž patří mezi peněženky spojované s Nucleus Marketplace**. A to je to tržiště, o němž ještě měla být řeč. Tržiště [Nucleus Marketplace](https://intel.arkm.com/explorer/entity/nucleus-marketplace)které fungovalo v letech 2014 až 2016 a již dříve se spekulovalo o tom, že jeho provozovatelem je Tomáš Jiříkovský. Jenže zásadní důkazy chyběly, byl to pouze hlas komunity a oficiálně Jiříkovského s Nucleusem nic nespojovalo. Snad jen to, že tržiště bylo vypnuto den po Jiříkovského zatčení - a s tím samozřejmě zmizely i veškeré bitcoiny v úschově. Mělo jich být cca 5300, tedy v dnešních cenách kolem 10-12 miliard Kč, což je částka, se kterou později bude [operovat iRozhlas](https://www.irozhlas.cz/zpravy-domov/kauza-bitcoiny-v-penezence-nebyly-3-miliardy-ale-12-informace-ministerstva-o_2505301834_vtk).
 
+![Nucleus Market](/assets/nucleus-market.png)
+
 A tohle je největší kámen úrazu. Až doposud je totiž na nás, zda chceme věřit tomu, že Jiříkovský se ve vězení napravil a maje na srdci tíživou situaci obětí trestných činů, rozhodl se věnovat část bitcoinů, které za dobu jeho uvěznění narostly na ceně, ministerstvu spravedlnosti. Jen tak, bez ničeho. Stát se to mohlo a nemáme zatím důkaz svědčící o opaku.
 
 Až na tuhle chvíli: **Jiříkovský najednou manipuluje s majetkem, který přímo souvisí s exit scammem Nuclueus Marketplace.** A tím se přímo spojuje s trestným činem, za který potrestán nebyl a s výnosem z trestné činnosti, který měl být zabaven celý.
@@ -99,3 +101,4 @@ V největším nebezpeční jsou dnes dva: Tomáš Jiříkovský a premiér Petr
 A premiéru Fialovi má tato kauza potenciál sebrat premiérské křeslo. Když ne teď, tak za půl roku vcelku jistě.
 
 Ministr spravedlnosti Pavel Blažek [rezignoval na svůj post v pátek](https://www.irozhlas.cz/zpravy-domov/mozna-uz-mi-za-nestoji-naznacil-blazek-rezignaci-kvuli-kauze-s-bitcoiny-za_2505301537_hrk).
+
