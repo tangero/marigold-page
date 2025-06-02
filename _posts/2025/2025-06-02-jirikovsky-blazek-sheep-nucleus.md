@@ -102,3 +102,4 @@ A premiéru Fialovi má tato kauza potenciál sebrat premiérské křeslo. Když
 
 Ministr spravedlnosti Pavel Blažek [rezignoval na svůj post v pátek](https://www.irozhlas.cz/zpravy-domov/mozna-uz-mi-za-nestoji-naznacil-blazek-rezignaci-kvuli-kauze-s-bitcoiny-za_2505301537_hrk).
 
+_PS: Jiříkovského fotku z úvodu jsem vzal už nevím komu - buďto [iRozhlas](https://www.irozhlas.cz) nebo [Deník N](https://www.denikn.cz), řekl bych - tak se omlouvám, snad se nebudou moc zlobit..._
