@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "AI novinky: Google Edge AI Gallery, DeepSeek R1, ElevenLabs Conversational AI 2.0 ...",
+      "url"      : "//item/ai-news-2025-06-03/",
+      "category" : "AI, AI novinky",
+      "tags"     : "",
+      "date"     : "3.6.2025",
+      "content"  : "Tento týden přinesl další zajímavé pokroky v lokálním zpracování umělé inteligence, hlasových technologiích a výkonu AI modelů. Google spustil Edge AI Gallery pro chytré telefony, DeepSeek dosáhl třetího místa v globálním žebříčku AI modelů a japonská Sakana AI představila samozdokonalujícího se agenta schopného přepisovat vlastní kód. A je toho více. Pojďme si to projít…Google Edge AI Gallery - umělá inteligence přímo v telefonuGoogle tiše spustil Edge AI Gallery, knihovnu open-source AI modelů pro chytré telefony. Služba umožňuje vývojářům i pokročilým uživatelům stahovat a spouštět AI modely přímo na mobilních zařízeních bez nutnosti internetového připojení.Praktické využití: Rozpoznávání objektů na fotografiích bez..."
+    },
+  
+    {
       "title"    : "🐑 Sheep Marketplace - jak Tomáš Jiříkovský a ministr spravedlnosti k bitcoinům přišli",
       "url"      : "//item/jirikovsky-blazek-sheep-nucleus/",
       "category" : "bitcoin",
@@ -26088,7 +26097,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI AI novinky k 28.5.2025 (28.05.2025) 🍯 Oktagon rizik AI - Křehká pozornost v křehkém světě (27.05.2025) Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu (25.05.2025) Stručný průvodce novinkami z Google I/O 2025 (25.05.2025) Nový model Claude Opus 4 vydíral..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI AI novinky: Google Edge AI Gallery, DeepSeek R1, ElevenLabs Conversational AI 2.0 ... ( 3.06.2025) AI novinky k 28.5.2025 (28.05.2025) 🍯 Oktagon rizik AI - Křehká pozornost v křehkém světě (27.05.2025) Novinky Microsoft Build 2025 - MCP všude, inovace kolem Copilotu..."
     }
     
   
@@ -26108,7 +26117,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 205 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 68 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 206 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 68 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -26168,6 +26177,8 @@
       "category" : "stránka",
       "content"  : "This is a test file to check if the validation and fixing functionality works correctly.It contains HTML entities in the title and excerpt fields, as well as colons and quotes."
     }
+    
+  
     
   
     

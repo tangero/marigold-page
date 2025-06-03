@@ -1,4 +1,253 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-06-02T14:27:27+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">🐑 Sheep Marketplace - jak Tomáš Jiříkovský a ministr spravedlnosti k bitcoinům přišli</title><link href="https://www.marigold.cz/item/jirikovsky-blazek-sheep-nucleus/" rel="alternate" type="text/html" title="🐑 Sheep Marketplace - jak Tomáš Jiříkovský a ministr spravedlnosti k bitcoinům přišli" /><published>2025-06-02T00:00:00+00:00</published><updated>2025-06-02T00:00:00+00:00</updated><id>https://www.marigold.cz/item/jirikovsky-blazek-sheep-nucleus</id><content type="html" xml:base="https://www.marigold.cz/item/jirikovsky-blazek-sheep-nucleus/"><![CDATA[<p>S poslední kauzou kolem dnes již bývalého ministra spravedlnosti Pavla Blažka znovu vyšlo na světlo světa jméno jednoho z prvních usvědčených krypto-kriminálníků Tomáše Jiřikovského. Pojďme se podívat, jak ke svým bitcoinům Jiřikovský přišel.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-06-03T08:03:11+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">AI novinky: Google Edge AI Gallery, DeepSeek R1, ElevenLabs Conversational AI 2.0 …</title><link href="https://www.marigold.cz/item/ai-news-2025-06-03/" rel="alternate" type="text/html" title="AI novinky: Google Edge AI Gallery, DeepSeek R1, ElevenLabs Conversational AI 2.0 …" /><published>2025-06-03T00:00:00+00:00</published><updated>2025-06-03T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai-news-2025-06-03</id><content type="html" xml:base="https://www.marigold.cz/item/ai-news-2025-06-03/"><![CDATA[<p>Tento týden přinesl další zajímavé pokroky v lokálním zpracování umělé inteligence, hlasových technologiích a výkonu AI modelů. Google spustil Edge AI Gallery pro chytré telefony, DeepSeek dosáhl třetího místa v globálním žebříčku AI modelů a japonská Sakana AI představila samozdokonalujícího se agenta schopného přepisovat vlastní kód. A je toho více. Pojďme si to projít…</p>
+
+<h2 id="google-edge-ai-gallery---umělá-inteligence-přímo-v-telefonu">Google Edge AI Gallery - umělá inteligence přímo v telefonu</h2>
+
+<p>Google tiše spustil  <strong>Edge AI Gallery</strong>, knihovnu open-source AI modelů pro chytré telefony. Služba umožňuje vývojářům i pokročilým uživatelům stahovat a spouštět AI modely přímo na mobilních zařízeních bez nutnosti internetového připojení.</p>
+
+<p><strong>Praktické využití:</strong></p>
+
+<ul>
+  <li>Rozpoznávání objektů na fotografiích bez odesílání dat do cloudu</li>
+  <li>Překlad textu v reálném čase bez internetového připojení</li>
+  <li>Analýza dokumentů přímo na telefonu</li>
+  <li>Personalizované AI asistenty s ochranou soukromí</li>
+</ul>
+
+<p><strong>Technické vlastnosti:</strong></p>
+
+<ul>
+  <li>Aktuálně dostupná na Android zařízeních</li>
+  <li>Verze pro iOS je v přípravě</li>
+  <li>Kompletně offline zpracování</li>
+  <li>Modely optimalizované pro mobilní hardware</li>
+</ul>
+
+<p>Edge AI Gallery (<a href="https://github.com/google-ai-edge/gallery">zde na Github</a>) představuje alternativu k cloudovým AI službám, kde uživatelé získávají kontrolu nad svými daty a nezávislost na internetovém připojení.</p>
+
+<h2 id="deepseek-r1---čínský-model-překonává-světovou-konkurenci">DeepSeek R1 - čínský model překonává světovou konkurenci</h2>
+
+<p>Čínská společnost DeepSeek aktualizovala svůj model R1, který se okamžitě vyšplhal na  <strong>třetí pozici</strong>  v žebříčku Artificial Analysis Intelligence Index. Model dosáhl skóre 68 bodů, čímž překonal řešení od Meta, xAI i Anthropic.</p>
+
+<p><strong>Konkrétní vylepšení v R1-0528:</strong></p>
+
+<ul>
+  <li>Vylepšené front-end rozhraní s lepší interpretací uživatelských požadavků</li>
+  <li>Zlepšené mechanismy ověřování faktů, které snižují generování nepravdivých informací</li>
+  <li>Nativní podpora strukturovaných výstupů ve formátu JSON</li>
+  <li>Možnost volání externích funkcí pro rozšíření schopností modelu</li>
+  <li>Optimalizace pro matematické úlohy a logické uvažování</li>
+</ul>
+
+<p>DeepSeek tak upevňuje pozici vedoucího poskytovatele open-source AI modelů a potvrzuje růst čínského technologického sektoru.</p>
+
+<h2 id="sakana-ai-darwin-gödel-machine---průlom-v-samozdokonalování">Sakana AI Darwin Gödel Machine - průlom v samozdokonalování</h2>
+
+<p>Japonská Sakana AI představila  <strong>Darwin Gödel Machine (DGM)</strong>, samozdokonalujícího se agenta schopného upravovat vlastní kód za účelem zvýšení výkonu. Systém představuje významný pokrok směrem k obecné umělé inteligenci.</p>
+
+<p><strong>Výsledky testování:</strong></p>
+
+<ul>
+  <li>SWE-bench: zlepšení z 20,0 % na 50,0 %</li>
+  <li>Polyglot: zlepšení z 14,2 % na 30,7 %</li>
+  <li>Kombinuje evoluční principy s pokročilým učením</li>
+  <li>Udržuje expandující genealogii variant agentů</li>
+</ul>
+
+<p>DGM inspirovaný evolucí představuje nový paradigma v oblasti AI, kde systémy mohou autonomně zlepšovat své vlastní schopnosti.</p>
+
+<h2 id="elevenlabs-conversational-ai-20---nová-generace-hlasových-agentů">ElevenLabs Conversational AI 2.0 - nová generace hlasových agentů</h2>
+
+<p>ElevenLabs spustila  <strong>Conversational AI 2.0</strong>, platformu nové generace pro vytváření hlasových agentů s pokročilými schopnostmi.</p>
+
+<p><strong>Hlavní funkce:</strong></p>
+
+<ul>
+  <li>Model pro střídání replik v reálném čase</li>
+  <li>Vestavěná detekce jazyka</li>
+  <li>Integrovaný RAG systém</li>
+  <li>Podpora multimodality</li>
+  <li>Škálovatelné dávkové volání</li>
+</ul>
+
+<p><strong>Příklad využití:</strong>  S touto platformou lze vytvořit například zákaznickou podporu pro e-shop, která dokáže mluvit s klienty telefonicky, rozumí různým jazykům, vyhledává informace o produktech v databázi a současně zobrazuje relevantní obrázky nebo dokumenty během hovoru.</p>
+
+<p>Platforma přímo konkuruje podobným řešením od OpenAI a Anthropic v rychle rostoucím trhu hlasových AI asistentů.</p>
+
+<h2 id="resemble-ai-chatterbox---pokročilá-syntéza-řeči-překonává-konkurenci">Resemble AI Chatterbox - pokročilá syntéza řeči překonává konkurenci</h2>
+
+<p>Resemble AI uvedla  <strong>Chatterbox</strong>, systém text-to-speech AI, který podle nezávislých benchmarků překonává řešení od ElevenLabs.</p>
+
+<p><strong>Technické specifikace:</strong></p>
+
+<ul>
+  <li>Zero-shot klonování hlasu ze 5sekundových nahrávek</li>
+  <li>Kontrola stylu a emoční intenzity</li>
+  <li>Vestavěná konverze hlasu s nepostřehnutelnými vodoznaky</li>
+  <li>Syntéza hlasu v reálném čase s ultra-nízkou latencí</li>
+  <li>Otevřené váhy modelu</li>
+</ul>
+
+<p>Musím poznamenat, že jsem řešení chtěl implementovat pro Marigolda - aby mi načítalo články - s tím, že budu zpracovávat hlasový výstup na svém Macbooku, ale 8 GB paměti bylo pro model příliš málo. Hodí se více paměti a GPU… A na API službu jsme zatím nenarazil.</p>
+
+<h2 id="anthropic-claude-hlasový-režim---konkurence-chatgpt">Anthropic Claude hlasový režim - konkurence ChatGPT</h2>
+
+<p>Anthropic spustila hlasový režim pro  <strong>Claude Sonnet 4</strong>  s pěti hlasovými osobnostmi na výběr. Systém nabízí pokročilou integraci s produktivními nástroji.</p>
+
+<p><strong>Dostupné funkce:</strong></p>
+
+<ul>
+  <li>Pět různých hlasových osobností</li>
+  <li>Integrace s Google Workspace</li>
+  <li>Hlasové vyhledávání v Gmailu, kalendáři a dokumentech</li>
+  <li>Mobilní beta verze pro anglicky mluvící uživatele</li>
+</ul>
+
+<h2 id="figure-f03---pokroky-v-humanoidní-robotice">Figure F.03 - pokroky v humanoidní robotice</h2>
+
+<p>Společnost Figure oznámila, že jejich humanoidní robot nové generace  <strong>F.03</strong>  oficiálně začal chodit. Figure se zaměřuje na komerční nasazení humanoidních robotů v průmyslu, což odlišuje F.03 od experimentálních robotů výzkumných institucí.</p>
+
+<p><strong>Kontext konkurence:</strong></p>
+
+<ul>
+  <li>Boston Dynamics vyvíjí pokročilé roboty především pro výzkum a speciální aplikace</li>
+  <li>Tesla Bot (Optimus) je stále ve fázi prototypů</li>
+  <li>Honda ASIMO byl ukončen v roce 2018</li>
+  <li>Figure cílí na praktické nasazení v továrnách a skladech</li>
+</ul>
+
+<p><strong>Technické vlastnosti F.03:</strong></p>
+
+<ul>
+  <li>Zaměření na průmyslové úkoly namísto pouze demonstrace chůze</li>
+  <li>Integrace s AI systémy pro autonomní rozhodování</li>
+  <li>Hardware optimalizovaný pro opakované úkoly v komerčním prostředí</li>
+</ul>
+
+<p><strong>Organizační změny ve společnosti:</strong></p>
+
+<ul>
+  <li>Sloučení tří týmů do AI skupiny “Helix”</li>
+  <li>Urychlení procesu učení robotů</li>
+  <li>Příprava na uvedení robotů na trh v roce 2025-2026</li>
+</ul>
+
+<h2 id="perplexity-labs---autonomní-tvorba-aplikací">Perplexity Labs - autonomní tvorba aplikací</h2>
+
+<p>Perplexity spustila  <strong>Labs</strong>, nástroj pro vytváření interaktivních aplikací využívající Deep Research s integrovanými nástroji pro generování obrázků. <a href="https://www.perplexity.ai/labs">https://www.perplexity.ai/labs</a></p>
+
+<p><strong>Schopnosti systému:</strong></p>
+
+<ul>
+  <li>Tvorba analytických zpráv</li>
+  <li>Vytváření tabulek a webových aplikací</li>
+  <li>10+ minut autonomní práce na projektu</li>
+  <li>Dostupné pouze pro Pro předplatitele na iOS, Android a webu</li>
+</ul>
+
+<p><strong>Příklad využití:</strong>  Uživatel může zadat požadavek “Vytvoř mi analýzu trhu elektromobilů v Evropě s grafy a prognózami na rok 2025”. Systém autonomně vyhledá aktuální data, vytvoří interaktivní zprávu s grafy, tabulkami porovnávajícími jednotlivé značky, mapy s hustotou dobíjecích stanic a webovou aplikaci umožňující filtrování dat podle zemí.</p>
+
+<h2 id="hume-evi-3---univerzální-hlasová-ai-s-osobností">Hume EVI 3 - univerzální hlasová AI s osobností</h2>
+
+<p>Hume představila  <strong>EVI 3</strong>, nový AI model schopný mluvit jakýmkoli hlasem nebo osobností prostřednictvím speech-to-speech interakce za méně než jednu sekundu.</p>
+
+<p><strong>Technické vlastnosti:</strong></p>
+
+<ul>
+  <li>Voice-to-voice architektura</li>
+  <li>Hluboké porozumění tónu, rytmu a barvy hlasu</li>
+  <li>Pokročilá analýza způsobu mluvení</li>
+  <li>Generování hlasu s osobností z textového popisu</li>
+</ul>
+
+<h2 id="tencent-hunyuanvideo-avatar---ai-pro-video-marketing">Tencent HunyuanVideo-Avatar - AI pro video marketing</h2>
+
+<p>Tencent spustil  <strong>HunyuanVideo-Avatar</strong>, nový AI model pro video, který přeměňuje jednu referenční fotografii a audio na realistické krátké video s živým řečí nebo zpěvem.</p>
+
+<p><strong>Praktické využití:</strong></p>
+
+<ul>
+  <li>E-commerce prezentace</li>
+  <li>Reklamní kampaně</li>
+  <li>Personalizovaný video obsah</li>
+  <li>Automatizace tvorby video materiálů</li>
+</ul>
+
+<h2 id="black-forest-labs-flux1-kontext---pokročilá-editace-obrázků">Black Forest Labs FLUX.1 Kontext - pokročilá editace obrázků</h2>
+
+<p>Black Forest Labs uvedla  <strong>FLUX.1 Kontext</strong>, AI systém pro generování a editaci obrázků s revoluční schopností porozumění jak textu, tak obrázkům jako vstupu.</p>
+
+<p><strong>Inovativní funkce:</strong></p>
+
+<ul>
+  <li>Kontextové generování a editace</li>
+  <li>8x rychlejší než konkurenční modely</li>
+  <li>Zachování postavy napříč iteracemi</li>
+  <li>Lokální editace bez ovlivnění zbytku obrázku</li>
+  <li>Přenos stylu a konzistentnost napříč verzemi</li>
+</ul>
+
+<p><strong>Příklad využití:</strong>  Grafický designér může nahrát fotografii modelu v letních šatech a pomocí textového příkazu “změň pozadí na zimní krajinu a přidej kabát” systém automaticky upraví obrázek - přidá zimní pozadí, obléče model do kabátu, ale zachová jeho tvář, pózu a celkový styl fotografie. Následně může pokračovat dalšími úpravami jako “změň barvu kabátu na červenou” bez ovlivnění ostatních částí obrázku.</p>
+
+<h2 id="další-významné-novinky">Další významné novinky</h2>
+
+<p><strong>Mistral AI Agents API</strong>  Francouzská společnost Mistral AI vydala API pro vytváření AI agentů s integrovanými nástroji. Systém představuje konkurenci k podobným řešením od OpenAI (GPTs) a Anthropic (Claude Tools), ale s důrazem na open-source přístup.</p>
+
+<p><strong>Dostupné nástroje:</strong></p>
+
+<ul>
+  <li><strong>Code Interpreter</strong>  - spouštění Python kódu v sandboxovém prostředí</li>
+  <li><strong>Web Search</strong>  - vyhledávání aktuálních informací na internetu</li>
+  <li><strong>Image Generation</strong>  - tvorba obrázků pomocí AI modelů</li>
+  <li><strong>Function Calling</strong>  - možnost integrace vlastních nástrojů a API</li>
+</ul>
+
+<p><strong>Technické specifikace:</strong></p>
+
+<ul>
+  <li>Kompatibilní s modely Mistral Large a Mistral Small</li>
+  <li>RESTful API s dokumentací na mistral.ai/news/agents-api</li>
+  <li>Podpora pro vlastní nástroje přes JSON schéma</li>
+  <li>Webové vyhledávání zvýšilo přesnost z 23 % na 75 % na GAIA benchmarku</li>
+</ul>
+
+<p><strong>Praktické aplikace:</strong>  Vývojáři mohou vytvořit například finančního analytika, který vyhledá aktuální ceny akcií, spustí výpočet portfolia v Pythonu a vygeneruje graf s výsledky - vše v rámci jedné konverzace.</p>
+
+<p><strong>Dostupnost:</strong></p>
+
+<ul>
+  <li>Beta verze přístupná přes Mistral API</li>
+  <li>Cenová politika založená na počtu použitých nástrojů</li>
+  <li>Dokumentace a příklady kódu dostupné pro vývojáře</li>
+</ul>
+
+<p><strong>Factory AI “Droids”</strong>  Startup Factory AI představil AI agenty nazývané “Droids”, kteří zvládají kompletní životní cyklus vývoje softwaru. Agenti dokážou převzít programátorský tiket, napsat kód, otestovat ho, nasadit do produkce a reagovat na případné incidenty.</p>
+
+<ul>
+  <li>Automatizace od zadání úkolu po produkční nasazení</li>
+  <li>Generování dokumentace a řešení chyb</li>
+</ul>
+
+<p><strong>SpAItial AI Foundation Models</strong>  Startup SpAItial získal 13 milionů dolarů na vývoj AI systému, který generuje trojrozměrné virtuální světy z textových popisů. Společnost založili bývalí výzkumníci z Google a Meta.</p>
+
+<ul>
+  <li>Nativní porozumění geometrii a fyzikálním zákonům</li>
+  <li>Tvorba 3D prostředí pro hry a simulace</li>
+</ul>
+
+<p><strong>Opera Neon - agentický webový prohlížeč</strong>  Opera <a href="https://www.operaneon.com">vydala experimentální verzi prohlížeče s integrovanými AI agenty</a>. Agenti dokážou autonomně procházet webové stránky, nakupovat produkty, rezervovat lístky a vyplňovat formuláře jménem uživatele.</p>
+
+<ul>
+  <li>Automatizace webových úkolů bez programování</li>
+  <li>AI agent jako virtuální asistent pro internet</li>
+</ul>
+
+<p><strong>Bonusové novinky:</strong></p>
+
+<ul>
+  <li>Kling AI vydala verzi 2.1</li>
+  <li>ChatGPT je nyní zdarma pro občany SAE</li>
+  <li>Freepik přidala Kling 2.1 a FLUX.1 do své platformy</li>
+</ul>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="AI novinky" /><summary type="html"><![CDATA[Tento týden přinesl další zajímavé pokroky v lokálním zpracování umělé inteligence, hlasových technologiích a výkonu AI modelů. Google spustil Edge AI Gallery pro chytré telefony, DeepSeek dosáhl třetího místa v globálním žebříčku AI modelů a japonská Sakana AI představila samozdokonalujícího se agenta schopného přepisovat vlastní kód. A je toho více. Pojďme si to projít…]]></summary></entry><entry xml:lang="cs"><title type="html">🐑 Sheep Marketplace - jak Tomáš Jiříkovský a ministr spravedlnosti k bitcoinům přišli</title><link href="https://www.marigold.cz/item/jirikovsky-blazek-sheep-nucleus/" rel="alternate" type="text/html" title="🐑 Sheep Marketplace - jak Tomáš Jiříkovský a ministr spravedlnosti k bitcoinům přišli" /><published>2025-06-02T00:00:00+00:00</published><updated>2025-06-02T00:00:00+00:00</updated><id>https://www.marigold.cz/item/jirikovsky-blazek-sheep-nucleus</id><content type="html" xml:base="https://www.marigold.cz/item/jirikovsky-blazek-sheep-nucleus/"><![CDATA[<p>S poslední kauzou kolem dnes již bývalého ministra spravedlnosti Pavla Blažka znovu vyšlo na světlo světa jméno jednoho z prvních usvědčených krypto-kriminálníků Tomáše Jiřikovského. Pojďme se podívat, jak ke svým bitcoinům Jiřikovský přišel.</p>
 
 <h3 id="sheep-marketplace">Sheep Marketplace</h3>
 
@@ -2313,168 +2562,4 @@ Pro vývojáře jsou modely k dispozici prostřednictvím Chat Completions API a
 
 <p>Ve skutečnosti ale ta jména nejsou tak podstatná, ta rozhodovala jen o čtivosti a zpřístupnění dokumentu. Pro nás byly důležitější argumenty, s nimiž jsme se vypořádali. A důležité také je, že autoři přinášejí realistické návrhy, “co s tím”, jako mezinárodní spolupráci a regulaci, bezpečnostní protokoly pro superinteligentní systémy nebo transparentnost vývoje. Tyto návrhy nicméně podrývá fakt, že pokud by scénář měl pravdu, nikdo by se nechtěl k těmto návrhům uchýlit, aby si nezkomplikoval pozici v souboji o AGI.</p>
 
-<p>V každém případě se na jejich web  <a href="https://ai-2027.com/">https://ai-2027.com</a>  podívejte. Mají scénář krásně udělaný, interaktivní a nepochybně přitáhne pozornost. O což šlo.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="katastrofa" /><summary type="html"><![CDATA[Deník N vydal katastrofický článek s nadpisem “Do deseti let bude po všem”, v němž nám převyprávěl scénář AI 2027 vypracovaný pěticí lidí o potenciálním nebezpečí umělé inteligence. A tím se o tématu začalu v Česku opět diskutovat. Dokument vypadá na první pohled propracovaně, ona pětice má určité renomé. Jenže obsahuje řadu problematických předpokladů a logických skoků, které je třeba kriticky posoudit. Začnu tím, že vynechám onu pětici lidí, ani je zatím nebudu jmenovat, abychom se mohli nerušeně soustředit na tvrzení a fakta.]]></summary></entry><entry xml:lang="cs"><title type="html">A2A protokol - Nový standard pro interoperabilitu AI agentů</title><link href="https://www.marigold.cz/item/google-a2a/" rel="alternate" type="text/html" title="A2A protokol - Nový standard pro interoperabilitu AI agentů" /><published>2025-04-09T00:00:00+00:00</published><updated>2025-04-09T00:00:00+00:00</updated><id>https://www.marigold.cz/item/google-a2a</id><content type="html" xml:base="https://www.marigold.cz/item/google-a2a/"><![CDATA[<p>Přichází čas AI agentů, jenže jak se mezi sebou domluví? Právě neexistující vzájemné automatické propojení mezi agenty bylo značným omezením, což si uvědomil Google a přišel s návrhem protokolu A2A čili Agent2Agent.</p>
-
-<p>Agent2Agent (A2A) je otevřený protokol navržený pro zabezpečenou komunikaci mezi AI agenty. Protokol byl vyvinut společností Google ve spolupráci s více než 50 technologickými partnery včetně Atlassian, Box, Cohere, Intuit, PayPal, Salesforce a dalších. Cílem A2A je umožnit AI agentům vyměňovat si informace a koordinovat akce napříč různými podnikovými platformami a aplikacemi.</p>
-
-<p><strong>Co konkrétně se v tomto článku dozvíte?</strong></p>
-<ul id="markdown-toc">
-  <li><a href="#vztah-k-mcpaimcp" id="markdown-toc-vztah-k-mcpaimcp">Vztah k [MCP](/ai/mcp/)</a>    <ul>
-      <li><a href="#a2a-jako-ekosystém-specializovaných-expertů" id="markdown-toc-a2a-jako-ekosystém-specializovaných-expertů">A2A jako ekosystém specializovaných expertů</a></li>
-      <li><a href="#návrh-a2a-protokolu" id="markdown-toc-návrh-a2a-protokolu">Návrh A2A protokolu</a></li>
-      <li><a href="#funkce-a2a" id="markdown-toc-funkce-a2a">Funkce A2A</a></li>
-      <li><a href="#praktické-využití-a2a" id="markdown-toc-praktické-využití-a2a">Praktické využití A2A</a></li>
-      <li><a href="#technické-detaily" id="markdown-toc-technické-detaily">Technické detaily</a></li>
-      <li><a href="#výzvy-a-omezení" id="markdown-toc-výzvy-a-omezení">Výzvy a omezení</a></li>
-      <li><a href="#budoucí-vývoj" id="markdown-toc-budoucí-vývoj">Budoucí vývoj</a></li>
-      <li><a href="#závěr" id="markdown-toc-závěr">Závěr</a></li>
-    </ul>
-  </li>
-</ul>
-
-<blockquote>
-  <p>Další zdroje</p>
-  <ul>
-    <li>Github A2A: <a href="https://github.com/google/A2A">https://github.com/google/A2A</a></li>
-    <li><a href="https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/">Oficiální oznámení na Google Developers Blogu</a></li>
-  </ul>
-</blockquote>
-
-<h2 id="vztah-k-mcpaimcp">Vztah k <a href="/ai/mcp/">[MCP](/ai/mcp/)</a></h2>
-
-<p>A2A doplňuje <a href="/ai/mcp/">Model Context Protocol</a> (MCP) od Anthropicu. Zatímco MCP se zaměřuje na poskytování nástrojů a kontextu pro samostatné agenty, A2A řeší problém, jak tito agenti mohou spolupracovat mezi sebou. Tyto protokoly společně tvoří základ pro vytváření komplexnějších agenčních systémů.</p>
-
-<p>MCP je navržen pro obohacení jednotlivých agentů o nástroje a kontext, což jim umožňuje lépe plnit své úlohy. A2A naopak vytváří standardizovaný způsob, jak tito (potenciálně rozdílně vybavení) agenti mohou komunikovat a spolupracovat, a to bez ohledu na to, jakou technologií byli vytvořeni nebo jaký framework používají.</p>
-
-<h3 id="a2a-jako-ekosystém-specializovaných-expertů">A2A jako ekosystém specializovaných expertů</h3>
-
-<p>A2A protokol můžeme vnímat jako pokročilou formu orchestrace agentů, ale jde za hranice klasické orchestrace, jak ji známe například z mikroslužeb. Představte si ho jako ekosystém specializovaných expertů, kteří spolu mohou mluvit společným jazykem (protokolem) a předávat si práci, kdykoli narazí na něco, co lépe zvládne jiný specialista.</p>
-
-<p>Na rozdíl od tradiční orchestrace, kde centrální orchestrátor řídí relativně pasivní komponenty podle předem definovaných workflow, v A2A si agenti zachovávají svou autonomii a rozhodovací schopnosti. Neexistuje zde nutně pevná hierarchie nebo předem stanovený procesní tok – interakce mohou vznikat dynamicky podle aktuální potřeby. Což přináší výhody, ale také potíže. Jak velké, ještě uvidíme 😎</p>
-
-<h3 id="návrh-a2a-protokolu">Návrh A2A protokolu</h3>
-
-<p>A2A byl navržen s ohledem na pět klíčových principů:</p>
-
-<ol>
-  <li>
-    <p><strong>Agenční schopnosti</strong> - A2A umožňuje agentům spolupracovat v jejich přirozených, nestrukturovaných modalitách, i když nesdílejí paměť, nástroje a kontext. Nejde o pouhé využívání agentů jako “nástrojů”, ale o skutečné multi-agenční scénáře.</p>
-  </li>
-  <li>
-    <p><strong>Stavba na existujících standardech</strong> - Protokol staví na populárních standardech jako HTTP, SSE a JSON-RPC, což usnadňuje integraci do existujících IT infrastruktur.</p>
-  </li>
-  <li>
-    <p><strong>Bezpečnost jako výchozí stav</strong> - A2A podporuje podnikovou úroveň autentizace a autorizace, s návaznostní na autentizační mechanismy OpenAPI.</p>
-  </li>
-  <li>
-    <p><strong>Podpora dlouhodobých úloh</strong> - Protokol je navržen tak, aby podporoval jak rychlé úkoly, tak hluboký výzkum, který může trvat hodiny nebo dny při zapojení lidí. Během celého procesu může A2A poskytovat zpětnou vazbu, oznámení a aktualizace stavu v reálném čase.</p>
-  </li>
-  <li>
-    <p><strong>Modalitní agnosticita</strong> - A2A podporuje různé modality, včetně streamování audia a videa, neomezuje se pouze na text.</p>
-  </li>
-</ol>
-
-<h3 id="funkce-a2a">Funkce A2A</h3>
-
-<p>A2A zprostředkovává komunikaci mezi “klientským” agentem a “vzdáleným” agentem. Klientský agent formuluje a komunikuje úkoly, zatímco vzdálený agent na tyto úkoly reaguje a pokouší se poskytnout správné informace nebo provést správnou akci.</p>
-
-<p>Interakce mezi agenty zahrnuje několik klíčových schopností:</p>
-
-<ol>
-  <li>
-    <p><strong>Objevování schopností</strong> - Agenti mohou inzerovat své schopnosti pomocí “Agent Card” ve formátu JSON. To umožňuje klientskému agentovi identifikovat nejlepšího agenta, který může plnit daný úkol.</p>
-  </li>
-  <li>
-    <p><strong>Správa úkolů</strong> - Komunikace mezi klientem a vzdáleným agentem je orientována na dokončení úkolů, kde agenti spolupracují na splnění požadavků koncových uživatelů. “Úkol” má definovaný životní cyklus - může být dokončen okamžitě, nebo v případě dlouhodobých úkolů mohou agenti komunikovat a synchronizovat se ohledně nejnovějšího stavu plnění úkolu. Výstupem úkolu je “artefakt”.</p>
-  </li>
-  <li>
-    <p><strong>Spolupráce</strong> - Agenti si mohou navzájem posílat zprávy ke komunikaci kontextu, odpovědí, artefaktů nebo uživatelských instrukcí.</p>
-  </li>
-  <li>
-    <p><strong>Vyjednávání uživatelské zkušenosti</strong> - Každá zpráva obsahuje “části”, což jsou plně formované kusy obsahu, jako je generovaný obrázek. Každá část má specifikovaný typ obsahu, což umožňuje klientským a vzdáleným agentům vyjednat správný potřebný formát a explicitně zahrnout vyjednávání o uživatelských schopnostech UI - např. iframy, videa, webové formuláře a další.</p>
-  </li>
-</ol>
-
-<p><img src="https://www.marigold.cz/assets/a2a-schema.jpeg" alt="Google A2A" /></p>
-
-<h3 id="praktické-využití-a2a">Praktické využití A2A</h3>
-
-<p>A2A protokol může být využit v mnoha praktických scénářích. Jeden z příkladů uvedených v dokumentaci je “nábor vývojáře” - tedy situace, kdy je potřeba zajistit a projít životopisy vhodných kandidátů a sestavit doporučení:</p>
-
-<ol>
-  <li>Uživatel (např. manažer náboru) zadá svému agentovi úkol najít kandidáty odpovídající popisu práce, lokalitě a požadovaným dovednostem.</li>
-  <li>Agent poté interaguje s jinými specializovanými agenty k vyhledání potenciálních kandidátů.</li>
-  <li>Uživatel obdrží tyto návrhy a může svému agentovi zadat, aby naplánoval další pohovory.</li>
-  <li>Po dokončení procesu pohovorů může být jiný agent pověřen kontrolou referencí.</li>
-</ol>
-
-<p>Tento příklad ilustruje, jak <a href="/ai/agenti/">[AI agenti](/ai/agenti/)</a> potřebují spolupracovat napříč systémy k nalezení kvalifikovaného kandidáta na pracovní pozici.</p>
-
-<p>Další možnosti využití zahrnují:</p>
-
-<ul>
-  <li><strong>Automatizace podnikových procesů</strong> - Propojení agentů pro objednávání, účetnictví, logistiku a zákaznický servis.</li>
-  <li><strong>Datová analýza</strong> - Spolupráce specializovaných agentů na zpracování a analýze dat z různých zdrojů.</li>
-  <li><strong>Výzkum a vývoj</strong> - Koordinace agentů pro vyhledávání, experimenty a syntézu výsledků.</li>
-  <li><strong>Řízení dodavatelského řetězce</strong> - Propojení agentů pro plánování, nákup, skladování a distribuci.</li>
-</ul>
-
-<h3 id="technické-detaily">Technické detaily</h3>
-
-<p>A2A je implementován jako REST API, které používá JSON pro výměnu dat. Klíčové komponenty zahrnují:</p>
-
-<ol>
-  <li>
-    <p><strong>Agentní karty</strong> - JSON objekty popisující schopnosti agenta, včetně podporovaných operací, autentizačních požadavků a dalších metadat.</p>
-  </li>
-  <li>
-    <p><strong>Úkoly</strong> - Strukturované objekty reprezentující práci, kterou má agent vykonat. Každý úkol má unikátní identifikátor, stav, priority a další atributy.</p>
-  </li>
-  <li>
-    <p><strong>Zprávy</strong> - Komunikační jednotky mezi agenty, které mohou obsahovat textové zprávy, strukturovaná data nebo odkazy na externí zdroje.</p>
-  </li>
-  <li>
-    <p><strong>Artefakty</strong> - Výstupy úkolů, které mohou mít různé formáty, jako jsou dokumenty, obrázky, audio nebo video.</p>
-  </li>
-  <li>
-    <p><strong>Notifikace</strong> - Mechanismy pro aktualizace v reálném čase o změnách stavu úkolů nebo dostupnosti nových zpráv.</p>
-  </li>
-</ol>
-
-<h3 id="výzvy-a-omezení">Výzvy a omezení</h3>
-
-<p>I přes svůj potenciál čelí A2A několika výzvám:</p>
-
-<ol>
-  <li>
-    <p><strong>Bezpečnost a soukromí</strong> - Při sdílení dat mezi agenty je kritické zajistit, že citlivé informace zůstanou chráněny.</p>
-  </li>
-  <li>
-    <p><strong>Škálovatelnost</strong> - S rostoucím počtem agentů a komplexitou úkolů bude důležité udržet efektivitu a výkon systému.</p>
-  </li>
-  <li>
-    <p><strong>Interoperabilita</strong> - Zatímco A2A poskytuje standard pro komunikaci, implementace tohoto standardu napříč různými systémy může být náročná.</p>
-  </li>
-  <li>
-    <p><strong>Odpovědnost</strong> - Určení odpovědnosti v případě chyb nebo negativních výsledků může být složité v multi-agenčním prostředí.</p>
-  </li>
-</ol>
-
-<h3 id="budoucí-vývoj">Budoucí vývoj</h3>
-
-<p>A2A protokol je stále ve vývoji a jeho finální verze má být vydána později v roce 2025. Google a jeho partneři plánují protokol dále rozvíjet s důrazem na:</p>
-
-<ol>
-  <li><strong>Rozšíření podporovaných modalit</strong> - Přidání podpory pro nové typy dat a interakcí.</li>
-  <li><strong>Vylepšení bezpečnostních mechanismů</strong> - Posílení ochrany dat a autentizace.</li>
-  <li><strong>Optimalizace výkonu</strong> - Zlepšení efektivity komunikace mezi agenty.</li>
-  <li><strong>Standardizace</strong> - Spolupráce s průmyslovými orgány na formalizaci A2A jako oficiálního standardu.</li>
-</ol>
-
-<h3 id="závěr">Závěr</h3>
-
-<p>Agent2Agent (A2A) protokol představuje podle mě hodně důležitý krok k vytvoření interoperabilního ekosystému AI agentů. Právě kooperace a efektivní výměna dat AI agentů zatím představovala významný lidim, protože předávání dat většinou řešil uživatel, tedy ta nejméně spolehlivá část systámu. A2A doplňuje existující protokoly jako MCP a umožňuje agentům efektivně spolupracovat napříč platformami a aplikacemi. S podporou významných technologických společností má A2A potenciál stát se standardem pro komunikaci mezi AI agenty a umožnit nové formy automatizace a optimalizace procesů.</p>
-
-<p>Protokol je navržen s důrazem na bezpečnost, flexibilitu a škálovatelnost, což jsou klíčové vlastnosti pro nasazení v podnikových prostředích. Jak se AI agenti stávají stále více součástí podnikových operací, standardy jako A2A budou hrát klíčovou roli v maximalizaci jejich přínosu a minimalizaci složitosti jejich implementace.</p>
-
-<p>Koncept A2A jako ekosystému specializovaných expertů komunikujících společným jazykem přináší nový rozměr do světa umělé inteligence - místo izolovaných systémů vzniká prostor pro vysoce adaptabilní sítě autonomních agentů, kteří společně řeší komplexní problémy rychleji a efektivněji, než by dokázal jediný agent, bez ohledu na to, jak je sofistikovaný.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="Google" /><category term="Agenti" /><category term="A2A" /><summary type="html"><![CDATA[Přichází čas AI agentů, jenže jak se mezi sebou domluví? Právě neexistující vzájemné automatické propojení mezi agenty bylo značným omezením, což si uvědomil Google a přišel s návrhem protokolu A2A čili Agent2Agent.]]></summary></entry></feed>
+<p>V každém případě se na jejich web  <a href="https://ai-2027.com/">https://ai-2027.com</a>  podívejte. Mají scénář krásně udělaný, interaktivní a nepochybně přitáhne pozornost. O což šlo.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="katastrofa" /><summary type="html"><![CDATA[Deník N vydal katastrofický článek s nadpisem “Do deseti let bude po všem”, v němž nám převyprávěl scénář AI 2027 vypracovaný pěticí lidí o potenciálním nebezpečí umělé inteligence. A tím se o tématu začalu v Česku opět diskutovat. Dokument vypadá na první pohled propracovaně, ona pětice má určité renomé. Jenže obsahuje řadu problematických předpokladů a logických skoků, které je třeba kriticky posoudit. Začnu tím, že vynechám onu pětici lidí, ani je zatím nebudu jmenovat, abychom se mohli nerušeně soustředit na tvrzení a fakta.]]></summary></entry></feed>
