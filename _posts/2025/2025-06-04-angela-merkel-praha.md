@@ -6,12 +6,14 @@ categories:
 - Německo
 - politika
 layout: post
-post_excerpt: Novinky? Google spustil Edge AI Gallery pro offline AI zpracování. Čínský DeepSeek R1 se vyšplhal na třetí místo v globálním žebříčku AI modelů. ElevenLabs s platformou Conversational AI 2.0, Anthropic spustil hlasový režim pro Claude a Resemble AI uvedl pokročilý systém syntézy řeči Chatterbox.
+post_excerpt: Včera večer, v naprosto naplněné Lucerně, se Česko loučilo s bývalou německou kancléřkou Angelou Merkelovou. Velký rozhovor, který dávala k příležitosti vydání své knihy Svoboda, byl výjimečný - jak délkou, tak nakonec i otevřeností. 
 thumbnail: https://www.marigold.cz/assets/angela-merkel-prague.jpeg
 title: Praha se loučila s bývalou německou kancléřkou
 ---
 
-Včera večer, v naprosto naplněné Lucerně, se Česko loučilo s bývalou německou kancléřkou Angelou Merkelovou. Velký rozhovor, který dávala k příležitosti vydání své knihy Svoboda, byl výjimečný - jak délkou, tak nakonec i otevřeností. V průběhu večera musela obhajovat svá rozhodnutí ohledně ruské politiky i migrační krize. Zvládla to tak, jako po celých šestnáct let svého kancléřství: přesně a jasně vyargumentovala závěry, které ji k rozhodnutí vedly a na závěr dodává, že dnes by se nerozhodla jinak. 
+Včera večer, v naprosto naplněné Lucerně, se Česko loučilo s bývalou německou kancléřkou Angelou Merkelovou. Velký rozhovor, který dávala k příležitosti vydání své knihy Svoboda, byl výjimečný - jak délkou, tak nakonec i otevřeností. 
+
+V průběhu večera musela obhajovat svá rozhodnutí ohledně ruské politiky i migrační krize. Zvládla to tak, jako po celých šestnáct let svého kancléřství: přesně a jasně vyargumentovala závěry, které ji k rozhodnutí vedly a na závěr dodává, že dnes by se nerozhodla jinak. 
 
 Merkelová narozená v NDR má k Česku sentimentální vztah, v osmdesátkách tu strávila trojici několikaměsíčních výzkumných pobytů a od té doby měla pro Česko slabost. Což jsme ne vždy uměli docenit. A opakuje to znovu, že do Prahy se vždy ráda vrací, i když by také ráda strávila nějaký čas v Itálii - a v Japonsku, kde navíc těží z toho, že zde není tak známá. 
 
