@@ -30,12 +30,12 @@ Nezvykle ostrá slova má také pro situaci v Gaze. Připomíná, že je to Ham�
 Když po hodině a půl rozhovor končí, dostává se viditelně dojaté bývalé německé kancléřce mnohaminutový aplaus. Lidé stávají a potlesk neutichá, ani když se kancléřka už otáčí k odchodu, ještě se vrací, aby publiku znovu poděkovala. "Jako na Cimrmanech," komentuje to pár vedle mne. 
 
 Praha se loučí s kancléřkou, za níž jedna generace žila v míru a blahobytu. A kancléřka Merkelová nemůže za to, jak to která země využila. Už dnes víme, že její následovník Olaf Scholz důstojným pokračováním její éry nebude. Merz? Uvidíme. 
-Když jsem jí o několik hodin dříve prosil o podpis její knihy, přišlo mi důležité jí poděkovat: "Danke für alles, Frau Bundeskanzlerin." Dneska je čas na poděkování, ne na kritiku. 
+Když jsem jí o několik hodin dříve prosil o podpis její knihy, přišlo mi důležité jí poděkovat: _"Danke für alles, Frau Bundeskanzlerin."_ Dneska je čas na poděkování, ne na kritiku. 
 
 Usměje se a pokývá hlavou, i když kolikrát musela tuhle větu slyšet. 
 
 Takhle končí velká éra tohoto století, bohužel také jedna z těch nejšťastnějších. 
 
-Danke für alles, Frau Bundeskanzlerin.
+_Danke für alles, Frau Bundeskanzlerin._
 
 PS: Respekt má velký článek rekapitulující debatu: [Angela Merkel pro Respekt: Zelenskyj mi řekl, ať se v Buče podívám, co moje politika vůči Rusku způsobila. Ale i podruhé bych se chovala stejně](https://www.respekt.cz/kontext/angela-merkel-pro-respekt-zelenskyj-mi-rekl-at-se-v-buci-podivam-co-moje-politika-vuci-rusku-zpusobila-ale-i-podruhe-bych-se-chovala-stejne)
