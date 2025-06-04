@@ -35,3 +35,5 @@ Usměje se a pokývá hlavou, i když kolikrát musela tuhle větu slyšet.
 Takhle končí velká éra tohoto století, bohužel také jedna z těch nejšťastnějších. 
 
 Danke für alles, Frau Bundeskanzlerin.
+
+PS: Respekt má velký článek rekapitulující debatu: [Angela Merkel pro Respekt: Zelenskyj mi řekl, ať se v Buče podívám, co moje politika vůči Rusku způsobila. Ale i podruhé bych se chovala stejně](https://www.respekt.cz/kontext/angela-merkel-pro-respekt-zelenskyj-mi-rekl-at-se-v-buci-podivam-co-moje-politika-vuci-rusku-zpusobila-ale-i-podruhe-bych-se-chovala-stejne)
