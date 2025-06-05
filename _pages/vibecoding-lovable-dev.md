@@ -17,13 +17,11 @@ Lovable.dev se specializuje na rychlé vytváření webových aplikací pomocí 
 {% assign lovable_posts = site.vibecoding | where_exp: "post", "post.path contains '/lovable-dev/'" | sort: "date" | reverse %}
 {% for post in lovable_posts %}
 <article class="vibecoding-article">
-  <h3>{{ post.title }}</h3>
+  <h3>    {{ post.date | date: "%d. %m. %Y" }} - {{ post.title }}</h3>
   <div class="article-content">
     {{ post.content }}
   </div>
-  <div class="article-meta">
-    {{ post.date | date: "%d. %m. %Y" }}
-  </div>
+
 </article>
 {% endfor %}
 

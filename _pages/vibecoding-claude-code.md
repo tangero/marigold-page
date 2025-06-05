@@ -17,12 +17,9 @@ Claude Code představuje pokročilou implementaci umělé inteligence zaměřeno
 {% assign claude_posts = site.vibecoding | where_exp: "post", "post.path contains '/claude-code/'" | sort: "date" | reverse %}
 {% for post in claude_posts %}
 <article class="vibecoding-article">
-  <h3>{{ post.title }}</h3>
+  <h3>    {{ post.date | date: "%d. %m. %Y" }} - {{ post.title }}</h3>
   <div class="article-content">
     {{ post.content }}
-  </div>
-  <div class="article-meta">
-    {{ post.date | date: "%d. %m. %Y" }}
   </div>
 </article>
 {% endfor %}

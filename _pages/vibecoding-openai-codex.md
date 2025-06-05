@@ -17,12 +17,12 @@ OpenAI Codex je pokročilý jazykový model specializovaný na programování. J
 {% assign codex_posts = site.vibecoding | where_exp: "post", "post.path contains '/openai-codex/'" | sort: "date" | reverse %}
 {% for post in codex_posts %}
 <article class="vibecoding-article">
-  <h3>{{ post.title }}</h3>
+  <h3>    {{ post.date | date: "%d. %m. %Y" }} - {{ post.title }}</h3>
   <div class="article-content">
     {{ post.content }}
   </div>
   <div class="article-meta">
-    {{ post.date | date: "%d. %m. %Y" }}
+
   </div>
 </article>
 {% endfor %}

@@ -27,6 +27,11 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
   </div>
   
   <div class="service-card">
+    <h3><a href="/vibecoding/cursor/">🖱️ Cursor</a></h3>
+    <p>AI-first editor s pokročilými funkcemi pro rychlý vývoj a refactoring kódu</p>
+  </div>
+  
+  <div class="service-card">
     <h3><a href="/vibecoding/lovable-dev/">💖 Lovable.dev</a></h3>
     <p>AI nástroj pro rychlý vývoj moderních webových aplikací</p>
   </div>
