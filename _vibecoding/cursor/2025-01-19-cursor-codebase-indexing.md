@@ -2,8 +2,6 @@
 layout: post
 title: "Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu"
 date: 2025-01-19
-
-hide: true
 ---
 
 Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.

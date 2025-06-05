@@ -2,8 +2,6 @@
 layout: post
 title: "Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem"
 date: 2025-01-16
-
-hide: true
 ---
 
 Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.

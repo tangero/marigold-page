@@ -2,7 +2,6 @@
 layout: post
 title: "Cursor představuje Composer - AI agent pro komplexní změny kódu"
 date: 2025-01-22
-hide: true
 ---
 
 Cursor vydal revolucionní funkci Composer, která představuje nový typ AI agenta schopného provádět komplexní změny napříč celým projektem pomocí přirozeného jazyka.

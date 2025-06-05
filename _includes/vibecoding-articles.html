@@ -4,8 +4,11 @@
 {% assign folder_posts = site.vibecoding | where_exp: "post", "post.path contains tool_path" %}
 {% assign main_posts = site.posts | where: "sw", include.tool_sw %}
 
+{% comment %} Filtrujeme pouze články bez hide: true {% endcomment %}
+{% assign folder_posts_visible = folder_posts | where_exp: "post", "post.hide != true" %}
+
 {% comment %} Spojíme všechny příspěvky do jednoho pole {% endcomment %}
-{% assign all_posts = main_posts | concat: folder_posts | sort: "date" | reverse %}
+{% assign all_posts = main_posts | concat: folder_posts_visible | sort: "date" | reverse %}
 
 {% for post in all_posts %}
   {% comment %} Zjistíme délku obsahu pro rozhodnutí o zobrazení {% endcomment %}
@@ -13,6 +16,12 @@
   {% assign is_short = false %}
   {% if content_length < 1000 %}
     {% assign is_short = true %}
+  {% endif %}
+
+  {% comment %} Rozhodujeme o typu URL - zda jde o článek z vibecoding sekce nebo z _posts {% endcomment %}
+  {% assign is_vibecoding_article = false %}
+  {% if post.path contains '_vibecoding/' %}
+    {% assign is_vibecoding_article = true %}
   {% endif %}
 
   <article class="vibecoding-article {% if is_short %}full-article{% else %}excerpt-article{% endif %}">
@@ -23,9 +32,9 @@
       </div>
     {% endif %}
 
-    {% comment %} Nadpis vždy jako odkaz {% endcomment %}
+    {% comment %} Nadpis vždy jako odkaz - používáme absolutní URL {% endcomment %}
     <h3 class="article-title">
-      <a href="{% if site.posts contains post %}{{ post.url }}{% else %}#{{ post.slug }}{% endif %}">
+      <a href="{{ post.url | relative_url }}">
         <span class="article-date">{{ post.date | date: "%d. %m. %Y" }}</span> - {{ post.title }}
       </a>
     </h3>
@@ -47,14 +56,12 @@
           {% endif %}
         </div>
         
-        {% comment %} Link na pokračování jen pro hlavní posty {% endcomment %}
-        {% if site.posts contains post %}
-          <div class="article-read-more-wrapper">
-            <a href="{{ post.url }}" class="article-read-more">
-              📖 Číst celý článek →
-            </a>
-          </div>
-        {% endif %}
+        {% comment %} Link na pokračování pro všechny dlouhé články {% endcomment %}
+        <div class="article-read-more-wrapper">
+          <a href="{{ post.url | relative_url }}" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
       {% endif %}
     </div>
 
