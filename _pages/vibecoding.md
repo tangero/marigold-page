@@ -13,22 +13,22 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
 <div class="vibecoding-matrix">
   <div class="service-card">
     <h3><a href="/vibecoding/databutton/">🔴 Databutton</a></h3>
-    <p>AI-powered platforma pro vytváření aplikací a analytických nástrojů bez kódování</p>
+    <p>Evropská AI-powered web platforma pro vytváření aplikací bez kódování</p>
   </div>
   
   <div class="service-card">
     <h3><a href="/vibecoding/claude-code/">🟣 Claude Code</a></h3>
-    <p>Pokročilý AI asistent pro programování a analýzu kódu od Anthropic</p>
+    <p>Pokročilý terminálový asistent pro programování a analýzu kódu od Anthropicu</p>
   </div>
   
   <div class="service-card">
     <h3><a href="/vibecoding/openai-codex/">🟢 OpenAI Codex</a></h3>
-    <p>Revolučný AI model pro generování a porozumění kódu od OpenAI</p>
+    <p>AI model pro generování a porozumění kódu od OpenAI</p>
   </div>
   
   <div class="service-card">
     <h3><a href="/vibecoding/cursor/">🖱️ Cursor</a></h3>
-    <p>AI-first editor s pokročilými funkcemi pro rychlý vývoj a refactoring kódu</p>
+    <p>Kompletní IDE založené na VS CODE s AI funkcemi pro rychlý vývoj a refactoring kódu</p>
   </div>
   
   <div class="service-card">
@@ -43,7 +43,7 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
   
   <div class="service-card">
     <h3><a href="/vibecoding/tempolabs/">⚡ Tempolabs</a></h3>
-    <p>Rychlý AI nástroj pro prototypování a vývoj aplikací</p>
+    <p>Rychlý webový AI nástroj pro prototypování a vývoj aplikací</p>
   </div>
 </div>
 

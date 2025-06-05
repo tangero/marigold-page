@@ -157,6 +157,7 @@ exclude:
   - generate_summaries.py
   - README.md
   - .env
+  - chatterbox_env/
 
 
 # Tipue search settings

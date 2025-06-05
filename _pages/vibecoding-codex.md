@@ -1,7 +1,7 @@
 ---
 layout: page
 title: OpenAI Codex - Vibe Coding
-permalink: /vibecoding/codex/
+permalink: /vibecoding/openai-codex/
 ---
 
 # 🧠 OpenAI Codex

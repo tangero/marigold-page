@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lovable.dev - Vibe Coding
-permalink: /vibecoding/lovable/
+permalink: /vibecoding/lovable-dev/
 ---
 
 # 💖 Lovable.dev

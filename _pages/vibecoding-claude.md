@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Claude Code - Vibe Coding
-permalink: /vibecoding/claude/
+permalink: /vibecoding/claude-code/
 ---
 
 # 🤖 Claude Code
