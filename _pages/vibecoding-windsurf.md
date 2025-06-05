@@ -12,6 +12,11 @@ permalink: /vibecoding/windsurf/
 
 Windsurf od Codeium je pokročilé vývojové prostředí s integrovanou umělou inteligencí. Nabízí kontextové navrhování kódu, automatické refactoring, inteligentní ladění a seamless spolupráci s AI asistentem přímo v editoru.
 
+Na rozdíl od tradičních editorů s AI pluginy je AI integrovaná přímo do jádra aplikace. Byl vyvinut společností Codeium specificky pro éru AI-driven development a podporuje jak online, tak částečně offline AI funkce.
+
+<details>
+<summary><strong>📋 Detailní informace o Windsurf</strong></summary>
+
 ## 📋 Základní informace
 
 ### Co je Windsurf?
@@ -19,7 +24,7 @@ Windsurf je moderní IDE postavené na VS Code architektuře, ale s významně r
 
 ### Klíčové vlastnosti:
 - **AI-native design** - navržen od základu pro práci s AI
-- **Multimodální AI** - rozumí kódu, textu i obrázkům
+- **Multimodální AI** - rozumí kódu, textu i obrázkám
 - **Kontextové porozumění** - AI analyzuje celý projekt, ne jen aktuální soubor
 - **Offline možnosti** - část funkcí funguje i bez internetového připojení
 - **Cross-platform** - Windows, macOS, Linux
@@ -107,23 +112,25 @@ Codeium plánuje pro Windsurf:
 - **Custom AI models** - možnost trénovat vlastní modely
 - **Visual programming** - drag & drop rozhraní pro některé úkoly
 
+</details>
+
 ---
 
-## 📰 Nejnovější funkce a aktualizace
+## 📰 Články a novinky
 
-{% assign windsurf_posts = site.vibecoding | where_exp: "post", "post.path contains '/windsurf/'" | sort: "date" | reverse %}
-{% for post in windsurf_posts %}
+{% assign folder_posts = site.vibecoding | where_exp: "post", "post.path contains '/windsurf/'" %}
+{% assign main_posts = site.posts | where: "sw", "windsurf" %}
+{% assign all_posts = folder_posts | concat: main_posts | sort: "date" | reverse %}
+
+{% for post in all_posts %}
 <article class="vibecoding-article">
-  <h3>    {{ post.date | date: "%d. %m. %Y" }} - {{ post.title }}</h3>
+  <h3>{{ post.date | date: "%d. %m. %Y" }} - {{ post.title }}</h3>
   <div class="article-content">
     {{ post.content }}
-  </div>
-  <div class="article-meta">
-
   </div>
 </article>
 {% endfor %}
 
-{% if windsurf_posts.size == 0 %}
+{% if all_posts.size == 0 %}
 <p><em>Zatím zde nejsou žádné články. Sledujte novinky!</em></p>
 {% endif %} 

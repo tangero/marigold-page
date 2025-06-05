@@ -12,6 +12,11 @@ permalink: /vibecoding/cursor/
 
 Cursor je moderní code editor postavený na VS Code s nativní AI integrací. Editor je navržen speciálně pro AI-asistované programování a nabízí revolucionární způsob práce s kódem pomocí umělé inteligence.
 
+Na rozdíl od VS Code s pluginy má AI funkcionalitu zabudovanou přímo v jádru editoru. Používá vlastní AI modely optimalizované pro programování, ale podporuje i externí modely jako GPT-4, Claude a další.
+
+<details>
+<summary><strong>📋 Detailní informace o Cursor</strong></summary>
+
 ## 📋 Základní informace
 
 ### Co je Cursor?
@@ -119,7 +124,7 @@ brew install cursor
 | Multi-file editing | ✅ | ❌ | ✅ | ✅ |
 | Natural language | ✅ | Částečně | ✅ | ✅ |
 | Cena (Pro) | $20/měsíc | $10/měsíc | $20/měsíc | $7/měsíc |
-| VS Code kompatibilita | ✅ 100% | ✅ | ❌ | ❌ |
+| VS Code kompatibilita | ✅ 100% | ❌ | ❌ | ❌ |
 
 ## 🔧 Systémové požadavky
 
@@ -158,23 +163,25 @@ Cursor tým plánuje:
 - **Advanced debugging** - AI-powered debugging tools
 - **Visual programming** - hybrid text/visual programování
 
+</details>
+
 ---
 
-## 📰 Nejnovější funkce a aktualizace
+## 📰 Články a novinky
 
-{% assign cursor_posts = site.vibecoding | where_exp: "post", "post.path contains '/cursor/'" | sort: "date" | reverse %}
-{% for post in cursor_posts %}
+{% assign folder_posts = site.vibecoding | where_exp: "post", "post.path contains '/cursor/'" %}
+{% assign main_posts = site.posts | where: "sw", "cursor" %}
+{% assign all_posts = folder_posts | concat: main_posts | sort: "date" | reverse %}
+
+{% for post in all_posts %}
 <article class="vibecoding-article">
-  <h3>{{ post.title }}</h3>
+  <h3>{{ post.date | date: "%d. %m. %Y" }} - {{ post.title }}</h3>
   <div class="article-content">
     {{ post.content }}
-  </div>
-  <div class="article-meta">
-    {{ post.date | date: "%d. %m. %Y" }}
   </div>
 </article>
 {% endfor %}
 
-{% if cursor_posts.size == 0 %}
+{% if all_posts.size == 0 %}
 <p><em>Zatím zde nejsou žádné články. Sledujte novinky!</em></p>
 {% endif %} 
