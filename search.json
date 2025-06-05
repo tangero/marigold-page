@@ -26202,18 +26202,9 @@
     
     ,{
       "title"    : "Claude Code - Vibe Coding",
-      "url"      : "//vibecoding/claude-code/",
-      "category" : "stránka",
-      "content"  : "# 🟣 Claude Code**Pokročilý AI asistent pro programování a analýzu kódu od Anthropic**🔗 [Navštívit Claude →](https://claude.ai)Claude Code představuje pokročilou implementaci umělé inteligence zaměřenou na programování. Excelize v porozumění kontextu, refaktoringu kódu, ladění chyb a psaní dokumentace. Podporuje širokou škálu programovacích jazyků a je obzvlášť silný v komplexní analýze a architekturálních návrzích.## Nejnovější funkce a články{% assign claude_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/claude-code/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in claude_posts %} {{ post.date | date: &quot;%d. %m. %Y&quot; }} - {{ post.title }} {{ post.content }} {% endfor %}{% if claude_posts.size == 0 %}Zatím zde..."
-    }
-    
-  
-    
-    ,{
-      "title"    : "Claude Code - Vibe Coding",
       "url"      : "//vibecoding/claude/",
       "category" : "stránka",
-      "content"  : "# 🤖 Claude Code**Pokročilý AI asistent pro programování od Anthropic**🔗 [Navštívit Claude →](https://claude.ai)Claude Code je specializovaná verze AI asistenta Claude zaměřená na programování a vývoj softwaru. Vyniká v pochopení kontextu, refactoringu, debugging a vysvětlování složitých algoritmů.Na rozdíl od jiných AI programovacích nástrojů klade důraz na bezpečnost, etiku a transparentní komunikaci. Je ideální pro komplexní programovací úkoly, kde je důležité porozumění kontextu a kvalitní vysvětlení řešení. 📋 Detailní informace o Claude Code ### Klíčové vlastnosti:- **Kontextové porozumění** - analyzuje celé projekty najednou- **Bezpečné programování** - důraz na secure coding practices- **Refactoring** - inteligentní přestrukturování kódu- **Debugging** - pomoc s hledáním a..."
+      "content"  : "# 🤖 Claude Code**Pokročilý AI asistent pro programování od Anthropic**🔗 [Navštívit Claude Code →](https://www.anthropic.com/claude-code)Claude Code je specializovaná verze AI asistenta Claude zaměřená na programování a vývoj softwaru. Vyniká v pochopení kontextu, refactoringu, debugging a vysvětlování složitých algoritmů.Na rozdíl od jiných AI programovacích nástrojů klade důraz na bezpečnost, etiku a transparentní komunikaci. Je ideální pro komplexní programovací úkoly, kde je důležité porozumění kontextu a kvalitní vysvětlení řešení. 📋 Detailní informace o Claude Code ### Klíčové vlastnosti:- **Kontextové porozumění** - analyzuje celé projekty najednou- **Bezpečné programování** - důraz na secure coding practices- **Refactoring** - inteligentní přestrukturování kódu- **Debugging** - pomoc s hledáním..."
     }
     
   
