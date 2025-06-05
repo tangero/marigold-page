@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Cursor 1.0: Nové funkce pro AI programování / vibecoding",
+      "url"      : "//item/cursor_1_0_clanek/",
+      "category" : "AI, vibecoding, Cursor",
+      "tags"     : "",
+      "date"     : "5.6.2025",
+      "content"  : "Společnost Anysphere vydala verzi 1.0 svého AI editoru kódu Cursor, která přináší automatickou kontrolu kódu, rozšířený přístup k Background Agent a zjednodušenou integraci MCP protokolu. Vydání přichází více než rok po spuštění v roce 2023 a obsahuje sedm hlavních funkcí.Automatická kontrola kódu s BugBotBugBot analyzuje změny v pull requestech pomocí AI modelů dostupných v Cursor. Nástroj identifikuje potenciální problémy v kódu před jeho začleněním do hlavní větve.Systém nabízí tři režimy práce: Automatické komentáře: Při aktualizaci pull requestu BugBot znovu prověří kód a přidá komentáře k identifikovaným problémům Manuální spuštění: Aktivace příkazem bugbot run v komentáři Přímá integrace: Tlačítko “Fix in..."
+    },
+  
+    {
       "title"    : "Praha se loučila s bývalou německou kancléřkou",
       "url"      : "//item/angela-merkel-praha/",
       "category" : "Angela Merkel, Německo, politika",
@@ -26106,7 +26115,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI AI novinky - Google Edge AI Gallery, DeepSeek R1, ElevenLabs Conversational AI 2.0 ... ( 3.06.2025) AI novinky k 28.5.2025 (28.05.2025) 🍯 Oktagon rizik AI - Křehká pozornost v křehkém světě (27.05.2025) Novinky Microsoft Build 2025 - MCP všude, inovace kolem..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Cursor 1.0: Nové funkce pro AI programování / vibecoding ( 5.06.2025) AI novinky - Google Edge AI Gallery, DeepSeek R1, ElevenLabs Conversational AI 2.0 ... ( 3.06.2025) AI novinky k 28.5.2025 (28.05.2025) 🍯 Oktagon rizik AI - Křehká pozornost v křehkém..."
     }
     
   
@@ -26126,7 +26135,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 206 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 68 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 207 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 68 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -26195,7 +26204,16 @@
       "title"    : "Claude Code - Vibe Coding",
       "url"      : "//vibecoding/claude-code/",
       "category" : "stránka",
-      "content"  : "# 🟣 Claude Code**Pokročilý AI asistent pro programování a analýzu kódu od Anthropic**🔗 [Navštívit Claude →](https://claude.ai)Claude Code představuje pokročilou implementaci umělé inteligence zaměřenou na programování. Excelize v porozumění kontextu, refaktoringu kódu, ladění chyb a psaní dokumentace. Podporuje širokou škálu programovacích jazyků a je obzvlášť silný v komplexní analýze a architekturálních návrzích.## Nejnovější funkce a články{% assign claude_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/claude-code/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in claude_posts %} {{ post.title }} {{ post.content }} {{ post.date | date: &quot;%d. %m. %Y&quot; }} {% endfor %}{% if claude_posts.size == 0 %}Zatím zde nejsou..."
+      "content"  : "# 🟣 Claude Code**Pokročilý AI asistent pro programování a analýzu kódu od Anthropic**🔗 [Navštívit Claude →](https://claude.ai)Claude Code představuje pokročilou implementaci umělé inteligence zaměřenou na programování. Excelize v porozumění kontextu, refaktoringu kódu, ladění chyb a psaní dokumentace. Podporuje širokou škálu programovacích jazyků a je obzvlášť silný v komplexní analýze a architekturálních návrzích.## Nejnovější funkce a články{% assign claude_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/claude-code/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in claude_posts %} {{ post.date | date: &quot;%d. %m. %Y&quot; }} - {{ post.title }} {{ post.content }} {% endfor %}{% if claude_posts.size == 0 %}Zatím zde..."
+    }
+    
+  
+    
+    ,{
+      "title"    : "Cursor - Vibe Coding",
+      "url"      : "//vibecoding/cursor/",
+      "category" : "stránka",
+      "content"  : "# 🖱️ Cursor**AI-first editor s pokročilými funkcemi pro rychlý vývoj a refactoring kódu**🔗 [Navštívit Cursor →](https://cursor.sh)Cursor je moderní code editor postavený na VS Code s nativní AI integrací. Editor je navržen speciálně pro AI-asistované programování a nabízí revolucionární způsob práce s kódem pomocí umělé inteligence.## 📋 Základní informace### Co je Cursor?Cursor je fork VS Code s důrazem na AI-first přístup k programování. Na rozdíl od VS Code s pluginy má AI funkcionalitu zabudovanou přímo v jádru editoru. Používá vlastní AI modely optimalizované pro programování, ale podporuje i externí modely jako GPT-4, Claude a další.### Klíčové vlastnosti:- **AI-first architektura** - navržen..."
     }
     
   
@@ -26204,7 +26222,7 @@
       "title"    : "Databutton - Vibe Coding",
       "url"      : "//vibecoding/databutton/",
       "category" : "stránka",
-      "content"  : "# 🔴 Databutton**AI-powered platforma pro vytváření aplikací a analytických nástrojů bez kódování**🔗 [Navštívit Databutton →](https://databutton.com)Databutton umožňuje vytvářet aplikace pomocí přirozeného jazyka. Platforma se specializuje na datovou analýzu a vizualizaci s podporou Python ekosystému. Uživatelé mohou rychle prototypovat datové aplikace, vytvářet dashboardy a automatizovat analytické procesy bez nutnosti hlubokých programátorských znalostí.## Nejnovější funkce a články{% assign databutton_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/databutton/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in databutton_posts %} {{ post.title }} {{ post.content }} {{ post.date | date: &quot;%d. %m. %Y&quot; }} {% endfor %}{% if databutton_posts.size == 0 %}Zatím zde nejsou žádné..."
+      "content"  : "# 🔴 Databutton**AI-powered platforma pro vytváření aplikací a analytických nástrojů bez kódování**🔗 [Navštívit Databutton →](https://databutton.com)Databutton umožňuje vytvářet aplikace pomocí přirozeného jazyka. Platforma se specializuje na datovou analýzu a vizualizaci s podporou Python ekosystému. Uživatelé mohou rychle prototypovat datové aplikace, vytvářet dashboardy a automatizovat analytické procesy bez nutnosti hlubokých programátorských znalostí. Pro mne je zajímavá jak dobře zvládnutým plánovám, tak tím, že jde o projekt evropské firmy. ## Nejnovější funkce a články{% assign databutton_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/databutton/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in databutton_posts %} {{ post.date | date: &quot;%d. %m. %Y&quot; }}..."
     }
     
   
@@ -26213,7 +26231,7 @@
       "title"    : "Lovable.dev - Vibe Coding",
       "url"      : "//vibecoding/lovable-dev/",
       "category" : "stránka",
-      "content"  : "# 💖 Lovable.dev**AI nástroj pro rychlý vývoj moderních webových aplikací**🔗 [Navštívit Lovable.dev →](https://lovable.dev)Lovable.dev se specializuje na rychlé vytváření webových aplikací pomocí AI. Platforma umožňuje vývoj responsive designu, implementaci komplexních funkcionalit a integraci s moderními frameworky. Ideální pro rychlé prototypování a MVP vývoj.## Nejnovější funkce a články{% assign lovable_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/lovable-dev/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in lovable_posts %}  {{ post.title }}      {{ post.content }}        {{ post.date | date: &quot;%d. %m. %Y&quot; }}  {% endfor %}{% if lovable_posts.size == 0 %}Zatím zde nejsou žádné články. Sledujte novinky!{% endif %} "
+      "content"  : "# 💖 Lovable.dev**AI nástroj pro rychlý vývoj moderních webových aplikací**🔗 [Navštívit Lovable.dev →](https://lovable.dev)Lovable.dev se specializuje na rychlé vytváření webových aplikací pomocí AI. Platforma umožňuje vývoj responsive designu, implementaci komplexních funkcionalit a integraci s moderními frameworky. Ideální pro rychlé prototypování a MVP vývoj.## Nejnovější funkce a články{% assign lovable_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/lovable-dev/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in lovable_posts %}      {{ post.date | date: &quot;%d. %m. %Y&quot; }} - {{ post.title }}      {{ post.content }}  {% endfor %}{% if lovable_posts.size == 0 %}Zatím zde nejsou žádné články. Sledujte novinky!{% endif %} "
     }
     
   
@@ -26222,7 +26240,7 @@
       "title"    : "OpenAI Codex - Vibe Coding",
       "url"      : "//vibecoding/openai-codex/",
       "category" : "stránka",
-      "content"  : "# 🟢 OpenAI Codex**Revolučný AI model pro generování a porozumění kódu od OpenAI**🔗 [Navštívit OpenAI →](https://openai.com)OpenAI Codex je pokročilý jazykový model specializovaný na programování. Je základem pro GitHub Copilot a další vývojářské nástroje. Codex rozumí desítkám programovacích jazyků a dokáže generovat kód z přirozeného jazyka, překládat mezi jazyky a vysvětlovat složité algoritmy.## Nejnovější funkce a články{% assign codex_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/openai-codex/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in codex_posts %} {{ post.title }} {{ post.content }} {{ post.date | date: &quot;%d. %m. %Y&quot; }} {% endfor %}{% if codex_posts.size == 0 %}Zatím zde..."
+      "content"  : "# 🟢 OpenAI Codex**Revolučný AI model pro generování a porozumění kódu od OpenAI**🔗 [Navštívit OpenAI →](https://openai.com)OpenAI Codex je pokročilý jazykový model specializovaný na programování. Je základem pro GitHub Copilot a další vývojářské nástroje. Codex rozumí desítkám programovacích jazyků a dokáže generovat kód z přirozeného jazyka, překládat mezi jazyky a vysvětlovat složité algoritmy.## Nejnovější funkce a články{% assign codex_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/openai-codex/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in codex_posts %} {{ post.date | date: &quot;%d. %m. %Y&quot; }} - {{ post.title }} {{ post.content }} {% endfor %}{% if codex_posts.size == 0 %}Zatím..."
     }
     
   
@@ -26231,7 +26249,7 @@
       "title"    : "Tempolabs - Vibe Coding",
       "url"      : "//vibecoding/tempolabs/",
       "category" : "stránka",
-      "content"  : "# ⚡ Tempolabs**Rychlý AI nástroj pro prototypování a vývoj aplikací**🔗 [Navštívit Tempolabs →](https://www.tempolabs.ai)Tempolabs se zaměřuje na extrémně rychlý vývoj aplikací pomocí AI. Platforma umožňuje převést nápad na funkční prototyp během minut, podporuje deployment do cloudu a automatizuje mnoho vývojových procesů.## Nejnovější funkce a články{% assign tempolabs_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/tempolabs/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in tempolabs_posts %}  {{ post.title }}      {{ post.content }}        {{ post.date | date: &quot;%d. %m. %Y&quot; }}  {% endfor %}{% if tempolabs_posts.size == 0 %}Zatím zde nejsou žádné články. Sledujte novinky!{% endif %} "
+      "content"  : "# ⚡ Tempolabs**Rychlý AI nástroj pro prototypování a vývoj aplikací**🔗 [Navštívit Tempolabs →](https://www.tempolabs.ai)Tempolabs se zaměřuje na extrémně rychlý vývoj aplikací pomocí AI. Platforma umožňuje převést nápad na funkční prototyp během minut, podporuje deployment do cloudu a automatizuje mnoho vývojových procesů.## Nejnovější funkce a články{% assign tempolabs_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/tempolabs/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in tempolabs_posts %}      {{ post.date | date: &quot;%d. %m. %Y&quot; }} - {{ post.title }}      {{ post.content }}  {% endfor %}{% if tempolabs_posts.size == 0 %}Zatím zde nejsou žádné články. Sledujte novinky!{% endif %} "
     }
     
   
@@ -26249,7 +26267,7 @@
       "title"    : "Vibe Coding",
       "url"      : "//vibecoding/",
       "category" : "stránka",
-      "content"  : "# Vibe Coding - AI nástroje pro programováníPřehled nejmodernějších AI nástrojů a služeb pro vibe coding a programování s pomocí umělé inteligence.## 🛠️ Služby a nástroje 🔴 Databutton AI-powered platforma pro vytváření aplikací a analytických nástrojů bez kódování 🟣 Claude Code Pokročilý AI asistent pro programování a analýzu kódu od Anthropic 🟢 OpenAI Codex Revolučný AI model pro generování a porozumění kódu od OpenAI 💖 Lovable.dev AI nástroj pro rychlý vývoj moderních webových aplikací 🌊 Windsurf Inteligentní IDE s pokročilými AI funkcemi pro vývoj ⚡ Tempolabs Rychlý AI nástroj pro prototypování a vývoj aplikací ## 📰 Nejnovější články{% assign vibecoding_posts..."
+      "content"  : "# Vibe Coding - AI nástroje pro programováníPřehled nejmodernějších AI nástrojů a služeb pro vibe coding a programování s pomocí umělé inteligence.## 🛠️ Služby a nástroje 🔴 Databutton AI-powered platforma pro vytváření aplikací a analytických nástrojů bez kódování 🟣 Claude Code Pokročilý AI asistent pro programování a analýzu kódu od Anthropic 🟢 OpenAI Codex Revolučný AI model pro generování a porozumění kódu od OpenAI 🖱️ Cursor AI-first editor s pokročilými funkcemi pro rychlý vývoj a refactoring kódu 💖 Lovable.dev AI nástroj pro rychlý vývoj moderních webových aplikací 🌊 Windsurf Inteligentní IDE s pokročilými AI funkcemi pro vývoj ⚡ Tempolabs Rychlý..."
     }
     
   
@@ -27258,10 +27276,31 @@
       }
       
       ,{
+        "title"    : "Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem",
+        "url"      : "//vibecoding/cursor-cmd-k-improvements/",
+        "category" : "vibecoding",
+        "content"  : "Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.Co je nového v Cmd+K?Multi-modal Input Text + Code - kombinujte natural language s code snippets Image support - uploadujte screenshots UI pro implementaci File attachments - přetáhněte soubory přímo do chatu Voice input - mluvte místo psaní (beta funkce)Enhanced Context Awareness// Když máte kurzor v této funkci a stisknete Cmd+Kfunction processPayment(amount, currency) { // AI automaticky rozumí: // - Toto je payment handling // - Souvisí s e-commerce // - Může potřebovat validaci a error handling // - Pravděpodobně..."
+      }
+      
+      ,{
         "title"    : "Claude Code vylepšuje debugging - nové možnosti",
         "url"      : "//vibecoding/claude-debugging/",
         "category" : "vibecoding",
         "content"  : "Claude Code představil nové funkce pro ladění kódu, které výrazně zlepšují vývojářský zážitek. Nové nástroje umožňují rychlejší identifikaci a opravu chyb.Nové funkce pro debugging:Automatická detekce chyb Statická analýza - Claude nyní automaticky skenuje kód a identifikuje potenciální problémy Kontextová doporučení - navrhuje konkrétní opravy založené na kontextu kódu Performance analýza - upozorňuje na části kódu, které mohou způsobovat problémy s výkonemVylepšené error handling Inteligentní stack trace - Claude automaticky interpretuje error zprávu a navrhuje řešení Exception patterns - rozpoznává běžné vzory chyb a poskytuje osvědčené postupy jejich řešeníKrokování kódu Virtuální debugger - umožňuje simulovat běh kódu krok za krokem Proměnné..."
+      }
+      
+      ,{
+        "title"    : "Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu",
+        "url"      : "//vibecoding/cursor-codebase-indexing/",
+        "category" : "vibecoding",
+        "content"  : "Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.Co je Codebase Indexing?Codebase Indexing je pokročilý systém, který: Analyzuje celý projekt - mapuje všechny soubory, závislosti a vztahy Vytváří semantic embeddings - porozumí významu kódu, nejen syntaxi Cachuje znalosti - rychlejší responses díky pre-processed informacím Real-time updates - automaticky aktualizuje index při změnáchNové funkce v indexování:Intelligent Parsing Multi-language support - jednotný přístup pro všechny jazyky Framework detection - automaticky rozpozná React, Vue, Angular atd. Architecture mapping - identifikuje design patterns a struktury Dependency graph - mapuje všechny závislosti a..."
+      }
+      
+      ,{
+        "title"    : "Cursor představuje Composer - AI agent pro komplexní změny kódu",
+        "url"      : "//vibecoding/cursor-composer-update/",
+        "category" : "vibecoding",
+        "content"  : "Cursor vydal revolucionní funkci Composer, která představuje nový typ AI agenta schopného provádět komplexní změny napříč celým projektem pomocí přirozeného jazyka.Co je Composer?Composer je AI agent integrovaný přímo do Cursor editoru, který dokáže: Multi-file editing - editovat desítky souborů současně Architecture changes - přestrukturovat celé aplikace Feature implementation - implementovat komplexní funkcionality Code migration - migrovat mezi frameworky a technologiemiKlíčové funkce:Intelligent Planning&quot;Přidej autentifikaci s OAuth2 do React aplikace&quot;Composer automaticky: Analyzuje současnou strukturu projektu Navrhne plan implementace Identifikuje všechny soubory k úpravě Vytvoří step-by-step roadmapuMulti-File Operations Simultaneous editing - až 50+ souborů najednou Dependency tracking - automaticky aktualizuje závislosti Import management..."
       }
       
       ,{
