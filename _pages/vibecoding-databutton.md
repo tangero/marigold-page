@@ -18,7 +18,7 @@ Pro mne je zajímavá jak dobře zvládnutým plánovám, tak tím, že jde o pr
   <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
     📋 Detailní informace o Databutton
   </button>
-  <div class="vibecoding-content">
+  <div class="vibecoding-content" markdown="1">
 
 ### Klíčové vlastnosti:
 - **No-code přístup** - vytváření aplikací bez programování

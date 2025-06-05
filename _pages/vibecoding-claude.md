@@ -18,7 +18,7 @@ Na rozdíl od jiných AI programovacích nástrojů klade důraz na bezpečnost,
   <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
     📋 Detailní informace o Claude Code
   </button>
-  <div class="vibecoding-content">
+  <div class="vibecoding-content" markdown="1">
 
 ### Klíčové vlastnosti:
 - **Kontextové porozumění** - analyzuje celé projekty najednou

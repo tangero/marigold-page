@@ -18,7 +18,7 @@ Na rozdíl od VS Code s pluginy má AI funkcionalitu zabudovanou přímo v jádr
   <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
     📋 Detailní informace o Cursor
   </button>
-  <div class="vibecoding-content">
+  <div class="vibecoding-content" markdown="1">
 
 ## 📋 Základní informace
 

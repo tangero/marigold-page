@@ -18,7 +18,7 @@ Na rozdíl od tradičních editorů s AI pluginy je AI integrovaná přímo do j
   <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
     📋 Detailní informace o Windsurf
   </button>
-  <div class="vibecoding-content">
+  <div class="vibecoding-content" markdown="1">
 
 ## 📋 Základní informace
 

@@ -18,7 +18,7 @@ Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje p
   <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
     📋 Detailní informace o Lovable.dev
   </button>
-  <div class="vibecoding-content">
+  <div class="vibecoding-content" markdown="1">
 
 ### Klíčové vlastnosti:
 - **Full-stack generování** - kompletní aplikace z popisu

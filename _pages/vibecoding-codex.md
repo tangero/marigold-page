@@ -18,7 +18,7 @@ Model vyniká v překládání přirozeného jazyka do kódu, automatickém dopl
   <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
     📋 Detailní informace o OpenAI Codex
   </button>
-  <div class="vibecoding-content">
+  <div class="vibecoding-content" markdown="1">
 
 ### Klíčové vlastnosti:
 - **Multi-language support** - přes 20 programovacích jazyků
