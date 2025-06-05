@@ -2,7 +2,7 @@
 layout: post
 title: "Windsurf přidává pokročilého AI asistenta přímo do editoru"
 date: 2025-01-15
-thumbnail: "https://www.marigold.cz/assets/windsurf-assistant.jpg"
+
 hide: true
 ---
 

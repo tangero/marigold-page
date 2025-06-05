@@ -2,7 +2,7 @@
 layout: post
 title: "Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem"
 date: 2025-01-16
-thumbnail: "https://www.marigold.cz/assets/cursor-cmd-k.jpg"
+
 hide: true
 ---
 

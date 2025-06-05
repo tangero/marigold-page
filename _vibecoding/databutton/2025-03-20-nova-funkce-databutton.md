@@ -3,7 +3,7 @@ layout: post
 title: "Kanban Board Integration - Integrovaný Kanban board pro správu úkolů"
 sw: databutton
 date: 2025-03-20
-thumbnail: "https://www.marigold.cz/assets/databutton-update.jpg"
+
 hide: true
 ---
 

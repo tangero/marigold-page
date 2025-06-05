@@ -2,7 +2,6 @@
 layout: post
 title: "Cursor představuje Composer - AI agent pro komplexní změny kódu"
 date: 2025-01-22
-thumbnail: "https://www.marigold.cz/assets/cursor-composer.jpg"
 hide: true
 ---
 

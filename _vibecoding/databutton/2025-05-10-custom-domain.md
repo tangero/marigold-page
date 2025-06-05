@@ -3,7 +3,7 @@ layout: post
 title: " Custom Domain Deployment Enhancements - Vylepšené nasazení na vlastní domény"
 sw: databutton
 date: 2025-05-10
-thumbnail: "https://www.marigold.cz/assets/databutton-update.jpg"
+
 hide: true
 ---
 

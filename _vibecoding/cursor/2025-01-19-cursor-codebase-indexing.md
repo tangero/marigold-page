@@ -2,7 +2,7 @@
 layout: post
 title: "Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu"
 date: 2025-01-19
-thumbnail: "https://www.marigold.cz/assets/cursor-indexing.jpg"
+
 hide: true
 ---
 

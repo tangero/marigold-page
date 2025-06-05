@@ -2,7 +2,6 @@
 layout: post
 title: "Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty"
 date: 2025-01-10
-thumbnail: "https://www.marigold.cz/assets/tempolabs-deploy.jpg"
 hide: true
 ---
 

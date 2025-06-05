@@ -2,7 +2,6 @@
 layout: post
 title: "Claude Code vylepšuje debugging - nové možnosti"
 date: 2025-01-18
-thumbnail: "https://www.marigold.cz/assets/claude-debugging.jpg"
 hide: true
 ---
 
