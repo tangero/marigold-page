@@ -14,8 +14,11 @@ OpenAI Codex je AI model specializovaný na programování, který stojí za Git
 
 Model vyniká v překládání přirozeného jazyka do kódu, automatickém doplňování, refactoringu a vysvětlování složitých algoritmů. Je základem mnoha moderních AI programovacích nástrojů.
 
-<details>
-<summary><strong>📋 Detailní informace o OpenAI Codex</strong></summary>
+<div class="vibecoding-details">
+  <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
+    📋 Detailní informace o OpenAI Codex
+  </button>
+  <div class="vibecoding-content">
 
 ### Klíčové vlastnosti:
 - **Multi-language support** - přes 20 programovacích jazyků
@@ -40,7 +43,8 @@ Model vyniká v překládání přirozeného jazyka do kódu, automatickém dopl
 - **Nahrazeno GPT-4** - nové modely nabízejí lepší výkon
 - **Legacy podpora** - stále funguje v existujících aplikacích
 
-</details>
+  </div>
+</div>
 
 ---
 
@@ -48,10 +52,27 @@ Model vyniká v překládání přirozeného jazyka do kódu, automatickém dopl
 
 {% assign folder_posts = site.vibecoding | where_exp: "post", "post.path contains '/codex/'" %}
 {% assign main_posts = site.posts | where: "sw", "codex" %}
-{% assign all_posts = folder_posts | concat: main_posts | sort: "date" | reverse %}
 
-{% for post in all_posts %}
-<article class="vibecoding-article">
+{% for post in main_posts %}
+<article class="vibecoding-article excerpt-article">
+  {% if post.thumbnail %}
+    <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="article-thumbnail">
+  {% endif %}
+  <h3>{{ post.date | date: "%d. %m. %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <div class="article-excerpt">
+    {% if post.excerpt %}
+      {{ post.excerpt | strip_html | truncate: 200 }}
+    {% else %}
+      {{ post.content | strip_html | truncate: 200 }}
+    {% endif %}
+  </div>
+  <a href="{{ post.url }}" class="article-read-more">Číst článek →</a>
+  <div class="article-separator"></div>
+</article>
+{% endfor %}
+
+{% for post in folder_posts %}
+<article class="vibecoding-article full-article">
   <h3>{{ post.date | date: "%d. %m. %Y" }} - {{ post.title }}</h3>
   <div class="article-content">
     {{ post.content }}
@@ -59,6 +80,6 @@ Model vyniká v překládání přirozeného jazyka do kódu, automatickém dopl
 </article>
 {% endfor %}
 
-{% if all_posts.size == 0 %}
+{% if main_posts.size == 0 and folder_posts.size == 0 %}
 <p><em>Zatím zde nejsou žádné články. Sledujte novinky!</em></p>
 {% endif %} 

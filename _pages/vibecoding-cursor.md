@@ -14,8 +14,11 @@ Cursor je moderní code editor postavený na VS Code s nativní AI integrací. E
 
 Na rozdíl od VS Code s pluginy má AI funkcionalitu zabudovanou přímo v jádru editoru. Používá vlastní AI modely optimalizované pro programování, ale podporuje i externí modely jako GPT-4, Claude a další.
 
-<details>
-<summary><strong>📋 Detailní informace o Cursor</strong></summary>
+<div class="vibecoding-details">
+  <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
+    📋 Detailní informace o Cursor
+  </button>
+  <div class="vibecoding-content">
 
 ## 📋 Základní informace
 
@@ -163,7 +166,8 @@ Cursor tým plánuje:
 - **Advanced debugging** - AI-powered debugging tools
 - **Visual programming** - hybrid text/visual programování
 
-</details>
+  </div>
+</div>
 
 ---
 
@@ -171,10 +175,27 @@ Cursor tým plánuje:
 
 {% assign folder_posts = site.vibecoding | where_exp: "post", "post.path contains '/cursor/'" %}
 {% assign main_posts = site.posts | where: "sw", "cursor" %}
-{% assign all_posts = folder_posts | concat: main_posts | sort: "date" | reverse %}
 
-{% for post in all_posts %}
-<article class="vibecoding-article">
+{% for post in main_posts %}
+<article class="vibecoding-article excerpt-article">
+  {% if post.thumbnail %}
+    <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="article-thumbnail">
+  {% endif %}
+  <h3>{{ post.date | date: "%d. %m. %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <div class="article-excerpt">
+    {% if post.excerpt %}
+      {{ post.excerpt | strip_html | truncate: 200 }}
+    {% else %}
+      {{ post.content | strip_html | truncate: 200 }}
+    {% endif %}
+  </div>
+  <a href="{{ post.url }}" class="article-read-more">Číst článek →</a>
+  <div class="article-separator"></div>
+</article>
+{% endfor %}
+
+{% for post in folder_posts %}
+<article class="vibecoding-article full-article">
   <h3>{{ post.date | date: "%d. %m. %Y" }} - {{ post.title }}</h3>
   <div class="article-content">
     {{ post.content }}
@@ -182,6 +203,21 @@ Cursor tým plánuje:
 </article>
 {% endfor %}
 
-{% if all_posts.size == 0 %}
+{% if main_posts.size == 0 and folder_posts.size == 0 %}
 <p><em>Zatím zde nejsou žádné články. Sledujte novinky!</em></p>
-{% endif %} 
+{% endif %}
+
+<script>
+function toggleDetails(button) {
+  const content = button.nextElementSibling;
+  const isCollapsed = button.classList.contains('collapsed');
+  
+  if (isCollapsed) {
+    button.classList.remove('collapsed');
+    content.classList.add('show');
+  } else {
+    button.classList.add('collapsed');
+    content.classList.remove('show');
+  }
+}
+</script> 

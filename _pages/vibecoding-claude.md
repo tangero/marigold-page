@@ -14,8 +14,11 @@ Claude Code je specializovaná verze AI asistenta Claude zaměřená na programo
 
 Na rozdíl od jiných AI programovacích nástrojů klade důraz na bezpečnost, etiku a transparentní komunikaci. Je ideální pro komplexní programovací úkoly, kde je důležité porozumění kontextu a kvalitní vysvětlení řešení.
 
-<details>
-<summary><strong>📋 Detailní informace o Claude Code</strong></summary>
+<div class="vibecoding-details">
+  <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
+    📋 Detailní informace o Claude Code
+  </button>
+  <div class="vibecoding-content">
 
 ### Klíčové vlastnosti:
 - **Kontextové porozumění** - analyzuje celé projekty najednou
@@ -37,7 +40,8 @@ Na rozdíl od jiných AI programovacích nástrojů klade důraz na bezpečnost,
 - **Studenti** - učení best practices
 - **Týmy** - standardizace kódovacích praktik
 
-</details>
+  </div>
+</div>
 
 ---
 
@@ -45,10 +49,27 @@ Na rozdíl od jiných AI programovacích nástrojů klade důraz na bezpečnost,
 
 {% assign folder_posts = site.vibecoding | where_exp: "post", "post.path contains '/claude/'" %}
 {% assign main_posts = site.posts | where: "sw", "claude" %}
-{% assign all_posts = folder_posts | concat: main_posts | sort: "date" | reverse %}
 
-{% for post in all_posts %}
-<article class="vibecoding-article">
+{% for post in main_posts %}
+<article class="vibecoding-article excerpt-article">
+  {% if post.thumbnail %}
+    <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="article-thumbnail">
+  {% endif %}
+  <h3>{{ post.date | date: "%d. %m. %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <div class="article-excerpt">
+    {% if post.excerpt %}
+      {{ post.excerpt | strip_html | truncate: 200 }}
+    {% else %}
+      {{ post.content | strip_html | truncate: 200 }}
+    {% endif %}
+  </div>
+  <a href="{{ post.url }}" class="article-read-more">Číst článek →</a>
+  <div class="article-separator"></div>
+</article>
+{% endfor %}
+
+{% for post in folder_posts %}
+<article class="vibecoding-article full-article">
   <h3>{{ post.date | date: "%d. %m. %Y" }} - {{ post.title }}</h3>
   <div class="article-content">
     {{ post.content }}
@@ -56,6 +77,6 @@ Na rozdíl od jiných AI programovacích nástrojů klade důraz na bezpečnost,
 </article>
 {% endfor %}
 
-{% if all_posts.size == 0 %}
+{% if main_posts.size == 0 and folder_posts.size == 0 %}
 <p><em>Zatím zde nejsou žádné články. Sledujte novinky!</em></p>
 {% endif %} 

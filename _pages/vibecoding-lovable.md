@@ -14,8 +14,11 @@ Lovable.dev umožňuje vytvářet kompletní webové aplikace pomocí přirozen�
 
 Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje pokročilé AI nástroje pro automatizaci celého vývojového procesu od návrhu po deployment. Ideální pro rychlé prototypování a MVP vývoj.
 
-<details>
-<summary><strong>📋 Detailní informace o Lovable.dev</strong></summary>
+<div class="vibecoding-details">
+  <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
+    📋 Detailní informace o Lovable.dev
+  </button>
+  <div class="vibecoding-content">
 
 ### Klíčové vlastnosti:
 - **Full-stack generování** - kompletní aplikace z popisu
@@ -43,7 +46,8 @@ Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje p
 - **Team** - $79/měsíc, kolaborativní funkce
 - **Enterprise** - custom pricing, pokročilé funkce
 
-</details>
+  </div>
+</div>
 
 ---
 
@@ -51,10 +55,27 @@ Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje p
 
 {% assign folder_posts = site.vibecoding | where_exp: "post", "post.path contains '/lovable/'" %}
 {% assign main_posts = site.posts | where: "sw", "lovable" %}
-{% assign all_posts = folder_posts | concat: main_posts | sort: "date" | reverse %}
 
-{% for post in all_posts %}
-<article class="vibecoding-article">
+{% for post in main_posts %}
+<article class="vibecoding-article excerpt-article">
+  {% if post.thumbnail %}
+    <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="article-thumbnail">
+  {% endif %}
+  <h3>{{ post.date | date: "%d. %m. %Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></h3>
+  <div class="article-excerpt">
+    {% if post.excerpt %}
+      {{ post.excerpt | strip_html | truncate: 200 }}
+    {% else %}
+      {{ post.content | strip_html | truncate: 200 }}
+    {% endif %}
+  </div>
+  <a href="{{ post.url }}" class="article-read-more">Číst článek →</a>
+  <div class="article-separator"></div>
+</article>
+{% endfor %}
+
+{% for post in folder_posts %}
+<article class="vibecoding-article full-article">
   <h3>{{ post.date | date: "%d. %m. %Y" }} - {{ post.title }}</h3>
   <div class="article-content">
     {{ post.content }}
@@ -62,6 +83,6 @@ Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje p
 </article>
 {% endfor %}
 
-{% if all_posts.size == 0 %}
+{% if main_posts.size == 0 and folder_posts.size == 0 %}
 <p><em>Zatím zde nejsou žádné články. Sledujte novinky!</em></p>
 {% endif %} 
