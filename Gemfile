@@ -2,6 +2,9 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.3"
 gem "webrick", "~> 1.8"
+gem "csv"
+gem "logger"
+gem "base64"
 
 # Základní Jekyll pluginy
 group :jekyll_plugins do
