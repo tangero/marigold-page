@@ -11,6 +11,11 @@ title: 🐑 Sheep Marketplace - jak Tomáš Jiříkovský a ministr spravedlnost
 
 S poslední kauzou kolem dnes již bývalého ministra spravedlnosti Pavla Blažka znovu vyšlo na světlo světa jméno jednoho z prvních usvědčených krypto-kriminálníků Tomáše Jiřikovského. Pojďme se podívat, jak ke svým bitcoinům Jiřikovský přišel.
 
+> Pokud se chcete včas dozvědět další důležité informace, **přihlašte si zdarma můj newsletter:**
+
+<iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+
 ### Sheep Marketplace
 
 Pro začátek Jiřikovského podnikání v kryptoměnách se podívejme do roku 2011, kdy bylo založeno "internetové tržiště" Silk Road provozované na "darkwebu", tedy prostřednictvím anonymní sítě TOR. Na Silk Road se dalo nabízet a kupovat všechno, ale s ohledem na anonymitu obou stran a také s ohledem na anonymitu plateb přes kryptoměny (tehdy bitcoiny) se zde prodávaly především věci, které nechcete poptávat po bazarech na nároží. Tedy zbraně, drogy, kradená data a často i nelegální práce všeho druhu. Tržiště Silk Road ukončilo činnost v roce 2013, kdy FBI zatkla zakladatele [Rosse Ulbrichta](https://cs.wikipedia.org/wiki/Ross_Ulbricht), když FBI dokázala Ulbrichta ztotožnit. Mimochodem, Ross Ulbricht odsouzený na doživotí byl v lednu 2025 prezidentem Trumpem omilostněn a propuštěn.
