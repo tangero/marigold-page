@@ -226,31 +226,31 @@ Jeho matka Nina Gore Auchincloss byla poloviční sestrou slavného spisovatele 
           
             
               <tr>
-                <td>Joan Miró</td>
-                <td><a href="/obrazy/joan-miro-mont-roig-del-camp/">Mont-roig del Camp</a></td>
+                <td>Josef Istler</td>
+                <td><a href="/obrazy/josef-istler-nadro/">Ňadro / Figura</a></td>
                 <td>
                   
-                    <a href="/obrazy/joan-miro-mont-roig-del-camp/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/joan-miro-Mont-roig-del-Camp.jpeg" alt="Joan Miró - Mont-roig del Camp" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/josef-istler-nadro/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Josef-Istler-nadro-figura-1953.jpg" alt="Josef Istler - Nadro / Figura (1953)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>David Hockney</td>
-                <td><a href="/obrazy/david-hockney-portrait-of-an-artist/">Portrét umělce (Bazén se dvěma postavami)</a></td>
+                <td>Vasilij Kandinský</td>
+                <td><a href="/obrazy/vasilij-kandinsky-milieu-jaune/">Milieu jaune</a></td>
                 <td>
                   
-                    <a href="/obrazy/david-hockney-portrait-of-an-artist/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/david-hockney-Portrait-of-an-Artist.jpg" alt="David Hockney - Portrét umělce (Bazén se dvěma postavami) (1972)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/vasilij-kandinsky-milieu-jaune/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/vasilij-kandinsky-milieu-jaune.jpg" alt="Vasilij Kandinský - Milieu jaune " style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Jaroslava Bičovská</td>
-                <td><a href="/obrazy/jaroslava-bicovska-nebe-nad-brandysem/">Nebe nad Brandýsem</a></td>
+                <td>Charlotte Keates</td>
+                <td><a href="/obrazy/charlotte-keates-dum-ukryva-sneni/">Dům ukrývá snění</a></td>
                 <td>
                   
-                    <a href="/obrazy/jaroslava-bicovska-nebe-nad-brandysem/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/jaroslava-bicovska-nebe-nad-brandysem.jpg" alt="Jaroslava Bičovská - Nebe nad Brandýsem (2017)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/charlotte-keates-dum-ukryva-sneni/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Charlotte_Keates_The_house_shelters_daydreaming.jpg" alt="Charlotte Keates - Dům ukrývá snění (2023)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -291,12 +291,10 @@ Jeho matka Nina Gore Auchincloss byla poloviční sestrou slavného spisovatele 
           
             <tr>
               <td>
-                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
+                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
                 <p class="excerpt">
                   
-                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
-
-Proč skutečně Goldee skončilo, netuší...
+                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
                   
                 </p>
               </td>
@@ -304,10 +302,10 @@ Proč skutečně Goldee skončilo, netuší...
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
                   
                 </p>
               </td>
@@ -450,6 +448,21 @@ function showToast() {
 </noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
 <!-- 100% privacy-first analytics -->
 <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
- 
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
   </body>
 </html>

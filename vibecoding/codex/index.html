@@ -104,8 +104,11 @@
 
 <p>Model vyniká v překládání přirozeného jazyka do kódu, automatickém doplňování, refactoringu a vysvětlování složitých algoritmů. Je základem mnoha moderních AI programovacích nástrojů.</p>
 
-<details>
-<summary><strong>📋 Detailní informace o OpenAI Codex</strong></summary>
+<div class="vibecoding-details">
+  <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
+    📋 Detailní informace o OpenAI Codex
+  </button>
+  <div class="vibecoding-content">
 
 ### Klíčové vlastnosti:
 - **Multi-language support** - přes 20 programovacích jazyků
@@ -130,7 +133,8 @@
 - **Nahrazeno GPT-4** - nové modely nabízejí lepší výkon
 - **Legacy podpora** - stále funguje v existujících aplikacích
 
-</details>
+  </div>
+</div>
 
 <hr />
 
@@ -174,6 +178,21 @@
 </noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
 <!-- 100% privacy-first analytics -->
 <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
- 
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
   </body>
 </html>

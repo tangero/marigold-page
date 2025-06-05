@@ -104,8 +104,11 @@
 
 <p>Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje pokročilé AI nástroje pro automatizaci celého vývojového procesu od návrhu po deployment. Ideální pro rychlé prototypování a MVP vývoj.</p>
 
-<details>
-<summary><strong>📋 Detailní informace o Lovable.dev</strong></summary>
+<div class="vibecoding-details">
+  <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
+    📋 Detailní informace o Lovable.dev
+  </button>
+  <div class="vibecoding-content">
 
 ### Klíčové vlastnosti:
 - **Full-stack generování** - kompletní aplikace z popisu
@@ -133,7 +136,8 @@
 - **Team** - $79/měsíc, kolaborativní funkce
 - **Enterprise** - custom pricing, pokročilé funkce
 
-</details>
+  </div>
+</div>
 
 <hr />
 
@@ -177,6 +181,21 @@
 </noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
 <!-- 100% privacy-first analytics -->
 <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
- 
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
   </body>
 </html>

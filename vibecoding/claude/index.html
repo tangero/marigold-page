@@ -104,8 +104,11 @@
 
 <p>Na rozdíl od jiných AI programovacích nástrojů klade důraz na bezpečnost, etiku a transparentní komunikaci. Je ideální pro komplexní programovací úkoly, kde je důležité porozumění kontextu a kvalitní vysvětlení řešení.</p>
 
-<details>
-<summary><strong>📋 Detailní informace o Claude Code</strong></summary>
+<div class="vibecoding-details">
+  <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
+    📋 Detailní informace o Claude Code
+  </button>
+  <div class="vibecoding-content">
 
 ### Klíčové vlastnosti:
 - **Kontextové porozumění** - analyzuje celé projekty najednou
@@ -127,7 +130,8 @@
 - **Studenti** - učení best practices
 - **Týmy** - standardizace kódovacích praktik
 
-</details>
+  </div>
+</div>
 
 <hr />
 
@@ -171,6 +175,21 @@
 </noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
 <!-- 100% privacy-first analytics -->
 <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
- 
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
   </body>
 </html>

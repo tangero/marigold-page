@@ -104,8 +104,11 @@
 
 <p>Na rozdíl od VS Code s pluginy má AI funkcionalitu zabudovanou přímo v jádru editoru. Používá vlastní AI modely optimalizované pro programování, ale podporuje i externí modely jako GPT-4, Claude a další.</p>
 
-<details>
-<summary><strong>📋 Detailní informace o Cursor</strong></summary>
+<div class="vibecoding-details">
+  <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
+    📋 Detailní informace o Cursor
+  </button>
+  <div class="vibecoding-content">
 
 ## 📋 Základní informace
 
@@ -253,456 +256,26 @@ Cursor tým plánuje:
 - **Advanced debugging** - AI-powered debugging tools
 - **Visual programming** - hybrid text/visual programování
 
-</details>
+  </div>
+</div>
 
 <hr />
 
 <h2 id="-články-a-novinky">📰 Články a novinky</h2>
 
-<article class="vibecoding-article">
-  <h3>05. 06. 2025 - Cursor 1.0: Nové funkce pro AI programování / vibecoding</h3>
-  <div class="article-content">
-    <p>Společnost Anysphere vydala verzi 1.0 svého AI editoru kódu Cursor, která přináší automatickou kontrolu kódu, rozšířený přístup k Background Agent a zjednodušenou integraci MCP protokolu. Vydání přichází více než rok po spuštění v roce 2023 a obsahuje sedm hlavních funkcí.</p>
-
-<h2 id="automatická-kontrola-kódu-s-bugbot">Automatická kontrola kódu s BugBot</h2>
-
-<p>BugBot analyzuje změny v pull requestech pomocí AI modelů dostupných v Cursor. Nástroj identifikuje potenciální problémy v kódu před jeho začleněním do hlavní větve.</p>
-
-<p>Systém nabízí tři režimy práce:</p>
-<ul>
-  <li><strong>Automatické komentáře</strong>: Při aktualizaci pull requestu BugBot znovu prověří kód a přidá komentáře k identifikovaným problémům</li>
-  <li><strong>Manuální spuštění</strong>: Aktivace příkazem <code class="language-plaintext highlighter-rouge">bugbot run</code> v komentáři</li>
-  <li><strong>Přímá integrace</strong>: Tlačítko “Fix in Cursor” otevře editor s předvyplněným promptem pro opravu</li>
-</ul>
-
-<p>Nastavení vyžaduje administrátorská oprávnění pro Cursor i GitHub organizaci. Konfigurace probíhá na <a href="https://cursor.com/settings">cursor.com/settings</a> v sekci Integrations. Uživatelé mohou nastavit čtyři různé režimy aktivace: automatické spouštění, pouze při zmínce, jednorázové spuštění na pull request, nebo skrytí komentářů když nejsou nalezeny problémy.</p>
-
-<p>BugBot nabízí sedmidenní zkušební období s možností nastavení měsíčního limitu nákladů.</p>
-
-<h2 id="background-agent-pro-všechny-uživatele">Background Agent pro všechny uživatele</h2>
-
-<p>Funkce Background Agent, dříve omezená na early access, je nyní dostupná všem uživatelům. Umožňuje spouštění AI agentů v cloudu, kteří provádějí změny v kódu na pozadí.</p>
-
-<p>Aktivace probíhá kliknutím na ikonu cloudu v chatu nebo zkratkou Cmd/Ctrl+E. Funkce není kompatibilní s režimem soukromí (Privacy mode), který je nutné před použitím deaktivovat.</p>
-
-<p>Background Agent přináší několik bezpečnostních aspektů, které je třeba zvážit:</p>
-<ul>
-  <li>Vyžaduje udělení read-write oprávnění GitHub aplikaci pro práci s repozitáři</li>
-  <li>Kód se spouští v AWS infrastruktuře Anysphere</li>
-  <li>Automaticky spouští všechny příkazy, což může vystavit systém prompt injection útokům</li>
-  <li>Při vypnutém privacy módu se ukládají prompty a vývojová prostředí pro zlepšování produktu</li>
-  <li>Citlivé údaje se ukládají šifrovaně pomocí KMS do databáze</li>
-</ul>
-
-<p>Anysphere upozorňuje, že infrastruktura zatím nebyla auditována třetími stranami. Pro projekty s citlivými daty doporučuje zvážit použití této funkce.</p>
-
-<h2 id="podpora-jupyter-notebooků">Podpora Jupyter notebooků</h2>
-
-<p>Cursor může nyní provádět změny přímo v Jupyter noteboocích. Agent dokáže vytvářet a upravovat více buněk současně. Funkce je omezena na modely řady Sonnet.</p>
-
-<p>Jupyter notebooky jsou interaktivní vývojové prostředí používané především v datové vědě a machine learningu pro kombinování kódu, vizualizací a dokumentace.</p>
-
-<h2 id="memories---projektová-paměť">Memories - projektová paměť</h2>
-
-<p>Funkce Memories umožňuje Cursor zapamatovat si informace z konverzací pro budoucí použití. Paměť je uložena na úrovni jednotlivých projektů a spravuje se v nastavení editoru.</p>
-
-<p>Systém funguje pomocí příkazu “@Memory” (například “Please remember ___ @Memory”), který vytvoří projektové pravidlo a uloží data do adresáře .cursor/rules/. Memories jsou ve fázi beta testování a aktivují se v Settings → Rules.</p>
-
-<h2 id="mcp-protokol-s-jedním-kliknutím">MCP protokol s jedním kliknutím</h2>
-
-<p>Model Context Protocol (MCP) představuje standardizovaný způsob připojení AI agentů k externím zdrojům dat. MCP funguje jako vrstva mezi jazykovými modely a API různých služeb, což eliminuje nutnost psát vlastní kód pro každou integraci.</p>
-
-<p>Cursor 1.0 zjednodušuje instalaci MCP serverů. Místo manuálního nastavování přes “Add Custom MCP” nyní uživatelé navštíví stránku MCP tools, vyberou požadovaný nástroj a kliknou na “Add app to Cursor”.</p>
-
-<p>Aktuálně jsou podporovány servery pro GitHub, Stripe a Figma. Přibyla také OAuth podpora pro autentizaci serverů, které ji podporují.</p>
-
-<h2 id="bohatší-odpovědi-v-chatu">Bohatší odpovědi v chatu</h2>
-
-<p>Cursor nyní zobrazuje vizualizace přímo v konverzacích. Editor umí generovat a zobrazovat Mermaid diagramy a Markdown tabulky na jednom místě.</p>
-
-<p>Mermaid je textový jazyk pro tvorbu diagramů a schémat, který umožňuje rychlé vytváření flowchartů a dalších vizualizací pomocí textové syntaxe.</p>
-
-<h2 id="nový-dashboard-a-nastavení">Nový dashboard a nastavení</h2>
-
-<p>Stránky nastavení a dashboardu byly přepracovány. Nový dashboard zobrazuje individuální nebo týmové analytiky využití, umožňuje změnu zobrazovaného jména a poskytuje detailní statistiky podle nástrojů nebo modelů.</p>
-
-<p>Dashboard nabízí nastavení časového rozsahu pro zobrazení trendů využití. V nastavení IDE lze upravit vzhled chatu a kontextového rozhraní.</p>
-
-<h2 id="další-změny">Další změny</h2>
-
-<p>Verze 1.0 obsahuje také menší vylepšení:</p>
-
-<p><strong>Klávesové zkratky</strong>:</p>
-<ul>
-  <li>Cmd/Ctrl+E pro Background Agent</li>
-</ul>
-
-<p><strong>Funkční rozšíření</strong>:</p>
-<ul>
-  <li>@Link a webové vyhledávání parsuje PDF soubory</li>
-  <li>Síťová diagnostika v nastavení</li>
-  <li>Paralelní volání nástrojů pro rychlejší odpovědi</li>
-  <li>Možnost skládání nástrojů v chatu</li>
-</ul>
-
-<p><strong>Správa účtů</strong>:</p>
-<ul>
-  <li>Podnikoví uživatelé mají přístup pouze ke stabilním verzím</li>
-  <li>Týmoví administrátoři mohou zakázat Privacy Mode</li>
-  <li>Admin API pro přístup k metrikám a výdajům</li>
-</ul>
-
-<p><strong>Modely</strong>:</p>
-<ul>
-  <li>Max režim pro Gemini 2.5 Flash</li>
-</ul>
-
-<h2 id="technické-pozadí-a-hodnocení">Technické pozadí a hodnocení</h2>
-
-<p>Cursor využívá různé jazykové modely pro analýzu kódu a generování návrhů. Mateřská společnost Anysphere je oceněna na 10 miliard dolarů. Background Agent běží na AWS infrastruktuře, což umožňuje zpracování bez zatížení lokálního počítače.</p>
-
-<p>Významným přínosem verze 1.0 je automatizace kontroly kódu a rozšíření cloudových funkcí. Zjednodušená integrace MCP protokolu může urychlit adopci externích nástrojů. Nicméně některé funkce, jako Background Agent, vyžadují pečlivé zvážení bezpečnostních rizik, zejména pro organizace s citlivými daty.</p>
-
-<p>Omezení na modely Sonnet u Jupyter notebooků a beta status funkcí jako Memories ukazují, že některé funkce jsou stále ve vývoji. Chybějící audit infrastruktury třetí stranou může být překážkou pro adoption v některých podnikových prostředích.</p>
-
-<p>Uživatelé místy vyjadřují obavy ohledně technických problémů, jako je absence sdílených MCP serverů, což vede k vysoké paměťové náročnosti, a zastaralé verze VSCode používané Cursorem, což způsobuje problémy s rozšířeními. Tyto body naznačují, že i přes pozitivní odezvy existují výzvy, které mohou ovlivnit uživatelský zážitek.</p>
-
-<p>Další feedback zahrnuje srovnání s konkurencí, například s Claude Code, kde někteří uživatelé považují Cursor za levnější ($20/měsíc oproti $200/měsíc u Claude Code), ale vyjádřili nespokojenost s výkonem, například „Podpora Pythonu byla minulý týden katastrofální, odinstaloval jsem to před měsíci kvůli tomu“ (Hacker News). Jiní uživatelé ocenili nové funkce, jako BugBot a rozšíření Background Agentů, ale přáli si vylepšení, například dostupnost Background Agentů i v režimu soukromí.</p>
-
-<p><a href="https://www.cursor.com/en/changelog">Oficiální changelog</a>  poskytuje detailní přehled nových funkcí, včetně automatických kontrol kódu s BugBotem, rozšíření Background Agentů pro všechny uživatele a podpory Jupyter Notebooks, což odpovídá oznámení v X příspěvku a video.</p>
-
-
+<article class="vibecoding-article excerpt-article">
+  
+  <h3>05. 06. 2025 - <a href="/item/cursor_1_0_clanek/">Cursor 1.0: Nové funkce pro AI programování / vibecoding</a></h3>
+  <div class="article-excerpt">
+    
+      Společnost Anysphere vydala verzi 1.0 svého AI editoru kódu Cursor, která přináší automatickou kontrolu kódu, rozšířený přístup k Background Agent a zjednodušenou integraci MCP protokolu. Vydání př...
+    
   </div>
+  <a href="/item/cursor_1_0_clanek/" class="article-read-more">Číst článek →</a>
+  <div class="article-separator"></div>
 </article>
 
-<article class="vibecoding-article">
-  <h3>22. 01. 2025 - Cursor představuje Composer - AI agent pro komplexní změny kódu</h3>
-  <div class="article-content">
-    <p>Cursor vydal revolucionní funkci Composer, která představuje nový typ AI agenta schopného provádět komplexní změny napříč celým projektem pomocí přirozeného jazyka.</p>
-
-<h2 id="co-je-composer">Co je Composer?</h2>
-
-<p>Composer je AI agent integrovaný přímo do Cursor editoru, který dokáže:</p>
-<ul>
-  <li><strong>Multi-file editing</strong> - editovat desítky souborů současně</li>
-  <li><strong>Architecture changes</strong> - přestrukturovat celé aplikace</li>
-  <li><strong>Feature implementation</strong> - implementovat komplexní funkcionality</li>
-  <li><strong>Code migration</strong> - migrovat mezi frameworky a technologiemi</li>
-</ul>
-
-<h2 id="klíčové-funkce">Klíčové funkce:</h2>
-
-<h3 id="intelligent-planning">Intelligent Planning</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Přidej autentifikaci s OAuth2 do React aplikace"
-</code></pre></div></div>
-
-<p>Composer automaticky:</p>
-<ol>
-  <li>Analyzuje současnou strukturu projektu</li>
-  <li>Navrhne plan implementace</li>
-  <li>Identifikuje všechny soubory k úpravě</li>
-  <li>Vytvoří step-by-step roadmapu</li>
-</ol>
-
-<h3 id="multi-file-operations">Multi-File Operations</h3>
-<ul>
-  <li><strong>Simultaneous editing</strong> - až 50+ souborů najednou</li>
-  <li><strong>Dependency tracking</strong> - automaticky aktualizuje závislosti</li>
-  <li><strong>Import management</strong> - spravuje všechny importy a exporty</li>
-  <li><strong>Type consistency</strong> - udržuje type safety napříč projektem</li>
-</ul>
-
-<h3 id="context-awareness">Context Awareness</h3>
-<ul>
-  <li><strong>Project understanding</strong> - rozumí architektuře a design patterns</li>
-  <li><strong>Code style</strong> - respektuje existující coding conventions</li>
-  <li><strong>Framework knowledge</strong> - specializované znalosti populárních frameworků</li>
-  <li><strong>Best practices</strong> - implementuje industry standards</li>
-</ul>
-
-<h2 id="praktické-příklady-použití">Praktické příklady použití:</h2>
-
-<h3 id="1-přidání-nové-feature">1. Přidání nové feature</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Implementuj real-time chat s WebSocket podporou"
-</code></pre></div></div>
-
-<p><strong>Composer automaticky:</strong></p>
-<ul>
-  <li>Vytvoří WebSocket server endpoint</li>
-  <li>Přidá client-side connection management</li>
-  <li>Implementuje UI komponenty pro chat</li>
-  <li>Nastaví state management</li>
-  <li>Přidá error handling a reconnection logic</li>
-</ul>
-
-<h3 id="2-refactoring-architektury">2. Refactoring architektury</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Převeď tuto aplikaci z Context API na Redux Toolkit"
-</code></pre></div></div>
-
-<p><strong>Composer provede:</strong></p>
-<ul>
-  <li>Analýzu současného state managementu</li>
-  <li>Vytvoření Redux store a slices</li>
-  <li>Přepsání všech komponent</li>
-  <li>Aktualizaci testů</li>
-  <li>Odstranění nepotřebných Context providerů</li>
-</ul>
-
-<h3 id="3-framework-migrace">3. Framework migrace</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Migruj z Create React App na Vite"
-</code></pre></div></div>
-
-<p><strong>Automatické kroky:</strong></p>
-<ul>
-  <li>Aktualizace build systému</li>
-  <li>Přepsání konfigurací</li>
-  <li>Úprava package.json</li>
-  <li>Migrace environment variables</li>
-  <li>Update dokumentace</li>
-</ul>
-
-<h2 id="advanced-features">Advanced Features:</h2>
-
-<h3 id="preview-mode">Preview Mode</h3>
-<ul>
-  <li><strong>Change preview</strong> - vidíte všechny změny před aplikací</li>
-  <li><strong>Diff view</strong> - detailní porovnání před/po</li>
-  <li><strong>Selective apply</strong> - vyberte si, které změny chcete použít</li>
-  <li><strong>Rollback option</strong> - jednoduchý návrat k původnímu stavu</li>
-</ul>
-
-<h3 id="smart-conflict-resolution">Smart Conflict Resolution</h3>
-<ul>
-  <li><strong>Merge conflicts</strong> - inteligentní řešení konfliktů</li>
-  <li><strong>Version control</strong> - seamless Git integrace</li>
-  <li><strong>Backup creation</strong> - automatické zálohy před velkými změnami</li>
-  <li><strong>Incremental updates</strong> - postupné aplikování změn</li>
-</ul>
-
-<h3 id="learning--adaptation">Learning &amp; Adaptation</h3>
-<ul>
-  <li><strong>Project patterns</strong> - učí se z vašeho coding stylu</li>
-  <li><strong>Team conventions</strong> - adaptuje se na týmové standardy</li>
-  <li><strong>Feedback loop</strong> - zlepšuje se na základě vašich úprav</li>
-  <li><strong>Custom prompts</strong> - můžete vytvořit vlastní templates</li>
-</ul>
-
-<h2 id="performance--limitations">Performance &amp; Limitations:</h2>
-
-<h3 id="co-zvládá-výborně">Co zvládá výborně:</h3>
-<ul>
-  <li>✅ React/Vue/Angular aplikace</li>
-  <li>✅ Node.js backends</li>
-  <li>✅ TypeScript projekty</li>
-  <li>✅ API integrace</li>
-  <li>✅ Database schema změny</li>
-  <li>✅ UI/UX implementace</li>
-</ul>
-
-<h3 id="současná-omezení">Současná omezení:</h3>
-<ul>
-  <li>⚠️ Velmi velké projekty (1000+ souborů) mohou být pomalé</li>
-  <li>⚠️ Komplexní algorithms vyžadují human review</li>
-  <li>⚠️ Legacy kód může vyžadovat additional context</li>
-  <li>⚠️ Performance kritické části potřebují optimalizaci</li>
-</ul>
-
-<h2 id="dostupnost-a-ceny">Dostupnost a ceny:</h2>
-
-<ul>
-  <li><strong>Pro users</strong>: Included v Pro plánu ($20/měsíc)</li>
-  <li><strong>Usage limits</strong>: 100 Composer requests/měsíc</li>
-  <li><strong>Additional requests</strong>: $0.50 per request</li>
-  <li><strong>Enterprise</strong>: Unlimited usage s custom pricing</li>
-</ul>
-
-<p>Composer představuje významný krok vpřed v AI-asistovaném vývoji a může dramaticky zkrátit čas potřebný pro implementaci komplexních změn.</p>
-
-  </div>
-</article>
-
-<article class="vibecoding-article">
-  <h3>19. 01. 2025 - Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu</h3>
-  <div class="article-content">
-    <p>Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.</p>
-
-<h2 id="co-je-codebase-indexing">Co je Codebase Indexing?</h2>
-
-<p>Codebase Indexing je pokročilý systém, který:</p>
-<ul>
-  <li><strong>Analyzuje celý projekt</strong> - mapuje všechny soubory, závislosti a vztahy</li>
-  <li><strong>Vytváří semantic embeddings</strong> - porozumí významu kódu, nejen syntaxi</li>
-  <li><strong>Cachuje znalosti</strong> - rychlejší responses díky pre-processed informacím</li>
-  <li><strong>Real-time updates</strong> - automaticky aktualizuje index při změnách</li>
-</ul>
-
-<h2 id="nové-funkce-v-indexování">Nové funkce v indexování:</h2>
-
-<h3 id="intelligent-parsing">Intelligent Parsing</h3>
-<ul>
-  <li><strong>Multi-language support</strong> - jednotný přístup pro všechny jazyky</li>
-  <li><strong>Framework detection</strong> - automaticky rozpozná React, Vue, Angular atd.</li>
-  <li><strong>Architecture mapping</strong> - identifikuje design patterns a struktury</li>
-  <li><strong>Dependency graph</strong> - mapuje všechny závislosti a importy</li>
-</ul>
-
-<h3 id="semantic-understanding">Semantic Understanding</h3>
-<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// AI nyní rozumí nejen syntaxi, ale i významu:</span>
-<span class="kd">function</span> <span class="nf">calculateUserMetrics</span><span class="p">(</span><span class="nx">user</span><span class="p">)</span> <span class="p">{</span>
-  <span class="c1">// AI ví, že toto je business logic</span>
-  <span class="c1">// souvisí s user management</span>
-  <span class="c1">// a pravděpodobně ovlivňuje analytics</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<h3 id="advanced-search-capabilities">Advanced Search Capabilities</h3>
-<ul>
-  <li><strong>Semantic search</strong> - “najdi všechny funkce pro user authentication”</li>
-  <li><strong>Intent-based queries</strong> - “kde se handleuje error při platbě?”</li>
-  <li><strong>Cross-file relationships</strong> - “které komponenty používají tuto utility?”</li>
-  <li><strong>Impact analysis</strong> - “co ovlivní změna této funkce?”</li>
-</ul>
-
-<h2 id="performance-vylepšení">Performance vylepšení:</h2>
-
-<h3 id="rychlost-indexování">Rychlost indexování:</h3>
-<ul>
-  <li><strong>50% rychlejší</strong> - optimalizované algoritmy</li>
-  <li><strong>Parallel processing</strong> - využití všech CPU cores</li>
-  <li><strong>Incremental updates</strong> - pouze změněné části</li>
-  <li><strong>Smart caching</strong> - inteligentní cache management</li>
-</ul>
-
-<h3 id="memory-optimalizace">Memory optimalizace:</h3>
-<ul>
-  <li><strong>Reduced RAM usage</strong> - efektivnější data structures</li>
-  <li><strong>Compression</strong> - komprimované indexy</li>
-  <li><strong>Selective loading</strong> - načítá jen potřebné části</li>
-  <li><strong>Garbage collection</strong> - automatické čištění nepotřebných dat</li>
-</ul>
-
-<h2 id="praktické-výhody">Praktické výhody:</h2>
-
-<h3 id="pro-malé-projekty--100-souborů">Pro malé projekty (&lt; 100 souborů):</h3>
-<ul>
-  <li>⚡ <strong>Instant responses</strong> - okamžité AI odpovědi</li>
-  <li>🎯 <strong>Perfect context</strong> - AI rozumí 100% kódu</li>
-  <li>🔍 <strong>Deep insights</strong> - detailní analýza architektury</li>
-</ul>
-
-<h3 id="pro-střední-projekty-100-1000-souborů">Pro střední projekty (100-1000 souborů):</h3>
-<ul>
-  <li>⚡ <strong>Sub-second responses</strong> - odpovědi pod 1 sekunda</li>
-  <li>🎯 <strong>Selective context</strong> - relevantní části pro daný dotaz</li>
-  <li>🔍 <strong>Pattern recognition</strong> - identifikace common patterns</li>
-</ul>
-
-<h3 id="pro-velké-projekty-1000-souborů">Pro velké projekty (1000+ souborů):</h3>
-<ul>
-  <li>⚡ <strong>Fast responses</strong> - odpovědi do 3 sekund</li>
-  <li>🎯 <strong>Smart filtering</strong> - pouze relevantní kód</li>
-  <li>🔍 <strong>Module isolation</strong> - práce s jednotlivými moduly</li>
-</ul>
-
-<h2 id="nové-ai-capabilities-díky-indexingu">Nové AI capabilities díky indexingu:</h2>
-
-<h3 id="code-navigation">Code Navigation</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Vysvětli mi flow dat v této e-commerce aplikaci"
-</code></pre></div></div>
-<p>AI dokáže:</p>
-<ul>
-  <li>Projít celý data flow od API po UI</li>
-  <li>Identifikovat všechny transformace</li>
-  <li>Najít potenciální bottlenecky</li>
-  <li>Navrhnout optimalizace</li>
-</ul>
-
-<h3 id="architecture-analysis">Architecture Analysis</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Je tato aplikace připravená na škálování?"
-</code></pre></div></div>
-<p>AI analyzuje:</p>
-<ul>
-  <li>Coupling mezi moduly</li>
-  <li>Single points of failure</li>
-  <li>Performance bottlenecks</li>
-  <li>Scalability patterns</li>
-</ul>
-
-<h3 id="security-audit">Security Audit</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Najdi potenciální security vulnerabilities"
-</code></pre></div></div>
-<p>AI kontroluje:</p>
-<ul>
-  <li>Input validation</li>
-  <li>Authentication flows</li>
-  <li>Authorization checks</li>
-  <li>Data exposure risks</li>
-</ul>
-
-<h2 id="konfigurace-a-customizace">Konfigurace a customizace:</h2>
-
-<h3 id="cursorsettingsjson">.cursor/settings.json</h3>
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
-  </span><span class="nl">"codebaseIndexing"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-    </span><span class="nl">"enabled"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
-    </span><span class="nl">"indexingDepth"</span><span class="p">:</span><span class="w"> </span><span class="s2">"full"</span><span class="p">,</span><span class="w">
-    </span><span class="nl">"excludePatterns"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-      </span><span class="s2">"node_modules/**"</span><span class="p">,</span><span class="w">
-      </span><span class="s2">"*.test.*"</span><span class="p">,</span><span class="w">
-      </span><span class="s2">"coverage/**"</span><span class="w">
-    </span><span class="p">],</span><span class="w">
-    </span><span class="nl">"includeComments"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
-    </span><span class="nl">"semanticAnalysis"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
-  </span><span class="p">}</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre></div></div>
-
-<h3 id="indexing-priorities">Indexing priorities:</h3>
-<ol>
-  <li><strong>Core business logic</strong> - nejvyšší priorita</li>
-  <li><strong>API endpoints</strong> - střední priorita</li>
-  <li><strong>UI components</strong> - střední priorita</li>
-  <li><strong>Tests &amp; configs</strong> - nízká priorita</li>
-  <li><strong>Generated code</strong> - minimální priorita</li>
-</ol>
-
-<h2 id="troubleshooting">Troubleshooting:</h2>
-
-<h3 id="pomalé-indexování">Pomalé indexování:</h3>
-<ul>
-  <li><strong>Exclude large files</strong> - node_modules, build folders</li>
-  <li><strong>Use .cursorignore</strong> - podobně jako .gitignore</li>
-  <li><strong>Restart indexing</strong> - Cmd/Ctrl + Shift + P &gt; “Reindex Codebase”</li>
-</ul>
-
-<h3 id="neprésní-ai-responses">Neprésní AI responses:</h3>
-<ul>
-  <li><strong>Update index</strong> - ujistěte se, že je aktuální</li>
-  <li><strong>Check file inclusion</strong> - možná jsou některé soubory vyloučené</li>
-  <li><strong>Provide more context</strong> - přidejte specifické informace k dotazu</li>
-</ul>
-
-<h2 id="měření-výkonu">Měření výkonu:</h2>
-
-<h3 id="indexing-metrics">Indexing metrics:</h3>
-<ul>
-  <li><strong>Index size</strong>: Zobrazuje velikost indexu</li>
-  <li><strong>Last updated</strong>: Kdy byla poslední aktualizace</li>
-  <li><strong>Coverage</strong>: Procento indexovaného kódu</li>
-  <li><strong>Performance</strong>: Rychlost AI responses</li>
-</ul>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Cursor Developer Tools</span>
-Cmd/Ctrl + Shift + I <span class="o">&gt;</span> Console
-<span class="o">&gt;</span> cursor.showIndexStats<span class="o">()</span>
-</code></pre></div></div>
-
-<p>Toto vylepšení činí Cursor ještě mocnějším nástrojem pro práci s velkými a komplexními projekty, kde rychlé pochopení kontextu je klíčové.</p>
-
-  </div>
-</article>
-
-<article class="vibecoding-article">
+<article class="vibecoding-article full-article">
   <h3>16. 01. 2025 - Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem</h3>
   <div class="article-content">
     <p>Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.</p>
@@ -892,6 +465,348 @@ AI: [Generates specific SQL with indexes]
   </div>
 </article>
 
+<article class="vibecoding-article full-article">
+  <h3>19. 01. 2025 - Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu</h3>
+  <div class="article-content">
+    <p>Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.</p>
+
+<h2 id="co-je-codebase-indexing">Co je Codebase Indexing?</h2>
+
+<p>Codebase Indexing je pokročilý systém, který:</p>
+<ul>
+  <li><strong>Analyzuje celý projekt</strong> - mapuje všechny soubory, závislosti a vztahy</li>
+  <li><strong>Vytváří semantic embeddings</strong> - porozumí významu kódu, nejen syntaxi</li>
+  <li><strong>Cachuje znalosti</strong> - rychlejší responses díky pre-processed informacím</li>
+  <li><strong>Real-time updates</strong> - automaticky aktualizuje index při změnách</li>
+</ul>
+
+<h2 id="nové-funkce-v-indexování">Nové funkce v indexování:</h2>
+
+<h3 id="intelligent-parsing">Intelligent Parsing</h3>
+<ul>
+  <li><strong>Multi-language support</strong> - jednotný přístup pro všechny jazyky</li>
+  <li><strong>Framework detection</strong> - automaticky rozpozná React, Vue, Angular atd.</li>
+  <li><strong>Architecture mapping</strong> - identifikuje design patterns a struktury</li>
+  <li><strong>Dependency graph</strong> - mapuje všechny závislosti a importy</li>
+</ul>
+
+<h3 id="semantic-understanding">Semantic Understanding</h3>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// AI nyní rozumí nejen syntaxi, ale i významu:</span>
+<span class="kd">function</span> <span class="nf">calculateUserMetrics</span><span class="p">(</span><span class="nx">user</span><span class="p">)</span> <span class="p">{</span>
+  <span class="c1">// AI ví, že toto je business logic</span>
+  <span class="c1">// souvisí s user management</span>
+  <span class="c1">// a pravděpodobně ovlivňuje analytics</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<h3 id="advanced-search-capabilities">Advanced Search Capabilities</h3>
+<ul>
+  <li><strong>Semantic search</strong> - “najdi všechny funkce pro user authentication”</li>
+  <li><strong>Intent-based queries</strong> - “kde se handleuje error při platbě?”</li>
+  <li><strong>Cross-file relationships</strong> - “které komponenty používají tuto utility?”</li>
+  <li><strong>Impact analysis</strong> - “co ovlivní změna této funkce?”</li>
+</ul>
+
+<h2 id="performance-vylepšení">Performance vylepšení:</h2>
+
+<h3 id="rychlost-indexování">Rychlost indexování:</h3>
+<ul>
+  <li><strong>50% rychlejší</strong> - optimalizované algoritmy</li>
+  <li><strong>Parallel processing</strong> - využití všech CPU cores</li>
+  <li><strong>Incremental updates</strong> - pouze změněné části</li>
+  <li><strong>Smart caching</strong> - inteligentní cache management</li>
+</ul>
+
+<h3 id="memory-optimalizace">Memory optimalizace:</h3>
+<ul>
+  <li><strong>Reduced RAM usage</strong> - efektivnější data structures</li>
+  <li><strong>Compression</strong> - komprimované indexy</li>
+  <li><strong>Selective loading</strong> - načítá jen potřebné části</li>
+  <li><strong>Garbage collection</strong> - automatické čištění nepotřebných dat</li>
+</ul>
+
+<h2 id="praktické-výhody">Praktické výhody:</h2>
+
+<h3 id="pro-malé-projekty--100-souborů">Pro malé projekty (&lt; 100 souborů):</h3>
+<ul>
+  <li>⚡ <strong>Instant responses</strong> - okamžité AI odpovědi</li>
+  <li>🎯 <strong>Perfect context</strong> - AI rozumí 100% kódu</li>
+  <li>🔍 <strong>Deep insights</strong> - detailní analýza architektury</li>
+</ul>
+
+<h3 id="pro-střední-projekty-100-1000-souborů">Pro střední projekty (100-1000 souborů):</h3>
+<ul>
+  <li>⚡ <strong>Sub-second responses</strong> - odpovědi pod 1 sekunda</li>
+  <li>🎯 <strong>Selective context</strong> - relevantní části pro daný dotaz</li>
+  <li>🔍 <strong>Pattern recognition</strong> - identifikace common patterns</li>
+</ul>
+
+<h3 id="pro-velké-projekty-1000-souborů">Pro velké projekty (1000+ souborů):</h3>
+<ul>
+  <li>⚡ <strong>Fast responses</strong> - odpovědi do 3 sekund</li>
+  <li>🎯 <strong>Smart filtering</strong> - pouze relevantní kód</li>
+  <li>🔍 <strong>Module isolation</strong> - práce s jednotlivými moduly</li>
+</ul>
+
+<h2 id="nové-ai-capabilities-díky-indexingu">Nové AI capabilities díky indexingu:</h2>
+
+<h3 id="code-navigation">Code Navigation</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Vysvětli mi flow dat v této e-commerce aplikaci"
+</code></pre></div></div>
+<p>AI dokáže:</p>
+<ul>
+  <li>Projít celý data flow od API po UI</li>
+  <li>Identifikovat všechny transformace</li>
+  <li>Najít potenciální bottlenecky</li>
+  <li>Navrhnout optimalizace</li>
+</ul>
+
+<h3 id="architecture-analysis">Architecture Analysis</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Je tato aplikace připravená na škálování?"
+</code></pre></div></div>
+<p>AI analyzuje:</p>
+<ul>
+  <li>Coupling mezi moduly</li>
+  <li>Single points of failure</li>
+  <li>Performance bottlenecks</li>
+  <li>Scalability patterns</li>
+</ul>
+
+<h3 id="security-audit">Security Audit</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Najdi potenciální security vulnerabilities"
+</code></pre></div></div>
+<p>AI kontroluje:</p>
+<ul>
+  <li>Input validation</li>
+  <li>Authentication flows</li>
+  <li>Authorization checks</li>
+  <li>Data exposure risks</li>
+</ul>
+
+<h2 id="konfigurace-a-customizace">Konfigurace a customizace:</h2>
+
+<h3 id="cursorsettingsjson">.cursor/settings.json</h3>
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"codebaseIndexing"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"enabled"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"indexingDepth"</span><span class="p">:</span><span class="w"> </span><span class="s2">"full"</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"excludePatterns"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+      </span><span class="s2">"node_modules/**"</span><span class="p">,</span><span class="w">
+      </span><span class="s2">"*.test.*"</span><span class="p">,</span><span class="w">
+      </span><span class="s2">"coverage/**"</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+    </span><span class="nl">"includeComments"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
+    </span><span class="nl">"semanticAnalysis"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="indexing-priorities">Indexing priorities:</h3>
+<ol>
+  <li><strong>Core business logic</strong> - nejvyšší priorita</li>
+  <li><strong>API endpoints</strong> - střední priorita</li>
+  <li><strong>UI components</strong> - střední priorita</li>
+  <li><strong>Tests &amp; configs</strong> - nízká priorita</li>
+  <li><strong>Generated code</strong> - minimální priorita</li>
+</ol>
+
+<h2 id="troubleshooting">Troubleshooting:</h2>
+
+<h3 id="pomalé-indexování">Pomalé indexování:</h3>
+<ul>
+  <li><strong>Exclude large files</strong> - node_modules, build folders</li>
+  <li><strong>Use .cursorignore</strong> - podobně jako .gitignore</li>
+  <li><strong>Restart indexing</strong> - Cmd/Ctrl + Shift + P &gt; “Reindex Codebase”</li>
+</ul>
+
+<h3 id="neprésní-ai-responses">Neprésní AI responses:</h3>
+<ul>
+  <li><strong>Update index</strong> - ujistěte se, že je aktuální</li>
+  <li><strong>Check file inclusion</strong> - možná jsou některé soubory vyloučené</li>
+  <li><strong>Provide more context</strong> - přidejte specifické informace k dotazu</li>
+</ul>
+
+<h2 id="měření-výkonu">Měření výkonu:</h2>
+
+<h3 id="indexing-metrics">Indexing metrics:</h3>
+<ul>
+  <li><strong>Index size</strong>: Zobrazuje velikost indexu</li>
+  <li><strong>Last updated</strong>: Kdy byla poslední aktualizace</li>
+  <li><strong>Coverage</strong>: Procento indexovaného kódu</li>
+  <li><strong>Performance</strong>: Rychlost AI responses</li>
+</ul>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Cursor Developer Tools</span>
+Cmd/Ctrl + Shift + I <span class="o">&gt;</span> Console
+<span class="o">&gt;</span> cursor.showIndexStats<span class="o">()</span>
+</code></pre></div></div>
+
+<p>Toto vylepšení činí Cursor ještě mocnějším nástrojem pro práci s velkými a komplexními projekty, kde rychlé pochopení kontextu je klíčové.</p>
+
+  </div>
+</article>
+
+<article class="vibecoding-article full-article">
+  <h3>22. 01. 2025 - Cursor představuje Composer - AI agent pro komplexní změny kódu</h3>
+  <div class="article-content">
+    <p>Cursor vydal revolucionní funkci Composer, která představuje nový typ AI agenta schopného provádět komplexní změny napříč celým projektem pomocí přirozeného jazyka.</p>
+
+<h2 id="co-je-composer">Co je Composer?</h2>
+
+<p>Composer je AI agent integrovaný přímo do Cursor editoru, který dokáže:</p>
+<ul>
+  <li><strong>Multi-file editing</strong> - editovat desítky souborů současně</li>
+  <li><strong>Architecture changes</strong> - přestrukturovat celé aplikace</li>
+  <li><strong>Feature implementation</strong> - implementovat komplexní funkcionality</li>
+  <li><strong>Code migration</strong> - migrovat mezi frameworky a technologiemi</li>
+</ul>
+
+<h2 id="klíčové-funkce">Klíčové funkce:</h2>
+
+<h3 id="intelligent-planning">Intelligent Planning</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Přidej autentifikaci s OAuth2 do React aplikace"
+</code></pre></div></div>
+
+<p>Composer automaticky:</p>
+<ol>
+  <li>Analyzuje současnou strukturu projektu</li>
+  <li>Navrhne plan implementace</li>
+  <li>Identifikuje všechny soubory k úpravě</li>
+  <li>Vytvoří step-by-step roadmapu</li>
+</ol>
+
+<h3 id="multi-file-operations">Multi-File Operations</h3>
+<ul>
+  <li><strong>Simultaneous editing</strong> - až 50+ souborů najednou</li>
+  <li><strong>Dependency tracking</strong> - automaticky aktualizuje závislosti</li>
+  <li><strong>Import management</strong> - spravuje všechny importy a exporty</li>
+  <li><strong>Type consistency</strong> - udržuje type safety napříč projektem</li>
+</ul>
+
+<h3 id="context-awareness">Context Awareness</h3>
+<ul>
+  <li><strong>Project understanding</strong> - rozumí architektuře a design patterns</li>
+  <li><strong>Code style</strong> - respektuje existující coding conventions</li>
+  <li><strong>Framework knowledge</strong> - specializované znalosti populárních frameworků</li>
+  <li><strong>Best practices</strong> - implementuje industry standards</li>
+</ul>
+
+<h2 id="praktické-příklady-použití">Praktické příklady použití:</h2>
+
+<h3 id="1-přidání-nové-feature">1. Přidání nové feature</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Implementuj real-time chat s WebSocket podporou"
+</code></pre></div></div>
+
+<p><strong>Composer automaticky:</strong></p>
+<ul>
+  <li>Vytvoří WebSocket server endpoint</li>
+  <li>Přidá client-side connection management</li>
+  <li>Implementuje UI komponenty pro chat</li>
+  <li>Nastaví state management</li>
+  <li>Přidá error handling a reconnection logic</li>
+</ul>
+
+<h3 id="2-refactoring-architektury">2. Refactoring architektury</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Převeď tuto aplikaci z Context API na Redux Toolkit"
+</code></pre></div></div>
+
+<p><strong>Composer provede:</strong></p>
+<ul>
+  <li>Analýzu současného state managementu</li>
+  <li>Vytvoření Redux store a slices</li>
+  <li>Přepsání všech komponent</li>
+  <li>Aktualizaci testů</li>
+  <li>Odstranění nepotřebných Context providerů</li>
+</ul>
+
+<h3 id="3-framework-migrace">3. Framework migrace</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Migruj z Create React App na Vite"
+</code></pre></div></div>
+
+<p><strong>Automatické kroky:</strong></p>
+<ul>
+  <li>Aktualizace build systému</li>
+  <li>Přepsání konfigurací</li>
+  <li>Úprava package.json</li>
+  <li>Migrace environment variables</li>
+  <li>Update dokumentace</li>
+</ul>
+
+<h2 id="advanced-features">Advanced Features:</h2>
+
+<h3 id="preview-mode">Preview Mode</h3>
+<ul>
+  <li><strong>Change preview</strong> - vidíte všechny změny před aplikací</li>
+  <li><strong>Diff view</strong> - detailní porovnání před/po</li>
+  <li><strong>Selective apply</strong> - vyberte si, které změny chcete použít</li>
+  <li><strong>Rollback option</strong> - jednoduchý návrat k původnímu stavu</li>
+</ul>
+
+<h3 id="smart-conflict-resolution">Smart Conflict Resolution</h3>
+<ul>
+  <li><strong>Merge conflicts</strong> - inteligentní řešení konfliktů</li>
+  <li><strong>Version control</strong> - seamless Git integrace</li>
+  <li><strong>Backup creation</strong> - automatické zálohy před velkými změnami</li>
+  <li><strong>Incremental updates</strong> - postupné aplikování změn</li>
+</ul>
+
+<h3 id="learning--adaptation">Learning &amp; Adaptation</h3>
+<ul>
+  <li><strong>Project patterns</strong> - učí se z vašeho coding stylu</li>
+  <li><strong>Team conventions</strong> - adaptuje se na týmové standardy</li>
+  <li><strong>Feedback loop</strong> - zlepšuje se na základě vašich úprav</li>
+  <li><strong>Custom prompts</strong> - můžete vytvořit vlastní templates</li>
+</ul>
+
+<h2 id="performance--limitations">Performance &amp; Limitations:</h2>
+
+<h3 id="co-zvládá-výborně">Co zvládá výborně:</h3>
+<ul>
+  <li>✅ React/Vue/Angular aplikace</li>
+  <li>✅ Node.js backends</li>
+  <li>✅ TypeScript projekty</li>
+  <li>✅ API integrace</li>
+  <li>✅ Database schema změny</li>
+  <li>✅ UI/UX implementace</li>
+</ul>
+
+<h3 id="současná-omezení">Současná omezení:</h3>
+<ul>
+  <li>⚠️ Velmi velké projekty (1000+ souborů) mohou být pomalé</li>
+  <li>⚠️ Komplexní algorithms vyžadují human review</li>
+  <li>⚠️ Legacy kód může vyžadovat additional context</li>
+  <li>⚠️ Performance kritické části potřebují optimalizaci</li>
+</ul>
+
+<h2 id="dostupnost-a-ceny">Dostupnost a ceny:</h2>
+
+<ul>
+  <li><strong>Pro users</strong>: Included v Pro plánu ($20/měsíc)</li>
+  <li><strong>Usage limits</strong>: 100 Composer requests/měsíc</li>
+  <li><strong>Additional requests</strong>: $0.50 per request</li>
+  <li><strong>Enterprise</strong>: Unlimited usage s custom pricing</li>
+</ul>
+
+<p>Composer představuje významný krok vpřed v AI-asistovaném vývoji a může dramaticky zkrátit čas potřebný pro implementaci komplexních změn.</p>
+
+  </div>
+</article>
+
+<script>
+function toggleDetails(button) {
+  const content = button.nextElementSibling;
+  const isCollapsed = button.classList.contains('collapsed');
+  
+  if (isCollapsed) {
+    button.classList.remove('collapsed');
+    content.classList.add('show');
+  } else {
+    button.classList.add('collapsed');
+    content.classList.remove('show');
+  }
+}
+</script>
+
 
   </div>
 </article>
@@ -928,6 +843,21 @@ AI: [Generates specific SQL with indexes]
 </noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
 <!-- 100% privacy-first analytics -->
 <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
- 
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
   </body>
 </html>

@@ -104,8 +104,11 @@
 
 <p>Na rozdíl od tradičních editorů s AI pluginy je AI integrovaná přímo do jádra aplikace. Byl vyvinut společností Codeium specificky pro éru AI-driven development a podporuje jak online, tak částečně offline AI funkce.</p>
 
-<details>
-<summary><strong>📋 Detailní informace o Windsurf</strong></summary>
+<div class="vibecoding-details">
+  <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">
+    📋 Detailní informace o Windsurf
+  </button>
+  <div class="vibecoding-content">
 
 ## 📋 Základní informace
 
@@ -114,7 +117,7 @@ Windsurf je moderní IDE postavené na VS Code architektuře, ale s významně r
 
 ### Klíčové vlastnosti:
 - **AI-native design** - navržen od základu pro práci s AI
-- **Multimodální AI** - rozumí kódu, textu i obrázkám
+- **Multimodální AI** - rozumí kódu, textu i obrázkům
 - **Kontextové porozumění** - AI analyzuje celý projekt, ne jen aktuální soubor
 - **Offline možnosti** - část funkcí funguje i bez internetového připojení
 - **Cross-platform** - Windows, macOS, Linux
@@ -202,13 +205,14 @@ Codeium plánuje pro Windsurf:
 - **Custom AI models** - možnost trénovat vlastní modely
 - **Visual programming** - drag &amp; drop rozhraní pro některé úkoly
 
-</details>
+  </div>
+</div>
 
 <hr />
 
 <h2 id="-články-a-novinky">📰 Články a novinky</h2>
 
-<article class="vibecoding-article">
+<article class="vibecoding-article full-article">
   <h3>15. 01. 2025 - Windsurf přidává pokročilého AI asistenta přímo do editoru</h3>
   <div class="article-content">
     <p>Nejnovější aktualizace Windsurf IDE přináší revoluci ve formě integrovaného AI asistenta, který pracuje přímo v editoru a poskytuje kontextovou pomoc během programování.</p>
@@ -284,6 +288,21 @@ Codeium plánuje pro Windsurf:
 </noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
 <!-- 100% privacy-first analytics -->
 <script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
- 
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
   </body>
 </html>
