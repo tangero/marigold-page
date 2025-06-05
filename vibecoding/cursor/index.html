@@ -354,536 +354,160 @@ brew <span class="nb">install </span>cursor
 
 
 
-<article class="vibecoding-article excerpt-article">
+
+
+
   
-  <h3>05. 06. 2025 - <a href="/item/cursor_1_0_clanek/">Cursor 1.0: Nové funkce pro AI programování / vibecoding</a></h3>
-  <div class="article-excerpt">
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
     
-      Společnost Anysphere vydala verzi 1.0 svého AI editoru kódu Cursor, která přináší automatickou kontrolu kódu, rozšířený přístup k Background Agent a zjednodušenou integraci MCP protokolu. Vydání př...
     
-  </div>
-  <a href="/item/cursor_1_0_clanek/" class="article-read-more">Číst článek →</a>
-  <div class="article-separator"></div>
-</article>
 
-
-
-<article class="vibecoding-article full-article">
-  <h3>16. 01. 2025 - Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem</h3>
-  <div class="article-content">
-    <p>Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.</p>
-
-<h2 id="co-je-nového-v-cmdk">Co je nového v Cmd+K?</h2>
-
-<h3 id="multi-modal-input">Multi-modal Input</h3>
-<ul>
-  <li><strong>Text + Code</strong> - kombinujte natural language s code snippets</li>
-  <li><strong>Image support</strong> - uploadujte screenshots UI pro implementaci</li>
-  <li><strong>File attachments</strong> - přetáhněte soubory přímo do chatu</li>
-  <li><strong>Voice input</strong> - mluvte místo psaní (beta funkce)</li>
-</ul>
-
-<h3 id="enhanced-context-awareness">Enhanced Context Awareness</h3>
-<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Když máte kurzor v této funkci a stisknete Cmd+K</span>
-<span class="kd">function</span> <span class="nf">processPayment</span><span class="p">(</span><span class="nx">amount</span><span class="p">,</span> <span class="nx">currency</span><span class="p">)</span> <span class="p">{</span>
-  <span class="c1">// AI automaticky rozumí:</span>
-  <span class="c1">// - Toto je payment handling</span>
-  <span class="c1">// - Souvisí s e-commerce</span>
-  <span class="c1">// - Může potřebovat validaci a error handling</span>
-  <span class="c1">// - Pravděpodobně volá external API</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<p>AI nyní automaticky:</p>
-<ul>
-  <li><strong>Detekuje současný kontext</strong> - ví, kde se nacházíte v kódu</li>
-  <li><strong>Mapuje související funkce</strong> - zahrnuje relevantní dependencies</li>
-  <li><strong>Rozumí business logice</strong> - interpretuje účel kódu</li>
-  <li><strong>Sleduje Git změny</strong> - ví o recent modifications</li>
-</ul>
-
-<h2 id="nové-typy-dotazů">Nové typy dotazů:</h2>
-
-<h3 id="code-explanation">Code Explanation</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Vysvětli mi tuto funkci krok za krokem"
-</code></pre></div></div>
-<p><strong>Nová AI response:</strong></p>
-<ul>
-  <li>📊 <strong>Visual breakdown</strong> - diagram flow logiky</li>
-  <li>🔍 <strong>Line-by-line analysis</strong> - detailní rozbor</li>
-  <li>⚠️ <strong>Potential issues</strong> - identifikace možných problémů</li>
-  <li>💡 <strong>Improvement suggestions</strong> - návrhy na vylepšení</li>
-</ul>
-
-<h3 id="architecture-questions">Architecture Questions</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Jak by se tato změna projevila v celé aplikaci?"
-</code></pre></div></div>
-<p><strong>AI analyzuje:</strong></p>
-<ul>
-  <li><strong>Impact radius</strong> - které části kódu ovlivní</li>
-  <li><strong>Breaking changes</strong> - co se může rozbít</li>
-  <li><strong>Testing needed</strong> - které testy aktualizovat</li>
-  <li><strong>Migration steps</strong> - jak bezpečně implementovat</li>
-</ul>
-
-<h3 id="performance-queries">Performance Queries</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Proč je tato část kódu pomalá?"
-</code></pre></div></div>
-<p><strong>Advanced analysis:</strong></p>
-<ul>
-  <li><strong>Bottleneck detection</strong> - identifikace úzkých míst</li>
-  <li><strong>Algorithmic complexity</strong> - Big O analysis</li>
-  <li><strong>Memory usage</strong> - profiling paměti</li>
-  <li><strong>Optimization suggestions</strong> - konkrétní vylepšení</li>
-</ul>
-
-<h2 id="smart-context-selection">Smart Context Selection:</h2>
-
-<h3 id="automatic-scope-detection">Automatic Scope Detection</h3>
-<p>AI automaticky vybírá relevantní kód na základě:</p>
-<ul>
-  <li><strong>Current cursor position</strong> - aktuální pozice</li>
-  <li><strong>Function boundaries</strong> - hranice funkcí</li>
-  <li><strong>Class definitions</strong> - definice tříd</li>
-  <li><strong>Module imports</strong> - importované moduly</li>
-  <li><strong>Recent Git changes</strong> - nedávné změny</li>
-</ul>
-
-<h3 id="manual-context-control">Manual Context Control</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Označte kód a pak Cmd+K pro specific context
-@mention filename.js
-@mention function_name
-@mention className
-@mention #recent_changes
-</code></pre></div></div>
-
-<h3 id="context-suggestions">Context Suggestions</h3>
-<p>AI navrhuje přidání kontextu:</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>💡 "Možná budete chtít zahrnout user.model.js 
-   pro úplné pochopení této authentication logic"
-</code></pre></div></div>
-
-<h2 id="conversational-memory">Conversational Memory:</h2>
-
-<h3 id="session-persistence">Session Persistence</h3>
-<ul>
-  <li><strong>Context history</strong> - AI si pamatuje předchozí konverzaci</li>
-  <li><strong>Code evolution</strong> - sleduje změny během session</li>
-  <li><strong>Learning patterns</strong> - adaptuje se na váš styl</li>
-  <li><strong>Smart continuations</strong> - navazuje na předchozí dotazy</li>
-</ul>
-
-<h3 id="multi-turn-conversations">Multi-turn Conversations</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>You: "Jak optimalizovat tuto databázovou query?"
-AI: [Provides optimization suggestions]
-
-You: "A co když přidám indexy?"
-AI: [Understands "indexy" refers to the previous query]
-
-You: "Ukáž mi konkrétní SQL"
-AI: [Generates specific SQL with indexes]
-</code></pre></div></div>
-
-<h2 id="advanced-features">Advanced Features:</h2>
-
-<h3 id="code-generation-modes">Code Generation Modes</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/generate - Vygeneruj nový kód
-/refactor - Přepiš existující kód
-/explain - Vysvětli kód
-/debug - Najdi a oprav chyby
-/optimize - Optimalizuj výkon
-/test - Vytvoř testy
-</code></pre></div></div>
-
-<h3 id="smart-templates">Smart Templates</h3>
-<p>AI si vytváří templates na základě vašich patterns:</p>
-<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Po několika podobných funkcích AI navrhne:</span>
-<span class="dl">"</span><span class="s2">Vidím, že často vytváříte API handlers. 
- Mám pro vás připravený template:</span><span class="dl">"</span>
-
-<span class="kd">function</span> <span class="nf">handle</span><span class="nx">$</span><span class="p">{</span><span class="nx">EntityName</span><span class="p">}(</span><span class="nx">req</span><span class="p">,</span> <span class="nx">res</span><span class="p">)</span> <span class="p">{</span>
-  <span class="c1">// Standardní error handling</span>
-  <span class="c1">// Validation logic</span>
-  <span class="c1">// Database operations</span>
-  <span class="c1">// Response formatting</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<h3 id="team-integration">Team Integration</h3>
-<ul>
-  <li><strong>Shared context</strong> - sdílejte konverzace s týmem</li>
-  <li><strong>Code review mode</strong> - AI pomáhá s review</li>
-  <li><strong>Documentation generation</strong> - auto-generated docs</li>
-  <li><strong>Onboarding assist</strong> - pomoc novým členům týmu</li>
-</ul>
-
-<h2 id="performance-improvements">Performance Improvements:</h2>
-
-<h3 id="response-speed">Response Speed</h3>
-<ul>
-  <li><strong>3x rychlejší responses</strong> - optimalizované API calls</li>
-  <li><strong>Streaming responses</strong> - začnete číst odpověď okamžitě</li>
-  <li><strong>Local caching</strong> - cache častých dotazů</li>
-  <li><strong>Predictive loading</strong> - načítá pravděpodobné responses</li>
-</ul>
-
-<h3 id="resource-usage">Resource Usage</h3>
-<ul>
-  <li><strong>Reduced token consumption</strong> - efektivnější prompt engineering</li>
-  <li><strong>Smart batching</strong> - kombinuje související dotazy</li>
-  <li><strong>Context compression</strong> - komprimuje velké kontexty</li>
-  <li><strong>Memory optimization</strong> - lepší RAM management</li>
-</ul>
-
-<h2 id="tips-pro-efektivní-používání">Tips pro efektivní používání:</h2>
-
-<h3 id="pro-začátečníky">Pro začátečníky:</h3>
-<ol>
-  <li><strong>Buďte specifičtí</strong> - “Optimalizuj rychlost této query” místo “Vylepši kód”</li>
-  <li><strong>Používejte kontext</strong> - označte relevantní kód před dotazem</li>
-  <li><strong>Ptejte se postupně</strong> - začněte obecně, pak se specializujte</li>
-  <li><strong>Experimentujte</strong> - zkoušejte různé typy dotazů</li>
-</ol>
-
-<h3 id="pro-pokročilé">Pro pokročilé:</h3>
-<ol>
-  <li><strong>Kombinujte módy</strong> - <code class="language-plaintext highlighter-rouge">/explain</code> + <code class="language-plaintext highlighter-rouge">/optimize</code> pro kompletní analýzu</li>
-  <li><strong>Využívejte @mentions</strong> - odkazujte na specifické soubory/funkce</li>
-  <li><strong>Vytvářejte templates</strong> - naučte AI vaše coding patterns</li>
-  <li><strong>Sdílejte kontext</strong> - používejte session memory pro komplexní refactoring</li>
-</ol>
-
-<p>Tyto vylepšení činí Cmd+K ještě mocnějším nástrojem pro efektivní komunikaci s AI během vývoje.</p>
-
-  </div>
-</article>
-
-<article class="vibecoding-article full-article">
-  <h3>19. 01. 2025 - Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu</h3>
-  <div class="article-content">
-    <p>Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.</p>
-
-<h2 id="co-je-codebase-indexing">Co je Codebase Indexing?</h2>
-
-<p>Codebase Indexing je pokročilý systém, který:</p>
-<ul>
-  <li><strong>Analyzuje celý projekt</strong> - mapuje všechny soubory, závislosti a vztahy</li>
-  <li><strong>Vytváří semantic embeddings</strong> - porozumí významu kódu, nejen syntaxi</li>
-  <li><strong>Cachuje znalosti</strong> - rychlejší responses díky pre-processed informacím</li>
-  <li><strong>Real-time updates</strong> - automaticky aktualizuje index při změnách</li>
-</ul>
-
-<h2 id="nové-funkce-v-indexování">Nové funkce v indexování:</h2>
-
-<h3 id="intelligent-parsing">Intelligent Parsing</h3>
-<ul>
-  <li><strong>Multi-language support</strong> - jednotný přístup pro všechny jazyky</li>
-  <li><strong>Framework detection</strong> - automaticky rozpozná React, Vue, Angular atd.</li>
-  <li><strong>Architecture mapping</strong> - identifikuje design patterns a struktury</li>
-  <li><strong>Dependency graph</strong> - mapuje všechny závislosti a importy</li>
-</ul>
-
-<h3 id="semantic-understanding">Semantic Understanding</h3>
-<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// AI nyní rozumí nejen syntaxi, ale i významu:</span>
-<span class="kd">function</span> <span class="nf">calculateUserMetrics</span><span class="p">(</span><span class="nx">user</span><span class="p">)</span> <span class="p">{</span>
-  <span class="c1">// AI ví, že toto je business logic</span>
-  <span class="c1">// souvisí s user management</span>
-  <span class="c1">// a pravděpodobně ovlivňuje analytics</span>
-<span class="p">}</span>
-</code></pre></div></div>
-
-<h3 id="advanced-search-capabilities">Advanced Search Capabilities</h3>
-<ul>
-  <li><strong>Semantic search</strong> - “najdi všechny funkce pro user authentication”</li>
-  <li><strong>Intent-based queries</strong> - “kde se handleuje error při platbě?”</li>
-  <li><strong>Cross-file relationships</strong> - “které komponenty používají tuto utility?”</li>
-  <li><strong>Impact analysis</strong> - “co ovlivní změna této funkce?”</li>
-</ul>
-
-<h2 id="performance-vylepšení">Performance vylepšení:</h2>
-
-<h3 id="rychlost-indexování">Rychlost indexování:</h3>
-<ul>
-  <li><strong>50% rychlejší</strong> - optimalizované algoritmy</li>
-  <li><strong>Parallel processing</strong> - využití všech CPU cores</li>
-  <li><strong>Incremental updates</strong> - pouze změněné části</li>
-  <li><strong>Smart caching</strong> - inteligentní cache management</li>
-</ul>
-
-<h3 id="memory-optimalizace">Memory optimalizace:</h3>
-<ul>
-  <li><strong>Reduced RAM usage</strong> - efektivnější data structures</li>
-  <li><strong>Compression</strong> - komprimované indexy</li>
-  <li><strong>Selective loading</strong> - načítá jen potřebné části</li>
-  <li><strong>Garbage collection</strong> - automatické čištění nepotřebných dat</li>
-</ul>
-
-<h2 id="praktické-výhody">Praktické výhody:</h2>
-
-<h3 id="pro-malé-projekty--100-souborů">Pro malé projekty (&lt; 100 souborů):</h3>
-<ul>
-  <li>⚡ <strong>Instant responses</strong> - okamžité AI odpovědi</li>
-  <li>🎯 <strong>Perfect context</strong> - AI rozumí 100% kódu</li>
-  <li>🔍 <strong>Deep insights</strong> - detailní analýza architektury</li>
-</ul>
-
-<h3 id="pro-střední-projekty-100-1000-souborů">Pro střední projekty (100-1000 souborů):</h3>
-<ul>
-  <li>⚡ <strong>Sub-second responses</strong> - odpovědi pod 1 sekunda</li>
-  <li>🎯 <strong>Selective context</strong> - relevantní části pro daný dotaz</li>
-  <li>🔍 <strong>Pattern recognition</strong> - identifikace common patterns</li>
-</ul>
-
-<h3 id="pro-velké-projekty-1000-souborů">Pro velké projekty (1000+ souborů):</h3>
-<ul>
-  <li>⚡ <strong>Fast responses</strong> - odpovědi do 3 sekund</li>
-  <li>🎯 <strong>Smart filtering</strong> - pouze relevantní kód</li>
-  <li>🔍 <strong>Module isolation</strong> - práce s jednotlivými moduly</li>
-</ul>
-
-<h2 id="nové-ai-capabilities-díky-indexingu">Nové AI capabilities díky indexingu:</h2>
-
-<h3 id="code-navigation">Code Navigation</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Vysvětli mi flow dat v této e-commerce aplikaci"
-</code></pre></div></div>
-<p>AI dokáže:</p>
-<ul>
-  <li>Projít celý data flow od API po UI</li>
-  <li>Identifikovat všechny transformace</li>
-  <li>Najít potenciální bottlenecky</li>
-  <li>Navrhnout optimalizace</li>
-</ul>
-
-<h3 id="architecture-analysis">Architecture Analysis</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Je tato aplikace připravená na škálování?"
-</code></pre></div></div>
-<p>AI analyzuje:</p>
-<ul>
-  <li>Coupling mezi moduly</li>
-  <li>Single points of failure</li>
-  <li>Performance bottlenecks</li>
-  <li>Scalability patterns</li>
-</ul>
-
-<h3 id="security-audit">Security Audit</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Najdi potenciální security vulnerabilities"
-</code></pre></div></div>
-<p>AI kontroluje:</p>
-<ul>
-  <li>Input validation</li>
-  <li>Authentication flows</li>
-  <li>Authorization checks</li>
-  <li>Data exposure risks</li>
-</ul>
-
-<h2 id="konfigurace-a-customizace">Konfigurace a customizace:</h2>
-
-<h3 id="cursorsettingsjson">.cursor/settings.json</h3>
-<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
-  </span><span class="nl">"codebaseIndexing"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
-    </span><span class="nl">"enabled"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
-    </span><span class="nl">"indexingDepth"</span><span class="p">:</span><span class="w"> </span><span class="s2">"full"</span><span class="p">,</span><span class="w">
-    </span><span class="nl">"excludePatterns"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
-      </span><span class="s2">"node_modules/**"</span><span class="p">,</span><span class="w">
-      </span><span class="s2">"*.test.*"</span><span class="p">,</span><span class="w">
-      </span><span class="s2">"coverage/**"</span><span class="w">
-    </span><span class="p">],</span><span class="w">
-    </span><span class="nl">"includeComments"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
-    </span><span class="nl">"semanticAnalysis"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="w">
-  </span><span class="p">}</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre></div></div>
-
-<h3 id="indexing-priorities">Indexing priorities:</h3>
-<ol>
-  <li><strong>Core business logic</strong> - nejvyšší priorita</li>
-  <li><strong>API endpoints</strong> - střední priorita</li>
-  <li><strong>UI components</strong> - střední priorita</li>
-  <li><strong>Tests &amp; configs</strong> - nízká priorita</li>
-  <li><strong>Generated code</strong> - minimální priorita</li>
-</ol>
-
-<h2 id="troubleshooting">Troubleshooting:</h2>
-
-<h3 id="pomalé-indexování">Pomalé indexování:</h3>
-<ul>
-  <li><strong>Exclude large files</strong> - node_modules, build folders</li>
-  <li><strong>Use .cursorignore</strong> - podobně jako .gitignore</li>
-  <li><strong>Restart indexing</strong> - Cmd/Ctrl + Shift + P &gt; “Reindex Codebase”</li>
-</ul>
-
-<h3 id="neprésní-ai-responses">Neprésní AI responses:</h3>
-<ul>
-  <li><strong>Update index</strong> - ujistěte se, že je aktuální</li>
-  <li><strong>Check file inclusion</strong> - možná jsou některé soubory vyloučené</li>
-  <li><strong>Provide more context</strong> - přidejte specifické informace k dotazu</li>
-</ul>
-
-<h2 id="měření-výkonu">Měření výkonu:</h2>
-
-<h3 id="indexing-metrics">Indexing metrics:</h3>
-<ul>
-  <li><strong>Index size</strong>: Zobrazuje velikost indexu</li>
-  <li><strong>Last updated</strong>: Kdy byla poslední aktualizace</li>
-  <li><strong>Coverage</strong>: Procento indexovaného kódu</li>
-  <li><strong>Performance</strong>: Rychlost AI responses</li>
-</ul>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Cursor Developer Tools</span>
-Cmd/Ctrl + Shift + I <span class="o">&gt;</span> Console
-<span class="o">&gt;</span> cursor.showIndexStats<span class="o">()</span>
-</code></pre></div></div>
-
-<p>Toto vylepšení činí Cursor ještě mocnějším nástrojem pro práci s velkými a komplexními projekty, kde rychlé pochopení kontextu je klíčové.</p>
-
-  </div>
-</article>
-
-<article class="vibecoding-article full-article">
-  <h3>22. 01. 2025 - Cursor představuje Composer - AI agent pro komplexní změny kódu</h3>
-  <div class="article-content">
-    <p>Cursor vydal revolucionní funkci Composer, která představuje nový typ AI agenta schopného provádět komplexní změny napříč celým projektem pomocí přirozeného jazyka.</p>
-
-<h2 id="co-je-composer">Co je Composer?</h2>
-
-<p>Composer je AI agent integrovaný přímo do Cursor editoru, který dokáže:</p>
-<ul>
-  <li><strong>Multi-file editing</strong> - editovat desítky souborů současně</li>
-  <li><strong>Architecture changes</strong> - přestrukturovat celé aplikace</li>
-  <li><strong>Feature implementation</strong> - implementovat komplexní funkcionality</li>
-  <li><strong>Code migration</strong> - migrovat mezi frameworky a technologiemi</li>
-</ul>
-
-<h2 id="klíčové-funkce">Klíčové funkce:</h2>
-
-<h3 id="intelligent-planning">Intelligent Planning</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Přidej autentifikaci s OAuth2 do React aplikace"
-</code></pre></div></div>
-
-<p>Composer automaticky:</p>
-<ol>
-  <li>Analyzuje současnou strukturu projektu</li>
-  <li>Navrhne plan implementace</li>
-  <li>Identifikuje všechny soubory k úpravě</li>
-  <li>Vytvoří step-by-step roadmapu</li>
-</ol>
-
-<h3 id="multi-file-operations">Multi-File Operations</h3>
-<ul>
-  <li><strong>Simultaneous editing</strong> - až 50+ souborů najednou</li>
-  <li><strong>Dependency tracking</strong> - automaticky aktualizuje závislosti</li>
-  <li><strong>Import management</strong> - spravuje všechny importy a exporty</li>
-  <li><strong>Type consistency</strong> - udržuje type safety napříč projektem</li>
-</ul>
-
-<h3 id="context-awareness">Context Awareness</h3>
-<ul>
-  <li><strong>Project understanding</strong> - rozumí architektuře a design patterns</li>
-  <li><strong>Code style</strong> - respektuje existující coding conventions</li>
-  <li><strong>Framework knowledge</strong> - specializované znalosti populárních frameworků</li>
-  <li><strong>Best practices</strong> - implementuje industry standards</li>
-</ul>
-
-<h2 id="praktické-příklady-použití">Praktické příklady použití:</h2>
-
-<h3 id="1-přidání-nové-feature">1. Přidání nové feature</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Implementuj real-time chat s WebSocket podporou"
-</code></pre></div></div>
-
-<p><strong>Composer automaticky:</strong></p>
-<ul>
-  <li>Vytvoří WebSocket server endpoint</li>
-  <li>Přidá client-side connection management</li>
-  <li>Implementuje UI komponenty pro chat</li>
-  <li>Nastaví state management</li>
-  <li>Přidá error handling a reconnection logic</li>
-</ul>
-
-<h3 id="2-refactoring-architektury">2. Refactoring architektury</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Převeď tuto aplikaci z Context API na Redux Toolkit"
-</code></pre></div></div>
-
-<p><strong>Composer provede:</strong></p>
-<ul>
-  <li>Analýzu současného state managementu</li>
-  <li>Vytvoření Redux store a slices</li>
-  <li>Přepsání všech komponent</li>
-  <li>Aktualizaci testů</li>
-  <li>Odstranění nepotřebných Context providerů</li>
-</ul>
-
-<h3 id="3-framework-migrace">3. Framework migrace</h3>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Migruj z Create React App na Vite"
-</code></pre></div></div>
-
-<p><strong>Automatické kroky:</strong></p>
-<ul>
-  <li>Aktualizace build systému</li>
-  <li>Přepsání konfigurací</li>
-  <li>Úprava package.json</li>
-  <li>Migrace environment variables</li>
-  <li>Update dokumentace</li>
-</ul>
-
-<h2 id="advanced-features">Advanced Features:</h2>
-
-<h3 id="preview-mode">Preview Mode</h3>
-<ul>
-  <li><strong>Change preview</strong> - vidíte všechny změny před aplikací</li>
-  <li><strong>Diff view</strong> - detailní porovnání před/po</li>
-  <li><strong>Selective apply</strong> - vyberte si, které změny chcete použít</li>
-  <li><strong>Rollback option</strong> - jednoduchý návrat k původnímu stavu</li>
-</ul>
-
-<h3 id="smart-conflict-resolution">Smart Conflict Resolution</h3>
-<ul>
-  <li><strong>Merge conflicts</strong> - inteligentní řešení konfliktů</li>
-  <li><strong>Version control</strong> - seamless Git integrace</li>
-  <li><strong>Backup creation</strong> - automatické zálohy před velkými změnami</li>
-  <li><strong>Incremental updates</strong> - postupné aplikování změn</li>
-</ul>
-
-<h3 id="learning--adaptation">Learning &amp; Adaptation</h3>
-<ul>
-  <li><strong>Project patterns</strong> - učí se z vašeho coding stylu</li>
-  <li><strong>Team conventions</strong> - adaptuje se na týmové standardy</li>
-  <li><strong>Feedback loop</strong> - zlepšuje se na základě vašich úprav</li>
-  <li><strong>Custom prompts</strong> - můžete vytvořit vlastní templates</li>
-</ul>
-
-<h2 id="performance--limitations">Performance &amp; Limitations:</h2>
-
-<h3 id="co-zvládá-výborně">Co zvládá výborně:</h3>
-<ul>
-  <li>✅ React/Vue/Angular aplikace</li>
-  <li>✅ Node.js backends</li>
-  <li>✅ TypeScript projekty</li>
-  <li>✅ API integrace</li>
-  <li>✅ Database schema změny</li>
-  <li>✅ UI/UX implementace</li>
-</ul>
-
-<h3 id="současná-omezení">Současná omezení:</h3>
-<ul>
-  <li>⚠️ Velmi velké projekty (1000+ souborů) mohou být pomalé</li>
-  <li>⚠️ Komplexní algorithms vyžadují human review</li>
-  <li>⚠️ Legacy kód může vyžadovat additional context</li>
-  <li>⚠️ Performance kritické části potřebují optimalizaci</li>
-</ul>
-
-<h2 id="dostupnost-a-ceny">Dostupnost a ceny:</h2>
-
-<ul>
-  <li><strong>Pro users</strong>: Included v Pro plánu ($20/měsíc)</li>
-  <li><strong>Usage limits</strong>: 100 Composer requests/měsíc</li>
-  <li><strong>Additional requests</strong>: $0.50 per request</li>
-  <li><strong>Enterprise</strong>: Unlimited usage s custom pricing</li>
-</ul>
-
-<p>Composer představuje významný krok vpřed v AI-asistovaném vývoji a může dramaticky zkrátit čas potřebný pro implementaci komplexních změn.</p>
-
-  </div>
-</article>
+    
+    <h3 class="article-title">
+      <a href="#cursor_1_0_clanek">
+        <span class="article-date">05. 06. 2025</span> - Cursor 1.0: Nové funkce pro AI programování / vibecoding
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Společnost Anysphere vydala verzi 1.0 svého AI editoru kódu Cursor, která přináší automatickou kontrolu kódu, rozšířený přístup k Background Agent a zjednodušenou integraci MCP protokolu. Vydání přichází více než rok po spuštění v roce 2023 a obsahuje sedm hlavních funkcí.
+
+          
+        </div>
+        
+        
+        
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    
+    
+
+    
+    <h3 class="article-title">
+      <a href="#cursor-composer-update">
+        <span class="article-date">22. 01. 2025</span> - Cursor představuje Composer - AI agent pro komplexní změny kódu
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Cursor vydal revolucionní funkci Composer, která představuje nový typ AI agenta schopného provádět komplexní změny napříč celým projektem pomocí přirozeného jazyka.
+
+          
+        </div>
+        
+        
+        
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    
+    
+
+    
+    <h3 class="article-title">
+      <a href="#cursor-codebase-indexing">
+        <span class="article-date">19. 01. 2025</span> - Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.
+
+          
+        </div>
+        
+        
+        
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    
+    
+
+    
+    <h3 class="article-title">
+      <a href="#cursor-cmd-k-improvements">
+        <span class="article-date">16. 01. 2025</span> - Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.
+
+          
+        </div>
+        
+        
+        
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
 
 
  
