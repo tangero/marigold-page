@@ -26202,7 +26202,7 @@
     
     ,{
       "title"    : "Claude Code - Vibe Coding",
-      "url"      : "//vibecoding/claude/",
+      "url"      : "//vibecoding/claude-code/",
       "category" : "stránka",
       "content"  : "# 🤖 Claude Code**Pokročilý AI asistent pro programování od Anthropic**🔗 [Navštívit Claude Code →](https://www.anthropic.com/claude-code)Claude Code je specializovaná verze AI asistenta Claude zaměřená na programování a vývoj softwaru. Vyniká v pochopení kontextu, refactoringu, debugging a vysvětlování složitých algoritmů.Na rozdíl od jiných AI programovacích nástrojů klade důraz na bezpečnost, etiku a transparentní komunikaci. Je ideální pro komplexní programovací úkoly, kde je důležité porozumění kontextu a kvalitní vysvětlení řešení. 📋 Detailní informace o Claude Code ### Klíčové vlastnosti:- **Kontextové porozumění** - analyzuje celé projekty najednou- **Bezpečné programování** - důraz na secure coding practices- **Refactoring** - inteligentní přestrukturování kódu- **Debugging** - pomoc s hledáním..."
     }
@@ -26211,7 +26211,7 @@
     
     ,{
       "title"    : "OpenAI Codex - Vibe Coding",
-      "url"      : "//vibecoding/codex/",
+      "url"      : "//vibecoding/openai-codex/",
       "category" : "stránka",
       "content"  : "# 🧠 OpenAI Codex**Pokročilý AI model pro generování a porozumění kódu**🔗 [Navštívit OpenAI Codex →](https://openai.com/codex)OpenAI Codex je AI model specializovaný na programování, který stojí za GitHub Copilot. Byl natrénován na velkém množství kódu z veřejných repozitářů a dokáže generovat kód v desítkách programovacích jazyků.Model vyniká v překládání přirozeného jazyka do kódu, automatickém doplňování, refactoringu a vysvětlování složitých algoritmů. Je základem mnoha moderních AI programovacích nástrojů. 📋 Detailní informace o OpenAI Codex ### Klíčové vlastnosti:- **Multi-language support** - přes 20 programovacích jazyků- **Natural language to code** - překlad popisů do fungujícího kódu- **Code completion** - inteligentní automatické dokončování- **Code explanation** -..."
     }
@@ -26238,7 +26238,7 @@
     
     ,{
       "title"    : "Lovable.dev - Vibe Coding",
-      "url"      : "//vibecoding/lovable/",
+      "url"      : "//vibecoding/lovable-dev/",
       "category" : "stránka",
       "content"  : "# 💖 Lovable.dev**AI-powered platforma pro rychlé vytváření full-stack webových aplikací**🔗 [Navštívit Lovable.dev →](https://lovable.dev)Lovable.dev umožňuje vytvářet kompletní webové aplikace pomocí přirozeného jazyka. Platforma automaticky generuje frontend, backend i databázové schéma na základě textového popisu požadavků.Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje pokročilé AI nástroje pro automatizaci celého vývojového procesu od návrhu po deployment. Ideální pro rychlé prototypování a MVP vývoj. 📋 Detailní informace o Lovable.dev ### Klíčové vlastnosti:- **Full-stack generování** - kompletní aplikace z popisu- **Modern stack** - React, Node.js, PostgreSQL, TypeScript- **AI-driven design** - automatický návrh UI/UX- **Real-time preview** - okamžité zobrazení změn- **One-click deploy** -..."
     }
@@ -26267,7 +26267,7 @@
       "title"    : "Vibe Coding",
       "url"      : "//vibecoding/",
       "category" : "stránka",
-      "content"  : "# Vibe Coding - AI nástroje pro programováníPřehled nejmodernějších AI nástrojů a služeb pro vibe coding a programování s pomocí umělé inteligence.## 🛠️ Služby a nástroje 🔴 Databutton AI-powered platforma pro vytváření aplikací a analytických nástrojů bez kódování 🟣 Claude Code Pokročilý AI asistent pro programování a analýzu kódu od Anthropic 🟢 OpenAI Codex Revolučný AI model pro generování a porozumění kódu od OpenAI 🖱️ Cursor AI-first editor s pokročilými funkcemi pro rychlý vývoj a refactoring kódu 💖 Lovable.dev AI nástroj pro rychlý vývoj moderních webových aplikací 🌊 Windsurf Inteligentní IDE s pokročilými AI funkcemi pro vývoj ⚡ Tempolabs Rychlý..."
+      "content"  : "# Vibe Coding - AI nástroje pro programováníPřehled nejmodernějších AI nástrojů a služeb pro vibe coding a programování s pomocí umělé inteligence.## 🛠️ Služby a nástroje 🔴 Databutton Evropská AI-powered web platforma pro vytváření aplikací bez kódování 🟣 Claude Code Pokročilý terminálový asistent pro programování a analýzu kódu od Anthropicu 🟢 OpenAI Codex AI model pro generování a porozumění kódu od OpenAI 🖱️ Cursor Kompletní IDE založené na VS CODE s AI funkcemi pro rychlý vývoj a refactoring kódu 💖 Lovable.dev AI nástroj pro rychlý vývoj moderních webových aplikací 🌊 Windsurf Inteligentní IDE s pokročilými AI funkcemi pro vývoj ⚡..."
     }
     
   
@@ -27315,6 +27315,20 @@
         "url"      : "//vibecoding/oprava-ui/",
         "category" : "vibecoding",
         "content"  : "Nová funkce umožňuje uživatelům nahrát screenshoty nebo popisy problémů s uživatelským rozhraním (UI) a AI agent Databutton automaticky analyzuje a opravuje chyby, jako jsou nesprávné zarovnání, nefunkční tlačítka nebo nekonzistentní design. AI navrhuje úpravy a generuje potřebný kód pro React UI, který lze okamžitě aplikovat.Tato funkce je neocenitelná pro vývojáře i nevývojáře, kteří chtějí rychle vyladit vzhled a funkčnost svých aplikací. Například podnikatel bez technických znalostí může nahrát screenshot chybného rozvržení a AI navrhne a implementuje opravu. Funkce je také užitečná pro rychlé prototypování, kdy je třeba rychle opravit vizuální nedostatky před spuštěním aplikace.AI agent využívá počítačové vidění k analýze..."
+      }
+      
+      ,{
+        "title"    : "Lovable 2.0: Nové funkce pro AI tvorbu webových aplikací",
+        "url"      : "//vibecoding/lovable-2-nove_funkce/",
+        "category" : "vibecoding",
+        "content"  : "Aplikace Lovable koncem dubna vydala očekávanou verzi 2.0 své AI platformy pro vytváření webových aplikací pomocí přirozeného jazyka. Aktualizace přináší multiplayer spolupráci, Chat Mode Agent, bezpečnostní skenování, přímou editace kódu a zjednodušené ceny. Pojďme se na novinky podívat podrobněji:Multiplayer spolupráce s workspace systémemLovable 2.0 zavádí workspace systém pro týmovou spolupráci. Pro uživatele se rozděluje na dva plány: Pro subscription pro osobní workspace s možností pozvat až 2 spolupracovníky na jednotlivé projekty, a Teams subscription podporující až 20 uživatelů ve sdíleném workspace.Teams plán obsahuje tři role: Owners a admins mohou přidávat a odebírat uživatele, zatímco Editors mohou pouze spravovat a editovat..."
+      }
+      
+      ,{
+        "title"    : "Reakce na vydání Lovable 2.0",
+        "url"      : "//vibecoding/lovable-2/",
+        "category" : "vibecoding",
+        "content"  : "#Lovable 2.0, AI platforma pro full-stack vývoj, vyvolala značně polarizované reakce v tech komunitě. Zatímco obchodní komunita oceňuje rekordní růst na $17 milionů ARR za tři měsíce, technická komunita vyjadřuje vážné obavy ohledně bezpečnosti a kvality generovaného kódu. Platforma dosáhla i dalších pozoruhodných růstových metrik: 30 000 platících zákazníků, 85% first-month retention rate (vyšší než ChatGPT), a 500,000+ celkových uživatelů vytvářejících 25,000+ nových služeb denně.Platforma, původně známá jako GPT Engineer, se rebrandovala na Lovable v listopadu 2024 a nyní se prezentuje jako “první AI full-stack inženýr na světě”. Umožňuje vytváření funkčních webových aplikací pomocí přirozeného jazyka bez nutnosti programovacích znalostí,..."
       }
       
       ,{
