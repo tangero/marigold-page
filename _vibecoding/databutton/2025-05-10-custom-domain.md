@@ -3,8 +3,6 @@ layout: post
 title: " Custom Domain Deployment Enhancements - Vylepšené nasazení na vlastní domény"
 sw: databutton
 date: 2025-05-10
-
-hide: true
 ---
 
 Databutton vylepšil svůj proces nasazení aplikací, který nyní umožňuje snadnější a rychlejší připojení k vlastním doménám. Uživatelé mohou nasadit své aplikace na domény typu [username].databutton.app/[appname] nebo na zcela vlastní domény s jedním kliknutím. Nová funkce také zahrnuje automatickou konfiguraci SSL certifikátů pro zajištění bezpečnosti.  

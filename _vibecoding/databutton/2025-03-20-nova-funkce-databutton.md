@@ -3,8 +3,6 @@ layout: post
 title: "Kanban Board Integration - Integrovaný Kanban board pro správu úkolů"
 sw: databutton
 date: 2025-03-20
-
-hide: true
 ---
 
 Databutton přidal novou funkci Kanban boardu, která funguje jako vestavěný nástroj pro správu úkolů přímo v platformě. Tento board umožňuje uživatelům organizovat úkoly podobně jako v nástrojích typu Jira, přičemž AI agent automaticky generuje a aktualizuje úkoly na základě popisu projektu. Uživatelé mohou přidávat, upravovat a sledovat úkoly v reálném čase, přičemž AI navrhuje optimalizace pracovního postupu.  

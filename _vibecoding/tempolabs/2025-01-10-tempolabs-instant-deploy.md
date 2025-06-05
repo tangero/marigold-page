@@ -2,7 +2,6 @@
 layout: post
 title: "Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty"
 date: 2025-01-10
-hide: true
 ---
 
 Tempolabs vydal revolucionární funkci Instant Deploy, která umožňuje nasadit aplikace do produkce během několika minut po jejich vytvoření.

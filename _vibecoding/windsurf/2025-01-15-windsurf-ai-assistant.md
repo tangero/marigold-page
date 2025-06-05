@@ -2,8 +2,6 @@
 layout: post
 title: "Windsurf přidává pokročilého AI asistenta přímo do editoru"
 date: 2025-01-15
-
-hide: true
 ---
 
 Nejnovější aktualizace Windsurf IDE přináší revoluci ve formě integrovaného AI asistenta, který pracuje přímo v editoru a poskytuje kontextovou pomoc během programování.

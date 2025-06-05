@@ -2,7 +2,6 @@
 layout: post
 title: "Claude Code vylepšuje debugging - nové možnosti"
 date: 2025-01-18
-hide: true
 ---
 
 Claude Code představil nové funkce pro ladění kódu, které výrazně zlepšují vývojářský zážitek. Nové nástroje umožňují rychlejší identifikaci a opravu chyb.
