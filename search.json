@@ -26191,6 +26191,69 @@
     
   
     
+    ,{
+      "title"    : "Claude Code - Vibe Coding",
+      "url"      : "//vibecoding/claude-code/",
+      "category" : "stránka",
+      "content"  : "# 🟣 Claude Code**Pokročilý AI asistent pro programování a analýzu kódu od Anthropic**🔗 [Navštívit Claude →](https://claude.ai)Claude Code představuje pokročilou implementaci umělé inteligence zaměřenou na programování. Excelize v porozumění kontextu, refaktoringu kódu, ladění chyb a psaní dokumentace. Podporuje širokou škálu programovacích jazyků a je obzvlášť silný v komplexní analýze a architekturálních návrzích.## Nejnovější funkce a články{% assign claude_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/claude-code/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in claude_posts %} {{ post.title }} {{ post.content }} {{ post.date | date: &quot;%d. %m. %Y&quot; }} {% endfor %}{% if claude_posts.size == 0 %}Zatím zde nejsou..."
+    }
+    
+  
+    
+    ,{
+      "title"    : "Databutton - Vibe Coding",
+      "url"      : "//vibecoding/databutton/",
+      "category" : "stránka",
+      "content"  : "# 🔴 Databutton**AI-powered platforma pro vytváření aplikací a analytických nástrojů bez kódování**🔗 [Navštívit Databutton →](https://databutton.com)Databutton umožňuje vytvářet aplikace pomocí přirozeného jazyka. Platforma se specializuje na datovou analýzu a vizualizaci s podporou Python ekosystému. Uživatelé mohou rychle prototypovat datové aplikace, vytvářet dashboardy a automatizovat analytické procesy bez nutnosti hlubokých programátorských znalostí.## Nejnovější funkce a články{% assign databutton_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/databutton/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in databutton_posts %} {{ post.title }} {{ post.content }} {{ post.date | date: &quot;%d. %m. %Y&quot; }} {% endfor %}{% if databutton_posts.size == 0 %}Zatím zde nejsou žádné..."
+    }
+    
+  
+    
+    ,{
+      "title"    : "Lovable.dev - Vibe Coding",
+      "url"      : "//vibecoding/lovable-dev/",
+      "category" : "stránka",
+      "content"  : "# 💖 Lovable.dev**AI nástroj pro rychlý vývoj moderních webových aplikací**🔗 [Navštívit Lovable.dev →](https://lovable.dev)Lovable.dev se specializuje na rychlé vytváření webových aplikací pomocí AI. Platforma umožňuje vývoj responsive designu, implementaci komplexních funkcionalit a integraci s moderními frameworky. Ideální pro rychlé prototypování a MVP vývoj.## Nejnovější funkce a články{% assign lovable_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/lovable-dev/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in lovable_posts %}  {{ post.title }}      {{ post.content }}        {{ post.date | date: &quot;%d. %m. %Y&quot; }}  {% endfor %}{% if lovable_posts.size == 0 %}Zatím zde nejsou žádné články. Sledujte novinky!{% endif %} "
+    }
+    
+  
+    
+    ,{
+      "title"    : "OpenAI Codex - Vibe Coding",
+      "url"      : "//vibecoding/openai-codex/",
+      "category" : "stránka",
+      "content"  : "# 🟢 OpenAI Codex**Revolučný AI model pro generování a porozumění kódu od OpenAI**🔗 [Navštívit OpenAI →](https://openai.com)OpenAI Codex je pokročilý jazykový model specializovaný na programování. Je základem pro GitHub Copilot a další vývojářské nástroje. Codex rozumí desítkám programovacích jazyků a dokáže generovat kód z přirozeného jazyka, překládat mezi jazyky a vysvětlovat složité algoritmy.## Nejnovější funkce a články{% assign codex_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/openai-codex/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in codex_posts %} {{ post.title }} {{ post.content }} {{ post.date | date: &quot;%d. %m. %Y&quot; }} {% endfor %}{% if codex_posts.size == 0 %}Zatím zde..."
+    }
+    
+  
+    
+    ,{
+      "title"    : "Tempolabs - Vibe Coding",
+      "url"      : "//vibecoding/tempolabs/",
+      "category" : "stránka",
+      "content"  : "# ⚡ Tempolabs**Rychlý AI nástroj pro prototypování a vývoj aplikací**🔗 [Navštívit Tempolabs →](https://www.tempolabs.ai)Tempolabs se zaměřuje na extrémně rychlý vývoj aplikací pomocí AI. Platforma umožňuje převést nápad na funkční prototyp během minut, podporuje deployment do cloudu a automatizuje mnoho vývojových procesů.## Nejnovější funkce a články{% assign tempolabs_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/tempolabs/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in tempolabs_posts %}  {{ post.title }}      {{ post.content }}        {{ post.date | date: &quot;%d. %m. %Y&quot; }}  {% endfor %}{% if tempolabs_posts.size == 0 %}Zatím zde nejsou žádné články. Sledujte novinky!{% endif %} "
+    }
+    
+  
+    
+    ,{
+      "title"    : "Windsurf - Vibe Coding",
+      "url"      : "//vibecoding/windsurf/",
+      "category" : "stránka",
+      "content"  : "# 🌊 Windsurf**Inteligentní IDE s pokročilými AI funkcemi pro vývoj**🔗 [Navštívit Windsurf →](https://codeium.com/windsurf)Windsurf od Codeium je pokročilé vývojové prostředí s integrovanou umělou inteligencí. Nabízí kontextové navrhování kódu, automatické refactoring, inteligentní ladění a seamless spolupráci s AI asistentem přímo v editoru.## 📋 Základní informace### Co je Windsurf?Windsurf je moderní IDE postavené na VS Code architektuře, ale s významně rozšířenými AI funkcemi. Byl vyvinut společností Codeium specificky pro éru AI-driven development. Na rozdíl od tradičních editorů s AI pluginy je AI integrovaná přímo do jádra aplikace.### Klíčové vlastnosti:- **AI-native design** - navržen od základu pro práci s AI- **Multimodální AI** - rozumí..."
+    }
+    
+  
+    
+    ,{
+      "title"    : "Vibe Coding",
+      "url"      : "//vibecoding/",
+      "category" : "stránka",
+      "content"  : "# Vibe Coding - AI nástroje pro programováníPřehled nejmodernějších AI nástrojů a služeb pro vibe coding a programování s pomocí umělé inteligence.## 🛠️ Služby a nástroje 🔴 Databutton AI-powered platforma pro vytváření aplikací a analytických nástrojů bez kódování 🟣 Claude Code Pokročilý AI asistent pro programování a analýzu kódu od Anthropic 🟢 OpenAI Codex Revolučný AI model pro generování a porozumění kódu od OpenAI 💖 Lovable.dev AI nástroj pro rychlý vývoj moderních webových aplikací 🌊 Windsurf Inteligentní IDE s pokročilými AI funkcemi pro vývoj ⚡ Tempolabs Rychlý AI nástroj pro prototypování a vývoj aplikací ## 📰 Nejnovější články{% assign vibecoding_posts..."
+    }
+    
+  
+    
   
     
   
@@ -27176,6 +27239,52 @@
       
     
   
+    
+  
+    
+      
+      ,{
+        "title"    : "Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty",
+        "url"      : "//vibecoding/tempolabs-instant-deploy/",
+        "category" : "vibecoding",
+        "content"  : "Tempolabs vydal revolucionární funkci Instant Deploy, která umožňuje nasadit aplikace do produkce během několika minut po jejich vytvoření.Co je Instant Deploy?Instant Deploy je plně automatizovaný systém, který: Automaticky konfiguruje infrastrukturu - žádné ruční nastavování serverů Optimalizuje výkon - automaticky vybírá nejlepší konfiguraci pro vaši aplikaci Zajišťuje bezpečnost - implementuje security best practices od začátku Monitoruje aplikaci - poskytuje real-time metriky a alertyJak to funguje:1. Vytvoření aplikace&quot;Vytvoř mi e-shop s košíkem a platbami&quot;2. Automatické nasazení Tempolabs automaticky vygeneruje kód Nastaví databázi a backend infrastrukturu Konfiguruje CDN a load balancing Nasadí aplikaci na globální síť serverů3. Live aplikace Vaše aplikace je okamžitě..."
+      }
+      
+      ,{
+        "title"    : "Windsurf přidává pokročilého AI asistenta přímo do editoru",
+        "url"      : "//vibecoding/windsurf-ai-assistant/",
+        "category" : "vibecoding",
+        "content"  : "Nejnovější aktualizace Windsurf IDE přináší revoluci ve formě integrovaného AI asistenta, který pracuje přímo v editoru a poskytuje kontextovou pomoc během programování.Hlavní funkce AI asistenta:Inteligentní code completion Kontextové navrhování - asistent rozumí celému projektu, nejen aktuálnímu souboru Multi-jazyková podpora - funguje s Python, JavaScript, TypeScript, Rust, Go a dalšími Rychlé refactoring - navrhuje vylepšení kódu v reálném časeConversational programming Chat rozhraní - můžete se AI asistenta ptát na cokoliv týkající se vašeho kódu Explain code - asistent vysvětluje složité části kódu přirozeným jazykem Generate tests - automaticky vytváří unit testy pro vaše funkceDebugging assistance Error explanation - vysvětluje chybové hlášky..."
+      }
+      
+      ,{
+        "title"    : "Claude Code vylepšuje debugging - nové možnosti",
+        "url"      : "//vibecoding/claude-debugging/",
+        "category" : "vibecoding",
+        "content"  : "Claude Code představil nové funkce pro ladění kódu, které výrazně zlepšují vývojářský zážitek. Nové nástroje umožňují rychlejší identifikaci a opravu chyb.Nové funkce pro debugging:Automatická detekce chyb Statická analýza - Claude nyní automaticky skenuje kód a identifikuje potenciální problémy Kontextová doporučení - navrhuje konkrétní opravy založené na kontextu kódu Performance analýza - upozorňuje na části kódu, které mohou způsobovat problémy s výkonemVylepšené error handling Inteligentní stack trace - Claude automaticky interpretuje error zprávu a navrhuje řešení Exception patterns - rozpoznává běžné vzory chyb a poskytuje osvědčené postupy jejich řešeníKrokování kódu Virtuální debugger - umožňuje simulovat běh kódu krok za krokem Proměnné..."
+      }
+      
+      ,{
+        "title"    : "Kanban Board Integration - Integrovaný Kanban board pro správu úkolů",
+        "url"      : "//vibecoding/nova-funkce-databutton/",
+        "category" : "vibecoding",
+        "content"  : "Databutton přidal novou funkci Kanban boardu, která funguje jako vestavěný nástroj pro správu úkolů přímo v platformě. Tento board umožňuje uživatelům organizovat úkoly podobně jako v nástrojích typu Jira, přičemž AI agent automaticky generuje a aktualizuje úkoly na základě popisu projektu. Uživatelé mohou přidávat, upravovat a sledovat úkoly v reálném čase, přičemž AI navrhuje optimalizace pracovního postupu.Tato funkce je ideální pro týmy nebo jednotlivce, kteří vyvíjejí aplikace a potřebují efektivně spravovat projekty. Například při vývoji MVP (Minimum Viable Product) lze Kanban board použít k plánování funkcí, sledování pokroku a řešení chyb. Funkce je užitečná zejména pro startupy a podnikatele, kteří..."
+      }
+      
+      ,{
+        "title"    : "AI-Driven UI Glitch Correction - Oprava chyb uživatelského rozhraní pomocí AI",
+        "url"      : "//vibecoding/oprava-ui/",
+        "category" : "vibecoding",
+        "content"  : "Nová funkce umožňuje uživatelům nahrát screenshoty nebo popisy problémů s uživatelským rozhraním (UI) a AI agent Databutton automaticky analyzuje a opravuje chyby, jako jsou nesprávné zarovnání, nefunkční tlačítka nebo nekonzistentní design. AI navrhuje úpravy a generuje potřebný kód pro React UI, který lze okamžitě aplikovat.Tato funkce je neocenitelná pro vývojáře i nevývojáře, kteří chtějí rychle vyladit vzhled a funkčnost svých aplikací. Například podnikatel bez technických znalostí může nahrát screenshot chybného rozvržení a AI navrhne a implementuje opravu. Funkce je také užitečná pro rychlé prototypování, kdy je třeba rychle opravit vizuální nedostatky před spuštěním aplikace.AI agent využívá počítačové vidění k analýze..."
+      }
+      
+      ,{
+        "title"    : " Custom Domain Deployment Enhancements - Vylepšené nasazení na vlastní domény",
+        "url"      : "//vibecoding/custom-domain/",
+        "category" : "vibecoding",
+        "content"  : "Databutton vylepšil svůj proces nasazení aplikací, který nyní umožňuje snadnější a rychlejší připojení k vlastním doménám. Uživatelé mohou nasadit své aplikace na domény typu [username].databutton.app/[appname] nebo na zcela vlastní domény s jedním kliknutím. Nová funkce také zahrnuje automatickou konfiguraci SSL certifikátů pro zajištění bezpečnosti.Tato funkce je ideální pro podnikatele a firmy, které chtějí spustit profesionální aplikace pod vlastní značkou. Například startup může nasadit svou SaaS aplikaci na vlastní doménu bez potřeby manuální konfigurace serveru. Funkce je také užitečná pro rychlé testování aplikací na veřejných URL před finálním nasazením.Proces nasazení je plně automatizovaný a zahrnuje integraci s poskytovateli domén, jako jsou..."
+      }
+      
     
   
 ]
