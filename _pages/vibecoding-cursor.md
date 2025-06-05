@@ -169,7 +169,7 @@ Cursor tým plánuje:
   </div>
 </div>
 
----
+<hr>
 
 <h2>📰 Články a novinky</h2>
 

@@ -36,7 +36,7 @@ Pro mne je zajímavá jak dobře zvládnutým plánovám, tak tím, že jde o pr
   </div>
 </div>
 
----
+<hr>
 
 <h2>📰 Články a novinky</h2>
 

@@ -49,7 +49,7 @@ Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje p
   </div>
 </div>
 
----
+<hr>
 
 <h2>📰 Články a novinky</h2>
 

@@ -46,7 +46,7 @@ Model vyniká v překládání přirozeného jazyka do kódu, automatickém dopl
   </div>
 </div>
 
----
+<hr>
 
 <h2>📰 Články a novinky</h2>
 

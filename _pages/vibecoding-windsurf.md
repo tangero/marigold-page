@@ -118,7 +118,7 @@ Codeium plánuje pro Windsurf:
   </div>
 </div>
 
----
+<hr>
 
 <h2>📰 Články a novinky</h2>
 

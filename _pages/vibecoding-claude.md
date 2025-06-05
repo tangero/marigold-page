@@ -8,7 +8,7 @@ permalink: /vibecoding/claude/
 
 **Pokročilý AI asistent pro programování od Anthropic**
 
-🔗 [Navštívit Claude →](https://claude.ai)
+🔗 [Navštívit Claude Code →](https://www.anthropic.com/claude-code)
 
 Claude Code je specializovaná verze AI asistenta Claude zaměřená na programování a vývoj softwaru. Vyniká v pochopení kontextu, refactoringu, debugging a vysvětlování složitých algoritmů.
 
@@ -43,7 +43,7 @@ Na rozdíl od jiných AI programovacích nástrojů klade důraz na bezpečnost,
   </div>
 </div>
 
----
+<hr>
 
 <h2>📰 Články a novinky</h2>
 
