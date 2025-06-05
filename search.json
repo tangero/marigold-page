@@ -26222,7 +26222,7 @@
       "title"    : "OpenAI Codex - Vibe Coding",
       "url"      : "//vibecoding/codex/",
       "category" : "stránka",
-      "content"  : "# 🧠 OpenAI Codex**Pokročilý AI model pro generování a porozumění kódu**🔗 [Navštívit OpenAI →](https://openai.com/codex)OpenAI Codex je AI model specializovaný na programování, který stojí za GitHub Copilot. Byl natrénován na velkém množství kódu z veřejných repozitářů a dokáže generovat kód v desítkách programovacích jazyků.Model vyniká v překládání přirozeného jazyka do kódu, automatickém doplňování, refactoringu a vysvětlování složitých algoritmů. Je základem mnoha moderních AI programovacích nástrojů. 📋 Detailní informace o OpenAI Codex ### Klíčové vlastnosti:- **Multi-language support** - přes 20 programovacích jazyků- **Natural language to code** - překlad popisů do fungujícího kódu- **Code completion** - inteligentní automatické dokončování- **Code explanation** - vysvětlení..."
+      "content"  : "# 🧠 OpenAI Codex**Pokročilý AI model pro generování a porozumění kódu**🔗 [Navštívit OpenAI Codex →](https://openai.com/codex)OpenAI Codex je AI model specializovaný na programování, který stojí za GitHub Copilot. Byl natrénován na velkém množství kódu z veřejných repozitářů a dokáže generovat kód v desítkách programovacích jazyků.Model vyniká v překládání přirozeného jazyka do kódu, automatickém doplňování, refactoringu a vysvětlování složitých algoritmů. Je základem mnoha moderních AI programovacích nástrojů. 📋 Detailní informace o OpenAI Codex ### Klíčové vlastnosti:- **Multi-language support** - přes 20 programovacích jazyků- **Natural language to code** - překlad popisů do fungujícího kódu- **Code completion** - inteligentní automatické dokončování- **Code explanation** -..."
     }
     
   
@@ -26247,15 +26247,6 @@
     
     ,{
       "title"    : "Lovable.dev - Vibe Coding",
-      "url"      : "//vibecoding/lovable-dev/",
-      "category" : "stránka",
-      "content"  : "# 💖 Lovable.dev**AI nástroj pro rychlý vývoj moderních webových aplikací**🔗 [Navštívit Lovable.dev →](https://lovable.dev)Lovable.dev se specializuje na rychlé vytváření webových aplikací pomocí AI. Platforma umožňuje vývoj responsive designu, implementaci komplexních funkcionalit a integraci s moderními frameworky. Ideální pro rychlé prototypování a MVP vývoj.## Nejnovější funkce a články{% assign lovable_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/lovable-dev/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in lovable_posts %}      {{ post.date | date: &quot;%d. %m. %Y&quot; }} - {{ post.title }}      {{ post.content }}  {% endfor %}{% if lovable_posts.size == 0 %}Zatím zde nejsou žádné články. Sledujte novinky!{% endif %} "
-    }
-    
-  
-    
-    ,{
-      "title"    : "Lovable.dev - Vibe Coding",
       "url"      : "//vibecoding/lovable/",
       "category" : "stránka",
       "content"  : "# 💖 Lovable.dev**AI-powered platforma pro rychlé vytváření full-stack webových aplikací**🔗 [Navštívit Lovable.dev →](https://lovable.dev)Lovable.dev umožňuje vytvářet kompletní webové aplikace pomocí přirozeného jazyka. Platforma automaticky generuje frontend, backend i databázové schéma na základě textového popisu požadavků.Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje pokročilé AI nástroje pro automatizaci celého vývojového procesu od návrhu po deployment. Ideální pro rychlé prototypování a MVP vývoj. 📋 Detailní informace o Lovable.dev ### Klíčové vlastnosti:- **Full-stack generování** - kompletní aplikace z popisu- **Modern stack** - React, Node.js, PostgreSQL, TypeScript- **AI-driven design** - automatický návrh UI/UX- **Real-time preview** - okamžité zobrazení změn- **One-click deploy** -..."
@@ -26264,19 +26255,10 @@
   
     
     ,{
-      "title"    : "OpenAI Codex - Vibe Coding",
-      "url"      : "//vibecoding/openai-codex/",
-      "category" : "stránka",
-      "content"  : "# 🟢 OpenAI Codex**Revolučný AI model pro generování a porozumění kódu od OpenAI**🔗 [Navštívit OpenAI →](https://openai.com)OpenAI Codex je pokročilý jazykový model specializovaný na programování. Je základem pro GitHub Copilot a další vývojářské nástroje. Codex rozumí desítkám programovacích jazyků a dokáže generovat kód z přirozeného jazyka, překládat mezi jazyky a vysvětlovat složité algoritmy.## Nejnovější funkce a články{% assign codex_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/openai-codex/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in codex_posts %} {{ post.date | date: &quot;%d. %m. %Y&quot; }} - {{ post.title }} {{ post.content }} {% endfor %}{% if codex_posts.size == 0 %}Zatím..."
-    }
-    
-  
-    
-    ,{
       "title"    : "Tempolabs - Vibe Coding",
       "url"      : "//vibecoding/tempolabs/",
       "category" : "stránka",
-      "content"  : "# ⚡ Tempolabs**Rychlý AI nástroj pro prototypování a vývoj aplikací**🔗 [Navštívit Tempolabs →](https://www.tempolabs.ai)Tempolabs se zaměřuje na extrémně rychlý vývoj aplikací pomocí AI. Platforma umožňuje převést nápad na funkční prototyp během minut, podporuje deployment do cloudu a automatizuje mnoho vývojových procesů.## Nejnovější funkce a články{% assign tempolabs_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;/tempolabs/&#39;&quot; | sort: &quot;date&quot; | reverse %}{% for post in tempolabs_posts %}      {{ post.date | date: &quot;%d. %m. %Y&quot; }} - {{ post.title }}      {{ post.content }}  {% endfor %}{% if tempolabs_posts.size == 0 %}Zatím zde nejsou žádné články. Sledujte novinky!{% endif %} "
+      "content"  : "# ⚡ Tempolabs**Rychlý AI nástroj pro prototypování a vývoj aplikací**🔗 [Navštívit Tempolabs →](https://www.tempolabs.ai)Tempolabs se zaměřuje na extrémně rychlý vývoj aplikací pomocí AI. Platforma umožňuje převést nápad na funkční prototyp během minut, podporuje deployment do cloudu a automatizuje mnoho vývojových procesů. 📋 Detailní informace o Tempolabs ## 📋 Základní informace### Co je Tempolabs?Tempolabs je AI-powered platforma zaměřená na extrémně rychlý vývoj aplikací. Na rozdíl od tradičních vývojových prostředí dokáže převést textový popis do funkční aplikace během minut. Specializuje se na rapid prototypování a automatický deployment.### Klíčové vlastnosti:- **Instant Development** - od nápadu k aplikaci za minuty- **AI-powered coding** - automatické generování..."
     }
     
   
