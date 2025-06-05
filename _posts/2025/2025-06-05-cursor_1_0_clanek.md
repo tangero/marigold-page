@@ -8,7 +8,7 @@ categories:
 layout: post
 sw: cursor
 post_excerpt: Nejnovější verze nástroje pro AI programování je jedničkovou verzí. Za více než rok vývoje se od forku VS Code změnilo mnohé, firmě to vyneslo desetimiliardové ohodnocení. Jaké jsou tedy novinky? 
-thumbnail: null
+thumbnail: https://www.marigold.cz/assets/cursor-1.jpeg
 title: "Cursor 1.0: Nové funkce pro AI programování / vibecoding"
 ---
 
