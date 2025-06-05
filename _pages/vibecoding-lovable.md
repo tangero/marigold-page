@@ -51,7 +51,7 @@ Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje p
 
 ---
 
-## 📰 Články a novinky
+<h2>📰 Články a novinky</h2>
 
 {% assign folder_posts = site.vibecoding | where_exp: "post", "post.path contains '/lovable/'" %}
 {% assign main_posts = site.posts | where: "sw", "lovable" %}

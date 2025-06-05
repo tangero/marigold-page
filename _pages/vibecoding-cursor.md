@@ -171,7 +171,7 @@ Cursor tým plánuje:
 
 ---
 
-## 📰 Články a novinky
+<h2>📰 Články a novinky</h2>
 
 {% assign folder_posts = site.vibecoding | where_exp: "post", "post.path contains '/cursor/'" %}
 {% assign main_posts = site.posts | where: "sw", "cursor" %}

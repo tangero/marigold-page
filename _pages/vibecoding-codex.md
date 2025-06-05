@@ -8,7 +8,7 @@ permalink: /vibecoding/codex/
 
 **Pokročilý AI model pro generování a porozumění kódu**
 
-🔗 [Navštívit OpenAI →](https://openai.com/codex)
+🔗 [Navštívit OpenAI Codex →](https://openai.com/codex)
 
 OpenAI Codex je AI model specializovaný na programování, který stojí za GitHub Copilot. Byl natrénován na velkém množství kódu z veřejných repozitářů a dokáže generovat kód v desítkách programovacích jazyků.
 
@@ -48,7 +48,7 @@ Model vyniká v překládání přirozeného jazyka do kódu, automatickém dopl
 
 ---
 
-## 📰 Články a novinky
+<h2>📰 Články a novinky</h2>
 
 {% assign folder_posts = site.vibecoding | where_exp: "post", "post.path contains '/codex/'" %}
 {% assign main_posts = site.posts | where: "sw", "codex" %}
