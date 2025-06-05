@@ -31,3 +31,5 @@ _data/generate_local_summaries.py
 keyword_manager.rb
 .env
 .env
+/chatterbox_env
+_audio/2025-05-25-microsoft-build-2025.mp3

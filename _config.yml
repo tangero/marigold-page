@@ -64,6 +64,9 @@ collections:
   ai:
     output: true
     permalink: /ai/:title/
+  vibecoding:
+    output: true
+    permalink: /vibecoding/:title/
   mobilnisite:
     output: true
     permalink: /mobilnisite/:title/
