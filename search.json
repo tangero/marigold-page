@@ -27361,6 +27361,34 @@
         "content"  : "Memex integruje nové AI modely. Firma se se zaměřuje na 2–3 nejlepší modely SOTA v daném okamžiku, protože podle nich právě ty přinášejí nejlepší výsledky při kódování a složitých úkolech. Nyní Memex rozšiřuje svou nabídku modelů a umožňuje uživatelům vyzkoušet dva zbrusu nové modely z jediného rozhraní. Další novinkou jsou MCP šablony.Claude Sonnet 4: nový základní modelClaude Sonnet 4 je nyní výchozím modelem pohánějícím Memex. Byl vydán tento týden společností Anthropic a představuje významný pokrok v oblasti kódování a sledování pokynů.Zvláště vyniká v oblastech, jako je editace souborů, kde je jeho přesnost pozoruhodná, a v úkolech souvisejících s designem, kde..."
       }
       
+      ,{
+        "title"    : "Codex pomáhá s aktualizací pull requestů",
+        "url"      : "//vibecoding/aktualizace-pull-requestu/",
+        "category" : "vibecoding",
+        "content"  : "Codex nyní může pomáhat s aktualizací pull requestů (PRs). Toto pravděpodobně znamená, že Codex může generovat aktualizace pro PRs na základě zpětné vazby, řešit konflikty nebo navrhovat vylepšení kódu. Funkce je užitečná pro zjednodušení procesu správy pull requestů, což usnadňuje spolupráci a zlepšování příspěvků kódu v týmech.Podobné funkce mohou být k dispozici v jiných nástrojích, jako jsou GitHub nebo GitLab, které nabízejí automatizované návrhy nebo revize kódu, ale integrace s generováním kódu Codexem může poskytovat plynulejší zkušenost díky jeho schopnosti rozumět přirozenému jazyku. Limity: efektivita funkce závisí na složitosti pull requestů a na kvalitě výcvikových dat Codexu, což může omezit..."
+      }
+      
+      ,{
+        "title"    : "Codex přidává podporu hlasového diktátu",
+        "url"      : "//vibecoding/diktat-hlasem/",
+        "category" : "vibecoding",
+        "content"  : "Uživatelé nyní mohou používat hlasový vstup s Codexem. Toto umožňuje diktovat úkoly týkající se programování nebo popisy, které Codex následně převede na kód. Funkce je užitečná pro zlepšení přístupnosti a poskytování hands-free interakce s asistenčním programem, což může být prospěšné pro uživatele s postižením nebo pro multitasking.Hlasový vstup pro programování není běžný mezi AI asistenty, což činí tuto funkci potenciálně unikátní. Některé IDE nebo hlasoví asistenti mohou nabízet podobné funkce, ale jejich integrace s AI pro generování kódu je méně častá. Limity: přesnost rozpoznávání hlasu může být ovlivněna kvalitou mikrofonu, hlukem v prostředí nebo omezenou podporou jazyků. Klidné prostředí je..."
+      }
+      
+      ,{
+        "title"    : "Codex získává internetový přístup",
+        "url"      : "//vibecoding/internetovy-pristup/",
+        "category" : "vibecoding",
+        "content"  : "Codex nyní může během vykonávání úkolů přistupovat k internetu. Uživatelé mohou povolit internetový přístup pro Codex, aby mohl provádět úkoly jako instalace závislostí, spouštění testů vyžadujících externí zdroje, aktualizace nebo instalace balíčků potřebných pro vývoj nových funkcí. Uživatelé mají kontrolu nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost.Tato funkce je užitečná pro automatizaci složitých vývojářských úkolů vyžadujících internetový přístup, čímž ušetří čas a úsilí vývojářů. Unikátnost může spočívat v detailní kontrole nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost a flexibilitu.Internetový přístup je vypnutý výchozí a musí být explicitně povolen; uživatelé musí nakonfigurovat povolené domény a metody, což..."
+      }
+      
+      ,{
+        "title"    : "Codex dostupný v rámci předplatitného ChatGPT Plus",
+        "url"      : "//vibecoding/pristup-pro-plus-uzivatele/",
+        "category" : "vibecoding",
+        "content"  : "Codex je nyní dostupný v rámci předplatitného ChatGPT Plus. Tato funkce umožňuje placeným uživatelům ChatGPT využívat Codex pro asistenci při programování, například generování kódu z přirozeného jazyka nebo doplňování kódu. Je užitečná pro širší spektrum vývojářů, kteří tak mohou zvýšit svou produktivitu díky pokročilým AI nástrojům.Unikátnost spočívá v kombinaci konverzačního AI ChatGPT s asistenčním programováním Codexu, což může být atraktivní pro uživatele hledající komplexní nástroj. Podobné nástroje, jako Claude Code nebo Cursor, nabízejí asistenci při programování, ale jejich integrace s konverzačním AI nemusí být tak těsná.Limity: přístup je omezen na předplatitele ChatGPT Plus, bezplatní uživatelé nemají přístup. Při vysoké poptávce..."
+      }
+      
     
   
 ]
