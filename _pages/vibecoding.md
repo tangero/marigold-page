@@ -45,6 +45,11 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
     <h3><a href="/vibecoding/tempolabs/">⚡ Tempolabs</a></h3>
     <p>Rychlý webový AI nástroj pro prototypování a vývoj aplikací</p>
   </div>
+  
+  <div class="service-card">
+    <h3><a href="/vibecoding/memex/">🧠 Memex</a></h3>
+    <p>Desktop aplikace pro vývoj software, velmi autonomní a za dobré peníze</p>
+  </div>
 </div>
 
 ## 📰 Nejnovější články
