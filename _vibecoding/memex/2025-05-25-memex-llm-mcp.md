@@ -2,7 +2,6 @@
 layout: post
 title: "Memex integruje nová LLM a šablony MCP"
 date: 2025-05-25
-thumbnail: "/assets/images/memex-scraping.png
 ---
 
 
@@ -39,9 +38,9 @@ Model Context Protocol představuje významný krok směrem k rozšiřitelnějš
 
 ## Dostupné šablony
 
-1.  [**_Vytvořte a nasadíte server MCP s Netlify_**](https://memex.tech/templates/build-and-deploy-an-mcp-server-with-netlify?utm_source=aswemaythink.beehiiv.com&utm_medium=referral&utm_campaign=introducing-claude-4-gemini-2-5-and-mcp-templates): Tato šablona poskytuje minimální server MCP bez serveru, který lze snadno nasadit do Netlify. Obsahuje základní nástroj „spustit analýzu zprávy" a zdroj s dokumentací k interpretaci zpráv. Je to skvělý výchozí bod pro pochopení základů MCP a rychlé nasazení jednoduchých nástrojů.
-2.  [**_Cloudflare MCP Boilerplate_**](https://memex.tech/templates/cloudflare-mcp?utm_source=aswemaythink.beehiiv.com&utm_medium=referral&utm_campaign=introducing-claude-4-gemini-2-5-and-mcp-templates): Pro pokročilejší použití nabízí tato šablona robustní server MCP navržený pro Cloudflare. Je vybaven vestavěným ověřováním uživatelů (Google/GitHub) a integrací Stripe, což umožňuje vytvářet a zpeněžovat nástroje MCP pomocí jednorázových, předplatných nebo měřených plateb.
-3.  [**_Streamable HTTP MCP Server_**](https://memex.tech/templates/mcp-server-streamable-http?utm_source=aswemaythink.beehiiv.com&utm_medium=referral&utm_campaign=introducing-claude-4-gemini-2-5-and-mcp-templates): Tato šablona poskytuje implementaci FastMCP 2.0 pomocí protokolu Streamable HTTP, navrženého pro nasazení na Render. Je vhodná pro vytvoření složitějších serverů MCP, které vyžadují trvalé ukládání dat, a díky použití Streamable HTTP je vhodná pro nástroje, které mohou těžit z připojení k cloudovým API.
+1.  [**_Vytvořte a nasadíte server MCP s Netlify_**](https://memex.tech/templates/build-and-deploy-an-mcp-server-with-netlify): Tato šablona poskytuje minimální server MCP bez serveru, který lze snadno nasadit do Netlify. Obsahuje základní nástroj „spustit analýzu zprávy" a zdroj s dokumentací k interpretaci zpráv. Je to skvělý výchozí bod pro pochopení základů MCP a rychlé nasazení jednoduchých nástrojů.
+2.  [**_Cloudflare MCP Boilerplate_**](https://memex.tech/templates/cloudflare-mcp): Pro pokročilejší použití nabízí tato šablona robustní server MCP navržený pro Cloudflare. Je vybaven vestavěným ověřováním uživatelů (Google/GitHub) a integrací Stripe, což umožňuje vytvářet a zpeněžovat nástroje MCP pomocí jednorázových, předplatných nebo měřených plateb.
+3.  [**_Streamable HTTP MCP Server_**](https://memex.tech/templates/mcp-server-streamable-http): Tato šablona poskytuje implementaci FastMCP 2.0 pomocí protokolu Streamable HTTP, navrženého pro nasazení na Render. Je vhodná pro vytvoření složitějších serverů MCP, které vyžadují trvalé ukládání dat, a díky použití Streamable HTTP je vhodná pro nástroje, které mohou těžit z připojení k cloudovým API.
 
 ## Další funkce MCP jsou v přípravě
 
