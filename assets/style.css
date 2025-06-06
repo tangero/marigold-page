@@ -299,6 +299,28 @@ nav a {
   }
 }
 
+.posts {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+.posts .post {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+.posts .post .entry {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid #eee;
