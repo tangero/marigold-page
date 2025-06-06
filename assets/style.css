@@ -312,6 +312,25 @@ nav a {
 .post {
   margin-bottom: 30px;
   clear: both;
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+}
+.post blockquote {
+  margin: 1.8em 0.8em;
+  border-left: 2px solid #666;
+  padding: 0.1em 1em;
+  color: #666;
+  font-size: 22px;
+  font-style: italic;
+}
+.post .comments {
+  margin-top: 10px;
+}
+.post .read-more {
+  text-transform: uppercase;
+  font-size: 15px;
 }
 
 .post-content {
@@ -347,16 +366,6 @@ nav a {
     max-width: 100%;
   }
 }
-.post blockquote {
-  margin: 1.8em 0.8em;
-  padding: 0.1em 1em;
-  color: #666;
-  font-size: 16px;
-  background-color: #f2f0ea;
-  border-radius: 10px;
-  border-left: 4px solid #666;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-}
 .post .you-may-like {
   margin: 1.8em 0.8em;
   padding: 0.1em 1em;
@@ -364,13 +373,6 @@ nav a {
   font-size: 22px;
   font-style: italic;
   background-color: #ddffb5;
-}
-.post .comments {
-  margin-top: 10px;
-}
-.post .read-more {
-  text-transform: uppercase;
-  font-size: 15px;
 }
 
 .wrapper-container {
