@@ -272,6 +272,28 @@ nav {
 .post {
   margin-bottom: 30px;
   clear: both;
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+
+  blockquote {
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 22px;
+    font-style: italic;
+  }
+
+  .comments {
+    margin-top: 10px;
+  }
+
+  .read-more {
+    text-transform: uppercase;
+    font-size: 15px;
+  }
 }
 
 .post-content {
@@ -310,17 +332,6 @@ nav {
 }
 
 .post {
-  blockquote {
-    margin: 1.8em .8em;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 16px;
-    background-color: #f2f0ea;
-    border-radius: 10px;
-    border-left: 4px solid $gray;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  }
-
   .you-may-like{
     margin: 1.8em .8em;
     padding: 0.1em 1em;
@@ -328,15 +339,6 @@ nav {
     font-size: 22px;
     font-style: italic;
     background-color: #ddffb5;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
   }
 }
 
