@@ -26246,6 +26246,15 @@
   
     
     ,{
+      "title"    : "Memex - Vibe Coding",
+      "url"      : "//vibecoding/memex/",
+      "category" : "stránka",
+      "content"  : "# 🧠 Memex**AI-powered platformu pro tvorbu aplikací s autonomním řešením problémů v přirozeném jazyce**🔗 [Navštívit Memex →](https://memex.tech)Memex je pokročilá AI platforma, která umožňuje vyvíjet, nasazovat a spravovat aplikace výhradně pomocí přirozeného jazyka. Na rozdíl od tradičních vývojových prostředí Memex píše kód, provádí příkazy a iterativně řeší problémy autonomně.Platforma běží na desktopu a umožňuje vytvářet aplikace za méně než 5 minut, autonomně prohledává web a bezproblémově se integruje s vaší pracovní stanicí. Memex představuje obecnou Level 3 autonomii pro engineering. 📋 Detailní informace o Memex ## 📋 Základní informace### Co je Memex?Memex je AI-powered platforma pro autonomní vývoj aplikací, která funguje..."
+    }
+    
+  
+    
+    ,{
       "title"    : "Tempolabs - Vibe Coding",
       "url"      : "//vibecoding/tempolabs/",
       "category" : "stránka",
@@ -27304,6 +27313,13 @@
       }
       
       ,{
+        "title"    : "Memex Hardware Design: AI-powered CAD/CAM pro každého",
+        "url"      : "//vibecoding/memex-hardware-design/",
+        "category" : "vibecoding",
+        "content"  : "Memex je AI nástroj pro stolní počítače, který umožňuje vytvářet také jednoduché 3D návrhy pomocí přirozeného jazyka. Namísto učení se složitému CAD softwaru popíšete, co chcete vytvořit, a Memex vygeneruje kód pro jeho vytvoření. Tento přístup funguje nejlépe pro jednoduché návrhy, jako jsou hračky, držáky, úchyty a organizéry, které nevyžadují složité sestavy nebo organické tvary.Co se naučíte✓ Jak vám Memex pomáhá vytvářet jednoduché 3D návrhy pomocí generování kódu✓ Typy 3D návrhů, které dobře fungují s programováním v přirozeném jazyce✓ Používání OpenSCAD a dalších nástrojů pro 3D návrh založených na kódu✓ Příprava návrhů pro 3D tisk✓ Omezení a budoucí potenciál převodu..."
+      }
+      
+      ,{
         "title"    : "Kanban Board Integration - Integrovaný Kanban board pro správu úkolů",
         "url"      : "//vibecoding/nova-funkce-databutton/",
         "category" : "vibecoding",
@@ -27328,7 +27344,7 @@
         "title"    : "Reakce na vydání Lovable 2.0",
         "url"      : "//vibecoding/lovable-2/",
         "category" : "vibecoding",
-        "content"  : "#Lovable 2.0, AI platforma pro full-stack vývoj, vyvolala značně polarizované reakce v tech komunitě. Zatímco obchodní komunita oceňuje rekordní růst na $17 milionů ARR za tři měsíce, technická komunita vyjadřuje vážné obavy ohledně bezpečnosti a kvality generovaného kódu. Platforma dosáhla i dalších pozoruhodných růstových metrik: 30 000 platících zákazníků, 85% first-month retention rate (vyšší než ChatGPT), a 500,000+ celkových uživatelů vytvářejících 25,000+ nových služeb denně.Platforma, původně známá jako GPT Engineer, se rebrandovala na Lovable v listopadu 2024 a nyní se prezentuje jako “první AI full-stack inženýr na světě”. Umožňuje vytváření funkčních webových aplikací pomocí přirozeného jazyka bez nutnosti programovacích znalostí,..."
+        "content"  : "Lovable 2.0, AI platforma pro full-stack vývoj, vyvolala značně polarizované reakce v tech komunitě. Zatímco obchodní komunita oceňuje rekordní růst na $17 milionů ARR za tři měsíce, technická komunita vyjadřuje vážné obavy ohledně bezpečnosti a kvality generovaného kódu. Platforma dosáhla i dalších pozoruhodných růstových metrik: 30 000 platících zákazníků, 85% first-month retention rate (vyšší než ChatGPT), a 500,000+ celkových uživatelů vytvářejících 25,000+ nových služeb denně.Platforma, původně známá jako GPT Engineer, se rebrandovala na Lovable v listopadu 2024 a nyní se prezentuje jako “první AI full-stack inženýr na světě”. Umožňuje vytváření funkčních webových aplikací pomocí přirozeného jazyka bez nutnosti programovacích znalostí,..."
       }
       
       ,{
@@ -27336,6 +27352,13 @@
         "url"      : "//vibecoding/custom-domain/",
         "category" : "vibecoding",
         "content"  : "Databutton vylepšil svůj proces nasazení aplikací, který nyní umožňuje snadnější a rychlejší připojení k vlastním doménám. Uživatelé mohou nasadit své aplikace na domény typu [username].databutton.app/[appname] nebo na zcela vlastní domény s jedním kliknutím. Nová funkce také zahrnuje automatickou konfiguraci SSL certifikátů pro zajištění bezpečnosti.Tato funkce je ideální pro podnikatele a firmy, které chtějí spustit profesionální aplikace pod vlastní značkou. Například startup může nasadit svou SaaS aplikaci na vlastní doménu bez potřeby manuální konfigurace serveru. Funkce je také užitečná pro rychlé testování aplikací na veřejných URL před finálním nasazením.Proces nasazení je plně automatizovaný a zahrnuje integraci s poskytovateli domén, jako jsou..."
+      }
+      
+      ,{
+        "title"    : "",
+        "url"      : "//vibecoding/2025-05-25-memex-llm-mcp/",
+        "category" : "vibecoding",
+        "content"  : "Memex integruje nové AI modely. Firma se se zaměřuje na 2–3 nejlepší modely SOTA v daném okamžiku, protože podle nich právě ty přinášejí nejlepší výsledky při kódování a složitých úkolech. Nyní Memex rozšiřuje svou nabídku modelů a umožňuje uživatelům vyzkoušet dva zbrusu nové modely z jediného rozhraní. Další novinkou jsou MCP šablony.Claude Sonnet 4: nový základní modelClaude Sonnet 4 je nyní výchozím modelem pohánějícím Memex. Byl vydán tento týden společností Anthropic a představuje významný pokrok v oblasti kódování a sledování pokynů.Zvláště vyniká v oblastech, jako je editace souborů, kde je jeho přesnost pozoruhodná, a v úkolech souvisejících s designem, kde..."
       }
       
     

@@ -1,0 +1,80 @@
+<p>Memex integruje nové AI modely. Firma se se zaměřuje na 2–3 nejlepší modely SOTA v daném okamžiku, protože podle nich právě ty přinášejí nejlepší výsledky při kódování a složitých úkolech. Nyní Memex rozšiřuje svou nabídku modelů a umožňuje uživatelům vyzkoušet dva zbrusu nové modely z jediného rozhraní. Další novinkou jsou MCP šablony.</p>
+
+<h2 id="claude-sonnet-4-nový-základní-model">Claude Sonnet 4: nový základní model</h2>
+
+<p>Claude Sonnet 4 je nyní výchozím modelem pohánějícím Memex. Byl vydán tento týden společností Anthropic a představuje významný pokrok v oblasti kódování a sledování pokynů.</p>
+
+<p>Zvláště vyniká v oblastech, jako je editace souborů, kde je jeho přesnost pozoruhodná, a v úkolech souvisejících s designem, kde nabízí esteticky příjemné a funkční návrhy uživatelského rozhraní. Pokud uživatelé pracují na front-endovém uživatelském rozhraní nebo potřebují generovat nuancovaný text, Claude Sonnet 4 je pro ně tou správnou volbou. Sonnet 4 také vyniká v udržování soustředěného úsilí v komplexních pracovních postupech.</p>
+
+<h2 id="gemini-25-pro-odemknutí-dlouhého-kontextu">Gemini 2.5 Pro: Odemknutí dlouhého kontextu</h2>
+
+<p>Gemini 2.5 Pro je nyní k dispozici jako součást beta režimu dlouhého kontextu v Memexu a nabízí kontextové okno o velikosti 1 MB s plánovaným rozšířením na 2 MB tokenů. Vývojáři zjistili, že Gemini je obzvláště silný v úkolech na systémové úrovni, ladění a kvantitativní práci.</p>
+
+<p>Rozšířené kontextové okno řeší základní výzvu, před kterou stojí AI asistenti pro kódování: udržování kontextu projektu v dlouhých konverzacích. Když uživatelé s Claudem narazí na omezení kontextu, mohou plynule přepnout na Gemini a pokračovat v práci.</p>
+
+<p>Interní testování Memexu ukazuje, že Gemini 2.5 Pro vyniká v následujících oblastech:</p>
+
+<ul>
+  <li>
+    <p>Složité scénáře ladění</p>
+  </li>
+  <li>
+    <p>Úkoly programování na systémové úrovni</p>
+  </li>
+  <li>
+    <p>Kvantitativní analýza a výpočetní logika</p>
+  </li>
+  <li>
+    <p>Dlouhé konverzace, které vyžadují zachování kontextu</p>
+  </li>
+</ul>
+
+<p>Pokud uživatelé narazí na tvrdohlavou chybu v jiném modelu, přechod na Gemini 2.5 Pro výrazně zvyšuje šance na rychlé řešení. Zatímco Claude vyniká v úpravách souborů, síla Gemini spočívá v generování sofistikovaných implementací, i když to někdy vyžaduje rychlou kontrolu syntaxe.</p>
+
+<h1 id="2-představení-šablon-mcp"><strong>2. Představení šablon MCP</strong></h1>
+
+<p>Model Context Protocol představuje významný krok směrem k rozšiřitelnějším systémům AI. Memex nyní začíná podporovat MCP se třemi šablonami a plánem pro úplnou integraci do klienta.</p>
+
+<h2 id="dostupné-šablony">Dostupné šablony</h2>
+
+<ol>
+  <li><a href="https://memex.tech/templates/build-and-deploy-an-mcp-server-with-netlify?utm_source=aswemaythink.beehiiv.com&amp;utm_medium=referral&amp;utm_campaign=introducing-claude-4-gemini-2-5-and-mcp-templates"><strong><em>Vytvořte a nasadíte server MCP s Netlify</em></strong></a>: Tato šablona poskytuje minimální server MCP bez serveru, který lze snadno nasadit do Netlify. Obsahuje základní nástroj „spustit analýzu zprávy” a zdroj s dokumentací k interpretaci zpráv. Je to skvělý výchozí bod pro pochopení základů MCP a rychlé nasazení jednoduchých nástrojů.</li>
+  <li><a href="https://memex.tech/templates/cloudflare-mcp?utm_source=aswemaythink.beehiiv.com&amp;utm_medium=referral&amp;utm_campaign=introducing-claude-4-gemini-2-5-and-mcp-templates"><strong><em>Cloudflare MCP Boilerplate</em></strong></a>: Pro pokročilejší použití nabízí tato šablona robustní server MCP navržený pro Cloudflare. Je vybaven vestavěným ověřováním uživatelů (Google/GitHub) a integrací Stripe, což umožňuje vytvářet a zpeněžovat nástroje MCP pomocí jednorázových, předplatných nebo měřených plateb.</li>
+  <li><a href="https://memex.tech/templates/mcp-server-streamable-http?utm_source=aswemaythink.beehiiv.com&amp;utm_medium=referral&amp;utm_campaign=introducing-claude-4-gemini-2-5-and-mcp-templates"><strong><em>Streamable HTTP MCP Server</em></strong></a>: Tato šablona poskytuje implementaci FastMCP 2.0 pomocí protokolu Streamable HTTP, navrženého pro nasazení na Render. Je vhodná pro vytvoření složitějších serverů MCP, které vyžadují trvalé ukládání dat, a díky použití Streamable HTTP je vhodná pro nástroje, které mohou těžit z připojení k cloudovým API.</li>
+</ol>
+
+<h2 id="další-funkce-mcp-jsou-v-přípravě">Další funkce MCP jsou v přípravě</h2>
+
+<p>Tyto šablony jsou jen začátek. Memex pracuje na tom, aby se stal plnohodnotným klientem MCP. To znamená, že uživatelé budou brzy moci:</p>
+
+<ul>
+  <li>
+    <p>Snadno se připojit k serverům MCP bez složitého nastavování.</p>
+  </li>
+  <li>
+    <p>Využít rostoucí svět nástrojů a zdrojů MCP.</p>
+  </li>
+  <li>
+    <p>Hladce vytvářet a sdílet vlastní integrace MCP.</p>
+  </li>
+</ul>
+
+<p>Tento přístup zvýší výkon a užitečnost Memexu a otevře uživatelům přístup k širší škále služeb a nástrojů.</p>
+
+<h1 id="co-to-znamená-pro-uživatele"><strong>Co to znamená pro uživatele</strong></h1>
+
+<p>Cílem těchto aktualizací je přinést výkonnější Memex:</p>
+
+<ul>
+  <li>
+    <p><strong>Lepší každodenní výkon</strong>: S jádrem Claude Sonnet 4 uživatelé uvidí zlepšení v kódování a v tom, jak dobře Memex plní pokyny pro každodenní úkoly.</p>
+  </li>
+  <li>
+    <p><strong>Zvládnutí větších projektů</strong>: Díky dlouhému kontextovému oknu Gemini 2.5 Pro mohou uživatelé nyní pracovat na větších a složitějších úkolech.</p>
+  </li>
+  <li>
+    <p><strong>Vytvoření vlastních rozšíření</strong>: Nové šablony MCP poskytují výchozí bod pro vytváření vlastních nástrojů a integrací.</p>
+  </li>
+</ul>
+
+<p>Kombinací špičkových modelů s otevřenými protokoly se Memex přibližuje k umělé inteligenci, která skutečně posílí možnosti uživatelů, ať už pracují na čemkoli.</p>
