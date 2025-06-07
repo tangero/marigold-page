@@ -54,7 +54,10 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
 
 ## 📰 Nejnovější články
 
-{% assign all_posts = site.vibecoding | sort: "date" | reverse %}
+{% assign vibecoding_posts = site.vibecoding | sort: "date" | reverse %}
+{% assign category_posts = site.posts | where_exp: "post", "post.categories contains 'vibecoding'" | sort: "date" | reverse %}
+{% assign all_posts = vibecoding_posts | concat: category_posts | sort: "date" | reverse %}
+
 {% for post in all_posts %}
   {% assign content_length = post.content | strip_html | size %}
   {% assign is_short = false %}
@@ -202,12 +205,14 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
 
 .article-read-more {
   display: inline-block;
-  color: #007acc;
+  color: #666;
   text-decoration: none;
   font-weight: 500;
+  transition: color 0.2s ease;
 }
 
 .article-read-more:hover {
+  color: #007acc;
   text-decoration: underline;
 }
 
