@@ -65,7 +65,60 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
     {% assign is_short = true %}
   {% endif %}
 
+  {% comment %} Získání názvu softwaru z URL nebo front matter {% endcomment %}
+  {% assign software_name = "" %}
+  {% if post.sw %}
+    {% case post.sw %}
+      {% when "databutton" %}
+        {% assign software_name = "Databutton" %}
+      {% when "claude-code" %}
+        {% assign software_name = "Claude Code" %}
+      {% when "openai-codex" %}
+        {% assign software_name = "OpenAI Codex" %}
+      {% when "cursor" %}
+        {% assign software_name = "Cursor" %}
+      {% when "lovable-dev" %}
+        {% assign software_name = "Lovable.dev" %}
+      {% when "windsurf" %}
+        {% assign software_name = "Windsurf" %}
+      {% when "tempolabs" %}
+        {% assign software_name = "Tempolabs" %}
+      {% when "memex" %}
+        {% assign software_name = "Memex" %}
+      {% else %}
+        {% assign software_name = post.sw | capitalize %}
+    {% endcase %}
+  {% else %}
+    {% assign path_parts = post.path | split: "/" %}
+    {% assign folder_name = path_parts[1] %}
+    {% case folder_name %}
+      {% when "databutton" %}
+        {% assign software_name = "Databutton" %}
+      {% when "claude-code" %}
+        {% assign software_name = "Claude Code" %}
+      {% when "openai-codex" %}
+        {% assign software_name = "OpenAI Codex" %}
+      {% when "cursor" %}
+        {% assign software_name = "Cursor" %}
+      {% when "lovable-dev" %}
+        {% assign software_name = "Lovable.dev" %}
+      {% when "windsurf" %}
+        {% assign software_name = "Windsurf" %}
+      {% when "tempolabs" %}
+        {% assign software_name = "Tempolabs" %}
+      {% when "memex" %}
+        {% assign software_name = "Memex" %}
+      {% else %}
+        {% assign software_name = folder_name | capitalize %}
+    {% endcase %}
+  {% endif %}
+
   <article class="vibecoding-article {% if is_short %}full-article{% else %}excerpt-article{% endif %}">
+    <div class="article-software">
+      <span class="software-name">{{ software_name }}</span>
+      <span class="article-date">{{ post.date | date: "%d. %m. %Y" }}</span>
+    </div>
+
     {% if post.thumbnail %}
       {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
       <div class="article-thumbnail">
@@ -77,7 +130,7 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
 
     <h3 class="article-title">
       <a href="{{ post.url | relative_url }}">
-        <span class="article-date">{{ post.date | date: "%d. %m. %Y" }}</span> - {{ post.title }}
+        {{ post.title }}
       </a>
     </h3>
 
@@ -205,15 +258,19 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
 
 .article-read-more {
   display: inline-block;
-  color: #666;
+  color: #999;
   text-decoration: none;
   font-weight: 500;
-  transition: color 0.2s ease;
+  transition: all 0.2s ease;
+  background-color: #f8f8f8;
+  padding: 4px 8px;
+  border-radius: 4px;
 }
 
 .article-read-more:hover {
-  color: #007acc;
-  text-decoration: underline;
+  color: #666;
+  background-color: #fff3cd;
+  text-decoration: none;
 }
 
 .article-separator {
@@ -232,6 +289,22 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
 .no-articles {
   text-align: center;
   padding: 40px 0;
+  color: #666;
+}
+
+.article-software {
+  margin-bottom: 10px;
+  font-size: 0.9em;
+  color: #666;
+}
+
+.software-name {
+  font-weight: 600;
+  color: #007acc;
+  margin-right: 10px;
+}
+
+.article-date {
   color: #666;
 }
 </style> 
