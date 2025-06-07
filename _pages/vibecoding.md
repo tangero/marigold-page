@@ -54,24 +54,7 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
 
 ## 📰 Nejnovější články
 
-{% assign vibecoding_posts = site.vibecoding | sort: "date" | reverse %}
-{% for post in vibecoding_posts limit: 10 %}
-<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-<div class="post-content clearfix">
-{% if post.thumbnail %}
-{% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
-<div class="thumbnail">
-<a href="{{ site.baseurl }}{{ post.url }}">
- <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}">
-</a>
-</div>
-{% endif %}
-</div>
-
-<div class="excerpt">
-{{ post.excerpt | strip_html | truncatewords: 60 }} - {{ post.date | date: "%d. %m. %Y" }}
-</div>
-{% endfor %}
+{% include vibecoding-articles.html tool_folder="vibecoding" tool_sw="vibecoding" %}
 
 <style>
 .vibecoding-matrix {
@@ -117,5 +100,69 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
   color: #666;
   font-size: 0.9em;
   margin-top: 10px;
+}
+
+.article-thumbnail {
+  margin-bottom: 15px;
+}
+
+.article-thumbnail img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.article-title {
+  margin: 0 0 10px 0;
+}
+
+.article-title a {
+  text-decoration: none;
+  color: #333;
+}
+
+.article-date {
+  color: #666;
+  font-size: 0.9em;
+}
+
+.article-excerpt {
+  color: #444;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.article-read-more-wrapper {
+  margin-top: 10px;
+}
+
+.article-read-more {
+  display: inline-block;
+  color: #007acc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.article-read-more:hover {
+  text-decoration: underline;
+}
+
+.article-separator {
+  margin-top: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.tag {
+  background: #f0f0f0;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  color: #666;
+}
+
+.no-articles {
+  text-align: center;
+  padding: 40px 0;
+  color: #666;
 }
 </style> 
