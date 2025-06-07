@@ -54,7 +54,71 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
 
 ## 📰 Nejnovější články
 
-{% include vibecoding-articles.html tool_folder="vibecoding" tool_sw="vibecoding" %}
+{% assign all_posts = site.vibecoding | sort: "date" | reverse %}
+{% for post in all_posts %}
+  {% assign content_length = post.content | strip_html | size %}
+  {% assign is_short = false %}
+  {% if content_length < 1000 %}
+    {% assign is_short = true %}
+  {% endif %}
+
+  <article class="vibecoding-article {% if is_short %}full-article{% else %}excerpt-article{% endif %}">
+    {% if post.thumbnail %}
+      {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
+      <div class="article-thumbnail">
+        <a href="{{ post.url | relative_url }}">
+          <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}">
+        </a>
+      </div>
+    {% endif %}
+
+    <h3 class="article-title">
+      <a href="{{ post.url | relative_url }}">
+        <span class="article-date">{{ post.date | date: "%d. %m. %Y" }}</span> - {{ post.title }}
+      </a>
+    </h3>
+
+    <div class="article-content">
+      {% if is_short %}
+        {{ post.content }}
+      {% else %}
+        <div class="article-excerpt">
+          {% if post.excerpt and post.excerpt != "" %}
+            {{ post.excerpt | strip_html | truncatewords: 50 }}
+          {% else %}
+            {% assign first_paragraph = post.content | split: "</p>" | first | append: "</p>" %}
+            {{ first_paragraph | strip_html | truncatewords: 50 }}
+          {% endif %}
+        </div>
+        
+        <div class="article-read-more-wrapper">
+          <a href="{{ post.url | relative_url }}" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      {% endif %}
+    </div>
+
+    {% if post.tags and post.tags.size > 0 %}
+      <div class="article-meta">
+        <span class="article-tags">
+          🏷️ 
+          {% for tag in post.tags limit: 3 %}
+            <span class="tag">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+          {% endfor %}
+        </span>
+      </div>
+    {% endif %}
+
+    <div class="article-separator"></div>
+  </article>
+{% endfor %}
+
+{% if all_posts.size == 0 %}
+  <div class="no-articles">
+    <p>📝 <em>Zatím zde nejsou žádné články. Sledujte novinky!</em></p>
+  </div>
+{% endif %}
 
 <style>
 .vibecoding-matrix {
