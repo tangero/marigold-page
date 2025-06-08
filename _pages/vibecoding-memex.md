@@ -10,9 +10,9 @@ permalink: /vibecoding/memex/
 
 🔗 [Navštívit Memex →](https://memex.tech)
 
-Memex je pokročilá AI platforma, která umožňuje vyvíjet, nasazovat a spravovat aplikace výhradně pomocí přirozeného jazyka. Na rozdíl od tradičních vývojových prostředí Memex píše kód, provádí příkazy a iterativně řeší problémy autonomně.
+Memex je pokročilá desktopová AI platforma, která umožňuje vyvíjet, nasazovat a spravovat aplikace pomocí přirozeného jazyka. Memex píše kód, provádí příkazy a iterativně řeší problémy autonomně.
 
-Platforma běží na desktopu a umožňuje vytvářet aplikace za méně než 5 minut, autonomně prohledává web a bezproblémově se integruje s vaší pracovní stanicí. Memex představuje obecnou Level 3 autonomii pro engineering.
+Platforma běží na desktopu a umožňuje vytvářet aplikace za méně než 5 minut, autonomně prohledává web a bezproblémově se integruje s vaší pracovní stanicí. Memex představuje obecnou Level 3 autonomii pro vývoj - a stojí za to se na něj podívat. 
 
 <div class="vibecoding-details">
   <button class="vibecoding-toggle collapsed" onclick="toggleDetails(this)">

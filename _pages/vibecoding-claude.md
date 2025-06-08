@@ -4,7 +4,7 @@ title: Claude Code - Vibe Coding
 permalink: /vibecoding/claude-code/
 ---
 
-# 🤖 Claude Code
+# 🟣 Claude Code
 
 **Pokročilý AI asistent pro programování od Anthropic**
 
