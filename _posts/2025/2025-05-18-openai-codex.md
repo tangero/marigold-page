@@ -4,7 +4,8 @@ categories:
 - AI
 - vibecoding
 - programování
-- OpenAI
+- OpenAI 
+sw: OpenAI Codex
 layout: post
 post_excerpt: OpenAI představila výzkumnou preview verzi nástroje nazvaného Codex. Nejde o totální novinku, Codex již byl předsaven jako aplikace Codex CLI pro příkazovou řádku, nyní jde ale o kompletnější webové rozhraní.
 summary_points:
