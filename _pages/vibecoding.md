@@ -70,21 +70,21 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
   {% if post.sw %}
     {% case post.sw %}
       {% when "databutton" %}
-        {% assign software_name = "Databutton" %}
+        {% assign software_name = "🔴 Databutton" %}
       {% when "claude-code" %}
-        {% assign software_name = "Claude Code" %}
+        {% assign software_name = "🟣 Claude Code" %}
       {% when "openai-codex" %}
-        {% assign software_name = "OpenAI Codex" %}
+        {% assign software_name = "🟢 OpenAI Codex" %}
       {% when "cursor" %}
-        {% assign software_name = "Cursor" %}
+        {% assign software_name = "🖱️ Cursor" %}
       {% when "lovable-dev" %}
-        {% assign software_name = "Lovable.dev" %}
+        {% assign software_name = "💖 Lovable.dev" %}
       {% when "windsurf" %}
-        {% assign software_name = "Windsurf" %}
+        {% assign software_name = "🌊 Windsurf" %}
       {% when "tempolabs" %}
-        {% assign software_name = "Tempolabs" %}
+        {% assign software_name = "⚡ Tempolabs" %}
       {% when "memex" %}
-        {% assign software_name = "Memex" %}
+        {% assign software_name = "🧠 Memex" %}
       {% else %}
         {% assign software_name = post.sw | capitalize %}
     {% endcase %}
@@ -93,21 +93,21 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
     {% assign folder_name = path_parts[1] %}
     {% case folder_name %}
       {% when "databutton" %}
-        {% assign software_name = "Databutton" %}
+        {% assign software_name = "🔴 Databutton" %}
       {% when "claude-code" %}
-        {% assign software_name = "Claude Code" %}
+        {% assign software_name = "🟣 Claude Code" %}
       {% when "openai-codex" %}
-        {% assign software_name = "OpenAI Codex" %}
+        {% assign software_name = "🟢 OpenAI Codex" %}
       {% when "cursor" %}
-        {% assign software_name = "Cursor" %}
+        {% assign software_name = "🖱️ Cursor" %}
       {% when "lovable-dev" %}
-        {% assign software_name = "Lovable.dev" %}
+        {% assign software_name = "💖 Lovable.dev" %}
       {% when "windsurf" %}
-        {% assign software_name = "Windsurf" %}
+        {% assign software_name = "🌊 Windsurf" %}
       {% when "tempolabs" %}
-        {% assign software_name = "Tempolabs" %}
+        {% assign software_name = "⚡ Tempolabs" %}
       {% when "memex" %}
-        {% assign software_name = "Memex" %}
+        {% assign software_name = "🧠 Memex" %}
       {% else %}
         {% assign software_name = folder_name | capitalize %}
     {% endcase %}
