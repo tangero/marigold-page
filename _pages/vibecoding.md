@@ -115,7 +115,7 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
 
   <article class="vibecoding-article {% if is_short %}full-article{% else %}excerpt-article{% endif %}">
     <div class="article-software">
-      <span class="software-name">{{ software_name }}</span>
+      <a href="/vibecoding/{{ post.sw | default: folder_name }}/" class="software-name">{{ software_name }}</a>
       <span class="article-date">{{ post.date | date: "%d. %m. %Y" }}</span>
     </div>
 
@@ -302,6 +302,13 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
   font-weight: 600;
   color: #007acc;
   margin-right: 10px;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.software-name:hover {
+  color: #005999;
+  text-decoration: underline;
 }
 
 .article-date {
