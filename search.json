@@ -1,7 +1,16 @@
 [
   
     {
-      "title"    : "Cursor 1.0: Nové funkce pro AI programování / vibecoding",
+      "title"    : "Limity současných uvažujících jazykových modelů -  Analýza skutečných schopností LRM&#39;",
+      "url"      : "//item/limity-lrm/",
+      "category" : "AI, LRM",
+      "tags"     : "",
+      "date"     : "9.6.2025",
+      "content"  : "Nedávná studie Apple odhaluje dosti zásadní omezení v architektuře uvažujících jazykových modelů (Large Reasoning Models) a zpochybňuje jejich skutečné uvažovací schopnosti. Je to jen vlnka na jezeře nadějí, že modely jako o3 nebo deepseek-r1 jsou schopny kvalitativních posunů, či vážný problém?Poslední generace jazykových modelů, označovaná jako Large Reasoning Models (LRM) - Velké modely uvažování, představuje modely jako OpenAI o1/o3, DeepSeek-R1 nebo Claude 3.7 Sonnet Thinking. Tyto systémy se vyznačují generováním rozsáhlých “myšlenkových” procesů před poskytnutím odpovědi, tzv. obsáhlé řetězce úvah (chain-of-thought, CoT). Což má simulovat lidské uvažování. Navzdory slibným výsledkům na standardních benchmarcích však zůstává otázka, zda skutečně dochází k..."
+    },
+  
+    {
+      "title"    : "Cursor 1.0 -  Nové funkce pro AI programování / vibecoding",
       "url"      : "//item/cursor_1_0_clanek/",
       "category" : "AI, vibecoding, Cursor",
       "tags"     : "",
@@ -26115,7 +26124,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Cursor 1.0: Nové funkce pro AI programování / vibecoding ( 5.06.2025) AI novinky - Google Edge AI Gallery, DeepSeek R1, ElevenLabs Conversational AI 2.0 ... ( 3.06.2025) AI novinky k 28.5.2025 (28.05.2025) 🍯 Oktagon rizik AI - Křehká pozornost v křehkém..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Limity současných uvažujících jazykových modelů - Analýza skutečných schopností LRM&#39; ( 9.06.2025) Cursor 1.0 - Nové funkce pro AI programování / vibecoding ( 5.06.2025) AI novinky - Google Edge AI Gallery, DeepSeek R1, ElevenLabs Conversational AI 2.0 ... ( 3.06.2025) AI..."
     }
     
   
@@ -26135,7 +26144,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 207 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 68 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 208 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 105 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 68 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
