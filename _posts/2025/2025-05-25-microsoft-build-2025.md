@@ -143,7 +143,7 @@ Microsoft a GitHub se připojili k řídícímu výboru [Model Context Protocol]
 
 Microsoft a GitHub oznamují dva nové příspěvky do ekosystému [MCP](/ai/mcp/):
 
-- Specifikace identity a autorizace: Týmy identity a bezpečnosti společnosti Microsoft spolupracovaly s Anthropic, řídícím výborem [MCP](/ai/mcp/) a širší komunitou MCP na navržení aktualizované autorizační specifikace.
+- Specifikace identity a autorizace: Týmy identity a bezpečnosti společnosti Microsoft spolupracovaly s Anthropic, řídícím výborem [MCP](/ai/mcp/) a širší komunitou [MCP](/ai/mcp/) na navržení aktualizované autorizační specifikace.
 - Veřejný, komunitou řízený registr MCP serverů: GitHub a řídící výbor MCP spolupracovali na návrhu registrační služby pro MCP servery.
 
 ### NLWeb

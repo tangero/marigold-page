@@ -6,7 +6,17 @@ categories:
 - Německo
 - politika
 layout: post
-post_excerpt: Včera večer, v naprosto naplněné Lucerně, se Česko loučilo s bývalou německou kancléřkou Angelou Merkelovou. Velký rozhovor, který dávala k příležitosti vydání své knihy Svoboda, byl výjimečný - jak délkou, tak nakonec i otevřeností. 
+post_excerpt: Včera večer, v naprosto naplněné Lucerně, se Česko loučilo s bývalou
+  německou kancléřkou Angelou Merkelovou. Velký rozhovor, který dávala k příležitosti
+  vydání své knihy Svoboda, byl výjimečný - jak délkou, tak nakonec i otevřeností.
+summary_points:
+- Lucerna hostila rozlučku Česka s Angelou Merkelovou spojenou s prezentací její knihy.
+- Merkelová obhajovala svá rozhodnutí ohledně Ruska a migrace, trvá na správnosti
+  svých tehdejších postupů.
+- Kritizovala Hamás a dvojí metr v debatách o Izraeli, vyjádřila podporu protestujícím
+  proti Netanjahuovi.
+- Merkelová zdůraznila nutnost diplomacie pro ukončení války na Ukrajině, i přes vojenskou
+  převahu Ruska.
 thumbnail: https://www.marigold.cz/assets/angela-merkel-prague.jpeg
 title: Praha se loučila s bývalou německou kancléřkou
 ---
