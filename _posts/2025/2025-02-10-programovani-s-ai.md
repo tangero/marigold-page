@@ -4,6 +4,8 @@ author: Patrick Zandl
 categories:
 - AI
 - programování
+- vibecode
+- vibecoding
 layout: post
 post_excerpt: Ještě před rokem se o tom mluvilo, před půl rokem tomu programátoři
   nevěřili a zkoušeli to. A dnes už je to realita. Jak si mohou neprogramátoři vytvořit

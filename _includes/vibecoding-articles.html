@@ -24,7 +24,60 @@
     {% assign is_vibecoding_article = true %}
   {% endif %}
 
+  {% comment %} Získání názvu softwaru z URL nebo front matter {% endcomment %}
+  {% assign software_name = "" %}
+  {% if post.sw %}
+    {% case post.sw %}
+      {% when "databutton" %}
+        {% assign software_name = "🔴 Databutton" %}
+      {% when "claude-code" %}
+        {% assign software_name = "🟣 Claude Code" %}
+      {% when "openai-codex" %}
+        {% assign software_name = "🟢 OpenAI Codex" %}
+      {% when "cursor" %}
+        {% assign software_name = "🖱️ Cursor" %}
+      {% when "lovable-dev" %}
+        {% assign software_name = "💖 Lovable.dev" %}
+      {% when "windsurf" %}
+        {% assign software_name = "🌊 Windsurf" %}
+      {% when "tempolabs" %}
+        {% assign software_name = "⚡ Tempolabs" %}
+      {% when "memex" %}
+        {% assign software_name = "🧠 Memex" %}
+      {% else %}
+        {% assign software_name = post.sw | capitalize %}
+    {% endcase %}
+  {% else %}
+    {% assign path_parts = post.path | split: "/" %}
+    {% assign folder_name = path_parts[1] %}
+    {% case folder_name %}
+      {% when "databutton" %}
+        {% assign software_name = "🔴 Databutton" %}
+      {% when "claude-code" %}
+        {% assign software_name = "🟣 Claude Code" %}
+      {% when "openai-codex" %}
+        {% assign software_name = "🟢 OpenAI Codex" %}
+      {% when "cursor" %}
+        {% assign software_name = "🖱️ Cursor" %}
+      {% when "lovable-dev" %}
+        {% assign software_name = "💖 Lovable.dev" %}
+      {% when "windsurf" %}
+        {% assign software_name = "🌊 Windsurf" %}
+      {% when "tempolabs" %}
+        {% assign software_name = "⚡ Tempolabs" %}
+      {% when "memex" %}
+        {% assign software_name = "🧠 Memex" %}
+      {% else %}
+        {% assign software_name = folder_name | capitalize %}
+    {% endcase %}
+  {% endif %}
+
   <article class="vibecoding-article {% if is_short %}full-article{% else %}excerpt-article{% endif %}">
+    <div class="article-software">
+      <a href="/vibecoding/{{ post.sw | default: folder_name }}/" class="software-name">{{ software_name }}</a>
+      <span class="article-date">{{ post.date | date: "%d. %m. %Y" }}</span>
+    </div>
+
     {% comment %} Thumbnail pro hlavní posty {% endcomment %}
     {% if post.thumbnail and site.posts contains post %}
       <div class="article-thumbnail">
@@ -35,7 +88,7 @@
     {% comment %} Nadpis vždy jako odkaz - používáme absolutní URL {% endcomment %}
     <h3 class="article-title">
       <a href="{{ post.url | relative_url }}">
-        <span class="article-date">{{ post.date | date: "%d. %m. %Y" }}</span> - {{ post.title }}
+        {{ post.title }}
       </a>
     </h3>
 
@@ -85,4 +138,46 @@
   <div class="no-articles">
     <p>📝 <em>Zatím zde nejsou žádné články. Sledujte novinky!</em></p>
   </div>
-{% endif %} 
+{% endif %}
+
+<style>
+.article-software {
+  margin-bottom: 10px;
+  font-size: 0.9em;
+  color: #666;
+}
+
+.software-name {
+  font-weight: 600;
+  color: #007acc;
+  margin-right: 10px;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.software-name:hover {
+  color: #005999;
+  text-decoration: underline;
+}
+
+.article-date {
+  color: #666;
+}
+
+.article-read-more {
+  display: inline-block;
+  color: #999;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  background-color: #f8f8f8;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.article-read-more:hover {
+  color: #666;
+  background-color: #fff3cd;
+  text-decoration: none;
+}
+</style> 

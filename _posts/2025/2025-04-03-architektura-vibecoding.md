@@ -2,7 +2,7 @@
 audio_url: http://www.marigold.cz/audio/2025-04-03-architektura-vibecoding.mp3
 audiooff: false
 categories:
-- vibe coding
+- vibecoding
 - AI
 date: 2025-04-03
 layout: post
