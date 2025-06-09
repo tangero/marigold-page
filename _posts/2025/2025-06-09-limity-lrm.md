@@ -14,8 +14,7 @@ summary_points:
 - LRM vykazují tří-režimovou výkonnost s kolapsem při vysoké složitosti problémů.
 - Studie odhalila architektonické limity LRM a potřebu nových přístupů k inferencím.
 thumbnail: https://www.marigold.cz/assets/the-illusion-of-thinking.png
-title: Limity současných uvažujících jazykových modelů -  Analýza skutečných schopností
-  LRM'
+title: Limity současných uvažujících jazykových modelů -  Analýza skutečných schopností LRM
 ---
 
 Nedávná studie Apple odhaluje dosti zásadní omezení v architektuře uvažujících jazykových modelů (Large Reasoning Models) a zpochybňuje jejich skutečné uvažovací schopnosti. Je to jen vlnka na jezeře nadějí, že modely jako o3 nebo deepseek-r1 jsou schopny kvalitativních posunů, či vážný problém? 
@@ -58,7 +57,7 @@ Analýza odhalila konzistentní vzorec napříč všemi testovanými modely:
 - Standardní LLM bez explicitního myšlení často dosahují lepších výsledků i vyšší efektivity.
 - LRM v této oblasti často „přemýšlí zbytečně dlouho“ (overthinking).
 2.	Střední složitost:
-LRM začínají mít výhodu díky schopnosti déle rozebírat problém, občas naleznou řešení po delším zkoušení různých cest.
+- LRM začínají mít výhodu díky schopnosti déle rozebírat problém, občas naleznou řešení po delším zkoušení různých cest.
 - Rozdíl ve výkonu mezi „thinking“ a „non-thinking“ modely roste ve prospěch LRMs.
 3.	Vysoká složitost:
 - Dochází k „kolapsu“ obou typů modelů: pravděpodobnost úspěchu padá na nulu.
