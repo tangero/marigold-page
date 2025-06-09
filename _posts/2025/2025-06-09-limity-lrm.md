@@ -13,7 +13,7 @@ summary_points:
 - Standardní benchmarky LRM trpí kontaminací dat a neumožňují kontrolované experimenty.
 - LRM vykazují tří-režimovou výkonnost s kolapsem při vysoké složitosti problémů.
 - Studie odhalila architektonické limity LRM a potřebu nových přístupů k inferencím.
-thumbnail: null
+thumbnail: https://www.marigold.cz/assets/the-illusion-of-thinking.png
 title: Limity současných uvažujících jazykových modelů -  Analýza skutečných schopností
   LRM'
 ---
