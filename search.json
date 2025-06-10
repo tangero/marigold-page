@@ -27398,6 +27398,13 @@
         "content"  : "Codex je nyní dostupný v rámci předplatitného ChatGPT Plus. Tato funkce umožňuje placeným uživatelům ChatGPT využívat Codex pro asistenci při programování, například generování kódu z přirozeného jazyka nebo doplňování kódu. Je užitečná pro širší spektrum vývojářů, kteří tak mohou zvýšit svou produktivitu díky pokročilým AI nástrojům.Unikátnost spočívá v kombinaci konverzačního AI ChatGPT s asistenčním programováním Codexu, což může být atraktivní pro uživatele hledající komplexní nástroj. Podobné nástroje, jako Claude Code nebo Cursor, nabízejí asistenci při programování, ale jejich integrace s konverzačním AI nemusí být tak těsná.Limity: přístup je omezen na předplatitele ChatGPT Plus, bezplatní uživatelé nemají přístup. Při vysoké poptávce..."
       }
       
+      ,{
+        "title"    : "Claude Code je nyní hlouběji integrován s VS Code a IDE JetBrains",
+        "url"      : "//vibecoding/vscode-jetbrains/",
+        "category" : "vibecoding",
+        "content"  : "Claude Code nově vidí vaše otevřené soubory, diagnostiku LSP a jakýkoli text, který zvýrazníte ve VS Code a JetBrains. Když Claude Code navrhne změny, zobrazí vám úpravy v editoru, takže můžete plynule pracovat ve svých oblíbených editorech."
+      }
+      
     
   
 ]
