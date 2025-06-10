@@ -8,7 +8,7 @@ permalink: /vibecoding/lovable-dev/
 
 **AI-powered platforma pro rychlé vytváření full-stack webových aplikací**
 
-🔗 [Navštívit Lovable.dev →](https://lovable.dev)
+🔗 [Navštívit Lovable.dev →](https://lovable.dev/invite/405d95b3-120c-4d39-9359-6deaf3dc482e)
 
 Lovable.dev umožňuje vytvářet kompletní webové aplikace pomocí přirozeného jazyka. Platforma automaticky generuje frontend, backend i databázové schéma na základě textového popisu požadavků.
 
