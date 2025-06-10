@@ -65,7 +65,7 @@ Analýza odhalila konzistentní vzorec napříč všemi testovanými modely:
 
 ### Paradoxní škálovací limity
 
-Nejpřekvapivějším objevem je kontraintuitivní vztah mezi složitostí problému a investovaným "uvažovacím" úsilím. Modely nejprve zvyšují počet thinking [tokenů](/ai/tokeny-versus-slova/) úměrně se složitostí, ale při dosažení kritického prahu začínají úsilí snižovat - navzdory dostupnému token budgetu a rostoucí obtížnosti problémů.
+Nejpřekvapivějším objevem je kontraintuitivní vztah mezi složitostí problému a investovaným "uvažovacím" úsilím. Modely nejprve zvyšují počet thinking [tokenů](/ai/tokeny-versus-slova/) úměrně se složitostí, ale při dosažení kritického prahu začínají úsilí snižovat - navzdory dostupnému [token](/ai/tokeny-versus-slova/) budgetu a rostoucí obtížnosti problémů.
 
 Tento jev naznačuje fundamentální architektonické omezení v současných LRM, kde systémy nejsou schopny efektivně alokovat výpočetní zdroje při inference pro nejtěžší problémy.
 
