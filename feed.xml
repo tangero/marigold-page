@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-06-10T15:42:33+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Mistral AI představil Magistral, svůj první model pro logické uvažování</title><link href="https://www.marigold.cz/item/mistral_magistral/" rel="alternate" type="text/html" title="Mistral AI představil Magistral, svůj první model pro logické uvažování" /><published>2025-06-10T00:00:00+00:00</published><updated>2025-06-10T00:00:00+00:00</updated><id>https://www.marigold.cz/item/mistral_magistral</id><content type="html" xml:base="https://www.marigold.cz/item/mistral_magistral/"><![CDATA[<p>Francouzská společnost Mistral AI uvedla svůj první specializovaný model pro logické uvažování nazvaný Magistral. Model je dostupný ve dvou variantách - open-source verzi Magistral Small s 24 miliardami parametrů a komerční verzi Magistral Medium.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-06-10T15:57:28+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Mistral AI představil Magistral, svůj první model pro logické uvažování</title><link href="https://www.marigold.cz/item/mistral_magistral/" rel="alternate" type="text/html" title="Mistral AI představil Magistral, svůj první model pro logické uvažování" /><published>2025-06-10T00:00:00+00:00</published><updated>2025-06-10T00:00:00+00:00</updated><id>https://www.marigold.cz/item/mistral_magistral</id><content type="html" xml:base="https://www.marigold.cz/item/mistral_magistral/"><![CDATA[<p>Francouzská společnost Mistral AI uvedla svůj první specializovaný model pro logické uvažování nazvaný Magistral. Model je dostupný ve dvou variantách - open-source verzi Magistral Small s 24 miliardami parametrů a komerční verzi Magistral Medium.</p>
 
 <p>Magistral je zaměřen na transparentní uvažování v mnoha jazycích a dosahuje 73,6% úspěšnosti v matematickém benchmarku AIME2024. Model přináší údajně desetkrát vyšší rychlost (tvrdí Mistral) zpracování než konkurence a cílí na profesionální využití v regulovaných odvětvích, kde je nutná sledovatelnost rozhodovacích procesů.</p>
 
@@ -289,7 +289,46 @@ Zda navyšování výpočetního rozpočtu a délky generovaného „myšlení�
 
 <p>Další feedback zahrnuje srovnání s konkurencí, například s <a href="/ai/claude-code/">Claude Code</a>, kde někteří uživatelé považují Cursor za levnější ($20/měsíc oproti $200/měsíc u Claude Code), ale vyjádřili nespokojenost s výkonem, například „Podpora Pythonu byla minulý týden katastrofální, odinstaloval jsem to před měsíci kvůli tomu“ (Hacker News). Jiní uživatelé ocenili nové funkce, jako BugBot a rozšíření Background Agentů, ale přáli si vylepšení, například dostupnost Background Agentů i v režimu soukromí.</p>
 
-<p><a href="https://www.cursor.com/en/changelog">Oficiální changelog</a>  poskytuje detailní přehled nových funkcí, včetně automatických kontrol kódu s BugBotem, rozšíření Background Agentů pro všechny uživatele a podpory Jupyter Notebooks, což odpovídá oznámení v X příspěvku a video.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="vibecoding" /><category term="Cursor" /><summary type="html"><![CDATA[Společnost Anysphere vydala verzi 1.0 svého AI editoru kódu Cursor, která přináší automatickou kontrolu kódu, rozšířený přístup k Background Agent a zjednodušenou integraci MCP protokolu. Vydání přichází více než rok po spuštění v roce 2023 a obsahuje sedm hlavních funkcí.]]></summary></entry><entry xml:lang="cs"><title type="html">Praha se loučila s bývalou německou kancléřkou</title><link href="https://www.marigold.cz/item/angela-merkel-praha/" rel="alternate" type="text/html" title="Praha se loučila s bývalou německou kancléřkou" /><published>2025-06-04T00:00:00+00:00</published><updated>2025-06-04T00:00:00+00:00</updated><id>https://www.marigold.cz/item/angela-merkel-praha</id><content type="html" xml:base="https://www.marigold.cz/item/angela-merkel-praha/"><![CDATA[<p>Včera večer, v naprosto naplněné Lucerně, se Česko loučilo s bývalou německou kancléřkou Angelou Merkelovou. Velký rozhovor, který dávala k příležitosti vydání své knihy Svoboda, byl výjimečný - jak délkou, tak nakonec i otevřeností.</p>
+<p><a href="https://www.cursor.com/en/changelog">Oficiální changelog</a>  poskytuje detailní přehled nových funkcí, včetně automatických kontrol kódu s BugBotem, rozšíření Background Agentů pro všechny uživatele a podpory Jupyter Notebooks, což odpovídá oznámení v X příspěvku a video.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="vibecoding" /><category term="Cursor" /><summary type="html"><![CDATA[Společnost Anysphere vydala verzi 1.0 svého AI editoru kódu Cursor, která přináší automatickou kontrolu kódu, rozšířený přístup k Background Agent a zjednodušenou integraci MCP protokolu. Vydání přichází více než rok po spuštění v roce 2023 a obsahuje sedm hlavních funkcí.]]></summary></entry><entry xml:lang="cs"><title type="html">Angela Merkel Prague</title><link href="https://www.marigold.cz/item/angela-merkel-prague/" rel="alternate" type="text/html" title="Angela Merkel Prague" /><published>2025-06-04T00:00:00+00:00</published><updated>2025-06-04T00:00:00+00:00</updated><id>https://www.marigold.cz/item/angela-merkel-prague</id><content type="html" xml:base="https://www.marigold.cz/item/angela-merkel-prague/"><![CDATA[<hr />
+<p>audio_url: null
+author: Patrick Zandl
+categories:</p>
+<ul>
+  <li>Německo</li>
+  <li>politika</li>
+  <li>Angela Merkel
+date: 2025-06-04
+layout: post
+thumbnail: https://www.marigold.cz/assets/angela-merkel-prague.jpeg
+title: Česko se loučilo s bývalou německou kancléřkou
+–</li>
+</ul>
+
+<p>Včera večer, v naprosto naplněné Lucerně, se Česko loučilo s bývalou německou kancléřkou Angelou Merkelovou. Velký rozhovor, který dávala k příležitosti vydání své knihy Svoboda, byl výjimečný - jak délkou, tak nakonec i otevřeností. V průběhu večera musela obhajovat svá rozhodnutí ohledně ruské politiky i migrační krize. Zvládla to tak, jako po celých šestnáct let svého kancléřství: přesně a jasně vyargumentovala závěry, které ji k rozhodnutí vedly a na závěr dodává, že dnes by se nerozhodla jinak.</p>
+
+<p>Merkelová narozená v NDR má k Česku sentimentální vztah, v osmdesátkách tu strávila trojici několikaměsíčních výzkumných pobytů a od té doby měla pro Česko slabost. Což jsme ne vždy uměli docenit. A opakuje to znovu, že do Prahy se vždy ráda vrací, i když by také ráda strávila nějaký čas v Itálii - a v Japonsku, kde navíc těží z toho, že zde není tak známá.</p>
+
+<p>Nejdříve si myslím, že je to trolling - nad hlavou scény dvou žlutých křesílek a malého stolečku svítí nápis Respekt, což byl předvolební slogan Olafa Scholzeho. Pak se ukáže, že akci pořádá časopis Respekt, jehož šéfredaktor kancléřku uvede a jeden z redaktorů vede rozhovor.</p>
+
+<p><img src="/assets/angela-merkel-prague.jpeg" alt="Angela Merkel" /></p>
+
+<p>Tady musím říct, že jsem byl rád, že jsem si vzal sluchátka s překladem, protože moderátorovi vůbec nerozumím, půlku německého slova vždy nějak zašumluje a na moji nahluchlost to není to pravé ořechové. Takže na jeho otázku si vždycky nasazuju sluchátka, zatímco kancléřčina čistá a jasná němčina je pohlazením. Kromě toho mluví moderátor zajíkavě, frázovitě, pomalu, asi aby zbrzdil Merklové projev, což se mu nedaří. Ale sama kancléřka říká, že na ni máme mávat, pokud nebudeme stíhat - na to ale nedošlo.</p>
+
+<p>Nebudu projev rekapitulovat, jen zmíním pár momentů, které mi utkvěly v hlavě. V jeden moment přijde otázka na současnou Ukrajinskou krizi. Merkelová připomíná, že “Německo navázalo diplomatické kontakty a ostatní se spoléhali na to, že někdo stále mluví s Putinem.” Zdůrazňuje, že považovala za velmi nebezpečné poskytnout Ukrajině předběžnou fázi ke členství v NATO, kdy by ale neměla ochranu podle článku 5. Putin by podle ní nezůstal nečinný a v této době zaútočil, zatímco Ukrajina v té době neměla vybudovanou armádu. “Bohužel jsem dospěla ke stejnému závěru, rozhodla bych se tak znovu,” říká kancléřka klidně a jasně. A také připouští, že Německo mělo rychleji navyšovat své vojenské kapacity. “Ani dnes se žádné řešení neobejde bez diplomacie”. A ačkoliv je jasné, že Rusko válku vojenskou silou nevyhraje, bude nutné vyvinout k jejímu ukončení značné diplomatické úsilí, připomíná. Připomíná také, že Německu byla vyčítána závislost na Ruském plynu, ale všichni včetně Ukrajiny jeho užívání podporovali a nakonec to bylo Německo, kdo na něm bylo nejméně závislé a rychle se jej bylo schopno zbavit.</p>
+
+<p>Nezvykle ostrá slova má také pro situaci v Gaze. Připomíná, že je to Hamás, kdo zaútočil v říjnu na Izrael a kdo zastává názor, že Izrael musí být zničen a kdo také používá civilní obyvatelstvo jako živé štíty. “Izrael není jen premiér Netanjahu. Nemusím podporovat Netajnahuovu politiku, včetně nemilosrdnosti, kterou projevuje vůči obyvatelstvu v Gaze, ale odpovědí nemůže být, že kvůli tomu zpochybním svou podporu Izraele,” říká Merkelová. “Jsem na straně všech, kdo proti Netanjahuovi v Izraeli protestují,” říká jasně - něco, co si jako kancléřka dovolit nemohla. V sále se rozezní potlesk. Nakonec Merkelová připomíná dvojí metr v této debatě. “Válka v Jemenu pravděpodobně způsobuje hlad 15 milionů lidí, včetně mnoha dětí,” říká Merkelová. Nemají prakticky žádnou lobby. Ale: “Když přijde řeč na Izrael, je Izrael hodně pranýřován.”</p>
+
+<p>Když po hodině a půl rozhovor končí, dostává se viditelně dojaté bývalé německé kancléřce mnohaminutový aplaus. Lidé stávají a potlesk neutichá, ani když se kancléřka už otáčí k odchodu, ještě se vrací, aby znovu publiku poděkovala. <em>“Jako na Cimrmanech,”</em> komentuje to pár vedle mne.</p>
+
+<p>Praha se loučí s kancléřkou, za níž jedna generace žila v míru a blahobytu. A kancléřka Merkelová nemůže za to, jak to která země využila. Už dnes víme, že její následovník Olaf Scholz důstojným pokračováním její éry nebude. Merz? Uvidíme.</p>
+
+<p>Když jsem jí o několik hodin dříve prosil o podpis její knihy, přišlo mi důležité jí poděkovat: <em>“Danke für alles, Frau Bundeskanzlerin.”</em> Dneska je čas na poděkování, ne na kritiku.</p>
+
+<p>Usměje se a pokývá hlavou, i když kolikrát musela tuhle větu slyšet.</p>
+
+<p>Takhle končí velká éra tohoto století, bohužel také jedna z těch nejšťastnějších.</p>
+
+<p><em>Danke für alles, Frau Bundeskanzlerin.</em></p>]]></content><author><name>Patrick Zandl</name></author><summary type="html"><![CDATA[audio_url: null author: Patrick Zandl categories: Německo politika Angela Merkel date: 2025-06-04 layout: post thumbnail: https://www.marigold.cz/assets/angela-merkel-prague.jpeg title: Česko se loučilo s bývalou německou kancléřkou –]]></summary></entry><entry xml:lang="cs"><title type="html">Praha se loučila s bývalou německou kancléřkou</title><link href="https://www.marigold.cz/item/angela-merkel-praha/" rel="alternate" type="text/html" title="Praha se loučila s bývalou německou kancléřkou" /><published>2025-06-04T00:00:00+00:00</published><updated>2025-06-04T00:00:00+00:00</updated><id>https://www.marigold.cz/item/angela-merkel-praha</id><content type="html" xml:base="https://www.marigold.cz/item/angela-merkel-praha/"><![CDATA[<p>Včera večer, v naprosto naplněné Lucerně, se Česko loučilo s bývalou německou kancléřkou Angelou Merkelovou. Velký rozhovor, který dávala k příležitosti vydání své knihy Svoboda, byl výjimečný - jak délkou, tak nakonec i otevřeností.</p>
 
 <p>V průběhu večera musela obhajovat svá rozhodnutí ohledně ruské politiky i migrační krize. Zvládla to tak, jako po celých šestnáct let svého kancléřství: přesně a jasně vyargumentovala závěry, které ji k rozhodnutí vedly a na závěr dodává, že dnes by se nerozhodla jinak.</p>
 
@@ -2294,97 +2333,4 @@ Pro každý přeživší region:
 
 <p><img src="https://www.marigold.cz/assets/Riegersburg.jpeg" alt="Fotka z lanovky na Riegersburg" /></p>
 
-<p><img src="https://www.marigold.cz/assets/Riegersburg-hodnoceni.png" alt="A tady je hodnocení" /></p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="ChatGPT" /><summary type="html"><![CDATA[Nový model ChatGPT o3 umí jednu zajímavou věc. Umí odhadnout polohu fotografie. Prostě nahrajete obrázek a zeptáte se, kde byl pořízen. Model o3 se zamyslí a po nějaké chvíli vám řekne, kde asi byl snímek pořízen, případně co na něm vidíte. Jenže tak jednoduché to není. Samozřejmě, pokud mu šoupnete fotku Pražského hradu, tak po pár minutách dumání řekne, že je to Pražský hrad. Jenže jakmile to není tak známá pamětihodnost, je to mnohem těžší a už výrazně více záleží na tom, jak se zeptáte, tedy jaký dáte prompt.]]></summary></entry><entry xml:lang="cs"><title type="html">Čínské AI posiluje, vlastní GPU nadohled. A další dubnové novinky v AI aplikacích</title><link href="https://www.marigold.cz/item/dubnove-ai/" rel="alternate" type="text/html" title="Čínské AI posiluje, vlastní GPU nadohled. A další dubnové novinky v AI aplikacích" /><published>2025-04-28T00:00:00+00:00</published><updated>2025-04-28T00:00:00+00:00</updated><id>https://www.marigold.cz/item/dubnove-ai</id><content type="html" xml:base="https://www.marigold.cz/item/dubnove-ai/"><![CDATA[<p>Pojďme se podívat na průlet novinkami v AI na druhou půlku dubna. A ano, máte pravdu, novinky se hromadí! Čínské společnosti představily nové konkurenty pro západní modely, OpenAI pokračuje v rozšiřování svého ekosystému, a i menší hráči přicházejí s inovativními technologiemi. Pojďme se podívat na nejdůležitější oznámení, která formují budoucnost umělé inteligence.</p>
-
-<h3 id="baidu-cenově-dostupné-turbo-modely">Baidu: Cenově dostupné “Turbo” modely</h3>
-
-<p>Čínský technologický gigant Baidu vstupuje do přímé konkurence s OpenAI a <a href="/item/deepseek/">[DeepSeek](/item/deepseek/)</a> prostřednictvím svých nových cenově výhodných modelů ERNIE 4.5 Turbo a ERNIE X1 Turbo.</p>
-
-<p>ERNIE 4.5 Turbo nabízí pokročilé multimodální schopnosti za pouhých 11 centů a 44 centů za milion vstupních/výstupních <a href="/ai/tokeny-versus-slova/">tokenů</a>, což představuje pouhých 0,2 % ceny GPT-4.5. Model vyniká rychlostí, logickým uvažováním, redukcí <a href="/ai/halucinace-ai/">halucinací</a> a programovacími schopnostmi. Podle benchmarků obstojí ve srovnání s GPT-4.1 a v některých měřeních dokonce překonává GPT-4o.</p>
-
-<p>ERNIE X1 Turbo, navržený pro hloubkové přemýšlení s vylepšenými schopnostmi řetězení myšlenek (chain-of-thought), se prodává za 14 centů a 55 centů za milion vstupních/výstupních tokenů, čímž překonává modely DeepSeek R1 a V3 nejen výkonem, ale i cenou, která je jen zlomkem ceny jeho předchůdce.</p>
-
-<p>Baidu současně oznámilo několik nových AI aplikací. Nejpozoruhodnější je Xinxiang, aplikace pro multi-agentní spolupráci, která transformuje jednotlivé pokyny do kompletních pracovních postupů napříč 200 typy úloh, s plány na rozšíření až na 100 000. Společnost také představila nový operační systém Cangzhou OS, který usnadňuje multimodální vytváření poznámek.</p>
-
-<p>Svou AI Open Initiative a standard <a href="/ai/mcp/">[MCP](/ai/mcp/)</a> společnost Baidu cílí na usnadnění vývoje aplikací na těchto modelech. Jak uvedl Robin Li na konferenci Baidu Create 2025: “Modely jsou důležité, ale skutečnými vítězi budou aplikace, které je oživí.”</p>
-
-<h3 id="openai-rozšíření-funkcí-a-přístupnosti">OpenAI: Rozšíření funkcí a přístupnosti</h3>
-
-<p>OpenAI nezůstává pozadu a nadále rozšiřuje svůj ekosystém produktů a služeb:</p>
-
-<h4 id="deep-research-mini">Deep Research Mini</h4>
-
-<p>OpenAI představil odlehčenou verzi své funkce Deep Research, která zpřístupňuje pokročilé výzkumné nástroje širšímu okruhu uživatelů. Tato “odlehčená” verze, poháněná modelem o4-mini, je “téměř stejně inteligentní” jako plnohodnotná verze, ale poskytuje kratší odpovědi a spotřebovává méně zdrojů. Společnost rozšířila limity používání pro uživatele úrovní Plus, Team a Pro a zpřístupnila tuto funkci i bezplatným uživatelům. Jakmile jsou vyčerpány limity pro plnou verzi, dotazy uživatelů se automaticky přepnou na odlehčenou verzi.</p>
-
-<p>Nové limity:</p>
-
-<ul>
-  <li>Free – 5 odlehčených úloh/měsíc</li>
-  <li>Plus &amp; Team – 10 plných + 15 odlehčených úloh/měsíc</li>
-  <li>Pro – 125 plných + 125 odlehčených úloh/měsíc</li>
-  <li>Enterprise – 10 plných úloh/měsíc</li>
-</ul>
-
-<h4 id="gpt-image-1">GPT-Image-1</h4>
-
-<p>OpenAI zveřejnilo svůj nový model pro generování obrázků v API. Model, který dokáže pracovat jak s textem, tak s obrázky, pohání funkci vytváření obrázků, která byla spuštěna v ChatGPT na konci března a uživatelé s ní během prvního týdne vytvořili přes 700 milionů obrázků. Pro vývojáře je model dostupný za cenu 5 USD za milion textových tokenů, 10 USD za vstupní obrazové <a href="/ai/tokeny-versus-slova/">tokeny</a> a 40 USD za výstupní obrazové tokeny.</p>
-
-<h4 id="aktualizace-gpt-4o">Aktualizace GPT-4o</h4>
-
-<p>OpenAI také aktualizovalo svůj model GPT-4o, čímž vylepšilo jeho schopnosti řešení problémů, inteligenci a osobnost. Nicméně CEO Sam Altman později sdílel, že aktualizace učinila asistenta “servílním a otravným” (i když s některými pozitivními aspekty) a společnost nyní pracuje na nápravě.</p>
-
-<h4 id="finanční-cíle-a-partnerství">Finanční cíle a partnerství</h4>
-
-<p>OpenAI sdělila investorům, že očekává dosažení příjmů ve výši 125 miliard dolarů v roce 2029 a 174 miliard dolarů v roce 2030, díky AI agentům, předplatným, monetizaci bezplatných uživatelů a affiliate poplatkům. Společnost také oznámila partnerství s deníkem The Washington Post na vyhledávací obsah a s aerolinkami Singapore Airlines pro vylepšení jejich virtuálního asistenta.</p>
-
-<h3 id="liquid-ai-hybridní-architektura">Liquid AI: Hybridní architektura</h3>
-
-<p>Liquid Sciences představila <a href="https://www.liquid.ai/research/convolutional-multi-hybrids-for-edge-devices">Hyena Edge</a>, hybridní AI model s “konvoluční” architekturou. Tato technologie poskytuje rychlejší zpracování a vylepšené benchmarkové výsledky, překonávající základní modely založené na transformerech jak v oblasti výpočetní efektivity, tak v kvalitě modelu na edge hardwaru.</p>
-
-<h3 id="xai-grok-s-novými-funkcemi">xAI: Grok s novými funkcemi</h3>
-
-<p>xAI představilo <a href="https://www.grok.com">Grok Studio s dlouhodobou pamětí</a>, čili si můžete přát, aby si Grok o vás něco zapamatoval, třeba že vám má tykat. Platforma nabízí rozdělené rozhraní, kde mohou uživatelé vytvářet dokumenty, aplikace nebo hry. Důležitou funkcí je schopnost pamatovat si minulé konverzace, což činí systém chytřejším v průběhu času.</p>
-
-<p>Grok Vision byl spuštěn s výkonnými multimodálními funkcemi, které uživatelům umožňují namířit fotoaparát telefonu na objekty nebo prostředí a získat okamžitou analýzu v reálném čase. Spolu s tím byla přidána podpora zvuku v několika jazycích a funkce vyhledávání v reálném čase, což činí celý zážitek interaktivnějším a užitečnějším.</p>
-
-<p>Elon Musk oznámil, že vylepšený algoritmus X (Twitter) poháněný AI modelem Grok bude brzy k dispozici. Toto oznámení přišlo jako reakce na stížnost Paula Grahama ohledně zahlcení feedu X příspěvky od levicových nebo pravicových trollů.</p>
-
-<h3 id="google-gemini-25-flash">Google: Gemini 2.5 Flash</h3>
-
-<p>Google představil Gemini 2.5 Flash – rychlý, odlehčený AI model. Navzdory tomu, že je navržen pro rychlost a efektivitu, Gemini 2.5 Flash se v benchmarkových testech řadí na sdílené druhé místo. Jeho výkon je srovnatelný s top modely jako GPT-4.5 Preview a Grok-3, což dokazuje, že i lehčí modely mohou nyní soupeřit s těmi nejlepšími z hlediska kvality a uvažování. Jestli to tak skutečně bude i v praxi, tak se Google povedl hezký zásek.</p>
-
-<h3 id="anthropic-výzkumné-schopnosti-pro-claude">Anthropic: Výzkumné schopnosti pro Claude</h3>
-
-<p>Anthropic přidává “Autonomní výzkum” do svého modelu Claude. Ten nyní dokáže vyhledávat v Google Workspace, zpracovávat vícekrokové otázky a poskytovat odpovědi s řádnými zdroji. Systém zkoumá dotaz z různých úhlů, provádí výzkum a dodává odpovědi během několika minut, čímž poskytuje dobrý mix hloubky a rychlosti pro každodenní úkoly. Kromě toho přidal do iOS aplikace hlasového asistenta, který dělá ze Siri hloupoučkou nánu. Jmenuje se Perplexity Assistant a je nyní dostupný na iOS, dříve již byl na Androidu. Přichází nejen s hlasovým ovládáním, ale i s možností propojení s více aplikacemi. AI asistent nyní dokáže pomáhat s úkoly jako je rezervace večeře, objednávání jízd a nastavování připomenutí.</p>
-
-<h3 id="amazon-nova-sonic">Amazon: Nova Sonic</h3>
-
-<p>AWS představil Amazon Nova Sonic, špičkový základní model převodu řeči na řeč, navržený pro vylepšení interakcí se zákazníky a virtuálních asistentů. Umožňuje přirozenější, lidštější konverzace s AI, která chápe kontext a poskytuje bohatší odpovědi.</p>
-
-<h3 id="menší-ale-inovativní-hráči">Menší, ale inovativní hráči</h3>
-
-<p>Kling AI představil Kling 2.0 s vylepšenými funkcemi, včetně lepšího pochopení pokynů, vylepšeného pohybu postav pro plynulejší a přirozenější pohyb a Multi-Elements Editoru, který usnadňuje úpravu videí.</p>
-
-<p>Tavus představil nový, pokročilý lipsync model, který přináší bezkonkurenční realismus do vytváření videí ze zvuku. Model zajišťuje dokonalé pohyby rtů, které odpovídají zvuku, spolu s přirozenými výrazy obličeje, což činí videa mnohem realističtějšími.</p>
-
-<p>Nari Labs uvedla model Dia 1.6B s pozoruhodným emocionálním rozsahem a přirozeností, schopný smát se a dokonce kašlat. Model je dostupný na HuggingFace.</p>
-
-<p>Moonshot AI spustila Kimi-Audio, nový open-source univerzální audio model. Podporuje rozpoznávání řeči, převod zvuku na text a převod řeči na řeč. Model byl předtrénován na více než 13 milionech hodin zvukových dat a vyniká v více než 10 audio benchmarcích, včetně MMAU, VoiceBench a LibriSpeech.</p>
-
-<p>Dreamina AI představila Seedream 3.0, který se řadí na první místo v tvorbě fotorealistických obrázků s rozlišením až 2k. Dokáže také zvyšovat rozlišení, vyplňovat, rozšiřovat a dokonce generovat videa.</p>
-
-<p>Genspark představil AI Slides, nový nástroj, který mění způsob vytváření prezentací pomocí výkonného systému řízeného agenty. AI provádí výzkum témat, vytváří podpůrný vizuál včetně obrázků a grafů a dokáže transformovat různé typy dokumentů do profesionálně vypadajících prezentací.</p>
-
-<p>Canva uvedla Visual Suite 2.0 – své dosud největší spuštění. Nová sada přináší výkonné AI funkce, které umožňují vytvářet dokumenty, prezentace, webové stránky a další obsah, vše v rámci jednoho designu. Jedná se o nejvýznamnější vydání produktu společnosti od jejího založení.</p>
-
-<p>Microsoft vylepšil Copilot pomocí Studio, které nyní umožňuje vytvářet agenty, kteří mohou klikat a psát napříč desktopovými nebo webovými rozhraními. Kromě toho Vision v Edge nyní komentuje vše na obrazovce v reálném čase, což činí systém interaktivnějším a přístupnějším.</p>
-
-<h3 id="hrozba-ze-strany-číny-pro-americkou-dominanci">Hrozba ze strany Číny pro americkou dominanci</h3>
-
-<p>Čínský prezident Si Ťin-pching prohlásil soběstačnost v oblasti AI za národní prioritu a slíbil vládní podporu pro posílení vývoje AI čipů, softwaru a talentů uprostřed eskalujícího technologického soupeření s USA. Si načrtl přístup “nového celonárodního systému”, zaměřeného na vývoj špičkových čipů a softwaru a zároveň na zvýšení vzdělávání v oblasti AI a rozvoj talentů.</p>
-
-<p>Čínský výrobce čipů Huawei podle zpráv testuje nový pokročilý čip, který by měl nabídnout domácí alternativu k procesorům NVIDIA, které jsou v současnosti omezeny ze strany USA. Huawei chce, aby její nový čip Ascend 910D nahradil některé špičkové produkty od Nvidie. Nový čip je stále v raných fázích vývoje a bude vyžadovat testování, než bude moci být dodán zákazníkům. Huawei očekává, že první z těchto nových čipů dostane asi za měsíc a doufá, že čip bude výkonnější než Nvidia H100.</p>
-
-<p>Současně se šíří zvěsti o nadcházejícím vydání DeepSeek R2, s nižšími cenami a náklady na trénink a s využitím čipů Huawei místo NVIDIA.</p>
-
-<p>Kombinace potenciálního druhého “DeepSeek momentu” za rohem, domácích alternativ AI čipů, které činí americké exportní kontroly neúčinnými, a rychle se uzavírající mezery v modelech ukazuje, že Čína zintenzivňuje své úsilí o získání vedení v oblasti AI, přičemž dokazuje, že k úspěchu nepotřebuje americké čipy.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="OpenAI" /><summary type="html"><![CDATA[Pojďme se podívat na průlet novinkami v AI na druhou půlku dubna. A ano, máte pravdu, novinky se hromadí! Čínské společnosti představily nové konkurenty pro západní modely, OpenAI pokračuje v rozšiřování svého ekosystému, a i menší hráči přicházejí s inovativními technologiemi. Pojďme se podívat na nejdůležitější oznámení, která formují budoucnost umělé inteligence.]]></summary></entry></feed>
+<p><img src="https://www.marigold.cz/assets/Riegersburg-hodnoceni.png" alt="A tady je hodnocení" /></p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="ChatGPT" /><summary type="html"><![CDATA[Nový model ChatGPT o3 umí jednu zajímavou věc. Umí odhadnout polohu fotografie. Prostě nahrajete obrázek a zeptáte se, kde byl pořízen. Model o3 se zamyslí a po nějaké chvíli vám řekne, kde asi byl snímek pořízen, případně co na něm vidíte. Jenže tak jednoduché to není. Samozřejmě, pokud mu šoupnete fotku Pražského hradu, tak po pár minutách dumání řekne, že je to Pražský hrad. Jenže jakmile to není tak známá pamětihodnost, je to mnohem těžší a už výrazně více záleží na tom, jak se zeptáte, tedy jaký dáte prompt.]]></summary></entry></feed>
