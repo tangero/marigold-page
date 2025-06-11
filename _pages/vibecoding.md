@@ -50,6 +50,11 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
     <h3><a href="/vibecoding/memex/">🧠 Memex</a></h3>
     <p>Desktop aplikace pro vývoj software, velmi autonomní a za dobré peníze</p>
   </div>
+  
+  <div class="service-card">
+    <h3><a href="/vibecoding/replit/">🟠 Replit</a></h3>
+    <p>AI-powered cloudová platforma pro vývoj a nasazení aplikací s Replit Agent</p>
+  </div>
 </div>
 
 ## 📰 Nejnovější články
@@ -85,6 +90,8 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
         {% assign software_name = "⚡ Tempolabs" %}
       {% when "memex" %}
         {% assign software_name = "🧠 Memex" %}
+      {% when "replit" %}
+        {% assign software_name = "🟠 Replit" %}
       {% else %}
         {% assign software_name = post.sw | capitalize %}
     {% endcase %}
@@ -108,6 +115,8 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
         {% assign software_name = "⚡ Tempolabs" %}
       {% when "memex" %}
         {% assign software_name = "🧠 Memex" %}
+      {% when "replit" %}
+        {% assign software_name = "🟠 Replit" %}
       {% else %}
         {% assign software_name = folder_name | capitalize %}
     {% endcase %}

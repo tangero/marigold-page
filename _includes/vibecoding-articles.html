@@ -44,6 +44,8 @@
         {% assign software_name = "⚡ Tempolabs" %}
       {% when "memex" %}
         {% assign software_name = "🧠 Memex" %}
+      {% when "replit" %}
+        {% assign software_name = "🟠 Replit" %}
       {% else %}
         {% assign software_name = post.sw | capitalize %}
     {% endcase %}
@@ -67,6 +69,8 @@
         {% assign software_name = "⚡ Tempolabs" %}
       {% when "memex" %}
         {% assign software_name = "🧠 Memex" %}
+      {% when "replit" %}
+        {% assign software_name = "🟠 Replit" %}
       {% else %}
         {% assign software_name = folder_name | capitalize %}
     {% endcase %}
