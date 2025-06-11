@@ -6,6 +6,8 @@ permalink: /vibecoding/
 
 # Vibe Coding - AI nástroje pro programování
 
+<a href="/feed.xml" class="rss-link">📰 RSS Feed</a>
+
 Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programování s pomocí umělé inteligence.
 
 ## 🛠️ Služby a nástroje
@@ -65,7 +67,7 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
     </button>
     <div class="category-content">
       <div class="service-card">
-        <h4><a href="/vibecoding/claude-code/">�� Claude Code</a></h4>
+        <h4><a href="/vibecoding/claude-code/">🟣 Claude Code</a></h4>
         <p>Pokročilý terminálový asistent pro programování a analýzu kódu od Anthropicu</p>
       </div>
       <div class="service-card">
@@ -169,6 +171,24 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
   .tools-categories-row {
     grid-template-columns: 1fr;
   }
+}
+
+.rss-link {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+  background-color: #f8f8f8;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #666;
+  font-size: 14px;
+  transition: all 0.2s ease;
+}
+
+.rss-link:hover {
+  background-color: #fff3cd;
+  color: #333;
+  text-decoration: none;
 }
 </style>
 

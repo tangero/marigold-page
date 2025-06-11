@@ -1,6 +1,6 @@
 ---
 author: Patrick Zandl
-date: 2025-06-11
+date: 2025-06-10
 categories:
 - AI
 - Windsurf
