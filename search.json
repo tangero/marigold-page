@@ -26147,6 +26147,8 @@
     
   
     
+  
+    
     ,{
       "title"    : "Getting started with Reverie",
       "url"      : "//getting-started/",
@@ -26312,10 +26314,8 @@
       "title"    : "Vibe Coding",
       "url"      : "//vibecoding/",
       "category" : "stránka",
-      "content"  : "# Vibe Coding - AI nástroje pro programováníPřehled nejmodernějších AI nástrojů a služeb pro vibe coding a programování s pomocí umělé inteligence.## 🛠️ Služby a nástroje 💻 Desktop IDE ▼ 🖱️ Cursor Kompletní IDE založené na VS CODE s AI funkcemi pro rychlý vývoj a refactoring kódu 🌊 Windsurf Inteligentní IDE s pokročilými AI funkcemi pro vývoj 🧠 Memex Desktop aplikace pro vývoj software, velmi autonomní a za dobré peníze ☁️ Cloudové nástroje ▼ 🔴 Databutton Evropská AI-powered web platforma pro vytváření aplikací bez kódování 💖 Lovable.dev AI nástroj pro rychlý vývoj moderních webových aplikací ⚡ Tempolabs Rychlý webový AI..."
+      "content"  : "# Vibe Coding - AI nástroje pro programování📰 RSS FeedPřehled nejmodernějších AI nástrojů a služeb pro vibe coding a programování s pomocí umělé inteligence.## 🛠️ Služby a nástroje 💻 Desktop IDE ▼ 🖱️ Cursor Kompletní IDE založené na VS CODE s AI funkcemi pro rychlý vývoj a refactoring kódu 🌊 Windsurf Inteligentní IDE s pokročilými AI funkcemi pro vývoj 🧠 Memex Desktop aplikace pro vývoj software, velmi autonomní a za dobré peníze ☁️ Cloudové nástroje ▼ 🔴 Databutton Evropská AI-powered web platforma pro vytváření aplikací bez kódování 💖 Lovable.dev AI nástroj pro rychlý vývoj moderních webových aplikací ⚡ Tempolabs Rychlý..."
     }
-    
-  
     
   
     
@@ -27468,6 +27468,13 @@
       }
       
       ,{
+        "title"    : "Windsurf zavádí Planning Mode pro dlouhodobé plánování projektů, model O3 zlevňuje",
+        "url"      : "//vibecoding/windsurf-planing-mode/",
+        "category" : "vibecoding",
+        "content"  : "Společnost Windsurf (dříve Exafunction) představila Planning Mode jako součást své desáté vlny updatů. Nová funkce umožňuje spolupráci s umělou inteligencí na dlouhodobém plánování programátorských projektů prostřednictvím markdown souborů. Současně značně snížila náklady na využívání modelu O3 z OpenAI.Windsurf Planning Mode - nástroj pro strukturované plánování kóduWindsurf, vývojové prostředí zaměřené na programování s umělou inteligencí, vydalo Planning Mode jako klíčovou součást Wave 10. Tato funkce představuje první nativní implementaci dlouhodobého plánování v IDE prostředí.Planning Mode funguje prostřednictvím lokálního markdown souboru, který obsahuje cíle a úkoly projektu. AI asistent Cascade automaticky generuje a upravuje tento plán během práce na projektu. Uživatelé mohou..."
+      }
+      
+      ,{
         "title"    : "Tempolabs představuje modul pro Figma s převodem designu na kód pomocí AI",
         "url"      : "//vibecoding/figma-modul/",
         "category" : "vibecoding",
@@ -27475,10 +27482,10 @@
       }
       
       ,{
-        "title"    : "Windsurf zavádí Planning Mode pro dlouhodobé plánování projektů, model O3 zlevňuje",
-        "url"      : "//vibecoding/windsurf-planing-mode/",
+        "title"    : "Windsurf Browser: Nový AI-integrovaný prohlížeč pro vývojáře",
+        "url"      : "//vibecoding/windsurf-browser/",
         "category" : "vibecoding",
-        "content"  : "Společnost Windsurf (dříve Exafunction) představila Planning Mode jako součást své desáté vlny updatů. Nová funkce umožňuje spolupráci s umělou inteligencí na dlouhodobém plánování programátorských projektů prostřednictvím markdown souborů. Současně značně snížila náklady na využívání modelu O3 z OpenAI.Windsurf Planning Mode - nástroj pro strukturované plánování kóduWindsurf, vývojové prostředí zaměřené na programování s umělou inteligencí, vydalo Planning Mode jako klíčovou součást Wave 10. Tato funkce představuje první nativní implementaci dlouhodobého plánování v IDE prostředí.Planning Mode funguje prostřednictvím lokálního markdown souboru, který obsahuje cíle a úkoly projektu. AI asistent Cascade automaticky generuje a upravuje tento plán během práce na projektu. Uživatelé mohou..."
+        "content"  : "Společnost Windsurf představila Windsurf Browser, AI-integrovaný webový prohlížeč, který má zlepšit spolupráci mezi vývojáři a umělou inteligencí. Prohlížeč řeší problém neúplného kontextu, kdy AI asistent Cascade neměl přehled o tom, co vývojář dělá ve webovém prohlížeči při práci s dokumentací, debugging nebo testování aplikací.Technické specifikace a funkceWindsurf Browser je postavený na Chromiu a funguje jako standardní webový prohlížeč s rozšířenými možnostmi pro AI integraci. Prohlížeč se spouští přímo z Windsurf editoru tlačítkem v pravém horním rohu rozhraní. Vývojáři v něm mohou prohlížet webové stránky, dokumentaci, GitHub issues a debugovat aplikace stejně jako v běžném prohlížeči.Klíčová funkcionalita spočívá v tom, že..."
       }
       
     
