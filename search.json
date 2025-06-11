@@ -27387,7 +27387,7 @@
         "title"    : "Replit Auth - bezpečné přihlašování jedním příkazem",
         "url"      : "//vibecoding/replit-auth/",
         "category" : "vibecoding",
-        "content"  : "Představujeme Replit Auth: přidejte bezpečné přihlašování do aplikaceUživatelské přihlašování, sociální sign-in a správa uživatelů — vše z jediného promptu s Replit Auth.🚀 Proč Replit Auth?Přidání uživatelského přihlašování může být jedna z nejtěžších funkcí. Obvyklé problémy: Konfigurace externích služeb Správa callback URL Integrace nových login providerů Ukládání uživatelských informací Otázky bezpečnostiJednoduché řešeníStačí přidat do promptu “use Replit Auth” a získáte: ✅ Spolehlivou autentizaci uživatelů ✅ Více sociálních login providerů na výběr ✅ Enterprise grade bezpečnost ✅ Uživatelské informace uložené v databázi aplikace ✅ Správu a administraci uživatelů👥 Zkušenost uživatelůKdyž uživatelé navštíví vaši aplikaci: Uvidí tlačítko “Log in” Kliknutí je přesměruje na..."
+        "content"  : "Uživatelské přihlašování, sociální sign-in a správa uživatelů — vše z jediného promptu s Replit Auth.🚀 Proč Replit Auth?Přidání uživatelského přihlašování může být jedna z nejtěžších funkcí. Obvyklé problémy: Konfigurace externích služeb Správa callback URL Integrace nových login providerů Ukládání uživatelských informací Otázky bezpečnostiJednoduché řešeníStačí přidat do promptu “use Replit Auth” a získáte: ✅ Spolehlivou autentizaci uživatelů ✅ Více sociálních login providerů na výběr ✅ Enterprise grade bezpečnost ✅ Uživatelské informace uložené v databázi aplikace ✅ Správu a administraci uživatelů👥 Zkušenost uživatelůKdyž uživatelé navštíví vaši aplikaci: Uvidí tlačítko “Log in” Kliknutí je přesměruje na Replit.com pro autentizaci Přihlášení pomocí sociálního providera..."
       }
       
       ,{
@@ -27401,14 +27401,14 @@
         "title"    : "Replit - nejbezpečnější místo pro vibe coding",
         "url"      : "//vibecoding/safe-vibe-coding/",
         "category" : "vibecoding",
-        "content"  : "Replit: nejbezpečnější místo pro vibe codingReplit posiluje bezpečnost a spouští nejlepší vibe coding history funkci na světě. Pro ty, kteří přinášejí R projekty, máme také skvělé novinky.🔒 Posílená bezpečnostBezpečnost je klíčová při vývoji aplikací s AI. Replit zavádí:Vestavěné bezpečnostní funkce Pre-deployment security screening - automatická kontrola před nasazením Security scanner - vestavěný skener pro nalezení a opravu bezpečnostních problémů Secure defaults - bezpečná výchozí nastavení pro všechny projekty Secrets management - bezpečná správa API klíčů a citlivých datVibe coding s důrazem na bezpečnost Secure coding practices - AI Agent dodržuje bezpečnostní standardy Automatic vulnerability detection - automatické odhalování zranitelností Safe..."
+        "content"  : "Replit posiluje bezpečnost a spouští nejlepší vibe coding history funkci na světě. Pro ty, kteří přinášejí R projekty, máme také skvělé novinky.🔒 Posílená bezpečnostBezpečnost je klíčová při vývoji aplikací s AI. Replit zavádí:Vestavěné bezpečnostní funkce Pre-deployment security screening - automatická kontrola před nasazením Security scanner - vestavěný skener pro nalezení a opravu bezpečnostních problémů Secure defaults - bezpečná výchozí nastavení pro všechny projekty Secrets management - bezpečná správa API klíčů a citlivých datVibe coding s důrazem na bezpečnost Secure coding practices - AI Agent dodržuje bezpečnostní standardy Automatic vulnerability detection - automatické odhalování zranitelností Safe dependency management - bezpečná správa..."
       }
       
       ,{
         "title"    : "Element Editor - klikni, uprav, publikuj",
         "url"      : "//vibecoding/element-editor/",
         "category" : "vibecoding",
-        "content"  : "Click, Edit, Ship — představujeme Element EditorNový Element Editor umožňuje přímé úpravy aplikací bez znalosti kódu, podobně jako v design nástrojích.✨ Co je nového:📝 Přímé editování textuJednoduše klikněte na jakýkoli textový element a začněte psát. Funguje to stejně jako v design nástrojích — žádné kódování není potřeba.🎨 Vylepšené editování barev Zadejte název barvy, hex kód nebo použijte kapátko Okamžité náhled změn Intuitivní ovládání s menším počtem kliknutí🛠️ Nové style kontroly Velikost písma - snadné úpravy Tloušťka písma - modifikace font weight Zarovnání textu - ovládání alignmentu Barva pozadí - editace background color Margin - přizpůsobení okrajů Padding - úprava vnitřních..."
+        "content"  : "Nový Element Editor umožňuje přímé úpravy aplikací bez znalosti kódu, podobně jako v design nástrojích.✨ Co je nového:📝 Přímé editování textuJednoduše klikněte na jakýkoli textový element a začněte psát. Funguje to stejně jako v design nástrojích — žádné kódování není potřeba.🎨 Vylepšené editování barev Zadejte název barvy, hex kód nebo použijte kapátko Okamžité náhled změn Intuitivní ovládání s menším počtem kliknutí🛠️ Nové style kontroly Velikost písma - snadné úpravy Tloušťka písma - modifikace font weight Zarovnání textu - ovládání alignmentu Barva pozadí - editace background color Margin - přizpůsobení okrajů Padding - úprava vnitřních okrajů🚀 Jak Element Editor funguje Aktivujte..."
       }
       
       ,{
@@ -27457,7 +27457,21 @@
         "title"    : "Import Figma designů do Replit Agent",
         "url"      : "//vibecoding/import-figma-designs/",
         "category" : "vibecoding",
-        "content"  : "Import Figma a dalších design nástrojů do Agent s Replit ImportReplit spouští Replit Import — nový způsob, jak tvůrci mohou importovat své návrhy do Repli a transformovat je na bezpečné, produkční aplikace pomocí Replit Agent.🎨 Import z Figma jednodušeKlíčové funkce: High-fidelity převod - vylepšené generování komponent s vysokou věrností původním návrhům Inteligentní backend - Replit Agent dokáže vygenerovat potřebnou backend funkcionalita po importu Produkční nasazení - přechod z Figma designu na živou aplikaci rychleji než kdy předtím🔒 Import z Lovable a BoltMnoho designů vytvořených jinými nástroji má skryté bezpečnostní zranitelnosti. Replit má vestavěné bezpečnostní funkce: Pre-deployment security screening - kontrola..."
+        "content"  : "Replit spouští Replit Import — nový způsob, jak tvůrci mohou importovat své návrhy do Repli a transformovat je na bezpečné, produkční aplikace pomocí Replit Agent.🎨 Import z Figma jednodušeKlíčové funkce: High-fidelity převod - vylepšené generování komponent s vysokou věrností původním návrhům Inteligentní backend - Replit Agent dokáže vygenerovat potřebnou backend funkcionalita po importu Produkční nasazení - přechod z Figma designu na živou aplikaci rychleji než kdy předtím🔒 Import z Lovable a BoltMnoho designů vytvořených jinými nástroji má skryté bezpečnostní zranitelnosti. Replit má vestavěné bezpečnostní funkce: Pre-deployment security screening - kontrola před nasazením Secure defaults - bezpečné výchozí nastavení Built-in security..."
+      }
+      
+      ,{
+        "title"    : "Tempo Labs Volume 2: MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav",
+        "url"      : "//vibecoding/mcp-app-store-styling-panel/",
+        "category" : "vibecoding",
+        "content"  : "Tempo Labs, startup z akcelerátoru Y Combinator S23, představil 9. června 2025 druhý souhrnný balík novinek s názvem Volume 2. Na svém účtu X stručně vyjmenoval hlavní přírůstky – MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav. Níže si rozeberme, co jednotlivé novinky znamenají pro vývojáře používající Tempo jako AI-asistované IDE.První položkou je MCP App Store, marketplace integrovaný do postranního panelu editoru. Uživatel vybere službu, vloží její API klíč a během zhruba jedné minuty se v canvasu objeví plně konfigurovaná funkce – například pro Stripe, OpenAI nebo Firecrawl – přičemž všechny meta­údaje ukládá protokol Model..."
+      }
+      
+      ,{
+        "title"    : "Tempolabs představuje modul pro Figma s převodem designu na kód pomocí AI",
+        "url"      : "//vibecoding/figma-modul/",
+        "category" : "vibecoding",
+        "content"  : "Nová verze Tempo Labs nazvaná Volume 2 zavádí Figma zásuvný modul, který konvertuje vaše designy na kód přímo v Tempo Welcome to Tempo Labs - Tempo. Modul je dostupný ve Figma Community a umožňuje plynulý převod návrhových komponent na funkční React kód. Z technického hlediska jde o významný krok směrem k uzavření mezery mezi návrhem a vývojovým procesem.Integrace funguje tak, že návrháři mohou exportovat své Figma komponenty a ty se automaticky transformují na React komponenty s odpovídajícím CSS/Tailwind kódem. Tempo generuje modulární kód připravený pro produkci, který zůstává v synchronizaci s původními Figma návrhy."
       }
       
       ,{
