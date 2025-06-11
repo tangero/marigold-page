@@ -4,9 +4,21 @@ author: Patrick Zandl
 categories:
 - bitcoin
 layout: post
-post_excerpt: Tohle je téměř neuvěřitelný příběh toho, jak ministru spravedlnosti přišlo v pořádku přijmout dar od provozovatele nelegálního tržiště, aby se z toho vyklubalo...
+post_excerpt: Tohle je téměř neuvěřitelný příběh toho, jak ministru spravedlnosti
+  přišlo v pořádku přijmout dar od provozovatele nelegálního tržiště, aby se z toho
+  vyklubalo...
+summary_points:
+- Blažekova kauza znovu otevřela případ Tomáše Jiříkovského, spojeného s darkwebovým
+  tržištěm Sheep Marketplace.
+- Sheep Marketplace fungovalo jako fórum pro nelegální obchody, kde Jiříkovský pravděpodobně
+  získal bitcoiny.
+- Jiříkovský byl odsouzen za zpronevěru BTC, obchod s drogami a nedovolené ozbrojování,
+  propuštěn podmínečně v roce 2021.
+- Ministerstvo spravedlnosti přijalo dar bitcoinů od Jiříkovského, což vyvolalo podezření
+  z legalizace výnosů z trestné činnosti.
 thumbnail: https://www.marigold.cz/assets/tomas_jirikovsky.jpeg
-title: 🐑 Sheep Marketplace - jak Tomáš Jiříkovský a ministr spravedlnosti k bitcoinům přišli
+title: "\U0001F411 Sheep Marketplace - jak Tomáš Jiříkovský a ministr spravedlnosti
+  k bitcoinům přišli"
 ---
 
 S poslední kauzou kolem dnes již bývalého ministra spravedlnosti Pavla Blažka znovu vyšlo na světlo světa jméno jednoho z prvních usvědčených krypto-kriminálníků Tomáše Jiřikovského. Pojďme se podívat, jak ke svým bitcoinům Jiřikovský přišel.

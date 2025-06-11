@@ -6,13 +6,21 @@ categories:
 - vibecoding
 - Cursor
 layout: post
+post_excerpt: Nejnovější verze nástroje pro AI programování je jedničkovou verzí.
+  Za více než rok vývoje se od forku VS Code změnilo mnohé, firmě to vyneslo desetimiliardové
+  ohodnocení. Jaké jsou tedy novinky?
+summary_points:
+- Cursor 1.0 přináší automatickou kontrolu kódu BugBotem a rozšířený Background Agent.
+- BugBot analyzuje pull requesty a identifikuje potenciální problémy v kódu.
+- Background Agent nově dostupný všem uživatelům spouští AI agenty v cloudu.
+- MCP protokol zjednodušuje integraci externích nástrojů, podporuje GitHub, Stripe
+  a Figma.
 sw: cursor
-post_excerpt: Nejnovější verze nástroje pro AI programování je jedničkovou verzí. Za více než rok vývoje se od forku VS Code změnilo mnohé, firmě to vyneslo desetimiliardové ohodnocení. Jaké jsou tedy novinky? 
 thumbnail: https://www.marigold.cz/assets/cursor-1.jpeg
-title: "Cursor 1.0: Nové funkce pro AI programování / vibecoding"
+title: Cursor 1.0 -  Nové funkce pro AI programování / vibecoding
 ---
 
-Společnost Anysphere vydala verzi 1.0 svého AI editoru kódu Cursor, která přináší automatickou kontrolu kódu, rozšířený přístup k Background Agent a zjednodušenou integraci MCP protokolu. Vydání přichází více než rok po spuštění v roce 2023 a obsahuje sedm hlavních funkcí.
+Společnost Anysphere vydala verzi 1.0 svého AI editoru kódu Cursor, která přináší automatickou kontrolu kódu, rozšířený přístup k Background Agent a zjednodušenou integraci [MCP](/ai/mcp/) protokolu. Vydání přichází více než rok po spuštění v roce 2023 a obsahuje sedm hlavních funkcí.
 
 ## Automatická kontrola kódu s BugBot
 
@@ -56,7 +64,7 @@ Systém funguje pomocí příkazu "@Memory" (například "Please remember ___ @M
 
 ## MCP protokol s jedním kliknutím
 
-Model Context Protocol (MCP) představuje standardizovaný způsob připojení AI agentů k externím zdrojům dat. MCP funguje jako vrstva mezi jazykovými modely a API různých služeb, což eliminuje nutnost psát vlastní kód pro každou integraci.
+[Model Context Protocol](/ai/mcp/) (MCP) představuje standardizovaný způsob připojení AI agentů k externím zdrojům dat. MCP funguje jako vrstva mezi jazykovými modely a API různých služeb, což eliminuje nutnost psát vlastní kód pro každou integraci.
 
 Cursor 1.0 zjednodušuje instalaci MCP serverů. Místo manuálního nastavování přes "Add Custom MCP" nyní uživatelé navštíví stránku MCP tools, vyberou požadovaný nástroj a kliknou na "Add app to Cursor".
 
@@ -105,7 +113,6 @@ Omezení na modely Sonnet u Jupyter notebooků a beta status funkcí jako Memori
 
 Uživatelé místy vyjadřují obavy ohledně technických problémů, jako je absence sdílených MCP serverů, což vede k vysoké paměťové náročnosti, a zastaralé verze VSCode používané Cursorem, což způsobuje problémy s rozšířeními. Tyto body naznačují, že i přes pozitivní odezvy existují výzvy, které mohou ovlivnit uživatelský zážitek.
 
-Další feedback zahrnuje srovnání s konkurencí, například s Claude Code, kde někteří uživatelé považují Cursor za levnější ($20/měsíc oproti $200/měsíc u Claude Code), ale vyjádřili nespokojenost s výkonem, například „Podpora Pythonu byla minulý týden katastrofální, odinstaloval jsem to před měsíci kvůli tomu“ (Hacker News). Jiní uživatelé ocenili nové funkce, jako BugBot a rozšíření Background Agentů, ale přáli si vylepšení, například dostupnost Background Agentů i v režimu soukromí.
+Další feedback zahrnuje srovnání s konkurencí, například s [Claude Code](/ai/claude-code/), kde někteří uživatelé považují Cursor za levnější ($20/měsíc oproti $200/měsíc u Claude Code), ale vyjádřili nespokojenost s výkonem, například „Podpora Pythonu byla minulý týden katastrofální, odinstaloval jsem to před měsíci kvůli tomu“ (Hacker News). Jiní uživatelé ocenili nové funkce, jako BugBot a rozšíření Background Agentů, ale přáli si vylepšení, například dostupnost Background Agentů i v režimu soukromí.
 
 [Oficiální changelog](https://www.cursor.com/en/changelog)  poskytuje detailní přehled nových funkcí, včetně automatických kontrol kódu s BugBotem, rozšíření Background Agentů pro všechny uživatele a podpory Jupyter Notebooks, což odpovídá oznámení v X příspěvku a video.
-
