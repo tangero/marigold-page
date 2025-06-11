@@ -26282,6 +26282,15 @@
   
     
     ,{
+      "title"    : "Replit - Vibe Coding",
+      "url"      : "//vibecoding/replit/",
+      "category" : "stránka",
+      "content"  : "# 🟠 Replit**AI-powered cloudová platforma pro vývoj a nasazení aplikací**🔗 [Navštívit Replit →](https://replit.com)Replit je cloudová vývojová platforma, která kombinuje AI s kompletním vývojovým prostředím. Umožňuje vytvářet, upravovat a nasazovat aplikace přímo v prohlížeči s pomocí Replit Agent - pokročilého AI asistenta pro programování.Replit se zaměřuje na &quot;vibe coding&quot; - rychlý a intuitivní vývoj aplikací s minimální konfigurací. Platforma nabízí integrované nástroje pro databáze, autentizaci, hosting a bezpečnost. 📋 Detailní informace o Replit ### Klíčové vlastnosti:- **Replit Agent** - AI asistent pro vytváření celých aplikací- **Element Editor** - vizuální úprava aplikací bez kódování- **Replit Auth** - bezpečná autentizace bez konfigurace- **Import..."
+    }
+    
+  
+    
+    ,{
       "title"    : "Tempolabs - Vibe Coding",
       "url"      : "//vibecoding/tempolabs/",
       "category" : "stránka",
@@ -27375,10 +27384,31 @@
       }
       
       ,{
+        "title"    : "Replit Auth - bezpečné přihlašování jedním příkazem",
+        "url"      : "//vibecoding/replit-auth/",
+        "category" : "vibecoding",
+        "content"  : "Představujeme Replit Auth: přidejte bezpečné přihlašování do aplikaceUživatelské přihlašování, sociální sign-in a správa uživatelů — vše z jediného promptu s Replit Auth.🚀 Proč Replit Auth?Přidání uživatelského přihlašování může být jedna z nejtěžších funkcí. Obvyklé problémy: Konfigurace externích služeb Správa callback URL Integrace nových login providerů Ukládání uživatelských informací Otázky bezpečnostiJednoduché řešeníStačí přidat do promptu “use Replit Auth” a získáte: ✅ Spolehlivou autentizaci uživatelů ✅ Více sociálních login providerů na výběr ✅ Enterprise grade bezpečnost ✅ Uživatelské informace uložené v databázi aplikace ✅ Správu a administraci uživatelů👥 Zkušenost uživatelůKdyž uživatelé navštíví vaši aplikaci: Uvidí tlačítko “Log in” Kliknutí je přesměruje na..."
+      }
+      
+      ,{
         "title"    : " Custom Domain Deployment Enhancements - Vylepšené nasazení na vlastní domény",
         "url"      : "//vibecoding/custom-domain/",
         "category" : "vibecoding",
         "content"  : "Databutton vylepšil svůj proces nasazení aplikací, který nyní umožňuje snadnější a rychlejší připojení k vlastním doménám. Uživatelé mohou nasadit své aplikace na domény typu [username].databutton.app/[appname] nebo na zcela vlastní domény s jedním kliknutím. Nová funkce také zahrnuje automatickou konfiguraci SSL certifikátů pro zajištění bezpečnosti.Tato funkce je ideální pro podnikatele a firmy, které chtějí spustit profesionální aplikace pod vlastní značkou. Například startup může nasadit svou SaaS aplikaci na vlastní doménu bez potřeby manuální konfigurace serveru. Funkce je také užitečná pro rychlé testování aplikací na veřejných URL před finálním nasazením.Proces nasazení je plně automatizovaný a zahrnuje integraci s poskytovateli domén, jako jsou..."
+      }
+      
+      ,{
+        "title"    : "Replit - nejbezpečnější místo pro vibe coding",
+        "url"      : "//vibecoding/safe-vibe-coding/",
+        "category" : "vibecoding",
+        "content"  : "Replit: nejbezpečnější místo pro vibe codingReplit posiluje bezpečnost a spouští nejlepší vibe coding history funkci na světě. Pro ty, kteří přinášejí R projekty, máme také skvělé novinky.🔒 Posílená bezpečnostBezpečnost je klíčová při vývoji aplikací s AI. Replit zavádí:Vestavěné bezpečnostní funkce Pre-deployment security screening - automatická kontrola před nasazením Security scanner - vestavěný skener pro nalezení a opravu bezpečnostních problémů Secure defaults - bezpečná výchozí nastavení pro všechny projekty Secrets management - bezpečná správa API klíčů a citlivých datVibe coding s důrazem na bezpečnost Secure coding practices - AI Agent dodržuje bezpečnostní standardy Automatic vulnerability detection - automatické odhalování zranitelností Safe..."
+      }
+      
+      ,{
+        "title"    : "Element Editor - klikni, uprav, publikuj",
+        "url"      : "//vibecoding/element-editor/",
+        "category" : "vibecoding",
+        "content"  : "Click, Edit, Ship — představujeme Element EditorNový Element Editor umožňuje přímé úpravy aplikací bez znalosti kódu, podobně jako v design nástrojích.✨ Co je nového:📝 Přímé editování textuJednoduše klikněte na jakýkoli textový element a začněte psát. Funguje to stejně jako v design nástrojích — žádné kódování není potřeba.🎨 Vylepšené editování barev Zadejte název barvy, hex kód nebo použijte kapátko Okamžité náhled změn Intuitivní ovládání s menším počtem kliknutí🛠️ Nové style kontroly Velikost písma - snadné úpravy Tloušťka písma - modifikace font weight Zarovnání textu - ovládání alignmentu Barva pozadí - editace background color Margin - přizpůsobení okrajů Padding - úprava vnitřních..."
       }
       
       ,{
@@ -27421,6 +27451,13 @@
         "url"      : "//vibecoding/vscode-jetbrains/",
         "category" : "vibecoding",
         "content"  : "Claude Code nově vidí vaše otevřené soubory, diagnostiku LSP a jakýkoli text, který zvýrazníte ve VS Code a JetBrains. Když Claude Code navrhne změny, zobrazí vám úpravy v editoru, takže můžete plynule pracovat ve svých oblíbených editorech."
+      }
+      
+      ,{
+        "title"    : "Import Figma designů do Replit Agent",
+        "url"      : "//vibecoding/import-figma-designs/",
+        "category" : "vibecoding",
+        "content"  : "Import Figma a dalších design nástrojů do Agent s Replit ImportReplit spouští Replit Import — nový způsob, jak tvůrci mohou importovat své návrhy do Repli a transformovat je na bezpečné, produkční aplikace pomocí Replit Agent.🎨 Import z Figma jednodušeKlíčové funkce: High-fidelity převod - vylepšené generování komponent s vysokou věrností původním návrhům Inteligentní backend - Replit Agent dokáže vygenerovat potřebnou backend funkcionalita po importu Produkční nasazení - přechod z Figma designu na živou aplikaci rychleji než kdy předtím🔒 Import z Lovable a BoltMnoho designů vytvořených jinými nástroji má skryté bezpečnostní zranitelnosti. Replit má vestavěné bezpečnostní funkce: Pre-deployment security screening - kontrola..."
       }
       
       ,{
