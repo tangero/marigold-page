@@ -5,8 +5,6 @@ date: 2025-05-22
 sw: replit
 ---
 
-# Click, Edit, Ship — představujeme Element Editor
-
 Nový Element Editor umožňuje přímé úpravy aplikací bez znalosti kódu, podobně jako v design nástrojích.
 
 ## ✨ Co je nového:

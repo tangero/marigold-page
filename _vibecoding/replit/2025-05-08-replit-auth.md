@@ -5,7 +5,6 @@ date: 2025-05-08
 sw: replit
 ---
 
-# Představujeme Replit Auth: přidejte bezpečné přihlašování do aplikace
 
 Uživatelské přihlašování, sociální sign-in a správa uživatelů — vše z jediného promptu s Replit Auth.
 

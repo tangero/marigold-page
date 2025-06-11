@@ -5,8 +5,6 @@ date: 2025-06-10
 sw: replit
 ---
 
-# Import Figma a dalších design nástrojů do Agent s Replit Import
-
 Replit spouští **Replit Import** — nový způsob, jak tvůrci mohou importovat své návrhy do Repli a transformovat je na bezpečné, produkční aplikace pomocí Replit Agent.
 
 ## 🎨 Import z Figma jednoduše
