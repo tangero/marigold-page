@@ -4,69 +4,15 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vibe Coding - AI nástroje pro programování</title>
-    <description>Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programování s pomocí umělé inteligence</description>
-    <link>{{ site.url }}/vibecoding/</link>
+    <title>{{ site.title }}</title>
+    <description>{{ site.description }}</description>
+    <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    {% assign vibecoding_posts = site.vibecoding | sort: "date" | reverse %}
-    {% assign category_posts = site.posts | where_exp: "post", "post.categories contains 'vibecoding'" | sort: "date" | reverse %}
-    {% assign all_posts = vibecoding_posts | concat: category_posts | sort: "date" | reverse %}
-    {% for post in all_posts %}
-      {% comment %} Získání názvu softwaru z URL nebo front matter {% endcomment %}
-      {% assign software_name = "" %}
-      {% if post.sw %}
-        {% case post.sw %}
-          {% when "databutton" %}
-            {% assign software_name = "🔴 Databutton" %}
-          {% when "claude-code" %}
-            {% assign software_name = "🟣 Claude Code" %}
-          {% when "openai-codex" %}
-            {% assign software_name = "🟢 OpenAI Codex" %}
-          {% when "cursor" %}
-            {% assign software_name = "🖱️ Cursor" %}
-          {% when "lovable-dev" %}
-            {% assign software_name = "💖 Lovable.dev" %}
-          {% when "windsurf" %}
-            {% assign software_name = "🌊 Windsurf" %}
-          {% when "tempolabs" %}
-            {% assign software_name = "⚡ Tempolabs" %}
-          {% when "memex" %}
-            {% assign software_name = "🧠 Memex" %}
-          {% when "replit" %}
-            {% assign software_name = "🟠 Replit" %}
-          {% else %}
-            {% assign software_name = post.sw | capitalize %}
-        {% endcase %}
-      {% else %}
-        {% assign path_parts = post.path | split: "/" %}
-        {% assign folder_name = path_parts[1] %}
-        {% case folder_name %}
-          {% when "databutton" %}
-            {% assign software_name = "🔴 Databutton" %}
-          {% when "claude-code" %}
-            {% assign software_name = "🟣 Claude Code" %}
-          {% when "openai-codex" %}
-            {% assign software_name = "🟢 OpenAI Codex" %}
-          {% when "cursor" %}
-            {% assign software_name = "🖱️ Cursor" %}
-          {% when "lovable-dev" %}
-            {% assign software_name = "💖 Lovable.dev" %}
-          {% when "windsurf" %}
-            {% assign software_name = "🌊 Windsurf" %}
-          {% when "tempolabs" %}
-            {% assign software_name = "⚡ Tempolabs" %}
-          {% when "memex" %}
-            {% assign software_name = "🧠 Memex" %}
-          {% when "replit" %}
-            {% assign software_name = "🟠 Replit" %}
-          {% else %}
-            {% assign software_name = folder_name | capitalize %}
-        {% endcase %}
-      {% endif %}
+    {% for post in site.posts %}
       <item>
-        <title>{{ software_name }} - {{ post.title }}</title>
+        <title>{{ post.title }}</title>
         <link>{{ site.url }}{{ post.url }}</link>
         <guid>{{ site.url }}{{ post.url }}</guid>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>

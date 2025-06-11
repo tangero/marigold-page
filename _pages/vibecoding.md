@@ -6,7 +6,7 @@ permalink: /vibecoding/
 
 # Vibe Coding - AI nástroje pro programování
 
-<a href="/feed.xml" class="rss-link">📰 RSS Feed</a>
+<a href="/vibecoding-feed.xml" class="rss-link">📰 RSS Feed</a>
 
 Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programování s pomocí umělé inteligence.
 
