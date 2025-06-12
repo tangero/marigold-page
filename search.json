@@ -27499,6 +27499,13 @@
         "content"  : "Společnost Windsurf představila Windsurf Browser, AI-integrovaný webový prohlížeč, který má zlepšit spolupráci mezi vývojáři a umělou inteligencí. Prohlížeč řeší problém neúplného kontextu, kdy AI asistent Cascade neměl přehled o tom, co vývojář dělá ve webovém prohlížeči při práci s dokumentací, debugging nebo testování aplikací.Technické specifikace a funkceWindsurf Browser je postavený na Chromiu a funguje jako standardní webový prohlížeč s rozšířenými možnostmi pro AI integraci. Prohlížeč se spouští přímo z Windsurf editoru tlačítkem v pravém horním rohu rozhraní. Vývojáři v něm mohou prohlížet webové stránky, dokumentaci, GitHub issues a debugovat aplikace stejně jako v běžném prohlížeči.Klíčová funkcionalita spočívá v tom, že..."
       }
       
+      ,{
+        "title"    : "Novinka v Claude Code: Režim implementačního plánu",
+        "url"      : "//vibecoding/rezim-planu/",
+        "category" : "vibecoding",
+        "content"  : "Před provedením změn si zkontrolujte implementační plány. Ideální je to pro komplexní změny, u kterých chcete nejprve přesně určit postup, než se do nich pustíte.Jak to funguje: stiskněte dvakrát Shift+Tab pro aktivaci režimu plánování při zadávání promptu.Poté zadáte prompt Claude Code jako obvykle a ten vám nabídne podrobný implementační plán a před provedením vás požádá o schválení.Režim plánování je nyní k dispozici všem uživatelům Claude Code, včetně všech uživatelů s tarifem Pro nebo Max."
+      }
+      
     
   
 ]
