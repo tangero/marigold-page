@@ -8,7 +8,7 @@ permalink: /vibecoding/replit/
 
 **AI-powered cloudová platforma pro vývoj a nasazení aplikací**
 
-🔗 [Navštívit Replit →](https://replit.com)
+🔗 [Navštívit Replit →](https://replit.com/refer/zandl)
 
 Replit je cloudová vývojová platforma, která kombinuje AI s kompletním vývojovým prostředím. Umožňuje vytvářet, upravovat a nasazovat aplikace přímo v prohlížeči s pomocí Replit Agent - pokročilého AI asistenta pro programování.
 
