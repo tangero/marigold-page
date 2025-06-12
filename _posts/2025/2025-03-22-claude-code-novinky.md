@@ -6,7 +6,7 @@ categories:
 - Anthropic
 - vibe code
 - AI
-sw: Claude Code
+sw: claude
 date: 2025-03-22 22:00:00
 layout: post
 summary_points:
