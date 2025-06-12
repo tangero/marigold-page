@@ -1,4 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-06-12T05:43:16+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">OpenAI snížila cenu modelu o3 o 80 % a představila o3-Pro</title><link href="https://www.marigold.cz/item/openai_o3_o3-pro/" rel="alternate" type="text/html" title="OpenAI snížila cenu modelu o3 o 80 % a představila o3-Pro" /><published>2025-06-11T00:00:00+00:00</published><updated>2025-06-11T00:00:00+00:00</updated><id>https://www.marigold.cz/item/openai_o3_o3-pro</id><content type="html" xml:base="https://www.marigold.cz/item/openai_o3_o3-pro/"><![CDATA[<p>OpenAI oznámila výrazné snížení ceny svého modelu o3 o 80 procent spolu s uvedením nové varianty o3-Pro. Model o3 nyní stojí 2 dolary za milion vstupních tokenů a 8 dolarů za milion výstupních tokenů, zatímco dříve byla cena 10 a 40 dolarů. Současně byla představena výkonnější varianta o3-Pro.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://www.marigold.cz/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.marigold.cz/" rel="alternate" type="text/html" /><updated>2025-06-12T05:44:09+00:00</updated><id>https://www.marigold.cz/feed.xml</id><title type="html">Marigold.cz</title><subtitle>Technologie a Svět</subtitle><author><name>Patrick Zandl</name></author><entry xml:lang="cs"><title type="html">Týden AI a robotiky - ChatGPT s novými konektory, vylepšený Gemini a pokroky humanoidů</title><link href="https://www.marigold.cz/item/ai_robotics_12-06-2025/" rel="alternate" type="text/html" title="Týden AI a robotiky - ChatGPT s novými konektory, vylepšený Gemini a pokroky humanoidů" /><published>2025-06-12T00:00:00+00:00</published><updated>2025-06-12T00:00:00+00:00</updated><id>https://www.marigold.cz/item/ai_robotics_12-06-2025</id><content type="html" xml:base="https://www.marigold.cz/item/ai_robotics_12-06-2025/"><![CDATA[<p>Uplynulý týden přinesl řadu významných aktualizací od hlavních technologických společností. OpenAI rozšířil možnosti ChatGPT o datové konektory a vylepšil hlasový režim, Google posílil svůj model Gemini 2.5 Pro a Microsoft integroval generování videí do mobilní aplikace Bing. Současně pokračuje rychlý vývoj v oblasti humanoidní robotiky, kde společnosti jako Figure, Agility Robotics a čínské firmy představují stále schopnější systémy.</p>
+
+<p><strong>Marigold má novou rubriku <a href="/vibecoding">Vibecoding</a></strong>, kam se soustřeďují novinky v hlavních nástrojích pro vibecoding a AI programování. A to včetně těch, které pro svou celkovou podružnost nejdou ani na titulní stránku.</p>
+
+<h2 id="openai-rozšiřuje-možnosti-chatgpt">OpenAI rozšiřuje možnosti ChatGPT</h2>
+
+<p><a href="https://openai.com">OpenAI</a> představil několik podstatných aktualizací svého chatbota <a href="https://chat.openai.com">ChatGPT</a>. Nejvýznamnější je přidání datových konektorů, které umožňují přímé propojení s externími zdroji dat včetně Google Drive. Tato funkcionalita usnadňuje práci s dokumenty a daty uloženými v cloudových službách.</p>
+
+<p>Společnost také vylepšila režim nahrávání schůzek, který nyní dokáže automaticky převádět meetingy na přepisy s analýzami a pozorováními. Funkce je zatím dostupná jen ve vyšším placeném tarifu pro firmy. <a href="https://openai.com/blog/openai-codex">Codex</a>, vývojářská verze ChatGPT, získal přístup k internetu, což výrazně rozšiřuje jeho schopnosti při programování a vyhledávání aktuálních informací.</p>
+
+<p>Bezplatní uživatelé se dočkali funkce <em>lightweight memory</em>, která umožňuje ChatGPT si pamatovat kontext předchozích konverzací v rámci relace. OpenAI také aktualizoval <a href="https://openai.com/blog/introducing-chatgpt-voice-and-vision">Advanced Voice mode</a>, který je nyní přirozenější v konverzaci a efektivnější při překladech. Systém dokáže vytrvale překládat v průběhu více výměn, dokud nedostane pokyn k zastavení.</p>
+
+<h2 id="google-posiluje-pozici-gemini-25-pro">Google posiluje pozici Gemini 2.5 Pro</h2>
+
+<p><a href="https://google.com">Google</a> vydal aktualizovanou verzi modelu <a href="https://ai.google.dev/gemini-api">Gemini 2.5 Pro Preview</a>, která podle benchmarků výrazně posílila pozici společnosti v žebříčcích výkonnosti AI modelů. Model vykazuje zlepšení především v oblasti programování, matematiky, vědeckého uvažování a porozumění obrazu.</p>
+
+<p>Kromě výkonnostních vylepšení Google upravil styl a strukturu odpovědí modelu, které jsou nyní lépe formátované a přehlednější. Společnost také představila <a href="https://blog.google/products/android/">Edge AI Gallery</a> pro Android, která umožňuje uživatelům spouštět open-source modely přímo na mobilních zařízeních bez nutnosti připojení k internetu.</p>
+
+<p><a href="https://deepmind.google">Google DeepMind</a> ve spolupráci s britskou vládou spustil nástroj Extract, který využívá multimodální schopnosti modelu Gemini k digitalizaci složitých plánovacích dokumentů. Systém dokáže převést i ručně psané poznámky na digitální data během 40 sekund, což má urychlit rozhodovací procesy v oblasti infrastruktury a bytové výstavby.</p>
+
+<h2 id="microsoft-integruje-sora-a-rozšiřuje-copilot">Microsoft integruje Sora a rozšiřuje Copilot</h2>
+
+<p><a href="https://microsoft.com">Microsoft</a> přidal do mobilní aplikace <a href="https://www.bing.com">Bing</a> bezplatný Video Creator poháněný modelem <a href="https://openai.com/sora">Sora</a> od OpenAI. Tato funkce umožňuje uživatelům vytvářet videa přímo z mobilního zařízení bez nutnosti placené verze.</p>
+
+<p>Společnost také rozšířila <a href="https://copilot.microsoft.com">Copilot</a> o nativní nákupní funkce včetně shrnutí recenzí, sledování cen a upozornění na slevy. Microsoft oznámil, že banka <a href="https://www.barclays.com">Barclays</a> rozšiřuje nasazení <a href="https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365">MS365 Copilot</a> na 100 000 zaměstnanců, což představuje jedno z největších známých nasazení generativní AI v bankovním sektoru.</p>
+
+<h2 id="pokroky-v-humanoidní-robotice">Pokroky v humanoidní robotice</h2>
+
+<p>Společnost <a href="https://www.figure.ai">Figure</a> pokračuje ve vývoju humanoidních robotů pro praktické úkoly. Jejich roboti nyní zvládají složité logistické operace včetně třídění různých balíčků. Klíčovou roli hraje systém Helix AI, který se naučil otáčet balíčky čárovým kódem dolů a srovnávat nafouklé obaly pro skenování. Figure <a href="https://www.youtube.com/watch?v=lkc2y0yb89U">zveřejnila 60minutové video</a> dokumentující nepřetržitou práci robota při řešení logistických úloh.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lkc2y0yb89U?si=tcDNeIrClgSeLXUl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<p><a href="https://www.agilityrobotics.com">Agility Robotics</a> představila demo svého humanoidního robota Digit, který autonomně zvládá vícestupňové domácí úkoly. Robot dokáže sebrat ingredience potřebné na přípravu těstovin a přinést je zpět ke stolu.</p>
+
+<p><a href="https://undercontrol.ai">UCR Robotics</a> ukázala <a href="https://newsroom.arm.com/blog/humanoid-robotics">nové záběry</a> svého humanoidního robota Moby, který zvládá lokomoci včetně bočních kroků, chůze po rampě a couvání. Robot byl trénován na pipeline postavené na Nvidia Isaac GR00T, Isaac Lab a Isaac Sim.</p>
+
+<h2 id="čínské-společnosti-posilují-pozici">Čínské společnosti posilují pozici</h2>
+
+<p>Čínská společnost <a href="https://www.unitree.com">Unitree</a> ve spolupráci s britskou firmou <a href="https://www.rebornrobotics.com">Reborn</a> představila využití frameworku Roboverse, který kombinuje simulační platformu, datové sady a jednotné benchmarky. Tato technologie má urychlit učení robotů 30násobně a umožnit inteligentnější chování.</p>
+
+<p>Společnosti <a href="https://www.bigai.ai">BIGAI</a> a Unitree společně vydaly <a href="https://www.bigai.ai/clone">CLONE</a>, holistický systém pro dálkové řízení (teleoperations) celého těla humanoidních robotů. Systém využívá jediné zařízení <a href="https://www.apple.com/apple-vision-pro/">Vision Pro</a> a umožňuje robotům provádět složité dlouhodobé úkoly včetně boxu, stolního tenisu a manipulace s objekty.</p>
+
+<p>Čínská firma <a href="https://www.agibot.com">Agibot</a> navázala partnerství s <a href="https://www.pepsico.com">PepsiCo</a> na vytvoření Fizz Bot, prvního humanoidního robota s brandem Pepsi. Robot interagoval s Davidem Beckhamem na pódiu a bude používán pro propagační kampaně.</p>
+
+<h2 id="apple-zklamal-na-wwdc-2025">Apple zklamal na WWDC 2025</h2>
+
+<p><a href="https://www.apple.com">Apple</a> na vývojářské konferenci <a href="https://developer.apple.com/wwdc25/">WWDC 2025</a> představil především redesign uživatelského rozhraní, ale AI novinky byly omezené. Společnost ukázala jen několik vylepšení <a href="https://www.apple.com/apple-intelligence/">Apple Intelligence</a> včetně živého překladu pro <a href="https://www.apple.com/facetime/">FaceTime</a>, zprávy a hovory, vizuální inteligence prostřednictvím screenshotů, AI-powered inteligentní akce v aplikaci <a href="https://support.apple.com/guide/shortcuts/welcome/ios">Shortcuts</a> a AI “Workout Buddy” na <a href="https://www.apple.com/watch/">Apple Watch</a>.</p>
+
+<p>Omezený rozsah AI novinek překvapil, zejména ve srovnání s rozsáhlými investicemi konkurentů do této oblasti.</p>
+
+<h2 id="nové-nástroje-pro-tvorbu-obsahu">Nové nástroje pro tvorbu obsahu</h2>
+
+<p><a href="https://elevenlabs.io">ElevenLabs</a> představila <a href="https://elevenlabs.io/blog/elevenlabs-voice-ai-v3">Eleven v3 (alpha)</a>, pokročilý text-to-speech systém podporující více než 70 jazyků. Model zvládá multi-speaker dialog, audio tagy jako vzrušení, vzdychání a smích, a dokáže zpracovat přerušení, změny tónu a emocionální nuance.</p>
+
+<p><a href="https://anysphere.co">Anysphere</a> získala 900 milionů dolarů při valuaci 9,9 miliardy dolarů a uvedla <a href="https://cursor.sh">Cursor 1.0</a> s funkcemi jako BugBot pro review pull requestů, background agent pro asynchronní pomoc s kódem, podporu <a href="https://jupyter.org">Jupyter</a>, Memory (beta) pro zapamatování chyb a 1-click MCP + OAuth.</p>
+
+<p><a href="https://lumalabs.ai">Luma Labs</a> spustila <a href="https://lumalabs.ai/dream-machine">Modify Video</a>, nástroj pro úplné přestylování videí změnou stylu a nastavení. V blind testech překonal Runway V2V při zachování pohybu, animace obličeje a časové konzistence. Nástroj je dostupný v <a href="https://lumalabs.ai/dream-machine">Dream Machine: Ray 2</a>.</p>
+
+<p><a href="https://www.skywork.ai">Skywork AI</a> vydala <a href="https://github.com/SkyworkAI/SkyReels">SkyReels-V2</a>, open-source model pro generování videí neomezené délky. Model umožňuje vytváření kinematografických videí jakékoli délky zdarma přímo z prohlížeče. Váhy modelu a inference kód jsou dostupné na <a href="https://github.com/SkyworkAI/SkyReels">GitHubu</a>.</p>
+
+<p>AI společnost <a href="https://manus.ai">Manus</a> přidala agentní generování videí do své nabídky služeb a integrovala model <a href="https://deepmind.google/technologies/veo/">Google Veo 3</a>. Platforma dokáže naplánovat každou scénu, vytvořit vizuály a animovat vizi, přičemž vytvoří detailní video během několika minut.</p>
+
+<p><a href="https://play.ai">PlayAI</a> open-sourcovala <a href="https://github.com/PlayAI/PlayDiffusion">PlayDiffusion</a>, model založený na difúzi pro audio inpainting. Model dokáže upravovat slova v mluvených větách bez změny celé řeči při zachování původního kontextu a tónu. Je dostupný prostřednictvím <a href="https://fal.ai">Fal</a> a <a href="https://huggingface.co">HuggingFace</a>.</p>
+
+<p><a href="https://higgsfield.ai">Higgsfield AI</a> uvedla <a href="https://higgsfield.ai/speak">Higgsfied Speak</a>, nástroj pro vytváření videí s mluvícími avatary řízenými pohybem. Stačí vybrat formát stylu, zvolit avatar a napsat scénář - nástroj vygeneruje kinematografickou kvalitu včetně hlasu, pohybu a emocí.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="OpenAI" /><category term="Microsoft" /><category term="Google" /><category term="robotika" /><category term="humanoidní roboti" /><category term="Figure" /><category term="Agility Robotics" /><category term="Apple" /><category term="WWDC" /><summary type="html"><![CDATA[Uplynulý týden přinesl řadu významných aktualizací od hlavních technologických společností. OpenAI rozšířil možnosti ChatGPT o datové konektory a vylepšil hlasový režim, Google posílil svůj model Gemini 2.5 Pro a Microsoft integroval generování videí do mobilní aplikace Bing. Současně pokračuje rychlý vývoj v oblasti humanoidní robotiky, kde společnosti jako Figure, Agility Robotics a čínské firmy představují stále schopnější systémy.]]></summary></entry><entry xml:lang="cs"><title type="html">OpenAI snížila cenu modelu o3 o 80 % a představila o3-Pro</title><link href="https://www.marigold.cz/item/openai_o3_o3-pro/" rel="alternate" type="text/html" title="OpenAI snížila cenu modelu o3 o 80 % a představila o3-Pro" /><published>2025-06-11T00:00:00+00:00</published><updated>2025-06-11T00:00:00+00:00</updated><id>https://www.marigold.cz/item/openai_o3_o3-pro</id><content type="html" xml:base="https://www.marigold.cz/item/openai_o3_o3-pro/"><![CDATA[<p>OpenAI oznámila výrazné snížení ceny svého modelu o3 o 80 procent spolu s uvedením nové varianty o3-Pro. Model o3 nyní stojí 2 dolary za milion vstupních tokenů a 8 dolarů za milion výstupních tokenů, zatímco dříve byla cena 10 a 40 dolarů. Současně byla představena výkonnější varianta o3-Pro.</p>
 
 <p>Nový model o3-Pro je dostupný zatím jen přes API, tedy ne přes aplikaci nebo ChatGPT.com. Cena za použití je 20 dolarů za vstupní a 80 dolarů za výstupní tokeny, což představuje 87procentní snížení oproti předchozímu modelu o1-Pro. I tak je to ale dost vysoká cena. Tomu odpovídají smíšené reakce vývojářů a uživatelů. Zatímco mnozí oceňují zvýšenou dostupnost, kritici poukazují na stále vysoké ceny ve srovnání s konkurencí.</p>
 
@@ -439,7 +503,7 @@ Když jsem jí o několik hodin dříve prosil o podpis její knihy, přišlo mi
 
 <h2 id="deepseek-r1---čínský-model-překonává-světovou-konkurenci"><a href="/item/deepseek/">DeepSeek</a> R1 - čínský model překonává světovou konkurenci</h2>
 
-<p>Čínská společnost DeepSeek aktualizovala svůj model R1, který se okamžitě vyšplhal na  <strong>třetí pozici</strong>  v žebříčku Artificial Analysis Intelligence Index. Model dosáhl skóre 68 bodů, čímž překonal řešení od Meta, xAI i Anthropic.</p>
+<p>Čínská společnost <a href="/item/deepseek/">DeepSeek</a> aktualizovala svůj model R1, který se okamžitě vyšplhal na  <strong>třetí pozici</strong>  v žebříčku Artificial Analysis Intelligence Index. Model dosáhl skóre 68 bodů, čímž překonal řešení od Meta, xAI i Anthropic.</p>
 
 <p><strong>Konkrétní vylepšení v R1-0528:</strong></p>
 
@@ -451,7 +515,7 @@ Když jsem jí o několik hodin dříve prosil o podpis její knihy, přišlo mi
   <li>Optimalizace pro matematické úlohy a logické uvažování</li>
 </ul>
 
-<p>DeepSeek tak upevňuje pozici vedoucího poskytovatele open-source AI modelů a potvrzuje růst čínského technologického sektoru.</p>
+<p><a href="/item/deepseek/">DeepSeek</a> tak upevňuje pozici vedoucího poskytovatele open-source AI modelů a potvrzuje růst čínského technologického sektoru.</p>
 
 <h2 id="sakana-ai-darwin-gödel-machine---průlom-v-samozdokonalování">Sakana AI Darwin Gödel Machine - průlom v samozdokonalování</h2>
 
@@ -2285,108 +2349,4 @@ Internetem putují “zvěsti” o podivnostech v britské síti nebo o odpojen�
 
 <p>Schopnost pracovat s dlouhým kontextem je zásadní pro posun LLM směrem k hlubšímu porozumění a řešení komplexnějších úloh. Kvadratická složitost standardního mechanismu pozornosti v architektuře transformátoru představuje dosti podstatnou překážku, která vede k vysokým výpočetním, paměťovým a finančním nákladům. Současný výzkum přináší řadu inovativních řešení, od optimalizací stávajících metod (FlashAttention) přes aproximace (Sparse Attention) až po zcela nové architektury (Mamba, Jamba) a doplňkové techniky (RAG). V každém případě je tu ještě mnoho příležitostí, jak můžete prosadit svůj nápad a nabídnout nové, neotřelé řešení.</p>
 
-<p>Nicméně soudím, že neexistuje jedno univerzální řešení. Budoucnost pravděpodobně spočívá v kombinaci různých přístupů, přizpůsobených konkrétním úlohám a hardwarovým možnostem. Vývoj v této oblasti je extrémně dynamický a lze očekávat další rychlé pokroky.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="kontext" /><summary type="html"><![CDATA[A především, proč je tak drahé a zdlouhavé zvyšovat velikost kontextu? Tento článek se podrobně zabývá tím, co kontext znamená, proč je jeho délka kritická, jaké technické překážky brání jeho neomezenému rozšiřování a jaká řešení se v současnosti vyvíjejí.]]></summary></entry><entry xml:lang="cs"><title type="html">Jak určit polohu pořízení fotografie pomocí ChatGPT o3?</title><link href="https://www.marigold.cz/item/urceni-polohy-fotky-chatgpt-o3/" rel="alternate" type="text/html" title="Jak určit polohu pořízení fotografie pomocí ChatGPT o3?" /><published>2025-05-03T00:00:00+00:00</published><updated>2025-05-03T00:00:00+00:00</updated><id>https://www.marigold.cz/item/urceni-polohy-fotky-chatgpt-o3</id><content type="html" xml:base="https://www.marigold.cz/item/urceni-polohy-fotky-chatgpt-o3/"><![CDATA[<p>Nový model ChatGPT o3 umí jednu zajímavou věc. Umí odhadnout polohu fotografie. Prostě nahrajete obrázek a zeptáte se, kde byl pořízen. Model o3 se zamyslí a po nějaké chvíli vám řekne, kde asi byl snímek pořízen, případně co na něm vidíte. Jenže tak jednoduché to není. Samozřejmě, pokud mu šoupnete fotku Pražského hradu, tak po pár minutách dumání řekne, že je to Pražský hrad. Jenže jakmile to není tak známá pamětihodnost, je to mnohem těžší a už výrazně více záleží na tom, jak se zeptáte, tedy jaký dáte prompt.</p>
-
-<p>A protože o3 není na přemýšlení o místě pořízení fotky úplně uzpůsobený, je lepší dát mu přesnější textový popis. A protože se syn věnuje hře <a href="https://www.geoguessr.com">GeoGuessr</a> (určování polohy fotky), tak jsem mrknul na postupy, jaké používá místní komunita. Nakonec jsem ze všech doporučení zkompiloval a odladil zhruba následující prompt, který si přes copy&amp;paste zkopírujete do ChatGPT, zapněte model o3 a přiložte obrázek. Je pak velmi zajímavé, jak o3 provede všechny úvahy a co zajímavého odvodí.</p>
-
-<p>Samozřejmě, pokud vyfotíte pár stromů v lese, tak se ani tímto promptem nedostanete k přesné GPS souřadnici. Také pohled na anonymní a málo známé snímky krušnohorských kopců, na kterých kromě stromů nic není, to neodhadlo příliš dobře (ale poznalo to Česko). Ale třeba jinak dost anonymní (byť hezká) fotka pohledu do krajiny z lanovky na rakouský Riegersburg byla detekována velmi přesně, stejně jako pohled na Praděd pořízený z Dlouhých strání (poznal přesné místo, odkud bylo foceno).</p>
-
-<p>Doporučuji vyzkoušet!</p>
-
-<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
-<span class="gh"># 🗺️ Jednokolová hra typu GeoGuessr – instrukce pro ChatGPT  </span>
-<span class="gs">**Úkol:**</span> Z JEDINÉHO snímku odvoď nejpravděpodobnější polohu v reálném světě.  
-<span class="ge">*⚠️ Snímky nemusí být ze Street View ani z Mapy.cz Panorama – mohou to být soukromé či odlehlé lokace či příroda.*</span>
-<span class="p">
----
-</span>
-<span class="gu">## 0 · Nastavení &amp; etika 🛡️  </span>
-<span class="p">1.</span> Pracuj s  veřejnými webovými zdroji.  
-<span class="p">2.</span> <span class="gs">**Analyzuj**</span> EXIF / IP / skrytá metadata; počítej ale s tím, že tato data mohou být podvržená. Nesmí být jediným vodítkem.
-<span class="p">3.</span> „Nahoře“ na fotce = směr pohledu (pokud není patrné otočení kamery).  
-
-<span class="gs">**Check‑list před startem, na co dávat pozor:**</span>  
-<span class="p">-</span> [ ] Viditelný text/písmo?  
-<span class="p">-</span> [ ] Dopravní značka?  
-<span class="p">-</span> [ ] SPZ na vozidle?  
-<span class="p">-</span> [ ] Typ povrchu (asfalt / štěrk)?  
-<span class="p">-</span> [ ] Elektrické dráty/sloupy?  
-<span class="p">
----
-</span>
-<span class="gu">## 1 · Hrubé pozorování 👁️ *(max 10 odrážek / ≤ 1200 znaků)*  </span>
-<span class="ge">*Zapiš jen to, co **doslova** vidíš – bez interpretace. Každý bod popiš max 1 větou.*</span>  
-<span class="p">-</span> <span class="gs">**Každý sloup/lampa:**</span> barva · rameno · podklad (10 s detail).  
-<span class="p">-</span> Všímej si dlaždic, obrubníků, štítků, vedení, plotů…  
-<span class="p">-</span> Kolik odlišných střech/verand do 150 m?  
-<span class="p">-</span> Sledujte paralaxu, výšku kamery, sklon terénu (i 1–2 % se projeví v zářezech příjezdové cesty).
-<span class="ge">*(Nechte otevřené dvě hypotézy; všechny nepotvrzené hypotézy označ jako „TBD:“.)*</span>
-<span class="p">
----
-</span>
-<span class="gu">## 2 · Kategorie indicií 🔍 (≤ 2 věty/řádek)  </span>
-
-| Kategorie | Co sledovat |  
-|-----------|-------------|  
-| <span class="gs">**Podnebí &amp; vegetace**</span> | Sezona, s listím vs. bez listí, odstín trávy, suchá × bujná |  
-| <span class="gs">**Geomorfologie**</span> | Reliéf, typ odvodnění, geologická paleta/lithologie. |  
-| <span class="gs">**Zastavěné prostředí**</span> | Architektura, písmo, chodníky, ploty, sítě. |  
-| <span class="gs">**Kultura &amp; infrastruktura**</span> | Strana jízdy, typ SPZ, svodidla, značky. |  
-| <span class="gs">**Astronomie / světlo**</span> | Směr stínu → polokoule; výška Slunce → šířka ± 0,5°. |  
-| <span class="gs">**Okrasná × původní zeleň**</span> | Pojmenuj vysazené (růže, trávník) a divoké (stromy, keře) rostliny. Test: „Vypadala by tato flóra v kandidátní oblasti X nepatřičně?“ Pokud <span class="gs">**ano**</span>, sniž její váhu.  |  
-<span class="p">
----
-</span>
-<span class="gu">## 3 · První shortlist – 5 kandidátů 🗂️  </span>
-| # | Region (stát/země) | Klíčové indicie | Důvěra 1‑5 | Δ ≥ 160 km? |  
-<span class="p">
----
-</span>
-<span class="gu">### 3½ · Matice divergentního vyhledávání podle klíčových slov 🔑  </span>
-Vytvoř <span class="gs">**regionálně neutrální**</span> dotazy, např.:  
-<span class="p">-</span> <span class="sb">`red‑brick factory building number`</span>  
-<span class="p">-</span> <span class="sb">`cylindrical dormitory housing`</span>  
-➡️ Spusť vyhledávání <span class="gs">**až po souhlasu uživatele**</span>.
-<span class="p">
----
-</span>
-<span class="gu">## 4 · Předběžný lídr &amp; alternativa 🥇🥈  </span>
-<span class="p">1.</span> Jmenuj <span class="gs">**nejlepší**</span> odhad a <span class="gs">**druhou**</span> možnost.  
-<span class="p">2.</span> Uveď <span class="ge">*proč*</span> je daný lídr lepší než ostatní.
-<span class="p">3.</span> U každé uveď <span class="ge">*kritérium vyvrácení*</span> („Pokud uvidím X, padá to“).  
-<span class="p">4.</span> Zkontroluj, co by tam <span class="gs">**mělo být a není**</span> – proč?  
-<span class="p">
----
-</span>
-<span class="gu">## 5 · Plán ověřování 🧪  </span>
-Pro každý přeživší region:  
-| Kandidát | Prvek k ověření | Přesná fráze pro vyhledávání / cíl Street View | Poznámky k mapě |
-|-----------|------------------|-------------------------------------------|--------------|
-<span class="gt">&gt; Použijte Redfin/Zillow, Google Maps, Mapy.cz, satelitní snímky, fotografie státních parků, dovolenkové fotky atd. – a uveďte zdroj.*</span>
-<span class="p">
----
-</span>
-<span class="gu">## 6 · Lock‑in Pin 📍 (kritický krok)  </span>
-<span class="p">-</span> Zeptej se: <span class="gs">**„Nezúžil jsem lídry předčasně?“**</span>  
-<span class="p">-</span> Aktivně hledej důkazy <span class="gs">**pro sousední oblasti**</span>, porovnáven navzájem.   
-<span class="p">-</span> Poté uveď konečnou polohu (zeměpisná šířka a délka nebo nejbližší místo) <span class="gs">**+ poloměr nejistoty**</span>.
-<span class="p">-</span> Přiznej nadměrnou jistotu; pokud jsou stopy slabé, zvětšete chybu.
-<span class="p">
----
-</span>
-<span class="gu">## 📐 Rychlý tahák pro převod stínu na zeměpisnou šířku</span>
-<span class="p">1.</span> Změřte délku stínu <span class="gs">**S**</span> a výšku objektu <span class="gs">**H**</span>.
-<span class="p">2.</span> Výška Slunce nad obzorem θ ≈ arctan(H / S).
-<span class="p">3.</span> Zeměpisná šířka ≈ 90° – θ + sluneční deklinace (v závislosti na ročním období).
-<span class="p">4.</span> Dodržujte odchylku ± 0,5–1° (≈ 111 km).
-<span class="p">
----
-</span>
-<span class="se">\*</span> <span class="gs">**Pozn.:**</span> „TBD:“ = položka k dalšímu ověření.
-</code></pre></div></div>
-
-<p>Tak a to je všechno! Tady jeden příklad za všechny:</p>
-
-<p><img src="https://www.marigold.cz/assets/Riegersburg.jpeg" alt="Fotka z lanovky na Riegersburg" /></p>
-
-<p><img src="https://www.marigold.cz/assets/Riegersburg-hodnoceni.png" alt="A tady je hodnocení" /></p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="ChatGPT" /><summary type="html"><![CDATA[Nový model ChatGPT o3 umí jednu zajímavou věc. Umí odhadnout polohu fotografie. Prostě nahrajete obrázek a zeptáte se, kde byl pořízen. Model o3 se zamyslí a po nějaké chvíli vám řekne, kde asi byl snímek pořízen, případně co na něm vidíte. Jenže tak jednoduché to není. Samozřejmě, pokud mu šoupnete fotku Pražského hradu, tak po pár minutách dumání řekne, že je to Pražský hrad. Jenže jakmile to není tak známá pamětihodnost, je to mnohem těžší a už výrazně více záleží na tom, jak se zeptáte, tedy jaký dáte prompt.]]></summary></entry></feed>
+<p>Nicméně soudím, že neexistuje jedno univerzální řešení. Budoucnost pravděpodobně spočívá v kombinaci různých přístupů, přizpůsobených konkrétním úlohám a hardwarovým možnostem. Vývoj v této oblasti je extrémně dynamický a lze očekávat další rychlé pokroky.</p>]]></content><author><name>Patrick Zandl</name></author><category term="AI" /><category term="kontext" /><summary type="html"><![CDATA[A především, proč je tak drahé a zdlouhavé zvyšovat velikost kontextu? Tento článek se podrobně zabývá tím, co kontext znamená, proč je jeho délka kritická, jaké technické překážky brání jeho neomezenému rozšiřování a jaká řešení se v současnosti vyvíjejí.]]></summary></entry></feed>
