@@ -27,9 +27,9 @@ Sada podporuje pokračování rozhovorů napříč více interakcemi. Vývojář
 
 Pro řízení chování Claude lze definovat vlastní systémové výzvy pomocí parametru `--system-prompt`, který kompletně přepíše výchozí výzvu. Alternativně `--append-system-prompt` přidá instrukce k výchozí výzvě, což je vhodnější pro většinu případů použití.
 
-## Protokol Model Context
+## Podpora MCP
 
-Významnou funkcí je podpora protokolu Model Context, který rozšiřuje Claude Code o dodatečné nástroje a zdroje z externích serverů. Protokol umožňuje začlenění s databázemi, rozhraními aplikací či vlastními nástroji prostřednictvím konfiguračního souboru JSON.
+Významnou funkcí je podpora MCP, který rozšiřuje Claude Code o dodatečné nástroje a zdroje z externích serverů. Protokol umožňuje začlenění s databázemi, rozhraními aplikací či vlastními nástroji prostřednictvím konfiguračního souboru JSON.
 
 Nastavení protokolu vyžaduje definování serverů ve formátu JSON a následné načtení pomocí parametru `--mcp-config`. Z bezpečnostních důvodů musí být nástroje protokolu výslovně povoleny pomocí `--allowedTools`. Názvy nástrojů následují vzor `mcp__<názevServeru>__<názevNástroje>`, kde názevServeru odpovídá klíči z konfiguračního souboru.
 
