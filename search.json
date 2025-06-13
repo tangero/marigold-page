@@ -27506,6 +27506,13 @@
         "content"  : "Před provedením změn si můžete zkontrolovat implementační postup, plán práce, který Claude Code navrhuje. Ideální je to pro komplexní změny, u kterých chcete nejprve přesně určit postup, než se do nich pustíte.Jak to funguje: stiskněte dvakrát Shift+Tab pro aktivaci režimu plánování při zadávání promptu.Poté zadáte prompt Claude Code jako obvykle a ten vám nabídne podrobný implementační plán a před provedením vás požádá o schválení.Režim plánování je nyní k dispozici všem uživatelům Claude Code, včetně všech uživatelů s tarifem Pro nebo Max. Skvělá novinka!"
       }
       
+      ,{
+        "title"    : "Windsurf Wave 10 3",
+        "url"      : "//vibecoding/windsurf-wave-10-3/",
+        "category" : "vibecoding",
+        "content"  : "Poslední den představování novinek ve Windsurf Wave 10 přinesl především podinikové funkce, rozšíření metriky PCW (Percentage of Code Written) a několik vylepšení uživatelského rozhraní. A pro nás tolik zajímavý evropský datový cluster umožňující data skladovat v EU.Evropský cluster garantuje lokalizaci datWindsurf spustil nový evropský cluster umístěný ve Frankfurtu, který je určen speciálně pro evropské firemní zákazníky. Cluster garantuje, že veškeré zpracování a uchovávání dat probíhá výhradně v rámci hranic Evropské unie, včetně využívání modelů třetích stran s bází v Německu.Toto řešení reaguje na rostoucí požadavky na compliance a bezpečnost dat v evropském prostředí. Windsurf již podporuje více než 100 velkých..."
+      }
+      
     
   
 ]
