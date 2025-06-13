@@ -10,8 +10,6 @@ styl: expresivní plenérismus
 urlobrazu: /assets/obrazy/matej-lipavsky-zimni-zahrada.jpeg
 ---
 
-## 🎨 Matěj Lipavský: Světlo a náhoda v krajině
-
 Matěj Lipavský (*1985) je malířem a básníkem v jedné osobě, sám říká, že jeho obrazy otevírají  něco v něm samém a dost možná i shodou okolností v jiných lidech. 
 
 - vystudoval pražskou Akademii pod vedením Jiřího Sopka (2004-2010)
