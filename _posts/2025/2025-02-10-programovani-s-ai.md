@@ -34,7 +34,7 @@ Jak na něco takového?
 Podíváme se dnes na několik nástrojů, které slouží k [[programování s AI](/item/programovani-s-ai/)](/item/programovani-s-ai/):
 - [Cursor AI](https://www.cursor.com/)
 - [Tempolabs AI](https://www.tempolabs.ai/) 
-- [Replit](https://replit.com/)
+- [Replit](https://replit.com/refer/zandl)
 - [Bolt New](https://bolt.new/)   
 - [Windsurf AI](https://codeium.com/windsurf)
 
