@@ -27514,6 +27514,13 @@
       }
       
       ,{
+        "title"    : "Cursor ToDo List",
+        "url"      : "//vibecoding/cursor-todo-list/",
+        "category" : "vibecoding",
+        "content"  : "Nejnovější verze Cursor v1.1.0 nyní obsahuje „To Do List“, čili seznam úkolů, které má postupně zpracovávat. To umožňuje agentovi používat seznamy úkolů ke sledování pokroku v úkolech"
+      }
+      
+      ,{
         "title"    : "Windsurf Wave 10 3",
         "url"      : "//vibecoding/windsurf-wave-10-3/",
         "category" : "vibecoding",
