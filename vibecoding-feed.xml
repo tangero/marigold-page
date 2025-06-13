@@ -6,10 +6,29 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Fri, 13 Jun 2025 04:46:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 04:51:33 +0000</lastBuildDate>
     
     
     
+    
+      
+      
+      
+      <item>
+        <title>🟣 Claude Code - Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran</title>
+        <link>https://www.marigold.cz/vibecoding/claude_code_sdk/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude_code_sdk/</guid>
+        <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Anthropic vydal vývojářskou sadu pro Claude Code, která vývojářům umožňuje začlenit AI asistenta do vlastních aplikací. Sada zpřístupňuje funkce Claude Code jako podproces a poskytuje základ pro vytváření vývojářských nástrojů s umělou inteligencí využívajících schopnosti modelu Claude.</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude_code_sdk/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
     
       
       

@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Anthropic vydal vývojářskou sadu pro Claude Code, která vývojářům umožňuje začlenit AI asistenta do vlastních aplikací. Sada zpřístupňuje funkce Claude Code jako podproces a poskytuje základ pro vytváření vývojářských nástrojů s umělou inteligencí využívajících schopnosti modelu Claude." />
+<meta property="og:description" content="Anthropic vydal vývojářskou sadu pro Claude Code, která vývojářům umožňuje začlenit AI asistenta do vlastních aplikací. Sada zpřístupňuje funkce Claude Code jako podproces a poskytuje základ pro vytváření vývojářských nástrojů s umělou inteligencí využívajících schopnosti modelu Claude." />
+<link rel="canonical" href="https://www.marigold.cz/vibecoding/claude_code_sdk/" />
+<meta property="og:url" content="https://www.marigold.cz/vibecoding/claude_code_sdk/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-06-13T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-06-13T00:00:00+00:00","datePublished":"2025-06-13T00:00:00+00:00","description":"Anthropic vydal vývojářskou sadu pro Claude Code, která vývojářům umožňuje začlenit AI asistenta do vlastních aplikací. Sada zpřístupňuje funkce Claude Code jako podproces a poskytuje základ pro vytváření vývojářských nástrojů s umělou inteligencí využívajících schopnosti modelu Claude.","headline":"Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/vibecoding/claude_code_sdk/"},"url":"https://www.marigold.cz/vibecoding/claude_code_sdk/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Anthropic vydal vývojářskou sadu pro Claude Code, která vývojářům umožňuje začlenit AI asistenta do vlastních aplikací. Sada zpřístupňuje funkce Claude Code jako podproces a poskytuje základ pro vytváření vývojářských nástrojů s umělou inteligencí využívajících schopnosti modelu Claude.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran" />
+    <meta property="twitter:title" content="Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/vibecoding/claude_code_sdk/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-avatar.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="/vibecoding">👨‍💻 Vibe Coding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+
+
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+
+  /* Odstranění rámečků kolem textu */
+  .post.detailed {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  .post.detailed .entry {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  /* Odstranění okrajů kolem sekce Články a novinky */
+  .posts {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post .entry {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  /* CSS pro tlačítko kopírovat */
+  .code-block-container {
+    position: relative;
+    margin: 20px 0;
+  }
+  .copy-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    z-index: 1;
+  }
+  .copy-button:hover {
+    background-color: #45a049;
+  }
+  .copy-button:active {
+    background-color: #3e8e41;
+  }
+  .copy-button.copied {
+    background-color: #666;
+  }
+  .code-block-container pre {
+    position: relative;
+    padding-top: 40px;
+  }
+  .toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 5px;
+    display: none;
+    z-index: 1000;
+  }
+</style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+13.
+červen
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+  <div class="quick-summary">
+    <div class="quick-summary-header">
+      <svg class="summary-icon" viewBox="0 0 24 24" width="24" height="24">
+        <path fill="currentColor" d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" />
+      </svg>
+      <span>Rychlé shrnutí článku</span>
+    </div>
+    <ul class="summary-points">
+      
+        <li>Vývojářská sada Claude Code umožňuje začlenění AI asistenta do aplikací</li>
+      
+        <li>Podporuje neinteraktivní režim, vícekrokové rozhovory a vlastní systémové výzvy</li>
+      
+        <li>{"Nabízí tři výstupní formáty"=>"text, JSON a proudový JSON"}</li>
+      
+        <li>Protokol Model Context rozšiřuje funkce o externí nástroje</li>
+      
+        <li>Sada momentálně podporuje příkazovou řádku, verze pro TypeScript a Python jsou v přípravě</li>
+      
+        <li>Praktické využití zahrnuje automatizaci pracovních postupů GitHub a kontrolu kódu</li>
+      
+    </ul>
+  </div>
+
+  
+
+<style>
+.quick-summary {
+    background: linear-gradient(145deg, #ffffff, #f5f5f5);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+                0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.quick-summary-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    color: #2d3748;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.summary-icon {
+    margin-right: 0.5rem;
+    color: #4a5568;
+}
+
+.summary-points {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.summary-points li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #4a5568;
+    line-height: 1.5;
+}
+
+.summary-points li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #667eea;
+    font-weight: bold;
+}
+
+@media (prefers-color-scheme: dark) {
+    .quick-summary {
+        background: linear-gradient(145deg, #2d3748, #1a202c);
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+    }
+    
+    .quick-summary-header {
+        color: #e2e8f0;
+    }
+    
+    .summary-icon,
+    .summary-points li {
+        color: #cbd5e0;
+    }
+    
+    .summary-points li::before {
+        color: #7f9cf5;
+    }
+}
+</style>
+
+
+
+
+  <div class="entry">
+    <p>Anthropic vydal vývojářskou sadu pro Claude Code, která vývojářům umožňuje začlenit AI asistenta do vlastních aplikací. Sada zpřístupňuje funkce Claude Code jako podproces a poskytuje základ pro vytváření vývojářských nástrojů s umělou inteligencí využívajících schopnosti modelu Claude.</p>
+
+<h2 id="základní-funkcionalita">Základní funkcionalita</h2>
+
+<p>Vývojářská sada Claude Code umožňuje používat Claude Code v neinteraktivním režimu z aplikací. Sada momentálně podporuje použití přes rozhraní příkazové řádky, zatímco verze pro TypeScript a Python jsou ve vývoji. Základní použití spočívá v zavolání Claude s konkrétním dotazem a získání odpovědi.</p>
+
+<p>Vývojáři mohou využít všechny možnosti příkazové řádky dostupné v Claude Code. Klíčové parametry zahrnují <code class="language-plaintext highlighter-rouge">--print</code> pro neinteraktivní režim, <code class="language-plaintext highlighter-rouge">--output-format</code> pro specifikaci výstupního formátu, <code class="language-plaintext highlighter-rouge">--resume</code> pro obnovení rozhovoru podle identifikátoru relace a <code class="language-plaintext highlighter-rouge">--continue</code> pro pokračování nejnovějšího rozhovoru. Parametr <code class="language-plaintext highlighter-rouge">--max-turns</code> omezuje počet agentních tahů v neinteraktivním režimu.</p>
+
+<h2 id="vícekrokové-rozhovory-a-správa-relací">Vícekrokové rozhovory a správa relací</h2>
+
+<p>Sada podporuje pokračování rozhovorů napříč více interakcemi. Vývojáři mohou obnovit konkrétní rozhovor pomocí identifikátoru relace nebo automaticky pokračovat v nejnovější relaci. Tato funkcionalita umožňuje vytváření komplexnějších AI asistentů, kteří si pamatují kontext předchozích interakcí.</p>
+
+<p>Pro řízení chování Claude lze definovat vlastní systémové výzvy pomocí parametru <code class="language-plaintext highlighter-rouge">--system-prompt</code>, který kompletně přepíše výchozí výzvu. Alternativně <code class="language-plaintext highlighter-rouge">--append-system-prompt</code> přidá instrukce k výchozí výzvě, což je vhodnější pro většinu případů použití.</p>
+
+<h2 id="protokol-model-context">Protokol Model Context</h2>
+
+<p>Významnou funkcí je podpora protokolu Model Context, který rozšiřuje Claude Code o dodatečné nástroje a zdroje z externích serverů. Protokol umožňuje začlenění s databázemi, rozhraními aplikací či vlastními nástroji prostřednictvím konfiguračního souboru JSON.</p>
+
+<p>Nastavení protokolu vyžaduje definování serverů ve formátu JSON a následné načtení pomocí parametru <code class="language-plaintext highlighter-rouge">--mcp-config</code>. Z bezpečnostních důvodů musí být nástroje protokolu výslovně povoleny pomocí <code class="language-plaintext highlighter-rouge">--allowedTools</code>. Názvy nástrojů následují vzor <code class="language-plaintext highlighter-rouge">mcp__&lt;názevServeru&gt;__&lt;názevNástroje&gt;</code>, kde názevServeru odpovídá klíči z konfiguračního souboru.</p>
+
+<h2 id="výstupní-formáty">Výstupní formáty</h2>
+
+<p>Sada nabízí tři výstupní formáty přizpůsobené různým potřebám začlenění:</p>
+
+<p><strong>Textový výstup</strong> představuje výchozí formát vracející pouze samotnou odpověď bez dodatečných metadat. Tento formát je vhodný pro jednoduché začlenění, kde stačí pouze obsah odpovědi.</p>
+
+<p><strong>Výstup JSON</strong> poskytuje strukturovaná data včetně metadat jako jsou statistiky rozhovoru, identifikátor relace a další informace užitečné pro strojové zpracování. Odpověď obsahuje pole <code class="language-plaintext highlighter-rouge">messages</code> s historií rozhovoru a pole <code class="language-plaintext highlighter-rouge">stats</code> s informacemi o průběhu.</p>
+
+<p><strong>Proudový výstup JSON</strong> proudí každou zprávu při jejím přijetí, což umožňuje zpracování v reálném čase u dlouhých odpovědí. Rozhovor začíná inicializační systémovou zprávou, pokračuje uživatelskými a asistenčními zprávami a končí závěrečnou systémovou zprávou se statistikami.</p>
+
+<h2 id="schéma-zpráv-a-typování">Schéma zpráv a typování</h2>
+
+<p>Zprávy vrácené z rozhraní JSON jsou přísně typované podle definovaného schématu. Anthropic plánuje publikovat tyto typy ve formátu kompatibilním s JSONSchema a využívá sémantické verzování pro komunikaci zásadních změn v tomto formátu.</p>
+
+<h2 id="praktické-využití-a-osvědčené-postupy">Praktické využití a osvědčené postupy</h2>
+
+<p>Sada umožňuje jednoduché skriptování, zpracování souborů a správu relací. Pro strojovou analýzu odpovědí se doporučuje používat výstupní formát JSON. Vývojáři by měli implementovat řádné zpracování chyb kontrolou návratových kódů a chybového výstupu.</p>
+
+<p>Při práci s vícekrokovými rozhovory je důležité využívat správu relací pro udržení kontextu. Pro dlouho běžící operace se doporučuje implementovat časové limity a při vícenásobných požadavcích respektovat omezení rychlosti přidáním zpoždění mezi volání.</p>
+
+<h2 id="reálné-aplikace">Reálné aplikace</h2>
+
+<p>Významným příkladem využití sady je začlenění Claude Code GitHub Actions, která poskytuje automatizované kontroly kódu, vytváření žádostí o sloučení a třídění problémů přímo v pracovním postupu GitHub. Tato integrace demonstruje potenciál sady pro automatizaci vývojářských procesů.</p>
+
+<p>Sada otevírá možnosti pro vytváření vlastních vývojářských nástrojů s umělou inteligencí, automatizaci kódových kontrol, generování dokumentace nebo implementaci chatbotů pro technickou podporu. Pružnost formátů a podpora protokolu Model Context umožňuje začlenění s existujícími systémy a pracovními postupy.</p>
+
+<p>Anthropic poskytuje kompletní <a href="https://docs.anthropic.com/en/docs/claude-code/cli-usage">dokumentaci použití příkazové řádky</a>, <a href="https://docs.anthropic.com/en/docs/claude-code/github-actions">začlenění GitHub Actions</a> a <a href="https://docs.anthropic.com/en/docs/claude-code/tutorials">návody</a> pro běžné případy použití. Vývojářská sada představuje významný krok k dostupnosti pokročilých schopností umělé inteligence pro vývojářskou komunitu.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  <div class="posts">
+    <h3>Jak se vám líbí tento článek?</h3>
+    <!-- Místo pro widget -->
+    <div id="feedback-widget"></div>
+
+    <!-- Widget se vloží do #feedback-widget -->
+    <script 
+        src="https://top.marigold.cz/mg-feedback-clean.js" 
+        data-slug="vibecoding-claude-code-sdk" 
+        data-title="Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran" 
+        data-url="https://www.marigold.cz/vibecoding/claude_code_sdk/"
+        data-target="#feedback-widget"
+    ></script>
+</div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
+                <p class="excerpt">
+                  
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
+                <p class="excerpt">
+                  
+                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  Zlatá éra weblogů a můžete si ji stáhnout zdar...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran&url=https://www.marigold.cz/vibecoding/claude_code_sdk/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/vibecoding/claude_code_sdk/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_vibecoding/claude-code/2025-06-13-claude_code_sdk.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/vibecoding/rezim-planu/">&laquo; Novinka v Claude Code: Režim implementačního plánu</a> |
+      
+      
+      
+        <a class="next" href="/vibecoding/windsurf-wave-10-3/">Windsurf Wave 10 3 &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+
+<!-- Toast notifikace -->
+<div class="toast" id="toast">Zkopírováno do schránky!</div>
+
+<!-- JavaScript pro funkcionalitu kopírování -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Najdi všechny code bloky (kromě Mermaid)
+    const codeBlocks = document.querySelectorAll('pre:not(:has(code.language-mermaid))');
+    
+    codeBlocks.forEach((codeBlock, index) => {
+        // Vytvoř kontejner pro code block
+        const container = document.createElement('div');
+        container.className = 'code-block-container';
+        
+        // Vytvoř tlačítko kopírovat
+        const copyButton = document.createElement('button');
+        copyButton.className = 'copy-button';
+        copyButton.textContent = 'Kopírovat';
+        copyButton.setAttribute('data-index', index);
+        
+        // Vlož code block a tlačítko do kontejneru
+        codeBlock.parentNode.insertBefore(container, codeBlock);
+        container.appendChild(copyButton);
+        container.appendChild(codeBlock);
+        
+        // Přidej event listener na tlačítko
+        copyButton.addEventListener('click', async () => {
+            try {
+                // Získej text z code bloku
+                const code = codeBlock.querySelector('code') || codeBlock;
+                const text = code.textContent;
+                
+                // Kopíruj do schránky
+                await navigator.clipboard.writeText(text);
+                
+                // Změň stav tlačítka
+                copyButton.textContent = 'Zkopírováno!';
+                copyButton.classList.add('copied');
+                
+                // Zobraz toast notifikaci
+                showToast();
+                
+                // Po 2 sekundách vrať původní stav
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+                
+            } catch (err) {
+                console.error('Chyba při kopírování:', err);
+                copyButton.textContent = 'Chyba';
+                copyButton.classList.add('copied');
+                
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+            }
+        });
+    });
+});
+
+function showToast() {
+    const toast = document.getElementById('toast');
+    toast.style.display = 'block';
+    setTimeout(() => {
+        toast.style.display = 'none';
+    }, 2000);
+}
+</script>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<!-- Twitter conversion tracking base code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    twq('config','pycs2');
+</script>
+    <!-- End Twitter conversion tracking base code -->
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>

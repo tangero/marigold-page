@@ -27507,6 +27507,13 @@
       }
       
       ,{
+        "title"    : "Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran",
+        "url"      : "//vibecoding/claude_code_sdk/",
+        "category" : "vibecoding",
+        "content"  : "Anthropic vydal vývojářskou sadu pro Claude Code, která vývojářům umožňuje začlenit AI asistenta do vlastních aplikací. Sada zpřístupňuje funkce Claude Code jako podproces a poskytuje základ pro vytváření vývojářských nástrojů s umělou inteligencí využívajících schopnosti modelu Claude.Základní funkcionalitaVývojářská sada Claude Code umožňuje používat Claude Code v neinteraktivním režimu z aplikací. Sada momentálně podporuje použití přes rozhraní příkazové řádky, zatímco verze pro TypeScript a Python jsou ve vývoji. Základní použití spočívá v zavolání Claude s konkrétním dotazem a získání odpovědi.Vývojáři mohou využít všechny možnosti příkazové řádky dostupné v Claude Code. Klíčové parametry zahrnují --print pro neinteraktivní režim, --output-format pro specifikaci výstupního..."
+      }
+      
+      ,{
         "title"    : "Windsurf Wave 10 3",
         "url"      : "//vibecoding/windsurf-wave-10-3/",
         "category" : "vibecoding",
