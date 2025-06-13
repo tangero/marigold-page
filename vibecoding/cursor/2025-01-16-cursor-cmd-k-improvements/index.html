@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu." />
+<meta property="og:description" content="Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu." />
+<link rel="canonical" href="https://www.marigold.cz/vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements/" />
+<meta property="og:url" content="https://www.marigold.cz/vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-01-16T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-01-16T00:00:00+00:00","datePublished":"2025-01-16T00:00:00+00:00","description":"Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.","headline":"Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements/"},"url":"https://www.marigold.cz/vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem" />
+    <meta property="twitter:title" content="Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-avatar.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="/vibecoding">👨‍💻 Vibe Coding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+
+
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+
+  /* Odstranění rámečků kolem textu */
+  .post.detailed {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  .post.detailed .entry {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  /* Odstranění okrajů kolem sekce Články a novinky */
+  .posts {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post .entry {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  /* CSS pro tlačítko kopírovat */
+  .code-block-container {
+    position: relative;
+    margin: 20px 0;
+  }
+  .copy-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    z-index: 1;
+  }
+  .copy-button:hover {
+    background-color: #45a049;
+  }
+  .copy-button:active {
+    background-color: #3e8e41;
+  }
+  .copy-button.copied {
+    background-color: #666;
+  }
+  .code-block-container pre {
+    position: relative;
+    padding-top: 40px;
+  }
+  .toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 5px;
+    display: none;
+    z-index: 1000;
+  }
+</style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+16.
+leden
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.</p>
+
+<h2 id="co-je-nového-v-cmdk">Co je nového v Cmd+K?</h2>
+
+<h3 id="multi-modal-input">Multi-modal Input</h3>
+<ul>
+  <li><strong>Text + Code</strong> - kombinujte natural language s code snippets</li>
+  <li><strong>Image support</strong> - uploadujte screenshots UI pro implementaci</li>
+  <li><strong>File attachments</strong> - přetáhněte soubory přímo do chatu</li>
+  <li><strong>Voice input</strong> - mluvte místo psaní (beta funkce)</li>
+</ul>
+
+<h3 id="enhanced-context-awareness">Enhanced Context Awareness</h3>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Když máte kurzor v této funkci a stisknete Cmd+K</span>
+<span class="kd">function</span> <span class="nf">processPayment</span><span class="p">(</span><span class="nx">amount</span><span class="p">,</span> <span class="nx">currency</span><span class="p">)</span> <span class="p">{</span>
+  <span class="c1">// AI automaticky rozumí:</span>
+  <span class="c1">// - Toto je payment handling</span>
+  <span class="c1">// - Souvisí s e-commerce</span>
+  <span class="c1">// - Může potřebovat validaci a error handling</span>
+  <span class="c1">// - Pravděpodobně volá external API</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>AI nyní automaticky:</p>
+<ul>
+  <li><strong>Detekuje současný kontext</strong> - ví, kde se nacházíte v kódu</li>
+  <li><strong>Mapuje související funkce</strong> - zahrnuje relevantní dependencies</li>
+  <li><strong>Rozumí business logice</strong> - interpretuje účel kódu</li>
+  <li><strong>Sleduje Git změny</strong> - ví o recent modifications</li>
+</ul>
+
+<h2 id="nové-typy-dotazů">Nové typy dotazů:</h2>
+
+<h3 id="code-explanation">Code Explanation</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Vysvětli mi tuto funkci krok za krokem"
+</code></pre></div></div>
+<p><strong>Nová AI response:</strong></p>
+<ul>
+  <li>📊 <strong>Visual breakdown</strong> - diagram flow logiky</li>
+  <li>🔍 <strong>Line-by-line analysis</strong> - detailní rozbor</li>
+  <li>⚠️ <strong>Potential issues</strong> - identifikace možných problémů</li>
+  <li>💡 <strong>Improvement suggestions</strong> - návrhy na vylepšení</li>
+</ul>
+
+<h3 id="architecture-questions">Architecture Questions</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Jak by se tato změna projevila v celé aplikaci?"
+</code></pre></div></div>
+<p><strong>AI analyzuje:</strong></p>
+<ul>
+  <li><strong>Impact radius</strong> - které části kódu ovlivní</li>
+  <li><strong>Breaking changes</strong> - co se může rozbít</li>
+  <li><strong>Testing needed</strong> - které testy aktualizovat</li>
+  <li><strong>Migration steps</strong> - jak bezpečně implementovat</li>
+</ul>
+
+<h3 id="performance-queries">Performance Queries</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"Proč je tato část kódu pomalá?"
+</code></pre></div></div>
+<p><strong>Advanced analysis:</strong></p>
+<ul>
+  <li><strong>Bottleneck detection</strong> - identifikace úzkých míst</li>
+  <li><strong>Algorithmic complexity</strong> - Big O analysis</li>
+  <li><strong>Memory usage</strong> - profiling paměti</li>
+  <li><strong>Optimization suggestions</strong> - konkrétní vylepšení</li>
+</ul>
+
+<h2 id="smart-context-selection">Smart Context Selection:</h2>
+
+<h3 id="automatic-scope-detection">Automatic Scope Detection</h3>
+<p>AI automaticky vybírá relevantní kód na základě:</p>
+<ul>
+  <li><strong>Current cursor position</strong> - aktuální pozice</li>
+  <li><strong>Function boundaries</strong> - hranice funkcí</li>
+  <li><strong>Class definitions</strong> - definice tříd</li>
+  <li><strong>Module imports</strong> - importované moduly</li>
+  <li><strong>Recent Git changes</strong> - nedávné změny</li>
+</ul>
+
+<h3 id="manual-context-control">Manual Context Control</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// Označte kód a pak Cmd+K pro specific context
+@mention filename.js
+@mention function_name
+@mention className
+@mention #recent_changes
+</code></pre></div></div>
+
+<h3 id="context-suggestions">Context Suggestions</h3>
+<p>AI navrhuje přidání kontextu:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>💡 "Možná budete chtít zahrnout user.model.js 
+   pro úplné pochopení této authentication logic"
+</code></pre></div></div>
+
+<h2 id="conversational-memory">Conversational Memory:</h2>
+
+<h3 id="session-persistence">Session Persistence</h3>
+<ul>
+  <li><strong>Context history</strong> - AI si pamatuje předchozí konverzaci</li>
+  <li><strong>Code evolution</strong> - sleduje změny během session</li>
+  <li><strong>Learning patterns</strong> - adaptuje se na váš styl</li>
+  <li><strong>Smart continuations</strong> - navazuje na předchozí dotazy</li>
+</ul>
+
+<h3 id="multi-turn-conversations">Multi-turn Conversations</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>You: "Jak optimalizovat tuto databázovou query?"
+AI: [Provides optimization suggestions]
+
+You: "A co když přidám indexy?"
+AI: [Understands "indexy" refers to the previous query]
+
+You: "Ukáž mi konkrétní SQL"
+AI: [Generates specific SQL with indexes]
+</code></pre></div></div>
+
+<h2 id="advanced-features">Advanced Features:</h2>
+
+<h3 id="code-generation-modes">Code Generation Modes</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/generate - Vygeneruj nový kód
+/refactor - Přepiš existující kód
+/explain - Vysvětli kód
+/debug - Najdi a oprav chyby
+/optimize - Optimalizuj výkon
+/test - Vytvoř testy
+</code></pre></div></div>
+
+<h3 id="smart-templates">Smart Templates</h3>
+<p>AI si vytváří templates na základě vašich patterns:</p>
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// Po několika podobných funkcích AI navrhne:</span>
+<span class="dl">"</span><span class="s2">Vidím, že často vytváříte API handlers. 
+ Mám pro vás připravený template:</span><span class="dl">"</span>
+
+<span class="kd">function</span> <span class="nf">handle</span><span class="nx">$</span><span class="p">{</span><span class="nx">EntityName</span><span class="p">}(</span><span class="nx">req</span><span class="p">,</span> <span class="nx">res</span><span class="p">)</span> <span class="p">{</span>
+  <span class="c1">// Standardní error handling</span>
+  <span class="c1">// Validation logic</span>
+  <span class="c1">// Database operations</span>
+  <span class="c1">// Response formatting</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<h3 id="team-integration">Team Integration</h3>
+<ul>
+  <li><strong>Shared context</strong> - sdílejte konverzace s týmem</li>
+  <li><strong>Code review mode</strong> - AI pomáhá s review</li>
+  <li><strong>Documentation generation</strong> - auto-generated docs</li>
+  <li><strong>Onboarding assist</strong> - pomoc novým členům týmu</li>
+</ul>
+
+<h2 id="performance-improvements">Performance Improvements:</h2>
+
+<h3 id="response-speed">Response Speed</h3>
+<ul>
+  <li><strong>3x rychlejší responses</strong> - optimalizované API calls</li>
+  <li><strong>Streaming responses</strong> - začnete číst odpověď okamžitě</li>
+  <li><strong>Local caching</strong> - cache častých dotazů</li>
+  <li><strong>Predictive loading</strong> - načítá pravděpodobné responses</li>
+</ul>
+
+<h3 id="resource-usage">Resource Usage</h3>
+<ul>
+  <li><strong>Reduced token consumption</strong> - efektivnější prompt engineering</li>
+  <li><strong>Smart batching</strong> - kombinuje související dotazy</li>
+  <li><strong>Context compression</strong> - komprimuje velké kontexty</li>
+  <li><strong>Memory optimization</strong> - lepší RAM management</li>
+</ul>
+
+<h2 id="tips-pro-efektivní-používání">Tips pro efektivní používání:</h2>
+
+<h3 id="pro-začátečníky">Pro začátečníky:</h3>
+<ol>
+  <li><strong>Buďte specifičtí</strong> - “Optimalizuj rychlost této query” místo “Vylepši kód”</li>
+  <li><strong>Používejte kontext</strong> - označte relevantní kód před dotazem</li>
+  <li><strong>Ptejte se postupně</strong> - začněte obecně, pak se specializujte</li>
+  <li><strong>Experimentujte</strong> - zkoušejte různé typy dotazů</li>
+</ol>
+
+<h3 id="pro-pokročilé">Pro pokročilé:</h3>
+<ol>
+  <li><strong>Kombinujte módy</strong> - <code class="language-plaintext highlighter-rouge">/explain</code> + <code class="language-plaintext highlighter-rouge">/optimize</code> pro kompletní analýzu</li>
+  <li><strong>Využívejte @mentions</strong> - odkazujte na specifické soubory/funkce</li>
+  <li><strong>Vytvářejte templates</strong> - naučte AI vaše coding patterns</li>
+  <li><strong>Sdílejte kontext</strong> - používejte session memory pro komplexní refactoring</li>
+</ol>
+
+<p>Tyto vylepšení činí Cmd+K ještě mocnějším nástrojem pro efektivní komunikaci s AI během vývoje.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  <div class="posts">
+    <h3>Jak se vám líbí tento článek?</h3>
+    <!-- Místo pro widget -->
+    <div id="feedback-widget"></div>
+
+    <!-- Widget se vloží do #feedback-widget -->
+    <script 
+        src="https://top.marigold.cz/mg-feedback-clean.js" 
+        data-slug="vibecoding-cursor-2025-01-16-cursor-cmd-k-improvements" 
+        data-title="Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem" 
+        data-url="https://www.marigold.cz/vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements/"
+        data-target="#feedback-widget"
+    ></script>
+</div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
+                <p class="excerpt">
+                  
+                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
+
+Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
+                <p class="excerpt">
+                  
+                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem&url=https://www.marigold.cz/vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/vibecoding/windsurf/2025-01-15-windsurf-ai-assistant/">&laquo; Windsurf přidává pokročilého AI asistenta přímo do editoru</a> |
+      
+      
+      
+        <a class="next" href="/vibecoding/claude-code/2025-01-18-claude-debugging/">Claude Code vylepšuje debugging - nové možnosti &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+
+<!-- Toast notifikace -->
+<div class="toast" id="toast">Zkopírováno do schránky!</div>
+
+<!-- JavaScript pro funkcionalitu kopírování -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Najdi všechny code bloky (kromě Mermaid)
+    const codeBlocks = document.querySelectorAll('pre:not(:has(code.language-mermaid))');
+    
+    codeBlocks.forEach((codeBlock, index) => {
+        // Vytvoř kontejner pro code block
+        const container = document.createElement('div');
+        container.className = 'code-block-container';
+        
+        // Vytvoř tlačítko kopírovat
+        const copyButton = document.createElement('button');
+        copyButton.className = 'copy-button';
+        copyButton.textContent = 'Kopírovat';
+        copyButton.setAttribute('data-index', index);
+        
+        // Vlož code block a tlačítko do kontejneru
+        codeBlock.parentNode.insertBefore(container, codeBlock);
+        container.appendChild(copyButton);
+        container.appendChild(codeBlock);
+        
+        // Přidej event listener na tlačítko
+        copyButton.addEventListener('click', async () => {
+            try {
+                // Získej text z code bloku
+                const code = codeBlock.querySelector('code') || codeBlock;
+                const text = code.textContent;
+                
+                // Kopíruj do schránky
+                await navigator.clipboard.writeText(text);
+                
+                // Změň stav tlačítka
+                copyButton.textContent = 'Zkopírováno!';
+                copyButton.classList.add('copied');
+                
+                // Zobraz toast notifikaci
+                showToast();
+                
+                // Po 2 sekundách vrať původní stav
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+                
+            } catch (err) {
+                console.error('Chyba při kopírování:', err);
+                copyButton.textContent = 'Chyba';
+                copyButton.classList.add('copied');
+                
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+            }
+        });
+    });
+});
+
+function showToast() {
+    const toast = document.getElementById('toast');
+    toast.style.display = 'block';
+    setTimeout(() => {
+        toast.style.display = 'none';
+    }, 2000);
+}
+</script>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<!-- Twitter conversion tracking base code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    twq('config','pycs2');
+</script>
+    <!-- End Twitter conversion tracking base code -->
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Codex získává internetový přístup | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Codex získává internetový přístup" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Codex nyní může během vykonávání úkolů přistupovat k internetu. Uživatelé mohou povolit internetový přístup pro Codex, aby mohl provádět úkoly jako instalace závislostí, spouštění testů vyžadujících externí zdroje, aktualizace nebo instalace balíčků potřebných pro vývoj nových funkcí. Uživatelé mají kontrolu nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost." />
+<meta property="og:description" content="Codex nyní může během vykonávání úkolů přistupovat k internetu. Uživatelé mohou povolit internetový přístup pro Codex, aby mohl provádět úkoly jako instalace závislostí, spouštění testů vyžadujících externí zdroje, aktualizace nebo instalace balíčků potřebných pro vývoj nových funkcí. Uživatelé mají kontrolu nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost." />
+<link rel="canonical" href="https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-internetovy-pristup/" />
+<meta property="og:url" content="https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-internetovy-pristup/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-06-03T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Codex získává internetový přístup" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-06-03T00:00:00+00:00","datePublished":"2025-06-03T00:00:00+00:00","description":"Codex nyní může během vykonávání úkolů přistupovat k internetu. Uživatelé mohou povolit internetový přístup pro Codex, aby mohl provádět úkoly jako instalace závislostí, spouštění testů vyžadujících externí zdroje, aktualizace nebo instalace balíčků potřebných pro vývoj nových funkcí. Uživatelé mají kontrolu nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost.","headline":"Codex získává internetový přístup","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-internetovy-pristup/"},"url":"https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-internetovy-pristup/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Codex nyní může během vykonávání úkolů přistupovat k internetu. Uživatelé mohou povolit internetový přístup pro Codex, aby mohl provádět úkoly jako instalace závislostí, spouštění testů vyžadujících externí zdroje, aktualizace nebo instalace balíčků potřebných pro vývoj nových funkcí. Uživatelé mají kontrolu nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Codex získává internetový přístup" />
+    <meta property="twitter:title" content="Codex získává internetový přístup" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-internetovy-pristup/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-avatar.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="/vibecoding">👨‍💻 Vibe Coding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+
+
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+
+  /* Odstranění rámečků kolem textu */
+  .post.detailed {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  .post.detailed .entry {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  /* Odstranění okrajů kolem sekce Články a novinky */
+  .posts {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post .entry {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  /* CSS pro tlačítko kopírovat */
+  .code-block-container {
+    position: relative;
+    margin: 20px 0;
+  }
+  .copy-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    z-index: 1;
+  }
+  .copy-button:hover {
+    background-color: #45a049;
+  }
+  .copy-button:active {
+    background-color: #3e8e41;
+  }
+  .copy-button.copied {
+    background-color: #666;
+  }
+  .code-block-container pre {
+    position: relative;
+    padding-top: 40px;
+  }
+  .toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 5px;
+    display: none;
+    z-index: 1000;
+  }
+</style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Codex získává internetový přístup</h1>
+
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+3.
+červen
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    <p>Codex nyní může během vykonávání úkolů přistupovat k internetu. Uživatelé mohou povolit internetový přístup pro Codex, aby mohl provádět úkoly jako instalace závislostí, spouštění testů vyžadujících externí zdroje, aktualizace nebo instalace balíčků potřebných pro vývoj nových funkcí. Uživatelé mají kontrolu nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost.</p>
+
+<p>Tato funkce je užitečná pro automatizaci složitých vývojářských úkolů vyžadujících internetový přístup, čímž ušetří čas a úsilí vývojářů. Unikátnost může spočívat v detailní kontrole nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost a flexibilitu.</p>
+
+<p>Internetový přístup je vypnutý výchozí a musí být explicitně povolen; uživatelé musí nakonfigurovat povolené domény a metody, což vyžaduje technické znalosti. Mohou existovat bezpečnostní rizika při neopatrném nastavení, například nechtěný přístup k citlivým zdrojům.</p>
+
+<h2 id="nové-možnosti">Nové možnosti:</h2>
+
+<h3 id="automatizace-úkolů">Automatizace úkolů</h3>
+<ul>
+  <li><strong>Instalace závislostí</strong> - automatické stahování a konfigurace balíčků</li>
+  <li><strong>Spouštění testů</strong> - práce s externími testovacími prostředími</li>
+  <li><strong>Aktualizace balíčků</strong> - správa závislostí projektu</li>
+</ul>
+
+<h3 id="bezpečnostní-funkce">Bezpečnostní funkce</h3>
+<ul>
+  <li><strong>Kontrola domén</strong> - uživatelské nastavení povolených webových stránek</li>
+  <li><strong>HTTP metody</strong> - omezení povolených typů požadavků</li>
+  <li><strong>Výchozí vypnutí</strong> - internetový přístup je nutné explicitně povolit</li>
+</ul>
+
+<h3 id="omezení-a-rizika">Omezení a rizika</h3>
+<ul>
+  <li><strong>Technické znalosti</strong> - nutnost konfigurace bezpečnostních nastavení</li>
+  <li><strong>Bezpečnostní rizika</strong> - potenciální zranitelnosti při nesprávném nastavení</li>
+  <li><strong>Omezený přístup</strong> - pouze pro předplatitele Plus</li>
+</ul>
+
+<p>Tato funkce výrazně rozšiřuje možnosti Codexu a umožňuje komplexnější automatizaci vývojářských úkolů, ale vyžaduje pečlivou konfiguraci bezpečnostních nastavení.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  <div class="posts">
+    <h3>Jak se vám líbí tento článek?</h3>
+    <!-- Místo pro widget -->
+    <div id="feedback-widget"></div>
+
+    <!-- Widget se vloží do #feedback-widget -->
+    <script 
+        src="https://top.marigold.cz/mg-feedback-clean.js" 
+        data-slug="vibecoding-openai-codex-2025-06-03-internetovy-pristup" 
+        data-title="Codex získává internetový přístup" 
+        data-url="https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-internetovy-pristup/"
+        data-target="#feedback-widget"
+    ></script>
+</div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
+                <p class="excerpt">
+                  
+                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
+                <p class="excerpt">
+                  
+                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Codex získává internetový přístup&url=https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-internetovy-pristup/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-internetovy-pristup/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_vibecoding/openai-codex/2025-06-03-internetovy-pristup.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/vibecoding/openai-codex/2025-06-03-diktat-hlasem/">&laquo; Codex přidává podporu hlasového diktátu</a> |
+      
+      
+      
+        <a class="next" href="/vibecoding/openai-codex/2025-06-03-pristup-pro-plus-uzivatele/">Codex dostupný v rámci předplatitného ChatGPT Plus &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+
+<!-- Toast notifikace -->
+<div class="toast" id="toast">Zkopírováno do schránky!</div>
+
+<!-- JavaScript pro funkcionalitu kopírování -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Najdi všechny code bloky (kromě Mermaid)
+    const codeBlocks = document.querySelectorAll('pre:not(:has(code.language-mermaid))');
+    
+    codeBlocks.forEach((codeBlock, index) => {
+        // Vytvoř kontejner pro code block
+        const container = document.createElement('div');
+        container.className = 'code-block-container';
+        
+        // Vytvoř tlačítko kopírovat
+        const copyButton = document.createElement('button');
+        copyButton.className = 'copy-button';
+        copyButton.textContent = 'Kopírovat';
+        copyButton.setAttribute('data-index', index);
+        
+        // Vlož code block a tlačítko do kontejneru
+        codeBlock.parentNode.insertBefore(container, codeBlock);
+        container.appendChild(copyButton);
+        container.appendChild(codeBlock);
+        
+        // Přidej event listener na tlačítko
+        copyButton.addEventListener('click', async () => {
+            try {
+                // Získej text z code bloku
+                const code = codeBlock.querySelector('code') || codeBlock;
+                const text = code.textContent;
+                
+                // Kopíruj do schránky
+                await navigator.clipboard.writeText(text);
+                
+                // Změň stav tlačítka
+                copyButton.textContent = 'Zkopírováno!';
+                copyButton.classList.add('copied');
+                
+                // Zobraz toast notifikaci
+                showToast();
+                
+                // Po 2 sekundách vrať původní stav
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+                
+            } catch (err) {
+                console.error('Chyba při kopírování:', err);
+                copyButton.textContent = 'Chyba';
+                copyButton.classList.add('copied');
+                
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+            }
+        });
+    });
+});
+
+function showToast() {
+    const toast = document.getElementById('toast');
+    toast.style.display = 'block';
+    setTimeout(() => {
+        toast.style.display = 'none';
+    }, 2000);
+}
+</script>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<!-- Twitter conversion tracking base code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    twq('config','pycs2');
+</script>
+    <!-- End Twitter conversion tracking base code -->
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
