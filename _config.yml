@@ -66,7 +66,7 @@ collections:
     permalink: /ai/:title/
   vibecoding:
     output: true
-    permalink: /vibecoding/:title/
+    permalink: /vibecoding/:path/
   mobilnisite:
     output: true
     permalink: /mobilnisite/:title/
@@ -130,7 +130,8 @@ paginate_path: /page:num/
 feed:
   path: feed.xml
   posts_limit: 20
-  excerpt_only: false
+  excerpt_only: true
+  excerpt_length: 250
   meta_filter:
     lang: 
       - null
@@ -138,7 +139,8 @@ feed:
 en_feed:
   path: feed-en.xml
   posts_limit: 20
-  excerpt_only: false
+  excerpt_only: true
+  excerpt_length: 250
   lang: en
   
 # Exclude these files from your production _site

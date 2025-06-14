@@ -6,7 +6,7 @@ categories:
 - Anthropic
 - vibe code
 - AI
-sw: Claude Code
+sw: claude
 date: 2025-03-22 22:00:00
 layout: post
 summary_points:
@@ -17,7 +17,7 @@ summary_points:
 - Claude Code nabízí web fetch, auto-accept, automatické doplňování cest a auto-compact.
 thumbnail: https://www.marigold.cz/assets/claude-code-user.png
 title: Nové funkce v Claude Code pro programování s AI
-sw: claude-code
+sw: claude
 ---
 
 Svůj nástroj [[Claude Code](/ai/claude-code/)](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview) pro "[[vibe coding](/item/programovani-s-ai/)](/item/programovani-s-ai/)" představil Anthropic vcelku nedávno a zjevně nad ním dosti intenzivně vyšívá. Tento týden Anthropic představil několik zajímavých nových funkcí, které vývojářům pomohou pracovat rychleji a efektivněji. Takže se na to pojďme podívat. 

@@ -112,7 +112,7 @@ A teď už pojďme na přehled, pořadí je náhodné!
 
 ---
 
-### 9. [Replit](https://replit.com/)
+### 9. [Replit](https://replit.com/refer/zandl)
 - **Funkce**:
   - Cloudové vývojové prostředí s AI integrací
   - Nabízí živé sdílení kódu, deployment i AI asistenci

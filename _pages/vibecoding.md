@@ -130,7 +130,8 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
 }
 
 .category-toggle:not(.collapsed) + .category-content {
-  max-height: 500px;
+  max-height: none;
+  height: auto;
   padding: 20px;
 }
 
