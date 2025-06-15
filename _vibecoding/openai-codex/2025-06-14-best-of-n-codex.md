@@ -7,12 +7,12 @@ categories:
 - programování
 - vývojářské nástroje
 layout: post
-post_excerpt: Anthropic vylepšil svůj nástroj Codex funkcí Best of N pro generování více řešení najednou a přidal řadu praktických vylepšení pro vývojáře.
+post_excerpt: OpenAI vylepšil svůj nástroj Codex funkcí Best of N pro generování více řešení najednou a přidal řadu praktických vylepšení pro vývojáře.
 date: 2025-06-14
-title: Anthropic vylepšil Codex o funkci Best of N a další praktická vylepšení
+title: OpenAI vylepšil Codex o funkci nejlepšího  výsledku Best of N 
 ---
 
-Anthropic vydal 13. června 2025 aktualizaci vývojářského nástroje Codex s novou funkcí Best of N a praktickými vylepšeními.
+OpenAI vydal 13. června 2025 aktualizaci vývojářského nástroje Codex s novou funkcí Best of N a praktickými vylepšeními.
 
 ## Hlavní novinka: Best of N
 
@@ -39,3 +39,5 @@ Codex nyní generuje současně více variant řešení pro jednu úlohu. Vývoj
 **Opravené problémy:**
 - Selhání úloh během nastavování kontejnerů
 - Problémy s následnou prací při změně ignorovaných souborů
+
+[zdroj](https://help.openai.com/en/articles/11428266-codex-changelog)
