@@ -186,7 +186,7 @@
       "category" : "AI, ChatGPT",
       "tags"     : "",
       "date"     : "3.5.2025",
-      "content"  : "Nový model ChatGPT o3 umí jednu zajímavou věc. Umí odhadnout polohu fotografie. Prostě nahrajete obrázek a zeptáte se, kde byl pořízen. Model o3 se zamyslí a po nějaké chvíli vám řekne, kde asi byl snímek pořízen, případně co na něm vidíte. Jenže tak jednoduché to není. Samozřejmě, pokud mu šoupnete fotku Pražského hradu, tak po pár minutách dumání řekne, že je to Pražský hrad. Jenže jakmile to není tak známá pamětihodnost, je to mnohem těžší a už výrazně více záleží na tom, jak se zeptáte, tedy jaký dáte prompt.A protože o3 není na přemýšlení o místě pořízení fotky úplně uzpůsobený,..."
+      "content"  : "Nový model ChatGPT o3 umí jednu zajímavou věc. Umí odhadnout polohu fotografie. Prostě nahrajete obrázek a zeptáte se, kde byl pořízen. Model o3 se zamyslí a po nějaké chvíli vám řekne, kde asi byl snímek pořízen, případně co na něm vidíte. Jenže tak jednoduché to není. Samozřejmě, pokud mu šoupnete fotku Pražského hradu, tak po pár minutách dumání řekne, že je to Pražský hrad. Jenže jakmile to není tak známá pamětihodnost, je to mnohem těžší a už výrazně více záleží na tom, jak se zeptáte, tedy jaký dáte prompt. Pozor, nově můžete použít i GPTs v ChatGPT, které jsem na..."
     },
   
     {
@@ -27539,6 +27539,20 @@
         "url"      : "//vibecoding/openai-codex/2025-06-14-best-of-n-codex/",
         "category" : "vibecoding",
         "content"  : "OpenAI vydal 13. června 2025 aktualizaci vývojářského nástroje Codex s novou funkcí Best of N a praktickými vylepšeními.Hlavní novinka: Best of NCodex nyní generuje současně více variant řešení pro jednu úlohu. Vývojáři tak mohou: Rychle porovnat různé přístupy k problému Vybrat optimální řešení bez opakovaného zadávání Efektivněji experimentovat s programovacími vzory Prozkoumávat více implementací algoritmu najednouPraktická vylepšeníNové funkce: Klávesové zkratky (⌘-/ na macOS, Ctrl+/ na ostatních systémech) Podpora URL parametru “branch” pro lepší organizaci projektů Možnost zrušení probíhající úlohy Indikátor načítání při stahování repozitářeTechnické změny: Časový limit instalačních skriptů navýšen na 20 minut (Pro/Team/Business) Lepší zpracování síťových omezení Častější aktualizace..."
+      }
+      
+      ,{
+        "title"    : "Softgen AI přidává uložené příkazy a plánovací režim",
+        "url"      : "//vibecoding/2025-06-15-softgen-planing/",
+        "category" : "vibecoding",
+        "content"  : "Softgen AI nabídla dvě nové funkce - uložené příkazy a plánovací režim. Je to trend, který se ve vibecoding aplikacích v poslední době objevuje, nově tedy i v Softgenu. Podle údajů společnosti Softgen využívá 110 000 vývojářů a týmů.Uložené příkazy pro efektivnější práciFunkce uložených příkazů umožňuje uložení a opakované použití často používaných instrukcí. Uživatelé mohou vytvářet vlastní příkazy nebo využívat předpřipravené příklady pro řešení běžných úkolů. Mezi dostupné příklady patří: Brainstorm Core App Features - plánování základních funkcí aplikace Design Basic Data Structure - návrh datové organizace Implement Simple User Signup &amp;amp; Login - nastavení základní autentizace Quick Error Check..."
+      }
+      
+      ,{
+        "title"    : "Lovable rozšiřuje bezpečnostní funkce pro tvorbu aplikací bez kódování",
+        "url"      : "//vibecoding/lovable-dev/2025-06-15-lovable-security-scan/",
+        "category" : "vibecoding",
+        "content"  : "Platforma Lovable pro tvorbu aplikací bez programování přidala tři bezpečnostní funkce k ochraně citlivých dat. Změny zahrnují automatické skenování, AI revizoře kódu a blokování nebezpečného vkládání API klíčů.Automatické bezpečnostní skenováníLovable kontroluje aplikace před zveřejněním pomocí Supabase Security Advisor. Skenování se zaměřuje na Row Level Security (RLS) politiky - SQL pravidla řízení přístupu k databázi. Systém identifikuje chybějící nebo příliš široké politiky, které by umožnily neoprávněný přístup k datům.AI revizor zranitelnostíSecurity Reviewer analyzuje celý kód aplikace a hledá širší spektrum bezpečnostních problémů: SQL injection útoky - nebezpečné vkládání SQL kódu Cross-site scripting (XSS) - útoky škodlivým JavaScriptem Problémy s autentizací -..."
       }
       
     
