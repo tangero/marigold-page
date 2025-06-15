@@ -18,6 +18,8 @@ title: Jak určit polohu pořízení fotografie pomocí ChatGPT o3?
 
 Nový model ChatGPT o3 umí jednu zajímavou věc. Umí odhadnout polohu fotografie. Prostě nahrajete obrázek a zeptáte se, kde byl pořízen. Model o3 se zamyslí a po nějaké chvíli vám řekne, kde asi byl snímek pořízen, případně co na něm vidíte. Jenže tak jednoduché to není. Samozřejmě, pokud mu šoupnete fotku Pražského hradu, tak po pár minutách dumání řekne, že je to Pražský hrad. Jenže jakmile to není tak známá pamětihodnost, je to mnohem těžší a už výrazně více záleží na tom, jak se zeptáte, tedy jaký dáte prompt. 
 
+> Pozor, nově můžete použít i GPTs v ChatGPT, které jsem na to připravil. [Přes web zde](https://chatgpt.com/gpts/editor/g-67fe1204ac74819182d129b73a97258b). 
+
 A protože o3 není na přemýšlení o místě pořízení fotky úplně uzpůsobený, je lepší dát mu přesnější textový popis. A protože se syn věnuje hře [GeoGuessr](https://www.geoguessr.com) (určování polohy fotky), tak jsem mrknul na postupy, jaké používá místní komunita. Nakonec jsem ze všech doporučení zkompiloval a odladil zhruba následující prompt, který si přes copy&paste zkopírujete do ChatGPT, zapněte model o3 a přiložte obrázek. Je pak velmi zajímavé, jak o3 provede všechny úvahy a co zajímavého odvodí.
 
 Samozřejmě, pokud vyfotíte pár stromů v lese, tak se ani tímto promptem nedostanete k přesné GPS souřadnici. Také pohled na anonymní a málo známé snímky krušnohorských kopců, na kterých kromě stromů nic není, to neodhadlo příliš dobře (ale poznalo to Česko). Ale třeba jinak dost anonymní (byť hezká) fotka pohledu do krajiny z lanovky na rakouský Riegersburg byla detekována velmi přesně, stejně jako pohled na Praděd pořízený z Dlouhých strání (poznal přesné místo, odkud bylo foceno).
