@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "",
+      "url"      : "//item/2025-06-17-ai-asistenti-projekty/",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "17.6.2025",
+      "content"  : "V AI existuje celá řada “technologií”, které se snaží pomáhat s automatizací práce i neprogramátorům. Jsou to především Projekty, GPTs a GEM od všech tří hlavních firem nabízejících LLM. Souhrnně jim říkejem asistenti. Pojďme si ukázat, jak můžete vytvořit asistenty pro opakující se úkoly.Tak za prvé, nejsou to agenti. Agenti fungují samostatně. Asistenti jsou vám k ruce a na váš příkaz něco dost predikovatelného udělají, ale nerozpoutají při tom třetí světovou ani v scifi knížce. Ve skutečnosti se asistenti u jednotlivých firem jmenují různě a my si v tom dneska trochu děláme pořádek.Projekty v ChatGPT a ClaudePokud si platíte za..."
+    },
+  
+    {
       "title"    : "Týden AI a robotiky - ChatGPT s novými konektory, vylepšený Gemini a pokroky humanoidů",
       "url"      : "//item/ai_robotics_12-06-2025/",
       "category" : "AI, OpenAI, Microsoft, Google, robotika, humanoidní roboti, Figure, Agility Robotics, Apple, WWDC",
