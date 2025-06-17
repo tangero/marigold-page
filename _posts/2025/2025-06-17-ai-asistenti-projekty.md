@@ -63,6 +63,8 @@ Jak takový prompt vypadá? Tady je jeho příklad. Pevně jsem definoval barvy,
 
 Jedním zádrhelem tohoto příkladu je použití avatara, tedy ikonky serveru, kterou používám na obrázku. Projekty mají způsob, jakým se mohou odkazovat na soubory, které jste si do nich uložili, a to */mnt/data/jmenosouboru.pripona* - jenže tyto soubory nelze zobrazovat, jen použít při zpracování. Což znamená, že by mělo být možné v rámci Projektu nahrát si předem ikonku, která se do úvodního obrázku přidá. Bohužel, když ji přidáte mezi soubory projektu, to tak zatím nefunguje a není úplně zřejmé, proč. Zatím je tedy řešením při prvním generování obrázku avatara nahrát ručně a pak se na něj jen odvolávat. Pokud máte v Settings nastaveno, že jednotlivé chaty vidí svoje data, můžete se takto odvolávat na avatara i při generování dalšího obrázku. 
 
+![Příklad takto vygenerovaného obrázku](/assets/ai-asistenti.png )
+
 Chcete-li v projektech povolit plnou funkčnost paměti, ujistěte se, že jsou v nastavení zapnuty funkce *Odkazovat se na informace uložené v paměti* i *Historie referenčního chatu* v *Personalizace / Přizpůsobení*
 
 Možná se ptáte, **proč nepoužít rovnou prompt, jaká je výhoda v tom, používat Projekty?** 
@@ -145,6 +147,8 @@ Určitou Nevýhodou Projektů také je, že v nich nelze používat Úlohy z Ope
 Možná někdo používáte Grok od xAI, i když je v českém prostředí málo oblíbený (a SuperGrok je relativně drahý). Zajímavý je především kvůli možnosti extrahovat data z Twitteru/[X.com](https://x.com/), což je jinde omezené a ze strany X cíleně blokované). Inu propojení skrze Muska je tu výhodou.
 
 Grok nabízí Workspace, tedy obdobu projektů. Můžete si vybrat model, režim (DeepSearch a DeeperSearch je tu. navíc) a nahrávat sem soubory, nicméně jsem nikde nenašel žádné dobré popisy, jaké jsou limity. Navíc Grok je jediný velký model, který si neplatím, takže jsem limity osobně nevyzkoušel. Výhodou je, že Grok je multimodální, podobně jako OpenAI si tedy poradí také s obrázky. Grok 3 má ovšem problémy s češtinou a také nepochopil prompt a na jeho ladění jsem nevěnoval moc času. Udělal hezkou fotku, ale formát měl být na šířku, ne na výšku - a čeština velký špatný. Obecně bych Grok nedoporučoval, pokud potřebujete pracovat rutinně s češtinou, i když v běžném použití limity nejsou zřetelné.
+
+![A tuhle krásu vygeneroval Grok 3](/assets/grok-asistent-nepovedeny.jpg)
 
 ### Moje způsoby použití Asistentů
 
