@@ -4,9 +4,9 @@ categories:
 - AI
 - AI asistent
 layout: post
-post_excerpt:V AI existuje celá řada "technologií", které se snaží pomáhat s automatizací práce i neprogramátorům. Jsou to především Projekty, GPTs a GEM od všech tří hlavních firem nabízejících LLM. Souhrnně jim říkejem asistenti. Pojďme si ukázat, jak můžete vytvořit asistenty pro opakující se úkoly.
+post_excerpt: V AI existuje celá řada postupů, které se snaží pomáhat s automatizací práce i neprogramátorům. Jsou to především Projekty, GPTs a GEM od všech tří hlavních firem nabízejících LLM. Souhrnně jim říkejem asistenti. Pojďme si ukázat, jak můžete vytvořit asistenty pro opakující se úkoly.
 thumbnail: /assets/ai-asistenti.png
-title: Asistenti, Projekty, GEMy, GPTs a základy automatizace práce pomocí AI
+title: "Asistenti, Projekty, GEMy, GPTs a základy automatizace práce pomocí AI"
 ---
 
 
