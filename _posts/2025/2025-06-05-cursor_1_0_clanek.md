@@ -64,7 +64,7 @@ Systém funguje pomocí příkazu "@Memory" (například "Please remember ___ @M
 
 ## [MCP](/ai/mcp/) protokol s jedním kliknutím
 
-[Model Context Protocol](/ai/mcp/) ([MCP](/ai/mcp/)) představuje standardizovaný způsob připojení AI agentů k externím zdrojům dat. MCP funguje jako vrstva mezi jazykovými modely a API různých služeb, což eliminuje nutnost psát vlastní kód pro každou integraci.
+[Model Context Protocol](/ai/mcp/) ([MCP](/ai/mcp/)) představuje standardizovaný způsob připojení AI agentů k externím zdrojům dat. [MCP](/ai/mcp/) funguje jako vrstva mezi jazykovými modely a API různých služeb, což eliminuje nutnost psát vlastní kód pro každou integraci.
 
 Cursor 1.0 zjednodušuje instalaci MCP serverů. Místo manuálního nastavování přes "Add Custom MCP" nyní uživatelé navštíví stránku MCP tools, vyberou požadovaný nástroj a kliknou na "Add app to Cursor".
 
