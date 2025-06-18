@@ -5,7 +5,7 @@ categories:
 - Energie
 - Energetika
 - Green Deal
-date: 18.6.2025
+date: 18.6.2025 15:00
 layout: post
 post_excerpt: Vyšla Zpráva výboru pro analýzu okolností elektroenergetické krize 28.4.2025 ve Španělsku, takže už zhruba víme, co stálo za španělským blackoutem. A bylo toho opravdu hodně.  
 
