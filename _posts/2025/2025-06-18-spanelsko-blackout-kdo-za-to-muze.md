@@ -14,7 +14,7 @@ title: "⚡️ Co bylo příčinou blackoutu ve Španělsku?"
 ---
 
 
-Včera vyšla španělská [Zpráva výboru pro analýzu okolností elektroenergetické krize 28.4.2025](https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/junio/se-presenta-el-informe-del-comite-de-analisis-de-la-crisis-elect.html). Mám k dispozici její [veřejnou verzi](Informe-no-confidencial-Comite-de-analisis-28A cs.pdf), která oproti důvěrné verzi vynechává jména konkrétních firem, s nimiž je nyní vedeno správní řízení. Můžeme si společně udělat přesnou představu, k čemu na Pyrenejském poloostrově onoho osudného dne došlo.
+Včera vyšla španělská [Zpráva výboru pro analýzu okolností elektroenergetické krize 28.4.2025](https://www.miteco.gob.es/es/prensa/ultimas-noticias/2025/junio/se-presenta-el-informe-del-comite-de-analisis-de-la-crisis-elect.html). Mám k dispozici její [veřejnou verzi](/assets/ebook/Informe-no-confidencial-Comite-de-analisis-28Acs.pdf), která oproti důvěrné verzi vynechává jména konkrétních firem, s nimiž je nyní vedeno správní řízení. Můžeme si společně udělat přesnou představu, k čemu na Pyrenejském poloostrově onoho osudného dne došlo.
 
 Zpráva zdůrazňuje, že došlo k rozsáhlé souhře okolností. Než si řekneme, že té souhře okolností v Češtině říkáme šlendrián, podívejme se na technické pojmy.
 
