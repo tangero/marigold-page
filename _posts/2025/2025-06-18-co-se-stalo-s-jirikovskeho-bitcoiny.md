@@ -16,6 +16,8 @@ Konečně se vyjasnilo, co se stalo s chybějícími devíti miliardami korun v 
 
 > O co v kauze Tomáš Jiříkovský a bitcoiny ex-ministra Pavla Blažka jde? [Detailně jsme to rozebírali zde](https://www.marigold.cz/item/jirikovsky-blazek-sheep-nucleus/).
 
+Vyjádření soudního znalce Jiřího Bergera [vyšlo na LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7340648671513927681/), detaily jsme si vysvětlili v rozhovoru. 
+
 Nejprve začneme více laickým vysvětlením, technicky exaktnější vysvětlení si dáme na závěr pro zájemce. 
 
 Zádrhel je v tom, že Jiříkovského peněženka používala ještě **starší verzi Bitcoin Core, založenou na technologii JBOK**, ne na modernější technologii HD. Hlavním problémem této technologie bylo zálohování. Zálohou JBOK je totiž možné zpřístupnit jen ty adresy z peněženky, které vznikly do doby vzniku zálohy. Nelze tak zpřístupnit prostředky, které jsou na adresách vzniklých až po vzniku zálohy. V praxi to znamená, že **soudní znalec konstatoval, že použitím zálohy je zpřístupněno oněch 1561 BTC**, z nichž stát dostal slíbených 30 %. Soudní znalec **na policií vrácených počítačích jiné klíče nenalezl** a tudíž jiné adresy nebylo možno obnovit.  A pokud se nenajde novější záloha na jiném hardware, tak u toho výsledku také zůstane. 
