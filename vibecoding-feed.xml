@@ -6,10 +6,31 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Thu, 19 Jun 2025 10:57:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 07:11:03 +0000</lastBuildDate>
     
     
     
+    
+      
+      
+      
+      <item>
+        <title>🟣 Claude Code - Claude Code přidává podporu MCP serveru</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-06-20-claude-code-mcp/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-06-20-claude-code-mcp/</guid>
+        <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Nyní se můžete připojit ke vzdáleným serverům MCP z Claude Code, což vám umožní přizpůsobit Claude Code tak, aby používal vaše oblíbené nástroje.
+Lze tak přenášet data z jiných nástrojů přímo do Claude Code automatizovaně, bez neoblíbeného copy-paste.
+Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeba žádné místní nastavení ani konfigurace. Detaily najdete v <a href="https://docs.anthropic.com/en/docs/claude-code/mcp">dokumentaci</a>.</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-06-20-claude-code-mcp/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
     
       
       

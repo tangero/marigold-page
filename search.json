@@ -27582,6 +27582,13 @@
         "content"  : "Platforma Lovable pro tvorbu aplikací bez programování přidala tři bezpečnostní funkce k ochraně citlivých dat. Změny zahrnují automatické skenování, AI revizoře kódu a blokování nebezpečného vkládání API klíčů.Automatické bezpečnostní skenováníLovable kontroluje aplikace před zveřejněním pomocí Supabase Security Advisor. Skenování se zaměřuje na Row Level Security (RLS) politiky - SQL pravidla řízení přístupu k databázi. Systém identifikuje chybějící nebo příliš široké politiky, které by umožnily neoprávněný přístup k datům.AI revizor zranitelnostíSecurity Reviewer analyzuje celý kód aplikace a hledá širší spektrum bezpečnostních problémů: SQL injection útoky - nebezpečné vkládání SQL kódu Cross-site scripting (XSS) - útoky škodlivým JavaScriptem Problémy s autentizací -..."
       }
       
+      ,{
+        "title"    : "Claude Code přidává podporu MCP serveru",
+        "url"      : "//vibecoding/claude-code/2025-06-20-claude-code-mcp/",
+        "category" : "vibecoding",
+        "content"  : "Nyní se můžete připojit ke vzdáleným serverům MCP z Claude Code, což vám umožní přizpůsobit Claude Code tak, aby používal vaše oblíbené nástroje.Lze tak přenášet data z jiných nástrojů přímo do Claude Code automatizovaně, bez neoblíbeného copy-paste.Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeba žádné místní nastavení ani konfigurace. Detaily najdete v dokumentaci."
+      }
+      
     
   
 ]
