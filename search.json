@@ -27589,6 +27589,13 @@
         "content"  : "Nyní se můžete připojit ke vzdáleným serverům MCP z Claude Code, což vám umožní přizpůsobit Claude Code tak, aby používal vaše oblíbené nástroje.Lze tak přenášet data z jiných nástrojů přímo do Claude Code automatizovaně, bez neoblíbeného copy-paste.Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeba žádné místní nastavení ani konfigurace. Detaily najdete v dokumentaci."
       }
       
+      ,{
+        "title"    : "Databutton integruje databázi a ověřování do aplikací vytvářených umělou inteligencí",
+        "url"      : "//vibecoding/databutton/2025-06-20-databutton_databaze/",
+        "category" : "vibecoding",
+        "content"  : "Platforma Databutton oznámila integraci databáze a systému ověřování uživatelů přímo do svého nástroje pro vytváření aplikací pomocí umělé inteligence. Tato aktualizace má podle společnosti eliminovat potřebu externích služeb a zjednodušit proces vývoje aplikací pro firemní uživatele. Dlužno říct: sláva! Tohle je při vibecodingu zatím velká frustrace, jste schopni se dlouho točit na neschopnosti dobře a bezpečně se připojit z apliace do databáze nebo nastavit ověřování užívatelů…Technické řešení postavené na Neon DatabaseNově integrovaná funkcionalita využívá technologii Neon Database, což je platforma pro správu PostgreSQL databází v cloudu. Tato integrace přináší tři klíčové funkce do každé nově vytvořené aplikace na platformě Databutton:..."
+      }
+      
     
   
 ]

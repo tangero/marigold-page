@@ -6,7 +6,7 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Fri, 20 Jun 2025 07:11:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 07:28:28 +0000</lastBuildDate>
     
     
     
@@ -28,6 +28,25 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-06-20-claude-code-mcp/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🔴 Databutton - Databutton integruje databázi a ověřování do aplikací vytvářených umělou inteligencí</title>
+        <link>https://www.marigold.cz/vibecoding/databutton/2025-06-20-databutton_databaze/</link>
+        <guid>https://www.marigold.cz/vibecoding/databutton/2025-06-20-databutton_databaze/</guid>
+        <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Platforma Databutton oznámila integraci databáze a systému ověřování uživatelů přímo do svého nástroje pro vytváření aplikací pomocí umělé inteligence. Tato aktualizace má podle společnosti eliminovat potřebu externích služeb a zjednodušit proces vývoje aplikací pro firemní uživatele. Dlužno říct: sláva! Tohle je při vibecodingu zatím velká frustrace, jste schopni se dlouho točit na neschopnosti dobře a bezpečně se připojit z apliace do databáze nebo nastavit ověřování užívatelů…</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/databutton/2025-06-20-databutton_databaze/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
