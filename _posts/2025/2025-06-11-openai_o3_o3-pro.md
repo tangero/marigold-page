@@ -20,9 +20,9 @@ thumbnail: https://www.marigold.cz/assets/openai-thumbnail.png
 title: OpenAI snížila cenu modelu o3 o 80 % a představila o3-Pro
 ---
 
-OpenAI oznámila výrazné snížení ceny svého modelu o3 o 80 procent spolu s uvedením nové varianty o3-Pro. Model o3 nyní stojí 2 dolary za milion vstupních tokenů a 8 dolarů za milion výstupních tokenů, zatímco dříve byla cena 10 a 40 dolarů. Současně byla představena výkonnější varianta o3-Pro.
+OpenAI oznámila výrazné snížení ceny svého modelu o3 o 80 procent spolu s uvedením nové varianty o3-Pro. Model o3 nyní stojí 2 dolary za milion vstupních [tokenů](/ai/tokeny-versus-slova/) a 8 dolarů za milion výstupních tokenů, zatímco dříve byla cena 10 a 40 dolarů. Současně byla představena výkonnější varianta o3-Pro.
 
-Nový model o3-Pro je dostupný zatím jen přes API, tedy ne přes aplikaci nebo ChatGPT.com. Cena za použití je 20 dolarů za vstupní a 80 dolarů za výstupní tokeny, což představuje 87procentní snížení oproti předchozímu modelu o1-Pro. I tak je to ale dost vysoká cena. Tomu odpovídají smíšené reakce vývojářů a uživatelů. Zatímco mnozí oceňují zvýšenou dostupnost, kritici poukazují na stále vysoké ceny ve srovnání s konkurencí.
+Nový model o3-Pro je dostupný zatím jen přes API, tedy ne přes aplikaci nebo ChatGPT.com. Cena za použití je 20 dolarů za vstupní a 80 dolarů za výstupní [tokeny](/ai/tokeny-versus-slova/), což představuje 87procentní snížení oproti předchozímu modelu o1-Pro. I tak je to ale dost vysoká cena. Tomu odpovídají smíšené reakce vývojářů a uživatelů. Zatímco mnozí oceňují zvýšenou dostupnost, kritici poukazují na stále vysoké ceny ve srovnání s konkurencí.
 
 ## Technické pozadí snížení cen
 
@@ -68,7 +68,7 @@ Uvedení o3-Pro lze chápat jako snahu diferencovat produktovou řadu a nabídno
 
 ## Technické využití a doporučení
 
-OpenAI doporučuje model o3 především pro kódování, kde nyní nabízí stejnou cenu za token jako GPT-4.1, ale s lepším výkonem. Model je také vhodný pro úkoly vyžadující agentic tool calling, function calling a přesné následování instrukcí. Optimalizovaný inference stack činí o3 praktickou volbou pro produkční nasazení, kde byla dříve cena překážkou.
+OpenAI doporučuje model o3 především pro kódování, kde nyní nabízí stejnou cenu za [token](/ai/tokeny-versus-slova/) jako GPT-4.1, ale s lepším výkonem. Model je také vhodný pro úkoly vyžadující agentic tool calling, function calling a přesné následování instrukcí. Optimalizovaný inference stack činí o3 praktickou volbou pro produkční nasazení, kde byla dříve cena překážkou.
 
 Model o3-Pro je určen pro komplexní problémy vyžadující delší čas na zpracování a vyšší výpočetní výkon. Jeho použití je ekonomicky opodstatněné pro kritické úkoly v oblasti výzkumu, pokročilého kódování a vědeckých aplikací, kde je kvalita výstupu důležitější než rychlost nebo cena.
 
