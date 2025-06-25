@@ -27596,6 +27596,13 @@
         "content"  : "Platforma Databutton oznámila integraci databáze a systému ověřování uživatelů přímo do svého nástroje pro vytváření aplikací pomocí umělé inteligence. Tato aktualizace má podle společnosti eliminovat potřebu externích služeb a zjednodušit proces vývoje aplikací pro firemní uživatele. Dlužno říct: sláva! Tohle je při vibecodingu zatím velká frustrace, jste schopni se dlouho točit na neschopnosti dobře a bezpečně se připojit z apliace do databáze nebo nastavit ověřování užívatelů…Technické řešení postavené na Neon DatabaseNově integrovaná funkcionalita využívá technologii Neon Database, což je platforma pro správu PostgreSQL databází v cloudu. Tato integrace přináší tři klíčové funkce do každé nově vytvořené aplikace na platformě Databutton:..."
       }
       
+      ,{
+        "title"    : "Tipy a triky pro efektivní vývoj s platformou Lovable",
+        "url"      : "//vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/",
+        "category" : "vibecoding",
+        "content"  : "Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal.Základní principy práce s příkazyPoužívejte popisná klíčová slova místo pouhých technických instrukcí. Namísto obecného “Vytvoř mi vstupní stránku / landing page” je efektivnější napsat “Vytvoř velkolepou vstupní stránku, která představí prémiovou wellness značku pomocí příběhových sekcí a špičkového vizuálního designu.” Klíčová slova jako “minimalistický, glassmorfní, plovoucí prvky” nebo “hravý, výrazný, jasné barvy, zaoblené rohy” dokážou okamžitě povýšit kvalitu návrhu,..."
+      }
+      
     
   
 ]
