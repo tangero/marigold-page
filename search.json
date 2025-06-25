@@ -27603,6 +27603,13 @@
         "content"  : "Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal.Základní principy práce s příkazyPoužívejte popisná klíčová slova místo pouhých technických instrukcí. Namísto obecného “Vytvoř mi vstupní stránku / landing page” je efektivnější napsat “Vytvoř velkolepou vstupní stránku, která představí prémiovou wellness značku pomocí příběhových sekcí a špičkového vizuálního designu.” Klíčová slova jako “minimalistický, glassmorfní, plovoucí prvky” nebo “hravý, výrazný, jasné barvy, zaoblené rohy” dokážou okamžitě povýšit kvalitu návrhu,..."
       }
       
+      ,{
+        "title"    : "Google uvede Gemini CLI",
+        "url"      : "//vibecoding/ostatni/2025-06-25-gemini-cli/",
+        "category" : "vibecoding",
+        "content"  : "Google brzy uvede Gemini CLI, výkonného open-source AI agenta vytvořeného pro terminál.  Postaveno na Gemini 2.5 Pro  1 milion tokenů v kontextovém okně  Bezplatná verze s 60 požadavky za minutu a 1 000 za den  Google Search pro kontext v reálném čase  Podpora skriptů a pluginů  Neinteraktivní režim pro automatizaci  Podpora Model Context Protocol (MCP)  Integrace s Gemini Code Assist ve VS Code  Plně open-source pod licencí Apache 2.0"
+      }
+      
     
   
 ]
