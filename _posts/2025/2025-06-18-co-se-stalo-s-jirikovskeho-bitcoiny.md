@@ -17,6 +17,11 @@ Konečně se vyjasnilo, co se stalo s chybějícími devíti miliardami korun v 
 
 > O co v kauze Tomáš Jiříkovský a bitcoiny ex-ministra Pavla Blažka jde? [Detailně jsme to rozebírali zde](https://www.marigold.cz/item/jirikovsky-blazek-sheep-nucleus/).
 
+
+**K tématu jsme udělali i [rozhovor s Jakubem Horákem pro jeho podcast](https://herohero.co/jakubhorak)**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TZB_jk2fGt4?si=ihdaJUGM92ytvr2X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Vyjádření soudního znalce Jiřího Bergera [vyšlo na LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7340648671513927681/), detaily jsme si vysvětlili v rozhovoru. 
 
 > Pokud se chcete včas dozvědět další důležité informace, **přihlašte si zdarma můj newsletter:**
