@@ -1,15 +1,13 @@
------
-
+---
 author: Patrick Zandl
 categories:
-
 - AI
 - Replit
 - Vývojářské nástroje
 - Claude Opus 4
-  layout: post
-  post_excerpt: Replit Agent získal tři nové schopnosti: rozšířené uvažování, výkonnější model a webové vyhledávání pro autonomnější vývoj aplikací.
-  summary_points:
+layout: post
+post_excerpt: Replit Agent získal tři nové schopnosti: rozšířené uvažování, výkonnější model a webové vyhledávání pro autonomnější vývoj aplikací.
+summary_points:
 - Replit Agent představil dynamickou inteligenci se třemi novými funkcemi
 - Extended thinking umožňuje hlubší uvažování a zobrazuje postupné kroky řešení
 - High power model využívá Claude Opus 4 pro zvýšení přesnosti
@@ -17,7 +15,7 @@ categories:
 - Funkce lze zapínat a vypínat podle konkrétního požadavku
 - Zaměření na složitější úkoly jako optimalizace výkonu nebo integrace API
 title: Replit Agent získal dynamickou inteligenci
------
+---
 
 Společnost Replit [oznámila](https://blog.replit.com/dynamic-intelligence) rozšíření svého vývojářského asistenta Agent o tři nové schopnosti, které označuje jako “dynamickou inteligenci”. Tyto funkce mají zvýšit autonomii nástroje při vývoji aplikací a umožnit mu řešit složitější problémy s minimálním vedením ze strany uživatele.
 
