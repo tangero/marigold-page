@@ -1,10 +1,5 @@
 ---
 author: Patrick Zandl
-categories:
-- AI
-- Replit
-- Vývojářské nástroje
-- Claude Opus 4
 layout: post
 post_excerpt: Replit Agent získal tři nové schopnosti: rozšířené uvažování, výkonnější model a webové vyhledávání pro autonomnější vývoj aplikací.
 title: Replit Agent získal dynamickou inteligenci
