@@ -1,23 +1,13 @@
------
-
-author: Patrick Zandl
-categories:
-
-- AI
-- Claude Code
-- Anthropic
-- automatizace
-- vývojářské nástroje
-  layout: post
-  post_excerpt: Claude Code získal funkci Hooks, která umožňuje automatické spouštění skriptů při různých událostech během práce s nástrojem. Systém podporuje validaci příkazů, formátování kódu a vlastní rozšíření.
-  summary_points:
+---
+layout: post
+summary_points:
 - Claude Code představil funkci Hooks pro automatizaci a rozšíření možností nástroje
 - Hooks umožňují spouštět skripty před a po použití nástrojů jako jsou Bash, Write nebo Edit
 - Systém podporuje validaci příkazů, automatické formátování kódu a vlastní notifikace
 - Konfigurace probíhá pomocí JSON souborů s možností nastavení na úrovni uživatele nebo projektu
 - Funkce zahrnuje bezpečnostní opatření včetně kontroly vstupu a omezení přístupu k citlivým souborům
 - Podporuje také práci s MCP (Model Context Protocol) nástroji
-title: Claude Code Hooks
+title: "Claude Code Hooks"
 ---
 
 Anthropic rozšířil svůj nástroj Claude Code o novou funkci nazvanou Hooks, která umožňuje vývojářům automatizovat různé úkoly a rozšířit možnosti tohoto nástroje pro práci s umělou inteligencí v příkazové řádce. Systém umožňuje spouštět vlastní skripty při specifických událostech během používání Claude Code.
