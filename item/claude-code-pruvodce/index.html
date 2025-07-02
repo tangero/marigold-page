@@ -1,0 +1,954 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Claude Code - Komplexní průvodce AI nástrojem pro programátory | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Claude Code - Komplexní průvodce AI nástrojem pro programátory" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="cs" />
+<meta name="description" content="Claude Code společnosti Anthropic představuje pokročilý terminálový nástroj umělé inteligence určený přímo pro vývojáře. Tento nástroj představuje posun od tradičních chatových rozhraní k plnohodnotné integraci AI do vývojového prostředí. Claude Code umožňuje programátorům pracovat s AI asistentem přímo z příkazové řádky a automatizovat komplexní vývojové úlohy. Pojďme se podívat na to, jak s ním začít pracovat." />
+<meta property="og:description" content="Claude Code společnosti Anthropic představuje pokročilý terminálový nástroj umělé inteligence určený přímo pro vývojáře. Tento nástroj představuje posun od tradičních chatových rozhraní k plnohodnotné integraci AI do vývojového prostředí. Claude Code umožňuje programátorům pracovat s AI asistentem přímo z příkazové řádky a automatizovat komplexní vývojové úlohy. Pojďme se podívat na to, jak s ním začít pracovat." />
+<link rel="canonical" href="https://www.marigold.cz/item/claude-code-pruvodce/" />
+<meta property="og:url" content="https://www.marigold.cz/item/claude-code-pruvodce/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-07-02T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Claude Code - Komplexní průvodce AI nástrojem pro programátory" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-07-02T00:00:00+00:00","datePublished":"2025-07-02T00:00:00+00:00","description":"Claude Code společnosti Anthropic představuje pokročilý terminálový nástroj umělé inteligence určený přímo pro vývojáře. Tento nástroj představuje posun od tradičních chatových rozhraní k plnohodnotné integraci AI do vývojového prostředí. Claude Code umožňuje programátorům pracovat s AI asistentem přímo z příkazové řádky a automatizovat komplexní vývojové úlohy. Pojďme se podívat na to, jak s ním začít pracovat.","headline":"Claude Code - Komplexní průvodce AI nástrojem pro programátory","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/item/claude-code-pruvodce/"},"url":"https://www.marigold.cz/item/claude-code-pruvodce/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Claude Code společnosti Anthropic představuje pokročilý terminálový nástroj umělé inteligence určený přímo pro vývojáře. Tento nástroj představuje posun od tradičních chatových rozhraní k plnohodnotné integraci AI do vývojového prostředí. Claude Code umožňuje programátorům pracovat s AI asistentem přímo z příkazové řádky a automatizovat komplexní vývojové úlohy. Pojďme se podívat na to, jak s ním začít pracovat.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Claude Code - Komplexní průvodce AI nástrojem pro programátory" />
+    <meta property="twitter:title" content="Claude Code - Komplexní průvodce AI nástrojem pro programátory" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/item/claude-code-pruvodce/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-avatar.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="/vibecoding">👨‍💻 Vibe Coding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+
+
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+
+  /* Odstranění rámečků kolem textu */
+  .post.detailed {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  .post.detailed .entry {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  /* Odstranění okrajů kolem sekce Články a novinky */
+  .posts {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post .entry {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  /* CSS pro tlačítko kopírovat */
+  .code-block-container {
+    position: relative;
+    margin: 20px 0;
+  }
+  .copy-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    z-index: 1;
+  }
+  .copy-button:hover {
+    background-color: #45a049;
+  }
+  .copy-button:active {
+    background-color: #3e8e41;
+  }
+  .copy-button.copied {
+    background-color: #666;
+  }
+  .code-block-container pre {
+    position: relative;
+    padding-top: 40px;
+  }
+  .toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 5px;
+    display: none;
+    z-index: 1000;
+  }
+</style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Claude Code - Komplexní průvodce AI nástrojem pro programátory</h1>
+
+  
+  <div class="posts">
+    <blockquote>
+      <p>💡 Firemní <a href="https://www.prolnuto.cz/">konzultace a workshopy o umělé inteligenci</a>. Jak se vaší firmy dotkne AI a jak se na to připravit?<br/>👉 Poradíme v <a href="https://www.prolnuto.cz/">Prolnuto.cz</a></p>
+    </blockquote>
+  </div>
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+2.
+červenec
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#AI">AI</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Claude Code">Claude Code</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Anthropic">Anthropic</a>
+        &nbsp;
+      
+        <a href="//rubrika/#programování">programování</a>
+        &nbsp;
+      
+        <a href="//rubrika/#vývojové nástroje">vývojové nástroje</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+  <div class="quick-summary">
+    <div class="quick-summary-header">
+      <svg class="summary-icon" viewBox="0 0 24 24" width="24" height="24">
+        <path fill="currentColor" d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" />
+      </svg>
+      <span>Rychlé shrnutí článku</span>
+    </div>
+    <ul class="summary-points">
+      
+        <li>Claude Code je terminálový nástroj umělé inteligence od Anthropic pro programátory</li>
+      
+        <li>Nabízí různé způsoby instalace včetně NPM, Homebrew a Docker kontejnerů</li>
+      
+        <li>Hooks umožňují automatizaci a kontrolu činností před a po spuštění nástrojů</li>
+      
+        <li>MCP protokol rozšiřuje možnosti o externí služby a databáze</li>
+      
+        <li>Bezpečnostní nastavení vyžaduje pečlivou konfiguraci oprávnění</li>
+      
+        <li>Komunita vytváří rozsáhlé kolekce příkazů a pracovních postupů</li>
+      
+    </ul>
+  </div>
+
+  
+
+<style>
+.quick-summary {
+    background: linear-gradient(145deg, #ffffff, #f5f5f5);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+                0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.quick-summary-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    color: #2d3748;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.summary-icon {
+    margin-right: 0.5rem;
+    color: #4a5568;
+}
+
+.summary-points {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.summary-points li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #4a5568;
+    line-height: 1.5;
+}
+
+.summary-points li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #667eea;
+    font-weight: bold;
+}
+
+@media (prefers-color-scheme: dark) {
+    .quick-summary {
+        background: linear-gradient(145deg, #2d3748, #1a202c);
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+    }
+    
+    .quick-summary-header {
+        color: #e2e8f0;
+    }
+    
+    .summary-icon,
+    .summary-points li {
+        color: #cbd5e0;
+    }
+    
+    .summary-points li::before {
+        color: #7f9cf5;
+    }
+}
+</style>
+
+
+
+
+  <div class="entry">
+    <p>Claude Code společnosti Anthropic představuje pokročilý terminálový nástroj umělé inteligence určený přímo pro vývojáře. Tento nástroj představuje posun od tradičních chatových rozhraní k plnohodnotné integraci AI do vývojového prostředí. Claude Code umožňuje programátorům pracovat s AI asistentem přímo z příkazové řádky a automatizovat komplexní vývojové úlohy. Pojďme se podívat na to, jak s ním začít pracovat.</p>
+
+<h2 id="instalace-a-základní-nastavení">Instalace a základní nastavení</h2>
+
+<p>Claude Code nabízí několik způsobů instalace podle platformy a preferencí vývojáře.</p>
+
+<h3 id="metody-instalace">Metody instalace</h3>
+
+<p><strong>NPM instalace (oficiální způsob)</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm <span class="nb">install</span> <span class="nt">-g</span> @anthropic-ai/claude-code
+</code></pre></div></div>
+
+<p>Vyžaduje Node.js verzi 18 nebo vyšší na macOS, Linux nebo WSL.</p>
+
+<p><strong>Homebrew na macOS a Linux</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>brew <span class="nb">install </span>anthropic/tap/claude-code
+</code></pre></div></div>
+
+<p><strong>Arch Linux pomocí AUR</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>yay <span class="nt">-S</span> claude-code
+</code></pre></div></div>
+
+<p><strong>Docker kontejner</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker pull ghcr.io/rchgrav/claudebox:latest
+docker run <span class="nt">-it</span> <span class="nt">-v</span> <span class="s2">"</span><span class="nv">$PWD</span><span class="s2">"</span>:<span class="s2">"</span><span class="nv">$PWD</span><span class="s2">"</span> <span class="nt">-w</span> <span class="s2">"</span><span class="nv">$PWD</span><span class="s2">"</span> ghcr.io/rchgrav/claudebox:latest
+</code></pre></div></div>
+
+<p><strong>Windows přes WSL</strong>
+Anthropic doporučuje použití WSL2 s Ubuntu distribucí:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt update <span class="o">&amp;&amp;</span> <span class="nb">sudo </span>apt <span class="nb">install</span> <span class="nt">-y</span> nodejs npm
+npm <span class="nb">install</span> <span class="nt">-g</span> @anthropic-ai/claude-code
+</code></pre></div></div>
+
+<h3 id="systémové-požadavky">Systémové požadavky</h3>
+
+<p>Claude Code vyžaduje minimálně Node.js 16+, API klíč od Anthropic, 4GB RAM (doporučeno 8GB+ pro velké projekty) a internetové připojení pro API volání.</p>
+
+<h2 id="konfigurace-api-klíče">Konfigurace API klíče</h2>
+
+<p>Po instalaci je nutné nastavit API klíč z <a href="https://console.anthropic.com">Anthropic konzole</a> nebo se přihlásit přes svůj Anthropic placený účet. U účtu Pro a vyšší máte určité množství práce s Code zdarma (či spíše v ceně).</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">export </span><span class="nv">ANTHROPIC_API_KEY</span><span class="o">=</span><span class="s2">"sk-your-key-here"</span>
+</code></pre></div></div>
+
+<p>Pro trvalé nastavení v Bash:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s1">'export ANTHROPIC_API_KEY="sk-your-key-here"'</span> <span class="o">&gt;&gt;</span> ~/.bashrc
+<span class="nb">source</span> ~/.bashrc
+</code></pre></div></div>
+
+<h2 id="základní-použití">Základní použití</h2>
+
+<p>Claude Code nabízí několik režimů práce:</p>
+
+<p><strong>Interaktivní režim</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude
+</code></pre></div></div>
+
+<p>Spustí interaktivní REPL pro konverzaci s AI.</p>
+
+<p><strong>Jednorázový dotaz</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude <span class="nt">-p</span> <span class="s2">"analyzuj tento kód na bezpečnostní chyby"</span>
+</code></pre></div></div>
+
+<p><strong>Pokračování předchozí session</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude <span class="nt">-c</span>
+</code></pre></div></div>
+
+<h2 id="správa-oprávnění">Správa oprávnění</h2>
+
+<p>Claude Code implementuje víceúrovňový systém oprávnění pro bezpečnou prácu:</p>
+
+<h3 id="úrovně-oprávnění">Úrovně oprávnění</h3>
+
+<p><strong>Interaktivní režim</strong> - Dotazuje se na každou operaci, vhodný pro vývojovou práci
+<strong>Whitelist režim</strong> - Předem schválené nástroje, vhodný pro automatizační skripty<br />
+<strong>Nebezpečný režim</strong> - Přeskakuje všechna oprávnění, pouze pro izolované prostředí</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Specifická oprávnění</span>
+claude <span class="nt">--allowedTools</span> <span class="s2">"Edit,View"</span>
+
+<span class="c"># Kategorické oprávnění</span>
+claude <span class="nt">--allowedTools</span> <span class="s2">"Edit,View,Bash"</span>
+
+<span class="c"># Omezená bash oprávnění</span>
+claude <span class="nt">--allowedTools</span> <span class="s2">"Bash(git:*)"</span>
+</code></pre></div></div>
+
+<p><strong>Kritické upozornění:</strong> Nebezpečný režim <code class="language-plaintext highlighter-rouge">--dangerously-skip-permissions</code> používejte pouze v izolovaných Docker kontejnerech, nikdy na produkčních systémech.</p>
+
+<h2 id="mcp---model-context-protocol">MCP - Model Context Protocol</h2>
+
+<p>MCP rozšiřuje možnosti Claude Code o připojení k externím službám, databázím a API. Protokol umožňuje integraci s:</p>
+
+<ul>
+  <li><strong>Databáze</strong> - PostgreSQL, MySQL, SQLite</li>
+  <li><strong>Verzovací systémy</strong> - Git, GitHub</li>
+  <li><strong>Souborové systémy</strong> - Lokální i vzdálené</li>
+  <li><strong>Vyhledávání</strong> - Brave Search, další vyhledávače</li>
+</ul>
+
+<h3 id="konfigurace-mcp-serverů">Konfigurace MCP serverů</h3>
+
+<p>MCP servery se konfigurují v souboru <code class="language-plaintext highlighter-rouge">~/.claude.json</code>:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"mcpServers"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"filesystem"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"stdio"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"command"</span><span class="p">:</span><span class="w"> </span><span class="s2">"npx"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"args"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"-y"</span><span class="p">,</span><span class="w"> </span><span class="s2">"@modelcontextprotocol/server-filesystem"</span><span class="p">,</span><span class="w"> </span><span class="s2">"/path/to/directory"</span><span class="p">],</span><span class="w">
+      </span><span class="nl">"env"</span><span class="p">:</span><span class="w"> </span><span class="p">{}</span><span class="w">
+    </span><span class="p">},</span><span class="w">
+    </span><span class="nl">"github"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+      </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"stdio"</span><span class="p">,</span><span class="w"> 
+      </span><span class="nl">"command"</span><span class="p">:</span><span class="w"> </span><span class="s2">"npx"</span><span class="p">,</span><span class="w">
+      </span><span class="nl">"args"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"-y"</span><span class="p">,</span><span class="w"> </span><span class="s2">"@modelcontextprotocol/server-github"</span><span class="p">],</span><span class="w">
+      </span><span class="nl">"env"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+        </span><span class="nl">"GITHUB_TOKEN"</span><span class="p">:</span><span class="w"> </span><span class="s2">"your-token-here"</span><span class="w">
+      </span><span class="p">}</span><span class="w">
+    </span><span class="p">}</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="správa-mcp">Správa MCP</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude mcp                    <span class="c"># Interaktivní konfigurace</span>
+claude mcp list              <span class="c"># Seznam nakonfigurovaných serverů</span>
+claude mcp add &lt;name&gt; &lt;cmd&gt;  <span class="c"># Přidání nového serveru</span>
+</code></pre></div></div>
+
+<h2 id="hooks---automatizace-a-kontrola">Hooks - Automatizace a kontrola</h2>
+
+<p>Hooks představují pokročilou funkcionalnost pro automatizaci a kontrolu operací Claude Code. Umožňují spouštění vlastních skriptů před nebo po použití nástrojů.</p>
+
+<h3 id="typy-hooks">Typy hooks</h3>
+
+<p><strong>PreToolUse</strong> - Spouští se před použitím nástroje, umožňuje validaci a blokování
+<strong>PostToolUse</strong> - Spouští se po dokončení nástroje, vhodný pro formátování kódu
+<strong>Notification</strong> - Reaguje na oznámení systému
+<strong>Stop</strong> - Spouští se při ukončování Claude Code</p>
+
+<h3 id="konfigurace-hooks">Konfigurace hooks</h3>
+
+<p>Hooks se konfigurují pomocí příkazu <code class="language-plaintext highlighter-rouge">/hooks</code> nebo přímo v konfiguračních souborech:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"hooks"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w">
+    </span><span class="nl">"PreToolUse"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+      </span><span class="p">{</span><span class="w">
+        </span><span class="nl">"matcher"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Bash"</span><span class="p">,</span><span class="w">
+        </span><span class="nl">"hooks"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+          </span><span class="p">{</span><span class="w">
+            </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"command"</span><span class="p">,</span><span class="w">
+            </span><span class="nl">"command"</span><span class="p">:</span><span class="w"> </span><span class="s2">"python3 ~/scripts/validate-command.py"</span><span class="w">
+          </span><span class="p">}</span><span class="w">
+        </span><span class="p">]</span><span class="w">
+      </span><span class="p">}</span><span class="w">
+    </span><span class="p">],</span><span class="w">
+    </span><span class="nl">"PostToolUse"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+      </span><span class="p">{</span><span class="w">
+        </span><span class="nl">"matcher"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Write|Edit"</span><span class="p">,</span><span class="w">
+        </span><span class="nl">"hooks"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="w">
+          </span><span class="p">{</span><span class="w">
+            </span><span class="nl">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"command"</span><span class="p">,</span><span class="w"> 
+            </span><span class="nl">"command"</span><span class="p">:</span><span class="w"> </span><span class="s2">"/usr/local/bin/prettier --write"</span><span class="w">
+          </span><span class="p">}</span><span class="w">
+        </span><span class="p">]</span><span class="w">
+      </span><span class="p">}</span><span class="w">
+    </span><span class="p">]</span><span class="w">
+  </span><span class="p">}</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h3 id="pokročilé-hooks-s-json-výstupem">Pokročilé hooks s JSON výstupem</h3>
+
+<p>Hooks mohou vracet JSON pro detailní kontrolu:</p>
+
+<div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
+  </span><span class="nl">"continue"</span><span class="p">:</span><span class="w"> </span><span class="kc">true</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"stopReason"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Důvod zastavení"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"suppressOutput"</span><span class="p">:</span><span class="w"> </span><span class="kc">false</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"decision"</span><span class="p">:</span><span class="w"> </span><span class="s2">"approve"</span><span class="p">,</span><span class="w">
+  </span><span class="nl">"reason"</span><span class="p">:</span><span class="w"> </span><span class="s2">"Vysvětlení rozhodnutí"</span><span class="w">
+</span><span class="p">}</span><span class="w">
+</span></code></pre></div></div>
+
+<h2 id="správa-projektů-a-kontextu">Správa projektů a kontextu</h2>
+
+<h3 id="claudemd-soubory">CLAUDE.md soubory</h3>
+
+<p>Soubory <code class="language-plaintext highlighter-rouge">CLAUDE.md</code> v kořenovém adresáři projektu poskytují Claude Code důležité informace o projektu:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gh"># Projekt: Webová aplikace</span>
+
+<span class="gu">## Architektura</span>
+<span class="p">-</span> Frontend: React 18 s TypeScript
+<span class="p">-</span> Backend: Node.js s Express
+<span class="p">-</span> Databáze: PostgreSQL 14
+
+<span class="gu">## Vývojové pokyny</span>
+<span class="p">-</span> Používej TypeScript pro veškerý nový kód
+<span class="p">-</span> Dodržuj ESLint konfiguraci
+<span class="p">-</span> Piš testy pro nové funkce
+</code></pre></div></div>
+
+<h3 id="slash-příkazy">Slash příkazy</h3>
+
+<p>Claude Code podporuje systém slash příkazů pro rychlé akce:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/help       <span class="c"># Zobrazení nápovědy</span>
+/clear      <span class="c"># Vymazání konverzace  </span>
+/exit       <span class="c"># Bezpečné ukončení</span>
+/doctor     <span class="c"># Diagnostika systému</span>
+/config     <span class="c"># Správa konfigurace</span>
+/memory     <span class="c"># Editace paměti projektu</span>
+</code></pre></div></div>
+
+<h2 id="komunita-a-rozšíření">Komunita a rozšíření</h2>
+
+<p>Kolem Claude Code se rychle formuje aktivní komunita vývojářů. Existují rozsáhlé kolekce příkazů a pracovních postupů:</p>
+
+<h3 id="awesome-claude-code">Awesome Claude Code</h3>
+
+<p>Projekt <a href="https://github.com/awesome-claude-code">awesome-claude-code</a> obsahuje kurátorovaný seznam zdrojů:</p>
+
+<ul>
+  <li><strong>Pracovní postupy</strong> - Kompletní řešení pro specifické úlohy</li>
+  <li><strong>Slash příkazy</strong> - Přes 80 specializovaných příkazů</li>
+  <li><strong>CLAUDE.md soubory</strong> - Šablony pro různé typy projektů</li>
+  <li><strong>Nástroje třetích stran</strong> - Rozšíření a integrace</li>
+</ul>
+
+<h3 id="příklady-specializovaných-příkazů">Příklady specializovaných příkazů</h3>
+
+<p><strong>Verzování a Git</strong></p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">/commit</code> - Vytváří Git commity s konvenčním formátem</li>
+  <li><code class="language-plaintext highlighter-rouge">/create-pr</code> - Automatizuje vytváření pull requestů</li>
+  <li><code class="language-plaintext highlighter-rouge">/bug-fix</code> - Systematický přístup k opravě chyb</li>
+</ul>
+
+<p><strong>Analýza kódu a testování</strong></p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">/tdd-implement</code> - Implementace metodologie Test-Driven Development</li>
+  <li><code class="language-plaintext highlighter-rouge">/code_analysis</code> - Pokročilá analýza kódu včetně optimalizací</li>
+  <li><code class="language-plaintext highlighter-rouge">/check</code> - Komplexní kontrola kvality a bezpečnosti</li>
+</ul>
+
+<p><strong>Dokumentace</strong></p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">/create-docs</code> - Generování dokumentace z kódu</li>
+  <li><code class="language-plaintext highlighter-rouge">/update-docs</code> - Aktualizace existující dokumentace</li>
+  <li><code class="language-plaintext highlighter-rouge">/add-to-changelog</code> - Správa changelogů</li>
+</ul>
+
+<h2 id="bezpečnostní-doporučení">Bezpečnostní doporučení</h2>
+
+<h3 id="osvědčené-postupy">Osvědčené postupy</h3>
+
+<p><strong>Validace vstupů</strong> - Vždy validujte a sanitizujte vstupy do hooks
+<strong>Citování proměnných</strong> - V shell skriptech používejte <code class="language-plaintext highlighter-rouge">"$VAR"</code> místo <code class="language-plaintext highlighter-rouge">$VAR</code>
+<strong>Absolutní cesty</strong> - Vyhněte se relativním cestám v kritických operacích
+<strong>Ochrana citlivých souborů</strong> - Vylučte <code class="language-plaintext highlighter-rouge">.env</code>, <code class="language-plaintext highlighter-rouge">.git/</code> a další citlivé adresáře</p>
+
+<h3 id="konfigurace-oprávnění">Konfigurace oprávnění</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Doporučené minimální oprávnění</span>
+claude <span class="nt">--allowedTools</span> <span class="s2">"View"</span>
+
+<span class="c"># Postupné rozšiřování</span>
+claude <span class="nt">--allowedTools</span> <span class="s2">"Edit,View"</span>
+
+<span class="c"># Omezený bash přístup</span>
+claude <span class="nt">--allowedTools</span> <span class="s2">"Edit,View,Bash(git:*)"</span>
+</code></pre></div></div>
+
+<h2 id="řešení-problémů">Řešení problémů</h2>
+
+<h3 id="časté-problémy">Časté problémy</h3>
+
+<p><strong>Chyby autentifikace</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="nv">$ANTHROPIC_API_KEY</span>  <span class="c"># Kontrola API klíče</span>
+claude <span class="nt">-p</span> <span class="s2">"test"</span> <span class="nt">--verbose</span>  <span class="c"># Test připojení</span>
+</code></pre></div></div>
+
+<p><strong>Problémy s instalací</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>npm uninstall <span class="nt">-g</span> @anthropic-ai/claude-code
+npm <span class="nb">install</span> <span class="nt">-g</span> @anthropic-ai/claude-code
+node <span class="nt">--version</span>  <span class="c"># Ověření verze Node.js 16+</span>
+</code></pre></div></div>
+
+<p><strong>MCP servery nefungují</strong></p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude mcp status          <span class="c"># Stav serverů</span>
+claude mcp restart <span class="nt">--all</span>   <span class="c"># Restart všech serverů</span>
+claude <span class="nt">--mcp-debug</span>        <span class="c"># Debug režim</span>
+</code></pre></div></div>
+
+<h3 id="diagnostické-nástroje">Diagnostické nástroje</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>claude <span class="nt">--version</span>    <span class="c"># Verze Claude Code</span>
+claude <span class="nt">--help</span>       <span class="c"># Nápověda</span>
+claude config list  <span class="c"># Seznam nastavení  </span>
+claude /doctor      <span class="c"># Komplexní diagnostika</span>
+</code></pre></div></div>
+
+<h2 id="automatizace-a-cicd-integrace">Automatizace a CI/CD integrace</h2>
+
+<p>Claude Code lze integrovat do CI/CD pipeline pro automatizované úlohy:</p>
+
+<h3 id="github-actions-příklad">GitHub Actions příklad</h3>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">name</span><span class="pi">:</span> <span class="s">Claude Code Review</span>
+<span class="na">on</span><span class="pi">:</span>
+  <span class="na">pull_request</span><span class="pi">:</span>
+    <span class="na">branches</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">main</span><span class="pi">]</span>
+
+<span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">claude-review</span><span class="pi">:</span>
+    <span class="na">runs-on</span><span class="pi">:</span> <span class="s">ubuntu-latest</span>
+    <span class="na">steps</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">uses</span><span class="pi">:</span> <span class="s">actions/checkout@v4</span>
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Setup Node.js</span>
+      <span class="na">uses</span><span class="pi">:</span> <span class="s">actions/setup-node@v4</span>
+      <span class="na">with</span><span class="pi">:</span>
+        <span class="na">node-version</span><span class="pi">:</span> <span class="s1">'</span><span class="s">18'</span>
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Install Claude Code</span>
+      <span class="na">run</span><span class="pi">:</span> <span class="s">npm install -g @anthropic-ai/claude-code</span>
+    <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s">Run Review</span>
+      <span class="na">env</span><span class="pi">:</span>
+        <span class="na">ANTHROPIC_API_KEY</span><span class="pi">:</span> <span class="s">$</span>
+      <span class="na">run</span><span class="pi">:</span> <span class="pi">|</span>
+        <span class="s">claude -p "Zkontroluj změny na bezpečnostní problémy" \</span>
+        <span class="s">--allowedTools "View" \</span>
+        <span class="s">--output-format json &gt; review-results.json</span>
+</code></pre></div></div>
+
+<h3 id="pre-commit-hooks">Pre-commit hooks</h3>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/bin/bash</span>
+<span class="c"># .git/hooks/pre-commit</span>
+
+<span class="nv">staged_files</span><span class="o">=</span><span class="si">$(</span>git diff <span class="nt">--cached</span> <span class="nt">--name-only</span><span class="si">)</span>
+<span class="k">if</span> <span class="o">[</span> <span class="nt">-n</span> <span class="s2">"</span><span class="nv">$staged_files</span><span class="s2">"</span> <span class="o">]</span><span class="p">;</span> <span class="k">then
+  </span><span class="nb">echo</span> <span class="s2">"</span><span class="nv">$staged_files</span><span class="s2">"</span> | xargs <span class="nb">cat</span> | <span class="se">\</span>
+  claude <span class="nt">-p</span> <span class="s2">"Zkontroluj tyto změny před commitem"</span> <span class="se">\</span>
+  <span class="nt">--allowedTools</span> <span class="s2">"View"</span>
+<span class="k">fi</span>
+</code></pre></div></div>
+
+<h2 id="budoucnost-a-vývoj">Budoucnost a vývoj</h2>
+
+<p>Claude Code představuje významný posun ve způsobu, jak vývojáři pracují s umělou inteligencí. Místo izolovaných chatových rozhraní nabízí hlubokou integraci do vývojového workflow. Očekává se rychlý vývoj ekosystému s novými MCP servery, hooks a komunitními nástroji.</p>
+
+<p>Klíčové trendy zahrnují rozšíření MCP protokolu o další služby, vývoj vizuálních nástrojů pro konfiguraci, integraci s populárními IDE a vznik specializovaných distribucí pro konkrétní vývojové scénáře.</p>
+
+<p>Claude Code tak nereprezentuje pouze nový nástroj, ale základ pro budoucnost AI-asistované softwarové výroby, kde umělá inteligence není externí pomocník, ale integrovaná součást vývojového prostředí.</p>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+  <div class="posts">
+    <h3>Jak se vám líbí tento článek?</h3>
+    <!-- Místo pro widget -->
+    <div id="feedback-widget"></div>
+
+    <!-- Widget se vloží do #feedback-widget -->
+    <script 
+        src="https://top.marigold.cz/mg-feedback-clean.js" 
+        data-slug="item-claude-code-pruvodce" 
+        data-title="Claude Code - Komplexní průvodce AI nástrojem pro programátory" 
+        data-url="https://www.marigold.cz/item/claude-code-pruvodce/"
+        data-target="#feedback-widget"
+    ></script>
+</div>
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
+                <p class="excerpt">
+                  
+                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <p class="excerpt">
+                  
+                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí.
+
+Poznatek první: umělá inteli...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Claude Code - Komplexní průvodce AI nástrojem pro programátory&url=https://www.marigold.cz/item/claude-code-pruvodce/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/item/claude-code-pruvodce/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_posts/2025/2025-07-02-claude-code-pruvodce.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/item/co-se-stalo-s-jirikovskeho-bitcoiny/">&laquo; Víme, co se stalo s 9 miliardami korun Tomáše Jiříkovského z tržiště Nucleus</a> |
+      
+      
+      
+    </div>
+    </p>
+  </div>
+</article>
+
+<!-- Toast notifikace -->
+<div class="toast" id="toast">Zkopírováno do schránky!</div>
+
+<!-- JavaScript pro funkcionalitu kopírování -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Najdi všechny code bloky (kromě Mermaid)
+    const codeBlocks = document.querySelectorAll('pre:not(:has(code.language-mermaid))');
+    
+    codeBlocks.forEach((codeBlock, index) => {
+        // Vytvoř kontejner pro code block
+        const container = document.createElement('div');
+        container.className = 'code-block-container';
+        
+        // Vytvoř tlačítko kopírovat
+        const copyButton = document.createElement('button');
+        copyButton.className = 'copy-button';
+        copyButton.textContent = 'Kopírovat';
+        copyButton.setAttribute('data-index', index);
+        
+        // Vlož code block a tlačítko do kontejneru
+        codeBlock.parentNode.insertBefore(container, codeBlock);
+        container.appendChild(copyButton);
+        container.appendChild(codeBlock);
+        
+        // Přidej event listener na tlačítko
+        copyButton.addEventListener('click', async () => {
+            try {
+                // Získej text z code bloku
+                const code = codeBlock.querySelector('code') || codeBlock;
+                const text = code.textContent;
+                
+                // Kopíruj do schránky
+                await navigator.clipboard.writeText(text);
+                
+                // Změň stav tlačítka
+                copyButton.textContent = 'Zkopírováno!';
+                copyButton.classList.add('copied');
+                
+                // Zobraz toast notifikaci
+                showToast();
+                
+                // Po 2 sekundách vrať původní stav
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+                
+            } catch (err) {
+                console.error('Chyba při kopírování:', err);
+                copyButton.textContent = 'Chyba';
+                copyButton.classList.add('copied');
+                
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+            }
+        });
+    });
+});
+
+function showToast() {
+    const toast = document.getElementById('toast');
+    toast.style.display = 'block';
+    setTimeout(() => {
+        toast.style.display = 'none';
+    }, 2000);
+}
+</script>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p>
+</noscript> | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<!-- Twitter conversion tracking base code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    twq('config','pycs2');
+</script>
+    <!-- End Twitter conversion tracking base code -->
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>

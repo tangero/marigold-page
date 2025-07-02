@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Claude Code - Komplexní průvodce AI nástrojem pro programátory",
+      "url"      : "//item/claude-code-pruvodce/",
+      "category" : "AI, Claude Code, Anthropic, programování, vývojové nástroje",
+      "tags"     : "",
+      "date"     : "2.7.2025",
+      "content"  : "Claude Code společnosti Anthropic představuje pokročilý terminálový nástroj umělé inteligence určený přímo pro vývojáře. Tento nástroj představuje posun od tradičních chatových rozhraní k plnohodnotné integraci AI do vývojového prostředí. Claude Code umožňuje programátorům pracovat s AI asistentem přímo z příkazové řádky a automatizovat komplexní vývojové úlohy. Pojďme se podívat na to, jak s ním začít pracovat.Instalace a základní nastaveníClaude Code nabízí několik způsobů instalace podle platformy a preferencí vývojáře.Metody instalaceNPM instalace (oficiální způsob)npm install -g @anthropic-ai/claude-codeVyžaduje Node.js verzi 18 nebo vyšší na macOS, Linux nebo WSL.Homebrew na macOS a Linuxbrew install anthropic/tap/claude-codeArch Linux pomocí AURyay -S claude-codeDocker kontejnerdocker pull ghcr.io/rchgrav/claudebox:latestdocker..."
+    },
+  
+    {
       "title"    : "Víme, co se stalo s 9 miliardami korun Tomáše Jiříkovského z tržiště Nucleus",
       "url"      : "//item/co-se-stalo-s-jirikovskeho-bitcoiny/",
       "category" : "bitcoin, krypto, kryptoměny, Jiříkovský, Pavel Blažek",
@@ -26178,7 +26187,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Asistenti, Projekty, GEMy, GPTs a základy automatizace práce pomocí AI (17.06.2025) Týden AI a robotiky - ChatGPT s novými konektory, vylepšený Gemini a pokroky humanoidů (12.06.2025) OpenAI snížila cenu modelu o3 o 80 % a představila o3-Pro (11.06.2025) Mistral AI představil..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Claude Code - Komplexní průvodce AI nástrojem pro programátory ( 2.07.2025) Asistenti, Projekty, GEMy, GPTs a základy automatizace práce pomocí AI (17.06.2025) Týden AI a robotiky - ChatGPT s novými konektory, vylepšený Gemini a pokroky humanoidů (12.06.2025) OpenAI snížila cenu modelu..."
     }
     
   
@@ -26198,7 +26207,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 212 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 69 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 213 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 69 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
