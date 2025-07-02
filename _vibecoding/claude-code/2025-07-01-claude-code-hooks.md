@@ -1,4 +1,5 @@
----
+-----
+
 author: Patrick Zandl
 categories:
 
@@ -17,7 +18,7 @@ categories:
 - Funkce zahrnuje bezpečnostní opatření včetně kontroly vstupu a omezení přístupu k citlivým souborům
 - Podporuje také práci s MCP (Model Context Protocol) nástroji
 title: Claude Code Hooks
------
+---
 
 Anthropic rozšířil svůj nástroj Claude Code o novou funkci nazvanou Hooks, která umožňuje vývojářům automatizovat různé úkoly a rozšířit možnosti tohoto nástroje pro práci s umělou inteligencí v příkazové řádce. Systém umožňuje spouštět vlastní skripty při specifických událostech během používání Claude Code.
 
@@ -80,6 +81,28 @@ Praktickým příkladem je **kontrola pojmenování souborů**. Hook může zaji
 ```
 
 Validační skript kontroluje název souboru a pokud neodpovídá snake_case konvenci, vrátí exit kód 2 s návrhem správného názvu. Když Claude Code navrhne vytvoření souboru “gemini-service.py”, hook operaci zablokuje a zobrazí chybu: “Inconsistent file naming detected! Directory convention is snake_case. Suggested filename: gemini_service.py”. Tento přístup pomáhá udržet pořádek v projektech, kde AI často vytváří soubory s různými konvencemi pojmenování.
+
+Na macOS lze využít **zvukové notifikace** pro upozornění na dokončení úloh. Hook typu Notification může spustit příkaz `afplay` pro přehrání zvukového souboru:
+
+```json
+{
+  "hooks": {
+    "Notification": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command", 
+            "command": "afplay /System/Library/Sounds/Blow.aiff"
+          }
+        ]
+      }
+    ]
+  }
+}
+```
+
+Tento hook přehraje systémový zvuk při každé notifikaci z Claude Code, což je užitečné při dlouhotrvajících operacích, kdy potřebujete upozornění na dokončení úkolu.
 
 ## Výstup a kontrola chování
 
