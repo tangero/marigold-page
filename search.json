@@ -27620,6 +27620,13 @@
       }
       
       ,{
+        "title"    : "Claude Code Hooks",
+        "url"      : "//vibecoding/claude-code/2025-07-01-claude-code-hooks/",
+        "category" : "vibecoding",
+        "content"  : "Anthropic rozšířil svůj nástroj Claude Code o novou funkci nazvanou Hooks, která umožňuje vývojářům automatizovat různé úkoly a rozšířit možnosti tohoto nástroje pro práci s umělou inteligencí v příkazové řádce. Systém umožňuje spouštět vlastní skripty při specifických událostech během používání Claude Code.Princip fungování HooksHooks fungují jako automatické spouštěče, které reagují na čtyři základní typy událostí v Claude Code. Systém PreToolUse se aktivuje před použitím nástroje a umožňuje například validaci příkazů nebo kontrolu bezpečnosti. PostToolUse se spouští po dokončení operace a hodí se pro úkoly jako je formátování kódu nebo zápis do logů. Notification slouží pro zasílání upozornění, zatímco Stop umožňuje..."
+      }
+      
+      ,{
         "title"    : "Replit Agent získal dynamickou inteligenci",
         "url"      : "//vibecoding/replit/2025-07-02-replit-dynamicka-inteligence/",
         "category" : "vibecoding",

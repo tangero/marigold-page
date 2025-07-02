@@ -6,7 +6,7 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Wed, 02 Jul 2025 19:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 19:04:03 +0000</lastBuildDate>
     
     
     
@@ -26,6 +26,25 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/replit/2025-07-02-replit-dynamicka-inteligence/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟣 Claude Code - Claude Code Hooks</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-07-01-claude-code-hooks/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-07-01-claude-code-hooks/</guid>
+        <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Anthropic rozšířil svůj nástroj Claude Code o novou funkci nazvanou Hooks, která umožňuje vývojářům automatizovat různé úkoly a rozšířit možnosti tohoto nástroje pro práci s umělou inteligencí v příkazové řádce. Systém umožňuje spouštět vlastní skripty při specifických událostech během používání Claude Code.</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-07-01-claude-code-hooks/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
