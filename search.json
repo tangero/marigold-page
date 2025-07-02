@@ -27361,13 +27361,6 @@
     
       
       ,{
-        "title"    : "Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty",
-        "url"      : "//vibecoding/tempolabs/2025-01-10-tempolabs-instant-deploy/",
-        "category" : "vibecoding",
-        "content"  : "Tempolabs vydal revolucionární funkci Instant Deploy, která umožňuje nasadit aplikace do produkce během několika minut po jejich vytvoření.Co je Instant Deploy?Instant Deploy je plně automatizovaný systém, který: Automaticky konfiguruje infrastrukturu - žádné ruční nastavování serverů Optimalizuje výkon - automaticky vybírá nejlepší konfiguraci pro vaši aplikaci Zajišťuje bezpečnost - implementuje security best practices od začátku Monitoruje aplikaci - poskytuje real-time metriky a alertyJak to funguje:1. Vytvoření aplikace&quot;Vytvoř mi e-shop s košíkem a platbami&quot;2. Automatické nasazení Tempolabs automaticky vygeneruje kód Nastaví databázi a backend infrastrukturu Konfiguruje CDN a load balancing Nasadí aplikaci na globální síť serverů3. Live aplikace Vaše aplikace je okamžitě..."
-      }
-      
-      ,{
         "title"    : "Windsurf přidává pokročilého AI asistenta přímo do editoru",
         "url"      : "//vibecoding/windsurf/2025-01-15-windsurf-ai-assistant/",
         "category" : "vibecoding",
@@ -27515,34 +27508,6 @@
       }
       
       ,{
-        "title"    : "Tempo Labs Volume 2: MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav",
-        "url"      : "//vibecoding/tempolabs/2025-06-10-mcp-app-store-styling-panel/",
-        "category" : "vibecoding",
-        "content"  : "Tempo Labs, startup z akcelerátoru Y Combinator S23, představil 9. června 2025 druhý souhrnný balík novinek s názvem Volume 2. Na svém účtu X stručně vyjmenoval hlavní přírůstky – MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav. Níže si rozeberme, co jednotlivé novinky znamenají pro vývojáře používající Tempo jako AI-asistované IDE.První položkou je MCP App Store, marketplace integrovaný do postranního panelu editoru. Uživatel vybere službu, vloží její API klíč a během zhruba jedné minuty se v canvasu objeví plně konfigurovaná funkce – například pro Stripe, OpenAI nebo Firecrawl – přičemž všechny meta­údaje ukládá protokol Model..."
-      }
-      
-      ,{
-        "title"    : "Windsurf zavádí Planning Mode pro dlouhodobé plánování projektů, model O3 zlevňuje",
-        "url"      : "//vibecoding/windsurf/2025-06-10-windsurf-planing-mode/",
-        "category" : "vibecoding",
-        "content"  : "Společnost Windsurf (dříve Exafunction) představila Planning Mode jako součást své desáté vlny updatů. Nová funkce umožňuje spolupráci s umělou inteligencí na dlouhodobém plánování programátorských projektů prostřednictvím markdown souborů. Současně značně snížila náklady na využívání modelu O3 z OpenAI.Windsurf Planning Mode - nástroj pro strukturované plánování kóduWindsurf, vývojové prostředí zaměřené na programování s umělou inteligencí, vydalo Planning Mode jako klíčovou součást Wave 10. Tato funkce představuje první nativní implementaci dlouhodobého plánování v IDE prostředí.Planning Mode funguje prostřednictvím lokálního markdown souboru, který obsahuje cíle a úkoly projektu. AI asistent Cascade automaticky generuje a upravuje tento plán během práce na projektu. Uživatelé mohou..."
-      }
-      
-      ,{
-        "title"    : "Tempolabs představuje modul pro Figma s převodem designu na kód pomocí AI",
-        "url"      : "//vibecoding/tempolabs/figma-modul/",
-        "category" : "vibecoding",
-        "content"  : "Nová verze Tempo Labs nazvaná Volume 2 zavádí Figma zásuvný modul, který konvertuje vaše designy na kód přímo v Tempo Welcome to Tempo Labs - Tempo. Modul je dostupný ve Figma Community a umožňuje plynulý převod návrhových komponent na funkční React kód. Z technického hlediska jde o významný krok směrem k uzavření mezery mezi návrhem a vývojovým procesem.Integrace funguje tak, že návrháři mohou exportovat své Figma komponenty a ty se automaticky transformují na React komponenty s odpovídajícím CSS/Tailwind kódem. Tempo generuje modulární kód připravený pro produkci, který zůstává v synchronizaci s původními Figma návrhy."
-      }
-      
-      ,{
-        "title"    : "Windsurf Browser: Nový AI-integrovaný prohlížeč pro vývojáře",
-        "url"      : "//vibecoding/windsurf/2025-06-11-windsurf-browser/",
-        "category" : "vibecoding",
-        "content"  : "Společnost Windsurf představila Windsurf Browser, AI-integrovaný webový prohlížeč, který má zlepšit spolupráci mezi vývojáři a umělou inteligencí. Prohlížeč řeší problém neúplného kontextu, kdy AI asistent Cascade neměl přehled o tom, co vývojář dělá ve webovém prohlížeči při práci s dokumentací, debugging nebo testování aplikací.Technické specifikace a funkceWindsurf Browser je postavený na Chromiu a funguje jako standardní webový prohlížeč s rozšířenými možnostmi pro AI integraci. Prohlížeč se spouští přímo z Windsurf editoru tlačítkem v pravém horním rohu rozhraní. Vývojáři v něm mohou prohlížet webové stránky, dokumentaci, GitHub issues a debugovat aplikace stejně jako v běžném prohlížeči.Klíčová funkcionalita spočívá v tom, že..."
-      }
-      
-      ,{
         "title"    : "Novinka v Claude Code: Režim implementačního plánu",
         "url"      : "//vibecoding/claude-code/2025-06-12-rezim-planu/",
         "category" : "vibecoding",
@@ -27561,13 +27526,6 @@
         "url"      : "//vibecoding/cursor/2025-06-13-cursor-todo-list/",
         "category" : "vibecoding",
         "content"  : "Nejnovější chystaná verze Cursor v1.1.0 nyní obsahuje „To Do List“, čili seznam úkolů, které má postupně zpracovávat. To umožňuje agentovi používat seznamy úkolů ke sledování pokroku v úkolechDalší integrace se týká propojení, bude možné Cursor lépe napojit na Github a Slack, což doposud zajišťovaly pluginy. Nově agent bude moct přímo přistupovat ke Slacku i Githubu a provádět nad nimi akce. Novinkou mají být také MCP Tools. Ty umožní přístup k dalším službám podporujícím MCP přímo agentovi. Potenciálně rizikové, takže až verze vyjde, zkoušejte opatrně."
-      }
-      
-      ,{
-        "title"    : "Windsurf Wave 10 3",
-        "url"      : "//vibecoding/windsurf/2025-06-13-windsurf-wave-10-3/",
-        "category" : "vibecoding",
-        "content"  : "Poslední den představování novinek ve Windsurf Wave 10 přinesl především podinikové funkce, rozšíření metriky PCW (Percentage of Code Written) a několik vylepšení uživatelského rozhraní. A pro nás tolik zajímavý evropský datový cluster umožňující data skladovat v EU.Evropský cluster garantuje lokalizaci datWindsurf spustil nový evropský cluster umístěný ve Frankfurtu, který je určen speciálně pro evropské firemní zákazníky. Cluster garantuje, že veškeré zpracování a uchovávání dat probíhá výhradně v rámci hranic Evropské unie, včetně využívání modelů třetích stran s bází v Německu.Toto řešení reaguje na rostoucí požadavky na compliance a bezpečnost dat v evropském prostředí. Windsurf již podporuje více než 100 velkých..."
       }
       
       ,{
@@ -27617,6 +27575,55 @@
         "url"      : "//vibecoding/ostatni/2025-06-25-gemini-cli/",
         "category" : "vibecoding",
         "content"  : "Gemini CLI je tady! Open-source CLI, které přináší modely Google Gemini 2.5 přímo do vašeho terminálu! S řadou velmi pokročilých funkcí se hned staví na špičku CLI vibecoding rozhraní! Postaveno na Gemini 2.5 Pro 1 milion tokenů v kontextovém okně Bezplatná verze s 60 požadavky za minutu a 1 000 za den Google Search pro kontext v reálném čase Podpora skriptů a pluginůA co dál? Hierarchická paměť a pokyny ze souborů GEMINI md. Integrované nástroje pro souborový systém, shell, servery MCP a nové sdílené vlastní rozšíření. Multimodální kontext, rozumí obrázkům, PDF a živým výsledkům vyhledávání na webu. Podporuje bezpečné nástroje..."
+      }
+      
+      ,{
+        "title"    : "",
+        "url"      : "//vibecoding/replit/2025-07-02-replit-dynamicka-inteligence/",
+        "category" : "vibecoding",
+        "content"  : "Společnost Replit oznámila rozšíření svého vývojářského asistenta Agent o tři nové schopnosti, které označuje jako “dynamickou inteligenci”. Tyto funkce mají zvýšit autonomii nástroje při vývoji aplikací a umožnit mu řešit složitější problémy s minimálním vedením ze strany uživatele.Tři nové schopnosti agentaNové funkce zahrnují rozšířené uvažování, výkonnější model a webové vyhledávání. Každou z těchto funkcí lze zapnout nebo vypnout podle konkrétního požadavku, což umožňuje přizpůsobit chování agenta specifickým potřebám úkolu.Extended thinking (rozšířené uvažování) instruuje agenta, aby zpomalil a přemýšlel hlouběji o daném problému. Tato funkce zobrazuje části postupného uvažování před poskytnutím finálního výsledku, což umožňuje uživateli sledovat myšlenkový proces. Replit doporučuje..."
+      }
+      
+      ,{
+        "title"    : "Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty",
+        "url"      : "//vibecoding/tempolabs/2025-01-10-tempolabs-instant-deploy/",
+        "category" : "vibecoding",
+        "content"  : "Tempolabs vydal revolucionární funkci Instant Deploy, která umožňuje nasadit aplikace do produkce během několika minut po jejich vytvoření.Co je Instant Deploy?Instant Deploy je plně automatizovaný systém, který: Automaticky konfiguruje infrastrukturu - žádné ruční nastavování serverů Optimalizuje výkon - automaticky vybírá nejlepší konfiguraci pro vaši aplikaci Zajišťuje bezpečnost - implementuje security best practices od začátku Monitoruje aplikaci - poskytuje real-time metriky a alertyJak to funguje:1. Vytvoření aplikace&quot;Vytvoř mi e-shop s košíkem a platbami&quot;2. Automatické nasazení Tempolabs automaticky vygeneruje kód Nastaví databázi a backend infrastrukturu Konfiguruje CDN a load balancing Nasadí aplikaci na globální síť serverů3. Live aplikace Vaše aplikace je okamžitě..."
+      }
+      
+      ,{
+        "title"    : "Tempo Labs Volume 2: MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav",
+        "url"      : "//vibecoding/tempolabs/2025-06-10-mcp-app-store-styling-panel/",
+        "category" : "vibecoding",
+        "content"  : "Tempo Labs, startup z akcelerátoru Y Combinator S23, představil 9. června 2025 druhý souhrnný balík novinek s názvem Volume 2. Na svém účtu X stručně vyjmenoval hlavní přírůstky – MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav. Níže si rozeberme, co jednotlivé novinky znamenají pro vývojáře používající Tempo jako AI-asistované IDE.První položkou je MCP App Store, marketplace integrovaný do postranního panelu editoru. Uživatel vybere službu, vloží její API klíč a během zhruba jedné minuty se v canvasu objeví plně konfigurovaná funkce – například pro Stripe, OpenAI nebo Firecrawl – přičemž všechny meta­údaje ukládá protokol Model..."
+      }
+      
+      ,{
+        "title"    : "Windsurf zavádí Planning Mode pro dlouhodobé plánování projektů, model O3 zlevňuje",
+        "url"      : "//vibecoding/windsurf/2025-06-10-windsurf-planing-mode/",
+        "category" : "vibecoding",
+        "content"  : "Společnost Windsurf (dříve Exafunction) představila Planning Mode jako součást své desáté vlny updatů. Nová funkce umožňuje spolupráci s umělou inteligencí na dlouhodobém plánování programátorských projektů prostřednictvím markdown souborů. Současně značně snížila náklady na využívání modelu O3 z OpenAI.Windsurf Planning Mode - nástroj pro strukturované plánování kóduWindsurf, vývojové prostředí zaměřené na programování s umělou inteligencí, vydalo Planning Mode jako klíčovou součást Wave 10. Tato funkce představuje první nativní implementaci dlouhodobého plánování v IDE prostředí.Planning Mode funguje prostřednictvím lokálního markdown souboru, který obsahuje cíle a úkoly projektu. AI asistent Cascade automaticky generuje a upravuje tento plán během práce na projektu. Uživatelé mohou..."
+      }
+      
+      ,{
+        "title"    : "Tempolabs představuje modul pro Figma s převodem designu na kód pomocí AI",
+        "url"      : "//vibecoding/tempolabs/figma-modul/",
+        "category" : "vibecoding",
+        "content"  : "Nová verze Tempo Labs nazvaná Volume 2 zavádí Figma zásuvný modul, který konvertuje vaše designy na kód přímo v Tempo Welcome to Tempo Labs - Tempo. Modul je dostupný ve Figma Community a umožňuje plynulý převod návrhových komponent na funkční React kód. Z technického hlediska jde o významný krok směrem k uzavření mezery mezi návrhem a vývojovým procesem.Integrace funguje tak, že návrháři mohou exportovat své Figma komponenty a ty se automaticky transformují na React komponenty s odpovídajícím CSS/Tailwind kódem. Tempo generuje modulární kód připravený pro produkci, který zůstává v synchronizaci s původními Figma návrhy."
+      }
+      
+      ,{
+        "title"    : "Windsurf Browser: Nový AI-integrovaný prohlížeč pro vývojáře",
+        "url"      : "//vibecoding/windsurf/2025-06-11-windsurf-browser/",
+        "category" : "vibecoding",
+        "content"  : "Společnost Windsurf představila Windsurf Browser, AI-integrovaný webový prohlížeč, který má zlepšit spolupráci mezi vývojáři a umělou inteligencí. Prohlížeč řeší problém neúplného kontextu, kdy AI asistent Cascade neměl přehled o tom, co vývojář dělá ve webovém prohlížeči při práci s dokumentací, debugging nebo testování aplikací.Technické specifikace a funkceWindsurf Browser je postavený na Chromiu a funguje jako standardní webový prohlížeč s rozšířenými možnostmi pro AI integraci. Prohlížeč se spouští přímo z Windsurf editoru tlačítkem v pravém horním rohu rozhraní. Vývojáři v něm mohou prohlížet webové stránky, dokumentaci, GitHub issues a debugovat aplikace stejně jako v běžném prohlížeči.Klíčová funkcionalita spočívá v tom, že..."
+      }
+      
+      ,{
+        "title"    : "Windsurf Wave 10 3",
+        "url"      : "//vibecoding/windsurf/2025-06-13-windsurf-wave-10-3/",
+        "category" : "vibecoding",
+        "content"  : "Poslední den představování novinek ve Windsurf Wave 10 přinesl především podinikové funkce, rozšíření metriky PCW (Percentage of Code Written) a několik vylepšení uživatelského rozhraní. A pro nás tolik zajímavý evropský datový cluster umožňující data skladovat v EU.Evropský cluster garantuje lokalizaci datWindsurf spustil nový evropský cluster umístěný ve Frankfurtu, který je určen speciálně pro evropské firemní zákazníky. Cluster garantuje, že veškeré zpracování a uchovávání dat probíhá výhradně v rámci hranic Evropské unie, včetně využívání modelů třetích stran s bází v Německu.Toto řešení reaguje na rostoucí požadavky na compliance a bezpečnost dat v evropském prostředí. Windsurf již podporuje více než 100 velkých..."
       }
       
     
