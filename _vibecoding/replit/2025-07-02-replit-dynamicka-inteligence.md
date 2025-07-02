@@ -7,13 +7,6 @@ categories:
 - Claude Opus 4
 layout: post
 post_excerpt: Replit Agent získal tři nové schopnosti: rozšířené uvažování, výkonnější model a webové vyhledávání pro autonomnější vývoj aplikací.
-summary_points:
-- Replit Agent představil dynamickou inteligenci se třemi novými funkcemi
-- Extended thinking umožňuje hlubší uvažování a zobrazuje postupné kroky řešení
-- High power model využívá Claude Opus 4 pro zvýšení přesnosti
-- Web Search vyhledává aktuální informace na internetu podle potřeby
-- Funkce lze zapínat a vypínat podle konkrétního požadavku
-- Zaměření na složitější úkoly jako optimalizace výkonu nebo integrace API
 title: Replit Agent získal dynamickou inteligenci
 ---
 
