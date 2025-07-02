@@ -1,8 +1,7 @@
 ---
-author: Patrick Zandl
+sw: replit
 layout: post
-post_excerpt: Replit Agent získal tři nové schopnosti: rozšířené uvažování, výkonnější model a webové vyhledávání pro autonomnější vývoj aplikací.
-title: Replit Agent získal dynamickou inteligenci
+title: "Replit Agent získal dynamickou inteligenci"
 ---
 
 Společnost Replit [oznámila](https://blog.replit.com/dynamic-intelligence) rozšíření svého vývojářského asistenta Agent o tři nové schopnosti, které označuje jako “dynamickou inteligenci”. Tyto funkce mají zvýšit autonomii nástroje při vývoji aplikací a umožnit mu řešit složitější problémy s minimálním vedením ze strany uživatele.
