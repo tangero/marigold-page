@@ -24,6 +24,6 @@ Trae Agent poskytuje výkonné rozhraní CLI, které dokáže porozumět instruk
 
 K instalaci projektu doporučujeme použít UV.
 
-git clone <repository-url>
-cd trae-agent
+git clone <repository-url> \
+cd trae-agent \
 uv sync
