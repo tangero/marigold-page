@@ -1,11 +1,11 @@
 [
   
     {
-      "title"    : "",
-      "url"      : "//item/2025-07-03-cursor-12/",
-      "category" : "",
+      "title"    : "Cursor 1.2 přináší agenty pracující na pozadí i přehlednější ceny",
+      "url"      : "//item/cursor-12/",
+      "category" : "AI, Cursor, vývojové prostředí, umělá inteligence, programování",
       "tags"     : "",
-      "date"     : "4.7.2025",
+      "date"     : "3.7.2025",
       "content"  : "Cursor, populární vývojové prostředí poháněné umělou inteligencí, vydalo aktualizaci 1.2 s řadou významných vylepšení. Mezi nejdůležitější novinky patří Background Agent pro paralelní zpracování úkolů, zjednodušené cenové schéma a vylepšená správa kontextu.ve stručnosti: Aktualizace úkolů: Agenti rozdělí práci do přehledných seznamů úkolů (podporuje streamování do Slacku) Fronty: Agent je může kdykoli přesunout na hromadu a automaticky se jimi bude zabývat jako dalšími Paměti: Nyní jsou oficiálně mimo beta verzi a jsou chytřejší Vyhledávání požadavků: Vyhledávejte požadavky na stažení podle významu, ne jen podle klíčových slov, abyste mohli rychleji provádět postmortemy Výkonnost: Dokončování karet je rychlejší o ~100 ms a vložené vyhledávání..."
     },
   
@@ -26196,7 +26196,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Claude Code - Komplexní průvodce AI nástrojem pro programátory ( 2.07.2025) Asistenti, Projekty, GEMy, GPTs a základy automatizace práce pomocí AI (17.06.2025) Týden AI a robotiky - ChatGPT s novými konektory, vylepšený Gemini a pokroky humanoidů (12.06.2025) OpenAI snížila cenu modelu..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Cursor 1.2 přináší agenty pracující na pozadí i přehlednější ceny ( 3.07.2025) Claude Code - Komplexní průvodce AI nástrojem pro programátory ( 2.07.2025) Asistenti, Projekty, GEMy, GPTs a základy automatizace práce pomocí AI (17.06.2025) Týden AI a robotiky - ChatGPT s..."
     }
     
   
@@ -26216,7 +26216,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 213 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 69 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 214 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 69 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
