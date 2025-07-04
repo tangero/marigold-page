@@ -18,6 +18,7 @@ summary_points:
 - Komunita vytváří rozsáhlé kolekce příkazů a pracovních postupů
 title: Claude Code - Komplexní průvodce AI nástrojem pro programátory
 sw: claude-code
+thumbnail: https://www.scriptbyai.com/wp-content/uploads/2025/06/claude-code.png
 ---
 
 
