@@ -27642,6 +27642,13 @@
         "content"  : "Společnost Replit oznámila rozšíření svého vývojářského asistenta Agent o tři nové schopnosti, které označuje jako “dynamickou inteligenci”. Tyto funkce mají zvýšit autonomii nástroje při vývoji aplikací a umožnit mu řešit složitější problémy s minimálním vedením ze strany uživatele.Tři nové schopnosti agentaNové funkce zahrnují rozšířené uvažování, výkonnější model a webové vyhledávání. Každou z těchto funkcí lze zapnout nebo vypnout podle konkrétního požadavku, což umožňuje přizpůsobit chování agenta specifickým potřebám úkolu.Extended thinking (rozšířené uvažování) instruuje agenta, aby zpomalil a přemýšlel hlouběji o daném problému. Tato funkce zobrazuje části postupného uvažování před poskytnutím finálního výsledku, což umožňuje uživateli sledovat myšlenkový proces. Replit doporučuje..."
       }
       
+      ,{
+        "title"    : "Trae Agent je nově open source",
+        "url"      : "//vibecoding/ostatni/2025-0703-trae-agent-open-source/",
+        "category" : "vibecoding",
+        "content"  : "Trae Agent je agent založený na LLM pro obecné úlohy softwarového inženýrství. nově byl uvolněn jako open source.Trae Agent poskytuje výkonné rozhraní CLI, které dokáže porozumět instrukcím v přirozeném jazyce a provádět složité pracovní postupy softwarového inženýrství pomocí různých nástrojů a poskytovatelů LLM.Funkce 🌊 Lakeview: Poskytuje stručné a výstižné shrnutí kroků agenta 🤖 Podpora více LLM: Pracuje s oficiálními rozhraními API OpenAI a Anthropic 🛠️ Bohatý ekosystém nástrojů: Úprava souborů, spouštění bash, sekvenční myšlení a další funkce 🎯 Interaktivní režim: Konverzační rozhraní pro iterativní vývoj 📊 Záznam trajektorie: Podrobné zaznamenávání všech akcí agenta pro ladění a analýzu ⚙️ Flexibilní konfigurace:..."
+      }
+      
     
   
 ]

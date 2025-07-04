@@ -6,10 +6,29 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Fri, 04 Jul 2025 06:53:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 06:55:25 +0000</lastBuildDate>
     
     
     
+    
+      
+      
+      
+      <item>
+        <title>Trae - Trae Agent je nově open source</title>
+        <link>https://www.marigold.cz/vibecoding/ostatni/2025-0703-trae-agent-open-source/</link>
+        <guid>https://www.marigold.cz/vibecoding/ostatni/2025-0703-trae-agent-open-source/</guid>
+        <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Trae Agent je agent založený na LLM pro obecné úlohy softwarového inženýrství. nově byl <a href="https://github.com/bytedance/trae-agent">uvolněn jako open source</a>.</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/ostatni/2025-0703-trae-agent-open-source/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
     
       
       
