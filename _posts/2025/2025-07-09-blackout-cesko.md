@@ -35,7 +35,7 @@ Dalo by se říct, že to mohlo být téměř nezaznamenané škobrtnutí přeno
 
 Jde o vcelku "banální situaci", která se do značné míry očekávala. Přenosová trasa V411 pochází z šedesátých let, prošla částečnou rekonstrukcí v polovině devadesátých let, jenže přenosová trasa nebyla zdvojena, což neodpovídá významu této trasy.
 
-![/assets/v411-stozary.png](Obrázek padlého lana na stožáru u Kličína)
+![https://www.marigold.cz/assets/v411-stozary.png](Obrázek padlého lana na stožáru u Kličína)
 
 _Obrázek padlého lana na stožáru u Kličína tak, jak jej zaznamenala Česká televize [ve své reportáži](https://www.ceskatelevize.cz/porady/1097181328-udalosti/225411000100705/cast/1126176/)._
 
@@ -47,7 +47,7 @@ Linka totiž propojuje rozvodnu [Výškov u Loun](https://cs.wikipedia.org/wiki/
 
 [Rozvodna Hradec u Kadaně](https://allforpower.cz/rozvody-energii/sedesat-let-transformovny-hradec-u-kadane-538) má v české energetické soustavě velmi důležitou roli. Kromě severní linky do Německa (2x400kV linka do německého Röhrsdorfu) je na ni totiž napojena elektrárna Tušimice i Prunéřov a další přenosové linky dále do Česka. Rozvodna je také vybavena transformátory PST, které mohou zabraňovat přetokům do české přenosové sítě z Německa.
 
-![/assets/rozvodny-hradec-vyskov.jpg](Na mapě vidíte rozvodnu Hradec a Výškov včetně jednoduchého propojení 411.)
+![https://www.marigold.cz/assets/rozvodny-hradec-vyskov.jpg](Na mapě vidíte rozvodnu Hradec a Výškov včetně jednoduchého propojení 411.)
 
 _Na mapě vidíte rozvodnu Hradec a Výškov včetně jednoduchého propojení 411._
 
@@ -67,7 +67,7 @@ Ačkoliv tedy přetoky z Německa byly nominulně vysoké, ČEPS je nepochybně 
 
 K čemu dojít může, je souhra dlouhodobých poškození, kdy dojde k částečnému zažíhání hliníku, poškození zinkové vrstvy a třeba proniknutí soli do lanového svazku, ale to jsou extrémní případy - například v českých podmínkách pronikání soli nehrozí. Co je spíše myslitelné, je pád spojky. Ve „vodičové“ terminologii je **spojka** trubková, dvoudílná lisovaná objímka, která v poli **pevně, elektricky a mechanicky** spojí dva konce ACSR lana. Po desítkách let ji mohou ohrozit chybná montáž, koroze jádra nebo únava, a právě její selhání patří k nejčastějším příčinám pádů vodičů na velmi vysokém napětí. ČEPS proto nyní **reviduje všechny lisované spojky** na 400 kV trasách z 60.–80. let a měří je termovizí a magnetickou sondou.
 
-![/assets/spojka-energetika.jpg](Takhle vypadá spojkování kabelů lisovanou kompresní spojkou, která umožní navázat dva bubny lana. Důležité je správne slisování.)
+![https://www.marigold.cz/assets/spojka-energetika.jpg](Takhle vypadá spojkování kabelů lisovanou kompresní spojkou, která umožní navázat dva bubny lana. Důležité je správne slisování.)
 
 _Takhle vypadá spojkování kabelů lisovanou kompresní spojkou, která umožní navázat dva bubny lana. Důležité je správne slisování._
 
