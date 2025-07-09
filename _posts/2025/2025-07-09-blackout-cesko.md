@@ -18,7 +18,7 @@ Dalo by se říct, že to mohlo být téměř nezaznamenané škobrtnutí přeno
 
 ### Časová osa českého blackoutu 4.7.2025
 
-1.  **11:57** – na stožáru č. 35 u Kličína na přenosové trase V411 padá jeden vodič dvoj-svazku; odpojovací relé vypíná vedení. Přesný důvod pádu je předmětem vyšetřování, oficiálně bylo ale oznámeno, že šlo o mechanické poškození. Jak k němu došlo, se šetří. K tomu se ještě vrátíme
+1.  **11:57** – na stožáru č. 35 u Kličína na přenosové trase V411 padá jeden vodič troj-svazku; odpojovací relé vypíná vedení. Přesný důvod pádu je předmětem vyšetřování, oficiálně bylo ale oznámeno, že šlo o mechanické poškození. Jak k němu došlo, se šetří. K tomu se ještě vrátíme
     
 2.  **11:58-11:59** – náhlé přerozdělení výkonu zatěžuje V430, V412 a 220 kV vazby; napěťový pokles o cca 4 % v severní části. Ochrany bloku číslo 6 elektrárny Ledvice (660 MW) během zlomku sekundy odpojují tento blok od přenosové sítě. Výkon v oblasti klesá.
     
@@ -52,7 +52,7 @@ Linka totiž propojuje rozvodnu [Výškov u Loun](https://cs.wikipedia.org/wiki/
 
 ![Na mapě vidíte rozvodnu Hradec a Výškov včetně jednoduchého propojení 411.](https://www.marigold.cz/assets/rozvodny-hradec-vyskov.jpg)
 
-_Na mapě vidíte rozvodnu Hradec a Výškov včetně jednoduchého propojení 411._
+_Na mapě vidíte rozvodnu Hradec a Výškov včetně jednoduchého propojení 411. Celá [mapa přenosové sítě k dispozici zde](https://www.ote-cr.cz/cs/statistika/elektrizacni-soustava-cr.png)_
 
 Proč říkám, že příběh je vcelku banální? Pád starého vodiče na V411 spustil řetězec dalších, samostatných ochranných zásahů (Ledvice, V208, Krasíkov), které v souhrnu odpojily devět rozvoden a až 2,7 GW zátěže. Výpadek rozvodny Krasíkov oddělil od české přenosové soustavy ostrov severní části Čech, který následně zkolaboval. Zbytek sítě se náhle z nedostatku výkonu (výpadek cca 500 MW) dostal do velkého přebytku (cca 1500 MW) a hrozil blackout. **Jen díky přeshraničním spojením se podařilo tento přebytečný výkon vyvézt pryč a zabránit tak celkovému kolapsu sítě.** Jen díky tomu se podařilo během necelé hodiny připojit většinu vypadlého území zpět.
 
