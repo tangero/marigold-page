@@ -41,7 +41,7 @@ Jde o vcelku "banální situaci", která se do značné míry očekávala. Přen
 
 _Obrázek padlého lana na stožáru u Kličína tak, jak jej zaznamenala Česká televize [ve své reportáži](https://www.ceskatelevize.cz/porady/1097181328-udalosti/225411000100705/cast/1126176/)._
 
-Již deset let je na to upozorňováno a trase je označována za rizikovou, její rekonstrukce ale byla stále odsouvána. Ačkoliv projekt „[V411/811 zdvojení](https://portal.cenia.cz/eiasea/download/RUlBX09WNDE1MV9kb2t1bWVudGFjZURPQ18xMDk5NjIzMTkzOTgzMDUwMTIxLnBkZg/OV4151_dokumentace.pdf)“ byl pořízen již v roce 2016, EIA získal v roce 2019, územní rozhodnutí pak 2021 a podle MPO se začal soutěžit shodou okolností v květnu 2025. To by znamenalo dokončení v roce **2027**.
+Již deset let je na to upozorňováno a trase je označována za rizikovou, její rekonstrukce ale byla stále odsouvána. Ačkoliv projekt „[V411/811 zdvojení](https://portal.cenia.cz/eiasea/download/RUlBX09WNDE1MV9kb2t1bWVudGFjZURPQ18xMDk5NjIzMTkzOTgzMDUwMTIxLnBkZg/OV4151_dokumentace.pdf)“ byl pořízen již v roce 2016, EIA získal v roce 2019, [společné povolení](https://mpo.gov.cz/assets/cz/rozcestnik/uredni-deska/stavebni-urad/2022/11/MPO-638242_21_433-_-SU-Verejna-vyhlaska---spolecne-povoleni.pdf) pak 2022 a podle MPO se začal soutěžit shodou okolností v květnu 2025. To by znamenalo dokončení v roce **2027**.
 
 **Proč je V411 tak významná?**
 
