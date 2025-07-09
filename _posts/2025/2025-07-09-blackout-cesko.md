@@ -54,9 +54,9 @@ Linka totiž propojuje rozvodnu [Výškov u Loun](https://cs.wikipedia.org/wiki/
 
 _Na mapě vidíte rozvodnu Hradec a Výškov včetně jednoduchého propojení 411. Celá [mapa přenosové sítě k dispozici zde](https://www.ote-cr.cz/cs/statistika/elektrizacni-soustava-cr.png)_
 
-Proč říkám, že příběh je vcelku banální? Pád starého vodiče na V411 spustil řetězec dalších, samostatných ochranných zásahů (Ledvice, V208, Krasíkov), které v souhrnu odpojily devět rozvoden a až 2,7 GW zátěže. Výpadek rozvodny Krasíkov oddělil od české přenosové soustavy ostrov severní části Čech, který následně zkolaboval. Zbytek sítě se náhle z nedostatku výkonu (výpadek cca 500 MW) dostal do velkého přebytku (cca 1500 MW) a hrozil blackout. **Jen díky přeshraničním spojením se podařilo tento přebytečný výkon vyvézt pryč a zabránit tak celkovému kolapsu sítě.** Jen díky tomu se podařilo během necelé hodiny připojit většinu vypadlého území zpět.
+Proč říkám, že příběh je vcelku banální? Pád starého vodiče na V411 spustil řetězec dalších, samostatných ochranných zásahů (Ledvice, V208, Krasíkov), které v souhrnu odpojily devět rozvoden a až 2,7 GW zátěže. Výpadek rozvodny Krasíkov oddělil od české přenosové soustavy ostrov severní části Čech, který následně zkolaboval. Zbytek sítě se náhle z nedostatku výkonu (výpadek cca 500 MW) dostal do velkého přebytku (cca 1500 MW) a hrozil blackout. **Jen díky přeshraničním spojením se podařilo tento přebytečný výkon vyvézt pryč a zabránit tak celkovému kolapsu sítě.** A jen díky tomu se podařilo během necelé hodiny připojit většinu vypadlého území zpět.
 
-Nejpravděpodobnější kořen provotníhá pádu vodiče na lince V411 je **mechanická vada svorky/vodiče**, případně urychlená letitým zatížením. Co z toho přesně, se vyšetřuje.
+Nejpravděpodobnější prapříčinou provotníhá pádu vodiče na lince V411 je **mechanická vada svorky/vodiče**, případně urychlená letitým zatížením. Co z toho přesně, se vyšetřuje.
 
 ### 🇩🇪 Mohou za to přetoky z Německa? Ne, spíše spojka!
 
