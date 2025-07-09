@@ -24,7 +24,7 @@ Dalo by se říct, že to mohlo být téměř nezaznamenané škobrtnutí přeno
     
 3.  12:00 - ČEPS vyhlašuje **stav nouze** pro celou ČR
     
-4.  **12:04 – 12:08** – Dochází k přetížení rozvodny Krasíkov a 400 kV linky V208, odpojení dalších prvků; vznik dvou ostrovů (severozápad, severovýchod). Celkem ze sítě vypadá devět rozvoden (někdy se uvádí 7 a 8 z důvodů, které pro nás nejsou podstatné).
+4.  **12:04 – 12:08** – Dochází k přetížení rozvodny Krasíkov a linky V208, odpojení dalších prvků; vznik dvou ostrovů (severozápad, severovýchod). Celkem ze sítě vypadá devět rozvoden (někdy se uvádí 7 a 8 z důvodů, které pro nás nejsou podstatné).
     
 5.  **12:15 – 14:00** – Probíhá ruční a automatické řízení ostrovů, start náhradních zdrojů.
     
