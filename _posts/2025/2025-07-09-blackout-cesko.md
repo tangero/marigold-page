@@ -14,6 +14,8 @@ title: "⚡️⚫️ Jaké je skutečné pozadí blackoutu v Česku?"
 
 Dalo by se říct, že to mohlo být téměř nezaznamenané škobrtnutí přenosové sítě, kdyby spolu se severovýchodem Čech nevypadl 4.7.2025 i kus Prahy. Toho už si všechna média všimla. Co se ve skutečnosti stalo, jak špatná je situace a jak hysterická je u nás debata o energetice?
 
+> 🇪🇸 Problematikou [blackoutu ve Španělsku jsem se podrobně zabýval zde](/item/spanelsko-blackout-kdo-za-to-muze/).
+
 ### Časová osa českého blackoutu 4.7.2025
 
 1.  **11:57** – na stožáru č. 35 u Kličína na přenosové trase V411 padá jeden vodič dvoj-svazku; odpojovací relé vypíná vedení. Přesný důvod pádu je předmětem vyšetřování, oficiálně bylo ale oznámeno, že šlo o mechanické poškození. Jak k němu došlo, se šetří. K tomu se ještě vrátíme
