@@ -28,12 +28,13 @@ Dalo by se říct, že to mohlo být téměř nezaznamenané škobrtnutí přeno
     
 5.  **12:15 – 14:00** – Probíhá ruční a automatické řízení ostrovů, start náhradních zdrojů.
     
-6.  13 : 50 - dodávka do Prahy a hlavních uzlů zprovozněna
+6.  13 : 50 - dodávka do Prahy a hlavních uzlů zprovozněna (oživeníelektřiny pro koncové zákazníky záleží na distribučních společnostech)
     
 7.  **14:50** – znovuspojení ostrovů na 400 kV, obnoveno všech devět rozvoden.
     
 8.  **22:15** – provizorně opravena V411; vedení v polovičním výkonu.
     
+ _**Poznámka k časové ose:** jde o moji rekonstrukci, oficiální časová osa nebyla (co vím) publikována, ale jistě bude součástí vyšetřovací zprávy. Časové údaje se mohou lišit._   
 
 Jde o vcelku "banální situaci", která se do značné míry očekávala. Přenosová trasa V411 pochází z šedesátých let, prošla částečnou rekonstrukcí v polovině devadesátých let, jenže přenosová trasa nebyla zdvojena, což neodpovídá významu této trasy.
 
