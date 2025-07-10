@@ -8,33 +8,38 @@ categories:
 layout: post
 post_excerpt: "Mohlo to být téměř nezaznamenané škobrtnutí přenosové sítě, kdyby spolu se severovýchodem Čech nevypadl minulý týden i kus Prahy. Toho už si všechna média všimla. Co se ve skutečnosti stalo, jak špatná je situace a jak hysterická je u nás debata o energetice?"
 thumbnail: https://www.marigold.cz/assets/spojka-energetika.jpg
-title: "⚡️⚫️ Jaké je skutečné pozadí blackoutu v Česku?"
+title: "Aktualizace 10.7.: ⚡️⚫️ Jaké je skutečné pozadí blackoutu v Česku?"
 ---
 
+**Aktualizace 10.7.2025:** ČEPS měl tiskovou konferenci k výpadku. Upřesnila se časová osa, aktualizuji tu moji zde. Druhá důležitá informace: na Lince V411 byla už jedna závada vloni v listopadu. Tehdejší havárie byla opravena externí firmou (1.–3. 12. 2024). Kus lana testoval Kloknerův ústav ČVUT – parametry „vyhovující“. To znamená, že vodiče byly v pořádku, nebyly poškozeny žádným způsobem přetěžování. To jde proti verzi "můžou za to přetoky", ČEPS dnes vyloučil nadlimitní proud. Ochrany ani DTR nehlásily alarmy. Zajímavé ale je, že lano se poškodilo ve stejném úseku. V každém případě běží termovizní kontroly. Předběžná zpráva vyšetřovacího týmu výpadku (ČEPS + ERÚ + VUT Brno) má být zveřejněna do konce července 2025. Nejsou žádné indicie o tom, že by šlo o sabotáž či zásah třetí osoby. Na co se čeká? Detailní log ochrany bloku Ledvic B6 – ČEZ má dodat do půlky července. ČEPS dnes potvrdil, že bez paralelního odpojení Ledvic by se soustava nerozpadla. Primární příčina bude tedy někde v reakci ochrany Ledvic na situaci v síti, bude se zkoumat, zda situace odůvodnila reakci ochrany Ledvic. 
+
+Následují informace publikované 9.7.:
 
 Dalo by se říct, že to mohlo být téměř nezaznamenané škobrtnutí přenosové sítě, kdyby spolu se severovýchodem Čech nevypadl 4.7.2025 i kus Prahy. Toho už si všechna média všimla. Co se ve skutečnosti stalo, jak špatná je situace a jak hysterická je u nás debata o energetice?
 
 > 🇪🇸 Problematikou [blackoutu ve Španělsku jsem se podrobně zabýval zde](/item/spanelsko-blackout-kdo-za-to-muze/).
 
-### Časová osa českého blackoutu 4.7.2025
+### Časová osa českého blackoutu 4.7.2025 (aktualizace 10.7.)
 
-1.  **11:57** – na stožáru č. 35 u Kličína na přenosové trase V411 padá jeden vodič troj-svazku; odpojovací relé vypíná vedení. Přesný důvod pádu je předmětem vyšetřování, oficiálně bylo ale oznámeno, že šlo o mechanické poškození. Jak k němu došlo, se šetří. K tomu se ještě vrátíme
+1.  **11:51:06** – na stožáru č. 35 u Kličína na přenosové trase V411 padá jeden vodič troj-svazku; odpojovací relé vypíná vedení. Přesný důvod pádu je předmětem vyšetřování, oficiálně bylo ale oznámeno, že šlo o mechanické poškození. Jak k němu došlo, se šetří. K tomu se ještě vrátíme
     
-2.  **11:58-11:59** – náhlé přerozdělení výkonu zatěžuje V430, V412 a 220 kV vazby; napěťový pokles o cca 4 % v severní části. Ochrany bloku číslo 6 elektrárny Ledvice (660 MW) během zlomku sekundy odpojují tento blok od přenosové sítě. Výkon v oblasti klesá.
+2.  **11:52:48** – náhlé přerozdělení výkonu zatěžuje V430, V412 a 220 kV vazby; napěťový pokles o cca 4 % v severní části. Ochrany bloku číslo 6 elektrárny Ledvice (660 MW) během zlomku sekundy odpojují tento blok od přenosové sítě. Výkon v oblasti klesá. ČEPS 10.7. uvedl, že došlo ke ztrátě cca 300 MW; původně se uvádělo 660 MW, což je nominální výkon Ledvic. Proč to bylo méně, není jasné.
+ 
+        
+3.  **11:59:44** – dispečer vypíná V208 (přetížení) a současně o tři sekundy později vypadává linka V401 a rozvodna Krasíkov.
+
     
-3.  12:00 - ČEPS vyhlašuje **stav nouze** pro celou ČR
+4.  **12:00 – 12:05** – vznik dvou ostrovů, bez napětí 9 rozvoden (Malešice, Chodov, Bezděčín, Týnec, Čechy Střed, Opočínek, Neznášov, Výškov, Chotějovice). Je tak oficiálně potvrzen počet devíti vypadlých rozvoden. 
+
+5. **12:24** - opětovné zapnutí trasy V208, řízený rozjezd
     
-4.  **12:04 – 12:08** – Dochází k přetížení rozvodny Krasíkov a linky V208, odpojení dalších prvků; vznik dvou ostrovů (severozápad, severovýchod). Celkem ze sítě vypadne devět rozvoden (někdy se uvádí 7 a 8 z důvodů, které pro nás nejsou podstatné).
-    
-5.  **12:15 – 14:00** – Probíhá ruční a automatické řízení ostrovů, start náhradních zdrojů.
-    
-6.  13 : 50 - dodávka do Prahy a hlavních uzlů zprovozněna (oživeníelektřiny pro koncové zákazníky záleží na distribučních společnostech)
+6.  **cca 14:00** - dodávka do Prahy a hlavních uzlů zprovozněna (oživeníelektřiny pro koncové zákazníky záleží na distribučních společnostech)
     
 7.  **14:50** – znovuspojení ostrovů na 400 kV, obnoveno všech devět rozvoden.
     
 8.  **22:15** – provizorně opravena V411; vedení v polovičním výkonu.
     
- _**Poznámka k časové ose:** jde o moji rekonstrukci, oficiální časová osa nebyla (co vím) publikována, ale jistě bude součástí vyšetřovací zprávy. Časové údaje se mohou lišit._   
+ _**Poznámka k časové ose:** jde o oficiální časovou osu, moje dřívější rekonstrukce časové osy z doby před publikováním oficiální časové osy je v archivu na Githubu._   
 
 Jde o vcelku "banální situaci", která se do značné míry očekávala. Přenosová trasa V411 pochází z šedesátých let, prošla částečnou rekonstrukcí v polovině devadesátých let, jenže přenosová trasa nebyla zdvojena, což neodpovídá významu této trasy.
 
@@ -57,6 +62,8 @@ _Na mapě vidíte rozvodnu Hradec a Výškov včetně jednoduchého propojení 4
 Proč říkám, že příběh je vcelku banální? Pád starého vodiče na V411 spustil řetězec dalších, samostatných ochranných zásahů (Ledvice, V208, Krasíkov), které v souhrnu odpojily devět rozvoden a až 2,7 GW zátěže. Výpadek rozvodny Krasíkov oddělil od české přenosové soustavy ostrov severní části Čech, který následně zkolaboval. Zbytek sítě se náhle z nedostatku výkonu (výpadek cca 500 MW) dostal do velkého přebytku (cca 1500 MW) a hrozil blackout. **Jen díky přeshraničním spojením se podařilo tento přebytečný výkon vyvézt pryč a zabránit tak celkovému kolapsu sítě.** A jen díky tomu se podařilo během necelé hodiny připojit většinu vypadlého území zpět.
 
 Nejpravděpodobnější prapříčinou provotníhá pádu vodiče na lince V411 je **mechanická vada svorky/vodiče**, případně urychlená letitým zatížením. Co z toho přesně, se vyšetřuje.
+
+![Mapa postižené části sítě](/assets/147345_mapa-postizene-casti-ps.jpg)
 
 ### 🇩🇪 Mohou za to přetoky z Německa? Ne, spíše spojka!
 
