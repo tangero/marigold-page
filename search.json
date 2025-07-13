@@ -27683,6 +27683,13 @@
         "content"  : "Claude Code umožňuje využívat takzvané subagenty pro paralelní zpracování úkolů. Tyto subagenti představují způsob, jak efektivně rozdělit práci při analýze rozsáhlých projektů nebo provádění nezávislých operací současně.Definice a princip fungování subagentůSubagent představuje odlehčenou instanci Claude Code, která běží uvnitř úkolu prostřednictvím Task Tool. Při spuštění subagenta se v uživatelském rozhraní zobrazuje označení “Task(Performing task X)”, které signalizuje aktivní provádění konkrétního úkolu. Klíčovou vlastností subagentů je jejich schopnost běžet paralelně, což umožňuje současné zpracování více nezávislých úkolů.Každý subagent disponuje vlastním kontextovým oknem, což představuje významnou výhodu při práci s rozsáhlými kódovými projekty. Toto řešení efektivně rozšiřuje dostupnou paměť pro zpracování komplexních..."
       }
       
+      ,{
+        "title"    : "Lovable má nový vizuální editor",
+        "url"      : "//vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/",
+        "category" : "vibecoding",
+        "content"  : "Nyní je vizuální editor v Lovable rychlejší, čistší a mnohem intuitivnější.Jak to funguje:• Klikněte na „Upravit“ ve vstupním poli• Vyberte libovolný prvek• Vizuální úpravy stylů (barva, velikost, obsah) jde naklikat ihned• Nebo jen vyzvěte: „Nechat toto tlačítko vyskakovat“Klikněte. Upravit. Hotovo.  A je to zdarma, kredity se nepoužívají."
+      }
+      
     
   
 ]

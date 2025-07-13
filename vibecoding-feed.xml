@@ -6,7 +6,7 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Sun, 13 Jul 2025 20:23:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 20:39:40 +0000</lastBuildDate>
     
     
     
@@ -47,6 +47,25 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-07-13-claude_code_subagenti/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>💖 Lovable.dev - Lovable má nový vizuální editor</title>
+        <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/</link>
+        <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/</guid>
+        <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Nyní je vizuální editor v Lovable rychlejší, čistší a mnohem intuitivnější.</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
