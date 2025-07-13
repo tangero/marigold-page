@@ -14,7 +14,9 @@ thumbnail: https://www.marigold.cz/assets/windsurf.png
 
 Google DeepMind  **přetáhl šéfa Windsurfu Varuna Mohana, spoluzakladatele Douglase Chena a část špičkových výzkumníků**z AI-platformy Windsurf. Za  **2,4 mld. USD**  získal i nevýhradní licenci na část jejích technologií –  **bez kapitálového podílu**. Převzetí, které měla za zhruba 3 mld. USD dokončit OpenAI, tím definitivně padlo.
 
-Google tedy nezískává ani podíl, ani kontrolu nad samotnou společností Windsurf. Většina z 250 členného týmu start-upu tak zůstane pod vedením dočasného generálního ředitele, jehož úkolem bude pokračovat v provozu poté, co společnost ztratila své zakládající vedení a část svého technického náskoku ve prospěch přímého konkurenta. Bývalé vedení nyní vyvíjí „agentní kódování“ pro model  **Gemini**  v Google.
+Google tedy nezískává ani podíl, ani kontrolu nad samotnou společností [Windsurf](/vibecoding/windsurf/). Většina z 250 členného týmu start-upu tak zůstane pod vedením dočasného generálního ředitele, jehož úkolem bude pokračovat v provozu poté, co společnost ztratila své zakládající vedení a část svého technického náskoku ve prospěch přímého konkurenta. Bývalé vedení nyní vyvíjí „agentní kódování“ pro model  **Gemini**  v Google.
+
+> V rubrice [Vibecoding](/vibecoding) pravidelně rozebíráme vše nové i kolem software [Windsurf](/vibecoding/windsurf/)
 
 Windsurf tak nebude převzat společností OpenAI, ačkoliv to v minulosti vypadalo, že je ruka v rukávě. A co se stalo, o co jde? O novou bezohlednou strategii v AI odvětví, kdy dominantní hráči mohou pohltit nejcennější aktiva nastupujícího konkurenta – jeho zaměstnance a technologie – bez regulačních omezení formální akvizice. Prostě přeplatí pár lidí astronomickými nabídkami a ostatní ponechají osudu ve firmě, ke které mají třeba obce nebo v níž mají investice. Říká se tomu acquihire (jako akvizice náborem)
 
