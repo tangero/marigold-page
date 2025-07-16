@@ -1,0 +1,682 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Amazon představil vlastní autonomní vývojové AI prostředí Kiro | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Amazon představil vlastní autonomní vývojové AI prostředí Kiro" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Amazon představil Kiro, nové vývojové prostředí založené na autonomních AI agentech, které se zaměřuje na řešení problémů současného “vibe coding” - rychlého generování kódu pomocí AI bez důkladného plánování. Nástroj se liší od stávajícího Amazon Q Developer tím, že využívá specifikační vývoj a autonomní agenty pro komplexní úkoly, čímž se dostává do přímé konkurence s populárními řešeními jako Cursor, Windsurf nebo GitHub Copilot." />
+<meta property="og:description" content="Amazon představil Kiro, nové vývojové prostředí založené na autonomních AI agentech, které se zaměřuje na řešení problémů současného “vibe coding” - rychlého generování kódu pomocí AI bez důkladného plánování. Nástroj se liší od stávajícího Amazon Q Developer tím, že využívá specifikační vývoj a autonomní agenty pro komplexní úkoly, čímž se dostává do přímé konkurence s populárními řešeními jako Cursor, Windsurf nebo GitHub Copilot." />
+<link rel="canonical" href="https://www.marigold.cz/vibecoding/ostatni/2025-07-16-kiro-ide-amazon/" />
+<meta property="og:url" content="https://www.marigold.cz/vibecoding/ostatni/2025-07-16-kiro-ide-amazon/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-07-16T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Amazon představil vlastní autonomní vývojové AI prostředí Kiro" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-07-16T00:00:00+00:00","datePublished":"2025-07-16T00:00:00+00:00","description":"Amazon představil Kiro, nové vývojové prostředí založené na autonomních AI agentech, které se zaměřuje na řešení problémů současného “vibe coding” - rychlého generování kódu pomocí AI bez důkladného plánování. Nástroj se liší od stávajícího Amazon Q Developer tím, že využívá specifikační vývoj a autonomní agenty pro komplexní úkoly, čímž se dostává do přímé konkurence s populárními řešeními jako Cursor, Windsurf nebo GitHub Copilot.","headline":"Amazon představil vlastní autonomní vývojové AI prostředí Kiro","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/vibecoding/ostatni/2025-07-16-kiro-ide-amazon/"},"url":"https://www.marigold.cz/vibecoding/ostatni/2025-07-16-kiro-ide-amazon/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Amazon představil Kiro, nové vývojové prostředí založené na autonomních AI agentech, které se zaměřuje na řešení problémů současného “vibe coding” - rychlého generování kódu pomocí AI bez důkladného plánování. Nástroj se liší od stávajícího Amazon Q Developer tím, že využívá specifikační vývoj a autonomní agenty pro komplexní úkoly, čímž se dostává do přímé konkurence s populárními řešeními jako Cursor, Windsurf nebo GitHub Copilot.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Amazon představil vlastní autonomní vývojové AI prostředí Kiro" />
+    <meta property="twitter:title" content="Amazon představil vlastní autonomní vývojové AI prostředí Kiro" />
+    
+
+    
+    <!-- page.thumbnail -->
+    
+        <!-- page.thumbnail https://www.marigold.cz/assets/kiro-dev.png |  -->
+    <meta property="og:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_630,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/kiro-dev.png"/>
+    <meta property="twitter:image" content="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1024,h_512,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/kiro-dev.png"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/vibecoding/ostatni/2025-07-16-kiro-ide-amazon/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="//" class="site-avatar"><img src="//images/patrick-avatar.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="/vibecoding">👨‍💻 Vibe Coding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<!-- start feedwind code --> 
+<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+
+
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+
+  /* Odstranění rámečků kolem textu */
+  .post.detailed {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  .post.detailed .entry {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  /* Odstranění okrajů kolem sekce Články a novinky */
+  .posts {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post .entry {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  /* CSS pro tlačítko kopírovat */
+  .code-block-container {
+    position: relative;
+    margin: 20px 0;
+  }
+  .copy-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    z-index: 1;
+  }
+  .copy-button:hover {
+    background-color: #45a049;
+  }
+  .copy-button:active {
+    background-color: #3e8e41;
+  }
+  .copy-button.copied {
+    background-color: #666;
+  }
+  .code-block-container pre {
+    position: relative;
+    padding-top: 40px;
+  }
+  .toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 5px;
+    display: none;
+    z-index: 1000;
+  }
+</style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Amazon představil vlastní autonomní vývojové AI prostředí Kiro</h1>
+
+  
+  <div class="posts">
+    <blockquote>
+      <p>💡 Firemní <a href="https://www.prolnuto.cz/">konzultace a workshopy o umělé inteligenci</a>. Jak se vaší firmy dotkne AI a jak se na to připravit?<br/>👉 Poradíme v <a href="https://www.prolnuto.cz/">Prolnuto.cz</a></p>
+    </blockquote>
+  </div>
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+16.
+červenec
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#AI">AI</a>
+        &nbsp;
+      
+        <a href="//rubrika/#IDE">IDE</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Kiro">Kiro</a>
+        &nbsp;
+      
+        <a href="//rubrika/#AWS">AWS</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Amazon">Amazon</a>
+        &nbsp;
+      
+        <a href="//rubrika/#vývojové nástroje">vývojové nástroje</a>
+        &nbsp;
+      
+        <a href="//rubrika/#automatizace">automatizace</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+  
+  <div class="thumbnail-strip">
+    <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_1200,h_300,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/kiro-dev.png" alt="Amazon představil vlastní autonomní vývojové AI prostředí Kiro">
+  </div>
+  
+
+
+ 
+  <div class="quick-summary">
+    <div class="quick-summary-header">
+      <svg class="summary-icon" viewBox="0 0 24 24" width="24" height="24">
+        <path fill="currentColor" d="M14,17H7V15H14M17,13H7V11H17M17,9H7V7H17M19,3H5C3.89,3 3,3.89 3,5V19A2,2 0 0,0 5,21H19A2,2 0 0,0 21,19V5C21,3.89 20.1,3 19,3Z" />
+      </svg>
+      <span>Rychlé shrnutí článku</span>
+    </div>
+    <ul class="summary-points">
+      
+        <li>Kiro je nové AI vývojové prostředí od Amazonu s vlastní doménou a brandingem</li>
+      
+        <li>Vzniklo z malého týmu v AWS a používá Claude Sonnet 4 a 3.7 od Anthropic</li>
+      
+        <li>Konkuruje nástrojům jako Cursor, Windsurf a GitHub Copilot s autonomními agenty</li>
+      
+        <li>Zaměřuje se na specifikační vývoj na rozdíl od Amazon Q Developer</li>
+      
+        <li>Bude součástí Q Developer Pro subscription a má vlastní cenové tarify</li>
+      
+        <li>Demo projekt "Spirit of Kiro" měl 95% kódu generovaného Kiro</li>
+      
+    </ul>
+  </div>
+
+  
+
+<style>
+.quick-summary {
+    background: linear-gradient(145deg, #ffffff, #f5f5f5);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+                0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.quick-summary-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    color: #2d3748;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.summary-icon {
+    margin-right: 0.5rem;
+    color: #4a5568;
+}
+
+.summary-points {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.summary-points li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: #4a5568;
+    line-height: 1.5;
+}
+
+.summary-points li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #667eea;
+    font-weight: bold;
+}
+
+@media (prefers-color-scheme: dark) {
+    .quick-summary {
+        background: linear-gradient(145deg, #2d3748, #1a202c);
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.2);
+    }
+    
+    .quick-summary-header {
+        color: #e2e8f0;
+    }
+    
+    .summary-icon,
+    .summary-points li {
+        color: #cbd5e0;
+    }
+    
+    .summary-points li::before {
+        color: #7f9cf5;
+    }
+}
+</style>
+
+
+
+
+  <div class="entry">
+    <p>Amazon představil <a href="https://kiro.dev">Kiro</a>, nové vývojové prostředí založené na autonomních AI agentech, které se zaměřuje na řešení problémů současného “vibe coding” - rychlého generování kódu pomocí AI bez důkladného plánování. Nástroj se liší od stávajícího Amazon Q Developer tím, že využívá specifikační vývoj a autonomní agenty pro komplexní úkoly, čímž se dostává do přímé konkurence s populárními řešeními jako Cursor, Windsurf nebo GitHub Copilot.</p>
+
+<p><img src="/assets/kiro-dev.png" alt="Kiro vypadá tak, jak byste čekali" />
+<em>Kiro vypadá tak, jak byste čekali, jako mírná předělávka VS Code s doplněným chat oknem, tedy vlastně podobně, jako konkurenční Cursor a jiní…</em></p>
+
+<p>Podle CEO Amazonu Andyho Jassyho má Kiro <em>“šanci transformovat způsob, jakým vývojáři stavějí software”</em>. Nástroj vznikl z malého týmu v rámci AWS, ale v neobvyklém kroku pro Amazon má vlastní doménu a branding - název Amazon se neobjevuje v hlavním oznámení a souvislost s technologickým gigantem signalizuje pouze AWS logo v patičce webu. Také přihlášení do produktu jde i přes Google a Github účet, Amazon Developer ID je jen jednou z variant.</p>
+
+<h2 id="odlišnost-od-amazon-q-developer">Odlišnost od Amazon Q Developer</h2>
+
+<p>Zatímco Amazon Q Developer se zaměřuje na dokončování kódu a chat-based asistenci, Kiro využívá autonomní AI agenty, které mohou samostatně pomáhat s dokončováním a dokumentováním projektů. Podle zdrojů z Amazonu je “Kiro univerzální agentní IDE pro vývojáře pro práci s jakoukoli platformou podle vlastního výběru”, na rozdíl od Q Developer, který je omezenější v podpoře third-party IDE a je omezen na VS Code, JetBrains, Eclipse a Visual Studio.</p>
+
+<p>Kiro bude během preview období k dispozici zdarma všem uživatelům a později se stane součástí Q Developer Pro a Pro+ subscription. Uživatelé budou moci používat oba nástroje současně, což podporuje Q Developer Pro subscription začínající na 19 dolarů měsíčně na uživatele.</p>
+
+<h2 id="technologie-postavená-na-claude">Technologie postavená na Claude</h2>
+
+<p>Kiro používá jako výchozí jazykové modely Claude Sonnet 4 od společnosti Anthropic s možností použití Claude Sonnet 3.7 jako další varianty. Prostředí je postaveno na otevřeném zdrojovém kódu Code OSS, což umožňuje vývojářům zachovat stávající nastavení VS Code a používat kompatibilní rozšíření Open VSX.</p>
+
+<p>Nejedná se o klasickou službu AWS - vývojové prostředí nevyžaduje AWS účet a uživatelé se mohou přihlásit prostřednictvím Google, GitHub, Builder ID nebo AWS SSO. Podle Nathana Pecka, AWS vývojového evangelisty pro AI, je cílem poskytnout Kiro “jedinečnou identitu mimo AWS” pro přitažení vývojářů používajících jiné platformy.</p>
+
+<h2 id="specifikační-vývoj-jako-základ">Specifikační vývoj jako základ</h2>
+
+<p>Klíčovým dodlišením pro Kiro je model specifikačního vývoje, který vede proces od návrhu k implementaci. Jednoduchý příkaz jako “přidej systém recenzí” spustí řetězec AI asistovaných výstupů, které zahrnují uživatelské příběhy s akceptačními kritérii v EARS notaci (Easy Approach to Requirements Syntax).</p>
+
+<p>Proces začíná automatickým rozbalením požadavků z jediného příkazu - Kiro vygeneruje uživatelské příběhy pro zobrazení, vytváření, filtrování a hodnocení. Každý uživatelský příběh obsahuje akceptační kritéria pokrývající okrajové případy, které vývojáři typicky řeší při implementaci základních funkcí.</p>
+
+<p>Na základě schválených specifikací Kiro analyzuje existující kódovou základnu a vytváří technický návrh zahrnující diagramy datových toků, definice rozhraní, databázová schémata a API koncové body. Technický návrh eliminuje dlouhé diskuse o požadavcích a poskytuje jasnou představu o architektuře systému před implementací.</p>
+
+<h2 id="hooks-pro-automatizaci-v-pozadí">Hooks pro automatizaci v pozadí</h2>
+
+<p>Hooks fungují jako automatizace spouštěné při událostech jako ukládání nebo vytváření souborů. Tyto nástroje se chovají jako zkušený vývojář zachycující věci, které vývojář přehlédne, nebo dokončují šablonové úkoly na pozadí. Podobnou funkci <a href="https://www.marigold.cz/vibecoding/claude-code/2025-07-01-claude-code-hooks/">představil nedávno také Claude Code</a>.</p>
+
+<p>Hooks dodávají automatickou kontrolu kvality bez zpomalování individuálních vývojářů:</p>
+<ul>
+  <li>Při uložení React komponenty automaticky aktualizují testovací soubory</li>
+  <li>Při úpravě API koncových bodů obnovují README dokumentaci</li>
+  <li>Před potvrzením změn kontrolují kód na úniky přihlašovacích údajů</li>
+  <li>Při vytváření nových komponent ověřují dodržování principů jako Single Responsibility Principle</li>
+</ul>
+
+<p>Hooks zajišťují konzistenci napříč celým týmem - každý těží ze stejných kontrol kvality, kódovacích standardů a bezpečnostních validací.</p>
+
+<h2 id="multimodální-rozhraní-a-rozšiřitelnost">Multimodální rozhraní a rozšiřitelnost</h2>
+
+<p>Kiro podporuje multimodální vstupy, což umožňuje vývojářům zadávat text, diagramy a různé kontextové elementy pro přesnější výsledky. Vývojáři mohou například nahrát obrázek UI designu nebo fotografii architektonické tabule a Kiro ji použije k vedení implementace.</p>
+
+<p>Prostředí podporuje Model Context Protocol (MCP) pro připojování externích nástrojů, agentský chat s kontextovými poskytovateli souborů, URL a dokumentů, a pravidla řízení pro přizpůsobení a omezení chování agentů napříč kódovou základnou.</p>
+
+<h2 id="konkurenční-prostředí-a-positioning">Konkurenční prostředí a positioning</h2>
+
+<p>Kiro vstupuje do stále více přeplněného ekosystému AI asistovaného vývoje, kde několik prominentních IDE a agentů soutěží o pozornost vývojářů. Představení přichází několik dní poté, co Google oznámil najímání zaměstnanců AI kódovacího startupu Windsurf v rámci technologické licenční dohody za 2,4 miliardy dolarů.</p>
+
+<p>Amazon podle zpráv interně zvažuje formální adopci nástroje Cursor na základě poptávky od svých vývojových týmů. Business Insider poprvé reportoval o Kiro v květnu 2025 na základě uniklých dokumentů, což naznačuje, že projekt byl v přípravě několik měsíců před oficiálním oznámením.</p>
+
+<h2 id="demo-projekt-spirit-of-kiro">Demo projekt Spirit of Kiro</h2>
+
+<p>Pro demonstraci schopností Kiro v reálném kontextu Amazon vydal kompletní demo projekt nazvaný “Spirit of Kiro” - open-source crafting hru. Projekt slouží jako praktický příklad použití Kiro během celého vývojového cyklu, přičemž více než 95% kódové základny hry bylo vygenerováno promptováním Kiro.</p>
+
+<h2 id="ceny-a-dostupnost">Ceny a dostupnost</h2>
+
+<p>Kiro je během preview období dostupné zdarma všem uživatelům včetně předplatitelů Amazon Q Developer. Po skončení preview bude k dispozici ve třech cenových tarifech:</p>
+<ul>
+  <li>Bezplatná verze s 50 agentními interakcemi měsíčně</li>
+  <li>Pro tarif za 19 dolarů na uživatele měsíčně s 1000 interakcemi</li>
+  <li>Pro+ tarif za 39 dolarů na uživatele měsíčně s 3000 interakcemi</li>
+</ul>
+
+<p>Uživatelé placených plánů budou moci nakupovat další interakce za 0,04 dolaru každou, ale fakturace za překročení musí být explicitně povolena. Agentní interakce zahrnují jakékoli přímé vyvolání Kiro agentů - jako zahájení specifikace, spuštění hook nebo odeslání chat promptu.</p>
+
+<h2 id="budoucnost-autonomního-vývoje">Budoucnost autonomního vývoje</h2>
+
+<p>Podle AWS je Kiro součástí širší vize usnadnění tvorby software připraveného pro podnikové prostředí, eliminace technického dluhu a zachování institucionálních znalostí. Název “Kiro” pochází z japonštiny a znamená “křižovatka”, což symbolizuje místo, kde se tradiční vývoj setkává s AI akcelerací.</p>
+
+<p>Nástroj reflektuje interní inženýrské praktiky Amazonu a je navržen tak, aby pomohl vývojářům škálovat od malých nápadů k robustním, produkčně připraveným systémům. Počáteční reakce komunity byly smíšené, ale vývojáři ocenili důraz na specifikace, hooks a strukturu ve srovnání s nástroji jako Claude Code a Cursor.</p>
+
+<p><strong>Shrnutí klíčových funkcí:</strong></p>
+<ul>
+  <li>Autonomní AI agenti pro komplexní vývojové úkoly na rozdíl od simple code completion</li>
+  <li>Specifikační vývoj s EARS notací pro jasné definování požadavků</li>
+  <li>Event-driven hooks pro automatizaci kontrol kvality a údržby kódu</li>
+  <li>Multimodální vstupy včetně diagramů a architektonických schémat</li>
+  <li>Model Context Protocol pro rozšíření externími nástroji</li>
+  <li>Nezávislost na AWS s vlastním brandingem a přihlašovacími možnostmi</li>
+</ul>
+
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+      <!-- Místo pro widget -->
+  <div class="posts">
+    <h3>Jak se vám líbí tento článek?</h3>
+
+    <div id="feedback-widget"></div>
+
+    <!-- Widget se vloží do #feedback-widget -->
+    <script 
+        src="https://top.marigold.cz/mg-feedback.js" 
+        data-slug="vibecoding-ostatni-2025-07-16-kiro-ide-amazon" 
+        data-title="Amazon představil vlastní autonomní vývojové AI prostředí Kiro" 
+        data-url="https://www.marigold.cz/vibecoding/ostatni/2025-07-16-kiro-ide-amazon/"
+        data-target="#feedback-widget"
+    ></script>
+</div>
+
+<!-- Místo pro widget nejčtenější články -->
+<script src="//widgets.clicky.com/poppy/?site_id=101451859&sitekey=5e093ea9431d06c7b572df6b51eda89f&width=500&height=500&date=last-28-days&type=pages&limit=10&title=Nej%C4%8Dten%C4%9Bj%C5%A1%C3%AD%20%C4%8Dl%C3%A1nky&hide_title=0&hide_branding=1" type="text/javascript"></script>
+<!-- Konec widget nejčtenější články -->
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
+                <p class="excerpt">
+                  
+                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <p class="excerpt">
+                  
+                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Amazon představil vlastní autonomní vývojové AI prostředí Kiro&url=https://www.marigold.cz/vibecoding/ostatni/2025-07-16-kiro-ide-amazon/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/vibecoding/ostatni/2025-07-16-kiro-ide-amazon/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_vibecoding/ostatni/2025-07-16-kiro-ide-amazon.md" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/">&laquo; Lovable má nový vizuální editor</a> |
+      
+      
+      
+    </div>
+    </p>
+  </div>
+</article>
+
+<!-- Toast notifikace -->
+<div class="toast" id="toast">Zkopírováno do schránky!</div>
+
+<!-- JavaScript pro funkcionalitu kopírování -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Najdi všechny code bloky (kromě Mermaid)
+    const codeBlocks = document.querySelectorAll('pre:not(:has(code.language-mermaid))');
+    
+    codeBlocks.forEach((codeBlock, index) => {
+        // Vytvoř kontejner pro code block
+        const container = document.createElement('div');
+        container.className = 'code-block-container';
+        
+        // Vytvoř tlačítko kopírovat
+        const copyButton = document.createElement('button');
+        copyButton.className = 'copy-button';
+        copyButton.textContent = 'Kopírovat';
+        copyButton.setAttribute('data-index', index);
+        
+        // Vlož code block a tlačítko do kontejneru
+        codeBlock.parentNode.insertBefore(container, codeBlock);
+        container.appendChild(copyButton);
+        container.appendChild(codeBlock);
+        
+        // Přidej event listener na tlačítko
+        copyButton.addEventListener('click', async () => {
+            try {
+                // Získej text z code bloku
+                const code = codeBlock.querySelector('code') || codeBlock;
+                const text = code.textContent;
+                
+                // Kopíruj do schránky
+                await navigator.clipboard.writeText(text);
+                
+                // Změň stav tlačítka
+                copyButton.textContent = 'Zkopírováno!';
+                copyButton.classList.add('copied');
+                
+                // Zobraz toast notifikaci
+                showToast();
+                
+                // Po 2 sekundách vrať původní stav
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+                
+            } catch (err) {
+                console.error('Chyba při kopírování:', err);
+                copyButton.textContent = 'Chyba';
+                copyButton.classList.add('copied');
+                
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+            }
+        });
+    });
+});
+
+function showToast() {
+    const toast = document.getElementById('toast');
+    toast.style.display = 'block';
+    setTimeout(() => {
+        toast.style.display = 'none';
+    }, 2000);
+}
+</script>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<!-- Twitter conversion tracking base code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    twq('config','pycs2');
+</script>
+    <!-- End Twitter conversion tracking base code -->
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
