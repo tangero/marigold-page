@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Mistral AI představil Voxtral pro přepis zvuku na text",
+      "url"      : "//item/mistral-voxtral/",
+      "category" : "AI, Mistral AI, Mistral, zpracování zvuku, STT",
+      "tags"     : "",
+      "date"     : "17.7.2025",
+      "content"  : "O francouzské společnosti Mistral AI se v poslední době mluvilo hlavně kvůli spekulacím, zda si ji nechce koupit Apple jako urychlení svého AI vývoje. To by byla pochvala pro evropský vývoj AI a zároveň rána, protože by to velký AI model dotáhlo pod křídla americké firmy. Mistral ale nově vydal Voxtral - svůj první otevřený model zaměřený na zpracování zvuku, tedy především přepisu nahrávek do textu.Model je dostupný ve dvou variantách (24B a 3B parametrů), překonává současné standardy včetně OpenAI Whisper large-v3 a ElevenLabs Scribe, přičemž jeho API stojí přibližně polovinu oproti konkurentům. Pojďme se na něj podívat podrobněji.Technické specifikace..."
+    },
+  
+    {
       "title"    : "Amazon představil vlastní autonomní vývojové AI prostředí Kiro",
       "url"      : "//item/kiro-ide-amazon/",
       "category" : "AI, Kiro, AWS, Amazon, vibecoding, automatizace",
@@ -26232,7 +26241,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Amazon představil vlastní autonomní vývojové AI prostředí Kiro (16.07.2025) 🏄‍♀️ Jak se Windsurf stal obětí války o AI talenty mezi Google a OpenAI (13.07.2025) Grok 4 má být nejchytřejší - a také nejdražší AI. Porazí MechaHitlera v sobě? (10.07.2025) Cursor 1.2..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Mistral AI představil Voxtral pro přepis zvuku na text (17.07.2025) Amazon představil vlastní autonomní vývojové AI prostředí Kiro (16.07.2025) 🏄‍♀️ Jak se Windsurf stal obětí války o AI talenty mezi Google a OpenAI (13.07.2025) Grok 4 má být nejchytřejší - a..."
     }
     
   
@@ -26252,7 +26261,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 217 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 70 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 218 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 70 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -27699,13 +27708,6 @@
         "url"      : "//vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/",
         "category" : "vibecoding",
         "content"  : "Nyní je vizuální editor v Lovable rychlejší, čistší a mnohem intuitivnější.Jak to funguje:• Klikněte na „Upravit“ ve vstupním poli• Vyberte libovolný prvek• Vizuální úpravy stylů (barva, velikost, obsah) jde naklikat ihned• Nebo jen vyzvěte: „Nechat toto tlačítko vyskakovat“Klikněte. Upravit. Hotovo.  A je to zdarma, kredity se nepoužívají."
-      }
-      
-      ,{
-        "title"    : "Amazon představil vlastní autonomní vývojové AI prostředí Kiro",
-        "url"      : "//vibecoding/ostatni/2025-07-16-kiro-ide-amazon/",
-        "category" : "vibecoding",
-        "content"  : "Amazon představil Kiro, nové vývojové prostředí založené na autonomních AI agentech, které se zaměřuje na řešení problémů současného “vibe coding” - rychlého generování kódu pomocí AI bez důkladného plánování. Nástroj se liší od stávajícího Amazon Q Developer tím, že využívá specifikační vývoj a autonomní agenty pro komplexní úkoly, čímž se dostává do přímé konkurence s populárními řešeními jako Cursor, Windsurf nebo GitHub Copilot.Kiro vypadá tak, jak byste čekali, jako mírná předělávka VS Code s doplněným chat oknem, tedy vlastně podobně, jako konkurenční Cursor a jiní…Podle CEO Amazonu Andyho Jassyho má Kiro “šanci transformovat způsob, jakým vývojáři stavějí software”. Nástroj vznikl..."
       }
       
       ,{

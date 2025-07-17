@@ -6,7 +6,7 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Thu, 17 Jul 2025 06:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 06:29:45 +0000</lastBuildDate>
     
     
     
@@ -47,27 +47,6 @@
 
           
           <p><a href="https://www.marigold.cz/item/kiro-ide-amazon/">📖 Pokračování...</a></p>
-          
-        ]]></description>
-      </item>
-    
-      
-      
-      
-      <item>
-        <title>Kiro - Amazon představil vlastní autonomní vývojové AI prostředí Kiro</title>
-        <link>https://www.marigold.cz/vibecoding/ostatni/2025-07-16-kiro-ide-amazon/</link>
-        <guid>https://www.marigold.cz/vibecoding/ostatni/2025-07-16-kiro-ide-amazon/</guid>
-        <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-        <description><![CDATA[
-          
-            <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/kiro-dev.png" alt="Amazon představil vlastní autonomní vývojové AI prostředí Kiro">
-          
-          
-            <p>Amazon představil <a href="https://kiro.dev">Kiro</a>, nové vývojové prostředí založené na autonomních AI agentech, které se zaměřuje na řešení problémů současného “vibe coding” - rychlého generování kódu pomocí AI bez důkladného plánování. Nástroj se liší od stávajícího Amazon Q Developer tím, že využívá specifikační vývoj a autonomní agenty pro komplexní úkoly, čímž se dostává do přímé konkurence s populárními řešeními jako Cursor, Windsurf nebo GitHub Copilot.</p>
-
-          
-          <p><a href="https://www.marigold.cz/vibecoding/ostatni/2025-07-16-kiro-ide-amazon/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
