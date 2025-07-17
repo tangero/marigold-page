@@ -27708,6 +27708,13 @@
         "content"  : "Amazon představil Kiro, nové vývojové prostředí založené na autonomních AI agentech, které se zaměřuje na řešení problémů současného “vibe coding” - rychlého generování kódu pomocí AI bez důkladného plánování. Nástroj se liší od stávajícího Amazon Q Developer tím, že využívá specifikační vývoj a autonomní agenty pro komplexní úkoly, čímž se dostává do přímé konkurence s populárními řešeními jako Cursor, Windsurf nebo GitHub Copilot.Kiro vypadá tak, jak byste čekali, jako mírná předělávka VS Code s doplněným chat oknem, tedy vlastně podobně, jako konkurenční Cursor a jiní…Podle CEO Amazonu Andyho Jassyho má Kiro “šanci transformovat způsob, jakým vývojáři stavějí software”. Nástroj vznikl..."
       }
       
+      ,{
+        "title"    : "Novinky v Gemini CLI a roadmapa funkcí",
+        "url"      : "//vibecoding/ostatni/2025-07-17-gemini-cli-roadmapa/",
+        "category" : "vibecoding",
+        "content"  : "Vývojový nástroj Gemini CLI má publikovanou roadmpu, takže se můžete podívat, kdy přibudou nové další funkce. A hlavně, jaké to budou. Držím palce, ať ji udrží a dodrží.Zároveň Philipp Schmid z Google DeepMind publikoval na X sumář věcí, které byly do Geminy CLI v poslední době zahrnuty. Gemini CLI jde systémem zahrnování pull requestů, které nyní přidávají jiní autoři a hodně z toho těží. Sloučil cca 150 PR od více než 75 přispěvatelů. Gemini CLI je nyní nainstalováno ve výchozím nastavení v @Firebase Studio. Zde jsou další klíčová vylepšení: Přidána podpora vkládání obrázků ze schránky pro macOS. (jaysondasher) Zavedeno systémové..."
+      }
+      
     
   
 ]
