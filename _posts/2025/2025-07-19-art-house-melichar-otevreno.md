@@ -4,6 +4,7 @@ categories:
 - Art House Melichar
 - Brandýs
 post_excerpt: "Včera jsme otevírali Art House Melichar. Je to poučné pro všechny ty  Ještě dopoledne nervozita z počasí, déšť by se nehodil. Ještě ve dvě hodiny jsem si říkal, že přijedou stěží umělci na svou vlastní vernisáž, ale rozhodně ne běžní lidé na zahájení v 16 hodin. Pak jsem si na chvilku sedl k počítači. Když jsem deset minut před čtvrtou vešel do haly Melicharovy vily, byla nacpaná k prasknutí, na prohlídku čekalo několik desítek lidí..."
+title: "🎨 Art House Melichar - Melicharova vila otevřejna pro veřejnost"
 thumbnail: https://www.marigold.cz/assets/melichar-prohlidka.jpg
 ---
 
@@ -13,7 +14,7 @@ Včera jsme otevírali [Art House Melichar](https://arthousemelichar.cz). Je to 
 
 Byl to původně praštěný nápad. Iva McGreevy se mě kdysi, ještě jako místostarosty ptala, jestli nevím o prostoru pro galerii. Řekl jsem, že se ozvu, na něčem jsme začali pracovat, ale pak jsme skončili a tohle padlo. Jenže město svůj umělecký prostor potřebuje. Takže když se ukázalo, že kraj nemá pro vilu momentálně využití, rozhodli jsme se vyzkoušet tu pop-up galerii, umělecké prostory na léto. A vilu lidem zpřístupnit. Na léto. 
 
-Melicharova vila patří mezi architektonické skvosty Brandýsa. Architektem byl Václav Roštlapil, autor Strakovy akademie nebo budovy AVU - továrník Melichar chtěl s jeho návrhem přinést do města architekturu na nejvyšší úrovni monarchie. Což se mu podařilo. Jenže si ji užil pouhých pět let...
+Melicharova vila patří mezi architektonické skvosty Brandýsa. Architektem byl [Václav Roštlapil](https://cs.wikipedia.org/wiki/Václav_Roštlapil), autor Strakovy akademie nebo budovy AVU - továrník Melichar chtěl s jeho návrhem přinést do města architekturu na nejvyšší úrovni monarchie. Což se mu podařilo. Jenže si ji užil pouhých pět let...
 
 Ani po válce, ani po pádu komunismu neměla vila jednoduchý osud. Nejdříve v ní bylo učiliště, pak střední škola, naposledy základka. Všichni se k ní chovali s ohledem na své potřeby, ale nakonec překvapivě s respektem. Na stropech jsou sice zářivky, ale přidělané tak, aby příliš nedevastovaly kazetový strop. Teď už je dva roky bez užitku a hrozí jí osud všech podobných nemovitostí. Zakrátko bude plnomocně prohlášena kulturní památkou, tím bude jakákoliv její oprava nesmírně drahá a využití komplikované. Takže se neprovede, bude chátrat a nebude k užitku - kdo by chtěl do vily v Brandýse, v níž ani nemůže přidělat na zeď ethernetový kabel bez ročního jednání s památkáři. A náš úkol je něco najít. Nenechat ji spadnout jako Sluneční lázně, Salvátorovu rezidenci nebo  Piaristickou kolej. Jak na to? To je v českém systému překvapivě těžké...
 
@@ -43,7 +44,7 @@ _Takhle dnes vypadá vila, i s koncertem_
 
 Odpoledne od čtvrtka do soboty je vila a galerie přístupná veřejnosti. 
 
-Ráno mi poslala [Zuzka Havlínová](https://fotohavlin.cz) fotografie. Podívejte se a posuďte sami... 
+Ráno mi poslala [Zuzka Havlínová](https://fotohavlin.cz) fotografie. Podívejte se a posuďte sami... A přijeďte se podívat. 
 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FFotoHavlin%2Fposts%2Fpfbid02kJzb5r6sSoqapnknf192DXezAmKqnk5ruqDzr6Gh43w5MbJ3Ngmn9BhkrePZgqP8l&show_text=true&width=500" width="500" height="727" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
