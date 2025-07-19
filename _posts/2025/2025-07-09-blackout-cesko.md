@@ -8,12 +8,24 @@ categories:
 layout: post
 post_excerpt: "Mohlo to být téměř nezaznamenané škobrtnutí přenosové sítě, kdyby spolu se severovýchodem Čech nevypadl minulý týden i kus Prahy. Toho už si všechna média všimla. Co se ve skutečnosti stalo, jak špatná je situace a jak hysterická je u nás debata o energetice?"
 thumbnail: https://www.marigold.cz/assets/spojka-energetika.jpg
-title: "Aktualizace 10.7.: ⚡️⚫️ Jaké je skutečné pozadí blackoutu v Česku?"
+title: "Aktualizace 16.7.: ⚡️⚫️ Jaké je skutečné pozadí blackoutu v Česku?"
+---
+
+ČEZ se včera (15.7.2025) vyjádřil k tomu, proč se 4.7.2025 odpojila hnědouhelná elektrárna Ledvice, což byl jeden z hlavních důvodů, proč v části Česka nešla elektřina. Podle mluvčího ČEZu v kritickou chvíli došlo ke skokovým požadavkům, kdy kotel měl přejít v krátkém sledu z 350 MW na nulu a pak rychle zpět na 150 MW, čímž se dostal mimo technická minima a ochrana kotle jej odstavila. Ledvice se podle mluvčího Kříže staly "obětí situace", když jako největší výrobce v oblasti reagovaly na prudké výkyvy parametrů sítě po přerušení vodiče. Certifikovaný rozsah šestého bloku je přechod z 600 MW na 60 MW, ne do nuly s opakovaným rychlým startem. Menší fluidní blok 4 pokračoval v regulaci v ostrovním režimu až do cca 11:59, kdy další událost v síti způsobila jeho vypnutí. ČEZ tím dokládá, že Ledvice jako celek nebyly „zdrojem“ kaskády, ale reagovaly na síťové jevy. Po výpadku byl ledvický výkon (částečně) nahrazen plynovou výrobou ČEZ v Počeradech, aby se stabilizovala lokální bilance. ([iRozhlas](https://www.irozhlas.cz/ekonomika/cesky-blackout-vysetruje-expertni-panel-evropskych-provozovatelu-siti-zprava-ma_2507150600_jaf))
+
+Tvrzení ČEZu ovšem zatím stále není podpořeno publikovanými daty. Pro vyšetřování jsou zásadní data z DCS, distribučního řídícího systému, který řídí a dohlíží na veškeré technologické uzly elektrárny (Ledvice myslím používají Siemens SPPA-T3000). V tom není potřeba hledat nic divného, data DCS bude analyzovat expertní panel a pravděpodobně se ani nikdy nepublikují, protože jejich analýza a interpretace je složitá. V každém případě bez toho, že by se nezávislí experti podívali na to, jak skutečně došlo k odstavení Ledvic, nelze brát vyjádření ČEZu za úplně směrodatné. Nastavení ochran je komplexní záležitost a zatím to stále vypadá tak, že komunikace mezi Ledvicemi a dispečinkem nefungovala optimálně a je otázkou, kde ležela prvotní příčina. Teprve díky datům z DCS se dá přijít na to, zda to byly Ledvice, kdo reagoval na zmatek v síti, zda chyba nebyla v dispečinku přenosové sítě nebo zda nereagovaly ochrany Ledvic příliš "ostře". 
+
+ČEPS vyloučil nadlimitní přetížení před poruchou i vliv přeshraničních „německých“ přetoků. Dovozy z Německa byly mírně nad plánem, ale v běžném rozmezí. Soustava s takovými hodnotami standardně pracuje. Tvrzení Andreje Babiše, že příčinou byly přetoky, je tedy nesmyslné. 
+
+V tuto chvíli panuje odborný konsensus (tj. názor lidí, co tomu rozumí): souběh několika technických poruch, nikoli jediný spouštěč. Pád vodiče V411 sám o sobě by soustavu neposlal mimo bezpečné hranice, pokud by nedošlo k téměř souběžnému výpadku Ledvice B6, následnému přetížení (a vypnutí) V208 a poruše ve větvi V401 / Krasíkov. Nyní se řeší přesné pořadí výpadků a to, jak tomu příště zabránit. 
+
 ---
 
 **Aktualizace 10.7.2025:** ČEPS měl tiskovou konferenci k výpadku. Upřesnila se časová osa, aktualizuji tu moji zde. Druhá důležitá informace: na Lince V411 byla už jedna závada vloni v listopadu. Tehdejší havárie byla opravena externí firmou (1.–3. 12. 2024). Kus lana testoval Kloknerův ústav ČVUT – parametry „vyhovující“. To znamená, že vodiče byly v pořádku, nebyly poškozeny žádným způsobem přetěžování. To jde proti verzi "můžou za to přetoky", ČEPS dnes vyloučil nadlimitní proud. Ochrany ani DTR nehlásily alarmy. Zajímavé ale je, že lano se poškodilo ve stejném úseku. V každém případě běží termovizní kontroly. Předběžná zpráva vyšetřovacího týmu výpadku (ČEPS + ERÚ + VUT Brno) má být zveřejněna do konce července 2025. Nejsou žádné indicie o tom, že by šlo o sabotáž či zásah třetí osoby. Na co se čeká? Detailní log ochrany bloku Ledvic B6 – ČEZ má dodat do půlky července. ČEPS dnes potvrdil, že bez paralelního odpojení Ledvic by se soustava nerozpadla. Primární příčina bude tedy někde v reakci ochrany Ledvic na situaci v síti, bude se zkoumat, zda situace odůvodnila reakci ochrany Ledvic. 
 
-Následují informace publikované 9.7.:
+Následují informace publikované 9.7.
+
+---
 
 Dalo by se říct, že to mohlo být téměř nezaznamenané škobrtnutí přenosové sítě, kdyby spolu se severovýchodem Čech nevypadl 4.7.2025 i kus Prahy. Toho už si všechna média všimla. Co se ve skutečnosti stalo, jak špatná je situace a jak hysterická je u nás debata o energetice?
 
