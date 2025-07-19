@@ -5,7 +5,7 @@ categories:
 - Brandýs
 post_excerpt: "Včera jsme otevírali Art House Melichar.Ještě dopoledne nervozita z počasí. Ještě ve dvě hodiny jsem si říkal, že přijedou stěží umělci na svou vlastní vernisáž. Pak jsem si na chvilku sedl k počítači. Když jsem deset minut před čtvrtou vešel do haly Melicharovy vily, byla nacpaná k prasknutí, na prohlídku čekalo několik desítek lidí..."
 title: "🎨 Art House Melichar - Melicharova vila otevřejna pro veřejnost"
-thumbnail: https://www.marigold.cz/assets/melichar-prohlidka.jpg
+thumbnail: https://www.marigold.cz/assets/arthouse-melichar-galerie.jpg
 ---
 
 Včera jsme otevírali [Art House Melichar](https://arthousemelichar.cz).  Ještě dopoledne nervozita z počasí, déšť by se nehodil. Ještě ve dvě hodiny jsem si říkal, že přijedou stěží umělci na svou vlastní vernisáž, ale rozhodně ne běžní lidé na zahájení v 16 hodin. Pak jsem si na chvilku sedl k počítači. Když jsem deset minut před čtvrtou vešel do haly Melicharovy vily, byla nacpaná k prasknutí, na prohlídku čekalo několik desítek lidí...
