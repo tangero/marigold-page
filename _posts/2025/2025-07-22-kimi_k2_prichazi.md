@@ -22,7 +22,7 @@ title: "🇨🇳 Je Kimi K2 další čínský průlom v AI?"
 
 Čínský startup Moonshot AI vydal 11. července 2025 open-source model Kimi K2, který má představovat další milník v rozvoji čínských jazykových modelů. S bilionem celkových parametrů se jedná o dosud největší veřejně dostupný open-source model, který podle testů dosahuje výkonnosti srovnatelné s komerčními řešeními od OpenAI a Anthropic.
 
-Hlavní technologický průlom tkví v optimalizátoru MuonClip. Ten jako první umožnil stabilní trénování obřího modelu MoE (mixture-of-experts) na omezených čipech Nvidia H800 bez jediného výpadku. Výsledkem je křivka ztrát, kterou výzkumníci nazývají „nejkrásnější v historii strojového učení“ [<sup>Poznámka 1</sup>][^1].
+Hlavní technologický průlom tkví v optimalizátoru MuonClip. Ten jako první umožnil stabilní trénování obřího modelu MoE (mixture-of-experts) na omezených čipech Nvidia H800 bez jediného výpadku. Výsledkem je křivka ztrát, kterou výzkumníci nazývají „nejkrásnější v historii strojového učení“ [Poznámka_1].
 
 ### Technická architektura a specifikace
 
@@ -37,7 +37,7 @@ Kimi K2 využívá architekturu Mixture-of-Experts (MoE) s celkem 384 experty, z
 | Odhadované náklady        | ~120 milionů Kč  | ~140 milionů Kč | ~2,3 miliardy Kč |
 
 
-Model přímo navazuje na open-source architekturu DeepSeek V3, kterou tým Moonshot upravil ve čtyřech klíčových bodech. Počet expertů zvýšili z původních 256 na 384 po zjištění, že scaling laws platí i pro řídkost _(sparsity)_. Současně snížili počet "hlav pozornosti" _(attention heads)_ pro kompenzaci vyššího počtu expertů. Pouze první vrstvu ponechali jako hustou _(dense)_, zatímco všechny ostatní používají MoE pro maximalizaci efektivity. Všechny experty umístili do jedné skupiny namísto rozdělení do více skupin. [<sup>Poznámka 2</sup>][^2].
+Model přímo navazuje na open-source architekturu DeepSeek V3, kterou tým Moonshot upravil ve čtyřech klíčových bodech. Počet expertů zvýšili z původních 256 na 384 po zjištění, že scaling laws platí i pro řídkost _(sparsity)_. Současně snížili počet "hlav pozornosti" _(attention heads)_ pro kompenzaci vyššího počtu expertů. Pouze první vrstvu ponechali jako hustou _(dense)_, zatímco všechny ostatní používají MoE pro maximalizaci efektivity. Všechny experty umístili do jedné skupiny namísto rozdělení do více skupin. [^Poznámka_2].
 
 ### Průlom v optimalizaci tréninku
 
@@ -119,13 +119,14 @@ Model Kimi K2 je dostupný prostřednictvím [Moonshot AI API](https://platform.
 
 Kompletní kódová základna včetně MuonClip optimizéru bude uvolněna v následujících týdnech podle oznámení vývojového týmu na platformě Zhihu.
 
----
+<hr>
+
 ### Poznámky pod čarou: 
 
-[^1]: Jde o velmi hladký, monotónně klesající graf, který zobrazuje, jak se chyba modelu (ztrátová funkce) během trénování neustále zmenšuje – bez výkyvů, stagnací či náhlých skoků. Taková dokonale pravidelná křivka je v praxi obřích jazykových modelů výjimečná; obvykle se grafy „kousají“ a trénink musí restartovat. Když se tohle nestane, působí to na výzkumníky esteticky a technicky – odtud ta nadsázka „nejkrásnější“. _(toto vysvětlení pro vás napsal Kimi K2 a vysvětlil mi, jak dát poznámku pod čarou v markdown formátování)_
+[^Poznámka_1]: Jde o velmi hladký, monotónně klesající graf, který zobrazuje, jak se chyba modelu (ztrátová funkce) během trénování neustále zmenšuje – bez výkyvů, stagnací či náhlých skoků. Taková dokonale pravidelná křivka je v praxi obřích jazykových modelů výjimečná; obvykle se grafy „kousají“ a trénink musí restartovat. Když se tohle nestane, působí to na výzkumníky esteticky a technicky – odtud ta nadsázka „nejkrásnější“. _(toto vysvětlení pro vás napsal Kimi K2 a vysvětlil mi, jak dát poznámku pod čarou v markdown formátování)_
 
 
-[^2]: Termín attention heads (česky „hlavy pozornosti“) pochází z mechanismu self-attention, který je klíčovou součástí architektury transofmátorů, na níž jsou postaveny dnešní jazykové modely jako Kimi K2, GPT nebo DeepSeek. Jedna attention head je samostatná výpočetní větev v mechanismu self-attention, která:
+[^Poznámka_2]: Termín attention heads (česky „hlavy pozornosti“) pochází z mechanismu self-attention, který je klíčovou součástí architektury transofmátorů, na níž jsou postaveny dnešní jazykové modely jako Kimi K2, GPT nebo DeepSeek. Jedna attention head je samostatná výpočetní větev v mechanismu self-attention, která:
  - analyzuje vztahy mezi všemi tokeny v sekvenci (např. slovy ve větě),
  - má vlastní váhy (matice pro klíče, dotazy, hodnoty: Q, K, V),
  - se zaměřuje (attention) na jiné aspekty vstupu než ostatní hlavy.
