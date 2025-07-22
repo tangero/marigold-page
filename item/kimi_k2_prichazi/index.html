@@ -365,7 +365,7 @@
 
 <p>Čínský startup Moonshot AI vydal 11. července 2025 open-source model Kimi K2, který má představovat další milník v rozvoji čínských jazykových modelů. S bilionem celkových parametrů se jedná o dosud největší veřejně dostupný open-source model, který podle testů dosahuje výkonnosti srovnatelné s komerčními řešeními od OpenAI a Anthropic.</p>
 
-<p>Hlavní technologický průlom tkví v optimalizátoru MuonClip. Ten jako první umožnil stabilní trénování obřího modelu MoE (mixture-of-experts) na omezených čipech Nvidia H800 bez jediného výpadku. Výsledkem je křivka ztrát, kterou výzkumníci nazývají „nejkrásnější v historii strojového učení“ [Poznámka_1].</p>
+<p>Hlavní technologický průlom tkví v optimalizátoru MuonClip. Ten jako první umožnil stabilní trénování obřího modelu MoE (mixture-of-experts) na omezených čipech Nvidia H800 bez jediného výpadku. Výsledkem je křivka ztrát, kterou výzkumníci nazývají „nejkrásnější v historii strojového učení“ Pozn:<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>.</p>
 
 <h3 id="technická-architektura-a-specifikace">Technická architektura a specifikace</h3>
 
@@ -414,7 +414,7 @@
   </tbody>
 </table>
 
-<p>Model přímo navazuje na open-source architekturu DeepSeek V3, kterou tým Moonshot upravil ve čtyřech klíčových bodech. Počet expertů zvýšili z původních 256 na 384 po zjištění, že scaling laws platí i pro řídkost <em>(sparsity)</em>. Současně snížili počet “hlav pozornosti” <em>(attention heads)</em> pro kompenzaci vyššího počtu expertů. Pouze první vrstvu ponechali jako hustou <em>(dense)</em>, zatímco všechny ostatní používají MoE pro maximalizaci efektivity. Všechny experty umístili do jedné skupiny namísto rozdělení do více skupin. [^Poznámka_2].</p>
+<p>Model přímo navazuje na open-source architekturu DeepSeek V3, kterou tým Moonshot upravil ve čtyřech klíčových bodech. Počet expertů zvýšili z původních 256 na 384 po zjištění, že scaling laws platí i pro řídkost <em>(sparsity)</em>. Současně snížili počet “hlav pozornosti” <em>(attention heads)</em> pro kompenzaci vyššího počtu expertů. Pouze první vrstvu ponechali jako hustou <em>(dense)</em>, zatímco všechny ostatní používají MoE pro maximalizaci efektivity. Všechny experty umístili do jedné skupiny namísto rozdělení do více skupin. Pozn:<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">2</a></sup>.</p>
 
 <h3 id="průlom-v-optimalizaci-tréninku">Průlom v optimalizaci tréninku</h3>
 
@@ -510,6 +510,16 @@
 </ul>
 
 <p>V klasické architektuře transfomátorů (např. BERT, GPT-2) je běžné mít 12–96 attention heads, podle velikosti modelu.</p>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Jde o velmi hladký, monotónně klesající graf, který zobrazuje, jak se chyba modelu (ztrátová funkce) během trénování neustále zmenšuje – bez výkyvů, stagnací či náhlých skoků. Taková dokonale pravidelná křivka je v praxi obřích jazykových modelů výjimečná; obvykle se grafy „kousají“ a trénink musí restartovat. Když se tohle nestane, působí to na výzkumníky esteticky a technicky – odtud ta nadsázka „nejkrásnější“. <em>(toto vysvětlení pro vás napsal Kimi K2 a vysvětlil mi, jak dát poznámku pod čarou v markdown formátování)</em> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>Termín attention heads (česky „hlavy pozornosti“) pochází z mechanismu self-attention, který je klíčovou součástí architektury transofmátorů, na níž jsou postaveny dnešní jazykové modely jako Kimi K2, GPT nebo DeepSeek. Jedna attention head je samostatná výpočetní větev v mechanismu self-attention, která: <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
   </div>
 
@@ -556,12 +566,10 @@
           
             <tr>
               <td>
-                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
                 <p class="excerpt">
                   
-                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí.
-
-Poznatek první: umělá inteli...
+                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
                   
                 </p>
               </td>
@@ -569,10 +577,10 @@ Poznatek první: umělá inteli...
           
             <tr>
               <td>
-                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
+                <a href="/item/facebook-meta-metaversum/">👉Facebook je nově Meta a staví Metaversum</a>
                 <p class="excerpt">
                   
-                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
+                    Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. A hned si řekneme, proč je to důležité. Jen pro jistotu přip...
                   
                 </p>
               </td>
