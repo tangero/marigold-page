@@ -100,26 +100,8 @@
 </script>
 <!-- end fMermaid run code --> 
 
-<script>
-  // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
-  const showFeedwind = Math.random() < 0.5;
-  document.addEventListener('DOMContentLoaded', function() {
-    const container = document.getElementById('feedwind-or-image');
-    if (!container) return;
-    if (showFeedwind) {
-      // Dynamicky vlož feedwind script
-      const fwScript = document.createElement('script');
-      fwScript.type = 'text/javascript';
-      fwScript.src = 'https://feed.mikle.com/js/fw-loader.js';
-      fwScript.setAttribute('preloader-text', 'Nahrávám');
-      fwScript.setAttribute('data-fw-param', '168257/');
-      container.appendChild(fwScript);
-    } else {
-      // Obrázek s nevyplněnou URL
-      container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
-    }
-  });
-</script>
+<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>
+
 <!-- místo původního feedwind code -->
 
 
@@ -409,12 +391,10 @@ Když už jsme u těch přípojek, do <a href="/adsl">přehledu ADSL</a> na Mari
           
             <tr>
               <td>
-                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
+                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
                 <p class="excerpt">
                   
-                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
-
-Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
+                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
                   
                 </p>
               </td>
@@ -422,10 +402,10 @@ Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
                   
                 </p>
               </td>

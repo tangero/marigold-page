@@ -99,26 +99,8 @@
 </script>
 <!-- end fMermaid run code --> 
 
-<script>
-  // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
-  const showFeedwind = Math.random() < 0.5;
-  document.addEventListener('DOMContentLoaded', function() {
-    const container = document.getElementById('feedwind-or-image');
-    if (!container) return;
-    if (showFeedwind) {
-      // Dynamicky vlož feedwind script
-      const fwScript = document.createElement('script');
-      fwScript.type = 'text/javascript';
-      fwScript.src = 'https://feed.mikle.com/js/fw-loader.js';
-      fwScript.setAttribute('preloader-text', 'Nahrávám');
-      fwScript.setAttribute('data-fw-param', '168257/');
-      container.appendChild(fwScript);
-    } else {
-      // Obrázek s nevyplněnou URL
-      container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
-    }
-  });
-</script>
+<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>
+
 <!-- místo původního feedwind code -->
 
 
@@ -415,10 +397,10 @@
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/jak-jsem-napsal-vlastni-zakon/">👉Jak jsem napsal vlastní zákon</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, kdy...
                   
                 </p>
               </td>
@@ -426,12 +408,10 @@
           
             <tr>
               <td>
-                <a href="/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/">👉Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin</a>
+                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
                 <p class="excerpt">
                   
-                    Řekl jsem si, že by mohlo být zajímavé v praxi ukázat, jak použít AI pro práci. Začneme psaním, to je moje přirozené prostředí. 
-
-Poznatek první: umělá intel...
+                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
                   
                 </p>
               </td>

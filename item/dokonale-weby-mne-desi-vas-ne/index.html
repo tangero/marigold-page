@@ -100,26 +100,8 @@ Radek Hulán updatoval systém i vzhled pro Marigolda a ihned jsem dostal řadu 
 </script>
 <!-- end fMermaid run code --> 
 
-<script>
-  // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
-  const showFeedwind = Math.random() < 0.5;
-  document.addEventListener('DOMContentLoaded', function() {
-    const container = document.getElementById('feedwind-or-image');
-    if (!container) return;
-    if (showFeedwind) {
-      // Dynamicky vlož feedwind script
-      const fwScript = document.createElement('script');
-      fwScript.type = 'text/javascript';
-      fwScript.src = 'https://feed.mikle.com/js/fw-loader.js';
-      fwScript.setAttribute('preloader-text', 'Nahrávám');
-      fwScript.setAttribute('data-fw-param', '168257/');
-      container.appendChild(fwScript);
-    } else {
-      // Obrázek s nevyplněnou URL
-      container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
-    }
-  });
-</script>
+<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>
+
 <!-- místo původního feedwind code -->
 
 
@@ -428,10 +410,10 @@ Mnohem více mne uklidní web, kde jasně vidím, že účel světí prostředky
           
             <tr>
               <td>
-                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
+                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
                 <p class="excerpt">
                   
-                    Minule jsme si řekli, [jak pomocí umělé inteligence psát lepší články, zprávy a texty](/item/jak-psat-clanky-s-pomoci-umele-inteligence-ai/). AI změnila ješt...
+                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
                   
                 </p>
               </td>
@@ -439,10 +421,10 @@ Mnohem více mne uklidní web, kde jasně vidím, že účel světí prostředky
           
             <tr>
               <td>
-                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
+                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
                 <p class="excerpt">
                   
-                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
+                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
                   
                 </p>
               </td>
