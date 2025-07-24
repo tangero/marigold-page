@@ -20,6 +20,7 @@ summary_points:
 - Google rozšířil AI Mode o Deep Search a AI telefonování do obchodů
 - Decart představil MirageLSD, první model pro real-time transformaci video streamů
 title: "Novinky AI v červenci 2025 - ChatGPT Agent, Voxtral a real-time video modely mění herní pravidla"
+thumbnail: https://www.marigold.cz/assets/ai-novinky-thumbnail.png
 ---
 
 Překotné uvádění novinek v oblasti AI a návazných oblastech, jako je robotika, pokračuje.  OpenAI sjednotil své nástroje do ChatGPT Agent, Mistral AI vydal první open-source model pro porozumění řeči a Decart ukázal slušný průlom v real-time video zpracování. Pojďme se podívat na novinky poslední doby. 
