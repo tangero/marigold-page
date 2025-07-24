@@ -99,8 +99,29 @@
 </script>
 <!-- end fMermaid run code --> 
 
-<!-- start feedwind code --> 
-<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+<script>
+  // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
+  const showFeedwind = Math.random() < 0.5;
+  document.addEventListener('DOMContentLoaded', function() {
+    const container = document.createElement('div');
+    container.id = 'random-feedwind-or-image';
+    const target = document.currentScript;
+    if (showFeedwind) {
+      // Dynamicky vlož feedwind script
+      const fwScript = document.createElement('script');
+      fwScript.type = 'text/javascript';
+      fwScript.src = 'https://feed.mikle.com/js/fw-loader.js';
+      fwScript.setAttribute('preloader-text', 'Nahrávám');
+      fwScript.setAttribute('data-fw-param', '168257/');
+      container.appendChild(fwScript);
+    } else {
+      // Obrázek s nevyplněnou URL
+      container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
+    }
+    target.parentNode.insertBefore(container, target.nextSibling);
+  });
+</script>
+<!-- místo původního feedwind code -->
 
 
 <style>
@@ -379,10 +400,10 @@ březen
           
             <tr>
               <td>
-                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
+                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
                 <p class="excerpt">
                   
-                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
+                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
                   
                 </p>
               </td>
@@ -390,10 +411,10 @@ březen
           
             <tr>
               <td>
-                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
+                <a href="/item/sledovaci-kapitalismus/">👉Sledovací kapitalismus</a>
                 <p class="excerpt">
                   
-                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
+                    Liberální kapitalismus má jedno kouzlo: každý si v něm může dělat, co chce, pokud tím neomezuje někoho jiného a na tomto pravidle se snaží s drobnými korekce...
                   
                 </p>
               </td>

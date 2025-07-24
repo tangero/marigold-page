@@ -100,8 +100,29 @@ Cinetik se nám rozrostl a původní prostory přestaly vyhovovat, neboť jsou s
 </script>
 <!-- end fMermaid run code --> 
 
-<!-- start feedwind code --> 
-<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+<script>
+  // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
+  const showFeedwind = Math.random() < 0.5;
+  document.addEventListener('DOMContentLoaded', function() {
+    const container = document.createElement('div');
+    container.id = 'random-feedwind-or-image';
+    const target = document.currentScript;
+    if (showFeedwind) {
+      // Dynamicky vlož feedwind script
+      const fwScript = document.createElement('script');
+      fwScript.type = 'text/javascript';
+      fwScript.src = 'https://feed.mikle.com/js/fw-loader.js';
+      fwScript.setAttribute('preloader-text', 'Nahrávám');
+      fwScript.setAttribute('data-fw-param', '168257/');
+      container.appendChild(fwScript);
+    } else {
+      // Obrázek s nevyplněnou URL
+      container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
+    }
+    target.parentNode.insertBefore(container, target.nextSibling);
+  });
+</script>
+<!-- místo původního feedwind code -->
 
 
 <style>
@@ -390,10 +411,10 @@ Naštěstí se ukázalo, že ke garážím vede pouze uježděná polňačka a m
           
             <tr>
               <td>
-                <a href="/item/facebook-meta-metaversum/">👉Facebook je nově Meta a staví Metaversum</a>
+                <a href="/item/pribeh_olova_v_benzinu/">👉Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci</a>
                 <p class="excerpt">
                   
-                    Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. A hned si řekneme, proč je to důležité. Jen pro jistotu přip...
+                    Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. ...
                   
                 </p>
               </td>
@@ -401,10 +422,10 @@ Naštěstí se ukázalo, že ke garážím vede pouze uježděná polňačka a m
           
             <tr>
               <td>
-                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>

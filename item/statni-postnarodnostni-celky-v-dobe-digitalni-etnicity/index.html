@@ -99,8 +99,29 @@
 </script>
 <!-- end fMermaid run code --> 
 
-<!-- start feedwind code --> 
-<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+<script>
+  // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
+  const showFeedwind = Math.random() < 0.5;
+  document.addEventListener('DOMContentLoaded', function() {
+    const container = document.createElement('div');
+    container.id = 'random-feedwind-or-image';
+    const target = document.currentScript;
+    if (showFeedwind) {
+      // Dynamicky vlož feedwind script
+      const fwScript = document.createElement('script');
+      fwScript.type = 'text/javascript';
+      fwScript.src = 'https://feed.mikle.com/js/fw-loader.js';
+      fwScript.setAttribute('preloader-text', 'Nahrávám');
+      fwScript.setAttribute('data-fw-param', '168257/');
+      container.appendChild(fwScript);
+    } else {
+      // Obrázek s nevyplněnou URL
+      container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
+    }
+    target.parentNode.insertBefore(container, target.nextSibling);
+  });
+</script>
+<!-- místo původního feedwind code -->
 
 
 <style>
@@ -491,10 +512,10 @@ Sklouzl na ni očima “To je přeci nelegální.”
           
             <tr>
               <td>
-                <a href="/item/projektovy-manazer-je-v-cesku-sproste-slovo-ke-skode-projektu/">👉Projektový manažer je v Česku sprosté slovo – ke škodě projektů …</a>
+                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
                 <p class="excerpt">
                   
-                    Na Makers Faire jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější ...
+                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
                   
                 </p>
               </td>
@@ -502,10 +523,10 @@ Sklouzl na ni očima “To je přeci nelegální.”
           
             <tr>
               <td>
-                <a href="/item/kde-se-vzaly-dva-miliony-volicu-milose-zemana/">👉Kde se vzaly dva miliony voličů Miloše Zemana</a>
+                <a href="/item/projektovy-manazer-je-v-cesku-sproste-slovo-ke-skode-projektu/">👉Projektový manažer je v Česku sprosté slovo – ke škodě projektů …</a>
                 <p class="excerpt">
                   
-                    Kde se vzaly ty dva miliony lidí, kteří dali hlas Miloši Zemanovi? Otázka v mojí bublině i v médiích, na kterou přicházejí hodně zjednodušené odpovědi. Je to...
+                    Na Makers Faire jsem byl v panelu o nových projektech. Nechtělo se mi mluvit reklamně o Turrisu v rámci panelu nových projektů. Řekl jsem si, že užitečnější ...
                   
                 </p>
               </td>

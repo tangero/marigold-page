@@ -99,8 +99,29 @@
 </script>
 <!-- end fMermaid run code --> 
 
-<!-- start feedwind code --> 
-<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+<script>
+  // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
+  const showFeedwind = Math.random() < 0.5;
+  document.addEventListener('DOMContentLoaded', function() {
+    const container = document.createElement('div');
+    container.id = 'random-feedwind-or-image';
+    const target = document.currentScript;
+    if (showFeedwind) {
+      // Dynamicky vlož feedwind script
+      const fwScript = document.createElement('script');
+      fwScript.type = 'text/javascript';
+      fwScript.src = 'https://feed.mikle.com/js/fw-loader.js';
+      fwScript.setAttribute('preloader-text', 'Nahrávám');
+      fwScript.setAttribute('data-fw-param', '168257/');
+      container.appendChild(fwScript);
+    } else {
+      // Obrázek s nevyplněnou URL
+      container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
+    }
+    target.parentNode.insertBefore(container, target.nextSibling);
+  });
+</script>
+<!-- místo původního feedwind code -->
 
 
 <style>
@@ -283,31 +304,31 @@
           
             
               <tr>
-                <td>Jaroslava Bičovská</td>
-                <td><a href="/obrazy/jaroslava-bicovska-nebe-nad-brandysem/">Nebe nad Brandýsem</a></td>
+                <td>Lubomír Typlt</td>
+                <td><a href="/obrazy/lubomir-typlt-ritual/">Rituál</a></td>
                 <td>
                   
-                    <a href="/obrazy/jaroslava-bicovska-nebe-nad-brandysem/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/jaroslava-bicovska-nebe-nad-brandysem.jpg" alt="Jaroslava Bičovská - Nebe nad Brandýsem (2017)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/lubomir-typlt-ritual/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/lubomir-typlt-ritual.jpg" alt="Lubomír Typlt - Rituál" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Henri Matisse</td>
-                <td><a href="/obrazy/henri-matisse-papousci-tulipany/">Papouščí tulipány</a></td>
+                <td>Jeffrey Cheung</td>
+                <td><a href="/obrazy/jeffrey-cheung-tangle/">Tangle (Propletení)</a></td>
                 <td>
                   
-                    <a href="/obrazy/henri-matisse-papousci-tulipany/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Henri-matisse-papousci-tulipany.jpeg" alt="Henri Matisse - Papouščí tulipány" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/jeffrey-cheung-tangle/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Charlotte_Keates_The_house_shelters_daydreaming.jpg" alt="Jeffrey Cheung - Tangle (2019)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>André Fougeron</td>
-                <td><a href="/obrazy/Andre-Fougeron-Atlanticka-civilizace/">Atlantická civilizace</a></td>
+                <td>Naděžda Udalcová</td>
+                <td><a href="/obrazy/nadezda-udalcova-kuchyne/">Kuchyně</a></td>
                 <td>
                   
-                    <a href="/obrazy/Andre-Fougeron-Atlanticka-civilizace/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/IMG_8555.jpeg" alt="André Fougeron - Atlantická civilizace" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/nadezda-udalcova-kuchyne/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/IMG_7722.jpeg" alt="Naděžda Udalcová - Kuchyně" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -353,10 +374,10 @@
           
             <tr>
               <td>
-                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan</a>
+                <a href="/item/pribeh_olova_v_benzinu/">👉Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci</a>
                 <p class="excerpt">
                   
-                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
+                    Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. ...
                   
                 </p>
               </td>
@@ -364,10 +385,10 @@
           
             <tr>
               <td>
-                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
+                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan</a>
                 <p class="excerpt">
                   
-                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
+                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
                   
                 </p>
               </td>

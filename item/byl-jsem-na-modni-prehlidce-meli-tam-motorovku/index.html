@@ -100,8 +100,29 @@ Dita už nějakou dobu varovala, že dostala pozvánku na módní přehlídku a 
 </script>
 <!-- end fMermaid run code --> 
 
-<!-- start feedwind code --> 
-<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+<script>
+  // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
+  const showFeedwind = Math.random() < 0.5;
+  document.addEventListener('DOMContentLoaded', function() {
+    const container = document.createElement('div');
+    container.id = 'random-feedwind-or-image';
+    const target = document.currentScript;
+    if (showFeedwind) {
+      // Dynamicky vlož feedwind script
+      const fwScript = document.createElement('script');
+      fwScript.type = 'text/javascript';
+      fwScript.src = 'https://feed.mikle.com/js/fw-loader.js';
+      fwScript.setAttribute('preloader-text', 'Nahrávám');
+      fwScript.setAttribute('data-fw-param', '168257/');
+      container.appendChild(fwScript);
+    } else {
+      // Obrázek s nevyplněnou URL
+      container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
+    }
+    target.parentNode.insertBefore(container, target.nextSibling);
+  });
+</script>
+<!-- místo původního feedwind code -->
 
 
 <style>
@@ -402,10 +423,10 @@ Nene, nestanu se kritikem moderních módních směrů, zůstanu u telekomunikac
           
             <tr>
               <td>
-                <a href="/item/facebook-meta-metaversum/">👉Facebook je nově Meta a staví Metaversum</a>
+                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
                 <p class="excerpt">
                   
-                    Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. A hned si řekneme, proč je to důležité. Jen pro jistotu přip...
+                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
                   
                 </p>
               </td>
@@ -413,10 +434,10 @@ Nene, nestanu se kritikem moderních módních směrů, zůstanu u telekomunikac
           
             <tr>
               <td>
-                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
                 <p class="excerpt">
                   
-                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don't restrict anyone else, and it is on this rule that the modern wo...
                   
                 </p>
               </td>

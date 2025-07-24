@@ -99,8 +99,29 @@
 </script>
 <!-- end fMermaid run code --> 
 
-<!-- start feedwind code --> 
-<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+<script>
+  // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
+  const showFeedwind = Math.random() < 0.5;
+  document.addEventListener('DOMContentLoaded', function() {
+    const container = document.createElement('div');
+    container.id = 'random-feedwind-or-image';
+    const target = document.currentScript;
+    if (showFeedwind) {
+      // Dynamicky vlož feedwind script
+      const fwScript = document.createElement('script');
+      fwScript.type = 'text/javascript';
+      fwScript.src = 'https://feed.mikle.com/js/fw-loader.js';
+      fwScript.setAttribute('preloader-text', 'Nahrávám');
+      fwScript.setAttribute('data-fw-param', '168257/');
+      container.appendChild(fwScript);
+    } else {
+      // Obrázek s nevyplněnou URL
+      container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
+    }
+    target.parentNode.insertBefore(container, target.nextSibling);
+  });
+</script>
+<!-- místo původního feedwind code -->
 
 
 <style>
@@ -260,31 +281,31 @@
           
             
               <tr>
-                <td>Michael Rittstein</td>
-                <td><a href="/obrazy/Michael-Rittstein-Cesani-hub/">Česání hub</a></td>
+                <td>Adolf Lachman</td>
+                <td><a href="/obrazy/adolf-lachman-ryba-pila/">Ryba a Pila</a></td>
                 <td>
                   
-                    <a href="/obrazy/Michael-Rittstein-Cesani-hub/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/michael-rittstein-cesani-hub.jpeg" alt="Michael Rittstein - Česání hub" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/adolf-lachman-ryba-pila/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/adolf-lachman-ryba.jpeg" alt="Adolf Lachman - Ryba a Pila" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Friedensreich Hundertwasser</td>
-                <td><a href="/obrazy/hundertwasser-hommage-au-tachisme/">Hommage au Tachisme</a></td>
+                <td>Miloš Englberth</td>
+                <td><a href="/obrazy/milos-englberth-happy-birthday/">Happy Birthday</a></td>
                 <td>
                   
-                    <a href="/obrazy/hundertwasser-hommage-au-tachisme/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hundertwasser-hommage.jpeg" alt="Friedensreich Hundertwasser - Hommage au Tachisme (1961)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/milos-englberth-happy-birthday/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/milos-englberth-happy-birthday.jpg" alt="Miloš Englberth - Happy Birthday (2024)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Otakar Kubín</td>
-                <td><a href="/obrazy/otakar-kubin-music-hall-bobino/">Music Hall Bobino</a></td>
+                <td>Matthew Wong</td>
+                <td><a href="/obrazy/matthew-wong-the-kingdom/">The Kingdom</a></td>
                 <td>
                   
-                    <a href="/obrazy/otakar-kubin-music-hall-bobino/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/otakar-kubin-music-hall-bobino.jpg" alt="Otakar Kubín - Music Hall Bobino (1910)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/matthew-wong-the-kingdom/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/matthew-wong-the-kingdom-2017.jpg" alt="Matthew Wong - The Kingdom (2017)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -330,10 +351,10 @@
           
             <tr>
               <td>
-                <a href="/item/proc-je-bydleni-drahe-protoze-nezlevnilo-ze-ano/">👉Proč je bydlení drahé? Protože nezlevnilo, že ano…</a>
+                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
                 <p class="excerpt">
                   
-                    Hodně se v poslední době mluví o drahých bytech a výstavbě. Studiem na vysoké škole života zjistíte, že by stačilo je zlevnit a bude po problému. Ale pojďme ...
+                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  Zásady pro výstavbu ve městě, které stanoví rámec spolupráce s developery. Zásady se nevztahují n...
                   
                 </p>
               </td>
@@ -341,10 +362,10 @@
           
             <tr>
               <td>
-                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
+                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
                 <p class="excerpt">
                   
-                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
+                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
                   
                 </p>
               </td>

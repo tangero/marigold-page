@@ -99,8 +99,29 @@
 </script>
 <!-- end fMermaid run code --> 
 
-<!-- start feedwind code --> 
-<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Nahr%C3%A1v%C3%A1m" data-fw-param="168257/"></script> <!-- end feedwind code -->
+<script>
+  // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
+  const showFeedwind = Math.random() < 0.5;
+  document.addEventListener('DOMContentLoaded', function() {
+    const container = document.createElement('div');
+    container.id = 'random-feedwind-or-image';
+    const target = document.currentScript;
+    if (showFeedwind) {
+      // Dynamicky vlož feedwind script
+      const fwScript = document.createElement('script');
+      fwScript.type = 'text/javascript';
+      fwScript.src = 'https://feed.mikle.com/js/fw-loader.js';
+      fwScript.setAttribute('preloader-text', 'Nahrávám');
+      fwScript.setAttribute('data-fw-param', '168257/');
+      container.appendChild(fwScript);
+    } else {
+      // Obrázek s nevyplněnou URL
+      container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
+    }
+    target.parentNode.insertBefore(container, target.nextSibling);
+  });
+</script>
+<!-- místo původního feedwind code -->
 
 
 <style>
@@ -263,31 +284,31 @@
           
             
               <tr>
-                <td>Matthew Wong</td>
-                <td><a href="/obrazy/matthew-wong-the-kingdom/">The Kingdom</a></td>
+                <td>Charlotte Keates</td>
+                <td><a href="/obrazy/charlotte-keates-dum-ukryva-sneni/">Dům ukrývá snění</a></td>
                 <td>
                   
-                    <a href="/obrazy/matthew-wong-the-kingdom/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/matthew-wong-the-kingdom-2017.jpg" alt="Matthew Wong - The Kingdom (2017)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/charlotte-keates-dum-ukryva-sneni/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Charlotte_Keates_The_house_shelters_daydreaming.jpg" alt="Charlotte Keates - Dům ukrývá snění (2023)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Jiří Anderle</td>
-                <td><a href="/obrazy/jiri-anderle-space-and-time/">Space and Time</a></td>
+                <td>Joan Miró</td>
+                <td><a href="/obrazy/joan-miro-mont-roig-del-camp/">Mont-roig del Camp</a></td>
                 <td>
                   
-                    <a href="/obrazy/jiri-anderle-space-and-time/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Anderle-jiri-space-and-time.jpg" alt="Jiří Anderle - Space and Time" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/joan-miro-mont-roig-del-camp/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/joan-miro-Mont-roig-del-Camp.jpeg" alt="Joan Miró - Mont-roig del Camp" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Lubomír Typlt</td>
-                <td><a href="/obrazy/lubomir-typlt-ritual/">Rituál</a></td>
+                <td>Jaroslava Bičovská</td>
+                <td><a href="/obrazy/jaroslava-bicovska-nebe-nad-brandysem/">Nebe nad Brandýsem</a></td>
                 <td>
                   
-                    <a href="/obrazy/lubomir-typlt-ritual/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/lubomir-typlt-ritual.jpg" alt="Lubomír Typlt - Rituál" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/jaroslava-bicovska-nebe-nad-brandysem/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/jaroslava-bicovska-nebe-nad-brandysem.jpg" alt="Jaroslava Bičovská - Nebe nad Brandýsem (2017)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -333,12 +354,10 @@
           
             <tr>
               <td>
-                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
+                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
                 <p class="excerpt">
                   
-                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
-
-Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
+                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
                   
                 </p>
               </td>
@@ -346,10 +365,10 @@ Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
           
             <tr>
               <td>
-                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
+                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
                 <p class="excerpt">
                   
-                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
+                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
                   
                 </p>
               </td>
