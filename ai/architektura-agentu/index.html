@@ -103,9 +103,8 @@
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -118,7 +117,6 @@
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -503,10 +501,10 @@ LLMCall --&gt; Stop
           
             <tr>
               <td>
-                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
+                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
                 <p class="excerpt">
                   
-                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
+                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
                   
                 </p>
               </td>
@@ -514,10 +512,10 @@ LLMCall --&gt; Stop
           
             <tr>
               <td>
-                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>

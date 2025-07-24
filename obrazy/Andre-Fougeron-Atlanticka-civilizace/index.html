@@ -103,9 +103,8 @@
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -118,7 +117,6 @@
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -292,31 +290,31 @@
           
             
               <tr>
-                <td>Otto Placht</td>
-                <td><a href="/obrazy/otto-placht-peru-rail/">Peru Rail</a></td>
+                <td>Jiří Anderle</td>
+                <td><a href="/obrazy/jiri-anderle-space-and-time/">Space and Time</a></td>
                 <td>
                   
-                    <a href="/obrazy/otto-placht-peru-rail/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/otto-placht-peru-rail-2020.jpg" alt="Otto Placht - Peru Rail (2020)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/jiri-anderle-space-and-time/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Anderle-jiri-space-and-time.jpg" alt="Jiří Anderle - Space and Time" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Vasilij Kandinský</td>
-                <td><a href="/obrazy/vasilij-kandinsky-milieu-jaune/">Milieu jaune</a></td>
+                <td>Charlotte Keates</td>
+                <td><a href="/obrazy/charlotte-keates-dum-ukryva-sneni/">Dům ukrývá snění</a></td>
                 <td>
                   
-                    <a href="/obrazy/vasilij-kandinsky-milieu-jaune/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/vasilij-kandinsky-milieu-jaune.jpg" alt="Vasilij Kandinský - Milieu jaune " style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/charlotte-keates-dum-ukryva-sneni/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Charlotte_Keates_The_house_shelters_daydreaming.jpg" alt="Charlotte Keates - Dům ukrývá snění (2023)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
             
               <tr>
-                <td>Josef Istler</td>
-                <td><a href="/obrazy/josef-istler-nadro/">Ňadro / Figura</a></td>
+                <td>Ferrari Sheppard</td>
+                <td><a href="/obrazy/ferrari-sheppard-my-name-is-sarah/">Jméno mé je Sarah</a></td>
                 <td>
                   
-                    <a href="/obrazy/josef-istler-nadro/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Josef-Istler-nadro-figura-1953.jpg" alt="Josef Istler - Nadro / Figura (1953)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/ferrari-sheppard-my-name-is-sarah/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/ferrari-sheppard-My-Name-is-Sarah.jpg" alt="Ferrari Sheppard - Jméno mé je Sarah" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -362,10 +360,10 @@
           
             <tr>
               <td>
-                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
+                <a href="/item/technologicka-revoluce-ve-volnobehu/">👉Technologická revoluce ve volnoběhu</a>
                 <p class="excerpt">
                   
-                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
+                    Víte, kdy vznikly poslední skutečné primární vynálezy? Takové ty vynálezy, co změnily svůj obor a jsou základem dalšího odvětví? Řekli bychom, že vznikají ka...
                   
                 </p>
               </td>
@@ -373,10 +371,10 @@
           
             <tr>
               <td>
-                <a href="/item/strategie_levne_bytove_vystavby/">👉Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat</a>
+                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
                 <p class="excerpt">
                   
-                    Často mi píšete, že vás zajímají praktické politické problémy, takže dnes se podíváme na další důležité téma. Je jím cena bydlení. A co můžeme udělat proto, ...
+                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
                   
                 </p>
               </td>

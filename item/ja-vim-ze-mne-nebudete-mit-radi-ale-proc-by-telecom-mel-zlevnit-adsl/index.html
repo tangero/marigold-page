@@ -108,9 +108,8 @@ A tady přichází ta otázka: proč by měl Telecom snížit cenu služby, kter
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -123,7 +122,6 @@ A tady přichází ta otázka: proč by měl Telecom snížit cenu služby, kter
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -421,10 +419,10 @@ Osobně věřím tomu, že na přelomu letošního roku bude ADSL mnohem atrakti
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/vase-deti-a-nase-skolstvi-oboji-bez-budoucnosti/">👉Vaše děti a naše školství -  obojí bez budoucnosti</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Smiřte se s tím, že vaše děti jsou tvorové bez budoucnosti. Leda byste byli připraveni vyklopit pět až deset tisíc měsíčně. Takhle naplacato a natvrdo řečeno...
                   
                 </p>
               </td>
@@ -432,10 +430,10 @@ Osobně věřím tomu, že na přelomu letošního roku bude ADSL mnohem atrakti
           
             <tr>
               <td>
-                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
                 <p class="excerpt">
                   
-                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahu...
                   
                 </p>
               </td>

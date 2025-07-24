@@ -104,9 +104,8 @@ Před měsícem jsem si předsevzal, že vytvořím přehled WiFi techniky, kter
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -119,7 +118,6 @@ Před měsícem jsem si předsevzal, že vytvořím přehled WiFi techniky, kter
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -405,10 +403,10 @@ Doufám, že se vám přehled bude líbít - vyhrál jsem si s tím docela dost,
           
             <tr>
               <td>
-                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
                 <p class="excerpt">
                   
-                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
                   
                 </p>
               </td>
@@ -416,10 +414,10 @@ Doufám, že se vám přehled bude líbít - vyhrál jsem si s tím docela dost,
           
             <tr>
               <td>
-                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
+                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
                 <p class="excerpt">
                   
-                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
+                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
                   
                 </p>
               </td>

@@ -104,9 +104,8 @@ Společnost Symbol Technologies oznámila, že bude požadovat poplatky od výro
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -119,7 +118,6 @@ Společnost Symbol Technologies oznámila, že bude požadovat poplatky od výro
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -415,10 +413,10 @@ Poznámka na závěr pro patentové choleriky: patentové právo hovoří jasně
           
             <tr>
               <td>
-                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
+                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
                 <p class="excerpt">
                   
-                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
+                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
                   
                 </p>
               </td>
@@ -426,12 +424,10 @@ Poznámka na závěr pro patentové choleriky: patentové právo hovoří jasně
           
             <tr>
               <td>
-                <a href="/item/na-tema-padu-goldee-hardware-startup-je-zatracene-tezky/">👉Na téma pádu Goldee -  hardware startup je zatraceně těžký</a>
+                <a href="/item/hrdinove-ceskeho-broadbandu/">👉Hrdinové českého broadbandu</a>
                 <p class="excerpt">
                   
-                    Dostal jsem pár dotazů ke konci slovenského startupu Goldee a když už jsem se psal s odpovědmi, dám to veřejně v plen.
-
-Proč skutečně Goldee skončilo, netuší...
+                    Napadlo vás někdy, jak málo víme o lidech, kteří stojí v pozadí toho, co každodenně používáme? Například: tušíme, kdo stál v pozadí českého broadbandu a má z...
                   
                 </p>
               </td>

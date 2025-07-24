@@ -104,9 +104,8 @@ Někdy mám o sobě vážné pochybnosti. Včera byl dobrý den demonstrovat si 
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -119,7 +118,6 @@ Někdy mám o sobě vážné pochybnosti. Včera byl dobrý den demonstrovat si 
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -427,10 +425,10 @@ Možná mi něco uniklo, na druhou stranu zastávám myšlenku, že je zbytečn�
           
             <tr>
               <td>
-                <a href="/item/negativni-efekty-modernich-technologii-pripad-big-data-baracka-obamy-a-obamacare/">👉Negativní efekty moderních technologií -  případ Big Data, Baracka Obamy a Obamacare</a>
+                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan</a>
                 <p class="excerpt">
                   
-                    Moderní technologie přinášejí zlepšení do našich životů a vnímat je jakkoliv jinak je zpátečnické. Před pokrokem se nelze schovat. Tolik obecná proklamace. J...
+                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
                   
                 </p>
               </td>
@@ -438,10 +436,10 @@ Možná mi něco uniklo, na druhou stranu zastávám myšlenku, že je zbytečn�
           
             <tr>
               <td>
-                <a href="/item/facebook-meta-metaversum/">👉Facebook je nově Meta a staví Metaversum</a>
+                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
                 <p class="excerpt">
                   
-                    Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. A hned si řekneme, proč je to důležité. Jen pro jistotu přip...
+                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
                   
                 </p>
               </td>

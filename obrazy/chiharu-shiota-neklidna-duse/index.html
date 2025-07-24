@@ -103,9 +103,8 @@
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -118,7 +117,6 @@
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -294,31 +292,31 @@ Bohužel červenou instalací se nemůže procházet mezi vlákny a do osudů se
           
             
               <tr>
-                <td>Georges Seurat</td>
-                <td><a href="/obrazy/georges-seurat-koupani-v-asnieres/">Koupání v Asnieres</a></td>
-                <td>
-                  
-                    <a href="/obrazy/georges-seurat-koupani-v-asnieres/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/IMG_2754.jpeg" alt="Georges Seurat - Koupání v Asnieres" style="width:100px; vertical-align: middle;"></a>
-                  
-                </td>
-              </tr>
-            
-              <tr>
-                <td>Aristide Maillol</td>
-                <td><a href="/obrazy/aristide-maillol-zena-se-slunecnikem/">Žena se slunečníkem</a></td>
-                <td>
-                  
-                    <a href="/obrazy/aristide-maillol-zena-se-slunecnikem/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/IMG_2730.jpeg" alt="Aristide Maillol - Žena se slunečníkem" style="width:100px; vertical-align: middle;"></a>
-                  
-                </td>
-              </tr>
-            
-              <tr>
                 <td>Jaroslava Bičovská</td>
                 <td><a href="/obrazy/jaroslava-bicovska-nebe-nad-brandysem/">Nebe nad Brandýsem</a></td>
                 <td>
                   
                     <a href="/obrazy/jaroslava-bicovska-nebe-nad-brandysem/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/jaroslava-bicovska-nebe-nad-brandysem.jpg" alt="Jaroslava Bičovská - Nebe nad Brandýsem (2017)" style="width:100px; vertical-align: middle;"></a>
+                  
+                </td>
+              </tr>
+            
+              <tr>
+                <td>Josef Istler</td>
+                <td><a href="/obrazy/josef-istler-nadro/">Ňadro / Figura</a></td>
+                <td>
+                  
+                    <a href="/obrazy/josef-istler-nadro/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Josef-Istler-nadro-figura-1953.jpg" alt="Josef Istler - Nadro / Figura (1953)" style="width:100px; vertical-align: middle;"></a>
+                  
+                </td>
+              </tr>
+            
+              <tr>
+                <td>Damien Hirst</td>
+                <td><a href="/obrazy/damien-hirst-furfuryl-mercaptan/">Furfuryl Mercaptan</a></td>
+                <td>
+                  
+                    <a href="/obrazy/damien-hirst-furfuryl-mercaptan/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/hirst-furfuryl-cely.jpeg" alt="Damien Hirst - Furfuryl Mercaptan" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -364,10 +362,10 @@ Bohužel červenou instalací se nemůže procházet mezi vlákny a do osudů se
           
             <tr>
               <td>
-                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
+                <a href="/item/robinhood_wallstreet_pribeh_akcii/">👉Příběh WallStreetBets jako RobinaHooda, který bohatým akcionářům bral…</a>
                 <p class="excerpt">
                   
-                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  Zásady pro výstavbu ve městě, které stanoví rámec spolupráce s developery. Zásady se nevztahují n...
+                    Tenhle příběh se stane epickou ságou o mnoha rozměrech. Že někdo prostřednictvím mobilní aplikace zbohatne, to se stává. Výjimečně i v miliardových částkách....
                   
                 </p>
               </td>
@@ -375,10 +373,10 @@ Bohužel červenou instalací se nemůže procházet mezi vlákny a do osudů se
           
             <tr>
               <td>
-                <a href="/item/jak-programovat-s-ai/">👉Návod na programování s AI, když programovat neumíte</a>
+                <a href="/item/turinguv-test-a-nelegalni-homosexualita/">👉Turingův test a nelegální homosexualita</a>
                 <p class="excerpt">
                   
-                    Minule jsme si řekli, jak pomocí umělé inteligence psát lepší články, zprávy a texty. AI změnila ještě další věc. Najednou mohou programovat i neprogramátoři...
+                    Turingův test na odhalení umělé inteligence strojů vymyslel britský matematik Alan Turing v roce 1950. Turing byl homosexuál, což bylo v té době v Británii t...
                   
                 </p>
               </td>

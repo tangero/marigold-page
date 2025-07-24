@@ -104,9 +104,8 @@ Ve Francii to několika otevřeným hlavám došlo - francouzští mobilní oper
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -119,7 +118,6 @@ Ve Francii to několika otevřeným hlavám došlo - francouzští mobilní oper
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -408,10 +406,10 @@ Tak <strong>tomu říkám chvályhodná aktivita</strong>. A co roaming u nás? 
           
             <tr>
               <td>
-                <a href="/en/item/sledovaci-kapitalismus/">👉Surveillance capitalism</a>
+                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
                 <p class="excerpt">
                   
-                    Liberal capitalism has one charm: everyone can do what they want in it, as long as they don't restrict anyone else, and it is on this rule that the modern wo...
+                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
                   
                 </p>
               </td>
@@ -419,10 +417,10 @@ Tak <strong>tomu říkám chvályhodná aktivita</strong>. A co roaming u nás? 
           
             <tr>
               <td>
-                <a href="/item/pribeh_olova_v_benzinu/">👉Jak se z malých vynálezů stává velký problém? Příběh benzínu, freonů a pana Midgleyho mladšího vztažený k dnešní umělé inteligenci</a>
+                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
                 <p class="excerpt">
                   
-                    Jsou vynálezy a objevy, které změní svět k lepšímu navždy. A jsou takové, které se později ukážou být fatálním průšvihem a budou se připomínat jako memento. ...
+                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
                   
                 </p>
               </td>

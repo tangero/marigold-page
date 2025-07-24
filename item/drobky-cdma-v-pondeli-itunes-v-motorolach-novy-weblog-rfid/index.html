@@ -110,9 +110,8 @@ Na Lupě najdete první díl (ze dvou) mého článku věnovaného bezdrátovým
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -125,7 +124,6 @@ Na Lupě najdete první díl (ze dvou) mého článku věnovaného bezdrátovým
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -414,10 +412,11 @@ MaLér přemýšlí o <a href="http://www.maler.cz/"><strong>iTunes v nových Mo
           
             <tr>
               <td>
-                <a href="/item/apple_a_postpc_era/">👉Apple s ARM procesory a PostPC éra</a>
+                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
                 <p class="excerpt">
                   
-                    Na úterní presentaci představil Apple dlouho očekávanou řadu počítačů vybavených vlastním procesorem Apple M1 namísto dosavadně používaných procesorů Intel. ...
+                    ---
+Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůl...
                   
                 </p>
               </td>
@@ -425,10 +424,10 @@ MaLér přemýšlí o <a href="http://www.maler.cz/"><strong>iTunes v nových Mo
           
             <tr>
               <td>
-                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
+                <a href="/item/ceske-skolstvi-je-dobry-priklad-mistni-schopnosti-budovat-paralelni-struktury/">👉České školství je dobrý příklad místní schopnosti budovat paralelní struktury</a>
                 <p class="excerpt">
                   
-                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
+                    Můj minulý příspěvek o českém školství vzbudil nebývalý ohlas a vlnu reakcí všeho druhu. Původně jsem navíc chtěl psát o něčem mírně jiném. Totiž, že mě fasc...
                   
                 </p>
               </td>

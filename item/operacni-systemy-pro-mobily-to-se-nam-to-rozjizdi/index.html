@@ -104,9 +104,8 @@ Není to tak dávno, co se na internetu objevily zprávy o tom, že Ericsson př
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -119,7 +118,6 @@ Není to tak dávno, co se na internetu objevily zprávy o tom, že Ericsson př
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -411,10 +409,10 @@ Zpráva o tom, že firma <strong>Psion začne do svých PDA dávat PocketPC</str
           
             <tr>
               <td>
-                <a href="/item/zasady_bytove_vystavby/">👉Zásady výstavby ve městě, které se nechce stát noclehárnou Prahy</a>
+                <a href="/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule/">👉Umělointeligenční asistenti a pochybnosti nad existencí svobodné vůle</a>
                 <p class="excerpt">
                   
-                    Na zastupitelstvu města Brandýsa-Boleslavi jsme  schválili  **Zásady pro výstavbu ve městě**, které stanoví rámec spolupráce s developery. Zásady se nevztahu...
+                    Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v n...
                   
                 </p>
               </td>

@@ -103,9 +103,8 @@
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -118,7 +117,6 @@
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -294,11 +292,21 @@
           
             
               <tr>
-                <td>Matěj Lipavský</td>
-                <td><a href="/obrazy/matej_lipavsky/">Zimní zahrada</a></td>
+                <td>Henri Matisse</td>
+                <td><a href="/obrazy/henri-matisse-papousci-tulipany/">Papouščí tulipány</a></td>
                 <td>
                   
-                    <a href="/obrazy/matej_lipavsky/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/matej-lipavsky-zimni-zahrada.jpeg" alt="Matěj Lipavský - Zimní zahrada (2025)" style="width:100px; vertical-align: middle;"></a>
+                    <a href="/obrazy/henri-matisse-papousci-tulipany/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/Henri-matisse-papousci-tulipany.jpeg" alt="Henri Matisse - Papouščí tulipány" style="width:100px; vertical-align: middle;"></a>
+                  
+                </td>
+              </tr>
+            
+              <tr>
+                <td>Martin Krajc</td>
+                <td><a href="/obrazy/martin-krajc-blue-drink/">Blue Drink</a></td>
+                <td>
+                  
+                    <a href="/obrazy/martin-krajc-blue-drink/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/martin-krajc-blue-drink.jpg" alt="Martin Krajc - Blue Drink (2021)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -309,16 +317,6 @@
                 <td>
                   
                     <a href="/obrazy/georges-seurat-koupani-v-asnieres/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/IMG_2754.jpeg" alt="Georges Seurat - Koupání v Asnieres" style="width:100px; vertical-align: middle;"></a>
-                  
-                </td>
-              </tr>
-            
-              <tr>
-                <td>Olaolu Slawn</td>
-                <td><a href="/obrazy/olaolu-slawn/">Young black n thriving</a></td>
-                <td>
-                  
-                    <a href="/obrazy/olaolu-slawn/"><img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_100/https://www.marigold.cz/assets/obrazy/slawn-obrazy.png" alt="Olaolu Slawn - Young black n thriving (2021)" style="width:100px; vertical-align: middle;"></a>
                   
                 </td>
               </tr>
@@ -364,10 +362,10 @@
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>
@@ -375,12 +373,10 @@
           
             <tr>
               <td>
-                <a href="/item/statni-postnarodnostni-celky-v-dobe-digitalni-etnicity/">👉Státní postnárodnostní celky v době digitální etnicity</a>
+                <a href="/item/zapomenuta-osobnost-jan-sokol-z-lamberka/">👉Zapomenutá osobnost -  Jan Sokol z Lamberka</a>
                 <p class="excerpt">
                   
-                    Je to sice povídka, ale také příspěvek k tématu, jak bude vypadat náš svět. Brzy. 
-
-Navyklým pohybem odpojil vir a podíval se do stropu. Takhle bez projekce ...
+                    Dostal jsem minulý týden od jednoho novináře obligátní otázku, koho považuju za největší osobnost českých dějin. Vzhledem k tomu, že druhá otázka v emailu zn...
                   
                 </p>
               </td>

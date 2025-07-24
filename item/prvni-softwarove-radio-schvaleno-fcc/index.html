@@ -105,9 +105,8 @@ První zařízení používající softwarově definované rádio (SDR) schváli
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -120,7 +119,6 @@ První zařízení používající softwarově definované rádio (SDR) schváli
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -414,10 +412,10 @@ Presentace <a href="http://vanu.com">výrobce zde</a>.
           
             <tr>
               <td>
-                <a href="/item/jak-zlevnit-stat-slucovanim-obci/">👉Snížení počtu obcí je cesta kvality místních služeb, ne úspory rozpočtu</a>
+                <a href="/item/zamrzla-evoluce-ve-svete-techniky/">👉Zamrzlá evoluce ve světě techniky</a>
                 <p class="excerpt">
                   
-                    V Česku velmi opatrně odstartovala debata o reformě územní správy, tedy o tom, jestli náhodou nemáme moc obcí. Laický názor je, že když snížíme počet, snížím...
+                    Včera jsem přednášel na konferenci Kam kráčí telekomunikační sítě v Olomouci a moje téma bylo Vize internetu v roce 2025. Vizi si teď nechme stranou, jen okr...
                   
                 </p>
               </td>
@@ -425,11 +423,10 @@ Presentace <a href="http://vanu.com">výrobce zde</a>.
           
             <tr>
               <td>
-                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
+                <a href="/item/za-tajemstvim-jednoducheho-zaplaceni-jaderne-elektrarny-jisticem/">👉Za tajemstvím jednoduchého zaplacení jaderné elektrárny jističem</a>
                 <p class="excerpt">
                   
-                    ---
-Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůl...
+                    Stovky miliard korun za výstavbu jaderné elektrárny zaplatíme podle vládního návrhu zákona zvýšením sazby za rezervovaný příkon jističů. Zní to nezajímavě a ...
                   
                 </p>
               </td>

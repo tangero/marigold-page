@@ -104,9 +104,8 @@ Službu Přehled.net doplnil Petr Olmer o novinku - perzonalizovanou sekci Můj 
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -119,7 +118,6 @@ Službu Přehled.net doplnil Petr Olmer o novinku - perzonalizovanou sekci Můj 
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -416,10 +414,10 @@ A tip na závěr - moje oblíbená funkce Přehled.net je chronologický výpis.
           
             <tr>
               <td>
-                <a href="/item/jak-jsem-napsal-vlastni-zakon/">👉Jak jsem napsal vlastní zákon</a>
+                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan</a>
                 <p class="excerpt">
                   
-                    Víte co? Dneska vám povím, jak jsem si napsal vlastní zákon a jak tenhle zákon skončil ve Sbírce zákonů. Na tenhle kus života jsem si vzpomněl ve středu, kdy...
+                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
                   
                 </p>
               </td>
@@ -427,10 +425,10 @@ A tip na závěr - moje oblíbená funkce Přehled.net je chronologický výpis.
           
             <tr>
               <td>
-                <a href="/item/underdressed-na-schuzce/">👉Underdressed na schůzce</a>
+                <a href="/item/kvantove_pocitace/">👉Kvantové počítače</a>
                 <p class="excerpt">
                   
-                    Včera jsem dorazil na jednu schůzku silně underdressed a připomnělo mi to nedávnou příhodu. To jdu na takovou tu schůzku s managementem, ke kterému jsem se k...
+                    Třicet let se ve svém psaní důsledně vyhýbám kvantovým počítačům. Dnes je načase tomu udělat konec. A říct si něco víc o kvantových počítačích a otevřít jeji...
                   
                 </p>
               </td>

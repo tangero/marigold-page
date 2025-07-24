@@ -104,9 +104,8 @@ Moje výběrové řízení na novou RSS čtečku má svého vítěze - SharpRead
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -119,7 +118,6 @@ Moje výběrové řízení na novou RSS čtečku má svého vítěze - SharpRead
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -411,10 +409,11 @@ SharpReader nemá tolik možností a serepetiček, jako FeedDemon, ale abych pra
           
             <tr>
               <td>
-                <a href="/item/theranos/">👉Theranos a obžaloba Silicon Valley</a>
+                <a href="/item/zakon_o_statni_sluzbe/">👉Kolaps Česka, úředníci a služební zákon</a>
                 <p class="excerpt">
                   
-                    Měl to být soudní proces s Elizabetou Holmesovou, někdejší šéfkou společnosti Theranos. Ale stává se z toho obžaloba praktik moderních startupu a celého podn...
+                    ---
+Proč kolabuje Česko? Důvodů je mnoho, ale asi nejzásadnější příčinou je Zákon o státní službě i nedostatečné odměňování úředníků! Sebelepší politici kvůl...
                   
                 </p>
               </td>
@@ -422,10 +421,10 @@ SharpReader nemá tolik možností a serepetiček, jako FeedDemon, ale abych pra
           
             <tr>
               <td>
-                <a href="/item/umelointeligencni-asistenti-a-pochybnosti-nad-existenci-svobodne-vule/">👉Umělointeligenční asistenti a pochybnosti nad existencí svobodné vůle</a>
+                <a href="/item/rozdelena-spolecnost-prikopy-ktere-si-hloubime-sami/">👉Rozdělená společnost -  příkopy, které si hloubíme sami</a>
                 <p class="excerpt">
                   
-                    Představte si, že máte elektronického asistenta, kterému dáte přístup do vašeho kalendáře i emailu, on tím zjistí, koho máte rádi a začne vám každý týden v n...
+                    Dlouhou dobu jsem se věnoval a věnuji ruské dezinformační scéně a osvětě ve věci hybridní války Ruska. Kromě věcí, které jsou už dnes obecně známé mne zaujal...
                   
                 </p>
               </td>

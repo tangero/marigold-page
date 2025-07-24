@@ -104,9 +104,8 @@ Vladimír Mlynář reportérovi ČTK prozradil, že jeho touhou je prodat Česk�
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -119,7 +118,6 @@ Vladimír Mlynář reportérovi ČTK prozradil, že jeho touhou je prodat Česk�
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -411,10 +409,10 @@ Zajímal jsem se, <strong>jak je to se zlatým padákem pro Berdára</strong>. �
           
             <tr>
               <td>
-                <a href="/item/dotace-nejsou-ciste-zlo-jsou-dobry-sluha-ale-spatny-pan/">👉Dotace nejsou čisté zlo, jsou dobrý sluha ale špatný pan</a>
+                <a href="/item/cesko-je-ekonomika-prostoju/">👉Česko je ekonomika prostojů</a>
                 <p class="excerpt">
                   
-                    Všimli jste si, jak často brojí ta nejobskurnější patra tuzemské politiky proti dotacím? A jak v kontrapunktu k tomu málo o dotacích hovoří státy, které je v...
+                    Z letních zpráv mě zaujala jedna. Produktivita práce v Česku je poloviční oproti Německu. Našel jsem hromadu vysvětlení od méně odborných jako “český líný ku...
                   
                 </p>
               </td>
@@ -422,10 +420,10 @@ Zajímal jsem se, <strong>jak je to se zlatým padákem pro Berdára</strong>. �
           
             <tr>
               <td>
-                <a href="/item/kdo-je-kdo-v-ai/">👉Kdo je kdo v AI</a>
+                <a href="/item/facebook-meta-metaversum/">👉Facebook je nově Meta a staví Metaversum</a>
                 <p class="excerpt">
                   
-                    Tyhle seznamy já mám i nemám rád, protože síla autora i čtenářů je jen na několik jmen, ale zase je dobré mít přehled. Dnes si vezmeme tři jména, jedno podle...
+                    Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. A hned si řekneme, proč je to důležité. Jen pro jistotu přip...
                   
                 </p>
               </td>

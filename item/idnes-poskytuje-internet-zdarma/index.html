@@ -104,9 +104,8 @@ Dnes se potvrdily spekulace LUPY(.CZ) o tom, že dalším z poskytovatelů Inter
   // Náhodně vyber, co zobrazit: 0 = feedwind, 1 = obrázek
   const showFeedwind = Math.random() < 0.5;
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.createElement('div');
-    container.id = 'random-feedwind-or-image';
-    const target = document.currentScript;
+    const container = document.getElementById('feedwind-or-image');
+    if (!container) return;
     if (showFeedwind) {
       // Dynamicky vlož feedwind script
       const fwScript = document.createElement('script');
@@ -119,7 +118,6 @@ Dnes se potvrdily spekulace LUPY(.CZ) o tom, že dalším z poskytovatelů Inter
       // Obrázek s nevyplněnou URL
       container.innerHTML = '<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>';
     }
-    target.parentNode.insertBefore(container, target.nextSibling);
   });
 </script>
 <!-- místo původního feedwind code -->
@@ -418,10 +416,10 @@ Poznatek první: umělá intel...
           
             <tr>
               <td>
-                <a href="/item/facebook-meta-metaversum/">👉Facebook je nově Meta a staví Metaversum</a>
+                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
                 <p class="excerpt">
                   
-                    Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. A hned si řekneme, proč je to důležité. Jen pro jistotu přip...
+                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  [Zlatá éra weblogů a můžete si ji stáhnout zda...
                   
                 </p>
               </td>
