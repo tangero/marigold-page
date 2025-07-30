@@ -27488,20 +27488,6 @@
       }
       
       ,{
-        "title"    : "Kanban Board Integration - Integrovaný Kanban board pro správu úkolů",
-        "url"      : "//vibecoding/databutton/2025-03-20-nova-funkce-databutton/",
-        "category" : "vibecoding",
-        "content"  : "Databutton přidal novou funkci Kanban boardu, která funguje jako vestavěný nástroj pro správu úkolů přímo v platformě. Tento board umožňuje uživatelům organizovat úkoly podobně jako v nástrojích typu Jira, přičemž AI agent automaticky generuje a aktualizuje úkoly na základě popisu projektu. Uživatelé mohou přidávat, upravovat a sledovat úkoly v reálném čase, přičemž AI navrhuje optimalizace pracovního postupu.Tato funkce je ideální pro týmy nebo jednotlivce, kteří vyvíjejí aplikace a potřebují efektivně spravovat projekty. Například při vývoji MVP (Minimum Viable Product) lze Kanban board použít k plánování funkcí, sledování pokroku a řešení chyb. Funkce je užitečná zejména pro startupy a podnikatele, kteří..."
-      }
-      
-      ,{
-        "title"    : "AI-Driven UI Glitch Correction - Oprava chyb uživatelského rozhraní pomocí AI",
-        "url"      : "//vibecoding/databutton/2025-04-15-oprava-ui/",
-        "category" : "vibecoding",
-        "content"  : "Nová funkce umožňuje uživatelům nahrát screenshoty nebo popisy problémů s uživatelským rozhraním (UI) a AI agent Databutton automaticky analyzuje a opravuje chyby, jako jsou nesprávné zarovnání, nefunkční tlačítka nebo nekonzistentní design. AI navrhuje úpravy a generuje potřebný kód pro React UI, který lze okamžitě aplikovat.Tato funkce je neocenitelná pro vývojáře i nevývojáře, kteří chtějí rychle vyladit vzhled a funkčnost svých aplikací. Například podnikatel bez technických znalostí může nahrát screenshot chybného rozvržení a AI navrhne a implementuje opravu. Funkce je také užitečná pro rychlé prototypování, kdy je třeba rychle opravit vizuální nedostatky před spuštěním aplikace.AI agent využívá počítačové vidění k analýze..."
-      }
-      
-      ,{
         "title"    : "Lovable 2.0: Nové funkce pro AI tvorbu webových aplikací",
         "url"      : "//vibecoding/lovable-dev/2025-04-25-lovable-2-nove_funkce/",
         "category" : "vibecoding",
@@ -27663,31 +27649,10 @@
       }
       
       ,{
-        "title"    : "Lovable rozšiřuje bezpečnostní funkce pro tvorbu aplikací bez kódování",
-        "url"      : "//vibecoding/lovable-dev/2025-06-15-lovable-security-scan/",
-        "category" : "vibecoding",
-        "content"  : "Platforma Lovable pro tvorbu aplikací bez programování přidala tři bezpečnostní funkce k ochraně citlivých dat. Změny zahrnují automatické skenování, AI revizoře kódu a blokování nebezpečného vkládání API klíčů.Automatické bezpečnostní skenováníLovable kontroluje aplikace před zveřejněním pomocí Supabase Security Advisor. Skenování se zaměřuje na Row Level Security (RLS) politiky - SQL pravidla řízení přístupu k databázi. Systém identifikuje chybějící nebo příliš široké politiky, které by umožnily neoprávněný přístup k datům.AI revizor zranitelnostíSecurity Reviewer analyzuje celý kód aplikace a hledá širší spektrum bezpečnostních problémů: SQL injection útoky - nebezpečné vkládání SQL kódu Cross-site scripting (XSS) - útoky škodlivým JavaScriptem Problémy s autentizací -..."
-      }
-      
-      ,{
         "title"    : "Claude Code přidává podporu MCP serveru",
         "url"      : "//vibecoding/claude-code/2025-06-20-claude-code-mcp/",
         "category" : "vibecoding",
         "content"  : "Nyní se můžete připojit ke vzdáleným serverům MCP z Claude Code, což vám umožní přizpůsobit Claude Code tak, aby používal vaše oblíbené nástroje.Lze tak přenášet data z jiných nástrojů přímo do Claude Code automatizovaně, bez neoblíbeného copy-paste.Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeba žádné místní nastavení ani konfigurace. Detaily najdete v dokumentaci."
-      }
-      
-      ,{
-        "title"    : "Databutton integruje databázi a ověřování do aplikací vytvářených umělou inteligencí",
-        "url"      : "//vibecoding/databutton/2025-06-20-databutton_databaze/",
-        "category" : "vibecoding",
-        "content"  : "Platforma Databutton oznámila integraci databáze a systému ověřování uživatelů přímo do svého nástroje pro vytváření aplikací pomocí umělé inteligence. Tato aktualizace má podle společnosti eliminovat potřebu externích služeb a zjednodušit proces vývoje aplikací pro firemní uživatele. Dlužno říct: sláva! Tohle je při vibecodingu zatím velká frustrace, jste schopni se dlouho točit na neschopnosti dobře a bezpečně se připojit z apliace do databáze nebo nastavit ověřování užívatelů…Technické řešení postavené na Neon DatabaseNově integrovaná funkcionalita využívá technologii Neon Database, což je platforma pro správu PostgreSQL databází v cloudu. Tato integrace přináší tři klíčové funkce do každé nově vytvořené aplikace na platformě Databutton:..."
-      }
-      
-      ,{
-        "title"    : "Tipy a triky pro efektivní vývoj s platformou Lovable",
-        "url"      : "//vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/",
-        "category" : "vibecoding",
-        "content"  : "Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal.Základní principy práce s příkazyPoužívejte popisná klíčová slova místo pouhých technických instrukcí. Namísto obecného “Vytvoř mi vstupní stránku / landing page” je efektivnější napsat “Vytvoř velkolepou vstupní stránku, která představí prémiovou wellness značku pomocí příběhových sekcí a špičkového vizuálního designu.” Klíčová slova jako “minimalistický, glassmorfní, plovoucí prvky” nebo “hravý, výrazný, jasné barvy, zaoblené rohy” dokážou okamžitě povýšit kvalitu návrhu,..."
       }
       
       ,{
@@ -27744,6 +27709,48 @@
         "url"      : "//vibecoding/cursor/2025-01-19-cursor-codebase-indexing/",
         "category" : "vibecoding",
         "content"  : "Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.Co je Codebase Indexing?Codebase Indexing je pokročilý systém, který: Analyzuje celý projekt - mapuje všechny soubory, závislosti a vztahy Vytváří semantic embeddings - porozumí významu kódu, nejen syntaxi Cachuje znalosti - rychlejší responses díky pre-processed informacím Real-time updates - automaticky aktualizuje index při změnáchNové funkce v indexování:Intelligent Parsing Multi-language support - jednotný přístup pro všechny jazyky Framework detection - automaticky rozpozná React, Vue, Angular atd. Architecture mapping - identifikuje design patterns a struktury Dependency graph - mapuje všechny závislosti a..."
+      }
+      
+      ,{
+        "title"    : "",
+        "url"      : "//vibecoding/cursor/2025-07-30-cursor-1-3/",
+        "category" : "vibecoding",
+        "content"  : "Společnost Cursor vydala 29. července 2025 verzi 1.3 svého AI editoru kódu se zaměřením na zlepšení integrace s operačním systémem a výrazné zrychlení editačních operací. Klíčovou novinkou je sdílený terminál mezi uživatelem a AI agentem, který zjednodušuje spolupráci při provádění systémových příkazů.Sdílený terminál s AI agentemNejpodstatnější změnou je možnost AI agenta používat nativní terminál uživatele. Agent automaticky vytvoří nový terminál podle potřeby, který běží na pozadí, pokud již není otevřený. Uživatelé mohou kliknout na tlačítko “Focus” a přenést terminál do popředí, kde vidí příkazy spouštěné agentem a mohou kdykoliv převzít kontrolu.Tato funkce eliminuje předchozí omezení, kdy agent používal simulovaný terminál,..."
+      }
+      
+      ,{
+        "title"    : "Kanban Board Integration - Integrovaný Kanban board pro správu úkolů",
+        "url"      : "//vibecoding/databutton/2025-03-20-nova-funkce-databutton/",
+        "category" : "vibecoding",
+        "content"  : "Databutton přidal novou funkci Kanban boardu, která funguje jako vestavěný nástroj pro správu úkolů přímo v platformě. Tento board umožňuje uživatelům organizovat úkoly podobně jako v nástrojích typu Jira, přičemž AI agent automaticky generuje a aktualizuje úkoly na základě popisu projektu. Uživatelé mohou přidávat, upravovat a sledovat úkoly v reálném čase, přičemž AI navrhuje optimalizace pracovního postupu.Tato funkce je ideální pro týmy nebo jednotlivce, kteří vyvíjejí aplikace a potřebují efektivně spravovat projekty. Například při vývoji MVP (Minimum Viable Product) lze Kanban board použít k plánování funkcí, sledování pokroku a řešení chyb. Funkce je užitečná zejména pro startupy a podnikatele, kteří..."
+      }
+      
+      ,{
+        "title"    : "AI-Driven UI Glitch Correction - Oprava chyb uživatelského rozhraní pomocí AI",
+        "url"      : "//vibecoding/databutton/2025-04-15-oprava-ui/",
+        "category" : "vibecoding",
+        "content"  : "Nová funkce umožňuje uživatelům nahrát screenshoty nebo popisy problémů s uživatelským rozhraním (UI) a AI agent Databutton automaticky analyzuje a opravuje chyby, jako jsou nesprávné zarovnání, nefunkční tlačítka nebo nekonzistentní design. AI navrhuje úpravy a generuje potřebný kód pro React UI, který lze okamžitě aplikovat.Tato funkce je neocenitelná pro vývojáře i nevývojáře, kteří chtějí rychle vyladit vzhled a funkčnost svých aplikací. Například podnikatel bez technických znalostí může nahrát screenshot chybného rozvržení a AI navrhne a implementuje opravu. Funkce je také užitečná pro rychlé prototypování, kdy je třeba rychle opravit vizuální nedostatky před spuštěním aplikace.AI agent využívá počítačové vidění k analýze..."
+      }
+      
+      ,{
+        "title"    : "Lovable rozšiřuje bezpečnostní funkce pro tvorbu aplikací bez kódování",
+        "url"      : "//vibecoding/lovable-dev/2025-06-15-lovable-security-scan/",
+        "category" : "vibecoding",
+        "content"  : "Platforma Lovable pro tvorbu aplikací bez programování přidala tři bezpečnostní funkce k ochraně citlivých dat. Změny zahrnují automatické skenování, AI revizoře kódu a blokování nebezpečného vkládání API klíčů.Automatické bezpečnostní skenováníLovable kontroluje aplikace před zveřejněním pomocí Supabase Security Advisor. Skenování se zaměřuje na Row Level Security (RLS) politiky - SQL pravidla řízení přístupu k databázi. Systém identifikuje chybějící nebo příliš široké politiky, které by umožnily neoprávněný přístup k datům.AI revizor zranitelnostíSecurity Reviewer analyzuje celý kód aplikace a hledá širší spektrum bezpečnostních problémů: SQL injection útoky - nebezpečné vkládání SQL kódu Cross-site scripting (XSS) - útoky škodlivým JavaScriptem Problémy s autentizací -..."
+      }
+      
+      ,{
+        "title"    : "Databutton integruje databázi a ověřování do aplikací vytvářených umělou inteligencí",
+        "url"      : "//vibecoding/databutton/2025-06-20-databutton_databaze/",
+        "category" : "vibecoding",
+        "content"  : "Platforma Databutton oznámila integraci databáze a systému ověřování uživatelů přímo do svého nástroje pro vytváření aplikací pomocí umělé inteligence. Tato aktualizace má podle společnosti eliminovat potřebu externích služeb a zjednodušit proces vývoje aplikací pro firemní uživatele. Dlužno říct: sláva! Tohle je při vibecodingu zatím velká frustrace, jste schopni se dlouho točit na neschopnosti dobře a bezpečně se připojit z apliace do databáze nebo nastavit ověřování užívatelů…Technické řešení postavené na Neon DatabaseNově integrovaná funkcionalita využívá technologii Neon Database, což je platforma pro správu PostgreSQL databází v cloudu. Tato integrace přináší tři klíčové funkce do každé nově vytvořené aplikace na platformě Databutton:..."
+      }
+      
+      ,{
+        "title"    : "Tipy a triky pro efektivní vývoj s platformou Lovable",
+        "url"      : "//vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/",
+        "category" : "vibecoding",
+        "content"  : "Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal.Základní principy práce s příkazyPoužívejte popisná klíčová slova místo pouhých technických instrukcí. Namísto obecného “Vytvoř mi vstupní stránku / landing page” je efektivnější napsat “Vytvoř velkolepou vstupní stránku, která představí prémiovou wellness značku pomocí příběhových sekcí a špičkového vizuálního designu.” Klíčová slova jako “minimalistický, glassmorfní, plovoucí prvky” nebo “hravý, výrazný, jasné barvy, zaoblené rohy” dokážou okamžitě povýšit kvalitu návrhu,..."
       }
       
       ,{

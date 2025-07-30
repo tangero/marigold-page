@@ -6,7 +6,7 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Tue, 29 Jul 2025 15:30:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 05:10:22 +0000</lastBuildDate>
     
     
     
@@ -18,7 +18,7 @@
         <title>🟣 Claude Code - </title>
         <link>https://www.marigold.cz/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max/</link>
         <guid>https://www.marigold.cz/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max/</guid>
-        <pubDate>Tue, 29 Jul 2025 15:30:28 +0000</pubDate>
+        <pubDate>Wed, 30 Jul 2025 05:10:22 +0000</pubDate>
         <description><![CDATA[
           
           
@@ -26,6 +26,25 @@
             <p>Společnost Anthropic, vývojář konverzačního asistenta Claude, zavede od 28. srpna 2025 nové týdenní limity používání pro předplatitele. Opatření má podle firmy zajistit spravedlivější přístup ke kapacitě systému a řešit problémy s porušováním pravidel používání služby.</p>
           
           <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🖱️ Cursor - </title>
+        <link>https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3/</link>
+        <guid>https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3/</guid>
+        <pubDate>Wed, 30 Jul 2025 05:10:22 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            
+            <p>Společnost Cursor vydala 29. července 2025 verzi 1.3 svého AI editoru kódu se zaměřením na zlepšení integrace s operačním systémem a výrazné zrychlení editačních operací. Klíčovou novinkou je sdílený terminál mezi uživatelem a AI agentem, který zjednodušuje spolupráci při provádění systémových příkazů.</p>
+          
+          <p><a href="https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -190,25 +209,6 @@
       
       
       <item>
-        <title>💖 Lovable.dev - Tipy a triky pro efektivní vývoj s platformou Lovable</title>
-        <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/</link>
-        <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/</guid>
-        <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-        <description><![CDATA[
-          
-          
-            <p>Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal.</p>
-
-          
-          <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/">📖 Pokračování...</a></p>
-          
-        ]]></description>
-      </item>
-    
-      
-      
-      
-      <item>
         <title>Gemini cli - Google uvedl Gemini CLI</title>
         <link>https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/</link>
         <guid>https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/</guid>
@@ -220,6 +220,25 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>💖 Lovable.dev - Tipy a triky pro efektivní vývoj s platformou Lovable</title>
+        <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/</link>
+        <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/</guid>
+        <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal.</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>

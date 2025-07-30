@@ -1,0 +1,43 @@
+<p>Společnost Cursor vydala 29. července 2025 verzi 1.3 svého AI editoru kódu se zaměřením na zlepšení integrace s operačním systémem a výrazné zrychlení editačních operací. Klíčovou novinkou je sdílený terminál mezi uživatelem a AI agentem, který zjednodušuje spolupráci při provádění systémových příkazů.</p>
+
+<h2 id="sdílený-terminál-s-ai-agentem">Sdílený terminál s AI agentem</h2>
+
+<p>Nejpodstatnější změnou je možnost AI agenta používat nativní terminál uživatele. Agent automaticky vytvoří nový terminál podle potřeby, který běží na pozadí, pokud již není otevřený. Uživatelé mohou kliknout na tlačítko “Focus” a přenést terminál do popředí, kde vidí příkazy spouštěné agentem a mohou kdykoliv převzít kontrolu.</p>
+
+<p>Tato funkce eliminuje předchozí omezení, kdy agent používal simulovaný terminál, což často vedlo k nesouladu mezi prostředím agenta a skutečným vývojářským prostředím uživatele. Sdílený terminál zajišťuje, že agent pracuje ve stejném kontextu jako vývojář, včetně přístupu ke všem nainstalovaným nástrojům, proměnným prostředí a konfiguraci.</p>
+
+<h2 id="zobrazení-využití-kontextu">Zobrazení využití kontextu</h2>
+
+<p>Cursor 1.3 přidává transparentnost ohledně využití kontextového okna. Na konci každé konverzace v chatu se nyní zobrazuje informace o tom, kolik z dostupného kontextového okna bylo využito. Tato funkce pomáhá uživatelům lépe pochopit, proč některé konverzace mohou být pomalejší nebo proč agent nemusí mít přístup ke všem požadovaným informacím.</p>
+
+<p>Zobrazení využití kontextu je důležité pro optimalizaci práce s velkými kódovými základnami, kde může docházet k překročení limitů kontextového okna. Uživatelé tak získají lepší představu o tom, které soubory nebo části kódu agent skutečně vidí a zpracovává.</p>
+
+<h2 id="výrazné-zrychlení-editačních-operací">Výrazné zrychlení editačních operací</h2>
+
+<p>Cursor 1.3 přináší měřitelná vylepšení výkonu editačních funkcí. Search &amp; Replace operace jsou nyní rychlejší o 25%, zatímco Apply edits funkce dosáhla zrychlení téměř 11%. Tyto optimalizace jsou výsledkem implementace lazy loadingu pro chyby linteru, což snižuje latenci při provádění úprav.</p>
+
+<p>Zrychlení je patrné zejména při práci s velkými soubory nebo při provádění rozsáhlých refaktoringů. Agent nyní dokáže rychleji aplikovat změny napříč více soubory současně, což zlepšuje celkový pracovní tok při vývoji.</p>
+
+<h2 id="odstranění-manual-mode-a-vylepšení-bezpečnosti">Odstranění Manual mode a vylepšení bezpečnosti</h2>
+
+<p>Cursor odstranil Manual mode z chatu ve prospěch jednodušší navigace. Tento krok je součástí snahy o zjednodušení uživatelského rozhraní a odstranění duplicitních funkcí, které mohly způsobovat zmatky.</p>
+
+<p>Bezpečnost byla vylepšena nahražením denylist systému allowlist přístupem pro auto-run funkce. Namísto seznamu zakázaných akcí nyní Cursor používá seznam povolených operací, což poskytuje vyšší úroveň kontroly nad tím, které příkazy může agent automaticky spouštět.</p>
+
+<h2 id="další-vylepšení-a-opravy">Další vylepšení a opravy</h2>
+
+<p>Verze 1.3 zahrnuje řadu menších, ale užitečných vylepšení:</p>
+
+<p>Active Tab indikace v chatu zlepšuje orientaci při práci s více konverzacemi současně. Uživatelé nyní mohou pravým tlačítkem kliknout na adresář a odeslat jej přímo do chatu, což zrychluje začlenění složek do kontextu.</p>
+
+<p>Checkpoints nyní fungují s Jupyter Notebooks, což rozšiřuje možnosti verzování a obnovy práce i na vědecké výpočty a analýzu dat. Tato funkce je důležitá pro datové analytiky a výzkumníky, kteří potřebují uchovávat různé stavy svých experimentů.</p>
+
+<p>Extension marketplace získal podporu pro vlastní URL adresy, což umožňuje organizacím distribuovat interní rozšíření. Pro podnikové zákazníky mohou týmoví administrátoři konfigurovat allowlist rozšíření, čímž získávají kontrolu nad tím, která rozšíření mohou zaměstnanci instalovat.</p>
+
+<p>Background Agent, klíčová funkce předchozích verzí, obdržel řadu oprav stability a výkonu.</p>
+
+<h2 id="technické-poznámky-a-opravy">Technické poznámky a opravy</h2>
+
+<p>Cursor 1.3 prošel několika patch verzemi (1.3.1 až 1.3.4), které řešily problémy s git checkpoints, kontexty agenta a sdílením terminálu. Patch 1.3.2 se zaměřil na další vylepšení výkonu, zatímco následující verze obsahovaly především opravy chyb.</p>
+
+<p>Verze 1.3 představuje evoluční krok v integraci AI asistenta s vývojářským prostředím. Sdílený terminál odstraňuje bariéru mezi agentem a skutečným pracovním prostředím, zatímco optimalizace výkonu zlepšují každodenní práci s editorem. Zobrazení využití kontextu přináší potřebnou transparentnost pro efektivní využití AI možností.</p>
