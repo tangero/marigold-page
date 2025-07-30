@@ -8,7 +8,7 @@ categories:
 - omezení
 layout: post
 post_excerpt: Anthropic zavádí od 28. srpna týdenní limity pro Claude předplatitele kvůli růstu Claude Code a porušování pravidel používání.
-  summary_points:
+summary_points:
 - Anthropic zavádí nové týdenní limity pro Claude od 28. srpna 2024
 - Změna ovlivní méně než 5 procent současných uživatelů
 - Důvodem je rychlý růst Claude Code a zneužívání služby
