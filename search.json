@@ -27467,10 +27467,24 @@
       }
       
       ,{
+        "title"    : "Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem",
+        "url"      : "//vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements/",
+        "category" : "vibecoding",
+        "content"  : "Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.Co je nového v Cmd+K?Multi-modal Input Text + Code - kombinujte natural language s code snippets Image support - uploadujte screenshots UI pro implementaci File attachments - přetáhněte soubory přímo do chatu Voice input - mluvte místo psaní (beta funkce)Enhanced Context Awareness// Když máte kurzor v této funkci a stisknete Cmd+Kfunction processPayment(amount, currency) { // AI automaticky rozumí: // - Toto je payment handling // - Souvisí s e-commerce // - Může potřebovat validaci a error handling // - Pravděpodobně..."
+      }
+      
+      ,{
         "title"    : "Claude Code vylepšuje debugging - nové možnosti",
         "url"      : "//vibecoding/claude-code/2025-01-18-claude-debugging/",
         "category" : "vibecoding",
         "content"  : "Claude Code představil nové funkce pro ladění kódu, které výrazně zlepšují vývojářský zážitek. Nové nástroje umožňují rychlejší identifikaci a opravu chyb.Nové funkce pro debugging:Automatická detekce chyb Statická analýza - Claude nyní automaticky skenuje kód a identifikuje potenciální problémy Kontextová doporučení - navrhuje konkrétní opravy založené na kontextu kódu Performance analýza - upozorňuje na části kódu, které mohou způsobovat problémy s výkonemVylepšené error handling Inteligentní stack trace - Claude automaticky interpretuje error zprávu a navrhuje řešení Exception patterns - rozpoznává běžné vzory chyb a poskytuje osvědčené postupy jejich řešeníKrokování kódu Virtuální debugger - umožňuje simulovat běh kódu krok za krokem Proměnné..."
+      }
+      
+      ,{
+        "title"    : "Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu",
+        "url"      : "//vibecoding/cursor/2025-01-19-cursor-codebase-indexing/",
+        "category" : "vibecoding",
+        "content"  : "Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.Co je Codebase Indexing?Codebase Indexing je pokročilý systém, který: Analyzuje celý projekt - mapuje všechny soubory, závislosti a vztahy Vytváří semantic embeddings - porozumí významu kódu, nejen syntaxi Cachuje znalosti - rychlejší responses díky pre-processed informacím Real-time updates - automaticky aktualizuje index při změnáchNové funkce v indexování:Intelligent Parsing Multi-language support - jednotný přístup pro všechny jazyky Framework detection - automaticky rozpozná React, Vue, Angular atd. Architecture mapping - identifikuje design patterns a struktury Dependency graph - mapuje všechny závislosti a..."
       }
       
       ,{
@@ -27691,24 +27705,24 @@
       }
       
       ,{
-        "title"    : "",
+        "title"    : "Lovable má nový vizuální editor",
+        "url"      : "//vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/",
+        "category" : "vibecoding",
+        "content"  : "Nyní je vizuální editor v Lovable rychlejší, čistší a mnohem intuitivnější.Jak to funguje:• Klikněte na „Upravit“ ve vstupním poli• Vyberte libovolný prvek• Vizuální úpravy stylů (barva, velikost, obsah) jde naklikat ihned• Nebo jen vyzvěte: „Nechat toto tlačítko vyskakovat“Klikněte. Upravit. Hotovo.  A je to zdarma, kredity se nepoužívají."
+      }
+      
+      ,{
+        "title"    : "Novinky v Gemini CLI a roadmapa funkcí",
+        "url"      : "//vibecoding/ostatni/2025-07-17-gemini-cli-roadmapa/",
+        "category" : "vibecoding",
+        "content"  : "Vývojový nástroj Gemini CLI má publikovanou roadmpu, takže se můžete podívat, kdy přibudou nové další funkce. A hlavně, jaké to budou. Držím palce, ať ji udrží a dodrží.Zároveň Philipp Schmid z Google DeepMind publikoval na X sumář věcí, které byly do Geminy CLI v poslední době zahrnuty. Gemini CLI jde systémem zahrnování pull requestů, které nyní přidávají jiní autoři a hodně z toho těží. Sloučil cca 150 PR od více než 75 přispěvatelů. Gemini CLI je nyní nainstalováno ve výchozím nastavení v @Firebase Studio. Zde jsou další klíčová vylepšení: Přidána podpora vkládání obrázků ze schránky pro macOS. (jaysondasher) Zavedeno systémové..."
+      }
+      
+      ,{
+        "title"    : "Anthropic omezí Claude Code Max novými týdenními limity",
         "url"      : "//vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max/",
         "category" : "vibecoding",
         "content"  : "Společnost Anthropic, vývojář konverzačního asistenta Claude, zavede od 28. srpna 2025 nové týdenní limity používání pro předplatitele. Opatření má podle firmy zajistit spravedlivější přístup ke kapacitě systému a řešit problémy s porušováním pravidel používání služby.Nové omezení se dotkne méně než pěti procent současných uživatelů na základě aktuálních vzorců používání. Anthropic jako hlavní důvod uvádí nebývalý růst nástroje Claude Code, který je součástí předplatitelského balíčku, a identifikované případy porušování pravidel včetně sdílení účtů a prodeje přístupu třetím stranám.Struktura nových omezeníAnthropic zachová stávající pětihodinové limity pro jednotlivé relace a přidá dvě nové úrovně týdenních omezení. Každý týdenní limit se obnovuje každých sedm..."
-      }
-      
-      ,{
-        "title"    : "Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem",
-        "url"      : "//vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements/",
-        "category" : "vibecoding",
-        "content"  : "Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.Co je nového v Cmd+K?Multi-modal Input Text + Code - kombinujte natural language s code snippets Image support - uploadujte screenshots UI pro implementaci File attachments - přetáhněte soubory přímo do chatu Voice input - mluvte místo psaní (beta funkce)Enhanced Context Awareness// Když máte kurzor v této funkci a stisknete Cmd+Kfunction processPayment(amount, currency) { // AI automaticky rozumí: // - Toto je payment handling // - Souvisí s e-commerce // - Může potřebovat validaci a error handling // - Pravděpodobně..."
-      }
-      
-      ,{
-        "title"    : "Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu",
-        "url"      : "//vibecoding/cursor/2025-01-19-cursor-codebase-indexing/",
-        "category" : "vibecoding",
-        "content"  : "Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.Co je Codebase Indexing?Codebase Indexing je pokročilý systém, který: Analyzuje celý projekt - mapuje všechny soubory, závislosti a vztahy Vytváří semantic embeddings - porozumí významu kódu, nejen syntaxi Cachuje znalosti - rychlejší responses díky pre-processed informacím Real-time updates - automaticky aktualizuje index při změnáchNové funkce v indexování:Intelligent Parsing Multi-language support - jednotný přístup pro všechny jazyky Framework detection - automaticky rozpozná React, Vue, Angular atd. Architecture mapping - identifikuje design patterns a struktury Dependency graph - mapuje všechny závislosti a..."
       }
       
       ,{
@@ -27751,20 +27765,6 @@
         "url"      : "//vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/",
         "category" : "vibecoding",
         "content"  : "Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal.Základní principy práce s příkazyPoužívejte popisná klíčová slova místo pouhých technických instrukcí. Namísto obecného “Vytvoř mi vstupní stránku / landing page” je efektivnější napsat “Vytvoř velkolepou vstupní stránku, která představí prémiovou wellness značku pomocí příběhových sekcí a špičkového vizuálního designu.” Klíčová slova jako “minimalistický, glassmorfní, plovoucí prvky” nebo “hravý, výrazný, jasné barvy, zaoblené rohy” dokážou okamžitě povýšit kvalitu návrhu,..."
-      }
-      
-      ,{
-        "title"    : "Lovable má nový vizuální editor",
-        "url"      : "//vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/",
-        "category" : "vibecoding",
-        "content"  : "Nyní je vizuální editor v Lovable rychlejší, čistší a mnohem intuitivnější.Jak to funguje:• Klikněte na „Upravit“ ve vstupním poli• Vyberte libovolný prvek• Vizuální úpravy stylů (barva, velikost, obsah) jde naklikat ihned• Nebo jen vyzvěte: „Nechat toto tlačítko vyskakovat“Klikněte. Upravit. Hotovo.  A je to zdarma, kredity se nepoužívají."
-      }
-      
-      ,{
-        "title"    : "Novinky v Gemini CLI a roadmapa funkcí",
-        "url"      : "//vibecoding/ostatni/2025-07-17-gemini-cli-roadmapa/",
-        "category" : "vibecoding",
-        "content"  : "Vývojový nástroj Gemini CLI má publikovanou roadmpu, takže se můžete podívat, kdy přibudou nové další funkce. A hlavně, jaké to budou. Držím palce, ať ji udrží a dodrží.Zároveň Philipp Schmid z Google DeepMind publikoval na X sumář věcí, které byly do Geminy CLI v poslední době zahrnuty. Gemini CLI jde systémem zahrnování pull requestů, které nyní přidávají jiní autoři a hodně z toho těží. Sloučil cca 150 PR od více než 75 přispěvatelů. Gemini CLI je nyní nainstalováno ve výchozím nastavení v @Firebase Studio. Zde jsou další klíčová vylepšení: Přidána podpora vkládání obrázků ze schránky pro macOS. (jaysondasher) Zavedeno systémové..."
       }
       
     
