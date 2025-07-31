@@ -74,6 +74,10 @@ Přehled nejmodernějších AI nástrojů a služeb pro vibe coding a programov�
         <h4><a href="/vibecoding/openai-codex/">🟢 OpenAI Codex</a></h4>
         <p>AI model pro generování a porozumění kódu od OpenAI</p>
       </div>
+      <div class="service-card">
+        <h4><a href="/vibecoding/gemini-cli/">🔵 Gemini CLI</a></h4>
+        <p>Terminálový nástroj pro práci s Google Gemini modely přímo z příkazové řádky</p>
+      </div>
     </div>
   </div>
 
@@ -234,6 +238,8 @@ function toggleCategory(button) {
         {% assign software_name = "🧠 Memex" %}
       {% when "replit" %}
         {% assign software_name = "🟠 Replit" %}
+      {% when "Gemini CLI" %}
+        {% assign software_name = "🔵 Gemini CLI" %}
       {% else %}
         {% assign software_name = post.sw | capitalize %}
     {% endcase %}
@@ -259,6 +265,8 @@ function toggleCategory(button) {
         {% assign software_name = "🧠 Memex" %}
       {% when "replit" %}
         {% assign software_name = "🟠 Replit" %}
+      {% when "gemini-cli" %}
+        {% assign software_name = "🔵 Gemini CLI" %}
       {% else %}
         {% assign software_name = folder_name | capitalize %}
     {% endcase %}

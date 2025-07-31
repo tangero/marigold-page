@@ -36,6 +36,8 @@ layout: null
             {% assign software_name = "🧠 Memex" %}
           {% when "replit" %}
             {% assign software_name = "🟠 Replit" %}
+          {% when "Gemini CLI" %}
+            {% assign software_name = "🔵 Gemini CLI" %}
           {% else %}
             {% assign software_name = post.sw | capitalize %}
         {% endcase %}
@@ -61,6 +63,8 @@ layout: null
             {% assign software_name = "🧠 Memex" %}
           {% when "replit" %}
             {% assign software_name = "🟠 Replit" %}
+          {% when "gemini-cli" %}
+            {% assign software_name = "🔵 Gemini CLI" %}
           {% else %}
             {% assign software_name = folder_name | capitalize %}
         {% endcase %}
