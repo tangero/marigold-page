@@ -6,7 +6,7 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Wed, 30 Jul 2025 05:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 05:53:41 +0000</lastBuildDate>
     
     
     
@@ -15,15 +15,34 @@
       
       
       <item>
-        <title>🖱️ Cursor - </title>
-        <link>https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3/</link>
-        <guid>https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3/</guid>
-        <pubDate>Wed, 30 Jul 2025 05:12:05 +0000</pubDate>
+        <title>🟣 Claude Code - Claude Code 1.6x rozšiřuje možnosti vlastních agentů a zlepšuje Windows podporu</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-07-31-claudecode1-6/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-07-31-claudecode1-6/</guid>
+        <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
         <description><![CDATA[
           
           
-            
+            <p>Anthropic pokračuje ve vývoji svého příkazového nástroje Claude Code, který umožňuje vývojářům pracovat s AI asistentem Claude přímo z terminálu. Poslední čtyři aktualizace (verze 1.0.61 až 1.0.64) přinášejí významná vylepšení v oblasti vlastních agentů, systémových hooks a podpory různých platforem.</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-07-31-claudecode1-6/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🖱️ Cursor - Novinky v Cursor 1.3</title>
+        <link>https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3/</link>
+        <guid>https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3/</guid>
+        <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
             <p>Společnost Cursor vydala 29. července 2025 verzi 1.3 svého AI editoru kódu se zaměřením na zlepšení integrace s operačním systémem a výrazné zrychlení editačních operací. Klíčovou novinkou je sdílený terminál mezi uživatelem a AI agentem, který zjednodušuje spolupráci při provádění systémových příkazů.</p>
+
           
           <p><a href="https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3/">📖 Pokračování...</a></p>
           
@@ -209,25 +228,6 @@
       
       
       <item>
-        <title>Gemini cli - Google uvedl Gemini CLI</title>
-        <link>https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/</link>
-        <guid>https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/</guid>
-        <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-        <description><![CDATA[
-          
-          
-            <p>Gemini CLI je tady! Open-source CLI, které přináší modely Google Gemini 2.5 přímo do vašeho terminálu! S řadou velmi pokročilých funkcí se hned staví na špičku CLI vibecoding rozhraní!</p>
-
-          
-          <p><a href="https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/">📖 Pokračování...</a></p>
-          
-        ]]></description>
-      </item>
-    
-      
-      
-      
-      <item>
         <title>💖 Lovable.dev - Tipy a triky pro efektivní vývoj s platformou Lovable</title>
         <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/</link>
         <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/</guid>
@@ -239,6 +239,25 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>Gemini cli - Google uvedl Gemini CLI</title>
+        <link>https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/</link>
+        <guid>https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/</guid>
+        <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Gemini CLI je tady! Open-source CLI, které přináší modely Google Gemini 2.5 přímo do vašeho terminálu! S řadou velmi pokročilých funkcí se hned staví na špičku CLI vibecoding rozhraní!</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
