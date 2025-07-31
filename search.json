@@ -26410,6 +26410,15 @@
   
     
     ,{
+      "title"    : "Gemini CLI - Vibe Coding",
+      "url"      : "//vibecoding/gemini-cli/",
+      "category" : "stránka",
+      "content"  : "# 🔵 Gemini CLI**Terminálový nástroj pro práci s Google Gemini modely přímo z příkazové řádky**🔗 [GitHub Repository →](https://github.com/google-gemini/gemini-cli)Gemini CLI je open-source nástroj od Google, který přináší pokročilé AI modely Gemini 2.5 přímo do vašeho terminálu. Vyniká v práci s kontextem, podporuje multimodální vstupy a nabízí pokročilé funkce pro vývojáře.Nástroj je postaven na Gemini 2.5 Pro modelu s 1 milionem tokenů v kontextovém okně a podporuje Google Search pro kontext v reálném čase. 📋 Detailní informace o Gemini CLI ### Klíčové vlastnosti:- **1M tokenů kontextu** - práce s velkými soubory a projekty- **Multimodální vstupy** - podpora obrázků, PDF a živých výsledků..."
+    }
+    
+  
+    
+    ,{
       "title"    : "Lovable.dev - Vibe Coding",
       "url"      : "//vibecoding/lovable-dev/",
       "category" : "stránka",
@@ -27707,17 +27716,17 @@
       }
       
       ,{
+        "title"    : "Google uvedl Gemini CLI",
+        "url"      : "//vibecoding/gemini-cli/2025-06-25-gemini-cli/",
+        "category" : "vibecoding",
+        "content"  : "Gemini CLI je tady! Open-source CLI, které přináší modely Google Gemini 2.5 přímo do vašeho terminálu! S řadou velmi pokročilých funkcí se hned staví na špičku CLI vibecoding rozhraní! Postaveno na Gemini 2.5 Pro 1 milion tokenů v kontextovém okně Bezplatná verze s 60 požadavky za minutu a 1 000 za den Google Search pro kontext v reálném čase Podpora skriptů a pluginůA co dál? Hierarchická paměť a pokyny ze souborů GEMINI md. Integrované nástroje pro souborový systém, shell, servery MCP a nové sdílené vlastní rozšíření. Multimodální kontext, rozumí obrázkům, PDF a živým výsledkům vyhledávání na webu. Podporuje bezpečné nástroje..."
+      }
+      
+      ,{
         "title"    : "Tipy a triky pro efektivní vývoj s platformou Lovable",
         "url"      : "//vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/",
         "category" : "vibecoding",
         "content"  : "Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal.Základní principy práce s příkazyPoužívejte popisná klíčová slova místo pouhých technických instrukcí. Namísto obecného “Vytvoř mi vstupní stránku / landing page” je efektivnější napsat “Vytvoř velkolepou vstupní stránku, která představí prémiovou wellness značku pomocí příběhových sekcí a špičkového vizuálního designu.” Klíčová slova jako “minimalistický, glassmorfní, plovoucí prvky” nebo “hravý, výrazný, jasné barvy, zaoblené rohy” dokážou okamžitě povýšit kvalitu návrhu,..."
-      }
-      
-      ,{
-        "title"    : "Google uvedl Gemini CLI",
-        "url"      : "//vibecoding/ostatni/2025-06-25-gemini-cli/",
-        "category" : "vibecoding",
-        "content"  : "Gemini CLI je tady! Open-source CLI, které přináší modely Google Gemini 2.5 přímo do vašeho terminálu! S řadou velmi pokročilých funkcí se hned staví na špičku CLI vibecoding rozhraní! Postaveno na Gemini 2.5 Pro 1 milion tokenů v kontextovém okně Bezplatná verze s 60 požadavky za minutu a 1 000 za den Google Search pro kontext v reálném čase Podpora skriptů a pluginůA co dál? Hierarchická paměť a pokyny ze souborů GEMINI md. Integrované nástroje pro souborový systém, shell, servery MCP a nové sdílené vlastní rozšíření. Multimodální kontext, rozumí obrázkům, PDF a živým výsledkům vyhledávání na webu. Podporuje bezpečné nástroje..."
       }
       
       ,{
@@ -27757,7 +27766,7 @@
       
       ,{
         "title"    : "Novinky v Gemini CLI a roadmapa funkcí",
-        "url"      : "//vibecoding/ostatni/2025-07-17-gemini-cli-roadmapa/",
+        "url"      : "//vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa/",
         "category" : "vibecoding",
         "content"  : "Vývojový nástroj Gemini CLI má publikovanou roadmpu, takže se můžete podívat, kdy přibudou nové další funkce. A hlavně, jaké to budou. Držím palce, ať ji udrží a dodrží.Zároveň Philipp Schmid z Google DeepMind publikoval na X sumář věcí, které byly do Geminy CLI v poslední době zahrnuty. Gemini CLI jde systémem zahrnování pull requestů, které nyní přidávají jiní autoři a hodně z toho těží. Sloučil cca 150 PR od více než 75 přispěvatelů. Gemini CLI je nyní nainstalováno ve výchozím nastavení v @Firebase Studio. Zde jsou další klíčová vylepšení: Přidána podpora vkládání obrázků ze schránky pro macOS. (jaysondasher) Zavedeno systémové..."
       }
@@ -27781,6 +27790,13 @@
         "url"      : "//vibecoding/claude-code/2025-07-31-claudecode1-6/",
         "category" : "vibecoding",
         "content"  : "Anthropic pokračuje ve vývoji svého příkazového nástroje Claude Code, který umožňuje vývojářům pracovat s AI asistentem Claude přímo z terminálu. Poslední čtyři aktualizace (verze 1.0.61 až 1.0.64) přinášejí významná vylepšení v oblasti vlastních agentů, systémových hooks a podpory různých platforem.Claude Code funguje jako most mezi vývojáři a AI modelem Claude, umožňuje delegovat programátorské úkoly, automatizovat workflow a integrovat AI asistenta do vývojového procesu. Nástroj podporuje vytváření vlastních agentů pro specifické úkoly, hooks pro automatizaci a SDK pro pokročilé integrace.Vlastní agenti získávají flexibilitu modeluVerze 1.0.64 zavedla klíčovou funkcionalitu - možnost specifikovat, který AI model má konkrétní agent používat. Tato změna umožňuje..."
+      }
+      
+      ,{
+        "title"    : "Gemini CLI 0.1.15 rozšiřuje možnosti o vlastní příkazy a vim mód",
+        "url"      : "//vibecoding/gemini-cli/2025-07-31-gemini_cli_0-1-15/",
+        "category" : "vibecoding",
+        "content"  : "Google vydal týdenní aktualizaci svého nástroje Gemini CLI na verzi 0.1.15, která přináší řadu praktických funkcí pro vývojáře. Mezi nejpodstatnější změny patří možnost vytváření vlastních příkazů, podpora vim navigace a vylepšené zobrazení rozdílů v kódu.Vlastní slash příkazy pro opakované úkolyNejvýznamnější novinkou jsou vlastní slash příkazy, které umožňují definovat opakovaně použitelné prompty. Funkce slouží k zrychlení běžných pracovních postupů tím, že vývojáři mohou vytvořit zkratky pro často používané instrukce nebo dotazy. Místo opakovaného zadávání dlouhých promptů stačí použít krátký příkaz začínający lomítkem.Systém vlastních příkazů představuje praktické řešení pro automatizaci rutinních úkolů v rámci práce s jazykovým modelem. Vývojáři mohou například vytvořit..."
       }
       
     

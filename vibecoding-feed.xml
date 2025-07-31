@@ -6,7 +6,7 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Thu, 31 Jul 2025 09:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 15:33:58 +0000</lastBuildDate>
     
     
     
@@ -26,6 +26,25 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-07-31-claudecode1-6/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🔵 Gemini CLI - Gemini CLI 0.1.15 rozšiřuje možnosti o vlastní příkazy a vim mód</title>
+        <link>https://www.marigold.cz/vibecoding/gemini-cli/2025-07-31-gemini_cli_0-1-15/</link>
+        <guid>https://www.marigold.cz/vibecoding/gemini-cli/2025-07-31-gemini_cli_0-1-15/</guid>
+        <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Google vydal týdenní aktualizaci svého nástroje Gemini CLI na verzi 0.1.15, která přináší řadu praktických funkcí pro vývojáře. Mezi nejpodstatnější změny patří možnost vytváření vlastních příkazů, podpora vim navigace a vylepšené zobrazení rozdílů v kódu.</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/gemini-cli/2025-07-31-gemini_cli_0-1-15/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -72,9 +91,9 @@
       
       
       <item>
-        <title>Gemini cli - Novinky v Gemini CLI a roadmapa funkcí</title>
-        <link>https://www.marigold.cz/vibecoding/ostatni/2025-07-17-gemini-cli-roadmapa/</link>
-        <guid>https://www.marigold.cz/vibecoding/ostatni/2025-07-17-gemini-cli-roadmapa/</guid>
+        <title>🔵 Gemini CLI - Novinky v Gemini CLI a roadmapa funkcí</title>
+        <link>https://www.marigold.cz/vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa/</link>
+        <guid>https://www.marigold.cz/vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa/</guid>
         <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
         <description><![CDATA[
           
@@ -82,7 +101,7 @@
             <p>Vývojový nástroj Gemini CLI má <a href="https://github.com/google-gemini/gemini-cli/blob/main/ROADMAP.md">publikovanou roadmpu</a>, takže se můžete podívat, kdy přibudou nové další funkce. A hlavně, jaké to budou. Držím palce, ať ji udrží a dodrží.</p>
 
           
-          <p><a href="https://www.marigold.cz/vibecoding/ostatni/2025-07-17-gemini-cli-roadmapa/">📖 Pokračování...</a></p>
+          <p><a href="https://www.marigold.cz/vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -228,6 +247,25 @@
       
       
       <item>
+        <title>🔵 Gemini CLI - Google uvedl Gemini CLI</title>
+        <link>https://www.marigold.cz/vibecoding/gemini-cli/2025-06-25-gemini-cli/</link>
+        <guid>https://www.marigold.cz/vibecoding/gemini-cli/2025-06-25-gemini-cli/</guid>
+        <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Gemini CLI je tady! Open-source CLI, které přináší modely Google Gemini 2.5 přímo do vašeho terminálu! S řadou velmi pokročilých funkcí se hned staví na špičku CLI vibecoding rozhraní!</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/gemini-cli/2025-06-25-gemini-cli/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>💖 Lovable.dev - Tipy a triky pro efektivní vývoj s platformou Lovable</title>
         <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/</link>
         <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/</guid>
@@ -239,25 +277,6 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/">📖 Pokračování...</a></p>
-          
-        ]]></description>
-      </item>
-    
-      
-      
-      
-      <item>
-        <title>Gemini cli - Google uvedl Gemini CLI</title>
-        <link>https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/</link>
-        <guid>https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/</guid>
-        <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-        <description><![CDATA[
-          
-          
-            <p>Gemini CLI je tady! Open-source CLI, které přináší modely Google Gemini 2.5 přímo do vašeho terminálu! S řadou velmi pokročilých funkcí se hned staví na špičku CLI vibecoding rozhraní!</p>
-
-          
-          <p><a href="https://www.marigold.cz/vibecoding/ostatni/2025-06-25-gemini-cli/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
