@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Novinky v AI a robotice 1.8.2025 - Souboj o matematickou olympiádu, nové modely a superpočítače",
+      "url"      : "//item/ai-news-srpen-2025/",
+      "category" : "AI, Robotika, Google, Microsoft, OpenAI, Alibaba, Meta, Gemini, ChatGPT, Hardware",
+      "tags"     : "",
+      "date"     : "1.8.2025",
+      "content"  : "Mezi nejvýznamnější události z konce července 2025 patří soupeření společností Google a OpenAI o prvenství v řešení úloh Mezinárodní matematické olympiády, které demonstruje pokroky v oblasti matematického uvažování AI. Dále byly představeny nové generace modelů pro tvorbu videa, 3D světů i zachování konzistence postav. Firmy masivně investují do hardwarové infrastruktury pro trénink budoucích modelů a na trh vstupují noví, cenově dostupnější humanoidní roboti. Tento článek přináší technický souhrn těchto událostí.Google a OpenAI: Závod v matematickém uvažováníJedním z hlavních témat se stala demonstrace schopností nejnovějších AI modelů na poli komplexního matematického uvažování.Google oznámil, že jeho model Gemini s technologií Deep Think..."
+    },
+  
+    {
       "title"    : "Letní škola AI - jak se AI naučit zdarma, i když nemáte čas",
       "url"      : "//item/letni-skola-ai/",
       "category" : "AI",
@@ -26286,7 +26295,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Letní škola AI - jak se AI naučit zdarma, i když nemáte čas (31.07.2025) Novinky AI v červenci 2025 - ChatGPT Agent, Voxtral a real-time video modely mění herní pravidla (24.07.2025) 🇨🇳 Je Kimi K2 další čínský průlom v AI? (22.07.2025)..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Novinky v AI a robotice 1.8.2025 - Souboj o matematickou olympiádu, nové modely a superpočítače ( 1.08.2025) Letní škola AI - jak se AI naučit zdarma, i když nemáte čas (31.07.2025) Novinky AI v červenci 2025 - ChatGPT Agent, Voxtral a..."
     }
     
   
@@ -26306,7 +26315,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 222 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 71 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 223 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 72 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
