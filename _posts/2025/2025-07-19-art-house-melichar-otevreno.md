@@ -4,7 +4,7 @@ categories:
 - Art House Melichar
 - Brandýs
 post_excerpt: "Včera jsme otevírali Art House Melichar.Ještě dopoledne nervozita z počasí. Ještě ve dvě hodiny jsem si říkal, že přijedou stěží umělci na svou vlastní vernisáž. Pak jsem si na chvilku sedl k počítači. Když jsem deset minut před čtvrtou vešel do haly Melicharovy vily, byla nacpaná k prasknutí, na prohlídku čekalo několik desítek lidí..."
-title: "🎨 Art House Melichar - Melicharova vila otevřejna pro veřejnost"
+title: "🎨 Art House Melichar - Melicharova vila otevřejna pro veřejnost - update 2.8. o video"
 ---
 
 Včera jsme otevírali [Art House Melichar](https://arthousemelichar.cz).  Ještě dopoledne nervozita z počasí, déšť by se nehodil. Ještě ve dvě hodiny jsem si říkal, že přijedou stěží umělci na svou vlastní vernisáž, ale rozhodně ne běžní lidé na zahájení v 16 hodin. Pak jsem si na chvilku sedl k počítači. Když jsem deset minut před čtvrtou vešel do haly Melicharovy vily, byla nacpaná k prasknutí, na prohlídku čekalo několik desítek lidí...
@@ -12,6 +12,8 @@ Včera jsme otevírali [Art House Melichar](https://arthousemelichar.cz).  Ješt
 ![Prohlídka vily](https://www.marigold.cz/assets/melichar-prohlidka.jpg)
 
 Byl to původně praštěný nápad. Iva McGreevy se mě kdysi, ještě jako místostarosty ptala, jestli nevím o prostoru pro galerii. Řekl jsem, že se ozvu, na něčem jsme začali pracovat, ale pak jsme skončili a tohle padlo. Jenže město svůj umělecký prostor potřebuje. Takže když se ukázalo, že kraj nemá pro vilu momentálně využití, rozhodli jsme se vyzkoušet tu pop-up galerii, umělecké prostory na léto. A vilu lidem zpřístupnit. Na léto. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZQiZsAqBbuE?si=PcJ9mDotQ5pLsQwl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Melicharova vila patří mezi architektonické skvosty Brandýsa. Architektem byl [Václav Roštlapil](https://cs.wikipedia.org/wiki/Václav_Roštlapil), autor Strakovy akademie nebo budovy AVU - továrník Melichar chtěl s jeho návrhem přinést do města architekturu na nejvyšší úrovni monarchie. Což se mu podařilo. Jenže si ji užil pouhých pět let...
 
