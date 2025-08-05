@@ -6,10 +6,29 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Sat, 02 Aug 2025 15:56:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 18:02:40 +0000</lastBuildDate>
     
     
     
+    
+      
+      
+      
+      <item>
+        <title>🟣 Claude Code - Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41/</guid>
+        <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj <a href="https://docs.anthropic.com/en/docs/claude-code">Claude Code</a>. Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu <a href="https://www.anthropic.com/news/claude-opus-4-1">Claude Opus 4.1</a>, který dosahuje lepších výsledků při práci s kódem a logickém uvažování.</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
     
       
       

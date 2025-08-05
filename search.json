@@ -27815,6 +27815,13 @@
         "content"  : "Cloudová vývojářská platforma Replit pokračuje v rozšiřování svých AI funkcí a představila během července a srpna 2025 několik významných novinek. Mezi nejdůležitější patří možnost generování obrázků přímo v aplikacích, pokročilé možnosti konfigurace AI agenta a vylepšená správa domén.Generování obrázků přímo v ReplituReplit nyní umožňuje generovat obrázky přímo uvnitř vývojového prostředí. Funkce se aktivuje v nástrojích agenta a poskytuje vývojářům možnost vytvářet AI generované obrázky pro své aplikace bez nutnosti používat externí služby.Soubor replit.md pro přizpůsobení agentaNejvýznamnější novinkou je zavedení konfiguračního souboru replit.md, který umožňuje podrobné přizpůsobení chování AI agenta podle specifických potřeb projektu. Tento speciální soubor pomáhá agentovi porozumět preferencím..."
       }
       
+      ,{
+        "title"    : "Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1",
+        "url"      : "//vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41/",
+        "category" : "vibecoding",
+        "content"  : "Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj Claude Code. Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu Claude Opus 4.1, který dosahuje lepších výsledků při práci s kódem a logickém uvažování.Automatická správa kontextu pomocí funkce MicrocompactPrvní novinkou je funkce Microcompact, která řeší problém postupného zaplňování kontextového okna během dlouhých pracovních relací. Když se kontext začne blížit svému limitu, systém automaticky vymaže starší volání nástrojů, které už nejsou potřebné. To umožňuje pokračovat v práci bez nutnosti úplné kompaktace kontextu, přičemž si zachovává nejdůležitější informace o projektu.Tato funkce pracuje..."
+      }
+      
     
   
 ]
