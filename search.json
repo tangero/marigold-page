@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Dědictví Netscape tlačí internetové služby k centralizaci",
+      "url"      : "//item/dedictvi-netscape-tlaci-do-centralizace/",
+      "category" : "AI, Netscape, Internet",
+      "tags"     : "",
+      "date"     : "6.8.2025",
+      "content"  : "Přinese AI svobodu lidem? Nikoliv nutně. Kvůli architektuře, jíž jsou nutně stavěné internetové služby, je internet decentralizovaný technologicky, ale v oblasti služeb ostře centralizuje. A to bude s AI jen horší a horší. Proč tomu tak je, jaké jsou důsledky a jaká jsou východiska z této situace?S každou novou službou jsou velké internetové služby ještě většími a je stále obtížnější opustit je. A každá nová open source služba slibuje, že to změní. Nezmění, nikdy. Centralizace služeb je nativní součástí jinak decentralizovaného internetu. A s AI to bude ještě horší.Tomuto problému se v počítačové hantýrce říká „zásada stejného původu“ - anglicky..."
+    },
+  
+    {
       "title"    : "Anthropic vydává Claude Opus 4.1",
       "url"      : "//item/claude-opus-4-1/",
       "category" : "AI, Anthropic, Claude, Claude Code, LLM",
@@ -502,15 +511,6 @@
       "tags"     : "",
       "date"     : "6.3.2025",
       "content"  : "Musk se rozhodl přitlačit na vydírání Ukrajiny a hrozí vypnutím Starlinku. Již podruhé. Naštěstí se již přes rok pracuje na záložním řešením, jímž může být Eutelsat. Nebude dokonalé, ale bude pro řadu případů dostatečné. Pojďme se na to podívat.Eutelsat a OneWeb jsou nyní součástí jedné společnosti, která vznikla jejich fúzí v roce 2023. Zde je stručná historie:Historie Eutelsat Založen v roce 1977 jako evropská mezivládní organizace pro satelitní komunikaci V roce 2001 se transformoval na soukromou společnost V roce 2005 vstoupil na burzuHistorie OneWeb Založen v roce 2012 pod názvem WorldVu V roce 2019 vypustil první satelity V roce 2020..."
-    },
-  
-    {
-      "title"    : "Dědictví Netscape tlačí internetové služby k centralizaci",
-      "url"      : "//item/dedictvi-netscape-tlaci-do-centralizace/",
-      "category" : "AI, Netscape, Internet",
-      "tags"     : "",
-      "date"     : "6.3.2025",
-      "content"  : "Přinese AI svobodu lidem? Nikoliv nutně. Kvůli architektuře, jíž jsou nutně stavěné internetové služby, je internet decentralizovaný technologicky, ale v oblasti služeb ostře centralizuje. A to bude s AI jen horší a horší. Proč tomu tak je, jaké jsou důsledky a jaká jsou východiska z této situace?S každou novou službou jsou velké internetové služby ještě většími a je stále obtížnější opustit je. A každá nová open source služba slibuje, že to změní. Nezmění, nikdy. Centralizace služeb je nativní součástí jinak decentralizovaného internetu. A s AI to bude ještě horší.Tomuto problému se v počítačové hantýrce říká „zásada stejného původu“ - anglicky..."
     },
   
     {
@@ -26313,7 +26313,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Anthropic vydává Claude Opus 4.1 ( 5.08.2025) Novinky v AI a robotice 1.8.2025 - Souboj o matematickou olympiádu, nové modely a superpočítače ( 1.08.2025) Letní škola AI - jak se AI naučit zdarma, i když nemáte čas (31.07.2025) Novinky AI v..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Dědictví Netscape tlačí internetové služby k centralizaci ( 6.08.2025) Anthropic vydává Claude Opus 4.1 ( 5.08.2025) Novinky v AI a robotice 1.8.2025 - Souboj o matematickou olympiádu, nové modely a superpočítače ( 1.08.2025) Letní škola AI - jak se AI naučit..."
     }
     
   
