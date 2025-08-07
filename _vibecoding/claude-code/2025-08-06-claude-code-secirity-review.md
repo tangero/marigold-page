@@ -15,7 +15,7 @@ summary_points:
 - Anthropic používá nástroj interně a zachytil skutečné bezpečnostní hrozby
 - Claude dokáže nalezené zranitelnosti rovnou opravit
 - Integrace přidává komentáře přímo do kódu s vysvětlením a návrhy oprav
-  title: Claude Code přidává automatické bezpečnostní kontroly kódu
+title: Claude Code přidává automatické bezpečnostní kontroly kódu
 ---
 
 Společnost Anthropic rozšířila svůj nástroj Claude Code o automatické bezpečnostní kontroly kódu. Nová funkcionalita umožňuje vývojářům odhalit zranitelnosti ještě před nasazením do produkce prostřednictvím dvou hlavních komponent: příkazu pro okamžité kontroly přímo z terminálu a integrace s platformou GitHub Actions pro automatickou analýzu každého požadavku na sloučení kódu.
