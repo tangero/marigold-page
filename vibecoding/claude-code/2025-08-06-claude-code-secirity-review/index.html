@@ -1,0 +1,29 @@
+<p>Společnost Anthropic rozšířila svůj nástroj Claude Code o automatické bezpečnostní kontroly kódu. Nová funkcionalita umožňuje vývojářům odhalit zranitelnosti ještě před nasazením do produkce prostřednictvím dvou hlavních komponent: příkazu pro okamžité kontroly přímo z terminálu a integrace s platformou GitHub Actions pro automatickou analýzu každého požadavku na sloučení kódu.</p>
+
+<h2 id="příkaz-security-review-pro-okamžitou-analýzu">Příkaz /security-review pro okamžitou analýzu</h2>
+
+<p>Nový příkaz <code class="language-plaintext highlighter-rouge">/security-review</code> provádí bezpečnostní analýzu přímo z vývojářského terminálu. Po spuštění příkazu Claude analyzuje kód a hledá běžné bezpečnostní zranitelnosti. Systém se zaměřuje na detekci rizik SQL injection, což jsou útoky umožňující neoprávněnou manipulaci s databází prostřednictvím škodlivého SQL kódu vloženého do vstupních polí aplikace. Dále kontroluje zranitelnosti typu XSS (Cross-Site Scripting), kdy útočník může vložit škodlivý skript do webové stránky zobrazované ostatním uživatelům. Claude také identifikuje případy nebezpečného zacházení s daty, jako je ukládání hesel v nešifrované podobě nebo nedostatečná validace uživatelských vstupů.</p>
+
+<p>Pokud Claude objeví zranitelnost, může ji na požádání vývojáře rovnou opravit. Tato schopnost výrazně zrychluje proces zabezpečení kódu, protože vývojář nemusí zranitelnost opravovat ručně, ale může využít návrh opravy generovaný umělou inteligencí. Pro použití této funkce stačí aktualizovat Claude Code na nejnovější verzi a spustit příkaz přímo v terminálu.</p>
+
+<h2 id="integrace-s-github-actions">Integrace s GitHub Actions</h2>
+
+<p>Druhá komponenta představuje integraci s platformou GitHub Actions, která automatizuje bezpečnostní kontroly při práci s verzovacím systémem Git. GitHub Actions je služba pro automatizaci vývojových procesů, která umožňuje spouštět různé úlohy při specifických událostech v repozitáři, například při vytvoření nového požadavku na sloučení kódu (pull request).</p>
+
+<p>Po konfiguraci integrace systém automaticky kontroluje každý nový požadavek na sloučení a hledá potenciální bezpečnostní problémy. Výsledky analýzy se zobrazují přímo v rozhraní GitHubu formou komentářů u konkrétních řádků kódu, kde byla zranitelnost detekována. Každý komentář obsahuje vysvětlení problému a doporučené řešení, což usnadňuje vývojářům pochopení a opravu nalezených problémů.</p>
+
+<p>Integrace funguje jako automatický bezpečnostní recenzent, který kontroluje každou změnu kódu ještě před jejím začleněním do hlavní větve projektu. Tím se výrazně snižuje riziko, že se do produkční verze aplikace dostane kód obsahující bezpečnostní zranitelnosti.</p>
+
+<h2 id="praktické-nasazení-a-výsledky">Praktické nasazení a výsledky</h2>
+
+<p>Anthropic využívá tuto technologii interně pro vlastní projekty. Podle oznámení společnosti systém již zachytil skutečné bezpečnostní hrozby, včetně potenciální zranitelnosti umožňující vzdálené spuštění kódu (Remote Code Execution - RCE) v interním nástroji. Zranitelnost RCE patří mezi nejzávažnější bezpečnostní problémy, protože umožňuje útočníkovi spustit libovolný kód na cílovém systému, což může vést k úplnému převzetí kontroly nad serverem nebo aplikací.</p>
+
+<p>Díky automatické kontrole prostřednictvím GitHub Actions byla tato zranitelnost odhalena a opravena ještě před nasazením do produkčního prostředí. Tento příklad demonstruje praktickou hodnotu nástroje v reálném vývojovém procesu, kde dokáže zachytit i závažné bezpečnostní problémy, které by mohly mít vážné důsledky.</p>
+
+<h2 id="technická-implementace-a-dostupnost">Technická implementace a dostupnost</h2>
+
+<p>Pro začátek práce s příkazem <code class="language-plaintext highlighter-rouge">/security-review</code> je potřeba pouze aktualizovat Claude Code na nejnovější verzi. Příkaz je poté dostupný přímo v terminálu a může být spuštěn kdykoliv během vývoje pro okamžitou kontrolu aktuálního kódu.</p>
+
+<p>Implementace GitHub Actions vyžaduje přidání konfiguračního souboru do repozitáře projektu. Anthropic poskytuje dokumentaci a ukázkovou konfiguraci na <a href="https://github.com/anthropics/claude-code-security-review">GitHub repozitáři claude-code-security-review</a>, který obsahuje podrobné instrukce pro nastavení automatických kontrol. Konfigurace definuje, kdy se má kontrola spustit (typicky při vytvoření nebo aktualizaci požadavku na sloučení) a jaké části kódu mají být analyzovány.</p>
+
+<p>Nástroj představuje praktické využití umělé inteligence v oblasti kybernetické bezpečnosti, kde může výrazně zvýšit kvalitu kódu tím, že automaticky identifikuje potenciální bezpečnostní problémy dříve, než se dostanou do produkce. Kombinace okamžitých kontrol během vývoje a automatických kontrol při revizi kódu vytváří vícevrstvý bezpečnostní systém, který pomáhá udržovat vysokou úroveň zabezpečení aplikací.</p>

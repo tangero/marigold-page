@@ -6,10 +6,29 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Thu, 07 Aug 2025 06:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 06:49:34 +0000</lastBuildDate>
     
     
     
+    
+      
+      
+      
+      <item>
+        <title>🟣 Claude Code - </title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-08-06-claude-code-secirity-review/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-08-06-claude-code-secirity-review/</guid>
+        <pubDate>Thu, 07 Aug 2025 06:49:34 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            
+            <p>Společnost Anthropic rozšířila svůj nástroj Claude Code o automatické bezpečnostní kontroly kódu. Nová funkcionalita umožňuje vývojářům odhalit zranitelnosti ještě před nasazením do produkce prostřednictvím dvou hlavních komponent: příkazu pro okamžité kontroly přímo z terminálu a integrace s platformou GitHub Actions pro automatickou analýzu každého požadavku na sloučení kódu.</p>
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-08-06-claude-code-secirity-review/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
     
       
       
