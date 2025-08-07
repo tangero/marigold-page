@@ -27841,7 +27841,7 @@
       }
       
       ,{
-        "title"    : "",
+        "title"    : "Claude Code přidává automatické bezpečnostní kontroly kódu",
         "url"      : "//vibecoding/claude-code/2025-08-06-claude-code-secirity-review/",
         "category" : "vibecoding",
         "content"  : "Společnost Anthropic rozšířila svůj nástroj Claude Code o automatické bezpečnostní kontroly kódu. Nová funkcionalita umožňuje vývojářům odhalit zranitelnosti ještě před nasazením do produkce prostřednictvím dvou hlavních komponent: příkazu pro okamžité kontroly přímo z terminálu a integrace s platformou GitHub Actions pro automatickou analýzu každého požadavku na sloučení kódu.Příkaz /security-review pro okamžitou analýzuNový příkaz /security-review provádí bezpečnostní analýzu přímo z vývojářského terminálu. Po spuštění příkazu Claude analyzuje kód a hledá běžné bezpečnostní zranitelnosti. Systém se zaměřuje na detekci rizik SQL injection, což jsou útoky umožňující neoprávněnou manipulaci s databází prostřednictvím škodlivého SQL kódu vloženého do vstupních polí aplikace. Dále kontroluje zranitelnosti..."
