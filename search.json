@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "OpenAI konečně představila GPT-5. Jaký je?",
+      "url"      : "//item/openai-gpt-5/",
+      "category" : "AI, OpenAI, GPT-5, jazykové modely",
+      "tags"     : "",
+      "date"     : "7.8.2025",
+      "content"  : "Společnost OpenAI zpřístupnila novou rodinu jazykových modelů GPT-5, která nahrazuje většinu stávající nabídky. Modely jsou dostupné ve třech velikostech s konfigurovatelnou úrovní uvažování a přinášejí výrazné snížení cen při zachování nebo zlepšení výkonu.Architektura a varianty modelůGPT-5 v prostředí ChatGPT funguje jako hybridní systém, který automaticky přepíná mezi různými modely podle složitosti úlohy. Systém obsahuje rychlý model pro běžné dotazy, hlubší model pro uvažování u složitějších problémů a směrovač v reálném čase, který rozhoduje o výběru modelu na základě typu konverzace, složitosti a explicitních pokynů uživatele.V rozhraní API je situace přímočařejší. OpenAI nabízí tři modely:GPT-5 - plná verze modelu s nejvyšším..."
+    },
+  
+    {
       "title"    : "Dědictví Netscape tlačí internetové služby k centralizaci",
       "url"      : "//item/dedictvi-netscape-tlaci-do-centralizace/",
       "category" : "AI, Netscape, Internet",
@@ -26313,7 +26322,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Dědictví Netscape tlačí internetové služby k centralizaci ( 6.08.2025) Anthropic vydává Claude Opus 4.1 ( 5.08.2025) Novinky v AI a robotice 1.8.2025 - Souboj o matematickou olympiádu, nové modely a superpočítače ( 1.08.2025) Letní škola AI - jak se AI naučit..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI OpenAI konečně představila GPT-5. Jaký je? ( 7.08.2025) Dědictví Netscape tlačí internetové služby k centralizaci ( 6.08.2025) Anthropic vydává Claude Opus 4.1 ( 5.08.2025) Novinky v AI a robotice 1.8.2025 - Souboj o matematickou olympiádu, nové modely a superpočítače ( 1.08.2025)..."
     }
     
   
@@ -26333,7 +26342,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 225 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 72 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 226 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 72 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
