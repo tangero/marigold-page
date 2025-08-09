@@ -27863,6 +27863,13 @@
         "content"  : "Vývojové prostředí Cursor od společnosti Anysphere vydalo 6. srpna 2025 verzi 1.4, která se zaměřuje na zlepšení práce s agenty využívajícími umělou inteligenci. Hlavní změny se týkají nástrojů, které agenti používají pro práci s kódem, možností jejich ovládání během běhu a integrace s platformou GitHub.Vylepšené nástroje pro práci s rozsáhlými projektyNástroje, které agenti v Cursoru používají pro navigaci a úpravy kódu, prošly zásadní revizí. Funkce Read file nyní dokáže načíst celé soubory bez ohledu na jejich velikost - předchozí omezení 2 MB bylo odstraněno. Nástroj automaticky rozhoduje, kdy je vhodné načíst celý soubor namísto jeho částí.Nástroj List získal schopnost procházet..."
       }
       
+      ,{
+        "title"    : "Claude Code získal přizpůsobitelné stavové řádky pro terminál",
+        "url"      : "//vibecoding/claude-code/2025-08-09-claude-code-statusline/",
+        "category" : "vibecoding",
+        "content"  : "Společnost Anthropic rozšířila 8. srpna 2025 možnosti svého nástroje Claude Code o funkci přizpůsobitelných stavových řádků přímo v terminálu. Novinka umožňuje vývojářům zobrazovat kontextové informace relevantní pro jejich práci bez nutnosti přepínat mezi okny nebo zadávat diagnostické příkazy.Aktivace a základní použitíFunkce se aktivuje příkazem /statusline následovaným popisem požadovaného zobrazení. Claude Code automaticky vygeneruje stavový řádek s požadovanými informacemi a dynamicky jej aktualizuje podle kontextu práce.Příklady použití# Zobrazení základních informací o prostředí/statusline show git branch and current directory# Komplexní stavový řádek s více informacemi/statusline display hostname, active Claude model, git branch, and full path# Kreativní využití/statusline add a digital buddy that..."
+      }
+      
     
   
 ]
