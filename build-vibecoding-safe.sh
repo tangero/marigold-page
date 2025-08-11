@@ -14,25 +14,60 @@ bundle install
 # Build Jekyll with vibecoding config
 echo "Running Jekyll build..."
 echo "Checking vibecoding content before build:"
-ls -la _vibecoding/
+ls -la _vibecoding/ || echo "No _vibecoding directory found"
 echo "Number of vibecoding articles:"
-find _vibecoding -name "*.md" | wc -l
+find _vibecoding -name "*.md" 2>/dev/null | wc -l
+
+# Show current directory structure
+echo "Current directory structure:"
+ls -la
 
 # Try to create minimal site structure that Jekyll can work with
 echo "Creating minimal index for Jekyll..."
-cp vibecoding-minimal-index.md index.md
+if [ -f "vibecoding-minimal-index.md" ]; then
+    cp vibecoding-minimal-index.md index.md
+    echo "Index created from vibecoding-minimal-index.md"
+else
+    echo "vibecoding-minimal-index.md not found, creating basic index.md"
+    cat > index.md << 'EOF'
+---
+layout: default
+title: Vibecoding
+---
+
+# Vibecoding
+
+AI nástroje pro programování
+
+{% for post in site.vibecoding %}
+- {{ post.title }}
+{% endfor %}
+EOF
+fi
 
 # Force create _site directory if Jekyll doesn't
+echo "Creating _site directory..."
 mkdir -p _site
+ls -la _site
 
-bundle exec jekyll build --config _config_vibecoding.yml --trace
+echo "Running Jekyll build with trace..."
+bundle exec jekyll build --config _config_vibecoding.yml --trace --verbose
 
 # Debug - check what was created
-echo "Checking build output..."
+echo "=== POST-BUILD DEBUG ==="
+echo "Working directory:"
+pwd
+echo "Contents of current directory:"
 ls -la
 echo "Looking for _site directory:"
 find . -name "_site" -type d 2>/dev/null || echo "No _site directory found"
-echo "Contents of current directory after build:"
+echo "Checking if _site exists:"
+if [ -d "_site" ]; then
+    echo "_site directory EXISTS"
+    ls -la _site/
+else
+    echo "_site directory DOES NOT EXIST"
+fi
 
 # Copy index file and verify build
 if [ -d "_site" ]; then
