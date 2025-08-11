@@ -1,46 +1,47 @@
+#!/usr/bin/env python3
+"""
+Podcast Automation Script pro Marigold.cz
+Generuje audio verze článků pomocí ElevenLabs API
+"""
+
 import os
-import requests
-from xml.etree.ElementTree import Element, SubElement, tostring, parse
-from github import Github
+import sys
+import tempfile
+import shutil
+from datetime import datetime
+from pathlib import Path
 import re
 import yaml
+import requests
+from xml.etree.ElementTree import Element, SubElement, tostring, parse, ElementTree
+from github import Github
 
-# Load environment variables
-from dotenv import load_dotenv, find_dotenv
-load_dotenv(find_dotenv())
-# Optional cutoff_date for processing only newer posts
-from datetime import datetime
-cutoff_str = os.getenv("CUTOFF_DATE")
-cutoff_date = None
-if cutoff_str:
-    try:
-        cutoff_date = datetime.strptime(cutoff_str, "%Y-%m-%d")
-    except ValueError:
-        print(f"Warning: ignored invalid CUTOFF_DATE: {cutoff_str}")
-
-def get_post_date_from_filename(filename):
-    m = re.match(r'^(\d{4}-\d{2}-\d{2})', filename)
-    if m:
-        try:
-            return datetime.strptime(m.group(1), "%Y-%m-%d")
-        except ValueError:
-            return None
-    return None
-
-# Nastavení proměnných prostředí
+# Konfigurace
 API_KEY = os.getenv('ELEVENLABS_API_KEY')
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 REPO_NAME = "tangero/marigold-page"
-VOICE_ID = "NHv5TpkohJlOhwlTCzJk"  # Změňte toto ID na požadované ID hlasu
-CHUNK_SIZE = 1024  # Velikost chunku pro čtení/zápis
-AUDIO_DIR = "audio"  # Adresář pro ukládání audio souborů
-BASE_URL = "http://www.marigold.cz"  # Základní URL pro audio soubory
-RSS_FEED_PATH = "rss_feed.xml"  # Cesta k RSS feed souboru
+VOICE_ID = "NHv5TpkohJlOhwlTCzJk"  # ID hlasu v ElevenLabs
+CHUNK_SIZE = 1024
+AUDIO_DIR = "audio"
+BASE_URL = "https://www.marigold.cz"  # HTTPS!
+RSS_FEED_PATH = "podcast-feed.xml"
 
 def debug_print(message):
-    print(f"[DEBUG] {message}")
+    """Výpis debug informací"""
+    print(f"[DEBUG] {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - {message}")
+
+def error_print(message):
+    """Výpis chybových hlášení"""
+    print(f"[ERROR] {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - {message}", file=sys.stderr)
 
 def text_to_speech(text, api_key, voice_id, output_path):
+    """
+    Převede text na řeč pomocí ElevenLabs API
+    """
+    if not api_key:
+        error_print("ElevenLabs API key is not set!")
+        return None
+        
     debug_print("Starting text-to-speech conversion")
     url = f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}/stream"
     headers = {
@@ -57,186 +58,325 @@ def text_to_speech(text, api_key, voice_id, output_path):
             "use_speaker_boost": True
         }
     }
-    debug_print(f"Request URL: {url}")
-    debug_print(f"Request headers: {headers}")
-    debug_print(f"Request body: {data}")
-
-    response = requests.post(url, headers=headers, json=data, stream=True)
-    if response.ok:
+    
+    try:
+        response = requests.post(url, headers=headers, json=data, stream=True, timeout=60)
+        response.raise_for_status()
+        
         with open(output_path, "wb") as f:
             for chunk in response.iter_content(chunk_size=CHUNK_SIZE):
-                f.write(chunk)
-        debug_print(f"Audio stream saved successfully to {output_path}")
+                if chunk:
+                    f.write(chunk)
+        
+        debug_print(f"Audio saved successfully to {output_path}")
         return output_path
-    else:
-        debug_print(f"Error in text-to-speech API: {response.status_code}, {response.text}")
+    except requests.exceptions.RequestException as e:
+        error_print(f"Error in text-to-speech API: {e}")
         return None
 
-def load_existing_rss_feed():
-    if os.path.exists(RSS_FEED_PATH):
-        return parse(RSS_FEED_PATH).getroot()
-    else:
-        rss = Element('rss', version='2.0')
-        channel = SubElement(rss, 'channel')
-        title = SubElement(channel, 'title')
-        title.text = "Marigold Podcast"
-        link = SubElement(channel, 'link')
-        link.text = "http://www.marigold.cz/podcast"
-        description = SubElement(channel, 'description')
-        description.text = "Automaticky generované podcasty z článků na Marigold.cz"
-        language = SubElement(channel, 'language')
-        language.text = "cs"  # Změňte podle jazyka podcastu
-        return rss
+def parse_front_matter(content):
+    """
+    Správně parsuje YAML front matter z markdown souboru
+    """
+    if not content.startswith('---'):
+        return {}, content
+    
+    try:
+        # Najde konec front matter
+        end_match = re.search(r'\n---\s*\n', content[3:])
+        if not end_match:
+            return {}, content
+        
+        front_matter_text = content[3:end_match.start()+3]
+        article_content = content[end_match.end()+3:]
+        
+        # Parse YAML
+        front_matter = yaml.safe_load(front_matter_text)
+        if front_matter is None:
+            front_matter = {}
+            
+        return front_matter, article_content
+    except yaml.YAMLError as e:
+        error_print(f"Error parsing YAML front matter: {e}")
+        return {}, content
 
-def add_item_to_rss_feed(rss, audio_file):
-    channel = rss.find('channel')
-    item = SubElement(channel, 'item')
-    title = SubElement(item, 'title')
-    title.text = audio_file['title']
-    description = SubElement(item, 'description')
-    description.text = audio_file['excerpt']
-    enclosure = SubElement(item, 'enclosure', url=audio_file['url'], type="audio/mpeg")
-    guid = SubElement(item, 'guid')
-    guid.text = audio_file['url']
-    pubDate = SubElement(item, 'pubDate')
-    pubDate.text = audio_file['pubDate']
+def update_article_with_audio(repo, article_path, audio_url):
+    """
+    Aktualizuje článek v repository s audio URL
+    """
+    try:
+        # Získat obsah souboru z repository
+        file_content = repo.get_contents(article_path)
+        content = file_content.decoded_content.decode('utf-8')
+        
+        # Parse front matter
+        front_matter, article_body = parse_front_matter(content)
+        
+        # Přidat audio_url do front matter
+        front_matter['audio_url'] = audio_url
+        front_matter['audio_generated'] = datetime.now().isoformat()
+        
+        # Znovu sestavit článek
+        updated_content = f"---\n{yaml.dump(front_matter, default_flow_style=False, allow_unicode=True)}---\n{article_body}"
+        
+        # Aktualizovat soubor v repository
+        repo.update_file(
+            article_path,
+            f"Add audio for {Path(article_path).name}",
+            updated_content,
+            file_content.sha
+        )
+        debug_print(f"Updated article with audio URL: {article_path}")
+        return True
+    except Exception as e:
+        error_print(f"Failed to update article: {e}")
+        return False
 
-def save_rss_feed(rss):
-    rss_feed = tostring(rss)
-    with open(RSS_FEED_PATH, "wb") as f:
-        f.write(rss_feed)
-    debug_print(f"RSS feed saved as {RSS_FEED_PATH}")
-
-def get_latest_article(repo):
-    commits = repo.get_commits(path="_posts/")
-    latest_commit = commits[0]
-    files = latest_commit.files
-    for file in files:
-        if file.filename.startswith("_posts/") and file.filename.endswith(".md") and not file.filename.startswith("_posts/en/"):
-            debug_print(f"Latest article found: {file.filename}")
-            file_content = repo.get_contents(file.filename, ref=latest_commit.sha)
-            return file.filename, file_content.decoded_content.decode('utf-8')
-    return None, None
-
-def extract_front_matter(article_content):
-    front_matter_match = re.match(r'---\n(.*?)\n---\n', article_content, re.DOTALL)
-    if front_matter_match:
-        front_matter = yaml.safe_load(front_matter_match.group(1))
-        # Nastavení výchozí hodnoty audiooff na False pokud není definováno
-        front_matter.setdefault('audiooff', False)
-        return front_matter, article_content[front_matter_match.end():]
-    return {'audiooff': False}, article_content
-
-def update_front_matter(front_matter, audio_url):
-    front_matter['audio_url'] = audio_url
-    return front_matter
-
-def reassemble_article(front_matter, content):
-    front_matter_str = yaml.dump(front_matter, default_flow_style=False)
-    return f"---\n{front_matter_str}---\n{content}"
-
-def extract_title(article_content):
-    lines = article_content.split('\n')
-    for line in lines:
-        if line.startswith('title:'):
-            return line.replace('title:', '').strip()
-    return "Untitled"
-
-def extract_date(article_content):
-    lines = article_content.split('\n')
-    for line in lines:
-        if line.startswith('date:'):
-            return line.replace('date:', '').strip()
-    return "No date"
-
-def extract_excerpt(article_content):
-    lines = article_content.split('\n')
-    for line in lines:
-        if line.startswith('excerpt:'):
-            return line.replace('excerpt:', '').strip()
-    return ""
-
-def extract_clean_text(article_content):
-    # Odstraní hlavičku článku
-    clean_text = re.sub(r'---[\s\S]*?---', '', article_content)
+def extract_clean_text(content):
+    """
+    Extrahuje čistý text z markdown obsahu pro TTS
+    """
     # Odstraní Markdown formátování
-    clean_text = re.sub(r'!\[.*?\]\(.*?\)', '', clean_text)  # Odstraní obrázky
-    clean_text = re.sub(r'\[([^\]]+)\]\(.*?\)', r'\1', clean_text)  # Odstraní odkazy, ponechá text odkazu
-    clean_text = re.sub(r'[#*`>]', '', clean_text)  # Odstraní speciální znaky
-    clean_text = re.sub(r'\n+', '\n', clean_text)  # Odstraní nadbytečné nové řádky
-    clean_text = re.sub(r'<[^>]+>', '', clean_text)  # Odstraní HTML tagy
-    return clean_text.strip()
+    text = re.sub(r'!\[.*?\]\(.*?\)', '', content)  # Odstraní obrázky
+    text = re.sub(r'\[([^\]]+)\]\(.*?\)', r'\1', text)  # Odstraní odkazy, ponechá text
+    text = re.sub(r'^#+\s+', '', text, flags=re.MULTILINE)  # Odstraní nadpisy
+    text = re.sub(r'[*_`]', '', text)  # Odstraní formátování
+    text = re.sub(r'^>\s+', '', text, flags=re.MULTILINE)  # Odstraní citace
+    text = re.sub(r'<[^>]+>', '', text)  # Odstraní HTML tagy
+    text = re.sub(r'\n{3,}', '\n\n', text)  # Normalizuje nové řádky
+    
+    return text.strip()
 
-def commit_and_push(repo, file_paths, commit_message):
-    for file_path in file_paths:
-        with open(file_path, "rb") as file:
-            content = file.read()
+def add_to_rss_feed(repo, audio_file_info):
+    """
+    Přidá položku do RSS feedu
+    """
+    try:
+        # Zkusit získat existující feed
         try:
-            contents = repo.get_contents(file_path)
-            repo.update_file(contents.path, commit_message, content, contents.sha)
+            feed_content = repo.get_contents(RSS_FEED_PATH)
+            rss = parse(feed_content.decoded_content.decode('utf-8'))
+            feed_exists = True
         except:
-            repo.create_file(file_path, commit_message, content)
-    debug_print(f"Committed and pushed files: {file_paths}")
+            # Vytvořit nový feed
+            rss = Element('rss', version='2.0', attrib={
+                '{http://www.w3.org/2000/xmlns/}itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd'
+            })
+            channel = SubElement(rss, 'channel')
+            SubElement(channel, 'title').text = "Marigold Podcast"
+            SubElement(channel, 'link').text = f"{BASE_URL}/podcast"
+            SubElement(channel, 'description').text = "Automaticky generované podcasty z článků na Marigold.cz"
+            SubElement(channel, 'language').text = "cs"
+            feed_exists = False
+        
+        # Přidat novou položku
+        channel = rss.find('channel')
+        item = SubElement(channel, 'item')
+        SubElement(item, 'title').text = audio_file_info['title']
+        SubElement(item, 'description').text = audio_file_info['description']
+        SubElement(item, 'enclosure', url=audio_file_info['url'], type="audio/mpeg")
+        SubElement(item, 'guid').text = audio_file_info['url']
+        SubElement(item, 'pubDate').text = audio_file_info['pubDate']
+        SubElement(item, 'link').text = audio_file_info['article_url']
+        
+        # Uložit feed
+        tree = ElementTree(rss)
+        feed_content_str = tostring(rss, encoding='unicode')
+        
+        if feed_exists:
+            repo.update_file(
+                RSS_FEED_PATH,
+                f"Update RSS feed with {audio_file_info['title']}",
+                feed_content_str,
+                feed_content.sha
+            )
+        else:
+            repo.create_file(
+                RSS_FEED_PATH,
+                f"Create RSS feed with {audio_file_info['title']}",
+                feed_content_str
+            )
+        
+        debug_print("RSS feed updated successfully")
+        return True
+    except Exception as e:
+        error_print(f"Failed to update RSS feed: {e}")
+        return False
+
+def process_article(repo, article_path, article_content):
+    """
+    Zpracuje jeden článek - vygeneruje audio a aktualizuje repository
+    """
+    debug_print(f"Processing article: {article_path}")
+    
+    # Parse front matter
+    front_matter, article_body = parse_front_matter(article_content)
+    
+    # Kontrola, zda má článek generovat audio
+    if not front_matter.get('audio', False):
+        debug_print(f"Article {article_path} does not have audio: true, skipping")
+        return False
+    
+    # Kontrola, zda už nemá audio
+    if 'audio_url' in front_matter:
+        debug_print(f"Article {article_path} already has audio_url, skipping")
+        return False
+    
+    # Extrakce metadat
+    title = front_matter.get('title', 'Bez názvu')
+    date = front_matter.get('date', datetime.now())
+    if isinstance(date, datetime):
+        date_str = date.strftime('%a, %d %b %Y %H:%M:%S +0000')
+    else:
+        date_str = str(date)
+    
+    # Příprava textu pro TTS
+    clean_text = extract_clean_text(article_body)
+    text_for_tts = f"{title}.\n\n{clean_text}"
+    
+    # Omezení délky textu (ElevenLabs má limit)
+    max_chars = 5000  # Upravte podle vašeho plánu ElevenLabs
+    if len(text_for_tts) > max_chars:
+        text_for_tts = text_for_tts[:max_chars] + "... Text byl zkrácen."
+        debug_print(f"Text truncated to {max_chars} characters")
+    
+    # Vytvoření názvu audio souboru
+    audio_filename = Path(article_path).stem + ".mp3"
+    audio_path = f"{AUDIO_DIR}/{audio_filename}"
+    audio_url = f"{BASE_URL}/{audio_path}"
+    
+    # Dočasný soubor pro audio
+    with tempfile.NamedTemporaryFile(suffix='.mp3', delete=False) as tmp_audio:
+        tmp_audio_path = tmp_audio.name
+    
+    try:
+        # Generování audio
+        if not text_to_speech(text_for_tts, API_KEY, VOICE_ID, tmp_audio_path):
+            error_print("Failed to generate audio")
+            return False
+        
+        # Upload audio do repository
+        with open(tmp_audio_path, 'rb') as f:
+            audio_content = f.read()
+        
+        try:
+            # Zkusit získat existující soubor
+            existing_file = repo.get_contents(audio_path)
+            repo.update_file(
+                audio_path,
+                f"Update audio for {Path(article_path).name}",
+                audio_content,
+                existing_file.sha
+            )
+        except:
+            # Vytvořit nový soubor
+            repo.create_file(
+                audio_path,
+                f"Add audio for {Path(article_path).name}",
+                audio_content
+            )
+        
+        debug_print(f"Audio uploaded to {audio_path}")
+        
+        # Aktualizovat článek s audio URL
+        if not update_article_with_audio(repo, article_path, audio_url):
+            error_print("Failed to update article with audio URL")
+            return False
+        
+        # Přidat do RSS feedu
+        article_url = f"{BASE_URL}/item/{Path(article_path).stem}/"
+        rss_info = {
+            'title': title,
+            'description': front_matter.get('excerpt', '')[:500],
+            'url': audio_url,
+            'pubDate': date_str,
+            'article_url': article_url
+        }
+        add_to_rss_feed(repo, rss_info)
+        
+        return True
+        
+    finally:
+        # Cleanup
+        if os.path.exists(tmp_audio_path):
+            os.remove(tmp_audio_path)
+
+def get_recent_articles(repo, limit=10):
+    """
+    Získá nedávné články z repository
+    """
+    articles = []
+    
+    # Získat všechny markdown soubory z _posts
+    contents = repo.get_contents("_posts")
+    
+    def process_contents(contents_list):
+        for content in contents_list:
+            if content.type == "dir":
+                # Rekurzivně zpracovat podadresáře
+                sub_contents = repo.get_contents(content.path)
+                process_contents(sub_contents)
+            elif content.name.endswith('.md') and not content.path.startswith('_posts/en/'):
+                articles.append({
+                    'path': content.path,
+                    'name': content.name
+                })
+    
+    process_contents(contents)
+    
+    # Seřadit podle data v názvu souboru (novější první)
+    articles.sort(key=lambda x: x['name'], reverse=True)
+    
+    return articles[:limit]
 
 def main():
+    """
+    Hlavní funkce scriptu
+    """
     debug_print("Script started")
-    g = Github(GITHUB_TOKEN)
-    repo = g.get_repo(REPO_NAME)
-
-    article_filename, article_content = get_latest_article(repo)
-    if article_content:
-        # Skip articles older or equal to cutoff_date
-        if cutoff_date:
-            post_date = get_post_date_from_filename(article_filename)
-            if not post_date or post_date <= cutoff_date:
-                debug_print(f"Skipping audio generation for {article_filename}, date {post_date} <= cutoff {cutoff_date}")
-                return
-        # Nejdřív extrahujeme front matter a zkontrolujeme audiooff
-        front_matter, content = extract_front_matter(article_content)
+    
+    # Kontrola proměnných prostředí
+    if not API_KEY:
+        error_print("ELEVENLABS_API_KEY is not set!")
+        sys.exit(1)
+    
+    if not GITHUB_TOKEN:
+        error_print("GITHUB_TOKEN is not set!")
+        sys.exit(1)
+    
+    try:
+        # Připojení k GitHub repository
+        g = Github(GITHUB_TOKEN)
+        repo = g.get_repo(REPO_NAME)
+        debug_print(f"Connected to repository: {REPO_NAME}")
         
-        debug_print(f"Checking audio generation status for {article_filename}")
-        if front_matter.get('audiooff', False):
-            debug_print(f"Audio generation is disabled for article: {article_filename}")
-            return
-            
-        # Kontrola, zda článek už nemá audio
-        if 'audio_url' in front_matter:
-            debug_print(f"Article already has audio: {front_matter['audio_url']}")
-            return
-
-        # Vytvoření adresáře audio pokud neexistuje
-        if not os.path.exists(AUDIO_DIR):
-            os.makedirs(AUDIO_DIR)
+        # Získat nedávné články
+        recent_articles = get_recent_articles(repo, limit=5)
+        debug_print(f"Found {len(recent_articles)} recent articles")
         
-        # Vytvoření cesty k výstupnímu souboru
-        audio_filename = os.path.splitext(os.path.basename(article_filename))[0] + ".mp3"
-        audio_path = os.path.join(AUDIO_DIR, audio_filename)
-        audio_url = f"{BASE_URL}/{audio_path}"
-
-        # Zkontrolujte, zda již audio soubor existuje
-        if os.path.exists(audio_path):
-            debug_print(f"Audio file already exists: {audio_path}")
-        else:
-            article_title = extract_title(article_content)
-            article_date = extract_date(article_content)
-            article_excerpt = extract_excerpt(article_content)
-            article_text = extract_clean_text(article_content)
-            text_to_convert = f"Nadpis: {article_title}\n{article_text}"
-
-            audio_file_path = text_to_speech(text_to_convert, API_KEY, VOICE_ID, audio_path)
-            if audio_file_path:
-                rss = load_existing_rss_feed()
-                audio_files = [{"title": article_title, "url": audio_url, "excerpt": article_excerpt, "pubDate": article_date}]
-                for audio_file in audio_files:
-                    add_item_to_rss_feed(rss, audio_file)
-                save_rss_feed(rss)
-                updated_front_matter = update_front_matter(front_matter, audio_url)
-                updated_article = reassemble_article(updated_front_matter, content)
-                with open(article_filename, "w") as file:
-                    file.write(updated_article)
-                commit_and_push(repo, [audio_path, RSS_FEED_PATH, article_filename], f"Add audio for {article_filename}")
-    else:
-        debug_print("No new article found")
+        processed_count = 0
+        for article_info in recent_articles:
+            try:
+                # Získat obsah článku
+                file_content = repo.get_contents(article_info['path'])
+                article_content = file_content.decoded_content.decode('utf-8')
+                
+                # Zpracovat článek
+                if process_article(repo, article_info['path'], article_content):
+                    processed_count += 1
+                    debug_print(f"Successfully processed: {article_info['name']}")
+                    # Zpracovat pouze jeden článek za běh (kvůli API limitům)
+                    break
+                    
+            except Exception as e:
+                error_print(f"Error processing {article_info['name']}: {e}")
+                continue
+        
+        debug_print(f"Processed {processed_count} articles")
+        
+    except Exception as e:
+        error_print(f"Fatal error: {e}")
+        sys.exit(1)
     
     debug_print("Script finished")
 

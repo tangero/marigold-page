@@ -1,0 +1,40 @@
+name: Generate Podcast Audio
+
+on:
+  push:
+    paths:
+      - '_posts/**/*.md'
+  workflow_dispatch:  # Umožňuje ruční spuštění
+  schedule:
+    - cron: '0 10 * * *'  # Denně v 10:00 UTC
+
+jobs:
+  generate-audio:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install PyGithub requests pyyaml
+    
+    - name: Run podcast generation script
+      env:
+        ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        python .github/scripts/podcast-automation-script.py
+    
+    - name: Check for errors
+      if: failure()
+      run: |
+        echo "Podcast generation failed. Check the logs above for details."

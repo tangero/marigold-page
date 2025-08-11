@@ -1,5 +1,6 @@
 ---
 author: Patrick Zandl
+audio: true
 categories:
   - AI
   - Netscape
