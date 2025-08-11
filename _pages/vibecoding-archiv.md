@@ -78,7 +78,25 @@ permalink: /archiv/
 
   <article class="archive-article">
     <div class="article-software">
-      <a href="/vibecoding-{{ post.sw | default: folder_name }}/" class="software-name">{{ software_name }}</a>
+      {% assign link_name = post.sw | default: folder_name %}
+      {% comment %} Mapování názvů složek na správné URL {% endcomment %}
+      {% case link_name %}
+        {% when "claude-code" %}
+          {% assign final_link = "claude-code" %}
+        {% when "openai-codex" %}
+          {% assign final_link = "openai-codex" %}
+        {% when "lovable-dev" %}
+          {% assign final_link = "lovable-dev" %}
+        {% when "gemini-cli" %}
+          {% assign final_link = "gemini-cli" %}
+        {% when "Gemini CLI" %}
+          {% assign final_link = "gemini-cli" %}
+        {% when "ostatni" %}
+          {% assign final_link = "ostatni" %}
+        {% else %}
+          {% assign final_link = link_name %}
+      {% endcase %}
+      <a href="/vibecoding/{{ final_link }}/" class="software-name">{{ software_name }}</a>
       <span class="article-date">{{ post.date | date: "%d. %m. %Y" }}</span>
     </div>
 

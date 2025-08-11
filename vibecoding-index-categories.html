@@ -4,7 +4,7 @@ title: Vibecoding - AI nástroje pro programování
 ---
 
 <h1>Vibe Coding - AI nástroje pro programování</h1>
-<!-- Updated: pagination + fixed links - timestamp 2025-08-11T14:15 -->
+<!-- Final fix: correct vibecoding page links - timestamp 2025-08-11T16:15 -->
 
 <a href="/vibecoding-feed.xml" class="rss-link">📰 RSS Feed</a>
 
@@ -19,15 +19,15 @@ title: Vibecoding - AI nástroje pro programování
     </button>
     <div class="category-content">
       <div class="service-card">
-        <h4><a href="/vibecoding-cursor/">🖱️ Cursor</a></h4>
+        <h4><a href="/vibecoding/cursor/">🖱️ Cursor</a></h4>
         <p>Kompletní IDE založené na VS CODE s AI funkcemi pro rychlý vývoj a refactoring kódu</p>
       </div>
       <div class="service-card">
-        <h4><a href="/vibecoding-windsurf/">🌊 Windsurf</a></h4>
+        <h4><a href="/vibecoding/windsurf/">🌊 Windsurf</a></h4>
         <p>Inteligentní IDE s pokročilými AI funkcemi pro vývoj</p>
       </div>
       <div class="service-card">
-        <h4><a href="/vibecoding-memex/">🧠 Memex</a></h4>
+        <h4><a href="/vibecoding/memex/">🧠 Memex</a></h4>
         <p>Desktop aplikace pro vývoj software, velmi autonomní a za dobré peníze</p>
       </div>
     </div>
@@ -40,19 +40,19 @@ title: Vibecoding - AI nástroje pro programování
     </button>
     <div class="category-content">
       <div class="service-card">
-        <h4><a href="/vibecoding-databutton/">🔴 Databutton</a></h4>
+        <h4><a href="/vibecoding/databutton/">🔴 Databutton</a></h4>
         <p>Evropská AI-powered web platforma pro vytváření aplikací bez kódování</p>
       </div>
       <div class="service-card">
-        <h4><a href="/vibecoding-lovable/">💖 Lovable.dev</a></h4>
+        <h4><a href="/vibecoding/lovable-dev/">💖 Lovable.dev</a></h4>
         <p>AI nástroj pro rychlý vývoj moderních webových aplikací</p>
       </div>
       <div class="service-card">
-        <h4><a href="/vibecoding-tempolabs/">⚡ Tempolabs</a></h4>
+        <h4><a href="/vibecoding/tempolabs/">⚡ Tempolabs</a></h4>
         <p>Rychlý webový AI nástroj pro prototypování a vývoj aplikací</p>
       </div>
       <div class="service-card">
-        <h4><a href="/vibecoding-replit/">🟠 Replit</a></h4>
+        <h4><a href="/vibecoding/replit/">🟠 Replit</a></h4>
         <p>AI-powered cloudová platforma pro vývoj a nasazení aplikací s Replit Agent</p>
       </div>
     </div>
@@ -65,15 +65,15 @@ title: Vibecoding - AI nástroje pro programování
     </button>
     <div class="category-content">
       <div class="service-card">
-        <h4><a href="/vibecoding-claude/">🟣 Claude Code</a></h4>
+        <h4><a href="/vibecoding/claude-code/">🟣 Claude Code</a></h4>
         <p>Pokročilý terminálový asistent pro programování a analýzu kódu od Anthropicu</p>
       </div>
       <div class="service-card">
-        <h4><a href="/vibecoding-codex/">🟢 OpenAI Codex</a></h4>
-        <p>AI model pro generování a porozumění kódu od OpenAI</p>
+        <h4><a href="/vibecoding/openai-codex/">🟢 OpenAI Codex</a></h4>
+        <p>AI nástroj pro generování a porozumění kódu od OpenAI</p>
       </div>
       <div class="service-card">
-        <h4><a href="/vibecoding-gemini-cli/">🔵 Gemini CLI</a></h4>
+        <h4><a href="/vibecoding/gemini-cli/">🔵 Gemini CLI</a></h4>
         <p>Terminálový nástroj pro práci s Google Gemini modely přímo z příkazové řádky</p>
       </div>
     </div>
@@ -275,7 +275,25 @@ function toggleCategory(button) {
 
   <article class="vibecoding-article {% if is_short %}full-article{% else %}excerpt-article{% endif %}">
     <div class="article-software">
-      <a href="/vibecoding-{{ post.sw | default: folder_name }}/" class="software-name">{{ software_name }}</a>
+      {% assign link_name = post.sw | default: folder_name %}
+      {% comment %} Mapování názvů složek na spravne URL {% endcomment %}
+      {% case link_name %}
+        {% when "claude-code" %}
+          {% assign final_link = "claude-code" %}
+        {% when "openai-codex" %}
+          {% assign final_link = "openai-codex" %}
+        {% when "lovable-dev" %}
+          {% assign final_link = "lovable-dev" %}
+        {% when "gemini-cli" %}
+          {% assign final_link = "gemini-cli" %}
+        {% when "Gemini CLI" %}
+          {% assign final_link = "gemini-cli" %}
+        {% when "ostatni" %}
+          {% assign final_link = "ostatni" %}
+        {% else %}
+          {% assign final_link = link_name %}
+      {% endcase %}
+      <a href="/vibecoding/{{ final_link }}/" class="software-name">{{ software_name }}</a>
       <span class="article-date">{{ post.date | date: "%d. %m. %Y" }}</span>
     </div>
 
