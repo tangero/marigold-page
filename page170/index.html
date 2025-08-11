@@ -120,193 +120,6 @@
 </script>
 <!-- end feedwind code -->
 
-<!-- Audio Player -->
-<div id="audio-player" style="display: none;">
-  <div class="audio-controls">
-    <button id="play-pause" title="Přehrát/Pozastavit">▶️</button>
-    <button id="prev-track" title="Předchozí">⏮️</button> 
-    <button id="next-track" title="Další">⏭️</button>
-    <span id="track-title">Načítám playlist...</span>
-    <div class="progress-container">
-      <div class="progress-bar" id="progress"></div>
-    </div>
-    <span id="track-time">0:00 / 0:00</span>
-  </div>
-  <audio id="audio-element" preload="none"></audio>
-</div>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  // Vytvoř playlist z posledních 20 článků s audio
-  const playlist = [];
-  
-  
-  
-  
-  
-
-  if (playlist.length === 0) return;
-
-  // Zobraz přehrávač
-  const player = document.getElementById('audio-player');
-  player.style.display = 'block';
-
-  const audio = document.getElementById('audio-element');
-  const playPauseBtn = document.getElementById('play-pause');
-  const prevBtn = document.getElementById('prev-track');
-  const nextBtn = document.getElementById('next-track');
-  const trackTitle = document.getElementById('track-title');
-  const progress = document.getElementById('progress');
-  const trackTime = document.getElementById('track-time');
-
-  let currentTrack = 0;
-  let isPlaying = false;
-
-  function loadTrack(index) {
-    if (index >= playlist.length || index < 0) return;
-    currentTrack = index;
-    const track = playlist[currentTrack];
-    audio.src = track.url;
-    trackTitle.textContent = `${track.title} (${track.date})`;
-    progress.style.width = '0%';
-    trackTime.textContent = '0:00 / 0:00';
-  }
-
-  function formatTime(seconds) {
-    const mins = Math.floor(seconds / 60);
-    const secs = Math.floor(seconds % 60);
-    return `${mins}:${secs.toString().padStart(2, '0')}`;
-  }
-
-  function updateProgress() {
-    if (audio.duration) {
-      const progressPercent = (audio.currentTime / audio.duration) * 100;
-      progress.style.width = progressPercent + '%';
-      trackTime.textContent = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
-    }
-  }
-
-  playPauseBtn.addEventListener('click', function() {
-    if (isPlaying) {
-      audio.pause();
-      playPauseBtn.textContent = '▶️';
-      isPlaying = false;
-    } else {
-      audio.play();
-      playPauseBtn.textContent = '⏸️';
-      isPlaying = true;
-    }
-  });
-
-  prevBtn.addEventListener('click', function() {
-    currentTrack = currentTrack > 0 ? currentTrack - 1 : playlist.length - 1;
-    loadTrack(currentTrack);
-    if (isPlaying) audio.play();
-  });
-
-  nextBtn.addEventListener('click', function() {
-    currentTrack = currentTrack < playlist.length - 1 ? currentTrack + 1 : 0;
-    loadTrack(currentTrack);
-    if (isPlaying) audio.play();
-  });
-
-  audio.addEventListener('timeupdate', updateProgress);
-  
-  audio.addEventListener('ended', function() {
-    nextBtn.click();
-  });
-
-  audio.addEventListener('loadedmetadata', function() {
-    updateProgress();
-  });
-
-  // Načti první skladbu
-  loadTrack(0);
-});
-</script>
-
-<style>
-#audio-player {
-  background: #f5f5f5;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  padding: 10px;
-  margin-bottom: 20px;
-  position: sticky;
-  top: 10px;
-  z-index: 100;
-}
-
-.audio-controls {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-}
-
-.audio-controls button {
-  background: none;
-  border: none;
-  font-size: 16px;
-  cursor: pointer;
-  padding: 5px;
-  border-radius: 3px;
-  transition: background-color 0.2s;
-}
-
-.audio-controls button:hover {
-  background-color: rgba(0,0,0,0.1);
-}
-
-#track-title {
-  flex: 1;
-  font-weight: 500;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  min-width: 0;
-}
-
-.progress-container {
-  width: 100px;
-  height: 4px;
-  background: #ddd;
-  border-radius: 2px;
-  overflow: hidden;
-  cursor: pointer;
-}
-
-.progress-bar {
-  height: 100%;
-  background: #007cba;
-  width: 0%;
-  transition: width 0.1s;
-}
-
-#track-time {
-  font-size: 12px;
-  color: #666;
-  white-space: nowrap;
-}
-
-@media (max-width: 768px) {
-  .audio-controls {
-    gap: 5px;
-  }
-  
-  #track-title {
-    font-size: 14px;
-  }
-  
-  .progress-container {
-    width: 80px;
-  }
-  
-  #track-time {
-    font-size: 11px;
-  }
-}
-</style>
 
 <div class="posts">
   
@@ -324,6 +137,315 @@ document.addEventListener('DOMContentLoaded', function() {
   
   
   
+
+  <!-- Audio Player -->
+  <!-- Připrav audio playlist data - vezmi VŠECHNY články, ne jen aktuální stránku -->
+  
+  
+
+  <div id="audio-player" style="display: none;">
+    <div class="audio-controls">
+      <button id="play-pause" title="Přehrát/Pozastavit">▶️</button>
+      <button id="prev-track" title="Předchozí">⏮️</button> 
+      <button id="next-track" title="Další">⏭️</button>
+      <span id="track-title">Načítám playlist...</span>
+      <div class="progress-container">
+        <div class="progress-bar" id="progress"></div>
+      </div>
+      <span id="track-time">0:00 / 0:00</span>
+    </div>
+    <audio id="audio-element" preload="none"></audio>
+  </div>
+
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Vytvoř playlist z posledních 20 článků s audio
+    const playlist = [
+      
+      {
+        title: "Context Engineering: Nová disciplína pro tvorbu spolehlivých AI systémů",
+        url: "https://www.marigold.cz/audio/2025-08-11-context-engineering.mp3",
+        date: "11.08.2025"
+      },
+      
+      {
+        title: "Dědictví Netscape tlačí internetové služby k centralizaci",
+        url: "https://www.marigold.cz/audio/2025-08-06-dedictvi-netscape-tlaci-do-centralizace.mp3",
+        date: "06.08.2025"
+      },
+      
+      {
+        title: "AI novinky k 15.5.2025",
+        url: "http://www.marigold.cz/audio/2025-05-11-openai-kupuje-windsurf.mp3",
+        date: "15.05.2025"
+      },
+      
+      {
+        title: "OpenAI kupuje Windsurf a  posiluje v programátorských nástrojích",
+        url: "http://www.marigold.cz/audio/2025-05-11-openai-kupuje-windsurf.mp3",
+        date: "11.05.2025"
+      },
+      
+      {
+        title: "A2A protokol - Nový standard pro interoperabilitu AI agentů",
+        url: "http://www.marigold.cz/audio/2025-04-09-google-a2a.mp3",
+        date: "09.04.2025"
+      },
+      
+      {
+        title: "Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu",
+        url: "http://www.marigold.cz/audio/2025-04-03-architektura-vibecoding.mp3",
+        date: "03.04.2025"
+      },
+      
+      {
+        title: "Deset knih o současné politice, ekonomice a technologiích na jaro 2025",
+        url: "http://www.marigold.cz/audio/2025-03-29-deset-knih-na-jaro-2025.mp3",
+        date: "29.03.2025"
+      },
+      
+      {
+        title: "Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi",
+        url: "http://www.marigold.cz/audio/2025-03-27-zapier-mcp.mp3",
+        date: "27.03.2025"
+      },
+      
+      {
+        title: "🧠 AI nástroje pro programování - přehled",
+        url: "http://www.marigold.cz/audio/2025-03-26-ai-nastroje-programovani-prehled.mp3",
+        date: "26.03.2025"
+      },
+      
+      {
+        title: "🐟 Deepseek jako čínský Sputnik",
+        url: "https://www.marigold.cz/audio/2025-01-29-deepseek.mp3",
+        date: "29.01.2025"
+      },
+      
+      {
+        title: "AI v roce 2025 -  Regulace, spolehlivost, geopolitika a autentické blogy",
+        url: "https://www.marigold.cz/audio/2025-01-13-ai-rok-2025-dil-2.mp3",
+        date: "13.01.2025"
+      },
+      
+      {
+        title: "Zúčtování s rokem 2024 a nahlížení do politiky verze 50",
+        url: "https://www.marigold.cz/audio/2025-01-10-osobni-politicke-ohlednuti-2025.mp3",
+        date: "10.01.2025"
+      },
+      
+      {
+        title: "Rok 2025 -  Umělá inteligence jako nedílná součást naší reality I.",
+        url: "https://www.marigold.cz/audio/2025-01-06-rok-2025-v-ai.mp3",
+        date: "06.01.2025"
+      },
+      
+      {
+        title: "Jacka Ma, šéf Alibaby -  Dobrá inovace se nebojí regulace",
+        url: "https://www.marigold.cz/audio/2024-12-27-jack-ma-shanghai-speach.mp3",
+        date: "27.12.2024"
+      },
+      
+      {
+        title: "Audio podcast z vašich textů automaticky. NotebookLM a Elevenlabs GenFM",
+        url: "http://www.marigold.cz/audio/2024-11-28-podcasty-z-textu-automaticky.mp3",
+        date: "28.11.2024"
+      },
+      
+      {
+        title: "Ebook Technoelity - Kdy\u017E p\u0159\xEDli\u0161 m\xE1lo ur\u010Duje p\u0159\ \xEDli\u0161 mnoho",
+        url: "http://www.marigold.cz/audio/2024-10-09-ebook-technoelity.mp3",
+        date: "09.10.2024"
+      },
+      
+      {
+        title: "S psaní beletrie už AI pomůže",
+        url: "http://www.marigold.cz/audio/2024-09-08-ai-psani-povidek.mp3",
+        date: "08.09.2024"
+      },
+      
+      {
+        title: "Případ eurounijní zvůle v podobě jednotné nabíječky mobilů",
+        url: "http://www.marigold.cz/audio/2024-08-17-zlovule-eu-jednotna-nabijecka-mobilu-usb-c.mp3",
+        date: "17.08.2024"
+      },
+      
+      {
+        title: "Návod na programování s AI, když programovat neumíte",
+        url: "http://www.marigold.cz/audio/2024-07-14-jak-programovat-s-ai.mp3",
+        date: "14.08.2024"
+      },
+      
+      {
+        title: "Další nika, do které se AI nacpe? Podcasty!",
+        url: "https://www.marigold.cz/audio/2024-07-26-ai-nika-podcasty.mp3",
+        date: "26.07.2024"
+      }
+      
+    ];
+
+    if (playlist.length === 0) return;
+
+    // Zobraz přehrávač
+    const player = document.getElementById('audio-player');
+    player.style.display = 'block';
+
+    const audio = document.getElementById('audio-element');
+    const playPauseBtn = document.getElementById('play-pause');
+    const prevBtn = document.getElementById('prev-track');
+    const nextBtn = document.getElementById('next-track');
+    const trackTitle = document.getElementById('track-title');
+    const progress = document.getElementById('progress');
+    const trackTime = document.getElementById('track-time');
+
+    let currentTrack = 0;
+    let isPlaying = false;
+
+    function loadTrack(index) {
+      if (index >= playlist.length || index < 0) return;
+      currentTrack = index;
+      const track = playlist[currentTrack];
+      audio.src = track.url;
+      trackTitle.textContent = `${track.title} (${track.date})`;
+      progress.style.width = '0%';
+      trackTime.textContent = '0:00 / 0:00';
+    }
+
+    function formatTime(seconds) {
+      const mins = Math.floor(seconds / 60);
+      const secs = Math.floor(seconds % 60);
+      return `${mins}:${secs.toString().padStart(2, '0')}`;
+    }
+
+    function updateProgress() {
+      if (audio.duration) {
+        const progressPercent = (audio.currentTime / audio.duration) * 100;
+        progress.style.width = progressPercent + '%';
+        trackTime.textContent = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
+      }
+    }
+
+    playPauseBtn.addEventListener('click', function() {
+      if (isPlaying) {
+        audio.pause();
+        playPauseBtn.textContent = '▶️';
+        isPlaying = false;
+      } else {
+        audio.play();
+        playPauseBtn.textContent = '⏸️';
+        isPlaying = true;
+      }
+    });
+
+    prevBtn.addEventListener('click', function() {
+      currentTrack = currentTrack > 0 ? currentTrack - 1 : playlist.length - 1;
+      loadTrack(currentTrack);
+      if (isPlaying) audio.play();
+    });
+
+    nextBtn.addEventListener('click', function() {
+      currentTrack = currentTrack < playlist.length - 1 ? currentTrack + 1 : 0;
+      loadTrack(currentTrack);
+      if (isPlaying) audio.play();
+    });
+
+    audio.addEventListener('timeupdate', updateProgress);
+    
+    audio.addEventListener('ended', function() {
+      nextBtn.click();
+    });
+
+    audio.addEventListener('loadedmetadata', function() {
+      updateProgress();
+    });
+
+    // Načti první skladbu
+    loadTrack(0);
+  });
+  </script>
+
+  <style>
+  #audio-player {
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 20px;
+    position: sticky;
+    top: 10px;
+    z-index: 100;
+  }
+
+  .audio-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+
+  .audio-controls button {
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 3px;
+    transition: background-color 0.2s;
+  }
+
+  .audio-controls button:hover {
+    background-color: rgba(0,0,0,0.1);
+  }
+
+  #track-title {
+    flex: 1;
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+  }
+
+  .progress-container {
+    width: 100px;
+    height: 4px;
+    background: #ddd;
+    border-radius: 2px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+
+  .progress-bar {
+    height: 100%;
+    background: #007cba;
+    width: 0%;
+    transition: width 0.1s;
+  }
+
+  #track-time {
+    font-size: 12px;
+    color: #666;
+    white-space: nowrap;
+  }
+
+  @media (max-width: 768px) {
+    .audio-controls {
+      gap: 5px;
+    }
+    
+    #track-title {
+      font-size: 14px;
+    }
+    
+    .progress-container {
+      width: 80px;
+    }
+    
+    #track-time {
+      font-size: 11px;
+    }
+  }
+  </style>
   
   
     <article class="post">
