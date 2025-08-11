@@ -26491,10 +26491,28 @@
   
     
     ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//vibecoding-minimal-index/",
+      "category" : "stránka",
+      "content"  : "# VibecodingPrůvodce světem AI nástrojů pro programování.## Články{% for post in site.vibecoding %}- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}{% endfor %}{% if site.vibecoding.size == 0 %}*Zatím nejsou k dispozici žádné články o AI nástrojích.*{% endif %}"
+    }
+    
+  
+    
+    ,{
       "title"    : "Replit - Vibe Coding",
       "url"      : "//vibecoding/replit/",
       "category" : "stránka",
       "content"  : "# 🟠 Replit**AI-powered cloudová platforma pro vývoj a nasazení aplikací**🔗 [Navštívit Replit →](https://replit.com/refer/zandl)Replit je cloudová vývojová platforma, která kombinuje AI s kompletním vývojovým prostředím. Umožňuje vytvářet, upravovat a nasazovat aplikace přímo v prohlížeči s pomocí Replit Agent - pokročilého AI asistenta pro programování.Replit se zaměřuje na &quot;vibe coding&quot; - rychlý a intuitivní vývoj aplikací s minimální konfigurací. Platforma nabízí integrované nástroje pro databáze, autentizaci, hosting a bezpečnost. 📋 Detailní informace o Replit ### Klíčové vlastnosti:- **Replit Agent** - AI asistent pro vytváření celých aplikací- **Element Editor** - vizuální úprava aplikací bez kódování- **Replit Auth** - bezpečná autentizace bez konfigurace- **Import..."
+    }
+    
+  
+    
+    ,{
+      "title"    : "Vibecoding",
+      "url"      : "//vibecoding-simple/",
+      "category" : "stránka",
+      "content"  : "Vibecoding - AI nástroje pro programování  {% for post in site.vibecoding %}          {{ post.title }}      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}      {% if post.excerpt %}        {{ post.excerpt | strip_html | truncatewords: 30 }}      {% endif %}      {% endfor %}{% if site.vibecoding.size == 0 %}Zatím nejsou k dispozici žádné články.{% endif %}"
     }
     
   

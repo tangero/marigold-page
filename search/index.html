@@ -35509,11 +35509,37 @@
   
     
       addToStore(
+        "vibecoding-minimal-index",
+        {
+          title: "Vibecoding - AI nástroje pro programování",
+          content: "# Vibecoding Průvodce světem AI nástrojů pro programování. ## Články {% for post in site.vibecoding %} - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: \&quot;%-d. %-m. %Y\&quot; }} {% endfor %} {% if site.vibecoding.size == 0 %} *Zatím nejsou k dispozici žádné články o AI nástrojích.* {%...",
+          url: "//vibecoding-minimal-index/",
+          category: "stránka",
+          date: ""
+        }
+      );
+    
+  
+    
+      addToStore(
         "vibecoding-replit",
         {
           title: "Replit - Vibe Coding",
           content: "# 🟠 Replit **AI-powered cloudová platforma pro vývoj a nasazení aplikací** 🔗 [Navštívit Replit →](https://replit.com/refer/zandl) Replit je cloudová vývojová platforma, která kombinuje AI s kompletním vývojovým prostředím. Umožňuje vytvářet, upravovat a nasazovat aplikace přímo v prohlížeči s pomocí Replit Agent - pokročilého AI asistenta pro programování. Replit se zaměřuje na...",
           url: "//vibecoding/replit/",
+          category: "stránka",
+          date: ""
+        }
+      );
+    
+  
+    
+      addToStore(
+        "vibecoding-simple",
+        {
+          title: "Vibecoding",
+          content: "Vibecoding - AI nástroje pro programování {% for post in site.vibecoding %} {{ post.title }} {{ post.date | date: \&quot;%-d. %-m. %Y\&quot; }} {% if post.excerpt %} {{ post.excerpt | strip_html | truncatewords: 30 }} {% endif %} {% endfor %} {% if site.vibecoding.size == 0 %} Zatím nejsou k...",
+          url: "//vibecoding-simple/",
           category: "stránka",
           date: ""
         }
