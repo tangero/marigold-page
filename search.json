@@ -26455,6 +26455,15 @@
   
     
     ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//vibecoding-index/",
+      "category" : "stránka",
+      "content"  : "Vibecoding Průvodce světem AI nástrojů pro programování. Recenze, návody a tipy pro Claude Code, Cursor, Windsurf a další. {% assign tools = &quot;claude-code cursor windsurf lovable-dev replit databutton gemini-cli openai-codex tempolabs memex ostatni&quot; | split: &quot; &quot; %} {% for tool in tools %} {% assign tool_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains tool&quot; | sort: &quot;date&quot; | reverse %} {% if tool_posts.size &gt; 0 %} {% case tool %} {% when &quot;claude-code&quot; %} Claude Code {% when &quot;cursor&quot; %} Cursor {% when &quot;windsurf&quot; %} Windsurf {% when &quot;lovable-dev&quot; %} Lovable {% when &quot;replit&quot; %} Replit {% when &quot;databutton&quot;..."
+    }
+    
+  
+    
+    ,{
       "title"    : "Lovable.dev - Vibe Coding",
       "url"      : "//vibecoding/lovable-dev/",
       "category" : "stránka",
