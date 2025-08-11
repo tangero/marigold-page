@@ -26435,6 +26435,15 @@
   
     
     ,{
+      "title"    : "Claude Code - Vibecoding",
+      "url"      : "//vibecoding/claude-code/",
+      "category" : "stránka",
+      "content"  : "  Claude Code  Články, návody a tipy pro práci s Claude Code - oficiálním AI nástrojem od Anthropic pro programování.      Marigold.cz ›     Vibecoding ›     Claude Code        {% assign claude_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;claude-code&#39;&quot; | sort: &quot;date&quot; | reverse %}    {% for post in claude_posts %}                        {{ post.title }}                                      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}                          {% if post.excerpt %}                      {{ post.excerpt | strip_html | truncatewords: 50 }}                  {% endif %}          {% endfor %}        ← Zpět na přehled všech nástrojů  "
+    }
+    
+  
+    
+    ,{
       "title"    : "Claude Code - Vibe Coding",
       "url"      : "//vibecoding/claude-code/",
       "category" : "stránka",
@@ -26453,10 +26462,28 @@
   
     
     ,{
+      "title"    : "Cursor - Vibecoding",
+      "url"      : "//vibecoding/cursor/",
+      "category" : "stránka",
+      "content"  : "  Cursor  Články a návody pro Cursor - AI editor postavený na VS Code s integrovanou AI asistencí.      Marigold.cz ›     Vibecoding ›     Cursor        {% assign cursor_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;cursor&#39;&quot; | sort: &quot;date&quot; | reverse %}    {% for post in cursor_posts %}                        {{ post.title }}                                      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}                          {% if post.excerpt %}                      {{ post.excerpt | strip_html | truncatewords: 50 }}                  {% endif %}          {% endfor %}        ← Zpět na přehled všech nástrojů  "
+    }
+    
+  
+    
+    ,{
       "title"    : "Cursor - Vibe Coding",
       "url"      : "//vibecoding/cursor/",
       "category" : "stránka",
       "content"  : "# 🖱️ Cursor**AI-first editor s pokročilými funkcemi pro rychlý vývoj a refactoring kódu**🔗 [Navštívit Cursor →](https://cursor.sh)Cursor je moderní code editor postavený na VS Code s nativní AI integrací. Editor je navržen speciálně pro AI-asistované programování a nabízí revolucionární způsob práce s kódem pomocí umělé inteligence.Na rozdíl od VS Code s pluginy má AI funkcionalitu zabudovanou přímo v jádru editoru. Používá vlastní AI modely optimalizované pro programování, ale podporuje i externí modely jako GPT-4, Claude a další. 📋 Detailní informace o Cursor ## 📋 Základní informace### Co je Cursor?Cursor je fork VS Code s důrazem na AI-first přístup k programování. Na..."
+    }
+    
+  
+    
+    ,{
+      "title"    : "Databutton - Vibecoding",
+      "url"      : "//vibecoding/databutton/",
+      "category" : "stránka",
+      "content"  : "  Databutton  Články a návody pro Databutton - AI nástroj pro tvorbu aplikací bez kódu.      Marigold.cz ›     Vibecoding ›     Databutton        {% assign databutton_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;databutton&#39;&quot; | sort: &quot;date&quot; | reverse %}    {% for post in databutton_posts %}                        {{ post.title }}                                      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}                          {% if post.excerpt %}                      {{ post.excerpt | strip_html | truncatewords: 50 }}                  {% endif %}          {% endfor %}        ← Zpět na přehled všech nástrojů  "
     }
     
   
@@ -26469,6 +26496,15 @@
     }
     
   
+    
+  
+    
+    ,{
+      "title"    : "Gemini CLI - Vibecoding",
+      "url"      : "//vibecoding/gemini-cli/",
+      "category" : "stránka",
+      "content"  : "  Gemini CLI  Články a návody pro Gemini CLI - příkazová řádka pro práci s Google Gemini AI.      Marigold.cz ›     Vibecoding ›     Gemini CLI        {% assign gemini_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;gemini-cli&#39;&quot; | sort: &quot;date&quot; | reverse %}    {% for post in gemini_posts %}                        {{ post.title }}                                      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}                          {% if post.excerpt %}                      {{ post.excerpt | strip_html | truncatewords: 50 }}                  {% endif %}          {% endfor %}        ← Zpět na přehled všech nástrojů  "
+    }
     
   
     
@@ -26500,10 +26536,28 @@
   
     
     ,{
+      "title"    : "Lovable - Vibecoding",
+      "url"      : "//vibecoding/lovable-dev/",
+      "category" : "stránka",
+      "content"  : "  Lovable  Články a návody pro Lovable (dříve GPT Engineer) - AI nástroj pro rychlý vývoj aplikací.      Marigold.cz ›     Vibecoding ›     Lovable        {% assign lovable_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;lovable-dev&#39;&quot; | sort: &quot;date&quot; | reverse %}    {% for post in lovable_posts %}                        {{ post.title }}                                      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}                          {% if post.excerpt %}                      {{ post.excerpt | strip_html | truncatewords: 50 }}                  {% endif %}          {% endfor %}        ← Zpět na přehled všech nástrojů  "
+    }
+    
+  
+    
+    ,{
       "title"    : "Lovable.dev - Vibe Coding",
       "url"      : "//vibecoding/lovable-dev/",
       "category" : "stránka",
       "content"  : "# 💖 Lovable.dev**AI-powered platforma pro rychlé vytváření full-stack webových aplikací**🔗 [Navštívit Lovable.dev →](https://lovable.dev/invite/405d95b3-120c-4d39-9359-6deaf3dc482e)Lovable.dev umožňuje vytvářet kompletní webové aplikace pomocí přirozeného jazyka. Platforma automaticky generuje frontend, backend i databázové schéma na základě textového popisu požadavků.Specializuje se na moderní web stack (React, Node.js, PostgreSQL) a integruje pokročilé AI nástroje pro automatizaci celého vývojového procesu od návrhu po deployment. Ideální pro rychlé prototypování a MVP vývoj. 📋 Detailní informace o Lovable.dev ### Klíčové vlastnosti:- **Full-stack generování** - kompletní aplikace z popisu- **Modern stack** - React, Node.js, PostgreSQL, TypeScript- **AI-driven design** - automatický návrh UI/UX- **Real-time preview** - okamžité zobrazení změn- **One-click deploy** -..."
+    }
+    
+  
+    
+    ,{
+      "title"    : "Memex - Vibecoding",
+      "url"      : "//vibecoding/memex/",
+      "category" : "stránka",
+      "content"  : "  Memex  Články a návody pro Memex - AI nástroj pro správu znalostí a kódu.      Marigold.cz ›     Vibecoding ›     Memex        {% assign memex_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;memex&#39;&quot; | sort: &quot;date&quot; | reverse %}    {% for post in memex_posts %}                        {{ post.title }}                                      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}                          {% if post.excerpt %}                      {{ post.excerpt | strip_html | truncatewords: 50 }}                  {% endif %}          {% endfor %}        ← Zpět na přehled všech nástrojů  "
     }
     
   
@@ -26527,6 +26581,42 @@
   
     
     ,{
+      "title"    : "OpenAI Codex - Vibecoding",
+      "url"      : "//vibecoding/openai-codex/",
+      "category" : "stránka",
+      "content"  : "  OpenAI Codex  Články a návody pro OpenAI Codex a související AI nástroje od OpenAI.      Marigold.cz ›     Vibecoding ›     OpenAI Codex        {% assign openai_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;openai-codex&#39;&quot; | sort: &quot;date&quot; | reverse %}    {% for post in openai_posts %}                        {{ post.title }}                                      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}                          {% if post.excerpt %}                      {{ post.excerpt | strip_html | truncatewords: 50 }}                  {% endif %}          {% endfor %}        ← Zpět na přehled všech nástrojů  "
+    }
+    
+  
+    
+    ,{
+      "title"    : "Ostatní nástroje - Vibecoding",
+      "url"      : "//vibecoding/ostatni/",
+      "category" : "stránka",
+      "content"  : "  Ostatní nástroje  Další AI nástroje pro programování a vývoj aplikací.      Marigold.cz ›     Vibecoding ›     Ostatní nástroje        {% assign ostatni_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;ostatni&#39;&quot; | sort: &quot;date&quot; | reverse %}    {% for post in ostatni_posts %}                        {{ post.title }}                                      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}                          {% if post.excerpt %}                      {{ post.excerpt | strip_html | truncatewords: 50 }}                  {% endif %}          {% endfor %}        ← Zpět na přehled všech nástrojů  "
+    }
+    
+  
+    
+    ,{
+      "title"    : "Ostatní nástroje - Vibe Coding",
+      "url"      : "//vibecoding/ostatni/",
+      "category" : "stránka",
+      "content"  : "# 🔧 Ostatní nástroje**Další AI nástroje pro programování a vývoj aplikací**Zde najdete přehled dalších zajímavých AI nástrojů, které nezapadají do hlavních kategorií, ale stojí za pozornost. 📋 Detailní informace o ostatních nástrojích ### Zahrnuté nástroje:- **Trae Agent** - Open source AI agent pro softwarové inženýrství- **Softgen AI** - Nástroj s plánovacím režimem a uloženými příkazy- **A další** - Průběžně přidáváme nové nástroje### Pro koho jsou určeny:- **Vývojáři** - hledající alternativní nástroje- **Týmy** - testující různé přístupy k AI vývoji- **Experimentátoři** - zkoušející nové technologie### Výhody:- Různorodé přístupy k AI asistenci- Open source alternativy- Specializované nástroje pro specifické úkoly {% include..."
+    }
+    
+  
+    
+    ,{
+      "title"    : "Replit - Vibecoding",
+      "url"      : "//vibecoding/replit/",
+      "category" : "stránka",
+      "content"  : "  Replit  Články a návody pro Replit - online vývojové prostředí s AI asistencí.      Marigold.cz ›     Vibecoding ›     Replit        {% assign replit_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;replit&#39;&quot; | sort: &quot;date&quot; | reverse %}    {% for post in replit_posts %}                        {{ post.title }}                                      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}                          {% if post.excerpt %}                      {{ post.excerpt | strip_html | truncatewords: 50 }}                  {% endif %}          {% endfor %}        ← Zpět na přehled všech nástrojů  "
+    }
+    
+  
+    
+    ,{
       "title"    : "Replit - Vibe Coding",
       "url"      : "//vibecoding/replit/",
       "category" : "stránka",
@@ -26545,10 +26635,28 @@
   
     
     ,{
+      "title"    : "Tempo Labs - Vibecoding",
+      "url"      : "//vibecoding/tempolabs/",
+      "category" : "stránka",
+      "content"  : "  Tempo Labs  Články a návody pro Tempo Labs - AI nástroj pro rychlý vývoj aplikací.      Marigold.cz ›     Vibecoding ›     Tempo Labs        {% assign tempo_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;tempolabs&#39;&quot; | sort: &quot;date&quot; | reverse %}    {% for post in tempo_posts %}                        {{ post.title }}                                      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}                          {% if post.excerpt %}                      {{ post.excerpt | strip_html | truncatewords: 50 }}                  {% endif %}          {% endfor %}        ← Zpět na přehled všech nástrojů  "
+    }
+    
+  
+    
+    ,{
       "title"    : "Tempolabs - Vibe Coding",
       "url"      : "//vibecoding/tempolabs/",
       "category" : "stránka",
       "content"  : "# ⚡ Tempolabs**Rychlý AI nástroj pro prototypování a vývoj aplikací**🔗 [Navštívit Tempolabs →](https://www.tempolabs.ai)Tempolabs se zaměřuje na extrémně rychlý vývoj aplikací pomocí AI. Platforma umožňuje převést nápad na funkční prototyp během minut, podporuje deployment do cloudu a automatizuje mnoho vývojových procesů. 📋 Detailní informace o Tempolabs ## 📋 Základní informace### Co je Tempolabs?Tempolabs je AI-powered platforma zaměřená na extrémně rychlý vývoj aplikací. Na rozdíl od tradičních vývojových prostředí dokáže převést textový popis do funkční aplikace během minut. Specializuje se na rapid prototypování a automatický deployment.### Klíčové vlastnosti:- **Instant Development** - od nápadu k aplikaci za minuty- **AI-powered coding** - automatické generování..."
+    }
+    
+  
+    
+    ,{
+      "title"    : "Windsurf - Vibecoding",
+      "url"      : "//vibecoding/windsurf/",
+      "category" : "stránka",
+      "content"  : "  Windsurf  Články a návody pro Windsurf - AI vývojové prostředí od Codeium.      Marigold.cz ›     Vibecoding ›     Windsurf        {% assign windsurf_posts = site.vibecoding | where_exp: &quot;post&quot;, &quot;post.path contains &#39;windsurf&#39;&quot; | sort: &quot;date&quot; | reverse %}    {% for post in windsurf_posts %}                        {{ post.title }}                                      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}                          {% if post.excerpt %}                      {{ post.excerpt | strip_html | truncatewords: 50 }}                  {% endif %}          {% endfor %}        ← Zpět na přehled všech nástrojů  "
     }
     
   
