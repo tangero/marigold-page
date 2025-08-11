@@ -26554,6 +26554,15 @@
   
     
     ,{
+      "title"    : "Vibecoding.cz - AI nástroje pro programování",
+      "url"      : "//vibecoding/",
+      "category" : "stránka",
+      "content"  : "Vibecoding.cz Průvodce světem AI nástrojů pro programování. Recenze, návody a tipy pro Claude Code, Cursor, Windsurf a další. 🗂️ Kategorie nástrojů 🟣 Claude Code Pokročilý AI asistent od Anthropic pro programování ⚡ Cursor AI editor postavený na VS Code s integrovanou AI asistencí 🌊 Windsurf AI vývojové prostředí od Codeium 🚀 Replit Online vývojové prostředí s AI asistencí ❤️ Lovable AI nástroj pro rychlý vývoj webových aplikací 📊 Databutton AI nástroj pro tvorbu aplikací bez kódu 💎 Gemini CLI Příkazová řádka pro práci s Google Gemini AI 🤖 OpenAI Codex AI nástroje od OpenAI pro programování ⚡ Tempo Labs AI..."
+    }
+    
+  
+    
+    ,{
       "title"    : "Memex - Vibecoding",
       "url"      : "//vibecoding/memex/",
       "category" : "stránka",
@@ -26631,6 +26640,8 @@
       "category" : "stránka",
       "content"  : "Vibecoding - AI nástroje pro programování  {% for post in site.vibecoding %}          {{ post.title }}      {{ post.date | date: &quot;%-d. %-m. %Y&quot; }}      {% if post.excerpt %}        {{ post.excerpt | strip_html | truncatewords: 30 }}      {% endif %}      {% endfor %}{% if site.vibecoding.size == 0 %}Zatím nejsou k dispozici žádné články.{% endif %}"
     }
+    
+  
     
   
     
