@@ -1,12 +1,17 @@
 #!/bin/bash
 # Safe build script for Cloudflare Pages with UTF-8 encoding
 
+# Enable detailed tracing
+set -x
+# Note: not using set -e to allow fallback mechanisms
+
 # Set UTF-8 locale for Czech content
 export LANG=cs_CZ.UTF-8
 export LC_ALL=C.UTF-8
 export LC_CTYPE=cs_CZ.UTF-8
 
 echo "Building Vibecoding site with UTF-8 encoding..."
+echo "Script starting at: $(date)"
 
 # Install dependencies
 bundle install
@@ -53,25 +58,64 @@ ls -la _site
 echo "Running Jekyll build with trace..."
 bundle exec jekyll build --config _config_vibecoding.yml --trace --verbose
 
+# Wait a moment for filesystem sync
+sleep 2
+
 # Debug - check what was created
 echo "=== POST-BUILD DEBUG ==="
-echo "Working directory:"
-pwd
+echo "Working directory: $(pwd)"
 echo "Contents of current directory:"
 ls -la
 echo "Looking for _site directory:"
-find . -name "_site" -type d 2>/dev/null || echo "No _site directory found"
-echo "Checking if _site exists:"
-if [ -d "_site" ]; then
-    echo "_site directory EXISTS"
-    ls -la _site/
+find . -maxdepth 1 -name "_site" -type d 2>/dev/null || echo "No _site directory found"
+
+# Check _site with multiple methods
+echo "Checking if _site exists (test -d):"
+if test -d "_site"; then
+    echo "_site directory EXISTS via test -d"
+    ls -la _site/ || echo "Cannot list _site contents"
 else
-    echo "_site directory DOES NOT EXIST"
+    echo "_site directory DOES NOT EXIST via test -d"
 fi
 
-# Copy index file and verify build
+echo "Checking if _site exists ([ -d ]):"
 if [ -d "_site" ]; then
-    echo "_site directory exists, copying index..."
+    echo "_site directory EXISTS via [ -d ]"
+    ls -la _site/ || echo "Cannot list _site contents"
+else
+    echo "_site directory DOES NOT EXIST via [ -d ]"
+fi
+
+# Try to create basic site if Jekyll didn't
+if [ ! -d "_site" ]; then
+    echo "Creating fallback _site directory..."
+    mkdir -p _site
+    cat > _site/index.html << 'EOF'
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vibecoding - AI nástroje pro programování</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #333; }
+        .article { margin: 20px 0; padding: 10px; border-left: 3px solid #007acc; }
+    </style>
+</head>
+<body>
+    <h1>Vibecoding - AI nástroje pro programování</h1>
+    <p>Průvodce světem AI nástrojů pro programování.</p>
+    <p><em>Web se právě generuje pomocí fallback mechanismu...</em></p>
+</body>
+</html>
+EOF
+    echo "Fallback site created"
+fi
+
+# Copy index file and verify build  
+if [ -d "_site" ]; then
+    echo "_site directory found, copying index..."
     
     # Create index.html from vibecoding-simple.html  
     if [ -f "vibecoding-simple.html" ]; then
