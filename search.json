@@ -26420,7 +26420,7 @@
       "title"    : "Archiv Vibecoding článků",
       "url"      : "//archiv/",
       "category" : "stránka",
-      "content"  : "📚 Archiv Vibecoding článků← Zpět na titulní stránkuKompletní přehled všech článků o AI nástrojích pro programování, seřazený od nejnovějších.{% assign vibecoding_posts = site.vibecoding | sort: &quot;date&quot; | reverse %}{% assign skip_count = 20 %}{% for post in vibecoding_posts offset: skip_count %} {% assign content_length = post.content | strip_html | size %} {% assign is_short = false %} {% if content_length {{ software_name }} {{ post.date | date: &quot;%d. %m. %Y&quot; }} {{ post.title }} {% if post.excerpt and post.excerpt != &quot;&quot; %} {{ post.excerpt | strip_html | truncatewords: 30 }} {% else %} {% assign first_paragraph = post.content | split:..."
+      "content"  : "📚 Archiv Vibecoding článků← Zpět na titulní stránkuKompletní přehled všech článků o AI nástrojích pro programování, seřazený od nejnovějších.{% assign vibecoding_posts = site.vibecoding | sort: &quot;date&quot; | reverse %}{% assign skip_count = 20 %}{% for post in vibecoding_posts offset: skip_count %} {% assign content_length = post.content | strip_html | size %} {% assign is_short = false %} {% if content_length {% assign link_name = post.sw | default: folder_name %} {% comment %} Mapování názvů složek na správné URL {% endcomment %} {% case link_name %} {% when &quot;claude-code&quot; %} {% assign final_link = &quot;claude-code&quot; %} {% when &quot;openai-codex&quot; %} {%..."
     }
     
   
