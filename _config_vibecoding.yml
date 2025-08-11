@@ -62,10 +62,9 @@ exclude:
   - "*.pdf"
   - _data/welcomments
 
-# Jekyll automaticky includne potřebné soubory
-# include direktiva se odstraňuje kvůli konfliktu s exclude
-
 # Jekyll nastavení
+source: .
+destination: ./_site
 encoding: utf-8
 permalink: /:title/
 kramdown:

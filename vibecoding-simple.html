@@ -1,0 +1,22 @@
+---
+layout: default
+title: Vibecoding
+---
+
+<h1>Vibecoding - AI nástroje pro programování</h1>
+
+<div class="posts">
+  {% for post in site.vibecoding %}
+    <article>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.date | date: "%-d. %-m. %Y" }}</p>
+      {% if post.excerpt %}
+        <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>
+
+{% if site.vibecoding.size == 0 %}
+<p>Zatím nejsou k dispozici žádné články.</p>
+{% endif %}
