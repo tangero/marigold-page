@@ -26417,6 +26417,15 @@
   
     
     ,{
+      "title"    : "Archiv Vibecoding článků",
+      "url"      : "//archiv/",
+      "category" : "stránka",
+      "content"  : "📚 Archiv Vibecoding článků← Zpět na titulní stránkuKompletní přehled všech článků o AI nástrojích pro programování, seřazený od nejnovějších.{% assign vibecoding_posts = site.vibecoding | sort: &quot;date&quot; | reverse %}{% assign skip_count = 20 %}{% for post in vibecoding_posts offset: skip_count %} {% assign content_length = post.content | strip_html | size %} {% assign is_short = false %} {% if content_length {{ software_name }} {{ post.date | date: &quot;%d. %m. %Y&quot; }} {{ post.title }} {% if post.excerpt and post.excerpt != &quot;&quot; %} {{ post.excerpt | strip_html | truncatewords: 30 }} {% else %} {% assign first_paragraph = post.content | split:..."
+    }
+    
+  
+    
+    ,{
       "title"    : "Claude Code - Vibe Coding",
       "url"      : "//vibecoding/claude-code/",
       "category" : "stránka",

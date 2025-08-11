@@ -35403,6 +35403,19 @@
   
     
       addToStore(
+        "archiv",
+        {
+          title: "Archiv Vibecoding článků",
+          content: "📚 Archiv Vibecoding článků ← Zpět na titulní stránku Kompletní přehled všech článků o AI nástrojích pro programování, seřazený od nejnovějších. {% assign vibecoding_posts = site.vibecoding | sort: \&quot;date\&quot; | reverse %} {% assign skip_count = 20 %} {% for post in vibecoding_posts offset: skip_count %} {% assign content_length =...",
+          url: "//archiv/",
+          category: "stránka",
+          date: ""
+        }
+      );
+    
+  
+    
+      addToStore(
         "vibecoding-claude-code",
         {
           title: "Claude Code - Vibe Coding",
