@@ -28,6 +28,11 @@ defaults:
       type: "vibecoding"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "vibecoding-default"
       
 # Vyloučit všechny ostatní sekce webu
 exclude:
@@ -36,7 +41,6 @@ exclude:
   - _mobilnisite
   - _obrazy
   - _pages
-  - "*.md"
   - README.md
   - LICENSE
   - CNAME
