@@ -1,6 +1,8 @@
 ---
-author: Patrick Zandl
 audio: true
+audio_generated: '2025-08-11T09:43:47.431643'
+audio_url: https://www.marigold.cz/audio/2025-08-11-context-engineering.mp3
+author: Patrick Zandl
 categories:
 - AI
 - Context Engineering
@@ -8,16 +10,19 @@ categories:
 - RAG
 - Agenti
 layout: post
-post_excerpt: Context Engineering nahrazuje prompt engineering jako klíčovou dovednost. V čem je nový a proč je tak důležitý především v prostředí agentů?
+post_excerpt: Context Engineering nahrazuje prompt engineering jako klíčovou dovednost.
+  V čem je nový a proč je tak důležitý především v prostředí agentů?
 summary_points:
-- Context Engineering představuje evoluci od statického psaní instrukcí k dynamickému sestavování kontextu pro jazykové modely
-- Šest základních typů kontextu zahrnuje instrukce, požadavky, znalosti, paměť, nástroje a výsledky nástrojů podle Hurynova modelu
-- KV-cache hit rate je nejkritičtější metrika pro produkční agenty s až desetinásobným rozdílem v nákladech mezi cached a uncached tokeny
+- Context Engineering představuje evoluci od statického psaní instrukcí k dynamickému
+  sestavování kontextu pro jazykové modely
+- Šest základních typů kontextu zahrnuje instrukce, požadavky, znalosti, paměť, nástroje
+  a výsledky nástrojů podle Hurynova modelu
+- KV-cache hit rate je nejkritičtější metrika pro produkční agenty s až desetinásobným
+  rozdílem v nákladech mezi cached a uncached tokeny
 - Budoucnost směřuje k autonomním systémům schopným generovat vlastní kontext a sebezdokonalování
-title: "Context Engineering: Nová disciplína pro tvorbu spolehlivých AI systémů"
 thumbnail: https://www.marigold.cz/assets/context-engineering.png
+title: 'Context Engineering: Nová disciplína pro tvorbu spolehlivých AI systémů'
 ---
-
 Context Engineering představuje zajímavý posun v přístupu k tvorbě AI systémů založených na velkých jazykových modelech. Zní to velmi technicky, ale rychle zjistíte, že to je něco velmi logického a očekávatelného. Namísto toho, aby kontextem bylo to, co zadáte v promptu, se kontextem stává všechno, co se problému může týkat. Jak?
 
 Zatímco tradiční prompt engineering se zaměřuje na psaní dokonalých instrukcí, _Context Engineering_ řeší ten samý problém komplexněji, pomocí dynamického sestavování všech informací, které model potřebuje (nebo může potřebovat) pro úspěšné splnění úkolu. Podle odborníků jako je Tobi Lütke, zakladatel společnosti Shopify (a velký propagátor pojmu _Context Engineering_), jde o _"umění poskytnutí veškerého kontextu potřebného k tomu, aby byla úloha pro jazykový model věrohodně řešitelná"_.
