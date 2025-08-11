@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "=== SIMPLE VIBECODING BUILD START ==="
-date
+echo "Build timestamp: $(date)"
 
 # Set locale
 export LANG=cs_CZ.UTF-8
@@ -15,9 +15,14 @@ ls -la
 echo "Installing Jekyll..."
 bundle install
 
-# Create index that matches main site structure
-echo "Creating index..."
-cat > index.html << 'EOF'
+# Create temporary vibecoding index (don't overwrite main index.html!)
+echo "Creating vibecoding index..."
+if [ -f "vibecoding-index-categories.html" ]; then
+    cp vibecoding-index-categories.html vibecoding-temp-index.html
+    echo "Using categorized index from vibecoding-index-categories.html"
+else
+    # Fallback if the file doesn't exist
+    cat > vibecoding-temp-index.html << 'EOF'
 ---
 layout: vibecoding-default
 title: Vibecoding - AI nástroje pro programování
@@ -69,14 +74,30 @@ title: Vibecoding - AI nástroje pro programování
   {% endfor %}
 </div>
 EOF
+fi
 
 # Force create _site
 echo "Creating _site directory..."
 mkdir -p _site
 
+# Temporarily backup main index.html if it exists
+if [ -f "index.html" ]; then
+    mv index.html index-backup.html
+fi
+
+# Move vibecoding index to index.html for build
+mv vibecoding-temp-index.html index.html
+
 # Run Jekyll
 echo "Running Jekyll build..."
 bundle exec jekyll build --config _config_vibecoding.yml
+
+# Restore original index.html
+if [ -f "index-backup.html" ]; then
+    mv index-backup.html index.html
+else
+    rm -f index.html
+fi
 
 # Check result
 echo "Checking build result..."
