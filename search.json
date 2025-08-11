@@ -26345,6 +26345,13 @@
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//",
+      "category" : "stránka",
+      "content"  : "Claude Code získal přizpůsobitelné stavové řádky pro terminál Společnost Anthropic rozšířila 8. srpna 2025 možnosti svého nástroje Claude Code o funkci přizpůsobitelných stavových řádků přímo v terminálu. Novinka umožňuje vývojářům zobrazovat kontextové informace relevantní pro jejich práci bez nutnosti přepínat mezi okny nebo zadávat diagnostické příkazy. 9. srpen 2025 - Pokračuj ve čtení 👉 Cursor 1.4 přináší vylepšené nástroje agentů a přímou integraci s GitHubem Vývojové prostředí Cursor od společnosti Anysphere vydalo 6. srpna 2025 verzi 1.4, která se zaměřuje na zlepšení práce s agenty využívajícími umělou inteligenci. Hlavní změny se týkají nástrojů, které agenti používají pro práci s kódem,..."
+    }
+    
   
     
     ,{
@@ -26550,391 +26557,1749 @@
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page2/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page3/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page4/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page5/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page6/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page7/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page8/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page9/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page10/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page11/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page12/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page13/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page14/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page15/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page16/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page17/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page18/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page19/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page20/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page21/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page22/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page23/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page24/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page25/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page26/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page27/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page28/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page29/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page30/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page31/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page32/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page33/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page34/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page35/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page36/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page37/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page38/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page39/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page40/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page41/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page42/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page43/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page44/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page45/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page46/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page47/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page48/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page49/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page50/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page51/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page52/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page53/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page54/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page55/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page56/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page57/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page58/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page59/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page60/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page61/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page62/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page63/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page64/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page65/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page66/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page67/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page68/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page69/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page70/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page71/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page72/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page73/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page74/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page75/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page76/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page77/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page78/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page79/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page80/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page81/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page82/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page83/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page84/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page85/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page86/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page87/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page88/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page89/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page90/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page91/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page92/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page93/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page94/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page95/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page96/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page97/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page98/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page99/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page100/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page101/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page102/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page103/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page104/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page105/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page106/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page107/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page108/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page109/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page110/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page111/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page112/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page113/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page114/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page115/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page116/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page117/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page118/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page119/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page120/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page121/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page122/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page123/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page124/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page125/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page126/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page127/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page128/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page129/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page130/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page131/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page132/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page133/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page134/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page135/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page136/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page137/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page138/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page139/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page140/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page141/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page142/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page143/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page144/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page145/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page146/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page147/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page148/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page149/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page150/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page151/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page152/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page153/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page154/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page155/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page156/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page157/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page158/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page159/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page160/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page161/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page162/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page163/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page164/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page165/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page166/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page167/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page168/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page169/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page170/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page171/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page172/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page173/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page174/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page175/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page176/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page177/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page178/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page179/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page180/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page181/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page182/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page183/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page184/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page185/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page186/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page187/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page188/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page189/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page190/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page191/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page192/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page193/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
     
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page194/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
+    
   
+    
+    ,{
+      "title"    : "Vibecoding - AI nástroje pro programování",
+      "url"      : "//page195/",
+      "category" : "stránka",
+      "content"  : "{% assign vibecoding_posts = site.vibecoding | sort: &#39;date&#39; | reverse %} {% for post in vibecoding_posts %} {{ post.title }} {% if post.thumbnail %} {% assign thumbnail_url = post.thumbnail | replace: &#39;http://&#39;, &#39;https://&#39; %} {% endif %} {{ post.excerpt | strip_html | truncatewords: 60 }} {% assign m = post.date | date: &quot;%-m&quot; %} {{ post.date | date: &quot;%-d.&quot; }} {% case m %} {% when &#39;1&#39; %}leden {% when &#39;2&#39; %}únor {% when &#39;3&#39; %}březen {% when &#39;4&#39; %}duben {% when &#39;5&#39; %}květen {% when &#39;6&#39; %}červen {% when &#39;7&#39; %}červenec {% when &#39;8&#39; %}srpen {% when &#39;9&#39; %}září..."
+    }
     
   
   
