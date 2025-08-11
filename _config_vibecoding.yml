@@ -62,16 +62,8 @@ exclude:
   - "*.pdf"
   - _data/welcomments
 
-# Zachovat pouze potřebné
-include:
-  - _vibecoding
-  - index.html
-  - assets
-  - images
-  - _layouts
-  - _includes
-  - _sass
-  - 404.md
+# Jekyll automaticky includne potřebné soubory
+# include direktiva se odstraňuje kvůli konfliktu s exclude
 
 # Jekyll nastavení
 encoding: utf-8
