@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Vibecoding.cz - AI nástroje pro programování",
   "scripts": {
-    "build": "bundle install && bundle exec jekyll build --config _config_vibecoding.yml && cp vibecoding-index.html _site/index.html"
+    "build": "export LANG=cs_CZ.UTF-8 && export LC_ALL=C.UTF-8 && bundle install && bundle exec jekyll build --config _config_vibecoding.yml && cp vibecoding-index.html _site/index.html"
   },
   "repository": {
     "type": "git",

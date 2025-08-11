@@ -52,6 +52,15 @@ exclude:
   - marigold_env/
   - chat*
   - test*
+  - _site
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+  - "*.zip"
+  - "*.pdf"
+  - _data/welcomments
 
 # Zachovat pouze potřebné
 include:
@@ -65,6 +74,7 @@ include:
   - 404.md
 
 # Jekyll nastavení
+encoding: utf-8
 permalink: /:title/
 kramdown:
   input: GFM
