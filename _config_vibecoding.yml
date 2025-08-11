@@ -1,0 +1,103 @@
+# Konfigurace pro vibecoding.cz - separátní build
+# Tento soubor přepisuje hlavní _config.yml pro build vibecoding webu
+
+# Základní nastavení
+name: Vibecoding
+title: Vibecoding - AI nástroje pro programování
+author: Patrick Zandl
+description: Průvodce AI nástroji pro programování a vývoj software
+
+# URL nastavení pro produkci
+url: https://vibecoding.cz
+baseurl: ""
+enforce_ssl: https://vibecoding.cz
+
+# Avatar a kontakty (můžeš změnit)
+avatar: /images/patrick-avatar.jpg
+
+# Kolekce - pouze vibecoding
+collections:
+  vibecoding:
+    output: true
+    permalink: /:path/
+
+# Výchozí layout pro vibecoding články
+defaults:
+  - scope:
+      path: "_vibecoding"
+      type: "vibecoding"
+    values:
+      layout: "post"
+      
+# Vyloučit všechny ostatní sekce webu
+exclude:
+  - _posts
+  - _ai
+  - _mobilnisite
+  - _obrazy
+  - _pages
+  - "*.md"
+  - README.md
+  - LICENSE
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - requirements.txt
+  - "*.py"
+  - "*.rb"
+  - "*.sh"
+  - newsletter/
+  - audio/
+  - fonts/
+  - marigold_env/
+  - chat*
+  - test*
+
+# Zachovat pouze potřebné
+include:
+  - _vibecoding
+  - index.html
+  - assets
+  - images
+  - _layouts
+  - _includes
+  - _sass
+  - 404.md
+
+# Jekyll nastavení
+permalink: /:title/
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded
+
+# Pluginy
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Feed nastavení pro vibecoding
+feed:
+  path: feed.xml
+  posts_limit: 20
+  excerpt_only: true
+  collections:
+    - vibecoding
+
+# Footer odkazy (můžeš upravit)
+footer-links:
+  email: patrick.zandl@marigold.cz
+  twitter: tangero
+  linkedin: patrickzandl
+  rss: rss
+
+# Analytics (pokud chceš oddělené)
+google_analytics: 
+
+# Disqus (pokud chceš komentáře)
+disqus:

@@ -1,0 +1,119 @@
+---
+layout: default
+title: Vibecoding - AI nástroje pro programování
+---
+
+<div class="posts">
+  <h1>Vibecoding</h1>
+  <p class="site-description">Průvodce světem AI nástrojů pro programování. Recenze, návody a tipy pro Claude Code, Cursor, Windsurf a další.</p>
+
+  <!-- Seskupení podle kategorií -->
+  {% assign tools = "claude-code cursor windsurf lovable-dev replit databutton gemini-cli openai-codex tempolabs memex ostatni" | split: " " %}
+  
+  {% for tool in tools %}
+    {% assign tool_posts = site.vibecoding | where_exp: "post", "post.path contains tool" | sort: "date" | reverse %}
+    {% if tool_posts.size > 0 %}
+      <h2 class="tool-category">
+        {% case tool %}
+          {% when "claude-code" %} Claude Code
+          {% when "cursor" %} Cursor
+          {% when "windsurf" %} Windsurf
+          {% when "lovable-dev" %} Lovable
+          {% when "replit" %} Replit
+          {% when "databutton" %} Databutton
+          {% when "gemini-cli" %} Gemini CLI
+          {% when "openai-codex" %} OpenAI Codex
+          {% when "tempolabs" %} Tempo Labs
+          {% when "memex" %} Memex
+          {% when "ostatni" %} Ostatní nástroje
+        {% endcase %}
+      </h2>
+      
+      <div class="tool-posts">
+        {% for post in tool_posts limit:5 %}
+          <article class="post-preview">
+            <h3>
+              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </h3>
+            <div class="post-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%-d. %-m. %Y" }}
+              </time>
+            </div>
+            {% if post.excerpt %}
+              <div class="post-excerpt">
+                {{ post.excerpt | strip_html | truncatewords: 30 }}
+              </div>
+            {% endif %}
+          </article>
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+
+  <!-- Všechny články chronologicky -->
+  <h2>Nejnovější články</h2>
+  <div class="all-posts">
+    {% assign sorted_posts = site.vibecoding | sort: "date" | reverse %}
+    {% for post in sorted_posts limit:20 %}
+      <article class="post-preview">
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </h3>
+        <div class="post-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%-d. %-m. %Y" }}
+          </time>
+          {% assign tool = post.path | split: "/" | slice: 1 %}
+          {% if tool %}
+            <span class="tool-tag">{{ tool }}</span>
+          {% endif %}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>
+
+<style>
+.site-description {
+  font-size: 1.2em;
+  color: #666;
+  margin-bottom: 2em;
+}
+
+.tool-category {
+  margin-top: 2em;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid #eee;
+}
+
+.tool-posts {
+  margin-bottom: 3em;
+}
+
+.post-preview {
+  margin-bottom: 1.5em;
+}
+
+.post-preview h3 {
+  margin-bottom: 0.3em;
+}
+
+.post-meta {
+  color: #999;
+  font-size: 0.9em;
+}
+
+.tool-tag {
+  background: #f0f0f0;
+  padding: 2px 8px;
+  border-radius: 3px;
+  margin-left: 10px;
+  font-size: 0.85em;
+}
+
+.post-excerpt {
+  margin-top: 0.5em;
+  color: #555;
+}
+</style>

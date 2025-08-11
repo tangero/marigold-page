@@ -1,0 +1,14 @@
+{
+  "name": "vibecoding-site",
+  "version": "1.0.0",
+  "description": "Vibecoding.cz - AI nástroje pro programování",
+  "scripts": {
+    "build": "bundle install && bundle exec jekyll build --config _config_vibecoding.yml && cp vibecoding-index.html _site/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tangero/marigold-page.git"
+  },
+  "author": "Patrick Zandl",
+  "license": "MIT"
+}
