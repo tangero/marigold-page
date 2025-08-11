@@ -1,12 +1,67 @@
 ---
-layout: vibecoding-default
-title: Vibecoding - AI nástroje pro programování
+layout: default
 ---
 
+<!-- start feedwind code --> 
+<script>
+  function shouldShowFeedwind() {
+    const lastShown = localStorage.getItem('feedwindLastShown');
+    if (!lastShown) {
+      localStorage.setItem('feedwindLastShown', new Date().toISOString());
+      return true;
+    }
+    
+    const lastDate = new Date(lastShown);
+    const now = new Date();
+    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
+                      (now.getMonth() - lastDate.getMonth());
+    
+    if (monthsDiff >= 1) {
+      localStorage.setItem('feedwindLastShown', now.toISOString());
+      return true;
+    }
+    return false;
+  }
+
+  if (shouldShowFeedwind()) {
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://feed.mikle.com/js/fw-loader.js';
+    script.setAttribute('preloader-text', 'Nahrávám');
+    script.setAttribute('data-fw-param', '168257/');
+    document.head.appendChild(script);
+  }
+</script>
+<!-- end feedwind code -->
+
 <div class="posts">
-  {% assign vibecoding_posts = site.vibecoding | sort: 'date' | reverse %}
+  {% assign all_posts = site.posts %}
   
-  {% for post in vibecoding_posts %}
+  {% for ai_post in site.ai %}
+    {% assign all_posts = all_posts | push: ai_post %}
+  {% endfor %}
+  
+  {% for mobile_post in site.mobilnisite %}
+    {% assign all_posts = all_posts | push: mobile_post %}
+  {% endfor %}
+  
+  {% assign filtered_posts = '' | split: '' %}
+  {% assign sorted_posts = all_posts | sort: 'date' | reverse %}
+  
+  {% for post in sorted_posts %}
+    {% if post.hide == null or post.hide == false %}
+      {% if post.lang != 'en' %}
+        {% assign filtered_posts = filtered_posts | push: post %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  
+  {% assign total_posts = filtered_posts | size %}
+  {% assign per_page = 15 %}
+  {% assign total_pages = total_posts | divided_by: per_page | plus: 1 %}
+  {% assign offset = paginator.page | minus: 1 | times: per_page %}
+  
+  {% for post in filtered_posts limit: per_page offset: offset %}
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
@@ -43,8 +98,31 @@ title: Vibecoding - AI nástroje pro programování
           {% when '12' %}prosinec
         {% endcase %}
         {{ post.date | date: "%Y" }} - 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a> {% if post.audio_url %}nebo <a href="{{ post.audio_url }}" target="_blank">🎧 Poslechnout audio</a>{% endif %}
       </div>
     </article>
   {% endfor %}
+
+  <!-- pagination -->
+  {% if total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">
+        👈 novější
+      </a>
+    {% else %}
+      <span class="previous">Nejnovější</span>
+    {% endif %}
+
+    <span class="page_number">
+      stránka {{ paginator.page }} z {{ total_pages }}
+    </span>
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">starší 👉</a>
+    {% else %}
+      <span class="next">Nejstarší</span>
+    {% endif %}
+  </div>
+  {% endif %}
 </div>
