@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "=== SIMPLE VIBECODING BUILD START ==="
-date
+echo "Build timestamp: $(date)"
 
 # Set locale
 export LANG=cs_CZ.UTF-8
