@@ -45,8 +45,8 @@
     
 
 
-    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
     <link rel="canonical" href="https://vibecoding.cz/index%202/" />
 
     <meta name="theme-color" content="#000000">
@@ -68,10 +68,10 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="//" class="site-avatar"><img src="//images/patrick-avatar.jpg" alt="" /></a>
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="" /></a>
 
             <div class="site-info">
-              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
               <p class="site-description">Technologie a Svět</p>
 
             </div>
@@ -85,6 +85,126 @@
 
       <div class="wrapper-main">
         <div id="main" role="main" class="container">
+          <div class="vibecoding-header">
+  <div class="vibecoding-brand">
+    <h1>
+      <a href="/vibecoding/">Vibecoding.cz</a>
+    </h1>
+    <p class="vibecoding-tagline">Průvodce světem AI nástrojů pro programování</p>
+  </div>
+  
+  <nav class="vibecoding-nav">
+    <div class="nav-categories">
+      <span class="nav-label">Kategorie:</span>
+      <a href="/vibecoding/claude-code/" class="nav-category">🟣 Claude Code</a>
+      <a href="/vibecoding/cursor/" class="nav-category">⚡ Cursor</a>
+      <a href="/vibecoding/windsurf/" class="nav-category">🌊 Windsurf</a>
+      <a href="/vibecoding/replit/" class="nav-category">🚀 Replit</a>
+      <a href="/vibecoding/lovable-dev/" class="nav-category">❤️ Lovable</a>
+      <a href="/vibecoding/databutton/" class="nav-category">📊 Databutton</a>
+      <a href="/vibecoding/gemini-cli/" class="nav-category">💎 Gemini CLI</a>
+      <a href="/vibecoding/openai-codex/" class="nav-category">🤖 Codex</a>
+      <a href="/vibecoding/tempolabs/" class="nav-category">⚡ Tempo</a>
+      <a href="/vibecoding/memex/" class="nav-category">🧠 Memex</a>
+      <a href="/vibecoding/ostatni/" class="nav-category">🔧 Ostatní</a>
+    </div>
+  </nav>
+</div>
+
+<style>
+.vibecoding-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem 0;
+  margin: -2rem -2rem 2rem -2rem;
+  text-align: center;
+}
+
+.vibecoding-brand h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.vibecoding-brand h1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.vibecoding-brand h1 a:hover {
+  color: #e0e7ff;
+}
+
+.vibecoding-tagline {
+  margin: 0 0 1.5rem 0;
+  font-size: 1.1em;
+  color: #e0e7ff;
+  font-weight: 300;
+}
+
+.vibecoding-nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.nav-categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.nav-label {
+  font-weight: bold;
+  margin-right: 0.5rem;
+  color: #e0e7ff;
+}
+
+.nav-category {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  text-decoration: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.9em;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.nav-category:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-1px);
+  color: white;
+}
+
+.nav-category.current {
+  background: rgba(255, 255, 255, 0.4);
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .vibecoding-header {
+    padding: 1.5rem 1rem;
+    margin: -1rem -1rem 2rem -1rem;
+  }
+  
+  .vibecoding-brand h1 {
+    font-size: 2em;
+  }
+  
+  .nav-categories {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.3rem;
+  }
+  
+  .nav-label {
+    margin-bottom: 0.3rem;
+  }
+}
+</style>
           <h1>Vibe Coding - AI nástroje pro programování</h1>
 <!-- Updated: pagination + fixed links - timestamp 2025-08-11T14:15 -->
 
@@ -313,6 +433,52 @@ function toggleCategory(button) {
     
 
     <h3 class="article-title">
+      <a href="/vibecoding/openai-codex/2025-08-12-openai-gpt5-codex.md/">
+        OpenAI představuje GPT-5 v rámci Codex CLI
+      </a>
+    </h3>
+
+    <div class="article-content">
+      
+        <div class="article-excerpt">
+          
+            OpenAI spustilo [nový jazykový model GPT-5](https://www.marigold.cz/item/openai-gpt-5/), který představuje významný posun v oblasti programování a spolehlivosti. Model je dostupný ve třech velikostech prostřednictvím rozhraní API a integrován do vývojových nástrojů Codex. Společně s modelem firma zpřístupnila lokální nástroj Codex CLI a cloudovou verzi Codex pro paralelní zpracování programovacích úloh. Pojďme se...
+          
+        </div>
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/openai-codex/2025-08-12-openai-gpt5-codex.md/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      
+      
+      
+      <a href="/vibecoding/openai-codex/" class="software-name">🟢 OpenAI Codex</a>
+      <span class="article-date">12. 08. 2025</span>
+    </div>
+
+    
+
+    <h3 class="article-title">
       <a href="/vibecoding/openai-codex/2025-08-12-openai-gpt5-codex/">
         OpenAI představuje GPT-5 v rámci Codex CLI
       </a>
@@ -328,6 +494,52 @@ function toggleCategory(button) {
         
         <div class="article-read-more-wrapper">
           <a href="/vibecoding/openai-codex/2025-08-12-openai-gpt5-codex/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      
+      
+      
+      <a href="/vibecoding/lovable-dev/" class="software-name">💖 Lovable.dev</a>
+      <span class="article-date">11. 08. 2025</span>
+    </div>
+
+    
+
+    <h3 class="article-title">
+      <a href="/vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard.md/">
+        Lovable přešel na agentní režim jako výchozí způsob vývoje
+      </a>
+    </h3>
+
+    <div class="article-content">
+      
+        <div class="article-excerpt">
+          
+            Platforma Lovable pro vývoj webových aplikací s pomocí umělé inteligence představila rozsáhlou aktualizaci, která přesouvá agentní režim do pozice výchozího nástroje pro vytváření aplikací. Společnost současně přidala analytické funkce pro sledování výkonu aplikací a ohlásila změny v cenové politice.
+          
+        </div>
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard.md/" class="article-read-more">
             📖 Pokračování... →
           </a>
         </div>
@@ -406,6 +618,52 @@ function toggleCategory(button) {
     
 
     <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-08-09-claude-code-statusline.md/">
+        Claude Code získal přizpůsobitelné stavové řádky pro terminál
+      </a>
+    </h3>
+
+    <div class="article-content">
+      
+        <div class="article-excerpt">
+          
+            Společnost Anthropic rozšířila 8. srpna 2025 možnosti svého nástroje Claude Code o funkci přizpůsobitelných stavových řádků přímo v terminálu. Novinka umožňuje vývojářům zobrazovat kontextové informace relevantní pro jejich práci bez nutnosti přepínat mezi okny nebo zadávat diagnostické příkazy.
+          
+        </div>
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-08-09-claude-code-statusline.md/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      
+      
+      
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">09. 08. 2025</span>
+    </div>
+
+    
+
+    <h3 class="article-title">
       <a href="/vibecoding/claude-code/2025-08-09-claude-code-statusline/">
         Claude Code získal přizpůsobitelné stavové řádky pro terminál
       </a>
@@ -422,6 +680,52 @@ function toggleCategory(button) {
         
         <div class="article-read-more-wrapper">
           <a href="/vibecoding/claude-code/2025-08-09-claude-code-statusline/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      
+      
+      
+      <a href="/vibecoding/cursor/" class="software-name">🖱️ Cursor</a>
+      <span class="article-date">07. 08. 2025</span>
+    </div>
+
+    
+
+    <h3 class="article-title">
+      <a href="/vibecoding/cursor/2025-08-07-cursor-1-4.md/">
+        Cursor 1.4 přináší vylepšené nástroje agentů a přímou integraci s GitHubem
+      </a>
+    </h3>
+
+    <div class="article-content">
+      
+        <div class="article-excerpt">
+          
+            Vývojové prostředí Cursor od společnosti Anysphere vydalo 6. srpna 2025 verzi 1.4, která se zaměřuje na zlepšení práce s agenty využívajícími umělou inteligenci. Hlavní změny se týkají nástrojů, které agenti používají pro práci s kódem, možností jejich ovládání během běhu a integrace s platformou GitHub.
+          
+        </div>
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/cursor/2025-08-07-cursor-1-4.md/" class="article-read-more">
             📖 Pokračování... →
           </a>
         </div>
@@ -500,6 +804,52 @@ function toggleCategory(button) {
     
 
     <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-08-06-claude-code-secirity-review.md/">
+        Claude Code přidává automatické bezpečnostní kontroly kódu
+      </a>
+    </h3>
+
+    <div class="article-content">
+      
+        <div class="article-excerpt">
+          
+            Společnost Anthropic rozšířila svůj nástroj Claude Code o automatické bezpečnostní kontroly kódu. Nová funkcionalita umožňuje vývojářům odhalit zranitelnosti ještě před nasazením do produkce prostřednictvím dvou hlavních komponent: příkazu pro okamžité kontroly přímo z terminálu a integrace s platformou GitHub Actions pro automatickou analýzu každého požadavku na sloučení kódu.
+          
+        </div>
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-08-06-claude-code-secirity-review.md/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      
+      
+      
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">06. 08. 2025</span>
+    </div>
+
+    
+
+    <h3 class="article-title">
       <a href="/vibecoding/claude-code/2025-08-06-claude-code-secirity-review/">
         Claude Code přidává automatické bezpečnostní kontroly kódu
       </a>
@@ -516,6 +866,52 @@ function toggleCategory(button) {
         
         <div class="article-read-more-wrapper">
           <a href="/vibecoding/claude-code/2025-08-06-claude-code-secirity-review/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      
+      
+      
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">05. 08. 2025</span>
+    </div>
+
+    
+
+    <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41.md/">
+        Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1
+      </a>
+    </h3>
+
+    <div class="article-content">
+      
+        <div class="article-excerpt">
+          
+            Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1), který dosahuje lepších výsledků při práci s kódem a logickém uvažování.
+          
+        </div>
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41.md/" class="article-read-more">
             📖 Pokračování... →
           </a>
         </div>
@@ -594,6 +990,52 @@ function toggleCategory(button) {
     
 
     <h3 class="article-title">
+      <a href="/vibecoding/replit/2025-08-02-replit-obrazky-agenti.md/">
+        Replit automaticky řadí úlohy do fronty a další vylepšení
+      </a>
+    </h3>
+
+    <div class="article-content">
+      
+        <div class="article-excerpt">
+          
+            Cloudová vývojářská platforma Replit pokračuje v rozšiřování svých AI funkcí a představila během července a srpna 2025 několik významných novinek. Mezi nejdůležitější patří možnost generování obrázků přímo v aplikacích, pokročilé možnosti konfigurace AI agenta a vylepšená správa domén.
+          
+        </div>
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/replit/2025-08-02-replit-obrazky-agenti.md/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      
+      
+      
+      <a href="/vibecoding/replit/" class="software-name">🟠 Replit</a>
+      <span class="article-date">02. 08. 2025</span>
+    </div>
+
+    
+
+    <h3 class="article-title">
       <a href="/vibecoding/replit/2025-08-02-replit-obrazky-agenti/">
         Replit automaticky řadí úlohy do fronty a další vylepšení
       </a>
@@ -610,6 +1052,52 @@ function toggleCategory(button) {
         
         <div class="article-read-more-wrapper">
           <a href="/vibecoding/replit/2025-08-02-replit-obrazky-agenti/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      
+      
+      
+      <a href="/vibecoding/Gemini CLI/" class="software-name">🔵 Gemini CLI</a>
+      <span class="article-date">31. 07. 2025</span>
+    </div>
+
+    
+
+    <h3 class="article-title">
+      <a href="/vibecoding/gemini-cli/2025-07-31-gemini_cli_0-1-15.md/">
+        Gemini CLI 0.1.15 rozšiřuje možnosti o vlastní příkazy a vim mód
+      </a>
+    </h3>
+
+    <div class="article-content">
+      
+        <div class="article-excerpt">
+          
+            Google vydal týdenní aktualizaci svého nástroje Gemini CLI na verzi 0.1.15, která přináší řadu praktických funkcí pro vývojáře. Mezi nejpodstatnější změny patří možnost vytváření vlastních příkazů, podpora vim navigace a vylepšené zobrazení rozdílů v kódu.
+          
+        </div>
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/gemini-cli/2025-07-31-gemini_cli_0-1-15.md/" class="article-read-more">
             📖 Pokračování... →
           </a>
         </div>
@@ -688,6 +1176,52 @@ function toggleCategory(button) {
     
 
     <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-07-31-claudecode1-6.md/">
+        Claude Code 1.6x rozšiřuje možnosti vlastních agentů a zlepšuje Windows podporu
+      </a>
+    </h3>
+
+    <div class="article-content">
+      
+        <div class="article-excerpt">
+          
+            Anthropic pokračuje ve vývoji svého příkazového nástroje Claude Code, který umožňuje vývojářům pracovat s AI asistentem Claude přímo z terminálu. Poslední čtyři aktualizace (verze 1.0.61 až 1.0.64) přinášejí významná vylepšení v oblasti vlastních agentů, systémových hooks a podpory různých platforem.
+          
+        </div>
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-07-31-claudecode1-6.md/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      
+      
+      
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">31. 07. 2025</span>
+    </div>
+
+    
+
+    <h3 class="article-title">
       <a href="/vibecoding/claude-code/2025-07-31-claudecode1-6/">
         Claude Code 1.6x rozšiřuje možnosti vlastních agentů a zlepšuje Windows podporu
       </a>
@@ -704,6 +1238,52 @@ function toggleCategory(button) {
         
         <div class="article-read-more-wrapper">
           <a href="/vibecoding/claude-code/2025-07-31-claudecode1-6/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      
+      
+      
+      <a href="/vibecoding/cursor/" class="software-name">🖱️ Cursor</a>
+      <span class="article-date">30. 07. 2025</span>
+    </div>
+
+    
+
+    <h3 class="article-title">
+      <a href="/vibecoding/cursor/2025-07-30-cursor-1-3.md/">
+        Novinky v Cursor 1.3
+      </a>
+    </h3>
+
+    <div class="article-content">
+      
+        <div class="article-excerpt">
+          
+            Společnost Cursor vydala 29. července 2025 verzi 1.3 svého AI editoru kódu se zaměřením na zlepšení integrace s operačním systémem a výrazné zrychlení editačních operací. Klíčovou novinkou je sdílený terminál mezi uživatelem a AI agentem, který zjednodušuje spolupráci při provádění systémových příkazů.
+          
+        </div>
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/cursor/2025-07-30-cursor-1-3.md/" class="article-read-more">
             📖 Pokračování... →
           </a>
         </div>
@@ -762,486 +1342,6 @@ function toggleCategory(button) {
     <div class="article-separator"></div>
   </article>
 
-  
-  
-  
-
-  
-  
-  
-
-  <article class="vibecoding-article excerpt-article">
-    <div class="article-software">
-      
-      
-      
-      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
-      <span class="article-date">29. 07. 2025</span>
-    </div>
-
-    
-
-    <h3 class="article-title">
-      <a href="/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max/">
-        Anthropic omezí Claude Code Max novými týdenními limity
-      </a>
-    </h3>
-
-    <div class="article-content">
-      
-        <div class="article-excerpt">
-          
-            Společnost Anthropic, vývojář konverzačního asistenta Claude, zavede od 28. srpna 2025 nové týdenní limity používání pro předplatitele. Opatření má podle firmy zajistit spravedlivější přístup ke kapacitě systému a řešit problémy s porušováním pravidel používání služby.
-
-          
-        </div>
-        
-        <div class="article-read-more-wrapper">
-          <a href="/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max/" class="article-read-more">
-            📖 Pokračování... →
-          </a>
-        </div>
-      
-    </div>
-
-    
-
-    <div class="article-separator"></div>
-  </article>
-
-  
-  
-  
-
-  
-  
-  
-
-  <article class="vibecoding-article excerpt-article">
-    <div class="article-software">
-      
-      
-      
-      <a href="/vibecoding/Gemini CLI/" class="software-name">🔵 Gemini CLI</a>
-      <span class="article-date">17. 07. 2025</span>
-    </div>
-
-    
-
-    <h3 class="article-title">
-      <a href="/vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa/">
-        Novinky v Gemini CLI a roadmapa funkcí
-      </a>
-    </h3>
-
-    <div class="article-content">
-      
-        <div class="article-excerpt">
-          
-            Vývojový nástroj Gemini CLI má publikovanou roadmpu, takže se můžete podívat, kdy přibudou nové další funkce. A hlavně, jaké to budou. Držím palce, ať ji udrží a dodrží.
-
-          
-        </div>
-        
-        <div class="article-read-more-wrapper">
-          <a href="/vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa/" class="article-read-more">
-            📖 Pokračování... →
-          </a>
-        </div>
-      
-    </div>
-
-    
-
-    <div class="article-separator"></div>
-  </article>
-
-  
-  
-  
-
-  
-  
-  
-
-  <article class="vibecoding-article full-article">
-    <div class="article-software">
-      
-      
-      
-      <a href="/vibecoding/lovable-dev/" class="software-name">💖 Lovable.dev</a>
-      <span class="article-date">13. 07. 2025</span>
-    </div>
-
-    
-
-    <h3 class="article-title">
-      <a href="/vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/">
-        Lovable má nový vizuální editor
-      </a>
-    </h3>
-
-    <div class="article-content">
-      
-        <p>Nyní je vizuální editor v Lovable rychlejší, čistší a mnohem intuitivnější.</p>
-
-<p>Jak to funguje:
-• Klikněte na „Upravit“ ve vstupním poli
-• Vyberte libovolný prvek
-• Vizuální úpravy stylů (barva, velikost, obsah) jde naklikat ihned
-• Nebo jen vyzvěte: „Nechat toto tlačítko vyskakovat“</p>
-
-<p>Klikněte. Upravit. Hotovo.  A je to zdarma, kredity se nepoužívají.</p>
-
-
-      
-    </div>
-
-    
-
-    <div class="article-separator"></div>
-  </article>
-
-  
-  
-  
-
-  
-  
-  
-
-  <article class="vibecoding-article excerpt-article">
-    <div class="article-software">
-      
-      
-      
-      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
-      <span class="article-date">13. 07. 2025</span>
-    </div>
-
-    
-
-    <h3 class="article-title">
-      <a href="/vibecoding/claude-code/2025-07-13-claude_code_subagenti/">
-        Používání subagentů v Claude Code
-      </a>
-    </h3>
-
-    <div class="article-content">
-      
-        <div class="article-excerpt">
-          
-            Claude Code umožňuje využívat takzvané subagenty pro paralelní zpracování úkolů. Tyto subagenti představují způsob, jak efektivně rozdělit práci při analýze rozsáhlých projektů nebo provádění nezávislých operací současně.
-
-          
-        </div>
-        
-        <div class="article-read-more-wrapper">
-          <a href="/vibecoding/claude-code/2025-07-13-claude_code_subagenti/" class="article-read-more">
-            📖 Pokračování... →
-          </a>
-        </div>
-      
-    </div>
-
-    
-
-    <div class="article-separator"></div>
-  </article>
-
-  
-  
-  
-
-  
-  
-  
-
-  <article class="vibecoding-article full-article">
-    <div class="article-software">
-      
-      
-      
-      <a href="/vibecoding/Trae/" class="software-name">Trae</a>
-      <span class="article-date">03. 07. 2025</span>
-    </div>
-
-    
-
-    <h3 class="article-title">
-      <a href="/vibecoding/ostatni/2025-0703-trae-agent-open-source/">
-        Trae Agent je nově open source
-      </a>
-    </h3>
-
-    <div class="article-content">
-      
-        <p>Trae Agent je agent založený na LLM pro obecné úlohy softwarového inženýrství. nově byl <a href="https://github.com/bytedance/trae-agent">uvolněn jako open source</a>.</p>
-
-<p>Trae Agent poskytuje výkonné rozhraní CLI, které dokáže porozumět instrukcím v přirozeném jazyce a provádět složité pracovní postupy softwarového inženýrství pomocí různých nástrojů a poskytovatelů LLM.</p>
-
-<h3 id="funkce">Funkce</h3>
-
-<ul>
-  <li>🌊 Lakeview: Poskytuje stručné a výstižné shrnutí kroků agenta</li>
-  <li>🤖 Podpora více LLM: Pracuje s oficiálními rozhraními API OpenAI a Anthropic</li>
-  <li>🛠️ Bohatý ekosystém nástrojů: Úprava souborů, spouštění bash, sekvenční myšlení a další funkce</li>
-  <li>🎯 Interaktivní režim: Konverzační rozhraní pro iterativní vývoj</li>
-  <li>📊 Záznam trajektorie: Podrobné zaznamenávání všech akcí agenta pro ladění a analýzu</li>
-  <li>⚙️ Flexibilní konfigurace: Konfigurace založená na JSON s podporou proměnných prostředí</li>
-  <li>🚀 Snadná instalace: Jednoduchá instalace pomocí pip</li>
-</ul>
-
-<h3 id="instalace">Instalace:</h3>
-
-<p>K instalaci projektu doporučujeme použít UV.</p>
-
-<p>git clone <repository-url> \
-cd trae-agent \
-uv sync</repository-url></p>
-
-      
-    </div>
-
-    
-
-    <div class="article-separator"></div>
-  </article>
-
-  
-  
-  
-
-  
-  
-  
-
-  <article class="vibecoding-article excerpt-article">
-    <div class="article-software">
-      
-      
-      
-      <a href="/vibecoding/replit/" class="software-name">🟠 Replit</a>
-      <span class="article-date">02. 07. 2025</span>
-    </div>
-
-    
-
-    <h3 class="article-title">
-      <a href="/vibecoding/replit/2025-07-02-replit-dynamicka-inteligence/">
-        Replit Agent získal dynamickou inteligenci
-      </a>
-    </h3>
-
-    <div class="article-content">
-      
-        <div class="article-excerpt">
-          
-            Společnost Replit oznámila rozšíření svého vývojářského asistenta Agent o tři nové schopnosti, které označuje jako “dynamickou inteligenci”. Tyto funkce mají zvýšit autonomii nástroje při vývoji aplikací a umožnit mu řešit složitější problémy s minimálním vedením ze strany uživatele.
-
-          
-        </div>
-        
-        <div class="article-read-more-wrapper">
-          <a href="/vibecoding/replit/2025-07-02-replit-dynamicka-inteligence/" class="article-read-more">
-            📖 Pokračování... →
-          </a>
-        </div>
-      
-    </div>
-
-    
-
-    <div class="article-separator"></div>
-  </article>
-
-  
-  
-  
-
-  
-  
-  
-
-  <article class="vibecoding-article excerpt-article">
-    <div class="article-software">
-      
-      
-      
-      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
-      <span class="article-date">01. 07. 2025</span>
-    </div>
-
-    
-
-    <h3 class="article-title">
-      <a href="/vibecoding/claude-code/2025-07-01-claude-code-hooks/">
-        Claude Code Hooks
-      </a>
-    </h3>
-
-    <div class="article-content">
-      
-        <div class="article-excerpt">
-          
-            Anthropic rozšířil svůj nástroj Claude Code o novou funkci nazvanou Hooks, která umožňuje vývojářům automatizovat různé úkoly a rozšířit možnosti tohoto nástroje pro práci s umělou inteligencí v příkazové řádce. Systém umožňuje spouštět vlastní skripty při specifických událostech během používání Claude Code.
-
-          
-        </div>
-        
-        <div class="article-read-more-wrapper">
-          <a href="/vibecoding/claude-code/2025-07-01-claude-code-hooks/" class="article-read-more">
-            📖 Pokračování... →
-          </a>
-        </div>
-      
-    </div>
-
-    
-
-    <div class="article-separator"></div>
-  </article>
-
-  
-  
-  
-
-  
-  
-  
-
-  <article class="vibecoding-article excerpt-article">
-    <div class="article-software">
-      
-      
-      
-      <a href="/vibecoding/lovable-dev/" class="software-name">💖 Lovable.dev</a>
-      <span class="article-date">25. 06. 2025</span>
-    </div>
-
-    
-
-    <h3 class="article-title">
-      <a href="/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/">
-        Tipy a triky pro efektivní vývoj s platformou Lovable
-      </a>
-    </h3>
-
-    <div class="article-content">
-      
-        <div class="article-excerpt">
-          
-            Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal.
-
-          
-        </div>
-        
-        <div class="article-read-more-wrapper">
-          <a href="/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/" class="article-read-more">
-            📖 Pokračování... →
-          </a>
-        </div>
-      
-    </div>
-
-    
-
-    <div class="article-separator"></div>
-  </article>
-
-  
-  
-  
-
-  
-  
-  
-
-  <article class="vibecoding-article excerpt-article">
-    <div class="article-software">
-      
-      
-      
-      <a href="/vibecoding/Gemini CLI/" class="software-name">🔵 Gemini CLI</a>
-      <span class="article-date">25. 06. 2025</span>
-    </div>
-
-    
-
-    <h3 class="article-title">
-      <a href="/vibecoding/gemini-cli/2025-06-25-gemini-cli/">
-        Google uvedl Gemini CLI
-      </a>
-    </h3>
-
-    <div class="article-content">
-      
-        <div class="article-excerpt">
-          
-            Gemini CLI je tady! Open-source CLI, které přináší modely Google Gemini 2.5 přímo do vašeho terminálu! S řadou velmi pokročilých funkcí se hned staví na špičku CLI vibecoding rozhraní!
-
-          
-        </div>
-        
-        <div class="article-read-more-wrapper">
-          <a href="/vibecoding/gemini-cli/2025-06-25-gemini-cli/" class="article-read-more">
-            📖 Pokračování... →
-          </a>
-        </div>
-      
-    </div>
-
-    
-
-    <div class="article-separator"></div>
-  </article>
-
-  
-  
-  
-
-  
-  
-  
-
-  <article class="vibecoding-article excerpt-article">
-    <div class="article-software">
-      
-      
-      
-      <a href="/vibecoding/databutton/" class="software-name">🔴 Databutton</a>
-      <span class="article-date">20. 06. 2025</span>
-    </div>
-
-    
-
-    <h3 class="article-title">
-      <a href="/vibecoding/databutton/2025-06-20-databutton_databaze/">
-        Databutton integruje databázi a ověřování do aplikací vytvářených umělou inteligencí
-      </a>
-    </h3>
-
-    <div class="article-content">
-      
-        <div class="article-excerpt">
-          
-            Platforma Databutton oznámila integraci databáze a systému ověřování uživatelů přímo do svého nástroje pro vytváření aplikací pomocí umělé inteligence. Tato aktualizace má podle společnosti eliminovat potřebu externích služeb a zjednodušit proces vývoje aplikací pro firemní uživatele. Dlužno říct: sláva! Tohle je při vibecodingu zatím velká frustrace, jste schopni se dlouho...
-          
-        </div>
-        
-        <div class="article-read-more-wrapper">
-          <a href="/vibecoding/databutton/2025-06-20-databutton_databaze/" class="article-read-more">
-            📖 Pokračování... →
-          </a>
-        </div>
-      
-    </div>
-
-    
-
-    <div class="article-separator"></div>
-  </article>
-
 
 
 
@@ -1251,12 +1351,12 @@ uv sync</repository-url></p>
   
   
   <span class="pagination-info">
-    Zobrazuji 20 z 54 článků
+    Zobrazuji 20 z 107 článků
   </span>
   
   
   
-    <a href="/archiv/" class="pagination-link">Starší články (34) 👉</a>
+    <a href="/archiv/" class="pagination-link">Starší články (87) 👉</a>
   
 </div>
 
@@ -1429,7 +1529,7 @@ uv sync</repository-url></p>
 
 <a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
 
-<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
 <a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
 
 

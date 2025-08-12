@@ -45,8 +45,8 @@
     
 
 
-    <link rel="stylesheet" type="text/css" href="//assets/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="//feed.xml" />
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
     <link rel="canonical" href="https://www.marigold.cz/vibecoding/claude-code/" />
 
     <meta name="theme-color" content="#000000">
@@ -72,10 +72,10 @@
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="//" class="site-avatar"><img src="//images/patrick-avatar.jpg" alt="" /></a>
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="" /></a>
 
             <div class="site-info">
-              <h1 class="site-name"><a href="//">Marigold.cz</a></h1>
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
               <p class="site-description">Technologie a Svět</p>
 
             </div>
@@ -94,7 +94,128 @@
   <h1>Claude Code - Vibe Coding</h1>
 
   <div class="entry">
-    <h1 id="-claude-code">🟣 Claude Code</h1>
+    <div class="vibecoding-header">
+  <div class="vibecoding-brand">
+    <h1>
+      <a href="/vibecoding/">Vibecoding.cz</a>
+    </h1>
+    <p class="vibecoding-tagline">Průvodce světem AI nástrojů pro programování</p>
+  </div>
+  
+  <nav class="vibecoding-nav">
+    <div class="nav-categories">
+      <span class="nav-label">Kategorie:</span>
+      <a href="/vibecoding/claude-code/" class="nav-category">🟣 Claude Code</a>
+      <a href="/vibecoding/cursor/" class="nav-category">⚡ Cursor</a>
+      <a href="/vibecoding/windsurf/" class="nav-category">🌊 Windsurf</a>
+      <a href="/vibecoding/replit/" class="nav-category">🚀 Replit</a>
+      <a href="/vibecoding/lovable-dev/" class="nav-category">❤️ Lovable</a>
+      <a href="/vibecoding/databutton/" class="nav-category">📊 Databutton</a>
+      <a href="/vibecoding/gemini-cli/" class="nav-category">💎 Gemini CLI</a>
+      <a href="/vibecoding/openai-codex/" class="nav-category">🤖 Codex</a>
+      <a href="/vibecoding/tempolabs/" class="nav-category">⚡ Tempo</a>
+      <a href="/vibecoding/memex/" class="nav-category">🧠 Memex</a>
+      <a href="/vibecoding/ostatni/" class="nav-category">🔧 Ostatní</a>
+    </div>
+  </nav>
+</div>
+
+<style>
+.vibecoding-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem 0;
+  margin: -2rem -2rem 2rem -2rem;
+  text-align: center;
+}
+
+.vibecoding-brand h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.vibecoding-brand h1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.vibecoding-brand h1 a:hover {
+  color: #e0e7ff;
+}
+
+.vibecoding-tagline {
+  margin: 0 0 1.5rem 0;
+  font-size: 1.1em;
+  color: #e0e7ff;
+  font-weight: 300;
+}
+
+.vibecoding-nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.nav-categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.nav-label {
+  font-weight: bold;
+  margin-right: 0.5rem;
+  color: #e0e7ff;
+}
+
+.nav-category {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  text-decoration: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.9em;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.nav-category:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-1px);
+  color: white;
+}
+
+.nav-category.current {
+  background: rgba(255, 255, 255, 0.4);
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .vibecoding-header {
+    padding: 1.5rem 1rem;
+    margin: -1rem -1rem 2rem -1rem;
+  }
+  
+  .vibecoding-brand h1 {
+    font-size: 2em;
+  }
+  
+  .nav-categories {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.3rem;
+  }
+  
+  .nav-label {
+    margin-bottom: 0.3rem;
+  }
+}
+</style>
+
+<h1 id="-claude-code">🟣 Claude Code</h1>
 
 <p><strong>Pokročilý AI asistent pro programování od Anthropic</strong></p>
 
@@ -180,6 +301,60 @@
 
     
     <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-08-09-claude-code-statusline.md/">
+        Claude Code získal přizpůsobitelné stavové řádky pro terminál
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Společnost Anthropic rozšířila 8. srpna 2025 možnosti svého nástroje Claude Code o funkci přizpůsobitelných stavových řádků přímo v terminálu. Novinka umožňuje vývojářům zobrazovat kontextové informace relevantní pro jejich práci bez nutnosti přepínat mezi okny nebo zadávat diagnostické příkazy.
+          
+        </div>
+        
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-08-09-claude-code-statusline.md/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">09. 08. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
       <a href="/vibecoding/claude-code/2025-08-09-claude-code-statusline/">
         Claude Code získal přizpůsobitelné stavové řádky pro terminál
       </a>
@@ -199,6 +374,60 @@
         
         <div class="article-read-more-wrapper">
           <a href="/vibecoding/claude-code/2025-08-09-claude-code-statusline/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">06. 08. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-08-06-claude-code-secirity-review.md/">
+        Claude Code přidává automatické bezpečnostní kontroly kódu
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Společnost Anthropic rozšířila svůj nástroj Claude Code o automatické bezpečnostní kontroly kódu. Nová funkcionalita umožňuje vývojářům odhalit zranitelnosti ještě před nasazením do produkce prostřednictvím dvou hlavních komponent: příkazu pro okamžité kontroly přímo z terminálu a integrace s platformou GitHub Actions pro automatickou analýzu každého požadavku na sloučení kódu.
+          
+        </div>
+        
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-08-06-claude-code-secirity-review.md/" class="article-read-more">
             📖 Pokračování... →
           </a>
         </div>
@@ -290,6 +519,60 @@
 
     
     <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41.md/">
+        Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1), který dosahuje lepších výsledků při práci s kódem a logickém uvažování.
+          
+        </div>
+        
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41.md/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">05. 08. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
       <a href="/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41/">
         Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1
       </a>
@@ -309,6 +592,60 @@
         
         <div class="article-read-more-wrapper">
           <a href="/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">31. 07. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-07-31-claudecode1-6.md/">
+        Claude Code 1.6x rozšiřuje možnosti vlastních agentů a zlepšuje Windows podporu
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Anthropic pokračuje ve vývoji svého příkazového nástroje Claude Code, který umožňuje vývojářům pracovat s AI asistentem Claude přímo z terminálu. Poslední čtyři aktualizace (verze 1.0.61 až 1.0.64) přinášejí významná vylepšení v oblasti vlastních agentů, systémových hooks a podpory různých platforem.
+          
+        </div>
+        
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-07-31-claudecode1-6.md/" class="article-read-more">
             📖 Pokračování... →
           </a>
         </div>
@@ -400,6 +737,60 @@
 
     
     <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max.md/">
+        Anthropic omezí Claude Code Max novými týdenními limity
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Společnost Anthropic, vývojář konverzačního asistenta Claude, zavede od 28. srpna 2025 nové týdenní limity používání pro předplatitele. Opatření má podle firmy zajistit spravedlivější přístup ke kapacitě systému a řešit problémy s porušováním pravidel používání služby.
+          
+        </div>
+        
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max.md/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">29. 07. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
       <a href="/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max/">
         Anthropic omezí Claude Code Max novými týdenními limity
       </a>
@@ -419,6 +810,60 @@
         
         <div class="article-read-more-wrapper">
           <a href="/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">13. 07. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-07-13-claude_code_subagenti.md/">
+        Používání subagentů v Claude Code
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Claude Code umožňuje využívat takzvané subagenty pro paralelní zpracování úkolů. Tyto subagenti představují způsob, jak efektivně rozdělit práci při analýze rozsáhlých projektů nebo provádění nezávislých operací současně.
+          
+        </div>
+        
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-07-13-claude_code_subagenti.md/" class="article-read-more">
             📖 Pokračování... →
           </a>
         </div>
@@ -510,6 +955,60 @@
 
     
     <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-07-01-claude-code-hooks.md/">
+        Claude Code Hooks
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Anthropic rozšířil svůj nástroj Claude Code o novou funkci nazvanou Hooks, která umožňuje vývojářům automatizovat různé úkoly a rozšířit možnosti tohoto nástroje pro práci s umělou inteligencí v příkazové řádce. Systém umožňuje spouštět vlastní skripty při specifických událostech během používání Claude Code.
+          
+        </div>
+        
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-07-01-claude-code-hooks.md/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">01. 07. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
       <a href="/vibecoding/claude-code/2025-07-01-claude-code-hooks/">
         Claude Code Hooks
       </a>
@@ -565,6 +1064,51 @@
 
     
     <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-06-20-claude-code-mcp.md/">
+        Claude Code přidává podporu MCP serveru
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        Nyní se můžete připojit ke vzdáleným serverům MCP z Claude Code, což vám umožní přizpůsobit Claude Code tak, aby používal vaše oblíbené nástroje.
+Lze tak přenášet data z jiných nástrojů přímo do Claude Code automatizovaně, bez neoblíbeného copy-paste.
+Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeba žádné místní nastavení ani konfigurace. Detaily najdete v [dokumentaci](https://docs.anthropic.com/en/docs/claude-code/mcp).
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article full-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">20. 06. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
       <a href="/vibecoding/claude-code/2025-06-20-claude-code-mcp/">
         Claude Code přidává podporu MCP serveru
       </a>
@@ -578,6 +1122,60 @@
 Lze tak přenášet data z jiných nástrojů přímo do Claude Code automatizovaně, bez neoblíbeného copy-paste.
 Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeba žádné místní nastavení ani konfigurace. Detaily najdete v <a href="https://docs.anthropic.com/en/docs/claude-code/mcp">dokumentaci</a>.</p>
 
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article excerpt-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">13. 06. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-06-13-claude_code_sdk.md/">
+        Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        <div class="article-excerpt">
+          
+            Anthropic vydal vývojářskou sadu pro Claude Code, která vývojářům umožňuje začlenit AI asistenta do vlastních aplikací. Sada zpřístupňuje funkce Claude Code jako podproces a poskytuje základ pro vytváření vývojářských nástrojů s umělou inteligencí využívajících schopnosti modelu Claude.
+          
+        </div>
+        
+        
+        <div class="article-read-more-wrapper">
+          <a href="/vibecoding/claude-code/2025-06-13-claude_code_sdk.md/" class="article-read-more">
+            📖 Pokračování... →
+          </a>
+        </div>
       
     </div>
 
@@ -666,6 +1264,55 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
     
     <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-06-12-rezim-planu.md/">
+        Novinka v Claude Code: Režim implementačního plánu
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        Před provedením změn si můžete zkontrolovat implementační postup, plán práce, který Claude Code navrhuje. Ideální je to pro komplexní změny, u kterých chcete nejprve přesně určit postup, než se do nich pustíte.
+
+Jak to funguje: stiskněte dvakrát Shift+Tab pro aktivaci režimu plánování při zadávání promptu. 
+
+Poté zadáte prompt Claude Code jako obvykle a ten vám nabídne podrobný implementační plán a před provedením vás požádá o schválení.
+
+Režim plánování je nyní k dispozici všem uživatelům Claude Code, včetně všech uživatelů s tarifem Pro nebo Max. Skvělá novinka!
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article full-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">12. 06. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
       <a href="/vibecoding/claude-code/2025-06-12-rezim-planu/">
         Novinka v Claude Code: Režim implementačního plánu
       </a>
@@ -683,6 +1330,51 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
 <p>Režim plánování je nyní k dispozici všem uživatelům Claude Code, včetně všech uživatelů s tarifem Pro nebo Max. Skvělá novinka!</p>
 
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article full-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">10. 06. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-06-10-vscode-jetbrains.md/">
+        Claude Code je nyní hlouběji integrován s VS Code a IDE JetBrains
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        Claude Code nově vidí vaše otevřené soubory, diagnostiku LSP a jakýkoli text, který zvýrazníte ve VS Code a JetBrains. Když Claude Code navrhne změny, zobrazí vám úpravy v editoru, takže můžete plynule pracovat ve svých oblíbených editorech.
+
+![Claude Code IDE](/assets/GtCKXf2bUAAMI6p.jpeg)
       
     </div>
 
@@ -784,6 +1476,66 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
             📖 Pokračování... →
           </a>
         </div>
+      
+    </div>
+
+    
+    
+
+    <div class="article-separator"></div>
+  </article>
+
+  
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  <article class="vibecoding-article full-article">
+    <div class="article-software">
+      <a href="/vibecoding/claude-code/" class="software-name">🟣 Claude Code</a>
+      <span class="article-date">18. 01. 2025</span>
+    </div>
+
+    
+    
+
+    
+    <h3 class="article-title">
+      <a href="/vibecoding/claude-code/2025-01-18-claude-debugging.md/">
+        Claude Code vylepšuje debugging - nové možnosti
+      </a>
+    </h3>
+
+    
+    <div class="article-content">
+      
+        
+        Claude Code představil nové funkce pro ladění kódu, které výrazně zlepšují vývojářský zážitek. Nové nástroje umožňují rychlejší identifikaci a opravu chyb.
+
+## Nové funkce pro debugging:
+
+### Automatická detekce chyb
+- **Statická analýza** - Claude nyní automaticky skenuje kód a identifikuje potenciální problémy
+- **Kontextová doporučení** - navrhuje konkrétní opravy založené na kontextu kódu
+- **Performance analýza** - upozorňuje na části kódu, které mohou způsobovat problémy s výkonem
+
+### Vylepšené error handling
+- **Inteligentní stack trace** - Claude automaticky interpretuje error zprávu a navrhuje řešení
+- **Exception patterns** - rozpoznává běžné vzory chyb a poskytuje osvědčené postupy jejich řešení
+
+### Krokování kódu
+- **Virtuální debugger** - umožňuje simulovat běh kódu krok za krokem
+- **Proměnné tracking** - sleduje změny hodnot proměnných během simulace
+
+Tyto novinky činí Claude Code ještě mocnějším nástrojem pro každodenní vývoj. 
       
     </div>
 
@@ -923,7 +1675,7 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
 <a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
 
-<a href="//feed.xml"><i class="svg-icon rss"></i></a>
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
 <a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
 
 

@@ -6,7 +6,7 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Tue, 12 Aug 2025 05:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 06:42:12 +0000</lastBuildDate>
     
     
     
@@ -34,6 +34,24 @@
       
       
       <item>
+        <title>🟢 OpenAI Codex - OpenAI představuje GPT-5 v rámci Codex CLI</title>
+        <link>https://www.marigold.cz/vibecoding/openai-codex/2025-08-12-openai-gpt5-codex.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/openai-codex/2025-08-12-openai-gpt5-codex.md/</guid>
+        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            OpenAI spustilo [nový jazykový model GPT-5](https://www.marigold.cz/item/openai-gpt-5/), který představuje významný posun v oblasti programování a spolehlivosti. Model je dostupný ve třech velikostech prostřednictvím rozhraní API a integrován do vývojových nástrojů Codex. Společně s modelem firma zpřístupnila lokální nástroj Codex CLI a cloudovou verzi Codex pro paralelní zpracování programovacích úloh. Pojďme se na tyto novinky podívat podrobněji. 
+          
+          <p><a href="https://www.marigold.cz/vibecoding/openai-codex/2025-08-12-openai-gpt5-codex.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>💖 Lovable.dev - Lovable přešel na agentní režim jako výchozí způsob vývoje</title>
         <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard/</link>
         <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard/</guid>
@@ -45,6 +63,24 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>💖 Lovable.dev - Lovable přešel na agentní režim jako výchozí způsob vývoje</title>
+        <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard.md/</guid>
+        <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Platforma Lovable pro vývoj webových aplikací s pomocí umělé inteligence představila rozsáhlou aktualizaci, která přesouvá agentní režim do pozice výchozího nástroje pro vytváření aplikací. Společnost současně přidala analytické funkce pro sledování výkonu aplikací a ohlásila změny v cenové politice.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -72,6 +108,24 @@
       
       
       <item>
+        <title>🟣 Claude Code - Claude Code získal přizpůsobitelné stavové řádky pro terminál</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-08-09-claude-code-statusline.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-08-09-claude-code-statusline.md/</guid>
+        <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Společnost Anthropic rozšířila 8. srpna 2025 možnosti svého nástroje Claude Code o funkci přizpůsobitelných stavových řádků přímo v terminálu. Novinka umožňuje vývojářům zobrazovat kontextové informace relevantní pro jejich práci bez nutnosti přepínat mezi okny nebo zadávat diagnostické příkazy.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-08-09-claude-code-statusline.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🖱️ Cursor - Cursor 1.4 přináší vylepšené nástroje agentů a přímou integraci s GitHubem</title>
         <link>https://www.marigold.cz/vibecoding/cursor/2025-08-07-cursor-1-4/</link>
         <guid>https://www.marigold.cz/vibecoding/cursor/2025-08-07-cursor-1-4/</guid>
@@ -83,6 +137,24 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/cursor/2025-08-07-cursor-1-4/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🖱️ Cursor - Cursor 1.4 přináší vylepšené nástroje agentů a přímou integraci s GitHubem</title>
+        <link>https://www.marigold.cz/vibecoding/cursor/2025-08-07-cursor-1-4.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/cursor/2025-08-07-cursor-1-4.md/</guid>
+        <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Vývojové prostředí Cursor od společnosti Anysphere vydalo 6. srpna 2025 verzi 1.4, která se zaměřuje na zlepšení práce s agenty využívajícími umělou inteligenci. Hlavní změny se týkají nástrojů, které agenti používají pro práci s kódem, možností jejich ovládání během běhu a integrace s platformou GitHub.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/cursor/2025-08-07-cursor-1-4.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -110,6 +182,24 @@
       
       
       <item>
+        <title>🟣 Claude Code - Claude Code přidává automatické bezpečnostní kontroly kódu</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-08-06-claude-code-secirity-review.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-08-06-claude-code-secirity-review.md/</guid>
+        <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Společnost Anthropic rozšířila svůj nástroj Claude Code o automatické bezpečnostní kontroly kódu. Nová funkcionalita umožňuje vývojářům odhalit zranitelnosti ještě před nasazením do produkce prostřednictvím dvou hlavních komponent: příkazu pro okamžité kontroly přímo z terminálu a integrace s platformou GitHub Actions pro automatickou analýzu každého požadavku na sloučení kódu.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-08-06-claude-code-secirity-review.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🟣 Claude Code - Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1</title>
         <link>https://www.marigold.cz/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41/</link>
         <guid>https://www.marigold.cz/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41/</guid>
@@ -121,6 +211,24 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟣 Claude Code - Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41.md/</guid>
+        <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1), který dosahuje lepších výsledků při práci s kódem a logickém uvažování.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -148,6 +256,24 @@
       
       
       <item>
+        <title>🟠 Replit - Replit automaticky řadí úlohy do fronty a další vylepšení</title>
+        <link>https://www.marigold.cz/vibecoding/replit/2025-08-02-replit-obrazky-agenti.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/replit/2025-08-02-replit-obrazky-agenti.md/</guid>
+        <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Cloudová vývojářská platforma Replit pokračuje v rozšiřování svých AI funkcí a představila během července a srpna 2025 několik významných novinek. Mezi nejdůležitější patří možnost generování obrázků přímo v aplikacích, pokročilé možnosti konfigurace AI agenta a vylepšená správa domén.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/replit/2025-08-02-replit-obrazky-agenti.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🟣 Claude Code - Claude Code 1.6x rozšiřuje možnosti vlastních agentů a zlepšuje Windows podporu</title>
         <link>https://www.marigold.cz/vibecoding/claude-code/2025-07-31-claudecode1-6/</link>
         <guid>https://www.marigold.cz/vibecoding/claude-code/2025-07-31-claudecode1-6/</guid>
@@ -159,6 +285,24 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-07-31-claudecode1-6/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟣 Claude Code - Claude Code 1.6x rozšiřuje možnosti vlastních agentů a zlepšuje Windows podporu</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-07-31-claudecode1-6.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-07-31-claudecode1-6.md/</guid>
+        <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Anthropic pokračuje ve vývoji svého příkazového nástroje Claude Code, který umožňuje vývojářům pracovat s AI asistentem Claude přímo z terminálu. Poslední čtyři aktualizace (verze 1.0.61 až 1.0.64) přinášejí významná vylepšení v oblasti vlastních agentů, systémových hooks a podpory různých platforem.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-07-31-claudecode1-6.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -186,6 +330,24 @@
       
       
       <item>
+        <title>🔵 Gemini CLI - Gemini CLI 0.1.15 rozšiřuje možnosti o vlastní příkazy a vim mód</title>
+        <link>https://www.marigold.cz/vibecoding/gemini-cli/2025-07-31-gemini_cli_0-1-15.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/gemini-cli/2025-07-31-gemini_cli_0-1-15.md/</guid>
+        <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Google vydal týdenní aktualizaci svého nástroje Gemini CLI na verzi 0.1.15, která přináší řadu praktických funkcí pro vývojáře. Mezi nejpodstatnější změny patří možnost vytváření vlastních příkazů, podpora vim navigace a vylepšené zobrazení rozdílů v kódu.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/gemini-cli/2025-07-31-gemini_cli_0-1-15.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🖱️ Cursor - Novinky v Cursor 1.3</title>
         <link>https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3/</link>
         <guid>https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3/</guid>
@@ -197,6 +359,24 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🖱️ Cursor - Novinky v Cursor 1.3</title>
+        <link>https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3.md/</guid>
+        <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Společnost Cursor vydala 29. července 2025 verzi 1.3 svého AI editoru kódu se zaměřením na zlepšení integrace s operačním systémem a výrazné zrychlení editačních operací. Klíčovou novinkou je sdílený terminál mezi uživatelem a AI agentem, který zjednodušuje spolupráci při provádění systémových příkazů.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/cursor/2025-07-30-cursor-1-3.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -224,6 +404,24 @@
       
       
       <item>
+        <title>🟣 Claude Code - Anthropic omezí Claude Code Max novými týdenními limity</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max.md/</guid>
+        <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Společnost Anthropic, vývojář konverzačního asistenta Claude, zavede od 28. srpna 2025 nové týdenní limity používání pro předplatitele. Opatření má podle firmy zajistit spravedlivější přístup ke kapacitě systému a řešit problémy s porušováním pravidel používání služby.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🔵 Gemini CLI - Novinky v Gemini CLI a roadmapa funkcí</title>
         <link>https://www.marigold.cz/vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa/</link>
         <guid>https://www.marigold.cz/vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa/</guid>
@@ -235,6 +433,24 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🔵 Gemini CLI - Novinky v Gemini CLI a roadmapa funkcí</title>
+        <link>https://www.marigold.cz/vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa.md/</guid>
+        <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Vývojový nástroj Gemini CLI má [publikovanou roadmpu](https://github.com/google-gemini/gemini-cli/blob/main/ROADMAP.md), takže se můžete podívat, kdy přibudou nové další funkce. A hlavně, jaké to budou. Držím palce, ať ji udrží a dodrží. 
+          
+          <p><a href="https://www.marigold.cz/vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -304,6 +520,24 @@
       
       
       <item>
+        <title>🟣 Claude Code - Používání subagentů v Claude Code</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-07-13-claude_code_subagenti.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-07-13-claude_code_subagenti.md/</guid>
+        <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Claude Code umožňuje využívat takzvané subagenty pro paralelní zpracování úkolů. Tyto subagenti představují způsob, jak efektivně rozdělit práci při analýze rozsáhlých projektů nebo provádění nezávislých operací současně.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-07-13-claude_code_subagenti.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>💖 Lovable.dev - Lovable má nový vizuální editor</title>
         <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/</link>
         <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/</guid>
@@ -315,6 +549,24 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>💖 Lovable.dev - Lovable má nový vizuální editor</title>
+        <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-07-13-lovable-visual-edit.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-07-13-lovable-visual-edit.md/</guid>
+        <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Nyní je vizuální editor v Lovable rychlejší, čistší a mnohem intuitivnější.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-07-13-lovable-visual-edit.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -342,6 +594,24 @@
       
       
       <item>
+        <title>Trae - Trae Agent je nově open source</title>
+        <link>https://www.marigold.cz/vibecoding/ostatni/2025-0703-trae-agent-open-source.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/ostatni/2025-0703-trae-agent-open-source.md/</guid>
+        <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Trae Agent je agent založený na LLM pro obecné úlohy softwarového inženýrství. nově byl [uvolněn jako open source](https://github.com/bytedance/trae-agent).
+          
+          <p><a href="https://www.marigold.cz/vibecoding/ostatni/2025-0703-trae-agent-open-source.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🟠 Replit - Replit Agent získal dynamickou inteligenci</title>
         <link>https://www.marigold.cz/vibecoding/replit/2025-07-02-replit-dynamicka-inteligence/</link>
         <guid>https://www.marigold.cz/vibecoding/replit/2025-07-02-replit-dynamicka-inteligence/</guid>
@@ -353,6 +623,24 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/replit/2025-07-02-replit-dynamicka-inteligence/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟠 Replit - Replit Agent získal dynamickou inteligenci</title>
+        <link>https://www.marigold.cz/vibecoding/replit/2025-07-02-replit-dynamicka-inteligence.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/replit/2025-07-02-replit-dynamicka-inteligence.md/</guid>
+        <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Společnost Replit [oznámila](https://blog.replit.com/dynamic-intelligence) rozšíření svého vývojářského asistenta Agent o tři nové schopnosti, které označuje jako “dynamickou inteligenci”. Tyto funkce mají zvýšit autonomii nástroje při vývoji aplikací a umožnit mu řešit složitější problémy s minimálním vedením ze strany uživatele.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/replit/2025-07-02-replit-dynamicka-inteligence.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -380,6 +668,24 @@
       
       
       <item>
+        <title>🟣 Claude Code - Claude Code Hooks</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-07-01-claude-code-hooks.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-07-01-claude-code-hooks.md/</guid>
+        <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Anthropic rozšířil svůj nástroj Claude Code o novou funkci nazvanou Hooks, která umožňuje vývojářům automatizovat různé úkoly a rozšířit možnosti tohoto nástroje pro práci s umělou inteligencí v příkazové řádce. Systém umožňuje spouštět vlastní skripty při specifických událostech během používání Claude Code.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-07-01-claude-code-hooks.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🔵 Gemini CLI - Google uvedl Gemini CLI</title>
         <link>https://www.marigold.cz/vibecoding/gemini-cli/2025-06-25-gemini-cli/</link>
         <guid>https://www.marigold.cz/vibecoding/gemini-cli/2025-06-25-gemini-cli/</guid>
@@ -399,6 +705,24 @@
       
       
       <item>
+        <title>🔵 Gemini CLI - Google uvedl Gemini CLI</title>
+        <link>https://www.marigold.cz/vibecoding/gemini-cli/2025-06-25-gemini-cli.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/gemini-cli/2025-06-25-gemini-cli.md/</guid>
+        <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Gemini CLI je tady! Open-source CLI, které přináší modely Google Gemini 2.5 přímo do vašeho terminálu! S řadou velmi pokročilých funkcí se hned staví na špičku CLI vibecoding rozhraní!
+          
+          <p><a href="https://www.marigold.cz/vibecoding/gemini-cli/2025-06-25-gemini-cli.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>💖 Lovable.dev - Tipy a triky pro efektivní vývoj s platformou Lovable</title>
         <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/</link>
         <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/</guid>
@@ -410,6 +734,24 @@
 
           
           <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>💖 Lovable.dev - Tipy a triky pro efektivní vývoj s platformou Lovable</title>
+        <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable.md/</guid>
+        <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal. 
+          
+          <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -439,6 +781,26 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🟣 Claude Code - Claude Code přidává podporu MCP serveru</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-06-20-claude-code-mcp.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-06-20-claude-code-mcp.md/</guid>
+        <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Nyní se můžete připojit ke vzdáleným serverům MCP z Claude Code, což vám umožní přizpůsobit Claude Code tak, aby používal vaše oblíbené nástroje.
+Lze tak přenášet data z jiných nástrojů přímo do Claude Code automatizovaně, bez neoblíbeného copy-paste.
+Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeba žádné místní nastavení ani konfigurace. Detaily najdete v [dokumentaci](https://docs.anthropic.com/en/docs/claude-code/mcp).
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-06-20-claude-code-mcp.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🔴 Databutton - Databutton integruje databázi a ověřování do aplikací vytvářených umělou inteligencí</title>
         <link>https://www.marigold.cz/vibecoding/databutton/2025-06-20-databutton_databaze/</link>
         <guid>https://www.marigold.cz/vibecoding/databutton/2025-06-20-databutton_databaze/</guid>
@@ -450,6 +812,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/databutton/2025-06-20-databutton_databaze/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🔴 Databutton - Databutton integruje databázi a ověřování do aplikací vytvářených umělou inteligencí</title>
+        <link>https://www.marigold.cz/vibecoding/databutton/2025-06-20-databutton_databaze.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/databutton/2025-06-20-databutton_databaze.md/</guid>
+        <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Platforma Databutton oznámila integraci databáze a systému ověřování uživatelů přímo do svého nástroje pro vytváření aplikací pomocí umělé inteligence. Tato aktualizace má podle společnosti eliminovat potřebu externích služeb a zjednodušit proces vývoje aplikací pro firemní uživatele. Dlužno říct: sláva! Tohle je při vibecodingu zatím velká frustrace, jste schopni se dlouho točit na neschopnosti dobře a bezpečně se připojit z apliace do databáze nebo nastavit ověřování užívatelů...
+          
+          <p><a href="https://www.marigold.cz/vibecoding/databutton/2025-06-20-databutton_databaze.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -477,6 +857,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>Softgen - Softgen AI přidává uložené příkazy a plánovací režim</title>
+        <link>https://www.marigold.cz/vibecoding/2025-06-15-softgen-planing.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/2025-06-15-softgen-planing.md/</guid>
+        <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Softgen AI nabídla dvě nové funkce - uložené příkazy a plánovací režim. Je to trend, který se ve vibecoding aplikacích v poslední době objevuje, nově tedy i v Softgenu. Podle údajů společnosti Softgen využívá 110 000 vývojářů a týmů.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/2025-06-15-softgen-planing.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>💖 Lovable.dev - Lovable rozšiřuje bezpečnostní funkce pro tvorbu aplikací bez kódování</title>
         <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-15-lovable-security-scan/</link>
         <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-15-lovable-security-scan/</guid>
@@ -488,6 +886,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-06-15-lovable-security-scan/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>💖 Lovable.dev - Lovable rozšiřuje bezpečnostní funkce pro tvorbu aplikací bez kódování</title>
+        <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-15-lovable-security-scan.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-15-lovable-security-scan.md/</guid>
+        <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Platforma Lovable pro tvorbu aplikací bez programování přidala tři bezpečnostní funkce k ochraně citlivých dat. Změny zahrnují automatické skenování, AI revizoře kódu a blokování nebezpečného vkládání API klíčů.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-06-15-lovable-security-scan.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -515,6 +931,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🟢 OpenAI Codex - OpenAI vylepšil Codex o funkci nejlepšího  výsledku Best of N</title>
+        <link>https://www.marigold.cz/vibecoding/openai-codex/2025-06-14-best-of-n-codex.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/openai-codex/2025-06-14-best-of-n-codex.md/</guid>
+        <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            OpenAI vydal 13. června 2025 aktualizaci vývojářského nástroje Codex s novou funkcí Best of N a praktickými vylepšeními.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/openai-codex/2025-06-14-best-of-n-codex.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🟣 Claude Code - Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran</title>
         <link>https://www.marigold.cz/vibecoding/claude-code/2025-06-13-claude_code_sdk/</link>
         <guid>https://www.marigold.cz/vibecoding/claude-code/2025-06-13-claude_code_sdk/</guid>
@@ -526,6 +960,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-06-13-claude_code_sdk/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟣 Claude Code - Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-06-13-claude_code_sdk.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-06-13-claude_code_sdk.md/</guid>
+        <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Anthropic vydal vývojářskou sadu pro Claude Code, která vývojářům umožňuje začlenit AI asistenta do vlastních aplikací. Sada zpřístupňuje funkce Claude Code jako podproces a poskytuje základ pro vytváření vývojářských nástrojů s umělou inteligencí využívajících schopnosti modelu Claude.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-06-13-claude_code_sdk.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -553,6 +1005,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🖱️ Cursor - Cursor 1.1 nabídne ToDo List</title>
+        <link>https://www.marigold.cz/vibecoding/cursor/2025-06-13-cursor-todo-list.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/cursor/2025-06-13-cursor-todo-list.md/</guid>
+        <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Nejnovější chystaná verze Cursor v1.1.0 nyní obsahuje „To Do List“, čili seznam úkolů, které má postupně zpracovávat. To umožňuje agentovi používat seznamy úkolů ke sledování pokroku v úkolech
+          
+          <p><a href="https://www.marigold.cz/vibecoding/cursor/2025-06-13-cursor-todo-list.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🌊 Windsurf - Windsurf Wave 10 3</title>
         <link>https://www.marigold.cz/vibecoding/windsurf/2025-06-13-windsurf-wave-10-3/</link>
         <guid>https://www.marigold.cz/vibecoding/windsurf/2025-06-13-windsurf-wave-10-3/</guid>
@@ -572,6 +1042,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🌊 Windsurf - Windsurf Wave 10 3.md</title>
+        <link>https://www.marigold.cz/vibecoding/windsurf/2025-06-13-windsurf-wave-10-3.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/windsurf/2025-06-13-windsurf-wave-10-3.md/</guid>
+        <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Poslední den představování novinek ve Windsurf Wave 10 přinesl především podinikové funkce, rozšíření metriky PCW (Percentage of Code Written) a několik vylepšení uživatelského rozhraní. A pro nás tolik zajímavý evropský datový cluster umožňující data skladovat v EU. 
+          
+          <p><a href="https://www.marigold.cz/vibecoding/windsurf/2025-06-13-windsurf-wave-10-3.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🟣 Claude Code - Novinka v Claude Code: Režim implementačního plánu</title>
         <link>https://www.marigold.cz/vibecoding/claude-code/2025-06-12-rezim-planu/</link>
         <guid>https://www.marigold.cz/vibecoding/claude-code/2025-06-12-rezim-planu/</guid>
@@ -583,6 +1071,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-06-12-rezim-planu/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟣 Claude Code - Novinka v Claude Code: Režim implementačního plánu</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-06-12-rezim-planu.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-06-12-rezim-planu.md/</guid>
+        <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Před provedením změn si můžete zkontrolovat implementační postup, plán práce, který Claude Code navrhuje. Ideální je to pro komplexní změny, u kterých chcete nejprve přesně určit postup, než se do nich pustíte.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-06-12-rezim-planu.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -629,6 +1135,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🌊 Windsurf - Windsurf Browser: Nový AI-integrovaný prohlížeč pro vývojáře</title>
+        <link>https://www.marigold.cz/vibecoding/windsurf/2025-06-11-windsurf-browser.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/windsurf/2025-06-11-windsurf-browser.md/</guid>
+        <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Společnost Windsurf představila Windsurf Browser, AI-integrovaný webový prohlížeč, který má zlepšit spolupráci mezi vývojáři a umělou inteligencí. Prohlížeč řeší problém neúplného kontextu, kdy AI asistent Cascade neměl přehled o tom, co vývojář dělá ve webovém prohlížeči při práci s dokumentací, debugging nebo testování aplikací.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/windsurf/2025-06-11-windsurf-browser.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🟣 Claude Code - Claude Code je nyní hlouběji integrován s VS Code a IDE JetBrains</title>
         <link>https://www.marigold.cz/vibecoding/claude-code/2025-06-10-vscode-jetbrains/</link>
         <guid>https://www.marigold.cz/vibecoding/claude-code/2025-06-10-vscode-jetbrains/</guid>
@@ -640,6 +1164,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-06-10-vscode-jetbrains/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟣 Claude Code - Claude Code je nyní hlouběji integrován s VS Code a IDE JetBrains</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-06-10-vscode-jetbrains.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-06-10-vscode-jetbrains.md/</guid>
+        <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Claude Code nově vidí vaše otevřené soubory, diagnostiku LSP a jakýkoli text, který zvýrazníte ve VS Code a JetBrains. Když Claude Code navrhne změny, zobrazí vám úpravy v editoru, takže můžete plynule pracovat ve svých oblíbených editorech.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-06-10-vscode-jetbrains.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -667,6 +1209,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🟠 Replit - Import Figma designů do Replit Agent</title>
+        <link>https://www.marigold.cz/vibecoding/replit/2025-06-10-import-figma-designs.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/replit/2025-06-10-import-figma-designs.md/</guid>
+        <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Replit spouští **Replit Import** — nový způsob, jak tvůrci mohou importovat své návrhy do Repli a transformovat je na bezpečné, produkční aplikace pomocí Replit Agent.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/replit/2025-06-10-import-figma-designs.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>⚡ Tempolabs - Tempo Labs Volume 2: MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav</title>
         <link>https://www.marigold.cz/vibecoding/tempolabs/2025-06-10-mcp-app-store-styling-panel/</link>
         <guid>https://www.marigold.cz/vibecoding/tempolabs/2025-06-10-mcp-app-store-styling-panel/</guid>
@@ -686,6 +1246,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>⚡ Tempolabs - Tempo Labs Volume 2: MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav</title>
+        <link>https://www.marigold.cz/vibecoding/tempolabs/2025-06-10-mcp-app-store-styling-panel.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/tempolabs/2025-06-10-mcp-app-store-styling-panel.md/</guid>
+        <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Tempo Labs, startup z akcelerátoru Y Combinator S23, představil 9. června 2025 druhý souhrnný **balík novinek s názvem Volume 2**. Na svém účtu X stručně vyjmenoval hlavní přírůstky – MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav. Níže si rozeberme, co jednotlivé novinky znamenají pro vývojáře používající Tempo jako AI-asistované IDE.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/tempolabs/2025-06-10-mcp-app-store-styling-panel.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🌊 Windsurf - Windsurf zavádí Planning Mode pro dlouhodobé plánování projektů, model O3 zlevňuje</title>
         <link>https://www.marigold.cz/vibecoding/windsurf/2025-06-10-windsurf-planing-mode/</link>
         <guid>https://www.marigold.cz/vibecoding/windsurf/2025-06-10-windsurf-planing-mode/</guid>
@@ -697,6 +1275,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/windsurf/2025-06-10-windsurf-planing-mode/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🌊 Windsurf - Windsurf zavádí Planning Mode pro dlouhodobé plánování projektů, model O3 zlevňuje</title>
+        <link>https://www.marigold.cz/vibecoding/windsurf/2025-06-10-windsurf-planing-mode.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/windsurf/2025-06-10-windsurf-planing-mode.md/</guid>
+        <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Společnost Windsurf (dříve Exafunction) představila Planning Mode jako součást své desáté vlny updatů. Nová funkce umožňuje spolupráci s umělou inteligencí na dlouhodobém plánování programátorských projektů prostřednictvím markdown souborů. Současně značně snížila náklady na využívání modelu O3 z OpenAI.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/windsurf/2025-06-10-windsurf-planing-mode.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -745,6 +1341,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🟢 OpenAI Codex - Codex pomáhá s aktualizací pull requestů</title>
+        <link>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-aktualizace-pull-requestu.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-aktualizace-pull-requestu.md/</guid>
+        <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Codex nyní může pomáhat s aktualizací pull requestů (PRs). Toto pravděpodobně znamená, že Codex může generovat aktualizace pro PRs na základě zpětné vazby, řešit konflikty nebo navrhovat vylepšení kódu. Funkce je užitečná pro zjednodušení procesu správy pull requestů, což usnadňuje spolupráci a zlepšování příspěvků kódu v týmech. 
+          
+          <p><a href="https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-aktualizace-pull-requestu.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🟢 OpenAI Codex - Codex přidává podporu hlasového diktátu</title>
         <link>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-diktat-hlasem/</link>
         <guid>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-diktat-hlasem/</guid>
@@ -756,6 +1370,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-diktat-hlasem/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟢 OpenAI Codex - Codex přidává podporu hlasového diktátu</title>
+        <link>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-diktat-hlasem.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-diktat-hlasem.md/</guid>
+        <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Uživatelé nyní mohou používat hlasový vstup s Codexem. Toto umožňuje diktovat úkoly týkající se programování nebo popisy, které Codex následně převede na kód. Funkce je užitečná pro zlepšení přístupnosti a poskytování hands-free interakce s asistenčním programem, což může být prospěšné pro uživatele s postižením nebo pro multitasking. 
+          
+          <p><a href="https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-diktat-hlasem.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -783,6 +1415,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🟢 OpenAI Codex - Codex získává internetový přístup</title>
+        <link>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-internetovy-pristup.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-internetovy-pristup.md/</guid>
+        <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Codex nyní může během vykonávání úkolů přistupovat k internetu. Uživatelé mohou povolit internetový přístup pro Codex, aby mohl provádět úkoly jako instalace závislostí, spouštění testů vyžadujících externí zdroje, aktualizace nebo instalace balíčků potřebných pro vývoj nových funkcí. Uživatelé mají kontrolu nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost. 
+          
+          <p><a href="https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-internetovy-pristup.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🟢 OpenAI Codex - Codex dostupný v rámci předplatitného ChatGPT Plus</title>
         <link>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-pristup-pro-plus-uzivatele/</link>
         <guid>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-pristup-pro-plus-uzivatele/</guid>
@@ -794,6 +1444,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-pristup-pro-plus-uzivatele/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟢 OpenAI Codex - Codex dostupný v rámci předplatitného ChatGPT Plus</title>
+        <link>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-pristup-pro-plus-uzivatele.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-pristup-pro-plus-uzivatele.md/</guid>
+        <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Codex je nyní dostupný v rámci předplatitného  ChatGPT Plus. Tato funkce umožňuje placeným uživatelům ChatGPT využívat Codex pro asistenci při programování, například generování kódu z přirozeného jazyka nebo doplňování kódu. Je užitečná pro širší spektrum vývojářů, kteří tak mohou zvýšit svou produktivitu díky pokročilým AI nástrojům. 
+          
+          <p><a href="https://www.marigold.cz/vibecoding/openai-codex/2025-06-03-pristup-pro-plus-uzivatele.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -821,6 +1489,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🧠 Memex - Memex integruje nová LLM a šablony MCP</title>
+        <link>https://www.marigold.cz/vibecoding/memex/2025-05-25-memex-llm-mcp.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/memex/2025-05-25-memex-llm-mcp.md/</guid>
+        <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Memex integruje nové AI modely. Firma se se zaměřuje na 2–3 nejlepší modely SOTA v daném okamžiku, protože podle nich právě ty přinášejí nejlepší výsledky při kódování a složitých úkolech. Nyní Memex rozšiřuje svou nabídku modelů a umožňuje uživatelům vyzkoušet dva zbrusu nové modely z jediného rozhraní. Další novinkou jsou MCP šablony. 
+          
+          <p><a href="https://www.marigold.cz/vibecoding/memex/2025-05-25-memex-llm-mcp.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🟠 Replit - Element Editor - klikni, uprav, publikuj</title>
         <link>https://www.marigold.cz/vibecoding/replit/2025-05-22-element-editor/</link>
         <guid>https://www.marigold.cz/vibecoding/replit/2025-05-22-element-editor/</guid>
@@ -832,6 +1518,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/replit/2025-05-22-element-editor/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟠 Replit - Element Editor - klikni, uprav, publikuj</title>
+        <link>https://www.marigold.cz/vibecoding/replit/2025-05-22-element-editor.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/replit/2025-05-22-element-editor.md/</guid>
+        <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Nový Element Editor umožňuje přímé úpravy aplikací bez znalosti kódu, podobně jako v design nástrojích.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/replit/2025-05-22-element-editor.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -880,6 +1584,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🟠 Replit - Replit - nejbezpečnější místo pro vibe coding</title>
+        <link>https://www.marigold.cz/vibecoding/replit/2025-05-15-safe-vibe-coding.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/replit/2025-05-15-safe-vibe-coding.md/</guid>
+        <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Replit posiluje bezpečnost a spouští nejlepší vibe coding history funkci na světě. Pro ty, kteří přinášejí R projekty, máme také skvělé novinky.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/replit/2025-05-15-safe-vibe-coding.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>2025 - OpenAI kupuje Windsurf a  posiluje v programátorských nástrojích</title>
         <link>https://www.marigold.cz/item/openai-kupuje-windsurf/</link>
         <guid>https://www.marigold.cz/item/openai-kupuje-windsurf/</guid>
@@ -920,6 +1642,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🔴 Databutton -  Custom Domain Deployment Enhancements - Vylepšené nasazení na vlastní domény</title>
+        <link>https://www.marigold.cz/vibecoding/databutton/2025-05-10-custom-domain.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/databutton/2025-05-10-custom-domain.md/</guid>
+        <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Databutton vylepšil svůj proces nasazení aplikací, který nyní umožňuje snadnější a rychlejší připojení k vlastním doménám. Uživatelé mohou nasadit své aplikace na domény typu [username].databutton.app/[appname] nebo na zcela vlastní domény s jedním kliknutím. Nová funkce také zahrnuje automatickou konfiguraci SSL certifikátů pro zajištění bezpečnosti.  
+          
+          <p><a href="https://www.marigold.cz/vibecoding/databutton/2025-05-10-custom-domain.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🟠 Replit - Replit Auth - bezpečné přihlašování jedním příkazem</title>
         <link>https://www.marigold.cz/vibecoding/replit/2025-05-08-replit-auth/</link>
         <guid>https://www.marigold.cz/vibecoding/replit/2025-05-08-replit-auth/</guid>
@@ -931,6 +1671,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/replit/2025-05-08-replit-auth/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟠 Replit - Replit Auth - bezpečné přihlašování jedním příkazem</title>
+        <link>https://www.marigold.cz/vibecoding/replit/2025-05-08-replit-auth.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/replit/2025-05-08-replit-auth.md/</guid>
+        <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Uživatelské přihlašování, sociální sign-in a správa uživatelů — vše z jediného promptu s Replit Auth.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/replit/2025-05-08-replit-auth.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -958,6 +1716,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>💖 Lovable.dev - Reakce na vydání Lovable 2.0</title>
+        <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-04-lovable-2.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-06-04-lovable-2.md/</guid>
+        <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Lovable 2.0, AI platforma pro full-stack vývoj, vyvolala značně polarizované reakce v tech komunitě. Zatímco obchodní komunita oceňuje **rekordní růst na $17 milionů ARR za tři měsíce**, technická komunita vyjadřuje vážné obavy ohledně bezpečnosti a kvality generovaného kódu. Platforma dosáhla i dalších pozoruhodných růstových metrik: 30 000 platících zákazníků, 85% first-month retention rate (vyšší než ChatGPT), a 500,000+ celkových uživatelů vytvářejících 25,000+ nových služeb denně.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-06-04-lovable-2.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🔴 Databutton - Lovable 2.0: Nové funkce pro AI tvorbu webových aplikací</title>
         <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-04-25-lovable-2-nove_funkce/</link>
         <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-04-25-lovable-2-nove_funkce/</guid>
@@ -977,6 +1753,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🔴 Databutton - Lovable 2.0: Nové funkce pro AI tvorbu webových aplikací</title>
+        <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-04-25-lovable-2-nove_funkce.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-04-25-lovable-2-nove_funkce.md/</guid>
+        <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Aplikace Lovable koncem dubna vydala očekávanou verzi 2.0 své AI platformy pro vytváření webových aplikací pomocí přirozeného jazyka. Aktualizace přináší multiplayer spolupráci, Chat Mode Agent, bezpečnostní skenování, přímou editace kódu a zjednodušené ceny. Pojďme se na novinky podívat podrobněji:
+          
+          <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-04-25-lovable-2-nove_funkce.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🔴 Databutton - AI-Driven UI Glitch Correction - Oprava chyb uživatelského rozhraní pomocí AI</title>
         <link>https://www.marigold.cz/vibecoding/databutton/2025-04-15-oprava-ui/</link>
         <guid>https://www.marigold.cz/vibecoding/databutton/2025-04-15-oprava-ui/</guid>
@@ -988,6 +1782,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/databutton/2025-04-15-oprava-ui/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🔴 Databutton - AI-Driven UI Glitch Correction - Oprava chyb uživatelského rozhraní pomocí AI</title>
+        <link>https://www.marigold.cz/vibecoding/databutton/2025-04-15-oprava-ui.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/databutton/2025-04-15-oprava-ui.md/</guid>
+        <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Nová funkce umožňuje uživatelům nahrát screenshoty nebo popisy problémů s uživatelským rozhraním (UI) a AI agent Databutton automaticky analyzuje a opravuje chyby, jako jsou nesprávné zarovnání, nefunkční tlačítka nebo nekonzistentní design. AI navrhuje úpravy a generuje potřebný kód pro React UI, který lze okamžitě aplikovat.  
+          
+          <p><a href="https://www.marigold.cz/vibecoding/databutton/2025-04-15-oprava-ui.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -1028,6 +1840,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/databutton/2025-03-20-nova-funkce-databutton/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🔴 Databutton - Kanban Board Integration - Integrovaný Kanban board pro správu úkolů</title>
+        <link>https://www.marigold.cz/vibecoding/databutton/2025-03-20-nova-funkce-databutton.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/databutton/2025-03-20-nova-funkce-databutton.md/</guid>
+        <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Databutton přidal novou funkci Kanban boardu, která funguje jako vestavěný nástroj pro správu úkolů přímo v platformě. Tento board umožňuje uživatelům organizovat úkoly podobně jako v nástrojích typu Jira, přičemž AI agent automaticky generuje a aktualizuje úkoly na základě popisu projektu. Uživatelé mohou přidávat, upravovat a sledovat úkoly v reálném čase, přičemž AI navrhuje optimalizace pracovního postupu.  
+          
+          <p><a href="https://www.marigold.cz/vibecoding/databutton/2025-03-20-nova-funkce-databutton.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -1077,6 +1907,26 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🧠 Memex - Memex Hardware Design: AI-powered CAD/CAM pro každého</title>
+        <link>https://www.marigold.cz/vibecoding/memex/2025-01-25-memex-hardware-design.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/memex/2025-01-25-memex-hardware-design.md/</guid>
+        <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Memex umožňuje vytvářet profesionální 3D modely, CAD výkresy a výrobní dokumentaci pouze pomocí přirozeného jazyka.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/memex/2025-01-25-memex-hardware-design.md/">📖 Pokračování...</a></p>
+          
+            <p>🏷️ memex, cad-cam, hardware-design</p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🖱️ Cursor - Cursor představuje Composer - AI agent pro komplexní změny kódu</title>
         <link>https://www.marigold.cz/vibecoding/cursor/2025-01-22-cursor-composer-update/</link>
         <guid>https://www.marigold.cz/vibecoding/cursor/2025-01-22-cursor-composer-update/</guid>
@@ -1088,6 +1938,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/cursor/2025-01-22-cursor-composer-update/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🖱️ Cursor - Cursor představuje Composer - AI agent pro komplexní změny kódu</title>
+        <link>https://www.marigold.cz/vibecoding/cursor/2025-01-22-cursor-composer-update.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/cursor/2025-01-22-cursor-composer-update.md/</guid>
+        <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Cursor vydal revolucionní funkci Composer, která představuje nový typ AI agenta schopného provádět komplexní změny napříč celým projektem pomocí přirozeného jazyka.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/cursor/2025-01-22-cursor-composer-update.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -1115,6 +1983,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🖱️ Cursor - Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu</title>
+        <link>https://www.marigold.cz/vibecoding/cursor/2025-01-19-cursor-codebase-indexing.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/cursor/2025-01-19-cursor-codebase-indexing.md/</guid>
+        <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/cursor/2025-01-19-cursor-codebase-indexing.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🟣 Claude Code - Claude Code vylepšuje debugging - nové možnosti</title>
         <link>https://www.marigold.cz/vibecoding/claude-code/2025-01-18-claude-debugging/</link>
         <guid>https://www.marigold.cz/vibecoding/claude-code/2025-01-18-claude-debugging/</guid>
@@ -1126,6 +2012,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-01-18-claude-debugging/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>🟣 Claude Code - Claude Code vylepšuje debugging - nové možnosti</title>
+        <link>https://www.marigold.cz/vibecoding/claude-code/2025-01-18-claude-debugging.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/claude-code/2025-01-18-claude-debugging.md/</guid>
+        <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Claude Code představil nové funkce pro ladění kódu, které výrazně zlepšují vývojářský zážitek. Nové nástroje umožňují rychlejší identifikaci a opravu chyb.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/claude-code/2025-01-18-claude-debugging.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>
@@ -1153,6 +2057,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🖱️ Cursor - Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem</title>
+        <link>https://www.marigold.cz/vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements.md/</guid>
+        <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>🌊 Windsurf - Windsurf přidává pokročilého AI asistenta přímo do editoru</title>
         <link>https://www.marigold.cz/vibecoding/windsurf/2025-01-15-windsurf-ai-assistant/</link>
         <guid>https://www.marigold.cz/vibecoding/windsurf/2025-01-15-windsurf-ai-assistant/</guid>
@@ -1172,6 +2094,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
       
       
       <item>
+        <title>🌊 Windsurf - Windsurf přidává pokročilého AI asistenta přímo do editoru</title>
+        <link>https://www.marigold.cz/vibecoding/windsurf/2025-01-15-windsurf-ai-assistant.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/windsurf/2025-01-15-windsurf-ai-assistant.md/</guid>
+        <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Nejnovější aktualizace Windsurf IDE přináší revoluci ve formě integrovaného AI asistenta, který pracuje přímo v editoru a poskytuje kontextovou pomoc během programování.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/windsurf/2025-01-15-windsurf-ai-assistant.md/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
         <title>⚡ Tempolabs - Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty</title>
         <link>https://www.marigold.cz/vibecoding/tempolabs/2025-01-10-tempolabs-instant-deploy/</link>
         <guid>https://www.marigold.cz/vibecoding/tempolabs/2025-01-10-tempolabs-instant-deploy/</guid>
@@ -1183,6 +2123,24 @@ Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeb
 
           
           <p><a href="https://www.marigold.cz/vibecoding/tempolabs/2025-01-10-tempolabs-instant-deploy/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>⚡ Tempolabs - Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty</title>
+        <link>https://www.marigold.cz/vibecoding/tempolabs/2025-01-10-tempolabs-instant-deploy.md/</link>
+        <guid>https://www.marigold.cz/vibecoding/tempolabs/2025-01-10-tempolabs-instant-deploy.md/</guid>
+        <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            Tempolabs vydal revolucionární funkci Instant Deploy, která umožňuje nasadit aplikace do produkce během několika minut po jejich vytvoření.
+          
+          <p><a href="https://www.marigold.cz/vibecoding/tempolabs/2025-01-10-tempolabs-instant-deploy.md/">📖 Pokračování...</a></p>
           
         ]]></description>
       </item>

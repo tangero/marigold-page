@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Memex Hardware Design: AI-powered CAD/CAM pro každého | Marigold.cz - Sítě a Technologie</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Memex Hardware Design: AI-powered CAD/CAM pro každého" />
+<meta name="author" content="Vibe Coding Team" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Memex umožňuje vytvářet profesionální 3D modely, CAD výkresy a výrobní dokumentaci pouze pomocí přirozeného jazyka." />
+<meta property="og:description" content="Memex umožňuje vytvářet profesionální 3D modely, CAD výkresy a výrobní dokumentaci pouze pomocí přirozeného jazyka." />
+<link rel="canonical" href="https://www.marigold.cz/vibecoding/memex/2025-01-25-memex-hardware-design.md/" />
+<meta property="og:url" content="https://www.marigold.cz/vibecoding/memex/2025-01-25-memex-hardware-design.md/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-01-25T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Memex Hardware Design: AI-powered CAD/CAM pro každého" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Vibe Coding Team"},"dateModified":"2025-01-25T00:00:00+00:00","datePublished":"2025-01-25T00:00:00+00:00","description":"Memex umožňuje vytvářet profesionální 3D modely, CAD výkresy a výrobní dokumentaci pouze pomocí přirozeného jazyka.","headline":"Memex Hardware Design: AI-powered CAD/CAM pro každého","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/vibecoding/memex/2025-01-25-memex-hardware-design.md/"},"url":"https://www.marigold.cz/vibecoding/memex/2025-01-25-memex-hardware-design.md/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Memex umožňuje vytvářet profesionální 3D modely, CAD výkresy a výrobní dokumentaci pouze pomocí přirozeného jazyka." />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Memex Hardware Design: AI-powered CAD/CAM pro každého" />
+    <meta property="twitter:title" content="Memex Hardware Design: AI-powered CAD/CAM pro každého" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://www.marigold.cz/vibecoding/memex/2025-01-25-memex-hardware-design.md/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <script type="text/javascript">
+      window.heapReadyCb=window.heapReadyCb||[],window.heap=window.heap||[],heap.load=function(e,t){window.heap.envId=e,window.heap.clientConfig=t=t||{},window.heap.clientConfig.shouldFetchServerConfig=!1;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="https://cdn.us.heap-api.com/config/"+e+"/heap_config.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(a,r);var n=["init","startTracking","stopTracking","track","resetIdentity","identify","getSessionId","getUserId","getIdentity","addUserProperties","addEventProperties","removeEventProperty","clearEventProperties","addAccountProperties","addAdapter","addTransformer","addTransformerFn","onReady","addPageviewProperties","removePageviewProperty","clearPageviewProperties","trackPageview"],i=function(e){return function(){var t=Array.prototype.slice.call(arguments,0);window.heapReadyCb.push({name:e,fn:function(){heap[e]&&heap[e].apply(heap,t)}})}};for(var p=0;p<n.length;p++)heap[n[p]]=i(n[p])};
+      heap.load("2219710997");
+  </script>
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="/search">🔍</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | <a href="/vibecoding">👨‍💻 Vibe Coding</a> | <a href="/mobilnisite">🗼 4G/5G</a> | <a href="/ai">🤖 AI</a> | <a href="/obrazy">🖼️ Obrazy</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <!-- start Mermaid run code --> 
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+<!-- end fMermaid run code --> 
+
+<a href="https://www.arthousemelichar.cz/"><img src="https://www.marigold.cz/assets/arthousemelichar.jpg" alt="Art House Melichar Brandýs nad Labem - popup galerie pro toto léto" style="width:100%;display:block;margin:0 auto;" /></a>
+
+<!-- místo původního feedwind code -->
+
+
+<style>
+  code.language-mermaid {
+    display: flex;
+    justify-content: center;
+  }
+  pre:has(code.language-mermaid), code.language-mermaid {
+    background-color: transparent;
+  }
+  .edgeLabel {
+    font-size: 92%;
+    opacity: .95;
+    color: #111;
+    padding: 0 3px;
+  }
+  .node rect {
+    stroke: #214f78 !important;
+  }
+  .nodeLabel {
+    color: #214f78 !important;
+  }
+
+  /* Odstranění rámečků kolem textu */
+  .post.detailed {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  .post.detailed .entry {
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  /* Odstranění okrajů kolem sekce Články a novinky */
+  .posts {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  .posts .post .entry {
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: none !important;
+  }
+
+  /* CSS pro tlačítko kopírovat */
+  .code-block-container {
+    position: relative;
+    margin: 20px 0;
+  }
+  .copy-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    z-index: 1;
+  }
+  .copy-button:hover {
+    background-color: #45a049;
+  }
+  .copy-button:active {
+    background-color: #3e8e41;
+  }
+  .copy-button.copied {
+    background-color: #666;
+  }
+  .code-block-container pre {
+    position: relative;
+    padding-top: 40px;
+  }
+  .toast {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 5px;
+    display: none;
+    z-index: 1000;
+  }
+</style>
+<!-- end feedwind code -->
+
+<article class="post detailed">
+  <h1>Memex Hardware Design: AI-powered CAD/CAM pro každého</h1>
+
+  
+  <div class="posts">
+    <blockquote>
+      <p>💡 Firemní <a href="https://www.prolnuto.cz/">konzultace a workshopy o umělé inteligenci</a>. Jak se vaší firmy dotkne AI a jak se na to připravit?<br/>👉 Poradíme v <a href="https://www.prolnuto.cz/">Prolnuto.cz</a></p>
+    </blockquote>
+  </div>
+  
+
+  
+  <!-- Zde se zobrazí obsah pro všechny ostatní kolekce než 'obrazy' -->
+  <div>
+    <p class="author_title">Patrick Zandl  ·
+
+25.
+leden
+  
+2025 
+    
+    </p>
+
+    
+    <div class="post-tags">
+      
+      
+        <a href="//rubrika/#AI">AI</a>
+        &nbsp;
+      
+        <a href="//rubrika/#Hardware">Hardware</a>
+        &nbsp;
+      
+        <a href="//rubrika/#CAD">CAD</a>
+        &nbsp;
+      
+        <a href="//rubrika/#3D-Design">3D-Design</a>
+        
+      
+    </div>
+   
+  </div>
+
+  
+
+
+ 
+
+
+
+  <div class="entry">
+    Memex je AI nástroj pro stolní počítače, který umožňuje vytvářet také jednoduché 3D návrhy pomocí přirozeného jazyka. Namísto učení se složitému CAD softwaru popíšete, co chcete vytvořit, a Memex vygeneruje kód pro jeho vytvoření. Tento přístup funguje nejlépe pro jednoduché návrhy, jako jsou hračky, držáky, úchyty a organizéry, které nevyžadují složité sestavy nebo organické tvary.
+
+## **Co se naučíte**
+
+✓ Jak vám Memex pomáhá vytvářet jednoduché 3D návrhy pomocí generování kódu
+
+✓ Typy 3D návrhů, které dobře fungují s programováním v přirozeném jazyce
+
+✓ Používání OpenSCAD a dalších nástrojů pro 3D návrh založených na kódu
+
+✓ Příprava návrhů pro 3D tisk
+
+✓ Omezení a budoucí potenciál převodu textu do CAD
+
+## **Porozumění převodu textu do CAD s Memex**
+
+Velké jazykové modely, které pohánějí nástroje jako Memex, vynikají v kódování. Vzhledem k tomu, že 3D návrhový software pracuje na kódu, Memex může generovat 3D návrhy přímým psaním kódu. Ve světě hardwarového designu to není nový koncept – skriptování geometrie existuje již desítky let. Novinkou je možnost vytvářet tyto skripty prostřednictvím konverzace v přirozeném jazyce.
+
+Místo učení se složitému rozhraní CAD nástroje stačí jednoduše popsat, co chcete vytvořit. Memex napíše kód pro generování vašeho návrhu, který lze poté exportovat do standardních formátů, jako je STL, pro 3D tisk. Tento přístup je obzvláště vhodný pro lidi, kteří umí dobře vyjádřit své nápady slovně, ale nemají technické dovednosti k jejich převedení do 3D modelů.
+
+Je důležité si uvědomit, že tento přístup má svá omezení. Ačkoli Memex dokáže v některých případech vytvořit působivé 3D návrhy, jeho výkon je stále nejistý. Úspěch vašeho projektu závisí do značné míry na složitosti vašeho návrhu a na tom, jak jasně dokážete vyjádřit, co chcete.
+
+## **Kdy použít Memex pro 3D návrh**
+
+Memex funguje nejlépe pro 3D návrhy, které splňují následující kritéria:
+
+1.  Jednoduché geometrické tvary spíše než organické formy
+2.  Jednodílné objekty, které nevyžadují složité sestavy
+3.  Funkční předměty s jasnými specifikacemi
+4.  Návrhy, které lze efektivně popsat slovy
+
+Mezi běžné příklady patří hračky s jednoduchou geometrií, držáky, jako jsou držáky na telefon na stůl, organizační nástroje, pouzdra na elektroniku a další jednoduché díly. Tyto návrhy těží z parametrického přístupu, kde lze jasně definovat rozměry a vztahy.
+
+Pro složitější návrhy, zejména ty s organickými tvary, složitými mechanickými sestavami nebo přesnými technickými požadavky, zůstává lepší volbou tradiční CAD software používaný přímo.
+
+## **Úspěch v praxi: Vytváření hraček pomocí OpenSCAD**
+
+Uživatel Memex bez předchozích zkušeností s CAD chtěl vytvořit hračky pro svého malého syna pomocí 3D tiskárny, kterou dostal k Vánocům. Požádal Memex o doporučení nástrojů pro vytváření 3D modelů z kódu a Memex mu doporučil OpenSCAD – open-source nástroj pro vytváření 3D modelů pomocí programování.
+
+Memex nainstaloval OpenSCAD na jeho počítač a pokračoval v psaní skriptu, který podle požadavků jeho syna vygeneroval závodní auto s raketovým motorem. Uživatel se poté zeptal, jak tento model připravit pro tisk. Memex doporučil PrusaSlicer, další open-source nástroj, který převádí STL soubor z OpenSCAD do G-kódu pro jeho 3D tiskárnu.
+
+Hračka se úspěšně vytiskla a tato zkušenost zapálila v uživateli a jeho synovi nový koníček. Nyní společně pravidelně navrhují a tisknou hračky, čímž podporují zájem chlapce o techniku prostřednictvím praktické tvorby.
+
+Tento případ ukazuje, jak Memex může pomoci lidem bez předchozích zkušeností vytvářet jednoduché, ale funkční 3D návrhy. Klíčem k úspěchu byl výběr vhodného návrhu (hračka v podobě auta se základními geometrickými tvary) a použití nástrojů vhodných pro programové vytváření (OpenSCAD a PrusaSlicer).
+
+## **Pracovní postup: Od nápadu k fyzickému objektu**
+
+Vytvoření 3D návrhu pro tisk pomocí Memexu se řídí jednoduchým pracovním postupem:
+
+Nejprve popíšete, co chcete vytvořit. Buďte co nejpřesnější, pokud jde o rozměry, vlastnosti a funkčnost. Například:
+
+```
+Potřebuji stojánek na telefon na svůj stůl, který udrží můj iPhone v úhlu 45 stupňů. Měl by být stabilní a mít otvor pro nabíjecí kabel.
+```
+
+Memex na základě tohoto popisu navrhne vhodné nástroje pro váš projekt. Pro programové 3D modelování se často používá OpenSCAD, ale v závislosti na vašich potřebách a operačním systému existují i jiné možnosti.
+
+Po výběru nástrojů Memex napíše kód pro generování vašeho návrhu. Kód vytvoří parametrický model, který můžete upravit změnou proměnných. Můžete například upravit šířku stojánku na telefon, aby se do něj vešly různé zařízení.
+
+Po vytvoření základního modelu můžete pokračovat v konverzaci. Požádejte Memex o úpravy, jako například „zvětšit základnu pro lepší stabilitu“ nebo „přidat výřez pro nabíjecí kabel“. Každý požadavek bude mít za následek aktualizaci kódu, která vylepší váš návrh.
+
+Až budete s modelem spokojeni, Memex vám pomůže exportovat jej do souboru STL vhodného pro 3D tisk. Poté vás provede používáním softwaru pro rozřezávání, který připraví soubor pro vaši konkrétní 3D tiskárnu, včetně výběru vhodných nastavení tisku pro váš materiál a model tiskárny.
+
+Během celého tohoto procesu funguje Memex jako učitel i asistent. Nejenže píše kód, ale také vysvětluje, co dělá, a pomáhá vám tak naučit se základy 3D designu.
+
+## **Omezení současných přístupů text-to-CAD**
+
+Ačkoli Memex může pomoci vytvořit jednoduché 3D návrhy prostřednictvím generování kódu, je důležité pochopit současné omezení:
+
+Geometrická složitost zůstává výzvou. Modely s organickými tvary nebo složitými detaily se často nedají dobře převést z textových popisů do kódu. Jazykové modely, které pohánějí nástroje jako Memex, mají potíže s konceptualizací složitých 3D tvarů stejným způsobem jako lidé.
+
+Návrh sestav je omezený. Vytvoření více dílů, které do sebe zapadají s přesnými tolerancemi, je obtížné popsat slovně a pro AI je náročné správně implementovat. Pokud váš projekt vyžaduje více interagujících komponent, mohou být efektivnější tradiční přístupy CAD.
+
+Iterace může být časově náročná. Memex sice dokáže provádět úpravy vašeho návrhu prostřednictvím konverzace, ale každá změna vyžaduje generování a vyhodnocení nového kódu. U návrhů vyžadujících mnoho iterací může být přímá manipulace ve vizuálním nástroji CAD rychlejší.
+
+Kvalita výstupu se liší. Kód generovaný Memexem nemusí vždy odpovídat osvědčeným postupům pro 3D tisk, což může vést k modelům, které se obtížně tisknou nebo jsou konstrukčně slabé. Často je nutná lidská kontrola a úprava.
+
+Navzdory těmto omezením tento přístup funguje velmi dobře pro jednoduché, funkční návrhy, zejména pro uživatele, kteří by jinak nebyli schopni vytvářet 3D modely kvůli náročnosti tradičního CAD softwaru.
+
+## **Budoucnost převodu textu na CAD pomocí nástrojů AI pro kódování**
+
+Propojení zpracování přirozeného jazyka a 3D designu je velmi slibné. S pokračujícím zlepšováním jazykových modelů a kódovacích schopností můžeme v této oblasti očekávat několik zajímavých vývojů:
+
+### **Pokroky v počítačovém designu**
+
+Budoucí nástroje AI budou pravděpodobně mnohem lepší v počítačovém designu – vytváření složitých geometrií na základě funkčních požadavků namísto explicitních tvarů. Namísto popisu toho, jak design vypadá, můžete specifikovat, co má dělat, a AI vygeneruje optimální formy, které tyto požadavky splní.
+
+Můžete například zadat:
+
+```
+Vytvořte konzolu, která unese 10 liber váhy při minimální spotřebě materiálu
+```
+
+a AI vygeneruje topologicky optimalizovaný návrh, který splňuje tyto specifikace. Tento přístup by mohl revolučním způsobem změnit oblasti jako lehká konstrukce a udržitelný design.
+
+### **Automatizace pracovních postupů**
+
+Ačkoli je v současné době omezený, potenciál AI pro automatizaci pracovních postupů 3D designu je značný. Budoucí systémy by mohly řídit celý proces od konceptu po fyzický objekt, včetně přípravy souborů, optimalizace pro výrobu a dokonce i kontroly kvality.
+
+Tato automatizace by mohla zahrnovat inteligentní zpracování souborů v různých softwarových nástrojích, kontrolu verzí specifickou pro potřeby 3D designu a automatickou přípravu pro různé výrobní metody – nejen 3D tisk, ale také CNC obrábění, lisování a další procesy.
+
+### **Integrace pokročilé analýzy**
+
+Jednou z nejslibnějších oblastí je integrace analytických nástrojů do generativního designu. Budoucí systémy AI by mohly současně generovat návrhy a analyzovat je z hlediska strukturální integrity, dynamiky tekutin, tepelných vlastností nebo jiných výkonnostních charakteristik.
+
+To by mohlo umožnit rychlou iteraci na základě výsledků simulace, nikoli pouze vizuální zpětné vazby, což by designérům umožnilo optimalizovat výkon při zachování estetických a funkčních požadavků. Například řešení chlazení by mohlo být iterativně vylepšováno na základě zpětné vazby z tepelné simulace, dokud nesplní specifické výkonnostní cíle.
+  </div>
+
+  <div class="ai-rubric-link">
+    
+    <!-- Přidání tabulky s náhodně vybranými obrazy pouze pro články z kolekce Obrazy -->
+    
+  </div>
+
+      <!-- Místo pro widget -->
+  <div class="posts">
+    <h3>Jak se vám líbí tento článek?</h3>
+
+    <div id="feedback-widget"></div>
+
+    <!-- Widget se vloží do #feedback-widget -->
+    <script 
+        src="https://top.marigold.cz/mg-feedback.js" 
+        data-slug="vibecoding-memex-2025-01-25-memex-hardware-design-md" 
+        data-title="Memex Hardware Design: AI-powered CAD/CAM pro každého" 
+        data-url="https://www.marigold.cz/vibecoding/memex/2025-01-25-memex-hardware-design.md/"
+        data-target="#feedback-widget"
+    ></script>
+</div>
+
+<!-- Místo pro widget nejčtenější články -->
+<script src="//widgets.clicky.com/poppy/?site_id=101451859&sitekey=5e093ea9431d06c7b572df6b51eda89f&width=500&height=500&date=last-28-days&type=pages&limit=10&title=Nej%C4%8Dten%C4%9Bj%C5%A1%C3%AD%20%C4%8Dl%C3%A1nky&hide_title=0&hide_branding=1" type="text/javascript"></script>
+<!-- Konec widget nejčtenější články -->
+
+  
+  <div class="commentbox"></div>
+  <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+  <script>commentBox('5677112761516032-proj')</script>
+  
+
+  <!-- Tady začíná odkazování na featured články -->
+  
+  
+    
+    <div class="featured-posts">
+      <h3>💡 Co je tu dalšího zajímavého ke čtení?</h3>
+      <table>
+        <tbody>
+          
+            <tr>
+              <td>
+                <a href="/item/ma-nova-kniha-o-digitalni-novinarine/">👉Má nová kniha o digitální novinařině</a>
+                <p class="excerpt">
+                  
+                    Vydal jsem novou knihu věnovanou zajímavému výseku internetu a to digitální občanské publicistice. Jmenuje se  Zlatá éra weblogů a můžete si ji stáhnout zdar...
+                  
+                </p>
+              </td>
+            </tr>
+          
+            <tr>
+              <td>
+                <a href="/item/facebook-meta-metaversum/">👉Facebook je nově Meta a staví Metaversum</a>
+                <p class="excerpt">
+                  
+                    Nejdůležitější zprávou poslední doby je přejmenování společnosti Facebook na Meta Platforms Inc. A hned si řekneme, proč je to důležité. Jen pro jistotu přip...
+                  
+                </p>
+              </td>
+            </tr>
+          
+        </tbody>
+      </table>
+    </div>
+    
+
+
+
+  <div class="posts">
+    <h3>Chcete tyto články emailem?</h3>
+    <iframe src="https://zandl.substack.com/embed" width="480" height="150" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+  </div>
+
+  <div>
+    <p><span class="share-box">Sdílejte článek:</span> <a href="http://twitter.com/share?text=Memex Hardware Design: AI-powered CAD/CAM pro každého&url=https://www.marigold.cz/vibecoding/memex/2025-01-25-memex-hardware-design.md/" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u=https://www.marigold.cz/vibecoding/memex/2025-01-25-memex-hardware-design.md/" target="_blank">Facebook</a>, 
+
+    
+      <a href="https://github.com/tangero/marigold-page/blob/main/_vibecoding/memex/2025-01-25-memex-hardware-design.md.bak" target="_blank">
+        Opravit 📃
+      </a>
+    
+</p>
+    <p>
+    <div class="PageNavigation">
+      
+        <a class="prev" href="/vibecoding/memex/2025-01-25-memex-hardware-design/">&laquo; Memex Hardware Design: AI-powered CAD/CAM pro každého</a> |
+      
+      
+      
+        <a class="next" href="/vibecoding/databutton/2025-03-20-nova-funkce-databutton/">Kanban Board Integration - Integrovaný Kanban board pro správu úkolů &raquo;</a>
+      
+    </div>
+    </p>
+  </div>
+</article>
+
+<!-- Toast notifikace -->
+<div class="toast" id="toast">Zkopírováno do schránky!</div>
+
+<!-- JavaScript pro funkcionalitu kopírování -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Najdi všechny code bloky (kromě Mermaid)
+    const codeBlocks = document.querySelectorAll('pre:not(:has(code.language-mermaid))');
+    
+    codeBlocks.forEach((codeBlock, index) => {
+        // Vytvoř kontejner pro code block
+        const container = document.createElement('div');
+        container.className = 'code-block-container';
+        
+        // Vytvoř tlačítko kopírovat
+        const copyButton = document.createElement('button');
+        copyButton.className = 'copy-button';
+        copyButton.textContent = 'Kopírovat';
+        copyButton.setAttribute('data-index', index);
+        
+        // Vlož code block a tlačítko do kontejneru
+        codeBlock.parentNode.insertBefore(container, codeBlock);
+        container.appendChild(copyButton);
+        container.appendChild(codeBlock);
+        
+        // Přidej event listener na tlačítko
+        copyButton.addEventListener('click', async () => {
+            try {
+                // Získej text z code bloku
+                const code = codeBlock.querySelector('code') || codeBlock;
+                const text = code.textContent;
+                
+                // Kopíruj do schránky
+                await navigator.clipboard.writeText(text);
+                
+                // Změň stav tlačítka
+                copyButton.textContent = 'Zkopírováno!';
+                copyButton.classList.add('copied');
+                
+                // Zobraz toast notifikaci
+                showToast();
+                
+                // Po 2 sekundách vrať původní stav
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+                
+            } catch (err) {
+                console.error('Chyba při kopírování:', err);
+                copyButton.textContent = 'Chyba';
+                copyButton.classList.add('copied');
+                
+                setTimeout(() => {
+                    copyButton.textContent = 'Kopírovat';
+                    copyButton.classList.remove('copied');
+                }, 2000);
+            }
+        });
+    });
+});
+
+function showToast() {
+    const toast = document.getElementById('toast');
+    toast.style.display = 'block';
+    setTimeout(() => {
+        toast.style.display = 'none';
+    }, 2000);
+}
+</script>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<!-- Twitter conversion tracking base code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    twq('config','pycs2');
+</script>
+    <!-- End Twitter conversion tracking base code -->
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
