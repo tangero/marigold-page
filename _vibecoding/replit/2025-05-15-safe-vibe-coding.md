@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Replit - nejbezpečnější místo pro vibe coding"
 date: 2025-05-15
 sw: replit

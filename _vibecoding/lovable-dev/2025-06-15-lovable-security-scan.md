@@ -6,7 +6,7 @@ categories:
 - No-code
 - Lovable
 - Supabase
-layout: post
+layout: vibecoding-default
 post_excerpt: Platforma Lovable přidala automatické bezpečnostní skenování, AI revizoře a ochranu API klíčů pro bezpečnější vývoj aplikací bez programování.
 summary_points:
 - Lovable integroval Supabase Security Advisor pro kontrolu databázových politik

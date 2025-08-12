@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Cursor 1.1 nabídne ToDo List"
 date: 2025-06-13
 ---

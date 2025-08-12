@@ -263,13 +263,13 @@ layout: default
   
   {% for post in filtered_posts limit: per_page offset: offset %}
     <article class="post">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="post-content clearfix">
         {% if post.thumbnail %}
           {% assign thumbnail_url = post.thumbnail | replace: 'http://', 'https://' %}
           <div class="thumbnail">
-            <a href="{{ site.baseurl }}{{ post.url }}">
+            <a href="{{ post.url }}">
               <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/{{ thumbnail_url }}" alt="{{ post.title }}">
             </a>
           </div>
@@ -298,7 +298,7 @@ layout: default
           {% when '12' %}prosinec
         {% endcase %}
         {{ post.date | date: "%Y" }} - 
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a> {% if post.audio_url %}nebo <a href="{{ post.audio_url }}" target="_blank">🎧 Poslechnout audio</a>{% endif %}
+        <a href="{{ post.url }}" class="read-more">Pokračuj ve čtení 👉</a> {% if post.audio_url %}nebo <a href="{{ post.audio_url }}" target="_blank">🎧 Poslechnout audio</a>{% endif %}
       </div>
     </article>
   {% endfor %}

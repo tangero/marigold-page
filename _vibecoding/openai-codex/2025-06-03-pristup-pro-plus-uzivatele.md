@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Codex dostupný v rámci předplatitného ChatGPT Plus"
 date: 2025-06-03
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Lovable 2.0: Nové funkce pro AI tvorbu webových aplikací"
 sw: databutton
 date: 2025-04-25

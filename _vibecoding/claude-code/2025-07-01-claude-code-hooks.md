@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 summary_points:
 - Claude Code představil funkci Hooks pro automatizaci a rozšíření možností nástroje
 - Hooks umožňují spouštět skripty před a po použití nástrojů jako jsou Bash, Write nebo Edit

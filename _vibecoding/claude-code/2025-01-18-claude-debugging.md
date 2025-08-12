@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Claude Code vylepšuje debugging - nové možnosti"
 date: 2025-01-18
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Codex pomáhá s aktualizací pull requestů"
 date: 2025-06-03
 ---

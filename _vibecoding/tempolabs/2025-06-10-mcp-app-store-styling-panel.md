@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Tempo Labs Volume 2: MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav"
 date: 2025-06-10
 ---

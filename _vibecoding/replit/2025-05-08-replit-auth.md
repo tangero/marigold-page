@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Replit Auth - bezpečné přihlašování jedním příkazem"
 date: 2025-05-08
 sw: replit

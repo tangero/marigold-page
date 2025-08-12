@@ -4,6 +4,8 @@ title: Memex - Vibe Coding
 permalink: /vibecoding/memex/
 ---
 
+{% include vibecoding-header.html %}
+
 # 🧠 Memex
 
 **AI-powered platformu pro tvorbu aplikací s autonomním řešením problémů v přirozeném jazyce**

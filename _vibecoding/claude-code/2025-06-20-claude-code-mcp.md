@@ -1,7 +1,7 @@
 ---
 author: Patrick Zandl
 date: 2025-06-20
-layout: post
+layout: vibecoding-default
 post_excerpt: Nyní se můžete připojit ke vzdáleným serverům MCP z Claude Code
 title: "Claude Code přidává podporu MCP serveru"
 ---

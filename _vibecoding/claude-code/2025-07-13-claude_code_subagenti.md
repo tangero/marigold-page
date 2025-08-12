@@ -6,7 +6,7 @@ categories:
 - Anthropic
 - paralelní zpracování
 - Task Tool
-layout: post
+layout: vibecoding-default
 post_excerpt: "Claude Code umožňuje spouštět paralelní subagenty pro efektivní zpracování rozsáhlých kódových projektů a současné provádění více nezávislých úkolů."
 summary_points:
 - Subagenti jsou lehké instance Claude Code běžící prostřednictvím Task Tool

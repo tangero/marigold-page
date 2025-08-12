@@ -5,7 +5,7 @@ categories:
 - Replit
 - cloud development
 - vývojářské nástroje
-layout: post
+layout: vibecoding-default
 post_excerpt: Replit představil řadu významných vylepšení včetně generování obrázků, pokročilé konfigurace agenta pomocí replit.md a vylepšené správy domén.
 summary_points:
 - Agent nyní umí generovat obrázky přímo v aplikacích

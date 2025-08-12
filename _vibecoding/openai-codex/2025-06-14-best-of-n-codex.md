@@ -6,7 +6,7 @@ categories:
 - Codex
 - programování
 - vývojářské nástroje
-layout: post
+layout: vibecoding-default
 post_excerpt: OpenAI vylepšil svůj nástroj Codex funkcí Best of N pro generování více řešení najednou a přidal řadu praktických vylepšení pro vývojáře.
 date: 2025-06-14
 title: OpenAI vylepšil Codex o funkci nejlepšího  výsledku Best of N 

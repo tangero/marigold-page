@@ -4,6 +4,8 @@ title: Windsurf - Vibe Coding
 permalink: /vibecoding/windsurf/
 ---
 
+{% include vibecoding-header.html %}
+
 # 🌊 Windsurf
 
 **Inteligentní IDE s pokročilými AI funkcemi pro vývoj**

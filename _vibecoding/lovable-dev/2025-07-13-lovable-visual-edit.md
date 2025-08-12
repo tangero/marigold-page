@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Lovable má nový vizuální editor"
 date: 2025-07-13
 ---

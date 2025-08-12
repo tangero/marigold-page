@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Codex získává internetový přístup"
 date: 2025-06-03
 ---

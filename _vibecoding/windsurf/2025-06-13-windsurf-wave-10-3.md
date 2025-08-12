@@ -6,7 +6,7 @@ categories:
 - vývojářské nástroje
 - enterprise software
 - kódování
-layout: post
+layout: vibecoding-default
 post_excerpt: Windsurf dokončuje Wave 10 aktualizace s evropským clusterem, rozšířením PCW metriky pro Cascade a vylepšením uživatelského rozhraní.
 summary_points:
 - Windsurf spustil evropský cluster ve Frankfurtu pro enterprise zákazníky s lokalizací dat v EU

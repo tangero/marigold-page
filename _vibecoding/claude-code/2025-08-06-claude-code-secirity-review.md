@@ -6,7 +6,7 @@ categories:
 - Claude Code
 - bezpečnost
 - GitHub
-layout: post
+layout: vibecoding-default
 post_excerpt: Anthropic přidal do Claude Code automatické bezpečnostní kontroly kódu přímo v terminálu a integraci s GitHub Actions pro kontrolu každého PR.
 summary_points:
 - Claude Code získal nový příkaz /security-review pro okamžité bezpečnostní kontroly

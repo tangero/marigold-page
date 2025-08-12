@@ -4,7 +4,9 @@ title: Lovable.dev - Vibe Coding
 permalink: /vibecoding/lovable-dev/
 ---
 
-# 💖 Lovable.dev
+{% include vibecoding-header.html %}
+
+# ❤️ Lovable.dev
 
 **AI-powered platforma pro rychlé vytváření full-stack webových aplikací**
 

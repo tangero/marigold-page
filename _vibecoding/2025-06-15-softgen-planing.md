@@ -5,7 +5,7 @@ categories:
 - No-code
 - Softgen
 - Webové aplikace
-layout: post
+layout: vibecoding-default
 post_excerpt: Softgen AI rozšířil svou platformu o funkci ukládání příkazů a nový plánovací režim pro strategické řízení projektů bez kódování.
 summary_points:
 - Softgen AI spustil funkci uložených příkazů pro opakované použití instrukcí

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Trae Agent je nově open source"
 date: 2025-07-03
 sw: Trae

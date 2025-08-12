@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Novinky v Gemini CLI a roadmapa funkcí"
 date: 2025-07-17
 sw: Gemini CLI

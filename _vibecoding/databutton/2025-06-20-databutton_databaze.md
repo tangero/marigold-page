@@ -3,7 +3,7 @@ author: Patrick Zandl
 categories:
 - Databutton
 - Neon Database
-layout: post
+layout: vibecoding-default
 post_excerpt: Databutton integruje databázi a ověřování přímo do platformy, čímž eliminuje potřebu externích služeb při vytváření aplikací pomocí AI.
 summary_points:
 - Databutton začleňuje databázi a ověřování uživatelů přímo do platformy pro tvorbu aplikací

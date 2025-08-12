@@ -4,7 +4,9 @@ title: Databutton - Vibe Coding
 permalink: /vibecoding/databutton/
 ---
 
-# 🔴 Databutton
+{% include vibecoding-header.html %}
+
+# 📊 Databutton
 
 **AI-powered platforma pro vytváření aplikací a analytických nástrojů bez kódování**
 

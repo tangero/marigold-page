@@ -4,7 +4,9 @@ title: Cursor - Vibe Coding
 permalink: /vibecoding/cursor/
 ---
 
-# 🖱️ Cursor
+{% include vibecoding-header.html %}
+
+# ⚡ Cursor
 
 **AI-first editor s pokročilými funkcemi pro rychlý vývoj a refactoring kódu**
 

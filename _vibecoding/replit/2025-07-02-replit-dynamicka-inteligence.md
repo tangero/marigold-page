@@ -1,6 +1,6 @@
 ---
 sw: replit
-layout: post
+layout: vibecoding-default
 title: "Replit Agent získal dynamickou inteligenci"
 ---
 

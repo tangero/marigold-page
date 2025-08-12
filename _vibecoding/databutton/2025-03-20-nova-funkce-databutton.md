@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Kanban Board Integration - Integrovaný Kanban board pro správu úkolů"
 sw: databutton
 date: 2025-03-20

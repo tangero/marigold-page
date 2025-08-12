@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Google uvedl Gemini CLI"
 date: 2025-06-25
 sw: Gemini CLI

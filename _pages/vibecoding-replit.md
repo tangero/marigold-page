@@ -4,7 +4,9 @@ title: Replit - Vibe Coding
 permalink: /vibecoding/replit/
 ---
 
-# 🟠 Replit
+{% include vibecoding-header.html %}
+
+# 🚀 Replit
 
 **AI-powered cloudová platforma pro vývoj a nasazení aplikací**
 

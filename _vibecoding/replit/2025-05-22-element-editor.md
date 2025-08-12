@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Element Editor - klikni, uprav, publikuj"
 date: 2025-05-22
 sw: replit

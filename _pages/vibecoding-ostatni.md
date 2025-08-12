@@ -4,6 +4,8 @@ title: Ostatní nástroje - Vibe Coding
 permalink: /vibecoding/ostatni/
 ---
 
+{% include vibecoding-header.html %}
+
 # 🔧 Ostatní nástroje
 
 **Další AI nástroje pro programování a vývoj aplikací**

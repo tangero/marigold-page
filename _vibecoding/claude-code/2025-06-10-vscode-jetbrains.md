@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Claude Code je nyní hlouběji integrován s VS Code a IDE JetBrains"
 date: 2025-06-10
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem"
 date: 2025-01-16
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: " Custom Domain Deployment Enhancements - Vylepšené nasazení na vlastní domény"
 sw: databutton
 date: 2025-05-10

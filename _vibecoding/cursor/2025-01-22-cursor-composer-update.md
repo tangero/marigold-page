@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Cursor představuje Composer - AI agent pro komplexní změny kódu"
 date: 2025-01-22
 ---

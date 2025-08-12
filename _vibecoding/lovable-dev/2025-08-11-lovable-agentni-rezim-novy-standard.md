@@ -5,7 +5,7 @@ categories:
 - Lovable
 - agentic development
 - webový vývoj
-layout: post
+layout: vibecoding-default
 post_excerpt: Platforma Lovable upravila svůj přístup k vývoji webových aplikací nasazením agentního režimu jako výchozí metody a přidáním analytických funkcí pro sledování výkonu aplikací.
 summary_points:
 - Agentní režim se stal výchozím způsobem práce v platformě Lovable

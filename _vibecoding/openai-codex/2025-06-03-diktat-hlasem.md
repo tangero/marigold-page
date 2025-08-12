@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Codex přidává podporu hlasového diktátu"
 date: 2025-06-03
 ---

@@ -6,7 +6,7 @@ categories:
 - Anthropic
 - vývojové nástroje
 - terminál
-layout: post
+layout: vibecoding-default
 post_excerpt: Anthropic přidal do nástroje Claude Code možnost vytvářet přizpůsobitelné stavové řádky v terminálu pro zobrazení kontextových informací během programování.
 summary_points:
 - Claude Code získal funkci přizpůsobitelných stavových řádků v terminálu

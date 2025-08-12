@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty"
 date: 2025-01-10
 ---

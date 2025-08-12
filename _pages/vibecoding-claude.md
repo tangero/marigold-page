@@ -4,6 +4,8 @@ title: Claude Code - Vibe Coding
 permalink: /vibecoding/claude-code/
 ---
 
+{% include vibecoding-header.html %}
+
 # 🟣 Claude Code
 
 **Pokročilý AI asistent pro programování od Anthropic**

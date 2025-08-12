@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Memex Hardware Design: AI-powered CAD/CAM pro každého"
 date: 2025-01-25
 categories: [AI, Hardware, CAD, 3D-Design]

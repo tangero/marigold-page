@@ -7,7 +7,7 @@ categories:
 - O3
 - programování
 - vývojové nástroje
-layout: post
+layout: vibecoding-default
 post_excerpt: Windsurf představil Planning Mode pro dlouhodobé plánování projektů s AI a snížil ceny modelu O3 z 7,5x na 1x kredit.
 summary_points:
 - Planning Mode umožňuje kolaboraci s AI na dlouhodobém plánování prostřednictvím markdown souborů

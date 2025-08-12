@@ -6,7 +6,7 @@ categories:
 - Claude
 - Claude Code
 - LLM
-layout: post
+layout: vibecoding-default
 post_excerpt: Anthropic rozšířil Claude Code o správu kontextu, podporu podsystémů a čtení PDF. Současně vydal vylepšený model Opus 4.1 s lepším výkonem při kódování.
 summary_points:
 - Claude Code získává automatické čištění volání nástrojů pro delší pracovní relace

@@ -4,7 +4,9 @@ title: Gemini CLI - Vibe Coding
 permalink: /vibecoding/gemini-cli/
 ---
 
-# 🔵 Gemini CLI
+{% include vibecoding-header.html %}
+
+# 💎 Gemini CLI
 
 **Terminálový nástroj pro práci s Google Gemini modely přímo z příkazové řádky**
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Import Figma designů do Replit Agent"
 date: 2025-06-10
 sw: replit

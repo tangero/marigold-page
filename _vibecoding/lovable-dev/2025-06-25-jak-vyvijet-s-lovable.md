@@ -3,7 +3,7 @@ author: Patrick Zandl
 categories:
 - AI
 - Lovable
-layout: post
+layout: vibecoding-default
 date: 25.6.2025
 post_excerpt: Praktické tipy a triky pro efektivní vývoj s platformou Lovable od zkušeného seniorního vývojáře po více než 100 projektech.
 summary_points:

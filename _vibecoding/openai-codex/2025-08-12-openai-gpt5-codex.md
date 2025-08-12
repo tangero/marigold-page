@@ -6,7 +6,7 @@ categories:
 - GPT-5
 - Codex
 - vývojové nástroje
-layout: post
+layout: vibecoding-default
 post_excerpt: OpenAI uvedlo model GPT-5 s výrazně lepšími schopnostmi programování a nižší chybovostí. Součástí je Codex CLI pro lokální vývoj a cloudový Codex pro paralelní zpracování úloh.
 summary_points:
 - GPT-5 dosahuje 74,9% úspěšnosti na SWE-bench oproti 69,1% u modelu o3

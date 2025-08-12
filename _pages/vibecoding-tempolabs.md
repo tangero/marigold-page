@@ -4,6 +4,8 @@ title: Tempolabs - Vibe Coding
 permalink: /vibecoding/tempolabs/
 ---
 
+{% include vibecoding-header.html %}
+
 # ⚡ Tempolabs
 
 **Rychlý AI nástroj pro prototypování a vývoj aplikací**

@@ -4,7 +4,9 @@ title: OpenAI Codex - Vibe Coding
 permalink: /vibecoding/openai-codex/
 ---
 
-# 🟢 OpenAI Codex
+{% include vibecoding-header.html %}
+
+# 🤖 OpenAI Codex
 
 **Pokročilý AI model pro generování a porozumění kódu**
 

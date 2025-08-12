@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu"
 date: 2025-01-19
 ---

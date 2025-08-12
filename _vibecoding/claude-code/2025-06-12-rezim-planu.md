@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Novinka v Claude Code: Režim implementačního plánu"
 date: 2025-06-12
 ---

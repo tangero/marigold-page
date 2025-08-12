@@ -6,7 +6,7 @@ categories:
 - vývojářské nástroje
 - webové prohlížeče
 - IDE
-layout: post
+layout: vibecoding-default
 post_excerpt: Windsurf Browser rozšiřuje možnosti AI asistenta Cascade o nativní integraci s webovým prohlížečem pro lepší pochopení kontextu práce vývojářů.
 summary_points:
 - Windsurf Browser je AI-integrovaný prohlížeč založený na Chromiu

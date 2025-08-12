@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Windsurf přidává pokročilého AI asistenta přímo do editoru"
 date: 2025-01-15
 ---

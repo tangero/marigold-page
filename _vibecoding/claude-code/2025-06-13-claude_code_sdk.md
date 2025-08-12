@@ -1,7 +1,7 @@
 ---
 author: Patrick Zandl
 date: 2025-06-13
-layout: post
+layout: vibecoding-default
 post_excerpt: Anthropic představil vývojářskou sadu pro Claude Code, která umožňuje začlenění AI asistenta do aplikací. Sada podporuje neinteraktivní režim, vícekrokové rozhovory a MCP protokol.
 summary_points:
 - Vývojářská sada Claude Code umožňuje začlenění AI asistenta do aplikací

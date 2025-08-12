@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Memex integruje nová LLM a šablony MCP"
 date: 2025-05-25
 ---

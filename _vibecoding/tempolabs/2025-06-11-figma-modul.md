@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: vibecoding-default
 title: "Tempolabs představuje modul pro Figma s převodem designu na kód pomocí AI"
 date: 2025-06-11
 permalink: /vibecoding/tempolabs/figma-modul/
