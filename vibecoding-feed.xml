@@ -6,10 +6,48 @@
     <link>https://www.marigold.cz/vibecoding/</link>
     <atom:link href="https://www.marigold.cz/vibecoding-feed.xml" rel="self" type="application/rss+xml"/>
     <language>cs</language>
-    <lastBuildDate>Mon, 11 Aug 2025 18:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 05:55:15 +0000</lastBuildDate>
     
     
     
+    
+      
+      
+      
+      <item>
+        <title>🟢 OpenAI Codex - OpenAI představuje GPT-5 v rámci Codex CLI</title>
+        <link>https://www.marigold.cz/vibecoding/openai-codex/2025-08-12-openai-gpt5-codex/</link>
+        <guid>https://www.marigold.cz/vibecoding/openai-codex/2025-08-12-openai-gpt5-codex/</guid>
+        <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>OpenAI spustilo <a href="https://www.marigold.cz/item/openai-gpt-5/">nový jazykový model GPT-5</a>, který představuje významný posun v oblasti programování a spolehlivosti. Model je dostupný ve třech velikostech prostřednictvím rozhraní API a integrován do vývojových nástrojů Codex. Společně s modelem firma zpřístupnila lokální nástroj Codex CLI a cloudovou verzi Codex pro paralelní zpracování programovacích úloh. Pojďme se na tyto novinky podívat podrobněji.</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/openai-codex/2025-08-12-openai-gpt5-codex/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
+    
+      
+      
+      
+      <item>
+        <title>💖 Lovable.dev - Lovable přešel na agentní režim jako výchozí způsob vývoje</title>
+        <link>https://www.marigold.cz/vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard/</link>
+        <guid>https://www.marigold.cz/vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard/</guid>
+        <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+        <description><![CDATA[
+          
+          
+            <p>Platforma Lovable pro vývoj webových aplikací s pomocí umělé inteligence představila rozsáhlou aktualizaci, která přesouvá agentní režim do pozice výchozího nástroje pro vytváření aplikací. Společnost současně přidala analytické funkce pro sledování výkonu aplikací a ohlásila změny v cenové politice.</p>
+
+          
+          <p><a href="https://www.marigold.cz/vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard/">📖 Pokračování...</a></p>
+          
+        ]]></description>
+      </item>
     
       
       

@@ -28052,6 +28052,20 @@
         "content"  : "Společnost Anthropic rozšířila 8. srpna 2025 možnosti svého nástroje Claude Code o funkci přizpůsobitelných stavových řádků přímo v terminálu. Novinka umožňuje vývojářům zobrazovat kontextové informace relevantní pro jejich práci bez nutnosti přepínat mezi okny nebo zadávat diagnostické příkazy.Aktivace a základní použitíFunkce se aktivuje příkazem /statusline následovaným popisem požadovaného zobrazení. Claude Code automaticky vygeneruje stavový řádek s požadovanými informacemi a dynamicky jej aktualizuje podle kontextu práce.Příklady použití# Zobrazení základních informací o prostředí/statusline show git branch and current directory# Komplexní stavový řádek s více informacemi/statusline display hostname, active Claude model, git branch, and full path# Kreativní využití/statusline add a digital buddy that..."
       }
       
+      ,{
+        "title"    : "Lovable přešel na agentní režim jako výchozí způsob vývoje",
+        "url"      : "//vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard/",
+        "category" : "vibecoding",
+        "content"  : "Platforma Lovable pro vývoj webových aplikací s pomocí umělé inteligence představila rozsáhlou aktualizaci, která přesouvá agentní režim do pozice výchozího nástroje pro vytváření aplikací. Společnost současně přidala analytické funkce pro sledování výkonu aplikací a ohlásila změny v cenové politice.Agentní režim jako nový standardAgentní režim se stal standardním způsobem práce v prostředí Lovable. Podle údajů společnosti tento přístup snižuje počet chyb o 91 procent a umožňuje vytváření složitějších aplikací s menším množstvím manuálních zásahů. Systém dokáže interpretovat požadavky uživatelů, analyzovat stávající kód, opravovat problémy a provádět komplexní úpravy napříč více soubory současně.Starší režim, který fungoval bez agentních funkcí, bude ukončen 1...."
+      }
+      
+      ,{
+        "title"    : "OpenAI představuje GPT-5 v rámci Codex CLI",
+        "url"      : "//vibecoding/openai-codex/2025-08-12-openai-gpt5-codex/",
+        "category" : "vibecoding",
+        "content"  : "OpenAI spustilo nový jazykový model GPT-5, který představuje významný posun v oblasti programování a spolehlivosti. Model je dostupný ve třech velikostech prostřednictvím rozhraní API a integrován do vývojových nástrojů Codex. Společně s modelem firma zpřístupnila lokální nástroj Codex CLI a cloudovou verzi Codex pro paralelní zpracování programovacích úloh. Pojďme se na tyto novinky podívat podrobněji.Výkonnostní parametry a srovnáníModel GPT-5 dosahuje na benchmarku SWE-bench Verified, který hodnotí schopnost řešit reálné programovací úlohy, skóre 74,9 procent. To představuje zlepšení oproti modelu o3 se skóre 69,1 procent. Na benchmarku Aider Polyglot pro práci s různými programovacími jazyky dosahuje 88 procent úspěšnosti. Pro srovnání,..."
+      }
+      
     
   
 ]
