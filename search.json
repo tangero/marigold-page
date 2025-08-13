@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Jak vyprat bitcoiny z Jiříkovského kauzy?",
+      "url"      : "//item/jak-se-perou-bitcoiny/",
+      "category" : "bitcoin",
+      "tags"     : "",
+      "date"     : "13.8.2025",
+      "content"  : "Ministerstvo spravedlnosti se zřejmě dohodne se čtyřmi vydražiteli bitcoinů z kauzy Jiříkovský, že je vymění za jiné, čisté bitcoiny (BTC). Tolik stručná zpráva ze dneška. Sláva, další problém se vyřeší.Teď si k tomu dejme ten kontext, protože věc hrozí značnou ztrátou a to dokonce v částce vyšší, než kolik byl původní dar.V čem je problém?Nejprve, v čem je problém. Kupci si v dobré víře (dopředu nevěděli, z čeho BTC pocházejí) koupili 468 BTC v hodnotě necelé jedné miliardy korun. Pak se ukázala drobná vada na kráse: ony bitcoiny pocházejí z „úschovy“ nelegálního tržiště Nucleus Market. Což je zhruba totéž, jako..."
+    },
+  
+    {
       "title"    : "Context Engineering: Nová disciplína pro tvorbu spolehlivých AI systémů",
       "url"      : "//item/context-engineering/",
       "category" : "AI, Context Engineering, LLM, RAG, Agenti",
