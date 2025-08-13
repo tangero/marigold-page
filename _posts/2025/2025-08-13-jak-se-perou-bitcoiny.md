@@ -4,7 +4,7 @@ author: Patrick Zandl
 categories:
 - bitcoin
 layout: post
-post_excerpt: Ministerstvo spravedlnosti se zřejmě dohodne se čtyřmi vydražiteli bitcoinů z kauzy Jiříkovský, že je vymění za jiné, čisté bitcoiny (BTC). Tolik stručná zpráva. Sláva, další problém se vyřeší. A ono ne...
+post_excerpt: Ministerstvo spravedlnosti se zřejmě dohodne se čtyřmi vydražiteli bitcoinů z kauzy Jiříkovský, že je vymění za jiné, čisté bitcoiny. Tolik stručná zpráva. Sláva, další problém se vyřeší. A ono ne...
 thumbnail: https://www.marigold.cz/assets/tomas_jirikovsky.jpeg
 title: "Jak vyprat bitcoiny z Jiříkovského kauzy?"
 ---
@@ -35,53 +35,4 @@ Nabízí se otázka, proč toto neprovedlo Ministerstvo spravedlnosti ČR. Inu, 
 
 Nemohu samozřejmě vyloučit, že se trojice těchto KYT providerů posadí na zadek a na základě darovací smlouvy mezi odsouzeným provozovatelem darknet tržiště a ministerstvem čehosi jakési postsovětské republiky ihned pochvátají aktualizovat databázi. Ale nevsadil bych si na to. 
 
-A jen pro pořádek: postup je dosti zjednodušený, protože příliš jednoduchý není a bez hlubokého pochopení toho, jak bitcoin fugnuje, bych doporučil se do praní bitcoinu nepouštět. Vůbec jsme si neřekli, co je to UTXO, on-chain vazby a další detaily, které rozhodují o tom, na které straně mříže či kandidátní listiny sedíte. 
-
-```mermaid   
-flowchart TB
-    subgraph USA["🇺🇸 USA"]
-        CH[Chainalysis] --> FBI[FBI]
-        CH --> IRS[IRS-CI]
-        CH --> USM[US Marshals Service]
-        
-        TRM[TRM Labs] --> FBI
-        TRM --> IRS
-        TRM --> USM
-        
-        CT[CipherTrace] --> DOJ[Department of Justice]
-        CT --> FBI
-        
-        EL_US["Elliptic US branch"] --> DOJ
-    end
-
-    subgraph EU["🇪🇺 EU"]
-        SC[Scorechain] --> EUROPOL[Europol]
-        SC --> AMLA[EU AML Authority]
-        
-        CR[Crystal Blockchain] --> EUROPOL
-        
-        EL_EU["Elliptic EU ops"] --> EUROPOL
-        
-        CF[Coinfirm] --> EUROPOL
-        CF --> NCA[National Crime Agencies]
-        
-        SQ[SeQure Blockchain] --> LocalLEA[Local LEAs]
-    end
-
-    subgraph INTL["🌐 Global coordination"]
-        GIFI[Egmont Group FIUs] -.-> CH
-        GIFI -.-> TRM
-        GIFI -.-> SC
-        FATF[FATF/GAFI Guidelines] -.-> CH
-        FATF -.-> TRM
-        FATF -.-> SC
-        FATF -.-> CR
-    end
-
-    USA <--> EU
-    EU <--> INTL
-    USA <--> INTL
-    ```
-      
-
- 
+> A jen pro pořádek: postup je dosti zjednodušený, protože příliš jednoduchý není a bez hlubokého pochopení toho, jak bitcoin fugnuje, bych doporučil se do praní bitcoinu nepouštět. Vůbec jsme si neřekli, co je to UTXO, on-chain vazby a další detaily, které rozhodují o tom, na které straně mříže či kandidátní listiny sedíte. 
