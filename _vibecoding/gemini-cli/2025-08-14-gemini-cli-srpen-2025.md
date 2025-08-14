@@ -7,7 +7,7 @@ categories:
 - CLI
 - VSCode
 - MCP
-layout: post
+layout: vibecoding-default
 post_excerpt: Google vydal aktualizaci Gemini CLI s hlubokou integrací do VS Code, podporou multimodálního obsahu v MCP serverech a řadou vylepšení uživatelského rozhraní.
 summary_points:
 - Gemini CLI nyní nabízí nativní integraci s VS Code včetně kontextového navrhování a diff náhledů
