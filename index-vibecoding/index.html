@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vibecoding - AI nástroje pro programování</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Marigold.cz" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Technologie a Svět" />
+<meta property="og:description" content="Technologie a Svět" />
+<link rel="canonical" href="https://www.marigold.cz/index-vibecoding/" />
+<meta property="og:url" content="https://www.marigold.cz/index-vibecoding/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Marigold.cz" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Marigold.cz","url":"https://www.marigold.cz/index-vibecoding/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Technologie a Svět" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://vibecoding.cz/index-vibecoding/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="https://www.marigold.cz/">🏠 Marigold.cz</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <div class="vibecoding-header">
+  <div class="vibecoding-brand">
+    <h1>
+      <a href="/vibecoding/">Vibecoding.cz</a>
+    </h1>
+    <p class="vibecoding-tagline">Průvodce světem AI nástrojů pro programování</p>
+  </div>
+  
+  <nav class="vibecoding-nav">
+    <div class="nav-categories">
+      <span class="nav-label">Kategorie:</span>
+      <a href="/vibecoding/claude-code/" class="nav-category">🟣 Claude Code</a>
+      <a href="/vibecoding/cursor/" class="nav-category">⚡ Cursor</a>
+      <a href="/vibecoding/windsurf/" class="nav-category">🌊 Windsurf</a>
+      <a href="/vibecoding/replit/" class="nav-category">🚀 Replit</a>
+      <a href="/vibecoding/lovable-dev/" class="nav-category">❤️ Lovable.dev</a>
+      <a href="/vibecoding/databutton/" class="nav-category">📊 Databutton</a>
+      <a href="/vibecoding/gemini-cli/" class="nav-category">💎 Gemini CLI</a>
+      <a href="/vibecoding/openai-codex/" class="nav-category">🤖 OpenAI Codex</a>
+      <a href="/vibecoding/tempolabs/" class="nav-category">⚡ Tempolabs</a>
+      <a href="/vibecoding/memex/" class="nav-category">🧠 Memex</a>
+      <a href="/vibecoding/ostatni/" class="nav-category">🔧 Ostatní</a>
+    </div>
+  </nav>
+</div>
+
+<style>
+.vibecoding-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 3rem 0 2rem;
+  margin: -2rem -2rem 2rem -2rem;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.vibecoding-brand h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 3em;
+  font-weight: bold;
+  letter-spacing: -0.02em;
+}
+
+.vibecoding-brand h1 a {
+  color: white;
+  text-decoration: none;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.vibecoding-brand h1 a:hover {
+  color: #f0f4ff;
+}
+
+.vibecoding-tagline {
+  margin: 0 0 2rem 0;
+  font-size: 1.2em;
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 300;
+  letter-spacing: 0.02em;
+}
+
+.vibecoding-nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.nav-categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.nav-label {
+  font-weight: 600;
+  margin-right: 0.8rem;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1em;
+}
+
+.nav-category {
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  font-size: 0.95em;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+}
+
+.nav-category:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.nav-category.current {
+  background: rgba(255, 255, 255, 0.35);
+  font-weight: 600;
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+@media (max-width: 768px) {
+  .vibecoding-header {
+    padding: 2rem 1rem;
+    margin: -1rem -1rem 2rem -1rem;
+  }
+  
+  .vibecoding-brand h1 {
+    font-size: 2.2em;
+  }
+  
+  .vibecoding-tagline {
+    font-size: 1em;
+    margin-bottom: 1.5rem;
+  }
+  
+  .nav-categories {
+    gap: 0.4rem;
+  }
+  
+  .nav-label {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    margin-right: 0;
+  }
+  
+  .nav-category {
+    font-size: 0.85em;
+    padding: 0.4rem 0.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .vibecoding-brand h1 {
+    font-size: 1.8em;
+  }
+  
+  .nav-category {
+    font-size: 0.8em;
+    padding: 0.35rem 0.7rem;
+  }
+}
+</style>
+          <div class="vibecoding-homepage">
+  <div class="hero-section">
+    <h1>Vibecoding.cz</h1>
+    <p class="hero-subtitle">Průvodce světem AI nástrojů pro programování a vývoj software</p>
+  </div>
+
+  <div class="quick-links">
+    <a href="/vibecoding/claude-code/" class="quick-link">🟣 Claude Code</a>
+    <a href="/vibecoding/cursor/" class="quick-link">⚡ Cursor</a>
+    <a href="/vibecoding/windsurf/" class="quick-link">🌊 Windsurf</a>
+    <a href="/vibecoding/lovable-dev/" class="quick-link">💖 Lovable.dev</a>
+    <a href="/vibecoding/" class="quick-link">📚 Všechny nástroje</a>
+  </div>
+
+  <h2 class="section-title">📰 Nejnovější články</h2>
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  <div class="articles-list">
+    
+      
+      
+      
+      
+      
+      
+
+      <article class="article-preview">
+        <div class="article-meta">
+          <span class="article-software">💎 Gemini CLI</span>
+          <time class="article-date">14. 08. 2025</time>
+        </div>
+        
+        <h3 class="article-title">
+          <a href="/vibecoding/gemini-cli-srpen-2025/">Google vylepšil Gemini CLI o integraci s VS Code a multimodální podporu</a>
+        </h3>
+        
+        
+          <p class="article-excerpt">Google vydal aktualizaci Gemini CLI s hlubokou integrací do VS Code, podporou multimodálního obsahu v MCP serverech a řadou vylepšení uživatelského rozhraní.</p>
+        
+        
+        <a href="/vibecoding/gemini-cli-srpen-2025/" class="read-more">Číst více →</a>
+      </article>
+    
+      
+      
+      
+      
+      
+      
+
+      <article class="article-preview">
+        <div class="article-meta">
+          <span class="article-software">🤖 OpenAI Codex</span>
+          <time class="article-date">12. 08. 2025</time>
+        </div>
+        
+        <h3 class="article-title">
+          <a href="/vibecoding/openai-gpt5-codex.md/">OpenAI představuje GPT-5 v rámci Codex CLI</a>
+        </h3>
+        
+        
+          <p class="article-excerpt">OpenAI uvedlo model GPT-5 s výrazně lepšími schopnostmi programování a nižší chybovostí. Součástí je Codex CLI pro lokální vývoj a cloudový Codex pro paralelní zpracování úloh.</p>
+        
+        
+        <a href="/vibecoding/openai-gpt5-codex.md/" class="read-more">Číst více →</a>
+      </article>
+    
+      
+      
+      
+      
+      
+      
+
+      <article class="article-preview">
+        <div class="article-meta">
+          <span class="article-software">🤖 OpenAI Codex</span>
+          <time class="article-date">12. 08. 2025</time>
+        </div>
+        
+        <h3 class="article-title">
+          <a href="/vibecoding/openai-gpt5-codex/">OpenAI představuje GPT-5 v rámci Codex CLI</a>
+        </h3>
+        
+        
+          <p class="article-excerpt">OpenAI uvedlo model GPT-5 s výrazně lepšími schopnostmi programování a nižší chybovostí. Součástí je Codex CLI pro lokální vývoj a cloudový Codex pro paralelní zpracování úloh.</p>
+        
+        
+        <a href="/vibecoding/openai-gpt5-codex/" class="read-more">Číst více →</a>
+      </article>
+    
+      
+      
+      
+      
+      
+      
+
+      <article class="article-preview">
+        <div class="article-meta">
+          <span class="article-software">💖 Lovable.dev</span>
+          <time class="article-date">11. 08. 2025</time>
+        </div>
+        
+        <h3 class="article-title">
+          <a href="/vibecoding/lovable-agentni-rezim-novy-standard.md/">Lovable přešel na agentní režim jako výchozí způsob vývoje</a>
+        </h3>
+        
+        
+          <p class="article-excerpt">Platforma Lovable upravila svůj přístup k vývoji webových aplikací nasazením agentního režimu jako výchozí metody a přidáním analytických funkcí pro sledování výkonu aplikací.</p>
+        
+        
+        <a href="/vibecoding/lovable-agentni-rezim-novy-standard.md/" class="read-more">Číst více →</a>
+      </article>
+    
+      
+      
+      
+      
+      
+      
+
+      <article class="article-preview">
+        <div class="article-meta">
+          <span class="article-software">💖 Lovable.dev</span>
+          <time class="article-date">11. 08. 2025</time>
+        </div>
+        
+        <h3 class="article-title">
+          <a href="/vibecoding/lovable-agentni-rezim-novy-standard/">Lovable přešel na agentní režim jako výchozí způsob vývoje</a>
+        </h3>
+        
+        
+          <p class="article-excerpt">Platforma Lovable upravila svůj přístup k vývoji webových aplikací nasazením agentního režimu jako výchozí metody a přidáním analytických funkcí pro sledování výkonu aplikací.</p>
+        
+        
+        <a href="/vibecoding/lovable-agentni-rezim-novy-standard/" class="read-more">Číst více →</a>
+      </article>
+    
+      
+      
+      
+      
+      
+      
+
+      <article class="article-preview">
+        <div class="article-meta">
+          <span class="article-software">🟣 Claude Code</span>
+          <time class="article-date">09. 08. 2025</time>
+        </div>
+        
+        <h3 class="article-title">
+          <a href="/vibecoding/claude-code-statusline.md/">Claude Code získal přizpůsobitelné stavové řádky pro terminál</a>
+        </h3>
+        
+        
+          <p class="article-excerpt">Anthropic přidal do nástroje Claude Code možnost vytvářet přizpůsobitelné stavové řádky v terminálu pro zobrazení kontextových informací během programování.</p>
+        
+        
+        <a href="/vibecoding/claude-code-statusline.md/" class="read-more">Číst více →</a>
+      </article>
+    
+      
+      
+      
+      
+      
+      
+
+      <article class="article-preview">
+        <div class="article-meta">
+          <span class="article-software">🟣 Claude Code</span>
+          <time class="article-date">09. 08. 2025</time>
+        </div>
+        
+        <h3 class="article-title">
+          <a href="/vibecoding/claude-code-statusline/">Claude Code získal přizpůsobitelné stavové řádky pro terminál</a>
+        </h3>
+        
+        
+          <p class="article-excerpt">Anthropic přidal do nástroje Claude Code možnost vytvářet přizpůsobitelné stavové řádky v terminálu pro zobrazení kontextových informací během programování.</p>
+        
+        
+        <a href="/vibecoding/claude-code-statusline/" class="read-more">Číst více →</a>
+      </article>
+    
+      
+      
+      
+      
+      
+      
+
+      <article class="article-preview">
+        <div class="article-meta">
+          <span class="article-software">⚡ Cursor</span>
+          <time class="article-date">07. 08. 2025</time>
+        </div>
+        
+        <h3 class="article-title">
+          <a href="/vibecoding/cursor-1-4.md/">Cursor 1.4 přináší vylepšené nástroje agentů a přímou integraci s GitHubem</a>
+        </h3>
+        
+        
+          <p class="article-excerpt">Cursor 1.4 přináší výrazné vylepšení nástrojů pro agenty, možnost přerušení jejich práce, podporu GitHubu pro pozadí agenty a viditelnost spotřeby tokenů.</p>
+        
+        
+        <a href="/vibecoding/cursor-1-4.md/" class="read-more">Číst více →</a>
+      </article>
+    
+      
+      
+      
+      
+      
+      
+
+      <article class="article-preview">
+        <div class="article-meta">
+          <span class="article-software">⚡ Cursor</span>
+          <time class="article-date">07. 08. 2025</time>
+        </div>
+        
+        <h3 class="article-title">
+          <a href="/vibecoding/cursor-1-4/">Cursor 1.4 přináší vylepšené nástroje agentů a přímou integraci s GitHubem</a>
+        </h3>
+        
+        
+          <p class="article-excerpt">Cursor 1.4 přináší výrazné vylepšení nástrojů pro agenty, možnost přerušení jejich práce, podporu GitHubu pro pozadí agenty a viditelnost spotřeby tokenů.</p>
+        
+        
+        <a href="/vibecoding/cursor-1-4/" class="read-more">Číst více →</a>
+      </article>
+    
+      
+      
+      
+      
+      
+      
+
+      <article class="article-preview">
+        <div class="article-meta">
+          <span class="article-software">🟣 Claude Code</span>
+          <time class="article-date">06. 08. 2025</time>
+        </div>
+        
+        <h3 class="article-title">
+          <a href="/vibecoding/claude-code-secirity-review.md/">Claude Code přidává automatické bezpečnostní kontroly kódu</a>
+        </h3>
+        
+        
+          <p class="article-excerpt">Anthropic přidal do Claude Code automatické bezpečnostní kontroly kódu přímo v terminálu a integraci s GitHub Actions pro kontrolu každého PR.</p>
+        
+        
+        <a href="/vibecoding/claude-code-secirity-review.md/" class="read-more">Číst více →</a>
+      </article>
+    
+  </div>
+
+  
+  
+    <div class="pagination">
+      
+      
+      <span class="pagination-info">
+        Strana 1 z 10
+      </span>
+      
+      
+        
+        <a href="/strana/2/" class="pagination-next">Další →</a>
+      
+    </div>
+  
+</div>
+
+<style>
+.vibecoding-homepage {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.hero-section {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding: 2rem 0;
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.quick-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-bottom: 3rem;
+}
+
+.quick-link {
+  padding: 0.5rem 1rem;
+  background: linear-gradient(135deg, #f5f5f5 0%, #e8e8e8 100%);
+  border-radius: 25px;
+  text-decoration: none;
+  color: #333;
+  transition: all 0.3s ease;
+  border: 1px solid #ddd;
+}
+
+.quick-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  background: linear-gradient(135deg, #fff 0%, #f0f0f0 100%);
+}
+
+.section-title {
+  font-size: 1.8rem;
+  margin: 2rem 0 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #eee;
+}
+
+.articles-list {
+  margin-bottom: 3rem;
+}
+
+.article-preview {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+}
+
+.article-preview:last-child {
+  border-bottom: none;
+}
+
+.article-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.article-software {
+  font-weight: 600;
+  color: #667eea;
+  font-size: 0.9rem;
+}
+
+.article-date {
+  color: #999;
+  font-size: 0.9rem;
+}
+
+.article-title {
+  margin: 0.5rem 0 1rem;
+  font-size: 1.5rem;
+}
+
+.article-title a {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.article-title a:hover {
+  color: #667eea;
+}
+
+.article-excerpt {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.read-more {
+  color: #667eea;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.read-more:hover {
+  color: #764ba2;
+  text-decoration: underline;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 3rem;
+  padding: 1.5rem 0;
+  border-top: 2px solid #eee;
+}
+
+.pagination-prev,
+.pagination-next {
+  padding: 0.5rem 1rem;
+  background: #f5f5f5;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #333;
+  transition: all 0.2s ease;
+}
+
+.pagination-prev:hover,
+.pagination-next:hover {
+  background: #667eea;
+  color: white;
+}
+
+.pagination-info {
+  color: #666;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .hero-section h1 {
+    font-size: 2rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1rem;
+  }
+  
+  .quick-links {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .article-meta {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.3rem;
+  }
+  
+  .pagination {
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+  }
+}
+</style>
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<!-- Twitter conversion tracking base code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    twq('config','pycs2');
+</script>
+    <!-- End Twitter conversion tracking base code -->
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>
