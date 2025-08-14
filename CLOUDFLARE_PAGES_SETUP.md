@@ -7,7 +7,7 @@
 
 ### Build command
 ```bash
-jekyll build --config _config_vibecoding.yml
+bundle exec jekyll build --config _config_vibecoding.yml
 ```
 
 ### Build output directory
