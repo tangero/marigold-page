@@ -109,11 +109,11 @@
       <a href="/vibecoding/cursor/" class="nav-category">⚡ Cursor</a>
       <a href="/vibecoding/windsurf/" class="nav-category">🌊 Windsurf</a>
       <a href="/vibecoding/replit/" class="nav-category">🚀 Replit</a>
-      <a href="/vibecoding/lovable-dev/" class="nav-category">❤️ Lovable</a>
+      <a href="/vibecoding/lovable-dev/" class="nav-category">❤️ Lovable.dev</a>
       <a href="/vibecoding/databutton/" class="nav-category">📊 Databutton</a>
       <a href="/vibecoding/gemini-cli/" class="nav-category">💎 Gemini CLI</a>
-      <a href="/vibecoding/openai-codex/" class="nav-category">🤖 Codex</a>
-      <a href="/vibecoding/tempolabs/" class="nav-category">⚡ Tempo</a>
+      <a href="/vibecoding/openai-codex/" class="nav-category">🤖 OpenAI Codex</a>
+      <a href="/vibecoding/tempolabs/" class="nav-category">⚡ Tempolabs</a>
       <a href="/vibecoding/memex/" class="nav-category">🧠 Memex</a>
       <a href="/vibecoding/ostatni/" class="nav-category">🔧 Ostatní</a>
     </div>
@@ -124,37 +124,41 @@
 .vibecoding-header {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
-  padding: 2rem 0;
+  padding: 3rem 0 2rem;
   margin: -2rem -2rem 2rem -2rem;
   text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .vibecoding-brand h1 {
   margin: 0 0 0.5rem 0;
-  font-size: 2.5em;
+  font-size: 3em;
   font-weight: bold;
+  letter-spacing: -0.02em;
 }
 
 .vibecoding-brand h1 a {
   color: white;
   text-decoration: none;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .vibecoding-brand h1 a:hover {
-  color: #e0e7ff;
+  color: #f0f4ff;
 }
 
 .vibecoding-tagline {
-  margin: 0 0 1.5rem 0;
-  font-size: 1.1em;
-  color: #e0e7ff;
+  margin: 0 0 2rem 0;
+  font-size: 1.2em;
+  color: rgba(255, 255, 255, 0.9);
   font-weight: 300;
+  letter-spacing: 0.02em;
 }
 
 .vibecoding-nav {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 0 2rem;
 }
 
 .nav-categories {
@@ -162,55 +166,82 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.6rem;
 }
 
 .nav-label {
-  font-weight: bold;
-  margin-right: 0.5rem;
-  color: #e0e7ff;
+  font-weight: 600;
+  margin-right: 0.8rem;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1em;
 }
 
 .nav-category {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.15);
   color: white;
   text-decoration: none;
-  padding: 0.4rem 0.8rem;
-  border-radius: 20px;
-  font-size: 0.9em;
-  transition: all 0.2s ease;
+  padding: 0.5rem 1rem;
+  border-radius: 25px;
+  font-size: 0.95em;
+  transition: all 0.3s ease;
   white-space: nowrap;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
 }
 
 .nav-category:hover {
-  background: rgba(255, 255, 255, 0.3);
-  transform: translateY(-1px);
-  color: white;
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-color: rgba(255, 255, 255, 0.3);
 }
 
 .nav-category.current {
-  background: rgba(255, 255, 255, 0.4);
-  font-weight: bold;
+  background: rgba(255, 255, 255, 0.35);
+  font-weight: 600;
+  border-color: rgba(255, 255, 255, 0.4);
 }
 
 @media (max-width: 768px) {
   .vibecoding-header {
-    padding: 1.5rem 1rem;
+    padding: 2rem 1rem;
     margin: -1rem -1rem 2rem -1rem;
   }
   
   .vibecoding-brand h1 {
-    font-size: 2em;
+    font-size: 2.2em;
+  }
+  
+  .vibecoding-tagline {
+    font-size: 1em;
+    margin-bottom: 1.5rem;
   }
   
   .nav-categories {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.3rem;
+    gap: 0.4rem;
   }
   
   .nav-label {
-    margin-bottom: 0.3rem;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    margin-right: 0;
+  }
+  
+  .nav-category {
+    font-size: 0.85em;
+    padding: 0.4rem 0.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .vibecoding-brand h1 {
+    font-size: 1.8em;
+  }
+  
+  .nav-category {
+    font-size: 0.8em;
+    padding: 0.35rem 0.7rem;
   }
 }
 </style>
