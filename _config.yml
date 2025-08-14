@@ -164,6 +164,12 @@ exclude:
   - build-cloudflare.sh
   - _vibecoding
   - _pages/vibecoding*.md
+  - "index 2.html"
+  - index-vibecoding.html
+  - vibecoding-*.xml
+  - vibecoding-*.md
+  - build-vibecoding*.sh
+  - _includes/vibecoding-*.html
 
 
 # Tipue search settings
