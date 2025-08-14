@@ -34,17 +34,17 @@ defaults:
     values:
       layout: "vibecoding-default"
       
-# Zahrnout pouze vibecoding index a vibecoding kolekci
+# Zahrnout pouze vibecoding soubory
 include:
   - vibecoding-index.md
+  - assets/vibecoding-index.css
 
-# Vyloučit všechny ostatní sekce webu
+# Vyloučit všechno ostatní kromě vibecoding
 exclude:
   - _posts
   - _ai
   - _mobilnisite
   - _obrazy
-  - _pages
   - index.html
   - README.md
   - LICENSE
@@ -65,7 +65,14 @@ exclude:
   - vendor
   - "*.zip"
   - "*.pdf"
-  - _data/welcomments
+  - _data
+  - _includes/analytics.html
+  - _includes/disqus.html
+  - _includes/pullquote.html
+  - _includes/welcomments
+  - _layouts/default.html
+  - _layouts/page.html
+  - _layouts/post.html
 
 # Jekyll nastavení
 source: .

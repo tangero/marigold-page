@@ -64,9 +64,6 @@ collections:
   ai:
     output: true
     permalink: /ai/:title/
-  vibecoding:
-    output: true
-    permalink: /vibecoding/:title/
   mobilnisite:
     output: true
     permalink: /mobilnisite/:title/
@@ -160,6 +157,13 @@ exclude:
   - README.md
   - .env
   - chatterbox_env/
+  - vibecoding-index.md
+  - assets/vibecoding-index.css
+  - _config_vibecoding.yml
+  - CLOUDFLARE_PAGES_SETUP.md
+  - build-cloudflare.sh
+  - _vibecoding
+  - _pages/vibecoding*.md
 
 
 # Tipue search settings
