@@ -4,18 +4,40 @@ permalink: /
 custom_css: /assets/vibecoding-index.css
 ---
 
-<div class="vibecoding-homepage">
+<div class="homepage">
   <div class="hero-section">
-    <h1>Vibecoding.cz</h1>
-    <p class="hero-subtitle">Průvodce světem AI nástrojů pro programování a vývoj software</p>
+    <h1>AI nástroje pro programování</h1>
+    <p class="hero-subtitle">Průvodce světem AI nástrojů pro vývoj software</p>
   </div>
 
-  <div class="quick-links">
-    <a href="/claude-code/" class="quick-link">🟣 Claude Code</a>
-    <a href="/cursor/" class="quick-link">⚡ Cursor</a>
-    <a href="/windsurf/" class="quick-link">🌊 Windsurf</a>
-    <a href="/lovable-dev/" class="quick-link">💖 Lovable.dev</a>
-    <a href="/replit/" class="quick-link">🚀 Replit</a>
+  <div class="platforms-grid">
+    <div class="platform-category">
+      <h3>💻 Desktop IDE</h3>
+      <div class="platform-links">
+        <a href="/cursor/" class="platform-link">🖱️ Cursor</a>
+        <a href="/windsurf/" class="platform-link">🌊 Windsurf</a>
+        <a href="/memex/" class="platform-link">🧠 Memex</a>
+      </div>
+    </div>
+    
+    <div class="platform-category">
+      <h3>☁️ Cloud nástroje</h3>
+      <div class="platform-links">
+        <a href="/databutton/" class="platform-link">🔴 Databutton</a>
+        <a href="/lovable-dev/" class="platform-link">💖 Lovable.dev</a>
+        <a href="/tempolabs/" class="platform-link">⚡ Tempolabs</a>
+        <a href="/replit/" class="platform-link">🟠 Replit</a>
+      </div>
+    </div>
+    
+    <div class="platform-category">
+      <h3>🤖 Terminál & Chat</h3>
+      <div class="platform-links">
+        <a href="/claude-code/" class="platform-link">🟣 Claude Code</a>
+        <a href="/openai-codex/" class="platform-link">🟢 OpenAI Codex</a>
+        <a href="/gemini-cli/" class="platform-link">🔵 Gemini CLI</a>
+      </div>
+    </div>
   </div>
 
   <h2 class="section-title">📰 Nejnovější články</h2>

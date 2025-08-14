@@ -19,7 +19,7 @@ avatar: /images/patrick-avatar.jpg
 collections:
   vibecoding:
     output: true
-    permalink: /:path/
+    permalink: /:title/
 
 # Výchozí layout pro vibecoding články
 defaults:
