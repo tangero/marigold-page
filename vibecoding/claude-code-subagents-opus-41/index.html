@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1 | Vibecoding - AI nástroje pro programování</title>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1" />
+<meta name="author" content="Patrick Zandl" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj Claude Code. Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu Claude Opus 4.1, který dosahuje lepších výsledků při práci s kódem a logickém uvažování." />
+<meta property="og:description" content="Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj Claude Code. Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu Claude Opus 4.1, který dosahuje lepších výsledků při práci s kódem a logickém uvažování." />
+<link rel="canonical" href="https://www.marigold.cz/vibecoding/claude-code-subagents-opus-41/" />
+<meta property="og:url" content="https://www.marigold.cz/vibecoding/claude-code-subagents-opus-41/" />
+<meta property="og:site_name" content="Marigold.cz" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-08-05T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Patrick Zandl"},"dateModified":"2025-08-05T00:00:00+00:00","datePublished":"2025-08-05T00:00:00+00:00","description":"Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj Claude Code. Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu Claude Opus 4.1, který dosahuje lepších výsledků při práci s kódem a logickém uvažování.","headline":"Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.marigold.cz/vibecoding/claude-code-subagents-opus-41/"},"url":"https://www.marigold.cz/vibecoding/claude-code-subagents-opus-41/"}</script>
+<!-- End Jekyll SEO tag -->
+
+        <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link href="https://fed.brid.gy/" rel="alternate" type="application/activity+json">
+
+    
+    <meta property="og:description" content="Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj Claude Code. Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu Claude Opus 4.1, který dosahuje lepších výsledků při práci s kódem a logickém uvažování.
+" />
+    
+    <meta name="author" content="Marigold.cz" />
+
+    
+    <meta property="og:title" content="Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1" />
+    <meta property="twitter:title" content="Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1" />
+    
+
+    
+    <!-- else -->    
+    <meta property="og:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    <meta property="twitter:image" content="https://www.marigold.cz/images/patrick-avatar.jpg"/>
+    
+
+    <meta property="og:site_name" content="Marigold.cz | Technologie a Společnost"/>
+
+    
+
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Marigold.cz - Technologie a Svět" href="/feed.xml" />
+    <link rel="canonical" href="https://vibecoding.cz/vibecoding/claude-code-subagents-opus-41/" />
+
+    <meta name="theme-color" content="#000000">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+    <link rel="manifest" href="/images/site.webmanifest">
+    <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <meta name="msapplication-TileColor" content="#2d89ef">
+    <meta name="msapplication-config" content="/images/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+  </head>
+
+  <body>
+    <div id="bar"></div>
+    <div class="wrapper-container">
+      <div class="wrapper-masthead">
+        <div class="container">
+          <header class="masthead clearfix">
+            <a href="/" class="site-avatar"><img src="/images/patrick-avatar.jpg" alt="" /></a>
+
+            <div class="site-info">
+              <h1 class="site-name"><a href="/">Marigold.cz</a></h1>
+              <p class="site-description">Technologie a Svět</p>
+
+            </div>
+
+            <nav>
+              <a href="https://www.marigold.cz/">🏠 Marigold.cz</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a>
+            </nav>
+          </header>
+        </div>
+      </div>
+
+      <div class="wrapper-main">
+        <div id="main" role="main" class="container">
+          <div class="vibecoding-header">
+  <div class="vibecoding-brand">
+    <h1>
+      <a href="/vibecoding/">Vibecoding.cz</a>
+    </h1>
+    <p class="vibecoding-tagline">Průvodce světem AI nástrojů pro programování</p>
+  </div>
+  
+  <nav class="vibecoding-nav">
+    <div class="nav-categories">
+      <span class="nav-label">Kategorie:</span>
+      <a href="/vibecoding/claude-code/" class="nav-category">🟣 Claude Code</a>
+      <a href="/vibecoding/cursor/" class="nav-category">⚡ Cursor</a>
+      <a href="/vibecoding/windsurf/" class="nav-category">🌊 Windsurf</a>
+      <a href="/vibecoding/replit/" class="nav-category">🚀 Replit</a>
+      <a href="/vibecoding/lovable-dev/" class="nav-category">❤️ Lovable</a>
+      <a href="/vibecoding/databutton/" class="nav-category">📊 Databutton</a>
+      <a href="/vibecoding/gemini-cli/" class="nav-category">💎 Gemini CLI</a>
+      <a href="/vibecoding/openai-codex/" class="nav-category">🤖 Codex</a>
+      <a href="/vibecoding/tempolabs/" class="nav-category">⚡ Tempo</a>
+      <a href="/vibecoding/memex/" class="nav-category">🧠 Memex</a>
+      <a href="/vibecoding/ostatni/" class="nav-category">🔧 Ostatní</a>
+    </div>
+  </nav>
+</div>
+
+<style>
+.vibecoding-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem 0;
+  margin: -2rem -2rem 2rem -2rem;
+  text-align: center;
+}
+
+.vibecoding-brand h1 {
+  margin: 0 0 0.5rem 0;
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.vibecoding-brand h1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.vibecoding-brand h1 a:hover {
+  color: #e0e7ff;
+}
+
+.vibecoding-tagline {
+  margin: 0 0 1.5rem 0;
+  font-size: 1.1em;
+  color: #e0e7ff;
+  font-weight: 300;
+}
+
+.vibecoding-nav {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.nav-categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.nav-label {
+  font-weight: bold;
+  margin-right: 0.5rem;
+  color: #e0e7ff;
+}
+
+.nav-category {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  text-decoration: none;
+  padding: 0.4rem 0.8rem;
+  border-radius: 20px;
+  font-size: 0.9em;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.nav-category:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-1px);
+  color: white;
+}
+
+.nav-category.current {
+  background: rgba(255, 255, 255, 0.4);
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .vibecoding-header {
+    padding: 1.5rem 1rem;
+    margin: -1rem -1rem 2rem -1rem;
+  }
+  
+  .vibecoding-brand h1 {
+    font-size: 2em;
+  }
+  
+  .nav-categories {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.3rem;
+  }
+  
+  .nav-label {
+    margin-bottom: 0.3rem;
+  }
+}
+</style>
+          <p>Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj <a href="https://docs.anthropic.com/en/docs/claude-code">Claude Code</a>. Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu <a href="https://www.anthropic.com/news/claude-opus-4-1">Claude Opus 4.1</a>, který dosahuje lepších výsledků při práci s kódem a logickém uvažování.</p>
+
+<h2 id="automatická-správa-kontextu-pomocí-funkce-microcompact">Automatická správa kontextu pomocí funkce Microcompact</h2>
+
+<p>První novinkou je funkce Microcompact, která řeší problém postupného zaplňování kontextového okna během dlouhých pracovních relací. Když se kontext začne blížit svému limitu, systém automaticky vymaže starší volání nástrojů, které už nejsou potřebné. To umožňuje pokračovat v práci bez nutnosti úplné kompaktace kontextu, přičemž si zachovává nejdůležitější informace o projektu.</p>
+
+<p>Tato funkce pracuje na pozadí bez nutnosti zásahu uživatele. Vývojáři tak mohou pracovat na rozsáhlejších projektech delší dobu, aniž by museli ručně spravovat historii komunikace nebo restartovat relaci kvůli vyčerpání kontextu.</p>
+
+<h2 id="vylepšená-práce-s-podagenty">Vylepšená práce s podagenty</h2>
+
+<p>Druhá novinka se týká práce s podagenty (subagents) - specializovanými pomocníky pro konkrétní úkoly. Claude Code nyní podporuje jejich přímé volání pomocí @-mention syntaxe. Stačí napsat například <code class="language-plaintext highlighter-rouge">@code-reviewer</code> pro zavolání agenta specializovaného na kontrolu kódu.</p>
+
+<p>Každému podagentovi lze nyní přiřadit konkrétní model podle složitosti jeho úkolů. Pro komplexní plánovací úlohy lze použít výkonnější Opus 4, zatímco pro jednodušší operace postačí rychlejší a levnější Haiku 3.5. Toto nastavení umožňuje optimalizovat spotřebu tokenů a výkon podle skutečných potřeb jednotlivých úloh.</p>
+
+<p>Dokumentace k práci s podagenty je dostupná na <a href="https://docs.anthropic.com/en/docs/claude-code/sub-agents">stránkách Anthropic</a>.</p>
+
+<h2 id="přímá-podpora-pdf-souborů">Přímá podpora PDF souborů</h2>
+
+<p>Třetí funkcí je nativní podpora čtení PDF dokumentů. Claude Code nyní dokáže číst PDF soubory přímo ze souborového systému bez nutnosti jejich konverze do jiného formátu. Soubory lze referencovat stejným způsobem jako jakýkoliv jiný typ souboru.</p>
+
+<p>Tato funkce usnadňuje práci s technickou dokumentací, specifikacemi nebo výzkumnými články, které jsou často distribuovány právě ve formátu PDF. Vývojáři tak mohou přímo pracovat s originálními dokumenty bez nutnosti jejich předchozího převodu nebo extrakce textu.</p>
+
+<h2 id="claude-opus-41-zlepšuje-práci-s-kódem">Claude Opus 4.1 zlepšuje práci s kódem</h2>
+
+<p>Anthropic 5. srpna 2025 vydal <a href="https://www.anthropic.com/news/claude-opus-4-1">Claude Opus 4.1</a>, vylepšenou verzi svého nejvýkonnějšího modelu. Hlavní zlepšení se týkají především práce s kódem, kde model dosahuje 74,5% úspěšnosti na benchmarku SWE-bench Verified, což představuje nový rekord společnosti v této oblasti.</p>
+
+<p>Podle zpětné vazby od partnerů model výrazně zlepšuje schopnost refaktoringu kódu napříč více soubory. Společnost Rakuten Group uvádí, že Opus 4.1 dokáže přesně identifikovat potřebné opravy v rozsáhlých kódových základnách bez zbytečných úprav nebo zavlečení chyb. Vývojářský tým Rakutenu preferuje tuto přesnost pro každodenní ladění aplikací.</p>
+
+<p>Platforma Windsurf, která poskytuje vývojářské prostředí s integrací umělé inteligence, reportuje zlepšení o jednu směrodatnou odchylku oproti Opus 4 na jejich benchmarku pro juniorní vývojáře. Toto zlepšení je srovnatelné se skokem mezi modely Sonnet 3.7 a Sonnet 4.</p>
+
+<p>Model je dostupný přes <a href="https://docs.anthropic.com">API Anthropic</a> s identifikátorem <code class="language-plaintext highlighter-rouge">claude-opus-4-1-20250805</code>, stejně jako přes Amazon Bedrock a Google Cloud Vertex AI. Cena zůstává stejná jako u předchozí verze Opus 4. Placení uživatelé Claude.ai a uživatelé Claude Code mají k modelu přístup automaticky.</p>
+
+<h2 id="benchmarky-a-metodologie">Benchmarky a metodologie</h2>
+
+<p>Opus 4.1 využívá hybridní přístup k uvažování, kdy pro některé úlohy používá rozšířené myšlení s až 64 000 tokeny. Na benchmarku SWE-bench Verified dosahuje uvedených 74,5% bez rozšířeného myšlení, pouze s jednoduchým scaffoldingem obsahujícím bash nástroj a nástroj pro editaci souborů pomocí náhrady řetězců.</p>
+
+<p>Pro benchmark TAU-bench, který testuje schopnosti agentů v reálných scénářích, byl model instruován k lepšímu využití svých schopností uvažování během vícekrokových interakcí. Maximální počet kroků byl zvýšen z 30 na 100, přičemž většina trajektorií se dokončila pod 30 kroky.</p>
+
+<p>Všechny tři nové funkce Claude Code jsou dostupné okamžitě. Pro jejich aktivaci stačí restartovat aplikaci, která si automaticky stáhne nejnovější aktualizaci.</p>
+
+        </div>
+      </div>
+
+      <div class="wrapper-footer">
+        <div class="container">
+          <footer class="footer">
+            
+<a href="mailto:patrick.zandl@marigold.cz"><i class="svg-icon email"></i></a>
+<a href="https://www.facebook.com/patrick.zandl"><i class="svg-icon facebook"></i></a>
+
+
+
+<a href="https://www.linkedin.com/in/patrickzandl"><i class="svg-icon linkedin"></i></a>
+
+<a href="/feed.xml"><i class="svg-icon rss"></i></a>
+<a href="https://www.twitter.com/tangero"><i class="svg-icon twitter"></i></a>
+
+
+
+
+
+          </footer>
+        </div>
+      </div>
+    </div>
+
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101451859"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101451859" src="//static.getclicky.com/js"></script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101451859ns.gif" /></p></noscript>
+ | <a href="https://github.com/tangero/marigold-page"><img src="https://img.shields.io/github/last-commit/tangero/marigold-page"></a> | <a href="https://www.kronium.eu">flashlights, headlamps Fenix & outdoor</a> | <a href="https://www.vybavenidoprirody.com/">Vybavení do přírody</a>
+<!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<!-- Twitter conversion tracking base code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    twq('config','pycs2');
+</script>
+    <!-- End Twitter conversion tracking base code -->
+
+
+    <script>
+    function toggleDetails(button) {
+      const content = button.nextElementSibling;
+      const isCollapsed = button.classList.contains('collapsed');
+      
+      if (isCollapsed) {
+        button.classList.remove('collapsed');
+        content.classList.add('show');
+      } else {
+        button.classList.add('collapsed');
+        content.classList.remove('show');
+      }
+    }
+    </script>
+  </body>
+</html>

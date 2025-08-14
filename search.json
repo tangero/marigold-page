@@ -27564,336 +27564,336 @@
       
       ,{
         "title"    : "Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty",
-        "url"      : "//vibecoding/tempolabs/2025-01-10-tempolabs-instant-deploy/",
+        "url"      : "//vibecoding/tempolabs-instant-deploy/",
         "category" : "vibecoding",
         "content"  : "Tempolabs vydal revolucionární funkci Instant Deploy, která umožňuje nasadit aplikace do produkce během několika minut po jejich vytvoření.Co je Instant Deploy?Instant Deploy je plně automatizovaný systém, který: Automaticky konfiguruje infrastrukturu - žádné ruční nastavování serverů Optimalizuje výkon - automaticky vybírá nejlepší konfiguraci pro vaši aplikaci Zajišťuje bezpečnost - implementuje security best practices od začátku Monitoruje aplikaci - poskytuje real-time metriky a alertyJak to funguje:1. Vytvoření aplikace&quot;Vytvoř mi e-shop s košíkem a platbami&quot;2. Automatické nasazení Tempolabs automaticky vygeneruje kód Nastaví databázi a backend infrastrukturu Konfiguruje CDN a load balancing Nasadí aplikaci na globální síť serverů3. Live aplikace Vaše aplikace je okamžitě..."
       }
       
       ,{
         "title"    : "Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty",
-        "url"      : "//vibecoding/tempolabs/2025-01-10-tempolabs-instant-deploy.md/",
+        "url"      : "//vibecoding/tempolabs-instant-deploy.md/",
         "category" : "vibecoding",
         "content"  : "Tempolabs vydal revolucionární funkci Instant Deploy, která umožňuje nasadit aplikace do produkce během několika minut po jejich vytvoření.## Co je Instant Deploy?Instant Deploy je plně automatizovaný systém, který:- **Automaticky konfiguruje infrastrukturu** - žádné ruční nastavování serverů- **Optimalizuje výkon** - automaticky vybírá nejlepší konfiguraci pro vaši aplikaci- **Zajišťuje bezpečnost** - implementuje security best practices od začátku- **Monitoruje aplikaci** - poskytuje real-time metriky a alerty## Jak to funguje:### 1. Vytvoření aplikace```&quot;Vytvoř mi e-shop s košíkem a platbami&quot;```### 2. Automatické nasazení- Tempolabs automaticky vygeneruje kód- Nastaví databázi a backend infrastrukturu- Konfiguruje CDN a load balancing- Nasadí aplikaci na globální síť serverů### 3. Live..."
       }
       
       ,{
         "title"    : "Windsurf přidává pokročilého AI asistenta přímo do editoru",
-        "url"      : "//vibecoding/windsurf/2025-01-15-windsurf-ai-assistant/",
+        "url"      : "//vibecoding/windsurf-ai-assistant/",
         "category" : "vibecoding",
         "content"  : "Nejnovější aktualizace Windsurf IDE přináší revoluci ve formě integrovaného AI asistenta, který pracuje přímo v editoru a poskytuje kontextovou pomoc během programování.Hlavní funkce AI asistenta:Inteligentní code completion Kontextové navrhování - asistent rozumí celému projektu, nejen aktuálnímu souboru Multi-jazyková podpora - funguje s Python, JavaScript, TypeScript, Rust, Go a dalšími Rychlé refactoring - navrhuje vylepšení kódu v reálném časeConversational programming Chat rozhraní - můžete se AI asistenta ptát na cokoliv týkající se vašeho kódu Explain code - asistent vysvětluje složité části kódu přirozeným jazykem Generate tests - automaticky vytváří unit testy pro vaše funkceDebugging assistance Error explanation - vysvětluje chybové hlášky..."
       }
       
       ,{
         "title"    : "Windsurf přidává pokročilého AI asistenta přímo do editoru",
-        "url"      : "//vibecoding/windsurf/2025-01-15-windsurf-ai-assistant.md/",
+        "url"      : "//vibecoding/windsurf-ai-assistant.md/",
         "category" : "vibecoding",
         "content"  : "Nejnovější aktualizace Windsurf IDE přináší revoluci ve formě integrovaného AI asistenta, který pracuje přímo v editoru a poskytuje kontextovou pomoc během programování.## Hlavní funkce AI asistenta:### Inteligentní code completion- **Kontextové navrhování** - asistent rozumí celému projektu, nejen aktuálnímu souboru- **Multi-jazyková podpora** - funguje s Python, JavaScript, TypeScript, Rust, Go a dalšími- **Rychlé refactoring** - navrhuje vylepšení kódu v reálném čase### Conversational programming- **Chat rozhraní** - můžete se AI asistenta ptát na cokoliv týkající se vašeho kódu- **Explain code** - asistent vysvětluje složité části kódu přirozeným jazykem- **Generate tests** - automaticky vytváří unit testy pro vaše funkce### Debugging assistance- **Error explanation**..."
       }
       
       ,{
         "title"    : "Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem",
-        "url"      : "//vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements/",
+        "url"      : "//vibecoding/cursor-cmd-k-improvements/",
         "category" : "vibecoding",
         "content"  : "Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.Co je nového v Cmd+K?Multi-modal Input Text + Code - kombinujte natural language s code snippets Image support - uploadujte screenshots UI pro implementaci File attachments - přetáhněte soubory přímo do chatu Voice input - mluvte místo psaní (beta funkce)Enhanced Context Awareness// Když máte kurzor v této funkci a stisknete Cmd+Kfunction processPayment(amount, currency) { // AI automaticky rozumí: // - Toto je payment handling // - Souvisí s e-commerce // - Může potřebovat validaci a error handling // - Pravděpodobně..."
       }
       
       ,{
         "title"    : "Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem",
-        "url"      : "//vibecoding/cursor/2025-01-16-cursor-cmd-k-improvements.md/",
+        "url"      : "//vibecoding/cursor-cmd-k-improvements.md/",
         "category" : "vibecoding",
         "content"  : "Cursor vydal významnou aktualizaci své klíčové funkce Cmd+K, která přináší pokročilejší způsoby komunikace s AI a inteligentější pochopení kontextu vašeho kódu.## Co je nového v Cmd+K?### Multi-modal Input- **Text + Code** - kombinujte natural language s code snippets- **Image support** - uploadujte screenshots UI pro implementaci- **File attachments** - přetáhněte soubory přímo do chatu- **Voice input** - mluvte místo psaní (beta funkce)### Enhanced Context Awareness```javascript// Když máte kurzor v této funkci a stisknete Cmd+Kfunction processPayment(amount, currency) { // AI automaticky rozumí: // - Toto je payment handling // - Souvisí s e-commerce // - Může potřebovat validaci a error handling..."
       }
       
       ,{
         "title"    : "Claude Code vylepšuje debugging - nové možnosti",
-        "url"      : "//vibecoding/claude-code/2025-01-18-claude-debugging/",
+        "url"      : "//vibecoding/claude-debugging/",
         "category" : "vibecoding",
         "content"  : "Claude Code představil nové funkce pro ladění kódu, které výrazně zlepšují vývojářský zážitek. Nové nástroje umožňují rychlejší identifikaci a opravu chyb.Nové funkce pro debugging:Automatická detekce chyb Statická analýza - Claude nyní automaticky skenuje kód a identifikuje potenciální problémy Kontextová doporučení - navrhuje konkrétní opravy založené na kontextu kódu Performance analýza - upozorňuje na části kódu, které mohou způsobovat problémy s výkonemVylepšené error handling Inteligentní stack trace - Claude automaticky interpretuje error zprávu a navrhuje řešení Exception patterns - rozpoznává běžné vzory chyb a poskytuje osvědčené postupy jejich řešeníKrokování kódu Virtuální debugger - umožňuje simulovat běh kódu krok za krokem Proměnné..."
       }
       
       ,{
         "title"    : "Claude Code vylepšuje debugging - nové možnosti",
-        "url"      : "//vibecoding/claude-code/2025-01-18-claude-debugging.md/",
+        "url"      : "//vibecoding/claude-debugging.md/",
         "category" : "vibecoding",
         "content"  : "Claude Code představil nové funkce pro ladění kódu, které výrazně zlepšují vývojářský zážitek. Nové nástroje umožňují rychlejší identifikaci a opravu chyb.## Nové funkce pro debugging:### Automatická detekce chyb- **Statická analýza** - Claude nyní automaticky skenuje kód a identifikuje potenciální problémy- **Kontextová doporučení** - navrhuje konkrétní opravy založené na kontextu kódu- **Performance analýza** - upozorňuje na části kódu, které mohou způsobovat problémy s výkonem### Vylepšené error handling- **Inteligentní stack trace** - Claude automaticky interpretuje error zprávu a navrhuje řešení- **Exception patterns** - rozpoznává běžné vzory chyb a poskytuje osvědčené postupy jejich řešení### Krokování kódu- **Virtuální debugger** - umožňuje simulovat běh kódu..."
       }
       
       ,{
         "title"    : "Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu",
-        "url"      : "//vibecoding/cursor/2025-01-19-cursor-codebase-indexing/",
+        "url"      : "//vibecoding/cursor-codebase-indexing/",
         "category" : "vibecoding",
         "content"  : "Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.Co je Codebase Indexing?Codebase Indexing je pokročilý systém, který: Analyzuje celý projekt - mapuje všechny soubory, závislosti a vztahy Vytváří semantic embeddings - porozumí významu kódu, nejen syntaxi Cachuje znalosti - rychlejší responses díky pre-processed informacím Real-time updates - automaticky aktualizuje index při změnáchNové funkce v indexování:Intelligent Parsing Multi-language support - jednotný přístup pro všechny jazyky Framework detection - automaticky rozpozná React, Vue, Angular atd. Architecture mapping - identifikuje design patterns a struktury Dependency graph - mapuje všechny závislosti a..."
       }
       
       ,{
         "title"    : "Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu",
-        "url"      : "//vibecoding/cursor/2025-01-19-cursor-codebase-indexing.md/",
+        "url"      : "//vibecoding/cursor-codebase-indexing.md/",
         "category" : "vibecoding",
         "content"  : "Nejnovější aktualizace Cursor přináší výrazně vylepšený systém indexování kódu, který umožňuje AI rychleji a přesněji rozumět struktuře a kontextu celého projektu.## Co je Codebase Indexing?Codebase Indexing je pokročilý systém, který:- **Analyzuje celý projekt** - mapuje všechny soubory, závislosti a vztahy- **Vytváří semantic embeddings** - porozumí významu kódu, nejen syntaxi- **Cachuje znalosti** - rychlejší responses díky pre-processed informacím- **Real-time updates** - automaticky aktualizuje index při změnách## Nové funkce v indexování:### Intelligent Parsing- **Multi-language support** - jednotný přístup pro všechny jazyky- **Framework detection** - automaticky rozpozná React, Vue, Angular atd.- **Architecture mapping** - identifikuje design patterns a struktury- **Dependency graph** - mapuje..."
       }
       
       ,{
         "title"    : "Cursor představuje Composer - AI agent pro komplexní změny kódu",
-        "url"      : "//vibecoding/cursor/2025-01-22-cursor-composer-update/",
+        "url"      : "//vibecoding/cursor-composer-update/",
         "category" : "vibecoding",
         "content"  : "Cursor vydal revolucionní funkci Composer, která představuje nový typ AI agenta schopného provádět komplexní změny napříč celým projektem pomocí přirozeného jazyka.Co je Composer?Composer je AI agent integrovaný přímo do Cursor editoru, který dokáže: Multi-file editing - editovat desítky souborů současně Architecture changes - přestrukturovat celé aplikace Feature implementation - implementovat komplexní funkcionality Code migration - migrovat mezi frameworky a technologiemiKlíčové funkce:Intelligent Planning&quot;Přidej autentifikaci s OAuth2 do React aplikace&quot;Composer automaticky: Analyzuje současnou strukturu projektu Navrhne plan implementace Identifikuje všechny soubory k úpravě Vytvoří step-by-step roadmapuMulti-File Operations Simultaneous editing - až 50+ souborů najednou Dependency tracking - automaticky aktualizuje závislosti Import management..."
       }
       
       ,{
         "title"    : "Cursor představuje Composer - AI agent pro komplexní změny kódu",
-        "url"      : "//vibecoding/cursor/2025-01-22-cursor-composer-update.md/",
+        "url"      : "//vibecoding/cursor-composer-update.md/",
         "category" : "vibecoding",
         "content"  : "Cursor vydal revolucionní funkci Composer, která představuje nový typ AI agenta schopného provádět komplexní změny napříč celým projektem pomocí přirozeného jazyka.## Co je Composer?Composer je AI agent integrovaný přímo do Cursor editoru, který dokáže:- **Multi-file editing** - editovat desítky souborů současně- **Architecture changes** - přestrukturovat celé aplikace- **Feature implementation** - implementovat komplexní funkcionality- **Code migration** - migrovat mezi frameworky a technologiemi## Klíčové funkce:### Intelligent Planning```&quot;Přidej autentifikaci s OAuth2 do React aplikace&quot;```Composer automaticky:1. Analyzuje současnou strukturu projektu2. Navrhne plan implementace3. Identifikuje všechny soubory k úpravě4. Vytvoří step-by-step roadmapu### Multi-File Operations- **Simultaneous editing** - až 50+ souborů najednou- **Dependency tracking** - automaticky..."
       }
       
       ,{
         "title"    : "Memex Hardware Design: AI-powered CAD/CAM pro každého",
-        "url"      : "//vibecoding/memex/2025-01-25-memex-hardware-design/",
+        "url"      : "//vibecoding/memex-hardware-design/",
         "category" : "vibecoding",
         "content"  : "Memex je AI nástroj pro stolní počítače, který umožňuje vytvářet také jednoduché 3D návrhy pomocí přirozeného jazyka. Namísto učení se složitému CAD softwaru popíšete, co chcete vytvořit, a Memex vygeneruje kód pro jeho vytvoření. Tento přístup funguje nejlépe pro jednoduché návrhy, jako jsou hračky, držáky, úchyty a organizéry, které nevyžadují složité sestavy nebo organické tvary.Co se naučíte✓ Jak vám Memex pomáhá vytvářet jednoduché 3D návrhy pomocí generování kódu✓ Typy 3D návrhů, které dobře fungují s programováním v přirozeném jazyce✓ Používání OpenSCAD a dalších nástrojů pro 3D návrh založených na kódu✓ Příprava návrhů pro 3D tisk✓ Omezení a budoucí potenciál převodu..."
       }
       
       ,{
         "title"    : "Memex Hardware Design: AI-powered CAD/CAM pro každého",
-        "url"      : "//vibecoding/memex/2025-01-25-memex-hardware-design.md/",
+        "url"      : "//vibecoding/memex-hardware-design.md/",
         "category" : "vibecoding",
         "content"  : "Memex je AI nástroj pro stolní počítače, který umožňuje vytvářet také jednoduché 3D návrhy pomocí přirozeného jazyka. Namísto učení se složitému CAD softwaru popíšete, co chcete vytvořit, a Memex vygeneruje kód pro jeho vytvoření. Tento přístup funguje nejlépe pro jednoduché návrhy, jako jsou hračky, držáky, úchyty a organizéry, které nevyžadují složité sestavy nebo organické tvary.## **Co se naučíte**✓ Jak vám Memex pomáhá vytvářet jednoduché 3D návrhy pomocí generování kódu✓ Typy 3D návrhů, které dobře fungují s programováním v přirozeném jazyce✓ Používání OpenSCAD a dalších nástrojů pro 3D návrh založených na kódu✓ Příprava návrhů pro 3D tisk✓ Omezení a budoucí potenciál..."
       }
       
       ,{
         "title"    : "Kanban Board Integration - Integrovaný Kanban board pro správu úkolů",
-        "url"      : "//vibecoding/databutton/2025-03-20-nova-funkce-databutton/",
+        "url"      : "//vibecoding/nova-funkce-databutton/",
         "category" : "vibecoding",
         "content"  : "Databutton přidal novou funkci Kanban boardu, která funguje jako vestavěný nástroj pro správu úkolů přímo v platformě. Tento board umožňuje uživatelům organizovat úkoly podobně jako v nástrojích typu Jira, přičemž AI agent automaticky generuje a aktualizuje úkoly na základě popisu projektu. Uživatelé mohou přidávat, upravovat a sledovat úkoly v reálném čase, přičemž AI navrhuje optimalizace pracovního postupu.Tato funkce je ideální pro týmy nebo jednotlivce, kteří vyvíjejí aplikace a potřebují efektivně spravovat projekty. Například při vývoji MVP (Minimum Viable Product) lze Kanban board použít k plánování funkcí, sledování pokroku a řešení chyb. Funkce je užitečná zejména pro startupy a podnikatele, kteří..."
       }
       
       ,{
         "title"    : "Kanban Board Integration - Integrovaný Kanban board pro správu úkolů",
-        "url"      : "//vibecoding/databutton/2025-03-20-nova-funkce-databutton.md/",
+        "url"      : "//vibecoding/nova-funkce-databutton.md/",
         "category" : "vibecoding",
         "content"  : "Databutton přidal novou funkci Kanban boardu, která funguje jako vestavěný nástroj pro správu úkolů přímo v platformě. Tento board umožňuje uživatelům organizovat úkoly podobně jako v nástrojích typu Jira, přičemž AI agent automaticky generuje a aktualizuje úkoly na základě popisu projektu. Uživatelé mohou přidávat, upravovat a sledovat úkoly v reálném čase, přičemž AI navrhuje optimalizace pracovního postupu. Tato funkce je ideální pro týmy nebo jednotlivce, kteří vyvíjejí aplikace a potřebují efektivně spravovat projekty. Například při vývoji MVP (Minimum Viable Product) lze Kanban board použít k plánování funkcí, sledování pokroku a řešení chyb. Funkce je užitečná zejména pro startupy a podnikatele,..."
       }
       
       ,{
         "title"    : "AI-Driven UI Glitch Correction - Oprava chyb uživatelského rozhraní pomocí AI",
-        "url"      : "//vibecoding/databutton/2025-04-15-oprava-ui/",
+        "url"      : "//vibecoding/oprava-ui/",
         "category" : "vibecoding",
         "content"  : "Nová funkce umožňuje uživatelům nahrát screenshoty nebo popisy problémů s uživatelským rozhraním (UI) a AI agent Databutton automaticky analyzuje a opravuje chyby, jako jsou nesprávné zarovnání, nefunkční tlačítka nebo nekonzistentní design. AI navrhuje úpravy a generuje potřebný kód pro React UI, který lze okamžitě aplikovat.Tato funkce je neocenitelná pro vývojáře i nevývojáře, kteří chtějí rychle vyladit vzhled a funkčnost svých aplikací. Například podnikatel bez technických znalostí může nahrát screenshot chybného rozvržení a AI navrhne a implementuje opravu. Funkce je také užitečná pro rychlé prototypování, kdy je třeba rychle opravit vizuální nedostatky před spuštěním aplikace.AI agent využívá počítačové vidění k analýze..."
       }
       
       ,{
         "title"    : "AI-Driven UI Glitch Correction - Oprava chyb uživatelského rozhraní pomocí AI",
-        "url"      : "//vibecoding/databutton/2025-04-15-oprava-ui.md/",
+        "url"      : "//vibecoding/oprava-ui.md/",
         "category" : "vibecoding",
         "content"  : "Nová funkce umožňuje uživatelům nahrát screenshoty nebo popisy problémů s uživatelským rozhraním (UI) a AI agent Databutton automaticky analyzuje a opravuje chyby, jako jsou nesprávné zarovnání, nefunkční tlačítka nebo nekonzistentní design. AI navrhuje úpravy a generuje potřebný kód pro React UI, který lze okamžitě aplikovat. Tato funkce je neocenitelná pro vývojáře i nevývojáře, kteří chtějí rychle vyladit vzhled a funkčnost svých aplikací. Například podnikatel bez technických znalostí může nahrát screenshot chybného rozvržení a AI navrhne a implementuje opravu. Funkce je také užitečná pro rychlé prototypování, kdy je třeba rychle opravit vizuální nedostatky před spuštěním aplikace. AI agent využívá počítačové vidění..."
       }
       
       ,{
         "title"    : "Lovable 2.0: Nové funkce pro AI tvorbu webových aplikací",
-        "url"      : "//vibecoding/lovable-dev/2025-04-25-lovable-2-nove_funkce/",
+        "url"      : "//vibecoding/lovable-2-nove_funkce/",
         "category" : "vibecoding",
         "content"  : "Aplikace Lovable koncem dubna vydala očekávanou verzi 2.0 své AI platformy pro vytváření webových aplikací pomocí přirozeného jazyka. Aktualizace přináší multiplayer spolupráci, Chat Mode Agent, bezpečnostní skenování, přímou editace kódu a zjednodušené ceny. Pojďme se na novinky podívat podrobněji:Multiplayer spolupráce s workspace systémemLovable 2.0 zavádí workspace systém pro týmovou spolupráci. Pro uživatele se rozděluje na dva plány: Pro subscription pro osobní workspace s možností pozvat až 2 spolupracovníky na jednotlivé projekty, a Teams subscription podporující až 20 uživatelů ve sdíleném workspace.Teams plán obsahuje tři role: Owners a admins mohou přidávat a odebírat uživatele, zatímco Editors mohou pouze spravovat a editovat..."
       }
       
       ,{
         "title"    : "Lovable 2.0: Nové funkce pro AI tvorbu webových aplikací",
-        "url"      : "//vibecoding/lovable-dev/2025-04-25-lovable-2-nove_funkce.md/",
+        "url"      : "//vibecoding/lovable-2-nove_funkce.md/",
         "category" : "vibecoding",
         "content"  : "Aplikace Lovable koncem dubna vydala očekávanou verzi 2.0 své AI platformy pro vytváření webových aplikací pomocí přirozeného jazyka. Aktualizace přináší multiplayer spolupráci, Chat Mode Agent, bezpečnostní skenování, přímou editace kódu a zjednodušené ceny. Pojďme se na novinky podívat podrobněji:## Multiplayer spolupráce s workspace systémemLovable 2.0 zavádí workspace systém pro týmovou spolupráci. Pro uživatele se rozděluje na dva plány: Pro subscription pro osobní workspace s možností pozvat až 2 spolupracovníky na jednotlivé projekty, a Teams subscription podporující až 20 uživatelů ve sdíleném workspace.Teams plán obsahuje tři role: Owners a admins mohou přidávat a odebírat uživatele, zatímco Editors mohou pouze spravovat a..."
       }
       
       ,{
         "title"    : "Reakce na vydání Lovable 2.0",
-        "url"      : "//vibecoding/lovable-dev/2025-06-04-lovable-2/",
+        "url"      : "//vibecoding/lovable-2/",
         "category" : "vibecoding",
         "content"  : "Lovable 2.0, AI platforma pro full-stack vývoj, vyvolala značně polarizované reakce v tech komunitě. Zatímco obchodní komunita oceňuje rekordní růst na $17 milionů ARR za tři měsíce, technická komunita vyjadřuje vážné obavy ohledně bezpečnosti a kvality generovaného kódu. Platforma dosáhla i dalších pozoruhodných růstových metrik: 30 000 platících zákazníků, 85% first-month retention rate (vyšší než ChatGPT), a 500,000+ celkových uživatelů vytvářejících 25,000+ nových služeb denně.Platforma, původně známá jako GPT Engineer, se rebrandovala na Lovable v listopadu 2024 a nyní se prezentuje jako “první AI full-stack inženýr na světě”. Umožňuje vytváření funkčních webových aplikací pomocí přirozeného jazyka bez nutnosti programovacích znalostí,..."
       }
       
       ,{
         "title"    : "Reakce na vydání Lovable 2.0",
-        "url"      : "//vibecoding/lovable-dev/2025-06-04-lovable-2.md/",
+        "url"      : "//vibecoding/lovable-2.md/",
         "category" : "vibecoding",
         "content"  : "Lovable 2.0, AI platforma pro full-stack vývoj, vyvolala značně polarizované reakce v tech komunitě. Zatímco obchodní komunita oceňuje **rekordní růst na $17 milionů ARR za tři měsíce**, technická komunita vyjadřuje vážné obavy ohledně bezpečnosti a kvality generovaného kódu. Platforma dosáhla i dalších pozoruhodných růstových metrik: 30 000 platících zákazníků, 85% first-month retention rate (vyšší než ChatGPT), a 500,000+ celkových uživatelů vytvářejících 25,000+ nových služeb denně.Platforma, původně známá jako GPT Engineer, se rebrandovala na Lovable v listopadu 2024 a nyní se prezentuje jako &quot;první AI full-stack inženýr na světě&quot;. Umožňuje vytváření funkčních webových aplikací pomocí přirozeného jazyka bez nutnosti programovacích znalostí,..."
       }
       
       ,{
         "title"    : "Replit Auth - bezpečné přihlašování jedním příkazem",
-        "url"      : "//vibecoding/replit/2025-05-08-replit-auth/",
+        "url"      : "//vibecoding/replit-auth/",
         "category" : "vibecoding",
         "content"  : "Uživatelské přihlašování, sociální sign-in a správa uživatelů — vše z jediného promptu s Replit Auth.🚀 Proč Replit Auth?Přidání uživatelského přihlašování může být jedna z nejtěžších funkcí. Obvyklé problémy: Konfigurace externích služeb Správa callback URL Integrace nových login providerů Ukládání uživatelských informací Otázky bezpečnostiJednoduché řešeníStačí přidat do promptu “use Replit Auth” a získáte: ✅ Spolehlivou autentizaci uživatelů ✅ Více sociálních login providerů na výběr ✅ Enterprise grade bezpečnost ✅ Uživatelské informace uložené v databázi aplikace ✅ Správu a administraci uživatelů👥 Zkušenost uživatelůKdyž uživatelé navštíví vaši aplikaci: Uvidí tlačítko “Log in” Kliknutí je přesměruje na Replit.com pro autentizaci Přihlášení pomocí sociálního providera..."
       }
       
       ,{
         "title"    : "Replit Auth - bezpečné přihlašování jedním příkazem",
-        "url"      : "//vibecoding/replit/2025-05-08-replit-auth.md/",
+        "url"      : "//vibecoding/replit-auth.md/",
         "category" : "vibecoding",
         "content"  : "Uživatelské přihlašování, sociální sign-in a správa uživatelů — vše z jediného promptu s Replit Auth.## 🚀 Proč Replit Auth?Přidání uživatelského přihlašování může být jedna z nejtěžších funkcí. Obvyklé problémy:- Konfigurace externích služeb- Správa callback URL- Integrace nových login providerů - Ukládání uživatelských informací- Otázky bezpečnosti### Jednoduché řešeníStačí přidat do promptu &quot;use Replit Auth&quot; a získáte:- ✅ **Spolehlivou autentizaci** uživatelů- ✅ **Více sociálních login providerů** na výběr- ✅ **Enterprise grade bezpečnost**- ✅ **Uživatelské informace** uložené v databázi aplikace- ✅ **Správu a administraci** uživatelů## 👥 Zkušenost uživatelůKdyž uživatelé navštíví vaši aplikaci:1. **Uvidí tlačítko &quot;Log in&quot;**2. **Kliknutí** je přesměruje na Replit.com pro autentizaci3...."
       }
       
       ,{
         "title"    : " Custom Domain Deployment Enhancements - Vylepšené nasazení na vlastní domény",
-        "url"      : "//vibecoding/databutton/2025-05-10-custom-domain/",
+        "url"      : "//vibecoding/custom-domain/",
         "category" : "vibecoding",
         "content"  : "Databutton vylepšil svůj proces nasazení aplikací, který nyní umožňuje snadnější a rychlejší připojení k vlastním doménám. Uživatelé mohou nasadit své aplikace na domény typu [username].databutton.app/[appname] nebo na zcela vlastní domény s jedním kliknutím. Nová funkce také zahrnuje automatickou konfiguraci SSL certifikátů pro zajištění bezpečnosti.Tato funkce je ideální pro podnikatele a firmy, které chtějí spustit profesionální aplikace pod vlastní značkou. Například startup může nasadit svou SaaS aplikaci na vlastní doménu bez potřeby manuální konfigurace serveru. Funkce je také užitečná pro rychlé testování aplikací na veřejných URL před finálním nasazením.Proces nasazení je plně automatizovaný a zahrnuje integraci s poskytovateli domén, jako jsou..."
       }
       
       ,{
         "title"    : " Custom Domain Deployment Enhancements - Vylepšené nasazení na vlastní domény",
-        "url"      : "//vibecoding/databutton/2025-05-10-custom-domain.md/",
+        "url"      : "//vibecoding/custom-domain.md/",
         "category" : "vibecoding",
         "content"  : "Databutton vylepšil svůj proces nasazení aplikací, který nyní umožňuje snadnější a rychlejší připojení k vlastním doménám. Uživatelé mohou nasadit své aplikace na domény typu [username].databutton.app/[appname] nebo na zcela vlastní domény s jedním kliknutím. Nová funkce také zahrnuje automatickou konfiguraci SSL certifikátů pro zajištění bezpečnosti. Tato funkce je ideální pro podnikatele a firmy, které chtějí spustit profesionální aplikace pod vlastní značkou. Například startup může nasadit svou SaaS aplikaci na vlastní doménu bez potřeby manuální konfigurace serveru. Funkce je také užitečná pro rychlé testování aplikací na veřejných URL před finálním nasazením. Proces nasazení je plně automatizovaný a zahrnuje integraci s poskytovateli domén,..."
       }
       
       ,{
         "title"    : "Replit - nejbezpečnější místo pro vibe coding",
-        "url"      : "//vibecoding/replit/2025-05-15-safe-vibe-coding/",
+        "url"      : "//vibecoding/safe-vibe-coding/",
         "category" : "vibecoding",
         "content"  : "Replit posiluje bezpečnost a spouští nejlepší vibe coding history funkci na světě. Pro ty, kteří přinášejí R projekty, máme také skvělé novinky.🔒 Posílená bezpečnostBezpečnost je klíčová při vývoji aplikací s AI. Replit zavádí:Vestavěné bezpečnostní funkce Pre-deployment security screening - automatická kontrola před nasazením Security scanner - vestavěný skener pro nalezení a opravu bezpečnostních problémů Secure defaults - bezpečná výchozí nastavení pro všechny projekty Secrets management - bezpečná správa API klíčů a citlivých datVibe coding s důrazem na bezpečnost Secure coding practices - AI Agent dodržuje bezpečnostní standardy Automatic vulnerability detection - automatické odhalování zranitelností Safe dependency management - bezpečná správa..."
       }
       
       ,{
         "title"    : "Replit - nejbezpečnější místo pro vibe coding",
-        "url"      : "//vibecoding/replit/2025-05-15-safe-vibe-coding.md/",
+        "url"      : "//vibecoding/safe-vibe-coding.md/",
         "category" : "vibecoding",
         "content"  : "Replit posiluje bezpečnost a spouští nejlepší vibe coding history funkci na světě. Pro ty, kteří přinášejí R projekty, máme také skvělé novinky.## 🔒 Posílená bezpečnostBezpečnost je klíčová při vývoji aplikací s AI. Replit zavádí:### Vestavěné bezpečnostní funkce- **Pre-deployment security screening** - automatická kontrola před nasazením- **Security scanner** - vestavěný skener pro nalezení a opravu bezpečnostních problémů- **Secure defaults** - bezpečná výchozí nastavení pro všechny projekty- **Secrets management** - bezpečná správa API klíčů a citlivých dat### Vibe coding s důrazem na bezpečnost- **Secure coding practices** - AI Agent dodržuje bezpečnostní standardy- **Automatic vulnerability detection** - automatické odhalování zranitelností- **Safe dependency management**..."
       }
       
       ,{
         "title"    : "Element Editor - klikni, uprav, publikuj",
-        "url"      : "//vibecoding/replit/2025-05-22-element-editor/",
+        "url"      : "//vibecoding/element-editor/",
         "category" : "vibecoding",
         "content"  : "Nový Element Editor umožňuje přímé úpravy aplikací bez znalosti kódu, podobně jako v design nástrojích.✨ Co je nového:📝 Přímé editování textuJednoduše klikněte na jakýkoli textový element a začněte psát. Funguje to stejně jako v design nástrojích — žádné kódování není potřeba.🎨 Vylepšené editování barev Zadejte název barvy, hex kód nebo použijte kapátko Okamžité náhled změn Intuitivní ovládání s menším počtem kliknutí🛠️ Nové style kontroly Velikost písma - snadné úpravy Tloušťka písma - modifikace font weight Zarovnání textu - ovládání alignmentu Barva pozadí - editace background color Margin - přizpůsobení okrajů Padding - úprava vnitřních okrajů🚀 Jak Element Editor funguje Aktivujte..."
       }
       
       ,{
         "title"    : "Element Editor - klikni, uprav, publikuj",
-        "url"      : "//vibecoding/replit/2025-05-22-element-editor.md/",
+        "url"      : "//vibecoding/element-editor.md/",
         "category" : "vibecoding",
         "content"  : "Nový Element Editor umožňuje přímé úpravy aplikací bez znalosti kódu, podobně jako v design nástrojích.## ✨ Co je nového:### 📝 Přímé editování textuJednoduše klikněte na jakýkoli textový element a začněte psát. Funguje to stejně jako v design nástrojích — žádné kódování není potřeba.### 🎨 Vylepšené editování barev- Zadejte název barvy, hex kód nebo použijte kapátko- Okamžité náhled změn- Intuitivní ovládání s menším počtem kliknutí### 🛠️ Nové style kontroly- **Velikost písma** - snadné úpravy- **Tloušťka písma** - modifikace font weight- **Zarovnání textu** - ovládání alignmentu- **Barva pozadí** - editace background color- **Margin** - přizpůsobení okrajů- **Padding** - úprava vnitřních okrajů## 🚀..."
       }
       
       ,{
         "title"    : "Memex integruje nová LLM a šablony MCP",
-        "url"      : "//vibecoding/memex/2025-05-25-memex-llm-mcp/",
+        "url"      : "//vibecoding/memex-llm-mcp/",
         "category" : "vibecoding",
         "content"  : "Memex integruje nové AI modely. Firma se se zaměřuje na 2–3 nejlepší modely SOTA v daném okamžiku, protože podle nich právě ty přinášejí nejlepší výsledky při kódování a složitých úkolech. Nyní Memex rozšiřuje svou nabídku modelů a umožňuje uživatelům vyzkoušet dva zbrusu nové modely z jediného rozhraní. Další novinkou jsou MCP šablony.Claude Sonnet 4: nový základní modelClaude Sonnet 4 je nyní výchozím modelem pohánějícím Memex. Byl vydán tento týden společností Anthropic a představuje významný pokrok v oblasti kódování a sledování pokynů.Zvláště vyniká v oblastech, jako je editace souborů, kde je jeho přesnost pozoruhodná, a v úkolech souvisejících s designem, kde..."
       }
       
       ,{
         "title"    : "Memex integruje nová LLM a šablony MCP",
-        "url"      : "//vibecoding/memex/2025-05-25-memex-llm-mcp.md/",
+        "url"      : "//vibecoding/memex-llm-mcp.md/",
         "category" : "vibecoding",
         "content"  : "Memex integruje nové AI modely. Firma se se zaměřuje na 2–3 nejlepší modely SOTA v daném okamžiku, protože podle nich právě ty přinášejí nejlepší výsledky při kódování a složitých úkolech. Nyní Memex rozšiřuje svou nabídku modelů a umožňuje uživatelům vyzkoušet dva zbrusu nové modely z jediného rozhraní. Další novinkou jsou MCP šablony. ## Claude Sonnet 4: nový základní modelClaude Sonnet 4 je nyní výchozím modelem pohánějícím Memex. Byl vydán tento týden společností Anthropic a představuje významný pokrok v oblasti kódování a sledování pokynů.Zvláště vyniká v oblastech, jako je editace souborů, kde je jeho přesnost pozoruhodná, a v úkolech souvisejících s..."
       }
       
       ,{
         "title"    : "Codex pomáhá s aktualizací pull requestů",
-        "url"      : "//vibecoding/openai-codex/2025-06-03-aktualizace-pull-requestu/",
+        "url"      : "//vibecoding/aktualizace-pull-requestu/",
         "category" : "vibecoding",
         "content"  : "Codex nyní může pomáhat s aktualizací pull requestů (PRs). Toto pravděpodobně znamená, že Codex může generovat aktualizace pro PRs na základě zpětné vazby, řešit konflikty nebo navrhovat vylepšení kódu. Funkce je užitečná pro zjednodušení procesu správy pull requestů, což usnadňuje spolupráci a zlepšování příspěvků kódu v týmech.Podobné funkce mohou být k dispozici v jiných nástrojích, jako jsou GitHub nebo GitLab, které nabízejí automatizované návrhy nebo revize kódu, ale integrace s generováním kódu Codexem může poskytovat plynulejší zkušenost díky jeho schopnosti rozumět přirozenému jazyku. Limity: efektivita funkce závisí na složitosti pull requestů a na kvalitě výcvikových dat Codexu, což může omezit..."
       }
       
       ,{
         "title"    : "Codex pomáhá s aktualizací pull requestů",
-        "url"      : "//vibecoding/openai-codex/2025-06-03-aktualizace-pull-requestu.md/",
+        "url"      : "//vibecoding/aktualizace-pull-requestu.md/",
         "category" : "vibecoding",
         "content"  : "Codex nyní může pomáhat s aktualizací pull requestů (PRs). Toto pravděpodobně znamená, že Codex může generovat aktualizace pro PRs na základě zpětné vazby, řešit konflikty nebo navrhovat vylepšení kódu. Funkce je užitečná pro zjednodušení procesu správy pull requestů, což usnadňuje spolupráci a zlepšování příspěvků kódu v týmech. Podobné funkce mohou být k dispozici v jiných nástrojích, jako jsou GitHub nebo GitLab, které nabízejí automatizované návrhy nebo revize kódu, ale integrace s generováním kódu Codexem může poskytovat plynulejší zkušenost díky jeho schopnosti rozumět přirozenému jazyku. Limity: efektivita funkce závisí na složitosti pull requestů a na kvalitě výcvikových dat Codexu, což může..."
       }
       
       ,{
         "title"    : "Codex přidává podporu hlasového diktátu",
-        "url"      : "//vibecoding/openai-codex/2025-06-03-diktat-hlasem/",
+        "url"      : "//vibecoding/diktat-hlasem/",
         "category" : "vibecoding",
         "content"  : "Uživatelé nyní mohou používat hlasový vstup s Codexem. Toto umožňuje diktovat úkoly týkající se programování nebo popisy, které Codex následně převede na kód. Funkce je užitečná pro zlepšení přístupnosti a poskytování hands-free interakce s asistenčním programem, což může být prospěšné pro uživatele s postižením nebo pro multitasking.Hlasový vstup pro programování není běžný mezi AI asistenty, což činí tuto funkci potenciálně unikátní. Některé IDE nebo hlasoví asistenti mohou nabízet podobné funkce, ale jejich integrace s AI pro generování kódu je méně častá. Limity: přesnost rozpoznávání hlasu může být ovlivněna kvalitou mikrofonu, hlukem v prostředí nebo omezenou podporou jazyků. Klidné prostředí je..."
       }
       
       ,{
         "title"    : "Codex přidává podporu hlasového diktátu",
-        "url"      : "//vibecoding/openai-codex/2025-06-03-diktat-hlasem.md/",
+        "url"      : "//vibecoding/diktat-hlasem.md/",
         "category" : "vibecoding",
         "content"  : "Uživatelé nyní mohou používat hlasový vstup s Codexem. Toto umožňuje diktovat úkoly týkající se programování nebo popisy, které Codex následně převede na kód. Funkce je užitečná pro zlepšení přístupnosti a poskytování hands-free interakce s asistenčním programem, což může být prospěšné pro uživatele s postižením nebo pro multitasking. Hlasový vstup pro programování není běžný mezi AI asistenty, což činí tuto funkci potenciálně unikátní. Některé IDE nebo hlasoví asistenti mohou nabízet podobné funkce, ale jejich integrace s AI pro generování kódu je méně častá. Limity: přesnost rozpoznávání hlasu může být ovlivněna kvalitou mikrofonu, hlukem v prostředí nebo omezenou podporou jazyků. Klidné prostředí..."
       }
       
       ,{
         "title"    : "Codex získává internetový přístup",
-        "url"      : "//vibecoding/openai-codex/2025-06-03-internetovy-pristup/",
+        "url"      : "//vibecoding/internetovy-pristup/",
         "category" : "vibecoding",
         "content"  : "Codex nyní může během vykonávání úkolů přistupovat k internetu. Uživatelé mohou povolit internetový přístup pro Codex, aby mohl provádět úkoly jako instalace závislostí, spouštění testů vyžadujících externí zdroje, aktualizace nebo instalace balíčků potřebných pro vývoj nových funkcí. Uživatelé mají kontrolu nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost.Tato funkce je užitečná pro automatizaci složitých vývojářských úkolů vyžadujících internetový přístup, čímž ušetří čas a úsilí vývojářů. Unikátnost může spočívat v detailní kontrole nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost a flexibilitu.Internetový přístup je vypnutý výchozí a musí být explicitně povolen; uživatelé musí nakonfigurovat povolené domény a metody, což..."
       }
       
       ,{
         "title"    : "Codex získává internetový přístup",
-        "url"      : "//vibecoding/openai-codex/2025-06-03-internetovy-pristup.md/",
+        "url"      : "//vibecoding/internetovy-pristup.md/",
         "category" : "vibecoding",
         "content"  : "Codex nyní může během vykonávání úkolů přistupovat k internetu. Uživatelé mohou povolit internetový přístup pro Codex, aby mohl provádět úkoly jako instalace závislostí, spouštění testů vyžadujících externí zdroje, aktualizace nebo instalace balíčků potřebných pro vývoj nových funkcí. Uživatelé mají kontrolu nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost. Tato funkce je užitečná pro automatizaci složitých vývojářských úkolů vyžadujících internetový přístup, čímž ušetří čas a úsilí vývojářů. Unikátnost může spočívat v detailní kontrole nad povolenými doménami a HTTP metodami, což zvyšuje bezpečnost a flexibilitu. Internetový přístup je vypnutý výchozí a musí být explicitně povolen; uživatelé musí nakonfigurovat povolené domény a..."
       }
       
       ,{
         "title"    : "Codex dostupný v rámci předplatitného ChatGPT Plus",
-        "url"      : "//vibecoding/openai-codex/2025-06-03-pristup-pro-plus-uzivatele/",
+        "url"      : "//vibecoding/pristup-pro-plus-uzivatele/",
         "category" : "vibecoding",
         "content"  : "Codex je nyní dostupný v rámci předplatitného ChatGPT Plus. Tato funkce umožňuje placeným uživatelům ChatGPT využívat Codex pro asistenci při programování, například generování kódu z přirozeného jazyka nebo doplňování kódu. Je užitečná pro širší spektrum vývojářů, kteří tak mohou zvýšit svou produktivitu díky pokročilým AI nástrojům.Unikátnost spočívá v kombinaci konverzačního AI ChatGPT s asistenčním programováním Codexu, což může být atraktivní pro uživatele hledající komplexní nástroj. Podobné nástroje, jako Claude Code nebo Cursor, nabízejí asistenci při programování, ale jejich integrace s konverzačním AI nemusí být tak těsná.Limity: přístup je omezen na předplatitele ChatGPT Plus, bezplatní uživatelé nemají přístup. Při vysoké poptávce..."
       }
       
       ,{
         "title"    : "Codex dostupný v rámci předplatitného ChatGPT Plus",
-        "url"      : "//vibecoding/openai-codex/2025-06-03-pristup-pro-plus-uzivatele.md/",
+        "url"      : "//vibecoding/pristup-pro-plus-uzivatele.md/",
         "category" : "vibecoding",
         "content"  : "Codex je nyní dostupný v rámci předplatitného ChatGPT Plus. Tato funkce umožňuje placeným uživatelům ChatGPT využívat Codex pro asistenci při programování, například generování kódu z přirozeného jazyka nebo doplňování kódu. Je užitečná pro širší spektrum vývojářů, kteří tak mohou zvýšit svou produktivitu díky pokročilým AI nástrojům. Unikátnost spočívá v kombinaci konverzačního AI ChatGPT s asistenčním programováním Codexu, což může být atraktivní pro uživatele hledající komplexní nástroj. Podobné nástroje, jako Claude Code nebo Cursor, nabízejí asistenci při programování, ale jejich integrace s konverzačním AI nemusí být tak těsná. Limity: přístup je omezen na předplatitele ChatGPT Plus, bezplatní uživatelé nemají přístup. Při..."
       }
       
       ,{
         "title"    : "Claude Code je nyní hlouběji integrován s VS Code a IDE JetBrains",
-        "url"      : "//vibecoding/claude-code/2025-06-10-vscode-jetbrains/",
+        "url"      : "//vibecoding/vscode-jetbrains/",
         "category" : "vibecoding",
         "content"  : "Claude Code nově vidí vaše otevřené soubory, diagnostiku LSP a jakýkoli text, který zvýrazníte ve VS Code a JetBrains. Když Claude Code navrhne změny, zobrazí vám úpravy v editoru, takže můžete plynule pracovat ve svých oblíbených editorech."
       }
       
       ,{
         "title"    : "Claude Code je nyní hlouběji integrován s VS Code a IDE JetBrains",
-        "url"      : "//vibecoding/claude-code/2025-06-10-vscode-jetbrains.md/",
+        "url"      : "//vibecoding/vscode-jetbrains.md/",
         "category" : "vibecoding",
         "content"  : "Claude Code nově vidí vaše otevřené soubory, diagnostiku LSP a jakýkoli text, který zvýrazníte ve VS Code a JetBrains. Když Claude Code navrhne změny, zobrazí vám úpravy v editoru, takže můžete plynule pracovat ve svých oblíbených editorech.![Claude Code IDE](/assets/GtCKXf2bUAAMI6p.jpeg)"
       }
       
       ,{
         "title"    : "Import Figma designů do Replit Agent",
-        "url"      : "//vibecoding/replit/2025-06-10-import-figma-designs/",
+        "url"      : "//vibecoding/import-figma-designs/",
         "category" : "vibecoding",
         "content"  : "Replit spouští Replit Import — nový způsob, jak tvůrci mohou importovat své návrhy do Repli a transformovat je na bezpečné, produkční aplikace pomocí Replit Agent.🎨 Import z Figma jednodušeKlíčové funkce: High-fidelity převod - vylepšené generování komponent s vysokou věrností původním návrhům Inteligentní backend - Replit Agent dokáže vygenerovat potřebnou backend funkcionalita po importu Produkční nasazení - přechod z Figma designu na živou aplikaci rychleji než kdy předtím🔒 Import z Lovable a BoltMnoho designů vytvořených jinými nástroji má skryté bezpečnostní zranitelnosti. Replit má vestavěné bezpečnostní funkce: Pre-deployment security screening - kontrola před nasazením Secure defaults - bezpečné výchozí nastavení Built-in security..."
       }
       
       ,{
         "title"    : "Import Figma designů do Replit Agent",
-        "url"      : "//vibecoding/replit/2025-06-10-import-figma-designs.md/",
+        "url"      : "//vibecoding/import-figma-designs.md/",
         "category" : "vibecoding",
         "content"  : "Replit spouští **Replit Import** — nový způsob, jak tvůrci mohou importovat své návrhy do Repli a transformovat je na bezpečné, produkční aplikace pomocí Replit Agent.## 🎨 Import z Figma jednoduše### Klíčové funkce:- **High-fidelity převod** - vylepšené generování komponent s vysokou věrností původním návrhům- **Inteligentní backend** - Replit Agent dokáže vygenerovat potřebnou backend funkcionalita po importu- **Produkční nasazení** - přechod z Figma designu na živou aplikaci rychleji než kdy předtím## 🔒 Import z Lovable a BoltMnoho designů vytvořených jinými nástroji má skryté bezpečnostní zranitelnosti. Replit má vestavěné bezpečnostní funkce:- **Pre-deployment security screening** - kontrola před nasazením- **Secure defaults** - bezpečné výchozí..."
       }
       
       ,{
         "title"    : "Tempo Labs Volume 2: MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav",
-        "url"      : "//vibecoding/tempolabs/2025-06-10-mcp-app-store-styling-panel/",
+        "url"      : "//vibecoding/mcp-app-store-styling-panel/",
         "category" : "vibecoding",
         "content"  : "Tempo Labs, startup z akcelerátoru Y Combinator S23, představil 9. června 2025 druhý souhrnný balík novinek s názvem Volume 2. Na svém účtu X stručně vyjmenoval hlavní přírůstky – MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav. Níže si rozeberme, co jednotlivé novinky znamenají pro vývojáře používající Tempo jako AI-asistované IDE.První položkou je MCP App Store, marketplace integrovaný do postranního panelu editoru. Uživatel vybere službu, vloží její API klíč a během zhruba jedné minuty se v canvasu objeví plně konfigurovaná funkce – například pro Stripe, OpenAI nebo Firecrawl – přičemž všechny meta­údaje ukládá protokol Model..."
       }
       
       ,{
         "title"    : "Tempo Labs Volume 2: MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav",
-        "url"      : "//vibecoding/tempolabs/2025-06-10-mcp-app-store-styling-panel.md/",
+        "url"      : "//vibecoding/mcp-app-store-styling-panel.md/",
         "category" : "vibecoding",
         "content"  : "Tempo Labs, startup z akcelerátoru Y Combinator S23, představil 9. června 2025 druhý souhrnný **balík novinek s názvem Volume 2**. Na svém účtu X stručně vyjmenoval hlavní přírůstky – MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav. Níže si rozeberme, co jednotlivé novinky znamenají pro vývojáře používající Tempo jako AI-asistované IDE.První položkou je **MCP App Store**, marketplace integrovaný do postranního panelu editoru. Uživatel vybere službu, vloží její API klíč a během zhruba jedné minuty se v canvasu objeví plně konfigurovaná funkce – například pro Stripe, OpenAI nebo Firecrawl – přičemž všechny meta­údaje ukládá protokol Model..."
       }
       
       ,{
         "title"    : "Windsurf zavádí Planning Mode pro dlouhodobé plánování projektů, model O3 zlevňuje",
-        "url"      : "//vibecoding/windsurf/2025-06-10-windsurf-planing-mode/",
+        "url"      : "//vibecoding/windsurf-planing-mode/",
         "category" : "vibecoding",
         "content"  : "Společnost Windsurf (dříve Exafunction) představila Planning Mode jako součást své desáté vlny updatů. Nová funkce umožňuje spolupráci s umělou inteligencí na dlouhodobém plánování programátorských projektů prostřednictvím markdown souborů. Současně značně snížila náklady na využívání modelu O3 z OpenAI.Windsurf Planning Mode - nástroj pro strukturované plánování kóduWindsurf, vývojové prostředí zaměřené na programování s umělou inteligencí, vydalo Planning Mode jako klíčovou součást Wave 10. Tato funkce představuje první nativní implementaci dlouhodobého plánování v IDE prostředí.Planning Mode funguje prostřednictvím lokálního markdown souboru, který obsahuje cíle a úkoly projektu. AI asistent Cascade automaticky generuje a upravuje tento plán během práce na projektu. Uživatelé mohou..."
       }
       
       ,{
         "title"    : "Windsurf zavádí Planning Mode pro dlouhodobé plánování projektů, model O3 zlevňuje",
-        "url"      : "//vibecoding/windsurf/2025-06-10-windsurf-planing-mode.md/",
+        "url"      : "//vibecoding/windsurf-planing-mode.md/",
         "category" : "vibecoding",
         "content"  : "Společnost Windsurf (dříve Exafunction) představila Planning Mode jako součást své desáté vlny updatů. Nová funkce umožňuje spolupráci s umělou inteligencí na dlouhodobém plánování programátorských projektů prostřednictvím markdown souborů. Současně značně snížila náklady na využívání modelu O3 z OpenAI.## Windsurf Planning Mode - nástroj pro strukturované plánování kóduWindsurf, vývojové prostředí zaměřené na programování s umělou inteligencí, vydalo Planning Mode jako klíčovou součást Wave 10. Tato funkce představuje první nativní implementaci dlouhodobého plánování v IDE prostředí.Planning Mode funguje prostřednictvím lokálního markdown souboru, který obsahuje cíle a úkoly projektu. AI asistent Cascade automaticky generuje a upravuje tento plán během práce na projektu. Uživatelé..."
       }
@@ -27907,413 +27907,413 @@
       
       ,{
         "title"    : "Windsurf Browser: Nový AI-integrovaný prohlížeč pro vývojáře",
-        "url"      : "//vibecoding/windsurf/2025-06-11-windsurf-browser/",
+        "url"      : "//vibecoding/windsurf-browser/",
         "category" : "vibecoding",
         "content"  : "Společnost Windsurf představila Windsurf Browser, AI-integrovaný webový prohlížeč, který má zlepšit spolupráci mezi vývojáři a umělou inteligencí. Prohlížeč řeší problém neúplného kontextu, kdy AI asistent Cascade neměl přehled o tom, co vývojář dělá ve webovém prohlížeči při práci s dokumentací, debugging nebo testování aplikací.Technické specifikace a funkceWindsurf Browser je postavený na Chromiu a funguje jako standardní webový prohlížeč s rozšířenými možnostmi pro AI integraci. Prohlížeč se spouští přímo z Windsurf editoru tlačítkem v pravém horním rohu rozhraní. Vývojáři v něm mohou prohlížet webové stránky, dokumentaci, GitHub issues a debugovat aplikace stejně jako v běžném prohlížeči.Klíčová funkcionalita spočívá v tom, že..."
       }
       
       ,{
         "title"    : "Windsurf Browser: Nový AI-integrovaný prohlížeč pro vývojáře",
-        "url"      : "//vibecoding/windsurf/2025-06-11-windsurf-browser.md/",
+        "url"      : "//vibecoding/windsurf-browser.md/",
         "category" : "vibecoding",
         "content"  : "Společnost Windsurf představila Windsurf Browser, AI-integrovaný webový prohlížeč, který má zlepšit spolupráci mezi vývojáři a umělou inteligencí. Prohlížeč řeší problém neúplného kontextu, kdy AI asistent Cascade neměl přehled o tom, co vývojář dělá ve webovém prohlížeči při práci s dokumentací, debugging nebo testování aplikací.## Technické specifikace a funkceWindsurf Browser je postavený na Chromiu a funguje jako standardní webový prohlížeč s rozšířenými možnostmi pro AI integraci. Prohlížeč se spouští přímo z Windsurf editoru tlačítkem v pravém horním rohu rozhraní. Vývojáři v něm mohou prohlížet webové stránky, dokumentaci, GitHub issues a debugovat aplikace stejně jako v běžném prohlížeči.Klíčová funkcionalita spočívá v tom,..."
       }
       
       ,{
         "title"    : "Novinka v Claude Code: Režim implementačního plánu",
-        "url"      : "//vibecoding/claude-code/2025-06-12-rezim-planu/",
+        "url"      : "//vibecoding/rezim-planu/",
         "category" : "vibecoding",
         "content"  : "Před provedením změn si můžete zkontrolovat implementační postup, plán práce, který Claude Code navrhuje. Ideální je to pro komplexní změny, u kterých chcete nejprve přesně určit postup, než se do nich pustíte.Jak to funguje: stiskněte dvakrát Shift+Tab pro aktivaci režimu plánování při zadávání promptu.Poté zadáte prompt Claude Code jako obvykle a ten vám nabídne podrobný implementační plán a před provedením vás požádá o schválení.Režim plánování je nyní k dispozici všem uživatelům Claude Code, včetně všech uživatelů s tarifem Pro nebo Max. Skvělá novinka!"
       }
       
       ,{
         "title"    : "Novinka v Claude Code: Režim implementačního plánu",
-        "url"      : "//vibecoding/claude-code/2025-06-12-rezim-planu.md/",
+        "url"      : "//vibecoding/rezim-planu.md/",
         "category" : "vibecoding",
         "content"  : "Před provedením změn si můžete zkontrolovat implementační postup, plán práce, který Claude Code navrhuje. Ideální je to pro komplexní změny, u kterých chcete nejprve přesně určit postup, než se do nich pustíte.Jak to funguje: stiskněte dvakrát Shift+Tab pro aktivaci režimu plánování při zadávání promptu. Poté zadáte prompt Claude Code jako obvykle a ten vám nabídne podrobný implementační plán a před provedením vás požádá o schválení.Režim plánování je nyní k dispozici všem uživatelům Claude Code, včetně všech uživatelů s tarifem Pro nebo Max. Skvělá novinka!"
       }
       
       ,{
         "title"    : "Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran",
-        "url"      : "//vibecoding/claude-code/2025-06-13-claude_code_sdk/",
+        "url"      : "//vibecoding/claude_code_sdk/",
         "category" : "vibecoding",
         "content"  : "Anthropic vydal vývojářskou sadu pro Claude Code, která vývojářům umožňuje začlenit AI asistenta do vlastních aplikací. Sada zpřístupňuje funkce Claude Code jako podproces a poskytuje základ pro vytváření vývojářských nástrojů s umělou inteligencí využívajících schopnosti modelu Claude.Základní funkcionalitaVývojářská sada Claude Code umožňuje používat Claude Code v neinteraktivním režimu z aplikací. Sada momentálně podporuje použití přes rozhraní příkazové řádky, zatímco verze pro TypeScript a Python jsou ve vývoji. Základní použití spočívá v zavolání Claude s konkrétním dotazem a získání odpovědi.Vývojáři mohou využít všechny možnosti příkazové řádky dostupné v Claude Code. Klíčové parametry zahrnují --print pro neinteraktivní režim, --output-format pro specifikaci výstupního..."
       }
       
       ,{
         "title"    : "Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran",
-        "url"      : "//vibecoding/claude-code/2025-06-13-claude_code_sdk.md/",
+        "url"      : "//vibecoding/claude_code_sdk.md/",
         "category" : "vibecoding",
         "content"  : "Anthropic vydal vývojářskou sadu pro Claude Code, která vývojářům umožňuje začlenit AI asistenta do vlastních aplikací. Sada zpřístupňuje funkce Claude Code jako podproces a poskytuje základ pro vytváření vývojářských nástrojů s umělou inteligencí využívajících schopnosti modelu Claude.## Základní funkcionalitaVývojářská sada Claude Code umožňuje používat Claude Code v neinteraktivním režimu z aplikací. Sada momentálně podporuje použití přes rozhraní příkazové řádky, zatímco verze pro TypeScript a Python jsou ve vývoji. Základní použití spočívá v zavolání Claude s konkrétním dotazem a získání odpovědi.Vývojáři mohou využít všechny možnosti příkazové řádky dostupné v Claude Code. Klíčové parametry zahrnují `--print` pro neinteraktivní režim, `--output-format` pro specifikaci..."
       }
       
       ,{
         "title"    : "Cursor 1.1 nabídne ToDo List",
-        "url"      : "//vibecoding/cursor/2025-06-13-cursor-todo-list/",
+        "url"      : "//vibecoding/cursor-todo-list/",
         "category" : "vibecoding",
         "content"  : "Nejnovější chystaná verze Cursor v1.1.0 nyní obsahuje „To Do List“, čili seznam úkolů, které má postupně zpracovávat. To umožňuje agentovi používat seznamy úkolů ke sledování pokroku v úkolechDalší integrace se týká propojení, bude možné Cursor lépe napojit na Github a Slack, což doposud zajišťovaly pluginy. Nově agent bude moct přímo přistupovat ke Slacku i Githubu a provádět nad nimi akce. Novinkou mají být také MCP Tools. Ty umožní přístup k dalším službám podporujícím MCP přímo agentovi. Potenciálně rizikové, takže až verze vyjde, zkoušejte opatrně."
       }
       
       ,{
         "title"    : "Cursor 1.1 nabídne ToDo List",
-        "url"      : "//vibecoding/cursor/2025-06-13-cursor-todo-list.md/",
+        "url"      : "//vibecoding/cursor-todo-list.md/",
         "category" : "vibecoding",
         "content"  : "Nejnovější chystaná verze Cursor v1.1.0 nyní obsahuje „To Do List“, čili seznam úkolů, které má postupně zpracovávat. To umožňuje agentovi používat seznamy úkolů ke sledování pokroku v úkolechDalší integrace se týká propojení, bude možné Cursor lépe napojit na Github a Slack, což doposud zajišťovaly pluginy. Nově agent bude moct přímo přistupovat ke Slacku i Githubu a provádět nad nimi akce. Novinkou mají být také MCP Tools. Ty umožní přístup k dalším službám podporujícím MCP přímo agentovi. Potenciálně rizikové, takže až verze vyjde, zkoušejte opatrně. ![Cursor Todo List](/assets/cursor-todolist.jpeg)"
       }
       
       ,{
         "title"    : "Windsurf Wave 10 3",
-        "url"      : "//vibecoding/windsurf/2025-06-13-windsurf-wave-10-3/",
+        "url"      : "//vibecoding/windsurf-wave-10-3/",
         "category" : "vibecoding",
         "content"  : "Poslední den představování novinek ve Windsurf Wave 10 přinesl především podinikové funkce, rozšíření metriky PCW (Percentage of Code Written) a několik vylepšení uživatelského rozhraní. A pro nás tolik zajímavý evropský datový cluster umožňující data skladovat v EU.Evropský cluster garantuje lokalizaci datWindsurf spustil nový evropský cluster umístěný ve Frankfurtu, který je určen speciálně pro evropské firemní zákazníky. Cluster garantuje, že veškeré zpracování a uchovávání dat probíhá výhradně v rámci hranic Evropské unie, včetně využívání modelů třetích stran s bází v Německu.Toto řešení reaguje na rostoucí požadavky na compliance a bezpečnost dat v evropském prostředí. Windsurf již podporuje více než 100 velkých..."
       }
       
       ,{
         "title"    : "Windsurf Wave 10 3.md",
-        "url"      : "//vibecoding/windsurf/2025-06-13-windsurf-wave-10-3.md/",
+        "url"      : "//vibecoding/windsurf-wave-10-3.md/",
         "category" : "vibecoding",
         "content"  : "Poslední den představování novinek ve Windsurf Wave 10 přinesl především podinikové funkce, rozšíření metriky PCW (Percentage of Code Written) a několik vylepšení uživatelského rozhraní. A pro nás tolik zajímavý evropský datový cluster umožňující data skladovat v EU. ## Evropský cluster garantuje lokalizaci dat[Windsurf](https://codeium.com/windsurf) spustil nový evropský cluster umístěný ve Frankfurtu, který je určen speciálně pro evropské firemní zákazníky. Cluster garantuje, že veškeré zpracování a uchovávání dat probíhá výhradně v rámci hranic Evropské unie, včetně využívání modelů třetích stran s bází v Německu.Toto řešení reaguje na rostoucí požadavky na _compliance_ a bezpečnost dat v evropském prostředí. Windsurf již podporuje více než..."
       }
       
       ,{
         "title"    : "OpenAI vylepšil Codex o funkci nejlepšího  výsledku Best of N",
-        "url"      : "//vibecoding/openai-codex/2025-06-14-best-of-n-codex/",
+        "url"      : "//vibecoding/best-of-n-codex/",
         "category" : "vibecoding",
         "content"  : "OpenAI vydal 13. června 2025 aktualizaci vývojářského nástroje Codex s novou funkcí Best of N a praktickými vylepšeními.Hlavní novinka: Best of NCodex nyní generuje současně více variant řešení pro jednu úlohu. Vývojáři tak mohou: Rychle porovnat různé přístupy k problému Vybrat optimální řešení bez opakovaného zadávání Efektivněji experimentovat s programovacími vzory Prozkoumávat více implementací algoritmu najednouPraktická vylepšeníNové funkce: Klávesové zkratky (⌘-/ na macOS, Ctrl+/ na ostatních systémech) Podpora URL parametru “branch” pro lepší organizaci projektů Možnost zrušení probíhající úlohy Indikátor načítání při stahování repozitářeTechnické změny: Časový limit instalačních skriptů navýšen na 20 minut (Pro/Team/Business) Lepší zpracování síťových omezení Častější aktualizace..."
       }
       
       ,{
         "title"    : "OpenAI vylepšil Codex o funkci nejlepšího  výsledku Best of N",
-        "url"      : "//vibecoding/openai-codex/2025-06-14-best-of-n-codex.md/",
+        "url"      : "//vibecoding/best-of-n-codex.md/",
         "category" : "vibecoding",
         "content"  : "OpenAI vydal 13. června 2025 aktualizaci vývojářského nástroje Codex s novou funkcí Best of N a praktickými vylepšeními.## Hlavní novinka: Best of NCodex nyní generuje současně více variant řešení pro jednu úlohu. Vývojáři tak mohou:- Rychle porovnat různé přístupy k problému- Vybrat optimální řešení bez opakovaného zadávání- Efektivněji experimentovat s programovacími vzory- Prozkoumávat více implementací algoritmu najednou## Praktická vylepšení**Nové funkce:**- Klávesové zkratky (⌘-/ na macOS, Ctrl+/ na ostatních systémech)- Podpora URL parametru &quot;branch&quot; pro lepší organizaci projektů- Možnost zrušení probíhající úlohy- Indikátor načítání při stahování repozitáře**Technické změny:**- Časový limit instalačních skriptů navýšen na 20 minut (Pro/Team/Business)- Lepší zpracování síťových omezení-..."
       }
       
       ,{
         "title"    : "Softgen AI přidává uložené příkazy a plánovací režim",
-        "url"      : "//vibecoding/2025-06-15-softgen-planing/",
+        "url"      : "//vibecoding/softgen-planing/",
         "category" : "vibecoding",
         "content"  : "Softgen AI nabídla dvě nové funkce - uložené příkazy a plánovací režim. Je to trend, který se ve vibecoding aplikacích v poslední době objevuje, nově tedy i v Softgenu. Podle údajů společnosti Softgen využívá 110 000 vývojářů a týmů.Uložené příkazy pro efektivnější práciFunkce uložených příkazů umožňuje uložení a opakované použití často používaných instrukcí. Uživatelé mohou vytvářet vlastní příkazy nebo využívat předpřipravené příklady pro řešení běžných úkolů. Mezi dostupné příklady patří: Brainstorm Core App Features - plánování základních funkcí aplikace Design Basic Data Structure - návrh datové organizace Implement Simple User Signup &amp;amp; Login - nastavení základní autentizace Quick Error Check..."
       }
       
       ,{
         "title"    : "Softgen AI přidává uložené příkazy a plánovací režim",
-        "url"      : "//vibecoding/2025-06-15-softgen-planing.md/",
+        "url"      : "//vibecoding/softgen-planing.md/",
         "category" : "vibecoding",
         "content"  : "Softgen AI nabídla dvě nové funkce - uložené příkazy a plánovací režim. Je to trend, který se ve vibecoding aplikacích v poslední době objevuje, nově tedy i v Softgenu. Podle údajů společnosti Softgen využívá 110 000 vývojářů a týmů.## Uložené příkazy pro efektivnější práciFunkce uložených příkazů umožňuje uložení a opakované použití často používaných instrukcí. Uživatelé mohou vytvářet vlastní příkazy nebo využívat předpřipravené příklady pro řešení běžných úkolů. Mezi dostupné příklady patří:- **Brainstorm Core App Features** - plánování základních funkcí aplikace- **Design Basic Data Structure** - návrh datové organizace- **Implement Simple User Signup &amp; Login** - nastavení základní autentizace- **Quick Error..."
       }
       
       ,{
         "title"    : "Lovable rozšiřuje bezpečnostní funkce pro tvorbu aplikací bez kódování",
-        "url"      : "//vibecoding/lovable-dev/2025-06-15-lovable-security-scan/",
+        "url"      : "//vibecoding/lovable-security-scan/",
         "category" : "vibecoding",
         "content"  : "Platforma Lovable pro tvorbu aplikací bez programování přidala tři bezpečnostní funkce k ochraně citlivých dat. Změny zahrnují automatické skenování, AI revizoře kódu a blokování nebezpečného vkládání API klíčů.Automatické bezpečnostní skenováníLovable kontroluje aplikace před zveřejněním pomocí Supabase Security Advisor. Skenování se zaměřuje na Row Level Security (RLS) politiky - SQL pravidla řízení přístupu k databázi. Systém identifikuje chybějící nebo příliš široké politiky, které by umožnily neoprávněný přístup k datům.AI revizor zranitelnostíSecurity Reviewer analyzuje celý kód aplikace a hledá širší spektrum bezpečnostních problémů: SQL injection útoky - nebezpečné vkládání SQL kódu Cross-site scripting (XSS) - útoky škodlivým JavaScriptem Problémy s autentizací -..."
       }
       
       ,{
         "title"    : "Lovable rozšiřuje bezpečnostní funkce pro tvorbu aplikací bez kódování",
-        "url"      : "//vibecoding/lovable-dev/2025-06-15-lovable-security-scan.md/",
+        "url"      : "//vibecoding/lovable-security-scan.md/",
         "category" : "vibecoding",
         "content"  : "Platforma Lovable pro tvorbu aplikací bez programování přidala tři bezpečnostní funkce k ochraně citlivých dat. Změny zahrnují automatické skenování, AI revizoře kódu a blokování nebezpečného vkládání API klíčů.## Automatické bezpečnostní skenováníLovable kontroluje aplikace před zveřejněním pomocí Supabase Security Advisor. Skenování se zaměřuje na Row Level Security (RLS) politiky - SQL pravidla řízení přístupu k databázi. Systém identifikuje chybějící nebo příliš široké politiky, které by umožnily neoprávněný přístup k datům.## AI revizor zranitelnostíSecurity Reviewer analyzuje celý kód aplikace a hledá širší spektrum bezpečnostních problémů:- **SQL injection útoky** - nebezpečné vkládání SQL kódu- **Cross-site scripting (XSS)** - útoky škodlivým JavaScriptem - **Problémy..."
       }
       
       ,{
         "title"    : "Claude Code přidává podporu MCP serveru",
-        "url"      : "//vibecoding/claude-code/2025-06-20-claude-code-mcp/",
+        "url"      : "//vibecoding/claude-code-mcp/",
         "category" : "vibecoding",
         "content"  : "Nyní se můžete připojit ke vzdáleným serverům MCP z Claude Code, což vám umožní přizpůsobit Claude Code tak, aby používal vaše oblíbené nástroje.Lze tak přenášet data z jiných nástrojů přímo do Claude Code automatizovaně, bez neoblíbeného copy-paste.Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeba žádné místní nastavení ani konfigurace. Detaily najdete v dokumentaci."
       }
       
       ,{
         "title"    : "Claude Code přidává podporu MCP serveru",
-        "url"      : "//vibecoding/claude-code/2025-06-20-claude-code-mcp.md/",
+        "url"      : "//vibecoding/claude-code-mcp.md/",
         "category" : "vibecoding",
         "content"  : "Nyní se můžete připojit ke vzdáleným serverům MCP z Claude Code, což vám umožní přizpůsobit Claude Code tak, aby používal vaše oblíbené nástroje.Lze tak přenášet data z jiných nástrojů přímo do Claude Code automatizovaně, bez neoblíbeného copy-paste.Se vzdáleným MCP je to stejně snadné jako vložení URL serveru; není třeba žádné místní nastavení ani konfigurace. Detaily najdete v [dokumentaci](https://docs.anthropic.com/en/docs/claude-code/mcp)."
       }
       
       ,{
         "title"    : "Databutton integruje databázi a ověřování do aplikací vytvářených umělou inteligencí",
-        "url"      : "//vibecoding/databutton/2025-06-20-databutton_databaze/",
+        "url"      : "//vibecoding/databutton_databaze/",
         "category" : "vibecoding",
         "content"  : "Platforma Databutton oznámila integraci databáze a systému ověřování uživatelů přímo do svého nástroje pro vytváření aplikací pomocí umělé inteligence. Tato aktualizace má podle společnosti eliminovat potřebu externích služeb a zjednodušit proces vývoje aplikací pro firemní uživatele. Dlužno říct: sláva! Tohle je při vibecodingu zatím velká frustrace, jste schopni se dlouho točit na neschopnosti dobře a bezpečně se připojit z apliace do databáze nebo nastavit ověřování užívatelů…Technické řešení postavené na Neon DatabaseNově integrovaná funkcionalita využívá technologii Neon Database, což je platforma pro správu PostgreSQL databází v cloudu. Tato integrace přináší tři klíčové funkce do každé nově vytvořené aplikace na platformě Databutton:..."
       }
       
       ,{
         "title"    : "Databutton integruje databázi a ověřování do aplikací vytvářených umělou inteligencí",
-        "url"      : "//vibecoding/databutton/2025-06-20-databutton_databaze.md/",
+        "url"      : "//vibecoding/databutton_databaze.md/",
         "category" : "vibecoding",
         "content"  : "Platforma Databutton oznámila integraci databáze a systému ověřování uživatelů přímo do svého nástroje pro vytváření aplikací pomocí umělé inteligence. Tato aktualizace má podle společnosti eliminovat potřebu externích služeb a zjednodušit proces vývoje aplikací pro firemní uživatele. Dlužno říct: sláva! Tohle je při vibecodingu zatím velká frustrace, jste schopni se dlouho točit na neschopnosti dobře a bezpečně se připojit z apliace do databáze nebo nastavit ověřování užívatelů...## Technické řešení postavené na Neon DatabaseNově integrovaná funkcionalita využívá technologii [Neon Database](https://neon.tech/), což je platforma pro správu PostgreSQL databází v cloudu. Tato integrace přináší tři klíčové funkce do každé nově vytvořené aplikace na platformě..."
       }
       
       ,{
         "title"    : "Google uvedl Gemini CLI",
-        "url"      : "//vibecoding/gemini-cli/2025-06-25-gemini-cli/",
+        "url"      : "//vibecoding/gemini-cli/",
         "category" : "vibecoding",
         "content"  : "Gemini CLI je tady! Open-source CLI, které přináší modely Google Gemini 2.5 přímo do vašeho terminálu! S řadou velmi pokročilých funkcí se hned staví na špičku CLI vibecoding rozhraní! Postaveno na Gemini 2.5 Pro 1 milion tokenů v kontextovém okně Bezplatná verze s 60 požadavky za minutu a 1 000 za den Google Search pro kontext v reálném čase Podpora skriptů a pluginůA co dál? Hierarchická paměť a pokyny ze souborů GEMINI md. Integrované nástroje pro souborový systém, shell, servery MCP a nové sdílené vlastní rozšíření. Multimodální kontext, rozumí obrázkům, PDF a živým výsledkům vyhledávání na webu. Podporuje bezpečné nástroje..."
       }
       
       ,{
         "title"    : "Google uvedl Gemini CLI",
-        "url"      : "//vibecoding/gemini-cli/2025-06-25-gemini-cli.md/",
+        "url"      : "//vibecoding/gemini-cli.md/",
         "category" : "vibecoding",
         "content"  : "Gemini CLI je tady! Open-source CLI, které přináší modely Google Gemini 2.5 přímo do vašeho terminálu! S řadou velmi pokročilých funkcí se hned staví na špičku CLI vibecoding rozhraní!- Postaveno na Gemini 2.5 Pro- 1 milion tokenů v kontextovém okně- Bezplatná verze s 60 požadavky za minutu a 1 000 za den- Google Search pro kontext v reálném čase- Podpora skriptů a pluginůA co dál?- Hierarchická paměť a pokyny ze souborů GEMINI md.- Integrované nástroje pro souborový systém, shell, servery MCP a nové sdílené vlastní rozšíření.- Multimodální kontext, rozumí obrázkům, PDF a živým výsledkům vyhledávání na webu.- Podporuje bezpečné nástroje..."
       }
       
       ,{
         "title"    : "Tipy a triky pro efektivní vývoj s platformou Lovable",
-        "url"      : "//vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable/",
+        "url"      : "//vibecoding/jak-vyvijet-s-lovable/",
         "category" : "vibecoding",
         "content"  : "Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal.Základní principy práce s příkazyPoužívejte popisná klíčová slova místo pouhých technických instrukcí. Namísto obecného “Vytvoř mi vstupní stránku / landing page” je efektivnější napsat “Vytvoř velkolepou vstupní stránku, která představí prémiovou wellness značku pomocí příběhových sekcí a špičkového vizuálního designu.” Klíčová slova jako “minimalistický, glassmorfní, plovoucí prvky” nebo “hravý, výrazný, jasné barvy, zaoblené rohy” dokážou okamžitě povýšit kvalitu návrhu,..."
       }
       
       ,{
         "title"    : "Tipy a triky pro efektivní vývoj s platformou Lovable",
-        "url"      : "//vibecoding/lovable-dev/2025-06-25-jak-vyvijet-s-lovable.md/",
+        "url"      : "//vibecoding/jak-vyvijet-s-lovable.md/",
         "category" : "vibecoding",
         "content"  : "Designer švédského vibecoding startupu Lovable Felix Haas na svých sociálních sítích nasdílel svoje zkušenosti s tím, jak nejlépe vyvíjet na platformě Lovable.dev. Jeho doporučení jsem prošel a upravil je pro české poměry, protože sám jsem Lovable v poslední době docela dost používal. ## Základní principy práce s příkazy**Používejte popisná klíčová slova místo pouhých technických instrukcí.** Namísto obecného &quot;Vytvoř mi vstupní stránku / landing page&quot; je efektivnější napsat &quot;Vytvoř velkolepou vstupní stránku, která představí prémiovou wellness značku pomocí příběhových sekcí a špičkového vizuálního designu.&quot; Klíčová slova jako &quot;minimalistický, glassmorfní, plovoucí prvky&quot; nebo &quot;hravý, výrazný, jasné barvy, zaoblené rohy&quot; dokážou okamžitě povýšit..."
       }
       
       ,{
         "title"    : "Claude Code Hooks",
-        "url"      : "//vibecoding/claude-code/2025-07-01-claude-code-hooks/",
+        "url"      : "//vibecoding/claude-code-hooks/",
         "category" : "vibecoding",
         "content"  : "Anthropic rozšířil svůj nástroj Claude Code o novou funkci nazvanou Hooks, která umožňuje vývojářům automatizovat různé úkoly a rozšířit možnosti tohoto nástroje pro práci s umělou inteligencí v příkazové řádce. Systém umožňuje spouštět vlastní skripty při specifických událostech během používání Claude Code.Princip fungování HooksHooks fungují jako automatické spouštěče, které reagují na čtyři základní typy událostí v Claude Code. Systém PreToolUse se aktivuje před použitím nástroje a umožňuje například validaci příkazů nebo kontrolu bezpečnosti. PostToolUse se spouští po dokončení operace a hodí se pro úkoly jako je formátování kódu nebo zápis do logů. Notification slouží pro zasílání upozornění, zatímco Stop umožňuje..."
       }
       
       ,{
         "title"    : "Claude Code Hooks",
-        "url"      : "//vibecoding/claude-code/2025-07-01-claude-code-hooks.md/",
+        "url"      : "//vibecoding/claude-code-hooks.md/",
         "category" : "vibecoding",
         "content"  : "Anthropic rozšířil svůj nástroj Claude Code o novou funkci nazvanou Hooks, která umožňuje vývojářům automatizovat různé úkoly a rozšířit možnosti tohoto nástroje pro práci s umělou inteligencí v příkazové řádce. Systém umožňuje spouštět vlastní skripty při specifických událostech během používání Claude Code.## Princip fungování HooksHooks fungují jako automatické spouštěče, které reagují na čtyři základní typy událostí v Claude Code. Systém **PreToolUse** se aktivuje před použitím nástroje a umožňuje například validaci příkazů nebo kontrolu bezpečnosti. **PostToolUse** se spouští po dokončení operace a hodí se pro úkoly jako je formátování kódu nebo zápis do logů. **Notification** slouží pro zasílání upozornění, zatímco **Stop**..."
       }
       
       ,{
         "title"    : "Replit Agent získal dynamickou inteligenci",
-        "url"      : "//vibecoding/replit/2025-07-02-replit-dynamicka-inteligence/",
+        "url"      : "//vibecoding/replit-dynamicka-inteligence/",
         "category" : "vibecoding",
         "content"  : "Společnost Replit oznámila rozšíření svého vývojářského asistenta Agent o tři nové schopnosti, které označuje jako “dynamickou inteligenci”. Tyto funkce mají zvýšit autonomii nástroje při vývoji aplikací a umožnit mu řešit složitější problémy s minimálním vedením ze strany uživatele.Tři nové schopnosti agentaNové funkce zahrnují rozšířené uvažování, výkonnější model a webové vyhledávání. Každou z těchto funkcí lze zapnout nebo vypnout podle konkrétního požadavku, což umožňuje přizpůsobit chování agenta specifickým potřebám úkolu.Extended thinking (rozšířené uvažování) instruuje agenta, aby zpomalil a přemýšlel hlouběji o daném problému. Tato funkce zobrazuje části postupného uvažování před poskytnutím finálního výsledku, což umožňuje uživateli sledovat myšlenkový proces. Replit doporučuje..."
       }
       
       ,{
         "title"    : "Replit Agent získal dynamickou inteligenci",
-        "url"      : "//vibecoding/replit/2025-07-02-replit-dynamicka-inteligence.md/",
+        "url"      : "//vibecoding/replit-dynamicka-inteligence.md/",
         "category" : "vibecoding",
         "content"  : "Společnost Replit [oznámila](https://blog.replit.com/dynamic-intelligence) rozšíření svého vývojářského asistenta Agent o tři nové schopnosti, které označuje jako “dynamickou inteligenci”. Tyto funkce mají zvýšit autonomii nástroje při vývoji aplikací a umožnit mu řešit složitější problémy s minimálním vedením ze strany uživatele.## Tři nové schopnosti agentaNové funkce zahrnují rozšířené uvažování, výkonnější model a webové vyhledávání. Každou z těchto funkcí lze zapnout nebo vypnout podle konkrétního požadavku, což umožňuje přizpůsobit chování agenta specifickým potřebám úkolu.**Extended thinking** (rozšířené uvažování) instruuje agenta, aby zpomalil a přemýšlel hlouběji o daném problému. Tato funkce zobrazuje části postupného uvažování před poskytnutím finálního výsledku, což umožňuje uživateli sledovat myšlenkový proces. Replit..."
       }
       
       ,{
         "title"    : "Trae Agent je nově open source",
-        "url"      : "//vibecoding/ostatni/2025-0703-trae-agent-open-source/",
+        "url"      : "//vibecoding/2025-0703-trae-agent-open-source/",
         "category" : "vibecoding",
         "content"  : "Trae Agent je agent založený na LLM pro obecné úlohy softwarového inženýrství. nově byl uvolněn jako open source.Trae Agent poskytuje výkonné rozhraní CLI, které dokáže porozumět instrukcím v přirozeném jazyce a provádět složité pracovní postupy softwarového inženýrství pomocí různých nástrojů a poskytovatelů LLM.Funkce 🌊 Lakeview: Poskytuje stručné a výstižné shrnutí kroků agenta 🤖 Podpora více LLM: Pracuje s oficiálními rozhraními API OpenAI a Anthropic 🛠️ Bohatý ekosystém nástrojů: Úprava souborů, spouštění bash, sekvenční myšlení a další funkce 🎯 Interaktivní režim: Konverzační rozhraní pro iterativní vývoj 📊 Záznam trajektorie: Podrobné zaznamenávání všech akcí agenta pro ladění a analýzu ⚙️ Flexibilní konfigurace:..."
       }
       
       ,{
         "title"    : "Trae Agent je nově open source",
-        "url"      : "//vibecoding/ostatni/2025-0703-trae-agent-open-source.md/",
+        "url"      : "//vibecoding/2025-0703-trae-agent-open-source.md/",
         "category" : "vibecoding",
         "content"  : "Trae Agent je agent založený na LLM pro obecné úlohy softwarového inženýrství. nově byl [uvolněn jako open source](https://github.com/bytedance/trae-agent).Trae Agent poskytuje výkonné rozhraní CLI, které dokáže porozumět instrukcím v přirozeném jazyce a provádět složité pracovní postupy softwarového inženýrství pomocí různých nástrojů a poskytovatelů LLM.### Funkce- 🌊 Lakeview: Poskytuje stručné a výstižné shrnutí kroků agenta- 🤖 Podpora více LLM: Pracuje s oficiálními rozhraními API OpenAI a Anthropic- 🛠️ Bohatý ekosystém nástrojů: Úprava souborů, spouštění bash, sekvenční myšlení a další funkce- 🎯 Interaktivní režim: Konverzační rozhraní pro iterativní vývoj- 📊 Záznam trajektorie: Podrobné zaznamenávání všech akcí agenta pro ladění a analýzu- ⚙️ Flexibilní..."
       }
       
       ,{
         "title"    : "Používání subagentů v Claude Code",
-        "url"      : "//vibecoding/claude-code/2025-07-13-claude_code_subagenti/",
+        "url"      : "//vibecoding/claude_code_subagenti/",
         "category" : "vibecoding",
         "content"  : "Claude Code umožňuje využívat takzvané subagenty pro paralelní zpracování úkolů. Tyto subagenti představují způsob, jak efektivně rozdělit práci při analýze rozsáhlých projektů nebo provádění nezávislých operací současně.Definice a princip fungování subagentůSubagent představuje odlehčenou instanci Claude Code, která běží uvnitř úkolu prostřednictvím Task Tool. Při spuštění subagenta se v uživatelském rozhraní zobrazuje označení “Task(Performing task X)”, které signalizuje aktivní provádění konkrétního úkolu. Klíčovou vlastností subagentů je jejich schopnost běžet paralelně, což umožňuje současné zpracování více nezávislých úkolů.Každý subagent disponuje vlastním kontextovým oknem, což představuje významnou výhodu při práci s rozsáhlými kódovými projekty. Toto řešení efektivně rozšiřuje dostupnou paměť pro zpracování komplexních..."
       }
       
       ,{
         "title"    : "Používání subagentů v Claude Code",
-        "url"      : "//vibecoding/claude-code/2025-07-13-claude_code_subagenti.md/",
+        "url"      : "//vibecoding/claude_code_subagenti.md/",
         "category" : "vibecoding",
         "content"  : "Claude Code umožňuje využívat takzvané subagenty pro paralelní zpracování úkolů. Tyto subagenti představují způsob, jak efektivně rozdělit práci při analýze rozsáhlých projektů nebo provádění nezávislých operací současně.## Definice a princip fungování subagentůSubagent představuje odlehčenou instanci Claude Code, která běží uvnitř úkolu prostřednictvím Task Tool. Při spuštění subagenta se v uživatelském rozhraní zobrazuje označení &quot;Task(Performing task X)&quot;, které signalizuje aktivní provádění konkrétního úkolu. Klíčovou vlastností subagentů je jejich schopnost běžet paralelně, což umožňuje současné zpracování více nezávislých úkolů.Každý subagent disponuje vlastním kontextovým oknem, což představuje významnou výhodu při práci s rozsáhlými kódovými projekty. Toto řešení efektivně rozšiřuje dostupnou paměť pro zpracování..."
       }
       
       ,{
         "title"    : "Lovable má nový vizuální editor",
-        "url"      : "//vibecoding/lovable-dev/2025-07-13-lovable-visual-edit/",
+        "url"      : "//vibecoding/lovable-visual-edit/",
         "category" : "vibecoding",
         "content"  : "Nyní je vizuální editor v Lovable rychlejší, čistší a mnohem intuitivnější.Jak to funguje:• Klikněte na „Upravit“ ve vstupním poli• Vyberte libovolný prvek• Vizuální úpravy stylů (barva, velikost, obsah) jde naklikat ihned• Nebo jen vyzvěte: „Nechat toto tlačítko vyskakovat“Klikněte. Upravit. Hotovo.  A je to zdarma, kredity se nepoužívají."
       }
       
       ,{
         "title"    : "Lovable má nový vizuální editor",
-        "url"      : "//vibecoding/lovable-dev/2025-07-13-lovable-visual-edit.md/",
+        "url"      : "//vibecoding/lovable-visual-edit.md/",
         "category" : "vibecoding",
         "content"  : "Nyní je vizuální editor v Lovable rychlejší, čistší a mnohem intuitivnější.Jak to funguje:• Klikněte na „Upravit“ ve vstupním poli• Vyberte libovolný prvek• Vizuální úpravy stylů (barva, velikost, obsah) jde naklikat ihned• Nebo jen vyzvěte: „Nechat toto tlačítko vyskakovat“Klikněte. Upravit. Hotovo.  A je to zdarma, kredity se nepoužívají."
       }
       
       ,{
         "title"    : "Novinky v Gemini CLI a roadmapa funkcí",
-        "url"      : "//vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa/",
+        "url"      : "//vibecoding/gemini-cli-roadmapa/",
         "category" : "vibecoding",
         "content"  : "Vývojový nástroj Gemini CLI má publikovanou roadmpu, takže se můžete podívat, kdy přibudou nové další funkce. A hlavně, jaké to budou. Držím palce, ať ji udrží a dodrží.Zároveň Philipp Schmid z Google DeepMind publikoval na X sumář věcí, které byly do Geminy CLI v poslední době zahrnuty. Gemini CLI jde systémem zahrnování pull requestů, které nyní přidávají jiní autoři a hodně z toho těží. Sloučil cca 150 PR od více než 75 přispěvatelů. Gemini CLI je nyní nainstalováno ve výchozím nastavení v @Firebase Studio. Zde jsou další klíčová vylepšení: Přidána podpora vkládání obrázků ze schránky pro macOS. (jaysondasher) Zavedeno systémové..."
       }
       
       ,{
         "title"    : "Novinky v Gemini CLI a roadmapa funkcí",
-        "url"      : "//vibecoding/gemini-cli/2025-07-17-gemini-cli-roadmapa.md/",
+        "url"      : "//vibecoding/gemini-cli-roadmapa.md/",
         "category" : "vibecoding",
         "content"  : "Vývojový nástroj Gemini CLI má [publikovanou roadmpu](https://github.com/google-gemini/gemini-cli/blob/main/ROADMAP.md), takže se můžete podívat, kdy přibudou nové další funkce. A hlavně, jaké to budou. Držím palce, ať ji udrží a dodrží. Zároveň Philipp Schmid z Google DeepMind publikoval na X sumář věcí, které byly do Geminy CLI v poslední době zahrnuty. Gemini CLI jde systémem zahrnování pull requestů, které nyní přidávají jiní autoři a hodně z toho těží. Sloučil cca 150 PR od více než 75 přispěvatelů. Gemini CLI je nyní nainstalováno ve výchozím nastavení v @Firebase Studio. Zde jsou další klíčová vylepšení:- Přidána podpora vkládání obrázků ze schránky pro macOS. (jaysondasher)- Zavedeno..."
       }
       
       ,{
         "title"    : "Anthropic omezí Claude Code Max novými týdenními limity",
-        "url"      : "//vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max/",
+        "url"      : "//vibecoding/limity-pro-claude-code-max/",
         "category" : "vibecoding",
         "content"  : "Společnost Anthropic, vývojář konverzačního asistenta Claude, zavede od 28. srpna 2025 nové týdenní limity používání pro předplatitele. Opatření má podle firmy zajistit spravedlivější přístup ke kapacitě systému a řešit problémy s porušováním pravidel používání služby.Nové omezení se dotkne méně než pěti procent současných uživatelů na základě aktuálních vzorců používání. Anthropic jako hlavní důvod uvádí nebývalý růst nástroje Claude Code, který je součástí předplatitelského balíčku, a identifikované případy porušování pravidel včetně sdílení účtů a prodeje přístupu třetím stranám.Struktura nových omezeníAnthropic zachová stávající pětihodinové limity pro jednotlivé relace a přidá dvě nové úrovně týdenních omezení. Každý týdenní limit se obnovuje každých sedm..."
       }
       
       ,{
         "title"    : "Anthropic omezí Claude Code Max novými týdenními limity",
-        "url"      : "//vibecoding/claude-code/2025-07-29-limity-pro-claude-code-max.md/",
+        "url"      : "//vibecoding/limity-pro-claude-code-max.md/",
         "category" : "vibecoding",
         "content"  : "Společnost Anthropic, vývojář konverzačního asistenta Claude, zavede od 28. srpna 2025 nové týdenní limity používání pro předplatitele. Opatření má podle firmy zajistit spravedlivější přístup ke kapacitě systému a řešit problémy s porušováním pravidel používání služby.Nové omezení se dotkne méně než pěti procent současných uživatelů na základě aktuálních vzorců používání. Anthropic jako hlavní důvod uvádí nebývalý růst nástroje Claude Code, který je součástí předplatitelského balíčku, a identifikované případy porušování pravidel včetně sdílení účtů a prodeje přístupu třetím stranám.## Struktura nových omezeníAnthropic zachová stávající pětihodinové limity pro jednotlivé relace a přidá dvě nové úrovně týdenních omezení. Každý týdenní limit se obnovuje každých..."
       }
       
       ,{
         "title"    : "Novinky v Cursor 1.3",
-        "url"      : "//vibecoding/cursor/2025-07-30-cursor-1-3/",
+        "url"      : "//vibecoding/cursor-1-3/",
         "category" : "vibecoding",
         "content"  : "Společnost Cursor vydala 29. července 2025 verzi 1.3 svého AI editoru kódu se zaměřením na zlepšení integrace s operačním systémem a výrazné zrychlení editačních operací. Klíčovou novinkou je sdílený terminál mezi uživatelem a AI agentem, který zjednodušuje spolupráci při provádění systémových příkazů.Sdílený terminál s AI agentemNejpodstatnější změnou je možnost AI agenta používat nativní terminál uživatele. Agent automaticky vytvoří nový terminál podle potřeby, který běží na pozadí, pokud již není otevřený. Uživatelé mohou kliknout na tlačítko “Focus” a přenést terminál do popředí, kde vidí příkazy spouštěné agentem a mohou kdykoliv převzít kontrolu.Tato funkce eliminuje předchozí omezení, kdy agent používal simulovaný terminál,..."
       }
       
       ,{
         "title"    : "Novinky v Cursor 1.3",
-        "url"      : "//vibecoding/cursor/2025-07-30-cursor-1-3.md/",
+        "url"      : "//vibecoding/cursor-1-3.md/",
         "category" : "vibecoding",
         "content"  : "Společnost Cursor vydala 29. července 2025 verzi 1.3 svého AI editoru kódu se zaměřením na zlepšení integrace s operačním systémem a výrazné zrychlení editačních operací. Klíčovou novinkou je sdílený terminál mezi uživatelem a AI agentem, který zjednodušuje spolupráci při provádění systémových příkazů.## Sdílený terminál s AI agentemNejpodstatnější změnou je možnost AI agenta používat nativní terminál uživatele. Agent automaticky vytvoří nový terminál podle potřeby, který běží na pozadí, pokud již není otevřený. Uživatelé mohou kliknout na tlačítko “Focus” a přenést terminál do popředí, kde vidí příkazy spouštěné agentem a mohou kdykoliv převzít kontrolu.Tato funkce eliminuje předchozí omezení, kdy agent používal simulovaný..."
       }
       
       ,{
         "title"    : "Claude Code 1.6x rozšiřuje možnosti vlastních agentů a zlepšuje Windows podporu",
-        "url"      : "//vibecoding/claude-code/2025-07-31-claudecode1-6/",
+        "url"      : "//vibecoding/claudecode1-6/",
         "category" : "vibecoding",
         "content"  : "Anthropic pokračuje ve vývoji svého příkazového nástroje Claude Code, který umožňuje vývojářům pracovat s AI asistentem Claude přímo z terminálu. Poslední čtyři aktualizace (verze 1.0.61 až 1.0.64) přinášejí významná vylepšení v oblasti vlastních agentů, systémových hooks a podpory různých platforem.Claude Code funguje jako most mezi vývojáři a AI modelem Claude, umožňuje delegovat programátorské úkoly, automatizovat workflow a integrovat AI asistenta do vývojového procesu. Nástroj podporuje vytváření vlastních agentů pro specifické úkoly, hooks pro automatizaci a SDK pro pokročilé integrace.Vlastní agenti získávají flexibilitu modeluVerze 1.0.64 zavedla klíčovou funkcionalitu - možnost specifikovat, který AI model má konkrétní agent používat. Tato změna umožňuje..."
       }
       
       ,{
         "title"    : "Claude Code 1.6x rozšiřuje možnosti vlastních agentů a zlepšuje Windows podporu",
-        "url"      : "//vibecoding/claude-code/2025-07-31-claudecode1-6.md/",
+        "url"      : "//vibecoding/claudecode1-6.md/",
         "category" : "vibecoding",
         "content"  : "Anthropic pokračuje ve vývoji svého příkazového nástroje Claude Code, který umožňuje vývojářům pracovat s AI asistentem Claude přímo z terminálu. Poslední čtyři aktualizace (verze 1.0.61 až 1.0.64) přinášejí významná vylepšení v oblasti vlastních agentů, systémových hooks a podpory různých platforem.Claude Code funguje jako most mezi vývojáři a AI modelem Claude, umožňuje delegovat programátorské úkoly, automatizovat workflow a integrovat AI asistenta do vývojového procesu. Nástroj podporuje vytváření vlastních agentů pro specifické úkoly, hooks pro automatizaci a SDK pro pokročilé integrace.## Vlastní agenti získávají flexibilitu modeluVerze 1.0.64 zavedla klíčovou funkcionalitu - možnost specifikovat, který AI model má konkrétní agent používat. Tato změna..."
       }
       
       ,{
         "title"    : "Gemini CLI 0.1.15 rozšiřuje možnosti o vlastní příkazy a vim mód",
-        "url"      : "//vibecoding/gemini-cli/2025-07-31-gemini_cli_0-1-15/",
+        "url"      : "//vibecoding/gemini_cli_0-1-15/",
         "category" : "vibecoding",
         "content"  : "Google vydal týdenní aktualizaci svého nástroje Gemini CLI na verzi 0.1.15, která přináší řadu praktických funkcí pro vývojáře. Mezi nejpodstatnější změny patří možnost vytváření vlastních příkazů, podpora vim navigace a vylepšené zobrazení rozdílů v kódu.Vlastní slash příkazy pro opakované úkolyNejvýznamnější novinkou jsou vlastní slash příkazy, které umožňují definovat opakovaně použitelné prompty. Funkce slouží k zrychlení běžných pracovních postupů tím, že vývojáři mohou vytvořit zkratky pro často používané instrukce nebo dotazy. Místo opakovaného zadávání dlouhých promptů stačí použít krátký příkaz začínający lomítkem.Systém vlastních příkazů představuje praktické řešení pro automatizaci rutinních úkolů v rámci práce s jazykovým modelem. Vývojáři mohou například vytvořit..."
       }
       
       ,{
         "title"    : "Gemini CLI 0.1.15 rozšiřuje možnosti o vlastní příkazy a vim mód",
-        "url"      : "//vibecoding/gemini-cli/2025-07-31-gemini_cli_0-1-15.md/",
+        "url"      : "//vibecoding/gemini_cli_0-1-15.md/",
         "category" : "vibecoding",
         "content"  : "Google vydal týdenní aktualizaci svého nástroje Gemini CLI na verzi 0.1.15, která přináší řadu praktických funkcí pro vývojáře. Mezi nejpodstatnější změny patří možnost vytváření vlastních příkazů, podpora vim navigace a vylepšené zobrazení rozdílů v kódu.## Vlastní slash příkazy pro opakované úkolyNejvýznamnější novinkou jsou [vlastní slash příkazy](https://cloud.google.com/blog/topics/developers-practitioners/gemini-cli-custom-slashcommands), které umožňují definovat opakovaně použitelné prompty. Funkce slouží k zrychlení běžných pracovních postupů tím, že vývojáři mohou vytvořit zkratky pro často používané instrukce nebo dotazy. Místo opakovaného zadávání dlouhých promptů stačí použít krátký příkaz začínający lomítkem.Systém vlastních příkazů představuje praktické řešení pro automatizaci rutinních úkolů v rámci práce s jazykovým modelem. Vývojáři mohou například..."
       }
       
       ,{
         "title"    : "Replit automaticky řadí úlohy do fronty a další vylepšení",
-        "url"      : "//vibecoding/replit/2025-08-02-replit-obrazky-agenti/",
+        "url"      : "//vibecoding/replit-obrazky-agenti/",
         "category" : "vibecoding",
         "content"  : "Cloudová vývojářská platforma Replit pokračuje v rozšiřování svých AI funkcí a představila během července a srpna 2025 několik významných novinek. Mezi nejdůležitější patří možnost generování obrázků přímo v aplikacích, pokročilé možnosti konfigurace AI agenta a vylepšená správa domén.Generování obrázků přímo v ReplituReplit nyní umožňuje generovat obrázky přímo uvnitř vývojového prostředí. Funkce se aktivuje v nástrojích agenta a poskytuje vývojářům možnost vytvářet AI generované obrázky pro své aplikace bez nutnosti používat externí služby.Soubor replit.md pro přizpůsobení agentaNejvýznamnější novinkou je zavedení konfiguračního souboru replit.md, který umožňuje podrobné přizpůsobení chování AI agenta podle specifických potřeb projektu. Tento speciální soubor pomáhá agentovi porozumět preferencím..."
       }
       
       ,{
         "title"    : "Replit automaticky řadí úlohy do fronty a další vylepšení",
-        "url"      : "//vibecoding/replit/2025-08-02-replit-obrazky-agenti.md/",
+        "url"      : "//vibecoding/replit-obrazky-agenti.md/",
         "category" : "vibecoding",
         "content"  : "Cloudová vývojářská platforma Replit pokračuje v rozšiřování svých AI funkcí a představila během července a srpna 2025 několik významných novinek. Mezi nejdůležitější patří možnost generování obrázků přímo v aplikacích, pokročilé možnosti konfigurace AI agenta a vylepšená správa domén.### Generování obrázků přímo v ReplituReplit nyní umožňuje generovat obrázky přímo uvnitř vývojového prostředí. Funkce se aktivuje v nástrojích agenta a poskytuje vývojářům možnost vytvářet AI generované obrázky pro své aplikace bez nutnosti používat externí služby. ### Soubor replit.md pro přizpůsobení agentaNejvýznamnější novinkou je zavedení konfiguračního souboru `replit.md`, který umožňuje podrobné přizpůsobení chování AI agenta podle specifických potřeb projektu. Tento speciální soubor pomáhá..."
       }
       
       ,{
         "title"    : "Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1",
-        "url"      : "//vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41/",
+        "url"      : "//vibecoding/claude-code-subagents-opus-41/",
         "category" : "vibecoding",
         "content"  : "Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj Claude Code. Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu Claude Opus 4.1, který dosahuje lepších výsledků při práci s kódem a logickém uvažování.Automatická správa kontextu pomocí funkce MicrocompactPrvní novinkou je funkce Microcompact, která řeší problém postupného zaplňování kontextového okna během dlouhých pracovních relací. Když se kontext začne blížit svému limitu, systém automaticky vymaže starší volání nástrojů, které už nejsou potřebné. To umožňuje pokračovat v práci bez nutnosti úplné kompaktace kontextu, přičemž si zachovává nejdůležitější informace o projektu.Tato funkce pracuje..."
       }
       
       ,{
         "title"    : "Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1",
-        "url"      : "//vibecoding/claude-code/2025-08-05-claude-code-subagents-opus-41.md/",
+        "url"      : "//vibecoding/claude-code-subagents-opus-41.md/",
         "category" : "vibecoding",
         "content"  : "Společnost Anthropic, která vyvíjí konverzační umělou inteligenci Claude, představila 4. srpna 2025 tři nové funkce pro svůj vývojářský nástroj [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Následující den pak vydala vylepšenou verzi svého nejpokročilejšího modelu [Claude Opus 4.1](https://www.anthropic.com/news/claude-opus-4-1), který dosahuje lepších výsledků při práci s kódem a logickém uvažování.## Automatická správa kontextu pomocí funkce MicrocompactPrvní novinkou je funkce Microcompact, která řeší problém postupného zaplňování kontextového okna během dlouhých pracovních relací. Když se kontext začne blížit svému limitu, systém automaticky vymaže starší volání nástrojů, které už nejsou potřebné. To umožňuje pokračovat v práci bez nutnosti úplné kompaktace kontextu, přičemž si zachovává nejdůležitější informace o projektu.Tato funkce..."
       }
       
       ,{
         "title"    : "Claude Code přidává automatické bezpečnostní kontroly kódu",
-        "url"      : "//vibecoding/claude-code/2025-08-06-claude-code-secirity-review/",
+        "url"      : "//vibecoding/claude-code-secirity-review/",
         "category" : "vibecoding",
         "content"  : "Společnost Anthropic rozšířila svůj nástroj Claude Code o automatické bezpečnostní kontroly kódu. Nová funkcionalita umožňuje vývojářům odhalit zranitelnosti ještě před nasazením do produkce prostřednictvím dvou hlavních komponent: příkazu pro okamžité kontroly přímo z terminálu a integrace s platformou GitHub Actions pro automatickou analýzu každého požadavku na sloučení kódu.Příkaz /security-review pro okamžitou analýzuNový příkaz /security-review provádí bezpečnostní analýzu přímo z vývojářského terminálu. Po spuštění příkazu Claude analyzuje kód a hledá běžné bezpečnostní zranitelnosti. Systém se zaměřuje na detekci rizik SQL injection, což jsou útoky umožňující neoprávněnou manipulaci s databází prostřednictvím škodlivého SQL kódu vloženého do vstupních polí aplikace. Dále kontroluje zranitelnosti..."
       }
       
       ,{
         "title"    : "Claude Code přidává automatické bezpečnostní kontroly kódu",
-        "url"      : "//vibecoding/claude-code/2025-08-06-claude-code-secirity-review.md/",
+        "url"      : "//vibecoding/claude-code-secirity-review.md/",
         "category" : "vibecoding",
         "content"  : "Společnost Anthropic rozšířila svůj nástroj Claude Code o automatické bezpečnostní kontroly kódu. Nová funkcionalita umožňuje vývojářům odhalit zranitelnosti ještě před nasazením do produkce prostřednictvím dvou hlavních komponent: příkazu pro okamžité kontroly přímo z terminálu a integrace s platformou GitHub Actions pro automatickou analýzu každého požadavku na sloučení kódu.## Příkaz /security-review pro okamžitou analýzuNový příkaz `/security-review` provádí bezpečnostní analýzu přímo z vývojářského terminálu. Po spuštění příkazu Claude analyzuje kód a hledá běžné bezpečnostní zranitelnosti. Systém se zaměřuje na detekci rizik SQL injection, což jsou útoky umožňující neoprávněnou manipulaci s databází prostřednictvím škodlivého SQL kódu vloženého do vstupních polí aplikace. Dále kontroluje..."
       }
       
       ,{
         "title"    : "Cursor 1.4 přináší vylepšené nástroje agentů a přímou integraci s GitHubem",
-        "url"      : "//vibecoding/cursor/2025-08-07-cursor-1-4/",
+        "url"      : "//vibecoding/cursor-1-4/",
         "category" : "vibecoding",
         "content"  : "Vývojové prostředí Cursor od společnosti Anysphere vydalo 6. srpna 2025 verzi 1.4, která se zaměřuje na zlepšení práce s agenty využívajícími umělou inteligenci. Hlavní změny se týkají nástrojů, které agenti používají pro práci s kódem, možností jejich ovládání během běhu a integrace s platformou GitHub.Vylepšené nástroje pro práci s rozsáhlými projektyNástroje, které agenti v Cursoru používají pro navigaci a úpravy kódu, prošly zásadní revizí. Funkce Read file nyní dokáže načíst celé soubory bez ohledu na jejich velikost - předchozí omezení 2 MB bylo odstraněno. Nástroj automaticky rozhoduje, kdy je vhodné načíst celý soubor namísto jeho částí.Nástroj List získal schopnost procházet..."
       }
       
       ,{
         "title"    : "Cursor 1.4 přináší vylepšené nástroje agentů a přímou integraci s GitHubem",
-        "url"      : "//vibecoding/cursor/2025-08-07-cursor-1-4.md/",
+        "url"      : "//vibecoding/cursor-1-4.md/",
         "category" : "vibecoding",
         "content"  : "Vývojové prostředí Cursor od společnosti Anysphere vydalo 6. srpna 2025 verzi 1.4, která se zaměřuje na zlepšení práce s agenty využívajícími umělou inteligenci. Hlavní změny se týkají nástrojů, které agenti používají pro práci s kódem, možností jejich ovládání během běhu a integrace s platformou GitHub.## Vylepšené nástroje pro práci s rozsáhlými projektyNástroje, které agenti v Cursoru používají pro navigaci a úpravy kódu, prošly zásadní revizí. Funkce **Read file** nyní dokáže načíst celé soubory bez ohledu na jejich velikost - předchozí omezení 2 MB bylo odstraněno. Nástroj automaticky rozhoduje, kdy je vhodné načíst celý soubor namísto jeho částí.Nástroj **List** získal schopnost..."
       }
       
       ,{
         "title"    : "Claude Code získal přizpůsobitelné stavové řádky pro terminál",
-        "url"      : "//vibecoding/claude-code/2025-08-09-claude-code-statusline/",
+        "url"      : "//vibecoding/claude-code-statusline/",
         "category" : "vibecoding",
         "content"  : "Společnost Anthropic rozšířila 8. srpna 2025 možnosti svého nástroje Claude Code o funkci přizpůsobitelných stavových řádků přímo v terminálu. Novinka umožňuje vývojářům zobrazovat kontextové informace relevantní pro jejich práci bez nutnosti přepínat mezi okny nebo zadávat diagnostické příkazy.Aktivace a základní použitíFunkce se aktivuje příkazem /statusline následovaným popisem požadovaného zobrazení. Claude Code automaticky vygeneruje stavový řádek s požadovanými informacemi a dynamicky jej aktualizuje podle kontextu práce.Příklady použití# Zobrazení základních informací o prostředí/statusline show git branch and current directory# Komplexní stavový řádek s více informacemi/statusline display hostname, active Claude model, git branch, and full path# Kreativní využití/statusline add a digital buddy that..."
       }
       
       ,{
         "title"    : "Claude Code získal přizpůsobitelné stavové řádky pro terminál",
-        "url"      : "//vibecoding/claude-code/2025-08-09-claude-code-statusline.md/",
+        "url"      : "//vibecoding/claude-code-statusline.md/",
         "category" : "vibecoding",
         "content"  : "Společnost Anthropic rozšířila 8. srpna 2025 možnosti svého nástroje Claude Code o funkci přizpůsobitelných stavových řádků přímo v terminálu. Novinka umožňuje vývojářům zobrazovat kontextové informace relevantní pro jejich práci bez nutnosti přepínat mezi okny nebo zadávat diagnostické příkazy.## Aktivace a základní použitíFunkce se aktivuje příkazem `/statusline` následovaným popisem požadovaného zobrazení. Claude Code automaticky vygeneruje stavový řádek s požadovanými informacemi a dynamicky jej aktualizuje podle kontextu práce.### Příklady použití```bash# Zobrazení základních informací o prostředí/statusline show git branch and current directory# Komplexní stavový řádek s více informacemi/statusline display hostname, active Claude model, git branch, and full path# Kreativní využití/statusline add a digital..."
       }
       
       ,{
         "title"    : "Lovable přešel na agentní režim jako výchozí způsob vývoje",
-        "url"      : "//vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard/",
+        "url"      : "//vibecoding/lovable-agentni-rezim-novy-standard/",
         "category" : "vibecoding",
         "content"  : "Platforma Lovable pro vývoj webových aplikací s pomocí umělé inteligence představila rozsáhlou aktualizaci, která přesouvá agentní režim do pozice výchozího nástroje pro vytváření aplikací. Společnost současně přidala analytické funkce pro sledování výkonu aplikací a ohlásila změny v cenové politice.Agentní režim jako nový standardAgentní režim se stal standardním způsobem práce v prostředí Lovable. Podle údajů společnosti tento přístup snižuje počet chyb o 91 procent a umožňuje vytváření složitějších aplikací s menším množstvím manuálních zásahů. Systém dokáže interpretovat požadavky uživatelů, analyzovat stávající kód, opravovat problémy a provádět komplexní úpravy napříč více soubory současně.Starší režim, který fungoval bez agentních funkcí, bude ukončen 1...."
       }
       
       ,{
         "title"    : "Lovable přešel na agentní režim jako výchozí způsob vývoje",
-        "url"      : "//vibecoding/lovable-dev/2025-08-11-lovable-agentni-rezim-novy-standard.md/",
+        "url"      : "//vibecoding/lovable-agentni-rezim-novy-standard.md/",
         "category" : "vibecoding",
         "content"  : "Platforma Lovable pro vývoj webových aplikací s pomocí umělé inteligence představila rozsáhlou aktualizaci, která přesouvá agentní režim do pozice výchozího nástroje pro vytváření aplikací. Společnost současně přidala analytické funkce pro sledování výkonu aplikací a ohlásila změny v cenové politice.## Agentní režim jako nový standardAgentní režim se stal standardním způsobem práce v prostředí Lovable. Podle údajů společnosti tento přístup snižuje počet chyb o 91 procent a umožňuje vytváření složitějších aplikací s menším množstvím manuálních zásahů. Systém dokáže interpretovat požadavky uživatelů, analyzovat stávající kód, opravovat problémy a provádět komplexní úpravy napříč více soubory současně.Starší režim, který fungoval bez agentních funkcí, bude ukončen..."
       }
       
       ,{
         "title"    : "OpenAI představuje GPT-5 v rámci Codex CLI",
-        "url"      : "//vibecoding/openai-codex/2025-08-12-openai-gpt5-codex/",
+        "url"      : "//vibecoding/openai-gpt5-codex/",
         "category" : "vibecoding",
         "content"  : "OpenAI spustilo nový jazykový model GPT-5, který představuje významný posun v oblasti programování a spolehlivosti. Model je dostupný ve třech velikostech prostřednictvím rozhraní API a integrován do vývojových nástrojů Codex. Společně s modelem firma zpřístupnila lokální nástroj Codex CLI a cloudovou verzi Codex pro paralelní zpracování programovacích úloh. Pojďme se na tyto novinky podívat podrobněji.Výkonnostní parametry a srovnáníModel GPT-5 dosahuje na benchmarku SWE-bench Verified, který hodnotí schopnost řešit reálné programovací úlohy, skóre 74,9 procent. To představuje zlepšení oproti modelu o3 se skóre 69,1 procent. Na benchmarku Aider Polyglot pro práci s různými programovacími jazyky dosahuje 88 procent úspěšnosti. Pro srovnání,..."
       }
       
       ,{
         "title"    : "OpenAI představuje GPT-5 v rámci Codex CLI",
-        "url"      : "//vibecoding/openai-codex/2025-08-12-openai-gpt5-codex.md/",
+        "url"      : "//vibecoding/openai-gpt5-codex.md/",
         "category" : "vibecoding",
         "content"  : "OpenAI spustilo [nový jazykový model GPT-5](https://www.marigold.cz/item/openai-gpt-5/), který představuje významný posun v oblasti programování a spolehlivosti. Model je dostupný ve třech velikostech prostřednictvím rozhraní API a integrován do vývojových nástrojů Codex. Společně s modelem firma zpřístupnila lokální nástroj Codex CLI a cloudovou verzi Codex pro paralelní zpracování programovacích úloh. Pojďme se na tyto novinky podívat podrobněji. ## Výkonnostní parametry a srovnáníModel GPT-5 dosahuje na benchmarku SWE-bench Verified, který hodnotí schopnost řešit reálné programovací úlohy, skóre 74,9 procent. To představuje zlepšení oproti modelu o3 se skóre 69,1 procent. Na benchmarku Aider Polyglot pro práci s různými programovacími jazyky dosahuje 88 procent úspěšnosti...."
       }
       
       ,{
         "title"    : "Google vylepšil Gemini CLI o integraci s VS Code a multimodální podporu",
-        "url"      : "//vibecoding/gemini-cli/2025-08-14-gemini-cli-srpen-2025/",
+        "url"      : "//vibecoding/gemini-cli-srpen-2025/",
         "category" : "vibecoding",
         "content"  : "Google vydal významnou aktualizaci svého nástroje Gemini CLI, který umožňuje vývojářům pracovat s modely umělé inteligence Gemini přímo z příkazové řádky. Verze 0.1.20 přináší zejména hlubokou integraci s editorem VS Code, rozšířenou podporu pro Model Context Protocol (MCP) servery a řadu vylepšení uživatelského rozhraní.Nativní integrace s VS CodeNejvýznamnější novinkou je přímá integrace s populárním editorem VS Code. Když vývojáři spustí Gemini CLI z integrovaného terminálu VS Code, získají přístup k inteligentním návrhům založeným na kontextu aktuálně otevřených souborů. Systém dokáže analyzovat obsah editoru a poskytovat relevantní doporučení přímo v prostředí, kde programátoři běžně pracují.Integrace zahrnuje také nativní zobrazování rozdílů (diff),..."
       }
