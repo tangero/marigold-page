@@ -34,6 +34,10 @@ defaults:
     values:
       layout: "vibecoding-default"
       
+# Zahrnout pouze vibecoding index a vibecoding kolekci
+include:
+  - vibecoding-index.md
+
 # Vyloučit všechny ostatní sekce webu
 exclude:
   - _posts
@@ -41,6 +45,7 @@ exclude:
   - _mobilnisite
   - _obrazy
   - _pages
+  - index.html
   - README.md
   - LICENSE
   - CNAME
