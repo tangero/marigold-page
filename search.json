@@ -28311,6 +28311,13 @@
         "content"  : "OpenAI spustilo [nový jazykový model GPT-5](https://www.marigold.cz/item/openai-gpt-5/), který představuje významný posun v oblasti programování a spolehlivosti. Model je dostupný ve třech velikostech prostřednictvím rozhraní API a integrován do vývojových nástrojů Codex. Společně s modelem firma zpřístupnila lokální nástroj Codex CLI a cloudovou verzi Codex pro paralelní zpracování programovacích úloh. Pojďme se na tyto novinky podívat podrobněji. ## Výkonnostní parametry a srovnáníModel GPT-5 dosahuje na benchmarku SWE-bench Verified, který hodnotí schopnost řešit reálné programovací úlohy, skóre 74,9 procent. To představuje zlepšení oproti modelu o3 se skóre 69,1 procent. Na benchmarku Aider Polyglot pro práci s různými programovacími jazyky dosahuje 88 procent úspěšnosti...."
       }
       
+      ,{
+        "title"    : "Google vylepšil Gemini CLI o integraci s VS Code a multimodální podporu",
+        "url"      : "//vibecoding/gemini-cli/2025-08-14-gemini-cli-srpen-2025/",
+        "category" : "vibecoding",
+        "content"  : "Google vydal významnou aktualizaci svého nástroje Gemini CLI, který umožňuje vývojářům pracovat s modely umělé inteligence Gemini přímo z příkazové řádky. Verze 0.1.20 přináší zejména hlubokou integraci s editorem VS Code, rozšířenou podporu pro Model Context Protocol (MCP) servery a řadu vylepšení uživatelského rozhraní.Nativní integrace s VS CodeNejvýznamnější novinkou je přímá integrace s populárním editorem VS Code. Když vývojáři spustí Gemini CLI z integrovaného terminálu VS Code, získají přístup k inteligentním návrhům založeným na kontextu aktuálně otevřených souborů. Systém dokáže analyzovat obsah editoru a poskytovat relevantní doporučení přímo v prostředí, kde programátoři běžně pracují.Integrace zahrnuje také nativní zobrazování rozdílů (diff),..."
+      }
+      
     
   
 ]
