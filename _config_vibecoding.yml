@@ -81,6 +81,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
+
+# Stránkování
+paginate: 10
+paginate_path: /strana/:num/
 
 # Feed nastavení pro vibecoding
 feed:
