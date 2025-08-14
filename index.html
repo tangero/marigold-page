@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Marigold.cz - Sítě a Technologie</title>
+    <title>Vibecoding.cz | Marigold.cz - Sítě a Technologie</title>
     <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.3.4" />
-<meta property="og:title" content="Marigold.cz" />
+<meta property="og:title" content="Vibecoding.cz" />
 <meta name="author" content="Patrick Zandl" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Technologie a Svět" />
@@ -13,11 +13,10 @@
 <meta property="og:url" content="https://www.marigold.cz/" />
 <meta property="og:site_name" content="Marigold.cz" />
 <meta property="og:type" content="website" />
-<link rel="next" href="https://www.marigold.cz/page2/" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Marigold.cz" />
+<meta property="twitter:title" content="Vibecoding.cz" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Marigold.cz","name":"Marigold.cz","url":"https://www.marigold.cz/"}</script>
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"Patrick Zandl"},"description":"Technologie a Svět","headline":"Vibecoding.cz","name":"Marigold.cz","url":"https://www.marigold.cz/"}</script>
 <!-- End Jekyll SEO tag -->
 
         <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
@@ -30,6 +29,9 @@
     
     <meta name="author" content="Marigold.cz" />
 
+    
+    <meta property="og:title" content="Vibecoding.cz" />
+    <meta property="twitter:title" content="Vibecoding.cz" />
     
 
     
@@ -87,780 +89,847 @@
 
       <div class="wrapper-main">
         <div id="main" role="main" class="container">
-          <!-- start feedwind code --> 
-<script>
-  function shouldShowFeedwind() {
-    const lastShown = localStorage.getItem('feedwindLastShown');
-    if (!lastShown) {
-      localStorage.setItem('feedwindLastShown', new Date().toISOString());
-      return true;
-    }
-    
-    const lastDate = new Date(lastShown);
-    const now = new Date();
-    const monthsDiff = (now.getFullYear() - lastDate.getFullYear()) * 12 + 
-                      (now.getMonth() - lastDate.getMonth());
-    
-    if (monthsDiff >= 1) {
-      localStorage.setItem('feedwindLastShown', now.toISOString());
-      return true;
-    }
-    return false;
-  }
+          <article class="page">
 
-  if (shouldShowFeedwind()) {
-    const script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://feed.mikle.com/js/fw-loader.js';
-    script.setAttribute('preloader-text', 'Nahrávám');
-    script.setAttribute('data-fw-param', '168257/');
-    document.head.appendChild(script);
-  }
-</script>
-<!-- end feedwind code -->
+  <h1>Vibecoding.cz</h1>
 
+  <div class="entry">
+    <h1 id="vibecodingcz---ai-nástroje-pro-programování">Vibecoding.cz - AI nástroje pro programování</h1>
 
-<div class="posts">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+<p>Průvodce světem AI nástrojů pro programování a vývoj software.</p>
 
-  <!-- Audio Player -->
-  <!-- Připrav audio playlist data - vezmi VŠECHNY články, ne jen aktuální stránku -->
-  
-  
-
-  <div id="audio-player" style="display: none;">
-    <div class="audio-controls">
-      <button id="play-pause" title="Přehrát/Pozastavit">▶️</button>
-      <button id="prev-track" title="Předchozí">⏮️</button> 
-      <button id="next-track" title="Další">⏭️</button>
-      <span id="track-title">Načítám playlist...</span>
-      <div class="progress-container">
-        <div class="progress-bar" id="progress"></div>
-      </div>
-      <span id="track-time">0:00 / 0:00</span>
-    </div>
-    <audio id="audio-element" preload="none"></audio>
-  </div>
-
-  <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    // Vytvoř playlist z posledních 20 článků s audio
-    const playlist = [
-      
-      {
-        title: "Context Engineering: Nová disciplína pro tvorbu spolehlivých AI systémů",
-        url: "https://www.marigold.cz/audio/2025-08-11-context-engineering.mp3",
-        date: "11.08.2025"
-      },
-      
-      {
-        title: "Dědictví Netscape tlačí internetové služby k centralizaci",
-        url: "https://www.marigold.cz/audio/2025-08-06-dedictvi-netscape-tlaci-do-centralizace.mp3",
-        date: "06.08.2025"
-      },
-      
-      {
-        title: "AI novinky k 15.5.2025",
-        url: "http://www.marigold.cz/audio/2025-05-11-openai-kupuje-windsurf.mp3",
-        date: "15.05.2025"
-      },
-      
-      {
-        title: "OpenAI kupuje Windsurf a  posiluje v programátorských nástrojích",
-        url: "http://www.marigold.cz/audio/2025-05-11-openai-kupuje-windsurf.mp3",
-        date: "11.05.2025"
-      },
-      
-      {
-        title: "A2A protokol - Nový standard pro interoperabilitu AI agentů",
-        url: "http://www.marigold.cz/audio/2025-04-09-google-a2a.mp3",
-        date: "09.04.2025"
-      },
-      
-      {
-        title: "Moderní přístup k vývoji prototypu software MVP pomocí vibe codingu",
-        url: "http://www.marigold.cz/audio/2025-04-03-architektura-vibecoding.mp3",
-        date: "03.04.2025"
-      },
-      
-      {
-        title: "Deset knih o současné politice, ekonomice a technologiích na jaro 2025",
-        url: "http://www.marigold.cz/audio/2025-03-29-deset-knih-na-jaro-2025.mp3",
-        date: "29.03.2025"
-      },
-      
-      {
-        title: "Zapier a Make MCP - Propojte AI asistenty s externími aplikacemi",
-        url: "http://www.marigold.cz/audio/2025-03-27-zapier-mcp.mp3",
-        date: "27.03.2025"
-      },
-      
-      {
-        title: "🧠 AI nástroje pro programování - přehled",
-        url: "http://www.marigold.cz/audio/2025-03-26-ai-nastroje-programovani-prehled.mp3",
-        date: "26.03.2025"
-      },
-      
-      {
-        title: "🐟 Deepseek jako čínský Sputnik",
-        url: "https://www.marigold.cz/audio/2025-01-29-deepseek.mp3",
-        date: "29.01.2025"
-      },
-      
-      {
-        title: "AI v roce 2025 -  Regulace, spolehlivost, geopolitika a autentické blogy",
-        url: "https://www.marigold.cz/audio/2025-01-13-ai-rok-2025-dil-2.mp3",
-        date: "13.01.2025"
-      },
-      
-      {
-        title: "Zúčtování s rokem 2024 a nahlížení do politiky verze 50",
-        url: "https://www.marigold.cz/audio/2025-01-10-osobni-politicke-ohlednuti-2025.mp3",
-        date: "10.01.2025"
-      },
-      
-      {
-        title: "Rok 2025 -  Umělá inteligence jako nedílná součást naší reality I.",
-        url: "https://www.marigold.cz/audio/2025-01-06-rok-2025-v-ai.mp3",
-        date: "06.01.2025"
-      },
-      
-      {
-        title: "Jacka Ma, šéf Alibaby -  Dobrá inovace se nebojí regulace",
-        url: "https://www.marigold.cz/audio/2024-12-27-jack-ma-shanghai-speach.mp3",
-        date: "27.12.2024"
-      },
-      
-      {
-        title: "Audio podcast z vašich textů automaticky. NotebookLM a Elevenlabs GenFM",
-        url: "http://www.marigold.cz/audio/2024-11-28-podcasty-z-textu-automaticky.mp3",
-        date: "28.11.2024"
-      },
-      
-      {
-        title: "Ebook Technoelity - Kdy\u017E p\u0159\xEDli\u0161 m\xE1lo ur\u010Duje p\u0159\ \xEDli\u0161 mnoho",
-        url: "http://www.marigold.cz/audio/2024-10-09-ebook-technoelity.mp3",
-        date: "09.10.2024"
-      },
-      
-      {
-        title: "S psaní beletrie už AI pomůže",
-        url: "http://www.marigold.cz/audio/2024-09-08-ai-psani-povidek.mp3",
-        date: "08.09.2024"
-      },
-      
-      {
-        title: "Případ eurounijní zvůle v podobě jednotné nabíječky mobilů",
-        url: "http://www.marigold.cz/audio/2024-08-17-zlovule-eu-jednotna-nabijecka-mobilu-usb-c.mp3",
-        date: "17.08.2024"
-      },
-      
-      {
-        title: "Návod na programování s AI, když programovat neumíte",
-        url: "http://www.marigold.cz/audio/2024-07-14-jak-programovat-s-ai.mp3",
-        date: "14.08.2024"
-      },
-      
-      {
-        title: "Další nika, do které se AI nacpe? Podcasty!",
-        url: "https://www.marigold.cz/audio/2024-07-26-ai-nika-podcasty.mp3",
-        date: "26.07.2024"
-      }
-      
-    ];
-
-    if (playlist.length === 0) return;
-
-    // Zobraz přehrávač
-    const player = document.getElementById('audio-player');
-    player.style.display = 'block';
-
-    const audio = document.getElementById('audio-element');
-    const playPauseBtn = document.getElementById('play-pause');
-    const prevBtn = document.getElementById('prev-track');
-    const nextBtn = document.getElementById('next-track');
-    const trackTitle = document.getElementById('track-title');
-    const progress = document.getElementById('progress');
-    const trackTime = document.getElementById('track-time');
-
-    let currentTrack = 0;
-    let isPlaying = false;
-
-    function loadTrack(index) {
-      if (index >= playlist.length || index < 0) return;
-      currentTrack = index;
-      const track = playlist[currentTrack];
-      audio.src = track.url;
-      trackTitle.textContent = `${track.title} (${track.date})`;
-      progress.style.width = '0%';
-      trackTime.textContent = '0:00 / 0:00';
-    }
-
-    function formatTime(seconds) {
-      const mins = Math.floor(seconds / 60);
-      const secs = Math.floor(seconds % 60);
-      return `${mins}:${secs.toString().padStart(2, '0')}`;
-    }
-
-    function updateProgress() {
-      if (audio.duration) {
-        const progressPercent = (audio.currentTime / audio.duration) * 100;
-        progress.style.width = progressPercent + '%';
-        trackTime.textContent = `${formatTime(audio.currentTime)} / ${formatTime(audio.duration)}`;
-      }
-    }
-
-    playPauseBtn.addEventListener('click', function() {
-      if (isPlaying) {
-        audio.pause();
-        playPauseBtn.textContent = '▶️';
-        isPlaying = false;
-      } else {
-        audio.play();
-        playPauseBtn.textContent = '⏸️';
-        isPlaying = true;
-      }
-    });
-
-    prevBtn.addEventListener('click', function() {
-      currentTrack = currentTrack > 0 ? currentTrack - 1 : playlist.length - 1;
-      loadTrack(currentTrack);
-      if (isPlaying) audio.play();
-    });
-
-    nextBtn.addEventListener('click', function() {
-      currentTrack = currentTrack < playlist.length - 1 ? currentTrack + 1 : 0;
-      loadTrack(currentTrack);
-      if (isPlaying) audio.play();
-    });
-
-    audio.addEventListener('timeupdate', updateProgress);
-    
-    audio.addEventListener('ended', function() {
-      nextBtn.click();
-    });
-
-    audio.addEventListener('loadedmetadata', function() {
-      updateProgress();
-    });
-
-    // Načti první skladbu
-    loadTrack(0);
-  });
-  </script>
-
-  <style>
-  #audio-player {
-    background: #f5f5f5;
-    border: 1px solid #ddd;
-    border-radius: 6px;
-    padding: 10px;
-    margin-bottom: 20px;
-    position: sticky;
-    top: 10px;
-    z-index: 100;
-  }
-
-  .audio-controls {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  }
-
-  .audio-controls button {
-    background: none;
-    border: none;
-    font-size: 16px;
-    cursor: pointer;
-    padding: 5px;
-    border-radius: 3px;
-    transition: background-color 0.2s;
-  }
-
-  .audio-controls button:hover {
-    background-color: rgba(0,0,0,0.1);
-  }
-
-  #track-title {
-    flex: 1;
-    font-weight: 500;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    min-width: 0;
-  }
-
-  .progress-container {
-    width: 100px;
-    height: 4px;
-    background: #ddd;
-    border-radius: 2px;
-    overflow: hidden;
-    cursor: pointer;
-  }
-
-  .progress-bar {
-    height: 100%;
-    background: #007cba;
-    width: 0%;
-    transition: width 0.1s;
-  }
-
-  #track-time {
-    font-size: 12px;
-    color: #666;
-    white-space: nowrap;
-  }
-
-  @media (max-width: 768px) {
-    .audio-controls {
-      gap: 5px;
-    }
-    
-    #track-title {
-      font-size: 14px;
-    }
-    
-    .progress-container {
-      width: 80px;
-    }
-    
-    #track-time {
-      font-size: 11px;
-    }
-  }
-  </style>
-  
-  
-    <article class="post">
-      <h1><a href="/item/jak-se-perou-bitcoiny/">Jak vyprat bitcoiny z Jiříkovského kauzy?</a></h1>
-
-      <div class="post-content clearfix">
-        
-          
-          <div class="thumbnail">
-            <a href="/item/jak-se-perou-bitcoiny/">
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/tomas_jirikovsky.jpeg" alt="Jak vyprat bitcoiny z Jiříkovského kauzy?">
-            </a>
-          </div>
-        
-
-        <div class="excerpt">
-          Ministerstvo spravedlnosti se zřejmě dohodne se čtyřmi vydražiteli bitcoinů z kauzy Jiříkovský, že je vymění za jiné, čisté bitcoiny (BTC). Tolik stručná zpráva ze dneška. Sláva, další problém se vyřeší.
-
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        13.
-        srpen
-          
-        2025 - 
-        <a href="/item/jak-se-perou-bitcoiny/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/context-engineering/">Context Engineering: Nová disciplína pro tvorbu spolehlivých AI systémů</a></h1>
-
-      <div class="post-content clearfix">
-        
-          
-          <div class="thumbnail">
-            <a href="/item/context-engineering/">
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/context-engineering.png" alt="Context Engineering: Nová disciplína pro tvorbu spolehlivých AI systémů">
-            </a>
-          </div>
-        
-
-        <div class="excerpt">
-          Context Engineering představuje zajímavý posun v přístupu k tvorbě AI systémů založených na velkých jazykových modelech. Zní to velmi technicky, ale rychle zjistíte, že to je něco velmi logického a očekávatelného. Namísto toho, aby kontextem bylo to, co zadáte v promptu, se kontextem stává všechno, co se problému může týkat. Jak?
-
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        11.
-        srpen
-          
-        2025 - 
-        <a href="/item/context-engineering/" class="read-more">Pokračuj ve čtení 👉</a> nebo <a href="https://www.marigold.cz/audio/2025-08-11-context-engineering.mp3" target="_blank">🎧 Poslechnout audio</a>
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/openai-gpt-5/">OpenAI konečně představila GPT-5. Jaký je?</a></h1>
-
-      <div class="post-content clearfix">
-        
-
-        <div class="excerpt">
-          Společnost OpenAI zpřístupnila novou rodinu jazykových modelů GPT-5, která nahrazuje většinu stávající nabídky. Modely jsou dostupné ve třech velikostech s konfigurovatelnou úrovní uvažování a přinášejí výrazné snížení cen při zachování nebo zlepšení výkonu.
-
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        7.
-        srpen
-          
-        2025 - 
-        <a href="/item/openai-gpt-5/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/dedictvi-netscape-tlaci-do-centralizace/">Dědictví Netscape tlačí internetové služby k centralizaci</a></h1>
-
-      <div class="post-content clearfix">
-        
-          
-          <div class="thumbnail">
-            <a href="/item/dedictvi-netscape-tlaci-do-centralizace/">
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/netscape.png" alt="Dědictví Netscape tlačí internetové služby k centralizaci">
-            </a>
-          </div>
-        
-
-        <div class="excerpt">
-          Přinese AI svobodu lidem? Nikoliv nutně. Kvůli architektuře, jíž jsou nutně stavěné internetové služby, je internet decentralizovaný technologicky, ale v oblasti služeb ostře centralizuje. A to bude s AI jen horší a horší. Proč tomu tak je, jaké jsou důsledky a jaká jsou východiska z této situace?
-
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        6.
-        srpen
-          
-        2025 - 
-        <a href="/item/dedictvi-netscape-tlaci-do-centralizace/" class="read-more">Pokračuj ve čtení 👉</a> nebo <a href="https://www.marigold.cz/audio/2025-08-06-dedictvi-netscape-tlaci-do-centralizace.mp3" target="_blank">🎧 Poslechnout audio</a>
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/claude-opus-4-1/">Anthropic vydává Claude Opus 4.1</a></h1>
-
-      <div class="post-content clearfix">
-        
-
-        <div class="excerpt">
-          Anthropic dne 5. srpna 2025 vydal Claude Opus 4.1, vylepšenou verzi svého nejvýkonnějšího modelu. Hlavní zlepšení se týkají především práce s kódem, kde model dosahuje 74,5% úspěšnosti na benchmarku SWE-bench Verified, což představuje nový rekord společnosti v této oblasti.
-
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        5.
-        srpen
-          
-        2025 - 
-        <a href="/item/claude-opus-4-1/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/ai-news-srpen-2025/">Novinky v AI a robotice 1.8.2025 - Souboj o matematickou olympiádu, nové modely a superpočítače</a></h1>
-
-      <div class="post-content clearfix">
-        
-
-        <div class="excerpt">
-          Mezi nejvýznamnější události z konce července 2025 patří soupeření společností Google a OpenAI o prvenství v řešení úloh Mezinárodní matematické olympiády, které demonstruje pokroky v oblasti matematického uvažování AI. Dále byly představeny nové generace modelů pro tvorbu videa, 3D světů i zachování konzistence postav. Firmy masivně investují do hardwarové infrastruktury pro trénink budoucích modelů a na trh vstupují noví, cenově...
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        1.
-        srpen
-          
-        2025 - 
-        <a href="/item/ai-news-srpen-2025/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/letni-skola-ai/">Letní škola AI - jak se AI naučit zdarma, i když nemáte čas</a></h1>
-
-      <div class="post-content clearfix">
-        
-          
-          <div class="thumbnail">
-            <a href="/item/letni-skola-ai/">
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/letni-skola-ai.jpg" alt="Letní škola AI - jak se AI naučit zdarma, i když nemáte čas">
-            </a>
-          </div>
-        
-
-        <div class="excerpt">
-          Naučit se s AI je úkol této doby. Jenže jak, když je času málo? Připravil jsem Letní školu AI, která vám bude každý den emailem zasílat krátkou lekci. Za pět minut se naučíte něco nového. Za dalších pět minut si uděláte úkol. Za deset lekcí máte za sebou obsáhlou přednášku, na jakou byste neměli normálně čas…
-
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        31.
-        červenec
-          
-        2025 - 
-        <a href="/item/letni-skola-ai/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/ai_novinky_cervenec_2025/">Novinky AI v červenci 2025 - ChatGPT Agent, Voxtral a real-time video modely mění herní pravidla</a></h1>
-
-      <div class="post-content clearfix">
-        
-          
-          <div class="thumbnail">
-            <a href="/item/ai_novinky_cervenec_2025/">
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/ai-novinky-thumbnail.png" alt="Novinky AI v červenci 2025 - ChatGPT Agent, Voxtral a real-time video modely mění herní pravidla">
-            </a>
-          </div>
-        
-
-        <div class="excerpt">
-          Překotné uvádění novinek v oblasti AI a návazných oblastech, jako je robotika, pokračuje.  OpenAI sjednotil své nástroje do ChatGPT Agent, Mistral AI vydal první open-source model pro porozumění řeči a Decart ukázal slušný průlom v real-time video zpracování. Pojďme se podívat na novinky poslední doby.
-
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        24.
-        červenec
-          
-        2025 - 
-        <a href="/item/ai_novinky_cervenec_2025/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/kimi_k2_prichazi/">🇨🇳 Je Kimi K2 další čínský průlom v AI?</a></h1>
-
-      <div class="post-content clearfix">
-        
-          
-          <div class="thumbnail">
-            <a href="/item/kimi_k2_prichazi/">
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.geeky-gadgets.com/wp-content/uploads/2025/07/kimi-k2-ai-model-review_optimized.jpg" alt="🇨🇳 Je Kimi K2 další čínský průlom v AI?">
-            </a>
-          </div>
-        
-
-        <div class="excerpt">
-          Čína má být hony daleko za USA v AI, jenže vůbec. Na přelomu roku ten dojem rozbil DeepSeek, nyní přichází Kimi K2, který se jako open-source model má vyrovnat nejsilnějším americkým modelům. Použil na to několik chytrých triků…
-
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        22.
-        červenec
-          
-        2025 - 
-        <a href="/item/kimi_k2_prichazi/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/art-house-melichar-otevreno/">🎨 Art House Melichar - Melicharova vila otevřejna pro veřejnost - update 2.8. o video</a></h1>
-
-      <div class="post-content clearfix">
-        
-
-        <div class="excerpt">
-          Včera jsme otevírali Art House Melichar. Ještě dopoledne nervozita z počasí, déšť by se nehodil. Ještě ve dvě hodiny jsem si říkal, že přijedou stěží umělci na svou vlastní vernisáž, ale rozhodně ne běžní lidé na zahájení v 16 hodin. Pak jsem si na chvilku sedl k počítači. Když jsem deset minut před čtvrtou vešel do haly Melicharovy vily, byla...
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        19.
-        červenec
-          
-        2025 - 
-        <a href="/item/art-house-melichar-otevreno/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/openai-agent/">OpenAI představilo ChatGPT Agent - jednotný systém pro vykonávání úkolů</a></h1>
-
-      <div class="post-content clearfix">
-        
-
-        <div class="excerpt">
-          OpenAI  spustilo službu ChatGPT Agent, sjednocený agentový systém, který rozšiřuje možnosti konverzačního modelu o schopnost samostatně vykonávat složitější úkoly na počítači. Nový nástroj kombinuje funkce dříve samostatných produktů Operator a Deep Research do jednoho systému dostupného přímo v rozhraní ChatGPT.
-
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        18.
-        červenec
-          
-        2025 - 
-        <a href="/item/openai-agent/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/mistral-voxtral/">Mistral AI představil Voxtral pro přepis zvuku na text</a></h1>
-
-      <div class="post-content clearfix">
-        
-          
-          <div class="thumbnail">
-            <a href="/item/mistral-voxtral/">
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/v-plot-1.png" alt="Mistral AI představil Voxtral pro přepis zvuku na text">
-            </a>
-          </div>
-        
-
-        <div class="excerpt">
-          O francouzské společnosti Mistral AI se v poslední době mluvilo hlavně kvůli spekulacím, zda si ji nechce koupit Apple jako urychlení svého AI vývoje. To by byla pochvala pro evropský vývoj AI a zároveň rána, protože by to velký AI model dotáhlo pod křídla americké firmy. Mistral ale nově vydal Voxtral - svůj první otevřený model zaměřený na zpracování zvuku,...
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        17.
-        červenec
-          
-        2025 - 
-        <a href="/item/mistral-voxtral/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/kiro-ide-amazon/">Amazon představil vlastní autonomní vývojové AI prostředí Kiro</a></h1>
-
-      <div class="post-content clearfix">
-        
-          
-          <div class="thumbnail">
-            <a href="/item/kiro-ide-amazon/">
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/kiro-dev.png" alt="Amazon představil vlastní autonomní vývojové AI prostředí Kiro">
-            </a>
-          </div>
-        
-
-        <div class="excerpt">
-          Amazon představil Kiro, nové vývojové prostředí založené na autonomních AI agentech, které se zaměřuje na řešení problémů současného “vibe coding” - rychlého generování kódu pomocí AI bez důkladného plánování. Nástroj se liší od stávajícího Amazon Q Developer tím, že využívá specifikační vývoj a autonomní agenty pro komplexní úkoly, čímž se dostává do přímé konkurence s populárními řešeními jako Cursor, Windsurf...
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        16.
-        červenec
-          
-        2025 - 
-        <a href="/item/kiro-ide-amazon/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/windsurf-obeti-valky-google-a-openai/">🏄‍♀️ Jak se Windsurf stal obětí války o AI talenty mezi Google a OpenAI</a></h1>
-
-      <div class="post-content clearfix">
-        
-          
-          <div class="thumbnail">
-            <a href="/item/windsurf-obeti-valky-google-a-openai/">
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/windsurf.png" alt="🏄‍♀️ Jak se Windsurf stal obětí války o AI talenty mezi Google a OpenAI">
-            </a>
-          </div>
-        
-
-        <div class="excerpt">
-          Google DeepMind  přetáhl šéfa Windsurfu Varuna Mohana, spoluzakladatele Douglase Chena a část špičkových výzkumníkůz AI-platformy Windsurf. Za  2,4 mld. USD  získal i nevýhradní licenci na část jejích technologií –  bez kapitálového podílu. Převzetí, které měla za zhruba 3 mld. USD dokončit OpenAI, tím definitivně padlo.
-
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        13.
-        červenec
-          
-        2025 - 
-        <a href="/item/windsurf-obeti-valky-google-a-openai/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-    <article class="post">
-      <h1><a href="/item/grok-4/">Grok 4 má být nejchytřejší - a také nejdražší AI. Porazí MechaHitlera v sobě?</a></h1>
-
-      <div class="post-content clearfix">
-        
-          
-          <div class="thumbnail">
-            <a href="/item/grok-4/">
-              <img src="https://res.cloudinary.com/dvwv5cne3/image/fetch/w_300,h_200,c_fill,g_auto,f_auto,q_auto/https://www.marigold.cz/assets/grok-ceny.jpeg" alt="Grok 4 má být nejchytřejší - a také nejdražší AI. Porazí MechaHitlera v sobě?">
-            </a>
-          </div>
-        
-
-        <div class="excerpt">
-          Nový model umělé inteligence nazvaný Grok 4 právě představila společnost xAI Elona Muska. Má být nejchytřejší - a je také nejdražší z běžně dostupných modelů. Předplatné nejvyššího balíčku vyjde na 300 dolarů měsíčně, v tom případě jde prý o multi-agenta, schopného vykonávat několik úkolů najednou a s nejvyššími limity. Za 30 dolarů měsíčně dostanete “obyčejného supergroka”.
-
-        </div>
-      </div>
-
-      <div class="post-meta">
-        
-        10.
-        červenec
-          
-        2025 - 
-        <a href="/item/grok-4/" class="read-more">Pokračuj ve čtení 👉</a> 
-      </div>
-    </article>
-  
-
-  <!-- pagination -->
-  
-  <div class="pagination">
-    
-      <span class="previous">Nejnovější</span>
-    
-
-    <span class="page_number">
-      stránka 1 z 196
-    </span>
-
-    
-      <a href="/page2/" class="next">starší 👉</a>
-    
-  </div>
-  
+<div style="text-align: center; margin: 2em 0;">
+  <a href="/vibecoding/" class="button-primary">📚 Přehled všech nástrojů</a>
 </div>
+
+<h2 id="-nejnovější-články">🔥 Nejnovější články</h2>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/gemini-cli-srpen-2025/">Google vylepšil Gemini CLI o integraci s VS Code a multimodální podporu</a></h3>
+  <time>14. 08. 2025</time>
+  
+    <p>Google vydal aktualizaci Gemini CLI s hlubokou integrací do VS Code, podporou multimodálního obsahu v MCP serverech a řadou vylepšení uživatelského rozhraní.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/openai-gpt5-codex.md/">OpenAI představuje GPT-5 v rámci Codex CLI</a></h3>
+  <time>12. 08. 2025</time>
+  
+    <p>OpenAI uvedlo model GPT-5 s výrazně lepšími schopnostmi programování a nižší chybovostí. Součástí je Codex CLI pro lokální vývoj a cloudový Codex pro paralelní zpracování úloh.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/openai-gpt5-codex/">OpenAI představuje GPT-5 v rámci Codex CLI</a></h3>
+  <time>12. 08. 2025</time>
+  
+    <p>OpenAI uvedlo model GPT-5 s výrazně lepšími schopnostmi programování a nižší chybovostí. Součástí je Codex CLI pro lokální vývoj a cloudový Codex pro paralelní zpracování úloh.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/lovable-agentni-rezim-novy-standard.md/">Lovable přešel na agentní režim jako výchozí způsob vývoje</a></h3>
+  <time>11. 08. 2025</time>
+  
+    <p>Platforma Lovable upravila svůj přístup k vývoji webových aplikací nasazením agentního režimu jako výchozí metody a přidáním analytických funkcí pro sledování výkonu aplikací.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/lovable-agentni-rezim-novy-standard/">Lovable přešel na agentní režim jako výchozí způsob vývoje</a></h3>
+  <time>11. 08. 2025</time>
+  
+    <p>Platforma Lovable upravila svůj přístup k vývoji webových aplikací nasazením agentního režimu jako výchozí metody a přidáním analytických funkcí pro sledování výkonu aplikací.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-code-statusline.md/">Claude Code získal přizpůsobitelné stavové řádky pro terminál</a></h3>
+  <time>09. 08. 2025</time>
+  
+    <p>Anthropic přidal do nástroje Claude Code možnost vytvářet přizpůsobitelné stavové řádky v terminálu pro zobrazení kontextových informací během programování.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-code-statusline/">Claude Code získal přizpůsobitelné stavové řádky pro terminál</a></h3>
+  <time>09. 08. 2025</time>
+  
+    <p>Anthropic přidal do nástroje Claude Code možnost vytvářet přizpůsobitelné stavové řádky v terminálu pro zobrazení kontextových informací během programování.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-1-4.md/">Cursor 1.4 přináší vylepšené nástroje agentů a přímou integraci s GitHubem</a></h3>
+  <time>07. 08. 2025</time>
+  
+    <p>Cursor 1.4 přináší výrazné vylepšení nástrojů pro agenty, možnost přerušení jejich práce, podporu GitHubu pro pozadí agenty a viditelnost spotřeby tokenů.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-1-4/">Cursor 1.4 přináší vylepšené nástroje agentů a přímou integraci s GitHubem</a></h3>
+  <time>07. 08. 2025</time>
+  
+    <p>Cursor 1.4 přináší výrazné vylepšení nástrojů pro agenty, možnost přerušení jejich práce, podporu GitHubu pro pozadí agenty a viditelnost spotřeby tokenů.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-code-secirity-review.md/">Claude Code přidává automatické bezpečnostní kontroly kódu</a></h3>
+  <time>06. 08. 2025</time>
+  
+    <p>Anthropic přidal do Claude Code automatické bezpečnostní kontroly kódu přímo v terminálu a integraci s GitHub Actions pro kontrolu každého PR.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-code-secirity-review/">Claude Code přidává automatické bezpečnostní kontroly kódu</a></h3>
+  <time>06. 08. 2025</time>
+  
+    <p>Anthropic přidal do Claude Code automatické bezpečnostní kontroly kódu přímo v terminálu a integraci s GitHub Actions pro kontrolu každého PR.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-code-subagents-opus-41.md/">Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1</a></h3>
+  <time>05. 08. 2025</time>
+  
+    <p>Anthropic rozšířil Claude Code o správu kontextu, podporu podsystémů a čtení PDF. Současně vydal vylepšený model Opus 4.1 s lepším výkonem při kódování.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-code-subagents-opus-41/">Claude Code získává nové funkce pro správu kontextu a Anthropic vydává Opus 4.1</a></h3>
+  <time>05. 08. 2025</time>
+  
+    <p>Anthropic rozšířil Claude Code o správu kontextu, podporu podsystémů a čtení PDF. Současně vydal vylepšený model Opus 4.1 s lepším výkonem při kódování.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/replit-obrazky-agenti.md/">Replit automaticky řadí úlohy do fronty a další vylepšení</a></h3>
+  <time>02. 08. 2025</time>
+  
+    <p>Replit představil řadu významných vylepšení včetně generování obrázků, pokročilé konfigurace agenta pomocí replit.md a vylepšené správy domén.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/replit-obrazky-agenti/">Replit automaticky řadí úlohy do fronty a další vylepšení</a></h3>
+  <time>02. 08. 2025</time>
+  
+    <p>Replit představil řadu významných vylepšení včetně generování obrázků, pokročilé konfigurace agenta pomocí replit.md a vylepšené správy domén.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/gemini_cli_0-1-15.md/">Gemini CLI 0.1.15 rozšiřuje možnosti o vlastní příkazy a vim mód</a></h3>
+  <time>31. 07. 2025</time>
+  
+    <p>Google vydal aktualizaci Gemini CLI v0.1.15 s vlastními příkazy, vim módem, vylepšenou autentifikací a dalšími funkcemi pro vývojáře.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/gemini_cli_0-1-15/">Gemini CLI 0.1.15 rozšiřuje možnosti o vlastní příkazy a vim mód</a></h3>
+  <time>31. 07. 2025</time>
+  
+    <p>Google vydal aktualizaci Gemini CLI v0.1.15 s vlastními příkazy, vim módem, vylepšenou autentifikací a dalšími funkcemi pro vývojáře.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claudecode1-6.md/">Claude Code 1.6x rozšiřuje možnosti vlastních agentů a zlepšuje Windows podporu</a></h3>
+  <time>31. 07. 2025</time>
+  
+    <p>Claude Code od Anthropic rozšířil možnosti vlastních agentů, hooks systém a podporu pro Windows. Nové verze přinášejí volbu AI modelu a lepší integraci s IDE.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claudecode1-6/">Claude Code 1.6x rozšiřuje možnosti vlastních agentů a zlepšuje Windows podporu</a></h3>
+  <time>31. 07. 2025</time>
+  
+    <p>Claude Code od Anthropic rozšířil možnosti vlastních agentů, hooks systém a podporu pro Windows. Nové verze přinášejí volbu AI modelu a lepší integraci s IDE.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-1-3.md/">Novinky v Cursor 1.3</a></h3>
+  <time>30. 07. 2025</time>
+  
+    <p>Cursor 1.3 přináší sdílený terminál s AI agentem, zobrazení využití kontextu v chatu a výrazně rychlejší úpravy kódu s optimalizacemi výkonu.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-1-3/">Novinky v Cursor 1.3</a></h3>
+  <time>30. 07. 2025</time>
+  
+    <p>Cursor 1.3 přináší sdílený terminál s AI agentem, zobrazení využití kontextu v chatu a výrazně rychlejší úpravy kódu s optimalizacemi výkonu.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/limity-pro-claude-code-max.md/">Anthropic omezí Claude Code Max novými týdenními limity</a></h3>
+  <time>29. 07. 2025</time>
+  
+    <p>Anthropic zavádí od 28. srpna týdenní limity pro Claude předplatitele kvůli růstu Claude Code a porušování pravidel používání.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/limity-pro-claude-code-max/">Anthropic omezí Claude Code Max novými týdenními limity</a></h3>
+  <time>29. 07. 2025</time>
+  
+    <p>Anthropic zavádí od 28. srpna týdenní limity pro Claude předplatitele kvůli růstu Claude Code a porušování pravidel používání.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/gemini-cli-roadmapa.md/">Novinky v Gemini CLI a roadmapa funkcí</a></h3>
+  <time>17. 07. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/gemini-cli-roadmapa/">Novinky v Gemini CLI a roadmapa funkcí</a></h3>
+  <time>17. 07. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/lovable-visual-edit.md/">Lovable má nový vizuální editor</a></h3>
+  <time>13. 07. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/lovable-visual-edit/">Lovable má nový vizuální editor</a></h3>
+  <time>13. 07. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude_code_subagenti.md/">Používání subagentů v Claude Code</a></h3>
+  <time>13. 07. 2025</time>
+  
+    <p>Claude Code umožňuje spouštět paralelní subagenty pro efektivní zpracování rozsáhlých kódových projektů a současné provádění více nezávislých úkolů.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude_code_subagenti/">Používání subagentů v Claude Code</a></h3>
+  <time>13. 07. 2025</time>
+  
+    <p>Claude Code umožňuje spouštět paralelní subagenty pro efektivní zpracování rozsáhlých kódových projektů a současné provádění více nezávislých úkolů.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/2025-0703-trae-agent-open-source.md/">Trae Agent je nově open source</a></h3>
+  <time>03. 07. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/2025-0703-trae-agent-open-source/">Trae Agent je nově open source</a></h3>
+  <time>03. 07. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/replit-dynamicka-inteligence.md/">Replit Agent získal dynamickou inteligenci</a></h3>
+  <time>02. 07. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/replit-dynamicka-inteligence/">Replit Agent získal dynamickou inteligenci</a></h3>
+  <time>02. 07. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-code-hooks.md/">Claude Code Hooks</a></h3>
+  <time>01. 07. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-code-hooks/">Claude Code Hooks</a></h3>
+  <time>01. 07. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/jak-vyvijet-s-lovable.md/">Tipy a triky pro efektivní vývoj s platformou Lovable</a></h3>
+  <time>25. 06. 2025</time>
+  
+    <p>Praktické tipy a triky pro efektivní vývoj s platformou Lovable od zkušeného seniorního vývojáře po více než 100 projektech.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/jak-vyvijet-s-lovable/">Tipy a triky pro efektivní vývoj s platformou Lovable</a></h3>
+  <time>25. 06. 2025</time>
+  
+    <p>Praktické tipy a triky pro efektivní vývoj s platformou Lovable od zkušeného seniorního vývojáře po více než 100 projektech.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/gemini-cli.md/">Google uvedl Gemini CLI</a></h3>
+  <time>25. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/gemini-cli/">Google uvedl Gemini CLI</a></h3>
+  <time>25. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/databutton_databaze.md/">Databutton integruje databázi a ověřování do aplikací vytvářených umělou inteligencí</a></h3>
+  <time>20. 06. 2025</time>
+  
+    <p>Databutton integruje databázi a ověřování přímo do platformy, čímž eliminuje potřebu externích služeb při vytváření aplikací pomocí AI.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/databutton_databaze/">Databutton integruje databázi a ověřování do aplikací vytvářených umělou inteligencí</a></h3>
+  <time>20. 06. 2025</time>
+  
+    <p>Databutton integruje databázi a ověřování přímo do platformy, čímž eliminuje potřebu externích služeb při vytváření aplikací pomocí AI.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-code-mcp.md/">Claude Code přidává podporu MCP serveru</a></h3>
+  <time>20. 06. 2025</time>
+  
+    <p>Nyní se můžete připojit ke vzdáleným serverům MCP z Claude Code</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-code-mcp/">Claude Code přidává podporu MCP serveru</a></h3>
+  <time>20. 06. 2025</time>
+  
+    <p>Nyní se můžete připojit ke vzdáleným serverům MCP z Claude Code</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/lovable-security-scan.md/">Lovable rozšiřuje bezpečnostní funkce pro tvorbu aplikací bez kódování</a></h3>
+  <time>15. 06. 2025</time>
+  
+    <p>Platforma Lovable přidala automatické bezpečnostní skenování, AI revizoře a ochranu API klíčů pro bezpečnější vývoj aplikací bez programování.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/lovable-security-scan/">Lovable rozšiřuje bezpečnostní funkce pro tvorbu aplikací bez kódování</a></h3>
+  <time>15. 06. 2025</time>
+  
+    <p>Platforma Lovable přidala automatické bezpečnostní skenování, AI revizoře a ochranu API klíčů pro bezpečnější vývoj aplikací bez programování.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/softgen-planing.md/">Softgen AI přidává uložené příkazy a plánovací režim</a></h3>
+  <time>15. 06. 2025</time>
+  
+    <p>Softgen AI rozšířil svou platformu o funkci ukládání příkazů a nový plánovací režim pro strategické řízení projektů bez kódování.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/softgen-planing/">Softgen AI přidává uložené příkazy a plánovací režim</a></h3>
+  <time>15. 06. 2025</time>
+  
+    <p>Softgen AI rozšířil svou platformu o funkci ukládání příkazů a nový plánovací režim pro strategické řízení projektů bez kódování.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/best-of-n-codex.md/">OpenAI vylepšil Codex o funkci nejlepšího  výsledku Best of N</a></h3>
+  <time>14. 06. 2025</time>
+  
+    <p>OpenAI vylepšil svůj nástroj Codex funkcí Best of N pro generování více řešení najednou a přidal řadu praktických vylepšení pro vývojáře.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/best-of-n-codex/">OpenAI vylepšil Codex o funkci nejlepšího  výsledku Best of N</a></h3>
+  <time>14. 06. 2025</time>
+  
+    <p>OpenAI vylepšil svůj nástroj Codex funkcí Best of N pro generování více řešení najednou a přidal řadu praktických vylepšení pro vývojáře.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/windsurf-wave-10-3.md/">Windsurf Wave 10 3.md</a></h3>
+  <time>13. 06. 2025</time>
+  
+    <p>Windsurf dokončuje Wave 10 aktualizace s evropským clusterem, rozšířením PCW metriky pro Cascade a vylepšením uživatelského rozhraní.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/windsurf-wave-10-3/">Windsurf Wave 10 3</a></h3>
+  <time>13. 06. 2025</time>
+  
+    <p>Windsurf dokončuje Wave 10 aktualizace s evropským clusterem, rozšířením PCW metriky pro Cascade a vylepšením uživatelského rozhraní.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-todo-list.md/">Cursor 1.1 nabídne ToDo List</a></h3>
+  <time>13. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-todo-list/">Cursor 1.1 nabídne ToDo List</a></h3>
+  <time>13. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude_code_sdk.md/">Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran</a></h3>
+  <time>13. 06. 2025</time>
+  
+    <p>Anthropic představil vývojářskou sadu pro Claude Code, která umožňuje začlenění AI asistenta do aplikací. Sada podporuje neinteraktivní režim, vícekrokové rozhovory a MCP protokol.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude_code_sdk/">Anthropic vydal SDK pro Claude Code pro začlenění AI vývoje do aplikací třetích stran</a></h3>
+  <time>13. 06. 2025</time>
+  
+    <p>Anthropic představil vývojářskou sadu pro Claude Code, která umožňuje začlenění AI asistenta do aplikací. Sada podporuje neinteraktivní režim, vícekrokové rozhovory a MCP protokol.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/rezim-planu.md/">Novinka v Claude Code: Režim implementačního plánu</a></h3>
+  <time>12. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/rezim-planu/">Novinka v Claude Code: Režim implementačního plánu</a></h3>
+  <time>12. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/windsurf-browser.md/">Windsurf Browser: Nový AI-integrovaný prohlížeč pro vývojáře</a></h3>
+  <time>11. 06. 2025</time>
+  
+    <p>Windsurf Browser rozšiřuje možnosti AI asistenta Cascade o nativní integraci s webovým prohlížečem pro lepší pochopení kontextu práce vývojářů.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/windsurf-browser/">Windsurf Browser: Nový AI-integrovaný prohlížeč pro vývojáře</a></h3>
+  <time>11. 06. 2025</time>
+  
+    <p>Windsurf Browser rozšiřuje možnosti AI asistenta Cascade o nativní integraci s webovým prohlížečem pro lepší pochopení kontextu práce vývojářů.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/tempolabs/figma-modul/">Tempolabs představuje modul pro Figma s převodem designu na kód pomocí AI</a></h3>
+  <time>11. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/windsurf-planing-mode.md/">Windsurf zavádí Planning Mode pro dlouhodobé plánování projektů, model O3 zlevňuje</a></h3>
+  <time>10. 06. 2025</time>
+  
+    <p>Windsurf představil Planning Mode pro dlouhodobé plánování projektů s AI a snížil ceny modelu O3 z 7,5x na 1x kredit.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/windsurf-planing-mode/">Windsurf zavádí Planning Mode pro dlouhodobé plánování projektů, model O3 zlevňuje</a></h3>
+  <time>10. 06. 2025</time>
+  
+    <p>Windsurf představil Planning Mode pro dlouhodobé plánování projektů s AI a snížil ceny modelu O3 z 7,5x na 1x kredit.</p>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/mcp-app-store-styling-panel.md/">Tempo Labs Volume 2: MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav</a></h3>
+  <time>10. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/mcp-app-store-styling-panel/">Tempo Labs Volume 2: MCP App Store, Styling Panel V2, přihlášení přes Google a několik dalších úprav</a></h3>
+  <time>10. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/import-figma-designs.md/">Import Figma designů do Replit Agent</a></h3>
+  <time>10. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/import-figma-designs/">Import Figma designů do Replit Agent</a></h3>
+  <time>10. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/vscode-jetbrains.md/">Claude Code je nyní hlouběji integrován s VS Code a IDE JetBrains</a></h3>
+  <time>10. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/vscode-jetbrains/">Claude Code je nyní hlouběji integrován s VS Code a IDE JetBrains</a></h3>
+  <time>10. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/pristup-pro-plus-uzivatele.md/">Codex dostupný v rámci předplatitného ChatGPT Plus</a></h3>
+  <time>03. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/pristup-pro-plus-uzivatele/">Codex dostupný v rámci předplatitného ChatGPT Plus</a></h3>
+  <time>03. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/internetovy-pristup.md/">Codex získává internetový přístup</a></h3>
+  <time>03. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/internetovy-pristup/">Codex získává internetový přístup</a></h3>
+  <time>03. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/diktat-hlasem.md/">Codex přidává podporu hlasového diktátu</a></h3>
+  <time>03. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/diktat-hlasem/">Codex přidává podporu hlasového diktátu</a></h3>
+  <time>03. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/aktualizace-pull-requestu.md/">Codex pomáhá s aktualizací pull requestů</a></h3>
+  <time>03. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/aktualizace-pull-requestu/">Codex pomáhá s aktualizací pull requestů</a></h3>
+  <time>03. 06. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/memex-llm-mcp.md/">Memex integruje nová LLM a šablony MCP</a></h3>
+  <time>25. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/memex-llm-mcp/">Memex integruje nová LLM a šablony MCP</a></h3>
+  <time>25. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/element-editor.md/">Element Editor - klikni, uprav, publikuj</a></h3>
+  <time>22. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/element-editor/">Element Editor - klikni, uprav, publikuj</a></h3>
+  <time>22. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/safe-vibe-coding.md/">Replit - nejbezpečnější místo pro vibe coding</a></h3>
+  <time>15. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/safe-vibe-coding/">Replit - nejbezpečnější místo pro vibe coding</a></h3>
+  <time>15. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/custom-domain.md/"> Custom Domain Deployment Enhancements - Vylepšené nasazení na vlastní domény</a></h3>
+  <time>10. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/custom-domain/"> Custom Domain Deployment Enhancements - Vylepšené nasazení na vlastní domény</a></h3>
+  <time>10. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/replit-auth.md/">Replit Auth - bezpečné přihlašování jedním příkazem</a></h3>
+  <time>08. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/replit-auth/">Replit Auth - bezpečné přihlašování jedním příkazem</a></h3>
+  <time>08. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/lovable-2.md/">Reakce na vydání Lovable 2.0</a></h3>
+  <time>04. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/lovable-2/">Reakce na vydání Lovable 2.0</a></h3>
+  <time>04. 05. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/lovable-2-nove_funkce.md/">Lovable 2.0: Nové funkce pro AI tvorbu webových aplikací</a></h3>
+  <time>25. 04. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/lovable-2-nove_funkce/">Lovable 2.0: Nové funkce pro AI tvorbu webových aplikací</a></h3>
+  <time>25. 04. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/oprava-ui.md/">AI-Driven UI Glitch Correction - Oprava chyb uživatelského rozhraní pomocí AI</a></h3>
+  <time>15. 04. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/oprava-ui/">AI-Driven UI Glitch Correction - Oprava chyb uživatelského rozhraní pomocí AI</a></h3>
+  <time>15. 04. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/nova-funkce-databutton.md/">Kanban Board Integration - Integrovaný Kanban board pro správu úkolů</a></h3>
+  <time>20. 03. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/nova-funkce-databutton/">Kanban Board Integration - Integrovaný Kanban board pro správu úkolů</a></h3>
+  <time>20. 03. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/memex-hardware-design.md/">Memex Hardware Design: AI-powered CAD/CAM pro každého</a></h3>
+  <time>25. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/memex-hardware-design/">Memex Hardware Design: AI-powered CAD/CAM pro každého</a></h3>
+  <time>25. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-composer-update.md/">Cursor představuje Composer - AI agent pro komplexní změny kódu</a></h3>
+  <time>22. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-composer-update/">Cursor představuje Composer - AI agent pro komplexní změny kódu</a></h3>
+  <time>22. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-codebase-indexing.md/">Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu</a></h3>
+  <time>19. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-codebase-indexing/">Cursor vylepšuje Codebase Indexing - rychlejší pochopení projektu</a></h3>
+  <time>19. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-debugging.md/">Claude Code vylepšuje debugging - nové možnosti</a></h3>
+  <time>18. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/claude-debugging/">Claude Code vylepšuje debugging - nové možnosti</a></h3>
+  <time>18. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-cmd-k-improvements.md/">Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem</a></h3>
+  <time>16. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/cursor-cmd-k-improvements/">Cursor vylepšuje Cmd+K chat - inteligentnější konverzace s kódem</a></h3>
+  <time>16. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/windsurf-ai-assistant.md/">Windsurf přidává pokročilého AI asistenta přímo do editoru</a></h3>
+  <time>15. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/windsurf-ai-assistant/">Windsurf přidává pokročilého AI asistenta přímo do editoru</a></h3>
+  <time>15. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/tempolabs-instant-deploy.md/">Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty</a></h3>
+  <time>10. 01. 2025</time>
+  
+</article>
+
+<article class="post-preview">
+  <h3><a href="/vibecoding/tempolabs-instant-deploy/">Tempolabs představuje Instant Deploy - od nápadu k produkci za minuty</a></h3>
+  <time>10. 01. 2025</time>
+  
+</article>
+
+<h2 id="️-populární-nástroje">🛠️ Populární nástroje</h2>
+
+<div class="tools-grid">
+  <div class="tool-card">
+    <h3><a href="/vibecoding/claude-code/">🟣 Claude Code</a></h3>
+    <p>Terminálový AI asistent od Anthropic</p>
+  </div>
+  
+  <div class="tool-card">
+    <h3><a href="/vibecoding/cursor/">⚡ Cursor</a></h3>
+    <p>IDE s vestavěnými AI funkcemi</p>
+  </div>
+  
+  <div class="tool-card">
+    <h3><a href="/vibecoding/windsurf/">🌊 Windsurf</a></h3>
+    <p>Pokročilé IDE pro AI vývoj</p>
+  </div>
+  
+  <div class="tool-card">
+    <h3><a href="/vibecoding/lovable-dev/">💖 Lovable.dev</a></h3>
+    <p>Rychlý vývoj webových aplikací</p>
+  </div>
+</div>
+
+<style>
+.button-primary {
+  display: inline-block;
+  padding: 12px 24px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: transform 0.2s;
+}
+
+.button-primary:hover {
+  transform: translateY(-2px);
+}
+
+.post-preview {
+  margin-bottom: 2em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #eee;
+}
+
+.post-preview h3 {
+  margin: 0 0 0.5em 0;
+}
+
+.post-preview time {
+  color: #666;
+  font-size: 0.9em;
+}
+
+.tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin: 2em 0;
+}
+
+.tool-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1.5em;
+  background: #f9f9f9;
+  transition: box-shadow 0.3s;
+}
+
+.tool-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.tool-card h3 {
+  margin-top: 0;
+}
+
+.tool-card p {
+  color: #666;
+  margin: 0;
+}
+</style>
+
+
+  </div>
+</article>
+
         </div>
       </div>
 

@@ -3,11 +3,11 @@
 ## Build nastavení
 
 ### Framework preset
-- **Jekyll** (vybrat z nabídky)
+- **None** (nevybírat žádný preset)
 
 ### Build command
 ```bash
-bundle install && bundle exec jekyll build --config _config_vibecoding.yml
+gem install bundler && bundle install && bundle exec jekyll build --config _config_vibecoding.yml && cp _site/vibecoding-index/index.html _site/index.html 2>/dev/null || true
 ```
 
 ### Build output directory
@@ -22,6 +22,7 @@ _site
 
 ```
 JEKYLL_ENV = production
+RUBY_VERSION = 3.0.0
 ```
 
 ## Branch deployments

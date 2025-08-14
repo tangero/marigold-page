@@ -26491,6 +26491,15 @@
   
     
     ,{
+      "title"    : "Vibecoding.cz",
+      "url"      : "//",
+      "category" : "stránka",
+      "content"  : "# Vibecoding.cz - AI nástroje pro programováníPrůvodce světem AI nástrojů pro programování a vývoj software.  📚 Přehled všech nástrojů## 🔥 Nejnovější články{% assign vibecoding_posts = site.vibecoding | sort: &quot;date&quot; | reverse | limit: 10 %}{% for post in vibecoding_posts %}  {{ post.title }}  {{ post.date | date: &quot;%d. %m. %Y&quot; }}  {% if post.post_excerpt %}    {{ post.post_excerpt }}  {% endif %}{% endfor %}## 🛠️ Populární nástroje      🟣 Claude Code    Terminálový AI asistent od Anthropic          ⚡ Cursor    IDE s vestavěnými AI funkcemi          🌊 Windsurf    Pokročilé IDE pro AI vývoj          💖 Lovable.dev    Rychlý vývoj webových aplikací  "
+    }
+    
+  
+    
+    ,{
       "title"    : "Lovable.dev - Vibe Coding",
       "url"      : "//vibecoding/lovable-dev/",
       "category" : "stránka",
