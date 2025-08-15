@@ -5,39 +5,7 @@ custom_css: /assets/vibecoding-index.css
 ---
 
 <div class="homepage">
-  <div class="hero-section">
-    <h1>AI nástroje pro programování</h1>
-    <p class="hero-subtitle">Průvodce světem AI nástrojů pro vývoj software</p>
-  </div>
 
-  <div class="platforms-dropdown">
-    <div class="dropdown-container">
-      <button class="dropdown-btn" onclick="toggleDropdown()">
-        🛠️ AI Platformy <span class="dropdown-arrow">▼</span>
-      </button>
-      <div class="dropdown-content" id="platformsDropdown">
-        <div class="dropdown-section">
-          <div class="dropdown-label">💻 Desktop IDE</div>
-          <a href="/cursor/">🖱️ Cursor</a>
-          <a href="/windsurf/">🌊 Windsurf</a>
-          <a href="/memex/">🧠 Memex</a>
-        </div>
-        <div class="dropdown-section">
-          <div class="dropdown-label">☁️ Cloud nástroje</div>
-          <a href="/databutton/">🔴 Databutton</a>
-          <a href="/lovable-dev/">💖 Lovable.dev</a>
-          <a href="/tempolabs/">⚡ Tempolabs</a>
-          <a href="/replit/">🟠 Replit</a>
-        </div>
-        <div class="dropdown-section">
-          <div class="dropdown-label">🤖 Terminál & Chat</div>
-          <a href="/claude-code/">🟣 Claude Code</a>
-          <a href="/openai-codex/">🟢 OpenAI Codex</a>
-          <a href="/gemini-cli/">🔵 Gemini CLI</a>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <h2 class="section-title">📰 Nejnovější články</h2>
 
