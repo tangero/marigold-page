@@ -20,6 +20,89 @@
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-config" content="/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
+    
+    <style>
+    .dropdown-inline {
+      display: inline-block;
+      position: relative;
+    }
+    
+    .dropdown-btn-nav {
+      background: none;
+      color: inherit;
+      border: none;
+      padding: 0;
+      font: inherit;
+      cursor: pointer;
+      text-decoration: none;
+    }
+    
+    .dropdown-btn-nav:hover {
+      text-decoration: underline;
+    }
+    
+    .dropdown-arrow {
+      font-size: 10px;
+      transition: transform 0.3s ease;
+    }
+    
+    nav .dropdown-content {
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+      border: 1px solid #ddd;
+      min-width: 280px;
+      z-index: 1000;
+      opacity: 0;
+      visibility: hidden;
+      transform: translateX(-50%) translateY(-10px);
+      transition: all 0.3s ease;
+      margin-top: 10px;
+    }
+    
+    nav .dropdown-content.show {
+      opacity: 1;
+      visibility: visible;
+      transform: translateX(-50%) translateY(0);
+    }
+    
+    nav .dropdown-section {
+      padding: 12px 16px;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    
+    nav .dropdown-section:last-child {
+      border-bottom: none;
+    }
+    
+    nav .dropdown-label {
+      font-weight: 600;
+      color: #333;
+      margin-bottom: 6px;
+      font-size: 13px;
+    }
+    
+    nav .dropdown-content a {
+      display: block;
+      padding: 6px 10px;
+      color: #555;
+      text-decoration: none;
+      border-radius: 4px;
+      margin: 2px 0;
+      transition: all 0.2s ease;
+      font-size: 14px;
+    }
+    
+    nav .dropdown-content a:hover {
+      background: #f8f9ff;
+      color: #667eea;
+      transform: translateX(3px);
+    }
+    </style>
   </head>
 
   <body>
@@ -37,7 +120,33 @@
             </div>
 
             <nav>
-              <a href="https://www.marigold.cz/">🏠 Marigold.cz</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a>
+              <a href="https://www.marigold.cz/">🏠 Marigold.cz</a> | <a href="https://www.prolnuto.cz/">🧑‍💻 Kurzy AI</a> | 
+              <div class="dropdown-inline">
+                <button class="dropdown-btn-nav" onclick="toggleDropdown()">
+                  🛠️ AI Platformy <span class="dropdown-arrow">▼</span>
+                </button>
+                <div class="dropdown-content" id="platformsDropdown">
+                  <div class="dropdown-section">
+                    <div class="dropdown-label">💻 Desktop IDE</div>
+                    <a href="/vibecoding/cursor/">🖱️ Cursor</a>
+                    <a href="/vibecoding/windsurf/">🌊 Windsurf</a>
+                    <a href="/vibecoding/memex/">🧠 Memex</a>
+                  </div>
+                  <div class="dropdown-section">
+                    <div class="dropdown-label">☁️ Cloud nástroje</div>
+                    <a href="/vibecoding/databutton/">🔴 Databutton</a>
+                    <a href="/vibecoding/lovable-dev/">💖 Lovable.dev</a>
+                    <a href="/vibecoding/tempolabs/">⚡ Tempolabs</a>
+                    <a href="/vibecoding/replit/">🟠 Replit</a>
+                  </div>
+                  <div class="dropdown-section">
+                    <div class="dropdown-label">🤖 Terminál & Chat</div>
+                    <a href="/vibecoding/claude-code/">🟣 Claude Code</a>
+                    <a href="/vibecoding/openai-codex/">🟢 OpenAI Codex</a>
+                    <a href="/vibecoding/gemini-cli/">🔵 Gemini CLI</a>
+                  </div>
+                </div>
+              </div>
             </nav>
           </header>
         </div>
@@ -45,7 +154,6 @@
 
       <div class="wrapper-main">
         <div id="main" role="main" class="container">
-          {% include vibecoding-header.html %}
           {{ content }}
         </div>
       </div>
@@ -62,18 +170,30 @@
     {% include analytics.html %}
 
     <script>
-    function toggleDetails(button) {
-      const content = button.nextElementSibling;
-      const isCollapsed = button.classList.contains('collapsed');
+    function toggleDropdown() {
+      const dropdown = document.getElementById('platformsDropdown');
+      const arrow = document.querySelector('.dropdown-arrow');
       
-      if (isCollapsed) {
-        button.classList.remove('collapsed');
-        content.classList.add('show');
+      if (dropdown.classList.contains('show')) {
+        dropdown.classList.remove('show');
+        arrow.textContent = '▼';
       } else {
-        button.classList.add('collapsed');
-        content.classList.remove('show');
+        dropdown.classList.add('show');
+        arrow.textContent = '▲';
       }
     }
+    
+    // Zavření dropdown při kliknutí mimo
+    document.addEventListener('click', function(e) {
+      const dropdown = document.getElementById('platformsDropdown');
+      const btn = document.querySelector('.dropdown-btn-nav');
+      
+      if (dropdown && btn && !btn.contains(e.target) && !dropdown.contains(e.target)) {
+        dropdown.classList.remove('show');
+        const arrow = document.querySelector('.dropdown-arrow');
+        if (arrow) arrow.textContent = '▼';
+      }
+    });
     </script>
   </body>
 </html>
