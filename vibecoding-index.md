@@ -5,8 +5,6 @@ custom_css: /assets/vibecoding-index.css
 ---
 
 <div class="homepage">
-
-
   <h2 class="section-title">📰 Nejnovější články</h2>
 
   <div class="articles-list" id="articles-container">
@@ -176,29 +174,4 @@ custom_css: /assets/vibecoding-index.css
   // Inicializace při načtení stránky
   document.addEventListener('DOMContentLoaded', initPagination);
 })();
-
-// Dropdown menu funkce
-function toggleDropdown() {
-  const dropdown = document.getElementById('platformsDropdown');
-  const arrow = document.querySelector('.dropdown-arrow');
-  
-  if (dropdown.classList.contains('show')) {
-    dropdown.classList.remove('show');
-    arrow.textContent = '▼';
-  } else {
-    dropdown.classList.add('show');
-    arrow.textContent = '▲';
-  }
-}
-
-// Zavření dropdown při kliknutí mimo
-document.addEventListener('click', function(e) {
-  const dropdown = document.getElementById('platformsDropdown');
-  const btn = document.querySelector('.dropdown-btn');
-  
-  if (!btn.contains(e.target) && !dropdown.contains(e.target)) {
-    dropdown.classList.remove('show');
-    document.querySelector('.dropdown-arrow').textContent = '▼';
-  }
-});
 </script>
