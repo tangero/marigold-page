@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Gemini CLI - Vibe Coding
-permalink: /vibecoding/gemini-cli/
+permalink: /gemini-cli/
 ---
 
-{% include vibecoding-header.html %}
 
 # 💎 Gemini CLI
 

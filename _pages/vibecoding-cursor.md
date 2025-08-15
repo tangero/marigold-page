@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Cursor - Vibe Coding
-permalink: /vibecoding/cursor/
+permalink: /cursor/
 ---
 
-{% include vibecoding-header.html %}
 
 # ⚡ Cursor
 

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Ostatní nástroje - Vibe Coding
-permalink: /vibecoding/ostatni/
+permalink: /ostatni/
 ---
 
-{% include vibecoding-header.html %}
 
 # 🔧 Ostatní nástroje
 

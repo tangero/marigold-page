@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Lovable.dev - Vibe Coding
-permalink: /vibecoding/lovable-dev/
+permalink: /lovable-dev/
 ---
 
-{% include vibecoding-header.html %}
 
 # ❤️ Lovable.dev
 

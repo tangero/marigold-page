@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Tempolabs - Vibe Coding
-permalink: /vibecoding/tempolabs/
+permalink: /tempolabs/
 ---
 
-{% include vibecoding-header.html %}
 
 # ⚡ Tempolabs
 

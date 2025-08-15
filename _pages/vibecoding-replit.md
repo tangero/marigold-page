@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Replit - Vibe Coding
-permalink: /vibecoding/replit/
+permalink: /replit/
 ---
 
-{% include vibecoding-header.html %}
 
 # 🚀 Replit
 

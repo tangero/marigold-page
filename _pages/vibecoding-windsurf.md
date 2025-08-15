@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Windsurf - Vibe Coding
-permalink: /vibecoding/windsurf/
+permalink: /windsurf/
 ---
 
-{% include vibecoding-header.html %}
 
 # 🌊 Windsurf
 

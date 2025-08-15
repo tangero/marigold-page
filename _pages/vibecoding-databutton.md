@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Databutton - Vibe Coding
-permalink: /vibecoding/databutton/
+permalink: /databutton/
 ---
 
-{% include vibecoding-header.html %}
 
 # 📊 Databutton
 

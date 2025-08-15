@@ -38,6 +38,18 @@ defaults:
 include:
   - vibecoding-index.md
   - assets/vibecoding-index.css
+  - _pages/vibecoding-cursor.md
+  - _pages/vibecoding-windsurf.md
+  - _pages/vibecoding-memex.md
+  - _pages/vibecoding-databutton.md
+  - _pages/vibecoding-lovable.md
+  - _pages/vibecoding-tempolabs.md
+  - _pages/vibecoding-replit.md
+  - _pages/vibecoding-claude.md
+  - _pages/vibecoding-codex.md
+  - _pages/vibecoding-gemini-cli.md
+  - _pages/vibecoding-ostatni.md
+  - _pages/vibecoding-archiv.md
 
 # Vyloučit všechno ostatní kromě vibecoding
 exclude:

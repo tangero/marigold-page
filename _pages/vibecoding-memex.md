@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Memex - Vibe Coding
-permalink: /vibecoding/memex/
+permalink: /memex/
 ---
 
-{% include vibecoding-header.html %}
 
 # 🧠 Memex
 

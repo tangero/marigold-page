@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Claude Code - Vibe Coding
-permalink: /vibecoding/claude-code/
+permalink: /claude-code/
 ---
 
-{% include vibecoding-header.html %}
 
 # 🟣 Claude Code
 
