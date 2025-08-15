@@ -19,31 +19,42 @@ custom_css: /assets/vibecoding-index.css
       {% case folder_name %}
         {% when "claude-code" %}
           {% assign software_name = "🟣 Claude Code" %}
+          {% assign software_url = "/claude-code/" %}
         {% when "cursor" %}
           {% assign software_name = "⚡ Cursor" %}
+          {% assign software_url = "/cursor/" %}
         {% when "windsurf" %}
           {% assign software_name = "🌊 Windsurf" %}
+          {% assign software_url = "/windsurf/" %}
         {% when "lovable-dev" %}
           {% assign software_name = "💖 Lovable.dev" %}
+          {% assign software_url = "/lovable-dev/" %}
         {% when "databutton" %}
           {% assign software_name = "📊 Databutton" %}
+          {% assign software_url = "/databutton/" %}
         {% when "replit" %}
           {% assign software_name = "🚀 Replit" %}
+          {% assign software_url = "/replit/" %}
         {% when "gemini-cli" %}
           {% assign software_name = "💎 Gemini CLI" %}
+          {% assign software_url = "/gemini-cli/" %}
         {% when "openai-codex" %}
           {% assign software_name = "🤖 OpenAI Codex" %}
+          {% assign software_url = "/openai-codex/" %}
         {% when "tempolabs" %}
           {% assign software_name = "⚡ Tempolabs" %}
+          {% assign software_url = "/tempolabs/" %}
         {% when "memex" %}
           {% assign software_name = "🧠 Memex" %}
+          {% assign software_url = "/memex/" %}
         {% else %}
           {% assign software_name = folder_name | capitalize %}
+          {% assign software_url = "/" | append: folder_name | append: "/" %}
       {% endcase %}
 
       <article class="article-preview" data-index="{{ forloop.index }}">
         <div class="article-meta">
-          <span class="article-software">{{ software_name }}</span>
+          <a href="{{ software_url }}" class="article-software">{{ software_name }}</a>
           <time class="article-date">{{ post.date | date: "%d. %m. %Y" }}</time>
         </div>
         

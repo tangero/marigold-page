@@ -39,6 +39,13 @@
   font-weight: 600;
   color: #667eea;
   font-size: 0.9rem;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.article-software:hover {
+  color: #764ba2;
+  text-decoration: underline;
 }
 
 .article-date {
