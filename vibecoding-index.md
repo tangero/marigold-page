@@ -10,32 +10,31 @@ custom_css: /assets/vibecoding-index.css
     <p class="hero-subtitle">Průvodce světem AI nástrojů pro vývoj software</p>
   </div>
 
-  <div class="platforms-grid">
-    <div class="platform-category">
-      <h3>💻 Desktop IDE</h3>
-      <div class="platform-links">
-        <a href="/cursor/" class="platform-link">🖱️ Cursor</a>
-        <a href="/windsurf/" class="platform-link">🌊 Windsurf</a>
-        <a href="/memex/" class="platform-link">🧠 Memex</a>
-      </div>
-    </div>
-    
-    <div class="platform-category">
-      <h3>☁️ Cloud nástroje</h3>
-      <div class="platform-links">
-        <a href="/databutton/" class="platform-link">🔴 Databutton</a>
-        <a href="/lovable-dev/" class="platform-link">💖 Lovable.dev</a>
-        <a href="/tempolabs/" class="platform-link">⚡ Tempolabs</a>
-        <a href="/replit/" class="platform-link">🟠 Replit</a>
-      </div>
-    </div>
-    
-    <div class="platform-category">
-      <h3>🤖 Terminál & Chat</h3>
-      <div class="platform-links">
-        <a href="/claude-code/" class="platform-link">🟣 Claude Code</a>
-        <a href="/openai-codex/" class="platform-link">🟢 OpenAI Codex</a>
-        <a href="/gemini-cli/" class="platform-link">🔵 Gemini CLI</a>
+  <div class="platforms-dropdown">
+    <div class="dropdown-container">
+      <button class="dropdown-btn" onclick="toggleDropdown()">
+        🛠️ AI Platformy <span class="dropdown-arrow">▼</span>
+      </button>
+      <div class="dropdown-content" id="platformsDropdown">
+        <div class="dropdown-section">
+          <div class="dropdown-label">💻 Desktop IDE</div>
+          <a href="/cursor/">🖱️ Cursor</a>
+          <a href="/windsurf/">🌊 Windsurf</a>
+          <a href="/memex/">🧠 Memex</a>
+        </div>
+        <div class="dropdown-section">
+          <div class="dropdown-label">☁️ Cloud nástroje</div>
+          <a href="/databutton/">🔴 Databutton</a>
+          <a href="/lovable-dev/">💖 Lovable.dev</a>
+          <a href="/tempolabs/">⚡ Tempolabs</a>
+          <a href="/replit/">🟠 Replit</a>
+        </div>
+        <div class="dropdown-section">
+          <div class="dropdown-label">🤖 Terminál & Chat</div>
+          <a href="/claude-code/">🟣 Claude Code</a>
+          <a href="/openai-codex/">🟢 OpenAI Codex</a>
+          <a href="/gemini-cli/">🔵 Gemini CLI</a>
+        </div>
       </div>
     </div>
   </div>
@@ -209,4 +208,29 @@ custom_css: /assets/vibecoding-index.css
   // Inicializace při načtení stránky
   document.addEventListener('DOMContentLoaded', initPagination);
 })();
+
+// Dropdown menu funkce
+function toggleDropdown() {
+  const dropdown = document.getElementById('platformsDropdown');
+  const arrow = document.querySelector('.dropdown-arrow');
+  
+  if (dropdown.classList.contains('show')) {
+    dropdown.classList.remove('show');
+    arrow.textContent = '▼';
+  } else {
+    dropdown.classList.add('show');
+    arrow.textContent = '▲';
+  }
+}
+
+// Zavření dropdown při kliknutí mimo
+document.addEventListener('click', function(e) {
+  const dropdown = document.getElementById('platformsDropdown');
+  const btn = document.querySelector('.dropdown-btn');
+  
+  if (!btn.contains(e.target) && !dropdown.contains(e.target)) {
+    dropdown.classList.remove('show');
+    document.querySelector('.dropdown-arrow').textContent = '▼';
+  }
+});
 </script>
