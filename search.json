@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "🇨🇳 DeepSeek-V3.1 je příliš dobrý čínský model pro  umělou inteligenci",
+      "url"      : "//item/deepseek-v31/",
+      "category" : "AI, DeepSeek, open-source, LLM, Čína",
+      "tags"     : "",
+      "date"     : "21.8.2025",
+      "content"  : "Čínská společnost DeepSeek, která se specializuje na vývoj pokročilých jazykových modelů umělé inteligence, právě uvedla na trh model DeepSeek-V3.1. Jde o masivní systém s 685 miliardami parametrů, který je k dispozici jako otevřený model pod licencí MIT. Model byl tiše publikován na platformě Hugging Face, kde rychle získal pozornost vývojářské komunity a dostal se mezi nejpopulárnější modely.Technické parametry a architekturaDeepSeek-V3.1 představuje významný technologický skok oproti své předchozí verzi. Model disponuje 685 miliardami parametrů, což představuje výrazný nárůst oproti předchůdci, a kontextovým oknem o velikosti 128 000 tokenů. To jej staví na úroveň jiných otevřených modelů jako OpenAI GPT-OSS nebo Google..."
+    },
+  
+    {
       "title"    : "Jak vyprat bitcoiny z Jiříkovského kauzy?",
       "url"      : "//item/jak-se-perou-bitcoiny/",
       "category" : "bitcoin",
@@ -26340,7 +26349,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Context Engineering: Nová disciplína pro tvorbu spolehlivých AI systémů (11.08.2025) OpenAI konečně představila GPT-5. Jaký je? ( 7.08.2025) Dědictví Netscape tlačí internetové služby k centralizaci ( 6.08.2025) Anthropic vydává Claude Opus 4.1 ( 5.08.2025) Novinky v AI a robotice 1.8.2025 -..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI 🇨🇳 DeepSeek-V3.1 je příliš dobrý čínský model pro umělou inteligenci (21.08.2025) Context Engineering: Nová disciplína pro tvorbu spolehlivých AI systémů (11.08.2025) OpenAI konečně představila GPT-5. Jaký je? ( 7.08.2025) Dědictví Netscape tlačí internetové služby k centralizaci ( 6.08.2025) Anthropic vydává Claude..."
     }
     
   
@@ -26360,7 +26369,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 227 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 72 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 228 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 72 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
