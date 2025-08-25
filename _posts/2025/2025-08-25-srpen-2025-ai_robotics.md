@@ -25,9 +25,6 @@ title: Google má AI telefon Pixel a další AI novinky
 
 Poslední srpnový týden roku 2025 přinesl řadu významných oznámení v oblasti umělé inteligence a robotiky. Největší technologické společnosti představily nové funkce pro své produkty, zatímco robotické firmy pokročily v oblasti mobility a manipulace humanoidních robotů.
 
-__Co konkrétně se v tomto článku dozvíte?__ 
-* Obsah
-{:toc}
 
 ## Google rozšiřuje AI funkce napříč produktovým portfoliem
 
