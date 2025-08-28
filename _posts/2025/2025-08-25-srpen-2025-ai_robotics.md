@@ -1,6 +1,8 @@
 ---
-author: Patrick Zandl
 audio: true
+audio_generated: '2025-08-25T07:42:32.953988'
+audio_url: https://www.marigold.cz/audio/2025-08-25-srpen-2025-ai_robotics.mp3
+author: Patrick Zandl
 categories:
 - AI
 - robotika
@@ -12,17 +14,19 @@ categories:
 - Boston Dynamics
 - DeepSeek
 layout: post
-post_excerpt: Přehled nejvýznamnějších novinek týdne v AI a robotice - od nových funkcí Google Pixelu až po pokroky v humanoidní robotice a modely logického uvažování.
+post_excerpt: Přehled nejvýznamnějších novinek týdne v AI a robotice - od nových funkcí
+  Google Pixelu až po pokroky v humanoidní robotice a modely logického uvažování.
 summary_points:
-- Google představil více než 20 nových AI funkcí pro telefony Pixel a službu Gemini for Government
+- Google představil více než 20 nových AI funkcí pro telefony Pixel a službu Gemini
+  for Government
 - Microsoft přidal funkci =COPILOT() do Excelu pro automatickou analýzu dat
-- Alibaba vydala model pro úpravu obrázků Qwen-Image-Edit a bezplatnou platformu pro programování Qoder
+- Alibaba vydala model pro úpravu obrázků Qwen-Image-Edit a bezplatnou platformu pro
+  programování Qoder
 - Figure vylepšila pohyblivost svých humanoidních robotů pomocí kontroleru Helix
 - Cohere spustila model Command A Reasoning pro podnikové nasazení
 - DeepSeek představila vylepšenou verzi V3.1 s lepším výkonem v benchmarku SWE-Bench
 title: Google má AI telefon Pixel a další AI novinky
 ---
-
 Poslední srpnový týden roku 2025 přinesl řadu významných oznámení v oblasti umělé inteligence a robotiky. Největší technologické společnosti představily nové funkce pro své produkty, zatímco robotické firmy pokročily v oblasti mobility a manipulace humanoidních robotů.
 
 
