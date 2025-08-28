@@ -2980,6 +2980,15 @@
     },
   
     {
+      "title"    : "Apple jde do dětského porna",
+      "url"      : "//item/apple-csam-detska-pornografie/",
+      "category" : "Apple",
+      "tags"     : "",
+      "date"     : "21.8.2021",
+      "content"  : "Apple nově představil technologii pro odhalování takzvané CSAM (Child Sexual Abuse Material), tedy dětské pornografie. Technologie má přijít do iOS v některém z update chystané verze iOS 15 a má pomoci v boji s dětskou pornografií. To ovšem dosti kontroverzním způsobem. iOS zařízení zanalyzuje fotky ukládané na iCloud Photo a pokud tam najde dětskou pornografii, provede akci, u níž se zastavíme pozdějí. Fotky, které jsou uložené jen lokálně, se takto neanalyzují - proto, že se dále nešíří. A Apple deklaruje svůj zájem omezit šíření dětské pornografie. Další věc, která je důležitá: fotografie se analyzují přímo na mobilním telefonu. To ostatně..."
+    },
+  
+    {
       "title"    : "Strategie bydlení - k levnému se neprodaníme, musíme zpřehlednit a deregulovat",
       "url"      : "//item/strategie_levne_bytove_vystavby/",
       "category" : "Bydlení, Politika",
@@ -26378,7 +26387,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 229 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 106 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 73 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 229 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 107 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 73 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
@@ -26438,6 +26447,8 @@
       "category" : "stránka",
       "content"  : "This is a test file to check if the validation and fixing functionality works correctly.It contains HTML entities in the title and excerpt fields, as well as colons and quotes."
     }
+    
+  
     
   
     
