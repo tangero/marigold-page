@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "xAI představila Grok Code Fast 1 pro vývoj",
+      "url"      : "//item/grok-code-fast-1/",
+      "category" : "AI, xAI, programování, reasoning modely, GitHub Copilot, Cursor",
+      "tags"     : "",
+      "date"     : "1.9.2025",
+      "content"  : "Společnost xAI, kterou založil Elon Musk, oznámila uvedení modelu Grok Code Fast 1, který je specificky navržen pro programování a takzvané agentic coding. Model představuje ekonomickou alternativu k současným řešením s důrazem na rychlost odezvy a efektivní práci s vývojářskými nástroji. Grok Code Fast 1 je dočasně dostupný zdarma na vybraných platformách včetně GitHub Copilot a Cursor.Technické specifikace a architekturaGrok Code Fast 1 byl vystavěn od základů s novou architekturou modelu. xAI sestavilo předtrénovací korpus obohacený o programovací obsah a pro dodatečné trénování využilo kvalitní datasety reflektující skutečné pull requesty a programovací úkoly. Během vývoje spolupracovalo xAI s partnerskými platformami..."
+    },
+  
+    {
       "title"    : "Novinky: Nano Banana, xAI Grok Code, NVIDIA Jetson Thor, Microsoft VibeVoice a další",
       "url"      : "//item/ai-novinky-2025-08-31/",
       "category" : "AI, xAI, Microsoft, NVIDIA, OpenAI, Google, Anthropic, Lindy, Kling",
@@ -26376,7 +26385,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Novinky: Nano Banana, xAI Grok Code, NVIDIA Jetson Thor, Microsoft VibeVoice a další (31.08.2025) Google má AI telefon Pixel a další AI novinky (25.08.2025) 🇨🇳 DeepSeek-V3.1 je příliš dobrý čínský model pro umělou inteligenci (21.08.2025) Context Engineering: Nová disciplína pro tvorbu..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI xAI představila Grok Code Fast 1 pro vývoj ( 1.09.2025) Novinky: Nano Banana, xAI Grok Code, NVIDIA Jetson Thor, Microsoft VibeVoice a další (31.08.2025) Google má AI telefon Pixel a další AI novinky (25.08.2025) 🇨🇳 DeepSeek-V3.1 je příliš dobrý čínský model..."
     }
     
   
@@ -26396,7 +26405,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 230 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 107 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 74 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 231 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 107 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 74 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
