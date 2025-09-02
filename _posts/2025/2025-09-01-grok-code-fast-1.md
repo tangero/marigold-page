@@ -1,5 +1,6 @@
 ---
 author: Patrick Zandl
+audio: true
 categories:
 - AI
 - xAI
@@ -17,6 +18,7 @@ summary_points:
 - Na benchmarku SWE-Bench-Verified dosáhl výsledku 70,8 procenta
 - Model byl původně vydán pod kódovým jménem “sonic” pro testování
 title: xAI představila Grok Code Fast 1 pro vývoj
+thumbnail: https://www.marigold.cz/assets/grok-fast-code-1.webp
 ---
 
 Společnost xAI, kterou založil Elon Musk, oznámila uvedení modelu Grok Code Fast 1, který je specificky navržen pro programování a takzvané agentic coding. Model představuje ekonomickou alternativu k současným řešením s důrazem na rychlost odezvy a efektivní práci s vývojářskými nástroji. Grok Code Fast 1 je dočasně dostupný zdarma na vybraných platformách včetně GitHub Copilot a Cursor.
