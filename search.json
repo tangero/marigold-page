@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Nano Banana a kompletní průvodce generováním obrázků pomocí Google Gemini 2.5 Flash",
+      "url"      : "//item/google-nano-banana/",
+      "category" : "AI, Google Gemini, generování obrázků, Nano Banana",
+      "tags"     : "",
+      "date"     : "7.9.2025",
+      "content"  : "Když se v srpnu zjevil obrazový model nazvaný Nano Banana, strhl se kolem toho velký povyk. Především proto, že byl prostě velmi dobrý v práci s obrázky. A tím myslím VELMI dobrý. Záhy se ukázalo, že je to dílo Google a ten jej počátkem záři začlenil do Google Gemini 2.5 Flash. Takže jej nyní mohou používat v rámci tohoto modelu všichni uživatelé. Pojďme se na Nano Banana model podívat - musím se omluvit, označení Gemini 2.5 Flash mi k srdci vážně nepřirostlo…Google Gemini 2.5 Flash je velkým posunem v oblasti generování obrázků díky své nativní multimodální architektuře. Na rozdíl od..."
+    },
+  
+    {
       "title"    : "xAI představila Grok Code Fast 1 pro vývoj",
       "url"      : "//item/grok-code-fast-1/",
       "category" : "AI, xAI, programování, reasoning modely, GitHub Copilot, Cursor",
@@ -26385,7 +26394,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI xAI představila Grok Code Fast 1 pro vývoj ( 1.09.2025) Novinky: Nano Banana, xAI Grok Code, NVIDIA Jetson Thor, Microsoft VibeVoice a další (31.08.2025) Google má AI telefon Pixel a další AI novinky (25.08.2025) 🇨🇳 DeepSeek-V3.1 je příliš dobrý čínský model..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Nano Banana a kompletní průvodce generováním obrázků pomocí Google Gemini 2.5 Flash ( 7.09.2025) xAI představila Grok Code Fast 1 pro vývoj ( 1.09.2025) Novinky: Nano Banana, xAI Grok Code, NVIDIA Jetson Thor, Microsoft VibeVoice a další (31.08.2025) Google má AI..."
     }
     
   
@@ -26405,7 +26414,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 231 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 107 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 74 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 232 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 107 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 19 - Flash: 3 - O2: 3 - Google: 74 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
