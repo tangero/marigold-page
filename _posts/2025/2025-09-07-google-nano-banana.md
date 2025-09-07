@@ -74,7 +74,7 @@ Gemini 2.5 Flash vyniká ve vykreslování textu. Buďte jasní ohledně přesn�
 
 Pro čisté, profesionální snímky produktů používejte fotografickou terminologii:
 
-"Vysoké rozlišení, studiově osvětlená produktová fotografie minimalistického keramického hrnku na kávu v matné černé barvě s výše vygenerovaným inverzním logem "Patrickovo kafíčko", prezentovaného na leštěném betonovém povrchu. Osvětlení je třítbodové softboxové nastavení navržené pro vytvoření měkkých, rozptýlených odlesků a eliminaci ostrých stínů. Úhel kamery je mírně zvýšený 45stupňový záběr pro zvýraznění čistých linií."
+_"Vysoké rozlišení, studiově osvětlená produktová fotografie minimalistického keramického hrnku na kávu v matné černé barvě s výše vygenerovaným inverzním logem "Patrickovo kafíčko", prezentovaného na leštěném betonovém povrchu. Osvětlení je třítbodové softboxové nastavení navržené pro vytvoření měkkých, rozptýlených odlesků a eliminaci ostrých stínů. Úhel kamery je mírně zvýšený 45stupňový záběr pro zvýraznění čistých linií."_
 
 ![Produktová fotografie s logem](/assets/nanobanana_10_38AM.jpeg)
 
@@ -96,7 +96,7 @@ _"Minimalistická kompozice s jediným, jemným červeným javorovým listem um�
 
 ![Komixový panel](/assets/nanobanana_10_45AM.jpeg)
 
-**Obrázek 6: Noir komiksový panel s detektivem v dešti**
+**Obrázek 6: Noir komiksový panel s detektivem v dešti** - jak vidíte, šišlá se tam, v druhém průchodu už to bylo OK :)
 
 ## Pokročilé techniky editace obrázků
 
