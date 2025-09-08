@@ -14,7 +14,7 @@ summary_points:
 - Možnost kombinace více obrázků a přenosu stylů mezi nimi
 - Přesné vykreslování textu v obrázcích pro loga a diagramy
 - Různé přístupy pro fotorealistické scény versus stylizované ilustrace
-title: Nano Banana a kompletní průvodce generováním obrázků pomocí Google Gemini 2.5 Flash
+title: 🍌 Nano Banana a kompletní průvodce generováním obrázků pomocí Google Gemini 2.5 Flash
 thumbnail: https://www.marigold.cz/assets/nanobanana_10_55AM.jpeg
 ---
 
