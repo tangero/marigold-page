@@ -15,7 +15,7 @@ summary_points:
 - Viasat a Space42 přehodnocují své plány na vlastní LEO síť kvůli posílené pozici SpaceX
 - Očekává se konsolidace satelitního průmyslu a postupný rozpad zbývajících operací EchoStar
 title: SpaceX kupuje frekvenční spektrum od EchoStar za 17 miliard dolarů
-thumbnail: /assets/spacex-echostar.jpg
+thumbnail: https://www.marigold.cz/assets/spacex-echostar.jpg
 ---
 
 Echostar tento týden zveřejnil informace o prodeji frekvenčního spektra AWS-4 společnosti SpaceX Elona Muska za 17 miliard dolarů. Naprosto fantastická částka ukazuje, jak je frekvenční spektrum důležité a naznačuje příchod změn. Tato transakce nejen ukončuje plány EchoStar na vlastní konstelaci satelitů pro přímou komunikaci se smartphony, ale současně výrazně ztěžuje pozici stávajících i potenciálních konkurentů SpaceX na rychle se rozvíjejícím trhu satelitních služeb.
