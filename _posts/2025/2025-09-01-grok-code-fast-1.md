@@ -1,6 +1,8 @@
 ---
-author: Patrick Zandl
 audio: true
+audio_generated: '2025-09-11T10:21:55.472461'
+audio_url: https://www.marigold.cz/audio/2025-09-01-grok-code-fast-1.mp3
+author: Patrick Zandl
 categories:
 - AI
 - xAI
@@ -9,18 +11,21 @@ categories:
 - GitHub Copilot
 - Cursor
 layout: post
-post_excerpt: xAI uvedlo Grok Code Fast 1, rychlý a ekonomický model určený pro agentické  kódován s cenou $0.20 za milion vstupních tokenů a podporou hlavních programovacích jazyků.
+post_excerpt: xAI uvedlo Grok Code Fast 1, rychlý a ekonomický model určený pro agentické  kódován
+  s cenou $0.20 za milion vstupních tokenů a podporou hlavních programovacích jazyků.
 summary_points:
-- xAI představilo specializovaný model Grok Code Fast 1 pro programování a agentic coding
-- Model dosahuje rychlosti až 190 tokenů za sekundu při ceně $0.20 za milion vstupních tokenů
-- Podporuje TypeScript, Python, Java, Rust, C++ a Go s integrací běžných vývojářských nástrojů
+- xAI představilo specializovaný model Grok Code Fast 1 pro programování a agentic
+  coding
+- Model dosahuje rychlosti až 190 tokenů za sekundu při ceně $0.20 za milion vstupních
+  tokenů
+- Podporuje TypeScript, Python, Java, Rust, C++ a Go s integrací běžných vývojářských
+  nástrojů
 - Dočasně dostupný zdarma na platformách GitHub Copilot, Cursor, Cline a dalších
 - Na benchmarku SWE-Bench-Verified dosáhl výsledku 70,8 procenta
 - Model byl původně vydán pod kódovým jménem “sonic” pro testování
-title: xAI představila Grok Code Fast 1 pro vývoj
 thumbnail: https://www.marigold.cz/assets/grok-fast-code-1.webp
+title: xAI představila Grok Code Fast 1 pro vývoj
 ---
-
 Společnost xAI, kterou založil Elon Musk, oznámila uvedení modelu Grok Code Fast 1, který je specificky navržen pro programování a takzvané agentic coding. Model představuje ekonomickou alternativu k současným řešením s důrazem na rychlost odezvy a efektivní práci s vývojářskými nástroji. Grok Code Fast 1 je dočasně dostupný zdarma na vybraných platformách včetně GitHub Copilot a Cursor.
 
 ## Technické specifikace a architektura
