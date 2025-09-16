@@ -20,7 +20,7 @@ summary_points:
 title: AI novinky z týdne - Replit Agent 3, Seedream 4.0 a první AI ministr na světě
 ---
 
-Minulý týden se stal milníkem pro umělou inteligenci. Společnosti představily pokročilé autonomní agenty, modely pro generování obrázků dosahující kvality 4K rozlišení a poprvé v historii byla umělá inteligence jmenována do vládní funkce. Nejvýznamnější novinky zahrnují Replit Agent 3 s možností samostatného vývoje aplikací, model Seedream 4.0 od ByteDance pro rychlé vytváření obrázků a historické jmenování AI ministra v Albánii.
+Minulý týden se  opět děly zajímavé věci v umělé inteligenci. Společnosti představily pokročilé autonomní agenty, modely pro generování obrázků dosahující kvality 4K rozlišení a poprvé v historii byla umělá inteligence jmenována do vládní funkce. Nejvýznamnější novinky zahrnují Replit Agent 3 s možností samostatného vývoje aplikací, model Seedream 4.0 od ByteDance pro rychlé vytváření obrázků a historické jmenování AI ministra v Albánii.
 
 ## Replit Agent 3 - autonomní vývoj až 200 minut
 
