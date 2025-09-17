@@ -1,6 +1,15 @@
 [
   
     {
+      "title"    : "Google představil platební protokol AP2 s podporou stablecoinů pro AI agenty",
+      "url"      : "//item/google-ap2-protocol-x402/",
+      "category" : "AI, Google, platby, agenti, kryptoměny, stablecoiny",
+      "tags"     : "",
+      "date"     : "17.9.2025",
+      "content"  : "Google představil Agent Payments Protocol (AP2), otevřený protokol umožňující AI agentům provádět bezpečné platby jménem uživatelů. Novinka rozšiřuje již existující Agent2Agent (A2A) protokol o klíčovou platební funkcionalitu a získala podporu více než 60 technologických a finančních společností včetně Mastercard, PayPal, American Express, Coinbase a Ethereum Foundation. Protokol je také zajímavý kokotováním Google s kryptoměnovou scénou, navíc velmi dobře pochopitelným.AP2 řeší základní problém současných AI agentů, kteří dokážou najít produkty, porovnat ceny nebo připravit nákupní košík, ale nemohou dokončit transakci. Nový protokol vytváří standardizovaný rámec pro bezpečné provedení platby přímo agentem bez nutnosti lidského zásahu při každé transakci.Bezpečnostní mechanismus mandátůKlíčovým prvkem..."
+    },
+  
+    {
       "title"    : "AI novinky z týdne - Replit Agent 3, Seedream 4.0 a první AI ministr na světě",
       "url"      : "//item/ai-novinky-srpen-2025/",
       "category" : "AI, Replit, ByteDance, Anthropic, ElevenLabs, Apple, Baidu",
@@ -26430,7 +26439,7 @@
       "title"    : "Rubrika",
       "url"      : "//rubrika/",
       "category" : "stránka",
-      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI AI novinky z týdne - Replit Agent 3, Seedream 4.0 a první AI ministr na světě (16.09.2025) Co se na Apple keynote nepředstavilo: protokol Apple SPR AVS pro prostorové audio zařízení (11.09.2025) 📘 Meta a Zuckerbergova vize osobní superinteligence ( 8.09.2025)..."
+      "content"  : "Povídka Garangova limita (23.11.2003) Umělá inteligence AI can already help with fiction writing ( 8.09.2024) S psaní beletrie už AI pomůže ( 8.09.2024) Návod na programování s AI, když programovat neumíte (14.08.2024) Jak pomocí umělé inteligence nastudovat téma a napsat lepší článek do novin (23.07.2024) Zápis z porady či jednání pomocí umělé inteligence ( 8.05.2024) Garangova limita (23.11.2003) AI Google představil platební protokol AP2 s podporou stablecoinů pro AI agenty (17.09.2025) AI novinky z týdne - Replit Agent 3, Seedream 4.0 a první AI ministr na světě (16.09.2025) Co se na Apple keynote nepředstavilo: protokol Apple SPR AVS pro prostorové..."
     }
     
   
@@ -26450,7 +26459,7 @@
       "title"    : "Seznam kategorií",
       "url"      : "//kategorie/",
       "category" : "stránka",
-      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 235 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 74 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
+      "content"  : "Seznam kategorií a jejich počet článkůSeznam kategorií ve formátu YAML:categories_count: - Umělá inteligence: 6 - AI: 236 - UMTS: 8 - 3G: 11 - Turboúvod do mobilních sítí: 8 - Historie: 6 - Startupy: 36 - Mobilní sítě: 44 - SMS: 3 - Média: 30 - Apple: 109 - Příběhy: 41 - Sociální sítě: 65 - Knihy: 24 - eKnihy: 7 - Konference: 4 - Twitter: 3 - Video: 5 - iPhone: 20 - Flash: 3 - O2: 3 - Google: 75 - Nova: 4 - Weblogy: 8 - Ufon: 6 - CDMA: 6 - LTE: 10 - 4G: 6..."
     }
     
   
