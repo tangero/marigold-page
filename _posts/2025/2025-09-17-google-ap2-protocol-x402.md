@@ -19,7 +19,7 @@ summary_points:
 title: Google představil platební protokol AP2 s podporou stablecoinů pro AI agenty
 ---
 
-Google představil Agent Payments Protocol (AP2), otevřený protokol umožňující AI agentům provádět bezpečné platby jménem uživatelů. Novinka rozšiřuje již existující Agent2Agent (A2A) protokol o klíčovou platební funkcionalitu a získala podporu více než 60 technologických a finančních společností včetně Mastercard, PayPal, American Express, Coinbase a Ethereum Foundation. Protokol je také zajímavý kokotováním Google s kryptoměnovou scénou, navíc velmi dobře pochopitelným. 
+Google představil Agent Payments Protocol (AP2), otevřený protokol umožňující AI agentům provádět bezpečné platby jménem uživatelů. Novinka rozšiřuje již existující Agent2Agent (A2A) protokol o klíčovou platební funkcionalitu a získala podporu více než 60 technologických a finančních společností včetně Mastercard, PayPal, American Express, Coinbase a Ethereum Foundation. Protokol je také zajímavým koketováním Google s kryptoměnovou scénou, navíc velmi dobře pochopitelným. 
 
 AP2 řeší základní problém současných AI agentů, kteří dokážou najít produkty, porovnat ceny nebo připravit nákupní košík, ale nemohou dokončit transakci. Nový protokol vytváří standardizovaný rámec pro bezpečné provedení platby přímo agentem bez nutnosti lidského zásahu při každé transakci.
 
