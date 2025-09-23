@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD:_tech_news/2025-09-23-03-Goodnotes-predstavuje-kolaborativni-dokumenty-a-AI.md
 category: ai
 date: '2025-09-23 15:31:31'
+=======
+category: mobile
+date: '2025-09-23 15:07:23'
+>>>>>>> 6c86109e39deab9b0c380aefe9ce803b5dcd9bc0:_tech_news/2025-09-23-03-Goodnotes-představuje-kolaborativní-dokumenty-a-AI.md
 description: Aplikace na poznámky Goodnotes spouští nové funkce pro profesionální
   uživatele.
 importance: 2
