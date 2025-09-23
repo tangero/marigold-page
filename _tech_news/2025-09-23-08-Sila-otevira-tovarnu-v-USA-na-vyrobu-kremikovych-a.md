@@ -1,7 +1,7 @@
 ---
 category: hardware
-date: '2025-09-23 14:53:56'
-description: Sila stavěla tento závod v Moses Lake ve Washingtonu téměř dva roky.
+date: '2025-09-23 15:31:31'
+description: Sila budovala zařízení v Moses Lake ve státě Washington téměř dva roky.
   Nyní je připravena zahájit hromadnou výrobu.
 importance: 3
 layout: tech_news_article
@@ -18,7 +18,7 @@ url: https://techcrunch.com/2025/09/23/sila-opens-u-s-factory-to-make-silicon-an
 urlToImage: null
 ---
 
-Sila stavěla tento závod v Moses Lake ve Washingtonu téměř dva roky. Nyní je připravena zahájit hromadnou výrobu.
+Sila budovala zařízení v Moses Lake ve státě Washington téměř dva roky. Nyní je připravena zahájit hromadnou výrobu.
 
 [Číst původní článek](https://techcrunch.com/2025/09/23/sila-opens-u-s-factory-to-make-silicon-anodes-for-energy-dense-ev-batteries/)
 

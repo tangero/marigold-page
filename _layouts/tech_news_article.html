@@ -1,0 +1,204 @@
+---
+layout: default
+---
+
+<article class="tech-news-article">
+  <header class="article-header">
+    <div class="source-info">
+      <span class="source-emoji">{{ page.source.emoji }}</span>
+      <span class="source-name">{{ page.source.name }}</span>
+      <div class="importance-indicator importance-{{ page.importance }}">
+        {% assign stars = page.importance %}
+        {% for i in (1..5) %}
+          {% if i <= stars %}
+            <span class="star filled">★</span>
+          {% else %}
+            <span class="star">☆</span>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+
+    <h1 class="article-title">{{ page.title }}</h1>
+
+    <div class="article-meta">
+      <time datetime="{{ page.publishedAt }}">{{ page.publishedAt | date: "%d.%m.%Y %H:%M" }}</time>
+      <span class="category category-{{ page.category }}">{{ page.category }}</span>
+    </div>
+  </header>
+
+  {% if page.urlToImage %}
+  <div class="article-image">
+    <img src="{{ page.urlToImage }}" alt="{{ page.title }}" loading="lazy">
+  </div>
+  {% endif %}
+
+  <div class="article-content">
+    {{ content }}
+  </div>
+
+  <footer class="article-footer">
+    <a href="{{ page.url }}" target="_blank" rel="noopener" class="read-more-btn">
+      Číst původní článek
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M7 17L17 7M17 7H7M17 7V17"/>
+      </svg>
+    </a>
+
+    {% if page.original_title != page.title %}
+    <div class="original-title">
+      <small>Původní název: {{ page.original_title }}</small>
+    </div>
+    {% endif %}
+  </footer>
+</article>
+
+<style>
+.tech-news-article {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.article-header {
+  margin-bottom: 2rem;
+}
+
+.source-info {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.source-emoji {
+  font-size: 1.5rem;
+}
+
+.source-name {
+  font-weight: 600;
+  color: #374151;
+}
+
+.importance-indicator {
+  display: flex;
+  gap: 2px;
+  margin-left: auto;
+}
+
+.importance-indicator .star {
+  color: #fbbf24;
+  font-size: 1.2rem;
+}
+
+.importance-indicator .star:not(.filled) {
+  color: #d1d5db;
+}
+
+.article-title {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  color: #111827;
+}
+
+.article-meta {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 0.875rem;
+  color: #6b7280;
+}
+
+.category {
+  padding: 0.25rem 0.75rem;
+  border-radius: 1rem;
+  font-weight: 500;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.category-ai { background: #dbeafe; color: #1e40af; }
+.category-startups { background: #ecfdf5; color: #059669; }
+.category-hardware { background: #fef3c7; color: #d97706; }
+.category-mobile { background: #e5e7eb; color: #374151; }
+.category-security { background: #fef2f2; color: #dc2626; }
+.category-science { background: #f3e8ff; color: #7c3aed; }
+.category-programming { background: #f0f9ff; color: #0284c7; }
+.category-gaming { background: #fdf4ff; color: #c026d3; }
+.category-social { background: #f0fdf4; color: #16a34a; }
+.category-business { background: #fff7ed; color: #ea580c; }
+
+.article-image {
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.article-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.article-content {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  color: #374151;
+  margin-bottom: 2rem;
+}
+
+.article-footer {
+  border-top: 1px solid #e5e7eb;
+  padding-top: 1.5rem;
+}
+
+.read-more-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: #3b82f6;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.read-more-btn:hover {
+  background: #2563eb;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.4);
+}
+
+.original-title {
+  margin-top: 1rem;
+  color: #6b7280;
+}
+
+@media (max-width: 640px) {
+  .tech-news-article {
+    margin: 1rem;
+    padding: 1.5rem;
+  }
+
+  .article-title {
+    font-size: 1.5rem;
+  }
+
+  .source-info {
+    flex-wrap: wrap;
+  }
+
+  .importance-indicator {
+    margin-left: 0;
+    margin-top: 0.5rem;
+  }
+}
+</style>
